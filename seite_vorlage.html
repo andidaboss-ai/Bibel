@@ -1,0 +1,134 @@
+<title>Bibel in leichter Sprache</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Literata:opsz,wght@7..72,500;7..72,700&display=swap">
+<style>
+/* Layout: eine ruhige Lesespalte, oben eine klebende Kapitelauswahl, Erklärungen als farbig abgesetzte Kästen */
+:root {
+  --bg: #f5f6f2;
+  --fg: #1e2420;
+  --leise: #5b655e;
+  --akzent: #2d6a58;
+  --kasten: #e6efe9;
+  --linie: #d5ddd7;
+  --kopf: rgba(245,246,242,.94);
+  --schrift: "Atkinson Hyperlegible", "Segoe UI", Verdana, sans-serif;
+  --titel: "Literata", Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161a18; --fg: #e4e9e5; --leise: #9aa59e; --akzent: #7fc4ad;
+    --kasten: #1f2a25; --linie: #2e3833; --kopf: rgba(22,26,24,.94); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161a18; --fg: #e4e9e5; --leise: #9aa59e; --akzent: #7fc4ad;
+  --kasten: #1f2a25; --linie: #2e3833; --kopf: rgba(22,26,24,.94); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: var(--schrift); font-size: 1.2rem; line-height: 1.7;
+  padding: 0 16px; margin: 0;
+}
+.wrap { max-width: 38rem; margin: 0 auto; padding-block: 0 4rem; }
+header.seite { padding-block: 2.2rem 1rem; display: grid; gap: .4rem; }
+header.seite h1 { font-family: var(--titel); font-weight: 700; font-size: 2rem; line-height: 1.2; margin: 0; text-wrap: balance; }
+header.seite p { margin: 0; color: var(--leise); font-size: 1rem; }
+nav.wahl {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 2;
+  background: var(--kopf); backdrop-filter: blur(6px);
+  padding-block: .7rem; border-bottom: 1px solid var(--linie);
+  display: flex; gap: .5rem; align-items: center;
+}
+nav.wahl select {
+  flex: 1; min-width: 0; font: inherit; font-size: 1rem;
+  padding: .55rem .7rem; border-radius: 8px; border: 1px solid var(--linie);
+  background: var(--bg); color: var(--fg);
+}
+nav.wahl button, .weiter button {
+  font: inherit; font-size: 1rem; font-weight: 700; cursor: pointer;
+  padding: .55rem .9rem; border-radius: 8px; border: 1px solid var(--akzent);
+  background: transparent; color: var(--akzent);
+}
+nav.wahl button:disabled, .weiter button:disabled { opacity: .35; cursor: default; }
+button:focus-visible, select:focus-visible { outline: 3px solid var(--akzent); outline-offset: 2px; }
+.kapitel { display: grid; gap: 0; }
+h2.kap { font-family: var(--titel); font-size: 1.75rem; font-weight: 700; margin: 2rem 0 .1rem; text-wrap: balance; }
+p.unter { font-family: var(--titel); font-size: 1.2rem; color: var(--akzent); margin: 0 0 .5rem; }
+h3 {
+  font-family: var(--titel); font-size: 1.3rem; font-weight: 500; margin: 2.2rem 0 .4rem;
+  padding-top: 1.2rem; border-top: 1px solid var(--linie); text-wrap: balance;
+}
+p { margin: 0 0 1rem; }
+sup.v { font-size: .62em; font-weight: 700; color: var(--akzent); margin-right: .2em; vertical-align: .55em; line-height: 0; font-variant-numeric: tabular-nums; }
+aside.erkl {
+  background: var(--kasten); border-radius: 10px; padding: 1rem 1.15rem .2rem;
+  margin: .4rem 0 .6rem; font-size: 1.05rem; line-height: 1.65;
+}
+aside.erkl h4 {
+  margin: 0 0 .5rem; font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--akzent);
+}
+aside.erkl p { margin: 0 0 .7rem; }
+.tab { overflow-x: auto; margin: 0 0 1rem; }
+table { border-collapse: collapse; width: 100%; font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid var(--linie); }
+th { font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--leise); }
+.weiter { display: flex; justify-content: space-between; gap: .5rem; margin-top: 2rem; flex-wrap: wrap; }
+footer { color: var(--leise); font-size: .9rem; margin-top: 3rem; border-top: 1px solid var(--linie); padding-top: 1rem; }
+</style>
+
+<div class="wrap">
+  <header class="seite">
+    <h1>Die Bibel in leichter Sprache</h1>
+    <p>Bibeltext in einfachen Worten, dazu bei jedem Abschnitt eine kurze Erklärung. Bisher {{ANZAHL}} Kapitel.</p>
+  </header>
+
+  <nav class="wahl" aria-label="Kapitel wählen">
+    <button id="zurueck" type="button" aria-label="Voriges Kapitel">‹</button>
+    <select id="kapitelwahl" aria-label="Kapitel">
+{{OPTIONEN}}
+    </select>
+    <button id="vor" type="button" aria-label="Nächstes Kapitel">›</button>
+  </nav>
+
+  <main id="inhalt">
+{{INHALT}}
+  </main>
+
+  <div class="weiter">
+    <button id="zurueck2" type="button">‹ Voriges Kapitel</button>
+    <button id="vor2" type="button">Nächstes Kapitel ›</button>
+  </div>
+
+  <footer>Grundlage: World English Bible (gemeinfrei). Übertragung in leichte Sprache mit Erklärungen.</footer>
+</div>
+
+<script>
+(function () {
+  var wahl = document.getElementById("kapitelwahl");
+  var alle = Array.prototype.slice.call(document.querySelectorAll(".kapitel"));
+  function zeige(i, scrollen) {
+    i = Math.max(0, Math.min(alle.length - 1, i));
+    alle.forEach(function (a, j) { a.hidden = j !== i; });
+    wahl.selectedIndex = i;
+    ["zurueck", "zurueck2"].forEach(function (id) { document.getElementById(id).disabled = i === 0; });
+    ["vor", "vor2"].forEach(function (id) { document.getElementById(id).disabled = i === alle.length - 1; });
+    try { localStorage.setItem("bibel-kapitel", alle[i].id); } catch (e) {}
+    if (scrollen) window.scrollTo({ top: 0 });
+  }
+  var start = 0;
+  try {
+    var gemerkt = localStorage.getItem("bibel-kapitel");
+    alle.forEach(function (a, j) { if (a.id === gemerkt) start = j; });
+  } catch (e) {}
+  wahl.addEventListener("change", function () { zeige(wahl.selectedIndex, true); });
+  ["zurueck", "zurueck2"].forEach(function (id) {
+    document.getElementById(id).addEventListener("click", function () { zeige(wahl.selectedIndex - 1, true); });
+  });
+  ["vor", "vor2"].forEach(function (id) {
+    document.getElementById(id).addEventListener("click", function () { zeige(wahl.selectedIndex + 1, true); });
+  });
+  zeige(start, false);
+})();
+</script>
