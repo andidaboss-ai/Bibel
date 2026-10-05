@@ -12270,3 +12270,478 @@ Es waren Tafeln aus Stein, mit dem Finger Gottes beschrieben.
 > Hier enden die vielen Anweisungen, die Gott Mose auf dem Berg gegeben hat (seit Kapitel 25).
 > „Mit dem Finger Gottes beschrieben“ heißt: Diese Worte kommen direkt von Gott. Nicht Mose hat sie sich ausgedacht.
 > Aber während Mose oben auf dem Berg war, ist unten im Lager etwas Schlimmes passiert. Davon erzählt das nächste Kapitel.
+
+## 2. Mose – Kapitel 32
+#### Das goldene Kalb
+
+---
+
+### Das Volk macht sich ein goldenes Kalb (Vers 1–6)
+
+<sup>1</sup>Das Volk sah, dass Mose lange nicht vom Berg herunterkam.
+Da versammelten sich die Leute bei Aaron und sagten zu ihm:
+„Los, mach uns Götter, die vor uns herziehen!
+Denn wir wissen nicht, was mit diesem Mose passiert ist,
+mit dem Mann, der uns aus dem Land Ägypten heraufgeführt hat.“
+<sup>2</sup>Aaron sagte zu ihnen:
+„Nehmt die goldenen Ringe ab, die eure Frauen, eure Söhne und eure Töchter in den Ohren tragen.
+Und bringt sie zu mir.“
+<sup>3</sup>Da nahm das ganze Volk die goldenen Ringe aus den Ohren und brachte sie zu Aaron.
+<sup>4</sup>Aaron nahm das Gold aus ihren Händen.
+Er formte es mit einem Werkzeug und machte daraus ein gegossenes Kalb.
+Da sagten sie: „Das sind deine Götter, Israel, die dich aus dem Land Ägypten heraufgeführt haben!“
+
+<sup>5</sup>Als Aaron das sah, baute er einen Altar vor dem Kalb.
+Und Aaron ließ ausrufen: „Morgen ist ein Fest für den HERRN!“
+<sup>6</sup>Am nächsten Tag standen sie früh auf.
+Sie brachten Brandopfer dar und brachten Gemeinschaftsopfer.
+Dann setzte sich das Volk hin, um zu essen und zu trinken.
+Und danach standen sie auf, um sich zu vergnügen.
+
+> **Was bedeutet das?**
+> Mose ist schon 40 Tage auf dem Berg (2. Mose 24,18). Das Volk wird ungeduldig. Es will etwas sehen und anfassen können.
+> Ein Kalb oder junger Stier war in Ägypten und in Kanaan ein Zeichen für Kraft und Fruchtbarkeit. Viele Völker verehrten Götter in Gestalt eines Stiers.
+> Besonders erschreckend: Sie sagen, dieses Kalb habe sie aus Ägypten befreit. Und Aaron nennt das Fest ein „Fest für den HERRN“. Sie wollen Gott nicht ganz verlassen. Aber sie machen sich ein Bild von ihm – genau das, was Gott gerade verboten hat (2. Mose 20,4).
+> Nur wenige Wochen, nachdem sie Gottes Stimme gehört und „Alles wollen wir tun“ gesagt haben (2. Mose 24,3), brechen sie den Bund.
+> „Sich vergnügen“ – das hebräische Wort kann auch wildes Feiern und Tanzen meinen.
+
+---
+
+### Gott ist zornig – Mose bittet für das Volk (Vers 7–14)
+
+<sup>7</sup>Der HERR sprach zu Mose:
+„Geh, steig hinunter!
+Denn dein Volk, das du aus dem Land Ägypten heraufgeführt hast, hat Böses getan.
+<sup>8</sup>Sie sind schnell von dem Weg abgewichen, den ich ihnen befohlen habe.
+Sie haben sich ein gegossenes Kalb gemacht.
+Sie haben sich vor ihm niedergeworfen und ihm Opfer gebracht.
+Und sie haben gesagt: ‚Das sind deine Götter, Israel, die dich aus dem Land Ägypten heraufgeführt haben.‘“
+<sup>9</sup>Weiter sagte der HERR zu Mose:
+„Ich habe dieses Volk gesehen.
+Schau: Es ist ein Volk mit einem harten Nacken.
+<sup>10</sup>Darum lass mich jetzt!
+Mein Zorn soll gegen sie entbrennen, und ich will sie vernichten.
+Aber dich will ich zu einem großen Volk machen.“
+
+<sup>11</sup>Doch Mose flehte den HERRN, seinen Gott, an. Er sagte:
+„HERR, warum soll dein Zorn gegen dein Volk entbrennen?
+Du hast es doch mit großer Kraft und mit starker Hand aus dem Land Ägypten herausgeführt.
+<sup>12</sup>Warum sollen die Ägypter sagen:
+‚Er hat sie in böser Absicht herausgeführt.
+Er wollte sie in den Bergen töten und sie von der Erde vertilgen‘?
+Lass ab von deinem glühenden Zorn.
+Und lass das Unheil nicht über dein Volk kommen.
+<sup>13</sup>Denk an Abraham, Isaak und Israel, deine Diener.
+Du hast ihnen bei dir selbst geschworen und zu ihnen gesagt:
+‚Ich will eure Nachkommen so zahlreich machen wie die Sterne am Himmel.
+Und dieses ganze Land, von dem ich gesprochen habe, will ich euren Nachkommen geben.
+Sie sollen es für immer besitzen.‘“
+<sup>14</sup>Da ließ der HERR von dem Unheil ab, das er seinem Volk angedroht hatte.
+
+> **Was bedeutet das?**
+> Gott sagt zu Mose „dein Volk“, nicht „mein Volk“. Es klingt, als wolle Gott sich von Israel trennen.
+> „Ein Volk mit einem harten Nacken“ ist ein Bild aus der Landwirtschaft: ein Rind, das den Nacken steif macht und sich nicht führen lässt. Gemeint ist: stur und eigensinnig.
+> Gott bietet Mose an, mit ihm neu anzufangen – wie damals mit Abraham. Aber Mose lehnt ab. Er setzt sich für das Volk ein.
+> Mose bringt drei Gründe: Es ist doch dein Volk. Was sollen die Ägypter von dir denken? Und denk an deine Versprechen an Abraham, Isaak und Jakob.
+> „Da ließ der HERR von dem Unheil ab“ – das ist eine erstaunliche Stelle. Das Gebet eines Menschen ist Gott wichtig. Es verändert etwas. Die Bibel zeigt hier: Gott will nicht vernichten. Er wartet darauf, dass jemand für die Schuldigen eintritt.
+
+---
+
+### Mose zerbricht die Tafeln (Vers 15–20)
+
+<sup>15</sup>Mose wandte sich um und stieg vom Berg hinunter.
+In seiner Hand hatte er die zwei Tafeln des Bundes.
+Die Tafeln waren auf beiden Seiten beschrieben, auf der Vorderseite und auf der Rückseite.
+<sup>16</sup>Die Tafeln waren das Werk Gottes.
+Und die Schrift war die Schrift Gottes, in die Tafeln eingraviert.
+
+<sup>17</sup>Josua hörte den Lärm des Volkes, wie es schrie.
+Da sagte er zu Mose: „Im Lager ist Kriegslärm!“
+<sup>18</sup>Mose antwortete:
+„Das ist nicht das Geschrei von Siegern.
+Und es ist nicht das Geschrei von Besiegten.
+Ich höre Leute, die singen.“
+
+<sup>19</sup>Als Mose nah an das Lager kam, sah er das Kalb und die Tänze.
+Da wurde Mose zornig.
+Er warf die Tafeln aus seinen Händen und zerbrach sie unten am Berg.
+<sup>20</sup>Er nahm das Kalb, das sie gemacht hatten, und verbrannte es im Feuer.
+Er zermahlte es zu Staub, streute ihn auf das Wasser
+und ließ die Israeliten davon trinken.
+
+> **Was bedeutet das?**
+> Die Tafeln waren Gottes eigene Handschrift. Mose zerbricht sie. Das ist ein Zeichen: Der Bund ist gebrochen. Das Volk hat ihn schon gebrochen, bevor die Tafeln überhaupt ankommen.
+> Das Kalb wird verbrannt, zermahlen und ins Wasser gestreut. Das Volk muss es trinken. So erleben sie: Dieser „Gott“ ist nichts. Man kann ihn zerstören und schlucken. Und sie müssen die Folgen ihrer Tat selbst „schlucken“.
+
+---
+
+### Aarons Ausrede (Vers 21–24)
+
+<sup>21</sup>Mose sagte zu Aaron:
+„Was hat dir dieses Volk getan, dass du so eine große Sünde über sie gebracht hast?“
+<sup>22</sup>Aaron antwortete:
+„Mein Herr soll nicht zornig werden.
+Du kennst doch das Volk. Es ist auf Böses aus.
+<sup>23</sup>Sie haben zu mir gesagt:
+‚Mach uns Götter, die vor uns herziehen.
+Denn wir wissen nicht, was mit diesem Mose passiert ist,
+mit dem Mann, der uns aus dem Land Ägypten heraufgeführt hat.‘
+<sup>24</sup>Da habe ich zu ihnen gesagt:
+‚Wer Gold hat, soll es abnehmen.‘
+Und sie haben es mir gegeben.
+Ich habe es ins Feuer geworfen, und heraus kam dieses Kalb.“
+
+> **Was bedeutet das?**
+> Aarons Ausrede ist fast lächerlich: „Ich habe das Gold ins Feuer geworfen, und heraus kam dieses Kalb.“ Als hätte es sich von allein gemacht. Dabei hat er es selbst geformt (Vers 4).
+> So reden Menschen oft, wenn sie Fehler gemacht haben: Die anderen sind schuld, und es ist einfach so passiert. Die Bibel zeigt hier ehrlich: Auch Aaron, der Hohepriester, hat versagt.
+
+---
+
+### Die Leviten und die Bestrafung (Vers 25–29)
+
+<sup>25</sup>Mose sah, dass das Volk außer Kontrolle war.
+Denn Aaron hatte ihm die Zügel schießen lassen, sodass ihre Feinde über sie spotten konnten.
+<sup>26</sup>Da stellte sich Mose in das Tor des Lagers und rief:
+„Wer für den HERRN ist, der komme zu mir!“
+Da versammelten sich alle Leviten bei ihm.
+<sup>27</sup>Er sagte zu ihnen:
+„So spricht der HERR, der Gott Israels:
+‚Jeder binde sein Schwert an seine Hüfte.
+Geht durch das Lager hin und her, von Tor zu Tor.
+Und jeder töte seinen Bruder, seinen Freund und seinen Nachbarn.‘“
+<sup>28</sup>Die Leviten taten, was Mose gesagt hatte.
+An diesem Tag fielen vom Volk etwa 3000 Männer.
+<sup>29</sup>Mose sagte:
+„Weiht euch heute dem HERRN.
+Denn jeder von euch war gegen seinen Sohn und gegen seinen Bruder.
+So soll er euch heute Segen geben.“
+
+> **Was bedeutet das?**
+> Das ist eine der schwersten Stellen in der Bibel. 3000 Männer werden getötet, von ihren eigenen Verwandten.
+> Man muss sie aus ihrer Zeit verstehen. Der Bund mit Gott war gerade erst geschlossen. Der Götzendienst bedrohte das Leben des ganzen Volkes. Die Bibel sieht ihn als Verrat, so schlimm wie Hochverrat in einem Krieg. Die Bestrafung traf vermutlich die, die nicht aufhören wollten.
+> Trotzdem bleibt diese Geschichte erschreckend. Juden und Christen haben lange darüber nachgedacht. Sie ist keine Anleitung, heute Gewalt im Namen Gottes auszuüben. Jesus hat Gewalt im Namen Gottes abgelehnt (Matthäus 26,52).
+> Der Stamm Levi stellt sich ganz auf Gottes Seite. Darum werden die Leviten später die Diener am Heiligtum (4. Mose 3).
+
+---
+
+### Mose will für das Volk eintreten (Vers 30–35)
+
+<sup>30</sup>Am nächsten Tag sagte Mose zum Volk:
+„Ihr habt eine große Sünde begangen.
+Jetzt will ich zum HERRN hinaufsteigen.
+Vielleicht kann ich Versöhnung für eure Sünde erreichen.“
+<sup>31</sup>Mose ging zum HERRN zurück und sagte:
+„Ach, dieses Volk hat eine große Sünde begangen.
+Sie haben sich Götter aus Gold gemacht.
+<sup>32</sup>Und doch: Vergib ihnen bitte ihre Sünde!
+Wenn nicht, dann streich mich bitte aus deinem Buch, das du geschrieben hast.“
+<sup>33</sup>Der HERR sagte zu Mose:
+„Wer gegen mich gesündigt hat, den streiche ich aus meinem Buch.
+<sup>34</sup>Und jetzt geh!
+Führe das Volk an den Ort, von dem ich dir gesagt habe.
+Schau: Mein Engel wird vor dir hergehen.
+Aber an dem Tag, an dem ich sie zur Rechenschaft ziehe, werde ich sie für ihre Sünde bestrafen.“
+<sup>35</sup>Und der HERR schlug das Volk,
+weil sie das Kalb gemacht hatten, das Aaron gemacht hatte.
+
+> **Was bedeutet das?**
+> Mose ist bereit, sein eigenes Leben für das Volk zu geben. „Streich mich aus deinem Buch“ heißt: Lieber will ich selbst verloren sein, als dass mein Volk verloren geht.
+> Das „Buch“ ist ein Bild für das Buch des Lebens. Darin stehen die Namen der Menschen, die zu Gott gehören.
+> Gott nimmt das Angebot nicht an. Jeder ist für seine eigene Schuld verantwortlich.
+> Christen sehen hier einen Hinweis auf Jesus: Er hat getan, was Mose angeboten hat. Er hat sein Leben für die Schuld der anderen gegeben. Auch Paulus sagte etwas Ähnliches wie Mose über sein Volk (Römer 9,3).
+> Wie Gott das Volk „schlug“, wird nicht gesagt. Vielleicht war es eine Krankheit.
+
+## 2. Mose – Kapitel 33
+#### Geht Gott noch mit? Mose will Gottes Herrlichkeit sehen
+
+---
+
+### „Ich gehe nicht mit euch“ (Vers 1–6)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+„Brich auf, zieh von hier hinauf,
+du und das Volk, das du aus dem Land Ägypten heraufgeführt hast.
+Zieht in das Land, das ich Abraham, Isaak und Jakob mit einem Schwur versprochen habe.
+Ich habe gesagt: ‚Deinen Nachkommen will ich es geben.‘
+<sup>2</sup>Ich will einen Engel vor dir hersenden.
+Und ich will die Kanaaniter, die Amoriter, die Hetiter, die Perisiter, die Hiwiter und die Jebusiter vertreiben.
+<sup>3</sup>Zieht in ein Land, in dem Milch und Honig fließen.
+Aber ich selbst werde nicht in eurer Mitte mitziehen.
+Denn ihr seid ein Volk mit einem harten Nacken.
+Sonst müsste ich euch unterwegs vernichten.“
+
+<sup>4</sup>Als das Volk diese schlimme Nachricht hörte, trauerten sie.
+Und niemand legte seinen Schmuck an.
+<sup>5</sup>Der HERR hatte nämlich zu Mose gesagt:
+„Sag zu den Israeliten:
+‚Ihr seid ein Volk mit einem harten Nacken.
+Wenn ich nur einen Augenblick in eurer Mitte mitziehen würde, würde ich euch vernichten.
+Darum legt jetzt euren Schmuck ab.
+Dann will ich sehen, was ich mit euch mache.‘“
+<sup>6</sup>Da legten die Israeliten ihren Schmuck ab, vom Berg Horeb an.
+
+> **Was bedeutet das?**
+> Gott hält sein Versprechen: Das Volk bekommt das Land. Aber Gott selbst will nicht mitgehen. Nur ein Engel soll sie führen.
+> Das klingt zuerst gar nicht so schlimm. Aber das Volk versteht: Das Land ohne Gott ist nichts wert. Darum trauert es.
+> Gott sagt: Meine Nähe wäre für euch gefährlich. Ein heiliger Gott und ein Volk, das sich gegen ihn stellt – das passt nicht zusammen.
+> Den Schmuck abzulegen ist ein Zeichen der Trauer und der Reue. Aus Schmuck hatten sie ja das goldene Kalb gemacht.
+> Horeb ist ein anderer Name für den Berg Sinai.
+
+---
+
+### Das Zelt der Begegnung außerhalb des Lagers (Vers 7–11)
+
+<sup>7</sup>Mose nahm immer das Zelt und schlug es außerhalb des Lagers auf, weit weg vom Lager.
+Er nannte es „Zelt der Begegnung“.
+Jeder, der den HERRN suchte, ging hinaus zum Zelt der Begegnung, das außerhalb des Lagers war.
+<sup>8</sup>Wenn Mose zum Zelt hinausging, stand das ganze Volk auf.
+Jeder stellte sich an den Eingang seines Zeltes.
+Und sie schauten Mose nach, bis er in das Zelt hineingegangen war.
+<sup>9</sup>Wenn Mose in das Zelt ging, kam die Wolkensäule herab und blieb am Eingang des Zeltes stehen.
+Und der HERR redete mit Mose.
+<sup>10</sup>Das ganze Volk sah die Wolkensäule am Eingang des Zeltes stehen.
+Dann stand das ganze Volk auf und warf sich nieder, jeder am Eingang seines Zeltes.
+<sup>11</sup>Der HERR redete mit Mose von Angesicht zu Angesicht,
+so wie ein Mensch mit seinem Freund redet.
+Danach ging Mose wieder ins Lager zurück.
+Aber sein Diener Josua, der Sohn von Nun, ein junger Mann, wich nicht aus dem Zelt.
+
+> **Was bedeutet das?**
+> Das ist noch nicht das große Heiligtum, das in den Kapiteln 25–31 beschrieben wird. Das wird erst später gebaut. Hier geht es um ein einfacheres Zelt, in dem Mose Gott begegnet.
+> Das Zelt steht jetzt außerhalb des Lagers. Das zeigt: Gott ist auf Abstand gegangen. Wer ihn sucht, muss hinausgehen.
+> „Wie ein Mensch mit seinem Freund redet“ – so nah ist Mose mit Gott. „Von Angesicht zu Angesicht“ heißt hier: ganz direkt und vertraut. Dass Mose Gottes Gesicht nicht wirklich sehen kann, sagt Vers 20.
+> Josua bleibt im Zelt. Er lernt schon jetzt, Gott nahe zu sein. Später wird er der Nachfolger von Mose.
+
+---
+
+### Mose bittet: Geh mit uns! (Vers 12–17)
+
+<sup>12</sup>Mose sagte zum HERRN:
+„Schau: Du sagst zu mir: ‚Führe dieses Volk hinauf.‘
+Aber du hast mich nicht wissen lassen, wen du mit mir schicken willst.
+Dabei hast du gesagt: ‚Ich kenne dich mit Namen,
+und du hast Gnade in meinen Augen gefunden.‘
+<sup>13</sup>Wenn ich also Gnade in deinen Augen gefunden habe,
+dann zeig mir bitte deinen Weg.
+Dann kann ich dich kennen und Gnade in deinen Augen finden.
+Und bedenke: Dieses Volk ist dein Volk.“
+<sup>14</sup>Er antwortete: „Meine Gegenwart wird mitgehen.
+Und ich werde dir Ruhe geben.“
+<sup>15</sup>Mose sagte zu ihm:
+„Wenn deine Gegenwart nicht mitgeht, dann führ uns nicht von hier weg.
+<sup>16</sup>Denn woran soll man sonst erkennen, dass ich und dein Volk Gnade in deinen Augen gefunden haben?
+Doch nur daran, dass du mit uns gehst!
+Dadurch sind ich und dein Volk von allen Völkern auf der Erde unterschieden.“
+<sup>17</sup>Der HERR sagte zu Mose:
+„Auch das, was du jetzt gesagt hast, will ich tun.
+Denn du hast Gnade in meinen Augen gefunden, und ich kenne dich mit Namen.“
+
+> **Was bedeutet das?**
+> Mose gibt nicht auf. Er erinnert Gott: „Dieses Volk ist dein Volk.“ Gott hatte ja in Kapitel 32 gesagt: „dein Volk“, also das Volk von Mose. Mose gibt es Gott zurück.
+> „Meine Gegenwart wird mitgehen“ heißt: Ich selbst gehe mit, nicht nur ein Engel. Im Hebräischen steht wörtlich: „Mein Angesicht wird mitgehen.“
+> Mose sagt: Ohne dich wollen wir gar nicht losgehen. Das Besondere an Israel ist nicht das Land oder die Macht. Das Besondere ist, dass Gott mit ihm geht.
+> Und Gott lässt sich bitten. Wieder zeigt die Bibel: Das Gebet von Mose verändert etwas.
+
+---
+
+### Mose will Gottes Herrlichkeit sehen (Vers 18–23)
+
+<sup>18</sup>Mose sagte: „Lass mich bitte deine Herrlichkeit sehen!“
+<sup>19</sup>Er antwortete:
+„Ich will meine ganze Güte an dir vorüberziehen lassen.
+Und ich will vor dir den Namen des HERRN ausrufen.
+Ich bin gnädig, wem ich gnädig bin.
+Und ich bin barmherzig, wem ich barmherzig bin.“
+<sup>20</sup>Und er sagte weiter:
+„Mein Angesicht kannst du nicht sehen.
+Denn kein Mensch kann mich sehen und am Leben bleiben.“
+<sup>21</sup>Der HERR sagte auch:
+„Schau, hier ist ein Platz bei mir. Stell dich auf den Felsen.
+<sup>22</sup>Wenn meine Herrlichkeit vorüberzieht, stelle ich dich in eine Felsspalte.
+Und ich halte meine Hand über dich, bis ich vorübergegangen bin.
+<sup>23</sup>Dann ziehe ich meine Hand weg.
+Und du wirst mich von hinten sehen.
+Aber mein Angesicht kann man nicht sehen.“
+
+> **Was bedeutet das?**
+> Mose wünscht sich das Größte, was ein Mensch sich wünschen kann: Gott selbst zu sehen.
+> Gott antwortet mit seiner „Güte“. Das zeigt: Gottes Herrlichkeit besteht vor allem in seiner Güte.
+> „Ich bin gnädig, wem ich gnädig bin“ heißt: Gottes Gnade ist ein Geschenk. Niemand kann sie verdienen oder erzwingen. Gott schenkt sie frei.
+> Kein Mensch kann Gottes Angesicht sehen. Gott ist zu groß, zu heilig für unsere Augen. Aber Gott schützt Mose mit seiner Hand und zeigt ihm so viel, wie er ertragen kann.
+> „Von hinten sehen“ – vielleicht heißt das: Man erkennt Gott oft erst im Nachhinein, an den Spuren, die er hinterlassen hat.
+> Im Neuen Testament heißt es: „Niemand hat Gott je gesehen. Der einzige Sohn hat ihn uns gezeigt“ (Johannes 1,18). Christen glauben: In Jesus kann man sehen, wie Gott ist.
+
+## 2. Mose – Kapitel 34
+#### Neue Tafeln – Gott sagt, wer er ist – Moses leuchtendes Gesicht
+
+---
+
+### Zwei neue Tafeln (Vers 1–4)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Hau dir zwei Tafeln aus Stein zurecht, wie die ersten.
+Ich will auf die Tafeln die Worte schreiben, die auf den ersten Tafeln standen, die du zerbrochen hast.
+<sup>2</sup>Sei bereit bis zum Morgen.
+Steig am Morgen auf den Berg Sinai
+und stell dich dort oben auf dem Gipfel des Berges vor mich hin.
+<sup>3</sup>Niemand soll mit dir hinaufsteigen.
+Niemand soll irgendwo auf dem Berg zu sehen sein.
+Auch die Schafe, Ziegen und Rinder sollen nicht vor diesem Berg weiden.“
+<sup>4</sup>Da haute Mose zwei Tafeln aus Stein zurecht, wie die ersten.
+Am Morgen stand Mose früh auf und stieg auf den Berg Sinai, wie der HERR es ihm befohlen hatte.
+Und er nahm die zwei Tafeln aus Stein in seine Hand.
+
+> **Was bedeutet das?**
+> Gott gibt dem Volk eine zweite Chance. Der Bund wird erneuert.
+> Diesmal muss Mose die Steintafeln selbst zurechthauen. Aber die Worte schreibt wieder Gott.
+
+---
+
+### Gott sagt, wer er ist (Vers 5–9)
+
+<sup>5</sup>Der HERR kam in der Wolke herab.
+Er stellte sich dort neben ihn und rief den Namen des HERRN aus.
+<sup>6</sup>Der HERR ging an ihm vorüber und rief:
+„Der HERR! Der HERR!
+Ein barmherziger und gnädiger Gott,
+langsam zum Zorn und reich an Liebe und Treue.
+<sup>7</sup>Er bewahrt Liebe für Tausende.
+Er vergibt Schuld, Ungehorsam und Sünde.
+Aber er lässt den Schuldigen nicht einfach ungestraft.
+Er sucht die Schuld der Väter heim an den Kindern und Enkeln,
+an der dritten und vierten Generation.“
+<sup>8</sup>Da warf sich Mose schnell auf die Erde und betete an.
+<sup>9</sup>Er sagte:
+„Herr, wenn ich jetzt Gnade in deinen Augen gefunden habe,
+dann zieh bitte, Herr, in unserer Mitte mit.
+Ja, es ist ein Volk mit einem harten Nacken.
+Aber vergib uns unsere Schuld und unsere Sünde.
+Und nimm uns als dein Eigentum an.“
+
+> **Was bedeutet das?**
+> Das ist eine der wichtigsten Stellen im ganzen Alten Testament. Gott sagt selbst, wer er ist. Diese Worte werden in der Bibel noch oft wiederholt (zum Beispiel Psalm 103,8; Jona 4,2).
+> Das Erste, was Gott über sich sagt, ist: barmherzig, gnädig, geduldig, voller Liebe und Treue. Und das direkt nach dem goldenen Kalb!
+> „Liebe für Tausende“ und Strafe bis zur „dritten und vierten Generation“ – die Liebe ist viel, viel größer als die Strafe.
+> Die Strafe bis zur dritten und vierten Generation meint: Die Folgen von Schuld wirken in Familien weiter. Kinder leiden oft unter dem, was ihre Eltern falsch gemacht haben. In einem Haus lebten damals oft drei oder vier Generationen zusammen. Später sagt die Bibel deutlich: Jeder ist nur für seine eigene Schuld verantwortlich (Hesekiel 18,20).
+> „Liebe“ steht hier für das hebräische Wort „Chesed“. Es meint eine treue Liebe, die zu ihrem Versprechen steht.
+> Mose sagt jetzt nicht mehr „dieses Volk“, sondern „uns“. Er stellt sich ganz auf die Seite des Volkes.
+
+---
+
+### Gott erneuert den Bund (Vers 10–17)
+
+<sup>10</sup>Er sagte:
+„Schau: Ich schließe einen Bund.
+Vor deinem ganzen Volk will ich Wunder tun,
+wie sie noch nie auf der ganzen Erde und bei keinem Volk geschehen sind.
+Das ganze Volk, in dessen Mitte du lebst, soll das Werk des HERRN sehen.
+Denn was ich mit dir tun werde, ist Ehrfurcht gebietend.
+
+<sup>11</sup>Halte dich an das, was ich dir heute befehle.
+Schau: Ich will vor dir die Amoriter, die Kanaaniter, die Hetiter, die Perisiter, die Hiwiter und die Jebusiter vertreiben.
+<sup>12</sup>Hüte dich davor, einen Bund mit den Bewohnern des Landes zu schließen, in das du kommst.
+Sonst wird es für euch zu einer Falle.
+<sup>13</sup>Sondern ihr sollt ihre Altäre niederreißen,
+ihre heiligen Steinsäulen zerschlagen
+und ihre Aschera-Pfähle umhauen.
+<sup>14</sup>Denn du sollst keinen anderen Gott anbeten.
+Denn der HERR heißt „Eifersüchtig“. Er ist ein eifersüchtiger Gott.
+
+<sup>15</sup>Schließ keinen Bund mit den Bewohnern des Landes.
+Sonst geben sie sich ihren Göttern hin wie Prostituierte und bringen ihren Göttern Opfer.
+Und einer lädt dich ein, und du isst von seinem Opfer.
+<sup>16</sup>Und du nimmst ihre Töchter als Frauen für deine Söhne.
+Dann geben sich ihre Töchter ihren Göttern hin wie Prostituierte
+und bringen auch deine Söhne dazu, sich ihren Göttern hinzugeben wie Prostituierte.
+
+<sup>17</sup>Du sollst dir keine gegossenen Götterbilder machen.
+
+> **Was bedeutet das?**
+> „Aschera-Pfähle“ waren Holzpfähle, die für die Göttin Aschera aufgestellt wurden. Aschera war eine Göttin der Fruchtbarkeit in Kanaan.
+> Israel soll sich nicht mit den Göttern der anderen Völker einlassen. Gott vergleicht das mit Untreue in einer Ehe. Darum steht hier das harte Bild von der Prostitution. Gott und sein Volk sind wie Mann und Frau. Wer anderen Göttern dient, bricht die Treue.
+> „Eifersüchtig“ ist sogar ein Name Gottes. Gott liebt sein Volk mit ganzer Leidenschaft und will es mit niemandem teilen.
+> Es geht hier nicht darum, Menschen aus anderen Völkern zu hassen. Es geht um den Glauben: Israel soll nur dem einen Gott treu bleiben. Später heiratet zum Beispiel Rut, eine Frau aus Moab, in Israel ein, weil sie sich zu Israels Gott bekennt (Rut 1,16).
+> „Gegossene Götterbilder“ – Vers 17 erinnert direkt an das goldene Kalb.
+
+---
+
+### Die Feste und Gaben (Vers 18–26)
+
+<sup>18</sup>Feiere das Fest der ungesäuerten Brote.
+Sieben Tage lang sollst du ungesäuertes Brot essen, wie ich es dir befohlen habe,
+zur festgesetzten Zeit im Monat Abib.
+Denn im Monat Abib bist du aus Ägypten ausgezogen.
+
+<sup>19</sup>Alles, was zuerst aus dem Mutterleib kommt, gehört mir.
+Auch alle männlichen Erstgeborenen von deinem Vieh, von Rindern und von Schafen.
+<sup>20</sup>Den Erstgeborenen vom Esel sollst du mit einem Lamm auslösen.
+Wenn du ihn nicht auslöst, dann brich ihm das Genick.
+Alle Erstgeborenen von deinen Söhnen sollst du auslösen.
+Niemand soll mit leeren Händen vor mir erscheinen.
+
+<sup>21</sup>Sechs Tage sollst du arbeiten, aber am siebten Tag sollst du ruhen.
+Auch in der Zeit, in der du pflügst, und in der Erntezeit sollst du ruhen.
+
+<sup>22</sup>Feiere das Wochenfest, mit den ersten Früchten der Weizenernte.
+Und feiere das Fest der Lese am Ende des Jahres.
+<sup>23</sup>Dreimal im Jahr sollen alle deine Männer vor dem Herrn erscheinen, dem HERRN, dem Gott Israels.
+<sup>24</sup>Denn ich will Völker vor dir vertreiben und dein Gebiet groß machen.
+Niemand wird dein Land haben wollen,
+wenn du dreimal im Jahr hinaufgehst, um vor dem HERRN, deinem Gott, zu erscheinen.
+
+<sup>25</sup>Du sollst das Blut meines Opfers nicht zusammen mit gesäuertem Brot darbringen.
+Und vom Opfer des Passafestes darf nichts bis zum Morgen übrig bleiben.
+<sup>26</sup>Die allerersten Früchte deines Ackers sollst du in das Haus des HERRN, deines Gottes, bringen.
+Du sollst ein Böckchen nicht in der Milch seiner Mutter kochen.“
+
+> **Was bedeutet das?**
+> Diese Gebote kennen wir schon aus den Kapiteln 13 und 23. Sie werden hier wiederholt, weil der Bund neu geschlossen wird.
+> „Auslösen“ heißt: Man gibt etwas anderes an Gottes Stelle, zum Beispiel ein Lamm für den Esel. Ein Esel durfte nicht geopfert werden. Und Menschen wurden niemals geopfert. Für jeden erstgeborenen Sohn gab man stattdessen eine Gabe.
+> Die Sabbatruhe gilt auch in der Erntezeit, wenn es am meisten Arbeit gibt. Gerade dann soll man Gott vertrauen.
+> „Niemand wird dein Land haben wollen“ – Gott verspricht: Wenn alle Männer zum Fest gehen, passt Gott auf ihr Land auf. Niemand wird es angreifen.
+> Mehr zu den Festen und zum Böckchen steht in den Erklärungen zu 2. Mose 23.
+
+---
+
+### Vierzig Tage auf dem Berg (Vers 27–28)
+
+<sup>27</sup>Der HERR sagte zu Mose:
+„Schreib dir diese Worte auf.
+Denn auf der Grundlage dieser Worte habe ich mit dir und mit Israel einen Bund geschlossen.“
+<sup>28</sup>Mose war dort beim HERRN, 40 Tage und 40 Nächte.
+Er aß kein Brot und trank kein Wasser.
+Und er schrieb auf die Tafeln die Worte des Bundes, die Zehn Gebote.
+
+> **Was bedeutet das?**
+> Zum zweiten Mal ist Mose 40 Tage auf dem Berg. Er fastet ganz, ohne Essen und Trinken. Das ist mehr, als ein Mensch normalerweise aushält. Gott selbst erhält ihn.
+> Wer auf die Tafeln schreibt, ist hier nicht ganz eindeutig. In Vers 1 hatte Gott gesagt, dass er selbst schreiben will. Auch 5. Mose 10,4 sagt: Gott schrieb.
+> Auch Jesus fastete später 40 Tage in der Wüste (Matthäus 4,2).
+
+---
+
+### Moses Gesicht leuchtet (Vers 29–35)
+
+<sup>29</sup>Mose stieg vom Berg Sinai herab.
+Er hatte die zwei Tafeln des Bundes in seiner Hand.
+Als er vom Berg herunterkam, wusste Mose nicht, dass die Haut seines Gesichts strahlte,
+weil er mit Gott geredet hatte.
+<sup>30</sup>Aaron und alle Israeliten sahen Mose.
+Und schau: Die Haut seines Gesichts strahlte.
+Da hatten sie Angst, in seine Nähe zu kommen.
+<sup>31</sup>Mose rief sie.
+Da kamen Aaron und alle Anführer der Gemeinde zu ihm zurück,
+und Mose redete mit ihnen.
+<sup>32</sup>Danach kamen alle Israeliten zu ihm.
+Und er gab ihnen alle Gebote, die der HERR auf dem Berg Sinai mit ihm geredet hatte.
+
+<sup>33</sup>Als Mose fertig war, mit ihnen zu reden, legte er ein Tuch über sein Gesicht.
+<sup>34</sup>Aber wenn Mose zum HERRN hineinging, um mit ihm zu reden, nahm er das Tuch ab, bis er wieder herauskam.
+Dann kam er heraus und sagte den Israeliten, was ihm befohlen worden war.
+<sup>35</sup>Die Israeliten sahen das Gesicht von Mose, dass die Haut seines Gesichts strahlte.
+Dann legte Mose das Tuch wieder über sein Gesicht, bis er wieder hineinging, um mit Gott zu reden.
+
+> **Was bedeutet das?**
+> Mose war Gott so nahe, dass etwas von Gottes Licht auf ihm zurückblieb. Er selbst merkt es gar nicht.
+> Das hebräische Wort für „strahlen“ hängt mit dem Wort für „Horn“ zusammen. Eine alte lateinische Übersetzung schrieb darum, Mose habe „Hörner“ gehabt. Deshalb zeigen manche alten Bilder und Statuen Mose mit Hörnern, zum Beispiel die berühmte Statue von Michelangelo in Rom. Gemeint sind aber Lichtstrahlen.
+> Das Tuch trägt Mose nicht, wenn er mit Gott redet oder Gottes Worte weitergibt, sondern danach im Alltag.
+> Im Neuen Testament schreibt Paulus über diese Geschichte (2. Korinther 3,7–18). Er sagt: Wer sich Gott zuwendet, dem wird die Decke weggenommen. Und Menschen, die auf Gott schauen, werden selbst immer mehr verwandelt.

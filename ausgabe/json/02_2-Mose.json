@@ -6161,6 +6161,633 @@
      "erklaerung": "Hier enden die vielen Anweisungen, die Gott Mose auf dem Berg gegeben hat (seit Kapitel 25).\n„Mit dem Finger Gottes beschrieben“ heißt: Diese Worte kommen direkt von Gott. Nicht Mose hat sie sich ausgedacht.\nAber während Mose oben auf dem Berg war, ist unten im Lager etwas Schlimmes passiert. Davon erzählt das nächste Kapitel."
     }
    ]
+  },
+  {
+   "kapitel": 32,
+   "titel": "Das goldene Kalb",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Volk macht sich ein goldenes Kalb",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Volk sah, dass Mose lange nicht vom Berg herunterkam.\nDa versammelten sich die Leute bei Aaron und sagten zu ihm:\n„Los, mach uns Götter, die vor uns herziehen!\nDenn wir wissen nicht, was mit diesem Mose passiert ist,\nmit dem Mann, der uns aus dem Land Ägypten heraufgeführt hat.“",
+       "englisch_web": "When the people saw that Moses delayed coming down from the mountain, the people gathered themselves together to Aaron, and said to him, “Come, make us gods, which shall go before us; for as for this Moses, the man who brought us up out of the land of Egypt, we don’t know what has become of him.”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Aaron sagte zu ihnen:\n„Nehmt die goldenen Ringe ab, die eure Frauen, eure Söhne und eure Töchter in den Ohren tragen.\nUnd bringt sie zu mir.“",
+       "englisch_web": "Aaron said to them, “Take off the golden rings, which are in the ears of your wives, of your sons, and of your daughters, and bring them to me.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Da nahm das ganze Volk die goldenen Ringe aus den Ohren und brachte sie zu Aaron.",
+       "englisch_web": "All the people took off the golden rings which were in their ears, and brought them to Aaron."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Aaron nahm das Gold aus ihren Händen.\nEr formte es mit einem Werkzeug und machte daraus ein gegossenes Kalb.\nDa sagten sie: „Das sind deine Götter, Israel, die dich aus dem Land Ägypten heraufgeführt haben!“",
+       "englisch_web": "He received what they handed him, fashioned it with an engraving tool, and made it a molded calf. Then they said, “These are your gods, Israel, which brought you up out of the land of Egypt.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Als Aaron das sah, baute er einen Altar vor dem Kalb.\nUnd Aaron ließ ausrufen: „Morgen ist ein Fest für den HERRN!“",
+       "englisch_web": "When Aaron saw this, he built an altar before it; and Aaron made a proclamation, and said, “Tomorrow shall be a feast to Yahweh.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Am nächsten Tag standen sie früh auf.\nSie brachten Brandopfer dar und brachten Gemeinschaftsopfer.\nDann setzte sich das Volk hin, um zu essen und zu trinken.\nUnd danach standen sie auf, um sich zu vergnügen.",
+       "englisch_web": "They rose up early on the next day, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play."
+      }
+     ],
+     "erklaerung": "Mose ist schon 40 Tage auf dem Berg (2. Mose 24,18). Das Volk wird ungeduldig. Es will etwas sehen und anfassen können.\nEin Kalb oder junger Stier war in Ägypten und in Kanaan ein Zeichen für Kraft und Fruchtbarkeit. Viele Völker verehrten Götter in Gestalt eines Stiers.\nBesonders erschreckend: Sie sagen, dieses Kalb habe sie aus Ägypten befreit. Und Aaron nennt das Fest ein „Fest für den HERRN“. Sie wollen Gott nicht ganz verlassen. Aber sie machen sich ein Bild von ihm – genau das, was Gott gerade verboten hat (2. Mose 20,4).\nNur wenige Wochen, nachdem sie Gottes Stimme gehört und „Alles wollen wir tun“ gesagt haben (2. Mose 24,3), brechen sie den Bund.\n„Sich vergnügen“ – das hebräische Wort kann auch wildes Feiern und Tanzen meinen."
+    },
+    {
+     "ueberschrift": "Gott ist zornig – Mose bittet für das Volk",
+     "vers_von": 7,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Der HERR sprach zu Mose:\n„Geh, steig hinunter!\nDenn dein Volk, das du aus dem Land Ägypten heraufgeführt hast, hat Böses getan.",
+       "englisch_web": "Yahweh spoke to Moses, “Go, get down; for your people, whom you brought up out of the land of Egypt, have corrupted themselves!"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie sind schnell von dem Weg abgewichen, den ich ihnen befohlen habe.\nSie haben sich ein gegossenes Kalb gemacht.\nSie haben sich vor ihm niedergeworfen und ihm Opfer gebracht.\nUnd sie haben gesagt: ‚Das sind deine Götter, Israel, die dich aus dem Land Ägypten heraufgeführt haben.‘“",
+       "englisch_web": "They have turned away quickly out of the way which I commanded them. They have made themselves a molded calf, and have worshiped it, and have sacrificed to it, and said, ‘These are your gods, Israel, which brought you up out of the land of Egypt.’”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Weiter sagte der HERR zu Mose:\n„Ich habe dieses Volk gesehen.\nSchau: Es ist ein Volk mit einem harten Nacken.",
+       "englisch_web": "Yahweh said to Moses, “I have seen these people, and behold, they are a stiff-necked people."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Darum lass mich jetzt!\nMein Zorn soll gegen sie entbrennen, und ich will sie vernichten.\nAber dich will ich zu einem großen Volk machen.“",
+       "englisch_web": "Now therefore leave me alone, that my wrath may burn hot against them, and that I may consume them; and I will make of you a great nation.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Doch Mose flehte den HERRN, seinen Gott, an. Er sagte:\n„HERR, warum soll dein Zorn gegen dein Volk entbrennen?\nDu hast es doch mit großer Kraft und mit starker Hand aus dem Land Ägypten herausgeführt.",
+       "englisch_web": "Moses begged Yahweh his God, and said, “Yahweh, why does your wrath burn hot against your people, that you have brought out of the land of Egypt with great power and with a mighty hand?"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Warum sollen die Ägypter sagen:\n‚Er hat sie in böser Absicht herausgeführt.\nEr wollte sie in den Bergen töten und sie von der Erde vertilgen‘?\nLass ab von deinem glühenden Zorn.\nUnd lass das Unheil nicht über dein Volk kommen.",
+       "englisch_web": "Why should the Egyptians talk, saying, ‘He brought them out for evil, to kill them in the mountains, and to consume them from the surface of the earth’? Turn from your fierce wrath, and turn away from this evil against your people."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denk an Abraham, Isaak und Israel, deine Diener.\nDu hast ihnen bei dir selbst geschworen und zu ihnen gesagt:\n‚Ich will eure Nachkommen so zahlreich machen wie die Sterne am Himmel.\nUnd dieses ganze Land, von dem ich gesprochen habe, will ich euren Nachkommen geben.\nSie sollen es für immer besitzen.‘“",
+       "englisch_web": "Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, ‘I will multiply your offspring as the stars of the sky, and all this land that I have spoken of I will give to your offspring, and they shall inherit it forever.’”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Da ließ der HERR von dem Unheil ab, das er seinem Volk angedroht hatte.",
+       "englisch_web": "So Yahweh turned away from the evil which he said he would do to his people."
+      }
+     ],
+     "erklaerung": "Gott sagt zu Mose „dein Volk“, nicht „mein Volk“. Es klingt, als wolle Gott sich von Israel trennen.\n„Ein Volk mit einem harten Nacken“ ist ein Bild aus der Landwirtschaft: ein Rind, das den Nacken steif macht und sich nicht führen lässt. Gemeint ist: stur und eigensinnig.\nGott bietet Mose an, mit ihm neu anzufangen – wie damals mit Abraham. Aber Mose lehnt ab. Er setzt sich für das Volk ein.\nMose bringt drei Gründe: Es ist doch dein Volk. Was sollen die Ägypter von dir denken? Und denk an deine Versprechen an Abraham, Isaak und Jakob.\n„Da ließ der HERR von dem Unheil ab“ – das ist eine erstaunliche Stelle. Das Gebet eines Menschen ist Gott wichtig. Es verändert etwas. Die Bibel zeigt hier: Gott will nicht vernichten. Er wartet darauf, dass jemand für die Schuldigen eintritt."
+    },
+    {
+     "ueberschrift": "Mose zerbricht die Tafeln",
+     "vers_von": 15,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Mose wandte sich um und stieg vom Berg hinunter.\nIn seiner Hand hatte er die zwei Tafeln des Bundes.\nDie Tafeln waren auf beiden Seiten beschrieben, auf der Vorderseite und auf der Rückseite.",
+       "englisch_web": "Moses turned, and went down from the mountain, with the two tablets of the covenant in his hand; tablets that were written on both their sides. They were written on one side and on the other."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Tafeln waren das Werk Gottes.\nUnd die Schrift war die Schrift Gottes, in die Tafeln eingraviert.",
+       "englisch_web": "The tablets were the work of God, and the writing was the writing of God, engraved on the tablets."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Josua hörte den Lärm des Volkes, wie es schrie.\nDa sagte er zu Mose: „Im Lager ist Kriegslärm!“",
+       "englisch_web": "When Joshua heard the noise of the people as they shouted, he said to Moses, “There is the noise of war in the camp.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Mose antwortete:\n„Das ist nicht das Geschrei von Siegern.\nUnd es ist nicht das Geschrei von Besiegten.\nIch höre Leute, die singen.“",
+       "englisch_web": "He said, “It isn’t the voice of those who shout for victory. It is not the voice of those who cry for being overcome; but the noise of those who sing that I hear.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Als Mose nah an das Lager kam, sah er das Kalb und die Tänze.\nDa wurde Mose zornig.\nEr warf die Tafeln aus seinen Händen und zerbrach sie unten am Berg.",
+       "englisch_web": "As soon as he came near to the camp, he saw the calf and the dancing. Then Moses’ anger grew hot, and he threw the tablets out of his hands, and broke them beneath the mountain."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Er nahm das Kalb, das sie gemacht hatten, und verbrannte es im Feuer.\nEr zermahlte es zu Staub, streute ihn auf das Wasser\nund ließ die Israeliten davon trinken.",
+       "englisch_web": "He took the calf which they had made, and burned it with fire, ground it to powder, and scattered it on the water, and made the children of Israel drink it."
+      }
+     ],
+     "erklaerung": "Die Tafeln waren Gottes eigene Handschrift. Mose zerbricht sie. Das ist ein Zeichen: Der Bund ist gebrochen. Das Volk hat ihn schon gebrochen, bevor die Tafeln überhaupt ankommen.\nDas Kalb wird verbrannt, zermahlen und ins Wasser gestreut. Das Volk muss es trinken. So erleben sie: Dieser „Gott“ ist nichts. Man kann ihn zerstören und schlucken. Und sie müssen die Folgen ihrer Tat selbst „schlucken“."
+    },
+    {
+     "ueberschrift": "Aarons Ausrede",
+     "vers_von": 21,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Mose sagte zu Aaron:\n„Was hat dir dieses Volk getan, dass du so eine große Sünde über sie gebracht hast?“",
+       "englisch_web": "Moses said to Aaron, “What did these people do to you, that you have brought a great sin on them?”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Aaron antwortete:\n„Mein Herr soll nicht zornig werden.\nDu kennst doch das Volk. Es ist auf Böses aus.",
+       "englisch_web": "Aaron said, “Don’t let the anger of my lord grow hot. You know the people, that they are set on evil."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sie haben zu mir gesagt:\n‚Mach uns Götter, die vor uns herziehen.\nDenn wir wissen nicht, was mit diesem Mose passiert ist,\nmit dem Mann, der uns aus dem Land Ägypten heraufgeführt hat.‘",
+       "englisch_web": "For they said to me, ‘Make us gods, which shall go before us. As for this Moses, the man who brought us up out of the land of Egypt, we don’t know what has become of him.’"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Da habe ich zu ihnen gesagt:\n‚Wer Gold hat, soll es abnehmen.‘\nUnd sie haben es mir gegeben.\nIch habe es ins Feuer geworfen, und heraus kam dieses Kalb.“",
+       "englisch_web": "I said to them, ‘Whoever has any gold, let them take it off.’ So they gave it to me; and I threw it into the fire, and out came this calf.”"
+      }
+     ],
+     "erklaerung": "Aarons Ausrede ist fast lächerlich: „Ich habe das Gold ins Feuer geworfen, und heraus kam dieses Kalb.“ Als hätte es sich von allein gemacht. Dabei hat er es selbst geformt (Vers 4).\nSo reden Menschen oft, wenn sie Fehler gemacht haben: Die anderen sind schuld, und es ist einfach so passiert. Die Bibel zeigt hier ehrlich: Auch Aaron, der Hohepriester, hat versagt."
+    },
+    {
+     "ueberschrift": "Die Leviten und die Bestrafung",
+     "vers_von": 25,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Mose sah, dass das Volk außer Kontrolle war.\nDenn Aaron hatte ihm die Zügel schießen lassen, sodass ihre Feinde über sie spotten konnten.",
+       "englisch_web": "When Moses saw that the people were out of control, (for Aaron had let them lose control, causing derision among their enemies),"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Da stellte sich Mose in das Tor des Lagers und rief:\n„Wer für den HERRN ist, der komme zu mir!“\nDa versammelten sich alle Leviten bei ihm.",
+       "englisch_web": "then Moses stood in the gate of the camp, and said, “Whoever is on Yahweh’s side, come to me!” All the sons of Levi gathered themselves together to him."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Er sagte zu ihnen:\n„So spricht der HERR, der Gott Israels:\n‚Jeder binde sein Schwert an seine Hüfte.\nGeht durch das Lager hin und her, von Tor zu Tor.\nUnd jeder töte seinen Bruder, seinen Freund und seinen Nachbarn.‘“",
+       "englisch_web": "He said to them, “Yahweh, the God of Israel, says, ‘Every man put his sword on his thigh, and go back and forth from gate to gate throughout the camp, and every man kill his brother, and every man his companion, and every man his neighbor.’”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Leviten taten, was Mose gesagt hatte.\nAn diesem Tag fielen vom Volk etwa 3000 Männer.",
+       "englisch_web": "The sons of Levi did according to the word of Moses. About three thousand men fell of the people that day."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Mose sagte:\n„Weiht euch heute dem HERRN.\nDenn jeder von euch war gegen seinen Sohn und gegen seinen Bruder.\nSo soll er euch heute Segen geben.“",
+       "englisch_web": "Moses said, “Consecrate yourselves today to Yahweh, for every man was against his son and against his brother, that he may give you a blessing today.”"
+      }
+     ],
+     "erklaerung": "Das ist eine der schwersten Stellen in der Bibel. 3000 Männer werden getötet, von ihren eigenen Verwandten.\nMan muss sie aus ihrer Zeit verstehen. Der Bund mit Gott war gerade erst geschlossen. Der Götzendienst bedrohte das Leben des ganzen Volkes. Die Bibel sieht ihn als Verrat, so schlimm wie Hochverrat in einem Krieg. Die Bestrafung traf vermutlich die, die nicht aufhören wollten.\nTrotzdem bleibt diese Geschichte erschreckend. Juden und Christen haben lange darüber nachgedacht. Sie ist keine Anleitung, heute Gewalt im Namen Gottes auszuüben. Jesus hat Gewalt im Namen Gottes abgelehnt (Matthäus 26,52).\nDer Stamm Levi stellt sich ganz auf Gottes Seite. Darum werden die Leviten später die Diener am Heiligtum (4. Mose 3)."
+    },
+    {
+     "ueberschrift": "Mose will für das Volk eintreten",
+     "vers_von": 30,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 30,
+       "leichte_sprache": "Am nächsten Tag sagte Mose zum Volk:\n„Ihr habt eine große Sünde begangen.\nJetzt will ich zum HERRN hinaufsteigen.\nVielleicht kann ich Versöhnung für eure Sünde erreichen.“",
+       "englisch_web": "On the next day, Moses said to the people, “You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.”"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Mose ging zum HERRN zurück und sagte:\n„Ach, dieses Volk hat eine große Sünde begangen.\nSie haben sich Götter aus Gold gemacht.",
+       "englisch_web": "Moses returned to Yahweh, and said, “Oh, this people have sinned a great sin, and have made themselves gods of gold."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Und doch: Vergib ihnen bitte ihre Sünde!\nWenn nicht, dann streich mich bitte aus deinem Buch, das du geschrieben hast.“",
+       "englisch_web": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.”"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Wer gegen mich gesündigt hat, den streiche ich aus meinem Buch.",
+       "englisch_web": "Yahweh said to Moses, “Whoever has sinned against me, I will blot him out of my book."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Und jetzt geh!\nFühre das Volk an den Ort, von dem ich dir gesagt habe.\nSchau: Mein Engel wird vor dir hergehen.\nAber an dem Tag, an dem ich sie zur Rechenschaft ziehe, werde ich sie für ihre Sünde bestrafen.“",
+       "englisch_web": "Now go, lead the people to the place of which I have spoken to you. Behold, my angel shall go before you. Nevertheless, in the day when I punish, I will punish them for their sin.”"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Und der HERR schlug das Volk,\nweil sie das Kalb gemacht hatten, das Aaron gemacht hatte.",
+       "englisch_web": "Yahweh struck the people, because of what they did with the calf, which Aaron made."
+      }
+     ],
+     "erklaerung": "Mose ist bereit, sein eigenes Leben für das Volk zu geben. „Streich mich aus deinem Buch“ heißt: Lieber will ich selbst verloren sein, als dass mein Volk verloren geht.\nDas „Buch“ ist ein Bild für das Buch des Lebens. Darin stehen die Namen der Menschen, die zu Gott gehören.\nGott nimmt das Angebot nicht an. Jeder ist für seine eigene Schuld verantwortlich.\nChristen sehen hier einen Hinweis auf Jesus: Er hat getan, was Mose angeboten hat. Er hat sein Leben für die Schuld der anderen gegeben. Auch Paulus sagte etwas Ähnliches wie Mose über sein Volk (Römer 9,3).\nWie Gott das Volk „schlug“, wird nicht gesagt. Vielleicht war es eine Krankheit."
+    }
+   ]
+  },
+  {
+   "kapitel": 33,
+   "titel": "Geht Gott noch mit? Mose will Gottes Herrlichkeit sehen",
+   "abschnitte": [
+    {
+     "ueberschrift": "„Ich gehe nicht mit euch“",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose:\n„Brich auf, zieh von hier hinauf,\ndu und das Volk, das du aus dem Land Ägypten heraufgeführt hast.\nZieht in das Land, das ich Abraham, Isaak und Jakob mit einem Schwur versprochen habe.\nIch habe gesagt: ‚Deinen Nachkommen will ich es geben.‘",
+       "englisch_web": "Yahweh spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ich will einen Engel vor dir hersenden.\nUnd ich will die Kanaaniter, die Amoriter, die Hetiter, die Perisiter, die Hiwiter und die Jebusiter vertreiben.",
+       "englisch_web": "I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Zieht in ein Land, in dem Milch und Honig fließen.\nAber ich selbst werde nicht in eurer Mitte mitziehen.\nDenn ihr seid ein Volk mit einem harten Nacken.\nSonst müsste ich euch unterwegs vernichten.“",
+       "englisch_web": "Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Als das Volk diese schlimme Nachricht hörte, trauerten sie.\nUnd niemand legte seinen Schmuck an.",
+       "englisch_web": "When the people heard this evil news, they mourned; and no one put on his jewelry."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Der HERR hatte nämlich zu Mose gesagt:\n„Sag zu den Israeliten:\n‚Ihr seid ein Volk mit einem harten Nacken.\nWenn ich nur einen Augenblick in eurer Mitte mitziehen würde, würde ich euch vernichten.\nDarum legt jetzt euren Schmuck ab.\nDann will ich sehen, was ich mit euch mache.‘“",
+       "englisch_web": "Yahweh had said to Moses, “Tell the children of Israel, ‘You are a stiff-necked people. If I were to go up among you for one moment, I would consume you. Therefore now take off your jewelry from you, that I may know what to do to you.’”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da legten die Israeliten ihren Schmuck ab, vom Berg Horeb an.",
+       "englisch_web": "The children of Israel stripped themselves of their jewelry from Mount Horeb onward."
+      }
+     ],
+     "erklaerung": "Gott hält sein Versprechen: Das Volk bekommt das Land. Aber Gott selbst will nicht mitgehen. Nur ein Engel soll sie führen.\nDas klingt zuerst gar nicht so schlimm. Aber das Volk versteht: Das Land ohne Gott ist nichts wert. Darum trauert es.\nGott sagt: Meine Nähe wäre für euch gefährlich. Ein heiliger Gott und ein Volk, das sich gegen ihn stellt – das passt nicht zusammen.\nDen Schmuck abzulegen ist ein Zeichen der Trauer und der Reue. Aus Schmuck hatten sie ja das goldene Kalb gemacht.\nHoreb ist ein anderer Name für den Berg Sinai."
+    },
+    {
+     "ueberschrift": "Das Zelt der Begegnung außerhalb des Lagers",
+     "vers_von": 7,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Mose nahm immer das Zelt und schlug es außerhalb des Lagers auf, weit weg vom Lager.\nEr nannte es „Zelt der Begegnung“.\nJeder, der den HERRN suchte, ging hinaus zum Zelt der Begegnung, das außerhalb des Lagers war.",
+       "englisch_web": "Now Moses used to take the tent and pitch it outside the camp, far away from the camp, and he called it “The Tent of Meeting.” Everyone who sought Yahweh went out to the Tent of Meeting, which was outside the camp."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wenn Mose zum Zelt hinausging, stand das ganze Volk auf.\nJeder stellte sich an den Eingang seines Zeltes.\nUnd sie schauten Mose nach, bis er in das Zelt hineingegangen war.",
+       "englisch_web": "When Moses went out to the Tent, all the people rose up, and stood, everyone at their tent door, and watched Moses, until he had gone into the Tent."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wenn Mose in das Zelt ging, kam die Wolkensäule herab und blieb am Eingang des Zeltes stehen.\nUnd der HERR redete mit Mose.",
+       "englisch_web": "When Moses entered into the Tent, the pillar of cloud descended, stood at the door of the Tent, and Yahweh spoke with Moses."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Das ganze Volk sah die Wolkensäule am Eingang des Zeltes stehen.\nDann stand das ganze Volk auf und warf sich nieder, jeder am Eingang seines Zeltes.",
+       "englisch_web": "All the people saw the pillar of cloud stand at the door of the Tent, and all the people rose up and worshiped, everyone at their tent door."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der HERR redete mit Mose von Angesicht zu Angesicht,\nso wie ein Mensch mit seinem Freund redet.\nDanach ging Mose wieder ins Lager zurück.\nAber sein Diener Josua, der Sohn von Nun, ein junger Mann, wich nicht aus dem Zelt.",
+       "englisch_web": "Yahweh spoke to Moses face to face, as a man speaks to his friend. He turned again into the camp, but his servant Joshua, the son of Nun, a young man, didn’t depart from the Tent."
+      }
+     ],
+     "erklaerung": "Das ist noch nicht das große Heiligtum, das in den Kapiteln 25–31 beschrieben wird. Das wird erst später gebaut. Hier geht es um ein einfacheres Zelt, in dem Mose Gott begegnet.\nDas Zelt steht jetzt außerhalb des Lagers. Das zeigt: Gott ist auf Abstand gegangen. Wer ihn sucht, muss hinausgehen.\n„Wie ein Mensch mit seinem Freund redet“ – so nah ist Mose mit Gott. „Von Angesicht zu Angesicht“ heißt hier: ganz direkt und vertraut. Dass Mose Gottes Gesicht nicht wirklich sehen kann, sagt Vers 20.\nJosua bleibt im Zelt. Er lernt schon jetzt, Gott nahe zu sein. Später wird er der Nachfolger von Mose."
+    },
+    {
+     "ueberschrift": "Mose bittet: Geh mit uns!",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Mose sagte zum HERRN:\n„Schau: Du sagst zu mir: ‚Führe dieses Volk hinauf.‘\nAber du hast mich nicht wissen lassen, wen du mit mir schicken willst.\nDabei hast du gesagt: ‚Ich kenne dich mit Namen,\nund du hast Gnade in meinen Augen gefunden.‘",
+       "englisch_web": "Moses said to Yahweh, “Behold, you tell me, ‘Bring up this people;’ and you haven’t let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Wenn ich also Gnade in deinen Augen gefunden habe,\ndann zeig mir bitte deinen Weg.\nDann kann ich dich kennen und Gnade in deinen Augen finden.\nUnd bedenke: Dieses Volk ist dein Volk.“",
+       "englisch_web": "Now therefore, if I have found favor in your sight, please show me your way, now, that I may know you, so that I may find favor in your sight; and consider that this nation is your people.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er antwortete: „Meine Gegenwart wird mitgehen.\nUnd ich werde dir Ruhe geben.“",
+       "englisch_web": "He said, “My presence will go with you, and I will give you rest.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Mose sagte zu ihm:\n„Wenn deine Gegenwart nicht mitgeht, dann führ uns nicht von hier weg.",
+       "englisch_web": "Moses said to him, “If your presence doesn’t go with me, don’t carry us up from here."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn woran soll man sonst erkennen, dass ich und dein Volk Gnade in deinen Augen gefunden haben?\nDoch nur daran, dass du mit uns gehst!\nDadurch sind ich und dein Volk von allen Völkern auf der Erde unterschieden.“",
+       "englisch_web": "For how would people know that I have found favor in your sight, I and your people? Isn’t it that you go with us, so that we are separated, I and your people, from all the people who are on the surface of the earth?”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Auch das, was du jetzt gesagt hast, will ich tun.\nDenn du hast Gnade in meinen Augen gefunden, und ich kenne dich mit Namen.“",
+       "englisch_web": "Yahweh said to Moses, “I will do this thing also that you have spoken; for you have found favor in my sight, and I know you by name.”"
+      }
+     ],
+     "erklaerung": "Mose gibt nicht auf. Er erinnert Gott: „Dieses Volk ist dein Volk.“ Gott hatte ja in Kapitel 32 gesagt: „dein Volk“, also das Volk von Mose. Mose gibt es Gott zurück.\n„Meine Gegenwart wird mitgehen“ heißt: Ich selbst gehe mit, nicht nur ein Engel. Im Hebräischen steht wörtlich: „Mein Angesicht wird mitgehen.“\nMose sagt: Ohne dich wollen wir gar nicht losgehen. Das Besondere an Israel ist nicht das Land oder die Macht. Das Besondere ist, dass Gott mit ihm geht.\nUnd Gott lässt sich bitten. Wieder zeigt die Bibel: Das Gebet von Mose verändert etwas."
+    },
+    {
+     "ueberschrift": "Mose will Gottes Herrlichkeit sehen",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Mose sagte: „Lass mich bitte deine Herrlichkeit sehen!“",
+       "englisch_web": "Moses said, “Please show me your glory.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Er antwortete:\n„Ich will meine ganze Güte an dir vorüberziehen lassen.\nUnd ich will vor dir den Namen des HERRN ausrufen.\nIch bin gnädig, wem ich gnädig bin.\nUnd ich bin barmherzig, wem ich barmherzig bin.“",
+       "englisch_web": "He said, “I will make all my goodness pass before you, and will proclaim Yahweh’s name before you. I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Und er sagte weiter:\n„Mein Angesicht kannst du nicht sehen.\nDenn kein Mensch kann mich sehen und am Leben bleiben.“",
+       "englisch_web": "He said, “You cannot see my face, for man may not see me and live.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Der HERR sagte auch:\n„Schau, hier ist ein Platz bei mir. Stell dich auf den Felsen.",
+       "englisch_web": "Yahweh also said, “Behold, there is a place by me, and you shall stand on the rock."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Wenn meine Herrlichkeit vorüberzieht, stelle ich dich in eine Felsspalte.\nUnd ich halte meine Hand über dich, bis ich vorübergegangen bin.",
+       "englisch_web": "It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by;"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Dann ziehe ich meine Hand weg.\nUnd du wirst mich von hinten sehen.\nAber mein Angesicht kann man nicht sehen.“",
+       "englisch_web": "then I will take away my hand, and you will see my back; but my face shall not be seen.”"
+      }
+     ],
+     "erklaerung": "Mose wünscht sich das Größte, was ein Mensch sich wünschen kann: Gott selbst zu sehen.\nGott antwortet mit seiner „Güte“. Das zeigt: Gottes Herrlichkeit besteht vor allem in seiner Güte.\n„Ich bin gnädig, wem ich gnädig bin“ heißt: Gottes Gnade ist ein Geschenk. Niemand kann sie verdienen oder erzwingen. Gott schenkt sie frei.\nKein Mensch kann Gottes Angesicht sehen. Gott ist zu groß, zu heilig für unsere Augen. Aber Gott schützt Mose mit seiner Hand und zeigt ihm so viel, wie er ertragen kann.\n„Von hinten sehen“ – vielleicht heißt das: Man erkennt Gott oft erst im Nachhinein, an den Spuren, die er hinterlassen hat.\nIm Neuen Testament heißt es: „Niemand hat Gott je gesehen. Der einzige Sohn hat ihn uns gezeigt“ (Johannes 1,18). Christen glauben: In Jesus kann man sehen, wie Gott ist."
+    }
+   ]
+  },
+  {
+   "kapitel": 34,
+   "titel": "Neue Tafeln – Gott sagt, wer er ist – Moses leuchtendes Gesicht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Zwei neue Tafeln",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Hau dir zwei Tafeln aus Stein zurecht, wie die ersten.\nIch will auf die Tafeln die Worte schreiben, die auf den ersten Tafeln standen, die du zerbrochen hast.",
+       "englisch_web": "Yahweh said to Moses, “Chisel two stone tablets like the first. I will write on the tablets the words that were on the first tablets, which you broke."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Sei bereit bis zum Morgen.\nSteig am Morgen auf den Berg Sinai\nund stell dich dort oben auf dem Gipfel des Berges vor mich hin.",
+       "englisch_web": "Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Niemand soll mit dir hinaufsteigen.\nNiemand soll irgendwo auf dem Berg zu sehen sein.\nAuch die Schafe, Ziegen und Rinder sollen nicht vor diesem Berg weiden.“",
+       "englisch_web": "No one shall come up with you or be seen anywhere on the mountain. Do not let the flocks or herds graze in front of that mountain.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da haute Mose zwei Tafeln aus Stein zurecht, wie die ersten.\nAm Morgen stand Mose früh auf und stieg auf den Berg Sinai, wie der HERR es ihm befohlen hatte.\nUnd er nahm die zwei Tafeln aus Stein in seine Hand.",
+       "englisch_web": "He chiseled two tablets of stone like the first; then Moses rose up early in the morning, and went up to Mount Sinai, as Yahweh had commanded him, and took in his hand two stone tablets."
+      }
+     ],
+     "erklaerung": "Gott gibt dem Volk eine zweite Chance. Der Bund wird erneuert.\nDiesmal muss Mose die Steintafeln selbst zurechthauen. Aber die Worte schreibt wieder Gott."
+    },
+    {
+     "ueberschrift": "Gott sagt, wer er ist",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Der HERR kam in der Wolke herab.\nEr stellte sich dort neben ihn und rief den Namen des HERRN aus.",
+       "englisch_web": "Yahweh descended in the cloud, and stood with him there, and proclaimed Yahweh’s name."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Der HERR ging an ihm vorüber und rief:\n„Der HERR! Der HERR!\nEin barmherziger und gnädiger Gott,\nlangsam zum Zorn und reich an Liebe und Treue.",
+       "englisch_web": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er bewahrt Liebe für Tausende.\nEr vergibt Schuld, Ungehorsam und Sünde.\nAber er lässt den Schuldigen nicht einfach ungestraft.\nEr sucht die Schuld der Väter heim an den Kindern und Enkeln,\nan der dritten und vierten Generation.“",
+       "englisch_web": "keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and who will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children’s children, on the third and on the fourth generation.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Da warf sich Mose schnell auf die Erde und betete an.",
+       "englisch_web": "Moses hurried and bowed his head toward the earth, and worshiped."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er sagte:\n„Herr, wenn ich jetzt Gnade in deinen Augen gefunden habe,\ndann zieh bitte, Herr, in unserer Mitte mit.\nJa, es ist ein Volk mit einem harten Nacken.\nAber vergib uns unsere Schuld und unsere Sünde.\nUnd nimm uns als dein Eigentum an.“",
+       "englisch_web": "He said, “If now I have found favor in your sight, Lord, please let the Lord go among us, even though this is a stiff-necked people; pardon our iniquity and our sin, and take us for your inheritance.”"
+      }
+     ],
+     "erklaerung": "Das ist eine der wichtigsten Stellen im ganzen Alten Testament. Gott sagt selbst, wer er ist. Diese Worte werden in der Bibel noch oft wiederholt (zum Beispiel Psalm 103,8; Jona 4,2).\nDas Erste, was Gott über sich sagt, ist: barmherzig, gnädig, geduldig, voller Liebe und Treue. Und das direkt nach dem goldenen Kalb!\n„Liebe für Tausende“ und Strafe bis zur „dritten und vierten Generation“ – die Liebe ist viel, viel größer als die Strafe.\nDie Strafe bis zur dritten und vierten Generation meint: Die Folgen von Schuld wirken in Familien weiter. Kinder leiden oft unter dem, was ihre Eltern falsch gemacht haben. In einem Haus lebten damals oft drei oder vier Generationen zusammen. Später sagt die Bibel deutlich: Jeder ist nur für seine eigene Schuld verantwortlich (Hesekiel 18,20).\n„Liebe“ steht hier für das hebräische Wort „Chesed“. Es meint eine treue Liebe, die zu ihrem Versprechen steht.\nMose sagt jetzt nicht mehr „dieses Volk“, sondern „uns“. Er stellt sich ganz auf die Seite des Volkes."
+    },
+    {
+     "ueberschrift": "Gott erneuert den Bund",
+     "vers_von": 10,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Er sagte:\n„Schau: Ich schließe einen Bund.\nVor deinem ganzen Volk will ich Wunder tun,\nwie sie noch nie auf der ganzen Erde und bei keinem Volk geschehen sind.\nDas ganze Volk, in dessen Mitte du lebst, soll das Werk des HERRN sehen.\nDenn was ich mit dir tun werde, ist Ehrfurcht gebietend.",
+       "englisch_web": "He said, “Behold, I make a covenant: before all your people I will do marvels, such as have not been worked in all the earth, nor in any nation; and all the people among whom you are shall see the work of Yahweh; for it is an awesome thing that I do with you."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Halte dich an das, was ich dir heute befehle.\nSchau: Ich will vor dir die Amoriter, die Kanaaniter, die Hetiter, die Perisiter, die Hiwiter und die Jebusiter vertreiben.",
+       "englisch_web": "Observe that which I command you today. Behold, I will drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Hüte dich davor, einen Bund mit den Bewohnern des Landes zu schließen, in das du kommst.\nSonst wird es für euch zu einer Falle.",
+       "englisch_web": "Be careful, lest you make a covenant with the inhabitants of the land where you are going, lest it be for a snare among you;"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sondern ihr sollt ihre Altäre niederreißen,\nihre heiligen Steinsäulen zerschlagen\nund ihre Aschera-Pfähle umhauen.",
+       "englisch_web": "but you shall break down their altars, and dash in pieces their pillars, and you shall cut down their Asherah poles;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Denn du sollst keinen anderen Gott anbeten.\nDenn der HERR heißt „Eifersüchtig“. Er ist ein eifersüchtiger Gott.",
+       "englisch_web": "for you shall worship no other god; for Yahweh, whose name is Jealous, is a jealous God."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Schließ keinen Bund mit den Bewohnern des Landes.\nSonst geben sie sich ihren Göttern hin wie Prostituierte und bringen ihren Göttern Opfer.\nUnd einer lädt dich ein, und du isst von seinem Opfer.",
+       "englisch_web": "“Don’t make a covenant with the inhabitants of the land, lest they play the prostitute after their gods, and sacrifice to their gods, and one call you and you eat of his sacrifice;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Und du nimmst ihre Töchter als Frauen für deine Söhne.\nDann geben sich ihre Töchter ihren Göttern hin wie Prostituierte\nund bringen auch deine Söhne dazu, sich ihren Göttern hinzugeben wie Prostituierte.",
+       "englisch_web": "and you take of their daughters to your sons, and their daughters play the prostitute after their gods, and make your sons play the prostitute after their gods."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Du sollst dir keine gegossenen Götterbilder machen.",
+       "englisch_web": "“You shall make no cast idols for yourselves."
+      }
+     ],
+     "erklaerung": "„Aschera-Pfähle“ waren Holzpfähle, die für die Göttin Aschera aufgestellt wurden. Aschera war eine Göttin der Fruchtbarkeit in Kanaan.\nIsrael soll sich nicht mit den Göttern der anderen Völker einlassen. Gott vergleicht das mit Untreue in einer Ehe. Darum steht hier das harte Bild von der Prostitution. Gott und sein Volk sind wie Mann und Frau. Wer anderen Göttern dient, bricht die Treue.\n„Eifersüchtig“ ist sogar ein Name Gottes. Gott liebt sein Volk mit ganzer Leidenschaft und will es mit niemandem teilen.\nEs geht hier nicht darum, Menschen aus anderen Völkern zu hassen. Es geht um den Glauben: Israel soll nur dem einen Gott treu bleiben. Später heiratet zum Beispiel Rut, eine Frau aus Moab, in Israel ein, weil sie sich zu Israels Gott bekennt (Rut 1,16).\n„Gegossene Götterbilder“ – Vers 17 erinnert direkt an das goldene Kalb."
+    },
+    {
+     "ueberschrift": "Die Feste und Gaben",
+     "vers_von": 18,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Feiere das Fest der ungesäuerten Brote.\nSieben Tage lang sollst du ungesäuertes Brot essen, wie ich es dir befohlen habe,\nzur festgesetzten Zeit im Monat Abib.\nDenn im Monat Abib bist du aus Ägypten ausgezogen.",
+       "englisch_web": "“You shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib; for in the month Abib you came out of Egypt."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Alles, was zuerst aus dem Mutterleib kommt, gehört mir.\nAuch alle männlichen Erstgeborenen von deinem Vieh, von Rindern und von Schafen.",
+       "englisch_web": "“All that opens the womb is mine; and all your livestock that is male, the firstborn of cow and sheep."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Den Erstgeborenen vom Esel sollst du mit einem Lamm auslösen.\nWenn du ihn nicht auslöst, dann brich ihm das Genick.\nAlle Erstgeborenen von deinen Söhnen sollst du auslösen.\nNiemand soll mit leeren Händen vor mir erscheinen.",
+       "englisch_web": "You shall redeem the firstborn of a donkey with a lamb. If you will not redeem it, then you shall break its neck. You shall redeem all the firstborn of your sons. No one shall appear before me empty."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sechs Tage sollst du arbeiten, aber am siebten Tag sollst du ruhen.\nAuch in der Zeit, in der du pflügst, und in der Erntezeit sollst du ruhen.",
+       "englisch_web": "“Six days you shall work, but on the seventh day you shall rest: in plowing time and in harvest you shall rest."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Feiere das Wochenfest, mit den ersten Früchten der Weizenernte.\nUnd feiere das Fest der Lese am Ende des Jahres.",
+       "englisch_web": "“You shall observe the feast of weeks with the first fruits of wheat harvest, and the feast of harvest at the year’s end."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Dreimal im Jahr sollen alle deine Männer vor dem Herrn erscheinen, dem HERRN, dem Gott Israels.",
+       "englisch_web": "Three times in the year all your males shall appear before the Lord Yahweh, the God of Israel."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Denn ich will Völker vor dir vertreiben und dein Gebiet groß machen.\nNiemand wird dein Land haben wollen,\nwenn du dreimal im Jahr hinaufgehst, um vor dem HERRN, deinem Gott, zu erscheinen.",
+       "englisch_web": "For I will drive out nations before you and enlarge your borders; neither shall any man desire your land when you go up to appear before Yahweh, your God, three times in the year."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Du sollst das Blut meines Opfers nicht zusammen mit gesäuertem Brot darbringen.\nUnd vom Opfer des Passafestes darf nichts bis zum Morgen übrig bleiben.",
+       "englisch_web": "“You shall not offer the blood of my sacrifice with leavened bread. The sacrifice of the feast of the Passover shall not be left to the morning."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Die allerersten Früchte deines Ackers sollst du in das Haus des HERRN, deines Gottes, bringen.\nDu sollst ein Böckchen nicht in der Milch seiner Mutter kochen.“",
+       "englisch_web": "“You shall bring the first of the first fruits of your ground to the house of Yahweh your God. “You shall not boil a young goat in its mother’s milk.”"
+      }
+     ],
+     "erklaerung": "Diese Gebote kennen wir schon aus den Kapiteln 13 und 23. Sie werden hier wiederholt, weil der Bund neu geschlossen wird.\n„Auslösen“ heißt: Man gibt etwas anderes an Gottes Stelle, zum Beispiel ein Lamm für den Esel. Ein Esel durfte nicht geopfert werden. Und Menschen wurden niemals geopfert. Für jeden erstgeborenen Sohn gab man stattdessen eine Gabe.\nDie Sabbatruhe gilt auch in der Erntezeit, wenn es am meisten Arbeit gibt. Gerade dann soll man Gott vertrauen.\n„Niemand wird dein Land haben wollen“ – Gott verspricht: Wenn alle Männer zum Fest gehen, passt Gott auf ihr Land auf. Niemand wird es angreifen.\nMehr zu den Festen und zum Böckchen steht in den Erklärungen zu 2. Mose 23."
+    },
+    {
+     "ueberschrift": "Vierzig Tage auf dem Berg",
+     "vers_von": 27,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Schreib dir diese Worte auf.\nDenn auf der Grundlage dieser Worte habe ich mit dir und mit Israel einen Bund geschlossen.“",
+       "englisch_web": "Yahweh said to Moses, “Write these words; for in accordance with these words I have made a covenant with you and with Israel.”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Mose war dort beim HERRN, 40 Tage und 40 Nächte.\nEr aß kein Brot und trank kein Wasser.\nUnd er schrieb auf die Tafeln die Worte des Bundes, die Zehn Gebote.",
+       "englisch_web": "He was there with Yahweh forty days and forty nights; he neither ate bread, nor drank water. He wrote on the tablets the words of the covenant, the ten commandments."
+      }
+     ],
+     "erklaerung": "Zum zweiten Mal ist Mose 40 Tage auf dem Berg. Er fastet ganz, ohne Essen und Trinken. Das ist mehr, als ein Mensch normalerweise aushält. Gott selbst erhält ihn.\nWer auf die Tafeln schreibt, ist hier nicht ganz eindeutig. In Vers 1 hatte Gott gesagt, dass er selbst schreiben will. Auch 5. Mose 10,4 sagt: Gott schrieb.\nAuch Jesus fastete später 40 Tage in der Wüste (Matthäus 4,2)."
+    },
+    {
+     "ueberschrift": "Moses Gesicht leuchtet",
+     "vers_von": 29,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 29,
+       "leichte_sprache": "Mose stieg vom Berg Sinai herab.\nEr hatte die zwei Tafeln des Bundes in seiner Hand.\nAls er vom Berg herunterkam, wusste Mose nicht, dass die Haut seines Gesichts strahlte,\nweil er mit Gott geredet hatte.",
+       "englisch_web": "When Moses came down from Mount Sinai with the two tablets of the covenant in Moses’ hand, when he came down from the mountain, Moses didn’t know that the skin of his face shone by reason of his speaking with him."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Aaron und alle Israeliten sahen Mose.\nUnd schau: Die Haut seines Gesichts strahlte.\nDa hatten sie Angst, in seine Nähe zu kommen.",
+       "englisch_web": "When Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come near him."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Mose rief sie.\nDa kamen Aaron und alle Anführer der Gemeinde zu ihm zurück,\nund Mose redete mit ihnen.",
+       "englisch_web": "Moses called to them, and Aaron and all the rulers of the congregation returned to him; and Moses spoke to them."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Danach kamen alle Israeliten zu ihm.\nUnd er gab ihnen alle Gebote, die der HERR auf dem Berg Sinai mit ihm geredet hatte.",
+       "englisch_web": "Afterward all the children of Israel came near, and he gave them all the commandments that Yahweh had spoken with him on Mount Sinai."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Als Mose fertig war, mit ihnen zu reden, legte er ein Tuch über sein Gesicht.",
+       "englisch_web": "When Moses was done speaking with them, he put a veil on his face."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Aber wenn Mose zum HERRN hineinging, um mit ihm zu reden, nahm er das Tuch ab, bis er wieder herauskam.\nDann kam er heraus und sagte den Israeliten, was ihm befohlen worden war.",
+       "englisch_web": "But when Moses went in before Yahweh to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Israeliten sahen das Gesicht von Mose, dass die Haut seines Gesichts strahlte.\nDann legte Mose das Tuch wieder über sein Gesicht, bis er wieder hineinging, um mit Gott zu reden.",
+       "englisch_web": "The children of Israel saw Moses’ face, that the skin of Moses’ face shone; so Moses put the veil on his face again, until he went in to speak with him."
+      }
+     ],
+     "erklaerung": "Mose war Gott so nahe, dass etwas von Gottes Licht auf ihm zurückblieb. Er selbst merkt es gar nicht.\nDas hebräische Wort für „strahlen“ hängt mit dem Wort für „Horn“ zusammen. Eine alte lateinische Übersetzung schrieb darum, Mose habe „Hörner“ gehabt. Deshalb zeigen manche alten Bilder und Statuen Mose mit Hörnern, zum Beispiel die berühmte Statue von Michelangelo in Rom. Gemeint sind aber Lichtstrahlen.\nDas Tuch trägt Mose nicht, wenn er mit Gott redet oder Gottes Worte weitergibt, sondern danach im Alltag.\nIm Neuen Testament schreibt Paulus über diese Geschichte (2. Korinther 3,7–18). Er sagt: Wer sich Gott zuwendet, dem wird die Decke weggenommen. Und Menschen, die auf Gott schauen, werden selbst immer mehr verwandelt."
+    }
+   ]
   }
  ]
 }
