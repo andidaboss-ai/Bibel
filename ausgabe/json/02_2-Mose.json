@@ -1,0 +1,862 @@
+{
+ "nr": 2,
+ "code": "EXO",
+ "kuerzel": "2Mo",
+ "name": "2. Mose",
+ "name_englisch": "Exodus",
+ "testament": "altes-testament",
+ "kapitel": 40,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Israel wird in Ägypten unterdrückt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 2. Buch Mose?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 2. Buch Mose heißt auch „Exodus“. Das bedeutet „Auszug“.\nEs erzählt, wie Gott sein Volk Israel aus der Sklaverei in Ägypten befreit.\nDie Hauptperson ist Mose.\nGott führt das Volk durch das Meer und durch die Wüste bis zum Berg Sinai.\nDort schließt Gott einen Bund mit seinem Volk und gibt ihm die Zehn Gebote.\nAm Ende baut das Volk ein heiliges Zelt, in dem Gott mitten unter ihnen wohnt.\nFür Juden ist der Auszug aus Ägypten bis heute das wichtigste Ereignis ihrer Geschichte. Sie feiern ihn jedes Jahr am Passafest.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Aus einer Familie wird ein Volk",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Namen der Söhne Israels, die nach Ägypten gekommen waren.\nMit Jakob kam jeder mit seiner Familie:",
+       "englisch_web": "Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ruben, Simeon, Levi und Juda,",
+       "englisch_web": "Reuben, Simeon, Levi, and Judah,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Issachar, Sebulon und Benjamin,",
+       "englisch_web": "Issachar, Zebulun, and Benjamin,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Dan und Naftali, Gad und Ascher.",
+       "englisch_web": "Dan and Naphtali, Gad and Asher."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Alle Nachkommen von Jakob zusammen waren 70 Personen.\nJosef war schon in Ägypten.",
+       "englisch_web": "All the souls who came out of Jacob’s body were seventy souls, and Joseph was in Egypt already."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Dann starben Josef und alle seine Brüder und alle Menschen dieser Generation.",
+       "englisch_web": "Joseph died, as did all his brothers, and all that generation."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Aber die Israeliten bekamen viele Kinder.\nSie vermehrten sich und wurden sehr zahlreich und sehr stark.\nDas ganze Land war voll von ihnen.",
+       "englisch_web": "The children of Israel were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them."
+      }
+     ],
+     "erklaerung": "Das 2. Buch Mose knüpft direkt an das 1. Buch an. Wieder werden die Söhne Jakobs genannt.\nGott hatte Abraham versprochen: Deine Nachkommen werden so zahlreich sein wie die Sterne. In Ägypten geht das in Erfüllung. Aus 70 Menschen wird ein großes Volk.\nDie Worte „fruchtbar sein“ und „sich vermehren“ erinnern an Gottes Segen bei der Schöpfung (1. Mose 1,28). Gottes Segen wirkt – auch in einem fremden Land."
+    },
+    {
+     "ueberschrift": "Ein neuer König",
+     "vers_von": 8,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Da kam in Ägypten ein neuer König an die Macht.\nEr wusste nichts von Josef.",
+       "englisch_web": "Now there arose a new king over Egypt, who didn’t know Joseph."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er sagte zu seinem Volk:\n„Schaut: Das Volk der Israeliten ist zahlreicher und stärker als wir.",
+       "englisch_web": "He said to his people, “Behold, the people of the children of Israel are more and mightier than we."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Kommt, wir müssen klug gegen sie vorgehen.\nSonst werden sie noch mehr.\nUnd wenn ein Krieg ausbricht, dann verbünden sie sich mit unseren Feinden.\nDann kämpfen sie gegen uns und ziehen aus dem Land weg.“",
+       "englisch_web": "Come, let’s deal wisely with them, lest they multiply, and it happen that when any war breaks out, they also join themselves to our enemies and fight against us, and escape out of the land.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Darum setzten die Ägypter Aufseher über sie ein.\nDie sollten sie mit schwerer Zwangsarbeit unterdrücken.\nSo mussten sie für den Pharao die Vorratsstädte Pitom und Ramses bauen.",
+       "englisch_web": "Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Aber je mehr man sie unterdrückte, desto mehr wurden sie und desto weiter breiteten sie sich aus.\nDa bekamen die Ägypter Angst vor den Israeliten.",
+       "englisch_web": "But the more they afflicted them, the more they multiplied and the more they spread out. They started to dread the children of Israel."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Darum zwangen die Ägypter die Israeliten mit großer Härte zur Arbeit.",
+       "englisch_web": "The Egyptians ruthlessly made the children of Israel serve,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Sie machten ihnen das Leben bitter mit schwerer Arbeit:\nmit Lehm und Ziegeln\nund mit allen möglichen Arbeiten auf dem Feld.\nBei allen diesen Arbeiten zwangen sie sie mit großer Härte.",
+       "englisch_web": "and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve."
+      }
+     ],
+     "erklaerung": "Viele Jahre sind vergangen. Der neue Pharao „wusste nichts von Josef“. Das heißt: Er erinnert sich nicht mehr daran, dass ein Israelit Ägypten einst vor dem Hunger gerettet hat. Oder es ist ihm egal.\nDer Pharao hat Angst vor den Fremden in seinem Land. Aus Angst wird Unterdrückung. Das ist leider bis heute ein bekanntes Muster: Man macht eine Minderheit zum Sündenbock.\nDie Israeliten werden zu Sklaven. Sie müssen Ziegel aus Lehm herstellen und damit Städte bauen.\nAber Gott lässt sein Volk trotzdem wachsen. Die Unterdrückung erreicht das Gegenteil von dem, was der Pharao will."
+    },
+    {
+     "ueberschrift": "Die mutigen Hebammen",
+     "vers_von": 15,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Der König von Ägypten redete mit den hebräischen Hebammen.\nDie eine hieß Schifra, die andere hieß Pua.",
+       "englisch_web": "The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er sagte:\n„Wenn ihr den hebräischen Frauen bei der Geburt helft, dann achtet darauf, was es wird:\nWenn es ein Junge ist, dann tötet ihn.\nWenn es ein Mädchen ist, dann darf es leben.“",
+       "englisch_web": "and he said, “When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool, if it is a son, then you shall kill him; but if it is a daughter, then she shall live.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Aber die Hebammen hatten Ehrfurcht vor Gott.\nSie taten nicht, was der König von Ägypten ihnen befohlen hatte.\nSie ließen die Jungen am Leben.",
+       "englisch_web": "But the midwives feared God, and didn’t do what the king of Egypt commanded them, but saved the baby boys alive."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Da ließ der König von Ägypten die Hebammen rufen.\nEr sagte zu ihnen:\n„Warum habt ihr das getan? Warum habt ihr die Jungen am Leben gelassen?“",
+       "englisch_web": "The king of Egypt called for the midwives, and said to them, “Why have you done this thing and saved the boys alive?”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Hebammen antworteten dem Pharao:\n„Die hebräischen Frauen sind nicht wie die ägyptischen Frauen.\nSie sind kräftig.\nSie haben ihr Kind schon geboren, bevor die Hebamme zu ihnen kommt.“",
+       "englisch_web": "The midwives said to Pharaoh, “Because the Hebrew women aren’t like the Egyptian women; for they are vigorous and give birth before the midwife comes to them.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Gott tat den Hebammen Gutes.\nUnd das Volk wurde immer zahlreicher und sehr stark.",
+       "englisch_web": "God dealt well with the midwives, and the people multiplied, and grew very mighty."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Weil die Hebammen Ehrfurcht vor Gott hatten, schenkte er ihnen eigene Familien.",
+       "englisch_web": "Because the midwives feared God, he gave them families."
+      }
+     ],
+     "erklaerung": "Eine Hebamme ist eine Frau, die bei der Geburt hilft.\nDer Pharao befiehlt einen grausamen Massenmord an Babys. Aber zwei Frauen widersetzen sich – mitten im mächtigsten Reich der Welt.\nSie haben mehr Respekt vor Gott als vor dem König. Das ist der erste Akt von gewaltlosem Widerstand in der Bibel.\nSchifra und Pua werden mit Namen genannt. Der Name des Pharao wird nicht genannt. Für die Bibel sind diese mutigen Frauen wichtiger als der mächtige König.\nOb sie lügen oder die Wahrheit sagen, ist nicht ganz klar. Klar ist: Gott steht auf ihrer Seite, weil sie Leben retten."
+    },
+    {
+     "ueberschrift": "Der Befehl des Pharao",
+     "vers_von": 22,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Da befahl der Pharao seinem ganzen Volk:\n„Jeden Jungen, der geboren wird, sollt ihr in den Nil werfen.\nAber jedes Mädchen dürft ihr am Leben lassen.“",
+       "englisch_web": "Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive.”"
+      }
+     ],
+     "erklaerung": "Jetzt wird es noch schlimmer. Der Pharao befiehlt allen Ägyptern, die hebräischen Jungen zu töten.\nDer Nil war für die Ägypter ein Gott, der Leben schenkt. Jetzt soll er ein Ort des Todes werden.\nAber gerade im Nil wird Gott ein Kind retten: Mose. Davon erzählt das nächste Kapitel."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Mose wird geboren und gerettet",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Kind im Körbchen",
+     "vers_von": 1,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Mann aus der Familie Levi heiratete eine Frau, die auch aus der Familie Levi stammte.",
+       "englisch_web": "A man of the house of Levi went and took a daughter of Levi as his wife."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Die Frau wurde schwanger und gebar einen Sohn.\nSie sah, dass er ein schönes Kind war.\nDarum versteckte sie ihn drei Monate lang.",
+       "englisch_web": "The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Als sie ihn nicht mehr länger verstecken konnte, nahm sie ein Körbchen aus Papyrus.\nSie dichtete es mit Erdpech und Pech ab.\nDann legte sie das Kind hinein.\nUnd sie setzte das Körbchen ins Schilf am Ufer des Nils.",
+       "englisch_web": "When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river’s bank."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Seine Schwester stellte sich in einiger Entfernung hin.\nSie wollte sehen, was mit ihm geschehen würde.",
+       "englisch_web": "His sister stood far off, to see what would be done to him."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da kam die Tochter des Pharao herab, um im Nil zu baden.\nIhre Dienerinnen gingen am Ufer entlang.\nSie sah das Körbchen im Schilf.\nSie schickte ihre Dienerin hin, um es zu holen.",
+       "englisch_web": "Pharaoh’s daughter came down to bathe at the river. Her maidens walked along by the riverside. She saw the basket among the reeds, and sent her servant to get it."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Sie öffnete es und sah das Kind.\nUnd schau: Der kleine Junge weinte.\nDa hatte sie Mitleid mit ihm.\nSie sagte:\n„Das ist eines von den Kindern der Hebräer.“",
+       "englisch_web": "She opened it, and saw the child, and behold, the baby cried. She had compassion on him, and said, “This is one of the Hebrews’ children.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Da sagte seine Schwester zur Tochter des Pharao:\n„Soll ich hingehen und dir eine hebräische Frau holen, die das Kind für dich stillt?“",
+       "englisch_web": "Then his sister said to Pharaoh’s daughter, “Should I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Tochter des Pharao sagte zu ihr:\n„Ja, geh!“\nDa ging das Mädchen und holte die Mutter des Kindes.",
+       "englisch_web": "Pharaoh’s daughter said to her, “Go.” The young woman went and called the child’s mother."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Tochter des Pharao sagte zu ihr:\n„Nimm dieses Kind mit und still es für mich.\nIch werde dir einen Lohn dafür geben.“\nSo nahm die Frau das Kind und stillte es.",
+       "englisch_web": "Pharaoh’s daughter said to her, “Take this child away, and nurse him for me, and I will give you your wages.” The woman took the child, and nursed him."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Als das Kind größer geworden war, brachte sie es zur Tochter des Pharao.\nUnd es wurde ihr Sohn.\nSie nannte ihn Mose.\nDenn sie sagte:\n„Ich habe ihn aus dem Wasser gezogen.“",
+       "englisch_web": "The child grew, and she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, and said, “Because I drew him out of the water.”"
+      }
+     ],
+     "erklaerung": "Mose kommt aus der Familie Levi. Später erfahren wir die Namen seiner Eltern: Amram und Jochebed (Kapitel 6,20). Seine Schwester heißt Mirjam.\nDas Wort für „Körbchen“ ist im Hebräischen dasselbe Wort wie „Arche“ bei Noah. Wie Noah in seiner Arche wird auch Mose in seinem kleinen „Kasten“ vor dem Tod im Wasser gerettet.\nPapyrus ist eine Schilfpflanze am Nil. Daraus machte man auch Papier.\nWieder sind es Frauen, die Leben retten: die Mutter, die Schwester – und sogar die Tochter des Pharao, die ihrem eigenen Vater nicht gehorcht.\nWas für eine Wendung: Die Mutter bekommt ihr eigenes Kind zurück – und wird sogar noch dafür bezahlt!\nDer Name „Mose“ ist wohl ägyptisch und bedeutet „Sohn“ oder „geboren“. Im Hebräischen klingt er wie „herausziehen“. Später wird Mose selbst sein Volk aus Ägypten „herausziehen“."
+    },
+    {
+     "ueberschrift": "Mose tötet einen Ägypter",
+     "vers_von": 11,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Als Mose erwachsen geworden war, ging er einmal zu seinen Brüdern hinaus.\nEr sah, wie schwer sie arbeiten mussten.\nDa sah er, wie ein Ägypter einen Hebräer schlug, einen von seinen Brüdern.",
+       "englisch_web": "In those days, when Moses had grown up, he went out to his brothers and saw their burdens. He saw an Egyptian striking a Hebrew, one of his brothers."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Er schaute nach allen Seiten.\nAls er sah, dass niemand da war, erschlug er den Ägypter.\nUnd er verscharrte ihn im Sand.",
+       "englisch_web": "He looked this way and that way, and when he saw that there was no one, he killed the Egyptian, and hid him in the sand."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Am nächsten Tag ging er wieder hinaus.\nUnd schau: Da stritten sich zwei hebräische Männer.\nEr sagte zu dem, der im Unrecht war:\n„Warum schlägst du deinen Nachbarn?“",
+       "englisch_web": "He went out the second day, and behold, two men of the Hebrews were fighting with each other. He said to him who did the wrong, “Why do you strike your fellow?”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Der antwortete:\n„Wer hat dich denn zum Anführer und Richter über uns gemacht?\nWillst du mich etwa auch umbringen, so wie du den Ägypter umgebracht hast?“\nDa bekam Mose Angst.\nEr dachte: „Dann ist die Sache also bekannt geworden.“",
+       "englisch_web": "He said, “Who made you a prince and a judge over us? Do you plan to kill me, as you killed the Egyptian?” Moses was afraid, and said, “Surely this thing is known.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Als der Pharao davon hörte, wollte er Mose töten lassen.\nAber Mose floh vor dem Pharao.\nEr ging in das Land Midian.\nDort setzte er sich an einen Brunnen.",
+       "englisch_web": "Now when Pharaoh heard this thing, he sought to kill Moses. But Moses fled from the face of Pharaoh, and lived in the land of Midian, and he sat down by a well."
+      }
+     ],
+     "erklaerung": "Mose ist am Hof des Pharao aufgewachsen. Aber er weiß, dass er ein Hebräer ist. Er nennt die Sklaven „seine Brüder“.\nEr sieht Unrecht und will helfen. Aber er tut es auf eigene Faust und mit Gewalt. Er tötet einen Menschen und versteckt die Leiche.\nDie Bibel lobt das nicht. Mose will Gerechtigkeit, aber auf dem falschen Weg. Er muss erst lernen, auf Gott zu hören.\nMidian ist ein Wüstengebiet östlich von Ägypten, wahrscheinlich im Nordwesten des heutigen Saudi-Arabien. Die Midianiter stammten von Abraham und Ketura ab (1. Mose 25,2)."
+    },
+    {
+     "ueberschrift": "Mose in Midian",
+     "vers_von": 16,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Der Priester von Midian hatte sieben Töchter.\nSie kamen zum Brunnen, schöpften Wasser und füllten die Tränkrinnen,\num die Schafe und Ziegen ihres Vaters zu tränken.",
+       "englisch_web": "Now the priest of Midian had seven daughters. They came and drew water, and filled the troughs to water their father’s flock."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Da kamen Hirten und jagten sie weg.\nAber Mose stand auf, half den Frauen und tränkte ihre Herde.",
+       "englisch_web": "The shepherds came and drove them away; but Moses stood up and helped them, and watered their flock."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Als sie zu ihrem Vater Reguël kamen, fragte er:\n„Warum seid ihr heute so früh zurück?“",
+       "englisch_web": "When they came to Reuel, their father, he said, “How is it that you have returned so early today?”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Sie antworteten:\n„Ein Ägypter hat uns vor den Hirten beschützt.\nEr hat sogar Wasser für uns geschöpft und die Herde getränkt.“",
+       "englisch_web": "They said, “An Egyptian delivered us out of the hand of the shepherds, and moreover he drew water for us, and watered the flock.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da sagte er zu seinen Töchtern:\n„Wo ist er denn?\nWarum habt ihr den Mann dort gelassen?\nRuft ihn, damit er mit uns isst.“",
+       "englisch_web": "He said to his daughters, “Where is he? Why is it that you have left the man? Call him, that he may eat bread.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Mose war einverstanden, bei dem Mann zu bleiben.\nUnd der Mann gab Mose seine Tochter Zippora zur Frau.",
+       "englisch_web": "Moses was content to dwell with the man. He gave Moses Zipporah, his daughter."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Sie gebar einen Sohn.\nMose nannte ihn Gerschom.\nDenn er sagte:\n„Ich bin ein Fremder in einem fremden Land.“",
+       "englisch_web": "She bore a son, and he named him Gershom, for he said, “I have lived as a foreigner in a foreign land.”"
+      }
+     ],
+     "erklaerung": "Wieder eine Begegnung am Brunnen, wie bei Rebekka und bei Rahel. Und wieder führt sie zu einer Hochzeit.\nMose setzt sich wieder für Schwache ein. Diesmal ohne Gewalt.\nDie Frauen halten Mose für einen Ägypter, weil er wie einer gekleidet ist.\nDer Priester von Midian hat zwei Namen: Reguël und Jitro (Kapitel 3,1).\n„Gerschom“ klingt wie „ein Fremder dort“. Mose fühlt sich heimatlos: In Ägypten war er ein Hebräer, in Midian ist er ein Fremder."
+    },
+    {
+     "ueberschrift": "Gott hört das Schreien seines Volkes",
+     "vers_von": 23,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Viele Jahre später starb der König von Ägypten.\nDie Israeliten aber stöhnten unter der Sklaverei.\nSie schrien um Hilfe.\nUnd ihr Hilfeschrei wegen der Sklaverei stieg zu Gott hinauf.",
+       "englisch_web": "In the course of those many days, the king of Egypt died, and the children of Israel sighed because of the bondage, and they cried, and their cry came up to God because of the bondage."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Gott hörte ihr Stöhnen.\nUnd Gott dachte an seinen Bund mit Abraham, mit Isaak und mit Jakob.",
+       "englisch_web": "God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Gott sah die Israeliten an.\nUnd Gott wusste Bescheid.",
+       "englisch_web": "God saw the children of Israel, and God understood."
+      }
+     ],
+     "erklaerung": "Diese drei Verse sind der Wendepunkt. Viermal steht hier „Gott“: Gott hört. Gott denkt an seinen Bund. Gott sieht. Gott weiß Bescheid.\nDas Volk hat lange gelitten. Es schien, als sei Gott weit weg. Aber Gott hat nichts vergessen. Er hat jeden Schrei gehört.\n„Gott wusste Bescheid“ heißt mehr als: Er hatte Informationen. Es heißt: Er kennt ihr Leid von innen. Er fühlt mit ihnen.\nDiese Botschaft gilt bis heute für alle, die unterdrückt werden: Gott hört euer Schreien."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der brennende Dornbusch",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ein Busch, der brennt und nicht verbrennt",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Mose hütete die Schafe und Ziegen seines Schwiegervaters Jitro, des Priesters von Midian.\nEr trieb die Herde weit in die Wüste hinein.\nSo kam er an den Berg Gottes, den Horeb.",
+       "englisch_web": "Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da erschien ihm der Engel des HERRN in einer Feuerflamme mitten aus einem Dornbusch.\nMose schaute hin.\nUnd schau: Der Dornbusch brannte im Feuer.\nAber der Dornbusch verbrannte nicht.",
+       "englisch_web": "Yahweh’s angel appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Mose sagte:\n„Ich will hingehen und mir diese seltsame Erscheinung ansehen.\nWarum verbrennt der Dornbusch nicht?“",
+       "englisch_web": "Moses said, “I will go now, and see this great sight, why the bush is not burned.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der HERR sah, dass Mose näher kam, um es sich anzusehen.\nDa rief Gott ihn mitten aus dem Dornbusch:\n„Mose! Mose!“\nEr antwortete: „Hier bin ich.“",
+       "englisch_web": "When Yahweh saw that he came over to see, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Gott sagte:\n„Komm nicht näher!\nZieh deine Sandalen aus.\nDenn der Ort, auf dem du stehst, ist heiliger Boden.“",
+       "englisch_web": "He said, “Don’t come close. Take off your sandals, for the place you are standing on is holy ground.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und er sagte:\n„Ich bin der Gott deines Vaters,\nder Gott Abrahams, der Gott Isaaks und der Gott Jakobs.“\nDa verhüllte Mose sein Gesicht.\nDenn er hatte Angst, Gott anzuschauen.",
+       "englisch_web": "Moreover he said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” Moses hid his face because he was afraid to look at God."
+      }
+     ],
+     "erklaerung": "Mose ist jetzt ein einfacher Hirte in der Wüste. Er ist etwa 80 Jahre alt (siehe Kapitel 7,7). Er hat wohl nicht mehr damit gerechnet, dass in seinem Leben noch etwas Großes passiert.\nDer Horeb ist ein anderer Name für den Berg Sinai.\nEin Feuer, das brennt, aber nicht verbrennt – ein Zeichen für Gottes Gegenwart. Gott ist wie ein Feuer: voller Kraft, aber er zerstört nicht.\nMose ist neugierig. Gott ruft ihn bei seinem Namen, zweimal – so wie bei Abraham und Jakob.\n„Heiliger Boden“: Wo Gott ist, wird ein gewöhnlicher Ort besonders. Die Schuhe auszuziehen ist ein Zeichen von Ehrfurcht. In vielen Kulturen zieht man bis heute die Schuhe aus, wenn man einen heiligen Ort betritt."
+    },
+    {
+     "ueberschrift": "Gott hat das Elend gesehen",
+     "vers_von": 7,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Der HERR sagte:\n„Ich habe das Elend meines Volkes in Ägypten genau gesehen.\nIch habe gehört, wie sie über ihre Unterdrücker schreien.\nJa, ich kenne ihre Schmerzen.",
+       "englisch_web": "Yahweh said, “I have surely seen the affliction of my people who are in Egypt, and have heard their cry because of their taskmasters, for I know their sorrows."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum bin ich herabgekommen.\nIch will sie aus der Hand der Ägypter retten.\nIch will sie aus diesem Land herausführen in ein gutes und weites Land,\nin ein Land, in dem Milch und Honig fließen:\nin das Gebiet der Kanaaniter, Hetiter, Amoriter, Perisiter, Hiwiter und Jebusiter.",
+       "englisch_web": "I have come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land to a good and large land, to a land flowing with milk and honey; to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Schau: Der Hilfeschrei der Israeliten ist zu mir gedrungen.\nIch habe auch gesehen, wie grausam die Ägypter sie unterdrücken.",
+       "englisch_web": "Now, behold, the cry of the children of Israel has come to me. Moreover I have seen the oppression with which the Egyptians oppress them."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Darum geh jetzt!\nIch schicke dich zum Pharao.\nFühre mein Volk, die Israeliten, aus Ägypten heraus.“",
+       "englisch_web": "Come now therefore, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt.”"
+      }
+     ],
+     "erklaerung": "Gott sagt: Ich habe gesehen, gehört, ich kenne die Schmerzen, ich bin herabgekommen, ich will retten. Gott bleibt nicht im Himmel. Er kommt herab zu den Leidenden.\n„Ein Land, in dem Milch und Honig fließen“ – das heißt: ein reiches, fruchtbares Land, in dem es alles im Überfluss gibt. Milch von den Herden, Honig von den Bienen oder aus Datteln.\nUnd dann die Überraschung: Gott will retten – und schickt dafür Mose. Gott handelt oft durch Menschen."
+    },
+    {
+     "ueberschrift": "„Wer bin ich?“",
+     "vers_von": 11,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Mose sagte zu Gott:\n„Wer bin ich denn, dass ich zum Pharao gehen soll?\nUnd dass ich die Israeliten aus Ägypten herausführen soll?“",
+       "englisch_web": "Moses said to God, “Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Gott antwortete:\n„Ich werde mit dir sein.\nUnd das soll das Zeichen für dich sein, dass ich dich geschickt habe:\nWenn du das Volk aus Ägypten herausgeführt hast,\ndann werdet ihr Gott auf diesem Berg dienen.“",
+       "englisch_web": "He said, “Certainly I will be with you. This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.”"
+      }
+     ],
+     "erklaerung": "Früher wollte Mose aus eigener Kraft seinem Volk helfen. Jetzt, wo Gott ihn ruft, fühlt er sich zu klein.\nGott antwortet nicht mit „Du schaffst das schon“. Er sagt: „**Ich** werde mit dir sein.“ Es kommt nicht darauf an, wer Mose ist, sondern wer mit ihm geht.\nDas Zeichen ist seltsam: Es kommt erst, wenn alles geschafft ist. Mose muss zuerst vertrauen und losgehen."
+    },
+    {
+     "ueberschrift": "Gottes Name",
+     "vers_von": 13,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Mose sagte zu Gott:\n„Schau, wenn ich zu den Israeliten komme und zu ihnen sage:\n‚Der Gott eurer Vorfahren hat mich zu euch geschickt‘,\nund sie fragen mich: ‚Wie heißt er?‘ –\nwas soll ich ihnen dann sagen?“",
+       "englisch_web": "Moses said to God, “Behold, when I come to the children of Israel, and tell them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ what should I tell them?”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Gott sagte zu Mose:\n„Ich bin, der ich bin.“\nUnd er sagte:\n„So sollst du zu den Israeliten sagen:\n‚Ich bin‘ hat mich zu euch geschickt.“",
+       "englisch_web": "God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Weiter sagte Gott zu Mose:\n„So sollst du zu den Israeliten sagen:\n‚Der HERR, der Gott eurer Vorfahren,\nder Gott Abrahams, der Gott Isaaks und der Gott Jakobs,\nhat mich zu euch geschickt.‘\nDas ist mein Name für immer.\nSo sollen mich alle Generationen nennen.“",
+       "englisch_web": "God said moreover to Moses, “You shall tell the children of Israel this, ‘Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations."
+      }
+     ],
+     "erklaerung": "Das ist eine der wichtigsten Stellen der ganzen Bibel: Gott sagt seinen Namen.\n„Ich bin, der ich bin“ kann man auch übersetzen: „Ich werde sein, der ich sein werde“ oder „Ich bin da, als der ich da bin“. Der Name bedeutet: Gott ist immer da. Er ist da für sein Volk. Aber er lässt sich nicht festlegen oder einsperren. Er bleibt ein Geheimnis.\nAus diesem „Ich bin“ kommt der Gottesname „JHWH“ (wahrscheinlich „Jahwe“ ausgesprochen). In dieser Bibel steht dafür „der HERR“.\nAus Ehrfurcht sprechen Juden diesen Namen nicht aus. Sie sagen stattdessen „Adonai“ (mein Herr) oder „HaSchem“ (der Name).\nJesus sagt im Johannes-Evangelium mehrmals „Ich bin“: „Ich bin das Licht der Welt“, „Ich bin der gute Hirte“. Christen sehen darin einen Hinweis auf diesen Namen Gottes."
+    },
+    {
+     "ueberschrift": "Gottes Plan",
+     "vers_von": 16,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "„Geh und versammle die Ältesten von Israel.\nSag zu ihnen:\n‚Der HERR, der Gott eurer Vorfahren, der Gott Abrahams, Isaaks und Jakobs, ist mir erschienen.\nEr hat gesagt:\nIch habe mich um euch gekümmert.\nIch habe gesehen, was man euch in Ägypten antut.",
+       "englisch_web": "Go and gather the elders of Israel together, and tell them, ‘Yahweh, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Und ich habe gesagt:\nIch will euch aus dem Elend in Ägypten herausführen\nin das Land der Kanaaniter, Hetiter, Amoriter, Perisiter, Hiwiter und Jebusiter,\nin ein Land, in dem Milch und Honig fließen.‘",
+       "englisch_web": "I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sie werden auf dich hören.\nDann sollst du mit den Ältesten von Israel zum König von Ägypten gehen.\nIhr sollt zu ihm sagen:\n‚Der HERR, der Gott der Hebräer, ist uns begegnet.\nLass uns doch drei Tagesreisen weit in die Wüste ziehen.\nDort wollen wir dem HERRN, unserem Gott, Opfer bringen.‘",
+       "englisch_web": "They will listen to your voice. You shall come, you and the elders of Israel, to the king of Egypt, and you shall tell him, ‘Yahweh, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, that we may sacrifice to Yahweh, our God.’"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Ich weiß aber, dass der König von Ägypten euch nicht ziehen lassen wird.\nNicht einmal, wenn eine starke Hand ihn dazu zwingt.",
+       "englisch_web": "I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Darum werde ich meine Hand ausstrecken\nund Ägypten mit all meinen Wundern schlagen, die ich dort tun werde.\nDanach wird er euch ziehen lassen.",
+       "englisch_web": "I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ich werde dafür sorgen, dass die Ägypter diesem Volk wohlgesinnt sind.\nWenn ihr wegzieht, sollt ihr nicht mit leeren Händen gehen.",
+       "englisch_web": "I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Jede Frau soll ihre Nachbarin und die Frau, die in ihrem Haus wohnt, um Schmuck aus Silber und Gold und um Kleider bitten.\nDas sollt ihr euren Söhnen und Töchtern anziehen.\nSo sollt ihr die Ägypter berauben.“",
+       "englisch_web": "But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”"
+      }
+     ],
+     "erklaerung": "Älteste waren die erfahrenen, angesehenen Männer, die ein Volk oder eine Stadt leiteten.\nGott sagt Mose ehrlich voraus: Es wird nicht leicht. Der Pharao wird sich weigern.\nDie erste Bitte ist bescheiden: nur drei Tage in die Wüste, um Gott zu feiern. Selbst das wird der Pharao verweigern. Das zeigt, wie hart er ist.\nDie Israeliten sollen nicht mit leeren Händen gehen. Nach so vielen Jahren unbezahlter Sklavenarbeit ist das wie ein später Lohn. Gott hatte es schon Abraham versprochen: „Sie werden mit großem Besitz herausziehen“ (1. Mose 15,14)."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Gott gibt Mose Zeichen – Mose kehrt nach Ägypten zurück",
+   "abschnitte": [
+    {
+     "ueberschrift": "Drei Zeichen",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Mose antwortete:\n„Aber schau, sie werden mir nicht glauben und nicht auf mich hören.\nSie werden sagen: ‚Der HERR ist dir nicht erschienen.‘“",
+       "englisch_web": "Moses answered, “But, behold, they will not believe me, nor listen to my voice; for they will say, ‘Yahweh has not appeared to you.’”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der HERR fragte ihn:\n„Was hast du da in deiner Hand?“\nMose antwortete:\n„Einen Stab.“",
+       "englisch_web": "Yahweh said to him, “What is that in your hand?” He said, “A rod.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der HERR sagte:\n„Wirf ihn auf die Erde!“\nMose warf ihn auf die Erde.\nDa wurde der Stab zu einer Schlange.\nUnd Mose lief vor ihr weg.",
+       "englisch_web": "He said, “Throw it on the ground.” He threw it on the ground, and it became a snake; and Moses ran away from it."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Streck deine Hand aus und pack sie am Schwanz!“\nMose streckte seine Hand aus und packte sie.\nDa wurde sie in seiner Hand wieder zu einem Stab.",
+       "englisch_web": "Yahweh said to Moses, “Stretch out your hand, and take it by the tail.” He stretched out his hand, and took hold of it, and it became a rod in his hand."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "„So sollen sie glauben, dass dir der HERR erschienen ist,\nder Gott ihrer Vorfahren,\nder Gott Abrahams, der Gott Isaaks und der Gott Jakobs.“",
+       "englisch_web": "“This is so that they may believe that Yahweh, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Weiter sagte der HERR zu ihm:\n„Steck deine Hand in dein Gewand.“\nMose steckte seine Hand in sein Gewand.\nAls er sie wieder herauszog – schau: Da war seine Hand vom Aussatz befallen, weiß wie Schnee.",
+       "englisch_web": "Yahweh said furthermore to him, “Now put your hand inside your cloak.” He put his hand inside his cloak, and when he took it out, behold, his hand was leprous, as white as snow."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Der HERR sagte:\n„Steck deine Hand noch einmal in dein Gewand.“\nMose steckte seine Hand noch einmal in sein Gewand.\nAls er sie wieder herauszog – schau: Da war sie wieder gesund wie der Rest seines Körpers.",
+       "englisch_web": "He said, “Put your hand inside your cloak again.” He put his hand inside his cloak again, and when he took it out of his cloak, behold, it had turned again as his other flesh."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "„Wenn sie dir nicht glauben und nicht auf das erste Zeichen hören,\ndann werden sie dem zweiten Zeichen glauben.",
+       "englisch_web": "“It will happen, if they will not believe you or listen to the voice of the first sign, that they will believe the voice of the latter sign."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Und wenn sie auch diesen beiden Zeichen nicht glauben und nicht auf dich hören,\ndann nimm Wasser aus dem Nil und gieß es auf das trockene Land.\nDas Wasser, das du aus dem Nil nimmst, wird auf dem trockenen Land zu Blut werden.“",
+       "englisch_web": "It will happen, if they will not believe even these two signs or listen to your voice, that you shall take of the water of the river, and pour it on the dry land. The water which you take out of the river will become blood on the dry land.”"
+      }
+     ],
+     "erklaerung": "Mose hat immer noch Zweifel. Gott ist geduldig und gibt ihm Zeichen, die er den Israeliten zeigen kann.\nDer Stab war ein einfacher Hirtenstab – das Werkzeug seiner täglichen Arbeit. Gott macht daraus etwas Besonderes. Gott benutzt das, was wir schon in der Hand haben.\nDie Schlange war in Ägypten ein Zeichen für die Macht des Pharao. Mose packt sie am Schwanz. Das zeigt: Gott ist stärker als die Macht Ägyptens.\nAussatz war eine gefürchtete Hautkrankheit. Gott kann krank machen und heilen.\nDer Nil war für die Ägypter heilig. Wenn sein Wasser zu Blut wird, zeigt das: Gott ist auch über die Götter Ägyptens Herr."
+    },
+    {
+     "ueberschrift": "„Ich kann nicht gut reden“",
+     "vers_von": 10,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Mose sagte zum HERRN:\n„Ach, Herr, ich bin kein guter Redner.\nIch war es früher nicht, und ich bin es auch jetzt nicht, seit du mit deinem Diener redest.\nIch spreche schwerfällig, und meine Zunge ist ungeschickt.“",
+       "englisch_web": "Moses said to Yahweh, “O Lord, I am not eloquent, neither before now, nor since you have spoken to your servant; for I am slow of speech, and of a slow tongue.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der HERR sagte zu ihm:\n„Wer hat dem Menschen den Mund gemacht?\nWer macht stumm oder taub, sehend oder blind?\nBin ich es nicht, der HERR?",
+       "englisch_web": "Yahweh said to him, “Who made man’s mouth? Or who makes one mute, or deaf, or seeing, or blind? Isn’t it I, Yahweh?"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darum geh jetzt!\nIch werde mit deinem Mund sein.\nIch werde dir beibringen, was du sagen sollst.“",
+       "englisch_web": "Now therefore go, and I will be with your mouth, and teach you what you shall speak.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Aber Mose sagte:\n„Ach, Herr, schick doch bitte jemand anderen!“",
+       "englisch_web": "Moses said, “Oh, Lord, please send someone else.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Da wurde der HERR zornig über Mose.\nEr sagte:\n„Ist da nicht dein Bruder Aaron, der Levit?\nIch weiß, dass er gut reden kann.\nUnd schau: Er ist schon auf dem Weg zu dir.\nWenn er dich sieht, wird er sich von Herzen freuen.",
+       "englisch_web": "Yahweh’s anger burned against Moses, and he said, “What about Aaron, your brother, the Levite? I know that he can speak well. Also, behold, he is coming out to meet you. When he sees you, he will be glad in his heart."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Du sollst mit ihm reden und ihm die Worte in den Mund legen.\nIch werde mit deinem Mund und mit seinem Mund sein.\nIch werde euch beibringen, was ihr tun sollt.",
+       "englisch_web": "You shall speak to him, and put the words in his mouth. I will be with your mouth, and with his mouth, and will teach you what you shall do."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er soll für dich zum Volk reden.\nEr wird für dich der Mund sein.\nUnd du wirst für ihn wie Gott sein.",
+       "englisch_web": "He will be your spokesman to the people. It will happen that he will be to you a mouth, and you will be to him as God."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Und diesen Stab nimm in deine Hand.\nMit ihm sollst du die Zeichen tun.“",
+       "englisch_web": "You shall take this rod in your hand, with which you shall do the signs.”"
+      }
+     ],
+     "erklaerung": "Mose sucht immer neue Ausreden. Vielleicht stotterte er. Vielleicht hatte er nach 40 Jahren in der Wüste die ägyptische Sprache verlernt.\nGottes Antwort: Ich habe dich gemacht, ich kenne deine Schwächen. Ich helfe dir.\nAls Mose dann einfach sagt „Schick einen anderen“, wird Gott zornig. Hinter den Ausreden steckt die Angst, Gott zu vertrauen.\nAber Gott gibt trotzdem nach und schickt Hilfe: Moses Bruder Aaron. Gott nimmt Rücksicht auf unsere Schwächen.\n„Du wirst für ihn wie Gott sein“ heißt: Mose bekommt die Botschaft von Gott und gibt sie an Aaron weiter, so wie Gott zu einem Propheten spricht."
+    },
+    {
+     "ueberschrift": "Mose kehrt nach Ägypten zurück",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Mose ging zurück zu seinem Schwiegervater Jitro.\nEr sagte zu ihm:\n„Lass mich doch zu meinen Brüdern in Ägypten zurückkehren.\nIch will sehen, ob sie noch leben.“\nJitro sagte zu Mose:\n„Geh in Frieden!“",
+       "englisch_web": "Moses went and returned to Jethro his father-in-law, and said to him, “Please let me go and return to my brothers who are in Egypt, and see whether they are still alive.” Jethro said to Moses, “Go in peace.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der HERR sagte zu Mose in Midian:\n„Geh zurück nach Ägypten.\nDenn alle Männer, die dich töten wollten, sind tot.“",
+       "englisch_web": "Yahweh said to Moses in Midian, “Go, return into Egypt; for all the men who sought your life are dead.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da nahm Mose seine Frau und seine Söhne.\nEr setzte sie auf einen Esel und kehrte ins Land Ägypten zurück.\nDen Stab Gottes nahm Mose in seine Hand.",
+       "englisch_web": "Moses took his wife and his sons, and set them on a donkey, and he returned to the land of Egypt. Moses took God’s rod in his hand."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Wenn du jetzt nach Ägypten zurückkehrst, dann tu vor dem Pharao alle Wunder, die ich in deine Hand gelegt habe.\nAber ich werde sein Herz hart machen.\nDann wird er das Volk nicht ziehen lassen.",
+       "englisch_web": "Yahweh said to Moses, “When you go back into Egypt, see that you do before Pharaoh all the wonders which I have put in your hand, but I will harden his heart and he will not let the people go."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Dann sollst du zum Pharao sagen:\n‚So spricht der HERR:\nIsrael ist mein Sohn, mein Erstgeborener.",
+       "englisch_web": "You shall tell Pharaoh, ‘Yahweh says, Israel is my son, my firstborn,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ich habe dir gesagt:\nLass meinen Sohn ziehen, damit er mir dienen kann.\nAber du hast dich geweigert, ihn ziehen zu lassen.\nSchau: Darum werde ich deinen Sohn töten, deinen Erstgeborenen.‘“",
+       "englisch_web": "and I have said to you, “Let my son go, that he may serve me;” and you have refused to let him go. Behold, I will kill your firstborn son.’”"
+      }
+     ],
+     "erklaerung": "Mose ist respektvoll. Er bittet seinen Schwiegervater um Erlaubnis.\nDer Hirtenstab heißt jetzt „Stab Gottes“. Ein einfacher Gegenstand ist durch Gottes Auftrag etwas Besonderes geworden.\n„Ich werde sein Herz hart machen“ – das ist für viele Leser eine schwierige Stelle. Heißt das, der Pharao hat keine Wahl? In den nächsten Kapiteln steht oft auch: Der Pharao machte **selbst** sein Herz hart. Viele Ausleger verstehen es so: Der Pharao entscheidet sich immer wieder gegen Gott. Und Gott lässt ihn bei seiner Entscheidung bleiben und bestätigt sie.\n„Israel ist mein erstgeborener Sohn“ – Gott liebt sein Volk wie ein Vater sein Kind. Der Pharao will Gottes Sohn nicht freilassen. Darum wird er seinen eigenen Sohn verlieren. Das ist die letzte und schlimmste der zehn Plagen (Kapitel 12)."
+    },
+    {
+     "ueberschrift": "Eine rätselhafte Nacht",
+     "vers_von": 24,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Unterwegs, an einem Rastplatz, trat der HERR Mose entgegen und wollte ihn töten.",
+       "englisch_web": "On the way at a lodging place, Yahweh met Moses and wanted to kill him."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Da nahm Zippora einen scharfen Feuerstein.\nSie schnitt ihrem Sohn die Vorhaut ab.\nDamit berührte sie seine Füße und sagte:\n„Du bist mir ein Blutbräutigam!“",
+       "englisch_web": "Then Zipporah took a flint, and cut off the foreskin of her son, and cast it at his feet; and she said, “Surely you are a bridegroom of blood to me.”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Da ließ der HERR von ihm ab.\nSie sagte damals „Blutbräutigam“ wegen der Beschneidung.",
+       "englisch_web": "So he let him alone. Then she said, “You are a bridegroom of blood,” because of the circumcision."
+      }
+     ],
+     "erklaerung": "Das ist einer der rätselhaftesten Abschnitte der ganzen Bibel. Niemand kann ihn ganz sicher erklären.\nDie häufigste Erklärung: Mose hatte seinen Sohn nicht beschnitten, obwohl die Beschneidung das Zeichen des Bundes mit Gott war (1. Mose 17). Wer Gottes Volk führen soll, muss selbst Gottes Bund ernst nehmen.\nZippora, eine Ausländerin, erkennt die Gefahr und handelt schnell. Sie rettet Mose das Leben – wie schon die Hebammen, seine Mutter, seine Schwester und die Tochter des Pharao.\nWessen Füße sie berührt – die von Mose oder die des Sohnes – ist im Text nicht ganz klar. „Füße“ kann im Hebräischen auch ein zurückhaltendes Wort für die Geschlechtsteile sein.\n„Blutbräutigam“ war vielleicht ein alter Ausdruck, der mit der Beschneidung zu tun hatte. Was er genau bedeutet, weiß man heute nicht mehr."
+    },
+    {
+     "ueberschrift": "Mose und Aaron beim Volk",
+     "vers_von": 27,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Der HERR sagte zu Aaron:\n„Geh in die Wüste, Mose entgegen!“\nDa ging Aaron los.\nEr traf Mose am Berg Gottes und küsste ihn.",
+       "englisch_web": "Yahweh said to Aaron, “Go into the wilderness to meet Moses.” He went, and met him on God’s mountain, and kissed him."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Mose erzählte Aaron alles, was der HERR ihm aufgetragen hatte,\nund von allen Zeichen, die er tun sollte.",
+       "englisch_web": "Moses told Aaron all Yahweh’s words with which he had sent him, and all the signs with which he had instructed him."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Dann gingen Mose und Aaron los.\nSie versammelten alle Ältesten der Israeliten.",
+       "englisch_web": "Moses and Aaron went and gathered together all the elders of the children of Israel."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Aaron sagte alles, was der HERR zu Mose gesagt hatte.\nUnd er tat die Zeichen vor den Augen des Volkes.",
+       "englisch_web": "Aaron spoke all the words which Yahweh had spoken to Moses, and did the signs in the sight of the people."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Da glaubte das Volk.\nSie hörten, dass der HERR sich um die Israeliten gekümmert\nund dass er ihr Elend gesehen hatte.\nDa verneigten sie sich und beteten an.",
+       "englisch_web": "The people believed, and when they heard that Yahweh had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshiped."
+      }
+     ],
+     "erklaerung": "Die Brüder treffen sich am Berg Gottes, dort, wo Gott Mose im Dornbusch begegnet ist.\nMose hatte Angst, dass niemand ihm glaubt. Aber genau das Gegenteil geschieht: Das Volk glaubt und betet Gott an.\nNach langen Jahren der Unterdrückung hören die Menschen endlich: Gott hat uns nicht vergessen. Er hat unser Leid gesehen. Das ist die beste Nachricht, die man ihnen bringen kann."
+    }
+   ]
+  },
+  {
+   "kapitel": 5,
+   "titel": "Mose vor dem Pharao – die Arbeit wird noch schwerer",
+   "abschnitte": [
+    {
+     "ueberschrift": "„Lass mein Volk ziehen!“",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Danach gingen Mose und Aaron zum Pharao und sagten:\n„So spricht der HERR, der Gott Israels:\n‚Lass mein Volk ziehen, damit es mir in der Wüste ein Fest feiern kann.‘“",
+       "englisch_web": "Afterward Moses and Aaron came, and said to Pharaoh, “This is what Yahweh, the God of Israel, says, ‘Let my people go, that they may hold a feast to me in the wilderness.’”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der Pharao antwortete:\n„Wer ist denn der HERR, dass ich auf ihn hören sollte und Israel ziehen lassen sollte?\nIch kenne den HERRN nicht.\nUnd ich lasse Israel auch nicht ziehen.“",
+       "englisch_web": "Pharaoh said, “Who is Yahweh, that I should listen to his voice to let Israel go? I don’t know Yahweh, and moreover I will not let Israel go.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie sagten:\n„Der Gott der Hebräer ist uns begegnet.\nLass uns doch drei Tagesreisen weit in die Wüste ziehen.\nDort wollen wir dem HERRN, unserem Gott, Opfer bringen.\nSonst schlägt er uns mit der Pest oder mit dem Schwert.“",
+       "englisch_web": "They said, “The God of the Hebrews has met with us. Please let us go three days’ journey into the wilderness, and sacrifice to Yahweh, our God, lest he fall on us with pestilence, or with the sword.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der König von Ägypten sagte zu ihnen:\n„Mose und Aaron, warum haltet ihr das Volk von der Arbeit ab?\nGeht zurück an eure Arbeit!“",
+       "englisch_web": "The king of Egypt said to them, “Why do you, Moses and Aaron, take the people from their work? Get back to your burdens!”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Und der Pharao sagte:\n„Schaut, das Volk im Land ist schon so zahlreich.\nUnd ihr wollt, dass sie sich von ihrer Arbeit ausruhen!“",
+       "englisch_web": "Pharaoh said, “Behold, the people of the land are now many, and you make them rest from their burdens.”"
+      }
+     ],
+     "erklaerung": "„Lass mein Volk ziehen!“ – Dieser Satz wurde berühmt. Er wurde später zum Ruf vieler unterdrückter Menschen, zum Beispiel der schwarzen Sklaven in Amerika („Let my people go“).\nDer Pharao hält sich selbst für einen Gott. Für ihn ist der Gott der Sklaven ein Niemand: „Wer ist denn der HERR? Ich kenne ihn nicht.“ In den nächsten Kapiteln wird er ihn kennenlernen.\nDer Pharao denkt nur an die Arbeitskraft der Sklaven. Für ihn sind sie keine Menschen, sondern Arbeiter."
+    },
+    {
+     "ueberschrift": "Ziegel ohne Stroh",
+     "vers_von": 6,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Noch am selben Tag gab der Pharao den Sklaventreibern und den Aufsehern des Volkes einen Befehl:",
+       "englisch_web": "The same day Pharaoh commanded the taskmasters of the people and their officers, saying,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "„Ihr sollt dem Volk kein Stroh mehr geben, um Ziegel zu machen, so wie bisher.\nSie sollen selbst gehen und sich Stroh sammeln.",
+       "englisch_web": "“You shall no longer give the people straw to make brick, as before. Let them go and gather straw for themselves."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber sie sollen trotzdem genauso viele Ziegel machen wie bisher.\nIhr dürft ihnen nichts davon erlassen.\nDenn sie sind faul.\nDarum schreien sie: ‚Wir wollen gehen und unserem Gott Opfer bringen.‘",
+       "englisch_web": "You shall require from them the number of the bricks which they made before. You shall not diminish anything of it, for they are idle. Therefore they cry, saying, ‘Let’s go and sacrifice to our God.’"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Arbeit soll für die Männer noch schwerer werden.\nSie sollen nur noch mit ihrer Arbeit beschäftigt sein.\nDann hören sie nicht mehr auf solche Lügengeschichten.“",
+       "englisch_web": "Let heavier work be laid on the men, that they may labor in it. Don’t let them pay any attention to lying words.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Da gingen die Sklaventreiber und die Aufseher des Volkes hinaus.\nSie sagten zum Volk:\n„So spricht der Pharao:\n‚Ich gebe euch kein Stroh mehr.",
+       "englisch_web": "The taskmasters of the people went out with their officers, and they spoke to the people, saying, “This is what Pharaoh says: ‘I will not give you straw."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Geht selbst und holt euch Stroh, wo ihr es findet.\nAber eure Arbeit wird um nichts weniger.‘“",
+       "englisch_web": "Go yourselves, get straw where you can find it, for nothing of your work shall be diminished.’”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da verteilte sich das Volk über das ganze Land Ägypten.\nSie sammelten Stoppeln, um Stroh zu haben.",
+       "englisch_web": "So the people were scattered abroad throughout all the land of Egypt to gather stubble for straw."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Und die Sklaventreiber trieben sie an:\n„Schafft jeden Tag eure Arbeit, genauso viel wie damals, als ihr Stroh bekommen habt!“",
+       "englisch_web": "The taskmasters were urgent saying, “Fulfill your work quota daily, as when there was straw!”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Die Aufseher der Israeliten waren von den Sklaventreibern des Pharao eingesetzt worden.\nSie wurden geschlagen.\nMan fragte sie:\n„Warum habt ihr gestern und heute nicht so viele Ziegel gemacht wie vorher?“",
+       "englisch_web": "The officers of the children of Israel, whom Pharaoh’s taskmasters had set over them, were beaten, and were asked, “Why haven’t you fulfilled your quota both yesterday and today, in making brick as before?”"
+      }
+     ],
+     "erklaerung": "Ziegel machte man aus Lehm, Wasser und gehacktem Stroh. Das Stroh machte die Ziegel fester.\nJetzt müssen die Israeliten das Stroh selbst suchen – und trotzdem genauso viele Ziegel machen. Das ist unmöglich. Der Pharao will sie absichtlich fertigmachen.\n„Stoppeln“ sind die kurzen Halmreste, die nach der Ernte auf dem Feld stehen bleiben.\nDie Aufseher waren Israeliten, die ihre eigenen Leute beaufsichtigen mussten. Sie stehen zwischen den Fronten – und werden geschlagen, wenn ihre Leute es nicht schaffen."
+    },
+    {
+     "ueberschrift": "Die Klage der Aufseher",
+     "vers_von": 15,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Da gingen die Aufseher der Israeliten zum Pharao.\nSie klagten ihm laut:\n„Warum behandelst du deine Diener so?",
+       "englisch_web": "Then the officers of the children of Israel came and cried to Pharaoh, saying, “Why do you deal this way with your servants?"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Deine Diener bekommen kein Stroh mehr.\nUnd trotzdem sagt man zu uns: ‚Macht Ziegel!‘\nUnd schau: Deine Diener werden geschlagen.\nAber die Schuld liegt bei deinen eigenen Leuten.“",
+       "englisch_web": "No straw is given to your servants, and they tell us, ‘Make brick!’ and behold, your servants are beaten; but the fault is in your own people.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der Pharao antwortete:\n„Faul seid ihr, faul!\nDarum sagt ihr: ‚Wir wollen gehen und dem HERRN Opfer bringen.‘",
+       "englisch_web": "But Pharaoh said, “You are idle! You are idle! Therefore you say, ‘Let’s go and sacrifice to Yahweh.’"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Und jetzt geht und arbeitet!\nStroh bekommt ihr keins.\nAber ihr müsst genauso viele Ziegel liefern!“",
+       "englisch_web": "Go therefore now, and work; for no straw shall be given to you; yet you shall deliver the same number of bricks!”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Da merkten die Aufseher der Israeliten, dass sie in einer schlimmen Lage waren.\nDenn man hatte gesagt:\n„Ihr dürft jeden Tag keinen einzigen Ziegel weniger machen!“",
+       "englisch_web": "The officers of the children of Israel saw that they were in trouble when it was said, “You shall not diminish anything from your daily quota of bricks!”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Als sie vom Pharao kamen, trafen sie Mose und Aaron.\nDie standen am Weg und warteten auf sie.",
+       "englisch_web": "They met Moses and Aaron, who stood along the way, as they came out from Pharaoh."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie sagten zu ihnen:\n„Der HERR soll euch ansehen und richten!\nIhr habt uns beim Pharao und bei seinen Beamten verhasst gemacht.\nIhr habt ihnen ein Schwert in die Hand gegeben, um uns zu töten!“",
+       "englisch_web": "They said to them, “May Yahweh look at you and judge, because you have made us a stench to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to kill us!”"
+      }
+     ],
+     "erklaerung": "Die Aufseher bitten den Pharao um Gerechtigkeit. Aber der Pharao verhöhnt sie nur.\n„Faul“ – so redet der Unterdrücker über Menschen, die er ausbeutet.\nJetzt geben die Israeliten Mose und Aaron die Schuld. Gerade eben haben sie noch Gott angebetet. Jetzt ist alles schlimmer geworden. Die Hoffnung ist weg.\nDas kennen viele: Manchmal wird es zuerst schlimmer, bevor es besser wird."
+    },
+    {
+     "ueberschrift": "Mose klagt Gott an",
+     "vers_von": 22,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Da wandte sich Mose wieder an den HERRN und sagte:\n„Herr, warum hast du diesem Volk Böses angetan?\nWarum hast du mich überhaupt geschickt?",
+       "englisch_web": "Moses returned to Yahweh, and said, “Lord, why have you brought trouble on this people? Why is it that you have sent me?"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Seit ich zum Pharao gegangen bin, um in deinem Namen zu reden, behandelt er dieses Volk noch schlimmer.\nUnd du hast dein Volk überhaupt nicht gerettet!“",
+       "englisch_web": "For since I came to Pharaoh to speak in your name, he has brought trouble on this people. You have not rescued your people at all!”"
+      }
+     ],
+     "erklaerung": "Mose ist verzweifelt. Er hat getan, was Gott wollte – und alles ist schlimmer geworden.\nEr bringt seine Enttäuschung direkt vor Gott. Er klagt Gott sogar an: „Warum hast du das getan?“\nDas ist erlaubt. In der Bibel dürfen Menschen ihren Schmerz, ihre Wut und ihre Enttäuschung vor Gott aussprechen. Ein ehrliches Klagegebet ist auch ein Gebet.\nIm nächsten Kapitel antwortet Gott ihm."
+    }
+   ]
+  }
+ ]
+}

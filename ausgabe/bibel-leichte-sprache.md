@@ -7774,3 +7774,704 @@ Er verspricht ihnen Land, viele Nachkommen und Segen für alle Völker.
 Über vier Generationen – Abraham, Isaak, Jakob und Josef – hält Gott sein Versprechen,
 auch durch Fehler, Lügen, Streit und Leid hindurch.
 Am Ende ist aus einer Familie ein Volk von zwölf Stämmen geworden: Israel.
+
+
+---
+
+# 2. Mose
+
+## 2. Mose – Kapitel 1
+#### Israel wird in Ägypten unterdrückt
+
+---
+
+### Bevor es losgeht: Was ist das 2. Buch Mose?
+
+Das 2. Buch Mose heißt auch „Exodus“. Das bedeutet „Auszug“.
+Es erzählt, wie Gott sein Volk Israel aus der Sklaverei in Ägypten befreit.
+Die Hauptperson ist Mose.
+Gott führt das Volk durch das Meer und durch die Wüste bis zum Berg Sinai.
+Dort schließt Gott einen Bund mit seinem Volk und gibt ihm die Zehn Gebote.
+Am Ende baut das Volk ein heiliges Zelt, in dem Gott mitten unter ihnen wohnt.
+Für Juden ist der Auszug aus Ägypten bis heute das wichtigste Ereignis ihrer Geschichte. Sie feiern ihn jedes Jahr am Passafest.
+
+---
+
+### Aus einer Familie wird ein Volk (Vers 1–7)
+
+<sup>1</sup>Das sind die Namen der Söhne Israels, die nach Ägypten gekommen waren.
+Mit Jakob kam jeder mit seiner Familie:
+<sup>2</sup>Ruben, Simeon, Levi und Juda,
+<sup>3</sup>Issachar, Sebulon und Benjamin,
+<sup>4</sup>Dan und Naftali, Gad und Ascher.
+<sup>5</sup>Alle Nachkommen von Jakob zusammen waren 70 Personen.
+Josef war schon in Ägypten.
+
+<sup>6</sup>Dann starben Josef und alle seine Brüder und alle Menschen dieser Generation.
+<sup>7</sup>Aber die Israeliten bekamen viele Kinder.
+Sie vermehrten sich und wurden sehr zahlreich und sehr stark.
+Das ganze Land war voll von ihnen.
+
+> **Was bedeutet das?**
+> Das 2. Buch Mose knüpft direkt an das 1. Buch an. Wieder werden die Söhne Jakobs genannt.
+> Gott hatte Abraham versprochen: Deine Nachkommen werden so zahlreich sein wie die Sterne. In Ägypten geht das in Erfüllung. Aus 70 Menschen wird ein großes Volk.
+> Die Worte „fruchtbar sein“ und „sich vermehren“ erinnern an Gottes Segen bei der Schöpfung (1. Mose 1,28). Gottes Segen wirkt – auch in einem fremden Land.
+
+---
+
+### Ein neuer König (Vers 8–14)
+
+<sup>8</sup>Da kam in Ägypten ein neuer König an die Macht.
+Er wusste nichts von Josef.
+<sup>9</sup>Er sagte zu seinem Volk:
+„Schaut: Das Volk der Israeliten ist zahlreicher und stärker als wir.
+<sup>10</sup>Kommt, wir müssen klug gegen sie vorgehen.
+Sonst werden sie noch mehr.
+Und wenn ein Krieg ausbricht, dann verbünden sie sich mit unseren Feinden.
+Dann kämpfen sie gegen uns und ziehen aus dem Land weg.“
+
+<sup>11</sup>Darum setzten die Ägypter Aufseher über sie ein.
+Die sollten sie mit schwerer Zwangsarbeit unterdrücken.
+So mussten sie für den Pharao die Vorratsstädte Pitom und Ramses bauen.
+<sup>12</sup>Aber je mehr man sie unterdrückte, desto mehr wurden sie und desto weiter breiteten sie sich aus.
+Da bekamen die Ägypter Angst vor den Israeliten.
+
+<sup>13</sup>Darum zwangen die Ägypter die Israeliten mit großer Härte zur Arbeit.
+<sup>14</sup>Sie machten ihnen das Leben bitter mit schwerer Arbeit:
+mit Lehm und Ziegeln
+und mit allen möglichen Arbeiten auf dem Feld.
+Bei allen diesen Arbeiten zwangen sie sie mit großer Härte.
+
+> **Was bedeutet das?**
+> Viele Jahre sind vergangen. Der neue Pharao „wusste nichts von Josef“. Das heißt: Er erinnert sich nicht mehr daran, dass ein Israelit Ägypten einst vor dem Hunger gerettet hat. Oder es ist ihm egal.
+> Der Pharao hat Angst vor den Fremden in seinem Land. Aus Angst wird Unterdrückung. Das ist leider bis heute ein bekanntes Muster: Man macht eine Minderheit zum Sündenbock.
+> Die Israeliten werden zu Sklaven. Sie müssen Ziegel aus Lehm herstellen und damit Städte bauen.
+> Aber Gott lässt sein Volk trotzdem wachsen. Die Unterdrückung erreicht das Gegenteil von dem, was der Pharao will.
+
+---
+
+### Die mutigen Hebammen (Vers 15–21)
+
+<sup>15</sup>Der König von Ägypten redete mit den hebräischen Hebammen.
+Die eine hieß Schifra, die andere hieß Pua.
+<sup>16</sup>Er sagte:
+„Wenn ihr den hebräischen Frauen bei der Geburt helft, dann achtet darauf, was es wird:
+Wenn es ein Junge ist, dann tötet ihn.
+Wenn es ein Mädchen ist, dann darf es leben.“
+
+<sup>17</sup>Aber die Hebammen hatten Ehrfurcht vor Gott.
+Sie taten nicht, was der König von Ägypten ihnen befohlen hatte.
+Sie ließen die Jungen am Leben.
+<sup>18</sup>Da ließ der König von Ägypten die Hebammen rufen.
+Er sagte zu ihnen:
+„Warum habt ihr das getan? Warum habt ihr die Jungen am Leben gelassen?“
+<sup>19</sup>Die Hebammen antworteten dem Pharao:
+„Die hebräischen Frauen sind nicht wie die ägyptischen Frauen.
+Sie sind kräftig.
+Sie haben ihr Kind schon geboren, bevor die Hebamme zu ihnen kommt.“
+
+<sup>20</sup>Gott tat den Hebammen Gutes.
+Und das Volk wurde immer zahlreicher und sehr stark.
+<sup>21</sup>Weil die Hebammen Ehrfurcht vor Gott hatten, schenkte er ihnen eigene Familien.
+
+> **Was bedeutet das?**
+> Eine Hebamme ist eine Frau, die bei der Geburt hilft.
+> Der Pharao befiehlt einen grausamen Massenmord an Babys. Aber zwei Frauen widersetzen sich – mitten im mächtigsten Reich der Welt.
+> Sie haben mehr Respekt vor Gott als vor dem König. Das ist der erste Akt von gewaltlosem Widerstand in der Bibel.
+> Schifra und Pua werden mit Namen genannt. Der Name des Pharao wird nicht genannt. Für die Bibel sind diese mutigen Frauen wichtiger als der mächtige König.
+> Ob sie lügen oder die Wahrheit sagen, ist nicht ganz klar. Klar ist: Gott steht auf ihrer Seite, weil sie Leben retten.
+
+---
+
+### Der Befehl des Pharao (Vers 22)
+
+<sup>22</sup>Da befahl der Pharao seinem ganzen Volk:
+„Jeden Jungen, der geboren wird, sollt ihr in den Nil werfen.
+Aber jedes Mädchen dürft ihr am Leben lassen.“
+
+> **Was bedeutet das?**
+> Jetzt wird es noch schlimmer. Der Pharao befiehlt allen Ägyptern, die hebräischen Jungen zu töten.
+> Der Nil war für die Ägypter ein Gott, der Leben schenkt. Jetzt soll er ein Ort des Todes werden.
+> Aber gerade im Nil wird Gott ein Kind retten: Mose. Davon erzählt das nächste Kapitel.
+
+## 2. Mose – Kapitel 2
+#### Mose wird geboren und gerettet
+
+---
+
+### Das Kind im Körbchen (Vers 1–10)
+
+<sup>1</sup>Ein Mann aus der Familie Levi heiratete eine Frau, die auch aus der Familie Levi stammte.
+<sup>2</sup>Die Frau wurde schwanger und gebar einen Sohn.
+Sie sah, dass er ein schönes Kind war.
+Darum versteckte sie ihn drei Monate lang.
+<sup>3</sup>Als sie ihn nicht mehr länger verstecken konnte, nahm sie ein Körbchen aus Papyrus.
+Sie dichtete es mit Erdpech und Pech ab.
+Dann legte sie das Kind hinein.
+Und sie setzte das Körbchen ins Schilf am Ufer des Nils.
+<sup>4</sup>Seine Schwester stellte sich in einiger Entfernung hin.
+Sie wollte sehen, was mit ihm geschehen würde.
+
+<sup>5</sup>Da kam die Tochter des Pharao herab, um im Nil zu baden.
+Ihre Dienerinnen gingen am Ufer entlang.
+Sie sah das Körbchen im Schilf.
+Sie schickte ihre Dienerin hin, um es zu holen.
+<sup>6</sup>Sie öffnete es und sah das Kind.
+Und schau: Der kleine Junge weinte.
+Da hatte sie Mitleid mit ihm.
+Sie sagte:
+„Das ist eines von den Kindern der Hebräer.“
+
+<sup>7</sup>Da sagte seine Schwester zur Tochter des Pharao:
+„Soll ich hingehen und dir eine hebräische Frau holen, die das Kind für dich stillt?“
+<sup>8</sup>Die Tochter des Pharao sagte zu ihr:
+„Ja, geh!“
+Da ging das Mädchen und holte die Mutter des Kindes.
+<sup>9</sup>Die Tochter des Pharao sagte zu ihr:
+„Nimm dieses Kind mit und still es für mich.
+Ich werde dir einen Lohn dafür geben.“
+So nahm die Frau das Kind und stillte es.
+
+<sup>10</sup>Als das Kind größer geworden war, brachte sie es zur Tochter des Pharao.
+Und es wurde ihr Sohn.
+Sie nannte ihn Mose.
+Denn sie sagte:
+„Ich habe ihn aus dem Wasser gezogen.“
+
+> **Was bedeutet das?**
+> Mose kommt aus der Familie Levi. Später erfahren wir die Namen seiner Eltern: Amram und Jochebed (Kapitel 6,20). Seine Schwester heißt Mirjam.
+> Das Wort für „Körbchen“ ist im Hebräischen dasselbe Wort wie „Arche“ bei Noah. Wie Noah in seiner Arche wird auch Mose in seinem kleinen „Kasten“ vor dem Tod im Wasser gerettet.
+> Papyrus ist eine Schilfpflanze am Nil. Daraus machte man auch Papier.
+> Wieder sind es Frauen, die Leben retten: die Mutter, die Schwester – und sogar die Tochter des Pharao, die ihrem eigenen Vater nicht gehorcht.
+> Was für eine Wendung: Die Mutter bekommt ihr eigenes Kind zurück – und wird sogar noch dafür bezahlt!
+> Der Name „Mose“ ist wohl ägyptisch und bedeutet „Sohn“ oder „geboren“. Im Hebräischen klingt er wie „herausziehen“. Später wird Mose selbst sein Volk aus Ägypten „herausziehen“.
+
+---
+
+### Mose tötet einen Ägypter (Vers 11–15)
+
+<sup>11</sup>Als Mose erwachsen geworden war, ging er einmal zu seinen Brüdern hinaus.
+Er sah, wie schwer sie arbeiten mussten.
+Da sah er, wie ein Ägypter einen Hebräer schlug, einen von seinen Brüdern.
+<sup>12</sup>Er schaute nach allen Seiten.
+Als er sah, dass niemand da war, erschlug er den Ägypter.
+Und er verscharrte ihn im Sand.
+
+<sup>13</sup>Am nächsten Tag ging er wieder hinaus.
+Und schau: Da stritten sich zwei hebräische Männer.
+Er sagte zu dem, der im Unrecht war:
+„Warum schlägst du deinen Nachbarn?“
+<sup>14</sup>Der antwortete:
+„Wer hat dich denn zum Anführer und Richter über uns gemacht?
+Willst du mich etwa auch umbringen, so wie du den Ägypter umgebracht hast?“
+Da bekam Mose Angst.
+Er dachte: „Dann ist die Sache also bekannt geworden.“
+
+<sup>15</sup>Als der Pharao davon hörte, wollte er Mose töten lassen.
+Aber Mose floh vor dem Pharao.
+Er ging in das Land Midian.
+Dort setzte er sich an einen Brunnen.
+
+> **Was bedeutet das?**
+> Mose ist am Hof des Pharao aufgewachsen. Aber er weiß, dass er ein Hebräer ist. Er nennt die Sklaven „seine Brüder“.
+> Er sieht Unrecht und will helfen. Aber er tut es auf eigene Faust und mit Gewalt. Er tötet einen Menschen und versteckt die Leiche.
+> Die Bibel lobt das nicht. Mose will Gerechtigkeit, aber auf dem falschen Weg. Er muss erst lernen, auf Gott zu hören.
+> Midian ist ein Wüstengebiet östlich von Ägypten, wahrscheinlich im Nordwesten des heutigen Saudi-Arabien. Die Midianiter stammten von Abraham und Ketura ab (1. Mose 25,2).
+
+---
+
+### Mose in Midian (Vers 16–22)
+
+<sup>16</sup>Der Priester von Midian hatte sieben Töchter.
+Sie kamen zum Brunnen, schöpften Wasser und füllten die Tränkrinnen,
+um die Schafe und Ziegen ihres Vaters zu tränken.
+<sup>17</sup>Da kamen Hirten und jagten sie weg.
+Aber Mose stand auf, half den Frauen und tränkte ihre Herde.
+
+<sup>18</sup>Als sie zu ihrem Vater Reguël kamen, fragte er:
+„Warum seid ihr heute so früh zurück?“
+<sup>19</sup>Sie antworteten:
+„Ein Ägypter hat uns vor den Hirten beschützt.
+Er hat sogar Wasser für uns geschöpft und die Herde getränkt.“
+<sup>20</sup>Da sagte er zu seinen Töchtern:
+„Wo ist er denn?
+Warum habt ihr den Mann dort gelassen?
+Ruft ihn, damit er mit uns isst.“
+
+<sup>21</sup>Mose war einverstanden, bei dem Mann zu bleiben.
+Und der Mann gab Mose seine Tochter Zippora zur Frau.
+<sup>22</sup>Sie gebar einen Sohn.
+Mose nannte ihn Gerschom.
+Denn er sagte:
+„Ich bin ein Fremder in einem fremden Land.“
+
+> **Was bedeutet das?**
+> Wieder eine Begegnung am Brunnen, wie bei Rebekka und bei Rahel. Und wieder führt sie zu einer Hochzeit.
+> Mose setzt sich wieder für Schwache ein. Diesmal ohne Gewalt.
+> Die Frauen halten Mose für einen Ägypter, weil er wie einer gekleidet ist.
+> Der Priester von Midian hat zwei Namen: Reguël und Jitro (Kapitel 3,1).
+> „Gerschom“ klingt wie „ein Fremder dort“. Mose fühlt sich heimatlos: In Ägypten war er ein Hebräer, in Midian ist er ein Fremder.
+
+---
+
+### Gott hört das Schreien seines Volkes (Vers 23–25)
+
+<sup>23</sup>Viele Jahre später starb der König von Ägypten.
+Die Israeliten aber stöhnten unter der Sklaverei.
+Sie schrien um Hilfe.
+Und ihr Hilfeschrei wegen der Sklaverei stieg zu Gott hinauf.
+<sup>24</sup>Gott hörte ihr Stöhnen.
+Und Gott dachte an seinen Bund mit Abraham, mit Isaak und mit Jakob.
+<sup>25</sup>Gott sah die Israeliten an.
+Und Gott wusste Bescheid.
+
+> **Was bedeutet das?**
+> Diese drei Verse sind der Wendepunkt. Viermal steht hier „Gott“: Gott hört. Gott denkt an seinen Bund. Gott sieht. Gott weiß Bescheid.
+> Das Volk hat lange gelitten. Es schien, als sei Gott weit weg. Aber Gott hat nichts vergessen. Er hat jeden Schrei gehört.
+> „Gott wusste Bescheid“ heißt mehr als: Er hatte Informationen. Es heißt: Er kennt ihr Leid von innen. Er fühlt mit ihnen.
+> Diese Botschaft gilt bis heute für alle, die unterdrückt werden: Gott hört euer Schreien.
+
+## 2. Mose – Kapitel 3
+#### Der brennende Dornbusch
+
+---
+
+### Ein Busch, der brennt und nicht verbrennt (Vers 1–6)
+
+<sup>1</sup>Mose hütete die Schafe und Ziegen seines Schwiegervaters Jitro, des Priesters von Midian.
+Er trieb die Herde weit in die Wüste hinein.
+So kam er an den Berg Gottes, den Horeb.
+<sup>2</sup>Da erschien ihm der Engel des HERRN in einer Feuerflamme mitten aus einem Dornbusch.
+Mose schaute hin.
+Und schau: Der Dornbusch brannte im Feuer.
+Aber der Dornbusch verbrannte nicht.
+<sup>3</sup>Mose sagte:
+„Ich will hingehen und mir diese seltsame Erscheinung ansehen.
+Warum verbrennt der Dornbusch nicht?“
+
+<sup>4</sup>Der HERR sah, dass Mose näher kam, um es sich anzusehen.
+Da rief Gott ihn mitten aus dem Dornbusch:
+„Mose! Mose!“
+Er antwortete: „Hier bin ich.“
+<sup>5</sup>Gott sagte:
+„Komm nicht näher!
+Zieh deine Sandalen aus.
+Denn der Ort, auf dem du stehst, ist heiliger Boden.“
+<sup>6</sup>Und er sagte:
+„Ich bin der Gott deines Vaters,
+der Gott Abrahams, der Gott Isaaks und der Gott Jakobs.“
+Da verhüllte Mose sein Gesicht.
+Denn er hatte Angst, Gott anzuschauen.
+
+> **Was bedeutet das?**
+> Mose ist jetzt ein einfacher Hirte in der Wüste. Er ist etwa 80 Jahre alt (siehe Kapitel 7,7). Er hat wohl nicht mehr damit gerechnet, dass in seinem Leben noch etwas Großes passiert.
+> Der Horeb ist ein anderer Name für den Berg Sinai.
+> Ein Feuer, das brennt, aber nicht verbrennt – ein Zeichen für Gottes Gegenwart. Gott ist wie ein Feuer: voller Kraft, aber er zerstört nicht.
+> Mose ist neugierig. Gott ruft ihn bei seinem Namen, zweimal – so wie bei Abraham und Jakob.
+> „Heiliger Boden“: Wo Gott ist, wird ein gewöhnlicher Ort besonders. Die Schuhe auszuziehen ist ein Zeichen von Ehrfurcht. In vielen Kulturen zieht man bis heute die Schuhe aus, wenn man einen heiligen Ort betritt.
+
+---
+
+### Gott hat das Elend gesehen (Vers 7–10)
+
+<sup>7</sup>Der HERR sagte:
+„Ich habe das Elend meines Volkes in Ägypten genau gesehen.
+Ich habe gehört, wie sie über ihre Unterdrücker schreien.
+Ja, ich kenne ihre Schmerzen.
+<sup>8</sup>Darum bin ich herabgekommen.
+Ich will sie aus der Hand der Ägypter retten.
+Ich will sie aus diesem Land herausführen in ein gutes und weites Land,
+in ein Land, in dem Milch und Honig fließen:
+in das Gebiet der Kanaaniter, Hetiter, Amoriter, Perisiter, Hiwiter und Jebusiter.
+
+<sup>9</sup>Schau: Der Hilfeschrei der Israeliten ist zu mir gedrungen.
+Ich habe auch gesehen, wie grausam die Ägypter sie unterdrücken.
+<sup>10</sup>Darum geh jetzt!
+Ich schicke dich zum Pharao.
+Führe mein Volk, die Israeliten, aus Ägypten heraus.“
+
+> **Was bedeutet das?**
+> Gott sagt: Ich habe gesehen, gehört, ich kenne die Schmerzen, ich bin herabgekommen, ich will retten. Gott bleibt nicht im Himmel. Er kommt herab zu den Leidenden.
+> „Ein Land, in dem Milch und Honig fließen“ – das heißt: ein reiches, fruchtbares Land, in dem es alles im Überfluss gibt. Milch von den Herden, Honig von den Bienen oder aus Datteln.
+> Und dann die Überraschung: Gott will retten – und schickt dafür Mose. Gott handelt oft durch Menschen.
+
+---
+
+### „Wer bin ich?“ (Vers 11–12)
+
+<sup>11</sup>Mose sagte zu Gott:
+„Wer bin ich denn, dass ich zum Pharao gehen soll?
+Und dass ich die Israeliten aus Ägypten herausführen soll?“
+<sup>12</sup>Gott antwortete:
+„Ich werde mit dir sein.
+Und das soll das Zeichen für dich sein, dass ich dich geschickt habe:
+Wenn du das Volk aus Ägypten herausgeführt hast,
+dann werdet ihr Gott auf diesem Berg dienen.“
+
+> **Was bedeutet das?**
+> Früher wollte Mose aus eigener Kraft seinem Volk helfen. Jetzt, wo Gott ihn ruft, fühlt er sich zu klein.
+> Gott antwortet nicht mit „Du schaffst das schon“. Er sagt: „**Ich** werde mit dir sein.“ Es kommt nicht darauf an, wer Mose ist, sondern wer mit ihm geht.
+> Das Zeichen ist seltsam: Es kommt erst, wenn alles geschafft ist. Mose muss zuerst vertrauen und losgehen.
+
+---
+
+### Gottes Name (Vers 13–15)
+
+<sup>13</sup>Mose sagte zu Gott:
+„Schau, wenn ich zu den Israeliten komme und zu ihnen sage:
+‚Der Gott eurer Vorfahren hat mich zu euch geschickt‘,
+und sie fragen mich: ‚Wie heißt er?‘ –
+was soll ich ihnen dann sagen?“
+
+<sup>14</sup>Gott sagte zu Mose:
+„Ich bin, der ich bin.“
+Und er sagte:
+„So sollst du zu den Israeliten sagen:
+‚Ich bin‘ hat mich zu euch geschickt.“
+
+<sup>15</sup>Weiter sagte Gott zu Mose:
+„So sollst du zu den Israeliten sagen:
+‚Der HERR, der Gott eurer Vorfahren,
+der Gott Abrahams, der Gott Isaaks und der Gott Jakobs,
+hat mich zu euch geschickt.‘
+Das ist mein Name für immer.
+So sollen mich alle Generationen nennen.“
+
+> **Was bedeutet das?**
+> Das ist eine der wichtigsten Stellen der ganzen Bibel: Gott sagt seinen Namen.
+> „Ich bin, der ich bin“ kann man auch übersetzen: „Ich werde sein, der ich sein werde“ oder „Ich bin da, als der ich da bin“. Der Name bedeutet: Gott ist immer da. Er ist da für sein Volk. Aber er lässt sich nicht festlegen oder einsperren. Er bleibt ein Geheimnis.
+> Aus diesem „Ich bin“ kommt der Gottesname „JHWH“ (wahrscheinlich „Jahwe“ ausgesprochen). In dieser Bibel steht dafür „der HERR“.
+> Aus Ehrfurcht sprechen Juden diesen Namen nicht aus. Sie sagen stattdessen „Adonai“ (mein Herr) oder „HaSchem“ (der Name).
+> Jesus sagt im Johannes-Evangelium mehrmals „Ich bin“: „Ich bin das Licht der Welt“, „Ich bin der gute Hirte“. Christen sehen darin einen Hinweis auf diesen Namen Gottes.
+
+---
+
+### Gottes Plan (Vers 16–22)
+
+<sup>16</sup>„Geh und versammle die Ältesten von Israel.
+Sag zu ihnen:
+‚Der HERR, der Gott eurer Vorfahren, der Gott Abrahams, Isaaks und Jakobs, ist mir erschienen.
+Er hat gesagt:
+Ich habe mich um euch gekümmert.
+Ich habe gesehen, was man euch in Ägypten antut.
+<sup>17</sup>Und ich habe gesagt:
+Ich will euch aus dem Elend in Ägypten herausführen
+in das Land der Kanaaniter, Hetiter, Amoriter, Perisiter, Hiwiter und Jebusiter,
+in ein Land, in dem Milch und Honig fließen.‘
+
+<sup>18</sup>Sie werden auf dich hören.
+Dann sollst du mit den Ältesten von Israel zum König von Ägypten gehen.
+Ihr sollt zu ihm sagen:
+‚Der HERR, der Gott der Hebräer, ist uns begegnet.
+Lass uns doch drei Tagesreisen weit in die Wüste ziehen.
+Dort wollen wir dem HERRN, unserem Gott, Opfer bringen.‘
+
+<sup>19</sup>Ich weiß aber, dass der König von Ägypten euch nicht ziehen lassen wird.
+Nicht einmal, wenn eine starke Hand ihn dazu zwingt.
+<sup>20</sup>Darum werde ich meine Hand ausstrecken
+und Ägypten mit all meinen Wundern schlagen, die ich dort tun werde.
+Danach wird er euch ziehen lassen.
+
+<sup>21</sup>Ich werde dafür sorgen, dass die Ägypter diesem Volk wohlgesinnt sind.
+Wenn ihr wegzieht, sollt ihr nicht mit leeren Händen gehen.
+<sup>22</sup>Jede Frau soll ihre Nachbarin und die Frau, die in ihrem Haus wohnt, um Schmuck aus Silber und Gold und um Kleider bitten.
+Das sollt ihr euren Söhnen und Töchtern anziehen.
+So sollt ihr die Ägypter berauben.“
+
+> **Was bedeutet das?**
+> Älteste waren die erfahrenen, angesehenen Männer, die ein Volk oder eine Stadt leiteten.
+> Gott sagt Mose ehrlich voraus: Es wird nicht leicht. Der Pharao wird sich weigern.
+> Die erste Bitte ist bescheiden: nur drei Tage in die Wüste, um Gott zu feiern. Selbst das wird der Pharao verweigern. Das zeigt, wie hart er ist.
+> Die Israeliten sollen nicht mit leeren Händen gehen. Nach so vielen Jahren unbezahlter Sklavenarbeit ist das wie ein später Lohn. Gott hatte es schon Abraham versprochen: „Sie werden mit großem Besitz herausziehen“ (1. Mose 15,14).
+
+## 2. Mose – Kapitel 4
+#### Gott gibt Mose Zeichen – Mose kehrt nach Ägypten zurück
+
+---
+
+### Drei Zeichen (Vers 1–9)
+
+<sup>1</sup>Mose antwortete:
+„Aber schau, sie werden mir nicht glauben und nicht auf mich hören.
+Sie werden sagen: ‚Der HERR ist dir nicht erschienen.‘“
+<sup>2</sup>Der HERR fragte ihn:
+„Was hast du da in deiner Hand?“
+Mose antwortete:
+„Einen Stab.“
+<sup>3</sup>Der HERR sagte:
+„Wirf ihn auf die Erde!“
+Mose warf ihn auf die Erde.
+Da wurde der Stab zu einer Schlange.
+Und Mose lief vor ihr weg.
+<sup>4</sup>Der HERR sagte zu Mose:
+„Streck deine Hand aus und pack sie am Schwanz!“
+Mose streckte seine Hand aus und packte sie.
+Da wurde sie in seiner Hand wieder zu einem Stab.
+<sup>5</sup>„So sollen sie glauben, dass dir der HERR erschienen ist,
+der Gott ihrer Vorfahren,
+der Gott Abrahams, der Gott Isaaks und der Gott Jakobs.“
+
+<sup>6</sup>Weiter sagte der HERR zu ihm:
+„Steck deine Hand in dein Gewand.“
+Mose steckte seine Hand in sein Gewand.
+Als er sie wieder herauszog – schau: Da war seine Hand vom Aussatz befallen, weiß wie Schnee.
+<sup>7</sup>Der HERR sagte:
+„Steck deine Hand noch einmal in dein Gewand.“
+Mose steckte seine Hand noch einmal in sein Gewand.
+Als er sie wieder herauszog – schau: Da war sie wieder gesund wie der Rest seines Körpers.
+
+<sup>8</sup>„Wenn sie dir nicht glauben und nicht auf das erste Zeichen hören,
+dann werden sie dem zweiten Zeichen glauben.
+<sup>9</sup>Und wenn sie auch diesen beiden Zeichen nicht glauben und nicht auf dich hören,
+dann nimm Wasser aus dem Nil und gieß es auf das trockene Land.
+Das Wasser, das du aus dem Nil nimmst, wird auf dem trockenen Land zu Blut werden.“
+
+> **Was bedeutet das?**
+> Mose hat immer noch Zweifel. Gott ist geduldig und gibt ihm Zeichen, die er den Israeliten zeigen kann.
+> Der Stab war ein einfacher Hirtenstab – das Werkzeug seiner täglichen Arbeit. Gott macht daraus etwas Besonderes. Gott benutzt das, was wir schon in der Hand haben.
+> Die Schlange war in Ägypten ein Zeichen für die Macht des Pharao. Mose packt sie am Schwanz. Das zeigt: Gott ist stärker als die Macht Ägyptens.
+> Aussatz war eine gefürchtete Hautkrankheit. Gott kann krank machen und heilen.
+> Der Nil war für die Ägypter heilig. Wenn sein Wasser zu Blut wird, zeigt das: Gott ist auch über die Götter Ägyptens Herr.
+
+---
+
+### „Ich kann nicht gut reden“ (Vers 10–17)
+
+<sup>10</sup>Mose sagte zum HERRN:
+„Ach, Herr, ich bin kein guter Redner.
+Ich war es früher nicht, und ich bin es auch jetzt nicht, seit du mit deinem Diener redest.
+Ich spreche schwerfällig, und meine Zunge ist ungeschickt.“
+
+<sup>11</sup>Der HERR sagte zu ihm:
+„Wer hat dem Menschen den Mund gemacht?
+Wer macht stumm oder taub, sehend oder blind?
+Bin ich es nicht, der HERR?
+<sup>12</sup>Darum geh jetzt!
+Ich werde mit deinem Mund sein.
+Ich werde dir beibringen, was du sagen sollst.“
+
+<sup>13</sup>Aber Mose sagte:
+„Ach, Herr, schick doch bitte jemand anderen!“
+
+<sup>14</sup>Da wurde der HERR zornig über Mose.
+Er sagte:
+„Ist da nicht dein Bruder Aaron, der Levit?
+Ich weiß, dass er gut reden kann.
+Und schau: Er ist schon auf dem Weg zu dir.
+Wenn er dich sieht, wird er sich von Herzen freuen.
+<sup>15</sup>Du sollst mit ihm reden und ihm die Worte in den Mund legen.
+Ich werde mit deinem Mund und mit seinem Mund sein.
+Ich werde euch beibringen, was ihr tun sollt.
+<sup>16</sup>Er soll für dich zum Volk reden.
+Er wird für dich der Mund sein.
+Und du wirst für ihn wie Gott sein.
+<sup>17</sup>Und diesen Stab nimm in deine Hand.
+Mit ihm sollst du die Zeichen tun.“
+
+> **Was bedeutet das?**
+> Mose sucht immer neue Ausreden. Vielleicht stotterte er. Vielleicht hatte er nach 40 Jahren in der Wüste die ägyptische Sprache verlernt.
+> Gottes Antwort: Ich habe dich gemacht, ich kenne deine Schwächen. Ich helfe dir.
+> Als Mose dann einfach sagt „Schick einen anderen“, wird Gott zornig. Hinter den Ausreden steckt die Angst, Gott zu vertrauen.
+> Aber Gott gibt trotzdem nach und schickt Hilfe: Moses Bruder Aaron. Gott nimmt Rücksicht auf unsere Schwächen.
+> „Du wirst für ihn wie Gott sein“ heißt: Mose bekommt die Botschaft von Gott und gibt sie an Aaron weiter, so wie Gott zu einem Propheten spricht.
+
+---
+
+### Mose kehrt nach Ägypten zurück (Vers 18–23)
+
+<sup>18</sup>Mose ging zurück zu seinem Schwiegervater Jitro.
+Er sagte zu ihm:
+„Lass mich doch zu meinen Brüdern in Ägypten zurückkehren.
+Ich will sehen, ob sie noch leben.“
+Jitro sagte zu Mose:
+„Geh in Frieden!“
+
+<sup>19</sup>Der HERR sagte zu Mose in Midian:
+„Geh zurück nach Ägypten.
+Denn alle Männer, die dich töten wollten, sind tot.“
+<sup>20</sup>Da nahm Mose seine Frau und seine Söhne.
+Er setzte sie auf einen Esel und kehrte ins Land Ägypten zurück.
+Den Stab Gottes nahm Mose in seine Hand.
+
+<sup>21</sup>Der HERR sagte zu Mose:
+„Wenn du jetzt nach Ägypten zurückkehrst, dann tu vor dem Pharao alle Wunder, die ich in deine Hand gelegt habe.
+Aber ich werde sein Herz hart machen.
+Dann wird er das Volk nicht ziehen lassen.
+<sup>22</sup>Dann sollst du zum Pharao sagen:
+‚So spricht der HERR:
+Israel ist mein Sohn, mein Erstgeborener.
+<sup>23</sup>Ich habe dir gesagt:
+Lass meinen Sohn ziehen, damit er mir dienen kann.
+Aber du hast dich geweigert, ihn ziehen zu lassen.
+Schau: Darum werde ich deinen Sohn töten, deinen Erstgeborenen.‘“
+
+> **Was bedeutet das?**
+> Mose ist respektvoll. Er bittet seinen Schwiegervater um Erlaubnis.
+> Der Hirtenstab heißt jetzt „Stab Gottes“. Ein einfacher Gegenstand ist durch Gottes Auftrag etwas Besonderes geworden.
+> „Ich werde sein Herz hart machen“ – das ist für viele Leser eine schwierige Stelle. Heißt das, der Pharao hat keine Wahl? In den nächsten Kapiteln steht oft auch: Der Pharao machte **selbst** sein Herz hart. Viele Ausleger verstehen es so: Der Pharao entscheidet sich immer wieder gegen Gott. Und Gott lässt ihn bei seiner Entscheidung bleiben und bestätigt sie.
+> „Israel ist mein erstgeborener Sohn“ – Gott liebt sein Volk wie ein Vater sein Kind. Der Pharao will Gottes Sohn nicht freilassen. Darum wird er seinen eigenen Sohn verlieren. Das ist die letzte und schlimmste der zehn Plagen (Kapitel 12).
+
+---
+
+### Eine rätselhafte Nacht (Vers 24–26)
+
+<sup>24</sup>Unterwegs, an einem Rastplatz, trat der HERR Mose entgegen und wollte ihn töten.
+<sup>25</sup>Da nahm Zippora einen scharfen Feuerstein.
+Sie schnitt ihrem Sohn die Vorhaut ab.
+Damit berührte sie seine Füße und sagte:
+„Du bist mir ein Blutbräutigam!“
+<sup>26</sup>Da ließ der HERR von ihm ab.
+Sie sagte damals „Blutbräutigam“ wegen der Beschneidung.
+
+> **Was bedeutet das?**
+> Das ist einer der rätselhaftesten Abschnitte der ganzen Bibel. Niemand kann ihn ganz sicher erklären.
+> Die häufigste Erklärung: Mose hatte seinen Sohn nicht beschnitten, obwohl die Beschneidung das Zeichen des Bundes mit Gott war (1. Mose 17). Wer Gottes Volk führen soll, muss selbst Gottes Bund ernst nehmen.
+> Zippora, eine Ausländerin, erkennt die Gefahr und handelt schnell. Sie rettet Mose das Leben – wie schon die Hebammen, seine Mutter, seine Schwester und die Tochter des Pharao.
+> Wessen Füße sie berührt – die von Mose oder die des Sohnes – ist im Text nicht ganz klar. „Füße“ kann im Hebräischen auch ein zurückhaltendes Wort für die Geschlechtsteile sein.
+> „Blutbräutigam“ war vielleicht ein alter Ausdruck, der mit der Beschneidung zu tun hatte. Was er genau bedeutet, weiß man heute nicht mehr.
+
+---
+
+### Mose und Aaron beim Volk (Vers 27–31)
+
+<sup>27</sup>Der HERR sagte zu Aaron:
+„Geh in die Wüste, Mose entgegen!“
+Da ging Aaron los.
+Er traf Mose am Berg Gottes und küsste ihn.
+<sup>28</sup>Mose erzählte Aaron alles, was der HERR ihm aufgetragen hatte,
+und von allen Zeichen, die er tun sollte.
+
+<sup>29</sup>Dann gingen Mose und Aaron los.
+Sie versammelten alle Ältesten der Israeliten.
+<sup>30</sup>Aaron sagte alles, was der HERR zu Mose gesagt hatte.
+Und er tat die Zeichen vor den Augen des Volkes.
+<sup>31</sup>Da glaubte das Volk.
+Sie hörten, dass der HERR sich um die Israeliten gekümmert
+und dass er ihr Elend gesehen hatte.
+Da verneigten sie sich und beteten an.
+
+> **Was bedeutet das?**
+> Die Brüder treffen sich am Berg Gottes, dort, wo Gott Mose im Dornbusch begegnet ist.
+> Mose hatte Angst, dass niemand ihm glaubt. Aber genau das Gegenteil geschieht: Das Volk glaubt und betet Gott an.
+> Nach langen Jahren der Unterdrückung hören die Menschen endlich: Gott hat uns nicht vergessen. Er hat unser Leid gesehen. Das ist die beste Nachricht, die man ihnen bringen kann.
+
+## 2. Mose – Kapitel 5
+#### Mose vor dem Pharao – die Arbeit wird noch schwerer
+
+---
+
+### „Lass mein Volk ziehen!“ (Vers 1–5)
+
+<sup>1</sup>Danach gingen Mose und Aaron zum Pharao und sagten:
+„So spricht der HERR, der Gott Israels:
+‚Lass mein Volk ziehen, damit es mir in der Wüste ein Fest feiern kann.‘“
+<sup>2</sup>Der Pharao antwortete:
+„Wer ist denn der HERR, dass ich auf ihn hören sollte und Israel ziehen lassen sollte?
+Ich kenne den HERRN nicht.
+Und ich lasse Israel auch nicht ziehen.“
+
+<sup>3</sup>Sie sagten:
+„Der Gott der Hebräer ist uns begegnet.
+Lass uns doch drei Tagesreisen weit in die Wüste ziehen.
+Dort wollen wir dem HERRN, unserem Gott, Opfer bringen.
+Sonst schlägt er uns mit der Pest oder mit dem Schwert.“
+
+<sup>4</sup>Der König von Ägypten sagte zu ihnen:
+„Mose und Aaron, warum haltet ihr das Volk von der Arbeit ab?
+Geht zurück an eure Arbeit!“
+<sup>5</sup>Und der Pharao sagte:
+„Schaut, das Volk im Land ist schon so zahlreich.
+Und ihr wollt, dass sie sich von ihrer Arbeit ausruhen!“
+
+> **Was bedeutet das?**
+> „Lass mein Volk ziehen!“ – Dieser Satz wurde berühmt. Er wurde später zum Ruf vieler unterdrückter Menschen, zum Beispiel der schwarzen Sklaven in Amerika („Let my people go“).
+> Der Pharao hält sich selbst für einen Gott. Für ihn ist der Gott der Sklaven ein Niemand: „Wer ist denn der HERR? Ich kenne ihn nicht.“ In den nächsten Kapiteln wird er ihn kennenlernen.
+> Der Pharao denkt nur an die Arbeitskraft der Sklaven. Für ihn sind sie keine Menschen, sondern Arbeiter.
+
+---
+
+### Ziegel ohne Stroh (Vers 6–14)
+
+<sup>6</sup>Noch am selben Tag gab der Pharao den Sklaventreibern und den Aufsehern des Volkes einen Befehl:
+<sup>7</sup>„Ihr sollt dem Volk kein Stroh mehr geben, um Ziegel zu machen, so wie bisher.
+Sie sollen selbst gehen und sich Stroh sammeln.
+<sup>8</sup>Aber sie sollen trotzdem genauso viele Ziegel machen wie bisher.
+Ihr dürft ihnen nichts davon erlassen.
+Denn sie sind faul.
+Darum schreien sie: ‚Wir wollen gehen und unserem Gott Opfer bringen.‘
+<sup>9</sup>Die Arbeit soll für die Männer noch schwerer werden.
+Sie sollen nur noch mit ihrer Arbeit beschäftigt sein.
+Dann hören sie nicht mehr auf solche Lügengeschichten.“
+
+<sup>10</sup>Da gingen die Sklaventreiber und die Aufseher des Volkes hinaus.
+Sie sagten zum Volk:
+„So spricht der Pharao:
+‚Ich gebe euch kein Stroh mehr.
+<sup>11</sup>Geht selbst und holt euch Stroh, wo ihr es findet.
+Aber eure Arbeit wird um nichts weniger.‘“
+<sup>12</sup>Da verteilte sich das Volk über das ganze Land Ägypten.
+Sie sammelten Stoppeln, um Stroh zu haben.
+<sup>13</sup>Und die Sklaventreiber trieben sie an:
+„Schafft jeden Tag eure Arbeit, genauso viel wie damals, als ihr Stroh bekommen habt!“
+
+<sup>14</sup>Die Aufseher der Israeliten waren von den Sklaventreibern des Pharao eingesetzt worden.
+Sie wurden geschlagen.
+Man fragte sie:
+„Warum habt ihr gestern und heute nicht so viele Ziegel gemacht wie vorher?“
+
+> **Was bedeutet das?**
+> Ziegel machte man aus Lehm, Wasser und gehacktem Stroh. Das Stroh machte die Ziegel fester.
+> Jetzt müssen die Israeliten das Stroh selbst suchen – und trotzdem genauso viele Ziegel machen. Das ist unmöglich. Der Pharao will sie absichtlich fertigmachen.
+> „Stoppeln“ sind die kurzen Halmreste, die nach der Ernte auf dem Feld stehen bleiben.
+> Die Aufseher waren Israeliten, die ihre eigenen Leute beaufsichtigen mussten. Sie stehen zwischen den Fronten – und werden geschlagen, wenn ihre Leute es nicht schaffen.
+
+---
+
+### Die Klage der Aufseher (Vers 15–21)
+
+<sup>15</sup>Da gingen die Aufseher der Israeliten zum Pharao.
+Sie klagten ihm laut:
+„Warum behandelst du deine Diener so?
+<sup>16</sup>Deine Diener bekommen kein Stroh mehr.
+Und trotzdem sagt man zu uns: ‚Macht Ziegel!‘
+Und schau: Deine Diener werden geschlagen.
+Aber die Schuld liegt bei deinen eigenen Leuten.“
+
+<sup>17</sup>Der Pharao antwortete:
+„Faul seid ihr, faul!
+Darum sagt ihr: ‚Wir wollen gehen und dem HERRN Opfer bringen.‘
+<sup>18</sup>Und jetzt geht und arbeitet!
+Stroh bekommt ihr keins.
+Aber ihr müsst genauso viele Ziegel liefern!“
+
+<sup>19</sup>Da merkten die Aufseher der Israeliten, dass sie in einer schlimmen Lage waren.
+Denn man hatte gesagt:
+„Ihr dürft jeden Tag keinen einzigen Ziegel weniger machen!“
+<sup>20</sup>Als sie vom Pharao kamen, trafen sie Mose und Aaron.
+Die standen am Weg und warteten auf sie.
+<sup>21</sup>Sie sagten zu ihnen:
+„Der HERR soll euch ansehen und richten!
+Ihr habt uns beim Pharao und bei seinen Beamten verhasst gemacht.
+Ihr habt ihnen ein Schwert in die Hand gegeben, um uns zu töten!“
+
+> **Was bedeutet das?**
+> Die Aufseher bitten den Pharao um Gerechtigkeit. Aber der Pharao verhöhnt sie nur.
+> „Faul“ – so redet der Unterdrücker über Menschen, die er ausbeutet.
+> Jetzt geben die Israeliten Mose und Aaron die Schuld. Gerade eben haben sie noch Gott angebetet. Jetzt ist alles schlimmer geworden. Die Hoffnung ist weg.
+> Das kennen viele: Manchmal wird es zuerst schlimmer, bevor es besser wird.
+
+---
+
+### Mose klagt Gott an (Vers 22–23)
+
+<sup>22</sup>Da wandte sich Mose wieder an den HERRN und sagte:
+„Herr, warum hast du diesem Volk Böses angetan?
+Warum hast du mich überhaupt geschickt?
+<sup>23</sup>Seit ich zum Pharao gegangen bin, um in deinem Namen zu reden, behandelt er dieses Volk noch schlimmer.
+Und du hast dein Volk überhaupt nicht gerettet!“
+
+> **Was bedeutet das?**
+> Mose ist verzweifelt. Er hat getan, was Gott wollte – und alles ist schlimmer geworden.
+> Er bringt seine Enttäuschung direkt vor Gott. Er klagt Gott sogar an: „Warum hast du das getan?“
+> Das ist erlaubt. In der Bibel dürfen Menschen ihren Schmerz, ihre Wut und ihre Enttäuschung vor Gott aussprechen. Ein ehrliches Klagegebet ist auch ein Gebet.
+> Im nächsten Kapitel antwortet Gott ihm.
