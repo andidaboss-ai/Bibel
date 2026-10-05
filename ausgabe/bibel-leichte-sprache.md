@@ -9752,3 +9752,559 @@ Und sie glaubten dem HERRN und seinem Diener Mose.
 > Die Befreiung ist vollständig. Die Sklaven sind frei. Die Unterdrücker können sie nie mehr verfolgen.
 > Das Volk sieht und glaubt. Dieser Durchzug durch das Meer ist für Israel bis heute das große Zeichen dafür, dass Gott rettet.
 > Christen sehen darin auch ein Bild für die Taufe: Durch das Wasser hindurch ins neue Leben (1. Korinther 10,1–2).
+
+## 2. Mose – Kapitel 15
+#### Das Lied am Meer – Wasser in der Wüste
+
+---
+
+### Das Lied des Mose (Vers 1–5)
+
+<sup>1</sup>Da sangen Mose und die Israeliten dem HERRN dieses Lied:
+„Ich will dem HERRN singen,
+denn er ist hoch erhaben.
+Pferd und Reiter hat er ins Meer gestürzt.
+<sup>2</sup>Der HERR ist meine Stärke und mein Lied.
+Er ist meine Rettung geworden.
+Das ist mein Gott, ihn will ich loben.
+Er ist der Gott meines Vaters, ihn will ich rühmen.
+<sup>3</sup>Der HERR ist ein Kämpfer.
+Der HERR ist sein Name.
+<sup>4</sup>Die Streitwagen des Pharao und sein Heer hat er ins Meer geworfen.
+Seine besten Anführer sind im Roten Meer versunken.
+<sup>5</sup>Die Fluten haben sie bedeckt.
+Sie sind in die Tiefe gesunken wie ein Stein.
+
+> **Was bedeutet das?**
+> Nach der Rettung singt das Volk. Dies ist eines der ältesten Lieder der Bibel. Es steht im Hebräischen in Versform.
+> Wer gerettet wurde, will danken und feiern. Glaube und Musik gehören zusammen.
+> In Vers 2 steht für Gott die Kurzform „Jah“. Sie steckt auch im Wort „Halleluja“ – das heißt: „Lobt Jah! Lobt den HERRN!“
+> „Der HERR ist ein Kämpfer“ heißt hier: Er hat für sein Volk gekämpft, als es selbst wehrlos war (Kapitel 14,14).
+
+---
+
+### Gottes starke Hand (Vers 6–12)
+
+<sup>6</sup>Deine rechte Hand, HERR, ist herrlich in ihrer Kraft.
+Deine rechte Hand, HERR, zerschmettert den Feind.
+<sup>7</sup>In deiner großen Hoheit wirfst du alle nieder, die sich gegen dich erheben.
+Du lässt deinen Zorn los.
+Er verzehrt sie wie Stroh.
+<sup>8</sup>Beim Schnauben deiner Nase türmte sich das Wasser auf.
+Die Fluten standen wie ein Damm.
+Die Tiefen erstarrten mitten im Meer.
+
+<sup>9</sup>Der Feind sagte:
+‚Ich jage ihnen nach, ich hole sie ein,
+ich verteile die Beute.
+Ich will meine Gier an ihnen stillen.
+Ich ziehe mein Schwert.
+Meine Hand soll sie vernichten.‘
+<sup>10</sup>Da hast du mit deinem Wind geblasen.
+Das Meer hat sie bedeckt.
+Sie sind versunken wie Blei in den gewaltigen Wassern.
+
+<sup>11</sup>Wer ist wie du, HERR, unter den Göttern?
+Wer ist wie du, herrlich in Heiligkeit,
+ehrfurchtgebietend, wenn man dich lobt, du Wundertäter?
+<sup>12</sup>Du hast deine rechte Hand ausgestreckt.
+Da hat die Erde sie verschlungen.
+
+> **Was bedeutet das?**
+> Das Lied malt große Bilder: Gottes „Schnauben“ ist der Wind, der das Meer geteilt hat.
+> Der Feind ist voller Gier und Selbstsicherheit: „Ich, ich, ich …“ Immer wieder sagt er „ich“ und „mein“. Aber ein einziger Atemzug Gottes genügt, und alles ist vorbei.
+> „Wer ist wie du unter den Göttern?“ – Die Götter Ägyptens konnten nichts tun. Kein anderer Gott ist wie der HERR. Dieser Satz wird bis heute im jüdischen Gebet gesprochen: „Mi kamocha“.
+
+---
+
+### Gott führt sein Volk (Vers 13–18)
+
+<sup>13</sup>In deiner Güte hast du das Volk geführt, das du befreit hast.
+In deiner Kraft hast du es zu deiner heiligen Wohnung geleitet.
+<sup>14</sup>Die Völker haben es gehört, und sie zittern.
+Angst packt die Bewohner von Philistäa.
+<sup>15</sup>Da erschrecken die Fürsten von Edom.
+Zittern packt die starken Männer von Moab.
+Alle Bewohner von Kanaan verlieren den Mut.
+<sup>16</sup>Schrecken und Furcht fallen über sie.
+Wegen der Kraft deines Armes werden sie starr wie ein Stein,
+bis dein Volk vorüberzieht, HERR,
+bis das Volk vorüberzieht, das du dir erworben hast.
+<sup>17</sup>Du bringst sie hinein und pflanzt sie ein auf dem Berg, der dir gehört,
+an dem Ort, HERR, den du dir zur Wohnung gemacht hast,
+im Heiligtum, Herr, das deine Hände gegründet haben.
+<sup>18</sup>Der HERR ist König für immer und ewig!“
+
+> **Was bedeutet das?**
+> Das Lied schaut jetzt nach vorn: Gott wird sein Volk durch die Wüste führen und in das versprochene Land bringen.
+> Philistäa, Edom, Moab und Kanaan sind die Völker, an denen Israel auf dem Weg vorbeiziehen wird.
+> Der „Berg, der dir gehört“ ist wohl der Berg Zion in Jerusalem, wo später der Tempel steht.
+> Das Lied endet mit dem wichtigsten Satz: „Der HERR ist König für immer.“ Nicht der Pharao ist König, sondern Gott.
+
+---
+
+### Mirjam tanzt (Vers 19–21)
+
+<sup>19</sup>Denn die Pferde des Pharao waren mit seinen Streitwagen und seinen Reitern ins Meer gezogen.
+Und der HERR hatte das Wasser des Meeres über sie zurückfluten lassen.
+Die Israeliten aber waren auf trockenem Boden mitten durch das Meer gegangen.
+
+<sup>20</sup>Da nahm die Prophetin Mirjam, die Schwester von Aaron, eine Handtrommel in die Hand.
+Alle Frauen zogen mit Handtrommeln und Tänzen hinter ihr her.
+<sup>21</sup>Und Mirjam sang ihnen vor:
+„Singt dem HERRN,
+denn er ist hoch erhaben.
+Pferd und Reiter hat er ins Meer gestürzt.“
+
+> **Was bedeutet das?**
+> Mirjam ist die Schwester, die damals am Nil auf ihren kleinen Bruder aufgepasst hat (Kapitel 2,4). Jetzt ist sie eine alte Frau – und tanzt.
+> Sie wird „Prophetin“ genannt. Sie ist eine der ersten Frauen in der Bibel mit diesem Titel. Gott spricht auch durch Frauen.
+> Die Frauen feiern mit Trommeln und Tanz. Freude über Gottes Rettung darf man auch mit dem ganzen Körper zeigen.
+
+---
+
+### Bitteres Wasser wird süß (Vers 22–27)
+
+<sup>22</sup>Dann ließ Mose die Israeliten vom Roten Meer aufbrechen.
+Sie zogen in die Wüste Schur.
+Drei Tage lang wanderten sie durch die Wüste und fanden kein Wasser.
+<sup>23</sup>Dann kamen sie nach Mara.
+Aber sie konnten das Wasser von Mara nicht trinken, denn es war bitter.
+Darum heißt der Ort Mara, das bedeutet „bitter“.
+<sup>24</sup>Da murrte das Volk gegen Mose.
+Sie sagten:
+„Was sollen wir trinken?“
+
+<sup>25</sup>Mose schrie zum HERRN.
+Und der HERR zeigte ihm ein Stück Holz.
+Mose warf es ins Wasser.
+Da wurde das Wasser süß.
+Dort gab Gott dem Volk eine Ordnung und ein Recht.
+Und dort stellte er es auf die Probe.
+<sup>26</sup>Er sagte:
+„Wenn du wirklich auf die Stimme des HERRN, deines Gottes, hörst,
+wenn du tust, was in seinen Augen richtig ist,
+wenn du auf seine Gebote achtest und alle seine Ordnungen hältst,
+dann werde ich keine der Krankheiten über dich bringen, die ich über die Ägypter gebracht habe.
+Denn ich bin der HERR, dein Arzt.“
+
+<sup>27</sup>Dann kamen sie nach Elim.
+Dort gab es zwölf Wasserquellen und 70 Palmen.
+Dort am Wasser schlugen sie ihr Lager auf.
+
+> **Was bedeutet das?**
+> Gerade noch haben sie gefeiert. Drei Tage später murren sie schon. Die Wüste ist hart. Durst ist eine echte Not.
+> „Murren“ heißt: sich beschweren, unzufrieden meckern.
+> Mose macht es richtig: Er bringt die Not zu Gott.
+> „Ich bin der HERR, dein Arzt“ – ein schöner Name für Gott. Gott will heilen, nicht krank machen.
+> Nach dem bitteren Wasser kommt Elim: eine Oase mit zwölf Quellen und 70 Palmen. Zwölf wie die zwölf Stämme, 70 wie die 70 Nachkommen Jakobs. Gott sorgt genug für alle.
+
+## 2. Mose – Kapitel 16
+#### Manna und Wachteln
+
+---
+
+### Das Volk hat Hunger (Vers 1–3)
+
+<sup>1</sup>Sie brachen von Elim auf.
+Die ganze Gemeinde der Israeliten kam in die Wüste Sin, die zwischen Elim und dem Sinai liegt.
+Das war am 15. Tag des zweiten Monats, nachdem sie aus dem Land Ägypten ausgezogen waren.
+<sup>2</sup>In der Wüste murrte die ganze Gemeinde der Israeliten gegen Mose und Aaron.
+<sup>3</sup>Die Israeliten sagten zu ihnen:
+„Wären wir doch im Land Ägypten durch die Hand des HERRN gestorben!
+Dort saßen wir bei den Fleischtöpfen und hatten Brot genug zu essen.
+Aber ihr habt uns in diese Wüste herausgeführt,
+um diese ganze Versammlung verhungern zu lassen!“
+
+> **Was bedeutet das?**
+> Einen Monat nach dem Auszug sind die Vorräte aufgebraucht. Die Menschen haben Hunger.
+> Und sofort erinnern sie sich an Ägypten nur noch als das Land der „Fleischtöpfe“. Die Sklaverei, die Peitschen, die toten Kinder – alles vergessen.
+> Bis heute sagt man im Deutschen: „sich nach den Fleischtöpfen Ägyptens zurücksehnen“. Das heißt: Man trauert einer vergangenen Zeit nach und vergisst, wie schlimm sie eigentlich war.
+
+---
+
+### Gott verspricht Brot vom Himmel (Vers 4–12)
+
+<sup>4</sup>Da sagte der HERR zu Mose:
+„Schau: Ich lasse für euch Brot vom Himmel regnen.
+Das Volk soll jeden Tag hinausgehen und so viel sammeln, wie es für diesen Tag braucht.
+So will ich sie prüfen, ob sie nach meiner Weisung leben oder nicht.
+<sup>5</sup>Am sechsten Tag sollen sie zubereiten, was sie heimbringen.
+Und das wird doppelt so viel sein, wie sie an den anderen Tagen sammeln.“
+
+<sup>6</sup>Da sagten Mose und Aaron zu allen Israeliten:
+„Heute Abend werdet ihr erkennen, dass der HERR euch aus dem Land Ägypten herausgeführt hat.
+<sup>7</sup>Und morgen früh werdet ihr die Herrlichkeit des HERRN sehen.
+Denn er hat euer Murren gegen den HERRN gehört.
+Wer sind wir denn, dass ihr gegen uns murrt?“
+<sup>8</sup>Und Mose sagte:
+„Der HERR wird euch am Abend Fleisch zu essen geben
+und am Morgen Brot, so viel ihr wollt.
+Denn der HERR hat euer Murren gehört, mit dem ihr gegen ihn murrt.
+Wer sind wir denn?
+Euer Murren richtet sich nicht gegen uns, sondern gegen den HERRN.“
+
+<sup>9</sup>Mose sagte zu Aaron:
+„Sag der ganzen Gemeinde der Israeliten:
+‚Kommt näher vor den HERRN, denn er hat euer Murren gehört.‘“
+<sup>10</sup>Während Aaron zur ganzen Gemeinde der Israeliten redete, schauten sie zur Wüste hin.
+Und schau: Da erschien die Herrlichkeit des HERRN in der Wolke.
+<sup>11</sup>Der HERR sagte zu Mose:
+<sup>12</sup>„Ich habe das Murren der Israeliten gehört.
+Sag zu ihnen:
+‚Am Abend werdet ihr Fleisch essen.
+Und am Morgen werdet ihr satt werden von Brot.
+Dann werdet ihr erkennen, dass ich der HERR bin, euer Gott.‘“
+
+> **Was bedeutet das?**
+> Gott schimpft nicht. Er antwortet auf das Murren mit einem Geschenk.
+> Aber er will auch etwas lernen lassen: Das Volk soll jeden Tag nur so viel nehmen, wie es braucht. Es soll lernen, Gott jeden Tag neu zu vertrauen.
+> Die „Herrlichkeit des HERRN“ ist Gottes sichtbare Gegenwart, hier als ein Glanz in der Wolke.
+
+---
+
+### Wachteln und Manna (Vers 13–21)
+
+<sup>13</sup>Am Abend kamen Wachteln und bedeckten das Lager.
+Und am Morgen lag rings um das Lager Tau.
+<sup>14</sup>Als der Tau verdunstet war –
+schau: Da lag auf dem Boden der Wüste etwas Feines, Körniges, so fein wie Reif auf der Erde.
+<sup>15</sup>Die Israeliten sahen es und sagten zueinander:
+„Was ist das?“
+Denn sie wussten nicht, was es war.
+Mose sagte zu ihnen:
+„Das ist das Brot, das der HERR euch zu essen gibt.
+
+<sup>16</sup>Und das hat der HERR befohlen:
+‚Jeder soll so viel davon sammeln, wie er zum Essen braucht.
+Für jede Person ein Omer.
+Jeder soll für alle sammeln, die in seinem Zelt wohnen.‘“
+<sup>17</sup>Die Israeliten machten es so.
+Manche sammelten viel, manche wenig.
+<sup>18</sup>Aber als sie es mit dem Omer abmaßen,
+hatte der, der viel gesammelt hatte, nichts übrig.
+Und der, der wenig gesammelt hatte, hatte nicht zu wenig.
+Jeder hatte so viel gesammelt, wie er zum Essen brauchte.
+
+<sup>19</sup>Mose sagte zu ihnen:
+„Niemand soll etwas davon bis zum nächsten Morgen übrig lassen.“
+<sup>20</sup>Aber sie hörten nicht auf Mose.
+Einige ließen etwas bis zum Morgen übrig.
+Da wurde es voller Würmer und stank.
+Und Mose wurde zornig auf sie.
+<sup>21</sup>So sammelten sie es jeden Morgen, jeder so viel, wie er zum Essen brauchte.
+Wenn die Sonne heiß wurde, schmolz es.
+
+> **Was bedeutet das?**
+> Wachteln sind kleine Vögel. Sie ziehen bis heute in großen Schwärmen über die Sinai-Halbinsel und landen erschöpft am Boden. Dann kann man sie leicht fangen.
+> „Was ist das?“ heißt auf Hebräisch „Man hu?“. Daher kommt der Name „Manna“.
+> Ein Omer ist ein altes Maß, etwa 2 Liter.
+> Das Wunder: Jeder hat genau so viel, wie er braucht. Wer viel sammelt, hat nicht zu viel. Wer wenig sammelt, hat nicht zu wenig. Der Apostel Paulus zitiert diesen Satz, wenn er dazu aufruft, mit anderen zu teilen (2. Korinther 8,15).
+> Wer Vorräte anlegt, weil er Gott nicht vertraut, erlebt: Es verdirbt. Man kann Gottes Fürsorge nicht horten.
+> Jesus lehrt später beten: „Unser tägliches Brot gib uns heute.“ Daran erinnert das Manna: jeden Tag neu.
+
+---
+
+### Das Manna und der Sabbat (Vers 22–30)
+
+<sup>22</sup>Am sechsten Tag sammelten sie doppelt so viel Brot, zwei Omer für jeden.
+Da kamen alle Anführer der Gemeinde und erzählten es Mose.
+<sup>23</sup>Er sagte zu ihnen:
+„Das hat der HERR gesagt:
+‚Morgen ist ein Ruhetag, ein heiliger Sabbat für den HERRN.
+Backt, was ihr backen wollt, und kocht, was ihr kochen wollt.
+Und alles, was übrig bleibt, legt euch für morgen früh beiseite.‘“
+<sup>24</sup>Sie legten es bis zum Morgen beiseite, wie Mose es befohlen hatte.
+Und es stank nicht, und es waren keine Würmer darin.
+
+<sup>25</sup>Mose sagte:
+„Esst es heute.
+Denn heute ist ein Sabbat für den HERRN.
+Heute werdet ihr nichts auf dem Feld finden.
+<sup>26</sup>Sechs Tage lang sollt ihr es sammeln.
+Aber am siebten Tag ist Sabbat.
+An diesem Tag wird es keins geben.“
+
+<sup>27</sup>Trotzdem gingen am siebten Tag einige aus dem Volk hinaus, um zu sammeln.
+Aber sie fanden nichts.
+<sup>28</sup>Da sagte der HERR zu Mose:
+„Wie lange wollt ihr euch noch weigern, meine Gebote und Weisungen zu halten?
+<sup>29</sup>Seht doch: Der HERR hat euch den Sabbat geschenkt.
+Darum gibt er euch am sechsten Tag Brot für zwei Tage.
+Jeder soll an seinem Platz bleiben.
+Niemand soll am siebten Tag von seinem Platz weggehen.“
+<sup>30</sup>So ruhte das Volk am siebten Tag.
+
+> **Was bedeutet das?**
+> Hier kommt zum ersten Mal in der Bibel das Wort „Sabbat“ vor. Es bedeutet „Ruhe“ oder „aufhören“.
+> Gott hat am siebten Tag der Schöpfung geruht (1. Mose 2,2). Jetzt schenkt er seinem Volk diesen Ruhetag.
+> Für Menschen, die gerade noch Sklaven waren und jeden Tag schuften mussten, ist das ein riesiges Geschenk: ein Tag frei, jede Woche!
+> Am Sabbat-Vorabend hält das Manna sogar zwei Tage. Gott sorgt dafür, dass niemand am Ruhetag arbeiten muss.
+> Aber manche können nicht loslassen. Sie gehen trotzdem sammeln. Ruhen müssen auch befreite Menschen erst lernen.
+
+---
+
+### Ein Krug Manna zur Erinnerung (Vers 31–36)
+
+<sup>31</sup>Die Israeliten nannten es „Manna“.
+Es war weiß wie Koriandersamen.
+Und es schmeckte wie Waffeln mit Honig.
+
+<sup>32</sup>Mose sagte:
+„Das hat der HERR befohlen:
+‚Füllt ein Omer davon ab und bewahrt es für eure Nachkommen auf.
+Sie sollen das Brot sehen, mit dem ich euch in der Wüste ernährt habe,
+als ich euch aus dem Land Ägypten herausgeführt habe.‘“
+<sup>33</sup>Mose sagte zu Aaron:
+„Nimm einen Krug und füll ein volles Omer Manna hinein.
+Stell ihn vor den HERRN, damit er für eure Nachkommen aufbewahrt wird.“
+<sup>34</sup>Aaron stellte ihn vor das Zeugnis, damit er aufbewahrt wurde,
+so wie der HERR es Mose befohlen hatte.
+
+<sup>35</sup>Die Israeliten aßen 40 Jahre lang Manna,
+bis sie in bewohntes Land kamen.
+Sie aßen Manna, bis sie an die Grenze des Landes Kanaan kamen.
+<sup>36</sup>Ein Omer ist der zehnte Teil eines Efa.
+
+> **Was bedeutet das?**
+> Koriander ist ein Gewürz mit kleinen, runden Samen.
+> Das Manna soll nicht vergessen werden. Ein Krug davon wird aufbewahrt, damit spätere Generationen sehen: So hat Gott für uns gesorgt.
+> Das „Zeugnis“ sind die Steintafeln mit den Zehn Geboten, die später in der Bundeslade aufbewahrt werden. Mose schreibt diese Geschichte also mit Blick auf eine spätere Zeit.
+> 40 Jahre lang, jeden Tag, sorgt Gott für sein Volk – trotz allem Murren.
+> Ein Efa ist ein größeres Hohlmaß, etwa 22 Liter.
+> Jesus sagt im Neuen Testament: „Ich bin das Brot des Lebens.“ Und er vergleicht sich mit dem Manna, dem Brot vom Himmel (Johannes 6,31–35).
+
+## 2. Mose – Kapitel 17
+#### Wasser aus dem Felsen – der Kampf gegen Amalek
+
+---
+
+### Kein Wasser in Refidim (Vers 1–7)
+
+<sup>1</sup>Die ganze Gemeinde der Israeliten brach aus der Wüste Sin auf.
+Sie zogen von Rastplatz zu Rastplatz weiter, so wie der HERR es befahl.
+Dann schlugen sie ihr Lager in Refidim auf.
+Aber dort gab es kein Wasser für das Volk zum Trinken.
+<sup>2</sup>Darum stritt das Volk mit Mose.
+Sie sagten:
+„Gib uns Wasser zum Trinken!“
+Mose sagte zu ihnen:
+„Warum streitet ihr mit mir?
+Warum stellt ihr den HERRN auf die Probe?“
+<sup>3</sup>Aber das Volk hatte dort großen Durst nach Wasser.
+Darum murrte das Volk gegen Mose.
+Sie sagten:
+„Warum hast du uns aus Ägypten heraufgeführt?
+Willst du uns, unsere Kinder und unser Vieh verdursten lassen?“
+
+<sup>4</sup>Da schrie Mose zum HERRN:
+„Was soll ich mit diesem Volk machen?
+Es fehlt nicht viel, und sie steinigen mich!“
+<sup>5</sup>Der HERR sagte zu Mose:
+„Geh vor dem Volk her.
+Nimm einige von den Ältesten Israels mit.
+Nimm auch den Stab in die Hand, mit dem du auf den Nil geschlagen hast, und geh los.
+<sup>6</sup>Schau: Ich werde dort vor dir auf dem Felsen am Horeb stehen.
+Schlag auf den Felsen.
+Dann wird Wasser aus ihm herauskommen, und das Volk kann trinken.“
+Mose machte es so, vor den Augen der Ältesten Israels.
+
+<sup>7</sup>Er nannte den Ort Massa und Meriba.
+Denn die Israeliten hatten dort gestritten.
+Und sie hatten den HERRN auf die Probe gestellt.
+Sie hatten gesagt:
+„Ist der HERR mitten unter uns oder nicht?“
+
+> **Was bedeutet das?**
+> Wieder kein Wasser. Wieder Streit. Die Lage wird gefährlich: Das Volk will Mose sogar steinigen.
+> Durst ist eine echte Not. Aber das Volk fragt nicht: „Hilf uns, Gott!“ Es fragt misstrauisch: „Ist Gott überhaupt da?“ Das nennt die Bibel: Gott auf die Probe stellen.
+> Mose schlägt mit demselben Stab, mit dem er den Nil zu Blut gemacht hat. Jetzt bringt der Stab Leben.
+> „Massa“ heißt „Prüfung“. „Meriba“ heißt „Streit“. Die Namen erinnern an das, was dort geschah.
+> Der Apostel Paulus sieht in dem Felsen, der Wasser gibt, ein Bild für Christus (1. Korinther 10,4).
+
+---
+
+### Der Kampf gegen Amalek (Vers 8–13)
+
+<sup>8</sup>Dann kamen die Amalekiter und kämpften in Refidim gegen Israel.
+<sup>9</sup>Mose sagte zu Josua:
+„Such uns Männer aus und zieh in den Kampf gegen Amalek.
+Ich werde mich morgen oben auf den Hügel stellen,
+mit dem Stab Gottes in der Hand.“
+<sup>10</sup>Josua machte es so, wie Mose es ihm gesagt hatte, und kämpfte gegen Amalek.
+Mose, Aaron und Hur stiegen auf den Gipfel des Hügels.
+
+<sup>11</sup>Solange Mose seine Hand hochhielt, war Israel stärker.
+Wenn er seine Hand sinken ließ, war Amalek stärker.
+<sup>12</sup>Aber Mose wurden die Arme schwer.
+Da nahmen sie einen Stein und schoben ihn unter ihn.
+Er setzte sich darauf.
+Aaron und Hur stützten seine Hände, der eine auf der einen Seite, der andere auf der anderen Seite.
+So blieben seine Hände fest, bis die Sonne unterging.
+<sup>13</sup>Und Josua besiegte Amalek und sein Volk mit dem Schwert.
+
+> **Was bedeutet das?**
+> Die Amalekiter waren ein Wüstenvolk. Sie stammten von Esau ab (1. Mose 36,12). Sie greifen das erschöpfte Volk an. Später erfahren wir: Sie griffen gezielt die Schwachen und Müden am Ende des Zuges an (5. Mose 25,18).
+> Hier lernen wir zum ersten Mal Josua kennen. Er wird später Moses Nachfolger.
+> Mose hebt seine Hände – wohl zum Gebet. Der Sieg kommt nicht durch die Stärke der Kämpfer, sondern von Gott.
+> Ein schönes Bild: Mose ist müde. Er kann nicht mehr. Da helfen ihm Aaron und Hur und halten seine Arme hoch. Auch ein großer Anführer braucht Menschen, die ihn unterstützen. Niemand muss alles allein schaffen.
+> Hur ist ein enger Vertrauter von Mose. Nach jüdischer Überlieferung war er Mirjams Ehemann.
+
+---
+
+### Ein Altar zur Erinnerung (Vers 14–16)
+
+<sup>14</sup>Der HERR sagte zu Mose:
+„Schreib das zur Erinnerung in ein Buch.
+Und sag es Josua ganz deutlich:
+Ich werde die Erinnerung an Amalek unter dem Himmel völlig auslöschen.“
+<sup>15</sup>Mose baute einen Altar.
+Er nannte ihn „Der HERR ist unser Feldzeichen“.
+<sup>16</sup>Und er sagte:
+„Jah hat geschworen:
+Der HERR führt Krieg gegen Amalek von Generation zu Generation.“
+
+> **Was bedeutet das?**
+> Hier steht zum ersten Mal in der Bibel, dass etwas aufgeschrieben werden soll. Gottes Taten sollen nicht vergessen werden.
+> Ein „Feldzeichen“ ist eine Fahne oder Stange, um die sich Soldaten sammeln. Mose sagt: Unser Sammelpunkt ist Gott selbst. Er ist unser Zeichen des Sieges.
+> Amalek wurde später zu einem Bild für das Böse, das Gottes Volk immer wieder angreift.
+> Vers 16 ist im Hebräischen sehr schwer zu verstehen. Wörtlich steht dort etwa: „Eine Hand am Thron von Jah.“ Viele Bibeln verstehen das als feierlichen Schwur, so wie hier: „Jah hat geschworen.“ „Jah“ ist eine Kurzform des Gottesnamens.
+
+## 2. Mose – Kapitel 18
+#### Jitro besucht Mose und gibt ihm einen guten Rat
+
+---
+
+### Familienbesuch in der Wüste (Vers 1–8)
+
+<sup>1</sup>Jitro, der Priester von Midian und Schwiegervater von Mose, hörte von allem, was Gott für Mose und für sein Volk Israel getan hatte.
+Er hörte, dass der HERR Israel aus Ägypten herausgeführt hatte.
+<sup>2</sup>Mose hatte seine Frau Zippora vorher zurückgeschickt.
+Jitro, der Schwiegervater von Mose, nahm sie
+<sup>3</sup>und ihre beiden Söhne mit.
+Der eine Sohn hieß Gerschom.
+Denn Mose hatte gesagt:
+„Ich bin ein Fremder in einem fremden Land.“
+<sup>4</sup>Der andere hieß Eliëser.
+Denn Mose hatte gesagt:
+„Der Gott meines Vaters war meine Hilfe.
+Er hat mich vor dem Schwert des Pharao gerettet.“
+
+<sup>5</sup>Jitro, der Schwiegervater von Mose, kam mit den Söhnen und der Frau von Mose zu Mose in die Wüste.
+Mose hatte sein Lager am Berg Gottes aufgeschlagen.
+<sup>6</sup>Jitro ließ Mose ausrichten:
+„Ich, dein Schwiegervater Jitro, komme zu dir,
+mit deiner Frau und ihren beiden Söhnen.“
+
+<sup>7</sup>Da ging Mose seinem Schwiegervater entgegen.
+Er verneigte sich vor ihm und küsste ihn.
+Sie fragten einander, wie es ihnen gehe.
+Dann gingen sie ins Zelt.
+<sup>8</sup>Mose erzählte seinem Schwiegervater alles, was der HERR wegen Israel mit dem Pharao und den Ägyptern gemacht hatte.
+Er erzählte von allen Mühen, die sie unterwegs erlebt hatten,
+und wie der HERR sie gerettet hatte.
+
+> **Was bedeutet das?**
+> Mose hatte seine Frau und seine Söhne irgendwann zu ihrem Vater zurückgeschickt. Vielleicht, um sie in der gefährlichen Zeit in Ägypten zu schützen.
+> Jetzt bringt Jitro die Familie wieder zusammen.
+> „Eliëser“ bedeutet „Mein Gott ist Hilfe“.
+> Die beiden Männer begegnen sich mit großem Respekt und Herzlichkeit. Und Mose erzählt, was Gott getan hat – das Gute und auch die Mühen.
+
+---
+
+### Jitro lobt Gott (Vers 9–12)
+
+<sup>9</sup>Jitro freute sich über all das Gute, das der HERR an Israel getan hatte.
+Er freute sich, dass er sie aus der Hand der Ägypter gerettet hatte.
+<sup>10</sup>Jitro sagte:
+„Gelobt sei der HERR!
+Er hat euch aus der Hand der Ägypter und aus der Hand des Pharao gerettet.
+Er hat das Volk aus der Gewalt der Ägypter befreit.
+<sup>11</sup>Jetzt weiß ich, dass der HERR größer ist als alle Götter.
+Denn das hat sich gezeigt, als sie so überheblich mit dem Volk umgegangen sind.“
+
+<sup>12</sup>Dann brachte Jitro, der Schwiegervater von Mose, Gott ein Brandopfer und andere Opfer dar.
+Und Aaron und alle Ältesten Israels kamen, um mit dem Schwiegervater von Mose vor Gott zu essen.
+
+> **Was bedeutet das?**
+> Jitro ist kein Israelit. Er ist ein Priester aus Midian. Aber als er hört, was Gott getan hat, lobt er den Gott Israels.
+> „Jetzt weiß ich“ – Jitro erkennt, was der Pharao nicht erkennen wollte: Der HERR ist größer als alle Götter.
+> Ein Ausländer bringt das erste Opfer nach dem Auszug, und die Ältesten Israels essen mit ihm. Gottes Volk ist offen für Menschen aus anderen Völkern, die Gott erkennen.
+
+---
+
+### Mose arbeitet zu viel (Vers 13–18)
+
+<sup>13</sup>Am nächsten Tag setzte sich Mose hin, um für das Volk Recht zu sprechen.
+Und das Volk stand vom Morgen bis zum Abend um Mose herum.
+<sup>14</sup>Als der Schwiegervater von Mose sah, was er alles für das Volk tat, sagte er:
+„Was machst du da mit dem Volk?
+Warum sitzt du hier ganz allein,
+und das ganze Volk steht vom Morgen bis zum Abend um dich herum?“
+
+<sup>15</sup>Mose sagte zu seinem Schwiegervater:
+„Das Volk kommt zu mir, um Gott zu befragen.
+<sup>16</sup>Wenn sie einen Streit haben, kommen sie zu mir.
+Dann entscheide ich, wer von beiden recht hat.
+Und ich erkläre ihnen die Ordnungen und Gesetze Gottes.“
+
+<sup>17</sup>Da sagte der Schwiegervater von Mose zu ihm:
+„Das ist nicht gut, wie du das machst.
+<sup>18</sup>So wirst du dich völlig erschöpfen, du und auch das Volk, das bei dir ist.
+Denn diese Aufgabe ist zu schwer für dich.
+Du kannst sie nicht allein bewältigen.“
+
+> **Was bedeutet das?**
+> Mose macht alles allein. Von morgens bis abends hört er sich Streitigkeiten an. Und die Menschen müssen den ganzen Tag warten.
+> Jitro sieht das mit dem Blick von außen und sagt ehrlich: „Das ist nicht gut.“
+> Das klingt sehr modern: Wer alles allein machen will, brennt aus. Und auch die anderen leiden darunter.
+
+---
+
+### Jitros Rat (Vers 19–23)
+
+<sup>19</sup>„Hör jetzt auf mich.
+Ich will dir einen Rat geben, und Gott sei mit dir.
+Du sollst das Volk vor Gott vertreten.
+Bring ihre Anliegen vor Gott.
+<sup>20</sup>Erkläre ihnen die Ordnungen und Gesetze.
+Zeig ihnen den Weg, auf dem sie gehen sollen, und was sie tun sollen.
+
+<sup>21</sup>Aber such dir aus dem ganzen Volk tüchtige Männer aus.
+Sie sollen Gott fürchten, zuverlässig sein und sich nicht bestechen lassen.
+Setz sie als Vorgesetzte über das Volk ein:
+über je tausend, über je hundert, über je fünfzig und über je zehn Menschen.
+<sup>22</sup>Sie sollen dem Volk jederzeit Recht sprechen.
+Jede große Sache sollen sie zu dir bringen.
+Aber jede kleine Sache sollen sie selbst entscheiden.
+So wird es für dich leichter.
+Und sie tragen die Last mit dir zusammen.
+<sup>23</sup>Wenn du das so machst und Gott es dir so befiehlt,
+dann kannst du durchhalten.
+Und das ganze Volk kann zufrieden nach Hause gehen.“
+
+> **Was bedeutet das?**
+> Jitro schlägt vor: Verteile die Arbeit. Kleine Fälle entscheiden andere, nur die schweren kommen zu Mose.
+> Er sagt auch, wie gute Leiter sein sollen: Sie sollen Gott fürchten, zuverlässig sein und sich nicht bestechen lassen. Das gilt bis heute für alle, die Verantwortung tragen.
+> „Gott fürchten“ heißt: Gott ernst nehmen und vor ihm Verantwortung tragen.
+> Jitro ist bescheiden. Er sagt: Mach es so – wenn Gott es dir so befiehlt. Gott hat das letzte Wort.
+
+---
+
+### Mose hört auf den Rat (Vers 24–27)
+
+<sup>24</sup>Mose hörte auf seinen Schwiegervater und machte alles so, wie er gesagt hatte.
+<sup>25</sup>Mose wählte aus ganz Israel tüchtige Männer aus.
+Er machte sie zu Oberhäuptern über das Volk:
+zu Vorgesetzten über je tausend, über je hundert, über je fünfzig und über je zehn Menschen.
+<sup>26</sup>Sie sprachen dem Volk jederzeit Recht.
+Die schwierigen Fälle brachten sie zu Mose.
+Aber jede kleine Sache entschieden sie selbst.
+
+<sup>27</sup>Dann ließ Mose seinen Schwiegervater ziehen.
+Und er ging in sein Land zurück.
+
+> **Was bedeutet das?**
+> Mose ist der große Anführer, der mit Gott redet. Trotzdem ist er demütig genug, auf den Rat seines Schwiegervaters zu hören.
+> Gute Ideen dürfen auch von außen kommen, von Menschen aus einem anderen Volk und mit einem anderen Hintergrund.
+> Bevor Gott dem Volk am Sinai sein Gesetz gibt, wird schon eine Ordnung für gerechte Richter geschaffen. Recht und Gerechtigkeit gehören zum Fundament eines Volkes.
