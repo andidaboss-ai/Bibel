@@ -1,0 +1,377 @@
+{
+ "nr": 3,
+ "code": "LEV",
+ "kuerzel": "3Mo",
+ "name": "3. Mose",
+ "name_englisch": "Leviticus",
+ "testament": "altes-testament",
+ "kapitel": 27,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Das Brandopfer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 3. Buch Mose?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 3. Buch Mose heißt auch „Levitikus“. Das bedeutet: das Buch für die Leviten, also für die Priester und Diener am Heiligtum.\nAm Ende des 2. Buches Mose zieht Gott in das Heiligtum ein, mitten in sein Volk. Aber Gott ist heilig. Wie können Menschen mit Fehlern und Schuld in der Nähe des heiligen Gottes leben?\nDarauf antwortet dieses Buch. Es erklärt die Opfer, den Dienst der Priester, die Regeln für rein und unrein, den großen Versöhnungstag und die Feste.\nDer wichtigste Satz des Buches lautet: „Ihr sollt heilig sein, denn ich bin heilig“ (3. Mose 19,2).\nHier steht auch das Gebot, das Jesus später als eines der beiden wichtigsten Gebote nennt: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18).\nVieles in diesem Buch ist uns heute fremd: Tieropfer, Blut, Regeln für Speisen und Krankheiten. Die Erklärungen helfen, das zu verstehen.\nSeit der Tempel in Jerusalem im Jahr 70 nach Christus zerstört wurde, bringen Juden keine Tieropfer mehr. An ihre Stelle sind Gebet, Lernen der Tora und gute Taten getreten. Christen glauben, dass Jesus durch seinen Tod das letzte und vollkommene Opfer gebracht hat (Hebräer 10,10–14).",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Das Brandopfer von Rindern",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR rief Mose und redete mit ihm aus dem Zelt der Begegnung. Er sagte:",
+       "englisch_web": "Yahweh called to Moses, and spoke to him from the Tent of Meeting, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Sprich zu den Israeliten und sag ihnen:\n‚Wenn jemand von euch dem HERRN eine Opfergabe bringt,\ndann sollt ihr eure Opfergabe vom Vieh bringen, von den Rindern oder von den Schafen und Ziegen.",
+       "englisch_web": "“Speak to the children of Israel, and tell them, ‘When anyone of you offers an offering to Yahweh, you shall offer your offering of the livestock, from the herd and from the flock."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Wenn seine Opfergabe ein Brandopfer von den Rindern ist,\ndann soll er ein männliches Tier ohne Fehler bringen.\nEr soll es zum Eingang des Zeltes der Begegnung bringen,\ndamit er vor dem HERRN angenommen wird.",
+       "englisch_web": "“‘If his offering is a burnt offering from the herd, he shall offer a male without defect. He shall offer it at the door of the Tent of Meeting, that he may be accepted before Yahweh."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er soll seine Hand auf den Kopf des Brandopfers legen.\nDann wird es für ihn angenommen, um für ihn Versöhnung zu schaffen.",
+       "englisch_web": "He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Er soll den Stier vor dem HERRN schlachten.\nDie Söhne Aarons, die Priester, sollen das Blut darbringen\nund das Blut ringsum an den Altar sprengen, der am Eingang des Zeltes der Begegnung steht.",
+       "englisch_web": "He shall kill the bull before Yahweh. Aaron’s sons, the priests, shall present the blood and sprinkle the blood around on the altar that is at the door of the Tent of Meeting."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er soll dem Brandopfer die Haut abziehen und es in Stücke zerlegen.",
+       "englisch_web": "He shall skin the burnt offering and cut it into pieces."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Söhne von Aaron, dem Priester, sollen Feuer auf den Altar legen\nund Holz ordentlich auf das Feuer schichten.",
+       "englisch_web": "The sons of Aaron the priest shall put fire on the altar, and lay wood in order on the fire;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Und die Söhne Aarons, die Priester, sollen die Stücke, den Kopf und das Fett\nordentlich auf das Holz legen, das auf dem Feuer auf dem Altar liegt.",
+       "englisch_web": "and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat in order on the wood that is on the fire which is on the altar;"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Aber die Eingeweide und die Beine soll er mit Wasser waschen.\nDer Priester soll alles auf dem Altar verbrennen.\nEs ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.",
+       "englisch_web": "but he shall wash its innards and its legs with water. The priest shall burn all of it on the altar, for a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh."
+      }
+     ],
+     "erklaerung": "Gott ruft Mose jetzt aus dem Zelt der Begegnung, dem Heiligtum, das gerade fertig geworden ist.\nDas Brandopfer ist das erste Opfer, das beschrieben wird. Das ganze Tier wird verbrannt. Nichts davon wird gegessen. Es ist ein Zeichen: Ich gebe mich ganz Gott hin.\nDas Tier muss „ohne Fehler“ sein, also gesund und ohne Verletzung. Man gibt Gott nicht das Schlechteste, sondern das Beste.\nWer opfert, legt seine Hand auf den Kopf des Tieres. Das heißt: Dieses Tier steht für mich.\nInteressant: Der Mensch, der das Opfer bringt, schlachtet das Tier selbst. Der Priester kümmert sich um das Blut und den Altar.\n„Ein angenehmer Duft für den HERRN“ ist ein Bild: Gott nimmt das Opfer gern an."
+    },
+    {
+     "ueberschrift": "Das Brandopfer von Schafen und Ziegen",
+     "vers_von": 10,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Wenn seine Opfergabe für ein Brandopfer von den Schafen oder von den Ziegen ist,\ndann soll er ein männliches Tier ohne Fehler bringen.",
+       "englisch_web": "“‘If his offering is from the flock, from the sheep or from the goats, for a burnt offering, he shall offer a male without defect."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er soll es an der Nordseite des Altars vor dem HERRN schlachten.\nDie Söhne Aarons, die Priester, sollen sein Blut ringsum an den Altar sprengen.",
+       "englisch_web": "He shall kill it on the north side of the altar before Yahweh. Aaron’s sons, the priests, shall sprinkle its blood around on the altar."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Er soll es in Stücke zerlegen, mit seinem Kopf und seinem Fett.\nDer Priester soll sie ordentlich auf das Holz legen, das auf dem Feuer auf dem Altar liegt.",
+       "englisch_web": "He shall cut it into its pieces, with its head and its fat. The priest shall lay them in order on the wood that is on the fire which is on the altar,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Aber die Eingeweide und die Beine soll er mit Wasser waschen.\nDer Priester soll das Ganze darbringen und auf dem Altar verbrennen.\nEs ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.",
+       "englisch_web": "but the innards and the legs he shall wash with water. The priest shall offer the whole, and burn it on the altar. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh."
+      }
+     ],
+     "erklaerung": "Nicht jeder konnte sich ein Rind leisten. Darum durfte man auch ein Schaf oder eine Ziege bringen. Das Opfer gilt genauso viel."
+    },
+    {
+     "ueberschrift": "Das Brandopfer von Vögeln",
+     "vers_von": 14,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Wenn seine Opfergabe für den HERRN ein Brandopfer von Vögeln ist,\ndann soll er seine Opfergabe von den Turteltauben oder von den jungen Tauben bringen.",
+       "englisch_web": "“‘If his offering to Yahweh is a burnt offering of birds, then he shall offer his offering from turtledoves or of young pigeons."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Der Priester soll sie zum Altar bringen, ihr den Kopf abkneifen und sie auf dem Altar verbrennen.\nIhr Blut soll an der Seite des Altars ausgepresst werden.",
+       "englisch_web": "The priest shall bring it to the altar, and wring off its head, and burn it on the altar; and its blood shall be drained out on the side of the altar;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er soll ihren Kropf mit den Federn entfernen\nund ihn neben den Altar werfen, an die Ostseite, an den Platz für die Asche.",
+       "englisch_web": "and he shall take away its crop and its feathers, and cast it beside the altar on the east part, in the place of the ashes."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er soll sie an den Flügeln einreißen, aber nicht ganz auseinanderteilen.\nDer Priester soll sie auf dem Altar verbrennen, auf dem Holz, das auf dem Feuer liegt.\nEs ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.‘“",
+       "englisch_web": "He shall tear it by its wings, but shall not divide it apart. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh."
+      }
+     ],
+     "erklaerung": "Wer sehr arm war, durfte Tauben bringen. So konnte jeder ein Opfer bringen, egal wie viel Geld er hatte.\nDreimal heißt es am Ende gleich: „ein angenehmer Duft für den HERRN“ – beim Rind, beim Schaf und bei der Taube. Für Gott ist die kleine Taube des Armen genauso wertvoll wie der Stier des Reichen.\nAuch Maria und Josef waren arm. Als Jesus geboren war, brachten sie im Tempel zwei Tauben als Opfer (Lukas 2,24)."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Das Speiseopfer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Speiseopfer aus Mehl",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "‚Wenn jemand dem HERRN ein Speiseopfer als Opfergabe bringt,\ndann soll seine Opfergabe aus feinem Mehl sein.\nEr soll Öl darauf gießen und Weihrauch darauf legen.",
+       "englisch_web": "“‘When anyone offers an offering of a meal offering to Yahweh, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er soll es zu den Söhnen Aarons, den Priestern, bringen.\nDer Priester soll eine Handvoll von dem feinen Mehl und von dem Öl nehmen, mit dem ganzen Weihrauch.\nUnd der Priester soll diesen Gedenkteil auf dem Altar verbrennen,\nals Feueropfer, als angenehmen Duft für den HERRN.",
+       "englisch_web": "He shall bring it to Aaron’s sons, the priests. He shall take his handful of its fine flour, and of its oil, with all its frankincense, and the priest shall burn its memorial on the altar, an offering made by fire, of a pleasant aroma to Yahweh."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Was vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen.\nEs ist ein hochheiliger Teil von den Feueropfern für den HERRN.",
+       "englisch_web": "That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of Yahweh made by fire."
+      }
+     ],
+     "erklaerung": "Das Speiseopfer ist ein Opfer ohne Tier. Man bringt Mehl, Öl und Weihrauch – also Dinge, die man durch die Arbeit auf dem Feld gewinnt. Es ist ein Dank an Gott für das tägliche Brot.\nNur eine Handvoll wird verbrannt. Das nennt man den „Gedenkteil“. Er steht für das Ganze und soll Gott an den Menschen erinnern, der es bringt.\nDer Rest ist das Essen für die Priester. Die Priester hatten kein eigenes Land. So sorgte Gott für sie."
+    },
+    {
+     "ueberschrift": "Gebacken, auf dem Blech oder in der Pfanne",
+     "vers_von": 4,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Wenn du ein Speiseopfer bringst, das im Ofen gebacken ist,\ndann sollen es ungesäuerte Kuchen aus feinem Mehl sein, mit Öl vermengt,\noder ungesäuerte Fladen, die mit Öl bestrichen sind.",
+       "englisch_web": "“‘When you offer an offering of a meal offering baked in the oven, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn deine Opfergabe ein Speiseopfer vom Backblech ist,\ndann soll es aus ungesäuertem feinem Mehl sein, mit Öl vermengt.",
+       "englisch_web": "If your offering is a meal offering made on a griddle, it shall be of unleavened fine flour, mixed with oil."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Brich es in Stücke und gieß Öl darauf. Es ist ein Speiseopfer.",
+       "englisch_web": "You shall cut it in pieces, and pour oil on it. It is a meal offering."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn deine Opfergabe ein Speiseopfer aus der Pfanne ist,\ndann soll es aus feinem Mehl mit Öl gemacht sein.",
+       "englisch_web": "If your offering is a meal offering of the pan, it shall be made of fine flour with oil."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Bring das Speiseopfer, das aus diesen Dingen gemacht ist, zum HERRN.\nMan soll es dem Priester übergeben, und er soll es zum Altar bringen.",
+       "englisch_web": "You shall bring the meal offering that is made of these things to Yahweh. It shall be presented to the priest, and he shall bring it to the altar."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Der Priester soll vom Speiseopfer den Gedenkteil nehmen und ihn auf dem Altar verbrennen,\nals Feueropfer, als angenehmen Duft für den HERRN.",
+       "englisch_web": "The priest shall take from the meal offering its memorial, and shall burn it on the altar, an offering made by fire, of a pleasant aroma to Yahweh."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Was vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen.\nEs ist ein hochheiliger Teil von den Feueropfern für den HERRN.",
+       "englisch_web": "That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of Yahweh made by fire."
+      }
+     ],
+     "erklaerung": "Man konnte das Mehl auf verschiedene Weise zubereiten: im Ofen gebacken, auf einem heißen Blech oder in einer Pfanne. Jeder konnte das Opfer so bringen, wie er in seiner Küche backte."
+    },
+    {
+     "ueberschrift": "Kein Sauerteig, kein Honig – aber immer Salz",
+     "vers_von": 11,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Kein Speiseopfer, das ihr dem HERRN bringt, darf mit Sauerteig gemacht sein.\nDenn ihr dürft keinen Sauerteig und keinen Honig als Feueropfer für den HERRN verbrennen.",
+       "englisch_web": "“‘No meal offering which you shall offer to Yahweh shall be made with yeast; for you shall burn no yeast, nor any honey, as an offering made by fire to Yahweh."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Als Gabe von den ersten Früchten dürft ihr sie dem HERRN bringen.\nAber sie sollen nicht als angenehmer Duft auf den Altar kommen.",
+       "englisch_web": "As an offering of first fruits you shall offer them to Yahweh, but they shall not rise up as a pleasant aroma on the altar."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Jede Opfergabe deines Speiseopfers sollst du mit Salz würzen.\nLass das Salz des Bundes deines Gottes bei deinem Speiseopfer nicht fehlen.\nZu allen deinen Opfergaben sollst du Salz bringen.",
+       "englisch_web": "Every offering of your meal offering you shall season with salt. You shall not allow the salt of the covenant of your God to be lacking from your meal offering. With all your offerings you shall offer salt."
+      }
+     ],
+     "erklaerung": "Sauerteig und Honig gären und verderben. Darum gehören sie nicht auf den Altar. In der Bibel ist Sauerteig oft ein Bild für etwas, das sich ausbreitet und verdirbt (zum Beispiel 1. Korinther 5,6–8).\nSalz dagegen macht haltbar. Es verhindert, dass etwas verdirbt. Darum ist Salz ein Zeichen für einen Bund, der für immer hält. Damals aß man gemeinsam Brot und Salz, wenn man Freundschaft schloss.\nJesus sagt zu seinen Jüngern: „Ihr seid das Salz der Erde“ (Matthäus 5,13)."
+    },
+    {
+     "ueberschrift": "Das Speiseopfer von den ersten Früchten",
+     "vers_von": 14,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Wenn du dem HERRN ein Speiseopfer von den ersten Früchten bringst,\ndann sollst du als Speiseopfer von deinen ersten Früchten frische Ähren bringen,\nim Feuer geröstet und zerstoßen.",
+       "englisch_web": "“‘If you offer a meal offering of first fruits to Yahweh, you shall offer for the meal offering of your first fruits fresh heads of grain parched with fire and crushed."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Gieß Öl darauf und leg Weihrauch darauf. Es ist ein Speiseopfer.",
+       "englisch_web": "You shall put oil on it and lay frankincense on it. It is a meal offering."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Der Priester soll als Gedenkteil etwas von den zerstoßenen Körnern und etwas vom Öl verbrennen,\nzusammen mit dem ganzen Weihrauch.\nEs ist ein Feueropfer für den HERRN.‘",
+       "englisch_web": "The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to Yahweh."
+      }
+     ],
+     "erklaerung": "Die „ersten Früchte“ sind die ersten Ähren der neuen Ernte. Die ersten und besten gibt man Gott. Damit sagt man: Die ganze Ernte ist ein Geschenk von Gott."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Das Gemeinschaftsopfer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Gemeinschaftsopfer von Rindern",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "‚Wenn jemand als Opfergabe ein Gemeinschaftsopfer bringt\nund es von den Rindern nimmt, ein männliches oder ein weibliches Tier,\ndann soll er es ohne Fehler vor den HERRN bringen.",
+       "englisch_web": "“‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before Yahweh."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er soll seine Hand auf den Kopf seiner Opfergabe legen\nund sie am Eingang des Zeltes der Begegnung schlachten.\nDie Söhne Aarons, die Priester, sollen das Blut ringsum an den Altar sprengen.",
+       "englisch_web": "He shall lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron’s sons, the priests, shall sprinkle the blood around on the altar."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Vom Gemeinschaftsopfer soll er dem HERRN ein Feueropfer bringen:\ndas Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,",
+       "englisch_web": "He shall offer of the sacrifice of peace offerings an offering made by fire to Yahweh. The fat that covers the innards, and all the fat that is on the innards,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "die beiden Nieren und das Fett an ihnen, das an den Lenden ist,\nund den Fettlappen an der Leber.\nDen soll er zusammen mit den Nieren herausnehmen.",
+       "englisch_web": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Söhne Aarons sollen es auf dem Altar verbrennen, auf dem Brandopfer,\ndas auf dem Holz über dem Feuer liegt.\nEs ist ein Feueropfer, ein angenehmer Duft für den HERRN.",
+       "englisch_web": "Aaron’s sons shall burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering made by fire, of a pleasant aroma to Yahweh."
+      }
+     ],
+     "erklaerung": "Das Gemeinschaftsopfer heißt auch „Friedensopfer“ oder „Heilsopfer“. Im Hebräischen steckt darin das Wort „Schalom“: Frieden, Heil, Ganzsein.\nBei diesem Opfer wird nur das Fett und ein paar innere Teile verbrannt. Das meiste Fleisch essen die Menschen selbst – bei einem Festessen mit Familie und Freunden (3. Mose 7,15). Ein Teil gehört den Priestern.\nEs ist wie ein gemeinsames Mahl mit Gott. Man feiert, dass man mit Gott und miteinander in Frieden lebt. Man brachte es zum Beispiel, um Gott zu danken oder wenn man ein Versprechen eingelöst hatte.\nAnders als beim Brandopfer darf es auch ein weibliches Tier sein."
+    },
+    {
+     "ueberschrift": "Das Gemeinschaftsopfer von Schafen",
+     "vers_von": 6,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn seine Opfergabe für ein Gemeinschaftsopfer für den HERRN von den Schafen oder Ziegen ist,\nein männliches oder ein weibliches Tier,\ndann soll er es ohne Fehler bringen.",
+       "englisch_web": "“‘If his offering for a sacrifice of peace offerings to Yahweh is from the flock, either male or female, he shall offer it without defect."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn er ein Lamm als Opfergabe bringt, dann soll er es vor den HERRN bringen.",
+       "englisch_web": "If he offers a lamb for his offering, then he shall offer it before Yahweh;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er soll seine Hand auf den Kopf seiner Opfergabe legen\nund sie vor dem Zelt der Begegnung schlachten.\nDie Söhne Aarons sollen sein Blut ringsum an den Altar sprengen.",
+       "englisch_web": "and he shall lay his hand on the head of his offering, and kill it before the Tent of Meeting. Aaron’s sons shall sprinkle its blood around on the altar."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Vom Gemeinschaftsopfer soll er dem HERRN ein Feueropfer bringen:\nsein Fett, den ganzen Fettschwanz, den er dicht am Rückgrat abtrennen soll,\ndas Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,",
+       "englisch_web": "He shall offer from the sacrifice of peace offerings an offering made by fire to Yahweh; its fat, the entire tail fat, he shall take away close to the backbone; and the fat that covers the entrails, and all the fat that is on the entrails,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "die beiden Nieren und das Fett an ihnen, das an den Lenden ist,\nund den Fettlappen an der Leber.\nDen soll er zusammen mit den Nieren herausnehmen.",
+       "englisch_web": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der Priester soll es auf dem Altar verbrennen.\nEs ist die Speise des Feueropfers für den HERRN.",
+       "englisch_web": "The priest shall burn it on the altar: it is the food of the offering made by fire to Yahweh."
+      }
+     ],
+     "erklaerung": "Der „Fettschwanz“ gehört zu einer Schafrasse im Orient, die viel Fett im Schwanz speichert. Er konnte mehrere Kilogramm wiegen und galt als besonders gutes Stück.\n„Die Speise für den HERRN“ ist ein Bild. Gott braucht kein Essen. Aber das Opfer ist wie eine Einladung: Gott sitzt mit am Tisch."
+    },
+    {
+     "ueberschrift": "Das Gemeinschaftsopfer von Ziegen",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Wenn seine Opfergabe eine Ziege ist, dann soll er sie vor den HERRN bringen.",
+       "englisch_web": "“‘If his offering is a goat, then he shall offer it before Yahweh."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er soll seine Hand auf ihren Kopf legen und sie vor dem Zelt der Begegnung schlachten.\nDie Söhne Aarons sollen ihr Blut ringsum an den Altar sprengen.",
+       "englisch_web": "He shall lay his hand on its head, and kill it before the Tent of Meeting; and the sons of Aaron shall sprinkle its blood around on the altar."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Davon soll er seine Opfergabe bringen, ein Feueropfer für den HERRN:\ndas Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,",
+       "englisch_web": "He shall offer from it as his offering, an offering made by fire to Yahweh; the fat that covers the innards, and all the fat that is on the innards,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "die beiden Nieren und das Fett an ihnen, das an den Lenden ist,\nund den Fettlappen an der Leber.\nDen soll er zusammen mit den Nieren herausnehmen.",
+       "englisch_web": "and the two kidneys, and the fat that is on them, which is by the loins, and the cover on the liver, with the kidneys, he shall take away."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Der Priester soll es auf dem Altar verbrennen.\nEs ist die Speise des Feueropfers, ein angenehmer Duft.\nAlles Fett gehört dem HERRN.",
+       "englisch_web": "The priest shall burn them on the altar: it is the food of the offering made by fire, for a pleasant aroma; all the fat is Yahweh’s."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Das soll eine feste Ordnung für alle Zeiten sein, für alle eure Generationen, überall, wo ihr wohnt:\nIhr dürft weder Fett noch Blut essen.‘“",
+       "englisch_web": "“‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’”"
+      }
+     ],
+     "erklaerung": "Das Fett galt als der beste Teil des Tieres. Darum gehört es Gott.\nGemeint ist hier das Fett um die inneren Organe, nicht das Fett, das im Fleisch steckt.\nDas Blut darf man nicht essen, weil im Blut das Leben ist (3. Mose 17,11). Das Leben gehört Gott. Dieses Verbot gab es schon zur Zeit von Noah (1. Mose 9,4).\nBis heute achten Juden darauf, dass koscheres Fleisch ausgeblutet ist. Auch die ersten Christen haben das Blutverbot beachtet (Apostelgeschichte 15,20)."
+    }
+   ]
+  }
+ ]
+}

@@ -13510,3 +13510,248 @@ Das ganze Haus Israel sah es, auf allen ihren Wanderungen.
 > 2. Gott schließt am Berg Sinai einen Bund mit seinem Volk und gibt ihm seine Gebote (Kapitel 19–24).
 > 3. Gott kommt, um mitten in seinem Volk zu wohnen. Dafür wird das Heiligtum gebaut (Kapitel 25–40). Mittendrin steht das goldene Kalb und Gottes Vergebung (Kapitel 32–34).
 > Die Botschaft des Buches: Gott sieht das Leid der Unterdrückten. Er befreit sie. Er gibt ihnen gute Regeln für ein Leben in Freiheit. Und er will nicht fern sein, sondern mitten unter den Menschen wohnen.
+
+
+---
+
+# 3. Mose
+
+## 3. Mose – Kapitel 1
+#### Das Brandopfer
+
+---
+
+### Bevor es losgeht: Was ist das 3. Buch Mose?
+
+Das 3. Buch Mose heißt auch „Levitikus“. Das bedeutet: das Buch für die Leviten, also für die Priester und Diener am Heiligtum.
+Am Ende des 2. Buches Mose zieht Gott in das Heiligtum ein, mitten in sein Volk. Aber Gott ist heilig. Wie können Menschen mit Fehlern und Schuld in der Nähe des heiligen Gottes leben?
+Darauf antwortet dieses Buch. Es erklärt die Opfer, den Dienst der Priester, die Regeln für rein und unrein, den großen Versöhnungstag und die Feste.
+Der wichtigste Satz des Buches lautet: „Ihr sollt heilig sein, denn ich bin heilig“ (3. Mose 19,2).
+Hier steht auch das Gebot, das Jesus später als eines der beiden wichtigsten Gebote nennt: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18).
+Vieles in diesem Buch ist uns heute fremd: Tieropfer, Blut, Regeln für Speisen und Krankheiten. Die Erklärungen helfen, das zu verstehen.
+Seit der Tempel in Jerusalem im Jahr 70 nach Christus zerstört wurde, bringen Juden keine Tieropfer mehr. An ihre Stelle sind Gebet, Lernen der Tora und gute Taten getreten. Christen glauben, dass Jesus durch seinen Tod das letzte und vollkommene Opfer gebracht hat (Hebräer 10,10–14).
+
+---
+
+### Das Brandopfer von Rindern (Vers 1–9)
+
+<sup>1</sup>Der HERR rief Mose und redete mit ihm aus dem Zelt der Begegnung. Er sagte:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn jemand von euch dem HERRN eine Opfergabe bringt,
+dann sollt ihr eure Opfergabe vom Vieh bringen, von den Rindern oder von den Schafen und Ziegen.
+
+<sup>3</sup>Wenn seine Opfergabe ein Brandopfer von den Rindern ist,
+dann soll er ein männliches Tier ohne Fehler bringen.
+Er soll es zum Eingang des Zeltes der Begegnung bringen,
+damit er vor dem HERRN angenommen wird.
+<sup>4</sup>Er soll seine Hand auf den Kopf des Brandopfers legen.
+Dann wird es für ihn angenommen, um für ihn Versöhnung zu schaffen.
+<sup>5</sup>Er soll den Stier vor dem HERRN schlachten.
+Die Söhne Aarons, die Priester, sollen das Blut darbringen
+und das Blut ringsum an den Altar sprengen, der am Eingang des Zeltes der Begegnung steht.
+<sup>6</sup>Er soll dem Brandopfer die Haut abziehen und es in Stücke zerlegen.
+<sup>7</sup>Die Söhne von Aaron, dem Priester, sollen Feuer auf den Altar legen
+und Holz ordentlich auf das Feuer schichten.
+<sup>8</sup>Und die Söhne Aarons, die Priester, sollen die Stücke, den Kopf und das Fett
+ordentlich auf das Holz legen, das auf dem Feuer auf dem Altar liegt.
+<sup>9</sup>Aber die Eingeweide und die Beine soll er mit Wasser waschen.
+Der Priester soll alles auf dem Altar verbrennen.
+Es ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.
+
+> **Was bedeutet das?**
+> Gott ruft Mose jetzt aus dem Zelt der Begegnung, dem Heiligtum, das gerade fertig geworden ist.
+> Das Brandopfer ist das erste Opfer, das beschrieben wird. Das ganze Tier wird verbrannt. Nichts davon wird gegessen. Es ist ein Zeichen: Ich gebe mich ganz Gott hin.
+> Das Tier muss „ohne Fehler“ sein, also gesund und ohne Verletzung. Man gibt Gott nicht das Schlechteste, sondern das Beste.
+> Wer opfert, legt seine Hand auf den Kopf des Tieres. Das heißt: Dieses Tier steht für mich.
+> Interessant: Der Mensch, der das Opfer bringt, schlachtet das Tier selbst. Der Priester kümmert sich um das Blut und den Altar.
+> „Ein angenehmer Duft für den HERRN“ ist ein Bild: Gott nimmt das Opfer gern an.
+
+---
+
+### Das Brandopfer von Schafen und Ziegen (Vers 10–13)
+
+<sup>10</sup>Wenn seine Opfergabe für ein Brandopfer von den Schafen oder von den Ziegen ist,
+dann soll er ein männliches Tier ohne Fehler bringen.
+<sup>11</sup>Er soll es an der Nordseite des Altars vor dem HERRN schlachten.
+Die Söhne Aarons, die Priester, sollen sein Blut ringsum an den Altar sprengen.
+<sup>12</sup>Er soll es in Stücke zerlegen, mit seinem Kopf und seinem Fett.
+Der Priester soll sie ordentlich auf das Holz legen, das auf dem Feuer auf dem Altar liegt.
+<sup>13</sup>Aber die Eingeweide und die Beine soll er mit Wasser waschen.
+Der Priester soll das Ganze darbringen und auf dem Altar verbrennen.
+Es ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.
+
+> **Was bedeutet das?**
+> Nicht jeder konnte sich ein Rind leisten. Darum durfte man auch ein Schaf oder eine Ziege bringen. Das Opfer gilt genauso viel.
+
+---
+
+### Das Brandopfer von Vögeln (Vers 14–17)
+
+<sup>14</sup>Wenn seine Opfergabe für den HERRN ein Brandopfer von Vögeln ist,
+dann soll er seine Opfergabe von den Turteltauben oder von den jungen Tauben bringen.
+<sup>15</sup>Der Priester soll sie zum Altar bringen, ihr den Kopf abkneifen und sie auf dem Altar verbrennen.
+Ihr Blut soll an der Seite des Altars ausgepresst werden.
+<sup>16</sup>Er soll ihren Kropf mit den Federn entfernen
+und ihn neben den Altar werfen, an die Ostseite, an den Platz für die Asche.
+<sup>17</sup>Er soll sie an den Flügeln einreißen, aber nicht ganz auseinanderteilen.
+Der Priester soll sie auf dem Altar verbrennen, auf dem Holz, das auf dem Feuer liegt.
+Es ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.‘“
+
+> **Was bedeutet das?**
+> Wer sehr arm war, durfte Tauben bringen. So konnte jeder ein Opfer bringen, egal wie viel Geld er hatte.
+> Dreimal heißt es am Ende gleich: „ein angenehmer Duft für den HERRN“ – beim Rind, beim Schaf und bei der Taube. Für Gott ist die kleine Taube des Armen genauso wertvoll wie der Stier des Reichen.
+> Auch Maria und Josef waren arm. Als Jesus geboren war, brachten sie im Tempel zwei Tauben als Opfer (Lukas 2,24).
+
+## 3. Mose – Kapitel 2
+#### Das Speiseopfer
+
+---
+
+### Das Speiseopfer aus Mehl (Vers 1–3)
+
+<sup>1</sup>‚Wenn jemand dem HERRN ein Speiseopfer als Opfergabe bringt,
+dann soll seine Opfergabe aus feinem Mehl sein.
+Er soll Öl darauf gießen und Weihrauch darauf legen.
+<sup>2</sup>Er soll es zu den Söhnen Aarons, den Priestern, bringen.
+Der Priester soll eine Handvoll von dem feinen Mehl und von dem Öl nehmen, mit dem ganzen Weihrauch.
+Und der Priester soll diesen Gedenkteil auf dem Altar verbrennen,
+als Feueropfer, als angenehmen Duft für den HERRN.
+<sup>3</sup>Was vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen.
+Es ist ein hochheiliger Teil von den Feueropfern für den HERRN.
+
+> **Was bedeutet das?**
+> Das Speiseopfer ist ein Opfer ohne Tier. Man bringt Mehl, Öl und Weihrauch – also Dinge, die man durch die Arbeit auf dem Feld gewinnt. Es ist ein Dank an Gott für das tägliche Brot.
+> Nur eine Handvoll wird verbrannt. Das nennt man den „Gedenkteil“. Er steht für das Ganze und soll Gott an den Menschen erinnern, der es bringt.
+> Der Rest ist das Essen für die Priester. Die Priester hatten kein eigenes Land. So sorgte Gott für sie.
+
+---
+
+### Gebacken, auf dem Blech oder in der Pfanne (Vers 4–10)
+
+<sup>4</sup>Wenn du ein Speiseopfer bringst, das im Ofen gebacken ist,
+dann sollen es ungesäuerte Kuchen aus feinem Mehl sein, mit Öl vermengt,
+oder ungesäuerte Fladen, die mit Öl bestrichen sind.
+<sup>5</sup>Wenn deine Opfergabe ein Speiseopfer vom Backblech ist,
+dann soll es aus ungesäuertem feinem Mehl sein, mit Öl vermengt.
+<sup>6</sup>Brich es in Stücke und gieß Öl darauf. Es ist ein Speiseopfer.
+<sup>7</sup>Wenn deine Opfergabe ein Speiseopfer aus der Pfanne ist,
+dann soll es aus feinem Mehl mit Öl gemacht sein.
+
+<sup>8</sup>Bring das Speiseopfer, das aus diesen Dingen gemacht ist, zum HERRN.
+Man soll es dem Priester übergeben, und er soll es zum Altar bringen.
+<sup>9</sup>Der Priester soll vom Speiseopfer den Gedenkteil nehmen und ihn auf dem Altar verbrennen,
+als Feueropfer, als angenehmen Duft für den HERRN.
+<sup>10</sup>Was vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen.
+Es ist ein hochheiliger Teil von den Feueropfern für den HERRN.
+
+> **Was bedeutet das?**
+> Man konnte das Mehl auf verschiedene Weise zubereiten: im Ofen gebacken, auf einem heißen Blech oder in einer Pfanne. Jeder konnte das Opfer so bringen, wie er in seiner Küche backte.
+
+---
+
+### Kein Sauerteig, kein Honig – aber immer Salz (Vers 11–13)
+
+<sup>11</sup>Kein Speiseopfer, das ihr dem HERRN bringt, darf mit Sauerteig gemacht sein.
+Denn ihr dürft keinen Sauerteig und keinen Honig als Feueropfer für den HERRN verbrennen.
+<sup>12</sup>Als Gabe von den ersten Früchten dürft ihr sie dem HERRN bringen.
+Aber sie sollen nicht als angenehmer Duft auf den Altar kommen.
+<sup>13</sup>Jede Opfergabe deines Speiseopfers sollst du mit Salz würzen.
+Lass das Salz des Bundes deines Gottes bei deinem Speiseopfer nicht fehlen.
+Zu allen deinen Opfergaben sollst du Salz bringen.
+
+> **Was bedeutet das?**
+> Sauerteig und Honig gären und verderben. Darum gehören sie nicht auf den Altar. In der Bibel ist Sauerteig oft ein Bild für etwas, das sich ausbreitet und verdirbt (zum Beispiel 1. Korinther 5,6–8).
+> Salz dagegen macht haltbar. Es verhindert, dass etwas verdirbt. Darum ist Salz ein Zeichen für einen Bund, der für immer hält. Damals aß man gemeinsam Brot und Salz, wenn man Freundschaft schloss.
+> Jesus sagt zu seinen Jüngern: „Ihr seid das Salz der Erde“ (Matthäus 5,13).
+
+---
+
+### Das Speiseopfer von den ersten Früchten (Vers 14–16)
+
+<sup>14</sup>Wenn du dem HERRN ein Speiseopfer von den ersten Früchten bringst,
+dann sollst du als Speiseopfer von deinen ersten Früchten frische Ähren bringen,
+im Feuer geröstet und zerstoßen.
+<sup>15</sup>Gieß Öl darauf und leg Weihrauch darauf. Es ist ein Speiseopfer.
+<sup>16</sup>Der Priester soll als Gedenkteil etwas von den zerstoßenen Körnern und etwas vom Öl verbrennen,
+zusammen mit dem ganzen Weihrauch.
+Es ist ein Feueropfer für den HERRN.‘
+
+> **Was bedeutet das?**
+> Die „ersten Früchte“ sind die ersten Ähren der neuen Ernte. Die ersten und besten gibt man Gott. Damit sagt man: Die ganze Ernte ist ein Geschenk von Gott.
+
+## 3. Mose – Kapitel 3
+#### Das Gemeinschaftsopfer
+
+---
+
+### Das Gemeinschaftsopfer von Rindern (Vers 1–5)
+
+<sup>1</sup>‚Wenn jemand als Opfergabe ein Gemeinschaftsopfer bringt
+und es von den Rindern nimmt, ein männliches oder ein weibliches Tier,
+dann soll er es ohne Fehler vor den HERRN bringen.
+<sup>2</sup>Er soll seine Hand auf den Kopf seiner Opfergabe legen
+und sie am Eingang des Zeltes der Begegnung schlachten.
+Die Söhne Aarons, die Priester, sollen das Blut ringsum an den Altar sprengen.
+<sup>3</sup>Vom Gemeinschaftsopfer soll er dem HERRN ein Feueropfer bringen:
+das Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,
+<sup>4</sup>die beiden Nieren und das Fett an ihnen, das an den Lenden ist,
+und den Fettlappen an der Leber.
+Den soll er zusammen mit den Nieren herausnehmen.
+<sup>5</sup>Die Söhne Aarons sollen es auf dem Altar verbrennen, auf dem Brandopfer,
+das auf dem Holz über dem Feuer liegt.
+Es ist ein Feueropfer, ein angenehmer Duft für den HERRN.
+
+> **Was bedeutet das?**
+> Das Gemeinschaftsopfer heißt auch „Friedensopfer“ oder „Heilsopfer“. Im Hebräischen steckt darin das Wort „Schalom“: Frieden, Heil, Ganzsein.
+> Bei diesem Opfer wird nur das Fett und ein paar innere Teile verbrannt. Das meiste Fleisch essen die Menschen selbst – bei einem Festessen mit Familie und Freunden (3. Mose 7,15). Ein Teil gehört den Priestern.
+> Es ist wie ein gemeinsames Mahl mit Gott. Man feiert, dass man mit Gott und miteinander in Frieden lebt. Man brachte es zum Beispiel, um Gott zu danken oder wenn man ein Versprechen eingelöst hatte.
+> Anders als beim Brandopfer darf es auch ein weibliches Tier sein.
+
+---
+
+### Das Gemeinschaftsopfer von Schafen (Vers 6–11)
+
+<sup>6</sup>Wenn seine Opfergabe für ein Gemeinschaftsopfer für den HERRN von den Schafen oder Ziegen ist,
+ein männliches oder ein weibliches Tier,
+dann soll er es ohne Fehler bringen.
+<sup>7</sup>Wenn er ein Lamm als Opfergabe bringt, dann soll er es vor den HERRN bringen.
+<sup>8</sup>Er soll seine Hand auf den Kopf seiner Opfergabe legen
+und sie vor dem Zelt der Begegnung schlachten.
+Die Söhne Aarons sollen sein Blut ringsum an den Altar sprengen.
+<sup>9</sup>Vom Gemeinschaftsopfer soll er dem HERRN ein Feueropfer bringen:
+sein Fett, den ganzen Fettschwanz, den er dicht am Rückgrat abtrennen soll,
+das Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,
+<sup>10</sup>die beiden Nieren und das Fett an ihnen, das an den Lenden ist,
+und den Fettlappen an der Leber.
+Den soll er zusammen mit den Nieren herausnehmen.
+<sup>11</sup>Der Priester soll es auf dem Altar verbrennen.
+Es ist die Speise des Feueropfers für den HERRN.
+
+> **Was bedeutet das?**
+> Der „Fettschwanz“ gehört zu einer Schafrasse im Orient, die viel Fett im Schwanz speichert. Er konnte mehrere Kilogramm wiegen und galt als besonders gutes Stück.
+> „Die Speise für den HERRN“ ist ein Bild. Gott braucht kein Essen. Aber das Opfer ist wie eine Einladung: Gott sitzt mit am Tisch.
+
+---
+
+### Das Gemeinschaftsopfer von Ziegen (Vers 12–17)
+
+<sup>12</sup>Wenn seine Opfergabe eine Ziege ist, dann soll er sie vor den HERRN bringen.
+<sup>13</sup>Er soll seine Hand auf ihren Kopf legen und sie vor dem Zelt der Begegnung schlachten.
+Die Söhne Aarons sollen ihr Blut ringsum an den Altar sprengen.
+<sup>14</sup>Davon soll er seine Opfergabe bringen, ein Feueropfer für den HERRN:
+das Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,
+<sup>15</sup>die beiden Nieren und das Fett an ihnen, das an den Lenden ist,
+und den Fettlappen an der Leber.
+Den soll er zusammen mit den Nieren herausnehmen.
+<sup>16</sup>Der Priester soll es auf dem Altar verbrennen.
+Es ist die Speise des Feueropfers, ein angenehmer Duft.
+Alles Fett gehört dem HERRN.
+
+<sup>17</sup>Das soll eine feste Ordnung für alle Zeiten sein, für alle eure Generationen, überall, wo ihr wohnt:
+Ihr dürft weder Fett noch Blut essen.‘“
+
+> **Was bedeutet das?**
+> Das Fett galt als der beste Teil des Tieres. Darum gehört es Gott.
+> Gemeint ist hier das Fett um die inneren Organe, nicht das Fett, das im Fleisch steckt.
+> Das Blut darf man nicht essen, weil im Blut das Leben ist (3. Mose 17,11). Das Leben gehört Gott. Dieses Verbot gab es schon zur Zeit von Noah (1. Mose 9,4).
+> Bis heute achten Juden darauf, dass koscheres Fleisch ausgeblutet ist. Auch die ersten Christen haben das Blutverbot beachtet (Apostelgeschichte 15,20).
