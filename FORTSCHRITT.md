@@ -2,11 +2,11 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 41 von 1189 Kapiteln (3.4 %), 1253 von 31098 Versen.**
+**Gesamt: 45 von 1189 Kapiteln (3.8 %), 1387 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
-| 1 | 1. Mose | AT | 41 / 50 | in Arbeit |
+| 1 | 1. Mose | AT | 45 / 50 | in Arbeit |
 | 2 | 2. Mose | AT | 0 / 40 | – |
 | 3 | 3. Mose | AT | 0 / 27 | – |
 | 4 | 4. Mose | AT | 0 / 36 | – |

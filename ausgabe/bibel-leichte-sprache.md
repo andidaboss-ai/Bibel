@@ -6277,3 +6277,680 @@ Denn die Hungersnot war schwer auf der ganzen Erde.
 > Alles kommt so, wie Gott es gezeigt hat. Durch Josefs Vorsorge haben die Menschen zu essen – nicht nur in Ägypten, sondern in der ganzen Gegend.
 > „Tut, was er euch sagt“ – Christen erinnern sich hier an die Hochzeit in Kana. Dort sagt Maria über Jesus: „Was er euch sagt, das tut“ (Johannes 2,5).
 > Der letzte Vers bereitet vor, was kommt: Wenn alle Länder nach Ägypten kommen, dann auch die Familie von Jakob aus Kanaan.
+
+## 1. Mose – Kapitel 42
+#### Josefs Brüder kommen nach Ägypten
+
+---
+
+### Jakob schickt seine Söhne los (Vers 1–5)
+
+<sup>1</sup>Jakob erfuhr, dass es in Ägypten Getreide gab.
+Da sagte Jakob zu seinen Söhnen:
+„Warum seht ihr euch nur gegenseitig an?“
+<sup>2</sup>Und er sagte:
+„Hört zu: Ich habe gehört, dass es in Ägypten Getreide gibt.
+Zieht hinab und kauft dort Getreide für uns.
+Dann bleiben wir am Leben und müssen nicht sterben.“
+
+<sup>3</sup>Da zogen zehn Brüder von Josef hinab, um in Ägypten Getreide zu kaufen.
+<sup>4</sup>Benjamin aber, den Bruder von Josef, schickte Jakob nicht mit seinen Brüdern mit.
+Denn er dachte: „Es könnte ihm ein Unglück zustoßen.“
+<sup>5</sup>So kamen die Söhne Israels mit den anderen, die auch kamen, um Getreide zu kaufen.
+Denn im Land Kanaan war Hungersnot.
+
+> **Was bedeutet das?**
+> Die Brüder sitzen ratlos herum. Der Vater muss sie antreiben.
+> Jakob lässt Benjamin zu Hause. Benjamin ist jetzt sein Lieblingssohn – der einzige Sohn von Rahel, der ihm noch geblieben ist. Er hat Angst, auch ihn zu verlieren. Man spürt: Jakob vertraut seinen anderen Söhnen nicht ganz.
+
+---
+
+### Die Brüder verneigen sich vor Josef (Vers 6–8)
+
+<sup>6</sup>Josef war der Herrscher über das Land.
+Er war es, der allen Leuten im Land Getreide verkaufte.
+Da kamen die Brüder von Josef.
+Sie verneigten sich vor ihm mit dem Gesicht bis zur Erde.
+
+<sup>7</sup>Josef sah seine Brüder und erkannte sie.
+Aber er tat so, als wäre er ein Fremder.
+Er redete hart mit ihnen.
+Er fragte sie:
+„Woher kommt ihr?“
+Sie antworteten:
+„Aus dem Land Kanaan, um Essen zu kaufen.“
+<sup>8</sup>Josef erkannte seine Brüder.
+Aber sie erkannten ihn nicht.
+
+> **Was bedeutet das?**
+> Jetzt geht in Erfüllung, was Josef als Junge geträumt hat: Die Garben seiner Brüder verneigen sich vor ihm (Kapitel 37). Sie verneigen sich bis zur Erde – ohne zu wissen, vor wem.
+> Über 20 Jahre sind vergangen. Josef war damals 17, jetzt ist er fast 40. Er trägt ägyptische Kleider, ist rasiert und spricht Ägyptisch. Kein Wunder, dass die Brüder ihn nicht erkennen.
+
+---
+
+### „Ihr seid Spione!“ (Vers 9–17)
+
+<sup>9</sup>Da erinnerte sich Josef an die Träume, die er über sie geträumt hatte.
+Er sagte zu ihnen:
+„Ihr seid Spione!
+Ihr seid gekommen, um herauszufinden, wo das Land ungeschützt ist.“
+
+<sup>10</sup>Sie antworteten ihm:
+„Nein, mein Herr!
+Deine Diener sind gekommen, um Essen zu kaufen.
+<sup>11</sup>Wir sind alle Söhne von einem einzigen Mann.
+Wir sind ehrliche Leute.
+Deine Diener sind keine Spione.“
+<sup>12</sup>Er sagte zu ihnen:
+„Nein!
+Ihr seid gekommen, um herauszufinden, wo das Land ungeschützt ist.“
+
+<sup>13</sup>Sie sagten:
+„Wir, deine Diener, sind zwölf Brüder,
+die Söhne von einem einzigen Mann im Land Kanaan.
+Schau: Der jüngste ist heute bei unserem Vater.
+Und einer ist nicht mehr da.“
+
+<sup>14</sup>Josef sagte zu ihnen:
+„Es ist so, wie ich es euch gesagt habe: Ihr seid Spione!
+<sup>15</sup>Daran will ich euch prüfen:
+So wahr der Pharao lebt – ihr kommt hier nicht weg,
+bevor euer jüngster Bruder hierherkommt.
+<sup>16</sup>Schickt einen von euch los.
+Der soll euren Bruder holen.
+Ihr anderen bleibt gefangen.
+So werden eure Worte geprüft, ob ihr die Wahrheit sagt.
+Wenn nicht, dann seid ihr – so wahr der Pharao lebt – ganz sicher Spione.“
+
+<sup>17</sup>Und er ließ sie alle zusammen drei Tage lang ins Gefängnis sperren.
+
+> **Was bedeutet das?**
+> Warum ist Josef so hart? Er will herausfinden, ob seine Brüder sich verändert haben. Sind sie immer noch dieselben Männer, die einen Bruder verkaufen? Wie behandeln sie Benjamin, den anderen Sohn von Rahel?
+> „Einer ist nicht mehr da“ – so reden die Brüder über Josef. Sie wissen nicht, dass er vor ihnen steht.
+> Josef sperrt sie drei Tage ins Gefängnis. Jetzt erleben die Brüder ein wenig von dem, was Josef erlebt hat.
+
+---
+
+### Die Brüder erkennen ihre Schuld (Vers 18–24)
+
+<sup>18</sup>Am dritten Tag sagte Josef zu ihnen:
+„Tut, was ich sage, dann bleibt ihr am Leben.
+Denn ich fürchte Gott.
+<sup>19</sup>Wenn ihr ehrliche Leute seid, dann soll einer von euch Brüdern im Gefängnis bleiben.
+Ihr anderen geht und bringt Getreide nach Hause zu euren hungernden Familien.
+<sup>20</sup>Aber euren jüngsten Bruder bringt ihr zu mir.
+Dann wird sich zeigen, dass eure Worte stimmen.
+Und ihr müsst nicht sterben.“
+Und sie waren einverstanden.
+
+<sup>21</sup>Da sagten sie zueinander:
+„Ja, wir sind schuldig wegen unseres Bruders.
+Wir haben seine Angst gesehen, als er uns angefleht hat.
+Aber wir haben nicht auf ihn gehört.
+Darum kommt jetzt diese Not über uns.“
+<sup>22</sup>Ruben antwortete ihnen:
+„Habe ich euch nicht gesagt: ‚Versündigt euch nicht an dem Jungen‘?
+Aber ihr wolltet nicht hören.
+Jetzt wird sein Blut von uns gefordert.“
+
+<sup>23</sup>Sie wussten nicht, dass Josef sie verstand.
+Denn er sprach durch einen Dolmetscher mit ihnen.
+<sup>24</sup>Da wandte Josef sich von ihnen ab und weinte.
+Dann kam er wieder zu ihnen zurück und redete mit ihnen.
+Er ließ Simeon aus ihrer Mitte nehmen und vor ihren Augen fesseln.
+
+> **Was bedeutet das?**
+> „Ich fürchte Gott“ – Josef verrät, dass er an Gott glaubt. Die Brüder denken wohl, er meine die ägyptischen Götter.
+> Nach über 20 Jahren reden die Brüder zum ersten Mal offen über ihre Schuld. Sie erinnern sich, wie Josef aus der Grube um Hilfe geschrien hat. Das schlechte Gewissen hat sie all die Jahre nicht losgelassen.
+> Josef hört alles. Und er weint. Er ist nicht hart aus Rache. Es zerreißt ihm das Herz.
+> Ein Dolmetscher übersetzt von einer Sprache in eine andere.
+> Warum Simeon? Vielleicht, weil er nach Ruben der Älteste war – und Ruben hatte Josef ja retten wollen.
+
+---
+
+### Geld in den Säcken (Vers 25–28)
+
+<sup>25</sup>Dann befahl Josef, ihre Säcke mit Getreide zu füllen.
+Jedem sollte man sein Geld wieder in seinen Sack legen.
+Und man sollte ihnen Proviant für die Reise mitgeben.
+So machte man es.
+<sup>26</sup>Sie luden das Getreide auf ihre Esel und zogen weg.
+
+<sup>27</sup>Als sie in der Herberge Rast machten, öffnete einer seinen Sack, um seinem Esel Futter zu geben.
+Da sah er sein Geld.
+Schau: Es lag oben in seinem Sack.
+<sup>28</sup>Er sagte zu seinen Brüdern:
+„Mein Geld ist zurückgekommen!
+Schaut, es ist in meinem Sack!“
+Da erschraken sie zutiefst.
+Zitternd schauten sie einander an und sagten:
+„Was hat Gott uns da angetan?“
+
+> **Was bedeutet das?**
+> Josef schenkt ihnen das Getreide heimlich. Aber die Brüder freuen sich nicht. Sie haben Angst, dass man sie jetzt für Diebe hält.
+> Zum ersten Mal sprechen die Brüder von Gott. Sie spüren: Gott hat mit dem, was geschieht, etwas zu tun. Ihr Gewissen ist wach geworden.
+
+---
+
+### Der Bericht vor dem Vater (Vers 29–38)
+
+<sup>29</sup>Sie kamen zu ihrem Vater Jakob ins Land Kanaan.
+Sie erzählten ihm alles, was ihnen passiert war.
+Sie sagten:
+<sup>30</sup>„Der Mann, der Herr über das Land, hat hart mit uns geredet.
+Er hat uns für Spione gehalten, die das Land auskundschaften wollen.
+<sup>31</sup>Wir haben zu ihm gesagt:
+‚Wir sind ehrliche Leute. Wir sind keine Spione.
+<sup>32</sup>Wir sind zwölf Brüder, Söhne von einem Vater.
+Einer ist nicht mehr da.
+Und der jüngste ist heute bei unserem Vater im Land Kanaan.‘
+<sup>33</sup>Da hat der Mann, der Herr über das Land, zu uns gesagt:
+‚Daran will ich erkennen, ob ihr ehrliche Leute seid:
+Lasst einen von euch Brüdern bei mir.
+Nehmt Getreide für eure hungernden Familien und geht.
+<sup>34</sup>Und bringt euren jüngsten Bruder zu mir.
+Dann weiß ich, dass ihr keine Spione seid, sondern ehrliche Leute.
+Dann gebe ich euch euren Bruder zurück.
+Und ihr dürft im Land Handel treiben.‘“
+
+<sup>35</sup>Dann leerten sie ihre Säcke aus.
+Und schau: In jedem Sack lag der Geldbeutel von jedem Einzelnen.
+Als sie und ihr Vater die Geldbeutel sahen, bekamen sie Angst.
+
+<sup>36</sup>Ihr Vater Jakob sagte zu ihnen:
+„Ihr nehmt mir meine Kinder weg!
+Josef ist nicht mehr da.
+Simeon ist nicht mehr da.
+Und jetzt wollt ihr mir auch noch Benjamin wegnehmen.
+Alles kommt über mich!“
+
+<sup>37</sup>Da sagte Ruben zu seinem Vater:
+„Du darfst meine beiden Söhne töten, wenn ich ihn dir nicht zurückbringe.
+Vertrau ihn mir an.
+Ich bringe ihn dir wieder zurück.“
+<sup>38</sup>Aber Jakob sagte:
+„Mein Sohn wird nicht mit euch hinabziehen.
+Denn sein Bruder ist tot, und er ist allein übrig geblieben.
+Wenn ihm auf dem Weg, den ihr geht, ein Unglück zustößt,
+dann bringt ihr mich mit meinen grauen Haaren vor Kummer ins Grab.“
+
+> **Was bedeutet das?**
+> Jakob ist verbittert. Er gibt seinen Söhnen die Schuld – mehr als er weiß. Denn tatsächlich haben sie ihm Josef weggenommen.
+> „Er ist allein übrig geblieben“ – für Jakob zählen nur die Söhne von Rahel. Das müssen die anderen zehn Söhne mit anhören. Das tut weh.
+> Rubens Angebot ist gut gemeint, aber unüberlegt: Was hätte Jakob davon, seine eigenen Enkel zu töten?
+> „Grab“ heißt hier im Text wieder „Totenreich“ (Scheol), wie in Kapitel 37.
+
+## 1. Mose – Kapitel 43
+#### Die zweite Reise nach Ägypten – mit Benjamin
+
+---
+
+### Juda bürgt für Benjamin (Vers 1–10)
+
+<sup>1</sup>Die Hungersnot im Land war schwer.
+<sup>2</sup>Als sie das Getreide aufgegessen hatten, das sie aus Ägypten mitgebracht hatten,
+sagte ihr Vater zu ihnen:
+„Zieht noch einmal hin und kauft uns ein wenig zu essen.“
+
+<sup>3</sup>Da sagte Juda zu ihm:
+„Der Mann hat uns streng gewarnt.
+Er hat gesagt:
+‚Ihr dürft mir nicht mehr unter die Augen kommen, wenn euer Bruder nicht bei euch ist.‘
+<sup>4</sup>Wenn du unseren Bruder mit uns schickst,
+dann ziehen wir hinab und kaufen dir etwas zu essen.
+<sup>5</sup>Wenn du ihn aber nicht mitschickst, dann ziehen wir nicht hinab.
+Denn der Mann hat zu uns gesagt:
+‚Ihr dürft mir nicht mehr unter die Augen kommen, wenn euer Bruder nicht bei euch ist.‘“
+
+<sup>6</sup>Israel sagte:
+„Warum habt ihr mir das angetan?
+Warum habt ihr dem Mann erzählt, dass ihr noch einen Bruder habt?“
+<sup>7</sup>Sie antworteten:
+„Der Mann hat ganz genau nach uns und unserer Familie gefragt.
+Er hat gefragt:
+‚Lebt euer Vater noch? Habt ihr noch einen Bruder?‘
+Wir haben ihm nur auf seine Fragen geantwortet.
+Wie hätten wir wissen sollen, dass er sagt: ‚Bringt euren Bruder her‘?“
+
+<sup>8</sup>Und Juda sagte zu seinem Vater Israel:
+„Schick den Jungen mit mir mit.
+Dann machen wir uns auf den Weg und ziehen los.
+Dann bleiben wir am Leben und müssen nicht sterben –
+wir und du und unsere Kinder.
+<sup>9</sup>Ich will für ihn bürgen.
+Von mir sollst du ihn fordern.
+Wenn ich ihn dir nicht zurückbringe und ihn dir nicht vor die Augen stelle,
+dann will ich mein ganzes Leben lang vor dir schuld sein.
+<sup>10</sup>Denn wenn wir nicht so lange gezögert hätten,
+dann wären wir jetzt schon zweimal zurück.“
+
+> **Was bedeutet das?**
+> Der Hunger zwingt die Familie zu handeln.
+> Juda übernimmt jetzt die Führung. Er ist es, der damals vorgeschlagen hat, Josef zu verkaufen. Jetzt will er mit seinem eigenen Leben für Benjamin einstehen.
+> „Bürgen“ heißt: Ich stehe dafür ein. Wenn etwas schiefgeht, trage ich die Verantwortung.
+> Man merkt: Juda hat sich verändert. Seit der Geschichte mit Tamar (Kapitel 38) ist er ein anderer Mensch geworden.
+
+---
+
+### Jakob lässt Benjamin gehen (Vers 11–15)
+
+<sup>11</sup>Da sagte ihr Vater Israel zu ihnen:
+„Wenn es denn sein muss, dann macht es so:
+Nehmt in euren Säcken etwas von den besten Erzeugnissen des Landes mit.
+Bringt dem Mann ein Geschenk:
+etwas Balsam und etwas Honig, Gewürze und Myrrhe, Pistazien und Mandeln.
+<sup>12</sup>Nehmt doppelt so viel Geld mit.
+Und bringt das Geld zurück, das oben in euren Säcken gelegen hat.
+Vielleicht war es ein Versehen.
+<sup>13</sup>Nehmt auch euren Bruder mit.
+Macht euch auf und geht zurück zu dem Mann.
+<sup>14</sup>Gott, der Allmächtige, lasse euch Erbarmen finden bei dem Mann,
+damit er euch euren anderen Bruder und Benjamin freigibt.
+Und ich – wenn ich meine Kinder verlieren soll, dann verliere ich sie eben.“
+
+<sup>15</sup>Da nahmen die Männer das Geschenk.
+Sie nahmen doppelt so viel Geld mit und Benjamin.
+Sie machten sich auf, zogen nach Ägypten hinab und traten vor Josef.
+
+> **Was bedeutet das?**
+> Jakob gibt nach. Er macht es wie damals, als er Esau begegnete: Er schickt ein Geschenk voraus (Kapitel 32).
+> Balsam, Honig, Gewürze und Myrrhe – es sind ähnliche Waren wie die, die die Händler trugen, die Josef nach Ägypten brachten (Kapitel 37,25).
+> „Wenn ich meine Kinder verlieren soll, dann verliere ich sie eben.“ Jakob gibt seine Sorge an Gott ab. Er kann nichts mehr kontrollieren. Er muss vertrauen.
+
+---
+
+### Angst vor Josefs Haus (Vers 16–25)
+
+<sup>16</sup>Als Josef Benjamin bei ihnen sah, sagte er zu seinem Hausverwalter:
+„Bring die Männer in mein Haus.
+Schlachte ein Tier und bereite es zu.
+Denn die Männer sollen heute Mittag mit mir essen.“
+<sup>17</sup>Der Mann tat, was Josef gesagt hatte.
+Er führte die Männer in Josefs Haus.
+
+<sup>18</sup>Die Männer bekamen Angst, weil man sie in Josefs Haus brachte.
+Sie sagten:
+„Wegen des Geldes, das beim ersten Mal wieder in unseren Säcken war, bringt man uns hierher.
+Er will einen Vorwand gegen uns haben.
+Er will über uns herfallen und uns zu Sklaven machen, und unsere Esel will er auch.“
+
+<sup>19</sup>Sie traten an den Hausverwalter von Josef heran.
+Am Eingang des Hauses redeten sie mit ihm.
+<sup>20</sup>Sie sagten:
+„Bitte, mein Herr!
+Wir sind schon beim ersten Mal hierhergekommen, um Essen zu kaufen.
+<sup>21</sup>Als wir dann in der Herberge waren und unsere Säcke öffneten –
+schau: Da lag das Geld von jedem oben in seinem Sack.
+Unser Geld, das volle Gewicht.
+Das haben wir jetzt wieder mitgebracht.
+<sup>22</sup>Und wir haben noch anderes Geld mitgebracht, um Essen zu kaufen.
+Wir wissen nicht, wer unser Geld in unsere Säcke gelegt hat.“
+
+<sup>23</sup>Er sagte:
+„Friede sei mit euch! Habt keine Angst!
+Euer Gott und der Gott eures Vaters hat euch einen Schatz in eure Säcke gelegt.
+Euer Geld habe ich bekommen.“
+Dann brachte er Simeon zu ihnen heraus.
+
+<sup>24</sup>Der Mann führte die Männer in Josefs Haus.
+Er gab ihnen Wasser, und sie wuschen sich die Füße.
+Er gab auch ihren Eseln Futter.
+<sup>25</sup>Dann legten sie das Geschenk zurecht, bis Josef am Mittag kam.
+Denn sie hatten gehört, dass sie dort essen sollten.
+
+> **Was bedeutet das?**
+> Die Brüder haben ein schlechtes Gewissen. Darum erwarten sie überall Strafe – auch dort, wo ihnen Gutes geschieht.
+> Sie sind diesmal ehrlich und erzählen von dem Geld, bevor man sie danach fragt. Auch das ist ein Zeichen, dass sie sich verändert haben.
+> Der Hausverwalter spricht wie jemand, der an den Gott Israels glaubt. Vielleicht hat Josef ihm von seinem Gott erzählt.
+> „Friede sei mit euch“ heißt auf Hebräisch „Schalom“. So grüßt man bis heute in Israel.
+
+---
+
+### Das Festessen (Vers 26–34)
+
+<sup>26</sup>Als Josef nach Hause kam, brachten sie ihm das Geschenk ins Haus, das sie mitgebracht hatten.
+Und sie verneigten sich vor ihm bis zur Erde.
+<sup>27</sup>Er fragte sie, wie es ihnen gehe.
+Und er fragte:
+„Geht es eurem alten Vater gut, von dem ihr erzählt habt?
+Lebt er noch?“
+<sup>28</sup>Sie antworteten:
+„Deinem Diener, unserem Vater, geht es gut. Er lebt noch.“
+Und sie verneigten sich und warfen sich nieder.
+
+<sup>29</sup>Da schaute Josef auf und sah seinen Bruder Benjamin, den Sohn seiner Mutter.
+Er fragte:
+„Ist das euer jüngster Bruder, von dem ihr mir erzählt habt?“
+Und er sagte:
+„Gott sei dir gnädig, mein Sohn!“
+<sup>30</sup>Dann ging Josef schnell hinaus.
+Denn er war so tief bewegt über seinen Bruder, dass er weinen musste.
+Er ging in sein Zimmer und weinte dort.
+<sup>31</sup>Dann wusch er sich das Gesicht und kam wieder heraus.
+Er nahm sich zusammen und sagte:
+„Tragt das Essen auf!“
+
+<sup>32</sup>Man trug Josef sein Essen für sich allein auf,
+den Brüdern für sich,
+und den Ägyptern, die mit ihm aßen, auch für sich.
+Denn die Ägypter dürfen nicht zusammen mit den Hebräern essen.
+Das ist für die Ägypter etwas Abscheuliches.
+
+<sup>33</sup>Die Brüder saßen vor ihm, der Älteste nach seinem Alter und der Jüngste nach seiner Jugend.
+Da schauten die Männer einander erstaunt an.
+<sup>34</sup>Josef ließ ihnen Portionen von seinem Tisch bringen.
+Aber Benjamins Portion war fünfmal so groß wie die von allen anderen.
+Und sie tranken mit ihm und waren fröhlich.
+
+> **Was bedeutet das?**
+> Wieder verneigen sich die Brüder vor Josef – diesmal alle elf. Jetzt ist auch der zweite Traum in Erfüllung gegangen.
+> Als Josef seinen kleinen Bruder Benjamin sieht, den einzigen anderen Sohn seiner Mutter, kann er die Tränen nicht zurückhalten. Benjamin war ein kleines Kind, als Josef verkauft wurde.
+> Die Ägypter aßen nicht mit Ausländern. Sie hielten sich für etwas Besseres. Darum gibt es drei getrennte Tische.
+> Die Brüder sitzen genau nach ihrem Alter geordnet. Woher weiß dieser Ägypter das? Sie sind verblüfft.
+> Benjamin bekommt fünfmal so viel. Das ist ein Test: Werden die Brüder neidisch auf den neuen Lieblingssohn – so wie damals bei Josef? Sie bleiben fröhlich. Kein Neid.
+
+## 1. Mose – Kapitel 44
+#### Der silberne Becher – Juda tritt für Benjamin ein
+
+---
+
+### Josefs letzte Prüfung (Vers 1–6)
+
+<sup>1</sup>Josef befahl seinem Hausverwalter:
+„Füll die Säcke der Männer mit Getreide, so viel sie tragen können.
+Und leg jedem sein Geld oben in seinen Sack.
+<sup>2</sup>Und meinen Becher, den silbernen Becher,
+leg oben in den Sack des Jüngsten, zusammen mit dem Geld für sein Getreide.“
+Der Verwalter machte es so, wie Josef gesagt hatte.
+
+<sup>3</sup>Als es am Morgen hell wurde, ließ man die Männer mit ihren Eseln ziehen.
+<sup>4</sup>Sie waren gerade aus der Stadt hinaus und noch nicht weit gekommen.
+Da sagte Josef zu seinem Hausverwalter:
+„Auf! Lauf den Männern nach!
+Wenn du sie eingeholt hast, dann sag zu ihnen:
+‚Warum habt ihr Gutes mit Bösem vergolten?
+<sup>5</sup>Ist das nicht der Becher, aus dem mein Herr trinkt
+und aus dem er die Zukunft liest?
+Da habt ihr etwas Böses getan!‘“
+<sup>6</sup>Der Verwalter holte sie ein und sagte ihnen genau diese Worte.
+
+> **Was bedeutet das?**
+> Josef stellt seine Brüder ein letztes Mal auf die Probe. Es ist die wichtigste Prüfung von allen.
+> Er bringt Benjamin in eine Lage, in der er als Dieb dasteht. Die Frage ist: Werden die Brüder Benjamin im Stich lassen, so wie sie damals Josef im Stich gelassen haben? Oder halten sie zu ihm?
+> Mit manchen Bechern versuchte man damals, die Zukunft zu erkennen. Man goss Öl in Wasser und deutete die Formen. Ob Josef das wirklich tat, sagt die Bibel nicht. Er spielt hier die Rolle eines ägyptischen Herrschers.
+
+---
+
+### Der Becher wird gefunden (Vers 7–13)
+
+<sup>7</sup>Sie antworteten ihm:
+„Warum sagt mein Herr so etwas?
+Es liegt deinen Dienern völlig fern, so etwas zu tun!
+<sup>8</sup>Schau: Das Geld, das wir oben in unseren Säcken gefunden hatten,
+haben wir dir sogar aus dem Land Kanaan zurückgebracht.
+Wie sollten wir da aus dem Haus deines Herrn Silber oder Gold stehlen?
+<sup>9</sup>Bei wem von deinen Dienern der Becher gefunden wird, der soll sterben.
+Und wir anderen wollen die Sklaven meines Herrn sein.“
+
+<sup>10</sup>Er sagte:
+„Gut, es soll so sein, wie ihr sagt.
+Aber nur der, bei dem er gefunden wird, soll mein Sklave sein.
+Ihr anderen sollt frei sein.“
+
+<sup>11</sup>Schnell stellte jeder seinen Sack auf die Erde, und jeder öffnete seinen Sack.
+<sup>12</sup>Der Verwalter durchsuchte die Säcke.
+Er fing beim Ältesten an und hörte beim Jüngsten auf.
+Und der Becher wurde im Sack von Benjamin gefunden.
+
+<sup>13</sup>Da zerrissen sie ihre Kleider.
+Jeder belud wieder seinen Esel.
+Und sie kehrten in die Stadt zurück.
+
+> **Was bedeutet das?**
+> Die Brüder sind sich so sicher, dass sie unschuldig sind. Sie schwören sogar: Wer den Becher hat, soll sterben.
+> Die Spannung wird immer größer: Der Verwalter fängt beim Ältesten an. Sack für Sack. Und erst ganz zum Schluss, beim Jüngsten, wird der Becher gefunden.
+> Die Brüder hätten jetzt einfach nach Hause gehen können. Sie waren ja frei. Nur Benjamin sollte bleiben.
+> Aber sie zerreißen ihre Kleider vor Schmerz – und alle kehren um. Keiner lässt Benjamin allein. Damals haben sie Josefs Kleid zerrissen. Jetzt zerreißen sie ihre eigenen Kleider.
+
+---
+
+### Vor Josef (Vers 14–17)
+
+<sup>14</sup>Juda und seine Brüder kamen in Josefs Haus.
+Josef war noch dort.
+Sie warfen sich vor ihm auf die Erde.
+<sup>15</sup>Josef sagte zu ihnen:
+„Was habt ihr da getan?
+Wisst ihr nicht, dass ein Mann wie ich die Zukunft lesen kann?“
+
+<sup>16</sup>Juda sagte:
+„Was sollen wir meinem Herrn sagen?
+Was sollen wir reden?
+Wie sollen wir uns rechtfertigen?
+Gott hat die Schuld deiner Diener ans Licht gebracht.
+Schau: Wir sind die Sklaven meines Herrn,
+wir alle und auch der, bei dem der Becher gefunden wurde.“
+
+<sup>17</sup>Aber Josef sagte:
+„Das liegt mir fern, so etwas zu tun.
+Der Mann, bei dem der Becher gefunden wurde, der soll mein Sklave sein.
+Ihr anderen aber, zieht in Frieden hinauf zu eurem Vater.“
+
+> **Was bedeutet das?**
+> „Gott hat die Schuld deiner Diener ans Licht gebracht.“ Juda meint nicht den Becher – den haben sie ja nicht gestohlen. Er meint die alte Schuld: das, was sie Josef angetan haben. Er glaubt, Gott bestraft sie jetzt dafür.
+> Josef bietet ihnen den bequemen Weg an: Geht nach Hause. Lasst Benjamin hier. Genau so, wie sie damals Josef zurückgelassen haben.
+> Jetzt kommt es darauf an.
+
+---
+
+### Judas Rede (Vers 18–34)
+
+<sup>18</sup>Da trat Juda zu ihm und sagte:
+„Bitte, mein Herr!
+Lass deinen Diener ein Wort zu meinem Herrn sagen.
+Werde nicht zornig auf deinen Diener.
+Denn du bist so mächtig wie der Pharao.
+
+<sup>19</sup>Mein Herr hat seine Diener gefragt:
+‚Habt ihr einen Vater oder einen Bruder?‘
+<sup>20</sup>Wir haben meinem Herrn geantwortet:
+‚Wir haben einen alten Vater.
+Und wir haben einen jüngeren Bruder, den er im Alter bekommen hat.
+Dessen Bruder ist tot.
+Er ist als Einziger von seiner Mutter übrig geblieben.
+Und sein Vater liebt ihn.‘
+<sup>21</sup>Da hast du zu deinen Dienern gesagt:
+‚Bringt ihn zu mir herab. Ich will ihn mit eigenen Augen sehen.‘
+<sup>22</sup>Wir haben zu meinem Herrn gesagt:
+‚Der Junge kann seinen Vater nicht verlassen.
+Wenn er seinen Vater verlässt, dann stirbt sein Vater.‘
+<sup>23</sup>Aber du hast zu deinen Dienern gesagt:
+‚Wenn euer jüngster Bruder nicht mit euch herabkommt, dürft ihr mir nicht mehr unter die Augen kommen.‘
+
+<sup>24</sup>Als wir zu deinem Diener, meinem Vater, hinaufkamen,
+haben wir ihm erzählt, was mein Herr gesagt hat.
+<sup>25</sup>Dann hat unser Vater gesagt:
+‚Zieht noch einmal hin und kauft uns ein wenig zu essen.‘
+<sup>26</sup>Wir haben gesagt:
+‚Wir können nicht hinabziehen.
+Nur wenn unser jüngster Bruder bei uns ist, ziehen wir hinab.
+Denn wir dürfen dem Mann nicht unter die Augen kommen, wenn unser jüngster Bruder nicht bei uns ist.‘
+
+<sup>27</sup>Da hat dein Diener, mein Vater, zu uns gesagt:
+‚Ihr wisst, dass meine Frau mir zwei Söhne geboren hat.
+<sup>28</sup>Der eine ist von mir weggegangen.
+Und ich habe gesagt: Er ist bestimmt zerrissen worden.
+Ich habe ihn bis heute nicht mehr gesehen.
+<sup>29</sup>Wenn ihr mir jetzt auch noch diesen wegnehmt und ihm ein Unglück zustößt,
+dann bringt ihr mich mit meinen grauen Haaren vor Kummer ins Grab.‘
+
+<sup>30</sup>Wenn ich jetzt zu deinem Diener, meinem Vater, komme,
+und der Junge ist nicht bei uns –
+sein Leben hängt doch an dem Leben des Jungen –,
+<sup>31</sup>dann wird er sehen, dass der Junge nicht da ist, und er wird sterben.
+Dann bringen deine Diener die grauen Haare deines Dieners, unseres Vaters, vor Kummer ins Grab.
+
+<sup>32</sup>Denn dein Diener hat bei meinem Vater für den Jungen gebürgt.
+Ich habe gesagt:
+‚Wenn ich ihn dir nicht zurückbringe, dann will ich mein ganzes Leben lang vor meinem Vater schuld sein.‘
+<sup>33</sup>Darum lass doch bitte deinen Diener anstelle des Jungen hierbleiben, als Sklave meines Herrn.
+Und lass den Jungen mit seinen Brüdern hinaufziehen.
+<sup>34</sup>Denn wie könnte ich zu meinem Vater hinaufgehen, wenn der Junge nicht bei mir ist?
+Ich könnte das Unglück nicht mit ansehen, das über meinen Vater kommen würde.“
+
+> **Was bedeutet das?**
+> Das ist die längste Rede im ganzen 1. Buch Mose. Und eine der bewegendsten.
+> Juda erzählt alles noch einmal. Er verschweigt nicht einmal, dass sein Vater Benjamin mehr liebt als ihn selbst. Er sagt es ohne Bitterkeit. Früher hat die Bevorzugung eines Bruders die Brüder zu Hass getrieben. Jetzt nimmt Juda sie einfach hin, aus Liebe zu seinem Vater.
+> Und dann das Unglaubliche: Juda bietet sich selbst als Sklave an, damit Benjamin frei sein kann.
+> Juda, der einst vorgeschlagen hat, Josef als Sklaven zu verkaufen, will jetzt selbst Sklave werden, um seinen Bruder zu retten. Die Brüder haben sich wirklich verändert.
+> Christen sehen hier ein Bild für Jesus, der aus dem Stamm Juda kommt: Er gibt sich selbst hin, damit andere frei werden.
+
+## 1. Mose – Kapitel 45
+#### „Ich bin Josef!“
+
+---
+
+### Josef gibt sich zu erkennen (Vers 1–4)
+
+<sup>1</sup>Da konnte Josef sich nicht mehr beherrschen vor all den Leuten, die bei ihm standen.
+Er rief:
+„Alle sollen hinausgehen!“
+So war niemand bei ihm, als Josef sich seinen Brüdern zu erkennen gab.
+<sup>2</sup>Er weinte laut.
+Die Ägypter hörten es.
+Auch im Palast des Pharao hörte man es.
+
+<sup>3</sup>Josef sagte zu seinen Brüdern:
+„Ich bin Josef!
+Lebt mein Vater noch?“
+Aber seine Brüder konnten ihm nicht antworten.
+So erschrocken waren sie vor ihm.
+
+<sup>4</sup>Da sagte Josef zu seinen Brüdern:
+„Kommt doch näher zu mir!“
+Und sie kamen näher.
+Er sagte:
+„Ich bin Josef, euer Bruder,
+den ihr nach Ägypten verkauft habt.“
+
+> **Was bedeutet das?**
+> Judas Rede hat Josef tief getroffen. Er sieht: Meine Brüder sind nicht mehr dieselben. Jetzt kann er sich nicht mehr verstellen.
+> Er schickt alle Ägypter hinaus. Was jetzt kommt, gehört nur der Familie.
+> „Ich bin Josef!“ – Drei Worte, die alles verändern. Die Brüder sind starr vor Schreck. Der mächtige Herrscher, vor dem sie gezittert haben, ist ihr Bruder. Der Bruder, den sie verkauft haben.
+> Josef sagt die Wahrheit ganz offen: „den ihr verkauft habt.“ Er verschweigt nichts. Aber er sagt es ohne Vorwurf.
+
+---
+
+### Gott hat es zum Guten gelenkt (Vers 5–8)
+
+<sup>5</sup>„Seid jetzt nicht traurig, und macht euch keine Vorwürfe, dass ihr mich hierher verkauft habt.
+Denn Gott hat mich vor euch hergeschickt, um Leben zu retten.
+<sup>6</sup>Schon zwei Jahre herrscht die Hungersnot im Land.
+Und es kommen noch fünf Jahre, in denen man weder pflügen noch ernten kann.
+<sup>7</sup>Gott hat mich vor euch hergeschickt,
+damit von euch Menschen auf der Erde übrig bleiben
+und damit viele von euch gerettet werden und am Leben bleiben.
+<sup>8</sup>Also habt nicht ihr mich hierher geschickt, sondern Gott.
+Er hat mich zum Berater des Pharao gemacht,
+zum Herrn über sein ganzes Haus
+und zum Herrscher über das ganze Land Ägypten.“
+
+> **Was bedeutet das?**
+> Das ist der Kern der ganzen Josefsgeschichte. Josef sieht sein Leben mit neuen Augen: Hinter allem Leid, hinter der Grube, der Sklaverei und dem Gefängnis hat Gott einen Plan verfolgt.
+> Die Brüder haben Böses getan. Das sagt Josef ganz klar. Aber Gott hat daraus etwas Gutes gemacht: die Rettung vieler Menschen.
+> Josef vergibt seinen Brüdern. Er will nicht, dass sie sich weiter quälen.
+> Wörtlich steht da: Gott hat mich zum „Vater“ des Pharao gemacht. Das war ein Titel für den wichtigsten Berater des Königs.
+
+---
+
+### Holt meinen Vater! (Vers 9–15)
+
+<sup>9</sup>„Beeilt euch, zieht hinauf zu meinem Vater und sagt zu ihm:
+‚So sagt dein Sohn Josef:
+Gott hat mich zum Herrn über ganz Ägypten gemacht.
+Komm herab zu mir. Zögere nicht!
+<sup>10</sup>Du sollst im Gebiet Goschen wohnen.
+Dann bist du nahe bei mir,
+du und deine Kinder und deine Enkel,
+deine Schafe und Ziegen, deine Rinder und alles, was du hast.
+<sup>11</sup>Dort will ich für dich sorgen.
+Denn es kommen noch fünf Jahre Hungersnot.
+Sonst würdest du verarmen, du und deine Familie und alles, was zu dir gehört.‘
+
+<sup>12</sup>Schaut doch, ihr seht es mit eigenen Augen, und auch mein Bruder Benjamin sieht es:
+Ich selbst bin es, der mit euch redet.
+<sup>13</sup>Erzählt meinem Vater von all meiner Herrlichkeit in Ägypten
+und von allem, was ihr gesehen habt.
+Beeilt euch und bringt meinen Vater hierher.“
+
+<sup>14</sup>Dann fiel Josef seinem Bruder Benjamin um den Hals und weinte.
+Und auch Benjamin weinte an seinem Hals.
+<sup>15</sup>Er küsste alle seine Brüder und weinte an ihrem Hals.
+Danach redeten seine Brüder mit ihm.
+
+> **Was bedeutet das?**
+> Goschen ist ein fruchtbares Gebiet im Nordosten Ägyptens, im Nildelta. Dort gab es gute Weiden für die Herden.
+> Josef will seinen Vater so schnell wie möglich wiedersehen.
+> Josef umarmt erst Benjamin, dann alle Brüder. Er weint mit jedem. 
+> Der letzte Satz ist ganz schlicht, aber wunderschön: „Danach redeten seine Brüder mit ihm.“ Früher konnten sie „kein freundliches Wort mehr mit ihm reden“ (Kapitel 37,4). Jetzt reden sie wieder miteinander. Die Familie ist versöhnt.
+
+---
+
+### Der Pharao lädt die Familie ein (Vers 16–20)
+
+<sup>16</sup>Im Palast des Pharao hörte man die Nachricht:
+„Die Brüder von Josef sind gekommen!“
+Das freute den Pharao und seine Beamten.
+<sup>17</sup>Der Pharao sagte zu Josef:
+„Sag zu deinen Brüdern:
+‚Macht es so: Beladet eure Tiere und zieht ins Land Kanaan.
+<sup>18</sup>Holt euren Vater und eure Familien und kommt zu mir.
+Ich will euch das Beste geben, was es in Ägypten gibt.
+Ihr sollt vom Besten des Landes essen.‘
+<sup>19</sup>Und du sollst ihnen auch das befehlen:
+‚Macht es so: Nehmt euch Wagen aus dem Land Ägypten mit,
+für eure Kinder und eure Frauen.
+Holt euren Vater und kommt.
+<sup>20</sup>Und trauert euren Sachen nicht nach.
+Denn das Beste vom ganzen Land Ägypten soll euch gehören.‘“
+
+> **Was bedeutet das?**
+> Der Pharao ist großzügig. Er weiß: Josef hat Ägypten gerettet. Jetzt will er Josefs Familie etwas Gutes tun.
+> Wagen waren damals etwas Besonderes. Im Land Kanaan gab es kaum welche. Man reiste zu Fuß oder auf Eseln.
+
+---
+
+### Die Brüder kehren heim (Vers 21–28)
+
+<sup>21</sup>Die Söhne Israels machten es so.
+Josef gab ihnen Wagen, wie der Pharao es befohlen hatte.
+Und er gab ihnen Proviant für die Reise.
+<sup>22</sup>Jedem von ihnen schenkte er Festkleider zum Wechseln.
+Benjamin aber schenkte er 300 Silberstücke und fünf Festkleider.
+<sup>23</sup>Seinem Vater schickte er:
+zehn Esel, beladen mit den besten Dingen aus Ägypten,
+und zehn Eselinnen, beladen mit Getreide, Brot und Proviant für seinen Vater auf der Reise.
+<sup>24</sup>Dann verabschiedete er seine Brüder, und sie zogen los.
+Er sagte zu ihnen:
+„Streitet euch nicht unterwegs!“
+
+<sup>25</sup>So zogen sie aus Ägypten hinauf und kamen ins Land Kanaan zu ihrem Vater Jakob.
+<sup>26</sup>Sie erzählten ihm:
+„Josef lebt noch!
+Und er ist der Herrscher über das ganze Land Ägypten!“
+Aber Jakobs Herz blieb kalt und starr.
+Denn er glaubte ihnen nicht.
+
+<sup>27</sup>Da erzählten sie ihm alles, was Josef zu ihnen gesagt hatte.
+Und er sah die Wagen, die Josef geschickt hatte, um ihn abzuholen.
+Da lebte der Geist ihres Vaters Jakob wieder auf.
+<sup>28</sup>Und Israel sagte:
+„Genug! Mein Sohn Josef lebt noch!
+Ich will hingehen und ihn sehen, bevor ich sterbe.“
+
+> **Was bedeutet das?**
+> Josef hat einmal ein besonderes Kleid bekommen, und das brachte Neid. Jetzt schenkt er allen Brüdern Kleider.
+> Benjamin bekommt wieder mehr. Aber diesmal werden die Brüder nicht neidisch.
+> „Streitet euch nicht unterwegs!“ – vielleicht ein kleines Augenzwinkern von Josef. Er kennt seine Brüder. Vielleicht meint er auch: Gebt euch jetzt nicht gegenseitig die Schuld für das, was damals geschah.
+> Jakob kann es zuerst nicht glauben. 22 Jahre hat er um Josef getrauert. Erst als er die Wagen sieht, wird es wirklich.
+> Die Brüder müssen ihrem Vater jetzt wohl auch die Wahrheit erzählen: dass Josef nicht von einem wilden Tier gefressen wurde. Die Bibel sagt nicht, wie dieses Gespräch verlief.
