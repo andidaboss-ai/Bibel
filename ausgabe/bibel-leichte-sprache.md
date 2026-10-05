@@ -10982,3 +10982,274 @@ Werft es den Hunden vor.
 > „Den Erstgeborenen geben“ heißt nicht, ihn zu opfern. Erstgeborene Söhne werden ausgelöst (siehe Kapitel 13,13).
 > Das Junge darf eine Woche bei der Mutter bleiben. Selbst bei Tieren soll man mit Mitgefühl handeln.
 > „Heilig sein“ heißt: anders leben als die anderen, ganz zu Gott gehören. Das zeigt sich sogar beim Essen. Fleisch von gerissenen Tieren war nicht ausgeblutet und galt darum als unrein.
+
+## 2. Mose – Kapitel 23
+#### Gesetze für das Zusammenleben (3): Gerechtigkeit, Ruhezeiten und Feste
+
+---
+
+### Gerechtigkeit vor Gericht (Vers 1–3)
+
+<sup>1</sup>Du sollst kein falsches Gerücht verbreiten.
+Mach nicht gemeinsame Sache mit einem Schuldigen, indem du als falscher Zeuge aussagst.
+<sup>2</sup>Du sollst nicht der Masse folgen, wenn sie Böses tut.
+Wenn du vor Gericht aussagst, sollst du dich nicht der Mehrheit anschließen und so das Recht verdrehen.
+<sup>3</sup>Du sollst auch einen Armen in seinem Rechtsstreit nicht bevorzugen.
+
+> **Was bedeutet das?**
+> Vor Gericht zählt nur die Wahrheit. Nicht die Mehrheit, nicht der Druck der Masse.
+> „Der Masse folgen, wenn sie Böses tut“ – das ist bis heute eine große Gefahr: Man macht mit, weil alle mitmachen. Die Bibel sagt: Bleib bei der Wahrheit, auch wenn du allein bist.
+> Erstaunlich: Auch einen Armen soll man nicht bevorzugen. Gerechtigkeit bedeutet, dass alle gleich behandelt werden – Arme und Reiche.
+
+---
+
+### Auch dem Feind helfen (Vers 4–5)
+
+<sup>4</sup>Wenn du das Rind oder den Esel deines Feindes umherirren siehst,
+dann sollst du es ihm unbedingt zurückbringen.
+<sup>5</sup>Wenn du siehst, wie der Esel von jemandem, der dich hasst, unter seiner Last zusammengebrochen ist,
+dann lass ihn nicht im Stich.
+Hilf ihm unbedingt, das Tier wieder aufzurichten.
+
+> **Was bedeutet das?**
+> Hier steckt schon etwas vom Gebot der Feindesliebe, das Jesus später lehrt (Matthäus 5,44).
+> Auch wenn du mit jemandem verfeindet bist: Hilf ihm, wenn er in Not ist. Und das Tier kann ja nichts für den Streit.
+> Vielleicht wird aus der gemeinsamen Hilfe am Esel sogar eine Versöhnung.
+
+---
+
+### Kein Unrecht vor Gericht (Vers 6–9)
+
+<sup>6</sup>Du sollst das Recht deines Armen in seinem Rechtsstreit nicht beugen.
+<sup>7</sup>Halte dich fern von einer falschen Anklage.
+Den Unschuldigen und Gerechten sollst du nicht töten.
+Denn ich werde den Schuldigen nicht freisprechen.
+<sup>8</sup>Du sollst keine Bestechung annehmen.
+Denn Bestechung macht Sehende blind
+und verdreht die Worte derer, die im Recht sind.
+<sup>9</sup>Einen Fremden sollst du nicht unterdrücken.
+Ihr wisst doch, wie es einem Fremden zumute ist.
+Denn ihr seid selbst Fremde im Land Ägypten gewesen.
+
+> **Was bedeutet das?**
+> Arme dürfen nicht bevorzugt werden (Vers 3) – aber auch nicht benachteiligt werden (Vers 6). Gleiches Recht für alle.
+> Bestechung macht blind. Wer Geld bekommt, sieht die Wahrheit nicht mehr. Das gilt bis heute in Politik, Wirtschaft und Justiz.
+> Wieder der Schutz der Fremden: „Ihr wisst, wie es einem Fremden zumute ist.“ Wörtlich: „Ihr kennt die Seele des Fremden.“ Wer selbst fremd war, soll Mitgefühl haben.
+
+---
+
+### Ein Ruhejahr und ein Ruhetag (Vers 10–13)
+
+<sup>10</sup>Sechs Jahre lang sollst du dein Land besäen und seine Ernte einbringen.
+<sup>11</sup>Aber im siebten Jahr sollst du es ruhen lassen und brach liegen lassen.
+Dann können die Armen aus deinem Volk davon essen.
+Und was sie übrig lassen, sollen die wilden Tiere fressen.
+Genauso sollst du es mit deinem Weinberg und deinem Olivenhain machen.
+
+<sup>12</sup>Sechs Tage lang sollst du deine Arbeit tun.
+Aber am siebten Tag sollst du ruhen.
+Dann können auch dein Rind und dein Esel ausruhen.
+Und der Sohn deiner Sklavin und der Fremde können aufatmen.
+
+<sup>13</sup>Haltet euch an alles, was ich euch gesagt habe.
+Ruft nicht die Namen anderer Götter an.
+Ihre Namen sollen nicht einmal aus eurem Mund zu hören sein.
+
+> **Was bedeutet das?**
+> Nicht nur der Mensch braucht Ruhe, auch das Land. Alle sieben Jahre soll ein Feld nicht bestellt werden. Man nennt das „Sabbatjahr“. Heute weiß man: Das ist auch gut für den Boden.
+> Und was von selbst wächst, gehört den Armen und sogar den Tieren. Gottes Fürsorge gilt allen.
+> Beim Ruhetag wird hier besonders an die Schwächsten gedacht: die Tiere, die Kinder der Sklaven, die Fremden. Sie sollen „aufatmen“ können.
+
+---
+
+### Drei große Feste im Jahr (Vers 14–19)
+
+<sup>14</sup>Dreimal im Jahr sollst du mir ein Fest feiern.
+<sup>15</sup>Feiere das Fest der ungesäuerten Brote.
+Sieben Tage lang sollst du ungesäuertes Brot essen, wie ich es dir befohlen habe,
+zur festgesetzten Zeit im Monat Abib.
+Denn in diesem Monat bist du aus Ägypten ausgezogen.
+Niemand soll mit leeren Händen vor mir erscheinen.
+<sup>16</sup>Feiere auch das Erntefest,
+wenn du die ersten Früchte von dem erntest, was du auf dem Feld gesät hast.
+Und feiere das Fest der Lese am Ende des Jahres,
+wenn du den Ertrag deiner Arbeit vom Feld einsammelst.
+<sup>17</sup>Dreimal im Jahr sollen alle eure Männer vor Gott, dem HERRN, erscheinen.
+
+<sup>18</sup>Du sollst das Blut meines Opfers nicht zusammen mit gesäuertem Brot darbringen.
+Und das Fett von meinem Festopfer soll nicht über Nacht bis zum Morgen liegen bleiben.
+<sup>19</sup>Die besten von den ersten Früchten deines Ackers sollst du in das Haus des HERRN, deines Gottes, bringen.
+Du sollst ein Böckchen nicht in der Milch seiner Mutter kochen.
+
+> **Was bedeutet das?**
+> Drei große Feste soll Israel feiern. Alle drei hängen mit der Landwirtschaft und mit Gottes Taten zusammen:
+> Das Fest der ungesäuerten Brote (Passa) im Frühling erinnert an den Auszug aus Ägypten.
+> Das Erntefest im Frühsommer ist das Fest der Weizenernte. Später heißt es „Wochenfest“ (Schawuot). Christen feiern zu dieser Zeit Pfingsten.
+> Das Fest der Lese im Herbst ist das Fest am Ende der Ernte, wenn Obst und Wein eingebracht werden. Später heißt es „Laubhüttenfest“ (Sukkot).
+> „Nicht mit leeren Händen kommen“ heißt: Wer feiert, bringt Gott ein Dankgeschenk von dem, was er bekommen hat.
+> Das Verbot, ein Böckchen in der Milch seiner Mutter zu kochen, ist vielleicht gegen einen heidnischen Brauch gerichtet. Es zeigt aber auch Mitgefühl: Die Milch, die Leben schenken soll, soll nicht dem Tod dienen. Aus diesem Vers haben Juden später die Regel abgeleitet, Fleisch und Milch nicht zusammen zu essen.
+
+---
+
+### Gott verspricht seinen Schutz (Vers 20–26)
+
+<sup>20</sup>Schau: Ich schicke einen Engel vor dir her.
+Er soll dich auf dem Weg beschützen
+und dich an den Ort bringen, den ich vorbereitet habe.
+<sup>21</sup>Achte auf ihn und hör auf seine Stimme.
+Widersetze dich ihm nicht.
+Denn er wird euch euren Ungehorsam nicht vergeben.
+Denn mein Name ist in ihm.
+<sup>22</sup>Wenn du wirklich auf seine Stimme hörst und alles tust, was ich sage,
+dann werde ich der Feind deiner Feinde sein
+und der Gegner deiner Gegner.
+
+<sup>23</sup>Denn mein Engel wird vor dir hergehen.
+Er wird dich zu den Amoritern, Hetitern, Perisitern, Kanaanitern, Hiwitern und Jebusitern bringen.
+Und ich werde sie vernichten.
+<sup>24</sup>Du sollst dich nicht vor ihren Göttern niederwerfen und ihnen nicht dienen.
+Du sollst nicht tun, was sie tun.
+Sondern du sollst ihre Götterbilder niederreißen und ihre heiligen Steinsäulen zerschlagen.
+
+<sup>25</sup>Ihr sollt dem HERRN, eurem Gott, dienen.
+Dann wird er dein Brot und dein Wasser segnen.
+Und ich werde jede Krankheit von dir fernhalten.
+<sup>26</sup>In deinem Land wird es keine Fehlgeburt und keine Unfruchtbarkeit geben.
+Ich werde dich alt werden lassen.
+
+> **Was bedeutet das?**
+> Gott verspricht, sein Volk auf dem ganzen Weg zu begleiten und zu beschützen. Der Engel ist Gottes Bote. „Mein Name ist in ihm“ heißt: In ihm ist Gott selbst gegenwärtig.
+> Die „heiligen Steinsäulen“ waren aufgestellte Steine, an denen die Völker in Kanaan ihre Götter verehrten.
+> Die Völker in Kanaan sollen vernichtet werden. Das ist eine sehr schwierige Stelle. Sie wird in den Büchern Josua und Richter wichtig. Die Bibel begründet es damit, dass diese Völker grausame Götter verehrten – manche opferten sogar Kinder. Israel sollte nicht in diesen Götzendienst hineingezogen werden. Viele Ausleger betonen: Das war ein einmaliger Auftrag in einer bestimmten Zeit. Er rechtfertigt niemals Gewalt gegen andere Völker heute.
+> Gottes Segen ist ganz konkret: Brot, Wasser, Gesundheit, Kinder und ein langes Leben.
+
+---
+
+### Nach und nach (Vers 27–33)
+
+<sup>27</sup>Ich werde Schrecken vor dir hersenden.
+Ich werde alle Völker in Verwirrung bringen, zu denen du kommst.
+Alle deine Feinde werden vor dir die Flucht ergreifen.
+<sup>28</sup>Ich werde Hornissen vor dir hersenden.
+Die werden die Hiwiter, Kanaaniter und Hetiter vor dir vertreiben.
+<sup>29</sup>Ich werde sie aber nicht in einem einzigen Jahr vor dir vertreiben.
+Sonst würde das Land verwildern,
+und die wilden Tiere würden zu zahlreich werden und dir schaden.
+<sup>30</sup>Nach und nach werde ich sie vor dir vertreiben,
+bis du zahlreich genug geworden bist und das Land in Besitz nehmen kannst.
+
+<sup>31</sup>Deine Grenzen sollen reichen vom Roten Meer bis zum Meer der Philister
+und von der Wüste bis zum großen Fluss.
+Denn ich werde die Bewohner des Landes in deine Hand geben,
+und du wirst sie vor dir vertreiben.
+<sup>32</sup>Du sollst keinen Bund mit ihnen und mit ihren Göttern schließen.
+<sup>33</sup>Sie sollen nicht in deinem Land wohnen bleiben.
+Sonst verführen sie dich dazu, gegen mich zu sündigen.
+Denn wenn du ihren Göttern dienst, wird dir das zur Falle werden.“
+
+> **Was bedeutet das?**
+> Gott verspricht, selbst für sein Volk zu kämpfen. Er schickt Schrecken und Hornissen voraus. Hornissen sind große, gefährliche Wespen. Vielleicht ist das auch ein Bild für eine Panik, die die Völker in die Flucht treibt.
+> Gott ist klug: Wenn das Land auf einmal leer wäre, würde es verwildern. Darum geht es Schritt für Schritt.
+> Das „Meer der Philister“ ist das Mittelmeer. Mit dem „großen Fluss“ ist der Euphrat gemeint. So groß war das Land später nur kurz, zur Zeit von König David und Salomo.
+> Die größte Gefahr für Israel waren nicht die Waffen der anderen Völker, sondern ihre Götter. Wer sich an sie bindet, verliert sich selbst.
+
+## 2. Mose – Kapitel 24
+#### Der Bund wird geschlossen
+
+---
+
+### Die Einladung auf den Berg (Vers 1–2)
+
+<sup>1</sup>Gott sagte zu Mose:
+„Steig zum HERRN herauf, du und Aaron, Nadab und Abihu
+und 70 von den Ältesten Israels.
+Werft euch in einiger Entfernung nieder und betet an.
+<sup>2</sup>Nur Mose allein soll in die Nähe des HERRN kommen.
+Die anderen sollen nicht näher kommen.
+Und das Volk soll nicht mit ihm hinaufsteigen.“
+
+> **Was bedeutet das?**
+> Nadab und Abihu sind die ältesten Söhne von Aaron.
+> Es gibt verschiedene Stufen der Nähe zu Gott: Das Volk bleibt unten. Die Anführer kommen ein Stück weit hinauf. Nur Mose darf ganz nah zu Gott.
+
+---
+
+### Das Volk sagt Ja (Vers 3–8)
+
+<sup>3</sup>Mose kam und erzählte dem Volk alle Worte des HERRN und alle Rechtsordnungen.
+Da antwortete das ganze Volk wie mit einer Stimme:
+„Alles, was der HERR gesagt hat, wollen wir tun.“
+<sup>4</sup>Mose schrieb alle Worte des HERRN auf.
+Am nächsten Morgen stand er früh auf.
+Unten am Berg baute er einen Altar
+und stellte zwölf Gedenksteine auf, für die zwölf Stämme Israels.
+<sup>5</sup>Dann schickte er junge Männer aus Israel los.
+Sie brachten Brandopfer dar
+und schlachteten Rinder als Gemeinschaftsopfer für den HERRN.
+
+<sup>6</sup>Mose nahm die Hälfte des Blutes und goss es in Schalen.
+Die andere Hälfte des Blutes sprengte er an den Altar.
+<sup>7</sup>Dann nahm er das Buch des Bundes und las es dem Volk laut vor.
+Und sie sagten:
+„Alles, was der HERR gesagt hat, wollen wir tun und darauf hören.“
+<sup>8</sup>Da nahm Mose das Blut und sprengte es auf das Volk.
+Er sagte:
+„Seht, das ist das Blut des Bundes,
+den der HERR auf der Grundlage all dieser Worte mit euch geschlossen hat.“
+
+> **Was bedeutet das?**
+> Jetzt wird der Bund zwischen Gott und Israel feierlich geschlossen.
+> Zuerst hört das Volk, was Gott sagt. Dann sagt es Ja – sogar zweimal.
+> Mose schreibt alles auf. So entsteht das „Buch des Bundes“ (die Kapitel 20–23).
+> Die zwölf Steine stehen für die zwölf Stämme. Das ganze Volk ist beteiligt.
+> Das Blut verbindet beide Seiten: Ein Teil kommt an den Altar (für Gott), ein Teil auf das Volk. Damals wurde ein Bund oft mit Blut besiegelt. Das bedeutete: Dieser Bund ist eine Sache auf Leben und Tod.
+> Jesus nimmt diese Worte beim letzten Abendmahl auf. Er nimmt den Becher und sagt: „Das ist mein Blut des Bundes“ (Markus 14,24). Christen glauben: Mit Jesus beginnt ein neuer Bund.
+
+---
+
+### Sie sehen Gott (Vers 9–11)
+
+<sup>9</sup>Dann stiegen Mose, Aaron, Nadab und Abihu und 70 von den Ältesten Israels hinauf.
+<sup>10</sup>Und sie sahen den Gott Israels.
+Unter seinen Füßen war es wie ein Fußboden aus Saphirsteinen,
+so klar wie der Himmel selbst.
+<sup>11</sup>Aber Gott tat den Anführern der Israeliten nichts.
+Sie sahen Gott, und sie aßen und tranken.
+
+> **Was bedeutet das?**
+> Das ist eine der geheimnisvollsten Stellen der Bibel. Die Anführer sehen Gott – und bleiben am Leben.
+> Was sie genau sehen, beschreibt die Bibel nicht. Sie beschreibt nur, was unter seinen Füßen ist: etwas Blaues, Klares, wie ein Fußboden aus Edelsteinen. Ein Saphir ist ein blauer Edelstein.
+> Dann essen und trinken sie. Ein Festmahl mit Gott. So feierte man damals einen Vertrag: mit einem gemeinsamen Essen.
+> Später heißt es: „Kein Mensch kann Gott sehen und leben“ (Kapitel 33,20). Viele verstehen es so: Sie sahen nur einen Abglanz von Gott, nicht ihn selbst.
+
+---
+
+### Mose geht hinauf in die Wolke (Vers 12–18)
+
+<sup>12</sup>Der HERR sagte zu Mose:
+„Steig zu mir auf den Berg herauf und bleib hier.
+Ich will dir die Steintafeln geben,
+mit der Weisung und den Geboten, die ich aufgeschrieben habe.
+Du sollst sie das Volk lehren.“
+<sup>13</sup>Da machte sich Mose mit seinem Diener Josua auf.
+Und Mose stieg auf den Berg Gottes.
+<sup>14</sup>Zu den Ältesten sagte er:
+„Wartet hier auf uns, bis wir zu euch zurückkommen.
+Schaut, Aaron und Hur sind bei euch.
+Wer einen Streit hat, soll zu ihnen gehen.“
+
+<sup>15</sup>Mose stieg auf den Berg.
+Und die Wolke bedeckte den Berg.
+<sup>16</sup>Die Herrlichkeit des HERRN ließ sich auf dem Berg Sinai nieder.
+Die Wolke bedeckte ihn sechs Tage lang.
+Am siebten Tag rief der HERR Mose aus der Mitte der Wolke.
+<sup>17</sup>Für die Israeliten sah die Herrlichkeit des HERRN aus wie ein verzehrendes Feuer auf dem Gipfel des Berges.
+<sup>18</sup>Mose ging mitten in die Wolke hinein und stieg auf den Berg.
+Und Mose blieb 40 Tage und 40 Nächte auf dem Berg.
+
+> **Was bedeutet das?**
+> Gott selbst hat die Gebote auf Steintafeln geschrieben. Stein steht für etwas, das bleibt.
+> Josua darf ein Stück weit mit. Er wird auf seine spätere Aufgabe vorbereitet.
+> Sechs Tage warten, am siebten Tag ruft Gott – wie bei der Schöpfung.
+> Von unten sieht der Berg aus wie ein Feuer. Und Mose geht mitten hinein. Er hat großes Vertrauen zu Gott.
+> 40 Tage und 40 Nächte – eine lange Zeit. In dieser Zeit gibt Gott Mose die Anweisungen für das heilige Zelt (Kapitel 25–31). Unten im Lager wird das Volk ungeduldig. Was dann passiert, erzählt Kapitel 32.
