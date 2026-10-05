@@ -12745,3 +12745,386 @@ Dann legte Mose das Tuch wieder über sein Gesicht, bis er wieder hineinging, um
 > Das hebräische Wort für „strahlen“ hängt mit dem Wort für „Horn“ zusammen. Eine alte lateinische Übersetzung schrieb darum, Mose habe „Hörner“ gehabt. Deshalb zeigen manche alten Bilder und Statuen Mose mit Hörnern, zum Beispiel die berühmte Statue von Michelangelo in Rom. Gemeint sind aber Lichtstrahlen.
 > Das Tuch trägt Mose nicht, wenn er mit Gott redet oder Gottes Worte weitergibt, sondern danach im Alltag.
 > Im Neuen Testament schreibt Paulus über diese Geschichte (2. Korinther 3,7–18). Er sagt: Wer sich Gott zuwendet, dem wird die Decke weggenommen. Und Menschen, die auf Gott schauen, werden selbst immer mehr verwandelt.
+
+## 2. Mose – Kapitel 35
+#### Das Volk bringt seine Gaben
+
+---
+
+### Zuerst der Sabbat (Vers 1–3)
+
+<sup>1</sup>Mose versammelte die ganze Gemeinde der Israeliten und sagte zu ihnen:
+„Das sind die Worte, die der HERR befohlen hat. Ihr sollt sie tun:
+<sup>2</sup>‚Sechs Tage soll man arbeiten.
+Aber der siebte Tag soll für euch ein heiliger Tag sein,
+ein Sabbat, ein Tag der völligen Ruhe für den HERRN.
+Wer an ihm irgendeine Arbeit tut, muss getötet werden.
+<sup>3</sup>Am Sabbattag dürft ihr in keiner eurer Wohnungen ein Feuer anzünden.‘“
+
+> **Was bedeutet das?**
+> Jetzt beginnt der Bau des Heiligtums. Die Kapitel 35 bis 40 erzählen, wie alles genau so gemacht wird, wie Gott es in den Kapiteln 25 bis 31 befohlen hat. Darum klingen viele Verse fast gleich wie dort. Die Wiederholung zeigt: Das Volk tut jetzt wirklich, was Gott gesagt hat.
+> Ganz am Anfang steht wieder der Sabbat. Auch die Arbeit für das Heiligtum soll am Sabbat ruhen.
+> Kein Feuer anzünden – damals war Feuer machen mühsame Arbeit. Bis heute zünden viele Juden am Sabbat kein Feuer an. Darum gibt es zum Beispiel Lichter, die schon vor dem Sabbat angezündet werden.
+> Zur Todesstrafe für Arbeit am Sabbat steht mehr in der Erklärung zu 2. Mose 31.
+
+---
+
+### Wer gern gibt, soll geben (Vers 4–9)
+
+<sup>4</sup>Mose sagte zur ganzen Gemeinde der Israeliten:
+„Das hat der HERR befohlen:
+<sup>5</sup>‚Sammelt unter euch eine Gabe für den HERRN.
+Jeder, der von Herzen bereit ist, soll sie als Gabe für den HERRN bringen:
+Gold, Silber und Bronze,
+<sup>6</sup>blauen, purpurroten und karmesinroten Stoff, feines Leinen, Ziegenhaar,
+<sup>7</sup>rot gefärbte Widderfelle, Häute von Seekühen, Akazienholz,
+<sup>8</sup>Öl für die Lampen,
+Gewürze für das Salböl und für das duftende Räucherwerk,
+<sup>9</sup>Onyxsteine und andere Edelsteine zum Einsetzen für das Ephod und für die Brusttasche.
+
+> **Was bedeutet das?**
+> Niemand wird gezwungen. Nur wer „von Herzen bereit“ ist, soll geben. Gott will keine erzwungenen Gaben.
+> Diese Liste ist dieselbe wie in 2. Mose 25,3–7.
+
+---
+
+### Wer geschickt ist, soll bauen (Vers 10–19)
+
+<sup>10</sup>Alle unter euch, die ein weises Herz haben, sollen kommen
+und alles machen, was der HERR befohlen hat:
+<sup>11</sup>die Wohnung, ihr Zelt und ihre Decke,
+ihre Haken, ihre Bretter, ihre Querstangen, ihre Säulen und ihre Sockel,
+<sup>12</sup>die Lade und ihre Stangen, die Deckplatte und den Vorhang, der sie abschirmt,
+<sup>13</sup>den Tisch mit seinen Stangen und allen seinen Geräten und die Schaubrote,
+<sup>14</sup>den Leuchter für das Licht mit seinen Geräten, seinen Lampen und dem Öl für das Licht,
+<sup>15</sup>den Räucheraltar mit seinen Stangen, das Salböl, das duftende Räucherwerk
+und den Vorhang für den Eingang, am Eingang der Wohnung,
+<sup>16</sup>den Brandopferaltar mit seinem Gitter aus Bronze, seinen Stangen und allen seinen Geräten,
+das Becken und sein Gestell,
+<sup>17</sup>die Behänge des Vorhofs, seine Säulen und ihre Sockel
+und den Vorhang für das Tor des Vorhofs,
+<sup>18</sup>die Zeltpflöcke der Wohnung, die Zeltpflöcke des Vorhofs und ihre Seile,
+<sup>19</sup>die fein gearbeiteten Kleider für den Dienst im Heiligtum –
+die heiligen Kleider für Aaron, den Priester, und die Kleider seiner Söhne –
+für ihren Dienst als Priester.‘“
+
+> **Was bedeutet das?**
+> Hier wird alles aufgezählt, was gebaut werden muss. Es ist viel Arbeit. Nicht einer allein kann das schaffen. Alle, die etwas können, sollen mithelfen.
+> Ein „weises Herz“ meint hier: Geschick und Können für Handwerk und Kunst.
+
+---
+
+### Das Volk gibt mehr als genug (Vers 20–29)
+
+<sup>20</sup>Da ging die ganze Gemeinde der Israeliten von Mose weg.
+<sup>21</sup>Und sie kamen wieder:
+jeder, den sein Herz dazu bewegte,
+und jeder, den sein Geist bereit machte.
+Sie brachten die Gabe für den HERRN
+für die Arbeit am Zelt der Begegnung, für den ganzen Dienst dort und für die heiligen Kleider.
+<sup>22</sup>Sie kamen, Männer und Frauen, alle, die von Herzen bereit waren.
+Sie brachten Broschen, Ohrringe, Siegelringe und Armbänder, allerlei Schmuck aus Gold.
+Jeder brachte dem HERRN eine Gabe aus Gold.
+
+<sup>23</sup>Jeder, der blauen, purpurroten oder karmesinroten Stoff hatte,
+feines Leinen, Ziegenhaar, rot gefärbte Widderfelle oder Häute von Seekühen, brachte es.
+<sup>24</sup>Jeder, der eine Gabe aus Silber oder Bronze geben wollte, brachte sie als Gabe für den HERRN.
+Und jeder, der Akazienholz hatte für irgendeine Arbeit beim Bau, brachte es.
+
+<sup>25</sup>Alle Frauen, die geschickt waren, spannen mit ihren Händen.
+Sie brachten, was sie gesponnen hatten:
+den blauen, den purpurroten und den karmesinroten Stoff und das feine Leinen.
+<sup>26</sup>Und alle Frauen, die ihr Herz dazu bewegte und die geschickt waren, spannen das Ziegenhaar.
+
+<sup>27</sup>Die Anführer brachten die Onyxsteine und die anderen Edelsteine zum Einsetzen für das Ephod und für die Brusttasche,
+<sup>28</sup>dazu die Gewürze und das Öl für die Lampen, für das Salböl und für das duftende Räucherwerk.
+<sup>29</sup>So brachten die Israeliten dem HERRN freiwillige Gaben.
+Jeder Mann und jede Frau, die ihr Herz dazu bereit machte,
+brachte etwas für die ganze Arbeit, die der HERR durch Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Was für ein Unterschied zu Kapitel 32! Dort gab das Volk sein Gold für ein goldenes Kalb. Jetzt gibt es sein Gold für das Heiligtum Gottes.
+> Alle machen mit: Männer und Frauen, Anführer und einfache Leute. Jeder gibt, was er hat und was er kann.
+> Besonders werden die Frauen genannt. Sie spinnen die Fäden für die Stoffe. Ohne ihre Arbeit gäbe es keine Vorhänge und keine Priesterkleider.
+> Woher hatte das Volk so viel Gold und Schmuck in der Wüste? Die Ägypter hatten ihnen beim Auszug Schmuck gegeben (2. Mose 12,35–36).
+
+---
+
+### Bezalel und Oholiab (Vers 30–35)
+
+<sup>30</sup>Mose sagte zu den Israeliten:
+„Schaut: Der HERR hat Bezalel mit Namen berufen,
+den Sohn von Uri, dem Sohn von Hur, aus dem Stamm Juda.
+<sup>31</sup>Er hat ihn mit dem Geist Gottes erfüllt,
+mit Weisheit, mit Verstand und mit Wissen
+und mit Geschick für jede Art von Arbeit,
+<sup>32</sup>damit er Kunstwerke entwerfen kann
+und mit Gold, mit Silber und mit Bronze arbeiten kann,
+<sup>33</sup>Steine schleifen und einsetzen, Holz schnitzen
+und jede Art von kunstvoller Arbeit machen kann.
+<sup>34</sup>Und er hat ihm die Gabe ins Herz gelegt, andere zu lehren,
+ihm und Oholiab, dem Sohn von Ahisamach, aus dem Stamm Dan.
+<sup>35</sup>Er hat sie mit Weisheit im Herzen erfüllt, damit sie jede Art von Arbeit machen können:
+die Arbeit des Graveurs, des Kunsthandwerkers und des Stickers
+mit blauem, purpurrotem und karmesinrotem Stoff und mit feinem Leinen,
+und die Arbeit des Webers.
+Sie können jede Art von Arbeit machen und Kunstwerke entwerfen.“
+
+> **Was bedeutet das?**
+> Neu ist hier: Bezalel und Oholiab können nicht nur selbst gut arbeiten. Gott hat ihnen auch die Gabe gegeben, andere zu lehren. So können viele mitarbeiten.
+> Gute Lehrer sind ein Geschenk. Wissen und Können sollen weitergegeben werden.
+
+## 2. Mose – Kapitel 36
+#### Der Bau beginnt: Decken, Bretter und Vorhänge
+
+---
+
+### Das Volk muss gebremst werden (Vers 1–7)
+
+<sup>1</sup>„Bezalel und Oholiab sollen arbeiten,
+zusammen mit allen, die ein weises Herz haben,
+denen der HERR Weisheit und Verstand gegeben hat.
+So wissen sie, wie man die ganze Arbeit für den Dienst am Heiligtum macht,
+genau so, wie der HERR es befohlen hat.“
+
+<sup>2</sup>Mose rief Bezalel und Oholiab
+und alle, die ein weises Herz hatten, denen der HERR Weisheit ins Herz gegeben hatte,
+alle, die ihr Herz dazu bewegte, zur Arbeit zu kommen und sie zu tun.
+<sup>3</sup>Sie bekamen von Mose die ganze Gabe,
+die die Israeliten für die Arbeit am Heiligtum gebracht hatten, damit sie es bauen konnten.
+Aber die Leute brachten ihm immer noch freiwillige Gaben, jeden Morgen.
+
+<sup>4</sup>Da kamen alle geschickten Männer, die die ganze Arbeit am Heiligtum machten.
+Jeder kam von seiner Arbeit, die er gerade tat.
+<sup>5</sup>Sie sagten zu Mose:
+„Das Volk bringt viel mehr, als man für die Arbeit braucht, die der HERR befohlen hat.“
+<sup>6</sup>Da gab Mose einen Befehl.
+Man ließ im ganzen Lager ausrufen:
+„Kein Mann und keine Frau soll noch etwas für die Gabe für das Heiligtum machen!“
+So wurde das Volk davon abgehalten, noch mehr zu bringen.
+<sup>7</sup>Denn das Material, das sie hatten, reichte für die ganze Arbeit.
+Es war sogar zu viel.
+
+> **Was bedeutet das?**
+> Das ist eine wunderbare Stelle: Das Volk gibt so gern, dass man es bremsen muss. Es ist wohl eine der wenigen Spendensammlungen in der Geschichte, die man wegen zu großer Gaben beenden musste.
+> Wenn Menschen von Herzen geben, entsteht mehr als genug.
+
+---
+
+### Die inneren Decken aus Leinen (Vers 8–13)
+
+<sup>8</sup>Alle geschickten Männer unter den Arbeitern machten die Wohnung aus zehn Zeltbahnen.
+Sie waren aus gezwirntem feinem Leinen und aus blauem, purpurrotem und karmesinrotem Stoff.
+Kerubim waren kunstvoll hineingewebt, eine Arbeit von Kunsthandwerkern.
+<sup>9</sup>Jede Zeltbahn war knapp 13 Meter lang und 1,80 Meter breit.
+Alle Zeltbahnen waren gleich groß.
+<sup>10</sup>Er nähte fünf Zeltbahnen zusammen
+und die anderen fünf Zeltbahnen nähte er auch zusammen.
+<sup>11</sup>Er machte Schlaufen aus blauem Stoff an den Rand der letzten Bahn des ersten Teils.
+Genauso machte er es am Rand der letzten Bahn des zweiten Teils.
+<sup>12</sup>50 Schlaufen machte er an die eine Bahn
+und 50 Schlaufen an den Rand der Bahn des zweiten Teils.
+Die Schlaufen lagen einander genau gegenüber.
+<sup>13</sup>Er machte 50 Haken aus Gold.
+Mit den Haken verband er die Zeltbahnen miteinander.
+So wurde die Wohnung zu einem Ganzen.
+
+> **Was bedeutet das?**
+> In Ellen: 28 Ellen lang, 4 Ellen breit. Eine Elle ist etwa 45 Zentimeter.
+> „Er“ ist hier wahrscheinlich Bezalel, der Leiter der Arbeit. Gemeint sind aber auch alle, die mit ihm gearbeitet haben.
+> Ab hier wird alles genau so ausgeführt, wie es in Kapitel 26 befohlen wurde.
+
+---
+
+### Die Decken aus Ziegenhaar und Fellen (Vers 14–19)
+
+<sup>14</sup>Er machte Zeltbahnen aus Ziegenhaar als Zeltdach über der Wohnung.
+Elf solche Zeltbahnen machte er.
+<sup>15</sup>Jede Zeltbahn war 13,5 Meter lang und 1,80 Meter breit.
+Die elf Zeltbahnen waren alle gleich groß.
+<sup>16</sup>Er nähte fünf Zeltbahnen zu einem Teil zusammen
+und sechs Zeltbahnen zu einem anderen Teil.
+<sup>17</sup>Er machte 50 Schlaufen an den Rand der letzten Bahn des ersten Teils
+und 50 Schlaufen an den Rand der letzten Bahn des zweiten Teils.
+<sup>18</sup>Er machte 50 Haken aus Bronze, um das Zelt zusammenzufügen, damit es ein Ganzes wurde.
+<sup>19</sup>Er machte für das Zelt eine Decke aus rot gefärbten Widderfellen.
+Und darüber eine Decke aus Häuten von Seekühen.
+
+> **Was bedeutet das?**
+> In Ellen: 30 Ellen lang, 4 Ellen breit.
+> Wie in Kapitel 26: Über der schönen Leinendecke liegen eine Decke aus Ziegenhaar und zwei Decken aus Fellen und Häuten. Sie schützen vor Sonne und Regen.
+
+---
+
+### Die Bretter (Vers 20–30)
+
+<sup>20</sup>Er machte die Bretter für die Wohnung aus Akazienholz. Sie standen aufrecht.
+<sup>21</sup>Jedes Brett war 4,50 Meter lang und knapp 70 Zentimeter breit.
+<sup>22</sup>Jedes Brett hatte zwei Zapfen, die miteinander verbunden waren.
+So machte er es bei allen Brettern der Wohnung.
+<sup>23</sup>Er machte die Bretter für die Wohnung: 20 Bretter für die Südseite.
+<sup>24</sup>Unter die 20 Bretter machte er 40 Sockel aus Silber:
+zwei Sockel unter das eine Brett für seine zwei Zapfen
+und zwei Sockel unter das nächste Brett für seine zwei Zapfen.
+
+<sup>25</sup>Für die zweite Seite der Wohnung, die Nordseite, machte er auch 20 Bretter
+<sup>26</sup>und ihre 40 Sockel aus Silber:
+zwei Sockel unter das eine Brett und zwei Sockel unter das nächste Brett.
+<sup>27</sup>Für die Rückseite der Wohnung, nach Westen hin, machte er sechs Bretter.
+<sup>28</sup>Und für die Ecken der Wohnung an der Rückseite machte er zwei Bretter.
+<sup>29</sup>Sie waren unten doppelt und gingen ebenso bis oben zusammen, bis zum ersten Ring.
+So machte er es bei beiden, an den beiden Ecken.
+<sup>30</sup>So waren es acht Bretter mit ihren Sockeln aus Silber, 16 Sockel:
+unter jedem Brett zwei Sockel.
+
+> **Was bedeutet das?**
+> In Ellen: 10 Ellen lang, anderthalb Ellen breit.
+> Die Bretter bilden die Wände des Heiligtums. Mehr dazu steht in der Erklärung zu 2. Mose 26.
+
+---
+
+### Die Querstangen (Vers 31–34)
+
+<sup>31</sup>Er machte Querstangen aus Akazienholz:
+fünf für die Bretter der einen Seite der Wohnung,
+<sup>32</sup>fünf Querstangen für die Bretter der anderen Seite der Wohnung
+und fünf Querstangen für die Bretter an der Rückseite nach Westen hin.
+<sup>33</sup>Die mittlere Querstange machte er so, dass sie in der Mitte der Bretter von einem Ende bis zum anderen durchging.
+<sup>34</sup>Er überzog die Bretter mit Gold.
+Er machte goldene Ringe an sie, durch die die Querstangen gesteckt wurden.
+Und er überzog die Querstangen mit Gold.
+
+---
+
+### Die beiden Vorhänge (Vers 35–38)
+
+<sup>35</sup>Er machte den Vorhang aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+Kerubim waren kunstvoll hineingewebt, eine Arbeit von Kunsthandwerkern.
+<sup>36</sup>Er machte für ihn vier Säulen aus Akazienholz und überzog sie mit Gold.
+Ihre Haken waren aus Gold.
+Und er goss für sie vier Sockel aus Silber.
+
+<sup>37</sup>Er machte für den Eingang des Zeltes einen Vorhang
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen,
+eine Arbeit von Stickern.
+<sup>38</sup>Dazu machte er die fünf Säulen mit ihren Haken.
+Ihre Kapitelle und ihre Verbindungsstangen überzog er mit Gold.
+Und ihre fünf Sockel waren aus Bronze.
+
+> **Was bedeutet das?**
+> Der erste Vorhang trennt das Heilige vom Allerheiligsten. Der zweite Vorhang hängt am Eingang des Zeltes.
+> Ein „Kapitell“ ist der obere, oft verzierte Abschluss einer Säule.
+
+## 2. Mose – Kapitel 37
+#### Die Bundeslade, der Tisch, der Leuchter und der Räucheraltar
+
+---
+
+### Die Bundeslade (Vers 1–5)
+
+<sup>1</sup>Bezalel machte die Lade aus Akazienholz.
+Sie war gut einen Meter lang, knapp 70 Zentimeter breit und knapp 70 Zentimeter hoch.
+<sup>2</sup>Er überzog sie mit reinem Gold, innen und außen.
+Und er machte rundherum eine goldene Leiste daran.
+<sup>3</sup>Er goss vier goldene Ringe für sie und befestigte sie an ihren vier Füßen:
+zwei Ringe auf der einen Seite und zwei Ringe auf der anderen Seite.
+<sup>4</sup>Er machte Tragestangen aus Akazienholz und überzog sie mit Gold.
+<sup>5</sup>Er steckte die Stangen durch die Ringe an den Seiten der Lade, damit man die Lade tragen konnte.
+
+> **Was bedeutet das?**
+> In Ellen: zweieinhalb Ellen lang, anderthalb Ellen breit und hoch. Eine Elle ist etwa 45 Zentimeter.
+> Bezalel macht die Bundeslade selbst. Sie ist das wichtigste Stück im ganzen Heiligtum. Mehr dazu steht in der Erklärung zu 2. Mose 25.
+
+---
+
+### Die Deckplatte mit den Kerubim (Vers 6–9)
+
+<sup>6</sup>Er machte eine Deckplatte aus reinem Gold, die Versöhnungsplatte.
+Sie war gut einen Meter lang und knapp 70 Zentimeter breit.
+<sup>7</sup>Er machte zwei Kerubim aus Gold.
+Er machte sie aus getriebenem Gold, an den beiden Enden der Deckplatte:
+<sup>8</sup>einen Kerub an das eine Ende und einen Kerub an das andere Ende.
+Er machte die Kerubim mit der Deckplatte aus einem Stück, an ihren beiden Enden.
+<sup>9</sup>Die Kerubim breiteten ihre Flügel nach oben aus
+und überdeckten mit ihren Flügeln die Deckplatte.
+Ihre Gesichter waren einander zugewandt.
+Die Gesichter der Kerubim schauten auf die Deckplatte.
+
+> **Was bedeutet das?**
+> Kerubim sind himmlische Wesen mit Flügeln. Sie bewachen den Ort, an dem Gott gegenwärtig ist.
+> „Getriebenes Gold“ heißt: Das Gold wird nicht gegossen, sondern mit dem Hammer in Form geschlagen.
+
+---
+
+### Der Tisch (Vers 10–16)
+
+<sup>10</sup>Er machte den Tisch aus Akazienholz.
+Er war 90 Zentimeter lang, 45 Zentimeter breit und knapp 70 Zentimeter hoch.
+<sup>11</sup>Er überzog ihn mit reinem Gold und machte rundherum eine goldene Leiste daran.
+<sup>12</sup>Er machte rundherum eine Randleiste, eine Handbreit hoch.
+Und an dieser Randleiste machte er rundherum eine goldene Zierleiste.
+<sup>13</sup>Er goss vier goldene Ringe für den Tisch.
+Er befestigte die Ringe an den vier Ecken, an seinen vier Beinen.
+<sup>14</sup>Die Ringe waren dicht unter der Randleiste.
+Durch sie wurden die Stangen gesteckt, mit denen man den Tisch trug.
+<sup>15</sup>Er machte die Stangen aus Akazienholz und überzog sie mit Gold, um den Tisch zu tragen.
+<sup>16</sup>Er machte auch die Geräte, die auf den Tisch gehörten:
+seine Schüsseln, seine Schalen, seine Kannen und seine Becher, aus denen man Trankopfer ausgießt.
+Er machte sie aus reinem Gold.
+
+> **Was bedeutet das?**
+> In Ellen: zwei Ellen lang, eine Elle breit, anderthalb Ellen hoch. Eine Handbreit ist etwa 7 bis 8 Zentimeter.
+> Auf diesem Tisch lagen die Schaubrote, zwölf Brote für die zwölf Stämme.
+
+---
+
+### Der goldene Leuchter (Vers 17–24)
+
+<sup>17</sup>Er machte den Leuchter aus reinem Gold.
+Er machte den Leuchter aus getriebenem Gold.
+Sein Fuß, sein Schaft, seine Kelche, seine Knospen und seine Blüten waren mit ihm aus einem Stück.
+<sup>18</sup>Sechs Arme gingen von seinen Seiten aus:
+drei Arme auf der einen Seite und drei Arme auf der anderen Seite.
+<sup>19</sup>An dem einen Arm waren drei Kelche, geformt wie Mandelblüten, jeweils mit Knospe und Blüte.
+Und an dem nächsten Arm auch drei Kelche, geformt wie Mandelblüten, jeweils mit Knospe und Blüte.
+So war es bei allen sechs Armen, die vom Leuchter ausgingen.
+<sup>20</sup>Am Schaft des Leuchters selbst waren vier Kelche, geformt wie Mandelblüten, mit ihren Knospen und Blüten.
+<sup>21</sup>Unter jedem Paar Arme war eine Knospe, aus einem Stück mit dem Leuchter:
+eine Knospe unter den ersten beiden Armen,
+eine Knospe unter den nächsten beiden Armen
+und eine Knospe unter den letzten beiden Armen.
+So war es bei den sechs Armen, die von ihm ausgingen.
+<sup>22</sup>Die Knospen und die Arme waren mit ihm aus einem Stück.
+Das Ganze war aus einem einzigen Stück getriebenem, reinem Gold.
+<sup>23</sup>Er machte seine sieben Lampen,
+seine Dochtscheren und die Schalen dafür aus reinem Gold.
+<sup>24</sup>Aus einem Talent reinem Gold machte er den Leuchter und alle seine Geräte.
+
+> **Was bedeutet das?**
+> Ein Talent sind etwa 34 Kilogramm. So viel Gold steckte in dem Leuchter und seinen Geräten.
+> Der siebenarmige Leuchter heißt auf Hebräisch „Menora“. Er ist bis heute ein wichtiges Zeichen für das Judentum und steht im Wappen des Staates Israel.
+
+---
+
+### Der Räucheraltar, das Salböl und das Räucherwerk (Vers 25–29)
+
+<sup>25</sup>Er machte den Räucheraltar aus Akazienholz.
+Er war quadratisch: 45 Zentimeter lang und 45 Zentimeter breit.
+Und er war 90 Zentimeter hoch.
+Seine Hörner waren mit ihm aus einem Stück.
+<sup>26</sup>Er überzog ihn mit reinem Gold:
+seine Platte oben, seine Seiten ringsherum und seine Hörner.
+Und er machte ringsherum eine Leiste aus Gold.
+<sup>27</sup>Er machte zwei goldene Ringe für ihn unter der Leiste,
+an seinen beiden Seiten, einander gegenüber.
+Durch sie wurden die Stangen gesteckt, mit denen man ihn trug.
+<sup>28</sup>Er machte die Stangen aus Akazienholz und überzog sie mit Gold.
+
+<sup>29</sup>Er machte auch das heilige Salböl
+und das reine, duftende Räucherwerk,
+so wie ein Salbenmischer es kunstvoll herstellt.
+
+> **Was bedeutet das?**
+> In Ellen: eine Elle lang und breit, zwei Ellen hoch.
+> Damit sind alle Gegenstände für das Innere des Heiligtums fertig: die Bundeslade im Allerheiligsten, dazu Tisch, Leuchter und Räucheraltar im Heiligen.
+> Was in Kapitel 25 und 30 befohlen wurde, wird jetzt Stück für Stück getan.
