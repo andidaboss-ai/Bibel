@@ -14513,3 +14513,337 @@ Als das ganze Volk das sah, jubelten sie und warfen sich auf ihr Gesicht nieder.
 > Aaron hebt die Hände und segnet das Volk. Wie dieser Segen später klingt, steht in 4. Mose 6,24–26: „Der HERR segne dich und behüte dich …“ Diese Worte werden bis heute in Synagogen und Kirchen gesprochen.
 > Das Volk jubelt und wirft sich nieder. Freude und Ehrfurcht gehören zusammen.
 > Doch gleich im nächsten Kapitel passiert etwas Schreckliches.
+
+## 3. Mose – Kapitel 10
+#### Nadab und Abihu – fremdes Feuer
+
+---
+
+### Der Tod von Nadab und Abihu (Vers 1–7)
+
+<sup>1</sup>Nadab und Abihu, die Söhne Aarons, nahmen jeder seine Räucherpfanne.
+Sie legten Feuer hinein und streuten Räucherwerk darauf.
+So brachten sie vor dem HERRN fremdes Feuer dar, das er ihnen nicht befohlen hatte.
+<sup>2</sup>Da ging Feuer vom HERRN aus und verzehrte sie.
+Und sie starben vor dem HERRN.
+
+<sup>3</sup>Da sagte Mose zu Aaron:
+„Das ist es, wovon der HERR gesprochen hat, als er sagte:
+‚An denen, die mir nahekommen, will ich mich als heilig erweisen.
+Und vor dem ganzen Volk will ich geehrt werden.‘“
+Und Aaron schwieg.
+
+<sup>4</sup>Mose rief Mischaël und Elizafan, die Söhne von Usiël, dem Onkel Aarons.
+Er sagte zu ihnen:
+„Kommt her und tragt eure Brüder vom Heiligtum weg, hinaus vor das Lager.“
+<sup>5</sup>Da kamen sie und trugen sie in ihren Untergewändern hinaus vor das Lager, wie Mose es gesagt hatte.
+
+<sup>6</sup>Mose sagte zu Aaron und zu dessen Söhnen Eleasar und Itamar:
+„Lasst euer Haar nicht offen hängen und zerreißt eure Kleider nicht.
+Sonst müsst ihr sterben, und Gott wird zornig über die ganze Gemeinde.
+Aber eure Brüder, das ganze Haus Israel, sollen über den Brand weinen, den der HERR entfacht hat.
+<sup>7</sup>Geht nicht vom Eingang des Zeltes der Begegnung weg, sonst müsst ihr sterben.
+Denn das Salböl des HERRN ist auf euch.“
+Und sie taten, was Mose gesagt hatte.
+
+> **Was bedeutet das?**
+> Das ist eine der erschütterndsten Geschichten der Bibel. Am Tag der großen Freude, direkt nachdem Gottes Feuer das Opfer angenommen hat (Kapitel 9), sterben zwei Söhne Aarons durch dieses Feuer.
+> Was genau ihr Fehler war, sagt die Bibel nicht ganz deutlich. Sie brachten „fremdes Feuer“, „das er ihnen nicht befohlen hatte“. Vielleicht nahmen sie Feuer, das nicht vom Altar kam. Vielleicht gingen sie eigenmächtig und zur falschen Zeit ins Heiligtum. Manche jüdische Ausleger vermuten, dass sie betrunken waren, weil gleich danach das Alkoholverbot für Priester kommt (Vers 9).
+> Die Botschaft ist ernst: Gott ist heilig. Man kann ihm nicht nach eigenem Gutdünken dienen. Je näher man Gott ist, desto mehr Verantwortung trägt man.
+> „Aaron schwieg“ – ein Vater verliert zwei Söhne an einem Tag und sagt nichts. Dieses Schweigen zeigt tiefen Schmerz, vielleicht auch Ergebenheit.
+> Als Hohepriester darf Aaron nicht die üblichen Trauerzeichen zeigen: Haare offen hängen lassen und Kleider zerreißen. Er darf seinen Dienst nicht unterbrechen. Das ganze Volk soll stattdessen für ihn trauern.
+> Für uns heute ist die Geschichte schwer zu verstehen. Sie bleibt eine Mahnung, Gott nicht leichtfertig zu begegnen.
+
+---
+
+### Kein Wein im Heiligtum (Vers 8–11)
+
+<sup>8</sup>Der HERR sprach zu Aaron:
+<sup>9</sup>„Du und deine Söhne dürft keinen Wein und kein starkes Getränk trinken,
+wenn ihr in das Zelt der Begegnung geht.
+Sonst müsst ihr sterben.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen.
+<sup>10</sup>Ihr sollt unterscheiden zwischen dem Heiligen und dem Gewöhnlichen,
+zwischen dem Unreinen und dem Reinen.
+<sup>11</sup>Und ihr sollt die Israeliten alle Ordnungen lehren,
+die der HERR ihnen durch Mose gesagt hat.“
+
+> **Was bedeutet das?**
+> Das ist das einzige Mal im 3. Buch Mose, dass Gott direkt nur zu Aaron spricht.
+> Wer Gott dient, braucht einen klaren Kopf. Er muss unterscheiden können, was heilig ist und was nicht.
+> Die Priester hatten zwei Aufgaben: am Heiligtum dienen und das Volk lehren. Sie waren auch die Lehrer des Volkes.
+
+---
+
+### Was die Priester essen sollen (Vers 12–15)
+
+<sup>12</sup>Mose sagte zu Aaron und zu Eleasar und Itamar, seinen Söhnen, die übrig geblieben waren:
+„Nehmt das Speiseopfer, das von den Feueropfern für den HERRN übrig ist,
+und esst es ungesäuert neben dem Altar.
+Denn es ist hochheilig.
+<sup>13</sup>Ihr sollt es an einem heiligen Ort essen.
+Denn es ist dein Anteil und der Anteil deiner Söhne von den Feueropfern für den HERRN.
+So ist es mir befohlen worden.
+<sup>14</sup>Die Brust des Schwingopfers und die Keule des Hebeopfers sollt ihr an einem reinen Ort essen,
+du und deine Söhne und deine Töchter mit dir.
+Denn sie sind euch als dein Anteil und als Anteil deiner Söhne gegeben,
+von den Gemeinschaftsopfern der Israeliten.
+<sup>15</sup>Die Keule des Hebeopfers und die Brust des Schwingopfers
+soll man zusammen mit dem Fett der Feueropfer bringen,
+um sie vor dem HERRN als Schwingopfer hin- und herzuschwingen.
+Sie sollen dir und deinen Söhnen mit dir gehören, als Anteil für alle Zeiten,
+wie der HERR es befohlen hat.“
+
+> **Was bedeutet das?**
+> Trotz der Trauer geht der Dienst weiter. Die übrigen Priester sollen essen, was ihnen zusteht.
+> Brust und Keule darf auch die Familie des Priesters essen, auch die Töchter. Das andere, das „Hochheilige“, dürfen nur die Priester selbst am heiligen Ort essen.
+
+---
+
+### Moses Zorn und Aarons Antwort (Vers 16–20)
+
+<sup>16</sup>Mose fragte genau nach dem Ziegenbock des Sündopfers.
+Und schau: Er war verbrannt worden.
+Da wurde er zornig über Eleasar und Itamar, die Söhne Aarons, die übrig geblieben waren. Er sagte:
+<sup>17</sup>„Warum habt ihr das Sündopfer nicht am heiligen Ort gegessen?
+Es ist doch hochheilig.
+Er hat es euch gegeben, damit ihr die Schuld der Gemeinde tragt
+und vor dem HERRN Versöhnung für sie schafft.
+<sup>18</sup>Schaut: Sein Blut wurde nicht ins Innere des Heiligtums gebracht.
+Ihr hättet es unbedingt im Heiligtum essen müssen, wie ich es befohlen habe.“
+<sup>19</sup>Aaron antwortete Mose:
+„Schau: Heute haben sie ihr Sündopfer und ihr Brandopfer vor dem HERRN dargebracht.
+Und so etwas ist mir passiert.
+Wenn ich heute das Sündopfer gegessen hätte –
+wäre das dem HERRN recht gewesen?“
+<sup>20</sup>Als Mose das hörte, war es ihm recht.
+
+> **Was bedeutet das?**
+> Nach den Regeln aus Kapitel 6,26 hätten die Priester das Fleisch des Sündopfers essen müssen. Stattdessen haben sie es verbrannt. Mose ist zornig, denn nach dem Tod von Nadab und Abihu hat er Angst, dass wieder ein Fehler passiert.
+> Aaron erklärt: Wie hätte ich an so einem Tag, voller Trauer, das heilige Opfermahl essen können? Wäre das Gott recht gewesen?
+> Und Mose versteht ihn. Er gibt Aaron recht.
+> Diese kleine Geschichte zeigt: Gottes Regeln sind wichtig. Aber sie sollen nicht ohne Herz befolgt werden. Gott sieht, was in einem Menschen vorgeht. Trauer und Aufrichtigkeit haben vor ihm ihren Platz.
+
+## 3. Mose – Kapitel 11
+#### Reine und unreine Tiere
+
+---
+
+### Landtiere (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose und zu Aaron. Er sagte zu ihnen:
+<sup>2</sup>„Sprecht zu den Israeliten und sagt:
+‚Das sind die Tiere, die ihr essen dürft, von allen Tieren auf der Erde:
+<sup>3</sup>Alle Tiere, die gespaltene Hufe haben, ganz durchgespalten, und die wiederkäuen, die dürft ihr essen.
+
+<sup>4</sup>Aber von denen, die wiederkäuen oder gespaltene Hufe haben, dürft ihr diese nicht essen:
+das Kamel. Denn es käut wieder, hat aber keine gespaltenen Hufe. Es ist für euch unrein.
+<sup>5</sup>Den Klippschliefer. Denn er käut wieder, hat aber keine gespaltenen Hufe. Er ist für euch unrein.
+<sup>6</sup>Den Hasen. Denn er käut wieder, hat aber keine gespaltenen Hufe. Er ist für euch unrein.
+<sup>7</sup>Das Schwein. Denn es hat gespaltene Hufe, ganz durchgespalten, aber es käut nicht wieder. Es ist für euch unrein.
+<sup>8</sup>Ihr dürft ihr Fleisch nicht essen und ihre toten Körper nicht berühren.
+Sie sind für euch unrein.
+
+> **Was bedeutet das?**
+> Jetzt beginnt ein großer Teil des Buches über „rein“ und „unrein“ (Kapitel 11–15). Zuerst geht es um das Essen.
+> „Unrein“ heißt hier nicht schmutzig, eklig oder böse. Es heißt: Diese Tiere sollen die Israeliten nicht essen. Alle Tiere sind von Gott geschaffen und gut (1. Mose 1,31).
+> Erlaubt sind Landtiere, die zwei Merkmale haben: gespaltene Hufe und Wiederkäuen. Dazu gehören Rinder, Schafe, Ziegen und Hirsche.
+> Ein Klippschliefer ist ein kleines Tier, das in Felsen lebt und etwa so groß wie ein Kaninchen ist. Er und der Hase sind keine echten Wiederkäuer. Aber sie bewegen beim Fressen ihr Maul so, als würden sie wiederkäuen. Die Bibel beschreibt sie so, wie die Menschen sie damals beobachtet haben.
+> Warum diese Regeln? Darüber haben Juden und Christen viel nachgedacht. Manche sagen: aus Gründen der Gesundheit. Andere sagen: Es sind Zeichen, damit Israel sich von anderen Völkern unterscheidet. Der wichtigste Grund steht am Ende des Kapitels: „Ihr sollt heilig sein, denn ich bin heilig.“
+> Bis heute essen viele Juden „koscher“, also nach diesen Regeln. Auch Muslime essen kein Schweinefleisch. Die meisten Christen halten diese Speiseregeln nicht, weil Jesus sagte, dass nicht das Essen den Menschen unrein macht, sondern was aus seinem Herzen kommt (Markus 7,18–23). Auch Petrus hatte dazu eine Vision (Apostelgeschichte 10).
+
+---
+
+### Tiere im Wasser (Vers 9–12)
+
+<sup>9</sup>Von allen Tieren im Wasser dürft ihr diese essen:
+Alles, was im Wasser Flossen und Schuppen hat, in den Meeren und in den Flüssen, das dürft ihr essen.
+<sup>10</sup>Aber alles, was keine Flossen und Schuppen hat, in den Meeren und in den Flüssen,
+alles, was sich im Wasser bewegt, und alle Lebewesen im Wasser –
+sie sind für euch etwas Abscheuliches.
+<sup>11</sup>Sie sollen für euch abscheulich sein.
+Ihr dürft ihr Fleisch nicht essen.
+Und ihre toten Körper sollt ihr verabscheuen.
+<sup>12</sup>Alles im Wasser, was keine Flossen und keine Schuppen hat, ist für euch etwas Abscheuliches.
+
+> **Was bedeutet das?**
+> Erlaubt sind Fische mit Flossen und Schuppen, zum Beispiel Karpfen, Lachs oder Hering. Nicht erlaubt sind zum Beispiel Aale, Muscheln, Krebse und Tintenfische.
+
+---
+
+### Vögel (Vers 13–19)
+
+<sup>13</sup>Diese Vögel sollt ihr verabscheuen.
+Man darf sie nicht essen, denn sie sind etwas Abscheuliches:
+den Adler, den Geier, den Mönchsgeier,
+<sup>14</sup>den Roten Milan, jede Art von Schwarzem Milan,
+<sup>15</sup>jede Art von Rabe,
+<sup>16</sup>den Uhu, die Kreischeule, die Möwe, jede Art von Habicht,
+<sup>17</sup>den Steinkauz, den Kormoran, die große Eule,
+<sup>18</sup>die weiße Eule, die Wüsteneule, den Fischadler,
+<sup>19</sup>den Storch, jede Art von Reiher, den Wiedehopf und die Fledermaus.
+
+> **Was bedeutet das?**
+> Welche Vögel genau gemeint sind, weiß man heute nicht mehr sicher. Die alten hebräischen Namen lassen sich nicht immer genau übersetzen. Darum stehen in verschiedenen Bibeln etwas andere Namen.
+> Auffällig ist: Viele dieser Vögel sind Raubvögel oder fressen Aas. Sie haben mit Tod und Blut zu tun.
+> Die Fledermaus ist natürlich kein Vogel. Aber damals wurde alles, was fliegt, zusammengezählt.
+
+---
+
+### Insekten (Vers 20–23)
+
+<sup>20</sup>Alle fliegenden Kleintiere, die auf vier Füßen gehen, sind für euch etwas Abscheuliches.
+<sup>21</sup>Aber diese dürft ihr essen:
+von allen geflügelten Kleintieren, die auf vier Füßen gehen,
+diejenigen, die lange Sprungbeine haben, mit denen sie auf der Erde hüpfen.
+<sup>22</sup>Diese dürft ihr davon essen:
+jede Art von Wanderheuschrecke, jede Art von Laubheuschrecke,
+jede Art von Grille und jede Art von Grashüpfer.
+<sup>23</sup>Aber alle anderen geflügelten Kleintiere, die vier Füße haben, sind für euch etwas Abscheuliches.
+
+> **Was bedeutet das?**
+> „Auf vier Füßen gehen“ ist eine einfache Beschreibung. Insekten haben eigentlich sechs Beine. Bei Heuschrecken sieht man vier Beine zum Gehen und zwei große Sprungbeine.
+> Heuschrecken waren im Orient ein normales Essen, besonders für arme Leute. Auch Johannes der Täufer aß Heuschrecken und wilden Honig (Markus 1,6).
+
+---
+
+### Wer tote Tiere berührt (Vers 24–28)
+
+<sup>24</sup>Durch diese Tiere werdet ihr unrein:
+Wer ihren toten Körper berührt, ist unrein bis zum Abend.
+<sup>25</sup>Wer einen Teil ihres toten Körpers trägt, soll seine Kleider waschen und ist unrein bis zum Abend.
+
+<sup>26</sup>Jedes Tier, das gespaltene Hufe hat, die aber nicht ganz durchgespalten sind,
+oder das nicht wiederkäut, ist für euch unrein.
+Jeder, der sie berührt, wird unrein.
+<sup>27</sup>Alle Tiere, die auf Pfoten gehen, von allen Tieren, die auf vier Füßen gehen, sind für euch unrein.
+Wer ihren toten Körper berührt, ist unrein bis zum Abend.
+<sup>28</sup>Wer ihren toten Körper trägt, soll seine Kleider waschen und ist unrein bis zum Abend.
+Sie sind für euch unrein.
+
+> **Was bedeutet das?**
+> Wer ein totes unreines Tier berührt, wird selbst „unrein“. Das heißt: Er darf eine Zeit lang nicht ins Heiligtum und keine heiligen Dinge berühren.
+> Das dauert aber nur „bis zum Abend“. Dann beginnt nach jüdischer Zählung ein neuer Tag. Wer seine Kleider wäscht, ist danach wieder rein.
+> Tiere, die „auf Pfoten gehen“, sind zum Beispiel Hunde, Katzen, Löwen und Bären.
+
+---
+
+### Kleintiere, die auf der Erde kriechen (Vers 29–38)
+
+<sup>29</sup>Diese sind für euch unrein unter den Kleintieren, die auf der Erde kriechen:
+das Wiesel, die Ratte, jede Art von großer Eidechse,
+<sup>30</sup>der Gecko, der Waran, die Mauereidechse, der Skink und das Chamäleon.
+<sup>31</sup>Diese sind für euch unrein unter allen Kleintieren.
+Wer sie berührt, wenn sie tot sind, ist unrein bis zum Abend.
+
+<sup>32</sup>Alles, worauf eines von ihnen fällt, wenn es tot ist, wird unrein:
+jedes Gefäß aus Holz, jedes Kleid, jedes Leder, jeder Sack,
+jeder Gegenstand, mit dem man arbeitet.
+Man soll es ins Wasser legen.
+Es ist unrein bis zum Abend. Dann ist es wieder rein.
+<sup>33</sup>Jedes Tongefäß, in das eines von ihnen fällt, und alles, was darin ist, wird unrein.
+Ihr sollt es zerbrechen.
+<sup>34</sup>Alles Essen, das mit Wasser zubereitet ist, wird unrein.
+Und jedes Getränk in einem solchen Gefäß wird unrein.
+<sup>35</sup>Alles, worauf ein Teil von ihrem toten Körper fällt, wird unrein.
+Ein Ofen oder eine Kochstelle soll zerschlagen werden.
+Sie sind unrein und sollen für euch unrein sein.
+<sup>36</sup>Aber eine Quelle oder ein Brunnen, in dem sich Wasser sammelt, bleibt rein.
+Nur wer den toten Körper darin berührt, wird unrein.
+<sup>37</sup>Wenn ein Teil von ihrem toten Körper auf Saatgut fällt, das gesät werden soll, dann bleibt es rein.
+<sup>38</sup>Aber wenn das Saatgut schon mit Wasser befeuchtet ist
+und ein Teil von ihrem toten Körper darauf fällt,
+dann ist es für euch unrein.
+
+> **Was bedeutet das?**
+> Diese Regeln wirken auf uns wie Hygieneregeln. Mäuse, Ratten und Eidechsen kamen oft in die Häuser. Wenn so ein Tier tot in einen Topf fiel, musste man alles reinigen oder wegwerfen.
+> Interessant: Fließendes Wasser in einer Quelle oder einem Brunnen bleibt rein. Und trockenes Saatgut auch. Aber nasses Saatgut oder Essen mit Wasser wird unrein. Feuchtigkeit überträgt Unreinheit, so dachte man.
+> Einfache Tongefäße konnte man nicht gut reinigen. Darum musste man sie zerbrechen.
+
+---
+
+### Wenn ein erlaubtes Tier von selbst stirbt (Vers 39–40)
+
+<sup>39</sup>Wenn eines der Tiere stirbt, die ihr essen dürft,
+dann ist der, der seinen toten Körper berührt, unrein bis zum Abend.
+<sup>40</sup>Wer von seinem toten Körper isst, soll seine Kleider waschen und ist unrein bis zum Abend.
+Auch wer seinen toten Körper trägt, soll seine Kleider waschen und ist unrein bis zum Abend.
+
+---
+
+### Ihr sollt heilig sein (Vers 41–47)
+
+<sup>41</sup>Alle Kleintiere, die auf der Erde kriechen, sind etwas Abscheuliches.
+Man darf sie nicht essen.
+<sup>42</sup>Alles, was auf dem Bauch kriecht,
+alles, was auf vier Füßen geht,
+und alles, was viele Füße hat,
+alle Kleintiere, die auf der Erde kriechen,
+die dürft ihr nicht essen.
+Denn sie sind etwas Abscheuliches.
+<sup>43</sup>Macht euch nicht selbst abscheulich durch irgendein Kleintier, das kriecht.
+Macht euch nicht unrein durch sie, damit ihr nicht durch sie verunreinigt werdet.
+<sup>44</sup>Denn ich bin der HERR, euer Gott.
+Darum heiligt euch und seid heilig. Denn ich bin heilig.
+Macht euch nicht unrein durch irgendein Kleintier, das sich auf der Erde bewegt.
+<sup>45</sup>Denn ich bin der HERR, der euch aus dem Land Ägypten heraufgeführt hat, um euer Gott zu sein.
+Darum sollt ihr heilig sein. Denn ich bin heilig.
+
+<sup>46</sup>Das ist die Vorschrift über die Landtiere, die Vögel,
+alle Lebewesen, die sich im Wasser bewegen,
+und alle Lebewesen, die auf der Erde kriechen.
+<sup>47</sup>So sollt ihr unterscheiden zwischen dem Unreinen und dem Reinen,
+zwischen den Tieren, die man essen darf, und den Tieren, die man nicht essen darf.‘“
+
+> **Was bedeutet das?**
+> Hier steht der wichtigste Grund für alle diese Regeln: „Seid heilig, denn ich bin heilig.“ Dieser Satz kommt hier zum ersten Mal vor und wird im 3. Buch Mose noch oft wiederholt.
+> „Heilig“ heißt: zu Gott gehören, für Gott ausgesondert sein, anders sein. Israel soll sogar beim Essen, also jeden Tag, daran denken: Wir gehören zu Gott.
+> Auch im Neuen Testament wird dieser Satz zitiert: „Werdet heilig in eurem ganzen Leben. Denn es steht geschrieben: Ihr sollt heilig sein, denn ich bin heilig“ (1. Petrus 1,15–16).
+
+## 3. Mose – Kapitel 12
+#### Die Reinigung einer Mutter nach der Geburt
+
+---
+
+### Nach der Geburt eines Sohnes oder einer Tochter (Vers 1–5)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag:
+‚Wenn eine Frau schwanger wird und einen Sohn bekommt,
+dann ist sie sieben Tage lang unrein.
+Sie ist unrein wie in den Tagen ihrer monatlichen Blutung.
+<sup>3</sup>Am achten Tag soll das Kind an der Vorhaut beschnitten werden.
+<sup>4</sup>Dann soll sie noch 33 Tage im Blut der Reinigung bleiben.
+Sie darf nichts Heiliges berühren und nicht ins Heiligtum kommen,
+bis die Tage ihrer Reinigung vorüber sind.
+<sup>5</sup>Wenn sie aber eine Tochter bekommt,
+dann ist sie zwei Wochen lang unrein, wie bei ihrer Blutung.
+Und dann soll sie noch 66 Tage im Blut der Reinigung bleiben.
+
+> **Was bedeutet das?**
+> Nach einer Geburt blutet eine Frau noch einige Wochen. Blut steht in der Bibel für das Leben. Wenn Blut aus dem Körper fließt, gilt man darum als „unrein“.
+> Wichtig: „Unrein“ heißt nicht schmutzig oder sündig. Eine Geburt ist keine Sünde. Kinder sind ein Segen Gottes (Psalm 127,3). Es heißt nur: Die Frau soll eine Zeit lang nicht ins Heiligtum gehen.
+> Das war auch ein Schutz. Die Mutter hatte Zeit, sich zu erholen, und musste keine religiösen Pflichten erfüllen.
+> Die Beschneidung am achten Tag ist das Zeichen des Bundes, den Gott mit Abraham geschlossen hat (1. Mose 17,10–12). Auch Jesus wurde am achten Tag beschnitten (Lukas 2,21).
+> Warum die Zeit nach der Geburt einer Tochter doppelt so lang ist, sagt die Bibel nicht. Darüber gibt es verschiedene Vermutungen. Manche jüdische Ausleger meinen: Weil das Mädchen selbst einmal Leben schenken wird, wird ihre Geburt besonders gewürdigt. Sicher wissen wir es nicht. Es bedeutet aber nicht, dass ein Mädchen weniger wert ist.
+
+---
+
+### Das Opfer nach der Reinigung (Vers 6–8)
+
+<sup>6</sup>Wenn die Tage ihrer Reinigung für einen Sohn oder für eine Tochter vorüber sind,
+dann soll sie zum Priester an den Eingang des Zeltes der Begegnung bringen:
+ein einjähriges Lamm als Brandopfer
+und eine junge Taube oder eine Turteltaube als Sündopfer.
+<sup>7</sup>Er soll es vor dem HERRN darbringen und für sie Versöhnung schaffen.
+Dann ist sie rein von ihrem Blutfluss.
+Das ist die Vorschrift für eine Frau, die einen Sohn oder eine Tochter bekommt.
+<sup>8</sup>Wenn sie sich kein Lamm leisten kann,
+dann soll sie zwei Turteltauben oder zwei junge Tauben nehmen,
+eine als Brandopfer und die andere als Sündopfer.
+So soll der Priester für sie Versöhnung schaffen, und sie ist rein.‘“
+
+> **Was bedeutet das?**
+> Das „Sündopfer“ bedeutet hier nicht, dass die Frau gesündigt hat. Es ist ein Reinigungsopfer. Danach darf sie wieder ins Heiligtum kommen und am Gottesdienst teilnehmen.
+> Das Brandopfer ist auch ein Dank an Gott für das Kind.
+> Genau dieses Opfer brachte Maria nach der Geburt von Jesus. Sie und Josef waren arm. Darum brachten sie zwei Tauben (Lukas 2,22–24).
