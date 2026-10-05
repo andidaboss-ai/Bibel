@@ -1,8 +1,8 @@
 # Die Bibel in leichter Sprache – Stilregeln
 
 **Quelle:** World English Bible (WEB), gemeinfrei, von ebible.org.
-Die englischen Kapitel liegen in `englisch/<Buch>/kapitel_NNN.txt` (ein Vers pro Zeile, mit Nummer).
-Die deutsche Fassung liegt in `deutsch/<Buch>/kapitel_NNN.md`.
+Die englischen Kapitel liegen in `texte/englisch-web/<testament>/<Buch>/kapitel_NNN.txt` (ein Vers pro Zeile, mit Nummer).
+Die deutsche Fassung liegt in `texte/leichte-sprache/<testament>/<Buch>/kapitel_NNN.md`.
 
 ## Aufbau jeder Kapiteldatei
 
@@ -25,7 +25,7 @@ Die deutsche Fassung liegt in `deutsch/<Buch>/kapitel_NNN.md`.
 ## Treue zum Text
 
 - **Kein Vers, keine Aussage, kein Name wird weggelassen.** Auch Namenslisten, Zahlen, Daten und Maße kommen vollständig vor.
-- Jeder Vers beginnt im deutschen Text mit seiner Nummer in eckigen Klammern: `[1]`, `[2]`, … Das Programm `pruefen.py` kontrolliert, dass jedes Kapitel alle Verse in der richtigen Reihenfolge hat.
+- Jeder Vers beginnt im deutschen Text mit seiner Nummer in eckigen Klammern: `[1]`, `[2]`, … Das Programm `werkzeuge/bauen.py` kontrolliert, dass jedes Kapitel alle Verse in der richtigen Reihenfolge hat.
 - Nichts dazuerfinden. Kurze Worterklärungen im Text („Das heißt: …“) sind erlaubt.
 - Maße und Zahlen werden in heutige Einheiten umgerechnet (z. B. Elle → Meter). Die alte Einheit wird in der Erklärung genannt.
 - Deutungen gehören nur in „Was bedeutet das?“, nicht in den Bibeltext.

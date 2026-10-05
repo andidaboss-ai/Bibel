@@ -1,11 +1,74 @@
 # Fortschritt
 
-| Buch | Kapitel fertig |
-|---|---|
-| 1. Mose | 1–41 (von 50), neu geschrieben, alle Verse geprüft |
+Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-Gesamt: 41 von 1189 Kapiteln (66 Bücher)
+**Gesamt: 41 von 1189 Kapiteln (3.4 %), 1253 von 31098 Versen.**
 
-Die erste Fassung liegt in archiv/erste_fassung.
-
-Nächster Schritt: 1. Mose 42
+| Nr | Buch | Testament | Kapitel fertig | Stand |
+|---|---|---|---|---|
+| 1 | 1. Mose | AT | 41 / 50 | in Arbeit |
+| 2 | 2. Mose | AT | 0 / 40 | – |
+| 3 | 3. Mose | AT | 0 / 27 | – |
+| 4 | 4. Mose | AT | 0 / 36 | – |
+| 5 | 5. Mose | AT | 0 / 34 | – |
+| 6 | Josua | AT | 0 / 24 | – |
+| 7 | Richter | AT | 0 / 21 | – |
+| 8 | Rut | AT | 0 / 4 | – |
+| 9 | 1. Samuel | AT | 0 / 31 | – |
+| 10 | 2. Samuel | AT | 0 / 24 | – |
+| 11 | 1. Könige | AT | 0 / 22 | – |
+| 12 | 2. Könige | AT | 0 / 25 | – |
+| 13 | 1. Chronik | AT | 0 / 29 | – |
+| 14 | 2. Chronik | AT | 0 / 36 | – |
+| 15 | Esra | AT | 0 / 10 | – |
+| 16 | Nehemia | AT | 0 / 13 | – |
+| 17 | Ester | AT | 0 / 10 | – |
+| 18 | Hiob | AT | 0 / 42 | – |
+| 19 | Psalmen | AT | 0 / 150 | – |
+| 20 | Sprüche | AT | 0 / 31 | – |
+| 21 | Prediger | AT | 0 / 12 | – |
+| 22 | Hoheslied | AT | 0 / 8 | – |
+| 23 | Jesaja | AT | 0 / 66 | – |
+| 24 | Jeremia | AT | 0 / 52 | – |
+| 25 | Klagelieder | AT | 0 / 5 | – |
+| 26 | Hesekiel | AT | 0 / 48 | – |
+| 27 | Daniel | AT | 0 / 12 | – |
+| 28 | Hosea | AT | 0 / 14 | – |
+| 29 | Joel | AT | 0 / 3 | – |
+| 30 | Amos | AT | 0 / 9 | – |
+| 31 | Obadja | AT | 0 / 1 | – |
+| 32 | Jona | AT | 0 / 4 | – |
+| 33 | Micha | AT | 0 / 7 | – |
+| 34 | Nahum | AT | 0 / 3 | – |
+| 35 | Habakuk | AT | 0 / 3 | – |
+| 36 | Zefanja | AT | 0 / 3 | – |
+| 37 | Haggai | AT | 0 / 2 | – |
+| 38 | Sacharja | AT | 0 / 14 | – |
+| 39 | Maleachi | AT | 0 / 4 | – |
+| 40 | Matthäus | NT | 0 / 28 | – |
+| 41 | Markus | NT | 0 / 16 | – |
+| 42 | Lukas | NT | 0 / 24 | – |
+| 43 | Johannes | NT | 0 / 21 | – |
+| 44 | Apostelgeschichte | NT | 0 / 28 | – |
+| 45 | Römer | NT | 0 / 16 | – |
+| 46 | 1. Korinther | NT | 0 / 16 | – |
+| 47 | 2. Korinther | NT | 0 / 13 | – |
+| 48 | Galater | NT | 0 / 6 | – |
+| 49 | Epheser | NT | 0 / 6 | – |
+| 50 | Philipper | NT | 0 / 4 | – |
+| 51 | Kolosser | NT | 0 / 4 | – |
+| 52 | 1. Thessalonicher | NT | 0 / 5 | – |
+| 53 | 2. Thessalonicher | NT | 0 / 3 | – |
+| 54 | 1. Timotheus | NT | 0 / 6 | – |
+| 55 | 2. Timotheus | NT | 0 / 4 | – |
+| 56 | Titus | NT | 0 / 3 | – |
+| 57 | Philemon | NT | 0 / 1 | – |
+| 58 | Hebräer | NT | 0 / 13 | – |
+| 59 | Jakobus | NT | 0 / 5 | – |
+| 60 | 1. Petrus | NT | 0 / 5 | – |
+| 61 | 2. Petrus | NT | 0 / 3 | – |
+| 62 | 1. Johannes | NT | 0 / 5 | – |
+| 63 | 2. Johannes | NT | 0 / 1 | – |
+| 64 | 3. Johannes | NT | 0 / 1 | – |
+| 65 | Judas | NT | 0 / 1 | – |
+| 66 | Offenbarung | NT | 0 / 22 | – |

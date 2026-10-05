@@ -1,2 +1,4 @@
 quelle/
 *.zip
+ausgabe/bibel.sqlite
+__pycache__/
