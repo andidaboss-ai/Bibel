@@ -26,6 +26,7 @@ Die deutsche Fassung liegt in `texte/leichte-sprache/<testament>/<Buch>/kapitel_
 
 - **Kein Vers, keine Aussage, kein Name wird weggelassen.** Auch Namenslisten, Zahlen, Daten und Maße kommen vollständig vor.
 - Jeder Vers beginnt im deutschen Text mit seiner Nummer in eckigen Klammern: `[1]`, `[2]`, … Das Programm `werkzeuge/bauen.py` kontrolliert, dass jedes Kapitel alle Verse in der richtigen Reihenfolge hat.
+- **Verszählung:** Die Versnummern folgen der englischen Vorlage (World English Bible). An einigen Stellen zählen deutsche Bibeln anders, zum Beispiel in 2. Mose 8 oder bei den Überschriften der Psalmen. Wo das vorkommt, wird es in der Erklärung erwähnt.
 - Nichts dazuerfinden. Kurze Worterklärungen im Text („Das heißt: …“) sind erlaubt.
 - Maße und Zahlen werden in heutige Einheiten umgerechnet (z. B. Elle → Meter). Die alte Einheit wird in der Erklärung genannt.
 - Deutungen gehören nur in „Was bedeutet das?“, nicht in den Bibeltext.

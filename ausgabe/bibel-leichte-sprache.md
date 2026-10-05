@@ -8475,3 +8475,771 @@ Und du hast dein Volk überhaupt nicht gerettet!“
 > Er bringt seine Enttäuschung direkt vor Gott. Er klagt Gott sogar an: „Warum hast du das getan?“
 > Das ist erlaubt. In der Bibel dürfen Menschen ihren Schmerz, ihre Wut und ihre Enttäuschung vor Gott aussprechen. Ein ehrliches Klagegebet ist auch ein Gebet.
 > Im nächsten Kapitel antwortet Gott ihm.
+
+## 2. Mose – Kapitel 6
+#### Gottes Versprechen – die Familie von Mose und Aaron
+
+---
+
+### „Ich bin der HERR“ (Vers 1–8)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Jetzt wirst du sehen, was ich mit dem Pharao mache.
+Durch eine starke Hand gezwungen, wird er sie ziehen lassen.
+Ja, durch eine starke Hand gezwungen, wird er sie sogar aus seinem Land jagen.“
+
+<sup>2</sup>Und Gott redete mit Mose.
+Er sagte zu ihm:
+„Ich bin der HERR.
+<sup>3</sup>Ich bin Abraham, Isaak und Jakob als Gott, der Allmächtige, erschienen.
+Aber mit meinem Namen ‚der HERR‘ habe ich mich ihnen nicht zu erkennen gegeben.
+<sup>4</sup>Ich habe auch meinen Bund mit ihnen geschlossen.
+Ich habe versprochen, ihnen das Land Kanaan zu geben,
+das Land, in dem sie als Fremde umhergezogen sind.
+<sup>5</sup>Und ich habe das Stöhnen der Israeliten gehört,
+die die Ägypter als Sklaven halten.
+Und ich habe an meinen Bund gedacht.
+
+<sup>6</sup>Darum sag zu den Israeliten:
+‚Ich bin der HERR.
+Ich führe euch heraus aus der Zwangsarbeit für die Ägypter.
+Ich rette euch aus der Sklaverei.
+Ich befreie euch mit ausgestrecktem Arm und mit gewaltigen Strafgerichten.
+<sup>7</sup>Ich nehme euch als mein Volk an.
+Und ich will euer Gott sein.
+Dann werdet ihr erkennen, dass ich der HERR bin, euer Gott,
+der euch aus der Zwangsarbeit für die Ägypter herausführt.
+<sup>8</sup>Ich bringe euch in das Land, das ich Abraham, Isaak und Jakob mit erhobener Hand versprochen habe.
+Ich gebe es euch als Besitz.
+Ich bin der HERR.‘“
+
+> **Was bedeutet das?**
+> Mose hatte Gott angeklagt (Kapitel 5). Gott antwortet nicht mit einer Erklärung, sondern mit Versprechen.
+> Vers 3 ist schwer zu verstehen: Die Väter haben den Namen „HERR“ im 1. Buch Mose schon benutzt. Viele Ausleger verstehen es so: Die Väter kannten den Namen, aber sie haben noch nicht erlebt, was er bedeutet. Erst jetzt, bei der Befreiung aus Ägypten, zeigt Gott, wer er wirklich ist: der Gott, der da ist und rettet.
+> Der Anfang und das Ende dieser Rede ist derselbe Satz: „Ich bin der HERR.“ Alles, was Gott verspricht, steht auf diesem Fundament.
+> Gott verspricht sieben Dinge: herausführen, retten, befreien, als Volk annehmen, Gott sein, ins Land bringen, das Land geben. Bis heute erinnern sich Juden beim Passafest mit vier Bechern Wein an diese Versprechen.
+> „Mit erhobener Hand versprechen“ heißt: feierlich schwören.
+
+---
+
+### Niemand hört zu (Vers 9–13)
+
+<sup>9</sup>Mose sagte das alles den Israeliten.
+Aber sie hörten nicht auf Mose.
+Denn sie waren mutlos und verzweifelt wegen der harten Sklavenarbeit.
+
+<sup>10</sup>Da sagte der HERR zu Mose:
+<sup>11</sup>„Geh hinein und sag zum Pharao, dem König von Ägypten,
+dass er die Israeliten aus seinem Land ziehen lassen soll.“
+<sup>12</sup>Aber Mose sagte zum HERRN:
+„Schau, nicht einmal die Israeliten hören auf mich.
+Wie soll dann der Pharao auf mich hören?
+Ich kann doch nicht gut reden.“
+
+<sup>13</sup>Da redete der HERR mit Mose und Aaron.
+Er gab ihnen den Auftrag für die Israeliten und für den Pharao, den König von Ägypten:
+Sie sollten die Israeliten aus dem Land Ägypten herausführen.
+
+> **Was bedeutet das?**
+> Die Israeliten können die gute Nachricht nicht mehr hören. Sie sind zu erschöpft und zu verzweifelt. Wer sehr leidet, kann manchmal keine Hoffnung mehr annehmen.
+> Das ist verständlich. Gott wirft es ihnen nicht vor.
+> Mose sagt wörtlich: „Ich habe unbeschnittene Lippen.“ Das ist ein altes Bild und heißt: Ich bin ungeschickt beim Reden.
+
+---
+
+### Die Familien von Ruben, Simeon und Levi (Vers 14–25)
+
+<sup>14</sup>Das sind die Oberhäupter ihrer Familien:
+Die Söhne von Ruben, dem Erstgeborenen Israels:
+Henoch, Pallu, Hezron und Karmi.
+Das sind die Sippen von Ruben.
+<sup>15</sup>Die Söhne von Simeon:
+Jemuël, Jamin, Ohad, Jachin, Zohar
+und Schaul, der Sohn einer Kanaaniterin.
+Das sind die Sippen von Simeon.
+
+<sup>16</sup>Das sind die Namen der Söhne von Levi in der Reihenfolge ihrer Geburt:
+Gerschon, Kehat und Merari.
+Levi wurde 137 Jahre alt.
+<sup>17</sup>Die Söhne von Gerschon:
+Libni und Schimi, mit ihren Sippen.
+<sup>18</sup>Die Söhne von Kehat:
+Amram, Jizhar, Hebron und Usiël.
+Kehat wurde 133 Jahre alt.
+<sup>19</sup>Die Söhne von Merari:
+Machli und Muschi.
+Das sind die Sippen der Leviten in der Reihenfolge ihrer Geburt.
+
+<sup>20</sup>Amram heiratete Jochebed, die Schwester seines Vaters.
+Sie gebar ihm Aaron und Mose.
+Amram wurde 137 Jahre alt.
+<sup>21</sup>Die Söhne von Jizhar:
+Korach, Nefeg und Sichri.
+<sup>22</sup>Die Söhne von Usiël:
+Mischaël, Elizafan und Sitri.
+
+<sup>23</sup>Aaron heiratete Elischeba.
+Sie war die Tochter von Amminadab und die Schwester von Nachschon.
+Sie gebar ihm Nadab, Abihu, Eleasar und Itamar.
+<sup>24</sup>Die Söhne von Korach:
+Assir, Elkana und Abiasaf.
+Das sind die Sippen der Korachiter.
+<sup>25</sup>Eleasar, der Sohn Aarons, heiratete eine der Töchter von Putiël.
+Sie gebar ihm Pinhas.
+Das sind die Oberhäupter der Familien der Leviten nach ihren Sippen.
+
+> **Was bedeutet das?**
+> Mitten in der spannenden Geschichte kommt plötzlich eine Familienliste. Sie zeigt: Mose und Aaron sind nicht irgendwer. Sie haben eine Herkunft. Sie stammen von Levi ab, einem Sohn Jakobs.
+> Die Liste beginnt mit Ruben und Simeon, den ältesten Söhnen Jakobs, und kommt dann zu Levi. Bei Levi wird sie ausführlich, denn aus diesem Stamm kommen Mose und Aaron und später alle Priester.
+> Moses Eltern heißen Amram und Jochebed. Jochebed war die Tante von Amram. Später hat Gott solche Ehen verboten (3. Mose 18,12).
+> Einige Namen werden später noch wichtig: Korach wird einen Aufstand gegen Mose anführen (4. Mose 16). Nadab und Abihu sterben, weil sie Gott nicht ehren (3. Mose 10). Pinhas wird ein mutiger Priester.
+> Nachschon war später der Anführer des Stammes Juda und ein Vorfahr von König David.
+
+---
+
+### Mose und Aaron (Vers 26–30)
+
+<sup>26</sup>Das sind dieser Aaron und dieser Mose, zu denen der HERR gesagt hat:
+„Führt die Israeliten aus dem Land Ägypten heraus, geordnet nach ihren Heerscharen.“
+<sup>27</sup>Sie sind es, die mit dem Pharao, dem König von Ägypten, geredet haben,
+um die Israeliten aus Ägypten herauszuführen.
+Das sind dieser Mose und dieser Aaron.
+
+<sup>28</sup>An dem Tag, als der HERR im Land Ägypten mit Mose redete,
+<sup>29</sup>sagte der HERR zu Mose:
+„Ich bin der HERR.
+Sag dem Pharao, dem König von Ägypten, alles, was ich dir sage.“
+<sup>30</sup>Aber Mose sagte zum HERRN:
+„Schau, ich kann doch nicht gut reden.
+Wie soll der Pharao da auf mich hören?“
+
+> **Was bedeutet das?**
+> Nach der Liste kehrt die Erzählung genau dorthin zurück, wo sie aufgehört hat: zu Moses Zweifel.
+> „Heerscharen“ heißt hier: das Volk, geordnet wie ein großes Heer. Die Sklaven sollen nicht als ungeordnete Flüchtlinge ausziehen, sondern als Gottes Volk.
+
+## 2. Mose – Kapitel 7
+#### Aarons Stab – die erste Plage: Blut
+
+---
+
+### Mose und Aaron bekommen ihren Auftrag (Vers 1–7)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Schau: Ich mache dich für den Pharao wie zu einem Gott.
+Und dein Bruder Aaron soll dein Prophet sein.
+<sup>2</sup>Du sollst alles sagen, was ich dir befehle.
+Und dein Bruder Aaron soll es dem Pharao sagen,
+damit er die Israeliten aus seinem Land ziehen lässt.
+
+<sup>3</sup>Aber ich werde das Herz des Pharao hart machen.
+Und ich werde viele Zeichen und Wunder im Land Ägypten tun.
+<sup>4</sup>Der Pharao wird nicht auf euch hören.
+Darum werde ich meine Hand gegen Ägypten erheben.
+Ich werde meine Heerscharen, mein Volk, die Israeliten, aus dem Land Ägypten herausführen,
+mit gewaltigen Strafgerichten.
+<sup>5</sup>Dann werden die Ägypter erkennen, dass ich der HERR bin,
+wenn ich meine Hand gegen Ägypten ausstrecke
+und die Israeliten aus ihrer Mitte herausführe.“
+
+<sup>6</sup>Mose und Aaron machten es so.
+Sie taten genau, was der HERR ihnen befohlen hatte.
+<sup>7</sup>Mose war 80 Jahre alt und Aaron 83, als sie mit dem Pharao redeten.
+
+> **Was bedeutet das?**
+> Ein Prophet ist jemand, der Gottes Worte an andere weitergibt. Hier gibt Mose Gottes Worte an Aaron, und Aaron sagt sie dem Pharao.
+> Der Pharao hält sich selbst für einen Gott. Jetzt steht ein alter Hirte vor ihm, der mit der Macht des wahren Gottes spricht.
+> Immer wieder steht: Die Ägypter sollen „erkennen, dass ich der HERR bin“. Erinnere dich: Der Pharao hatte gesagt: „Ich kenne den HERRN nicht“ (Kapitel 5,2). Jetzt wird er ihn kennenlernen.
+> Mose ist 80 Jahre alt! Für Gott ist es nie zu spät, jemanden zu gebrauchen.
+
+---
+
+### Der Stab wird zur Schlange (Vers 8–13)
+
+<sup>8</sup>Der HERR sagte zu Mose und Aaron:
+<sup>9</sup>„Wenn der Pharao zu euch sagt: ‚Tut ein Wunder!‘,
+dann sag zu Aaron:
+‚Nimm deinen Stab und wirf ihn vor dem Pharao hin.‘
+Dann wird er zu einer Schlange.“
+
+<sup>10</sup>Da gingen Mose und Aaron zum Pharao.
+Sie taten, was der HERR befohlen hatte.
+Aaron warf seinen Stab vor dem Pharao und seinen Beamten hin.
+Und der Stab wurde zu einer Schlange.
+
+<sup>11</sup>Da ließ auch der Pharao seine Weisen und Zauberer rufen.
+Auch die ägyptischen Wahrsager machten mit ihren Zauberkünsten das Gleiche.
+<sup>12</sup>Jeder warf seinen Stab hin, und die Stäbe wurden zu Schlangen.
+Aber Aarons Stab verschlang ihre Stäbe.
+
+<sup>13</sup>Doch das Herz des Pharao blieb hart.
+Er hörte nicht auf sie, so wie der HERR es gesagt hatte.
+
+> **Was bedeutet das?**
+> Die ägyptischen Zauberer können den Trick nachmachen. Aber Aarons Stab frisst ihre Stäbe auf. Das zeigt: Gottes Macht ist größer als alle Zauberei Ägyptens.
+> Trotzdem lässt sich der Pharao nicht beeindrucken. Ein hartes Herz sieht auch ein Wunder nicht.
+> Die Zauberer werden später „Jannes und Jambres“ genannt (2. Timotheus 3,8). In diesem Kapitel stehen ihre Namen aber nicht.
+
+---
+
+### Die erste Plage: Das Wasser wird zu Blut (Vers 14–25)
+
+<sup>14</sup>Der HERR sagte zu Mose:
+„Das Herz des Pharao ist verstockt.
+Er weigert sich, das Volk ziehen zu lassen.
+<sup>15</sup>Geh morgen früh zum Pharao.
+Schau, er geht dann zum Wasser hinaus.
+Stell dich ans Ufer des Nils, ihm in den Weg.
+Nimm den Stab in die Hand, der sich in eine Schlange verwandelt hat.
+<sup>16</sup>Und sag zu ihm:
+‚Der HERR, der Gott der Hebräer, hat mich zu dir geschickt.
+Er lässt dir sagen: Lass mein Volk ziehen, damit es mir in der Wüste dienen kann.
+Aber schau: Bis jetzt hast du nicht gehört.
+<sup>17</sup>So spricht der HERR: Daran sollst du erkennen, dass ich der HERR bin:
+Schau, ich schlage mit dem Stab in meiner Hand auf das Wasser im Nil.
+Dann wird es zu Blut.
+<sup>18</sup>Die Fische im Nil werden sterben.
+Und der Nil wird stinken.
+Die Ägypter werden sich ekeln, Wasser aus dem Nil zu trinken.‘“
+
+<sup>19</sup>Und der HERR sagte zu Mose:
+„Sag zu Aaron:
+‚Nimm deinen Stab und streck deine Hand über die Gewässer Ägyptens aus:
+über ihre Flüsse, ihre Kanäle, ihre Teiche und über alle ihre Wasserstellen.
+Dann sollen sie zu Blut werden.
+Im ganzen Land Ägypten soll Blut sein,
+sogar in den Gefäßen aus Holz und aus Stein.‘“
+
+<sup>20</sup>Mose und Aaron machten es so, wie der HERR befohlen hatte.
+Er hob den Stab und schlug auf das Wasser im Nil,
+vor den Augen des Pharao und seiner Beamten.
+Da wurde alles Wasser im Nil zu Blut.
+<sup>21</sup>Die Fische im Nil starben.
+Der Nil stank.
+Die Ägypter konnten kein Wasser mehr aus dem Nil trinken.
+Im ganzen Land Ägypten war Blut.
+
+<sup>22</sup>Aber die ägyptischen Wahrsager machten mit ihren Zauberkünsten das Gleiche.
+Darum blieb das Herz des Pharao hart.
+Er hörte nicht auf sie, so wie der HERR es gesagt hatte.
+<sup>23</sup>Der Pharao drehte sich um und ging in seinen Palast.
+Er nahm sich auch das nicht zu Herzen.
+<sup>24</sup>Alle Ägypter gruben rund um den Nil nach Trinkwasser.
+Denn sie konnten das Wasser aus dem Nil nicht trinken.
+
+<sup>25</sup>So vergingen sieben Tage, nachdem der HERR den Nil geschlagen hatte.
+
+> **Was bedeutet das?**
+> Jetzt beginnen die zehn Plagen. Eine Plage ist ein großes Unglück, das über ein Land kommt.
+> Der Nil war das Herz Ägyptens. Die Ägypter verehrten ihn als Gott. Gott zeigt: Der Nil ist kein Gott. Ich bin der Herr über ihn.
+> Erinnere dich: Der Pharao hat befohlen, die hebräischen Babys in den Nil zu werfen (Kapitel 1,22). Jetzt wird der Nil selbst zu Blut.
+> Der Pharao geht einfach nach Hause. Er hat ja genug zu trinken. Das Leid seines Volkes ist ihm egal.
+> Manche Forscher versuchen, die Plagen mit natürlichen Ereignissen zu erklären, zum Beispiel mit roten Algen im Nil. Die Bibel erzählt sie als Taten Gottes. Wichtig ist nicht, wie es geschah, sondern was es zeigt: Gott ist mächtiger als der Pharao und seine Götter.
+
+## 2. Mose – Kapitel 8
+#### Frösche, Läuse und Fliegen
+
+---
+
+### Die zweite Plage: Frösche (Vers 1–15)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Geh zum Pharao und sag zu ihm:
+‚So spricht der HERR:
+Lass mein Volk ziehen, damit es mir dienen kann.
+<sup>2</sup>Wenn du dich weigerst, sie ziehen zu lassen,
+dann schau: Ich werde dein ganzes Land mit Fröschen plagen.
+<sup>3</sup>Im Nil wird es von Fröschen wimmeln.
+Sie werden herauskommen und in deinen Palast kommen,
+in dein Schlafzimmer und auf dein Bett,
+in die Häuser deiner Beamten und zu deinem Volk,
+in deine Backöfen und in deine Backtröge.
+<sup>4</sup>Die Frösche werden auf dich springen,
+auf dein Volk und auf alle deine Beamten.‘“
+
+<sup>5</sup>Der HERR sagte zu Mose:
+„Sag zu Aaron:
+‚Streck deine Hand mit deinem Stab aus über die Flüsse, die Kanäle und die Teiche.
+Lass Frösche über das Land Ägypten kommen.‘“
+<sup>6</sup>Da streckte Aaron seine Hand über die Gewässer Ägyptens aus.
+Und die Frösche kamen heraus und bedeckten das Land Ägypten.
+<sup>7</sup>Aber die Wahrsager machten mit ihren Zauberkünsten das Gleiche.
+Auch sie ließen Frösche über das Land Ägypten kommen.
+
+<sup>8</sup>Da ließ der Pharao Mose und Aaron rufen.
+Er sagte:
+„Betet zum HERRN, dass er die Frösche von mir und meinem Volk wegnimmt.
+Dann will ich das Volk ziehen lassen, damit es dem HERRN Opfer bringen kann.“
+<sup>9</sup>Mose sagte zum Pharao:
+„Du darfst bestimmen, wann ich für dich, deine Beamten und dein Volk beten soll,
+damit die Frösche von dir und aus deinen Häusern verschwinden
+und nur noch im Nil bleiben.“
+<sup>10</sup>Der Pharao sagte:
+„Morgen.“
+Mose sagte:
+„Es soll so geschehen, wie du sagst.
+Dann wirst du erkennen, dass niemand ist wie der HERR, unser Gott.
+<sup>11</sup>Die Frösche werden von dir weichen,
+aus deinen Häusern, von deinen Beamten und von deinem Volk.
+Nur im Nil werden sie bleiben.“
+
+<sup>12</sup>Dann gingen Mose und Aaron vom Pharao weg.
+Und Mose schrie zum HERRN wegen der Frösche, die er über den Pharao gebracht hatte.
+<sup>13</sup>Der HERR tat, worum Mose gebeten hatte.
+Die Frösche starben in den Häusern, in den Höfen und auf den Feldern.
+<sup>14</sup>Man schüttete sie auf große Haufen.
+Und das ganze Land stank.
+<sup>15</sup>Aber als der Pharao sah, dass er wieder Luft hatte, machte er sein Herz hart.
+Er hörte nicht auf sie, so wie der HERR es gesagt hatte.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln stehen die Verse dieses Kapitels oft mit anderen Nummern. Dort ist der Anfang (Vers 1–4) noch Teil von Kapitel 7. Diese Übertragung folgt der Zählung der englischen Vorlage.
+> Frösche überall: im Bett, im Backofen, im Teig. Eine eklige, lästige Plage. Die Ägypter verehrten eine Göttin mit Froschkopf, die für Fruchtbarkeit stand. Jetzt werden Frösche zur Plage.
+> Die Zauberer können zwar noch mehr Frösche herbeizaubern – aber nicht ein einziger verschwindet durch sie. Nur Gott kann die Plage beenden.
+> Mose lässt den Pharao den Zeitpunkt bestimmen. So kann niemand sagen, es sei ein Zufall gewesen.
+> Kaum ist die Not vorbei, vergisst der Pharao sein Versprechen. Das kennt man auch von Menschen heute: In der Not beten sie, danach ist alles vergessen.
+
+---
+
+### Die dritte Plage: Läuse (Vers 16–19)
+
+<sup>16</sup>Der HERR sagte zu Mose:
+„Sag zu Aaron:
+‚Streck deinen Stab aus und schlag auf den Staub der Erde.
+Dann wird er im ganzen Land Ägypten zu Läusen.‘“
+<sup>17</sup>Sie machten es so.
+Aaron streckte seine Hand mit dem Stab aus und schlug auf den Staub der Erde.
+Da kamen Läuse über Menschen und Tiere.
+Aller Staub der Erde wurde im ganzen Land Ägypten zu Läusen.
+
+<sup>18</sup>Die Wahrsager versuchten mit ihren Zauberkünsten auch, Läuse hervorzubringen.
+Aber sie konnten es nicht.
+Und die Läuse waren auf Menschen und Tieren.
+<sup>19</sup>Da sagten die Wahrsager zum Pharao:
+„Das ist der Finger Gottes!“
+Aber das Herz des Pharao blieb hart.
+Er hörte nicht auf sie, so wie der HERR es gesagt hatte.
+
+> **Was bedeutet das?**
+> Das hebräische Wort kann Läuse, kleine Stechmücken oder Flöhe meinen. Gemeint sind winzige Plagegeister, die überall krabbeln und stechen.
+> Diese Plage kommt ohne Vorwarnung.
+> Jetzt sind die Zauberer am Ende. Sie geben zu: „Das ist der Finger Gottes!“ Das heißt: Hier wirkt eine Macht, die größer ist als alle menschliche Kunst.
+> Die eigenen Berater des Pharao erkennen es. Nur der Pharao will es nicht sehen.
+
+---
+
+### Die vierte Plage: Fliegen (Vers 20–32)
+
+<sup>20</sup>Der HERR sagte zu Mose:
+„Steh morgen früh auf und stell dich vor den Pharao.
+Schau, er geht dann zum Wasser hinaus.
+Sag zu ihm:
+‚So spricht der HERR:
+Lass mein Volk ziehen, damit es mir dienen kann.
+<sup>21</sup>Wenn du mein Volk nicht ziehen lässt,
+dann schau: Ich schicke Schwärme von Fliegen über dich, deine Beamten und dein Volk und in deine Häuser.
+Die Häuser der Ägypter werden voller Fliegenschwärme sein,
+und auch der Boden, auf dem sie stehen.
+<sup>22</sup>Aber an diesem Tag nehme ich das Gebiet Goschen aus, in dem mein Volk wohnt.
+Dort wird es keine Fliegenschwärme geben.
+Daran sollst du erkennen, dass ich, der HERR, mitten in diesem Land bin.
+<sup>23</sup>Ich mache einen Unterschied zwischen meinem Volk und deinem Volk.
+Morgen wird dieses Zeichen geschehen.‘“
+
+<sup>24</sup>Der HERR tat es.
+Riesige Fliegenschwärme kamen in den Palast des Pharao und in die Häuser seiner Beamten.
+Im ganzen Land Ägypten wurde das Land durch die Fliegenschwärme verwüstet.
+
+<sup>25</sup>Da ließ der Pharao Mose und Aaron rufen.
+Er sagte:
+„Geht und bringt eurem Gott Opfer – aber hier im Land!“
+<sup>26</sup>Mose sagte:
+„Das geht nicht.
+Denn was wir dem HERRN, unserem Gott, opfern, das ist den Ägyptern ein Gräuel.
+Schau, wenn wir vor ihren Augen opfern, was den Ägyptern ein Gräuel ist,
+werden sie uns dann nicht steinigen?
+<sup>27</sup>Wir wollen drei Tagesreisen weit in die Wüste ziehen.
+Dort wollen wir dem HERRN, unserem Gott, opfern, so wie er es uns sagen wird.“
+
+<sup>28</sup>Der Pharao sagte:
+„Ich lasse euch ziehen, damit ihr dem HERRN, eurem Gott, in der Wüste opfern könnt.
+Nur zieht nicht zu weit weg.
+Betet auch für mich!“
+<sup>29</sup>Mose sagte:
+„Schau, ich gehe jetzt von dir weg und bete zum HERRN.
+Morgen werden die Fliegenschwärme vom Pharao, von seinen Beamten und von seinem Volk weichen.
+Nur soll der Pharao uns nicht wieder betrügen
+und das Volk doch nicht ziehen lassen, um dem HERRN zu opfern.“
+
+<sup>30</sup>Dann ging Mose vom Pharao weg und betete zum HERRN.
+<sup>31</sup>Und der HERR tat, worum Mose gebeten hatte.
+Er nahm die Fliegenschwärme vom Pharao, von seinen Beamten und von seinem Volk weg.
+Nicht eine einzige Fliege blieb übrig.
+<sup>32</sup>Aber der Pharao machte sein Herz auch diesmal hart.
+Er ließ das Volk nicht ziehen.
+
+> **Was bedeutet das?**
+> Neu bei dieser Plage: Gott macht einen Unterschied. Das Gebiet Goschen, wo die Israeliten wohnen, bleibt verschont. Das zeigt: Es ist kein Zufall. Gott steht auf der Seite seines Volkes.
+> Der Pharao beginnt zu verhandeln: Erst „Opfert hier im Land“, dann „Geht, aber nicht zu weit“. Er will ein bisschen nachgeben, aber nicht ganz.
+> Die Israeliten opferten Schafe, Ziegen und Rinder. Manche dieser Tiere waren in Ägypten heilig. Ein Opfer vor den Augen der Ägypter hätte großen Zorn ausgelöst.
+> „Betet auch für mich!“ – Der mächtige Pharao braucht die Gebete seiner Sklaven.
+
+## 2. Mose – Kapitel 9
+#### Viehseuche, Geschwüre und Hagel
+
+---
+
+### Die fünfte Plage: Das Vieh stirbt (Vers 1–7)
+
+<sup>1</sup>Dann sagte der HERR zu Mose:
+„Geh zum Pharao und sag zu ihm:
+‚So spricht der HERR, der Gott der Hebräer:
+Lass mein Volk ziehen, damit es mir dienen kann.
+<sup>2</sup>Wenn du dich weigerst, sie ziehen zu lassen, und sie weiter festhältst,
+<sup>3</sup>dann schau: Die Hand des HERRN wird über dein Vieh auf dem Feld kommen,
+über die Pferde, die Esel, die Kamele, die Rinder, die Schafe und Ziegen.
+Eine sehr schwere Seuche wird kommen.
+<sup>4</sup>Aber der HERR wird einen Unterschied machen zwischen dem Vieh Israels und dem Vieh Ägyptens.
+Von allem, was den Israeliten gehört, wird kein einziges Tier sterben.‘“
+
+<sup>5</sup>Der HERR setzte eine feste Zeit fest.
+Er sagte:
+„Morgen wird der HERR das im Land tun.“
+<sup>6</sup>Und am nächsten Tag tat der HERR es.
+Alles Vieh der Ägypter starb.
+Aber vom Vieh der Israeliten starb kein einziges Tier.
+<sup>7</sup>Der Pharao schickte Leute hin, um nachzusehen.
+Und schau: Vom Vieh der Israeliten war nicht ein einziges Tier gestorben.
+Aber das Herz des Pharao blieb verstockt.
+Er ließ das Volk nicht ziehen.
+
+> **Was bedeutet das?**
+> Jetzt trifft es das Vieh. Das war der Reichtum Ägyptens. Auch hier verehrten die Ägypter Götter in Tiergestalt, zum Beispiel einen heiligen Stier.
+> Wieder macht Gott einen Unterschied. Der Pharao überprüft es sogar selbst – und es stimmt. Trotzdem gibt er nicht nach.
+> „Alles Vieh“ heißt hier wohl: das Vieh auf den Feldern. Denn bei der Hagelplage ist wieder von Vieh die Rede.
+
+---
+
+### Die sechste Plage: Geschwüre (Vers 8–12)
+
+<sup>8</sup>Der HERR sagte zu Mose und Aaron:
+„Nehmt euch beide Hände voll Asche aus einem Brennofen.
+Mose soll ihn vor den Augen des Pharao in die Luft werfen.
+<sup>9</sup>Dann wird er zu feinem Staub über dem ganzen Land Ägypten.
+Und er wird an Menschen und Tieren zu Geschwüren werden, die aufbrechen und Blasen bilden,
+im ganzen Land Ägypten.“
+
+<sup>10</sup>Da nahmen sie Asche aus einem Brennofen und stellten sich vor den Pharao.
+Mose warf ihn in die Luft.
+Da bekamen Menschen und Tiere Geschwüre, die aufbrachen und Blasen bildeten.
+<sup>11</sup>Die Wahrsager konnten nicht mehr vor Mose treten, wegen der Geschwüre.
+Denn die Wahrsager hatten die Geschwüre genauso wie alle Ägypter.
+
+<sup>12</sup>Aber der HERR machte das Herz des Pharao hart.
+Er hörte nicht auf sie, so wie der HERR es Mose gesagt hatte.
+
+> **Was bedeutet das?**
+> Ein Geschwür ist eine entzündete, schmerzhafte Stelle auf der Haut, die voller Eiter ist.
+> Asche aus dem Brennofen – vielleicht aus einem Ofen, in dem Ziegel gebrannt wurden. Mit Ziegeln wurden die Israeliten gequält. Jetzt kommt aus diesem Ofen die Strafe.
+> Die Zauberer können nicht einmal mehr stehen. Sie sind selbst krank.
+> Zum ersten Mal steht hier ausdrücklich: „Der HERR machte das Herz des Pharao hart.“ Vorher hat der Pharao es selbst getan, fünfmal. Jetzt bestätigt Gott seine Entscheidung.
+
+---
+
+### Die siebte Plage: Hagel (Vers 13–35)
+
+<sup>13</sup>Der HERR sagte zu Mose:
+„Steh morgen früh auf, stell dich vor den Pharao und sag zu ihm:
+‚So spricht der HERR, der Gott der Hebräer:
+Lass mein Volk ziehen, damit es mir dienen kann.
+<sup>14</sup>Denn diesmal schicke ich alle meine Plagen gegen dich selbst, gegen deine Beamten und gegen dein Volk.
+Daran sollst du erkennen, dass niemand auf der ganzen Erde so ist wie ich.
+<sup>15</sup>Ich hätte meine Hand schon ausstrecken
+und dich und dein Volk mit der Pest schlagen können.
+Dann wärst du von der Erde verschwunden.
+<sup>16</sup>Aber gerade dazu habe ich dich am Leben gelassen:
+um dir meine Macht zu zeigen
+und damit mein Name auf der ganzen Erde bekannt wird.
+<sup>17</sup>Du stellst dich immer noch hochmütig gegen mein Volk und lässt es nicht ziehen.
+<sup>18</sup>Schau: Morgen um diese Zeit lasse ich einen sehr schweren Hagel fallen.
+So einen Hagel hat es in Ägypten noch nie gegeben, seit es Ägypten gibt.
+<sup>19</sup>Darum schick jetzt Leute hin.
+Bring dein Vieh und alles, was du auf dem Feld hast, in Sicherheit.
+Auf alle Menschen und Tiere, die auf dem Feld sind und nicht ins Haus gebracht werden, wird der Hagel fallen.
+Und sie werden sterben.‘“
+
+<sup>20</sup>Wer unter den Beamten des Pharao Ehrfurcht vor dem Wort des HERRN hatte,
+der brachte seine Knechte und sein Vieh schnell in die Häuser.
+<sup>21</sup>Wer aber das Wort des HERRN nicht ernst nahm,
+der ließ seine Knechte und sein Vieh auf dem Feld.
+
+<sup>22</sup>Der HERR sagte zu Mose:
+„Streck deine Hand zum Himmel aus.
+Dann wird im ganzen Land Ägypten Hagel fallen,
+auf Menschen und Tiere und auf alle Pflanzen auf dem Feld, im ganzen Land Ägypten.“
+<sup>23</sup>Da streckte Mose seinen Stab zum Himmel aus.
+Und der HERR ließ es donnern und hageln.
+Blitze zuckten zur Erde.
+Der HERR ließ Hagel auf das Land Ägypten regnen.
+<sup>24</sup>Es war ein sehr schwerer Hagel, und mitten im Hagel zuckten Blitze.
+So etwas hatte es im ganzen Land Ägypten noch nie gegeben, seit es ein Volk war.
+<sup>25</sup>Der Hagel schlug im ganzen Land Ägypten alles nieder, was auf dem Feld war, Menschen und Tiere.
+Der Hagel schlug alle Pflanzen auf dem Feld nieder.
+Und er zerbrach alle Bäume auf dem Feld.
+<sup>26</sup>Nur im Gebiet Goschen, wo die Israeliten wohnten, hagelte es nicht.
+
+<sup>27</sup>Da ließ der Pharao Mose und Aaron rufen.
+Er sagte zu ihnen:
+„Diesmal habe ich gesündigt.
+Der HERR ist im Recht.
+Ich und mein Volk, wir sind im Unrecht.
+<sup>28</sup>Betet zum HERRN!
+Es ist genug mit dem Donner Gottes und dem Hagel.
+Ich will euch ziehen lassen.
+Ihr müsst nicht länger bleiben.“
+
+<sup>29</sup>Mose sagte zu ihm:
+„Sobald ich aus der Stadt hinausgegangen bin, will ich meine Hände zum HERRN ausbreiten.
+Dann wird der Donner aufhören, und es wird nicht mehr hageln.
+Daran sollst du erkennen, dass die Erde dem HERRN gehört.
+<sup>30</sup>Aber ich weiß: Du und deine Beamten, ihr habt noch keine Ehrfurcht vor Gott, dem HERRN.“
+
+<sup>31</sup>Der Flachs und die Gerste waren zerschlagen.
+Denn die Gerste hatte schon Ähren, und der Flachs blühte.
+<sup>32</sup>Aber der Weizen und der Dinkel waren nicht zerschlagen.
+Denn sie wachsen später.
+
+<sup>33</sup>Mose ging vom Pharao weg aus der Stadt hinaus.
+Er breitete seine Hände zum HERRN aus.
+Da hörten der Donner und der Hagel auf.
+Und der Regen strömte nicht mehr auf die Erde.
+<sup>34</sup>Als der Pharao sah, dass Regen, Hagel und Donner aufgehört hatten, sündigte er weiter.
+Er und seine Beamten machten ihre Herzen hart.
+<sup>35</sup>Das Herz des Pharao blieb hart.
+Er ließ die Israeliten nicht ziehen, so wie der HERR es durch Mose gesagt hatte.
+
+> **Was bedeutet das?**
+> Diese Plage ist besonders. Gott warnt vorher und gibt einen Rat: Bringt Menschen und Tiere in Sicherheit. Gott will nicht, dass Menschen sterben.
+> Und einige Ägypter hören auf ihn! Mitten in Ägypten gibt es Menschen, die Gottes Wort ernst nehmen. Gott rettet jeden, der auf ihn hört – egal, aus welchem Volk er kommt.
+> Zum ersten Mal sagt der Pharao: „Ich habe gesündigt.“ Aber Mose durchschaut ihn: Das ist keine echte Reue. Der Pharao hat nur Angst.
+> Flachs ist eine Pflanze, aus der man Leinen macht. Gerste und Weizen sind Getreide. Dinkel ist eine alte Weizenart.
+> Dass Weizen und Dinkel noch nicht zerschlagen sind, ist wichtig: So bleibt noch etwas übrig – für die nächste Plage, die Heuschrecken.
+> Vers 16 zitiert der Apostel Paulus im Neuen Testament (Römer 9,17).
+
+## 2. Mose – Kapitel 10
+#### Heuschrecken und Finsternis
+
+---
+
+### Warnung vor den Heuschrecken (Vers 1–6)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Geh zum Pharao.
+Denn ich habe sein Herz und das Herz seiner Beamten hart gemacht,
+damit ich diese meine Zeichen mitten unter ihnen tun kann.
+<sup>2</sup>Und damit du deinen Kindern und Enkeln erzählen kannst,
+was ich mit den Ägyptern gemacht habe
+und welche Zeichen ich unter ihnen getan habe.
+Dann werdet ihr erkennen, dass ich der HERR bin.“
+
+<sup>3</sup>Da gingen Mose und Aaron zum Pharao und sagten zu ihm:
+„So spricht der HERR, der Gott der Hebräer:
+‚Wie lange willst du dich noch weigern, dich vor mir zu beugen?
+Lass mein Volk ziehen, damit es mir dienen kann.
+<sup>4</sup>Wenn du dich weigerst, mein Volk ziehen zu lassen,
+dann schau: Morgen bringe ich Heuschrecken in dein Land.
+<sup>5</sup>Sie werden den ganzen Erdboden bedecken,
+so dass man den Boden nicht mehr sehen kann.
+Sie werden auffressen, was euch vom Hagel noch übrig geblieben ist.
+Und sie werden jeden Baum abfressen, der bei euch auf dem Feld wächst.
+<sup>6</sup>Deine Häuser werden voll davon sein,
+und die Häuser all deiner Beamten und aller Ägypter.
+So etwas haben weder deine Väter noch deine Großväter gesehen,
+seit sie auf der Erde leben, bis heute.‘“
+Dann drehte Mose sich um und ging vom Pharao weg.
+
+> **Was bedeutet das?**
+> Gott erklärt hier, warum er das alles tut: Die Geschichte soll weitererzählt werden, von Eltern zu Kindern und Enkeln. Bis heute erzählen jüdische Familien diese Geschichte jedes Jahr am Passafest ihren Kindern.
+> Heuschrecken sind große Insekten. Sie fliegen in riesigen Schwärmen mit Millionen von Tieren und fressen in kurzer Zeit alles Grüne kahl. Bis heute sind Heuschreckenschwärme in Afrika und im Nahen Osten eine gefürchtete Plage.
+> „Dich vor mir beugen“ heißt: demütig werden, zugeben, dass Gott größer ist.
+
+---
+
+### Die Beamten werden ungeduldig (Vers 7–11)
+
+<sup>7</sup>Da sagten die Beamten des Pharao zu ihm:
+„Wie lange soll dieser Mann uns noch ins Unglück stürzen?
+Lass die Männer ziehen, damit sie dem HERRN, ihrem Gott, dienen können.
+Merkst du denn immer noch nicht, dass Ägypten zugrunde geht?“
+
+<sup>8</sup>Da holte man Mose und Aaron wieder zum Pharao.
+Er sagte zu ihnen:
+„Geht, dient dem HERRN, eurem Gott.
+Aber wer genau soll denn mitgehen?“
+<sup>9</sup>Mose sagte:
+„Wir gehen mit unseren Jungen und unseren Alten.
+Wir gehen mit unseren Söhnen und unseren Töchtern,
+mit unseren Schafen und Ziegen und mit unseren Rindern.
+Denn wir müssen ein Fest für den HERRN feiern.“
+
+<sup>10</sup>Der Pharao sagte zu ihnen:
+„Der HERR soll mit euch sein, wenn ich euch mit euren Kindern ziehen lasse!
+Seht ihr nicht? Ihr habt Böses vor!
+<sup>11</sup>Nein, so nicht!
+Geht ihr Männer und dient dem HERRN.
+Das wolltet ihr ja.“
+Und man jagte sie vom Pharao weg.
+
+> **Was bedeutet das?**
+> Jetzt drängen sogar die eigenen Beamten den Pharao. Sie sehen: Ägypten geht kaputt. Aber der Pharao bleibt stur.
+> Der Pharao will nur die Männer ziehen lassen. Die Frauen und Kinder sollen als Pfand dableiben. Dann würden die Männer bestimmt zurückkommen.
+> Mose besteht darauf: Alle gehören dazu. Jung und Alt, Männer und Frauen. Ein Fest für Gott ist ein Fest für die ganze Familie.
+> „Der HERR soll mit euch sein“ meint der Pharao spöttisch. Er glaubt nicht daran.
+
+---
+
+### Die achte Plage: Heuschrecken (Vers 12–20)
+
+<sup>12</sup>Der HERR sagte zu Mose:
+„Streck deine Hand über das Land Ägypten aus,
+damit die Heuschrecken über das Land Ägypten kommen
+und alle Pflanzen im Land auffressen, alles, was der Hagel übrig gelassen hat.“
+<sup>13</sup>Da streckte Mose seinen Stab über das Land Ägypten aus.
+Und der HERR ließ den ganzen Tag und die ganze Nacht einen Ostwind über das Land wehen.
+Als es Morgen wurde, hatte der Ostwind die Heuschrecken gebracht.
+
+<sup>14</sup>Die Heuschrecken kamen über das ganze Land Ägypten.
+Sie ließen sich im ganzen Gebiet Ägyptens nieder.
+Es waren unglaublich viele.
+So viele Heuschrecken hatte es vorher nie gegeben, und es wird auch nie wieder so viele geben.
+<sup>15</sup>Sie bedeckten den ganzen Erdboden, so dass das Land dunkel wurde.
+Sie fraßen alle Pflanzen im Land und alle Früchte an den Bäumen, die der Hagel übrig gelassen hatte.
+Im ganzen Land Ägypten blieb nichts Grünes übrig, kein Baum und keine Pflanze auf dem Feld.
+
+<sup>16</sup>Da ließ der Pharao schnell Mose und Aaron rufen.
+Er sagte:
+„Ich habe gegen den HERRN, euren Gott, und gegen euch gesündigt.
+<sup>17</sup>Vergebt mir doch noch dieses eine Mal meine Sünde.
+Und betet zum HERRN, eurem Gott, dass er wenigstens dieses tödliche Unglück von mir wegnimmt.“
+<sup>18</sup>Da ging Mose vom Pharao weg und betete zum HERRN.
+<sup>19</sup>Da ließ der HERR einen sehr starken Westwind wehen.
+Der trug die Heuschrecken fort und warf sie ins Rote Meer.
+Im ganzen Gebiet Ägyptens blieb keine einzige Heuschrecke übrig.
+
+<sup>20</sup>Aber der HERR machte das Herz des Pharao hart.
+Er ließ die Israeliten nicht ziehen.
+
+> **Was bedeutet das?**
+> Was der Hagel übrig gelassen hat, fressen jetzt die Heuschrecken. Ägypten ist kahl. Es droht eine Hungersnot.
+> Der Pharao gibt seine Schuld zu – wieder nur aus Not.
+> Im hebräischen Urtext heißt das Meer „Schilfmeer“. Viele Bibeln sagen „Rotes Meer“. Durch dieses Meer werden die Israeliten später ziehen.
+
+---
+
+### Die neunte Plage: Finsternis (Vers 21–29)
+
+<sup>21</sup>Der HERR sagte zu Mose:
+„Streck deine Hand zum Himmel aus.
+Dann wird eine Finsternis über das Land Ägypten kommen,
+eine Finsternis, die man mit Händen greifen kann.“
+<sup>22</sup>Da streckte Mose seine Hand zum Himmel aus.
+Und im ganzen Land Ägypten war drei Tage lang tiefe Finsternis.
+<sup>23</sup>Niemand konnte den anderen sehen.
+Drei Tage lang stand niemand von seinem Platz auf.
+Aber bei allen Israeliten war Licht in ihren Wohnungen.
+
+<sup>24</sup>Da ließ der Pharao Mose rufen.
+Er sagte:
+„Geht und dient dem HERRN.
+Nur eure Schafe und Ziegen und eure Rinder sollen hierbleiben.
+Eure Kinder dürfen mit euch gehen.“
+<sup>25</sup>Mose sagte:
+„Du musst uns auch Tiere für Schlachtopfer und Brandopfer mitgeben,
+damit wir sie dem HERRN, unserem Gott, opfern können.
+<sup>26</sup>Auch unser Vieh muss mitgehen.
+Nicht eine einzige Klaue darf zurückbleiben.
+Denn davon müssen wir nehmen, um dem HERRN, unserem Gott, zu dienen.
+Und wir wissen erst, womit wir dem HERRN dienen sollen, wenn wir dort angekommen sind.“
+
+<sup>27</sup>Aber der HERR machte das Herz des Pharao hart.
+Er wollte sie nicht ziehen lassen.
+<sup>28</sup>Der Pharao sagte zu Mose:
+„Geh weg von mir!
+Hüte dich, mir je wieder unter die Augen zu kommen!
+Denn an dem Tag, an dem du mir wieder unter die Augen kommst, musst du sterben!“
+<sup>29</sup>Mose sagte:
+„Du hast recht.
+Ich werde dir nie wieder unter die Augen kommen.“
+
+> **Was bedeutet das?**
+> Der höchste Gott der Ägypter war der Sonnengott Re. Der Pharao galt als sein Sohn. Jetzt ist die Sonne drei Tage lang verschwunden. Der Sonnengott ist machtlos.
+> Aber bei den Israeliten ist Licht. Das ist ein starkes Bild: Mitten in der Dunkelheit hat Gottes Volk Licht.
+> Wieder will der Pharao verhandeln: Jetzt dürfen alle Menschen gehen, aber das Vieh soll bleiben. Ohne Vieh könnten sie in der Wüste nicht überleben – und müssten zurückkommen.
+> „Nicht eine Klaue“ heißt: kein einziges Tier.
+> Der Pharao droht Mose mit dem Tod. Mose antwortet ruhig: Gut, wir werden uns nicht wiedersehen. Das Gespräch ist zu Ende. Jetzt kommt die letzte Plage.
+
+## 2. Mose – Kapitel 11
+#### Die Ankündigung der letzten Plage
+
+---
+
+### Noch eine Plage (Vers 1–3)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Ich bringe noch eine einzige Plage über den Pharao und über Ägypten.
+Danach wird er euch von hier wegziehen lassen.
+Ja, er wird euch nicht nur ziehen lassen – er wird euch sogar mit Gewalt wegjagen.
+<sup>2</sup>Sag dem Volk:
+Jeder Mann soll seinen Nachbarn und jede Frau ihre Nachbarin um Schmuck aus Silber und Gold bitten.“
+<sup>3</sup>Und der HERR sorgte dafür, dass die Ägypter dem Volk wohlgesinnt waren.
+Auch Mose selbst war im Land Ägypten ein sehr angesehener Mann,
+bei den Beamten des Pharao und beim Volk.
+
+> **Was bedeutet das?**
+> Gott erinnert an sein Versprechen aus Kapitel 3: Die Israeliten sollen nicht mit leeren Händen gehen.
+> Interessant: Die Ägypter haben inzwischen großen Respekt vor Mose und den Israeliten. Sie haben gesehen, wer der wahre Gott ist. Nur der Pharao will es nicht wahrhaben.
+
+---
+
+### Die Ankündigung (Vers 4–8)
+
+<sup>4</sup>Mose sagte zum Pharao:
+„So spricht der HERR:
+‚Um Mitternacht werde ich mitten durch Ägypten gehen.
+<sup>5</sup>Dann wird jeder Erstgeborene im Land Ägypten sterben,
+vom Erstgeborenen des Pharao, der auf seinem Thron sitzt,
+bis zum Erstgeborenen der Sklavin, die an der Handmühle arbeitet,
+und auch alle Erstgeborenen des Viehs.
+<sup>6</sup>Im ganzen Land Ägypten wird ein großes Klagegeschrei sein,
+wie es noch nie eines gegeben hat und wie es auch nie wieder eines geben wird.
+<sup>7</sup>Aber gegen die Israeliten wird nicht einmal ein Hund knurren,
+weder gegen Menschen noch gegen Tiere.
+Daran sollt ihr erkennen, dass der HERR einen Unterschied macht zwischen Ägypten und Israel.
+<sup>8</sup>Dann werden alle diese Beamten zu mir herabkommen.
+Sie werden sich vor mir verneigen und sagen:
+Zieh weg, du und das ganze Volk, das dir folgt!
+Und danach werde ich wegziehen.‘“
+Dann ging Mose voller Zorn vom Pharao weg.
+
+> **Was bedeutet das?**
+> Dies ist die schrecklichste Plage. Viele Leser fragen: Wie kann Gott so etwas tun?
+> Die Bibel erzählt es so: Der Pharao hat zuerst die hebräischen Babys töten lassen (Kapitel 1). Gott hat ihn gewarnt: „Israel ist mein erstgeborener Sohn. Wenn du ihn nicht ziehen lässt, töte ich deinen Erstgeborenen“ (Kapitel 4,22–23). Neunmal hatte der Pharao die Chance umzukehren. Er hat sie nicht genutzt.
+> Die Plage trifft alle, von der Familie des Königs bis zur ärmsten Sklavin an der Mühle. Der Pharao bringt durch seine Sturheit unendliches Leid über sein eigenes Volk.
+> Die Bibel beschönigt das nicht. Sie zeigt: Wer sich Gott dauerhaft verweigert und andere unterdrückt, bringt Tod über sich und andere.
+> Viele Juden lassen bis heute am Passafest beim Erzählen der Plagen einen Tropfen Wein aus dem Becher fallen. Damit zeigen sie: Wir freuen uns über unsere Befreiung – aber wir trauern auch über das Leid der Ägypter.
+> „Nicht einmal ein Hund wird knurren“ heißt: Die Israeliten bleiben völlig ungestört.
+> Mose ist zornig – wegen der Sturheit des Pharao und wegen des Leides, das jetzt kommen wird.
+
+---
+
+### Zusammenfassung (Vers 9–10)
+
+<sup>9</sup>Der HERR sagte zu Mose:
+„Der Pharao wird nicht auf euch hören.
+So werde ich noch mehr Wunder im Land Ägypten tun.“
+<sup>10</sup>Mose und Aaron hatten alle diese Wunder vor dem Pharao getan.
+Aber der HERR hatte das Herz des Pharao hart gemacht.
+Er ließ die Israeliten nicht aus seinem Land ziehen.
+
+> **Was bedeutet das?**
+> Diese zwei Verse sind wie ein Rückblick auf die neun Plagen. Alles ist so gekommen, wie Gott es angekündigt hat.
+> Im nächsten Kapitel geschieht die letzte Plage – und das Volk Israel feiert zum ersten Mal das Passafest.
