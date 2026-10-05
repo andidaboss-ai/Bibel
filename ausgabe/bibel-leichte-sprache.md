@@ -14847,3 +14847,488 @@ So soll der Priester für sie Versöhnung schaffen, und sie ist rein.‘“
 > Das „Sündopfer“ bedeutet hier nicht, dass die Frau gesündigt hat. Es ist ein Reinigungsopfer. Danach darf sie wieder ins Heiligtum kommen und am Gottesdienst teilnehmen.
 > Das Brandopfer ist auch ein Dank an Gott für das Kind.
 > Genau dieses Opfer brachte Maria nach der Geburt von Jesus. Sie und Josef waren arm. Darum brachten sie zwei Tauben (Lukas 2,22–24).
+
+## 3. Mose – Kapitel 13
+#### Aussatz auf der Haut und an Kleidern
+
+---
+
+### Der Priester untersucht die Haut (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>2</sup>„Wenn ein Mensch auf seiner Haut eine Schwellung bekommt, einen Ausschlag oder einen hellen Fleck,
+und es wird auf seiner Haut zu einer Plage von Aussatz,
+dann soll man ihn zu Aaron, dem Priester, bringen oder zu einem seiner Söhne, den Priestern.
+<sup>3</sup>Der Priester soll die kranke Stelle auf der Haut untersuchen.
+Wenn das Haar an der kranken Stelle weiß geworden ist
+und die Stelle tiefer aussieht als die Haut,
+dann ist es eine Plage von Aussatz.
+Der Priester soll ihn untersuchen und ihn für unrein erklären.
+
+<sup>4</sup>Wenn der helle Fleck auf seiner Haut weiß ist,
+aber nicht tiefer aussieht als die Haut,
+und das Haar darauf nicht weiß geworden ist,
+dann soll der Priester den Kranken sieben Tage lang absondern.
+<sup>5</sup>Am siebten Tag soll der Priester ihn untersuchen.
+Wenn die kranke Stelle nach seinem Eindruck gleich geblieben ist
+und sich auf der Haut nicht ausgebreitet hat,
+dann soll der Priester ihn noch einmal sieben Tage lang absondern.
+<sup>6</sup>Am siebten Tag soll der Priester ihn wieder untersuchen.
+Wenn die kranke Stelle blasser geworden ist
+und sich auf der Haut nicht ausgebreitet hat,
+dann soll der Priester ihn für rein erklären.
+Es ist nur ein Ausschlag.
+Er soll seine Kleider waschen, dann ist er rein.
+
+<sup>7</sup>Aber wenn sich der Ausschlag auf der Haut ausbreitet,
+nachdem er sich dem Priester gezeigt hat und für rein erklärt wurde,
+dann soll er sich dem Priester noch einmal zeigen.
+<sup>8</sup>Der Priester soll ihn untersuchen.
+Wenn sich der Ausschlag auf der Haut ausgebreitet hat,
+dann soll der Priester ihn für unrein erklären.
+Es ist Aussatz.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht „leprosy“, auf Deutsch traditionell „Aussatz“. Gemeint ist aber nicht nur die Krankheit, die wir heute Lepra nennen. Das hebräische Wort „Zaraat“ meint verschiedene Hautkrankheiten mit Flecken, Schuppen oder offenen Stellen. Sogar Schimmel an Kleidern und Häusern wird so genannt (ab Vers 47 und in Kapitel 14).
+> Der Priester ist hier kein Arzt. Er heilt nicht. Er schaut genau hin und entscheidet: Darf dieser Mensch weiter in der Gemeinschaft und am Gottesdienst teilnehmen, oder nicht?
+> Er entscheidet sorgfältig und nicht vorschnell. Wenn er unsicher ist, wartet er sieben Tage und schaut noch einmal. Manchmal noch einmal sieben Tage. Niemand soll zu Unrecht ausgeschlossen werden.
+> „Absondern“ bedeutet: Der Kranke bleibt eine Zeit lang für sich, wie in einer Quarantäne.
+
+---
+
+### Alter Aussatz (Vers 9–17)
+
+<sup>9</sup>Wenn ein Mensch eine Plage von Aussatz hat, dann soll man ihn zum Priester bringen.
+<sup>10</sup>Der Priester soll ihn untersuchen.
+Wenn eine weiße Schwellung auf der Haut ist,
+die das Haar weiß gemacht hat,
+und rohes Fleisch in der Schwellung zu sehen ist,
+<sup>11</sup>dann ist es ein alter Aussatz auf seiner Haut.
+Der Priester soll ihn für unrein erklären.
+Er braucht ihn nicht abzusondern, denn er ist schon unrein.
+
+<sup>12</sup>Wenn der Aussatz auf der ganzen Haut ausbricht
+und den Kranken ganz bedeckt, vom Kopf bis zu den Füßen,
+so weit der Priester sehen kann,
+<sup>13</sup>dann soll der Priester ihn untersuchen.
+Wenn der Aussatz seinen ganzen Körper bedeckt,
+dann soll er ihn von der Plage für rein erklären.
+Alles ist weiß geworden: Er ist rein.
+<sup>14</sup>Aber sobald rohes Fleisch an ihm zu sehen ist, ist er unrein.
+<sup>15</sup>Der Priester soll das rohe Fleisch untersuchen und ihn für unrein erklären.
+Das rohe Fleisch ist unrein. Es ist Aussatz.
+<sup>16</sup>Wenn aber das rohe Fleisch sich wieder verändert und weiß wird,
+dann soll er zum Priester kommen.
+<sup>17</sup>Der Priester soll ihn untersuchen.
+Wenn die kranke Stelle weiß geworden ist,
+dann soll der Priester ihn von der Plage für rein erklären. Er ist rein.
+
+> **Was bedeutet das?**
+> Das klingt seltsam: Wer ganz weiß ist, ist rein. Wer rohes Fleisch hat, ist unrein.
+> Wahrscheinlich ist gemeint: Wenn die ganze Haut weiß ist und sich schuppt, ist die Krankheit am Abheilen. Die neue Haut kommt darunter hervor. Wenn aber offenes, rohes Fleisch zu sehen ist, ist die Krankheit noch aktiv.
+
+---
+
+### Nach einem Geschwür (Vers 18–23)
+
+<sup>18</sup>Wenn jemand auf seiner Haut ein Geschwür hatte, das geheilt ist,
+<sup>19</sup>und an der Stelle des Geschwürs eine weiße Schwellung entsteht
+oder ein heller Fleck, rötlich-weiß,
+dann soll er sich dem Priester zeigen.
+<sup>20</sup>Der Priester soll es untersuchen.
+Wenn es tiefer aussieht als die Haut und das Haar darauf weiß geworden ist,
+dann soll der Priester ihn für unrein erklären.
+Es ist eine Plage von Aussatz. Er ist im Geschwür ausgebrochen.
+<sup>21</sup>Aber wenn der Priester es untersucht
+und keine weißen Haare darauf sind
+und es nicht tiefer ist als die Haut, sondern blass,
+dann soll der Priester ihn sieben Tage lang absondern.
+<sup>22</sup>Wenn es sich auf der Haut ausbreitet,
+dann soll der Priester ihn für unrein erklären. Es ist eine Plage.
+<sup>23</sup>Aber wenn der helle Fleck an seiner Stelle bleibt und sich nicht ausbreitet,
+dann ist es die Narbe vom Geschwür.
+Der Priester soll ihn für rein erklären.
+
+---
+
+### Nach einer Brandwunde (Vers 24–28)
+
+<sup>24</sup>Oder wenn jemand auf seiner Haut eine Brandwunde vom Feuer hat
+und das rohe Fleisch der Brandwunde zu einem hellen Fleck wird, rötlich-weiß oder weiß,
+<sup>25</sup>dann soll der Priester es untersuchen.
+Wenn das Haar auf dem hellen Fleck weiß geworden ist
+und es tiefer aussieht als die Haut,
+dann ist es Aussatz. Er ist in der Brandwunde ausgebrochen.
+Der Priester soll ihn für unrein erklären. Es ist eine Plage von Aussatz.
+<sup>26</sup>Aber wenn der Priester es untersucht
+und kein weißes Haar auf dem hellen Fleck ist
+und es nicht tiefer ist als die Haut, sondern blasser geworden ist,
+dann soll der Priester ihn sieben Tage lang absondern.
+<sup>27</sup>Am siebten Tag soll der Priester ihn untersuchen.
+Wenn es sich auf der Haut ausgebreitet hat,
+dann soll der Priester ihn für unrein erklären. Es ist eine Plage von Aussatz.
+<sup>28</sup>Wenn der helle Fleck an seiner Stelle bleibt
+und sich auf der Haut nicht ausgebreitet hat, sondern blass ist,
+dann ist es die Schwellung von der Brandwunde.
+Der Priester soll ihn für rein erklären.
+Denn es ist die Narbe von der Brandwunde.
+
+> **Was bedeutet das?**
+> Der Priester unterscheidet genau: Ist das nur eine Narbe, die gut verheilt? Oder breitet sich eine Krankheit aus? Das wichtigste Zeichen ist immer: Breitet es sich aus oder nicht?
+
+---
+
+### Am Kopf oder im Bart (Vers 29–37)
+
+<sup>29</sup>Wenn ein Mann oder eine Frau eine kranke Stelle am Kopf oder im Bart hat,
+<sup>30</sup>dann soll der Priester die kranke Stelle untersuchen.
+Wenn sie tiefer aussieht als die Haut
+und das Haar darauf gelblich und dünn ist,
+dann soll der Priester ihn für unrein erklären.
+Es ist Grind, Aussatz am Kopf oder im Bart.
+
+<sup>31</sup>Wenn der Priester die Stelle mit dem Grind untersucht
+und sie nicht tiefer aussieht als die Haut
+und kein schwarzes Haar darauf ist,
+dann soll der Priester den Kranken mit dem Grind sieben Tage lang absondern.
+<sup>32</sup>Am siebten Tag soll der Priester die kranke Stelle untersuchen.
+Wenn sich der Grind nicht ausgebreitet hat
+und kein gelbliches Haar darauf ist
+und der Grind nicht tiefer aussieht als die Haut,
+<sup>33</sup>dann soll der Kranke sich rasieren, aber die Stelle mit dem Grind soll er nicht rasieren.
+Und der Priester soll den Kranken mit dem Grind noch einmal sieben Tage lang absondern.
+<sup>34</sup>Am siebten Tag soll der Priester den Grind untersuchen.
+Wenn sich der Grind auf der Haut nicht ausgebreitet hat
+und er nicht tiefer aussieht als die Haut,
+dann soll der Priester ihn für rein erklären.
+Er soll seine Kleider waschen, dann ist er rein.
+
+<sup>35</sup>Aber wenn sich der Grind auf der Haut ausbreitet, nachdem er für rein erklärt wurde,
+<sup>36</sup>dann soll der Priester ihn untersuchen.
+Wenn sich der Grind auf der Haut ausgebreitet hat,
+braucht der Priester nicht nach dem gelblichen Haar zu suchen. Er ist unrein.
+<sup>37</sup>Aber wenn der Grind nach seinem Eindruck gleich geblieben ist
+und schwarzes Haar darauf gewachsen ist,
+dann ist der Grind geheilt. Er ist rein.
+Der Priester soll ihn für rein erklären.
+
+> **Was bedeutet das?**
+> „Grind“ ist ein altes Wort für einen juckenden, schuppigen Ausschlag auf der Kopfhaut. In der englischen Vorlage steht „itch“, also „Jucken“.
+> Wenn wieder normales, schwarzes Haar wächst, ist das ein Zeichen der Heilung.
+
+---
+
+### Harmlose Flecken und Glatzen (Vers 38–44)
+
+<sup>38</sup>Wenn ein Mann oder eine Frau helle Flecken auf der Haut hat, weiße Flecken,
+<sup>39</sup>dann soll der Priester sie untersuchen.
+Wenn die Flecken auf der Haut matt-weiß sind,
+dann ist es ein harmloser Ausschlag, der auf der Haut ausgebrochen ist.
+Er ist rein.
+
+<sup>40</sup>Wenn einem Mann die Haare vom Kopf ausfallen, dann hat er eine Glatze. Er ist rein.
+<sup>41</sup>Wenn ihm die Haare vorn am Kopf ausfallen, dann hat er eine Stirnglatze. Er ist rein.
+<sup>42</sup>Aber wenn auf der Glatze oder auf der Stirnglatze eine rötlich-weiße kranke Stelle ist,
+dann ist es Aussatz, der auf seiner Glatze oder auf seiner Stirnglatze ausbricht.
+<sup>43</sup>Dann soll der Priester ihn untersuchen.
+Wenn die Schwellung auf seiner Glatze oder auf seiner Stirnglatze rötlich-weiß ist
+und so aussieht wie Aussatz auf der Haut,
+<sup>44</sup>dann ist er aussätzig. Er ist unrein.
+Der Priester soll ihn unbedingt für unrein erklären.
+Die Plage ist an seinem Kopf.
+
+> **Was bedeutet das?**
+> Eine Glatze ist keine Krankheit. Wer eine Glatze hat, ist rein. Die Bibel schützt hier Menschen davor, wegen etwas Harmlosem ausgeschlossen zu werden.
+
+---
+
+### Wie ein Aussätziger leben muss (Vers 45–46)
+
+<sup>45</sup>Der Aussätzige, der die Plage hat, soll zerrissene Kleider tragen.
+Er soll sein Haar offen hängen lassen.
+Er soll seine Oberlippe verhüllen und rufen: „Unrein! Unrein!“
+<sup>46</sup>Solange er die Plage hat, ist er unrein.
+Er ist unrein. Er soll allein wohnen.
+Er soll außerhalb des Lagers wohnen.
+
+> **Was bedeutet das?**
+> Das ist sehr hart. Der Aussätzige muss Zeichen der Trauer tragen: zerrissene Kleider, offenes Haar, verhüllter Mund. Er muss andere warnen und allein außerhalb des Lagers leben.
+> Das schützte die Gemeinschaft vor Ansteckung. Für den Kranken aber bedeutete es Einsamkeit und großes Leid.
+> Umso bewegender ist, was Jesus später tut: Er berührt Aussätzige und heilt sie (Markus 1,40–42). Er hat keine Angst vor ihnen. Er holt sie zurück in die Gemeinschaft.
+> Wichtig: Die Bibel sagt nicht, dass die Krankheit eine Strafe für Sünde ist. Auch heute sollten wir Kranke nicht ausgrenzen oder verurteilen.
+
+---
+
+### Aussatz an Kleidern (Vers 47–59)
+
+<sup>47</sup>Wenn an einem Kleid eine Plage von Aussatz ist,
+an einem Kleid aus Wolle oder an einem Kleid aus Leinen,
+<sup>48</sup>in den Längsfäden oder in den Querfäden, aus Leinen oder aus Wolle,
+oder an Leder oder an irgendetwas, das aus Leder gemacht ist,
+<sup>49</sup>und wenn die Stelle grünlich oder rötlich ist,
+am Kleid oder am Leder, in den Längsfäden oder in den Querfäden
+oder an irgendetwas aus Leder,
+dann ist es eine Plage von Aussatz.
+Man soll es dem Priester zeigen.
+
+<sup>50</sup>Der Priester soll die Stelle untersuchen
+und das, was befallen ist, sieben Tage lang absondern.
+<sup>51</sup>Am siebten Tag soll er die Stelle untersuchen.
+Wenn sich die Stelle ausgebreitet hat,
+am Kleid, in den Längsfäden oder in den Querfäden oder am Leder,
+wofür das Leder auch benutzt wird,
+dann ist die Stelle ein zerfressender Schimmel. Es ist unrein.
+<sup>52</sup>Er soll das Kleid verbrennen,
+die Längsfäden oder die Querfäden, aus Wolle oder aus Leinen,
+oder alles aus Leder, an dem die Stelle ist.
+Denn es ist ein zerfressender Schimmel.
+Es soll im Feuer verbrannt werden.
+
+<sup>53</sup>Wenn der Priester es untersucht
+und die Stelle sich nicht ausgebreitet hat,
+am Kleid, in den Längsfäden oder in den Querfäden oder an irgendetwas aus Leder,
+<sup>54</sup>dann soll der Priester befehlen, dass man das, woran die Stelle ist, wäscht.
+Und er soll es noch einmal sieben Tage lang absondern.
+<sup>55</sup>Dann soll der Priester es untersuchen, nachdem die Stelle gewaschen wurde.
+Wenn die Stelle ihre Farbe nicht verändert hat,
+auch wenn sie sich nicht ausgebreitet hat,
+dann ist es unrein. Ihr sollt es im Feuer verbrennen.
+Es ist eine Schimmelstelle, egal ob sie auf der Innenseite oder auf der Außenseite ist.
+
+<sup>56</sup>Wenn der Priester nachsieht
+und die Stelle blasser geworden ist, nachdem sie gewaschen wurde,
+dann soll er sie herausreißen:
+aus dem Kleid oder aus dem Leder, aus den Längsfäden oder aus den Querfäden.
+<sup>57</sup>Wenn sie dann wieder am Kleid erscheint,
+in den Längsfäden oder in den Querfäden oder an irgendetwas aus Leder,
+dann breitet sie sich aus.
+Ihr sollt das, woran die Stelle ist, im Feuer verbrennen.
+<sup>58</sup>Aber das Kleid, die Längsfäden oder die Querfäden oder was aus Leder ist,
+das ihr gewaschen habt und von dem die Stelle verschwunden ist,
+soll ein zweites Mal gewaschen werden. Dann ist es rein.“
+
+<sup>59</sup>Das ist die Vorschrift über die Plage von Schimmel
+an einem Kleid aus Wolle oder aus Leinen,
+in den Längsfäden oder in den Querfäden oder an irgendetwas aus Leder,
+um es für rein oder für unrein zu erklären.
+
+> **Was bedeutet das?**
+> „Längsfäden“ und „Querfäden“ sind die Fäden, aus denen ein Stoff gewebt wird. Vielleicht ist hier auch Garn gemeint, das noch nicht verwebt ist.
+> Hier geht es um Schimmel oder Pilzbefall an Stoffen und Leder. Auch dafür benutzt die Bibel dasselbe Wort wie für den Aussatz.
+> Auch hier wird sorgfältig geprüft: Erst wird gewaschen und gewartet. Nur wenn der Schimmel nicht weggeht, wird das Kleid verbrannt. Kleider waren damals sehr wertvoll. Man warf sie nicht leichtfertig weg.
+
+## 3. Mose – Kapitel 14
+#### Die Reinigung nach dem Aussatz – Schimmel in Häusern
+
+---
+
+### Der Geheilte wird gereinigt: die zwei Vögel (Vers 1–7)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Das ist die Vorschrift für den Aussätzigen an dem Tag, an dem er gereinigt wird:
+Man soll ihn zum Priester bringen.
+<sup>3</sup>Der Priester soll hinausgehen, vor das Lager.
+Der Priester soll ihn untersuchen.
+Wenn der Aussätzige von der Plage des Aussatzes geheilt ist,
+<sup>4</sup>dann soll der Priester befehlen, dass man für den, der gereinigt werden soll,
+zwei lebende, reine Vögel nimmt,
+dazu Zedernholz, karmesinroten Stoff und Ysop.
+<sup>5</sup>Der Priester soll befehlen, dass man einen der Vögel schlachtet,
+über einem Tongefäß mit fließendem Wasser.
+<sup>6</sup>Den lebenden Vogel soll er nehmen,
+dazu das Zedernholz, den karmesinroten Stoff und den Ysop.
+Er soll sie zusammen mit dem lebenden Vogel in das Blut des Vogels tauchen,
+der über dem fließenden Wasser geschlachtet wurde.
+<sup>7</sup>Er soll siebenmal auf den sprengen, der vom Aussatz gereinigt werden soll,
+und ihn für rein erklären.
+Und er soll den lebenden Vogel aufs freie Feld fliegen lassen.
+
+> **Was bedeutet das?**
+> Gott heilt. Der Priester stellt nur fest, dass die Heilung geschehen ist. Er geht zu dem Kranken hinaus vor das Lager. Er wartet nicht, bis der Kranke zu ihm kommt.
+> „Fließendes Wasser“ ist frisches, lebendiges Wasser aus einer Quelle oder einem Bach, kein stehendes Wasser.
+> Ysop ist eine kleine Pflanze mit vielen Zweigen. Man konnte sie gut zum Sprengen benutzen. Zedernholz ist ein Holz, das nicht fault. Der rote Stoff erinnert an das Blut, also an das Leben.
+> Ein Vogel stirbt, der andere fliegt frei davon. Das ist ein starkes Bild: Die Krankheit und die Unreinheit werden weggetragen. Der Mensch ist frei und kann neu leben.
+> Jesus sagte zu Aussätzigen, die er geheilt hatte: „Geht hin und zeigt euch den Priestern“ (Lukas 17,14). So sollte ihre Heilung offiziell festgestellt werden, nach genau dieser Vorschrift.
+
+---
+
+### Waschen, rasieren und sieben Tage warten (Vers 8–9)
+
+<sup>8</sup>Der, der gereinigt werden soll, soll seine Kleider waschen,
+alle seine Haare abrasieren und sich mit Wasser baden.
+Dann ist er rein.
+Danach darf er ins Lager kommen.
+Aber sieben Tage lang soll er außerhalb seines Zeltes wohnen.
+<sup>9</sup>Am siebten Tag soll er alle seine Haare abrasieren:
+die Haare auf seinem Kopf, seinen Bart und seine Augenbrauen.
+Alle seine Haare soll er abrasieren.
+Er soll seine Kleider waschen und seinen Körper mit Wasser baden.
+Dann ist er rein.
+
+> **Was bedeutet das?**
+> Der Geheilte fängt ganz neu an, fast wie ein neugeborenes Kind ohne Haare. Er kommt Schritt für Schritt zurück: zuerst ins Lager, nach sieben Tagen in sein eigenes Zelt.
+
+---
+
+### Die Opfer am achten Tag (Vers 10–20)
+
+<sup>10</sup>Am achten Tag soll er zwei männliche Lämmer ohne Fehler nehmen,
+ein weibliches, einjähriges Lamm ohne Fehler,
+gut 6,5 Liter feines Mehl, mit Öl vermengt, als Speiseopfer,
+und ein Drittel Liter Öl.
+<sup>11</sup>Der Priester, der ihn reinigt, soll den Mann, der gereinigt werden soll, und diese Dinge
+vor den HERRN stellen, an den Eingang des Zeltes der Begegnung.
+
+<sup>12</sup>Der Priester soll eines der männlichen Lämmer nehmen
+und es als Schuldopfer darbringen, zusammen mit dem Öl.
+Er soll sie vor dem HERRN als Schwingopfer hin- und herschwingen.
+<sup>13</sup>Er soll das männliche Lamm dort schlachten, wo man das Sündopfer und das Brandopfer schlachtet, am heiligen Ort.
+Denn wie das Sündopfer dem Priester gehört, so gehört ihm auch das Schuldopfer.
+Es ist hochheilig.
+<sup>14</sup>Der Priester soll etwas vom Blut des Schuldopfers nehmen.
+Der Priester soll es an das rechte Ohrläppchen von dem streichen, der gereinigt werden soll,
+an den Daumen seiner rechten Hand und an die große Zehe seines rechten Fußes.
+
+<sup>15</sup>Der Priester soll etwas von dem Öl nehmen
+und es in seine eigene linke Hand gießen.
+<sup>16</sup>Der Priester soll seinen rechten Finger in das Öl in seiner linken Hand tauchen.
+Und er soll mit seinem Finger siebenmal etwas von dem Öl vor dem HERRN sprengen.
+<sup>17</sup>Vom übrigen Öl in seiner Hand soll der Priester etwas
+an das rechte Ohrläppchen von dem streichen, der gereinigt werden soll,
+an den Daumen seiner rechten Hand und an die große Zehe seines rechten Fußes,
+auf das Blut des Schuldopfers.
+<sup>18</sup>Den Rest des Öls in der Hand des Priesters soll er auf den Kopf von dem streichen, der gereinigt werden soll.
+So soll der Priester vor dem HERRN Versöhnung für ihn schaffen.
+
+<sup>19</sup>Der Priester soll das Sündopfer darbringen
+und Versöhnung schaffen für den, der von seiner Unreinheit gereinigt werden soll.
+Danach soll er das Brandopfer schlachten.
+<sup>20</sup>Dann soll der Priester das Brandopfer und das Speiseopfer auf dem Altar darbringen.
+So soll der Priester für ihn Versöhnung schaffen, und er ist rein.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: drei Zehntel Efa Mehl und ein Log Öl. Ein Log ist etwa ein Drittel Liter.
+> Blut und Öl an Ohr, Hand und Fuß – genau so wurden auch die Priester geweiht (3. Mose 8,23–24). Der Geheilte wird wie ein Priester behandelt. Das ist eine große Ehre. Wer lange ausgeschlossen war, wird jetzt feierlich wieder aufgenommen. Er gehört wieder ganz dazu, zu Gott und zum Volk.
+
+---
+
+### Wenn der Geheilte arm ist (Vers 21–32)
+
+<sup>21</sup>Wenn er arm ist und sich so viel nicht leisten kann,
+dann soll er ein männliches Lamm als Schuldopfer nehmen, als Schwingopfer, um für ihn Versöhnung zu schaffen,
+und gut 2 Liter feines Mehl, mit Öl vermengt, als Speiseopfer,
+und ein Drittel Liter Öl,
+<sup>22</sup>und zwei Turteltauben oder zwei junge Tauben, so wie er es sich leisten kann.
+Die eine soll ein Sündopfer sein und die andere ein Brandopfer.
+
+<sup>23</sup>Am achten Tag soll er sie für seine Reinigung zum Priester bringen,
+an den Eingang des Zeltes der Begegnung, vor den HERRN.
+<sup>24</sup>Der Priester soll das Lamm für das Schuldopfer und das Öl nehmen.
+Und der Priester soll sie vor dem HERRN als Schwingopfer hin- und herschwingen.
+<sup>25</sup>Er soll das Lamm des Schuldopfers schlachten.
+Der Priester soll etwas vom Blut des Schuldopfers nehmen
+und es an das rechte Ohrläppchen von dem streichen, der gereinigt werden soll,
+an den Daumen seiner rechten Hand und an die große Zehe seines rechten Fußes.
+<sup>26</sup>Der Priester soll etwas von dem Öl in seine eigene linke Hand gießen.
+<sup>27</sup>Und der Priester soll mit seinem rechten Finger etwas von dem Öl in seiner linken Hand
+siebenmal vor dem HERRN sprengen.
+<sup>28</sup>Dann soll der Priester etwas von dem Öl in seiner Hand
+an das rechte Ohrläppchen von dem streichen, der gereinigt werden soll,
+an den Daumen seiner rechten Hand und an die große Zehe seines rechten Fußes,
+an die Stelle, wo das Blut des Schuldopfers ist.
+<sup>29</sup>Den Rest des Öls in der Hand des Priesters soll er auf den Kopf von dem streichen, der gereinigt werden soll,
+um vor dem HERRN Versöhnung für ihn zu schaffen.
+<sup>30</sup>Er soll eine der Turteltauben oder der jungen Tauben darbringen, die er sich leisten kann,
+<sup>31</sup>von dem, was er sich leisten kann:
+die eine als Sündopfer und die andere als Brandopfer, zusammen mit dem Speiseopfer.
+So soll der Priester für den, der gereinigt werden soll, vor dem HERRN Versöhnung schaffen.“
+<sup>32</sup>Das ist die Vorschrift für den, der eine Plage von Aussatz hatte
+und sich das Opfer für seine Reinigung nicht leisten kann.
+
+> **Was bedeutet das?**
+> Wer lange krank war, konnte oft nicht arbeiten und war arm. Darum gibt es eine Regel für Arme: Statt drei Lämmern genügen ein Lamm und zwei Tauben.
+> Der Ablauf ist aber genau derselbe. Der Arme wird genauso feierlich wieder aufgenommen wie der Reiche.
+
+---
+
+### Schimmel in Häusern (Vers 33–47)
+
+<sup>33</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>34</sup>„Wenn ihr in das Land Kanaan kommt, das ich euch als Besitz gebe,
+und ich in einem Haus in eurem Land einen sich ausbreitenden Schimmel kommen lasse,
+<sup>35</sup>dann soll der Besitzer des Hauses kommen und es dem Priester sagen:
+‚Mir scheint, in meinem Haus ist so etwas wie eine Plage.‘
+<sup>36</sup>Der Priester soll befehlen, dass man das Haus ausräumt,
+bevor der Priester hineingeht, um die Plage zu untersuchen.
+So wird nichts, was im Haus ist, unrein.
+Danach soll der Priester hineingehen und das Haus untersuchen.
+
+<sup>37</sup>Er soll die Plage untersuchen.
+Wenn die Plage an den Wänden des Hauses ist,
+mit vertieften Streifen, grünlich oder rötlich,
+und tiefer aussieht als die Wand,
+<sup>38</sup>dann soll der Priester aus dem Haus hinausgehen, bis zur Tür des Hauses,
+und das Haus sieben Tage lang verschließen.
+<sup>39</sup>Am siebten Tag soll der Priester wiederkommen und nachsehen.
+Wenn sich die Plage an den Wänden des Hauses ausgebreitet hat,
+<sup>40</sup>dann soll der Priester befehlen, dass man die Steine herausnimmt, an denen die Plage ist,
+und sie an einen unreinen Ort außerhalb der Stadt wirft.
+<sup>41</sup>Er soll das Haus innen ringsum abkratzen lassen.
+Den abgekratzten Lehm soll man an einen unreinen Ort außerhalb der Stadt schütten.
+<sup>42</sup>Man soll andere Steine nehmen und sie an die Stelle der alten Steine setzen.
+Und man soll anderen Lehm nehmen und das Haus neu verputzen.
+
+<sup>43</sup>Wenn die Plage wiederkommt und im Haus ausbricht,
+nachdem man die Steine herausgenommen,
+das Haus abgekratzt und neu verputzt hat,
+<sup>44</sup>dann soll der Priester hineingehen und nachsehen.
+Wenn sich die Plage im Haus ausgebreitet hat,
+dann ist es ein zerfressender Schimmel im Haus. Es ist unrein.
+<sup>45</sup>Man soll das Haus abreißen, seine Steine, sein Holz und den ganzen Lehm des Hauses.
+Und man soll alles aus der Stadt hinausbringen, an einen unreinen Ort.
+
+<sup>46</sup>Wer in das Haus geht, solange es verschlossen ist, ist unrein bis zum Abend.
+<sup>47</sup>Wer in dem Haus schläft, soll seine Kleider waschen.
+Und wer in dem Haus isst, soll seine Kleider waschen.
+
+> **Was bedeutet das?**
+> Diese Regel gilt erst für die Zeit, wenn Israel im Land Kanaan in festen Häusern wohnt. In der Wüste lebten sie in Zelten.
+> „Und ich in einem Haus … kommen lasse“ – in der Bibel kommt alles letztlich aus Gottes Hand, auch Schimmel. Das heißt aber nicht, dass der Besitzer etwas Böses getan hat.
+> Der Priester räumt das Haus vorher aus. So muss der Besitzer seine Sachen nicht verlieren. Die Bibel denkt hier sehr praktisch.
+> Auch hier wird zuerst repariert: Steine austauschen, Wände neu verputzen. Nur wenn das nicht hilft, wird das Haus abgerissen. Das ist auch heute noch eine gute Regel bei gefährlichem Schimmel.
+
+---
+
+### Die Reinigung des Hauses (Vers 48–53)
+
+<sup>48</sup>Wenn der Priester hineingeht und es untersucht
+und die Plage sich im Haus nicht ausgebreitet hat, nachdem das Haus neu verputzt wurde,
+dann soll der Priester das Haus für rein erklären.
+Denn die Plage ist geheilt.
+<sup>49</sup>Um das Haus zu reinigen, soll er zwei Vögel nehmen, Zedernholz, karmesinroten Stoff und Ysop.
+<sup>50</sup>Er soll einen der Vögel schlachten, über einem Tongefäß mit fließendem Wasser.
+<sup>51</sup>Er soll das Zedernholz, den Ysop, den karmesinroten Stoff und den lebenden Vogel nehmen.
+Er soll sie in das Blut des geschlachteten Vogels und in das fließende Wasser tauchen.
+Und er soll das Haus siebenmal besprengen.
+<sup>52</sup>So soll er das Haus reinigen
+mit dem Blut des Vogels und mit dem fließenden Wasser,
+mit dem lebenden Vogel, mit dem Zedernholz, mit dem Ysop und mit dem karmesinroten Stoff.
+<sup>53</sup>Aber den lebenden Vogel soll er aus der Stadt aufs freie Feld fliegen lassen.
+So soll er für das Haus Versöhnung schaffen, und es ist rein.“
+
+> **Was bedeutet das?**
+> Ein Haus wird genauso gereinigt wie ein Mensch, mit den zwei Vögeln. Auch ein Haus kann einen Neuanfang bekommen.
+
+---
+
+### Zusammenfassung (Vers 54–57)
+
+<sup>54</sup>Das ist die Vorschrift für jede Plage von Aussatz und für Grind,
+<sup>55</sup>für den zerfressenden Schimmel an einem Kleid und an einem Haus,
+<sup>56</sup>für eine Schwellung, für einen Ausschlag und für einen hellen Fleck,
+<sup>57</sup>um zu lehren, wann etwas unrein ist und wann etwas rein ist.
+Das ist die Vorschrift über den Aussatz.
+
+> **Was bedeutet das?**
+> Die Kapitel 13 und 14 gehören zusammen. Sie zeigen: Gott kümmert sich um die Gesundheit seines Volkes, um Körper, Kleidung und Wohnung.
+> Und sie zeigen: Wer ausgeschlossen werden musste, soll nicht für immer ausgeschlossen bleiben. Es gibt einen Weg zurück in die Gemeinschaft.
