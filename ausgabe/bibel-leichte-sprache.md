@@ -12039,3 +12039,234 @@ Ich bin der HERR, ihr Gott.“
 > Diese Verse sind das Ziel von allem: „Ich will mitten unter ihnen wohnen und ihr Gott sein.“
 > Gott hat Israel nicht nur aus Ägypten befreit, damit es frei ist. Er hat es befreit, um bei ihm zu wohnen. Die Befreiung führt zur Gemeinschaft mit Gott.
 > Im Neuen Testament heißt es über Jesus: „Das Wort wurde Mensch und wohnte unter uns“ (Johannes 1,14). Wörtlich steht dort: „Es zeltete unter uns.“ Und ganz am Ende der Bibel heißt es: „Seht, das Zelt Gottes ist bei den Menschen. Er wird bei ihnen wohnen“ (Offenbarung 21,3).
+
+## 2. Mose – Kapitel 30
+#### Räucheraltar, Abgabe, Waschbecken, Salböl und Räucherwerk
+
+---
+
+### Der Räucheraltar (Vers 1–10)
+
+<sup>1</sup>„Mach einen Altar, auf dem man Räucherwerk verbrennt.
+Mach ihn aus Akazienholz.
+<sup>2</sup>Er soll 45 Zentimeter lang und 45 Zentimeter breit sein, also quadratisch.
+Und er soll 90 Zentimeter hoch sein.
+Seine Hörner sollen mit ihm aus einem Stück sein.
+<sup>3</sup>Überzieh ihn mit reinem Gold:
+seine Platte oben, seine Seiten ringsherum und seine Hörner.
+Und mach ringsherum eine Leiste aus Gold.
+<sup>4</sup>Mach zwei goldene Ringe für ihn unter der Leiste.
+Mach sie an seinen beiden Seiten, an beiden Seiten einander gegenüber.
+Durch sie sollen die Stangen gesteckt werden, mit denen man ihn trägt.
+<sup>5</sup>Mach die Stangen aus Akazienholz und überzieh sie mit Gold.
+
+<sup>6</sup>Stell den Altar vor den Vorhang, hinter dem die Lade des Bundes steht,
+vor die Deckplatte, die über dem Zeugnis des Bundes ist.
+Dort will ich dir begegnen.
+<sup>7</sup>Aaron soll auf ihm wohlriechendes Räucherwerk verbrennen, jeden Morgen.
+Wenn er die Lampen in Ordnung bringt, soll er es verbrennen.
+<sup>8</sup>Und wenn Aaron am Abend die Lampen anzündet, soll er es auch verbrennen.
+So soll ständig Räucherwerk vor dem HERRN sein, für alle eure Generationen.
+<sup>9</sup>Ihr sollt auf ihm kein fremdes Räucherwerk verbrennen,
+kein Brandopfer und kein Speiseopfer.
+Und ihr sollt kein Trankopfer auf ihn gießen.
+<sup>10</sup>Einmal im Jahr soll Aaron an seinen Hörnern Versöhnung schaffen.
+Mit dem Blut des Sündopfers der Versöhnung soll er einmal im Jahr für ihn Versöhnung schaffen, für alle eure Generationen.
+Er ist hochheilig für den HERRN.“
+
+> **Was bedeutet das?**
+> In Ellen: eine Elle lang und breit, zwei Ellen hoch. Eine Elle ist etwa 45 Zentimeter.
+> Der Räucheraltar ist klein. Er steht im Heiligen, direkt vor dem Vorhang zum Allerheiligsten.
+> Räucherwerk ist eine Mischung aus Harzen und Gewürzen. Wenn man es auf glühende Kohlen streut, steigt duftender Rauch auf.
+> In der Bibel ist der aufsteigende Rauch ein Bild für das Gebet. In Psalm 141,2 heißt es: „Mein Gebet steige vor dir auf wie Räucherwerk.“ Morgens und abends steigt der Duft auf – so wie die Gebete des Volkes zu Gott.
+> „Fremdes Räucherwerk“ ist eines, das Gott nicht befohlen hat. Wie ernst das ist, zeigt eine Geschichte in 3. Mose 10.
+> Das „einmal im Jahr“ meint den großen Versöhnungstag, Jom Kippur (3. Mose 16).
+
+---
+
+### Die Abgabe bei der Volkszählung (Vers 11–16)
+
+<sup>11</sup>Der HERR sprach zu Mose:
+<sup>12</sup>„Wenn du die Israeliten zählst, alle, die gemustert werden,
+dann soll jeder Mann dem HERRN ein Lösegeld für sein Leben geben, wenn du sie zählst.
+So soll keine Plage über sie kommen, wenn du sie zählst.
+<sup>13</sup>Jeder, der zu den Gezählten hinübergeht, soll Folgendes geben:
+einen halben Schekel, nach dem Gewicht des Heiligtums.
+Ein Schekel sind 20 Gera.
+Einen halben Schekel als Gabe für den HERRN.
+<sup>14</sup>Jeder, der zu den Gezählten hinübergeht, von 20 Jahren an und älter, soll dem HERRN diese Gabe geben.
+<sup>15</sup>Der Reiche soll nicht mehr geben und der Arme nicht weniger als den halben Schekel,
+wenn ihr dem HERRN die Gabe gebt, um für euer Leben Versöhnung zu schaffen.
+<sup>16</sup>Nimm das Versöhnungsgeld von den Israeliten
+und gib es für den Dienst am Zelt der Begegnung.
+Es soll die Israeliten vor dem HERRN in Erinnerung bringen,
+um für euer Leben Versöhnung zu schaffen.“
+
+> **Was bedeutet das?**
+> Ein halber Schekel sind etwa 5,5 Gramm Silber. Ein „Gera“ ist eine noch kleinere Gewichtseinheit, etwa ein halbes Gramm.
+> Gezählt wurden die Männer ab 20 Jahren, die in den Krieg ziehen konnten. Wer gezählt wurde, „ging hinüber“ zu denen, die schon gezählt waren.
+> Damals glaubte man: Ein Volk zu zählen ist gefährlich. Das Leben gehört Gott, nicht dem König oder dem Anführer. Darum soll jeder eine kleine Gabe geben – als Zeichen: Mein Leben gehört Gott. Später wird erzählt, wie König David das Volk zählt und dadurch eine Plage kommt (2. Samuel 24).
+> Wichtig: Reiche und Arme zahlen genau gleich viel. Vor Gott ist jedes Leben gleich viel wert.
+> Aus diesem Geld wurde später ein Teil des Heiligtums gebaut (2. Mose 38,25–28). Zur Zeit von Jesus zahlten Juden jedes Jahr eine solche Tempelsteuer (Matthäus 17,24).
+
+---
+
+### Das Waschbecken (Vers 17–21)
+
+<sup>17</sup>Der HERR sprach zu Mose:
+<sup>18</sup>„Mach auch ein Becken aus Bronze und ein Gestell aus Bronze dafür, zum Waschen.
+Stell es zwischen das Zelt der Begegnung und den Altar.
+Und füll Wasser hinein.
+<sup>19</sup>Aaron und seine Söhne sollen darin ihre Hände und ihre Füße waschen.
+<sup>20</sup>Wenn sie in das Zelt der Begegnung gehen, sollen sie sich mit Wasser waschen, damit sie nicht sterben.
+Ebenso, wenn sie zum Altar treten, um ihren Dienst zu tun und ein Feueropfer für den HERRN zu verbrennen.
+<sup>21</sup>Sie sollen ihre Hände und ihre Füße waschen, damit sie nicht sterben.
+Das soll für sie eine feste Ordnung für alle Zeiten sein,
+für Aaron und für seine Nachkommen, für alle ihre Generationen.“
+
+> **Was bedeutet das?**
+> Bevor die Priester Gott dienen, waschen sie sich. Mit den Händen tun sie ihre Arbeit, mit den Füßen gehen sie ihre Wege. Beides soll rein sein.
+> Das Waschen ist ein Zeichen: Wer zu Gott kommt, soll nicht einfach so kommen, sondern vorbereitet und gereinigt.
+> Im Neuen Testament wäscht Jesus seinen Jüngern die Füße (Johannes 13). Und in der Taufe wird das Waschen mit Wasser zum Zeichen für einen neuen Anfang mit Gott.
+
+---
+
+### Das heilige Salböl (Vers 22–33)
+
+<sup>22</sup>Weiter sprach der HERR zu Mose:
+<sup>23</sup>„Nimm die besten Gewürze:
+flüssige Myrrhe, etwa 5,5 Kilogramm,
+wohlriechenden Zimt, halb so viel, also etwa 2,75 Kilogramm,
+und wohlriechendes Gewürzrohr, auch etwa 2,75 Kilogramm,
+<sup>24</sup>und Kassia, etwa 5,5 Kilogramm, nach dem Gewicht des Heiligtums.
+Dazu etwa 4 Liter Olivenöl.
+<sup>25</sup>Mach daraus ein heiliges Salböl,
+eine Mischung, wie ein Salbenmischer sie kunstvoll herstellt.
+Es soll ein heiliges Salböl sein.
+
+<sup>26</sup>Damit sollst du salben:
+das Zelt der Begegnung, die Lade des Bundes,
+<sup>27</sup>den Tisch und alle seine Geräte, den Leuchter und sein Zubehör, den Räucheraltar,
+<sup>28</sup>den Brandopferaltar mit allen seinen Geräten und das Becken mit seinem Gestell.
+<sup>29</sup>Du sollst sie heiligen, damit sie hochheilig sind.
+Alles, was sie berührt, wird heilig.
+<sup>30</sup>Du sollst auch Aaron und seine Söhne salben und sie heiligen,
+damit sie mir als Priester dienen.
+
+<sup>31</sup>Sag zu den Israeliten:
+‚Das soll für mich ein heiliges Salböl sein, für alle eure Generationen.
+<sup>32</sup>Man darf es nicht auf den Körper eines gewöhnlichen Menschen gießen.
+Und ihr dürft kein Öl mit derselben Mischung herstellen.
+Es ist heilig. Es soll euch heilig sein.
+<sup>33</sup>Wer ein solches Öl mischt
+oder wer etwas davon auf einen Fremden streicht,
+der soll aus seinem Volk ausgeschlossen werden.‘“
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Gewichte so: 500 Schekel Myrrhe, 250 Schekel Zimt, 250 Schekel Gewürzrohr, 500 Schekel Kassia und ein Hin Öl. Ein Schekel sind etwa 11 Gramm, ein Hin etwa 4 Liter.
+> Myrrhe ist ein kostbares, duftendes Harz von einem Strauch. Kassia ist eine Art Zimt. Das Gewürzrohr ist eine duftende Pflanze, vielleicht Kalmus.
+> Dieses Öl hat einen ganz besonderen Duft. Niemand darf es für sich selbst nachmachen. Es gehört nur Gott. So lernt das Volk: Es gibt Dinge, die ganz für Gott bestimmt sind.
+> „Ein Fremder“ meint hier: jemand, der kein Priester ist.
+> „Aus seinem Volk ausgeschlossen werden“ – im Englischen und Hebräischen steht wörtlich „abgeschnitten werden“. Was das genau bedeutete, ist nicht ganz klar. Vielleicht wurde der Mensch aus der Gemeinschaft verstoßen. Vielleicht ist gemeint, dass Gott selbst ihn bestraft.
+
+---
+
+### Das heilige Räucherwerk (Vers 34–38)
+
+<sup>34</sup>Der HERR sagte zu Mose:
+„Nimm dir wohlriechende Gewürze: Harz, Räucherklaue und Galbanum.
+Diese wohlriechenden Gewürze mit reinem Weihrauch.
+Von allem soll gleich viel sein.
+<sup>35</sup>Mach daraus Räucherwerk, eine Mischung, wie ein Salbenmischer sie kunstvoll herstellt.
+Sie soll mit Salz gewürzt sein, rein und heilig.
+<sup>36</sup>Zerstoß etwas davon ganz fein.
+Leg davon etwas vor das Zeugnis des Bundes im Zelt der Begegnung, wo ich dir begegnen will.
+Es soll für euch hochheilig sein.
+<sup>37</sup>Ihr dürft für euch selbst kein Räucherwerk mit derselben Mischung herstellen.
+Es soll für euch heilig sein, für den HERRN.
+<sup>38</sup>Wer ein solches Räucherwerk herstellt, um sich an dem Duft zu erfreuen,
+der soll aus seinem Volk ausgeschlossen werden.“
+
+> **Was bedeutet das?**
+> Das Räucherwerk besteht aus vier Zutaten. Weihrauch ist ein duftendes Harz von einem Baum, der in Arabien und Afrika wächst. Galbanum ist ein Pflanzenharz. Die „Räucherklaue“ ist vermutlich der Deckel einer Meeresschnecke, der beim Verbrennen duftet.
+> Auch hier gilt: Dieser Duft ist nur für Gott. Niemand soll ihn für sich zu Hause nachmachen.
+> Bis heute wird in vielen Kirchen Weihrauch verbrannt. Das erinnert an diesen Dienst im Heiligtum und an das Gebet, das zu Gott aufsteigt.
+
+## 2. Mose – Kapitel 31
+#### Die Handwerker, der Sabbat und die zwei Steintafeln
+
+---
+
+### Bezalel und Oholiab (Vers 1–11)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Schau: Ich habe Bezalel mit Namen berufen.
+Er ist der Sohn von Uri, dem Sohn von Hur, aus dem Stamm Juda.
+<sup>3</sup>Ich habe ihn mit dem Geist Gottes erfüllt,
+mit Weisheit, mit Verstand und mit Wissen
+und mit Geschick für jede Art von Arbeit.
+<sup>4</sup>So kann er Kunstwerke entwerfen
+und mit Gold, mit Silber und mit Bronze arbeiten.
+<sup>5</sup>Er kann Steine schleifen und einsetzen,
+Holz schnitzen und jede Art von Arbeit machen.
+
+<sup>6</sup>Und ich selbst habe ihm Oholiab zur Seite gestellt,
+den Sohn von Ahisamach, aus dem Stamm Dan.
+Und allen, die ein weises Herz haben, habe ich Weisheit ins Herz gegeben.
+So können sie alles machen, was ich dir befohlen habe:
+<sup>7</sup>das Zelt der Begegnung, die Lade des Bundes,
+die Deckplatte darauf und alle Möbel des Zeltes,
+<sup>8</sup>den Tisch und seine Geräte, den reinen Leuchter mit allen seinen Geräten, den Räucheraltar,
+<sup>9</sup>den Brandopferaltar mit allen seinen Geräten, das Becken und sein Gestell,
+<sup>10</sup>die fein gearbeiteten Kleider –
+die heiligen Kleider für Aaron, den Priester,
+und die Kleider seiner Söhne für ihren Dienst als Priester –,
+<sup>11</sup>das Salböl und das wohlriechende Räucherwerk für das Heiligtum.
+Sie sollen alles genau so machen, wie ich es dir befohlen habe.“
+
+> **Was bedeutet das?**
+> Bezalel ist der erste Mensch in der Bibel, von dem es heißt, dass er mit dem Geist Gottes erfüllt ist. Und wofür? Für Kunst und Handwerk!
+> Das zeigt: Begabungen zum Gestalten, Bauen und Schmücken kommen von Gott. Nicht nur Priester und Propheten dienen Gott, sondern auch Handwerker und Künstler.
+> Bezalel kommt aus Juda, einem großen, wichtigen Stamm. Oholiab kommt aus Dan, einem kleinen Stamm. Beide arbeiten gemeinsam.
+> Hur ist vermutlich der Mann, der zusammen mit Aaron die Arme von Mose gestützt hat (2. Mose 17,12).
+
+---
+
+### Der Sabbat als Zeichen (Vers 12–17)
+
+<sup>12</sup>Der HERR sprach zu Mose:
+<sup>13</sup>„Sag auch zu den Israeliten:
+‚Ganz bestimmt sollt ihr meine Sabbate halten.
+Denn der Sabbat ist ein Zeichen zwischen mir und euch, für alle eure Generationen.
+Daran sollt ihr erkennen, dass ich der HERR bin, der euch heiligt.
+<sup>14</sup>Darum sollt ihr den Sabbat halten. Denn er ist euch heilig.
+Wer ihn entweiht, muss getötet werden.
+Denn wer an ihm irgendeine Arbeit tut, der soll aus seinem Volk ausgeschlossen werden.
+<sup>15</sup>Sechs Tage soll man arbeiten.
+Aber der siebte Tag ist ein Sabbat, ein Tag der völligen Ruhe, heilig für den HERRN.
+Wer am Sabbattag irgendeine Arbeit tut, muss getötet werden.
+<sup>16</sup>Darum sollen die Israeliten den Sabbat halten.
+Sie sollen den Sabbat feiern, für alle ihre Generationen, als ewigen Bund.
+<sup>17</sup>Er ist ein Zeichen zwischen mir und den Israeliten für immer.
+Denn in sechs Tagen hat der HERR Himmel und Erde gemacht.
+Und am siebten Tag hat er geruht und Atem geschöpft.‘“
+
+> **Was bedeutet das?**
+> Mitten in den Anweisungen für das Heiligtum kommt das Gebot zum Sabbat. Das ist kein Zufall. Es heißt: Auch die heilige Arbeit am Heiligtum muss am Sabbat ruhen. Die Ruhe mit Gott ist wichtiger als jede Arbeit, sogar als die Arbeit für Gott.
+> Der Sabbat ist ein „Zeichen“, wie ein Ehering zwischen Gott und seinem Volk. Er zeigt: Wir gehören zusammen.
+> „Atem geschöpft“ – das ist ein starkes Bild. Gott selbst erholt sich nach seiner Arbeit. Wenn sogar Gott ruht, dann brauchen Menschen die Ruhe erst recht.
+> Die Todesstrafe für Arbeit am Sabbat erschreckt uns heute. Sie zeigt, wie ernst der Sabbat damals genommen wurde: Er war das Herz des Bundes. Im späteren Judentum haben die Gelehrten sehr hohe Hürden aufgestellt, sodass solche Strafen kaum noch vollstreckt wurden. Jesus sagte später: „Der Sabbat ist für den Menschen gemacht, nicht der Mensch für den Sabbat“ (Markus 2,27).
+> Juden feiern den Sabbat bis heute von Freitagabend bis Samstagabend. Die meisten Christen feiern den Sonntag als Ruhetag, weil Jesus an einem Sonntag auferstanden ist.
+
+---
+
+### Die zwei Steintafeln (Vers 18)
+
+<sup>18</sup>Als Gott auf dem Berg Sinai zu Ende mit Mose geredet hatte,
+gab er ihm die zwei Tafeln des Bundes.
+Es waren Tafeln aus Stein, mit dem Finger Gottes beschrieben.
+
+> **Was bedeutet das?**
+> Hier enden die vielen Anweisungen, die Gott Mose auf dem Berg gegeben hat (seit Kapitel 25).
+> „Mit dem Finger Gottes beschrieben“ heißt: Diese Worte kommen direkt von Gott. Nicht Mose hat sie sich ausgedacht.
+> Aber während Mose oben auf dem Berg war, ist unten im Lager etwas Schlimmes passiert. Davon erzählt das nächste Kapitel.
