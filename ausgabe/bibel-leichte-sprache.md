@@ -11548,3 +11548,494 @@ Und gieß fünf Sockel aus Bronze für sie.“
 > **Was bedeutet das?**
 > Der Eingang ist im Osten. Auch er hat einen bunten Vorhang, aber ohne Kerubim.
 > Je näher man dem Allerheiligsten kommt, desto kostbarer werden die Materialien: außen Bronze, innen Silber und Gold. So zeigt die Bauweise: Je näher bei Gott, desto heiliger.
+
+## 2. Mose – Kapitel 27
+#### Der Brandopferaltar, der Vorhof und das Öl für den Leuchter
+
+---
+
+### Der Brandopferaltar (Vers 1–8)
+
+<sup>1</sup>„Mach den Altar aus Akazienholz.
+Er soll 2,25 Meter lang und 2,25 Meter breit sein, also quadratisch.
+Und er soll 1,35 Meter hoch sein.
+<sup>2</sup>An seine vier Ecken sollst du Hörner machen.
+Die Hörner sollen mit dem Altar aus einem Stück sein.
+Überzieh ihn mit Bronze.
+<sup>3</sup>Mach auch die Töpfe, in denen man die Asche wegträgt,
+die Schaufeln, die Schalen, die Fleischgabeln und die Feuerbecken.
+Alle seine Geräte sollst du aus Bronze machen.
+
+<sup>4</sup>Mach für den Altar ein Gitter aus Bronze, wie ein Netz.
+An die vier Ecken des Gitters mach vier Ringe aus Bronze.
+<sup>5</sup>Setz das Gitter unter den Rand, der rings um den Altar läuft, nach unten hin.
+Das Gitter soll bis zur halben Höhe des Altars reichen.
+<sup>6</sup>Mach Tragestangen für den Altar aus Akazienholz und überzieh sie mit Bronze.
+<sup>7</sup>Die Stangen sollen durch die Ringe gesteckt werden.
+Wenn man den Altar trägt, sollen die Stangen an seinen beiden Seiten sein.
+<sup>8</sup>Mach den Altar aus Brettern, innen hohl.
+So, wie es dir auf dem Berg gezeigt wurde, so sollen sie ihn machen.
+
+> **Was bedeutet das?**
+> In Ellen: 5 Ellen lang und breit, 3 Ellen hoch. Eine Elle ist etwa 45 Zentimeter.
+> Dieser Altar steht draußen im Vorhof, vor dem Eingang des Heiligtums. Auf ihm werden die Tieropfer verbrannt.
+> Die „Hörner“ sind Spitzen an den vier Ecken. Sie galten als besonders heilig. Wer verfolgt wurde, konnte sich an den Hörnern des Altars festhalten und um Schutz bitten (1. Könige 1,50).
+> Der Altar ist innen hohl und hat Tragestangen. So kann man ihn auf der Wanderung durch die Wüste mitnehmen.
+> Hier ist alles aus Bronze, nicht aus Gold. Je weiter man vom Allerheiligsten entfernt ist, desto einfacher werden die Materialien.
+
+---
+
+### Der Vorhof (Vers 9–19)
+
+<sup>9</sup>Mach den Vorhof der Wohnung.
+Für die Südseite sollen Behänge aus gezwirntem feinem Leinen gemacht werden, 45 Meter lang für diese eine Seite.
+<sup>10</sup>Dazu 20 Säulen mit 20 Sockeln aus Bronze.
+Die Haken der Säulen und ihre Verbindungsstangen sollen aus Silber sein.
+<sup>11</sup>Genauso soll es an der Nordseite sein:
+Behänge, 45 Meter lang, dazu 20 Säulen mit 20 Sockeln aus Bronze.
+Die Haken der Säulen und ihre Verbindungsstangen sollen aus Silber sein.
+
+<sup>12</sup>Für die Breite des Vorhofs an der Westseite sollen Behänge sein, 22,5 Meter lang,
+dazu zehn Säulen mit zehn Sockeln.
+<sup>13</sup>Auch an der Ostseite, nach Sonnenaufgang hin, soll der Vorhof 22,5 Meter breit sein.
+<sup>14</sup>Auf der einen Seite des Tores sollen Behänge sein, 6,75 Meter lang,
+dazu drei Säulen mit drei Sockeln.
+<sup>15</sup>Und auf der anderen Seite des Tores sollen Behänge sein, auch 6,75 Meter lang,
+dazu drei Säulen mit drei Sockeln.
+<sup>16</sup>Für das Tor des Vorhofs soll ein Vorhang sein, 9 Meter lang,
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen, bunt bestickt.
+Dazu vier Säulen mit vier Sockeln.
+
+<sup>17</sup>Alle Säulen rings um den Vorhof sollen mit silbernen Stangen verbunden sein.
+Ihre Haken sollen aus Silber sein und ihre Sockel aus Bronze.
+<sup>18</sup>Der Vorhof soll 45 Meter lang und überall 22,5 Meter breit sein.
+Die Behänge sollen 2,25 Meter hoch sein, aus gezwirntem feinem Leinen.
+Und ihre Sockel sollen aus Bronze sein.
+<sup>19</sup>Alle Geräte, die man für den Dienst in der Wohnung braucht,
+alle ihre Zeltpflöcke und alle Zeltpflöcke des Vorhofs sollen aus Bronze sein.
+
+> **Was bedeutet das?**
+> In Ellen: Der Vorhof ist 100 Ellen lang und 50 Ellen breit, die Behänge sind 5 Ellen hoch. Das Tor ist 20 Ellen breit, die Seitenteile daneben je 15 Ellen.
+> Der Vorhof ist ein großer, eingezäunter Platz um das Heiligtum herum, etwa so groß wie ein halbes Fußballfeld.
+> Die weißen Leinenbehänge waren über 2 Meter hoch. Von außen konnte man nicht hineinsehen. Mitten im Lager war so ein abgegrenzter, heiliger Bereich.
+> Es gibt nur einen einzigen Eingang, im Osten. Er ist besonders bunt und schön.
+
+---
+
+### Das Öl für den Leuchter (Vers 20–21)
+
+<sup>20</sup>Befiehl den Israeliten, dass sie dir reines Olivenöl bringen.
+Es soll aus zerstoßenen Oliven gepresst sein, für den Leuchter.
+Damit soll ständig eine Lampe brennen.
+<sup>21</sup>Im Zelt der Begegnung, vor dem Vorhang, hinter dem das Zeugnis des Bundes ist,
+sollen Aaron und seine Söhne die Lampe vom Abend bis zum Morgen vor dem HERRN brennen lassen.
+Das ist eine feste Ordnung für alle Zeiten, für alle Generationen der Israeliten.
+
+> **Was bedeutet das?**
+> Für die Lampen nimmt man das beste Öl: Es wird nicht gepresst, sondern die Oliven werden nur leicht zerstoßen. So ist das Öl ganz rein und brennt hell, ohne viel Rauch.
+> „Zelt der Begegnung“ ist ein anderer Name für das Heiligtum. Dort begegnen sich Gott und Mensch.
+> Das Licht soll jede Nacht brennen. Bis heute brennt in jeder Synagoge ein „ewiges Licht“. Auch in katholischen Kirchen brennt ein ewiges Licht. Es zeigt: Gott ist hier gegenwärtig.
+
+## 2. Mose – Kapitel 28
+#### Die Kleidung der Priester
+
+---
+
+### Aaron und seine Söhne werden Priester (Vers 1–5)
+
+<sup>1</sup>„Lass deinen Bruder Aaron und seine Söhne aus der Mitte der Israeliten zu dir kommen.
+Sie sollen mir als Priester dienen:
+Aaron und seine Söhne Nadab, Abihu, Eleasar und Itamar.
+<sup>2</sup>Mach für deinen Bruder Aaron heilige Kleider,
+die ihm Würde und Schönheit verleihen.
+<sup>3</sup>Sag es allen, die ein kunstfertiges Herz haben
+und die ich mit dem Geist der Weisheit erfüllt habe.
+Sie sollen die Kleider für Aaron machen,
+damit er für den Dienst geweiht wird und mir als Priester dienen kann.
+
+<sup>4</sup>Das sind die Kleider, die sie machen sollen:
+eine Brusttasche, ein Ephod, ein Obergewand, ein gewebtes Untergewand, einen Turban und eine Schärpe.
+Sie sollen heilige Kleider für deinen Bruder Aaron und seine Söhne machen,
+damit er mir als Priester dienen kann.
+<sup>5</sup>Dafür sollen sie Gold nehmen
+und blauen, purpurroten und karmesinroten Stoff und feines Leinen.
+
+> **Was bedeutet das?**
+> Ein Priester ist ein Mensch, der zwischen Gott und den Menschen vermittelt. Er bringt die Opfer des Volkes vor Gott und spricht den Segen Gottes über das Volk.
+> Aaron wird der erste Hohepriester, seine Söhne werden Priester. Später dürfen nur ihre Nachkommen Priester sein.
+> Die Kleider sollen „Würde und Schönheit“ verleihen. Wer vor Gott dient, soll das auch äußerlich zeigen.
+> Interessant: Handwerkliches Können wird hier als Geschenk von Gottes Geist bezeichnet. Kunst und Handwerk sind Gaben Gottes.
+
+---
+
+### Das Ephod (Vers 6–14)
+
+<sup>6</sup>Sie sollen das Ephod aus Gold machen,
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen, kunstvoll gewebt.
+<sup>7</sup>Es soll zwei Schulterträger haben, die an seinen beiden oberen Enden befestigt sind.
+So wird es zusammengehalten.
+<sup>8</sup>Der kunstvoll gewebte Gürtel daran soll genauso gemacht sein und aus einem Stück mit ihm,
+aus Gold, aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+
+<sup>9</sup>Nimm zwei Onyxsteine.
+Graviere die Namen der Söhne Israels hinein:
+<sup>10</sup>sechs Namen auf den einen Stein
+und die sechs übrigen Namen auf den anderen Stein,
+in der Reihenfolge ihrer Geburt.
+<sup>11</sup>Ein Steinschneider soll die Namen der Söhne Israels in die beiden Steine eingravieren, wie man ein Siegel graviert.
+Fass sie in goldene Fassungen ein.
+<sup>12</sup>Setz die beiden Steine auf die Schulterträger des Ephods.
+Sie sollen Erinnerungssteine für die Israeliten sein.
+So soll Aaron ihre Namen vor dem HERRN auf seinen beiden Schultern tragen, zur Erinnerung.
+
+<sup>13</sup>Mach goldene Fassungen
+<sup>14</sup>und zwei Ketten aus reinem Gold.
+Mach sie wie gedrehte Schnüre.
+Befestige die gedrehten Ketten an den Fassungen.
+
+> **Was bedeutet das?**
+> Das Ephod ist eine Art Schürze oder Weste, die über dem Obergewand getragen wird. Es wird mit Trägern über den Schultern gehalten.
+> Auf den Schultern trägt Aaron die Namen der zwölf Stämme. Das ist ein schönes Bild: Der Priester trägt das ganze Volk auf seinen Schultern vor Gott. Er vergisst keinen.
+
+---
+
+### Die Brusttasche (Vers 15–30)
+
+<sup>15</sup>Mach eine Brusttasche für die Rechtsentscheidungen, kunstvoll gewebt.
+Mach sie genauso wie das Ephod:
+aus Gold, aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+<sup>16</sup>Sie soll quadratisch sein und doppelt gelegt,
+eine Spanne lang und eine Spanne breit.
+
+<sup>17</sup>Setz Edelsteine in sie ein, in vier Reihen:
+In der ersten Reihe ein Rubin, ein Topas und ein Beryll.
+<sup>18</sup>In der zweiten Reihe ein Türkis, ein Saphir und ein Smaragd.
+<sup>19</sup>In der dritten Reihe ein Hyazinth, ein Achat und ein Amethyst.
+<sup>20</sup>In der vierten Reihe ein Chrysolith, ein Onyx und ein Jaspis.
+Sie sollen in goldene Fassungen eingesetzt werden.
+<sup>21</sup>Die Steine sollen den Namen der Söhne Israels entsprechen, zwölf nach ihren Namen.
+Auf jeden Stein soll ein Name eingraviert sein, wie man ein Siegel graviert.
+Sie sollen für die zwölf Stämme sein.
+
+<sup>22</sup>Mach für die Brusttasche Ketten wie gedrehte Schnüre aus reinem Gold.
+<sup>23</sup>Mach für die Brusttasche zwei Ringe aus Gold.
+Befestige die beiden Ringe an den beiden oberen Ecken der Brusttasche.
+<sup>24</sup>Steck die beiden goldenen Ketten durch die beiden Ringe an den Ecken der Brusttasche.
+<sup>25</sup>Die beiden anderen Enden der beiden Ketten befestige an den beiden Fassungen.
+Befestige sie vorn an den Schulterträgern des Ephods.
+
+<sup>26</sup>Mach noch zwei Ringe aus Gold.
+Befestige sie an den beiden unteren Ecken der Brusttasche, an ihrem inneren Rand, der zum Ephod hin liegt.
+<sup>27</sup>Und mach noch zwei Ringe aus Gold.
+Befestige sie unten vorn an den beiden Schulterträgern des Ephods,
+dort, wo sie zusammengenäht sind, oberhalb des gewebten Gürtels des Ephods.
+<sup>28</sup>Man soll die Brusttasche mit ihren Ringen an den Ringen des Ephods festbinden, mit einer blauen Schnur.
+So bleibt sie über dem Gürtel des Ephods
+und kann sich nicht vom Ephod lösen.
+
+<sup>29</sup>So soll Aaron die Namen der Söhne Israels auf der Brusttasche für die Rechtsentscheidungen auf seinem Herzen tragen,
+wenn er in das Heiligtum geht.
+Das soll eine ständige Erinnerung vor dem HERRN sein.
+<sup>30</sup>In die Brusttasche sollst du die Urim und Tummim legen.
+Sie sollen auf Aarons Herzen sein, wenn er vor den HERRN tritt.
+So soll Aaron die Rechtsentscheidungen für die Israeliten ständig auf seinem Herzen vor dem HERRN tragen.
+
+> **Was bedeutet das?**
+> Eine Spanne ist der Abstand zwischen Daumen und kleinem Finger bei gespreizter Hand, etwa 22 Zentimeter.
+> Welche Edelsteine genau gemeint sind, weiß man heute nicht mehr sicher. Die Namen sind Übersetzungen der alten hebräischen Wörter. Verschiedene Bibeln nennen hier unterschiedliche Steine.
+> Zwölf Edelsteine für die zwölf Stämme. Jeder Stamm ist kostbar und einzigartig wie ein Edelstein.
+> Der Priester trägt die Namen des Volkes auf den Schultern (Kraft) und auf dem Herzen (Liebe). Er bringt das Volk mit allem, was es bewegt, vor Gott.
+> Was die „Urim und Tummim“ genau waren, weiß man nicht. Wahrscheinlich waren es zwei Lose oder Steine. Mit ihnen konnte man in schwierigen Fragen Gottes Willen erfragen. Die Wörter bedeuten vermutlich „Lichter und Vollkommenheiten“.
+
+---
+
+### Das Obergewand mit Glöckchen (Vers 31–35)
+
+<sup>31</sup>Mach das Obergewand, das unter dem Ephod getragen wird, ganz aus blauem Stoff.
+<sup>32</sup>In der Mitte soll eine Öffnung für den Kopf sein.
+Rings um die Öffnung soll eine gewebte Borte sein,
+wie bei der Halsöffnung eines Panzerhemdes, damit sie nicht einreißt.
+<sup>33</sup>An seinem Saum sollst du Granatäpfel machen,
+aus blauem, purpurrotem und karmesinrotem Stoff, rings um den Saum.
+Und dazwischen ringsherum Glöckchen aus Gold:
+<sup>34</sup>ein goldenes Glöckchen und ein Granatapfel,
+ein goldenes Glöckchen und ein Granatapfel,
+rings um den Saum des Obergewandes.
+<sup>35</sup>Aaron soll es tragen, wenn er seinen Dienst tut.
+Man soll den Klang hören, wenn er in das Heiligtum vor den HERRN hineingeht und wenn er herauskommt.
+Sonst muss er sterben.
+
+> **Was bedeutet das?**
+> Der Granatapfel ist eine Frucht mit vielen Kernen. Er war ein Zeichen für Fruchtbarkeit und Leben.
+> Die Glöckchen klingen bei jedem Schritt. So hört das Volk draußen: Der Priester ist drinnen und tut seinen Dienst. Er lebt.
+> „Sonst muss er sterben“ – das klingt hart. Es zeigt, wie ernst die Begegnung mit dem heiligen Gott ist. Man geht nicht einfach unangemeldet zu Gott, wie zu einem König.
+
+---
+
+### Das goldene Stirnblatt (Vers 36–38)
+
+<sup>36</sup>Mach ein Blatt aus reinem Gold.
+Graviere darauf, wie man ein Siegel graviert:
+„Heilig für den HERRN“.
+<sup>37</sup>Befestige es mit einer blauen Schnur am Turban.
+Es soll vorn am Turban sein.
+<sup>38</sup>Es soll auf Aarons Stirn sein.
+So trägt Aaron die Schuld, die an den heiligen Gaben hängen kann,
+die die Israeliten als heilige Gaben weihen.
+Es soll immer auf seiner Stirn sein,
+damit der HERR die Gaben gnädig annimmt.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht in Vers 37 „Schärpe“. Im hebräischen Text ist aber der Turban gemeint, also die Kopfbedeckung, denn das Blatt sitzt auf der Stirn. Darum steht hier „Turban“.
+> „Heilig für den HERRN“ – diese Worte zeigen: Der Priester gehört ganz Gott. Und er steht stellvertretend für das ganze Volk, das Gott gehören soll.
+> Menschen machen Fehler, auch wenn sie Gott etwas schenken wollen. Der Priester trägt diese Fehler vor Gott, damit Gott die Gaben trotzdem gnädig annimmt.
+
+---
+
+### Die übrigen Kleider (Vers 39–43)
+
+<sup>39</sup>Web das Untergewand aus feinem Leinen.
+Mach einen Turban aus feinem Leinen.
+Und mach eine bunt bestickte Schärpe.
+
+<sup>40</sup>Auch für die Söhne Aarons sollst du Untergewänder machen.
+Mach für sie Schärpen und Kopfbedeckungen.
+Sie sollen ihnen Würde und Schönheit verleihen.
+<sup>41</sup>Zieh sie deinem Bruder Aaron und seinen Söhnen an.
+Salbe sie, setz sie in ihr Amt ein und weihe sie,
+damit sie mir als Priester dienen können.
+
+<sup>42</sup>Mach ihnen Unterhosen aus Leinen, damit ihre Blöße bedeckt ist.
+Sie sollen von den Hüften bis zu den Oberschenkeln reichen.
+<sup>43</sup>Aaron und seine Söhne sollen sie tragen,
+wenn sie in das Zelt der Begegnung gehen
+oder wenn sie an den Altar treten, um im Heiligtum zu dienen.
+Sonst laden sie Schuld auf sich und müssen sterben.
+Das ist eine feste Ordnung für alle Zeiten, für Aaron und seine Nachkommen.
+
+> **Was bedeutet das?**
+> „Salben“ heißt: mit duftendem Öl übergießen. Das ist ein Zeichen dafür, dass jemand von Gott für eine besondere Aufgabe ausgewählt wird. Auch Könige wurden später gesalbt. Das hebräische Wort für „Gesalbter“ ist „Messias“, auf Griechisch „Christus“.
+> Die Priester sollen würdig und anständig gekleidet sein. In vielen anderen Religionen der damaligen Zeit gab es Rituale mit Nacktheit. Bei Israel nicht.
+
+## 2. Mose – Kapitel 29
+#### Die Weihe der Priester – das tägliche Opfer
+
+---
+
+### Vorbereitung (Vers 1–3)
+
+<sup>1</sup>„So sollst du mit ihnen verfahren, um sie zu weihen, damit sie mir als Priester dienen:
+Nimm einen jungen Stier und zwei Schafböcke ohne Fehler.
+<sup>2</sup>Nimm auch ungesäuertes Brot,
+ungesäuerte Kuchen, die mit Öl vermengt sind,
+und ungesäuerte Fladen, die mit Öl bestrichen sind.
+Mach sie aus feinem Weizenmehl.
+<sup>3</sup>Leg sie in einen Korb.
+Bring sie in dem Korb her, zusammen mit dem Stier und den beiden Schafböcken.
+
+> **Was bedeutet das?**
+> Jetzt wird beschrieben, wie Aaron und seine Söhne in ihr Amt eingesetzt werden. Die Weihe dauert sieben Tage. In 3. Mose 8 wird erzählt, wie sie tatsächlich stattfindet.
+> „Weihen“ heißt: für Gott bestimmen und heilig machen.
+
+---
+
+### Waschen, Ankleiden und Salben (Vers 4–9)
+
+<sup>4</sup>Bring Aaron und seine Söhne zum Eingang des Zeltes der Begegnung.
+Wasch sie mit Wasser.
+<sup>5</sup>Nimm die Kleider.
+Zieh Aaron das Untergewand an, das Obergewand, das Ephod und die Brusttasche.
+Und bind ihm den gewebten Gürtel des Ephods um.
+<sup>6</sup>Setz ihm den Turban auf den Kopf.
+Und setz die heilige Krone auf den Turban.
+<sup>7</sup>Dann nimm das Salböl.
+Gieß es auf seinen Kopf und salbe ihn.
+
+<sup>8</sup>Lass auch seine Söhne herkommen.
+Zieh ihnen Untergewänder an.
+<sup>9</sup>Bind ihnen Schärpen um, Aaron und seinen Söhnen.
+Und setz ihnen Kopfbedeckungen auf.
+Das Priesteramt soll ihnen gehören, als feste Ordnung für alle Zeiten.
+So sollst du Aaron und seine Söhne in ihr Amt einsetzen.
+
+> **Was bedeutet das?**
+> Zuerst werden sie gewaschen. Wer Gott dienen will, muss rein sein – äußerlich und innerlich.
+> Die „heilige Krone“ ist das goldene Stirnblatt mit der Aufschrift „Heilig für den HERRN“ (Kapitel 28,36).
+> Nur Aaron wird mit Öl übergossen, als Zeichen für sein besonderes Amt als Hoherpriester.
+
+---
+
+### Das Sündopfer: der Stier (Vers 10–14)
+
+<sup>10</sup>Bring den Stier vor das Zelt der Begegnung.
+Aaron und seine Söhne sollen ihre Hände auf den Kopf des Stiers legen.
+<sup>11</sup>Dann schlachte den Stier vor dem HERRN, am Eingang des Zeltes der Begegnung.
+<sup>12</sup>Nimm etwas vom Blut des Stiers und streich es mit deinem Finger an die Hörner des Altars.
+Das ganze übrige Blut gieß unten an den Altar.
+<sup>13</sup>Nimm das ganze Fett, das die Eingeweide umhüllt,
+den Fettlappen an der Leber, die beiden Nieren und das Fett an ihnen.
+Verbrenne es auf dem Altar.
+<sup>14</sup>Aber das Fleisch des Stiers, seine Haut und seinen Mist sollst du draußen vor dem Lager verbrennen.
+Es ist ein Sündopfer.
+
+> **Was bedeutet das?**
+> Opfer sind uns heute fremd. Damals waren sie die Art, wie Menschen vor Gott kamen.
+> Wenn Aaron und seine Söhne die Hände auf den Kopf des Tieres legen, zeigen sie: Dieses Tier steht für uns. Es trägt unsere Schuld.
+> Auch die Priester sind Menschen mit Fehlern. Bevor sie für andere vor Gott treten, brauchen sie selbst Vergebung.
+> Ein „Sündopfer“ ist ein Opfer, durch das Schuld vergeben wird.
+> Das Fett galt als der beste Teil des Tieres. Es gehört Gott.
+> Das Neue Testament erinnert daran, dass auch Jesus „draußen vor dem Tor“ gestorben ist (Hebräer 13,11–12).
+
+---
+
+### Das Brandopfer: der erste Schafbock (Vers 15–18)
+
+<sup>15</sup>Nimm den einen Schafbock.
+Aaron und seine Söhne sollen ihre Hände auf seinen Kopf legen.
+<sup>16</sup>Schlachte den Schafbock.
+Nimm sein Blut und sprenge es ringsum an den Altar.
+<sup>17</sup>Zerleg den Schafbock in seine Stücke.
+Wasch seine Eingeweide und seine Beine.
+Leg sie zu den anderen Stücken und zu seinem Kopf.
+<sup>18</sup>Dann verbrenne den ganzen Schafbock auf dem Altar.
+Er ist ein Brandopfer für den HERRN,
+ein angenehmer Duft, ein Feueropfer für den HERRN.
+
+> **Was bedeutet das?**
+> Beim Brandopfer wird das ganze Tier verbrannt. Nichts bleibt für die Menschen. Es ist ein Zeichen der völligen Hingabe: Wir gehören ganz dir, Gott.
+> „Ein angenehmer Duft für den HERRN“ ist ein Bild dafür, dass Gott das Opfer gern annimmt.
+
+---
+
+### Das Weiheopfer: der zweite Schafbock (Vers 19–28)
+
+<sup>19</sup>Dann nimm den anderen Schafbock.
+Aaron und seine Söhne sollen ihre Hände auf seinen Kopf legen.
+<sup>20</sup>Schlachte den Schafbock.
+Nimm etwas von seinem Blut und streich es
+an das rechte Ohrläppchen von Aaron und an das rechte Ohrläppchen seiner Söhne,
+an den Daumen ihrer rechten Hand und an die große Zehe ihres rechten Fußes.
+Das übrige Blut sprenge ringsum an den Altar.
+<sup>21</sup>Nimm etwas von dem Blut, das auf dem Altar ist, und etwas vom Salböl.
+Sprenge es auf Aaron und seine Kleider
+und auf seine Söhne und ihre Kleider.
+So werden er und seine Kleider und seine Söhne und ihre Kleider heilig.
+
+<sup>22</sup>Nimm vom Schafbock das Fett:
+den Fettschwanz, das Fett, das die Eingeweide umhüllt,
+den Fettlappen an der Leber, die beiden Nieren und das Fett an ihnen,
+und die rechte Keule.
+Denn es ist der Schafbock der Amtseinsetzung.
+<sup>23</sup>Nimm dazu aus dem Korb mit dem ungesäuerten Brot, der vor dem HERRN steht,
+ein Brot, einen Ölkuchen und einen Fladen.
+<sup>24</sup>Leg das alles in die Hände von Aaron und seinen Söhnen.
+Sie sollen es vor dem HERRN hin- und herschwingen, als Schwingopfer.
+<sup>25</sup>Dann nimm es aus ihren Händen.
+Verbrenne es auf dem Altar, auf dem Brandopfer,
+als angenehmen Duft vor dem HERRN.
+Es ist ein Feueropfer für den HERRN.
+
+<sup>26</sup>Nimm die Brust vom Schafbock der Amtseinsetzung von Aaron.
+Schwinge sie vor dem HERRN hin und her, als Schwingopfer.
+Sie soll dein Anteil sein.
+<sup>27</sup>So sollst du heiligen:
+die Brust des Schwingopfers und die Keule des Schwingopfers,
+die vom Schafbock der Amtseinsetzung geschwungen und hochgehoben wurden,
+von dem, was für Aaron und seine Söhne bestimmt ist.
+<sup>28</sup>Das soll für alle Zeiten der Anteil sein, den Aaron und seine Söhne von den Israeliten bekommen.
+Denn es ist ein Schwingopfer.
+Es soll ein Schwingopfer der Israeliten von ihren Gemeinschaftsopfern sein, ihr Schwingopfer für den HERRN.
+
+> **Was bedeutet das?**
+> Das Blut wird an Ohr, Hand und Fuß gestrichen, jeweils rechts. Das bedeutet: Der Priester soll mit seinem Ohr auf Gott hören, mit seiner Hand Gottes Werk tun und mit seinem Fuß auf Gottes Wegen gehen. Der ganze Mensch gehört Gott.
+> Beim „Schwingopfer“ wird die Gabe vor dem Altar hin- und hergeschwungen. Das ist ein Zeichen: Wir geben es Gott – und Gott gibt es uns zurück.
+> Ein Teil der Opfer ist das Essen für die Priester. So sorgt Gott für die, die ihm dienen.
+> Der „Fettschwanz“ gehört zu einer besonderen Schafrasse im Orient, die viel Fett im Schwanz speichert.
+
+---
+
+### Die Kleider für die Nachfolger (Vers 29–30)
+
+<sup>29</sup>Die heiligen Kleider von Aaron sollen nach ihm seinen Söhnen gehören.
+In ihnen sollen sie gesalbt und in ihr Amt eingesetzt werden.
+<sup>30</sup>Der Sohn, der nach ihm Priester wird, soll sie sieben Tage lang tragen,
+wenn er in das Zelt der Begegnung geht, um im Heiligtum zu dienen.
+
+---
+
+### Das heilige Mahl (Vers 31–34)
+
+<sup>31</sup>Nimm den Schafbock der Amtseinsetzung und koch sein Fleisch an einem heiligen Ort.
+<sup>32</sup>Aaron und seine Söhne sollen das Fleisch des Schafbocks und das Brot im Korb essen,
+am Eingang des Zeltes der Begegnung.
+<sup>33</sup>Sie sollen das essen, womit die Versöhnung für sie geschehen ist,
+um sie in ihr Amt einzusetzen und zu weihen.
+Aber ein Fremder darf nicht davon essen.
+Denn es ist heilig.
+<sup>34</sup>Wenn vom Fleisch der Amtseinsetzung oder vom Brot etwas bis zum Morgen übrig bleibt,
+dann verbrenne den Rest im Feuer.
+Man darf es nicht essen.
+Denn es ist heilig.
+
+> **Was bedeutet das?**
+> Am Ende der Weihe gibt es ein gemeinsames Mahl. Es ist wie ein Festessen mit Gott.
+> „Versöhnung“ heißt: Die Trennung zwischen Gott und Mensch wird aufgehoben. Die Beziehung ist wieder heil.
+> „Ein Fremder“ meint hier: jemand, der nicht zur Priesterfamilie gehört.
+
+---
+
+### Sieben Tage der Weihe (Vers 35–37)
+
+<sup>35</sup>So sollst du es mit Aaron und seinen Söhnen machen, genau so, wie ich es dir befohlen habe.
+Sieben Tage lang sollst du sie in ihr Amt einsetzen.
+<sup>36</sup>Jeden Tag sollst du einen Stier als Sündopfer zur Versöhnung darbringen.
+Reinige den Altar, indem du für ihn Versöhnung schaffst.
+Salbe ihn, um ihn zu heiligen.
+<sup>37</sup>Sieben Tage lang sollst du für den Altar Versöhnung schaffen und ihn heiligen.
+Dann wird der Altar hochheilig sein.
+Alles, was den Altar berührt, wird heilig.
+
+> **Was bedeutet das?**
+> Sieben Tage – wie die sieben Tage der Schöpfung. Mit dem Heiligtum beginnt etwas ganz Neues.
+> Sogar der Altar wird gereinigt und geweiht. Alles, was Gott dient, soll heilig sein.
+
+---
+
+### Das tägliche Opfer (Vers 38–42)
+
+<sup>38</sup>Und das sollst du auf dem Altar darbringen:
+Jeden Tag ständig zwei einjährige Lämmer.
+<sup>39</sup>Das eine Lamm sollst du am Morgen darbringen
+und das andere Lamm am Abend.
+<sup>40</sup>Zu dem einen Lamm gehören gut 2 Liter feines Mehl, vermengt mit einem Liter Öl aus zerstoßenen Oliven,
+und ein Liter Wein als Trankopfer.
+<sup>41</sup>Das andere Lamm sollst du am Abend darbringen.
+Mach es dabei genauso wie mit dem Speiseopfer und dem Trankopfer am Morgen,
+als angenehmen Duft, ein Feueropfer für den HERRN.
+<sup>42</sup>Das soll ein ständiges Brandopfer sein, für alle eure Generationen,
+am Eingang des Zeltes der Begegnung vor dem HERRN.
+Dort will ich euch begegnen, um dort mit dir zu reden.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: ein Zehntel Efa Mehl, ein Viertel Hin Öl und ein Viertel Hin Wein. Ein Hin ist etwa 4 Liter.
+> Jeden Morgen und jeden Abend ein Opfer. Der ganze Tag wird mit Gott begonnen und mit Gott beendet. Bis heute beten Juden zu diesen Zeiten. Auch viele Christen haben ein Morgen- und ein Abendgebet.
+
+---
+
+### Gott wohnt mitten unter seinem Volk (Vers 43–46)
+
+<sup>43</sup>Dort will ich den Israeliten begegnen.
+Und der Ort wird durch meine Herrlichkeit heilig werden.
+<sup>44</sup>Ich will das Zelt der Begegnung und den Altar heiligen.
+Und ich will Aaron und seine Söhne heiligen, damit sie mir als Priester dienen.
+<sup>45</sup>Ich will mitten unter den Israeliten wohnen.
+Und ich will ihr Gott sein.
+<sup>46</sup>Dann werden sie erkennen, dass ich der HERR bin, ihr Gott,
+der sie aus dem Land Ägypten herausgeführt hat,
+um mitten unter ihnen zu wohnen.
+Ich bin der HERR, ihr Gott.“
+
+> **Was bedeutet das?**
+> Diese Verse sind das Ziel von allem: „Ich will mitten unter ihnen wohnen und ihr Gott sein.“
+> Gott hat Israel nicht nur aus Ägypten befreit, damit es frei ist. Er hat es befreit, um bei ihm zu wohnen. Die Befreiung führt zur Gemeinschaft mit Gott.
+> Im Neuen Testament heißt es über Jesus: „Das Wort wurde Mensch und wohnte unter uns“ (Johannes 1,14). Wörtlich steht dort: „Es zeltete unter uns.“ Und ganz am Ende der Bibel heißt es: „Seht, das Zelt Gottes ist bei den Menschen. Er wird bei ihnen wohnen“ (Offenbarung 21,3).
