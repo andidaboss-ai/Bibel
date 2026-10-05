@@ -13755,3 +13755,375 @@ Ihr dürft weder Fett noch Blut essen.‘“
 > Gemeint ist hier das Fett um die inneren Organe, nicht das Fett, das im Fleisch steckt.
 > Das Blut darf man nicht essen, weil im Blut das Leben ist (3. Mose 17,11). Das Leben gehört Gott. Dieses Verbot gab es schon zur Zeit von Noah (1. Mose 9,4).
 > Bis heute achten Juden darauf, dass koscheres Fleisch ausgeblutet ist. Auch die ersten Christen haben das Blutverbot beachtet (Apostelgeschichte 15,20).
+
+## 3. Mose – Kapitel 4
+#### Das Sündopfer
+
+---
+
+### Wenn der Hohepriester sündigt (Vers 1–12)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag:
+‚Wenn jemand ohne Absicht sündigt
+und etwas von dem tut, was der HERR verboten hat –
+<sup>3</sup>wenn der gesalbte Priester sündigt und dadurch Schuld über das Volk bringt,
+dann soll er für die Sünde, die er begangen hat, dem HERRN einen jungen Stier ohne Fehler als Sündopfer bringen.
+<sup>4</sup>Er soll den Stier zum Eingang des Zeltes der Begegnung bringen, vor den HERRN.
+Er soll seine Hand auf den Kopf des Stiers legen und den Stier vor dem HERRN schlachten.
+<sup>5</sup>Der gesalbte Priester soll etwas vom Blut des Stiers nehmen und es in das Zelt der Begegnung bringen.
+<sup>6</sup>Der Priester soll seinen Finger in das Blut tauchen
+und siebenmal etwas vom Blut vor dem HERRN sprengen, vor den Vorhang des Heiligtums.
+<sup>7</sup>Der Priester soll etwas vom Blut an die Hörner des Altars für das duftende Räucherwerk streichen,
+der vor dem HERRN im Zelt der Begegnung steht.
+Das ganze übrige Blut des Stiers soll er unten an den Brandopferaltar gießen,
+der am Eingang des Zeltes der Begegnung steht.
+
+<sup>8</sup>Er soll das ganze Fett vom Stier des Sündopfers herausnehmen:
+das Fett, das die Eingeweide umhüllt, und alles Fett an den Eingeweiden,
+<sup>9</sup>die beiden Nieren und das Fett an ihnen, das an den Lenden ist,
+und den Fettlappen an der Leber. Den soll er zusammen mit den Nieren herausnehmen,
+<sup>10</sup>so wie man es beim Stier des Gemeinschaftsopfers herausnimmt.
+Der Priester soll es auf dem Brandopferaltar verbrennen.
+<sup>11</sup>Aber die Haut des Stiers und sein ganzes Fleisch, mit seinem Kopf und seinen Beinen, seinen Eingeweiden und seinem Mist,
+<sup>12</sup>also den ganzen übrigen Stier,
+soll er hinausbringen, vor das Lager, an einen reinen Ort, wo man die Asche ausschüttet.
+Dort soll er ihn auf Holz im Feuer verbrennen.
+Er soll dort verbrannt werden, wo man die Asche ausschüttet.
+
+> **Was bedeutet das?**
+> Jetzt geht es um das „Sündopfer“. Es ist für Sünden, die jemand ohne Absicht begangen hat: aus Versehen, aus Unwissen oder weil er nicht aufgepasst hat.
+> Auch solche Fehler zählen. Sie stören die Beziehung zu Gott und zu anderen. Aber Gott gibt einen Weg, wie sie vergeben werden können.
+> Das Kapitel geht der Reihe nach vor: Was tut der Hohepriester? Was tut das ganze Volk? Was tut ein Anführer? Was tut ein einfacher Mensch?
+> Der „gesalbte Priester“ ist der Hohepriester. Wenn er einen Fehler macht, betrifft das das ganze Volk. Denn er steht für das Volk vor Gott. Darum muss er ein großes Opfer bringen: einen jungen Stier.
+> Das Blut wird sogar ins Heiligtum gebracht, bis vor den Vorhang zum Allerheiligsten. Je wichtiger der Mensch, desto schwerer wiegt seine Schuld.
+> Sieben ist die Zahl der Vollständigkeit. Die Versöhnung soll ganz und vollständig sein.
+> Das Fleisch darf hier niemand essen. Es wird draußen vor dem Lager verbrannt. Der Hohepriester darf nicht von seinem eigenen Sündopfer essen.
+
+---
+
+### Wenn das ganze Volk sündigt (Vers 13–21)
+
+<sup>13</sup>Wenn die ganze Gemeinde Israels sündigt, ohne dass die Versammlung es merkt,
+und sie etwas von dem tun, was der HERR verboten hat, und dadurch schuldig werden,
+<sup>14</sup>und wenn dann die Sünde bekannt wird, die sie begangen haben,
+dann soll die Versammlung einen jungen Stier als Sündopfer bringen.
+Sie sollen ihn vor das Zelt der Begegnung bringen.
+<sup>15</sup>Die Ältesten der Gemeinde sollen vor dem HERRN ihre Hände auf den Kopf des Stiers legen.
+Und der Stier soll vor dem HERRN geschlachtet werden.
+<sup>16</sup>Der gesalbte Priester soll etwas vom Blut des Stiers in das Zelt der Begegnung bringen.
+<sup>17</sup>Der Priester soll seinen Finger in das Blut tauchen und es siebenmal vor dem HERRN sprengen, vor den Vorhang.
+<sup>18</sup>Er soll etwas vom Blut an die Hörner des Altars streichen, der vor dem HERRN im Zelt der Begegnung steht.
+Das ganze übrige Blut soll er unten an den Brandopferaltar gießen, der am Eingang des Zeltes der Begegnung steht.
+<sup>19</sup>Das ganze Fett soll er herausnehmen und auf dem Altar verbrennen.
+<sup>20</sup>So soll er es mit dem Stier machen.
+Wie er es mit dem Stier des Sündopfers gemacht hat, so soll er es auch mit diesem machen.
+So soll der Priester für sie Versöhnung schaffen, und es wird ihnen vergeben.
+<sup>21</sup>Er soll den Stier hinausbringen, vor das Lager,
+und ihn verbrennen, so wie er den ersten Stier verbrannt hat.
+Es ist das Sündopfer für die Versammlung.
+
+> **Was bedeutet das?**
+> Auch ein ganzes Volk kann gemeinsam schuldig werden, ohne es zu merken. Zum Beispiel, wenn alle bei einem Unrecht mitmachen oder wegsehen.
+> Die Ältesten legen stellvertretend für alle die Hände auf das Tier.
+> „Es wird ihnen vergeben“ – das ist das Ziel des Opfers. Gott will vergeben.
+
+---
+
+### Wenn ein Anführer sündigt (Vers 22–26)
+
+<sup>22</sup>Wenn ein Anführer sündigt
+und ohne Absicht etwas von dem tut, was der HERR, sein Gott, verboten hat, und dadurch schuldig wird,
+<sup>23</sup>und wenn ihm dann die Sünde bewusst gemacht wird, die er begangen hat,
+dann soll er als Opfergabe einen Ziegenbock bringen, ein männliches Tier ohne Fehler.
+<sup>24</sup>Er soll seine Hand auf den Kopf des Ziegenbocks legen
+und ihn dort schlachten, wo man vor dem HERRN das Brandopfer schlachtet.
+Es ist ein Sündopfer.
+<sup>25</sup>Der Priester soll mit seinem Finger etwas vom Blut des Sündopfers nehmen
+und es an die Hörner des Brandopferaltars streichen.
+Das übrige Blut soll er unten an den Brandopferaltar gießen.
+<sup>26</sup>Das ganze Fett soll er auf dem Altar verbrennen, so wie das Fett des Gemeinschaftsopfers.
+So soll der Priester für ihn Versöhnung schaffen wegen seiner Sünde, und es wird ihm vergeben.
+
+> **Was bedeutet das?**
+> Ein Anführer ist zum Beispiel das Oberhaupt eines Stammes. Er bringt einen Ziegenbock, also etwas weniger als der Hohepriester.
+> Hier wird das Blut nur an den Altar draußen gestrichen, nicht im Heiligtum gesprengt.
+
+---
+
+### Wenn ein einfacher Mensch sündigt (Vers 27–35)
+
+<sup>27</sup>Wenn jemand aus dem einfachen Volk ohne Absicht sündigt,
+indem er etwas von dem tut, was der HERR verboten hat, und dadurch schuldig wird,
+<sup>28</sup>und wenn ihm dann die Sünde bewusst gemacht wird, die er begangen hat,
+dann soll er für die Sünde, die er begangen hat, als Opfergabe eine Ziege bringen, ein weibliches Tier ohne Fehler.
+<sup>29</sup>Er soll seine Hand auf den Kopf des Sündopfers legen
+und das Sündopfer dort schlachten, wo man das Brandopfer schlachtet.
+<sup>30</sup>Der Priester soll mit seinem Finger etwas von seinem Blut nehmen
+und es an die Hörner des Brandopferaltars streichen.
+Das ganze übrige Blut soll er unten an den Altar gießen.
+<sup>31</sup>Das ganze Fett soll er herausnehmen, so wie man das Fett beim Gemeinschaftsopfer herausnimmt.
+Der Priester soll es auf dem Altar verbrennen, als angenehmen Duft für den HERRN.
+So soll der Priester für ihn Versöhnung schaffen, und es wird ihm vergeben.
+
+<sup>32</sup>Wenn er ein Lamm als Opfergabe für ein Sündopfer bringt,
+dann soll er ein weibliches Tier ohne Fehler bringen.
+<sup>33</sup>Er soll seine Hand auf den Kopf des Sündopfers legen
+und es als Sündopfer dort schlachten, wo man das Brandopfer schlachtet.
+<sup>34</sup>Der Priester soll mit seinem Finger etwas vom Blut des Sündopfers nehmen
+und es an die Hörner des Brandopferaltars streichen.
+Das ganze übrige Blut soll er unten an den Altar gießen.
+<sup>35</sup>Das ganze Fett soll er herausnehmen, so wie man das Fett des Lammes beim Gemeinschaftsopfer herausnimmt.
+Der Priester soll es auf dem Altar verbrennen, auf den Feueropfern für den HERRN.
+So soll der Priester für ihn Versöhnung schaffen wegen der Sünde, die er begangen hat, und es wird ihm vergeben.‘“
+
+> **Was bedeutet das?**
+> Auch der einfache Mensch kann vergeben bekommen. Er bringt eine Ziege oder ein Lamm.
+> Viermal steht in diesem Kapitel: „und es wird ihm vergeben“ oder „es wird ihnen vergeben“. Egal ob Hohepriester, ganzes Volk, Anführer oder einfacher Mensch – für jeden gibt es Vergebung.
+> Wichtig: Diese Opfer gelten für Sünden „ohne Absicht“. Für Sünden, die man bewusst und mit Absicht tut, gelten andere Regeln (4. Mose 15,30). Später sagen die Propheten deutlich: Gott will nicht nur Opfer, sondern ein ehrliches, reuiges Herz (Psalm 51,18–19; Hosea 6,6).
+
+## 3. Mose – Kapitel 5
+#### Sündopfer für besondere Fälle – das Schuldopfer
+
+---
+
+### Vier Fälle (Vers 1–4)
+
+<sup>1</sup>‚Wenn jemand sündigt, weil er als Zeuge öffentlich aufgerufen wird, auszusagen,
+er hat etwas gesehen oder weiß etwas,
+aber er meldet es nicht,
+dann trägt er seine Schuld.
+
+<sup>2</sup>Oder wenn jemand etwas Unreines berührt,
+sei es den toten Körper eines unreinen wilden Tieres
+oder den toten Körper eines unreinen Haustieres
+oder den toten Körper eines unreinen Kriechtieres,
+und er merkt es nicht, aber er ist unrein,
+dann ist er schuldig.
+
+<sup>3</sup>Oder wenn er etwas Unreines von einem Menschen berührt,
+egal welche Unreinheit es ist, durch die man unrein wird,
+und er merkt es nicht,
+dann ist er schuldig, sobald er es erfährt.
+
+<sup>4</sup>Oder wenn jemand unüberlegt mit seinen Lippen schwört, etwas Schlechtes oder etwas Gutes zu tun –
+egal was ein Mensch unüberlegt schwören kann –,
+und er merkt es nicht,
+dann ist er schuldig in einem dieser Fälle, sobald er es erfährt.
+
+> **Was bedeutet das?**
+> Hier werden vier Fälle genannt:
+> 1. Jemand hat etwas gesehen, schweigt aber vor Gericht. Wer die Wahrheit kennt und schweigt, macht sich mitschuldig.
+> 2. und 3. Jemand hat ohne es zu merken etwas „Unreines“ berührt. Was „unrein“ bedeutet, wird in den Kapiteln 11 bis 15 erklärt. Unrein heißt nicht schmutzig oder böse. Es heißt: Man ist eine Zeit lang nicht bereit, ins Heiligtum zu kommen.
+> 4. Jemand hat leichtfertig etwas geschworen und es dann vergessen. Worte sind wichtig. Jesus sagt später: „Euer Ja sei ein Ja, euer Nein ein Nein“ (Matthäus 5,37).
+
+---
+
+### Bekennen und opfern (Vers 5–6)
+
+<sup>5</sup>Wenn er in einem dieser Fälle schuldig ist,
+dann soll er bekennen, worin er gesündigt hat.
+<sup>6</sup>Und er soll dem HERRN sein Schuldopfer bringen für die Sünde, die er begangen hat:
+ein weibliches Tier von den Schafen oder Ziegen, ein Lamm oder eine Ziege, als Sündopfer.
+So soll der Priester für ihn Versöhnung schaffen wegen seiner Sünde.
+
+> **Was bedeutet das?**
+> Hier steht etwas sehr Wichtiges: Zuerst soll man die Sünde bekennen, also offen aussprechen, was man falsch gemacht hat. Das Opfer allein reicht nicht. Man muss sich auch ehrlich zu seiner Schuld stellen.
+> Im Neuen Testament heißt es: „Wenn wir unsere Sünden bekennen, ist Gott treu und gerecht. Er vergibt uns die Sünden“ (1. Johannes 1,9).
+
+---
+
+### Wer arm ist (Vers 7–13)
+
+<sup>7</sup>Wenn er sich kein Lamm leisten kann,
+dann soll er für das, worin er gesündigt hat, als Schuldopfer zwei Turteltauben oder zwei junge Tauben zum HERRN bringen:
+eine als Sündopfer und die andere als Brandopfer.
+<sup>8</sup>Er soll sie zum Priester bringen.
+Der Priester soll zuerst die Taube für das Sündopfer darbringen.
+Er soll ihr den Kopf vom Hals abkneifen, ihn aber nicht ganz abtrennen.
+<sup>9</sup>Er soll etwas vom Blut des Sündopfers an die Seite des Altars sprengen.
+Das übrige Blut soll unten am Altar ausgepresst werden.
+Es ist ein Sündopfer.
+<sup>10</sup>Die zweite Taube soll er als Brandopfer darbringen, so wie es vorgeschrieben ist.
+So soll der Priester für ihn Versöhnung schaffen wegen der Sünde, die er begangen hat, und es wird ihm vergeben.
+
+<sup>11</sup>Wenn er sich aber auch keine zwei Turteltauben oder zwei jungen Tauben leisten kann,
+dann soll er als Opfergabe für das, worin er gesündigt hat,
+gut 2 Liter feines Mehl als Sündopfer bringen.
+Er soll kein Öl darauf gießen und keinen Weihrauch darauf legen.
+Denn es ist ein Sündopfer.
+<sup>12</sup>Er soll es zum Priester bringen.
+Der Priester soll eine Handvoll davon als Gedenkteil nehmen
+und auf dem Altar verbrennen, auf den Feueropfern für den HERRN.
+Es ist ein Sündopfer.
+<sup>13</sup>So soll der Priester für ihn Versöhnung schaffen wegen der Sünde, die er in einem dieser Fälle begangen hat, und es wird ihm vergeben.
+Der Rest soll dem Priester gehören, wie beim Speiseopfer.‘“
+
+> **Was bedeutet das?**
+> In der Bibel steht: ein Zehntel Efa Mehl. Ein Efa sind etwa 22 Liter.
+> Das ist eine wunderbare Regel: Niemand ist zu arm für Gottes Vergebung. Wer kein Lamm hat, bringt Tauben. Wer keine Tauben hat, bringt eine Handvoll Mehl. Vergebung hängt nicht vom Geldbeutel ab.
+> Beim Sündopfer gibt es kein Öl und keinen Weihrauch. Öl und Weihrauch stehen für Freude und Fest. Beim Sündopfer geht es aber um Reue.
+
+---
+
+### Das Schuldopfer: wenn man Gott etwas schuldet (Vers 14–16)
+
+<sup>14</sup>Der HERR sprach zu Mose:
+<sup>15</sup>„Wenn jemand untreu wird und ohne Absicht gegen die heiligen Gaben des HERRN sündigt,
+dann soll er dem HERRN sein Schuldopfer bringen:
+einen Schafbock ohne Fehler von den Schafen,
+dessen Wert du in Schekeln Silber schätzt, nach dem Gewicht des Heiligtums, als Schuldopfer.
+<sup>16</sup>Was er an den heiligen Gaben falsch gemacht hat, soll er ersetzen.
+Er soll noch ein Fünftel dazulegen und es dem Priester geben.
+So soll der Priester mit dem Schafbock des Schuldopfers für ihn Versöhnung schaffen, und es wird ihm vergeben.
+
+> **Was bedeutet das?**
+> Das „Schuldopfer“ ist für Fälle, in denen ein Schaden entstanden ist, der wiedergutgemacht werden kann. Zum Beispiel: Jemand hat aus Versehen etwas von den Gaben gegessen, die Gott oder den Priestern gehören.
+> Dann reicht ein Opfer nicht. Er muss den Schaden ersetzen und noch ein Fünftel, also 20 Prozent, dazulegen.
+> Vergebung bei Gott und Wiedergutmachung gehören zusammen.
+> Ein Schekel sind etwa 11 Gramm Silber.
+
+---
+
+### Wenn man es nicht wusste (Vers 17–19)
+
+<sup>17</sup>Wenn jemand sündigt und etwas von dem tut, was der HERR verboten hat,
+auch wenn er es nicht wusste,
+dann ist er trotzdem schuldig und trägt seine Schuld.
+<sup>18</sup>Er soll einen Schafbock ohne Fehler von den Schafen, nach deiner Schätzung, als Schuldopfer zum Priester bringen.
+So soll der Priester für ihn Versöhnung schaffen wegen dessen, was er ohne Wissen falsch gemacht hat, und es wird ihm vergeben.
+<sup>19</sup>Es ist ein Schuldopfer. Er ist wirklich schuldig geworden vor dem HERRN.“
+
+> **Was bedeutet das?**
+> Auch wenn man etwas nicht wusste, kann man Schaden anrichten. Das kennen wir auch heute: Wer aus Versehen ein fremdes Auto beschädigt, muss trotzdem dafür aufkommen.
+> Die Bibel nimmt Schuld ernst, auch unbewusste Schuld. Aber sie zeigt auch immer einen Weg zur Vergebung.
+
+## 3. Mose – Kapitel 6
+#### Wiedergutmachung – Anweisungen für die Priester
+
+---
+
+### Wer seinen Nächsten betrügt (Vers 1–7)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Wenn jemand sündigt und dem HERRN untreu wird,
+indem er seinen Nächsten betrügt:
+bei etwas, das ihm zur Aufbewahrung gegeben wurde,
+bei einem Geschäft oder durch Raub,
+oder wenn er seinen Nächsten unterdrückt hat,
+<sup>3</sup>oder wenn er etwas Verlorenes gefunden hat und darüber gelogen hat
+und einen falschen Eid geschworen hat –
+egal bei welcher dieser Taten, durch die ein Mensch sündigt –,
+<sup>4</sup>wenn er also gesündigt hat und schuldig ist,
+dann soll er zurückgeben:
+was er geraubt hat,
+was er durch Unterdrückung bekommen hat,
+was ihm zur Aufbewahrung gegeben wurde,
+das Verlorene, das er gefunden hat,
+<sup>5</sup>oder alles, worüber er falsch geschworen hat.
+Er soll es vollständig ersetzen und noch ein Fünftel dazulegen.
+Er soll es dem zurückgeben, dem es gehört, an dem Tag, an dem seine Schuld festgestellt wird.
+<sup>6</sup>Und er soll dem HERRN sein Schuldopfer bringen:
+einen Schafbock ohne Fehler von den Schafen, nach deiner Schätzung, als Schuldopfer zum Priester.
+<sup>7</sup>So soll der Priester vor dem HERRN für ihn Versöhnung schaffen.
+Und es wird ihm vergeben, was auch immer er getan hat, wodurch er schuldig wurde.“
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln stehen die Verse 1–7 dieses Kapitels am Ende von Kapitel 5 (als 5,20–26). Darum ist die Verszählung in Kapitel 6 dort anders. Wir folgen hier der englischen Vorlage.
+> Wer seinen Mitmenschen betrügt, sündigt nicht nur gegen den Menschen, sondern auch gegen Gott. Darum heißt es: „Er wird dem HERRN untreu.“
+> Die Reihenfolge ist wichtig: Zuerst gibt man dem Menschen zurück, was man ihm genommen hat, und legt ein Fünftel dazu. Erst dann bringt man das Opfer zu Gott.
+> Jesus sagt etwas ganz Ähnliches: „Wenn du dein Opfer zum Altar bringst und dir fällt ein, dass dein Bruder etwas gegen dich hat, dann geh zuerst hin und versöhne dich mit deinem Bruder. Dann komm und bring dein Opfer“ (Matthäus 5,23–24).
+> Ein gutes Beispiel ist Zachäus im Neuen Testament. Er gab sogar das Vierfache zurück (Lukas 19,8).
+
+---
+
+### Das Feuer auf dem Altar darf nie ausgehen (Vers 8–13)
+
+<sup>8</sup>Der HERR sprach zu Mose:
+<sup>9</sup>„Befiehl Aaron und seinen Söhnen und sag:
+‚Das ist die Vorschrift für das Brandopfer:
+Das Brandopfer soll die ganze Nacht bis zum Morgen auf der Feuerstelle auf dem Altar liegen.
+Und das Feuer des Altars soll darauf brennend gehalten werden.
+<sup>10</sup>Der Priester soll sein Leinengewand anziehen
+und seine Unterhosen aus Leinen am Körper tragen.
+Er soll die Asche wegnehmen, die übrig bleibt, wenn das Feuer das Brandopfer auf dem Altar verzehrt hat.
+Und er soll sie neben den Altar schütten.
+<sup>11</sup>Dann soll er seine Kleider ausziehen und andere Kleider anziehen
+und die Asche hinausbringen, vor das Lager, an einen reinen Ort.
+<sup>12</sup>Das Feuer auf dem Altar soll brennend gehalten werden. Es darf nicht ausgehen.
+Der Priester soll jeden Morgen Holz darauf verbrennen.
+Er soll das Brandopfer ordentlich darauflegen
+und das Fett der Gemeinschaftsopfer darauf verbrennen.
+<sup>13</sup>Ein ständiges Feuer soll auf dem Altar brennen. Es darf nicht ausgehen.
+
+> **Was bedeutet das?**
+> Ab hier geht es um Anweisungen für die Priester: Wie sollen sie mit den Opfern umgehen?
+> Das Feuer auf dem Altar soll niemals ausgehen, Tag und Nacht. Dreimal wird das gesagt. Es ist ein Zeichen dafür, dass die Verbindung zwischen Gott und seinem Volk nie abbrechen soll.
+> Sogar das Wegbringen der Asche ist ein heiliger Dienst. Der Priester trägt dafür besondere Kleider.
+> Viele Christen verstehen das ewige Feuer auch als Bild für den Glauben: Er soll in uns immer brennen und nicht ausgehen.
+
+---
+
+### Die Vorschrift für das Speiseopfer (Vers 14–18)
+
+<sup>14</sup>Das ist die Vorschrift für das Speiseopfer:
+Die Söhne Aarons sollen es vor dem HERRN darbringen, vor dem Altar.
+<sup>15</sup>Er soll davon eine Handvoll vom feinen Mehl des Speiseopfers und von seinem Öl nehmen
+und den ganzen Weihrauch, der auf dem Speiseopfer liegt.
+Er soll es auf dem Altar verbrennen, als angenehmen Duft, als seinen Gedenkteil für den HERRN.
+<sup>16</sup>Was davon übrig bleibt, sollen Aaron und seine Söhne essen.
+Man soll es ungesäuert an einem heiligen Ort essen.
+Sie sollen es im Vorhof des Zeltes der Begegnung essen.
+<sup>17</sup>Es darf nicht mit Sauerteig gebacken werden.
+Ich habe es ihnen als ihren Anteil von meinen Feueropfern gegeben.
+Es ist hochheilig, wie das Sündopfer und das Schuldopfer.
+<sup>18</sup>Jeder Mann unter den Nachkommen Aarons soll davon essen.
+Das ist ihr Anteil für alle Zeiten, für alle eure Generationen, von den Feueropfern für den HERRN.
+Alles, was sie berührt, wird heilig.‘“
+
+---
+
+### Das Speiseopfer der Priester (Vers 19–23)
+
+<sup>19</sup>Der HERR sprach zu Mose:
+<sup>20</sup>„Das ist die Opfergabe von Aaron und seinen Söhnen,
+die sie dem HERRN bringen sollen an dem Tag, an dem er gesalbt wird:
+gut 2 Liter feines Mehl als ständiges Speiseopfer,
+die Hälfte am Morgen und die Hälfte am Abend.
+<sup>21</sup>Es soll auf einem Backblech mit Öl zubereitet werden.
+Wenn es gut durchtränkt ist, sollst du es bringen.
+Du sollst das Speiseopfer in gebackenen Stücken darbringen, als angenehmen Duft für den HERRN.
+<sup>22</sup>Der gesalbte Priester, der von seinen Söhnen an seine Stelle tritt, soll es darbringen.
+Es ist eine feste Ordnung für alle Zeiten. Es soll ganz für den HERRN verbrannt werden.
+<sup>23</sup>Jedes Speiseopfer eines Priesters soll ganz verbrannt werden.
+Man darf es nicht essen.“
+
+> **Was bedeutet das?**
+> In der Bibel steht: ein Zehntel Efa Mehl, also gut 2 Liter.
+> Wenn ein normaler Mensch ein Speiseopfer bringt, essen die Priester den Rest. Aber wenn ein Priester selbst ein Speiseopfer bringt, darf er nichts davon essen. Sonst würde er ja sich selbst etwas schenken.
+
+---
+
+### Die Vorschrift für das Sündopfer (Vers 24–30)
+
+<sup>24</sup>Der HERR sprach zu Mose:
+<sup>25</sup>„Sprich zu Aaron und zu seinen Söhnen und sag:
+‚Das ist die Vorschrift für das Sündopfer:
+Dort, wo das Brandopfer geschlachtet wird, soll auch das Sündopfer vor dem HERRN geschlachtet werden.
+Es ist hochheilig.
+<sup>26</sup>Der Priester, der es für die Sünde darbringt, soll es essen.
+Man soll es an einem heiligen Ort essen, im Vorhof des Zeltes der Begegnung.
+<sup>27</sup>Alles, was sein Fleisch berührt, wird heilig.
+Wenn etwas von seinem Blut auf ein Kleid gespritzt ist,
+dann sollst du das, worauf es gespritzt ist, an einem heiligen Ort waschen.
+<sup>28</sup>Aber der Tontopf, in dem es gekocht wurde, soll zerbrochen werden.
+Und wenn es in einem Topf aus Bronze gekocht wurde, dann soll er gescheuert und mit Wasser ausgespült werden.
+<sup>29</sup>Jeder Mann unter den Priestern soll davon essen. Es ist hochheilig.
+<sup>30</sup>Aber kein Sündopfer, von dessen Blut etwas in das Zelt der Begegnung gebracht wird,
+um im Heiligtum Versöhnung zu schaffen, darf gegessen werden.
+Es soll im Feuer verbrannt werden.‘“
+
+> **Was bedeutet das?**
+> Bei den kleineren Sündopfern (für Anführer und einfache Leute) essen die Priester das Fleisch. Bei den großen Sündopfern, deren Blut ins Heiligtum gebracht wird (für den Hohenpriester und das ganze Volk), wird alles verbrannt (siehe 3. Mose 4).
+> Ein Tontopf saugt etwas vom Fleisch auf. Darum muss er zerbrochen werden. Ein Bronzetopf kann gründlich gereinigt werden.
+> Das Heilige soll nicht mit dem Alltäglichen vermischt werden.
