@@ -11253,3 +11253,298 @@ Und Mose blieb 40 Tage und 40 Nächte auf dem Berg.
 > Sechs Tage warten, am siebten Tag ruft Gott – wie bei der Schöpfung.
 > Von unten sieht der Berg aus wie ein Feuer. Und Mose geht mitten hinein. Er hat großes Vertrauen zu Gott.
 > 40 Tage und 40 Nächte – eine lange Zeit. In dieser Zeit gibt Gott Mose die Anweisungen für das heilige Zelt (Kapitel 25–31). Unten im Lager wird das Volk ungeduldig. Was dann passiert, erzählt Kapitel 32.
+
+## 2. Mose – Kapitel 25
+#### Gottes Wohnung mitten im Volk: Die Bundeslade, der Tisch und der Leuchter
+
+---
+
+### Gaben für das Heiligtum (Vers 1–9)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+<sup>2</sup>„Sag den Israeliten, dass sie für mich eine Gabe sammeln sollen.
+Nehmt meine Gabe von jedem an, der sie von Herzen gern geben will.
+<sup>3</sup>Das ist die Gabe, die ihr von ihnen annehmen sollt:
+Gold, Silber und Bronze,
+<sup>4</sup>blauen, purpurroten und karmesinroten Stoff,
+feines Leinen und Ziegenhaar,
+<sup>5</sup>rot gefärbte Widderfelle, Häute von Seekühen und Akazienholz,
+<sup>6</sup>Öl für die Lampen,
+Gewürze für das Salböl und für das duftende Räucherwerk,
+<sup>7</sup>Onyxsteine und andere Edelsteine zum Einsetzen
+für das Ephod und für die Brusttasche.
+
+<sup>8</sup>Sie sollen mir ein Heiligtum bauen.
+Dann will ich mitten unter ihnen wohnen.
+<sup>9</sup>Ihr sollt die Wohnung und alle ihre Geräte genau nach dem Muster machen, das ich dir zeige.
+
+> **Was bedeutet das?**
+> Jetzt beginnt ein langer Teil (Kapitel 25–31 und 35–40) über das „Heiligtum“, auch „Stiftshütte“ oder „Zelt der Begegnung“ genannt. Es ist ein großes, tragbares Zelt. Darin will Gott mitten unter seinem Volk wohnen.
+> Das ist das große Ziel des Auszugs aus Ägypten: Gott will nicht weit weg auf einem Berg bleiben. Er will mitten unter seinem Volk sein und mit ihm durch die Wüste ziehen.
+> Niemand wird gezwungen, etwas zu geben. Gott will nur Gaben von Herzen.
+> Die Kostbarkeiten stammen wohl aus Ägypten: Die Ägypter hatten den Israeliten beim Auszug Gold, Silber und Kleider gegeben (Kapitel 12,35).
+> Purpur und Karmesin waren sehr teure Farbstoffe. Damit wurden Stoffe für Könige gefärbt.
+> Was mit „Seekühen“ genau gemeint ist, ist unsicher. Vielleicht Häute von Dugongs, die im Roten Meer leben. Andere Bibeln übersetzen „feines Leder“ oder „Delfinhäute“.
+> Akazien sind Bäume, die in der Wüste wachsen. Ihr Holz ist sehr hart und haltbar.
+> Ephod und Brusttasche gehören zur Kleidung des Hohenpriesters (Kapitel 28).
+
+---
+
+### Die Bundeslade (Vers 10–16)
+
+<sup>10</sup>„Sie sollen eine Lade aus Akazienholz machen.
+Sie soll gut einen Meter lang, knapp 70 Zentimeter breit und knapp 70 Zentimeter hoch sein.
+<sup>11</sup>Überzieh sie mit reinem Gold, innen und außen.
+Und mach rundherum eine goldene Leiste daran.
+<sup>12</sup>Gieß vier goldene Ringe für sie.
+Befestige sie an ihren vier Füßen:
+zwei Ringe auf der einen Seite und zwei Ringe auf der anderen Seite.
+<sup>13</sup>Mach Tragestangen aus Akazienholz und überzieh sie mit Gold.
+<sup>14</sup>Steck die Stangen durch die Ringe an den Seiten der Lade, damit man die Lade daran tragen kann.
+<sup>15</sup>Die Stangen sollen in den Ringen der Lade bleiben.
+Man soll sie nie herausziehen.
+<sup>16</sup>In die Lade sollst du das Zeugnis des Bundes legen, das ich dir geben werde.
+
+> **Was bedeutet das?**
+> Die Maße stehen in der Bibel in Ellen: zweieinhalb Ellen lang, anderthalb Ellen breit und hoch. Eine Elle ist etwa 45 bis 50 Zentimeter.
+> Die Lade (auch „Bundeslade“) ist eine Truhe. Sie ist der wichtigste Gegenstand im Heiligtum.
+> In der Lade liegen die zwei Steintafeln mit den Zehn Geboten – das „Zeugnis“ des Bundes.
+> Die Tragestangen bleiben immer in den Ringen. Gottes Gegenwart ist immer bereit, mit dem Volk weiterzuziehen.
+
+---
+
+### Die Deckplatte mit den Kerubim (Vers 17–22)
+
+<sup>17</sup>Mach eine Deckplatte aus reinem Gold, die Versöhnungsplatte.
+Sie soll gut einen Meter lang und knapp 70 Zentimeter breit sein.
+<sup>18</sup>Mach zwei Kerubim aus getriebenem Gold.
+Mach sie an die beiden Enden der Deckplatte.
+<sup>19</sup>Mach einen Kerub an das eine Ende und einen Kerub an das andere Ende.
+Die Kerubim sollen mit der Deckplatte aus einem Stück sein.
+<sup>20</sup>Die Kerubim sollen ihre Flügel nach oben ausbreiten
+und mit ihren Flügeln die Deckplatte überdecken.
+Ihre Gesichter sollen einander zugewandt sein.
+Sie sollen auf die Deckplatte schauen.
+
+<sup>21</sup>Leg die Deckplatte oben auf die Lade.
+Und in die Lade sollst du das Zeugnis des Bundes legen, das ich dir geben werde.
+<sup>22</sup>Dort will ich dir begegnen.
+Von oberhalb der Deckplatte, zwischen den beiden Kerubim auf der Lade des Bundes,
+will ich mit dir über alles reden, was ich dir für die Israeliten auftragen werde.
+
+> **Was bedeutet das?**
+> Die Deckplatte heißt im Englischen „Gnadenthron“ (mercy seat), im Hebräischen „Kapporet“. Das Wort hängt mit „Versöhnung“ zusammen. Am großen Versöhnungstag wird hier Blut gesprengt, damit die Schuld des Volkes vergeben wird (3. Mose 16).
+> Kerubim (Einzahl: Kerub) sind mächtige Engelwesen mit Flügeln. Sie bewachen auch den Weg zum Paradies (1. Mose 3,24).
+> Der Raum zwischen den Kerubim ist wie ein leerer Thron. Gott selbst sitzt unsichtbar darauf. Es gibt kein Bild von Gott – nur einen leeren Platz für ihn.
+> „Dort will ich dir begegnen“ – das ist das Herz des Heiligtums. Hier redet Gott mit Mose.
+
+---
+
+### Der Tisch für die Brote (Vers 23–30)
+
+<sup>23</sup>Mach einen Tisch aus Akazienholz.
+Er soll 90 Zentimeter lang, 45 Zentimeter breit und knapp 70 Zentimeter hoch sein.
+<sup>24</sup>Überzieh ihn mit reinem Gold und mach rundherum eine goldene Leiste daran.
+<sup>25</sup>Mach rundherum eine Randleiste, eine Handbreit hoch.
+Und an dieser Randleiste mach rundherum eine goldene Zierleiste.
+<sup>26</sup>Mach vier goldene Ringe für den Tisch.
+Befestige die Ringe an den vier Ecken, an seinen vier Beinen.
+<sup>27</sup>Die Ringe sollen dicht unter der Randleiste sein.
+Durch sie sollen die Stangen gesteckt werden, mit denen man den Tisch trägt.
+<sup>28</sup>Mach die Stangen aus Akazienholz und überzieh sie mit Gold.
+Mit ihnen soll man den Tisch tragen.
+<sup>29</sup>Mach auch seine Schüsseln, Schalen, Kannen und Becher, aus denen man Trankopfer ausgießt.
+Mach sie aus reinem Gold.
+<sup>30</sup>Und auf den Tisch sollst du immer die Schaubrote vor mich legen.
+
+> **Was bedeutet das?**
+> In Ellen: zwei Ellen lang, eine Elle breit, anderthalb Ellen hoch. Eine Handbreit sind etwa 7 bis 8 Zentimeter.
+> Die „Schaubrote“ (wörtlich „Brote des Angesichts“) waren zwölf Brote, eines für jeden Stamm (3. Mose 24,5–9). Sie lagen immer vor Gott. Sie zeigen: Das ganze Volk steht ständig vor Gottes Angesicht. Und Gott ist es, der sein Volk mit Brot versorgt.
+
+---
+
+### Der goldene Leuchter (Vers 31–40)
+
+<sup>31</sup>Mach einen Leuchter aus reinem Gold.
+Der Leuchter soll aus getriebenem Gold gemacht werden.
+Sein Fuß, sein Schaft, seine Kelche, seine Knospen und seine Blüten sollen mit ihm aus einem Stück sein.
+<sup>32</sup>Sechs Arme sollen von seinen Seiten ausgehen:
+drei Arme auf der einen Seite und drei Arme auf der anderen Seite.
+<sup>33</sup>An dem einen Arm sollen drei Kelche sein, geformt wie Mandelblüten, jeweils mit Knospe und Blüte.
+Und an dem nächsten Arm auch drei Kelche, geformt wie Mandelblüten, jeweils mit Knospe und Blüte.
+So soll es bei allen sechs Armen sein, die vom Leuchter ausgehen.
+<sup>34</sup>Am Schaft des Leuchters selbst sollen vier Kelche sein, geformt wie Mandelblüten, mit ihren Knospen und Blüten.
+<sup>35</sup>Unter jedem Paar Arme soll eine Knospe sein, aus einem Stück mit dem Leuchter:
+eine Knospe unter den ersten beiden Armen,
+eine Knospe unter den nächsten beiden Armen
+und eine Knospe unter den letzten beiden Armen.
+So soll es bei den sechs Armen sein, die vom Leuchter ausgehen.
+<sup>36</sup>Die Knospen und die Arme sollen mit ihm aus einem Stück sein.
+Das Ganze soll aus einem einzigen Stück getriebenem, reinem Gold sein.
+
+<sup>37</sup>Mach sieben Lampen für den Leuchter.
+Man soll seine Lampen so aufsetzen, dass sie den Raum vor ihm erhellen.
+<sup>38</sup>Auch seine Dochtscheren und die Schalen dafür sollen aus reinem Gold sein.
+<sup>39</sup>Aus einem Talent reinem Gold soll man den Leuchter und alle diese Geräte machen.
+<sup>40</sup>Achte darauf, dass du alles genau nach dem Muster machst, das dir auf dem Berg gezeigt wurde.“
+
+> **Was bedeutet das?**
+> Der Leuchter hat sieben Arme. Auf Hebräisch heißt er „Menora“. Er ist bis heute eines der wichtigsten Zeichen des Judentums. Er ist sogar im Wappen des Staates Israel.
+> Der Leuchter sieht aus wie ein blühender Mandelbaum. Der Mandelbaum blüht im Land Israel als erster Baum im Jahr, noch im Winter. Vielleicht erinnert der Leuchter auch an den Baum des Lebens im Paradies.
+> Ein Talent ist ein altes Gewicht, etwa 34 Kilogramm. So viel reines Gold für einen einzigen Leuchter!
+> „Getriebenes Gold“ heißt: Das Gold wird mit dem Hammer in Form geschlagen. Der ganze Leuchter ist aus einem einzigen Stück gemacht.
+> Dochtscheren braucht man, um die verbrannten Dochte der Lampen abzuschneiden.
+> Immer wieder heißt es: genau nach dem Muster, das Gott gezeigt hat. Das Heiligtum ist nicht menschliche Erfindung. Es ist ein Abbild von etwas Himmlischem (Hebräer 8,5).
+
+## 2. Mose – Kapitel 26
+#### Die Wohnung Gottes: Decken, Bretter und Vorhang
+
+---
+
+### Die inneren Decken aus Leinen (Vers 1–6)
+
+<sup>1</sup>„Die Wohnung sollst du aus zehn Zeltbahnen machen.
+Sie sollen aus gezwirntem feinem Leinen sein und aus blauem, purpurrotem und karmesinrotem Stoff.
+Kerubim sollen kunstvoll hineingewebt sein.
+<sup>2</sup>Jede Zeltbahn soll knapp 13 Meter lang und 1,80 Meter breit sein.
+Alle Zeltbahnen sollen gleich groß sein.
+<sup>3</sup>Je fünf Zeltbahnen sollen zusammengenäht werden.
+So entstehen zwei große Teile aus je fünf Bahnen.
+<sup>4</sup>Mach Schlaufen aus blauem Stoff an den Rand der letzten Bahn des ersten Teils.
+Und mach genauso Schlaufen an den Rand der letzten Bahn des zweiten Teils.
+<sup>5</sup>50 Schlaufen sollst du an die eine Bahn machen
+und 50 Schlaufen an den Rand der Bahn des zweiten Teils.
+Die Schlaufen sollen einander genau gegenüberliegen.
+<sup>6</sup>Mach 50 Haken aus Gold.
+Verbinde die Zeltbahnen mit den Haken miteinander.
+So wird die Wohnung zu einem Ganzen.
+
+> **Was bedeutet das?**
+> Die Wohnung Gottes ist ein großes Zelt. Es wird in mehreren Schichten gebaut.
+> Die innerste Schicht ist die schönste: farbiges Leinen mit eingewebten Engelbildern. Wer im Inneren steht, sieht über sich einen Himmel voller Kerubim.
+> In der Bibel stehen die Maße in Ellen: 28 Ellen lang, 4 Ellen breit. Eine Elle ist etwa 45 Zentimeter.
+> „Gezwirnt“ heißt: Mehrere Fäden sind zu einem festen Faden zusammengedreht.
+
+---
+
+### Die Decken aus Ziegenhaar (Vers 7–13)
+
+<sup>7</sup>Mach auch Zeltbahnen aus Ziegenhaar.
+Sie sollen als Zeltdach über die Wohnung gelegt werden.
+Mach elf solche Zeltbahnen.
+<sup>8</sup>Jede Zeltbahn soll 13,5 Meter lang und 1,80 Meter breit sein.
+Alle elf Zeltbahnen sollen gleich groß sein.
+<sup>9</sup>Fünf Zeltbahnen sollst du zu einem Teil zusammennähen
+und sechs Zeltbahnen zu einem anderen Teil.
+Die sechste Bahn sollst du an der Vorderseite des Zeltes doppelt legen.
+
+<sup>10</sup>Mach 50 Schlaufen an den Rand der letzten Bahn des ersten Teils
+und 50 Schlaufen an den Rand der letzten Bahn des zweiten Teils.
+<sup>11</sup>Mach 50 Haken aus Bronze.
+Steck die Haken in die Schlaufen und verbinde so das Zelt, damit es ein Ganzes wird.
+<sup>12</sup>Was von den Zeltbahnen übrig ist, die halbe Bahn, die übersteht,
+soll hinten über die Rückseite der Wohnung hängen.
+<sup>13</sup>Auf beiden Seiten stehen die Zeltbahnen um je 45 Zentimeter über.
+Dieser Teil soll an den Seiten der Wohnung herunterhängen, auf beiden Seiten, um sie zu bedecken.
+
+> **Was bedeutet das?**
+> In Ellen: 30 Ellen lang, 4 Ellen breit. Der Überstand ist eine Elle.
+> Über die schöne Leinendecke kommt eine schützende Decke aus Ziegenhaar. Solche Decken benutzen Nomaden in der Wüste bis heute für ihre Zelte. Sie halten Regen und Sonne ab.
+> Diese Decke ist etwas größer als die innere, damit sie alles gut bedeckt.
+
+---
+
+### Die äußeren Decken (Vers 14)
+
+<sup>14</sup>Mach für das Zelt eine Decke aus rot gefärbten Widderfellen.
+Und darüber eine Decke aus Häuten von Seekühen.
+
+> **Was bedeutet das?**
+> Insgesamt gibt es vier Schichten. Von außen sah das Heiligtum ganz schlicht aus, wie ein einfaches Zelt aus Leder. Die ganze Pracht war innen verborgen.
+
+---
+
+### Die Bretter (Vers 15–25)
+
+<sup>15</sup>Mach die Bretter für die Wohnung aus Akazienholz.
+Sie sollen aufrecht stehen.
+<sup>16</sup>Jedes Brett soll 4,50 Meter lang und knapp 70 Zentimeter breit sein.
+<sup>17</sup>Jedes Brett soll unten zwei Zapfen haben, die miteinander verbunden sind.
+So sollst du es bei allen Brettern der Wohnung machen.
+<sup>18</sup>Mach für die Wohnung 20 Bretter für die Südseite.
+<sup>19</sup>Unter die 20 Bretter sollst du 40 Sockel aus Silber machen:
+zwei Sockel unter jedes Brett für seine zwei Zapfen.
+
+<sup>20</sup>Für die zweite Seite der Wohnung, die Nordseite, mach auch 20 Bretter
+<sup>21</sup>und 40 Sockel aus Silber dafür:
+zwei Sockel unter jedes Brett.
+<sup>22</sup>Für die Rückseite der Wohnung, nach Westen hin, mach sechs Bretter.
+<sup>23</sup>Und für die Ecken der Wohnung an der Rückseite mach zwei Bretter.
+<sup>24</sup>Sie sollen unten doppelt sein und oben zusammenkommen, bis zum ersten Ring.
+So soll es bei beiden sein.
+Sie sollen die beiden Ecken bilden.
+<sup>25</sup>So sind es acht Bretter mit ihren Sockeln aus Silber, 16 Sockel:
+zwei Sockel unter jedes Brett.
+
+> **Was bedeutet das?**
+> In Ellen: 10 Ellen lang, anderthalb Ellen breit.
+> Die Bretter bilden die Wände des Heiligtums: 20 auf der Süd- und 20 auf der Nordseite, 6 und 2 Eckbretter auf der Westseite. Die Ostseite ist offen. Dort ist der Eingang.
+> Die Silbersockel stehen auf dem Boden. In sie werden die Zapfen der Bretter gesteckt. So steht alles fest und kann trotzdem schnell abgebaut werden.
+> Das Heiligtum war etwa 13,5 Meter lang und 4,5 Meter breit.
+
+---
+
+### Die Querstangen (Vers 26–30)
+
+<sup>26</sup>Mach Querstangen aus Akazienholz:
+fünf für die Bretter der einen Seite der Wohnung,
+<sup>27</sup>fünf Querstangen für die Bretter der anderen Seite der Wohnung
+und fünf Querstangen für die Bretter der Rückseite nach Westen hin.
+<sup>28</sup>Die mittlere Querstange soll in der Mitte der Bretter von einem Ende bis zum anderen durchgehen.
+<sup>29</sup>Überzieh die Bretter mit Gold.
+Mach goldene Ringe an sie, durch die die Querstangen gesteckt werden.
+Und überzieh auch die Querstangen mit Gold.
+<sup>30</sup>Dann sollst du die Wohnung genau so aufrichten, wie es dir auf dem Berg gezeigt wurde.
+
+> **Was bedeutet das?**
+> Die Querstangen halten die Bretter zusammen, damit die Wände stabil sind.
+> Innen war alles mit Gold überzogen. Wenn das Licht des Leuchters darauf fiel, glänzte alles golden.
+
+---
+
+### Der Vorhang vor dem Allerheiligsten (Vers 31–35)
+
+<sup>31</sup>Mach einen Vorhang aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+Kerubim sollen kunstvoll hineingewebt sein.
+<sup>32</sup>Häng ihn an vier Säulen aus Akazienholz, die mit Gold überzogen sind.
+Ihre Haken sollen aus Gold sein.
+Und sie sollen auf vier Sockeln aus Silber stehen.
+
+<sup>33</sup>Häng den Vorhang unter die Haken.
+Bring die Lade mit dem Zeugnis des Bundes hinter den Vorhang.
+Der Vorhang soll für euch das Heilige vom Allerheiligsten trennen.
+<sup>34</sup>Leg die Deckplatte auf die Lade mit dem Zeugnis im Allerheiligsten.
+<sup>35</sup>Stell den Tisch vor den Vorhang.
+Und stell den Leuchter gegenüber dem Tisch auf die Südseite der Wohnung.
+Den Tisch stell auf die Nordseite.
+
+> **Was bedeutet das?**
+> Das Heiligtum hat zwei Räume: das „Heilige“ und das „Allerheiligste“. Dazwischen hängt ein kostbarer Vorhang.
+> Im Allerheiligsten steht nur die Bundeslade. Dort ist Gott auf besondere Weise gegenwärtig. Nur der Hohepriester darf einmal im Jahr hinein (3. Mose 16).
+> Im Heiligen davor stehen der Tisch mit den Broten, der Leuchter und später der Räucheraltar.
+> Im Neuen Testament wird erzählt: Als Jesus am Kreuz starb, zerriss der Vorhang im Tempel von oben bis unten (Matthäus 27,51). Christen verstehen das so: Durch Jesus ist der Weg zu Gott für alle frei.
+
+---
+
+### Der Vorhang am Eingang (Vers 36–37)
+
+<sup>36</sup>Mach für den Eingang des Zeltes einen Vorhang
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen,
+bunt bestickt.
+<sup>37</sup>Mach für diesen Vorhang fünf Säulen aus Akazienholz und überzieh sie mit Gold.
+Ihre Haken sollen aus Gold sein.
+Und gieß fünf Sockel aus Bronze für sie.“
+
+> **Was bedeutet das?**
+> Der Eingang ist im Osten. Auch er hat einen bunten Vorhang, aber ohne Kerubim.
+> Je näher man dem Allerheiligsten kommt, desto kostbarer werden die Materialien: außen Bronze, innen Silber und Gold. So zeigt die Bauweise: Je näher bei Gott, desto heiliger.
