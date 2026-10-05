@@ -14127,3 +14127,389 @@ Es soll im Feuer verbrannt werden.‘“
 > Bei den kleineren Sündopfern (für Anführer und einfache Leute) essen die Priester das Fleisch. Bei den großen Sündopfern, deren Blut ins Heiligtum gebracht wird (für den Hohenpriester und das ganze Volk), wird alles verbrannt (siehe 3. Mose 4).
 > Ein Tontopf saugt etwas vom Fleisch auf. Darum muss er zerbrochen werden. Ein Bronzetopf kann gründlich gereinigt werden.
 > Das Heilige soll nicht mit dem Alltäglichen vermischt werden.
+
+## 3. Mose – Kapitel 7
+#### Weitere Vorschriften für die Opfer – der Anteil der Priester
+
+---
+
+### Die Vorschrift für das Schuldopfer (Vers 1–6)
+
+<sup>1</sup>‚Das ist die Vorschrift für das Schuldopfer: Es ist hochheilig.
+<sup>2</sup>Dort, wo man das Brandopfer schlachtet, soll man auch das Schuldopfer schlachten.
+Und sein Blut soll man ringsum an den Altar sprengen.
+<sup>3</sup>Man soll sein ganzes Fett darbringen:
+den Fettschwanz und das Fett, das die Eingeweide umhüllt,
+<sup>4</sup>die beiden Nieren und das Fett an ihnen, das an den Lenden ist,
+und den Fettlappen an der Leber. Den soll man zusammen mit den Nieren herausnehmen.
+<sup>5</sup>Der Priester soll es auf dem Altar verbrennen, als Feueropfer für den HERRN.
+Es ist ein Schuldopfer.
+<sup>6</sup>Jeder Mann unter den Priestern darf davon essen.
+Man soll es an einem heiligen Ort essen. Es ist hochheilig.
+
+---
+
+### Was den Priestern gehört (Vers 7–10)
+
+<sup>7</sup>Für das Sündopfer und für das Schuldopfer gilt dieselbe Vorschrift.
+Es gehört dem Priester, der damit Versöhnung schafft.
+<sup>8</sup>Wenn ein Priester für jemanden ein Brandopfer darbringt,
+dann gehört ihm die Haut des Brandopfers, das er dargebracht hat.
+<sup>9</sup>Jedes Speiseopfer, das im Ofen gebacken ist,
+und alles, was in der Pfanne oder auf dem Backblech zubereitet ist,
+gehört dem Priester, der es darbringt.
+<sup>10</sup>Jedes Speiseopfer, ob mit Öl vermengt oder trocken,
+gehört allen Söhnen Aarons, dem einen genauso wie dem anderen.
+
+> **Was bedeutet das?**
+> Die Priester hatten kein eigenes Land, auf dem sie etwas anbauen konnten. Sie lebten von den Opfern. Darum wird hier genau geregelt, was ihnen gehört: Fleisch, Häute und Brot.
+> So sorgte das ganze Volk durch seine Opfer für die Priester, die für alle den Dienst taten.
+
+---
+
+### Die Vorschrift für das Gemeinschaftsopfer (Vers 11–21)
+
+<sup>11</sup>Das ist die Vorschrift für das Gemeinschaftsopfer, das man dem HERRN bringt:
+<sup>12</sup>Wenn man es als Dankopfer bringt,
+dann soll man zum Dankopfer ungesäuerte Kuchen bringen, mit Öl vermengt,
+ungesäuerte Fladen, mit Öl bestrichen,
+und Kuchen aus feinem Mehl, mit Öl vermengt.
+<sup>13</sup>Zu seinem Gemeinschaftsopfer, das er als Dank bringt,
+soll er auch Kuchen aus gesäuertem Brot bringen.
+<sup>14</sup>Davon soll er von jeder Sorte einen als Hebeopfer für den HERRN bringen.
+Er soll dem Priester gehören, der das Blut des Gemeinschaftsopfers sprengt.
+<sup>15</sup>Das Fleisch seines Gemeinschaftsopfers, das er als Dank bringt,
+soll an dem Tag gegessen werden, an dem er es opfert.
+Er darf nichts davon bis zum Morgen übrig lassen.
+
+<sup>16</sup>Wenn er sein Opfer aber bringt, weil er es Gott versprochen hat, oder als freiwillige Gabe,
+dann soll es an dem Tag gegessen werden, an dem er sein Opfer bringt.
+Was übrig bleibt, darf man auch am nächsten Tag noch essen.
+<sup>17</sup>Aber was vom Fleisch des Opfers am dritten Tag noch übrig ist, soll im Feuer verbrannt werden.
+<sup>18</sup>Wenn man am dritten Tag etwas vom Fleisch des Gemeinschaftsopfers isst,
+dann wird es nicht angenommen.
+Es wird dem, der es geopfert hat, nicht angerechnet.
+Es ist etwas Abscheuliches.
+Und wer davon isst, trägt seine Schuld.
+
+<sup>19</sup>Fleisch, das etwas Unreines berührt hat, darf nicht gegessen werden.
+Es soll im Feuer verbrannt werden.
+Das andere Fleisch darf jeder essen, der rein ist.
+<sup>20</sup>Aber wer vom Fleisch des Gemeinschaftsopfers isst, das dem HERRN gehört,
+während er unrein ist,
+der soll aus seinem Volk ausgeschlossen werden.
+<sup>21</sup>Wenn jemand etwas Unreines berührt –
+etwas Unreines von einem Menschen, ein unreines Tier oder irgendetwas Unreines und Abscheuliches –
+und dann vom Fleisch des Gemeinschaftsopfers isst, das dem HERRN gehört,
+der soll aus seinem Volk ausgeschlossen werden.‘“
+
+> **Was bedeutet das?**
+> Das Gemeinschaftsopfer konnte man aus drei Gründen bringen: um Gott zu danken, um ein Versprechen an Gott einzulösen oder einfach freiwillig, aus Freude.
+> Beim Dankopfer gibt es ein Festmahl. Das Fleisch muss am selben Tag gegessen werden. Das heißt: Man lädt viele Gäste ein, Familie, Freunde, Arme. Die Freude über Gottes Hilfe soll man teilen.
+> Interessant: Hier ist auch gesäuertes Brot dabei. Es wird nicht auf dem Altar verbrannt, sondern beim Festmahl gegessen.
+> Nach drei Tagen ist das Fleisch in der Hitze verdorben. Darum darf man es dann nicht mehr essen.
+> Zu „ausgeschlossen werden“ steht mehr in der Erklärung zu 2. Mose 30,33.
+
+---
+
+### Kein Fett und kein Blut (Vers 22–27)
+
+<sup>22</sup>Der HERR sprach zu Mose:
+<sup>23</sup>„Sprich zu den Israeliten und sag:
+‚Ihr dürft kein Fett essen, weder vom Rind noch vom Schaf noch von der Ziege.
+<sup>24</sup>Das Fett von einem Tier, das von selbst gestorben ist,
+und das Fett von einem Tier, das von wilden Tieren gerissen wurde,
+darf man für alles andere verwenden.
+Aber essen dürft ihr es auf keinen Fall.
+<sup>25</sup>Denn wer das Fett von einem Tier isst, das man dem HERRN als Feueropfer bringt,
+der soll aus seinem Volk ausgeschlossen werden.
+<sup>26</sup>Und ihr dürft überall, wo ihr wohnt, kein Blut essen, weder von Vögeln noch von anderen Tieren.
+<sup>27</sup>Jeder, der irgendwelches Blut isst, soll aus seinem Volk ausgeschlossen werden.‘“
+
+> **Was bedeutet das?**
+> Gemeint ist das Fett um die inneren Organe, das bei den Opfern auf dem Altar verbrannt wird. Es gehört Gott.
+> Dieses Fett konnte man aber für andere Dinge benutzen, zum Beispiel für Lampen oder um Leder zu pflegen.
+> Das Blut darf man nicht essen, weil das Leben im Blut ist (3. Mose 17,11).
+
+---
+
+### Der Anteil der Priester am Gemeinschaftsopfer (Vers 28–36)
+
+<sup>28</sup>Der HERR sprach zu Mose:
+<sup>29</sup>„Sprich zu den Israeliten und sag:
+‚Wer dem HERRN sein Gemeinschaftsopfer bringt,
+soll dem HERRN von seinem Gemeinschaftsopfer seine Gabe bringen.
+<sup>30</sup>Mit seinen eigenen Händen soll er die Feueropfer für den HERRN bringen.
+Er soll das Fett mit der Brust bringen.
+Die Brust soll als Schwingopfer vor dem HERRN hin- und hergeschwungen werden.
+<sup>31</sup>Der Priester soll das Fett auf dem Altar verbrennen.
+Aber die Brust soll Aaron und seinen Söhnen gehören.
+<sup>32</sup>Die rechte Keule sollt ihr dem Priester als Hebeopfer geben, von euren Gemeinschaftsopfern.
+<sup>33</sup>Wer von den Söhnen Aarons das Blut und das Fett des Gemeinschaftsopfers darbringt,
+der soll die rechte Keule als Anteil bekommen.
+<sup>34</sup>Denn die Brust des Schwingopfers und die Keule des Hebeopfers
+habe ich von den Israeliten genommen, von ihren Gemeinschaftsopfern.
+Und ich habe sie Aaron, dem Priester, und seinen Söhnen gegeben,
+als ihren Anteil für alle Zeiten von den Israeliten.‘“
+
+<sup>35</sup>Das ist der geweihte Anteil von Aaron und der geweihte Anteil seiner Söhne
+von den Feueropfern für den HERRN,
+seit dem Tag, an dem er sie hinzutreten ließ, um dem HERRN als Priester zu dienen.
+<sup>36</sup>Der HERR hat befohlen, dass die Israeliten ihnen das geben sollen,
+seit dem Tag, an dem er sie gesalbt hat.
+Es ist ihr Anteil für alle Zeiten, für alle ihre Generationen.
+
+> **Was bedeutet das?**
+> Wer opfert, soll die Gabe „mit seinen eigenen Händen“ bringen. Man soll das nicht anderen überlassen. Es ist ein persönliches Geschenk an Gott.
+> Beim „Schwingopfer“ wird die Gabe vor dem Altar hin- und hergeschwungen. Beim „Hebeopfer“ wird sie hochgehoben. Beides zeigt: Diese Gabe ist für Gott bestimmt. Gott gibt sie dann an die Priester weiter.
+
+---
+
+### Zusammenfassung (Vers 37–38)
+
+<sup>37</sup>Das ist die Vorschrift für das Brandopfer, das Speiseopfer, das Sündopfer, das Schuldopfer, das Einsetzungsopfer und das Gemeinschaftsopfer,
+<sup>38</sup>die der HERR Mose auf dem Berg Sinai befohlen hat,
+an dem Tag, als er den Israeliten befahl, dem HERRN ihre Opfergaben zu bringen, in der Wüste Sinai.
+
+> **Was bedeutet das?**
+> Hier enden die Vorschriften für die Opfer (Kapitel 1–7). Es gibt fünf Arten von Opfern: Brandopfer, Speiseopfer, Sündopfer, Schuldopfer und Gemeinschaftsopfer. Dazu kommt das „Einsetzungsopfer“ bei der Weihe der Priester. Davon erzählt das nächste Kapitel.
+
+## 3. Mose – Kapitel 8
+#### Aaron und seine Söhne werden zu Priestern geweiht
+
+---
+
+### Das Volk versammelt sich (Vers 1–5)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Nimm Aaron und seine Söhne mit ihm,
+die Kleider, das Salböl, den Stier für das Sündopfer, die beiden Schafböcke und den Korb mit den ungesäuerten Broten.
+<sup>3</sup>Und versammle die ganze Gemeinde am Eingang des Zeltes der Begegnung.“
+<sup>4</sup>Mose tat, was der HERR ihm befohlen hatte.
+Und die Gemeinde versammelte sich am Eingang des Zeltes der Begegnung.
+<sup>5</sup>Mose sagte zur Gemeinde:
+„Das hat der HERR befohlen, was jetzt getan werden soll.“
+
+> **Was bedeutet das?**
+> Jetzt geschieht, was Gott in 2. Mose 29 befohlen hat: Aaron und seine Söhne werden zu Priestern geweiht.
+> Das ganze Volk ist dabei. Die Priester dienen ja dem ganzen Volk. Darum sollen alle sehen, wie sie in ihr Amt eingesetzt werden.
+> Immer wieder heißt es in diesem Kapitel: „wie der HERR es Mose befohlen hatte“. Alles geschieht genau nach Gottes Wort.
+
+---
+
+### Waschen, Ankleiden und Salben (Vers 6–13)
+
+<sup>6</sup>Mose ließ Aaron und seine Söhne herkommen und wusch sie mit Wasser.
+<sup>7</sup>Er zog Aaron das Untergewand an und band ihm die Schärpe um.
+Er zog ihm das Obergewand an und legte ihm das Ephod an.
+Er band ihm den kunstvoll gewebten Gürtel des Ephods um und befestigte das Ephod damit an ihm.
+<sup>8</sup>Er legte ihm die Brusttasche an.
+In die Brusttasche legte er die Urim und Tummim.
+<sup>9</sup>Er setzte ihm den Turban auf den Kopf.
+Und vorn an den Turban setzte er das goldene Blatt, die heilige Krone,
+wie der HERR es Mose befohlen hatte.
+
+<sup>10</sup>Mose nahm das Salböl.
+Er salbte die Wohnung und alles, was darin war, und heiligte es.
+<sup>11</sup>Er sprengte etwas davon siebenmal auf den Altar.
+Er salbte den Altar und alle seine Geräte, das Becken und sein Gestell, um sie zu heiligen.
+<sup>12</sup>Er goss etwas vom Salböl auf Aarons Kopf und salbte ihn, um ihn zu heiligen.
+<sup>13</sup>Mose ließ Aarons Söhne herkommen.
+Er zog ihnen Untergewänder an, band ihnen Schärpen um und setzte ihnen Kopfbedeckungen auf,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Die Kleider und Gegenstände wurden in 2. Mose 28 beschrieben.
+> Aaron wird mit Öl übergossen. In Psalm 133,2 heißt es dazu: „wie das kostbare Öl auf dem Haupt, das herabfließt in den Bart, den Bart Aarons“. Das ist dort ein Bild für die Freude, wenn Menschen in Frieden zusammenleben.
+
+---
+
+### Das Sündopfer (Vers 14–17)
+
+<sup>14</sup>Er ließ den Stier für das Sündopfer bringen.
+Aaron und seine Söhne legten ihre Hände auf den Kopf des Stiers für das Sündopfer.
+<sup>15</sup>Er schlachtete ihn.
+Mose nahm das Blut und strich es mit seinem Finger ringsum an die Hörner des Altars.
+So reinigte er den Altar.
+Das übrige Blut goss er unten an den Altar.
+So heiligte er ihn und schuf Versöhnung für ihn.
+<sup>16</sup>Er nahm das ganze Fett an den Eingeweiden, den Fettlappen an der Leber und die beiden Nieren mit ihrem Fett.
+Und Mose verbrannte es auf dem Altar.
+<sup>17</sup>Aber den Stier, seine Haut, sein Fleisch und seinen Mist verbrannte er im Feuer, draußen vor dem Lager,
+wie der HERR es Mose befohlen hatte.
+
+---
+
+### Das Brandopfer (Vers 18–21)
+
+<sup>18</sup>Er brachte den Schafbock für das Brandopfer.
+Aaron und seine Söhne legten ihre Hände auf den Kopf des Schafbocks.
+<sup>19</sup>Er schlachtete ihn.
+Und Mose sprengte das Blut ringsum an den Altar.
+<sup>20</sup>Er zerlegte den Schafbock in seine Stücke.
+Und Mose verbrannte den Kopf, die Stücke und das Fett.
+<sup>21</sup>Er wusch die Eingeweide und die Beine mit Wasser.
+Und Mose verbrannte den ganzen Schafbock auf dem Altar.
+Es war ein Brandopfer, ein angenehmer Duft, ein Feueropfer für den HERRN,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Bei dieser Weihe handelt Mose als Priester. Aaron und seine Söhne sind ja noch nicht geweiht. Erst nach der Weihe dürfen sie selbst opfern.
+
+---
+
+### Das Einsetzungsopfer (Vers 22–30)
+
+<sup>22</sup>Er brachte den anderen Schafbock, den Schafbock der Amtseinsetzung.
+Aaron und seine Söhne legten ihre Hände auf den Kopf des Schafbocks.
+<sup>23</sup>Er schlachtete ihn.
+Mose nahm etwas von seinem Blut und strich es
+an das rechte Ohrläppchen von Aaron,
+an den Daumen seiner rechten Hand
+und an die große Zehe seines rechten Fußes.
+<sup>24</sup>Er ließ Aarons Söhne herkommen.
+Mose strich etwas von dem Blut an ihr rechtes Ohrläppchen,
+an den Daumen ihrer rechten Hand und an die große Zehe ihres rechten Fußes.
+Und Mose sprengte das übrige Blut ringsum an den Altar.
+
+<sup>25</sup>Er nahm das Fett:
+den Fettschwanz, das ganze Fett an den Eingeweiden, den Fettlappen an der Leber,
+die beiden Nieren und ihr Fett und die rechte Keule.
+<sup>26</sup>Und aus dem Korb mit den ungesäuerten Broten, der vor dem HERRN stand,
+nahm er einen ungesäuerten Kuchen, einen Ölkuchen und einen Fladen.
+Er legte sie auf das Fett und auf die rechte Keule.
+<sup>27</sup>Er legte das alles in die Hände von Aaron und in die Hände seiner Söhne.
+Und er schwang es vor dem HERRN hin und her, als Schwingopfer.
+<sup>28</sup>Mose nahm es aus ihren Händen und verbrannte es auf dem Altar, auf dem Brandopfer.
+Es war ein Einsetzungsopfer, ein angenehmer Duft, ein Feueropfer für den HERRN.
+<sup>29</sup>Mose nahm die Brust und schwang sie vor dem HERRN hin und her, als Schwingopfer.
+Sie war der Anteil von Mose vom Schafbock der Amtseinsetzung,
+wie der HERR es Mose befohlen hatte.
+
+<sup>30</sup>Mose nahm etwas vom Salböl und etwas von dem Blut, das auf dem Altar war.
+Er sprengte es auf Aaron und auf seine Kleider,
+auf seine Söhne und auf die Kleider seiner Söhne.
+So heiligte er Aaron und seine Kleider und seine Söhne und die Kleider seiner Söhne.
+
+> **Was bedeutet das?**
+> Das Blut an Ohr, Hand und Fuß bedeutet: Der Priester soll mit seinem Ohr auf Gott hören, mit seiner Hand Gottes Werk tun und mit seinem Fuß auf Gottes Wegen gehen. Der ganze Mensch gehört Gott.
+> Öl und Blut werden zusammen auf die Priester gesprengt. Das Öl ist ein Zeichen für Gottes Geist und seine Auswahl. Das Blut ist ein Zeichen für Versöhnung und Reinigung.
+
+---
+
+### Sieben Tage am Eingang des Zeltes (Vers 31–36)
+
+<sup>31</sup>Mose sagte zu Aaron und zu seinen Söhnen:
+„Kocht das Fleisch am Eingang des Zeltes der Begegnung.
+Esst es dort zusammen mit dem Brot, das im Korb für die Amtseinsetzung ist.
+So habe ich es befohlen: ‚Aaron und seine Söhne sollen es essen.‘
+<sup>32</sup>Was vom Fleisch und vom Brot übrig bleibt, sollt ihr im Feuer verbrennen.
+<sup>33</sup>Sieben Tage lang sollt ihr nicht vom Eingang des Zeltes der Begegnung weggehen,
+bis die Tage eurer Amtseinsetzung vorüber sind.
+Denn sieben Tage lang wird er euch in euer Amt einsetzen.
+<sup>34</sup>Wie es heute gemacht worden ist, so hat der HERR befohlen, es zu machen,
+um für euch Versöhnung zu schaffen.
+<sup>35</sup>Sieben Tage lang sollt ihr Tag und Nacht am Eingang des Zeltes der Begegnung bleiben
+und den Auftrag des HERRN befolgen, damit ihr nicht sterbt.
+Denn so ist es mir befohlen worden.“
+<sup>36</sup>Aaron und seine Söhne taten alles, was der HERR durch Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Die Weihe dauert sieben Tage. Sieben Tage – wie die sieben Tage der Schöpfung. Für die Priester beginnt ein neues Leben.
+> In diesen sieben Tagen bleiben sie Tag und Nacht am Heiligtum. Sie sollen ganz bei Gott sein, bevor sie ihren Dienst beginnen.
+
+## 3. Mose – Kapitel 9
+#### Aarons erstes Opfer – Gottes Herrlichkeit erscheint
+
+---
+
+### Heute erscheint euch der HERR (Vers 1–7)
+
+<sup>1</sup>Am achten Tag rief Mose Aaron und seine Söhne und die Ältesten Israels.
+<sup>2</sup>Er sagte zu Aaron:
+„Nimm ein Kalb von den Rindern als Sündopfer und einen Schafbock als Brandopfer, beide ohne Fehler,
+und bring sie vor den HERRN.
+<sup>3</sup>Und sprich zu den Israeliten:
+‚Nehmt einen Ziegenbock als Sündopfer,
+und ein Kalb und ein Lamm, beide einjährig und ohne Fehler, als Brandopfer,
+<sup>4</sup>und einen Stier und einen Schafbock als Gemeinschaftsopfer, um sie vor dem HERRN zu opfern,
+und ein Speiseopfer, mit Öl vermengt.
+Denn heute erscheint euch der HERR.‘“
+
+<sup>5</sup>Sie brachten, was Mose befohlen hatte, vor das Zelt der Begegnung.
+Die ganze Gemeinde kam herbei und stellte sich vor den HERRN.
+<sup>6</sup>Mose sagte:
+„Das hat der HERR euch befohlen zu tun.
+Dann wird euch die Herrlichkeit des HERRN erscheinen.“
+<sup>7</sup>Mose sagte zu Aaron:
+„Tritt an den Altar.
+Bring dein Sündopfer und dein Brandopfer dar.
+Schaff Versöhnung für dich und für das Volk.
+Dann bring die Opfergabe des Volkes dar und schaff Versöhnung für sie,
+wie der HERR es befohlen hat.“
+
+> **Was bedeutet das?**
+> Nach den sieben Tagen der Weihe kommt der achte Tag. Das ist der erste Tag eines neuen Anfangs. Jetzt tut Aaron zum ersten Mal selbst seinen Dienst als Priester.
+> Zuerst muss Aaron ein Opfer für sich selbst bringen. Auch der Hohepriester ist ein Mensch mit Fehlern. Erst dann kann er für das Volk vor Gott treten.
+> Aaron muss ausgerechnet ein Kalb opfern. Vielleicht soll ihn das an das goldene Kalb erinnern, das er gemacht hatte (2. Mose 32). Jetzt wird diese Schuld vergeben.
+
+---
+
+### Aarons Opfer für sich selbst (Vers 8–14)
+
+<sup>8</sup>Da trat Aaron an den Altar und schlachtete das Kalb für das Sündopfer, das für ihn selbst war.
+<sup>9</sup>Die Söhne Aarons reichten ihm das Blut.
+Er tauchte seinen Finger in das Blut und strich es an die Hörner des Altars.
+Das übrige Blut goss er unten an den Altar.
+<sup>10</sup>Aber das Fett, die Nieren und den Fettlappen an der Leber vom Sündopfer verbrannte er auf dem Altar,
+wie der HERR es Mose befohlen hatte.
+<sup>11</sup>Das Fleisch und die Haut verbrannte er im Feuer, draußen vor dem Lager.
+
+<sup>12</sup>Er schlachtete das Brandopfer.
+Die Söhne Aarons reichten ihm das Blut, und er sprengte es ringsum an den Altar.
+<sup>13</sup>Sie reichten ihm das Brandopfer, Stück für Stück, und den Kopf.
+Er verbrannte sie auf dem Altar.
+<sup>14</sup>Er wusch die Eingeweide und die Beine und verbrannte sie auf dem Brandopfer auf dem Altar.
+
+---
+
+### Aarons Opfer für das Volk (Vers 15–21)
+
+<sup>15</sup>Dann brachte er die Opfergabe des Volkes dar.
+Er nahm den Ziegenbock für das Sündopfer, der für das Volk war, schlachtete ihn
+und brachte ihn als Sündopfer dar, wie das erste.
+<sup>16</sup>Er brachte das Brandopfer dar und opferte es, wie es vorgeschrieben ist.
+<sup>17</sup>Er brachte das Speiseopfer dar.
+Er nahm eine Handvoll davon und verbrannte es auf dem Altar,
+zusätzlich zum Brandopfer am Morgen.
+
+<sup>18</sup>Er schlachtete auch den Stier und den Schafbock, das Gemeinschaftsopfer für das Volk.
+Die Söhne Aarons reichten ihm das Blut, und er sprengte es ringsum an den Altar.
+<sup>19</sup>Und sie reichten ihm das Fett vom Stier und vom Schafbock:
+den Fettschwanz, das Fett, das die Eingeweide umhüllt, die Nieren und den Fettlappen an der Leber.
+<sup>20</sup>Sie legten das Fett auf die Bruststücke.
+Und er verbrannte das Fett auf dem Altar.
+<sup>21</sup>Aaron schwang die Bruststücke und die rechte Keule vor dem HERRN hin und her, als Schwingopfer,
+wie Mose es befohlen hatte.
+
+> **Was bedeutet das?**
+> Jetzt kommen alle Arten von Opfern zusammen: Sündopfer, Brandopfer, Speiseopfer und Gemeinschaftsopfer.
+> Die Reihenfolge hat einen Sinn: Zuerst wird die Schuld vergeben (Sündopfer). Dann gibt man sich ganz Gott hin (Brandopfer). Dann dankt man (Speiseopfer). Und zuletzt feiert man die Gemeinschaft mit Gott (Gemeinschaftsopfer).
+
+---
+
+### Der Segen und das Feuer vom HERRN (Vers 22–24)
+
+<sup>22</sup>Aaron hob seine Hände zum Volk hin und segnete es.
+Dann stieg er herab, nachdem er das Sündopfer, das Brandopfer und das Gemeinschaftsopfer dargebracht hatte.
+<sup>23</sup>Mose und Aaron gingen in das Zelt der Begegnung.
+Dann kamen sie heraus und segneten das Volk.
+Da erschien die Herrlichkeit des HERRN dem ganzen Volk.
+<sup>24</sup>Feuer ging vom HERRN aus und verzehrte das Brandopfer und das Fett auf dem Altar.
+Als das ganze Volk das sah, jubelten sie und warfen sich auf ihr Gesicht nieder.
+
+> **Was bedeutet das?**
+> Das ist ein großer Höhepunkt. Gott nimmt die Opfer an. Feuer kommt von Gott und verbrennt das Opfer. Das ist das Zeichen: Gott ist da, und er ist mit seinem Volk versöhnt.
+> Aaron hebt die Hände und segnet das Volk. Wie dieser Segen später klingt, steht in 4. Mose 6,24–26: „Der HERR segne dich und behüte dich …“ Diese Worte werden bis heute in Synagogen und Kirchen gesprochen.
+> Das Volk jubelt und wirft sich nieder. Freude und Ehrfurcht gehören zusammen.
+> Doch gleich im nächsten Kapitel passiert etwas Schreckliches.
