@@ -10308,3 +10308,321 @@ Und er ging in sein Land zurück.
 > Mose ist der große Anführer, der mit Gott redet. Trotzdem ist er demütig genug, auf den Rat seines Schwiegervaters zu hören.
 > Gute Ideen dürfen auch von außen kommen, von Menschen aus einem anderen Volk und mit einem anderen Hintergrund.
 > Bevor Gott dem Volk am Sinai sein Gesetz gibt, wird schon eine Ordnung für gerechte Richter geschaffen. Recht und Gerechtigkeit gehören zum Fundament eines Volkes.
+
+## 2. Mose – Kapitel 19
+#### Am Berg Sinai
+
+---
+
+### Ankunft am Berg Gottes (Vers 1–2)
+
+<sup>1</sup>Im dritten Monat nach dem Auszug der Israeliten aus dem Land Ägypten,
+genau an diesem Tag, kamen sie in die Wüste Sinai.
+<sup>2</sup>Sie waren von Refidim aufgebrochen und in die Wüste Sinai gekommen.
+Dort schlugen sie in der Wüste ihr Lager auf.
+Israel lagerte gegenüber dem Berg.
+
+> **Was bedeutet das?**
+> Jetzt ist das Volk am Ziel der ersten Etappe: am Berg Sinai. Hier ist Gott Mose im Dornbusch erschienen. Hier hat Gott versprochen: „Ihr werdet Gott auf diesem Berg dienen“ (Kapitel 3,12).
+> Das Volk wird fast ein Jahr am Sinai bleiben. Alles, was bis zum Ende des 2. Buches Mose, im ganzen 3. Buch Mose und am Anfang des 4. Buches Mose erzählt wird, geschieht hier.
+> Wo genau der Berg Sinai liegt, ist nicht sicher. Viele denken an einen hohen Berg im Süden der Sinai-Halbinsel, den „Mosesberg“ (Dschebel Musa).
+
+---
+
+### Gottes Angebot (Vers 3–8)
+
+<sup>3</sup>Mose stieg zu Gott hinauf.
+Da rief der HERR ihm vom Berg aus zu:
+„So sollst du zum Haus Jakob sagen, und das sollst du den Israeliten verkünden:
+<sup>4</sup>‚Ihr habt gesehen, was ich mit den Ägyptern gemacht habe.
+Ihr habt gesehen, wie ich euch auf Adlerflügeln getragen und zu mir gebracht habe.
+<sup>5</sup>Wenn ihr jetzt wirklich auf meine Stimme hört und meinen Bund haltet,
+dann sollt ihr unter allen Völkern mein ganz besonderes Eigentum sein.
+Denn mir gehört die ganze Erde.
+<sup>6</sup>Ihr sollt für mich ein Königreich von Priestern sein und ein heiliges Volk.‘
+Das sind die Worte, die du den Israeliten sagen sollst.“
+
+<sup>7</sup>Mose kam herunter.
+Er rief die Ältesten des Volkes zusammen
+und sagte ihnen alles, was der HERR ihm aufgetragen hatte.
+<sup>8</sup>Da antwortete das ganze Volk gemeinsam:
+„Alles, was der HERR gesagt hat, wollen wir tun.“
+Und Mose brachte die Antwort des Volkes zum HERRN zurück.
+
+> **Was bedeutet das?**
+> Gott erinnert zuerst daran, was er getan hat. Dann erst sagt er, was er sich vom Volk wünscht. Bei Gott kommt immer zuerst das Geschenk, dann der Auftrag.
+> „Auf Adlerflügeln getragen“ – ein wunderschönes Bild. Ein Adler trägt seine Jungen sicher, wenn sie fliegen lernen. So hat Gott sein Volk durch alle Gefahren getragen.
+> Gott bietet einen Bund an. Israel soll sein „besonderes Eigentum“ sein – wie ein kostbarer Schatz. Aber nicht, weil die anderen Völker Gott egal sind: „Mir gehört die ganze Erde.“
+> „Ein Königreich von Priestern“ heißt: Das ganze Volk soll zwischen Gott und der Welt vermitteln. Es soll den anderen Völkern zeigen, wer Gott ist. Im Neuen Testament wird dieses Wort auf alle Christen übertragen (1. Petrus 2,9).
+> Das Volk sagt sofort Ja. Ob es sein Versprechen halten wird, zeigt sich bald.
+
+---
+
+### Vorbereitung auf die Begegnung mit Gott (Vers 9–15)
+
+<sup>9</sup>Der HERR sagte zu Mose:
+„Schau, ich komme zu dir in einer dichten Wolke.
+Das Volk soll hören, wie ich mit dir rede.
+Dann wird es dir für immer glauben.“
+Und Mose sagte dem HERRN, was das Volk geantwortet hatte.
+
+<sup>10</sup>Der HERR sagte zu Mose:
+„Geh zum Volk.
+Bereite es heute und morgen darauf vor, mir zu begegnen.
+Sie sollen ihre Kleider waschen.
+<sup>11</sup>Am dritten Tag sollen sie bereit sein.
+Denn am dritten Tag wird der HERR vor den Augen des ganzen Volkes auf den Berg Sinai herabkommen.
+<sup>12</sup>Zieh rund um den Berg eine Grenze für das Volk.
+Sag zu ihnen:
+‚Hütet euch davor, auf den Berg zu steigen oder auch nur seinen Rand zu berühren.
+Jeder, der den Berg berührt, muss sterben.
+<sup>13</sup>Keine Hand soll ihn berühren.
+Er soll gesteinigt oder mit Pfeilen erschossen werden.
+Egal ob Tier oder Mensch: Er darf nicht am Leben bleiben.‘
+Erst wenn das Widderhorn lange ertönt, dürfen sie zum Berg hinaufkommen.“
+
+<sup>14</sup>Da stieg Mose vom Berg zum Volk hinab.
+Er bereitete das Volk vor, und sie wuschen ihre Kleider.
+<sup>15</sup>Er sagte zum Volk:
+„Seid bis zum dritten Tag bereit.
+Schlaft in dieser Zeit nicht mit einer Frau.“
+
+> **Was bedeutet das?**
+> Einem König begegnet man nicht in schmutzigen Kleidern. Wie viel mehr Gott! Das Volk soll sich innerlich und äußerlich vorbereiten.
+> „Heilig machen“ oder „vorbereiten“ heißt: sich bereit machen für die Begegnung mit Gott.
+> Die Grenze um den Berg zeigt: Gott ist nah, aber er ist auch heilig und mächtig. Man kann ihm nicht einfach nahekommen, wie man will.
+> Ein Widderhorn (hebräisch „Schofar“) ist ein Blasinstrument aus dem Horn eines Schafbocks. Es wird bis heute an jüdischen Feiertagen geblasen.
+> Dass Männer und Frauen in dieser Zeit nicht miteinander schlafen sollen, heißt nicht, dass Sexualität schlecht ist. Es war damals ein Zeichen der besonderen Vorbereitung und Sammlung.
+
+---
+
+### Gott kommt auf den Berg (Vers 16–25)
+
+<sup>16</sup>Am dritten Tag, als es Morgen wurde, begann es zu donnern und zu blitzen.
+Eine dichte Wolke lag auf dem Berg.
+Und ein sehr lauter Hörnerschall ertönte.
+Da zitterte das ganze Volk im Lager.
+<sup>17</sup>Mose führte das Volk aus dem Lager hinaus, Gott entgegen.
+Unten am Berg stellten sie sich auf.
+
+<sup>18</sup>Der ganze Berg Sinai war in Rauch gehüllt.
+Denn der HERR war im Feuer auf ihn herabgekommen.
+Der Rauch stieg auf wie der Rauch von einem Schmelzofen.
+Und der ganze Berg bebte heftig.
+<sup>19</sup>Der Hörnerschall wurde immer lauter.
+Mose redete, und Gott antwortete ihm mit lauter Stimme.
+
+<sup>20</sup>Der HERR kam auf den Berg Sinai herab, auf den Gipfel des Berges.
+Und der HERR rief Mose auf den Gipfel des Berges.
+Da stieg Mose hinauf.
+<sup>21</sup>Der HERR sagte zu Mose:
+„Geh hinunter und warne das Volk.
+Sie sollen nicht über die Grenze zum HERRN hinaufdrängen, um ihn zu sehen.
+Sonst kommen viele von ihnen um.
+<sup>22</sup>Auch die Priester, die sich dem HERRN nähern dürfen, sollen sich vorbereiten.
+Sonst wird der HERR gegen sie losbrechen.“
+
+<sup>23</sup>Mose sagte zum HERRN:
+„Das Volk kann nicht auf den Berg Sinai steigen.
+Denn du selbst hast uns gewarnt und gesagt:
+‚Zieh eine Grenze um den Berg und erkläre ihn für heilig.‘“
+<sup>24</sup>Der HERR sagte zu ihm:
+„Geh hinunter!
+Dann komm wieder herauf, du und Aaron mit dir.
+Aber die Priester und das Volk sollen nicht hinaufdrängen, um zum HERRN heraufzukommen.
+Sonst wird er gegen sie losbrechen.“
+<sup>25</sup>Da stieg Mose zum Volk hinab und sagte es ihnen.
+
+> **Was bedeutet das?**
+> Donner, Blitze, Feuer, Rauch, ein bebender Berg und ein immer lauterer Hörnerschall: Die Begegnung mit Gott ist überwältigend. Das Volk zittert.
+> Gott ist kein harmloser Kumpel. Er ist heilig und gewaltig, wie ein Feuer. Und doch kommt er herab, um mit seinem Volk zu reden.
+> Mose ist der Vermittler. Er steigt immer wieder hinauf und hinab. Er bringt Gottes Worte zum Volk und die Worte des Volkes zu Gott.
+> Mit „Priestern“ sind hier wohl die Erstgeborenen oder Ältesten gemeint, die damals Opfer brachten. Die eigentlichen Priester aus der Familie Aarons werden erst später eingesetzt.
+
+## 2. Mose – Kapitel 20
+#### Die Zehn Gebote
+
+---
+
+### Ich bin der HERR, dein Gott (Vers 1–2)
+
+<sup>1</sup>Dann sprach Gott alle diese Worte:
+<sup>2</sup>„Ich bin der HERR, dein Gott.
+Ich habe dich aus dem Land Ägypten herausgeführt, aus dem Haus der Sklaverei.
+
+> **Was bedeutet das?**
+> Jetzt kommen die Zehn Gebote. Sie gehören zu den bekanntesten Worten der Welt. Sie stehen hier und noch einmal in 5. Mose 5.
+> Ganz wichtig: Die Gebote beginnen nicht mit einem Befehl, sondern mit einer Erinnerung: „Ich habe dich befreit.“ Erst kommt Gottes Rettung, dann kommen die Gebote. Die Gebote sind keine Ketten, sondern sie zeigen, wie man als freier Mensch gut leben kann.
+> Juden zählen diesen Satz als das erste der „Zehn Worte“. In der Bibel heißen die Gebote nämlich eigentlich „die zehn Worte“ (Kapitel 34,28).
+> Die Gebote sind in der Du-Form geschrieben. Gott spricht jeden Einzelnen persönlich an.
+
+---
+
+### Keine anderen Götter (Vers 3–6)
+
+<sup>3</sup>Du sollst keine anderen Götter neben mir haben.
+
+<sup>4</sup>Du sollst dir kein Götzenbild machen.
+Du sollst dir überhaupt kein Bild machen von irgendetwas,
+was oben im Himmel ist oder unten auf der Erde oder im Wasser unter der Erde.
+<sup>5</sup>Du sollst dich nicht vor ihnen niederwerfen und ihnen nicht dienen.
+Denn ich, der HERR, dein Gott, bin ein eifersüchtiger Gott.
+Bei denen, die mich hassen, verfolge ich die Schuld der Väter
+bis zu den Kindern, bis in die dritte und vierte Generation.
+<sup>6</sup>Aber wer mich liebt und meine Gebote hält,
+dem erweise ich meine Güte bis in die tausendste Generation.
+
+> **Was bedeutet das?**
+> Das erste Gebot: Gott allein soll Gott sein. Nichts anderes soll für uns wichtiger sein als er – nicht Geld, nicht Macht, nicht Erfolg.
+> Das Bilderverbot: Gott lässt sich nicht in ein Bild oder eine Figur einsperren. Er ist größer als alles, was wir uns vorstellen können. Damals machten die Völker Statuen von ihren Göttern und beteten sie an.
+> Christen zählen die Gebote unterschiedlich. Katholiken und Lutheraner fassen Vers 3–6 als **ein** Gebot zusammen. Reformierte, Orthodoxe und Juden zählen das Bilderverbot als eigenes Gebot. Darum ist die Nummerierung der Gebote in verschiedenen Kirchen verschieden.
+> „Eifersüchtig“ heißt hier: Gott liebt sein Volk so sehr, dass er es nicht mit anderen Göttern teilen will – so wie ein Mensch in einer Ehe seinen Partner nicht teilen will.
+> Wichtig ist das Verhältnis: Die Folgen der Schuld reichen höchstens vier Generationen weit. Aber Gottes Güte reicht tausend Generationen weit. Gottes Liebe ist viel größer als sein Zorn.
+
+---
+
+### Gottes Namen nicht missbrauchen (Vers 7)
+
+<sup>7</sup>Du sollst den Namen des HERRN, deines Gottes, nicht missbrauchen.
+Denn der HERR wird jeden bestrafen, der seinen Namen missbraucht.
+
+> **Was bedeutet das?**
+> Gottes Name ist heilig. Man soll ihn nicht leichtfertig benutzen, zum Beispiel um zu fluchen, falsch zu schwören oder andere zu betrügen.
+> Am schlimmsten ist es, wenn Menschen Gottes Namen benutzen, um Unrecht zu rechtfertigen oder andere zu unterdrücken.
+
+---
+
+### Der Sabbat (Vers 8–11)
+
+<sup>8</sup>Denk an den Sabbattag. Halte ihn heilig.
+<sup>9</sup>Sechs Tage lang sollst du arbeiten und alle deine Arbeit tun.
+<sup>10</sup>Aber der siebte Tag ist ein Ruhetag für den HERRN, deinen Gott.
+An diesem Tag sollst du keine Arbeit tun:
+du nicht, dein Sohn nicht, deine Tochter nicht,
+dein Knecht nicht, deine Magd nicht, dein Vieh nicht
+und auch nicht der Fremde, der bei dir in deiner Stadt lebt.
+<sup>11</sup>Denn in sechs Tagen hat der HERR Himmel und Erde gemacht, das Meer und alles, was darin ist.
+Und am siebten Tag hat er geruht.
+Darum hat der HERR den Sabbattag gesegnet und ihn heilig gemacht.
+
+> **Was bedeutet das?**
+> Der Sabbat ist ein Geschenk: ein freier Tag in jeder Woche.
+> Das Besondere: Er gilt für **alle**. Nicht nur für den Hausherrn, sondern auch für Kinder, Knechte, Mägde, Fremde und sogar für die Tiere. Niemand darf ausgebeutet werden.
+> Für Menschen, die gerade noch Sklaven waren und jeden Tag schuften mussten, war das revolutionär.
+> Der Sabbat ist bei Juden der Samstag. Die meisten Christen feiern den Sonntag als Ruhetag, weil Jesus an einem Sonntag auferstanden ist.
+
+---
+
+### Vater und Mutter ehren (Vers 12)
+
+<sup>12</sup>Ehre deinen Vater und deine Mutter.
+Dann wirst du lange in dem Land leben, das der HERR, dein Gott, dir gibt.
+
+> **Was bedeutet das?**
+> Dieses Gebot richtet sich vor allem an erwachsene Kinder. Sie sollen ihre alten Eltern achten und für sie sorgen, wenn sie schwach werden.
+> Vater und Mutter werden gleich genannt. Beide sollen geehrt werden.
+> Dies ist das erste Gebot mit einem Versprechen: ein langes Leben im Land.
+
+---
+
+### Nicht töten (Vers 13)
+
+<sup>13</sup>Du sollst nicht morden.
+
+> **Was bedeutet das?**
+> Jedes Menschenleben ist heilig, denn jeder Mensch ist Gottes Ebenbild (1. Mose 1,27; 9,6).
+> Das hebräische Wort meint vor allem: einen Menschen absichtlich und unrechtmäßig töten.
+> Jesus hat dieses Gebot noch vertieft: Schon Hass und Wut im Herzen gegen einen anderen Menschen sind der Anfang davon (Matthäus 5,21–22).
+
+---
+
+### Nicht die Ehe brechen (Vers 14)
+
+<sup>14</sup>Du sollst nicht die Ehe brechen.
+
+> **Was bedeutet das?**
+> Die Ehe ist ein Bund der Treue zwischen Mann und Frau. Wer die Ehe bricht, zerstört dieses Vertrauen.
+> Dieses Gebot schützt die Ehe, die Familie und die Kinder.
+
+---
+
+### Nicht stehlen (Vers 15)
+
+<sup>15</sup>Du sollst nicht stehlen.
+
+> **Was bedeutet das?**
+> Jeder Mensch hat ein Recht auf das, was ihm gehört.
+> Alte jüdische Lehrer sagten: Dieses Gebot verbietet vor allem auch, einen **Menschen** zu stehlen – also Menschenraub und Sklaverei.
+
+---
+
+### Nicht lügen (Vers 16)
+
+<sup>16</sup>Du sollst keine falsche Aussage gegen deinen Mitmenschen machen.
+
+> **Was bedeutet das?**
+> Das Gebot meint zuerst: Vor Gericht darf man nicht lügen. Mit einer falschen Aussage kann man das Leben eines anderen zerstören.
+> Es gilt aber auch im Alltag: Man soll nicht schlecht über andere reden, keine Gerüchte verbreiten und andere nicht verleumden.
+
+---
+
+### Nicht begehren (Vers 17)
+
+<sup>17</sup>Du sollst nicht das Haus deines Mitmenschen begehren.
+Du sollst nicht die Frau deines Mitmenschen begehren,
+nicht seinen Knecht, nicht seine Magd, nicht sein Rind, nicht seinen Esel
+und nichts, was deinem Mitmenschen gehört.“
+
+> **Was bedeutet das?**
+> „Begehren“ heißt: etwas unbedingt haben wollen, was einem anderen gehört. Neid und Gier.
+> Dieses Gebot geht tiefer als alle anderen. Es richtet sich nicht nur gegen Taten, sondern gegen das, was im Herzen geschieht. Denn aus dem Neid und der Gier im Herzen kommen später Diebstahl, Ehebruch und sogar Mord.
+> Katholiken und Lutheraner teilen diesen Vers in zwei Gebote auf: das 9. und das 10. Gebot. So kommen auch sie auf zehn.
+
+---
+
+### Das Volk hat Angst (Vers 18–21)
+
+<sup>18</sup>Das ganze Volk erlebte den Donner und die Blitze,
+den Hörnerschall und den rauchenden Berg.
+Als das Volk das sah, zitterten sie und blieben in der Ferne stehen.
+<sup>19</sup>Sie sagten zu Mose:
+„Rede du mit uns, dann wollen wir zuhören.
+Aber Gott soll nicht mit uns reden.
+Sonst sterben wir.“
+
+<sup>20</sup>Mose sagte zum Volk:
+„Habt keine Angst!
+Gott ist gekommen, um euch zu prüfen.
+Ihr sollt Ehrfurcht vor ihm haben, damit ihr nicht sündigt.“
+<sup>21</sup>So blieb das Volk in der Ferne stehen.
+Mose aber ging näher an das dunkle Gewölk heran, in dem Gott war.
+
+> **Was bedeutet das?**
+> Gottes Stimme ist so gewaltig, dass die Menschen es nicht aushalten. Sie bitten Mose, zwischen ihnen und Gott zu vermitteln.
+> „Habt keine Angst“ und „Habt Ehrfurcht“ – beides gehört zusammen. Man muss keine Angst vor Gott haben, als ob er ein Tyrann wäre. Aber man soll ihn ernst nehmen. Dann lebt man so, dass man anderen nicht schadet.
+
+---
+
+### Anweisungen für den Altar (Vers 22–26)
+
+<sup>22</sup>Der HERR sagte zu Mose:
+„Sag zu den Israeliten:
+‚Ihr habt selbst gesehen, dass ich vom Himmel aus mit euch geredet habe.
+<sup>23</sup>Macht euch neben mir keine Götter aus Silber oder Gold.
+Solche Götter sollt ihr euch auf keinen Fall machen.
+<sup>24</sup>Macht mir einen Altar aus Erde.
+Auf ihm sollt ihr eure Brandopfer und eure Gemeinschaftsopfer darbringen,
+eure Schafe, Ziegen und Rinder.
+An jedem Ort, an dem ich meinen Namen in Erinnerung bringe, will ich zu dir kommen und dich segnen.
+<sup>25</sup>Wenn du mir einen Altar aus Steinen machst,
+dann bau ihn nicht aus behauenen Steinen.
+Denn wenn du mit deinem Werkzeug darauf schlägst, machst du ihn unrein.
+<sup>26</sup>Und steig nicht auf Stufen zu meinem Altar hinauf.
+Sonst wird deine Blöße dabei sichtbar.‘“
+
+> **Was bedeutet das?**
+> Gott hat geredet, nicht durch ein Bild. Darum braucht das Volk keine Götterfiguren.
+> Der Altar soll ganz einfach sein: aus Erde oder aus unbehauenen Steinen. Kein Prunk, keine Kunst. Nicht der Mensch soll im Mittelpunkt stehen, sondern Gott.
+> „Gemeinschaftsopfer“ (oder „Friedensopfer“) waren Opfer, bei denen ein Teil Gott gegeben wurde und ein Teil gemeinsam gegessen wurde, wie ein Festmahl mit Gott.
+> „An jedem Ort will ich zu dir kommen und dich segnen“ – Gott ist nicht nur am Sinai. Er kommt überall hin, wo man ihn ehrt.
+> Die Menschen trugen damals lange Gewänder ohne Unterwäsche. Wer Stufen hinaufstieg, konnte unten gesehen werden. Gottesdienst soll würdig sein.
