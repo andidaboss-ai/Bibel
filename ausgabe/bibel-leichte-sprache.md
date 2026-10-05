@@ -6954,3 +6954,823 @@ Ich will hingehen und ihn sehen, bevor ich sterbe.“
 > „Streitet euch nicht unterwegs!“ – vielleicht ein kleines Augenzwinkern von Josef. Er kennt seine Brüder. Vielleicht meint er auch: Gebt euch jetzt nicht gegenseitig die Schuld für das, was damals geschah.
 > Jakob kann es zuerst nicht glauben. 22 Jahre hat er um Josef getrauert. Erst als er die Wagen sieht, wird es wirklich.
 > Die Brüder müssen ihrem Vater jetzt wohl auch die Wahrheit erzählen: dass Josef nicht von einem wilden Tier gefressen wurde. Die Bibel sagt nicht, wie dieses Gespräch verlief.
+
+## 1. Mose – Kapitel 46
+#### Jakob zieht mit seiner ganzen Familie nach Ägypten
+
+---
+
+### Gott ermutigt Jakob (Vers 1–4)
+
+<sup>1</sup>Israel brach mit allem auf, was er hatte.
+Er kam nach Beerscheba.
+Dort brachte er dem Gott seines Vaters Isaak Opfer dar.
+<sup>2</sup>In der Nacht sprach Gott in einer Vision zu Israel.
+Er sagte: „Jakob! Jakob!“
+Er antwortete: „Hier bin ich.“
+<sup>3</sup>Gott sagte:
+„Ich bin Gott, der Gott deines Vaters.
+Hab keine Angst, nach Ägypten hinabzuziehen.
+Denn dort will ich dich zu einem großen Volk machen.
+<sup>4</sup>Ich selbst ziehe mit dir hinab nach Ägypten.
+Und ich selbst bringe dich auch ganz bestimmt wieder herauf.
+Und Josef wird dir die Augen schließen.“
+
+> **Was bedeutet das?**
+> Beerscheba ist der letzte Ort im Süden des Landes Kanaan. Jakob macht hier Halt, bevor er das versprochene Land verlässt. Abraham und Isaak haben hier gebetet.
+> Jakob hat wohl Angst: Darf er das Land verlassen, das Gott versprochen hat? Isaak durfte damals nicht nach Ägypten gehen (Kapitel 26,2).
+> Gott beruhigt ihn: Diesmal ist es richtig. Und: Ich gehe mit. Gott ist nicht an ein Land gebunden.
+> „Ich bringe dich wieder herauf“ – das meint Jakobs Nachkommen. Davon erzählt das 2. Buch Mose.
+> „Josef wird dir die Augen schließen“ heißt: Josef wird bei dir sein, wenn du stirbst. Ein großer Trost für den alten Vater.
+
+---
+
+### Der Aufbruch (Vers 5–7)
+
+<sup>5</sup>Dann brach Jakob von Beerscheba auf.
+Die Söhne Israels setzten ihren Vater Jakob, ihre Kinder und ihre Frauen auf die Wagen,
+die der Pharao geschickt hatte, um ihn abzuholen.
+<sup>6</sup>Sie nahmen ihr Vieh und ihren Besitz mit, den sie im Land Kanaan erworben hatten.
+So kamen sie nach Ägypten,
+Jakob und alle seine Nachkommen mit ihm:
+<sup>7</sup>seine Söhne und seine Enkel,
+seine Töchter und seine Enkelinnen.
+Alle seine Nachkommen brachte er mit nach Ägypten.
+
+---
+
+### Die Familie Jakobs: die Nachkommen von Lea (Vers 8–15)
+
+<sup>8</sup>Das sind die Namen der Israeliten, die nach Ägypten kamen, Jakob und seine Söhne:
+Ruben, der Erstgeborene von Jakob.
+<sup>9</sup>Die Söhne von Ruben:
+Henoch, Pallu, Hezron und Karmi.
+<sup>10</sup>Die Söhne von Simeon:
+Jemuël, Jamin, Ohad, Jachin, Zohar
+und Schaul, der Sohn einer Kanaaniterin.
+<sup>11</sup>Die Söhne von Levi:
+Gerschon, Kehat und Merari.
+<sup>12</sup>Die Söhne von Juda:
+Er, Onan, Schela, Perez und Serach.
+Aber Er und Onan waren im Land Kanaan gestorben.
+Die Söhne von Perez waren Hezron und Hamul.
+<sup>13</sup>Die Söhne von Issachar:
+Tola, Puwa, Job und Schimron.
+<sup>14</sup>Die Söhne von Sebulon:
+Sered, Elon und Jachleël.
+<sup>15</sup>Das sind die Söhne von Lea, die sie Jakob in Paddan-Aram geboren hatte,
+dazu seine Tochter Dina.
+Zusammen waren es 33 Personen, Söhne und Töchter.
+
+---
+
+### Die Nachkommen von Silpa (Vers 16–18)
+
+<sup>16</sup>Die Söhne von Gad:
+Zifjon, Haggi, Schuni, Ezbon, Eri, Arodi und Areli.
+<sup>17</sup>Die Söhne von Ascher:
+Jimna, Jischwa, Jischwi und Beria,
+und ihre Schwester Serach.
+Die Söhne von Beria waren Heber und Malkiël.
+<sup>18</sup>Das sind die Nachkommen von Silpa.
+Laban hatte sie seiner Tochter Lea als Magd gegeben.
+Sie gebar Jakob diese Nachkommen, 16 Personen.
+
+---
+
+### Die Nachkommen von Rahel (Vers 19–22)
+
+<sup>19</sup>Die Söhne von Rahel, der Frau von Jakob:
+Josef und Benjamin.
+<sup>20</sup>Josef wurden im Land Ägypten Manasse und Efraim geboren.
+Asenat, die Tochter von Potifera, dem Priester von On, hatte sie ihm geboren.
+<sup>21</sup>Die Söhne von Benjamin:
+Bela, Becher, Aschbel, Gera, Naaman, Ehi, Rosch, Muppim, Huppim und Ard.
+<sup>22</sup>Das sind die Nachkommen von Rahel, die Jakob geboren wurden.
+Zusammen waren es 14 Personen.
+
+---
+
+### Die Nachkommen von Bilha (Vers 23–25)
+
+<sup>23</sup>Der Sohn von Dan:
+Huschim.
+<sup>24</sup>Die Söhne von Naftali:
+Jachzeël, Guni, Jezer und Schillem.
+<sup>25</sup>Das sind die Nachkommen von Bilha.
+Laban hatte sie seiner Tochter Rahel als Magd gegeben.
+Sie gebar Jakob diese Nachkommen, zusammen sieben Personen.
+
+---
+
+### Siebzig Personen (Vers 26–27)
+
+<sup>26</sup>Alle Personen, die mit Jakob nach Ägypten kamen und direkt von ihm abstammten,
+waren 66 – die Frauen seiner Söhne nicht mitgezählt.
+<sup>27</sup>Dazu kamen die beiden Söhne von Josef, die ihm in Ägypten geboren wurden.
+So waren es zusammen 70 Personen aus der Familie Jakobs, die nach Ägypten kamen.
+
+> **Was bedeutet das?**
+> Diese lange Liste ist wichtig: Sie nennt die Familien, aus denen später die zwölf Stämme Israels werden.
+> Die Zahlen sind etwas kompliziert gerechnet. Bei den 33 Personen von Lea ist zum Beispiel Jakob selbst mitgezählt, Er und Onan aber nicht. Bei den 70 sind Josef und seine Söhne mitgezählt, obwohl sie schon in Ägypten waren.
+> Wichtig ist die Zahl 70. Sie erinnert an die 70 Völker in Kapitel 10. Die Familie Jakobs ist wie eine kleine Welt für sich. Aus diesen 70 Menschen wird in Ägypten ein großes Volk.
+> Auch Frauen werden genannt: Dina und Serach, die Tochter von Ascher.
+
+---
+
+### Das Wiedersehen (Vers 28–30)
+
+<sup>28</sup>Jakob schickte Juda vor sich her zu Josef.
+Er sollte ihm den Weg nach Goschen zeigen.
+So kamen sie in das Gebiet Goschen.
+<sup>29</sup>Josef ließ seinen Wagen anspannen.
+Er fuhr nach Goschen hinauf, seinem Vater Israel entgegen.
+Als er ihn sah, fiel er ihm um den Hals.
+Und er weinte lange an seinem Hals.
+
+<sup>30</sup>Israel sagte zu Josef:
+„Jetzt kann ich sterben.
+Denn ich habe dein Gesicht gesehen und weiß, dass du noch lebst.“
+
+> **Was bedeutet das?**
+> Juda geht voraus. Er ist jetzt der Anführer unter den Brüdern.
+> Nach 22 Jahren sehen sich Vater und Sohn wieder. Die Bibel beschreibt es ganz schlicht. Aber jeder spürt, wie viel Gefühl in diesem Moment liegt.
+> Jakob hat nichts mehr zu wünschen. Sein größter Schmerz ist geheilt.
+
+---
+
+### Josef bereitet die Brüder auf den Pharao vor (Vers 31–34)
+
+<sup>31</sup>Josef sagte zu seinen Brüdern und zur Familie seines Vaters:
+„Ich will zum Pharao hinaufgehen und es ihm sagen.
+Ich will zu ihm sagen:
+‚Meine Brüder und die Familie meines Vaters, die im Land Kanaan waren, sind zu mir gekommen.
+<sup>32</sup>Die Männer sind Hirten.
+Sie haben immer Vieh gehalten.
+Ihre Schafe und Ziegen, ihre Rinder und alles, was sie haben, haben sie mitgebracht.‘
+<sup>33</sup>Wenn euch der Pharao dann rufen lässt und fragt:
+‚Was ist euer Beruf?‘,
+<sup>34</sup>dann sollt ihr sagen:
+‚Deine Diener haben von Jugend an bis heute Vieh gehalten, wir und schon unsere Vorfahren.‘
+Dann dürft ihr im Gebiet Goschen wohnen.
+Denn die Ägypter verabscheuen alle Hirten.“
+
+> **Was bedeutet das?**
+> Josef ist klug. Er weiß: Die Ägypter wollen mit Hirten nichts zu tun haben. Gerade darum wird man seine Familie in Ruhe lassen und ihr ein eigenes Gebiet geben.
+> So bleibt Israel ein eigenes Volk und vermischt sich nicht mit den Ägyptern. Es kann seinen Glauben und seine Lebensweise bewahren.
+
+## 1. Mose – Kapitel 47
+#### Jakob vor dem Pharao – Josef in der Hungersnot
+
+---
+
+### Die Brüder vor dem Pharao (Vers 1–6)
+
+<sup>1</sup>Josef ging zum Pharao und berichtete ihm:
+„Mein Vater und meine Brüder sind aus dem Land Kanaan gekommen,
+mit ihren Schafen und Ziegen, ihren Rindern und allem, was ihnen gehört.
+Schau, sie sind jetzt im Gebiet Goschen.“
+<sup>2</sup>Er hatte fünf von seinen Brüdern mitgenommen.
+Die stellte er dem Pharao vor.
+
+<sup>3</sup>Der Pharao fragte seine Brüder:
+„Was ist euer Beruf?“
+Sie antworteten dem Pharao:
+„Deine Diener sind Hirten, wir und schon unsere Vorfahren.“
+<sup>4</sup>Und sie sagten zum Pharao:
+„Wir sind gekommen, um als Fremde eine Zeit lang im Land zu leben.
+Denn es gibt keine Weide mehr für die Herden deiner Diener.
+Die Hungersnot im Land Kanaan ist schwer.
+Darum lass deine Diener doch im Gebiet Goschen wohnen.“
+
+<sup>5</sup>Da sagte der Pharao zu Josef:
+„Dein Vater und deine Brüder sind zu dir gekommen.
+<sup>6</sup>Das Land Ägypten steht dir offen.
+Lass deinen Vater und deine Brüder im besten Teil des Landes wohnen.
+Sie sollen im Gebiet Goschen wohnen.
+Und wenn du unter ihnen tüchtige Männer kennst,
+dann mach sie zu Aufsehern über meine eigenen Herden.“
+
+> **Was bedeutet das?**
+> Alles läuft so, wie Josef es geplant hat. Die Brüder sind ehrlich und bescheiden.
+> Der Pharao ist großzügig. Er gibt Josefs Familie sogar Arbeit bei seinen eigenen Herden.
+
+---
+
+### Jakob segnet den Pharao (Vers 7–12)
+
+<sup>7</sup>Dann brachte Josef seinen Vater Jakob herein und stellte ihn dem Pharao vor.
+Und Jakob segnete den Pharao.
+<sup>8</sup>Der Pharao fragte Jakob:
+„Wie alt bist du?“
+<sup>9</sup>Jakob antwortete dem Pharao:
+„Ich bin seit 130 Jahren auf der Wanderschaft.
+Wenige und schwere Jahre waren es.
+Ich habe das Alter meiner Vorfahren nicht erreicht, die auch als Wanderer gelebt haben.“
+<sup>10</sup>Dann segnete Jakob den Pharao noch einmal und ging hinaus.
+
+<sup>11</sup>Josef gab seinem Vater und seinen Brüdern einen Wohnort.
+Er gab ihnen Land als Besitz in Ägypten, im besten Teil des Landes, in der Gegend von Ramses.
+So hatte es der Pharao befohlen.
+<sup>12</sup>Und Josef versorgte seinen Vater, seine Brüder und die ganze Familie seines Vaters mit Brot,
+so viel jede Familie brauchte, je nach der Zahl der Kinder.
+
+> **Was bedeutet das?**
+> Eine erstaunliche Szene: Ein alter Hirte segnet den mächtigsten König der Welt. Eigentlich segnet ja der Größere den Kleineren. Aber Jakob trägt Gottes Segen. Und so wird durch Abrahams Familie auch Ägypten gesegnet.
+> Jakob nennt sein Leben eine „Wanderschaft“. Er war nie wirklich zu Hause. Und er ist ehrlich: Es waren schwere Jahre. Er hat viel Leid erlebt – und auch viel selbst verschuldet.
+> Ramses ist eine Gegend im Nildelta. Der Name kommt von einem späteren Pharao. Der Erzähler benutzt den Namen, den seine Leser kannten.
+
+---
+
+### Die Hungersnot wird immer schlimmer (Vers 13–17)
+
+<sup>13</sup>Im ganzen Land gab es kein Brot mehr.
+Denn die Hungersnot war sehr schwer.
+Das Land Ägypten und das Land Kanaan waren vom Hunger völlig erschöpft.
+<sup>14</sup>Josef sammelte alles Geld, das es im Land Ägypten und im Land Kanaan gab,
+für das Getreide, das die Leute kauften.
+Und Josef brachte das Geld in den Palast des Pharao.
+
+<sup>15</sup>Als das Geld im Land Ägypten und im Land Kanaan zu Ende war,
+kamen alle Ägypter zu Josef und sagten:
+„Gib uns Brot!
+Sollen wir vor deinen Augen sterben, nur weil wir kein Geld mehr haben?“
+<sup>16</sup>Josef sagte:
+„Gebt mir euer Vieh.
+Dann gebe ich euch Brot für euer Vieh, wenn ihr kein Geld mehr habt.“
+<sup>17</sup>Da brachten sie ihr Vieh zu Josef.
+Und Josef gab ihnen Brot für ihre Pferde, ihre Schafe und Ziegen, ihre Rinder und ihre Esel.
+So versorgte er sie in diesem Jahr mit Brot für ihr ganzes Vieh.
+
+---
+
+### Die Ägypter verkaufen sich und ihr Land (Vers 18–26)
+
+<sup>18</sup>Als dieses Jahr vorbei war, kamen sie im zweiten Jahr zu ihm und sagten:
+„Wir wollen es vor unserem Herrn nicht verbergen:
+Das Geld ist zu Ende.
+Und unser Vieh gehört schon unserem Herrn.
+Uns bleibt nichts mehr, was wir unserem Herrn geben könnten, außer uns selbst und unserem Ackerland.
+<sup>19</sup>Warum sollen wir vor deinen Augen sterben, wir und unser Land?
+Kauf uns und unser Land für Brot.
+Dann sind wir und unser Land dem Pharao untertan.
+Gib uns Saatgut, damit wir am Leben bleiben und nicht sterben
+und damit das Land nicht verödet.“
+
+<sup>20</sup>So kaufte Josef das ganze Ackerland in Ägypten für den Pharao.
+Denn alle Ägypter verkauften ihre Felder, weil die Hungersnot so schwer auf ihnen lastete.
+So wurde das Land Eigentum des Pharao.
+<sup>21</sup>Und das Volk ließ er in die Städte umziehen,
+von einem Ende Ägyptens bis zum anderen.
+<sup>22</sup>Nur das Land der Priester kaufte er nicht.
+Denn die Priester bekamen vom Pharao einen festen Anteil.
+Davon lebten sie.
+Darum mussten sie ihr Land nicht verkaufen.
+
+<sup>23</sup>Josef sagte zum Volk:
+„Schaut, heute habe ich euch und euer Land für den Pharao gekauft.
+Hier habt ihr Saatgut. Besät damit das Land.
+<sup>24</sup>Bei der Ernte sollt ihr dem Pharao ein Fünftel geben.
+Vier Fünftel sollen euch gehören:
+als Saatgut für das Feld und als Essen für euch, eure Familien und eure Kinder.“
+<sup>25</sup>Sie sagten:
+„Du hast uns das Leben gerettet!
+Wir möchten weiter die Gunst unseres Herrn haben.
+Wir wollen dem Pharao untertan sein.“
+
+<sup>26</sup>So machte Josef es zum Gesetz für das Land Ägypten, das bis heute gilt:
+Dem Pharao gehört ein Fünftel der Ernte.
+Nur das Land der Priester wurde nicht Eigentum des Pharao.
+
+> **Was bedeutet das?**
+> Dieser Abschnitt ist für heutige Leser nicht leicht. Josef rettet zwar die Ägypter vor dem Hungertod. Aber am Ende gehören alles Geld, alles Vieh und alles Land dem Pharao. Die Menschen sind abhängig von ihm geworden.
+> Die Ägypter selbst empfinden es als Rettung: „Du hast uns das Leben gerettet!“ Eine Abgabe von einem Fünftel war damals eher mild. In anderen Ländern verlangten Herrscher oft viel mehr.
+> Manche Ausleger sehen Josef hier als klugen Verwalter in einer Notlage. Andere sehen kritisch, dass er die Macht des Pharao so stark vergrößert hat. Später wird ein Pharao genau diese Macht nutzen, um Josefs Nachkommen zu Sklaven zu machen (2. Mose 1).
+> Die Bibel erzählt es, ohne es ausdrücklich zu loben oder zu tadeln.
+
+---
+
+### Jakob will in Kanaan begraben werden (Vers 27–31)
+
+<sup>27</sup>So wohnte Israel im Land Ägypten, im Gebiet Goschen.
+Sie erwarben dort Besitz.
+Sie bekamen viele Kinder und wurden sehr zahlreich.
+
+<sup>28</sup>Jakob lebte noch 17 Jahre im Land Ägypten.
+So wurde Jakob insgesamt 147 Jahre alt.
+
+<sup>29</sup>Als die Zeit kam, dass Israel sterben musste, rief er seinen Sohn Josef zu sich.
+Er sagte zu ihm:
+„Wenn ich deine Gunst gefunden habe, dann leg deine Hand unter meine Hüfte.
+Erweise mir Liebe und Treue:
+Begrab mich bitte nicht in Ägypten.
+<sup>30</sup>Wenn ich mich zu meinen Vorfahren gelegt habe,
+dann bring mich aus Ägypten weg
+und begrab mich in ihrem Grab.“
+Josef antwortete:
+„Ich will tun, was du gesagt hast.“
+
+<sup>31</sup>Jakob sagte:
+„Schwöre es mir!“
+Da schwor Josef es ihm.
+Und Israel neigte sich anbetend über das Kopfende seines Bettes.
+
+> **Was bedeutet das?**
+> In Ägypten erfüllt sich Gottes Versprechen: Die Familie wird groß und zahlreich.
+> 17 Jahre lang hat Josef seinen Vater am Anfang seines Lebens gehabt. Jetzt hat Jakob 17 Jahre mit Josef in Ägypten. So bekommt er die verlorenen Jahre zurück.
+> „Die Hand unter die Hüfte legen“ ist ein feierlicher Schwur, wie bei Abraham und seinem Knecht (Kapitel 24).
+> Jakob will nicht in Ägypten bleiben, auch nicht als Toter. Sein Herz gehört dem Land, das Gott versprochen hat. Er will bei Abraham, Sara, Isaak, Rebekka und Lea in der Höhle Machpela begraben werden.
+> Am Ende neigt sich Jakob über sein Bett und betet Gott an. Er dankt Gott.
+
+## 1. Mose – Kapitel 48
+#### Jakob segnet Efraim und Manasse
+
+---
+
+### Josef besucht seinen kranken Vater (Vers 1–7)
+
+<sup>1</sup>Einige Zeit später sagte man zu Josef:
+„Schau, dein Vater ist krank.“
+Da nahm er seine beiden Söhne Manasse und Efraim mit.
+<sup>2</sup>Man sagte zu Jakob:
+„Schau, dein Sohn Josef kommt zu dir.“
+Da nahm Israel all seine Kraft zusammen und setzte sich im Bett auf.
+
+<sup>3</sup>Jakob sagte zu Josef:
+„Gott, der Allmächtige, ist mir in Lus im Land Kanaan erschienen und hat mich gesegnet.
+<sup>4</sup>Er hat zu mir gesagt:
+‚Schau, ich will dich fruchtbar machen und zahlreich.
+Ich will eine Gemeinschaft von Völkern aus dir machen.
+Und dieses Land will ich deinen Nachkommen nach dir geben, als Besitz für immer.‘
+
+<sup>5</sup>Deine beiden Söhne, die dir im Land Ägypten geboren wurden, bevor ich zu dir nach Ägypten kam,
+sollen jetzt meine Söhne sein.
+Efraim und Manasse sollen mir gehören wie Ruben und Simeon.
+<sup>6</sup>Die Kinder aber, die du nach ihnen bekommst, sollen dir gehören.
+Sie sollen beim Erbe unter dem Namen ihrer Brüder gezählt werden.
+
+<sup>7</sup>Als ich aus Paddan zurückkam, starb mir Rahel im Land Kanaan auf dem Weg.
+Es war nur noch ein kleines Stück bis Efrata.
+Dort am Weg nach Efrata habe ich sie begraben. Efrata ist Betlehem.“
+
+> **Was bedeutet das?**
+> Lus ist der alte Name von Bet-El, wo Jakob die Himmelstreppe sah.
+> Jakob nimmt Josefs Söhne als seine eigenen Söhne an. Das heißt: Josef bekommt einen doppelten Anteil am Erbe. Aus ihm werden später zwei Stämme Israels: Efraim und Manasse.
+> Eigentlich stand der doppelte Anteil dem Erstgeborenen zu, also Ruben. Aber Ruben hat dieses Recht verloren (Kapitel 35,22). Jetzt bekommt es Josef, der erste Sohn von Rahel.
+> Jakob denkt an Rahel. Auch am Ende seines Lebens trauert er noch um seine geliebte Frau. Vielleicht erklärt er Josef damit auch: Rahel hätte noch mehr Kinder haben sollen. Darum nehme ich deine Söhne an.
+
+---
+
+### Der Großvater und die Enkel (Vers 8–12)
+
+<sup>8</sup>Dann sah Israel die Söhne von Josef und fragte:
+„Wer sind die da?“
+<sup>9</sup>Josef antwortete seinem Vater:
+„Das sind meine Söhne, die Gott mir hier geschenkt hat.“
+Jakob sagte:
+„Bring sie doch zu mir her. Ich will sie segnen.“
+
+<sup>10</sup>Israels Augen waren vom Alter schwach geworden.
+Er konnte nicht mehr gut sehen.
+Josef brachte sie zu ihm.
+Und er küsste sie und umarmte sie.
+<sup>11</sup>Israel sagte zu Josef:
+„Ich habe nicht geglaubt, dass ich dein Gesicht noch einmal sehen würde.
+Und schau: Gott hat mich sogar noch deine Kinder sehen lassen.“
+
+<sup>12</sup>Dann nahm Josef die beiden vom Schoß seines Vaters.
+Und er verneigte sich mit dem Gesicht bis zur Erde.
+
+> **Was bedeutet das?**
+> Wie sein Vater Isaak ist auch Jakob im Alter fast blind. Erinnerst du dich? Als Isaak blind war, hat Jakob ihn betrogen (Kapitel 27). Jetzt ist Jakob selbst der blinde Vater, der segnet.
+> Jakob ist überwältigt vor Dankbarkeit: Er dachte, Josef sei tot. Jetzt hält er sogar Josefs Kinder im Arm.
+> Die Kinder auf den Schoß zu nehmen, war ein Zeichen: Ich nehme sie als meine eigenen an.
+
+---
+
+### Der Jüngere vor dem Älteren (Vers 13–20)
+
+<sup>13</sup>Dann nahm Josef beide.
+Efraim nahm er an seine rechte Hand, so dass er links von Israel stand.
+Und Manasse nahm er an seine linke Hand, so dass er rechts von Israel stand.
+So brachte er sie zu ihm.
+<sup>14</sup>Aber Israel streckte seine rechte Hand aus und legte sie auf den Kopf von Efraim, obwohl er der Jüngere war.
+Und seine linke Hand legte er auf den Kopf von Manasse.
+Er kreuzte seine Hände absichtlich.
+Denn Manasse war der Erstgeborene.
+
+<sup>15</sup>Und er segnete Josef und sagte:
+„Der Gott, mit dem meine Väter Abraham und Isaak gelebt haben,
+der Gott, der mich mein ganzes Leben lang bis heute wie ein Hirte versorgt hat,
+<sup>16</sup>der Engel, der mich aus allem Unglück erlöst hat,
+er segne die Jungen.
+In ihnen soll mein Name weiterleben
+und der Name meiner Väter Abraham und Isaak.
+Sie sollen sich auf der Erde zu einer großen Menge vermehren.“
+
+<sup>17</sup>Josef sah, dass sein Vater die rechte Hand auf Efraims Kopf legte.
+Das gefiel ihm nicht.
+Er fasste die Hand seines Vaters, um sie von Efraims Kopf auf Manasses Kopf zu legen.
+<sup>18</sup>Josef sagte zu seinem Vater:
+„Nicht so, mein Vater!
+Der hier ist der Erstgeborene.
+Leg deine rechte Hand auf seinen Kopf.“
+
+<sup>19</sup>Aber sein Vater wollte nicht.
+Er sagte:
+„Ich weiß, mein Sohn, ich weiß.
+Auch er wird ein Volk werden.
+Auch er wird groß werden.
+Aber sein jüngerer Bruder wird größer sein als er.
+Und seine Nachkommen werden eine Menge von Völkern werden.“
+
+<sup>20</sup>So segnete er sie an diesem Tag und sagte:
+„Mit eurem Namen wird man in Israel segnen.
+Man wird sagen: ‚Gott mache dich wie Efraim und Manasse!‘“
+So stellte er Efraim vor Manasse.
+
+> **Was bedeutet das?**
+> Die rechte Hand galt als die wichtigere. Sie war für den Erstgeborenen bestimmt.
+> Wieder geschieht dasselbe wie so oft im 1. Buch Mose: Der Jüngere wird vor den Älteren gestellt. Abel vor Kain, Isaak vor Ismael, Jakob vor Esau, Josef vor seinen älteren Brüdern, Perez vor Serach. Gott hält sich nicht an die Regeln der Menschen. Er wählt oft die, die zuerst übersehen werden.
+> Jakob, der früher selbst den Segen erschlichen hat, gibt ihn jetzt ganz bewusst und offen. Er weiß, was er tut.
+> Jakob nennt Gott seinen „Hirten“. Er war selbst sein Leben lang Hirte. Jetzt erkennt er: Gott hat mich gehütet. Dieses Bild kommt später im berühmten Psalm 23 wieder: „Der HERR ist mein Hirte.“
+> Bis heute segnen jüdische Väter am Freitagabend ihre Söhne mit den Worten: „Gott mache dich wie Efraim und Manasse.“
+
+---
+
+### Ein besonderes Geschenk für Josef (Vers 21–22)
+
+<sup>21</sup>Dann sagte Israel zu Josef:
+„Schau, ich muss sterben.
+Aber Gott wird mit euch sein.
+Er wird euch zurückbringen in das Land eurer Väter.
+<sup>22</sup>Und dir gebe ich ein Stück Land mehr als deinen Brüdern.
+Ich habe es den Amoritern mit meinem Schwert und meinem Bogen abgenommen.“
+
+> **Was bedeutet das?**
+> Jakob ist sicher: Gott wird sein Versprechen halten. Die Familie wird nach Kanaan zurückkehren.
+> Im Hebräischen steht hier für „Stück Land“ das Wort „Schechem“. Es ist auch der Name der Stadt Sichem. Wahrscheinlich ist dieses Land gemeint. Dort wird Josef später tatsächlich begraben (Josua 24,32).
+> Von einem Kampf Jakobs gegen die Amoriter erzählt die Bibel sonst nichts. Vielleicht denkt Jakob an den Überfall seiner Söhne auf Sichem (Kapitel 34) oder an eine andere Begebenheit.
+
+## 1. Mose – Kapitel 49
+#### Jakobs Segen für seine zwölf Söhne – Jakob stirbt
+
+---
+
+### Versammelt euch! (Vers 1–2)
+
+<sup>1</sup>Jakob rief seine Söhne zu sich und sagte:
+„Versammelt euch!
+Ich will euch sagen, was euch in späteren Zeiten geschehen wird.
+<sup>2</sup>Kommt zusammen und hört zu, ihr Söhne Jakobs!
+Hört auf Israel, euren Vater!“
+
+> **Was bedeutet das?**
+> Am Ende seines Lebens spricht Jakob zu jedem seiner Söhne. Diese Worte sind wie ein Gedicht. In alten Bibeln steht dieser Text oft in Versform.
+> Jakob sagt nicht nur Gutes. Er spricht offen aus, was jeder getan hat und was aus ihm werden wird. Die Worte gelten nicht nur den Söhnen, sondern auch den Stämmen, die von ihnen abstammen werden.
+> Manche Bilder in diesem Kapitel sind schwer zu verstehen. Auch Fachleute sind sich bei einigen Versen nicht sicher, was genau gemeint ist.
+
+---
+
+### Ruben (Vers 3–4)
+
+<sup>3</sup>„Ruben, du bist mein Erstgeborener,
+meine Kraft und der Erstling meiner Stärke.
+Du warst der Erste an Würde und der Erste an Macht.
+<sup>4</sup>Aber du bist aufgebraust wie kochendes Wasser.
+Darum sollst du nicht der Erste bleiben.
+Denn du bist in das Bett deines Vaters gestiegen.
+Damals hast du es entehrt.
+Ja, er ist auf mein Lager gestiegen!“
+
+> **Was bedeutet das?**
+> Ruben hätte als Ältester der Anführer werden sollen. Aber er hat mit Bilha geschlafen, der Nebenfrau seines Vaters (Kapitel 35,22). Darum verliert er sein Vorrecht.
+> „Wie kochendes Wasser“ heißt: unbeherrscht, ohne Selbstkontrolle.
+> Tatsächlich spielte der Stamm Ruben später in Israel keine große Rolle.
+
+---
+
+### Simeon und Levi (Vers 5–7)
+
+<sup>5</sup>„Simeon und Levi sind Brüder.
+Ihre Schwerter sind Werkzeuge der Gewalt.
+<sup>6</sup>Meine Seele soll nicht an ihren Plänen teilhaben.
+Meine Ehre soll sich nicht mit ihrer Versammlung verbinden.
+Denn in ihrem Zorn haben sie Männer getötet.
+Und in ihrem Übermut haben sie Rindern die Sehnen durchgeschnitten.
+<sup>7</sup>Verflucht sei ihr Zorn, denn er ist gewaltig,
+und ihre Wut, denn sie ist grausam.
+Ich will sie in Jakob verteilen
+und in Israel zerstreuen.“
+
+> **Was bedeutet das?**
+> Jakob erinnert an das Blutbad in Sichem (Kapitel 34). Damals hat er nur an sich selbst gedacht. Jetzt verurteilt er die Gewalt seiner Söhne deutlich.
+> Wichtig: Jakob verflucht nicht seine Söhne. Er verflucht ihren Zorn und ihre Gewalt.
+> „Sie werden zerstreut“: Der Stamm Simeon bekam später kein eigenes Gebiet, sondern lebte mitten im Gebiet von Juda. Der Stamm Levi bekam auch kein eigenes Land. Aber aus Levi wurden die Priester, die überall im Land wohnten. So wurde aus dem Fluch am Ende ein Segen.
+
+---
+
+### Juda (Vers 8–12)
+
+<sup>8</sup>„Juda, dich werden deine Brüder loben.
+Deine Hand wird deine Feinde im Nacken packen.
+Die Söhne deines Vaters werden sich vor dir verneigen.
+<sup>9</sup>Juda ist ein junger Löwe.
+Vom Raub bist du heraufgekommen, mein Sohn.
+Er hat sich niedergekauert und hingelegt wie ein Löwe, wie eine Löwin.
+Wer wagt es, ihn aufzuscheuchen?
+
+<sup>10</sup>Das Zepter wird nicht von Juda weichen
+und der Herrscherstab nicht von seinen Füßen,
+bis der kommt, dem es gehört.
+Ihm werden die Völker gehorchen.
+
+<sup>11</sup>Er bindet seinen jungen Esel an den Weinstock,
+das Füllen seiner Eselin an die beste Rebe.
+Er wäscht seine Kleider in Wein,
+sein Gewand in Traubenblut.
+<sup>12</sup>Seine Augen werden rot sein vom Wein,
+seine Zähne weiß von Milch.“
+
+> **Was bedeutet das?**
+> Juda bekommt den größten Segen. Er hat sich verändert: Er hat seine Schuld bei Tamar zugegeben und sich für Benjamin geopfert. Jetzt wird er der Anführer unter den Brüdern.
+> Der Löwe ist ein Bild für Kraft und Königswürde. Bis heute ist der Löwe das Wappentier von Jerusalem.
+> Ein Zepter ist ein Stab, den Könige als Zeichen ihrer Macht tragen. Aus dem Stamm Juda kam später König David und alle Könige in Jerusalem.
+> „Bis der kommt, dem es gehört“ – dieser Satz ist schwer zu übersetzen. Juden und Christen haben ihn schon sehr früh auf den Messias bezogen, den kommenden König, den Gott schicken wird. Christen sehen darin einen Hinweis auf Jesus. In der Offenbarung wird Jesus „der Löwe aus dem Stamm Juda“ genannt (Offenbarung 5,5).
+> Die Verse 11 und 12 malen ein Bild von unglaublichem Überfluss: So viel Wein, dass man Esel an edle Reben bindet und seine Kleider darin wäscht.
+
+---
+
+### Sebulon und Issachar (Vers 13–15)
+
+<sup>13</sup>„Sebulon wird am Ufer des Meeres wohnen.
+Er wird ein Hafen für Schiffe sein.
+Sein Gebiet wird bis nach Sidon reichen.
+
+<sup>14</sup>Issachar ist ein starker Esel,
+der zwischen den Packtaschen liegt.
+<sup>15</sup>Er sah, dass der Ruheplatz gut war
+und dass das Land schön war.
+Da beugte er seinen Rücken unter die Last
+und wurde ein Knecht, der Zwangsarbeit leisten muss.“
+
+> **Was bedeutet das?**
+> Sebulon bekam später ein Gebiet in Richtung Mittelmeer, im Norden des Landes. Sidon ist eine Hafenstadt im heutigen Libanon.
+> Issachar wird mit einem starken Lastesel verglichen. Sein Land war sehr fruchtbar. Aber weil er es bequem haben wollte, unterwarf er sich anderen und musste für sie arbeiten.
+
+---
+
+### Dan, Gad, Ascher und Naftali (Vers 16–21)
+
+<sup>16</sup>„Dan wird seinem Volk Recht verschaffen
+wie jeder andere Stamm Israels.
+<sup>17</sup>Dan wird eine Schlange am Weg sein,
+eine Viper auf dem Pfad,
+die das Pferd in die Fersen beißt,
+so dass sein Reiter nach hinten stürzt.
+
+<sup>18</sup>Auf deine Rettung warte ich, HERR!
+
+<sup>19</sup>Gad – eine Räuberschar wird ihn bedrängen.
+Aber er wird ihnen auf die Fersen treten.
+
+<sup>20</sup>Ascher – sein Essen wird reichhaltig sein.
+Er wird Leckerbissen liefern, die eines Königs würdig sind.
+
+<sup>21</sup>Naftali ist eine Hirschkuh, die frei herumläuft
+und schöne Junge zur Welt bringt.“
+
+> **Was bedeutet das?**
+> „Dan“ bedeutet „Richter“. Ein kleiner Stamm, aber listig und gefährlich wie eine Schlange. Aus Dan kam später der Richter Simson.
+> Mitten in den Segensworten seufzt Jakob plötzlich zu Gott: „Auf deine Rettung warte ich, HERR!“ Vielleicht merkt er: Meine Söhne und ihre Nachkommen werden viel Kampf und Not erleben. Am Ende hilft nur Gott.
+> „Gad“ klingt wie „Räuberschar“ und „angreifen“. Der Stamm Gad lebte östlich vom Jordan und musste sich oft gegen Angreifer wehren.
+> „Ascher“ bedeutet „glücklich“. Er bekam ein sehr fruchtbares Gebiet an der Küste.
+> Bei Naftali ist der hebräische Text schwer zu verstehen. Manche Bibeln übersetzen „schöne Junge“, andere „schöne Worte“. Klar ist: Naftali wird mit einem freien, flinken Tier verglichen.
+
+---
+
+### Josef (Vers 22–26)
+
+<sup>22</sup>„Josef ist ein junger, fruchtbarer Weinstock,
+ein fruchtbarer Weinstock an einer Quelle.
+Seine Ranken klettern über die Mauer.
+<sup>23</sup>Die Bogenschützen haben ihn bitter gequält.
+Sie haben auf ihn geschossen und ihn verfolgt.
+<sup>24</sup>Aber sein Bogen blieb fest.
+Seine Arme blieben stark
+durch die Hände des Starken Jakobs –
+von dort kommt der Hirte, der Fels Israels –,
+<sup>25</sup>durch den Gott deines Vaters – er wird dir helfen –
+durch den Allmächtigen – er wird dich segnen –
+mit Segen vom Himmel oben,
+mit Segen aus der Tiefe, die unten liegt,
+mit Segen der Brüste und des Mutterschoßes.
+<sup>26</sup>Die Segnungen deines Vaters sind stärker
+als die Segnungen meiner Vorfahren,
+sie reichen bis an die Grenzen der uralten Hügel.
+Sie sollen auf den Kopf von Josef kommen,
+auf den Scheitel dessen, der von seinen Brüdern getrennt wurde.“
+
+> **Was bedeutet das?**
+> Josef bekommt den längsten und herzlichsten Segen.
+> Die „Bogenschützen“ sind ein Bild für alle, die Josef gequält haben: die Brüder, Potifars Frau, das Gefängnis. Aber Josef ist nicht zerbrochen. Gott hat ihn stark gemacht.
+> Jakob nennt Gott mit vielen schönen Namen: der Starke Jakobs, der Hirte, der Felsen Israels, der Allmächtige. Ein Fels ist fest und sicher. Auf ihn kann man bauen.
+> Der Segen ist vollständig: Regen vom Himmel, Wasser aus der Erde und viele Kinder.
+
+---
+
+### Benjamin (Vers 27)
+
+<sup>27</sup>„Benjamin ist ein reißender Wolf.
+Am Morgen frisst er die Beute.
+Und am Abend verteilt er, was er geraubt hat.“
+
+> **Was bedeutet das?**
+> Der kleine, behütete Benjamin wird ein Stamm von Kämpfern. Tatsächlich waren die Benjaminiter später als mutige und gefährliche Krieger bekannt. Aus Benjamin kam Saul, der erste König Israels. Und auch der Apostel Paulus stammte aus dem Stamm Benjamin (Philipper 3,5).
+
+---
+
+### Jakob stirbt (Vers 28–33)
+
+<sup>28</sup>Das sind die zwölf Stämme Israels.
+Und das hat ihr Vater zu ihnen gesagt, als er sie segnete.
+Jeden segnete er mit dem Segen, der für ihn bestimmt war.
+
+<sup>29</sup>Dann gab er ihnen einen Auftrag und sagte zu ihnen:
+„Bald werde ich mit meinen Vorfahren vereint.
+Begrabt mich bei meinen Vätern in der Höhle auf dem Feld des Hetiters Efron,
+<sup>30</sup>in der Höhle auf dem Feld Machpela, östlich von Mamre, im Land Kanaan.
+Abraham hat sie zusammen mit dem Feld von dem Hetiter Efron als Grabstätte gekauft.
+<sup>31</sup>Dort hat man Abraham und seine Frau Sara begraben.
+Dort hat man Isaak und seine Frau Rebekka begraben.
+Und dort habe ich Lea begraben.
+<sup>32</sup>Das Feld und die Höhle darin wurden von den Hetitern gekauft.“
+
+<sup>33</sup>Als Jakob alle diese Anweisungen an seine Söhne gegeben hatte,
+zog er seine Füße auf das Bett zurück.
+Er tat seinen letzten Atemzug.
+Und er wurde mit seinen Vorfahren vereint.
+
+> **Was bedeutet das?**
+> Hier steht zum ersten Mal in der Bibel: „die zwölf Stämme Israels“. Aus einer Familie ist ein Volk geworden.
+> Jakob will bei Lea begraben werden, nicht bei Rahel. Lea, die so lange um seine Liebe gekämpft hat, liegt am Ende an seiner Seite – und mit ihr die Väter und Mütter des Glaubens.
+> Hier erfahren wir auch, dass Rebekka und Lea gestorben sind. Die Bibel hatte es vorher nicht erzählt.
+> Jakobs Tod wird ruhig und friedlich beschrieben. Er hat alles gesagt, was er sagen wollte. Dann legt er sich hin und stirbt.
+
+## 1. Mose – Kapitel 50
+#### Jakobs Begräbnis – Josef vergibt seinen Brüdern – Josef stirbt
+
+---
+
+### Die Trauer um Jakob (Vers 1–3)
+
+<sup>1</sup>Da warf sich Josef über das Gesicht seines Vaters.
+Er weinte über ihm und küsste ihn.
+<sup>2</sup>Dann befahl Josef seinen Dienern, den Ärzten, seinen Vater einzubalsamieren.
+Und die Ärzte balsamierten Israel ein.
+<sup>3</sup>Das dauerte 40 Tage.
+So lange braucht man zum Einbalsamieren.
+Die Ägypter trauerten 70 Tage lang um Israel.
+
+> **Was bedeutet das?**
+> Einbalsamieren heißt: einen Toten mit besonderen Salben und Ölen behandeln, damit der Körper nicht verwest. So machten die Ägypter Mumien. Das war nötig, weil Jakob noch weit nach Kanaan gebracht werden sollte.
+> 70 Tage Trauer – fast so lange, wie die Ägypter um einen Pharao trauerten. Jakob wird in Ägypten hoch geehrt.
+
+---
+
+### Der große Trauerzug nach Kanaan (Vers 4–14)
+
+<sup>4</sup>Als die Tage der Trauer um ihn vorüber waren, redete Josef mit den Leuten am Hof des Pharao.
+Er sagte:
+„Wenn ich eure Gunst habe, dann sagt doch dem Pharao:
+<sup>5</sup>‚Mein Vater hat mich schwören lassen.
+Er hat gesagt: Schau, ich sterbe.
+Begrab mich in meinem Grab, das ich mir im Land Kanaan ausgehoben habe.
+Darum lass mich doch hinaufziehen und meinen Vater begraben.
+Danach komme ich zurück.‘“
+<sup>6</sup>Der Pharao sagte:
+„Zieh hinauf und begrab deinen Vater, so wie er dich hat schwören lassen.“
+
+<sup>7</sup>Da zog Josef hinauf, um seinen Vater zu begraben.
+Mit ihm zogen alle Beamten des Pharao,
+die Ältesten an seinem Hof
+und alle Ältesten des Landes Ägypten,
+<sup>8</sup>dazu die ganze Familie von Josef, seine Brüder und die Familie seines Vaters.
+Nur ihre Kinder, ihre Schafe und Ziegen und ihre Rinder ließen sie im Gebiet Goschen zurück.
+<sup>9</sup>Auch Wagen und Reiter zogen mit ihm hinauf.
+Es war ein sehr großer Zug.
+
+<sup>10</sup>Sie kamen zur Tenne von Atad, die jenseits des Jordan liegt.
+Dort hielten sie eine große und sehr feierliche Totenklage.
+Sieben Tage lang trauerte Josef dort um seinen Vater.
+<sup>11</sup>Die Menschen, die im Land wohnten, die Kanaaniter, sahen die Trauer an der Tenne von Atad.
+Sie sagten:
+„Das ist eine große Trauer der Ägypter.“
+Darum nennt man diesen Ort Abel-Mizrajim.
+Er liegt jenseits des Jordan.
+
+<sup>12</sup>Jakobs Söhne taten für ihn, was er ihnen aufgetragen hatte.
+<sup>13</sup>Seine Söhne brachten ihn ins Land Kanaan.
+Sie begruben ihn in der Höhle auf dem Feld Machpela, östlich von Mamre.
+Abraham hatte sie zusammen mit dem Feld von dem Hetiter Efron als Grabstätte gekauft.
+
+<sup>14</sup>Nachdem er seinen Vater begraben hatte, kehrte Josef nach Ägypten zurück,
+er und seine Brüder und alle, die mit ihm hinaufgezogen waren, um seinen Vater zu begraben.
+
+> **Was bedeutet das?**
+> Josef hält sein Versprechen an den Vater.
+> Josef muss den Pharao um Erlaubnis bitten. Er verspricht zurückzukommen. Er ist zwar mächtig, aber er ist auch ein Diener des Pharao.
+> Eine Tenne ist ein fester, flacher Platz, auf dem man Getreide drischt.
+> „Abel-Mizrajim“ bedeutet „Trauer der Ägypter“ oder „Wiese der Ägypter“.
+> Ein riesiger ägyptischer Trauerzug zieht in das versprochene Land. Fast wie ein Vorgeschmack auf den Auszug aus Ägypten viele Jahre später.
+
+---
+
+### Die Angst der Brüder (Vers 15–18)
+
+<sup>15</sup>Josefs Brüder merkten, dass ihr Vater tot war.
+Da sagten sie:
+„Vielleicht hasst Josef uns jetzt.
+Vielleicht zahlt er uns jetzt all das Böse heim, das wir ihm angetan haben.“
+<sup>16</sup>Darum ließen sie Josef ausrichten:
+„Dein Vater hat vor seinem Tod angeordnet:
+<sup>17</sup>‚So sollt ihr zu Josef sagen:
+Vergib doch deinen Brüdern ihr Unrecht und ihre Schuld.
+Sie haben dir Böses angetan.‘
+Darum vergib doch bitte den Dienern des Gottes deines Vaters ihr Unrecht.“
+Als man Josef diese Worte ausrichtete, weinte er.
+
+<sup>18</sup>Dann kamen auch seine Brüder selbst.
+Sie warfen sich vor ihm nieder und sagten:
+„Schau, wir sind deine Sklaven.“
+
+> **Was bedeutet das?**
+> 17 Jahre lang haben die Brüder mit Josef in Ägypten gelebt. Trotzdem haben sie immer noch Angst. Vielleicht dachten sie: Josef war nur wegen unseres Vaters freundlich. Jetzt, wo der Vater tot ist, wird er sich rächen.
+> Sie schicken eine Botschaft angeblich von Jakob. Ob Jakob das wirklich gesagt hat, wissen wir nicht. Vielleicht haben die Brüder es sich ausgedacht, weil sie so große Angst hatten.
+> Josef weint. Es tut ihm weh, dass seine Brüder ihm immer noch nicht vertrauen.
+> Zum letzten Mal verneigen sich die Brüder vor Josef. Sie bieten sich ihm als Sklaven an. Damals haben sie ihn als Sklaven verkauft.
+
+---
+
+### „Ihr wolltet Böses – Gott hat es zum Guten gemacht“ (Vers 19–21)
+
+<sup>19</sup>Aber Josef sagte zu ihnen:
+„Habt keine Angst!
+Stehe ich denn an Gottes Stelle?
+<sup>20</sup>Ihr hattet Böses gegen mich geplant.
+Aber Gott hat es zum Guten gewendet.
+Er wollte damit erreichen, was heute geschieht:
+viele Menschen am Leben zu erhalten.
+<sup>21</sup>Darum habt keine Angst.
+Ich will für euch und eure Kinder sorgen.“
+So tröstete er sie und redete freundlich mit ihnen.
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Sätze der ganzen Bibel: „Ihr hattet Böses geplant. Aber Gott hat es zum Guten gewendet.“
+> Josef beschönigt nichts. Was die Brüder getan haben, war böse. Aber Gott ist größer als das Böse der Menschen. Er kann sogar aus großem Unrecht etwas Gutes machen.
+> „Stehe ich an Gottes Stelle?“ heißt: Es ist nicht meine Aufgabe, euch zu bestrafen. Das Urteil gehört Gott. Und ich vergebe euch.
+> Josef vergibt nicht nur mit Worten. Er sorgt für seine Brüder und ihre Kinder. Echte Vergebung zeigt sich in Taten.
+> Das 1. Buch Mose begann mit einer Familie, in der ein Bruder den anderen tötete (Kain und Abel). Es endet mit einer Familie, in der ein Bruder seinen Brüdern vergibt.
+
+---
+
+### Josefs letzte Jahre und sein Tod (Vers 22–26)
+
+<sup>22</sup>Josef blieb in Ägypten wohnen, er und die Familie seines Vaters.
+Josef wurde 110 Jahre alt.
+<sup>23</sup>Josef sah noch die Kinder von Efraim bis in die dritte Generation.
+Auch die Kinder von Machir, dem Sohn von Manasse, wurden auf Josefs Knien geboren.
+
+<sup>24</sup>Dann sagte Josef zu seinen Brüdern:
+„Ich sterbe.
+Aber Gott wird sich ganz bestimmt um euch kümmern.
+Er wird euch aus diesem Land herausführen
+in das Land, das er Abraham, Isaak und Jakob mit einem Schwur versprochen hat.“
+<sup>25</sup>Und Josef ließ die Israeliten schwören.
+Er sagte:
+„Gott wird sich ganz bestimmt um euch kümmern.
+Dann sollt ihr meine Gebeine von hier mit hinaufnehmen.“
+
+<sup>26</sup>So starb Josef, 110 Jahre alt.
+Man balsamierte ihn ein und legte ihn in einen Sarg in Ägypten.
+
+> **Was bedeutet das?**
+> 110 Jahre galt in Ägypten als das ideale, vollkommene Lebensalter.
+> „Auf Josefs Knien geboren“ heißt: Josef hat sie als seine eigenen Kinder angenommen, so wie Jakob es mit Efraim und Manasse getan hat.
+> Josef lebt in Ägypten, aber sein Herz gehört dem versprochenen Land. Er glaubt fest: Gott wird sein Volk eines Tages herausführen.
+> Seine Gebeine (seine Knochen) sollen dann mitgenommen werden. Viele Jahre später, beim Auszug aus Ägypten, wird Mose genau das tun (2. Mose 13,19). Und Josef wird in Sichem begraben (Josua 24,32).
+> Das 1. Buch Mose endet mit einem Sarg in Ägypten. Das klingt traurig. Aber es endet auch mit einer großen Hoffnung: „Gott wird sich um euch kümmern.“ Die Geschichte ist noch nicht zu Ende. Sie geht weiter im 2. Buch Mose.
+
+---
+
+### Rückblick auf das 1. Buch Mose
+
+Das erste Buch der Bibel erzählt eine lange Geschichte:
+Gott erschafft eine gute Welt.
+Die Menschen misstrauen Gott, und das Böse breitet sich aus.
+Aber Gott gibt nicht auf.
+Er beginnt mit einer einzigen Familie neu: mit Abraham und Sara.
+Er verspricht ihnen Land, viele Nachkommen und Segen für alle Völker.
+Über vier Generationen – Abraham, Isaak, Jakob und Josef – hält Gott sein Versprechen,
+auch durch Fehler, Lügen, Streit und Leid hindurch.
+Am Ende ist aus einer Familie ein Volk von zwölf Stämmen geworden: Israel.
