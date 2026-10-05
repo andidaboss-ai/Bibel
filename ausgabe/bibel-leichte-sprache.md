@@ -13128,3 +13128,385 @@ so wie ein Salbenmischer es kunstvoll herstellt.
 > In Ellen: eine Elle lang und breit, zwei Ellen hoch.
 > Damit sind alle Gegenstände für das Innere des Heiligtums fertig: die Bundeslade im Allerheiligsten, dazu Tisch, Leuchter und Räucheraltar im Heiligen.
 > Was in Kapitel 25 und 30 befohlen wurde, wird jetzt Stück für Stück getan.
+
+## 2. Mose – Kapitel 38
+#### Brandopferaltar, Waschbecken, Vorhof – und was alles gekostet hat
+
+---
+
+### Der Brandopferaltar (Vers 1–7)
+
+<sup>1</sup>Er machte den Brandopferaltar aus Akazienholz.
+Er war quadratisch: 2,25 Meter lang und 2,25 Meter breit.
+Und er war 1,35 Meter hoch.
+<sup>2</sup>An seine vier Ecken machte er Hörner.
+Die Hörner waren mit ihm aus einem Stück.
+Und er überzog ihn mit Bronze.
+<sup>3</sup>Er machte alle Geräte für den Altar:
+die Töpfe, die Schaufeln, die Schalen, die Fleischgabeln und die Feuerbecken.
+Alle seine Geräte machte er aus Bronze.
+<sup>4</sup>Er machte für den Altar ein Gitter aus Bronze, wie ein Netz.
+Es war unter dem Rand, der rings um den Altar läuft, nach unten hin.
+Es reichte bis zur halben Höhe.
+<sup>5</sup>Er goss vier Ringe für die vier Ecken des Gitters aus Bronze.
+Durch sie sollten die Stangen gesteckt werden.
+<sup>6</sup>Er machte die Stangen aus Akazienholz und überzog sie mit Bronze.
+<sup>7</sup>Er steckte die Stangen durch die Ringe an den Seiten des Altars, damit man ihn tragen konnte.
+Er machte ihn aus Brettern, innen hohl.
+
+> **Was bedeutet das?**
+> In Ellen: 5 Ellen lang und breit, 3 Ellen hoch. Eine Elle ist etwa 45 Zentimeter.
+> Das alles wurde in Kapitel 27 befohlen. Jetzt wird es genau so gemacht.
+
+---
+
+### Das Waschbecken aus Spiegeln (Vers 8)
+
+<sup>8</sup>Er machte das Becken aus Bronze und sein Gestell aus Bronze.
+Dafür nahm er die Spiegel der Frauen, die am Eingang des Zeltes der Begegnung Dienst taten.
+
+> **Was bedeutet das?**
+> Damals gab es keine Spiegel aus Glas. Spiegel waren aus Bronze, die so blank poliert war, dass man sich darin sehen konnte.
+> Die Frauen geben ihre Spiegel her. Das war für sie etwas Wertvolles und Persönliches. Daraus wird das Becken, in dem die Priester sich waschen.
+> Hier wird nebenbei erwähnt, dass Frauen am Eingang des Heiligtums Dienst taten. Was genau ihre Aufgabe war, sagt die Bibel nicht. Sie werden auch in 1. Samuel 2,22 erwähnt.
+
+---
+
+### Der Vorhof (Vers 9–20)
+
+<sup>9</sup>Er machte den Vorhof.
+An der Südseite waren die Behänge des Vorhofs aus gezwirntem feinem Leinen, 45 Meter lang.
+<sup>10</sup>Dazu 20 Säulen und 20 Sockel aus Bronze.
+Die Haken der Säulen und ihre Verbindungsstangen waren aus Silber.
+<sup>11</sup>An der Nordseite waren es auch 45 Meter,
+dazu 20 Säulen und 20 Sockel aus Bronze.
+Die Haken der Säulen und ihre Verbindungsstangen waren aus Silber.
+<sup>12</sup>An der Westseite waren Behänge, 22,5 Meter lang,
+dazu zehn Säulen und zehn Sockel.
+Die Haken der Säulen und ihre Verbindungsstangen waren aus Silber.
+<sup>13</sup>An der Ostseite, nach Sonnenaufgang hin, waren es auch 22,5 Meter.
+<sup>14</sup>Auf der einen Seite waren Behänge, 6,75 Meter lang,
+dazu drei Säulen und drei Sockel.
+<sup>15</sup>Und genauso auf der anderen Seite:
+Rechts und links vom Tor des Vorhofs waren Behänge, 6,75 Meter lang,
+dazu drei Säulen und drei Sockel.
+<sup>16</sup>Alle Behänge rings um den Vorhof waren aus gezwirntem feinem Leinen.
+
+<sup>17</sup>Die Sockel der Säulen waren aus Bronze.
+Die Haken der Säulen und ihre Verbindungsstangen waren aus Silber.
+Ihre Kapitelle waren mit Silber überzogen.
+Alle Säulen des Vorhofs waren mit Silber verbunden.
+<sup>18</sup>Der Vorhang für das Tor des Vorhofs war eine Arbeit von Stickern,
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+Er war 9 Meter lang und 2,25 Meter hoch, genauso hoch wie die Behänge des Vorhofs.
+<sup>19</sup>Dazu vier Säulen und vier Sockel aus Bronze.
+Ihre Haken waren aus Silber.
+Und ihre Kapitelle und ihre Verbindungsstangen waren mit Silber überzogen.
+<sup>20</sup>Alle Zeltpflöcke der Wohnung und rings um den Vorhof waren aus Bronze.
+
+> **Was bedeutet das?**
+> In Ellen: Der Vorhof ist 100 Ellen lang und 50 Ellen breit. Die Behänge neben dem Tor sind je 15 Ellen lang. Das Tor ist 20 Ellen breit und 5 Ellen hoch.
+> Ein „Kapitell“ ist der obere Abschluss einer Säule.
+> Mehr zum Vorhof steht in der Erklärung zu 2. Mose 27.
+
+---
+
+### Die Abrechnung: Gold, Silber und Bronze (Vers 21–31)
+
+<sup>21</sup>Das ist die Liste der Materialien für die Wohnung, die Wohnung des Zeugnisses.
+Sie wurden auf Befehl von Mose gezählt,
+für den Dienst der Leviten, unter der Leitung von Itamar, dem Sohn von Aaron, dem Priester.
+<sup>22</sup>Bezalel, der Sohn von Uri, dem Sohn von Hur, aus dem Stamm Juda,
+machte alles, was der HERR Mose befohlen hatte.
+<sup>23</sup>Mit ihm arbeitete Oholiab, der Sohn von Ahisamach, aus dem Stamm Dan.
+Er war Graveur und Kunsthandwerker
+und Sticker mit blauem, purpurrotem und karmesinrotem Stoff und mit feinem Leinen.
+
+<sup>24</sup>Das ganze Gold, das für die Arbeit am ganzen Heiligtum verwendet wurde, das Gold der Gaben,
+war knapp 1000 Kilogramm, nach dem Gewicht des Heiligtums.
+
+<sup>25</sup>Das Silber von den Gezählten der Gemeinde war etwa 3420 Kilogramm, nach dem Gewicht des Heiligtums.
+<sup>26</sup>Das war ein Beka pro Kopf, also ein halber Schekel nach dem Gewicht des Heiligtums,
+von jedem, der zu den Gezählten hinüberging, von 20 Jahren an und älter.
+Das waren 603.550 Männer.
+<sup>27</sup>Aus 3400 Kilogramm Silber goss man die Sockel für das Heiligtum und die Sockel für den Vorhang:
+100 Sockel aus dieser Menge Silber, jeder Sockel etwa 34 Kilogramm.
+<sup>28</sup>Aus den übrigen gut 19 Kilogramm machte er die Haken für die Säulen.
+Er überzog ihre Kapitelle und machte Verbindungsstangen für sie.
+
+<sup>29</sup>Die Bronze der Gaben war etwa 2400 Kilogramm.
+<sup>30</sup>Daraus machte er die Sockel für den Eingang des Zeltes der Begegnung,
+den Altar aus Bronze, das Gitter aus Bronze für ihn und alle Geräte des Altars,
+<sup>31</sup>die Sockel rings um den Vorhof, die Sockel für das Tor des Vorhofs,
+alle Zeltpflöcke der Wohnung und alle Zeltpflöcke rings um den Vorhof.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Gewichte in Talenten und Schekeln. Ein Talent sind etwa 34 Kilogramm, ein Schekel etwa 11 Gramm.
+> Gold: 29 Talente und 730 Schekel. Silber: 100 Talente und 1775 Schekel. Bronze: 70 Talente und 2400 Schekel. 100 Sockel aus 100 Talenten, ein Talent für jeden Sockel. Die übrigen 1775 Schekel für Haken und Stangen.
+> Ein „Beka“ ist ein halber Schekel, etwa 5,5 Gramm Silber. Das ist die Abgabe aus 2. Mose 30,13. Die Rechnung geht genau auf: 603.550 halbe Schekel sind 100 Talente und 1775 Schekel.
+> Insgesamt fast eine Tonne Gold, über drei Tonnen Silber und über zwei Tonnen Bronze. Das Heiligtum war ein großes und kostbares Werk.
+> Die Bibel legt hier eine genaue Abrechnung vor. Mit Geld, das für Gott gegeben wurde, soll man ehrlich und offen umgehen.
+> Die Zahl 603.550 kommt auch bei der großen Volkszählung in 4. Mose 1,46 vor.
+
+## 2. Mose – Kapitel 39
+#### Die Priesterkleider – und alles ist fertig
+
+---
+
+### Das Ephod (Vers 1–7)
+
+<sup>1</sup>Aus dem blauen, purpurroten und karmesinroten Stoff machten sie fein gearbeitete Kleider für den Dienst im Heiligtum.
+Sie machten die heiligen Kleider für Aaron, wie der HERR es Mose befohlen hatte.
+<sup>2</sup>Er machte das Ephod aus Gold,
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+<sup>3</sup>Sie schlugen das Gold zu dünnen Blechen und schnitten es in Fäden.
+So konnten sie es in den blauen, purpurroten und karmesinroten Stoff und in das feine Leinen hineinweben,
+als Arbeit von Kunsthandwerkern.
+<sup>4</sup>Sie machten Schulterträger dafür, die zusammengefügt waren.
+An seinen beiden Enden wurde es zusammengehalten.
+<sup>5</sup>Der kunstvoll gewebte Gürtel daran, mit dem man es festband, war aus einem Stück mit ihm und genauso gemacht:
+aus Gold, aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen,
+wie der HERR es Mose befohlen hatte.
+
+<sup>6</sup>Sie bearbeiteten die Onyxsteine und fassten sie in goldene Fassungen ein.
+Sie gravierten die Namen der Söhne Israels hinein, wie man ein Siegel graviert.
+<sup>7</sup>Er setzte sie auf die Schulterträger des Ephods.
+Sie waren Erinnerungssteine für die Israeliten,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Hier wird gezeigt, wie man Goldfäden macht: Das Gold wird ganz dünn geschlagen und dann in feine Streifen geschnitten.
+> Immer wieder heißt es in diesem Kapitel: „wie der HERR es Mose befohlen hatte“. Dieser Satz kommt hier siebenmal vor. Sieben ist in der Bibel die Zahl der Vollkommenheit. Alles wird ganz genau so gemacht, wie Gott es wollte.
+> Mehr zu den Kleidern steht in der Erklärung zu 2. Mose 28.
+
+---
+
+### Die Brusttasche (Vers 8–21)
+
+<sup>8</sup>Er machte die Brusttasche, als Arbeit von Kunsthandwerkern, genauso wie das Ephod:
+aus Gold, aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem feinem Leinen.
+<sup>9</sup>Sie war quadratisch. Sie machten die Brusttasche doppelt gelegt.
+Sie war eine Spanne lang und eine Spanne breit, doppelt gelegt.
+<sup>10</sup>Sie setzten vier Reihen Steine darauf:
+In der ersten Reihe ein Rubin, ein Topas und ein Beryll.
+<sup>11</sup>In der zweiten Reihe ein Türkis, ein Saphir und ein Smaragd.
+<sup>12</sup>In der dritten Reihe ein Hyazinth, ein Achat und ein Amethyst.
+<sup>13</sup>In der vierten Reihe ein Chrysolith, ein Onyx und ein Jaspis.
+Sie waren in goldene Fassungen eingesetzt.
+<sup>14</sup>Die Steine entsprachen den Namen der Söhne Israels, zwölf nach ihren Namen.
+Auf jeden Stein war ein Name eingraviert, wie man ein Siegel graviert, für die zwölf Stämme.
+
+<sup>15</sup>Sie machten für die Brusttasche Ketten wie gedrehte Schnüre aus reinem Gold.
+<sup>16</sup>Sie machten zwei Fassungen aus Gold und zwei Ringe aus Gold.
+Die beiden Ringe befestigten sie an den beiden Ecken der Brusttasche.
+<sup>17</sup>Die beiden gedrehten Ketten aus Gold steckten sie durch die beiden Ringe an den Ecken der Brusttasche.
+<sup>18</sup>Die beiden anderen Enden der beiden Ketten befestigten sie an den beiden Fassungen.
+Und sie befestigten sie vorn an den Schulterträgern des Ephods.
+
+<sup>19</sup>Sie machten noch zwei Ringe aus Gold.
+Sie befestigten sie an den beiden Ecken der Brusttasche, an ihrem inneren Rand, der zum Ephod hin liegt.
+<sup>20</sup>Und sie machten noch zwei Ringe aus Gold.
+Sie befestigten sie unten vorn an den beiden Schulterträgern des Ephods,
+dort, wo sie zusammengenäht sind, oberhalb des gewebten Gürtels des Ephods.
+<sup>21</sup>Sie banden die Brusttasche mit ihren Ringen an den Ringen des Ephods fest, mit einer blauen Schnur.
+So blieb sie über dem Gürtel des Ephods und konnte sich nicht vom Ephod lösen,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Eine Spanne sind etwa 22 Zentimeter.
+> Die zwölf Steine stehen für die zwölf Stämme Israels. Der Priester trägt sie auf seinem Herzen vor Gott.
+
+---
+
+### Das Obergewand und die übrigen Kleider (Vers 22–31)
+
+<sup>22</sup>Er machte das Obergewand, das unter dem Ephod getragen wird, als gewebte Arbeit, ganz aus blauem Stoff.
+<sup>23</sup>In der Mitte hatte das Obergewand eine Öffnung, wie die Halsöffnung eines Panzerhemdes.
+Rings um die Öffnung war eine Borte, damit sie nicht einriss.
+<sup>24</sup>An den Saum des Obergewandes machten sie Granatäpfel
+aus blauem, purpurrotem und karmesinrotem Stoff und aus gezwirntem Leinen.
+<sup>25</sup>Sie machten Glöckchen aus reinem Gold.
+Sie hängten die Glöckchen zwischen die Granatäpfel, rings um den Saum des Obergewandes, zwischen die Granatäpfel:
+<sup>26</sup>ein Glöckchen und ein Granatapfel, ein Glöckchen und ein Granatapfel,
+rings um den Saum des Obergewandes, für den Dienst,
+wie der HERR es Mose befohlen hatte.
+
+<sup>27</sup>Sie machten die Untergewänder aus feinem Leinen, als gewebte Arbeit, für Aaron und für seine Söhne,
+<sup>28</sup>den Turban aus feinem Leinen,
+die schönen Kopfbedeckungen aus feinem Leinen,
+die Unterhosen aus gezwirntem feinem Leinen,
+<sup>29</sup>und die Schärpe aus gezwirntem feinem Leinen und aus blauem, purpurrotem und karmesinrotem Stoff,
+eine Arbeit von Stickern,
+wie der HERR es Mose befohlen hatte.
+
+<sup>30</sup>Sie machten das Blatt, die heilige Krone, aus reinem Gold.
+Sie schrieben darauf eine Inschrift, so wie man ein Siegel graviert:
+„Heilig für den HERRN“.
+<sup>31</sup>Sie banden eine blaue Schnur daran, um es oben am Turban zu befestigen,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Die Glöckchen am Saum, das goldene Stirnblatt mit „Heilig für den HERRN“ – alles ist jetzt fertig. Mehr dazu steht in der Erklärung zu 2. Mose 28.
+
+---
+
+### Die Arbeit ist vollendet (Vers 32–43)
+
+<sup>32</sup>So wurde die ganze Arbeit an der Wohnung, dem Zelt der Begegnung, vollendet.
+Die Israeliten machten alles so, wie der HERR es Mose befohlen hatte. So machten sie es.
+<sup>33</sup>Sie brachten die Wohnung zu Mose:
+das Zelt mit allen seinen Geräten,
+seinen Haken, seinen Brettern, seinen Querstangen, seinen Säulen und seinen Sockeln,
+<sup>34</sup>die Decke aus rot gefärbten Widderfellen,
+die Decke aus Häuten von Seekühen,
+den Vorhang, der abschirmt,
+<sup>35</sup>die Lade des Bundes mit ihren Stangen, die Deckplatte,
+<sup>36</sup>den Tisch mit allen seinen Geräten und die Schaubrote,
+<sup>37</sup>den reinen Leuchter mit seinen Lampen, die in einer Reihe aufgesetzt werden,
+mit allen seinen Geräten und dem Öl für das Licht,
+<sup>38</sup>den goldenen Altar, das Salböl, das duftende Räucherwerk,
+den Vorhang für den Eingang des Zeltes,
+<sup>39</sup>den Altar aus Bronze mit seinem Gitter aus Bronze, seinen Stangen und allen seinen Geräten,
+das Becken und sein Gestell,
+<sup>40</sup>die Behänge des Vorhofs, seine Säulen und seine Sockel,
+den Vorhang für das Tor des Vorhofs, seine Seile und seine Zeltpflöcke
+und alle Geräte für den Dienst an der Wohnung, für das Zelt der Begegnung,
+<sup>41</sup>die fein gearbeiteten Kleider für den Dienst im Heiligtum,
+die heiligen Kleider für Aaron, den Priester, und die Kleider seiner Söhne
+für ihren Dienst als Priester.
+
+<sup>42</sup>Genau so, wie der HERR es Mose befohlen hatte, so machten die Israeliten die ganze Arbeit.
+<sup>43</sup>Mose sah sich die ganze Arbeit an.
+Und schau: Sie hatten sie gemacht, wie der HERR es befohlen hatte. So hatten sie es gemacht.
+Und Mose segnete sie.
+
+> **Was bedeutet das?**
+> Diese Verse erinnern an die Schöpfungsgeschichte. Dort heißt es: „Gott sah alles an, was er gemacht hatte, und siehe, es war sehr gut“ (1. Mose 1,31). Und Gott segnete den siebten Tag (1. Mose 2,3).
+> Hier sieht Mose die ganze Arbeit an. Sie ist gut gemacht. Und Mose segnet das Volk.
+> So wie Gott die Welt als Wohnung für die Menschen gemacht hat, so haben die Menschen jetzt eine Wohnung für Gott gemacht.
+
+## 2. Mose – Kapitel 40
+#### Das Heiligtum wird aufgebaut – Gottes Herrlichkeit erfüllt es
+
+---
+
+### Gottes Anweisung zum Aufbau (Vers 1–15)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Am ersten Tag des ersten Monats sollst du die Wohnung, das Zelt der Begegnung, aufrichten.
+<sup>3</sup>Stell die Lade des Bundes hinein.
+Und schirm die Lade mit dem Vorhang ab.
+<sup>4</sup>Bring den Tisch hinein und leg das, was auf ihn gehört, ordentlich darauf.
+Bring den Leuchter hinein und zünde seine Lampen an.
+<sup>5</sup>Stell den goldenen Altar für das Räucherwerk vor die Lade des Bundes.
+Und häng den Vorhang an den Eingang der Wohnung.
+
+<sup>6</sup>Stell den Brandopferaltar vor den Eingang der Wohnung, des Zeltes der Begegnung.
+<sup>7</sup>Stell das Becken zwischen das Zelt der Begegnung und den Altar.
+Und füll Wasser hinein.
+<sup>8</sup>Richte ringsherum den Vorhof auf.
+Und häng den Vorhang an das Tor des Vorhofs.
+
+<sup>9</sup>Nimm das Salböl.
+Salbe die Wohnung und alles, was darin ist.
+Heilige sie und alle ihre Geräte. Dann wird sie heilig sein.
+<sup>10</sup>Salbe den Brandopferaltar mit allen seinen Geräten.
+Heilige den Altar. Dann wird der Altar hochheilig sein.
+<sup>11</sup>Salbe das Becken und sein Gestell und heilige es.
+
+<sup>12</sup>Bring Aaron und seine Söhne zum Eingang des Zeltes der Begegnung.
+Und wasch sie mit Wasser.
+<sup>13</sup>Zieh Aaron die heiligen Kleider an.
+Salbe ihn und heilige ihn, damit er mir als Priester dient.
+<sup>14</sup>Lass seine Söhne herkommen und zieh ihnen Untergewänder an.
+<sup>15</sup>Salbe sie, so wie du ihren Vater gesalbt hast, damit sie mir als Priester dienen.
+Ihre Salbung soll ihnen ein Priestertum für alle Zeiten geben, für alle ihre Generationen.“
+
+> **Was bedeutet das?**
+> Der „erste Tag des ersten Monats“ ist Neujahr, fast genau ein Jahr nach dem Auszug aus Ägypten. Mit dem Heiligtum beginnt ein neues Jahr und ein neuer Abschnitt.
+> Die Weihe der Priester, die hier befohlen wird, wird in 3. Mose 8 ausführlich erzählt.
+
+---
+
+### Mose baut das Heiligtum auf (Vers 16–33)
+
+<sup>16</sup>Mose machte es so.
+Er machte alles genau so, wie der HERR es ihm befohlen hatte.
+<sup>17</sup>Im ersten Monat des zweiten Jahres, am ersten Tag des Monats, wurde die Wohnung aufgerichtet.
+<sup>18</sup>Mose richtete die Wohnung auf.
+Er legte ihre Sockel hin, stellte ihre Bretter auf, steckte ihre Querstangen ein und richtete ihre Säulen auf.
+<sup>19</sup>Er breitete die Zeltdecke über die Wohnung.
+Und oben darauf legte er die Decke für das Zelt,
+wie der HERR es Mose befohlen hatte.
+
+<sup>20</sup>Er nahm das Zeugnis des Bundes und legte es in die Lade.
+Er steckte die Stangen an die Lade.
+Und er legte die Deckplatte oben auf die Lade.
+<sup>21</sup>Er brachte die Lade in die Wohnung.
+Er hängte den Vorhang auf, der sie abschirmt, und schirmte so die Lade des Bundes ab,
+wie der HERR es Mose befohlen hatte.
+
+<sup>22</sup>Er stellte den Tisch in das Zelt der Begegnung, an die Nordseite der Wohnung, vor den Vorhang.
+<sup>23</sup>Er legte die Brote ordentlich darauf, vor dem HERRN,
+wie der HERR es Mose befohlen hatte.
+<sup>24</sup>Er stellte den Leuchter in das Zelt der Begegnung, gegenüber dem Tisch, an die Südseite der Wohnung.
+<sup>25</sup>Er zündete die Lampen vor dem HERRN an,
+wie der HERR es Mose befohlen hatte.
+<sup>26</sup>Er stellte den goldenen Altar in das Zelt der Begegnung, vor den Vorhang.
+<sup>27</sup>Und er verbrannte darauf duftendes Räucherwerk,
+wie der HERR es Mose befohlen hatte.
+<sup>28</sup>Er hängte den Vorhang an den Eingang der Wohnung.
+
+<sup>29</sup>Er stellte den Brandopferaltar vor den Eingang der Wohnung, des Zeltes der Begegnung.
+Und er brachte darauf das Brandopfer und das Speiseopfer dar,
+wie der HERR es Mose befohlen hatte.
+<sup>30</sup>Er stellte das Becken zwischen das Zelt der Begegnung und den Altar.
+Und er füllte Wasser hinein, zum Waschen.
+<sup>31</sup>Mose, Aaron und seine Söhne wuschen darin ihre Hände und ihre Füße.
+<sup>32</sup>Wenn sie in das Zelt der Begegnung gingen und wenn sie zum Altar traten, wuschen sie sich,
+wie der HERR es Mose befohlen hatte.
+<sup>33</sup>Er richtete den Vorhof rings um die Wohnung und den Altar auf.
+Und er hängte den Vorhang an das Tor des Vorhofs.
+So vollendete Mose die Arbeit.
+
+> **Was bedeutet das?**
+> Mose baut alles von innen nach außen auf: zuerst die Wohnung und die Bundeslade, dann Tisch, Leuchter und Räucheraltar, dann draußen Altar und Becken, zuletzt den Vorhof.
+> Wieder heißt es siebenmal: „wie der HERR es Mose befohlen hatte“.
+> „So vollendete Mose die Arbeit“ – auch das erinnert an die Schöpfung. Dort heißt es: „So vollendete Gott sein Werk“ (1. Mose 2,2).
+
+---
+
+### Gottes Herrlichkeit erfüllt das Heiligtum (Vers 34–38)
+
+<sup>34</sup>Da bedeckte die Wolke das Zelt der Begegnung.
+Und die Herrlichkeit des HERRN erfüllte die Wohnung.
+<sup>35</sup>Mose konnte nicht in das Zelt der Begegnung hineingehen.
+Denn die Wolke blieb darauf,
+und die Herrlichkeit des HERRN erfüllte die Wohnung.
+
+<sup>36</sup>Immer wenn die Wolke sich von der Wohnung erhob, brachen die Israeliten auf.
+So war es auf allen ihren Wanderungen.
+<sup>37</sup>Aber wenn die Wolke sich nicht erhob, dann brachen sie nicht auf,
+bis zu dem Tag, an dem sie sich erhob.
+<sup>38</sup>Denn die Wolke des HERRN war am Tag über der Wohnung.
+Und in der Nacht war Feuer in der Wolke.
+Das ganze Haus Israel sah es, auf allen ihren Wanderungen.
+
+> **Was bedeutet das?**
+> Das ist das große Ziel des ganzen 2. Buches Mose. Am Anfang war Israel in Ägypten, Sklaven des Pharao, weit weg von Gott. Am Ende wohnt Gott mitten in seinem Volk.
+> Gott hat sein Versprechen gehalten: „Ich will mitten unter ihnen wohnen“ (2. Mose 29,45).
+> Und das nach dem goldenen Kalb! Das Volk hatte den Bund gebrochen. Aber Gott hat vergeben und kommt trotzdem, um bei ihnen zu wohnen.
+> Gottes Herrlichkeit ist so groß, dass nicht einmal Mose hineingehen kann. Wie Menschen dem heiligen Gott trotzdem nahekommen können, davon erzählt das nächste Buch, das 3. Buch Mose.
+> Die Wolke zeigt dem Volk den Weg durch die Wüste. Wenn sie weiterzieht, ziehen sie weiter. Wenn sie bleibt, bleiben sie. Gott selbst führt sein Volk.
+> Christen denken hier auch an Pfingsten: Da kam Gottes Geist wie Feuer auf die Menschen (Apostelgeschichte 2,3). Paulus schreibt: Ihr selbst seid jetzt der Tempel, in dem Gottes Geist wohnt (1. Korinther 3,16).
+
+---
+
+### Rückblick: Was haben wir im 2. Buch Mose gelesen?
+
+> **Was bedeutet das?**
+> Das 2. Buch Mose erzählt drei große Teile:
+> 1. Gott befreit sein Volk aus der Sklaverei in Ägypten (Kapitel 1–18).
+> 2. Gott schließt am Berg Sinai einen Bund mit seinem Volk und gibt ihm seine Gebote (Kapitel 19–24).
+> 3. Gott kommt, um mitten in seinem Volk zu wohnen. Dafür wird das Heiligtum gebaut (Kapitel 25–40). Mittendrin steht das goldene Kalb und Gottes Vergebung (Kapitel 32–34).
+> Die Botschaft des Buches: Gott sieht das Leid der Unterdrückten. Er befreit sie. Er gibt ihnen gute Regeln für ein Leben in Freiheit. Und er will nicht fern sein, sondern mitten unter den Menschen wohnen.
