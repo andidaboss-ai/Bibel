@@ -10626,3 +10626,359 @@ Sonst wird deine Blöße dabei sichtbar.‘“
 > „Gemeinschaftsopfer“ (oder „Friedensopfer“) waren Opfer, bei denen ein Teil Gott gegeben wurde und ein Teil gemeinsam gegessen wurde, wie ein Festmahl mit Gott.
 > „An jedem Ort will ich zu dir kommen und dich segnen“ – Gott ist nicht nur am Sinai. Er kommt überall hin, wo man ihn ehrt.
 > Die Menschen trugen damals lange Gewänder ohne Unterwäsche. Wer Stufen hinaufstieg, konnte unten gesehen werden. Gottesdienst soll würdig sein.
+
+## 2. Mose – Kapitel 21
+#### Gesetze für das Zusammenleben (1): Sklaven, Gewalt und Schadenersatz
+
+---
+
+### Einleitung (Vers 1)
+
+<sup>1</sup>„Das sind die Rechtsordnungen, die du ihnen vorlegen sollst:
+
+> **Was bedeutet das?**
+> Nach den Zehn Geboten folgen in den Kapiteln 21 bis 23 viele einzelne Gesetze. Man nennt diesen Teil das „Bundesbuch“ (siehe Kapitel 24,7).
+> Diese Gesetze sind über 3000 Jahre alt. Sie stammen aus einer Welt, die ganz anders war als unsere: Es gab Sklaverei, Blutrache und kaum Schutz für Schwache.
+> Manches in diesen Gesetzen klingt für uns heute hart oder ungerecht. Man muss es mit den anderen Gesetzen der damaligen Zeit vergleichen. Dann sieht man: Die Gesetze der Bibel schützen die Schwachen oft viel mehr als die Gesetze der Nachbarvölker.
+> Juden und Christen lesen diese Gesetze heute unterschiedlich. Juden haben sie über Jahrhunderte ausgelegt und weiterentwickelt. Christen sehen in ihnen vor allem die Grundwerte dahinter: Schutz des Lebens, Gerechtigkeit und Fürsorge für die Schwachen.
+
+---
+
+### Hebräische Sklaven werden frei (Vers 2–6)
+
+<sup>2</sup>Wenn du einen hebräischen Sklaven kaufst, dann soll er sechs Jahre lang für dich arbeiten.
+Im siebten Jahr soll er frei werden, ohne dass er etwas bezahlen muss.
+<sup>3</sup>Wenn er allein gekommen ist, soll er allein gehen.
+Wenn er eine Frau hatte, soll seine Frau mit ihm gehen.
+<sup>4</sup>Wenn sein Herr ihm eine Frau gegeben hat und sie ihm Söhne oder Töchter geboren hat,
+dann gehören die Frau und ihre Kinder ihrem Herrn.
+Er aber soll allein gehen.
+
+<sup>5</sup>Aber wenn der Sklave ausdrücklich sagt:
+‚Ich liebe meinen Herrn, meine Frau und meine Kinder.
+Ich will nicht frei werden‘,
+<sup>6</sup>dann soll sein Herr ihn vor Gott bringen.
+Er soll ihn an die Tür oder an den Türpfosten stellen.
+Und sein Herr soll ihm mit einem spitzen Werkzeug das Ohrläppchen durchbohren.
+Dann soll er für immer sein Sklave bleiben.
+
+> **Was bedeutet das?**
+> Das erste Gesetz handelt von Sklaven. Das passt: Israel war selbst gerade noch ein Volk von Sklaven.
+> Ein Israelit konnte damals in Sklaverei geraten, wenn er seine Schulden nicht bezahlen konnte. Aber nach sechs Jahren musste er frei werden. Es war also eher eine Schuldknechtschaft auf Zeit, nicht Sklaverei für immer.
+> Vers 4 ist für uns heute schwer zu ertragen: Die Familie wird getrennt. In der damaligen Rechtsordnung gehörte die Frau, die der Herr gegeben hatte, weiter zum Haushalt des Herrn.
+> Wer bleiben wollte, durfte bleiben. Das Loch im Ohr war ein Zeichen: Dieser Mensch hat sich freiwillig entschieden.
+
+---
+
+### Schutz für Sklavinnen (Vers 7–11)
+
+<sup>7</sup>Wenn ein Mann seine Tochter als Sklavin verkauft,
+dann soll sie nicht freigelassen werden wie die männlichen Sklaven.
+<sup>8</sup>Wenn sie ihrem Herrn nicht gefällt, der sie für sich als Frau bestimmt hat,
+dann soll er sie zurückkaufen lassen.
+Er hat kein Recht, sie an ein fremdes Volk zu verkaufen.
+Denn er hat ihr gegenüber treulos gehandelt.
+<sup>9</sup>Wenn er sie seinem Sohn zur Frau gibt,
+dann soll er sie wie eine Tochter behandeln.
+<sup>10</sup>Wenn er sich noch eine andere Frau nimmt,
+dann darf er ihr nichts wegnehmen:
+nicht ihr Essen, nicht ihre Kleidung und nicht ihr Recht auf eheliche Gemeinschaft.
+<sup>11</sup>Wenn er ihr diese drei Dinge nicht gibt,
+dann darf sie frei weggehen, ohne etwas zu bezahlen.
+
+> **Was bedeutet das?**
+> In großer Armut verkauften manche Familien damals eine Tochter. Meistens sollte sie dann die Frau des Käufers oder seines Sohnes werden.
+> Diese Gesetze schützen die junge Frau: Sie darf nicht weiterverkauft werden. Sie muss wie eine Tochter oder Ehefrau behandelt werden. Sie hat ein Recht auf Essen, Kleidung und Liebe. Wenn der Mann das nicht gibt, ist sie frei.
+> Für die damalige Zeit war das ein großer Schutz für Frauen, die sonst völlig rechtlos gewesen wären.
+
+---
+
+### Totschlag und Mord (Vers 12–17)
+
+<sup>12</sup>Wer einen Menschen so schlägt, dass er stirbt, der muss mit dem Tod bestraft werden.
+<sup>13</sup>Wenn er es aber nicht absichtlich getan hat, sondern Gott es so geschehen ließ,
+dann will ich dir einen Ort bestimmen, wohin er fliehen kann.
+<sup>14</sup>Wenn aber jemand absichtlich und hinterlistig seinen Mitmenschen umbringt,
+dann sollst du ihn sogar von meinem Altar wegholen, damit er stirbt.
+
+<sup>15</sup>Wer seinen Vater oder seine Mutter schlägt, muss mit dem Tod bestraft werden.
+
+<sup>16</sup>Wer einen Menschen entführt, um ihn zu verkaufen,
+oder bei wem man den Entführten noch findet,
+der muss mit dem Tod bestraft werden.
+
+<sup>17</sup>Wer seinen Vater oder seine Mutter verflucht, muss mit dem Tod bestraft werden.
+
+> **Was bedeutet das?**
+> Hier wird schon unterschieden zwischen Mord (mit Absicht) und einem Unfall (ohne Absicht). Wer aus Versehen jemanden getötet hat, soll an einen sicheren Ort fliehen können, um vor Blutrache geschützt zu sein. Später werden dafür besondere „Zufluchtsstädte“ eingerichtet (4. Mose 35).
+> Ein Mörder kann sich aber nicht am Altar verstecken. Auch Gottes Heiligtum schützt keinen Mörder.
+> Menschenraub wird sehr streng bestraft. Ein Volk, das selbst Sklaven waren, soll niemals Menschen stehlen und verkaufen.
+> Die Todesstrafe für das Schlagen oder Verfluchen der Eltern klingt sehr hart. Sie zeigt, wie wichtig die Achtung der Eltern damals war. Jüdische Gelehrte haben diese Strafe später so eng ausgelegt, dass sie praktisch nie vollzogen wurde.
+
+---
+
+### Körperverletzung (Vers 18–27)
+
+<sup>18</sup>Wenn Männer miteinander streiten,
+und einer schlägt den anderen mit einem Stein oder mit der Faust,
+und der stirbt nicht, muss aber im Bett liegen,
+<sup>19</sup>und er kann wieder aufstehen und mit einem Stock draußen herumgehen,
+dann soll der, der ihn geschlagen hat, straffrei bleiben.
+Er muss ihm aber die verlorene Arbeitszeit ersetzen
+und für seine Heilung aufkommen, bis er ganz gesund ist.
+
+<sup>20</sup>Wenn jemand seinen Sklaven oder seine Sklavin mit einem Stock schlägt
+und der Sklave stirbt unter seiner Hand,
+dann muss der Herr bestraft werden.
+<sup>21</sup>Wenn der Sklave aber noch einen oder zwei Tage am Leben bleibt,
+dann soll der Herr nicht bestraft werden.
+Denn der Sklave ist sein Eigentum.
+
+<sup>22</sup>Wenn Männer miteinander raufen und dabei eine schwangere Frau stoßen,
+so dass sie ihr Kind zu früh bekommt,
+aber sonst kein Schaden entsteht,
+dann muss der Täter eine Geldstrafe zahlen.
+Der Ehemann der Frau legt fest, wie viel, und die Richter entscheiden darüber.
+<sup>23</sup>Wenn aber ein Schaden entsteht,
+dann sollst du geben: Leben für Leben,
+<sup>24</sup>Auge für Auge, Zahn für Zahn,
+Hand für Hand, Fuß für Fuß,
+<sup>25</sup>Brandwunde für Brandwunde,
+Wunde für Wunde, Strieme für Strieme.
+
+<sup>26</sup>Wenn jemand seinem Sklaven oder seiner Sklavin ins Auge schlägt und es zerstört,
+dann muss er ihn wegen des Auges freilassen.
+<sup>27</sup>Wenn er seinem Sklaven oder seiner Sklavin einen Zahn ausschlägt,
+dann muss er ihn wegen des Zahnes freilassen.
+
+> **Was bedeutet das?**
+> Wer einen anderen verletzt, muss für den Schaden aufkommen: für die verlorene Arbeitszeit und für die Arztkosten. Das gibt es in ähnlicher Form bis heute.
+> Auch Sklaven sind geschützt. Wer seinen Sklaven totschlägt, wird bestraft. Das war in den Nachbarvölkern nicht selbstverständlich. Dass der Herr nicht bestraft wird, wenn der Sklave später stirbt, ist für uns heute schwer zu verstehen. Damals ging man davon aus, dass er ihn dann nicht absichtlich töten wollte.
+> Vers 22 kann man unterschiedlich verstehen. Manche Bibeln übersetzen: „so dass sie eine Fehlgeburt hat“. Andere übersetzen wie hier: „so dass ihr Kind zu früh zur Welt kommt“. Davon hängt ab, ob mit dem „Schaden“ in Vers 23 auch das Kind gemeint ist.
+> „Auge für Auge, Zahn für Zahn“ – dieser berühmte Satz wird oft missverstanden. Er bedeutet nicht: Räche dich! Er bedeutet im Gegenteil: Die Strafe darf **nicht größer** sein als der Schaden. Er setzt der Rache eine Grenze. Schon früh haben jüdische Richter ihn so verstanden: Der Täter muss eine angemessene Entschädigung in Geld bezahlen.
+> Jesus geht noch weiter: Er lehrt, auf Vergeltung ganz zu verzichten (Matthäus 5,38–39).
+> Wer einen Sklaven so schwer verletzt, dass er ein Auge oder einen Zahn verliert, muss ihn freilassen. Ein starker Schutz gegen Gewalt.
+
+---
+
+### Wenn ein Rind einen Menschen tötet (Vers 28–32)
+
+<sup>28</sup>Wenn ein Rind einen Mann oder eine Frau mit den Hörnern stößt, so dass sie sterben,
+dann muss das Rind gesteinigt werden.
+Sein Fleisch darf man nicht essen.
+Aber der Besitzer des Rindes ist nicht schuldig.
+<sup>29</sup>Wenn das Rind aber schon früher Menschen gestoßen hat,
+und man hat den Besitzer gewarnt,
+und er hat es trotzdem nicht eingesperrt,
+und es tötet dann einen Mann oder eine Frau,
+dann muss das Rind gesteinigt werden.
+Und auch sein Besitzer muss mit dem Tod bestraft werden.
+<sup>30</sup>Wenn man ihm aber ein Lösegeld auferlegt,
+dann muss er so viel zahlen, wie man ihm auferlegt, um sein Leben auszulösen.
+<sup>31</sup>Wenn das Rind einen Sohn oder eine Tochter stößt,
+dann soll man nach demselben Recht mit ihm verfahren.
+<sup>32</sup>Wenn das Rind einen Sklaven oder eine Sklavin stößt,
+dann muss der Besitzer ihrem Herrn 30 Silberstücke geben.
+Und das Rind muss gesteinigt werden.
+
+> **Was bedeutet das?**
+> Hier geht es um Verantwortung. Wer weiß, dass sein Tier gefährlich ist, und nichts tut, ist schuldig – so wie heute jemand, der einen gefährlichen Hund frei laufen lässt.
+> Anstelle der Todesstrafe kann ein Lösegeld gezahlt werden. Denn der Besitzer hat nicht selbst getötet.
+> Wichtig: Kinder haben dasselbe Recht wie Erwachsene.
+> 30 Silberstücke (Schekel) sind etwa 340 Gramm Silber. Das war der Preis für einen Sklaven. Für genau diese Summe wurde später Jesus verraten (Matthäus 26,15).
+
+---
+
+### Schaden an Tieren (Vers 33–36)
+
+<sup>33</sup>Wenn jemand eine Grube offen lässt oder eine Grube gräbt und sie nicht zudeckt,
+und ein Rind oder ein Esel fällt hinein,
+<sup>34</sup>dann muss der Besitzer der Grube Schadenersatz leisten.
+Er muss dem Besitzer des Tieres Geld geben.
+Das tote Tier aber gehört ihm.
+
+<sup>35</sup>Wenn das Rind von einem Mann das Rind von einem anderen verletzt, so dass es stirbt,
+dann sollen sie das lebende Rind verkaufen und den Erlös teilen.
+Auch das tote Tier sollen sie teilen.
+<sup>36</sup>Wenn man aber wusste, dass das Rind schon früher gestoßen hat,
+und sein Besitzer hat es nicht eingesperrt,
+dann muss er Rind für Rind ersetzen.
+Das tote Tier gehört dann ihm.
+
+> **Was bedeutet das?**
+> Diese Gesetze klingen sehr alltäglich. Aber sie zeigen: Gott interessiert sich auch für die kleinen Dinge des Zusammenlebens.
+> Die Regeln sind fair: Wer fahrlässig ist, muss den Schaden ersetzen. Wenn niemand schuld ist, wird der Schaden geteilt.
+
+## 2. Mose – Kapitel 22
+#### Gesetze für das Zusammenleben (2): Diebstahl, Eigentum und Schutz der Schwachen
+
+---
+
+### Diebstahl (Vers 1–4)
+
+<sup>1</sup>Wenn jemand ein Rind oder ein Schaf stiehlt und es schlachtet oder verkauft,
+dann muss er für ein Rind fünf Rinder zurückgeben und für ein Schaf vier Schafe.
+<sup>2</sup>Wenn man einen Dieb beim Einbrechen ertappt,
+und er wird dabei so geschlagen, dass er stirbt,
+dann ist der, der ihn erschlagen hat, nicht schuldig.
+<sup>3</sup>Wenn aber die Sonne schon aufgegangen ist,
+dann ist er schuldig am Tod des Diebes.
+Der Dieb muss das Gestohlene ersetzen.
+Wenn er nichts hat, dann soll er für seinen Diebstahl als Sklave verkauft werden.
+<sup>4</sup>Wenn man das gestohlene Tier noch lebend bei ihm findet, ob Rind, Esel oder Schaf,
+dann muss er das Doppelte zurückgeben.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln ist die Verszählung hier oft anders: Vers 1 ist dort noch Kapitel 21,37.
+> Wer stiehlt, muss mehr zurückgeben, als er genommen hat. Ein Rind ist wertvoller und für die Arbeit auf dem Feld wichtig, darum muss man fünffach ersetzen.
+> Gefängnisstrafen gab es damals nicht. Wer nicht zahlen konnte, musste seine Schuld abarbeiten.
+> Interessant ist der Unterschied zwischen Nacht und Tag: In der Dunkelheit weiß man nicht, ob ein Einbrecher gefährlich ist. Man darf sich verteidigen. Am Tag aber kann man sehen, dass er nur ein Dieb ist, und man darf ihn nicht einfach töten. Auch das Leben eines Diebes ist geschützt.
+
+---
+
+### Schaden an Feldern (Vers 5–6)
+
+<sup>5</sup>Wenn jemand sein Vieh auf einem Feld oder in einem Weinberg weiden lässt,
+und es frisst dabei auf dem Feld eines anderen,
+dann muss er Schadenersatz leisten vom Besten seines eigenen Feldes und seines eigenen Weinbergs.
+
+<sup>6</sup>Wenn ein Feuer ausbricht und auf Dornengestrüpp übergreift,
+so dass aufgeschichtete Garben, stehendes Getreide oder ein ganzes Feld verbrennen,
+dann muss der, der das Feuer angezündet hat, Schadenersatz leisten.
+
+> **Was bedeutet das?**
+> Wer einem anderen schadet, auch ohne Absicht, muss für den Schaden aufkommen. Und zwar nicht mit dem Schlechtesten, sondern mit dem Besten.
+
+---
+
+### Anvertrautes Gut (Vers 7–13)
+
+<sup>7</sup>Wenn jemand seinem Nachbarn Geld oder Gegenstände zum Aufbewahren gibt,
+und es wird aus dessen Haus gestohlen,
+dann muss der Dieb, wenn man ihn findet, das Doppelte zurückgeben.
+<sup>8</sup>Wenn man den Dieb nicht findet,
+dann soll der Hausherr vor Gott treten.
+Dort soll sich zeigen, ob er sich selbst am Eigentum seines Nachbarn vergriffen hat.
+<sup>9</sup>Bei jedem Streit um Eigentum –
+ob es um ein Rind geht, um einen Esel, um ein Schaf, um Kleidung
+oder um irgendetwas Verlorenes, von dem jemand sagt: ‚Das gehört mir‘ –
+soll der Fall der beiden vor Gott gebracht werden.
+Wen Gott schuldig spricht, der muss seinem Nachbarn das Doppelte zurückgeben.
+
+<sup>10</sup>Wenn jemand seinem Nachbarn einen Esel, ein Rind, ein Schaf oder irgendein anderes Tier zum Hüten gibt,
+und es stirbt oder wird verletzt oder weggetrieben, ohne dass es jemand sieht,
+<sup>11</sup>dann sollen beide einen Eid beim HERRN schwören:
+dass er sich nicht am Eigentum seines Nachbarn vergriffen hat.
+Der Besitzer muss das annehmen.
+Und der andere muss keinen Schadenersatz leisten.
+<sup>12</sup>Wenn es ihm aber gestohlen wurde,
+dann muss er dem Besitzer Schadenersatz leisten.
+<sup>13</sup>Wenn es von einem wilden Tier gerissen wurde,
+dann soll er die Reste als Beweis bringen.
+Für ein gerissenes Tier muss er keinen Schadenersatz leisten.
+
+> **Was bedeutet das?**
+> Banken gab es damals nicht. Man gab Wertsachen oder Tiere einem Nachbarn zum Aufbewahren.
+> Wenn etwas wegkommt und keiner weiß, wer schuld ist, wird die Sache „vor Gott“ gebracht. Das heißt wohl: vor die Richter oder Priester am Heiligtum. Dort muss man unter einem heiligen Eid die Wahrheit sagen.
+> Bei einem Raubtier kann der Hirte nichts dafür. Aber er muss einen Beweis bringen. Erinnere dich: Jakob hat sich bei Laban beschwert, dass er auch gerissene Tiere ersetzen musste (1. Mose 31,39). Dieses Gesetz ist gerechter.
+> In deutschen Bibeln sind die Versnummern in diesem Kapitel oft um eins verschoben.
+
+---
+
+### Geliehenes Gut (Vers 14–15)
+
+<sup>14</sup>Wenn jemand von seinem Nachbarn ein Tier ausleiht,
+und es wird verletzt oder stirbt, während der Besitzer nicht dabei ist,
+dann muss er Schadenersatz leisten.
+<sup>15</sup>Wenn der Besitzer dabei war, muss er keinen Schadenersatz leisten.
+Wenn es gemietet war, dann ist der Schaden mit der Miete abgegolten.
+
+---
+
+### Verführung einer jungen Frau (Vers 16–17)
+
+<sup>16</sup>Wenn ein Mann eine junge Frau verführt, die noch nicht verlobt ist, und mit ihr schläft,
+dann muss er den Brautpreis für sie bezahlen und sie heiraten.
+<sup>17</sup>Wenn ihr Vater sich aber weigert, sie ihm zur Frau zu geben,
+dann muss er trotzdem so viel Geld zahlen, wie man als Brautpreis für eine junge Frau bezahlt.
+
+> **Was bedeutet das?**
+> Für eine Frau, die nicht mehr Jungfrau war, war es damals sehr schwer, einen Mann zu finden. Ohne Mann hatte sie in dieser Gesellschaft kaum eine Zukunft.
+> Dieses Gesetz schützt die junge Frau: Der Mann darf sie nicht einfach verlassen. Er muss Verantwortung übernehmen.
+> Der Vater kann die Heirat aber auch verbieten, zum Beispiel wenn der Mann ein schlechter Mensch ist. Dann muss der Mann trotzdem zahlen.
+
+---
+
+### Todeswürdige Taten (Vers 18–20)
+
+<sup>18</sup>Eine Zauberin sollst du nicht am Leben lassen.
+<sup>19</sup>Wer mit einem Tier Geschlechtsverkehr hat, muss mit dem Tod bestraft werden.
+<sup>20</sup>Wer anderen Göttern opfert und nicht allein dem HERRN, der soll dem Untergang geweiht werden.
+
+> **Was bedeutet das?**
+> Diese Gesetze sind für uns heute sehr hart. Sie richten sich gegen Dinge, die damals mit dem Glauben an fremde Götter verbunden waren: Zauberei, sexuelle Rituale mit Tieren und Opfer für andere Götter.
+> Diese Verse wurden in der Geschichte schlimm missbraucht. Im Mittelalter und in der frühen Neuzeit wurden mit Vers 18 viele tausend Frauen als „Hexen“ verbrannt. Das war ein großes Unrecht. Diese Frauen waren unschuldig.
+> Juden und Christen wenden diese Todesstrafen heute nicht mehr an. Jesus hat gezeigt, dass Gott Sünder nicht vernichten, sondern retten will.
+
+---
+
+### Schutz für Fremde, Witwen und Waisen (Vers 21–24)
+
+<sup>21</sup>Einen Fremden sollst du nicht schlecht behandeln und nicht unterdrücken.
+Denn ihr seid selbst Fremde im Land Ägypten gewesen.
+
+<sup>22</sup>Eine Witwe oder ein Waisenkind sollt ihr nicht ausnutzen.
+<sup>23</sup>Wenn du sie doch ausnutzt und sie zu mir schreien,
+dann werde ich ganz bestimmt ihren Hilfeschrei hören.
+<sup>24</sup>Dann wird mein Zorn entbrennen,
+und ich werde euch mit dem Schwert töten.
+Dann werden eure eigenen Frauen zu Witwen und eure Kinder zu Waisen.
+
+> **Was bedeutet das?**
+> Das ist eines der wichtigsten Gebote der Bibel. Es kommt immer wieder vor, über 30-mal.
+> Fremde, Witwen und Waisen waren die schwächsten Menschen in der Gesellschaft. Sie hatten niemanden, der sie schützte.
+> Die Begründung ist bewegend: Ihr wisst, wie es ist, fremd zu sein. Ihr wart selbst unterdrückt. Darum unterdrückt niemanden.
+> Gott selbst stellt sich auf die Seite der Schwachen. Er hört ihren Schrei – so wie er den Schrei Israels in Ägypten gehört hat. Wer sie unterdrückt, bekommt es mit Gott zu tun.
+
+---
+
+### Schutz für die Armen (Vers 25–27)
+
+<sup>25</sup>Wenn du jemandem aus meinem Volk Geld leihst, einem Armen, der bei dir lebt,
+dann sollst du ihn nicht wie ein Geldverleiher behandeln.
+Du sollst ihm keine Zinsen abverlangen.
+<sup>26</sup>Wenn du dir den Mantel deines Nachbarn als Pfand nimmst,
+dann gib ihn ihm zurück, bevor die Sonne untergeht.
+<sup>27</sup>Denn er ist seine einzige Decke.
+Es ist der Mantel für seinen Körper.
+Worin soll er sonst schlafen?
+Wenn er zu mir schreit, werde ich ihn hören.
+Denn ich bin gnädig.
+
+> **Was bedeutet das?**
+> Wer arm ist und Geld leihen muss, soll nicht noch ausgenutzt werden. Keine Zinsen für Arme!
+> Ein armer Mensch hatte oft nur seinen Mantel. Am Tag trug er ihn, in der Nacht deckte er sich damit zu. Man darf ihm diesen Mantel nicht über Nacht wegnehmen.
+> „Worin soll er sonst schlafen?“ – Gott denkt ganz konkret an das Leid der Armen. Er will, dass auch wir daran denken.
+
+---
+
+### Ehrfurcht vor Gott und den Anführern (Vers 28–31)
+
+<sup>28</sup>Du sollst Gott nicht lästern.
+Und einen Anführer deines Volkes sollst du nicht verfluchen.
+
+<sup>29</sup>Zögere nicht, mir von deiner Ernte und vom Saft deiner Pressen etwas zu geben.
+Den Erstgeborenen von deinen Söhnen sollst du mir geben.
+<sup>30</sup>Genauso sollst du es mit deinen Rindern und deinen Schafen machen.
+Sieben Tage lang soll das Junge bei seiner Mutter bleiben.
+Am achten Tag sollst du es mir geben.
+
+<sup>31</sup>Ihr sollt für mich heilige Menschen sein.
+Darum sollt ihr kein Fleisch essen, das von wilden Tieren auf dem Feld gerissen wurde.
+Werft es den Hunden vor.
+
+> **Was bedeutet das?**
+> Mit „Pressen“ sind die Wein- und Ölpressen gemeint. Von allem, was man erntet, soll man zuerst Gott etwas geben, als Dank.
+> „Den Erstgeborenen geben“ heißt nicht, ihn zu opfern. Erstgeborene Söhne werden ausgelöst (siehe Kapitel 13,13).
+> Das Junge darf eine Woche bei der Mutter bleiben. Selbst bei Tieren soll man mit Mitgefühl handeln.
+> „Heilig sein“ heißt: anders leben als die anderen, ganz zu Gott gehören. Das zeigt sich sogar beim Essen. Fleisch von gerissenen Tieren war nicht ausgeblutet und galt darum als unrein.
