@@ -9243,3 +9243,512 @@ Er ließ die Israeliten nicht aus seinem Land ziehen.
 > **Was bedeutet das?**
 > Diese zwei Verse sind wie ein Rückblick auf die neun Plagen. Alles ist so gekommen, wie Gott es angekündigt hat.
 > Im nächsten Kapitel geschieht die letzte Plage – und das Volk Israel feiert zum ersten Mal das Passafest.
+
+## 2. Mose – Kapitel 12
+#### Das erste Passafest – der Auszug aus Ägypten
+
+---
+
+### Ein neuer Kalender (Vers 1–2)
+
+<sup>1</sup>Der HERR sagte im Land Ägypten zu Mose und Aaron:
+<sup>2</sup>„Dieser Monat soll für euch der wichtigste Monat sein.
+Mit ihm soll für euch das Jahr beginnen.“
+
+> **Was bedeutet das?**
+> Die Befreiung ist so wichtig, dass mit ihr ein neues Jahr beginnt. Das Leben des Volkes fängt ganz neu an.
+> Dieser Monat liegt im Frühling, im März oder April. Später hieß er „Nisan“.
+
+---
+
+### Das Passalamm (Vers 3–11)
+
+<sup>3</sup>„Sagt der ganzen Gemeinde Israels:
+Am zehnten Tag dieses Monats soll sich jeder Familienvater ein Lamm nehmen,
+ein Lamm für jede Familie.
+<sup>4</sup>Wenn eine Familie zu klein ist für ein ganzes Lamm,
+dann soll sie es zusammen mit der Nachbarsfamilie nehmen, die am nächsten wohnt.
+Rechnet nach der Zahl der Personen aus, wie viel jeder essen kann.
+<sup>5</sup>Das Lamm muss ohne Fehler sein, ein männliches Tier, ein Jahr alt.
+Ihr könnt ein Schaf oder eine Ziege nehmen.
+<sup>6</sup>Ihr sollt es bis zum 14. Tag dieses Monats aufbewahren.
+Dann soll die ganze versammelte Gemeinde Israels es gegen Abend schlachten.
+
+<sup>7</sup>Nehmt etwas von dem Blut.
+Streicht es an die beiden Türpfosten und oben an den Türbalken der Häuser, in denen ihr es esst.
+<sup>8</sup>In dieser Nacht sollt ihr das Fleisch essen, über dem Feuer gebraten.
+Esst es mit ungesäuertem Brot und mit bitteren Kräutern.
+<sup>9</sup>Esst es nicht roh und nicht in Wasser gekocht,
+sondern über dem Feuer gebraten, mit Kopf, Beinen und Innereien.
+<sup>10</sup>Lasst nichts davon bis zum Morgen übrig.
+Was bis zum Morgen übrig bleibt, sollt ihr im Feuer verbrennen.
+
+<sup>11</sup>So sollt ihr es essen:
+mit dem Gürtel um die Hüften, mit Sandalen an den Füßen und mit dem Stab in der Hand.
+Esst es schnell, wie Menschen, die es eilig haben.
+Es ist das Passa für den HERRN.“
+
+> **Was bedeutet das?**
+> „Passa“ (auf Hebräisch „Pessach“) bedeutet „vorübergehen“ oder „verschonen“. Gott geht an den Häusern der Israeliten vorüber und verschont sie.
+> Jede Familie soll mitfeiern. Auch kleine und arme Familien: Sie tun sich mit den Nachbarn zusammen.
+> Das Blut an der Tür ist ein Schutzzeichen.
+> Ungesäuertes Brot ist Brot ohne Sauerteig oder Hefe. Es ist flach und geht schnell. Man hat keine Zeit zu warten, bis der Teig aufgeht.
+> Die bitteren Kräuter erinnern an das bittere Leben in der Sklaverei (Kapitel 1,14).
+> Man isst angezogen und reisefertig, mit Schuhen an den Füßen. Gleich geht es los in die Freiheit.
+
+---
+
+### Gottes Gericht und das Zeichen des Blutes (Vers 12–14)
+
+<sup>12</sup>„Denn in dieser Nacht werde ich durch das Land Ägypten gehen.
+Ich werde jeden Erstgeborenen im Land Ägypten töten, bei Menschen und Tieren.
+Und ich werde Gericht halten über alle Götter Ägyptens.
+Ich bin der HERR.
+<sup>13</sup>Das Blut soll ein Zeichen für euch sein an den Häusern, in denen ihr seid.
+Wenn ich das Blut sehe, gehe ich an euch vorüber.
+Dann wird euch keine tödliche Plage treffen, wenn ich das Land Ägypten schlage.
+
+<sup>14</sup>Dieser Tag soll für euch ein Gedenktag sein.
+Ihr sollt ihn als Fest für den HERRN feiern.
+Feiert ihn von Generation zu Generation.
+Das ist eine Ordnung für alle Zeiten.“
+
+> **Was bedeutet das?**
+> Die Plagen waren auch ein Gericht über die Götter Ägyptens. Sie haben gezeigt: Diese Götter können nicht helfen.
+> Das Blut des Lammes rettet. An dem Haus mit dem Blut geht der Tod vorbei.
+> Bis heute feiern Juden jedes Jahr das Passafest, über 3000 Jahre lang, Generation für Generation.
+> Für Christen hat dieses Fest eine besondere Bedeutung: Jesus starb genau zur Zeit des Passafestes. Er feierte vorher mit seinen Jüngern das Passamahl – das letzte Abendmahl. Im Neuen Testament wird Jesus „unser Passalamm“ genannt (1. Korinther 5,7). Christen glauben: Sein Blut rettet vom Tod.
+
+---
+
+### Das Fest der ungesäuerten Brote (Vers 15–20)
+
+<sup>15</sup>„Sieben Tage lang sollt ihr ungesäuertes Brot essen.
+Schon am ersten Tag sollt ihr allen Sauerteig aus euren Häusern entfernen.
+Denn wer vom ersten bis zum siebten Tag gesäuertes Brot isst,
+der soll aus Israel ausgeschlossen werden.
+<sup>16</sup>Am ersten Tag sollt ihr euch zu einem heiligen Gottesdienst versammeln,
+und am siebten Tag auch.
+An diesen Tagen dürft ihr keine Arbeit tun.
+Nur das Essen dürft ihr zubereiten, das jeder braucht.
+
+<sup>17</sup>Feiert das Fest der ungesäuerten Brote.
+Denn genau an diesem Tag habe ich eure Heerscharen aus dem Land Ägypten herausgeführt.
+Darum sollt ihr diesen Tag von Generation zu Generation feiern.
+Das ist eine Ordnung für alle Zeiten.
+
+<sup>18</sup>Im ersten Monat sollt ihr ungesäuertes Brot essen,
+vom Abend des 14. Tages bis zum Abend des 21. Tages des Monats.
+<sup>19</sup>Sieben Tage lang darf in euren Häusern kein Sauerteig zu finden sein.
+Denn wer etwas Gesäuertes isst, der soll aus der Gemeinde Israels ausgeschlossen werden,
+egal ob er ein Fremder ist oder ein Einheimischer.
+<sup>20</sup>Esst nichts Gesäuertes.
+An allen Orten, wo ihr wohnt, sollt ihr ungesäuertes Brot essen.“
+
+> **Was bedeutet das?**
+> Neben dem Passamahl in der einen Nacht gibt es ein sieben Tage langes Fest. Eine ganze Woche lang wird nur flaches, ungesäuertes Brot gegessen. Juden nennen es „Matze“.
+> Sauerteig steht in der Bibel oft für etwas Altes, das sich überall ausbreitet. Bevor der neue Anfang kommt, wird das Alte weggeräumt. Bis heute putzen jüdische Familien vor dem Passafest das ganze Haus und suchen jeden Krümel gesäuertes Brot.
+> „Ausgeschlossen werden“ heißt: nicht mehr zur Gemeinschaft des Volkes gehören.
+
+---
+
+### Mose gibt die Anweisungen weiter (Vers 21–28)
+
+<sup>21</sup>Da rief Mose alle Ältesten Israels zusammen.
+Er sagte zu ihnen:
+„Geht und holt euch Lämmer für eure Familien.
+Und schlachtet das Passalamm.
+<sup>22</sup>Nehmt ein Büschel Ysop.
+Taucht es in das Blut in der Schale.
+Und streicht etwas von dem Blut aus der Schale an den Türbalken und an die beiden Türpfosten.
+Keiner von euch darf bis zum Morgen aus seiner Haustür hinausgehen.
+
+<sup>23</sup>Denn der HERR wird durch das Land gehen, um die Ägypter zu schlagen.
+Wenn er das Blut am Türbalken und an den beiden Türpfosten sieht,
+dann wird der HERR an der Tür vorübergehen.
+Er wird den Verderber nicht in eure Häuser lassen, um euch zu schlagen.
+
+<sup>24</sup>Das sollt ihr halten.
+Es ist eine Ordnung für euch und eure Kinder für alle Zeiten.
+<sup>25</sup>Wenn ihr in das Land kommt, das der HERR euch geben wird, wie er es versprochen hat,
+dann sollt ihr diesen Gottesdienst feiern.
+<sup>26</sup>Wenn euch dann eure Kinder fragen:
+‚Was bedeutet dieser Gottesdienst für euch?‘,
+<sup>27</sup>dann sollt ihr sagen:
+‚Das ist das Passaopfer für den HERRN.
+Er ist in Ägypten an den Häusern der Israeliten vorübergegangen,
+als er die Ägypter schlug.
+Unsere Häuser hat er verschont.‘“
+Da verneigte sich das Volk und betete an.
+
+<sup>28</sup>Die Israeliten gingen und machten es so.
+Sie taten genau, was der HERR Mose und Aaron befohlen hatte.
+
+> **Was bedeutet das?**
+> Ysop ist eine kleine Pflanze mit vielen Blättern. Man konnte sie wie einen Pinsel benutzen.
+> Der „Verderber“ ist ein Bild für den Tod, der durch das Land geht.
+> Die Kinder sollen fragen. Und die Eltern sollen erzählen. Bis heute fragt beim Passafest das jüngste Kind: „Warum ist diese Nacht anders als alle anderen Nächte?“ Dann erzählen die Erwachsenen die Geschichte der Befreiung.
+> Glaube wird weitergegeben, indem man erzählt, was Gott getan hat.
+
+---
+
+### Die letzte Plage (Vers 29–36)
+
+<sup>29</sup>Um Mitternacht tötete der HERR alle Erstgeborenen im Land Ägypten,
+vom Erstgeborenen des Pharao, der auf seinem Thron saß,
+bis zum Erstgeborenen des Gefangenen im Kerker,
+und auch alle Erstgeborenen des Viehs.
+<sup>30</sup>Da stand der Pharao in der Nacht auf, er und alle seine Beamten und alle Ägypter.
+Und in Ägypten war ein großes Klagegeschrei.
+Denn es gab kein Haus, in dem nicht ein Toter war.
+
+<sup>31</sup>Noch in der Nacht ließ der Pharao Mose und Aaron rufen.
+Er sagte:
+„Steht auf! Geht weg aus meinem Volk, ihr und die Israeliten!
+Geht und dient dem HERRN, wie ihr gesagt habt.
+<sup>32</sup>Nehmt auch eure Schafe und Ziegen und eure Rinder mit, wie ihr gesagt habt.
+Geht!
+Und segnet auch mich!“
+
+<sup>33</sup>Die Ägypter drängten das Volk, schnell aus dem Land zu ziehen.
+Denn sie sagten:
+„Sonst sterben wir alle!“
+<sup>34</sup>Da nahm das Volk seinen Brotteig mit, bevor er durchsäuert war.
+Ihre Backschüsseln wickelten sie in ihre Mäntel und trugen sie auf den Schultern.
+
+<sup>35</sup>Die Israeliten hatten getan, was Mose gesagt hatte.
+Sie hatten die Ägypter um Schmuck aus Silber und Gold und um Kleider gebeten.
+<sup>36</sup>Und der HERR hatte dafür gesorgt, dass die Ägypter dem Volk wohlgesinnt waren.
+So gaben sie ihnen, worum sie baten.
+So beraubten sie die Ägypter.
+
+> **Was bedeutet das?**
+> Es geschieht, was Gott angekündigt hat. In jedem Haus Ägyptens trauert man – auch im Palast. Der Pharao verliert seinen eigenen Sohn.
+> Jetzt endlich gibt der Pharao nach. Er gibt alles, was er vorher verweigert hat: Alle dürfen gehen, mit allem Vieh.
+> „Segnet auch mich!“ – Der stolze Pharao, der sich für einen Gott hielt, bittet die Sklaven um ihren Segen.
+> Die Israeliten müssen so schnell aufbrechen, dass der Teig keine Zeit mehr zum Aufgehen hat. Daran erinnert das ungesäuerte Brot.
+
+---
+
+### Der Aufbruch (Vers 37–42)
+
+<sup>37</sup>Die Israeliten zogen von Ramses nach Sukkot.
+Es waren etwa 600.000 Männer zu Fuß, die Kinder nicht mitgezählt.
+<sup>38</sup>Mit ihnen zog auch eine große Menge von anderen Leuten.
+Dazu kamen Schafe, Ziegen und Rinder, sehr viel Vieh.
+<sup>39</sup>Aus dem Teig, den sie aus Ägypten mitgenommen hatten, backten sie ungesäuerte Fladenbrote.
+Denn der Teig war nicht durchsäuert.
+Man hatte sie ja aus Ägypten hinausgejagt.
+Sie konnten nicht warten und hatten sich auch keinen Reiseproviant zubereitet.
+
+<sup>40</sup>Die Israeliten hatten 430 Jahre in Ägypten gelebt.
+<sup>41</sup>Genau am Ende der 430 Jahre, auf den Tag genau,
+zogen alle Heerscharen des HERRN aus dem Land Ägypten.
+<sup>42</sup>Es ist eine Nacht, in der der HERR gewacht hat, um sie aus dem Land Ägypten herauszuführen.
+Darum ist diese Nacht dem HERRN geweiht.
+Alle Israeliten sollen in dieser Nacht wach bleiben und sie feiern, von Generation zu Generation.
+
+> **Was bedeutet das?**
+> 600.000 Männer – mit Frauen und Kindern wären das über zwei Millionen Menschen. Das ist eine riesige Zahl. Manche Fachleute meinen, das hebräische Wort für „tausend“ könnte hier auch „Familie“ oder „Gruppe“ bedeuten. Dann wären es weniger Menschen gewesen. Andere nehmen die Zahl wörtlich.
+> Eine „große Menge von anderen Leuten“ zieht mit. Das waren wohl Ägypter und andere Sklaven, die sich anschließen. Gottes Volk ist von Anfang an offen für Menschen aus anderen Völkern.
+> 430 Jahre – eine lange Zeit. Gott hatte Abraham schon gesagt, dass seine Nachkommen lange in einem fremden Land leben würden (1. Mose 15,13).
+> Gott hat in dieser Nacht „gewacht“. Darum sollen auch die Israeliten in dieser Nacht wach bleiben und feiern.
+
+---
+
+### Wer darf das Passa feiern? (Vers 43–51)
+
+<sup>43</sup>Der HERR sagte zu Mose und Aaron:
+„Das ist die Ordnung für das Passa:
+Kein Fremder darf davon essen.
+<sup>44</sup>Aber jeder Sklave, den jemand für Geld gekauft hat, darf davon essen, wenn er beschnitten ist.
+<sup>45</sup>Ein Gast und ein Tagelöhner dürfen nicht davon essen.
+<sup>46</sup>Das Passalamm muss in einem einzigen Haus gegessen werden.
+Ihr dürft nichts von dem Fleisch aus dem Haus hinaustragen.
+Und ihr dürft keinen seiner Knochen zerbrechen.
+<sup>47</sup>Die ganze Gemeinde Israels soll das Passa feiern.
+
+<sup>48</sup>Wenn ein Fremder bei dir lebt und das Passa für den HERRN feiern möchte,
+dann sollen alle Männer und Jungen in seiner Familie beschnitten werden.
+Danach darf er kommen und es feiern.
+Er soll dann wie ein Einheimischer sein.
+Aber kein Unbeschnittener darf davon essen.
+<sup>49</sup>Für den Einheimischen und für den Fremden, der bei euch lebt, gilt dasselbe Gesetz.“
+
+<sup>50</sup>Alle Israeliten machten es so.
+Sie taten genau, was der HERR Mose und Aaron befohlen hatte.
+<sup>51</sup>An genau diesem Tag führte der HERR die Israeliten aus dem Land Ägypten heraus, nach ihren Heerscharen geordnet.
+
+> **Was bedeutet das?**
+> Das Passa ist ein Fest für das Volk des Bundes. Wer mitfeiern will, gehört dazu – durch die Beschneidung, das Zeichen des Bundes mit Abraham.
+> Aber auch Fremde dürfen dazukommen. Wenn sie sich zum Gott Israels bekennen, sind sie wie Einheimische. „Für den Einheimischen und für den Fremden gilt dasselbe Gesetz.“ Das ist ein großes Wort: Gleiches Recht für alle.
+> „Keinen Knochen zerbrechen“ – das Johannes-Evangelium erinnert daran, als es vom Tod Jesu erzählt: Bei ihm wurde kein Knochen gebrochen (Johannes 19,36).
+
+## 2. Mose – Kapitel 13
+#### Die Erstgeborenen gehören Gott – die Wolkensäule und die Feuersäule
+
+---
+
+### Alle Erstgeborenen gehören Gott (Vers 1–2)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+<sup>2</sup>„Weihe mir alle Erstgeborenen.
+Alles bei den Israeliten, was als Erstes aus dem Mutterleib kommt, bei Menschen und bei Tieren, gehört mir.“
+
+> **Was bedeutet das?**
+> In Ägypten sind die Erstgeborenen gestorben. Die Erstgeborenen Israels wurden verschont. Darum sollen sie jetzt in besonderer Weise Gott gehören.
+> „Weihen“ heißt: für Gott bestimmen, ihm übergeben.
+
+---
+
+### Erinnert euch an diesen Tag (Vers 3–10)
+
+<sup>3</sup>Mose sagte zum Volk:
+„Denkt an diesen Tag,
+an dem ihr aus Ägypten ausgezogen seid, aus dem Haus der Sklaverei.
+Denn mit starker Hand hat der HERR euch von dort herausgeführt.
+Darum darf man nichts Gesäuertes essen.
+<sup>4</sup>Heute zieht ihr aus, im Monat Abib.
+
+<sup>5</sup>Der HERR wird euch in das Land der Kanaaniter, Hetiter, Amoriter, Hiwiter und Jebusiter bringen.
+Er hat euren Vorfahren geschworen, es euch zu geben,
+ein Land, in dem Milch und Honig fließen.
+Dann sollt ihr in diesem Monat diesen Gottesdienst feiern.
+<sup>6</sup>Sieben Tage lang sollt ihr ungesäuertes Brot essen.
+Und am siebten Tag ist ein Fest für den HERRN.
+<sup>7</sup>Die ganzen sieben Tage lang soll man ungesäuertes Brot essen.
+Bei dir darf man nichts Gesäuertes sehen.
+In deinem ganzen Gebiet darf man keinen Sauerteig bei dir sehen.
+
+<sup>8</sup>An diesem Tag sollst du deinem Sohn erklären:
+‚Das feiern wir wegen dem, was der HERR für mich getan hat, als ich aus Ägypten ausgezogen bin.‘
+<sup>9</sup>Das soll für dich wie ein Zeichen an deiner Hand sein
+und wie ein Erinnerungszeichen zwischen deinen Augen.
+So soll das Gesetz des HERRN immer in deinem Mund sein.
+Denn mit starker Hand hat der HERR dich aus Ägypten herausgeführt.
+<sup>10</sup>Darum sollst du diese Ordnung jedes Jahr zur festgesetzten Zeit halten.“
+
+> **Was bedeutet das?**
+> „Abib“ ist der alte Name des Monats. Er bedeutet „junge Ähren“. Es ist die Zeit im Frühling, wenn das Getreide wächst. Später hieß der Monat „Nisan“.
+> Wichtig: Der Vater sagt nicht „was Gott für unsere Vorfahren getan hat“, sondern „was der HERR für **mich** getan hat“. Jede Generation soll die Befreiung so feiern, als wäre sie selbst dabei gewesen.
+> „Ein Zeichen an der Hand und zwischen den Augen“ heißt: Ihr sollt immer daran denken, bei allem, was ihr tut und seht. Fromme Juden nehmen das bis heute auch wörtlich. Beim Morgengebet binden sie kleine Kapseln mit Bibelversen an Arm und Stirn. Sie heißen „Tefillin“.
+
+---
+
+### Die Erstgeborenen werden ausgelöst (Vers 11–16)
+
+<sup>11</sup>„Der HERR wird dich in das Land der Kanaaniter bringen,
+wie er es dir und deinen Vorfahren geschworen hat.
+Er wird es dir geben.
+<sup>12</sup>Dann sollst du dem HERRN alles übergeben, was als Erstes aus dem Mutterleib kommt.
+Auch alle männlichen Erstgeborenen von deinem Vieh gehören dem HERRN.
+<sup>13</sup>Jeden Erstgeborenen von einem Esel sollst du mit einem Lamm auslösen.
+Wenn du ihn nicht auslösen willst, sollst du ihm das Genick brechen.
+Und alle Erstgeborenen unter deinen Söhnen sollst du auslösen.
+
+<sup>14</sup>Wenn dich dann später dein Sohn fragt: ‚Was bedeutet das?‘,
+dann sollst du ihm sagen:
+‚Mit starker Hand hat uns der HERR aus Ägypten herausgeführt, aus dem Haus der Sklaverei.
+<sup>15</sup>Als der Pharao sich hartnäckig weigerte, uns ziehen zu lassen,
+da tötete der HERR alle Erstgeborenen im Land Ägypten,
+die Erstgeborenen von Menschen und die Erstgeborenen vom Vieh.
+Darum opfere ich dem HERRN alle männlichen Tiere, die als Erste aus dem Mutterleib kommen.
+Aber alle Erstgeborenen von meinen Söhnen löse ich aus.‘
+<sup>16</sup>Das soll wie ein Zeichen an deiner Hand sein und wie ein Merkzeichen zwischen deinen Augen.
+Denn mit starker Hand hat uns der HERR aus Ägypten herausgeführt.“
+
+> **Was bedeutet das?**
+> „Auslösen“ heißt: etwas zurückkaufen, indem man etwas anderes an seiner Stelle gibt.
+> Ein Esel galt als „unreines“ Tier. Man durfte ihn nicht opfern. Darum gibt man ein Lamm an seiner Stelle.
+> Ganz wichtig: Menschen werden **nie** geopfert. Die erstgeborenen Söhne werden immer ausgelöst. Gott will keine Menschenopfer (siehe auch 1. Mose 22).
+> Bis heute gibt es bei Juden eine Feier, wenn ein erstgeborener Sohn einen Monat alt ist. Sie heißt „Pidjon ha-Ben“, das heißt „Auslösung des Sohnes“.
+> Auch Jesus wurde als Erstgeborener im Tempel Gott dargestellt (Lukas 2,22–23).
+
+---
+
+### Gott wählt den Weg (Vers 17–22)
+
+<sup>17</sup>Als der Pharao das Volk ziehen ließ,
+führte Gott sie nicht auf dem Weg durch das Land der Philister, obwohl das der kürzeste war.
+Denn Gott sagte:
+„Das Volk könnte es bereuen, wenn es in einen Krieg gerät.
+Dann würde es nach Ägypten zurückkehren.“
+<sup>18</sup>Darum ließ Gott das Volk einen Umweg machen, auf dem Weg durch die Wüste zum Roten Meer.
+Die Israeliten zogen bewaffnet aus dem Land Ägypten.
+
+<sup>19</sup>Mose nahm die Gebeine von Josef mit.
+Denn Josef hatte die Israeliten schwören lassen:
+„Gott wird sich ganz bestimmt um euch kümmern.
+Dann sollt ihr meine Gebeine von hier mit hinaufnehmen.“
+
+<sup>20</sup>Sie brachen von Sukkot auf
+und schlugen ihr Lager in Etam auf, am Rand der Wüste.
+<sup>21</sup>Der HERR zog vor ihnen her:
+am Tag in einer Wolkensäule, um ihnen den Weg zu zeigen,
+und in der Nacht in einer Feuersäule, um ihnen zu leuchten.
+So konnten sie bei Tag und bei Nacht wandern.
+<sup>22</sup>Die Wolkensäule am Tag und die Feuersäule in der Nacht wichen nicht vom Volk.
+
+> **Was bedeutet das?**
+> Der kürzeste Weg nach Kanaan führte an der Küste entlang. Dort lagen aber ägyptische Festungen und die kriegerischen Philister. Gott kennt sein Volk. Es ist nach der Sklaverei noch nicht bereit für einen Kampf. Darum wählt er einen längeren, aber sichereren Weg.
+> Manchmal ist Gottes Weg ein Umweg. Aber er hat einen guten Grund.
+> Mose hält das Versprechen, das Josef vor über 400 Jahren bekommen hat (1. Mose 50,25). Josefs Glaube an die Rückkehr geht in Erfüllung.
+> Die Wolkensäule und die Feuersäule zeigen: Gott ist mitten unter seinem Volk. Er führt. Er beschützt. Er ist immer da, am Tag und in der Nacht.
+
+## 2. Mose – Kapitel 14
+#### Der Weg durch das Meer
+
+---
+
+### Gefangen zwischen Meer und Wüste (Vers 1–4)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+<sup>2</sup>„Sag den Israeliten, dass sie umkehren sollen.
+Sie sollen ihr Lager vor Pi-Hahirot aufschlagen, zwischen Migdol und dem Meer, gegenüber von Baal-Zefon.
+Dort sollt ihr am Meer euer Lager aufschlagen.
+<sup>3</sup>Dann wird der Pharao über die Israeliten denken:
+‚Sie haben sich im Land verirrt.
+Die Wüste hat sie eingeschlossen.‘
+<sup>4</sup>Und ich werde das Herz des Pharao hart machen, so dass er sie verfolgt.
+Dann werde ich mich am Pharao und an seinem ganzen Heer als mächtig erweisen.
+Und die Ägypter werden erkennen, dass ich der HERR bin.“
+Die Israeliten machten es so.
+
+> **Was bedeutet das?**
+> Gott lässt die Israeliten absichtlich in eine Sackgasse ziehen: vor ihnen das Meer, hinter ihnen die Wüste. Aus menschlicher Sicht ein schlechter Plan.
+> Aber Gott hat einen Plan: Der Pharao soll glauben, er habe leichtes Spiel. Dann wird Gott zeigen, wer wirklich mächtig ist.
+> Wo genau die Orte Pi-Hahirot, Migdol und Baal-Zefon lagen, weiß man heute nicht mehr sicher.
+
+---
+
+### Der Pharao jagt hinterher (Vers 5–9)
+
+<sup>5</sup>Dem König von Ägypten wurde gemeldet, dass das Volk geflohen war.
+Da änderten der Pharao und seine Beamten ihre Meinung über das Volk.
+Sie sagten:
+„Was haben wir da getan?
+Wir haben Israel ziehen lassen. Jetzt arbeiten sie nicht mehr für uns!“
+<sup>6</sup>Der Pharao ließ seinen Streitwagen anspannen.
+Er nahm sein Kriegsvolk mit.
+<sup>7</sup>Er nahm 600 ausgewählte Streitwagen mit
+und dazu alle anderen Streitwagen Ägyptens.
+Auf jedem stand ein Kämpfer.
+
+<sup>8</sup>Der HERR machte das Herz des Pharao, des Königs von Ägypten, hart.
+Und er jagte den Israeliten nach.
+Die Israeliten aber zogen mit erhobener Hand aus.
+<sup>9</sup>Die Ägypter verfolgten sie.
+Alle Pferde und Streitwagen des Pharao, seine Reiter und sein Heer holten sie ein,
+als sie gerade am Meer ihr Lager aufgeschlagen hatten,
+bei Pi-Hahirot, gegenüber von Baal-Zefon.
+
+> **Was bedeutet das?**
+> Kaum sind die Sklaven weg, bereut der Pharao es. Er denkt nur an die verlorene Arbeitskraft. Die Trauer um seinen Sohn hat ihn nicht verändert.
+> Streitwagen waren damals die stärkste Waffe. Sie waren schnell und gefährlich. Gegen Menschen zu Fuß waren sie fast unbesiegbar.
+> „Mit erhobener Hand“ heißt: mutig, selbstbewusst, wie Sieger.
+
+---
+
+### „Fürchtet euch nicht!“ (Vers 10–14)
+
+<sup>10</sup>Als der Pharao näher kam, schauten die Israeliten auf.
+Und schau: Die Ägypter zogen hinter ihnen her.
+Da bekamen die Israeliten große Angst.
+Sie schrien zum HERRN.
+<sup>11</sup>Und sie sagten zu Mose:
+„Gab es denn keine Gräber in Ägypten?
+Hast du uns deshalb weggeholt, damit wir in der Wüste sterben?
+Was hast du uns da angetan, dass du uns aus Ägypten herausgeführt hast?
+<sup>12</sup>Haben wir dir das nicht schon in Ägypten gesagt:
+‚Lass uns in Ruhe! Wir wollen den Ägyptern dienen‘?
+Es wäre besser für uns gewesen, den Ägyptern zu dienen, als in der Wüste zu sterben!“
+
+<sup>13</sup>Mose sagte zum Volk:
+„Habt keine Angst!
+Bleibt stehen und schaut zu, wie der HERR euch heute rettet.
+Denn die Ägypter, die ihr heute seht, werdet ihr nie wieder sehen.
+<sup>14</sup>Der HERR wird für euch kämpfen.
+Und ihr sollt ganz still sein.“
+
+> **Was bedeutet das?**
+> Die Angst ist riesig. Vor ihnen das Meer, hinter ihnen die stärkste Armee der Welt. Die Menschen sehen keinen Ausweg.
+> In ihrer Panik wollen sie sogar zurück in die Sklaverei. Lieber unfrei und lebendig als frei und tot. Das ist menschlich und verständlich.
+> „Gab es keine Gräber in Ägypten?“ – ein bitterer Spott. Ägypten war berühmt für seine riesigen Grabmäler, die Pyramiden.
+> Moses Antwort ist einer der bekanntesten Sätze der Bibel: „Der HERR wird für euch kämpfen. Und ihr sollt still sein.“ Manchmal kann man selbst nichts tun. Dann darf man vertrauen, dass Gott handelt.
+
+---
+
+### Das Meer teilt sich (Vers 15–22)
+
+<sup>15</sup>Der HERR sagte zu Mose:
+„Warum schreist du zu mir?
+Sag den Israeliten, sie sollen weiterziehen!
+<sup>16</sup>Und du: Heb deinen Stab hoch.
+Streck deine Hand über das Meer aus und teile es.
+Dann können die Israeliten mitten durch das Meer auf trockenem Boden gehen.
+<sup>17</sup>Und schau: Ich mache das Herz der Ägypter hart, so dass sie hinter ihnen herziehen.
+Dann werde ich mich am Pharao und an seinem ganzen Heer als mächtig erweisen,
+an seinen Streitwagen und an seinen Reitern.
+<sup>18</sup>Dann werden die Ägypter erkennen, dass ich der HERR bin,
+wenn ich mich am Pharao, an seinen Streitwagen und an seinen Reitern als mächtig erwiesen habe.“
+
+<sup>19</sup>Da brach der Engel Gottes auf, der vor dem Lager Israels hergezogen war.
+Er stellte sich hinter sie.
+Auch die Wolkensäule zog von vorn weg und stellte sich hinter sie.
+<sup>20</sup>Sie kam zwischen das Lager der Ägypter und das Lager Israels.
+Auf der einen Seite war die Wolke Finsternis.
+Auf der anderen Seite machte sie die Nacht hell.
+So kamen die beiden Lager die ganze Nacht nicht aneinander heran.
+
+<sup>21</sup>Mose streckte seine Hand über das Meer aus.
+Da ließ der HERR die ganze Nacht einen starken Ostwind wehen.
+Der trieb das Meer zurück und machte den Meeresboden trocken.
+Das Wasser teilte sich.
+<sup>22</sup>Und die Israeliten gingen mitten durch das Meer auf trockenem Boden.
+Das Wasser stand rechts und links von ihnen wie eine Mauer.
+
+> **Was bedeutet das?**
+> „Warum schreist du zu mir? Geh weiter!“ – Es gibt eine Zeit zum Beten und eine Zeit zum Handeln. Jetzt müssen die Israeliten den ersten Schritt tun.
+> Die Wolkensäule wird zum Schutzschild. Für die Ägypter ist sie dunkel, für die Israeliten hell. Dieselbe Gegenwart Gottes bedeutet für die einen Schutz, für die anderen Hindernis.
+> Gott benutzt einen Wind, wie bei der Schöpfung und nach der Sintflut (1. Mose 1,2; 8,1). Wieder schafft Gott trockenes Land mitten im Wasser. Es ist wie eine neue Schöpfung: Aus Sklaven wird ein freies Volk.
+
+---
+
+### Die Ägypter gehen unter (Vers 23–31)
+
+<sup>23</sup>Die Ägypter verfolgten sie.
+Alle Pferde des Pharao, seine Streitwagen und seine Reiter zogen hinter ihnen her mitten ins Meer.
+<sup>24</sup>In der letzten Nachtwache, kurz vor dem Morgen, schaute der HERR aus der Feuer- und Wolkensäule auf das Heer der Ägypter.
+Und er brachte das Heer der Ägypter in Verwirrung.
+<sup>25</sup>Er ließ die Räder ihrer Streitwagen abspringen,
+so dass sie nur noch mühsam vorankamen.
+Da sagten die Ägypter:
+„Wir müssen vor Israel fliehen!
+Denn der HERR kämpft für sie gegen Ägypten!“
+
+<sup>26</sup>Der HERR sagte zu Mose:
+„Streck deine Hand über das Meer aus.
+Dann soll das Wasser zurückkommen über die Ägypter, über ihre Streitwagen und über ihre Reiter.“
+<sup>27</sup>Da streckte Mose seine Hand über das Meer aus.
+Und als der Morgen kam, strömte das Meer wieder an seinen Platz zurück.
+Die Ägypter flohen ihm genau entgegen.
+So stürzte der HERR die Ägypter mitten ins Meer.
+<sup>28</sup>Das Wasser kam zurück und bedeckte die Streitwagen und die Reiter,
+das ganze Heer des Pharao, das ihnen ins Meer gefolgt war.
+Nicht einer von ihnen blieb übrig.
+
+<sup>29</sup>Aber die Israeliten waren auf trockenem Boden mitten durch das Meer gegangen.
+Das Wasser hatte rechts und links von ihnen wie eine Mauer gestanden.
+<sup>30</sup>So rettete der HERR an diesem Tag Israel aus der Hand der Ägypter.
+Und Israel sah die Ägypter tot am Ufer des Meeres liegen.
+<sup>31</sup>Israel sah die gewaltige Macht, mit der der HERR gegen die Ägypter gehandelt hatte.
+Da bekam das Volk Ehrfurcht vor dem HERRN.
+Und sie glaubten dem HERRN und seinem Diener Mose.
+
+> **Was bedeutet das?**
+> Die Nacht war damals in Wachen eingeteilt. Die letzte Nachtwache war kurz vor Sonnenaufgang.
+> Jetzt sagen sogar die Ägypter: „Der HERR kämpft für sie!“ Endlich erkennen sie, wer der wahre Gott ist – aber zu spät.
+> Der Pharao wollte die Babys der Israeliten im Wasser ertränken (Kapitel 1,22). Jetzt geht sein eigenes Heer im Wasser unter.
+> Die Befreiung ist vollständig. Die Sklaven sind frei. Die Unterdrücker können sie nie mehr verfolgen.
+> Das Volk sieht und glaubt. Dieser Durchzug durch das Meer ist für Israel bis heute das große Zeichen dafür, dass Gott rettet.
+> Christen sehen darin auch ein Bild für die Taufe: Durch das Wasser hindurch ins neue Leben (1. Korinther 10,1–2).
