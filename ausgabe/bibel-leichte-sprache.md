@@ -23884,3 +23884,400 @@ das du mit deiner großen Kraft und mit deinem ausgestreckten Arm herausgeführt
 > 2. Denk an deine Versprechen an Abraham, Isaak und Jakob.
 > 3. Was sollen die anderen Völker denken? Dein Name würde verspottet.
 > Mose beruft sich nicht auf die Gerechtigkeit des Volkes, sondern nur auf Gottes Treue und Gnade. So kann man bis heute beten, wenn man schuldig geworden ist.
+
+## 5. Mose – Kapitel 10
+#### Neue Tafeln – und was Gott von dir will
+
+---
+
+### Die neuen Steintafeln (Vers 1–5)
+
+<sup>1</sup>Damals sagte der HERR zu mir:
+„Hau dir zwei Steintafeln zurecht wie die ersten
+und steig zu mir auf den Berg.
+Und mach dir eine Lade aus Holz.
+<sup>2</sup>Ich will auf die Tafeln die Worte schreiben, die auf den ersten Tafeln standen, die du zerbrochen hast.
+Und du sollst sie in die Lade legen.“
+<sup>3</sup>So machte ich eine Lade aus Akazienholz
+und hieb zwei Steintafeln zurecht wie die ersten.
+Und ich stieg auf den Berg, die zwei Tafeln in meiner Hand.
+<sup>4</sup>Er schrieb auf die Tafeln, so wie es zuerst geschrieben war, die Zehn Gebote,
+die der HERR auf dem Berg mitten aus dem Feuer zu euch geredet hatte, am Tag der Versammlung.
+Und der HERR gab sie mir.
+<sup>5</sup>Ich wandte mich um und stieg vom Berg hinab.
+Ich legte die Tafeln in die Lade, die ich gemacht hatte.
+Und dort sind sie, wie der HERR es mir befohlen hat.
+
+> **Was bedeutet das?**
+> Nach dem goldenen Kalb gibt Gott einen Neuanfang. Der Bund wird erneuert. Gott schreibt dieselben Worte noch einmal.
+> Das ist eine große Botschaft: Auch nach schwerer Schuld ist ein neuer Anfang möglich. Gott gibt nicht auf.
+> Die „Lade“ ist eine Truhe. Später wurde sie die „Bundeslade“ genannt, das Heiligste in Israel (2. Mose 25,10–22).
+
+---
+
+### Eine Einfügung: Aarons Tod und die Leviten (Vers 6–9)
+
+<sup>6</sup>(Die Israeliten brachen von Beerot-Bene-Jaakan auf nach Mosera.
+Dort starb Aaron, und dort wurde er begraben.
+Und sein Sohn Eleasar wurde an seiner Stelle Priester.
+<sup>7</sup>Von dort brachen sie auf nach Gudgoda und von Gudgoda nach Jotbata, einem Land mit Wasserbächen.
+<sup>8</sup>Damals sonderte der HERR den Stamm Levi aus,
+damit er die Lade des Bundes des HERRN trägt,
+damit er vor dem HERRN steht, um ihm zu dienen,
+und damit er in seinem Namen segnet, bis heute.
+<sup>9</sup>Darum hat Levi keinen Anteil und kein Erbe mit seinen Brüdern.
+Der HERR ist sein Erbe, wie der HERR, dein Gott, es ihm gesagt hat.)
+
+> **Was bedeutet das?**
+> Diese Verse in Klammern sind eine kurze Erklärung, die in die Rede eingefügt ist.
+> In 4. Mose 20 und 33 steht, dass Aaron auf dem Berg Hor starb. Hier heißt der Ort Mosera. Viele Ausleger meinen: Mosera war die Gegend, in der der Berg Hor liegt. Sicher weiß man es nicht.
+> Warum steht das hier? Vielleicht, weil Mose gerade erzählt hat, dass Gott auf seine Bitte für Aaron gehört hat (Kapitel 9,20). Aaron durfte weiterleben und Priester sein, und nach ihm sein Sohn.
+> Die Leviten bekommen kein eigenes Land. Aber sie haben etwas Besseres: „Der HERR ist sein Erbe.“ Ihr Reichtum ist die Nähe zu Gott.
+
+---
+
+### Gott hört noch einmal (Vers 10–11)
+
+<sup>10</sup>Ich blieb auf dem Berg wie beim ersten Mal, vierzig Tage und vierzig Nächte.
+Und der HERR hörte auch dieses Mal auf mich.
+Der HERR wollte dich nicht vernichten.
+<sup>11</sup>Der HERR sagte zu mir:
+„Steh auf, zieh vor dem Volk her.
+Sie sollen hineinkommen und das Land in Besitz nehmen,
+das ich ihren Vätern geschworen habe, ihnen zu geben.“
+
+---
+
+### Was Gott von dir will (Vers 12–16)
+
+<sup>12</sup>Und nun, Israel, was fordert der HERR, dein Gott, von dir?
+Nur dies: dass du den HERRN, deinen Gott, fürchtest,
+dass du auf allen seinen Wegen gehst, dass du ihn liebst
+und dass du dem HERRN, deinem Gott, mit deinem ganzen Herzen und mit deiner ganzen Seele dienst,
+<sup>13</sup>dass du die Gebote und Ordnungen des HERRN hältst, die ich dir heute gebiete,
+zu deinem Besten.
+<sup>14</sup>Schau, dem HERRN, deinem Gott, gehört der Himmel und aller Himmel Himmel,
+die Erde und alles, was darauf ist.
+<sup>15</sup>Trotzdem hat der HERR nur an deinen Vätern Gefallen gefunden, sie zu lieben.
+Und er hat ihre Nachkommen nach ihnen erwählt, euch, aus allen Völkern, wie es heute ist.
+<sup>16</sup>So beschneidet die Vorhaut eures Herzens
+und seid nicht länger stur.
+
+> **Was bedeutet das?**
+> Vers 12 ist eine wunderbare Zusammenfassung. Was will Gott? Ehrfurcht, Gehorsam, Liebe und ein Dienst mit ganzem Herzen. Und alles das „zu deinem Besten“.
+> Ähnlich fasst es später der Prophet Micha zusammen: „Was fordert der HERR von dir? Recht tun, Güte lieben und demütig gehen mit deinem Gott“ (Micha 6,8).
+> Gott gehört das ganze Universum. Und trotzdem liebt er ein kleines Volk. Der große Gott wendet sich den Kleinen zu.
+> „Die Vorhaut des Herzens beschneiden“: Die Beschneidung war das Zeichen des Bundes am Körper (1. Mose 17). Aber Mose sagt: Das genügt nicht. Auch das Herz muss sich Gott öffnen. Weg mit allem, was das Herz hart und verschlossen macht! Paulus greift dieses Bild auf (Römer 2,29).
+> In der englischen Vorlage steht „steifnackig“ (stiff-necked), also „stur“.
+
+---
+
+### Gott liebt die Fremden – liebt sie auch (Vers 17–22)
+
+<sup>17</sup>Denn der HERR, euer Gott, ist der Gott der Götter und der Herr der Herren,
+der große, mächtige und furchterregende Gott,
+der niemanden bevorzugt und keine Bestechung annimmt.
+<sup>18</sup>Er verschafft der Waise und der Witwe Recht.
+Und er liebt den Fremden und gibt ihm Essen und Kleidung.
+<sup>19</sup>Darum sollt auch ihr den Fremden lieben.
+Denn ihr seid selbst Fremde im Land Ägypten gewesen.
+<sup>20</sup>Den HERRN, deinen Gott, sollst du fürchten. Ihm sollst du dienen.
+An ihm sollst du festhalten, und bei seinem Namen sollst du schwören.
+<sup>21</sup>Er ist dein Lobpreis, und er ist dein Gott,
+der für dich diese großen und furchterregenden Dinge getan hat, die deine Augen gesehen haben.
+<sup>22</sup>Mit siebzig Personen sind deine Väter nach Ägypten hinabgezogen.
+Und jetzt hat dich der HERR, dein Gott, so zahlreich gemacht wie die Sterne am Himmel.
+
+> **Was bedeutet das?**
+> Der größte und mächtigste Gott kümmert sich um die Schwächsten: um Waisen, Witwen und Fremde. Diese Menschen hatten damals keinen Schutz.
+> Gott ist nicht bestechlich. Bei ihm zählt nicht, wer reich oder mächtig ist.
+> Vers 19 ist eines der wichtigsten Gebote der Bibel: „Liebt den Fremden!“ Der Grund: Ihr wart selbst Fremde. Ihr wisst, wie es sich anfühlt. Dieses Gebot ist heute genauso aktuell wie damals.
+> „Herr der Herren“: In der Offenbarung wird dieser Titel für Jesus verwendet (Offenbarung 19,16).
+> Siebzig Personen waren es am Anfang (1. Mose 46,27). Jetzt ist es ein großes Volk. Gott hat sein Versprechen an Abraham gehalten.
+
+## 5. Mose – Kapitel 11
+#### Segen und Fluch
+
+---
+
+### Ihr habt es selbst gesehen (Vers 1–7)
+
+<sup>1</sup>Darum sollst du den HERRN, deinen Gott, lieben
+und seine Anordnungen, seine Ordnungen, seine Rechtsbestimmungen und seine Gebote halten, alle Tage.
+<sup>2</sup>Erkennt heute –
+denn ich rede nicht mit euren Kindern, die es nicht erlebt und nicht gesehen haben –
+die Erziehung des HERRN, eures Gottes:
+seine Größe, seine starke Hand und seinen ausgestreckten Arm,
+<sup>3</sup>seine Zeichen und seine Taten, die er mitten in Ägypten getan hat
+am Pharao, dem König von Ägypten, und an seinem ganzen Land,
+<sup>4</sup>und was er dem Heer Ägyptens getan hat, seinen Pferden und seinen Streitwagen:
+wie er das Wasser des Roten Meeres über sie fluten ließ, als sie euch verfolgten,
+und wie der HERR sie vernichtet hat, bis heute,
+<sup>5</sup>und was er für euch in der Wüste getan hat, bis ihr an diesen Ort gekommen seid,
+<sup>6</sup>und was er Datan und Abiram getan hat, den Söhnen von Eliab, dem Sohn Rubens:
+wie die Erde ihren Mund öffnete und sie verschlang,
+mit ihren Familien, ihren Zelten und allem Lebendigen, das ihnen folgte,
+mitten in ganz Israel.
+<sup>7</sup>Denn eure Augen haben all das große Werk des HERRN gesehen, das er getan hat.
+
+> **Was bedeutet das?**
+> Mose spricht zu Menschen, die vieles selbst erlebt haben. Sie waren als Kinder und Jugendliche in Ägypten und in der Wüste dabei. Sie können es ihren Kindern bezeugen.
+> Datan und Abiram waren die Anführer des Aufstands mit Korach (4. Mose 16).
+> „Rotes Meer“: So steht es in der englischen Vorlage. Im Hebräischen steht „Schilfmeer“.
+
+---
+
+### Ein Land, das vom Regen lebt (Vers 8–12)
+
+<sup>8</sup>Darum sollt ihr das ganze Gebot halten, das ich dir heute gebiete,
+damit ihr stark seid und hineinkommt
+und das Land in Besitz nehmt, in das ihr hinüberzieht, um es in Besitz zu nehmen,
+<sup>9</sup>und damit ihr lange in dem Land lebt,
+das der HERR euren Vätern geschworen hat, ihnen und ihren Nachkommen zu geben,
+ein Land, in dem Milch und Honig fließen.
+<sup>10</sup>Denn das Land, in das du kommst, um es in Besitz zu nehmen,
+ist nicht wie das Land Ägypten, aus dem ihr ausgezogen seid.
+Dort hast du deinen Samen gesät und ihn mit deinem Fuß bewässert wie einen Gemüsegarten.
+<sup>11</sup>Aber das Land, in das ihr hinüberzieht, um es in Besitz zu nehmen,
+ist ein Land mit Bergen und Tälern, das vom Regen des Himmels Wasser trinkt,
+<sup>12</sup>ein Land, um das sich der HERR, dein Gott, kümmert.
+Die Augen des HERRN, deines Gottes, sind immer darauf gerichtet,
+vom Anfang des Jahres bis zum Ende des Jahres.
+
+> **Was bedeutet das?**
+> In Ägypten gibt es den großen Fluss Nil. Dort konnte man das Wasser mit Kanälen auf die Felder leiten. „Mit dem Fuß bewässern“ meint wohl: Man öffnete mit dem Fuß kleine Erdwälle oder trat ein Wasserrad.
+> Im Land Kanaan gibt es keinen solchen Fluss. Das Land ist ganz auf den Regen angewiesen. Darum muss man dort jeden Tag Gott vertrauen.
+> Aber das Land ist nicht vergessen: Gottes Augen sind das ganze Jahr darauf gerichtet.
+
+---
+
+### Regen als Segen (Vers 13–17)
+
+<sup>13</sup>Wenn ihr wirklich auf meine Gebote hört, die ich euch heute gebiete,
+den HERRN, euren Gott, zu lieben und ihm mit eurem ganzen Herzen und mit eurer ganzen Seele zu dienen,
+<sup>14</sup>dann werde ich eurem Land Regen geben zu seiner Zeit,
+den Frühregen und den Spätregen,
+damit du dein Getreide, deinen neuen Wein und dein Öl einbringen kannst.
+<sup>15</sup>Ich werde auf deinem Feld Gras für dein Vieh wachsen lassen.
+Und du wirst essen und satt werden.
+<sup>16</sup>Hütet euch, dass euer Herz sich nicht verführen lässt
+und ihr abweicht und anderen Göttern dient und sie anbetet.
+<sup>17</sup>Sonst entbrennt der Zorn des HERRN gegen euch,
+und er verschließt den Himmel, sodass kein Regen fällt
+und das Land seinen Ertrag nicht bringt.
+Und ihr werdet schnell aus dem guten Land verschwinden, das der HERR euch gibt.
+
+> **Was bedeutet das?**
+> Der „Frühregen“ kommt im Herbst. Er macht den harten Boden weich, damit man säen kann. Der „Spätregen“ kommt im Frühling. Er lässt das Getreide reifen.
+> Die Kanaaniter glaubten, dass der Gott Baal den Regen bringt. Mose sagt: Nein, der HERR gibt den Regen. Wer zu Baal läuft, verliert gerade das, was er sich erhofft.
+> Juden beten diese Verse 13–21 als zweiten Teil des „Schma Israel“, jeden Morgen und jeden Abend.
+
+---
+
+### Die Worte ins Herz legen (Vers 18–21)
+
+<sup>18</sup>Darum sollt ihr diese meine Worte in euer Herz und in eure Seele legen.
+Ihr sollt sie als Zeichen an eure Hand binden.
+Und sie sollen als Merkzeichen zwischen euren Augen sein.
+<sup>19</sup>Ihr sollt sie euren Kindern lehren.
+Ihr sollt von ihnen reden, wenn du in deinem Haus sitzt und wenn du unterwegs bist,
+wenn du dich hinlegst und wenn du aufstehst.
+<sup>20</sup>Du sollst sie an die Türpfosten deines Hauses und an deine Tore schreiben,
+<sup>21</sup>damit ihr und eure Kinder lange in dem Land lebt,
+das der HERR euren Vätern geschworen hat, ihnen zu geben,
+so lange, wie der Himmel über der Erde ist.
+
+> **Was bedeutet das?**
+> Diese Worte kennen wir schon aus Kapitel 6,6–9. Die Wiederholung zeigt, wie wichtig sie sind. Auch sie stehen in den Tefillin und in der Mesusa (siehe Kapitel 6).
+
+---
+
+### Jeder Ort, den euer Fuß betritt (Vers 22–25)
+
+<sup>22</sup>Denn wenn ihr dieses ganze Gebot, das ich euch gebiete, wirklich haltet und tut,
+wenn ihr den HERRN, euren Gott, liebt, auf allen seinen Wegen geht und an ihm festhaltet,
+<sup>23</sup>dann wird der HERR alle diese Völker vor euch vertreiben.
+Und ihr werdet Völker vertreiben, die größer und mächtiger sind als ihr.
+<sup>24</sup>Jeder Ort, den eure Fußsohle betritt, soll euch gehören.
+Von der Wüste und vom Libanon, vom Strom, dem Fluss Euphrat, bis zum westlichen Meer soll euer Gebiet reichen.
+<sup>25</sup>Niemand wird vor euch bestehen können.
+Der HERR, euer Gott, wird Furcht und Schrecken vor euch
+auf das ganze Land legen, das ihr betretet, wie er es euch gesagt hat.
+
+> **Was bedeutet das?**
+> Das „westliche Meer“ ist das Mittelmeer.
+> Dieses große Gebiet bis zum Euphrat hat Israel nur kurz unter König Salomo beherrscht (1. Könige 5,1). Die Bibel beschreibt hier eine Verheißung, nicht eine Landkarte für die Politik von heute.
+
+---
+
+### Die Wahl zwischen Segen und Fluch (Vers 26–32)
+
+<sup>26</sup>Schau, ich lege euch heute Segen und Fluch vor:
+<sup>27</sup>den Segen, wenn ihr auf die Gebote des HERRN, eures Gottes, hört, die ich euch heute gebiete,
+<sup>28</sup>und den Fluch, wenn ihr nicht auf die Gebote des HERRN, eures Gottes, hört,
+sondern von dem Weg abweicht, den ich euch heute gebiete,
+und anderen Göttern nachlauft, die ihr nicht kennt.
+<sup>29</sup>Wenn der HERR, dein Gott, dich in das Land bringt, in das du kommst, um es in Besitz zu nehmen,
+dann sollst du den Segen auf dem Berg Garizim aussprechen und den Fluch auf dem Berg Ebal.
+<sup>30</sup>Liegen sie nicht jenseits des Jordan, hinter dem Weg nach Westen, wo die Sonne untergeht,
+im Land der Kanaaniter, die in der Araba wohnen, gegenüber von Gilgal, bei den Eichen von More?
+<sup>31</sup>Denn ihr zieht über den Jordan, um hineinzugehen
+und das Land in Besitz zu nehmen, das der HERR, euer Gott, euch gibt.
+Ihr werdet es besitzen und darin wohnen.
+<sup>32</sup>So achtet darauf, alle Ordnungen und Rechtsbestimmungen zu tun, die ich euch heute vorlege.
+
+> **Was bedeutet das?**
+> Mose stellt das Volk vor eine Entscheidung. Es gibt zwei Wege: den Weg des Segens und den Weg des Fluches. Jeder muss wählen.
+> Garizim und Ebal sind zwei Berge mitten im Land, bei der heutigen Stadt Nablus. Zwischen ihnen liegt die alte Stadt Sichem. Dort soll später eine große Feier stattfinden (Kapitel 27; Josua 8,30–35).
+> Bei den „Eichen von More“ hatte schon Abraham gelagert, als er ins Land kam (1. Mose 12,6). Israel kehrt an den Ort zurück, wo alles begann.
+
+## 5. Mose – Kapitel 12
+#### Der eine Ort, den Gott erwählt
+
+---
+
+### Zerstört die Orte der fremden Götter (Vers 1–4)
+
+<sup>1</sup>Das sind die Ordnungen und die Rechtsbestimmungen, die ihr achten und tun sollt
+in dem Land, das der HERR, der Gott deiner Väter, dir zum Besitz gegeben hat,
+alle Tage, die ihr auf der Erde lebt.
+<sup>2</sup>Ihr sollt alle Orte ganz zerstören,
+an denen die Völker, die ihr vertreibt, ihren Göttern gedient haben:
+auf den hohen Bergen, auf den Hügeln und unter jedem grünen Baum.
+<sup>3</sup>Ihr sollt ihre Altäre niederreißen, ihre Steinsäulen zerschlagen
+und ihre Aschera-Pfähle mit Feuer verbrennen.
+Ihr sollt die geschnitzten Bilder ihrer Götter umhauen
+und ihren Namen von diesem Ort auslöschen.
+<sup>4</sup>So sollt ihr es mit dem HERRN, eurem Gott, nicht machen.
+
+> **Was bedeutet das?**
+> Mit Kapitel 12 beginnt der große Teil mit den einzelnen Geboten. Er geht bis Kapitel 26.
+> Die Kanaaniter hatten überall Heiligtümer: auf Bergen und unter großen Bäumen. Israel soll diese Orte zerstören, damit es nicht zu den fremden Göttern verführt wird.
+> „So sollt ihr es mit dem HERRN nicht machen“ heißt: Ihr sollt den HERRN nicht so verehren, wie die anderen Völker ihre Götter verehren, an jedem beliebigen Ort.
+> Es geht hier um Gegenstände und Kultorte, nicht um Menschen. Dieser Text erlaubt es niemandem, heute Gotteshäuser anderer Religionen zu beschädigen.
+
+---
+
+### Der Ort, den Gott erwählen wird (Vers 5–12)
+
+<sup>5</sup>Sondern den Ort, den der HERR, euer Gott, aus allen euren Stämmen erwählen wird,
+um seinen Namen dort wohnen zu lassen,
+diesen Ort, wo er wohnt, sollt ihr aufsuchen, und dorthin sollst du kommen.
+<sup>6</sup>Dorthin sollt ihr eure Brandopfer und eure Schlachtopfer bringen,
+eure Zehnten und die Gaben eurer Hand,
+eure Gelübde und eure freiwilligen Gaben
+und die Erstgeborenen eurer Rinder und eurer Schafe.
+<sup>7</sup>Dort sollt ihr vor dem HERRN, eurem Gott, essen.
+Und ihr sollt euch freuen über alles, was ihr mit euren Händen geschafft habt,
+ihr und eure Familien, womit der HERR, dein Gott, dich gesegnet hat.
+<sup>8</sup>Ihr sollt es nicht so machen, wie wir es heute hier machen:
+jeder, wie es ihm selbst richtig erscheint.
+<sup>9</sup>Denn ihr seid noch nicht zur Ruhe gekommen
+und nicht zu dem Erbe, das der HERR, dein Gott, dir gibt.
+<sup>10</sup>Aber wenn ihr über den Jordan zieht und in dem Land wohnt,
+das der HERR, euer Gott, euch als Erbe gibt,
+und wenn er euch Ruhe vor allen euren Feinden ringsum gibt, sodass ihr in Sicherheit wohnt,
+<sup>11</sup>dann sollt ihr an den Ort, den der HERR, euer Gott, erwählen wird, um seinen Namen dort wohnen zu lassen,
+alles bringen, was ich euch gebiete:
+eure Brandopfer, eure Schlachtopfer, eure Zehnten, die Gaben eurer Hand
+und alle eure besten Gelübde, die ihr dem HERRN gelobt.
+<sup>12</sup>Und ihr sollt euch vor dem HERRN, eurem Gott, freuen:
+ihr, eure Söhne und eure Töchter, eure Knechte und eure Mägde
+und der Levit, der in euren Toren wohnt,
+denn er hat keinen Anteil und kein Erbe bei euch.
+
+> **Was bedeutet das?**
+> Gott wird einen Ort erwählen, an dem er „seinen Namen wohnen lässt“. Dort soll das zentrale Heiligtum sein. Der Ort wird hier noch nicht genannt. Später war das zuerst Schilo und dann Jerusalem mit dem Tempel.
+> „Seinen Namen wohnen lassen“: Gott selbst ist überall und kann nicht in einem Haus eingeschlossen werden. Aber an diesem Ort ist er auf besondere Weise erreichbar.
+> „Die Gaben eurer Hand“: In der englischen Vorlage steht „wave offering“, also eine Gabe, die vor Gott hin und her geschwungen wurde.
+> Auffällig: Der Gottesdienst ist ein Fest der Freude! Man isst zusammen vor Gott. Und alle sind dabei: Kinder, Knechte, Mägde und die Leviten ohne eigenes Land. Niemand soll ausgeschlossen sein.
+
+---
+
+### Nur an diesem einen Ort opfern (Vers 13–19)
+
+<sup>13</sup>Hüte dich, deine Brandopfer an jedem beliebigen Ort darzubringen, den du siehst.
+<sup>14</sup>Sondern an dem Ort, den der HERR in einem deiner Stämme erwählt,
+dort sollst du deine Brandopfer darbringen,
+und dort sollst du alles tun, was ich dir gebiete.
+<sup>15</sup>Doch du darfst in allen deinen Städten schlachten und Fleisch essen,
+so viel du Lust hast,
+nach dem Segen, den der HERR, dein Gott, dir gegeben hat.
+Der Unreine und der Reine dürfen davon essen,
+wie man von der Gazelle und vom Hirsch isst.
+<sup>16</sup>Nur das Blut sollt ihr nicht essen.
+Du sollst es auf die Erde gießen wie Wasser.
+<sup>17</sup>Aber in deinen Städten darfst du nicht essen:
+den Zehnten von deinem Getreide, von deinem neuen Wein und von deinem Öl,
+die Erstgeborenen deiner Rinder und deiner Schafe,
+keines deiner Gelübde, die du gelobst,
+und nicht deine freiwilligen Gaben und die Gaben deiner Hand.
+<sup>18</sup>Sondern vor dem HERRN, deinem Gott, sollst du sie essen,
+an dem Ort, den der HERR, dein Gott, erwählen wird:
+du, dein Sohn und deine Tochter, dein Knecht und deine Magd
+und der Levit, der in deinen Toren wohnt.
+Und du sollst dich vor dem HERRN, deinem Gott, freuen über alles, was du mit deinen Händen geschafft hast.
+<sup>19</sup>Hüte dich, den Leviten im Stich zu lassen, solange du in deinem Land lebst.
+
+> **Was bedeutet das?**
+> Früher durfte man Fleisch fast nur als Opfer am Heiligtum essen (3. Mose 17). Wenn das Volk aber im ganzen Land verteilt wohnt, ist das nicht mehr möglich. Darum gilt jetzt: Für ein normales Essen darf man auch zu Hause schlachten.
+> „Wie die Gazelle und der Hirsch“: Diese wilden Tiere durfte man essen, aber nicht opfern. So darf jetzt auch normales Fleisch gegessen werden, ohne dass es ein Opfer ist. Darum dürfen auch Menschen davon essen, die gerade „unrein“ sind.
+> Opfer und heilige Gaben aber gehören an den einen Ort, den Gott erwählt.
+> Die Leviten hatten kein eigenes Land. Darum sollen die anderen für sie sorgen.
+
+---
+
+### Das Blut ist das Leben (Vers 20–28)
+
+<sup>20</sup>Wenn der HERR, dein Gott, dein Gebiet erweitert, wie er es dir versprochen hat,
+und du sagst: „Ich möchte Fleisch essen“,
+weil du Lust hast, Fleisch zu essen,
+dann darfst du Fleisch essen, so viel du Lust hast.
+<sup>21</sup>Wenn der Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort hinzulegen, zu weit von dir entfernt ist,
+dann sollst du von deinen Rindern und deinen Schafen schlachten, die der HERR dir gegeben hat,
+wie ich es dir geboten habe.
+Und du darfst in deinen Städten essen, so viel du Lust hast.
+<sup>22</sup>Wie man die Gazelle und den Hirsch isst, so sollst du es essen.
+Der Unreine und der Reine dürfen es gleichermaßen essen.
+<sup>23</sup>Nur sei fest entschlossen, das Blut nicht zu essen.
+Denn das Blut ist das Leben.
+Du sollst nicht das Leben mit dem Fleisch essen.
+<sup>24</sup>Du sollst es nicht essen.
+Du sollst es auf die Erde gießen wie Wasser.
+<sup>25</sup>Du sollst es nicht essen,
+damit es dir und deinen Kindern nach dir gut geht,
+wenn du tust, was in den Augen des HERRN recht ist.
+<sup>26</sup>Nur deine heiligen Gaben, die du hast, und deine Gelübde
+sollst du nehmen und an den Ort gehen, den der HERR erwählen wird.
+<sup>27</sup>Du sollst deine Brandopfer darbringen, das Fleisch und das Blut, auf dem Altar des HERRN, deines Gottes.
+Das Blut deiner Schlachtopfer soll auf den Altar des HERRN, deines Gottes, gegossen werden,
+und das Fleisch darfst du essen.
+<sup>28</sup>Achte auf all diese Worte, die ich dir gebiete, und hör auf sie,
+damit es dir und deinen Kindern nach dir für immer gut geht,
+wenn du tust, was in den Augen des HERRN, deines Gottes, gut und recht ist.
+
+> **Was bedeutet das?**
+> „Das Blut ist das Leben“: Damals verstand man das Blut als Sitz des Lebens. Das Leben gehört Gott. Darum darf man das Blut nicht essen, sondern gibt es ihm zurück, indem man es auf die Erde gießt.
+> Aus diesem Gebot kommt die jüdische Art zu schlachten („koscher“): Das Tier muss ganz ausbluten. Auch im Islam gibt es eine ähnliche Regel.
+> Das Gebot zeigt Ehrfurcht vor dem Leben, auch vor dem Leben der Tiere.
+
+---
+
+### Macht es nicht wie die Völker (Vers 29–32)
+
+<sup>29</sup>Wenn der HERR, dein Gott, die Völker vor dir ausrottet, zu denen du kommst, um sie zu vertreiben,
+und du sie vertreibst und in ihrem Land wohnst,
+<sup>30</sup>dann hüte dich, dass du dich nicht verführen lässt, es ihnen nachzumachen,
+nachdem sie vor dir vernichtet worden sind.
+Und frag nicht nach ihren Göttern und sag nicht:
+„Wie haben diese Völker ihren Göttern gedient? So will ich es auch machen.“
+<sup>31</sup>So sollst du es mit dem HERRN, deinem Gott, nicht machen.
+Denn alles, was ein Gräuel für den HERRN ist und was er hasst, das haben sie für ihre Götter getan.
+Sie haben sogar ihre Söhne und ihre Töchter für ihre Götter im Feuer verbrannt.
+<sup>32</sup>Alles, was ich euch gebiete, das sollt ihr achten und tun.
+Du sollst nichts hinzufügen und nichts davon wegnehmen.
+
+> **Was bedeutet das?**
+> Der schlimmste Gräuel: Manche Völker opferten ihre eigenen Kinder ihren Göttern. Gott verabscheut das zutiefst. Schon bei Abraham hat Gott gezeigt, dass er keine Menschenopfer will (1. Mose 22).
+> Neugier auf fremde Religionen ist an sich nichts Schlechtes. Aber Israel soll keine Bräuche übernehmen, die gegen Gottes Willen sind, besonders solche, die Menschen schaden.
+> In vielen deutschen Bibeln ist Vers 32 schon der erste Vers von Kapitel 13 (13,1). Wir folgen der Zählung der englischen Vorlage.
