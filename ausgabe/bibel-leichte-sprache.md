@@ -20119,3 +20119,305 @@ Und wer das berührt, ist unrein bis zum Abend.“
 > Die Reinigung braucht Zeit: am dritten und am siebten Tag. Es gibt keinen schnellen Weg zurück, aber es gibt einen sicheren Weg.
 > In Psalm 51,9 betet David: „Reinige mich mit Ysop, dann werde ich rein.“ Er denkt dabei wohl an diese Reinigung, aber er meint sein Herz, das von Schuld rein werden soll.
 > Dieses Gesetz konnte nach der Zerstörung des Tempels nicht mehr ausgeführt werden. Darum gelten fromme Juden heute als „unrein durch Tote“ und betreten den Ort des früheren Allerheiligsten in Jerusalem nicht.
+
+## 4. Mose – Kapitel 20
+#### Wasser aus dem Felsen – Moses Fehler – Aarons Tod
+
+---
+
+### Mirjam stirbt (Vers 1)
+
+<sup>1</sup>Die Israeliten, die ganze Gemeinde, kamen im ersten Monat in die Wüste Zin.
+Das Volk blieb in Kadesch.
+Dort starb Mirjam, und sie wurde dort begraben.
+
+> **Was bedeutet das?**
+> Hier macht die Erzählung einen großen Sprung. Seit Kapitel 14 sind fast 40 Jahre vergangen. Die alte Generation ist fast ganz gestorben. Jetzt steht die neue Generation wieder an der Grenze des Landes.
+> Mirjam, die Schwester von Mose und Aaron, stirbt. Die Bibel berichtet es ganz kurz. Mirjam hat Mose als Baby gerettet und nach dem Durchzug durch das Meer gesungen und getanzt.
+> Jüdische Ausleger erzählen: Solange Mirjam lebte, gab es einen Brunnen, der mit dem Volk mitzog. Darum heißt es direkt danach: „Es gab kein Wasser.“
+
+---
+
+### Kein Wasser (Vers 2–6)
+
+<sup>2</sup>Die Gemeinde hatte kein Wasser.
+Da versammelten sie sich gegen Mose und gegen Aaron.
+<sup>3</sup>Das Volk stritt mit Mose und sagte:
+„Wären wir doch gestorben, als unsere Brüder vor dem HERRN gestorben sind!
+<sup>4</sup>Warum habt ihr die Versammlung des HERRN in diese Wüste gebracht,
+damit wir hier sterben, wir und unser Vieh?
+<sup>5</sup>Warum habt ihr uns aus Ägypten heraufgeführt,
+um uns an diesen schlimmen Ort zu bringen?
+Hier gibt es kein Getreide, keine Feigen, keine Weinstöcke und keine Granatäpfel.
+Und es gibt kein Wasser zum Trinken.“
+<sup>6</sup>Mose und Aaron gingen weg von der Versammlung zum Eingang des Zeltes der Begegnung
+und warfen sich auf ihr Gesicht nieder.
+Da erschien ihnen die Herrlichkeit des HERRN.
+
+> **Was bedeutet das?**
+> Die neue Generation klagt genauso wie ihre Eltern. Die Worte klingen fast gleich wie 40 Jahre zuvor.
+> Mose und Aaron antworten nicht mit Worten. Sie gehen zu Gott.
+
+---
+
+### Moses Fehler am Felsen (Vers 7–13)
+
+<sup>7</sup>Der HERR sprach zu Mose:
+<sup>8</sup>„Nimm den Stab.
+Versammle die Gemeinde, du und dein Bruder Aaron.
+Und redet vor ihren Augen zu dem Felsen, dass er sein Wasser gibt.
+So sollst du ihnen Wasser aus dem Felsen hervorbringen.
+So sollst du der Gemeinde und ihrem Vieh zu trinken geben.“
+<sup>9</sup>Mose nahm den Stab, der vor dem HERRN lag, wie er es ihm befohlen hatte.
+
+<sup>10</sup>Mose und Aaron versammelten die Versammlung vor dem Felsen.
+Und er sagte zu ihnen:
+„Hört doch, ihr Aufrührer!
+Sollen wir euch aus diesem Felsen Wasser hervorbringen?“
+<sup>11</sup>Mose hob seine Hand und schlug mit seinem Stab zweimal auf den Felsen.
+Da kam viel Wasser heraus.
+Und die Gemeinde und ihr Vieh tranken.
+
+<sup>12</sup>Der HERR sagte zu Mose und zu Aaron:
+„Weil ihr mir nicht geglaubt habt
+und mich vor den Augen der Israeliten nicht als heilig gezeigt habt,
+darum werdet ihr diese Versammlung nicht in das Land bringen, das ich ihnen gegeben habe.“
+<sup>13</sup>Das ist das Wasser von Meriba,
+wo die Israeliten mit dem HERRN stritten
+und wo er sich unter ihnen als heilig erwies.
+
+> **Was bedeutet das?**
+> Das ist eine der traurigsten Stellen über Mose. Gott hatte gesagt: „Redet zu dem Felsen.“ Aber Mose schlägt zweimal mit dem Stab darauf. Das Wasser kommt trotzdem, denn Gott lässt sein Volk nicht verdursten.
+> Was genau war der Fehler? Darüber haben Juden und Christen viel nachgedacht:
+> Mose hat nicht genau getan, was Gott gesagt hatte. Er hat geschlagen statt geredet.
+> Mose war zornig und hat das Volk „Aufrührer“ genannt.
+> Mose sagte: „Sollen *wir* euch Wasser geben?“ Als ob er und Aaron das Wunder tun, nicht Gott.
+> Die Folge ist hart: Mose und Aaron dürfen das versprochene Land nicht betreten. Nach 40 Jahren treuen Dienstes ist das kaum zu fassen.
+> Es zeigt: Wer eine große Verantwortung trägt, wird auch nach strengeren Maßstäben gemessen. Aber Gott verlässt Mose nicht. Er bleibt bis zum Ende sein Freund.
+> „Meriba“ heißt „Streit“. Schon in 2. Mose 17,7 gab es einen Ort mit diesem Namen.
+
+---
+
+### Edom lässt Israel nicht durchziehen (Vers 14–21)
+
+<sup>14</sup>Mose schickte von Kadesch Boten zum König von Edom und ließ ihm sagen:
+„So sagt dein Bruder Israel:
+Du kennst all die Not, die uns getroffen hat.
+<sup>15</sup>Unsere Väter zogen nach Ägypten hinab, und wir lebten lange Zeit in Ägypten.
+Die Ägypter misshandelten uns und unsere Väter.
+<sup>16</sup>Da schrien wir zum HERRN, und er hörte unsere Stimme.
+Er schickte einen Engel und führte uns aus Ägypten heraus.
+Schau: Jetzt sind wir in Kadesch, einer Stadt am Rand deines Gebiets.
+<sup>17</sup>Lass uns bitte durch dein Land ziehen.
+Wir werden nicht durch Felder oder Weinberge ziehen
+und kein Wasser aus den Brunnen trinken.
+Wir werden auf der Königsstraße gehen.
+Wir werden weder nach rechts noch nach links abbiegen, bis wir durch dein Gebiet gezogen sind.“
+<sup>18</sup>Aber Edom sagte zu ihm:
+„Du sollst nicht durch mein Land ziehen.
+Sonst ziehe ich dir mit dem Schwert entgegen.“
+<sup>19</sup>Die Israeliten sagten zu ihm:
+„Wir werden auf der Hauptstraße hinaufziehen.
+Und wenn wir von deinem Wasser trinken, ich und mein Vieh, dann bezahle ich dafür.
+Lass mich nur zu Fuß durchziehen, sonst nichts.“
+<sup>20</sup>Er sagte: „Du sollst nicht durchziehen.“
+Und Edom zog ihm mit viel Volk und mit starker Macht entgegen.
+<sup>21</sup>So weigerte sich Edom, Israel durch sein Gebiet ziehen zu lassen.
+Darum wich Israel ihm aus.
+
+> **Was bedeutet das?**
+> Die Edomiter sind Nachkommen von Esau, dem Zwillingsbruder Jakobs (1. Mose 36). Darum nennt Israel sich „dein Bruder“.
+> Israel bittet sehr höflich und verspricht, nichts zu nehmen und für alles zu bezahlen. Aber Edom sagt Nein.
+> Israel kämpft nicht gegen Edom, sondern macht einen Umweg. Gott hatte Israel verboten, gegen Edom zu kämpfen, weil sie Brüder sind (5. Mose 2,4–5).
+> Die „Königsstraße“ war eine wichtige Handelsstraße östlich des Jordan, von Ägypten bis nach Syrien.
+
+---
+
+### Aaron stirbt (Vers 22–29)
+
+<sup>22</sup>Sie brachen von Kadesch auf,
+und die Israeliten, die ganze Gemeinde, kamen zum Berg Hor.
+<sup>23</sup>Der HERR sprach zu Mose und zu Aaron auf dem Berg Hor, an der Grenze des Landes Edom:
+<sup>24</sup>„Aaron soll zu seinem Volk versammelt werden.
+Denn er soll nicht in das Land kommen, das ich den Israeliten gegeben habe,
+weil ihr euch am Wasser von Meriba gegen meinen Befehl aufgelehnt habt.
+<sup>25</sup>Nimm Aaron und seinen Sohn Eleasar und führe sie hinauf auf den Berg Hor.
+<sup>26</sup>Zieh Aaron seine Kleider aus und zieh sie seinem Sohn Eleasar an.
+Aaron soll versammelt werden und dort sterben.“
+
+<sup>27</sup>Mose tat, wie der HERR befohlen hatte.
+Sie stiegen vor den Augen der ganzen Gemeinde auf den Berg Hor.
+<sup>28</sup>Mose zog Aaron seine Kleider aus und zog sie seinem Sohn Eleasar an.
+Und Aaron starb dort auf dem Gipfel des Berges.
+Dann stiegen Mose und Eleasar vom Berg herab.
+<sup>29</sup>Als die ganze Gemeinde sah, dass Aaron gestorben war,
+weinte das ganze Haus Israel 30 Tage lang um Aaron.
+
+> **Was bedeutet das?**
+> „Zu seinem Volk versammelt werden“ ist ein schöner Ausdruck für das Sterben. Er bedeutet: Man geht zu den Vorfahren, die schon gestorben sind.
+> Aarons Tod ist ruhig und würdevoll. Vor seinem Tod werden ihm die Priesterkleider ausgezogen und seinem Sohn Eleasar angezogen. So geht das Amt weiter. Aaron kann sehen, wie sein Sohn sein Nachfolger wird.
+> Mose begleitet seinen Bruder bis zum Ende. Das ganze Volk trauert 30 Tage lang, so wie später um Mose (5. Mose 34,8).
+> Aaron hatte Fehler gemacht, zum Beispiel beim goldenen Kalb. Aber er hat auch viele Jahre treu gedient. Das Volk vergisst ihn nicht.
+
+## 4. Mose – Kapitel 21
+#### Die Schlange aus Bronze und erste Siege
+
+---
+
+### Sieg über Arad (Vers 1–3)
+
+<sup>1</sup>Der Kanaaniter, der König von Arad, der im Südland wohnte,
+hörte, dass Israel auf dem Weg von Atarim kam.
+Er kämpfte gegen Israel und nahm einige von ihnen gefangen.
+<sup>2</sup>Da legte Israel dem HERRN ein Gelübde ab und sagte:
+„Wenn du dieses Volk wirklich in meine Hand gibst,
+dann will ich ihre Städte ganz vernichten und dem Bann übergeben.“
+<sup>3</sup>Der HERR hörte auf die Stimme Israels und gab die Kanaaniter in ihre Hand.
+Und sie vernichteten sie und ihre Städte ganz.
+Man nannte den Ort Horma.
+
+> **Was bedeutet das?**
+> „Dem Bann übergeben“ heißt auf Hebräisch „Cherem“. Es bedeutet: Alles wird ganz Gott übergeben und vernichtet. Niemand darf Beute machen.
+> Das ist für uns heute eine der schwersten Seiten der Bibel. In den Kriegen bei der Eroberung des Landes wurden ganze Städte zerstört und ihre Bewohner getötet.
+> Man muss das ehrlich sagen: Das war furchtbar. Damals führten alle Völker so Krieg. Viele Juden und Christen verstehen diese Texte heute so: Sie erzählen, wie Israel damals seine Geschichte und den Krieg verstand. Sie sind keine Anleitung für heute. Niemand darf sich auf diese Stellen berufen, um Gewalt gegen andere Menschen zu rechtfertigen.
+> Spätere Teile der Bibel zeigen Gottes Liebe zu allen Völkern, zum Beispiel das Buch Jona. Und Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
+> „Horma“ bedeutet „Bann“ oder „Vernichtung“. Dort war Israel 40 Jahre zuvor besiegt worden (4. Mose 14,45). Jetzt siegt die neue Generation am selben Ort.
+
+---
+
+### Die Schlangen und die Schlange aus Bronze (Vers 4–9)
+
+<sup>4</sup>Sie brachen vom Berg Hor auf, auf dem Weg zum Roten Meer, um das Land Edom zu umgehen.
+Auf dem Weg wurde das Volk sehr ungeduldig.
+<sup>5</sup>Das Volk redete gegen Gott und gegen Mose:
+„Warum habt ihr uns aus Ägypten heraufgeführt, damit wir in der Wüste sterben?
+Denn es gibt kein Brot und kein Wasser.
+Und uns ekelt vor diesem elenden Essen!“
+<sup>6</sup>Da schickte der HERR giftige Schlangen unter das Volk.
+Sie bissen die Leute, und viele Menschen in Israel starben.
+<sup>7</sup>Das Volk kam zu Mose und sagte:
+„Wir haben gesündigt.
+Denn wir haben gegen den HERRN und gegen dich geredet.
+Bete zum HERRN, dass er die Schlangen von uns wegnimmt.“
+Und Mose betete für das Volk.
+
+<sup>8</sup>Der HERR sagte zu Mose:
+„Mach dir eine giftige Schlange und befestige sie an einer Stange.
+Jeder, der gebissen wurde und sie ansieht, wird am Leben bleiben.“
+<sup>9</sup>Mose machte eine Schlange aus Bronze und befestigte sie an der Stange.
+Wenn eine Schlange jemanden gebissen hatte und er die Schlange aus Bronze ansah,
+dann blieb er am Leben.
+
+> **Was bedeutet das?**
+> Wieder beschwert sich das Volk, diesmal über das Manna, das „elende Essen“. Dabei ist es Brot vom Himmel.
+> Im Hebräischen heißen die Schlangen „Saraf“, das bedeutet „brennend“. Vielleicht weil ihr Biss brennt wie Feuer. Darum steht in vielen deutschen Bibeln „feurige Schlangen“.
+> Diesmal geschieht etwas Neues: Das Volk sagt selbst: „Wir haben gesündigt.“ Es bittet Mose um sein Gebet.
+> Gott nimmt die Schlangen nicht einfach weg. Aber er gibt ein Mittel zur Rettung. Wer gebissen ist, soll auf die Schlange aus Bronze schauen. Das war kein Zauber. Wer aufschaute, zeigte damit sein Vertrauen auf Gott.
+> Die Schlange an einem Stab ist bis heute ein Zeichen für Medizin und Apotheken. Ob dieses Zeichen von hier kommt oder aus der griechischen Sage vom Asklepios-Stab, ist umstritten.
+> Jesus selbst hat diese Geschichte auf sich bezogen: „Wie Mose in der Wüste die Schlange erhöht hat, so muss der Menschensohn erhöht werden, damit jeder, der an ihn glaubt, ewiges Leben hat“ (Johannes 3,14–15). So wie die Gebissenen auf die Schlange schauten, sollen Menschen auf Jesus am Kreuz schauen.
+> Später wurde diese Bronzeschlange selbst zu einem Götzen. König Hiskia zerschlug sie deshalb (2. Könige 18,4).
+
+---
+
+### Die Wanderung bis zum Arnon (Vers 10–15)
+
+<sup>10</sup>Die Israeliten brachen auf und lagerten in Obot.
+<sup>11</sup>Von Obot brachen sie auf und lagerten in Ije-Abarim,
+in der Wüste, die vor Moab liegt, nach Sonnenaufgang hin.
+<sup>12</sup>Von dort brachen sie auf und lagerten im Tal Sered.
+<sup>13</sup>Von dort brachen sie auf und lagerten auf der anderen Seite des Arnon,
+in der Wüste, die vom Gebiet der Amoriter ausgeht.
+Denn der Arnon ist die Grenze von Moab, zwischen Moab und den Amoritern.
+<sup>14</sup>Darum heißt es im Buch der Kriege des HERRN:
+„Waheb in Sufa und die Täler des Arnon,
+<sup>15</sup>und der Abhang der Täler, der sich bis zum Wohnsitz von Ar neigt
+und sich an die Grenze von Moab lehnt.“
+
+> **Was bedeutet das?**
+> Das „Buch der Kriege des HERRN“ war ein altes Buch mit Liedern und Gedichten. Es ist leider verloren gegangen. Die Bibel zitiert hier nur ein kleines Stück daraus.
+> Der Arnon ist ein tiefes Flusstal, das in das Tote Meer mündet. Er bildete die Grenze zwischen Moab im Süden und dem Land der Amoriter im Norden.
+
+---
+
+### Das Brunnenlied (Vers 16–20)
+
+<sup>16</sup>Von dort zogen sie nach Beer.
+Das ist der Brunnen, von dem der HERR zu Mose gesagt hatte:
+„Versammle das Volk, und ich will ihnen Wasser geben.“
+<sup>17</sup>Damals sang Israel dieses Lied:
+„Spring auf, Brunnen! Singt ihm zu!
+<sup>18</sup>Den Brunnen, den die Fürsten gegraben haben,
+den die Edlen des Volkes ausgehoben haben,
+mit dem Zepter und mit ihren Stäben.“
+Von der Wüste zogen sie weiter nach Mattana,
+<sup>19</sup>von Mattana nach Nahaliël, von Nahaliël nach Bamot,
+<sup>20</sup>und von Bamot zu dem Tal, das im Gebiet von Moab liegt,
+zum Gipfel des Pisga, der auf die Wüste hinabschaut.
+
+> **Was bedeutet das?**
+> Was für ein Unterschied zu Kapitel 20! Dort stritten sie wegen des Wassers. Hier singen sie ein fröhliches Lied, als Gott ihnen Wasser gibt.
+> „Beer“ heißt „Brunnen“.
+> Vom Gipfel des Pisga wird Mose später das versprochene Land sehen, bevor er stirbt (5. Mose 34,1).
+
+---
+
+### Sieg über Sihon, den König der Amoriter (Vers 21–32)
+
+<sup>21</sup>Israel schickte Boten zu Sihon, dem König der Amoriter, und ließ ihm sagen:
+<sup>22</sup>„Lass mich durch dein Land ziehen.
+Wir werden nicht in Felder oder Weinberge abbiegen.
+Wir werden kein Wasser aus den Brunnen trinken.
+Wir werden auf der Königsstraße gehen, bis wir durch dein Gebiet gezogen sind.“
+<sup>23</sup>Aber Sihon erlaubte Israel nicht, durch sein Gebiet zu ziehen.
+Sondern Sihon versammelte sein ganzes Volk und zog Israel entgegen in die Wüste.
+Er kam nach Jahaz und kämpfte gegen Israel.
+<sup>24</sup>Israel schlug ihn mit der Schärfe des Schwertes
+und nahm sein Land in Besitz, vom Arnon bis zum Jabbok, bis zu den Ammonitern.
+Denn die Grenze der Ammoniter war befestigt.
+<sup>25</sup>Israel nahm alle diese Städte ein.
+Und Israel wohnte in allen Städten der Amoriter, in Heschbon und in allen dazugehörigen Dörfern.
+<sup>26</sup>Denn Heschbon war die Stadt von Sihon, dem König der Amoriter.
+Er hatte gegen den früheren König von Moab gekämpft
+und ihm sein ganzes Land bis zum Arnon weggenommen.
+
+<sup>27</sup>Darum sagen die Spruchdichter:
+„Kommt nach Heschbon!
+Die Stadt Sihons soll aufgebaut und befestigt werden!
+<sup>28</sup>Denn ein Feuer ist aus Heschbon ausgegangen, eine Flamme aus der Stadt Sihons.
+Es hat Ar in Moab verzehrt, die Herren der Höhen am Arnon.
+<sup>29</sup>Wehe dir, Moab!
+Du bist verloren, Volk des Kemosch!
+Er hat seine Söhne zu Flüchtlingen gemacht und seine Töchter zu Gefangenen
+von Sihon, dem König der Amoriter.
+<sup>30</sup>Wir haben auf sie geschossen.
+Heschbon ist zugrunde gegangen bis nach Dibon.
+Wir haben verwüstet bis nach Nofach, das bis nach Medeba reicht.“
+<sup>31</sup>So wohnte Israel im Land der Amoriter.
+<sup>32</sup>Mose schickte Leute, um Jaser zu erkunden.
+Sie nahmen die dazugehörigen Dörfer ein und vertrieben die Amoriter, die dort wohnten.
+
+> **Was bedeutet das?**
+> Wie bei Edom bittet Israel friedlich um Durchzug. Aber Sihon greift an. Darum kommt es zum Krieg.
+> Das Land zwischen den Flüssen Arnon und Jabbok liegt östlich des Jordan, im heutigen Jordanien. Hier wird Israel zum ersten Mal sesshaft.
+> Das Lied in Vers 27–30 ist ein altes Siegeslied. Es spottet über Moab: Erst hat Sihon Moab besiegt. Jetzt hat Israel Sihon besiegt.
+> „Kemosch“ war der Gott der Moabiter.
+
+---
+
+### Sieg über Og, den König von Baschan (Vers 33–35)
+
+<sup>33</sup>Dann wandten sie sich um und zogen auf dem Weg nach Baschan hinauf.
+Og, der König von Baschan, zog ihnen entgegen, er und sein ganzes Volk, zum Kampf bei Edreï.
+<sup>34</sup>Der HERR sagte zu Mose:
+„Hab keine Angst vor ihm!
+Denn ich habe ihn in deine Hand gegeben, mit seinem ganzen Volk und seinem Land.
+Du sollst mit ihm machen, wie du mit Sihon gemacht hast, dem König der Amoriter, der in Heschbon wohnte.“
+<sup>35</sup>Da schlugen sie ihn, seine Söhne und sein ganzes Volk,
+bis keiner mehr übrig blieb.
+Und sie nahmen sein Land in Besitz.
+
+> **Was bedeutet das?**
+> Baschan liegt im Norden, im Gebiet der heutigen Golanhöhen. Og war berühmt als einer der letzten Riesen (5. Mose 3,11).
+> 40 Jahre zuvor hatte das Volk Angst vor den Riesen. Jetzt sagt Gott: „Hab keine Angst!“ Und die neue Generation vertraut und siegt.
+> Auch hier gilt, was oben zu Vers 3 gesagt wurde: Dass ein ganzes Volk getötet wird, ist schrecklich. Die Bibel erzählt es aus der Sicht der damaligen Zeit. Für heute gilt Gottes Gebot der Feindesliebe.
+> Die Siege über Sihon und Og wurden später in Israel immer wieder besungen, zum Beispiel in Psalm 135,11 und Psalm 136,19–20.
