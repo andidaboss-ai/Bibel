@@ -19428,3 +19428,392 @@ Sie schlugen sie und zersprengten sie bis nach Horma.
 > Jetzt, wo es zu spät ist, wollen sie doch hinaufziehen. Aber das ist kein echtes Vertrauen auf Gott, sondern Trotz. Gestern sagte Gott „Geht!“, und sie wollten nicht. Heute sagt Gott „Bleibt!“, und sie gehen trotzdem.
 > Ohne Gott und ohne die Bundeslade ziehen sie los. Und sie verlieren.
 > Die Geschichte zeigt: Es kommt nicht nur darauf an, das Richtige zu tun, sondern es zur richtigen Zeit und mit Gott zu tun.
+
+## 4. Mose – Kapitel 15
+#### Regeln für das Leben im Land – die Quasten an den Kleidern
+
+---
+
+### Speiseopfer und Trankopfer zu den Tieropfern (Vers 1–12)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr in das Land kommt, in dem ihr wohnen werdet, das ich euch gebe,
+<sup>3</sup>und ihr bringt dem HERRN ein Feueropfer –
+ein Brandopfer oder ein Schlachtopfer, um ein Gelübde zu erfüllen,
+oder als freiwillige Gabe oder an euren Festen,
+um dem HERRN einen angenehmen Duft zu bereiten,
+von den Rindern oder von den Schafen und Ziegen –,
+<sup>4</sup>dann soll der, der seine Opfergabe bringt, dem HERRN ein Speiseopfer bringen:
+gut 2 Liter feines Mehl, vermengt mit einem Liter Öl.
+<sup>5</sup>Und einen Liter Wein sollst du als Trankopfer bereiten,
+zum Brandopfer oder zum Schlachtopfer, für jedes Lamm.
+
+<sup>6</sup>Für einen Schafbock sollst du als Speiseopfer bereiten:
+gut 4 Liter feines Mehl, vermengt mit gut einem Liter Öl.
+<sup>7</sup>Und als Trankopfer sollst du gut einen Liter Wein bringen,
+als angenehmen Duft für den HERRN.
+<sup>8</sup>Wenn du einen jungen Stier als Brandopfer oder als Schlachtopfer bereitest,
+um ein Gelübde zu erfüllen, oder als Gemeinschaftsopfer für den HERRN,
+<sup>9</sup>dann soll man mit dem Stier ein Speiseopfer bringen:
+gut 6,5 Liter feines Mehl, vermengt mit zwei Litern Öl.
+<sup>10</sup>Und als Trankopfer sollst du zwei Liter Wein bringen,
+als Feueropfer, als angenehmen Duft für den HERRN.
+<sup>11</sup>So soll man es machen bei jedem Stier, bei jedem Schafbock,
+bei jedem männlichen Lamm oder jungen Ziegenbock.
+<sup>12</sup>Nach der Zahl der Tiere, die ihr darbringt,
+so sollt ihr es bei jedem einzelnen machen, nach ihrer Zahl.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: ein Zehntel, zwei Zehntel oder drei Zehntel Efa Mehl, und ein Viertel, ein Drittel oder ein halbes Hin Öl und Wein. Ein Efa sind etwa 22 Liter, ein Hin etwa 4 Liter.
+> Direkt nach der Geschichte von den Kundschaftern sagt Gott: „Wenn ihr in das Land kommt …“ Das ist ein Zeichen der Hoffnung. Die Strafe ist nicht das letzte Wort. Israel wird in das Land kommen, mit Feldern für Mehl, Ölbäumen und Weinbergen.
+> Zu jedem Tieropfer gehören Mehl, Öl und Wein. Je größer das Tier, desto mehr. Es ist wie ein vollständiges Festessen.
+
+---
+
+### Gleiches Recht für Fremde (Vers 13–16)
+
+<sup>13</sup>Alle Einheimischen sollen es so machen,
+wenn sie ein Feueropfer bringen, als angenehmen Duft für den HERRN.
+<sup>14</sup>Wenn ein Fremder als Ausländer bei euch lebt,
+oder wer auch immer in euren Generationen unter euch ist,
+und er will ein Feueropfer bringen, als angenehmen Duft für den HERRN,
+dann soll er es genauso machen wie ihr.
+<sup>15</sup>Für die Versammlung soll eine einzige Ordnung gelten,
+für euch und für den Fremden, der als Ausländer bei euch lebt,
+eine feste Ordnung für alle Zeiten, für alle eure Generationen.
+Wie ihr, so soll der Fremde vor dem HERRN sein.
+<sup>16</sup>Ein Gesetz und eine Rechtsbestimmung soll gelten,
+für euch und für den Fremden, der als Ausländer bei euch lebt.‘“
+
+> **Was bedeutet das?**
+> Viermal wird hier betont: Für den Fremden gilt dasselbe wie für den Israeliten. „Wie ihr, so soll der Fremde vor dem HERRN sein.“
+> Vor Gott gibt es keine Menschen erster und zweiter Klasse. Jeder darf kommen und Gott seine Gabe bringen.
+
+---
+
+### Das erste Brot für Gott (Vers 17–21)
+
+<sup>17</sup>Der HERR sprach zu Mose:
+<sup>18</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr in das Land kommt, in das ich euch bringe,
+<sup>19</sup>und ihr esst vom Brot des Landes,
+dann sollt ihr dem HERRN eine Gabe abgeben.
+<sup>20</sup>Vom Ersten eures Teiges sollt ihr einen Brotfladen als Gabe abgeben.
+So wie die Gabe vom Dreschplatz, so sollt ihr ihn abgeben.
+<sup>21</sup>Vom Ersten eures Teiges sollt ihr dem HERRN eine Gabe geben, für alle eure Generationen.‘
+
+> **Was bedeutet das?**
+> Jedes Mal, wenn man Brot backt, soll man ein Stück vom Teig für Gott abgeben. So denkt man auch beim täglichen Brot an den Geber.
+> Bis heute nehmen viele jüdische Frauen beim Brotbacken ein kleines Stück Teig ab und verbrennen es. Diesen Brauch nennt man „Challa nehmen“. Daher kommt auch der Name „Challa“ für das Sabbatbrot.
+> Christen beten im Vaterunser: „Unser tägliches Brot gib uns heute.“
+
+---
+
+### Wenn die Gemeinde ohne Absicht sündigt (Vers 22–26)
+
+<sup>22</sup>Wenn ihr aus Versehen etwas falsch macht
+und nicht alle diese Gebote haltet, die der HERR zu Mose gesagt hat,
+<sup>23</sup>alles, was der HERR euch durch Mose befohlen hat,
+von dem Tag an, an dem der HERR die Gebote gegeben hat, und weiter für alle eure Generationen,
+<sup>24</sup>und wenn es ohne Absicht geschehen ist, ohne dass die Gemeinde es wusste,
+dann soll die ganze Gemeinde einen jungen Stier als Brandopfer darbringen,
+als angenehmen Duft für den HERRN,
+mit seinem Speiseopfer und seinem Trankopfer, wie es vorgeschrieben ist,
+und einen Ziegenbock als Sündopfer.
+<sup>25</sup>Der Priester soll für die ganze Gemeinde der Israeliten Versöhnung schaffen,
+und es wird ihnen vergeben.
+Denn es war ein Versehen.
+Und sie haben ihre Opfergabe gebracht, ein Feueropfer für den HERRN,
+und ihr Sündopfer vor den HERRN, wegen ihres Versehens.
+<sup>26</sup>Der ganzen Gemeinde der Israeliten wird vergeben,
+und auch dem Fremden, der als Ausländer unter ihnen lebt.
+Denn das ganze Volk hat es ohne Absicht getan.
+
+---
+
+### Wenn ein einzelner Mensch ohne Absicht sündigt (Vers 27–29)
+
+<sup>27</sup>Wenn ein einzelner Mensch ohne Absicht sündigt,
+dann soll er eine einjährige Ziege als Sündopfer bringen.
+<sup>28</sup>Der Priester soll vor dem HERRN Versöhnung schaffen für den Menschen, der sich verfehlt hat,
+weil er ohne Absicht gesündigt hat.
+Er soll für ihn Versöhnung schaffen, und es wird ihm vergeben.
+<sup>29</sup>Ihr sollt ein und dasselbe Gesetz haben für den, der etwas ohne Absicht tut,
+für den Einheimischen unter den Israeliten und für den Fremden, der als Ausländer unter ihnen lebt.
+
+> **Was bedeutet das?**
+> Für Fehler, die man ohne Absicht macht, gibt es immer einen Weg zur Vergebung. Das kennen wir schon aus 3. Mose 4.
+
+---
+
+### Wer mit erhobener Hand sündigt (Vers 30–31)
+
+<sup>30</sup>Aber wer etwas mit erhobener Hand tut,
+sei er Einheimischer oder Fremder,
+der lästert den HERRN.
+Dieser Mensch soll aus seinem Volk ausgeschlossen werden.
+<sup>31</sup>Denn er hat das Wort des HERRN verachtet und sein Gebot gebrochen.
+Dieser Mensch soll ganz ausgeschlossen werden.
+Seine Schuld liegt auf ihm.‘“
+
+> **Was bedeutet das?**
+> „Mit erhobener Hand“ heißt: absichtlich, frech, trotzig. Jemand weiß genau, dass etwas falsch ist, und tut es trotzdem, um Gott zu verhöhnen.
+> Für so etwas gibt es kein Opfer. Opfer helfen nur, wenn man bereut. Wer Gott absichtlich und ohne Reue verachtet, schließt sich selbst aus.
+> Aber die Bibel zeigt an vielen Stellen: Wenn ein Mensch wirklich umkehrt und bereut, ist Gott auch dann bereit zu vergeben (zum Beispiel König David in Psalm 51).
+
+---
+
+### Ein Mann sammelt am Sabbat Holz (Vers 32–36)
+
+<sup>32</sup>Als die Israeliten in der Wüste waren,
+fanden sie einen Mann, der am Sabbattag Holz sammelte.
+<sup>33</sup>Die ihn beim Holzsammeln gefunden hatten,
+brachten ihn zu Mose und Aaron und zur ganzen Gemeinde.
+<sup>34</sup>Sie nahmen ihn in Gewahrsam.
+Denn es war noch nicht klar gesagt worden, was mit ihm geschehen sollte.
+<sup>35</sup>Der HERR sagte zu Mose:
+„Der Mann muss getötet werden.
+Die ganze Gemeinde soll ihn draußen vor dem Lager steinigen.“
+<sup>36</sup>Da brachte ihn die ganze Gemeinde hinaus vor das Lager,
+und sie steinigten ihn zu Tode, wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht wohl hier als Beispiel für eine Sünde „mit erhobener Hand“. Der Mann wusste, dass am Sabbat keine Arbeit getan werden darf (2. Mose 35,2–3). Trotzdem tat er es öffentlich.
+> Die Strafe ist für uns heute erschreckend hart. Die Bibel erzählt sie ohne Beschönigung. Sie zeigt, wie ernst der Sabbat damals genommen wurde. Er war das Zeichen des Bundes zwischen Gott und Israel (2. Mose 31,13–17).
+> Jesus hat später den Sinn des Sabbats neu betont: „Der Sabbat ist für den Menschen da, nicht der Mensch für den Sabbat“ (Markus 2,27). Und er hat am Sabbat Menschen geheilt.
+> Auch hier gilt: Die großen jüdischen und christlichen Gemeinschaften lehnen solche Strafen heute ab.
+
+---
+
+### Die Quasten an den Kleidern (Vers 37–41)
+
+<sup>37</sup>Der HERR sprach zu Mose:
+<sup>38</sup>„Sprich zu den Israeliten und sag ihnen,
+dass sie sich Quasten an die Zipfel ihrer Kleider machen sollen, für alle ihre Generationen.
+Und an die Quaste jedes Zipfels sollen sie eine blaue Schnur machen.
+<sup>39</sup>Das soll für euch eine Quaste sein.
+Wenn ihr sie anseht, sollt ihr an alle Gebote des HERRN denken und sie tun.
+Und ihr sollt nicht eurem eigenen Herzen und euren eigenen Augen folgen,
+denen ihr nachlauft wie Prostituierte.
+<sup>40</sup>So sollt ihr an alle meine Gebote denken und sie tun
+und heilig sein für euren Gott.
+<sup>41</sup>Ich bin der HERR, euer Gott,
+der euch aus dem Land Ägypten herausgeführt hat, um euer Gott zu sein.
+Ich bin der HERR, euer Gott.“
+
+> **Was bedeutet das?**
+> Die Quasten heißen auf Hebräisch „Zizit“. Sie sind wie ein Knoten im Taschentuch: Wenn man sie sieht, erinnert man sich an Gottes Gebote.
+> Die blaue Farbe war sehr teuer. Sie erinnert an den Himmel und an die Kleider der Priester. Jeder Israelit, nicht nur der Priester, trägt etwas Blaues als Zeichen: Ich gehöre zu Gott.
+> „Nicht dem eigenen Herzen und den eigenen Augen folgen“ – Menschen lassen sich leicht von dem leiten, was sie sehen und haben wollen. Die Quasten sollen helfen, sich stattdessen an Gott zu orientieren.
+> Bis heute tragen fromme Juden diese Quasten an einem Gebetsschal (Tallit) oder an einem Untergewand. Auch Jesus trug solche Quasten. Die kranke Frau berührte die „Quaste seines Gewandes“ (Matthäus 9,20).
+> Die Verse 37–41 gehören zum „Schma Israel“, dem wichtigsten jüdischen Gebet, das morgens und abends gesprochen wird.
+
+## 4. Mose – Kapitel 16
+#### Der Aufstand von Korach
+
+---
+
+### Korach und seine Leute lehnen sich auf (Vers 1–3)
+
+<sup>1</sup>Korach, der Sohn von Jizhar, dem Sohn von Kehat, dem Sohn von Levi,
+nahm sich Männer,
+zusammen mit Datan und Abiram, den Söhnen von Eliab,
+und On, dem Sohn von Pelet, die vom Stamm Ruben waren.
+<sup>2</sup>Sie stellten sich gegen Mose,
+zusammen mit 250 Männern von den Israeliten,
+Anführern der Gemeinde, Männern, die in die Versammlung berufen waren, angesehenen Männern.
+<sup>3</sup>Sie versammelten sich gegen Mose und gegen Aaron und sagten zu ihnen:
+„Ihr nehmt euch zu viel heraus!
+Die ganze Gemeinde ist heilig, jeder Einzelne von ihnen,
+und der HERR ist mitten unter ihnen.
+Warum erhebt ihr euch über die Versammlung des HERRN?“
+
+> **Was bedeutet das?**
+> Jetzt kommt der größte Aufstand gegen Mose und Aaron.
+> Korach ist ein Levit aus der Familie Kehat, ein Cousin von Mose und Aaron. Er hat schon einen wichtigen Dienst am Heiligtum. Aber er will mehr: Er will Priester sein wie Aaron.
+> Datan, Abiram und On kommen aus dem Stamm Ruben. Ruben war der Erstgeborene Jakobs. Vielleicht fühlten sie sich zurückgesetzt und wollten die Führung.
+> Ihr Argument klingt gut: „Alle sind heilig!“ Das stimmt sogar (2. Mose 19,6). Aber sie benutzen diesen Satz, um selbst Macht zu bekommen. Es geht ihnen nicht um Gott, sondern um sich selbst.
+
+---
+
+### Mose antwortet Korach (Vers 4–11)
+
+<sup>4</sup>Als Mose das hörte, warf er sich auf sein Gesicht nieder.
+<sup>5</sup>Er sagte zu Korach und zu seiner ganzen Gruppe:
+„Morgen wird der HERR zeigen, wer zu ihm gehört und wer heilig ist.
+Den wird er zu sich herantreten lassen.
+Wen er erwählt, den wird er zu sich herantreten lassen.
+<sup>6</sup>Macht Folgendes:
+Korach und seine ganze Gruppe sollen Räucherpfannen nehmen,
+<sup>7</sup>morgen Feuer hineinlegen und Räucherwerk darauf streuen, vor dem HERRN.
+Der Mann, den der HERR erwählt, der ist heilig.
+Ihr nehmt euch zu viel heraus, ihr Leviten!“
+
+<sup>8</sup>Mose sagte zu Korach:
+„Hört doch, ihr Leviten!
+<sup>9</sup>Ist es euch zu wenig, dass der Gott Israels euch aus der Gemeinde Israels ausgesondert hat?
+Er hat euch zu sich herantreten lassen,
+damit ihr den Dienst an der Wohnung des HERRN tut
+und vor der Gemeinde steht, um ihr zu dienen.
+<sup>10</sup>Er hat dich herantreten lassen und alle deine Brüder, die Leviten, mit dir.
+Und jetzt wollt ihr auch noch das Priesteramt?
+<sup>11</sup>Darum habt ihr euch, du und deine ganze Gruppe, gegen den HERRN zusammengetan!
+Denn wer ist Aaron, dass ihr euch gegen ihn beschwert?“
+
+> **Was bedeutet das?**
+> Mose antwortet nicht mit Gewalt. Er überlässt Gott die Entscheidung. Gott soll zeigen, wen er erwählt hat.
+> Er erinnert Korach daran, was er schon hat: einen ehrenvollen Dienst. Aber Korach ist nicht zufrieden. Neid sieht nie, was man hat, sondern nur, was andere haben.
+> „Wer ist Aaron?“ – Aaron hat sich sein Amt nicht genommen. Gott hat es ihm gegeben. Wer gegen Aaron rebelliert, rebelliert eigentlich gegen Gott.
+
+---
+
+### Datan und Abiram weigern sich (Vers 12–15)
+
+<sup>12</sup>Mose ließ Datan und Abiram, die Söhne von Eliab, rufen.
+Aber sie sagten: „Wir kommen nicht hinauf!
+<sup>13</sup>Ist es zu wenig, dass du uns aus einem Land heraufgeführt hast, in dem Milch und Honig fließen,
+um uns in der Wüste sterben zu lassen?
+Musst du dich auch noch zum Herrscher über uns machen?
+<sup>14</sup>Du hast uns ja nicht in ein Land gebracht, in dem Milch und Honig fließen,
+und hast uns keine Felder und Weinberge als Erbe gegeben.
+Willst du diesen Männern die Augen ausstechen?
+Wir kommen nicht hinauf!“
+<sup>15</sup>Da wurde Mose sehr zornig und sagte zum HERRN:
+„Nimm ihr Opfer nicht an!
+Ich habe ihnen nicht einen einzigen Esel weggenommen,
+und ich habe keinem von ihnen etwas zuleide getan.“
+
+> **Was bedeutet das?**
+> Datan und Abiram drehen die Wahrheit um. Sie nennen Ägypten, das Land der Sklaverei, „ein Land, in dem Milch und Honig fließen“. Und sie werfen Mose vor, dass sie nicht im versprochenen Land sind. Dabei war es das Volk selbst, das nicht hineinwollte (Kapitel 14).
+> „Willst du diesen Männern die Augen ausstechen?“ heißt so viel wie: Willst du uns für dumm verkaufen? Wir sehen doch, was los ist.
+> Mose ist zu Recht verletzt. Er hat sich nie an ihnen bereichert.
+
+---
+
+### Die Probe mit den Räucherpfannen (Vers 16–22)
+
+<sup>16</sup>Mose sagte zu Korach:
+„Du und deine ganze Gruppe, kommt morgen vor den HERRN,
+du, sie und Aaron.
+<sup>17</sup>Jeder soll seine Räucherpfanne nehmen und Räucherwerk darauf streuen.
+Und jeder soll seine Räucherpfanne vor den HERRN bringen, 250 Räucherpfannen.
+Auch du und Aaron, jeder mit seiner Räucherpfanne.“
+<sup>18</sup>Da nahm jeder seine Räucherpfanne, legte Feuer hinein und streute Räucherwerk darauf.
+Und sie stellten sich mit Mose und Aaron an den Eingang des Zeltes der Begegnung.
+<sup>19</sup>Korach versammelte die ganze Gemeinde gegen sie am Eingang des Zeltes der Begegnung.
+Da erschien die Herrlichkeit des HERRN der ganzen Gemeinde.
+
+<sup>20</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>21</sup>„Trennt euch von dieser Gemeinde, damit ich sie in einem Augenblick vernichte!“
+<sup>22</sup>Da warfen sie sich auf ihr Gesicht nieder und sagten:
+„Gott, du Gott der Geister aller Menschen!
+Ein einziger Mann sündigt, und du willst über die ganze Gemeinde zornig sein?“
+
+> **Was bedeutet das?**
+> Korach hat die ganze Gemeinde aufgewiegelt. Gott will alle vernichten.
+> Wieder bitten Mose und Aaron für das Volk. Sie nennen Gott „Gott der Geister aller Menschen“. Das heißt: Gott hat jedem Menschen das Leben gegeben, und er kennt jeden Einzelnen.
+> Ihr Argument: Es ist nicht gerecht, alle für die Schuld eines Einzelnen zu bestrafen. Das erinnert an Abraham, der für Sodom bat (1. Mose 18,23–25).
+
+---
+
+### Die Erde öffnet sich (Vers 23–35)
+
+<sup>23</sup>Der HERR sprach zu Mose:
+<sup>24</sup>„Sprich zur Gemeinde und sag:
+‚Entfernt euch von den Zelten von Korach, Datan und Abiram!‘“
+<sup>25</sup>Mose stand auf und ging zu Datan und Abiram.
+Und die Ältesten Israels folgten ihm.
+<sup>26</sup>Er sprach zur Gemeinde:
+„Geht bitte weg von den Zelten dieser bösen Männer
+und berührt nichts, was ihnen gehört,
+damit ihr nicht wegen all ihrer Sünden umkommt!“
+<sup>27</sup>Da entfernten sie sich ringsum von den Zelten von Korach, Datan und Abiram.
+Datan und Abiram kamen heraus und stellten sich an den Eingang ihrer Zelte,
+mit ihren Frauen, ihren Söhnen und ihren kleinen Kindern.
+
+<sup>28</sup>Mose sagte:
+„Daran sollt ihr erkennen, dass der HERR mich gesandt hat, all diese Dinge zu tun,
+und dass sie nicht aus meinem eigenen Kopf kommen:
+<sup>29</sup>Wenn diese Männer sterben, wie alle Menschen sterben,
+oder wenn ihnen geschieht, was allen Menschen geschieht,
+dann hat der HERR mich nicht gesandt.
+<sup>30</sup>Aber wenn der HERR etwas Neues schafft
+und die Erde ihren Mund öffnet und sie verschlingt mit allem, was ihnen gehört,
+und sie lebendig in das Totenreich hinabfahren,
+dann sollt ihr erkennen, dass diese Männer den HERRN verachtet haben.“
+
+<sup>31</sup>Als er alle diese Worte zu Ende gesprochen hatte, spaltete sich der Boden unter ihnen.
+<sup>32</sup>Die Erde öffnete ihren Mund und verschlang sie
+und ihre Familien und alle Leute von Korach und ihren ganzen Besitz.
+<sup>33</sup>Sie fuhren lebendig in das Totenreich hinab, sie und alles, was ihnen gehörte.
+Die Erde schloss sich über ihnen.
+Und sie verschwanden aus der Mitte der Versammlung.
+<sup>34</sup>Ganz Israel, das um sie herum war, floh bei ihrem Schreien.
+Denn sie sagten: „Sonst verschlingt uns die Erde auch!“
+<sup>35</sup>Und Feuer ging vom HERRN aus und verzehrte die 250 Männer, die das Räucherwerk dargebracht hatten.
+
+> **Was bedeutet das?**
+> Das ist eine furchtbare Geschichte. Gott zeigt auf erschreckende Weise, wen er erwählt hat.
+> Das „Totenreich“ heißt auf Hebräisch „Scheol“. Es ist der Ort, an den nach alter Vorstellung alle Toten kommen, tief unter der Erde.
+> Besonders schwer ist, dass auch die Frauen und Kinder mit umkommen. Für uns heute ist das kaum zu ertragen. Damals sah man die Familie als eine Einheit. Die Bibel erzählt hier ehrlich, ohne es zu beschönigen.
+> Aber nicht alle Kinder Korachs sind gestorben. Später heißt es ausdrücklich: „Die Söhne Korachs starben nicht“ (4. Mose 26,11). Ihre Nachkommen wurden Sänger im Tempel. Elf Psalmen tragen die Überschrift „von den Söhnen Korachs“, zum Beispiel Psalm 42: „Wie der Hirsch lechzt nach frischem Wasser …“ Aus dem Kind eines Rebellen wurde ein Lobsänger Gottes.
+
+---
+
+### Die Räucherpfannen werden zum Mahnzeichen (Vers 36–40)
+
+<sup>36</sup>Der HERR sprach zu Mose:
+<sup>37</sup>„Sag zu Eleasar, dem Sohn von Aaron, dem Priester,
+dass er die Räucherpfannen aus dem Brand herausholen soll.
+Und das Feuer soll er weit weg verstreuen.
+Denn die Pfannen sind heilig,
+<sup>38</sup>die Räucherpfannen dieser Männer, die gegen ihr eigenes Leben gesündigt haben.
+Man soll sie zu Blechen schlagen, als Überzug für den Altar.
+Denn sie haben sie vor den HERRN gebracht, darum sind sie heilig.
+Sie sollen den Israeliten ein Zeichen sein.“
+<sup>39</sup>Da nahm Eleasar, der Priester, die bronzenen Räucherpfannen,
+die die Verbrannten dargebracht hatten,
+und man schlug sie zu einem Überzug für den Altar.
+<sup>40</sup>Das sollte die Israeliten daran erinnern,
+dass kein Fremder, der nicht von den Nachkommen Aarons abstammt,
+herantreten darf, um vor dem HERRN Räucherwerk zu verbrennen,
+damit es ihm nicht ergeht wie Korach und seiner Gruppe,
+wie der HERR es ihm durch Mose gesagt hatte.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln beginnt hier schon Kapitel 17. Die Verse 36–50 heißen dort 17,1–15. Wir folgen der Zählung der englischen Vorlage.
+> Die Räucherpfannen werden nicht weggeworfen, sondern zu einem Überzug für den Altar gemacht. Jeder, der den Altar sieht, soll sich erinnern: Nur wen Gott beruft, darf diesen Dienst tun.
+
+---
+
+### Das Volk murrt wieder – Aaron steht zwischen Toten und Lebenden (Vers 41–50)
+
+<sup>41</sup>Aber am nächsten Tag beschwerte sich die ganze Gemeinde der Israeliten über Mose und Aaron. Sie sagten:
+„Ihr habt das Volk des HERRN getötet!“
+<sup>42</sup>Als sich die Gemeinde gegen Mose und Aaron versammelte, schauten sie zum Zelt der Begegnung.
+Und schau: Die Wolke bedeckte es, und die Herrlichkeit des HERRN erschien.
+<sup>43</sup>Mose und Aaron gingen vor das Zelt der Begegnung.
+<sup>44</sup>Der HERR sprach zu Mose:
+<sup>45</sup>„Geht weg aus dieser Gemeinde, damit ich sie in einem Augenblick vernichte!“
+Da warfen sie sich auf ihr Gesicht nieder.
+
+<sup>46</sup>Mose sagte zu Aaron:
+„Nimm deine Räucherpfanne, leg Feuer vom Altar hinein und streu Räucherwerk darauf.
+Bring sie schnell zur Gemeinde und schaff Versöhnung für sie!
+Denn der Zorn ist vom HERRN ausgegangen. Die Plage hat schon begonnen.“
+<sup>47</sup>Aaron tat, was Mose gesagt hatte, und lief mitten in die Versammlung.
+Die Plage hatte unter dem Volk schon begonnen.
+Er streute Räucherwerk darauf und schaffte Versöhnung für das Volk.
+<sup>48</sup>Er stand zwischen den Toten und den Lebenden.
+Da wurde der Plage Einhalt geboten.
+<sup>49</sup>Die an der Plage starben, waren 14.700,
+zusätzlich zu denen, die wegen Korach gestorben waren.
+<sup>50</sup>Aaron kehrte zu Mose an den Eingang des Zeltes der Begegnung zurück.
+Und die Plage hörte auf.
+
+> **Was bedeutet das?**
+> Unglaublich: Gleich am nächsten Tag beschwert sich das Volk wieder. Sie geben Mose und Aaron die Schuld am Tod von Korach.
+> Aber dann geschieht etwas Wunderbares. Aaron, gegen den sich alle beschwert haben, läuft mitten in die Plage hinein, um sein Volk zu retten. Mit derselben Räucherpfanne, um die es im Streit ging.
+> „Er stand zwischen den Toten und den Lebenden.“ Das ist ein starkes Bild. Der Priester stellt sich selbst in die Gefahr, um andere zu schützen. So zeigt Gott, wer der wahre Priester ist: nicht der, der Macht will, sondern der, der sein Leben für andere einsetzt.
+> Christen sehen darin ein Bild für Jesus, der sich zwischen Gott und die Menschen stellt, um sie zu retten.
