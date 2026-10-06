@@ -22476,3 +22476,515 @@ in den Steppen von Moab, am Jordan, gegenüber von Jericho.
 > Das Buch zeigt ehrlich, wie schwer es Menschen fällt, Gott zu vertrauen. Und es zeigt auch harte und dunkle Seiten, wie den Krieg gegen Midian. Diese Seiten darf man nicht beschönigen, und man darf sie niemals als Vorbild für Gewalt nehmen.
 > Aber die wichtigste Botschaft ist: Gott bleibt treu, auch wenn sein Volk untreu ist. Er führt es Schritt für Schritt bis an das Ziel. Eine Generation versagt, aber die nächste steht nun am Jordan, bereit für das neue Land.
 > Das 5. Buch Mose erzählt, was Mose dem Volk dort am Jordan noch zum Abschied sagt.
+
+
+---
+
+# 5. Mose
+
+## 5. Mose – Kapitel 1
+#### Mose erinnert an den Weg vom Horeb
+
+---
+
+### Bevor es losgeht: Was ist das 5. Buch Mose?
+
+Das 5. Buch Mose heißt auch „Deuteronomium“. Das ist Griechisch und bedeutet „zweites Gesetz“ oder „Wiederholung des Gesetzes“. Denn Mose wiederholt hier viele Gebote, die Gott am Berg Sinai gegeben hat.
+Auf Hebräisch heißt das Buch „Devarim“, das bedeutet „Worte“. Denn das ganze Buch besteht aus den Reden von Mose.
+Das Volk steht am Jordan, kurz vor dem verheißenen Land. Mose weiß: Ich werde bald sterben. Ich darf nicht mit hinüber. Darum hält er große Abschiedsreden. Er erinnert an alles, was Gott getan hat. Er erklärt die Gebote noch einmal für die neue Generation. Und er bittet das Volk von ganzem Herzen: Bleibt Gott treu!
+In diesem Buch steht das wichtigste Gebet Israels: „Höre, Israel: Der HERR ist unser Gott, der HERR ist einer. Du sollst den HERRN, deinen Gott, lieben mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deiner ganzen Kraft“ (5. Mose 6,4–5). Jesus nannte es das wichtigste Gebot.
+Am Ende des Buches stirbt Mose.
+In diesem Buch nennt Mose den Berg Sinai meist „Horeb“. Es ist derselbe Berg.
+
+---
+
+### Wo und wann Mose spricht (Vers 1–5)
+
+<sup>1</sup>Das sind die Worte, die Mose zu ganz Israel sprach,
+jenseits des Jordan, in der Wüste, in der Araba, gegenüber von Suf,
+zwischen Paran, Tofel, Laban, Hazerot und Di-Sahab.
+<sup>2</sup>Vom Horeb über das Gebirge Seïr bis nach Kadesch-Barnea sind es elf Tagesreisen.
+<sup>3</sup>Im vierzigsten Jahr, im elften Monat, am ersten Tag des Monats,
+sprach Mose zu den Israeliten.
+Er sagte ihnen alles, was der HERR ihm für sie aufgetragen hatte.
+<sup>4</sup>Das war, nachdem er Sihon geschlagen hatte, den König der Amoriter, der in Heschbon wohnte,
+und Og, den König von Baschan, der in Aschtarot wohnte, bei Edreï.
+<sup>5</sup>Jenseits des Jordan, im Land Moab, fing Mose an, dieses Gesetz zu erklären. Er sagte:
+
+> **Was bedeutet das?**
+> „Jenseits des Jordan“ meint hier: östlich des Jordan, wo das Volk gerade lagert.
+> Die „Araba“ ist das tiefe Tal, das vom See Genezareth über das Tote Meer bis zum Roten Meer reicht.
+> Vers 2 ist ein stiller Vorwurf: Der Weg vom Horeb nach Kadesch dauert nur elf Tage. Aber das Volk hat 40 Jahre gebraucht, weil es Gott nicht vertraut hat.
+> Mose fängt an, „dieses Gesetz zu erklären“. Er gibt kein ganz neues Gesetz. Er legt es aus, damit die neue Generation es versteht.
+
+---
+
+### Gott sagt: Brecht auf! (Vers 6–8)
+
+<sup>6</sup>„Der HERR, unser Gott, hat am Horeb zu uns gesprochen:
+‚Ihr habt lange genug an diesem Berg gewohnt.
+<sup>7</sup>Wendet euch, brecht auf und zieht in das Bergland der Amoriter
+und zu allen Orten in der Nähe:
+in die Araba, ins Bergland, ins Hügelland, in den Süden, an die Küste des Meeres,
+in das Land der Kanaaniter und in den Libanon,
+bis zum großen Strom, dem Fluss Euphrat.
+<sup>8</sup>Schaut, ich habe euch das Land vor Augen gestellt.
+Geht hinein und nehmt das Land in Besitz,
+das der HERR euren Vätern Abraham, Isaak und Jakob mit einem Schwur versprochen hat,
+ihnen und ihren Nachkommen nach ihnen zu geben.‘“
+
+> **Was bedeutet das?**
+> Am Berg Horeb (Sinai) hat Israel fast ein Jahr lang gelagert. Dort hat es die Gebote bekommen. Aber dann sagt Gott: Es ist genug. Ihr sollt nicht stehen bleiben. Geht los!
+> Der Glaube ist ein Weg. Man kann nicht immer am heiligen Berg bleiben. Man muss mit Gott in den Alltag gehen.
+
+---
+
+### Mose setzt Richter ein (Vers 9–18)
+
+<sup>9</sup>Damals sprach ich zu euch:
+„Ich kann euch nicht allein tragen.
+<sup>10</sup>Der HERR, euer Gott, hat euch zahlreich gemacht.
+Schaut, ihr seid heute so zahlreich wie die Sterne am Himmel.
+<sup>11</sup>Der HERR, der Gott eurer Väter, mache euch noch tausendmal zahlreicher, als ihr seid,
+und er segne euch, wie er es euch versprochen hat!
+<sup>12</sup>Wie kann ich allein eure Sorgen, eure Lasten und euren Streit tragen?
+<sup>13</sup>Nehmt weise und verständige Männer, die in euren Stämmen geachtet sind.
+Ich will sie zu euren Oberhäuptern machen.“
+<sup>14</sup>Ihr habt mir geantwortet:
+„Was du gesagt hast, ist gut. Das sollen wir tun.“
+<sup>15</sup>Da nahm ich die Oberhäupter eurer Stämme, weise und geachtete Männer,
+und setzte sie als Oberhäupter über euch ein:
+als Anführer über Tausend, Anführer über Hundert, Anführer über Fünfzig, Anführer über Zehn
+und als Amtsleute, für eure Stämme.
+
+<sup>16</sup>Damals befahl ich euren Richtern:
+„Hört die Streitfälle zwischen euren Brüdern an.
+Und richtet gerecht zwischen einem Mann und seinem Bruder
+und dem Fremden, der bei ihm lebt.
+<sup>17</sup>Ihr sollt beim Gericht niemanden bevorzugen.
+Den Kleinen sollt ihr genauso anhören wie den Großen.
+Ihr sollt keine Angst vor dem Gesicht eines Menschen haben,
+denn das Gericht gehört Gott.
+Den Fall, der für euch zu schwer ist, sollt ihr zu mir bringen. Ich will ihn anhören.“
+<sup>18</sup>Damals befahl ich euch alles, was ihr tun solltet.
+
+> **Was bedeutet das?**
+> Mose erinnert daran, wie er die Arbeit verteilt hat (2. Mose 18). Ein Anführer kann nicht alles allein machen.
+> Die Regeln für die Richter sind bis heute die Grundlage für ein gutes Gericht:
+> Alle sind gleich vor dem Gesetz: Arme und Reiche, Einheimische und Fremde.
+> Ein Richter darf sich nicht einschüchtern lassen, auch nicht von mächtigen Menschen.
+> „Das Gericht gehört Gott“: Ein Richter urteilt nicht in seinem eigenen Namen. Er ist Gott verantwortlich.
+
+---
+
+### Die Kundschafter (Vers 19–25)
+
+<sup>19</sup>Wir brachen vom Horeb auf und zogen durch diese ganze große und schreckliche Wüste, die ihr gesehen habt,
+auf dem Weg zum Bergland der Amoriter, wie der HERR, unser Gott, es uns befohlen hatte.
+Und wir kamen nach Kadesch-Barnea.
+<sup>20</sup>Ich sagte zu euch:
+„Ihr seid zum Bergland der Amoriter gekommen, das der HERR, unser Gott, uns gibt.
+<sup>21</sup>Schau, der HERR, dein Gott, hat dir das Land vor Augen gestellt.
+Zieh hinauf und nimm es in Besitz,
+wie der HERR, der Gott deiner Väter, es dir gesagt hat.
+Hab keine Angst und lass dich nicht entmutigen.“
+<sup>22</sup>Da seid ihr alle zu mir gekommen und habt gesagt:
+„Lasst uns Männer vor uns her schicken.
+Sie sollen das Land für uns erkunden.
+Sie sollen uns berichten, auf welchem Weg wir hinaufziehen sollen
+und zu welchen Städten wir kommen werden.“
+<sup>23</sup>Der Vorschlag gefiel mir gut.
+Ich nahm zwölf Männer von euch, einen Mann aus jedem Stamm.
+<sup>24</sup>Sie wandten sich um und zogen hinauf ins Bergland.
+Sie kamen bis zum Tal Eschkol und erkundeten es.
+<sup>25</sup>Sie nahmen einige Früchte des Landes in ihre Hände und brachten sie zu uns herunter.
+Sie berichteten uns:
+„Es ist ein gutes Land, das der HERR, unser Gott, uns gibt.“
+
+> **Was bedeutet das?**
+> Diese Geschichte wurde ausführlich in 4. Mose 13 erzählt. Mose erzählt sie hier aus seiner Sicht noch einmal.
+> Hier erfahren wir etwas Neues: Die Idee mit den Kundschaftern kam vom Volk. In 4. Mose 13 wird erzählt, dass Gott sie dann befohlen hat. Beides passt zusammen: Das Volk hat gefragt, und Gott hat es erlaubt.
+
+---
+
+### Das Volk will nicht (Vers 26–33)
+
+<sup>26</sup>Aber ihr wolltet nicht hinaufziehen.
+Ihr habt euch gegen den Befehl des HERRN, eures Gottes, aufgelehnt.
+<sup>27</sup>Ihr habt in euren Zelten gemurrt und gesagt:
+„Weil der HERR uns hasst, hat er uns aus dem Land Ägypten herausgeführt.
+Er will uns in die Hand der Amoriter geben, damit sie uns vernichten.
+<sup>28</sup>Wohin sollen wir hinaufziehen?
+Unsere Brüder haben unser Herz verzagt gemacht.
+Sie haben gesagt: ‚Das Volk ist größer und höher gewachsen als wir.
+Die Städte sind groß und befestigt bis an den Himmel.
+Und wir haben dort sogar die Söhne der Anakiter gesehen!‘“
+<sup>29</sup>Da sagte ich zu euch:
+„Erschreckt nicht. Habt keine Angst vor ihnen.
+<sup>30</sup>Der HERR, euer Gott, der vor euch hergeht, er wird für euch kämpfen,
+genau wie er alles für euch in Ägypten vor euren Augen getan hat,
+<sup>31</sup>und in der Wüste. Dort habt ihr gesehen,
+wie der HERR, euer Gott, dich getragen hat, wie ein Mann seinen Sohn trägt,
+auf dem ganzen Weg, den ihr gegangen seid, bis ihr an diesen Ort gekommen seid.“
+<sup>32</sup>Aber trotzdem habt ihr dem HERRN, eurem Gott, nicht vertraut.
+<sup>33</sup>Er ging euch auf dem Weg voran, um einen Platz für euch zu suchen, wo ihr eure Zelte aufschlagen konntet.
+In der Nacht ging er im Feuer voran, um euch den Weg zu zeigen, den ihr gehen solltet,
+und am Tag in der Wolke.
+
+> **Was bedeutet das?**
+> „Weil der HERR uns hasst“: So weit kann Angst einen Menschen bringen. Gott hat sein Volk aus der Sklaverei befreit. Aber das Volk denkt: Er will uns nur vernichten.
+> Die „Anakiter“ galten als ein Volk von sehr großen Menschen, wie Riesen.
+> Vers 31 ist eines der schönsten Bilder der Bibel: Gott hat sein Volk getragen wie ein Vater sein Kind. Wenn das Kind müde ist, nimmt der Vater es auf den Arm. So hat Gott Israel durch die Wüste getragen.
+
+---
+
+### Gottes Urteil (Vers 34–40)
+
+<sup>34</sup>Der HERR hörte, was ihr gesagt habt.
+Er wurde zornig und schwor:
+<sup>35</sup>„Ganz sicher wird keiner von diesen Männern, von dieser bösen Generation,
+das gute Land sehen, das ich euren Vätern mit einem Schwur versprochen habe,
+<sup>36</sup>außer Kaleb, dem Sohn von Jefunne. Er wird es sehen.
+Ihm und seinen Kindern will ich das Land geben, das er betreten hat,
+weil er dem HERRN ganz gefolgt ist.“
+<sup>37</sup>Auch über mich wurde der HERR euretwegen zornig und sagte:
+„Auch du wirst nicht dorthin kommen.
+<sup>38</sup>Josua, der Sohn von Nun, der dir dient, der wird dorthin kommen.
+Mach ihm Mut, denn er wird Israel das Land als Erbe geben.
+<sup>39</sup>Und eure kleinen Kinder, von denen ihr gesagt habt, sie würden gefangen oder getötet,
+eure Kinder, die heute noch nicht wissen, was gut und böse ist,
+die werden dorthin kommen.
+Ihnen will ich es geben, und sie werden es besitzen.
+<sup>40</sup>Ihr aber, wendet euch um und zieht in die Wüste, auf dem Weg zum Roten Meer.“
+
+> **Was bedeutet das?**
+> „Euretwegen“: Mose sagt, Gott war auch über ihn zornig, wegen des Volkes. In 4. Mose 20 wird ein anderer Grund erzählt: Mose hatte am Wasser von Meriba nicht so gehandelt, wie Gott es wollte. Beides gehört zusammen: Das Volk hatte Mose damals so gereizt, dass er die Geduld verlor.
+> In der englischen Vorlage steht „der dir dient“ wörtlich: „der vor dir steht“. Das bedeutet: Josua ist dein Diener und Helfer.
+> Gottes Urteil hat auch eine gute Seite: Die Kinder, um die sich die Eltern solche Sorgen gemacht haben, werden das Land bekommen.
+
+---
+
+### Der Angriff ohne Gott (Vers 41–46)
+
+<sup>41</sup>Da habt ihr mir geantwortet:
+„Wir haben gegen den HERRN gesündigt.
+Wir wollen hinaufziehen und kämpfen, genau wie der HERR, unser Gott, es uns befohlen hat.“
+Jeder von euch legte seine Kriegswaffen an.
+Und ihr wart so vermessen, dass ihr ins Bergland hinaufziehen wolltet.
+<sup>42</sup>Der HERR sagte zu mir:
+„Sag ihnen: ‚Zieht nicht hinauf und kämpft nicht, denn ich bin nicht mitten unter euch.
+Sonst werdet ihr von euren Feinden geschlagen.‘“
+<sup>43</sup>Ich sagte es euch, aber ihr habt nicht gehört.
+Ihr habt euch gegen den Befehl des HERRN aufgelehnt.
+Ihr wart vermessen und zogt hinauf ins Bergland.
+<sup>44</sup>Die Amoriter, die in diesem Bergland wohnten, zogen gegen euch heraus.
+Sie jagten euch wie Bienen
+und schlugen euch in Seïr bis nach Horma.
+<sup>45</sup>Ihr kamt zurück und habt vor dem HERRN geweint.
+Aber der HERR hörte nicht auf eure Stimme und wandte euch sein Ohr nicht zu.
+<sup>46</sup>So bliebt ihr lange Zeit in Kadesch, so lange, wie ihr dort geblieben seid.
+
+> **Was bedeutet das?**
+> Zuerst will das Volk nicht, als Gott es sagt. Dann will es unbedingt, als Gott es verbietet. Beides ist Ungehorsam.
+> Der wichtigste Satz ist: „Ich bin nicht mitten unter euch.“ Ohne Gott hilft auch die beste Rüstung nichts.
+> „Wie Bienen“: Wer einmal von einem Bienenschwarm verfolgt wurde, weiß, wie das ist. Man kann nur fliehen.
+> Vers 46 klingt seltsam. Er bedeutet: Ihr musstet lange in Kadesch bleiben, genau so lange, wie es eben gedauert hat.
+
+## 5. Mose – Kapitel 2
+#### An Edom, Moab und Ammon vorbei – der Sieg über Sihon
+
+---
+
+### Edom: Lasst eure Brüder in Ruhe (Vers 1–8)
+
+<sup>1</sup>Dann wandten wir uns um und zogen in die Wüste, auf dem Weg zum Roten Meer,
+wie der HERR es mir gesagt hatte.
+Und wir zogen lange Zeit um das Gebirge Seïr herum.
+<sup>2</sup>Der HERR sprach zu mir:
+<sup>3</sup>„Ihr seid lange genug um dieses Gebirge herumgezogen.
+Wendet euch nach Norden.
+<sup>4</sup>Befiehl dem Volk:
+‚Ihr werdet durch das Gebiet eurer Brüder ziehen, der Nachkommen Esaus, die in Seïr wohnen.
+Sie werden Angst vor euch haben.
+Darum seid sehr vorsichtig.
+<sup>5</sup>Fangt keinen Streit mit ihnen an.
+Denn ich werde euch nichts von ihrem Land geben,
+nicht einmal so viel, wie eine Fußsohle betreten kann.
+Denn ich habe das Gebirge Seïr Esau als Besitz gegeben.
+<sup>6</sup>Ihr sollt Essen von ihnen für Geld kaufen, damit ihr zu essen habt.
+Auch Wasser sollt ihr von ihnen für Geld kaufen, damit ihr zu trinken habt.‘“
+<sup>7</sup>Denn der HERR, dein Gott, hat dich gesegnet bei aller Arbeit deiner Hände.
+Er hat gewusst, wie du durch diese große Wüste gewandert bist.
+Diese vierzig Jahre lang ist der HERR, dein Gott, bei dir gewesen.
+Dir hat nichts gefehlt.
+<sup>8</sup>So zogen wir an unseren Brüdern vorbei, den Nachkommen Esaus, die in Seïr wohnen,
+weg vom Weg durch die Araba, von Elat und von Ezjon-Geber.
+Wir wandten uns und zogen auf dem Weg zur Wüste von Moab weiter.
+
+> **Was bedeutet das?**
+> Die Edomiter sind Nachkommen von Esau, dem Bruder von Jakob. Darum nennt Mose sie „eure Brüder“.
+> Gott hat nicht nur Israel Land gegeben. Er hat auch anderen Völkern ihr Land gegeben. Das soll Israel respektieren. Es soll fair kaufen und nicht rauben.
+> Vers 7 ist ein schöner Rückblick: „Dir hat nichts gefehlt.“ Auch in der Wüste hat Gott für alles gesorgt.
+
+---
+
+### Moab: Gott hat ihnen ihr Land gegeben (Vers 9–12)
+
+<sup>9</sup>Der HERR sagte zu mir:
+„Bedränge Moab nicht und fang keinen Krieg mit ihnen an.
+Denn ich werde dir nichts von seinem Land als Besitz geben.
+Denn ich habe Ar den Nachkommen Lots als Besitz gegeben.“
+<sup>10</sup>(Früher wohnten dort die Emiter, ein großes und zahlreiches Volk, so hochgewachsen wie die Anakiter.
+<sup>11</sup>Auch sie gelten als Refaiter, wie die Anakiter.
+Aber die Moabiter nennen sie Emiter.
+<sup>12</sup>Auch die Horiter wohnten früher in Seïr.
+Aber die Nachkommen Esaus vertrieben sie.
+Sie vernichteten sie vor sich und wohnten an ihrer Stelle,
+so wie Israel es mit dem Land getan hat, das es besitzt, das der HERR ihnen gegeben hat.)
+
+> **Was bedeutet das?**
+> Die Moabiter stammen von Lot ab, dem Neffen Abrahams. Auch sie sind also Verwandte.
+> „Ar“ ist eine Stadt und Gegend in Moab.
+> Die Verse in Klammern sind eine Art Erklärung, die in den Text eingefügt ist. Sie erzählen, wer früher in diesen Ländern wohnte. „Refaiter“, „Emiter“ und „Anakiter“ waren Namen für alte Völker von großen Menschen, über die man sich viele Geschichten erzählte.
+> Der Gedanke dahinter: Auch andere Völker haben ihr Land von Gott bekommen. Gott ist nicht nur der Gott Israels. Er lenkt die Geschichte aller Völker.
+
+---
+
+### Achtunddreißig Jahre (Vers 13–15)
+
+<sup>13</sup>„Jetzt macht euch auf und zieht über den Bach Sered.“
+Und wir zogen über den Bach Sered.
+<sup>14</sup>Die Zeit von unserem Aufbruch aus Kadesch-Barnea, bis wir den Bach Sered überquert hatten,
+war 38 Jahre.
+In dieser Zeit war die ganze Generation der Kriegsleute aus dem Lager aufgerieben,
+wie der HERR es ihnen geschworen hatte.
+<sup>15</sup>Auch war die Hand des HERRN gegen sie,
+um sie mitten aus dem Lager zu vertilgen, bis sie ganz aufgerieben waren.
+
+> **Was bedeutet das?**
+> Mit dem Überqueren des Baches Sered beginnt ein neuer Abschnitt. Die alte Generation ist gestorben. Jetzt ist die neue Generation da.
+> 38 Jahre: Dazu kommen die etwa zwei Jahre vom Auszug aus Ägypten bis Kadesch. Zusammen sind das die 40 Jahre in der Wüste.
+
+---
+
+### Ammon: Auch hier kein Krieg (Vers 16–23)
+
+<sup>16</sup>Als alle Kriegsleute aus dem Volk aufgerieben und gestorben waren,
+<sup>17</sup>sprach der HERR zu mir:
+<sup>18</sup>„Du ziehst heute an Ar vorbei, an der Grenze von Moab.
+<sup>19</sup>Wenn du in die Nähe der Ammoniter kommst,
+dann bedränge sie nicht und fang keinen Streit mit ihnen an.
+Denn ich werde dir nichts vom Land der Ammoniter als Besitz geben.
+Denn ich habe es den Nachkommen Lots als Besitz gegeben.“
+<sup>20</sup>(Auch dieses Land gilt als Land der Refaiter.
+Früher wohnten dort Refaiter.
+Aber die Ammoniter nennen sie Samsummiter.
+<sup>21</sup>Das war ein großes und zahlreiches Volk, so hochgewachsen wie die Anakiter.
+Aber der HERR vernichtete sie vor Israel.
+Und sie vertrieben sie und wohnten an ihrer Stelle.
+<sup>22</sup>So hatte er es auch für die Nachkommen Esaus getan, die in Seïr wohnen,
+als er die Horiter vor ihnen vernichtete.
+Sie vertrieben sie und wohnten an ihrer Stelle, bis heute.
+<sup>23</sup>Und die Awiter, die in Dörfern bis nach Gaza wohnten:
+Die Kaftoriter, die aus Kaftor kamen, vernichteten sie und wohnten an ihrer Stelle.)
+
+> **Was bedeutet das?**
+> In Vers 21 steht in der englischen Vorlage „vor Israel“. Im hebräischen Text steht aber „vor ihnen“, und gemeint sind die Ammoniter: Sie haben die Samsummiter vertrieben und wohnen an ihrer Stelle.
+> Auch die Ammoniter sind Nachkommen von Lot. Israel soll sie in Ruhe lassen.
+> „Kaftor“ ist wahrscheinlich die Insel Kreta. Die „Kaftoriter“ sind vermutlich die Philister, die von dort an die Küste bei Gaza kamen.
+
+---
+
+### Gott gibt Sihon in Israels Hand (Vers 24–25)
+
+<sup>24</sup>„Macht euch auf, brecht auf und zieht durch das Tal des Arnon.
+Schau, ich habe Sihon, den Amoriter, den König von Heschbon, und sein Land in deine Hand gegeben.
+Fang an, es in Besitz zu nehmen, und kämpfe gegen ihn.
+<sup>25</sup>Heute fange ich an, Schrecken und Furcht vor dir
+auf die Völker unter dem ganzen Himmel zu legen.
+Sie werden von dir hören und zittern und Angst vor dir haben.“
+
+> **Was bedeutet das?**
+> Bei Edom, Moab und Ammon hat Gott gesagt: Kein Krieg! Bei Sihon ist es anders. Sein Land gehört zu dem Gebiet, das Israel bekommen soll.
+> Der Arnon ist ein tiefes Flusstal, das ins Tote Meer fließt. Es war die Grenze zwischen Moab und dem Reich von Sihon.
+
+---
+
+### Israel bittet um Frieden (Vers 26–30)
+
+<sup>26</sup>Ich schickte Boten aus der Wüste Kedemot zu Sihon, dem König von Heschbon,
+mit Worten des Friedens. Ich ließ ihm sagen:
+<sup>27</sup>„Lass mich durch dein Land ziehen.
+Ich will auf der Landstraße bleiben.
+Ich will weder nach rechts noch nach links abbiegen.
+<sup>28</sup>Verkauf mir Essen für Geld, damit ich zu essen habe.
+Und gib mir Wasser für Geld, damit ich zu trinken habe.
+Lass mich nur zu Fuß durchziehen,
+<sup>29</sup>so wie es die Nachkommen Esaus getan haben, die in Seïr wohnen,
+und die Moabiter, die in Ar wohnen,
+bis ich über den Jordan in das Land komme, das der HERR, unser Gott, uns gibt.“
+<sup>30</sup>Aber Sihon, der König von Heschbon, wollte uns nicht bei sich durchziehen lassen.
+Denn der HERR, dein Gott, hatte seinen Geist verhärtet und sein Herz störrisch gemacht,
+um ihn in deine Hand zu geben, wie es heute ist.
+
+> **Was bedeutet das?**
+> Israel bietet zuerst Frieden an. Es will nur durchziehen und für alles bezahlen. Erst als Sihon ablehnt und angreift, kommt es zum Krieg (siehe auch 4. Mose 21,21–31).
+> „Gott verhärtete sein Herz“: Das kennen wir vom Pharao in Ägypten. Die Bibel sagt damit: Auch die sture Haltung von Sihon gehört zu Gottes Plan. Das bedeutet nicht, dass Sihon keine Wahl hatte. Juden und Christen haben oft gesagt: Gott verstärkt, was ein Mensch selbst schon will.
+
+---
+
+### Der Sieg über Sihon (Vers 31–37)
+
+<sup>31</sup>Der HERR sagte zu mir:
+„Schau, ich habe angefangen, Sihon und sein Land vor dir preiszugeben.
+Fang an, es in Besitz zu nehmen, damit du sein Land erbst.“
+<sup>32</sup>Da zog Sihon gegen uns heraus, er und sein ganzes Volk, zum Kampf bei Jahaz.
+<sup>33</sup>Der HERR, unser Gott, gab ihn vor uns preis.
+Wir schlugen ihn, seine Söhne und sein ganzes Volk.
+<sup>34</sup>Wir nahmen damals alle seine Städte ein.
+Und wir vollstreckten an jeder bewohnten Stadt den Bann, mit den Frauen und den kleinen Kindern.
+Wir ließen niemanden übrig.
+<sup>35</sup>Nur das Vieh nahmen wir als Beute für uns,
+zusammen mit der Beute aus den Städten, die wir eingenommen hatten.
+<sup>36</sup>Von Aroër, das am Rand des Arnontales liegt, und von der Stadt im Tal an bis nach Gilead
+war keine Stadt zu hoch für uns.
+Der HERR, unser Gott, gab sie alle vor uns preis.
+<sup>37</sup>Nur dem Land der Ammoniter bist du nicht nahe gekommen:
+dem ganzen Ufer des Flusses Jabbok, den Städten im Bergland
+und allem, was der HERR, unser Gott, uns verboten hatte.
+
+> **Was bedeutet das?**
+> „Den Bann vollstrecken“ (Hebräisch: „Cherem“) bedeutet hier: Alle Menschen in den Städten wurden getötet, auch Frauen und Kinder. Nichts davon durfte für sich behalten werden. Es wurde ganz Gott übergeben.
+> Das ist eine der schwersten Stellen der Bibel. Man darf sie nicht beschönigen. Nach unserem heutigen Verständnis ist das ein schweres Unrecht.
+> Juden und Christen haben lange mit solchen Texten gerungen. Manche Forscher sagen: Diese Sprache ist typisch für Kriegsberichte im alten Orient und übertreibt oft. Andere sagen: Die Bibel zeigt ehrlich, wie brutal Menschen damals Krieg führten. Viele betonen: Diese Befehle waren an eine einmalige Situation gebunden und gelten nicht für andere Zeiten.
+> Ganz klar ist: Niemand darf diese Stelle benutzen, um Gewalt gegen Menschen zu rechtfertigen. Die Bibel selbst zeigt einen anderen Weg: die Liebe zum Fremden (5. Mose 10,19), den Frieden der Propheten (Jesaja 2,4) und das Gebot von Jesus: „Liebt eure Feinde“ (Matthäus 5,44).
+> Auch hier respektiert Israel die Grenze von Ammon. Es nimmt nur, was Gott erlaubt hat.
+
+## 5. Mose – Kapitel 3
+#### Der Sieg über Og – Mose darf nicht ins Land
+
+---
+
+### Der Sieg über Og, den König von Baschan (Vers 1–7)
+
+<sup>1</sup>Dann wandten wir uns und zogen hinauf auf dem Weg nach Baschan.
+Og, der König von Baschan, zog gegen uns heraus, er und sein ganzes Volk, zum Kampf bei Edreï.
+<sup>2</sup>Der HERR sagte zu mir:
+„Hab keine Angst vor ihm.
+Denn ich habe ihn mit seinem ganzen Volk und seinem Land in deine Hand gegeben.
+Du sollst mit ihm tun, was du mit Sihon getan hast, dem König der Amoriter, der in Heschbon wohnte.“
+<sup>3</sup>So gab der HERR, unser Gott, auch Og, den König von Baschan, und sein ganzes Volk in unsere Hand.
+Wir schlugen ihn, bis ihm niemand mehr übrig blieb.
+<sup>4</sup>Wir nahmen damals alle seine Städte ein.
+Es gab keine Stadt, die wir ihnen nicht abgenommen hätten:
+sechzig Städte, die ganze Gegend von Argob, das Königreich von Og in Baschan.
+<sup>5</sup>Das alles waren Städte, befestigt mit hohen Mauern, Toren und Riegeln.
+Dazu kamen sehr viele Dörfer ohne Mauern.
+<sup>6</sup>Wir vollstreckten an ihnen den Bann, wie wir es mit Sihon, dem König von Heschbon, getan hatten.
+Wir vollstreckten den Bann an jeder bewohnten Stadt, mit den Frauen und den kleinen Kindern.
+<sup>7</sup>Aber das ganze Vieh und die Beute aus den Städten nahmen wir als Beute für uns.
+
+> **Was bedeutet das?**
+> Baschan ist eine fruchtbare Hochebene im Norden, östlich vom See Genezareth. Heute heißt die Gegend Golan.
+> Auch hier wird der „Bann“ vollstreckt, wie in Kapitel 2 bei Sihon. Das heißt: Die Bewohner wurden getötet, auch Frauen und Kinder. Das ist furchtbar und darf nicht beschönigt werden. Was in der Erklärung zu Kapitel 2 steht, gilt auch hier: Diese Stelle darf niemals benutzt werden, um Gewalt gegen Menschen zu rechtfertigen.
+
+---
+
+### Das ganze Land östlich des Jordan (Vers 8–11)
+
+<sup>8</sup>So nahmen wir damals das Land aus der Hand der beiden Könige der Amoriter, die jenseits des Jordan wohnten,
+vom Tal des Arnon bis zum Berg Hermon.
+<sup>9</sup>(Die Sidonier nennen den Hermon Sirjon, und die Amoriter nennen ihn Senir.)
+<sup>10</sup>Wir nahmen alle Städte der Hochebene, ganz Gilead und ganz Baschan
+bis nach Salcha und Edreï, die Städte des Königreichs von Og in Baschan.
+<sup>11</sup>(Denn nur Og, der König von Baschan, war vom Rest der Refaiter übrig geblieben.
+Schau, sein Bett war ein Bett aus Eisen.
+Steht es nicht in Rabba, der Stadt der Ammoniter?
+Es war etwa 4 Meter lang und 1,80 Meter breit, nach der gewöhnlichen Elle gemessen.)
+
+> **Was bedeutet das?**
+> Der Hermon ist der höchste Berg der Gegend, über 2800 Meter hoch. Auf seinem Gipfel liegt oft Schnee.
+> In der Bibel steht: neun Ellen lang und vier Ellen breit. Eine Elle sind etwa 45 Zentimeter.
+> Og war der letzte der „Refaiter“, eines alten Volkes von großen Menschen. Sein riesiges Bett war noch lange danach in Rabba zu sehen, wie eine Sehenswürdigkeit. Rabba ist die heutige Stadt Amman, die Hauptstadt von Jordanien.
+> Manche Ausleger vermuten, dass mit „Bett“ ein Sarg aus dunklem Stein gemeint ist, der wie Eisen aussah. Sicher ist das nicht.
+
+---
+
+### Das Land wird verteilt (Vers 12–17)
+
+<sup>12</sup>Dieses Land nahmen wir damals in Besitz.
+Von Aroër an, das am Tal des Arnon liegt,
+und die Hälfte des Berglandes von Gilead mit seinen Städten
+gab ich den Rubeniten und den Gaditen.
+<sup>13</sup>Und den Rest von Gilead und ganz Baschan, das Königreich von Og,
+gab ich dem halben Stamm Manasse:
+die ganze Gegend von Argob, ganz Baschan.
+(Das wird das Land der Refaiter genannt.
+<sup>14</sup>Jaïr, der Sohn von Manasse, nahm die ganze Gegend von Argob ein,
+bis zur Grenze der Geschuriter und der Maachatiter.
+Und er nannte sie, ganz Baschan, nach seinem eigenen Namen Hawot-Jaïr, bis heute.)
+<sup>15</sup>Machir gab ich Gilead.
+<sup>16</sup>Den Rubeniten und den Gaditen gab ich das Land von Gilead bis zum Tal des Arnon,
+bis zur Mitte des Tales als Grenze,
+und bis zum Fluss Jabbok, der Grenze der Ammoniter,
+<sup>17</sup>dazu die Araba und den Jordan als Grenze,
+vom See Kinneret bis zum Meer der Araba, dem Salzmeer,
+unterhalb der Hänge des Pisga im Osten.
+
+> **Was bedeutet das?**
+> Hier wird noch einmal erzählt, was in 4. Mose 32 stand: Ruben, Gad und der halbe Stamm Manasse bekommen das Land östlich des Jordan.
+> Das „Meer der Araba“ und das „Salzmeer“ sind Namen für das Tote Meer.
+> Der „Pisga“ ist ein Berggipfel östlich vom Toten Meer. Von dort wird Mose später das Land sehen.
+
+---
+
+### Die Männer von Ruben und Gad sollen mitkämpfen (Vers 18–22)
+
+<sup>18</sup>Ich befahl euch damals:
+„Der HERR, euer Gott, hat euch dieses Land gegeben, damit ihr es besitzt.
+Alle tapferen Männer von euch sollen bewaffnet vor euren Brüdern, den Israeliten, hinüberziehen.
+<sup>19</sup>Aber eure Frauen, eure kleinen Kinder und euer Vieh
+– ich weiß, dass ihr viel Vieh habt –
+sollen in euren Städten bleiben, die ich euch gegeben habe,
+<sup>20</sup>bis der HERR euren Brüdern Ruhe gibt wie euch,
+und bis auch sie das Land besitzen, das der HERR, euer Gott, ihnen jenseits des Jordan gibt.
+Dann soll jeder von euch zu seinem Besitz zurückkehren, den ich euch gegeben habe.“
+<sup>21</sup>Damals befahl ich Josua:
+„Deine Augen haben alles gesehen, was der HERR, euer Gott, mit diesen beiden Königen getan hat.
+So wird der HERR es mit allen Königreichen tun, in die du hinüberziehst.
+<sup>22</sup>Ihr sollt keine Angst vor ihnen haben.
+Denn der HERR, euer Gott, kämpft selbst für euch.“
+
+> **Was bedeutet das?**
+> Mose erinnert an die Abmachung mit Ruben und Gad aus 4. Mose 32.
+> Und er macht Josua Mut: Du hast mit eigenen Augen gesehen, was Gott getan hat. Darum brauchst du keine Angst vor der Zukunft zu haben.
+
+---
+
+### Moses Bitte wird nicht erfüllt (Vers 23–29)
+
+<sup>23</sup>Damals flehte ich den HERRN an:
+<sup>24</sup>„Herr, du HERR,
+du hast angefangen, deinem Diener deine Größe und deine starke Hand zu zeigen.
+Denn welcher Gott im Himmel oder auf der Erde kann solche Werke tun wie du
+und solche mächtigen Taten wie du?
+<sup>25</sup>Bitte lass mich hinüberziehen.
+Lass mich das gute Land sehen, das jenseits des Jordan liegt,
+dieses schöne Bergland und den Libanon.“
+<sup>26</sup>Aber der HERR war euretwegen zornig über mich und hörte nicht auf mich.
+Der HERR sagte zu mir:
+„Es ist genug! Sprich nicht mehr mit mir über diese Sache.
+<sup>27</sup>Steig hinauf auf den Gipfel des Pisga.
+Schau mit deinen Augen nach Westen, nach Norden, nach Süden und nach Osten.
+Und sieh es dir mit deinen Augen an.
+Denn du wirst nicht über diesen Jordan ziehen.
+<sup>28</sup>Aber setze Josua ein, mach ihm Mut und stärke ihn.
+Denn er wird vor diesem Volk hinüberziehen.
+Und er wird ihnen das Land als Erbe geben, das du sehen wirst.“
+<sup>29</sup>So blieben wir im Tal gegenüber von Bet-Peor.
+
+> **Was bedeutet das?**
+> „Herr, du HERR“: Mose spricht Gott mit zwei Namen an. Mit „Herr“ als Titel und mit seinem heiligen Namen, den wir „der HERR“ schreiben.
+> Das ist eine der persönlichsten Stellen im Buch. Mose hat 40 Jahre lang das Volk geführt. Sein größter Wunsch ist es, das Land zu betreten. Er bittet Gott darum. Aber Gott sagt Nein.
+> Auch große Menschen des Glaubens bekommen nicht alles, worum sie bitten. Gott sagt Mose aber auch etwas Tröstliches: Du darfst das Land sehen. Und dein Werk geht weiter, durch Josua.
+> Christen erinnern sich an eine Geschichte im Neuen Testament: Viel später steht Mose doch im Land, auf einem Berg, zusammen mit Jesus (Matthäus 17,1–3).
