@@ -22988,3 +22988,524 @@ Und er wird ihnen das Land als Erbe geben, das du sehen wirst.“
 > Das ist eine der persönlichsten Stellen im Buch. Mose hat 40 Jahre lang das Volk geführt. Sein größter Wunsch ist es, das Land zu betreten. Er bittet Gott darum. Aber Gott sagt Nein.
 > Auch große Menschen des Glaubens bekommen nicht alles, worum sie bitten. Gott sagt Mose aber auch etwas Tröstliches: Du darfst das Land sehen. Und dein Werk geht weiter, durch Josua.
 > Christen erinnern sich an eine Geschichte im Neuen Testament: Viel später steht Mose doch im Land, auf einem Berg, zusammen mit Jesus (Matthäus 17,1–3).
+
+## 5. Mose – Kapitel 4
+#### Hört auf Gottes Gebote – macht euch kein Bild von Gott
+
+---
+
+### Hört und tut es (Vers 1–8)
+
+<sup>1</sup>Und jetzt, Israel, hör auf die Ordnungen und die Rechtsbestimmungen, die ich euch lehre.
+Tut sie, damit ihr lebt und hineingeht und das Land in Besitz nehmt,
+das der HERR, der Gott eurer Väter, euch gibt.
+<sup>2</sup>Ihr sollt nichts zu dem Wort hinzufügen, das ich euch gebiete,
+und ihr sollt nichts davon wegnehmen.
+So sollt ihr die Gebote des HERRN, eures Gottes, halten, die ich euch gebiete.
+<sup>3</sup>Eure Augen haben gesehen, was der HERR wegen Baal-Peor getan hat.
+Denn alle Männer, die Baal-Peor nachgelaufen sind,
+hat der HERR, dein Gott, aus eurer Mitte vernichtet.
+<sup>4</sup>Aber ihr, die ihr dem HERRN, eurem Gott, treu geblieben seid,
+ihr seid heute alle am Leben.
+<sup>5</sup>Schaut, ich habe euch Ordnungen und Rechtsbestimmungen gelehrt,
+wie der HERR, mein Gott, es mir befohlen hat.
+So sollt ihr es mitten in dem Land tun, in das ihr kommt, um es in Besitz zu nehmen.
+<sup>6</sup>Darum haltet sie und tut sie.
+Denn das ist eure Weisheit und euer Verstand vor den Augen der Völker.
+Sie werden von all diesen Ordnungen hören und sagen:
+„Wirklich, dieses große Volk ist ein weises und verständiges Volk.“
+<sup>7</sup>Denn welches große Volk hat einen Gott, der ihm so nahe ist,
+wie der HERR, unser Gott, uns nahe ist, wann immer wir ihn rufen?
+<sup>8</sup>Und welches große Volk hat so gerechte Ordnungen und Rechtsbestimmungen
+wie dieses ganze Gesetz, das ich euch heute vorlege?
+
+> **Was bedeutet das?**
+> „Nichts hinzufügen und nichts wegnehmen“: Gottes Wort soll man nicht verändern. Man soll es nicht nach eigenen Wünschen kürzen und auch nicht mit eigenen Regeln überladen. Darum ist auch bei dieser Übertragung so wichtig, dass kein Vers fehlt.
+> Baal-Peor: Das war die Geschichte in 4. Mose 25. Wer damals fremden Göttern folgte, ist gestorben. Wer treu blieb, lebt.
+> Vers 7 ist ein wunderbarer Satz: Gott ist nah. Man kann ihn jederzeit rufen. Man braucht keinen Tempel und keine Zauberei. Ein einfaches Gebet genügt.
+> Die Gebote sollen Israel nicht einengen. Sie sind Weisheit. Andere Völker sollen sehen: Hier leben Menschen gut und gerecht miteinander.
+
+---
+
+### Vergesst nicht, was ihr am Horeb erlebt habt (Vers 9–14)
+
+<sup>9</sup>Nur pass auf und achte gut auf dich selbst,
+damit du die Dinge nicht vergisst, die deine Augen gesehen haben,
+und damit sie nicht aus deinem Herzen weichen, dein ganzes Leben lang.
+Erzähl sie deinen Kindern und deinen Enkeln:
+<sup>10</sup>Den Tag, an dem du vor dem HERRN, deinem Gott, am Horeb gestanden hast,
+als der HERR zu mir sagte:
+„Versammle mir das Volk. Ich will sie meine Worte hören lassen,
+damit sie lernen, mich zu fürchten, alle Tage, die sie auf der Erde leben,
+und damit sie es ihre Kinder lehren.“
+<sup>11</sup>Ihr kamt herbei und standet unten am Berg.
+Der Berg brannte im Feuer bis mitten in den Himmel hinein,
+mit Finsternis, Wolken und dichtem Dunkel.
+<sup>12</sup>Der HERR sprach zu euch mitten aus dem Feuer.
+Ihr hörtet die Stimme der Worte, aber ihr saht keine Gestalt.
+Ihr hörtet nur eine Stimme.
+<sup>13</sup>Er verkündete euch seinen Bund, den er euch zu halten befahl: die Zehn Gebote.
+Er schrieb sie auf zwei Steintafeln.
+<sup>14</sup>Und mir befahl der HERR damals, euch Ordnungen und Rechtsbestimmungen zu lehren,
+damit ihr sie in dem Land tut, in das ihr hinüberzieht, um es in Besitz zu nehmen.
+
+> **Was bedeutet das?**
+> Glaube lebt von der Erinnerung. Eltern sollen ihren Kindern und Enkeln erzählen, was Gott getan hat. So wird der Glaube von Generation zu Generation weitergegeben.
+> „Gott fürchten“ heißt nicht, Angst vor ihm haben. Es heißt: Ehrfurcht haben, ihn ernst nehmen, ihn achten.
+> Ganz wichtig ist Vers 12: Das Volk hat Gottes Stimme gehört. Aber es hat keine Gestalt gesehen. Gott hat sich nicht als Bild gezeigt, sondern durch sein Wort.
+
+---
+
+### Macht euch kein Bild (Vers 15–20)
+
+<sup>15</sup>Achtet sehr auf euch selbst.
+Denn ihr habt keinerlei Gestalt gesehen an dem Tag, an dem der HERR am Horeb mitten aus dem Feuer zu euch sprach.
+<sup>16</sup>Darum handelt nicht verderblich und macht euch kein geschnitztes Bild in der Gestalt irgendeiner Figur,
+kein Abbild von einem Mann oder einer Frau,
+<sup>17</sup>kein Abbild von irgendeinem Tier, das auf der Erde lebt,
+kein Abbild von irgendeinem Vogel mit Flügeln, der am Himmel fliegt,
+<sup>18</sup>kein Abbild von irgendetwas, das auf dem Boden kriecht,
+kein Abbild von irgendeinem Fisch, der im Wasser unter der Erde lebt.
+<sup>19</sup>Und hebt nicht eure Augen zum Himmel auf
+und seht die Sonne, den Mond und die Sterne, das ganze Heer des Himmels,
+und lasst euch nicht verführen, sie anzubeten und ihnen zu dienen.
+Der HERR, euer Gott, hat sie allen Völkern unter dem ganzen Himmel zugeteilt.
+<sup>20</sup>Aber euch hat der HERR genommen
+und aus dem eisernen Schmelzofen herausgeführt, aus Ägypten,
+damit ihr sein eigenes Volk seid, sein Erbe, wie ihr es heute seid.
+
+> **Was bedeutet das?**
+> Weil Gott keine Gestalt gezeigt hat, soll man ihn auch nicht in einem Bild darstellen. Gott ist größer als alles, was Menschen sich vorstellen können. Ein Bild würde ihn klein machen. Man würde anfangen, das Bild anzubeten statt Gott selbst.
+> Andere Völker beteten Sonne, Mond und Sterne an. Die Bibel sagt: Das sind keine Götter. Gott hat sie gemacht. Sie sind Lampen am Himmel, für alle Menschen (1. Mose 1,14–18).
+> Ein „eiserner Schmelzofen“: So schlimm war die Sklaverei in Ägypten. Wie Metall im glühenden Feuer, so haben die Israeliten gelitten.
+
+---
+
+### Mose wird nicht mitkommen (Vers 21–24)
+
+<sup>21</sup>Der HERR war euretwegen zornig über mich.
+Er schwor, dass ich nicht über den Jordan ziehen werde
+und nicht in das gute Land kommen werde, das der HERR, dein Gott, dir als Erbe gibt.
+<sup>22</sup>Ich muss in diesem Land sterben. Ich darf nicht über den Jordan ziehen.
+Aber ihr werdet hinüberziehen und dieses gute Land in Besitz nehmen.
+<sup>23</sup>Passt auf, dass ihr den Bund des HERRN, eures Gottes, nicht vergesst, den er mit euch geschlossen hat.
+Macht euch kein geschnitztes Bild in der Gestalt von irgendetwas,
+wie der HERR, dein Gott, es dir verboten hat.
+<sup>24</sup>Denn der HERR, dein Gott, ist ein verzehrendes Feuer, ein eifersüchtiger Gott.
+
+> **Was bedeutet das?**
+> „Ein eifersüchtiger Gott“: Das klingt seltsam. Gemeint ist: Gott liebt sein Volk so sehr wie ein Ehemann seine Frau. Er will es nicht mit anderen Göttern teilen. Seine Liebe ist leidenschaftlich.
+> „Ein verzehrendes Feuer“: Gott ist heilig und mächtig. Man kann nicht leichtfertig mit ihm umgehen. Der Hebräerbrief im Neuen Testament zitiert diesen Satz (Hebräer 12,29).
+
+---
+
+### Eine Warnung und eine Hoffnung (Vers 25–31)
+
+<sup>25</sup>Wenn ihr Kinder und Enkel bekommt und schon lange im Land seid,
+und ihr handelt dann verderblich und macht euch ein geschnitztes Bild in irgendeiner Gestalt,
+und ihr tut, was in den Augen des HERRN, eures Gottes, böse ist, um ihn zu kränken,
+<sup>26</sup>dann rufe ich heute Himmel und Erde als Zeugen gegen euch an:
+Ihr werdet schnell und ganz aus dem Land verschwinden,
+in das ihr über den Jordan zieht, um es in Besitz zu nehmen.
+Ihr werdet nicht lange darin leben, sondern ganz vernichtet werden.
+<sup>27</sup>Der HERR wird euch unter die Völker zerstreuen.
+Und es werden nur wenige von euch übrig bleiben unter den Völkern, zu denen der HERR euch wegführen wird.
+<sup>28</sup>Dort werdet ihr Göttern dienen, die von Menschenhand gemacht sind, aus Holz und Stein.
+Sie sehen nicht, sie hören nicht, sie essen nicht, und sie riechen nicht.
+<sup>29</sup>Aber von dort aus werdet ihr den HERRN, euren Gott, suchen.
+Und du wirst ihn finden, wenn du ihn mit deinem ganzen Herzen und mit deiner ganzen Seele suchst.
+<sup>30</sup>Wenn du in Not bist und all das über dich gekommen ist,
+dann wirst du in späteren Tagen zum HERRN, deinem Gott, umkehren und auf seine Stimme hören.
+<sup>31</sup>Denn der HERR, dein Gott, ist ein barmherziger Gott.
+Er wird dich nicht im Stich lassen und dich nicht vernichten.
+Und er wird den Bund mit deinen Vätern nicht vergessen, den er ihnen geschworen hat.
+
+> **Was bedeutet das?**
+> Mose sieht voraus: Israel wird später untreu werden. Dann wird es das Land verlieren und unter die Völker zerstreut werden. Das ist später wirklich geschehen, als die Assyrer und die Babylonier kamen (etwa 722 und 586 vor Christus).
+> Aber das ist nicht das Ende! Vers 29 ist ein Versprechen für alle Zeiten: Wer Gott von ganzem Herzen sucht, der wird ihn finden. Auch in der Fremde, auch nach großer Schuld.
+> Gott ist barmherzig. Er vergisst seinen Bund nie. Es gibt immer einen Weg zurück.
+
+---
+
+### Es gibt keinen anderen Gott (Vers 32–40)
+
+<sup>32</sup>Frag doch einmal nach den früheren Zeiten, die vor dir gewesen sind,
+seit dem Tag, an dem Gott den Menschen auf der Erde erschaffen hat,
+und von einem Ende des Himmels bis zum anderen:
+Ist jemals etwas so Großes geschehen wie dies?
+Hat man je so etwas gehört?
+<sup>33</sup>Hat jemals ein Volk die Stimme Gottes mitten aus dem Feuer sprechen hören, wie du sie gehört hast,
+und ist am Leben geblieben?
+<sup>34</sup>Oder hat jemals ein Gott versucht, hinzugehen und sich ein Volk mitten aus einem anderen Volk zu holen,
+durch Prüfungen, durch Zeichen und durch Wunder, durch Krieg,
+mit starker Hand und ausgestrecktem Arm und durch große Schrecken,
+so wie alles, was der HERR, euer Gott, in Ägypten vor deinen Augen für euch getan hat?
+<sup>35</sup>Dir wurde es gezeigt, damit du erkennst, dass der HERR Gott ist.
+Es gibt keinen anderen außer ihm.
+<sup>36</sup>Vom Himmel her ließ er dich seine Stimme hören, um dich zu unterweisen.
+Und auf der Erde ließ er dich sein großes Feuer sehen.
+Und du hast seine Worte mitten aus dem Feuer gehört.
+<sup>37</sup>Weil er deine Väter geliebt hat, hat er ihre Nachkommen nach ihnen erwählt.
+Und er hat dich mit seiner Gegenwart, mit seiner großen Kraft, aus Ägypten herausgeführt,
+<sup>38</sup>um Völker vor dir zu vertreiben, die größer und mächtiger sind als du,
+um dich hineinzubringen und dir ihr Land als Erbe zu geben, wie es heute ist.
+<sup>39</sup>So erkenne heute und nimm es dir zu Herzen:
+Der HERR allein ist Gott, oben im Himmel und unten auf der Erde.
+Es gibt keinen anderen.
+<sup>40</sup>Du sollst seine Ordnungen und seine Gebote halten, die ich dir heute gebiete,
+damit es dir und deinen Kindern nach dir gut geht
+und damit du lange in dem Land lebst, das der HERR, dein Gott, dir für alle Zeit gibt.
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Abschnitte des ganzen Alten Testaments. Mose sagt ganz klar: Es gibt nur einen Gott. Es gibt keinen anderen. Damals glaubten fast alle Völker an viele Götter.
+> Warum hat Gott Israel erwählt? Nicht weil Israel besonders groß oder gut war. Sondern aus Liebe (Vers 37).
+> „Mit seiner Gegenwart“: Im Hebräischen steht „mit seinem Angesicht“. Gott selbst ist mitgegangen.
+> Und noch einmal: Die Gebote sind zum Guten da, „damit es dir gut geht“.
+
+---
+
+### Drei Zufluchtsstädte im Osten (Vers 41–43)
+
+<sup>41</sup>Damals sonderte Mose drei Städte jenseits des Jordan aus, im Osten, wo die Sonne aufgeht.
+<sup>42</sup>Dorthin sollte jemand fliehen können, der seinen Nächsten ohne Absicht getötet hat
+und ihn vorher nicht gehasst hatte.
+Wenn er in eine dieser Städte floh, sollte er am Leben bleiben.
+<sup>43</sup>Es waren: Bezer in der Wüste, auf der Hochebene, für die Rubeniten,
+Ramot in Gilead für die Gaditen
+und Golan in Baschan für die Manassiten.
+
+> **Was bedeutet das?**
+> Die Zufluchtsstädte wurden in 4. Mose 35 erklärt. Hier bestimmt Mose die drei Städte östlich des Jordan. Die drei Städte westlich des Jordan bestimmt später Josua (Josua 20).
+
+---
+
+### Die Einleitung zum Gesetz (Vers 44–49)
+
+<sup>44</sup>Das ist das Gesetz, das Mose den Israeliten vorlegte.
+<sup>45</sup>Das sind die Zeugnisse, die Ordnungen und die Rechtsbestimmungen,
+die Mose den Israeliten sagte, als sie aus Ägypten gezogen waren,
+<sup>46</sup>jenseits des Jordan, im Tal gegenüber von Bet-Peor,
+im Land von Sihon, dem König der Amoriter, der in Heschbon wohnte.
+Mose und die Israeliten hatten ihn geschlagen, als sie aus Ägypten gezogen waren.
+<sup>47</sup>Sie nahmen sein Land in Besitz und das Land von Og, dem König von Baschan,
+den beiden Königen der Amoriter, die jenseits des Jordan wohnten, im Osten:
+<sup>48</sup>von Aroër, das am Rand des Arnontales liegt, bis zum Berg Sion, der auch Hermon heißt,
+<sup>49</sup>und die ganze Araba jenseits des Jordan, im Osten,
+bis zum Meer der Araba, unterhalb der Hänge des Pisga.
+
+> **Was bedeutet das?**
+> Hier beginnt ein neuer großer Teil des Buches. Mose hat an die Geschichte erinnert. Jetzt folgen die Gebote selbst. Am Anfang stehen die Zehn Gebote (Kapitel 5).
+> Der „Berg Sion“ ist ein anderer Name für den Hermon. Er ist nicht zu verwechseln mit dem Berg Zion in Jerusalem.
+
+## 5. Mose – Kapitel 5
+#### Die Zehn Gebote
+
+---
+
+### Der Bund gilt euch heute (Vers 1–5)
+
+<sup>1</sup>Mose rief ganz Israel zusammen und sagte zu ihnen:
+„Höre, Israel, die Ordnungen und die Rechtsbestimmungen, die ich euch heute vor euren Ohren sage.
+Lernt sie und achtet darauf, sie zu tun.“
+<sup>2</sup>Der HERR, unser Gott, hat am Horeb einen Bund mit uns geschlossen.
+<sup>3</sup>Nicht mit unseren Vätern hat der HERR diesen Bund geschlossen,
+sondern mit uns, mit uns allen, die wir heute hier am Leben sind.
+<sup>4</sup>Von Angesicht zu Angesicht hat der HERR auf dem Berg mitten aus dem Feuer mit euch geredet.
+<sup>5</sup>(Ich stand damals zwischen dem HERRN und euch, um euch das Wort des HERRN mitzuteilen.
+Denn ihr hattet Angst vor dem Feuer und seid nicht auf den Berg gestiegen.)
+Er sagte:
+
+> **Was bedeutet das?**
+> Eigentlich waren die meisten, die am Horeb dabei waren, schon gestorben. Trotzdem sagt Mose: Der Bund wurde mit uns geschlossen, mit euch, die ihr heute lebt.
+> Das bedeutet: Gottes Bund ist nicht nur Vergangenheit. Er gilt für jede neue Generation. Bis heute sagen Juden beim Passafest: Jeder soll sich so sehen, als wäre er selbst aus Ägypten ausgezogen.
+> „Von Angesicht zu Angesicht“ heißt hier: direkt, persönlich. Das Volk hat Gott keine Gestalt gesehen (Kapitel 4,12), aber es hat seine Stimme direkt gehört.
+
+---
+
+### Ich bin der HERR, dein Gott (Vers 6)
+
+<sup>6</sup>„Ich bin der HERR, dein Gott.
+Ich habe dich aus dem Land Ägypten herausgeführt, aus dem Haus der Sklaverei.
+
+> **Was bedeutet das?**
+> Die Zehn Gebote standen schon in 2. Mose 20. Hier wiederholt Mose sie für die neue Generation. Die Worte sind fast gleich, aber es gibt ein paar kleine Unterschiede. Auf sie weisen wir in den Erklärungen hin.
+> Am Anfang steht wieder keine Forderung, sondern eine Erinnerung: Gott hat befreit. Die Gebote sind Regeln für freie Menschen.
+
+---
+
+### Keine anderen Götter, kein Bild (Vers 7–10)
+
+<sup>7</sup>Du sollst keine anderen Götter neben mir haben.
+<sup>8</sup>Du sollst dir kein geschnitztes Bild machen,
+überhaupt kein Abbild von irgendetwas,
+was oben im Himmel ist oder unten auf der Erde oder im Wasser unter der Erde.
+<sup>9</sup>Du sollst dich nicht vor ihnen niederwerfen und ihnen nicht dienen.
+Denn ich, der HERR, dein Gott, bin ein eifersüchtiger Gott.
+Bei denen, die mich hassen, verfolge ich die Schuld der Väter
+bis zu den Kindern, bis in die dritte und vierte Generation.
+<sup>10</sup>Aber denen, die mich lieben und meine Gebote halten,
+erweise ich meine Güte bis in die tausendste Generation.
+
+> **Was bedeutet das?**
+> Gott allein soll Gott sein. Und man soll sich kein Bild von ihm machen, weil er größer ist als alles, was wir uns vorstellen können (siehe Kapitel 4).
+> Im Hebräischen steht „an Tausenden“. Viele verstehen das als „tausend Generationen“.
+> Das Verhältnis ist wichtig: Die Folgen der Schuld reichen höchstens vier Generationen weit. Aber Gottes Güte reicht viel weiter. Seine Liebe ist größer als sein Zorn.
+> Später sagt Gott ausdrücklich: Kinder sollen nicht für die Schuld ihrer Eltern bestraft werden (5. Mose 24,16; Hesekiel 18,20). Gemeint ist hier eher: Schlechtes Verhalten wirkt oft in Familien weiter, wenn die Kinder es nachmachen.
+
+---
+
+### Gottes Namen nicht missbrauchen (Vers 11)
+
+<sup>11</sup>Du sollst den Namen des HERRN, deines Gottes, nicht missbrauchen.
+Denn der HERR wird den nicht ungestraft lassen, der seinen Namen missbraucht.
+
+> **Was bedeutet das?**
+> Gottes Name ist heilig. Man soll ihn nicht zum Fluchen, für falsche Schwüre oder für Betrug benutzen. Am schlimmsten ist es, Gottes Namen für Unrecht und Gewalt zu missbrauchen.
+
+---
+
+### Der Sabbat (Vers 12–15)
+
+<sup>12</sup>Halte den Sabbattag und heilige ihn,
+wie der HERR, dein Gott, es dir befohlen hat.
+<sup>13</sup>Sechs Tage lang sollst du arbeiten und alle deine Arbeit tun.
+<sup>14</sup>Aber der siebte Tag ist ein Sabbat für den HERRN, deinen Gott.
+An ihm sollst du keine Arbeit tun:
+du nicht, dein Sohn nicht, deine Tochter nicht,
+dein Knecht nicht, deine Magd nicht,
+dein Rind nicht, dein Esel nicht, keines deiner Tiere
+und auch nicht der Fremde, der in deinen Toren lebt,
+damit dein Knecht und deine Magd ausruhen können wie du.
+<sup>15</sup>Denk daran, dass du selbst Knecht im Land Ägypten gewesen bist.
+Und der HERR, dein Gott, hat dich mit starker Hand und ausgestrecktem Arm von dort herausgeführt.
+Darum hat der HERR, dein Gott, dir befohlen, den Sabbattag zu halten.
+
+> **Was bedeutet das?**
+> Hier gibt es einen schönen Unterschied zu 2. Mose 20:
+> Dort heißt es „Denk an den Sabbattag“. Hier heißt es „Halte den Sabbattag“.
+> Dort ist der Grund: Gott hat in sechs Tagen die Welt gemacht und am siebten geruht. Hier ist der Grund: Du warst selbst ein Sklave in Ägypten. Darum sollen auch deine Knechte und Mägde ausruhen dürfen, „wie du“.
+> Der Sabbat ist also auch ein soziales Gebot. Niemand soll ohne Pause arbeiten müssen. Auch die Schwächsten und sogar die Tiere haben ein Recht auf Ruhe. Das gab es damals sonst nirgends.
+> „Knecht“ und „Magd“ waren Diener oder Sklaven. In der englischen Vorlage steht „servant“, also „Diener“.
+
+---
+
+### Die Eltern ehren (Vers 16)
+
+<sup>16</sup>Ehre deinen Vater und deine Mutter,
+wie der HERR, dein Gott, es dir befohlen hat,
+damit du lange lebst und damit es dir gut geht in dem Land, das der HERR, dein Gott, dir gibt.
+
+> **Was bedeutet das?**
+> Gemeint sind vor allem erwachsene Kinder und ihre alten Eltern. Damals gab es keine Rente und kein Pflegeheim. Die Kinder sollten für ihre Eltern sorgen und sie achten.
+> Hier steht noch ein Zusatz, der in 2. Mose 20 fehlt: „damit es dir gut geht“. Eine Gesellschaft, in der man die Alten achtet, ist gut für alle.
+
+---
+
+### Leben, Ehe, Eigentum, Wahrheit (Vers 17–20)
+
+<sup>17</sup>Du sollst nicht morden.
+<sup>18</sup>Du sollst nicht die Ehe brechen.
+<sup>19</sup>Du sollst nicht stehlen.
+<sup>20</sup>Du sollst nicht falsch gegen deinen Nächsten aussagen.
+
+> **Was bedeutet das?**
+> Diese vier kurzen Gebote schützen das Zusammenleben:
+> Das Leben jedes Menschen ist heilig. Niemand darf einen anderen ermorden.
+> Die Ehe soll geschützt werden. Treue ist wichtig.
+> Was einem anderen gehört, soll man ihm nicht wegnehmen.
+> Vor Gericht und überall soll man die Wahrheit sagen. Eine Lüge kann einen Unschuldigen ins Unglück stürzen.
+
+---
+
+### Nicht begehren (Vers 21)
+
+<sup>21</sup>Du sollst nicht die Frau deines Nächsten begehren.
+Und du sollst nicht das Haus deines Nächsten haben wollen,
+nicht sein Feld, nicht seinen Knecht, nicht seine Magd,
+nicht sein Rind, nicht seinen Esel
+und nichts, was deinem Nächsten gehört.“
+
+> **Was bedeutet das?**
+> Das letzte Gebot geht tiefer als alle anderen. Es geht nicht um Taten, sondern um Wünsche im Herzen. Neid und Gier sind oft der Anfang von Diebstahl, Ehebruch und sogar Mord.
+> Kleiner Unterschied zu 2. Mose 20: Dort steht das Haus zuerst, hier die Frau. Und hier ist auch das Feld genannt, denn das Volk wird bald im Land Felder besitzen.
+> Wegen dieses Verses zählen Katholiken und Lutheraner hier zwei Gebote: das neunte (die Frau) und das zehnte (der Besitz). Andere zählen es als ein Gebot.
+
+---
+
+### Das Volk hat Angst (Vers 22–27)
+
+<sup>22</sup>Diese Worte hat der HERR zu eurer ganzen Versammlung auf dem Berg geredet,
+mitten aus dem Feuer, aus der Wolke und aus dem dichten Dunkel, mit lauter Stimme.
+Und er fügte nichts hinzu.
+Er schrieb sie auf zwei Steintafeln und gab sie mir.
+<sup>23</sup>Als ihr die Stimme mitten aus der Dunkelheit hörtet, während der Berg im Feuer brannte,
+da kamt ihr zu mir, alle Oberhäupter eurer Stämme und eure Ältesten.
+<sup>24</sup>Ihr sagtet:
+„Schau, der HERR, unser Gott, hat uns seine Herrlichkeit und seine Größe gezeigt.
+Und wir haben seine Stimme mitten aus dem Feuer gehört.
+Heute haben wir gesehen, dass Gott mit einem Menschen redet und der Mensch am Leben bleibt.
+<sup>25</sup>Aber warum sollen wir jetzt sterben?
+Denn dieses große Feuer wird uns verzehren.
+Wenn wir die Stimme des HERRN, unseres Gottes, noch länger hören, dann sterben wir.
+<sup>26</sup>Denn wer von allen Menschen hat die Stimme des lebendigen Gottes mitten aus dem Feuer sprechen hören, wie wir,
+und ist am Leben geblieben?
+<sup>27</sup>Geh du hin und hör alles, was der HERR, unser Gott, sagen wird.
+Und sag du uns alles, was der HERR, unser Gott, dir sagt.
+Wir wollen es hören und tun.“
+
+> **Was bedeutet das?**
+> „Er fügte nichts hinzu“: Die Zehn Gebote hat Gott direkt zu allen gesprochen. Sie sind etwas ganz Besonderes. Alle anderen Gebote hat er durch Mose gegeben.
+> Gottes Nähe ist überwältigend. Das Volk hat Angst und bittet: Mose, sei du unser Vermittler.
+
+---
+
+### Gott antwortet (Vers 28–33)
+
+<sup>28</sup>Der HERR hörte, was ihr zu mir sagtet.
+Und der HERR sagte zu mir:
+„Ich habe gehört, was dieses Volk zu dir gesagt hat.
+Alles, was sie gesagt haben, ist gut.
+<sup>29</sup>Ach, wenn sie doch immer so ein Herz hätten,
+mich zu fürchten und alle meine Gebote zu halten,
+damit es ihnen und ihren Kindern für immer gut geht!
+<sup>30</sup>Geh und sag ihnen: ‚Kehrt zurück in eure Zelte.‘
+<sup>31</sup>Du aber bleib hier bei mir stehen.
+Ich will dir alle Gebote, Ordnungen und Rechtsbestimmungen sagen, die du sie lehren sollst,
+damit sie sie in dem Land tun, das ich ihnen gebe, um es in Besitz zu nehmen.“
+<sup>32</sup>So achtet darauf, zu tun, was der HERR, euer Gott, euch befohlen hat.
+Weicht nicht davon ab, weder nach rechts noch nach links.
+<sup>33</sup>Geht auf dem ganzen Weg, den der HERR, euer Gott, euch befohlen hat,
+damit ihr lebt und es euch gut geht
+und damit ihr lange in dem Land lebt, das ihr in Besitz nehmen werdet.
+
+> **Was bedeutet das?**
+> Vers 29 zeigt Gottes Herz. Er seufzt wie ein Vater: „Ach, wenn sie doch immer so wären!“ Gott wünscht sich nichts mehr, als dass es seinem Volk gut geht.
+> Das Ziel aller Gebote steht in Vers 33: „damit ihr lebt und es euch gut geht“. Gottes Gebote sind wie ein Weg. Wer darauf bleibt, kommt gut ans Ziel.
+
+## 5. Mose – Kapitel 6
+#### Höre, Israel!
+
+---
+
+### Damit es euch gut geht (Vers 1–3)
+
+<sup>1</sup>Das sind die Gebote, die Ordnungen und die Rechtsbestimmungen,
+die der HERR, euer Gott, befohlen hat, euch zu lehren,
+damit ihr sie in dem Land tut, in das ihr hinüberzieht, um es in Besitz zu nehmen.
+<sup>2</sup>So sollst du den HERRN, deinen Gott, fürchten
+und alle seine Ordnungen und Gebote halten, die ich dir gebiete,
+du, dein Sohn und dein Enkel, alle Tage deines Lebens,
+damit du lange lebst.
+<sup>3</sup>So höre, Israel, und achte darauf, es zu tun,
+damit es dir gut geht und damit ihr sehr zahlreich werdet,
+wie der HERR, der Gott deiner Väter, es dir versprochen hat,
+in einem Land, in dem Milch und Honig fließen.
+
+> **Was bedeutet das?**
+> „Ein Land, in dem Milch und Honig fließen“: Das ist ein Bild für ein reiches, fruchtbares Land. Es gibt genug Weide für Ziegen und Kühe und viele Blüten für die Bienen.
+
+---
+
+### Das wichtigste Gebot (Vers 4–5)
+
+<sup>4</sup>Höre, Israel: Der HERR ist unser Gott. Der HERR ist einer.
+<sup>5</sup>Du sollst den HERRN, deinen Gott, lieben
+mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deiner ganzen Kraft.
+
+> **Was bedeutet das?**
+> Das sind vielleicht die wichtigsten Sätze des ganzen Alten Testaments. Auf Hebräisch beginnen sie mit dem Wort „Schma“, das heißt „Höre“. Darum heißt dieses Gebet „Schma Israel“.
+> Juden beten es bis heute jeden Morgen und jeden Abend. Es ist das erste Gebet, das jüdische Kinder lernen, und oft das letzte, das ein Mensch vor dem Tod spricht.
+> „Der HERR ist einer“ bedeutet: Es gibt nur einen Gott. Und er ist ganz und ungeteilt. Man kann die Worte auch so übersetzen: „Der HERR ist unser Gott, der HERR allein.“
+> Und dann kommt das Gebot: Gott lieben! Nicht nur gehorchen, sondern lieben, mit allem, was man ist: mit dem Herzen (dem Denken und Fühlen), mit der Seele (dem ganzen Leben) und mit aller Kraft.
+> Als Jesus gefragt wurde, welches Gebot das wichtigste ist, hat er genau diese Worte zitiert. Und er fügte das Gebot aus 3. Mose 19,18 hinzu: „Liebe deinen Nächsten wie dich selbst“ (Markus 12,29–31).
+
+---
+
+### Die Worte im Alltag (Vers 6–9)
+
+<sup>6</sup>Diese Worte, die ich dir heute gebiete, sollen in deinem Herzen sein.
+<sup>7</sup>Du sollst sie deinen Kindern immer wieder einschärfen.
+Du sollst von ihnen reden, wenn du in deinem Haus sitzt und wenn du unterwegs bist,
+wenn du dich hinlegst und wenn du aufstehst.
+<sup>8</sup>Du sollst sie als Zeichen an deine Hand binden.
+Und sie sollen als Merkzeichen zwischen deinen Augen sein.
+<sup>9</sup>Du sollst sie an die Türpfosten deines Hauses und an deine Tore schreiben.
+
+> **Was bedeutet das?**
+> Gottes Wort soll nicht nur in der Kirche oder Synagoge vorkommen, sondern überall im Leben: zu Hause, unterwegs, am Abend und am Morgen.
+> Juden nehmen diese Verse bis heute auch wörtlich:
+> Beim Morgengebet binden sich jüdische Männer (und in manchen Gemeinden auch Frauen) kleine Lederkapseln an den Arm und an die Stirn. Sie heißen „Tefillin“. Darin sind Zettel mit diesen Bibelversen.
+> An den Türpfosten jüdischer Häuser hängt eine kleine Kapsel, die „Mesusa“. Darin steht ebenfalls das „Schma Israel“. Viele berühren sie, wenn sie durch die Tür gehen.
+> Die tiefere Bedeutung: Mit der Hand handeln wir, mit dem Kopf denken wir, durch die Tür gehen wir ein und aus. Alles soll von Gottes Wort geprägt sein.
+
+---
+
+### Vergiss Gott nicht, wenn es dir gut geht (Vers 10–15)
+
+<sup>10</sup>Der HERR, dein Gott, wird dich in das Land bringen,
+das er deinen Vätern Abraham, Isaak und Jakob geschworen hat, dir zu geben:
+große und schöne Städte, die du nicht gebaut hast,
+<sup>11</sup>Häuser voller guter Dinge, die du nicht gefüllt hast,
+ausgehauene Zisternen, die du nicht ausgehauen hast,
+Weinberge und Olivenbäume, die du nicht gepflanzt hast.
+Und du wirst essen und satt werden.
+<sup>12</sup>Dann hüte dich, dass du den HERRN nicht vergisst,
+der dich aus dem Land Ägypten herausgeführt hat, aus dem Haus der Sklaverei.
+<sup>13</sup>Den HERRN, deinen Gott, sollst du fürchten.
+Ihm sollst du dienen, und bei seinem Namen sollst du schwören.
+<sup>14</sup>Ihr sollt nicht anderen Göttern nachlaufen,
+von den Göttern der Völker, die rings um euch wohnen.
+<sup>15</sup>Denn der HERR, dein Gott, der in deiner Mitte ist, ist ein eifersüchtiger Gott.
+Sonst entbrennt der Zorn des HERRN, deines Gottes, gegen dich,
+und er vernichtet dich vom Erdboden.
+
+> **Was bedeutet das?**
+> Eine große Gefahr ist nicht die Not, sondern der Wohlstand. Wenn es uns gut geht, vergessen wir leicht, wem wir alles verdanken.
+> Israel wird vieles bekommen, für das es nicht gearbeitet hat. Alles ist Geschenk. Wer das weiß, bleibt dankbar.
+> Eine „Zisterne“ ist ein Becken im Felsen, in dem man Regenwasser sammelt.
+> Jesus zitiert Vers 13, als der Teufel ihn versucht: „Du sollst den Herrn, deinen Gott, anbeten und ihm allein dienen“ (Matthäus 4,10).
+
+---
+
+### Stellt Gott nicht auf die Probe (Vers 16–19)
+
+<sup>16</sup>Ihr sollt den HERRN, euren Gott, nicht versuchen,
+wie ihr ihn in Massa versucht habt.
+<sup>17</sup>Ihr sollt die Gebote des HERRN, eures Gottes, sorgfältig halten,
+seine Zeugnisse und seine Ordnungen, die er dir befohlen hat.
+<sup>18</sup>Du sollst tun, was in den Augen des HERRN recht und gut ist,
+damit es dir gut geht und du hineingehst und das gute Land in Besitz nimmst,
+das der HERR deinen Vätern geschworen hat,
+<sup>19</sup>und damit er alle deine Feinde vor dir vertreibt, wie der HERR es gesagt hat.
+
+> **Was bedeutet das?**
+> In Massa hatte das Volk kein Wasser und fragte: „Ist der HERR mitten unter uns oder nicht?“ (2. Mose 17,7). Sie wollten Gott zwingen, sich zu beweisen.
+> „Gott versuchen“ heißt: Ihm nicht vertrauen, sondern Beweise fordern. Auch diesen Vers zitiert Jesus in der Versuchung, als der Teufel ihn auffordert, vom Tempel zu springen (Matthäus 4,7).
+
+---
+
+### Wenn dein Kind dich fragt (Vers 20–25)
+
+<sup>20</sup>Wenn dein Sohn dich später fragt:
+„Was bedeuten die Zeugnisse, die Ordnungen und die Rechtsbestimmungen,
+die der HERR, unser Gott, euch geboten hat?“,
+<sup>21</sup>dann sollst du deinem Sohn sagen:
+„Wir waren Sklaven des Pharao in Ägypten.
+Und der HERR hat uns mit starker Hand aus Ägypten herausgeführt.
+<sup>22</sup>Der HERR hat vor unseren Augen große und furchterregende Zeichen und Wunder getan
+an Ägypten, am Pharao und an seinem ganzen Haus.
+<sup>23</sup>Und uns hat er von dort herausgeführt, um uns hierher zu bringen
+und uns das Land zu geben, das er unseren Vätern geschworen hat.
+<sup>24</sup>Der HERR hat uns befohlen, alle diese Ordnungen zu tun
+und den HERRN, unseren Gott, zu fürchten,
+zu unserem Besten, für alle Zeit,
+damit er uns am Leben erhält, wie es heute ist.
+<sup>25</sup>Und es wird für uns Gerechtigkeit sein,
+wenn wir darauf achten, alle diese Gebote vor dem HERRN, unserem Gott, zu tun,
+wie er es uns befohlen hat.“
+
+> **Was bedeutet das?**
+> Kinder stellen Fragen. Das ist gut so! Die Antwort soll keine Liste von Regeln sein, sondern eine Geschichte: „Wir waren Sklaven, und Gott hat uns befreit.“
+> Wer Gottes Gebote verstehen will, muss zuerst wissen, was Gott getan hat. Die Gebote sind die Antwort auf Gottes Liebe.
+> Dieser Abschnitt ist ein Teil der jüdischen Passa-Feier geworden. Beim Passamahl fragen die Kinder, und die Eltern erzählen die Geschichte der Befreiung.
+> „Zu unserem Besten“: Gottes Gebote dienen dem Leben.
