@@ -18132,3 +18132,395 @@ Aber diese Frau soll ihre Schuld tragen.‘“
 > Für uns heute ist dieses Verfahren sehr schwer zu ertragen. Es ist einseitig: Nur die Frau wird geprüft, nicht der Mann. Es gibt kein solches Verfahren für einen Mann, den seine Frau verdächtigt. Das zeigt die ungleiche Stellung von Männern und Frauen in der damaligen Zeit.
 > Auch die jüdischen Gelehrten haben dieses Verfahren kritisch gesehen. Sie haben es mit vielen Bedingungen eingeschränkt. Im ersten Jahrhundert nach Christus hat Rabbi Jochanan ben Sakkai es ganz abgeschafft. Er sagte: Als es immer mehr untreue Männer gab, durfte man das Wasser nicht mehr bei den Frauen anwenden (Mischna Sota 9,9).
 > Jesus hat Frauen und Männer gleich ernst genommen. Er sagte, dass auch ein Mann, der eine andere Frau begehrt, schon Ehebruch begeht (Matthäus 5,28). Und er hat eine Frau, die beim Ehebruch ertappt wurde, vor der Steinigung bewahrt (Johannes 8,1–11).
+
+## 4. Mose – Kapitel 6
+#### Das Gelübde der Nasiräer – der Segen Aarons
+
+---
+
+### Wer sich Gott besonders weiht (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ein Mann oder eine Frau ein besonderes Gelübde ablegt,
+das Gelübde eines Nasiräers, um sich für den HERRN abzusondern,
+<sup>3</sup>dann soll er sich von Wein und starkem Getränk fernhalten.
+Er soll keinen Essig aus Wein und keinen Essig aus starkem Getränk trinken.
+Er soll keinen Traubensaft trinken und keine frischen oder getrockneten Trauben essen.
+<sup>4</sup>Solange er abgesondert ist, soll er nichts essen, was vom Weinstock kommt,
+von den Kernen bis zu den Schalen.
+
+<sup>5</sup>Solange sein Gelübde der Absonderung gilt, soll kein Rasiermesser an seinen Kopf kommen,
+bis die Tage vorbei sind, in denen er sich für den HERRN absondert.
+Er soll heilig sein.
+Er soll die Locken seines Kopfhaares lang wachsen lassen.
+
+<sup>6</sup>Solange er sich für den HERRN absondert, soll er nicht zu einem Toten gehen.
+<sup>7</sup>Er soll sich nicht unrein machen, auch nicht für seinen Vater, seine Mutter, seinen Bruder oder seine Schwester, wenn sie sterben.
+Denn das Zeichen seiner Weihe für Gott ist auf seinem Kopf.
+<sup>8</sup>Solange er abgesondert ist, ist er dem HERRN heilig.
+
+> **Was bedeutet das?**
+> Ein „Nasiräer“ ist ein Mensch, der sich für eine bestimmte Zeit ganz Gott weiht. Das Wort kommt vom hebräischen „nasir“: abgesondert, geweiht.
+> Wichtig: Das gilt für Männer und für Frauen. Jeder konnte dieses Gelübde ablegen, nicht nur Priester.
+> Ein Nasiräer hat drei Zeichen:
+> 1. Kein Wein und nichts von der Weintraube. Wein steht für Feste und für das bequeme Leben im Land.
+> 2. Die Haare werden nicht geschnitten. Die langen Haare sind für alle sichtbar ein Zeichen: Dieser Mensch gehört gerade ganz Gott.
+> 3. Kein Kontakt mit Toten, nicht einmal bei den eigenen Eltern. Darin ist er sogar strenger als ein normaler Priester, so wie der Hohepriester (3. Mose 21,11).
+> Berühmte Nasiräer in der Bibel sind Simson (Richter 13), Samuel (1. Samuel 1,11) und wahrscheinlich Johannes der Täufer (Lukas 1,15). Auch Paulus hat ein solches Gelübde abgelegt (Apostelgeschichte 18,18; 21,23–26).
+
+---
+
+### Wenn jemand plötzlich neben ihm stirbt (Vers 9–12)
+
+<sup>9</sup>Wenn jemand ganz plötzlich neben ihm stirbt
+und er dadurch sein geweihtes Haupt unrein macht,
+dann soll er seinen Kopf am Tag seiner Reinigung scheren.
+Am siebten Tag soll er ihn scheren.
+<sup>10</sup>Am achten Tag soll er zwei Turteltauben oder zwei junge Tauben zum Priester bringen,
+an den Eingang des Zeltes der Begegnung.
+<sup>11</sup>Der Priester soll eine als Sündopfer und die andere als Brandopfer darbringen
+und für ihn Versöhnung schaffen,
+weil er durch den Toten schuldig geworden ist.
+Und er soll sein Haupt am selben Tag wieder heiligen.
+<sup>12</sup>Er soll sich dem HERRN für die Tage seiner Absonderung wieder weihen
+und ein einjähriges männliches Lamm als Schuldopfer bringen.
+Aber die früheren Tage zählen nicht mehr,
+weil seine Weihe unrein geworden ist.
+
+> **Was bedeutet das?**
+> Manchmal passiert etwas, wofür man nichts kann: Jemand stirbt plötzlich neben einem. Dann muss der Nasiräer von vorne anfangen. Die Zeit vorher zählt nicht mehr.
+> Das zeigt, wie ernst das Gelübde ist. Aber es zeigt auch: Man kann neu anfangen.
+
+---
+
+### Das Ende der Weihezeit (Vers 13–21)
+
+<sup>13</sup>Das ist die Vorschrift für den Nasiräer:
+Wenn die Tage seiner Absonderung zu Ende sind,
+soll man ihn zum Eingang des Zeltes der Begegnung bringen.
+<sup>14</sup>Und er soll dem HERRN seine Opfergabe bringen:
+ein einjähriges männliches Lamm ohne Fehler als Brandopfer,
+ein einjähriges weibliches Lamm ohne Fehler als Sündopfer,
+einen Schafbock ohne Fehler als Gemeinschaftsopfer,
+<sup>15</sup>einen Korb mit ungesäuertem Brot, Kuchen aus feinem Mehl, mit Öl vermengt,
+und ungesäuerte Fladen, mit Öl bestrichen,
+dazu ihr Speiseopfer und ihre Trankopfer.
+
+<sup>16</sup>Der Priester soll sie vor den HERRN bringen
+und sein Sündopfer und sein Brandopfer darbringen.
+<sup>17</sup>Den Schafbock soll er dem HERRN als Gemeinschaftsopfer darbringen,
+zusammen mit dem Korb mit dem ungesäuerten Brot.
+Der Priester soll auch das Speiseopfer und das Trankopfer dazu darbringen.
+
+<sup>18</sup>Der Nasiräer soll am Eingang des Zeltes der Begegnung sein geweihtes Haupt scheren.
+Er soll das Haar seines geweihten Hauptes nehmen
+und es in das Feuer legen, das unter dem Gemeinschaftsopfer brennt.
+<sup>19</sup>Der Priester soll die gekochte Schulter des Schafbocks nehmen,
+einen ungesäuerten Kuchen aus dem Korb und einen ungesäuerten Fladen.
+Er soll sie dem Nasiräer in die Hände legen, nachdem er sein geweihtes Haupt geschoren hat.
+<sup>20</sup>Und der Priester soll sie vor dem HERRN als Schwingopfer hin- und herschwingen.
+Sie sind heilig und gehören dem Priester,
+zusammen mit der Brust des Schwingopfers und der Keule des Hebeopfers.
+Danach darf der Nasiräer wieder Wein trinken.
+
+<sup>21</sup>Das ist die Vorschrift für den Nasiräer, der ein Gelübde ablegt,
+und für seine Opfergabe an den HERRN für seine Absonderung,
+zusätzlich zu dem, was er sich sonst noch leisten kann.
+So wie er es gelobt hat, so muss er es tun, nach der Vorschrift für seine Absonderung.‘“
+
+> **Was bedeutet das?**
+> Am Ende der Weihezeit bringt der Nasiräer viele Opfer: Brandopfer, Sündopfer, Gemeinschaftsopfer. Das ist ein großes Fest.
+> Seine langen Haare werden abgeschnitten und verbrannt. Sie waren das Zeichen seiner Weihe. Jetzt gehören sie ganz Gott.
+> Danach darf er wieder Wein trinken und ganz normal leben.
+> Wer mehr geben will, darf mehr geben. Aber was man versprochen hat, muss man auch halten.
+
+---
+
+### Der Segen Aarons (Vers 22–27)
+
+<sup>22</sup>Der HERR sprach zu Mose:
+<sup>23</sup>„Sprich zu Aaron und zu seinen Söhnen und sag:
+‚So sollt ihr die Israeliten segnen.‘
+Sagt zu ihnen:
+<sup>24</sup>‚Der HERR segne dich und behüte dich.
+<sup>25</sup>Der HERR lasse sein Angesicht über dir leuchten und sei dir gnädig.
+<sup>26</sup>Der HERR erhebe sein Angesicht auf dich und gebe dir Frieden.‘
+<sup>27</sup>So sollen sie meinen Namen auf die Israeliten legen.
+Und ich will sie segnen.“
+
+> **Was bedeutet das?**
+> Das ist einer der bekanntesten und schönsten Texte der ganzen Bibel. Er heißt „der Aaronitische Segen“ oder „der Priestersegen“.
+> Bis heute wird er in Synagogen gesprochen. Und in sehr vielen Kirchen endet jeder Gottesdienst mit genau diesen Worten.
+> Dreimal kommt der Name des HERRN vor. Jede Zeile wird ein bisschen länger, wie ein Segen, der immer weiter wächst.
+> „Segnen“ heißt: Gott schenkt Gutes, Leben und Gelingen. „Behüten“ heißt: Gott beschützt.
+> „Sein Angesicht leuchten lassen“ ist ein Bild: Gott schaut dich freundlich an, so wie ein Vater oder eine Mutter ihr Kind liebevoll anlächelt.
+> „Frieden“ heißt auf Hebräisch „Schalom“. Das ist mehr als „kein Krieg“. Es bedeutet: Alles ist heil und gut, mit Gott, mit den Menschen und mit sich selbst.
+> Wichtig ist Vers 27: Die Priester sprechen die Worte. Aber segnen tut Gott selbst: „Ich will sie segnen.“
+> Archäologen haben in Jerusalem zwei kleine Silberröllchen gefunden, auf denen dieser Segen steht. Sie sind etwa 2600 Jahre alt. Sie gehören zu den ältesten bekannten Bibeltexten der Welt.
+
+## 4. Mose – Kapitel 7
+#### Die Gaben der zwölf Stammesführer
+
+---
+
+### Wagen und Rinder für die Leviten (Vers 1–9)
+
+<sup>1</sup>An dem Tag, an dem Mose die Wohnung fertig aufgerichtet hatte,
+sie gesalbt und geheiligt hatte mit allen ihren Geräten,
+und auch den Altar mit allen seinen Geräten gesalbt und geheiligt hatte,
+<sup>2</sup>da brachten die Anführer Israels Gaben, die Oberhäupter ihrer Familien.
+Das waren die Anführer der Stämme. Sie standen an der Spitze der Gezählten.
+<sup>3</sup>Sie brachten ihre Opfergabe vor den HERRN:
+sechs überdachte Wagen und zwölf Rinder,
+einen Wagen für je zwei Anführer und ein Rind für jeden.
+Sie brachten sie vor die Wohnung.
+
+<sup>4</sup>Der HERR sprach zu Mose:
+<sup>5</sup>„Nimm sie von ihnen an.
+Sie sollen für den Dienst am Zelt der Begegnung benutzt werden.
+Gib sie den Leviten, jedem nach seinem Dienst.“
+<sup>6</sup>Mose nahm die Wagen und die Rinder und gab sie den Leviten.
+<sup>7</sup>Zwei Wagen und vier Rinder gab er den Nachkommen Gerschons, nach ihrem Dienst.
+<sup>8</sup>Vier Wagen und acht Rinder gab er den Nachkommen Meraris, nach ihrem Dienst,
+unter der Leitung von Itamar, dem Sohn von Aaron, dem Priester.
+<sup>9</sup>Aber den Nachkommen Kehats gab er keine.
+Denn sie hatten den Dienst an den heiligen Dingen. Sie trugen sie auf ihren Schultern.
+
+> **Was bedeutet das?**
+> Das Kapitel springt zeitlich etwas zurück: zu dem Tag, an dem das Heiligtum fertig war (2. Mose 40).
+> Die Wagen helfen beim Transport. Die Merariter bekommen die meisten Wagen, weil sie die schweren Bretter und Säulen tragen. Die Gerschoniter bekommen zwei Wagen für die Decken und Vorhänge.
+> Die Kehatiter bekommen keinen Wagen. Die heiligen Dinge, wie die Bundeslade, müssen auf den Schultern getragen werden. Heiliges wird nicht einfach aufgeladen wie Gepäck.
+
+---
+
+### Zwölf Tage, zwölf Gaben (Vers 10–11)
+
+<sup>10</sup>Die Anführer brachten Gaben für die Einweihung des Altars an dem Tag, an dem er gesalbt wurde.
+Die Anführer brachten ihre Opfergaben vor den Altar.
+<sup>11</sup>Der HERR sagte zu Mose:
+„Sie sollen ihre Opfergabe bringen, jeder Anführer an seinem eigenen Tag, zur Einweihung des Altars.“
+
+> **Was bedeutet das?**
+> Jetzt bringen die zwölf Stammesführer ihre Gaben, an zwölf Tagen hintereinander. Jeder bringt genau dasselbe. Und die Bibel schreibt jede Gabe einzeln und vollständig auf.
+> Beim Lesen kann das eintönig wirken. Aber es hat einen Sinn: Jeder Stamm ist gleich wichtig. Der kleine Stamm bekommt genauso viel Platz wie der große. Keiner wird abgekürzt. Gott sieht jede einzelne Gabe.
+> Die Gaben sind: eine Schale aus Silber von 130 Schekel, eine Schüssel aus Silber von 70 Schekel, beide voll Mehl mit Öl, und eine Schale aus Gold von 10 Schekel, voll Räucherwerk. Dazu viele Tiere für die verschiedenen Opfer. Ein Schekel sind etwa 11 Gramm. Im Text sind die Gewichte in Gramm und Kilogramm umgerechnet.
+
+---
+
+### Der erste Tag: Nachschon vom Stamm Juda (Vers 12–17)
+
+<sup>12</sup>Am ersten Tag brachte seine Opfergabe: Nachschon, der Sohn von Amminadab, vom Stamm Juda.
+<sup>13</sup>Seine Opfergabe war:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>14</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>15</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>16</sup>einen Ziegenbock als Sündopfer;
+<sup>17</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Nachschon, dem Sohn von Amminadab.
+
+---
+
+### Der zweite Tag: Netanel vom Stamm Issachar (Vers 18–23)
+
+<sup>18</sup>Am zweiten Tag brachte Netanel, der Sohn von Zuar, der Anführer von Issachar, seine Opfergabe.
+<sup>19</sup>Er brachte als seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>20</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>21</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>22</sup>einen Ziegenbock als Sündopfer;
+<sup>23</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Netanel, dem Sohn von Zuar.
+
+---
+
+### Der dritte Tag: Eliab vom Stamm Sebulon (Vers 24–29)
+
+<sup>24</sup>Am dritten Tag kam Eliab, der Sohn von Helon, der Anführer der Nachkommen von Sebulon.
+<sup>25</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>26</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>27</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>28</sup>einen Ziegenbock als Sündopfer;
+<sup>29</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Eliab, dem Sohn von Helon.
+
+---
+
+### Der vierte Tag: Elizur vom Stamm Ruben (Vers 30–35)
+
+<sup>30</sup>Am vierten Tag kam Elizur, der Sohn von Schedeur, der Anführer der Nachkommen von Ruben.
+<sup>31</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>32</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>33</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>34</sup>einen Ziegenbock als Sündopfer;
+<sup>35</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Elizur, dem Sohn von Schedeur.
+
+---
+
+### Der fünfte Tag: Schelumiël vom Stamm Simeon (Vers 36–41)
+
+<sup>36</sup>Am fünften Tag kam Schelumiël, der Sohn von Zurischaddai, der Anführer der Nachkommen von Simeon.
+<sup>37</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>38</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>39</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>40</sup>einen Ziegenbock als Sündopfer;
+<sup>41</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Schelumiël, dem Sohn von Zurischaddai.
+
+---
+
+### Der sechste Tag: Eljasaf vom Stamm Gad (Vers 42–47)
+
+<sup>42</sup>Am sechsten Tag kam Eljasaf, der Sohn von Deuël, der Anführer der Nachkommen von Gad.
+<sup>43</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>44</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>45</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>46</sup>einen Ziegenbock als Sündopfer;
+<sup>47</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Eljasaf, dem Sohn von Deuël.
+
+---
+
+### Der siebte Tag: Elischama vom Stamm Efraim (Vers 48–53)
+
+<sup>48</sup>Am siebten Tag kam Elischama, der Sohn von Ammihud, der Anführer der Nachkommen von Efraim.
+<sup>49</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>50</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>51</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>52</sup>einen Ziegenbock als Sündopfer;
+<sup>53</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Elischama, dem Sohn von Ammihud.
+
+---
+
+### Der achte Tag: Gamliël vom Stamm Manasse (Vers 54–59)
+
+<sup>54</sup>Am achten Tag kam Gamliël, der Sohn von Pedazur, der Anführer der Nachkommen von Manasse.
+<sup>55</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>56</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>57</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>58</sup>einen Ziegenbock als Sündopfer;
+<sup>59</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Gamliël, dem Sohn von Pedazur.
+
+---
+
+### Der neunte Tag: Abidan vom Stamm Benjamin (Vers 60–65)
+
+<sup>60</sup>Am neunten Tag kam Abidan, der Sohn von Gidoni, der Anführer der Nachkommen von Benjamin.
+<sup>61</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>62</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>63</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>64</sup>einen Ziegenbock als Sündopfer;
+<sup>65</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Abidan, dem Sohn von Gidoni.
+
+---
+
+### Der zehnte Tag: Ahiëser vom Stamm Dan (Vers 66–71)
+
+<sup>66</sup>Am zehnten Tag kam Ahiëser, der Sohn von Ammischaddai, der Anführer der Nachkommen von Dan.
+<sup>67</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>68</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>69</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>70</sup>einen Ziegenbock als Sündopfer;
+<sup>71</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Ahiëser, dem Sohn von Ammischaddai.
+
+---
+
+### Der elfte Tag: Pagiël vom Stamm Ascher (Vers 72–77)
+
+<sup>72</sup>Am elften Tag kam Pagiël, der Sohn von Ochran, der Anführer der Nachkommen von Ascher.
+<sup>73</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>74</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>75</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>76</sup>einen Ziegenbock als Sündopfer;
+<sup>77</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Pagiël, dem Sohn von Ochran.
+
+---
+
+### Der zwölfte Tag: Ahira vom Stamm Naftali (Vers 78–83)
+
+<sup>78</sup>Am zwölften Tag kam Ahira, der Sohn von Enan, der Anführer der Nachkommen von Naftali.
+<sup>79</sup>Er brachte seine Opfergabe:
+eine Schale aus Silber, die etwa 1,4 Kilogramm wog,
+und eine Schüssel aus Silber von etwa 770 Gramm, nach dem Gewicht des Heiligtums,
+beide voll mit feinem Mehl, mit Öl vermengt, als Speiseopfer;
+<sup>80</sup>eine Schale aus Gold von etwa 110 Gramm, voll mit Räucherwerk;
+<sup>81</sup>einen jungen Stier, einen Schafbock und ein einjähriges männliches Lamm als Brandopfer;
+<sup>82</sup>einen Ziegenbock als Sündopfer;
+<sup>83</sup>und als Gemeinschaftsopfer zwei Rinder, fünf Schafböcke, fünf Ziegenböcke und fünf einjährige männliche Lämmer.
+Das war die Opfergabe von Ahira, dem Sohn von Enan.
+
+> **Was bedeutet das?**
+> Die Reihenfolge der Stämme ist dieselbe wie bei der Ordnung des Lagers in Kapitel 2: zuerst Juda, Issachar und Sebulon im Osten, dann Ruben, Simeon und Gad im Süden, dann Efraim, Manasse und Benjamin im Westen, zuletzt Dan, Ascher und Naftali im Norden.
+> Am sechsten Tag heißt der Vater von Eljasaf in der Vorlage wieder „Deuël“, wie in Kapitel 1. In Kapitel 2 stand „Reuël“.
+
+---
+
+### Die Summe aller Gaben (Vers 84–88)
+
+<sup>84</sup>Das war die Gabe zur Einweihung des Altars an dem Tag, an dem er gesalbt wurde, von den Anführern Israels:
+zwölf Schalen aus Silber, zwölf Schüsseln aus Silber, zwölf Schalen aus Gold.
+<sup>85</sup>Jede Schale aus Silber wog etwa 1,4 Kilogramm und jede Schüssel etwa 770 Gramm.
+Das ganze Silber der Geräte wog etwa 26 Kilogramm, nach dem Gewicht des Heiligtums.
+<sup>86</sup>Die zwölf Schalen aus Gold, voll mit Räucherwerk, wogen je etwa 110 Gramm, nach dem Gewicht des Heiligtums.
+Das ganze Gold der Schalen wog etwa 1,3 Kilogramm.
+<sup>87</sup>Alle Rinder für das Brandopfer waren zwölf Stiere,
+dazu zwölf Schafböcke und zwölf einjährige männliche Lämmer, mit ihrem Speiseopfer,
+und zwölf Ziegenböcke als Sündopfer.
+<sup>88</sup>Und alle Rinder für das Gemeinschaftsopfer waren 24 Stiere,
+dazu 60 Schafböcke, 60 Ziegenböcke und 60 einjährige männliche Lämmer.
+Das war die Gabe zur Einweihung des Altars, nachdem er gesalbt worden war.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Gewichte so: 130 Schekel für jede Silberschale, 70 Schekel für jede Silberschüssel, zusammen 2400 Schekel Silber. 10 Schekel für jede Goldschale, zusammen 120 Schekel Gold.
+> Die Rechnung stimmt: 12 × 130 + 12 × 70 = 2400. Und 12 × 10 = 120.
+> Insgesamt waren es 252 Tiere. Das war ein großes Einweihungsfest. Das ganze Volk hat gemeinsam gegeben, Stamm für Stamm.
+
+---
+
+### Gott spricht zu Mose (Vers 89)
+
+<sup>89</sup>Wenn Mose in das Zelt der Begegnung ging, um mit dem HERRN zu reden,
+dann hörte er die Stimme zu sich reden,
+von oberhalb der Deckplatte auf der Lade des Zeugnisses, zwischen den beiden Kerubim.
+Und er redete mit ihm.
+
+> **Was bedeutet das?**
+> Das ist das Ziel von allem: Das Heiligtum ist fertig und eingeweiht. Und jetzt spricht Gott dort mit Mose, genau wie er es versprochen hatte (2. Mose 25,22).
+> Alle Gaben, alle Opfer, aller Aufwand hatten diesen einen Zweck: dass Gott mitten unter seinem Volk wohnt und mit ihm redet.
