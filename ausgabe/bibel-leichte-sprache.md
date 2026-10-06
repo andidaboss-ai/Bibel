@@ -21227,3 +21227,358 @@ außer Kaleb, dem Sohn von Jefunne, und Josua, dem Sohn von Nun.
 > Gottes Wort ist eingetroffen. Die ganze Generation, die sich geweigert hatte, ins Land zu gehen, ist in der Wüste gestorben (4. Mose 14,29–30). Nur Kaleb und Josua, die Gott vertraut hatten, leben noch.
 > Und auch Mose. Aber auch er wird das Land nicht betreten (Kapitel 20,12).
 > Eine neue Generation ist herangewachsen. Sie hat die Wunder in Ägypten nicht selbst erlebt. Aber sie ist bereit, Gott zu vertrauen und in das Land zu ziehen.
+
+## 4. Mose – Kapitel 27
+#### Die Töchter Zelofhads – Josua wird Nachfolger von Mose
+
+---
+
+### Fünf Schwestern fordern ihr Erbe (Vers 1–4)
+
+<sup>1</sup>Da kamen die Töchter Zelofhads herbei.
+Zelofhad war der Sohn von Hefer, dem Sohn von Gilead, dem Sohn von Machir, dem Sohn von Manasse,
+aus den Sippen Manasses, des Sohnes Josefs.
+Das sind die Namen seiner Töchter: Machla, Noa, Hogla, Milka und Tirza.
+<sup>2</sup>Sie stellten sich vor Mose, vor Eleasar, den Priester,
+vor die Anführer und vor die ganze Gemeinde, am Eingang des Zeltes der Begegnung, und sagten:
+<sup>3</sup>„Unser Vater ist in der Wüste gestorben.
+Er gehörte nicht zu der Gruppe, die sich mit Korach gegen den HERRN zusammengetan hat.
+Sondern er ist wegen seiner eigenen Sünde gestorben.
+Und er hatte keine Söhne.
+<sup>4</sup>Warum soll der Name unseres Vaters aus seiner Sippe verschwinden, nur weil er keinen Sohn hatte?
+Gib uns einen Besitz unter den Brüdern unseres Vaters!“
+
+> **Was bedeutet das?**
+> Damals erbten nur Söhne das Land der Familie. Wenn ein Mann keine Söhne hatte, ging sein Land an andere Verwandte. Sein Name und seine Familie verschwanden.
+> Fünf Schwestern wollen das nicht hinnehmen. Sie treten mutig vor die ganze Versammlung, vor Mose, den Priester und alle Anführer. Für Frauen in der damaligen Zeit war das sehr ungewöhnlich und mutig.
+> Sie argumentieren klug: Unser Vater war kein Aufrührer wie Korach. Er ist gestorben wie alle seiner Generation. Er hat es nicht verdient, dass sein Name ausgelöscht wird.
+
+---
+
+### Gott gibt ihnen recht (Vers 5–11)
+
+<sup>5</sup>Mose brachte ihre Sache vor den HERRN.
+<sup>6</sup>Der HERR sprach zu Mose:
+<sup>7</sup>„Die Töchter Zelofhads haben recht.
+Du sollst ihnen ganz bestimmt einen Erbbesitz unter den Brüdern ihres Vaters geben.
+Du sollst das Erbe ihres Vaters an sie übergehen lassen.
+<sup>8</sup>Und sprich zu den Israeliten und sag:
+‚Wenn ein Mann stirbt und keinen Sohn hat,
+dann sollt ihr sein Erbe an seine Tochter übergehen lassen.
+<sup>9</sup>Wenn er keine Tochter hat, dann sollt ihr sein Erbe seinen Brüdern geben.
+<sup>10</sup>Wenn er keine Brüder hat, dann sollt ihr sein Erbe den Brüdern seines Vaters geben.
+<sup>11</sup>Wenn sein Vater keine Brüder hat,
+dann sollt ihr sein Erbe seinem nächsten Verwandten aus seiner Sippe geben.
+Der soll es besitzen.
+Das soll für die Israeliten eine feste Rechtsordnung sein,
+wie der HERR es Mose befohlen hat.‘“
+
+> **Was bedeutet das?**
+> Mose weiß keine Antwort. Er fragt Gott.
+> Und Gott sagt: „Die Töchter haben recht!“ Gott ändert das Gesetz wegen der Bitte dieser fünf Frauen. Ab jetzt dürfen Töchter erben, wenn es keine Söhne gibt.
+> Das ist ein wichtiger Schritt für die Rechte von Frauen. Es ist noch keine volle Gleichberechtigung, aber ein Anfang. Gott hört auf die, die sich für Gerechtigkeit einsetzen.
+> Die Geschichte zeigt auch: Gesetze sind nicht starr. Wenn ein Fall ungerecht ist, darf man fragen und um eine bessere Lösung bitten.
+> In Kapitel 36 kommt diese Geschichte noch einmal vor.
+
+---
+
+### Mose soll das Land sehen (Vers 12–14)
+
+<sup>12</sup>Der HERR sagte zu Mose:
+„Steig hinauf auf dieses Gebirge Abarim
+und sieh dir das Land an, das ich den Israeliten gegeben habe.
+<sup>13</sup>Wenn du es gesehen hast, dann wirst auch du zu deinem Volk versammelt werden,
+so wie dein Bruder Aaron versammelt wurde.
+<sup>14</sup>Denn beim Streit der Gemeinde in der Wüste Zin
+habt ihr euch gegen meinen Befehl aufgelehnt,
+statt mich vor ihren Augen am Wasser als heilig zu ehren.“
+Das ist das Wasser von Meriba bei Kadesch in der Wüste Zin.
+
+> **Was bedeutet das?**
+> Gott kündigt Mose seinen Tod an. Mose darf das Land sehen, aber nicht betreten. Das wird an Moses Fehler am Wasser von Meriba erinnert (Kapitel 20).
+> Erzählt wird sein Tod erst am Ende des 5. Buches Mose (Kapitel 34).
+
+---
+
+### Mose bittet um einen Nachfolger (Vers 15–17)
+
+<sup>15</sup>Mose sprach zum HERRN:
+<sup>16</sup>„Der HERR, der Gott der Geister aller Menschen,
+soll einen Mann über die Gemeinde einsetzen,
+<sup>17</sup>der vor ihnen hinausgeht und vor ihnen hereinkommt,
+der sie hinausführt und sie hereinbringt,
+damit die Gemeinde des HERRN nicht ist wie Schafe, die keinen Hirten haben.“
+
+> **Was bedeutet das?**
+> Mose denkt nicht an sich selbst. Er beklagt sich nicht über seinen Tod. Seine größte Sorge ist das Volk. Wer wird es führen, wenn er nicht mehr da ist?
+> „Wie Schafe, die keinen Hirten haben“ – dieses Bild benutzt später auch Jesus, als er Mitleid mit den Menschen hat (Markus 6,34). Ein guter Anführer ist wie ein guter Hirte.
+
+---
+
+### Josua wird eingesetzt (Vers 18–23)
+
+<sup>18</sup>Der HERR sagte zu Mose:
+„Nimm Josua, den Sohn von Nun, einen Mann, in dem der Geist ist,
+und leg deine Hand auf ihn.
+<sup>19</sup>Stell ihn vor Eleasar, den Priester, und vor die ganze Gemeinde.
+Und setze ihn vor ihren Augen in sein Amt ein.
+<sup>20</sup>Gib ihm etwas von deiner Würde,
+damit die ganze Gemeinde der Israeliten auf ihn hört.
+<sup>21</sup>Er soll vor Eleasar, dem Priester, stehen.
+Der soll für ihn durch die Entscheidung der Urim vor dem HERRN Rat einholen.
+Auf sein Wort hin sollen sie hinausziehen,
+und auf sein Wort hin sollen sie hereinkommen,
+er und alle Israeliten mit ihm, die ganze Gemeinde.“
+
+<sup>22</sup>Mose tat, wie der HERR ihm befohlen hatte.
+Er nahm Josua und stellte ihn vor Eleasar, den Priester, und vor die ganze Gemeinde.
+<sup>23</sup>Er legte ihm die Hände auf und setzte ihn in sein Amt ein,
+wie der HERR es durch Mose gesagt hatte.
+
+> **Was bedeutet das?**
+> Josua war schon lange der Diener und Helfer von Mose. Er war einer der zwei treuen Kundschafter. Jetzt wird er der Nachfolger.
+> Mose legt ihm die Hände auf. Das ist ein Zeichen: Ich gebe dir meine Aufgabe und meinen Segen weiter. Bis heute legen Kirchen bei der Einsetzung von Pfarrern und Priestern die Hände auf.
+> Josua bekommt nicht die ganze Würde von Mose, sondern „etwas davon“. Mose bleibt einzigartig. Josua soll außerdem mit dem Priester zusammenarbeiten. Er entscheidet nicht allein.
+> Die „Urim“ waren heilige Lose in der Brusttasche des Hohenpriesters, mit denen man Gottes Willen erfragen konnte (2. Mose 28,30).
+
+## 4. Mose – Kapitel 28
+#### Die Opfer für jeden Tag, jeden Sabbat und die Feste
+
+---
+
+### Das tägliche Opfer (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Befiehl den Israeliten und sag ihnen:
+‚Achtet darauf, dass ihr mir meine Opfergabe zur festgesetzten Zeit darbringt,
+meine Speise für meine Feueropfer, als angenehmen Duft für mich.‘
+<sup>3</sup>Und sag ihnen:
+‚Das ist das Feueropfer, das ihr dem HERRN darbringen sollt:
+zwei einjährige männliche Lämmer ohne Fehler, Tag für Tag, als ständiges Brandopfer.
+<sup>4</sup>Das eine Lamm sollst du am Morgen darbringen
+und das andere Lamm am Abend,
+<sup>5</sup>dazu als Speiseopfer gut 2 Liter feines Mehl,
+vermengt mit einem Liter Öl aus zerstoßenen Oliven.
+<sup>6</sup>Das ist das ständige Brandopfer, das am Berg Sinai angeordnet wurde,
+als angenehmer Duft, ein Feueropfer für den HERRN.
+<sup>7</sup>Das Trankopfer dazu soll ein Liter für jedes Lamm sein.
+Im Heiligtum sollst du dem HERRN ein Trankopfer aus starkem Getränk ausgießen.
+<sup>8</sup>Das andere Lamm sollst du am Abend darbringen.
+Wie das Speiseopfer am Morgen und wie sein Trankopfer sollst du es darbringen,
+als Feueropfer, als angenehmen Duft für den HERRN.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: ein Zehntel Efa Mehl und ein Viertel Hin Öl und Wein. Ein Efa sind etwa 22 Liter, ein Hin etwa 4 Liter.
+> Die Kapitel 28 und 29 sind wie ein Kalender für den Gottesdienst. Sie sagen genau, welche Opfer an welchem Tag gebracht werden. Die Feste kennen wir schon aus 3. Mose 23. Hier geht es um die Opfer dazu.
+> Die Grundlage ist das tägliche Opfer: ein Lamm am Morgen, ein Lamm am Abend. Jeder Tag beginnt und endet mit Gott.
+> Bis heute beten Juden zu diesen Zeiten, morgens und nachmittags. Diese Gebete ersetzen die Opfer seit der Zerstörung des Tempels.
+
+---
+
+### Am Sabbat (Vers 9–10)
+
+<sup>9</sup>Am Sabbattag sollst du zwei einjährige männliche Lämmer ohne Fehler darbringen,
+dazu als Speiseopfer gut 4 Liter feines Mehl, mit Öl vermengt, und das Trankopfer dazu.
+<sup>10</sup>Das ist das Brandopfer für jeden Sabbat,
+zusätzlich zum ständigen Brandopfer und seinem Trankopfer.
+
+> **Was bedeutet das?**
+> In der Bibel steht: zwei Zehntel Efa Mehl.
+> Am Sabbat wird das tägliche Opfer verdoppelt. Der Ruhetag ist ein besonderer Tag für Gott.
+
+---
+
+### Am Anfang jedes Monats (Vers 11–15)
+
+<sup>11</sup>Am Anfang eurer Monate sollt ihr dem HERRN ein Brandopfer darbringen:
+zwei junge Stiere, einen Schafbock und sieben einjährige männliche Lämmer ohne Fehler,
+<sup>12</sup>dazu für jeden Stier gut 6,5 Liter feines Mehl, mit Öl vermengt, als Speiseopfer,
+und für den einen Schafbock gut 4 Liter feines Mehl, mit Öl vermengt, als Speiseopfer,
+<sup>13</sup>und für jedes Lamm gut 2 Liter feines Mehl, mit Öl vermengt, als Speiseopfer.
+Das ist ein Brandopfer, ein angenehmer Duft, ein Feueropfer für den HERRN.
+<sup>14</sup>Ihre Trankopfer sollen sein:
+zwei Liter Wein für einen Stier, gut ein Liter für den Schafbock und ein Liter für ein Lamm.
+Das ist das Brandopfer für jeden Monat, für alle Monate des Jahres.
+<sup>15</sup>Und ein Ziegenbock soll dem HERRN als Sündopfer dargebracht werden,
+zusätzlich zum ständigen Brandopfer und seinem Trankopfer.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: drei Zehntel, zwei Zehntel und ein Zehntel Efa Mehl, und ein halbes, ein Drittel und ein Viertel Hin Wein.
+> Der jüdische Kalender richtet sich nach dem Mond. Jeder Monat beginnt mit dem Neumond. Dieser Tag heißt „Rosch Chodesch“, Kopf des Monats. Bis heute ist er ein kleiner Feiertag.
+
+---
+
+### Passa und das Fest der ungesäuerten Brote (Vers 16–25)
+
+<sup>16</sup>Im ersten Monat, am vierzehnten Tag des Monats, ist das Passa des HERRN.
+<sup>17</sup>Am fünfzehnten Tag dieses Monats soll ein Fest sein.
+Sieben Tage lang soll man ungesäuertes Brot essen.
+<sup>18</sup>Am ersten Tag soll eine heilige Versammlung sein.
+Ihr sollt keine gewöhnliche Arbeit tun.
+<sup>19</sup>Sondern ihr sollt ein Feueropfer darbringen, ein Brandopfer für den HERRN:
+zwei junge Stiere, einen Schafbock und sieben einjährige männliche Lämmer.
+Sie sollen ohne Fehler sein.
+<sup>20</sup>Dazu ihr Speiseopfer, feines Mehl, mit Öl vermengt.
+Gut 6,5 Liter für einen Stier und gut 4 Liter für den Schafbock sollt ihr darbringen.
+<sup>21</sup>Gut 2 Liter sollst du für jedes Lamm der sieben Lämmer darbringen,
+<sup>22</sup>und einen Ziegenbock als Sündopfer, um für euch Versöhnung zu schaffen.
+<sup>23</sup>Das sollt ihr darbringen zusätzlich zum Brandopfer am Morgen, das zum ständigen Brandopfer gehört.
+<sup>24</sup>So sollt ihr es sieben Tage lang täglich darbringen,
+die Speise des Feueropfers, als angenehmen Duft für den HERRN.
+Es soll zusätzlich zum ständigen Brandopfer und seinem Trankopfer dargebracht werden.
+<sup>25</sup>Am siebten Tag sollt ihr eine heilige Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+
+> **Was bedeutet das?**
+> Das Passa erinnert an die Befreiung aus Ägypten. Danach folgt sieben Tage lang das Fest der ungesäuerten Brote, mit großen Opfern an jedem Tag.
+
+---
+
+### Das Wochenfest (Vers 26–31)
+
+<sup>26</sup>Auch am Tag der ersten Früchte, wenn ihr dem HERRN an eurem Wochenfest ein neues Speiseopfer bringt,
+sollt ihr eine heilige Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+<sup>27</sup>Sondern ihr sollt ein Brandopfer darbringen, als angenehmen Duft für den HERRN:
+zwei junge Stiere, einen Schafbock und sieben einjährige männliche Lämmer,
+<sup>28</sup>und ihr Speiseopfer, feines Mehl, mit Öl vermengt:
+gut 6,5 Liter für jeden Stier, gut 4 Liter für den einen Schafbock,
+<sup>29</sup>gut 2 Liter für jedes Lamm der sieben Lämmer,
+<sup>30</sup>und einen Ziegenbock, um für euch Versöhnung zu schaffen.
+<sup>31</sup>Zusätzlich zum ständigen Brandopfer und seinem Speiseopfer
+sollt ihr sie mit ihren Trankopfern darbringen.
+Achtet darauf, dass sie ohne Fehler sind.
+
+> **Was bedeutet das?**
+> Das Wochenfest, „Schawuot“, ist das Fest der Weizenernte, sieben Wochen nach Passa. Daraus wurde im Christentum Pfingsten (siehe 3. Mose 23,15–22).
+
+## 4. Mose – Kapitel 29
+#### Die Opfer für die Feste im Herbst
+
+---
+
+### Das Fest der Trompeten (Vers 1–6)
+
+<sup>1</sup>Im siebten Monat, am ersten Tag des Monats, sollt ihr eine heilige Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+Es soll für euch ein Tag des Trompetenblasens sein.
+<sup>2</sup>Ihr sollt ein Brandopfer darbringen, als angenehmen Duft für den HERRN:
+einen jungen Stier, einen Schafbock und sieben einjährige männliche Lämmer ohne Fehler,
+<sup>3</sup>und ihr Speiseopfer, feines Mehl, mit Öl vermengt:
+gut 6,5 Liter für den Stier, gut 4 Liter für den Schafbock
+<sup>4</sup>und gut 2 Liter für jedes Lamm der sieben Lämmer,
+<sup>5</sup>und einen Ziegenbock als Sündopfer, um für euch Versöhnung zu schaffen.
+<sup>6</sup>Das alles zusätzlich zum Brandopfer am Neumond mit seinem Speiseopfer
+und zum ständigen Brandopfer mit seinem Speiseopfer und ihren Trankopfern,
+nach ihrer Vorschrift, als angenehmen Duft, als Feueropfer für den HERRN.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: drei Zehntel, zwei Zehntel und ein Zehntel Efa Mehl.
+> Der siebte Monat im Herbst ist der festlichste Monat des Jahres. An seinem ersten Tag wird ins Horn geblasen. Heute ist das das jüdische Neujahrsfest „Rosch ha-Schana“.
+
+---
+
+### Der Versöhnungstag (Vers 7–11)
+
+<sup>7</sup>Am zehnten Tag dieses siebten Monats sollt ihr eine heilige Versammlung haben.
+Ihr sollt euch demütigen.
+Ihr sollt keinerlei Arbeit tun.
+<sup>8</sup>Sondern ihr sollt dem HERRN ein Brandopfer darbringen, als angenehmen Duft:
+einen jungen Stier, einen Schafbock und sieben einjährige männliche Lämmer, alle ohne Fehler,
+<sup>9</sup>und ihr Speiseopfer, feines Mehl, mit Öl vermengt:
+gut 6,5 Liter für den Stier, gut 4 Liter für den einen Schafbock,
+<sup>10</sup>gut 2 Liter für jedes Lamm der sieben Lämmer,
+<sup>11</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum Sündopfer der Versöhnung und zum ständigen Brandopfer
+mit seinem Speiseopfer und ihren Trankopfern.
+
+> **Was bedeutet das?**
+> Der Versöhnungstag, „Jom Kippur“, wurde in 3. Mose 16 ausführlich beschrieben. „Sich demütigen“ heißt vor allem: fasten.
+
+---
+
+### Das Laubhüttenfest: die ersten sieben Tage (Vers 12–34)
+
+<sup>12</sup>Am fünfzehnten Tag des siebten Monats sollt ihr eine heilige Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+Sieben Tage lang sollt ihr dem HERRN ein Fest feiern.
+<sup>13</sup>Ihr sollt ein Brandopfer darbringen, ein Feueropfer, als angenehmen Duft für den HERRN:
+13 junge Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer, alle ohne Fehler,
+<sup>14</sup>und ihr Speiseopfer, feines Mehl, mit Öl vermengt:
+gut 6,5 Liter für jeden der 13 Stiere, gut 4 Liter für jeden der beiden Schafböcke
+<sup>15</sup>und gut 2 Liter für jedes der 14 Lämmer,
+<sup>16</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+
+<sup>17</sup>Am zweiten Tag sollt ihr 12 junge Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler darbringen,
+<sup>18</sup>und ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>19</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer mit seinem Speiseopfer und ihren Trankopfern.
+
+<sup>20</sup>Am dritten Tag: 11 Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler,
+<sup>21</sup>und ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>22</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+
+<sup>23</sup>Am vierten Tag: 10 Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler,
+<sup>24</sup>ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>25</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+
+<sup>26</sup>Am fünften Tag: 9 Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler,
+<sup>27</sup>und ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>28</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+
+<sup>29</sup>Am sechsten Tag: 8 Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler,
+<sup>30</sup>und ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>31</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinen Trankopfern.
+
+<sup>32</sup>Am siebten Tag: 7 Stiere, zwei Schafböcke und 14 einjährige männliche Lämmer ohne Fehler,
+<sup>33</sup>und ihr Speiseopfer und ihre Trankopfer für die Stiere, für die Schafböcke und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>34</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+
+> **Was bedeutet das?**
+> Das Laubhüttenfest ist das größte Fest des Jahres, das Fest der Freude nach der Ernte.
+> Die Zahl der Stiere wird jeden Tag um einen kleiner: 13, 12, 11, 10, 9, 8, 7. Zusammen sind das 70 Stiere.
+> Jüdische Ausleger haben gesagt: Die 70 Stiere stehen für die 70 Völker der Welt, die in 1. Mose 10 aufgezählt werden. Israel betet an diesem Fest also auch für alle anderen Völker. Der Prophet Sacharja sagt voraus, dass einmal alle Völker zum Laubhüttenfest nach Jerusalem kommen werden (Sacharja 14,16).
+> An jedem Tag werden auch 14 Lämmer und zwei Schafböcke geopfert. In den sieben Tagen sind das 98 Lämmer.
+
+---
+
+### Der achte Tag (Vers 35–38)
+
+<sup>35</sup>Am achten Tag sollt ihr eine feierliche Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+<sup>36</sup>Sondern ihr sollt ein Brandopfer darbringen, ein Feueropfer, als angenehmen Duft für den HERRN:
+einen Stier, einen Schafbock und sieben einjährige männliche Lämmer ohne Fehler,
+<sup>37</sup>ihr Speiseopfer und ihre Trankopfer für den Stier, für den Schafbock und für die Lämmer,
+nach ihrer Zahl, nach der Vorschrift,
+<sup>38</sup>und einen Ziegenbock als Sündopfer,
+zusätzlich zum ständigen Brandopfer mit seinem Speiseopfer und seinem Trankopfer.
+
+> **Was bedeutet das?**
+> Am achten Tag gibt es nur noch einen Stier. Nach den 70 Stieren für alle Völker gibt es einen Stier für Israel allein.
+> Juden feiern diesen Tag bis heute als „Schemini Azeret“, den Abschluss des Festes. Daran schließt sich das Fest der Tora-Freude an, „Simchat Tora“, an dem man mit den Torarollen tanzt.
+
+---
+
+### Zusammenfassung (Vers 39–40)
+
+<sup>39</sup>Das sollt ihr dem HERRN an euren Festen darbringen,
+zusätzlich zu euren Gelübden und euren freiwilligen Gaben,
+als eure Brandopfer, eure Speiseopfer, eure Trankopfer und eure Gemeinschaftsopfer.‘“
+<sup>40</sup>Und Mose sagte den Israeliten alles, was der HERR Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist Vers 40 schon der erste Vers von Kapitel 30 (30,1). Wir folgen hier der Zählung der englischen Vorlage.
+> Wenn man alles zusammenrechnet, wurden jedes Jahr über 1000 Lämmer und über 100 Stiere als gemeinsame Opfer des Volkes gebracht. Dazu kamen die vielen Opfer einzelner Menschen.
+> Der ganze Jahreslauf ist auf Gott ausgerichtet: jeder Tag, jede Woche, jeder Monat, jedes Fest.
