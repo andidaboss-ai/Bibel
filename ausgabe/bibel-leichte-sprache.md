@@ -20421,3 +20421,453 @@ Und sie nahmen sein Land in Besitz.
 > 40 Jahre zuvor hatte das Volk Angst vor den Riesen. Jetzt sagt Gott: „Hab keine Angst!“ Und die neue Generation vertraut und siegt.
 > Auch hier gilt, was oben zu Vers 3 gesagt wurde: Dass ein ganzes Volk getötet wird, ist schrecklich. Die Bibel erzählt es aus der Sicht der damaligen Zeit. Für heute gilt Gottes Gebot der Feindesliebe.
 > Die Siege über Sihon und Og wurden später in Israel immer wieder besungen, zum Beispiel in Psalm 135,11 und Psalm 136,19–20.
+
+## 4. Mose – Kapitel 22
+#### Balak ruft Bileam – die sprechende Eselin
+
+---
+
+### Moab hat Angst vor Israel (Vers 1–4)
+
+<sup>1</sup>Die Israeliten brachen auf und lagerten in den Steppen von Moab,
+jenseits des Jordan, gegenüber von Jericho.
+<sup>2</sup>Balak, der Sohn von Zippor, sah alles, was Israel den Amoritern angetan hatte.
+<sup>3</sup>Und Moab hatte große Angst vor dem Volk, weil es so viele waren.
+Moab graute vor den Israeliten.
+<sup>4</sup>Moab sagte zu den Ältesten von Midian:
+„Jetzt wird diese Menge alles um uns herum abfressen, wie ein Rind das Gras auf dem Feld abfrisst.“
+Balak, der Sohn von Zippor, war zu dieser Zeit König von Moab.
+
+> **Was bedeutet das?**
+> Israel steht jetzt kurz vor dem Ziel, östlich des Jordan, gegenüber der Stadt Jericho.
+> Die Moabiter sind Nachkommen von Lot, dem Neffen Abrahams (1. Mose 19,37). Israel will gar nicht gegen sie kämpfen (5. Mose 2,9). Aber Balak, der König, hat Angst.
+> Die Kapitel 22 bis 24 erzählen eine besondere Geschichte. Israel selbst kommt darin fast nicht vor. Die Israeliten wissen nicht einmal, was sich da gegen sie zusammenbraut. Aber Gott beschützt sie trotzdem.
+
+---
+
+### Balak schickt nach Bileam (Vers 5–14)
+
+<sup>5</sup>Er schickte Boten zu Bileam, dem Sohn von Beor, nach Petor, das am Strom liegt,
+im Land der Angehörigen seines Volkes, um ihn zu rufen.
+Er ließ ihm sagen:
+„Schau, ein Volk ist aus Ägypten gekommen.
+Schau, es bedeckt die Oberfläche der Erde, und es lagert mir gegenüber.
+<sup>6</sup>Komm doch jetzt und verfluche dieses Volk für mich.
+Denn es ist zu stark für mich.
+Vielleicht gelingt es mir dann, dass wir es schlagen und ich es aus dem Land vertreibe.
+Denn ich weiß: Wen du segnest, der ist gesegnet, und wen du verfluchst, der ist verflucht.“
+
+<sup>7</sup>Die Ältesten von Moab und die Ältesten von Midian gingen los.
+Sie hatten den Lohn für das Wahrsagen in ihren Händen.
+Sie kamen zu Bileam und sagten ihm die Worte Balaks.
+<sup>8</sup>Er sagte zu ihnen:
+„Übernachtet hier heute Nacht.
+Dann will ich euch Antwort geben, so wie der HERR zu mir reden wird.“
+Und die Anführer von Moab blieben bei Bileam.
+
+<sup>9</sup>Gott kam zu Bileam und sagte: „Wer sind diese Männer bei dir?“
+<sup>10</sup>Bileam sagte zu Gott:
+„Balak, der Sohn von Zippor, der König von Moab, hat mir sagen lassen:
+<sup>11</sup>‚Schau, das Volk, das aus Ägypten gekommen ist, bedeckt die Oberfläche der Erde.
+Komm jetzt und verfluche es für mich.
+Vielleicht kann ich dann gegen es kämpfen und es vertreiben.‘“
+<sup>12</sup>Gott sagte zu Bileam:
+„Du sollst nicht mit ihnen gehen.
+Du sollst das Volk nicht verfluchen. Denn es ist gesegnet.“
+<sup>13</sup>Bileam stand am Morgen auf und sagte zu den Anführern Balaks:
+„Geht in euer Land. Denn der HERR will mir nicht erlauben, mit euch zu gehen.“
+<sup>14</sup>Die Anführer von Moab standen auf, gingen zu Balak und sagten:
+„Bileam weigert sich, mit uns zu kommen.“
+
+> **Was bedeutet das?**
+> Bileam ist ein berühmter Seher und Wahrsager aus Mesopotamien, am Fluss Euphrat („der Strom“). Er ist kein Israelit. Man glaubte damals, dass seine Flüche und Segen wirklich wirken.
+> Archäologen haben in Jordanien eine alte Inschrift gefunden, die von einem Seher namens „Bileam, Sohn von Beor“ erzählt. Er war also auch außerhalb der Bibel bekannt.
+> Gottes Antwort ist klar: „Du sollst das Volk nicht verfluchen. Denn es ist gesegnet.“ Gott hat Abraham versprochen, seine Nachkommen zu segnen (1. Mose 12,2–3). Daran kann kein Fluch etwas ändern.
+
+---
+
+### Balak schickt noch einmal Boten (Vers 15–21)
+
+<sup>15</sup>Da schickte Balak noch einmal Anführer, mehr und angesehenere als die ersten.
+<sup>16</sup>Sie kamen zu Bileam und sagten zu ihm:
+„So sagt Balak, der Sohn von Zippor:
+‚Lass dich bitte durch nichts davon abhalten, zu mir zu kommen.
+<sup>17</sup>Denn ich will dich sehr ehren.
+Und alles, was du mir sagst, will ich tun.
+Komm doch und verfluche dieses Volk für mich.‘“
+<sup>18</sup>Bileam antwortete den Dienern Balaks:
+„Auch wenn Balak mir sein Haus voll Silber und Gold gäbe,
+könnte ich den Befehl des HERRN, meines Gottes, nicht übertreten,
+weder im Kleinen noch im Großen.
+<sup>19</sup>Bleibt bitte auch heute Nacht hier,
+damit ich erfahre, was der HERR noch zu mir sagen wird.“
+<sup>20</sup>In der Nacht kam Gott zu Bileam und sagte zu ihm:
+„Wenn die Männer gekommen sind, um dich zu rufen, dann steh auf und geh mit ihnen.
+Aber nur das Wort, das ich dir sage, das sollst du tun.“
+<sup>21</sup>Am Morgen stand Bileam auf, sattelte seine Eselin
+und ging mit den Anführern von Moab.
+
+> **Was bedeutet das?**
+> Bileams Worte klingen fromm: „Auch für ein Haus voll Gold würde ich nicht gegen Gottes Befehl handeln.“ Aber warum fragt er Gott dann noch einmal, obwohl Gott schon Nein gesagt hat?
+> Vielleicht hofft Bileam, dass Gott seine Meinung ändert und er doch an das viele Geld kommt. Im Neuen Testament wird Bileam als Beispiel für jemanden genannt, der „den Lohn der Ungerechtigkeit liebte“ (2. Petrus 2,15).
+> Gott erlaubt ihm zu gehen, aber nur unter einer Bedingung: Er darf nur sagen, was Gott ihm sagt.
+
+---
+
+### Die Eselin und der Engel (Vers 22–30)
+
+<sup>22</sup>Aber Gott wurde zornig, weil er ging.
+Und der Engel des HERRN stellte sich ihm als Widersacher in den Weg.
+Bileam ritt auf seiner Eselin, und seine zwei Diener waren bei ihm.
+<sup>23</sup>Die Eselin sah den Engel des HERRN auf dem Weg stehen, mit einem gezogenen Schwert in seiner Hand.
+Da wich die Eselin vom Weg ab und ging ins Feld.
+Bileam schlug die Eselin, um sie auf den Weg zurückzubringen.
+
+<sup>24</sup>Dann stellte sich der Engel des HERRN auf einen schmalen Weg zwischen den Weinbergen.
+Auf beiden Seiten war eine Mauer.
+<sup>25</sup>Die Eselin sah den Engel des HERRN.
+Sie drückte sich an die Mauer und quetschte Bileams Fuß an der Mauer.
+Da schlug er sie noch einmal.
+
+<sup>26</sup>Der Engel des HERRN ging noch weiter
+und stellte sich an eine enge Stelle, wo man weder nach rechts noch nach links ausweichen konnte.
+<sup>27</sup>Die Eselin sah den Engel des HERRN und legte sich unter Bileam hin.
+Da wurde Bileam zornig und schlug die Eselin mit seinem Stock.
+
+<sup>28</sup>Da öffnete der HERR den Mund der Eselin.
+Und sie sagte zu Bileam:
+„Was habe ich dir getan, dass du mich jetzt dreimal geschlagen hast?“
+<sup>29</sup>Bileam sagte zu der Eselin:
+„Weil du mich zum Narren gehalten hast!
+Hätte ich doch ein Schwert in der Hand, dann hätte ich dich jetzt getötet!“
+<sup>30</sup>Die Eselin sagte zu Bileam:
+„Bin ich nicht deine Eselin, auf der du dein ganzes Leben lang bis heute geritten bist?
+Habe ich jemals so etwas mit dir gemacht?“
+Er sagte: „Nein.“
+
+> **Was bedeutet das?**
+> Das ist eine der bekanntesten und auch lustigsten Geschichten der Bibel.
+> Bileam ist ein berühmter Seher. Er soll in die Zukunft und in die Welt der Götter sehen können. Aber er sieht den Engel nicht, der direkt vor ihm steht. Seine Eselin sieht ihn. Das Tier ist klüger als der „große Seher“.
+> Dreimal rettet die Eselin Bileam das Leben. Und dreimal schlägt er sie dafür.
+> Dann redet die Eselin. Und Bileam ist so wütend, dass er sich nicht einmal darüber wundert, dass ein Tier mit ihm spricht. Er streitet einfach mit ihr.
+> Die Eselin redet sehr vernünftig: „Habe ich das jemals gemacht? Ich war dir doch immer treu.“ Das ist auch eine Mahnung, Tiere gut zu behandeln.
+
+---
+
+### Bileam sieht den Engel (Vers 31–35)
+
+<sup>31</sup>Da öffnete der HERR die Augen Bileams.
+Und er sah den Engel des HERRN auf dem Weg stehen, mit einem gezogenen Schwert in seiner Hand.
+Da verneigte er sich und warf sich auf sein Gesicht nieder.
+<sup>32</sup>Der Engel des HERRN sagte zu ihm:
+„Warum hast du deine Eselin jetzt dreimal geschlagen?
+Schau: Ich bin als Widersacher herausgekommen, weil dein Weg vor mir verkehrt ist.
+<sup>33</sup>Die Eselin hat mich gesehen und ist mir jetzt dreimal ausgewichen.
+Wenn sie mir nicht ausgewichen wäre,
+dann hätte ich dich jetzt bestimmt getötet und sie am Leben gelassen.“
+<sup>34</sup>Bileam sagte zum Engel des HERRN:
+„Ich habe gesündigt.
+Denn ich wusste nicht, dass du mir auf dem Weg entgegenstandest.
+Wenn es dir jetzt nicht gefällt, dann will ich umkehren.“
+<sup>35</sup>Der Engel des HERRN sagte zu Bileam:
+„Geh mit den Männern.
+Aber du sollst nur das Wort sagen, das ich dir sagen werde.“
+Da ging Bileam mit den Anführern Balaks.
+
+> **Was bedeutet das?**
+> Gott hatte Bileam erlaubt zu gehen. Warum ist er dann zornig? Vielleicht weil Bileam mit falschen Absichten ging. Er hoffte immer noch auf das Geld und darauf, Israel doch verfluchen zu können.
+> Die Begegnung mit dem Engel ist eine Warnung: Bileam soll begreifen, dass er nicht selbst bestimmt. Gott bestimmt, was er sagen wird.
+> Wie die Eselin von Gott bewegt wurde zu reden, so wird Bileam von Gott bewegt werden zu reden.
+
+---
+
+### Bileam kommt zu Balak (Vers 36–41)
+
+<sup>36</sup>Als Balak hörte, dass Bileam kam, ging er ihm entgegen bis nach Ir-Moab,
+das an der Grenze am Arnon liegt, am äußersten Rand des Gebiets.
+<sup>37</sup>Balak sagte zu Bileam:
+„Habe ich nicht dringend nach dir geschickt, um dich zu rufen?
+Warum bist du nicht zu mir gekommen?
+Kann ich dich etwa nicht ehren?“
+<sup>38</sup>Bileam sagte zu Balak:
+„Schau, jetzt bin ich zu dir gekommen.
+Aber kann ich etwa selbst irgendetwas sagen?
+Das Wort, das Gott mir in den Mund legt, das werde ich sagen.“
+<sup>39</sup>Bileam ging mit Balak, und sie kamen nach Kirjat-Huzot.
+<sup>40</sup>Balak opferte Rinder und Schafe
+und schickte davon zu Bileam und zu den Anführern, die bei ihm waren.
+<sup>41</sup>Am Morgen nahm Balak Bileam mit
+und brachte ihn hinauf zu den Opferhöhen des Baal.
+Von dort sah er einen Teil des Volkes.
+
+> **Was bedeutet das?**
+> Balak denkt, er kann Bileam mit Geld und Ehre kaufen. Aber Bileam warnt ihn gleich: Ich kann nur sagen, was Gott mir in den Mund legt.
+> Baal war ein wichtiger Gott der Völker in Kanaan, ein Gott des Wetters und der Fruchtbarkeit. Von seinen „Opferhöhen“ aus soll Bileam Israel sehen und verfluchen.
+> Wie das ausgeht, erzählt das nächste Kapitel.
+
+## 4. Mose – Kapitel 23
+#### Bileam soll fluchen – und segnet
+
+---
+
+### Sieben Altäre (Vers 1–6)
+
+<sup>1</sup>Bileam sagte zu Balak:
+„Bau mir hier sieben Altäre
+und bereite mir hier sieben Stiere und sieben Schafböcke vor.“
+<sup>2</sup>Balak tat, was Bileam gesagt hatte.
+Und Balak und Bileam opferten auf jedem Altar einen Stier und einen Schafbock.
+<sup>3</sup>Bileam sagte zu Balak:
+„Bleib bei deinem Brandopfer stehen, und ich will gehen.
+Vielleicht kommt mir der HERR entgegen.
+Was er mir zeigt, das will ich dir sagen.“
+Und er ging auf eine kahle Anhöhe.
+<sup>4</sup>Gott begegnete Bileam.
+Und Bileam sagte zu ihm:
+„Ich habe die sieben Altäre hergerichtet
+und auf jedem Altar einen Stier und einen Schafbock geopfert.“
+<sup>5</sup>Der HERR legte Bileam ein Wort in den Mund und sagte:
+„Geh zu Balak zurück und sprich so.“
+<sup>6</sup>Er ging zu ihm zurück.
+Und schau: Er stand bei seinem Brandopfer, er und alle Anführer von Moab.
+
+> **Was bedeutet das?**
+> Bileam versucht, Gott durch viele Opfer gnädig zu stimmen. So machten es die Wahrsager damals. Aber Gott lässt sich nicht kaufen oder umstimmen.
+
+---
+
+### Der erste Spruch: Ein Volk, das allein wohnt (Vers 7–12)
+
+<sup>7</sup>Da begann er seinen Spruch und sagte:
+„Aus Aram hat mich Balak geholt,
+der König von Moab aus den Bergen des Ostens:
+‚Komm, verfluche mir Jakob!
+Komm, verwünsche Israel!‘
+<sup>8</sup>Wie soll ich verfluchen, den Gott nicht verflucht hat?
+Wie soll ich verwünschen, den der HERR nicht verwünscht hat?
+<sup>9</sup>Denn vom Gipfel der Felsen sehe ich es.
+Von den Hügeln aus schaue ich es an.
+Schau: Es ist ein Volk, das allein wohnt
+und sich nicht zu den anderen Völkern rechnet.
+<sup>10</sup>Wer kann den Staub Jakobs zählen
+oder auch nur ein Viertel von Israel?
+Ich möchte sterben, wie die Gerechten sterben!
+Mein Ende soll sein wie sein Ende!“
+
+<sup>11</sup>Balak sagte zu Bileam:
+„Was hast du mir angetan?
+Ich habe dich geholt, damit du meine Feinde verfluchst.
+Und schau: Du hast sie sogar gesegnet!“
+<sup>12</sup>Er antwortete:
+„Muss ich nicht darauf achten, das zu sagen, was der HERR mir in den Mund legt?“
+
+> **Was bedeutet das?**
+> Statt zu fluchen, muss Bileam segnen. Was Gott gesegnet hat, kann kein Mensch verfluchen.
+> „Ein Volk, das allein wohnt“: Israel ist anders als die anderen Völker, weil es zu Gott gehört.
+> „Der Staub Jakobs“ erinnert an Gottes Versprechen an Abraham: Deine Nachkommen sollen so zahlreich sein wie der Staub der Erde (1. Mose 13,16).
+> Bileam wünscht sich sogar, so zu sterben wie ein Israelit, als Gerechter. Ironischerweise stirbt er später im Kampf gegen Israel (4. Mose 31,8).
+
+---
+
+### Der zweite Versuch (Vers 13–17)
+
+<sup>13</sup>Balak sagte zu ihm:
+„Komm doch mit mir an einen anderen Ort, von dem aus du sie sehen kannst.
+Du wirst nur einen Teil von ihnen sehen, nicht alle.
+Und von dort verfluche sie mir.“
+<sup>14</sup>Er nahm ihn mit auf das Feld der Späher, auf den Gipfel des Pisga.
+Er baute sieben Altäre und opferte auf jedem Altar einen Stier und einen Schafbock.
+<sup>15</sup>Er sagte zu Balak:
+„Bleib hier bei deinem Brandopfer stehen, während ich dort drüben Gott begegne.“
+<sup>16</sup>Der HERR begegnete Bileam, legte ihm ein Wort in den Mund und sagte:
+„Geh zu Balak zurück und sag dies.“
+<sup>17</sup>Er kam zu ihm.
+Und schau: Er stand bei seinem Brandopfer, und die Anführer von Moab waren bei ihm.
+Balak fragte ihn: „Was hat der HERR gesagt?“
+
+> **Was bedeutet das?**
+> Balak glaubt, der Fluch wirkt vielleicht besser, wenn Bileam nur einen Teil des Volkes sieht. Er versucht es einfach an einem anderen Ort. Als ob Gottes Wille vom Standort abhinge.
+
+---
+
+### Der zweite Spruch: Gott lügt nicht (Vers 18–24)
+
+<sup>18</sup>Da begann er seinen Spruch und sagte:
+„Steh auf, Balak, und hör zu!
+Hör mir zu, du Sohn von Zippor!
+<sup>19</sup>Gott ist kein Mensch, dass er lügt,
+kein Menschenkind, dass ihn etwas reut.
+Sollte er etwas sagen und es nicht tun?
+Sollte er etwas versprechen und es nicht halten?
+<sup>20</sup>Schau: Ich habe den Auftrag bekommen zu segnen.
+Er hat gesegnet, und ich kann es nicht rückgängig machen.
+<sup>21</sup>Er sieht kein Unheil in Jakob,
+und er sieht kein Verderben in Israel.
+Der HERR, sein Gott, ist mit ihm.
+Der Jubelruf für einen König ist unter ihnen.
+<sup>22</sup>Gott führt sie aus Ägypten heraus.
+Er hat Kraft wie ein Wildstier.
+<sup>23</sup>Denn es gibt keine Zauberei gegen Jakob
+und keine Wahrsagerei gegen Israel.
+Jetzt wird man von Jakob und von Israel sagen:
+‚Was hat Gott getan!‘
+<sup>24</sup>Schau, ein Volk steht auf wie eine Löwin.
+Wie ein Löwe erhebt es sich.
+Es legt sich nicht hin, bis es seine Beute gefressen
+und das Blut der Erschlagenen getrunken hat.“
+
+<sup>25</sup>Balak sagte zu Bileam:
+„Dann verfluche es wenigstens nicht, aber segne es auch nicht!“
+<sup>26</sup>Aber Bileam antwortete Balak:
+„Habe ich dir nicht gesagt: ‚Alles, was der HERR sagt, das muss ich tun‘?“
+
+> **Was bedeutet das?**
+> Vers 19 ist einer der berühmtesten Verse über Gott: „Gott ist kein Mensch, dass er lügt.“ Menschen ändern ihre Meinung, brechen Versprechen, lassen sich bestechen. Gott nicht. Was er verspricht, das hält er.
+> „Er sieht kein Unheil in Jakob“ – das ist erstaunlich. Wir haben gesehen, wie oft Israel gemurrt und gesündigt hat. Aber Gott hat vergeben. Er sieht sein Volk mit den Augen der Liebe.
+> Der Löwe ist ein Bild für Kraft. Das Bild ist kriegerisch und gehört zur Sprache der damaligen Zeit.
+> Balak wird verzweifelt: „Dann sag lieber gar nichts!“
+
+---
+
+### Der dritte Versuch (Vers 27–30)
+
+<sup>27</sup>Balak sagte zu Bileam:
+„Komm doch, ich will dich an einen anderen Ort bringen.
+Vielleicht gefällt es Gott, dass du sie mir von dort aus verfluchst.“
+<sup>28</sup>Balak brachte Bileam auf den Gipfel des Peor, der auf die Wüste hinabschaut.
+<sup>29</sup>Bileam sagte zu Balak:
+„Bau mir hier sieben Altäre
+und bereite mir hier sieben Stiere und sieben Schafböcke vor.“
+<sup>30</sup>Balak tat, was Bileam gesagt hatte,
+und opferte auf jedem Altar einen Stier und einen Schafbock.
+
+> **Was bedeutet das?**
+> Balak gibt nicht auf. Ein dritter Ort, wieder sieben Altäre. Aber Gottes Segen lässt sich nicht umdrehen.
+
+## 4. Mose – Kapitel 24
+#### Wie schön sind deine Zelte, Jakob – ein Stern aus Jakob
+
+---
+
+### Der dritte Spruch: Wie schön sind deine Zelte (Vers 1–9)
+
+<sup>1</sup>Bileam sah, dass es dem HERRN gefiel, Israel zu segnen.
+Darum ging er nicht wie die anderen Male weg, um nach Wahrzeichen zu suchen.
+Sondern er wandte sein Gesicht zur Wüste.
+<sup>2</sup>Bileam blickte auf und sah Israel, wie es nach seinen Stämmen lagerte.
+Da kam der Geist Gottes auf ihn.
+<sup>3</sup>Er begann seinen Spruch und sagte:
+„So spricht Bileam, der Sohn von Beor,
+so spricht der Mann, dessen Augen geöffnet sind,
+<sup>4</sup>so spricht der, der die Worte Gottes hört,
+der die Erscheinung des Allmächtigen sieht,
+der niederfällt und dem die Augen geöffnet sind:
+<sup>5</sup>Wie schön sind deine Zelte, Jakob,
+deine Wohnungen, Israel!
+<sup>6</sup>Wie Täler breiten sie sich aus,
+wie Gärten am Fluss,
+wie Aloebäume, die der HERR gepflanzt hat,
+wie Zedern am Wasser.
+<sup>7</sup>Wasser wird aus seinen Eimern fließen,
+und seine Saat wird an vielen Wassern sein.
+Sein König wird größer sein als Agag,
+und sein Königreich wird erhoben werden.
+<sup>8</sup>Gott führt ihn aus Ägypten heraus.
+Er hat Kraft wie ein Wildstier.
+Er wird die Völker verschlingen, die seine Feinde sind,
+ihre Knochen zermalmen und sie mit seinen Pfeilen durchbohren.
+<sup>9</sup>Er hat sich hingekauert, er liegt da wie ein Löwe, wie eine Löwin.
+Wer will ihn aufscheuchen?
+Gesegnet ist jeder, der dich segnet.
+Und verflucht ist jeder, der dich verflucht.“
+
+> **Was bedeutet das?**
+> Diesmal versucht Bileam gar nicht mehr, mit Zauberei etwas zu erreichen. Er schaut einfach auf Israel. Und Gottes Geist kommt über ihn.
+> „Wie schön sind deine Zelte, Jakob“ – auf Hebräisch „Ma towu“. Mit diesen Worten beginnen Juden bis heute ihr Morgengebet, wenn sie die Synagoge betreten. Die Worte eines fremden Sehers, der fluchen wollte, sind zu einem Gebet geworden.
+> Israel wird mit einem blühenden Garten am Wasser verglichen. In der Wüste ist Wasser das Kostbarste. Ein Volk, das Gott gesegnet hat, ist wie eine Oase.
+> Agag war später ein König der Amalekiter (1. Samuel 15).
+> Vers 9 wiederholt Gottes Versprechen an Abraham: „Ich will segnen, die dich segnen, und verfluchen, die dich verfluchen“ (1. Mose 12,3).
+
+---
+
+### Balak ist wütend (Vers 10–14)
+
+<sup>10</sup>Da wurde Balak zornig auf Bileam.
+Er schlug seine Hände zusammen.
+Und Balak sagte zu Bileam:
+„Ich habe dich gerufen, um meine Feinde zu verfluchen.
+Und schau: Du hast sie jetzt schon dreimal gesegnet!
+<sup>11</sup>Darum flieh jetzt an deinen Ort!
+Ich wollte dich sehr ehren.
+Aber schau: Der HERR hat dich um die Ehre gebracht.“
+<sup>12</sup>Bileam sagte zu Balak:
+„Habe ich nicht auch deinen Boten, die du zu mir geschickt hast, gesagt:
+<sup>13</sup>‚Auch wenn Balak mir sein Haus voll Silber und Gold gäbe,
+könnte ich den Befehl des HERRN nicht übertreten,
+um aus eigenem Willen Gutes oder Schlechtes zu tun.
+Was der HERR sagt, das werde ich sagen‘?
+<sup>14</sup>Und jetzt, schau, gehe ich zu meinem Volk.
+Komm, ich will dir sagen, was dieses Volk deinem Volk in späteren Tagen tun wird.“
+
+> **Was bedeutet das?**
+> Balak schlägt vor Wut die Hände zusammen. Dreimal wollte er Fluch, dreimal bekam er Segen.
+> Bileam bekommt kein Geld. Aber bevor er geht, sagt er noch etwas über die Zukunft.
+
+---
+
+### Der vierte Spruch: Ein Stern aus Jakob (Vers 15–19)
+
+<sup>15</sup>Er begann seinen Spruch und sagte:
+„So spricht Bileam, der Sohn von Beor,
+so spricht der Mann, dessen Augen geöffnet sind,
+<sup>16</sup>so spricht der, der die Worte Gottes hört,
+der das Wissen des Höchsten kennt,
+der die Erscheinung des Allmächtigen sieht,
+der niederfällt und dem die Augen geöffnet sind:
+<sup>17</sup>Ich sehe ihn, aber nicht jetzt.
+Ich schaue ihn, aber nicht von nahem.
+Ein Stern wird aus Jakob hervorgehen,
+ein Zepter wird aus Israel aufsteigen.
+Es wird die Schläfen von Moab zerschmettern
+und alle Söhne Sets zermalmen.
+<sup>18</sup>Edom wird sein Besitz werden,
+auch Seïr, sein Feind, wird sein Besitz werden,
+während Israel mutig handelt.
+<sup>19</sup>Aus Jakob wird einer herrschen
+und die Übriggebliebenen aus der Stadt vernichten.“
+
+> **Was bedeutet das?**
+> Das ist eine Weissagung über die ferne Zukunft: „Ich sehe ihn, aber nicht jetzt.“
+> Ein „Stern“ und ein „Zepter“ sind Zeichen für einen König. Viele haben dabei an König David gedacht, der später Moab und Edom besiegte (2. Samuel 8,2.14).
+> Später wurde der Vers auf den Messias bezogen, den erwarteten Retter. Im Jahr 132 nach Christus nannte man einen jüdischen Anführer gegen die Römer „Bar Kochba“, das bedeutet „Sohn des Sterns“, nach diesem Vers.
+> Christen denken hier an den Stern von Betlehem, dem die Weisen aus dem Osten folgten (Matthäus 2,2). Auch Bileam kam „aus dem Osten“. Jesus wird im Neuen Testament „der helle Morgenstern“ genannt (Offenbarung 22,16).
+> Wer die „Söhne Sets“ sind, ist nicht ganz klar. Vielleicht ist ein Volk im Gebiet von Moab gemeint.
+
+---
+
+### Sprüche über andere Völker (Vers 20–25)
+
+<sup>20</sup>Er sah Amalek an, begann seinen Spruch und sagte:
+„Amalek war das erste der Völker,
+aber am Ende wird es untergehen.“
+<sup>21</sup>Er sah die Keniter an, begann seinen Spruch und sagte:
+„Deine Wohnung ist fest,
+und dein Nest ist in den Felsen gebaut.
+<sup>22</sup>Trotzdem wird Kain verwüstet werden,
+bis Assur dich gefangen wegführt.“
+<sup>23</sup>Er begann seinen Spruch und sagte:
+„Ach, wer wird am Leben bleiben, wenn Gott das tut?
+<sup>24</sup>Aber Schiffe werden von der Küste von Kittim kommen.
+Sie werden Assur bedrängen, und sie werden Eber bedrängen.
+Und auch er wird untergehen.“
+<sup>25</sup>Dann stand Bileam auf, ging weg und kehrte an seinen Ort zurück.
+Und auch Balak ging seinen Weg.
+
+> **Was bedeutet das?**
+> Zum Schluss sagt Bileam das Schicksal anderer Völker voraus. Alle Mächte der Welt werden einmal untergehen, auch die großen.
+> Amalek hatte Israel als erstes Volk angegriffen (2. Mose 17,8).
+> Die Keniter wohnten in den Felsen. Ihr Name klingt wie „Nest“ (hebräisch „Ken“), ein Wortspiel.
+> Assur ist das Reich der Assyrer, eine spätere Großmacht im Norden.
+> „Kittim“ bedeutet ursprünglich Zypern, später überhaupt die Völker im Westen, die über das Meer kamen, zum Beispiel Griechen oder Römer.
+> Wer „Eber“ ist, ist nicht sicher. Vielleicht sind die Völker jenseits des Euphrat gemeint.
+> Diese Verse sind schwer zu verstehen. Ihre Botschaft ist aber klar: Gott lenkt die Geschichte, nicht die Könige.
