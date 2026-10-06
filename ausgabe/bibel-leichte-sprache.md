@@ -21582,3 +21582,428 @@ als eure Brandopfer, eure Speiseopfer, eure Trankopfer und eure Gemeinschaftsopf
 > In vielen deutschen Bibeln ist Vers 40 schon der erste Vers von Kapitel 30 (30,1). Wir folgen hier der Zählung der englischen Vorlage.
 > Wenn man alles zusammenrechnet, wurden jedes Jahr über 1000 Lämmer und über 100 Stiere als gemeinsame Opfer des Volkes gebracht. Dazu kamen die vielen Opfer einzelner Menschen.
 > Der ganze Jahreslauf ist auf Gott ausgerichtet: jeder Tag, jede Woche, jeder Monat, jedes Fest.
+
+## 4. Mose – Kapitel 30
+#### Versprechen, die man Gott gibt
+
+---
+
+### Ein Mann muss sein Versprechen halten (Vers 1–2)
+
+<sup>1</sup>Mose sprach zu den Oberhäuptern der Stämme der Israeliten:
+„Das hat der HERR befohlen:
+<sup>2</sup>Wenn ein Mann dem HERRN ein Gelübde ablegt
+oder einen Eid schwört, um sich zu etwas zu verpflichten,
+dann darf er sein Wort nicht brechen.
+Er soll alles tun, was aus seinem Mund gekommen ist.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln wird dieses Kapitel um einen Vers verschoben gezählt: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 17. Wir folgen der Zählung der englischen Vorlage.
+> Ein „Gelübde“ ist ein feierliches Versprechen an Gott. Zum Beispiel: „Ich will ein Opfer bringen“ oder „Ich will eine Zeit lang fasten“.
+> Die Regel ist klar: Was man Gott verspricht, muss man halten. Worte haben Gewicht. Jesus sagt später: „Euer Ja sei ein Ja, und euer Nein sei ein Nein“ (Matthäus 5,37).
+
+---
+
+### Eine junge Frau im Haus ihres Vaters (Vers 3–5)
+
+<sup>3</sup>Und wenn eine Frau dem HERRN ein Gelübde ablegt und sich zu etwas verpflichtet,
+während sie noch jung ist und im Haus ihres Vaters lebt,
+<sup>4</sup>und ihr Vater hört ihr Gelübde und ihre Verpflichtung, mit der sie sich gebunden hat,
+und ihr Vater schweigt dazu,
+dann sollen alle ihre Gelübde gelten.
+Und jede Verpflichtung, mit der sie sich gebunden hat, soll gelten.
+<sup>5</sup>Aber wenn ihr Vater es ihr an dem Tag verbietet, an dem er es hört,
+dann soll keines ihrer Gelübde und keine ihrer Verpflichtungen gelten, mit denen sie sich gebunden hat.
+Der HERR wird ihr vergeben, weil ihr Vater es ihr verboten hat.
+
+---
+
+### Eine verheiratete Frau (Vers 6–8)
+
+<sup>6</sup>Wenn sie einen Mann heiratet, während Gelübde auf ihr liegen
+oder ein unüberlegtes Wort ihrer Lippen, mit dem sie sich gebunden hat,
+<sup>7</sup>und ihr Mann hört es und schweigt an dem Tag, an dem er es hört,
+dann sollen ihre Gelübde gelten.
+Und ihre Verpflichtungen, mit denen sie sich gebunden hat, sollen gelten.
+<sup>8</sup>Aber wenn ihr Mann es ihr an dem Tag verbietet, an dem er es hört,
+dann macht er ihr Gelübde ungültig, das auf ihr liegt,
+und das unüberlegte Wort ihrer Lippen, mit dem sie sich gebunden hat.
+Der HERR wird ihr vergeben.
+
+---
+
+### Eine Witwe oder Geschiedene (Vers 9)
+
+<sup>9</sup>Aber das Gelübde einer Witwe oder einer Geschiedenen,
+alles, womit sie sich gebunden hat, soll für sie gelten.
+
+> **Was bedeutet das?**
+> Witwen und geschiedene Frauen sind selbstständig. Sie entscheiden selbst über ihre Gelübde, genau wie Männer.
+
+---
+
+### Ein Gelübde in der Ehe (Vers 10–16)
+
+<sup>10</sup>Wenn sie im Haus ihres Mannes ein Gelübde abgelegt
+oder sich mit einem Eid zu etwas verpflichtet hat,
+<sup>11</sup>und ihr Mann hat es gehört und dazu geschwiegen und es ihr nicht verboten,
+dann sollen alle ihre Gelübde gelten.
+Und jede Verpflichtung, mit der sie sich gebunden hat, soll gelten.
+<sup>12</sup>Aber wenn ihr Mann sie an dem Tag, an dem er sie gehört hat, ganz ungültig gemacht hat,
+dann soll nichts gelten, was über ihre Lippen gekommen ist,
+weder ihre Gelübde noch ihre Verpflichtung.
+Ihr Mann hat sie ungültig gemacht. Der HERR wird ihr vergeben.
+<sup>13</sup>Jedes Gelübde und jeden Eid, mit dem sie sich verpflichtet, sich zu demütigen,
+kann ihr Mann bestätigen, oder ihr Mann kann es ungültig machen.
+<sup>14</sup>Aber wenn ihr Mann von einem Tag zum anderen schweigt,
+dann bestätigt er alle ihre Gelübde und alle ihre Verpflichtungen, die auf ihr liegen.
+Er hat sie bestätigt, weil er an dem Tag geschwiegen hat, an dem er sie gehört hat.
+<sup>15</sup>Wenn er sie aber erst später ungültig macht, nachdem er sie gehört hat,
+dann trägt er ihre Schuld.“
+
+<sup>16</sup>Das sind die Ordnungen, die der HERR Mose befohlen hat,
+für einen Mann und seine Frau,
+für einen Vater und seine Tochter, solange sie jung ist und im Haus ihres Vaters lebt.
+
+> **Was bedeutet das?**
+> Diese Regeln zeigen, wie die Familie damals organisiert war. Der Vater oder der Ehemann trug die Verantwortung für den Haushalt. Darum konnte er ein Gelübde seiner Tochter oder Frau aufheben. Zum Beispiel, wenn sie versprochen hatte, etwas Wertvolles aus dem Familienbesitz zu opfern.
+> Aus heutiger Sicht ist das ungleich. Männer konnten selbst entscheiden, Frauen nicht immer. Die Bibel beschreibt hier die Ordnung ihrer Zeit. Heute haben Männer und Frauen gleiche Rechte, und das entspricht der Würde, die Gott jedem Menschen gibt (1. Mose 1,27; Galater 3,28).
+> Es gibt aber auch einen Schutz für die Frau: Der Mann muss sofort reagieren, am selben Tag. Er kann nicht später willkürlich ein Gelübde aufheben. Wenn er es doch tut, trägt er die Schuld, nicht die Frau.
+> Und wenn ein Gelübde aufgehoben wird, vergibt Gott der Frau. Sie ist nicht schuldig.
+
+## 4. Mose – Kapitel 31
+#### Der Krieg gegen Midian
+
+---
+
+### Zwölftausend Männer ziehen in den Krieg (Vers 1–6)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Räche die Israeliten an den Midianitern.
+Danach wirst du zu deinem Volk versammelt werden.“
+<sup>3</sup>Mose sprach zum Volk:
+„Rüstet Männer aus eurer Mitte für den Krieg aus.
+Sie sollen gegen Midian ziehen, um die Rache des HERRN an Midian zu vollstrecken.
+<sup>4</sup>Aus jedem Stamm, aus allen Stämmen Israels, sollt ihr tausend Mann in den Krieg schicken.“
+<sup>5</sup>So wurden aus den Tausendschaften Israels tausend Mann aus jedem Stamm ausgewählt,
+zwölftausend Mann, für den Krieg gerüstet.
+<sup>6</sup>Mose schickte sie in den Krieg, tausend aus jedem Stamm,
+zusammen mit Pinhas, dem Sohn von Eleasar, dem Priester.
+Er hatte die heiligen Geräte und die Trompeten für das Signal in seiner Hand.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist eines der schwierigsten der ganzen Bibel. Es erzählt von einem Krieg mit großer Grausamkeit.
+> Der Grund für den Krieg wird in Kapitel 25 erzählt: Die Midianiter hatten Israel absichtlich zum Götzendienst verführt. Dabei starben 24.000 Israeliten an einer Plage.
+> Es ist die letzte Aufgabe von Mose vor seinem Tod.
+
+---
+
+### Der Sieg (Vers 7–12)
+
+<sup>7</sup>Sie kämpften gegen Midian, wie der HERR es Mose befohlen hatte.
+Und sie töteten alle Männer.
+<sup>8</sup>Sie töteten auch die Könige von Midian zusammen mit den anderen Erschlagenen:
+Ewi, Rekem, Zur, Hur und Reba, die fünf Könige von Midian.
+Auch Bileam, den Sohn von Beor, töteten sie mit dem Schwert.
+<sup>9</sup>Die Israeliten nahmen die Frauen von Midian und ihre kleinen Kinder gefangen.
+Und sie nahmen ihr ganzes Vieh, alle ihre Herden und ihren ganzen Besitz als Beute.
+<sup>10</sup>Alle ihre Städte, in denen sie wohnten, und alle ihre Zeltlager verbrannten sie mit Feuer.
+<sup>11</sup>Sie nahmen alle Gefangenen und die ganze Beute mit, Menschen und Tiere.
+<sup>12</sup>Sie brachten die Gefangenen, die Beute und das Erbeutete zu Mose,
+zu Eleasar, dem Priester, und zur Gemeinde der Israeliten,
+ins Lager in den Steppen von Moab, am Jordan, gegenüber von Jericho.
+
+> **Was bedeutet das?**
+> Unter den Toten ist auch Bileam. Er hatte Israel gesegnet. Aber später hatte er den Midianitern geraten, Israel zu verführen (Vers 16). So endet sein Leben im Kampf gegen Israel.
+> Zur ist der Vater von Kosbi, der Frau aus Kapitel 25.
+> Es ist nicht sicher, ob wirklich ganz Midian ausgelöscht wurde. Später in der Bibel gibt es wieder viele Midianiter (Richter 6). Wahrscheinlich ging es um eine bestimmte Gruppe von Midianitern in dieser Gegend.
+
+---
+
+### Moses schrecklicher Befehl (Vers 13–18)
+
+<sup>13</sup>Mose, Eleasar, der Priester, und alle Anführer der Gemeinde gingen ihnen entgegen, hinaus vor das Lager.
+<sup>14</sup>Mose wurde zornig über die Befehlshaber des Heeres,
+die Anführer über Tausend und die Anführer über Hundert, die vom Krieg zurückkamen.
+<sup>15</sup>Mose sagte zu ihnen:
+„Habt ihr alle Frauen am Leben gelassen?
+<sup>16</sup>Schaut: Gerade sie haben die Israeliten auf den Rat Bileams hin dazu gebracht,
+dem HERRN in der Sache mit Peor untreu zu werden.
+Dadurch kam die Plage über die Gemeinde des HERRN.
+<sup>17</sup>Darum tötet jetzt jeden Jungen unter den Kindern.
+Und tötet jede Frau, die mit einem Mann geschlafen hat.
+<sup>18</sup>Aber alle Mädchen, die noch nicht mit einem Mann geschlafen haben, lasst für euch am Leben.
+
+> **Was bedeutet das?**
+> Hier wird etwas Furchtbares befohlen: Jungen und Frauen sollen getötet werden. Nur die jungen Mädchen bleiben am Leben, als Gefangene der Israeliten.
+> Man muss ehrlich sagen: Das ist für uns kaum zu ertragen. Kinder und Frauen werden getötet. Mädchen werden zu Gefangenen. Nach unserem heutigen Verständnis sind das schwere Kriegsverbrechen.
+> Wie kann so etwas in der Bibel stehen? Juden und Christen haben darauf verschiedene Antworten gegeben:
+> Manche sagen: Die Bibel erzählt ehrlich, wie man damals Krieg führte. Alle Völker der Zeit taten solche Dinge. Die Bibel verschweigt das nicht, aber sie macht es nicht zu einem Vorbild für alle Zeiten.
+> Andere sagen: Diese Erzählungen zeigen, wie ernst der Abfall von Gott damals genommen wurde. Das Volk sollte vor fremden Göttern geschützt werden.
+> Viele betonen: Man muss die ganze Bibel lesen. Später verbietet Gott, dass Kinder für die Schuld der Eltern bestraft werden (5. Mose 24,16). Die Propheten träumen von einem Frieden, in dem Schwerter zu Pflugscharen werden (Jesaja 2,4). Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
+> Eines ist ganz sicher: Niemand darf diese Stelle benutzen, um Gewalt gegen Menschen zu rechtfertigen. Das wäre ein schwerer Missbrauch der Bibel.
+
+---
+
+### Reinigung nach dem Krieg (Vers 19–24)
+
+<sup>19</sup>Lagert sieben Tage lang außerhalb des Lagers.
+Jeder, der einen Menschen getötet hat, und jeder, der einen Erschlagenen berührt hat,
+soll sich am dritten Tag und am siebten Tag reinigen, ihr und eure Gefangenen.
+<sup>20</sup>Ihr sollt jedes Kleid reinigen,
+alles, was aus Leder ist, alles, was aus Ziegenhaar gemacht ist,
+und alle Gegenstände aus Holz.“
+
+<sup>21</sup>Eleasar, der Priester, sagte zu den Kriegern, die in den Kampf gezogen waren:
+„Das ist die Ordnung des Gesetzes, die der HERR Mose befohlen hat:
+<sup>22</sup>Das Gold, das Silber, die Bronze, das Eisen, das Zinn und das Blei,
+<sup>23</sup>alles, was das Feuer aushält, sollt ihr durchs Feuer ziehen. Dann ist es rein.
+Trotzdem soll es auch mit dem Reinigungswasser gereinigt werden.
+Und alles, was das Feuer nicht aushält, sollt ihr durchs Wasser ziehen.
+<sup>24</sup>Am siebten Tag sollt ihr eure Kleider waschen, dann seid ihr rein.
+Danach dürft ihr ins Lager kommen.“
+
+> **Was bedeutet das?**
+> Auch wer im Krieg getötet hat, wird unrein. Er darf nicht einfach so ins Lager und vor Gott zurückkehren. Er braucht sieben Tage und eine Reinigung.
+> Das zeigt: Selbst ein Krieg, der als notwendig galt, ist nichts, was einfach so vorübergeht. Töten hinterlässt Spuren. Später durfte König David den Tempel nicht bauen, weil er so viel Blut vergossen hatte (1. Chronik 22,8).
+> Metall wird durch Feuer gereinigt, andere Dinge durch Wasser.
+
+---
+
+### Die Beute wird geteilt (Vers 25–47)
+
+<sup>25</sup>Der HERR sprach zu Mose:
+<sup>26</sup>„Zähl die Beute, die genommen wurde, Menschen und Tiere,
+du und Eleasar, der Priester, und die Oberhäupter der Familien der Gemeinde.
+<sup>27</sup>Teil die Beute in zwei Hälften:
+eine für die Krieger, die in den Kampf gezogen sind,
+und eine für die ganze Gemeinde.
+<sup>28</sup>Erhebe von den Kriegern, die in den Kampf gezogen sind, eine Abgabe für den HERRN:
+einen von 500, von den Menschen, von den Rindern, von den Eseln und von den Schafen und Ziegen.
+<sup>29</sup>Nimm es von ihrer Hälfte und gib es Eleasar, dem Priester, als Gabe für den HERRN.
+<sup>30</sup>Von der Hälfte der Israeliten sollst du einen von 50 nehmen,
+von den Menschen, von den Rindern, von den Eseln, von den Schafen und Ziegen, von allem Vieh,
+und gib sie den Leviten, die den Dienst an der Wohnung des HERRN tun.“
+<sup>31</sup>Mose und Eleasar, der Priester, taten, wie der HERR es Mose befohlen hatte.
+
+<sup>32</sup>Die Beute, abgesehen von dem, was die Krieger für sich selbst genommen hatten,
+waren 675.000 Schafe und Ziegen,
+<sup>33</sup>72.000 Rinder,
+<sup>34</sup>61.000 Esel
+<sup>35</sup>und insgesamt 32.000 Menschen, Mädchen, die noch nicht mit einem Mann geschlafen hatten.
+
+<sup>36</sup>Die Hälfte, die der Anteil der Krieger war, waren 337.500 Schafe und Ziegen.
+<sup>37</sup>Die Abgabe für den HERRN von den Schafen und Ziegen waren 675.
+<sup>38</sup>Die Rinder waren 36.000. Die Abgabe für den HERRN davon waren 72.
+<sup>39</sup>Die Esel waren 30.500. Die Abgabe für den HERRN davon waren 61.
+<sup>40</sup>Die Menschen waren 16.000. Die Abgabe für den HERRN davon waren 32 Menschen.
+<sup>41</sup>Mose gab die Abgabe, die Gabe für den HERRN, Eleasar, dem Priester,
+wie der HERR es Mose befohlen hatte.
+
+<sup>42</sup>Von der Hälfte der Israeliten, die Mose von der Hälfte der Krieger abgeteilt hatte –
+<sup>43</sup>die Hälfte der Gemeinde waren 337.500 Schafe und Ziegen,
+<sup>44</sup>36.000 Rinder,
+<sup>45</sup>30.500 Esel
+<sup>46</sup>und 16.000 Menschen –
+<sup>47</sup>von der Hälfte der Israeliten nahm Mose einen von 50, von Menschen und von Tieren,
+und gab sie den Leviten, die den Dienst an der Wohnung des HERRN taten,
+wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Die Beute wird gerecht geteilt: Die Hälfte bekommen die 12.000 Krieger, die andere Hälfte das ganze Volk. So bekommen auch die etwas, die zu Hause geblieben sind.
+> Von beiden Hälften geht ein Teil an Gott, also an die Priester und Leviten.
+> Die Zahlen sind sehr genau. Man kann nachrechnen: 675 ist genau ein Fünfhundertstel von 337.500, und so weiter. Die Rechnung geht auf.
+> Besonders schwer ist, dass auch Menschen als „Beute“ gezählt werden, die gefangenen Mädchen. 32 von ihnen kamen zu den Priestern, wohl als Dienerinnen am Heiligtum. Das zeigt eine Welt, in der Menschen als Besitz galten. Heute wissen wir: Kein Mensch darf Eigentum eines anderen sein.
+> Für die Mädchen gab es später Regeln zum Schutz. Ein Israelit durfte eine gefangene Frau nicht einfach benutzen oder verkaufen, sondern musste ihr Zeit zum Trauern geben und sie wie eine Ehefrau behandeln (5. Mose 21,10–14). Das ist nach heutigem Maßstab trotzdem kein gerechter Zustand.
+
+---
+
+### Das Dankopfer der Offiziere (Vers 48–54)
+
+<sup>48</sup>Die Offiziere über die Tausendschaften des Heeres,
+die Anführer über Tausend und die Anführer über Hundert, traten zu Mose.
+<sup>49</sup>Sie sagten zu Mose:
+„Deine Diener haben die Zahl der Krieger festgestellt, die unter unserem Befehl stehen.
+Und es fehlt nicht ein einziger Mann von uns.
+<sup>50</sup>Darum bringen wir eine Gabe für den HERRN, was jeder gefunden hat:
+goldene Schmuckstücke, Armspangen, Armbänder, Siegelringe, Ohrringe und Halsketten,
+um für uns vor dem HERRN Versöhnung zu schaffen.“
+<sup>51</sup>Mose und Eleasar, der Priester, nahmen das Gold von ihnen an, lauter kunstvoll gearbeiteten Schmuck.
+<sup>52</sup>Das ganze Gold der Gabe, das sie dem HERRN gaben,
+von den Anführern über Tausend und den Anführern über Hundert,
+wog etwa 184 Kilogramm.
+<sup>53</sup>Die Krieger hatten jeder für sich selbst Beute gemacht.
+<sup>54</sup>Mose und Eleasar, der Priester, nahmen das Gold der Anführer über Tausend und über Hundert
+und brachten es in das Zelt der Begegnung,
+als Erinnerung an die Israeliten vor dem HERRN.
+
+> **Was bedeutet das?**
+> In der Bibel steht: 16.750 Schekel Gold. Ein Schekel sind etwa 11 Gramm.
+> Kein einziger Soldat ist im Krieg gestorben. Die Offiziere sehen das als Wunder und danken Gott mit einer großen Gabe.
+> „Um Versöhnung zu schaffen“: Vielleicht spüren sie, dass sie durch das Töten Schuld auf sich geladen haben. Sie wollen sich vor Gott wieder reinigen.
+
+## 4. Mose – Kapitel 32
+#### Ruben und Gad wollen östlich des Jordan bleiben
+
+---
+
+### Die Bitte von Ruben und Gad (Vers 1–5)
+
+<sup>1</sup>Die Nachkommen von Ruben und die Nachkommen von Gad hatten sehr viel Vieh.
+Sie sahen das Land Jaser und das Land Gilead.
+Schau: Die Gegend war gut für Vieh.
+<sup>2</sup>Da kamen die Nachkommen von Gad und die Nachkommen von Ruben
+und sprachen zu Mose, zu Eleasar, dem Priester, und zu den Anführern der Gemeinde:
+<sup>3</sup>„Atarot, Dibon, Jaser, Nimra, Heschbon, Elale, Sebam, Nebo und Beon,
+<sup>4</sup>das Land, das der HERR vor der Gemeinde Israels geschlagen hat,
+ist ein Land für Vieh.
+Und deine Diener haben Vieh.“
+<sup>5</sup>Sie sagten:
+„Wenn wir in deinen Augen Gnade gefunden haben,
+dann soll dieses Land deinen Dienern als Besitz gegeben werden.
+Führe uns nicht über den Jordan.“
+
+> **Was bedeutet das?**
+> Das Volk lagert noch östlich des Jordan. Dieses Land hat Israel gerade von den Königen Sihon und Og erobert (Kapitel 21).
+> Die Stämme Ruben und Gad sind Viehzüchter. Sie sehen: Das Land hier hat gute Weiden. Sie wollen bleiben und nicht ins eigentliche Land Kanaan auf der anderen Seite des Flusses ziehen.
+
+---
+
+### Mose wird zornig (Vers 6–15)
+
+<sup>6</sup>Mose sagte zu den Nachkommen von Gad und zu den Nachkommen von Ruben:
+„Sollen eure Brüder in den Krieg ziehen, während ihr hier sitzen bleibt?
+<sup>7</sup>Warum entmutigt ihr die Israeliten,
+damit sie nicht hinüberziehen in das Land, das der HERR ihnen gegeben hat?
+<sup>8</sup>So haben es eure Väter gemacht,
+als ich sie von Kadesch-Barnea losgeschickt habe, um das Land zu erkunden.
+<sup>9</sup>Denn als sie hinauf bis zum Tal Eschkol kamen und das Land sahen,
+da entmutigten sie die Israeliten,
+damit sie nicht in das Land gingen, das der HERR ihnen gegeben hatte.
+<sup>10</sup>An jenem Tag entbrannte der Zorn des HERRN, und er schwor:
+<sup>11</sup>‚Ganz sicher wird keiner der Männer, die aus Ägypten heraufgezogen sind,
+von zwanzig Jahren an und älter,
+das Land sehen, das ich Abraham, Isaak und Jakob mit einem Schwur versprochen habe.
+Denn sie sind mir nicht ganz gefolgt.
+<sup>12</sup>Nur Kaleb, der Sohn von Jefunne, der Kenasiter, und Josua, der Sohn von Nun,
+denn sie sind dem HERRN ganz gefolgt.‘
+<sup>13</sup>Der Zorn des HERRN entbrannte gegen Israel.
+Er ließ sie vierzig Jahre lang in der Wüste hin und her ziehen,
+bis die ganze Generation aufgerieben war, die getan hatte, was in den Augen des HERRN böse war.
+<sup>14</sup>Schaut: Jetzt seid ihr an die Stelle eurer Väter getreten,
+eine neue Brut von sündigen Männern,
+um den glühenden Zorn des HERRN gegen Israel noch größer zu machen.
+<sup>15</sup>Denn wenn ihr euch von ihm abwendet,
+dann wird er das Volk noch einmal in der Wüste lassen.
+Und ihr werdet dieses ganze Volk zugrunde richten.“
+
+> **Was bedeutet das?**
+> Mose hat Angst: Es könnte wieder so werden wie vor 38 Jahren. Damals hatten zehn Kundschafter das Volk entmutigt (Kapitel 13 und 14). Darum musste das Volk vierzig Jahre in der Wüste bleiben.
+> Wenn jetzt zwei Stämme sagen: „Wir bleiben hier“, dann denken die anderen vielleicht: „Warum sollen wir dann kämpfen?“ Mose sieht die Gefahr: Die Einheit des Volkes könnte zerbrechen.
+> Mose sagt es sehr hart: Ihr seid wie eure Väter. Ihr bringt das ganze Volk in Gefahr.
+
+---
+
+### Ruben und Gad machen ein Angebot (Vers 16–19)
+
+<sup>16</sup>Sie traten zu ihm und sagten:
+„Wir wollen hier Pferche für unser Vieh bauen und Städte für unsere kleinen Kinder.
+<sup>17</sup>Aber wir selbst wollen bewaffnet und bereit sein, vor den Israeliten herzuziehen,
+bis wir sie an ihren Ort gebracht haben.
+Unsere kleinen Kinder sollen in den befestigten Städten wohnen,
+zum Schutz vor den Bewohnern des Landes.
+<sup>18</sup>Wir wollen nicht zu unseren Häusern zurückkehren,
+bis alle Israeliten ihr Erbe bekommen haben.
+<sup>19</sup>Denn wir wollen nicht mit ihnen zusammen auf der anderen Seite des Jordan und weiter weg erben.
+Denn unser Erbe ist uns auf dieser Seite des Jordan zugefallen, im Osten.“
+
+> **Was bedeutet das?**
+> Ruben und Gad verstehen Moses Sorge. Sie machen einen fairen Vorschlag: Unsere Familien bleiben hier in sicheren Städten. Aber unsere Männer kämpfen mit den anderen Stämmen. Sie gehen sogar vorneweg. Erst wenn alle ihr Land haben, kommen sie nach Hause.
+> Sie lassen ihre Brüder nicht im Stich.
+
+---
+
+### Mose nimmt das Angebot an (Vers 20–24)
+
+<sup>20</sup>Mose sagte zu ihnen:
+„Wenn ihr das tut,
+wenn ihr euch bewaffnet, um vor dem HERRN in den Krieg zu ziehen,
+<sup>21</sup>und jeder bewaffnete Mann von euch zieht vor dem HERRN über den Jordan,
+bis er seine Feinde vor sich vertrieben hat,
+<sup>22</sup>und das Land vor dem HERRN unterworfen ist,
+dann dürft ihr danach zurückkehren.
+Dann seid ihr frei von eurer Pflicht gegenüber dem HERRN und gegenüber Israel.
+Und dann soll dieses Land vor dem HERRN euer Besitz sein.
+<sup>23</sup>Aber wenn ihr das nicht tut,
+schaut, dann habt ihr gegen den HERRN gesündigt.
+Und ihr könnt sicher sein: Eure Sünde wird euch einholen.
+<sup>24</sup>Baut Städte für eure kleinen Kinder und Pferche für eure Schafe.
+Und tut, was ihr versprochen habt.“
+
+> **Was bedeutet das?**
+> „Eure Sünde wird euch einholen“ ist ein bekannter Satz geworden. Er bedeutet: Man kann vor seiner Schuld nicht davonlaufen. Wer ein Versprechen bricht, den holen die Folgen irgendwann ein.
+> Mose erinnert sie: Versprechen muss man halten. Darum ging es auch in Kapitel 30.
+
+---
+
+### Die Abmachung wird bestätigt (Vers 25–32)
+
+<sup>25</sup>Die Nachkommen von Gad und die Nachkommen von Ruben sprachen zu Mose:
+„Deine Diener werden tun, was mein Herr befiehlt.
+<sup>26</sup>Unsere kleinen Kinder, unsere Frauen, unsere Herden und unser ganzes Vieh
+sollen dort in den Städten Gileads bleiben.
+<sup>27</sup>Aber deine Diener werden hinüberziehen,
+jeder Mann, der für den Krieg bewaffnet ist, vor dem HERRN in den Kampf,
+wie mein Herr es sagt.“
+
+<sup>28</sup>Da gab Mose wegen ihnen Anweisungen an Eleasar, den Priester,
+an Josua, den Sohn von Nun,
+und an die Oberhäupter der Familien der Stämme der Israeliten.
+<sup>29</sup>Mose sagte zu ihnen:
+„Wenn die Nachkommen von Gad und die Nachkommen von Ruben mit euch über den Jordan ziehen,
+jeder Mann, der vor dem HERRN zum Kampf bewaffnet ist,
+und das Land vor euch unterworfen ist,
+dann sollt ihr ihnen das Land Gilead als Besitz geben.
+<sup>30</sup>Aber wenn sie nicht bewaffnet mit euch hinüberziehen,
+dann sollen sie Besitz unter euch im Land Kanaan bekommen.“
+
+<sup>31</sup>Die Nachkommen von Gad und die Nachkommen von Ruben antworteten:
+„Was der HERR zu deinen Dienern gesagt hat, das werden wir tun.
+<sup>32</sup>Wir werden bewaffnet vor dem HERRN hinüberziehen in das Land Kanaan.
+Und der Besitz unseres Erbes soll uns auf dieser Seite des Jordan bleiben.“
+
+> **Was bedeutet das?**
+> Mose weiß, dass er bald stirbt. Darum gibt er die Abmachung an Eleasar und Josua weiter. Sie sollen später darauf achten, dass sie eingehalten wird.
+> Ruben und Gad haben ihr Wort gehalten. Im Buch Josua kämpfen ihre Männer mit. Erst danach schickt Josua sie nach Hause und lobt sie für ihre Treue (Josua 22,1–4).
+
+---
+
+### Das Land östlich des Jordan wird verteilt (Vers 33–42)
+
+<sup>33</sup>Mose gab ihnen, den Nachkommen von Gad, den Nachkommen von Ruben
+und dem halben Stamm Manasse, dem Sohn Josefs,
+das Königreich von Sihon, dem König der Amoriter,
+und das Königreich von Og, dem König von Baschan:
+das Land mit seinen Städten und Grenzen, die Städte des Landes ringsum.
+
+<sup>34</sup>Die Nachkommen von Gad bauten Dibon, Atarot, Aroër,
+<sup>35</sup>Atrot-Schofan, Jaser, Jogboha,
+<sup>36</sup>Bet-Nimra und Bet-Haran: befestigte Städte und Pferche für Schafe.
+<sup>37</sup>Die Nachkommen von Ruben bauten Heschbon, Elale, Kirjatajim,
+<sup>38</sup>Nebo und Baal-Meon – ihre Namen wurden geändert – und Sibma.
+Sie gaben den Städten, die sie bauten, andere Namen.
+
+<sup>39</sup>Die Nachkommen von Machir, dem Sohn von Manasse, zogen nach Gilead.
+Sie nahmen es ein und vertrieben die Amoriter, die dort wohnten.
+<sup>40</sup>Mose gab Gilead an Machir, den Sohn von Manasse.
+Und er wohnte dort.
+<sup>41</sup>Jaïr, der Sohn von Manasse, zog los und nahm ihre Dörfer ein.
+Er nannte sie Hawot-Jaïr.
+<sup>42</sup>Nobach zog los und nahm Kenat und seine Dörfer ein.
+Er nannte es Nobach, nach seinem eigenen Namen.
+
+> **Was bedeutet das?**
+> Jetzt taucht plötzlich auch der halbe Stamm Manasse auf. Ein Teil der Familien von Manasse bekommt auch Land östlich des Jordan, im Norden. Der andere Teil wohnt später westlich des Jordan.
+> So wohnen zweieinhalb Stämme östlich des Jordan und neuneinhalb Stämme im Land Kanaan.
+> „Hawot-Jaïr“ heißt „Zeltdörfer von Jaïr“.
+> Nebo und Baal-Meon waren Namen von fremden Göttern. Darum wurden die Namen wohl geändert.

@@ -6965,6 +6965,737 @@
      "erklaerung": "In vielen deutschen Bibeln ist Vers 40 schon der erste Vers von Kapitel 30 (30,1). Wir folgen hier der Zählung der englischen Vorlage.\nWenn man alles zusammenrechnet, wurden jedes Jahr über 1000 Lämmer und über 100 Stiere als gemeinsame Opfer des Volkes gebracht. Dazu kamen die vielen Opfer einzelner Menschen.\nDer ganze Jahreslauf ist auf Gott ausgerichtet: jeder Tag, jede Woche, jeder Monat, jedes Fest."
     }
    ]
+  },
+  {
+   "kapitel": 30,
+   "titel": "Versprechen, die man Gott gibt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ein Mann muss sein Versprechen halten",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Mose sprach zu den Oberhäuptern der Stämme der Israeliten:\n„Das hat der HERR befohlen:",
+       "englisch_web": "Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which Yahweh has commanded."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wenn ein Mann dem HERRN ein Gelübde ablegt\noder einen Eid schwört, um sich zu etwas zu verpflichten,\ndann darf er sein Wort nicht brechen.\nEr soll alles tun, was aus seinem Mund gekommen ist.",
+       "englisch_web": "When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth."
+      }
+     ],
+     "erklaerung": "In vielen deutschen Bibeln wird dieses Kapitel um einen Vers verschoben gezählt: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 17. Wir folgen der Zählung der englischen Vorlage.\nEin „Gelübde“ ist ein feierliches Versprechen an Gott. Zum Beispiel: „Ich will ein Opfer bringen“ oder „Ich will eine Zeit lang fasten“.\nDie Regel ist klar: Was man Gott verspricht, muss man halten. Worte haben Gewicht. Jesus sagt später: „Euer Ja sei ein Ja, und euer Nein sei ein Nein“ (Matthäus 5,37)."
+    },
+    {
+     "ueberschrift": "Eine junge Frau im Haus ihres Vaters",
+     "vers_von": 3,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Und wenn eine Frau dem HERRN ein Gelübde ablegt und sich zu etwas verpflichtet,\nwährend sie noch jung ist und im Haus ihres Vaters lebt,",
+       "englisch_web": "“Also, when a woman vows a vow to Yahweh and binds herself by a pledge, being in her father’s house, in her youth,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "und ihr Vater hört ihr Gelübde und ihre Verpflichtung, mit der sie sich gebunden hat,\nund ihr Vater schweigt dazu,\ndann sollen alle ihre Gelübde gelten.\nUnd jede Verpflichtung, mit der sie sich gebunden hat, soll gelten.",
+       "englisch_web": "and her father hears her vow and her pledge with which she has bound her soul, and her father says nothing to her, then all her vows shall stand, and every pledge with which she has bound her soul shall stand."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Aber wenn ihr Vater es ihr an dem Tag verbietet, an dem er es hört,\ndann soll keines ihrer Gelübde und keine ihrer Verpflichtungen gelten, mit denen sie sich gebunden hat.\nDer HERR wird ihr vergeben, weil ihr Vater es ihr verboten hat.",
+       "englisch_web": "But if her father forbids her in the day that he hears, none of her vows or of her pledges with which she has bound her soul, shall stand. Yahweh will forgive her, because her father has forbidden her."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Eine verheiratete Frau",
+     "vers_von": 6,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn sie einen Mann heiratet, während Gelübde auf ihr liegen\noder ein unüberlegtes Wort ihrer Lippen, mit dem sie sich gebunden hat,",
+       "englisch_web": "“If she has a husband, while her vows are on her, or the rash utterance of her lips with which she has bound her soul,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "und ihr Mann hört es und schweigt an dem Tag, an dem er es hört,\ndann sollen ihre Gelübde gelten.\nUnd ihre Verpflichtungen, mit denen sie sich gebunden hat, sollen gelten.",
+       "englisch_web": "and her husband hears it, and says nothing to her in the day that he hears it; then her vows shall stand, and her pledges with which she has bound her soul shall stand."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber wenn ihr Mann es ihr an dem Tag verbietet, an dem er es hört,\ndann macht er ihr Gelübde ungültig, das auf ihr liegt,\nund das unüberlegte Wort ihrer Lippen, mit dem sie sich gebunden hat.\nDer HERR wird ihr vergeben.",
+       "englisch_web": "But if her husband forbids her in the day that he hears it, then he makes void her vow which is on her and the rash utterance of her lips, with which she has bound her soul. Yahweh will forgive her."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Eine Witwe oder Geschiedene",
+     "vers_von": 9,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Aber das Gelübde einer Witwe oder einer Geschiedenen,\nalles, womit sie sich gebunden hat, soll für sie gelten.",
+       "englisch_web": "“But the vow of a widow, or of her who is divorced, everything with which she has bound her soul shall stand against her."
+      }
+     ],
+     "erklaerung": "Witwen und geschiedene Frauen sind selbstständig. Sie entscheiden selbst über ihre Gelübde, genau wie Männer."
+    },
+    {
+     "ueberschrift": "Ein Gelübde in der Ehe",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Wenn sie im Haus ihres Mannes ein Gelübde abgelegt\noder sich mit einem Eid zu etwas verpflichtet hat,",
+       "englisch_web": "“If she vowed in her husband’s house or bound her soul by a bond with an oath,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "und ihr Mann hat es gehört und dazu geschwiegen und es ihr nicht verboten,\ndann sollen alle ihre Gelübde gelten.\nUnd jede Verpflichtung, mit der sie sich gebunden hat, soll gelten.",
+       "englisch_web": "and her husband heard it, and held his peace at her and didn’t disallow her, then all her vows shall stand, and every pledge with which she bound her soul shall stand."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Aber wenn ihr Mann sie an dem Tag, an dem er sie gehört hat, ganz ungültig gemacht hat,\ndann soll nichts gelten, was über ihre Lippen gekommen ist,\nweder ihre Gelübde noch ihre Verpflichtung.\nIhr Mann hat sie ungültig gemacht. Der HERR wird ihr vergeben.",
+       "englisch_web": "But if her husband made them null and void in the day that he heard them, then whatever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand. Her husband has made them void. Yahweh will forgive her."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Jedes Gelübde und jeden Eid, mit dem sie sich verpflichtet, sich zu demütigen,\nkann ihr Mann bestätigen, oder ihr Mann kann es ungültig machen.",
+       "englisch_web": "Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Aber wenn ihr Mann von einem Tag zum anderen schweigt,\ndann bestätigt er alle ihre Gelübde und alle ihre Verpflichtungen, die auf ihr liegen.\nEr hat sie bestätigt, weil er an dem Tag geschwiegen hat, an dem er sie gehört hat.",
+       "englisch_web": "But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges which are on her. He has established them, because he said nothing to her in the day that he heard them."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wenn er sie aber erst später ungültig macht, nachdem er sie gehört hat,\ndann trägt er ihre Schuld.“",
+       "englisch_web": "But if he makes them null and void after he has heard them, then he shall bear her iniquity.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Das sind die Ordnungen, die der HERR Mose befohlen hat,\nfür einen Mann und seine Frau,\nfür einen Vater und seine Tochter, solange sie jung ist und im Haus ihres Vaters lebt.",
+       "englisch_web": "These are the statutes which Yahweh commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house."
+      }
+     ],
+     "erklaerung": "Diese Regeln zeigen, wie die Familie damals organisiert war. Der Vater oder der Ehemann trug die Verantwortung für den Haushalt. Darum konnte er ein Gelübde seiner Tochter oder Frau aufheben. Zum Beispiel, wenn sie versprochen hatte, etwas Wertvolles aus dem Familienbesitz zu opfern.\nAus heutiger Sicht ist das ungleich. Männer konnten selbst entscheiden, Frauen nicht immer. Die Bibel beschreibt hier die Ordnung ihrer Zeit. Heute haben Männer und Frauen gleiche Rechte, und das entspricht der Würde, die Gott jedem Menschen gibt (1. Mose 1,27; Galater 3,28).\nEs gibt aber auch einen Schutz für die Frau: Der Mann muss sofort reagieren, am selben Tag. Er kann nicht später willkürlich ein Gelübde aufheben. Wenn er es doch tut, trägt er die Schuld, nicht die Frau.\nUnd wenn ein Gelübde aufgehoben wird, vergibt Gott der Frau. Sie ist nicht schuldig."
+    }
+   ]
+  },
+  {
+   "kapitel": 31,
+   "titel": "Der Krieg gegen Midian",
+   "abschnitte": [
+    {
+     "ueberschrift": "Zwölftausend Männer ziehen in den Krieg",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Räche die Israeliten an den Midianitern.\nDanach wirst du zu deinem Volk versammelt werden.“",
+       "englisch_web": "“Avenge the children of Israel on the Midianites. Afterward you shall be gathered to your people.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Mose sprach zum Volk:\n„Rüstet Männer aus eurer Mitte für den Krieg aus.\nSie sollen gegen Midian ziehen, um die Rache des HERRN an Midian zu vollstrecken.",
+       "englisch_web": "Moses spoke to the people, saying, “Arm men from among you for war, that they may go against Midian, to execute Yahweh’s vengeance on Midian."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Aus jedem Stamm, aus allen Stämmen Israels, sollt ihr tausend Mann in den Krieg schicken.“",
+       "englisch_web": "You shall send one thousand out of every tribe, throughout all the tribes of Israel, to the war.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "So wurden aus den Tausendschaften Israels tausend Mann aus jedem Stamm ausgewählt,\nzwölftausend Mann, für den Krieg gerüstet.",
+       "englisch_web": "So there were delivered, out of the thousands of Israel, a thousand from every tribe, twelve thousand armed for war."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Mose schickte sie in den Krieg, tausend aus jedem Stamm,\nzusammen mit Pinhas, dem Sohn von Eleasar, dem Priester.\nEr hatte die heiligen Geräte und die Trompeten für das Signal in seiner Hand.",
+       "englisch_web": "Moses sent them, one thousand of every tribe, to the war with Phinehas the son of Eleazar the priest, to the war, with the vessels of the sanctuary and the trumpets for the alarm in his hand."
+      }
+     ],
+     "erklaerung": "Dieses Kapitel ist eines der schwierigsten der ganzen Bibel. Es erzählt von einem Krieg mit großer Grausamkeit.\nDer Grund für den Krieg wird in Kapitel 25 erzählt: Die Midianiter hatten Israel absichtlich zum Götzendienst verführt. Dabei starben 24.000 Israeliten an einer Plage.\nEs ist die letzte Aufgabe von Mose vor seinem Tod."
+    },
+    {
+     "ueberschrift": "Der Sieg",
+     "vers_von": 7,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie kämpften gegen Midian, wie der HERR es Mose befohlen hatte.\nUnd sie töteten alle Männer.",
+       "englisch_web": "They fought against Midian, as Yahweh commanded Moses. They killed every male."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie töteten auch die Könige von Midian zusammen mit den anderen Erschlagenen:\nEwi, Rekem, Zur, Hur und Reba, die fünf Könige von Midian.\nAuch Bileam, den Sohn von Beor, töteten sie mit dem Schwert.",
+       "englisch_web": "They killed the kings of Midian with the rest of their slain: Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian. They also killed Balaam the son of Beor with the sword."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Israeliten nahmen die Frauen von Midian und ihre kleinen Kinder gefangen.\nUnd sie nahmen ihr ganzes Vieh, alle ihre Herden und ihren ganzen Besitz als Beute.",
+       "englisch_web": "The children of Israel took the women of Midian captive with their little ones; and all their livestock, all their flocks, and all their goods, they took as plunder."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Alle ihre Städte, in denen sie wohnten, und alle ihre Zeltlager verbrannten sie mit Feuer.",
+       "englisch_web": "All their cities in the places in which they lived, and all their encampments, they burned with fire."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie nahmen alle Gefangenen und die ganze Beute mit, Menschen und Tiere.",
+       "englisch_web": "They took all the captives, and all the plunder, both of man and of animal."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie brachten die Gefangenen, die Beute und das Erbeutete zu Mose,\nzu Eleasar, dem Priester, und zur Gemeinde der Israeliten,\nins Lager in den Steppen von Moab, am Jordan, gegenüber von Jericho.",
+       "englisch_web": "They brought the captives with the prey and the plunder, to Moses, and to Eleazar the priest, and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by the Jordan at Jericho."
+      }
+     ],
+     "erklaerung": "Unter den Toten ist auch Bileam. Er hatte Israel gesegnet. Aber später hatte er den Midianitern geraten, Israel zu verführen (Vers 16). So endet sein Leben im Kampf gegen Israel.\nZur ist der Vater von Kosbi, der Frau aus Kapitel 25.\nEs ist nicht sicher, ob wirklich ganz Midian ausgelöscht wurde. Später in der Bibel gibt es wieder viele Midianiter (Richter 6). Wahrscheinlich ging es um eine bestimmte Gruppe von Midianitern in dieser Gegend."
+    },
+    {
+     "ueberschrift": "Moses schrecklicher Befehl",
+     "vers_von": 13,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Mose, Eleasar, der Priester, und alle Anführer der Gemeinde gingen ihnen entgegen, hinaus vor das Lager.",
+       "englisch_web": "Moses and Eleazar the priest, with all the princes of the congregation, went out to meet them outside of the camp."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Mose wurde zornig über die Befehlshaber des Heeres,\ndie Anführer über Tausend und die Anführer über Hundert, die vom Krieg zurückkamen.",
+       "englisch_web": "Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who came from the service of the war."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Mose sagte zu ihnen:\n„Habt ihr alle Frauen am Leben gelassen?",
+       "englisch_web": "Moses said to them, “Have you saved all the women alive?"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Schaut: Gerade sie haben die Israeliten auf den Rat Bileams hin dazu gebracht,\ndem HERRN in der Sache mit Peor untreu zu werden.\nDadurch kam die Plage über die Gemeinde des HERRN.",
+       "englisch_web": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and so the plague was among the congregation of Yahweh."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Darum tötet jetzt jeden Jungen unter den Kindern.\nUnd tötet jede Frau, die mit einem Mann geschlafen hat.",
+       "englisch_web": "Now therefore kill every male among the little ones, and kill every woman who has known man by lying with him."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Aber alle Mädchen, die noch nicht mit einem Mann geschlafen haben, lasst für euch am Leben.",
+       "englisch_web": "But all the girls, who have not known man by lying with him, keep alive for yourselves."
+      }
+     ],
+     "erklaerung": "Hier wird etwas Furchtbares befohlen: Jungen und Frauen sollen getötet werden. Nur die jungen Mädchen bleiben am Leben, als Gefangene der Israeliten.\nMan muss ehrlich sagen: Das ist für uns kaum zu ertragen. Kinder und Frauen werden getötet. Mädchen werden zu Gefangenen. Nach unserem heutigen Verständnis sind das schwere Kriegsverbrechen.\nWie kann so etwas in der Bibel stehen? Juden und Christen haben darauf verschiedene Antworten gegeben:\nManche sagen: Die Bibel erzählt ehrlich, wie man damals Krieg führte. Alle Völker der Zeit taten solche Dinge. Die Bibel verschweigt das nicht, aber sie macht es nicht zu einem Vorbild für alle Zeiten.\nAndere sagen: Diese Erzählungen zeigen, wie ernst der Abfall von Gott damals genommen wurde. Das Volk sollte vor fremden Göttern geschützt werden.\nViele betonen: Man muss die ganze Bibel lesen. Später verbietet Gott, dass Kinder für die Schuld der Eltern bestraft werden (5. Mose 24,16). Die Propheten träumen von einem Frieden, in dem Schwerter zu Pflugscharen werden (Jesaja 2,4). Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).\nEines ist ganz sicher: Niemand darf diese Stelle benutzen, um Gewalt gegen Menschen zu rechtfertigen. Das wäre ein schwerer Missbrauch der Bibel."
+    },
+    {
+     "ueberschrift": "Reinigung nach dem Krieg",
+     "vers_von": 19,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Lagert sieben Tage lang außerhalb des Lagers.\nJeder, der einen Menschen getötet hat, und jeder, der einen Erschlagenen berührt hat,\nsoll sich am dritten Tag und am siebten Tag reinigen, ihr und eure Gefangenen.",
+       "englisch_web": "“Encamp outside of the camp for seven days. Whoever has killed any person, and whoever has touched any slain, purify yourselves on the third day and on the seventh day, you and your captives."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Ihr sollt jedes Kleid reinigen,\nalles, was aus Leder ist, alles, was aus Ziegenhaar gemacht ist,\nund alle Gegenstände aus Holz.“",
+       "englisch_web": "You shall purify every garment, and all that is made of skin, and all work of goats’ hair, and all things made of wood.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Eleasar, der Priester, sagte zu den Kriegern, die in den Kampf gezogen waren:\n„Das ist die Ordnung des Gesetzes, die der HERR Mose befohlen hat:",
+       "englisch_web": "Eleazar the priest said to the men of war who went to the battle, “This is the statute of the law which Yahweh has commanded Moses."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Das Gold, das Silber, die Bronze, das Eisen, das Zinn und das Blei,",
+       "englisch_web": "However the gold, and the silver, the bronze, the iron, the tin, and the lead,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "alles, was das Feuer aushält, sollt ihr durchs Feuer ziehen. Dann ist es rein.\nTrotzdem soll es auch mit dem Reinigungswasser gereinigt werden.\nUnd alles, was das Feuer nicht aushält, sollt ihr durchs Wasser ziehen.",
+       "englisch_web": "everything that may withstand the fire, you shall make to go through the fire, and it shall be clean; nevertheless it shall be purified with the water for impurity. All that doesn’t withstand the fire you shall make to go through the water."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Am siebten Tag sollt ihr eure Kleider waschen, dann seid ihr rein.\nDanach dürft ihr ins Lager kommen.“",
+       "englisch_web": "You shall wash your clothes on the seventh day, and you shall be clean. Afterward you shall come into the camp.”"
+      }
+     ],
+     "erklaerung": "Auch wer im Krieg getötet hat, wird unrein. Er darf nicht einfach so ins Lager und vor Gott zurückkehren. Er braucht sieben Tage und eine Reinigung.\nDas zeigt: Selbst ein Krieg, der als notwendig galt, ist nichts, was einfach so vorübergeht. Töten hinterlässt Spuren. Später durfte König David den Tempel nicht bauen, weil er so viel Blut vergossen hatte (1. Chronik 22,8).\nMetall wird durch Feuer gereinigt, andere Dinge durch Wasser."
+    },
+    {
+     "ueberschrift": "Die Beute wird geteilt",
+     "vers_von": 25,
+     "vers_bis": 47,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "„Zähl die Beute, die genommen wurde, Menschen und Tiere,\ndu und Eleasar, der Priester, und die Oberhäupter der Familien der Gemeinde.",
+       "englisch_web": "“Count the plunder that was taken, both of man and of animal, you, and Eleazar the priest, and the heads of the fathers’ households of the congregation;"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Teil die Beute in zwei Hälften:\neine für die Krieger, die in den Kampf gezogen sind,\nund eine für die ganze Gemeinde.",
+       "englisch_web": "and divide the plunder into two parts: between the men skilled in war, who went out to battle, and all the congregation."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Erhebe von den Kriegern, die in den Kampf gezogen sind, eine Abgabe für den HERRN:\neinen von 500, von den Menschen, von den Rindern, von den Eseln und von den Schafen und Ziegen.",
+       "englisch_web": "Levy a tribute to Yahweh of the men of war who went out to battle: one soul of five hundred; of the persons, of the cattle, of the donkeys, and of the flocks."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Nimm es von ihrer Hälfte und gib es Eleasar, dem Priester, als Gabe für den HERRN.",
+       "englisch_web": "Take it from their half, and give it to Eleazar the priest, for Yahweh’s wave offering."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Von der Hälfte der Israeliten sollst du einen von 50 nehmen,\nvon den Menschen, von den Rindern, von den Eseln, von den Schafen und Ziegen, von allem Vieh,\nund gib sie den Leviten, die den Dienst an der Wohnung des HERRN tun.“",
+       "englisch_web": "Of the children of Israel’s half, you shall take one drawn out of every fifty, of the persons, of the cattle, of the donkeys, and of the flocks, of all the livestock, and give them to the Levites, who perform the duty of Yahweh’s tabernacle.”"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Mose und Eleasar, der Priester, taten, wie der HERR es Mose befohlen hatte.",
+       "englisch_web": "Moses and Eleazar the priest did as Yahweh commanded Moses."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Die Beute, abgesehen von dem, was die Krieger für sich selbst genommen hatten,\nwaren 675.000 Schafe und Ziegen,",
+       "englisch_web": "Now the plunder, over and above the booty which the men of war took, was six hundred seventy-five thousand sheep,"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "72.000 Rinder,",
+       "englisch_web": "seventy-two thousand head of cattle,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "61.000 Esel",
+       "englisch_web": "sixty-one thousand donkeys,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "und insgesamt 32.000 Menschen, Mädchen, die noch nicht mit einem Mann geschlafen hatten.",
+       "englisch_web": "and thirty-two thousand persons in all, of the women who had not known man by lying with him."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Die Hälfte, die der Anteil der Krieger war, waren 337.500 Schafe und Ziegen.",
+       "englisch_web": "The half, which was the portion of those who went out to war, was in number three hundred thirty-seven thousand five hundred sheep;"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die Abgabe für den HERRN von den Schafen und Ziegen waren 675.",
+       "englisch_web": "and Yahweh’s tribute of the sheep was six hundred seventy-five."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Die Rinder waren 36.000. Die Abgabe für den HERRN davon waren 72.",
+       "englisch_web": "The cattle were thirty-six thousand, of which Yahweh’s tribute was seventy-two."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Die Esel waren 30.500. Die Abgabe für den HERRN davon waren 61.",
+       "englisch_web": "The donkeys were thirty thousand five hundred, of which Yahweh’s tribute was sixty-one."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Die Menschen waren 16.000. Die Abgabe für den HERRN davon waren 32 Menschen.",
+       "englisch_web": "The persons were sixteen thousand, of whom Yahweh’s tribute was thirty-two persons."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Mose gab die Abgabe, die Gabe für den HERRN, Eleasar, dem Priester,\nwie der HERR es Mose befohlen hatte.",
+       "englisch_web": "Moses gave the tribute, which was Yahweh’s wave offering, to Eleazar the priest, as Yahweh commanded Moses."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Von der Hälfte der Israeliten, die Mose von der Hälfte der Krieger abgeteilt hatte –",
+       "englisch_web": "Of the children of Israel’s half, which Moses divided off from the men who fought"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "die Hälfte der Gemeinde waren 337.500 Schafe und Ziegen,",
+       "englisch_web": "(now the congregation’s half was three hundred thirty-seven thousand five hundred sheep,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "36.000 Rinder,",
+       "englisch_web": "thirty-six thousand head of cattle,"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "30.500 Esel",
+       "englisch_web": "thirty thousand five hundred donkeys,"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "und 16.000 Menschen –",
+       "englisch_web": "and sixteen thousand persons),"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "von der Hälfte der Israeliten nahm Mose einen von 50, von Menschen und von Tieren,\nund gab sie den Leviten, die den Dienst an der Wohnung des HERRN taten,\nwie der HERR es Mose befohlen hatte.",
+       "englisch_web": "even of the children of Israel’s half, Moses took one drawn out of every fifty, both of man and of animal, and gave them to the Levites, who performed the duty of Yahweh’s tabernacle, as Yahweh commanded Moses."
+      }
+     ],
+     "erklaerung": "Die Beute wird gerecht geteilt: Die Hälfte bekommen die 12.000 Krieger, die andere Hälfte das ganze Volk. So bekommen auch die etwas, die zu Hause geblieben sind.\nVon beiden Hälften geht ein Teil an Gott, also an die Priester und Leviten.\nDie Zahlen sind sehr genau. Man kann nachrechnen: 675 ist genau ein Fünfhundertstel von 337.500, und so weiter. Die Rechnung geht auf.\nBesonders schwer ist, dass auch Menschen als „Beute“ gezählt werden, die gefangenen Mädchen. 32 von ihnen kamen zu den Priestern, wohl als Dienerinnen am Heiligtum. Das zeigt eine Welt, in der Menschen als Besitz galten. Heute wissen wir: Kein Mensch darf Eigentum eines anderen sein.\nFür die Mädchen gab es später Regeln zum Schutz. Ein Israelit durfte eine gefangene Frau nicht einfach benutzen oder verkaufen, sondern musste ihr Zeit zum Trauern geben und sie wie eine Ehefrau behandeln (5. Mose 21,10–14). Das ist nach heutigem Maßstab trotzdem kein gerechter Zustand."
+    },
+    {
+     "ueberschrift": "Das Dankopfer der Offiziere",
+     "vers_von": 48,
+     "vers_bis": 54,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 48,
+       "leichte_sprache": "Die Offiziere über die Tausendschaften des Heeres,\ndie Anführer über Tausend und die Anführer über Hundert, traten zu Mose.",
+       "englisch_web": "The officers who were over the thousands of the army, the captains of thousands, and the captains of hundreds, came near to Moses."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Sie sagten zu Mose:\n„Deine Diener haben die Zahl der Krieger festgestellt, die unter unserem Befehl stehen.\nUnd es fehlt nicht ein einziger Mann von uns.",
+       "englisch_web": "They said to Moses, “Your servants have taken the sum of the men of war who are under our command, and there lacks not one man of us."
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Darum bringen wir eine Gabe für den HERRN, was jeder gefunden hat:\ngoldene Schmuckstücke, Armspangen, Armbänder, Siegelringe, Ohrringe und Halsketten,\num für uns vor dem HERRN Versöhnung zu schaffen.“",
+       "englisch_web": "We have brought Yahweh’s offering, what every man found: gold ornaments, armlets, bracelets, signet rings, earrings, and necklaces, to make atonement for our souls before Yahweh.”"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Mose und Eleasar, der Priester, nahmen das Gold von ihnen an, lauter kunstvoll gearbeiteten Schmuck.",
+       "englisch_web": "Moses and Eleazar the priest took their gold, even all worked jewels."
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "Das ganze Gold der Gabe, das sie dem HERRN gaben,\nvon den Anführern über Tausend und den Anführern über Hundert,\nwog etwa 184 Kilogramm.",
+       "englisch_web": "All the gold of the wave offering that they offered up to Yahweh, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred fifty shekels."
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Die Krieger hatten jeder für sich selbst Beute gemacht.",
+       "englisch_web": "The men of war had taken booty, every man for himself."
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Mose und Eleasar, der Priester, nahmen das Gold der Anführer über Tausend und über Hundert\nund brachten es in das Zelt der Begegnung,\nals Erinnerung an die Israeliten vor dem HERRN.",
+       "englisch_web": "Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before Yahweh."
+      }
+     ],
+     "erklaerung": "In der Bibel steht: 16.750 Schekel Gold. Ein Schekel sind etwa 11 Gramm.\nKein einziger Soldat ist im Krieg gestorben. Die Offiziere sehen das als Wunder und danken Gott mit einer großen Gabe.\n„Um Versöhnung zu schaffen“: Vielleicht spüren sie, dass sie durch das Töten Schuld auf sich geladen haben. Sie wollen sich vor Gott wieder reinigen."
+    }
+   ]
+  },
+  {
+   "kapitel": 32,
+   "titel": "Ruben und Gad wollen östlich des Jordan bleiben",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Bitte von Ruben und Gad",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Nachkommen von Ruben und die Nachkommen von Gad hatten sehr viel Vieh.\nSie sahen das Land Jaser und das Land Gilead.\nSchau: Die Gegend war gut für Vieh.",
+       "englisch_web": "Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da kamen die Nachkommen von Gad und die Nachkommen von Ruben\nund sprachen zu Mose, zu Eleasar, dem Priester, und zu den Anführern der Gemeinde:",
+       "englisch_web": "Then the children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "„Atarot, Dibon, Jaser, Nimra, Heschbon, Elale, Sebam, Nebo und Beon,",
+       "englisch_web": "“Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "das Land, das der HERR vor der Gemeinde Israels geschlagen hat,\nist ein Land für Vieh.\nUnd deine Diener haben Vieh.“",
+       "englisch_web": "the land which Yahweh struck before the congregation of Israel, is a land for livestock; and your servants have livestock.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sie sagten:\n„Wenn wir in deinen Augen Gnade gefunden haben,\ndann soll dieses Land deinen Dienern als Besitz gegeben werden.\nFühre uns nicht über den Jordan.“",
+       "englisch_web": "They said, “If we have found favor in your sight, let this land be given to your servants for a possession. Don’t bring us over the Jordan.”"
+      }
+     ],
+     "erklaerung": "Das Volk lagert noch östlich des Jordan. Dieses Land hat Israel gerade von den Königen Sihon und Og erobert (Kapitel 21).\nDie Stämme Ruben und Gad sind Viehzüchter. Sie sehen: Das Land hier hat gute Weiden. Sie wollen bleiben und nicht ins eigentliche Land Kanaan auf der anderen Seite des Flusses ziehen."
+    },
+    {
+     "ueberschrift": "Mose wird zornig",
+     "vers_von": 6,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Mose sagte zu den Nachkommen von Gad und zu den Nachkommen von Ruben:\n„Sollen eure Brüder in den Krieg ziehen, während ihr hier sitzen bleibt?",
+       "englisch_web": "Moses said to the children of Gad, and to the children of Reuben, “Shall your brothers go to war while you sit here?"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Warum entmutigt ihr die Israeliten,\ndamit sie nicht hinüberziehen in das Land, das der HERR ihnen gegeben hat?",
+       "englisch_web": "Why do you discourage the heart of the children of Israel from going over into the land which Yahweh has given them?"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "So haben es eure Väter gemacht,\nals ich sie von Kadesch-Barnea losgeschickt habe, um das Land zu erkunden.",
+       "englisch_web": "Your fathers did so when I sent them from Kadesh Barnea to see the land."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn als sie hinauf bis zum Tal Eschkol kamen und das Land sahen,\nda entmutigten sie die Israeliten,\ndamit sie nicht in das Land gingen, das der HERR ihnen gegeben hatte.",
+       "englisch_web": "For when they went up to the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which Yahweh had given them."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "An jenem Tag entbrannte der Zorn des HERRN, und er schwor:",
+       "englisch_web": "Yahweh’s anger burned in that day, and he swore, saying,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "‚Ganz sicher wird keiner der Männer, die aus Ägypten heraufgezogen sind,\nvon zwanzig Jahren an und älter,\ndas Land sehen, das ich Abraham, Isaak und Jakob mit einem Schwur versprochen habe.\nDenn sie sind mir nicht ganz gefolgt.",
+       "englisch_web": "‘Surely none of the men who came up out of Egypt, from twenty years old and upward, shall see the land which I swore to Abraham, to Isaac, and to Jacob; because they have not wholly followed me,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Nur Kaleb, der Sohn von Jefunne, der Kenasiter, und Josua, der Sohn von Nun,\ndenn sie sind dem HERRN ganz gefolgt.‘",
+       "englisch_web": "except Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun, because they have followed Yahweh completely.’"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der Zorn des HERRN entbrannte gegen Israel.\nEr ließ sie vierzig Jahre lang in der Wüste hin und her ziehen,\nbis die ganze Generation aufgerieben war, die getan hatte, was in den Augen des HERRN böse war.",
+       "englisch_web": "Yahweh’s anger burned against Israel, and he made them wander back and forth in the wilderness forty years, until all the generation who had done evil in Yahweh’s sight was consumed."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Schaut: Jetzt seid ihr an die Stelle eurer Väter getreten,\neine neue Brut von sündigen Männern,\num den glühenden Zorn des HERRN gegen Israel noch größer zu machen.",
+       "englisch_web": "“Behold, you have risen up in your fathers’ place, an increase of sinful men, to increase the fierce anger of Yahweh toward Israel."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Denn wenn ihr euch von ihm abwendet,\ndann wird er das Volk noch einmal in der Wüste lassen.\nUnd ihr werdet dieses ganze Volk zugrunde richten.“",
+       "englisch_web": "For if you turn away from after him, he will yet again leave them in the wilderness; and you will destroy all these people.”"
+      }
+     ],
+     "erklaerung": "Mose hat Angst: Es könnte wieder so werden wie vor 38 Jahren. Damals hatten zehn Kundschafter das Volk entmutigt (Kapitel 13 und 14). Darum musste das Volk vierzig Jahre in der Wüste bleiben.\nWenn jetzt zwei Stämme sagen: „Wir bleiben hier“, dann denken die anderen vielleicht: „Warum sollen wir dann kämpfen?“ Mose sieht die Gefahr: Die Einheit des Volkes könnte zerbrechen.\nMose sagt es sehr hart: Ihr seid wie eure Väter. Ihr bringt das ganze Volk in Gefahr."
+    },
+    {
+     "ueberschrift": "Ruben und Gad machen ein Angebot",
+     "vers_von": 16,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Sie traten zu ihm und sagten:\n„Wir wollen hier Pferche für unser Vieh bauen und Städte für unsere kleinen Kinder.",
+       "englisch_web": "They came near to him, and said, “We will build sheepfolds here for our livestock, and cities for our little ones;"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Aber wir selbst wollen bewaffnet und bereit sein, vor den Israeliten herzuziehen,\nbis wir sie an ihren Ort gebracht haben.\nUnsere kleinen Kinder sollen in den befestigten Städten wohnen,\nzum Schutz vor den Bewohnern des Landes.",
+       "englisch_web": "but we ourselves will be ready armed to go before the children of Israel, until we have brought them to their place. Our little ones shall dwell in the fortified cities because of the inhabitants of the land."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wir wollen nicht zu unseren Häusern zurückkehren,\nbis alle Israeliten ihr Erbe bekommen haben.",
+       "englisch_web": "We will not return to our houses until the children of Israel have all received their inheritance."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn wir wollen nicht mit ihnen zusammen auf der anderen Seite des Jordan und weiter weg erben.\nDenn unser Erbe ist uns auf dieser Seite des Jordan zugefallen, im Osten.“",
+       "englisch_web": "For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has come to us on this side of the Jordan eastward.”"
+      }
+     ],
+     "erklaerung": "Ruben und Gad verstehen Moses Sorge. Sie machen einen fairen Vorschlag: Unsere Familien bleiben hier in sicheren Städten. Aber unsere Männer kämpfen mit den anderen Stämmen. Sie gehen sogar vorneweg. Erst wenn alle ihr Land haben, kommen sie nach Hause.\nSie lassen ihre Brüder nicht im Stich."
+    },
+    {
+     "ueberschrift": "Mose nimmt das Angebot an",
+     "vers_von": 20,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Mose sagte zu ihnen:\n„Wenn ihr das tut,\nwenn ihr euch bewaffnet, um vor dem HERRN in den Krieg zu ziehen,",
+       "englisch_web": "Moses said to them: “If you will do this thing, if you will arm yourselves to go before Yahweh to the war,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "und jeder bewaffnete Mann von euch zieht vor dem HERRN über den Jordan,\nbis er seine Feinde vor sich vertrieben hat,",
+       "englisch_web": "and every one of your armed men will pass over the Jordan before Yahweh until he has driven out his enemies from before him,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "und das Land vor dem HERRN unterworfen ist,\ndann dürft ihr danach zurückkehren.\nDann seid ihr frei von eurer Pflicht gegenüber dem HERRN und gegenüber Israel.\nUnd dann soll dieses Land vor dem HERRN euer Besitz sein.",
+       "englisch_web": "and the land is subdued before Yahweh; then afterward you shall return, and be clear of obligation to Yahweh and to Israel. Then this land shall be your possession before Yahweh."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Aber wenn ihr das nicht tut,\nschaut, dann habt ihr gegen den HERRN gesündigt.\nUnd ihr könnt sicher sein: Eure Sünde wird euch einholen.",
+       "englisch_web": "“But if you will not do so, behold, you have sinned against Yahweh; and be sure your sin will find you out."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Baut Städte für eure kleinen Kinder und Pferche für eure Schafe.\nUnd tut, was ihr versprochen habt.“",
+       "englisch_web": "Build cities for your little ones, and folds for your sheep; and do that which has proceeded out of your mouth.”"
+      }
+     ],
+     "erklaerung": "„Eure Sünde wird euch einholen“ ist ein bekannter Satz geworden. Er bedeutet: Man kann vor seiner Schuld nicht davonlaufen. Wer ein Versprechen bricht, den holen die Folgen irgendwann ein.\nMose erinnert sie: Versprechen muss man halten. Darum ging es auch in Kapitel 30."
+    },
+    {
+     "ueberschrift": "Die Abmachung wird bestätigt",
+     "vers_von": 25,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Nachkommen von Gad und die Nachkommen von Ruben sprachen zu Mose:\n„Deine Diener werden tun, was mein Herr befiehlt.",
+       "englisch_web": "The children of Gad and the children of Reuben spoke to Moses, saying, “Your servants will do as my lord commands."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Unsere kleinen Kinder, unsere Frauen, unsere Herden und unser ganzes Vieh\nsollen dort in den Städten Gileads bleiben.",
+       "englisch_web": "Our little ones, our wives, our flocks, and all our livestock shall be there in the cities of Gilead;"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Aber deine Diener werden hinüberziehen,\njeder Mann, der für den Krieg bewaffnet ist, vor dem HERRN in den Kampf,\nwie mein Herr es sagt.“",
+       "englisch_web": "but your servants will pass over, every man who is armed for war, before Yahweh to battle, as my lord says.”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Da gab Mose wegen ihnen Anweisungen an Eleasar, den Priester,\nan Josua, den Sohn von Nun,\nund an die Oberhäupter der Familien der Stämme der Israeliten.",
+       "englisch_web": "So Moses commanded concerning them to Eleazar the priest, and to Joshua the son of Nun, and to the heads of the fathers’ households of the tribes of the children of Israel."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Mose sagte zu ihnen:\n„Wenn die Nachkommen von Gad und die Nachkommen von Ruben mit euch über den Jordan ziehen,\njeder Mann, der vor dem HERRN zum Kampf bewaffnet ist,\nund das Land vor euch unterworfen ist,\ndann sollt ihr ihnen das Land Gilead als Besitz geben.",
+       "englisch_web": "Moses said to them, “If the children of Gad and the children of Reuben will pass with you over the Jordan, every man who is armed to battle before Yahweh, and the land is subdued before you, then you shall give them the land of Gilead for a possession;"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Aber wenn sie nicht bewaffnet mit euch hinüberziehen,\ndann sollen sie Besitz unter euch im Land Kanaan bekommen.“",
+       "englisch_web": "but if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.”"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Die Nachkommen von Gad und die Nachkommen von Ruben antworteten:\n„Was der HERR zu deinen Dienern gesagt hat, das werden wir tun.",
+       "englisch_web": "The children of Gad and the children of Reuben answered, saying, “As Yahweh has said to your servants, so will we do."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Wir werden bewaffnet vor dem HERRN hinüberziehen in das Land Kanaan.\nUnd der Besitz unseres Erbes soll uns auf dieser Seite des Jordan bleiben.“",
+       "englisch_web": "We will pass over armed before Yahweh into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan.”"
+      }
+     ],
+     "erklaerung": "Mose weiß, dass er bald stirbt. Darum gibt er die Abmachung an Eleasar und Josua weiter. Sie sollen später darauf achten, dass sie eingehalten wird.\nRuben und Gad haben ihr Wort gehalten. Im Buch Josua kämpfen ihre Männer mit. Erst danach schickt Josua sie nach Hause und lobt sie für ihre Treue (Josua 22,1–4)."
+    },
+    {
+     "ueberschrift": "Das Land östlich des Jordan wird verteilt",
+     "vers_von": 33,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 33,
+       "leichte_sprache": "Mose gab ihnen, den Nachkommen von Gad, den Nachkommen von Ruben\nund dem halben Stamm Manasse, dem Sohn Josefs,\ndas Königreich von Sihon, dem König der Amoriter,\nund das Königreich von Og, dem König von Baschan:\ndas Land mit seinen Städten und Grenzen, die Städte des Landes ringsum.",
+       "englisch_web": "Moses gave to them, even to the children of Gad, and to the children of Reuben, and to the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan; the land, according to its cities and borders, even the cities of the surrounding land."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Die Nachkommen von Gad bauten Dibon, Atarot, Aroër,",
+       "englisch_web": "The children of Gad built Dibon, Ataroth, Aroer,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Atrot-Schofan, Jaser, Jogboha,",
+       "englisch_web": "Atroth-shophan, Jazer, Jogbehah,"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Bet-Nimra und Bet-Haran: befestigte Städte und Pferche für Schafe.",
+       "englisch_web": "Beth Nimrah, and Beth Haran: fortified cities and folds for sheep."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die Nachkommen von Ruben bauten Heschbon, Elale, Kirjatajim,",
+       "englisch_web": "The children of Reuben built Heshbon, Elealeh, Kiriathaim,"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Nebo und Baal-Meon – ihre Namen wurden geändert – und Sibma.\nSie gaben den Städten, die sie bauten, andere Namen.",
+       "englisch_web": "Nebo, and Baal Meon, (their names being changed), and Sibmah. They gave other names to the cities which they built."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Die Nachkommen von Machir, dem Sohn von Manasse, zogen nach Gilead.\nSie nahmen es ein und vertrieben die Amoriter, die dort wohnten.",
+       "englisch_web": "The children of Machir the son of Manasseh went to Gilead, took it, and dispossessed the Amorites who were therein."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Mose gab Gilead an Machir, den Sohn von Manasse.\nUnd er wohnte dort.",
+       "englisch_web": "Moses gave Gilead to Machir the son of Manasseh; and he lived therein."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Jaïr, der Sohn von Manasse, zog los und nahm ihre Dörfer ein.\nEr nannte sie Hawot-Jaïr.",
+       "englisch_web": "Jair the son of Manasseh went and took its villages, and called them Havvoth Jair."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Nobach zog los und nahm Kenat und seine Dörfer ein.\nEr nannte es Nobach, nach seinem eigenen Namen.",
+       "englisch_web": "Nobah went and took Kenath and its villages, and called it Nobah, after his own name."
+      }
+     ],
+     "erklaerung": "Jetzt taucht plötzlich auch der halbe Stamm Manasse auf. Ein Teil der Familien von Manasse bekommt auch Land östlich des Jordan, im Norden. Der andere Teil wohnt später westlich des Jordan.\nSo wohnen zweieinhalb Stämme östlich des Jordan und neuneinhalb Stämme im Land Kanaan.\n„Hawot-Jaïr“ heißt „Zeltdörfer von Jaïr“.\nNebo und Baal-Meon waren Namen von fremden Göttern. Darum wurden die Namen wohl geändert."
+    }
+   ]
   }
  ]
 }
