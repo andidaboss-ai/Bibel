@@ -15639,3 +15639,417 @@ Und man tat es so, wie der HERR es Mose befohlen hatte.
 > „Sich demütigen“ meint vor allem: fasten. Bis heute fasten Juden an Jom Kippur 25 Stunden lang, sie essen und trinken nichts. Sie beten in der Synagoge, denken über ihr Leben nach und bitten Gott und die Menschen um Vergebung.
 > „Von allen euren Sünden werdet ihr rein sein“ – das ist das große Versprechen dieses Tages. Einmal im Jahr darf jeder ganz neu anfangen.
 > Auch der Fremde, der in Israel lebt, soll an diesem Tag ruhen. Gottes Versöhnung gilt allen.
+
+## 3. Mose – Kapitel 17
+#### Das Blut ist das Leben
+
+---
+
+### Opfer nur am Heiligtum (Vers 1–9)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu Aaron, zu seinen Söhnen und zu allen Israeliten und sag ihnen:
+‚Das hat der HERR befohlen:
+<sup>3</sup>Wenn jemand aus dem Haus Israel ein Rind, ein Lamm oder eine Ziege schlachtet,
+im Lager oder außerhalb des Lagers,
+<sup>4</sup>und es nicht zum Eingang des Zeltes der Begegnung bringt,
+um es dem HERRN als Opfergabe vor der Wohnung des HERRN darzubringen,
+dann soll diesem Mann das Blut angerechnet werden.
+Er hat Blut vergossen.
+Dieser Mann soll aus seinem Volk ausgeschlossen werden.
+<sup>5</sup>Das soll so sein, damit die Israeliten ihre Opfer, die sie auf dem freien Feld opfern, zum HERRN bringen,
+zum Eingang des Zeltes der Begegnung, zum Priester.
+Dort sollen sie sie dem HERRN als Gemeinschaftsopfer darbringen.
+<sup>6</sup>Der Priester soll das Blut an den Altar des HERRN sprengen, am Eingang des Zeltes der Begegnung,
+und das Fett verbrennen, als angenehmen Duft für den HERRN.
+<sup>7</sup>Sie sollen ihre Opfer nicht mehr den Bocksgeistern bringen,
+mit denen sie sich wie Prostituierte einlassen.
+Das soll für sie eine feste Ordnung für alle Zeiten sein, für alle ihre Generationen.‘
+
+<sup>8</sup>Und sag ihnen:
+‚Wenn jemand aus dem Haus Israel oder von den Fremden, die als Ausländer unter ihnen leben,
+ein Brandopfer oder ein anderes Opfer darbringt
+<sup>9</sup>und es nicht zum Eingang des Zeltes der Begegnung bringt, um es dem HERRN zu opfern,
+dann soll dieser Mann aus seinem Volk ausgeschlossen werden.
+
+> **Was bedeutet das?**
+> In der Wüste lebten alle nah beim Heiligtum. Wenn jemand ein Rind, Schaf oder eine Ziege schlachten wollte, sollte er es als Gemeinschaftsopfer zum Heiligtum bringen. So wurde jedes Fleischessen zu einem Mahl mit Gott.
+> Damals glaubten viele Menschen an Geister in der Wüste, die wie Ziegenböcke aussahen. In der englischen Vorlage steht „goat idols“, also Götzen in Bocksgestalt. Manche Israeliten opferten heimlich diesen Geistern. Das soll aufhören.
+> Später, als Israel im ganzen Land wohnte, durfte man auch zu Hause schlachten (5. Mose 12,15–16). Aber das Blut durfte man trotzdem nicht essen.
+
+---
+
+### Warum man kein Blut essen darf (Vers 10–14)
+
+<sup>10</sup>Wenn jemand aus dem Haus Israel oder von den Fremden, die als Ausländer unter ihnen leben,
+irgendwelches Blut isst,
+dann will ich mich gegen diesen Menschen wenden, der Blut isst,
+und ihn aus seinem Volk ausschließen.
+<sup>11</sup>Denn das Leben des Körpers ist im Blut.
+Ich habe es euch für den Altar gegeben, um für euer Leben Versöhnung zu schaffen.
+Denn das Blut ist es, das Versöhnung schafft, weil das Leben darin ist.
+<sup>12</sup>Darum habe ich zu den Israeliten gesagt:
+„Niemand von euch darf Blut essen.
+Auch kein Fremder, der als Ausländer unter euch lebt, darf Blut essen.“
+
+<sup>13</sup>Wenn jemand von den Israeliten oder von den Fremden, die als Ausländer unter ihnen leben,
+ein Tier oder einen Vogel jagt, den man essen darf,
+dann soll er sein Blut ausfließen lassen und es mit Erde bedecken.
+<sup>14</sup>Denn das Leben jedes Lebewesens – sein Blut ist sein Leben.
+Darum habe ich zu den Israeliten gesagt:
+„Ihr dürft von keinem Lebewesen das Blut essen.
+Denn das Leben jedes Lebewesens ist sein Blut.
+Jeder, der es isst, soll ausgeschlossen werden.“
+
+> **Was bedeutet das?**
+> Vers 11 ist einer der wichtigsten Verse über die Opfer: „Das Leben ist im Blut.“ Das Blut steht für das Leben. Und das Leben gehört Gott, nicht dem Menschen.
+> Darum ist das Blut so wichtig bei den Opfern: Ein Leben wird für ein anderes Leben gegeben. So entsteht Versöhnung.
+> Auch wer ein Tier jagt, soll das Blut ehren. Er soll es mit Erde bedecken, fast wie bei einer Beerdigung. Das zeigt Respekt vor dem Leben des Tieres.
+> Christen sehen hier einen Hinweis auf Jesus. Im Neuen Testament heißt es: „Ohne Blutvergießen gibt es keine Vergebung“ (Hebräer 9,22). Und beim Abendmahl sagt Jesus über den Wein: „Das ist mein Blut des Bundes, das für viele vergossen wird zur Vergebung der Sünden“ (Matthäus 26,28).
+
+---
+
+### Wer ein verendetes Tier isst (Vers 15–16)
+
+<sup>15</sup>Jeder, der etwas isst, das von selbst gestorben ist oder das von wilden Tieren gerissen wurde,
+sei er Einheimischer oder Fremder,
+soll seine Kleider waschen und sich mit Wasser baden und ist unrein bis zum Abend.
+Dann ist er rein.
+<sup>16</sup>Aber wenn er sie nicht wäscht und seinen Körper nicht badet,
+dann trägt er seine Schuld.‘“
+
+> **Was bedeutet das?**
+> Ein Tier, das von selbst gestorben ist, ist nicht ausgeblutet. Das Blut ist noch darin. Darum macht es unrein.
+> Wer es trotzdem gegessen hat, zum Beispiel aus Not, kann sich waschen und ist am Abend wieder rein. Schlimm ist nur, wenn man die Reinigung einfach ignoriert.
+
+## 3. Mose – Kapitel 18
+#### Regeln für Sexualität und Familie
+
+---
+
+### Nicht wie in Ägypten und nicht wie in Kanaan (Vers 1–5)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Ich bin der HERR, euer Gott.
+<sup>3</sup>Ihr sollt nicht tun, was man im Land Ägypten tut, wo ihr gewohnt habt.
+Und ihr sollt nicht tun, was man im Land Kanaan tut, wohin ich euch bringe.
+Ihr sollt nicht nach ihren Ordnungen leben.
+<sup>4</sup>Ihr sollt nach meinen Rechtsbestimmungen handeln.
+Ihr sollt meine Ordnungen halten und nach ihnen leben.
+Ich bin der HERR, euer Gott.
+<sup>5</sup>Darum sollt ihr meine Ordnungen und meine Rechtsbestimmungen halten.
+Wer sie tut, wird durch sie leben.
+Ich bin der HERR.
+
+> **Was bedeutet das?**
+> Israel soll anders leben als die Völker um sich herum. Gottes Gebote sind keine Last, sondern ein Weg zum Leben: „Wer sie tut, wird durch sie leben.“
+> In diesem Kapitel geht es um Sexualität und Familie. Die Bibel spricht offen über diese Dinge. Es geht darum, die Familie zu schützen, besonders die Schwächeren in der Familie.
+
+---
+
+### Keine Sexualität mit nahen Verwandten (Vers 6–18)
+
+<sup>6</sup>Keiner von euch soll sich einem nahen Verwandten nähern, um seine Blöße aufzudecken.
+Ich bin der HERR.
+
+<sup>7</sup>Du sollst nicht die Blöße deines Vaters aufdecken, auch nicht die Blöße deiner Mutter.
+Sie ist deine Mutter. Du sollst nicht ihre Blöße aufdecken.
+<sup>8</sup>Du sollst nicht die Blöße der Frau deines Vaters aufdecken.
+Es ist die Blöße deines Vaters.
+<sup>9</sup>Du sollst nicht die Blöße deiner Schwester aufdecken,
+der Tochter deines Vaters oder der Tochter deiner Mutter,
+ob sie im Haus geboren ist oder anderswo.
+<sup>10</sup>Du sollst nicht die Blöße der Tochter deines Sohnes oder der Tochter deiner Tochter aufdecken.
+Denn ihre Blöße ist deine eigene Blöße.
+<sup>11</sup>Du sollst nicht die Blöße der Tochter der Frau deines Vaters aufdecken, die dein Vater gezeugt hat.
+Sie ist deine Schwester.
+<sup>12</sup>Du sollst nicht die Blöße der Schwester deines Vaters aufdecken.
+Sie ist eine nahe Verwandte deines Vaters.
+<sup>13</sup>Du sollst nicht die Blöße der Schwester deiner Mutter aufdecken.
+Denn sie ist eine nahe Verwandte deiner Mutter.
+<sup>14</sup>Du sollst nicht die Blöße des Bruders deines Vaters aufdecken.
+Du sollst dich nicht seiner Frau nähern. Sie ist deine Tante.
+<sup>15</sup>Du sollst nicht die Blöße deiner Schwiegertochter aufdecken.
+Sie ist die Frau deines Sohnes. Du sollst nicht ihre Blöße aufdecken.
+<sup>16</sup>Du sollst nicht die Blöße der Frau deines Bruders aufdecken.
+Es ist die Blöße deines Bruders.
+<sup>17</sup>Du sollst nicht die Blöße einer Frau und ihrer Tochter aufdecken.
+Du sollst nicht die Tochter ihres Sohnes oder die Tochter ihrer Tochter nehmen, um ihre Blöße aufzudecken.
+Sie sind nahe Verwandte. Es ist eine Schandtat.
+<sup>18</sup>Du sollst nicht zusätzlich zu einer Frau ihre Schwester heiraten,
+sodass sie Rivalinnen werden, und ihre Blöße aufdecken, solange deine Frau noch lebt.
+
+> **Was bedeutet das?**
+> „Die Blöße aufdecken“ ist ein altes, zurückhaltendes Wort für Geschlechtsverkehr, also: mit jemandem schlafen.
+> Diese Regeln verbieten Sexualität zwischen nahen Verwandten. Das nennt man Inzest. Bis heute ist das in fast allen Ländern verboten. Es zerstört Familien und verletzt besonders Kinder und Jugendliche schwer.
+> Damals lebten oft viele Generationen in einer großen Familie zusammen. Diese Regeln schützten alle, besonders die Frauen und Mädchen, vor Missbrauch innerhalb der Familie.
+> Vers 18 erinnert an Jakob, der zwei Schwestern heiratete, Lea und Rahel. Daraus entstand viel Eifersucht und Streit (1. Mose 29–30).
+> Vers 16 hat eine Ausnahme: Wenn ein Bruder kinderlos starb, sollte sein Bruder die Witwe heiraten (5. Mose 25,5–6).
+
+---
+
+### Weitere verbotene Handlungen (Vers 19–23)
+
+<sup>19</sup>Du sollst dich keiner Frau nähern, um ihre Blöße aufzudecken, solange sie durch ihre Periode unrein ist.
+<sup>20</sup>Du sollst nicht mit der Frau deines Nächsten schlafen und dich mit ihr unrein machen.
+<sup>21</sup>Du sollst keines deiner Kinder dem Moloch als Opfer geben.
+Du sollst den Namen deines Gottes nicht entweihen. Ich bin der HERR.
+<sup>22</sup>Du sollst nicht mit einem Mann schlafen, wie man mit einer Frau schläft.
+Das ist etwas Abscheuliches.
+<sup>23</sup>Du sollst mit keinem Tier schlafen und dich damit unrein machen.
+Auch keine Frau darf sich einem Tier hingeben, um sich mit ihm einzulassen.
+Das ist eine schändliche Verirrung.
+
+> **Was bedeutet das?**
+> Vers 20 verbietet den Ehebruch. Das steht auch in den Zehn Geboten (2. Mose 20,14).
+> Vers 21: Moloch war ein Gott der Nachbarvölker. Ihm wurden Kinder geopfert und verbrannt. Für Israel ist das eines der schlimmsten Verbrechen überhaupt. Die Bibel verurteilt es immer wieder scharf (zum Beispiel Jeremia 7,31).
+> Vers 22 handelt von Sexualität zwischen Männern. Diese Stelle wird heute sehr unterschiedlich verstanden:
+> Viele Juden und Christen, besonders in traditionellen Gemeinden, sehen darin ein bleibendes Gebot Gottes.
+> Andere Juden und Christen sagen: Diese Regel muss man aus ihrer Zeit verstehen. Damals ging es vielleicht um bestimmte Praktiken, zum Beispiel Kulte anderer Völker oder Gewalt und Ausbeutung. Liebevolle, treue Partnerschaften, wie wir sie heute kennen, waren damals nicht im Blick.
+> Wichtig ist: Diese Stelle darf nie als Rechtfertigung für Hass, Spott oder Gewalt gegen Menschen benutzt werden. Die Bibel sagt auch: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18). Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27).
+
+---
+
+### Das Land spuckt seine Bewohner aus (Vers 24–30)
+
+<sup>24</sup>Macht euch durch keines dieser Dinge unrein.
+Denn durch all das haben sich die Völker unrein gemacht, die ich vor euch vertreibe.
+<sup>25</sup>Das Land wurde unrein.
+Darum habe ich seine Schuld an ihm bestraft.
+Und das Land hat seine Bewohner ausgespuckt.
+<sup>26</sup>Darum sollt ihr meine Ordnungen und meine Rechtsbestimmungen halten
+und keine dieser abscheulichen Dinge tun,
+weder der Einheimische noch der Fremde, der als Ausländer bei euch lebt.
+<sup>27</sup>Denn die Menschen in dem Land, die vor euch dort waren, haben all diese abscheulichen Dinge getan,
+und das Land wurde unrein.
+<sup>28</sup>Sonst wird das Land auch euch ausspucken, wenn ihr es unrein macht,
+so wie es das Volk ausgespuckt hat, das vor euch dort war.
+
+<sup>29</sup>Denn jeder, der eines dieser abscheulichen Dinge tut,
+der soll aus seinem Volk ausgeschlossen werden.
+<sup>30</sup>Darum sollt ihr meine Anordnungen befolgen.
+Lebt nicht nach diesen abscheulichen Bräuchen, die man vor euch getan hat.
+Und macht euch nicht durch sie unrein.
+Ich bin der HERR, euer Gott.‘“
+
+> **Was bedeutet das?**
+> Hier ist das Land fast wie ein lebendiges Wesen. Wenn die Menschen darin Unrecht tun, wird ihm „übel“, und es spuckt sie aus.
+> Das ist eine ernste Warnung an Israel: Auch ihr seid nicht sicher, wenn ihr so lebt. Das Land ist ein Geschenk, kein selbstverständlicher Besitz.
+> Später in der Geschichte Israels wurde das Volk tatsächlich ins Exil verschleppt. Die Propheten sahen darin die Folge davon, dass Israel Gottes Gebote nicht gehalten hatte.
+
+## 3. Mose – Kapitel 19
+#### Seid heilig – liebe deinen Nächsten wie dich selbst
+
+---
+
+### Ihr sollt heilig sein (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zur ganzen Gemeinde der Israeliten und sag ihnen:
+‚Ihr sollt heilig sein. Denn ich, der HERR, euer Gott, bin heilig.
+
+<sup>3</sup>Jeder von euch soll Respekt vor seiner Mutter und seinem Vater haben.
+Und ihr sollt meine Sabbate halten.
+Ich bin der HERR, euer Gott.
+<sup>4</sup>Wendet euch nicht den Götzen zu.
+Und macht euch keine gegossenen Götter.
+Ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Kapitel 19 ist eines der wichtigsten Kapitel der ganzen Bibel. Es zeigt, was „heilig sein“ im Alltag bedeutet.
+> Heilig sein heißt nicht nur, im Gottesdienst fromm zu sein. Es heißt: im ganzen Leben gut, gerecht und liebevoll handeln. Bei der Arbeit, auf dem Feld, vor Gericht, mit Nachbarn, mit Fremden, mit Alten und mit Behinderten.
+> Viele Gebote hier erinnern an die Zehn Gebote: Eltern ehren, Sabbat halten, keine Götzen.
+> Immer wieder heißt es: „Ich bin der HERR.“ Das ist die Begründung: Weil Gott so ist, sollen wir auch so sein.
+
+---
+
+### Das Gemeinschaftsopfer (Vers 5–8)
+
+<sup>5</sup>Wenn ihr dem HERRN ein Gemeinschaftsopfer bringt,
+dann sollt ihr es so darbringen, dass ihr angenommen werdet.
+<sup>6</sup>Man soll es an dem Tag essen, an dem ihr es opfert, und am nächsten Tag.
+Was bis zum dritten Tag übrig bleibt, soll im Feuer verbrannt werden.
+<sup>7</sup>Wenn man am dritten Tag trotzdem davon isst, ist es etwas Abscheuliches.
+Es wird nicht angenommen.
+<sup>8</sup>Und jeder, der davon isst, trägt seine Schuld.
+Denn er hat das Heilige des HERRN entweiht.
+Dieser Mensch soll aus seinem Volk ausgeschlossen werden.
+
+---
+
+### Etwas übrig lassen für die Armen (Vers 9–10)
+
+<sup>9</sup>Wenn ihr die Ernte eures Landes einbringt,
+sollst du dein Feld nicht bis in die äußersten Ecken abernten.
+Und du sollst die Ähren nicht auflesen, die bei der Ernte liegen bleiben.
+<sup>10</sup>Auch in deinem Weinberg sollst du nicht nachlesen.
+Und die Trauben, die herunterfallen, sollst du nicht aufsammeln.
+Du sollst sie für die Armen und für den Fremden übrig lassen.
+Ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Das ist eine soziale Regel: Die Bauern sollen nicht alles für sich behalten. Die Ränder des Feldes und was liegen bleibt, gehören den Armen und den Fremden. So konnten auch Menschen ohne eigenes Land etwas zu essen finden.
+> Die Armen bekommen dabei kein Almosen. Sie arbeiten selbst und sammeln. So behalten sie ihre Würde.
+> Im Buch Rut wird erzählt, wie Rut, eine arme Ausländerin, auf dem Feld von Boas Ähren sammelt (Rut 2). So beginnt eine wunderbare Geschichte.
+
+---
+
+### Ehrlich und gerecht miteinander umgehen (Vers 11–16)
+
+<sup>11</sup>Ihr sollt nicht stehlen.
+Ihr sollt nicht lügen.
+Ihr sollt einander nicht betrügen.
+<sup>12</sup>Ihr sollt nicht falsch bei meinem Namen schwören
+und so den Namen deines Gottes entweihen.
+Ich bin der HERR.
+
+<sup>13</sup>Du sollst deinen Nächsten nicht unterdrücken und ihn nicht berauben.
+Der Lohn eines Tagelöhners soll nicht über Nacht bis zum Morgen bei dir bleiben.
+
+<sup>14</sup>Du sollst einen Tauben nicht verfluchen.
+Und du sollst einem Blinden kein Hindernis in den Weg legen.
+Sondern du sollst deinen Gott fürchten.
+Ich bin der HERR.
+
+<sup>15</sup>Ihr sollt im Gericht kein Unrecht tun.
+Du sollst den Armen nicht bevorzugen und den Mächtigen nicht begünstigen.
+Du sollst deinen Nächsten gerecht richten.
+
+<sup>16</sup>Du sollst nicht als Verleumder in deinem Volk herumgehen.
+Du sollst das Leben deines Nächsten nicht in Gefahr bringen.
+Ich bin der HERR.
+
+> **Was bedeutet das?**
+> Ein Tagelöhner ist ein Arbeiter, der nur für einen Tag angestellt wird. Er braucht seinen Lohn noch am selben Abend, um Essen für seine Familie zu kaufen. Darum soll man ihn sofort bezahlen.
+> Ein Tauber hört den Fluch nicht. Ein Blinder sieht das Hindernis nicht. Man könnte denken: Das merkt doch niemand. Aber Gott sieht es. Darum heißt es: „Du sollst deinen Gott fürchten.“ Wer Schwache verspottet oder ihnen schadet, handelt gegen Gott.
+> Vor Gericht sollen alle gleich behandelt werden. Nicht der Reiche soll bevorzugt werden, aber auch nicht der Arme aus Mitleid. Gerechtigkeit gilt für alle.
+> „Das Leben deines Nächsten in Gefahr bringen“ meint vielleicht auch: tatenlos zusehen, wenn jemand in Gefahr ist. Juden verstehen diesen Vers so: Man muss helfen, wenn ein anderer in Lebensgefahr ist.
+
+---
+
+### Liebe deinen Nächsten wie dich selbst (Vers 17–18)
+
+<sup>17</sup>Du sollst deinen Bruder nicht in deinem Herzen hassen.
+Du sollst deinen Nächsten offen zurechtweisen,
+damit du seinetwegen keine Schuld auf dich lädst.
+<sup>18</sup>Du sollst dich nicht rächen
+und den Menschen aus deinem Volk nichts nachtragen.
+Sondern du sollst deinen Nächsten lieben wie dich selbst.
+Ich bin der HERR.
+
+> **Was bedeutet das?**
+> Hier steht einer der berühmtesten Sätze der Bibel: „Du sollst deinen Nächsten lieben wie dich selbst.“
+> Jesus nannte ihn eines der beiden wichtigsten Gebote, zusammen mit dem Gebot, Gott von ganzem Herzen zu lieben (Markus 12,29–31). Auch der berühmte jüdische Lehrer Rabbi Akiba sagte: Das ist der wichtigste Grundsatz der Tora.
+> Interessant ist die Reihenfolge: Erst heißt es „Hass nicht in deinem Herzen“, dann „sprich offen mit ihm“. Wenn dich jemand verletzt hat, sollst du es ihm sagen, statt heimlich Groll zu hegen. Ehrliche Worte sind besser als stiller Hass.
+> „Wie dich selbst“ – das setzt voraus, dass man sich auch selbst annehmen darf.
+> Wer ist mein Nächster? Darauf antwortete Jesus mit der Geschichte vom barmherzigen Samariter (Lukas 10,25–37). Und schon in diesem Kapitel, in Vers 34, wird das Gebot auf den Fremden ausgeweitet.
+
+---
+
+### Dinge nicht vermischen (Vers 19)
+
+<sup>19</sup>Ihr sollt meine Ordnungen halten.
+Du sollst nicht zwei verschiedene Arten von Tieren miteinander kreuzen.
+Du sollst dein Feld nicht mit zwei verschiedenen Arten von Samen besäen.
+Und du sollst kein Kleid tragen, das aus zwei verschiedenen Stoffen gemacht ist.
+
+> **Was bedeutet das?**
+> Warum diese Regeln? Die Bibel erklärt es nicht. Vielleicht soll es an die Schöpfung erinnern, wo Gott alles „nach seiner Art“ geschaffen hat (1. Mose 1). Die Ordnung der Schöpfung soll geachtet werden.
+> Später wird erklärt, dass mit den zwei Stoffen Wolle und Leinen gemeint sind (5. Mose 22,11). Bis heute achten manche Juden darauf.
+
+---
+
+### Ein Fall mit einer Sklavin (Vers 20–22)
+
+<sup>20</sup>Wenn ein Mann mit einer Frau schläft, die eine Sklavin ist
+und einem anderen Mann zur Ehe versprochen ist,
+die aber noch nicht freigekauft und nicht freigelassen ist,
+dann sollen sie bestraft werden.
+Sie sollen aber nicht getötet werden, weil sie nicht frei war.
+<sup>21</sup>Er soll dem HERRN sein Schuldopfer an den Eingang des Zeltes der Begegnung bringen, einen Schafbock als Schuldopfer.
+<sup>22</sup>Der Priester soll mit dem Schafbock des Schuldopfers vor dem HERRN für ihn Versöhnung schaffen
+wegen der Sünde, die er begangen hat.
+Dann wird ihm die Sünde vergeben, die er begangen hat.
+
+> **Was bedeutet das?**
+> Das ist ein schwieriger Fall aus einer Zeit, in der es Sklaverei gab. Wenn eine freie, verlobte Frau mit einem anderen Mann schlief, galt das als Ehebruch, und darauf stand die Todesstrafe (5. Mose 22,23–24). Bei einer Sklavin war die Lage anders, weil sie nicht frei über sich bestimmen konnte.
+> Für uns heute ist es schwer zu ertragen, dass Menschen Sklaven waren. Die Bibel beschreibt hier die Welt, wie sie damals war. Sie versucht, in dieser Welt Regeln für Gerechtigkeit zu geben. Die Sklaverei selbst ist kein Ideal der Bibel. Israel sollte immer daran denken, dass es selbst Sklave in Ägypten war.
+
+---
+
+### Die Früchte der jungen Bäume (Vers 23–25)
+
+<sup>23</sup>Wenn ihr in das Land kommt und allerlei Obstbäume pflanzt,
+dann sollt ihr ihre Früchte als verboten ansehen.
+Drei Jahre lang sollen sie für euch verboten sein. Man darf sie nicht essen.
+<sup>24</sup>Aber im vierten Jahr sollen alle ihre Früchte heilig sein, zum Lob für den HERRN.
+<sup>25</sup>Im fünften Jahr dürft ihr ihre Früchte essen.
+So werden sie euch immer mehr Ertrag bringen.
+Ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Junge Bäume tragen in den ersten Jahren nur wenige und kleine Früchte. Wenn man sie nicht pflückt, werden die Bäume kräftiger. Das ist auch eine gute Regel für den Obstbau.
+> Die ersten guten Früchte im vierten Jahr gehören Gott, als Dank. Erst dann darf man selbst davon essen.
+
+---
+
+### Keine heidnischen Bräuche (Vers 26–31)
+
+<sup>26</sup>Ihr sollt kein Fleisch essen, in dem noch das Blut ist.
+Ihr sollt keine Zauberei treiben und keine Wahrsagerei.
+<sup>27</sup>Ihr sollt die Haare an den Seiten eures Kopfes nicht rund abschneiden.
+Und du sollst den Rand deines Bartes nicht stutzen.
+<sup>28</sup>Ihr sollt euch für einen Toten keine Schnitte in die Haut machen.
+Und ihr sollt euch keine Zeichen eintätowieren.
+Ich bin der HERR.
+<sup>29</sup>Entweihe deine Tochter nicht, indem du sie zur Prostituierten machst.
+Sonst verfällt das Land der Prostitution, und das Land wird voller Schandtaten.
+<sup>30</sup>Ihr sollt meine Sabbate halten und mein Heiligtum ehren.
+Ich bin der HERR.
+<sup>31</sup>Wendet euch nicht an Totenbeschwörer und Wahrsager.
+Sucht sie nicht auf, damit ihr nicht durch sie unrein werdet.
+Ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Hier geht es um Bräuche, die die Völker um Israel herum hatten. Bei Trauer schnitten sie sich in die Haut und schoren ihr Haar auf besondere Weise, um die Götter der Toten zu ehren. Israel soll das nicht tun.
+> Aus Vers 27 kommt der Brauch mancher frommer Juden, an den Schläfen lange Locken zu tragen, die „Pejes“.
+> Vers 28 nennt auch Tätowierungen. Damals waren sie oft Zeichen für fremde Götter oder für Sklaven. Ob dieses Verbot auch für heutige Tätowierungen gilt, darüber denken Juden und Christen unterschiedlich.
+> Vers 29 schützt Töchter. Väter in Not verkauften manchmal ihre Töchter in die Prostitution. Das wird hier streng verboten.
+> Zauberei, Wahrsagerei und Totenbeschwörung sind verboten. Wer Gott vertraut, braucht keine Wahrsager, um die Zukunft zu erfahren.
+
+---
+
+### Die Alten und die Fremden (Vers 32–34)
+
+<sup>32</sup>Vor einem grauen Haupt sollst du aufstehen, und du sollst alte Menschen ehren.
+Und du sollst deinen Gott fürchten.
+Ich bin der HERR.
+
+<sup>33</sup>Wenn ein Fremder als Ausländer bei euch in eurem Land lebt, dann sollt ihr ihm kein Unrecht tun.
+<sup>34</sup>Der Fremde, der als Ausländer bei euch lebt, soll für euch wie ein Einheimischer sein.
+Und du sollst ihn lieben wie dich selbst.
+Denn ihr seid selbst Fremde im Land Ägypten gewesen.
+Ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Alte Menschen soll man ehren. Ein „graues Haupt“ ist ein Mensch mit grauen Haaren. Wenn ein alter Mensch in den Raum kommt, steht man auf. Das ist ein Zeichen von Respekt.
+> Vers 34 ist ganz besonders: Das Gebot der Nächstenliebe gilt auch für den Fremden, den Ausländer. „Liebe ihn wie dich selbst.“
+> Der Grund: „Ihr seid selbst Fremde in Ägypten gewesen.“ Israel weiß, wie es sich anfühlt, als Fremder unterdrückt zu werden. Darum sollen sie Fremde gut behandeln. Dieses Gebot steht so oder ähnlich über 30-mal in der Tora.
+
+---
+
+### Ehrliche Maße und Gewichte (Vers 35–37)
+
+<sup>35</sup>Ihr sollt kein Unrecht tun im Gericht,
+beim Messen der Länge, beim Gewicht oder bei der Menge.
+<sup>36</sup>Ihr sollt eine richtige Waage haben, richtige Gewichtssteine,
+ein richtiges Maß für trockene Dinge und ein richtiges Maß für Flüssigkeiten.
+Ich bin der HERR, euer Gott, der euch aus dem Land Ägypten herausgeführt hat.
+<sup>37</sup>Ihr sollt alle meine Ordnungen und alle meine Rechtsbestimmungen halten und sie tun.
+Ich bin der HERR.‘“
+
+> **Was bedeutet das?**
+> In der Bibel stehen hier die Maße Efa (für Getreide) und Hin (für Flüssigkeiten).
+> Händler betrogen damals oft mit falschen Gewichten und Maßen. Wer zum Beispiel einen etwas leichteren Gewichtsstein benutzte, verkaufte weniger, als der Kunde bezahlte. Gott sagt: Das ist Unrecht. Ehrlichkeit im Geschäft gehört zur Heiligkeit.
+> Das Kapitel endet, wie es begonnen hat: mit Gott, der sein Volk befreit hat. Weil Gott Israel befreit hat, soll Israel gerecht und liebevoll leben.
