@@ -344,6 +344,587 @@
      "erklaerung": "Die Leviten ziehen nicht in den Krieg. Sie haben eine andere Aufgabe: Sie kümmern sich um das Heiligtum. Sie bauen es auf und ab und tragen es auf der Wanderung.\nSie lagern direkt rund um das Heiligtum, wie eine Schutzmauer. So kommt niemand dem Heiligen zu nahe, der nicht dazu berufen ist.\n„Ein Fremder“ meint hier: jemand, der nicht zum Stamm Levi gehört.\nDas Heiligtum steht in der Mitte des Lagers. Gott ist das Zentrum des Volkes."
     }
    ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Die Ordnung des Lagers",
+   "abschnitte": [
+    {
+     "ueberschrift": "Jeder bei seinem Banner",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose und zu Aaron:",
+       "englisch_web": "Yahweh spoke to Moses and to Aaron, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Die Israeliten sollen ihre Zelte aufschlagen, jeder bei seinem Banner,\nbei den Zeichen ihrer Familien.\nSie sollen rings um das Zelt der Begegnung lagern, mit etwas Abstand davon.",
+       "englisch_web": "“The children of Israel shall encamp every man by his own standard, with the banners of their fathers’ houses. They shall encamp around the Tent of Meeting at a distance from it."
+      }
+     ],
+     "erklaerung": "Jetzt wird festgelegt, wie das Lager aussehen soll. In der Mitte steht das Heiligtum. Rundherum lagern die Leviten. Und außen herum lagern die zwölf Stämme, je drei auf jeder Seite.\nSo entsteht ein großes Viereck mit Gott in der Mitte. Jeder Stamm hat seinen festen Platz.\nEin „Banner“ ist eine Fahne oder ein Feldzeichen. Daran konnte jeder erkennen, wo sein Stamm lagert."
+    },
+    {
+     "ueberschrift": "Im Osten: das Lager Juda",
+     "vers_von": 3,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Auf der Ostseite, nach Sonnenaufgang hin, soll das Banner des Lagers Juda lagern, nach ihren Heeresgruppen.\nDer Anführer der Nachkommen Judas soll Nachschon sein, der Sohn von Amminadab.",
+       "englisch_web": "“Those who encamp on the east side toward the sunrise shall be of the standard of the camp of Judah, according to their divisions. The prince of the children of Judah shall be Nahshon the son of Amminadab."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 74.600.",
+       "englisch_web": "His division, and those who were counted of them, were seventy-four thousand six hundred."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Neben ihm soll der Stamm Issachar lagern.\nDer Anführer der Nachkommen Issachars soll Netanel sein, der Sohn von Zuar.",
+       "englisch_web": "“Those who encamp next to him shall be the tribe of Issachar. The prince of the children of Issachar shall be Nethanel the son of Zuar."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 54.400.",
+       "englisch_web": "His division, and those who were counted of it, were fifty-four thousand four hundred."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Dann der Stamm Sebulon.\nDer Anführer der Nachkommen Sebulons soll Eliab sein, der Sohn von Helon.",
+       "englisch_web": "“The tribe of Zebulun: the prince of the children of Zebulun shall be Eliab the son of Helon."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 57.400.",
+       "englisch_web": "His division, and those who were counted of it, were fifty-seven thousand four hundred."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Alle Gezählten des Lagers Juda waren 186.400, nach ihren Heeresgruppen.\nSie sollen als Erste aufbrechen.",
+       "englisch_web": "“All who were counted of the camp of Judah were one hundred eighty-six thousand four hundred, according to their divisions. They shall set out first."
+      }
+     ],
+     "erklaerung": "Der Osten ist die wichtigste Seite. Dort ist auch der Eingang des Heiligtums. Juda, der größte Stamm, lagert hier und zieht bei der Wanderung als Erster voran.\nJuda wird später der Stamm der Könige. Der Segen Jakobs hat das schon angekündigt (1. Mose 49,10)."
+    },
+    {
+     "ueberschrift": "Im Süden: das Lager Ruben",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Auf der Südseite soll das Banner des Lagers Ruben sein, nach ihren Heeresgruppen.\nDer Anführer der Nachkommen Rubens soll Elizur sein, der Sohn von Schedeur.",
+       "englisch_web": "“On the south side shall be the standard of the camp of Reuben according to their divisions. The prince of the children of Reuben shall be Elizur the son of Shedeur."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 46.500.",
+       "englisch_web": "His division, and those who were counted of it, were forty-six thousand five hundred."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Neben ihm soll der Stamm Simeon lagern.\nDer Anführer der Nachkommen Simeons soll Schelumiël sein, der Sohn von Zurischaddai.",
+       "englisch_web": "“Those who encamp next to him shall be the tribe of Simeon. The prince of the children of Simeon shall be Shelumiel the son of Zurishaddai."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 59.300.",
+       "englisch_web": "His division, and those who were counted of them, were fifty-nine thousand three hundred."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Dann der Stamm Gad.\nDer Anführer der Nachkommen Gads soll Eljasaf sein, der Sohn von Reuël.",
+       "englisch_web": "“The tribe of Gad: the prince of the children of Gad shall be Eliasaph the son of Reuel."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 45.650.",
+       "englisch_web": "His division, and those who were counted of them, were forty-five thousand six hundred fifty."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Alle Gezählten des Lagers Ruben waren 151.450, nach ihren Heeren.\nSie sollen als Zweite aufbrechen.",
+       "englisch_web": "“All who were counted of the camp of Reuben were one hundred fifty-one thousand four hundred fifty, according to their armies. They shall set out second."
+      }
+     ],
+     "erklaerung": "In Kapitel 1,14 heißt der Vater von Eljasaf „Deuël“, hier „Reuël“. Im Hebräischen sehen die Buchstaben D und R sehr ähnlich aus. Wahrscheinlich ist es derselbe Mann, und beim Abschreiben wurde ein Buchstabe verwechselt."
+    },
+    {
+     "ueberschrift": "In der Mitte: das Heiligtum und die Leviten",
+     "vers_von": 17,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Dann soll das Zelt der Begegnung aufbrechen, mit dem Lager der Leviten, in der Mitte der Lager.\nWie sie lagern, so sollen sie auch aufbrechen, jeder an seinem Platz, bei seinem Banner.",
+       "englisch_web": "“Then the Tent of Meeting shall set out, with the camp of the Levites in the middle of the camps. As they encamp, so shall they set out, every man in his place, by their standards."
+      }
+     ],
+     "erklaerung": "Auch auf der Wanderung ist das Heiligtum in der Mitte. Vorne ziehen zwei Lager, hinten zwei Lager. Gott ist immer im Zentrum seines Volkes, beim Lagern und beim Wandern."
+    },
+    {
+     "ueberschrift": "Im Westen: das Lager Efraim",
+     "vers_von": 18,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Auf der Westseite soll das Banner des Lagers Efraim sein, nach ihren Heeresgruppen.\nDer Anführer der Nachkommen Efraims soll Elischama sein, der Sohn von Ammihud.",
+       "englisch_web": "“On the west side shall be the standard of the camp of Ephraim according to their divisions. The prince of the children of Ephraim shall be Elishama the son of Ammihud."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 40.500.",
+       "englisch_web": "His division, and those who were counted of them, were forty thousand five hundred."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Neben ihm soll der Stamm Manasse sein.\nDer Anführer der Nachkommen Manasses soll Gamliël sein, der Sohn von Pedazur.",
+       "englisch_web": "“Next to him shall be the tribe of Manasseh. The prince of the children of Manasseh shall be Gamaliel the son of Pedahzur."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 32.200.",
+       "englisch_web": "His division, and those who were counted of them, were thirty-two thousand two hundred."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Dann der Stamm Benjamin.\nDer Anführer der Nachkommen Benjamins soll Abidan sein, der Sohn von Gidoni.",
+       "englisch_web": "“The tribe of Benjamin: the prince of the children of Benjamin shall be Abidan the son of Gideoni."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sein Heer, die Gezählten, waren 35.400.",
+       "englisch_web": "His army, and those who were counted of them, were thirty-five thousand four hundred."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Alle Gezählten des Lagers Efraim waren 108.100, nach ihren Heeresgruppen.\nSie sollen als Dritte aufbrechen.",
+       "englisch_web": "“All who were counted of the camp of Ephraim were one hundred eight thousand one hundred, according to their divisions. They shall set out third."
+      }
+     ],
+     "erklaerung": "Im Westen lagern die Nachkommen Rahels: Efraim und Manasse (die Söhne Josefs) und Benjamin. Rahel war die Frau, die Jakob am meisten liebte."
+    },
+    {
+     "ueberschrift": "Im Norden: das Lager Dan",
+     "vers_von": 25,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Auf der Nordseite soll das Banner des Lagers Dan sein, nach ihren Heeresgruppen.\nDer Anführer der Nachkommen Dans soll Ahiëser sein, der Sohn von Ammischaddai.",
+       "englisch_web": "“On the north side shall be the standard of the camp of Dan according to their divisions. The prince of the children of Dan shall be Ahiezer the son of Ammishaddai."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 62.700.",
+       "englisch_web": "His division, and those who were counted of them, were sixty-two thousand seven hundred."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Neben ihm soll der Stamm Ascher lagern.\nDer Anführer der Nachkommen Aschers soll Pagiël sein, der Sohn von Ochran.",
+       "englisch_web": "“Those who encamp next to him shall be the tribe of Asher. The prince of the children of Asher shall be Pagiel the son of Ochran."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 41.500.",
+       "englisch_web": "His division, and those who were counted of them, were forty-one thousand five hundred."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Dann der Stamm Naftali.\nDer Anführer der Nachkommen Naftalis soll Ahira sein, der Sohn von Enan.",
+       "englisch_web": "“The tribe of Naphtali: the prince of the children of Naphtali shall be Ahira the son of Enan."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Seine Heeresgruppe, die Gezählten, waren 53.400.",
+       "englisch_web": "His division, and those who were counted of them, were fifty-three thousand four hundred."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Alle Gezählten des Lagers Dan waren 157.600.\nSie sollen als Letzte aufbrechen, bei ihren Bannern.“",
+       "englisch_web": "“All who were counted of the camp of Dan were one hundred fifty-seven thousand six hundred. They shall set out last by their standards.”"
+      }
+     ],
+     "erklaerung": "Das Lager Dan bildet die Nachhut. Es zieht am Ende des Zuges und schützt das Volk von hinten."
+    },
+    {
+     "ueberschrift": "Zusammenfassung",
+     "vers_von": 32,
+     "vers_bis": 34,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 32,
+       "leichte_sprache": "Das waren die Gezählten der Israeliten nach ihren Familien.\nAlle Gezählten der Lager, nach ihren Heeren, waren 603.550.",
+       "englisch_web": "These are those who were counted of the children of Israel by their fathers’ houses. All who were counted of the camps according to their armies were six hundred three thousand five hundred fifty."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Aber die Leviten wurden nicht mit den Israeliten gezählt,\nwie der HERR es Mose befohlen hatte.",
+       "englisch_web": "But the Levites were not counted among the children of Israel, as Yahweh commanded Moses."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Die Israeliten taten es so.\nGenau so, wie der HERR es Mose befohlen hatte, so lagerten sie bei ihren Bannern,\nund so brachen sie auf, jeder mit seiner Sippe, nach seiner Familie.",
+       "englisch_web": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses."
+      }
+     ],
+     "erklaerung": "Die vier Lager zusammen: 186.400 + 151.450 + 108.100 + 157.600 = 603.550. Die Zahl stimmt genau mit Kapitel 1 überein.\nAus einem Haufen von Flüchtlingen ist ein geordnetes Volk geworden. Ordnung hilft, dass alle gut zusammenleben können."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Die Leviten und ihre Aufgaben",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Söhne Aarons",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das ist die Geschichte der Nachkommen von Aaron und Mose,\nzu der Zeit, als der HERR mit Mose auf dem Berg Sinai redete.",
+       "englisch_web": "Now this is the history of the generations of Aaron and Moses in the day that Yahweh spoke with Moses in Mount Sinai."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Das sind die Namen der Söhne Aarons:\nNadab, der Erstgeborene, und Abihu, Eleasar und Itamar.",
+       "englisch_web": "These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Das sind die Namen der Söhne Aarons, der gesalbten Priester,\ndie er in ihr Amt eingesetzt hatte, damit sie als Priester dienen.",
+       "englisch_web": "These are the names of the sons of Aaron, the priests who were anointed, whom he consecrated to minister in the priest’s office."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Nadab und Abihu starben vor dem HERRN,\nals sie in der Wüste Sinai fremdes Feuer vor den HERRN brachten.\nSie hatten keine Kinder.\nEleasar und Itamar dienten als Priester an der Seite ihres Vaters Aaron.",
+       "englisch_web": "Nadab and Abihu died before Yahweh when they offered strange fire before Yahweh in the wilderness of Sinai, and they had no children. Eleazar and Ithamar ministered in the priest’s office in the presence of Aaron their father."
+      }
+     ],
+     "erklaerung": "Hier wird an den Tod von Nadab und Abihu erinnert (3. Mose 10). Sie hatten keine Kinder. Darum gehen alle späteren Priester auf Eleasar und Itamar zurück."
+    },
+    {
+     "ueberschrift": "Die Leviten dienen den Priestern",
+     "vers_von": 5,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "„Lass den Stamm Levi herkommen und stell ihn vor Aaron, den Priester.\nSie sollen ihm dienen.",
+       "englisch_web": "“Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie sollen ihre Aufgaben für ihn und für die ganze Gemeinde vor dem Zelt der Begegnung erfüllen\nund den Dienst an der Wohnung tun.",
+       "englisch_web": "They shall keep his requirements, and the requirements of the whole congregation before the Tent of Meeting, to do the service of the tabernacle."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie sollen sich um alle Geräte des Zeltes der Begegnung kümmern\nund die Aufgaben für die Israeliten erfüllen\nund den Dienst an der Wohnung tun.",
+       "englisch_web": "They shall keep all the furnishings of the Tent of Meeting, and the obligations of the children of Israel, to do the service of the tabernacle."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du sollst die Leviten Aaron und seinen Söhnen geben.\nSie sind ihm ganz übergeben, von den Israeliten.",
+       "englisch_web": "You shall give the Levites to Aaron and to his sons. They are wholly given to him on the behalf of the children of Israel."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Aaron und seine Söhne sollst du einsetzen, damit sie ihr Priesteramt ausüben.\nAber ein Fremder, der sich nähert, soll getötet werden.“",
+       "englisch_web": "You shall appoint Aaron and his sons, and they shall keep their priesthood, but the stranger who comes near shall be put to death.”"
+      }
+     ],
+     "erklaerung": "Es gibt zwei Gruppen im Stamm Levi: Die Priester sind nur Aaron und seine Nachkommen. Sie bringen die Opfer am Altar dar. Die übrigen Leviten helfen ihnen. Sie tragen, bauen auf, bauen ab und bewachen das Heiligtum.\n„Ein Fremder“ meint hier: jemand, der kein Priester ist und trotzdem Priesterdienst tun will."
+    },
+    {
+     "ueberschrift": "Die Leviten statt der Erstgeborenen",
+     "vers_von": 11,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Schau: Ich habe die Leviten aus der Mitte der Israeliten genommen,\nanstelle aller Erstgeborenen der Israeliten, die als Erste aus dem Mutterleib kommen.\nDie Leviten sollen mir gehören.",
+       "englisch_web": "“Behold, I have taken the Levites from among the children of Israel instead of all the firstborn who open the womb among the children of Israel; and the Levites shall be mine,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn alle Erstgeborenen gehören mir.\nAn dem Tag, an dem ich alle Erstgeborenen im Land Ägypten schlug,\nhabe ich mir alle Erstgeborenen in Israel geheiligt, von Menschen und von Tieren.\nSie sollen mir gehören. Ich bin der HERR.“",
+       "englisch_web": "for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both man and animal. They shall be mine. I am Yahweh.”"
+      }
+     ],
+     "erklaerung": "Als Gott Israel aus Ägypten befreite, verschonte er die Erstgeborenen Israels (2. Mose 12). Seitdem gehören sie Gott.\nJetzt nimmt Gott die Leviten an ihrer Stelle. Statt dass jede Familie ihren ältesten Sohn für den Dienst an Gott abgibt, dient ein ganzer Stamm für alle."
+    },
+    {
+     "ueberschrift": "Die Zählung der Leviten",
+     "vers_von": 14,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Der HERR sprach zu Mose in der Wüste Sinai:",
+       "englisch_web": "Yahweh spoke to Moses in the wilderness of Sinai, saying,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "„Zähl die Nachkommen Levis nach ihren Familien und nach ihren Sippen.\nAlle Männer von einem Monat an und älter sollst du zählen.“",
+       "englisch_web": "“Count the children of Levi by their fathers’ houses, by their families. You shall count every male from a month old and upward.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Mose zählte sie nach dem Wort des HERRN, wie es ihm befohlen worden war.",
+       "englisch_web": "Moses counted them according to Yahweh’s word, as he was commanded."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Das waren die Söhne Levis mit ihren Namen: Gerschon, Kehat und Merari.",
+       "englisch_web": "These were the sons of Levi by their names: Gershon, Kohath, and Merari."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Das sind die Namen der Söhne Gerschons nach ihren Sippen: Libni und Schimi.",
+       "englisch_web": "These are the names of the sons of Gershon by their families: Libni and Shimei."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Söhne Kehats nach ihren Sippen: Amram, Jizhar, Hebron und Usiël.",
+       "englisch_web": "The sons of Kohath by their families: Amram, Izhar, Hebron, and Uzziel."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Die Söhne Meraris nach ihren Sippen: Machli und Muschi.\nDas sind die Sippen der Leviten nach ihren Familien.",
+       "englisch_web": "The sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their fathers’ houses."
+      }
+     ],
+     "erklaerung": "Die Leviten werden anders gezählt als die anderen Stämme: nicht ab 20 Jahren, sondern schon ab einem Monat. Denn hier geht es nicht um Soldaten, sondern um einen Ersatz für alle Erstgeborenen.\nMose und Aaron stammen von Amram ab, dem Sohn Kehats (2. Mose 6,20)."
+    },
+    {
+     "ueberschrift": "Die Gerschoniter",
+     "vers_von": 21,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Von Gerschon stammten die Sippe der Libniter und die Sippe der Schimiter.\nDas sind die Sippen der Gerschoniter.",
+       "englisch_web": "Of Gershon was the family of the Libnites, and the family of the Shimeites. These are the families of the Gershonites."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Ihre Gezählten, nach der Zahl aller Männer von einem Monat an und älter, waren 7500.",
+       "englisch_web": "Those who were counted of them, according to the number of all the males from a month old and upward, even those who were counted of them were seven thousand five hundred."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Sippen der Gerschoniter sollen hinter der Wohnung lagern, auf der Westseite.",
+       "englisch_web": "The families of the Gershonites shall encamp behind the tabernacle westward."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Der Anführer der Familie der Gerschoniter soll Eljasaf sein, der Sohn von Laël.",
+       "englisch_web": "Eliasaph the son of Lael shall be the prince of the fathers’ house of the Gershonites."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Aufgabe der Söhne Gerschons am Zelt der Begegnung soll sein:\ndie Wohnung, das Zelt, seine Decke,\nder Vorhang für den Eingang des Zeltes der Begegnung,",
+       "englisch_web": "The duty of the sons of Gershon in the Tent of Meeting shall be the tabernacle, the tent, its covering, the screen for the door of the Tent of Meeting,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "die Behänge des Vorhofs,\nder Vorhang für das Tor des Vorhofs, der rings um die Wohnung und den Altar ist,\nund seine Seile, für den ganzen Dienst daran.",
+       "englisch_web": "the hangings of the court, the screen for the door of the court which is by the tabernacle and around the altar, and its cords for all of its service."
+      }
+     ],
+     "erklaerung": "Die Gerschoniter sind für alles verantwortlich, was aus Stoff und Fell ist: die Decken, die Vorhänge und die Behänge."
+    },
+    {
+     "ueberschrift": "Die Kehatiter",
+     "vers_von": 27,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Von Kehat stammten die Sippe der Amramiter, die Sippe der Jizhariter,\ndie Sippe der Hebroniter und die Sippe der Usiëliter.\nDas sind die Sippen der Kehatiter.",
+       "englisch_web": "Of Kohath was the family of the Amramites, the family of the Izharites, the family of the Hebronites, and the family of the Uzzielites. These are the families of the Kohathites."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Nach der Zahl aller Männer von einem Monat an und älter waren es 8600,\ndie die Aufgaben am Heiligtum erfüllten.",
+       "englisch_web": "According to the number of all the males from a month old and upward, there were eight thousand six hundred keeping the requirements of the sanctuary."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Die Sippen der Söhne Kehats sollen auf der Südseite der Wohnung lagern.",
+       "englisch_web": "The families of the sons of Kohath shall encamp on the south side of the tabernacle."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Der Anführer der Familie der Sippen der Kehatiter soll Elizafan sein, der Sohn von Usiël.",
+       "englisch_web": "The prince of the fathers’ house of the families of the Kohathites shall be Elizaphan the son of Uzziel."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Ihre Aufgabe sollen sein:\ndie Lade, der Tisch, der Leuchter, die Altäre,\ndie Geräte des Heiligtums, mit denen man den Dienst tut,\nder Vorhang und der ganze Dienst daran.",
+       "englisch_web": "Their duty shall be the ark, the table, the lamp stand, the altars, the vessels of the sanctuary with which they minister, the screen, and all its service."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Eleasar, der Sohn von Aaron, dem Priester, soll der oberste Anführer der Leviten sein.\nEr soll die Aufsicht über die haben, die die Aufgaben am Heiligtum erfüllen.",
+       "englisch_web": "Eleazar the son of Aaron the priest shall be prince of the princes of the Levites, with the oversight of those who keep the requirements of the sanctuary."
+      }
+     ],
+     "erklaerung": "Die Kehatiter haben die heiligste Aufgabe: Sie tragen die Bundeslade und die anderen heiligen Gegenstände. Mehr dazu steht in Kapitel 4."
+    },
+    {
+     "ueberschrift": "Die Merariter",
+     "vers_von": 33,
+     "vers_bis": 37,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 33,
+       "leichte_sprache": "Von Merari stammten die Sippe der Machliter und die Sippe der Muschiter.\nDas sind die Sippen Meraris.",
+       "englisch_web": "Of Merari was the family of the Mahlites and the family of the Mushites. These are the families of Merari."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Ihre Gezählten, nach der Zahl aller Männer von einem Monat an und älter, waren 6200.",
+       "englisch_web": "Those who were counted of them, according to the number of all the males from a month old and upward, were six thousand two hundred."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Der Anführer der Familie der Sippen Meraris war Zuriël, der Sohn von Abihajil.\nSie sollen auf der Nordseite der Wohnung lagern.",
+       "englisch_web": "The prince of the fathers’ house of the families of Merari was Zuriel the son of Abihail. They shall encamp on the north side of the tabernacle."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Die Aufgabe der Söhne Meraris soll sein:\ndie Bretter der Wohnung, ihre Querstangen, ihre Säulen, ihre Sockel, alle ihre Geräte und der ganze Dienst daran,",
+       "englisch_web": "The appointed duty of the sons of Merari shall be the tabernacle’s boards, its bars, its pillars, its sockets, all its instruments, all its service,"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "die Säulen des Vorhofs ringsherum, ihre Sockel, ihre Zeltpflöcke und ihre Seile.",
+       "englisch_web": "the pillars of the court around it, their sockets, their pins, and their cords."
+      }
+     ],
+     "erklaerung": "Die Merariter tragen die schweren Teile: Bretter, Stangen, Säulen und Sockel. Das ist das „Gerüst“ des Heiligtums.\nJede Gruppe hat ihre eigene Aufgabe. Keine ist unwichtig. Ohne die Bretter gibt es kein Zelt, ohne die Decken keinen Schutz, ohne die Lade kein Heiligtum."
+    },
+    {
+     "ueberschrift": "Mose und Aaron im Osten",
+     "vers_von": 38,
+     "vers_bis": 39,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 38,
+       "leichte_sprache": "Vor der Wohnung, im Osten, vor dem Zelt der Begegnung nach Sonnenaufgang hin,\nsollen Mose, Aaron und seine Söhne lagern.\nSie sollen die Aufgaben am Heiligtum erfüllen, als Dienst für die Israeliten.\nEin Fremder, der sich nähert, soll getötet werden.",
+       "englisch_web": "Those who encamp before the tabernacle eastward, in front of the Tent of Meeting toward the sunrise, shall be Moses, with Aaron and his sons, keeping the requirements of the sanctuary for the duty of the children of Israel. The outsider who comes near shall be put to death."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Alle Gezählten der Leviten, die Mose und Aaron auf Befehl des HERRN zählten,\nnach ihren Sippen, alle Männer von einem Monat an und älter, waren 22.000.",
+       "englisch_web": "All who were counted of the Levites, whom Moses and Aaron counted at the commandment of Yahweh, by their families, all the males from a month old and upward, were twenty-two thousand."
+      }
+     ],
+     "erklaerung": "Mose und die Priester lagern im Osten, direkt am Eingang des Heiligtums. Sie bewachen den wichtigsten Zugang.\nWenn man die Zahlen addiert (7500 + 8600 + 6200), kommt man auf 22.300, nicht 22.000. Wahrscheinlich ist beim Abschreiben ein Fehler passiert. Manche Forscher vermuten, dass bei den Kehatitern ursprünglich 8300 statt 8600 stand. Dann würde die Summe genau stimmen. Die englische Vorlage folgt dem hebräischen Text mit 8600."
+    },
+    {
+     "ueberschrift": "Der Austausch der Erstgeborenen",
+     "vers_von": 40,
+     "vers_bis": 51,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 40,
+       "leichte_sprache": "Der HERR sagte zu Mose:\n„Zähl alle männlichen Erstgeborenen der Israeliten, von einem Monat an und älter,\nund stell die Zahl ihrer Namen fest.",
+       "englisch_web": "Yahweh said to Moses, “Count all the firstborn males of the children of Israel from a month old and upward, and take the number of their names."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Du sollst die Leviten für mich nehmen – ich bin der HERR –\nanstelle aller Erstgeborenen der Israeliten.\nUnd das Vieh der Leviten anstelle aller Erstgeborenen beim Vieh der Israeliten.“",
+       "englisch_web": "You shall take the Levites for me—I am Yahweh—instead of all the firstborn among the children of Israel; and the livestock of the Levites instead of all the firstborn among the livestock of the children of Israel.”"
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Mose zählte alle Erstgeborenen der Israeliten, wie der HERR es ihm befohlen hatte.",
+       "englisch_web": "Moses counted, as Yahweh commanded him, all the firstborn among the children of Israel."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Alle männlichen Erstgeborenen, nach der Zahl der Namen, von einem Monat an und älter,\nwaren 22.273.",
+       "englisch_web": "All the firstborn males according to the number of names from a month old and upward, of those who were counted of them, were twenty-two thousand two hundred seventy-three."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "„Nimm die Leviten anstelle aller Erstgeborenen der Israeliten\nund das Vieh der Leviten anstelle ihres Viehs.\nDie Leviten sollen mir gehören. Ich bin der HERR.",
+       "englisch_web": "“Take the Levites instead of all the firstborn among the children of Israel, and the livestock of the Levites instead of their livestock; and the Levites shall be mine. I am Yahweh."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Für die Auslösung der 273 Erstgeborenen der Israeliten, die mehr sind als die Zahl der Leviten,",
+       "englisch_web": "For the redemption of the two hundred seventy-three of the firstborn of the children of Israel who exceed the number of the Levites,"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "sollst du für jeden fünf Schekel nehmen.\nNach dem Gewicht des Heiligtums sollst du sie nehmen. Ein Schekel sind 20 Gera.",
+       "englisch_web": "you shall take five shekels apiece for each one; according to the shekel of the sanctuary you shall take them (the shekel is twenty gerahs);"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Und das Geld, mit dem die übrigen ausgelöst werden, sollst du Aaron und seinen Söhnen geben.“",
+       "englisch_web": "and you shall give the money, with which their remainder is redeemed, to Aaron and to his sons.”"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Mose nahm das Lösegeld von denen, die mehr waren als die, die durch die Leviten ausgelöst wurden.",
+       "englisch_web": "Moses took the redemption money from those who exceeded the number of those who were redeemed by the Levites;"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Von den Erstgeborenen der Israeliten nahm er das Geld: 1365 Schekel, nach dem Gewicht des Heiligtums.",
+       "englisch_web": "from the firstborn of the children of Israel he took the money, one thousand three hundred sixty-five shekels, according to the shekel of the sanctuary;"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Und Mose gab das Lösegeld Aaron und seinen Söhnen,\nnach dem Wort des HERRN, wie der HERR es Mose befohlen hatte.",
+       "englisch_web": "and Moses gave the redemption money to Aaron and to his sons, according to Yahweh’s word, as Yahweh commanded Moses."
+      }
+     ],
+     "erklaerung": "Es gibt 22.273 Erstgeborene, aber nur 22.000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).\nFünf Schekel ist genau der Betrag, mit dem bis heute im Judentum ein erstgeborener Sohn „ausgelöst“ wird. Das Fest heißt „Pidjon ha-Ben“, die Auslösung des Sohnes. Es findet einen Monat nach der Geburt statt.\nSo ist jeder Erstgeborene vor Gott vertreten. Keiner wird vergessen."
+    }
+   ]
   }
  ]
 }

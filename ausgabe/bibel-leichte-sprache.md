@@ -17519,3 +17519,304 @@ Sie taten alles, was der HERR Mose befohlen hatte.
 > Sie lagern direkt rund um das Heiligtum, wie eine Schutzmauer. So kommt niemand dem Heiligen zu nahe, der nicht dazu berufen ist.
 > „Ein Fremder“ meint hier: jemand, der nicht zum Stamm Levi gehört.
 > Das Heiligtum steht in der Mitte des Lagers. Gott ist das Zentrum des Volkes.
+
+## 4. Mose – Kapitel 2
+#### Die Ordnung des Lagers
+
+---
+
+### Jeder bei seinem Banner (Vers 1–2)
+
+<sup>1</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>2</sup>„Die Israeliten sollen ihre Zelte aufschlagen, jeder bei seinem Banner,
+bei den Zeichen ihrer Familien.
+Sie sollen rings um das Zelt der Begegnung lagern, mit etwas Abstand davon.
+
+> **Was bedeutet das?**
+> Jetzt wird festgelegt, wie das Lager aussehen soll. In der Mitte steht das Heiligtum. Rundherum lagern die Leviten. Und außen herum lagern die zwölf Stämme, je drei auf jeder Seite.
+> So entsteht ein großes Viereck mit Gott in der Mitte. Jeder Stamm hat seinen festen Platz.
+> Ein „Banner“ ist eine Fahne oder ein Feldzeichen. Daran konnte jeder erkennen, wo sein Stamm lagert.
+
+---
+
+### Im Osten: das Lager Juda (Vers 3–9)
+
+<sup>3</sup>Auf der Ostseite, nach Sonnenaufgang hin, soll das Banner des Lagers Juda lagern, nach ihren Heeresgruppen.
+Der Anführer der Nachkommen Judas soll Nachschon sein, der Sohn von Amminadab.
+<sup>4</sup>Seine Heeresgruppe, die Gezählten, waren 74.600.
+<sup>5</sup>Neben ihm soll der Stamm Issachar lagern.
+Der Anführer der Nachkommen Issachars soll Netanel sein, der Sohn von Zuar.
+<sup>6</sup>Seine Heeresgruppe, die Gezählten, waren 54.400.
+<sup>7</sup>Dann der Stamm Sebulon.
+Der Anführer der Nachkommen Sebulons soll Eliab sein, der Sohn von Helon.
+<sup>8</sup>Seine Heeresgruppe, die Gezählten, waren 57.400.
+<sup>9</sup>Alle Gezählten des Lagers Juda waren 186.400, nach ihren Heeresgruppen.
+Sie sollen als Erste aufbrechen.
+
+> **Was bedeutet das?**
+> Der Osten ist die wichtigste Seite. Dort ist auch der Eingang des Heiligtums. Juda, der größte Stamm, lagert hier und zieht bei der Wanderung als Erster voran.
+> Juda wird später der Stamm der Könige. Der Segen Jakobs hat das schon angekündigt (1. Mose 49,10).
+
+---
+
+### Im Süden: das Lager Ruben (Vers 10–16)
+
+<sup>10</sup>Auf der Südseite soll das Banner des Lagers Ruben sein, nach ihren Heeresgruppen.
+Der Anführer der Nachkommen Rubens soll Elizur sein, der Sohn von Schedeur.
+<sup>11</sup>Seine Heeresgruppe, die Gezählten, waren 46.500.
+<sup>12</sup>Neben ihm soll der Stamm Simeon lagern.
+Der Anführer der Nachkommen Simeons soll Schelumiël sein, der Sohn von Zurischaddai.
+<sup>13</sup>Seine Heeresgruppe, die Gezählten, waren 59.300.
+<sup>14</sup>Dann der Stamm Gad.
+Der Anführer der Nachkommen Gads soll Eljasaf sein, der Sohn von Reuël.
+<sup>15</sup>Seine Heeresgruppe, die Gezählten, waren 45.650.
+<sup>16</sup>Alle Gezählten des Lagers Ruben waren 151.450, nach ihren Heeren.
+Sie sollen als Zweite aufbrechen.
+
+> **Was bedeutet das?**
+> In Kapitel 1,14 heißt der Vater von Eljasaf „Deuël“, hier „Reuël“. Im Hebräischen sehen die Buchstaben D und R sehr ähnlich aus. Wahrscheinlich ist es derselbe Mann, und beim Abschreiben wurde ein Buchstabe verwechselt.
+
+---
+
+### In der Mitte: das Heiligtum und die Leviten (Vers 17)
+
+<sup>17</sup>Dann soll das Zelt der Begegnung aufbrechen, mit dem Lager der Leviten, in der Mitte der Lager.
+Wie sie lagern, so sollen sie auch aufbrechen, jeder an seinem Platz, bei seinem Banner.
+
+> **Was bedeutet das?**
+> Auch auf der Wanderung ist das Heiligtum in der Mitte. Vorne ziehen zwei Lager, hinten zwei Lager. Gott ist immer im Zentrum seines Volkes, beim Lagern und beim Wandern.
+
+---
+
+### Im Westen: das Lager Efraim (Vers 18–24)
+
+<sup>18</sup>Auf der Westseite soll das Banner des Lagers Efraim sein, nach ihren Heeresgruppen.
+Der Anführer der Nachkommen Efraims soll Elischama sein, der Sohn von Ammihud.
+<sup>19</sup>Seine Heeresgruppe, die Gezählten, waren 40.500.
+<sup>20</sup>Neben ihm soll der Stamm Manasse sein.
+Der Anführer der Nachkommen Manasses soll Gamliël sein, der Sohn von Pedazur.
+<sup>21</sup>Seine Heeresgruppe, die Gezählten, waren 32.200.
+<sup>22</sup>Dann der Stamm Benjamin.
+Der Anführer der Nachkommen Benjamins soll Abidan sein, der Sohn von Gidoni.
+<sup>23</sup>Sein Heer, die Gezählten, waren 35.400.
+<sup>24</sup>Alle Gezählten des Lagers Efraim waren 108.100, nach ihren Heeresgruppen.
+Sie sollen als Dritte aufbrechen.
+
+> **Was bedeutet das?**
+> Im Westen lagern die Nachkommen Rahels: Efraim und Manasse (die Söhne Josefs) und Benjamin. Rahel war die Frau, die Jakob am meisten liebte.
+
+---
+
+### Im Norden: das Lager Dan (Vers 25–31)
+
+<sup>25</sup>Auf der Nordseite soll das Banner des Lagers Dan sein, nach ihren Heeresgruppen.
+Der Anführer der Nachkommen Dans soll Ahiëser sein, der Sohn von Ammischaddai.
+<sup>26</sup>Seine Heeresgruppe, die Gezählten, waren 62.700.
+<sup>27</sup>Neben ihm soll der Stamm Ascher lagern.
+Der Anführer der Nachkommen Aschers soll Pagiël sein, der Sohn von Ochran.
+<sup>28</sup>Seine Heeresgruppe, die Gezählten, waren 41.500.
+<sup>29</sup>Dann der Stamm Naftali.
+Der Anführer der Nachkommen Naftalis soll Ahira sein, der Sohn von Enan.
+<sup>30</sup>Seine Heeresgruppe, die Gezählten, waren 53.400.
+<sup>31</sup>Alle Gezählten des Lagers Dan waren 157.600.
+Sie sollen als Letzte aufbrechen, bei ihren Bannern.“
+
+> **Was bedeutet das?**
+> Das Lager Dan bildet die Nachhut. Es zieht am Ende des Zuges und schützt das Volk von hinten.
+
+---
+
+### Zusammenfassung (Vers 32–34)
+
+<sup>32</sup>Das waren die Gezählten der Israeliten nach ihren Familien.
+Alle Gezählten der Lager, nach ihren Heeren, waren 603.550.
+<sup>33</sup>Aber die Leviten wurden nicht mit den Israeliten gezählt,
+wie der HERR es Mose befohlen hatte.
+<sup>34</sup>Die Israeliten taten es so.
+Genau so, wie der HERR es Mose befohlen hatte, so lagerten sie bei ihren Bannern,
+und so brachen sie auf, jeder mit seiner Sippe, nach seiner Familie.
+
+> **Was bedeutet das?**
+> Die vier Lager zusammen: 186.400 + 151.450 + 108.100 + 157.600 = 603.550. Die Zahl stimmt genau mit Kapitel 1 überein.
+> Aus einem Haufen von Flüchtlingen ist ein geordnetes Volk geworden. Ordnung hilft, dass alle gut zusammenleben können.
+
+## 4. Mose – Kapitel 3
+#### Die Leviten und ihre Aufgaben
+
+---
+
+### Die Söhne Aarons (Vers 1–4)
+
+<sup>1</sup>Das ist die Geschichte der Nachkommen von Aaron und Mose,
+zu der Zeit, als der HERR mit Mose auf dem Berg Sinai redete.
+<sup>2</sup>Das sind die Namen der Söhne Aarons:
+Nadab, der Erstgeborene, und Abihu, Eleasar und Itamar.
+<sup>3</sup>Das sind die Namen der Söhne Aarons, der gesalbten Priester,
+die er in ihr Amt eingesetzt hatte, damit sie als Priester dienen.
+<sup>4</sup>Nadab und Abihu starben vor dem HERRN,
+als sie in der Wüste Sinai fremdes Feuer vor den HERRN brachten.
+Sie hatten keine Kinder.
+Eleasar und Itamar dienten als Priester an der Seite ihres Vaters Aaron.
+
+> **Was bedeutet das?**
+> Hier wird an den Tod von Nadab und Abihu erinnert (3. Mose 10). Sie hatten keine Kinder. Darum gehen alle späteren Priester auf Eleasar und Itamar zurück.
+
+---
+
+### Die Leviten dienen den Priestern (Vers 5–10)
+
+<sup>5</sup>Der HERR sprach zu Mose:
+<sup>6</sup>„Lass den Stamm Levi herkommen und stell ihn vor Aaron, den Priester.
+Sie sollen ihm dienen.
+<sup>7</sup>Sie sollen ihre Aufgaben für ihn und für die ganze Gemeinde vor dem Zelt der Begegnung erfüllen
+und den Dienst an der Wohnung tun.
+<sup>8</sup>Sie sollen sich um alle Geräte des Zeltes der Begegnung kümmern
+und die Aufgaben für die Israeliten erfüllen
+und den Dienst an der Wohnung tun.
+<sup>9</sup>Du sollst die Leviten Aaron und seinen Söhnen geben.
+Sie sind ihm ganz übergeben, von den Israeliten.
+<sup>10</sup>Aaron und seine Söhne sollst du einsetzen, damit sie ihr Priesteramt ausüben.
+Aber ein Fremder, der sich nähert, soll getötet werden.“
+
+> **Was bedeutet das?**
+> Es gibt zwei Gruppen im Stamm Levi: Die Priester sind nur Aaron und seine Nachkommen. Sie bringen die Opfer am Altar dar. Die übrigen Leviten helfen ihnen. Sie tragen, bauen auf, bauen ab und bewachen das Heiligtum.
+> „Ein Fremder“ meint hier: jemand, der kein Priester ist und trotzdem Priesterdienst tun will.
+
+---
+
+### Die Leviten statt der Erstgeborenen (Vers 11–13)
+
+<sup>11</sup>Der HERR sprach zu Mose:
+<sup>12</sup>„Schau: Ich habe die Leviten aus der Mitte der Israeliten genommen,
+anstelle aller Erstgeborenen der Israeliten, die als Erste aus dem Mutterleib kommen.
+Die Leviten sollen mir gehören.
+<sup>13</sup>Denn alle Erstgeborenen gehören mir.
+An dem Tag, an dem ich alle Erstgeborenen im Land Ägypten schlug,
+habe ich mir alle Erstgeborenen in Israel geheiligt, von Menschen und von Tieren.
+Sie sollen mir gehören. Ich bin der HERR.“
+
+> **Was bedeutet das?**
+> Als Gott Israel aus Ägypten befreite, verschonte er die Erstgeborenen Israels (2. Mose 12). Seitdem gehören sie Gott.
+> Jetzt nimmt Gott die Leviten an ihrer Stelle. Statt dass jede Familie ihren ältesten Sohn für den Dienst an Gott abgibt, dient ein ganzer Stamm für alle.
+
+---
+
+### Die Zählung der Leviten (Vers 14–20)
+
+<sup>14</sup>Der HERR sprach zu Mose in der Wüste Sinai:
+<sup>15</sup>„Zähl die Nachkommen Levis nach ihren Familien und nach ihren Sippen.
+Alle Männer von einem Monat an und älter sollst du zählen.“
+<sup>16</sup>Mose zählte sie nach dem Wort des HERRN, wie es ihm befohlen worden war.
+<sup>17</sup>Das waren die Söhne Levis mit ihren Namen: Gerschon, Kehat und Merari.
+<sup>18</sup>Das sind die Namen der Söhne Gerschons nach ihren Sippen: Libni und Schimi.
+<sup>19</sup>Die Söhne Kehats nach ihren Sippen: Amram, Jizhar, Hebron und Usiël.
+<sup>20</sup>Die Söhne Meraris nach ihren Sippen: Machli und Muschi.
+Das sind die Sippen der Leviten nach ihren Familien.
+
+> **Was bedeutet das?**
+> Die Leviten werden anders gezählt als die anderen Stämme: nicht ab 20 Jahren, sondern schon ab einem Monat. Denn hier geht es nicht um Soldaten, sondern um einen Ersatz für alle Erstgeborenen.
+> Mose und Aaron stammen von Amram ab, dem Sohn Kehats (2. Mose 6,20).
+
+---
+
+### Die Gerschoniter (Vers 21–26)
+
+<sup>21</sup>Von Gerschon stammten die Sippe der Libniter und die Sippe der Schimiter.
+Das sind die Sippen der Gerschoniter.
+<sup>22</sup>Ihre Gezählten, nach der Zahl aller Männer von einem Monat an und älter, waren 7500.
+<sup>23</sup>Die Sippen der Gerschoniter sollen hinter der Wohnung lagern, auf der Westseite.
+<sup>24</sup>Der Anführer der Familie der Gerschoniter soll Eljasaf sein, der Sohn von Laël.
+<sup>25</sup>Die Aufgabe der Söhne Gerschons am Zelt der Begegnung soll sein:
+die Wohnung, das Zelt, seine Decke,
+der Vorhang für den Eingang des Zeltes der Begegnung,
+<sup>26</sup>die Behänge des Vorhofs,
+der Vorhang für das Tor des Vorhofs, der rings um die Wohnung und den Altar ist,
+und seine Seile, für den ganzen Dienst daran.
+
+> **Was bedeutet das?**
+> Die Gerschoniter sind für alles verantwortlich, was aus Stoff und Fell ist: die Decken, die Vorhänge und die Behänge.
+
+---
+
+### Die Kehatiter (Vers 27–32)
+
+<sup>27</sup>Von Kehat stammten die Sippe der Amramiter, die Sippe der Jizhariter,
+die Sippe der Hebroniter und die Sippe der Usiëliter.
+Das sind die Sippen der Kehatiter.
+<sup>28</sup>Nach der Zahl aller Männer von einem Monat an und älter waren es 8600,
+die die Aufgaben am Heiligtum erfüllten.
+<sup>29</sup>Die Sippen der Söhne Kehats sollen auf der Südseite der Wohnung lagern.
+<sup>30</sup>Der Anführer der Familie der Sippen der Kehatiter soll Elizafan sein, der Sohn von Usiël.
+<sup>31</sup>Ihre Aufgabe sollen sein:
+die Lade, der Tisch, der Leuchter, die Altäre,
+die Geräte des Heiligtums, mit denen man den Dienst tut,
+der Vorhang und der ganze Dienst daran.
+<sup>32</sup>Eleasar, der Sohn von Aaron, dem Priester, soll der oberste Anführer der Leviten sein.
+Er soll die Aufsicht über die haben, die die Aufgaben am Heiligtum erfüllen.
+
+> **Was bedeutet das?**
+> Die Kehatiter haben die heiligste Aufgabe: Sie tragen die Bundeslade und die anderen heiligen Gegenstände. Mehr dazu steht in Kapitel 4.
+
+---
+
+### Die Merariter (Vers 33–37)
+
+<sup>33</sup>Von Merari stammten die Sippe der Machliter und die Sippe der Muschiter.
+Das sind die Sippen Meraris.
+<sup>34</sup>Ihre Gezählten, nach der Zahl aller Männer von einem Monat an und älter, waren 6200.
+<sup>35</sup>Der Anführer der Familie der Sippen Meraris war Zuriël, der Sohn von Abihajil.
+Sie sollen auf der Nordseite der Wohnung lagern.
+<sup>36</sup>Die Aufgabe der Söhne Meraris soll sein:
+die Bretter der Wohnung, ihre Querstangen, ihre Säulen, ihre Sockel, alle ihre Geräte und der ganze Dienst daran,
+<sup>37</sup>die Säulen des Vorhofs ringsherum, ihre Sockel, ihre Zeltpflöcke und ihre Seile.
+
+> **Was bedeutet das?**
+> Die Merariter tragen die schweren Teile: Bretter, Stangen, Säulen und Sockel. Das ist das „Gerüst“ des Heiligtums.
+> Jede Gruppe hat ihre eigene Aufgabe. Keine ist unwichtig. Ohne die Bretter gibt es kein Zelt, ohne die Decken keinen Schutz, ohne die Lade kein Heiligtum.
+
+---
+
+### Mose und Aaron im Osten (Vers 38–39)
+
+<sup>38</sup>Vor der Wohnung, im Osten, vor dem Zelt der Begegnung nach Sonnenaufgang hin,
+sollen Mose, Aaron und seine Söhne lagern.
+Sie sollen die Aufgaben am Heiligtum erfüllen, als Dienst für die Israeliten.
+Ein Fremder, der sich nähert, soll getötet werden.
+<sup>39</sup>Alle Gezählten der Leviten, die Mose und Aaron auf Befehl des HERRN zählten,
+nach ihren Sippen, alle Männer von einem Monat an und älter, waren 22.000.
+
+> **Was bedeutet das?**
+> Mose und die Priester lagern im Osten, direkt am Eingang des Heiligtums. Sie bewachen den wichtigsten Zugang.
+> Wenn man die Zahlen addiert (7500 + 8600 + 6200), kommt man auf 22.300, nicht 22.000. Wahrscheinlich ist beim Abschreiben ein Fehler passiert. Manche Forscher vermuten, dass bei den Kehatitern ursprünglich 8300 statt 8600 stand. Dann würde die Summe genau stimmen. Die englische Vorlage folgt dem hebräischen Text mit 8600.
+
+---
+
+### Der Austausch der Erstgeborenen (Vers 40–51)
+
+<sup>40</sup>Der HERR sagte zu Mose:
+„Zähl alle männlichen Erstgeborenen der Israeliten, von einem Monat an und älter,
+und stell die Zahl ihrer Namen fest.
+<sup>41</sup>Du sollst die Leviten für mich nehmen – ich bin der HERR –
+anstelle aller Erstgeborenen der Israeliten.
+Und das Vieh der Leviten anstelle aller Erstgeborenen beim Vieh der Israeliten.“
+<sup>42</sup>Mose zählte alle Erstgeborenen der Israeliten, wie der HERR es ihm befohlen hatte.
+<sup>43</sup>Alle männlichen Erstgeborenen, nach der Zahl der Namen, von einem Monat an und älter,
+waren 22.273.
+
+<sup>44</sup>Der HERR sprach zu Mose:
+<sup>45</sup>„Nimm die Leviten anstelle aller Erstgeborenen der Israeliten
+und das Vieh der Leviten anstelle ihres Viehs.
+Die Leviten sollen mir gehören. Ich bin der HERR.
+<sup>46</sup>Für die Auslösung der 273 Erstgeborenen der Israeliten, die mehr sind als die Zahl der Leviten,
+<sup>47</sup>sollst du für jeden fünf Schekel nehmen.
+Nach dem Gewicht des Heiligtums sollst du sie nehmen. Ein Schekel sind 20 Gera.
+<sup>48</sup>Und das Geld, mit dem die übrigen ausgelöst werden, sollst du Aaron und seinen Söhnen geben.“
+<sup>49</sup>Mose nahm das Lösegeld von denen, die mehr waren als die, die durch die Leviten ausgelöst wurden.
+<sup>50</sup>Von den Erstgeborenen der Israeliten nahm er das Geld: 1365 Schekel, nach dem Gewicht des Heiligtums.
+<sup>51</sup>Und Mose gab das Lösegeld Aaron und seinen Söhnen,
+nach dem Wort des HERRN, wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Es gibt 22.273 Erstgeborene, aber nur 22.000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).
+> Fünf Schekel ist genau der Betrag, mit dem bis heute im Judentum ein erstgeborener Sohn „ausgelöst“ wird. Das Fest heißt „Pidjon ha-Ben“, die Auslösung des Sohnes. Es findet einen Monat nach der Geburt statt.
+> So ist jeder Erstgeborene vor Gott vertreten. Keiner wird vergessen.
