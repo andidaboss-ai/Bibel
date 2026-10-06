@@ -23509,3 +23509,378 @@ wie er es uns befohlen hat.“
 > Wer Gottes Gebote verstehen will, muss zuerst wissen, was Gott getan hat. Die Gebote sind die Antwort auf Gottes Liebe.
 > Dieser Abschnitt ist ein Teil der jüdischen Passa-Feier geworden. Beim Passamahl fragen die Kinder, und die Eltern erzählen die Geschichte der Befreiung.
 > „Zu unserem Besten“: Gottes Gebote dienen dem Leben.
+
+## 5. Mose – Kapitel 7
+#### Ein heiliges Volk, aus Liebe erwählt
+
+---
+
+### Keine Bündnisse mit den Völkern des Landes (Vers 1–5)
+
+<sup>1</sup>Der HERR, dein Gott, wird dich in das Land bringen, in das du kommst, um es in Besitz zu nehmen.
+Er wird viele Völker vor dir vertreiben:
+die Hetiter, die Girgaschiter, die Amoriter, die Kanaaniter,
+die Perisiter, die Hiwiter und die Jebusiter,
+sieben Völker, die größer und mächtiger sind als du.
+<sup>2</sup>Wenn der HERR, dein Gott, sie dir preisgibt und du sie schlägst,
+dann sollst du an ihnen den Bann vollstrecken.
+Du sollst keinen Bund mit ihnen schließen und kein Erbarmen mit ihnen haben.
+<sup>3</sup>Du sollst nicht mit ihnen in Ehen verbunden sein.
+Deine Tochter sollst du nicht seinem Sohn geben,
+und seine Tochter sollst du nicht für deinen Sohn nehmen.
+<sup>4</sup>Denn sie würden deine Söhne von mir abbringen, sodass sie anderen Göttern dienen.
+Dann würde der Zorn des HERRN gegen euch entbrennen, und er würde dich schnell vernichten.
+<sup>5</sup>Sondern so sollt ihr mit ihnen umgehen:
+Ihre Altäre sollt ihr niederreißen, ihre Steinsäulen zerschlagen,
+ihre Aschera-Pfähle umhauen und ihre geschnitzten Bilder mit Feuer verbrennen.
+
+> **Was bedeutet das?**
+> Dieser Abschnitt ist sehr hart. Wieder ist vom „Bann“ die Rede (siehe Kapitel 2 und 3). Gemeint ist die völlige Vernichtung dieser Völker.
+> Der Grund wird in Vers 4 genannt: Israel soll nicht zum Götzendienst verführt werden. Es geht um den Glauben, nicht um Hass auf andere Menschen. Ehen mit Fremden waren nicht grundsätzlich verboten: Mose selbst hatte eine fremde Frau, und Rut aus Moab wurde die Urgroßmutter von König David.
+> Interessant ist: Gleich danach verbietet der Text Ehen mit diesen Völkern. Das setzt voraus, dass sie weiter im Land leben. Viele Ausleger sehen darin einen Hinweis, dass der „Bann“ nicht wörtlich als völlige Ausrottung gemeint war, sondern vor allem als radikale Trennung von ihrem Götzendienst. Im Buch Josua und im Buch der Richter leben diese Völker auch weiter im Land.
+> Trotzdem ist dieser Text schwer zu ertragen. Klar ist: Diese Worte gehören zu einer bestimmten Zeit. Sie dürfen niemals benutzt werden, um Gewalt oder Hass gegen Menschen anderer Völker oder Religionen zu rechtfertigen.
+> „Steinsäulen“ und „Aschera-Pfähle“ waren heilige Zeichen der kanaanitischen Religion. Aschera war eine Göttin.
+
+---
+
+### Warum Gott Israel erwählt hat (Vers 6–11)
+
+<sup>6</sup>Denn du bist ein heiliges Volk für den HERRN, deinen Gott.
+Dich hat der HERR, dein Gott, erwählt, damit du sein eigenes Volk bist,
+aus allen Völkern, die auf der Erde leben.
+<sup>7</sup>Nicht weil ihr zahlreicher wärt als alle anderen Völker,
+hat der HERR sein Herz an euch gehängt und euch erwählt.
+Denn ihr seid das kleinste von allen Völkern.
+<sup>8</sup>Sondern weil der HERR euch liebt
+und weil er den Schwur halten will, den er euren Vätern geschworen hat.
+Darum hat der HERR euch mit starker Hand herausgeführt
+und euch aus dem Haus der Sklaverei befreit, aus der Hand des Pharao, des Königs von Ägypten.
+<sup>9</sup>So sollst du erkennen: Der HERR, dein Gott, er ist Gott, der treue Gott.
+Er hält seinen Bund und seine Güte bis in die tausendste Generation
+für die, die ihn lieben und seine Gebote halten.
+<sup>10</sup>Aber denen, die ihn hassen, vergilt er ins Gesicht, um sie zu vernichten.
+Er zögert nicht bei dem, der ihn hasst.
+Ins Gesicht vergilt er es ihm.
+<sup>11</sup>So halte die Gebote, die Ordnungen und die Rechtsbestimmungen, die ich dir heute gebiete, und tu sie.
+
+> **Was bedeutet das?**
+> „Heilig“ heißt: für Gott ausgesondert, zu ihm gehörend.
+> Warum hat Gott gerade Israel erwählt? Nicht weil es groß, stark oder besonders gut war. Es war das kleinste Volk. Gott hat es erwählt, einfach weil er es liebt. Liebe braucht keinen Grund.
+> Erwählung heißt nicht: Wir sind besser als andere. Es heißt: Wir sind beschenkt, und wir haben eine Aufgabe. Schon Abraham wurde gesagt: Durch dich sollen alle Völker gesegnet werden (1. Mose 12,3).
+> „Ins Gesicht vergelten“ heißt: direkt, persönlich, nicht erst an den Nachkommen.
+
+---
+
+### Der Segen für die Treue (Vers 12–16)
+
+<sup>12</sup>Wenn ihr auf diese Rechtsbestimmungen hört und sie haltet und tut,
+dann wird der HERR, dein Gott, den Bund und die Güte für dich halten,
+die er deinen Vätern geschworen hat.
+<sup>13</sup>Er wird dich lieben, dich segnen und dich zahlreich machen.
+Er wird die Frucht deines Leibes segnen und die Frucht deines Ackers,
+dein Getreide, deinen neuen Wein und dein Öl,
+die Jungen deiner Rinder und die Lämmer deiner Schafe,
+in dem Land, das er deinen Vätern geschworen hat, dir zu geben.
+<sup>14</sup>Du wirst gesegnet sein mehr als alle Völker.
+Es wird bei dir keinen Mann und keine Frau geben, die keine Kinder bekommen können,
+und auch nicht unter deinem Vieh.
+<sup>15</sup>Der HERR wird alle Krankheit von dir fernhalten.
+Keine der schlimmen Seuchen Ägyptens, die du kennst, wird er dir auferlegen.
+Sondern er wird sie auf alle legen, die dich hassen.
+<sup>16</sup>Du sollst alle Völker verzehren, die der HERR, dein Gott, dir preisgibt.
+Dein Auge soll kein Mitleid mit ihnen haben.
+Und ihren Göttern sollst du nicht dienen, denn das würde dir zur Falle werden.
+
+> **Was bedeutet das?**
+> Gott verspricht großen Segen: Kinder, gute Ernten, gesunde Tiere, Gesundheit.
+> Man darf das nicht falsch verstehen: Die Bibel sagt nicht, dass jeder, der krank ist oder keine Kinder hat, von Gott bestraft wird. Das Buch Hiob und Jesus selbst widersprechen dieser Vorstellung (Johannes 9,2–3). Hier geht es um den Segen für das ganze Volk.
+> Vers 16 ist wieder hart. Der Grund steht am Ende: Die fremden Götter wären eine „Falle“.
+
+---
+
+### Habt keine Angst (Vers 17–26)
+
+<sup>17</sup>Vielleicht sagst du in deinem Herzen:
+„Diese Völker sind zahlreicher als ich. Wie kann ich sie vertreiben?“
+<sup>18</sup>Dann sollst du keine Angst vor ihnen haben.
+Denk gut daran, was der HERR, dein Gott, mit dem Pharao und mit ganz Ägypten getan hat:
+<sup>19</sup>an die großen Prüfungen, die deine Augen gesehen haben,
+an die Zeichen und Wunder, an die starke Hand und den ausgestreckten Arm,
+mit denen der HERR, dein Gott, dich herausgeführt hat.
+So wird der HERR, dein Gott, mit allen Völkern tun, vor denen du Angst hast.
+<sup>20</sup>Außerdem wird der HERR, dein Gott, Hornissen unter sie schicken,
+bis auch die umgekommen sind, die übrig geblieben sind und sich vor dir versteckt haben.
+<sup>21</sup>Du sollst nicht vor ihnen erschrecken.
+Denn der HERR, dein Gott, ist mitten unter dir, ein großer und furchterregender Gott.
+<sup>22</sup>Der HERR, dein Gott, wird diese Völker nach und nach vor dir vertreiben.
+Du kannst sie nicht auf einmal vernichten,
+damit die wilden Tiere nicht überhandnehmen und dir schaden.
+<sup>23</sup>Aber der HERR, dein Gott, wird sie dir preisgeben.
+Er wird sie in große Verwirrung stürzen, bis sie vernichtet sind.
+<sup>24</sup>Er wird ihre Könige in deine Hand geben,
+und du sollst ihren Namen unter dem Himmel auslöschen.
+Niemand wird vor dir bestehen können, bis du sie vernichtet hast.
+<sup>25</sup>Die geschnitzten Bilder ihrer Götter sollt ihr mit Feuer verbrennen.
+Du sollst das Silber und das Gold daran nicht begehren und es nicht für dich nehmen,
+damit du dich nicht darin verfängst.
+Denn es ist ein Gräuel für den HERRN, deinen Gott.
+<sup>26</sup>Du sollst keinen Gräuel in dein Haus bringen,
+sonst wirst du selbst dem Bann verfallen wie er.
+Du sollst es verabscheuen und es zutiefst ablehnen.
+Denn es ist dem Bann verfallen.
+
+> **Was bedeutet das?**
+> „Hornissen“: Vielleicht sind echte Insekten gemeint, vielleicht ist es ein Bild für Angst und Schrecken, der die Feinde in die Flucht treibt.
+> „Nach und nach“: Gott weiß, was gut ist. Wenn das Land auf einmal leer wäre, würden die wilden Tiere sich ausbreiten. Gott hat einen Plan, auch wenn er langsamer geht, als man möchte.
+> Das Gold an den Götzenbildern ist verlockend. Aber wer es nimmt, holt sich den Götzendienst ins Haus. Ein „Gräuel“ ist etwas, das Gott zutiefst ablehnt.
+> „Dem Bann verfallen“ heißt hier: ganz für Gott bestimmt, sodass es vernichtet werden muss und niemand es behalten darf.
+
+## 5. Mose – Kapitel 8
+#### Der Mensch lebt nicht vom Brot allein
+
+---
+
+### Denk an die Wüste (Vers 1–6)
+
+<sup>1</sup>Achtet darauf, alle Gebote zu tun, die ich dir heute gebiete,
+damit ihr lebt und zahlreich werdet
+und hineinkommt und das Land in Besitz nehmt, das der HERR euren Vätern geschworen hat.
+<sup>2</sup>Denk an den ganzen Weg, den der HERR, dein Gott, dich diese vierzig Jahre in der Wüste geführt hat.
+Er wollte dich demütig machen und dich prüfen.
+Er wollte wissen, was in deinem Herzen ist:
+ob du seine Gebote halten würdest oder nicht.
+<sup>3</sup>Er hat dich gedemütigt, hat dich hungern lassen
+und hat dich mit Manna gespeist, das du nicht kanntest und das auch deine Väter nicht kannten.
+Damit wollte er dich lehren:
+Der Mensch lebt nicht vom Brot allein,
+sondern der Mensch lebt von jedem Wort, das aus dem Mund des HERRN kommt.
+<sup>4</sup>Deine Kleidung ist an dir nicht verschlissen,
+und deine Füße sind nicht geschwollen, diese vierzig Jahre lang.
+<sup>5</sup>So erkenne in deinem Herzen:
+Wie ein Mann seinen Sohn erzieht, so erzieht dich der HERR, dein Gott.
+<sup>6</sup>Halte die Gebote des HERRN, deines Gottes.
+Geh auf seinen Wegen und fürchte ihn.
+
+> **Was bedeutet das?**
+> Die Zeit in der Wüste war schwer. Aber sie hatte einen Sinn. Israel sollte lernen, Gott zu vertrauen.
+> „Der Mensch lebt nicht vom Brot allein“ ist einer der bekanntesten Sätze der Bibel. Er bedeutet: Der Mensch braucht mehr als Essen. Er braucht Gott und sein Wort. Jesus zitiert diesen Satz, als der Teufel ihn in der Wüste versucht, aus Steinen Brot zu machen (Matthäus 4,4).
+> Das Manna kam jeden Tag neu. Man konnte es nicht für später sammeln. So lernte das Volk: Wir sind jeden Tag auf Gott angewiesen. Darum beten Christen im Vaterunser: „Unser tägliches Brot gib uns heute.“
+> Gott erzieht wie ein guter Vater. Manchmal ist es schwer, aber es geschieht aus Liebe.
+
+---
+
+### Ein gutes Land (Vers 7–10)
+
+<sup>7</sup>Denn der HERR, dein Gott, bringt dich in ein gutes Land,
+ein Land mit Wasserbächen, mit Quellen und mit Grundwasser,
+das in den Tälern und auf den Bergen hervorquillt,
+<sup>8</sup>ein Land mit Weizen und Gerste, mit Weinstöcken, Feigenbäumen und Granatäpfeln,
+ein Land mit Olivenbäumen und Honig,
+<sup>9</sup>ein Land, in dem du Brot essen wirst, ohne Mangel zu haben,
+in dem dir nichts fehlen wird,
+ein Land, dessen Steine Eisen sind
+und aus dessen Bergen du Kupfer graben kannst.
+<sup>10</sup>Wenn du gegessen hast und satt bist,
+dann sollst du den HERRN, deinen Gott, loben für das gute Land, das er dir gegeben hat.
+
+> **Was bedeutet das?**
+> Nach der kargen Wüste kommt ein Land voller guter Dinge. Die sieben Früchte in Vers 8 (Weizen, Gerste, Wein, Feigen, Granatäpfel, Oliven, Honig von Datteln oder Bienen) sind bis heute in Israel besonders geschätzt.
+> Vers 10 ist die Grundlage für das jüdische Tischgebet nach dem Essen. Juden danken Gott nicht nur vor, sondern vor allem nach dem Essen. Wer satt ist, soll nicht vergessen, Danke zu sagen.
+
+---
+
+### Vergiss Gott nicht im Reichtum (Vers 11–20)
+
+<sup>11</sup>Hüte dich davor, den HERRN, deinen Gott, zu vergessen
+und seine Gebote, seine Rechtsbestimmungen und seine Ordnungen nicht zu halten,
+die ich dir heute gebiete.
+<sup>12</sup>Sonst könnte es geschehen: Wenn du gegessen hast und satt bist,
+wenn du schöne Häuser gebaut hast und darin wohnst,
+<sup>13</sup>wenn deine Rinder und Schafe sich vermehren,
+wenn dein Silber und dein Gold sich vermehren
+und alles, was du hast, sich vermehrt,
+<sup>14</sup>dann wird dein Herz hochmütig.
+Und du vergisst den HERRN, deinen Gott,
+der dich aus dem Land Ägypten herausgeführt hat, aus dem Haus der Sklaverei,
+<sup>15</sup>der dich durch die große und schreckliche Wüste geführt hat,
+mit giftigen Schlangen und Skorpionen,
+durch durstiges Land, in dem es kein Wasser gab,
+der dir Wasser aus dem harten Felsen hervorsprudeln ließ,
+<sup>16</sup>der dich in der Wüste mit Manna gespeist hat, das deine Väter nicht kannten,
+um dich demütig zu machen und dich zu prüfen,
+damit er dir am Ende Gutes tun kann.
+<sup>17</sup>Und dann sagst du vielleicht in deinem Herzen:
+„Meine Kraft und die Stärke meiner Hand haben mir diesen Reichtum verschafft.“
+<sup>18</sup>Sondern du sollst an den HERRN, deinen Gott, denken.
+Denn er ist es, der dir die Kraft gibt, Reichtum zu erwerben.
+So will er seinen Bund bestätigen, den er deinen Vätern geschworen hat, wie es heute ist.
+<sup>19</sup>Wenn du aber den HERRN, deinen Gott, vergisst
+und anderen Göttern nachläufst, ihnen dienst und sie anbetest,
+dann bezeuge ich euch heute: Ihr werdet ganz sicher umkommen.
+<sup>20</sup>Wie die Völker, die der HERR vor euch umkommen lässt,
+so werdet auch ihr umkommen,
+weil ihr nicht auf die Stimme des HERRN, eures Gottes, gehört habt.
+
+> **Was bedeutet das?**
+> Hier steht eine Warnung, die für alle Zeiten gilt: Wer reich und satt ist, wird leicht hochmütig. Er denkt: „Das habe ich alles selbst geschafft.“
+> Mose sagt: Nein! Auch die Kraft zum Arbeiten ist ein Geschenk Gottes. Gesundheit, Begabung, gute Umstände, das alles kommt von ihm.
+> Das heißt nicht, dass Arbeit unwichtig ist. Aber wer weiß, dass alles Geschenk ist, bleibt dankbar und demütig. Und er teilt leichter mit anderen.
+> Die letzten Verse sind ernst: Israel ist nicht besser als die anderen Völker. Wenn es Gott verlässt, wird es ihm genauso ergehen wie ihnen.
+
+## 5. Mose – Kapitel 9
+#### Nicht weil ihr gerecht seid – das goldene Kalb
+
+---
+
+### Gott geht vor euch her (Vers 1–3)
+
+<sup>1</sup>Höre, Israel!
+Du ziehst heute über den Jordan,
+um Völker zu vertreiben, die größer und mächtiger sind als du,
+große Städte, befestigt bis an den Himmel,
+<sup>2</sup>ein großes und hochgewachsenes Volk, die Söhne der Anakiter.
+Du kennst sie und hast sagen hören:
+„Wer kann gegen die Söhne Anaks bestehen?“
+<sup>3</sup>So erkenne heute:
+Der HERR, dein Gott, ist es, der vor dir hinüberzieht wie ein verzehrendes Feuer.
+Er wird sie vernichten, und er wird sie vor dir niederwerfen.
+So wirst du sie vertreiben und schnell umkommen lassen, wie der HERR es dir gesagt hat.
+
+> **Was bedeutet das?**
+> Vor 38 Jahren hatte das Volk Angst vor den Anakitern, den „Riesen“. Darum wollte es nicht ins Land (Kapitel 1). Jetzt sagt Mose: Habt keine Angst. Gott selbst geht vor euch her.
+
+---
+
+### Nicht wegen eurer Gerechtigkeit (Vers 4–6)
+
+<sup>4</sup>Wenn der HERR, dein Gott, sie vor dir vertrieben hat,
+dann sag nicht in deinem Herzen:
+„Wegen meiner Gerechtigkeit hat der HERR mich hierher gebracht, um dieses Land in Besitz zu nehmen.“
+Denn wegen der Bosheit dieser Völker vertreibt der HERR sie vor dir.
+<sup>5</sup>Nicht wegen deiner Gerechtigkeit und nicht wegen deines aufrichtigen Herzens
+kommst du hinein, um ihr Land in Besitz zu nehmen.
+Sondern wegen der Bosheit dieser Völker vertreibt der HERR, dein Gott, sie vor dir,
+und damit er das Wort hält, das der HERR deinen Vätern Abraham, Isaak und Jakob geschworen hat.
+<sup>6</sup>So erkenne:
+Nicht wegen deiner Gerechtigkeit gibt dir der HERR, dein Gott, dieses gute Land zum Besitz.
+Denn du bist ein Volk mit einem harten Nacken.
+
+> **Was bedeutet das?**
+> Mose warnt vor Hochmut. Israel soll nicht denken: Wir bekommen das Land, weil wir so gut sind. Das stimmt nicht.
+> Zwei Gründe nennt Mose: Erstens die Bosheit der Völker im Land. Schon zu Abraham hatte Gott gesagt, dass er wartet, bis ihre Schuld voll ist (1. Mose 15,16). Zweitens Gottes Treue zu seinem Versprechen.
+> „Ein Volk mit einem harten Nacken“ heißt: ein stures Volk. Das Bild kommt von Rindern, die den Nacken steif machen und sich nicht führen lassen wollen.
+> Es ist ehrlich, dass ein heiliges Buch so über das eigene Volk spricht. Die Bibel feiert Israel nicht als Helden. Alles ist Gnade.
+
+---
+
+### Erinnert euch: Am Horeb (Vers 7–11)
+
+<sup>7</sup>Denk daran und vergiss nicht,
+wie du den HERRN, deinen Gott, in der Wüste zornig gemacht hast.
+Von dem Tag an, an dem du aus dem Land Ägypten ausgezogen bist,
+bis ihr an diesen Ort gekommen seid,
+habt ihr euch gegen den HERRN aufgelehnt.
+<sup>8</sup>Auch am Horeb habt ihr den HERRN zornig gemacht.
+Und der HERR war so zornig über euch, dass er euch vernichten wollte.
+<sup>9</sup>Ich war auf den Berg gestiegen, um die Steintafeln zu empfangen,
+die Tafeln des Bundes, den der HERR mit euch geschlossen hatte.
+Da blieb ich vierzig Tage und vierzig Nächte auf dem Berg.
+Ich aß kein Brot und trank kein Wasser.
+<sup>10</sup>Der HERR gab mir die zwei Steintafeln, beschrieben mit dem Finger Gottes.
+Darauf standen alle Worte, die der HERR auf dem Berg mitten aus dem Feuer mit euch geredet hatte,
+am Tag der Versammlung.
+<sup>11</sup>Am Ende der vierzig Tage und vierzig Nächte
+gab mir der HERR die zwei Steintafeln, die Tafeln des Bundes.
+
+> **Was bedeutet das?**
+> Mose erinnert an die schlimmste Stunde am Berg Sinai. Die Geschichte steht in 2. Mose 32–34.
+> „Mit dem Finger Gottes“: Die Zehn Gebote hat Gott selbst geschrieben.
+
+---
+
+### Das goldene Kalb (Vers 12–17)
+
+<sup>12</sup>Der HERR sagte zu mir:
+„Steh auf und steig schnell von hier hinunter.
+Denn dein Volk, das du aus Ägypten herausgeführt hast, hat Verderben angerichtet.
+Sie sind schnell von dem Weg abgewichen, den ich ihnen geboten habe.
+Sie haben sich ein gegossenes Bild gemacht!“
+<sup>13</sup>Und der HERR sagte zu mir:
+„Ich habe dieses Volk gesehen.
+Schau, es ist ein Volk mit einem harten Nacken.
+<sup>14</sup>Lass mich, damit ich sie vernichte und ihren Namen unter dem Himmel auslösche.
+Und ich will dich zu einem Volk machen, das mächtiger und größer ist als sie.“
+<sup>15</sup>Da wandte ich mich um und stieg vom Berg hinab.
+Der Berg brannte im Feuer.
+Die zwei Tafeln des Bundes waren in meinen beiden Händen.
+<sup>16</sup>Ich sah hin, und schaut: Ihr hattet gegen den HERRN, euren Gott, gesündigt.
+Ihr hattet euch ein gegossenes Kalb gemacht.
+Ihr wart schnell von dem Weg abgewichen, den der HERR euch geboten hatte.
+<sup>17</sup>Da packte ich die zwei Tafeln, warf sie aus meinen beiden Händen
+und zerbrach sie vor euren Augen.
+
+> **Was bedeutet das?**
+> Nur 40 Tage nach dem Bund betet das Volk schon ein goldenes Kalb an. Mose zerbricht die Tafeln. Das ist ein Zeichen: Der Bund ist gebrochen.
+> Gott bietet Mose an, aus ihm ein neues Volk zu machen. Aber Mose nimmt das Angebot nicht an. Er tritt für sein Volk ein.
+
+---
+
+### Mose betet für das Volk (Vers 18–21)
+
+<sup>18</sup>Ich warf mich vor dem HERRN nieder, wie beim ersten Mal, vierzig Tage und vierzig Nächte.
+Ich aß kein Brot und trank kein Wasser,
+wegen all eurer Sünde, die ihr begangen hattet,
+indem ihr getan habt, was in den Augen des HERRN böse ist, um ihn zu kränken.
+<sup>19</sup>Denn ich hatte Angst vor dem Zorn und dem Grimm,
+mit dem der HERR über euch zornig war, um euch zu vernichten.
+Aber der HERR hörte auch dieses Mal auf mich.
+<sup>20</sup>Auch über Aaron war der HERR so zornig, dass er ihn vernichten wollte.
+Und ich betete damals auch für Aaron.
+<sup>21</sup>Eure Sünde aber, das Kalb, das ihr gemacht hattet, nahm ich und verbrannte es mit Feuer.
+Ich zerstieß es und zermahlte es ganz fein, bis es so fein wie Staub war.
+Und seinen Staub warf ich in den Bach, der vom Berg herabfließt.
+
+> **Was bedeutet das?**
+> Mose fastet noch einmal 40 Tage für sein Volk. Er betet, und Gott hört auf ihn.
+> Hier erfahren wir etwas, das in 2. Mose 32 nicht steht: Auch Aaron war in großer Gefahr. Mose hat auch für seinen Bruder gebetet.
+> Mose ist ein Vorbild: Er tritt für andere ein, auch wenn sie schuldig sind. Das nennt man „Fürbitte“.
+
+---
+
+### Immer wieder Auflehnung (Vers 22–24)
+
+<sup>22</sup>Auch in Tabera, in Massa und in Kibrot-Taawa habt ihr den HERRN zornig gemacht.
+<sup>23</sup>Und als der HERR euch von Kadesch-Barnea losschickte und sagte:
+„Zieht hinauf und nehmt das Land in Besitz, das ich euch gegeben habe“,
+da habt ihr euch gegen den Befehl des HERRN, eures Gottes, aufgelehnt.
+Ihr habt ihm nicht geglaubt und nicht auf seine Stimme gehört.
+<sup>24</sup>Ihr seid widerspenstig gegen den HERRN gewesen, seit dem Tag, an dem ich euch kenne.
+
+> **Was bedeutet das?**
+> Mose zählt weitere Orte auf, an denen das Volk gegen Gott gemurrt hat: Tabera, wo Feuer brannte (4. Mose 11,1–3); Massa, wo es um Wasser ging (2. Mose 17); Kibrot-Taawa, wo es um Fleisch ging (4. Mose 11).
+> Das ist eine harte Bilanz. Aber Mose will das Volk nicht beschämen. Er will, dass es versteht: Wir haben alles nur Gottes Gnade zu verdanken.
+
+---
+
+### Moses Gebet (Vers 25–29)
+
+<sup>25</sup>So warf ich mich vor dem HERRN nieder, die vierzig Tage und vierzig Nächte, die ich da lag,
+weil der HERR gesagt hatte, dass er euch vernichten will.
+<sup>26</sup>Ich betete zum HERRN und sagte:
+„Herr, du HERR, vernichte nicht dein Volk und dein Erbe,
+das du durch deine Größe befreit hast,
+das du mit starker Hand aus Ägypten herausgeführt hast.
+<sup>27</sup>Denk an deine Diener Abraham, Isaak und Jakob.
+Schau nicht auf die Sturheit dieses Volkes, nicht auf seine Bosheit und nicht auf seine Sünde.
+<sup>28</sup>Sonst sagt das Land, aus dem du uns herausgeführt hast:
+‚Weil der HERR nicht fähig war, sie in das Land zu bringen, das er ihnen versprochen hatte,
+und weil er sie hasste, hat er sie herausgeführt, um sie in der Wüste zu töten.‘
+<sup>29</sup>Sie sind doch dein Volk und dein Erbe,
+das du mit deiner großen Kraft und mit deinem ausgestreckten Arm herausgeführt hast.“
+
+> **Was bedeutet das?**
+> Mose betet sehr klug. Er sagt nicht: „Das Volk ist doch gar nicht so schlimm.“ Er gibt die Schuld zu. Aber er erinnert Gott an drei Dinge:
+> 1. Es ist dein Volk. Du hast es befreit.
+> 2. Denk an deine Versprechen an Abraham, Isaak und Jakob.
+> 3. Was sollen die anderen Völker denken? Dein Name würde verspottet.
+> Mose beruft sich nicht auf die Gerechtigkeit des Volkes, sondern nur auf Gottes Treue und Gnade. So kann man bis heute beten, wenn man schuldig geworden ist.
