@@ -20871,3 +20871,359 @@ Und auch Balak ging seinen Weg.
 > „Kittim“ bedeutet ursprünglich Zypern, später überhaupt die Völker im Westen, die über das Meer kamen, zum Beispiel Griechen oder Römer.
 > Wer „Eber“ ist, ist nicht sicher. Vielleicht sind die Völker jenseits des Euphrat gemeint.
 > Diese Verse sind schwer zu verstehen. Ihre Botschaft ist aber klar: Gott lenkt die Geschichte, nicht die Könige.
+
+## 4. Mose – Kapitel 25
+#### Israel betet Baal-Peor an – Pinhas greift ein
+
+---
+
+### Das Volk lässt sich auf fremde Götter ein (Vers 1–5)
+
+<sup>1</sup>Israel blieb in Schittim.
+Da fing das Volk an, sich mit den Töchtern Moabs wie mit Prostituierten einzulassen.
+<sup>2</sup>Denn sie luden das Volk zu den Opfern für ihre Götter ein.
+Und das Volk aß mit und warf sich vor ihren Göttern nieder.
+<sup>3</sup>So hängte sich Israel an Baal-Peor.
+Da wurde der HERR zornig über Israel.
+<sup>4</sup>Der HERR sagte zu Mose:
+„Nimm alle Anführer des Volkes und häng sie vor dem HERRN auf, im Licht der Sonne,
+damit der glühende Zorn des HERRN sich von Israel abwendet.“
+<sup>5</sup>Mose sagte zu den Richtern Israels:
+„Jeder soll seine Leute töten, die sich an Baal-Peor gehängt haben.“
+
+> **Was bedeutet das?**
+> Was Bileam mit Flüchen nicht geschafft hat, geschieht jetzt auf andere Weise. Die Frauen aus Moab laden die Israeliten zu ihren Opferfesten ein. Dort gibt es Essen, Feiern und wohl auch Sexualität im Rahmen des Götterkults.
+> Später heißt es, dass Bileam diesen Plan ausgedacht hat (4. Mose 31,16; Offenbarung 2,14). Er konnte Israel nicht verfluchen, aber er konnte es verführen.
+> „Baal-Peor“ ist der Gott Baal, wie er am Berg Peor verehrt wurde.
+> Das ist ein schwerer Rückfall. Fast direkt nach Gottes Segen durch Bileam bricht Israel den Bund.
+> Die Strafe ist für uns heute erschreckend. Die Bibel erzählt ehrlich, wie hart man damals mit dem Abfall von Gott umging. Für heute gilt: Niemand darf im Namen Gottes Menschen töten.
+
+---
+
+### Pinhas greift ein (Vers 6–9)
+
+<sup>6</sup>Und schau: Ein Mann von den Israeliten kam
+und brachte eine midianitische Frau zu seinen Brüdern,
+vor den Augen von Mose und der ganzen Gemeinde der Israeliten,
+während sie am Eingang des Zeltes der Begegnung weinten.
+<sup>7</sup>Als Pinhas, der Sohn von Eleasar, dem Sohn von Aaron, dem Priester, das sah,
+stand er aus der Mitte der Gemeinde auf und nahm einen Speer in seine Hand.
+<sup>8</sup>Er ging dem Israeliten nach in das Zelt
+und durchbohrte beide, den Israeliten und die Frau, durch ihren Leib.
+Da hörte die Plage unter den Israeliten auf.
+<sup>9</sup>Die an der Plage starben, waren 24.000.
+
+> **Was bedeutet das?**
+> Während das ganze Volk am Heiligtum weint und bereut, bringt ein Mann ganz offen eine Frau aus Midian ins Lager. Er tut es vor den Augen von Mose, als wollte er sich über Gott und das Volk lustig machen.
+> Pinhas, der Enkel Aarons, tötet die beiden. Damit endet eine Plage, die schon viele Menschen getötet hat.
+> Diese Tat ist für uns heute sehr schwer zu verstehen. Sie ist Gewalt. Im Judentum wurde viel darüber diskutiert. Die Gelehrten sagten: Das war ein einmaliger Ausnahmefall. Niemand darf sich darauf berufen, um selbst Gewalt im Namen Gottes auszuüben. Sie haben strenge Regeln aufgestellt, damit so etwas nicht nachgeahmt wird.
+> Leider haben sich im Lauf der Geschichte Extremisten auf Pinhas berufen. Das ist ein Missbrauch dieser Geschichte.
+
+---
+
+### Gottes Bund mit Pinhas (Vers 10–15)
+
+<sup>10</sup>Der HERR sprach zu Mose:
+<sup>11</sup>„Pinhas, der Sohn von Eleasar, dem Sohn von Aaron, dem Priester,
+hat meinen Zorn von den Israeliten abgewendet.
+Denn er hat sich mit meinem Eifer unter ihnen ereifert.
+Darum habe ich die Israeliten in meinem Eifer nicht vernichtet.
+<sup>12</sup>Darum sag:
+‚Schau: Ich gebe ihm meinen Bund des Friedens.
+<sup>13</sup>Er soll für ihn und für seine Nachkommen nach ihm
+ein Bund des Priestertums für alle Zeiten sein.
+Denn er hat sich für seinen Gott ereifert
+und für die Israeliten Versöhnung geschaffen.‘“
+
+<sup>14</sup>Der Name des getöteten Israeliten, der mit der Midianiterin getötet wurde,
+war Simri, der Sohn von Salu, ein Oberhaupt einer Familie im Stamm Simeon.
+<sup>15</sup>Der Name der getöteten midianitischen Frau war Kosbi, die Tochter von Zur.
+Er war ein Stammesoberhaupt einer Familie in Midian.
+
+> **Was bedeutet das?**
+> Gott schenkt Pinhas einen „Bund des Friedens“. Das klingt nach einer Gewalttat seltsam. Aber gemeint ist: Pinhas hat die Plage gestoppt und dadurch Frieden zwischen Gott und dem Volk wiederhergestellt.
+> Seine Nachkommen werden die Hohenpriester sein. Zadok, der spätere Hohepriester unter König Salomo, stammt von ihm ab.
+> Die Namen werden genannt, weil beide aus angesehenen Familien kamen. Es war keine Kleinigkeit, sondern ein öffentlicher Skandal durch führende Leute.
+
+---
+
+### Krieg gegen Midian (Vers 16–18)
+
+<sup>16</sup>Der HERR sprach zu Mose:
+<sup>17</sup>„Greift die Midianiter an und schlagt sie!
+<sup>18</sup>Denn sie haben euch mit ihren Listen angegriffen.
+Sie haben euch verführt in der Sache mit Peor
+und in der Sache mit Kosbi, der Tochter eines Anführers von Midian, ihrer Schwester,
+die am Tag der Plage wegen Peor getötet wurde.“
+
+> **Was bedeutet das?**
+> Die Midianiter haben Israel absichtlich verführt, um es von Gott wegzubringen. Darum soll Israel gegen sie kämpfen. Davon erzählt Kapitel 31.
+> Interessant: Mose war selbst mit einer Midianiterin verheiratet, mit Zippora. Und sein Schwiegervater Jitro war ein Midianiter, der Israel half. Nicht alle Midianiter waren Feinde.
+
+## 4. Mose – Kapitel 26
+#### Die zweite Volkszählung – die neue Generation
+
+---
+
+### Gott befiehlt eine neue Zählung (Vers 1–4)
+
+<sup>1</sup>Nach der Plage sprach der HERR zu Mose und zu Eleasar, dem Sohn von Aaron, dem Priester:
+<sup>2</sup>„Zählt die ganze Gemeinde der Israeliten,
+von 20 Jahren an und älter, nach ihren Familien,
+alle in Israel, die in den Krieg ziehen können.“
+<sup>3</sup>Mose und Eleasar, der Priester, redeten mit ihnen in den Steppen von Moab,
+am Jordan, gegenüber von Jericho, und sagten:
+<sup>4</sup>„Zählt die Männer von 20 Jahren an und älter,
+wie der HERR es Mose und den Israeliten befohlen hat.“
+Das sind die Israeliten, die aus dem Land Ägypten ausgezogen waren:
+
+> **Was bedeutet das?**
+> 38 Jahre nach der ersten Zählung (Kapitel 1) wird das Volk ein zweites Mal gezählt. Die alte Generation ist fast ganz gestorben. Jetzt steht die neue Generation bereit, das Land einzunehmen.
+> „Die aus Ägypten ausgezogen waren“ meint hier das ganze Volk Israel, die Nachkommen der Ausgezogenen.
+> Die Zählung ist auch die Grundlage für die Verteilung des Landes. Jeder Stamm soll so viel Land bekommen, wie er Menschen hat.
+
+---
+
+### Ruben (Vers 5–11)
+
+<sup>5</sup>Ruben, der Erstgeborene Israels.
+Die Nachkommen Rubens:
+von Hanoch die Sippe der Hanochiter,
+von Pallu die Sippe der Palluiter,
+<sup>6</sup>von Hezron die Sippe der Hezroniter,
+von Karmi die Sippe der Karmiter.
+<sup>7</sup>Das sind die Sippen der Rubeniter.
+Ihre Gezählten waren 43.730.
+<sup>8</sup>Der Sohn Pallus war Eliab.
+<sup>9</sup>Die Söhne Eliabs waren Nemuël, Datan und Abiram.
+Das sind dieselben Datan und Abiram, die in der Gemeinde berufen waren
+und die sich gegen Mose und Aaron aufgelehnt hatten, mit der Gruppe Korachs,
+als sie sich gegen den HERRN auflehnten.
+<sup>10</sup>Da öffnete die Erde ihren Mund und verschlang sie zusammen mit Korach,
+als diese Gruppe starb,
+als das Feuer die 250 Männer verzehrte.
+So wurden sie zu einem Warnzeichen.
+<sup>11</sup>Aber die Söhne Korachs starben nicht.
+
+> **Was bedeutet das?**
+> Bei Ruben wird an den Aufstand von Datan und Abiram erinnert (Kapitel 16).
+> Wichtig ist Vers 11: Die Söhne Korachs starben nicht. Ihre Nachkommen wurden später Sänger im Tempel und schrieben Psalmen.
+
+---
+
+### Simeon (Vers 12–14)
+
+<sup>12</sup>Die Nachkommen Simeons nach ihren Sippen:
+von Nemuël die Sippe der Nemuëliter,
+von Jamin die Sippe der Jaminiter,
+von Jachin die Sippe der Jachiniter,
+<sup>13</sup>von Serach die Sippe der Serachiter,
+von Schaul die Sippe der Schauliter.
+<sup>14</sup>Das sind die Sippen der Simeoniter: 22.200.
+
+> **Was bedeutet das?**
+> Der Stamm Simeon ist stark geschrumpft: von 59.300 auf 22.200. Vielleicht weil viele aus Simeon bei der Sünde mit Baal-Peor dabei waren. Simri, der Mann aus Kapitel 25, war ein Anführer aus Simeon.
+
+---
+
+### Gad (Vers 15–18)
+
+<sup>15</sup>Die Nachkommen Gads nach ihren Sippen:
+von Zefon die Sippe der Zefoniter,
+von Haggi die Sippe der Haggiter,
+von Schuni die Sippe der Schuniter,
+<sup>16</sup>von Osni die Sippe der Osniter,
+von Eri die Sippe der Eriter,
+<sup>17</sup>von Arod die Sippe der Aroditer,
+von Areli die Sippe der Areliter.
+<sup>18</sup>Das sind die Sippen der Nachkommen Gads nach ihren Gezählten: 40.500.
+
+---
+
+### Juda (Vers 19–22)
+
+<sup>19</sup>Die Söhne Judas waren Er und Onan.
+Aber Er und Onan starben im Land Kanaan.
+<sup>20</sup>Die Nachkommen Judas nach ihren Sippen waren:
+von Schela die Sippe der Schelaniter,
+von Perez die Sippe der Pereziter,
+von Serach die Sippe der Serachiter.
+<sup>21</sup>Die Nachkommen von Perez waren:
+von Hezron die Sippe der Hezroniter,
+von Hamul die Sippe der Hamuliter.
+<sup>22</sup>Das sind die Sippen Judas nach ihren Gezählten: 76.500.
+
+> **Was bedeutet das?**
+> Die Geschichte von Er, Onan, Perez und Serach steht in 1. Mose 38. Von Perez stammt später König David ab.
+
+---
+
+### Issachar (Vers 23–25)
+
+<sup>23</sup>Die Nachkommen Issachars nach ihren Sippen:
+von Tola die Sippe der Tolaiter,
+von Puwa die Sippe der Puniter,
+<sup>24</sup>von Jaschub die Sippe der Jaschubiter,
+von Schimron die Sippe der Schimroniter.
+<sup>25</sup>Das sind die Sippen Issachars nach ihren Gezählten: 64.300.
+
+---
+
+### Sebulon (Vers 26–27)
+
+<sup>26</sup>Die Nachkommen Sebulons nach ihren Sippen:
+von Sered die Sippe der Serediter,
+von Elon die Sippe der Eloniter,
+von Jachleel die Sippe der Jachleeliter.
+<sup>27</sup>Das sind die Sippen der Sebuloniter nach ihren Gezählten: 60.500.
+
+---
+
+### Manasse (Vers 28–34)
+
+<sup>28</sup>Die Nachkommen Josefs nach ihren Sippen: Manasse und Efraim.
+<sup>29</sup>Die Nachkommen Manasses:
+von Machir die Sippe der Machiriter.
+Machir wurde der Vater von Gilead.
+Von Gilead die Sippe der Gileaditer.
+<sup>30</sup>Das sind die Nachkommen Gileads:
+von Ieser die Sippe der Ieseriter,
+von Helek die Sippe der Helekiter,
+<sup>31</sup>von Asriël die Sippe der Asriëliter,
+von Sichem die Sippe der Sichemiter,
+<sup>32</sup>von Schemida die Sippe der Schemidaiter,
+von Hefer die Sippe der Heferiter.
+<sup>33</sup>Zelofhad, der Sohn von Hefer, hatte keine Söhne, sondern nur Töchter.
+Die Namen der Töchter Zelofhads waren Machla, Noa, Hogla, Milka und Tirza.
+<sup>34</sup>Das sind die Sippen Manasses.
+Ihre Gezählten waren 52.700.
+
+> **Was bedeutet das?**
+> Die fünf Töchter Zelofhads werden hier mit Namen genannt. Das ist ungewöhnlich in einer Liste von Männern. Sie spielen im nächsten Kapitel eine wichtige Rolle: Sie setzen sich mutig für ihr Recht auf ein Erbe ein.
+
+---
+
+### Efraim (Vers 35–37)
+
+<sup>35</sup>Das sind die Nachkommen Efraims nach ihren Sippen:
+von Schutelach die Sippe der Schutelachiter,
+von Becher die Sippe der Becheriter,
+von Tahan die Sippe der Tahaniter.
+<sup>36</sup>Und das sind die Nachkommen Schutelachs:
+von Eran die Sippe der Eraniter.
+<sup>37</sup>Das sind die Sippen der Nachkommen Efraims nach ihren Gezählten: 32.500.
+Das sind die Nachkommen Josefs nach ihren Sippen.
+
+---
+
+### Benjamin (Vers 38–41)
+
+<sup>38</sup>Die Nachkommen Benjamins nach ihren Sippen:
+von Bela die Sippe der Belaiter,
+von Aschbel die Sippe der Aschbeliter,
+von Ahiram die Sippe der Ahiramiter,
+<sup>39</sup>von Schefufam die Sippe der Schufamiter,
+von Hufam die Sippe der Hufamiter.
+<sup>40</sup>Die Söhne von Bela waren Ard und Naaman:
+von Ard die Sippe der Arditer,
+von Naaman die Sippe der Naamiter.
+<sup>41</sup>Das sind die Nachkommen Benjamins nach ihren Sippen.
+Ihre Gezählten waren 45.600.
+
+---
+
+### Dan (Vers 42–43)
+
+<sup>42</sup>Das sind die Nachkommen Dans nach ihren Sippen:
+von Schuham die Sippe der Schuhamiter.
+Das sind die Sippen Dans nach ihren Sippen.
+<sup>43</sup>Alle Sippen der Schuhamiter nach ihren Gezählten waren 64.400.
+
+---
+
+### Ascher (Vers 44–47)
+
+<sup>44</sup>Die Nachkommen Aschers nach ihren Sippen:
+von Jimna die Sippe der Jimniter,
+von Jischwi die Sippe der Jischwiter,
+von Beria die Sippe der Beriiter.
+<sup>45</sup>Von den Nachkommen Berias:
+von Heber die Sippe der Heberiter,
+von Malkiël die Sippe der Malkiëliter.
+<sup>46</sup>Die Tochter Aschers hieß Serach.
+<sup>47</sup>Das sind die Sippen der Nachkommen Aschers nach ihren Gezählten: 53.400.
+
+---
+
+### Naftali (Vers 48–50)
+
+<sup>48</sup>Die Nachkommen Naftalis nach ihren Sippen:
+von Jachzeel die Sippe der Jachzeeliter,
+von Guni die Sippe der Guniter,
+<sup>49</sup>von Jezer die Sippe der Jezeriter,
+von Schillem die Sippe der Schillemiter.
+<sup>50</sup>Das sind die Sippen Naftalis nach ihren Sippen.
+Ihre Gezählten waren 45.400.
+
+---
+
+### Die Gesamtzahl und die Verteilung des Landes (Vers 51–56)
+
+<sup>51</sup>Das sind die Gezählten der Israeliten: 601.730.
+
+<sup>52</sup>Der HERR sprach zu Mose:
+<sup>53</sup>„Unter diese soll das Land als Erbe verteilt werden, nach der Zahl der Namen.
+<sup>54</sup>Einem großen Stamm sollst du ein großes Erbe geben,
+und einem kleinen Stamm sollst du ein kleines Erbe geben.
+Jedem soll sein Erbe nach der Zahl seiner Gezählten gegeben werden.
+<sup>55</sup>Aber das Land soll durch das Los verteilt werden.
+Nach den Namen der Stämme ihrer Väter sollen sie erben.
+<sup>56</sup>Durch das Los soll ihr Erbe zwischen den großen und den kleinen Stämmen verteilt werden.“
+
+> **Was bedeutet das?**
+> Bei der ersten Zählung waren es 603.550 Männer. Jetzt sind es 601.730. Nach 40 Jahren in der Wüste ist das Volk fast gleich groß geblieben. Gott hat für Nachwuchs gesorgt, obwohl die alte Generation gestorben ist.
+> Ich habe nachgerechnet: Die Zahlen der zwölf Stämme ergeben zusammen genau 601.730.
+> Das Land wird auf zwei Arten verteilt: Die Größe hängt von der Zahl der Menschen ab. Welches Gebiet ein Stamm bekommt, entscheidet das Los. So soll es gerecht zugehen, und niemand kann sich das beste Stück nehmen.
+
+---
+
+### Die Leviten (Vers 57–62)
+
+<sup>57</sup>Das sind die Gezählten der Leviten nach ihren Sippen:
+von Gerschon die Sippe der Gerschoniter,
+von Kehat die Sippe der Kehatiter,
+von Merari die Sippe der Merariter.
+<sup>58</sup>Das sind die Sippen Levis:
+die Sippe der Libniter, die Sippe der Hebroniter, die Sippe der Machliter,
+die Sippe der Muschiter und die Sippe der Korachiter.
+Kehat wurde der Vater von Amram.
+<sup>59</sup>Die Frau von Amram hieß Jochebed.
+Sie war eine Tochter Levis, die Levi in Ägypten geboren wurde.
+Sie gebar Amram Aaron und Mose und ihre Schwester Mirjam.
+<sup>60</sup>Dem Aaron wurden Nadab und Abihu, Eleasar und Itamar geboren.
+<sup>61</sup>Nadab und Abihu starben, als sie fremdes Feuer vor den HERRN brachten.
+<sup>62</sup>Ihre Gezählten waren 23.000, alle Männer von einem Monat an und älter.
+Denn sie wurden nicht mit den Israeliten gezählt,
+weil ihnen unter den Israeliten kein Erbe gegeben wurde.
+
+> **Was bedeutet das?**
+> Hier wird auch die Familie von Mose genannt: seine Eltern Amram und Jochebed, seine Geschwister Aaron und Mirjam.
+> Die Leviten bekommen kein Land. Darum werden sie wieder getrennt gezählt.
+
+---
+
+### Keiner von der alten Generation ist mehr übrig (Vers 63–65)
+
+<sup>63</sup>Das sind die Gezählten, die Mose und Eleasar, der Priester, zählten,
+als sie die Israeliten in den Steppen von Moab zählten, am Jordan, gegenüber von Jericho.
+<sup>64</sup>Unter ihnen war kein einziger Mann von denen,
+die Mose und Aaron, der Priester, gezählt hatten,
+als sie die Israeliten in der Wüste Sinai zählten.
+<sup>65</sup>Denn der HERR hatte über sie gesagt: „Sie werden ganz sicher in der Wüste sterben.“
+Und es war keiner von ihnen übrig geblieben,
+außer Kaleb, dem Sohn von Jefunne, und Josua, dem Sohn von Nun.
+
+> **Was bedeutet das?**
+> Gottes Wort ist eingetroffen. Die ganze Generation, die sich geweigert hatte, ins Land zu gehen, ist in der Wüste gestorben (4. Mose 14,29–30). Nur Kaleb und Josua, die Gott vertraut hatten, leben noch.
+> Und auch Mose. Aber auch er wird das Land nicht betreten (Kapitel 20,12).
+> Eine neue Generation ist herangewachsen. Sie hat die Wunder in Ägypten nicht selbst erlebt. Aber sie ist bereit, Gott zu vertrauen und in das Land zu ziehen.
