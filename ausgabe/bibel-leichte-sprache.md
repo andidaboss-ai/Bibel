@@ -24281,3 +24281,342 @@ Du sollst nichts hinzufügen und nichts davon wegnehmen.
 > Der schlimmste Gräuel: Manche Völker opferten ihre eigenen Kinder ihren Göttern. Gott verabscheut das zutiefst. Schon bei Abraham hat Gott gezeigt, dass er keine Menschenopfer will (1. Mose 22).
 > Neugier auf fremde Religionen ist an sich nichts Schlechtes. Aber Israel soll keine Bräuche übernehmen, die gegen Gottes Willen sind, besonders solche, die Menschen schaden.
 > In vielen deutschen Bibeln ist Vers 32 schon der erste Vers von Kapitel 13 (13,1). Wir folgen der Zählung der englischen Vorlage.
+
+## 5. Mose – Kapitel 13
+#### Warnung vor der Verführung zu fremden Göttern
+
+---
+
+### Falsche Propheten (Vers 1–5)
+
+<sup>1</sup>Wenn ein Prophet oder ein Träumer bei dir auftritt
+und dir ein Zeichen oder ein Wunder ankündigt,
+<sup>2</sup>und das Zeichen oder das Wunder trifft ein, von dem er zu dir gesprochen hat,
+und er sagt: „Lasst uns anderen Göttern nachlaufen“ – die du nicht kennst –
+„und lasst uns ihnen dienen“,
+<sup>3</sup>dann sollst du nicht auf die Worte dieses Propheten oder dieses Träumers hören.
+Denn der HERR, euer Gott, prüft euch.
+Er will wissen, ob ihr den HERRN, euren Gott, mit eurem ganzen Herzen und mit eurer ganzen Seele liebt.
+<sup>4</sup>Dem HERRN, eurem Gott, sollt ihr folgen, ihn sollt ihr fürchten,
+seine Gebote sollt ihr halten und auf seine Stimme hören.
+Ihm sollt ihr dienen und an ihm festhalten.
+<sup>5</sup>Und dieser Prophet oder dieser Träumer soll getötet werden.
+Denn er hat zum Abfall vom HERRN, eurem Gott, aufgerufen,
+der euch aus dem Land Ägypten herausgeführt und dich aus dem Haus der Sklaverei befreit hat.
+Er wollte dich von dem Weg abbringen, auf dem du nach dem Befehl des HERRN, deines Gottes, gehen sollst.
+So sollst du das Böse aus deiner Mitte entfernen.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist dieses Kapitel um einen Vers verschoben gezählt: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 19. Wir folgen der Zählung der englischen Vorlage.
+> Eine wichtige Lehre: Auch wenn jemand Wunder tut, ist das noch kein Beweis, dass er von Gott kommt. Entscheidend ist, wohin er führt. Wer von Gott wegführt, ist ein falscher Prophet, auch wenn er beeindruckende Dinge tut. Jesus warnt ganz ähnlich (Matthäus 24,24).
+> Für einen falschen Propheten galt damals die Todesstrafe. Das ist für uns sehr hart. Man muss verstehen: Israel war damals ein Volk, dessen ganze Ordnung auf dem Bund mit Gott beruhte. Abfall von Gott galt als Verrat am ganzen Volk, so ähnlich wie Hochverrat.
+> Heute leben Juden und Christen in Staaten mit Religionsfreiheit. Die großen jüdischen und christlichen Gemeinschaften lehnen jede Gewalt wegen des Glaubens ab. Niemand darf diese Stelle benutzen, um Menschen anderen Glaubens zu verfolgen. In der Geschichte ist das leider geschehen, und es war ein schweres Unrecht.
+
+---
+
+### Verführung in der eigenen Familie (Vers 6–11)
+
+<sup>6</sup>Wenn dein Bruder, der Sohn deiner Mutter, oder dein Sohn oder deine Tochter
+oder die Frau in deinen Armen oder dein Freund, der dir so lieb ist wie dein eigenes Leben,
+dich heimlich verführen will und sagt:
+„Lass uns gehen und anderen Göttern dienen“ –
+die du nicht kennst, weder du noch deine Väter,
+<sup>7</sup>von den Göttern der Völker, die rings um euch wohnen, nah bei dir oder fern von dir,
+von einem Ende der Erde bis zum anderen Ende der Erde –,
+<sup>8</sup>dann sollst du ihm nicht nachgeben und nicht auf ihn hören.
+Dein Auge soll kein Mitleid mit ihm haben.
+Du sollst ihn nicht schonen und ihn nicht decken,
+<sup>9</sup>sondern du sollst ihn unbedingt töten.
+Deine Hand soll als erste gegen ihn sein, um ihn zu töten,
+und danach die Hände des ganzen Volkes.
+<sup>10</sup>Du sollst ihn mit Steinen steinigen, bis er stirbt.
+Denn er hat versucht, dich vom HERRN, deinem Gott, abzubringen,
+der dich aus dem Land Ägypten herausgeführt hat, aus dem Haus der Sklaverei.
+<sup>11</sup>Ganz Israel soll es hören und sich fürchten.
+Und niemand soll mehr so etwas Böses in deiner Mitte tun.
+
+> **Was bedeutet das?**
+> Das ist einer der härtesten Texte der Bibel. Selbst der eigene Bruder, das eigene Kind, die eigene Ehefrau oder der beste Freund soll nicht geschont werden, wenn er zum Götzendienst verführt.
+> Der Text zeigt, wie ernst damals die Treue zu Gott genommen wurde. Die Liebe zu Gott sollte über allen anderen Bindungen stehen.
+> Aber man muss klar sagen: Nach heutigem Verständnis ist es ein schweres Unrecht, einen Menschen wegen seines Glaubens zu töten. Schon die jüdischen Gelehrten des Talmud haben die Todesstrafe durch viele Bedingungen so eingeschränkt, dass sie kaum noch angewendet werden konnte. Für Christen gilt das Wort von Jesus: Er hat seine Jünger zurechtgewiesen, als sie Feuer auf ein Dorf herabrufen wollten, das ihn nicht aufnahm (Lukas 9,54–55).
+> Niemand darf diese Stelle benutzen, um Gewalt gegen Familienmitglieder oder andere Menschen zu rechtfertigen.
+
+---
+
+### Eine abtrünnige Stadt (Vers 12–18)
+
+<sup>12</sup>Wenn du über eine deiner Städte, die der HERR, dein Gott, dir zum Wohnen gibt, hörst,
+<sup>13</sup>dass nichtsnutzige Männer aus deiner Mitte losgezogen sind
+und die Bewohner ihrer Stadt verführt haben und gesagt haben:
+„Lasst uns gehen und anderen Göttern dienen“, die ihr nicht kennt,
+<sup>14</sup>dann sollst du genau nachforschen, untersuchen und gründlich fragen.
+Schau: Wenn es wahr ist und die Sache sicher ist,
+dass ein solcher Gräuel in deiner Mitte geschehen ist,
+<sup>15</sup>dann sollst du die Bewohner dieser Stadt mit der Schärfe des Schwertes schlagen.
+Du sollst an ihr den Bann vollstrecken, mit allem, was darin ist, auch an ihrem Vieh,
+mit der Schärfe des Schwertes.
+<sup>16</sup>Ihre ganze Beute sollst du mitten auf ihrem Platz sammeln
+und die Stadt mit ihrer ganzen Beute mit Feuer verbrennen, als Ganzopfer für den HERRN, deinen Gott.
+Sie soll für immer ein Schutthügel bleiben.
+Sie soll nicht wieder aufgebaut werden.
+<sup>17</sup>Nichts von dem, was dem Bann verfallen ist, soll an deiner Hand hängen bleiben,
+damit der HERR von seinem glühenden Zorn ablässt
+und dir Erbarmen schenkt und sich über dich erbarmt
+und dich zahlreich macht, wie er es deinen Vätern geschworen hat,
+<sup>18</sup>wenn du auf die Stimme des HERRN, deines Gottes, hörst
+und alle seine Gebote hältst, die ich dir heute gebiete,
+und tust, was in den Augen des HERRN, deines Gottes, recht ist.
+
+> **Was bedeutet das?**
+> „Nichtsnutzige Männer“: Im Hebräischen steht „Söhne Belials“. Das bedeutet so viel wie „Taugenichtse“ oder „bösartige Leute“.
+> Ein wichtiger Punkt: Bevor irgendetwas geschieht, muss gründlich untersucht werden (Vers 14). Gerüchte reichen nicht. Das ist ein Schutz gegen falsche Anschuldigungen.
+> Die Strafe ist furchtbar: Die ganze Stadt soll vernichtet werden. Niemand darf sich daran bereichern. Es geht nicht um Beute, sondern darum, den Götzendienst ganz auszurotten.
+> Die jüdischen Gelehrten haben später gesagt: Eine solche Stadt hat es nie gegeben und wird es nie geben. Das Gebot sei nur dazu da, um zu zeigen, wie schwer die Sünde des Götzendienstes wiegt (Talmud, Sanhedrin 71a).
+> Auch hier gilt: Diese Stelle darf niemals als Rechtfertigung für Gewalt gegen Menschen dienen.
+
+## 5. Mose – Kapitel 14
+#### Kinder Gottes – reine Speisen – der Zehnte
+
+---
+
+### Ihr seid Kinder Gottes (Vers 1–2)
+
+<sup>1</sup>Ihr seid Kinder des HERRN, eures Gottes.
+Ihr sollt euch nicht für einen Toten Wunden in die Haut schneiden
+und euch keine Glatze über der Stirn scheren.
+<sup>2</sup>Denn du bist ein heiliges Volk für den HERRN, deinen Gott.
+Und dich hat der HERR erwählt, damit du sein eigenes Volk bist,
+aus allen Völkern, die auf der Erde leben.
+
+> **Was bedeutet das?**
+> „Ihr seid Kinder des HERRN“: Was für eine Würde! Gott ist wie ein Vater für sein Volk.
+> Bei anderen Völkern ritzte man sich bei Trauer die Haut auf oder schor sich die Haare ab. Israel soll das nicht tun. Auch in der Trauer bleibt man Gottes Kind. Man darf trauern, aber nicht auf eine Weise, die den eigenen Körper verletzt.
+
+---
+
+### Welche Landtiere man essen darf (Vers 3–8)
+
+<sup>3</sup>Du sollst nichts Abscheuliches essen.
+<sup>4</sup>Das sind die Tiere, die ihr essen dürft:
+das Rind, das Schaf und die Ziege,
+<sup>5</sup>den Hirsch, die Gazelle, das Reh, den Wildziegenbock,
+den Steinbock, die Antilope und die Gämse.
+<sup>6</sup>Jedes Tier unter den Landtieren, das gespaltene Hufe hat,
+ganz in zwei Teile gespalten, und das wiederkäut, das dürft ihr essen.
+<sup>7</sup>Aber von denen, die wiederkäuen oder gespaltene Hufe haben, dürft ihr diese nicht essen:
+das Kamel, den Hasen und das Kaninchen.
+Denn sie käuen wieder, haben aber keine gespaltenen Hufe.
+Sie sind für euch unrein.
+<sup>8</sup>Und das Schwein, denn es hat gespaltene Hufe, aber es käut nicht wieder.
+Es ist für euch unrein.
+Ihr dürft ihr Fleisch nicht essen, und ihre toten Körper dürft ihr nicht berühren.
+
+> **Was bedeutet das?**
+> Diese Speisegebote kennen wir schon aus 3. Mose 11. Hier werden sie für die neue Generation wiederholt.
+> „Kaninchen“: So steht es in der englischen Vorlage. Im Hebräischen steht „Schafan“. Das ist wohl der Klippschliefer, ein kleines Tier, das in Felsen lebt. Hase und Klippschliefer kauen ständig und sehen dabei aus, als würden sie wiederkäuen.
+> Warum genau diese Regeln? Das sagt die Bibel nicht. Wichtig ist: Israel soll auch beim Essen zeigen, dass es zu Gott gehört. Bis heute halten viele Juden diese Regeln. Man nennt das „koscher“.
+> Für Christen gelten diese Speisegebote nach dem Neuen Testament nicht mehr (Markus 7,19; Apostelgeschichte 10).
+
+---
+
+### Tiere im Wasser (Vers 9–10)
+
+<sup>9</sup>Von allem, was im Wasser lebt, dürft ihr das essen:
+Alles, was Flossen und Schuppen hat, dürft ihr essen.
+<sup>10</sup>Aber alles, was keine Flossen und Schuppen hat, dürft ihr nicht essen.
+Es ist für euch unrein.
+
+> **Was bedeutet das?**
+> Fische mit Flossen und Schuppen sind erlaubt. Muscheln, Krebse, Tintenfische und zum Beispiel Aale sind verboten.
+
+---
+
+### Vögel (Vers 11–20)
+
+<sup>11</sup>Alle reinen Vögel dürft ihr essen.
+<sup>12</sup>Aber diese dürft ihr nicht essen:
+den Adler, den Geier, den Fischadler,
+<sup>13</sup>den Roten Milan, den Falken, jede Art von Milan,
+<sup>14</sup>jede Art von Rabe,
+<sup>15</sup>den Strauß, die Eule, die Möwe, jede Art von Habicht,
+<sup>16</sup>den Steinkauz, den Uhu, die Ohreule,
+<sup>17</sup>den Pelikan, den Geier, den Kormoran,
+<sup>18</sup>den Storch, jede Art von Reiher, den Wiedehopf und die Fledermaus.
+<sup>19</sup>Alle geflügelten Kleintiere sind für euch unrein.
+Man darf sie nicht essen.
+<sup>20</sup>Alle reinen Vögel dürft ihr essen.
+
+> **Was bedeutet das?**
+> Die meisten verbotenen Vögel sind Raubvögel oder Aasfresser. Sie fressen Fleisch mit Blut oder tote Tiere.
+> Bei vielen hebräischen Vogelnamen weiß man heute nicht mehr genau, welcher Vogel gemeint ist. Darum übersetzen die Bibeln hier oft verschieden. Wir folgen der englischen Vorlage.
+> Die Fledermaus ist kein Vogel. Aber damals hat man Tiere nach dem eingeteilt, was man sah: Sie fliegt, also gehört sie zu den fliegenden Tieren.
+> „Geflügelte Kleintiere“ sind Insekten. Nach 3. Mose 11,21–22 durfte man einige Heuschrecken essen.
+
+---
+
+### Kein verendetes Tier (Vers 21)
+
+<sup>21</sup>Ihr sollt nichts essen, was von selbst gestorben ist.
+Du darfst es dem Fremden geben, der in deinen Toren wohnt, damit er es isst,
+oder du darfst es einem Ausländer verkaufen.
+Denn du bist ein heiliges Volk für den HERRN, deinen Gott.
+Du sollst ein Böckchen nicht in der Milch seiner Mutter kochen.
+
+> **Was bedeutet das?**
+> Ein Tier, das von selbst gestorben ist, ist nicht richtig ausgeblutet. Darum dürfen Israeliten es nicht essen. Für Fremde gilt diese Regel nicht. Sie dürfen es haben, so wird nichts verschwendet.
+> „Kein Böckchen in der Milch seiner Mutter kochen“: Dieses Gebot steht dreimal in der Bibel (auch 2. Mose 23,19 und 34,26). Es zeigt Achtung vor dem Leben: Die Milch, die das Junge ernähren sollte, soll nicht zu seinem Tod benutzt werden. Daraus haben Juden die Regel gemacht, Fleisch und Milchprodukte nicht zusammen zu essen.
+
+---
+
+### Der Zehnte: ein Festmahl vor Gott (Vers 22–27)
+
+<sup>22</sup>Du sollst ganz gewiss den Zehnten geben von allem, was deine Saat einbringt,
+von dem, was jedes Jahr auf deinem Feld wächst.
+<sup>23</sup>Und du sollst vor dem HERRN, deinem Gott, essen,
+an dem Ort, den er erwählt, um seinen Namen dort wohnen zu lassen:
+den Zehnten von deinem Getreide, von deinem neuen Wein und von deinem Öl
+und die Erstgeborenen deiner Rinder und deiner Schafe,
+damit du lernst, den HERRN, deinen Gott, allezeit zu fürchten.
+<sup>24</sup>Wenn aber der Weg für dich zu weit ist, sodass du es nicht tragen kannst,
+weil der Ort zu weit von dir entfernt ist, den der HERR, dein Gott, erwählen wird, um seinen Namen dort hinzulegen,
+wenn der HERR, dein Gott, dich segnet,
+<sup>25</sup>dann sollst du es in Geld umtauschen.
+Du sollst das Geld in deiner Hand zusammenbinden
+und an den Ort gehen, den der HERR, dein Gott, erwählen wird.
+<sup>26</sup>Dort sollst du das Geld für alles ausgeben, was dein Herz begehrt:
+für Rinder oder Schafe, für Wein oder starkes Getränk,
+oder für alles, was du dir wünschst.
+Und du sollst dort vor dem HERRN, deinem Gott, essen und dich freuen, du und deine Familie.
+<sup>27</sup>Und den Leviten, der in deinen Toren wohnt, sollst du nicht im Stich lassen,
+denn er hat keinen Anteil und kein Erbe bei dir.
+
+> **Was bedeutet das?**
+> Der „Zehnte“ ist ein Zehntel der Ernte. Erstaunlich: Hier soll man ihn nicht einfach abgeben, sondern selbst damit ein großes Fest feiern, vor Gott, mit der ganzen Familie!
+> Wer weit weg wohnt, darf die Ernte verkaufen und am Heiligtum mit dem Geld alles kaufen, was er sich wünscht, sogar Wein und starkes Getränk. Gott will, dass sein Volk sich freut.
+> Aber man soll dabei die Leviten nicht vergessen. Sie sollen mitfeiern.
+
+---
+
+### Der Zehnte für die Armen (Vers 28–29)
+
+<sup>28</sup>Am Ende von jeweils drei Jahren
+sollst du den ganzen Zehnten deiner Ernte von diesem Jahr herausbringen
+und ihn in deinen Toren lagern.
+<sup>29</sup>Dann sollen kommen: der Levit, denn er hat keinen Anteil und kein Erbe bei dir,
+und der Fremde, die Waise und die Witwe, die in deinen Toren leben.
+Sie sollen essen und satt werden,
+damit der HERR, dein Gott, dich segnet bei aller Arbeit deiner Hände, die du tust.
+
+> **Was bedeutet das?**
+> Jedes dritte Jahr ist der Zehnte für die Armen bestimmt. Er wird in der eigenen Stadt gelagert, und alle Bedürftigen dürfen kommen und sich satt essen.
+> Das ist eine frühe Form von sozialer Hilfe: eine feste Versorgung für die, die keinen eigenen Besitz haben. Die Leviten, Fremde, Waisen und Witwen sollen nicht betteln müssen. Sie haben ein Recht auf diese Hilfe.
+> Und Gott verspricht: Wer teilt, wird gesegnet.
+
+## 5. Mose – Kapitel 15
+#### Das Erlassjahr – Hilfe für die Armen
+
+---
+
+### Alle sieben Jahre werden Schulden erlassen (Vers 1–6)
+
+<sup>1</sup>Am Ende von jeweils sieben Jahren sollst du Schulden erlassen.
+<sup>2</sup>So soll es geschehen:
+Jeder, der etwas verliehen hat, soll erlassen, was er seinem Nächsten geliehen hat.
+Er soll es von seinem Nächsten und seinem Bruder nicht zurückfordern,
+denn ein Erlass für den HERRN ist ausgerufen worden.
+<sup>3</sup>Von einem Ausländer darfst du es zurückfordern.
+Aber was dir dein Bruder schuldet, das soll deine Hand erlassen.
+<sup>4</sup>Doch es wird bei dir keinen Armen geben –
+denn der HERR wird dich ganz gewiss segnen in dem Land,
+das der HERR, dein Gott, dir als Erbe zum Besitz gibt –,
+<sup>5</sup>wenn du nur wirklich auf die Stimme des HERRN, deines Gottes, hörst
+und darauf achtest, dieses ganze Gebot zu tun, das ich dir heute gebiete.
+<sup>6</sup>Denn der HERR, dein Gott, wird dich segnen, wie er es dir versprochen hat.
+Du wirst vielen Völkern leihen, aber du selbst wirst nichts leihen müssen.
+Du wirst über viele Völker herrschen, aber sie werden nicht über dich herrschen.
+
+> **Was bedeutet das?**
+> Das ist ein erstaunliches Gesetz: Alle sieben Jahre werden die Schulden unter Israeliten erlassen. Niemand soll für immer in Schulden gefangen bleiben. Jeder bekommt eine neue Chance.
+> Damals lieh man sich Geld vor allem in Not, zum Beispiel nach einer schlechten Ernte. Wer arm war, sollte nicht immer ärmer werden.
+> Ausländer waren meist Händler, die Geschäfte machten. Für sie galt das Gesetz nicht. Es ging um die Hilfe für Arme im eigenen Volk.
+> Vers 4 ist Gottes großes Ziel: „Es wird bei dir keinen Armen geben.“ Wenn alle nach Gottes Geboten leben, gibt es genug für alle. Die ersten Christen in Jerusalem haben diesen Vers aufgegriffen (Apostelgeschichte 4,34).
+
+---
+
+### Öffne deine Hand (Vers 7–11)
+
+<sup>7</sup>Wenn bei dir ein Armer ist, einer deiner Brüder,
+in einer deiner Städte in deinem Land, das der HERR, dein Gott, dir gibt,
+dann sollst du dein Herz nicht verhärten
+und deine Hand vor deinem armen Bruder nicht verschließen.
+<sup>8</sup>Sondern du sollst ihm deine Hand weit öffnen
+und ihm gerne so viel leihen, wie er braucht, für das, was ihm fehlt.
+<sup>9</sup>Hüte dich, dass in deinem Herzen nicht der böse Gedanke aufkommt:
+„Das siebte Jahr, das Jahr des Erlasses, ist nahe“,
+und dass du deinen armen Bruder mit bösem Blick ansiehst und ihm nichts gibst.
+Dann wird er gegen dich zum HERRN schreien, und es wird dir als Sünde angerechnet.
+<sup>10</sup>Du sollst ihm gerne geben,
+und dein Herz soll nicht verdrossen sein, wenn du ihm gibst.
+Denn dafür wird der HERR, dein Gott, dich segnen bei all deiner Arbeit
+und bei allem, was du unternimmst.
+<sup>11</sup>Denn Arme wird es im Land immer geben.
+Darum gebiete ich dir:
+Du sollst deine Hand weit öffnen für deinen Bruder, für den Bedürftigen und für den Armen in deinem Land.
+
+> **Was bedeutet das?**
+> Gott kennt das menschliche Herz. Jemand könnte denken: „Bald ist das Erlassjahr. Wenn ich jetzt etwas leihe, bekomme ich es nie zurück.“ Mose sagt: Denk nicht so! Gib trotzdem, und zwar gern.
+> Es geht nicht nur ums Geben, sondern um die Haltung: Man soll nicht verdrossen oder geizig geben, sondern mit offenem Herzen. Paulus sagt später: „Gott liebt einen fröhlichen Geber“ (2. Korinther 9,7).
+> Vers 4 und Vers 11 scheinen sich zu widersprechen: „Es wird keine Armen geben“ und „Arme wird es immer geben“. Aber sie gehören zusammen: Gottes Ziel ist, dass es keine Armut gibt. Weil Menschen aber nicht immer nach Gottes Willen leben, wird es Arme geben. Darum sollen wir helfen. Jesus zitiert Vers 11 (Markus 14,7).
+
+---
+
+### Hebräische Knechte und Mägde (Vers 12–18)
+
+<sup>12</sup>Wenn dein Bruder, ein hebräischer Mann oder eine hebräische Frau, an dich verkauft wird
+und dir sechs Jahre gedient hat,
+dann sollst du ihn im siebten Jahr frei von dir gehen lassen.
+<sup>13</sup>Und wenn du ihn frei von dir gehen lässt,
+sollst du ihn nicht mit leeren Händen gehen lassen.
+<sup>14</sup>Du sollst ihn reichlich beschenken von deinen Schafen, von deiner Tenne und von deiner Weinpresse.
+So wie der HERR, dein Gott, dich gesegnet hat, so sollst du ihm geben.
+<sup>15</sup>Denk daran, dass du selbst Sklave im Land Ägypten gewesen bist
+und dass der HERR, dein Gott, dich befreit hat.
+Darum gebiete ich dir heute diese Sache.
+<sup>16</sup>Wenn er aber zu dir sagt: „Ich will nicht von dir weggehen“,
+weil er dich und dein Haus liebt, weil es ihm bei dir gut geht,
+<sup>17</sup>dann sollst du einen Pfriem nehmen und ihm damit das Ohr an der Tür durchbohren.
+Dann wird er für immer dein Knecht sein.
+Auch mit deiner Magd sollst du es so machen.
+<sup>18</sup>Es soll dir nicht schwerfallen, ihn frei von dir gehen zu lassen.
+Denn er hat dir sechs Jahre lang gedient und war dabei doppelt so viel wert wie ein Tagelöhner.
+Und der HERR, dein Gott, wird dich segnen bei allem, was du tust.
+
+> **Was bedeutet das?**
+> Wer völlig verarmt war, konnte sich als Knecht oder Magd „verkaufen“, um seine Schulden abzuarbeiten. Das war eine Art Schuldknechtschaft. Aber sie war begrenzt: Nach sechs Jahren war man wieder frei.
+> Neu gegenüber 2. Mose 21: Hier gilt die Regel ausdrücklich auch für Frauen. Und der Herr soll den Knecht nicht mit leeren Händen entlassen. Er soll ihm reichlich mitgeben, damit er ein neues Leben anfangen kann.
+> Der Grund ist wieder die Erinnerung: Ihr wart selbst Sklaven. Gott hat euch befreit. Darum behandelt andere so, wie Gott euch behandelt hat.
+> Ein „Pfriem“ ist eine spitze Ahle. Das Loch im Ohr war ein Zeichen: Dieser Mensch hat sich freiwillig entschieden zu bleiben.
+> Auch eine begrenzte Knechtschaft entspricht nicht dem, was wir heute unter Menschenwürde verstehen. Aber im Vergleich zu anderen Völkern damals war dieses Gesetz ein großer Schutz für die Armen.
+
+---
+
+### Die erstgeborenen Tiere (Vers 19–23)
+
+<sup>19</sup>Alle männlichen Erstgeborenen, die von deinen Rindern und deinen Schafen geboren werden,
+sollst du dem HERRN, deinem Gott, weihen.
+Mit dem Erstgeborenen deiner Rinder sollst du nicht arbeiten,
+und das Erstgeborene deiner Schafe sollst du nicht scheren.
+<sup>20</sup>Du sollst es jedes Jahr vor dem HERRN, deinem Gott, essen,
+an dem Ort, den der HERR erwählen wird, du und deine Familie.
+<sup>21</sup>Wenn es aber einen Fehler hat, wenn es lahm oder blind ist
+oder irgendeinen anderen schlimmen Fehler hat,
+dann sollst du es dem HERRN, deinem Gott, nicht opfern.
+<sup>22</sup>Du sollst es in deinen Städten essen.
+Der Unreine und der Reine dürfen es gleichermaßen essen,
+wie die Gazelle und den Hirsch.
+<sup>23</sup>Nur sein Blut sollst du nicht essen.
+Du sollst es auf die Erde gießen wie Wasser.
+
+> **Was bedeutet das?**
+> Das erste Junge gehört Gott. Das ist ein Zeichen des Dankes: Alles Leben kommt von ihm.
+> Gott bekommt nur das Beste. Ein Tier mit einem Fehler soll man nicht opfern. Man darf es aber zu Hause ganz normal essen.
