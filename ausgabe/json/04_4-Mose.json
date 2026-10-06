@@ -1,0 +1,349 @@
+{
+ "nr": 4,
+ "code": "NUM",
+ "kuerzel": "4Mo",
+ "name": "4. Mose",
+ "name_englisch": "Numbers",
+ "testament": "altes-testament",
+ "kapitel": 36,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die erste Volkszählung",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 4. Buch Mose?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 4. Buch Mose heißt auch „Numeri“. Das ist Latein und bedeutet „Zahlen“. Denn am Anfang und gegen Ende des Buches wird das Volk gezählt.\nAuf Hebräisch heißt das Buch „Bemidbar“, das bedeutet „In der Wüste“. Das passt noch besser. Denn das Buch erzählt die Wanderung Israels durch die Wüste, vom Berg Sinai bis an die Grenze des versprochenen Landes.\nDiese Reise hätte nur wenige Wochen dauern sollen. Aber weil das Volk Gott nicht vertraut, dauert sie 40 Jahre. Eine ganze Generation stirbt in der Wüste.\nEs ist ein Buch über Murren und Zweifel, über Aufstände und Strafen, aber auch über Gottes Geduld und Treue. Hier steht auch der berühmte Segen: „Der HERR segne dich und behüte dich“ (4. Mose 6,24–26).",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gott befiehlt die Zählung",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose in der Wüste Sinai, im Zelt der Begegnung.\nEs war am ersten Tag des zweiten Monats im zweiten Jahr, nachdem sie aus dem Land Ägypten ausgezogen waren. Er sagte:",
+       "englisch_web": "Yahweh spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Zählt die ganze Gemeinde der Israeliten,\nnach ihren Sippen und nach ihren Familien,\nnach der Zahl der Namen, alle Männer, einen nach dem anderen,",
+       "englisch_web": "“Take a census of all the congregation of the children of Israel, by their families, by their fathers’ houses, according to the number of the names, every male, one by one,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "von 20 Jahren an und älter, alle in Israel, die in den Krieg ziehen können.\nDu und Aaron sollt sie nach ihren Heeresgruppen zählen.",
+       "englisch_web": "from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall count them by their divisions."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Bei euch soll aus jedem Stamm ein Mann sein,\njeder ein Oberhaupt seiner Familie.",
+       "englisch_web": "With you there shall be a man of every tribe, each one head of his fathers’ house."
+      }
+     ],
+     "erklaerung": "Seit dem Auszug aus Ägypten ist etwas mehr als ein Jahr vergangen. Das Volk hat am Sinai die Gebote bekommen und das Heiligtum gebaut. Jetzt soll es weiterziehen, in das versprochene Land.\nDafür wird gezählt, wie viele Männer kämpfen können. Israel ist jetzt nicht mehr eine Gruppe von entlaufenen Sklaven, sondern ein geordnetes Volk.\n„Nach der Zahl der Namen“: Jeder wird mit seinem Namen gezählt. Für Gott ist niemand nur eine Nummer."
+    },
+    {
+     "ueberschrift": "Die Helfer aus jedem Stamm",
+     "vers_von": 5,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Das sind die Namen der Männer, die euch helfen sollen:\nVom Stamm Ruben: Elizur, der Sohn von Schedeur.",
+       "englisch_web": "These are the names of the men who shall stand with you: Of Reuben: Elizur the son of Shedeur."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Vom Stamm Simeon: Schelumiël, der Sohn von Zurischaddai.",
+       "englisch_web": "Of Simeon: Shelumiel the son of Zurishaddai."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Vom Stamm Juda: Nachschon, der Sohn von Amminadab.",
+       "englisch_web": "Of Judah: Nahshon the son of Amminadab."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Vom Stamm Issachar: Netanel, der Sohn von Zuar.",
+       "englisch_web": "Of Issachar: Nethanel the son of Zuar."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Vom Stamm Sebulon: Eliab, der Sohn von Helon.",
+       "englisch_web": "Of Zebulun: Eliab the son of Helon."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Von den Söhnen Josefs:\nvom Stamm Efraim: Elischama, der Sohn von Ammihud;\nvom Stamm Manasse: Gamliël, der Sohn von Pedazur.",
+       "englisch_web": "Of the children of Joseph: of Ephraim: Elishama the son of Ammihud; of Manasseh: Gamaliel the son of Pedahzur."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Vom Stamm Benjamin: Abidan, der Sohn von Gidoni.",
+       "englisch_web": "Of Benjamin: Abidan the son of Gideoni."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Vom Stamm Dan: Ahiëser, der Sohn von Ammischaddai.",
+       "englisch_web": "Of Dan: Ahiezer the son of Ammishaddai."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Vom Stamm Ascher: Pagiël, der Sohn von Ochran.",
+       "englisch_web": "Of Asher: Pagiel the son of Ochran."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Vom Stamm Gad: Eljasaf, der Sohn von Deuël.",
+       "englisch_web": "Of Gad: Eliasaph the son of Deuel."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Vom Stamm Naftali: Ahira, der Sohn von Enan.“",
+       "englisch_web": "Of Naphtali: Ahira the son of Enan.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Das waren die Männer, die aus der Gemeinde berufen wurden.\nSie waren die Anführer der Stämme ihrer Väter.\nSie waren die Oberhäupter der Tausendschaften Israels.",
+       "englisch_web": "These are those who were called of the congregation, the princes of the tribes of their fathers; they were the heads of the thousands of Israel."
+      }
+     ],
+     "erklaerung": "Jeder Stamm hat einen Anführer. Diese Namen kommen im 4. Buch Mose noch öfter vor, zum Beispiel in Kapitel 7.\nNachschon aus dem Stamm Juda ist ein Vorfahre von König David und damit auch von Jesus (Rut 4,20–22; Matthäus 1,4).\nJosef bekommt zwei Stämme, Efraim und Manasse. Das sind die Namen seiner Söhne (1. Mose 48). Der Stamm Levi fehlt in dieser Liste. Warum, wird am Ende des Kapitels erklärt.\nViele Namen enthalten Gottesnamen, zum Beispiel „El“ (Gott) oder „Schaddai“ (der Allmächtige). „Elizur“ bedeutet „Mein Gott ist ein Fels“."
+    },
+    {
+     "ueberschrift": "Die Zählung beginnt",
+     "vers_von": 17,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Mose und Aaron nahmen diese Männer, die mit Namen genannt waren.",
+       "englisch_web": "Moses and Aaron took these men who are mentioned by name."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Am ersten Tag des zweiten Monats versammelten sie die ganze Gemeinde.\nUnd die Leute gaben ihre Abstammung an, nach ihren Sippen und nach ihren Familien,\nnach der Zahl der Namen, von 20 Jahren an und älter, einer nach dem anderen.",
+       "englisch_web": "They assembled all the congregation together on the first day of the second month; and they declared their ancestry by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, one by one."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wie der HERR es Mose befohlen hatte, so zählte er sie in der Wüste Sinai.",
+       "englisch_web": "As Yahweh commanded Moses, so he counted them in the wilderness of Sinai."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Die Zahlen der zwölf Stämme",
+     "vers_von": 20,
+     "vers_bis": 43,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Die Nachkommen von Ruben, dem Erstgeborenen Israels, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen, einer nach dem anderen,\nalle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "The children of Reuben, Israel’s firstborn, their generations, by their families, by their fathers’ houses, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Die Gezählten vom Stamm Ruben waren 46.500.",
+       "englisch_web": "those who were counted of them, of the tribe of Reuben, were forty-six thousand five hundred."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Von den Nachkommen Simeons, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, die von ihm Gezählten, nach der Zahl der Namen, einer nach dem anderen,\nalle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Simeon, their generations, by their families, by their fathers’ houses, those who were counted of it, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Gezählten vom Stamm Simeon waren 59.300.",
+       "englisch_web": "those who were counted of them, of the tribe of Simeon, were fifty-nine thousand three hundred."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Von den Nachkommen Gads, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Gad, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Gezählten vom Stamm Gad waren 45.650.",
+       "englisch_web": "those who were counted of them, of the tribe of Gad, were forty-five thousand six hundred fifty."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Von den Nachkommen Judas, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Judah, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Die Gezählten vom Stamm Juda waren 74.600.",
+       "englisch_web": "those who were counted of them, of the tribe of Judah, were seventy-four thousand six hundred."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Von den Nachkommen Issachars, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Issachar, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Die Gezählten vom Stamm Issachar waren 54.400.",
+       "englisch_web": "those who were counted of them, of the tribe of Issachar, were fifty-four thousand four hundred."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Von den Nachkommen Sebulons, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Zebulun, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Die Gezählten vom Stamm Sebulon waren 57.400.",
+       "englisch_web": "those who were counted of them, of the tribe of Zebulun, were fifty-seven thousand four hundred."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Von den Nachkommen Josefs:\nVon den Nachkommen Efraims, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Joseph: of the children of Ephraim, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die Gezählten vom Stamm Efraim waren 40.500.",
+       "englisch_web": "those who were counted of them, of the tribe of Ephraim, were forty thousand five hundred."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Von den Nachkommen Manasses, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Manasseh, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Gezählten vom Stamm Manasse waren 32.200.",
+       "englisch_web": "those who were counted of them, of the tribe of Manasseh, were thirty-two thousand two hundred."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Von den Nachkommen Benjamins, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Benjamin, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die Gezählten vom Stamm Benjamin waren 35.400.",
+       "englisch_web": "those who were counted of them, of the tribe of Benjamin, were thirty-five thousand four hundred."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Von den Nachkommen Dans, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Dan, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Die Gezählten vom Stamm Dan waren 62.700.",
+       "englisch_web": "those who were counted of them, of the tribe of Dan, were sixty-two thousand seven hundred."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Von den Nachkommen Aschers, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Asher, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Die Gezählten vom Stamm Ascher waren 41.500.",
+       "englisch_web": "those who were counted of them, of the tribe of Asher, were forty-one thousand five hundred."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Von den Nachkommen Naftalis, nach ihrer Abstammung,\nnach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,\nvon 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:",
+       "englisch_web": "Of the children of Naphtali, their generations, by their families, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Die Gezählten vom Stamm Naftali waren 53.400.",
+       "englisch_web": "those who were counted of them, of the tribe of Naphtali, were fifty-three thousand four hundred."
+      }
+     ],
+     "erklaerung": "Für jeden Stamm wird dieselbe Formel wiederholt. Das kann beim Lesen ermüden. Aber es zeigt: Jeder Stamm ist gleich wichtig. Keiner wird vergessen oder abgekürzt.\nJuda ist der größte Stamm. Später kommen aus Juda die Könige Israels."
+    },
+    {
+     "ueberschrift": "Die Gesamtzahl",
+     "vers_von": 44,
+     "vers_bis": 46,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 44,
+       "leichte_sprache": "Das waren die Gezählten, die Mose und Aaron gezählt hatten,\nzusammen mit den zwölf Anführern Israels, je einer für seine Familie.",
+       "englisch_web": "These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his fathers’ house."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Alle Gezählten der Israeliten, nach ihren Familien, von 20 Jahren an und älter,\nalle in Israel, die in den Krieg ziehen konnten –",
+       "englisch_web": "So all those who were counted of the children of Israel by their fathers’ houses, from twenty years old and upward, all who were able to go out to war in Israel—"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "alle Gezählten waren 603.550.",
+       "englisch_web": "all those who were counted were six hundred three thousand five hundred fifty."
+      }
+     ],
+     "erklaerung": "603.550 Männer, dazu Frauen, Kinder und alte Menschen. Das wären insgesamt vielleicht zwei Millionen Menschen. Das ist eine riesige Zahl für eine Wanderung durch die Wüste.\nManche Forscher denken, dass das hebräische Wort für „tausend“ (Elef) hier auch „Sippe“ oder „Truppe“ bedeuten könnte. Dann wären es viel weniger Menschen gewesen. Andere nehmen die Zahlen wörtlich. Die Bibel will vor allem zeigen: Gott hat sein Versprechen an Abraham gehalten. Aus einer Familie ist ein großes Volk geworden (1. Mose 15,5).\nDieselbe Zahl kam schon bei der Abgabe für das Heiligtum vor (2. Mose 38,26)."
+    },
+    {
+     "ueberschrift": "Die Leviten werden nicht gezählt",
+     "vers_von": 47,
+     "vers_bis": 54,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 47,
+       "leichte_sprache": "Aber die Leviten wurden nicht mit ihnen gezählt, nach dem Stamm ihrer Väter.",
+       "englisch_web": "But the Levites after the tribe of their fathers were not counted among them."
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Denn der HERR hatte zu Mose gesagt:",
+       "englisch_web": "For Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "„Nur den Stamm Levi sollst du nicht zählen.\nDu sollst keine Zählung von ihnen unter den Israeliten machen.",
+       "englisch_web": "“Only the tribe of Levi you shall not count, neither shall you take a census of them among the children of Israel;"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Sondern setz die Leviten über die Wohnung des Zeugnisses ein,\nüber alle ihre Geräte und über alles, was dazugehört.\nSie sollen die Wohnung und alle ihre Geräte tragen.\nSie sollen sich um sie kümmern und rings um sie her lagern.",
+       "englisch_web": "but appoint the Levites over the Tabernacle of the Testimony, and over all its furnishings, and over all that belongs to it. They shall carry the tabernacle and all its furnishings; and they shall take care of it, and shall encamp around it."
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Wenn die Wohnung aufbrechen soll, sollen die Leviten sie abbauen.\nUnd wenn die Wohnung aufgebaut werden soll, sollen die Leviten sie aufbauen.\nEin Fremder, der sich ihr nähert, soll getötet werden.",
+       "englisch_web": "When the tabernacle is to move, the Levites shall take it down; and when the tabernacle is to be set up, the Levites shall set it up. The stranger who comes near shall be put to death."
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "Die Israeliten sollen ihre Zelte aufschlagen,\njeder in seinem eigenen Lager und jeder bei seinem eigenen Banner, nach ihren Heeresgruppen.",
+       "englisch_web": "The children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, according to their divisions."
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Aber die Leviten sollen rings um die Wohnung des Zeugnisses lagern,\ndamit kein Zorn über die Gemeinde der Israeliten kommt.\nDie Leviten sollen für die Wohnung des Zeugnisses verantwortlich sein.“",
+       "englisch_web": "But the Levites shall encamp around the Tabernacle of the Testimony, that there may be no wrath on the congregation of the children of Israel. The Levites shall be responsible for the Tabernacle of the Testimony.”"
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Die Israeliten taten es so.\nSie taten alles, was der HERR Mose befohlen hatte.",
+       "englisch_web": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did."
+      }
+     ],
+     "erklaerung": "Die Leviten ziehen nicht in den Krieg. Sie haben eine andere Aufgabe: Sie kümmern sich um das Heiligtum. Sie bauen es auf und ab und tragen es auf der Wanderung.\nSie lagern direkt rund um das Heiligtum, wie eine Schutzmauer. So kommt niemand dem Heiligen zu nahe, der nicht dazu berufen ist.\n„Ein Fremder“ meint hier: jemand, der nicht zum Stamm Levi gehört.\nDas Heiligtum steht in der Mitte des Lagers. Gott ist das Zentrum des Volkes."
+    }
+   ]
+  }
+ ]
+}

@@ -17177,3 +17177,345 @@ die der HERR zwischen sich und den Israeliten auf dem Berg Sinai durch Mose gege
 > Ein „unbeschnittenes Herz“ ist ein Herz, das verschlossen ist für Gott. Wenn es sich „demütigt“, öffnet es sich wieder.
 > Paulus schreibt im Neuen Testament über das jüdische Volk: „Gott hat sein Volk nicht verstoßen“ (Römer 11,1–2). Und: „Gottes Gaben und seine Berufung können ihn nicht gereuen“ (Römer 11,29).
 > Vers 46 ist ein Abschluss: Hier enden die großen Gesetze, die Gott am Sinai gegeben hat. Kapitel 27 ist noch ein Nachtrag.
+
+## 3. Mose – Kapitel 27
+#### Versprechen an Gott und der Zehnte
+
+---
+
+### Wenn jemand einen Menschen Gott verspricht (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn jemand dem HERRN durch ein Gelübde einen Menschen weiht,
+dann soll man nach deiner Schätzung den Wert festlegen.
+<sup>3</sup>Der Wert für einen Mann von 20 bis 60 Jahren soll 50 Schekel Silber sein,
+nach dem Gewicht des Heiligtums.
+<sup>4</sup>Wenn es eine Frau ist, dann soll der Wert 30 Schekel sein.
+<sup>5</sup>Wenn die Person zwischen 5 und 20 Jahre alt ist,
+dann soll der Wert für einen Jungen 20 Schekel sein und für ein Mädchen 10 Schekel.
+<sup>6</sup>Wenn die Person zwischen einem Monat und 5 Jahren alt ist,
+dann soll der Wert für einen Jungen 5 Schekel Silber sein und für ein Mädchen 3 Schekel Silber.
+<sup>7</sup>Wenn die Person 60 Jahre oder älter ist,
+dann soll der Wert für einen Mann 15 Schekel sein und für eine Frau 10 Schekel.
+<sup>8</sup>Wenn jemand aber zu arm ist, um so viel zu zahlen,
+dann soll man ihn vor den Priester stellen,
+und der Priester soll den Wert für ihn festlegen.
+Der Priester soll den Wert so festlegen, wie der Mensch es sich leisten kann.
+
+> **Was bedeutet das?**
+> Ein „Gelübde“ ist ein feierliches Versprechen an Gott. Zum Beispiel: „Wenn Gott mich aus dieser Not rettet, dann gehöre ich ganz ihm.“ So hat Hanna ihren Sohn Samuel Gott versprochen (1. Samuel 1,11).
+> Aber nicht jeder kann im Heiligtum dienen. Darum kann man statt der Person einen Geldbetrag geben.
+> Ein Schekel sind etwa 11 Gramm Silber. 50 Schekel sind also etwa 550 Gramm Silber. Das war damals viel Geld, etwa der Lohn für mehrere Jahre Arbeit.
+> Die Beträge sind unterschiedlich: Männer, Frauen, Kinder und Alte haben verschiedene Werte. Das hat nichts damit zu tun, wie viel ein Mensch vor Gott wert ist. Es richtete sich danach, wie viel jemand damals körperlich arbeiten konnte. Vor Gott ist jeder Mensch unendlich wertvoll.
+> Wichtig ist Vers 8: Wer arm ist, zahlt nur, was er kann. Niemand soll durch ein Versprechen an Gott in Armut stürzen.
+
+---
+
+### Wenn jemand ein Tier verspricht (Vers 9–13)
+
+<sup>9</sup>Wenn es ein Tier ist, das man dem HERRN als Opfergabe bringen kann,
+dann wird alles, was man davon dem HERRN gibt, heilig.
+<sup>10</sup>Man darf es nicht austauschen und nicht ersetzen,
+weder ein gutes gegen ein schlechtes noch ein schlechtes gegen ein gutes.
+Wenn man trotzdem ein Tier gegen ein anderes austauscht,
+dann sollen beide heilig sein, das Tier und das, gegen das es ausgetauscht wurde.
+<sup>11</sup>Wenn es ein unreines Tier ist, das man dem HERRN nicht als Opfergabe bringen darf,
+dann soll man das Tier vor den Priester stellen.
+<sup>12</sup>Der Priester soll seinen Wert schätzen, ob es gut oder schlecht ist.
+Wie der Priester es schätzt, so soll es gelten.
+<sup>13</sup>Wenn man es aber zurückkaufen will,
+dann soll man noch ein Fünftel zu seinem Wert dazulegen.
+
+> **Was bedeutet das?**
+> Wer Gott ein Tier versprochen hat, soll es nicht später gegen ein schlechteres austauschen. Ein Versprechen an Gott ist ernst.
+> Ein unreines Tier, zum Beispiel ein Esel, kann nicht geopfert werden. Es wird geschätzt und verkauft, und das Geld geht an das Heiligtum.
+
+---
+
+### Wenn jemand ein Haus oder ein Feld verspricht (Vers 14–25)
+
+<sup>14</sup>Wenn jemand sein Haus dem HERRN weiht, damit es heilig ist,
+dann soll der Priester seinen Wert schätzen, ob es gut oder schlecht ist.
+Wie der Priester es schätzt, so soll es gelten.
+<sup>15</sup>Wenn der, der es geweiht hat, sein Haus zurückkaufen will,
+dann soll er noch ein Fünftel des geschätzten Geldes dazulegen.
+Dann gehört es wieder ihm.
+
+<sup>16</sup>Wenn jemand dem HERRN einen Teil von seinem eigenen Feld weiht,
+dann soll sich der Wert nach dem Saatgut richten.
+Das Saatgut für ein Homer Gerste soll 50 Schekel Silber wert sein.
+<sup>17</sup>Wenn er sein Feld gleich nach dem Jubeljahr weiht, dann gilt der volle Wert.
+<sup>18</sup>Wenn er sein Feld aber später nach dem Jubeljahr weiht,
+dann soll der Priester ihm das Geld nach den Jahren berechnen, die bis zum Jubeljahr noch übrig sind.
+Und es soll vom geschätzten Wert etwas abgezogen werden.
+<sup>19</sup>Wenn der, der das Feld geweiht hat, es zurückkaufen will,
+dann soll er noch ein Fünftel des geschätzten Geldes dazulegen.
+Dann bleibt es ihm.
+<sup>20</sup>Wenn er das Feld aber nicht zurückkauft
+oder wenn er das Feld einem anderen Mann verkauft hat,
+dann kann es nicht mehr zurückgekauft werden.
+<sup>21</sup>Sondern wenn das Feld im Jubeljahr frei wird, soll es dem HERRN heilig sein,
+wie ein Feld, das Gott ganz übergeben ist.
+Es soll den Priestern gehören.
+
+<sup>22</sup>Wenn jemand dem HERRN ein Feld weiht, das er gekauft hat
+und das nicht zu seinem eigenen Familienbesitz gehört,
+<sup>23</sup>dann soll der Priester ihm den geschätzten Wert bis zum Jubeljahr berechnen.
+Und er soll den geschätzten Wert noch am selben Tag geben, als heilige Gabe für den HERRN.
+<sup>24</sup>Im Jubeljahr soll das Feld zu dem zurückkehren, von dem er es gekauft hat,
+zu dem, dem das Land als Familienbesitz gehört.
+<sup>25</sup>Alle eure Schätzungen sollen nach dem Gewicht des Heiligtums sein: Ein Schekel sind 20 Gera.
+
+> **Was bedeutet das?**
+> Ein „Homer“ ist ein großes Maß für Getreide, etwa 220 Liter. Gemeint ist ein Feld, für das man so viel Saatgut braucht.
+> Auch hier spielt das Jubeljahr eine Rolle (Kapitel 25). Ein Feld wird eigentlich nur bis zum nächsten Jubeljahr weitergegeben. Darum hängt der Wert davon ab, wie viele Jahre noch übrig sind.
+> Ein gekauftes Feld gehört eigentlich einer anderen Familie. Darum geht es im Jubeljahr an diese Familie zurück, nicht an das Heiligtum. Das Familienland bleibt geschützt.
+
+---
+
+### Was man nicht weihen oder zurückkaufen kann (Vers 26–29)
+
+<sup>26</sup>Aber die Erstgeburt vom Vieh, die dem HERRN schon als Erstgeburt gehört,
+darf niemand weihen, weder ein Rind noch ein Schaf.
+Sie gehört schon dem HERRN.
+<sup>27</sup>Wenn es ein unreines Tier ist,
+dann soll man es nach deiner Schätzung zurückkaufen und noch ein Fünftel dazulegen.
+Wenn es nicht zurückgekauft wird, dann soll es nach deiner Schätzung verkauft werden.
+
+<sup>28</sup>Aber nichts, was jemand dem HERRN als Gebanntes übergibt, von allem, was er hat,
+weder Mensch noch Tier noch ein Feld aus seinem Besitz,
+darf verkauft oder zurückgekauft werden.
+Alles, was für immer gebannt ist, ist hochheilig für den HERRN.
+<sup>29</sup>Kein Mensch, der zur Vernichtung gebannt ist, darf losgekauft werden.
+Er muss getötet werden.
+
+> **Was bedeutet das?**
+> Man kann Gott nichts schenken, was ihm schon gehört. Die Erstgeburt gehört ohnehin Gott (2. Mose 13,2).
+> „Gebannt“ ist ein besonderes Wort. Auf Hebräisch heißt es „Cherem“. Es bedeutet: etwas ganz und für immer Gott übergeben, sodass Menschen es nicht mehr benutzen dürfen.
+> Vers 29 ist sehr schwer. Gemeint ist wahrscheinlich: Wenn ein Mensch von einem Gericht zum Tod verurteilt wurde, kann er sich nicht mit Geld freikaufen. Oder es geht um den „Bann“ im Krieg, von dem später im Buch Josua erzählt wird. Darüber haben Juden und Christen viel nachgedacht. Mehr dazu steht bei den Erklärungen im 5. Buch Mose und im Buch Josua.
+> Auf keinen Fall bedeutet die Stelle, dass ein Mensch einen anderen Menschen Gott „versprechen“ und dann töten darf. Menschenopfer verbietet die Bibel streng (3. Mose 18,21; 20,2).
+
+---
+
+### Der Zehnte (Vers 30–34)
+
+<sup>30</sup>Der ganze Zehnte vom Land, vom Saatgut des Landes und von den Früchten der Bäume, gehört dem HERRN.
+Er ist dem HERRN heilig.
+<sup>31</sup>Wenn jemand etwas von seinem Zehnten zurückkaufen will,
+dann soll er noch ein Fünftel dazulegen.
+<sup>32</sup>Der ganze Zehnte von den Rindern und von den Schafen und Ziegen,
+jedes zehnte Tier, das unter dem Hirtenstab hindurchgeht, soll dem HERRN heilig sein.
+<sup>33</sup>Man soll nicht prüfen, ob es gut oder schlecht ist.
+Und man soll es nicht austauschen.
+Wenn man es trotzdem austauscht, dann sollen beide heilig sein,
+das Tier und das, gegen das es ausgetauscht wurde.
+Es darf nicht zurückgekauft werden.‘“
+
+<sup>34</sup>Das sind die Gebote, die der HERR Mose für die Israeliten auf dem Berg Sinai befohlen hat.
+
+> **Was bedeutet das?**
+> Der „Zehnte“ heißt: Ein Zehntel von allem, was man erntet und was an Tieren geboren wird, gehört Gott. Davon lebten die Leviten und Priester, und auch die Armen (5. Mose 14,28–29).
+> Beim Zählen der Tiere ließ der Hirte sie einzeln unter seinem Stab hindurchgehen. Jedes zehnte Tier wurde markiert. Man durfte nicht heimlich die besten Tiere aussortieren.
+> Viele Kirchen und Gemeinden ermutigen bis heute dazu, einen Teil seines Einkommens für Gott und für andere zu geben.
+
+---
+
+### Rückblick: Was haben wir im 3. Buch Mose gelesen?
+
+> **Was bedeutet das?**
+> Das 3. Buch Mose beantwortet eine große Frage: Wie kann ein heiliger Gott mitten unter Menschen mit Fehlern wohnen?
+> 1. Durch Opfer, die Versöhnung schaffen (Kapitel 1–7).
+> 2. Durch Priester, die zwischen Gott und den Menschen stehen (Kapitel 8–10).
+> 3. Durch Regeln für rein und unrein im Alltag (Kapitel 11–15).
+> 4. Durch den großen Versöhnungstag, an dem alle Schuld weggetragen wird (Kapitel 16).
+> 5. Durch ein heiliges Leben im Alltag: in der Familie, bei der Arbeit, mit den Armen und Fremden (Kapitel 17–27).
+> Der wichtigste Satz des Buches ist: „Ihr sollt heilig sein, denn ich bin heilig.“ Und mitten darin steht das Gebot, das Jesus eines der beiden wichtigsten nannte: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18).
+> Vieles in diesem Buch ist uns fremd. Aber seine Botschaft gilt bis heute: Gott will nah bei uns sein. Und er zeigt uns einen Weg, wie wir in seiner Nähe leben können.
+
+
+---
+
+# 4. Mose
+
+## 4. Mose – Kapitel 1
+#### Die erste Volkszählung
+
+---
+
+### Bevor es losgeht: Was ist das 4. Buch Mose?
+
+Das 4. Buch Mose heißt auch „Numeri“. Das ist Latein und bedeutet „Zahlen“. Denn am Anfang und gegen Ende des Buches wird das Volk gezählt.
+Auf Hebräisch heißt das Buch „Bemidbar“, das bedeutet „In der Wüste“. Das passt noch besser. Denn das Buch erzählt die Wanderung Israels durch die Wüste, vom Berg Sinai bis an die Grenze des versprochenen Landes.
+Diese Reise hätte nur wenige Wochen dauern sollen. Aber weil das Volk Gott nicht vertraut, dauert sie 40 Jahre. Eine ganze Generation stirbt in der Wüste.
+Es ist ein Buch über Murren und Zweifel, über Aufstände und Strafen, aber auch über Gottes Geduld und Treue. Hier steht auch der berühmte Segen: „Der HERR segne dich und behüte dich“ (4. Mose 6,24–26).
+
+---
+
+### Gott befiehlt die Zählung (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose in der Wüste Sinai, im Zelt der Begegnung.
+Es war am ersten Tag des zweiten Monats im zweiten Jahr, nachdem sie aus dem Land Ägypten ausgezogen waren. Er sagte:
+<sup>2</sup>„Zählt die ganze Gemeinde der Israeliten,
+nach ihren Sippen und nach ihren Familien,
+nach der Zahl der Namen, alle Männer, einen nach dem anderen,
+<sup>3</sup>von 20 Jahren an und älter, alle in Israel, die in den Krieg ziehen können.
+Du und Aaron sollt sie nach ihren Heeresgruppen zählen.
+<sup>4</sup>Bei euch soll aus jedem Stamm ein Mann sein,
+jeder ein Oberhaupt seiner Familie.
+
+> **Was bedeutet das?**
+> Seit dem Auszug aus Ägypten ist etwas mehr als ein Jahr vergangen. Das Volk hat am Sinai die Gebote bekommen und das Heiligtum gebaut. Jetzt soll es weiterziehen, in das versprochene Land.
+> Dafür wird gezählt, wie viele Männer kämpfen können. Israel ist jetzt nicht mehr eine Gruppe von entlaufenen Sklaven, sondern ein geordnetes Volk.
+> „Nach der Zahl der Namen“: Jeder wird mit seinem Namen gezählt. Für Gott ist niemand nur eine Nummer.
+
+---
+
+### Die Helfer aus jedem Stamm (Vers 5–16)
+
+<sup>5</sup>Das sind die Namen der Männer, die euch helfen sollen:
+Vom Stamm Ruben: Elizur, der Sohn von Schedeur.
+<sup>6</sup>Vom Stamm Simeon: Schelumiël, der Sohn von Zurischaddai.
+<sup>7</sup>Vom Stamm Juda: Nachschon, der Sohn von Amminadab.
+<sup>8</sup>Vom Stamm Issachar: Netanel, der Sohn von Zuar.
+<sup>9</sup>Vom Stamm Sebulon: Eliab, der Sohn von Helon.
+<sup>10</sup>Von den Söhnen Josefs:
+vom Stamm Efraim: Elischama, der Sohn von Ammihud;
+vom Stamm Manasse: Gamliël, der Sohn von Pedazur.
+<sup>11</sup>Vom Stamm Benjamin: Abidan, der Sohn von Gidoni.
+<sup>12</sup>Vom Stamm Dan: Ahiëser, der Sohn von Ammischaddai.
+<sup>13</sup>Vom Stamm Ascher: Pagiël, der Sohn von Ochran.
+<sup>14</sup>Vom Stamm Gad: Eljasaf, der Sohn von Deuël.
+<sup>15</sup>Vom Stamm Naftali: Ahira, der Sohn von Enan.“
+<sup>16</sup>Das waren die Männer, die aus der Gemeinde berufen wurden.
+Sie waren die Anführer der Stämme ihrer Väter.
+Sie waren die Oberhäupter der Tausendschaften Israels.
+
+> **Was bedeutet das?**
+> Jeder Stamm hat einen Anführer. Diese Namen kommen im 4. Buch Mose noch öfter vor, zum Beispiel in Kapitel 7.
+> Nachschon aus dem Stamm Juda ist ein Vorfahre von König David und damit auch von Jesus (Rut 4,20–22; Matthäus 1,4).
+> Josef bekommt zwei Stämme, Efraim und Manasse. Das sind die Namen seiner Söhne (1. Mose 48). Der Stamm Levi fehlt in dieser Liste. Warum, wird am Ende des Kapitels erklärt.
+> Viele Namen enthalten Gottesnamen, zum Beispiel „El“ (Gott) oder „Schaddai“ (der Allmächtige). „Elizur“ bedeutet „Mein Gott ist ein Fels“.
+
+---
+
+### Die Zählung beginnt (Vers 17–19)
+
+<sup>17</sup>Mose und Aaron nahmen diese Männer, die mit Namen genannt waren.
+<sup>18</sup>Am ersten Tag des zweiten Monats versammelten sie die ganze Gemeinde.
+Und die Leute gaben ihre Abstammung an, nach ihren Sippen und nach ihren Familien,
+nach der Zahl der Namen, von 20 Jahren an und älter, einer nach dem anderen.
+<sup>19</sup>Wie der HERR es Mose befohlen hatte, so zählte er sie in der Wüste Sinai.
+
+---
+
+### Die Zahlen der zwölf Stämme (Vers 20–43)
+
+<sup>20</sup>Die Nachkommen von Ruben, dem Erstgeborenen Israels, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen, einer nach dem anderen,
+alle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>21</sup>Die Gezählten vom Stamm Ruben waren 46.500.
+
+<sup>22</sup>Von den Nachkommen Simeons, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, die von ihm Gezählten, nach der Zahl der Namen, einer nach dem anderen,
+alle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>23</sup>Die Gezählten vom Stamm Simeon waren 59.300.
+
+<sup>24</sup>Von den Nachkommen Gads, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>25</sup>Die Gezählten vom Stamm Gad waren 45.650.
+
+<sup>26</sup>Von den Nachkommen Judas, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>27</sup>Die Gezählten vom Stamm Juda waren 74.600.
+
+<sup>28</sup>Von den Nachkommen Issachars, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>29</sup>Die Gezählten vom Stamm Issachar waren 54.400.
+
+<sup>30</sup>Von den Nachkommen Sebulons, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>31</sup>Die Gezählten vom Stamm Sebulon waren 57.400.
+
+<sup>32</sup>Von den Nachkommen Josefs:
+Von den Nachkommen Efraims, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>33</sup>Die Gezählten vom Stamm Efraim waren 40.500.
+
+<sup>34</sup>Von den Nachkommen Manasses, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>35</sup>Die Gezählten vom Stamm Manasse waren 32.200.
+
+<sup>36</sup>Von den Nachkommen Benjamins, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>37</sup>Die Gezählten vom Stamm Benjamin waren 35.400.
+
+<sup>38</sup>Von den Nachkommen Dans, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>39</sup>Die Gezählten vom Stamm Dan waren 62.700.
+
+<sup>40</sup>Von den Nachkommen Aschers, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>41</sup>Die Gezählten vom Stamm Ascher waren 41.500.
+
+<sup>42</sup>Von den Nachkommen Naftalis, nach ihrer Abstammung,
+nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
+von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
+<sup>43</sup>Die Gezählten vom Stamm Naftali waren 53.400.
+
+> **Was bedeutet das?**
+> Für jeden Stamm wird dieselbe Formel wiederholt. Das kann beim Lesen ermüden. Aber es zeigt: Jeder Stamm ist gleich wichtig. Keiner wird vergessen oder abgekürzt.
+> Juda ist der größte Stamm. Später kommen aus Juda die Könige Israels.
+
+---
+
+### Die Gesamtzahl (Vers 44–46)
+
+<sup>44</sup>Das waren die Gezählten, die Mose und Aaron gezählt hatten,
+zusammen mit den zwölf Anführern Israels, je einer für seine Familie.
+<sup>45</sup>Alle Gezählten der Israeliten, nach ihren Familien, von 20 Jahren an und älter,
+alle in Israel, die in den Krieg ziehen konnten –
+<sup>46</sup>alle Gezählten waren 603.550.
+
+> **Was bedeutet das?**
+> 603.550 Männer, dazu Frauen, Kinder und alte Menschen. Das wären insgesamt vielleicht zwei Millionen Menschen. Das ist eine riesige Zahl für eine Wanderung durch die Wüste.
+> Manche Forscher denken, dass das hebräische Wort für „tausend“ (Elef) hier auch „Sippe“ oder „Truppe“ bedeuten könnte. Dann wären es viel weniger Menschen gewesen. Andere nehmen die Zahlen wörtlich. Die Bibel will vor allem zeigen: Gott hat sein Versprechen an Abraham gehalten. Aus einer Familie ist ein großes Volk geworden (1. Mose 15,5).
+> Dieselbe Zahl kam schon bei der Abgabe für das Heiligtum vor (2. Mose 38,26).
+
+---
+
+### Die Leviten werden nicht gezählt (Vers 47–54)
+
+<sup>47</sup>Aber die Leviten wurden nicht mit ihnen gezählt, nach dem Stamm ihrer Väter.
+<sup>48</sup>Denn der HERR hatte zu Mose gesagt:
+<sup>49</sup>„Nur den Stamm Levi sollst du nicht zählen.
+Du sollst keine Zählung von ihnen unter den Israeliten machen.
+<sup>50</sup>Sondern setz die Leviten über die Wohnung des Zeugnisses ein,
+über alle ihre Geräte und über alles, was dazugehört.
+Sie sollen die Wohnung und alle ihre Geräte tragen.
+Sie sollen sich um sie kümmern und rings um sie her lagern.
+<sup>51</sup>Wenn die Wohnung aufbrechen soll, sollen die Leviten sie abbauen.
+Und wenn die Wohnung aufgebaut werden soll, sollen die Leviten sie aufbauen.
+Ein Fremder, der sich ihr nähert, soll getötet werden.
+<sup>52</sup>Die Israeliten sollen ihre Zelte aufschlagen,
+jeder in seinem eigenen Lager und jeder bei seinem eigenen Banner, nach ihren Heeresgruppen.
+<sup>53</sup>Aber die Leviten sollen rings um die Wohnung des Zeugnisses lagern,
+damit kein Zorn über die Gemeinde der Israeliten kommt.
+Die Leviten sollen für die Wohnung des Zeugnisses verantwortlich sein.“
+<sup>54</sup>Die Israeliten taten es so.
+Sie taten alles, was der HERR Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Die Leviten ziehen nicht in den Krieg. Sie haben eine andere Aufgabe: Sie kümmern sich um das Heiligtum. Sie bauen es auf und ab und tragen es auf der Wanderung.
+> Sie lagern direkt rund um das Heiligtum, wie eine Schutzmauer. So kommt niemand dem Heiligen zu nahe, der nicht dazu berufen ist.
+> „Ein Fremder“ meint hier: jemand, der nicht zum Stamm Levi gehört.
+> Das Heiligtum steht in der Mitte des Lagers. Gott ist das Zentrum des Volkes.
