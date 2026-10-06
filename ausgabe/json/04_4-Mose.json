@@ -925,6 +925,517 @@
      "erklaerung": "Es gibt 22.273 Erstgeborene, aber nur 22.000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).\nFünf Schekel ist genau der Betrag, mit dem bis heute im Judentum ein erstgeborener Sohn „ausgelöst“ wird. Das Fest heißt „Pidjon ha-Ben“, die Auslösung des Sohnes. Es findet einen Monat nach der Geburt statt.\nSo ist jeder Erstgeborene vor Gott vertreten. Keiner wird vergessen."
     }
    ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Wie das Heiligtum getragen wird",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Kehatiter und die hochheiligen Dinge",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose und zu Aaron:",
+       "englisch_web": "Yahweh spoke to Moses and to Aaron, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Zählt unter den Leviten die Nachkommen Kehats, nach ihren Sippen und nach ihren Familien,",
+       "englisch_web": "“Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers’ houses,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "von 30 bis 50 Jahren,\nalle, die zum Dienst kommen, um die Arbeit am Zelt der Begegnung zu tun.",
+       "englisch_web": "from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Das ist der Dienst der Nachkommen Kehats am Zelt der Begegnung: Sie sind für die hochheiligen Dinge zuständig.",
+       "englisch_web": "“This is the service of the sons of Kohath in the Tent of Meeting, regarding the most holy things."
+      }
+     ],
+     "erklaerung": "In Kapitel 3 wurden alle Leviten ab einem Monat gezählt. Jetzt werden nur die gezählt, die wirklich arbeiten: die Männer zwischen 30 und 50 Jahren. In diesem Alter ist man stark genug und hat genug Erfahrung."
+    },
+    {
+     "ueberschrift": "Die Priester verhüllen die heiligen Dinge",
+     "vers_von": 5,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn das Lager aufbricht, sollen Aaron und seine Söhne hineingehen.\nSie sollen den Vorhang abnehmen, der das Allerheiligste abschirmt,\nund damit die Lade des Zeugnisses bedecken.",
+       "englisch_web": "When the camp moves forward, Aaron shall go in with his sons; and they shall take down the veil of the screen, cover the ark of the Testimony with it,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Darüber sollen sie eine Decke aus Robbenfell legen.\nUnd darüber sollen sie ein Tuch ganz aus blauem Stoff ausbreiten.\nDann sollen sie die Stangen einsetzen.",
+       "englisch_web": "put a covering of sealskin on it, spread a blue cloth over it, and put in its poles."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Über den Tisch der Schaubrote sollen sie ein blaues Tuch ausbreiten.\nDarauf sollen sie die Schüsseln, die Schalen, die Kannen und die Becher für das Trankopfer stellen.\nUnd das ständige Brot soll darauf bleiben.",
+       "englisch_web": "“On the table of show bread they shall spread a blue cloth, and put on it the dishes, the spoons, the bowls, and the cups with which to pour out; and the continual bread shall be on it."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darüber sollen sie ein karmesinrotes Tuch ausbreiten\nund es mit einer Decke aus Robbenfell zudecken.\nDann sollen sie die Stangen einsetzen.",
+       "englisch_web": "They shall spread on them a scarlet cloth, and cover it with a covering of sealskin, and shall put in its poles."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sie sollen ein blaues Tuch nehmen\nund damit den Leuchter für das Licht bedecken,\nseine Lampen, seine Dochtscheren, seine Schalen\nund alle seine Ölgefäße, die man für den Dienst daran braucht.",
+       "englisch_web": "“They shall take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil vessels, with which they minister to it."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sie sollen ihn und alle seine Geräte in eine Decke aus Robbenfell legen\nund ihn auf eine Tragestange legen.",
+       "englisch_web": "They shall put it and all its vessels within a covering of sealskin, and shall put it on the frame."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Über den goldenen Altar sollen sie ein blaues Tuch ausbreiten\nund ihn mit einer Decke aus Robbenfell zudecken.\nDann sollen sie die Stangen einsetzen.",
+       "englisch_web": "“On the golden altar they shall spread a blue cloth, and cover it with a covering of sealskin, and shall put in its poles."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie sollen alle Geräte nehmen, mit denen man im Heiligtum den Dienst tut,\nund sie in ein blaues Tuch legen,\nsie mit einer Decke aus Robbenfell zudecken\nund sie auf eine Tragestange legen.",
+       "englisch_web": "“They shall take all the vessels of ministry with which they minister in the sanctuary, and put them in a blue cloth, cover them with a covering of sealskin, and shall put them on the frame."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie sollen die Asche vom Altar entfernen\nund ein purpurrotes Tuch über ihn ausbreiten.",
+       "englisch_web": "“They shall take away the ashes from the altar, and spread a purple cloth on it."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Darauf sollen sie alle Geräte legen, die man für den Dienst daran braucht:\ndie Feuerbecken, die Fleischgabeln, die Schaufeln und die Schalen, alle Geräte des Altars.\nDarüber sollen sie eine Decke aus Robbenfell ausbreiten.\nDann sollen sie die Stangen einsetzen.",
+       "englisch_web": "They shall put on it all its vessels with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins—all the vessels of the altar; and they shall spread on it a covering of sealskin, and put in its poles."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wenn Aaron und seine Söhne beim Aufbruch des Lagers das Heiligtum und alle Geräte des Heiligtums ganz bedeckt haben,\ndanach sollen die Nachkommen Kehats kommen, um es zu tragen.\nAber sie dürfen das Heilige nicht berühren, sonst sterben sie.\nDas sollen die Nachkommen Kehats vom Zelt der Begegnung tragen.",
+       "englisch_web": "“When Aaron and his sons have finished covering the sanctuary and all the furniture of the sanctuary, as the camp moves forward; after that, the sons of Kohath shall come to carry it; but they shall not touch the sanctuary, lest they die. The sons of Kohath shall carry these things belonging to the Tent of Meeting."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Eleasar, der Sohn von Aaron, dem Priester, ist verantwortlich\nfür das Öl für das Licht, das duftende Räucherwerk, das ständige Speiseopfer und das Salböl.\nEr hat die Aufsicht über die ganze Wohnung und über alles, was darin ist,\nüber das Heiligtum und seine Geräte.“",
+       "englisch_web": "“The duty of Eleazar the son of Aaron the priest shall be the oil for the light, the sweet incense, the continual meal offering, and the anointing oil, the requirements of all the tabernacle, and of all that is in it, the sanctuary, and its furnishings.”"
+      }
+     ],
+     "erklaerung": "Die heiligen Gegenstände dürfen nicht offen durch die Wüste getragen werden. Die Priester verhüllen sie zuerst sorgfältig mit Tüchern und Fellen. Erst dann dürfen die Kehatiter sie tragen.\nIn der englischen Vorlage steht hier „sealskin“, also Robbenfell. In 2. Mose stand „Häute von Seekühen“. Gemeint ist dasselbe hebräische Wort. Man weiß nicht genau, welches Tier gemeint ist.\nDie Bundeslade wird zuletzt mit einem blauen Tuch bedeckt. Bei allen anderen Geräten ist das Fell außen. Nur die Lade leuchtet blau. So konnte jeder auf der Wanderung sehen, wo die Lade war.\nSpäter wurde die Lade einmal auf einem Wagen statt auf den Schultern getragen. Dabei berührte Usa sie und starb (2. Samuel 6,6–7). Diese Regeln wurden also sehr ernst genommen."
+    },
+    {
+     "ueberschrift": "Die Kehatiter sollen nicht sterben",
+     "vers_von": 17,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Der HERR sprach zu Mose und zu Aaron:",
+       "englisch_web": "Yahweh spoke to Moses and to Aaron, saying,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "„Lasst den Stamm der Sippen der Kehatiter nicht aus der Mitte der Leviten ausgerottet werden.",
+       "englisch_web": "“Don’t cut off the tribe of the families of the Kohathites from among the Levites;"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Sondern tut Folgendes für sie, damit sie leben und nicht sterben, wenn sie sich den hochheiligen Dingen nähern:\nAaron und seine Söhne sollen hineingehen\nund jedem Einzelnen seinen Dienst und seine Last zuweisen.",
+       "englisch_web": "but do this to them, that they may live, and not die, when they approach the most holy things: Aaron and his sons shall go in and appoint everyone to his service and to his burden;"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Aber sie selbst dürfen nicht hineingehen, um das Heilige auch nur einen Augenblick anzusehen.\nSonst sterben sie.“",
+       "englisch_web": "but they shall not go in to see the sanctuary even for a moment, lest they die.”"
+      }
+     ],
+     "erklaerung": "Gott sorgt sich um die Kehatiter. Ihre Arbeit ist gefährlich, weil sie so nahe am Heiligen ist. Darum bekommen sie klare Anweisungen, die sie schützen.\nDie Regeln sind nicht dazu da, Menschen zu bestrafen, sondern um sie am Leben zu erhalten."
+    },
+    {
+     "ueberschrift": "Die Gerschoniter",
+     "vers_von": 21,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "„Zähl auch die Nachkommen Gerschons, nach ihren Familien und nach ihren Sippen.",
+       "englisch_web": "“Take a census of the sons of Gershon also, by their fathers’ houses, by their families;"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Von 30 bis 50 Jahren sollst du sie zählen,\nalle, die zum Dienst kommen, um die Arbeit am Zelt der Begegnung zu tun.",
+       "englisch_web": "you shall count them from thirty years old and upward until fifty years old: all who enter in to wait on the service, to do the work in the Tent of Meeting."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Das ist der Dienst der Sippen der Gerschoniter, beim Dienen und beim Tragen:",
+       "englisch_web": "“This is the service of the families of the Gershonites, in serving and in bearing burdens:"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Sie sollen die Zeltbahnen der Wohnung tragen und das Zelt der Begegnung,\nseine Decke und die Decke aus Robbenfell, die oben darauf liegt,\nden Vorhang für den Eingang des Zeltes der Begegnung,",
+       "englisch_web": "they shall carry the curtains of the tabernacle and the Tent of Meeting, its covering, the covering of sealskin that is on it, the screen for the door of the Tent of Meeting,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "die Behänge des Vorhofs,\nden Vorhang für den Eingang am Tor des Vorhofs, der rings um die Wohnung und den Altar ist,\nihre Seile und alle Geräte für ihren Dienst\nund alles, was damit zu tun ist. Das ist ihr Dienst.",
+       "englisch_web": "the hangings of the court, the screen for the door of the gate of the court which is by the tabernacle and around the altar, their cords, and all the instruments of their service, and whatever shall be done with them. They shall serve in there."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Nach dem Befehl von Aaron und seinen Söhnen soll der ganze Dienst der Gerschoniter geschehen,\nbei allem, was sie tragen, und bei allem, was sie tun.\nIhr sollt ihnen genau zuweisen, wofür sie verantwortlich sind.",
+       "englisch_web": "At the commandment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burden and in all their service; and you shall appoint their duty to them in all their responsibilities."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Das ist der Dienst der Sippen der Gerschoniter am Zelt der Begegnung.\nIhre Aufgaben sollen unter der Aufsicht von Itamar stehen, dem Sohn von Aaron, dem Priester.",
+       "englisch_web": "This is the service of the families of the sons of the Gershonites in the Tent of Meeting. Their duty shall be under the hand of Ithamar the son of Aaron the priest."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Die Merariter",
+     "vers_von": 29,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 29,
+       "leichte_sprache": "Die Nachkommen Meraris sollst du nach ihren Sippen und nach ihren Familien zählen.",
+       "englisch_web": "“As for the sons of Merari, you shall count them by their families, by their fathers’ houses;"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Von 30 bis 50 Jahren sollst du sie zählen,\njeden, der zum Dienst kommt, um die Arbeit am Zelt der Begegnung zu tun.",
+       "englisch_web": "you shall count them from thirty years old and upward even to fifty years old—everyone who enters on the service, to do the work of the Tent of Meeting."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Das ist die Last, die sie tragen sollen, bei ihrem ganzen Dienst am Zelt der Begegnung:\ndie Bretter der Wohnung, ihre Querstangen, ihre Säulen und ihre Sockel,",
+       "englisch_web": "This is the duty of their burden, according to all their service in the Tent of Meeting: the tabernacle’s boards, its bars, its pillars, its sockets,"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "die Säulen des Vorhofs ringsherum, ihre Sockel, ihre Zeltpflöcke und ihre Seile,\nmit allen ihren Geräten und mit allem, was zu ihrem Dienst gehört.\nIhr sollt ihnen die Geräte, die sie tragen sollen, mit Namen zuweisen.",
+       "englisch_web": "the pillars of the court around it, their sockets, their pins, their cords, with all their instruments, and with all their service. You shall appoint the instruments of the duty of their burden to them by name."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Das ist der Dienst der Sippen der Nachkommen Meraris, ihr ganzer Dienst am Zelt der Begegnung,\nunter der Aufsicht von Itamar, dem Sohn von Aaron, dem Priester.“",
+       "englisch_web": "This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest.”"
+      }
+     ],
+     "erklaerung": "„Mit Namen zuweisen“ heißt: Jeder weiß genau, welches Teil er tragen soll. Nichts geht verloren, nichts wird vergessen.\nJeder hat seine Aufgabe, und jede Aufgabe ist wichtig. Im Neuen Testament vergleicht Paulus die Gemeinde mit einem Körper. Jeder Teil hat seine eigene Aufgabe, und keiner ist unwichtig (1. Korinther 12)."
+    },
+    {
+     "ueberschrift": "Die Zahlen der arbeitenden Leviten",
+     "vers_von": 34,
+     "vers_bis": 49,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 34,
+       "leichte_sprache": "Mose, Aaron und die Anführer der Gemeinde zählten die Nachkommen der Kehatiter, nach ihren Sippen und nach ihren Familien,",
+       "englisch_web": "Moses and Aaron and the princes of the congregation counted the sons of the Kohathites by their families, and by their fathers’ houses,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "von 30 bis 50 Jahren,\njeden, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten.",
+       "englisch_web": "from thirty years old and upward even to fifty years old, everyone who entered into the service for work in the Tent of Meeting."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Ihre Gezählten, nach ihren Sippen, waren 2750.",
+       "englisch_web": "Those who were counted of them by their families were two thousand seven hundred fifty."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Das waren die Gezählten der Sippen der Kehatiter, alle, die am Zelt der Begegnung dienten,\ndie Mose und Aaron nach dem Befehl des HERRN durch Mose zählten.",
+       "englisch_web": "These are those who were counted of the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh by Moses."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Die Gezählten der Nachkommen Gerschons, nach ihren Sippen und nach ihren Familien,",
+       "englisch_web": "Those who were counted of the sons of Gershon, by their families, and by their fathers’ houses,"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "von 30 bis 50 Jahren,\njeder, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten,",
+       "englisch_web": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "ihre Gezählten, nach ihren Sippen und nach ihren Familien, waren 2630.",
+       "englisch_web": "even those who were counted of them, by their families, by their fathers’ houses, were two thousand six hundred thirty."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Das waren die Gezählten der Sippen der Nachkommen Gerschons, alle, die am Zelt der Begegnung dienten,\ndie Mose und Aaron nach dem Befehl des HERRN zählten.",
+       "englisch_web": "These are those who were counted of the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Die Gezählten der Sippen der Nachkommen Meraris, nach ihren Sippen und nach ihren Familien,",
+       "englisch_web": "Those who were counted of the families of the sons of Merari, by their families, by their fathers’ houses,"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "von 30 bis 50 Jahren,\njeder, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten,",
+       "englisch_web": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "ihre Gezählten, nach ihren Sippen, waren 3200.",
+       "englisch_web": "even those who were counted of them by their families, were three thousand two hundred."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Das waren die Gezählten der Sippen der Nachkommen Meraris,\ndie Mose und Aaron nach dem Befehl des HERRN durch Mose zählten.",
+       "englisch_web": "These are those who were counted of the families of the sons of Merari, whom Moses and Aaron counted according to the commandment of Yahweh by Moses."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Alle Gezählten der Leviten, die Mose, Aaron und die Anführer Israels zählten,\nnach ihren Sippen und nach ihren Familien,",
+       "englisch_web": "All those who were counted of the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their fathers’ houses,"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "von 30 bis 50 Jahren,\njeder, der kam, um den Dienst zu tun und die Lasten am Zelt der Begegnung zu tragen,",
+       "englisch_web": "from thirty years old and upward even to fifty years old, everyone who entered in to do the work of service and the work of bearing burdens in the Tent of Meeting,"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "ihre Gezählten waren 8580.",
+       "englisch_web": "even those who were counted of them, were eight thousand five hundred eighty."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Nach dem Befehl des HERRN wurden sie durch Mose gezählt,\njeder nach seinem Dienst und nach seiner Last.\nSo wurden sie von ihm gezählt, wie der HERR es Mose befohlen hatte.",
+       "englisch_web": "According to the commandment of Yahweh they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as Yahweh commanded Moses."
+      }
+     ],
+     "erklaerung": "2750 + 2630 + 3200 = 8580. Die Zahl stimmt.\nInteressant: Bei den Meraritern sind es die meisten Arbeiter. Sie tragen ja auch die schwersten Teile."
+    }
+   ]
+  },
+  {
+   "kapitel": 5,
+   "titel": "Reinheit im Lager, Wiedergutmachung, Verdacht auf Ehebruch",
+   "abschnitte": [
+    {
+     "ueberschrift": "Unreine außerhalb des Lagers",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Befiehl den Israeliten, dass sie aus dem Lager schicken:\njeden Aussätzigen, jeden, der einen Ausfluss hat,\nund jeden, der durch einen Toten unrein geworden ist.",
+       "englisch_web": "“Command the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever is unclean by a corpse."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Männer und Frauen sollt ihr hinausschicken, vor das Lager,\ndamit sie ihr Lager nicht unrein machen, in dessen Mitte ich wohne.“",
+       "englisch_web": "You shall put both male and female outside of the camp so that they don’t defile their camp, in the midst of which I dwell.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Israeliten taten es und schickten sie hinaus, vor das Lager.\nWie der HERR zu Mose gesagt hatte, so taten es die Israeliten.",
+       "englisch_web": "The children of Israel did so, and put them outside of the camp; as Yahweh spoke to Moses, so the children of Israel did."
+      }
+     ],
+     "erklaerung": "Gott wohnt mitten im Lager. Darum soll das Lager rein sein. Wer unrein ist, muss für eine Zeit draußen bleiben, bis er wieder rein ist.\nDas war auch ein Schutz vor ansteckenden Krankheiten. Für die Betroffenen war es aber auch eine schwere Zeit. Die Regeln für Aussatz und Ausflüsse stehen in 3. Mose 13–15."
+    },
+    {
+     "ueberschrift": "Bekennen und wiedergutmachen",
+     "vers_von": 5,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "„Sprich zu den Israeliten:\n‚Wenn ein Mann oder eine Frau irgendeine Sünde begeht, wie Menschen sie begehen,\nund dadurch dem HERRN untreu wird,\ndann ist dieser Mensch schuldig.",
+       "englisch_web": "“Speak to the children of Israel: ‘When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er soll seine Sünde bekennen, die er begangen hat.\nUnd er soll den Schaden vollständig wiedergutmachen\nund noch ein Fünftel dazulegen.\nEr soll es dem geben, an dem er schuldig geworden ist.",
+       "englisch_web": "then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him in respect of whom he has been guilty."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wenn der Mann aber keinen Verwandten hat, dem man den Schaden ersetzen kann,\ndann soll der Ersatz dem HERRN gehören, also dem Priester,\nzusätzlich zum Schafbock der Versöhnung, mit dem für ihn Versöhnung geschaffen wird.",
+       "englisch_web": "But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to Yahweh shall be the priest’s, in addition to the ram of the atonement, by which atonement shall be made for him."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Jedes Hebeopfer von allen heiligen Gaben der Israeliten, die sie dem Priester bringen, soll ihm gehören.",
+       "englisch_web": "Every heave offering of all the holy things of the children of Israel, which they present to the priest, shall be his."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die heiligen Gaben jedes Einzelnen sollen dem Priester gehören.\nWas jemand dem Priester gibt, soll ihm gehören.‘“",
+       "englisch_web": "Every man’s holy things shall be his; whatever any man gives the priest, it shall be his.’”"
+      }
+     ],
+     "erklaerung": "Das ist eine Ergänzung zu 3. Mose 6,1–7. Wer einem anderen geschadet hat, soll seine Schuld offen bekennen, den Schaden ersetzen und noch 20 Prozent dazulegen.\nNeu ist hier: Was ist, wenn der Geschädigte gestorben ist und keine Verwandten hat? Dann bekommt das Geld der Priester. Die Wiedergutmachung fällt nicht weg, nur weil der Betroffene nicht mehr da ist.\nWer einem Menschen schadet, wird auch „dem HERRN untreu“. Unrecht gegen Menschen ist auch Unrecht gegen Gott."
+    },
+    {
+     "ueberschrift": "Wenn ein Mann seine Frau verdächtigt",
+     "vers_von": 11,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Der HERR sprach zu Mose:",
+       "englisch_web": "Yahweh spoke to Moses, saying,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Sprich zu den Israeliten und sag ihnen:\n‚Wenn die Frau eines Mannes vom rechten Weg abweicht und ihm untreu wird,",
+       "englisch_web": "“Speak to the children of Israel, and tell them: ‘If any man’s wife goes astray and is unfaithful to him,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "und ein anderer Mann schläft mit ihr,\nund es bleibt vor den Augen ihres Mannes verborgen und geheim,\nund sie hat sich unrein gemacht,\naber es gibt keinen Zeugen gegen sie,\nund sie wurde nicht dabei ertappt,",
+       "englisch_web": "and a man lies with her carnally, and it is hidden from the eyes of her husband and this is kept concealed, and she is defiled, there is no witness against her, and she isn’t taken in the act;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "und der Geist der Eifersucht kommt über ihn,\nund er ist eifersüchtig auf seine Frau, und sie hat sich wirklich unrein gemacht,\noder der Geist der Eifersucht kommt über ihn,\nund er ist eifersüchtig auf seine Frau, aber sie hat sich nicht unrein gemacht,",
+       "englisch_web": "and the spirit of jealousy comes on him, and he is jealous of his wife and she is defiled; or if the spirit of jealousy comes on him, and he is jealous of his wife and she isn’t defiled;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "dann soll der Mann seine Frau zum Priester bringen.\nUnd er soll ihre Opfergabe für sie bringen:\ngut 2 Liter Gerstenmehl.\nEr soll kein Öl darauf gießen und keinen Weihrauch darauf legen.\nDenn es ist ein Speiseopfer der Eifersucht,\nein Speiseopfer der Erinnerung, das Schuld in Erinnerung bringt.",
+       "englisch_web": "then the man shall bring his wife to the priest, and shall bring her offering for her: one tenth of an ephah of barley meal. He shall pour no oil on it, nor put frankincense on it, for it is a meal offering of jealousy, a meal offering of memorial, bringing iniquity to memory."
+      }
+     ],
+     "erklaerung": "In der Bibel steht: ein Zehntel Efa Gerstenmehl.\nHier geht es um einen Fall, der für uns heute schwer zu lesen ist. Ein Mann verdächtigt seine Frau, ihn betrogen zu haben. Aber es gibt keine Beweise und keine Zeugen.\nVers 14 sagt ausdrücklich: Vielleicht hat sie wirklich Ehebruch begangen. Vielleicht ist der Mann aber auch nur grundlos eifersüchtig. Beides ist möglich.\nDamals konnte ein eifersüchtiger Mann seiner Frau sehr viel Leid antun. Er konnte sie verstoßen oder sogar Gewalt anwenden. Dieses Verfahren nimmt die Sache aus seiner Hand. Er darf nicht selbst richten, sondern muss die Frau zum Priester bringen. Dort entscheidet Gott."
+    },
+    {
+     "ueberschrift": "Das bittere Wasser",
+     "vers_von": 16,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Der Priester soll sie herantreten lassen und sie vor den HERRN stellen.",
+       "englisch_web": "The priest shall bring her near, and set her before Yahweh."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der Priester soll heiliges Wasser in ein Tongefäß nehmen.\nUnd der Priester soll etwas von dem Staub nehmen, der auf dem Boden der Wohnung liegt,\nund ihn in das Wasser streuen.",
+       "englisch_web": "The priest shall take holy water in an earthen vessel; and the priest shall take some of the dust that is on the floor of the tabernacle and put it into the water."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Der Priester soll die Frau vor den HERRN stellen\nund das Haar ihres Kopfes lösen.\nEr soll ihr das Speiseopfer der Erinnerung in die Hände legen, das Speiseopfer der Eifersucht.\nUnd der Priester soll das bittere Wasser in der Hand haben, das den Fluch bringt.",
+       "englisch_web": "The priest shall set the woman before Yahweh, and let the hair of the woman’s head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy. The priest shall have in his hand the water of bitterness that brings a curse."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der Priester soll die Frau schwören lassen und zu ihr sagen:\n„Wenn kein Mann mit dir geschlafen hat\nund wenn du nicht vom rechten Weg abgewichen bist und dich unrein gemacht hast,\nwährend du unter der Obhut deines Mannes warst,\ndann soll dir dieses bittere Wasser, das den Fluch bringt, nicht schaden.",
+       "englisch_web": "The priest shall cause her to take an oath and shall tell the woman, “If no man has lain with you, and if you haven’t gone aside to uncleanness, being under your husband’s authority, be free from this water of bitterness that brings a curse."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Aber wenn du vom rechten Weg abgewichen bist,\nwährend du unter der Obhut deines Mannes warst,\nund wenn du dich unrein gemacht hast\nund ein anderer Mann als dein Ehemann mit dir geschlafen hat –“",
+       "englisch_web": "But if you have gone astray, being under your husband’s authority, and if you are defiled, and some man has lain with you besides your husband—”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "dann soll der Priester die Frau den Fluchschwur schwören lassen.\nUnd der Priester soll zu der Frau sagen:\n„Der HERR mache dich zum Fluch und zum Schwurwort in deinem Volk,\nindem der HERR deine Hüfte schwinden und deinen Bauch anschwellen lässt.",
+       "englisch_web": "then the priest shall cause the woman to swear with the oath of cursing, and the priest shall tell the woman, “May Yahweh make you a curse and an oath among your people, when Yahweh allows your thigh to fall away, and your body to swell;"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Dieses Wasser, das den Fluch bringt, soll in deinen Leib kommen\nund deinen Bauch anschwellen und deine Hüfte schwinden lassen.“\nUnd die Frau soll sagen: „Amen, Amen.“",
+       "englisch_web": "and this water that brings a curse will go into your bowels, and make your body swell, and your thigh fall away.” The woman shall say, “Amen, Amen.”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Der Priester soll diese Flüche in ein Buch schreiben\nund sie in das bittere Wasser abwaschen.",
+       "englisch_web": "“‘The priest shall write these curses in a book, and he shall wipe them into the water of bitterness."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Er soll die Frau das bittere Wasser trinken lassen, das den Fluch bringt.\nUnd das Wasser, das den Fluch bringt, soll in sie kommen und bitter werden.",
+       "englisch_web": "He shall make the woman drink the water of bitterness that causes the curse; and the water that causes the curse shall enter into her and become bitter."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Der Priester soll das Speiseopfer der Eifersucht aus der Hand der Frau nehmen,\ndas Speiseopfer vor dem HERRN hin- und herschwingen und es zum Altar bringen.",
+       "englisch_web": "The priest shall take the meal offering of jealousy out of the woman’s hand, and shall wave the meal offering before Yahweh, and bring it to the altar."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Der Priester soll eine Handvoll von dem Speiseopfer als Gedenkteil nehmen\nund es auf dem Altar verbrennen.\nDanach soll er die Frau das Wasser trinken lassen.",
+       "englisch_web": "The priest shall take a handful of the meal offering, as its memorial portion, and burn it on the altar, and afterward shall make the woman drink the water."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Wenn er sie das Wasser hat trinken lassen, dann wird Folgendes geschehen:\nWenn sie sich unrein gemacht hat und ihrem Mann untreu war,\ndann wird das Wasser, das den Fluch bringt, in sie kommen und bitter werden.\nIhr Bauch wird anschwellen und ihre Hüfte schwinden.\nUnd die Frau wird zum Fluch in ihrem Volk.",
+       "englisch_web": "When he has made her drink the water, then it shall happen, if she is defiled and has committed a trespass against her husband, that the water that causes the curse will enter into her and become bitter, and her body will swell, and her thigh will fall away; and the woman will be a curse among her people."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Wenn die Frau sich aber nicht unrein gemacht hat, sondern rein ist,\ndann soll sie frei sein und Kinder bekommen können.",
+       "englisch_web": "If the woman isn’t defiled, but is clean; then she shall be free, and shall conceive offspring."
+      }
+     ],
+     "erklaerung": "Das Wasser besteht aus heiligem Wasser, Staub vom Boden des Heiligtums und der abgewaschenen Tinte der Flüche. Natürlich ist dieses Wasser nicht giftig. Wenn etwas passiert, dann nur durch Gott selbst.\nWas „Hüfte schwinden und Bauch anschwellen“ genau bedeutet, weiß man nicht sicher. Vielleicht ist gemeint, dass die Frau unfruchtbar wird oder eine Fehlgeburt hat. „Hüfte“ ist hier wahrscheinlich ein zurückhaltendes Wort für die Geschlechtsorgane.\n„Amen“ heißt: „So soll es sein.“ Die Frau stimmt dem Schwur selbst zu.\nWenn die Frau unschuldig ist, wird sie öffentlich freigesprochen. Niemand darf ihr dann mehr etwas vorwerfen. Das war ein Schutz für die Frau gegen falsche Verdächtigungen."
+    },
+    {
+     "ueberschrift": "Zusammenfassung",
+     "vers_von": 29,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 29,
+       "leichte_sprache": "Das ist die Vorschrift bei Eifersucht,\nwenn eine Frau, die unter der Obhut ihres Mannes steht, vom rechten Weg abweicht und sich unrein macht,",
+       "englisch_web": "“‘This is the law of jealousy, when a wife, being under her husband, goes astray, and is defiled,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "oder wenn der Geist der Eifersucht über einen Mann kommt und er auf seine Frau eifersüchtig ist.\nDann soll er die Frau vor den HERRN stellen,\nund der Priester soll an ihr diese ganze Vorschrift ausführen.",
+       "englisch_web": "or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before Yahweh, and the priest shall execute on her all this law."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Der Mann soll frei von Schuld sein.\nAber diese Frau soll ihre Schuld tragen.‘“",
+       "englisch_web": "The man shall be free from iniquity, and that woman shall bear her iniquity.’”"
+      }
+     ],
+     "erklaerung": "Für uns heute ist dieses Verfahren sehr schwer zu ertragen. Es ist einseitig: Nur die Frau wird geprüft, nicht der Mann. Es gibt kein solches Verfahren für einen Mann, den seine Frau verdächtigt. Das zeigt die ungleiche Stellung von Männern und Frauen in der damaligen Zeit.\nAuch die jüdischen Gelehrten haben dieses Verfahren kritisch gesehen. Sie haben es mit vielen Bedingungen eingeschränkt. Im ersten Jahrhundert nach Christus hat Rabbi Jochanan ben Sakkai es ganz abgeschafft. Er sagte: Als es immer mehr untreue Männer gab, durfte man das Wasser nicht mehr bei den Frauen anwenden (Mischna Sota 9,9).\nJesus hat Frauen und Männer gleich ernst genommen. Er sagte, dass auch ein Mann, der eine andere Frau begehrt, schon Ehebruch begeht (Matthäus 5,28). Und er hat eine Frau, die beim Ehebruch ertappt wurde, vor der Steinigung bewahrt (Johannes 8,1–11)."
+    }
+   ]
   }
  ]
 }

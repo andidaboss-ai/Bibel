@@ -17820,3 +17820,315 @@ nach dem Wort des HERRN, wie der HERR es Mose befohlen hatte.
 > Es gibt 22.273 Erstgeborene, aber nur 22.000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).
 > Fünf Schekel ist genau der Betrag, mit dem bis heute im Judentum ein erstgeborener Sohn „ausgelöst“ wird. Das Fest heißt „Pidjon ha-Ben“, die Auslösung des Sohnes. Es findet einen Monat nach der Geburt statt.
 > So ist jeder Erstgeborene vor Gott vertreten. Keiner wird vergessen.
+
+## 4. Mose – Kapitel 4
+#### Wie das Heiligtum getragen wird
+
+---
+
+### Die Kehatiter und die hochheiligen Dinge (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>2</sup>„Zählt unter den Leviten die Nachkommen Kehats, nach ihren Sippen und nach ihren Familien,
+<sup>3</sup>von 30 bis 50 Jahren,
+alle, die zum Dienst kommen, um die Arbeit am Zelt der Begegnung zu tun.
+<sup>4</sup>Das ist der Dienst der Nachkommen Kehats am Zelt der Begegnung: Sie sind für die hochheiligen Dinge zuständig.
+
+> **Was bedeutet das?**
+> In Kapitel 3 wurden alle Leviten ab einem Monat gezählt. Jetzt werden nur die gezählt, die wirklich arbeiten: die Männer zwischen 30 und 50 Jahren. In diesem Alter ist man stark genug und hat genug Erfahrung.
+
+---
+
+### Die Priester verhüllen die heiligen Dinge (Vers 5–16)
+
+<sup>5</sup>Wenn das Lager aufbricht, sollen Aaron und seine Söhne hineingehen.
+Sie sollen den Vorhang abnehmen, der das Allerheiligste abschirmt,
+und damit die Lade des Zeugnisses bedecken.
+<sup>6</sup>Darüber sollen sie eine Decke aus Robbenfell legen.
+Und darüber sollen sie ein Tuch ganz aus blauem Stoff ausbreiten.
+Dann sollen sie die Stangen einsetzen.
+
+<sup>7</sup>Über den Tisch der Schaubrote sollen sie ein blaues Tuch ausbreiten.
+Darauf sollen sie die Schüsseln, die Schalen, die Kannen und die Becher für das Trankopfer stellen.
+Und das ständige Brot soll darauf bleiben.
+<sup>8</sup>Darüber sollen sie ein karmesinrotes Tuch ausbreiten
+und es mit einer Decke aus Robbenfell zudecken.
+Dann sollen sie die Stangen einsetzen.
+
+<sup>9</sup>Sie sollen ein blaues Tuch nehmen
+und damit den Leuchter für das Licht bedecken,
+seine Lampen, seine Dochtscheren, seine Schalen
+und alle seine Ölgefäße, die man für den Dienst daran braucht.
+<sup>10</sup>Sie sollen ihn und alle seine Geräte in eine Decke aus Robbenfell legen
+und ihn auf eine Tragestange legen.
+
+<sup>11</sup>Über den goldenen Altar sollen sie ein blaues Tuch ausbreiten
+und ihn mit einer Decke aus Robbenfell zudecken.
+Dann sollen sie die Stangen einsetzen.
+<sup>12</sup>Sie sollen alle Geräte nehmen, mit denen man im Heiligtum den Dienst tut,
+und sie in ein blaues Tuch legen,
+sie mit einer Decke aus Robbenfell zudecken
+und sie auf eine Tragestange legen.
+
+<sup>13</sup>Sie sollen die Asche vom Altar entfernen
+und ein purpurrotes Tuch über ihn ausbreiten.
+<sup>14</sup>Darauf sollen sie alle Geräte legen, die man für den Dienst daran braucht:
+die Feuerbecken, die Fleischgabeln, die Schaufeln und die Schalen, alle Geräte des Altars.
+Darüber sollen sie eine Decke aus Robbenfell ausbreiten.
+Dann sollen sie die Stangen einsetzen.
+
+<sup>15</sup>Wenn Aaron und seine Söhne beim Aufbruch des Lagers das Heiligtum und alle Geräte des Heiligtums ganz bedeckt haben,
+danach sollen die Nachkommen Kehats kommen, um es zu tragen.
+Aber sie dürfen das Heilige nicht berühren, sonst sterben sie.
+Das sollen die Nachkommen Kehats vom Zelt der Begegnung tragen.
+
+<sup>16</sup>Eleasar, der Sohn von Aaron, dem Priester, ist verantwortlich
+für das Öl für das Licht, das duftende Räucherwerk, das ständige Speiseopfer und das Salböl.
+Er hat die Aufsicht über die ganze Wohnung und über alles, was darin ist,
+über das Heiligtum und seine Geräte.“
+
+> **Was bedeutet das?**
+> Die heiligen Gegenstände dürfen nicht offen durch die Wüste getragen werden. Die Priester verhüllen sie zuerst sorgfältig mit Tüchern und Fellen. Erst dann dürfen die Kehatiter sie tragen.
+> In der englischen Vorlage steht hier „sealskin“, also Robbenfell. In 2. Mose stand „Häute von Seekühen“. Gemeint ist dasselbe hebräische Wort. Man weiß nicht genau, welches Tier gemeint ist.
+> Die Bundeslade wird zuletzt mit einem blauen Tuch bedeckt. Bei allen anderen Geräten ist das Fell außen. Nur die Lade leuchtet blau. So konnte jeder auf der Wanderung sehen, wo die Lade war.
+> Später wurde die Lade einmal auf einem Wagen statt auf den Schultern getragen. Dabei berührte Usa sie und starb (2. Samuel 6,6–7). Diese Regeln wurden also sehr ernst genommen.
+
+---
+
+### Die Kehatiter sollen nicht sterben (Vers 17–20)
+
+<sup>17</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>18</sup>„Lasst den Stamm der Sippen der Kehatiter nicht aus der Mitte der Leviten ausgerottet werden.
+<sup>19</sup>Sondern tut Folgendes für sie, damit sie leben und nicht sterben, wenn sie sich den hochheiligen Dingen nähern:
+Aaron und seine Söhne sollen hineingehen
+und jedem Einzelnen seinen Dienst und seine Last zuweisen.
+<sup>20</sup>Aber sie selbst dürfen nicht hineingehen, um das Heilige auch nur einen Augenblick anzusehen.
+Sonst sterben sie.“
+
+> **Was bedeutet das?**
+> Gott sorgt sich um die Kehatiter. Ihre Arbeit ist gefährlich, weil sie so nahe am Heiligen ist. Darum bekommen sie klare Anweisungen, die sie schützen.
+> Die Regeln sind nicht dazu da, Menschen zu bestrafen, sondern um sie am Leben zu erhalten.
+
+---
+
+### Die Gerschoniter (Vers 21–28)
+
+<sup>21</sup>Der HERR sprach zu Mose:
+<sup>22</sup>„Zähl auch die Nachkommen Gerschons, nach ihren Familien und nach ihren Sippen.
+<sup>23</sup>Von 30 bis 50 Jahren sollst du sie zählen,
+alle, die zum Dienst kommen, um die Arbeit am Zelt der Begegnung zu tun.
+<sup>24</sup>Das ist der Dienst der Sippen der Gerschoniter, beim Dienen und beim Tragen:
+<sup>25</sup>Sie sollen die Zeltbahnen der Wohnung tragen und das Zelt der Begegnung,
+seine Decke und die Decke aus Robbenfell, die oben darauf liegt,
+den Vorhang für den Eingang des Zeltes der Begegnung,
+<sup>26</sup>die Behänge des Vorhofs,
+den Vorhang für den Eingang am Tor des Vorhofs, der rings um die Wohnung und den Altar ist,
+ihre Seile und alle Geräte für ihren Dienst
+und alles, was damit zu tun ist. Das ist ihr Dienst.
+<sup>27</sup>Nach dem Befehl von Aaron und seinen Söhnen soll der ganze Dienst der Gerschoniter geschehen,
+bei allem, was sie tragen, und bei allem, was sie tun.
+Ihr sollt ihnen genau zuweisen, wofür sie verantwortlich sind.
+<sup>28</sup>Das ist der Dienst der Sippen der Gerschoniter am Zelt der Begegnung.
+Ihre Aufgaben sollen unter der Aufsicht von Itamar stehen, dem Sohn von Aaron, dem Priester.
+
+---
+
+### Die Merariter (Vers 29–33)
+
+<sup>29</sup>Die Nachkommen Meraris sollst du nach ihren Sippen und nach ihren Familien zählen.
+<sup>30</sup>Von 30 bis 50 Jahren sollst du sie zählen,
+jeden, der zum Dienst kommt, um die Arbeit am Zelt der Begegnung zu tun.
+<sup>31</sup>Das ist die Last, die sie tragen sollen, bei ihrem ganzen Dienst am Zelt der Begegnung:
+die Bretter der Wohnung, ihre Querstangen, ihre Säulen und ihre Sockel,
+<sup>32</sup>die Säulen des Vorhofs ringsherum, ihre Sockel, ihre Zeltpflöcke und ihre Seile,
+mit allen ihren Geräten und mit allem, was zu ihrem Dienst gehört.
+Ihr sollt ihnen die Geräte, die sie tragen sollen, mit Namen zuweisen.
+<sup>33</sup>Das ist der Dienst der Sippen der Nachkommen Meraris, ihr ganzer Dienst am Zelt der Begegnung,
+unter der Aufsicht von Itamar, dem Sohn von Aaron, dem Priester.“
+
+> **Was bedeutet das?**
+> „Mit Namen zuweisen“ heißt: Jeder weiß genau, welches Teil er tragen soll. Nichts geht verloren, nichts wird vergessen.
+> Jeder hat seine Aufgabe, und jede Aufgabe ist wichtig. Im Neuen Testament vergleicht Paulus die Gemeinde mit einem Körper. Jeder Teil hat seine eigene Aufgabe, und keiner ist unwichtig (1. Korinther 12).
+
+---
+
+### Die Zahlen der arbeitenden Leviten (Vers 34–49)
+
+<sup>34</sup>Mose, Aaron und die Anführer der Gemeinde zählten die Nachkommen der Kehatiter, nach ihren Sippen und nach ihren Familien,
+<sup>35</sup>von 30 bis 50 Jahren,
+jeden, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten.
+<sup>36</sup>Ihre Gezählten, nach ihren Sippen, waren 2750.
+<sup>37</sup>Das waren die Gezählten der Sippen der Kehatiter, alle, die am Zelt der Begegnung dienten,
+die Mose und Aaron nach dem Befehl des HERRN durch Mose zählten.
+
+<sup>38</sup>Die Gezählten der Nachkommen Gerschons, nach ihren Sippen und nach ihren Familien,
+<sup>39</sup>von 30 bis 50 Jahren,
+jeder, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten,
+<sup>40</sup>ihre Gezählten, nach ihren Sippen und nach ihren Familien, waren 2630.
+<sup>41</sup>Das waren die Gezählten der Sippen der Nachkommen Gerschons, alle, die am Zelt der Begegnung dienten,
+die Mose und Aaron nach dem Befehl des HERRN zählten.
+
+<sup>42</sup>Die Gezählten der Sippen der Nachkommen Meraris, nach ihren Sippen und nach ihren Familien,
+<sup>43</sup>von 30 bis 50 Jahren,
+jeder, der zum Dienst kam, um am Zelt der Begegnung zu arbeiten,
+<sup>44</sup>ihre Gezählten, nach ihren Sippen, waren 3200.
+<sup>45</sup>Das waren die Gezählten der Sippen der Nachkommen Meraris,
+die Mose und Aaron nach dem Befehl des HERRN durch Mose zählten.
+
+<sup>46</sup>Alle Gezählten der Leviten, die Mose, Aaron und die Anführer Israels zählten,
+nach ihren Sippen und nach ihren Familien,
+<sup>47</sup>von 30 bis 50 Jahren,
+jeder, der kam, um den Dienst zu tun und die Lasten am Zelt der Begegnung zu tragen,
+<sup>48</sup>ihre Gezählten waren 8580.
+<sup>49</sup>Nach dem Befehl des HERRN wurden sie durch Mose gezählt,
+jeder nach seinem Dienst und nach seiner Last.
+So wurden sie von ihm gezählt, wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> 2750 + 2630 + 3200 = 8580. Die Zahl stimmt.
+> Interessant: Bei den Meraritern sind es die meisten Arbeiter. Sie tragen ja auch die schwersten Teile.
+
+## 4. Mose – Kapitel 5
+#### Reinheit im Lager, Wiedergutmachung, Verdacht auf Ehebruch
+
+---
+
+### Unreine außerhalb des Lagers (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Befiehl den Israeliten, dass sie aus dem Lager schicken:
+jeden Aussätzigen, jeden, der einen Ausfluss hat,
+und jeden, der durch einen Toten unrein geworden ist.
+<sup>3</sup>Männer und Frauen sollt ihr hinausschicken, vor das Lager,
+damit sie ihr Lager nicht unrein machen, in dessen Mitte ich wohne.“
+<sup>4</sup>Die Israeliten taten es und schickten sie hinaus, vor das Lager.
+Wie der HERR zu Mose gesagt hatte, so taten es die Israeliten.
+
+> **Was bedeutet das?**
+> Gott wohnt mitten im Lager. Darum soll das Lager rein sein. Wer unrein ist, muss für eine Zeit draußen bleiben, bis er wieder rein ist.
+> Das war auch ein Schutz vor ansteckenden Krankheiten. Für die Betroffenen war es aber auch eine schwere Zeit. Die Regeln für Aussatz und Ausflüsse stehen in 3. Mose 13–15.
+
+---
+
+### Bekennen und wiedergutmachen (Vers 5–10)
+
+<sup>5</sup>Der HERR sprach zu Mose:
+<sup>6</sup>„Sprich zu den Israeliten:
+‚Wenn ein Mann oder eine Frau irgendeine Sünde begeht, wie Menschen sie begehen,
+und dadurch dem HERRN untreu wird,
+dann ist dieser Mensch schuldig.
+<sup>7</sup>Er soll seine Sünde bekennen, die er begangen hat.
+Und er soll den Schaden vollständig wiedergutmachen
+und noch ein Fünftel dazulegen.
+Er soll es dem geben, an dem er schuldig geworden ist.
+<sup>8</sup>Wenn der Mann aber keinen Verwandten hat, dem man den Schaden ersetzen kann,
+dann soll der Ersatz dem HERRN gehören, also dem Priester,
+zusätzlich zum Schafbock der Versöhnung, mit dem für ihn Versöhnung geschaffen wird.
+<sup>9</sup>Jedes Hebeopfer von allen heiligen Gaben der Israeliten, die sie dem Priester bringen, soll ihm gehören.
+<sup>10</sup>Die heiligen Gaben jedes Einzelnen sollen dem Priester gehören.
+Was jemand dem Priester gibt, soll ihm gehören.‘“
+
+> **Was bedeutet das?**
+> Das ist eine Ergänzung zu 3. Mose 6,1–7. Wer einem anderen geschadet hat, soll seine Schuld offen bekennen, den Schaden ersetzen und noch 20 Prozent dazulegen.
+> Neu ist hier: Was ist, wenn der Geschädigte gestorben ist und keine Verwandten hat? Dann bekommt das Geld der Priester. Die Wiedergutmachung fällt nicht weg, nur weil der Betroffene nicht mehr da ist.
+> Wer einem Menschen schadet, wird auch „dem HERRN untreu“. Unrecht gegen Menschen ist auch Unrecht gegen Gott.
+
+---
+
+### Wenn ein Mann seine Frau verdächtigt (Vers 11–15)
+
+<sup>11</sup>Der HERR sprach zu Mose:
+<sup>12</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn die Frau eines Mannes vom rechten Weg abweicht und ihm untreu wird,
+<sup>13</sup>und ein anderer Mann schläft mit ihr,
+und es bleibt vor den Augen ihres Mannes verborgen und geheim,
+und sie hat sich unrein gemacht,
+aber es gibt keinen Zeugen gegen sie,
+und sie wurde nicht dabei ertappt,
+<sup>14</sup>und der Geist der Eifersucht kommt über ihn,
+und er ist eifersüchtig auf seine Frau, und sie hat sich wirklich unrein gemacht,
+oder der Geist der Eifersucht kommt über ihn,
+und er ist eifersüchtig auf seine Frau, aber sie hat sich nicht unrein gemacht,
+<sup>15</sup>dann soll der Mann seine Frau zum Priester bringen.
+Und er soll ihre Opfergabe für sie bringen:
+gut 2 Liter Gerstenmehl.
+Er soll kein Öl darauf gießen und keinen Weihrauch darauf legen.
+Denn es ist ein Speiseopfer der Eifersucht,
+ein Speiseopfer der Erinnerung, das Schuld in Erinnerung bringt.
+
+> **Was bedeutet das?**
+> In der Bibel steht: ein Zehntel Efa Gerstenmehl.
+> Hier geht es um einen Fall, der für uns heute schwer zu lesen ist. Ein Mann verdächtigt seine Frau, ihn betrogen zu haben. Aber es gibt keine Beweise und keine Zeugen.
+> Vers 14 sagt ausdrücklich: Vielleicht hat sie wirklich Ehebruch begangen. Vielleicht ist der Mann aber auch nur grundlos eifersüchtig. Beides ist möglich.
+> Damals konnte ein eifersüchtiger Mann seiner Frau sehr viel Leid antun. Er konnte sie verstoßen oder sogar Gewalt anwenden. Dieses Verfahren nimmt die Sache aus seiner Hand. Er darf nicht selbst richten, sondern muss die Frau zum Priester bringen. Dort entscheidet Gott.
+
+---
+
+### Das bittere Wasser (Vers 16–28)
+
+<sup>16</sup>Der Priester soll sie herantreten lassen und sie vor den HERRN stellen.
+<sup>17</sup>Der Priester soll heiliges Wasser in ein Tongefäß nehmen.
+Und der Priester soll etwas von dem Staub nehmen, der auf dem Boden der Wohnung liegt,
+und ihn in das Wasser streuen.
+<sup>18</sup>Der Priester soll die Frau vor den HERRN stellen
+und das Haar ihres Kopfes lösen.
+Er soll ihr das Speiseopfer der Erinnerung in die Hände legen, das Speiseopfer der Eifersucht.
+Und der Priester soll das bittere Wasser in der Hand haben, das den Fluch bringt.
+
+<sup>19</sup>Der Priester soll die Frau schwören lassen und zu ihr sagen:
+„Wenn kein Mann mit dir geschlafen hat
+und wenn du nicht vom rechten Weg abgewichen bist und dich unrein gemacht hast,
+während du unter der Obhut deines Mannes warst,
+dann soll dir dieses bittere Wasser, das den Fluch bringt, nicht schaden.
+<sup>20</sup>Aber wenn du vom rechten Weg abgewichen bist,
+während du unter der Obhut deines Mannes warst,
+und wenn du dich unrein gemacht hast
+und ein anderer Mann als dein Ehemann mit dir geschlafen hat –“
+<sup>21</sup>dann soll der Priester die Frau den Fluchschwur schwören lassen.
+Und der Priester soll zu der Frau sagen:
+„Der HERR mache dich zum Fluch und zum Schwurwort in deinem Volk,
+indem der HERR deine Hüfte schwinden und deinen Bauch anschwellen lässt.
+<sup>22</sup>Dieses Wasser, das den Fluch bringt, soll in deinen Leib kommen
+und deinen Bauch anschwellen und deine Hüfte schwinden lassen.“
+Und die Frau soll sagen: „Amen, Amen.“
+
+<sup>23</sup>Der Priester soll diese Flüche in ein Buch schreiben
+und sie in das bittere Wasser abwaschen.
+<sup>24</sup>Er soll die Frau das bittere Wasser trinken lassen, das den Fluch bringt.
+Und das Wasser, das den Fluch bringt, soll in sie kommen und bitter werden.
+<sup>25</sup>Der Priester soll das Speiseopfer der Eifersucht aus der Hand der Frau nehmen,
+das Speiseopfer vor dem HERRN hin- und herschwingen und es zum Altar bringen.
+<sup>26</sup>Der Priester soll eine Handvoll von dem Speiseopfer als Gedenkteil nehmen
+und es auf dem Altar verbrennen.
+Danach soll er die Frau das Wasser trinken lassen.
+
+<sup>27</sup>Wenn er sie das Wasser hat trinken lassen, dann wird Folgendes geschehen:
+Wenn sie sich unrein gemacht hat und ihrem Mann untreu war,
+dann wird das Wasser, das den Fluch bringt, in sie kommen und bitter werden.
+Ihr Bauch wird anschwellen und ihre Hüfte schwinden.
+Und die Frau wird zum Fluch in ihrem Volk.
+<sup>28</sup>Wenn die Frau sich aber nicht unrein gemacht hat, sondern rein ist,
+dann soll sie frei sein und Kinder bekommen können.
+
+> **Was bedeutet das?**
+> Das Wasser besteht aus heiligem Wasser, Staub vom Boden des Heiligtums und der abgewaschenen Tinte der Flüche. Natürlich ist dieses Wasser nicht giftig. Wenn etwas passiert, dann nur durch Gott selbst.
+> Was „Hüfte schwinden und Bauch anschwellen“ genau bedeutet, weiß man nicht sicher. Vielleicht ist gemeint, dass die Frau unfruchtbar wird oder eine Fehlgeburt hat. „Hüfte“ ist hier wahrscheinlich ein zurückhaltendes Wort für die Geschlechtsorgane.
+> „Amen“ heißt: „So soll es sein.“ Die Frau stimmt dem Schwur selbst zu.
+> Wenn die Frau unschuldig ist, wird sie öffentlich freigesprochen. Niemand darf ihr dann mehr etwas vorwerfen. Das war ein Schutz für die Frau gegen falsche Verdächtigungen.
+
+---
+
+### Zusammenfassung (Vers 29–31)
+
+<sup>29</sup>Das ist die Vorschrift bei Eifersucht,
+wenn eine Frau, die unter der Obhut ihres Mannes steht, vom rechten Weg abweicht und sich unrein macht,
+<sup>30</sup>oder wenn der Geist der Eifersucht über einen Mann kommt und er auf seine Frau eifersüchtig ist.
+Dann soll er die Frau vor den HERRN stellen,
+und der Priester soll an ihr diese ganze Vorschrift ausführen.
+<sup>31</sup>Der Mann soll frei von Schuld sein.
+Aber diese Frau soll ihre Schuld tragen.‘“
+
+> **Was bedeutet das?**
+> Für uns heute ist dieses Verfahren sehr schwer zu ertragen. Es ist einseitig: Nur die Frau wird geprüft, nicht der Mann. Es gibt kein solches Verfahren für einen Mann, den seine Frau verdächtigt. Das zeigt die ungleiche Stellung von Männern und Frauen in der damaligen Zeit.
+> Auch die jüdischen Gelehrten haben dieses Verfahren kritisch gesehen. Sie haben es mit vielen Bedingungen eingeschränkt. Im ersten Jahrhundert nach Christus hat Rabbi Jochanan ben Sakkai es ganz abgeschafft. Er sagte: Als es immer mehr untreue Männer gab, durfte man das Wasser nicht mehr bei den Frauen anwenden (Mischna Sota 9,9).
+> Jesus hat Frauen und Männer gleich ernst genommen. Er sagte, dass auch ein Mann, der eine andere Frau begehrt, schon Ehebruch begeht (Matthäus 5,28). Und er hat eine Frau, die beim Ehebruch ertappt wurde, vor der Steinigung bewahrt (Johannes 8,1–11).
