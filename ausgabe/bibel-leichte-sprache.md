@@ -24620,3 +24620,315 @@ Du sollst es auf die Erde gießen wie Wasser.
 > **Was bedeutet das?**
 > Das erste Junge gehört Gott. Das ist ein Zeichen des Dankes: Alles Leben kommt von ihm.
 > Gott bekommt nur das Beste. Ein Tier mit einem Fehler soll man nicht opfern. Man darf es aber zu Hause ganz normal essen.
+
+## 5. Mose – Kapitel 16
+#### Die drei großen Feste – gerechte Richter
+
+---
+
+### Das Passa (Vers 1–8)
+
+<sup>1</sup>Achte auf den Monat Abib und feiere dem HERRN, deinem Gott, das Passa.
+Denn im Monat Abib hat der HERR, dein Gott, dich in der Nacht aus Ägypten herausgeführt.
+<sup>2</sup>Du sollst dem HERRN, deinem Gott, das Passa schlachten, von den Schafen und den Rindern,
+an dem Ort, den der HERR erwählen wird, um seinen Namen dort wohnen zu lassen.
+<sup>3</sup>Du sollst kein gesäuertes Brot dazu essen.
+Sieben Tage lang sollst du ungesäuertes Brot dazu essen, das Brot des Elends –
+denn in großer Eile bist du aus dem Land Ägypten ausgezogen –,
+damit du dein ganzes Leben lang an den Tag denkst, an dem du aus dem Land Ägypten ausgezogen bist.
+<sup>4</sup>Sieben Tage lang soll in deinem ganzen Gebiet kein Sauerteig bei dir zu sehen sein.
+Und vom Fleisch, das du am Abend des ersten Tages schlachtest, soll nichts über Nacht bis zum Morgen übrig bleiben.
+<sup>5</sup>Du darfst das Passa nicht in irgendeiner deiner Städte schlachten, die der HERR, dein Gott, dir gibt,
+<sup>6</sup>sondern an dem Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen.
+Dort sollst du das Passa am Abend schlachten, wenn die Sonne untergeht,
+zu der Zeit, als du aus Ägypten ausgezogen bist.
+<sup>7</sup>Du sollst es braten und essen an dem Ort, den der HERR, dein Gott, erwählt.
+Am Morgen sollst du zu deinen Zelten zurückkehren.
+<sup>8</sup>Sechs Tage lang sollst du ungesäuertes Brot essen.
+Am siebten Tag soll eine feierliche Versammlung für den HERRN, deinen Gott, sein.
+Du sollst keine Arbeit tun.
+
+> **Was bedeutet das?**
+> „Abib“ heißt „junge Ähren“. Es ist der Frühlingsmonat, März oder April. Später nannte man ihn „Nisan“.
+> Die drei großen Feste Israels werden hier noch einmal genannt: Passa, Wochenfest und Laubhüttenfest (siehe auch 3. Mose 23).
+> Neu ist: Das Passa soll nicht mehr zu Hause gefeiert werden wie in Ägypten, sondern an dem einen Ort, den Gott erwählt. Später war das Jerusalem. Darum ging auch Jesus zum Passa nach Jerusalem.
+> „Das Brot des Elends“: Das ungesäuerte Brot erinnert an die Not in Ägypten und an die Eile beim Auszug. Es war keine Zeit, den Teig gehen zu lassen.
+> „Braten“: Im Hebräischen steht ein Wort, das meist „kochen“ heißt. Nach 2. Mose 12,9 sollte das Passalamm am Feuer gebraten werden. Die englische Vorlage übersetzt hier „braten“.
+
+---
+
+### Das Wochenfest (Vers 9–12)
+
+<sup>9</sup>Sieben Wochen sollst du dir abzählen.
+Von dem Tag an, an dem du die Sichel an das stehende Getreide legst, sollst du anfangen, sieben Wochen zu zählen.
+<sup>10</sup>Dann sollst du dem HERRN, deinem Gott, das Wochenfest feiern
+mit einer freiwilligen Gabe deiner Hand,
+die du gibst, je nachdem, wie der HERR, dein Gott, dich segnet.
+<sup>11</sup>Und du sollst dich vor dem HERRN, deinem Gott, freuen:
+du, dein Sohn und deine Tochter, dein Knecht und deine Magd,
+der Levit, der in deinen Toren wohnt,
+und der Fremde, die Waise und die Witwe, die bei dir leben,
+an dem Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen.
+<sup>12</sup>Denk daran, dass du Sklave in Ägypten gewesen bist.
+Achte auf diese Ordnungen und tu sie.
+
+> **Was bedeutet das?**
+> Das Wochenfest ist das Erntefest für den Weizen, sieben Wochen nach Beginn der Gerstenernte. Auf Hebräisch heißt es „Schawuot“. Im Christentum wurde daraus Pfingsten.
+> Die Freude soll mit allen geteilt werden. Immer wieder werden in den Festgeboten dieselben Gruppen genannt: Kinder, Knechte, Mägde, Leviten, Fremde, Waisen und Witwen. Bei Gottes Fest soll niemand allein bleiben.
+> „Denk daran, dass du Sklave warst“: Wer weiß, wie es ist, arm und unterdrückt zu sein, soll großzügig sein.
+
+---
+
+### Das Laubhüttenfest (Vers 13–17)
+
+<sup>13</sup>Das Laubhüttenfest sollst du sieben Tage lang feiern,
+wenn du den Ertrag von deiner Tenne und von deiner Weinpresse eingebracht hast.
+<sup>14</sup>Und du sollst dich an deinem Fest freuen:
+du, dein Sohn und deine Tochter, dein Knecht und deine Magd,
+der Levit, der Fremde, die Waise und die Witwe, die in deinen Toren leben.
+<sup>15</sup>Sieben Tage lang sollst du dem HERRN, deinem Gott, ein Fest feiern,
+an dem Ort, den der HERR erwählt.
+Denn der HERR, dein Gott, wird dich segnen bei deiner ganzen Ernte und bei aller Arbeit deiner Hände.
+Und du sollst ganz und gar fröhlich sein.
+<sup>16</sup>Dreimal im Jahr sollen alle deine Männer vor dem HERRN, deinem Gott, erscheinen,
+an dem Ort, den er erwählt:
+am Fest der ungesäuerten Brote, am Wochenfest und am Laubhüttenfest.
+Sie sollen nicht mit leeren Händen vor dem HERRN erscheinen.
+<sup>17</sup>Jeder soll geben, was er kann,
+nach dem Segen, den der HERR, dein Gott, dir gegeben hat.
+
+> **Was bedeutet das?**
+> Das Laubhüttenfest ist im Herbst, nach der Ernte der Trauben und Oliven. Man wohnt sieben Tage in Hütten aus Zweigen. Das erinnert an die Zeit in der Wüste.
+> „Du sollst ganz und gar fröhlich sein“: Das ist ein Gebot! Gott befiehlt seinem Volk, sich zu freuen.
+> Jeder gibt, was er kann. Niemand muss mehr geben, als er hat. Wer viel bekommen hat, gibt viel. Wer wenig hat, gibt wenig.
+
+---
+
+### Gerechte Richter (Vers 18–20)
+
+<sup>18</sup>Du sollst in allen deinen Städten, die der HERR, dein Gott, dir gibt,
+Richter und Amtsleute einsetzen, für jeden deiner Stämme.
+Sie sollen das Volk mit gerechtem Urteil richten.
+<sup>19</sup>Du sollst das Recht nicht beugen.
+Du sollst niemanden bevorzugen.
+Du sollst keine Bestechung annehmen.
+Denn Bestechung macht die Augen der Weisen blind
+und verdreht die Worte der Gerechten.
+<sup>20</sup>Der Gerechtigkeit, nur der Gerechtigkeit sollst du nachjagen,
+damit du lebst und das Land in Besitz nimmst, das der HERR, dein Gott, dir gibt.
+
+> **Was bedeutet das?**
+> „Der Gerechtigkeit, nur der Gerechtigkeit sollst du nachjagen“: Im Hebräischen steht das Wort „Gerechtigkeit“ zweimal hintereinander: „Zedek, Zedek“. Das zeigt, wie wichtig es ist. In der englischen Vorlage steht: „was ganz und gar gerecht ist“.
+> Bestechung macht blind. Auch kluge und gute Menschen werden durch Geschenke beeinflusst, oft ohne es zu merken.
+> Diese Verse gehören zu den Grundlagen für unabhängige Gerichte.
+
+---
+
+### Keine heiligen Pfähle und Steine (Vers 21–22)
+
+<sup>21</sup>Du sollst dir keinen Aschera-Pfahl aus irgendeinem Holz pflanzen
+neben dem Altar des HERRN, deines Gottes, den du dir machen wirst.
+<sup>22</sup>Und du sollst dir keine heilige Steinsäule aufrichten, die der HERR, dein Gott, hasst.
+
+> **Was bedeutet das?**
+> Die Kanaaniter stellten neben ihre Altäre Holzpfähle für die Göttin Aschera und Steinsäulen für ihre Götter. Israel soll den Gottesdienst für den HERRN nicht mit diesen Zeichen vermischen.
+
+## 5. Mose – Kapitel 17
+#### Gerichtsverfahren – das Gesetz für den König
+
+---
+
+### Nur fehlerlose Opfer (Vers 1)
+
+<sup>1</sup>Du sollst dem HERRN, deinem Gott, kein Rind und kein Schaf opfern,
+das einen Fehler oder etwas Schlechtes an sich hat.
+Denn das ist ein Gräuel für den HERRN, deinen Gott.
+
+> **Was bedeutet das?**
+> Gott soll man nicht das Schlechteste geben, das man selbst nicht mehr haben will. Er verdient das Beste.
+
+---
+
+### Zwei oder drei Zeugen (Vers 2–7)
+
+<sup>2</sup>Wenn sich bei dir, in einer deiner Städte, die der HERR, dein Gott, dir gibt,
+ein Mann oder eine Frau findet, die tun, was in den Augen des HERRN, deines Gottes, böse ist,
+und seinen Bund übertreten,
+<sup>3</sup>und die hingegangen sind und anderen Göttern gedient und sie angebetet haben,
+oder die Sonne oder den Mond oder das ganze Heer des Himmels, was ich nicht geboten habe,
+<sup>4</sup>und es wird dir berichtet, und du hörst davon,
+dann sollst du gründlich nachforschen.
+Schau: Wenn es wahr ist und die Sache sicher ist,
+dass ein solcher Gräuel in Israel geschehen ist,
+<sup>5</sup>dann sollst du diesen Mann oder diese Frau, die diese böse Tat getan haben,
+hinaus zu deinen Toren führen, eben diesen Mann oder diese Frau.
+Und du sollst sie mit Steinen steinigen, bis sie sterben.
+<sup>6</sup>Auf die Aussage von zwei oder drei Zeugen hin soll der getötet werden, der sterben soll.
+Auf die Aussage eines einzigen Zeugen hin soll er nicht getötet werden.
+<sup>7</sup>Die Hände der Zeugen sollen als erste gegen ihn sein, um ihn zu töten,
+und danach die Hände des ganzen Volkes.
+So sollst du das Böse aus deiner Mitte entfernen.
+
+> **Was bedeutet das?**
+> Wieder geht es um den Abfall von Gott, und wieder gilt damals die Todesstrafe (siehe Kapitel 13). Das ist für uns sehr hart. Auch hier gilt: Niemand darf diese Stelle benutzen, um Menschen wegen ihres Glaubens zu verfolgen.
+> Wichtig sind aber die Schutzregeln: Es muss gründlich untersucht werden. Ein Zeuge allein genügt nicht. Es braucht mindestens zwei. Und die Zeugen müssen selbst als Erste handeln. Wer falsch aussagt, trägt also eine schwere Verantwortung. Das sollte falsche Anklagen verhindern.
+> Die Regel mit den zwei oder drei Zeugen hat Jesus aufgegriffen (Matthäus 18,16). Sie gilt bis heute als wichtiger Grundsatz im Recht.
+
+---
+
+### Schwierige Rechtsfälle (Vers 8–13)
+
+<sup>8</sup>Wenn dir ein Rechtsfall zu schwierig ist,
+zwischen Blut und Blut, zwischen Streitsache und Streitsache, zwischen Verletzung und Verletzung,
+Streitfälle in deinen Städten,
+dann sollst du dich aufmachen und hinaufgehen an den Ort, den der HERR, dein Gott, erwählt.
+<sup>9</sup>Du sollst zu den Priestern gehen, den Leviten, und zu dem Richter, der in jenen Tagen da ist.
+Du sollst fragen, und sie werden dir das Urteil sagen.
+<sup>10</sup>Du sollst nach dem Urteil handeln, das sie dir von jenem Ort aus sagen, den der HERR erwählt.
+Und du sollst darauf achten, alles zu tun, was sie dich lehren.
+<sup>11</sup>Nach der Weisung, die sie dich lehren, und nach dem Urteil, das sie dir sagen, sollst du handeln.
+Du sollst von dem Spruch, den sie dir verkünden, nicht abweichen, weder nach rechts noch nach links.
+<sup>12</sup>Der Mann aber, der vermessen handelt
+und nicht auf den Priester hört, der dort steht, um dem HERRN, deinem Gott, zu dienen,
+oder auf den Richter, dieser Mann soll sterben.
+So sollst du das Böse aus Israel entfernen.
+<sup>13</sup>Und das ganze Volk soll es hören und sich fürchten und nicht mehr vermessen handeln.
+
+> **Was bedeutet das?**
+> „Zwischen Blut und Blut“ heißt: War es Mord oder Totschlag? „Zwischen Verletzung und Verletzung“ heißt: Wer hat wen verletzt, und wie schwer?
+> Für schwierige Fälle gibt es ein oberstes Gericht am zentralen Heiligtum. Das ist so etwas wie ein frühes Berufungsgericht.
+> Wer sich dem Urteil dieses obersten Gerichts mit Absicht widersetzt, wird hart bestraft. Ohne Achtung vor dem Gericht kann eine Gemeinschaft nicht in Frieden leben.
+
+---
+
+### Das Gesetz für den König (Vers 14–20)
+
+<sup>14</sup>Wenn du in das Land kommst, das der HERR, dein Gott, dir gibt,
+und es in Besitz nimmst und darin wohnst und sagst:
+„Ich will einen König über mich setzen wie alle Völker rings um mich her“,
+<sup>15</sup>dann sollst du nur den als König über dich setzen, den der HERR, dein Gott, erwählt.
+Aus der Mitte deiner Brüder sollst du einen König über dich setzen.
+Du darfst keinen Ausländer über dich setzen, der nicht dein Bruder ist.
+<sup>16</sup>Nur soll er sich nicht viele Pferde halten.
+Und er soll das Volk nicht nach Ägypten zurückschicken, um viele Pferde zu bekommen.
+Denn der HERR hat euch gesagt: „Ihr sollt nie wieder diesen Weg zurückgehen.“
+<sup>17</sup>Er soll sich auch nicht viele Frauen nehmen, damit sein Herz sich nicht abwendet.
+Und er soll sich nicht zu viel Silber und Gold anhäufen.
+<sup>18</sup>Und wenn er auf dem Thron seines Königreichs sitzt,
+dann soll er sich eine Abschrift dieses Gesetzes in ein Buch schreiben,
+nach der Vorlage, die bei den Priestern, den Leviten, ist.
+<sup>19</sup>Sie soll bei ihm sein, und er soll sein ganzes Leben lang darin lesen,
+damit er lernt, den HERRN, seinen Gott, zu fürchten,
+und alle Worte dieses Gesetzes und diese Ordnungen zu halten und zu tun,
+<sup>20</sup>damit sein Herz sich nicht über seine Brüder erhebt
+und er nicht von dem Gebot abweicht, weder nach rechts noch nach links,
+damit er lange in seinem Königreich regiert, er und seine Söhne, mitten in Israel.
+
+> **Was bedeutet das?**
+> Israel hat noch keinen König. Aber Mose sieht voraus, dass das Volk einmal einen König will. Das geschah später zur Zeit des Propheten Samuel (1. Samuel 8).
+> Der König in Israel soll ganz anders sein als die Könige anderer Völker:
+> Keine vielen Pferde: Pferde waren für Streitwagen, also für Krieg und Macht.
+> Keine vielen Frauen: Könige hatten damals oft viele Frauen aus fremden Ländern, um Bündnisse zu schließen. Diese Frauen brachten ihre Götter mit.
+> Kein großer Reichtum: Ein König soll nicht sich selbst bereichern.
+> Stattdessen soll er jeden Tag in Gottes Gesetz lesen. Er steht nicht über dem Gesetz, sondern darunter. Und er soll sich nicht über seine „Brüder“ erheben. Er bleibt ein Bruder unter Brüdern.
+> Das ist eine sehr moderne Idee: Auch der Mächtigste muss sich an das Recht halten.
+> König Salomo hat später genau diese drei Dinge getan: viele Pferde aus Ägypten, 700 Frauen und unermesslich viel Gold (1. Könige 10–11). Und sein Herz wandte sich tatsächlich von Gott ab.
+
+## 5. Mose – Kapitel 18
+#### Priester und Leviten – keine Wahrsagerei – ein Prophet wie Mose
+
+---
+
+### Was den Priestern und Leviten zusteht (Vers 1–8)
+
+<sup>1</sup>Die Priester, die Leviten, der ganze Stamm Levi,
+sollen keinen Anteil und kein Erbe mit Israel haben.
+Sie sollen von den Feueropfern des HERRN und von seinem Anteil essen.
+<sup>2</sup>Sie sollen kein Erbe unter ihren Brüdern haben.
+Der HERR ist ihr Erbe, wie er es ihnen gesagt hat.
+<sup>3</sup>Das soll das Recht der Priester gegenüber dem Volk sein,
+gegenüber denen, die ein Schlachtopfer darbringen, ob Rind oder Schaf:
+Sie sollen dem Priester die Schulter, die beiden Backen und die inneren Teile geben.
+<sup>4</sup>Die ersten Früchte von deinem Getreide, von deinem neuen Wein und von deinem Öl
+und die erste Schur deiner Schafe sollst du ihm geben.
+<sup>5</sup>Denn ihn hat der HERR, dein Gott, aus allen deinen Stämmen erwählt,
+damit er dasteht, um im Namen des HERRN zu dienen, er und seine Söhne, für immer.
+<sup>6</sup>Wenn ein Levit aus einer deiner Städte irgendwo in Israel, wo er wohnt,
+mit dem ganzen Verlangen seiner Seele an den Ort kommt, den der HERR erwählen wird,
+<sup>7</sup>dann soll er im Namen des HERRN, seines Gottes, dienen,
+wie alle seine Brüder, die Leviten, die dort vor dem HERRN stehen.
+<sup>8</sup>Sie sollen gleiche Anteile zu essen bekommen,
+zusätzlich zu dem, was er aus dem Verkauf des Familienbesitzes bekommt.
+
+> **Was bedeutet das?**
+> Die Priester und Leviten haben kein eigenes Land. Sie leben von den Gaben des Volkes. So wird für sie gesorgt, damit sie Gott dienen können.
+> Ein Levit vom Land, der gern am Heiligtum dienen möchte, darf das tun. Er soll genauso behandelt werden wie die anderen. Niemand soll ihn als „zweitklassig“ ansehen.
+> „Die inneren Teile“: Im Hebräischen ist wohl der Magen gemeint.
+
+---
+
+### Keine Wahrsagerei und Zauberei (Vers 9–14)
+
+<sup>9</sup>Wenn du in das Land kommst, das der HERR, dein Gott, dir gibt,
+dann sollst du nicht lernen, die Gräuel dieser Völker nachzumachen.
+<sup>10</sup>Es soll bei dir niemand gefunden werden,
+der seinen Sohn oder seine Tochter durchs Feuer gehen lässt,
+niemand, der Wahrsagerei betreibt, der Zeichen deutet,
+kein Beschwörer und kein Zauberer,
+<sup>11</sup>kein Bannsprecher, niemand, der einen Totengeist befragt,
+kein Hellseher und niemand, der die Toten befragt.
+<sup>12</sup>Denn jeder, der so etwas tut, ist ein Gräuel für den HERRN.
+Und wegen dieser Gräuel vertreibt der HERR, dein Gott, diese Völker vor dir.
+<sup>13</sup>Du sollst ganz und ungeteilt beim HERRN, deinem Gott, sein.
+<sup>14</sup>Denn diese Völker, die du vertreibst, hören auf Zauberer und Wahrsager.
+Dir aber hat der HERR, dein Gott, so etwas nicht erlaubt.
+
+> **Was bedeutet das?**
+> Viele Völker versuchten damals, die Zukunft zu erfahren oder Macht zu bekommen: durch Zeichendeuterei, durch Zauberei, durch das Befragen von Toten. Manche opferten sogar ihre Kinder („durchs Feuer gehen lassen“).
+> Gott sagt: Das alles ist nichts für euch. Ihr braucht keine Zauberei. Ihr habt mich. Ich rede zu euch durch mein Wort und durch meine Propheten.
+> „Ganz und ungeteilt“ heißt: Vertrau Gott allein. Halte dich nicht nebenbei an andere Mächte.
+> Ein wichtiger Hinweis: Diese Verse wurden in der Geschichte schrecklich missbraucht. Bei den Hexenverfolgungen in Europa wurden Zehntausende unschuldige Menschen, vor allem Frauen, gefoltert und getötet. Das war ein schweres Unrecht. Die Bibel verbietet hier Israeliten, Zauberei zu betreiben. Sie gibt niemandem das Recht, andere Menschen als „Hexen“ zu beschuldigen und zu verfolgen.
+
+---
+
+### Ein Prophet wie Mose (Vers 15–19)
+
+<sup>15</sup>Einen Propheten wie mich wird dir der HERR, dein Gott, aus deiner Mitte erstehen lassen, aus deinen Brüdern.
+Auf ihn sollt ihr hören.
+<sup>16</sup>Das entspricht allem, was du vom HERRN, deinem Gott, am Horeb erbeten hast, am Tag der Versammlung.
+Du hast gesagt:
+„Ich will die Stimme des HERRN, meines Gottes, nicht noch einmal hören.
+Und dieses große Feuer will ich nicht mehr sehen, damit ich nicht sterbe.“
+<sup>17</sup>Der HERR sagte zu mir:
+„Es ist gut, was sie gesagt haben.
+<sup>18</sup>Einen Propheten wie dich will ich ihnen aus der Mitte ihrer Brüder erstehen lassen.
+Ich will meine Worte in seinen Mund legen.
+Und er wird ihnen alles sagen, was ich ihm gebiete.
+<sup>19</sup>Und wer nicht auf meine Worte hört, die er in meinem Namen spricht,
+von dem werde ich Rechenschaft fordern.
+
+> **Was bedeutet das?**
+> Statt Zauberei und Wahrsagerei verspricht Gott etwas Besseres: Propheten. Durch sie wird Gott zu seinem Volk reden, so wie er durch Mose geredet hat.
+> Juden verstehen das oft so: Gott wird immer wieder Propheten senden, wie Samuel, Elia, Jesaja und Jeremia.
+> Christen sehen in diesem Versprechen vor allem einen Hinweis auf Jesus. Im Neuen Testament wird dieser Vers auf ihn bezogen (Apostelgeschichte 3,22; Johannes 6,14). Am Ende des 5. Buches Mose steht aber auch: „Es stand kein Prophet mehr in Israel auf wie Mose“ (Kapitel 34,10). Darum wartete man auf diesen einen Propheten.
+
+---
+
+### Wie man einen falschen Propheten erkennt (Vers 20–22)
+
+<sup>20</sup>Aber der Prophet, der vermessen ist und in meinem Namen ein Wort redet, das ich ihm nicht geboten habe,
+oder der im Namen anderer Götter redet,
+dieser Prophet soll sterben.“
+<sup>21</sup>Vielleicht sagst du in deinem Herzen:
+„Wie sollen wir das Wort erkennen, das der HERR nicht geredet hat?“
+<sup>22</sup>Wenn ein Prophet im Namen des HERRN redet,
+und das Wort geschieht nicht und trifft nicht ein,
+dann ist es ein Wort, das der HERR nicht geredet hat.
+Der Prophet hat es aus Vermessenheit geredet.
+Du sollst keine Angst vor ihm haben.
+
+> **Was bedeutet das?**
+> Ein wichtiges Kennzeichen: Wenn ein Prophet etwas ankündigt, das nicht eintrifft, dann kommt er nicht von Gott.
+> Zusammen mit Kapitel 13 gibt es also zwei Prüfungen: Führt der Prophet zu Gott oder weg von ihm? Und: Trifft ein, was er sagt?
+> „Du sollst keine Angst vor ihm haben“: Auch heute gibt es Menschen, die im Namen Gottes Angst machen, zum Beispiel mit Vorhersagen über das Ende der Welt. Wenn ihre Worte nicht eintreffen, muss man sie nicht fürchten.
+> Für einen falschen Propheten galt damals die Todesstrafe. Heute gilt in Judentum und Christentum: Man soll falschen Propheten nicht glauben und nicht folgen. Gewalt gegen sie ist kein Weg.
