@@ -18853,3 +18853,264 @@ Die dich hassen, sollen vor dir fliehen!“
 > Die Bundeslade zieht voran. Gott selbst sucht den Weg und den Rastplatz für sein Volk. So wie ein Hirte vor seiner Herde hergeht.
 > Die beiden Gebete von Mose sind sehr alt. Bis heute werden sie in jüdischen Gottesdiensten gesprochen, wenn die Torarolle aus dem Schrank genommen und wieder zurückgestellt wird. Auch Psalm 68,2 beginnt mit diesen Worten.
 > In vielen hebräischen Bibeln stehen um die Verse 35–36 besondere Zeichen, umgedrehte Buchstaben „Nun“. Sie zeigen, dass diese beiden Verse etwas ganz Besonderes sind.
+
+## 4. Mose – Kapitel 11
+#### Das Volk klagt – Fleisch, Wachteln und Gottes Geist
+
+---
+
+### Feuer am Rand des Lagers (Vers 1–3)
+
+<sup>1</sup>Das Volk beklagte sich laut vor den Ohren des HERRN.
+Als der HERR es hörte, wurde er zornig.
+Das Feuer des HERRN brannte unter ihnen
+und verzehrte einen Teil am Rand des Lagers.
+<sup>2</sup>Da schrie das Volk zu Mose.
+Und Mose betete zum HERRN, und das Feuer erlosch.
+<sup>3</sup>Man nannte diesen Ort Tabera,
+weil das Feuer des HERRN unter ihnen gebrannt hatte.
+
+> **Was bedeutet das?**
+> Kaum ist das Volk drei Tage unterwegs, fängt es an zu klagen. Worüber genau, wird nicht gesagt.
+> Hier beginnt eine traurige Reihe von Geschichten: Immer wieder murrt das Volk gegen Gott und gegen Mose. Dieses „Murren“ zieht sich durch das ganze 4. Buch Mose.
+> „Tabera“ bedeutet „Brand“.
+> Mose betet für das Volk, obwohl es sich beklagt. Er ist ein Fürsprecher, wie schon beim goldenen Kalb (2. Mose 32).
+
+---
+
+### „Wer gibt uns Fleisch?“ (Vers 4–9)
+
+<sup>4</sup>Das gemischte Volk, das unter ihnen war, bekam große Gier.
+Und auch die Israeliten weinten wieder und sagten:
+„Wer gibt uns Fleisch zu essen?
+<sup>5</sup>Wir denken an die Fische, die wir in Ägypten umsonst gegessen haben,
+an die Gurken, die Melonen, den Lauch, die Zwiebeln und den Knoblauch.
+<sup>6</sup>Aber jetzt ist unsere Seele ausgetrocknet.
+Wir sehen gar nichts anderes als dieses Manna.“
+
+<sup>7</sup>Das Manna war wie Koriandersamen,
+und es sah aus wie Bdelliumharz.
+<sup>8</sup>Das Volk ging umher und sammelte es.
+Sie mahlten es mit Handmühlen oder zerstießen es in Mörsern.
+Sie kochten es in Töpfen und machten Fladen daraus.
+Es schmeckte wie frisches Öl.
+<sup>9</sup>Wenn in der Nacht der Tau auf das Lager fiel, dann fiel auch das Manna darauf.
+
+> **Was bedeutet das?**
+> Das „gemischte Volk“ sind Menschen, die keine Israeliten waren, aber mit ihnen aus Ägypten gezogen sind (2. Mose 12,38). Sie fangen an, und die Israeliten machen mit.
+> Erstaunlich: Sie erinnern sich an das gute Essen in Ägypten, das sie „umsonst“ bekamen. Dass sie Sklaven waren, schwer arbeiten mussten und ihre Kinder getötet wurden, haben sie vergessen. Die Erinnerung an die Vergangenheit wird schöner, als sie war.
+> Gott gibt ihnen jeden Tag Manna, Brot vom Himmel. Aber sie sind es leid. Sie sehen nicht mehr das Wunder, sondern nur noch das Immergleiche.
+> Bdellium ist ein durchsichtiges, gelbliches Harz.
+
+---
+
+### Mose kann nicht mehr (Vers 10–15)
+
+<sup>10</sup>Mose hörte, wie das Volk weinte, Familie für Familie, jeder am Eingang seines Zeltes.
+Da wurde der HERR sehr zornig.
+Und auch Mose fand es schlimm.
+<sup>11</sup>Mose sagte zum HERRN:
+„Warum behandelst du deinen Diener so schlecht?
+Warum finde ich keine Gnade in deinen Augen,
+dass du mir die Last dieses ganzen Volkes auflegst?
+<sup>12</sup>Habe ich denn dieses ganze Volk empfangen?
+Habe ich es geboren,
+dass du zu mir sagst: ‚Trag es an deiner Brust, wie eine Amme ein Baby trägt,
+in das Land, das du ihren Vätern geschworen hast‘?
+<sup>13</sup>Woher soll ich Fleisch nehmen, um es diesem ganzen Volk zu geben?
+Denn sie weinen vor mir und sagen: ‚Gib uns Fleisch zu essen!‘
+<sup>14</sup>Ich allein kann dieses ganze Volk nicht tragen.
+Es ist mir zu schwer.
+<sup>15</sup>Wenn du so mit mir umgehst,
+dann töte mich lieber gleich, wenn ich Gnade in deinen Augen gefunden habe.
+Dann muss ich mein Elend nicht mehr ansehen.“
+
+> **Was bedeutet das?**
+> Hier zeigt die Bibel einen großen Führer am Ende seiner Kraft. Mose ist erschöpft und verzweifelt. Er wünscht sich sogar den Tod.
+> Mose redet ganz offen mit Gott, sogar mit Vorwürfen. Und Gott bestraft ihn nicht dafür. Er hört zu und hilft. Man darf Gott alles sagen, auch seine Verzweiflung.
+> Das Bild ist stark: Mose fühlt sich wie eine Mutter, die ein schreiendes Baby tragen muss. Aber er sagt: „Ich bin doch nicht ihre Mutter!“ Damit sagt er indirekt: Du, Gott, hast dieses Volk geboren. Du musst es tragen.
+> Auch andere große Menschen in der Bibel waren so erschöpft, dass sie sterben wollten, zum Beispiel Elia (1. Könige 19,4) und Jona (Jona 4,3).
+> Wer sich heute so fühlt, ist nicht allein. Es ist gut, mit jemandem darüber zu sprechen und Hilfe zu suchen.
+
+---
+
+### Gott verspricht Hilfe und Fleisch (Vers 16–23)
+
+<sup>16</sup>Der HERR sagte zu Mose:
+„Versammle mir 70 Männer von den Ältesten Israels,
+von denen du weißt, dass sie Älteste des Volkes und seine Aufseher sind.
+Bring sie zum Zelt der Begegnung. Sie sollen sich dort mit dir hinstellen.
+<sup>17</sup>Ich will herabkommen und dort mit dir reden.
+Ich will etwas von dem Geist nehmen, der auf dir ist, und ihn auf sie legen.
+Dann sollen sie die Last des Volkes mit dir tragen,
+damit du sie nicht allein tragen musst.
+
+<sup>18</sup>Und sag zum Volk:
+‚Heiligt euch für morgen. Dann werdet ihr Fleisch essen.
+Denn ihr habt vor den Ohren des HERRN geweint und gesagt:
+„Wer gibt uns Fleisch zu essen? In Ägypten ging es uns gut.“
+Darum wird der HERR euch Fleisch geben, und ihr werdet essen.
+<sup>19</sup>Ihr werdet nicht nur einen Tag essen, nicht zwei Tage, nicht fünf Tage, nicht zehn Tage und nicht zwanzig Tage,
+<sup>20</sup>sondern einen ganzen Monat lang,
+bis es euch zur Nase herauskommt und es euch ekelt.
+Denn ihr habt den HERRN verworfen, der mitten unter euch ist,
+und ihr habt vor ihm geweint und gesagt: „Warum sind wir aus Ägypten ausgezogen?“‘“
+
+<sup>21</sup>Mose sagte:
+„Das Volk, in dessen Mitte ich lebe, sind 600.000 Mann zu Fuß.
+Und du sagst: ‚Ich will ihnen Fleisch geben, dass sie einen ganzen Monat lang essen.‘
+<sup>22</sup>Soll man für sie Schafe und Rinder schlachten, damit es für sie reicht?
+Oder soll man alle Fische im Meer für sie fangen, damit es für sie reicht?“
+<sup>23</sup>Der HERR sagte zu Mose:
+„Ist die Hand des HERRN etwa zu kurz?
+Jetzt wirst du sehen, ob mein Wort für dich eintrifft oder nicht.“
+
+> **Was bedeutet das?**
+> Gott antwortet auf zwei Probleme: Mose bekommt Helfer, und das Volk bekommt Fleisch.
+> Die Helfer bekommen etwas von dem Geist, der auf Mose ist. Mose verliert dadurch nichts. Gottes Geist wird geteilt, aber nicht weniger. Wie eine Kerze, an der man andere Kerzen anzündet.
+> Das Fleisch ist aber kein reines Geschenk. „Bis es euch zur Nase herauskommt“ – Gott gibt ihnen, was sie wollen, im Übermaß. Manchmal ist das, was wir unbedingt wollen, nicht gut für uns.
+> Sogar Mose zweifelt, ob Gott das schaffen kann. Gottes Antwort: „Ist meine Hand zu kurz?“ Das heißt: Ist mir etwas zu schwer?
+
+---
+
+### Der Geist kommt auf die 70 Ältesten (Vers 24–30)
+
+<sup>24</sup>Mose ging hinaus und sagte dem Volk die Worte des HERRN.
+Er versammelte 70 Männer von den Ältesten des Volkes
+und stellte sie rings um das Zelt.
+<sup>25</sup>Der HERR kam in der Wolke herab und redete mit ihm.
+Er nahm etwas von dem Geist, der auf ihm war, und legte ihn auf die 70 Ältesten.
+Als der Geist auf ihnen ruhte, redeten sie prophetisch.
+Aber danach taten sie es nicht mehr.
+
+<sup>26</sup>Zwei Männer waren aber im Lager geblieben.
+Der eine hieß Eldad und der andere Medad.
+Auch auf ihnen ruhte der Geist.
+Sie gehörten zu denen, die aufgeschrieben waren,
+aber sie waren nicht hinaus zum Zelt gegangen.
+Und sie redeten prophetisch im Lager.
+<sup>27</sup>Da lief ein junger Mann zu Mose und berichtete ihm:
+„Eldad und Medad reden prophetisch im Lager!“
+<sup>28</sup>Josua, der Sohn von Nun, der Diener von Mose, der von Jugend an bei ihm war, antwortete:
+„Mein Herr Mose, verbiete es ihnen!“
+<sup>29</sup>Mose sagte zu ihm:
+„Bist du eifersüchtig für mich?
+Ich wünschte, das ganze Volk des HERRN wären Propheten,
+und der HERR würde seinen Geist auf sie alle legen!“
+<sup>30</sup>Dann ging Mose ins Lager zurück, er und die Ältesten Israels.
+
+> **Was bedeutet das?**
+> „Prophetisch reden“ heißt hier wohl: Sie wurden von Gottes Geist ergriffen und redeten begeistert, vielleicht lobten sie Gott laut. Es war ein sichtbares Zeichen, dass Gottes Geist auf ihnen war.
+> Eldad und Medad sind nicht am richtigen Ort. Trotzdem kommt Gottes Geist auf sie. Gott lässt sich nicht einsperren, nicht einmal in sein eigenes Heiligtum.
+> Josua will Mose schützen. Er hat Angst, dass Mose an Ansehen verliert. Aber Mose ist großzügig: „Ich wünschte, alle wären Propheten!“ Mose will keine Macht für sich allein. Er freut sich, wenn andere auch Gottes Geist bekommen.
+> Dieser Wunsch von Mose geht später in Erfüllung. Der Prophet Joel kündigt an: „Ich will meinen Geist ausgießen über alle Menschen“ (Joel 3,1). Und an Pfingsten sagt Petrus, dass das jetzt geschehen ist (Apostelgeschichte 2,17).
+
+---
+
+### Die Wachteln und die Strafe (Vers 31–35)
+
+<sup>31</sup>Da ging ein Wind vom HERRN aus
+und brachte Wachteln vom Meer herbei.
+Er ließ sie rings um das Lager fallen,
+etwa eine Tagesreise weit nach der einen Seite und eine Tagesreise weit nach der anderen Seite,
+und etwa 90 Zentimeter hoch über dem Boden.
+<sup>32</sup>Das Volk stand auf und sammelte die Wachteln, den ganzen Tag, die ganze Nacht und den ganzen nächsten Tag.
+Wer am wenigsten sammelte, hatte über 2000 Liter.
+Und sie breiteten sie für sich rings um das Lager aus.
+<sup>33</sup>Das Fleisch war noch zwischen ihren Zähnen, noch bevor es gekaut war,
+da wurde der HERR zornig über das Volk.
+Und der HERR schlug das Volk mit einer sehr schweren Plage.
+<sup>34</sup>Man nannte diesen Ort Kibrot-Hattaawa,
+weil man dort die Leute begrub, die gierig gewesen waren.
+<sup>35</sup>Von Kibrot-Hattaawa zog das Volk weiter nach Hazerot.
+Und sie blieben in Hazerot.
+
+> **Was bedeutet das?**
+> In der Bibel steht: zwei Ellen hoch und zehn Homer. Eine Elle sind etwa 45 Zentimeter, ein Homer etwa 220 Liter.
+> Wachteln sind kleine Vögel, die zweimal im Jahr in großen Schwärmen über das Gebiet ziehen. Wenn sie müde sind, fliegen sie sehr niedrig, und man kann sie leicht fangen. Gott schickt einen Wind, der sie genau zum Lager bringt.
+> „Zwei Ellen hoch“ kann bedeuten, dass die Vögel so hoch übereinander lagen. Oder dass sie so niedrig flogen, dass man sie mit der Hand fangen konnte.
+> Die Leute sammeln wie im Rausch, zwei Tage und eine Nacht lang. Ihre Gier ist das Problem, nicht das Fleisch.
+> „Kibrot-Hattaawa“ bedeutet „Gräber der Gier“. Der Ort erinnert daran, dass Gier tödlich sein kann.
+> In Psalm 106,15 heißt es dazu: „Er gab ihnen, was sie verlangten, aber er schickte ihnen Auszehrung.“
+
+## 4. Mose – Kapitel 12
+#### Mirjam und Aaron reden gegen Mose
+
+---
+
+### Der Vorwurf (Vers 1–3)
+
+<sup>1</sup>Mirjam und Aaron redeten gegen Mose,
+wegen der kuschitischen Frau, die er geheiratet hatte.
+Denn er hatte eine Kuschiterin geheiratet.
+<sup>2</sup>Sie sagten:
+„Hat der HERR etwa nur mit Mose geredet?
+Hat er nicht auch mit uns geredet?“
+Und der HERR hörte es.
+<sup>3</sup>Mose aber war ein sehr demütiger Mann,
+demütiger als alle anderen Menschen auf der Erde.
+
+> **Was bedeutet das?**
+> Mirjam und Aaron sind die älteren Geschwister von Mose. Mirjam hat ihn als Baby gerettet (2. Mose 2,4–8) und nach dem Durchzug durch das Meer das Siegeslied angestimmt (2. Mose 15,20–21). Aaron ist der Hohepriester.
+> „Kusch“ ist das Land südlich von Ägypten, das heutige Sudan oder Äthiopien. Die Menschen dort hatten eine dunkle Hautfarbe. Wer diese Frau ist, ist nicht ganz klar. Vielleicht ist es Zippora, die erste Frau von Mose. Vielleicht hat Mose eine zweite Frau geheiratet.
+> Der Vorwurf mit der Frau ist wohl nur ein Vorwand. Der eigentliche Grund ist Neid: „Wir sind doch auch wichtig! Gott redet auch mit uns!“
+> Mose verteidigt sich nicht. Die Bibel sagt: Er war der demütigste Mensch auf der Erde. Demütig heißt nicht schwach. Es heißt: Man muss sich nicht selbst groß machen. Man überlässt es Gott, einen zu verteidigen.
+
+---
+
+### Gott verteidigt Mose (Vers 4–9)
+
+<sup>4</sup>Plötzlich sagte der HERR zu Mose, zu Aaron und zu Mirjam:
+„Kommt ihr drei heraus zum Zelt der Begegnung!“
+Da kamen die drei heraus.
+<sup>5</sup>Der HERR kam in einer Wolkensäule herab
+und stellte sich an den Eingang des Zeltes.
+Er rief Aaron und Mirjam, und die beiden traten vor.
+<sup>6</sup>Er sagte:
+„Hört meine Worte!
+Wenn es unter euch einen Propheten gibt,
+dann mache ich, der HERR, mich ihm in einer Vision bekannt.
+In einem Traum rede ich mit ihm.
+<sup>7</sup>Aber so ist es nicht bei meinem Diener Mose.
+Er ist treu in meinem ganzen Haus.
+<sup>8</sup>Mit ihm rede ich von Mund zu Mund,
+deutlich und nicht in Rätseln.
+Und er sieht die Gestalt des HERRN.
+Warum habt ihr euch nicht gefürchtet, gegen meinen Diener, gegen Mose, zu reden?“
+<sup>9</sup>Und der HERR wurde zornig über sie und ging weg.
+
+> **Was bedeutet das?**
+> Gott selbst verteidigt Mose. Er erklärt: Ja, ich rede auch mit anderen Propheten, aber in Träumen und Bildern. Mit Mose rede ich direkt, „von Mund zu Mund“, wie mit einem Freund (2. Mose 33,11).
+> „Er ist treu in meinem ganzen Haus“ – Mose ist wie ein treuer Verwalter, dem man das ganze Haus anvertraut. Der Hebräerbrief im Neuen Testament zitiert diesen Vers und vergleicht Mose mit Jesus (Hebräer 3,2–6).
+
+---
+
+### Mirjam wird aussätzig (Vers 10–16)
+
+<sup>10</sup>Die Wolke wich von dem Zelt.
+Und schau: Mirjam war aussätzig, weiß wie Schnee.
+Aaron wandte sich zu Mirjam um, und schau: Sie war aussätzig.
+<sup>11</sup>Aaron sagte zu Mose:
+„Ach, mein Herr, rechne uns diese Sünde bitte nicht an.
+Wir haben töricht gehandelt und gesündigt.
+<sup>12</sup>Lass sie bitte nicht sein wie ein totgeborenes Kind,
+dessen Körper schon halb verwest ist, wenn es aus dem Mutterleib kommt.“
+<sup>13</sup>Da schrie Mose zum HERRN:
+„Gott, heile sie doch, ich bitte dich!“
+
+<sup>14</sup>Der HERR sagte zu Mose:
+„Wenn ihr Vater ihr ins Gesicht gespuckt hätte,
+müsste sie sich dann nicht sieben Tage lang schämen?
+Sie soll sieben Tage lang außerhalb des Lagers eingeschlossen sein.
+Danach soll man sie wieder hereinholen.“
+<sup>15</sup>Da wurde Mirjam sieben Tage lang außerhalb des Lagers eingeschlossen.
+Und das Volk zog nicht weiter, bis Mirjam wieder hereingeholt worden war.
+<sup>16</sup>Danach zog das Volk von Hazerot weiter
+und schlug sein Lager in der Wüste Paran auf.
+
+> **Was bedeutet das?**
+> Mirjam wird krank, „weiß wie Schnee“. Das ist eine Art Hautkrankheit (siehe 3. Mose 13). Es ist eine bittere Ironie: Sie hat sich über eine Frau mit dunkler Haut beschwert, und jetzt wird ihre eigene Haut weiß und krank.
+> Warum wird nur Mirjam bestraft und nicht Aaron? Die Bibel sagt es nicht. Vielleicht weil Mirjam die treibende Kraft war. Ihr Name steht in Vers 1 zuerst. Vielleicht wird Aaron verschont, weil er als Hoherpriester sonst seinen Dienst nicht tun könnte. Für uns heute wirkt das trotzdem ungleich.
+> Wunderbar ist die Reaktion von Mose. Er ist nicht beleidigt und rächt sich nicht. Er betet sofort für seine Schwester. Es ist eines der kürzesten Gebete der Bibel: „Gott, heile sie doch!“
+> Gott hört das Gebet. Mirjam muss nur sieben Tage draußen bleiben, dann wird sie gesund und kommt zurück.
+> Und das ganze Volk wartet auf sie. Niemand zieht weiter, bevor Mirjam zurück ist. Sie ist nicht vergessen. Sie gehört dazu.
