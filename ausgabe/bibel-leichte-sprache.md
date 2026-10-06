@@ -16439,3 +16439,290 @@ Ich bin der HERR.“
 > **Was bedeutet das?**
 > „Ich will unter den Israeliten geheiligt werden.“ Wenn Menschen gut und gerecht leben, wird Gottes Name geehrt. Wenn sie Böses tun, wird sein Name „entweiht“, also in den Schmutz gezogen.
 > Im Judentum nennt man es „Kiddusch Haschem“, die Heiligung des Namens, wenn jemand durch sein Verhalten Gott Ehre macht. Christen beten im Vaterunser: „Geheiligt werde dein Name.“
+
+## 3. Mose – Kapitel 23
+#### Die Feste des HERRN
+
+---
+
+### Der Sabbat (Vers 1–3)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Das sind die festgesetzten Feste des HERRN, die ihr als heilige Versammlungen ausrufen sollt.
+Das sind meine Feste.
+
+<sup>3</sup>Sechs Tage soll man arbeiten.
+Aber der siebte Tag ist ein Sabbat, ein Tag der völligen Ruhe, eine heilige Versammlung.
+Ihr sollt keinerlei Arbeit tun.
+Es ist ein Sabbat für den HERRN, überall, wo ihr wohnt.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist wie ein Festkalender. Es nennt alle Feste, die Israel jedes Jahr feiern soll.
+> Am Anfang steht der Sabbat, das Fest jeder Woche. Er ist die Grundlage aller anderen Feste.
+> „Heilige Versammlung“ heißt: Das Volk kommt zusammen, um Gott zu feiern und anzubeten.
+> Die Feste sind „Feste des HERRN“. Sie gehören Gott. Sie sind Zeiten, in denen Gott und sein Volk sich begegnen.
+
+---
+
+### Passa und das Fest der ungesäuerten Brote (Vers 4–8)
+
+<sup>4</sup>Das sind die festgesetzten Feste des HERRN, die heiligen Versammlungen,
+die ihr zu ihrer festgesetzten Zeit ausrufen sollt:
+<sup>5</sup>Im ersten Monat, am vierzehnten Tag des Monats, am Abend, ist das Passa des HERRN.
+<sup>6</sup>Am fünfzehnten Tag desselben Monats ist das Fest der ungesäuerten Brote für den HERRN.
+Sieben Tage lang sollt ihr ungesäuertes Brot essen.
+<sup>7</sup>Am ersten Tag sollt ihr eine heilige Versammlung haben.
+Ihr sollt keine gewöhnliche Arbeit tun.
+<sup>8</sup>Sieben Tage lang sollt ihr dem HERRN ein Feueropfer bringen.
+Am siebten Tag ist eine heilige Versammlung.
+Ihr sollt keine gewöhnliche Arbeit tun.‘“
+
+> **Was bedeutet das?**
+> Das Passa erinnert an die Nacht der Befreiung aus Ägypten (2. Mose 12). Der erste Monat ist im Frühling, im März oder April.
+> Bis heute feiern Juden das Passafest, auf Hebräisch „Pessach“, mit einem besonderen Abendessen, dem Seder.
+> Jesus feierte mit seinen Jüngern das Passamahl, bevor er starb. Daraus wurde das Abendmahl. Ostern liegt bis heute zur Zeit des Passafestes.
+
+---
+
+### Die erste Garbe der Ernte (Vers 9–14)
+
+<sup>9</sup>Der HERR sprach zu Mose:
+<sup>10</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr in das Land kommt, das ich euch gebe, und ihr erntet seine Ernte,
+dann sollt ihr die erste Garbe eurer Ernte zum Priester bringen.
+<sup>11</sup>Er soll die Garbe vor dem HERRN hin- und herschwingen, damit ihr angenommen werdet.
+Am Tag nach dem Sabbat soll der Priester sie schwingen.
+<sup>12</sup>An dem Tag, an dem ihr die Garbe schwingt,
+sollt ihr ein einjähriges männliches Lamm ohne Fehler als Brandopfer für den HERRN darbringen.
+<sup>13</sup>Das Speiseopfer dazu sollen gut 4 Liter feines Mehl sein, mit Öl vermengt,
+ein Feueropfer für den HERRN, ein angenehmer Duft.
+Und das Trankopfer dazu soll ein Liter Wein sein.
+<sup>14</sup>Ihr dürft kein Brot, kein geröstetes Korn und kein frisches Korn essen,
+bis zu diesem Tag, bis ihr die Opfergabe für euren Gott gebracht habt.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen, überall, wo ihr wohnt.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße so: zwei Zehntel Efa Mehl und ein Viertel Hin Wein.
+> Eine „Garbe“ ist ein Bündel gemähter Getreidehalme. Die allererste Garbe der Gerstenernte gehört Gott. Erst danach darf man selbst vom neuen Getreide essen. So sagt man Gott Danke für die ganze Ernte.
+> Paulus nennt Jesus „den Erstling“ der Auferstandenen (1. Korinther 15,20). Christen sehen hier einen Zusammenhang: Jesus ist am Tag nach dem Sabbat auferstanden, also genau am Tag der ersten Garbe.
+
+---
+
+### Das Wochenfest: fünfzig Tage später (Vers 15–22)
+
+<sup>15</sup>Ihr sollt zählen vom Tag nach dem Sabbat an,
+von dem Tag an, an dem ihr die Garbe für das Schwingopfer gebracht habt:
+Sieben volle Wochen sollen es sein.
+<sup>16</sup>Bis zum Tag nach dem siebten Sabbat sollt ihr fünfzig Tage zählen.
+Dann sollt ihr dem HERRN ein neues Speiseopfer bringen.
+<sup>17</sup>Aus euren Wohnungen sollt ihr zwei Brote als Schwingopfer bringen.
+Sie sollen aus gut 4 Litern feinem Mehl gemacht sein.
+Sie sollen mit Sauerteig gebacken sein, als erste Früchte für den HERRN.
+<sup>18</sup>Mit dem Brot sollt ihr sieben einjährige Lämmer ohne Fehler,
+einen jungen Stier und zwei Schafböcke darbringen.
+Sie sollen ein Brandopfer für den HERRN sein, mit ihrem Speiseopfer und ihren Trankopfern,
+ein Feueropfer, ein angenehmer Duft für den HERRN.
+<sup>19</sup>Ihr sollt einen Ziegenbock als Sündopfer darbringen
+und zwei einjährige männliche Lämmer als Gemeinschaftsopfer.
+<sup>20</sup>Der Priester soll sie mit dem Brot der ersten Früchte als Schwingopfer vor dem HERRN hin- und herschwingen,
+zusammen mit den zwei Lämmern.
+Sie sollen dem HERRN heilig sein und dem Priester gehören.
+<sup>21</sup>Am selben Tag sollt ihr ausrufen, dass für euch eine heilige Versammlung ist.
+Ihr sollt keine gewöhnliche Arbeit tun.
+Das ist eine feste Ordnung für alle Zeiten, überall, wo ihr wohnt, für alle eure Generationen.
+
+<sup>22</sup>Wenn ihr die Ernte eures Landes einbringt,
+dürft ihr euer Feld nicht bis in die äußersten Ecken abernten.
+Und ihr dürft die Ähren nicht auflesen, die bei der Ernte liegen bleiben.
+Ihr sollt sie für die Armen und für den Fremden übrig lassen.
+Ich bin der HERR, euer Gott.‘“
+
+> **Was bedeutet das?**
+> Sieben Wochen nach der ersten Garbe ist die Weizenernte zu Ende. Dann feiert man das Wochenfest, auf Hebräisch „Schawuot“. Juden erinnern sich an diesem Fest auch daran, dass Gott am Sinai die Tora gegeben hat.
+> „Fünfzig“ heißt auf Griechisch „Pentekoste“. Daher kommt das deutsche Wort „Pfingsten“. An diesem Fest kam der Heilige Geist auf die Jünger von Jesus (Apostelgeschichte 2).
+> Mitten im Festkalender steht wieder die Regel für die Armen (wie in 3. Mose 19,9–10). Wer ein Fest feiert, soll die Armen nicht vergessen.
+
+---
+
+### Das Fest der Trompeten (Vers 23–25)
+
+<sup>23</sup>Der HERR sprach zu Mose:
+<sup>24</sup>„Sprich zu den Israeliten und sag:
+‚Im siebten Monat, am ersten Tag des Monats, sollt ihr einen Ruhetag haben,
+einen Gedenktag mit Trompetenblasen, eine heilige Versammlung.
+<sup>25</sup>Ihr sollt keine gewöhnliche Arbeit tun.
+Und ihr sollt dem HERRN ein Feueropfer bringen.‘“
+
+> **Was bedeutet das?**
+> Der siebte Monat ist im Herbst. Am ersten Tag dieses Monats wird ins Horn geblasen. Gemeint ist das „Schofar“, ein Horn von einem Widder.
+> Heute feiern Juden an diesem Tag ihr Neujahrsfest, „Rosch ha-Schana“. Es ist der Beginn von zehn Tagen der Besinnung und Umkehr bis zum Versöhnungstag.
+
+---
+
+### Der Versöhnungstag (Vers 26–32)
+
+<sup>26</sup>Der HERR sprach zu Mose:
+<sup>27</sup>„Aber am zehnten Tag dieses siebten Monats ist der Versöhnungstag.
+Er soll für euch eine heilige Versammlung sein.
+Ihr sollt euch demütigen und dem HERRN ein Feueropfer bringen.
+<sup>28</sup>An diesem Tag sollt ihr keinerlei Arbeit tun.
+Denn es ist der Versöhnungstag, an dem für euch vor dem HERRN, eurem Gott, Versöhnung geschaffen wird.
+<sup>29</sup>Denn jeder, der sich an diesem Tag nicht demütigt, soll aus seinem Volk ausgeschlossen werden.
+<sup>30</sup>Und jeden, der an diesem Tag irgendeine Arbeit tut, werde ich aus seinem Volk vernichten.
+<sup>31</sup>Ihr sollt keinerlei Arbeit tun.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen, überall, wo ihr wohnt.
+<sup>32</sup>Es soll für euch ein Sabbat sein, ein Tag der völligen Ruhe.
+Und ihr sollt euch demütigen.
+Am neunten Tag des Monats, am Abend, von Abend bis Abend, sollt ihr euren Sabbat halten.“
+
+> **Was bedeutet das?**
+> Der Versöhnungstag, „Jom Kippur“, wurde schon in Kapitel 16 ausführlich beschrieben.
+> „Von Abend bis Abend“ – im jüdischen Kalender beginnt jeder Tag am Abend, wenn die Sonne untergeht. So steht es schon in der Schöpfungsgeschichte: „Es wurde Abend, und es wurde Morgen“ (1. Mose 1,5).
+
+---
+
+### Das Laubhüttenfest (Vers 33–44)
+
+<sup>33</sup>Der HERR sprach zu Mose:
+<sup>34</sup>„Sprich zu den Israeliten und sag:
+‚Am fünfzehnten Tag dieses siebten Monats ist das Laubhüttenfest, sieben Tage lang, für den HERRN.
+<sup>35</sup>Am ersten Tag soll eine heilige Versammlung sein.
+Ihr sollt keine gewöhnliche Arbeit tun.
+<sup>36</sup>Sieben Tage lang sollt ihr dem HERRN ein Feueropfer bringen.
+Am achten Tag sollt ihr eine heilige Versammlung haben.
+Ihr sollt dem HERRN ein Feueropfer bringen.
+Es ist eine feierliche Versammlung. Ihr sollt keine gewöhnliche Arbeit tun.
+
+<sup>37</sup>Das sind die festgesetzten Feste des HERRN, die ihr als heilige Versammlungen ausrufen sollt,
+um dem HERRN Feueropfer zu bringen:
+Brandopfer, Speiseopfer, Schlachtopfer und Trankopfer, jedes an seinem Tag –
+<sup>38</sup>zusätzlich zu den Sabbaten des HERRN
+und zusätzlich zu euren Gaben, zu allen euren Versprechen
+und zu allen euren freiwilligen Gaben, die ihr dem HERRN gebt.
+
+<sup>39</sup>Am fünfzehnten Tag des siebten Monats,
+wenn ihr die Früchte des Landes eingebracht habt,
+sollt ihr das Fest des HERRN sieben Tage lang feiern.
+Am ersten Tag soll Ruhetag sein, und am achten Tag soll Ruhetag sein.
+<sup>40</sup>Am ersten Tag sollt ihr euch Früchte von prächtigen Bäumen nehmen,
+Palmzweige, Zweige von dicht belaubten Bäumen und Weiden vom Bach.
+Und ihr sollt euch sieben Tage lang vor dem HERRN, eurem Gott, freuen.
+<sup>41</sup>Ihr sollt es als Fest für den HERRN feiern, sieben Tage im Jahr.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen.
+Im siebten Monat sollt ihr es feiern.
+<sup>42</sup>Sieben Tage lang sollt ihr in Hütten wohnen.
+Alle Einheimischen in Israel sollen in Hütten wohnen.
+<sup>43</sup>So sollen eure Nachkommen wissen,
+dass ich die Israeliten in Hütten wohnen ließ, als ich sie aus dem Land Ägypten herausführte.
+Ich bin der HERR, euer Gott.‘“
+<sup>44</sup>So verkündete Mose den Israeliten die festgesetzten Feste des HERRN.
+
+> **Was bedeutet das?**
+> Das Laubhüttenfest, auf Hebräisch „Sukkot“, ist das große Erntedankfest im Herbst. Alle Früchte sind eingebracht.
+> Sieben Tage lang wohnt man in einfachen Hütten aus Zweigen. So erinnert man sich an die Zeit in der Wüste, als Israel keine festen Häuser hatte und ganz auf Gott vertrauen musste.
+> „Ihr sollt euch freuen“ – das ist sogar ein Gebot! Gott will, dass sein Volk fröhlich feiert.
+> Bis heute bauen Juden zu diesem Fest Hütten im Garten oder auf dem Balkon. Sie nehmen einen Feststrauß aus Palmzweig, Myrte, Weide und einer Zitrusfrucht, dem Etrog.
+> Viele Christen feiern im Herbst Erntedank. Auch das erinnert daran, dass alles, was wir haben, ein Geschenk Gottes ist.
+
+## 3. Mose – Kapitel 24
+#### Das Licht, die Brote und ein Gotteslästerer
+
+---
+
+### Das Öl für den Leuchter (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Befiehl den Israeliten, dass sie dir reines Olivenöl bringen,
+aus zerstoßenen Oliven, für das Licht,
+damit ständig eine Lampe brennt.
+<sup>3</sup>Außerhalb des Vorhangs vor dem Zeugnis des Bundes, im Zelt der Begegnung,
+soll Aaron sie ständig in Ordnung halten, vom Abend bis zum Morgen, vor dem HERRN.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen.
+<sup>4</sup>Er soll die Lampen auf dem Leuchter aus reinem Gold ständig in Ordnung halten, vor dem HERRN.
+
+> **Was bedeutet das?**
+> Das wurde schon in 2. Mose 27,20–21 befohlen. Jetzt wird es wiederholt.
+> Das Licht im Heiligtum soll nie ausgehen. Es ist ein Zeichen: Gott ist immer da, auch in der Nacht. Und sein Volk soll immer an ihn denken.
+
+---
+
+### Die zwölf Brote (Vers 5–9)
+
+<sup>5</sup>Nimm feines Mehl und back daraus zwölf Brote.
+Jedes Brot soll aus gut 4 Litern Mehl sein.
+<sup>6</sup>Leg sie in zwei Reihen, sechs in jede Reihe, auf den Tisch aus reinem Gold vor dem HERRN.
+<sup>7</sup>Leg auf jede Reihe reinen Weihrauch.
+Er soll für das Brot ein Gedenkteil sein, ein Feueropfer für den HERRN.
+<sup>8</sup>An jedem Sabbattag soll er sie ständig vor dem HERRN neu hinlegen.
+Das ist ein ewiger Bund von den Israeliten.
+<sup>9</sup>Die Brote sollen Aaron und seinen Söhnen gehören.
+Sie sollen sie an einem heiligen Ort essen.
+Denn sie sind für ihn das Hochheiligste von den Feueropfern für den HERRN, als feste Ordnung für alle Zeiten.
+
+> **Was bedeutet das?**
+> In der Bibel steht: zwei Zehntel Efa für jedes Brot. Das waren große Brote.
+> Diese Brote heißen „Schaubrote“. Es sind zwölf, für die zwölf Stämme Israels. Sie liegen ständig vor Gott. Das ganze Volk ist so immer vor Gott gegenwärtig.
+> Jede Woche am Sabbat werden neue Brote hingelegt. Die alten Brote essen die Priester.
+> Im Neuen Testament erinnert Jesus daran, dass David einmal in großer Not von diesen heiligen Broten gegessen hat (Markus 2,25–26; 1. Samuel 21). Jesus sagt damit: Die Not eines Menschen ist Gott wichtiger als eine Regel.
+
+---
+
+### Ein Mann lästert Gott (Vers 10–12)
+
+<sup>10</sup>Der Sohn einer Israelitin, dessen Vater ein Ägypter war, ging unter die Israeliten hinaus.
+Und der Sohn der Israelitin stritt sich im Lager mit einem israelitischen Mann.
+<sup>11</sup>Dabei lästerte der Sohn der Israelitin den Namen Gottes und fluchte.
+Da brachte man ihn zu Mose.
+Seine Mutter hieß Schelomit. Sie war die Tochter von Dibri aus dem Stamm Dan.
+<sup>12</sup>Man nahm ihn in Gewahrsam, bis ihnen der Wille des HERRN deutlich gesagt würde.
+
+> **Was bedeutet das?**
+> Hier unterbricht eine Geschichte die vielen Gesetze. Es ist eine der wenigen Erzählungen im 3. Buch Mose.
+> „Den Namen lästern“ heißt: den Namen Gottes beschimpfen, verfluchen oder verächtlich machen. Der Name Gottes ist hier „der HERR“, auf Hebräisch JHWH.
+> Mose entscheidet nicht selbst. Er wartet, bis Gott sagt, was geschehen soll. Bei schweren Fällen soll man nicht vorschnell urteilen.
+
+---
+
+### Gottes Urteil und das gleiche Recht für alle (Vers 13–22)
+
+<sup>13</sup>Der HERR sprach zu Mose:
+<sup>14</sup>„Führ den, der geflucht hat, hinaus vor das Lager.
+Alle, die es gehört haben, sollen ihre Hände auf seinen Kopf legen.
+Und die ganze Gemeinde soll ihn steinigen.
+<sup>15</sup>Und sprich zu den Israeliten:
+‚Wer seinem Gott flucht, trägt seine Sünde.
+<sup>16</sup>Wer den Namen des HERRN lästert, muss getötet werden.
+Die ganze Gemeinde soll ihn steinigen.
+Der Fremde genauso wie der Einheimische:
+Wer den Namen lästert, muss getötet werden.
+
+<sup>17</sup>Wer einen Menschen erschlägt, muss getötet werden.
+<sup>18</sup>Wer ein Tier erschlägt, soll es ersetzen: Leben für Leben.
+<sup>19</sup>Wenn jemand seinen Nächsten verletzt,
+dann soll man ihm tun, wie er getan hat:
+<sup>20</sup>Bruch für Bruch, Auge für Auge, Zahn für Zahn.
+Wie er einen Menschen verletzt hat, so soll ihm getan werden.
+<sup>21</sup>Wer ein Tier erschlägt, soll es ersetzen.
+Und wer einen Menschen erschlägt, muss getötet werden.
+<sup>22</sup>Ihr sollt ein und dasselbe Recht haben, für den Fremden genauso wie für den Einheimischen.
+Denn ich bin der HERR, euer Gott.‘“
+
+> **Was bedeutet das?**
+> Die Strafe für Gotteslästerung ist sehr hart. Damals galt der Name Gottes als das Heiligste überhaupt. Wer ihn verfluchte, griff das ganze Volk und seinen Bund mit Gott an.
+> Aus Ehrfurcht sprechen Juden den Namen JHWH bis heute nicht aus. Sie sagen stattdessen „Adonai“ (der Herr) oder „HaSchem“ (der Name). Darum steht auch in deutschen Bibeln oft „der HERR“ in Großbuchstaben.
+> „Auge für Auge, Zahn für Zahn“ klingt grausam. Aber damals war es ein Fortschritt: Die Strafe darf nicht größer sein als der Schaden. Es ging darum, Rache zu begrenzen. Im Judentum wurde das schon früh als Schadensersatz in Geld verstanden: Wer ein Auge verletzt, zahlt so viel, wie ein Auge wert ist.
+> Jesus ging noch weiter. Er sagte: „Ihr habt gehört: Auge für Auge, Zahn für Zahn. Ich aber sage euch: Leistet dem Bösen keinen Widerstand“ und „Liebt eure Feinde“ (Matthäus 5,38–44).
+> Sehr wichtig ist Vers 22: Für Fremde und Einheimische gilt dasselbe Recht. Niemand soll vor Gericht benachteiligt werden, weil er Ausländer ist.
+
+---
+
+### Die Strafe wird vollstreckt (Vers 23)
+
+<sup>23</sup>Mose sprach zu den Israeliten.
+Und sie führten den, der geflucht hatte, hinaus vor das Lager und steinigten ihn mit Steinen.
+Die Israeliten taten, wie der HERR es Mose befohlen hatte.
+
+> **Was bedeutet das?**
+> Das ist ein trauriges Ende. Die Bibel erzählt es ohne Beschönigung.
+> Viele Menschen haben gefragt: Warum erzählt die Bibel so etwas? Sie zeigt, wie ernst man damals Gottes Heiligkeit nahm. Für uns heute ist klar: Niemand darf Menschen wegen Gotteslästerung töten. Auch die großen jüdischen und christlichen Gemeinschaften lehnen das ab. Leider gibt es bis heute Länder, in denen Menschen für Gotteslästerung verfolgt werden. Das widerspricht der Würde, die jeder Mensch als Ebenbild Gottes hat.
