@@ -16726,3 +16726,454 @@ Die Israeliten taten, wie der HERR es Mose befohlen hatte.
 > **Was bedeutet das?**
 > Das ist ein trauriges Ende. Die Bibel erzählt es ohne Beschönigung.
 > Viele Menschen haben gefragt: Warum erzählt die Bibel so etwas? Sie zeigt, wie ernst man damals Gottes Heiligkeit nahm. Für uns heute ist klar: Niemand darf Menschen wegen Gotteslästerung töten. Auch die großen jüdischen und christlichen Gemeinschaften lehnen das ab. Leider gibt es bis heute Länder, in denen Menschen für Gotteslästerung verfolgt werden. Das widerspricht der Würde, die jeder Mensch als Ebenbild Gottes hat.
+
+## 3. Mose – Kapitel 25
+#### Das Sabbatjahr und das Jubeljahr
+
+---
+
+### Das Land soll ruhen (Vers 1–7)
+
+<sup>1</sup>Der HERR sprach zu Mose auf dem Berg Sinai:
+<sup>2</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr in das Land kommt, das ich euch gebe,
+dann soll das Land einen Sabbat für den HERRN halten.
+<sup>3</sup>Sechs Jahre lang sollst du dein Feld besäen.
+Sechs Jahre lang sollst du deinen Weinberg beschneiden und seine Früchte ernten.
+<sup>4</sup>Aber im siebten Jahr soll das Land einen Sabbat haben, eine Zeit der völligen Ruhe, einen Sabbat für den HERRN.
+Du sollst dein Feld nicht besäen und deinen Weinberg nicht beschneiden.
+<sup>5</sup>Was von selbst nachwächst, sollst du nicht ernten.
+Und die Trauben deines unbeschnittenen Weinstocks sollst du nicht lesen.
+Es soll für das Land ein Jahr der völligen Ruhe sein.
+<sup>6</sup>Was das Land im Sabbatjahr trägt, soll euch als Nahrung dienen:
+dir, deinem Knecht, deiner Magd, deinem Tagelöhner
+und dem Fremden, der als Ausländer bei dir lebt.
+<sup>7</sup>Auch für dein Vieh und für die wilden Tiere in deinem Land soll alles, was es trägt, zur Nahrung sein.
+
+> **Was bedeutet das?**
+> So wie der Mensch jeden siebten Tag ruht, soll das Land jedes siebte Jahr ruhen. Es wird nicht gesät und nicht geerntet.
+> Das ist gut für den Boden. Er kann sich erholen. Moderne Bauern wissen: Wenn man ein Feld immer nur bebaut, wird es ausgelaugt.
+> Aber es geht um noch mehr: Das Land gehört Gott. In diesem Jahr gehört das, was von selbst wächst, allen gleich. Der Besitzer, der Knecht, der Fremde und sogar die wilden Tiere dürfen davon essen. Für ein Jahr sind alle gleich.
+
+---
+
+### Das Jubeljahr: Freiheit im ganzen Land (Vers 8–13)
+
+<sup>8</sup>Du sollst sieben Sabbatjahre zählen, sieben mal sieben Jahre.
+Die Zeit von sieben Sabbatjahren soll für dich 49 Jahre sein.
+<sup>9</sup>Dann sollst du am zehnten Tag des siebten Monats laut ins Horn blasen lassen.
+Am Versöhnungstag sollt ihr im ganzen Land ins Horn blasen lassen.
+<sup>10</sup>Ihr sollt das fünfzigste Jahr heiligen
+und im ganzen Land Freiheit ausrufen für alle seine Bewohner.
+Es soll für euch ein Jubeljahr sein.
+Jeder von euch soll zu seinem Besitz zurückkehren.
+Und jeder von euch soll zu seiner Familie zurückkehren.
+<sup>11</sup>Dieses fünfzigste Jahr soll für euch ein Jubeljahr sein.
+Ihr sollt nicht säen.
+Ihr sollt nicht ernten, was von selbst nachwächst.
+Und ihr sollt die unbeschnittenen Weinstöcke nicht lesen.
+<sup>12</sup>Denn es ist ein Jubeljahr. Es soll euch heilig sein.
+Ihr sollt essen, was das Feld von selbst trägt.
+<sup>13</sup>In diesem Jubeljahr soll jeder von euch zu seinem Besitz zurückkehren.
+
+> **Was bedeutet das?**
+> Nach sieben mal sieben Jahren kommt das fünfzigste Jahr, das „Jubeljahr“. Der Name kommt vom hebräischen Wort „Jobel“. Das ist das Widderhorn, das an diesem Tag geblasen wird.
+> Im Jubeljahr wird alles wieder so, wie es am Anfang war. Wer sein Land verkaufen musste, bekommt es zurück. Wer sich als Knecht verkaufen musste, wird frei. Jede Familie bekommt einen neuen Anfang.
+> So konnten nicht einige wenige Reiche immer reicher werden und alles Land aufkaufen, während andere für immer arm blieben. Alle 50 Jahre wurde die Ungleichheit wieder ausgeglichen.
+> Das Jubeljahr beginnt am Versöhnungstag. Erst wird die Schuld vor Gott vergeben, dann werden auch die Schulden zwischen den Menschen erlassen.
+> Die Worte „Ruft Freiheit aus im ganzen Land für alle seine Bewohner“ stehen auf der berühmten Freiheitsglocke in Amerika, der „Liberty Bell“.
+> Jesus hat sich auf dieses Jahr bezogen, als er sagte, er sei gekommen, „um den Gefangenen die Freiheit zu verkünden und ein Gnadenjahr des Herrn auszurufen“ (Lukas 4,18–19).
+> In der katholischen Kirche gibt es bis heute ein „Heiliges Jahr“ oder „Jubeljahr“. Im Jahr 2000 gab es eine weltweite Bewegung mit dem Namen „Erlassjahr“. Sie forderte, dass armen Ländern ihre Schulden erlassen werden.
+
+---
+
+### Gerecht kaufen und verkaufen (Vers 14–17)
+
+<sup>14</sup>Wenn ihr eurem Nächsten etwas verkauft oder von eurem Nächsten etwas kauft,
+dann sollt ihr einander nicht übervorteilen.
+<sup>15</sup>Nach der Zahl der Jahre seit dem Jubeljahr sollst du von deinem Nächsten kaufen.
+Nach der Zahl der Erntejahre soll er dir verkaufen.
+<sup>16</sup>Je mehr Jahre es sind, desto höher sollst du den Preis machen.
+Je weniger Jahre es sind, desto niedriger sollst du den Preis machen.
+Denn er verkauft dir nur die Zahl der Ernten.
+<sup>17</sup>Ihr sollt einander nicht übervorteilen,
+sondern du sollst deinen Gott fürchten.
+Denn ich bin der HERR, euer Gott.
+
+> **Was bedeutet das?**
+> Weil das Land im Jubeljahr zurückgegeben wird, verkauft man es eigentlich nicht für immer. Man verkauft nur die Ernten bis zum nächsten Jubeljahr. Es ist eher wie eine Pacht oder Miete.
+> Darum hängt der Preis davon ab, wie viele Jahre es noch bis zum Jubeljahr sind. So soll niemand betrogen werden.
+
+---
+
+### Gott sorgt für das Sabbatjahr (Vers 18–22)
+
+<sup>18</sup>Darum sollt ihr meine Ordnungen tun und meine Rechtsbestimmungen halten und sie tun.
+Dann werdet ihr in Sicherheit im Land wohnen.
+<sup>19</sup>Das Land wird seine Früchte geben.
+Ihr werdet euch satt essen und in Sicherheit darin wohnen.
+<sup>20</sup>Vielleicht sagt ihr:
+„Was sollen wir im siebten Jahr essen?
+Schau: Wir säen nicht, und wir ernten nichts.“
+<sup>21</sup>Dann will ich euch im sechsten Jahr meinen Segen schicken.
+Das Land wird Ertrag für drei Jahre bringen.
+<sup>22</sup>Im achten Jahr werdet ihr säen,
+und ihr werdet noch von der alten Ernte essen bis zum neunten Jahr.
+Bis seine Ernte kommt, werdet ihr von der alten Ernte essen.
+
+> **Was bedeutet das?**
+> Die Frage ist verständlich: Wovon sollen wir leben, wenn wir ein Jahr lang nichts ernten? Gott antwortet: Vertraut mir. Ich gebe euch im sechsten Jahr so viel, dass es für drei Jahre reicht.
+> Das erinnert an das Manna in der Wüste. Am sechsten Tag gab es doppelt so viel, damit man am Sabbat nicht sammeln musste (2. Mose 16,22–30).
+> Das Sabbatjahr ist eine Übung im Vertrauen. Jesus sagt: „Sorgt euch nicht ängstlich darum, was ihr essen werdet … Euer Vater im Himmel weiß, dass ihr das alles braucht“ (Matthäus 6,31–32).
+
+---
+
+### Das Land gehört Gott (Vers 23–28)
+
+<sup>23</sup>Das Land soll nicht für immer verkauft werden.
+Denn das Land gehört mir.
+Ihr seid nur Fremde und Gäste bei mir.
+<sup>24</sup>Im ganzen Land, das ihr besitzt, sollt ihr erlauben, dass das Land zurückgekauft wird.
+
+<sup>25</sup>Wenn dein Bruder arm wird und etwas von seinem Besitz verkauft,
+dann soll sein nächster Verwandter kommen und zurückkaufen, was sein Bruder verkauft hat.
+<sup>26</sup>Wenn aber jemand keinen hat, der es zurückkauft,
+und er kommt selbst wieder zu Geld und hat genug, um es zurückzukaufen,
+<sup>27</sup>dann soll er die Jahre seit dem Verkauf berechnen.
+Den Rest soll er dem Mann zurückzahlen, dem er es verkauft hat.
+Dann kehrt er zu seinem Besitz zurück.
+<sup>28</sup>Wenn er es aber nicht selbst zurückkaufen kann,
+dann bleibt, was er verkauft hat, bis zum Jubeljahr bei dem, der es gekauft hat.
+Im Jubeljahr wird es frei, und er kehrt zu seinem Besitz zurück.
+
+> **Was bedeutet das?**
+> Vers 23 ist die Grundlage für alles: „Das Land gehört mir. Ihr seid nur Gäste bei mir.“ Niemand besitzt das Land wirklich für immer. Gott ist der eigentliche Besitzer. Die Menschen sind nur seine Pächter.
+> Wenn jemand in Not sein Land verkaufen musste, gab es drei Wege, es zurückzubekommen:
+> 1. Ein naher Verwandter kauft es zurück. Er heißt auf Hebräisch „Goël“, also „Löser“.
+> 2. Der Verkäufer kommt wieder zu Geld und kauft es selbst zurück.
+> 3. Spätestens im Jubeljahr bekommt er es umsonst zurück.
+> Im Buch Rut ist Boas so ein „Löser“. Er kauft das Land für Noomi zurück und heiratet Rut (Rut 4).
+
+---
+
+### Häuser in Städten und Dörfern (Vers 29–34)
+
+<sup>29</sup>Wenn jemand ein Wohnhaus in einer Stadt mit Mauern verkauft,
+dann kann er es innerhalb eines ganzen Jahres nach dem Verkauf zurückkaufen.
+Ein volles Jahr lang hat er das Recht, es zurückzukaufen.
+<sup>30</sup>Wenn es nicht innerhalb eines vollen Jahres zurückgekauft wird,
+dann soll das Haus in der Stadt mit Mauern für immer dem gehören, der es gekauft hat,
+und seinen Nachkommen.
+Es wird im Jubeljahr nicht frei.
+<sup>31</sup>Aber die Häuser in den Dörfern, die keine Mauer um sich haben, sollen wie die Felder im Land behandelt werden.
+Man kann sie zurückkaufen, und sie werden im Jubeljahr frei.
+
+<sup>32</sup>Aber bei den Städten der Leviten gilt:
+Die Leviten können die Häuser in den Städten, die ihnen gehören, jederzeit zurückkaufen.
+<sup>33</sup>Wenn ein Levit ein Haus in der Stadt seines Besitzes verkauft hat, kann es zurückgekauft werden.
+Und es wird im Jubeljahr frei.
+Denn die Häuser in den Städten der Leviten sind ihr Besitz unter den Israeliten.
+<sup>34</sup>Aber das Weideland um ihre Städte darf nicht verkauft werden.
+Denn es ist ihr Besitz für alle Zeiten.
+
+> **Was bedeutet das?**
+> Ein Haus in einer Stadt ist etwas anderes als ein Feld. Vom Feld lebt eine Familie. Darum soll das Feld immer zur Familie zurückkehren. Ein Haus in der Stadt ist eher wie ein Handelsgut.
+> Ein Haus im Dorf gehört aber zum Bauernhof dazu. Darum gelten dafür dieselben Regeln wie für das Feld.
+> Die Leviten bekamen kein eigenes Land wie die anderen Stämme, nur einige Städte mit Weideland (4. Mose 35). Darum werden sie besonders geschützt.
+
+---
+
+### Keinen Zins von Armen nehmen (Vers 35–38)
+
+<sup>35</sup>Wenn dein Bruder arm wird und sich bei dir nicht mehr selbst versorgen kann,
+dann sollst du ihn unterstützen.
+Er soll bei dir leben wie ein Fremder und Gast.
+<sup>36</sup>Nimm keinen Zins und keinen Aufschlag von ihm,
+sondern fürchte deinen Gott, damit dein Bruder neben dir leben kann.
+<sup>37</sup>Du sollst ihm dein Geld nicht gegen Zins leihen
+und ihm deine Nahrung nicht gegen Aufschlag geben.
+<sup>38</sup>Ich bin der HERR, euer Gott,
+der euch aus dem Land Ägypten herausgeführt hat,
+um euch das Land Kanaan zu geben und euer Gott zu sein.
+
+> **Was bedeutet das?**
+> Wer arm ist und Hilfe braucht, dem soll man helfen, ohne daran zu verdienen. Wer einem Armen Geld leiht, soll keine Zinsen nehmen.
+> Damals liehen sich Menschen Geld meist nicht, um Geschäfte zu machen, sondern weil sie in Not waren und nichts zu essen hatten. An der Not eines anderen soll man nicht verdienen.
+> Im Mittelalter haben Christen und Juden daraus abgeleitet, dass Zinsen verboten sind. Auch im Islam gibt es ein Zinsverbot. Heute versteht man die Stelle vor allem so: Nutze die Not anderer nicht aus.
+
+---
+
+### Ein Israelit soll nicht als Sklave dienen (Vers 39–43)
+
+<sup>39</sup>Wenn dein Bruder bei dir arm wird und sich dir verkauft,
+dann sollst du ihn nicht wie einen Sklaven arbeiten lassen.
+<sup>40</sup>Er soll bei dir sein wie ein Tagelöhner und wie ein Gast.
+Er soll bei dir arbeiten bis zum Jubeljahr.
+<sup>41</sup>Dann soll er von dir weggehen, er und seine Kinder mit ihm.
+Er soll zu seiner Familie zurückkehren und zum Besitz seiner Väter.
+<sup>42</sup>Denn sie sind meine Knechte, die ich aus dem Land Ägypten herausgeführt habe.
+Sie sollen nicht als Sklaven verkauft werden.
+<sup>43</sup>Du sollst nicht mit Härte über ihn herrschen, sondern du sollst deinen Gott fürchten.
+
+> **Was bedeutet das?**
+> Wenn jemand so arm war, dass er sich selbst verkaufen musste, sollte er nicht wie ein Sklave behandelt werden, sondern wie ein Arbeiter, der Lohn bekommt.
+> Der Grund: „Sie sind meine Knechte.“ Gott hat Israel aus der Sklaverei befreit. Israel gehört Gott. Darum darf kein Israelit einen anderen zum Sklaven machen.
+
+---
+
+### Sklaven aus anderen Völkern (Vers 44–46)
+
+<sup>44</sup>Deine Sklaven und deine Sklavinnen sollst du von den Völkern nehmen, die um euch herum sind.
+Von ihnen dürft ihr Sklaven und Sklavinnen kaufen.
+<sup>45</sup>Auch von den Kindern der Fremden, die bei euch leben, dürft ihr kaufen,
+und von ihren Familien, die bei euch sind und die sie in eurem Land bekommen haben.
+Sie sollen euer Eigentum sein.
+<sup>46</sup>Ihr dürft sie euren Kindern nach euch vererben, damit sie sie besitzen.
+Ihr dürft sie für immer als Sklaven haben.
+Aber über eure Brüder, die Israeliten, sollt ihr nicht mit Härte herrschen, keiner über den anderen.
+
+> **Was bedeutet das?**
+> Diese Verse sind für uns heute sehr schwer zu lesen. Sie erlauben es, Menschen aus anderen Völkern als Sklaven zu kaufen und zu vererben.
+> Man muss ehrlich sagen: Damals gab es Sklaverei in allen Ländern der Welt. Die Bibel beschreibt hier diese Welt. Sie hat die Sklaverei nicht abgeschafft, sondern Regeln aufgestellt, die sie begrenzen sollten. An anderer Stelle schützt sie auch fremde Sklaven: Wer seinen Sklaven verletzt, muss ihn freilassen (2. Mose 21,26–27). Und wer als Sklave flieht, darf nicht zurückgeschickt werden (5. Mose 23,16–17).
+> Leider haben Menschen im 18. und 19. Jahrhundert diese Verse benutzt, um die Sklaverei von Afrikanern in Amerika zu rechtfertigen. Das war ein schwerer Missbrauch der Bibel.
+> Andere Christen haben sich gerade wegen der Bibel gegen die Sklaverei eingesetzt. Denn die Bibel lehrt auch: Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27). Und im Neuen Testament heißt es: „Da ist nicht Sklave noch Freier … denn ihr seid alle einer in Christus Jesus“ (Galater 3,28).
+> Heute sind sich Juden und Christen einig: Sklaverei ist Unrecht.
+
+---
+
+### Wenn ein Israelit sich einem Fremden verkauft (Vers 47–55)
+
+<sup>47</sup>Wenn ein Fremder oder Gast bei dir reich wird
+und dein Bruder neben ihm arm wird
+und sich dem Fremden oder Gast bei dir verkauft
+oder einem Mitglied aus der Familie des Fremden,
+<sup>48</sup>dann darf er nach seinem Verkauf zurückgekauft werden.
+Einer seiner Brüder darf ihn zurückkaufen.
+<sup>49</sup>Oder sein Onkel oder der Sohn seines Onkels darf ihn zurückkaufen,
+oder irgendein naher Verwandter aus seiner Familie darf ihn zurückkaufen.
+Oder wenn er selbst reich wird, darf er sich selbst zurückkaufen.
+<sup>50</sup>Er soll mit dem, der ihn gekauft hat, abrechnen,
+vom Jahr an, in dem er sich ihm verkauft hat, bis zum Jubeljahr.
+Der Preis für seinen Verkauf soll sich nach der Zahl der Jahre richten.
+Er soll bei ihm gerechnet werden wie die Zeit eines Tagelöhners.
+<sup>51</sup>Wenn es noch viele Jahre sind,
+dann soll er entsprechend viel von dem Geld zurückzahlen, für das er gekauft wurde.
+<sup>52</sup>Wenn es nur noch wenige Jahre bis zum Jubeljahr sind,
+dann soll er mit ihm abrechnen
+und entsprechend seinen Dienstjahren den Preis für seinen Rückkauf zahlen.
+<sup>53</sup>Er soll bei ihm sein wie ein Arbeiter, der Jahr für Jahr angestellt wird.
+Er soll nicht vor deinen Augen mit Härte über ihn herrschen.
+<sup>54</sup>Wenn er auf diese Weise nicht zurückgekauft wird,
+dann soll er im Jubeljahr frei werden, er und seine Kinder mit ihm.
+<sup>55</sup>Denn die Israeliten sind meine Knechte.
+Sie sind meine Knechte, die ich aus dem Land Ägypten herausgeführt habe.
+Ich bin der HERR, euer Gott.‘“
+
+> **Was bedeutet das?**
+> Auch ein Fremder konnte in Israel reich werden. Wenn sich ein armer Israelit ihm verkaufte, sollte die Familie ihn freikaufen. Spätestens im Jubeljahr wurde er frei.
+> „Freikaufen“ oder „erlösen“ ist hier ein ganz praktisches Wort: Jemand zahlt den Preis, damit ein anderer frei wird.
+> Christen haben dieses Wort später auf Jesus bezogen. Er ist der „Löser“, der Menschen freikauft (Markus 10,45; 1. Petrus 1,18–19).
+> Das ganze Kapitel zeigt: Gott will nicht, dass Menschen für immer in Armut und Abhängigkeit gefangen sind. Jeder soll eine Chance auf einen neuen Anfang bekommen.
+
+## 3. Mose – Kapitel 26
+#### Segen und Fluch – Gott vergisst seinen Bund nicht
+
+---
+
+### Keine Götzen, Sabbat halten (Vers 1–2)
+
+<sup>1</sup>‚Ihr sollt euch keine Götzen machen.
+Ihr sollt euch kein geschnitztes Bild und keine Steinsäule aufstellen.
+Und ihr sollt in eurem Land keinen Stein mit Bildern aufstellen, um euch davor niederzuwerfen.
+Denn ich bin der HERR, euer Gott.
+<sup>2</sup>Ihr sollt meine Sabbate halten und mein Heiligtum ehren.
+Ich bin der HERR.
+
+> **Was bedeutet das?**
+> Am Ende der vielen Gebote im 3. Buch Mose wird noch einmal das Wichtigste gesagt: nur dem einen Gott dienen und den Sabbat halten.
+
+---
+
+### Der Segen für Gehorsam (Vers 3–13)
+
+<sup>3</sup>Wenn ihr nach meinen Ordnungen lebt, meine Gebote haltet und sie tut,
+<sup>4</sup>dann will ich euch Regen geben zur richtigen Zeit.
+Das Land wird seinen Ertrag bringen, und die Bäume auf dem Feld werden ihre Früchte tragen.
+<sup>5</sup>Das Dreschen wird bis zur Weinlese dauern,
+und die Weinlese wird bis zur Zeit der Aussaat dauern.
+Ihr werdet euer Brot essen und satt werden
+und in eurem Land in Sicherheit wohnen.
+
+<sup>6</sup>Ich will Frieden im Land geben.
+Ihr werdet euch hinlegen, und niemand wird euch erschrecken.
+Ich will die gefährlichen wilden Tiere aus dem Land verschwinden lassen.
+Und kein Schwert wird durch euer Land ziehen.
+<sup>7</sup>Ihr werdet eure Feinde verfolgen,
+und sie werden vor euch durch das Schwert fallen.
+<sup>8</sup>Fünf von euch werden hundert verfolgen,
+und hundert von euch werden zehntausend verfolgen.
+Und eure Feinde werden vor euch durch das Schwert fallen.
+
+<sup>9</sup>Ich will mich euch zuwenden.
+Ich will euch fruchtbar machen und euch vermehren.
+Und ich will meinen Bund mit euch aufrechterhalten.
+<sup>10</sup>Ihr werdet alte Vorräte essen, die lange gelagert waren.
+Und ihr werdet das Alte wegräumen müssen, um Platz für das Neue zu haben.
+<sup>11</sup>Ich will meine Wohnung mitten unter euch aufschlagen.
+Und ich werde euch nicht verabscheuen.
+<sup>12</sup>Ich will unter euch umhergehen.
+Ich will euer Gott sein, und ihr sollt mein Volk sein.
+<sup>13</sup>Ich bin der HERR, euer Gott,
+der euch aus dem Land Ägypten herausgeführt hat, damit ihr nicht mehr ihre Sklaven seid.
+Ich habe die Stangen eures Jochs zerbrochen
+und euch aufrecht gehen lassen.
+
+> **Was bedeutet das?**
+> So endeten damals oft Verträge zwischen Königen und Völkern: mit Segen für die, die den Vertrag halten, und Fluch für die, die ihn brechen. Auch Gottes Bund mit Israel endet so.
+> Der Segen ist wunderschön beschrieben: Regen, gute Ernten, so viel, dass man gar nicht fertig wird. Frieden, Sicherheit, keine Angst.
+> Das Größte ist aber Vers 12: „Ich will unter euch umhergehen.“ Das erinnert an den Garten Eden, wo Gott im Garten umherging (1. Mose 3,8). Gott will so nah bei seinem Volk sein wie am Anfang.
+> Vers 13 ist ein starkes Bild: Ein Joch ist ein Holzbalken, der auf den Nacken von Zugtieren gelegt wird. Wer ein Joch trägt, geht gebückt. Gott hat das Joch zerbrochen. Jetzt kann Israel aufrecht gehen, als freies Volk.
+
+---
+
+### Die Folgen von Ungehorsam (Vers 14–17)
+
+<sup>14</sup>Aber wenn ihr nicht auf mich hört und nicht alle diese Gebote tut,
+<sup>15</sup>wenn ihr meine Ordnungen verwerft
+und meine Rechtsbestimmungen verabscheut,
+sodass ihr nicht alle meine Gebote tut, sondern meinen Bund brecht,
+<sup>16</sup>dann will auch ich euch Folgendes tun:
+Ich will Schrecken über euch kommen lassen,
+Schwindsucht und Fieber, die die Augen erlöschen und das Leben dahinschwinden lassen.
+Ihr werdet euer Saatgut umsonst säen, denn eure Feinde werden es essen.
+<sup>17</sup>Ich will mich gegen euch wenden.
+Ihr werdet vor euren Feinden geschlagen werden.
+Die euch hassen, werden über euch herrschen.
+Und ihr werdet fliehen, auch wenn niemand euch verfolgt.
+
+> **Was bedeutet das?**
+> Jetzt kommt die andere Seite: Was passiert, wenn Israel den Bund bricht? Dieser Teil ist viel länger als der Segen. Er klingt sehr hart.
+> Wichtig ist: Gott droht nicht, weil er Freude am Strafen hat. Es ist eine Warnung, wie ein Vater, der sein Kind vor einer Gefahr warnt. Er will, dass Israel umkehrt, bevor es zu spät ist.
+> „Ihr werdet fliehen, auch wenn niemand euch verfolgt“ – wer Gott verlässt, verliert seinen inneren Halt und lebt in Angst.
+
+---
+
+### Immer schwerere Folgen (Vers 18–26)
+
+<sup>18</sup>Wenn ihr trotzdem nicht auf mich hört,
+dann will ich euch siebenmal mehr für eure Sünden bestrafen.
+<sup>19</sup>Ich will euren stolzen Trotz auf eure Macht brechen.
+Ich will euren Himmel wie Eisen machen und eure Erde wie Bronze.
+<sup>20</sup>Eure Kraft wird umsonst verbraucht.
+Denn euer Land wird keinen Ertrag bringen,
+und die Bäume im Land werden keine Früchte tragen.
+
+<sup>21</sup>Wenn ihr euch mir widersetzt und nicht auf mich hören wollt,
+dann will ich siebenmal mehr Plagen über euch bringen, euren Sünden entsprechend.
+<sup>22</sup>Ich will die wilden Tiere unter euch schicken.
+Sie werden euch eure Kinder rauben, euer Vieh vernichten
+und euch wenige werden lassen.
+Eure Straßen werden leer sein.
+
+<sup>23</sup>Wenn ihr euch dadurch nicht zurechtweisen lasst und zu mir umkehrt,
+sondern euch mir weiter widersetzt,
+<sup>24</sup>dann will auch ich mich euch widersetzen.
+Ich selbst will euch siebenmal für eure Sünden schlagen.
+<sup>25</sup>Ich will ein Schwert über euch bringen, das die Rache für den Bund vollstreckt.
+Ihr werdet euch in euren Städten sammeln.
+Und ich will die Pest unter euch schicken.
+Ihr werdet in die Hand des Feindes gegeben.
+<sup>26</sup>Wenn ich euch den Stab des Brotes zerbreche,
+dann werden zehn Frauen euer Brot in einem einzigen Ofen backen.
+Sie werden euch das Brot abgewogen zuteilen.
+Ihr werdet essen und nicht satt werden.
+
+> **Was bedeutet das?**
+> „Siebenmal mehr“ heißt: immer schlimmer, bis zum Äußersten. Jede neue Stufe ist eine neue Chance zur Umkehr. Immer wieder heißt es: „Wenn ihr trotzdem nicht hört …“ Gott wartet geduldig auf eine Antwort.
+> „Himmel wie Eisen und Erde wie Bronze“ ist ein Bild für eine Dürre: Der Himmel gibt keinen Regen, die Erde ist so hart, dass nichts wächst.
+> „Den Stab des Brotes zerbrechen“ heißt: das Brot wegnehmen. Brot war wie ein Stab, auf den man sich stützt, um zu leben.
+> Zehn Frauen backen in einem Ofen: Es gibt so wenig Mehl, dass ein Ofen für zehn Familien reicht.
+
+---
+
+### Das Schlimmste (Vers 27–39)
+
+<sup>27</sup>Wenn ihr trotz allem nicht auf mich hört, sondern euch mir widersetzt,
+<sup>28</sup>dann will auch ich mich euch im Zorn widersetzen.
+Ich will euch siebenmal für eure Sünden bestrafen.
+<sup>29</sup>Ihr werdet das Fleisch eurer Söhne essen,
+und ihr werdet das Fleisch eurer Töchter essen.
+<sup>30</sup>Ich will eure Opferhöhen zerstören und eure Räucheraltäre umhauen.
+Ich will eure Leichen auf die Leichen eurer Götzen werfen.
+Und ich werde euch verabscheuen.
+<sup>31</sup>Ich will eure Städte zu Trümmern machen und eure Heiligtümer verwüsten.
+Und ich will den angenehmen Duft eurer Opfer nicht mehr riechen.
+<sup>32</sup>Ich will das Land verwüsten.
+Eure Feinde, die darin wohnen, werden sich darüber entsetzen.
+<sup>33</sup>Und euch will ich unter die Völker zerstreuen.
+Ich will das Schwert hinter euch herziehen.
+Euer Land wird eine Wüste sein, und eure Städte werden Trümmer sein.
+
+<sup>34</sup>Dann wird das Land seine Sabbate nachholen,
+solange es verwüstet daliegt und ihr im Land eurer Feinde seid.
+Dann wird das Land ruhen und seine Sabbate nachholen.
+<sup>35</sup>Solange es verwüstet daliegt, wird es ruhen.
+Es bekommt die Ruhe, die es an euren Sabbaten nicht hatte, als ihr darin wohntet.
+
+<sup>36</sup>Und denen von euch, die übrig bleiben, will ich Verzagtheit ins Herz geben,
+in den Ländern ihrer Feinde.
+Das Rascheln eines vom Wind getriebenen Blattes wird sie in die Flucht schlagen.
+Sie werden fliehen, wie man vor dem Schwert flieht.
+Und sie werden fallen, obwohl niemand sie verfolgt.
+<sup>37</sup>Sie werden übereinander stolpern, wie vor dem Schwert, obwohl niemand sie verfolgt.
+Ihr werdet nicht standhalten können vor euren Feinden.
+<sup>38</sup>Ihr werdet unter den Völkern umkommen.
+Und das Land eurer Feinde wird euch verschlingen.
+<sup>39</sup>Die von euch, die übrig bleiben, werden in ihrer Schuld dahinschwinden in den Ländern eurer Feinde.
+Und auch wegen der Schuld ihrer Väter werden sie mit ihnen dahinschwinden.
+
+> **Was bedeutet das?**
+> Diese Verse sind schrecklich. Vers 29 beschreibt, dass Menschen in einer Hungersnot so verzweifelt sind, dass sie ihre eigenen Kinder essen. Das ist das Furchtbarste, was man sich vorstellen kann. Leider ist so etwas später in Kriegen tatsächlich geschehen, zum Beispiel bei Belagerungen Jerusalems (Klagelieder 4,10).
+> Vieles davon ist in der Geschichte Israels wirklich passiert. Im Jahr 586 vor Christus eroberten die Babylonier Jerusalem. Sie zerstörten den Tempel und verschleppten viele Menschen nach Babylon. Die Propheten sahen darin die Erfüllung dieser Warnung.
+> Interessant sind die Verse 34–35: Weil Israel die Sabbatjahre nicht gehalten hat, holt das Land seine Ruhe nach, während das Volk im Exil ist. Genau das sagt auch 2. Chronik 36,21 über das Exil in Babylon.
+> Man darf diese Verse nie benutzen, um zu sagen, das Leid des jüdischen Volkes in der Geschichte sei eine Strafe Gottes. Das ist oft geschehen und hat zu schrecklichem Judenhass geführt. Die Bibel selbst sagt im nächsten Abschnitt etwas ganz anderes.
+
+---
+
+### Aber Gott vergisst seinen Bund nicht (Vers 40–46)
+
+<sup>40</sup>Wenn sie dann ihre Schuld bekennen und die Schuld ihrer Väter,
+ihre Untreue, mit der sie mir untreu waren,
+und auch, dass sie sich mir widersetzt haben,
+<sup>41</sup>sodass auch ich mich ihnen widersetzt
+und sie in das Land ihrer Feinde gebracht habe –
+wenn sich dann ihr unbeschnittenes Herz demütigt
+und sie die Strafe für ihre Schuld annehmen,
+<sup>42</sup>dann will ich an meinen Bund mit Jakob denken
+und an meinen Bund mit Isaak
+und auch an meinen Bund mit Abraham will ich denken.
+Und ich will an das Land denken.
+<sup>43</sup>Das Land wird von ihnen verlassen sein
+und seine Sabbate nachholen, während es ohne sie verwüstet daliegt.
+Und sie werden die Strafe für ihre Schuld annehmen,
+weil sie meine Rechtsbestimmungen verworfen
+und meine Ordnungen verabscheut haben.
+
+<sup>44</sup>Aber trotz allem, wenn sie im Land ihrer Feinde sind,
+will ich sie nicht verwerfen und nicht verabscheuen.
+Ich will sie nicht ganz vernichten und meinen Bund mit ihnen nicht brechen.
+Denn ich bin der HERR, ihr Gott.
+<sup>45</sup>Sondern ich will um ihretwillen an den Bund mit ihren Vorfahren denken,
+die ich vor den Augen der Völker aus dem Land Ägypten herausgeführt habe, um ihr Gott zu sein.
+Ich bin der HERR.‘“
+
+<sup>46</sup>Das sind die Ordnungen, die Rechtsbestimmungen und die Gesetze,
+die der HERR zwischen sich und den Israeliten auf dem Berg Sinai durch Mose gegeben hat.
+
+> **Was bedeutet das?**
+> Das ist der wichtigste Teil des Kapitels. Nach all den harten Worten kommt die Hoffnung.
+> Wenn Israel seine Schuld bekennt und umkehrt, dann denkt Gott an seinen Bund. Er hat Abraham, Isaak und Jakob etwas versprochen. Dieses Versprechen gilt für immer.
+> Vers 44 ist wie ein Licht in der Dunkelheit: „Trotz allem will ich sie nicht verwerfen.“ Selbst wenn Israel den Bund bricht, bricht Gott ihn nicht. Gottes Treue ist größer als die Untreue der Menschen.
+> Ein „unbeschnittenes Herz“ ist ein Herz, das verschlossen ist für Gott. Wenn es sich „demütigt“, öffnet es sich wieder.
+> Paulus schreibt im Neuen Testament über das jüdische Volk: „Gott hat sein Volk nicht verstoßen“ (Römer 11,1–2). Und: „Gottes Gaben und seine Berufung können ihn nicht gereuen“ (Römer 11,29).
+> Vers 46 ist ein Abschluss: Hier enden die großen Gesetze, die Gott am Sinai gegeben hat. Kapitel 27 ist noch ein Nachtrag.
