@@ -16053,3 +16053,389 @@ Ich bin der HERR.‘“
 > In der Bibel stehen hier die Maße Efa (für Getreide) und Hin (für Flüssigkeiten).
 > Händler betrogen damals oft mit falschen Gewichten und Maßen. Wer zum Beispiel einen etwas leichteren Gewichtsstein benutzte, verkaufte weniger, als der Kunde bezahlte. Gott sagt: Das ist Unrecht. Ehrlichkeit im Geschäft gehört zur Heiligkeit.
 > Das Kapitel endet, wie es begonnen hat: mit Gott, der sein Volk befreit hat. Weil Gott Israel befreit hat, soll Israel gerecht und liebevoll leben.
+
+## 3. Mose – Kapitel 20
+#### Strafen für schwere Vergehen
+
+---
+
+### Kinderopfer für Moloch und Totenbeschwörung (Vers 1–6)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sag den Israeliten außerdem:
+‚Wenn jemand von den Israeliten oder von den Fremden, die als Ausländer in Israel leben,
+eines seiner Kinder dem Moloch gibt,
+dann muss er getötet werden.
+Die Leute des Landes sollen ihn mit Steinen steinigen.
+<sup>3</sup>Und ich selbst will mich gegen diesen Menschen wenden
+und ihn aus seinem Volk ausschließen.
+Denn er hat eines seiner Kinder dem Moloch gegeben
+und so mein Heiligtum unrein gemacht und meinen heiligen Namen entweiht.
+<sup>4</sup>Wenn die Leute des Landes aber die Augen vor diesem Menschen verschließen,
+wenn er eines seiner Kinder dem Moloch gibt,
+und ihn nicht töten,
+<sup>5</sup>dann will ich mich gegen diesen Mann und gegen seine Familie wenden.
+Ich will ihn aus seinem Volk ausschließen,
+und auch alle, die ihm folgen und sich wie Prostituierte mit Moloch einlassen.
+
+<sup>6</sup>Wer sich an Totenbeschwörer und Wahrsager wendet
+und sich wie eine Prostituierte mit ihnen einlässt,
+gegen den will ich mich wenden
+und ihn aus seinem Volk ausschließen.
+
+> **Was bedeutet das?**
+> In Kapitel 18 wurden viele Dinge verboten. In Kapitel 20 werden die Strafen dafür genannt. Viele dieser Strafen sind sehr hart, oft ist es die Todesstrafe. Das ist für uns heute schwer zu lesen.
+> Ganz am Anfang steht das schlimmste Verbrechen: Kinder als Opfer für den Gott Moloch zu verbrennen.
+> Wichtig ist Vers 4: Wer wegschaut, macht sich mitschuldig. Eine Gemeinschaft darf nicht schweigen, wenn Kindern Gewalt angetan wird.
+> Wer sich fremden Göttern oder Wahrsagern zuwendet, wird mit einer untreuen Ehefrau verglichen. Gott und sein Volk sind wie ein Ehepaar.
+
+---
+
+### Seid heilig (Vers 7–8)
+
+<sup>7</sup>Darum heiligt euch und seid heilig. Denn ich bin der HERR, euer Gott.
+<sup>8</sup>Ihr sollt meine Ordnungen halten und sie tun.
+Ich bin der HERR, der euch heiligt.
+
+> **Was bedeutet das?**
+> „Ich bin der HERR, der euch heiligt.“ Heiligkeit ist nicht nur eine Leistung des Menschen. Gott selbst macht sein Volk heilig. Der Mensch antwortet darauf, indem er nach Gottes Geboten lebt.
+
+---
+
+### Die Strafen (Vers 9–21)
+
+<sup>9</sup>Denn jeder, der seinen Vater oder seine Mutter verflucht, muss getötet werden.
+Er hat seinen Vater oder seine Mutter verflucht.
+Sein Blut komme auf ihn selbst.
+
+<sup>10</sup>Wenn ein Mann mit der Frau eines anderen Mannes Ehebruch begeht,
+wenn er mit der Frau seines Nächsten Ehebruch begeht,
+dann müssen der Ehebrecher und die Ehebrecherin getötet werden.
+
+<sup>11</sup>Wenn ein Mann mit der Frau seines Vaters schläft,
+dann hat er die Blöße seines Vaters aufgedeckt.
+Beide müssen getötet werden.
+Ihr Blut komme auf sie selbst.
+<sup>12</sup>Wenn ein Mann mit seiner Schwiegertochter schläft, dann müssen beide getötet werden.
+Sie haben eine schändliche Verirrung begangen.
+Ihr Blut komme auf sie selbst.
+<sup>13</sup>Wenn ein Mann mit einem Mann schläft, wie man mit einer Frau schläft,
+dann haben beide etwas Abscheuliches getan.
+Sie müssen getötet werden.
+Ihr Blut komme auf sie selbst.
+<sup>14</sup>Wenn ein Mann eine Frau und ihre Mutter heiratet, ist das eine Schandtat.
+Man soll ihn und die beiden Frauen im Feuer verbrennen,
+damit es keine Schandtat unter euch gibt.
+<sup>15</sup>Wenn ein Mann mit einem Tier schläft, muss er getötet werden.
+Und auch das Tier sollt ihr töten.
+<sup>16</sup>Wenn eine Frau sich einem Tier nähert, um sich mit ihm einzulassen,
+dann sollst du die Frau und das Tier töten.
+Sie müssen getötet werden.
+Ihr Blut komme auf sie selbst.
+
+<sup>17</sup>Wenn ein Mann seine Schwester nimmt, die Tochter seines Vaters oder die Tochter seiner Mutter,
+und er sieht ihre Blöße und sie sieht seine Blöße,
+dann ist das eine Schande.
+Sie sollen vor den Augen ihres Volkes ausgeschlossen werden.
+Er hat die Blöße seiner Schwester aufgedeckt.
+Er trägt seine Schuld.
+<sup>18</sup>Wenn ein Mann mit einer Frau schläft, während sie ihre Periode hat, und ihre Blöße aufdeckt,
+dann hat er die Quelle ihres Blutes entblößt,
+und sie hat die Quelle ihres Blutes aufgedeckt.
+Beide sollen aus ihrem Volk ausgeschlossen werden.
+<sup>19</sup>Du sollst nicht die Blöße der Schwester deiner Mutter oder der Schwester deines Vaters aufdecken.
+Denn wer das tut, hat seine nahe Verwandte entblößt.
+Sie tragen ihre Schuld.
+<sup>20</sup>Wenn ein Mann mit der Frau seines Onkels schläft,
+dann hat er die Blöße seines Onkels aufgedeckt.
+Sie tragen ihre Sünde. Sie sollen kinderlos sterben.
+<sup>21</sup>Wenn ein Mann die Frau seines Bruders nimmt, ist das etwas Unreines.
+Er hat die Blöße seines Bruders aufgedeckt.
+Sie sollen kinderlos bleiben.
+
+> **Was bedeutet das?**
+> „Sein Blut komme auf ihn selbst“ heißt: Er ist selbst schuld an seinem Tod. Niemand anders trägt die Schuld dafür.
+> Diese Strafen sind für uns heute erschreckend. Man muss sie aus ihrer Zeit verstehen. Damals gab es keine Gefängnisse. Die Familie war die Grundlage der ganzen Gesellschaft. Wer sie zerstörte, gefährdete das ganze Volk.
+> Im späteren Judentum haben die Gelehrten sehr strenge Regeln aufgestellt, bevor jemand zum Tod verurteilt werden durfte: zum Beispiel zwei Augenzeugen und eine vorherige Warnung. So wurde die Todesstrafe fast nie vollstreckt. Ein Gericht, das in 70 Jahren einen Menschen zum Tod verurteilte, galt als „mörderisches Gericht“.
+> Im Neuen Testament wird erzählt, wie eine Frau beim Ehebruch ertappt und zu Jesus gebracht wird. Man will sie nach diesem Gesetz steinigen. Jesus sagt: „Wer von euch ohne Sünde ist, der werfe den ersten Stein.“ Einer nach dem anderen geht weg. Und Jesus sagt zu ihr: „Auch ich verurteile dich nicht. Geh und sündige nicht mehr“ (Johannes 8,1–11).
+> Zu Vers 13 gilt dasselbe wie zu 3. Mose 18,22: Juden und Christen verstehen diese Stelle heute unterschiedlich. Sie darf aber nie Hass oder Gewalt gegen Menschen rechtfertigen. Die großen jüdischen und christlichen Gemeinschaften lehnen es heute ab, solche Strafen zu vollstrecken.
+> „Kinderlos sterben“ ist keine Strafe, die Menschen vollstrecken. Es bedeutet: Gott selbst wird darüber richten.
+
+---
+
+### Gott hat euch von den Völkern ausgesondert (Vers 22–26)
+
+<sup>22</sup>Darum sollt ihr alle meine Ordnungen und alle meine Rechtsbestimmungen halten und sie tun.
+Dann wird euch das Land nicht ausspucken, in das ich euch bringe, damit ihr dort wohnt.
+<sup>23</sup>Ihr sollt nicht nach den Bräuchen des Volkes leben, das ich vor euch vertreibe.
+Denn sie haben all diese Dinge getan, und darum habe ich vor ihnen Abscheu bekommen.
+<sup>24</sup>Aber zu euch habe ich gesagt:
+„Ihr sollt ihr Land besitzen.
+Ich will es euch als Besitz geben, ein Land, in dem Milch und Honig fließen.“
+Ich bin der HERR, euer Gott, der euch von den Völkern ausgesondert hat.
+
+<sup>25</sup>Darum sollt ihr unterscheiden zwischen reinen und unreinen Tieren,
+zwischen unreinen und reinen Vögeln.
+Macht euch nicht abscheulich durch Tiere, durch Vögel
+oder durch irgendetwas, das auf der Erde wimmelt,
+das ich für euch als unrein ausgesondert habe.
+<sup>26</sup>Ihr sollt für mich heilig sein. Denn ich, der HERR, bin heilig.
+Und ich habe euch von den Völkern ausgesondert, damit ihr mir gehört.
+
+> **Was bedeutet das?**
+> Ein schönes Wortspiel: So wie Israel zwischen reinen und unreinen Tieren unterscheidet, so hat Gott Israel aus allen Völkern ausgewählt und „ausgesondert“. Israel gehört Gott.
+> Das bedeutet nicht, dass Israel besser ist als andere Völker. Es bedeutet: Israel hat eine besondere Aufgabe. Es soll zeigen, wie ein Leben mit Gott aussieht.
+
+---
+
+### Totenbeschwörer (Vers 27)
+
+<sup>27</sup>Ein Mann oder eine Frau, die Totenbeschwörer oder Wahrsager sind, müssen getötet werden.
+Man soll sie mit Steinen steinigen.
+Ihr Blut komme auf sie selbst.‘“
+
+> **Was bedeutet das?**
+> Auch diese Strafe ist sehr hart. Im Lauf der Geschichte wurden solche Bibelstellen leider missbraucht, zum Beispiel bei den Hexenverfolgungen in Europa. Dort wurden viele unschuldige Menschen, vor allem Frauen, gequält und getötet. Das war ein schweres Unrecht und ein Missbrauch der Bibel.
+> Der Sinn dieser Stelle ist: Israel soll sich nicht auf Geister und Tote verlassen, sondern nur auf den lebendigen Gott.
+
+## 3. Mose – Kapitel 21
+#### Besondere Regeln für die Priester
+
+---
+
+### Trauer um Tote (Vers 1–6)
+
+<sup>1</sup>Der HERR sagte zu Mose:
+„Sprich zu den Priestern, den Söhnen Aarons, und sag ihnen:
+‚Ein Priester soll sich nicht an einem Toten in seinem Volk unrein machen,
+<sup>2</sup>außer an seinen nächsten Verwandten:
+an seiner Mutter, an seinem Vater, an seinem Sohn, an seiner Tochter, an seinem Bruder
+<sup>3</sup>und an seiner Schwester, die noch Jungfrau ist und ihm nahesteht, weil sie keinen Mann hat.
+An ihr darf er sich unrein machen.
+<sup>4</sup>Er soll sich nicht unrein machen als Oberhaupt in seinem Volk, und sich so entweihen.
+
+<sup>5</sup>Die Priester sollen sich keine Glatze scheren,
+den Rand ihres Bartes nicht abrasieren
+und sich keine Schnitte in die Haut machen.
+<sup>6</sup>Sie sollen heilig sein für ihren Gott
+und den Namen ihres Gottes nicht entweihen.
+Denn sie bringen die Feueropfer für den HERRN dar, die Speise ihres Gottes.
+Darum sollen sie heilig sein.
+
+> **Was bedeutet das?**
+> Wer einen Toten berührt oder im selben Raum ist, wird unrein (4. Mose 19,11–14). Die Priester sollen das möglichst vermeiden, damit sie ihren Dienst tun können. Der Dienst für Gott hat mit dem Leben zu tun, nicht mit dem Tod.
+> Aber bei seinen engsten Verwandten darf ein Priester trauern und sich unrein machen. Gott versteht die Trauer.
+> Die Schwester wird extra genannt, wenn sie unverheiratet ist. Dann gehört sie noch zu seiner Familie. Wenn sie verheiratet ist, kümmert sich ihr Mann um ihre Beerdigung.
+> „Die Speise ihres Gottes“ ist ein Bild für die Opfer, wie ein Mahl, das man für einen Gast bereitet.
+
+---
+
+### Die Ehe der Priester (Vers 7–9)
+
+<sup>7</sup>Sie sollen keine Frau heiraten, die eine Prostituierte ist oder entehrt wurde.
+Und ein Priester soll keine Frau heiraten, die von ihrem Mann geschieden ist.
+Denn er ist heilig für seinen Gott.
+<sup>8</sup>Darum sollst du ihn heilig halten. Denn er bringt die Speise deines Gottes dar.
+Er soll dir heilig sein. Denn ich, der HERR, der euch heiligt, bin heilig.
+<sup>9</sup>Wenn die Tochter eines Priesters sich entweiht, indem sie zur Prostituierten wird,
+dann entweiht sie ihren Vater.
+Man soll sie im Feuer verbrennen.
+
+> **Was bedeutet das?**
+> Für Priester gelten strengere Regeln als für das übrige Volk. Je näher man Gott dient, desto höher sind die Ansprüche.
+> Diese Regeln sagen nichts über den Wert geschiedener Frauen. Andere Israeliten durften geschiedene Frauen heiraten (5. Mose 24,2).
+> Die Strafe in Vers 9 ist schrecklich hart. Sie zeigt, wie sehr die Ehre der Priesterfamilie damals mit dem Heiligtum verbunden war. Auch hier gilt: Im späteren Judentum wurden solche Strafen durch strenge Gerichtsregeln fast unmöglich gemacht.
+
+---
+
+### Der Hohepriester (Vers 10–15)
+
+<sup>10</sup>Der Hohepriester unter seinen Brüdern,
+auf dessen Kopf das Salböl gegossen wurde
+und der geweiht ist, um die heiligen Kleider zu tragen,
+soll sein Haar nicht offen hängen lassen und seine Kleider nicht zerreißen.
+<sup>11</sup>Er darf zu keinem toten Menschen gehen.
+Er darf sich nicht einmal an seinem Vater oder an seiner Mutter unrein machen.
+<sup>12</sup>Er soll das Heiligtum nicht verlassen
+und das Heiligtum seines Gottes nicht entweihen.
+Denn die Weihe durch das Salböl seines Gottes ist auf ihm wie eine Krone.
+Ich bin der HERR.
+
+<sup>13</sup>Er soll eine Frau heiraten, die noch Jungfrau ist.
+<sup>14</sup>Eine Witwe, eine Geschiedene, eine Entehrte oder eine Prostituierte darf er nicht heiraten.
+Sondern er soll eine Jungfrau aus seinem eigenen Volk zur Frau nehmen.
+<sup>15</sup>Er soll seine Nachkommen in seinem Volk nicht entweihen.
+Denn ich bin der HERR, der ihn heiligt.‘“
+
+> **Was bedeutet das?**
+> Für den Hohenpriester gelten die strengsten Regeln. Er darf nicht einmal zur Beerdigung seiner Eltern gehen. Er gehört ganz dem Heiligtum.
+> Das klingt hart. Aber es zeigt: Sein Dienst für das ganze Volk ist so wichtig, dass er ihn auch in der Trauer nicht unterbrechen soll. Erinnern wir uns an Aaron, der nach dem Tod seiner Söhne nicht trauern durfte (3. Mose 10,6).
+> „Das Heiligtum nicht verlassen“ heißt hier wohl: Er soll seinen Dienst im Heiligtum nicht unterbrechen, um an einer Trauerfeier teilzunehmen.
+
+---
+
+### Priester mit körperlichen Einschränkungen (Vers 16–24)
+
+<sup>16</sup>Der HERR sprach zu Mose:
+<sup>17</sup>„Sag zu Aaron:
+‚Keiner deiner Nachkommen, in allen ihren Generationen, der einen körperlichen Makel hat,
+darf herantreten, um die Speise seines Gottes darzubringen.
+<sup>18</sup>Denn kein Mann, der einen Makel hat, soll herantreten:
+kein Blinder, kein Lahmer, keiner mit einer flachen Nase oder einer anderen Fehlbildung,
+<sup>19</sup>kein Mann mit einem verletzten Fuß oder einer verletzten Hand,
+<sup>20</sup>kein Buckliger, kein Kleinwüchsiger, keiner mit einem Fehler am Auge,
+keiner mit einem juckenden Ausschlag oder Krätze
+und keiner mit verletzten Hoden.
+<sup>21</sup>Kein Mann von den Nachkommen Aarons, des Priesters, der einen Makel hat,
+soll herantreten, um die Feueropfer für den HERRN darzubringen.
+Weil er einen Makel hat, soll er nicht herantreten, um die Speise seines Gottes darzubringen.
+<sup>22</sup>Er darf die Speise seines Gottes essen,
+vom Hochheiligen und vom Heiligen.
+<sup>23</sup>Aber er soll nicht zum Vorhang gehen und nicht zum Altar treten, weil er einen Makel hat.
+Damit er meine Heiligtümer nicht entweiht.
+Denn ich bin der HERR, der sie heiligt.‘“
+<sup>24</sup>So sprach Mose zu Aaron, zu seinen Söhnen und zu allen Israeliten.
+
+> **Was bedeutet das?**
+> Das ist eine Stelle, die uns heute sehr schwerfällt. Menschen mit Behinderungen dürfen keinen Dienst am Altar tun.
+> Man muss sie aus ihrer Zeit verstehen: Die Opfertiere mussten „ohne Fehler“ sein (3. Mose 22). Auch die Priester, die am Altar standen, sollten es sein. Es ging um ein äußeres Bild der Vollkommenheit Gottes.
+> Aber wichtig ist Vers 22: Ein Priester mit Behinderung bleibt Priester. Er gehört zur Priesterfamilie. Er darf vom Hochheiligen essen, also das Heiligste, was ein Priester essen darf. Er wird nicht ausgestoßen. Er verliert nicht seinen Platz bei Gott. Er hat nur eine andere Aufgabe.
+> Diese Regel galt nur für den Dienst am Altar. Sie sagt nichts über den Wert eines Menschen vor Gott. Die Bibel sagt an anderer Stelle: „Der Mensch sieht, was vor Augen ist. Der HERR aber sieht das Herz an“ (1. Samuel 16,7).
+> Jesus hat sich besonders den Blinden, Lahmen und Kranken zugewandt. Er hat sie geheilt und an seinen Tisch geladen (Lukas 14,13.21).
+
+## 3. Mose – Kapitel 22
+#### Die heiligen Gaben und die Opfertiere
+
+---
+
+### Wenn ein Priester unrein ist (Vers 1–9)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sag Aaron und seinen Söhnen, dass sie vorsichtig umgehen sollen mit den heiligen Gaben der Israeliten,
+die sie mir weihen.
+Sie sollen meinen heiligen Namen nicht entweihen.
+Ich bin der HERR.
+<sup>3</sup>Sag ihnen:
+‚Wenn einer von allen euren Nachkommen, in allen euren Generationen,
+sich den heiligen Gaben nähert, die die Israeliten dem HERRN weihen,
+während er unrein ist,
+dann soll dieser Mensch von meinem Angesicht ausgeschlossen werden.
+Ich bin der HERR.
+
+<sup>4</sup>Wer von den Nachkommen Aarons Aussatz hat oder einen Ausfluss,
+der darf nicht von den heiligen Gaben essen, bis er rein ist.
+Wer etwas berührt, das durch einen Toten unrein geworden ist,
+oder wer einen Samenerguss hat,
+<sup>5</sup>oder wer ein Kleintier berührt, durch das er unrein wird,
+oder einen Menschen, durch den er unrein wird, egal welche Unreinheit es ist –
+<sup>6</sup>wer so etwas berührt, ist unrein bis zum Abend.
+Er darf nicht von den heiligen Gaben essen, wenn er seinen Körper nicht mit Wasser gebadet hat.
+<sup>7</sup>Wenn die Sonne untergegangen ist, ist er rein.
+Danach darf er von den heiligen Gaben essen. Denn das ist seine Speise.
+<sup>8</sup>Er darf nichts essen, was von selbst gestorben ist oder von wilden Tieren gerissen wurde,
+und sich dadurch unrein machen.
+Ich bin der HERR.
+<sup>9</sup>Darum sollen sie meine Anordnung befolgen.
+Sonst laden sie Sünde auf sich und sterben deswegen, weil sie das Heilige entweiht haben.
+Ich bin der HERR, der sie heiligt.
+
+> **Was bedeutet das?**
+> Die Priester lebten von den Opfergaben. Aber auch für sie gilt: Wer unrein ist, darf nicht von den heiligen Gaben essen. Er muss warten, bis er wieder rein ist.
+> „Denn das ist seine Speise“ – die Opfergaben sind das tägliche Brot der Priester. Gott sorgt für sie. Aber sie sollen damit mit Ehrfurcht umgehen.
+
+---
+
+### Wer von den heiligen Gaben essen darf (Vers 10–16)
+
+<sup>10</sup>Kein Fremder darf von den heiligen Gaben essen.
+Ein Ausländer, der bei einem Priester wohnt, oder ein Tagelöhner darf nicht von den heiligen Gaben essen.
+<sup>11</sup>Aber wenn ein Priester einen Sklaven mit seinem Geld kauft, dann darf dieser davon essen.
+Und die, die in seinem Haus geboren sind, dürfen von seiner Speise essen.
+<sup>12</sup>Wenn die Tochter eines Priesters einen Mann heiratet, der kein Priester ist,
+dann darf sie nicht vom Hebeopfer der heiligen Gaben essen.
+<sup>13</sup>Aber wenn die Tochter eines Priesters Witwe wird oder geschieden ist und kein Kind hat
+und in das Haus ihres Vaters zurückkehrt, wie in ihrer Jugend,
+dann darf sie von der Speise ihres Vaters essen.
+Aber kein Fremder darf davon essen.
+
+<sup>14</sup>Wenn jemand aus Versehen etwas Heiliges isst,
+dann soll er ein Fünftel seines Wertes dazulegen
+und das Heilige dem Priester ersetzen.
+<sup>15</sup>Die Priester sollen die heiligen Gaben der Israeliten, die sie dem HERRN bringen, nicht entweihen.
+<sup>16</sup>Sonst bringen sie Schuld über das Volk, wenn sie ihre heiligen Gaben essen.
+Denn ich bin der HERR, der sie heiligt.‘“
+
+> **Was bedeutet das?**
+> „Ein Fremder“ meint hier: jemand, der nicht zur Familie des Priesters gehört.
+> Ein Sklave, den ein Priester gekauft hat, gehört zur Familie und darf mitessen. Ein Tagelöhner oder Gast, der nur kurz da ist, nicht. In der damaligen Welt gehörten Sklaven zum Haushalt dazu. Mehr dazu steht in der Erklärung zu 2. Mose 21.
+> Eine Tochter, die einen Mann heiratet, gehört dann zu seiner Familie. Aber wenn sie Witwe wird und ohne Kinder zurückkommt, wird sie wieder versorgt. So fällt sie nicht in Armut. Das ist ein Schutz für Frauen ohne Versorgung.
+
+---
+
+### Nur Tiere ohne Fehler (Vers 17–25)
+
+<sup>17</sup>Der HERR sprach zu Mose:
+<sup>18</sup>„Sprich zu Aaron und zu seinen Söhnen und zu allen Israeliten und sag ihnen:
+‚Wenn jemand aus dem Haus Israel oder von den Ausländern in Israel seine Opfergabe bringt,
+sei es, weil er es Gott versprochen hat, oder als freiwillige Gabe,
+die man dem HERRN als Brandopfer bringt,
+<sup>19</sup>dann sollt ihr, damit ihr angenommen werdet, ein männliches Tier ohne Fehler bringen,
+von den Rindern, von den Schafen oder von den Ziegen.
+<sup>20</sup>Aber ihr dürft nichts darbringen, das einen Fehler hat.
+Denn es wird nicht für euch angenommen.
+
+<sup>21</sup>Wenn jemand dem HERRN ein Gemeinschaftsopfer bringt, um ein Versprechen einzulösen,
+oder als freiwillige Gabe von den Rindern oder von den Schafen und Ziegen,
+dann muss es vollkommen sein, damit es angenommen wird.
+Es darf keinen Fehler haben.
+<sup>22</sup>Ihr dürft dem HERRN nichts darbringen, was blind ist,
+was verletzt oder verstümmelt ist,
+was eine Warze hat, was eitert oder eine nässende Wunde hat.
+Ihr dürft davon kein Feueropfer für den HERRN auf den Altar bringen.
+<sup>23</sup>Ein Rind oder ein Lamm, das eine Fehlbildung hat oder dem ein Körperteil fehlt,
+darfst du als freiwillige Gabe darbringen.
+Aber für ein Versprechen wird es nicht angenommen.
+<sup>24</sup>Ihr dürft dem HERRN kein Tier darbringen, dessen Hoden gequetscht, zerdrückt, abgerissen oder abgeschnitten sind.
+So etwas dürft ihr in eurem Land nicht tun.
+<sup>25</sup>Auch von einem Ausländer dürft ihr keines dieser Tiere annehmen, um es als Speise eures Gottes darzubringen.
+Denn sie sind verdorben. Sie haben einen Fehler.
+Sie werden nicht für euch angenommen.‘“
+
+> **Was bedeutet das?**
+> Man soll Gott das Beste geben, nicht das, was man selbst nicht mehr braucht. Ein krankes oder verletztes Tier zu opfern, wäre wie ein Geschenk aus dem Müll.
+> Später klagte der Prophet Maleachi, dass die Menschen blinde und kranke Tiere opferten. Er fragte: „Bring das doch mal deinem Statthalter! Wird er sich darüber freuen?“ (Maleachi 1,8).
+> Auch Ausländer dürfen Opfer bringen. Gottes Altar steht für alle offen.
+
+---
+
+### Rücksicht auf die Tiere (Vers 26–28)
+
+<sup>26</sup>Der HERR sprach zu Mose:
+<sup>27</sup>„Wenn ein Rind, ein Schaf oder eine Ziege geboren wird,
+dann soll es sieben Tage bei seiner Mutter bleiben.
+Vom achten Tag an wird es als Feueropfer für den HERRN angenommen.
+<sup>28</sup>Eine Kuh oder ein Schaf dürft ihr nicht am selben Tag mit seinem Jungen schlachten.
+
+> **Was bedeutet das?**
+> Hier zeigt die Bibel Mitgefühl mit den Tieren. Ein neugeborenes Tier soll eine Woche bei seiner Mutter bleiben dürfen. Und Mutter und Junges sollen nicht am selben Tag geschlachtet werden.
+> Auch Tiere sind Geschöpfe Gottes. Man soll sie nicht grausam behandeln, auch wenn man sie isst oder opfert.
+
+---
+
+### Das Dankopfer und der Schluss (Vers 29–33)
+
+<sup>29</sup>Wenn ihr dem HERRN ein Dankopfer bringt, sollt ihr es so opfern, dass ihr angenommen werdet.
+<sup>30</sup>Man soll es am selben Tag essen.
+Ihr sollt nichts davon bis zum Morgen übrig lassen.
+Ich bin der HERR.
+<sup>31</sup>Darum sollt ihr meine Gebote halten und sie tun.
+Ich bin der HERR.
+<sup>32</sup>Ihr sollt meinen heiligen Namen nicht entweihen.
+Sondern ich will unter den Israeliten geheiligt werden.
+Ich bin der HERR, der euch heiligt,
+<sup>33</sup>der euch aus dem Land Ägypten herausgeführt hat, um euer Gott zu sein.
+Ich bin der HERR.“
+
+> **Was bedeutet das?**
+> „Ich will unter den Israeliten geheiligt werden.“ Wenn Menschen gut und gerecht leben, wird Gottes Name geehrt. Wenn sie Böses tun, wird sein Name „entweiht“, also in den Schmutz gezogen.
+> Im Judentum nennt man es „Kiddusch Haschem“, die Heiligung des Namens, wenn jemand durch sein Verhalten Gott Ehre macht. Christen beten im Vaterunser: „Geheiligt werde dein Name.“
