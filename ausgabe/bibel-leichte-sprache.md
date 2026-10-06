@@ -19114,3 +19114,317 @@ und schlug sein Lager in der Wüste Paran auf.
 > Wunderbar ist die Reaktion von Mose. Er ist nicht beleidigt und rächt sich nicht. Er betet sofort für seine Schwester. Es ist eines der kürzesten Gebete der Bibel: „Gott, heile sie doch!“
 > Gott hört das Gebet. Mirjam muss nur sieben Tage draußen bleiben, dann wird sie gesund und kommt zurück.
 > Und das ganze Volk wartet auf sie. Niemand zieht weiter, bevor Mirjam zurück ist. Sie ist nicht vergessen. Sie gehört dazu.
+
+## 4. Mose – Kapitel 13
+#### Zwölf Kundschafter erkunden das Land
+
+---
+
+### Zwölf Männer werden ausgewählt (Vers 1–16)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Schick Männer aus, die das Land Kanaan erkunden sollen, das ich den Israeliten gebe.
+Aus jedem Stamm ihrer Väter sollst du einen Mann schicken, jeder soll ein Anführer unter ihnen sein.“
+<sup>3</sup>Mose schickte sie aus der Wüste Paran los, nach dem Befehl des HERRN.
+Alle waren Männer, die Oberhäupter unter den Israeliten waren.
+<sup>4</sup>Das waren ihre Namen:
+Vom Stamm Ruben: Schammua, der Sohn von Sakkur.
+<sup>5</sup>Vom Stamm Simeon: Schafat, der Sohn von Hori.
+<sup>6</sup>Vom Stamm Juda: Kaleb, der Sohn von Jefunne.
+<sup>7</sup>Vom Stamm Issachar: Jigal, der Sohn von Josef.
+<sup>8</sup>Vom Stamm Efraim: Hoschea, der Sohn von Nun.
+<sup>9</sup>Vom Stamm Benjamin: Palti, der Sohn von Rafu.
+<sup>10</sup>Vom Stamm Sebulon: Gaddiël, der Sohn von Sodi.
+<sup>11</sup>Vom Stamm Josef, vom Stamm Manasse: Gaddi, der Sohn von Susi.
+<sup>12</sup>Vom Stamm Dan: Ammiël, der Sohn von Gemalli.
+<sup>13</sup>Vom Stamm Ascher: Setur, der Sohn von Michael.
+<sup>14</sup>Vom Stamm Naftali: Nachbi, der Sohn von Wofsi.
+<sup>15</sup>Vom Stamm Gad: Geuël, der Sohn von Machi.
+<sup>16</sup>Das sind die Namen der Männer, die Mose schickte, um das Land zu erkunden.
+Und Mose nannte Hoschea, den Sohn von Nun, Josua.
+
+> **Was bedeutet das?**
+> Das Volk ist jetzt an der Grenze des versprochenen Landes. Bevor es hineinzieht, sollen zwölf Kundschafter das Land erkunden, einer aus jedem Stamm.
+> Wichtig sind zwei Namen: Kaleb aus Juda und Hoschea aus Efraim.
+> Mose gibt Hoschea einen neuen Namen: Josua. „Hoschea“ heißt „Rettung“. „Josua“ heißt „Der HERR rettet“. Der griechische Name für Josua ist übrigens „Jesus“.
+
+---
+
+### Der Auftrag (Vers 17–20)
+
+<sup>17</sup>Mose schickte sie los, um das Land Kanaan zu erkunden, und sagte zu ihnen:
+„Geht hier hinauf durch das Südland und steigt ins Bergland.
+<sup>18</sup>Seht euch das Land an, wie es ist,
+und das Volk, das darin wohnt: ob es stark oder schwach ist, ob es wenige oder viele sind,
+<sup>19</sup>und wie das Land ist, in dem sie wohnen, ob es gut oder schlecht ist,
+und wie die Städte sind, in denen sie wohnen, ob sie in offenen Lagern oder in befestigten Städten leben,
+<sup>20</sup>und wie der Boden ist, ob er fruchtbar oder mager ist, ob es dort Bäume gibt oder nicht.
+Seid mutig und bringt etwas von den Früchten des Landes mit.“
+Es war gerade die Zeit der ersten reifen Trauben.
+
+> **Was bedeutet das?**
+> Das „Südland“ heißt auf Hebräisch „Negev“. Das ist der trockene Süden des Landes.
+> Die erste Traubenernte ist im Juli oder August.
+
+---
+
+### Die Erkundung (Vers 21–25)
+
+<sup>21</sup>Da zogen sie hinauf und erkundeten das Land,
+von der Wüste Zin bis nach Rehob, bis dorthin, wo es nach Hamat geht.
+<sup>22</sup>Sie zogen durch das Südland hinauf und kamen nach Hebron.
+Dort wohnten Ahiman, Scheschai und Talmai, die Nachkommen Anaks.
+Hebron war sieben Jahre vor Zoan in Ägypten gebaut worden.
+<sup>23</sup>Sie kamen in das Tal Eschkol.
+Dort schnitten sie eine Rebe mit einer einzigen Weintraube ab.
+Zwei Männer trugen sie an einer Stange.
+Sie brachten auch Granatäpfel und Feigen mit.
+<sup>24</sup>Man nannte diesen Ort Tal Eschkol,
+wegen der Traube, die die Israeliten dort abgeschnitten hatten.
+<sup>25</sup>Nach 40 Tagen kamen sie von der Erkundung des Landes zurück.
+
+> **Was bedeutet das?**
+> Die Kundschafter durchqueren das ganze Land, vom Süden bis weit in den Norden.
+> In Hebron sind Abraham, Sara, Isaak und Jakob begraben (1. Mose 23; 49,29–31).
+> Die „Nachkommen Anaks“ oder „Anakiter“ waren ein Volk von besonders großen Menschen.
+> „Eschkol“ heißt „Traube“. Die Traube war so groß, dass zwei Männer sie tragen mussten. Dieses Bild ist heute das Zeichen des israelischen Tourismusministeriums.
+
+---
+
+### Der Bericht: ein gutes Land, aber starke Bewohner (Vers 26–29)
+
+<sup>26</sup>Sie gingen und kamen zu Mose, zu Aaron und zur ganzen Gemeinde der Israeliten
+in die Wüste Paran, nach Kadesch.
+Sie berichteten ihnen und der ganzen Gemeinde.
+Und sie zeigten ihnen die Früchte des Landes.
+<sup>27</sup>Sie erzählten ihm und sagten:
+„Wir sind in das Land gekommen, in das du uns geschickt hast.
+Wirklich, es fließen Milch und Honig darin. Und das sind seine Früchte.
+<sup>28</sup>Aber das Volk, das im Land wohnt, ist stark.
+Und die Städte sind befestigt und sehr groß.
+Wir haben dort auch die Nachkommen Anaks gesehen.
+<sup>29</sup>Die Amalekiter wohnen im Südland.
+Die Hetiter, die Jebusiter und die Amoriter wohnen im Bergland.
+Und die Kanaaniter wohnen am Meer und am Ufer des Jordan.“
+
+> **Was bedeutet das?**
+> Der Bericht beginnt gut: Das Land ist wirklich so wunderbar, wie Gott es versprochen hat.
+> Aber dann kommt das große „Aber“. Die Kundschafter sehen nur noch die Probleme.
+
+---
+
+### Kaleb gegen die anderen (Vers 30–33)
+
+<sup>30</sup>Kaleb beruhigte das Volk vor Mose und sagte:
+„Lasst uns sofort hinaufziehen und es in Besitz nehmen!
+Wir können es ganz sicher schaffen!“
+<sup>31</sup>Aber die Männer, die mit ihm hinaufgezogen waren, sagten:
+„Wir können nicht gegen dieses Volk hinaufziehen.
+Denn es ist stärker als wir.“
+<sup>32</sup>Und sie verbreiteten unter den Israeliten ein schlechtes Gerücht über das Land, das sie erkundet hatten. Sie sagten:
+„Das Land, durch das wir gezogen sind, um es zu erkunden, ist ein Land, das seine Bewohner frisst.
+Und alle Leute, die wir darin gesehen haben, sind sehr groß.
+<sup>33</sup>Wir haben dort auch die Nefilim gesehen, die Nachkommen Anaks, die von den Nefilim abstammen.
+Wir kamen uns selbst vor wie Heuschrecken.
+Und so waren wir auch in ihren Augen.“
+
+> **Was bedeutet das?**
+> Alle zwölf haben dasselbe gesehen. Aber sie ziehen verschiedene Schlüsse.
+> Zehn sehen nur die Riesen und die Mauern. Sie vergessen, dass Gott mit ihnen ist. Sie übertreiben sogar: Vorher war das Land gut, jetzt „frisst es seine Bewohner“.
+> Kaleb sieht dieselben Riesen. Aber er vertraut darauf, dass Gott stärker ist.
+> „Nefilim“ sind sagenhafte Riesen aus der Urzeit (1. Mose 6,4). Die Kundschafter wollen damit sagen: Gegen diese Menschen haben wir keine Chance.
+> „Wir kamen uns vor wie Heuschrecken“ – das ist ein trauriger Satz. Wer sich selbst klein macht, glaubt auch, dass die anderen ihn klein sehen. Angst verzerrt den Blick.
+
+## 4. Mose – Kapitel 14
+#### Das Volk verweigert sich – 40 Jahre Wüste
+
+---
+
+### Das Volk will zurück nach Ägypten (Vers 1–5)
+
+<sup>1</sup>Da erhob die ganze Gemeinde ihre Stimme und schrie.
+Und das Volk weinte in dieser Nacht.
+<sup>2</sup>Alle Israeliten beschwerten sich über Mose und über Aaron.
+Die ganze Gemeinde sagte zu ihnen:
+„Wären wir doch im Land Ägypten gestorben
+oder wären wir doch in dieser Wüste gestorben!
+<sup>3</sup>Warum bringt uns der HERR in dieses Land, damit wir durch das Schwert fallen?
+Unsere Frauen und unsere kleinen Kinder werden gefangen genommen oder getötet!
+Wäre es nicht besser für uns, nach Ägypten zurückzukehren?“
+<sup>4</sup>Und sie sagten zueinander:
+„Lasst uns einen Anführer wählen und nach Ägypten zurückkehren!“
+<sup>5</sup>Da warfen sich Mose und Aaron vor der ganzen Versammlung der Gemeinde der Israeliten auf ihr Gesicht nieder.
+
+> **Was bedeutet das?**
+> Das ist einer der traurigsten Momente in der Geschichte Israels. Sie stehen direkt vor dem Ziel. Gott hat sie aus Ägypten befreit, durch das Meer geführt, in der Wüste ernährt. Und jetzt wollen sie zurück in die Sklaverei.
+> Sie wollen sogar einen neuen Anführer wählen. Das ist ein Aufstand gegen Mose und gegen Gott.
+> Mose und Aaron werfen sich nieder. Vielleicht vor Entsetzen, vielleicht um zu Gott zu beten.
+
+---
+
+### Josua und Kaleb bitten das Volk (Vers 6–10)
+
+<sup>6</sup>Josua, der Sohn von Nun, und Kaleb, der Sohn von Jefunne, die zu den Kundschaftern gehörten,
+zerrissen ihre Kleider.
+<sup>7</sup>Sie sagten zur ganzen Gemeinde der Israeliten:
+„Das Land, durch das wir gezogen sind, um es zu erkunden, ist ein sehr, sehr gutes Land.
+<sup>8</sup>Wenn der HERR Gefallen an uns hat, dann wird er uns in dieses Land bringen und es uns geben,
+ein Land, in dem Milch und Honig fließen.
+<sup>9</sup>Nur lehnt euch nicht gegen den HERRN auf!
+Und habt keine Angst vor dem Volk des Landes.
+Denn wir werden sie verschlingen wie Brot.
+Ihr Schutz ist von ihnen gewichen, und der HERR ist mit uns.
+Habt keine Angst vor ihnen!“
+<sup>10</sup>Aber die ganze Gemeinde drohte, sie mit Steinen zu steinigen.
+Da erschien die Herrlichkeit des HERRN am Zelt der Begegnung vor allen Israeliten.
+
+> **Was bedeutet das?**
+> Josua und Kaleb zerreißen ihre Kleider. Das ist ein Zeichen großer Trauer und Verzweiflung.
+> Ihre Botschaft ist einfach: „Der HERR ist mit uns. Habt keine Angst!“ Es kommt nicht darauf an, wie stark die Feinde sind, sondern wie stark Gott ist.
+> Aber das Volk will die beiden steinigen. Manchmal wollen Menschen die Wahrheit nicht hören, sondern bringen den zum Schweigen, der sie sagt.
+> In diesem Moment greift Gott ein.
+
+---
+
+### Gott will das Volk vernichten – Mose bittet (Vers 11–19)
+
+<sup>11</sup>Der HERR sagte zu Mose:
+„Wie lange will mich dieses Volk noch verachten?
+Wie lange wollen sie mir nicht glauben,
+trotz all der Zeichen, die ich unter ihnen getan habe?
+<sup>12</sup>Ich will sie mit der Pest schlagen und sie verstoßen.
+Und dich will ich zu einem Volk machen, das größer und stärker ist als sie.“
+
+<sup>13</sup>Mose sagte zum HERRN:
+„Dann werden es die Ägypter hören.
+Denn du hast dieses Volk mit deiner Kraft aus ihrer Mitte heraufgeführt.
+<sup>14</sup>Sie werden es den Bewohnern dieses Landes erzählen.
+Die haben gehört, dass du, HERR, mitten unter diesem Volk bist.
+Denn du, HERR, wirst von Angesicht zu Angesicht gesehen,
+deine Wolke steht über ihnen,
+und du gehst vor ihnen her, am Tag in einer Wolkensäule und in der Nacht in einer Feuersäule.
+<sup>15</sup>Wenn du jetzt dieses Volk tötest wie einen einzigen Mann,
+dann werden die Völker, die von deinem Ruhm gehört haben, sagen:
+<sup>16</sup>‚Weil der HERR nicht in der Lage war, dieses Volk in das Land zu bringen, das er ihnen mit einem Schwur versprochen hatte,
+darum hat er sie in der Wüste abgeschlachtet.‘
+<sup>17</sup>Jetzt aber soll sich die Kraft des Herrn als groß erweisen,
+so wie du gesagt hast:
+<sup>18</sup>‚Der HERR ist langsam zum Zorn und reich an Liebe.
+Er vergibt Schuld und Ungehorsam.
+Aber er lässt den Schuldigen nicht einfach ungestraft.
+Er sucht die Schuld der Väter heim an den Kindern, an der dritten und vierten Generation.‘
+<sup>19</sup>Vergib doch die Schuld dieses Volkes nach deiner großen Liebe,
+so wie du diesem Volk vergeben hast von Ägypten an bis hierher.“
+
+> **Was bedeutet das?**
+> Wie beim goldenen Kalb (2. Mose 32) will Gott das Volk vernichten und mit Mose neu anfangen. Und wie damals setzt sich Mose für das Volk ein.
+> Mose erinnert Gott an seine eigenen Worte: „Langsam zum Zorn, reich an Liebe, er vergibt Schuld“ (2. Mose 34,6–7). Mose betet mit Gottes eigenen Worten.
+> Interessant: Die wahre Stärke Gottes zeigt sich nicht darin, dass er straft, sondern darin, dass er vergibt (Vers 17).
+
+---
+
+### Gott vergibt – aber diese Generation kommt nicht ins Land (Vers 20–25)
+
+<sup>20</sup>Der HERR sagte:
+„Ich vergebe, wie du gebeten hast.
+<sup>21</sup>Aber so wahr ich lebe und so wahr die ganze Erde mit der Herrlichkeit des HERRN erfüllt werden soll:
+<sup>22</sup>Alle diese Männer haben meine Herrlichkeit und meine Zeichen gesehen,
+die ich in Ägypten und in der Wüste getan habe.
+Und doch haben sie mich nun schon zehnmal auf die Probe gestellt
+und nicht auf meine Stimme gehört.
+<sup>23</sup>Darum werden sie das Land nicht sehen, das ich ihren Vätern mit einem Schwur versprochen habe.
+Keiner von denen, die mich verachtet haben, wird es sehen.
+<sup>24</sup>Aber meinen Diener Kaleb,
+weil ein anderer Geist in ihm war und er mir ganz gefolgt ist,
+ihn will ich in das Land bringen, in das er gegangen ist.
+Und seine Nachkommen sollen es besitzen.
+<sup>25</sup>Die Amalekiter und die Kanaaniter wohnen im Tal.
+Darum kehrt morgen um und zieht in die Wüste, in Richtung zum Roten Meer.“
+
+> **Was bedeutet das?**
+> Gott vergibt. Das Volk wird nicht vernichtet. Aber Vergebung heißt nicht, dass es keine Folgen gibt. Wer Gott nicht vertraut, kann nicht in das Land gehen, das man nur mit Vertrauen erobern kann.
+> „Zehnmal“ heißt: immer und immer wieder. Die Zahl zehn steht für Vollständigkeit.
+> Kaleb hat „einen anderen Geist“. Er sieht dieselben Dinge wie die anderen, aber er hat Vertrauen statt Angst.
+> „Rotes Meer“: So steht es in der englischen Vorlage. Im Hebräischen heißt es „Schilfmeer“. Gemeint ist hier wohl der Golf von Akaba.
+
+---
+
+### Die Strafe: 40 Jahre in der Wüste (Vers 26–35)
+
+<sup>26</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>27</sup>„Wie lange soll ich diese böse Gemeinde ertragen, die sich gegen mich beschwert?
+Ich habe die Beschwerden der Israeliten gehört, die sie gegen mich vorbringen.
+<sup>28</sup>Sag zu ihnen:
+‚So wahr ich lebe, spricht der HERR:
+Genau so, wie ihr vor meinen Ohren gesagt habt, so will ich es mit euch machen.
+<sup>29</sup>Eure Leichen sollen in dieser Wüste fallen,
+alle von euch, die gezählt wurden, so viele es auch sind,
+von 20 Jahren an und älter, die sich gegen mich beschwert haben.
+<sup>30</sup>Ihr werdet ganz sicher nicht in das Land kommen,
+von dem ich geschworen habe, dass ich euch darin wohnen lasse,
+außer Kaleb, dem Sohn von Jefunne, und Josua, dem Sohn von Nun.
+<sup>31</sup>Aber eure kleinen Kinder, von denen ihr gesagt habt, sie würden gefangen genommen oder getötet,
+die will ich hineinbringen.
+Sie werden das Land kennenlernen, das ihr verworfen habt.
+<sup>32</sup>Aber ihr – eure Leichen sollen in dieser Wüste fallen.
+<sup>33</sup>Eure Kinder sollen 40 Jahre lang in der Wüste umherziehen
+und die Folgen eurer Untreue tragen, die wie Prostitution war,
+bis eure Leichen in der Wüste aufgezehrt sind.
+<sup>34</sup>Nach der Zahl der Tage, in denen ihr das Land erkundet habt, 40 Tage,
+für jeden Tag ein Jahr, sollt ihr eure Schuld tragen, 40 Jahre lang.
+Und ihr sollt erfahren, was es heißt, wenn ich mich abwende.‘
+<sup>35</sup>Ich, der HERR, habe es gesagt.
+Ganz sicher will ich das an dieser ganzen bösen Gemeinde tun, die sich gegen mich zusammengerottet hat.
+In dieser Wüste sollen sie umkommen, und dort sollen sie sterben.“
+
+> **Was bedeutet das?**
+> Die Strafe ist bitter, aber sie entspricht genau dem, was das Volk selbst gesagt hat. Sie hatten gerufen: „Wären wir doch in der Wüste gestorben!“ (Vers 2). Jetzt sagt Gott: „Wie ihr gesagt habt, so wird es sein.“
+> Und sie hatten gesagt, ihre Kinder würden umkommen. Gott sagt: Nein, gerade eure Kinder werden das Land bekommen. Die, um die ihr Angst hattet, werden gerettet.
+> 40 Tage Erkundung, 40 Jahre Wüste. Eine ganze Generation stirbt in der Wüste. Nur die neue Generation wird ins Land ziehen.
+> „Untreue, die wie Prostitution war“ – so nennt die Bibel oft die Untreue gegenüber Gott. Gott und sein Volk sind wie ein Ehepaar.
+> Im Neuen Testament wird diese Geschichte als Warnung erzählt: „Verhärtet euer Herz nicht, wie damals in der Wüste“ (Hebräer 3,7–19).
+
+---
+
+### Die zehn Kundschafter sterben (Vers 36–38)
+
+<sup>36</sup>Die Männer, die Mose geschickt hatte, um das Land zu erkunden,
+die zurückgekommen waren und die ganze Gemeinde dazu gebracht hatten, sich gegen ihn zu beschweren,
+weil sie ein schlechtes Gerücht über das Land verbreitet hatten,
+<sup>37</sup>diese Männer, die das schlechte Gerücht über das Land verbreitet hatten,
+starben durch eine Plage vor dem HERRN.
+<sup>38</sup>Aber Josua, der Sohn von Nun, und Kaleb, der Sohn von Jefunne,
+blieben am Leben von den Männern, die gegangen waren, um das Land zu erkunden.
+
+> **Was bedeutet das?**
+> Die zehn Kundschafter tragen eine besondere Verantwortung. Sie haben das ganze Volk mit ihrer Angst angesteckt.
+> Josua und Kaleb überleben. Sie werden die einzigen ihrer Generation sein, die das Land betreten.
+
+---
+
+### Zu spät: der gescheiterte Angriff (Vers 39–45)
+
+<sup>39</sup>Mose sagte diese Worte allen Israeliten.
+Da trauerte das Volk sehr.
+<sup>40</sup>Früh am Morgen standen sie auf und stiegen hinauf auf den Gipfel des Berges. Sie sagten:
+„Hier sind wir!
+Wir wollen hinaufziehen zu dem Ort, von dem der HERR gesprochen hat.
+Denn wir haben gesündigt.“
+<sup>41</sup>Mose sagte:
+„Warum übertretet ihr jetzt den Befehl des HERRN?
+Es wird euch nicht gelingen.
+<sup>42</sup>Zieht nicht hinauf, denn der HERR ist nicht unter euch.
+Sonst werdet ihr von euren Feinden geschlagen.
+<sup>43</sup>Denn dort stehen euch die Amalekiter und die Kanaaniter gegenüber.
+Und ihr werdet durch das Schwert fallen.
+Weil ihr euch davon abgewandt habt, dem HERRN zu folgen,
+darum wird der HERR nicht mit euch sein.“
+<sup>44</sup>Aber sie wagten es trotzdem, auf den Gipfel des Berges hinaufzuziehen.
+Doch die Lade des Bundes des HERRN und Mose wichen nicht aus dem Lager.
+<sup>45</sup>Da kamen die Amalekiter und die Kanaaniter herab, die auf diesem Berg wohnten.
+Sie schlugen sie und zersprengten sie bis nach Horma.
+
+> **Was bedeutet das?**
+> Jetzt, wo es zu spät ist, wollen sie doch hinaufziehen. Aber das ist kein echtes Vertrauen auf Gott, sondern Trotz. Gestern sagte Gott „Geht!“, und sie wollten nicht. Heute sagt Gott „Bleibt!“, und sie gehen trotzdem.
+> Ohne Gott und ohne die Bundeslade ziehen sie los. Und sie verlieren.
+> Die Geschichte zeigt: Es kommt nicht nur darauf an, das Richtige zu tun, sondern es zur richtigen Zeit und mit Gott zu tun.
