@@ -22007,3 +22007,472 @@ Er nannte es Nobach, nach seinem eigenen Namen.
 > So wohnen zweieinhalb Stämme östlich des Jordan und neuneinhalb Stämme im Land Kanaan.
 > „Hawot-Jaïr“ heißt „Zeltdörfer von Jaïr“.
 > Nebo und Baal-Meon waren Namen von fremden Göttern. Darum wurden die Namen wohl geändert.
+
+## 4. Mose – Kapitel 33
+#### Die Stationen der Wanderung durch die Wüste
+
+---
+
+### Mose schreibt den Weg auf (Vers 1–4)
+
+<sup>1</sup>Das sind die Wanderungen der Israeliten,
+als sie in ihren Heerscharen aus dem Land Ägypten auszogen,
+unter der Führung von Mose und Aaron.
+<sup>2</sup>Mose schrieb die Ausgangspunkte ihrer Wanderungen auf, auf Befehl des HERRN.
+Das sind ihre Wanderungen, nach ihren Ausgangspunkten.
+
+<sup>3</sup>Sie brachen von Ramses auf im ersten Monat, am fünfzehnten Tag des ersten Monats.
+Am Tag nach dem Passa zogen die Israeliten mit erhobener Hand aus,
+vor den Augen aller Ägypter.
+<sup>4</sup>Die Ägypter begruben gerade alle ihre Erstgeborenen, die der HERR unter ihnen geschlagen hatte.
+Auch an ihren Göttern hatte der HERR Gericht gehalten.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist wie ein Reisetagebuch. Es zählt alle Orte auf, an denen Israel auf dem Weg von Ägypten bis an den Jordan gelagert hat. Mose selbst hat diese Liste aufgeschrieben.
+> „Mit erhobener Hand“ heißt: frei, mutig, ohne sich zu verstecken. Die Sklaven gehen nicht heimlich weg. Sie ziehen als freie Menschen aus.
+> „Gericht an ihren Göttern“: Die Plagen in Ägypten haben gezeigt, dass die Götter Ägyptens machtlos sind gegenüber dem HERRN.
+
+---
+
+### Von Ägypten bis zum Berg Sinai (Vers 5–15)
+
+<sup>5</sup>Die Israeliten brachen von Ramses auf und lagerten in Sukkot.
+<sup>6</sup>Sie brachen von Sukkot auf und lagerten in Etam, das am Rand der Wüste liegt.
+<sup>7</sup>Sie brachen von Etam auf und wandten sich zurück nach Pi-Hahirot, das vor Baal-Zefon liegt.
+Und sie lagerten vor Migdol.
+<sup>8</sup>Sie brachen von Hahirot auf und zogen mitten durch das Meer in die Wüste.
+Sie wanderten drei Tagesreisen weit in der Wüste Etam und lagerten in Mara.
+<sup>9</sup>Sie brachen von Mara auf und kamen nach Elim.
+In Elim gab es zwölf Wasserquellen und siebzig Palmen. Dort lagerten sie.
+<sup>10</sup>Sie brachen von Elim auf und lagerten am Roten Meer.
+<sup>11</sup>Sie brachen vom Roten Meer auf und lagerten in der Wüste Sin.
+<sup>12</sup>Sie brachen von der Wüste Sin auf und lagerten in Dofka.
+<sup>13</sup>Sie brachen von Dofka auf und lagerten in Alusch.
+<sup>14</sup>Sie brachen von Alusch auf und lagerten in Refidim.
+Dort gab es kein Wasser, das das Volk trinken konnte.
+<sup>15</sup>Sie brachen von Refidim auf und lagerten in der Wüste Sinai.
+
+> **Was bedeutet das?**
+> Viele dieser Orte kennen wir aus dem 2. Buch Mose: der Weg durch das Meer (Kapitel 14), das bittere Wasser von Mara (Kapitel 15), die Oase Elim mit ihren Palmen, das Wasser aus dem Felsen in Refidim (Kapitel 17) und schließlich der Berg Sinai.
+> „Rotes Meer“: So steht es in der englischen Vorlage. Im Hebräischen steht „Jam Suf“, das heißt wörtlich „Schilfmeer“.
+
+---
+
+### Vom Sinai bis nach Kadesch (Vers 16–36)
+
+<sup>16</sup>Sie brachen von der Wüste Sinai auf und lagerten in Kibrot-Taawa.
+<sup>17</sup>Sie brachen von Kibrot-Taawa auf und lagerten in Hazerot.
+<sup>18</sup>Sie brachen von Hazerot auf und lagerten in Ritma.
+<sup>19</sup>Sie brachen von Ritma auf und lagerten in Rimmon-Perez.
+<sup>20</sup>Sie brachen von Rimmon-Perez auf und lagerten in Libna.
+<sup>21</sup>Sie brachen von Libna auf und lagerten in Rissa.
+<sup>22</sup>Sie brachen von Rissa auf und lagerten in Kehelata.
+<sup>23</sup>Sie brachen von Kehelata auf und lagerten am Berg Schefer.
+<sup>24</sup>Sie brachen vom Berg Schefer auf und lagerten in Harada.
+<sup>25</sup>Sie brachen von Harada auf und lagerten in Makhelot.
+<sup>26</sup>Sie brachen von Makhelot auf und lagerten in Tahat.
+<sup>27</sup>Sie brachen von Tahat auf und lagerten in Terach.
+<sup>28</sup>Sie brachen von Terach auf und lagerten in Mitka.
+<sup>29</sup>Sie brachen von Mitka auf und lagerten in Haschmona.
+<sup>30</sup>Sie brachen von Haschmona auf und lagerten in Moserot.
+<sup>31</sup>Sie brachen von Moserot auf und lagerten in Bene-Jaakan.
+<sup>32</sup>Sie brachen von Bene-Jaakan auf und lagerten in Hor-Gidgad.
+<sup>33</sup>Sie brachen von Hor-Gidgad auf und lagerten in Jotbata.
+<sup>34</sup>Sie brachen von Jotbata auf und lagerten in Abrona.
+<sup>35</sup>Sie brachen von Abrona auf und lagerten in Ezjon-Geber.
+<sup>36</sup>Sie brachen von Ezjon-Geber auf und lagerten in Kadesch in der Wüste Zin.
+
+> **Was bedeutet das?**
+> Kibrot-Taawa heißt „Gräber der Gier“. Dort starben Menschen, nachdem sie gierig Wachteln gegessen hatten (Kapitel 11). In Hazerot redeten Mirjam und Aaron gegen Mose (Kapitel 12).
+> Die meisten Orte in dieser Liste werden sonst nirgends erwähnt. Heute weiß man oft nicht mehr, wo sie lagen. Es sind die vielen Jahre in der Wüste, über die sonst wenig erzählt wird.
+> Ezjon-Geber liegt am Golf von Akaba, am Roten Meer. Dort hatte später König Salomo einen Hafen (1. Könige 9,26).
+
+---
+
+### Aarons Tod und der Weg nach Moab (Vers 37–49)
+
+<sup>37</sup>Sie brachen von Kadesch auf und lagerten am Berg Hor, am Rand des Landes Edom.
+<sup>38</sup>Aaron, der Priester, stieg auf Befehl des HERRN auf den Berg Hor und starb dort.
+Das war im vierzigsten Jahr, nachdem die Israeliten aus dem Land Ägypten ausgezogen waren,
+im fünften Monat, am ersten Tag des Monats.
+<sup>39</sup>Aaron war 123 Jahre alt, als er auf dem Berg Hor starb.
+<sup>40</sup>Der Kanaaniter, der König von Arad, der im Süden im Land Kanaan wohnte,
+hörte, dass die Israeliten kamen.
+
+<sup>41</sup>Sie brachen vom Berg Hor auf und lagerten in Zalmona.
+<sup>42</sup>Sie brachen von Zalmona auf und lagerten in Punon.
+<sup>43</sup>Sie brachen von Punon auf und lagerten in Obot.
+<sup>44</sup>Sie brachen von Obot auf und lagerten in Ije-Abarim, an der Grenze von Moab.
+<sup>45</sup>Sie brachen von Ijim auf und lagerten in Dibon-Gad.
+<sup>46</sup>Sie brachen von Dibon-Gad auf und lagerten in Almon-Diblatajim.
+<sup>47</sup>Sie brachen von Almon-Diblatajim auf und lagerten im Gebirge Abarim, gegenüber vom Nebo.
+<sup>48</sup>Sie brachen vom Gebirge Abarim auf und lagerten in den Steppen von Moab,
+am Jordan, gegenüber von Jericho.
+<sup>49</sup>Sie lagerten am Jordan, von Bet-Jeschimot bis Abel-Schittim, in den Steppen von Moab.
+
+> **Was bedeutet das?**
+> Nur hier steht, wann genau Aaron starb und wie alt er war. Sein Tod wurde in Kapitel 20 erzählt.
+> Der König von Arad wird kurz erwähnt. Er hatte Israel angegriffen (Kapitel 21,1–3).
+> „Ijim“ ist eine Kurzform von Ije-Abarim. Es ist derselbe Ort.
+> Wenn man alle Lagerplätze zählt, mit Ramses am Anfang, kommt man auf 42 Stationen. Jüdische Ausleger haben gesagt: Gott hat jeden Schritt seines Volkes gesehen. Keine Station war vergessen. So ist es auch im Leben jedes Menschen: Jede Etappe, auch die schwere, ist Gott bekannt.
+
+---
+
+### Der Auftrag für das Land Kanaan (Vers 50–56)
+
+<sup>50</sup>Der HERR sprach zu Mose in den Steppen von Moab, am Jordan, gegenüber von Jericho:
+<sup>51</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr über den Jordan in das Land Kanaan zieht,
+<sup>52</sup>dann sollt ihr alle Bewohner des Landes vor euch vertreiben.
+Zerstört alle ihre Götzenbilder aus Stein,
+zerstört alle ihre gegossenen Bilder
+und reißt alle ihre Opferhöhen nieder.
+<sup>53</sup>Ihr sollt das Land in Besitz nehmen und darin wohnen.
+Denn ich habe euch das Land gegeben, damit ihr es besitzt.
+<sup>54</sup>Ihr sollt das Land durch das Los als Erbe verteilen, nach euren Sippen.
+Den größeren Gruppen sollt ihr ein größeres Erbe geben
+und den kleineren ein kleineres Erbe.
+Wohin das Los für jemanden fällt, das soll ihm gehören.
+Ihr sollt nach den Stämmen eurer Väter erben.
+<sup>55</sup>Aber wenn ihr die Bewohner des Landes nicht vor euch vertreibt,
+dann werden die, die ihr von ihnen übrig lasst, wie Stacheln in euren Augen
+und wie Dornen in euren Seiten sein.
+Sie werden euch in dem Land bedrängen, in dem ihr wohnt.
+<sup>56</sup>Und es wird geschehen:
+Was ich mit ihnen tun wollte, das werde ich mit euch tun.‘“
+
+> **Was bedeutet das?**
+> „Opferhöhen“ waren Plätze auf Hügeln, an denen man fremden Göttern opferte.
+> Gott befiehlt, die Bewohner zu vertreiben und ihre Götzenbilder zu zerstören. Der Grund steht in Vers 55: Israel soll nicht zum Götzendienst verführt werden. Das ist in der Geschichte Israels später tatsächlich immer wieder passiert.
+> Vers 56 ist eine ernste Warnung: Wenn Israel wird wie die Völker, dann geht es Israel wie ihnen. Auch Israel kann das Land wieder verlieren. Das geschah später im Exil in Babylon.
+> Diese Stelle gehört zu einer bestimmten Zeit und Situation. Sie ist kein Auftrag für heute. Niemand darf sie benutzen, um Menschen von ihrem Land zu vertreiben.
+
+## 4. Mose – Kapitel 34
+#### Die Grenzen des Landes
+
+---
+
+### Die Südgrenze (Vers 1–5)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Befiehl den Israeliten und sag ihnen:
+‚Wenn ihr in das Land Kanaan kommt –
+das ist das Land, das euch als Erbe zufallen soll, das Land Kanaan mit seinen Grenzen –
+<sup>3</sup>dann soll eure Südseite von der Wüste Zin an der Seite von Edom entlang verlaufen.
+Eure Südgrenze soll im Osten am Ende des Salzmeeres beginnen.
+<sup>4</sup>Eure Grenze soll sich südlich vom Skorpionenpass wenden und nach Zin hinüberführen.
+Sie soll südlich von Kadesch-Barnea verlaufen.
+Von dort soll sie nach Hazar-Addar gehen und nach Azmon hinüberführen.
+<sup>5</sup>Von Azmon soll die Grenze sich zum Bach Ägyptens wenden
+und am Meer enden.
+
+> **Was bedeutet das?**
+> Gott beschreibt die Grenzen des Landes, das Israel bekommen soll.
+> Das „Salzmeer“ ist das Tote Meer. Es ist so salzig, dass dort keine Fische leben.
+> „Skorpionenpass“ heißt auf Hebräisch „Akrabbim“. Das ist ein steiler Weg im Süden.
+> Der „Bach Ägyptens“ ist wahrscheinlich ein Flusstal im Norden der Halbinsel Sinai, das nur bei Regen Wasser führt. Mit dem „Meer“ ist das Mittelmeer gemeint.
+
+---
+
+### Die Westgrenze und die Nordgrenze (Vers 6–9)
+
+<sup>6</sup>Die Westgrenze soll das große Meer mit seiner Küste sein.
+Das soll eure Westgrenze sein.
+<sup>7</sup>Das soll eure Nordgrenze sein:
+Vom großen Meer aus sollt ihr eure Grenze bis zum Berg Hor ziehen.
+<sup>8</sup>Vom Berg Hor aus sollt ihr sie bis Lebo-Hamat ziehen.
+Und die Grenze soll bei Zedad vorbeiführen.
+<sup>9</sup>Dann soll die Grenze nach Sifron gehen und bei Hazar-Enan enden.
+Das soll eure Nordgrenze sein.
+
+> **Was bedeutet das?**
+> Das „große Meer“ ist das Mittelmeer.
+> Der Berg Hor hier im Norden ist ein anderer Berg als der Berg Hor, auf dem Aaron starb. Der lag im Süden bei Edom.
+> In der englischen Vorlage steht „der Eingang von Hamat“. Viele übersetzen es als Ortsnamen: „Lebo-Hamat“. Hamat war eine Stadt im heutigen Syrien.
+
+---
+
+### Die Ostgrenze (Vers 10–12)
+
+<sup>10</sup>Eure Ostgrenze sollt ihr von Hazar-Enan bis Schefam ziehen.
+<sup>11</sup>Die Grenze soll von Schefam hinuntergehen nach Ribla, an der Ostseite von Ajin.
+Die Grenze soll weiter hinuntergehen und das Ufer des Sees Kinneret im Osten berühren.
+<sup>12</sup>Die Grenze soll zum Jordan hinuntergehen und am Salzmeer enden.
+Das soll euer Land sein, mit seinen Grenzen ringsum.‘“
+
+> **Was bedeutet das?**
+> Der „See Kinneret“ ist der See Genezareth, an dem Jesus später lebte und predigte.
+> Die Ostgrenze ist der Jordan. Das Land Kanaan im engeren Sinn liegt also westlich des Jordan.
+> Dieses Land mit diesen Grenzen hat Israel in seiner Geschichte nur selten ganz besessen, am ehesten unter König David und König Salomo.
+> Diese alten Grenzen sind keine Landkarte für die Politik von heute. Die Bibel beschreibt hier, was Gott seinem Volk damals versprochen hat.
+
+---
+
+### Das Land für neuneinhalb Stämme (Vers 13–15)
+
+<sup>13</sup>Mose befahl den Israeliten:
+„Das ist das Land, das ihr durch das Los erben sollt.
+Der HERR hat befohlen, es den neun Stämmen und dem halben Stamm zu geben.
+<sup>14</sup>Denn der Stamm der Nachkommen Rubens nach ihren Familien,
+der Stamm der Nachkommen Gads nach ihren Familien
+und der halbe Stamm Manasse haben ihr Erbe bekommen.
+<sup>15</sup>Die zwei Stämme und der halbe Stamm haben ihr Erbe jenseits des Jordan bekommen,
+gegenüber von Jericho, im Osten, wo die Sonne aufgeht.“
+
+> **Was bedeutet das?**
+> Das knüpft an Kapitel 32 an: Ruben, Gad und der halbe Stamm Manasse haben ihr Land schon östlich des Jordan bekommen.
+
+---
+
+### Die Männer, die das Land verteilen (Vers 16–29)
+
+<sup>16</sup>Der HERR sprach zu Mose:
+<sup>17</sup>„Das sind die Namen der Männer, die euch das Land als Erbe verteilen sollen:
+Eleasar, der Priester, und Josua, der Sohn von Nun.
+<sup>18</sup>Ihr sollt einen Anführer aus jedem Stamm nehmen, um das Land als Erbe zu verteilen.
+<sup>19</sup>Das sind die Namen der Männer:
+Vom Stamm Juda: Kaleb, der Sohn von Jefunne.
+<sup>20</sup>Vom Stamm der Nachkommen Simeons: Schemuel, der Sohn von Ammihud.
+<sup>21</sup>Vom Stamm Benjamin: Elidad, der Sohn von Kislon.
+<sup>22</sup>Vom Stamm der Nachkommen Dans ein Anführer: Bukki, der Sohn von Jogli.
+<sup>23</sup>Von den Nachkommen Josefs:
+vom Stamm der Nachkommen Manasses ein Anführer: Hanniël, der Sohn von Efod.
+<sup>24</sup>Vom Stamm der Nachkommen Efraims ein Anführer: Kemuël, der Sohn von Schiftan.
+<sup>25</sup>Vom Stamm der Nachkommen Sebulons ein Anführer: Elizafan, der Sohn von Parnach.
+<sup>26</sup>Vom Stamm der Nachkommen Issachars ein Anführer: Paltiël, der Sohn von Asan.
+<sup>27</sup>Vom Stamm der Nachkommen Assers ein Anführer: Ahihud, der Sohn von Schelomi.
+<sup>28</sup>Vom Stamm der Nachkommen Naftalis ein Anführer: Pedahel, der Sohn von Ammihud.“
+<sup>29</sup>Das sind die Männer, denen der HERR befahl,
+den Israeliten ihr Erbe im Land Kanaan zu verteilen.
+
+> **Was bedeutet das?**
+> Das Land soll gerecht verteilt werden. Darum bekommt jeder Stamm einen Vertreter. Keiner soll benachteiligt werden.
+> Nur zehn Stämme werden genannt. Ruben und Gad fehlen, weil sie ihr Land schon haben. Für Manasse gibt es trotzdem einen Vertreter, weil die andere Hälfte des Stammes noch Land westlich des Jordan bekommt.
+> Kaleb ist der einzige bekannte Name. Er war einer der zwei treuen Kundschafter. Jetzt, nach 40 Jahren, darf er helfen, das Land zu verteilen, das er damals erkundet hat.
+
+## 4. Mose – Kapitel 35
+#### Städte für die Leviten – Städte der Zuflucht
+
+---
+
+### 48 Städte für die Leviten (Vers 1–8)
+
+<sup>1</sup>Der HERR sprach zu Mose in den Steppen von Moab, am Jordan, gegenüber von Jericho:
+<sup>2</sup>„Befiehl den Israeliten, dass sie den Leviten von ihrem Erbe Städte zum Wohnen geben.
+Auch Weideland rings um die Städte sollt ihr den Leviten geben.
+<sup>3</sup>Die Städte sollen sie zum Wohnen haben.
+Und ihr Weideland soll für ihr Vieh sein, für ihren Besitz und für alle ihre Tiere.
+<sup>4</sup>Das Weideland der Städte, das ihr den Leviten gebt,
+soll von der Stadtmauer aus etwa 450 Meter nach außen reichen, ringsum.
+<sup>5</sup>Außerhalb der Stadt sollt ihr abmessen:
+auf der Ostseite etwa 900 Meter,
+auf der Südseite etwa 900 Meter,
+auf der Westseite etwa 900 Meter
+und auf der Nordseite etwa 900 Meter.
+Die Stadt soll in der Mitte liegen.
+Das soll das Weideland ihrer Städte sein.
+<sup>6</sup>Unter den Städten, die ihr den Leviten gebt, sollen die sechs Zufluchtsstädte sein.
+Die sollt ihr geben, damit jemand, der einen Menschen getötet hat, dorthin fliehen kann.
+Zusätzlich zu ihnen sollt ihr 42 Städte geben.
+<sup>7</sup>Alle Städte, die ihr den Leviten gebt, sollen zusammen 48 Städte sein, mit ihrem Weideland.
+<sup>8</sup>Bei den Städten, die ihr vom Besitz der Israeliten gebt,
+sollt ihr von den großen Stämmen viele nehmen und von den kleinen wenige.
+Jeder soll nach dem Erbe, das er bekommt, einige seiner Städte den Leviten geben.“
+
+> **Was bedeutet das?**
+> In der Bibel steht: 1000 Ellen und 2000 Ellen. Eine Elle sind etwa 45 Zentimeter.
+> Die Zahlen in Vers 4 und 5 sind schwer zu verstehen. Ausleger haben verschiedene Erklärungen. Eine ist: Die 1000 Ellen gehen von der Mauer aus nach außen. Die 2000 Ellen sind die Länge jeder Seite des ganzen Weidelandes. Eine andere ist: Die ersten 1000 Ellen sind Weideland, die nächsten 1000 Ellen sind Felder und Weinberge.
+> Der Stamm Levi bekommt kein eigenes Gebiet. Die Leviten sind für den Gottesdienst da. Darum wohnen sie verteilt in Städten im ganzen Land. So sind sie überall nah bei den Menschen und können sie im Glauben unterrichten.
+
+---
+
+### Sechs Städte der Zuflucht (Vers 9–15)
+
+<sup>9</sup>Der HERR sprach zu Mose:
+<sup>10</sup>„Sprich zu den Israeliten und sag ihnen:
+‚Wenn ihr über den Jordan in das Land Kanaan zieht,
+<sup>11</sup>dann sollt ihr euch Städte auswählen, die für euch Zufluchtsstädte sein sollen.
+Dorthin soll jemand fliehen können, der einen Menschen ohne Absicht getötet hat.
+<sup>12</sup>Die Städte sollen euch Zuflucht vor dem Bluträcher geben,
+damit der, der getötet hat, nicht stirbt,
+bevor er vor der Gemeinde vor Gericht gestanden hat.
+<sup>13</sup>Die Städte, die ihr gebt, sollen sechs Zufluchtsstädte für euch sein.
+<sup>14</sup>Drei Städte sollt ihr jenseits des Jordan geben,
+und drei Städte sollt ihr im Land Kanaan geben.
+Sie sollen Zufluchtsstädte sein.
+<sup>15</sup>Diese sechs Städte sollen eine Zuflucht sein für die Israeliten,
+für den Fremden und für den Ausländer, der unter ihnen lebt.
+Dorthin soll jeder fliehen können, der einen Menschen ohne Absicht getötet hat.
+
+> **Was bedeutet das?**
+> Damals gab es keine Polizei. Wenn jemand getötet wurde, dann hatte ein naher Verwandter die Pflicht, ihn zu rächen. Man nannte ihn den „Bluträcher“.
+> Aber was ist, wenn es ein Unfall war? Dann wäre die Rache ungerecht. Darum schafft Gott die Zufluchtsstädte. Wer ohne Absicht getötet hat, kann dorthin fliehen. Dort ist er sicher, bis ein Gericht entschieden hat.
+> Das ist ein großer Fortschritt: Nicht die Rache entscheidet, sondern ein gerechtes Gericht.
+> Auch Fremde und Ausländer haben dieses Recht. Das Gesetz gilt für alle gleich.
+
+---
+
+### Was ist Mord? (Vers 16–21)
+
+<sup>16</sup>Aber wenn er ihn mit einem Gegenstand aus Eisen geschlagen hat, sodass er starb,
+dann ist er ein Mörder. Der Mörder soll mit dem Tod bestraft werden.
+<sup>17</sup>Wenn er ihn mit einem Stein in der Hand geschlagen hat, durch den ein Mensch sterben kann,
+und er ist gestorben, dann ist er ein Mörder.
+Der Mörder soll mit dem Tod bestraft werden.
+<sup>18</sup>Oder wenn er ihn mit einer Waffe aus Holz in der Hand geschlagen hat, durch die ein Mensch sterben kann,
+und er ist gestorben, dann ist er ein Mörder.
+Der Mörder soll mit dem Tod bestraft werden.
+<sup>19</sup>Der Bluträcher selbst soll den Mörder töten.
+Wenn er ihn trifft, soll er ihn töten.
+<sup>20</sup>Wenn er ihn aus Hass gestoßen hat
+oder aus dem Hinterhalt etwas auf ihn geworfen hat, sodass er starb,
+<sup>21</sup>oder wenn er ihn aus Feindschaft mit der Hand geschlagen hat, sodass er starb,
+dann soll der, der ihn geschlagen hat, mit dem Tod bestraft werden.
+Er ist ein Mörder.
+Der Bluträcher soll den Mörder töten, wenn er ihn trifft.
+
+> **Was bedeutet das?**
+> Hier wird unterschieden: Wann ist es Mord, und wann ist es ein Unfall?
+> Mord ist es, wenn jemand eine gefährliche Waffe benutzt. Oder wenn er aus Hass handelt. Oder wenn er sich versteckt und auf den anderen lauert. Dann wollte er töten.
+> Für Mord galt damals die Todesstrafe. Heute haben viele Länder die Todesstrafe abgeschafft, und viele Juden und Christen setzen sich dafür ein. Aber der Gedanke dahinter bleibt wichtig: Ein Menschenleben ist unendlich wertvoll. Wer es absichtlich nimmt, begeht ein sehr schweres Unrecht.
+
+---
+
+### Was ist ein Unfall? (Vers 22–29)
+
+<sup>22</sup>Aber wenn er ihn plötzlich gestoßen hat, ohne Feindschaft,
+oder wenn er etwas auf ihn geworfen hat, ohne ihm aufzulauern,
+<sup>23</sup>oder wenn er einen Stein, durch den ein Mensch sterben kann, auf ihn fallen ließ,
+ohne ihn zu sehen, sodass er starb,
+und er war nicht sein Feind und wollte ihm nicht schaden,
+<sup>24</sup>dann soll die Gemeinde nach diesen Rechtsordnungen
+zwischen dem, der geschlagen hat, und dem Bluträcher entscheiden.
+<sup>25</sup>Die Gemeinde soll den, der getötet hat, aus der Hand des Bluträchers retten.
+Und die Gemeinde soll ihn in seine Zufluchtsstadt zurückbringen, in die er geflohen war.
+Er soll dort wohnen bleiben bis zum Tod des Hohenpriesters,
+der mit dem heiligen Öl gesalbt wurde.
+
+<sup>26</sup>Aber wenn der, der getötet hat, irgendwann die Grenze seiner Zufluchtsstadt verlässt, in die er geflohen ist,
+<sup>27</sup>und der Bluträcher findet ihn außerhalb der Grenze seiner Zufluchtsstadt
+und der Bluträcher tötet ihn,
+dann hat der Bluträcher keine Blutschuld.
+<sup>28</sup>Denn er hätte bis zum Tod des Hohenpriesters in seiner Zufluchtsstadt bleiben sollen.
+Aber nach dem Tod des Hohenpriesters darf der, der getötet hat, in das Land seines Besitzes zurückkehren.
+<sup>29</sup>Das soll für euch eine feste Ordnung und ein Recht sein,
+für alle Generationen, überall, wo ihr wohnt.
+
+> **Was bedeutet das?**
+> Wer einen anderen aus Versehen getötet hat, ist kein Mörder. Aber er ist auch nicht einfach frei. Er muss in der Zufluchtsstadt bleiben. Dort ist er geschützt, aber er kann nicht nach Hause. Das zeigt: Auch ein Unfall ist etwas Ernstes. Ein Leben ist verloren gegangen.
+> Er darf erst nach Hause, wenn der Hohepriester stirbt. Mit dem Tod des Hohenpriesters beginnt eine neue Zeit. Jüdische Ausleger haben gesagt: Der Tod des Hohenpriesters schafft eine Art Versöhnung.
+> Christen sehen darin ein Bild für Jesus. Im Hebräerbrief wird Jesus der große Hohepriester genannt (Hebräer 4,14). Durch seinen Tod werden Menschen frei. Und Gott selbst wird im Hebräerbrief eine Zuflucht genannt (Hebräer 6,18).
+
+---
+
+### Kein Lösegeld für Mord (Vers 30–34)
+
+<sup>30</sup>Wer einen Menschen tötet: Der Mörder soll aufgrund der Aussage von Zeugen getötet werden.
+Aber ein einzelner Zeuge darf nicht gegen einen Menschen aussagen, sodass er stirbt.
+<sup>31</sup>Ihr sollt auch kein Lösegeld annehmen für das Leben eines Mörders, der des Todes schuldig ist.
+Er soll mit dem Tod bestraft werden.
+<sup>32</sup>Und ihr sollt kein Lösegeld annehmen für den, der in seine Zufluchtsstadt geflohen ist,
+damit er vor dem Tod des Priesters wieder zurückkommt und im Land wohnt.
+<sup>33</sup>So sollt ihr das Land, in dem ihr wohnt, nicht entweihen.
+Denn Blut entweiht das Land.
+Für das Land kann keine Versöhnung geschaffen werden für das Blut, das darin vergossen wurde,
+außer durch das Blut dessen, der es vergossen hat.
+<sup>34</sup>Ihr sollt das Land nicht unrein machen, in dem ihr wohnt und in dem ich wohne.
+Denn ich, der HERR, wohne mitten unter den Israeliten.‘“
+
+> **Was bedeutet das?**
+> Ein wichtiger Schutz: Niemand darf auf die Aussage von nur einem Zeugen hin verurteilt werden. Es braucht mindestens zwei. So sollen falsche Anklagen verhindert werden. Diese Regel gilt in vielen Rechtssystemen bis heute.
+> Kein Lösegeld: Ein Reicher soll sich nicht freikaufen können. Ein Menschenleben kann man nicht mit Geld bezahlen. Arm und Reich sind vor dem Gesetz gleich.
+> Der letzte Vers erklärt den tiefsten Grund: Gott wohnt mitten unter seinem Volk. Darum ist das Land heilig. Mord ist nicht nur ein Verbrechen gegen Menschen, sondern auch gegen Gott, der dort wohnt.
+
+## 4. Mose – Kapitel 36
+#### Noch einmal die Töchter Zelofhads
+
+---
+
+### Eine Sorge der Familie (Vers 1–4)
+
+<sup>1</sup>Die Oberhäupter der Familien der Sippe der Nachkommen Gileads traten herzu.
+Gilead war der Sohn von Machir, dem Sohn von Manasse, aus den Sippen der Söhne Josefs.
+Sie sprachen vor Mose und vor den Anführern, den Oberhäuptern der Familien der Israeliten.
+<sup>2</sup>Sie sagten:
+„Der HERR hat meinem Herrn befohlen, den Israeliten das Land durch das Los als Erbe zu geben.
+Und meinem Herrn wurde vom HERRN befohlen,
+das Erbe Zelofhads, unseres Bruders, seinen Töchtern zu geben.
+<sup>3</sup>Wenn sie aber Männer aus einem der anderen Stämme der Israeliten heiraten,
+dann wird ihr Erbe vom Erbe unserer Väter weggenommen.
+Es wird zum Erbe des Stammes hinzugefügt, zu dem sie dann gehören.
+So wird es von dem Anteil unseres Erbes weggenommen.
+<sup>4</sup>Wenn dann das Jubeljahr der Israeliten kommt,
+wird ihr Erbe zum Erbe des Stammes hinzugefügt, zu dem sie gehören.
+So wird ihr Erbe vom Erbe des Stammes unserer Väter weggenommen.“
+
+> **Was bedeutet das?**
+> In Kapitel 27 haben die fünf Töchter Zelofhads das Recht bekommen, das Land ihres Vaters zu erben.
+> Jetzt kommen die Männer aus ihrer Sippe mit einer Sorge: Wenn die Töchter Männer aus einem anderen Stamm heiraten, dann gehört das Land später zu deren Familien. Dann wird das Gebiet des Stammes Manasse kleiner.
+> Das „Jubeljahr“ war alle 50 Jahre. Dann sollte verkauftes Land an die ursprüngliche Familie zurückgehen (3. Mose 25). Aber geerbtes Land wurde nicht verkauft. Das Jubeljahr hätte daran nichts geändert. Der Verlust wäre also endgültig.
+
+---
+
+### Die Lösung (Vers 5–9)
+
+<sup>5</sup>Mose befahl den Israeliten nach dem Wort des HERRN:
+„Der Stamm der Söhne Josefs hat recht.
+<sup>6</sup>Das befiehlt der HERR über die Töchter Zelofhads:
+‚Sie sollen heiraten, wen sie für richtig halten.
+Nur sollen sie in eine Sippe aus dem Stamm ihres Vaters heiraten.
+<sup>7</sup>So soll kein Erbe der Israeliten von einem Stamm zum anderen wandern.
+Denn jeder der Israeliten soll am Erbe des Stammes seiner Väter festhalten.
+<sup>8</sup>Jede Tochter, die in einem der Stämme der Israeliten ein Erbe besitzt,
+soll einen Mann aus einer Sippe vom Stamm ihres Vaters heiraten,
+damit jeder der Israeliten das Erbe seiner Väter besitzt.
+<sup>9</sup>So soll kein Erbe von einem Stamm zu einem anderen Stamm wandern.
+Denn jeder der Stämme der Israeliten soll an seinem eigenen Erbe festhalten.‘“
+
+> **Was bedeutet das?**
+> Wieder wird eine Frage zu Gott gebracht. Und wieder wird eine gerechte Lösung gefunden.
+> Die Töchter behalten ihr Erbe. Sie dürfen selbst entscheiden, wen sie heiraten: „wen sie für richtig halten“. Das war damals nicht selbstverständlich. Die einzige Bedingung ist: Der Mann soll aus ihrem eigenen Stamm sein.
+> So wird beides geschützt: das Recht der Frauen und das Land des Stammes.
+> Diese Regel galt nur für Töchter, die Land geerbt hatten. Sonst durften Israeliten auch in andere Stämme heiraten.
+
+---
+
+### Die Töchter gehorchen (Vers 10–12)
+
+<sup>10</sup>Die Töchter Zelofhads taten, wie der HERR es Mose befohlen hatte.
+<sup>11</sup>Machla, Tirza, Hogla, Milka und Noa, die Töchter Zelofhads,
+heirateten die Söhne der Brüder ihres Vaters.
+<sup>12</sup>Sie heirateten in die Sippen der Söhne Manasses, des Sohnes Josefs.
+Und ihr Erbe blieb beim Stamm der Sippe ihres Vaters.
+
+> **Was bedeutet das?**
+> Die fünf Schwestern heiraten ihre Cousins. Damals war das üblich und erlaubt.
+> Ihre Geschichte hat ein gutes Ende. Später, im Buch Josua, bekommen sie wirklich ihr Land (Josua 17,3–6).
+
+---
+
+### Der Schluss des Buches (Vers 13)
+
+<sup>13</sup>Das sind die Gebote und die Rechtsordnungen,
+die der HERR durch Mose den Israeliten befohlen hat,
+in den Steppen von Moab, am Jordan, gegenüber von Jericho.
+
+> **Was bedeutet das?**
+> Das 4. Buch Mose endet dort, wo das Volk jetzt steht: am Jordan, kurz vor dem verheißenen Land. Gegenüber liegt die Stadt Jericho.
+> Es ist bemerkenswert, dass das Buch mit einer Geschichte über fünf Frauen endet, die für ihr Recht eingetreten sind. Ihr Mut hat das Gesetz Israels verändert.
+
+---
+
+### Rückblick: Was haben wir im 4. Buch Mose gelesen?
+
+> **Was bedeutet das?**
+> Das 4. Buch Mose erzählt von der Reise durch die Wüste. Sie dauerte fast 40 Jahre. Das Buch hat drei große Teile:
+> 1. Am Berg Sinai (Kapitel 1–10): Das Volk wird gezählt und geordnet. Die Leviten bekommen ihre Aufgaben. Alles wird für den Aufbruch vorbereitet. Mitten darin steht der Segen, den Priester bis heute sprechen: „Der HERR segne dich und behüte dich.“
+> 2. In der Wüste (Kapitel 10–21): Das Volk klagt immer wieder. Es will zurück nach Ägypten. Es glaubt den zwei treuen Kundschaftern nicht. Darum muss die ganze Generation in der Wüste sterben. Selbst Mose, Mirjam und Aaron dürfen nicht ins Land. Aber Gott versorgt sein Volk trotzdem jeden Tag mit Manna und Wasser.
+> 3. Vor dem Land (Kapitel 22–36): Der Prophet Bileam soll Israel verfluchen, aber er muss es segnen. Eine neue Generation wird gezählt. Josua wird Nachfolger von Mose. Alles wird für das Leben im Land vorbereitet.
+> Das Buch zeigt ehrlich, wie schwer es Menschen fällt, Gott zu vertrauen. Und es zeigt auch harte und dunkle Seiten, wie den Krieg gegen Midian. Diese Seiten darf man nicht beschönigen, und man darf sie niemals als Vorbild für Gewalt nehmen.
+> Aber die wichtigste Botschaft ist: Gott bleibt treu, auch wenn sein Volk untreu ist. Er führt es Schritt für Schritt bis an das Ziel. Eine Generation versagt, aber die nächste steht nun am Jordan, bereit für das neue Land.
+> Das 5. Buch Mose erzählt, was Mose dem Volk dort am Jordan noch zum Abschied sagt.
