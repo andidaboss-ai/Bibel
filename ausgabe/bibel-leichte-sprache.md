@@ -18524,3 +18524,332 @@ Und er redete mit ihm.
 > **Was bedeutet das?**
 > Das ist das Ziel von allem: Das Heiligtum ist fertig und eingeweiht. Und jetzt spricht Gott dort mit Mose, genau wie er es versprochen hatte (2. Mose 25,22).
 > Alle Gaben, alle Opfer, aller Aufwand hatten diesen einen Zweck: dass Gott mitten unter seinem Volk wohnt und mit ihm redet.
+
+## 4. Mose – Kapitel 8
+#### Der Leuchter und die Weihe der Leviten
+
+---
+
+### Die sieben Lampen (Vers 1–4)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu Aaron und sag ihm:
+‚Wenn du die Lampen aufsetzt, sollen die sieben Lampen den Raum vor dem Leuchter erhellen.‘“
+<sup>3</sup>Aaron tat es so.
+Er setzte die Lampen so auf, dass sie den Raum vor dem Leuchter erhellten,
+wie der HERR es Mose befohlen hatte.
+<sup>4</sup>So war der Leuchter gemacht: aus getriebenem Gold.
+Von seinem Fuß bis zu seinen Blüten war er getriebene Arbeit.
+Er hatte den Leuchter nach dem Muster gemacht, das der HERR Mose gezeigt hatte.
+
+> **Was bedeutet das?**
+> Nach den Gaben der Stammesführer (Kapitel 7) wird der Leuchter angezündet. Jetzt ist es hell im Heiligtum.
+> Die Lampen sollen nach vorne leuchten, auf den Tisch mit den zwölf Broten gegenüber. Das Licht Gottes scheint auf die zwölf Stämme.
+
+---
+
+### Die Leviten werden gereinigt (Vers 5–14)
+
+<sup>5</sup>Der HERR sprach zu Mose:
+<sup>6</sup>„Nimm die Leviten aus der Mitte der Israeliten und reinige sie.
+<sup>7</sup>So sollst du es machen, um sie zu reinigen:
+Sprenge das Wasser der Reinigung auf sie.
+Sie sollen ihren ganzen Körper mit einem Rasiermesser scheren,
+ihre Kleider waschen und sich reinigen.
+<sup>8</sup>Dann sollen sie einen jungen Stier nehmen und das Speiseopfer dazu, feines Mehl, mit Öl vermengt.
+Und einen zweiten jungen Stier sollst du als Sündopfer nehmen.
+<sup>9</sup>Du sollst die Leviten vor das Zelt der Begegnung bringen.
+Und du sollst die ganze Gemeinde der Israeliten versammeln.
+<sup>10</sup>Du sollst die Leviten vor den HERRN bringen.
+Die Israeliten sollen ihre Hände auf die Leviten legen.
+<sup>11</sup>Und Aaron soll die Leviten vor dem HERRN als Schwingopfer darbringen, von den Israeliten.
+So sollen sie den Dienst für den HERRN tun.
+
+<sup>12</sup>Die Leviten sollen ihre Hände auf die Köpfe der Stiere legen.
+Den einen sollst du als Sündopfer und den anderen als Brandopfer für den HERRN darbringen,
+um für die Leviten Versöhnung zu schaffen.
+<sup>13</sup>Du sollst die Leviten vor Aaron und vor seine Söhne stellen
+und sie dem HERRN als Schwingopfer darbringen.
+<sup>14</sup>So sollst du die Leviten aus der Mitte der Israeliten aussondern.
+Und die Leviten sollen mir gehören.
+
+> **Was bedeutet das?**
+> Die Leviten werden nicht wie die Priester gesalbt. Sie werden gereinigt: mit Wasser, durch Rasieren und Waschen. Das ist ein Zeichen für einen neuen Anfang.
+> Besonders ist Vers 10: Das ganze Volk legt den Leviten die Hände auf. Die Leviten stehen stellvertretend für das ganze Volk vor Gott. Sie dienen an Stelle der Erstgeborenen aller Familien.
+> Die Leviten werden „als Schwingopfer dargebracht“. Bei Tieren und Broten wurde die Gabe vor dem Altar hin- und hergeschwungen. Bei den Leviten ist es wohl eine feierliche Geste, mit der sie Gott übergeben werden. Sie sind wie eine lebendige Gabe des Volkes an Gott.
+> Paulus schreibt später: „Gebt euch selbst als lebendiges Opfer, das heilig ist und Gott gefällt“ (Römer 12,1).
+
+---
+
+### Die Leviten gehören Gott (Vers 15–19)
+
+<sup>15</sup>Danach sollen die Leviten hineingehen, um den Dienst am Zelt der Begegnung zu tun.
+Du sollst sie reinigen und sie als Schwingopfer darbringen.
+<sup>16</sup>Denn sie sind mir ganz übergeben aus der Mitte der Israeliten.
+Anstelle aller, die zuerst aus dem Mutterleib kommen,
+anstelle aller Erstgeborenen der Israeliten, habe ich sie mir genommen.
+<sup>17</sup>Denn alle Erstgeborenen der Israeliten gehören mir, von Menschen und von Tieren.
+An dem Tag, an dem ich alle Erstgeborenen im Land Ägypten schlug, habe ich sie mir geheiligt.
+<sup>18</sup>Ich habe die Leviten anstelle aller Erstgeborenen der Israeliten genommen.
+<sup>19</sup>Ich habe die Leviten Aaron und seinen Söhnen als Geschenk gegeben, aus der Mitte der Israeliten.
+Sie sollen den Dienst der Israeliten am Zelt der Begegnung tun
+und für die Israeliten Versöhnung schaffen,
+damit keine Plage über die Israeliten kommt, wenn die Israeliten sich dem Heiligtum nähern.“
+
+> **Was bedeutet das?**
+> Die Leviten sind ein „Geschenk“ für die Priester. Sie helfen ihnen bei der vielen Arbeit.
+> Und sie schützen das Volk. Weil sie den Dienst am Heiligtum tun, muss niemand sonst dem Heiligen zu nahe kommen und sich in Gefahr bringen.
+
+---
+
+### Die Weihe wird durchgeführt (Vers 20–22)
+
+<sup>20</sup>Mose, Aaron und die ganze Gemeinde der Israeliten machten es so mit den Leviten.
+Genau so, wie der HERR es Mose für die Leviten befohlen hatte, so machten es die Israeliten mit ihnen.
+<sup>21</sup>Die Leviten reinigten sich von Sünde und wuschen ihre Kleider.
+Und Aaron brachte sie vor dem HERRN als Schwingopfer dar.
+Und Aaron schuf Versöhnung für sie, um sie zu reinigen.
+<sup>22</sup>Danach gingen die Leviten hinein, um ihren Dienst am Zelt der Begegnung zu tun, vor Aaron und vor seinen Söhnen.
+Wie der HERR es Mose für die Leviten befohlen hatte, so machten sie es mit ihnen.
+
+---
+
+### Das Dienstalter der Leviten (Vers 23–26)
+
+<sup>23</sup>Der HERR sprach zu Mose:
+<sup>24</sup>„Das gilt für die Leviten:
+Von 25 Jahren an und älter sollen sie zum Dienst kommen und am Zelt der Begegnung arbeiten.
+<sup>25</sup>Und vom Alter von 50 Jahren an sollen sie sich vom Arbeitsdienst zurückziehen
+und nicht mehr Dienst tun.
+<sup>26</sup>Aber sie sollen ihren Brüdern am Zelt der Begegnung helfen und Aufsicht führen.
+Schwere Arbeit sollen sie nicht mehr tun.
+So sollst du es mit den Leviten und ihren Aufgaben machen.“
+
+> **Was bedeutet das?**
+> In Kapitel 4 hieß es: Die Leviten arbeiten von 30 bis 50 Jahren. Hier steht: von 25 an. Vielleicht waren die ersten fünf Jahre eine Lehrzeit. Jüdische Ausleger haben es so erklärt.
+> Mit 50 Jahren gehen die Leviten in eine Art Ruhestand. Sie müssen nicht mehr schwer tragen. Aber sie sind nicht nutzlos. Sie helfen den Jüngeren und geben ihre Erfahrung weiter. Das ist ein schönes Bild für das Alter: Man tut nicht mehr alles, aber man wird weiter gebraucht.
+
+## 4. Mose – Kapitel 9
+#### Das zweite Passa und die Wolke über dem Heiligtum
+
+---
+
+### Das Passa in der Wüste (Vers 1–5)
+
+<sup>1</sup>Der HERR sprach zu Mose in der Wüste Sinai,
+im ersten Monat des zweiten Jahres, nachdem sie aus dem Land Ägypten ausgezogen waren. Er sagte:
+<sup>2</sup>„Die Israeliten sollen das Passa zur festgesetzten Zeit feiern.
+<sup>3</sup>Am vierzehnten Tag dieses Monats, am Abend, sollt ihr es zur festgesetzten Zeit feiern.
+Ihr sollt es nach allen seinen Ordnungen und nach allen seinen Rechtsbestimmungen feiern.“
+<sup>4</sup>Mose sagte den Israeliten, dass sie das Passa feiern sollten.
+<sup>5</sup>Und sie feierten das Passa im ersten Monat, am vierzehnten Tag des Monats, am Abend, in der Wüste Sinai.
+Genau so, wie der HERR es Mose befohlen hatte, so machten es die Israeliten.
+
+> **Was bedeutet das?**
+> Ein Jahr nach dem Auszug aus Ägypten feiert Israel zum ersten Mal wieder das Passa. Sie erinnern sich an die Nacht ihrer Befreiung.
+> Zeitlich liegt das vor Kapitel 1. Das 4. Buch Mose erzählt nicht immer in der genauen Reihenfolge.
+
+---
+
+### Wenn jemand das Passa nicht feiern kann (Vers 6–14)
+
+<sup>6</sup>Es gab aber einige Männer, die unrein waren, weil sie einen toten Menschen berührt hatten.
+Darum konnten sie an diesem Tag das Passa nicht feiern.
+Sie kamen an diesem Tag zu Mose und Aaron.
+<sup>7</sup>Diese Männer sagten zu ihm:
+„Wir sind unrein, weil wir einen toten Menschen berührt haben.
+Warum sollen wir zurückstehen
+und dem HERRN nicht zur festgesetzten Zeit mit den Israeliten die Opfergabe bringen dürfen?“
+<sup>8</sup>Mose antwortete ihnen:
+„Wartet, ich will hören, was der HERR für euch befiehlt.“
+
+<sup>9</sup>Der HERR sprach zu Mose:
+<sup>10</sup>„Sag zu den Israeliten:
+‚Wenn jemand von euch oder von euren Nachkommen unrein ist, weil er einen Toten berührt hat,
+oder wenn er auf einer weiten Reise ist,
+dann soll er trotzdem das Passa für den HERRN feiern.
+<sup>11</sup>Im zweiten Monat, am vierzehnten Tag, am Abend, sollen sie es feiern.
+Sie sollen es mit ungesäuertem Brot und bitteren Kräutern essen.
+<sup>12</sup>Sie dürfen nichts davon bis zum Morgen übrig lassen
+und keinen Knochen davon zerbrechen.
+Nach allen Ordnungen für das Passa sollen sie es feiern.
+<sup>13</sup>Aber wer rein ist und nicht auf einer Reise ist
+und es trotzdem unterlässt, das Passa zu feiern,
+der soll aus seinem Volk ausgeschlossen werden.
+Weil er dem HERRN die Opfergabe nicht zur festgesetzten Zeit gebracht hat,
+soll dieser Mann seine Sünde tragen.
+
+<sup>14</sup>Wenn ein Fremder bei euch lebt und dem HERRN das Passa feiern will,
+dann soll er es nach der Ordnung für das Passa und nach seiner Rechtsbestimmung feiern.
+Ihr sollt ein und dieselbe Ordnung haben, für den Fremden und für den Einheimischen.‘“
+
+> **Was bedeutet das?**
+> Einige Männer konnten nicht mitfeiern. Sie hatten einen Toten berührt, vielleicht weil sie einen Angehörigen beerdigt hatten. Sie sind traurig, dass sie ausgeschlossen sind. Sie fragen Mose.
+> Mose weiß keine Antwort. Er sagt ehrlich: „Wartet, ich frage Gott.“ Auch ein großer Führer muss nicht alles wissen.
+> Und Gott gibt eine gnädige Antwort: Wer nicht kann, darf das Passa einen Monat später nachholen. Niemand soll ausgeschlossen bleiben, nur weil er verhindert war. Bis heute gibt es im Judentum dieses „zweite Passa“ (Pessach Scheni).
+> „Keinen Knochen zerbrechen“ – das Johannesevangelium erinnert an diese Regel, als Jesus am Kreuz stirbt und ihm keine Knochen gebrochen werden (Johannes 19,36). Christen sehen in Jesus das Passalamm.
+> Auch Fremde dürfen das Passa feiern, wenn sie sich zu Israels Gott halten. Für sie gilt dasselbe Recht.
+
+---
+
+### Die Wolke führt das Volk (Vers 15–23)
+
+<sup>15</sup>An dem Tag, an dem die Wohnung aufgerichtet wurde,
+bedeckte die Wolke die Wohnung, das Zelt des Zeugnisses.
+Am Abend war über der Wohnung etwas, das wie Feuer aussah, bis zum Morgen.
+<sup>16</sup>So war es immer:
+Die Wolke bedeckte sie, und in der Nacht sah es aus wie Feuer.
+<sup>17</sup>Immer wenn die Wolke sich vom Zelt erhob, brachen die Israeliten danach auf.
+Und an dem Ort, wo die Wolke stehen blieb, dort schlugen die Israeliten ihr Lager auf.
+<sup>18</sup>Auf den Befehl des HERRN brachen die Israeliten auf,
+und auf den Befehl des HERRN schlugen sie ihr Lager auf.
+Solange die Wolke über der Wohnung blieb, blieben sie im Lager.
+
+<sup>19</sup>Wenn die Wolke viele Tage über der Wohnung blieb,
+dann hielten sich die Israeliten an das, was der HERR wollte, und brachen nicht auf.
+<sup>20</sup>Manchmal war die Wolke nur wenige Tage über der Wohnung.
+Dann blieben sie nach dem Befehl des HERRN im Lager,
+und nach dem Befehl des HERRN brachen sie auf.
+<sup>21</sup>Manchmal war die Wolke nur vom Abend bis zum Morgen da.
+Wenn die Wolke sich am Morgen erhob, brachen sie auf.
+Oder einen Tag und eine Nacht: Wenn sich die Wolke erhob, brachen sie auf.
+<sup>22</sup>Ob es zwei Tage waren, ein Monat oder ein Jahr, dass die Wolke über der Wohnung blieb –
+die Israeliten blieben im Lager und brachen nicht auf.
+Aber wenn sie sich erhob, brachen sie auf.
+<sup>23</sup>Auf den Befehl des HERRN schlugen sie ihr Lager auf,
+und auf den Befehl des HERRN brachen sie auf.
+Sie hielten sich an das, was der HERR wollte, nach dem Befehl des HERRN durch Mose.
+
+> **Was bedeutet das?**
+> Die Wolke über dem Heiligtum ist das sichtbare Zeichen für Gottes Gegenwart. Am Tag ist sie eine Wolke, in der Nacht leuchtet sie wie Feuer.
+> Israel macht keine eigenen Reisepläne. Gott bestimmt, wann es weitergeht und wann sie bleiben. Manchmal nur eine Nacht, manchmal ein ganzes Jahr.
+> Das war sicher nicht immer leicht. Man wusste nie, wie lange man bleibt. Man musste jeden Tag bereit sein. Es ist eine Übung im Vertrauen: Gott weiß den Weg.
+> Siebenmal heißt es in diesen Versen „auf den Befehl des HERRN“. Das ganze Leben des Volkes richtet sich nach Gott.
+
+## 4. Mose – Kapitel 10
+#### Die silbernen Trompeten und der Aufbruch vom Sinai
+
+---
+
+### Zwei Trompeten aus Silber (Vers 1–10)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Mach dir zwei Trompeten aus Silber.
+Mach sie aus getriebenem Silber.
+Du sollst sie benutzen, um die Gemeinde zusammenzurufen und um die Lager aufbrechen zu lassen.
+<sup>3</sup>Wenn man auf beiden bläst, soll sich die ganze Gemeinde bei dir versammeln, am Eingang des Zeltes der Begegnung.
+<sup>4</sup>Wenn man nur auf einer bläst, sollen sich die Anführer bei dir versammeln, die Oberhäupter der Tausendschaften Israels.
+
+<sup>5</sup>Wenn ihr ein Signal zum Aufbruch blast, sollen die Lager aufbrechen, die auf der Ostseite liegen.
+<sup>6</sup>Wenn ihr zum zweiten Mal ein Signal zum Aufbruch blast, sollen die Lager aufbrechen, die auf der Südseite liegen.
+Man soll ein Signal blasen, wenn sie aufbrechen sollen.
+<sup>7</sup>Aber wenn die Versammlung zusammengerufen werden soll, sollt ihr blasen, aber kein Signal zum Aufbruch.
+
+<sup>8</sup>Die Söhne Aarons, die Priester, sollen die Trompeten blasen.
+Das soll für euch eine feste Ordnung für alle Zeiten sein, für alle eure Generationen.
+<sup>9</sup>Wenn ihr in eurem Land in den Krieg zieht gegen den Feind, der euch bedrängt,
+dann sollt ihr mit den Trompeten Alarm blasen.
+Dann wird man sich vor dem HERRN, eurem Gott, an euch erinnern,
+und ihr werdet vor euren Feinden gerettet werden.
+<sup>10</sup>Auch an euren Freudentagen, an euren Festen und an euren Neumondtagen
+sollt ihr die Trompeten blasen über euren Brandopfern und über euren Gemeinschaftsopfern.
+Sie sollen euch zur Erinnerung vor eurem Gott dienen.
+Ich bin der HERR, euer Gott.“
+
+> **Was bedeutet das?**
+> Bei so vielen Menschen braucht man Signale, die jeder hören kann. Die Trompeten sind wie eine Glocke oder eine Sirene.
+> Es gibt verschiedene Signale: einen gleichmäßigen Ton zum Versammeln und ein besonderes Signal zum Aufbruch, vielleicht kurze, schnelle Töne.
+> Die Trompeten klingen in schweren Zeiten, im Krieg, und in frohen Zeiten, bei Festen. In beiden Fällen sagen sie: Gott, denk an uns!
+> Auf dem Titusbogen in Rom kann man bis heute sehen, wie die Römer nach der Zerstörung des Tempels im Jahr 70 solche Trompeten als Beute wegtrugen.
+
+---
+
+### Der Aufbruch vom Berg Sinai (Vers 11–13)
+
+<sup>11</sup>Im zweiten Jahr, im zweiten Monat, am zwanzigsten Tag des Monats,
+erhob sich die Wolke von der Wohnung des Zeugnisses.
+<sup>12</sup>Und die Israeliten brachen aus der Wüste Sinai auf, eine Etappe nach der anderen.
+Und die Wolke blieb in der Wüste Paran stehen.
+<sup>13</sup>So brachen sie zum ersten Mal auf, nach dem Befehl des HERRN durch Mose.
+
+> **Was bedeutet das?**
+> Fast ein ganzes Jahr war Israel am Berg Sinai. Dort haben sie die Gebote empfangen und das Heiligtum gebaut. Jetzt geht die Reise weiter, in Richtung des versprochenen Landes.
+> Die Wüste Paran liegt nördlich vom Sinai, im Süden des heutigen Israel.
+
+---
+
+### Die Reihenfolge beim Aufbruch (Vers 14–28)
+
+<sup>14</sup>Zuerst brach das Banner des Lagers der Nachkommen Judas auf, nach ihren Heeren.
+Nachschon, der Sohn von Amminadab, führte sein Heer an.
+<sup>15</sup>Netanel, der Sohn von Zuar, führte das Heer des Stammes der Nachkommen Issachars an.
+<sup>16</sup>Eliab, der Sohn von Helon, führte das Heer des Stammes der Nachkommen Sebulons an.
+<sup>17</sup>Dann wurde die Wohnung abgebaut.
+Und die Nachkommen Gerschons und die Nachkommen Meraris, die die Wohnung trugen, brachen auf.
+
+<sup>18</sup>Dann brach das Banner des Lagers Ruben auf, nach ihren Heeren.
+Elizur, der Sohn von Schedeur, führte sein Heer an.
+<sup>19</sup>Schelumiël, der Sohn von Zurischaddai, führte das Heer des Stammes der Nachkommen Simeons an.
+<sup>20</sup>Eljasaf, der Sohn von Deuël, führte das Heer des Stammes der Nachkommen Gads an.
+<sup>21</sup>Dann brachen die Kehatiter auf und trugen das Heiligtum.
+Die anderen hatten die Wohnung schon aufgerichtet, bevor sie ankamen.
+
+<sup>22</sup>Dann brach das Banner des Lagers der Nachkommen Efraims auf, nach ihren Heeren.
+Elischama, der Sohn von Ammihud, führte sein Heer an.
+<sup>23</sup>Gamliël, der Sohn von Pedazur, führte das Heer des Stammes der Nachkommen Manasses an.
+<sup>24</sup>Abidan, der Sohn von Gidoni, führte das Heer des Stammes der Nachkommen Benjamins an.
+
+<sup>25</sup>Zuletzt brach das Banner des Lagers der Nachkommen Dans auf, nach ihren Heeren.
+Es bildete die Nachhut aller Lager.
+Ahiëser, der Sohn von Ammischaddai, führte sein Heer an.
+<sup>26</sup>Pagiël, der Sohn von Ochran, führte das Heer des Stammes der Nachkommen Aschers an.
+<sup>27</sup>Ahira, der Sohn von Enan, führte das Heer des Stammes der Nachkommen Naftalis an.
+<sup>28</sup>So zogen die Israeliten, nach ihren Heeren, auf ihren Wanderungen.
+Und sie brachen auf.
+
+> **Was bedeutet das?**
+> Die Reihenfolge ist klug geplant: Die Gerschoniter und Merariter mit den Brettern und Decken ziehen früh los. So können sie am neuen Lagerplatz das Zelt schon aufbauen. Wenn dann die Kehatiter mit den heiligen Dingen ankommen, steht die Wohnung schon bereit.
+
+---
+
+### Mose bittet Hobab, mitzukommen (Vers 29–32)
+
+<sup>29</sup>Mose sagte zu Hobab, dem Sohn von Reuël, dem Midianiter, dem Schwiegervater von Mose:
+„Wir ziehen zu dem Ort, von dem der HERR gesagt hat: ‚Ich will ihn euch geben.‘
+Komm mit uns, und wir werden dir Gutes tun.
+Denn der HERR hat Israel Gutes versprochen.“
+<sup>30</sup>Er antwortete ihm:
+„Ich will nicht mitgehen.
+Sondern ich will in mein Land und zu meiner Verwandtschaft zurückgehen.“
+<sup>31</sup>Mose sagte:
+„Verlass uns bitte nicht!
+Denn du weißt, wo wir in der Wüste lagern können.
+Du kannst unsere Augen sein.
+<sup>32</sup>Wenn du mit uns gehst – ja, so soll es sein –,
+dann werden wir dir all das Gute tun, das der HERR uns tut.“
+
+> **Was bedeutet das?**
+> Hobab kennt die Wüste. Er weiß, wo es Wasser gibt und wo man gut lagern kann. Mose bittet ihn, ihr Führer zu sein.
+> Interessant: Gott führt durch die Wolke. Trotzdem nimmt Mose gern die Hilfe eines erfahrenen Menschen an. Vertrauen auf Gott und menschliche Klugheit schließen sich nicht aus.
+> Wer genau Hobab ist, ist nicht ganz klar. Der Satz kann so verstanden werden, dass Reuël der Schwiegervater von Mose ist und Hobab dessen Sohn, also der Schwager von Mose. In Richter 4,11 wird Hobab selbst als Schwiegervater von Mose bezeichnet. Den Schwiegervater kennen wir auch unter dem Namen Jitro (2. Mose 3,1).
+> Ob Hobab mitkam, wird hier nicht gesagt. Später wohnen seine Nachkommen in Israel (Richter 1,16). Er ist also wohl mitgegangen.
+
+---
+
+### Die Lade geht voran (Vers 33–36)
+
+<sup>33</sup>Sie brachen vom Berg des HERRN auf und zogen drei Tagesreisen weit.
+Die Lade des Bundes des HERRN zog die drei Tagesreisen vor ihnen her,
+um einen Ruheplatz für sie zu suchen.
+<sup>34</sup>Und die Wolke des HERRN war am Tag über ihnen, wenn sie vom Lager aufbrachen.
+<sup>35</sup>Wenn die Lade aufbrach, sagte Mose:
+„Steh auf, HERR!
+Deine Feinde sollen sich zerstreuen.
+Die dich hassen, sollen vor dir fliehen!“
+<sup>36</sup>Und wenn sie haltmachte, sagte er:
+„Kehr zurück, HERR, zu den Zehntausenden der Tausende Israels!“
+
+> **Was bedeutet das?**
+> Die Bundeslade zieht voran. Gott selbst sucht den Weg und den Rastplatz für sein Volk. So wie ein Hirte vor seiner Herde hergeht.
+> Die beiden Gebete von Mose sind sehr alt. Bis heute werden sie in jüdischen Gottesdiensten gesprochen, wenn die Torarolle aus dem Schrank genommen und wieder zurückgestellt wird. Auch Psalm 68,2 beginnt mit diesen Worten.
+> In vielen hebräischen Bibeln stehen um die Verse 35–36 besondere Zeichen, umgedrehte Buchstaben „Nun“. Sie zeigen, dass diese beiden Verse etwas ganz Besonderes sind.
