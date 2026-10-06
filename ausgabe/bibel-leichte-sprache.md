@@ -19817,3 +19817,305 @@ Und die Plage hörte auf.
 > Aber dann geschieht etwas Wunderbares. Aaron, gegen den sich alle beschwert haben, läuft mitten in die Plage hinein, um sein Volk zu retten. Mit derselben Räucherpfanne, um die es im Streit ging.
 > „Er stand zwischen den Toten und den Lebenden.“ Das ist ein starkes Bild. Der Priester stellt sich selbst in die Gefahr, um andere zu schützen. So zeigt Gott, wer der wahre Priester ist: nicht der, der Macht will, sondern der, der sein Leben für andere einsetzt.
 > Christen sehen darin ein Bild für Jesus, der sich zwischen Gott und die Menschen stellt, um sie zu retten.
+
+## 4. Mose – Kapitel 17
+#### Aarons Stab blüht
+
+---
+
+### Zwölf Stäbe vor Gott (Vers 1–7)
+
+<sup>1</sup>Der HERR sprach zu Mose:
+<sup>2</sup>„Sprich zu den Israeliten und nimm von ihnen Stäbe,
+einen für jede Familie, von allen ihren Anführern nach ihren Familien, zwölf Stäbe.
+Schreib den Namen von jedem auf seinen Stab.
+<sup>3</sup>Auf den Stab von Levi sollst du den Namen Aarons schreiben.
+Denn für jedes Oberhaupt ihrer Familien soll es einen Stab geben.
+<sup>4</sup>Leg sie im Zelt der Begegnung nieder, vor das Zeugnis des Bundes, wo ich euch begegne.
+<sup>5</sup>Der Stab des Mannes, den ich erwähle, wird ausschlagen.
+So will ich die Beschwerden der Israeliten zum Schweigen bringen, die sie gegen euch vorbringen.“
+<sup>6</sup>Mose sprach zu den Israeliten.
+Und alle ihre Anführer gaben ihm Stäbe, jeder Anführer einen, nach ihren Familien, zusammen zwölf Stäbe.
+Auch der Stab Aarons war unter ihren Stäben.
+<sup>7</sup>Mose legte die Stäbe vor dem HERRN nieder, im Zelt des Zeugnisses.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist das hier 17,16–28, weil dort Kapitel 17 schon bei 16,36 beginnt.
+> Nach dem Aufstand von Korach soll endgültig klar werden, wen Gott als Priester erwählt hat. Darum gibt es eine Probe, bei der niemand sterben muss.
+> Ein Stab war das Zeichen eines Anführers. Er war aus totem, trockenem Holz. Auf jedem Stab steht der Name eines Stammesführers.
+
+---
+
+### Der Stab blüht (Vers 8–11)
+
+<sup>8</sup>Am nächsten Tag ging Mose in das Zelt des Zeugnisses.
+Und schau: Der Stab Aarons für das Haus Levi hatte ausgeschlagen.
+Er hatte Knospen getrieben, Blüten hervorgebracht und reife Mandeln getragen.
+<sup>9</sup>Mose brachte alle Stäbe vom HERRN heraus zu allen Israeliten.
+Sie sahen es, und jeder nahm seinen Stab.
+<sup>10</sup>Der HERR sagte zu Mose:
+„Bring den Stab Aarons wieder vor das Zeugnis des Bundes zurück.
+Er soll dort als Zeichen für die Aufsässigen aufbewahrt werden.
+So sollst du ihre Beschwerden gegen mich beenden, damit sie nicht sterben.“
+<sup>11</sup>Mose tat es.
+Wie der HERR es ihm befohlen hatte, so tat er es.
+
+> **Was bedeutet das?**
+> Über Nacht geschieht ein Wunder: Ein toter Stock bringt Knospen, Blüten und reife Mandeln hervor, alles zugleich.
+> Der Mandelbaum ist in Israel der erste Baum, der im Frühling blüht. Auf Hebräisch heißt er „Schaked“, der „Wachende“. Auch der Leuchter im Heiligtum hatte Blüten wie Mandelblüten (2. Mose 25,33).
+> Gott zeigt: Wo er erwählt, da wächst Leben aus etwas Totem.
+> Der Stab wurde vor der Bundeslade aufbewahrt, als Erinnerung. Nach dem Hebräerbrief lag er sogar in der Lade (Hebräer 9,4).
+
+---
+
+### Das Volk hat Angst (Vers 12–13)
+
+<sup>12</sup>Die Israeliten sagten zu Mose:
+„Schau, wir kommen um! Wir sind verloren! Wir alle sind verloren!
+<sup>13</sup>Jeder, der sich der Wohnung des HERRN nähert, stirbt!
+Sollen wir denn alle umkommen?“
+
+> **Was bedeutet das?**
+> Nach allem, was passiert ist, hat das Volk jetzt große Angst. Sie fragen: Wie können wir überhaupt in der Nähe Gottes leben, ohne zu sterben?
+> Darauf antwortet das nächste Kapitel. Gott hat die Priester und Leviten genau dafür eingesetzt: damit das Volk geschützt ist und trotzdem in Gottes Nähe leben kann.
+
+## 4. Mose – Kapitel 18
+#### Die Aufgaben und der Lohn der Priester und Leviten
+
+---
+
+### Die Verantwortung der Priester und Leviten (Vers 1–7)
+
+<sup>1</sup>Der HERR sagte zu Aaron:
+„Du und deine Söhne und deine Familie mit dir,
+ihr sollt die Schuld tragen, die mit dem Heiligtum zu tun hat.
+Und du und deine Söhne mit dir, ihr sollt die Schuld tragen, die mit eurem Priesteramt zu tun hat.
+<sup>2</sup>Lass auch deine Brüder, den Stamm Levi, den Stamm deines Vaters, mit dir herantreten.
+Sie sollen sich dir anschließen und dir dienen.
+Aber du und deine Söhne mit dir sollt vor dem Zelt des Zeugnisses Dienst tun.
+<sup>3</sup>Sie sollen deine Anweisungen befolgen und die Aufgaben für das ganze Zelt erfüllen.
+Nur den Geräten des Heiligtums und dem Altar dürfen sie nicht nahekommen,
+damit sie nicht sterben, weder sie noch ihr.
+<sup>4</sup>Sie sollen sich dir anschließen
+und die Verantwortung für das Zelt der Begegnung übernehmen, für den ganzen Dienst am Zelt.
+Ein Fremder soll euch nicht nahekommen.
+
+<sup>5</sup>Ihr sollt den Dienst am Heiligtum und den Dienst am Altar tun,
+damit kein Zorn mehr über die Israeliten kommt.
+<sup>6</sup>Schau: Ich selbst habe eure Brüder, die Leviten, aus der Mitte der Israeliten genommen.
+Sie sind ein Geschenk für euch, dem HERRN übergeben,
+um den Dienst am Zelt der Begegnung zu tun.
+<sup>7</sup>Du und deine Söhne mit dir sollt euer Priesteramt ausüben,
+bei allem, was den Altar betrifft und was hinter dem Vorhang ist.
+Ihr sollt dienen.
+Ich gebe euch das Priesteramt als Geschenk.
+Ein Fremder, der sich nähert, soll getötet werden.“
+
+> **Was bedeutet das?**
+> Das ist Gottes Antwort auf die Angst des Volkes (17,12–13). Die Priester und Leviten stehen wie eine Schutzschicht zwischen dem heiligen Gott und dem Volk.
+> „Die Schuld tragen“ heißt: Sie tragen die Verantwortung. Wenn beim Dienst am Heiligtum etwas falsch läuft, sind sie verantwortlich, nicht das ganze Volk.
+> Das Priesteramt ist ein „Geschenk“. Es ist kein Recht, das man sich nehmen kann, wie Korach es wollte. Gott gibt es.
+
+---
+
+### Was den Priestern gehört (Vers 8–19)
+
+<sup>8</sup>Der HERR sprach zu Aaron:
+„Schau: Ich selbst habe dir die Verantwortung für meine Gaben übertragen,
+alle heiligen Gaben der Israeliten.
+Ich habe sie dir und deinen Söhnen wegen der Salbung gegeben, als Anteil für alle Zeiten.
+<sup>9</sup>Das soll dir gehören von den hochheiligen Gaben, die nicht verbrannt werden:
+jede Opfergabe von ihnen, jedes Speiseopfer, jedes Sündopfer und jedes Schuldopfer,
+das sie mir geben.
+Es soll hochheilig für dich und für deine Söhne sein.
+<sup>10</sup>Du sollst es wie Hochheiliges essen.
+Jeder Mann darf davon essen. Es soll dir heilig sein.
+
+<sup>11</sup>Auch das gehört dir: die Gaben, die sie als Schwingopfer geben,
+alle Schwingopfer der Israeliten.
+Ich habe sie dir, deinen Söhnen und deinen Töchtern mit dir gegeben, als Anteil für alle Zeiten.
+Jeder in deinem Haus, der rein ist, darf davon essen.
+
+<sup>12</sup>Ich habe dir das Beste vom Öl gegeben,
+das Beste vom Wein und vom Getreide,
+die ersten Erträge, die sie dem HERRN geben.
+<sup>13</sup>Die ersten reifen Früchte von allem, was in ihrem Land wächst und was sie dem HERRN bringen,
+sollen dir gehören.
+Jeder in deinem Haus, der rein ist, darf davon essen.
+<sup>14</sup>Alles, was in Israel Gott ganz übergeben ist, soll dir gehören.
+
+<sup>15</sup>Alles, was als Erstes aus dem Mutterleib kommt,
+von allen Lebewesen, die sie dem HERRN bringen, von Menschen und von Tieren, soll dir gehören.
+Aber die Erstgeborenen von Menschen sollst du unbedingt auslösen lassen.
+Und die Erstgeborenen von unreinen Tieren sollst du auch auslösen lassen.
+<sup>16</sup>Die ausgelöst werden müssen, sollst du ab einem Alter von einem Monat auslösen,
+nach deiner Schätzung, für fünf Schekel Silber, nach dem Gewicht des Heiligtums. Ein Schekel sind 20 Gera.
+
+<sup>17</sup>Aber die Erstgeborenen von Rindern, Schafen und Ziegen sollst du nicht auslösen lassen.
+Sie sind heilig.
+Ihr Blut sollst du an den Altar sprengen
+und ihr Fett als Feueropfer verbrennen, als angenehmen Duft für den HERRN.
+<sup>18</sup>Ihr Fleisch soll dir gehören, so wie die Brust des Schwingopfers und die rechte Keule dir gehören.
+<sup>19</sup>Alle Schwingopfer von den heiligen Gaben, die die Israeliten dem HERRN bringen,
+habe ich dir, deinen Söhnen und deinen Töchtern mit dir gegeben, als Anteil für alle Zeiten.
+Es ist ein Salzbund für alle Zeiten vor dem HERRN, für dich und für deine Nachkommen mit dir.“
+
+> **Was bedeutet das?**
+> Die Priester leben von den Gaben des Volkes. Sie bekommen Teile der Opfer, das Beste von Öl, Wein und Getreide und die ersten Früchte.
+> Manches dürfen nur die Priester selbst essen („hochheilig“). Anderes darf die ganze Familie essen, auch die Töchter.
+> Ein „Salzbund“ ist ein Bund, der für immer hält. Salz verdirbt nicht. Wer damals zusammen Brot und Salz aß, war fest miteinander verbunden.
+> Fünf Schekel sind etwa 55 Gramm Silber.
+
+---
+
+### Gott ist ihr Erbe (Vers 20–24)
+
+<sup>20</sup>Der HERR sagte zu Aaron:
+„Du sollst in ihrem Land kein Erbe haben,
+und du sollst keinen Anteil unter ihnen haben.
+Ich bin dein Anteil und dein Erbe unter den Israeliten.
+
+<sup>21</sup>Den Nachkommen Levis habe ich den ganzen Zehnten in Israel als Erbe gegeben,
+als Lohn für ihren Dienst, den sie tun, den Dienst am Zelt der Begegnung.
+<sup>22</sup>Von jetzt an sollen die Israeliten nicht mehr dem Zelt der Begegnung nahekommen,
+damit sie keine Sünde auf sich laden und sterben.
+<sup>23</sup>Sondern die Leviten sollen den Dienst am Zelt der Begegnung tun.
+Und sie sollen die Verantwortung dafür tragen.
+Das ist eine feste Ordnung für alle Zeiten, für alle eure Generationen.
+Unter den Israeliten sollen sie kein Erbe haben.
+<sup>24</sup>Denn den Zehnten der Israeliten, den sie dem HERRN als Gabe geben,
+habe ich den Leviten als Erbe gegeben.
+Darum habe ich zu ihnen gesagt: ‚Unter den Israeliten sollen sie kein Erbe haben.‘“
+
+> **Was bedeutet das?**
+> Alle anderen Stämme bekommen im versprochenen Land ein eigenes Gebiet. Die Priester und Leviten bekommen kein Land.
+> Gott sagt: „Ich bin dein Anteil und dein Erbe.“ Das ist ein wunderschöner Satz. Sie haben kein Land, aber sie haben Gott selbst. Und Gott sorgt für sie durch die Gaben des Volkes.
+> In Psalm 16,5 heißt es: „Der HERR ist mein Anteil und mein Becher. Du hältst mein Los in deinen Händen.“
+
+---
+
+### Auch die Leviten geben den Zehnten (Vers 25–32)
+
+<sup>25</sup>Der HERR sprach zu Mose:
+<sup>26</sup>„Sprich auch zu den Leviten und sag ihnen:
+‚Wenn ihr von den Israeliten den Zehnten nehmt, den ich euch von ihnen als Erbe gegeben habe,
+dann sollt ihr davon eine Gabe für den HERRN abgeben, den Zehnten vom Zehnten.
+<sup>27</sup>Eure Gabe soll euch angerechnet werden,
+als wäre es Getreide von der Tenne und Wein aus der vollen Kelter.
+<sup>28</sup>So sollt auch ihr dem HERRN eine Gabe geben, von allen euren Zehnten,
+die ihr von den Israeliten bekommt.
+Und davon sollt ihr die Gabe für den HERRN Aaron, dem Priester, geben.
+<sup>29</sup>Von allen euren Gaben sollt ihr jede Gabe für den HERRN abgeben,
+von allem das Beste, den heiligen Teil davon.‘
+
+<sup>30</sup>Darum sollst du ihnen sagen:
+‚Wenn ihr das Beste davon abgegeben habt,
+dann soll es den Leviten angerechnet werden wie der Ertrag von der Tenne und der Ertrag aus der Kelter.
+<sup>31</sup>Ihr dürft es überall essen, ihr und eure Familien.
+Denn es ist euer Lohn für euren Dienst am Zelt der Begegnung.
+<sup>32</sup>Ihr ladet dadurch keine Sünde auf euch, wenn ihr das Beste davon abgegeben habt.
+Ihr sollt die heiligen Gaben der Israeliten nicht entweihen, damit ihr nicht sterbt.‘“
+
+> **Was bedeutet das?**
+> Auch die Leviten, die vom Zehnten leben, sollen selbst den Zehnten geben. Niemand ist davon ausgenommen, Gott etwas zurückzugeben.
+> Für die Leviten ist der Zehnte wie die Ernte für einen Bauern. Und so wie der Bauer davon abgibt, geben auch sie ab.
+> Was sie behalten, ist ihr rechtmäßiger Lohn. Sie dürfen es überall mit ihren Familien essen. Wer anderen dient, darf auch davon leben (1. Korinther 9,13–14).
+
+## 4. Mose – Kapitel 19
+#### Die rote Kuh und das Reinigungswasser
+
+---
+
+### Die Asche der roten Kuh (Vers 1–10)
+
+<sup>1</sup>Der HERR sprach zu Mose und zu Aaron:
+<sup>2</sup>„Das ist die Ordnung des Gesetzes, die der HERR befohlen hat:
+Sag den Israeliten, dass sie dir eine rote junge Kuh bringen sollen,
+ohne Flecken und ohne Fehler, die noch nie ein Joch getragen hat.
+<sup>3</sup>Ihr sollt sie Eleasar, dem Priester, geben.
+Er soll sie hinausführen, vor das Lager.
+Und man soll sie vor seinen Augen schlachten.
+<sup>4</sup>Eleasar, der Priester, soll mit seinem Finger etwas von ihrem Blut nehmen
+und ihr Blut siebenmal in Richtung der Vorderseite des Zeltes der Begegnung sprengen.
+<sup>5</sup>Man soll die Kuh vor seinen Augen verbrennen:
+ihre Haut, ihr Fleisch und ihr Blut, zusammen mit ihrem Mist, soll man verbrennen.
+<sup>6</sup>Der Priester soll Zedernholz, Ysop und karmesinroten Stoff nehmen
+und es mitten in das Feuer werfen, in dem die Kuh verbrennt.
+
+<sup>7</sup>Dann soll der Priester seine Kleider waschen und seinen Körper mit Wasser baden.
+Danach darf er ins Lager kommen.
+Aber der Priester ist unrein bis zum Abend.
+<sup>8</sup>Wer die Kuh verbrennt, soll seine Kleider mit Wasser waschen und seinen Körper mit Wasser baden.
+Er ist unrein bis zum Abend.
+
+<sup>9</sup>Ein Mann, der rein ist, soll die Asche der Kuh sammeln
+und sie draußen vor dem Lager an einen reinen Ort legen.
+Sie soll für die Gemeinde der Israeliten aufbewahrt werden,
+für das Wasser, mit dem man von Unreinheit reinigt.
+Es ist ein Sündopfer.
+<sup>10</sup>Wer die Asche der Kuh sammelt, soll seine Kleider waschen und ist unrein bis zum Abend.
+Das soll für die Israeliten und für den Fremden, der als Ausländer unter ihnen lebt,
+eine feste Ordnung für alle Zeiten sein.
+
+> **Was bedeutet das?**
+> Wer einen Toten berührt, wird unrein. Das passierte in der Wüste ständig, denn viele Menschen starben dort. Darum braucht man ein Mittel zur Reinigung.
+> Eine rote, fehlerlose junge Kuh wird verbrannt. Ihre Asche wird mit Wasser gemischt. Mit diesem Wasser werden Menschen gereinigt, die einen Toten berührt haben.
+> Rot ist die Farbe des Blutes und des Lebens. Auch das Zedernholz und der rote Stoff stehen für das Leben. Das Mittel gegen den Tod ist ein Zeichen des Lebens.
+> Seltsam ist: Wer die reinigende Asche herstellt, wird selbst unrein. Die Menschen, die anderen helfen, rein zu werden, nehmen dafür selbst Unreinheit auf sich. Jüdische Gelehrte haben gesagt, dass selbst der weise König Salomo dieses Rätsel nicht verstand.
+> Der Hebräerbrief erinnert an die Asche der Kuh. Er sagt: Wenn schon sie reinigen konnte, wie viel mehr reinigt uns das Blut von Jesus (Hebräer 9,13–14).
+
+---
+
+### Wer einen Toten berührt (Vers 11–16)
+
+<sup>11</sup>Wer den Leichnam eines Menschen berührt, ist sieben Tage lang unrein.
+<sup>12</sup>Er soll sich am dritten Tag mit dem Wasser reinigen.
+Dann ist er am siebten Tag rein.
+Aber wenn er sich am dritten Tag nicht reinigt, dann ist er am siebten Tag nicht rein.
+<sup>13</sup>Wer einen Toten berührt, den Leichnam eines Menschen, der gestorben ist,
+und sich nicht reinigt,
+der macht die Wohnung des HERRN unrein.
+Dieser Mensch soll aus Israel ausgeschlossen werden.
+Weil das Reinigungswasser nicht auf ihn gesprengt wurde, ist er unrein.
+Seine Unreinheit ist noch an ihm.
+
+<sup>14</sup>Das ist die Vorschrift, wenn ein Mensch in einem Zelt stirbt:
+Jeder, der in das Zelt kommt, und jeder, der im Zelt ist, ist sieben Tage lang unrein.
+<sup>15</sup>Jedes offene Gefäß, auf dem kein Deckel festgebunden ist, ist unrein.
+<sup>16</sup>Wer auf dem freien Feld jemanden berührt, der mit dem Schwert erschlagen wurde,
+oder einen Toten oder einen Menschenknochen oder ein Grab,
+der ist sieben Tage lang unrein.
+
+> **Was bedeutet das?**
+> Der Tod gilt als das Unreinste überhaupt. Er ist das Gegenteil von Gott, der das Leben ist.
+> Wer einen Toten berührt, darf eine Woche lang nicht ins Heiligtum. Das ist keine Strafe. Die Menschen haben ihre Toten liebevoll begraben, das war gut und richtig. Aber danach braucht man Zeit und eine Reinigung, bevor man wieder vor Gott tritt.
+> Auch ein offenes Gefäß in einem Zelt mit einem Toten wird unrein. Aber eines mit Deckel bleibt rein. Das ist auch eine gute Hygieneregel.
+
+---
+
+### Wie die Reinigung geschieht (Vers 17–22)
+
+<sup>17</sup>Für den Unreinen soll man etwas von der Asche des verbrannten Sündopfers nehmen
+und in einem Gefäß fließendes Wasser darauf gießen.
+<sup>18</sup>Ein reiner Mensch soll Ysop nehmen, ihn in das Wasser tauchen
+und es auf das Zelt sprengen, auf alle Gefäße und auf die Menschen, die dort waren,
+und auf den, der den Knochen, den Erschlagenen, den Toten oder das Grab berührt hat.
+<sup>19</sup>Der Reine soll am dritten Tag und am siebten Tag auf den Unreinen sprengen.
+Am siebten Tag soll er ihn reinigen.
+Dann soll dieser seine Kleider waschen und sich mit Wasser baden.
+Am Abend ist er rein.
+
+<sup>20</sup>Aber wer unrein ist und sich nicht reinigt,
+der soll aus der Versammlung ausgeschlossen werden.
+Denn er hat das Heiligtum des HERRN unrein gemacht.
+Das Reinigungswasser wurde nicht auf ihn gesprengt. Er ist unrein.
+<sup>21</sup>Das soll für sie eine feste Ordnung für alle Zeiten sein.
+Wer das Reinigungswasser sprengt, soll seine Kleider waschen.
+Und wer das Reinigungswasser berührt, ist unrein bis zum Abend.
+<sup>22</sup>Alles, was der Unreine berührt, wird unrein.
+Und wer das berührt, ist unrein bis zum Abend.“
+
+> **Was bedeutet das?**
+> Die Reinigung braucht Zeit: am dritten und am siebten Tag. Es gibt keinen schnellen Weg zurück, aber es gibt einen sicheren Weg.
+> In Psalm 51,9 betet David: „Reinige mich mit Ysop, dann werde ich rein.“ Er denkt dabei wohl an diese Reinigung, aber er meint sein Herz, das von Schuld rein werden soll.
+> Dieses Gesetz konnte nach der Zerstörung des Tempels nicht mehr ausgeführt werden. Darum gelten fromme Juden heute als „unrein durch Tote“ und betreten den Ort des früheren Allerheiligsten in Jerusalem nicht.
