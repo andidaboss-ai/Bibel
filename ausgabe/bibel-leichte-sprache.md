@@ -34107,3 +34107,347 @@ Denn der HERR offenbarte sich Samuel in Schilo durch das Wort des HERRN.
 > „Er ließ keines von seinen Worten zu Boden fallen“: Alles, was Samuel im Namen Gottes sagte, traf ein. Daran erkannte man einen echten Propheten (5. Mose 18,22).
 > „Von Dan bis Beerscheba“ heißt: im ganzen Land, vom Norden bis zum Süden.
 > Am Anfang des Kapitels war das Wort des HERRN selten. Am Ende spricht Gott wieder. Durch einen Jungen, der hören gelernt hat, beginnt eine neue Zeit für Israel.
+
+## 1. Samuel – Kapitel 4
+#### Die Bundeslade geht verloren
+
+---
+
+### Israel verliert die erste Schlacht (Vers 1–4)
+
+<sup>1</sup>Das Wort Samuels kam zu ganz Israel.
+Israel zog aus zum Kampf gegen die Philister
+und lagerte bei Eben-Eser.
+Die Philister lagerten in Afek.
+<sup>2</sup>Die Philister stellten sich gegen Israel zum Kampf auf.
+Als der Kampf begann, wurde Israel von den Philistern geschlagen.
+Sie töteten auf dem Feld etwa 4000 Männer vom Heer.
+<sup>3</sup>Als das Volk ins Lager zurückkam, sagten die Ältesten Israels:
+„Warum hat der HERR uns heute vor den Philistern geschlagen?
+Lasst uns die Lade des Bundes des HERRN aus Schilo zu uns holen.
+Dann kommt sie mitten unter uns
+und rettet uns aus der Hand unserer Feinde.“
+<sup>4</sup>So schickte das Volk Boten nach Schilo.
+Sie holten von dort die Lade des Bundes des HERRN der Heere,
+der über den Cherubim thront.
+Und die beiden Söhne von Eli, Hofni und Pinhas, waren dort bei der Lade des Bundes Gottes.
+
+> **Was bedeutet das?**
+> Afek lag in der Küstenebene, an der Grenze zum Land der Philister. Eben-Eser lag in der Nähe. Der Name „Eben-Eser“ heißt „Stein der Hilfe“. Wie der Ort zu diesem Namen kam, wird erst in Kapitel 7 erzählt.
+> Die Bundeslade war eine Truhe aus Holz, mit Gold überzogen. Darin lagen die Steintafeln mit den Zehn Geboten. Oben auf dem Deckel waren zwei Cherubim, Engelsfiguren mit Flügeln. Die Lade war das Zeichen dafür, dass Gott mitten unter seinem Volk ist. Man sagte: Gott thront über den Cherubim, wie ein König auf seinem Thron.
+> Die Ältesten fragen: „Warum hat der HERR uns geschlagen?“ Das ist eine gute Frage. Aber sie warten nicht auf eine Antwort. Sie fragen nicht Gott und nicht Samuel. Sie denken: Wenn wir die Lade dabei haben, muss Gott uns helfen.
+> Damit behandeln sie die Lade wie einen Glücksbringer, wie ein Zauberding. Sie wollen Gott benutzen, aber nicht auf ihn hören. Und ausgerechnet die bösen Priester Hofni und Pinhas begleiten die Lade.
+
+---
+
+### Die Philister bekommen Angst (Vers 5–9)
+
+<sup>5</sup>Als die Lade des Bundes des HERRN ins Lager kam,
+jubelte ganz Israel mit lautem Geschrei, sodass die Erde dröhnte.
+<sup>6</sup>Als die Philister den Lärm des Geschreis hörten, sagten sie:
+„Was bedeutet der Lärm dieses lauten Geschreis im Lager der Hebräer?“
+Sie erfuhren, dass die Lade des HERRN ins Lager gekommen war.
+<sup>7</sup>Die Philister bekamen Angst.
+Denn sie sagten: „Gott ist ins Lager gekommen.“
+Sie sagten:
+„Wehe uns!
+Denn so etwas hat es bisher noch nie gegeben.
+<sup>8</sup>Wehe uns!
+Wer wird uns aus der Hand dieser mächtigen Götter retten?
+Das sind die Götter, die die Ägypter in der Wüste mit allerlei Plagen geschlagen haben.
+<sup>9</sup>Seid stark und seid Männer, ihr Philister,
+damit ihr nicht Knechte der Hebräer werdet, so wie sie eure Knechte gewesen sind.
+Seid Männer und kämpft!“
+
+> **Was bedeutet das?**
+> „Hebräer“ war ein Name, mit dem andere Völker die Israeliten bezeichneten.
+> Die Philister kennen die Geschichte vom Auszug aus Ägypten. Aber sie denken, Israel hätte viele Götter, so wie sie selbst. Und sie bringen die Geschichte etwas durcheinander: Die Plagen geschahen in Ägypten, nicht in der Wüste.
+> Statt aufzugeben, machen sich die Philister gegenseitig Mut. Ihre Angst macht sie entschlossen.
+
+---
+
+### Die große Niederlage (Vers 10–11)
+
+<sup>10</sup>Die Philister kämpften, und Israel wurde geschlagen.
+Jeder floh in sein Zelt.
+Es gab eine sehr große Niederlage.
+Denn von Israel fielen 30 000 Mann zu Fuß.
+<sup>11</sup>Die Lade Gottes wurde erbeutet.
+Und die beiden Söhne von Eli, Hofni und Pinhas, wurden getötet.
+
+> **Was bedeutet das?**
+> Das ist eine Katastrophe. Die Lade, das Heiligste in Israel, fällt in die Hände der Feinde.
+> Die Botschaft ist klar: Gott lässt sich nicht zwingen. Die Lade ist kein Zaubermittel. Ohne Gehorsam und ohne echtes Vertrauen hilft auch das heiligste Ding nichts.
+> Hofni und Pinhas sterben an einem einzigen Tag, so wie es der Prophet angekündigt hatte (Kapitel 2,34).
+> Später erinnern sich die Psalmen und die Propheten an diesen Tag: Gott verließ seine Wohnung in Schilo (Psalm 78,60–61; Jeremia 7,12).
+
+---
+
+### Elis Tod (Vers 12–18)
+
+<sup>12</sup>Ein Mann aus Benjamin lief aus dem Heer weg
+und kam am selben Tag nach Schilo.
+Seine Kleider waren zerrissen, und er hatte Erde auf seinem Kopf.
+<sup>13</sup>Als er ankam, schau, da saß Eli auf seinem Stuhl am Weg und hielt Ausschau.
+Denn sein Herz zitterte um die Lade Gottes.
+Als der Mann in die Stadt kam und es erzählte,
+schrie die ganze Stadt auf.
+<sup>14</sup>Als Eli den Lärm des Schreiens hörte, sagte er:
+„Was bedeutet der Lärm dieses Getümmels?“
+Der Mann eilte herbei, kam und erzählte es Eli.
+<sup>15</sup>Eli war 98 Jahre alt.
+Seine Augen waren starr, sodass er nicht sehen konnte.
+<sup>16</sup>Der Mann sagte zu Eli:
+„Ich bin der, der aus dem Heer gekommen ist.
+Ich bin heute aus dem Heer geflohen.“
+Er sagte: „Wie ist es ausgegangen, mein Sohn?“
+<sup>17</sup>Der die Nachricht brachte, antwortete:
+„Israel ist vor den Philistern geflohen.
+Es gab auch eine große Niederlage im Volk.
+Auch deine beiden Söhne, Hofni und Pinhas, sind tot.
+Und die Lade Gottes ist erbeutet worden.“
+<sup>18</sup>Als er die Lade Gottes erwähnte,
+fiel Eli rückwärts von seinem Stuhl, an der Seite des Tores.
+Er brach sich das Genick und starb.
+Denn er war ein alter Mann und schwer.
+Er war 40 Jahre lang Richter in Israel gewesen.
+
+> **Was bedeutet das?**
+> Zerrissene Kleider und Erde auf dem Kopf waren damals Zeichen der Trauer. Jeder sah sofort: Dieser Mann bringt eine schlimme Nachricht.
+> Eli macht sich mehr Sorgen um die Lade als um seine Söhne. Als er hört, dass die Söhne tot sind, lebt er noch. Erst als er hört, dass die Lade verloren ist, fällt er um. Das zeigt: Bei allen Fehlern liebte Eli Gott und sein Heiligtum.
+> „Er war schwer“: Das hebräische Wort für „schwer“ ist verwandt mit dem Wort für „Herrlichkeit“ oder „Ehre“ („kawod“). In Kapitel 2,29 hatte Gott gesagt: „Ihr mästet euch mit dem Besten der Opfer.“ Und Vers 21 und 22 spielen mit demselben Wort: Die „Herrlichkeit“ ist weg.
+> Die alte griechische Übersetzung sagt, Eli war 20 Jahre lang Richter.
+
+---
+
+### Ikabod: „Wo ist die Herrlichkeit?“ (Vers 19–22)
+
+<sup>19</sup>Seine Schwiegertochter, die Frau von Pinhas, war schwanger und kurz vor der Geburt.
+Als sie die Nachricht hörte, dass die Lade Gottes erbeutet war
+und dass ihr Schwiegervater und ihr Mann tot waren,
+krümmte sie sich und gebar.
+Denn die Wehen überfielen sie.
+<sup>20</sup>Als sie im Sterben lag, sagten die Frauen, die bei ihr standen, zu ihr:
+„Fürchte dich nicht, denn du hast einen Sohn geboren.“
+Aber sie antwortete nicht und achtete nicht darauf.
+<sup>21</sup>Sie nannte das Kind Ikabod und sagte:
+„Die Herrlichkeit ist von Israel gewichen!“
+Denn die Lade Gottes war erbeutet,
+und wegen ihres Schwiegervaters und ihres Mannes.
+<sup>22</sup>Sie sagte:
+„Die Herrlichkeit ist von Israel gewichen,
+denn die Lade Gottes ist erbeutet.“
+
+> **Was bedeutet das?**
+> Wieder eine traurige Geschichte von einer Frau, die durch die Schuld der Männer leidet. Die Nachricht ist so schrecklich, dass die Geburt zu früh einsetzt. Die Frau stirbt.
+> Die Frauen wollen sie trösten: Du hast einen Sohn! Das war damals die größte Freude. Aber sie kann sich nicht freuen.
+> Der Name „Ikabod“ bedeutet: „Wo ist die Herrlichkeit?“ oder „Keine Herrlichkeit“. Die „Herrlichkeit“ Gottes war seine Gegenwart. Mit der Lade, so meint sie, ist auch Gott selbst aus Israel weggegangen.
+> Diese Frau versteht mehr als die Ältesten: Das Schlimmste ist nicht die verlorene Schlacht. Das Schlimmste ist, wenn Gott nicht mehr bei seinem Volk ist.
+> Aber die Geschichte geht weiter. Die nächsten Kapitel zeigen: Gott ist nicht besiegt. Er kann sich auch im Land der Feinde selbst helfen.
+
+## 1. Samuel – Kapitel 5
+#### Die Lade bei den Philistern
+
+---
+
+### Dagon fällt um (Vers 1–5)
+
+<sup>1</sup>Die Philister hatten die Lade Gottes erbeutet.
+Sie brachten sie von Eben-Eser nach Aschdod.
+<sup>2</sup>Die Philister nahmen die Lade Gottes,
+brachten sie in das Haus Dagons
+und stellten sie neben Dagon auf.
+<sup>3</sup>Als die Leute von Aschdod am nächsten Morgen früh aufstanden,
+schau, da war Dagon auf sein Gesicht zur Erde gefallen, vor der Lade des HERRN.
+Sie nahmen Dagon und stellten ihn wieder an seinen Platz.
+<sup>4</sup>Als sie am nächsten Morgen früh aufstanden,
+schau, da war Dagon wieder auf sein Gesicht zur Erde gefallen, vor der Lade des HERRN.
+Der Kopf Dagons und seine beiden Hände lagen abgeschlagen auf der Schwelle.
+Nur der Rumpf von Dagon war noch ganz.
+<sup>5</sup>Darum treten die Priester Dagons und alle, die in das Haus Dagons gehen,
+in Aschdod nicht auf die Schwelle Dagons, bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Aschdod war eine der fünf großen Städte der Philister. Dagon war ihr wichtigster Gott. Von ihm haben wir schon bei Simson gehört (Richter 16,23).
+> Die Philister stellen die Lade neben Dagon, wie eine Kriegsbeute. Sie wollen zeigen: Unser Gott hat den Gott Israels besiegt.
+> Aber am Morgen liegt Dagon auf dem Gesicht vor der Lade, als würde er sich vor dem HERRN niederwerfen. Die Menschen müssen ihren Gott wieder aufstellen. Ein Gott, dem man aufhelfen muss, ist kein Gott.
+> Am zweiten Morgen sind Kopf und Hände abgebrochen. Der Kopf steht für Verstand, die Hände für Macht. Dagon hat beides nicht. Das ist auch ein bisschen Spott über die Götzenbilder.
+> Israel hatte gedacht: Gott ist besiegt. Aber Gott kämpft allein, ohne Israel, mitten im Tempel der Feinde.
+
+---
+
+### Die Plage in Aschdod (Vers 6–7)
+
+<sup>6</sup>Aber die Hand des HERRN lag schwer auf den Leuten von Aschdod.
+Er verwüstete sie und schlug sie mit Beulen,
+Aschdod und sein Gebiet.
+<sup>7</sup>Als die Männer von Aschdod sahen, dass es so war, sagten sie:
+„Die Lade des Gottes Israels soll nicht bei uns bleiben.
+Denn seine Hand ist hart gegen uns und gegen unseren Gott Dagon.“
+
+> **Was bedeutet das?**
+> „Beulen“ waren wohl Geschwüre oder Schwellungen. Viele Ausleger denken an eine Seuche, vielleicht die Pest. Bei der Pest bekommen Menschen dicke Beulen, und sie wird von Mäusen und Ratten übertragen. Das passt zu den goldenen Mäusen in Kapitel 6.
+> Die alte griechische Übersetzung erzählt hier zusätzlich, dass Mäuse das Land überfielen.
+> „Die Hand des HERRN“ ist ein Bild für Gottes Macht. Die Leute von Aschdod merken: Das ist kein Zufall.
+
+---
+
+### Die Lade wandert von Stadt zu Stadt (Vers 8–12)
+
+<sup>8</sup>Darum schickten sie Boten und versammelten alle Fürsten der Philister bei sich.
+Sie sagten:
+„Was sollen wir mit der Lade des Gottes Israels machen?“
+Sie antworteten:
+„Die Lade des Gottes Israels soll nach Gat gebracht werden.“
+Und sie brachten die Lade des Gottes Israels dorthin.
+<sup>9</sup>Nachdem sie sie dorthin gebracht hatten,
+war die Hand des HERRN gegen die Stadt, mit einer sehr großen Verwirrung.
+Er schlug die Männer der Stadt, Klein und Groß,
+sodass bei ihnen Beulen ausbrachen.
+<sup>10</sup>Da schickten sie die Lade Gottes nach Ekron.
+Als die Lade Gottes nach Ekron kam, schrien die Leute von Ekron:
+„Sie haben die Lade des Gottes Israels zu uns gebracht,
+um uns und unser Volk zu töten!“
+<sup>11</sup>Darum schickten sie Boten und versammelten alle Fürsten der Philister.
+Sie sagten:
+„Schickt die Lade des Gottes Israels weg.
+Sie soll wieder an ihren Ort zurückgehen,
+damit sie uns und unser Volk nicht tötet.“
+Denn in der ganzen Stadt herrschte eine tödliche Panik.
+Die Hand Gottes lag sehr schwer auf ihr.
+<sup>12</sup>Die Männer, die nicht starben, wurden mit den Beulen geschlagen.
+Und das Schreien der Stadt stieg zum Himmel auf.
+
+> **Was bedeutet das?**
+> Gat und Ekron waren weitere Städte der Philister. Keine Stadt will die Lade haben. Überall, wo sie hinkommt, bricht die Seuche aus.
+> Das ist fast wie eine Wiederholung der Plagen in Ägypten. Die Philister hatten sich selbst daran erinnert (Kapitel 4,8). Jetzt erleben sie es selbst.
+> Die Lade, die die Israeliten wie eine Beute verloren hatten, wird für die Philister zur Last, die niemand tragen kann. Gott braucht keine Armee, um sich zu verteidigen.
+
+## 1. Samuel – Kapitel 6
+#### Die Lade kehrt zurück
+
+---
+
+### Die Philister fragen ihre Priester (Vers 1–6)
+
+<sup>1</sup>Die Lade des HERRN war sieben Monate lang im Land der Philister.
+<sup>2</sup>Die Philister riefen die Priester und die Wahrsager und sagten:
+„Was sollen wir mit der Lade des HERRN machen?
+Zeigt uns, wie wir sie an ihren Ort zurückschicken sollen.“
+<sup>3</sup>Sie sagten:
+„Wenn ihr die Lade des Gottes Israels wegschickt,
+dann schickt sie nicht leer weg.
+Ihr müsst ihm unbedingt ein Schuldopfer zurückgeben.
+Dann werdet ihr geheilt werden.
+Und ihr werdet erkennen, warum seine Hand nicht von euch weicht.“
+<sup>4</sup>Da fragten sie:
+„Was soll das Schuldopfer sein, das wir ihm zurückgeben sollen?“
+Sie sagten:
+„Fünf goldene Beulen und fünf goldene Mäuse,
+nach der Zahl der Fürsten der Philister.
+Denn eine Plage war über euch allen und über euren Fürsten.
+<sup>5</sup>Darum sollt ihr Bilder von euren Beulen machen
+und Bilder von euren Mäusen, die das Land verderben.
+Und ihr sollt dem Gott Israels die Ehre geben.
+Vielleicht nimmt er dann seine Hand von euch weg,
+von euren Göttern und von eurem Land.
+<sup>6</sup>Warum wollt ihr denn eure Herzen verhärten,
+so wie die Ägypter und der Pharao ihre Herzen verhärtet haben?
+Als er wunderbar unter ihnen gehandelt hatte,
+haben sie das Volk da nicht ziehen lassen, und sie sind weggezogen?“
+
+> **Was bedeutet das?**
+> Die Priester der Philister raten: Gebt dem Gott Israels ein Geschenk zur Wiedergutmachung. So hat man es damals gemacht, wenn man eine Gottheit beleidigt hatte.
+> Goldene Abbilder der Krankheit und der Mäuse: Man glaubte, wenn man das Übel abbildet und wegschickt, dann geht das Übel selbst mit weg. Das ist kein Brauch Israels, sondern ein Brauch der Philister. Gott nimmt hier ihre Art an, wie sie ihn ehren wollen.
+> Die Priester der Philister sind klüger als ihr Volk. Sie sagen: Lernt aus der Geschichte vom Pharao. Wer sich gegen den Gott Israels verhärtet, verliert am Ende.
+> „Dem Gott Israels die Ehre geben“: Ausgerechnet heidnische Priester sagen das. Das Wort für „Ehre“ ist wieder „kawod“, dasselbe Wort wie „Herrlichkeit“ in Kapitel 4,21. Die Herrlichkeit war nicht verloren. Jetzt müssen sogar die Feinde sie anerkennen.
+
+---
+
+### Der Test mit den Kühen (Vers 7–12)
+
+<sup>7</sup>„Nehmt nun und macht euch einen neuen Wagen bereit
+und zwei Milchkühe, auf die noch kein Joch gekommen ist.
+Spannt die Kühe an den Wagen
+und bringt ihre Kälber von ihnen weg nach Hause.
+<sup>8</sup>Nehmt die Lade des HERRN und stellt sie auf den Wagen.
+Und legt die goldenen Schmuckstücke, die ihr ihm als Schuldopfer zurückgebt,
+in ein Kästchen an ihre Seite.
+Dann schickt sie weg, damit sie geht.
+<sup>9</sup>Und schaut:
+Wenn sie den Weg zu ihrem eigenen Gebiet hinaufgeht, nach Bet-Schemesch,
+dann hat er uns dieses große Unglück angetan.
+Wenn aber nicht, dann wissen wir, dass nicht seine Hand uns geschlagen hat.
+Es war ein Zufall, der uns getroffen hat.“
+
+<sup>10</sup>Die Männer machten es so.
+Sie nahmen zwei Milchkühe und spannten sie an den Wagen.
+Ihre Kälber sperrten sie zu Hause ein.
+<sup>11</sup>Sie stellten die Lade des HERRN auf den Wagen,
+und das Kästchen mit den goldenen Mäusen und den Bildern ihrer Beulen.
+<sup>12</sup>Die Kühe gingen geradewegs auf dem Weg nach Bet-Schemesch.
+Sie gingen auf der Straße und brüllten dabei.
+Sie wichen nicht nach rechts und nicht nach links ab.
+Und die Fürsten der Philister gingen hinter ihnen her bis an die Grenze von Bet-Schemesch.
+
+> **Was bedeutet das?**
+> Das ist ein kluger Test. Kühe, die noch nie einen Wagen gezogen haben, laufen normalerweise nicht geradeaus. Und Kühe, deren Kälber gerade weggenommen wurden, wollen zurück zu ihren Kälbern. Wenn sie trotzdem den Wagen ins Land Israel ziehen, dann muss Gott sie lenken.
+> Die Kühe brüllen, weil sie nach ihren Kälbern rufen. Aber sie gehen trotzdem weiter, geradeaus, ohne Umweg. Gott lenkt sie.
+> Bet-Schemesch war eine Stadt Israels an der Grenze zum Land der Philister. Der Name heißt „Haus der Sonne“. Es war eine Stadt der Leviten (Josua 21,16).
+
+---
+
+### Freude in Bet-Schemesch (Vers 13–18)
+
+<sup>13</sup>Die Leute von Bet-Schemesch ernteten gerade ihren Weizen im Tal.
+Sie blickten auf und sahen die Lade,
+und sie freuten sich, sie zu sehen.
+<sup>14</sup>Der Wagen kam auf das Feld von Josua aus Bet-Schemesch
+und blieb dort stehen, wo ein großer Stein war.
+Da spalteten sie das Holz des Wagens
+und opferten die Kühe dem HERRN als Brandopfer.
+<sup>15</sup>Die Leviten hoben die Lade des HERRN herunter
+und das Kästchen, das daneben war, in dem die goldenen Schmuckstücke lagen.
+Sie stellten sie auf den großen Stein.
+Und die Männer von Bet-Schemesch brachten an diesem Tag dem HERRN Brandopfer und Schlachtopfer dar.
+<sup>16</sup>Als die fünf Fürsten der Philister das gesehen hatten,
+kehrten sie am selben Tag nach Ekron zurück.
+
+<sup>17</sup>Das sind die goldenen Beulen,
+die die Philister dem HERRN als Schuldopfer zurückgaben:
+eine für Aschdod, eine für Gaza, eine für Aschkelon, eine für Gat, eine für Ekron.
+<sup>18</sup>Und die goldenen Mäuse,
+nach der Zahl aller Städte der Philister, die den fünf Fürsten gehörten,
+sowohl die befestigten Städte als auch die Dörfer auf dem Land,
+bis hin zu dem großen Stein, auf den sie die Lade des HERRN abgestellt hatten.
+Dieser Stein ist bis zum heutigen Tag auf dem Feld von Josua aus Bet-Schemesch.
+
+> **Was bedeutet das?**
+> Die Weizenernte war im Frühsommer. Mitten bei der Arbeit sehen die Leute die Lade kommen. Was für eine Freude!
+> Josua aus Bet-Schemesch ist nicht der berühmte Josua, der Nachfolger von Mose. Es ist ein Bauer mit demselben Namen.
+> Die Leviten waren die richtigen Leute, um die Lade zu tragen (4. Mose 4,15). Der große Stein dient als Altar.
+> Die fünf Städte der Philister werden genannt: Aschdod, Gaza, Aschkelon, Gat und Ekron. Diese fünf Städte bildeten zusammen das Land der Philister.
+> In Vers 4 waren es fünf goldene Mäuse. In Vers 18 steht: so viele Mäuse wie alle Städte und Dörfer. Vielleicht gab es zu den fünf Mäusen noch weitere. Die Bibel erklärt es nicht genauer.
+
+---
+
+### Das Unglück in Bet-Schemesch (Vers 19–21)
+
+<sup>19</sup>Er schlug einige von den Männern von Bet-Schemesch,
+weil sie in die Lade des HERRN hineingeschaut hatten.
+Er schlug von den Männern 50 070.
+Da trauerte das Volk, weil der HERR das Volk mit einem großen Schlag getroffen hatte.
+<sup>20</sup>Die Männer von Bet-Schemesch sagten:
+„Wer kann vor dem HERRN bestehen, diesem heiligen Gott?
+Zu wem soll er von uns aus hinaufziehen?“
+<sup>21</sup>Sie schickten Boten zu den Bewohnern von Kirjat-Jearim und ließen sagen:
+„Die Philister haben die Lade des HERRN zurückgebracht.
+Kommt herab und holt sie zu euch hinauf.“
+
+> **Was bedeutet das?**
+> Die Freude endet mit einem Schrecken. Die Männer von Bet-Schemesch schauen in die Lade hinein. Das war streng verboten. Sogar die Leviten durften die heiligen Dinge nicht ansehen, sonst würden sie sterben (4. Mose 4,20).
+> Die Zahl in Vers 19 ist schwierig. Im hebräischen Text steht wörtlich: „70 Mann, 50 000 Mann“. So eine Zahlenangabe ist im Hebräischen sehr ungewöhnlich. Bet-Schemesch war ein kleiner Ort, 50 000 Männer hätten dort nicht gelebt. Der jüdische Geschichtsschreiber Josephus und einige hebräische Handschriften nennen nur 70 Männer. Viele Ausleger halten das für die ursprüngliche Zahl. Die englische Vorlage hat „fünfzigtausendsiebzig“.
+> Die alte griechische Übersetzung erzählt Vers 19 anders: Die Söhne eines Mannes namens Jechonja freuten sich nicht mit, als sie die Lade sahen. Darum wurden sie geschlagen.
+> Diese Geschichte ist schwer zu verstehen. Sie will zeigen: Gott ist heilig. Man darf nicht neugierig oder respektlos mit ihm umgehen. Er ist kein Gegenstand, den man untersucht.
+> Die Frage „Wer kann vor diesem heiligen Gott bestehen?“ ist eine wichtige Frage der ganzen Bibel. Die Antwort der Bibel ist: Niemand aus eigener Kraft. Nur weil Gott selbst gnädig ist, können Menschen in seine Nähe kommen.
+> Kirjat-Jearim lag etwa 15 Kilometer westlich von Jerusalem. Die Geschichte geht im nächsten Kapitel weiter.
