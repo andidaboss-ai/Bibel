@@ -25245,3 +25245,448 @@ Du sollst dein Land nicht unrein machen, das der HERR, dein Gott, dir als Erbe g
 > Manchmal wurde der Körper eines Hingerichteten nach dem Tod an einen Baum oder Pfahl gehängt, als Warnung für andere. Aber das darf nicht lange dauern. Er muss noch am selben Tag begraben werden. Auch ein Verbrecher hat ein Recht auf ein Begräbnis und auf Würde.
 > Darum wurde auch Jesus noch am Tag seiner Kreuzigung vom Kreuz abgenommen und begraben (Johannes 19,31).
 > Paulus zitiert diesen Vers: „Verflucht ist jeder, der am Holz hängt.“ Er sagt: Jesus hat am Kreuz den Fluch auf sich genommen, um die Menschen davon zu befreien (Galater 3,13).
+
+## 5. Mose – Kapitel 22
+#### Hilfe für den Nächsten – Ordnungen für Ehe und Körper
+
+---
+
+### Hilf deinem Nächsten (Vers 1–4)
+
+<sup>1</sup>Wenn du siehst, dass das Rind oder das Schaf deines Bruders sich verlaufen hat,
+dann sollst du dich nicht davon abwenden.
+Du sollst es deinem Bruder unbedingt zurückbringen.
+<sup>2</sup>Wenn dein Bruder nicht in deiner Nähe wohnt oder wenn du ihn nicht kennst,
+dann sollst du das Tier zu dir nach Hause nehmen.
+Es soll bei dir bleiben, bis dein Bruder danach sucht.
+Dann sollst du es ihm zurückgeben.
+<sup>3</sup>Genauso sollst du es mit seinem Esel machen.
+Genauso sollst du es mit seinem Mantel machen.
+Genauso sollst du es mit allem machen, was dein Bruder verloren hat und was du gefunden hast.
+Du darfst dich nicht davon abwenden.
+<sup>4</sup>Wenn du siehst, dass der Esel oder das Rind deines Bruders auf dem Weg zusammengebrochen ist,
+dann sollst du dich nicht davon abwenden.
+Du sollst ihm unbedingt helfen, sie wieder aufzurichten.
+
+> **Was bedeutet das?**
+> „Du darfst dich nicht abwenden“: Man darf nicht wegschauen, wenn jemand Hilfe braucht. Wer etwas findet, muss es zurückgeben. Wer sieht, dass jemand in Not ist, muss helfen.
+> In 2. Mose 23,4–5 steht sogar: Das gilt auch für das Tier deines Feindes.
+> Diese Regel gilt bis heute: Wegschauen ist auch eine Entscheidung.
+
+---
+
+### Verschiedene Ordnungen (Vers 5–12)
+
+<sup>5</sup>Eine Frau soll keine Männersachen tragen,
+und ein Mann soll keine Frauenkleider anziehen.
+Denn jeder, der so etwas tut, ist ein Gräuel für den HERRN, deinen Gott.
+<sup>6</sup>Wenn du unterwegs ein Vogelnest findest, auf einem Baum oder auf der Erde,
+mit Jungen oder mit Eiern, und die Mutter sitzt auf den Jungen oder auf den Eiern,
+dann sollst du nicht die Mutter mit den Jungen nehmen.
+<sup>7</sup>Du sollst die Mutter unbedingt fliegen lassen.
+Aber die Jungen darfst du für dich nehmen,
+damit es dir gut geht und du lange lebst.
+<sup>8</sup>Wenn du ein neues Haus baust,
+dann sollst du ein Geländer um dein Dach machen,
+damit du keine Blutschuld auf dein Haus bringst, wenn jemand herunterfällt.
+<sup>9</sup>Du sollst deinen Weinberg nicht mit zweierlei Samen besäen,
+sonst wird der ganze Ertrag verunreinigt,
+die Saat, die du gesät hast, und der Ertrag des Weinbergs.
+<sup>10</sup>Du sollst nicht mit einem Rind und einem Esel zusammen pflügen.
+<sup>11</sup>Du sollst keine Kleidung tragen, in der Wolle und Leinen zusammengewebt sind.
+<sup>12</sup>Du sollst dir Quasten an den vier Zipfeln deines Mantels machen, mit dem du dich bedeckst.
+
+> **Was bedeutet das?**
+> Vers 5: Damals trugen Männer und Frauen sehr unterschiedliche Kleidung. Viele Ausleger meinen, dass es hier vor allem um heidnische Bräuche ging, bei denen sich Menschen im Gottesdienst für fremde Götter verkleideten. Andere sehen darin eine Ordnung für die Unterscheidung von Mann und Frau. Wie man diesen Vers heute anwendet, darüber denken Juden und Christen unterschiedlich. Klar ist: Er gibt niemandem das Recht, andere Menschen zu verachten oder ihnen etwas anzutun.
+> Vers 6–7: Ein kleines Gebot mit großer Bedeutung: Man soll die Natur nicht ausbeuten. Wer die Mutter nimmt, zerstört die Zukunft. Wer sie fliegen lässt, kann wieder ernten. Für dieses kleine Gebot verspricht Gott dasselbe wie für das Gebot, die Eltern zu ehren: ein langes Leben.
+> Vers 8: Die Dächer waren flach. Man saß und arbeitete oben. Ein Geländer schützte vor Unfällen. Wer kein Geländer baut, ist mitschuldig, wenn jemand stirbt. Das ist eine frühe Regel zur Sicherheit am Bau.
+> Vers 9–11: Bestimmte Dinge soll man nicht vermischen. Der genaue Grund wird nicht gesagt. Vielleicht soll es an die Ordnung der Schöpfung erinnern, in der Gott alles „nach seiner Art“ geschaffen hat. Beim Pflügen: Rind und Esel sind verschieden stark. Zusammen würde das schwächere Tier leiden.
+> „Verunreinigt“: So steht es in der englischen Vorlage. Das hebräische Wort heißt eigentlich „heilig werden“. Gemeint ist: Der Ertrag verfällt dem Heiligtum, und man darf ihn nicht selbst behalten.
+> Vers 12: Die Quasten sollten an Gottes Gebote erinnern (4. Mose 15,37–41). Juden tragen sie bis heute am Gebetsschal. Auch Jesus trug einen solchen Mantel (Matthäus 9,20).
+
+---
+
+### Eine falsche Anschuldigung gegen eine Ehefrau (Vers 13–21)
+
+<sup>13</sup>Wenn ein Mann eine Frau heiratet und zu ihr eingeht, und dann lehnt er sie ab,
+<sup>14</sup>und er beschuldigt sie schändlicher Dinge und bringt sie in einen schlechten Ruf
+und sagt: „Ich habe diese Frau geheiratet, und als ich ihr nahe kam,
+habe ich keine Zeichen der Jungfräulichkeit bei ihr gefunden“,
+<sup>15</sup>dann sollen der Vater und die Mutter der jungen Frau
+die Zeichen der Jungfräulichkeit der jungen Frau nehmen
+und sie zu den Ältesten der Stadt ans Tor bringen.
+<sup>16</sup>Der Vater der jungen Frau soll zu den Ältesten sagen:
+„Ich habe diesem Mann meine Tochter zur Frau gegeben, und jetzt lehnt er sie ab.
+<sup>17</sup>Schaut, er beschuldigt sie schändlicher Dinge und sagt:
+‚Ich habe bei deiner Tochter keine Zeichen der Jungfräulichkeit gefunden.‘
+Aber hier sind die Zeichen der Jungfräulichkeit meiner Tochter.“
+Und sie sollen das Tuch vor den Ältesten der Stadt ausbreiten.
+<sup>18</sup>Dann sollen die Ältesten dieser Stadt den Mann nehmen und ihn bestrafen.
+<sup>19</sup>Sie sollen ihm eine Geldstrafe von hundert Schekel Silber auferlegen
+und sie dem Vater der jungen Frau geben,
+weil er eine Jungfrau Israels in einen schlechten Ruf gebracht hat.
+Und sie soll seine Frau bleiben.
+Er darf sie sein ganzes Leben lang nicht wegschicken.
+<sup>20</sup>Wenn aber die Sache wahr ist und man bei der jungen Frau keine Zeichen der Jungfräulichkeit gefunden hat,
+<sup>21</sup>dann soll man die junge Frau vor die Tür des Hauses ihres Vaters hinausführen,
+und die Männer ihrer Stadt sollen sie mit Steinen steinigen, bis sie stirbt,
+weil sie eine Schandtat in Israel begangen hat,
+indem sie sich im Haus ihres Vaters wie eine Prostituierte verhielt.
+So sollst du das Böse aus deiner Mitte entfernen.
+
+> **Was bedeutet das?**
+> Hundert Schekel Silber sind etwa 1,1 Kilogramm Silber. Das war sehr viel Geld.
+> Die „Zeichen der Jungfräulichkeit“ waren damals ein Tuch mit Blut von der Hochzeitsnacht. Heute weiß man: Solche „Beweise“ sind medizinisch nicht zuverlässig. Viele Frauen bluten beim ersten Mal nicht.
+> Dieser Abschnitt schützt die Frau vor einem Mann, der sie loswerden will und darum Lügen über sie verbreitet. Er wird hart bestraft und darf sie nie mehr wegschicken. So hatte sie lebenslang Versorgung.
+> Aber die Verse 20–21 sind für uns erschreckend: Eine junge Frau soll getötet werden, weil sie vor der Ehe nicht mehr Jungfrau war. Das ist nach heutigem Verständnis ein schweres Unrecht. Die Bibel beschreibt hier ein altes Recht, das die Ehre der Familie sehr hoch stellte.
+> Leider gibt es bis heute an manchen Orten sogenannte „Ehrenmorde“. Das ist ein Verbrechen. Niemand darf sich dafür auf die Bibel berufen. Jesus hat eine Frau, die gesteinigt werden sollte, beschützt und gesagt: „Wer von euch ohne Sünde ist, werfe den ersten Stein“ (Johannes 8,7).
+
+---
+
+### Ehebruch und Gewalt gegen Frauen (Vers 22–29)
+
+<sup>22</sup>Wenn ein Mann dabei gefunden wird, wie er mit einer verheirateten Frau schläft,
+dann sollen beide sterben, der Mann, der mit der Frau geschlafen hat, und die Frau.
+So sollst du das Böse aus Israel entfernen.
+<sup>23</sup>Wenn eine junge Frau, eine Jungfrau, mit einem Mann verlobt ist,
+und ein anderer Mann trifft sie in der Stadt und schläft mit ihr,
+<sup>24</sup>dann sollt ihr beide hinaus zum Tor dieser Stadt führen
+und sie mit Steinen steinigen, bis sie sterben:
+die junge Frau, weil sie in der Stadt nicht um Hilfe geschrien hat,
+und den Mann, weil er die Frau seines Nächsten gedemütigt hat.
+So sollst du das Böse aus deiner Mitte entfernen.
+<sup>25</sup>Wenn aber der Mann die verlobte junge Frau auf dem Feld trifft
+und der Mann ihr Gewalt antut und mit ihr schläft,
+dann soll nur der Mann sterben, der mit ihr geschlafen hat.
+<sup>26</sup>Der jungen Frau aber sollst du nichts tun.
+Die junge Frau hat keine Sünde begangen, die den Tod verdient.
+Denn es ist so, wie wenn ein Mann gegen seinen Nächsten aufsteht und ihn ermordet.
+So ist es auch in diesem Fall.
+<sup>27</sup>Denn er hat sie auf dem Feld getroffen.
+Die verlobte junge Frau hat geschrien, aber da war niemand, der sie retten konnte.
+<sup>28</sup>Wenn ein Mann eine junge Frau trifft, eine Jungfrau, die nicht verlobt ist,
+und er packt sie und schläft mit ihr, und sie werden entdeckt,
+<sup>29</sup>dann soll der Mann, der mit ihr geschlafen hat, dem Vater der jungen Frau fünfzig Schekel Silber geben.
+Und sie soll seine Frau werden, weil er sie gedemütigt hat.
+Er darf sie sein ganzes Leben lang nicht wegschicken.
+
+> **Was bedeutet das?**
+> Fünfzig Schekel Silber sind etwa 550 Gramm Silber.
+> Eine Verlobung galt damals schon fast wie eine Ehe.
+> Ein wichtiger Gedanke steht in Vers 25–27: Wenn ein Mann einer Frau Gewalt antut, dann ist sie unschuldig. Die Bibel vergleicht eine Vergewaltigung mit einem Mord. Und sie sagt: Wir gehen davon aus, dass die Frau um Hilfe geschrien hat, auch wenn es niemand gehört hat. Die Schuld liegt allein beim Täter.
+> Die Verse 23–24 dagegen sind heute schwer zu verstehen: Damals nahm man an, dass eine Frau in der Stadt um Hilfe hätte rufen können. Heute wissen wir, dass Opfer von Gewalt oft vor Angst erstarren und nicht schreien können. Niemand darf einem Opfer die Schuld geben.
+> Vers 28–29 ist für uns besonders schwer: Die junge Frau soll den Mann heiraten, der ihr Gewalt angetan hat. Damals hatte eine Frau, die keine Jungfrau mehr war, kaum eine Chance auf eine Ehe und damit auf Versorgung. Das Gesetz wollte sie absichern: Der Mann musste zahlen und sie lebenslang versorgen. Nach 2. Mose 22,16–17 konnte der Vater die Ehe aber auch verweigern.
+> Trotzdem: Nach heutigem Verständnis ist es ein schweres Unrecht, ein Opfer mit seinem Täter zu verheiraten. Heute wird Gewalt gegen Frauen als schweres Verbrechen bestraft. Niemand darf sich auf diese Verse berufen, um so etwas zu rechtfertigen.
+
+---
+
+### Nicht die Frau des Vaters (Vers 30)
+
+<sup>30</sup>Ein Mann soll nicht die Frau seines Vaters nehmen.
+Er soll den Saum vom Gewand seines Vaters nicht aufdecken.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist dieser Vers schon der erste Vers von Kapitel 23 (23,1). Wir folgen der Zählung der englischen Vorlage.
+> Gemeint ist eine andere Frau des Vaters, nicht die eigene Mutter, zum Beispiel nach dem Tod des Vaters. Das war verboten (3. Mose 18,8).
+> „Den Saum vom Gewand des Vaters aufdecken“ ist eine Umschreibung. Das Gewand steht für den Schutz, den ein Mann seiner Frau gibt (Rut 3,9). Wer mit der Frau seines Vaters schläft, verletzt die Ehre seines Vaters.
+
+## 5. Mose – Kapitel 23
+#### Wer zur Gemeinde gehört – Schutz für Flüchtlinge – keine Zinsen
+
+---
+
+### Wer nicht in die Versammlung des HERRN kommen darf (Vers 1–8)
+
+<sup>1</sup>Wer durch Zerquetschen oder Abschneiden entmannt ist,
+soll nicht in die Versammlung des HERRN kommen.
+<sup>2</sup>Wer aus einer verbotenen Verbindung geboren ist,
+soll nicht in die Versammlung des HERRN kommen.
+Auch bis zur zehnten Generation sollen seine Nachkommen nicht in die Versammlung des HERRN kommen.
+<sup>3</sup>Ein Ammoniter oder ein Moabiter soll nicht in die Versammlung des HERRN kommen.
+Auch bis zur zehnten Generation sollen ihre Nachkommen niemals in die Versammlung des HERRN kommen,
+<sup>4</sup>weil sie euch nicht mit Brot und Wasser entgegengekommen sind auf dem Weg, als ihr aus Ägypten gezogen seid,
+und weil sie Bileam gegen dich angeworben haben, den Sohn Beors, aus Petor in Mesopotamien,
+damit er dich verflucht.
+<sup>5</sup>Aber der HERR, dein Gott, wollte nicht auf Bileam hören.
+Sondern der HERR, dein Gott, hat dir den Fluch in einen Segen verwandelt,
+weil der HERR, dein Gott, dich liebt.
+<sup>6</sup>Du sollst ihren Frieden und ihr Wohl nicht suchen, alle deine Tage, für immer.
+<sup>7</sup>Den Edomiter sollst du nicht verabscheuen, denn er ist dein Bruder.
+Den Ägypter sollst du nicht verabscheuen, denn du bist ein Fremder in seinem Land gewesen.
+<sup>8</sup>Die Kinder, die ihnen in der dritten Generation geboren werden,
+dürfen in die Versammlung des HERRN kommen.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist dieses Kapitel um einen Vers verschoben gezählt: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 26. Wir folgen der Zählung der englischen Vorlage.
+> Die „Versammlung des HERRN“ ist die Gemeinde Israels, wenn sie sich vor Gott versammelt, vielleicht vor allem für Gottesdienst und wichtige Entscheidungen.
+> Vers 1: Bei manchen Völkern wurden Männer im Dienst fremder Götter oder als Diener am Königshof entmannt. Das sollte es in Israel nicht geben.
+> Vers 2: „Aus einer verbotenen Verbindung“: Was genau gemeint ist, weiß man nicht sicher. Jüdische Ausleger denken an Kinder aus Inzest oder Ehebruch.
+> Diese Regeln wirken auf uns hart und ungerecht, besonders gegenüber Menschen, die selbst nichts dafür können. Aber die Bibel selbst geht später einen anderen Weg:
+> Rut war eine Moabiterin. Sie wurde in Israel aufgenommen und die Urgroßmutter von König David (Rut 4,13–17).
+> Der Prophet Jesaja verspricht ausdrücklich, dass auch entmannte Männer und Fremde, die Gott treu sind, einen Platz in Gottes Haus haben, „besser als Söhne und Töchter“ (Jesaja 56,3–7).
+> Und in der Apostelgeschichte wird ein entmannter Mann aus Äthiopien getauft (Apostelgeschichte 8,26–39).
+> Bemerkenswert ist auch Vers 7: Selbst die Ägypter, die Israel versklavt hatten, soll man nicht verabscheuen. Denn Israel hat lange als Fremder in ihrem Land gelebt.
+
+---
+
+### Ein sauberes Lager (Vers 9–14)
+
+<sup>9</sup>Wenn du gegen deine Feinde ausziehst und ein Lager aufschlägst,
+dann sollst du dich vor allem Bösen hüten.
+<sup>10</sup>Wenn bei dir ein Mann ist, der unrein ist durch etwas, was ihm in der Nacht geschehen ist,
+dann soll er aus dem Lager hinausgehen.
+Er soll nicht ins Lager kommen.
+<sup>11</sup>Wenn es Abend wird, soll er sich mit Wasser waschen.
+Und wenn die Sonne untergegangen ist, darf er ins Lager kommen.
+<sup>12</sup>Du sollst außerhalb des Lagers einen Platz haben, wo du hinausgehst, um deine Notdurft zu verrichten.
+<sup>13</sup>Und du sollst eine kleine Schaufel bei deinen Waffen haben.
+Wenn du dich draußen hinsetzt, sollst du damit ein Loch graben,
+und danach sollst du deine Ausscheidung zudecken.
+<sup>14</sup>Denn der HERR, dein Gott, geht mitten in deinem Lager umher,
+um dich zu retten und deine Feinde vor dir preiszugeben.
+Darum soll dein Lager heilig sein,
+damit er nichts Unanständiges bei dir sieht und sich von dir abwendet.
+
+> **Was bedeutet das?**
+> „Was ihm in der Nacht geschehen ist“: Gemeint ist ein nächtlicher Samenerguss (siehe 3. Mose 15,16).
+> Auch die Hygiene ist Gott nicht egal! Die Regel mit der Schaufel ist sehr praktisch: Sie verhinderte Krankheiten im Lager. Früher starben in Kriegen oft mehr Soldaten an Seuchen als im Kampf.
+> Der Grund ist schön: Gott geht mitten im Lager umher. Darum soll es sauber sein, wie man sein Haus aufräumt, wenn ein Gast kommt.
+
+---
+
+### Schutz für einen geflohenen Sklaven (Vers 15–16)
+
+<sup>15</sup>Du sollst einen Knecht, der vor seinem Herrn zu dir geflohen ist, nicht an seinen Herrn ausliefern.
+<sup>16</sup>Er soll bei dir wohnen, in deiner Mitte,
+an dem Ort, den er sich in einer deiner Städte aussucht, wo es ihm gefällt.
+Du sollst ihn nicht unterdrücken.
+
+> **Was bedeutet das?**
+> Das ist ein ganz außergewöhnliches Gesetz! Bei anderen Völkern damals musste man geflohene Sklaven zurückgeben. Wer einem Sklaven half, wurde hart bestraft.
+> Israel soll das Gegenteil tun: Den Flüchtling aufnehmen, ihn wohnen lassen, wo er will, und ihn nicht unterdrücken.
+> Gemeint ist wohl vor allem ein Sklave, der aus einem anderen Land nach Israel geflohen ist. Israel weiß, wie es ist, Sklave zu sein, und wie es ist, zu fliehen.
+> In der Geschichte haben sich Menschen, die gegen die Sklaverei kämpften, auf diesen Vers berufen.
+
+---
+
+### Keine Prostitution im Namen Gottes (Vers 17–18)
+
+<sup>17</sup>Unter den Töchtern Israels soll es keine Prostituierte geben,
+und unter den Söhnen Israels soll es keinen Sodomiten geben.
+<sup>18</sup>Du sollst den Lohn einer Prostituierten oder den Lohn eines männlichen Prostituierten nicht in das Haus des HERRN, deines Gottes, bringen, für irgendein Gelübde.
+Denn beides ist ein Gräuel für den HERRN, deinen Gott.
+
+> **Was bedeutet das?**
+> „Sodomit“: So steht es in der englischen Vorlage. Im Hebräischen steht „Kadesch“, das bedeutet wörtlich „Geweihter“. Gemeint ist ein Mann, der im Dienst eines fremden Gottes als Prostituierter arbeitete. Für Frauen steht im Hebräischen das Wort „Kedescha“.
+> Bei den Kanaanitern gab es Tempel, in denen Prostitution Teil des Gottesdienstes war. Das soll es in Israel nicht geben. Mit Gottesdienst und Sexualität soll man keine Geschäfte machen.
+> „Lohn eines männlichen Prostituierten“: So steht es in der englischen Vorlage. Im Hebräischen steht wörtlich „Lohn eines Hundes“. „Hund“ war damals ein Schimpfwort für einen solchen Mann.
+> Wichtig: Diese Stelle handelt von Prostitution im Tempel fremder Götter. Sie darf nicht benutzt werden, um Menschen zu verachten oder zu verfolgen.
+
+---
+
+### Keine Zinsen vom Bruder (Vers 19–20)
+
+<sup>19</sup>Du sollst deinem Bruder nichts gegen Zinsen leihen:
+keine Zinsen für Geld, keine Zinsen für Essen,
+keine Zinsen für irgendetwas, was man gegen Zinsen leiht.
+<sup>20</sup>Von einem Ausländer darfst du Zinsen nehmen.
+Aber von deinem Bruder sollst du keine Zinsen nehmen,
+damit der HERR, dein Gott, dich segnet bei allem, was du unternimmst,
+in dem Land, in das du kommst, um es in Besitz zu nehmen.
+
+> **Was bedeutet das?**
+> Wer sich damals Geld lieh, war meist in Not. Zinsen hätten ihn noch tiefer ins Elend gestürzt. Darum soll man einem armen Israeliten ohne Zinsen helfen.
+> Ausländer waren meist reisende Händler, die Geld für Geschäfte liehen. Dort durfte man Zinsen nehmen, wie bei einem normalen Geschäft.
+> Im Mittelalter haben Christen Zinsen ganz verboten. Weil Juden Christen gegenüber Zinsen nehmen durften, wurden sie in den Geldhandel gedrängt. Daraus entstanden später böse Vorurteile gegen Juden. Diese Vorurteile sind falsch und haben unendlich viel Leid verursacht.
+
+---
+
+### Gelübde halten (Vers 21–23)
+
+<sup>21</sup>Wenn du dem HERRN, deinem Gott, ein Gelübde ablegst,
+dann sollst du nicht zögern, es zu erfüllen.
+Denn der HERR, dein Gott, wird es ganz sicher von dir fordern,
+und es wäre eine Sünde für dich.
+<sup>22</sup>Wenn du aber darauf verzichtest, ein Gelübde abzulegen, dann ist es keine Sünde für dich.
+<sup>23</sup>Was über deine Lippen gekommen ist, das sollst du halten und tun.
+Was du dem HERRN, deinem Gott, freiwillig gelobt hast,
+was du mit deinem Mund versprochen hast, das musst du tun.
+
+> **Was bedeutet das?**
+> Niemand muss Gott etwas versprechen. Aber wer es tut, muss es halten. Darum soll man nicht leichtfertig Versprechen machen (siehe auch 4. Mose 30 und Prediger 5,3–4).
+
+---
+
+### Vom Feld des Nachbarn essen (Vers 24–25)
+
+<sup>24</sup>Wenn du in den Weinberg deines Nächsten kommst,
+dann darfst du Trauben essen, so viel du willst, bis du satt bist.
+Aber du sollst nichts in deinen Korb tun.
+<sup>25</sup>Wenn du in das Getreidefeld deines Nächsten kommst,
+dann darfst du Ähren mit deiner Hand abpflücken.
+Aber die Sichel sollst du nicht an das Getreide deines Nächsten legen.
+
+> **Was bedeutet das?**
+> Ein Gesetz gegen den Hunger: Wer hungrig an einem Feld vorbeikommt, darf sich satt essen. Das ist kein Diebstahl. Aber er darf nichts mitnehmen und nicht ernten.
+> So wird beides geschützt: der Hungrige und der Besitzer.
+> Die Jünger von Jesus haben genau das getan: Sie pflückten am Sabbat Ähren, weil sie hungrig waren (Markus 2,23).
+
+## 5. Mose – Kapitel 24
+#### Scheidung – Schutz für Arme, Fremde, Waisen und Witwen
+
+---
+
+### Scheidung und Wiederheirat (Vers 1–4)
+
+<sup>1</sup>Wenn ein Mann eine Frau nimmt und sie heiratet,
+und sie findet keine Gnade in seinen Augen, weil er etwas Anstößiges an ihr gefunden hat,
+dann soll er ihr einen Scheidebrief schreiben, ihn ihr in die Hand geben
+und sie aus seinem Haus wegschicken.
+<sup>2</sup>Wenn sie aus seinem Haus gegangen ist, darf sie hingehen und die Frau eines anderen Mannes werden.
+<sup>3</sup>Wenn dann auch der zweite Mann sie ablehnt
+und ihr einen Scheidebrief schreibt, ihn ihr in die Hand gibt und sie aus seinem Haus wegschickt,
+oder wenn der zweite Mann stirbt, der sie zur Frau genommen hat,
+<sup>4</sup>dann darf ihr erster Mann, der sie weggeschickt hat,
+sie nicht wieder zur Frau nehmen, nachdem sie verunreinigt worden ist.
+Denn das wäre ein Gräuel vor dem HERRN.
+Du sollst das Land nicht zur Sünde verführen, das der HERR, dein Gott, dir als Erbe gibt.
+
+> **Was bedeutet das?**
+> Dieses Gesetz setzt voraus, dass es damals Scheidungen gab. Es regelt vor allem den Schutz der Frau:
+> Der Mann muss ihr einen „Scheidebrief“ geben. Mit diesem Dokument konnte sie beweisen, dass sie frei ist und wieder heiraten darf. Ohne diesen Brief hätte man ihr später Ehebruch vorwerfen können.
+> Der erste Mann darf sie nicht zurücknehmen, wenn sie inzwischen mit einem anderen verheiratet war. Das sollte verhindern, dass Frauen wie Besitz hin und her gegeben werden.
+> Was „etwas Anstößiges“ bedeutet, war schon zur Zeit von Jesus umstritten. Manche Lehrer sagten: jeder kleine Grund. Andere sagten: nur Ehebruch.
+> Jesus sagte dazu: Mose hat die Scheidung nur wegen der Härte eurer Herzen erlaubt. Aber Gottes ursprünglicher Wille ist, dass Mann und Frau zusammenbleiben (Matthäus 19,3–9; Markus 10,2–12).
+> In vielen Kirchen gibt es heute verschiedene Wege, mit Scheidung umzugehen. Wichtig ist: Menschen, deren Ehe zerbrochen ist, verdienen Barmherzigkeit und keine Verachtung.
+
+---
+
+### Ein Jahr für die junge Ehe (Vers 5)
+
+<sup>5</sup>Wenn ein Mann eine neue Frau genommen hat,
+soll er nicht mit dem Heer ausziehen,
+und man soll ihm keine anderen Pflichten auferlegen.
+Er soll ein Jahr lang frei für sein Haus sein
+und seine Frau erfreuen, die er genommen hat.
+
+> **Was bedeutet das?**
+> Ein schönes Gesetz: Ein frisch verheirateter Mann bekommt ein Jahr frei vom Kriegsdienst und von anderen Pflichten. Die junge Ehe soll Zeit haben, zu wachsen. Und der Mann soll „seine Frau erfreuen“. Das Glück der Frau ist ausdrücklich wichtig.
+
+---
+
+### Kein Mühlstein als Pfand (Vers 6)
+
+<sup>6</sup>Niemand soll die Handmühle oder den oberen Mühlstein als Pfand nehmen.
+Denn damit nimmt er das Leben als Pfand.
+
+> **Was bedeutet das?**
+> Wer sich Geld lieh, gab dem anderen etwas als Sicherheit, ein „Pfand“. Aber die Handmühle durfte man nicht nehmen. Mit ihr mahlte die Familie jeden Tag das Mehl für ihr Brot. Ohne Mühle hätte die Familie hungern müssen.
+> Was ein Mensch zum Leben braucht, darf man ihm nicht wegnehmen.
+
+---
+
+### Menschenraub (Vers 7)
+
+<sup>7</sup>Wenn jemand dabei gefunden wird, wie er einen seiner Brüder, einen Israeliten, raubt,
+und ihn wie einen Sklaven behandelt oder ihn verkauft,
+dann soll dieser Dieb sterben.
+So sollst du das Böse aus deiner Mitte entfernen.
+
+> **Was bedeutet das?**
+> Menschenraub ist eines der schwersten Verbrechen. Ein Mensch ist kein Ding, das man stehlen und verkaufen kann. Die Geschichte von Josef, den seine Brüder verkauften, zeigt, wie schlimm das ist (1. Mose 37).
+> In 2. Mose 21,16 gilt dieses Verbot für jeden Menschen.
+
+---
+
+### Achtet auf die Hautkrankheit (Vers 8–9)
+
+<sup>8</sup>Nimm dich in Acht bei der Plage des Aussatzes.
+Achte genau darauf und tu alles, was die Priester, die Leviten, euch lehren.
+Wie ich es ihnen geboten habe, so sollt ihr darauf achten, es zu tun.
+<sup>9</sup>Denk daran, was der HERR, dein Gott, mit Mirjam gemacht hat,
+auf dem Weg, als ihr aus Ägypten gezogen seid.
+
+> **Was bedeutet das?**
+> „Aussatz“ war ein Name für verschiedene Hautkrankheiten (3. Mose 13–14). Die Priester sollten entscheiden, wer krank war und wer wieder gesund war. Das schützte die Gemeinschaft vor Ansteckung.
+> Mirjam, die Schwester von Mose, bekam eine solche Krankheit, nachdem sie gegen Mose geredet hatte (4. Mose 12).
+
+---
+
+### Das Pfand eines Armen (Vers 10–13)
+
+<sup>10</sup>Wenn du deinem Nächsten irgendetwas leihst,
+dann sollst du nicht in sein Haus gehen, um ihm ein Pfand wegzunehmen.
+<sup>11</sup>Du sollst draußen stehen bleiben.
+Und der Mann, dem du leihst, soll das Pfand zu dir hinausbringen.
+<sup>12</sup>Wenn er ein armer Mann ist,
+dann sollst du nicht mit seinem Pfand schlafen gehen.
+<sup>13</sup>Du sollst ihm das Pfand unbedingt zurückgeben, wenn die Sonne untergeht,
+damit er in seinem Mantel schlafen kann und dich segnet.
+Und es wird für dich Gerechtigkeit sein vor dem HERRN, deinem Gott.
+
+> **Was bedeutet das?**
+> Auch ein Armer hat Würde. Der Gläubiger darf nicht einfach in sein Haus eindringen und sich etwas nehmen. Der Arme selbst entscheidet, was er als Pfand gibt.
+> Ein sehr armer Mensch hatte oft nur seinen Mantel als Pfand. Nachts brauchte er ihn als Decke. Darum muss man ihn am Abend zurückgeben. Niemand soll frieren, nur weil er arm ist.
+
+---
+
+### Lohn am selben Tag (Vers 14–15)
+
+<sup>14</sup>Du sollst einen armen und bedürftigen Tagelöhner nicht ausbeuten,
+ob er einer deiner Brüder ist oder einer der Fremden, die in deinem Land in deinen Toren wohnen.
+<sup>15</sup>Am selben Tag sollst du ihm seinen Lohn geben,
+bevor die Sonne untergeht.
+Denn er ist arm und wartet sehnsüchtig darauf.
+Sonst schreit er gegen dich zum HERRN, und es wird für dich Sünde sein.
+
+> **Was bedeutet das?**
+> Ein Tagelöhner arbeitete jeden Tag für einen anderen und lebte von der Hand in den Mund. Wenn er seinen Lohn nicht am Abend bekam, hatte seine Familie nichts zu essen.
+> Darum: Lohn sofort zahlen! Und das gilt für Einheimische und Fremde gleich.
+> Gott hört den Schrei der Ausgebeuteten. Der Jakobusbrief im Neuen Testament greift diesen Gedanken auf (Jakobus 5,4). Bis heute ist gerechter Lohn eine Frage des Glaubens.
+
+---
+
+### Jeder trägt seine eigene Schuld (Vers 16)
+
+<sup>16</sup>Die Väter sollen nicht für die Kinder getötet werden,
+und die Kinder sollen nicht für die Väter getötet werden.
+Jeder soll für seine eigene Sünde getötet werden.
+
+> **Was bedeutet das?**
+> Ein sehr wichtiger Grundsatz des Rechts: Niemand darf für die Schuld eines anderen bestraft werden. Bei anderen Völkern wurde manchmal die ganze Familie eines Verbrechers bestraft. In Israel nicht.
+> Der Prophet Hesekiel hat das später noch einmal betont (Hesekiel 18,20). Und dieser Grundsatz gilt bis heute in jedem gerechten Rechtssystem.
+
+---
+
+### Recht für Fremde, Waisen und Witwen (Vers 17–18)
+
+<sup>17</sup>Du sollst das Recht des Fremden und der Waise nicht beugen.
+Und du sollst den Mantel einer Witwe nicht als Pfand nehmen.
+<sup>18</sup>Sondern du sollst daran denken, dass du ein Sklave in Ägypten gewesen bist
+und dass der HERR, dein Gott, dich von dort befreit hat.
+Darum gebiete ich dir, das zu tun.
+
+> **Was bedeutet das?**
+> Fremde, Waisen und Witwen hatten damals keinen Mann, keinen Vater und keine Familie, die für sie eintrat. Sie waren leicht zu betrügen. Gott stellt sich ausdrücklich auf ihre Seite.
+> Und wieder der Grund: Denk daran, dass du selbst Sklave warst.
+
+---
+
+### Etwas für die Armen übrig lassen (Vers 19–22)
+
+<sup>19</sup>Wenn du auf deinem Feld die Ernte einbringst und eine Garbe auf dem Feld vergessen hast,
+dann sollst du nicht zurückgehen, um sie zu holen.
+Sie soll für den Fremden, für die Waise und für die Witwe sein,
+damit der HERR, dein Gott, dich segnet bei aller Arbeit deiner Hände.
+<sup>20</sup>Wenn du deine Olivenbäume abschlägst,
+dann sollst du nicht hinterher noch die Zweige absuchen.
+Es soll für den Fremden, für die Waise und für die Witwe sein.
+<sup>21</sup>Wenn du die Trauben in deinem Weinberg erntest,
+dann sollst du nicht hinterher noch die letzten Trauben nachlesen.
+Es soll für den Fremden, für die Waise und für die Witwe sein.
+<sup>22</sup>Du sollst daran denken, dass du ein Sklave im Land Ägypten gewesen bist.
+Darum gebiete ich dir, das zu tun.
+
+> **Was bedeutet das?**
+> Man soll bei der Ernte nicht alles bis zum letzten Rest einsammeln. Was übrig bleibt, gehört den Armen. Sie dürfen kommen und es auflesen. So haben sie zu essen, und zwar mit Würde, durch eigene Arbeit, ohne betteln zu müssen.
+> Genau so hat Rut, die arme Witwe aus Moab, auf dem Feld von Boas Ähren gesammelt (Rut 2). So begann eine der schönsten Geschichten der Bibel.
