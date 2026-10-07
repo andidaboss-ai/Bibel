@@ -140,7 +140,7 @@ Sebul sagte zu ihm:
 „Du siehst die Schatten der Berge für Männer an.“
 [37] Gaal redete weiter und sagte:
 „Schau, da kommt Volk von der Mitte des Landes herab,
-und eine Gruppe kommt auf dem Weg von der Eiche der Wahrsager.“
+und eine Gruppe kommt auf dem Weg von der Eiche von Meonenim.“
 [38] Da sagte Sebul zu ihm:
 „Wo ist jetzt dein großes Maul, mit dem du gesagt hast:
 ‚Wer ist Abimelech, dass wir ihm dienen sollten?‘
@@ -154,7 +154,7 @@ Und Sebul vertrieb Gaal und seine Brüder, sodass sie nicht mehr in Sichem wohne
 
 > **Was bedeutet das?**
 > Sebul spielt ein doppeltes Spiel. Er hält Gaal hin, bis es zu spät ist. Erst sagt er: „Das sind nur Schatten.“ Dann spottet er: „Wo ist jetzt dein großes Maul?“
-> „Die Eiche der Wahrsager“: So heißt der Ort auf Hebräisch, „Elon Meonenim“. Die englische Vorlage schreibt „die Eiche von Meonenim“.
+> „Meonenim“ bedeutet „Wahrsager“. Es war also eine „Eiche der Wahrsager“, vielleicht ein heidnischer heiliger Baum.
 
 ---
 
