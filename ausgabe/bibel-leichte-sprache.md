@@ -24932,3 +24932,316 @@ Du sollst keine Angst vor ihm haben.
 > Zusammen mit Kapitel 13 gibt es also zwei Prüfungen: Führt der Prophet zu Gott oder weg von ihm? Und: Trifft ein, was er sagt?
 > „Du sollst keine Angst vor ihm haben“: Auch heute gibt es Menschen, die im Namen Gottes Angst machen, zum Beispiel mit Vorhersagen über das Ende der Welt. Wenn ihre Worte nicht eintreffen, muss man sie nicht fürchten.
 > Für einen falschen Propheten galt damals die Todesstrafe. Heute gilt in Judentum und Christentum: Man soll falschen Propheten nicht glauben und nicht folgen. Gewalt gegen sie ist kein Weg.
+
+## 5. Mose – Kapitel 19
+#### Zufluchtsstädte – Grenzsteine – falsche Zeugen
+
+---
+
+### Drei Zufluchtsstädte im Land (Vers 1–10)
+
+<sup>1</sup>Wenn der HERR, dein Gott, die Völker ausrottet, deren Land der HERR, dein Gott, dir gibt,
+und du sie vertreibst und in ihren Städten und Häusern wohnst,
+<sup>2</sup>dann sollst du dir drei Städte aussondern, mitten in deinem Land,
+das der HERR, dein Gott, dir zum Besitz gibt.
+<sup>3</sup>Du sollst die Wege dorthin gut herrichten
+und das Gebiet deines Landes, das der HERR, dein Gott, dir als Erbe gibt, in drei Teile teilen,
+damit jeder, der einen Menschen getötet hat, dorthin fliehen kann.
+<sup>4</sup>So ist es mit dem, der einen Menschen getötet hat und dorthin flieht, um am Leben zu bleiben:
+Wer seinen Nächsten ohne Absicht getötet hat und ihn vorher nicht gehasst hat –
+<sup>5</sup>zum Beispiel, wenn ein Mann mit seinem Nächsten in den Wald geht, um Holz zu hacken,
+und seine Hand holt mit der Axt aus, um den Baum zu fällen,
+und das Eisen rutscht vom Stiel und trifft seinen Nächsten, sodass er stirbt –,
+der soll in eine dieser Städte fliehen und am Leben bleiben.
+<sup>6</sup>Sonst könnte der Bluträcher den, der getötet hat, verfolgen, solange sein Herz vor Zorn glüht,
+und ihn einholen, weil der Weg lang ist, und ihn erschlagen,
+obwohl er den Tod nicht verdient hat, weil er den anderen vorher nicht gehasst hat.
+<sup>7</sup>Darum gebiete ich dir: Du sollst dir drei Städte aussondern.
+<sup>8</sup>Und wenn der HERR, dein Gott, dein Gebiet erweitert, wie er es deinen Vätern geschworen hat,
+und dir das ganze Land gibt, das er deinen Vätern versprochen hat –
+<sup>9</sup>wenn du dieses ganze Gebot hältst und tust, das ich dir heute gebiete:
+den HERRN, deinen Gott, zu lieben und immer auf seinen Wegen zu gehen –,
+dann sollst du zu diesen drei Städten noch drei weitere Städte hinzufügen.
+<sup>10</sup>So soll in deinem Land, das der HERR, dein Gott, dir als Erbe gibt, kein unschuldiges Blut vergossen werden,
+damit keine Blutschuld auf dir liegt.
+
+> **Was bedeutet das?**
+> Die Zufluchtsstädte kennen wir aus 4. Mose 35. Hier wird ein anschauliches Beispiel für einen Unfall gegeben: Beim Holzhacken fliegt das Eisen der Axt vom Stiel und trifft jemanden tödlich.
+> Die Wege zu den Städten sollen gut sein. Niemand soll unterwegs eingeholt werden, nur weil der Weg zu weit oder zu schlecht ist. Jüdische Ausleger sagen: Man stellte sogar Schilder auf, auf denen „Zuflucht“ stand.
+> Gott schützt auch den, der schuldlos schuldig geworden ist.
+
+---
+
+### Kein Schutz für Mörder (Vers 11–13)
+
+<sup>11</sup>Wenn aber jemand seinen Nächsten hasst
+und ihm auflauert und gegen ihn aufsteht und ihn tödlich schlägt, sodass er stirbt,
+und er flieht in eine dieser Städte,
+<sup>12</sup>dann sollen die Ältesten seiner Stadt hinschicken und ihn von dort holen lassen.
+Und sie sollen ihn in die Hand des Bluträchers geben, damit er stirbt.
+<sup>13</sup>Dein Auge soll kein Mitleid mit ihm haben.
+Sondern du sollst das unschuldige Blut aus Israel entfernen, damit es dir gut geht.
+
+> **Was bedeutet das?**
+> Die Zufluchtsstädte sind kein Versteck für Mörder. Wer mit Absicht getötet hat, wird ausgeliefert. Damals galt dafür die Todesstrafe (siehe 4. Mose 35).
+
+---
+
+### Verschiebe keine Grenzsteine (Vers 14)
+
+<sup>14</sup>Du sollst die Grenze deines Nächsten nicht verrücken, die die Früheren gesetzt haben,
+auf deinem Erbteil, das du in dem Land erben wirst, das der HERR, dein Gott, dir zum Besitz gibt.
+
+> **Was bedeutet das?**
+> Felder wurden damals mit Grenzsteinen markiert. Wer einen Stein heimlich verschob, stahl dem Nachbarn Land. Das war leicht zu tun und schwer zu beweisen. Darum wird es hier ausdrücklich verboten.
+
+---
+
+### Zwei Zeugen – und die Strafe für falsche Zeugen (Vers 15–21)
+
+<sup>15</sup>Ein einzelner Zeuge soll nicht gegen jemanden auftreten, wegen irgendeiner Schuld oder irgendeiner Sünde, die er begangen hat.
+Auf die Aussage von zwei Zeugen oder auf die Aussage von drei Zeugen hin soll eine Sache feststehen.
+<sup>16</sup>Wenn ein ungerechter Zeuge gegen jemanden auftritt, um ihn eines Unrechts zu beschuldigen,
+<sup>17</sup>dann sollen beide Männer, die den Streit haben, vor den HERRN treten,
+vor die Priester und die Richter, die in jenen Tagen da sind.
+<sup>18</sup>Und die Richter sollen gründlich nachforschen.
+Und schaut: Wenn der Zeuge ein falscher Zeuge ist und gegen seinen Bruder gelogen hat,
+<sup>19</sup>dann sollt ihr ihm das antun, was er seinem Bruder antun wollte.
+So sollst du das Böse aus deiner Mitte entfernen.
+<sup>20</sup>Und die Übrigen sollen es hören und sich fürchten.
+Und sie werden nie wieder so etwas Böses in deiner Mitte tun.
+<sup>21</sup>Dein Auge soll kein Mitleid haben:
+Leben für Leben, Auge für Auge, Zahn für Zahn, Hand für Hand, Fuß für Fuß.
+
+> **Was bedeutet das?**
+> Ein falscher Zeuge bekommt genau die Strafe, die er dem Unschuldigen bringen wollte. Wer lügt, um einen anderen ins Gefängnis zu bringen, kommt selbst ins Gefängnis. Das schreckt vor falschen Aussagen ab.
+> „Auge für Auge, Zahn für Zahn“: Dieser Satz wird oft falsch verstanden, als ob er zur Rache auffordert. Das Gegenteil ist gemeint! Er begrenzt die Strafe: Die Strafe darf nicht größer sein als das Unrecht. Nicht ein Leben für ein Auge, sondern nur ein Auge für ein Auge. Die jüdische Auslegung hat das schon früh als Geldentschädigung verstanden.
+> Jesus geht noch weiter: Er sagt, man soll sich überhaupt nicht rächen, sondern sogar die andere Wange hinhalten (Matthäus 5,38–39).
+
+## 5. Mose – Kapitel 20
+#### Regeln für den Krieg
+
+---
+
+### Habt keine Angst (Vers 1–4)
+
+<sup>1</sup>Wenn du gegen deine Feinde in den Krieg ziehst
+und Pferde und Streitwagen siehst und ein Volk, das zahlreicher ist als du,
+dann sollst du keine Angst vor ihnen haben.
+Denn der HERR, dein Gott, der dich aus dem Land Ägypten heraufgeführt hat, ist mit dir.
+<sup>2</sup>Und wenn ihr nahe an den Kampf herankommt,
+dann soll der Priester herantreten und zum Volk sprechen.
+<sup>3</sup>Er soll zu ihnen sagen:
+„Höre, Israel, ihr zieht heute in den Kampf gegen eure Feinde.
+Euer Herz soll nicht verzagen!
+Habt keine Angst, zittert nicht und erschreckt nicht vor ihnen.
+<sup>4</sup>Denn der HERR, euer Gott, ist es, der mit euch geht,
+um für euch gegen eure Feinde zu kämpfen und euch zu retten.“
+
+> **Was bedeutet das?**
+> In diesem Kapitel geht es um Krieg. Damals waren Kriege zwischen Völkern üblich. Die Bibel gibt Regeln, die den Krieg begrenzen sollen. Manche dieser Regeln sind für ihre Zeit erstaunlich menschlich. Andere sind für uns heute sehr schwer zu ertragen.
+> Israel hatte keine großen Armeen mit Pferden und Streitwagen. Darum soll es nicht auf seine Waffen vertrauen, sondern auf Gott.
+
+---
+
+### Wer nach Hause gehen darf (Vers 5–9)
+
+<sup>5</sup>Die Amtsleute sollen zum Volk sagen:
+„Wer hat ein neues Haus gebaut und es noch nicht eingeweiht?
+Der soll gehen und nach Hause zurückkehren,
+damit er nicht im Kampf stirbt und ein anderer Mann es einweiht.
+<sup>6</sup>Wer hat einen Weinberg gepflanzt und noch nicht von seinen Früchten gegessen?
+Der soll gehen und nach Hause zurückkehren,
+damit er nicht im Kampf stirbt und ein anderer Mann seine Früchte genießt.
+<sup>7</sup>Wer ist mit einer Frau verlobt und hat sie noch nicht geheiratet?
+Der soll gehen und nach Hause zurückkehren,
+damit er nicht im Kampf stirbt und ein anderer Mann sie heiratet.“
+<sup>8</sup>Und die Amtsleute sollen weiter zum Volk sagen:
+„Wer hat Angst und ein verzagtes Herz?
+Der soll gehen und nach Hause zurückkehren,
+damit das Herz seiner Brüder nicht auch verzagt wie sein Herz.“
+<sup>9</sup>Wenn die Amtsleute damit fertig sind, zum Volk zu reden,
+dann sollen sie Heerführer an die Spitze des Volkes stellen.
+
+> **Was bedeutet das?**
+> Das ist erstaunlich: Bevor der Kampf beginnt, dürfen viele Männer nach Hause gehen. Wer ein neues Haus hat, wer gerade einen Weinberg angelegt hat, wer bald heiraten will. Das Leben und das Glück des Einzelnen sind wichtiger als eine große Armee.
+> Sogar wer Angst hat, darf gehen. Niemand wird gezwungen. Denn der Sieg hängt nicht an der Zahl der Soldaten, sondern an Gott. Das zeigt später die Geschichte von Gideon, der von 32.000 Männern nur 300 behalten durfte (Richter 7).
+
+---
+
+### Zuerst Frieden anbieten (Vers 10–15)
+
+<sup>10</sup>Wenn du nahe an eine Stadt herankommst, um gegen sie zu kämpfen,
+dann sollst du ihr zuerst Frieden anbieten.
+<sup>11</sup>Wenn sie dir mit Frieden antwortet und dir die Tore öffnet,
+dann soll das ganze Volk, das darin ist, dir Zwangsarbeit leisten und dir dienen.
+<sup>12</sup>Wenn sie aber keinen Frieden mit dir schließt, sondern gegen dich Krieg führt,
+dann sollst du sie belagern.
+<sup>13</sup>Und wenn der HERR, dein Gott, sie in deine Hand gibt,
+dann sollst du alle Männer darin mit der Schärfe des Schwertes erschlagen.
+<sup>14</sup>Aber die Frauen, die kleinen Kinder, das Vieh und alles, was in der Stadt ist, ihre ganze Beute,
+sollst du für dich als Beute nehmen.
+Und du darfst die Beute deiner Feinde gebrauchen, die der HERR, dein Gott, dir gegeben hat.
+<sup>15</sup>So sollst du es mit allen Städten machen, die sehr weit von dir entfernt sind,
+die nicht zu den Städten dieser Völker hier gehören.
+
+> **Was bedeutet das?**
+> Die erste Regel ist gut: Zuerst muss man Frieden anbieten. Krieg soll nicht der erste Weg sein.
+> Aber was danach kommt, ist nach heutigen Maßstäben grausam: Wer sich ergibt, muss Zwangsarbeit leisten. Wer kämpft, dessen Männer werden getötet, und Frauen und Kinder werden zur Beute.
+> Man muss ehrlich sagen: So führten fast alle Völker damals Krieg, und oft noch viel grausamer. Die Bibel beschreibt diese Welt, aber sie macht sie nicht zum Vorbild für alle Zeiten. Heute gelten zum Glück internationale Regeln, die Zivilisten und Gefangene schützen. Viele dieser Regeln wurden auch von Juden und Christen erkämpft, die aus der Bibel die Würde jedes Menschen gelernt haben.
+
+---
+
+### Die Völker im Land (Vers 16–18)
+
+<sup>16</sup>Aber in den Städten dieser Völker, die der HERR, dein Gott, dir als Erbe gibt,
+sollst du nichts am Leben lassen, was atmet.
+<sup>17</sup>Sondern du sollst an ihnen den Bann vollstrecken:
+an den Hetitern, den Amoritern, den Kanaanitern, den Perisitern, den Hiwitern und den Jebusitern,
+wie der HERR, dein Gott, es dir befohlen hat,
+<sup>18</sup>damit sie euch nicht lehren, alle ihre Gräuel nachzumachen, die sie für ihre Götter getan haben,
+und ihr so gegen den HERRN, euren Gott, sündigt.
+
+> **Was bedeutet das?**
+> Hier geht es wieder um den „Bann“ (siehe Kapitel 7). Gegen die Völker im Land Kanaan selbst soll Israel noch härter vorgehen. Der Grund in Vers 18: Israel soll nicht zum Götzendienst und zu ihren Gräueln verführt werden, zu denen auch Kinderopfer gehörten.
+> Dieser Text gehört zu den schwersten der ganzen Bibel. Juden und Christen haben lange damit gerungen. Viele verstehen ihn als einen einmaligen Befehl für eine ganz bestimmte Zeit, der heute nicht mehr gilt und nie wieder gelten darf. Die jüdischen Gelehrten sagten: Diese Völker gibt es nicht mehr, darum ist das Gebot nicht mehr anwendbar.
+> Ganz klar ist: Niemand darf diese Stelle benutzen, um Gewalt gegen ein Volk oder eine Gruppe zu rechtfertigen.
+
+---
+
+### Schont die Obstbäume (Vers 19–20)
+
+<sup>19</sup>Wenn du eine Stadt lange Zeit belagerst, um gegen sie zu kämpfen und sie einzunehmen,
+dann sollst du ihre Bäume nicht vernichten, indem du die Axt gegen sie erhebst.
+Denn du kannst von ihnen essen.
+Du sollst sie nicht umhauen.
+Ist denn der Baum auf dem Feld ein Mensch, dass er von dir belagert werden müsste?
+<sup>20</sup>Nur die Bäume, von denen du weißt, dass sie keine Obstbäume sind,
+darfst du vernichten und umhauen.
+Und du darfst Belagerungswerke gegen die Stadt bauen, die mit dir Krieg führt, bis sie fällt.
+
+> **Was bedeutet das?**
+> Eine sehr frühe Regel zum Schutz der Natur: Auch im Krieg darf man die Obstbäume nicht zerstören. Die Bäume können nichts für den Krieg. Und die Menschen brauchen sie später zum Leben.
+> Daraus haben jüdische Gelehrte ein allgemeines Gebot gemacht: „Bal taschchit“, das heißt „Zerstöre nicht“. Man soll nichts mutwillig verschwenden oder kaputtmachen.
+
+## 5. Mose – Kapitel 21
+#### Ein ungeklärter Mord – Regeln für die Familie
+
+---
+
+### Wenn ein Toter gefunden wird (Vers 1–9)
+
+<sup>1</sup>Wenn in dem Land, das der HERR, dein Gott, dir zum Besitz gibt,
+ein Erschlagener gefunden wird, der auf dem Feld liegt,
+und man weiß nicht, wer ihn erschlagen hat,
+<sup>2</sup>dann sollen deine Ältesten und deine Richter hinausgehen
+und die Entfernung zu den Städten messen, die rings um den Erschlagenen liegen.
+<sup>3</sup>Die Ältesten der Stadt, die dem Erschlagenen am nächsten ist,
+sollen eine junge Kuh aus der Herde nehmen,
+mit der noch nicht gearbeitet wurde und die noch kein Joch gezogen hat.
+<sup>4</sup>Die Ältesten dieser Stadt sollen die junge Kuh hinabführen in ein Tal mit fließendem Wasser,
+das weder gepflügt noch besät wird.
+Und dort im Tal sollen sie der jungen Kuh das Genick brechen.
+<sup>5</sup>Dann sollen die Priester, die Söhne Levis, herantreten.
+Denn sie hat der HERR, dein Gott, erwählt, damit sie ihm dienen und im Namen des HERRN segnen.
+Und nach ihrem Wort soll jeder Streit und jede Verletzung entschieden werden.
+<sup>6</sup>Und alle Ältesten der Stadt, die dem Erschlagenen am nächsten ist,
+sollen ihre Hände über der jungen Kuh waschen, der im Tal das Genick gebrochen wurde.
+<sup>7</sup>Sie sollen sagen:
+„Unsere Hände haben dieses Blut nicht vergossen, und unsere Augen haben es nicht gesehen.
+<sup>8</sup>Vergib, HERR, deinem Volk Israel, das du befreit hast,
+und lass kein unschuldiges Blut auf deinem Volk Israel liegen.“
+Dann wird ihnen die Blutschuld vergeben.
+<sup>9</sup>So sollst du das unschuldige Blut aus deiner Mitte entfernen,
+wenn du tust, was in den Augen des HERRN recht ist.
+
+> **Was bedeutet das?**
+> Ein Mensch wurde ermordet, aber niemand weiß, wer der Täter ist. Was nun? Man darf so einen Tod nicht einfach vergessen. Jedes Menschenleben zählt.
+> Die nächste Stadt übernimmt Verantwortung. Ihre Ältesten erklären feierlich: Wir haben es nicht getan, und wir haben nichts gesehen. Und sie bitten Gott um Vergebung für das ganze Volk.
+> Das Händewaschen ist ein Zeichen der Unschuld. Daher kommt unsere Redewendung „seine Hände in Unschuld waschen“. Pilatus wusch bei der Verurteilung von Jesus seine Hände (Matthäus 27,24).
+> Jüdische Ausleger fragten auch: Haben die Ältesten vielleicht versäumt, für einen Fremden zu sorgen, der dann schutzlos unterwegs war? Eine Gemeinschaft ist mitverantwortlich für die Sicherheit aller.
+
+---
+
+### Eine gefangene Frau (Vers 10–14)
+
+<sup>10</sup>Wenn du gegen deine Feinde in den Krieg ziehst,
+und der HERR, dein Gott, gibt sie in deine Hand, und du führst Gefangene weg,
+<sup>11</sup>und du siehst unter den Gefangenen eine schöne Frau
+und fühlst dich zu ihr hingezogen und willst sie zur Frau nehmen,
+<sup>12</sup>dann sollst du sie in dein Haus bringen.
+Sie soll sich den Kopf scheren und ihre Nägel schneiden.
+<sup>13</sup>Sie soll die Kleider ablegen, die sie als Gefangene trug,
+und in deinem Haus bleiben und einen ganzen Monat lang um ihren Vater und ihre Mutter weinen.
+Danach darfst du zu ihr eingehen und ihr Mann sein, und sie soll deine Frau sein.
+<sup>14</sup>Und wenn du keinen Gefallen mehr an ihr hast,
+dann sollst du sie gehen lassen, wohin sie will.
+Du darfst sie auf keinen Fall für Geld verkaufen.
+Du sollst sie nicht wie eine Sklavin behandeln, weil du sie gedemütigt hast.
+
+> **Was bedeutet das?**
+> Dieser Abschnitt beschreibt eine Situation, die für uns schrecklich ist: Eine Frau wird im Krieg gefangen genommen und muss einen fremden Mann heiraten. Sie hat dabei keine Wahl. Das widerspricht ganz klar dem, was wir heute als Menschenrecht verstehen.
+> Damals wurden gefangene Frauen bei fast allen Völkern sofort missbraucht und als Sklavinnen verkauft. Dieses Gesetz setzt dem Grenzen: Der Mann darf sie nicht sofort nehmen. Sie bekommt einen Monat Zeit, um um ihre Eltern zu trauern. Sie wird seine Ehefrau mit den Rechten einer Ehefrau, nicht seine Sklavin. Und wenn er sie nicht mehr will, muss er sie freilassen. Er darf sie nicht verkaufen.
+> „Weil du sie gedemütigt hast“: Die Bibel selbst sagt also, dass dem Mann bewusst sein soll, dass er ihr Unrecht angetan hat.
+> Diese Regel war ein Schritt hin zu mehr Schutz. Aber sie ist kein Vorbild. Gewalt gegen Frauen im Krieg ist ein schweres Verbrechen, und niemand darf sich dafür auf die Bibel berufen.
+
+---
+
+### Das Recht des Erstgeborenen (Vers 15–17)
+
+<sup>15</sup>Wenn ein Mann zwei Frauen hat, die eine geliebt und die andere ungeliebt,
+und beide haben ihm Söhne geboren, die geliebte und die ungeliebte,
+und der erstgeborene Sohn ist von der Ungeliebten,
+<sup>16</sup>dann darf er an dem Tag, an dem er seinen Söhnen sein Erbe verteilt,
+nicht den Sohn der Geliebten als Erstgeborenen behandeln
+vor dem Sohn der Ungeliebten, der der Erstgeborene ist.
+<sup>17</sup>Sondern er soll den Erstgeborenen, den Sohn der Ungeliebten, anerkennen,
+indem er ihm einen doppelten Anteil von allem gibt, was er hat.
+Denn er ist der Erstling seiner Kraft.
+Das Recht des Erstgeborenen gehört ihm.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht „geliebt“ und „gehasst“. Gemeint ist: die eine wird mehr geliebt als die andere.
+> Damals hatten manche Männer mehr als eine Frau. Das führte oft zu Eifersucht und Streit, wie bei Jakob mit Lea und Rahel (1. Mose 29–30).
+> Das Gesetz schützt die weniger geliebte Frau und ihr Kind. Der Vater darf das Erbe nicht nach seinen Gefühlen verteilen. Das Recht steht über der Vorliebe.
+> Der Erstgeborene bekam den doppelten Anteil, weil er nach dem Tod des Vaters für die Familie sorgen musste.
+
+---
+
+### Ein widerspenstiger Sohn (Vers 18–21)
+
+<sup>18</sup>Wenn ein Mann einen störrischen und widerspenstigen Sohn hat,
+der nicht auf die Stimme seines Vaters und die Stimme seiner Mutter hört,
+und sie erziehen ihn, aber er hört nicht auf sie,
+<sup>19</sup>dann sollen sein Vater und seine Mutter ihn packen
+und ihn zu den Ältesten seiner Stadt hinausführen, an das Tor seines Ortes.
+<sup>20</sup>Sie sollen zu den Ältesten seiner Stadt sagen:
+„Dieser unser Sohn ist störrisch und widerspenstig.
+Er hört nicht auf unsere Stimme.
+Er ist ein Prasser und ein Säufer.“
+<sup>21</sup>Dann sollen alle Männer seiner Stadt ihn mit Steinen steinigen, bis er stirbt.
+So sollst du das Böse aus deiner Mitte entfernen.
+Und ganz Israel soll es hören und sich fürchten.
+
+> **Was bedeutet das?**
+> Das ist ein sehr harter Text. Gemeint ist kein kleines Kind, sondern wohl ein erwachsener Sohn, der völlig verwahrlost, trinkt, das Vermögen der Familie verschwendet und vielleicht sogar gewalttätig wird.
+> Eines ist auffällig: Die Eltern dürfen ihren Sohn nicht selbst bestrafen. Sie müssen zum Gericht der Ältesten gehen. Das schützte den Sohn vor der Willkür eines wütenden Vaters. Und beide Eltern, Vater und Mutter, müssen sich einig sein.
+> Die jüdischen Gelehrten haben dieses Gesetz mit so vielen Bedingungen versehen, dass sie sagten: Es ist nie angewendet worden und wird nie angewendet werden (Talmud, Sanhedrin 71a). Es zeigt nur, wie ernst die Achtung vor den Eltern genommen wurde.
+> Jesus erzählt eine ganz andere Geschichte über einen Sohn, der sein Erbe verprasst: Als er zurückkommt, läuft der Vater ihm entgegen und umarmt ihn (Lukas 15,11–32).
+> Niemand darf diese Stelle benutzen, um Gewalt gegen Kinder oder Jugendliche zu rechtfertigen.
+
+---
+
+### Ein Gehängter am Holz (Vers 22–23)
+
+<sup>22</sup>Wenn jemand eine Sünde begangen hat, die den Tod verdient,
+und er wird getötet, und du hängst ihn an ein Holz,
+<sup>23</sup>dann soll sein Leichnam nicht über Nacht an dem Holz bleiben.
+Sondern du sollst ihn unbedingt noch am selben Tag begraben.
+Denn wer gehängt ist, ist von Gott verflucht.
+Du sollst dein Land nicht unrein machen, das der HERR, dein Gott, dir als Erbe gibt.
+
+> **Was bedeutet das?**
+> Manchmal wurde der Körper eines Hingerichteten nach dem Tod an einen Baum oder Pfahl gehängt, als Warnung für andere. Aber das darf nicht lange dauern. Er muss noch am selben Tag begraben werden. Auch ein Verbrecher hat ein Recht auf ein Begräbnis und auf Würde.
+> Darum wurde auch Jesus noch am Tag seiner Kreuzigung vom Kreuz abgenommen und begraben (Johannes 19,31).
+> Paulus zitiert diesen Vers: „Verflucht ist jeder, der am Holz hängt.“ Er sagt: Jesus hat am Kreuz den Fluch auf sich genommen, um die Menschen davon zu befreien (Galater 3,13).
