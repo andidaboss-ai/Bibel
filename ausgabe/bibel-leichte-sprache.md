@@ -30880,3 +30880,517 @@ Nur auf dem Fell war es trocken, und auf dem ganzen Boden war Tau.
 > Gideon hat schon ein Zeichen bekommen (Vers 21). Trotzdem zweifelt er noch. Er bittet zweimal um ein Zeichen mit dem Fell. Und Gott hat Geduld mit ihm und gibt ihm beide Zeichen.
 > Das ist tröstlich: Gott verachtet nicht die, die zweifeln. Er geht auf ihre Schwäche ein.
 > Aus dieser Geschichte kommt der Ausdruck „ein Vlies auslegen“: Gott um ein Zeichen bitten. Viele Ausleger sagen aber auch: Gideon hätte es eigentlich nicht gebraucht. Gott hatte schon klar gesprochen. Die Geschichte ist kein Muster dafür, Gott ständig auf die Probe zu stellen (5. Mose 6,16).
+
+## Richter – Kapitel 7
+#### Gideons dreihundert Männer
+
+---
+
+### Zu viele Krieger (Vers 1–8)
+
+<sup>1</sup>Jerubbaal – das ist Gideon – und das ganze Volk, das bei ihm war, standen früh auf
+und lagerten an der Quelle Harod.
+Das Lager Midians lag nördlich von ihnen, beim Hügel More, in der Ebene.
+<sup>2</sup>Der HERR sagte zu Gideon:
+„Das Volk bei dir ist zu zahlreich, als dass ich Midian in ihre Hand geben könnte.
+Sonst rühmt sich Israel gegen mich und sagt: ‚Meine eigene Hand hat mich gerettet.‘
+<sup>3</sup>Darum rufe jetzt vor den Ohren des Volkes aus:
+‚Wer Angst hat und zittert, der soll umkehren und vom Gebirge Gilead weggehen.‘“
+Da kehrten 22.000 vom Volk um, und 10.000 blieben übrig.
+<sup>4</sup>Der HERR sagte zu Gideon:
+„Das Volk ist immer noch zu zahlreich.
+Führ sie hinab ans Wasser, dort will ich sie für dich prüfen.
+Von wem ich dir sage: ‚Dieser soll mit dir gehen‘, der soll mit dir gehen.
+Und von wem ich dir sage: ‚Dieser soll nicht mit dir gehen‘, der soll nicht gehen.“
+<sup>5</sup>Da führte er das Volk hinab ans Wasser.
+Und der HERR sagte zu Gideon:
+„Jeden, der das Wasser mit seiner Zunge leckt, wie ein Hund leckt, den stell für sich allein.
+Ebenso jeden, der sich auf seine Knie niederkniet, um zu trinken.“
+<sup>6</sup>Die Zahl derer, die leckten und dabei die Hand zum Mund führten, war dreihundert Mann.
+Aber das ganze übrige Volk kniete sich auf die Knie nieder, um Wasser zu trinken.
+<sup>7</sup>Der HERR sagte zu Gideon:
+„Durch die dreihundert Mann, die geleckt haben, will ich euch retten
+und Midian in deine Hand geben.
+Das ganze übrige Volk soll gehen, jeder an seinen Ort.“
+<sup>8</sup>Da nahm das Volk den Proviant und die Hörner in ihre Hand.
+Und er schickte alle übrigen Männer Israels zu ihren Zelten.
+Nur die dreihundert Mann behielt er bei sich.
+Und das Lager Midians lag unter ihm in der Ebene.
+
+> **Was bedeutet das?**
+> Normalerweise will man vor einem Krieg so viele Soldaten wie möglich. Gott macht es umgekehrt: Er schickt fast alle nach Hause. Von 32.000 bleiben nur 300 übrig. Warum? Damit Israel nicht sagen kann: „Wir haben aus eigener Kraft gesiegt.“ Es soll klar sein: Gott hat den Sieg geschenkt.
+> Wer Angst hat, darf nach Hause gehen. So stand es auch im Gesetz für den Krieg (5. Mose 20,8).
+> Wie genau die Prüfung am Wasser ablief, ist nicht ganz klar. Wahrscheinlich: Die 300 schöpften Wasser mit der Hand und leckten es aus der Hand. Die anderen knieten sich hin und tranken direkt aus dem Wasser. Viele Ausleger meinen, die Auswahl hatte nichts damit zu tun, wer besser kämpfen kann. Gott wollte einfach eine kleine Zahl.
+> Paulus schreibt später: „Gottes Kraft ist in den Schwachen mächtig“ (2. Korinther 12,9). Diese Geschichte zeigt das sehr anschaulich.
+
+---
+
+### Ein Traum im Lager der Feinde (Vers 9–15)
+
+<sup>9</sup>In derselben Nacht sagte der HERR zu ihm:
+„Steh auf, geh hinab ins Lager, denn ich habe es in deine Hand gegeben.
+<sup>10</sup>Wenn du aber Angst hast hinabzugehen,
+dann geh mit deinem Diener Pura hinab zum Lager.
+<sup>11</sup>Du wirst hören, was sie reden.
+Danach werden deine Hände stark sein, um ins Lager hinabzugehen.“
+Da ging er mit seinem Diener Pura hinab bis zum Rand der Bewaffneten im Lager.
+<sup>12</sup>Die Midianiter, die Amalekiter und alle Völker des Ostens lagen in der Ebene,
+so zahlreich wie die Heuschrecken.
+Und ihre Kamele waren nicht zu zählen, so zahlreich wie der Sand am Ufer des Meeres.
+<sup>13</sup>Als Gideon dort ankam, schaut:
+Da erzählte gerade ein Mann seinem Kameraden einen Traum.
+Er sagte: „Schau, ich hatte einen Traum.
+Und schau: Ein Fladen Gerstenbrot rollte in das Lager Midians.
+Er kam bis zum Zelt und stieß dagegen, sodass es umfiel.
+Er drehte es um, sodass das Zelt flach am Boden lag.“
+<sup>14</sup>Sein Kamerad antwortete:
+„Das ist nichts anderes als das Schwert Gideons, des Sohnes von Joasch, eines Mannes aus Israel.
+Gott hat Midian und das ganze Heer in seine Hand gegeben.“
+<sup>15</sup>Als Gideon die Erzählung des Traumes und seine Deutung hörte, betete er an.
+Dann kehrte er ins Lager Israels zurück und sagte:
+„Steht auf! Denn der HERR hat das Heer Midians in eure Hand gegeben!“
+
+> **Was bedeutet das?**
+> Gott kennt Gideons Angst. Er sagt nicht: „Hab keine Angst!“, sondern: „Wenn du Angst hast, nimm deinen Diener mit.“ Gott geht liebevoll auf Gideons Schwäche ein.
+> Gerstenbrot war das Brot der armen Leute. Das kleine, arme Israel ist wie ein Brotfladen, der das große Zelt der Feinde umwirft.
+> Die Feinde haben selbst schon Angst vor Gideon. Das gibt Gideon Mut. Bevor er etwas anderes tut, betet er Gott an.
+
+---
+
+### Krüge, Fackeln und Hörner (Vers 16–22)
+
+<sup>16</sup>Er teilte die dreihundert Mann in drei Gruppen.
+Und er gab ihnen allen Hörner in die Hand und leere Krüge, mit Fackeln in den Krügen.
+<sup>17</sup>Er sagte zu ihnen:
+„Schaut auf mich und macht es genauso.
+Schaut, wenn ich an den Rand des Lagers komme, dann macht ihr es genauso wie ich.
+<sup>18</sup>Wenn ich in das Horn blase, ich und alle, die bei mir sind,
+dann blast auch ihr in die Hörner, rings um das ganze Lager, und ruft:
+‚Für den HERRN und für Gideon!‘“
+<sup>19</sup>Da kamen Gideon und die hundert Mann, die bei ihm waren, an den Rand des Lagers,
+zu Beginn der mittleren Nachtwache, als man gerade erst die Wachen aufgestellt hatte.
+Sie bliesen in die Hörner und zerschlugen die Krüge, die sie in den Händen hatten.
+<sup>20</sup>Die drei Gruppen bliesen in die Hörner und zerbrachen die Krüge.
+In der linken Hand hielten sie die Fackeln und in der rechten Hand die Hörner, um zu blasen.
+Und sie riefen: „Das Schwert des HERRN und Gideons!“
+<sup>21</sup>Jeder blieb an seinem Platz rings um das Lager stehen.
+Da lief das ganze Heer durcheinander.
+Sie schrien und flohen.
+<sup>22</sup>Die dreihundert bliesen in die Hörner.
+Und der HERR richtete das Schwert eines jeden gegen seinen Kameraden, im ganzen Heer.
+Und das Heer floh bis Bet-Schitta in Richtung Zerera, bis zur Grenze von Abel-Mehola bei Tabbat.
+
+> **Was bedeutet das?**
+> Was für eine seltsame Bewaffnung: Hörner, Krüge und Fackeln. Kein einziges Schwert wird erwähnt!
+> Der Plan: Mitten in der Nacht, als die Wachen gerade gewechselt hatten, zerschlagen die Männer die Krüge. Plötzlich leuchten dreihundert Fackeln ringsum auf. Dreihundert Hörner dröhnen. Normalerweise hatte nur ein Anführer ein Horn, für hundert Soldaten. Die Feinde dachten also: Da ist ein riesiges Heer!
+> In der Dunkelheit und Panik kämpfen die Feinde gegeneinander. Gott verwirrt sie, und sie fliehen.
+> Die „mittlere Nachtwache“ war etwa um Mitternacht. Damals teilte man die Nacht in drei Wachen.
+> Viele Christen sehen ein schönes Bild darin: Erst wenn der Krug zerbricht, kann das Licht leuchten (siehe auch 2. Korinther 4,6–7).
+
+---
+
+### Die Verfolgung (Vers 23–25)
+
+<sup>23</sup>Die Männer Israels aus Naftali, aus Asser und aus ganz Manasse wurden zusammengerufen
+und verfolgten Midian.
+<sup>24</sup>Gideon schickte Boten in das ganze Bergland Efraim und ließ sagen:
+„Kommt herab, Midian entgegen,
+und besetzt vor ihnen die Wasser bis nach Bet-Bara, auch den Jordan!“
+Da wurden alle Männer Efraims zusammengerufen,
+und sie besetzten die Wasser bis Bet-Bara und den Jordan.
+<sup>25</sup>Sie nahmen die zwei Fürsten Midians gefangen, Oreb und Seeb.
+Oreb töteten sie am Felsen Oreb, und Seeb töteten sie an der Weinpresse Seeb,
+während sie Midian verfolgten.
+Und die Köpfe von Oreb und Seeb brachten sie zu Gideon jenseits des Jordan.
+
+> **Was bedeutet das?**
+> Jetzt kommen doch noch viele Männer dazu, um die fliehenden Feinde zu verfolgen. Aber der eigentliche Sieg war schon geschenkt.
+> „Oreb“ bedeutet „Rabe“, „Seeb“ bedeutet „Wolf“. Die Orte wurden später nach ihnen benannt.
+> Das Abschlagen der Köpfe ist grausam. Es war damals ein Beweis für den Sieg. Der Prophet Jesaja erinnert später an diesen Tag als großes Beispiel für Gottes Rettung (Jesaja 9,3; 10,26).
+
+## Richter – Kapitel 8
+#### Gideons Sieg und sein Ende
+
+---
+
+### Gideon beruhigt Efraim (Vers 1–3)
+
+<sup>1</sup>Die Männer Efraims sagten zu ihm:
+„Was hast du uns da angetan, dass du uns nicht gerufen hast, als du gegen Midian in den Kampf zogst?“
+Und sie stritten heftig mit ihm.
+<sup>2</sup>Er sagte zu ihnen:
+„Was habe ich denn jetzt im Vergleich zu euch getan?
+Ist nicht die Nachlese Efraims besser als die ganze Weinlese Abiësers?
+<sup>3</sup>Gott hat die Fürsten Midians, Oreb und Seeb, in eure Hand gegeben!
+Was konnte ich denn im Vergleich zu euch tun?“
+Als er das gesagt hatte, legte sich ihr Zorn gegen ihn.
+
+> **Was bedeutet das?**
+> Efraim war ein großer, stolzer Stamm. Er fühlt sich übergangen. Gideon antwortet klug und bescheiden: Ihr habt doch viel mehr erreicht als ich! Selbst eure „Nachlese“, also die Reste nach der Ernte, ist mehr wert als unsere ganze Ernte.
+> Ein Sprichwort sagt: „Eine sanfte Antwort stillt den Zorn“ (Sprüche 15,1). Gideon verhindert so einen Streit unter Brüdern.
+
+---
+
+### Sukkot und Penuël verweigern Hilfe (Vers 4–9)
+
+<sup>4</sup>Gideon kam an den Jordan und zog hinüber,
+er und die dreihundert Mann, die bei ihm waren.
+Sie waren erschöpft, aber sie verfolgten die Feinde weiter.
+<sup>5</sup>Er sagte zu den Männern von Sukkot:
+„Gebt doch dem Volk, das mir folgt, Brote.
+Denn sie sind erschöpft, und ich verfolge Sebach und Zalmunna, die Könige von Midian.“
+<sup>6</sup>Die Anführer von Sukkot sagten:
+„Hast du die Hände von Sebach und Zalmunna schon in deiner Hand,
+dass wir deinem Heer Brot geben sollten?“
+<sup>7</sup>Gideon sagte:
+„Darum: Wenn der HERR Sebach und Zalmunna in meine Hand gegeben hat,
+dann will ich euer Fleisch mit den Dornen der Wüste und mit Disteln dreschen.“
+<sup>8</sup>Von dort zog er hinauf nach Penuël und redete ebenso mit ihnen.
+Und die Männer von Penuël antworteten ihm genauso, wie die Männer von Sukkot geantwortet hatten.
+<sup>9</sup>Da sagte er auch zu den Männern von Penuël:
+„Wenn ich in Frieden zurückkomme, dann reiße ich diesen Turm nieder.“
+
+> **Was bedeutet das?**
+> Sukkot und Penuël waren Städte der Israeliten östlich des Jordan. Trotzdem weigern sie sich, ihren erschöpften Brüdern Brot zu geben. Sie haben Angst: Wenn Gideon verliert, rächen sich die Midianiter an ihnen.
+> „Die Hände in der Hand haben“: Damals hackte man besiegten Feinden manchmal die Hände ab, als Beweis. Die Anführer von Sukkot spotten also: Hast du sie schon besiegt?
+> Gideon wird zornig. Der bescheidene Gideon von vorher ändert sich.
+
+---
+
+### Die Könige Midians werden gefangen (Vers 10–12)
+
+<sup>10</sup>Sebach und Zalmunna waren in Karkor, und ihre Heere mit ihnen,
+etwa 15.000 Mann, alle, die vom ganzen Heer der Völker des Ostens übrig geblieben waren.
+Denn 120.000 Mann, die das Schwert zogen, waren gefallen.
+<sup>11</sup>Gideon zog hinauf auf dem Weg der Zeltbewohner, östlich von Nobach und Jogboha,
+und schlug das Heer, als es sich sicher fühlte.
+<sup>12</sup>Sebach und Zalmunna flohen, und er verfolgte sie.
+Er nahm die beiden Könige von Midian gefangen, Sebach und Zalmunna,
+und versetzte das ganze Heer in Schrecken.
+
+---
+
+### Gideons Rache (Vers 13–21)
+
+<sup>13</sup>Gideon, der Sohn von Joasch, kehrte vom Kampf zurück, über den Aufstieg von Heres.
+<sup>14</sup>Er fing einen jungen Mann von den Männern von Sukkot und fragte ihn aus.
+Der schrieb ihm die Anführer von Sukkot und seine Ältesten auf, 77 Männer.
+<sup>15</sup>Er kam zu den Männern von Sukkot und sagte:
+„Seht hier Sebach und Zalmunna, wegen derer ihr mich verspottet und gesagt habt:
+‚Hast du die Hände von Sebach und Zalmunna schon in deiner Hand,
+dass wir deinen erschöpften Männern Brot geben sollten?‘“
+<sup>16</sup>Er nahm die Ältesten der Stadt und Dornen der Wüste und Disteln,
+und damit lehrte er die Männer von Sukkot eine Lektion.
+<sup>17</sup>Und den Turm von Penuël riss er nieder und tötete die Männer der Stadt.
+<sup>18</sup>Dann sagte er zu Sebach und Zalmunna:
+„Was waren das für Männer, die ihr am Tabor getötet habt?“
+Sie antworteten:
+„Sie waren wie du. Jeder sah aus wie ein Königssohn.“
+<sup>19</sup>Er sagte:
+„Das waren meine Brüder, die Söhne meiner Mutter.
+So wahr der HERR lebt: Wenn ihr sie am Leben gelassen hättet, würde ich euch nicht töten.“
+<sup>20</sup>Er sagte zu Jeter, seinem Erstgeborenen:
+„Steh auf und töte sie!“
+Aber der Junge zog sein Schwert nicht.
+Denn er hatte Angst, weil er noch jung war.
+<sup>21</sup>Da sagten Sebach und Zalmunna:
+„Steh du auf und stoß uns nieder.
+Denn wie der Mann ist, so ist seine Kraft.“
+Da stand Gideon auf und tötete Sebach und Zalmunna.
+Und er nahm die Halbmonde, die an den Hälsen ihrer Kamele hingen.
+
+> **Was bedeutet das?**
+> Ein interessantes Detail: Ein einfacher junger Mann konnte die Namen aufschreiben. Schon damals konnten also nicht nur Priester und Gelehrte schreiben.
+> „Er lehrte sie eine Lektion“: So steht es in der englischen Vorlage. In anderen Handschriften steht „er drosch sie“. Gemeint ist: Er bestrafte sie hart mit Dornen.
+> Jetzt wird klar: Gideon kämpft nicht mehr nur für Israel, sondern auch aus persönlicher Rache. Die Könige hatten seine Brüder getötet. Und gegen die eigenen Landsleute in Sukkot und Penuël geht er mit großer Gewalt vor. Der Held von Kapitel 7 zeigt hier eine dunkle Seite. Die Bibel verschweigt das nicht.
+> Gideon will seinen jungen Sohn zum Töten bringen. Aber der Junge hat Angst. Das zeigt: Gewalt ist nichts, was man Kindern beibringen sollte.
+> Die „Halbmonde“ waren Schmuck in Form von Mondsicheln. Sie hatten oft eine religiöse Bedeutung, der Mond war ein Gott.
+
+---
+
+### Gideon lehnt die Krone ab (Vers 22–23)
+
+<sup>22</sup>Da sagten die Männer Israels zu Gideon:
+„Herrsche über uns, du und dein Sohn und auch dein Enkel.
+Denn du hast uns aus der Hand Midians gerettet.“
+<sup>23</sup>Gideon sagte zu ihnen:
+„Ich will nicht über euch herrschen,
+und auch mein Sohn soll nicht über euch herrschen.
+Der HERR soll über euch herrschen.“
+
+> **Was bedeutet das?**
+> Das Volk will Gideon zum König machen, mit seiner ganzen Familie. Aber Gideon sagt einen großartigen Satz: „Der HERR soll über euch herrschen.“
+> Er hat verstanden: Nicht er hat das Volk gerettet, sondern Gott. Gott allein ist der wahre König Israels.
+> Leider handelt er gleich danach anders, als er redet.
+
+---
+
+### Das goldene Efod (Vers 24–28)
+
+<sup>24</sup>Gideon sagte zu ihnen:
+„Ich habe eine Bitte an euch:
+Jeder von euch soll mir die Ohrringe aus seiner Beute geben.“
+(Denn die Feinde hatten goldene Ohrringe, weil sie Ismaeliter waren.)
+<sup>25</sup>Sie antworteten: „Wir geben sie gern.“
+Sie breiteten ein Gewand aus,
+und jeder warf die Ohrringe aus seiner Beute darauf.
+<sup>26</sup>Das Gewicht der goldenen Ohrringe, um die er gebeten hatte, war etwa 19 Kilogramm Gold,
+dazu die Halbmonde, die Ohrgehänge und die purpurnen Kleider, die die Könige von Midian getragen hatten,
+und dazu die Ketten an den Hälsen ihrer Kamele.
+<sup>27</sup>Gideon machte daraus ein Efod und stellte es in seiner Stadt Ofra auf.
+Und ganz Israel ließ sich dort mit ihm ein, wie Prostituierte es tun.
+Und es wurde Gideon und seinem Haus zur Falle.
+<sup>28</sup>So wurde Midian vor den Israeliten gedemütigt,
+und sie erhoben ihren Kopf nicht mehr.
+Und das Land hatte vierzig Jahre Ruhe in den Tagen Gideons.
+
+> **Was bedeutet das?**
+> In der Bibel steht: 1700 Schekel Gold. Ein Schekel sind etwa 11 Gramm.
+> „Ismaeliter“ werden hier die Midianiter genannt. Beide Völker waren Nomaden aus der Wüste. Manchmal werden die Namen in der Bibel für dieselben Leute gebraucht (siehe 1. Mose 37,25–28).
+> Ein „Efod“ war ein Kleidungsstück des Hohenpriesters, mit dem man Gottes Willen erfragte (2. Mose 28). Gideon machte sich ein eigenes Efod aus Gold. Vielleicht wollte er Gott ehren. Aber es wurde zu einem Götzenbild. Die Menschen verehrten es statt Gott.
+> Das ist die Tragik Gideons: Er sagte „Der HERR soll herrschen“, aber er schuf selbst etwas, das die Menschen von Gott weglockte. Gut gemeint ist nicht immer gut.
+> Trotzdem: Vierzig Jahre Frieden. Gott hat Israel durch Gideon wirklich gerettet.
+
+---
+
+### Gideons Tod (Vers 29–35)
+
+<sup>29</sup>Jerubbaal, der Sohn von Joasch, ging hin und wohnte in seinem Haus.
+<sup>30</sup>Gideon hatte siebzig Söhne, die von ihm abstammten, denn er hatte viele Frauen.
+<sup>31</sup>Auch seine Nebenfrau, die in Sichem lebte, gebar ihm einen Sohn.
+Und er gab ihm den Namen Abimelech.
+<sup>32</sup>Gideon, der Sohn von Joasch, starb in einem guten, hohen Alter.
+Er wurde im Grab seines Vaters Joasch begraben, in Ofra, das den Abiësritern gehört.
+<sup>33</sup>Sobald Gideon gestorben war, fielen die Israeliten wieder ab.
+Sie ließen sich wie Prostituierte mit den Baalen ein
+und machten Baal-Berit zu ihrem Gott.
+<sup>34</sup>Die Israeliten dachten nicht mehr an den HERRN, ihren Gott,
+der sie aus der Hand aller ihrer Feinde ringsum gerettet hatte.
+<sup>35</sup>Und sie erwiesen dem Haus Jerubbaals, also Gideons, keine Güte
+für all das Gute, das er Israel getan hatte.
+
+> **Was bedeutet das?**
+> Gideon lehnte die Krone ab, aber er lebte wie ein König: viele Frauen, siebzig Söhne, großer Reichtum. Und er nannte einen Sohn „Abimelech“, das bedeutet „Mein Vater ist König“. Was für ein Name!
+> Eine „Nebenfrau“ war eine Frau, die mit einem Mann zusammenlebte, aber weniger Rechte als eine Ehefrau hatte.
+> Kaum ist Gideon tot, beginnt der Kreislauf von Neuem. „Baal-Berit“ bedeutet „Herr des Bundes“. Das Volk schließt einen Bund mit einem falschen Gott statt mit dem wahren Gott.
+> Das nächste Kapitel erzählt, was aus Abimelech wird.
+
+## Richter – Kapitel 9
+#### Abimelech, der falsche König
+
+---
+
+### Abimelech ermordet seine Brüder (Vers 1–6)
+
+<sup>1</sup>Abimelech, der Sohn Jerubbaals, ging nach Sichem zu den Brüdern seiner Mutter.
+Er redete mit ihnen und mit der ganzen Sippe der Familie seines Großvaters mütterlicherseits und sagte:
+<sup>2</sup>„Sagt doch allen Bürgern von Sichem:
+‚Was ist besser für euch:
+dass siebzig Männer, alle Söhne Jerubbaals, über euch herrschen,
+oder dass einer über euch herrscht?‘
+Denkt auch daran, dass ich euer Fleisch und Blut bin.“
+<sup>3</sup>Die Brüder seiner Mutter sagten all diese Worte über ihn allen Bürgern von Sichem.
+Da neigte sich ihr Herz Abimelech zu,
+denn sie sagten: „Er ist unser Bruder.“
+<sup>4</sup>Sie gaben ihm siebzig Silberstücke aus dem Tempel des Baal-Berit.
+Damit warb Abimelech nichtsnutzige und leichtsinnige Männer an, die ihm folgten.
+<sup>5</sup>Er ging in das Haus seines Vaters nach Ofra
+und ermordete seine Brüder, die Söhne Jerubbaals, siebzig Männer, auf einem einzigen Stein.
+Nur Jotam, der jüngste Sohn Jerubbaals, blieb übrig, denn er hatte sich versteckt.
+<sup>6</sup>Da versammelten sich alle Bürger von Sichem und das ganze Haus Millo.
+Sie gingen hin und machten Abimelech zum König bei der Eiche am Gedenkstein in Sichem.
+
+> **Was bedeutet das?**
+> Abimelech war der Sohn von Gideons Nebenfrau aus Sichem. Er will König werden, obwohl sein Vater die Krone abgelehnt hatte.
+> Er spielt mit der Herkunft: „Ich bin einer von euch.“ Die Leute in Sichem unterstützen ihn, weil er „ihr Bruder“ ist.
+> Das Geld kommt aus dem Tempel eines falschen Gottes. Und damit bezahlt er eine Bande von Schlägern.
+> Dann geschieht ein schreckliches Verbrechen: Er ermordet siebzig seiner eigenen Brüder „auf einem einzigen Stein“, wie bei einer Hinrichtung. Nur der jüngste, Jotam, kann sich verstecken.
+> Die Bibel erzählt diese Geschichte als Warnung: So sieht Macht aus, die nicht von Gott kommt, sondern auf Gewalt und Lügen gebaut ist.
+> „Das Haus Millo“ war wohl eine Festung oder ein Stadtteil von Sichem.
+
+---
+
+### Jotams Fabel von den Bäumen (Vers 7–21)
+
+<sup>7</sup>Als man das Jotam berichtete, ging er hin und stellte sich auf den Gipfel des Berges Garizim.
+Er erhob seine Stimme, rief und sagte zu ihnen:
+„Hört mir zu, ihr Bürger von Sichem, damit Gott auch auf euch hört!
+<sup>8</sup>Die Bäume machten sich einmal auf, um einen König über sich zu salben.
+Sie sagten zum Olivenbaum: ‚Sei du König über uns!‘
+<sup>9</sup>Aber der Olivenbaum sagte zu ihnen:
+‚Soll ich mein Öl aufgeben, mit dem man durch mich Gott und Menschen ehrt,
+und hingehen, um über den Bäumen hin und her zu schwanken?‘
+<sup>10</sup>Da sagten die Bäume zum Feigenbaum: ‚Komm du, sei König über uns!‘
+<sup>11</sup>Aber der Feigenbaum sagte zu ihnen:
+‚Soll ich meine Süße und meine gute Frucht aufgeben
+und hingehen, um über den Bäumen hin und her zu schwanken?‘
+<sup>12</sup>Da sagten die Bäume zum Weinstock: ‚Komm du, sei König über uns!‘
+<sup>13</sup>Aber der Weinstock sagte zu ihnen:
+‚Soll ich meinen neuen Wein aufgeben, der Gott und Menschen fröhlich macht,
+und hingehen, um über den Bäumen hin und her zu schwanken?‘
+<sup>14</sup>Da sagten alle Bäume zum Dornstrauch: ‚Komm du, sei König über uns!‘
+<sup>15</sup>Der Dornstrauch sagte zu den Bäumen:
+‚Wenn ihr mich wirklich zum König über euch salben wollt,
+dann kommt und sucht Schutz in meinem Schatten.
+Wenn nicht, dann soll Feuer aus dem Dornstrauch kommen
+und die Zedern des Libanon verzehren.‘
+
+> **Was bedeutet das?**
+> Das ist eine Fabel, eine Geschichte, in der Pflanzen sprechen. Es ist eine der ältesten Fabeln der Welt.
+> Die guten Bäume, Olivenbaum, Feigenbaum und Weinstock, wollen nicht König sein. Sie haben Wichtigeres zu tun: Sie bringen Öl, Feigen und Wein hervor, sie machen das Leben gut. Nur der nutzlose Dornstrauch will König sein.
+> Der Dornstrauch bietet Schatten an. Aber ein Dornstrauch hat gar keinen Schatten! Und er droht: Wer nicht gehorcht, den verbrenne ich. Dornen fangen leicht Feuer und können einen ganzen Wald in Brand setzen.
+> Die Botschaft: Gute Menschen wollen oft keine Macht. Gerade die Nutzlosen und Gefährlichen drängen sich nach oben. Und wer ihnen folgt, wird verbrannt. Diese Fabel ist eine der frühesten Kritiken an falscher Macht in der Weltliteratur.
+
+<sup>16</sup>Und nun: Habt ihr ehrlich und aufrichtig gehandelt, als ihr Abimelech zum König gemacht habt?
+Habt ihr gut an Jerubbaal und seinem Haus gehandelt,
+und habt ihr ihm getan, was seine Taten verdient haben?
+<sup>17</sup>(Denn mein Vater hat für euch gekämpft, er hat sein Leben aufs Spiel gesetzt
+und euch aus der Hand Midians gerettet.
+<sup>18</sup>Aber ihr seid heute gegen das Haus meines Vaters aufgestanden
+und habt seine Söhne ermordet, siebzig Männer, auf einem einzigen Stein.
+Und ihr habt Abimelech, den Sohn seiner Magd, zum König über die Bürger von Sichem gemacht,
+weil er euer Bruder ist.)
+<sup>19</sup>Wenn ihr heute ehrlich und aufrichtig an Jerubbaal und seinem Haus gehandelt habt,
+dann freut euch über Abimelech, und er soll sich auch über euch freuen.
+<sup>20</sup>Wenn aber nicht, dann soll Feuer aus Abimelech kommen
+und die Bürger von Sichem und das Haus Millo verzehren.
+Und Feuer soll aus den Bürgern von Sichem und aus dem Haus Millo kommen
+und Abimelech verzehren.“
+<sup>21</sup>Dann lief Jotam weg und floh.
+Er ging nach Beer und wohnte dort, aus Angst vor seinem Bruder Abimelech.
+
+> **Was bedeutet das?**
+> Jotam erklärt die Fabel: Ihr habt meinen Vater betrogen, der für euch sein Leben riskiert hat. Wenn das richtig war, dann viel Glück mit eurem König! Aber wenn nicht, dann werdet ihr euch gegenseitig zerstören, wie Feuer.
+> Das ist wie ein Fluch. Und er wird sich erfüllen, wie der Rest des Kapitels zeigt.
+
+---
+
+### Streit zwischen Abimelech und Sichem (Vers 22–29)
+
+<sup>22</sup>Abimelech herrschte drei Jahre über Israel.
+<sup>23</sup>Dann schickte Gott einen bösen Geist zwischen Abimelech und die Bürger von Sichem.
+Und die Bürger von Sichem wurden Abimelech untreu,
+<sup>24</sup>damit die Gewalttat an den siebzig Söhnen Jerubbaals vergolten würde
+und ihr Blut auf ihren Bruder Abimelech käme, der sie ermordet hatte,
+und auf die Bürger von Sichem, die ihm die Hände gestärkt hatten, um seine Brüder zu ermorden.
+<sup>25</sup>Die Bürger von Sichem legten ihm einen Hinterhalt auf den Gipfeln der Berge.
+Sie raubten alle aus, die auf dem Weg an ihnen vorbeikamen.
+Und das wurde Abimelech berichtet.
+<sup>26</sup>Da kam Gaal, der Sohn von Ebed, mit seinen Brüdern und zog nach Sichem.
+Und die Bürger von Sichem vertrauten ihm.
+<sup>27</sup>Sie gingen hinaus aufs Feld, ernteten ihre Weinberge, kelterten die Trauben und feierten ein Fest.
+Sie gingen in das Haus ihres Gottes, aßen und tranken und verfluchten Abimelech.
+<sup>28</sup>Gaal, der Sohn von Ebed, sagte:
+„Wer ist Abimelech, und wer ist Sichem, dass wir ihm dienen sollten?
+Ist er nicht der Sohn Jerubbaals? Und ist nicht Sebul sein Beamter?
+Dient den Männern von Hamor, dem Vater von Sichem!
+Aber warum sollten wir ihm dienen?
+<sup>29</sup>Wenn dieses Volk doch unter meiner Hand wäre!
+Dann würde ich Abimelech beseitigen.“
+Und er sagte zu Abimelech: „Vergrößere dein Heer und komm heraus!“
+
+> **Was bedeutet das?**
+> „Gott schickte einen bösen Geist“: Das bedeutet, Gott ließ Streit und Misstrauen zwischen ihnen entstehen. Wer auf Verrat und Mord baut, erntet Verrat. Das ist Gottes Gerechtigkeit.
+> Sichem und Abimelech hatten sich gegen Gideons Familie verbündet. Jetzt wenden sie sich gegeneinander. Gaal ist ein Angeber, der bei einem Fest mit viel Wein große Reden hält.
+> „Hamor, der Vater von Sichem“: Hamor war der alte kanaanitische Herrscher von Sichem (1. Mose 34). Gaal will sagen: Wir sind echte Sichemiter. Was haben wir mit diesem halben Israeliten zu tun?
+
+---
+
+### Abimelech schlägt Gaal (Vers 30–41)
+
+<sup>30</sup>Als Sebul, der Stadtoberste, die Worte Gaals, des Sohnes von Ebed, hörte, wurde er zornig.
+<sup>31</sup>Er schickte heimlich Boten zu Abimelech und ließ ihm sagen:
+„Schau, Gaal, der Sohn von Ebed, und seine Brüder sind nach Sichem gekommen.
+Und schau, sie hetzen die Stadt gegen dich auf.
+<sup>32</sup>Darum mach dich jetzt in der Nacht auf, du und das Volk, das bei dir ist,
+und legt euch auf dem Feld auf die Lauer.
+<sup>33</sup>Und am Morgen, sobald die Sonne aufgeht, steh früh auf und überfalle die Stadt.
+Und schau, wenn er und das Volk, das bei ihm ist, gegen dich herauskommen,
+dann tu mit ihm, was du kannst.“
+<sup>34</sup>Da machte sich Abimelech in der Nacht auf, mit dem ganzen Volk, das bei ihm war,
+und sie legten sich in vier Gruppen gegen Sichem auf die Lauer.
+<sup>35</sup>Gaal, der Sohn von Ebed, ging hinaus und stellte sich an den Eingang des Stadttores.
+Da brachen Abimelech und das Volk, das bei ihm war, aus dem Hinterhalt auf.
+<sup>36</sup>Als Gaal das Volk sah, sagte er zu Sebul:
+„Schau, da kommt Volk von den Gipfeln der Berge herab.“
+Sebul sagte zu ihm:
+„Du siehst die Schatten der Berge für Männer an.“
+<sup>37</sup>Gaal redete weiter und sagte:
+„Schau, da kommt Volk von der Mitte des Landes herab,
+und eine Gruppe kommt auf dem Weg von der Eiche der Wahrsager.“
+<sup>38</sup>Da sagte Sebul zu ihm:
+„Wo ist jetzt dein großes Maul, mit dem du gesagt hast:
+‚Wer ist Abimelech, dass wir ihm dienen sollten?‘
+Ist das nicht das Volk, das du verachtet hast?
+Geh doch jetzt hinaus und kämpfe gegen sie!“
+<sup>39</sup>Da zog Gaal vor den Bürgern von Sichem hinaus und kämpfte gegen Abimelech.
+<sup>40</sup>Abimelech verfolgte ihn, und er floh vor ihm.
+Und viele fielen verwundet bis an den Eingang des Tores.
+<sup>41</sup>Abimelech blieb in Aruma.
+Und Sebul vertrieb Gaal und seine Brüder, sodass sie nicht mehr in Sichem wohnen konnten.
+
+> **Was bedeutet das?**
+> Sebul spielt ein doppeltes Spiel. Er hält Gaal hin, bis es zu spät ist. Erst sagt er: „Das sind nur Schatten.“ Dann spottet er: „Wo ist jetzt dein großes Maul?“
+> „Die Eiche der Wahrsager“: So heißt der Ort auf Hebräisch, „Elon Meonenim“. Die englische Vorlage schreibt „die Eiche von Meonenim“.
+
+---
+
+### Abimelech zerstört Sichem (Vers 42–49)
+
+<sup>42</sup>Am nächsten Tag ging das Volk hinaus aufs Feld.
+Und man berichtete es Abimelech.
+<sup>43</sup>Er nahm das Volk, teilte es in drei Gruppen und legte sich auf dem Feld auf die Lauer.
+Er schaute, und schaut: Das Volk kam aus der Stadt heraus.
+Da stand er gegen sie auf und schlug sie.
+<sup>44</sup>Abimelech und die Gruppen, die bei ihm waren, stürmten vor
+und stellten sich an den Eingang des Stadttores.
+Und die zwei anderen Gruppen stürzten sich auf alle, die auf dem Feld waren, und schlugen sie.
+<sup>45</sup>Abimelech kämpfte den ganzen Tag gegen die Stadt.
+Er nahm die Stadt ein und tötete das Volk, das darin war.
+Er riss die Stadt nieder und bestreute sie mit Salz.
+<sup>46</sup>Als alle Bürger des Turmes von Sichem das hörten,
+gingen sie in die Burg des Tempels von El-Berit.
+<sup>47</sup>Man berichtete Abimelech, dass alle Bürger des Turmes von Sichem dort versammelt waren.
+<sup>48</sup>Da stieg Abimelech auf den Berg Zalmon, er und das ganze Volk, das bei ihm war.
+Abimelech nahm eine Axt in seine Hand, hieb einen Ast von den Bäumen ab,
+hob ihn hoch und legte ihn auf seine Schulter.
+Und er sagte zu dem Volk, das bei ihm war:
+„Was ihr mich habt tun sehen, das tut schnell genauso wie ich!“
+<sup>49</sup>Da hieb auch das ganze Volk jeder einen Ast ab, und sie folgten Abimelech.
+Sie legten die Äste an die Burg und steckten die Burg über ihnen in Brand.
+So starben auch alle Leute vom Turm von Sichem, etwa tausend Männer und Frauen.
+
+> **Was bedeutet das?**
+> Abimelech zerstört die Stadt, die ihn zum König gemacht hat. Er streut Salz auf die Trümmer, damit dort nichts mehr wächst. Das war ein Zeichen: Diese Stadt soll für immer verflucht sein.
+> Dann verbrennt er tausend Menschen, Männer und Frauen, die sich im Tempel versteckt hatten. Das ist ein furchtbares Massaker.
+> Jotams Fluch erfüllt sich: Feuer ist aus Abimelech gekommen und hat die Bürger von Sichem verzehrt. Genau wie bei dem Dornstrauch in der Fabel.
+> „El-Berit“ bedeutet „Gott des Bundes“, wohl derselbe Gott wie „Baal-Berit“ (Vers 4). Ausgerechnet der Tempel, aus dem das Geld für den Brudermord kam, wird zur Todesfalle.
+
+---
+
+### Abimelechs Tod (Vers 50–57)
+
+<sup>50</sup>Dann zog Abimelech nach Tebez, belagerte Tebez und nahm es ein.
+<sup>51</sup>Aber mitten in der Stadt war ein starker Turm.
+Dorthin flohen alle Männer und Frauen, alle Bürger der Stadt.
+Sie schlossen sich ein und stiegen auf das Dach des Turmes.
+<sup>52</sup>Abimelech kam zum Turm und kämpfte gegen ihn.
+Er ging nahe an die Tür des Turmes heran, um ihn mit Feuer zu verbrennen.
+<sup>53</sup>Da warf eine Frau einen oberen Mühlstein auf Abimelechs Kopf
+und zerschmetterte ihm den Schädel.
+<sup>54</sup>Da rief er schnell den jungen Mann, der seine Waffen trug, und sagte zu ihm:
+„Zieh dein Schwert und töte mich,
+damit man nicht von mir sagt: ‚Eine Frau hat ihn umgebracht.‘“
+Da durchbohrte ihn sein junger Mann, und er starb.
+<sup>55</sup>Als die Männer Israels sahen, dass Abimelech tot war,
+gingen sie alle nach Hause, jeder an seinen Ort.
+<sup>56</sup>So vergalt Gott Abimelech das Böse, das er seinem Vater angetan hatte,
+als er seine siebzig Brüder ermordete.
+<sup>57</sup>Und alles Böse der Männer von Sichem ließ Gott auf ihren eigenen Kopf zurückfallen.
+Und der Fluch Jotams, des Sohnes Jerubbaals, kam über sie.
+
+> **Was bedeutet das?**
+> Abimelech will dasselbe in Tebez tun wie in Sichem: einen Turm voller Menschen verbrennen. Aber diesmal wird er gestoppt, von einer namenlosen Frau mit einem Mühlstein.
+> Ein Mühlstein war ein schwerer, runder Stein, mit dem Frauen jeden Tag Getreide mahlten. Ein Werkzeug aus der Küche besiegt den Tyrannen.
+> Abimelech ist sogar im Sterben noch stolz: Niemand soll sagen, dass eine Frau ihn getötet hat. Aber die Bibel erzählt es trotzdem, und viele Jahre später erinnert man sich noch genau daran (2. Samuel 11,21).
+> Am Ende steht klar: Gott hat die Gerechtigkeit wiederhergestellt. Abimelech, der seine Brüder auf einem Stein ermordete, wird selbst durch einen Stein getötet. Wer Gewalt sät, wird Gewalt ernten.
