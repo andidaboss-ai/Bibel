@@ -33640,3 +33640,470 @@ und Isai wurde der Vater von David.
 > Das Buch hat eine wichtige Botschaft über Fremde: Rut ist eine Moabiterin, aus einem Volk, das in Israel wenig angesehen war. Und doch wird gerade sie ein Vorbild für Treue und die Urgroßmutter des großen Königs David. Gott fragt nicht nach Herkunft, sondern nach dem Herzen. Das Buch lädt dazu ein, Fremde mit Güte aufzunehmen.
 > Nach dem dunklen Buch der Richter zeigt das Buch Rut: Auch in schweren Zeiten gibt es Menschen, die das Gute tun. Und Gott baut durch sie seine Zukunft.
 > Die nächsten Bücher, 1. und 2. Samuel, erzählen, wie aus dem Urenkel von Rut der König David wird.
+
+
+---
+
+# 1. Samuel
+
+## 1. Samuel – Kapitel 1
+#### Hanna betet um ein Kind
+
+---
+
+### Bevor es losgeht: Was ist das 1. Buch Samuel?
+
+Die Bücher Samuel erzählen, wie Israel ein Königreich wird. Am Anfang regieren noch Richter und Priester. Am Ende ist David König.
+Ursprünglich waren das 1. und das 2. Buch Samuel ein einziges Buch. Erst später wurde es in zwei Teile geteilt.
+Das 1. Buch Samuel erzählt von drei großen Personen:
+Samuel ist der letzte Richter und ein großer Prophet. Er salbt die ersten beiden Könige.
+Saul ist der erste König Israels. Er beginnt gut, aber er gehorcht Gott nicht und scheitert.
+David ist ein junger Hirte, den Gott erwählt. Er besiegt Goliat. Saul verfolgt ihn lange, aber am Ende wird David König.
+Das Buch ist voller spannender und menschlicher Geschichten: Freundschaft, Eifersucht, Krieg, Gebet und Verrat. Es zeigt ehrlich die Stärken und Schwächen der Menschen.
+Eine wichtige Frage im Buch ist: Was macht einen guten Anführer aus? Die Antwort steht in einem berühmten Satz: „Der Mensch sieht, was vor Augen ist; aber der HERR sieht das Herz an“ (1. Samuel 16,7).
+Das Buch beginnt aber nicht mit einem König, sondern mit einer Frau, die weint und betet: Hanna.
+
+---
+
+### Elkana und seine zwei Frauen (Vers 1–8)
+
+<sup>1</sup>Es war ein Mann aus Ramatajim-Zofim im Bergland Efraim.
+Sein Name war Elkana.
+Er war der Sohn von Jeroham, dem Sohn von Elihu, dem Sohn von Tohu, dem Sohn von Zuf, ein Efraimiter.
+<sup>2</sup>Er hatte zwei Frauen.
+Der Name der einen war Hanna, und der Name der anderen war Peninna.
+Peninna hatte Kinder, aber Hanna hatte keine Kinder.
+<sup>3</sup>Dieser Mann zog Jahr für Jahr aus seiner Stadt hinauf,
+um den HERRN der Heere in Schilo anzubeten und ihm zu opfern.
+Dort waren die beiden Söhne von Eli, Hofni und Pinhas, Priester für den HERRN.
+<sup>4</sup>Wenn der Tag kam, an dem Elkana opferte,
+gab er seiner Frau Peninna und allen ihren Söhnen und Töchtern Anteile vom Opfer.
+<sup>5</sup>Aber Hanna gab er einen doppelten Anteil,
+denn er liebte Hanna.
+Aber der HERR hatte ihren Mutterleib verschlossen.
+<sup>6</sup>Ihre Rivalin kränkte sie schwer, um sie zu ärgern,
+weil der HERR ihren Mutterleib verschlossen hatte.
+<sup>7</sup>So ging es Jahr für Jahr:
+Wenn sie zum Haus des HERRN hinaufzog, kränkte die Rivalin sie.
+Darum weinte sie und aß nichts.
+<sup>8</sup>Ihr Mann Elkana sagte zu ihr:
+„Hanna, warum weinst du?
+Warum isst du nicht?
+Warum ist dein Herz so traurig?
+Bin ich dir nicht mehr wert als zehn Söhne?“
+
+> **Was bedeutet das?**
+> Ramatajim-Zofim wird in Vers 19 kurz „Rama“ genannt. Es lag im Bergland nördlich von Jerusalem.
+> Elkana hat zwei Frauen. Das war damals erlaubt, aber die Bibel zeigt oft, wie viel Streit und Leid das brachte, wie schon bei Sara und Hagar oder bei Rahel und Lea.
+> „Der HERR der Heere“ heißt auf Hebräisch „JHWH Zebaot“. Dieser Name für Gott kommt hier zum ersten Mal in der Bibel vor. Er bedeutet: Gott ist der Herr über alle Mächte im Himmel und auf der Erde. In der englischen Vorlage steht „Yahweh der Armeen“.
+> In Schilo stand damals das Heiligtum mit der Bundeslade. Dorthin zog man einmal im Jahr zum großen Fest.
+> Kinderlos zu sein war damals ein großes Leid und eine Schande. Viele dachten, Gott hätte die Frau bestraft. Peninna nutzt das aus und verletzt Hanna, gerade bei den Festen.
+> Elkana liebt Hanna. Aber er versteht ihren Schmerz nicht ganz. Er meint es gut, doch seine Frage „Bin ich dir nicht mehr wert als zehn Söhne?“ tröstet sie nicht.
+
+---
+
+### Hannas Gebet (Vers 9–18)
+
+<sup>9</sup>Nachdem sie in Schilo gegessen und getrunken hatten, stand Hanna auf.
+Eli, der Priester, saß gerade auf seinem Stuhl am Türpfosten des Tempels des HERRN.
+<sup>10</sup>Sie war in bitterem Kummer.
+Sie betete zum HERRN und weinte sehr.
+<sup>11</sup>Sie legte ein Gelübde ab und sagte:
+„HERR der Heere,
+wenn du wirklich das Elend deiner Dienerin ansiehst
+und an mich denkst und deine Dienerin nicht vergisst,
+sondern deiner Dienerin einen Sohn schenkst,
+dann will ich ihn dem HERRN geben, alle Tage seines Lebens.
+Und kein Rasiermesser soll auf seinen Kopf kommen.“
+
+<sup>12</sup>Während sie lange vor dem HERRN betete,
+beobachtete Eli ihren Mund.
+<sup>13</sup>Hanna redete nämlich in ihrem Herzen.
+Nur ihre Lippen bewegten sich, aber ihre Stimme war nicht zu hören.
+Darum dachte Eli, sie sei betrunken.
+<sup>14</sup>Eli sagte zu ihr:
+„Wie lange willst du noch betrunken sein?
+Schaff deinen Wein weg!“
+<sup>15</sup>Hanna antwortete:
+„Nein, mein Herr.
+Ich bin eine Frau mit einem betrübten Geist.
+Ich habe keinen Wein und kein starkes Getränk getrunken.
+Sondern ich habe meine Seele vor dem HERRN ausgeschüttet.
+<sup>16</sup>Halte deine Dienerin nicht für eine schlechte Frau.
+Denn ich habe aus meinem großen Kummer und meiner Kränkung heraus geredet.“
+<sup>17</sup>Da antwortete Eli:
+„Geh in Frieden.
+Der Gott Israels gebe dir, worum du ihn gebeten hast.“
+<sup>18</sup>Sie sagte:
+„Lass deine Dienerin Gnade finden in deinen Augen.“
+Dann ging die Frau ihren Weg und aß.
+Und ihr Gesicht war nicht mehr traurig.
+
+> **Was bedeutet das?**
+> Der „Tempel“ in Schilo war noch kein großes Gebäude wie später in Jerusalem, aber wohl ein festes Heiligtum mit Türen (Kapitel 3,15).
+> Hanna geht mit ihrem Schmerz direkt zu Gott. Sie verspricht: Wenn du mir einen Sohn schenkst, dann gebe ich ihn dir zurück. Er soll sein ganzes Leben Gott dienen. „Kein Rasiermesser“ heißt: Er soll ein Nasiräer sein, wie Simson (Richter 13,5).
+> Damals betete man meistens laut. Hanna betet leise, nur im Herzen. Eli versteht das nicht und hält sie für betrunken. Der Priester, der eigentlich helfen sollte, beschuldigt sie.
+> Aber Hanna bleibt höflich und erklärt sich. „Meine Seele vor dem HERRN ausschütten“ ist ein schönes Bild für ehrliches Beten: Man sagt Gott alles, was im Herzen ist.
+> Danach ist Hanna verändert. Sie weiß noch nicht, ob sie ein Kind bekommt. Aber sie hat ihre Last bei Gott abgegeben. Sie kann wieder essen.
+
+---
+
+### Samuel wird geboren (Vers 19–20)
+
+<sup>19</sup>Sie standen am Morgen früh auf und beteten den HERRN an.
+Dann kehrten sie zurück und kamen in ihr Haus nach Rama.
+Elkana erkannte seine Frau Hanna,
+und der HERR dachte an sie.
+<sup>20</sup>Als die Zeit gekommen war, wurde Hanna schwanger und bekam einen Sohn.
+Sie gab ihm den Namen Samuel.
+Denn sie sagte: „Ich habe ihn vom HERRN erbeten.“
+
+> **Was bedeutet das?**
+> „Erkennen“ ist in der Bibel ein Wort für die Liebe zwischen Mann und Frau.
+> „Der HERR dachte an sie“: Gott hat Hanna nicht vergessen. Das hatte sie in ihrem Gebet erbeten (Vers 11).
+> Der Name „Samuel“ klingt auf Hebräisch ähnlich wie das Wort „erbeten“ (scha’al). Der Name selbst bedeutet wohl „Name Gottes“ oder „Gott hat gehört“. Jedes Mal, wenn Hanna ihren Sohn ruft, erinnert sie sich daran: Gott hat mein Gebet erhört.
+
+---
+
+### Hanna bringt Samuel nach Schilo (Vers 21–28)
+
+<sup>21</sup>Der Mann Elkana und seine ganze Familie zogen hinauf,
+um dem HERRN das jährliche Opfer zu bringen und sein Gelübde zu erfüllen.
+<sup>22</sup>Aber Hanna zog nicht mit hinauf.
+Denn sie sagte zu ihrem Mann:
+„Erst wenn das Kind entwöhnt ist.
+Dann will ich es bringen, damit es vor dem HERRN erscheint und für immer dort bleibt.“
+<sup>23</sup>Ihr Mann Elkana sagte zu ihr:
+„Tu, was dir gut erscheint.
+Bleib, bis du ihn entwöhnt hast.
+Nur möge der HERR sein Wort bestätigen.“
+So blieb die Frau und stillte ihren Sohn, bis sie ihn entwöhnt hatte.
+
+<sup>24</sup>Als sie ihn entwöhnt hatte, nahm sie ihn mit hinauf,
+mit drei Stieren, etwa 22 Litern Mehl und einem Gefäß mit Wein.
+Sie brachte ihn in das Haus des HERRN in Schilo.
+Das Kind war noch jung.
+<sup>25</sup>Sie schlachteten den Stier
+und brachten das Kind zu Eli.
+<sup>26</sup>Sie sagte:
+„Ach, mein Herr, so wahr du lebst, mein Herr:
+Ich bin die Frau, die hier bei dir stand, um zum HERRN zu beten.
+<sup>27</sup>Um dieses Kind habe ich gebetet.
+Und der HERR hat mir meine Bitte erfüllt, um die ich ihn gebeten habe.
+<sup>28</sup>Darum gebe auch ich ihn dem HERRN.
+Solange er lebt, ist er dem HERRN gegeben.“
+Und er betete dort den HERRN an.
+
+> **Was bedeutet das?**
+> Ein Kind wurde damals oft zwei bis drei Jahre lang gestillt. Erst dann bringt Hanna Samuel nach Schilo. Das ist ein großes Opfer für eine Mutter, die so lange auf ein Kind gewartet hat. Aber sie hält ihr Versprechen.
+> In der Bibel steht „ein Efa Mehl“. Ein Efa sind etwa 22 Liter.
+> In Vers 24 steht „drei Stiere“, in Vers 25 „den Stier“. Eine alte Handschrift vom Toten Meer und die alte griechische Übersetzung haben in Vers 24: „einen dreijährigen Stier“. Das passt besser zu Vers 25.
+> In den Versen 27 und 28 spielt Hanna mit dem hebräischen Wort „scha’al“: Ich habe ihn „erbeten“, darum „gebe ich ihn zurück“ (wörtlich: „leihe ich ihn aus“) an den HERRN.
+> „Er betete an“: Gemeint ist wohl Elkana oder der kleine Samuel. Manche Handschriften haben „sie beteten an“.
+
+## 1. Samuel – Kapitel 2
+#### Hannas Lied und die bösen Söhne Elis
+
+---
+
+### Hannas Loblied (Vers 1–10)
+
+<sup>1</sup>Hanna betete und sagte:
+„Mein Herz jubelt über den HERRN!
+Mein Horn ist erhöht durch den HERRN.
+Mein Mund ist weit geöffnet gegen meine Feinde,
+denn ich freue mich über deine Rettung.
+<sup>2</sup>Niemand ist so heilig wie der HERR.
+Denn außer dir gibt es keinen.
+Und es gibt keinen Felsen wie unseren Gott.
+
+<sup>3</sup>Redet nicht mehr so überheblich.
+Lasst keine Frechheit aus eurem Mund kommen.
+Denn der HERR ist ein Gott, der alles weiß.
+Von ihm werden die Taten gewogen.
+
+<sup>4</sup>Die Bogen der Starken sind zerbrochen.
+Die gestolpert sind, werden mit Kraft ausgerüstet.
+<sup>5</sup>Die satt waren, verdingen sich um Brot.
+Die hungrig waren, werden satt.
+Ja, die Unfruchtbare hat sieben Kinder geboren.
+Und die viele Kinder hat, welkt dahin.
+
+<sup>6</sup>Der HERR tötet und macht lebendig.
+Er führt hinab ins Totenreich und führt herauf.
+<sup>7</sup>Der HERR macht arm und macht reich.
+Er erniedrigt, und er erhöht auch.
+<sup>8</sup>Er hebt den Armen aus dem Staub empor.
+Er holt den Bedürftigen vom Misthaufen,
+um ihn neben die Fürsten zu setzen
+und ihn den Thron der Ehre erben zu lassen.
+Denn die Säulen der Erde gehören dem HERRN.
+Er hat die Welt auf sie gestellt.
+<sup>9</sup>Er wird die Füße seiner Heiligen behüten.
+Aber die Gottlosen werden in der Finsternis zum Schweigen gebracht.
+Denn kein Mensch wird durch eigene Stärke siegen.
+<sup>10</sup>Die mit dem HERRN streiten, werden zerschmettert.
+Er wird gegen sie am Himmel donnern.
+Der HERR wird die Enden der Erde richten.
+Er wird seinem König Kraft geben
+und das Horn seines Gesalbten erhöhen.“
+
+> **Was bedeutet das?**
+> Hanna singt ein Danklied. Aber es ist viel mehr als ein persönlicher Dank für ein Kind. Es ist ein Lied über Gott, der die Welt auf den Kopf stellt: Die Starken werden schwach, die Schwachen stark. Die Satten hungern, die Hungrigen werden satt. Die Armen sitzen bei den Fürsten.
+> Das „Horn“ ist ein Bild für Kraft und Würde, wie das Horn eines starken Stiers. „Mein Horn ist erhöht“ heißt: Ich bin nicht mehr gedemütigt, ich kann den Kopf wieder heben.
+> „Fels“ ist ein Bild für Gott: Er ist fest und zuverlässig, ein sicherer Halt.
+> „Totenreich“ heißt auf Hebräisch „Scheol“. Hanna sagt: Gott hat Macht über Leben und Tod.
+> „Die Unfruchtbare hat sieben Kinder“: Sieben ist eine Zahl für Fülle. Hanna bekommt später insgesamt sechs Kinder (Vers 21).
+> Am Ende spricht Hanna von einem „König“ und einem „Gesalbten“. Dabei hat Israel noch gar keinen König. Das Lied schaut voraus auf die Zeit der Könige, auf David. Das hebräische Wort für „Gesalbter“ ist „Maschiach“, Messias. Christen sehen darin einen Hinweis auf Jesus, den „Christus“, das ist das griechische Wort für „Gesalbter“.
+> Maria, die Mutter von Jesus, singt im Neuen Testament ein Lied, das diesem Lied sehr ähnlich ist (Lukas 1,46–55).
+
+---
+
+### Die bösen Söhne Elis (Vers 11–17)
+
+<sup>11</sup>Elkana ging nach Rama in sein Haus.
+Und der Junge diente dem HERRN vor Eli, dem Priester.
+<sup>12</sup>Aber die Söhne Elis waren böse Männer.
+Sie kannten den HERRN nicht.
+<sup>13</sup>Die Priester hatten mit dem Volk folgenden Brauch:
+Wenn jemand ein Opfer brachte, kam der Diener des Priesters,
+während das Fleisch kochte,
+mit einer dreizinkigen Gabel in der Hand.
+<sup>14</sup>Er stach damit in die Pfanne, in den Kessel, in den Topf oder in den Kochtopf.
+Alles, was die Gabel heraufbrachte, nahm der Priester für sich.
+So machten sie es mit allen Israeliten, die dorthin nach Schilo kamen.
+<sup>15</sup>Ja, noch bevor man das Fett verbrannte,
+kam der Diener des Priesters und sagte zu dem Mann, der opferte:
+„Gib Fleisch zum Braten für den Priester.
+Denn er nimmt von dir kein gekochtes Fleisch an, sondern nur rohes.“
+<sup>16</sup>Wenn der Mann zu ihm sagte:
+„Zuerst soll das Fett verbrannt werden, dann nimm, so viel du willst“,
+dann sagte er:
+„Nein, du sollst es mir jetzt geben.
+Sonst nehme ich es mit Gewalt.“
+<sup>17</sup>Die Sünde der jungen Männer war sehr groß vor dem HERRN.
+Denn die Männer verachteten das Opfer des HERRN.
+
+> **Was bedeutet das?**
+> Nach der wunderschönen Geschichte von Hanna kommt ein harter Gegensatz: Die Priester in Schilo sind böse.
+> „Sie kannten den HERRN nicht“: Sie waren Priester, sie arbeiteten jeden Tag im Heiligtum, aber sie hatten keine echte Beziehung zu Gott.
+> Das Gesetz legte genau fest, welchen Teil eines Opfers die Priester bekommen sollten (3. Mose 7,31–34). Und das Fett gehörte zuerst Gott, es musste auf dem Altar verbrannt werden (3. Mose 3,16). Die Söhne Elis nehmen sich aber, was sie wollen, sogar vor Gott und sogar mit Gewalt.
+> Sie missbrauchen ihr heiliges Amt, um sich selbst zu bereichern. Und sie schrecken die Menschen ab, die Gott ehren wollen. Das ist besonders schlimm.
+
+---
+
+### Samuel wächst heran (Vers 18–21)
+
+<sup>18</sup>Aber Samuel diente vor dem HERRN, noch ein Kind,
+mit einem leinenen Efod bekleidet.
+<sup>19</sup>Seine Mutter machte ihm auch einen kleinen Mantel.
+Den brachte sie ihm Jahr für Jahr,
+wenn sie mit ihrem Mann hinaufkam, um das jährliche Opfer zu bringen.
+<sup>20</sup>Eli segnete Elkana und seine Frau und sagte:
+„Der HERR gebe dir Nachkommen von dieser Frau,
+für die Bitte, die vom HERRN erbeten wurde.“
+Dann gingen sie in ihr Zuhause.
+<sup>21</sup>Der HERR besuchte Hanna,
+und sie wurde schwanger und bekam drei Söhne und zwei Töchter.
+Und der Junge Samuel wuchs heran vor dem HERRN.
+
+> **Was bedeutet das?**
+> Ein „Efod“ war hier ein einfaches Priestergewand aus Leinen. Der kleine Samuel trägt schon die Kleidung eines Dieners im Heiligtum.
+> Jedes Jahr bringt Hanna ihm einen neuen, etwas größeren Mantel. Darin steckt die ganze Liebe einer Mutter, die ihr Kind nur einmal im Jahr sehen kann.
+> Eli wünscht Hanna weitere Kinder, weil sie ihre Bitte, ihren erbetenen Sohn, dem HERRN gegeben hat.
+> Gott beschenkt Hanna reich: Sie bekommt noch fünf Kinder. Wer Gott gibt, wird nicht ärmer.
+> Der Erzähler wechselt immer hin und her: die bösen Söhne Elis, dann der gute Samuel. So sieht man den Unterschied deutlich.
+
+---
+
+### Eli warnt seine Söhne (Vers 22–26)
+
+<sup>22</sup>Eli war sehr alt.
+Er hörte alles, was seine Söhne ganz Israel antaten,
+und dass sie mit den Frauen schliefen,
+die am Eingang des Zeltes der Begegnung Dienst taten.
+<sup>23</sup>Er sagte zu ihnen:
+„Warum tut ihr solche Dinge?
+Denn ich höre von all diesen Leuten von euren bösen Taten.
+<sup>24</sup>Nein, meine Söhne.
+Was ich da höre, ist kein gutes Gerücht.
+Ihr bringt das Volk des HERRN zum Ungehorsam.
+<sup>25</sup>Wenn ein Mensch gegen einen anderen sündigt, wird Gott ihn richten.
+Aber wenn ein Mensch gegen den HERRN sündigt, wer wird dann für ihn eintreten?“
+Aber sie hörten nicht auf die Stimme ihres Vaters.
+Denn der HERR hatte beschlossen, sie zu töten.
+<sup>26</sup>Der Junge Samuel wuchs weiter heran
+und gewann Gunst beim HERRN und auch bei den Menschen.
+
+> **Was bedeutet das?**
+> Die Söhne Elis missbrauchen auch die Frauen, die am Heiligtum dienen. Sie nutzen ihre Macht als Priester aus. Das ist ein schweres Verbrechen.
+> Eine alte Handschrift vom Toten Meer und die alte griechische Übersetzung haben den Satz über die Frauen nicht. Er steht aber im hebräischen Text, dem die englische Vorlage folgt.
+> Eli ermahnt seine Söhne. Aber er tut nicht mehr. Er ist der oberste Priester, er hätte sie absetzen können und müssen. Er tut es nicht.
+> Vers 25 ist schwer: „Der HERR hatte beschlossen, sie zu töten.“ Das heißt nicht, dass Gott sie zum Bösen gezwungen hat. Sie hatten sich lange gegen Gott entschieden. Jetzt war die Zeit vorbei, und das Gericht stand fest. Die Bibel zeigt oft: Wer sich immer wieder gegen Gott verhärtet, kann irgendwann nicht mehr umkehren.
+> Vers 26 klingt fast genauso wie ein Satz über Jesus als Kind (Lukas 2,52).
+
+---
+
+### Ein Prophet kündigt Gericht an (Vers 27–36)
+
+<sup>27</sup>Ein Mann Gottes kam zu Eli und sagte zu ihm:
+„So spricht der HERR:
+‚Habe ich mich nicht dem Haus deines Vaters offenbart,
+als sie in Ägypten Sklaven im Haus des Pharao waren?
+<sup>28</sup>Habe ich ihn nicht aus allen Stämmen Israels erwählt, mein Priester zu sein,
+auf meinen Altar zu steigen, Weihrauch zu verbrennen
+und vor mir ein Efod zu tragen?
+Habe ich nicht dem Haus deines Vaters alle Feueropfer der Israeliten gegeben?
+<sup>29</sup>Warum tretet ihr mit Füßen nach meinem Schlachtopfer und nach meinem Speiseopfer,
+die ich in meiner Wohnung befohlen habe?
+Und warum ehrst du deine Söhne mehr als mich,
+sodass ihr euch mästet mit dem Besten von allen Opfern meines Volkes Israel?‘
+
+<sup>30</sup>Darum spricht der HERR, der Gott Israels:
+‚Ich habe zwar gesagt, dass dein Haus und das Haus deines Vaters für immer vor mir wandeln sollen.‘
+Aber jetzt spricht der HERR:
+‚Das sei fern von mir.
+Denn die mich ehren, die will ich ehren.
+Und die mich verachten, sollen verflucht sein.
+<sup>31</sup>Schau, es kommen Tage, da werde ich deinen Arm abhauen
+und den Arm des Hauses deines Vaters,
+sodass es in deinem Haus keinen alten Mann mehr gibt.
+<sup>32</sup>Du wirst die Not meiner Wohnung sehen,
+bei allem Guten, das ich Israel geben werde.
+In deinem Haus wird es für immer keinen alten Mann mehr geben.
+<sup>33</sup>Der Mann von dir, den ich nicht von meinem Altar ausrotte,
+wird deine Augen verzehren und dein Herz betrüben.
+Und alle Nachkommen deines Hauses werden in der Blüte ihres Lebens sterben.
+<sup>34</sup>Und das wird dir das Zeichen sein, das über deine beiden Söhne kommt,
+über Hofni und Pinhas:
+An einem einzigen Tag werden sie beide sterben.
+<sup>35</sup>Ich will mir einen treuen Priester erwecken,
+der tun wird, was in meinem Herzen und in meinem Sinn ist.
+Ich will ihm ein beständiges Haus bauen.
+Er wird für immer vor meinem Gesalbten wandeln.
+<sup>36</sup>Und es wird geschehen:
+Jeder, der in deinem Haus übrig bleibt,
+wird kommen und sich vor ihm niederwerfen um ein Silberstück und ein Brot.
+Und er wird sagen:
+„Bitte gib mir eine Stelle bei den Priestern,
+damit ich einen Bissen Brot zu essen habe.“‘“
+
+> **Was bedeutet das?**
+> Ein Prophet ohne Namen kommt zu Eli. Er erinnert ihn: Gott hat deine Familie, die Familie Aarons, aus Gnade zu Priestern gemacht.
+> „Warum ehrst du deine Söhne mehr als mich?“ Eli hat seine Söhne nicht gestoppt, weil sie seine Söhne waren. Und er hat wohl selbst von dem Fleisch gegessen. Der Text sagt: „ihr mästet euch“.
+> Vers 30 ist ein wichtiger Satz: „Die mich ehren, die will ich ehren.“ Gottes Versprechen sind kein Freibrief. Wer Gott verachtet, kann sich nicht auf seine Herkunft verlassen.
+> Was hier angekündigt wird, erfüllt sich später Schritt für Schritt: Hofni und Pinhas sterben an einem einzigen Tag (Kapitel 4). Später werden fast alle Priester aus Elis Familie in der Stadt Nob getötet (Kapitel 22). Nur einer, Abjatar, überlebt. Ihn setzt König Salomo später ab (1. Könige 2,27).
+> Der „treue Priester“ ist wohl zuerst Samuel und später Zadok, der unter Salomo Hohepriester wird. Christen sehen darin auch einen Hinweis auf Jesus, den treuen Hohenpriester (Hebräer 2,17).
+
+## 1. Samuel – Kapitel 3
+#### Gott ruft Samuel
+
+---
+
+### Eine Stimme in der Nacht (Vers 1–10)
+
+<sup>1</sup>Der Junge Samuel diente dem HERRN vor Eli.
+Das Wort des HERRN war selten in jenen Tagen.
+Es gab damals nicht viele Visionen.
+<sup>2</sup>Zu dieser Zeit lag Eli an seinem Platz.
+Seine Augen waren schwach geworden, sodass er nicht mehr sehen konnte.
+<sup>3</sup>Die Lampe Gottes war noch nicht erloschen.
+Und Samuel lag im Tempel des HERRN, wo die Lade Gottes war.
+<sup>4</sup>Da rief der HERR Samuel.
+Er sagte: „Hier bin ich.“
+<sup>5</sup>Er lief zu Eli und sagte:
+„Hier bin ich. Du hast mich gerufen.“
+Er sagte: „Ich habe nicht gerufen. Leg dich wieder hin.“
+Er ging und legte sich hin.
+<sup>6</sup>Der HERR rief noch einmal: „Samuel!“
+Samuel stand auf, ging zu Eli und sagte:
+„Hier bin ich. Du hast mich gerufen.“
+Er antwortete: „Ich habe nicht gerufen, mein Sohn. Leg dich wieder hin.“
+<sup>7</sup>Samuel kannte den HERRN noch nicht,
+und das Wort des HERRN war ihm noch nicht offenbart worden.
+<sup>8</sup>Der HERR rief Samuel wieder, zum dritten Mal.
+Er stand auf, ging zu Eli und sagte:
+„Hier bin ich. Du hast mich gerufen.“
+Da merkte Eli, dass der HERR den Jungen rief.
+<sup>9</sup>Darum sagte Eli zu Samuel:
+„Geh, leg dich hin.
+Und wenn er dich ruft, dann sollst du sagen:
+‚Rede, HERR, denn dein Diener hört.‘“
+Da ging Samuel und legte sich an seinen Platz.
+<sup>10</sup>Der HERR kam, trat herzu und rief wie die anderen Male:
+„Samuel! Samuel!“
+Da sagte Samuel:
+„Rede, denn dein Diener hört.“
+
+> **Was bedeutet das?**
+> „Das Wort des HERRN war selten“: Gott sprach in dieser Zeit kaum zu den Menschen. Die Priester waren verdorben, und Eli war alt und fast blind. Die schwachen Augen von Eli sind wie ein Bild: Auch geistlich sieht Israel nicht mehr klar.
+> „Die Lampe Gottes war noch nicht erloschen“: Im Heiligtum brannte ein Leuchter die ganze Nacht, bis zum Morgen (2. Mose 27,20–21). Es war also kurz vor Sonnenaufgang. Man kann das auch als Bild lesen: Das Licht Gottes in Israel war fast erloschen, aber eben noch nicht ganz.
+> Samuel kennt die Stimme Gottes noch nicht. Er denkt, es ist Eli. Dreimal läuft er zu ihm. Erst dann versteht Eli, was geschieht.
+> Eli ist hier ein guter Lehrer: Er zeigt dem Jungen, wie man auf Gott hört. Der Satz „Rede, HERR, denn dein Diener hört“ ist bis heute ein Gebet für viele Menschen, die wissen wollen, was Gott von ihnen will.
+> Interessant: Samuel sagt beim vierten Mal nur „Rede“, ohne das Wort „HERR“. Vielleicht wagt er es noch nicht, Gottes Namen auszusprechen.
+
+---
+
+### Eine schwere Botschaft (Vers 11–14)
+
+<sup>11</sup>Der HERR sagte zu Samuel:
+„Schau, ich will in Israel etwas tun,
+bei dem jedem, der es hört, beide Ohren gellen werden.
+<sup>12</sup>An jenem Tag will ich an Eli alles erfüllen,
+was ich über sein Haus gesagt habe, vom Anfang bis zum Ende.
+<sup>13</sup>Denn ich habe ihm gesagt,
+dass ich sein Haus für immer richten werde wegen der Schuld, von der er wusste.
+Denn seine Söhne haben einen Fluch über sich gebracht,
+und er hat sie nicht davon abgehalten.
+<sup>14</sup>Darum habe ich dem Haus Eli geschworen:
+Die Schuld des Hauses Eli soll niemals gesühnt werden,
+weder durch Schlachtopfer noch durch Speiseopfer.“
+
+> **Was bedeutet das?**
+> Die erste Botschaft, die der junge Samuel von Gott bekommt, ist eine schwere Botschaft. Und sie betrifft ausgerechnet Eli, seinen Lehrer, der wie ein Vater für ihn ist.
+> „Die Ohren gellen“ heißt: Es wird so schrecklich sein, dass die Leute erschrecken, wenn sie davon hören.
+> Gott sagt, warum Eli schuldig ist: Er wusste, was seine Söhne taten, und hat sie nicht gestoppt. Wer Verantwortung hat und Unrecht geschehen lässt, macht sich mitschuldig.
+> „Seine Söhne haben einen Fluch über sich gebracht“: So steht es im hebräischen Text. Die alte griechische Übersetzung und viele Ausleger lesen: „Seine Söhne haben Gott verflucht.“ Jüdische Schreiber haben solche Stellen manchmal verändert, damit nicht geschrieben steht, dass jemand Gott verflucht.
+> Die Söhne haben die Opfer missbraucht. Darum kann ihnen auch kein Opfer mehr helfen.
+
+---
+
+### Samuel sagt Eli die Wahrheit (Vers 15–18)
+
+<sup>15</sup>Samuel lag bis zum Morgen.
+Dann öffnete er die Türen des Hauses des HERRN.
+Samuel hatte Angst, Eli die Vision mitzuteilen.
+<sup>16</sup>Da rief Eli Samuel und sagte:
+„Samuel, mein Sohn!“
+Er sagte: „Hier bin ich.“
+<sup>17</sup>Er sagte:
+„Was hat er dir gesagt?
+Bitte verheimliche es mir nicht.
+Gott tue dir dies und noch mehr,
+wenn du mir etwas verheimlichst von allem, was er dir gesagt hat.“
+<sup>18</sup>Da erzählte Samuel ihm alles
+und verheimlichte ihm nichts.
+Er sagte:
+„Es ist der HERR.
+Er soll tun, was ihm gut erscheint.“
+
+> **Was bedeutet das?**
+> Samuel macht morgens seine gewohnte Arbeit: Er öffnet die Türen. Aber er hat Angst. Wie soll er Eli so etwas sagen?
+> Eli besteht darauf, die Wahrheit zu hören. Und Samuel ist ehrlich, auch wenn es schwer ist. Das ist die erste Aufgabe eines Propheten: Gottes Wort weitersagen, ohne etwas wegzulassen.
+> Eli nimmt das Urteil an: „Es ist der HERR.“ Darin liegt Demut. Aber man kann auch fragen: Warum ändert er nichts? Er hätte jetzt noch handeln können.
+
+---
+
+### Samuel wird ein Prophet (Vers 19–21)
+
+<sup>19</sup>Samuel wuchs heran, und der HERR war mit ihm.
+Er ließ keines von seinen Worten zu Boden fallen.
+<sup>20</sup>Ganz Israel, von Dan bis Beerscheba, erkannte,
+dass Samuel als Prophet des HERRN bestätigt war.
+<sup>21</sup>Und der HERR erschien wieder in Schilo.
+Denn der HERR offenbarte sich Samuel in Schilo durch das Wort des HERRN.
+
+> **Was bedeutet das?**
+> „Er ließ keines von seinen Worten zu Boden fallen“: Alles, was Samuel im Namen Gottes sagte, traf ein. Daran erkannte man einen echten Propheten (5. Mose 18,22).
+> „Von Dan bis Beerscheba“ heißt: im ganzen Land, vom Norden bis zum Süden.
+> Am Anfang des Kapitels war das Wort des HERRN selten. Am Ende spricht Gott wieder. Durch einen Jungen, der hören gelernt hat, beginnt eine neue Zeit für Israel.
