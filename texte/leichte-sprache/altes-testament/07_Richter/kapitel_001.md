@@ -8,7 +8,7 @@
 Das Buch der Richter erzählt von der Zeit nach Josua, bevor Israel einen König hatte. Diese Zeit dauerte vielleicht 200 bis 300 Jahre.
 Die „Richter“ waren keine Richter in einem Gericht, wie wir sie heute kennen. Es waren Anführer und Retter, die Gott in Zeiten der Not berief. Sie befreiten das Volk von Feinden. Bekannte Richter sind Debora, eine Frau, Gideon und Simson.
 Das Buch hat ein festes Muster, das sich immer wiederholt: Israel verlässt Gott und dient fremden Göttern. Dann wird es von Feinden unterdrückt. Das Volk schreit zu Gott. Gott schickt einen Retter. Es gibt Frieden. Und dann fängt alles wieder von vorn an.
-Mit jedem Mal wird es schlimmer. Am Ende des Buches ist das Volk in Chaos und Gewalt versunken. Der letzte Satz lautet: „In jenen Tagen gab es keinen König in Israel. Jeder tat, was in seinen eigenen Augen richtig war“ (Richter 21,25).
+Mit jedem Mal wird es schlimmer. Am Ende des Buches ist das Volk in Chaos und Gewalt versunken. Der letzte Satz lautet: „In jenen Tagen gab es keinen König in Israel. Jeder tat, was in seinen eigenen Augen recht war“ (Richter 21,25).
 Das Buch der Richter ist ehrlich. Es zeigt die dunklen Seiten des Volkes Gottes, auch schreckliche Gewalt, besonders gegen Frauen. Wir lassen nichts weg, aber wir erklären es. Die Bibel erzählt diese Geschichten nicht als Vorbild, sondern als Warnung: So sieht es aus, wenn Menschen Gott vergessen.
 Und trotzdem zeigt das Buch: Gott gibt sein Volk nicht auf. Immer wieder hört er auf den Schrei der Menschen und schickt Rettung.
 

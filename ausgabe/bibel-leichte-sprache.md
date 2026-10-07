@@ -29997,7 +29997,7 @@ der ihm im Bergland Efraim gegeben worden war.
 Das Buch der Richter erzählt von der Zeit nach Josua, bevor Israel einen König hatte. Diese Zeit dauerte vielleicht 200 bis 300 Jahre.
 Die „Richter“ waren keine Richter in einem Gericht, wie wir sie heute kennen. Es waren Anführer und Retter, die Gott in Zeiten der Not berief. Sie befreiten das Volk von Feinden. Bekannte Richter sind Debora, eine Frau, Gideon und Simson.
 Das Buch hat ein festes Muster, das sich immer wiederholt: Israel verlässt Gott und dient fremden Göttern. Dann wird es von Feinden unterdrückt. Das Volk schreit zu Gott. Gott schickt einen Retter. Es gibt Frieden. Und dann fängt alles wieder von vorn an.
-Mit jedem Mal wird es schlimmer. Am Ende des Buches ist das Volk in Chaos und Gewalt versunken. Der letzte Satz lautet: „In jenen Tagen gab es keinen König in Israel. Jeder tat, was in seinen eigenen Augen richtig war“ (Richter 21,25).
+Mit jedem Mal wird es schlimmer. Am Ende des Buches ist das Volk in Chaos und Gewalt versunken. Der letzte Satz lautet: „In jenen Tagen gab es keinen König in Israel. Jeder tat, was in seinen eigenen Augen recht war“ (Richter 21,25).
 Das Buch der Richter ist ehrlich. Es zeigt die dunklen Seiten des Volkes Gottes, auch schreckliche Gewalt, besonders gegen Frauen. Wir lassen nichts weg, aber wir erklären es. Die Bibel erzählt diese Geschichten nicht als Vorbild, sondern als Warnung: So sieht es aus, wenn Menschen Gott vergessen.
 Und trotzdem zeigt das Buch: Gott gibt sein Volk nicht auf. Immer wieder hört er auf den Schrei der Menschen und schickt Rettung.
 
@@ -32575,3 +32575,517 @@ Es blieb dort die ganze Zeit, solange das Haus Gottes in Schilo war.
 > Im hebräischen Text steht hier ein kleiner Buchstabe „n“ über der Zeile. So wird aus „Mose“ der Name „Manasse“. Jüdische Ausleger haben gesagt: Das hat man getan, um die Ehre von Mose zu schützen. Die englische Vorlage hat „Mose“.
 > „Die Gefangenschaft des Landes“ meint wohl die Zeit, als die Assyrer den Norden Israels eroberten und Menschen wegführten (2. Könige 15,29; 17,6).
 > Schilo war der Ort, an dem das Zelt Gottes stand, der rechtmäßige Ort des Gottesdienstes (Josua 18,1). Die Daniter hatten also ihren eigenen Gottesdienst, getrennt vom Haus Gottes.
+
+## Richter – Kapitel 19
+#### Das Verbrechen in Gibea
+
+---
+
+### Ein Levit holt seine Nebenfrau zurück (Vers 1–3)
+
+<sup>1</sup>In jenen Tagen, als es keinen König in Israel gab,
+lebte ein Levit am äußersten Ende des Berglandes Efraim.
+Er nahm sich eine Nebenfrau aus Betlehem in Juda.
+<sup>2</sup>Seine Nebenfrau ließ sich wie eine Prostituierte gegen ihn ein
+und ging von ihm weg in das Haus ihres Vaters nach Betlehem in Juda.
+Dort war sie vier Monate lang.
+<sup>3</sup>Ihr Mann machte sich auf und ging ihr nach,
+um freundlich mit ihr zu reden und sie zurückzuholen.
+Er hatte seinen Diener bei sich und zwei Esel.
+Sie brachte ihn in das Haus ihres Vaters.
+Als der Vater der jungen Frau ihn sah, freute er sich, ihn zu treffen.
+
+> **Was bedeutet das?**
+> Jetzt beginnt die dunkelste Geschichte im ganzen Buch der Richter. Sie erzählt von schrecklicher Gewalt gegen eine Frau und von einem Bürgerkrieg in Israel. Sie ist schwer zu lesen. Die Bibel erzählt sie nicht, damit man sie nachahmt, sondern damit man sieht, wie tief Menschen fallen können, wenn sie Gott vergessen.
+> Eine „Nebenfrau“ war eine Frau, die mit einem Mann verheiratet war, aber weniger Rechte hatte als eine Hauptfrau.
+> Vers 2: So steht es in der englischen Vorlage und im hebräischen Text. Die alte griechische Übersetzung sagt: „Sie wurde zornig auf ihn.“ Viele Ausleger meinen, dass das eher passt: Eine Frau, die die Ehe gebrochen hatte, wäre kaum zu ihrem Vater gegangen. Sie hat ihren Mann wohl im Streit verlassen.
+> Der Mann will „freundlich mit ihr reden“, wörtlich „zu ihrem Herzen reden“. Das klingt erst einmal gut.
+
+---
+
+### Der Schwiegervater hält ihn auf (Vers 4–10)
+
+<sup>4</sup>Sein Schwiegervater, der Vater der jungen Frau, hielt ihn fest.
+Er blieb drei Tage bei ihm.
+Sie aßen und tranken und übernachteten dort.
+<sup>5</sup>Am vierten Tag standen sie früh am Morgen auf, und er machte sich auf, um wegzugehen.
+Der Vater der jungen Frau sagte zu seinem Schwiegersohn:
+„Stärke dein Herz mit einem Bissen Brot.
+Danach könnt ihr gehen.“
+<sup>6</sup>So setzten sie sich und aßen und tranken, beide zusammen.
+Dann sagte der Vater der jungen Frau zu dem Mann:
+„Sei doch bitte bereit, über Nacht zu bleiben, und lass dein Herz fröhlich sein.“
+<sup>7</sup>Der Mann stand auf, um wegzugehen.
+Aber sein Schwiegervater drängte ihn, und so übernachtete er wieder dort.
+<sup>8</sup>Am fünften Tag stand er früh am Morgen auf, um wegzugehen.
+Der Vater der jungen Frau sagte:
+„Bitte stärke dein Herz und bleib, bis der Tag sich neigt.“
+Und sie aßen beide.
+<sup>9</sup>Als der Mann aufstand, um wegzugehen, er, seine Nebenfrau und sein Diener,
+sagte sein Schwiegervater, der Vater der jungen Frau, zu ihm:
+„Schau, jetzt wird es schon Abend. Bitte bleib über Nacht.
+Schau, der Tag geht zu Ende.
+Bleib hier, damit dein Herz fröhlich ist.
+Morgen könnt ihr dann früh aufbrechen, damit du nach Hause kommst.“
+<sup>10</sup>Aber der Mann wollte die Nacht nicht bleiben.
+Er stand auf und zog weg und kam in die Nähe von Jebus, das ist Jerusalem.
+Er hatte zwei gesattelte Esel bei sich.
+Auch seine Nebenfrau war bei ihm.
+
+> **Was bedeutet das?**
+> Gastfreundschaft war damals sehr wichtig. Der Vater bewirtet seinen Schwiegersohn Tag für Tag. Vielleicht will er auch die Abreise seiner Tochter hinauszögern.
+> Auffällig ist: Die Männer essen und trinken und reden miteinander. Die Frau wird nicht gefragt. Niemand redet mit ihr.
+> Weil der Mann zu spät aufbricht, müssen sie unterwegs übernachten. Das wird schlimme Folgen haben.
+> Jebus war der alte Name von Jerusalem. Damals wohnten dort noch die Jebusiter. Erst König David eroberte die Stadt (2. Samuel 5).
+
+---
+
+### Die Nacht in Gibea (Vers 11–21)
+
+<sup>11</sup>Als sie bei Jebus waren, war der Tag schon weit vorgerückt.
+Der Diener sagte zu seinem Herrn:
+„Bitte komm, lass uns in diese Stadt der Jebusiter gehen und dort übernachten.“
+<sup>12</sup>Sein Herr sagte zu ihm:
+„Wir gehen nicht in die Stadt von Fremden, die nicht zu den Israeliten gehören.
+Wir ziehen weiter bis Gibea.“
+<sup>13</sup>Er sagte zu seinem Diener:
+„Komm, lass uns zu einem dieser Orte gehen.
+Wir wollen in Gibea oder in Rama übernachten.“
+<sup>14</sup>So zogen sie weiter und gingen ihren Weg.
+Die Sonne ging unter, als sie nahe bei Gibea waren, das zu Benjamin gehört.
+<sup>15</sup>Sie bogen dorthin ab, um in Gibea zu übernachten.
+Er ging hinein und setzte sich auf die Straße der Stadt.
+Denn niemand nahm sie in sein Haus auf, um zu übernachten.
+
+<sup>16</sup>Schau, ein alter Mann kam am Abend von seiner Arbeit auf dem Feld.
+Der Mann war aus dem Bergland Efraim und wohnte als Fremder in Gibea.
+Aber die Leute des Ortes waren Benjaminiter.
+<sup>17</sup>Er blickte auf und sah den Reisenden auf der Straße der Stadt.
+Der alte Mann sagte: „Wohin gehst du? Woher kommst du?“
+<sup>18</sup>Er sagte zu ihm:
+„Wir sind auf dem Weg von Betlehem in Juda zum äußersten Ende des Berglandes Efraim.
+Von dort bin ich, und ich war in Betlehem in Juda.
+Ich gehe zum Haus des HERRN.
+Aber niemand hat mich in sein Haus aufgenommen.
+<sup>19</sup>Dabei haben wir Stroh und Futter für unsere Esel.
+Und wir haben auch Brot und Wein für mich, für deine Dienerin
+und für den jungen Mann, der bei deinen Dienern ist.
+Es fehlt an nichts.“
+<sup>20</sup>Der alte Mann sagte:
+„Friede sei mit dir!
+Lass mich nur für alles sorgen, was du brauchst.
+Aber übernachte nicht auf der Straße.“
+<sup>21</sup>Da brachte er ihn in sein Haus und gab den Eseln Futter.
+Sie wuschen sich die Füße, aßen und tranken.
+
+> **Was bedeutet das?**
+> Der Levit will nicht bei Fremden übernachten. Er denkt: Bei unseren eigenen Leuten in Israel sind wir sicher. Aber es kommt genau umgekehrt.
+> Gibea war eine Stadt des Stammes Benjamin, etwa 5 Kilometer nördlich von Jerusalem. Später war sie die Heimatstadt von König Saul.
+> In der ganzen Stadt nimmt niemand die Reisenden auf. Nur ein alter Mann, der selbst ein Fremder ist, hilft ihnen. Das war damals eine große Schande für eine Stadt.
+> „Ich gehe zum Haus des HERRN“: So steht es im hebräischen Text. Die alte griechische Übersetzung hat: „Ich gehe zu meinem Haus.“
+> Mit „deiner Dienerin“ meint der Levit höflich seine eigene Nebenfrau.
+
+---
+
+### Die Männer der Stadt (Vers 22–26)
+
+<sup>22</sup>Während sie ihre Herzen fröhlich machten,
+schau, da umstellten die Männer der Stadt das Haus, ein paar bösartige Kerle.
+Sie schlugen gegen die Tür
+und sagten zu dem Herrn des Hauses, dem alten Mann:
+„Bring den Mann heraus, der in dein Haus gekommen ist.
+Wir wollen Sex mit ihm haben!“
+<sup>23</sup>Der Mann, der Herr des Hauses, ging zu ihnen hinaus und sagte zu ihnen:
+„Nein, meine Brüder, bitte tut nichts so Böses.
+Dieser Mann ist in mein Haus gekommen.
+Tut nicht diese Schandtat.
+<sup>24</sup>Schaut, hier ist meine Tochter, die noch Jungfrau ist, und seine Nebenfrau.
+Ich will sie jetzt herausbringen.
+Demütigt sie und macht mit ihnen, was euch gefällt.
+Aber diesem Mann tut nicht so eine Schandtat an.“
+<sup>25</sup>Aber die Männer wollten nicht auf ihn hören.
+Da packte der Mann seine Nebenfrau und brachte sie zu ihnen hinaus.
+Sie hatten Sex mit ihr und misshandelten sie die ganze Nacht bis zum Morgen.
+Als die Morgenröte aufging, ließen sie sie gehen.
+<sup>26</sup>Da kam die Frau, als der Morgen dämmerte,
+und fiel an der Tür des Hauses nieder, in dem ihr Herr war.
+Dort lag sie, bis es hell wurde.
+
+> **Was bedeutet das?**
+> Hier geschieht ein entsetzliches Verbrechen. Die Männer wollen den Gast vergewaltigen. Das ist keine Geschichte über Liebe oder Sexualität. Es geht um Gewalt, Erniedrigung und Macht über einen Fremden.
+> Diese Szene ist fast genauso erzählt wie die Geschichte von Sodom (1. Mose 19). Das ist Absicht. Die Bibel sagt damit: Israel ist so schlimm geworden wie Sodom.
+> Aber hier kommt kein Engel und rettet. Der alte Mann bietet seine eigene Tochter und die Nebenfrau an. Und der Levit stößt seine eigene Frau hinaus, um sich selbst zu retten. „Demütigt sie“ meint hier: Vergewaltigt sie.
+> Die ganze Nacht wird die Frau vergewaltigt und misshandelt. Am Morgen schleppt sie sich mit letzter Kraft bis zur Tür. Niemand öffnet ihr.
+> Die Bibel lobt hier keinen einzigen Mann. Das Verhalten der Männer von Gibea, des alten Mannes und des Leviten ist schweres Unrecht. Diese Frau hat keinen Namen. Aber Gott hat ihr Leiden gesehen. Die Bibel hat es aufgeschrieben, damit es nicht vergessen wird.
+> Viele Christen und Juden lesen diese Geschichte heute als Aufruf: Gewalt gegen Frauen darf niemals verschwiegen oder hingenommen werden.
+
+---
+
+### Die zwölf Stücke (Vers 27–30)
+
+<sup>27</sup>Ihr Herr stand am Morgen auf,
+öffnete die Tür des Hauses und ging hinaus, um seinen Weg zu gehen.
+Und schau: Die Frau, seine Nebenfrau, lag an der Tür des Hauses,
+ihre Hände auf der Schwelle.
+<sup>28</sup>Er sagte zu ihr:
+„Steh auf, lass uns gehen!“
+Aber niemand antwortete.
+Da lud er sie auf den Esel.
+Und der Mann machte sich auf und ging an seinen Ort.
+<sup>29</sup>Als er in sein Haus gekommen war,
+nahm er ein Messer und zerschnitt seine Nebenfrau.
+Er zerteilte sie, Glied für Glied, in zwölf Stücke
+und schickte sie in das ganze Gebiet Israels.
+<sup>30</sup>Und jeder, der es sah, sagte:
+„So etwas ist nicht getan und nicht gesehen worden
+seit dem Tag, an dem die Israeliten aus dem Land Ägypten heraufgezogen sind,
+bis zum heutigen Tag!
+Bedenkt es, beratet euch und sprecht!“
+
+> **Was bedeutet das?**
+> Der Levit geht am Morgen hinaus, „um seinen Weg zu gehen“. Er sucht seine Frau nicht. Er findet sie zufällig. Seine Worte sind kalt: „Steh auf, lass uns gehen!“ Kein Wort des Mitleids.
+> „Niemand antwortete“: Der Text sagt nicht genau, ob sie da schon tot war. Die alte griechische Übersetzung sagt ausdrücklich: „denn sie war tot“.
+> Dann zerteilt der Mann ihren Körper in zwölf Stücke, für die zwölf Stämme Israels. So will er ganz Israel aufrütteln. Das ist eine grausame Tat. Selbst nach ihrem Tod wird die Frau noch als Mittel benutzt.
+> Später zerteilt König Saul, der aus Gibea stammt, zwei Rinder und schickt die Stücke durch Israel, um das Volk zum Kampf zu rufen (1. Samuel 11,7).
+> Ganz Israel ist entsetzt. Zu Recht. Aber wie das Volk jetzt reagiert, macht alles noch schlimmer.
+
+## Richter – Kapitel 20
+#### Der Krieg gegen Benjamin
+
+---
+
+### Israel versammelt sich in Mizpa (Vers 1–7)
+
+<sup>1</sup>Da zogen alle Israeliten aus.
+Die Gemeinde versammelte sich wie ein einziger Mann,
+von Dan bis Beerscheba, mit dem Land Gilead,
+zum HERRN nach Mizpa.
+<sup>2</sup>Die Anführer des ganzen Volkes, aller Stämme Israels,
+stellten sich in der Versammlung des Volkes Gottes auf:
+400 000 Mann zu Fuß, die mit dem Schwert kämpften.
+<sup>3</sup>(Die Benjaminiter hörten, dass die Israeliten nach Mizpa hinaufgezogen waren.)
+Die Israeliten sagten:
+„Erzählt uns, wie ist diese böse Tat geschehen?“
+<sup>4</sup>Der Levit, der Mann der Frau, die ermordet worden war, antwortete:
+„Ich kam nach Gibea, das zu Benjamin gehört, ich und meine Nebenfrau,
+um dort zu übernachten.
+<sup>5</sup>Die Männer von Gibea erhoben sich gegen mich
+und umstellten in der Nacht das Haus.
+Sie wollten mich töten.
+Und sie vergewaltigten meine Nebenfrau, und sie ist tot.
+<sup>6</sup>Da nahm ich meine Nebenfrau, zerschnitt sie in Stücke
+und schickte sie in das ganze Land des Erbes Israels.
+Denn sie haben eine Schandtat und eine Torheit in Israel begangen.
+<sup>7</sup>Schaut, ihr Israeliten, ihr alle:
+Gebt hier euren Rat und eure Meinung.“
+
+> **Was bedeutet das?**
+> „Von Dan bis Beerscheba“ heißt: aus dem ganzen Land, vom äußersten Norden bis zum äußersten Süden. Zum ersten Mal im Buch der Richter handelt ganz Israel gemeinsam. Aber nicht gegen einen fremden Feind, sondern gegen einen eigenen Stamm.
+> Mizpa lag im Gebiet von Benjamin, nördlich von Jerusalem.
+> 400 000 Mann ist eine sehr große Zahl. Manche Ausleger meinen, das hebräische Wort für „Tausend“ könnte hier auch „Truppe“ oder „Einheit“ bedeuten. Dann wären es viel weniger Männer gewesen.
+> Der Levit erzählt die Geschichte so, dass er gut dasteht. Er sagt nicht, dass er selbst seine Frau hinausgestoßen hat. Er sagt: „Sie wollten mich töten“, aber in Kapitel 19 wollten die Männer ihn vergewaltigen. Er verschweigt seine eigene Schuld.
+
+---
+
+### Die Benjaminiter liefern die Täter nicht aus (Vers 8–17)
+
+<sup>8</sup>Das ganze Volk stand auf wie ein einziger Mann und sagte:
+„Keiner von uns wird zu seinem Zelt gehen,
+und keiner von uns wird in sein Haus zurückkehren.
+<sup>9</sup>Sondern das ist es, was wir jetzt mit Gibea tun wollen:
+Wir ziehen nach dem Los gegen die Stadt.
+<sup>10</sup>Wir nehmen aus allen Stämmen Israels zehn Männer von hundert,
+hundert von tausend und tausend von zehntausend,
+um Verpflegung für das Volk zu holen.
+Dann sollen sie, wenn sie nach Gibea in Benjamin kommen,
+nach der ganzen Schandtat handeln, die die Männer von Gibea in Israel begangen haben.“
+<sup>11</sup>So versammelten sich alle Männer Israels gegen die Stadt,
+verbunden wie ein einziger Mann.
+
+<sup>12</sup>Die Stämme Israels schickten Männer durch den ganzen Stamm Benjamin und ließen sagen:
+„Was ist das für eine böse Tat, die bei euch geschehen ist?
+<sup>13</sup>Gebt jetzt die Männer heraus, die bösartigen Kerle, die in Gibea sind.
+Dann wollen wir sie töten und das Böse aus Israel wegschaffen.“
+Aber die Benjaminiter wollten nicht auf die Stimme ihrer Brüder, der Israeliten, hören.
+<sup>14</sup>Die Benjaminiter versammelten sich aus den Städten nach Gibea,
+um zum Kampf gegen die Israeliten auszuziehen.
+<sup>15</sup>Die Benjaminiter wurden an diesem Tag gezählt:
+aus den Städten 26 000 Männer, die mit dem Schwert kämpften,
+außer den Bewohnern von Gibea. Von denen wurden 700 ausgewählte Männer gezählt.
+<sup>16</sup>Unter all diesen Soldaten waren 700 ausgewählte Männer, die Linkshänder waren.
+Jeder von ihnen konnte mit der Schleuder einen Stein auf ein Haar schleudern und verfehlte es nicht.
+<sup>17</sup>Die Männer Israels, ohne Benjamin, wurden gezählt:
+400 000 Männer, die mit dem Schwert kämpften.
+Sie alle waren Kriegsleute.
+
+> **Was bedeutet das?**
+> Zuerst handelt Israel richtig: Es fordert nur die Auslieferung der Täter. Nur die Schuldigen sollen bestraft werden, nicht ein ganzer Stamm.
+> Aber Benjamin weigert sich. Der Stamm hält zu den Tätern, nur weil sie zur eigenen Familie gehören. So macht sich der ganze Stamm mitschuldig. Das ist eine Warnung: Wer Verbrecher deckt, weil sie „zu uns“ gehören, wird selbst schuldig.
+> Die Linkshänder erinnern an Ehud, den Richter aus dem Stamm Benjamin, der auch Linkshänder war (Kapitel 3). Die Schleuder war eine gefährliche Waffe. Gut geübte Schleuderer trafen sehr genau.
+> In Vers 15 haben manche alten Handschriften der griechischen Übersetzung 25 000 statt 26 000.
+
+---
+
+### Zwei Niederlagen für Israel (Vers 18–28)
+
+<sup>18</sup>Die Israeliten machten sich auf, zogen hinauf nach Bethel und fragten Gott um Rat.
+Sie fragten:
+„Wer von uns soll als Erster hinaufziehen in den Kampf gegen die Benjaminiter?“
+Der HERR sagte: „Juda als Erster.“
+<sup>19</sup>Die Israeliten machten sich am Morgen auf und lagerten gegenüber von Gibea.
+<sup>20</sup>Die Männer Israels zogen aus zum Kampf gegen Benjamin.
+Die Männer Israels stellten sich bei Gibea gegen sie zum Kampf auf.
+<sup>21</sup>Die Benjaminiter kamen aus Gibea heraus
+und streckten an diesem Tag 22 000 Männer von Israel zu Boden.
+<sup>22</sup>Das Volk, die Männer Israels, machten sich Mut
+und stellten sich wieder zum Kampf auf, an derselben Stelle, wo sie sich am ersten Tag aufgestellt hatten.
+<sup>23</sup>Die Israeliten zogen hinauf und weinten vor dem HERRN bis zum Abend.
+Sie fragten den HERRN:
+„Soll ich noch einmal zum Kampf gegen meinen Bruder Benjamin anrücken?“
+Der HERR sagte: „Zieht gegen ihn hinauf.“
+<sup>24</sup>Die Israeliten rückten am zweiten Tag gegen die Benjaminiter vor.
+<sup>25</sup>Benjamin zog am zweiten Tag aus Gibea gegen sie aus
+und streckte von den Israeliten noch einmal 18 000 Männer zu Boden.
+Sie alle kämpften mit dem Schwert.
+
+<sup>26</sup>Da zogen alle Israeliten und das ganze Volk hinauf und kamen nach Bethel.
+Sie weinten und saßen dort vor dem HERRN.
+Sie fasteten an diesem Tag bis zum Abend.
+Dann brachten sie Brandopfer und Friedensopfer vor dem HERRN dar.
+<sup>27</sup>Die Israeliten befragten den HERRN
+– denn die Bundeslade Gottes war in jenen Tagen dort,
+<sup>28</sup>und Pinhas, der Sohn von Eleasar, dem Sohn von Aaron, stand in jenen Tagen vor ihr –
+und sie fragten:
+„Soll ich noch einmal ausziehen zum Kampf gegen meinen Bruder Benjamin,
+oder soll ich aufhören?“
+Der HERR sagte:
+„Zieht hinauf. Denn morgen will ich ihn in eure Hand geben.“
+
+> **Was bedeutet das?**
+> Die Frage in Vers 18 erinnert an den Anfang des Buches. Dort fragte Israel: Wer soll als Erster gegen die Kanaaniter kämpfen? Und Gott sagte: Juda (Kapitel 1,1–2). Jetzt kämpft Juda nicht gegen fremde Feinde, sondern gegen den Bruderstamm. Das Buch endet, wo es angefangen hat, aber alles ist verkehrt.
+> Israel fragt Gott erst, wer zuerst kämpfen soll, nicht ob sie überhaupt kämpfen sollen. Sie haben ihren Entschluss schon gefasst.
+> Zweimal verliert Israel, obwohl Gott sagt: „Zieht hinauf.“ Das ist schwer zu verstehen. Viele Ausleger meinen: Gott hat damit auch Israel zur Demut geführt. Erst beim dritten Mal weinen sie, fasten und opfern. Erst jetzt fragen sie: „Oder soll ich aufhören?“ Und erst jetzt verspricht Gott den Sieg.
+> Die Bundeslade stand damals in Bethel. Pinhas, der Enkel Aarons, war Priester. Er lebte schon zur Zeit von Mose (4. Mose 25). Das zeigt: Diese Geschichte spielt am Anfang der Richterzeit, nicht am Ende, auch wenn sie im Buch zuletzt erzählt wird.
+> Verluste in Vers 21 und 25: 22 000 und 18 000 Mann, zusammen 40 000.
+
+---
+
+### Der Hinterhalt (Vers 29–36)
+
+<sup>29</sup>Israel legte rings um Gibea Männer in den Hinterhalt.
+<sup>30</sup>Die Israeliten zogen am dritten Tag gegen die Benjaminiter hinauf
+und stellten sich gegen Gibea auf wie die anderen Male.
+<sup>31</sup>Die Benjaminiter zogen aus gegen das Volk und wurden von der Stadt weggelockt.
+Sie fingen an, vom Volk einige zu erschlagen und zu töten wie die anderen Male,
+auf den Straßen, von denen eine nach Bethel hinaufführt und die andere nach Gibea,
+auf dem Feld, etwa dreißig Männer von Israel.
+<sup>32</sup>Die Benjaminiter sagten:
+„Sie werden vor uns geschlagen wie beim ersten Mal.“
+Aber die Israeliten sagten:
+„Lasst uns fliehen und sie von der Stadt weg auf die Straßen locken.“
+<sup>33</sup>Alle Männer Israels machten sich auf von ihrem Platz
+und stellten sich bei Baal-Tamar auf.
+Und die Männer Israels im Hinterhalt brachen aus ihrem Versteck hervor,
+aus Maare-Geba.
+<sup>34</sup>10 000 ausgewählte Männer aus ganz Israel kamen gegen Gibea.
+Der Kampf war schwer.
+Aber die Benjaminiter wussten nicht, dass das Unglück nahe bei ihnen war.
+<sup>35</sup>Der HERR schlug Benjamin vor Israel.
+Und die Israeliten töteten an diesem Tag von Benjamin 25 100 Männer.
+Sie alle kämpften mit dem Schwert.
+<sup>36</sup>So sahen die Benjaminiter, dass sie geschlagen waren.
+Denn die Männer Israels waren vor Benjamin zurückgewichen,
+weil sie sich auf die Männer im Hinterhalt verließen, die sie gegen Gibea aufgestellt hatten.
+
+> **Was bedeutet das?**
+> Israel benutzt dieselbe List wie Josua bei der Stadt Ai (Josua 8): Ein Teil des Heeres tut so, als würde er fliehen. Die Verteidiger verfolgen ihn und lassen ihre Stadt ungeschützt. Dann greifen die Männer aus dem Versteck die Stadt an.
+> Vers 35 fasst das Ende des Kampfes schon im Voraus zusammen. Ab Vers 36 wird dann genauer erzählt, wie es dazu kam.
+> „Der HERR schlug Benjamin“: Die Bibel sagt, dass Gott hier Gericht hält über einen Stamm, der ein schweres Verbrechen gedeckt hat.
+
+---
+
+### Gibea brennt (Vers 37–48)
+
+<sup>37</sup>Die Männer im Hinterhalt beeilten sich und stürmten auf Gibea los.
+Die Männer im Hinterhalt breiteten sich aus
+und schlugen die ganze Stadt mit der Schärfe des Schwertes.
+<sup>38</sup>Zwischen den Männern Israels und den Männern im Hinterhalt war ein Zeichen verabredet:
+Sie sollten eine große Rauchwolke aus der Stadt aufsteigen lassen.
+<sup>39</sup>Die Männer Israels wandten sich im Kampf um.
+Und Benjamin fing an, von den Männern Israels zu erschlagen und zu töten, etwa dreißig Menschen.
+Denn sie sagten:
+„Sie werden ganz sicher vor uns geschlagen wie im ersten Kampf.“
+<sup>40</sup>Aber als die Wolke anfing, wie eine Rauchsäule aus der Stadt aufzusteigen,
+schauten die Benjaminiter hinter sich.
+Und schau: Die ganze Stadt ging in Rauch zum Himmel auf.
+<sup>41</sup>Die Männer Israels kehrten um,
+und die Männer von Benjamin erschraken.
+Denn sie sahen, dass das Unglück über sie gekommen war.
+<sup>42</sup>Darum wandten sie vor den Männern Israels den Rücken
+und flohen auf den Weg zur Wüste.
+Aber der Kampf blieb ihnen dicht auf den Fersen.
+Und die, die aus den Städten kamen, töteten sie mitten darin.
+<sup>43</sup>Sie umzingelten die Benjaminiter, jagten ihnen nach
+und traten sie an ihrem Rastplatz nieder,
+bis in die Nähe von Gibea, nach Osten hin.
+<sup>44</sup>Es fielen 18 000 Männer von Benjamin.
+Sie alle waren tapfere Männer.
+<sup>45</sup>Sie wandten sich und flohen zur Wüste, zum Felsen Rimmon.
+Auf den Straßen hielten die Israeliten Nachlese unter ihnen: 5000 Männer.
+Sie verfolgten sie bis Gidom und erschlugen von ihnen 2000 Männer.
+<sup>46</sup>So waren alle, die an diesem Tag von Benjamin fielen, 25 000 Männer,
+die mit dem Schwert kämpften.
+Sie alle waren tapfere Männer.
+<sup>47</sup>Aber 600 Männer wandten sich und flohen zur Wüste, zum Felsen Rimmon.
+Sie blieben vier Monate lang am Felsen Rimmon.
+<sup>48</sup>Die Männer Israels wandten sich wieder gegen die Benjaminiter
+und schlugen sie mit der Schärfe des Schwertes,
+die ganze Stadt, das Vieh und alles, was sie fanden.
+Auch alle Städte, die sie fanden, steckten sie in Brand.
+
+> **Was bedeutet das?**
+> „Nachlese halten“ ist ein Bild aus der Ernte: Man sammelt auf, was noch übrig ist. Hier ist es ein grausames Bild für das Töten der Fliehenden.
+> Die Zahlen: 18 000 + 5000 + 2000 = 25 000. In Vers 35 steht genauer: 25 100. Vers 46 nennt eine runde Zahl.
+> Nach Vers 15 hatte Benjamin 26 700 Männer. Wenn 25 100 fallen und 600 überleben, fehlen noch etwa 1000. Vielleicht waren sie schon in den ersten zwei Kämpfen gefallen. Die Bibel sagt es nicht.
+> Was in Vers 48 geschieht, ist furchtbar: Israel tötet nicht nur die Soldaten, sondern auch Frauen, Kinder und Tiere in den Städten von Benjamin. Aus einer gerechten Strafe für ein Verbrechen wird eine Rache ohne Maß. Ein ganzer Stamm wird fast ausgelöscht.
+> Die Bibel erzählt das nicht als Vorbild. Das Buch der Richter zeigt in diesen Kapiteln Schritt für Schritt: So weit kommt es, wenn „jeder tut, was in seinen eigenen Augen recht ist“. Niemand darf diese Geschichte benutzen, um Gewalt gegen eine ganze Gruppe zu rechtfertigen.
+
+## Richter – Kapitel 21
+#### Frauen für Benjamin
+
+---
+
+### Ein Stamm droht zu verschwinden (Vers 1–7)
+
+<sup>1</sup>Die Männer Israels hatten in Mizpa geschworen:
+„Keiner von uns wird seine Tochter einem Benjaminiter zur Frau geben.“
+<sup>2</sup>Das Volk kam nach Bethel und saß dort bis zum Abend vor Gott.
+Sie erhoben ihre Stimme und weinten sehr.
+<sup>3</sup>Sie sagten:
+„HERR, Gott Israels, warum ist das in Israel geschehen,
+dass heute ein Stamm in Israel fehlt?“
+<sup>4</sup>Am nächsten Tag stand das Volk früh auf und baute dort einen Altar.
+Sie brachten Brandopfer und Friedensopfer dar.
+<sup>5</sup>Die Israeliten sagten:
+„Wer ist aus allen Stämmen Israels nicht in der Versammlung zum HERRN heraufgekommen?“
+Denn sie hatten einen großen Schwur getan über den, der nicht zum HERRN nach Mizpa heraufkam:
+„Er soll ganz bestimmt getötet werden.“
+<sup>6</sup>Den Israeliten tat ihr Bruder Benjamin leid.
+Sie sagten:
+„Heute ist ein Stamm aus Israel abgeschnitten.
+<sup>7</sup>Wie sollen wir für die, die übrig sind, Frauen beschaffen?
+Wir haben doch beim HERRN geschworen,
+dass wir ihnen keine von unseren Töchtern zur Frau geben.“
+
+> **Was bedeutet das?**
+> Jetzt erst merkt Israel, was es getan hat. Von Benjamin sind nur 600 Männer übrig, und keine Frauen mehr. Einer der zwölf Stämme wird aussterben.
+> Das Volk weint und fragt Gott: „Warum ist das geschehen?“ Aber Israel hat es selbst getan. Die Frage klingt, als wäre Gott schuld.
+> Israel hat zwei unüberlegte Schwüre getan: Keiner gibt Benjamin seine Tochter. Und: Wer nicht zur Versammlung kommt, muss sterben. Jetzt sitzen sie in der Falle ihrer eigenen Schwüre. Das erinnert an Jiftach und seinen schrecklichen Schwur (Kapitel 11).
+
+---
+
+### Jabesch in Gilead (Vers 8–14)
+
+<sup>8</sup>Sie sagten:
+„Welcher von den Stämmen Israels ist nicht zum HERRN nach Mizpa heraufgekommen?“
+Und schau: Niemand aus Jabesch in Gilead war ins Lager gekommen, zur Versammlung.
+<sup>9</sup>Denn als das Volk gezählt wurde,
+schau, da war keiner von den Bewohnern von Jabesch in Gilead dort.
+<sup>10</sup>Die Gemeinde schickte 12 000 von den tapfersten Männern dorthin.
+Sie befahl ihnen:
+„Geht und schlagt die Bewohner von Jabesch in Gilead mit der Schärfe des Schwertes,
+auch die Frauen und die kleinen Kinder.
+<sup>11</sup>Das ist es, was ihr tun sollt:
+Ihr sollt jeden Mann völlig vernichten
+und jede Frau, die schon mit einem Mann geschlafen hat.“
+<sup>12</sup>Sie fanden unter den Bewohnern von Jabesch in Gilead 400 junge Frauen,
+Jungfrauen, die noch mit keinem Mann geschlafen hatten.
+Sie brachten sie ins Lager nach Schilo, das im Land Kanaan liegt.
+<sup>13</sup>Die ganze Gemeinde schickte Boten
+und redete mit den Benjaminitern, die am Felsen Rimmon waren,
+und bot ihnen Frieden an.
+<sup>14</sup>Da kehrte Benjamin in dieser Zeit zurück.
+Und sie gaben ihnen die Frauen, die sie von den Frauen von Jabesch in Gilead am Leben gelassen hatten.
+Aber es reichte noch nicht für sie.
+
+> **Was bedeutet das?**
+> Das ist wieder ein entsetzliches Kapitel. Um das Problem mit Benjamin zu lösen, zerstört Israel eine weitere Stadt. Männer, Frauen und Kinder werden getötet. Nur 400 junge Mädchen bleiben am Leben, und sie werden gegen ihren Willen weggebracht und den Benjaminitern gegeben.
+> Die Bibel lobt das nicht. Sie zeigt: Ein Unrecht führt zum nächsten. Um ein Verbrechen an einer Frau zu bestrafen, werden jetzt Hunderte Frauen getötet oder verschleppt.
+> Jabesch lag östlich des Jordan, im Land Gilead. Später erinnert man sich an diese Stadt: König Saul aus dem Stamm Benjamin rettet Jabesch vor den Ammonitern (1. Samuel 11). Vielleicht gab es eine alte Verbindung zwischen Jabesch und Benjamin.
+> 600 Männer, aber nur 400 Frauen: Es fehlen noch 200.
+
+---
+
+### Der Raub der Mädchen von Schilo (Vers 15–24)
+
+<sup>15</sup>Dem Volk tat Benjamin leid,
+denn der HERR hatte einen Riss in die Stämme Israels gemacht.
+<sup>16</sup>Da sagten die Ältesten der Gemeinde:
+„Wie sollen wir für die, die übrig sind, Frauen beschaffen?
+Denn die Frauen aus Benjamin sind vernichtet.“
+<sup>17</sup>Sie sagten:
+„Es muss ein Erbe geben für die, die von Benjamin entkommen sind,
+damit nicht ein Stamm aus Israel ausgelöscht wird.
+<sup>18</sup>Aber wir dürfen ihnen keine Frauen von unseren Töchtern geben.
+Denn die Israeliten haben geschworen:
+‚Verflucht ist, wer Benjamin eine Frau gibt.‘“
+<sup>19</sup>Sie sagten:
+„Schaut, es gibt jedes Jahr ein Fest des HERRN in Schilo.
+Schilo liegt nördlich von Bethel,
+östlich von der Straße, die von Bethel nach Sichem hinaufführt,
+und südlich von Lebona.“
+<sup>20</sup>Sie befahlen den Benjaminitern:
+„Geht und legt euch in den Weinbergen auf die Lauer.
+<sup>21</sup>Passt auf, und schaut:
+Wenn die Töchter von Schilo herauskommen, um im Reigen zu tanzen,
+dann kommt aus den Weinbergen heraus.
+Jeder von euch soll sich eine Frau von den Töchtern Schilos fangen.
+Dann geht in das Land Benjamin.
+<sup>22</sup>Wenn dann ihre Väter oder ihre Brüder kommen, um sich bei uns zu beschweren,
+dann wollen wir zu ihnen sagen:
+‚Gönnt sie uns gnädig.
+Denn wir haben nicht für jeden Mann seine Frau im Krieg genommen.
+Und ihr habt sie ihnen auch nicht gegeben.
+Sonst wärt ihr jetzt schuldig.‘“
+<sup>23</sup>Die Benjaminiter machten es so.
+Sie nahmen sich Frauen nach ihrer Zahl,
+von denen, die tanzten und die sie raubten.
+Dann zogen sie weg und kehrten in ihr Erbe zurück.
+Sie bauten die Städte wieder auf und wohnten darin.
+<sup>24</sup>Die Israeliten zogen in dieser Zeit von dort weg,
+jeder zu seinem Stamm und zu seiner Sippe.
+Jeder ging von dort weg in sein eigenes Erbe.
+
+> **Was bedeutet das?**
+> Die Ältesten finden einen Trick: Sie geben ihre Töchter nicht, aber sie lassen zu, dass sie geraubt werden. So brechen sie ihren Schwur nicht, jedenfalls nach dem Buchstaben.
+> Für die jungen Frauen ist es ein Verbrechen: Sie tanzen auf einem Fest zur Ehre Gottes und werden mit Gewalt entführt und verheiratet. Niemand fragt sie.
+> Vers 22: Die Ältesten wollen den Vätern sagen: Ihr habt eure Töchter nicht selbst gegeben, darum habt ihr den Schwur nicht gebrochen.
+> Hier zeigt sich, wie weit Israel gekommen ist: Man hält sich genau an die Worte eines Schwurs und verletzt dabei die Würde von Menschen. Das ist das Gegenteil von dem, was Gott will.
+> „Der HERR hatte einen Riss gemacht“: So deutet das Volk den Untergang Benjamins. Aber die Kapitel zeigen deutlich, dass Menschen diesen Riss verursacht haben.
+> Am Ende überlebt der Stamm Benjamin. Aus ihm kommt später der erste König Israels, Saul. Und noch viel später der Apostel Paulus, der sagt: „Ich bin aus dem Stamm Benjamin“ (Römer 11,1). Gott kann auch aus großer Schuld wieder Neues wachsen lassen.
+
+---
+
+### Der letzte Satz (Vers 25)
+
+<sup>25</sup>In jenen Tagen gab es keinen König in Israel.
+Jeder tat, was in seinen eigenen Augen recht war.
+
+> **Was bedeutet das?**
+> Mit diesem Satz endet das Buch der Richter. Er ist wie eine Überschrift über alles, was in den letzten Kapiteln erzählt wurde: Götterbilder, Raub, Vergewaltigung, Mord und Bürgerkrieg.
+> „Kein König“ bedeutet: Es gab keine Ordnung, kein Recht, keinen, der für Gerechtigkeit sorgte. Aber im tieferen Sinn bedeutet es auch: Niemand fragte mehr nach Gott, dem eigentlichen König Israels.
+> Das Buch macht neugierig auf das, was kommt. Die Bücher Samuel erzählen, wie Israel einen König bekommt. Aber vorher kommt eine kleine, ganz andere Geschichte aus derselben Zeit: das Buch Rut.
+
+---
+
+### Rückblick: Was haben wir im Buch der Richter gelesen?
+
+> **Was bedeutet das?**
+> Das Buch der Richter erzählt von der Zeit zwischen Josua und den Königen. Israel wohnt im Land, aber es vergisst immer wieder Gott.
+> Das Buch hat drei Teile:
+> 1. Der Anfang (Kapitel 1 bis 3,6): Die Stämme erobern das Land nicht ganz. Die Völker, die bleiben, verführen Israel zu ihren Göttern.
+> 2. Die Richter (Kapitel 3,7 bis 16): Immer wieder dasselbe Muster: Israel tut Böses, wird unterdrückt, schreit zu Gott, und Gott schickt einen Retter. Wir haben Otniel, Ehud, Schamgar, Debora und Barak, Gideon, Jiftach, Simson und einige kleinere Richter kennengelernt. Am Anfang sind die Richter noch Vorbilder, wie Otniel und Debora. Später werden sie selbst immer fragwürdiger: Gideon macht ein Efod, das zur Falle wird, Jiftach opfert seine Tochter, Simson lebt nach seinen eigenen Wünschen.
+> 3. Das Chaos (Kapitel 17 bis 21): Ohne Richter und ohne König zerfällt das Volk. Es gibt Götterbilder, Raub, ein schreckliches Verbrechen in Gibea und einen Krieg, in dem Israel fast einen eigenen Stamm auslöscht.
+> Das Buch der Richter ist eines der dunkelsten Bücher der Bibel. Es erzählt von viel Gewalt, besonders gegen Frauen: Jiftachs Tochter, die Frau aus Timna, die Nebenfrau in Gibea, die Frauen von Jabesch und Schilo. Die Bibel verschweigt nichts. Sie erzählt diese Geschichten nicht als Vorbild, sondern als Spiegel und Warnung. Niemand darf diese Texte jemals benutzen, um Gewalt oder Hass zu rechtfertigen.
+> Und doch gibt es Licht: Gott gibt sein Volk nicht auf. Immer wieder hört er, wenn es zu ihm schreit. Er benutzt schwache und fehlerhafte Menschen, um zu retten. Und es gibt mutige Frauen wie Debora, Jael und die Frau aus Tebez, die einen Mühlstein warf.
+> Die große Frage des Buches ist: Wer führt Israel? Die Antwort, die das Buch am Ende andeutet, ist: Israel braucht einen guten König, der Gott gehorcht. Juden und Christen glauben: Am Ende ist es Gott selbst, der sein Volk wirklich führen kann. Christen sehen in Jesus diesen König, der aus dem Stamm Juda und aus Betlehem kommt.
