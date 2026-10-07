@@ -30384,3 +30384,499 @@ Auch er rettete Israel.
 > Über Schamgar wird nur ein einziger Satz erzählt. Ein Ochsenstachel war ein langer Stock mit einer Metallspitze, mit dem man Rinder beim Pflügen antrieb. Schamgar hatte keine richtige Waffe, nur ein Werkzeug vom Bauernhof. Trotzdem rettete er Israel.
 > „Anat“ war der Name einer kanaanitischen Göttin. Vielleicht war Schamgar gar kein Israelit. Trotzdem gebrauchte Gott ihn.
 > Schamgar wird auch im Lied der Debora erwähnt (Kapitel 5,6).
+
+## Richter – Kapitel 4
+#### Debora, Barak und Jaël
+
+---
+
+### Israel wird von Jabin unterdrückt (Vers 1–3)
+
+<sup>1</sup>Die Israeliten taten wieder, was in den Augen des HERRN böse war, als Ehud gestorben war.
+<sup>2</sup>Da verkaufte der HERR sie in die Hand von Jabin, dem König von Kanaan, der in Hazor regierte.
+Der Anführer seines Heeres war Sisera, der in Haroschet-Gojim wohnte.
+<sup>3</sup>Da schrien die Israeliten zum HERRN.
+Denn er hatte neunhundert eiserne Streitwagen
+und unterdrückte die Israeliten zwanzig Jahre lang mit großer Gewalt.
+
+> **Was bedeutet das?**
+> Wieder der Kreislauf: Ehud stirbt, Israel fällt ab, ein Feind kommt.
+> Neunhundert eiserne Streitwagen waren damals eine gewaltige Armee. Israel hatte keine solchen Waffen.
+> „Haroschet-Gojim“ heißt „Haroschet der Völker“. Die englische Vorlage schreibt „Haroschet der Heiden“.
+
+---
+
+### Die Prophetin Debora (Vers 4–10)
+
+<sup>4</sup>Zu dieser Zeit richtete Debora Israel, eine Prophetin, die Frau von Lappidot.
+<sup>5</sup>Sie saß unter der Debora-Palme zwischen Rama und Bethel im Bergland Efraim.
+Und die Israeliten kamen zu ihr hinauf, um sich Recht sprechen zu lassen.
+<sup>6</sup>Sie schickte hin und ließ Barak rufen, den Sohn von Abinoam, aus Kedesch in Naftali,
+und sagte zu ihm:
+„Hat der HERR, der Gott Israels, nicht geboten:
+‚Geh hin und zieh auf den Berg Tabor
+und nimm zehntausend Mann von den Nachkommen Naftalis und von den Nachkommen Sebulons mit dir.
+<sup>7</sup>Ich will Sisera, den Anführer von Jabins Heer, mit seinen Streitwagen und seiner Menge
+zu dir an den Bach Kischon locken,
+und ich will ihn in deine Hand geben‘?“
+<sup>8</sup>Barak sagte zu ihr:
+„Wenn du mit mir gehst, dann gehe ich.
+Aber wenn du nicht mit mir gehst, dann gehe ich nicht.“
+<sup>9</sup>Sie sagte:
+„Ich gehe ganz bestimmt mit dir.
+Aber der Ruhm auf diesem Weg, den du gehst, wird nicht dir gehören.
+Denn der HERR wird Sisera in die Hand einer Frau verkaufen.“
+Da stand Debora auf und ging mit Barak nach Kedesch.
+<sup>10</sup>Barak rief Sebulon und Naftali nach Kedesch zusammen.
+Zehntausend Mann folgten ihm.
+Und Debora zog mit ihm hinauf.
+
+> **Was bedeutet das?**
+> Debora ist eine ganz besondere Frau. Sie ist Prophetin, Richterin und Anführerin des ganzen Volkes. In einer Zeit, in der Frauen meist keine öffentlichen Ämter hatten, spricht Gott durch sie. Die Menschen kommen zu ihr, um Recht zu bekommen.
+> Sie ist die einzige Person im Buch der Richter, die auch im heutigen Sinn als Richterin beschrieben wird: Sie spricht unter einer Palme Recht.
+> Barak traut sich nicht allein. Er sagt: Nur wenn du mitkommst. Debora kommt mit, aber sie sagt voraus: Den Ruhm wird eine Frau bekommen. Der Leser denkt vielleicht: Debora. Aber es wird eine andere Frau sein.
+> „Lappidot“ bedeutet „Fackeln“. Manche Ausleger übersetzen darum „eine Frau mit Feuer“ statt „Frau von Lappidot“.
+
+---
+
+### Der Keniter Heber (Vers 11)
+
+<sup>11</sup>Heber, der Keniter, hatte sich von den Kenitern getrennt, von den Nachkommen Hobabs, des Schwagers von Mose.
+Er hatte sein Zelt bis zur Eiche bei Zaanannim aufgeschlagen, die bei Kedesch liegt.
+
+> **Was bedeutet das?**
+> Dieser Vers scheint die Geschichte zu unterbrechen. Aber er ist wichtig für später: Heber ist ein Keniter, also kein Israelit. Er lebt in der Nähe des Schlachtfeldes. Und er ist mit dem König Jabin befreundet (Vers 17).
+> „Schwager“: So steht es in der englischen Vorlage. Das hebräische Wort meint meist „Schwiegervater“ (siehe Kapitel 1,16).
+
+---
+
+### Der Sieg am Bach Kischon (Vers 12–16)
+
+<sup>12</sup>Man berichtete Sisera, dass Barak, der Sohn von Abinoam, auf den Berg Tabor hinaufgezogen war.
+<sup>13</sup>Da versammelte Sisera alle seine Streitwagen, neunhundert eiserne Streitwagen,
+und das ganze Volk, das bei ihm war, von Haroschet-Gojim an den Bach Kischon.
+<sup>14</sup>Debora sagte zu Barak:
+„Auf! Denn das ist der Tag, an dem der HERR Sisera in deine Hand gegeben hat.
+Ist nicht der HERR vor dir ausgezogen?“
+Da stieg Barak vom Berg Tabor hinab, und zehntausend Mann hinter ihm.
+<sup>15</sup>Und der HERR brachte Sisera, alle seine Streitwagen und sein ganzes Heer
+mit der Schärfe des Schwertes vor Barak in Verwirrung.
+Sisera stieg von seinem Streitwagen ab und floh zu Fuß.
+<sup>16</sup>Barak verfolgte die Streitwagen und das Heer bis Haroschet-Gojim.
+Und das ganze Heer Siseras fiel durch die Schärfe des Schwertes.
+Es blieb nicht einer übrig.
+
+> **Was bedeutet das?**
+> Die Streitwagen waren in der Ebene sehr stark. Aber Gott brachte sie in Verwirrung. Im Lied der Debora (Kapitel 5,21) erfahren wir mehr: Der Bach Kischon trat über die Ufer. Die schweren Wagen blieben im Schlamm stecken.
+> Debora gibt das Zeichen: „Heute ist der Tag!“ Sie sagt Barak, wann er losgehen soll.
+
+---
+
+### Jaël und Sisera (Vers 17–22)
+
+<sup>17</sup>Sisera aber floh zu Fuß zum Zelt von Jaël, der Frau von Heber, dem Keniter.
+Denn es war Frieden zwischen Jabin, dem König von Hazor, und dem Haus Hebers, des Keniters.
+<sup>18</sup>Jaël ging Sisera entgegen und sagte zu ihm:
+„Kehr ein, mein Herr, kehr bei mir ein. Hab keine Angst.“
+Er kehrte bei ihr ins Zelt ein, und sie deckte ihn mit einer Decke zu.
+<sup>19</sup>Er sagte zu ihr:
+„Gib mir doch ein wenig Wasser zu trinken, denn ich habe Durst.“
+Sie öffnete einen Schlauch mit Milch, gab ihm zu trinken und deckte ihn zu.
+<sup>20</sup>Er sagte zu ihr:
+„Stell dich an den Eingang des Zeltes.
+Und wenn jemand kommt und dich fragt: ‚Ist hier ein Mann?‘,
+dann sollst du sagen: ‚Nein.‘“
+<sup>21</sup>Da nahm Jaël, die Frau Hebers, einen Zeltpflock
+und nahm einen Hammer in ihre Hand.
+Sie ging leise zu ihm
+und schlug ihm den Pflock durch die Schläfe, bis er in den Boden drang.
+Denn er war in tiefem Schlaf und erschöpft.
+Und er starb.
+<sup>22</sup>Und schaut: Als Barak Sisera verfolgte, ging Jaël ihm entgegen und sagte zu ihm:
+„Komm, ich will dir den Mann zeigen, den du suchst.“
+Er kam zu ihr hinein,
+und schaut: Sisera lag tot da, und der Pflock steckte in seiner Schläfe.
+
+> **Was bedeutet das?**
+> Jetzt erfüllt sich Deboras Wort: Eine Frau bekommt den Ruhm. Aber es ist nicht Debora, sondern Jaël, eine Frau aus einem fremden Volk.
+> Die Geschichte ist sehr schwer zu bewerten. Jaël lädt Sisera als Gast ein. Damals galt die Gastfreundschaft als heilig: Ein Gast war geschützt. Jaël bricht dieses Gesetz und tötet ihn im Schlaf.
+> Warum tut sie das? Die Bibel sagt es nicht. Vielleicht stand sie auf der Seite Israels, gegen ihren eigenen Mann. Vielleicht hatte sie Angst, was Sisera ihr antun würde. Frauen hatten im Krieg kaum eine Möglichkeit, sich zu schützen. Zeltpflock und Hammer waren ihre Werkzeuge, denn damals bauten Frauen die Zelte auf.
+> Im Lied der Debora wird Jaël gefeiert (Kapitel 5,24). Für Israel war sie eine Heldin, die einen grausamen Unterdrücker besiegte. Juden und Christen haben aber auch immer wieder gefragt, ob ihr Verrat an einem Gast richtig war. Die Bibel erzählt, ohne alles zu bewerten.
+> Sisera bittet um Wasser, Jaël gibt ihm Milch. Milch macht müde. Vielleicht wollte sie, dass er schnell einschläft.
+
+---
+
+### Jabin wird besiegt (Vers 23–24)
+
+<sup>23</sup>So beugte Gott an diesem Tag Jabin, den König von Kanaan, vor den Israeliten.
+<sup>24</sup>Und die Hand der Israeliten lastete immer schwerer auf Jabin, dem König von Kanaan,
+bis sie Jabin, den König von Kanaan, vernichtet hatten.
+
+> **Was bedeutet das?**
+> Nicht Barak, nicht Debora, nicht Jaël hat letztlich gesiegt, sondern „Gott beugte Jabin“. Die Menschen sind Werkzeuge in Gottes Hand.
+
+## Richter – Kapitel 5
+#### Das Lied der Debora
+
+---
+
+### Lobt den HERRN! (Vers 1–5)
+
+<sup>1</sup>An diesem Tag sangen Debora und Barak, der Sohn von Abinoam:
+<sup>2</sup>„Weil die Anführer in Israel vorangingen,
+weil das Volk sich freiwillig bereit machte,
+lobt den HERRN!
+<sup>3</sup>Hört zu, ihr Könige! Horcht auf, ihr Fürsten!
+Ich, ich will dem HERRN singen.
+Ich will dem HERRN, dem Gott Israels, Loblieder singen.
+<sup>4</sup>HERR, als du auszogst aus Seïr,
+als du einherschrittst vom Gefilde Edoms,
+da bebte die Erde, und der Himmel troff,
+ja, die Wolken trieften von Wasser.
+<sup>5</sup>Die Berge erbebten vor dem HERRN,
+auch der Sinai vor dem HERRN, dem Gott Israels.
+
+> **Was bedeutet das?**
+> Dieses Lied ist eines der ältesten Texte der ganzen Bibel. Viele Forscher meinen, dass es kurz nach den Ereignissen entstanden ist, vielleicht im 12. Jahrhundert vor Christus. Die Sprache ist altertümlich und an manchen Stellen schwer zu verstehen.
+> Debora und Barak feiern den Sieg mit einem Lied, so wie Mose und Mirjam nach dem Zug durch das Meer (2. Mose 15).
+> Gott kommt aus dem Süden, vom Sinai und von Edom her, mit Erdbeben und Gewitter. Das Unwetter erklärt vielleicht, warum Siseras Streitwagen besiegt wurden: Der Regen machte die Ebene zum Sumpf.
+
+---
+
+### Die Not vor dem Sieg (Vers 6–11)
+
+<sup>6</sup>In den Tagen Schamgars, des Sohnes von Anat,
+in den Tagen Jaëls,
+lagen die Landstraßen verlassen da.
+Die Reisenden gingen auf krummen Seitenwegen.
+<sup>7</sup>Die Anführer fehlten in Israel.
+Sie fehlten, bis ich, Debora, aufstand,
+bis ich aufstand als Mutter in Israel.
+<sup>8</sup>Sie hatten sich neue Götter erwählt.
+Da war Krieg in den Toren.
+War ein Schild oder ein Speer zu sehen unter vierzigtausend in Israel?
+<sup>9</sup>Mein Herz gehört den Anführern Israels,
+die sich freiwillig unter dem Volk bereit machten.
+Lobt den HERRN!
+<sup>10</sup>Sprecht davon, ihr, die ihr auf weißen Eselinnen reitet,
+ihr, die ihr auf kostbaren Teppichen sitzt,
+und ihr, die ihr auf dem Weg geht!
+<sup>11</sup>Fern vom Lärm der Bogenschützen, an den Wasserstellen,
+dort sollen sie die gerechten Taten des HERRN erzählen,
+die gerechten Taten seiner Herrschaft in Israel.
+Da zog das Volk des HERRN hinab zu den Toren.
+
+> **Was bedeutet das?**
+> Vor dem Sieg war das Leben gefährlich: Niemand traute sich auf die Hauptstraßen. Israel hatte keine Waffen.
+> „Eine Mutter in Israel“: So nennt sich Debora selbst. Sie sorgte für ihr Volk wie eine Mutter für ihre Kinder.
+> Alle sollen von Gottes Taten erzählen: die Reichen auf ihren weißen Eseln, die Wohlhabenden auf Teppichen, und die einfachen Leute, die zu Fuß gehen. Sogar an den Brunnen, wo die Frauen Wasser holen, soll man davon erzählen.
+
+---
+
+### Wer kam zum Kampf, und wer nicht? (Vers 12–18)
+
+<sup>12</sup>‚Wach auf, wach auf, Debora!
+Wach auf, wach auf, sing ein Lied!
+Steh auf, Barak, und führ deine Gefangenen weg, du Sohn von Abinoam!‘
+<sup>13</sup>Da kam ein Rest der Edlen und des Volkes herab.
+Der HERR kam für mich herab gegen die Starken.
+<sup>14</sup>Aus Efraim kamen die, deren Wurzel in Amalek ist,
+hinter dir her, Benjamin, unter deinen Völkern.
+Von Machir kamen Anführer herab,
+und von Sebulon die, die den Stab des Befehlshabers tragen.
+<sup>15</sup>Die Fürsten Issachars waren mit Debora.
+Wie Issachar, so war auch Barak.
+Sie stürmten ihm nach in das Tal.
+An den Bächen Rubens gab es große Entschlüsse des Herzens.
+<sup>16</sup>Warum bist du zwischen den Schafhürden sitzen geblieben?
+Um das Pfeifen für die Herden zu hören?
+An den Bächen Rubens gab es großes Nachdenken des Herzens.
+<sup>17</sup>Gilead blieb jenseits des Jordan.
+Und Dan, warum blieb es bei den Schiffen?
+Asser saß still am Ufer des Meeres und blieb bei seinen Buchten.
+<sup>18</sup>Sebulon ist ein Volk, das sein Leben bis in den Tod wagte,
+und Naftali auf den Höhen des Feldes.
+
+> **Was bedeutet das?**
+> Das Lied lobt die Stämme, die mitgekämpft haben: Efraim, Benjamin, Machir (ein Teil von Manasse), Sebulon, Issachar und Naftali.
+> Und es tadelt die, die zu Hause blieben: Ruben hat lange nachgedacht und diskutiert, aber nichts getan. Gilead blieb hinter dem Jordan. Dan und Asser kümmerten sich lieber um ihre Schiffe und ihren Handel.
+> Das ist eine Frage an jede Gemeinschaft: Wer setzt sich ein, wenn es darauf ankommt, und wer bleibt bequem zu Hause?
+> „Deren Wurzel in Amalek ist“: Das ist schwer zu verstehen. Vielleicht wohnten Teile von Efraim in einer Gegend, wo früher Amalekiter gelebt hatten.
+> Juda und Simeon werden gar nicht erwähnt. Vielleicht waren sie im Süden zu weit weg.
+
+---
+
+### Die Schlacht (Vers 19–23)
+
+<sup>19</sup>Die Könige kamen und kämpften.
+Da kämpften die Könige Kanaans bei Taanach, an den Wassern von Megiddo.
+Aber Silber nahmen sie nicht als Beute mit.
+<sup>20</sup>Vom Himmel her kämpften die Sterne.
+Von ihren Bahnen aus kämpften sie gegen Sisera.
+<sup>21</sup>Der Bach Kischon riss sie fort,
+der uralte Bach, der Bach Kischon.
+Meine Seele, schreite voran mit Kraft!
+<sup>22</sup>Da stampften die Hufe der Pferde
+vom Jagen, vom Jagen ihrer Starken.
+<sup>23</sup>‚Verflucht Meros‘, sagte der Engel des HERRN.
+‚Verflucht seine Bewohner mit bitterem Fluch!
+Denn sie kamen nicht dem HERRN zu Hilfe,
+dem HERRN zu Hilfe gegen die Starken.‘
+
+> **Was bedeutet das?**
+> „Die Sterne kämpften vom Himmel“: Ein dichterisches Bild. Die ganze Schöpfung, sogar der Himmel, stand auf der Seite Gottes. Vielleicht ist auch das Gewitter gemeint, das aus dem Himmel kam.
+> Der Bach Kischon schwoll durch den Regen an und riss die Feinde mit. Die Pferde galoppierten in Panik davon.
+> „Meros“ war ein Ort, dessen Bewohner nicht halfen, obwohl sie es gekonnt hätten. Wo der Ort lag, weiß man heute nicht mehr.
+
+---
+
+### Gesegnet ist Jaël (Vers 24–27)
+
+<sup>24</sup>Gesegnet vor allen Frauen sei Jaël,
+die Frau Hebers, des Keniters.
+Gesegnet sei sie vor allen Frauen im Zelt!
+<sup>25</sup>Wasser erbat er, Milch gab sie.
+In einer prächtigen Schale brachte sie ihm Sahne.
+<sup>26</sup>Ihre Hand streckte sie nach dem Zeltpflock aus
+und ihre Rechte nach dem Hammer der Arbeiter.
+Sie schlug Sisera, sie zerschmetterte seinen Kopf.
+Ja, sie durchbohrte und zerschlug seine Schläfe.
+<sup>27</sup>Zu ihren Füßen sank er nieder, fiel und lag da.
+Zu ihren Füßen sank er nieder und fiel.
+Wo er niedersank, da fiel er tot hin.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht in Vers 25 „Butter“. Gemeint ist wohl dicke Sahne oder Sauermilch.
+> Das Lied feiert Jaël als Heldin. Die Worte wiederholen sich wie Hammerschläge: „sank nieder, fiel, lag da“. So wird der Sturz des mächtigen Feindes eindrucksvoll beschrieben.
+> „Gesegnet vor allen Frauen“: Ähnliche Worte sagt Elisabeth im Neuen Testament zu Maria (Lukas 1,42).
+> Wie in Kapitel 4 gilt: Die Bibel erzählt hier aus der Sicht eines Volkes, das lange unterdrückt war. Sie feiert die Befreiung. Das ist kein allgemeines Lob für Gewalt.
+
+---
+
+### Die Mutter Siseras wartet (Vers 28–30)
+
+<sup>28</sup>Durch das Fenster schaute sie hinaus und klagte,
+die Mutter Siseras, durch das Gitter:
+‚Warum zögert sein Streitwagen zu kommen?
+Warum säumen die Räder seiner Wagen?‘
+<sup>29</sup>Die Klügsten ihrer Hofdamen antworteten ihr,
+ja, sie selbst gab sich die Antwort:
+<sup>30</sup>‚Haben sie nicht Beute gefunden und verteilen sie?
+Eine Frau, zwei Frauen für jeden Mann.
+Als Beute für Sisera bunte Stoffe,
+als Beute bunte, bestickte Stoffe,
+bunte, auf beiden Seiten bestickte Stoffe
+für den Hals der Beute?‘
+
+> **Was bedeutet das?**
+> Ein überraschender Blickwechsel: Das Lied zeigt die Mutter des Feindes. Sie wartet am Fenster auf ihren Sohn. Er kommt nicht. Sie macht sich Sorgen. Ihre Hofdamen beruhigen sie: Er ist sicher noch beim Verteilen der Beute.
+> Wir als Leser wissen: Er ist längst tot. Dieser Moment ist bitter. Auch die Mutter des Feindes ist eine Mutter, die um ihr Kind bangt.
+> Vers 30 zeigt, was Sisera und seine Krieger vorhatten: Frauen als Beute zu nehmen. Im Hebräischen steht hier ein sehr derbes, abwertendes Wort für Frauen. Das zeigt die Grausamkeit des Krieges gegen Frauen. Die Ironie: Siseras Mutter denkt, ihr Sohn würde Frauen erbeuten. Aber er wurde von einer Frau besiegt.
+
+---
+
+### Schluss (Vers 31)
+
+<sup>31</sup>So sollen alle deine Feinde umkommen, HERR!
+Aber die ihn lieben, sollen sein wie die Sonne, wenn sie aufgeht in ihrer Kraft.“
+Und das Land hatte vierzig Jahre Ruhe.
+
+> **Was bedeutet das?**
+> Das Lied endet mit einem schönen Bild: Wer Gott liebt, soll strahlen wie die aufgehende Sonne.
+> Nach dem Sieg folgen vierzig Jahre Frieden.
+
+## Richter – Kapitel 6
+#### Gideon wird berufen
+
+---
+
+### Die Midianiter kommen wie Heuschrecken (Vers 1–6)
+
+<sup>1</sup>Die Israeliten taten, was in den Augen des HERRN böse war.
+Da gab der HERR sie sieben Jahre lang in die Hand Midians.
+<sup>2</sup>Die Hand Midians lastete schwer auf Israel.
+Wegen Midian machten sich die Israeliten Schlupfwinkel in den Bergen, Höhlen und Bergfesten.
+<sup>3</sup>Und es geschah: Immer wenn Israel gesät hatte,
+zogen die Midianiter, die Amalekiter und die Völker des Ostens gegen sie herauf.
+<sup>4</sup>Sie lagerten gegen sie und vernichteten den Ertrag des Landes bis nach Gaza.
+Sie ließen in Israel nichts zum Leben übrig, kein Schaf, kein Rind und keinen Esel.
+<sup>5</sup>Denn sie kamen mit ihrem Vieh und ihren Zelten herauf.
+Sie kamen so zahlreich wie die Heuschrecken.
+Sie und ihre Kamele waren nicht zu zählen.
+Und sie kamen ins Land, um es zu verwüsten.
+<sup>6</sup>So wurde Israel durch Midian sehr arm.
+Und die Israeliten schrien zum HERRN.
+
+> **Was bedeutet das?**
+> Die Midianiter waren Nomaden aus der Wüste. Sie kamen jedes Jahr zur Erntezeit mit ihren Herden und Kamelen und nahmen alles mit. Die Israeliten hatten nichts mehr zu essen. Sie mussten sich in Höhlen verstecken.
+> Kamele waren damals eine neue, gefürchtete „Waffe“. Mit ihnen konnten die Räuber weite Strecken durch die Wüste zurücklegen und schnell angreifen.
+
+---
+
+### Ein Prophet erinnert an Gottes Taten (Vers 7–10)
+
+<sup>7</sup>Als die Israeliten wegen Midian zum HERRN schrien,
+<sup>8</sup>schickte der HERR einen Propheten zu den Israeliten.
+Er sagte zu ihnen:
+„So spricht der HERR, der Gott Israels:
+‚Ich habe euch aus Ägypten heraufgeführt.
+Ich habe euch aus dem Haus der Sklaverei herausgeführt.
+<sup>9</sup>Ich habe euch aus der Hand der Ägypter gerettet
+und aus der Hand aller, die euch unterdrückten.
+Ich habe sie vor euch vertrieben und euch ihr Land gegeben.
+<sup>10</sup>Und ich habe zu euch gesagt:
+„Ich bin der HERR, euer Gott.
+Ihr sollt die Götter der Amoriter nicht fürchten, in deren Land ihr wohnt.“
+Aber ihr habt nicht auf meine Stimme gehört.‘“
+
+> **Was bedeutet das?**
+> Bevor Gott hilft, schickt er einen Propheten. Das Volk soll verstehen, warum es in Not ist. Es geht nicht nur um die Befreiung von den Feinden, sondern um die Umkehr zu Gott.
+
+---
+
+### Der Engel bei Gideon (Vers 11–16)
+
+<sup>11</sup>Der Engel des HERRN kam und setzte sich unter die Eiche in Ofra, die Joasch, dem Abiësriter, gehörte.
+Sein Sohn Gideon drosch gerade Weizen in der Weinpresse,
+um ihn vor den Midianitern zu verstecken.
+<sup>12</sup>Der Engel des HERRN erschien ihm und sagte zu ihm:
+„Der HERR ist mit dir, du tapferer Held!“
+<sup>13</sup>Gideon sagte zu ihm:
+„Ach, mein Herr, wenn der HERR mit uns ist, warum ist uns dann das alles geschehen?
+Wo sind alle seine Wunder, von denen uns unsere Väter erzählt haben, als sie sagten:
+‚Hat uns der HERR nicht aus Ägypten heraufgeführt?‘
+Aber jetzt hat der HERR uns verstoßen und uns in die Hand Midians gegeben.“
+<sup>14</sup>Der HERR wandte sich ihm zu und sagte:
+„Geh in dieser deiner Kraft und rette Israel aus der Hand Midians.
+Habe ich dich nicht gesandt?“
+<sup>15</sup>Er sagte zu ihm:
+„Ach, Herr, womit soll ich Israel retten?
+Schau, meine Sippe ist die ärmste in Manasse,
+und ich bin der Jüngste im Haus meines Vaters.“
+<sup>16</sup>Der HERR sagte zu ihm:
+„Ich werde mit dir sein.
+Und du wirst die Midianiter schlagen wie einen einzigen Mann.“
+
+> **Was bedeutet das?**
+> Getreide drischt man normalerweise auf einem offenen Platz im Wind. Gideon drischt heimlich in einer Weinpresse, einer Grube im Felsen. Er hat Angst.
+> Und gerade zu diesem ängstlichen Mann sagt der Engel: „Du tapferer Held!“ Das klingt fast wie ein Witz. Aber Gott sieht in Gideon, was er werden kann.
+> Gideon stellt eine ehrliche Frage, die viele Menschen kennen: Wenn Gott mit uns ist, warum geht es uns dann so schlecht? Gott beantwortet die Frage nicht direkt. Aber er sendet Gideon, um etwas zu verändern.
+> Gideon wehrt ab: Ich bin der Kleinste aus der ärmsten Familie. Das erinnert an Mose, der auch nicht wollte (2. Mose 3–4). Gott antwortet wie damals: „Ich werde mit dir sein.“ Es kommt nicht auf Gideons Stärke an, sondern auf Gottes Gegenwart.
+> Der Engel des HERRN wird hier auch einfach „der HERR“ genannt. Durch den Engel spricht Gott selbst.
+
+---
+
+### Ein Zeichen: Feuer aus dem Felsen (Vers 17–24)
+
+<sup>17</sup>Er sagte zu ihm:
+„Wenn ich in deinen Augen Gnade gefunden habe,
+dann gib mir ein Zeichen, dass du es bist, der mit mir redet.
+<sup>18</sup>Geh bitte nicht von hier weg, bis ich zu dir komme
+und meine Gabe herausbringe und sie dir vorlege.“
+Er sagte: „Ich will bleiben, bis du zurückkommst.“
+<sup>19</sup>Gideon ging hinein und bereitete ein Ziegenböckchen zu
+und ungesäuerte Brote aus etwa 22 Litern Mehl.
+Das Fleisch legte er in einen Korb, und die Brühe goss er in einen Topf.
+Er brachte es zu ihm hinaus unter die Eiche und bot es ihm an.
+<sup>20</sup>Der Engel Gottes sagte zu ihm:
+„Nimm das Fleisch und die ungesäuerten Brote, leg sie auf diesen Felsen
+und gieß die Brühe aus.“
+Und er tat es.
+<sup>21</sup>Da streckte der Engel des HERRN die Spitze des Stabes aus, den er in der Hand hatte,
+und berührte das Fleisch und die ungesäuerten Brote.
+Da stieg Feuer aus dem Felsen auf und verzehrte das Fleisch und die ungesäuerten Brote.
+Und der Engel des HERRN verschwand vor seinen Augen.
+<sup>22</sup>Da erkannte Gideon, dass es der Engel des HERRN war.
+Und Gideon sagte:
+„Weh mir, Herr, du HERR!
+Denn ich habe den Engel des HERRN von Angesicht zu Angesicht gesehen!“
+<sup>23</sup>Der HERR sagte zu ihm:
+„Friede sei mit dir! Hab keine Angst. Du wirst nicht sterben.“
+<sup>24</sup>Da baute Gideon dort dem HERRN einen Altar und nannte ihn: „Der HERR ist Friede.“
+Bis heute steht er in Ofra, das den Abiësritern gehört.
+
+> **Was bedeutet das?**
+> In der Bibel steht: ein Efa Mehl. Ein Efa sind etwa 22 Liter. Das war sehr viel, eine großzügige Gabe in einer Zeit des Hungers.
+> Gideon bittet um ein Zeichen. Er will sicher sein. Gott hat Geduld mit ihm.
+> Damals glaubte man: Wer Gott sieht, muss sterben. Darum erschrickt Gideon. Aber Gott sagt: „Friede sei mit dir!“ Auf Hebräisch: „Schalom“.
+> Der Altar heißt „Der HERR ist Friede“ (hebräisch: „Jahwe Schalom“). Mitten in der Not, mitten im Krieg erfährt Gideon: Gott ist Friede.
+
+---
+
+### Gideon reißt den Baalsaltar nieder (Vers 25–32)
+
+<sup>25</sup>In derselben Nacht sagte der HERR zu ihm:
+„Nimm den Stier deines Vaters, den zweiten Stier, der sieben Jahre alt ist.
+Reiß den Altar des Baal nieder, der deinem Vater gehört,
+und hau den Aschera-Pfahl um, der daneben steht.
+<sup>26</sup>Dann bau dem HERRN, deinem Gott, oben auf dieser Bergfeste einen Altar, sorgfältig aufgeschichtet.
+Und nimm den zweiten Stier und bring ihn als Brandopfer dar,
+mit dem Holz des Aschera-Pfahls, den du umhauen wirst.“
+<sup>27</sup>Da nahm Gideon zehn Männer von seinen Knechten
+und tat, wie der HERR es ihm gesagt hatte.
+Weil er sich vor der Familie seines Vaters und vor den Männern der Stadt fürchtete,
+konnte er es nicht am Tag tun, sondern er tat es in der Nacht.
+<sup>28</sup>Als die Männer der Stadt am Morgen früh aufstanden,
+schaut: Da war der Altar des Baal niedergerissen,
+und der Aschera-Pfahl daneben war umgehauen,
+und der zweite Stier war auf dem neu gebauten Altar geopfert.
+<sup>29</sup>Sie sagten zueinander: „Wer hat das getan?“
+Sie forschten nach und fragten herum.
+Dann sagten sie: „Gideon, der Sohn von Joasch, hat das getan.“
+<sup>30</sup>Da sagten die Männer der Stadt zu Joasch:
+„Gib deinen Sohn heraus, er muss sterben!
+Denn er hat den Altar des Baal niedergerissen
+und den Aschera-Pfahl daneben umgehauen.“
+<sup>31</sup>Joasch sagte zu allen, die gegen ihn standen:
+„Wollt ihr für Baal streiten? Oder wollt ihr ihn retten?
+Wer für ihn streitet, soll bis zum Morgen sterben!
+Wenn er ein Gott ist, dann soll er selbst für sich streiten,
+weil jemand seinen Altar niedergerissen hat!“
+<sup>32</sup>Darum nannte man Gideon an diesem Tag Jerubbaal,
+weil man sagte: „Baal soll gegen ihn streiten, denn er hat seinen Altar niedergerissen.“
+
+> **Was bedeutet das?**
+> Bevor Gideon gegen die Midianiter kämpft, muss er zu Hause aufräumen. Sein eigener Vater hatte einen Altar für Baal. Der Götzendienst war mitten in Israel, sogar in Gideons Familie.
+> Gideon gehorcht, aber in der Nacht, weil er Angst hat. Gott nimmt ihn trotzdem. Man muss nicht furchtlos sein, um Gott zu gehorchen.
+> Die Männer der Stadt wollen Gideon töten, weil er Baal beleidigt hat. Das zeigt, wie weit Israel sich von Gott entfernt hatte. Aber Gideons Vater verteidigt ihn mit einem klugen Satz: „Wenn Baal ein Gott ist, soll er sich selbst verteidigen.“ Ein Gott, der beschützt werden muss, ist kein Gott.
+> „Jerubbaal“ bedeutet „Baal soll streiten“. Der Name wird zu einem Spott über Baal, denn Baal hat nichts getan.
+
+---
+
+### Das Heer sammelt sich (Vers 33–35)
+
+<sup>33</sup>Da versammelten sich ganz Midian, Amalek und die Völker des Ostens.
+Sie zogen herüber und lagerten in der Ebene Jesreel.
+<sup>34</sup>Aber der Geist des HERRN kam über Gideon, und er blies das Horn.
+Da wurden die Abiësriter zusammengerufen, um ihm zu folgen.
+<sup>35</sup>Er schickte Boten durch ganz Manasse,
+und auch sie wurden zusammengerufen, um ihm zu folgen.
+Er schickte Boten zu Asser, zu Sebulon und zu Naftali.
+Und sie zogen herauf, ihnen entgegen.
+
+> **Was bedeutet das?**
+> „Der Geist des HERRN kam über Gideon“: Im Hebräischen steht wörtlich: „Der Geist des HERRN zog Gideon an wie ein Kleid.“ Gott hüllt ihn ganz ein. Aus dem ängstlichen Bauern wird ein Anführer.
+
+---
+
+### Das Zeichen mit dem Fell (Vers 36–40)
+
+<sup>36</sup>Gideon sagte zu Gott:
+„Wenn du Israel durch meine Hand retten willst, wie du es gesagt hast,
+<sup>37</sup>schau, dann lege ich ein Wollfell auf die Tenne.
+Wenn nur auf dem Fell Tau ist und der ganze Boden trocken bleibt,
+dann weiß ich, dass du Israel durch meine Hand retten wirst, wie du es gesagt hast.“
+<sup>38</sup>Und so geschah es.
+Als er am nächsten Morgen früh aufstand, drückte er das Fell aus
+und presste den Tau aus dem Fell, eine ganze Schale voll Wasser.
+<sup>39</sup>Gideon sagte zu Gott:
+„Dein Zorn soll nicht gegen mich entbrennen, wenn ich nur noch dieses eine Mal rede.
+Lass mich doch nur noch dieses eine Mal mit dem Fell eine Probe machen:
+Lass jetzt nur das Fell trocken sein, und auf dem ganzen Boden soll Tau sein.“
+<sup>40</sup>Und Gott tat es in dieser Nacht.
+Nur auf dem Fell war es trocken, und auf dem ganzen Boden war Tau.
+
+> **Was bedeutet das?**
+> Gideon hat schon ein Zeichen bekommen (Vers 21). Trotzdem zweifelt er noch. Er bittet zweimal um ein Zeichen mit dem Fell. Und Gott hat Geduld mit ihm und gibt ihm beide Zeichen.
+> Das ist tröstlich: Gott verachtet nicht die, die zweifeln. Er geht auf ihre Schwäche ein.
+> Aus dieser Geschichte kommt der Ausdruck „ein Vlies auslegen“: Gott um ein Zeichen bitten. Viele Ausleger sagen aber auch: Gideon hätte es eigentlich nicht gebraucht. Gott hatte schon klar gesprochen. Die Geschichte ist kein Muster dafür, Gott ständig auf die Probe zu stellen (5. Mose 6,16).
