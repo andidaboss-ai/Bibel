@@ -35264,3 +35264,570 @@ dann werdet ihr umkommen, ihr und euer König.“
 > „Nichtige Dinge“ sind die Götzen. Sie sind leer, sie können nicht helfen.
 > Vers 23 ist ein besonderer Satz: Samuel sagt, es wäre eine Sünde, wenn er aufhören würde, für das Volk zu beten. Obwohl das Volk ihn als Anführer abgelehnt hat, betet er weiter für sie. Das ist echte Liebe.
 > Samuel tritt als Richter zurück, aber er bleibt Prophet und Lehrer. Der König regiert, aber der Prophet sagt ihm Gottes Wort. Diese Aufgabenteilung zieht sich durch die ganze Zeit der Könige.
+
+## 1. Samuel – Kapitel 13
+#### Saul wartet nicht
+
+---
+
+### Saul und Jonatan gegen die Philister (Vers 1–7)
+
+<sup>1</sup>Saul war dreißig Jahre alt, als er König wurde,
+und er regierte zweiundvierzig Jahre über Israel.
+<sup>2</sup>Saul wählte sich 3000 Männer aus Israel aus.
+2000 davon waren bei Saul in Michmas und im Bergland von Bethel,
+und 1000 waren bei Jonatan in Gibea in Benjamin.
+Den Rest des Volkes schickte er nach Hause, jeden in sein Zelt.
+<sup>3</sup>Jonatan schlug den Posten der Philister, der in Geba war.
+Und die Philister hörten davon.
+Saul ließ im ganzen Land das Horn blasen und sagte:
+„Die Hebräer sollen es hören!“
+<sup>4</sup>Ganz Israel hörte:
+„Saul hat den Posten der Philister geschlagen.“
+Und auch, dass Israel bei den Philistern verhasst geworden war.
+Das Volk wurde hinter Saul her nach Gilgal zusammengerufen.
+
+<sup>5</sup>Die Philister versammelten sich, um gegen Israel zu kämpfen:
+30 000 Wagen, 6000 Reiter
+und Kriegsvolk so zahlreich wie der Sand am Ufer des Meeres.
+Sie zogen herauf und lagerten in Michmas, östlich von Bet-Awen.
+<sup>6</sup>Die Männer Israels sahen, dass sie in Not waren,
+denn das Volk wurde bedrängt.
+Da versteckte sich das Volk in Höhlen, im Gestrüpp, in Felsen, in Grabkammern und in Gruben.
+<sup>7</sup>Einige von den Hebräern gingen sogar über den Jordan in das Land Gad und Gilead.
+Saul aber war noch in Gilgal,
+und das ganze Volk folgte ihm zitternd.
+
+> **Was bedeutet das?**
+> Vers 1 ist im hebräischen Text beschädigt. Dort steht wörtlich: „Saul war ein Jahr alt, als er König wurde, und er regierte zwei Jahre über Israel.“ Da fehlen offensichtlich Zahlen. Die englische Vorlage hat die Zahlen 30 und 42 eingesetzt, wie manche anderen Übersetzungen auch. Im Neuen Testament steht, dass Saul 40 Jahre regierte (Apostelgeschichte 13,21). Wie alt er wirklich war und wie lange er genau regierte, weiß man nicht sicher.
+> Jonatan ist Sauls Sohn. Hier wird er zum ersten Mal genannt. Er ist mutig und greift einen Posten der Philister an. Aber Saul lässt verkünden: „Saul hat geschlagen.“ Er nimmt die Ehre für sich.
+> Jetzt kommen die Philister mit einem riesigen Heer. Die Zahl 30 000 Wagen ist sehr hoch. Einige alte Übersetzungen haben 3000. Das passt besser zu den 6000 Reitern.
+> Die Israeliten bekommen Panik. Sie verstecken sich überall oder fliehen über den Jordan.
+
+---
+
+### Saul bringt das Opfer selbst dar (Vers 8–14)
+
+<sup>8</sup>Er wartete sieben Tage, bis zu der Zeit, die Samuel festgesetzt hatte.
+Aber Samuel kam nicht nach Gilgal,
+und das Volk lief ihm davon.
+<sup>9</sup>Da sagte Saul:
+„Bringt mir das Brandopfer und die Friedensopfer her.“
+Und er brachte das Brandopfer dar.
+<sup>10</sup>Und es geschah:
+Als er gerade mit dem Brandopfer fertig war,
+schau, da kam Samuel.
+Saul ging hinaus ihm entgegen, um ihn zu begrüßen.
+<sup>11</sup>Samuel sagte: „Was hast du getan?“
+Saul sagte:
+„Ich sah, dass das Volk mir davonlief,
+und du bist nicht zur festgesetzten Zeit gekommen,
+und die Philister haben sich in Michmas versammelt.
+<sup>12</sup>Da habe ich gedacht:
+‚Jetzt werden die Philister zu mir nach Gilgal herabkommen,
+und ich habe den HERRN noch nicht um Gnade angefleht.‘
+Da habe ich mich überwunden und das Brandopfer dargebracht.“
+
+<sup>13</sup>Samuel sagte zu Saul:
+„Du hast töricht gehandelt.
+Du hast das Gebot des HERRN, deines Gottes, nicht gehalten,
+das er dir geboten hat.
+Denn jetzt hätte der HERR dein Königtum über Israel für immer bestätigt.
+<sup>14</sup>Aber jetzt wird dein Königtum nicht bestehen.
+Der HERR hat sich einen Mann nach seinem Herzen gesucht.
+Und der HERR hat ihn zum Fürsten über sein Volk bestimmt,
+weil du nicht gehalten hast, was der HERR dir geboten hat.“
+
+> **Was bedeutet das?**
+> Samuel hatte Saul gesagt: Warte sieben Tage in Gilgal, bis ich komme (Kapitel 10,8). Saul wartet. Aber am siebten Tag ist Samuel noch nicht da. Die Soldaten laufen weg. Die Philister kommen näher. Saul wird nervös und handelt selbst.
+> Man kann Saul verstehen. Seine Lage war wirklich schwierig. Warum ist das Urteil so hart?
+> Saul hat nicht bis zum Ende gewartet. Er hat Gottes Anweisung nicht vertraut. Er wollte Gottes Hilfe mit einem Opfer erzwingen, statt auf Gottes Wort durch den Propheten zu warten. Der König sollte unter Gottes Wort stehen. Saul aber stellt sich darüber, wenn es eng wird.
+> Und Saul gibt nicht zu, dass er etwas falsch gemacht hat. Er gibt anderen die Schuld: dem Volk, das weglief, und Samuel, der zu spät kam.
+> „Ein Mann nach seinem Herzen“: Damit ist David gemeint. Er wird erst in Kapitel 16 genannt. Im Neuen Testament wird dieser Satz über David zitiert (Apostelgeschichte 13,22). Das heißt nicht, dass David keine Fehler hatte. Es heißt: Er war ein Mann, dessen Herz sich immer wieder Gott zuwandte.
+
+---
+
+### Ohne Waffen gegen die Philister (Vers 15–23)
+
+<sup>15</sup>Samuel stand auf und ging von Gilgal hinauf nach Gibea in Benjamin.
+Saul zählte das Volk, das bei ihm war, etwa 600 Mann.
+<sup>16</sup>Saul und sein Sohn Jonatan und das Volk, das bei ihnen war,
+blieben in Geba in Benjamin.
+Aber die Philister lagerten in Michmas.
+<sup>17</sup>Die Plünderer zogen aus dem Lager der Philister in drei Gruppen aus.
+Eine Gruppe wandte sich auf den Weg nach Ofra, in das Land Schual.
+<sup>18</sup>Eine andere Gruppe wandte sich auf den Weg nach Bet-Horon.
+Und eine andere Gruppe wandte sich auf den Weg zur Grenze,
+die auf das Tal Zeboim hinunterschaut, in Richtung Wüste.
+
+<sup>19</sup>Im ganzen Land Israel gab es keinen Schmied.
+Denn die Philister sagten:
+„Sonst machen sich die Hebräer Schwerter oder Speere.“
+<sup>20</sup>Darum gingen alle Israeliten zu den Philistern hinab,
+jeder, um seine Pflugschar, seine Hacke, seine Axt und seine Sichel schärfen zu lassen.
+<sup>21</sup>Der Preis war je ein Pim für das Schärfen von Hacken, Pflugscharen, Gabeln, Äxten und Ochsenstacheln.
+<sup>22</sup>So geschah es am Tag des Kampfes:
+Kein Schwert und kein Speer war in der Hand des ganzen Volkes,
+das bei Saul und Jonatan war.
+Nur Saul und sein Sohn Jonatan hatten welche.
+<sup>23</sup>Der Posten der Philister zog hinaus zum Pass von Michmas.
+
+> **Was bedeutet das?**
+> Von den vielen Soldaten sind nur noch 600 übrig. Die Philister schicken Gruppen aus, die das Land ausplündern.
+> Die Philister haben ein Monopol auf Eisen. Sie lassen die Israeliten keine Schmiede haben, damit sie keine Waffen machen können. Wer ein Werkzeug schärfen lassen will, muss zu den Philistern gehen und bezahlen.
+> „Pim“ war ein kleines Gewicht. Archäologen haben kleine Steingewichte mit der Aufschrift „Pim“ gefunden. Ein Pim waren etwa zwei Drittel Schekel, ungefähr 7–8 Gramm Silber. Vor diesen Funden wusste niemand, was dieses Wort bedeutet.
+> Im Hebräischen ist Vers 21 schwer zu verstehen. „Ochsenstachel“ waren Stöcke mit einer Spitze zum Antreiben der Rinder.
+> Die Lage Israels ist hoffnungslos: wenige Soldaten, keine Waffen, ein riesiges Heer gegen sie. Wenn jetzt Rettung kommt, dann kann sie nur von Gott kommen.
+
+## 1. Samuel – Kapitel 14
+#### Jonatans Heldentat und Sauls Schwur
+
+---
+
+### Jonatan und sein Waffenträger (Vers 1–15)
+
+<sup>1</sup>Eines Tages sagte Jonatan, der Sohn von Saul, zu dem jungen Mann, der seine Waffen trug:
+„Komm! Lass uns zum Posten der Philister hinübergehen, der dort drüben ist.“
+Aber seinem Vater sagte er nichts.
+<sup>2</sup>Saul saß am Rand von Gibea unter dem Granatapfelbaum, der in Migron steht.
+Und das Volk, das bei ihm war, waren etwa 600 Mann.
+<sup>3</sup>Auch Ahija war dabei, der Sohn von Ahitub, dem Bruder von Ikabod,
+dem Sohn von Pinhas, dem Sohn von Eli, dem Priester des HERRN in Schilo.
+Er trug ein Efod.
+Das Volk wusste nicht, dass Jonatan weggegangen war.
+<sup>4</sup>Zwischen den Pässen, über die Jonatan zum Posten der Philister hinüberwollte,
+war auf der einen Seite eine Felszacke und auf der anderen Seite eine Felszacke.
+Der Name der einen war Bozez, und der Name der anderen war Senne.
+<sup>5</sup>Die eine Felszacke ragte im Norden gegenüber von Michmas auf,
+und die andere im Süden gegenüber von Geba.
+
+<sup>6</sup>Jonatan sagte zu dem jungen Mann, der seine Waffen trug:
+„Komm! Lass uns zum Posten dieser Unbeschnittenen hinübergehen.
+Vielleicht wird der HERR für uns handeln.
+Denn den HERRN hindert nichts, zu retten, sei es durch viele oder durch wenige.“
+<sup>7</sup>Sein Waffenträger sagte zu ihm:
+„Tu alles, was in deinem Herzen ist.
+Geh, und schau, ich bin bei dir, ganz wie du willst.“
+<sup>8</sup>Da sagte Jonatan:
+„Schau, wir gehen zu den Männern hinüber und zeigen uns ihnen.
+<sup>9</sup>Wenn sie dann zu uns sagen:
+‚Wartet, bis wir zu euch kommen!‘,
+dann bleiben wir an unserem Platz stehen und gehen nicht zu ihnen hinauf.
+<sup>10</sup>Aber wenn sie sagen:
+‚Kommt zu uns herauf!‘,
+dann gehen wir hinauf.
+Denn dann hat der HERR sie in unsere Hand gegeben.
+Das soll für uns das Zeichen sein.“
+
+<sup>11</sup>Die beiden zeigten sich dem Posten der Philister.
+Die Philister sagten:
+„Schaut, die Hebräer kommen aus den Löchern heraus, in denen sie sich versteckt hatten!“
+<sup>12</sup>Die Männer des Postens riefen Jonatan und seinem Waffenträger zu:
+„Kommt zu uns herauf, dann zeigen wir euch was!“
+Jonatan sagte zu seinem Waffenträger:
+„Steig hinter mir hinauf,
+denn der HERR hat sie in die Hand Israels gegeben.“
+<sup>13</sup>Jonatan kletterte auf Händen und Füßen hinauf, und sein Waffenträger hinter ihm her.
+Die Philister fielen vor Jonatan,
+und sein Waffenträger tötete sie hinter ihm.
+<sup>14</sup>Dieser erste Schlag, den Jonatan und sein Waffenträger ausführten,
+traf etwa zwanzig Männer,
+auf einer Strecke von etwa einer halben Furchenlänge auf einem Acker.
+<sup>15</sup>Da entstand ein Schrecken im Lager, auf dem Feld und im ganzen Volk.
+Auch der Posten und die Plünderer erschraken.
+Und die Erde bebte.
+So entstand ein sehr großer Schrecken.
+
+> **Was bedeutet das?**
+> Während Saul untätig unter einem Baum sitzt, handelt sein Sohn Jonatan. Er vertraut auf Gott. Sein Satz ist berühmt: „Den HERRN hindert nichts, zu retten, sei es durch viele oder durch wenige.“ Für Gott kommt es nicht auf die Zahl an.
+> Ahija ist ein Urenkel von Eli. Die Familie Elis ist also noch als Priester tätig. Das „Efod“ ist hier ein Gegenstand, mit dem man Gott befragte.
+> Jonatan bittet Gott um ein Zeichen. Er geht nicht leichtsinnig, sondern will wissen, ob Gott mit ihm ist.
+> Die Felsen hatten Namen: „Bozez“ heißt vielleicht „der Glänzende“, „Senne“ heißt „der Dornige“. Man kann diesen engen Pass bis heute im Land sehen.
+> Die Philister verspotten die Israeliten: Sie kommen aus ihren Löchern wie Mäuse. Aber dann geht alles ganz schnell. Gott schickt ein Erdbeben, und Panik bricht aus.
+> „Ein sehr großer Schrecken“ heißt im Hebräischen wörtlich: „ein Schrecken Gottes“. Das heißt: ein Schrecken, den Gott geschickt hat, oder auch: ein gewaltiger Schrecken.
+
+---
+
+### Die Philister fliehen (Vers 16–23)
+
+<sup>16</sup>Die Wächter von Saul in Gibea in Benjamin schauten hinüber.
+Und schau: Die Menge löste sich auf und lief hierhin und dorthin.
+<sup>17</sup>Da sagte Saul zu dem Volk, das bei ihm war:
+„Zählt doch nach und seht, wer von uns weggegangen ist.“
+Als sie gezählt hatten, schau, da fehlten Jonatan und sein Waffenträger.
+<sup>18</sup>Saul sagte zu Ahija:
+„Bring die Lade Gottes her.“
+Denn die Lade Gottes war damals bei den Israeliten.
+<sup>19</sup>Während Saul noch mit dem Priester redete,
+wurde das Getümmel im Lager der Philister immer größer.
+Da sagte Saul zu dem Priester:
+„Zieh deine Hand zurück!“
+<sup>20</sup>Saul und das ganze Volk, das bei ihm war, versammelten sich und kamen zum Kampf.
+Und schau: Jeder kämpfte mit dem Schwert gegen den anderen,
+in einer sehr großen Verwirrung.
+<sup>21</sup>Auch die Hebräer, die vorher bei den Philistern gewesen waren
+und mit ihnen ringsum ins Lager hinaufgezogen waren,
+wechselten auf die Seite der Israeliten, die bei Saul und Jonatan waren.
+<sup>22</sup>Auch alle Männer Israels, die sich im Bergland Efraim versteckt hatten,
+hörten, dass die Philister flohen.
+Und auch sie verfolgten sie im Kampf.
+<sup>23</sup>So rettete der HERR an diesem Tag Israel.
+Und der Kampf zog sich bis über Bet-Awen hinaus.
+
+> **Was bedeutet das?**
+> Saul will Gott befragen. Aber als die Lage drängt, sagt er zum Priester: „Zieh deine Hand zurück!“, also: Hör auf, ich habe keine Zeit mehr. Wieder hat Saul keine Geduld, auf Gottes Antwort zu warten.
+> In Vers 18 hat die alte griechische Übersetzung „Efod“ statt „Lade“. Das passt besser, denn mit dem Efod befragte man Gott, und die Lade war ja in Kirjat-Jearim (Kapitel 7,1–2).
+> Die Philister geraten so in Panik, dass sie sich gegenseitig töten. Das ist wie bei Gideon (Richter 7,22).
+> „So rettete der HERR Israel“: Nicht Saul, nicht einmal Jonatan, sondern Gott. Das ist die Hauptaussage.
+
+---
+
+### Sauls unüberlegter Schwur (Vers 24–30)
+
+<sup>24</sup>Die Männer Israels waren an diesem Tag sehr erschöpft.
+Denn Saul hatte das Volk schwören lassen und gesagt:
+„Verflucht ist der Mann, der irgendetwas isst, bevor es Abend ist
+und ich mich an meinen Feinden gerächt habe.“
+So aß niemand vom Volk etwas.
+<sup>25</sup>Das ganze Volk kam in den Wald.
+Dort war Honig auf dem Boden.
+<sup>26</sup>Als das Volk in den Wald kam,
+schau, da floss der Honig.
+Aber niemand führte seine Hand zum Mund,
+denn das Volk fürchtete den Schwur.
+<sup>27</sup>Aber Jonatan hatte nicht gehört, wie sein Vater das Volk schwören ließ.
+Darum streckte er die Spitze des Stabes aus, den er in der Hand hatte,
+tauchte sie in die Honigwabe
+und führte seine Hand zum Mund.
+Da leuchteten seine Augen auf.
+<sup>28</sup>Da sagte einer aus dem Volk:
+„Dein Vater hat das Volk ausdrücklich schwören lassen und gesagt:
+‚Verflucht ist der Mann, der heute etwas isst.‘“
+Und das Volk war erschöpft.
+<sup>29</sup>Da sagte Jonatan:
+„Mein Vater bringt das Land ins Unglück.
+Seht doch, wie meine Augen aufgeleuchtet haben,
+weil ich ein wenig von diesem Honig gekostet habe.
+<sup>30</sup>Wie viel mehr, wenn das Volk heute frei von der Beute seiner Feinde gegessen hätte,
+die es gefunden hat!
+Denn jetzt ist die Niederlage der Philister nicht groß geworden.“
+
+> **Was bedeutet das?**
+> Saul will besonders fromm erscheinen und verbietet allen Soldaten zu essen. Aber das ist unvernünftig. Wer kämpfen muss, braucht Kraft. Und er sagt: „bis ich mich an meinen Feinden gerächt habe“. Es geht ihm um sich selbst.
+> Jonatan wusste nichts von dem Schwur. Er isst ein wenig Honig und bekommt neue Kraft. „Die Augen leuchten auf“ heißt: Er ist wieder wach und frisch.
+> Jonatan sagt offen: Mein Vater hat dem Volk geschadet. Er hat recht.
+> Wieder ein unüberlegter Schwur, wie bei Jiftach (Richter 11) und beim Schwur gegen Benjamin (Richter 21). Die Bibel warnt immer wieder: Überlege gut, bevor du etwas schwörst.
+
+---
+
+### Das Volk isst Fleisch mit dem Blut (Vers 31–35)
+
+<sup>31</sup>Sie schlugen die Philister an diesem Tag von Michmas bis Ajalon.
+Das Volk war sehr erschöpft.
+<sup>32</sup>Da stürzte sich das Volk auf die Beute.
+Sie nahmen Schafe, Rinder und Kälber,
+schlachteten sie auf der Erde,
+und das Volk aß sie mit dem Blut.
+<sup>33</sup>Da erzählte man Saul:
+„Schau, das Volk sündigt gegen den HERRN,
+weil es das Fleisch mit dem Blut isst.“
+Er sagte:
+„Ihr habt treulos gehandelt.
+Wälzt heute einen großen Stein zu mir her!“
+<sup>34</sup>Saul sagte:
+„Verteilt euch unter das Volk und sagt ihnen:
+‚Jeder soll sein Rind und jeder sein Schaf zu mir bringen
+und es hier schlachten und essen.
+Und sündigt nicht gegen den HERRN, indem ihr das Fleisch mit dem Blut esst.‘“
+Da brachte das ganze Volk in dieser Nacht jeder sein Rind mit sich
+und schlachtete es dort.
+<sup>35</sup>Saul baute dem HERRN einen Altar.
+Das war der erste Altar, den er dem HERRN baute.
+
+> **Was bedeutet das?**
+> Die Folgen von Sauls Schwur: Am Abend sind die Soldaten so ausgehungert, dass sie die Tiere schlachten und sofort essen, ohne das Blut ablaufen zu lassen. Das war streng verboten. Das Blut steht für das Leben und gehört Gott (3. Mose 17,10–14; 1. Mose 9,4).
+> Sauls Schwur, der fromm sein sollte, hat das Volk in die Sünde getrieben.
+> Saul sorgt dafür, dass die Tiere auf einem großen Stein geschlachtet werden, damit das Blut ablaufen kann. Hier handelt er richtig.
+> Der Satz „Das war der erste Altar, den er baute“ klingt fast wie ein leiser Vorwurf: Saul ist schon eine Weile König, aber er hat erst jetzt zum ersten Mal Gott einen Altar gebaut.
+
+---
+
+### Jonatan soll sterben (Vers 36–46)
+
+<sup>36</sup>Saul sagte:
+„Lasst uns in der Nacht hinter den Philistern herziehen
+und bis zum Morgenlicht unter ihnen plündern.
+Lasst keinen Mann von ihnen übrig.“
+Sie sagten: „Tu alles, was dir gut erscheint.“
+Da sagte der Priester:
+„Lasst uns hier zu Gott hintreten.“
+<sup>37</sup>Saul befragte Gott:
+„Soll ich hinter den Philistern herziehen?
+Wirst du sie in die Hand Israels geben?“
+Aber er antwortete ihm an diesem Tag nicht.
+<sup>38</sup>Saul sagte:
+„Tretet hierher, alle Anführer des Volkes,
+und erkennt und seht, an wem heute diese Sünde liegt.
+<sup>39</sup>Denn so wahr der HERR lebt, der Israel rettet:
+Selbst wenn es an meinem Sohn Jonatan liegt, muss er sterben.“
+Aber niemand aus dem ganzen Volk antwortete ihm.
+<sup>40</sup>Da sagte er zu ganz Israel:
+„Ihr sollt auf der einen Seite stehen,
+und ich und mein Sohn Jonatan wollen auf der anderen Seite stehen.“
+Das Volk sagte zu Saul: „Tu, was dir gut erscheint.“
+<sup>41</sup>Darum sagte Saul zum HERRN, dem Gott Israels:
+„Zeige das Rechte.“
+Jonatan und Saul wurden ausgewählt, und das Volk ging frei aus.
+<sup>42</sup>Saul sagte:
+„Werft das Los zwischen mir und meinem Sohn Jonatan.“
+Und Jonatan wurde ausgewählt.
+<sup>43</sup>Da sagte Saul zu Jonatan:
+„Sag mir, was du getan hast!“
+Jonatan erzählte es ihm und sagte:
+„Ich habe wirklich ein wenig Honig mit der Spitze des Stabes gekostet,
+den ich in der Hand hatte.
+Und schau, ich muss sterben.“
+<sup>44</sup>Saul sagte:
+„Gott tue mir dies und noch mehr:
+Du musst sterben, Jonatan.“
+<sup>45</sup>Aber das Volk sagte zu Saul:
+„Soll Jonatan sterben, der diese große Rettung in Israel vollbracht hat?
+Auf keinen Fall!
+So wahr der HERR lebt:
+Nicht ein Haar von seinem Kopf soll auf die Erde fallen.
+Denn er hat heute mit Gott gehandelt.“
+So befreite das Volk Jonatan, und er starb nicht.
+<sup>46</sup>Da hörte Saul auf, die Philister zu verfolgen.
+Und die Philister zogen an ihren Ort zurück.
+
+> **Was bedeutet das?**
+> Gott antwortet Saul nicht. Saul denkt: Jemand hat gesündigt. Und er schwört gleich wieder vorschnell: Wer es auch ist, er muss sterben, selbst mein Sohn.
+> Das Los fällt auf Jonatan. Er gibt ehrlich zu, was er getan hat. Er wusste ja nichts von dem Schwur.
+> In Vers 41 hat die alte griechische Übersetzung einen längeren Text. Dort bittet Saul Gott, mit „Urim“ oder „Tummim“ zu antworten. Das waren heilige Lose, mit denen der Priester Gott befragte (2. Mose 28,30).
+> Saul will seinen eigenen Sohn töten, nur um sein Gesicht nicht zu verlieren. Er hält an seinem Schwur fest, obwohl der Schwur falsch war.
+> Das Volk stellt sich auf die Seite von Jonatan. Es sagt: Gott war mit Jonatan, nicht gegen ihn. Hier hat das Volk mehr Verstand als der König. Jüdische Ausleger sagen dazu: Ein falscher Schwur darf nicht dazu führen, dass ein unschuldiger Mensch stirbt.
+> Wegen des ganzen Durcheinanders können die Philister entkommen. Sauls Schwur hat den Sieg kleiner gemacht.
+
+---
+
+### Sauls Kriege und seine Familie (Vers 47–52)
+
+<sup>47</sup>Als Saul die Königsherrschaft über Israel übernommen hatte,
+kämpfte er gegen alle seine Feinde ringsum:
+gegen Moab, gegen die Ammoniter, gegen Edom,
+gegen die Könige von Zoba und gegen die Philister.
+Wohin er sich auch wandte, besiegte er sie.
+<sup>48</sup>Er handelte tapfer und schlug die Amalekiter.
+Und er rettete Israel aus der Hand derer, die es ausplünderten.
+<sup>49</sup>Die Söhne Sauls waren Jonatan, Jischwi und Malkischua.
+Und die Namen seiner beiden Töchter waren:
+die ältere hieß Merab, und die jüngere hieß Michal.
+<sup>50</sup>Der Name von Sauls Frau war Ahinoam, die Tochter von Ahimaaz.
+Der Name seines Heerführers war Abner, der Sohn von Ner, dem Onkel Sauls.
+<sup>51</sup>Kisch war der Vater von Saul,
+und Ner, der Vater von Abner, war der Sohn von Abiel.
+<sup>52</sup>Es gab harten Krieg gegen die Philister, solange Saul lebte.
+Und wenn Saul einen starken Mann oder einen tapferen Mann sah,
+nahm er ihn in seinen Dienst.
+
+> **Was bedeutet das?**
+> Hier steht eine kurze Zusammenfassung von Sauls Regierung. Saul war ein erfolgreicher Feldherr. Er schützte Israel gegen viele Feinde. Das muss man ihm zugutehalten.
+> Zoba war ein Königreich der Aramäer im Norden, im heutigen Syrien.
+> Jischwi ist vielleicht derselbe wie Isch-Boschet, der später nach Saul kurz König wird (2. Samuel 2,8). Merab und Michal werden in der Geschichte von David noch wichtig.
+> Abner war Sauls Cousin und sein oberster General. Auch er spielt später eine große Rolle.
+
+## 1. Samuel – Kapitel 15
+#### Gehorsam ist besser als Opfer
+
+---
+
+### Der Auftrag gegen Amalek (Vers 1–3)
+
+<sup>1</sup>Samuel sagte zu Saul:
+„Der HERR hat mich gesandt, um dich zum König über sein Volk, über Israel, zu salben.
+Darum hör jetzt auf die Stimme der Worte des HERRN.
+<sup>2</sup>So spricht der HERR der Heere:
+‚Ich denke daran, was Amalek Israel angetan hat,
+wie es sich ihm auf dem Weg entgegengestellt hat,
+als es aus Ägypten heraufzog.
+<sup>3</sup>Jetzt geh und schlag Amalek.
+Vernichte alles, was sie haben, ganz und gar,
+und verschone sie nicht.
+Sondern töte Mann und Frau, Kind und Säugling,
+Rind und Schaf, Kamel und Esel.‘“
+
+> **Was bedeutet das?**
+> Dies ist einer der schwersten Texte der ganzen Bibel. Wir lassen ihn nicht weg, aber wir wollen ihn ehrlich erklären.
+> Die Amalekiter waren ein Nomadenvolk im Süden. Sie hatten Israel nach dem Auszug aus Ägypten angegriffen, und zwar die Schwachen und Müden am Ende des Zuges (2. Mose 17,8–16; 5. Mose 25,17–19). Auch später überfielen sie Israel immer wieder (Kapitel 14,48).
+> „Ganz und gar vernichten“ heißt im Hebräischen „den Bann vollstrecken“ (cherem). Das bedeutete im Krieg: Nichts durfte als Beute genommen werden. Alles wurde Gott übergeben und vernichtet, auch Menschen und Tiere. Wir haben das schon im Buch Josua gelesen.
+> Dass Gott befiehlt, auch Frauen, Kinder und Säuglinge zu töten, erschreckt jeden Leser. Juden und Christen haben lange damit gerungen. Manche verstehen den Text so: Es war ein einmaliges Gericht Gottes über ein Volk, das immer wieder grausam gegen Schwache vorgegangen war (Vers 33). Andere verstehen ihn als Ausdruck der Kriegssprache und der Vorstellungen jener Zeit. Viele jüdische Ausleger sagen: „Amalek“ ist heute kein Volk mehr, das man bekämpfen darf, sondern ein Bild für das Böse in der Welt und im eigenen Herzen.
+> Ganz wichtig ist: Dieser Text darf niemals benutzt werden, um Gewalt gegen Menschen oder Völker zu rechtfertigen. Kein Mensch darf sich heute auf diesen Befehl berufen. Jesus hat gelehrt: „Liebt eure Feinde“ (Matthäus 5,44).
+
+---
+
+### Saul verschont das Beste (Vers 4–9)
+
+<sup>4</sup>Saul rief das Volk zusammen
+und zählte sie in Telaim:
+200 000 Mann zu Fuß und 10 000 Männer aus Juda.
+<sup>5</sup>Saul kam zur Stadt Amaleks
+und legte im Tal einen Hinterhalt.
+<sup>6</sup>Saul sagte zu den Kenitern:
+„Geht weg, zieht fort, geht hinab, weg von den Amalekitern,
+damit ich euch nicht mit ihnen vernichte.
+Denn ihr habt allen Israeliten Freundlichkeit erwiesen,
+als sie aus Ägypten heraufzogen.“
+Da zogen die Keniter von den Amalekitern weg.
+<sup>7</sup>Saul schlug die Amalekiter,
+von Hawila bis nach Schur, das vor Ägypten liegt.
+<sup>8</sup>Er nahm Agag, den König der Amalekiter, lebendig gefangen.
+Und das ganze Volk vernichtete er mit der Schärfe des Schwertes.
+<sup>9</sup>Aber Saul und das Volk verschonten Agag
+und das Beste von den Schafen und Rindern,
+die gemästeten Kälber und die Lämmer und alles, was gut war.
+Sie wollten es nicht vernichten.
+Aber alles, was wertlos und schlecht war, das vernichteten sie.
+
+> **Was bedeutet das?**
+> Die Keniter waren ein Volk, zu dem der Schwiegervater von Mose gehörte (Richter 1,16). Sie hatten Israel in der Wüste geholfen. Saul warnt sie und lässt sie gehen. Das zeigt: Es ging nicht darum, alle Menschen zu töten. Wer Gutes getan hatte, wurde verschont.
+> Saul gehorcht nur zur Hälfte. Er verschont den König, wohl um ihn als Trophäe vorzuführen. Und er behält das beste Vieh. Nur was wertlos ist, wird vernichtet.
+> Das zeigt, was Saul eigentlich antreibt: nicht Gehorsam gegenüber Gott, sondern eigener Vorteil und Ansehen.
+> „Das ganze Volk vernichtete er“: Trotzdem gibt es später wieder Amalekiter (Kapitel 27,8; 30,1). Gemeint ist wohl das Volk in diesem Gebiet, nicht jeder einzelne Amalekiter.
+
+---
+
+### Gott bereut, Saul zum König gemacht zu haben (Vers 10–16)
+
+<sup>10</sup>Da kam das Wort des HERRN zu Samuel:
+<sup>11</sup>„Es reut mich, dass ich Saul zum König gemacht habe.
+Denn er hat sich abgewandt und folgt mir nicht mehr nach,
+und er hat meine Gebote nicht ausgeführt.“
+Samuel wurde zornig,
+und er schrie die ganze Nacht zum HERRN.
+<sup>12</sup>Samuel stand am Morgen früh auf, um Saul zu treffen.
+Man erzählte Samuel:
+„Saul ist nach Karmel gekommen,
+und schau, er hat sich ein Denkmal aufgestellt.
+Dann ist er umgekehrt, weitergezogen und nach Gilgal hinabgegangen.“
+<sup>13</sup>Samuel kam zu Saul.
+Saul sagte zu ihm:
+„Gesegnet bist du vom HERRN!
+Ich habe den Befehl des HERRN ausgeführt.“
+<sup>14</sup>Samuel sagte:
+„Was ist denn das für ein Blöken von Schafen in meinen Ohren
+und das Brüllen von Rindern, das ich höre?“
+<sup>15</sup>Saul sagte:
+„Sie haben sie von den Amalekitern mitgebracht.
+Denn das Volk hat das Beste von den Schafen und Rindern verschont,
+um es dem HERRN, deinem Gott, zu opfern.
+Den Rest haben wir ganz vernichtet.“
+<sup>16</sup>Da sagte Samuel zu Saul:
+„Hör auf! Ich will dir sagen, was der HERR heute Nacht zu mir gesagt hat.“
+Er sagte zu ihm: „Sprich.“
+
+> **Was bedeutet das?**
+> „Es reut mich“: Gott ist traurig über Saul. Die Bibel beschreibt Gott hier mit menschlichen Gefühlen. Gott ist kein kalter Gott. Es tut ihm weh, wenn ein Mensch sich von ihm abwendet.
+> Samuel ist zornig und betet die ganze Nacht. Er liebt Saul und ist tief enttäuscht.
+> Karmel ist hier nicht der Berg im Norden, sondern ein Ort im Süden von Juda. Saul stellt sich dort ein Denkmal auf, für sich selbst, nicht für Gott. Das zeigt, wie stolz er geworden ist.
+> Saul begrüßt Samuel fröhlich: Ich habe alles getan! Aber das Blöken der Schafe verrät ihn. Man kann die Wahrheit nicht verstecken.
+> Und wieder schiebt Saul die Schuld auf andere: „Das Volk“ hat die Tiere verschont. Und er sagt „dein Gott“, nicht „mein Gott“ oder „unser Gott“.
+
+---
+
+### „Gehorsam ist besser als Opfer“ (Vers 17–23)
+
+<sup>17</sup>Samuel sagte:
+„Auch wenn du in deinen eigenen Augen klein warst,
+bist du nicht das Haupt der Stämme Israels geworden?
+Der HERR hat dich zum König über Israel gesalbt.
+<sup>18</sup>Und der HERR hat dich auf einen Weg gesandt und gesagt:
+‚Geh und vernichte die Sünder, die Amalekiter, ganz und gar,
+und kämpfe gegen sie, bis sie aufgerieben sind.‘
+<sup>19</sup>Warum hast du denn nicht auf die Stimme des HERRN gehört,
+sondern dich auf die Beute gestürzt
+und getan, was in den Augen des HERRN böse ist?“
+<sup>20</sup>Saul sagte zu Samuel:
+„Aber ich habe doch auf die Stimme des HERRN gehört!
+Ich bin den Weg gegangen, auf den der HERR mich gesandt hat.
+Ich habe Agag, den König von Amalek, mitgebracht
+und die Amalekiter ganz vernichtet.
+<sup>21</sup>Aber das Volk hat von der Beute genommen, Schafe und Rinder,
+das Beste von dem, was dem Bann verfallen war,
+um es dem HERRN, deinem Gott, in Gilgal zu opfern.“
+<sup>22</sup>Samuel sagte:
+„Hat der HERR so viel Freude an Brandopfern und Schlachtopfern
+wie daran, dass man auf die Stimme des HERRN hört?
+Schau, Gehorchen ist besser als Opfer,
+und Hinhören besser als das Fett von Widdern.
+<sup>23</sup>Denn Widerspenstigkeit ist wie die Sünde der Zauberei,
+und Eigensinn ist wie Götzendienst und Terafim.
+Weil du das Wort des HERRN verworfen hast,
+hat er auch dich verworfen, dass du nicht mehr König sein sollst.“
+
+> **Was bedeutet das?**
+> Samuel erinnert Saul an seinen Anfang: Du warst klein und bescheiden. Gott hat dich groß gemacht. Aber jetzt willst du selbst bestimmen.
+> Saul gibt immer noch nicht zu, dass er falsch gehandelt hat. Er sagt: „Ich habe doch gehört!“ Und er schiebt die Schuld auf das Volk. Und er gibt sogar einen frommen Grund an: Wir wollten es Gott opfern.
+> Samuels Antwort gehört zu den wichtigsten Sätzen der Bibel: „Gehorchen ist besser als Opfer.“ Gott will keine frommen Rituale, wenn das Herz nicht gehorcht. Die Propheten haben das später oft wiederholt (Hosea 6,6; Micha 6,6–8). Und Jesus hat Hosea zitiert: „Ich will Barmherzigkeit und nicht Opfer“ (Matthäus 9,13).
+> „Zauberei“ und „Terafim“ (Hausgötter) waren schlimme Sünden. Samuel sagt: Wer bewusst nicht auf Gott hört, ist genauso weit weg von Gott wie jemand, der Götzen dient. Dieser Vers spricht über Ungehorsam. Er darf niemals dazu benutzt werden, Menschen als „Hexen“ zu verfolgen.
+
+---
+
+### Der zerrissene Mantel (Vers 24–31)
+
+<sup>24</sup>Saul sagte zu Samuel:
+„Ich habe gesündigt.
+Denn ich habe den Befehl des HERRN und deine Worte übertreten,
+weil ich das Volk gefürchtet und auf seine Stimme gehört habe.
+<sup>25</sup>Darum vergib jetzt bitte meine Sünde
+und kehre mit mir um, damit ich den HERRN anbete.“
+<sup>26</sup>Samuel sagte zu Saul:
+„Ich kehre nicht mit dir um.
+Denn du hast das Wort des HERRN verworfen,
+und der HERR hat dich verworfen, dass du nicht mehr König über Israel sein sollst.“
+<sup>27</sup>Als Samuel sich umdrehte, um wegzugehen,
+packte Saul den Zipfel seines Mantels,
+und er riss ab.
+<sup>28</sup>Samuel sagte zu ihm:
+„Der HERR hat heute das Königtum Israels von dir abgerissen
+und hat es einem anderen gegeben, der besser ist als du.
+<sup>29</sup>Auch lügt die Stärke Israels nicht, und er bereut nicht.
+Denn er ist kein Mensch, dass er bereuen müsste.“
+<sup>30</sup>Da sagte er:
+„Ich habe gesündigt.
+Aber ehre mich doch jetzt vor den Ältesten meines Volkes und vor Israel.
+Kehre mit mir um, damit ich den HERRN, deinen Gott, anbete.“
+<sup>31</sup>Da kehrte Samuel mit Saul um.
+Und Saul betete den HERRN an.
+
+> **Was bedeutet das?**
+> Endlich sagt Saul: „Ich habe gesündigt.“ Aber dann sagt er gleich, warum: Ich hatte Angst vor dem Volk. Ein König, der mehr Angst vor den Menschen hat als vor Gott, kann sein Volk nicht richtig führen.
+> Beim zweiten Mal sieht man, worum es Saul wirklich geht: „Ehre mich vor den Ältesten.“ Er will nach außen gut dastehen.
+> Der abgerissene Mantelzipfel wird zum Zeichen: So wie der Mantel zerrissen ist, so ist das Königtum von Saul abgerissen. Der „andere“, der besser ist, ist David. Später wird David von Sauls Mantel einen Zipfel abschneiden (Kapitel 24,5).
+> „Die Stärke Israels“ ist ein Name für Gott. Das hebräische Wort kann auch „Ruhm“ oder „Beständigkeit“ bedeuten.
+> In Vers 11 und 35 steht, dass Gott es „reut“. In Vers 29 steht, dass Gott „nicht bereut“. Ist das ein Widerspruch? Es geht um zwei verschiedene Dinge: Gott hat Gefühle. Er ist traurig über Saul (Vers 11 und 35). Aber Gott ändert sein gerechtes Urteil nicht wie ein Mensch, der leicht umgestimmt werden kann (Vers 29). Gott ist zugleich mitfühlend und zuverlässig.
+> Samuel geht dann doch mit Saul, wohl damit das Volk nicht gespalten wird.
+
+---
+
+### Das Ende von Agag (Vers 32–35)
+
+<sup>32</sup>Dann sagte Samuel:
+„Bringt Agag, den König der Amalekiter, zu mir her!“
+Agag kam fröhlich zu ihm.
+Agag sagte:
+„Sicher ist die Bitterkeit des Todes vorbei.“
+<sup>33</sup>Samuel sagte:
+„So wie dein Schwert Frauen kinderlos gemacht hat,
+so soll deine Mutter kinderlos sein unter den Frauen!“
+Dann hieb Samuel Agag vor dem HERRN in Gilgal in Stücke.
+<sup>34</sup>Dann ging Samuel nach Rama,
+und Saul ging hinauf in sein Haus nach Gibea, der Stadt Sauls.
+<sup>35</sup>Samuel kam bis zum Tag seines Todes nicht mehr, um Saul zu sehen.
+Aber Samuel trauerte um Saul.
+Und es reute den HERRN, dass er Saul zum König über Israel gemacht hatte.
+
+> **Was bedeutet das?**
+> Agag denkt, er sei gerettet. Aber Samuel nennt den Grund für seinen Tod: Agag selbst war ein grausamer Krieger, der vielen Müttern die Kinder genommen hatte. Das Urteil trifft ihn für seine eigenen Taten.
+> Dass der Prophet selbst einen Menschen tötet, ist für heutige Leser erschreckend. Es gehört zu einer gewalttätigen Zeit. Es ist kein Vorbild für heute.
+> Später, im Buch Ester, wird ein Mann namens Haman „der Agagiter“ genannt, ein Nachkomme von Agag (Ester 3,1). Er will alle Juden umbringen. Für die jüdische Tradition ist Amalek darum ein Bild für alle, die das jüdische Volk vernichten wollen.
+> Das Kapitel endet traurig: Samuel besucht Saul nie wieder. Aber Samuel trauert um Saul. Und auch Gott ist traurig. Der erste König Israels ist gescheitert, nicht weil er zu schwach war, sondern weil er nicht gehorchen wollte.
