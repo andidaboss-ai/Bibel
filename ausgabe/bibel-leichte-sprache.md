@@ -27222,3 +27222,301 @@ Nur sei stark und mutig!“
 > Josua erinnert die zweieinhalb Stämme an ihr Versprechen aus 4. Mose 32: Sie haben ihr Land schon, aber sie kämpfen trotzdem mit ihren Brüdern.
 > Und sie halten ihr Wort. Sie stellen sich hinter den neuen Anführer. Am Ende sagen sie ihm sogar, was Gott ihm gesagt hat: „Sei stark und mutig!“ So wird Josua nicht nur von Gott ermutigt, sondern auch von seinen Leuten.
 > Die harte Drohung in Vers 18 zeigt, wie ernst die Lage vor einem Krieg war. Einheit war lebenswichtig.
+
+## Josua – Kapitel 2
+#### Rahab und die Kundschafter
+
+---
+
+### Zwei Kundschafter in Jericho (Vers 1–7)
+
+<sup>1</sup>Josua, der Sohn von Nun, schickte heimlich zwei Männer als Kundschafter aus Schittim los und sagte:
+„Geht und seht euch das Land an, auch Jericho.“
+Sie gingen los und kamen in das Haus einer Prostituierten, die Rahab hieß.
+Dort übernachteten sie.
+<sup>2</sup>Dem König von Jericho wurde berichtet:
+„Schau, heute Nacht sind Männer von den Israeliten hierhergekommen, um das Land auszukundschaften.“
+<sup>3</sup>Da schickte der König von Jericho zu Rahab und ließ ihr sagen:
+„Gib die Männer heraus, die zu dir gekommen sind und die in dein Haus gegangen sind.
+Denn sie sind gekommen, um das ganze Land auszukundschaften.“
+<sup>4</sup>Aber die Frau nahm die beiden Männer und versteckte sie.
+Dann sagte sie: „Ja, die Männer sind zu mir gekommen,
+aber ich wusste nicht, woher sie kamen.
+<sup>5</sup>Als man das Stadttor schließen wollte, als es dunkel war, sind die Männer weggegangen.
+Wohin die Männer gegangen sind, weiß ich nicht.
+Verfolgt sie schnell, dann könnt ihr sie noch einholen.“
+<sup>6</sup>Sie hatte sie aber auf das Dach hinaufgebracht
+und sie unter den Flachsstängeln versteckt, die sie auf dem Dach aufgeschichtet hatte.
+<sup>7</sup>Die Männer verfolgten sie auf dem Weg zu den Furten des Jordan.
+Und sobald die Verfolger hinausgegangen waren, schloss man das Tor.
+
+> **Was bedeutet das?**
+> Jericho ist eine der ältesten Städte der Welt. Sie liegt in einer Oase am Jordan, gleich gegenüber dem Lager Israels.
+> Rahab war eine Prostituierte. Die Kundschafter gingen vielleicht in ihr Haus, weil dort oft fremde Männer ein und aus gingen und sie nicht auffielen.
+> Rahab lügt, um die Männer zu schützen. Ob diese Lüge richtig war, darüber haben Juden und Christen viel nachgedacht. Viele sagen: Sie hat ihr Leben riskiert, um Menschen zu retten. Ähnlich haben später Menschen gehandelt, die in der Zeit des Nationalsozialismus Juden versteckt und die Verfolger belogen haben.
+> „Flachs“ ist eine Pflanze, aus der man Leinen macht. Man legte die Stängel zum Trocknen auf die flachen Dächer.
+
+---
+
+### Rahabs Bekenntnis (Vers 8–14)
+
+<sup>8</sup>Bevor sie sich schlafen legten, stieg sie zu ihnen auf das Dach hinauf.
+<sup>9</sup>Sie sagte zu den Männern:
+„Ich weiß, dass der HERR euch das Land gegeben hat.
+Die Angst vor euch hat uns überfallen,
+und alle Bewohner des Landes zittern vor euch.
+<sup>10</sup>Denn wir haben gehört, wie der HERR das Wasser des Roten Meeres vor euch ausgetrocknet hat,
+als ihr aus Ägypten gezogen seid,
+und was ihr den beiden Königen der Amoriter jenseits des Jordan getan habt,
+Sihon und Og, an denen ihr den Bann vollstreckt habt.
+<sup>11</sup>Als wir das hörten, ist unser Herz verzagt,
+und keinem ist mehr Mut geblieben wegen euch.
+Denn der HERR, euer Gott, ist Gott oben im Himmel und unten auf der Erde.
+<sup>12</sup>Und jetzt schwört mir doch beim HERRN:
+Weil ich euch Güte erwiesen habe, sollt auch ihr der Familie meines Vaters Güte erweisen.
+Gebt mir ein sicheres Zeichen,
+<sup>13</sup>dass ihr meinen Vater, meine Mutter, meine Brüder und meine Schwestern
+und alle, die zu ihnen gehören, am Leben lasst
+und uns vor dem Tod rettet.“
+<sup>14</sup>Die Männer sagten zu ihr:
+„Unser Leben für eures, wenn ihr nichts von unserer Sache erzählt.
+Und wenn der HERR uns das Land gibt,
+dann wollen wir dir Güte und Treue erweisen.“
+
+> **Was bedeutet das?**
+> Rahab ist eine Frau aus einem fremden Volk und eine Prostituierte. Trotzdem spricht sie eines der schönsten Glaubensbekenntnisse der Bibel: „Der HERR, euer Gott, ist Gott oben im Himmel und unten auf der Erde.“ Das sind fast dieselben Worte wie bei Mose (5. Mose 4,39).
+> Sie hat von Gottes großen Taten gehört und daraus den richtigen Schluss gezogen. Das ganze Volk von Jericho hat dasselbe gehört, aber nur Rahab vertraut darauf.
+> Sie denkt nicht nur an sich, sondern an ihre ganze Familie.
+> „Güte“ heißt auf Hebräisch „Chesed“. Das bedeutet Treue, Liebe und Freundlichkeit, die man einander schuldet. Es ist ein Wort, das sonst oft für Gottes Treue steht.
+
+---
+
+### Die rote Schnur (Vers 15–21)
+
+<sup>15</sup>Dann ließ sie die Männer an einem Seil durch das Fenster hinunter.
+Denn ihr Haus war in die Stadtmauer gebaut, und sie wohnte in der Mauer.
+<sup>16</sup>Sie sagte zu ihnen:
+„Geht ins Gebirge, damit die Verfolger euch nicht finden.
+Versteckt euch dort drei Tage, bis die Verfolger zurückgekehrt sind.
+Danach könnt ihr euren Weg gehen.“
+<sup>17</sup>Die Männer sagten zu ihr:
+„Wir sind frei von diesem Eid, den du uns hast schwören lassen, wenn du nicht Folgendes tust:
+<sup>18</sup>Schau, wenn wir in das Land kommen,
+dann binde diese Schnur aus rotem Faden an das Fenster, durch das du uns hinuntergelassen hast.
+Und versammle bei dir im Haus deinen Vater, deine Mutter, deine Brüder und die ganze Familie deines Vaters.
+<sup>19</sup>Wer dann aus der Tür deines Hauses auf die Straße hinausgeht,
+dessen Blut kommt auf seinen eigenen Kopf, und wir sind ohne Schuld.
+Aber wer bei dir im Haus ist, dessen Blut soll auf unseren Kopf kommen,
+wenn jemand Hand an ihn legt.
+<sup>20</sup>Wenn du aber von unserer Sache erzählst,
+dann sind wir frei von deinem Eid, den du uns hast schwören lassen.“
+<sup>21</sup>Sie sagte: „So soll es sein, wie ihr gesagt habt.“
+Sie ließ sie gehen, und sie gingen weg.
+Und sie band die rote Schnur an das Fenster.
+
+> **Was bedeutet das?**
+> Rahabs Haus war Teil der Stadtmauer. Darum konnte sie die Männer direkt nach draußen lassen.
+> Die rote Schnur am Fenster ist ein Zeichen der Rettung. Viele Ausleger erinnern an das Passa in Ägypten: Dort war das rote Blut an den Türpfosten das Zeichen, dass der Tod an diesem Haus vorübergeht (2. Mose 12). Wer im Haus bleibt, ist sicher.
+> Rahab bindet die Schnur sofort an, nicht erst später. Sie vertraut dem Versprechen.
+
+---
+
+### Die Kundschafter kehren zurück (Vers 22–24)
+
+<sup>22</sup>Sie gingen ins Gebirge und blieben dort drei Tage, bis die Verfolger zurückgekehrt waren.
+Die Verfolger suchten sie auf dem ganzen Weg, aber sie fanden sie nicht.
+<sup>23</sup>Dann kehrten die beiden Männer um, stiegen vom Gebirge herab,
+überquerten den Fluss und kamen zu Josua, dem Sohn von Nun.
+Sie erzählten ihm alles, was ihnen geschehen war.
+<sup>24</sup>Sie sagten zu Josua:
+„Der HERR hat uns wirklich das ganze Land in die Hand gegeben.
+Und alle Bewohner des Landes zittern vor uns.“
+
+> **Was bedeutet das?**
+> Was für ein Unterschied zu den Kundschaftern vor 40 Jahren! Damals kamen zehn von zwölf voller Angst zurück (4. Mose 13). Jetzt bringen die Kundschafter eine Botschaft voller Vertrauen.
+> Rahab wird später gerettet (Kapitel 6). Sie heiratet einen Israeliten. Im Neuen Testament steht sie im Stammbaum von Jesus: Sie war die Mutter von Boas und damit eine Vorfahrin von König David (Matthäus 1,5). Der Hebräerbrief und der Jakobusbrief loben sie für ihren Glauben (Hebräer 11,31; Jakobus 2,25).
+> Gott schreibt Geschichte mit Menschen, die andere verachten.
+
+## Josua – Kapitel 3
+#### Der Zug durch den Jordan
+
+---
+
+### Folgt der Bundeslade (Vers 1–6)
+
+<sup>1</sup>Josua stand früh am Morgen auf.
+Sie brachen von Schittim auf und kamen an den Jordan, er und alle Israeliten.
+Dort übernachteten sie, bevor sie hinüberzogen.
+<sup>2</sup>Nach drei Tagen gingen die Amtsleute mitten durch das Lager
+<sup>3</sup>und geboten dem Volk:
+„Wenn ihr die Lade des Bundes des HERRN, eures Gottes, seht
+und die Priester, die Leviten, die sie tragen,
+dann sollt ihr von eurem Platz aufbrechen und ihr folgen.
+<sup>4</sup>Aber zwischen euch und ihr soll ein Abstand von etwa 900 Metern sein.
+Kommt nicht näher an sie heran.
+So werdet ihr wissen, auf welchem Weg ihr gehen sollt.
+Denn ihr seid diesen Weg noch nie gegangen.“
+<sup>5</sup>Josua sagte zum Volk:
+„Heiligt euch, denn morgen wird der HERR mitten unter euch Wunder tun.“
+<sup>6</sup>Und Josua sagte zu den Priestern:
+„Nehmt die Lade des Bundes und zieht vor dem Volk hinüber.“
+Da nahmen sie die Lade des Bundes und gingen vor dem Volk her.
+
+> **Was bedeutet das?**
+> In der Bibel steht: 2000 Ellen. Eine Elle sind etwa 45 Zentimeter.
+> Die Bundeslade war das Zeichen für Gottes Gegenwart. Sie geht voran. Das Volk folgt ihr. So ist es auch im Glauben: Gott geht voran, wir folgen.
+> Der große Abstand hat zwei Gründe: Aus Ehrfurcht vor Gottes Heiligkeit. Und damit alle die Lade sehen können, auch die ganz hinten.
+> „Ihr seid diesen Weg noch nie gegangen“: Vor einem neuen Lebensabschnitt kann man diesen Satz gut als Trost lesen. Wir kennen den Weg nicht, aber Gott kennt ihn.
+> „Heiligt euch“ heißt: Macht euch bereit für die Begegnung mit Gott, zum Beispiel durch Waschen und Gebet.
+
+---
+
+### Gott ist mit Josua (Vers 7–13)
+
+<sup>7</sup>Der HERR sagte zu Josua:
+„Heute will ich anfangen, dich vor den Augen von ganz Israel groß zu machen,
+damit sie erkennen: Wie ich mit Mose gewesen bin, so werde ich mit dir sein.
+<sup>8</sup>Du sollst den Priestern, die die Lade des Bundes tragen, gebieten:
+‚Wenn ihr an den Rand des Wassers des Jordan kommt,
+dann bleibt im Jordan stehen.‘“
+<sup>9</sup>Josua sagte zu den Israeliten:
+„Kommt her und hört die Worte des HERRN, eures Gottes.“
+<sup>10</sup>Und Josua sagte:
+„Daran sollt ihr erkennen, dass der lebendige Gott mitten unter euch ist
+und dass er die Kanaaniter, die Hetiter, die Hiwiter, die Perisiter,
+die Girgaschiter, die Amoriter und die Jebusiter ganz sicher vor euch vertreiben wird:
+<sup>11</sup>Schaut, die Lade des Bundes des Herrn der ganzen Erde zieht vor euch her in den Jordan.
+<sup>12</sup>Und nun nehmt euch zwölf Männer aus den Stämmen Israels, aus jedem Stamm einen Mann.
+<sup>13</sup>Und es wird geschehen:
+Sobald die Fußsohlen der Priester, die die Lade des HERRN tragen, des Herrn der ganzen Erde,
+im Wasser des Jordan stehen,
+wird das Wasser des Jordan abgeschnitten werden.
+Das Wasser, das von oben herabfließt, wird wie ein Damm stehen bleiben.“
+
+> **Was bedeutet das?**
+> „Der Herr der ganzen Erde“: Gott ist nicht nur der Gott Israels. Ihm gehört die ganze Welt. Darum kann er auch über den Fluss gebieten.
+> Die Priester müssen zuerst ihre Füße ins Wasser setzen. Erst dann geschieht das Wunder. Glaube heißt manchmal: den ersten Schritt tun, bevor man sieht, wie es ausgeht.
+
+---
+
+### Das Wasser bleibt stehen (Vers 14–17)
+
+<sup>14</sup>Als das Volk aus seinen Zelten aufbrach, um über den Jordan zu ziehen,
+und die Priester, die die Lade des Bundes trugen, vor dem Volk hergingen,
+<sup>15</sup>und als die Träger der Lade an den Jordan kamen
+und die Füße der Priester, die die Lade trugen, in den Rand des Wassers eintauchten –
+der Jordan aber tritt während der ganzen Erntezeit über alle seine Ufer –,
+<sup>16</sup>da blieb das Wasser, das von oben herabfloss, stehen.
+Es türmte sich wie ein Damm auf, sehr weit entfernt, bei der Stadt Adam, die neben Zaretan liegt.
+Und das Wasser, das hinunter zum Meer der Araba floss, zum Salzmeer, wurde ganz abgeschnitten.
+So zog das Volk gegenüber von Jericho hinüber.
+<sup>17</sup>Die Priester, die die Lade des Bundes des HERRN trugen,
+standen fest auf trockenem Boden mitten im Jordan.
+Und ganz Israel zog auf trockenem Boden hinüber,
+bis das ganze Volk vollständig über den Jordan gezogen war.
+
+> **Was bedeutet das?**
+> Im Frühling, zur Erntezeit, führt der Jordan viel Wasser vom Schnee des Hermon. Er tritt über die Ufer. Gerade dann scheint es unmöglich, hinüberzukommen.
+> Aber Gott hält das Wasser auf. Das erinnert an den Zug durch das Meer beim Auszug aus Ägypten (2. Mose 14). Die neue Generation erlebt dasselbe Wunder wie ihre Eltern. Am Anfang und am Ende der Wüstenwanderung steht ein Weg durch das Wasser.
+> Die Stadt Adam lag etwa 30 Kilometer flussaufwärts. Es wird berichtet, dass dort auch in späteren Zeiten Erdrutsche den Jordan für Stunden aufgestaut haben, zum Beispiel im Jahr 1927 bei einem Erdbeben. Ob Gott hier ein solches Ereignis benutzt hat oder ob es ganz anders geschah, sagt die Bibel nicht. Sie sagt: Es geschah genau in dem Moment, als die Priester ins Wasser traten, und es war Gottes Tat.
+> Christen denken bei diesem Fluss an die Taufe: Später wurde Jesus genau im Jordan getauft (Markus 1,9).
+
+## Josua – Kapitel 4
+#### Zwölf Steine zur Erinnerung
+
+---
+
+### Zwölf Steine aus dem Jordan (Vers 1–8)
+
+<sup>1</sup>Als das ganze Volk vollständig über den Jordan gezogen war, sprach der HERR zu Josua:
+<sup>2</sup>„Nehmt euch zwölf Männer aus dem Volk, aus jedem Stamm einen Mann,
+<sup>3</sup>und gebietet ihnen:
+‚Nehmt euch mitten aus dem Jordan, von der Stelle, wo die Füße der Priester fest gestanden haben, zwölf Steine.
+Tragt sie mit euch hinüber
+und legt sie an dem Ort nieder, an dem ihr heute Nacht übernachten werdet.‘“
+<sup>4</sup>Da rief Josua die zwölf Männer, die er aus den Israeliten bestimmt hatte, aus jedem Stamm einen Mann.
+<sup>5</sup>Josua sagte zu ihnen:
+„Geht vor der Lade des HERRN, eures Gottes, mitten in den Jordan,
+und jeder von euch soll einen Stein auf seine Schulter heben,
+nach der Zahl der Stämme der Israeliten,
+<sup>6</sup>damit das ein Zeichen unter euch ist.
+Wenn eure Kinder euch künftig fragen:
+‚Was bedeuten diese Steine für euch?‘,
+<sup>7</sup>dann sollt ihr ihnen sagen:
+‚Das Wasser des Jordan wurde vor der Lade des Bundes des HERRN abgeschnitten.
+Als sie über den Jordan zog, wurde das Wasser des Jordan abgeschnitten.
+Diese Steine sollen für die Israeliten für immer eine Erinnerung sein.‘“
+<sup>8</sup>Die Israeliten taten, wie Josua geboten hatte.
+Sie nahmen zwölf Steine mitten aus dem Jordan, wie der HERR es Josua gesagt hatte,
+nach der Zahl der Stämme der Israeliten.
+Sie trugen sie mit sich hinüber zu dem Ort, an dem sie übernachteten, und legten sie dort nieder.
+
+> **Was bedeutet das?**
+> Man vergisst schnell, was Gott getan hat. Darum sollen Steine aufgestellt werden, als Denkmal. Wenn Kinder fragen: „Was bedeuten diese Steine?“, dann sollen die Eltern erzählen.
+> Jeder Stamm trägt einen Stein. Alle zwölf Stämme gehören dazu, auch die, deren Land östlich des Jordan liegt.
+> So ist der Glaube oft entstanden: Kinder fragen, Eltern erzählen. Das kennen wir auch aus dem Passafest (2. Mose 12,26; 5. Mose 6,20).
+
+---
+
+### Auch im Jordan zwölf Steine (Vers 9–14)
+
+<sup>9</sup>Josua richtete auch zwölf Steine mitten im Jordan auf,
+an der Stelle, wo die Füße der Priester gestanden hatten, die die Lade des Bundes trugen.
+Und sie sind dort bis heute.
+<sup>10</sup>Denn die Priester, die die Lade trugen, standen mitten im Jordan,
+bis alles erledigt war, was der HERR Josua geboten hatte, dem Volk zu sagen,
+ganz nach allem, was Mose Josua geboten hatte.
+Und das Volk eilte und zog hinüber.
+<sup>11</sup>Als das ganze Volk vollständig hinübergezogen war,
+zog auch die Lade des HERRN mit den Priestern hinüber, vor den Augen des Volkes.
+<sup>12</sup>Die Rubeniten, die Gaditen und der halbe Stamm Manasse zogen bewaffnet vor den Israeliten hinüber,
+wie Mose es ihnen gesagt hatte.
+<sup>13</sup>Etwa 40.000 Mann, zum Krieg gerüstet und bewaffnet,
+zogen vor dem HERRN hinüber zum Kampf, in die Steppe von Jericho.
+<sup>14</sup>An diesem Tag machte der HERR Josua vor den Augen von ganz Israel groß.
+Und sie hatten Ehrfurcht vor ihm, wie sie Ehrfurcht vor Mose gehabt hatten, sein ganzes Leben lang.
+
+> **Was bedeutet das?**
+> Es gibt also zwei Denkmäler: eines im Fluss, wo die Priester standen, und eines am Ufer im Lager.
+> Die Priester blieben mitten im Flussbett stehen, bis der Letzte hinüber war. Wer die Lade trug, ging zuerst hinein und kam zuletzt heraus. So sollen Anführer sein: zuerst in die Gefahr, zuletzt in Sicherheit.
+> Die Krieger von Ruben, Gad und Manasse halten ihr Versprechen (4. Mose 32).
+
+---
+
+### Das Wasser kehrt zurück (Vers 15–18)
+
+<sup>15</sup>Der HERR sprach zu Josua:
+<sup>16</sup>„Gebiete den Priestern, die die Lade des Bundes tragen, aus dem Jordan heraufzusteigen.“
+<sup>17</sup>Da gebot Josua den Priestern: „Steigt aus dem Jordan herauf!“
+<sup>18</sup>Als die Priester, die die Lade des Bundes des HERRN trugen, mitten aus dem Jordan heraufstiegen
+und die Fußsohlen der Priester das trockene Land berührten,
+da kehrte das Wasser des Jordan an seinen Ort zurück
+und floss wieder über alle seine Ufer wie vorher.
+
+> **Was bedeutet das?**
+> In Vers 16 steht im Hebräischen „Lade des Zeugnisses“. Die englische Vorlage schreibt „Lade des Bundes“. Das ist ein anderer Name für die Bundeslade. „Zeugnis“ meint die Steintafeln mit den Zehn Geboten, die in der Lade lagen.
+> Sobald die Lade draußen ist, fließt der Fluss wieder. Das zeigt: Es war kein Zufall. Das Wasser war nur so lange weg, wie Gott es wollte.
+
+---
+
+### Die Steine von Gilgal (Vers 19–24)
+
+<sup>19</sup>Das Volk stieg am zehnten Tag des ersten Monats aus dem Jordan herauf
+und lagerte in Gilgal, an der Ostgrenze von Jericho.
+<sup>20</sup>Und die zwölf Steine, die sie aus dem Jordan genommen hatten, richtete Josua in Gilgal auf.
+<sup>21</sup>Er sagte zu den Israeliten:
+„Wenn eure Kinder künftig ihre Väter fragen:
+‚Was bedeuten diese Steine?‘,
+<sup>22</sup>dann sollt ihr es euren Kindern erklären und sagen:
+‚Israel ist auf trockenem Boden über diesen Jordan gezogen.
+<sup>23</sup>Denn der HERR, euer Gott, hat das Wasser des Jordan vor euch ausgetrocknet, bis ihr hinübergezogen wart,
+so wie der HERR, euer Gott, es mit dem Roten Meer gemacht hat,
+das er vor uns ausgetrocknet hat, bis wir hinübergezogen waren,
+<sup>24</sup>damit alle Völker der Erde erkennen, dass die Hand des HERRN mächtig ist,
+und damit ihr den HERRN, euren Gott, für immer fürchtet.‘“
+
+> **Was bedeutet das?**
+> Der zehnte Tag des ersten Monats ist genau der Tag, an dem in Ägypten die Passalämmer ausgesucht wurden (2. Mose 12,3). Vier Tage später feiert Israel im Land das erste Passa (Kapitel 5,10). 40 Jahre nach dem Auszug schließt sich der Kreis.
+> „Gilgal“ wurde das erste feste Lager Israels im Land. Der Name klingt wie das hebräische Wort für „Kreis“ oder „Steinkreis“.
+> In Vers 23 steht in der englischen Vorlage „Rotes Meer“, im Hebräischen „Schilfmeer“.
+> Das Ziel steht am Ende: „damit alle Völker der Erde erkennen“. Gottes Taten für Israel sollen der ganzen Welt zeigen, wer Gott ist.
