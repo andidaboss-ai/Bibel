@@ -119,7 +119,7 @@ dem HERRN zu Hilfe gegen die Starken.‘
 die Frau Hebers, des Keniters.
 Gesegnet sei sie vor allen Frauen im Zelt!
 [25] Wasser erbat er, Milch gab sie.
-In einer prächtigen Schale brachte sie ihm Sahne.
+In einer prächtigen Schale brachte sie ihm Butter.
 [26] Ihre Hand streckte sie nach dem Zeltpflock aus
 und ihre Rechte nach dem Hammer der Arbeiter.
 Sie schlug Sisera, sie zerschmetterte seinen Kopf.
@@ -129,7 +129,7 @@ Zu ihren Füßen sank er nieder und fiel.
 Wo er niedersank, da fiel er tot hin.
 
 > **Was bedeutet das?**
-> In der englischen Vorlage steht in Vers 25 „Butter“. Gemeint ist wohl dicke Sahne oder Sauermilch.
+> „Butter“: So steht es in der englischen Vorlage. Gemeint ist wohl dicke Sahne oder Sauermilch.
 > Das Lied feiert Jaël als Heldin. Die Worte wiederholen sich wie Hammerschläge: „sank nieder, fiel, lag da“. So wird der Sturz des mächtigen Feindes eindrucksvoll beschrieben.
 > „Gesegnet vor allen Frauen“: Ähnliche Worte sagt Elisabeth im Neuen Testament zu Maria (Lukas 1,42).
 > Wie in Kapitel 4 gilt: Die Bibel erzählt hier aus der Sicht eines Volkes, das lange unterdrückt war. Sie feiert die Befreiung. Das ist kein allgemeines Lob für Gewalt.

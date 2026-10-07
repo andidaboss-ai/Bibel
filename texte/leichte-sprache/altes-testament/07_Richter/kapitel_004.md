@@ -7,7 +7,7 @@
 
 [1] Die Israeliten taten wieder, was in den Augen des HERRN böse war, als Ehud gestorben war.
 [2] Da verkaufte der HERR sie in die Hand von Jabin, dem König von Kanaan, der in Hazor regierte.
-Der Anführer seines Heeres war Sisera, der in Haroschet-Gojim wohnte.
+Der Anführer seines Heeres war Sisera, der in Haroschet der Völker wohnte.
 [3] Da schrien die Israeliten zum HERRN.
 Denn er hatte neunhundert eiserne Streitwagen
 und unterdrückte die Israeliten zwanzig Jahre lang mit großer Gewalt.
@@ -15,7 +15,7 @@ und unterdrückte die Israeliten zwanzig Jahre lang mit großer Gewalt.
 > **Was bedeutet das?**
 > Wieder der Kreislauf: Ehud stirbt, Israel fällt ab, ein Feind kommt.
 > Neunhundert eiserne Streitwagen waren damals eine gewaltige Armee. Israel hatte keine solchen Waffen.
-> „Haroschet-Gojim“ heißt „Haroschet der Völker“. Die englische Vorlage schreibt „Haroschet der Heiden“.
+> „Haroschet der Völker“ heißt auf Hebräisch „Haroschet-Gojim“. Die englische Vorlage schreibt „Haroschet der Heiden“, gemeint sind Völker, die nicht zu Israel gehörten.
 
 ---
 
@@ -67,7 +67,7 @@ Er hatte sein Zelt bis zur Eiche bei Zaanannim aufgeschlagen, die bei Kedesch li
 
 [12] Man berichtete Sisera, dass Barak, der Sohn von Abinoam, auf den Berg Tabor hinaufgezogen war.
 [13] Da versammelte Sisera alle seine Streitwagen, neunhundert eiserne Streitwagen,
-und das ganze Volk, das bei ihm war, von Haroschet-Gojim an den Bach Kischon.
+und das ganze Volk, das bei ihm war, von Haroschet der Völker an den Bach Kischon.
 [14] Debora sagte zu Barak:
 „Auf! Denn das ist der Tag, an dem der HERR Sisera in deine Hand gegeben hat.
 Ist nicht der HERR vor dir ausgezogen?“
@@ -75,7 +75,7 @@ Da stieg Barak vom Berg Tabor hinab, und zehntausend Mann hinter ihm.
 [15] Und der HERR brachte Sisera, alle seine Streitwagen und sein ganzes Heer
 mit der Schärfe des Schwertes vor Barak in Verwirrung.
 Sisera stieg von seinem Streitwagen ab und floh zu Fuß.
-[16] Barak verfolgte die Streitwagen und das Heer bis Haroschet-Gojim.
+[16] Barak verfolgte die Streitwagen und das Heer bis Haroschet der Völker.
 Und das ganze Heer Siseras fiel durch die Schärfe des Schwertes.
 Es blieb nicht einer übrig.
 

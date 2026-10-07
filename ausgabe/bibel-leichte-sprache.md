@@ -30394,7 +30394,7 @@ Auch er rettete Israel.
 
 <sup>1</sup>Die Israeliten taten wieder, was in den Augen des HERRN böse war, als Ehud gestorben war.
 <sup>2</sup>Da verkaufte der HERR sie in die Hand von Jabin, dem König von Kanaan, der in Hazor regierte.
-Der Anführer seines Heeres war Sisera, der in Haroschet-Gojim wohnte.
+Der Anführer seines Heeres war Sisera, der in Haroschet der Völker wohnte.
 <sup>3</sup>Da schrien die Israeliten zum HERRN.
 Denn er hatte neunhundert eiserne Streitwagen
 und unterdrückte die Israeliten zwanzig Jahre lang mit großer Gewalt.
@@ -30402,7 +30402,7 @@ und unterdrückte die Israeliten zwanzig Jahre lang mit großer Gewalt.
 > **Was bedeutet das?**
 > Wieder der Kreislauf: Ehud stirbt, Israel fällt ab, ein Feind kommt.
 > Neunhundert eiserne Streitwagen waren damals eine gewaltige Armee. Israel hatte keine solchen Waffen.
-> „Haroschet-Gojim“ heißt „Haroschet der Völker“. Die englische Vorlage schreibt „Haroschet der Heiden“.
+> „Haroschet der Völker“ heißt auf Hebräisch „Haroschet-Gojim“. Die englische Vorlage schreibt „Haroschet der Heiden“, gemeint sind Völker, die nicht zu Israel gehörten.
 
 ---
 
@@ -30454,7 +30454,7 @@ Er hatte sein Zelt bis zur Eiche bei Zaanannim aufgeschlagen, die bei Kedesch li
 
 <sup>12</sup>Man berichtete Sisera, dass Barak, der Sohn von Abinoam, auf den Berg Tabor hinaufgezogen war.
 <sup>13</sup>Da versammelte Sisera alle seine Streitwagen, neunhundert eiserne Streitwagen,
-und das ganze Volk, das bei ihm war, von Haroschet-Gojim an den Bach Kischon.
+und das ganze Volk, das bei ihm war, von Haroschet der Völker an den Bach Kischon.
 <sup>14</sup>Debora sagte zu Barak:
 „Auf! Denn das ist der Tag, an dem der HERR Sisera in deine Hand gegeben hat.
 Ist nicht der HERR vor dir ausgezogen?“
@@ -30462,7 +30462,7 @@ Da stieg Barak vom Berg Tabor hinab, und zehntausend Mann hinter ihm.
 <sup>15</sup>Und der HERR brachte Sisera, alle seine Streitwagen und sein ganzes Heer
 mit der Schärfe des Schwertes vor Barak in Verwirrung.
 Sisera stieg von seinem Streitwagen ab und floh zu Fuß.
-<sup>16</sup>Barak verfolgte die Streitwagen und das Heer bis Haroschet-Gojim.
+<sup>16</sup>Barak verfolgte die Streitwagen und das Heer bis Haroschet der Völker.
 Und das ganze Heer Siseras fiel durch die Schärfe des Schwertes.
 Es blieb nicht einer übrig.
 
@@ -30636,7 +30636,7 @@ dem HERRN zu Hilfe gegen die Starken.‘
 die Frau Hebers, des Keniters.
 Gesegnet sei sie vor allen Frauen im Zelt!
 <sup>25</sup>Wasser erbat er, Milch gab sie.
-In einer prächtigen Schale brachte sie ihm Sahne.
+In einer prächtigen Schale brachte sie ihm Butter.
 <sup>26</sup>Ihre Hand streckte sie nach dem Zeltpflock aus
 und ihre Rechte nach dem Hammer der Arbeiter.
 Sie schlug Sisera, sie zerschmetterte seinen Kopf.
@@ -30646,7 +30646,7 @@ Zu ihren Füßen sank er nieder und fiel.
 Wo er niedersank, da fiel er tot hin.
 
 > **Was bedeutet das?**
-> In der englischen Vorlage steht in Vers 25 „Butter“. Gemeint ist wohl dicke Sahne oder Sauermilch.
+> „Butter“: So steht es in der englischen Vorlage. Gemeint ist wohl dicke Sahne oder Sauermilch.
 > Das Lied feiert Jaël als Heldin. Die Worte wiederholen sich wie Hammerschläge: „sank nieder, fiel, lag da“. So wird der Sturz des mächtigen Feindes eindrucksvoll beschrieben.
 > „Gesegnet vor allen Frauen“: Ähnliche Worte sagt Elisabeth im Neuen Testament zu Maria (Lukas 1,42).
 > Wie in Kapitel 4 gilt: Die Bibel erzählt hier aus der Sicht eines Volkes, das lange unterdrückt war. Sie feiert die Befreiung. Das ist kein allgemeines Lob für Gewalt.
