@@ -28979,3 +28979,372 @@ Sie wurden aber zu Knechten, die Zwangsarbeit leisten mussten.
 > Wieder ein ehrlicher Satz: Efraim vertrieb die Kanaaniter in Geser nicht. Sie blieben, mussten aber Zwangsarbeit leisten.
 > Viel später eroberte der Pharao von Ägypten Geser und gab die Stadt seiner Tochter als Hochzeitsgeschenk, als sie König Salomo heiratete (1. Könige 9,16).
 > Das Buch der Richter sieht diese unvollständige Eroberung kritisch: Die Völker, die im Land blieben, verführten Israel später zum Götzendienst (Richter 1,29; 2,1–3). Zwangsarbeit für Menschen eines anderen Volkes entspricht nicht unserem heutigen Verständnis von Menschenwürde.
+
+## Josua – Kapitel 17
+#### Das Gebiet von Manasse
+
+---
+
+### Die Sippen von Manasse (Vers 1–2)
+
+<sup>1</sup>Das war das Los für den Stamm Manasse, denn er war der Erstgeborene Josefs.
+Machir, der Erstgeborene Manasses, der Vater Gileads, war ein Kriegsmann.
+Darum bekam er Gilead und Baschan.
+<sup>2</sup>Und für die übrigen Nachkommen Manasses nach ihren Sippen war dieses Los:
+für die Nachkommen Abiësers, für die Nachkommen Heleks, für die Nachkommen Asriëls,
+für die Nachkommen Sichems, für die Nachkommen Hefers und für die Nachkommen Schemidas.
+Das waren die männlichen Nachkommen Manasses, des Sohnes Josefs, nach ihren Sippen.
+
+> **Was bedeutet das?**
+> Machir hatte schon Land östlich des Jordan bekommen (Kapitel 13). Jetzt bekommen die anderen Sippen von Manasse Land westlich des Jordan.
+> Aus der Sippe Abiëser stammte später Gideon, einer der bekanntesten Richter (Richter 6,11).
+
+---
+
+### Die Töchter Zelofhads bekommen ihr Erbe (Vers 3–6)
+
+<sup>3</sup>Aber Zelofhad, der Sohn von Hefer, dem Sohn von Gilead, dem Sohn von Machir, dem Sohn von Manasse,
+hatte keine Söhne, sondern nur Töchter.
+Das sind die Namen seiner Töchter: Machla, Noa, Hogla, Milka und Tirza.
+<sup>4</sup>Sie traten vor Eleasar, den Priester, vor Josua, den Sohn von Nun, und vor die Anführer und sagten:
+„Der HERR hat Mose geboten, uns ein Erbe unter unseren Brüdern zu geben.“
+Da gab er ihnen nach dem Befehl des HERRN ein Erbe unter den Brüdern ihres Vaters.
+<sup>5</sup>So fielen Manasse zehn Anteile zu,
+zusätzlich zum Land Gilead und Baschan, das jenseits des Jordan liegt.
+<sup>6</sup>Denn die Töchter Manasses bekamen ein Erbe unter seinen Söhnen.
+Und das Land Gilead gehörte den übrigen Nachkommen Manasses.
+
+> **Was bedeutet das?**
+> Die fünf Schwestern kennen wir aus 4. Mose 27 und 36. Mose hatte ihnen ein Erbe versprochen. Jetzt, Jahre später, erinnern sie selbstbewusst daran. Und das Versprechen wird gehalten.
+> Die zehn Anteile: fünf für die Sippen der Söhne (ohne Hefer) und fünf für die Töchter Zelofhads. Die Frauen bekommen genauso Land wie die Männer.
+
+---
+
+### Die Grenzen von Manasse (Vers 7–13)
+
+<sup>7</sup>Die Grenze Manasses reichte von Asser bis nach Michmetat, das gegenüber von Sichem liegt.
+Und die Grenze ging nach rechts zu den Bewohnern von En-Tappuach.
+<sup>8</sup>Das Land Tappuach gehörte Manasse,
+aber die Stadt Tappuach an der Grenze Manasses gehörte den Nachkommen Efraims.
+<sup>9</sup>Die Grenze ging hinab zum Bach Kana, südlich vom Bach.
+Diese Städte gehörten Efraim, mitten unter den Städten Manasses.
+Die Grenze Manasses lag an der Nordseite des Baches und endete am Meer.
+<sup>10</sup>Was südlich lag, gehörte Efraim, und was nördlich lag, gehörte Manasse.
+Das Meer war seine Grenze.
+Im Norden grenzten sie an Asser und im Osten an Issachar.
+<sup>11</sup>Manasse hatte in Issachar und in Asser:
+Bet-Schean und seine Tochterstädte, Jibleam und seine Tochterstädte,
+die Bewohner von Dor und seine Tochterstädte,
+die Bewohner von En-Dor und seine Tochterstädte,
+die Bewohner von Taanach und seine Tochterstädte
+und die Bewohner von Megiddo und seine Tochterstädte,
+die drei Höhen.
+<sup>12</sup>Aber die Nachkommen Manasses konnten die Bewohner dieser Städte nicht vertreiben.
+Und die Kanaaniter blieben entschlossen in diesem Land wohnen.
+<sup>13</sup>Als die Israeliten stark wurden, machten sie die Kanaaniter zu Zwangsarbeitern.
+Aber sie vertrieben sie nicht ganz.
+
+> **Was bedeutet das?**
+> „Nach rechts“ heißt in der Bibel oft „nach Süden“, weil man sich beim Bestimmen der Richtung nach Osten, zum Sonnenaufgang, ausrichtete.
+> „Die drei Höhen“: Was genau damit gemeint ist, ist unklar. Vielleicht sind es drei Städte auf Hügeln aus dieser Liste.
+> Bet-Schean, Megiddo und Taanach waren starke, befestigte Städte in der fruchtbaren Ebene. Manasse konnte sie nicht einnehmen. Wieder sagt die Bibel ehrlich: Die Eroberung war nicht vollständig.
+> In En-Dor lebte später die Totenbeschwörerin, die König Saul aufsuchte (1. Samuel 28).
+> Zwangsarbeit für Menschen eines anderen Volkes entspricht nicht unserem heutigen Verständnis von Menschenwürde.
+
+---
+
+### Die Nachkommen Josefs wollen mehr Land (Vers 14–18)
+
+<sup>14</sup>Die Nachkommen Josefs sprachen zu Josua:
+„Warum hast du mir nur ein Los und einen Anteil als Erbe gegeben?
+Wir sind doch ein zahlreiches Volk, weil der HERR uns bis jetzt so gesegnet hat.“
+<sup>15</sup>Josua sagte zu ihnen:
+„Wenn ihr ein zahlreiches Volk seid,
+dann geht hinauf in den Wald und rodet euch dort Land
+im Land der Perisiter und der Refaiter,
+wenn euch das Bergland Efraim zu eng ist.“
+<sup>16</sup>Die Nachkommen Josefs sagten:
+„Das Bergland reicht uns nicht.
+Und alle Kanaaniter, die im Land der Ebene wohnen, haben eiserne Streitwagen,
+sowohl die in Bet-Schean und seinen Tochterstädten als auch die in der Ebene Jesreel.“
+<sup>17</sup>Josua sprach zum Haus Josefs, zu Efraim und zu Manasse:
+„Ihr seid ein zahlreiches Volk und habt große Kraft.
+Ihr sollt nicht nur ein einziges Los haben.
+<sup>18</sup>Sondern das Bergland soll euch gehören.
+Auch wenn es Wald ist, ihr werdet ihn roden, und es wird euch gehören bis an seine äußersten Enden.
+Denn ihr werdet die Kanaaniter vertreiben, auch wenn sie eiserne Streitwagen haben und stark sind.“
+
+> **Was bedeutet das?**
+> Die Nachkommen Josefs beschweren sich: Wir sind so viele, wir brauchen mehr Land! Josua antwortet klug: Wenn ihr so viele und so stark seid, dann arbeitet! Rodet den Wald.
+> Sie haben Angst vor den eisernen Streitwagen in der Ebene. Aber Josua macht ihnen Mut: Ihr seid stark genug.
+> Josua selbst stammte aus dem Stamm Efraim. Trotzdem bevorzugt er seinen eigenen Stamm nicht. Er gibt ihm kein geschenktes Land, sondern fordert ihn heraus.
+> Das Bergland war damals noch stark bewaldet. Archäologen haben gefunden, dass gerade in der Zeit um 1200 vor Christus im Bergland viele neue kleine Dörfer entstanden. Viele Forscher sehen darin die Anfänge Israels.
+
+## Josua – Kapitel 18
+#### Das Zelt in Schilo – das Gebiet von Benjamin
+
+---
+
+### Das Zelt der Begegnung kommt nach Schilo (Vers 1)
+
+<sup>1</sup>Die ganze Gemeinde der Israeliten versammelte sich in Schilo,
+und sie stellten dort das Zelt der Begegnung auf.
+Und das Land war vor ihnen unterworfen.
+
+> **Was bedeutet das?**
+> Schilo liegt mitten im Land, im Gebiet von Efraim. Hier wird das heilige Zelt aufgestellt. Für mehr als 200 Jahre ist Schilo der Mittelpunkt des Gottesdienstes in Israel. Hier betete später Hanna, die Mutter des Propheten Samuel (1. Samuel 1).
+> Es ist ein wichtiger Moment: Gott wohnt jetzt mitten in seinem Land.
+
+---
+
+### Sieben Stämme haben noch kein Land (Vers 2–10)
+
+<sup>2</sup>Unter den Israeliten blieben noch sieben Stämme übrig, die ihr Erbe noch nicht verteilt hatten.
+<sup>3</sup>Josua sagte zu den Israeliten:
+„Wie lange wollt ihr noch zögern, hinzugehen und das Land in Besitz zu nehmen,
+das der HERR, der Gott eurer Väter, euch gegeben hat?
+<sup>4</sup>Bestimmt für euch drei Männer aus jedem Stamm.
+Ich will sie losschicken.
+Sie sollen sich aufmachen, durch das Land ziehen
+und es nach ihren Erbteilen beschreiben.
+Dann sollen sie zu mir zurückkommen.
+<sup>5</sup>Sie sollen es in sieben Teile teilen.
+Juda soll in seinem Gebiet im Süden bleiben,
+und das Haus Josef soll in seinem Gebiet im Norden bleiben.
+<sup>6</sup>Ihr sollt das Land in sieben Teilen beschreiben
+und die Beschreibung hierher zu mir bringen.
+Dann will ich hier vor dem HERRN, unserem Gott, das Los für euch werfen.
+<sup>7</sup>Aber die Leviten haben keinen Anteil unter euch,
+denn das Priestertum des HERRN ist ihr Erbe.
+Und Gad, Ruben und der halbe Stamm Manasse haben ihr Erbe östlich des Jordan bekommen,
+das Mose, der Knecht des HERRN, ihnen gegeben hat.“
+<sup>8</sup>Die Männer machten sich auf und gingen.
+Josua gebot denen, die gingen, um das Land zu beschreiben:
+„Geht, zieht durch das Land, beschreibt es und kommt wieder zu mir.
+Dann will ich hier vor dem HERRN in Schilo das Los für euch werfen.“
+<sup>9</sup>Die Männer gingen hin und zogen durch das Land.
+Sie beschrieben es nach den Städten in sieben Teilen in einem Buch.
+Und sie kamen zu Josua ins Lager nach Schilo zurück.
+<sup>10</sup>Josua warf in Schilo vor dem HERRN das Los für sie.
+Dort verteilte Josua das Land an die Israeliten nach ihren Abteilungen.
+
+> **Was bedeutet das?**
+> Sieben Stämme warten noch. Josua fragt sie: „Wie lange wollt ihr noch zögern?“ Gott hat ihnen das Land geschenkt, aber sie müssen es auch in Besitz nehmen.
+> Das ist eine Lehre auch für heute: Gottes Geschenke wollen angenommen werden. Man darf nicht einfach abwarten.
+> Die 21 Männer sind wie Landvermesser. Sie schreiben alles in ein Buch. Das ist eine der ersten Beschreibungen einer Landvermessung in der Geschichte.
+
+---
+
+### Die Grenzen von Benjamin (Vers 11–20)
+
+<sup>11</sup>Das Los des Stammes der Nachkommen Benjamins nach ihren Sippen kam heraus.
+Das Gebiet ihres Loses lag zwischen den Nachkommen Judas und den Nachkommen Josefs.
+<sup>12</sup>Ihre Grenze auf der Nordseite begann am Jordan.
+Die Grenze ging hinauf an der Seite von Jericho im Norden
+und ging hinauf durch das Bergland nach Westen.
+Und sie endete an der Wüste von Bet-Awen.
+<sup>13</sup>Von dort führte die Grenze hinüber nach Lus, an der Seite von Lus – das ist Bethel – im Süden.
+Die Grenze ging hinab nach Atrot-Addar, beim Berg, der südlich von Unter-Bet-Horon liegt.
+<sup>14</sup>Die Grenze zog sich weiter und wandte sich an der Westseite nach Süden,
+von dem Berg, der südlich vor Bet-Horon liegt.
+Und sie endete bei Kirjat-Baal – das ist Kirjat-Jearim –, einer Stadt der Nachkommen Judas.
+Das war die Westseite.
+<sup>15</sup>Die Südseite begann am äußersten Ende von Kirjat-Jearim.
+Die Grenze ging hinaus nach Westen und ging hinaus zur Quelle des Wassers von Neftoach.
+<sup>16</sup>Die Grenze ging hinab zum äußersten Ende des Berges, der vor dem Tal des Sohnes Hinnoms liegt,
+das im Tal der Refaiter im Norden liegt.
+Sie ging hinab in das Tal Hinnom, an der Südseite der Jebusiter entlang,
+und ging hinab nach En-Rogel.
+<sup>17</sup>Sie zog sich nach Norden, ging hinaus nach En-Schemesch
+und ging hinaus nach Gelilot, das gegenüber dem Aufstieg von Adummim liegt.
+Und sie ging hinab zum Stein Bohans, des Sohnes Rubens.
+<sup>18</sup>Sie führte hinüber zur Seite gegenüber der Araba im Norden und ging hinab in die Araba.
+<sup>19</sup>Die Grenze führte hinüber zur Seite von Bet-Hogla im Norden.
+Und die Grenze endete an der Nordbucht des Salzmeeres, am Südende des Jordan.
+Das war die Südgrenze.
+<sup>20</sup>Und der Jordan war die Grenze auf der Ostseite.
+Das war das Erbe der Nachkommen Benjamins nach seinen Grenzen ringsum, nach ihren Sippen.
+
+> **Was bedeutet das?**
+> Benjamin war ein kleiner Stamm. Er bekam ein kleines, aber wichtiges Gebiet zwischen den beiden großen Stämmen Juda und Efraim.
+> Die Südgrenze von Benjamin ist genau die Nordgrenze von Juda (Kapitel 15). Sie läuft am Tal Hinnom entlang, direkt an Jerusalem vorbei.
+> Aus Benjamin kam später der erste König Israels, Saul (1. Samuel 9,1–2). Und im Neuen Testament sagt der Apostel Paulus von sich, dass er aus dem Stamm Benjamin stammt (Philipper 3,5).
+
+---
+
+### Die Städte von Benjamin (Vers 21–28)
+
+<sup>21</sup>Die Städte des Stammes der Nachkommen Benjamins nach ihren Sippen waren:
+Jericho, Bet-Hogla, Emek-Keziz,
+<sup>22</sup>Bet-Araba, Zemarajim, Bethel,
+<sup>23</sup>Awim, Para, Ofra,
+<sup>24</sup>Kefar-Ammoni, Ofni und Geba.
+Zwölf Städte mit ihren Dörfern.
+<sup>25</sup>Gibeon, Rama, Beerot,
+<sup>26</sup>Mizpe, Kefira, Moza,
+<sup>27</sup>Rekem, Jirpeel, Tarala,
+<sup>28</sup>Zela, Elef, die Jebusiterstadt – das ist Jerusalem –, Gibeat und Kirjat.
+Vierzehn Städte mit ihren Dörfern.
+Das ist das Erbe der Nachkommen Benjamins nach ihren Sippen.
+
+> **Was bedeutet das?**
+> Jerusalem wird hier Benjamin zugeteilt. In Kapitel 15,63 wurde es bei Juda genannt. Es lag genau an der Grenze zwischen beiden Stämmen.
+> „Gibeat“ ist vermutlich Gibea, die Heimatstadt von König Saul.
+> Gibeon gehört auch zu Benjamin, die Stadt der Gibeoniter, mit denen Israel einen Bund geschlossen hatte (Kapitel 9).
+
+## Josua – Kapitel 19
+#### Die Gebiete der übrigen Stämme
+
+---
+
+### Simeon (Vers 1–9)
+
+<sup>1</sup>Das zweite Los kam heraus für Simeon, für den Stamm der Nachkommen Simeons nach ihren Sippen.
+Ihr Erbe lag mitten im Erbe der Nachkommen Judas.
+<sup>2</sup>Sie hatten als Erbe: Beerscheba oder Scheba, Molada,
+<sup>3</sup>Hazar-Schual, Bala, Ezem,
+<sup>4</sup>Eltolad, Betul, Horma,
+<sup>5</sup>Ziklag, Bet-Markabot, Hazar-Susa,
+<sup>6</sup>Bet-Lebaot und Scharuhen.
+Dreizehn Städte mit ihren Dörfern.
+<sup>7</sup>Ajin, Rimmon, Eter und Aschan.
+Vier Städte mit ihren Dörfern.
+<sup>8</sup>Und alle Dörfer rings um diese Städte bis nach Baalat-Beer, dem Rama des Südens.
+Das ist das Erbe des Stammes der Nachkommen Simeons nach ihren Sippen.
+<sup>9</sup>Aus dem Anteil der Nachkommen Judas kam das Erbe der Nachkommen Simeons.
+Denn der Anteil der Nachkommen Judas war zu groß für sie.
+Darum bekamen die Nachkommen Simeons ihr Erbe mitten in deren Erbe.
+
+> **Was bedeutet das?**
+> Simeon bekommt kein eigenes Gebiet, sondern Städte mitten in Juda. Das erfüllt, was Jakob vor seinem Tod gesagt hatte: Simeon wird in Israel zerstreut werden (1. Mose 49,7).
+> Später ging der Stamm Simeon ganz im Stamm Juda auf. Darum wurde er in Moses Segen in 5. Mose 33 nicht mehr erwähnt.
+> Juda hatte zu viel Land. Es teilt mit seinem kleineren Bruderstamm.
+> Wenn man „Scheba“ als eigenen Ort zählt, sind es in Vers 2–6 vierzehn Namen. „Beerscheba oder Scheba“ meint aber wohl denselben Ort. Dann stimmt die Zahl 13.
+
+---
+
+### Sebulon (Vers 10–16)
+
+<sup>10</sup>Das dritte Los kam herauf für die Nachkommen Sebulons nach ihren Sippen.
+Die Grenze ihres Erbes reichte bis Sarid.
+<sup>11</sup>Ihre Grenze ging hinauf nach Westen bis Marala und erreichte Dabbeschet.
+Sie erreichte den Bach, der gegenüber von Jokneam fließt.
+<sup>12</sup>Von Sarid wandte sie sich nach Osten, wo die Sonne aufgeht, zur Grenze von Kislot-Tabor.
+Sie ging hinaus nach Daberat und ging hinauf nach Jafia.
+<sup>13</sup>Von dort führte sie hinüber nach Osten, nach Gat-Hefer und Et-Kazin.
+Sie ging hinaus nach Rimmon, das sich bis Nea erstreckt.
+<sup>14</sup>Die Grenze wandte sich im Norden um nach Hannaton
+und endete im Tal Jiftach-El.
+<sup>15</sup>Dazu Kattat, Nahalal, Schimron, Jidala und Betlehem.
+Zwölf Städte mit ihren Dörfern.
+<sup>16</sup>Das ist das Erbe der Nachkommen Sebulons nach ihren Sippen, diese Städte mit ihren Dörfern.
+
+> **Was bedeutet das?**
+> Sebulon bekam ein Gebiet in Galiläa im Norden. Später lag die Stadt Nazaret in dieser Gegend, wo Jesus aufwuchs.
+> Gat-Hefer war die Heimat des Propheten Jona (2. Könige 14,25).
+> Das Betlehem hier ist ein anderer Ort in Galiläa, nicht das Betlehem in Juda, wo David und Jesus geboren wurden.
+
+---
+
+### Issachar (Vers 17–23)
+
+<sup>17</sup>Das vierte Los kam heraus für Issachar, für die Nachkommen Issachars nach ihren Sippen.
+<sup>18</sup>Ihr Gebiet umfasste Jesreel, Kesullot, Schunem,
+<sup>19</sup>Hafarajim, Schion, Anaharat,
+<sup>20</sup>Rabbit, Kischjon, Ebez,
+<sup>21</sup>Remet, En-Gannim, En-Hadda und Bet-Pazzez.
+<sup>22</sup>Die Grenze erreichte den Tabor, Schahazuma und Bet-Schemesch.
+Und ihre Grenze endete am Jordan.
+Sechzehn Städte mit ihren Dörfern.
+<sup>23</sup>Das ist das Erbe des Stammes der Nachkommen Issachars nach ihren Sippen, die Städte mit ihren Dörfern.
+
+> **Was bedeutet das?**
+> Issachar bekam die fruchtbare Ebene Jesreel. Der Tabor ist ein auffälliger, runder Berg. Viele Christen glauben, dass dort die Verklärung von Jesus stattfand (Markus 9,2).
+> In Schunem lebte die Frau, deren Sohn der Prophet Elisa vom Tod erweckte (2. Könige 4).
+
+---
+
+### Asser (Vers 24–31)
+
+<sup>24</sup>Das fünfte Los kam heraus für den Stamm der Nachkommen Assers nach ihren Sippen.
+<sup>25</sup>Ihr Gebiet umfasste Helkat, Hali, Beten, Achschaf,
+<sup>26</sup>Allammelech, Amad und Mischal.
+Es reichte im Westen bis zum Karmel und bis Schihor-Libnat.
+<sup>27</sup>Es wandte sich nach Osten, wo die Sonne aufgeht, nach Bet-Dagon,
+erreichte Sebulon und das Tal Jiftach-El im Norden, Bet-Emek und Negiël.
+Und es ging hinaus nach Kabul zur linken Seite,
+<sup>28</sup>und Ebron, Rehob, Hammon und Kana bis zum großen Sidon.
+<sup>29</sup>Die Grenze wandte sich nach Rama bis zur befestigten Stadt Tyrus.
+Und die Grenze wandte sich nach Hosa und endete am Meer, bei der Gegend von Achsib,
+<sup>30</sup>auch Umma, Afek und Rehob.
+Zweiundzwanzig Städte mit ihren Dörfern.
+<sup>31</sup>Das ist das Erbe des Stammes der Nachkommen Assers nach ihren Sippen, diese Städte mit ihren Dörfern.
+
+> **Was bedeutet das?**
+> Asser bekam die Küste im Norden, bis zu den großen Handelsstädten Sidon und Tyrus im heutigen Libanon. Diese Städte hat Israel nie wirklich beherrscht.
+> Der Karmel ist ein Gebirge am Meer, bei der heutigen Stadt Haifa. Dort hatte später der Prophet Elia seinen großen Wettstreit mit den Propheten des Baal (1. Könige 18).
+
+---
+
+### Naftali (Vers 32–39)
+
+<sup>32</sup>Das sechste Los kam heraus für die Nachkommen Naftalis, für die Nachkommen Naftalis nach ihren Sippen.
+<sup>33</sup>Ihre Grenze reichte von Helef, von der Eiche bei Zaanannim,
+Adami-Nekeb und Jabneel bis Lakkum.
+Und sie endete am Jordan.
+<sup>34</sup>Die Grenze wandte sich nach Westen nach Asnot-Tabor
+und ging von dort hinaus nach Hukkok.
+Im Süden erreichte sie Sebulon, im Westen erreichte sie Asser
+und im Osten Juda am Jordan.
+<sup>35</sup>Die befestigten Städte waren Ziddim, Zer, Hammat, Rakkat, Kinneret,
+<sup>36</sup>Adama, Rama, Hazor,
+<sup>37</sup>Kedesch, Edreï, En-Hazor,
+<sup>38</sup>Jiron, Migdal-El, Horem, Bet-Anat und Bet-Schemesch.
+Neunzehn Städte mit ihren Dörfern.
+<sup>39</sup>Das ist das Erbe des Stammes der Nachkommen Naftalis nach ihren Sippen, die Städte mit ihren Dörfern.
+
+> **Was bedeutet das?**
+> Naftali bekam das Land am See Genezareth (Kinneret) und nördlich davon. Hier hat Jesus später viel gepredigt und Wunder getan. Matthäus zitiert dazu den Propheten Jesaja: „Das Land Sebulon und das Land Naftali … das Volk, das in der Finsternis saß, hat ein großes Licht gesehen“ (Matthäus 4,13–16).
+> „Juda am Jordan“ im Osten ist rätselhaft, weil Juda weit im Süden lag. Vielleicht ist ein Ort mit ähnlichem Namen gemeint. Die griechische Übersetzung hat diese Worte nicht.
+
+---
+
+### Dan (Vers 40–48)
+
+<sup>40</sup>Das siebte Los kam heraus für den Stamm der Nachkommen Dans nach ihren Sippen.
+<sup>41</sup>Das Gebiet ihres Erbes umfasste Zora, Eschtaol, Ir-Schemesch,
+<sup>42</sup>Schaalabbin, Ajalon, Jitla,
+<sup>43</sup>Elon, Timna, Ekron,
+<sup>44</sup>Elteke, Gibbeton, Baalat,
+<sup>45</sup>Jehud, Bene-Berak, Gat-Rimmon,
+<sup>46</sup>Me-Jarkon und Rakkon, mit dem Gebiet gegenüber von Joppe.
+<sup>47</sup>Das Gebiet der Nachkommen Dans ging über sie hinaus.
+Denn die Nachkommen Dans zogen hinauf und kämpften gegen Leschem.
+Sie nahmen es ein und schlugen es mit der Schärfe des Schwertes.
+Sie nahmen es in Besitz und wohnten darin.
+Und sie nannten Leschem „Dan“, nach dem Namen ihres Vaters Dan.
+<sup>48</sup>Das ist das Erbe des Stammes der Nachkommen Dans nach ihren Sippen, diese Städte mit ihren Dörfern.
+
+> **Was bedeutet das?**
+> „Das Gebiet ging über sie hinaus“: So steht es in der englischen Vorlage. Der hebräische Satz ist schwer zu verstehen. Viele übersetzen: „Das Gebiet ging ihnen verloren“, weil die Amoriter sie bedrängten (Richter 1,34).
+> Dan bekam zuerst ein Gebiet an der Küste, bei der heutigen Stadt Tel Aviv. „Joppe“ ist das heutige Jaffa. „Bene-Berak“ gibt es als Stadt bis heute.
+> Weil sie sich dort nicht halten konnten, zogen sie weit in den Norden und nahmen die Stadt Leschem (auch Lajisch genannt) ein. Diese Geschichte wird ausführlich in Richter 18 erzählt. Seitdem sagte man für ganz Israel: „Von Dan bis Beerscheba“, also vom Norden bis zum Süden.
+> Zora gehörte zu Dan. Von dort stammte Simson (Richter 13,2).
+
+---
+
+### Josuas Erbe (Vers 49–51)
+
+<sup>49</sup>So vollendeten sie die Verteilung des Landes als Erbe nach seinen Grenzen.
+Und die Israeliten gaben Josua, dem Sohn von Nun, ein Erbe mitten unter sich.
+<sup>50</sup>Nach dem Befehl des HERRN gaben sie ihm die Stadt, um die er bat:
+Timnat-Serach im Bergland Efraim.
+Er baute die Stadt auf und wohnte darin.
+<sup>51</sup>Das sind die Erbteile, die Eleasar, der Priester, Josua, der Sohn von Nun,
+und die Oberhäupter der Familien der Stämme der Israeliten durch das Los verteilt haben,
+in Schilo vor dem HERRN, am Eingang des Zeltes der Begegnung.
+So vollendeten sie die Verteilung des Landes.
+
+> **Was bedeutet das?**
+> Josua nimmt sich sein Erbe als Letzter. Erst als alle anderen versorgt sind, bekommt er sein Stück Land. Und er nimmt sich keine große, prächtige Stadt, sondern einen Ort, den er selbst erst aufbauen muss. Er ist ein Anführer, der zuerst an die anderen denkt.
+> Mit diesem Kapitel ist die Verteilung des Landes abgeschlossen. Das Versprechen an Abraham ist erfüllt: Seine Nachkommen haben ein Land, in dem sie wohnen können.
