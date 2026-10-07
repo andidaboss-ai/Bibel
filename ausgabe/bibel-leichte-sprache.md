@@ -27883,3 +27883,451 @@ Darum heißt dieser Ort bis heute „Tal Achor“.
 > Diese Strafe ist erschreckend hart. Und besonders schwer ist: Nach Vers 24 werden auch seine Söhne und Töchter mitgenommen. Ob sie mitbestraft wurden, sagt der Text nicht ganz eindeutig. Wenn ja, dann steht das im Widerspruch zu dem Gebot in 5. Mose 24,16: Kinder sollen nicht für die Schuld der Eltern bestraft werden. Manche Ausleger meinen, die Familie habe von dem Diebstahl gewusst und ihn mitverheimlicht, weil das Versteck mitten im gemeinsamen Zelt war.
 > Wir müssen ehrlich sagen: Diese Geschichte ist schwer zu ertragen. Sie zeigt, wie ernst damals der Bann genommen wurde. Aber sie ist kein Vorbild für den Umgang mit Schuld. Niemand darf sich darauf berufen, um Menschen hart zu bestrafen oder ihre Familien leiden zu lassen.
 > Später verspricht der Prophet Hosea etwas Wunderbares: Gott will das „Tal Achor“, das Tal des Unglücks, zu einer „Tür der Hoffnung“ machen (Hosea 2,17; in manchen Bibeln 2,15). Selbst aus dem Ort der Schande kann Gott einen Neuanfang machen.
+
+## Josua – Kapitel 8
+#### Ai wird eingenommen – der Altar auf dem Berg Ebal
+
+---
+
+### Gott ermutigt Josua (Vers 1–2)
+
+<sup>1</sup>Der HERR sagte zu Josua:
+„Hab keine Angst und lass dich nicht entmutigen.
+Nimm alle Krieger mit dir, mach dich auf und zieh hinauf nach Ai.
+Schau, ich habe den König von Ai, sein Volk, seine Stadt und sein Land in deine Hand gegeben.
+<sup>2</sup>Du sollst mit Ai und seinem König tun, was du mit Jericho und seinem König getan hast.
+Nur seine Beute und sein Vieh dürft ihr für euch nehmen.
+Leg einen Hinterhalt gegen die Stadt, hinter ihr.“
+
+> **Was bedeutet das?**
+> Nach der Schuld kommt ein Neuanfang. Gott sagt wieder: „Hab keine Angst.“ Die Sache mit Achan ist erledigt. Gott ist wieder mit seinem Volk.
+> Diesmal dürfen die Israeliten die Beute behalten. Hätte Achan gewartet, hätte er bekommen, was er sich gewünscht hatte.
+
+---
+
+### Der Plan mit dem Hinterhalt (Vers 3–13)
+
+<sup>3</sup>Da machte sich Josua mit allen Kriegern auf, um nach Ai hinaufzuziehen.
+Josua wählte 30.000 Mann aus, tapfere Krieger, und schickte sie in der Nacht los.
+<sup>4</sup>Er gebot ihnen:
+„Schaut, ihr sollt euch hinter der Stadt in einen Hinterhalt legen.
+Entfernt euch nicht sehr weit von der Stadt, sondern seid alle bereit.
+<sup>5</sup>Ich und das ganze Volk, das bei mir ist, wir werden uns der Stadt nähern.
+Und wenn sie gegen uns herauskommen wie beim ersten Mal, dann werden wir vor ihnen fliehen.
+<sup>6</sup>Sie werden hinter uns herkommen, bis wir sie von der Stadt weggelockt haben.
+Denn sie werden sagen: ‚Sie fliehen vor uns wie beim ersten Mal.‘
+So werden wir vor ihnen fliehen,
+<sup>7</sup>und ihr sollt aus dem Hinterhalt aufstehen und die Stadt einnehmen.
+Denn der HERR, euer Gott, wird sie in eure Hand geben.
+<sup>8</sup>Und wenn ihr die Stadt eingenommen habt, dann sollt ihr die Stadt in Brand stecken.
+Nach dem Wort des HERRN sollt ihr handeln.
+Schaut, ich habe es euch geboten.“
+<sup>9</sup>Josua schickte sie los, und sie gingen in den Hinterhalt.
+Sie blieben zwischen Bethel und Ai, westlich von Ai.
+Josua aber blieb in dieser Nacht beim Volk.
+<sup>10</sup>Josua stand früh am Morgen auf, musterte das Volk
+und zog vor dem Volk hinauf nach Ai, er und die Ältesten Israels.
+<sup>11</sup>Und das ganze Kriegsvolk, das bei ihm war, zog hinauf und kam nahe heran.
+Sie kamen vor die Stadt und lagerten nördlich von Ai.
+Zwischen ihm und Ai lag ein Tal.
+<sup>12</sup>Er nahm etwa 5000 Mann und legte sie in einen Hinterhalt zwischen Bethel und Ai, westlich der Stadt.
+<sup>13</sup>So stellten sie das Volk auf: das ganze Heer nördlich der Stadt
+und seinen Hinterhalt westlich der Stadt.
+Und Josua ging in dieser Nacht mitten in das Tal.
+
+> **Was bedeutet das?**
+> Die Zahlen sind verwirrend: In Vers 3 sind es 30.000 Mann, in Vers 12 nur 5000 im Hinterhalt. Ausleger erklären das unterschiedlich. Vielleicht gab es zwei Gruppen. Vielleicht wurde der Text bei der Überlieferung verändert. Das hebräische Wort für „tausend“ kann auch eine militärische Einheit bedeuten, die viel kleiner war. Dann wären die Zahlen viel kleiner gewesen.
+> Josua benutzt die Niederlage aus Kapitel 7 als List: Die Männer von Ai denken, Israel flieht wieder.
+
+---
+
+### Der Sieg über Ai (Vers 14–23)
+
+<sup>14</sup>Als der König von Ai das sah,
+eilten die Männer der Stadt und standen früh auf und zogen gegen Israel in den Kampf hinaus,
+er und sein ganzes Volk, zur festgesetzten Zeit, in Richtung der Araba.
+Aber er wusste nicht, dass hinter der Stadt ein Hinterhalt gegen ihn lag.
+<sup>15</sup>Josua und ganz Israel taten so, als wären sie vor ihnen geschlagen,
+und flohen auf dem Weg zur Wüste.
+<sup>16</sup>Das ganze Volk, das in der Stadt war, wurde zusammengerufen, um sie zu verfolgen.
+Sie verfolgten Josua und wurden von der Stadt weggelockt.
+<sup>17</sup>Es blieb kein Mann in Ai und Bethel, der nicht hinter Israel her hinausgezogen wäre.
+Sie ließen die Stadt offen und verfolgten Israel.
+<sup>18</sup>Der HERR sagte zu Josua:
+„Streck den Speer, der in deiner Hand ist, gegen Ai aus.
+Denn ich will es in deine Hand geben.“
+Da streckte Josua den Speer, der in seiner Hand war, gegen die Stadt aus.
+<sup>19</sup>Sobald er seine Hand ausstreckte, brach der Hinterhalt schnell von seinem Ort auf.
+Sie rannten los, kamen in die Stadt und nahmen sie ein.
+Und sie steckten die Stadt schnell in Brand.
+<sup>20</sup>Als die Männer von Ai sich umdrehten, sahen sie,
+und schaut: Der Rauch der Stadt stieg zum Himmel auf.
+Und sie hatten keine Möglichkeit, hierhin oder dorthin zu fliehen.
+Und das Volk, das zur Wüste geflohen war, wandte sich gegen die Verfolger.
+<sup>21</sup>Als Josua und ganz Israel sahen, dass der Hinterhalt die Stadt eingenommen hatte
+und dass der Rauch der Stadt aufstieg,
+kehrten sie um und erschlugen die Männer von Ai.
+<sup>22</sup>Und die anderen kamen aus der Stadt ihnen entgegen,
+sodass sie mitten zwischen Israel waren, die einen auf dieser Seite, die anderen auf jener Seite.
+Sie schlugen sie, bis keiner von ihnen übrig blieb oder entkam.
+<sup>23</sup>Den König von Ai aber nahmen sie lebend gefangen und brachten ihn zu Josua.
+
+> **Was bedeutet das?**
+> Der ausgestreckte Speer erinnert an Mose, der beim Kampf gegen die Amalekiter seine Hände erhoben hielt (2. Mose 17,11). Er ist ein Zeichen: Gott gibt den Sieg.
+> Bethel lag nur wenige Kilometer entfernt. Auch seine Männer kamen Ai zu Hilfe.
+
+---
+
+### Ai wird zerstört (Vers 24–29)
+
+<sup>24</sup>Als Israel alle Bewohner von Ai auf dem Feld, in der Wüste, wo sie sie verfolgt hatten, getötet hatte,
+und alle durch die Schärfe des Schwertes gefallen waren, bis sie ganz aufgerieben waren,
+da kehrte ganz Israel nach Ai zurück und schlug es mit der Schärfe des Schwertes.
+<sup>25</sup>Alle, die an diesem Tag fielen, Männer und Frauen, waren 12.000,
+alle Leute von Ai.
+<sup>26</sup>Denn Josua zog seine Hand, mit der er den Speer ausgestreckt hatte, nicht zurück,
+bis er an allen Bewohnern von Ai den Bann vollstreckt hatte.
+<sup>27</sup>Nur das Vieh und die Beute dieser Stadt nahm Israel für sich,
+nach dem Wort des HERRN, das er Josua geboten hatte.
+<sup>28</sup>Und Josua verbrannte Ai und machte es für immer zu einem Schutthügel, zu einer Wüste, bis heute.
+<sup>29</sup>Den König von Ai ließ er bis zum Abend an einem Baum aufhängen.
+Als die Sonne unterging, gebot Josua, und man nahm seinen Leichnam vom Baum
+und warf ihn an den Eingang des Stadttors.
+Und man errichtete über ihm einen großen Steinhaufen, der bis heute da ist.
+
+> **Was bedeutet das?**
+> Wieder wird eine ganze Stadt vernichtet, auch die Frauen. Das ist für uns schrecklich. Was bei Jericho gesagt wurde, gilt auch hier: Die Bibel beschreibt den Krieg ihrer Zeit. Diese Berichte dürfen niemals benutzt werden, um Gewalt zu rechtfertigen.
+> Archäologen haben in Ai (heute „et-Tell“) für die Zeit Josuas keine bewohnte Stadt gefunden. Darüber wird viel diskutiert. Manche meinen, das richtige Ai sei noch nicht gefunden.
+> Der Leichnam des Königs wird noch am Abend abgenommen, wie es das Gesetz verlangt (5. Mose 21,22–23).
+
+---
+
+### Der Altar auf dem Berg Ebal (Vers 30–35)
+
+<sup>30</sup>Damals baute Josua dem HERRN, dem Gott Israels, einen Altar auf dem Berg Ebal,
+<sup>31</sup>wie Mose, der Knecht des HERRN, es den Israeliten geboten hatte,
+wie es im Buch des Gesetzes des Mose geschrieben steht:
+einen Altar aus unbehauenen Steinen, an die niemand ein Eisenwerkzeug gelegt hatte.
+Sie brachten darauf dem HERRN Brandopfer dar und schlachteten Gemeinschaftsopfer.
+<sup>32</sup>Dort schrieb er auf die Steine eine Abschrift des Gesetzes des Mose,
+das er vor den Augen der Israeliten geschrieben hatte.
+<sup>33</sup>Ganz Israel, mit seinen Ältesten, Amtsleuten und Richtern,
+stand auf beiden Seiten der Lade, gegenüber den Priestern, den Leviten, die die Lade des Bundes des HERRN trugen,
+der Fremde genauso wie der Einheimische.
+Die eine Hälfte stand vor dem Berg Garizim und die andere Hälfte vor dem Berg Ebal,
+wie Mose, der Knecht des HERRN, es früher geboten hatte, um das Volk Israel zu segnen.
+<sup>34</sup>Danach las er alle Worte des Gesetzes vor, den Segen und den Fluch,
+genau so, wie es im Buch des Gesetzes geschrieben steht.
+<sup>35</sup>Es gab kein Wort von allem, was Mose geboten hatte,
+das Josua nicht vor der ganzen Versammlung Israels vorlas,
+auch vor den Frauen, den kleinen Kindern und den Fremden, die mitten unter ihnen lebten.
+
+> **Was bedeutet das?**
+> Mitten in der Zeit der Kämpfe hält Josua inne. Er tut, was Mose geboten hatte (5. Mose 27). Das Gesetz wird auf Steine geschrieben und dem ganzen Volk vorgelesen.
+> „Es gab kein Wort, das Josua nicht vorlas“: Josua liest alles vor, ohne etwas wegzulassen. Das ist auch das Ziel dieser Bibel: kein Wort auszulassen.
+> Wieder sind alle dabei: Frauen, Kinder und Fremde. Gottes Wort gilt allen.
+> Auf dem Berg Ebal haben Archäologen eine alte Steinanlage gefunden, die manche für diesen Altar halten. Andere sind da skeptisch.
+
+## Josua – Kapitel 9
+#### Die List der Gibeoniter
+
+---
+
+### Die Könige verbünden sich (Vers 1–2)
+
+<sup>1</sup>Alle Könige jenseits des Jordan, im Bergland, im Hügelland und an der ganzen Küste des großen Meeres gegenüber dem Libanon,
+die Hetiter, die Amoriter, die Kanaaniter, die Perisiter, die Hiwiter und die Jebusiter, hörten davon.
+<sup>2</sup>Da versammelten sie sich, um einmütig gegen Josua und gegen Israel zu kämpfen.
+
+> **Was bedeutet das?**
+> „Jenseits des Jordan“ meint hier: westlich des Jordan, von Josuas Lager aus gesehen. Die Könige des Landes schließen sich gegen Israel zusammen.
+
+---
+
+### Die Gibeoniter verkleiden sich (Vers 3–15)
+
+<sup>3</sup>Als aber die Bewohner von Gibeon hörten, was Josua mit Jericho und mit Ai getan hatte,
+<sup>4</sup>da handelten auch sie mit List.
+Sie gingen hin und taten so, als wären sie Gesandte.
+Sie nahmen alte Säcke auf ihre Esel
+und alte, zerrissene und geflickte Weinschläuche,
+<sup>5</sup>und alte, geflickte Sandalen an ihre Füße,
+und sie zogen alte Kleider an.
+Und alles Brot ihres Proviants war trocken und schimmelig.
+<sup>6</sup>Sie gingen zu Josua ins Lager nach Gilgal und sagten zu ihm und zu den Männern Israels:
+„Wir sind aus einem fernen Land gekommen.
+Schließt nun einen Bund mit uns.“
+<sup>7</sup>Die Männer Israels sagten zu den Hiwitern:
+„Vielleicht wohnt ihr mitten unter uns? Wie könnten wir da einen Bund mit euch schließen?“
+<sup>8</sup>Sie sagten zu Josua: „Wir sind deine Diener.“
+Josua sagte zu ihnen: „Wer seid ihr? Und woher kommt ihr?“
+<sup>9</sup>Sie sagten zu ihm:
+„Deine Diener sind aus einem sehr fernen Land gekommen, wegen des Namens des HERRN, deines Gottes.
+Denn wir haben von seinem Ruhm gehört und von allem, was er in Ägypten getan hat,
+<sup>10</sup>und von allem, was er den beiden Königen der Amoriter jenseits des Jordan getan hat,
+Sihon, dem König von Heschbon, und Og, dem König von Baschan, der in Aschtarot wohnte.
+<sup>11</sup>Unsere Ältesten und alle Bewohner unseres Landes haben zu uns gesagt:
+‚Nehmt Proviant für den Weg mit und geht ihnen entgegen.
+Sagt zu ihnen: „Wir sind eure Diener. Schließt nun einen Bund mit uns.“‘
+<sup>12</sup>Dieses Brot hier haben wir noch warm als Proviant aus unseren Häusern mitgenommen,
+an dem Tag, an dem wir losgezogen sind, um zu euch zu kommen.
+Aber jetzt, schaut, ist es trocken und schimmelig geworden.
+<sup>13</sup>Und diese Weinschläuche, die wir gefüllt haben, waren neu.
+Und schaut, sie sind zerrissen.
+Und unsere Kleider und unsere Sandalen sind alt geworden von dem sehr weiten Weg.“
+<sup>14</sup>Da nahmen die Männer etwas von ihrem Proviant.
+Aber den Mund des HERRN fragten sie nicht.
+<sup>15</sup>Und Josua schloss Frieden mit ihnen und schloss einen Bund mit ihnen, sie am Leben zu lassen.
+Und die Anführer der Gemeinde schworen ihnen.
+
+> **Was bedeutet das?**
+> Gibeon war eine Stadt nur etwa 10 Kilometer nordwestlich von Jerusalem, ganz nah bei Ai. Die Gibeoniter wussten: Mit den Völkern im Land soll Israel keinen Bund schließen (5. Mose 7,2). Aber mit fernen Völkern darf es Frieden schließen (5. Mose 20,10–15). Darum tun sie so, als kämen sie von weit her.
+> Sie haben sich eine raffinierte Verkleidung ausgedacht: altes Brot, zerrissene Schläuche, abgetragene Sandalen.
+> Der entscheidende Satz ist Vers 14: „Den Mund des HERRN fragten sie nicht.“ Sie haben sich auf ihre Augen verlassen und nicht auf Gott. Das war der Fehler.
+
+---
+
+### Die List wird entdeckt (Vers 16–21)
+
+<sup>16</sup>Drei Tage, nachdem sie den Bund mit ihnen geschlossen hatten,
+hörten sie, dass sie ihre Nachbarn waren und mitten unter ihnen wohnten.
+<sup>17</sup>Die Israeliten brachen auf und kamen am dritten Tag zu ihren Städten.
+Ihre Städte waren Gibeon, Kefira, Beerot und Kirjat-Jearim.
+<sup>18</sup>Die Israeliten erschlugen sie nicht,
+weil die Anführer der Gemeinde ihnen beim HERRN, dem Gott Israels, geschworen hatten.
+Und die ganze Gemeinde murrte gegen die Anführer.
+<sup>19</sup>Aber alle Anführer sagten zur ganzen Gemeinde:
+„Wir haben ihnen beim HERRN, dem Gott Israels, geschworen.
+Darum dürfen wir sie jetzt nicht antasten.
+<sup>20</sup>Das wollen wir mit ihnen tun: Wir lassen sie am Leben,
+damit kein Zorn über uns kommt wegen des Eides, den wir ihnen geschworen haben.“
+<sup>21</sup>Die Anführer sagten zu ihnen: „Sie sollen am Leben bleiben.“
+So wurden sie Holzhauer und Wasserschöpfer für die ganze Gemeinde,
+wie die Anführer es ihnen gesagt hatten.
+
+> **Was bedeutet das?**
+> Obwohl Israel betrogen wurde, hält es seinen Eid. Ein Versprechen im Namen Gottes ist heilig, auch wenn es unter falschen Voraussetzungen gegeben wurde.
+> Viele Jahrhunderte später hat König Saul diesen Eid gebrochen und Gibeoniter getötet. Das wurde schwer bestraft (2. Samuel 21,1–9). Gott nimmt Versprechen ernst.
+> Das Ergebnis ist etwas Gutes: Die Gibeoniter bleiben am Leben. Ein Eid hat Menschenleben gerettet.
+
+---
+
+### Josua stellt die Gibeoniter zur Rede (Vers 22–27)
+
+<sup>22</sup>Josua rief sie und sagte zu ihnen:
+„Warum habt ihr uns betrogen und gesagt: ‚Wir wohnen sehr weit weg von euch‘,
+obwohl ihr mitten unter uns wohnt?
+<sup>23</sup>Darum seid ihr jetzt verflucht.
+Und einige von euch werden für immer Knechte sein,
+Holzhauer und Wasserschöpfer für das Haus meines Gottes.“
+<sup>24</sup>Sie antworteten Josua und sagten:
+„Deinen Dienern wurde genau berichtet, was der HERR, dein Gott, seinem Knecht Mose geboten hat:
+euch das ganze Land zu geben und alle Bewohner des Landes vor euch zu vernichten.
+Da hatten wir große Angst um unser Leben wegen euch,
+und darum haben wir das getan.
+<sup>25</sup>Und jetzt, schau, sind wir in deiner Hand.
+Tu mit uns, was dir gut und recht erscheint.“
+<sup>26</sup>Da tat er so mit ihnen
+und rettete sie aus der Hand der Israeliten, sodass sie sie nicht töteten.
+<sup>27</sup>An diesem Tag machte Josua sie zu Holzhauern und Wasserschöpfern
+für die Gemeinde und für den Altar des HERRN, bis heute,
+an dem Ort, den er erwählen würde.
+
+> **Was bedeutet das?**
+> Die Gibeoniter sagen ehrlich, warum sie gelogen haben: aus Todesangst. Sie haben Gottes Macht erkannt, ähnlich wie Rahab.
+> Sie müssen nun für immer einfache Dienste leisten: Holz hacken und Wasser tragen. Das war eine niedrige Stellung. Aber sie dienen am Altar Gottes. So gehören sie zum Gottesdienst Israels.
+> Später lebten Gibeoniter weiter in Israel. Nach dem Exil in Babylon kehrten Nachkommen von Gibeon mit nach Jerusalem zurück und halfen beim Wiederaufbau der Stadtmauer (Nehemia 3,7; 7,25).
+> Auch eine Knechtschaft wie hier entspricht nicht unserem heutigen Verständnis von Menschenwürde. Aber im Vergleich zum Tod war sie Rettung.
+
+## Josua – Kapitel 10
+#### Die Sonne steht still – die Eroberung des Südens
+
+---
+
+### Fünf Könige greifen Gibeon an (Vers 1–5)
+
+<sup>1</sup>Adoni-Zedek, der König von Jerusalem, hörte, dass Josua Ai eingenommen
+und an ihm den Bann vollstreckt hatte,
+dass er mit Ai und seinem König getan hatte, was er mit Jericho und seinem König getan hatte,
+und dass die Bewohner von Gibeon Frieden mit Israel geschlossen hatten und mitten unter ihnen lebten.
+<sup>2</sup>Da hatten sie große Angst.
+Denn Gibeon war eine große Stadt, wie eine der Königsstädte.
+Es war größer als Ai, und alle seine Männer waren tapfere Krieger.
+<sup>3</sup>Darum schickte Adoni-Zedek, der König von Jerusalem,
+zu Hoham, dem König von Hebron, zu Piram, dem König von Jarmut,
+zu Jafia, dem König von Lachisch, und zu Debir, dem König von Eglon, und ließ ihnen sagen:
+<sup>4</sup>„Kommt herauf zu mir und helft mir.
+Wir wollen Gibeon schlagen,
+denn es hat Frieden mit Josua und mit den Israeliten geschlossen.“
+<sup>5</sup>Da versammelten sich die fünf Könige der Amoriter,
+der König von Jerusalem, der König von Hebron, der König von Jarmut,
+der König von Lachisch und der König von Eglon.
+Sie zogen hinauf, sie und alle ihre Heere,
+lagerten vor Gibeon und kämpften gegen die Stadt.
+
+> **Was bedeutet das?**
+> Hier wird Jerusalem zum ersten Mal in der Bibel mit diesem Namen genannt. Damals war es eine Stadt der Jebusiter. Erst König David hat es später eingenommen.
+> „Adoni-Zedek“ bedeutet „Mein Herr ist Gerechtigkeit“. Das erinnert an Melchisedek, den König von Salem, den Abraham traf (1. Mose 14,18).
+> Die fünf Könige greifen nicht Israel an, sondern Gibeon, weil es zu Israel übergelaufen ist.
+
+---
+
+### Josua hilft Gibeon (Vers 6–11)
+
+<sup>6</sup>Die Männer von Gibeon schickten zu Josua ins Lager nach Gilgal und ließen ihm sagen:
+„Lass deine Diener nicht im Stich!
+Komm schnell zu uns herauf und rette uns! Hilf uns!
+Denn alle Könige der Amoriter, die im Bergland wohnen, haben sich gegen uns versammelt.“
+<sup>7</sup>Da zog Josua von Gilgal hinauf, er und das ganze Kriegsvolk mit ihm und alle tapferen Krieger.
+<sup>8</sup>Der HERR sagte zu Josua:
+„Hab keine Angst vor ihnen, denn ich habe sie in deine Hände gegeben.
+Keiner von ihnen wird vor dir bestehen.“
+<sup>9</sup>Josua kam plötzlich über sie. Er war die ganze Nacht von Gilgal heraufgezogen.
+<sup>10</sup>Und der HERR brachte sie vor Israel in Verwirrung.
+Er schlug sie in einer großen Schlacht bei Gibeon
+und verfolgte sie auf dem Weg zum Aufstieg von Bet-Horon
+und schlug sie bis nach Aseka und bis nach Makkeda.
+<sup>11</sup>Als sie vor Israel flohen und am Abhang von Bet-Horon waren,
+warf der HERR große Steine vom Himmel auf sie herab, bis nach Aseka, und sie starben.
+Es starben mehr durch die Hagelsteine als durch das Schwert der Israeliten.
+
+> **Was bedeutet das?**
+> Israel hält sein Versprechen. Die Gibeoniter hatten sie betrogen. Trotzdem kommt Josua ihnen sofort zu Hilfe, sogar mit einem Nachtmarsch von etwa 30 Kilometern bergauf. Ein Bund ist ein Bund.
+> Gott selbst kämpft mit: durch Verwirrung und durch einen gewaltigen Hagelsturm.
+
+---
+
+### Sonne, steh still! (Vers 12–15)
+
+<sup>12</sup>Damals sprach Josua zum HERRN, an dem Tag, an dem der HERR die Amoriter den Israeliten preisgab.
+Er sagte vor den Augen Israels:
+„Sonne, steh still über Gibeon!
+Und du, Mond, über dem Tal Ajalon!“
+<sup>13</sup>Da stand die Sonne still, und der Mond blieb stehen,
+bis das Volk sich an seinen Feinden gerächt hatte.
+Steht das nicht im Buch des Aufrechten geschrieben?
+Die Sonne blieb mitten am Himmel stehen
+und beeilte sich etwa einen ganzen Tag lang nicht, unterzugehen.
+<sup>14</sup>Es gab keinen Tag wie diesen, weder vorher noch nachher,
+an dem der HERR so auf die Stimme eines Menschen gehört hat.
+Denn der HERR kämpfte für Israel.
+<sup>15</sup>Und Josua kehrte zurück und ganz Israel mit ihm ins Lager nach Gilgal.
+
+> **Was bedeutet das?**
+> Das ist eine der berühmtesten und rätselhaftesten Stellen der Bibel. Josua bittet: Sonne, steh still! Und der Tag wird länger, damit Israel den Sieg vollenden kann.
+> Josuas Worte sind ein Gedicht. Es stammt aus dem „Buch des Aufrechten“ (Hebräisch: „Sefer ha-Jaschar“). Das war eine alte Sammlung von Liedern, die heute verloren ist. Auch das Klagelied von David über Saul und Jonatan stand darin (2. Samuel 1,18).
+> Wie soll man das verstehen? Juden und Christen haben verschiedene Antworten gegeben:
+> Manche glauben an ein wörtliches Wunder: Gott hat den Lauf der Himmelskörper angehalten.
+> Andere sagen: Es ist die Sprache eines Siegesliedes. Es will sagen: An diesem Tag hat Gott so mächtig geholfen, als hätte die Zeit stillgestanden.
+> Wieder andere meinen: Josua bat darum, dass die Sonne „schweigt“, also sich verdunkelt, zum Beispiel durch das Hagelunwetter. Das hebräische Wort kann auch „schweigen“ bedeuten.
+> Im Jahr 1633 berief sich die katholische Kirche unter anderem auf diese Stelle, um Galileo Galilei zu verurteilen, weil er sagte, dass sich die Erde um die Sonne dreht. Heute weiß man: Die Bibel spricht hier in der Sprache der Menschen, die sehen, wie die Sonne „aufgeht“ und „untergeht“. Sie will keine Lehre über Astronomie geben. Die katholische Kirche hat Galilei 1992 offiziell rehabilitiert.
+> Das Wichtigste steht in Vers 14: „Der HERR hörte auf die Stimme eines Menschen.“ Gott nimmt das Gebet eines Menschen ernst.
+> Vers 15 erzählt kurz die Rückkehr. In Vers 21 ist das Lager aber in Makkeda. Vielleicht ist Vers 15 eine Vorwegnahme, und die Rückkehr nach Gilgal geschah erst am Ende des Feldzuges (Vers 43).
+
+---
+
+### Die fünf Könige in der Höhle (Vers 16–27)
+
+<sup>16</sup>Diese fünf Könige flohen und versteckten sich in der Höhle bei Makkeda.
+<sup>17</sup>Josua wurde berichtet:
+„Die fünf Könige sind gefunden worden. Sie haben sich in der Höhle bei Makkeda versteckt.“
+<sup>18</sup>Josua sagte:
+„Wälzt große Steine vor den Eingang der Höhle
+und stellt Männer davor, die sie bewachen.
+<sup>19</sup>Ihr aber bleibt nicht stehen.
+Verfolgt eure Feinde und greift ihre Nachhut an.
+Lasst sie nicht in ihre Städte hineinkommen.
+Denn der HERR, euer Gott, hat sie in eure Hand gegeben.“
+<sup>20</sup>Als Josua und die Israeliten damit fertig waren, sie in einer sehr großen Schlacht zu schlagen, bis sie aufgerieben waren,
+und als die Übriggebliebenen von ihnen in die befestigten Städte entkommen waren,
+<sup>21</sup>da kehrte das ganze Volk in Frieden zu Josua ins Lager nach Makkeda zurück.
+Niemand wagte es, gegen die Israeliten auch nur die Zunge zu bewegen.
+<sup>22</sup>Dann sagte Josua:
+„Öffnet den Eingang der Höhle und bringt diese fünf Könige aus der Höhle zu mir heraus.“
+<sup>23</sup>Sie taten es und brachten diese fünf Könige aus der Höhle zu ihm heraus:
+den König von Jerusalem, den König von Hebron, den König von Jarmut,
+den König von Lachisch und den König von Eglon.
+<sup>24</sup>Als sie diese Könige zu Josua herausgebracht hatten,
+rief Josua alle Männer Israels
+und sagte zu den Anführern der Krieger, die mit ihm gezogen waren:
+„Kommt her, setzt eure Füße auf den Nacken dieser Könige.“
+Sie kamen heran und setzten ihre Füße auf ihren Nacken.
+<sup>25</sup>Josua sagte zu ihnen:
+„Habt keine Angst und lasst euch nicht entmutigen.
+Seid stark und mutig!
+Denn so wird der HERR es mit allen euren Feinden machen, gegen die ihr kämpft.“
+<sup>26</sup>Danach schlug Josua sie und tötete sie
+und hängte sie an fünf Bäume.
+Sie hingen an den Bäumen bis zum Abend.
+<sup>27</sup>Zur Zeit des Sonnenuntergangs gebot Josua, und man nahm sie von den Bäumen ab
+und warf sie in die Höhle, in der sie sich versteckt hatten.
+Und man legte große Steine vor den Eingang der Höhle, die bis heute da sind.
+
+> **Was bedeutet das?**
+> „Den Fuß auf den Nacken setzen“ war damals ein Zeichen des Sieges. Man sieht das auch auf alten Bildern aus Ägypten und Assyrien.
+> Die Hinrichtung der Könige ist hart. Auch hier wird das Gesetz beachtet: Die Toten werden vor Sonnenuntergang abgenommen (5. Mose 21,23).
+> Die Höhle, in der die Könige Schutz suchten, wird zu ihrem Grab.
+
+---
+
+### Die Städte im Süden werden erobert (Vers 28–39)
+
+<sup>28</sup>Josua nahm an diesem Tag Makkeda ein
+und schlug es mit der Schärfe des Schwertes, mit seinem König.
+Er vollstreckte den Bann an der Stadt und an allen Menschen, die darin waren.
+Er ließ niemanden übrig.
+Mit dem König von Makkeda tat er, was er mit dem König von Jericho getan hatte.
+<sup>29</sup>Josua zog von Makkeda weiter, und ganz Israel mit ihm, nach Libna und kämpfte gegen Libna.
+<sup>30</sup>Der HERR gab auch diese Stadt mit ihrem König in die Hand Israels.
+Er schlug sie mit der Schärfe des Schwertes, mit allen Menschen, die darin waren.
+Er ließ niemanden darin übrig.
+Mit ihrem König tat er, was er mit dem König von Jericho getan hatte.
+<sup>31</sup>Josua zog von Libna weiter, und ganz Israel mit ihm, nach Lachisch.
+Er belagerte die Stadt und kämpfte gegen sie.
+<sup>32</sup>Der HERR gab Lachisch in die Hand Israels.
+Er nahm es am zweiten Tag ein und schlug es mit der Schärfe des Schwertes,
+mit allen Menschen, die darin waren, ganz so, wie er es mit Libna getan hatte.
+<sup>33</sup>Damals kam Horam, der König von Geser, herauf, um Lachisch zu helfen.
+Aber Josua schlug ihn und sein Volk, bis er niemanden von ihm übrig ließ.
+<sup>34</sup>Josua zog von Lachisch weiter, und ganz Israel mit ihm, nach Eglon.
+Sie belagerten die Stadt und kämpften gegen sie.
+<sup>35</sup>Sie nahmen sie an diesem Tag ein und schlugen sie mit der Schärfe des Schwertes.
+An allen Menschen, die darin waren, vollstreckte er an diesem Tag den Bann,
+ganz so, wie er es mit Lachisch getan hatte.
+<sup>36</sup>Josua zog von Eglon hinauf, und ganz Israel mit ihm, nach Hebron, und sie kämpften gegen die Stadt.
+<sup>37</sup>Sie nahmen sie ein und schlugen sie mit der Schärfe des Schwertes,
+mit ihrem König, mit allen ihren Städten und mit allen Menschen, die darin waren.
+Er ließ niemanden übrig, ganz so, wie er es mit Eglon getan hatte.
+Er vollstreckte den Bann an ihr und an allen Menschen, die darin waren.
+<sup>38</sup>Dann wandte sich Josua, und ganz Israel mit ihm, nach Debir und kämpfte gegen die Stadt.
+<sup>39</sup>Er nahm sie ein mit ihrem König und allen ihren Städten.
+Sie schlugen sie mit der Schärfe des Schwertes
+und vollstreckten den Bann an allen Menschen, die darin waren.
+Er ließ niemanden übrig.
+Wie er es mit Hebron getan hatte, so tat er es mit Debir und seinem König,
+und wie er es mit Libna und seinem König getan hatte.
+
+> **Was bedeutet das?**
+> Dieser Abschnitt wiederholt immer wieder dieselben Worte: „Er ließ niemanden übrig.“ Das klingt wie ein formelhafter Kriegsbericht, wie man ihn auch von anderen Königen der Zeit kennt. Solche Berichte übertreiben oft, um den Sieg groß erscheinen zu lassen.
+> Ein Hinweis darauf: Später in diesem Buch und im Buch der Richter müssen Hebron und Debir noch einmal erobert werden (Josua 15,13–17; Richter 1,10–15). Die Bewohner waren also nicht alle tot.
+> Trotzdem bleibt es ein Bericht von großer Gewalt. Er gehört zu einer fernen Zeit und darf niemals als Vorbild für Krieg oder Gewalt gegen Menschen dienen.
+
+---
+
+### Zusammenfassung des Feldzugs (Vers 40–43)
+
+<sup>40</sup>So schlug Josua das ganze Land:
+das Bergland, den Süden, das Hügelland und die Abhänge und alle ihre Könige.
+Er ließ niemanden übrig.
+Und an allem, was atmete, vollstreckte er den Bann,
+wie der HERR, der Gott Israels, es geboten hatte.
+<sup>41</sup>Josua schlug sie von Kadesch-Barnea bis nach Gaza
+und das ganze Land Goschen bis nach Gibeon.
+<sup>42</sup>Alle diese Könige und ihr Land nahm Josua auf einmal ein,
+denn der HERR, der Gott Israels, kämpfte für Israel.
+<sup>43</sup>Und Josua kehrte zurück und ganz Israel mit ihm ins Lager nach Gilgal.
+
+> **Was bedeutet das?**
+> Das „Land Goschen“ hier ist nicht das Goschen in Ägypten, sondern eine Gegend im Süden des Landes Kanaan mit demselben Namen.
+> „Auf einmal“ heißt wohl: in einem einzigen Feldzug. In Kapitel 11,18 steht aber, dass Josua „lange Zeit“ Krieg führte. Der Bericht fasst vieles zusammen.
+> Der wichtigste Satz für den Erzähler ist: „Der HERR kämpfte für Israel.“ Nicht die eigene Stärke hat gesiegt, sondern Gott. Aber wir wissen aus Kapitel 5: Gott ist nicht einfach auf einer Seite. Man muss auf seiner Seite stehen.
