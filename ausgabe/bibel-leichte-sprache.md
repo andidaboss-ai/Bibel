@@ -33089,3 +33089,554 @@ Jeder tat, was in seinen eigenen Augen recht war.
 > Das Buch der Richter ist eines der dunkelsten Bücher der Bibel. Es erzählt von viel Gewalt, besonders gegen Frauen: Jiftachs Tochter, die Frau aus Timna, die Nebenfrau in Gibea, die Frauen von Jabesch und Schilo. Die Bibel verschweigt nichts. Sie erzählt diese Geschichten nicht als Vorbild, sondern als Spiegel und Warnung. Niemand darf diese Texte jemals benutzen, um Gewalt oder Hass zu rechtfertigen.
 > Und doch gibt es Licht: Gott gibt sein Volk nicht auf. Immer wieder hört er, wenn es zu ihm schreit. Er benutzt schwache und fehlerhafte Menschen, um zu retten. Und es gibt mutige Frauen wie Debora, Jael und die Frau aus Tebez, die einen Mühlstein warf.
 > Die große Frage des Buches ist: Wer führt Israel? Die Antwort, die das Buch am Ende andeutet, ist: Israel braucht einen guten König, der Gott gehorcht. Juden und Christen glauben: Am Ende ist es Gott selbst, der sein Volk wirklich führen kann. Christen sehen in Jesus diesen König, der aus dem Stamm Juda und aus Betlehem kommt.
+
+
+---
+
+# Rut
+
+## Rut – Kapitel 1
+#### Wo du hingehst, da will ich auch hingehen
+
+---
+
+### Bevor es losgeht: Was ist das Buch Rut?
+
+Das Buch Rut ist eine kurze Geschichte mit nur vier Kapiteln. Sie spielt in derselben Zeit wie das Buch der Richter.
+Aber sie ist ganz anders. Im Buch der Richter haben wir viel Gewalt und Chaos gelesen. Das Buch Rut erzählt dagegen von einfachen Menschen, die treu und gütig zueinander sind.
+Die Hauptpersonen sind zwei Frauen: Noomi, eine Israelitin, die alles verloren hat, und Rut, ihre Schwiegertochter. Rut ist eine Ausländerin aus dem Volk der Moabiter. Und doch wird gerade sie ein Vorbild an Treue für ganz Israel.
+Ein wichtiges Wort im Buch ist auf Hebräisch „Chesed“. Es bedeutet: Güte, Treue, Liebe, die mehr tut, als sie muss. Diese Güte zeigen Rut, Boas und letztlich Gott selbst.
+Gott tut in diesem Buch keine großen Wunder. Er spricht nicht vom Himmel. Aber er wirkt still im Hintergrund, durch alltägliche Dinge und durch gute Menschen.
+Am Ende erfahren wir eine Überraschung: Rut, die Ausländerin, wird die Urgroßmutter von König David. Christen erinnern daran, dass Rut auch im Stammbaum von Jesus genannt wird (Matthäus 1,5).
+Im Judentum wird das Buch Rut jedes Jahr am Wochenfest (Schawuot) gelesen. Das ist das Fest der Ernte, und zu dieser Zeit spielt auch die Geschichte.
+
+---
+
+### Eine Familie verliert alles (Vers 1–5)
+
+<sup>1</sup>In den Tagen, als die Richter richteten, kam eine Hungersnot über das Land.
+Ein Mann aus Betlehem in Juda zog weg,
+um als Fremder im Land Moab zu leben,
+er, seine Frau und seine zwei Söhne.
+<sup>2</sup>Der Name des Mannes war Elimelech,
+und der Name seiner Frau war Noomi.
+Die Namen seiner zwei Söhne waren Machlon und Kiljon.
+Sie waren Efratiter aus Betlehem in Juda.
+Sie kamen in das Land Moab und blieben dort.
+<sup>3</sup>Elimelech, der Mann von Noomi, starb.
+Und sie blieb mit ihren zwei Söhnen zurück.
+<sup>4</sup>Die Söhne nahmen sich Frauen von den Frauen aus Moab.
+Der Name der einen war Orpa,
+und der Name der anderen war Rut.
+Sie wohnten dort etwa zehn Jahre.
+<sup>5</sup>Dann starben auch Machlon und Kiljon, beide.
+Und die Frau blieb allein zurück, ohne ihre zwei Kinder und ohne ihren Mann.
+
+> **Was bedeutet das?**
+> Betlehem heißt auf Hebräisch „Haus des Brotes“. Ausgerechnet dort gibt es kein Brot mehr. Darum zieht die Familie weg.
+> Moab lag östlich vom Toten Meer, im heutigen Jordanien. Die Moabiter waren Nachbarn Israels, aber oft auch Feinde. Im Gesetz steht sogar, dass Moabiter nicht in die Gemeinde des HERRN kommen sollen (5. Mose 23,4). Darum ist es besonders bemerkenswert, dass die Heldin dieses Buches eine Moabiterin ist.
+> „Efratiter“: Efrata war ein alter Name für die Gegend von Betlehem.
+> Die Namen haben eine Bedeutung: Elimelech heißt „Mein Gott ist König“. Noomi heißt „die Liebliche“ oder „meine Freude“.
+> Für eine Frau war es damals sehr schlimm, ohne Mann und ohne Söhne zu sein. Es gab keine Rente und keine Versicherung. Witwen ohne Familie waren oft ganz arm und schutzlos. Noomi hat nicht nur ihre Liebsten verloren, sondern auch jede Sicherheit.
+
+---
+
+### Noomi schickt ihre Schwiegertöchter zurück (Vers 6–14)
+
+<sup>6</sup>Da machte sie sich mit ihren Schwiegertöchtern auf,
+um aus dem Land Moab zurückzukehren.
+Denn sie hatte im Land Moab gehört,
+dass der HERR sein Volk besucht hatte und ihm Brot gegeben hatte.
+<sup>7</sup>Sie ging weg von dem Ort, an dem sie gewesen war,
+und ihre zwei Schwiegertöchter mit ihr.
+Sie machten sich auf den Weg, um in das Land Juda zurückzukehren.
+<sup>8</sup>Noomi sagte zu ihren zwei Schwiegertöchtern:
+„Geht, kehrt um, jede in das Haus ihrer Mutter.
+Der HERR erweise euch Güte,
+so wie ihr sie den Toten und mir erwiesen habt.
+<sup>9</sup>Der HERR gebe euch, dass ihr Ruhe findet,
+jede im Haus ihres Mannes.“
+Dann küsste sie sie.
+Und sie erhoben ihre Stimme und weinten.
+<sup>10</sup>Sie sagten zu ihr:
+„Nein, wir wollen mit dir zu deinem Volk zurückkehren.“
+<sup>11</sup>Noomi sagte:
+„Kehrt um, meine Töchter.
+Warum wollt ihr mit mir gehen?
+Habe ich denn noch Söhne in meinem Leib, die eure Männer werden könnten?
+<sup>12</sup>Kehrt um, meine Töchter, geht euren Weg.
+Denn ich bin zu alt, um einen Mann zu haben.
+Selbst wenn ich sagen würde: ‚Ich habe Hoffnung‘,
+selbst wenn ich heute Nacht einen Mann hätte und auch Söhne bekäme,
+<sup>13</sup>würdet ihr dann warten, bis sie erwachsen wären?
+Würdet ihr deshalb darauf verzichten, Männer zu haben?
+Nein, meine Töchter.
+Denn es tut mir sehr leid um euch,
+denn die Hand des HERRN hat sich gegen mich gewandt.“
+<sup>14</sup>Sie erhoben ihre Stimme und weinten noch einmal.
+Dann küsste Orpa ihre Schwiegermutter.
+Aber Rut blieb bei ihr.
+
+> **Was bedeutet das?**
+> „Der HERR hat sein Volk besucht“ heißt: Gott hat sich wieder um sein Volk gekümmert. Die Hungersnot ist vorbei.
+> Hier kommt zum ersten Mal das wichtige Wort „Güte“ vor (hebräisch „Chesed“). Noomi sagt: Ihr habt meinen Söhnen und mir Gutes getan. Möge Gott euch auch Gutes tun.
+> Noomi denkt an ihre Schwiegertöchter, nicht an sich selbst. Sie weiß: In Israel werden die jungen Frauen aus Moab Fremde sein. Dort haben sie wenig Hoffnung, wieder einen Mann zu finden. In Moab haben sie eine Familie und eine Zukunft.
+> „Ruhe finden im Haus eines Mannes“ heißt: Sicherheit und ein Zuhause haben.
+> Orpa geht zurück. Die Bibel tadelt sie nicht dafür. Sie tut, was vernünftig ist. Aber Rut tut mehr, als man von ihr erwarten kann.
+
+---
+
+### Ruts Versprechen (Vers 15–18)
+
+<sup>15</sup>Noomi sagte:
+„Schau, deine Schwägerin ist zu ihrem Volk und zu ihrem Gott zurückgekehrt.
+Folge deiner Schwägerin.“
+<sup>16</sup>Rut sagte:
+„Dräng mich nicht, dich zu verlassen und umzukehren, statt dir zu folgen.
+Denn wo du hingehst, da will ich auch hingehen.
+Und wo du bleibst, da will ich auch bleiben.
+Dein Volk ist mein Volk, und dein Gott ist mein Gott.
+<sup>17</sup>Wo du stirbst, da will ich auch sterben,
+und dort will ich begraben werden.
+Der HERR tue mir dies und noch mehr,
+wenn irgendetwas anderes als der Tod mich von dir trennt.“
+<sup>18</sup>Als Noomi sah, dass Rut fest entschlossen war, mit ihr zu gehen,
+hörte sie auf, ihr zuzureden.
+
+> **Was bedeutet das?**
+> Diese Worte von Rut gehören zu den bekanntesten Sätzen der Bibel. Viele Paare wählen sie heute als Trauspruch. Aber eigentlich spricht hier eine junge Frau zu ihrer Schwiegermutter. Es ist ein Versprechen der Treue zwischen zwei Frauen, über die Grenzen von Volk, Alter und Herkunft hinweg.
+> Rut entscheidet sich nicht nur für Noomi, sondern auch für Noomis Volk und für Noomis Gott. Sie schwört sogar beim Namen des HERRN, des Gottes Israels. Im Judentum gilt Rut darum als Vorbild für alle Menschen, die zum jüdischen Glauben übertreten.
+> „Der HERR tue mir dies und noch mehr“ ist eine alte Schwurformel. Sie bedeutet: Gott soll mich hart strafen, wenn ich dieses Versprechen breche.
+> Rut verlässt ihre Heimat, ihre Familie und alles, was sie kennt. So wie damals Abraham (1. Mose 12,1). Und sie tut es ohne ein Versprechen Gottes, nur aus Liebe und Treue.
+
+---
+
+### „Nennt mich nicht Noomi“ (Vers 19–22)
+
+<sup>19</sup>So gingen die beiden weiter, bis sie nach Betlehem kamen.
+Als sie nach Betlehem kamen, geriet die ganze Stadt in Aufregung über sie.
+Und sie fragten: „Ist das Noomi?“
+<sup>20</sup>Sie sagte zu ihnen:
+„Nennt mich nicht Noomi.
+Nennt mich Mara.
+Denn der Allmächtige hat mir sehr bitteres Leid angetan.
+<sup>21</sup>Voll bin ich weggegangen,
+und leer hat mich der HERR wieder heimgebracht.
+Warum nennt ihr mich Noomi,
+da der HERR gegen mich ausgesagt hat
+und der Allmächtige mir Unglück gebracht hat?“
+<sup>22</sup>So kehrte Noomi zurück,
+und Rut, die Moabiterin, ihre Schwiegertochter, mit ihr,
+die aus dem Land Moab zurückkam.
+Sie kamen nach Betlehem am Anfang der Gerstenernte.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht in Vers 19 nur „sie fragten“. Im Hebräischen ist es klar eine Form für Frauen: Die Frauen der Stadt fragen.
+> „Noomi“ heißt „die Liebliche“, „Mara“ heißt „die Bittere“. Noomi sagt: Mein Name passt nicht mehr zu meinem Leben.
+> Noomi klagt Gott ganz offen an. Die Bibel erlaubt das. Wer leidet, darf Gott sein Leid und seinen Zorn sagen. Auch in den Psalmen und im Buch Hiob reden Menschen so mit Gott.
+> „Leer“ bin ich zurückgekommen, sagt Noomi. Aber das stimmt nicht ganz: Rut steht neben ihr. Noomi sieht es noch nicht, aber in Rut hat sie schon ein Geschenk bekommen.
+> „Der Allmächtige“ heißt auf Hebräisch „Schaddai“. Das ist ein alter Name für Gott.
+> Die Gerstenernte war im Frühling, etwa im April. Das Kapitel endet mit einem kleinen Zeichen der Hoffnung: Es gibt wieder Brot in Betlehem.
+
+## Rut – Kapitel 2
+#### Rut sammelt Ähren auf dem Feld von Boas
+
+---
+
+### Rut geht aufs Feld (Vers 1–3)
+
+<sup>1</sup>Noomi hatte einen Verwandten ihres Mannes,
+einen sehr angesehenen und reichen Mann aus der Sippe von Elimelech.
+Sein Name war Boas.
+<sup>2</sup>Rut, die Moabiterin, sagte zu Noomi:
+„Lass mich doch aufs Feld gehen und Ähren auflesen
+hinter dem, in dessen Augen ich Gnade finde.“
+Sie sagte zu ihr: „Geh, meine Tochter.“
+<sup>3</sup>Sie ging hin, kam und las auf dem Feld hinter den Erntearbeitern Ähren auf.
+Und es traf sich, dass sie auf das Stück Feld kam, das Boas gehörte,
+der aus der Sippe von Elimelech war.
+
+> **Was bedeutet das?**
+> Gleich am Anfang erfahren wir, was Rut noch nicht weiß: Es gibt einen reichen Verwandten. Das macht die Geschichte spannend.
+> „Ähren auflesen“: Im Gesetz Gottes gab es eine Regel zum Schutz der Armen. Bei der Ernte sollte man nicht alles bis zum letzten Halm abernten. Was liegen blieb, durften Arme, Fremde, Witwen und Waisen auflesen (3. Mose 19,9–10; 5. Mose 24,19). Rut ist alles zugleich: arm, fremd und Witwe.
+> „Es traf sich“, sagt der Text, als wäre es Zufall. Aber der Leser merkt: Gott führt im Verborgenen. So wirkt Gott im ganzen Buch Rut: still, durch scheinbare Zufälle.
+
+---
+
+### Boas bemerkt Rut (Vers 4–7)
+
+<sup>4</sup>Schau, Boas kam aus Betlehem
+und sagte zu den Erntearbeitern: „Der HERR sei mit euch.“
+Sie antworteten ihm: „Der HERR segne dich.“
+<sup>5</sup>Da sagte Boas zu seinem Knecht, der über die Erntearbeiter gesetzt war:
+„Zu wem gehört diese junge Frau?“
+<sup>6</sup>Der Knecht, der über die Erntearbeiter gesetzt war, antwortete:
+„Das ist die junge Moabiterin, die mit Noomi aus dem Land Moab zurückgekommen ist.
+<sup>7</sup>Sie hat gesagt:
+‚Bitte lass mich hinter den Erntearbeitern zwischen den Garben auflesen und sammeln.‘
+So kam sie und ist geblieben, vom Morgen an bis jetzt.
+Nur ein wenig hat sie sich im Haus ausgeruht.“
+
+> **Was bedeutet das?**
+> Boas grüßt seine Arbeiter mit dem Namen Gottes, und sie segnen ihn zurück. Das zeigt: Boas ist ein frommer und freundlicher Arbeitgeber. Zwischen ihm und seinen Arbeitern herrscht ein gutes Verhältnis.
+> Der Aufseher lobt Rut: Sie ist fleißig und arbeitet den ganzen Tag. Aber er nennt sie nicht beim Namen, sondern nur „die Moabiterin“. Für die Leute ist sie zuerst eine Fremde.
+> „Mit Noomi zurückgekommen“: Eigentlich war Rut nie in Betlehem. Aber sie gehört jetzt zu Noomi.
+
+---
+
+### Boas ist freundlich zu Rut (Vers 8–13)
+
+<sup>8</sup>Da sagte Boas zu Rut:
+„Hör zu, meine Tochter.
+Geh nicht auf ein anderes Feld, um aufzulesen.
+Geh nicht von hier weg, sondern bleib hier dicht bei meinen Mägden.
+<sup>9</sup>Behalte das Feld im Auge, das sie abernten, und geh hinter ihnen her.
+Habe ich nicht den jungen Männern befohlen, dich nicht anzurühren?
+Wenn du Durst hast, dann geh zu den Krügen
+und trink von dem, was die jungen Männer geschöpft haben.“
+<sup>10</sup>Da fiel sie auf ihr Gesicht, verneigte sich bis zur Erde
+und sagte zu ihm:
+„Warum habe ich Gnade in deinen Augen gefunden,
+dass du mich beachtest, wo ich doch eine Ausländerin bin?“
+<sup>11</sup>Boas antwortete ihr:
+„Man hat mir alles erzählt,
+was du für deine Schwiegermutter getan hast seit dem Tod deines Mannes.
+Und wie du deinen Vater, deine Mutter und das Land deiner Geburt verlassen hast
+und zu einem Volk gekommen bist, das du vorher nicht kanntest.
+<sup>12</sup>Der HERR vergelte dir dein Tun.
+Voller Lohn soll dir zuteilwerden vom HERRN, dem Gott Israels,
+unter dessen Flügeln du gekommen bist, um Zuflucht zu suchen.“
+<sup>13</sup>Da sagte sie:
+„Lass mich Gnade finden in deinen Augen, mein Herr.
+Denn du hast mich getröstet
+und hast freundlich zu deiner Dienerin geredet,
+obwohl ich nicht einmal wie eine deiner Dienerinnen bin.“
+
+> **Was bedeutet das?**
+> Boas schützt Rut. Eine fremde junge Frau allein auf dem Feld war in Gefahr, belästigt zu werden. Boas sorgt dafür, dass ihr niemand etwas antut. Nach den schrecklichen Geschichten am Ende des Buches der Richter ist das wie frische Luft: Hier ist ein Mann, der eine Frau beschützt.
+> Normalerweise holten Fremde und Frauen das Wasser für die Israeliten und die Männer. Hier ist es umgekehrt: Die jungen Männer haben das Wasser geschöpft, und Rut darf davon trinken.
+> Rut ist überrascht: Warum ist er so freundlich zu einer Ausländerin? Boas antwortet: Wegen deiner Treue zu Noomi. Ruts Güte hat sich herumgesprochen.
+> „Unter Gottes Flügeln Zuflucht suchen“ ist ein schönes Bild: wie ein Küken, das sich unter die Flügel der Mutter flüchtet. Dieses Bild kommt auch in den Psalmen vor (Psalm 91,4). Es wird in Kapitel 3 noch einmal wichtig.
+
+---
+
+### Das Essen mit den Erntearbeitern (Vers 14–17)
+
+<sup>14</sup>Zur Essenszeit sagte Boas zu ihr:
+„Komm her und iss von dem Brot
+und tunke dein Stück in den Essig.“
+Sie setzte sich neben die Erntearbeiter,
+und man reichte ihr geröstetes Korn.
+Sie aß, wurde satt und ließ noch etwas übrig.
+<sup>15</sup>Als sie aufstand, um weiter aufzulesen,
+befahl Boas seinen jungen Männern:
+„Lasst sie auch zwischen den Garben auflesen,
+und beschämt sie nicht.
+<sup>16</sup>Zieht auch für sie absichtlich ein paar Ähren aus den Bündeln heraus
+und lasst sie liegen.
+Lasst sie auflesen und schimpft sie nicht.“
+<sup>17</sup>So las sie auf dem Feld auf bis zum Abend.
+Dann schlug sie aus, was sie aufgelesen hatte.
+Es waren etwa 22 Liter Gerste.
+
+> **Was bedeutet das?**
+> „Essig“ war ein saures Getränk aus Wein, mit Wasser verdünnt. Man tunkte das Brot hinein. Das war erfrischend bei der Arbeit in der Hitze.
+> In Vers 14 steht im Hebräischen genauer: „er reichte ihr“. Dann hat Boas ihr das Korn selbst gereicht.
+> Boas lädt die Fremde an seinen Tisch. Sie isst mit den Arbeitern, als gehörte sie dazu. Sie bekommt so viel, dass sie noch etwas übrig hat. Das bringt sie später Noomi.
+> Boas tut mehr, als das Gesetz verlangt. Das Gesetz sagt: Lass liegen, was liegen bleibt. Boas sagt: Lasst absichtlich etwas für sie fallen. Und zwar so, dass sie sich nicht schämen muss. Das ist echte Güte: helfen, ohne den anderen zu beschämen.
+> In der Bibel steht „ein Efa“. Ein Efa sind etwa 22 Liter. Das ist sehr viel für einen Tag Ährenlesen, genug für mehrere Wochen Brot.
+
+---
+
+### Noomi schöpft Hoffnung (Vers 18–23)
+
+<sup>18</sup>Sie nahm es und ging in die Stadt.
+Ihre Schwiegermutter sah, was sie aufgelesen hatte.
+Und sie holte heraus und gab ihr, was sie übrig gelassen hatte, nachdem sie satt geworden war.
+<sup>19</sup>Ihre Schwiegermutter sagte zu ihr:
+„Wo hast du heute aufgelesen? Wo hast du gearbeitet?
+Gesegnet sei der, der dich beachtet hat.“
+Sie erzählte ihrer Schwiegermutter, bei wem sie gearbeitet hatte:
+„Der Name des Mannes, bei dem ich heute gearbeitet habe, ist Boas.“
+<sup>20</sup>Noomi sagte zu ihrer Schwiegertochter:
+„Gesegnet sei er vom HERRN,
+der seine Güte nicht aufgegeben hat, weder an den Lebenden noch an den Toten.“
+Und Noomi sagte zu ihr:
+„Der Mann ist ein naher Verwandter von uns.
+Er ist einer von unseren nahen Verwandten.“
+<sup>21</sup>Rut, die Moabiterin, sagte:
+„Ja, er hat auch zu mir gesagt:
+‚Bleib dicht bei meinen jungen Männern,
+bis sie meine ganze Ernte eingebracht haben.‘“
+<sup>22</sup>Noomi sagte zu ihrer Schwiegertochter Rut:
+„Es ist gut, meine Tochter, dass du mit seinen Mägden hinausgehst.
+Dann tut dir niemand auf einem anderen Feld etwas an.“
+<sup>23</sup>So blieb sie dicht bei den Mägden von Boas,
+um aufzulesen bis zum Ende der Gerstenernte und der Weizenernte.
+Und sie wohnte bei ihrer Schwiegermutter.
+
+> **Was bedeutet das?**
+> Jetzt verändert sich Noomi. Sie hatte gesagt: Gott hat mich leer gemacht. Jetzt sagt sie: Gott hat seine Güte nicht aufgegeben. Zum ersten Mal kommt Hoffnung in ihr Leben zurück.
+> „Weder an den Lebenden noch an den Toten“: Man kann den Satz auf Gott beziehen oder auf Boas. Beides passt. Gott zeigt seine Güte durch Boas.
+> „Naher Verwandter“ heißt hier auf Hebräisch „Go’el“, auf Deutsch oft „Löser“. Ein Löser war ein wichtiges Familienmitglied. Er musste einem armen Verwandten helfen: Er kaufte verkauftes Familienland zurück (3. Mose 25,25). Er kaufte Verwandte frei, die sich als Sklaven verkaufen mussten. Er sorgte dafür, dass die Familie nicht unterging. Boas ist so ein Löser. Das ist der Schlüssel für den Rest der Geschichte.
+> Später nennen die Propheten Gott selbst den „Löser“ Israels (Jesaja 41,14). Christen sehen in Jesus den Erlöser, der Menschen freikauft.
+> Boas hat von seinen „jungen Männern“ gesprochen. Noomi rät in Vers 22, lieber bei den Mägden zu bleiben. Das ist für eine junge Frau sicherer.
+> Die Gersten- und Weizenernte dauerten zusammen etwa sieben Wochen, von April bis Juni. Das ist die Zeit bis zum Wochenfest.
+
+## Rut – Kapitel 3
+#### Rut in der Nacht auf der Tenne
+
+---
+
+### Noomis Plan (Vers 1–5)
+
+<sup>1</sup>Noomi, ihre Schwiegermutter, sagte zu ihr:
+„Meine Tochter, soll ich nicht Ruhe für dich suchen,
+damit es dir gut geht?
+<sup>2</sup>Ist nicht Boas unser Verwandter, bei dessen Mägden du warst?
+Schau, er worfelt heute Abend Gerste auf der Tenne.
+<sup>3</sup>Darum wasch dich, salbe dich, zieh dich an
+und geh hinab zur Tenne.
+Aber gib dich dem Mann nicht zu erkennen,
+bis er mit Essen und Trinken fertig ist.
+<sup>4</sup>Wenn er sich hinlegt, dann merk dir den Platz, wo er liegt.
+Dann geh hin, deck seine Füße auf und leg dich hin.
+Dann wird er dir sagen, was du tun sollst.“
+<sup>5</sup>Sie sagte zu ihr:
+„Alles, was du sagst, will ich tun.“
+
+> **Was bedeutet das?**
+> In Kapitel 1 hatte Noomi den Schwiegertöchtern gewünscht, dass sie „Ruhe“ finden im Haus eines Mannes. Jetzt will sie selbst dafür sorgen, dass Rut ein sicheres Zuhause bekommt.
+> „Worfeln“: Nach dem Dreschen warf man das Korn mit einer Gabel in die Luft. Der Abendwind trug die leichte Spreu weg, und die schweren Körner fielen zurück. Die „Tenne“ war ein fester, flacher Platz, auf dem man das machte. Zur Erntezeit schliefen die Männer dort, um das Korn zu bewachen.
+> Noomis Plan ist mutig und auch gewagt. Eine junge Frau geht in der Nacht zu einem Mann. Das hätte leicht missverstanden werden können. „Die Füße aufdecken“ war wohl eine Zeichenhandlung: Rut legt sich zu seinen Füßen und bittet ihn so stumm um Schutz. Manche Ausleger meinen, der Ausdruck hat auch einen versteckten Doppelsinn. Aber der Text zeigt klar: In dieser Nacht geschieht nichts Unehrenhaftes.
+
+---
+
+### Rut bittet Boas (Vers 6–9)
+
+<sup>6</sup>Sie ging hinab zur Tenne
+und tat alles, was ihre Schwiegermutter ihr gesagt hatte.
+<sup>7</sup>Als Boas gegessen und getrunken hatte und sein Herz fröhlich war,
+ging er, um sich am Ende des Kornhaufens hinzulegen.
+Sie kam leise, deckte seine Füße auf und legte sich hin.
+<sup>8</sup>Um Mitternacht schreckte der Mann auf und drehte sich um.
+Und schau: Eine Frau lag zu seinen Füßen.
+<sup>9</sup>Er sagte: „Wer bist du?“
+Sie antwortete:
+„Ich bin Rut, deine Dienerin.
+Breite den Zipfel deines Gewandes über deine Dienerin aus,
+denn du bist ein naher Verwandter.“
+
+> **Was bedeutet das?**
+> Rut tut, was Noomi gesagt hat. Aber dann sagt sie selbst etwas, was Noomi nicht gesagt hatte: Sie bittet Boas ganz direkt.
+> „Breite den Zipfel deines Gewandes über mich aus“ war eine Bitte um Heirat. Es bedeutet: Nimm mich unter deinen Schutz. Nimm mich zur Frau (vergleiche Hesekiel 16,8).
+> Das hebräische Wort für „Zipfel“ ist dasselbe Wort wie „Flügel“. Boas hatte in Kapitel 2,12 gesagt: Du hast Zuflucht gesucht unter den Flügeln des HERRN. Jetzt sagt Rut: Dann sei du die Antwort auf dein Gebet. Breite du deine Flügel über mich aus. Gott hilft oft durch Menschen.
+> „Du bist ein naher Verwandter“: Auf Hebräisch steht hier „Go’el“, Löser. Rut erinnert Boas an seine Verantwortung für die Familie von Elimelech.
+
+---
+
+### Boas verspricht zu helfen (Vers 10–13)
+
+<sup>10</sup>Er sagte:
+„Gesegnet bist du vom HERRN, meine Tochter.
+Du hast jetzt am Ende noch mehr Güte gezeigt als am Anfang.
+Denn du bist nicht den jungen Männern nachgelaufen, weder armen noch reichen.
+<sup>11</sup>Und jetzt, meine Tochter, fürchte dich nicht.
+Alles, was du sagst, will ich für dich tun.
+Denn die ganze Stadt meines Volkes weiß, dass du eine tüchtige Frau bist.
+<sup>12</sup>Es ist wahr, dass ich ein naher Verwandter bin.
+Aber es gibt noch einen Verwandten, der näher ist als ich.
+<sup>13</sup>Bleib heute Nacht hier.
+Wenn er dir morgen früh die Pflicht eines nahen Verwandten erfüllen will, gut,
+dann soll er die Pflicht des Verwandten tun.
+Aber wenn er dir die Pflicht eines nahen Verwandten nicht erfüllen will,
+dann werde ich dir die Pflicht eines nahen Verwandten erfüllen,
+so wahr der HERR lebt.
+Leg dich hin bis zum Morgen.“
+
+> **Was bedeutet das?**
+> Boas ist wohl deutlich älter als Rut. Er lobt sie: Du hättest einen jungen Mann heiraten können. Aber du denkst an die Familie deines verstorbenen Mannes und an Noomi. Das ist noch mehr Güte (Chesed) als deine Treue am Anfang.
+> „Eine tüchtige Frau“ ist auf Hebräisch derselbe Ausdruck wie in Sprüche 31,10: „Eine tüchtige Frau, wer findet sie?“ In der hebräischen Bibel steht das Buch Rut oft direkt nach dem Buch der Sprüche. Rut ist wie das lebendige Beispiel für diese Frau. Und Boas wurde in Kapitel 2,1 mit einem ähnlichen Wort beschrieben. Die beiden passen zusammen.
+> Boas ist ehrlich: Es gibt einen anderen, der das erste Recht hat. Boas will nichts hinter dessen Rücken tun. Er will alles richtig und offen regeln.
+
+---
+
+### Rut kehrt zu Noomi zurück (Vers 14–18)
+
+<sup>14</sup>Sie lag zu seinen Füßen bis zum Morgen.
+Dann stand sie auf, bevor man einander erkennen konnte.
+Denn er sagte:
+„Niemand soll erfahren, dass die Frau auf die Tenne gekommen ist.“
+<sup>15</sup>Er sagte:
+„Bring den Umhang, den du anhast, und halte ihn auf.“
+Sie hielt ihn auf.
+Und er maß sechs Maß Gerste ab und legte sie ihr auf.
+Dann ging er in die Stadt.
+<sup>16</sup>Als sie zu ihrer Schwiegermutter kam, sagte diese:
+„Wie ist es dir ergangen, meine Tochter?“
+Sie erzählte ihr alles, was der Mann für sie getan hatte.
+<sup>17</sup>Sie sagte:
+„Diese sechs Maß Gerste hat er mir gegeben.
+Denn er hat gesagt:
+‚Geh nicht mit leeren Händen zu deiner Schwiegermutter.‘“
+<sup>18</sup>Da sagte sie:
+„Warte ab, meine Tochter, bis du weißt, wie die Sache ausgeht.
+Denn der Mann wird nicht ruhen, bis er die Sache heute erledigt hat.“
+
+> **Was bedeutet das?**
+> Rut geht im Dunkeln, damit kein falsches Gerede über sie entsteht. Boas schützt ihren guten Ruf.
+> Wie groß ein „Maß“ war, sagt der Text nicht. Es war wohl eine Menge, die eine Frau noch tragen konnte.
+> „Geh nicht mit leeren Händen“: Noomi hatte in Kapitel 1,21 gesagt: „Leer hat mich der HERR heimgebracht.“ Jetzt wird die Leere Schritt für Schritt gefüllt. Die Gerste ist wie ein Versprechen: Bald wird mehr kommen.
+> Am Schluss muss Rut warten. Manchmal kann man selbst nichts mehr tun, nur noch vertrauen.
+
+## Rut – Kapitel 4
+#### Boas heiratet Rut
+
+---
+
+### Im Stadttor (Vers 1–6)
+
+<sup>1</sup>Boas ging hinauf zum Tor und setzte sich dort hin.
+Und schau: Der nahe Verwandte, von dem Boas gesprochen hatte, kam vorbei.
+Boas sagte zu ihm:
+„Komm hierher, Freund, und setz dich!“
+Er kam herüber und setzte sich.
+<sup>2</sup>Boas nahm zehn Männer von den Ältesten der Stadt
+und sagte: „Setzt euch hierher.“
+Und sie setzten sich.
+<sup>3</sup>Er sagte zu dem nahen Verwandten:
+„Noomi, die aus dem Land Moab zurückgekommen ist,
+verkauft das Stück Land, das unserem Bruder Elimelech gehört hat.
+<sup>4</sup>Ich dachte, ich sollte es dir sagen:
+‚Kauf es vor denen, die hier sitzen, und vor den Ältesten meines Volkes.‘
+Wenn du es auslösen willst, dann löse es aus.
+Aber wenn du es nicht auslösen willst, dann sag es mir, damit ich es weiß.
+Denn außer dir gibt es niemand, der es auslösen kann, und ich komme nach dir.“
+Er sagte: „Ich will es auslösen.“
+<sup>5</sup>Da sagte Boas:
+„An dem Tag, an dem du das Feld aus der Hand von Noomi kaufst,
+musst du es auch von Rut, der Moabiterin, kaufen, der Frau des Verstorbenen,
+um den Namen des Verstorbenen auf seinem Erbe zu erhalten.“
+<sup>6</sup>Der nahe Verwandte sagte:
+„Ich kann es für mich nicht auslösen,
+sonst bringe ich mein eigenes Erbe in Gefahr.
+Nimm du mein Recht zum Auslösen für dich.
+Denn ich kann es nicht auslösen.“
+
+> **Was bedeutet das?**
+> Das Stadttor war damals wie ein Rathaus und ein Gericht. Dort trafen sich die Ältesten und regelten wichtige Dinge vor Zeugen.
+> Der andere Verwandte bekommt keinen Namen. Boas nennt ihn auf Hebräisch etwa „Herr Soundso“. Vielleicht, weil er in dieser Geschichte keine Ehre verdient.
+> Zuerst geht es nur um ein Stück Land. Das will der Verwandte gerne kaufen. Dann sagt Boas: Zum Land gehört auch Rut. Wer das Land auslöst, soll auch Rut heiraten. Ein Sohn von Rut würde dann als Nachkomme des verstorbenen Machlon gelten und das Land erben.
+> Dahinter steht ein altes Gesetz: Wenn ein Mann ohne Kinder stirbt, soll sein Bruder die Witwe heiraten. Der erste Sohn soll den Namen des Verstorbenen weitertragen (5. Mose 25,5–10). Boas und der Verwandte sind keine Brüder von Machlon, aber man wendet den Gedanken auf die nahe Verwandtschaft an.
+> Jetzt rechnet der Verwandte: Ich bezahle das Land, aber es gehört später nicht meinen eigenen Kindern. Das lohnt sich für mich nicht. Er denkt an seinen Vorteil. Boas denkt an die Familie.
+> Im hebräischen Text gibt es in Vers 5 eine kleine Unsicherheit beim Lesen. Man kann auch lesen: „Ich, Boas, nehme Rut.“ Die meisten Übersetzungen lesen es so wie die englische Vorlage.
+
+---
+
+### Der Schuh als Zeichen (Vers 7–10)
+
+<sup>7</sup>Das war früher in Israel der Brauch beim Auslösen und beim Tauschen,
+um jede Sache zu bestätigen:
+Ein Mann zog seinen Schuh aus und gab ihn dem anderen.
+So wurden Geschäfte in Israel bestätigt.
+<sup>8</sup>So sagte der nahe Verwandte zu Boas: „Kauf es für dich.“
+Und er zog seinen Schuh aus.
+<sup>9</sup>Boas sagte zu den Ältesten und zum ganzen Volk:
+„Ihr seid heute Zeugen,
+dass ich alles gekauft habe, was Elimelech gehört hat,
+und alles, was Kiljon und Machlon gehört hat,
+aus der Hand von Noomi.
+<sup>10</sup>Außerdem habe ich Rut, die Moabiterin, die Frau von Machlon,
+mir zur Frau erworben,
+um den Namen des Verstorbenen auf seinem Erbe zu erhalten,
+damit der Name des Verstorbenen nicht ausgelöscht wird
+unter seinen Brüdern und aus dem Tor seines Ortes.
+Ihr seid heute Zeugen.“
+
+> **Was bedeutet das?**
+> Den Schuh zu übergeben war wie eine Unterschrift. Der Schuh steht für das Recht, auf ein Stück Land zu treten und es zu besitzen. Wer seinen Schuh weggibt, gibt sein Recht weg.
+> Der Erzähler muss den Brauch erklären. Das zeigt: Als das Buch aufgeschrieben wurde, kannte man ihn nicht mehr.
+> „Erworben“: So redete man damals über eine Heirat. Man darf sich das nicht wie den Kauf einer Sache vorstellen. Boas übernimmt Verantwortung für Rut und für Noomi. Rut hatte ihn selbst darum gebeten.
+> Boas tut alles offen und vor Zeugen. Nichts ist heimlich. So hat Rut eine sichere Stellung, und niemand kann sie später anfechten.
+
+---
+
+### Der Segen der Leute (Vers 11–12)
+
+<sup>11</sup>Das ganze Volk, das im Tor war, und die Ältesten sagten:
+„Wir sind Zeugen.
+Der HERR mache die Frau, die in dein Haus kommt, wie Rahel und wie Lea,
+die beide das Haus Israel aufgebaut haben.
+Und es gehe dir gut in Efrata,
+und du sollst berühmt sein in Betlehem.
+<sup>12</sup>Dein Haus soll werden wie das Haus von Perez,
+den Tamar dem Juda geboren hat,
+durch die Nachkommen, die der HERR dir von dieser jungen Frau geben wird.“
+
+> **Was bedeutet das?**
+> Rahel und Lea waren die Frauen von Jakob. Von ihnen und ihren Mägden stammen die zwölf Stämme Israels ab. Die Leute wünschen: Rut, die Ausländerin, soll eine Mutter Israels werden wie sie.
+> Perez war ein Sohn von Juda und Tamar (1. Mose 38). Auch Tamar war eine Ausländerin, und auch ihre Geschichte handelte davon, dass der Name eines Verstorbenen weitergetragen werden sollte. Von Perez stammte die Sippe ab, zu der Boas gehörte.
+
+---
+
+### Ein Sohn für Noomi (Vers 13–17)
+
+<sup>13</sup>So nahm Boas Rut, und sie wurde seine Frau.
+Er ging zu ihr hinein,
+und der HERR schenkte ihr, dass sie schwanger wurde.
+Und sie bekam einen Sohn.
+<sup>14</sup>Die Frauen sagten zu Noomi:
+„Gelobt sei der HERR,
+der dich heute nicht ohne einen nahen Verwandten gelassen hat.
+Sein Name soll berühmt werden in Israel.
+<sup>15</sup>Er wird dir neues Leben geben
+und dich im Alter versorgen.
+Denn deine Schwiegertochter, die dich liebt,
+die besser für dich ist als sieben Söhne,
+hat ihn geboren.“
+<sup>16</sup>Noomi nahm das Kind, legte es auf ihren Schoß
+und wurde seine Pflegerin.
+<sup>17</sup>Die Nachbarinnen gaben ihm einen Namen.
+Sie sagten: „Der Noomi ist ein Sohn geboren.“
+Sie nannten ihn Obed.
+Er ist der Vater von Isai, dem Vater von David.
+
+> **Was bedeutet das?**
+> Rut war in zehn Jahren Ehe mit Machlon nicht schwanger geworden. Jetzt steht ausdrücklich: Der HERR schenkte es ihr. Es ist eines der wenigen Male im Buch, wo Gott selbst direkt handelt.
+> Am Ende steht nicht Rut im Mittelpunkt, sondern Noomi. Die Frauen von Betlehem, die sie am Anfang gefragt hatten „Ist das Noomi?“, freuen sich jetzt mit ihr. Die Frau, die „leer“ zurückgekommen war, hält jetzt ein Kind im Arm. Aus „Mara“, der Bitteren, ist wieder „Noomi“ geworden, die Liebliche.
+> „Besser als sieben Söhne“: Sieben Söhne galten als das größte Glück. Die Frauen sagen: Rut ist mehr wert als das. Ein großes Lob für eine Ausländerin.
+> „Obed“ heißt „Diener“ oder „einer, der dient“.
+> Und dann die große Überraschung: Dieses Kind ist der Großvater von David, dem berühmtesten König Israels. Die treue Ausländerin aus Moab wird die Urgroßmutter des Königs.
+
+---
+
+### Der Stammbaum von Perez bis David (Vers 18–22)
+
+<sup>18</sup>Das ist die Geschichte der Nachkommen von Perez:
+Perez wurde der Vater von Hezron,
+<sup>19</sup>Hezron wurde der Vater von Ram,
+Ram wurde der Vater von Amminadab,
+<sup>20</sup>Amminadab wurde der Vater von Nachschon,
+Nachschon wurde der Vater von Salmon,
+<sup>21</sup>Salmon wurde der Vater von Boas,
+Boas wurde der Vater von Obed,
+<sup>22</sup>Obed wurde der Vater von Isai,
+und Isai wurde der Vater von David.
+
+> **Was bedeutet das?**
+> Das Buch endet mit einer Liste von zehn Namen, von Perez bis David. Boas steht an siebter Stelle, David an zehnter. Die Sieben und die Zehn waren in Israel besondere Zahlen, die für Vollständigkeit standen.
+> Nachschon war ein Anführer des Stammes Juda zur Zeit von Mose (4. Mose 1,7). Im Matthäusevangelium steht, dass Salmon die Rahab aus Jericho zur Frau hatte (Matthäus 1,5). Dann hätte Boas selbst eine ausländische Mutter gehabt.
+> Wahrscheinlich nennt die Liste nicht jede einzelne Generation, sondern nur wichtige Namen. Das war in alten Stammbäumen üblich.
+> Mit dem Namen David öffnet das Buch Rut die Tür zu den nächsten Büchern, den Büchern Samuel. Sie erzählen, wie David König wird.
+> Christen lesen diesen Stammbaum weiter: Im Matthäusevangelium geht er von David bis zu Jesus (Matthäus 1,1–16). Dort werden auch Tamar, Rahab und Rut genannt. Die Bibel zeigt damit: Gottes Weg führt auch durch Ausländerinnen und Menschen am Rand.
+
+---
+
+### Rückblick: Was haben wir im Buch Rut gelesen?
+
+> **Was bedeutet das?**
+> Das Buch Rut erzählt eine Geschichte von leer zu voll. Am Anfang verliert Noomi alles: ihre Heimat, ihren Mann, ihre Söhne. Sie kommt bitter und leer nach Betlehem zurück. Am Ende hält sie ein Enkelkind im Arm, und ihre Familie hat wieder Land und Zukunft.
+> Das geschieht nicht durch große Wunder, sondern durch Güte (Chesed): Rut bleibt treu bei Noomi, obwohl sie gehen dürfte. Boas tut mehr, als das Gesetz verlangt. Und hinter allem steht Gott, der still und verborgen führt.
+> Das Buch hat eine wichtige Botschaft über Fremde: Rut ist eine Moabiterin, aus einem Volk, das in Israel wenig angesehen war. Und doch wird gerade sie ein Vorbild für Treue und die Urgroßmutter des großen Königs David. Gott fragt nicht nach Herkunft, sondern nach dem Herzen. Das Buch lädt dazu ein, Fremde mit Güte aufzunehmen.
+> Nach dem dunklen Buch der Richter zeigt das Buch Rut: Auch in schweren Zeiten gibt es Menschen, die das Gute tun. Und Gott baut durch sie seine Zukunft.
+> Die nächsten Bücher, 1. und 2. Samuel, erzählen, wie aus dem Urenkel von Rut der König David wird.
