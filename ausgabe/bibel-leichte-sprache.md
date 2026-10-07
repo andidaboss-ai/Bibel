@@ -29348,3 +29348,380 @@ So vollendeten sie die Verteilung des Landes.
 > **Was bedeutet das?**
 > Josua nimmt sich sein Erbe als Letzter. Erst als alle anderen versorgt sind, bekommt er sein Stück Land. Und er nimmt sich keine große, prächtige Stadt, sondern einen Ort, den er selbst erst aufbauen muss. Er ist ein Anführer, der zuerst an die anderen denkt.
 > Mit diesem Kapitel ist die Verteilung des Landes abgeschlossen. Das Versprechen an Abraham ist erfüllt: Seine Nachkommen haben ein Land, in dem sie wohnen können.
+
+## Josua – Kapitel 20
+#### Die Zufluchtsstädte
+
+---
+
+### Gottes Auftrag (Vers 1–6)
+
+<sup>1</sup>Der HERR sprach zu Josua:
+<sup>2</sup>„Sprich zu den Israeliten:
+‚Bestimmt die Zufluchtsstädte, von denen ich durch Mose zu euch gesprochen habe,
+<sup>3</sup>damit jemand, der einen Menschen aus Versehen oder ohne Absicht getötet hat, dorthin fliehen kann.
+Sie sollen euch eine Zuflucht vor dem Bluträcher sein.
+<sup>4</sup>Er soll in eine dieser Städte fliehen.
+Er soll sich an den Eingang des Stadttores stellen
+und den Ältesten dieser Stadt seine Sache vortragen.
+Dann sollen sie ihn zu sich in die Stadt aufnehmen
+und ihm einen Platz geben, damit er bei ihnen wohnen kann.
+<sup>5</sup>Wenn der Bluträcher ihn verfolgt,
+dann sollen sie den, der getötet hat, nicht in seine Hand ausliefern.
+Denn er hat seinen Nächsten ohne Absicht erschlagen und ihn vorher nicht gehasst.
+<sup>6</sup>Er soll in dieser Stadt wohnen, bis er vor der Gemeinde vor Gericht gestanden hat,
+bis zum Tod des Hohenpriesters, der in jenen Tagen im Amt ist.
+Dann darf der, der getötet hat, zurückkehren
+und in seine Stadt und in sein Haus kommen, in die Stadt, aus der er geflohen ist.‘“
+
+> **Was bedeutet das?**
+> Die Zufluchtsstädte wurden in 4. Mose 35 und 5. Mose 19 angekündigt. Jetzt, im Land, werden sie wirklich eingerichtet. Gottes Versprechen werden Schritt für Schritt umgesetzt.
+> Neu ist hier: Der Flüchtende muss am Stadttor seine Sache vortragen. Die Ältesten hören ihn an und nehmen ihn auf. Das Tor war damals der Ort, an dem Gericht gehalten wurde.
+> Diese Einrichtung schützt vor Selbstjustiz. Nicht die Rache soll entscheiden, sondern ein gerechtes Verfahren.
+
+---
+
+### Sechs Städte (Vers 7–9)
+
+<sup>7</sup>Da heiligten sie Kedesch in Galiläa im Bergland Naftali,
+Sichem im Bergland Efraim
+und Kirjat-Arba – das ist Hebron – im Bergland Juda.
+<sup>8</sup>Und jenseits des Jordan bei Jericho, im Osten, bestimmten sie:
+Bezer in der Wüste, auf der Hochebene, aus dem Stamm Ruben,
+Ramot in Gilead aus dem Stamm Gad
+und Golan in Baschan aus dem Stamm Manasse.
+<sup>9</sup>Das waren die bestimmten Städte für alle Israeliten und für den Fremden, der unter ihnen lebt,
+damit jeder, der einen Menschen ohne Absicht getötet hat, dorthin fliehen kann
+und nicht durch die Hand des Bluträchers stirbt,
+bevor er vor der Gemeinde vor Gericht gestanden hat.
+
+> **Was bedeutet das?**
+> Die sechs Städte sind gut über das Land verteilt: drei westlich und drei östlich des Jordan, jeweils im Norden, in der Mitte und im Süden. So konnte jeder eine Zufluchtsstadt in erreichbarer Nähe finden.
+> „Heiligten sie“ bedeutet: Sie sonderten diese Städte für eine besondere Aufgabe aus.
+> Wieder ist ausdrücklich gesagt: Das Recht auf Zuflucht gilt auch für Fremde. Vor Gottes Gesetz sind alle gleich.
+> Alle sechs Zufluchtsstädte waren auch Städte der Leviten (Kapitel 21). Die Diener Gottes waren also zugleich die Beschützer der Verfolgten.
+
+## Josua – Kapitel 21
+#### Die Städte der Leviten – Gott hält sein Wort
+
+---
+
+### Die Leviten bitten um ihre Städte (Vers 1–8)
+
+<sup>1</sup>Da traten die Familienoberhäupter der Leviten zu Eleasar, dem Priester,
+zu Josua, dem Sohn von Nun, und zu den Familienoberhäuptern der Stämme der Israeliten.
+<sup>2</sup>Sie sprachen zu ihnen in Schilo im Land Kanaan:
+„Der HERR hat durch Mose geboten, uns Städte zum Wohnen zu geben,
+mit ihrem Weideland für unser Vieh.“
+<sup>3</sup>Da gaben die Israeliten den Leviten von ihrem Erbe, nach dem Befehl des HERRN,
+diese Städte mit ihrem Weideland.
+<sup>4</sup>Das Los kam heraus für die Sippen der Kehatiter.
+Die Nachkommen Aarons, des Priesters, die zu den Leviten gehörten,
+bekamen durch das Los dreizehn Städte vom Stamm Juda, vom Stamm der Simeoniter und vom Stamm Benjamin.
+<sup>5</sup>Die übrigen Nachkommen Kehats bekamen durch das Los zehn Städte
+von den Sippen des Stammes Efraim, vom Stamm Dan und vom halben Stamm Manasse.
+<sup>6</sup>Die Nachkommen Gerschons bekamen durch das Los dreizehn Städte
+von den Sippen des Stammes Issachar, vom Stamm Asser, vom Stamm Naftali
+und vom halben Stamm Manasse in Baschan.
+<sup>7</sup>Die Nachkommen Meraris bekamen nach ihren Sippen zwölf Städte
+vom Stamm Ruben, vom Stamm Gad und vom Stamm Sebulon.
+<sup>8</sup>So gaben die Israeliten den Leviten durch das Los diese Städte mit ihrem Weideland,
+wie der HERR es durch Mose geboten hatte.
+
+> **Was bedeutet das?**
+> Die Leviten haben kein eigenes Gebiet. Aber sie brauchen einen Ort zum Wohnen. Darum geben alle anderen Stämme ihnen Städte ab, so wie Mose es angeordnet hatte (4. Mose 35,1–8).
+> Die Leviten bestanden aus drei großen Familien, benannt nach den Söhnen Levis: Kehat, Gerschon und Merari. Die Priester, also die Nachkommen Aarons, gehörten zur Familie Kehat.
+> Die Priester bekamen Städte in der Nähe von Jerusalem. Das passt gut, denn dort stand später der Tempel.
+
+---
+
+### Die Städte der Priester (Vers 9–19)
+
+<sup>9</sup>Sie gaben vom Stamm der Nachkommen Judas und vom Stamm der Nachkommen Simeons
+diese Städte, die hier mit Namen genannt werden.
+<sup>10</sup>Sie gehörten den Nachkommen Aarons, aus den Sippen der Kehatiter, von den Nachkommen Levis.
+Denn für sie war das erste Los gefallen.
+<sup>11</sup>Sie gaben ihnen Kirjat-Arba, benannt nach dem Vater Anaks – das ist Hebron –,
+im Bergland Juda, mit seinem Weideland ringsum.
+<sup>12</sup>Aber die Felder der Stadt und ihre Dörfer gaben sie Kaleb, dem Sohn von Jefunne, als Besitz.
+<sup>13</sup>Den Nachkommen Aarons, des Priesters, gaben sie
+Hebron mit seinem Weideland, die Zufluchtsstadt für den, der einen Menschen getötet hat,
+Libna mit seinem Weideland,
+<sup>14</sup>Jattir mit seinem Weideland, Eschtemoa mit seinem Weideland,
+<sup>15</sup>Holon mit seinem Weideland, Debir mit seinem Weideland,
+<sup>16</sup>Ajin mit seinem Weideland, Jutta mit seinem Weideland und Bet-Schemesch mit seinem Weideland.
+Neun Städte von diesen zwei Stämmen.
+<sup>17</sup>Vom Stamm Benjamin: Gibeon mit seinem Weideland, Geba mit seinem Weideland,
+<sup>18</sup>Anatot mit seinem Weideland und Almon mit seinem Weideland.
+Vier Städte.
+<sup>19</sup>Alle Städte der Nachkommen Aarons, der Priester, waren dreizehn Städte mit ihrem Weideland.
+
+> **Was bedeutet das?**
+> Hebron gehört jetzt zugleich den Priestern und Kaleb. Die Priester bekommen die Stadt zum Wohnen, Kaleb die Felder und Dörfer drumherum. So wird geteilt.
+> Anatot war später die Heimatstadt des Propheten Jeremia. Er stammte aus einer Priesterfamilie (Jeremia 1,1).
+> Neun und vier ergeben dreizehn. Die Rechnung stimmt.
+
+---
+
+### Die Städte der übrigen Kehatiter (Vers 20–26)
+
+<sup>20</sup>Die Sippen der Nachkommen Kehats, der Leviten, die übrigen Nachkommen Kehats,
+bekamen die Städte ihres Loses vom Stamm Efraim.
+<sup>21</sup>Sie gaben ihnen Sichem mit seinem Weideland im Bergland Efraim,
+die Zufluchtsstadt für den, der einen Menschen getötet hat,
+und Geser mit seinem Weideland,
+<sup>22</sup>Kibzajim mit seinem Weideland und Bet-Horon mit seinem Weideland.
+Vier Städte.
+<sup>23</sup>Vom Stamm Dan: Elteke mit seinem Weideland, Gibbeton mit seinem Weideland,
+<sup>24</sup>Ajalon mit seinem Weideland und Gat-Rimmon mit seinem Weideland.
+Vier Städte.
+<sup>25</sup>Vom halben Stamm Manasse: Taanach mit seinem Weideland und Gat-Rimmon mit seinem Weideland.
+Zwei Städte.
+<sup>26</sup>Alle Städte der Sippen der übrigen Nachkommen Kehats waren zehn mit ihrem Weideland.
+
+> **Was bedeutet das?**
+> Gat-Rimmon wird zweimal genannt, bei Dan und bei Manasse. Beim zweiten Mal ist vielleicht ein anderer Ort gemeint. In 1. Chronik 6,55 steht an dieser Stelle ein anderer Name.
+> Vier, vier und zwei ergeben zehn.
+
+---
+
+### Die Städte der Gerschoniter (Vers 27–33)
+
+<sup>27</sup>Den Nachkommen Gerschons, aus den Sippen der Leviten, gaben sie
+vom halben Stamm Manasse Golan in Baschan mit seinem Weideland, die Zufluchtsstadt für den, der einen Menschen getötet hat,
+und Be-Eschtera mit seinem Weideland.
+Zwei Städte.
+<sup>28</sup>Vom Stamm Issachar: Kischjon mit seinem Weideland, Daberat mit seinem Weideland,
+<sup>29</sup>Jarmut mit seinem Weideland und En-Gannim mit seinem Weideland.
+Vier Städte.
+<sup>30</sup>Vom Stamm Asser: Mischal mit seinem Weideland, Abdon mit seinem Weideland,
+<sup>31</sup>Helkat mit seinem Weideland und Rehob mit seinem Weideland.
+Vier Städte.
+<sup>32</sup>Vom Stamm Naftali: Kedesch in Galiläa mit seinem Weideland, die Zufluchtsstadt für den, der einen Menschen getötet hat,
+Hammot-Dor mit seinem Weideland und Kartan mit seinem Weideland.
+Drei Städte.
+<sup>33</sup>Alle Städte der Gerschoniter nach ihren Sippen waren dreizehn Städte mit ihrem Weideland.
+
+> **Was bedeutet das?**
+> Zwei, vier, vier und drei ergeben dreizehn.
+> Die Gerschoniter wohnten im Norden, in Galiläa und in Baschan.
+
+---
+
+### Die Städte der Merariter (Vers 34–40)
+
+<sup>34</sup>Den Sippen der Nachkommen Meraris, den übrigen Leviten, gaben sie
+vom Stamm Sebulon: Jokneam mit seinem Weideland, Karta mit seinem Weideland,
+<sup>35</sup>Dimna mit seinem Weideland und Nahalal mit seinem Weideland.
+Vier Städte.
+<sup>36</sup>Vom Stamm Ruben: Bezer mit seinem Weideland, Jahaz mit seinem Weideland,
+<sup>37</sup>Kedemot mit seinem Weideland und Mefaat mit seinem Weideland.
+Vier Städte.
+<sup>38</sup>Vom Stamm Gad: Ramot in Gilead mit seinem Weideland, die Zufluchtsstadt für den, der einen Menschen getötet hat,
+und Mahanajim mit seinem Weideland,
+<sup>39</sup>Heschbon mit seinem Weideland und Jaser mit seinem Weideland.
+Insgesamt vier Städte.
+<sup>40</sup>Alle diese waren die Städte der Nachkommen Meraris nach ihren Sippen, der übrigen Sippen der Leviten.
+Ihr Los waren zwölf Städte.
+
+> **Was bedeutet das?**
+> Vier, vier und vier ergeben zwölf.
+> Im hebräischen Text fehlen in vielen Handschriften die Verse 36 und 37 über die Städte von Ruben. In anderen Handschriften und in der englischen Vorlage stehen sie. Ohne sie würde die Zahl zwölf nicht stimmen.
+
+---
+
+### Zusammen 48 Städte (Vers 41–42)
+
+<sup>41</sup>Alle Städte der Leviten mitten im Besitz der Israeliten waren 48 Städte mit ihrem Weideland.
+<sup>42</sup>Zu jeder dieser Städte gehörte ihr Weideland ringsum.
+So war es bei allen diesen Städten.
+
+> **Was bedeutet das?**
+> 13 + 10 + 13 + 12 = 48. Genau so viele hatte Mose angeordnet (4. Mose 35,7).
+> Die Leviten wohnten nun im ganzen Land verteilt. So waren sie überall nah bei den Menschen und konnten sie Gottes Gesetz lehren.
+
+---
+
+### Gott hat alles erfüllt (Vers 43–45)
+
+<sup>43</sup>So gab der HERR Israel das ganze Land, das er ihren Vätern geschworen hatte, ihnen zu geben.
+Sie nahmen es in Besitz und wohnten darin.
+<sup>44</sup>Und der HERR gab ihnen Ruhe ringsum, ganz so, wie er es ihren Vätern geschworen hatte.
+Keiner von allen ihren Feinden konnte vor ihnen bestehen.
+Alle ihre Feinde gab der HERR in ihre Hand.
+<sup>45</sup>Nichts fiel dahin von all dem Guten, das der HERR dem Haus Israel versprochen hatte.
+Alles ist eingetroffen.
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Sätze im ganzen Buch Josua: „Nichts fiel dahin von all dem Guten, das der HERR versprochen hatte. Alles ist eingetroffen.“
+> Hunderte Jahre vorher hatte Gott Abraham ein Land versprochen. Jetzt ist es erfüllt. Gott hält sein Wort.
+> Natürlich wissen wir aus den Kapiteln vorher, dass noch nicht alle Völker vertrieben waren. Aber der Erzähler will sagen: Von Gottes Seite her fehlt nichts. Wenn noch etwas offen ist, dann liegt es nicht an Gott.
+> Viele Menschen haben in schweren Zeiten diesen Vers als Trost gelesen: Auch wenn ich es jetzt noch nicht sehe, Gott hält seine Versprechen.
+
+## Josua – Kapitel 22
+#### Der Altar am Jordan
+
+---
+
+### Die Stämme östlich des Jordan dürfen heimkehren (Vers 1–9)
+
+<sup>1</sup>Damals rief Josua die Rubeniten, die Gaditen und den halben Stamm Manasse.
+<sup>2</sup>Er sagte zu ihnen:
+„Ihr habt alles gehalten, was Mose, der Knecht des HERRN, euch geboten hat.
+Und ihr habt auf meine Stimme gehört in allem, was ich euch geboten habe.
+<sup>3</sup>Ihr habt eure Brüder diese lange Zeit bis heute nicht im Stich gelassen.
+Ihr habt den Auftrag des HERRN, eures Gottes, treu erfüllt.
+<sup>4</sup>Und nun hat der HERR, euer Gott, euren Brüdern Ruhe gegeben, wie er es ihnen gesagt hat.
+Darum kehrt jetzt um und geht zu euren Zelten,
+in das Land, das euch gehört,
+das Mose, der Knecht des HERRN, euch jenseits des Jordan gegeben hat.
+<sup>5</sup>Nur achtet sehr darauf, das Gebot und das Gesetz zu tun,
+das Mose, der Knecht des HERRN, euch geboten hat:
+den HERRN, euren Gott, zu lieben, auf allen seinen Wegen zu gehen,
+seine Gebote zu halten, an ihm festzuhalten
+und ihm mit eurem ganzen Herzen und mit eurer ganzen Seele zu dienen.“
+<sup>6</sup>Dann segnete Josua sie und schickte sie weg.
+Und sie gingen zu ihren Zelten.
+<sup>7</sup>Dem einen halben Stamm Manasse hatte Mose ein Erbe in Baschan gegeben.
+Der anderen Hälfte aber hatte Josua ein Erbe bei ihren Brüdern westlich des Jordan gegeben.
+Und als Josua sie zu ihren Zelten schickte, segnete er sie
+<sup>8</sup>und sagte zu ihnen:
+„Kehrt mit großem Reichtum zu euren Zelten zurück,
+mit sehr viel Vieh, mit Silber, mit Gold, mit Bronze, mit Eisen und mit sehr vielen Kleidern.
+Teilt die Beute eurer Feinde mit euren Brüdern.“
+<sup>9</sup>So kehrten die Nachkommen Rubens, die Nachkommen Gads und der halbe Stamm Manasse um.
+Sie gingen weg von den Israeliten aus Schilo, das im Land Kanaan liegt,
+um ins Land Gilead zu ziehen, in das Land, das ihnen gehörte,
+das sie nach dem Befehl des HERRN durch Mose in Besitz genommen hatten.
+
+> **Was bedeutet das?**
+> Die zweieinhalb Stämme haben ihr Versprechen gehalten (4. Mose 32). Viele Jahre haben sie mit ihren Brüdern gekämpft, obwohl sie ihr eigenes Land schon hatten. Josua lobt sie dafür.
+> Und er gibt ihnen das Wichtigste mit auf den Weg: Liebt Gott. Haltet an ihm fest. Mit ganzem Herzen und ganzer Seele. Das ist dieselbe Botschaft wie im „Schma Israel“ (5. Mose 6,5).
+> „Teilt die Beute mit euren Brüdern“: Auch die, die zu Hause geblieben waren, sollen etwas bekommen.
+
+---
+
+### Ein großer Altar (Vers 10–12)
+
+<sup>10</sup>Als sie in die Gegend am Jordan kamen, die im Land Kanaan liegt,
+bauten die Nachkommen Rubens, die Nachkommen Gads und der halbe Stamm Manasse dort am Jordan einen Altar,
+einen großen Altar, der weithin zu sehen war.
+<sup>11</sup>Die Israeliten hörten davon:
+„Schaut, die Nachkommen Rubens, die Nachkommen Gads und der halbe Stamm Manasse
+haben einen Altar gebaut, an der Grenze des Landes Kanaan, in der Gegend am Jordan,
+auf der Seite, die den Israeliten gehört.“
+<sup>12</sup>Als die Israeliten das hörten,
+versammelte sich die ganze Gemeinde der Israeliten in Schilo,
+um gegen sie in den Krieg zu ziehen.
+
+> **Was bedeutet das?**
+> Nach dem Gesetz durfte es nur einen Altar für Opfer geben, an dem Ort, den Gott erwählt (5. Mose 12). Ein zweiter Altar sah aus wie Abfall von Gott.
+> Die anderen Stämme sind sofort bereit, gegen ihre eigenen Brüder in den Krieg zu ziehen. Die Lage ist sehr gefährlich.
+
+---
+
+### Eine Gesandtschaft wird geschickt (Vers 13–20)
+
+<sup>13</sup>Die Israeliten schickten zu den Nachkommen Rubens, zu den Nachkommen Gads und zum halben Stamm Manasse
+ins Land Gilead Pinhas, den Sohn von Eleasar, dem Priester.
+<sup>14</sup>Und mit ihm zehn Anführer, je einen Anführer einer Familie für jeden Stamm Israels.
+Jeder von ihnen war Oberhaupt seiner Familie unter den Tausendschaften Israels.
+<sup>15</sup>Sie kamen zu den Nachkommen Rubens, zu den Nachkommen Gads und zum halben Stamm Manasse ins Land Gilead
+und redeten mit ihnen. Sie sagten:
+<sup>16</sup>„So spricht die ganze Gemeinde des HERRN:
+‚Was ist das für eine Untreue, die ihr gegen den Gott Israels begangen habt?
+Ihr wendet euch heute davon ab, dem HERRN zu folgen,
+indem ihr euch einen Altar baut, um euch heute gegen den HERRN aufzulehnen!
+<sup>17</sup>Ist uns die Schuld von Peor noch nicht genug?
+Von ihr haben wir uns bis heute nicht gereinigt,
+obwohl eine Plage über die Gemeinde des HERRN kam.
+<sup>18</sup>Und ihr wendet euch heute davon ab, dem HERRN zu folgen?
+Wenn ihr euch heute gegen den HERRN auflehnt,
+dann wird er morgen über die ganze Gemeinde Israels zornig werden.
+<sup>19</sup>Wenn aber das Land, das euch gehört, unrein ist,
+dann kommt herüber in das Land, das dem HERRN gehört, in dem die Wohnung des HERRN steht,
+und nehmt unter uns Besitz.
+Aber lehnt euch nicht gegen den HERRN auf und lehnt euch nicht gegen uns auf,
+indem ihr euch einen Altar baut außer dem Altar des HERRN, unseres Gottes.
+<sup>20</sup>Hat nicht Achan, der Sohn von Serach, Untreue begangen bei dem, was dem Bann verfallen war,
+und kam nicht ein Zorn über die ganze Gemeinde Israels?
+Und dieser Mann ist nicht allein wegen seiner Schuld umgekommen.‘“
+
+> **Was bedeutet das?**
+> Bevor sie kämpfen, schicken die Stämme eine Gesandtschaft. Sie wollen zuerst reden. Das ist klug. Viele Kriege wären vermeidbar gewesen, wenn man vorher miteinander geredet hätte.
+> Pinhas war der Priester, der damals bei Baal-Peor so entschlossen gegen den Götzendienst vorgegangen war (4. Mose 25).
+> Die Gesandten erinnern an Peor und an Achan: Wenn einige untreu sind, leidet das ganze Volk.
+> Bemerkenswert ist Vers 19: Sie bieten sogar an, ihr eigenes Land zu teilen, wenn die östlichen Stämme sich dort nicht wohlfühlen. Das ist ein großzügiges Angebot.
+
+---
+
+### Die Antwort: ein Altar als Zeuge (Vers 21–29)
+
+<sup>21</sup>Da antworteten die Nachkommen Rubens, die Nachkommen Gads und der halbe Stamm Manasse
+und sagten zu den Oberhäuptern der Tausendschaften Israels:
+<sup>22</sup>„Der Mächtige, Gott, der HERR! Der Mächtige, Gott, der HERR, er weiß es!
+Und Israel soll es wissen:
+Wenn es aus Auflehnung oder aus Untreue gegen den HERRN geschah,
+dann rette uns heute nicht!
+<sup>23</sup>Wenn wir uns einen Altar gebaut haben, um uns davon abzuwenden, dem HERRN zu folgen,
+oder um darauf Brandopfer oder Speiseopfer darzubringen
+oder Gemeinschaftsopfer darauf zu schlachten,
+dann soll der HERR selbst es fordern.
+<sup>24</sup>Nein, wir haben das aus Sorge getan, aus einem bestimmten Grund.
+Wir dachten: ‚Künftig könnten eure Kinder zu unseren Kindern sagen:
+„Was habt ihr mit dem HERRN, dem Gott Israels, zu tun?
+<sup>25</sup>Der HERR hat doch den Jordan zur Grenze zwischen uns und euch gemacht,
+ihr Nachkommen Rubens und Nachkommen Gads.
+Ihr habt keinen Anteil am HERRN.“‘
+So könnten eure Kinder unsere Kinder davon abbringen, den HERRN zu fürchten.
+<sup>26</sup>Darum sagten wir:
+‚Wir wollen uns daranmachen und einen Altar bauen,
+nicht für Brandopfer und nicht für Schlachtopfer,
+<sup>27</sup>sondern er soll ein Zeuge sein zwischen uns und euch
+und zwischen unseren Nachkommen nach uns,
+dass wir den Dienst des HERRN vor ihm tun
+mit unseren Brandopfern, mit unseren Schlachtopfern und mit unseren Gemeinschaftsopfern.‘
+Damit eure Kinder künftig nicht zu unseren Kindern sagen:
+‚Ihr habt keinen Anteil am HERRN.‘
+<sup>28</sup>Darum sagten wir:
+‚Wenn sie das künftig zu uns oder zu unseren Nachkommen sagen,
+dann werden wir antworten:
+„Schaut das Abbild des Altars des HERRN an, den unsere Väter gemacht haben,
+nicht für Brandopfer und nicht für Schlachtopfer,
+sondern als Zeugen zwischen uns und euch.“‘
+<sup>29</sup>Fern sei es von uns, dass wir uns gegen den HERRN auflehnen
+und uns heute davon abwenden, dem HERRN zu folgen,
+indem wir einen Altar bauen für Brandopfer, für Speiseopfer oder für Schlachtopfer,
+außer dem Altar des HERRN, unseres Gottes, der vor seiner Wohnung steht!“
+
+> **Was bedeutet das?**
+> „Der Mächtige, Gott, der HERR“: Im Hebräischen stehen hier drei Namen Gottes hintereinander: „El, Elohim, JHWH“. Sie sagen es zweimal. Das ist ein feierlicher Schwur.
+> Es war ein Missverständnis! Die östlichen Stämme wollten sich nicht von Gott abwenden. Im Gegenteil: Sie hatten Angst, dass ihre Kinder später ausgeschlossen werden, weil der Jordan zwischen ihnen liegt. Der Altar sollte kein Opferaltar sein, sondern ein Denkmal. Eine Erinnerung: Auch wir gehören zum Volk Gottes.
+> Das ist eine wichtige Lehre: Bevor man jemanden verurteilt, soll man fragen und zuhören. Was von außen wie ein Abfall aussieht, kann in Wirklichkeit ein Ausdruck von Treue sein.
+
+---
+
+### Frieden statt Krieg (Vers 30–34)
+
+<sup>30</sup>Als Pinhas, der Priester, und die Anführer der Gemeinde,
+die Oberhäupter der Tausendschaften Israels, die bei ihm waren,
+die Worte hörten, die die Nachkommen Rubens, die Nachkommen Gads und die Nachkommen Manasses sagten,
+gefielen sie ihnen gut.
+<sup>31</sup>Pinhas, der Sohn von Eleasar, dem Priester, sagte zu den Nachkommen Rubens, zu den Nachkommen Gads und zu den Nachkommen Manasses:
+„Heute erkennen wir, dass der HERR mitten unter uns ist,
+weil ihr diese Untreue gegen den HERRN nicht begangen habt.
+Jetzt habt ihr die Israeliten aus der Hand des HERRN gerettet.“
+<sup>32</sup>Dann kehrten Pinhas, der Sohn von Eleasar, dem Priester, und die Anführer
+von den Nachkommen Rubens und von den Nachkommen Gads aus dem Land Gilead zurück ins Land Kanaan zu den Israeliten
+und brachten ihnen Bericht.
+<sup>33</sup>Die Sache gefiel den Israeliten.
+Und die Israeliten lobten Gott
+und sprachen nicht mehr davon, gegen sie in den Krieg zu ziehen,
+um das Land zu verwüsten, in dem die Nachkommen Rubens und die Nachkommen Gads wohnten.
+<sup>34</sup>Und die Nachkommen Rubens und die Nachkommen Gads nannten den Altar:
+„Ein Zeuge zwischen uns, dass der HERR Gott ist.“
+
+> **Was bedeutet das?**
+> Ein Krieg zwischen Brüdern wird verhindert, weil man miteinander geredet hat. Pinhas, der früher so streng war, hört jetzt zu und freut sich.
+> Am Ende loben alle zusammen Gott. Aus einem Streit wird ein gemeinsames Bekenntnis: „Der HERR ist Gott.“
+> Diese Geschichte ist ein Vorbild für den Umgang mit Konflikten, in Familien, in Gemeinden und zwischen Völkern: Nicht sofort angreifen, sondern fragen, zuhören, verstehen.

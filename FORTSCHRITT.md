@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 206 von 1189 Kapiteln (17.3 %), 6373 von 31098 Versen.**
+**Gesamt: 209 von 1189 Kapiteln (17.6 %), 6461 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 3 | 3. Mose | AT | 27 / 27 | fertig |
 | 4 | 4. Mose | AT | 36 / 36 | fertig |
 | 5 | 5. Mose | AT | 34 / 34 | fertig |
-| 6 | Josua | AT | 19 / 24 | in Arbeit |
+| 6 | Josua | AT | 22 / 24 | in Arbeit |
 | 7 | Richter | AT | 0 / 21 | – |
 | 8 | Rut | AT | 0 / 4 | – |
 | 9 | 1. Samuel | AT | 0 / 31 | – |
