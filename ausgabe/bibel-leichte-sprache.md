@@ -29725,3 +29725,259 @@ um das Land zu verwüsten, in dem die Nachkommen Rubens und die Nachkommen Gads 
 > Ein Krieg zwischen Brüdern wird verhindert, weil man miteinander geredet hat. Pinhas, der früher so streng war, hört jetzt zu und freut sich.
 > Am Ende loben alle zusammen Gott. Aus einem Streit wird ein gemeinsames Bekenntnis: „Der HERR ist Gott.“
 > Diese Geschichte ist ein Vorbild für den Umgang mit Konflikten, in Familien, in Gemeinden und zwischen Völkern: Nicht sofort angreifen, sondern fragen, zuhören, verstehen.
+
+## Josua – Kapitel 23
+#### Josuas Abschiedsrede
+
+---
+
+### Gott hat für euch gekämpft (Vers 1–5)
+
+<sup>1</sup>Viele Tage später, als der HERR Israel Ruhe vor allen seinen Feinden ringsum gegeben hatte
+und Josua alt und hochbetagt war,
+<sup>2</sup>rief Josua ganz Israel zusammen, seine Ältesten, seine Oberhäupter, seine Richter und seine Amtsleute,
+und sagte zu ihnen:
+„Ich bin alt und hochbetagt.
+<sup>3</sup>Ihr habt alles gesehen, was der HERR, euer Gott, all diesen Völkern euretwegen angetan hat.
+Denn der HERR, euer Gott, ist es, der für euch gekämpft hat.
+<sup>4</sup>Schaut, ich habe euch diese Völker, die noch übrig sind, durch das Los als Erbe für eure Stämme zugeteilt,
+vom Jordan an, mit allen Völkern, die ich ausgerottet habe, bis zum großen Meer, wo die Sonne untergeht.
+<sup>5</sup>Der HERR, euer Gott, wird sie vor euch vertreiben und sie aus euren Augen verjagen.
+Und ihr werdet ihr Land in Besitz nehmen, wie der HERR, euer Gott, es euch gesagt hat.
+
+> **Was bedeutet das?**
+> Josua ist alt, wie Mose am Ende seines Lebens. Und wie Mose hält er eine Abschiedsrede.
+> Er erinnert: Nicht ihr habt gesiegt, sondern Gott hat für euch gekämpft.
+
+---
+
+### Haltet am HERRN fest (Vers 6–11)
+
+<sup>6</sup>Darum seid sehr stark, um alles zu halten und zu tun, was im Buch des Gesetzes des Mose geschrieben steht.
+Weicht nicht davon ab, weder nach rechts noch nach links.
+<sup>7</sup>Vermischt euch nicht mit diesen Völkern, die noch bei euch übrig sind.
+Erwähnt nicht die Namen ihrer Götter und schwört nicht bei ihnen.
+Dient ihnen nicht und werft euch nicht vor ihnen nieder.
+<sup>8</sup>Sondern haltet am HERRN, eurem Gott, fest, wie ihr es bis heute getan habt.
+<sup>9</sup>Denn der HERR hat große und starke Völker vor euch vertrieben.
+Und niemand hat bis heute vor euch bestehen können.
+<sup>10</sup>Ein Einziger von euch jagt tausend,
+denn der HERR, euer Gott, ist es, der für euch kämpft, wie er es euch gesagt hat.
+<sup>11</sup>So achtet sehr auf euch selbst, dass ihr den HERRN, euren Gott, liebt.
+
+> **Was bedeutet das?**
+> Die größte Gefahr ist nicht mehr der Krieg, sondern der Götzendienst. Die Völker, die noch im Land leben, haben andere Götter. Israel soll diese Götter nicht einmal beim Namen nennen.
+> Vers 11 ist der Kern der ganzen Rede: „Achtet auf euch selbst, dass ihr den HERRN, euren Gott, liebt.“ Liebe zu Gott ist nichts Selbstverständliches. Man muss darauf achten wie auf ein Feuer, das nicht ausgehen soll.
+
+---
+
+### Eine ernste Warnung (Vers 12–16)
+
+<sup>12</sup>Wenn ihr euch aber abwendet
+und euch an den Rest dieser Völker hängt, die noch bei euch übrig sind,
+und euch mit ihnen durch Heirat verbindet und ihr zu ihnen geht und sie zu euch,
+<sup>13</sup>dann wisst ganz sicher:
+Der HERR, euer Gott, wird diese Völker nicht mehr vor euch vertreiben.
+Sondern sie werden euch zur Schlinge und zur Falle werden,
+zur Peitsche in euren Seiten und zu Dornen in euren Augen,
+bis ihr aus diesem guten Land verschwindet, das der HERR, euer Gott, euch gegeben hat.
+<sup>14</sup>Schaut, ich gehe heute den Weg aller Welt.
+Ihr wisst mit eurem ganzen Herzen und mit eurer ganzen Seele,
+dass nicht ein einziges von all den guten Worten dahingefallen ist,
+die der HERR, euer Gott, über euch gesagt hat.
+Alle sind für euch eingetroffen.
+Nicht ein einziges davon ist dahingefallen.
+<sup>15</sup>Aber genau so, wie all das Gute über euch gekommen ist, das der HERR, euer Gott, euch versprochen hat,
+so wird der HERR auch all das Böse über euch bringen,
+bis er euch aus diesem guten Land vertilgt hat, das der HERR, euer Gott, euch gegeben hat,
+<sup>16</sup>wenn ihr den Bund des HERRN, eures Gottes, übertretet, den er euch geboten hat,
+und hingeht und anderen Göttern dient und euch vor ihnen niederwerft.
+Dann wird der Zorn des HERRN gegen euch entbrennen,
+und ihr werdet schnell aus dem guten Land verschwinden, das er euch gegeben hat.“
+
+> **Was bedeutet das?**
+> „Den Weg aller Welt gehen“ heißt: sterben. Josua weiß, dass sein Leben zu Ende geht.
+> Josua warnt wie Mose: Gottes Versprechen sind zuverlässig, die guten und auch die Warnungen. Wenn Israel andere Götter verehrt, wird es das Land verlieren.
+> Bei den Ehen geht es nicht um Hass auf Fremde, sondern um den Glauben. Die Gefahr war, dass man durch die Ehe auch die fremden Götter übernimmt. Genau das ist später bei König Salomo geschehen (1. Könige 11,1–8).
+> Das Buch der Richter erzählt dann, wie diese Warnung leider wahr wurde.
+
+## Josua – Kapitel 24
+#### Der Bund in Sichem – Josuas Tod
+
+---
+
+### Gott erzählt die Geschichte seines Volkes (Vers 1–13)
+
+<sup>1</sup>Josua versammelte alle Stämme Israels in Sichem
+und rief die Ältesten Israels, seine Oberhäupter, seine Richter und seine Amtsleute.
+Und sie traten vor Gott.
+<sup>2</sup>Josua sagte zum ganzen Volk:
+„So spricht der HERR, der Gott Israels:
+‚Eure Väter wohnten in alter Zeit jenseits des Stromes,
+Terach, der Vater Abrahams und der Vater Nahors.
+Und sie dienten anderen Göttern.
+<sup>3</sup>Da nahm ich euren Vater Abraham von jenseits des Stromes
+und ließ ihn durch das ganze Land Kanaan ziehen.
+Ich machte seine Nachkommen zahlreich und gab ihm Isaak.
+<sup>4</sup>Und Isaak gab ich Jakob und Esau.
+Esau gab ich das Gebirge Seïr, damit er es besitzt.
+Jakob aber und seine Söhne zogen hinab nach Ägypten.
+<sup>5</sup>Dann schickte ich Mose und Aaron.
+Ich schlug Ägypten mit Plagen, mit dem, was ich mitten unter ihnen tat.
+Und danach führte ich euch heraus.
+<sup>6</sup>Ich führte eure Väter aus Ägypten heraus, und ihr kamt an das Meer.
+Die Ägypter verfolgten eure Väter mit Streitwagen und Reitern bis zum Roten Meer.
+<sup>7</sup>Da schrien sie zum HERRN.
+Und er legte Finsternis zwischen euch und die Ägypter
+und ließ das Meer über sie kommen, und es bedeckte sie.
+Eure Augen haben gesehen, was ich in Ägypten getan habe.
+Und ihr habt lange Zeit in der Wüste gewohnt.
+<sup>8</sup>Dann brachte ich euch in das Land der Amoriter, die jenseits des Jordan wohnten.
+Sie kämpften gegen euch, und ich gab sie in eure Hand.
+Ihr habt ihr Land in Besitz genommen, und ich habe sie vor euch vernichtet.
+<sup>9</sup>Dann stand Balak auf, der Sohn von Zippor, der König von Moab, und kämpfte gegen Israel.
+Er schickte hin und ließ Bileam rufen, den Sohn von Beor, damit er euch verflucht.
+<sup>10</sup>Aber ich wollte nicht auf Bileam hören.
+Darum musste er euch segnen.
+So rettete ich euch aus seiner Hand.
+<sup>11</sup>Dann zogt ihr über den Jordan und kamt nach Jericho.
+Die Männer von Jericho kämpften gegen euch,
+die Amoriter, die Perisiter, die Kanaaniter, die Hetiter, die Girgaschiter, die Hiwiter und die Jebusiter.
+Und ich gab sie in eure Hand.
+<sup>12</sup>Ich schickte die Hornissen vor euch her.
+Sie vertrieben sie vor euch, auch die beiden Könige der Amoriter.
+Nicht mit deinem Schwert und nicht mit deinem Bogen.
+<sup>13</sup>Ich gab euch ein Land, für das ihr euch nicht abgemüht habt,
+und Städte, die ihr nicht gebaut habt, und ihr wohnt darin.
+Ihr esst von Weinbergen und Olivenbäumen, die ihr nicht gepflanzt habt.‘
+
+> **Was bedeutet das?**
+> Sichem ist ein besonderer Ort. Hier hatte Gott Abraham zum ersten Mal versprochen, ihm das Land zu geben (1. Mose 12,6–7). Hier hatte Jakob seine Familie aufgefordert, die fremden Götter wegzuwerfen (1. Mose 35,2–4). Jetzt kommt das ganze Volk hierher zurück.
+> „Jenseits des Stromes“ meint den Fluss Euphrat, im heutigen Irak. Von dort kam Abrahams Familie.
+> Ein ehrlicher Satz in Vers 2: Auch Abrahams Familie hat früher anderen Göttern gedient. Israel war nicht von Anfang an besser als andere. Gott hat es gerufen.
+> In dieser Rede spricht Gott selbst und erzählt die ganze Geschichte von Abraham bis heute. Das Ziel: Alles, was Israel hat, ist Geschenk. „Nicht mit deinem Schwert und nicht mit deinem Bogen.“
+> „Rotes Meer“: So steht es in der englischen Vorlage. Im Hebräischen steht „Schilfmeer“.
+
+---
+
+### Wählt heute, wem ihr dienen wollt (Vers 14–15)
+
+<sup>14</sup>Und nun fürchtet den HERRN und dient ihm aufrichtig und treu.
+Schafft die Götter weg, denen eure Väter jenseits des Stromes und in Ägypten gedient haben,
+und dient dem HERRN.
+<sup>15</sup>Wenn es euch aber nicht gefällt, dem HERRN zu dienen,
+dann wählt euch heute, wem ihr dienen wollt:
+den Göttern, denen eure Väter jenseits des Stromes gedient haben,
+oder den Göttern der Amoriter, in deren Land ihr wohnt.
+Ich aber und mein Haus, wir wollen dem HERRN dienen.“
+
+> **Was bedeutet das?**
+> Das ist der berühmteste Satz aus dem Buch Josua: „Ich aber und mein Haus, wir wollen dem HERRN dienen.“ Viele Familien haben diesen Satz über ihre Haustür oder in ihre Wohnung gehängt.
+> Josua zwingt niemanden. Er stellt das Volk vor eine freie Wahl: Entscheidet euch! Aber er sagt auch klar, wie er sich selbst entschieden hat.
+> Glaube ist eine Entscheidung. Und diese Entscheidung muss jede Generation neu treffen, jeder Mensch für sich.
+> „Schafft die Götter weg“: Offenbar hatten einige im Volk noch Götterbilder aus Ägypten oder aus der alten Heimat. Josua fordert eine klare Trennung.
+
+---
+
+### Das Volk entscheidet sich (Vers 16–24)
+
+<sup>16</sup>Das Volk antwortete:
+„Fern sei es von uns, den HERRN zu verlassen, um anderen Göttern zu dienen!
+<sup>17</sup>Denn der HERR, unser Gott, ist es,
+der uns und unsere Väter aus dem Land Ägypten heraufgeführt hat, aus dem Haus der Sklaverei,
+der vor unseren Augen diese großen Zeichen getan hat
+und uns behütet hat auf dem ganzen Weg, den wir gegangen sind,
+und unter allen Völkern, durch die wir gezogen sind.
+<sup>18</sup>Der HERR hat alle Völker vor uns vertrieben, auch die Amoriter, die im Land wohnten.
+Darum wollen auch wir dem HERRN dienen, denn er ist unser Gott.“
+<sup>19</sup>Josua sagte zum Volk:
+„Ihr könnt dem HERRN nicht dienen.
+Denn er ist ein heiliger Gott.
+Er ist ein eifersüchtiger Gott.
+Er wird eure Übertretungen und eure Sünden nicht vergeben.
+<sup>20</sup>Wenn ihr den HERRN verlasst und fremden Göttern dient,
+dann wird er sich umwenden und euch Böses tun und euch vernichten,
+nachdem er euch Gutes getan hat.“
+<sup>21</sup>Das Volk sagte zu Josua:
+„Nein, sondern wir wollen dem HERRN dienen!“
+<sup>22</sup>Josua sagte zum Volk:
+„Ihr seid Zeugen gegen euch selbst,
+dass ihr euch selbst den HERRN erwählt habt, um ihm zu dienen.“
+Sie sagten: „Wir sind Zeugen.“
+<sup>23</sup>„So schafft nun die fremden Götter weg, die mitten unter euch sind,
+und neigt euer Herz zum HERRN, dem Gott Israels.“
+<sup>24</sup>Das Volk sagte zu Josua:
+„Dem HERRN, unserem Gott, wollen wir dienen, und auf seine Stimme wollen wir hören.“
+
+> **Was bedeutet das?**
+> Das Volk antwortet begeistert: Ja, wir wollen dem HERRN dienen!
+> Aber Josua sagt etwas Überraschendes: „Ihr könnt es nicht.“ Warum? Er will, dass sie es ernst meinen. Ein schnelles „Ja“ reicht nicht. Gott ist heilig. Man kann nicht nebenbei ein bisschen an ihn glauben und gleichzeitig andere Götter haben.
+> „Er wird eure Sünden nicht vergeben“: Das klingt hart. Gemeint ist wohl: Wer bewusst Gott verlässt und anderen Göttern dient, kann nicht einfach mit Vergebung rechnen, als wäre nichts gewesen. Die übrige Bibel zeigt aber auch: Wer umkehrt, findet bei Gott Erbarmen (5. Mose 30).
+> Dreimal sagt das Volk Ja. Und es wird Zeuge gegen sich selbst. Das heißt: Ihr habt es freiwillig gesagt. Später könnt ihr nicht sagen, ihr hättet es nicht gewusst.
+> „Neigt euer Herz zum HERRN“: Es geht nicht nur um äußere Dinge, sondern um das Herz.
+
+---
+
+### Der Bund wird geschlossen (Vers 25–28)
+
+<sup>25</sup>So schloss Josua an diesem Tag einen Bund mit dem Volk
+und gab ihm in Sichem Ordnung und Recht.
+<sup>26</sup>Josua schrieb diese Worte in das Buch des Gesetzes Gottes.
+Und er nahm einen großen Stein und stellte ihn dort unter der Eiche auf, die beim Heiligtum des HERRN stand.
+<sup>27</sup>Josua sagte zum ganzen Volk:
+„Schaut, dieser Stein soll ein Zeuge gegen uns sein,
+denn er hat alle Worte des HERRN gehört, die er mit uns geredet hat.
+Er soll ein Zeuge gegen euch sein, damit ihr euren Gott nicht verleugnet.“
+<sup>28</sup>Dann entließ Josua das Volk, jeden in sein Erbteil.
+
+> **Was bedeutet das?**
+> Der Bund vom Sinai wird hier erneuert. Jede Generation muss ihn selbst eingehen.
+> Der große Stein ist wie ein stummer Zeuge. Er erinnert immer wieder an das Versprechen. Archäologen haben in Sichem einen großen aufgerichteten Stein gefunden. Manche verbinden ihn mit dieser Geschichte. Sicher ist das nicht.
+
+---
+
+### Josuas Tod (Vers 29–31)
+
+<sup>29</sup>Nach diesen Ereignissen starb Josua, der Sohn von Nun, der Knecht des HERRN.
+Er war 110 Jahre alt.
+<sup>30</sup>Man begrub ihn im Gebiet seines Erbteils, in Timnat-Serach,
+das im Bergland Efraim liegt, nördlich vom Berg Gaasch.
+<sup>31</sup>Israel diente dem HERRN, solange Josua lebte
+und solange die Ältesten lebten, die Josua überlebten
+und die das ganze Werk des HERRN kannten, das er für Israel getan hatte.
+
+> **Was bedeutet das?**
+> Josua bekommt am Ende denselben Ehrentitel wie Mose: „Knecht des HERRN.“ Er hat treu gedient.
+> 110 Jahre, so alt wurde auch Josef (1. Mose 50,26). Das galt als ein vollkommenes, gesegnetes Alter.
+> Vers 31 ist schön und traurig zugleich: Solange die Menschen lebten, die Gottes Taten selbst gesehen hatten, blieb Israel treu. Was passiert, wenn diese Generation stirbt? Davon erzählt das Buch der Richter (Richter 2,10).
+
+---
+
+### Josefs Gebeine und Eleasars Tod (Vers 32–33)
+
+<sup>32</sup>Die Gebeine Josefs, die die Israeliten aus Ägypten heraufgebracht hatten,
+begruben sie in Sichem, auf dem Stück Feld,
+das Jakob von den Söhnen Hamors, des Vaters von Sichem, für hundert Silberstücke gekauft hatte.
+Sie wurden das Erbe der Nachkommen Josefs.
+<sup>33</sup>Auch Eleasar, der Sohn Aarons, starb.
+Man begrub ihn auf dem Hügel seines Sohnes Pinhas,
+der ihm im Bergland Efraim gegeben worden war.
+
+> **Was bedeutet das?**
+> Josef hatte vor seinem Tod gebeten: Nehmt meine Gebeine mit, wenn Gott euch aus Ägypten herausführt (1. Mose 50,25). Mose hatte sie mitgenommen (2. Mose 13,19). Jetzt, Hunderte Jahre später, werden sie im versprochenen Land begraben. Ein letztes Versprechen ist erfüllt.
+> Sie werden genau in Sichem begraben, auf dem Feld, das Jakob gekauft hatte (1. Mose 33,19). Dort, wo alles begann.
+> Das Buch endet mit drei Gräbern: Josua, Josef und Eleasar. Eine Generation geht zu Ende. Aber Gottes Geschichte mit seinem Volk geht weiter.
+
+---
+
+### Rückblick: Was haben wir im Buch Josua gelesen?
+
+> **Was bedeutet das?**
+> Das Buch Josua erzählt, wie Gottes Versprechen an Abraham erfüllt wird: Israel bekommt das Land.
+> 1. Der Einzug (Kapitel 1–5): Gott sagt zu Josua: „Sei stark und mutig.“ Rahab rettet die Kundschafter. Das Volk zieht durch den Jordan.
+> 2. Die Eroberung (Kapitel 6–12): Die Mauern von Jericho fallen. Achans Schuld bringt Unglück. Die Gibeoniter schließen Frieden. Die Sonne steht still.
+> 3. Die Verteilung (Kapitel 13–21): Jeder Stamm bekommt sein Land. Kaleb, die Töchter Zelofhads und die Leviten bekommen ihr Erbe. „Nichts fiel dahin von all dem Guten, das der HERR versprochen hatte.“
+> 4. Der Abschied (Kapitel 22–24): Ein Bruderkrieg wird verhindert. Josua ruft zur Entscheidung: „Ich aber und mein Haus, wir wollen dem HERRN dienen.“
+> Das Buch enthält viele harte Kriegsberichte. Wir haben sie nicht weggelassen, aber ehrlich gesagt: Sie gehören zu einer fernen Zeit, sie übertreiben oft in der Sprache ihrer Zeit, und sie dürfen niemals benutzt werden, um Gewalt oder Krieg zu rechtfertigen.
+> Und das Buch zeigt auch: Menschen aus fremden Völkern wie Rahab und die Gibeoniter finden einen Platz in Gottes Volk. Der Fremde Kaleb wird zum Vorbild der Treue.
+> Die wichtigste Botschaft: Gott hält sein Wort. Und jeder Mensch muss sich entscheiden, wem er dienen will.
