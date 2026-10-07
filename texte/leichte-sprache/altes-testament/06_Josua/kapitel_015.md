@@ -8,7 +8,7 @@
 [1] Das Los für den Stamm der Nachkommen Judas nach ihren Sippen
 fiel bis zur Grenze von Edom, bis zur Wüste Zin im Süden, am äußersten Ende im Süden.
 [2] Ihre Südgrenze begann am äußersten Ende des Salzmeeres, an der Bucht, die nach Süden schaut.
-[3] Sie ging südlich vom Skorpionenpass hinaus,
+[3] Sie ging südlich vom Aufstieg von Akrabbim hinaus,
 führte hinüber nach Zin,
 ging südlich von Kadesch-Barnea hinauf,
 führte hinüber nach Hezron, ging hinauf nach Addar
@@ -19,7 +19,7 @@ Das soll eure Südgrenze sein.
 
 > **Was bedeutet das?**
 > Juda war der größte Stamm. Er bekommt zuerst sein Gebiet, im Süden des Landes.
-> „Skorpionenpass“ heißt auf Hebräisch „Akrabbim“. So steht es auch in der englischen Vorlage.
+> „Akrabbim“ bedeutet „Skorpione“. Der „Aufstieg von Akrabbim“ ist ein steiler Pass im Süden.
 > Die Grenzen sind ähnlich beschrieben wie die Südgrenze des ganzen Landes (4. Mose 34,3–5).
 
 ---
