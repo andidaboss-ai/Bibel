@@ -32,7 +32,7 @@ Und Mose, der Knecht des HERRN, gab es den Rubeniten, den Gaditen und dem halben
 
 [7] Und das sind die Könige des Landes, die Josua und die Israeliten geschlagen haben,
 jenseits des Jordan im Westen,
-von Baal-Gad im Tal des Libanon bis zum kahlen Berg, der nach Seïr ansteigt.
+von Baal-Gad im Tal des Libanon bis zum Berg Halak, der nach Seïr ansteigt.
 Josua gab es den Stämmen Israels als Besitz, nach ihren Abteilungen,
 [8] im Bergland, im Hügelland, in der Araba, an den Abhängen, in der Wüste und im Süden,
 das Land der Hetiter, der Amoriter, der Kanaaniter, der Perisiter, der Hiwiter und der Jebusiter:
@@ -65,7 +65,7 @@ Der König von Megiddo: einer.
 [22] Der König von Kedesch: einer.
 Der König von Jokneam am Karmel: einer.
 [23] Der König von Dor auf den Höhen von Dor: einer.
-Der König der Völker in Gilgal: einer.
+Der König von Gojim in Gilgal: einer.
 [24] Der König von Tirza: einer.
 Zusammen 31 Könige.
 
@@ -73,5 +73,5 @@ Zusammen 31 Könige.
 > Die Liste zählt 31 Könige auf. Damals hatte fast jede größere Stadt ihren eigenen „König“, eher so etwas wie ein Stadtfürst. Das Land war in viele kleine Stadtstaaten aufgeteilt.
 > Manche dieser Könige werden in den Kapiteln vorher nicht erwähnt, zum Beispiel Bethel, Megiddo oder Tirza. Die Liste fasst also mehr zusammen, als erzählt wurde.
 > Einige Städte wie Jerusalem, Geser und Megiddo wurden in Wirklichkeit erst viel später von Israel eingenommen (Richter 1,21.27–29; 2. Samuel 5,6–9; 1. Könige 9,16). Hier wurden ihre Könige zwar besiegt, aber die Städte selbst blieben in den Händen der Kanaaniter.
-> „Der König der Völker in Gilgal“: In der englischen Vorlage steht „Goiim in Gilgal“. „Goiim“ heißt „Völker“. Es ist vielleicht ein anderer Ort als das Gilgal am Jordan.
+> „Gojim“ heißt „Völker“. Es ist vielleicht ein anderer Ort als das Gilgal am Jordan.
 > Die Liste zeigt: Gott hat sein Versprechen gehalten. Das Land, das er Abraham versprochen hat, gehört jetzt Israel.

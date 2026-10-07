@@ -28412,7 +28412,7 @@ Er ließ nichts ungetan von allem, was der HERR Mose geboten hatte.
 <sup>16</sup>So nahm Josua dieses ganze Land ein:
 das Bergland, den ganzen Süden, das ganze Land Goschen, das Hügelland, die Araba,
 das Bergland Israels und sein Hügelland,
-<sup>17</sup>vom kahlen Berg, der nach Seïr ansteigt, bis nach Baal-Gad im Tal des Libanon unterhalb des Berges Hermon.
+<sup>17</sup>vom Berg Halak, der nach Seïr ansteigt, bis nach Baal-Gad im Tal des Libanon unterhalb des Berges Hermon.
 Alle ihre Könige nahm er gefangen, schlug sie und tötete sie.
 <sup>18</sup>Lange Zeit führte Josua Krieg mit all diesen Königen.
 <sup>19</sup>Es gab keine Stadt, die mit den Israeliten Frieden schloss,
@@ -28425,7 +28425,7 @@ damit sie keine Gnade fanden, sondern damit er sie vernichtete,
 wie der HERR es Mose geboten hatte.
 
 > **Was bedeutet das?**
-> „Der kahle Berg“ heißt auf Hebräisch „Halak“. In der englischen Vorlage steht der Name „Mount Halak“.
+> „Halak“ bedeutet „kahl“. Es ist ein kahler Berg im Süden des Landes.
 > „Lange Zeit“: Die Eroberung dauerte nicht ein paar Tage, sondern viele Jahre. Jüdische Ausleger rechneten etwa sieben Jahre.
 > Vers 19 ist bemerkenswert: Frieden wäre möglich gewesen. Die Gibeoniter haben es gezeigt. Aber keine andere Stadt hat diesen Weg gewählt.
 > „Gott verhärtete ihre Herzen“: Das ist schwer zu verstehen. Ähnlich wurde es beim Pharao gesagt. Die Bibel will damit sagen: Auch der Widerstand der Völker lag nicht außerhalb von Gottes Plan. Das heißt nicht, dass die Menschen keine Wahl hatten. Rahab und die Gibeoniter haben anders gewählt.
@@ -28484,7 +28484,7 @@ Und Mose, der Knecht des HERRN, gab es den Rubeniten, den Gaditen und dem halben
 
 <sup>7</sup>Und das sind die Könige des Landes, die Josua und die Israeliten geschlagen haben,
 jenseits des Jordan im Westen,
-von Baal-Gad im Tal des Libanon bis zum kahlen Berg, der nach Seïr ansteigt.
+von Baal-Gad im Tal des Libanon bis zum Berg Halak, der nach Seïr ansteigt.
 Josua gab es den Stämmen Israels als Besitz, nach ihren Abteilungen,
 <sup>8</sup>im Bergland, im Hügelland, in der Araba, an den Abhängen, in der Wüste und im Süden,
 das Land der Hetiter, der Amoriter, der Kanaaniter, der Perisiter, der Hiwiter und der Jebusiter:
@@ -28517,7 +28517,7 @@ Der König von Megiddo: einer.
 <sup>22</sup>Der König von Kedesch: einer.
 Der König von Jokneam am Karmel: einer.
 <sup>23</sup>Der König von Dor auf den Höhen von Dor: einer.
-Der König der Völker in Gilgal: einer.
+Der König von Gojim in Gilgal: einer.
 <sup>24</sup>Der König von Tirza: einer.
 Zusammen 31 Könige.
 
@@ -28525,7 +28525,7 @@ Zusammen 31 Könige.
 > Die Liste zählt 31 Könige auf. Damals hatte fast jede größere Stadt ihren eigenen „König“, eher so etwas wie ein Stadtfürst. Das Land war in viele kleine Stadtstaaten aufgeteilt.
 > Manche dieser Könige werden in den Kapiteln vorher nicht erwähnt, zum Beispiel Bethel, Megiddo oder Tirza. Die Liste fasst also mehr zusammen, als erzählt wurde.
 > Einige Städte wie Jerusalem, Geser und Megiddo wurden in Wirklichkeit erst viel später von Israel eingenommen (Richter 1,21.27–29; 2. Samuel 5,6–9; 1. Könige 9,16). Hier wurden ihre Könige zwar besiegt, aber die Städte selbst blieben in den Händen der Kanaaniter.
-> „Der König der Völker in Gilgal“: In der englischen Vorlage steht „Goiim in Gilgal“. „Goiim“ heißt „Völker“. Es ist vielleicht ein anderer Ort als das Gilgal am Jordan.
+> „Gojim“ heißt „Völker“. Es ist vielleicht ein anderer Ort als das Gilgal am Jordan.
 > Die Liste zeigt: Gott hat sein Versprechen gehalten. Das Land, das er Abraham versprochen hat, gehört jetzt Israel.
 
 ## Josua – Kapitel 13
@@ -28549,7 +28549,7 @@ und auch die Awiter
 Dazu das ganze Land der Kanaaniter und Meara, das den Sidoniern gehört,
 bis nach Afek, bis zur Grenze der Amoriter,
 <sup>5</sup>und das Land der Gebaliter und der ganze Libanon im Osten,
-von Baal-Gad unterhalb des Berges Hermon bis nach Lebo-Hamat,
+von Baal-Gad unterhalb des Berges Hermon bis dorthin, wo es nach Hamat hineingeht,
 <sup>6</sup>alle Bewohner des Berglandes, vom Libanon bis Misrefot-Majim, alle Sidonier.
 Ich selbst werde sie vor den Israeliten vertreiben.
 Verteile das Land nur durch das Los an Israel als Erbe, wie ich es dir geboten habe.
@@ -28559,7 +28559,7 @@ Verteile das Land nur durch das Los an Israel als Erbe, wie ich es dir geboten h
 > Josua ist alt geworden. Er hat viel erreicht, aber nicht alles. Es bleibt viel Land übrig, vor allem an der Küste (bei den Philistern) und im Norden (im Libanon).
 > Gott sagt: Verteile das Land trotzdem schon. Ich selbst werde den Rest übernehmen. Josua muss nicht alles vollenden. Gott sorgt für das, was nach ihm kommt.
 > Die Philister lebten in fünf großen Städten an der Küste. Sie waren später lange die gefährlichsten Feinde Israels, zur Zeit von Simson, Saul und David.
-> „Lebo-Hamat“: In der englischen Vorlage steht „der Eingang von Hamat“.
+> „Wo es nach Hamat hineingeht“: Viele Bibeln übersetzen das als Ortsnamen „Lebo-Hamat“. Hamat war eine Stadt im heutigen Syrien.
 > „Gebaliter“ sind die Leute aus Gebal, der Stadt Byblos im heutigen Libanon.
 
 ---

@@ -78,7 +78,7 @@ Er ließ nichts ungetan von allem, was der HERR Mose geboten hatte.
 [16] So nahm Josua dieses ganze Land ein:
 das Bergland, den ganzen Süden, das ganze Land Goschen, das Hügelland, die Araba,
 das Bergland Israels und sein Hügelland,
-[17] vom kahlen Berg, der nach Seïr ansteigt, bis nach Baal-Gad im Tal des Libanon unterhalb des Berges Hermon.
+[17] vom Berg Halak, der nach Seïr ansteigt, bis nach Baal-Gad im Tal des Libanon unterhalb des Berges Hermon.
 Alle ihre Könige nahm er gefangen, schlug sie und tötete sie.
 [18] Lange Zeit führte Josua Krieg mit all diesen Königen.
 [19] Es gab keine Stadt, die mit den Israeliten Frieden schloss,
@@ -91,7 +91,7 @@ damit sie keine Gnade fanden, sondern damit er sie vernichtete,
 wie der HERR es Mose geboten hatte.
 
 > **Was bedeutet das?**
-> „Der kahle Berg“ heißt auf Hebräisch „Halak“. In der englischen Vorlage steht der Name „Mount Halak“.
+> „Halak“ bedeutet „kahl“. Es ist ein kahler Berg im Süden des Landes.
 > „Lange Zeit“: Die Eroberung dauerte nicht ein paar Tage, sondern viele Jahre. Jüdische Ausleger rechneten etwa sieben Jahre.
 > Vers 19 ist bemerkenswert: Frieden wäre möglich gewesen. Die Gibeoniter haben es gezeigt. Aber keine andere Stadt hat diesen Weg gewählt.
 > „Gott verhärtete ihre Herzen“: Das ist schwer zu verstehen. Ähnlich wurde es beim Pharao gesagt. Die Bibel will damit sagen: Auch der Widerstand der Völker lag nicht außerhalb von Gottes Plan. Das heißt nicht, dass die Menschen keine Wahl hatten. Rahab und die Gibeoniter haben anders gewählt.

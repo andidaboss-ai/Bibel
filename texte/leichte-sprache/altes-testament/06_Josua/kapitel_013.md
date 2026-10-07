@@ -19,7 +19,7 @@ und auch die Awiter
 Dazu das ganze Land der Kanaaniter und Meara, das den Sidoniern gehört,
 bis nach Afek, bis zur Grenze der Amoriter,
 [5] und das Land der Gebaliter und der ganze Libanon im Osten,
-von Baal-Gad unterhalb des Berges Hermon bis nach Lebo-Hamat,
+von Baal-Gad unterhalb des Berges Hermon bis dorthin, wo es nach Hamat hineingeht,
 [6] alle Bewohner des Berglandes, vom Libanon bis Misrefot-Majim, alle Sidonier.
 Ich selbst werde sie vor den Israeliten vertreiben.
 Verteile das Land nur durch das Los an Israel als Erbe, wie ich es dir geboten habe.
@@ -29,7 +29,7 @@ Verteile das Land nur durch das Los an Israel als Erbe, wie ich es dir geboten h
 > Josua ist alt geworden. Er hat viel erreicht, aber nicht alles. Es bleibt viel Land übrig, vor allem an der Küste (bei den Philistern) und im Norden (im Libanon).
 > Gott sagt: Verteile das Land trotzdem schon. Ich selbst werde den Rest übernehmen. Josua muss nicht alles vollenden. Gott sorgt für das, was nach ihm kommt.
 > Die Philister lebten in fünf großen Städten an der Küste. Sie waren später lange die gefährlichsten Feinde Israels, zur Zeit von Simson, Saul und David.
-> „Lebo-Hamat“: In der englischen Vorlage steht „der Eingang von Hamat“.
+> „Wo es nach Hamat hineingeht“: Viele Bibeln übersetzen das als Ortsnamen „Lebo-Hamat“. Hamat war eine Stadt im heutigen Syrien.
 > „Gebaliter“ sind die Leute aus Gebal, der Stadt Byblos im heutigen Libanon.
 
 ---
