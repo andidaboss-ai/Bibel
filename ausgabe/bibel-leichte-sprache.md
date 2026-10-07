@@ -27520,3 +27520,366 @@ und damit ihr den HERRN, euren Gott, für immer fürchtet.‘“
 > „Gilgal“ wurde das erste feste Lager Israels im Land. Der Name klingt wie das hebräische Wort für „Kreis“ oder „Steinkreis“.
 > In Vers 23 steht in der englischen Vorlage „Rotes Meer“, im Hebräischen „Schilfmeer“.
 > Das Ziel steht am Ende: „damit alle Völker der Erde erkennen“. Gottes Taten für Israel sollen der ganzen Welt zeigen, wer Gott ist.
+
+## Josua – Kapitel 5
+#### Neuanfang in Gilgal
+
+---
+
+### Die Könige verlieren den Mut (Vers 1)
+
+<sup>1</sup>Alle Könige der Amoriter, die jenseits des Jordan im Westen wohnten,
+und alle Könige der Kanaaniter, die am Meer wohnten,
+hörten, dass der HERR das Wasser des Jordan vor den Israeliten ausgetrocknet hatte, bis wir hinübergezogen waren.
+Da verzagte ihr Herz, und sie hatten keinen Mut mehr wegen der Israeliten.
+
+> **Was bedeutet das?**
+> „Bis wir hinübergezogen waren“: Der Erzähler sagt „wir“. Er zählt sich selbst zum Volk, das damals dabei war.
+
+---
+
+### Die Beschneidung (Vers 2–9)
+
+<sup>2</sup>Damals sagte der HERR zu Josua:
+„Mach dir Messer aus Feuerstein
+und beschneide die Israeliten noch einmal, zum zweiten Mal.“
+<sup>3</sup>Da machte sich Josua Messer aus Feuerstein
+und beschnitt die Israeliten am „Hügel der Vorhäute“.
+<sup>4</sup>Das ist der Grund, warum Josua sie beschnitt:
+Das ganze Volk, das aus Ägypten ausgezogen war, alle Männer, alle Kriegsleute,
+waren unterwegs in der Wüste gestorben, nachdem sie aus Ägypten ausgezogen waren.
+<sup>5</sup>Denn das ganze Volk, das ausgezogen war, war beschnitten.
+Aber das ganze Volk, das unterwegs in der Wüste geboren worden war, nachdem sie aus Ägypten ausgezogen waren,
+war nicht beschnitten worden.
+<sup>6</sup>Denn die Israeliten waren vierzig Jahre in der Wüste umhergezogen,
+bis das ganze Volk, die Kriegsleute, die aus Ägypten ausgezogen waren, aufgerieben war,
+weil sie nicht auf die Stimme des HERRN gehört hatten.
+Der HERR hatte ihnen geschworen, dass er sie das Land nicht sehen lassen werde,
+das der HERR ihren Vätern geschworen hatte, uns zu geben,
+ein Land, in dem Milch und Honig fließen.
+<sup>7</sup>Ihre Söhne, die er an ihrer Stelle aufwachsen ließ, beschnitt Josua.
+Denn sie waren unbeschnitten, weil man sie unterwegs nicht beschnitten hatte.
+<sup>8</sup>Als das ganze Volk beschnitten war, blieben sie an ihrem Ort im Lager, bis sie geheilt waren.
+<sup>9</sup>Der HERR sagte zu Josua:
+„Heute habe ich die Schande Ägyptens von euch abgewälzt.“
+Darum heißt dieser Ort bis heute Gilgal.
+
+> **Was bedeutet das?**
+> Die Beschneidung ist das Zeichen des Bundes, das Gott Abraham gegeben hat (1. Mose 17). In der Wüste wurde sie nicht mehr gemacht. Jetzt, am Beginn des Lebens im Land, wird der Bund erneuert.
+> Messer aus Feuerstein waren damals für heilige Handlungen üblich, auch als es schon Metall gab.
+> Es ist erstaunlich: Gerade im feindlichen Land, kurz vor dem Kampf, machen sich alle Männer für einige Tage wehrlos. Sie vertrauen darauf, dass Gott sie schützt.
+> „Gilgal“ klingt wie das hebräische Wort „galal“, das heißt „wälzen“. Gott hat die Schande „abgewälzt“. Die „Schande Ägyptens“ meint vielleicht die Zeit der Sklaverei, oder den Spott, dass Gott sein Volk nur in die Wüste geführt habe, um es dort sterben zu lassen.
+
+---
+
+### Das erste Passa im Land (Vers 10–12)
+
+<sup>10</sup>Die Israeliten lagerten in Gilgal.
+Und sie feierten das Passa am vierzehnten Tag des Monats, am Abend, in den Steppen von Jericho.
+<sup>11</sup>Am Tag nach dem Passa aßen sie vom Ertrag des Landes:
+ungesäuerte Brote und geröstete Körner, an genau diesem Tag.
+<sup>12</sup>Und das Manna hörte am nächsten Tag auf, nachdem sie vom Ertrag des Landes gegessen hatten.
+Die Israeliten hatten kein Manna mehr.
+Sie aßen in diesem Jahr von der Frucht des Landes Kanaan.
+
+> **Was bedeutet das?**
+> 40 Jahre lang hat Gott sein Volk jeden Tag mit Manna ernährt. Jetzt hört es auf. Nicht weil Gott aufhört zu sorgen, sondern weil das Volk jetzt im Land ist, das genug gibt.
+> Gott sorgt manchmal durch Wunder und manchmal durch das ganz Normale: durch die Ernte. Beides ist sein Geschenk.
+> Das erste Passa im Land erinnert an den Anfang: an die Nacht der Befreiung in Ägypten. Jetzt ist die Reise zu Ende.
+
+---
+
+### Der Anführer des Heeres des HERRN (Vers 13–15)
+
+<sup>13</sup>Als Josua bei Jericho war, hob er seine Augen und sah hin.
+Und schau: Ein Mann stand vor ihm mit einem gezogenen Schwert in der Hand.
+Josua ging zu ihm und fragte ihn:
+„Gehörst du zu uns oder zu unseren Feinden?“
+<sup>14</sup>Er sagte: „Nein.
+Sondern ich bin jetzt gekommen als Anführer des Heeres des HERRN.“
+Da fiel Josua mit dem Gesicht zur Erde, betete an und fragte ihn:
+„Was sagt mein Herr zu seinem Knecht?“
+<sup>15</sup>Der Anführer des Heeres des HERRN sagte zu Josua:
+„Zieh deine Sandalen von den Füßen,
+denn der Ort, auf dem du stehst, ist heilig.“
+Und Josua tat es.
+
+> **Was bedeutet das?**
+> Josua fragt: Bist du für uns oder gegen uns? Und die Antwort ist: „Nein.“ Der Fremde gehört zu keiner Seite. Er gehört zu Gott. Nicht Gott ist auf Josuas Seite, sondern Josua muss auf Gottes Seite sein.
+> Das ist eine wichtige Lehre für alle Zeiten: Man kann Gott nicht für die eigenen Kriege und Ziele einspannen. Die Frage ist nicht: „Ist Gott auf unserer Seite?“, sondern: „Sind wir auf Gottes Seite?“
+> „Zieh deine Sandalen aus“: Genau dieselben Worte hat Mose am brennenden Dornbusch gehört (2. Mose 3,5). Josua erlebt eine ähnliche Begegnung mit Gott wie Mose.
+> Wer dieser Anführer war, sagt die Bibel nicht. Viele denken an einen Engel. Manche christliche Ausleger sehen in ihm Christus selbst.
+
+## Josua – Kapitel 6
+#### Die Mauern von Jericho
+
+---
+
+### Gottes Plan (Vers 1–5)
+
+<sup>1</sup>Jericho war fest verschlossen wegen der Israeliten.
+Niemand ging hinaus, und niemand kam hinein.
+<sup>2</sup>Der HERR sagte zu Josua:
+„Schau, ich habe Jericho in deine Hand gegeben, mit seinem König und seinen tapferen Kriegern.
+<sup>3</sup>Alle eure Kriegsleute sollen um die Stadt herumziehen, einmal rund um die Stadt.
+Das sollst du sechs Tage lang tun.
+<sup>4</sup>Sieben Priester sollen sieben Widderhörner als Trompeten vor der Lade hertragen.
+Am siebten Tag sollt ihr siebenmal um die Stadt herumziehen,
+und die Priester sollen in die Hörner blasen.
+<sup>5</sup>Und wenn sie lang in das Widderhorn blasen und ihr den Klang des Horns hört,
+dann soll das ganze Volk ein großes Kriegsgeschrei erheben.
+Dann wird die Stadtmauer in sich zusammenfallen.
+Und das Volk soll hinaufsteigen, jeder geradeaus vor sich hin.“
+
+> **Was bedeutet das?**
+> Das ist ein ungewöhnlicher Kriegsplan. Keine Belagerung, keine Waffen, sondern ein Gottesdienst: Priester, die Lade und Hörner. Es soll ganz klar sein: Nicht Israel erobert Jericho, sondern Gott gibt die Stadt.
+> Das Widderhorn heißt auf Hebräisch „Schofar“. Es wird bis heute in Synagogen geblasen, zum Beispiel am Neujahrsfest.
+> Die Zahl sieben kommt immer wieder vor: sieben Priester, sieben Hörner, sieben Tage, siebenmal herum. Sieben ist die Zahl der Vollständigkeit, wie bei den sieben Tagen der Schöpfung.
+
+---
+
+### Sechs Tage lang um die Stadt (Vers 6–14)
+
+<sup>6</sup>Josua, der Sohn von Nun, rief die Priester und sagte zu ihnen:
+„Nehmt die Lade des Bundes,
+und sieben Priester sollen sieben Widderhörner vor der Lade des HERRN hertragen.“
+<sup>7</sup>Und sie sagten zum Volk:
+„Geht los! Zieht um die Stadt herum,
+und die Bewaffneten sollen vor der Lade des HERRN hergehen.“
+<sup>8</sup>Und es geschah so: Als Josua zum Volk gesprochen hatte,
+gingen die sieben Priester, die die sieben Widderhörner vor dem HERRN trugen, los und bliesen in die Hörner.
+Und die Lade des Bundes des HERRN folgte ihnen.
+<sup>9</sup>Die Bewaffneten gingen vor den Priestern her, die in die Hörner bliesen,
+und die Nachhut ging hinter der Lade her.
+Die Hörner erklangen, während sie gingen.
+<sup>10</sup>Josua hatte dem Volk geboten:
+„Ihr sollt kein Kriegsgeschrei erheben und eure Stimme nicht hören lassen.
+Kein Wort soll aus eurem Mund kommen bis zu dem Tag, an dem ich euch sage: Schreit!
+Dann sollt ihr schreien.“
+<sup>11</sup>So ließ er die Lade des HERRN um die Stadt herumziehen, einmal rundherum.
+Dann kamen sie ins Lager und übernachteten im Lager.
+<sup>12</sup>Josua stand früh am Morgen auf, und die Priester nahmen die Lade des HERRN.
+<sup>13</sup>Die sieben Priester, die die sieben Widderhörner vor der Lade des HERRN trugen,
+gingen immer weiter und bliesen in die Hörner.
+Die Bewaffneten gingen vor ihnen her,
+und die Nachhut ging hinter der Lade des HERRN her.
+Die Hörner erklangen, während sie gingen.
+<sup>14</sup>Am zweiten Tag zogen sie einmal um die Stadt herum und kehrten ins Lager zurück.
+So machten sie es sechs Tage lang.
+
+> **Was bedeutet das?**
+> Sechs Tage lang geschieht scheinbar nichts. Das Volk zieht schweigend um die Stadt, nur die Hörner klingen. Die Leute auf der Mauer sehen zu und wundern sich vielleicht. Das braucht viel Geduld und Vertrauen.
+> Das Schweigen ist wichtig: Kein Prahlen, kein Murren. Nur warten auf Gottes Zeit.
+
+---
+
+### Am siebten Tag fallen die Mauern (Vers 15–21)
+
+<sup>15</sup>Am siebten Tag standen sie früh auf, als die Morgenröte anbrach,
+und zogen auf dieselbe Weise siebenmal um die Stadt herum.
+Nur an diesem Tag zogen sie siebenmal um die Stadt herum.
+<sup>16</sup>Beim siebten Mal, als die Priester in die Hörner bliesen, sagte Josua zum Volk:
+„Schreit! Denn der HERR hat euch die Stadt gegeben!
+<sup>17</sup>Die Stadt mit allem, was darin ist, soll für den HERRN dem Bann verfallen sein.
+Nur Rahab, die Prostituierte, soll am Leben bleiben,
+sie und alle, die bei ihr im Haus sind,
+weil sie die Boten versteckt hat, die wir geschickt hatten.
+<sup>18</sup>Aber ihr, hütet euch vor dem, was dem Bann verfallen ist.
+Sonst nehmt ihr etwas von dem, was dem Bann verfallen ist, nachdem ihr den Bann vollstreckt habt.
+Dann würdet ihr das Lager Israels zum Bann machen und es ins Unglück stürzen.
+<sup>19</sup>Aber alles Silber und Gold und alle Geräte aus Bronze und Eisen sind dem HERRN heilig.
+Sie sollen in den Schatz des HERRN kommen.“
+<sup>20</sup>Da erhob das Volk das Kriegsgeschrei, und die Priester bliesen in die Hörner.
+Als das Volk den Klang des Horns hörte, erhob das Volk ein großes Kriegsgeschrei.
+Da fiel die Mauer in sich zusammen.
+Und das Volk stieg in die Stadt hinauf, jeder geradeaus vor sich hin, und sie nahmen die Stadt ein.
+<sup>21</sup>Und sie vollstreckten den Bann an allem, was in der Stadt war,
+an Mann und Frau, an Jung und Alt,
+an Rind, Schaf und Esel, mit der Schärfe des Schwertes.
+
+> **Was bedeutet das?**
+> Die Mauern fallen nicht durch Waffen, sondern durch Gottes Macht. Das ist die bekannteste Geschichte aus dem Buch Josua. Es gibt sogar ein berühmtes Lied darüber („Joshua fit the battle of Jericho“), das Sklaven in Amerika gesungen haben. Für sie war es ein Lied der Hoffnung: Auch die stärksten Mauern der Unterdrückung können fallen.
+> Aber Vers 21 ist furchtbar: Alle Menschen in der Stadt werden getötet, Männer, Frauen, Kinder und Alte. Das ist der „Bann“, von dem wir im 5. Buch Mose gelesen haben (5. Mose 7 und 20).
+> Man darf das nicht schönreden. Nach unserem heutigen Verständnis ist das ein schweres Unrecht. Juden und Christen haben lange darüber nachgedacht. Viele Forscher meinen: Die Sprache solcher Berichte ist typisch für Kriegsberichte der Zeit und übertreibt stark. Andere Texte der Bibel zeigen, dass die Kanaaniter weiter im Land lebten.
+> Archäologen streiten darüber, ob Jericho zur Zeit Josuas überhaupt eine bewohnte, befestigte Stadt war. Manche sagen nein, andere sagen ja. Das ist bis heute nicht sicher geklärt.
+> Klar ist: Diese Geschichte darf niemals benutzt werden, um Gewalt gegen ein Volk oder eine Stadt zu rechtfertigen.
+
+---
+
+### Rahab wird gerettet (Vers 22–25)
+
+<sup>22</sup>Josua sagte zu den beiden Männern, die das Land ausgekundschaftet hatten:
+„Geht in das Haus der Prostituierten
+und holt die Frau und alles, was ihr gehört, von dort heraus, wie ihr es ihr geschworen habt.“
+<sup>23</sup>Da gingen die jungen Männer, die Kundschafter, hinein
+und holten Rahab heraus, ihren Vater, ihre Mutter, ihre Brüder und alles, was ihr gehörte.
+Auch alle ihre Verwandten holten sie heraus.
+Und sie brachten sie an einen Ort außerhalb des Lagers Israels.
+<sup>24</sup>Die Stadt aber und alles, was darin war, verbrannten sie mit Feuer.
+Nur das Silber und das Gold und die Geräte aus Bronze und Eisen
+legten sie in den Schatz des Hauses des HERRN.
+<sup>25</sup>Aber Rahab, die Prostituierte, die Familie ihres Vaters und alles, was ihr gehörte,
+ließ Josua am Leben.
+Und sie wohnt mitten in Israel bis heute,
+weil sie die Boten versteckt hatte, die Josua geschickt hatte, um Jericho auszukundschaften.
+
+> **Was bedeutet das?**
+> Mitten in der Zerstörung gibt es Rettung. Das Versprechen an Rahab wird gehalten.
+> Zuerst wohnen Rahab und ihre Familie „außerhalb des Lagers“. Aber dann heißt es: „Sie wohnt mitten in Israel bis heute.“ Die fremde Frau wird ein Teil des Volkes Gottes.
+> „Haus des HERRN“: Gemeint ist das heilige Zelt, das später durch den Tempel ersetzt wurde.
+
+---
+
+### Ein Fluch über Jericho (Vers 26–27)
+
+<sup>26</sup>Damals ließ Josua das Volk schwören und sagte:
+„Verflucht vor dem HERRN ist der Mann, der aufsteht und diese Stadt Jericho wieder aufbaut.
+Mit dem Verlust seines Erstgeborenen wird er ihre Grundmauern legen,
+und mit dem Verlust seines jüngsten Sohnes wird er ihre Tore einsetzen.“
+<sup>27</sup>So war der HERR mit Josua,
+und sein Ruf verbreitete sich im ganzen Land.
+
+> **Was bedeutet das?**
+> Jericho soll eine Ruine bleiben, als Erinnerung an Gottes Tat.
+> Viele Jahrhunderte später, zur Zeit von König Ahab, baute ein Mann namens Hiël Jericho wieder auf. Die Bibel berichtet, dass dabei zwei seiner Söhne starben, genau wie Josua es gesagt hatte (1. Könige 16,34).
+
+## Josua – Kapitel 7
+#### Achans Diebstahl
+
+---
+
+### Die Niederlage bei Ai (Vers 1–5)
+
+<sup>1</sup>Aber die Israeliten wurden untreu bei dem, was dem Bann verfallen war.
+Denn Achan, der Sohn von Karmi, dem Sohn von Sabdi, dem Sohn von Serach, aus dem Stamm Juda,
+nahm etwas von dem, was dem Bann verfallen war.
+Da entbrannte der Zorn des HERRN gegen die Israeliten.
+<sup>2</sup>Josua schickte Männer von Jericho nach Ai, das bei Bet-Awen liegt, östlich von Bethel,
+und sagte zu ihnen: „Geht hinauf und kundschaftet das Land aus.“
+Die Männer gingen hinauf und kundschafteten Ai aus.
+<sup>3</sup>Sie kehrten zu Josua zurück und sagten zu ihm:
+„Lass nicht das ganze Volk hinaufziehen.
+Etwa zwei- oder dreitausend Mann sollen hinaufziehen und Ai schlagen.
+Mute dem ganzen Volk diese Mühe nicht zu, denn dort sind nur wenige.“
+<sup>4</sup>So zogen etwa dreitausend Mann aus dem Volk dorthin hinauf.
+Aber sie flohen vor den Männern von Ai.
+<sup>5</sup>Die Männer von Ai erschlugen etwa 36 Mann von ihnen.
+Sie verfolgten sie vom Tor bis nach Schebarim und schlugen sie am Abhang.
+Da verzagte das Herz des Volkes und wurde wie Wasser.
+
+> **Was bedeutet das?**
+> Der Leser weiß schon, was Josua noch nicht weiß: Einer hat heimlich etwas genommen, das Gott gehörte.
+> Nach dem großen Sieg bei Jericho ist Israel übermütig. Die Kundschafter sagen: „Ai ist klein, das schaffen wir leicht.“ Niemand fragt Gott.
+> „Ai“ bedeutet auf Hebräisch „Trümmerhaufen“.
+> 36 Männer sterben. Für das Volk ist das ein Schock. Plötzlich ist der Mut weg.
+
+---
+
+### Josua klagt vor Gott (Vers 6–9)
+
+<sup>6</sup>Josua zerriss seine Kleider und fiel vor der Lade des HERRN mit dem Gesicht zur Erde, bis zum Abend,
+er und die Ältesten Israels.
+Und sie streuten Staub auf ihre Köpfe.
+<sup>7</sup>Josua sagte:
+„Ach, Herr, du HERR, warum hast du dieses Volk überhaupt über den Jordan geführt?
+Um uns in die Hand der Amoriter zu geben, damit sie uns vernichten?
+Wären wir doch zufrieden gewesen und jenseits des Jordan geblieben!
+<sup>8</sup>Ach, Herr, was soll ich sagen, nachdem Israel vor seinen Feinden geflohen ist?
+<sup>9</sup>Die Kanaaniter und alle Bewohner des Landes werden davon hören.
+Sie werden uns umzingeln und unseren Namen von der Erde auslöschen.
+Und was wirst du dann für deinen großen Namen tun?“
+
+> **Was bedeutet das?**
+> Kleider zerreißen und Staub auf den Kopf streuen waren Zeichen tiefer Trauer.
+> Josua klagt Gott ehrlich sein Herz aus. Er klingt fast wie das Volk in der Wüste: „Wären wir doch nur drüben geblieben!“ Auch große Glaubende haben Momente der Verzweiflung. Die Bibel verschweigt das nicht.
+
+---
+
+### Gott nennt den Grund (Vers 10–15)
+
+<sup>10</sup>Der HERR sagte zu Josua:
+„Steh auf! Warum liegst du da auf deinem Gesicht?
+<sup>11</sup>Israel hat gesündigt.
+Ja, sie haben meinen Bund übertreten, den ich ihnen geboten habe.
+Ja, sie haben sogar etwas von dem genommen, was dem Bann verfallen ist,
+und sie haben auch gestohlen und auch gelogen.
+Und sie haben es sogar zu ihren eigenen Sachen gelegt.
+<sup>12</sup>Darum können die Israeliten nicht vor ihren Feinden bestehen.
+Sie fliehen vor ihren Feinden, weil sie selbst dem Bann verfallen sind.
+Ich werde nicht mehr mit euch sein,
+wenn ihr nicht das, was dem Bann verfallen ist, aus eurer Mitte entfernt.
+<sup>13</sup>Steh auf! Heilige das Volk und sag:
+‚Heiligt euch für morgen.
+Denn so spricht der HERR, der Gott Israels:
+„Etwas, das dem Bann verfallen ist, ist in deiner Mitte, Israel.
+Du kannst nicht vor deinen Feinden bestehen,
+bis ihr das, was dem Bann verfallen ist, aus eurer Mitte entfernt habt.“
+<sup>14</sup>Darum sollt ihr am Morgen nach euren Stämmen herantreten.
+Der Stamm, den der HERR bestimmt, soll nach Sippen herantreten.
+Die Sippe, die der HERR bestimmt, soll nach Familien herantreten.
+Und die Familie, die der HERR bestimmt, soll Mann für Mann herantreten.
+<sup>15</sup>Und wer mit dem gefunden wird, was dem Bann verfallen ist,
+der soll mit Feuer verbrannt werden, er und alles, was ihm gehört,
+weil er den Bund des HERRN übertreten hat
+und weil er eine Schandtat in Israel begangen hat.‘“
+
+> **Was bedeutet das?**
+> Gott sagt: Hör auf zu jammern, steh auf und handle! Es gibt einen Grund für die Niederlage.
+> Erstaunlich ist: Gott sagt „Israel hat gesündigt“, obwohl nur einer etwas genommen hat. Das Volk ist eine Gemeinschaft. Was einer tut, betrifft alle. Ein verborgenes Unrecht schadet der ganzen Gemeinschaft.
+> Wie Gott den Schuldigen „bestimmt“, wird nicht genau gesagt. Wahrscheinlich durch das Los, mit den Urim und Tummim des Priesters.
+
+---
+
+### Achan wird gefunden (Vers 16–21)
+
+<sup>16</sup>Josua stand früh am Morgen auf und ließ Israel nach seinen Stämmen herantreten.
+Der Stamm Juda wurde bestimmt.
+<sup>17</sup>Er ließ die Sippen von Juda herantreten, und die Sippe der Serachiter wurde bestimmt.
+Er ließ die Sippe der Serachiter Mann für Mann herantreten, und Sabdi wurde bestimmt.
+<sup>18</sup>Er ließ seine Familie Mann für Mann herantreten,
+und Achan wurde bestimmt, der Sohn von Karmi, dem Sohn von Sabdi, dem Sohn von Serach, aus dem Stamm Juda.
+<sup>19</sup>Josua sagte zu Achan:
+„Mein Sohn, gib doch dem HERRN, dem Gott Israels, die Ehre und leg vor ihm ein Bekenntnis ab.
+Sag mir doch, was du getan hast. Verheimliche es nicht vor mir!“
+<sup>20</sup>Achan antwortete Josua und sagte:
+„Ja, ich habe gegen den HERRN, den Gott Israels, gesündigt.
+Das habe ich getan:
+<sup>21</sup>Ich sah unter der Beute einen schönen Mantel aus Babylon,
+200 Schekel Silber und einen Barren Gold, der 50 Schekel wog.
+Da habe ich sie begehrt und genommen.
+Schau, sie sind in der Erde versteckt, mitten in meinem Zelt, und das Silber liegt darunter.“
+
+> **Was bedeutet das?**
+> In der Bibel stehen 200 Schekel Silber, das sind etwa 2,3 Kilogramm, und 50 Schekel Gold, das sind etwa 550 Gramm.
+> Schritt für Schritt kommt die Wahrheit ans Licht: vom Stamm über die Sippe bis zum einzelnen Mann. Achan hätte die ganze Zeit vortreten können. Er tat es nicht.
+> Josua spricht ihn freundlich an: „Mein Sohn.“ Er bittet ihn, die Wahrheit zu sagen.
+> Achans Bekenntnis zeigt, wie Sünde oft geschieht: „Ich sah, ich begehrte, ich nahm, ich versteckte.“ So war es auch bei Eva im Garten Eden (1. Mose 3,6). Das zehnte Gebot „Du sollst nicht begehren“ steht am Anfang vieler Sünden.
+
+---
+
+### Achans Strafe (Vers 22–26)
+
+<sup>22</sup>Da schickte Josua Boten hin, und sie liefen zum Zelt.
+Und schaut: Es war in seinem Zelt versteckt, und das Silber lag darunter.
+<sup>23</sup>Sie nahmen es mitten aus dem Zelt heraus,
+brachten es zu Josua und zu allen Israeliten
+und legten es vor dem HERRN nieder.
+<sup>24</sup>Da nahmen Josua und ganz Israel mit ihm Achan, den Sohn von Serach,
+das Silber, den Mantel und den Goldbarren,
+seine Söhne und seine Töchter, seine Rinder, seine Esel und seine Schafe,
+sein Zelt und alles, was ihm gehörte,
+und brachten sie hinauf in das Tal Achor.
+<sup>25</sup>Josua sagte:
+„Warum hast du uns ins Unglück gestürzt?
+Der HERR wird dich heute ins Unglück stürzen.“
+Und ganz Israel steinigte ihn mit Steinen.
+Und sie verbrannten sie mit Feuer und steinigten sie mit Steinen.
+<sup>26</sup>Sie errichteten über ihm einen großen Steinhaufen, der bis heute da ist.
+Und der HERR ließ ab von seinem glühenden Zorn.
+Darum heißt dieser Ort bis heute „Tal Achor“.
+
+> **Was bedeutet das?**
+> „Achor“ bedeutet „Unglück“. Der Name klingt fast wie „Achan“. Er hat Unglück über Israel gebracht, und darum endet sein Leben im „Tal des Unglücks“.
+> Diese Strafe ist erschreckend hart. Und besonders schwer ist: Nach Vers 24 werden auch seine Söhne und Töchter mitgenommen. Ob sie mitbestraft wurden, sagt der Text nicht ganz eindeutig. Wenn ja, dann steht das im Widerspruch zu dem Gebot in 5. Mose 24,16: Kinder sollen nicht für die Schuld der Eltern bestraft werden. Manche Ausleger meinen, die Familie habe von dem Diebstahl gewusst und ihn mitverheimlicht, weil das Versteck mitten im gemeinsamen Zelt war.
+> Wir müssen ehrlich sagen: Diese Geschichte ist schwer zu ertragen. Sie zeigt, wie ernst damals der Bann genommen wurde. Aber sie ist kein Vorbild für den Umgang mit Schuld. Niemand darf sich darauf berufen, um Menschen hart zu bestrafen oder ihre Familien leiden zu lassen.
+> Später verspricht der Prophet Hosea etwas Wunderbares: Gott will das „Tal Achor“, das Tal des Unglücks, zu einer „Tür der Hoffnung“ machen (Hosea 2,17; in manchen Bibeln 2,15). Selbst aus dem Ort der Schande kann Gott einen Neuanfang machen.
