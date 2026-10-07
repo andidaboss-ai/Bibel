@@ -34671,7 +34671,7 @@ Da sagte Samuel zu den Männern Israels:
 > Gott sagt zum dritten Mal: „Hör auf ihre Stimme.“ Israel bekommt seinen König. Wie das geschieht, erzählt das nächste Kapitel.
 
 ## 1. Samuel – Kapitel 9
-#### Saul sucht Eselinnen und findet ein Königreich
+#### Saul sucht Esel und findet ein Königreich
 
 ---
 
@@ -34837,3 +34837,430 @@ Dann will ich dich das Wort Gottes hören lassen.“
 > Vers 24 ist im Hebräischen schwer zu verstehen. Die Ausleger übersetzen den letzten Teil auf verschiedene Weise.
 > Das Dach war bei den flachen Häusern damals ein Platz zum Reden und zum Schlafen. Die alte griechische Übersetzung sagt in Vers 25: Man machte Saul auf dem Dach ein Bett, und er legte sich schlafen.
 > Am Ende schickt Samuel den Knecht weg. Was jetzt kommt, soll geheim bleiben: Saul wird zum König gesalbt. Das erzählt das nächste Kapitel.
+
+## 1. Samuel – Kapitel 10
+#### Saul wird gesalbt und zum König gewählt
+
+---
+
+### Samuel salbt Saul (Vers 1–8)
+
+<sup>1</sup>Da nahm Samuel das Fläschchen mit Öl
+und goss es auf seinen Kopf.
+Dann küsste er ihn und sagte:
+„Hat dich nicht der HERR zum Fürsten über sein Erbe gesalbt?
+<sup>2</sup>Wenn du heute von mir weggehst,
+wirst du zwei Männer beim Grab von Rahel treffen,
+an der Grenze von Benjamin, in Zelzach.
+Sie werden zu dir sagen:
+‚Die Esel, die du suchen gegangen bist, sind gefunden worden.
+Und schau, dein Vater macht sich keine Sorgen mehr um die Esel,
+sondern um euch.
+Er sagt: „Was soll ich nur wegen meines Sohnes tun?“‘
+
+<sup>3</sup>Dann wirst du von dort weitergehen
+und zur Eiche von Tabor kommen.
+Dort werden dich drei Männer treffen,
+die zu Gott nach Bethel hinaufgehen.
+Einer trägt drei junge Ziegenböcke,
+einer trägt drei Brote,
+und einer trägt ein Gefäß mit Wein.
+<sup>4</sup>Sie werden dich grüßen
+und dir zwei Brote geben.
+Die sollst du aus ihrer Hand annehmen.
+
+<sup>5</sup>Danach wirst du zum Hügel Gottes kommen,
+wo der Posten der Philister ist.
+Und es wird geschehen:
+Wenn du dort in die Stadt kommst,
+wirst du einer Gruppe von Propheten begegnen,
+die von der Opferhöhe herabkommen.
+Vor ihnen her gehen Laute, Tamburin, Flöte und Harfe,
+und sie reden prophetisch.
+<sup>6</sup>Dann wird der Geist des HERRN mit Macht über dich kommen.
+Dann wirst du mit ihnen prophetisch reden
+und wirst in einen anderen Menschen verwandelt werden.
+<sup>7</sup>Wenn diese Zeichen bei dir eintreffen,
+dann tu, was die Gelegenheit verlangt.
+Denn Gott ist mit dir.
+<sup>8</sup>Geh vor mir hinab nach Gilgal.
+Und schau, ich werde zu dir hinabkommen,
+um Brandopfer darzubringen und Friedensopfer zu schlachten.
+Sieben Tage sollst du warten, bis ich zu dir komme
+und dir zeige, was du tun sollst.“
+
+> **Was bedeutet das?**
+> „Salben“ heißt: Öl auf den Kopf gießen. Das war ein Zeichen dafür, dass Gott einen Menschen für eine besondere Aufgabe auswählt. Gesalbt wurden Priester, später Könige und manchmal Propheten. Das hebräische Wort für „Gesalbter“ ist „Maschiach“, Messias.
+> Die Salbung geschieht heimlich. Nur Samuel und Saul wissen davon.
+> „Sein Erbe“ meint das Volk Israel. Es gehört Gott. Saul soll es für Gott führen, nicht für sich selbst.
+> Samuel gibt Saul drei Zeichen. Wenn sie eintreffen, weiß Saul: Das alles kommt wirklich von Gott.
+> Die alte griechische Übersetzung hat in Vers 1 einen längeren Text: Samuel sagt Saul ausdrücklich, dass er das Volk aus der Hand seiner Feinde retten soll, und dass die Zeichen das bestätigen.
+> „Der Hügel Gottes“ war wohl Gibea, Sauls Heimatstadt. Dort hatten die Philister einen Militärposten. Das zeigt, wie sehr die Philister das Land beherrschten.
+> Die Propheten machen Musik und reden in Begeisterung von Gott. Das war eine besondere Art der Anbetung, bei der Menschen ganz vom Geist Gottes ergriffen wurden.
+> Vers 8 ist wichtig für später: Saul soll in Gilgal sieben Tage auf Samuel warten. In Kapitel 13 wird das zur großen Prüfung für Saul.
+
+---
+
+### Die Zeichen treffen ein (Vers 9–13)
+
+<sup>9</sup>Und es geschah:
+Als er sich umwandte, um von Samuel wegzugehen,
+gab Gott ihm ein anderes Herz.
+Und alle diese Zeichen trafen an diesem Tag ein.
+<sup>10</sup>Als sie dort zum Hügel kamen,
+schau, da kam ihm eine Gruppe von Propheten entgegen.
+Der Geist Gottes kam mit Macht über ihn,
+und er redete prophetisch mitten unter ihnen.
+<sup>11</sup>Alle, die ihn von früher kannten, sahen,
+dass er mit den Propheten prophetisch redete.
+Da sagten die Leute zueinander:
+„Was ist mit dem Sohn von Kisch passiert?
+Ist auch Saul unter den Propheten?“
+<sup>12</sup>Einer von dort antwortete:
+„Und wer ist ihr Vater?“
+Darum wurde es zu einem Sprichwort:
+„Ist auch Saul unter den Propheten?“
+<sup>13</sup>Als er aufgehört hatte, prophetisch zu reden,
+kam er zur Opferhöhe.
+
+> **Was bedeutet das?**
+> „Gott gab ihm ein anderes Herz“: Saul wird innerlich verändert. Gott rüstet ihn für seine Aufgabe aus.
+> Die Leute wundern sich: Saul, der Sohn eines reichen Bauern, redet plötzlich wie ein Prophet? Das passt nicht zu ihm.
+> „Wer ist ihr Vater?“ ist eine schwierige Frage. Vielleicht bedeutet sie: Prophet wird man nicht durch seine Familie. Der Geist kommt von Gott, nicht vom Vater. Darum kann auch Saul ein Prophet sein.
+> „Ist auch Saul unter den Propheten?“ wurde ein Sprichwort. Man sagte es, wenn jemand etwas ganz Unerwartetes tat. In Kapitel 19,24 wird erzählt, wie das Sprichwort noch einmal benutzt wird.
+
+---
+
+### Saul schweigt über das Königtum (Vers 14–16)
+
+<sup>14</sup>Sauls Onkel sagte zu ihm und zu seinem Knecht:
+„Wohin seid ihr gegangen?“
+Er sagte:
+„Die Esel suchen.
+Als wir sahen, dass sie nicht zu finden waren, gingen wir zu Samuel.“
+<sup>15</sup>Sauls Onkel sagte:
+„Bitte erzähl mir, was Samuel zu euch gesagt hat.“
+<sup>16</sup>Saul sagte zu seinem Onkel:
+„Er hat uns deutlich gesagt, dass die Esel gefunden worden sind.“
+Aber von der Sache mit dem Königtum, von der Samuel gesprochen hatte,
+erzählte er ihm nichts.
+
+> **Was bedeutet das?**
+> Saul behält das große Geheimnis für sich. Ist das Bescheidenheit? Oder Angst? Oder Klugheit, weil die Philister noch im Land sind? Der Text sagt es nicht.
+
+---
+
+### Saul wird durch das Los gewählt (Vers 17–24)
+
+<sup>17</sup>Samuel rief das Volk zum HERRN nach Mizpa zusammen.
+<sup>18</sup>Er sagte zu den Israeliten:
+„So spricht der HERR, der Gott Israels:
+‚Ich habe Israel aus Ägypten heraufgeführt.
+Ich habe euch aus der Hand der Ägypter gerettet
+und aus der Hand aller Königreiche, die euch unterdrückt haben.‘
+<sup>19</sup>Aber ihr habt heute euren Gott verworfen,
+der euch selbst aus all eurem Unglück und euren Nöten rettet.
+Und ihr habt zu ihm gesagt:
+‚Nein! Setze einen König über uns!‘
+Darum stellt euch jetzt vor dem HERRN auf,
+nach euren Stämmen und nach euren Tausendschaften.“
+<sup>20</sup>So ließ Samuel alle Stämme Israels herantreten,
+und der Stamm Benjamin wurde ausgewählt.
+<sup>21</sup>Er ließ den Stamm Benjamin nach seinen Sippen herantreten,
+und die Sippe der Matriter wurde ausgewählt.
+Dann wurde Saul, der Sohn von Kisch, ausgewählt.
+Aber als sie ihn suchten, war er nicht zu finden.
+<sup>22</sup>Darum befragten sie den HERRN noch einmal:
+„Ist noch ein Mann hierhergekommen?“
+Der HERR antwortete:
+„Schaut, er hat sich beim Gepäck versteckt.“
+<sup>23</sup>Sie liefen hin und holten ihn von dort.
+Als er sich mitten unter das Volk stellte,
+war er von den Schultern an aufwärts größer als das ganze Volk.
+<sup>24</sup>Samuel sagte zum ganzen Volk:
+„Seht ihr, wen der HERR erwählt hat?
+Keiner im ganzen Volk ist wie er.“
+Da jubelte das ganze Volk und rief:
+„Es lebe der König!“
+
+> **Was bedeutet das?**
+> Samuel erinnert das Volk noch einmal: Gott hat euch immer gerettet. Und trotzdem wollt ihr einen König. Er sagt es deutlich, bevor er ihnen ihren Wunsch erfüllt.
+> Jetzt wird öffentlich gezeigt, was Samuel schon heimlich getan hatte. Durch das Los fällt die Wahl auf Saul. So sieht das ganze Volk: Gott selbst hat ihn ausgewählt, nicht Samuel.
+> Mit „ausgewählt“ ist gemeint: Das Los fiel auf ihn. So wurde auch damals bei Achan der Schuldige gefunden (Josua 7).
+> Aber dann die Überraschung: Der neue König hat sich beim Gepäck versteckt! Vielleicht aus Bescheidenheit, vielleicht aus Angst. Saul hat schon die Salbung erlebt und die Zeichen gesehen. Trotzdem versteckt er sich. Das zeigt eine Unsicherheit, die ihn sein Leben lang begleiten wird.
+> „Es lebe der König!“ Das Volk jubelt. Es sieht einen großen, schönen Mann. Genau so einen König wollten sie haben.
+
+---
+
+### Das Recht des Königtums (Vers 25–27)
+
+<sup>25</sup>Dann erklärte Samuel dem Volk das Recht des Königtums.
+Er schrieb es in ein Buch und legte es vor dem HERRN nieder.
+Dann schickte Samuel das ganze Volk weg, jeden in sein Haus.
+<sup>26</sup>Auch Saul ging in sein Haus nach Gibea.
+Mit ihm ging die Schar der Männer, deren Herzen Gott berührt hatte.
+<sup>27</sup>Aber einige nichtsnutzige Kerle sagten:
+„Wie soll der uns retten?“
+Sie verachteten ihn und brachten ihm keine Gabe.
+Aber er schwieg dazu.
+
+> **Was bedeutet das?**
+> Samuel schreibt die Regeln für den König auf. So soll klar sein: Auch der König steht unter Gottes Gesetz. Er kann nicht machen, was er will. Das ist eine sehr frühe Form von dem, was man heute eine Verfassung nennt.
+> Nicht alle sind begeistert. Einige verachten Saul. Saul reagiert klug: Er schweigt und lässt sich nicht provozieren.
+> In einer alten Handschrift vom Toten Meer steht nach Vers 27 noch ein zusätzlicher Abschnitt: Nahasch, der König der Ammoniter, hatte schon vorher die Stämme Gad und Ruben schwer unterdrückt und vielen Männern das rechte Auge ausgestochen. Der jüdische Geschichtsschreiber Josephus kennt diese Geschichte auch. Die englische Vorlage hat diesen Abschnitt nicht.
+
+## 1. Samuel – Kapitel 11
+#### Saul rettet die Stadt Jabesch
+
+---
+
+### Die Drohung des Ammoniters (Vers 1–5)
+
+<sup>1</sup>Da zog Nahasch, der Ammoniter, herauf
+und belagerte Jabesch in Gilead.
+Alle Männer von Jabesch sagten zu Nahasch:
+„Schließ einen Vertrag mit uns, dann wollen wir dir dienen.“
+<sup>2</sup>Nahasch, der Ammoniter, sagte zu ihnen:
+„Unter dieser Bedingung will ich einen Vertrag mit euch schließen:
+dass euch allen das rechte Auge ausgestochen wird.
+So will ich ganz Israel Schande machen.“
+<sup>3</sup>Die Ältesten von Jabesch sagten zu ihm:
+„Gib uns sieben Tage Zeit.
+Dann wollen wir Boten in das ganze Gebiet Israels schicken.
+Wenn dann niemand da ist, der uns rettet,
+wollen wir zu dir herauskommen.“
+<sup>4</sup>Da kamen die Boten nach Gibea, der Stadt Sauls,
+und sagten diese Worte vor den Ohren des Volkes.
+Da erhob das ganze Volk seine Stimme und weinte.
+<sup>5</sup>Und schau: Saul kam gerade hinter den Rindern vom Feld.
+Saul sagte:
+„Was ist mit dem Volk los, dass sie weinen?“
+Sie erzählten ihm die Worte der Männer von Jabesch.
+
+> **Was bedeutet das?**
+> Die Ammoniter wohnten östlich des Jordan. Jabesch in Gilead war eine israelitische Stadt dort, an der Grenze.
+> Nahasch will die Männer von Jabesch nicht nur besiegen, sondern grausam demütigen. Ein Mann ohne rechtes Auge konnte im Kampf mit dem Schild vor dem linken Auge nichts mehr sehen. Er war als Soldat nutzlos. Und die Verstümmelung sollte eine Schande für ganz Israel sein.
+> Nahasch ist sich so sicher, dass er ihnen sogar sieben Tage gibt, um Hilfe zu suchen. Er glaubt nicht, dass Israel ihnen hilft.
+> Warum schicken die Männer von Jabesch Boten gerade nach Gibea? Vielleicht wegen einer alten Verbindung: Am Ende des Buches der Richter bekamen die Männer von Benjamin Frauen aus Jabesch (Richter 21,12–14). Viele in Gibea hatten vielleicht Vorfahren aus Jabesch.
+> Saul ist zwar gewählter König, aber er arbeitet noch als Bauer auf dem Feld. Es gibt noch keinen Palast und keine Armee.
+
+---
+
+### Saul ruft Israel zusammen (Vers 6–11)
+
+<sup>6</sup>Der Geist Gottes kam mit Macht über Saul, als er diese Worte hörte,
+und sein Zorn entbrannte sehr.
+<sup>7</sup>Er nahm ein Gespann Rinder,
+zerstückelte sie
+und schickte die Stücke durch Boten in das ganze Gebiet Israels mit der Botschaft:
+„Wer nicht hinter Saul und hinter Samuel her auszieht,
+mit dessen Rindern soll es so gemacht werden.“
+Da fiel der Schrecken des HERRN auf das Volk,
+und sie zogen aus wie ein einziger Mann.
+<sup>8</sup>Er zählte sie in Besek.
+Die Israeliten waren 300 000 Mann,
+und die Männer von Juda 30 000.
+<sup>9</sup>Sie sagten zu den Boten, die gekommen waren:
+„Sagt den Männern von Jabesch in Gilead:
+‚Morgen, wenn die Sonne heiß wird, sollt ihr gerettet werden.‘“
+Die Boten kamen und erzählten es den Männern von Jabesch,
+und sie freuten sich.
+<sup>10</sup>Darum sagten die Männer von Jabesch zu den Ammonitern:
+„Morgen wollen wir zu euch herauskommen.
+Dann könnt ihr mit uns alles machen, was euch gut erscheint.“
+<sup>11</sup>Am nächsten Tag teilte Saul das Volk in drei Gruppen.
+Sie drangen in der Morgenwache mitten in das Lager ein
+und schlugen die Ammoniter, bis der Tag heiß wurde.
+Die übrig blieben, wurden zerstreut,
+sodass nicht einmal zwei von ihnen beieinander blieben.
+
+> **Was bedeutet das?**
+> Wieder kommt der Geist Gottes über Saul, wie bei den Richtern Otniel, Gideon, Jiftach und Simson. Jetzt zeigt Saul, dass er ein Retter sein kann.
+> Sein Zorn ist ein gerechter Zorn: Er kann nicht zusehen, wie Menschen gequält werden.
+> Saul zerstückelt Rinder und schickt die Stücke durch Israel. Das erinnert stark an Richter 19,29. Damals hatte ein Mann aus Gibea den Körper einer Frau zerteilt. Jetzt nimmt ein Mann aus Gibea Rinder. Er droht nicht den Menschen, sondern ihren Rindern.
+> Saul nennt auch Samuel. Er handelt nicht allein, sondern zusammen mit dem Propheten.
+> Die Zahlen sind sehr groß. Manche Ausleger meinen, das hebräische Wort für „Tausend“ bedeutet hier eher „Einheit“ oder „Truppe“. Die alte griechische Übersetzung hat 600 000 und 70 000.
+> Die „Morgenwache“ war die letzte Nachtwache, kurz vor Sonnenaufgang. Ein Angriff zu dieser Zeit war eine Überraschung.
+> Die Männer von Jabesch haben das Versprechen „Morgen kommen wir heraus“ mit Absicht doppeldeutig formuliert. Sie kamen heraus, aber nicht, um sich zu ergeben.
+
+---
+
+### Keine Rache am Tag der Rettung (Vers 12–15)
+
+<sup>12</sup>Das Volk sagte zu Samuel:
+„Wer hat gesagt: ‚Soll Saul etwa über uns herrschen?‘
+Bringt diese Männer her, damit wir sie töten!“
+<sup>13</sup>Saul sagte:
+„Heute soll niemand getötet werden.
+Denn heute hat der HERR Israel gerettet.“
+<sup>14</sup>Da sagte Samuel zum Volk:
+„Kommt, lasst uns nach Gilgal gehen
+und dort das Königtum erneuern.“
+<sup>15</sup>Da ging das ganze Volk nach Gilgal.
+Und dort machten sie Saul zum König vor dem HERRN in Gilgal.
+Dort brachten sie Friedensopfer vor dem HERRN dar.
+Und dort freuten sich Saul und alle Männer Israels sehr.
+
+> **Was bedeutet das?**
+> Nach dem Sieg wollen manche Rache an denen, die Saul verachtet hatten (Kapitel 10,27). Aber Saul sagt: Nein. Heute ist ein Tag der Freude, denn Gott hat uns gerettet. Das ist ein großer Moment für Saul. Er ist gnädig und gibt Gott die Ehre, nicht sich selbst.
+> Diese Szene zeigt: Saul hatte gute Anlagen. Am Anfang war er bescheiden, mutig und großzügig. Umso trauriger ist, wie er sich später verändert.
+> Gilgal war ein wichtiger Ort. Dort hatte Israel nach dem Durchzug durch den Jordan sein erstes Lager im Land (Josua 4,19).
+> Die Männer von Jabesch haben Saul diese Rettung nie vergessen. Viele Jahre später, als Saul tot war, holten sie unter Lebensgefahr seinen Leichnam von den Philistern zurück und begruben ihn ehrenvoll (Kapitel 31,11–13).
+
+## 1. Samuel – Kapitel 12
+#### Samuels Abschiedsrede
+
+---
+
+### „Wem habe ich Unrecht getan?“ (Vers 1–5)
+
+<sup>1</sup>Samuel sagte zu ganz Israel:
+„Schaut, ich habe auf eure Stimme gehört in allem, was ihr mir gesagt habt,
+und habe einen König über euch eingesetzt.
+<sup>2</sup>Und jetzt, schaut, der König geht vor euch her.
+Ich bin alt und grau geworden.
+Und schaut, meine Söhne sind bei euch.
+Ich bin vor euch hergegangen von meiner Jugend an bis zum heutigen Tag.
+<sup>3</sup>Hier bin ich.
+Sagt gegen mich aus vor dem HERRN und vor seinem Gesalbten:
+Wessen Rind habe ich genommen?
+Wessen Esel habe ich genommen?
+Wen habe ich betrogen?
+Wen habe ich unterdrückt?
+Aus wessen Hand habe ich Bestechungsgeld genommen,
+damit ich meine Augen verschließe?
+Ich will es euch zurückgeben.“
+<sup>4</sup>Sie sagten:
+„Du hast uns nicht betrogen und uns nicht unterdrückt.
+Du hast von niemandem etwas aus seiner Hand genommen.“
+<sup>5</sup>Er sagte zu ihnen:
+„Der HERR ist heute Zeuge gegen euch,
+und sein Gesalbter ist Zeuge,
+dass ihr nichts in meiner Hand gefunden habt.“
+Sie sagten: „Er ist Zeuge.“
+
+> **Was bedeutet das?**
+> Samuel gibt sein Amt ab. Aber vorher will er öffentlich klären: Habe ich in meinem Leben jemandem Unrecht getan?
+> Seine Fragen erinnern an Samuels Warnung in Kapitel 8: Der König wird „nehmen“. Samuel aber hat nie etwas genommen. Er war ein ehrlicher Anführer. Das Volk bestätigt es vor allen.
+> Das ist ein Vorbild für alle, die Verantwortung haben: Am Ende sollte man sagen können: Ich habe mich nicht bereichert, ich habe niemanden betrogen.
+> „Sein Gesalbter“ ist hier König Saul.
+
+---
+
+### Gott hat immer gerettet (Vers 6–13)
+
+<sup>6</sup>Samuel sagte zum Volk:
+„Der HERR ist es, der Mose und Aaron eingesetzt hat
+und der eure Väter aus dem Land Ägypten heraufgeführt hat.
+<sup>7</sup>Darum stellt euch jetzt hin,
+damit ich vor dem HERRN mit euch rechte
+über alle gerechten Taten des HERRN,
+die er an euch und an euren Vätern getan hat.
+<sup>8</sup>Als Jakob nach Ägypten gekommen war
+und eure Väter zum HERRN schrien,
+da sandte der HERR Mose und Aaron.
+Sie führten eure Väter aus Ägypten heraus
+und ließen sie an diesem Ort wohnen.
+<sup>9</sup>Aber sie vergaßen den HERRN, ihren Gott.
+Da verkaufte er sie in die Hand von Sisera, dem Heerführer von Hazor,
+und in die Hand der Philister
+und in die Hand des Königs von Moab.
+Und die kämpften gegen sie.
+<sup>10</sup>Sie schrien zum HERRN und sagten:
+‚Wir haben gesündigt,
+denn wir haben den HERRN verlassen
+und den Baalen und den Astarten gedient.
+Aber jetzt rette uns aus der Hand unserer Feinde,
+dann wollen wir dir dienen.‘
+<sup>11</sup>Da sandte der HERR Jerubbaal, Bedan, Jiftach und Samuel
+und rettete euch aus der Hand eurer Feinde ringsum.
+Und ihr habt in Sicherheit gewohnt.
+<sup>12</sup>Als ihr saht, dass Nahasch, der König der Ammoniter, gegen euch kam,
+da sagtet ihr zu mir:
+‚Nein, sondern ein König soll über uns herrschen‘,
+obwohl doch der HERR, euer Gott, euer König war.
+<sup>13</sup>Jetzt also seht, da ist der König, den ihr gewählt habt,
+um den ihr gebeten habt.
+Schaut, der HERR hat einen König über euch eingesetzt.
+
+> **Was bedeutet das?**
+> Samuel erzählt die ganze Geschichte Israels noch einmal kurz: Ägypten, die Richterzeit, immer dasselbe Muster. Das Volk vergisst Gott, kommt in Not, schreit zu Gott, und Gott rettet.
+> Die Botschaft ist: Ihr hattet nie einen menschlichen König gebraucht. Gott war euer König, und er hat euch immer gerettet.
+> Jerubbaal ist ein anderer Name für Gideon (Richter 6,32).
+> „Bedan“ kommt sonst nirgends als Richter vor. Die alte griechische Übersetzung und andere alte Übersetzungen haben hier „Barak“. Das passt gut, denn Barak kämpfte zusammen mit Debora gegen Sisera (Richter 4), und Sisera wird in Vers 9 genannt.
+> Dass Samuel sich selbst nennt, ist ungewöhnlich. Manche alten Übersetzungen haben hier „Simson“.
+> Vers 12 zeigt: Der Angriff von Nahasch war einer der Gründe, warum das Volk einen König wollte.
+
+---
+
+### Wenn ihr Gott gehorcht (Vers 14–15)
+
+<sup>14</sup>Wenn ihr den HERRN fürchtet, ihm dient
+und auf seine Stimme hört
+und euch nicht gegen das Gebot des HERRN auflehnt,
+dann folgt ihr und auch der König, der über euch herrscht,
+dem HERRN, eurem Gott, nach.
+<sup>15</sup>Aber wenn ihr nicht auf die Stimme des HERRN hört,
+sondern euch gegen das Gebot des HERRN auflehnt,
+dann wird die Hand des HERRN gegen euch sein,
+so wie sie gegen eure Väter war.
+
+> **Was bedeutet das?**
+> Jetzt kommt die gute Nachricht: Auch mit einem König kann alles gut werden. Die Bedingung ist dieselbe wie immer: Hört auf Gott. Und zwar das Volk und der König zusammen.
+> Der König steht nicht über Gott. Er ist genauso an Gottes Gebote gebunden wie jeder andere Mensch.
+
+---
+
+### Donner zur Weizenernte (Vers 16–19)
+
+<sup>16</sup>Darum stellt euch jetzt hin und seht diese große Sache,
+die der HERR vor euren Augen tun wird.
+<sup>17</sup>Ist heute nicht Weizenernte?
+Ich will zum HERRN rufen,
+damit er Donner und Regen schickt.
+Dann werdet ihr erkennen und sehen,
+dass eure Bosheit groß ist,
+die ihr in den Augen des HERRN getan habt,
+als ihr einen König verlangt habt.“
+<sup>18</sup>Da rief Samuel zum HERRN.
+Und der HERR schickte an diesem Tag Donner und Regen.
+Da fürchtete das ganze Volk den HERRN und Samuel sehr.
+<sup>19</sup>Das ganze Volk sagte zu Samuel:
+„Bete für deine Knechte zum HERRN, deinem Gott, damit wir nicht sterben.
+Denn wir haben zu all unseren Sünden noch dieses Böse hinzugefügt,
+dass wir einen König verlangt haben.“
+
+> **Was bedeutet das?**
+> Die Weizenernte war im Mai und Juni. In Israel regnet es zu dieser Zeit fast nie. Ein Gewitter mitten in der Ernte war ungewöhnlich und konnte die Ernte verderben. Darum erkennt das Volk: Das ist ein Zeichen von Gott.
+> Das Volk bekommt Angst und bekennt endlich: Es war falsch, einen König zu verlangen. Sie sagen zu Samuel: „Bete zu deinem Gott“. Es klingt fast so, als wäre der HERR nicht mehr ihr eigener Gott.
+
+---
+
+### Fürchtet euch nicht (Vers 20–25)
+
+<sup>20</sup>Samuel sagte zum Volk:
+„Fürchtet euch nicht.
+Ihr habt zwar all dieses Böse getan.
+Aber wendet euch nicht vom HERRN ab,
+sondern dient dem HERRN mit eurem ganzen Herzen.
+<sup>21</sup>Wendet euch nicht ab, um nichtigen Dingen nachzulaufen,
+die nichts nützen und nicht retten können,
+denn sie sind nichtig.
+<sup>22</sup>Denn der HERR wird sein Volk nicht verstoßen,
+um seines großen Namens willen.
+Denn es hat dem HERRN gefallen, euch zu seinem Volk zu machen.
+<sup>23</sup>Auch ich – fern sei es von mir, dass ich gegen den HERRN sündige
+und aufhöre, für euch zu beten.
+Sondern ich will euch den guten und rechten Weg lehren.
+<sup>24</sup>Nur fürchtet den HERRN
+und dient ihm in Wahrheit mit eurem ganzen Herzen.
+Denn seht doch, welche großen Dinge er für euch getan hat.
+<sup>25</sup>Wenn ihr aber weiter Böses tut,
+dann werdet ihr umkommen, ihr und euer König.“
+
+> **Was bedeutet das?**
+> Das ist eine der schönsten Stellen über Gottes Gnade. Samuel sagt: Ja, ihr habt gesündigt. Aber gebt jetzt nicht auf. Wendet euch nicht ab. Gott verstößt sein Volk nicht.
+> Warum nicht? Nicht weil das Volk so gut ist. Sondern „um seines großen Namens willen“ und weil es Gott „gefallen hat“, sie zu seinem Volk zu machen. Gottes Liebe hängt nicht davon ab, ob wir sie verdienen.
+> „Nichtige Dinge“ sind die Götzen. Sie sind leer, sie können nicht helfen.
+> Vers 23 ist ein besonderer Satz: Samuel sagt, es wäre eine Sünde, wenn er aufhören würde, für das Volk zu beten. Obwohl das Volk ihn als Anführer abgelehnt hat, betet er weiter für sie. Das ist echte Liebe.
+> Samuel tritt als Richter zurück, aber er bleibt Prophet und Lehrer. Der König regiert, aber der Prophet sagt ihm Gottes Wort. Diese Aufgabenteilung zieht sich durch die ganze Zeit der Könige.

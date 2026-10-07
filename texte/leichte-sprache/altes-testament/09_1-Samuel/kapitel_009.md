@@ -1,5 +1,5 @@
 # 1. Samuel – Kapitel 9
-### Saul sucht Eselinnen und findet ein Königreich
+### Saul sucht Esel und findet ein Königreich
 
 ---
 
