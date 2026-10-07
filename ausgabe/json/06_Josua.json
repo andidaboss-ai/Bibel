@@ -2267,6 +2267,599 @@
      "erklaerung": "Mit diesem Kapitel beginnt der zweite große Teil des Buches Josua: die Verteilung des Landes (Kapitel 13–21). Es gibt viele Namen von Orten und Grenzen. Für uns heute ist das manchmal mühsam zu lesen. Aber für Israel war es sehr wichtig: Jeder Stamm, jede Familie wusste so, wo ihr Platz im Land war. Das Land war ein Geschenk Gottes, und jeder bekam seinen Anteil.\nAm Ende steht noch einmal der Satz über Levi: „Der HERR ist ihr Erbe.“ Das ist das schönste Erbe von allen."
     }
    ]
+  },
+  {
+   "kapitel": 14,
+   "titel": "Kaleb bekommt Hebron",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Land wird durch das Los verteilt",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Erbteile, die die Israeliten im Land Kanaan bekamen,\ndie ihnen Eleasar, der Priester, Josua, der Sohn von Nun,\nund die Oberhäupter der Familien der Stämme der Israeliten zuteilten,",
+       "englisch_web": "These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "durch das Los ihres Erbes,\nwie der HERR es durch Mose geboten hatte,\nfür die neun Stämme und den halben Stamm.",
+       "englisch_web": "by the lot of their inheritance, as Yahweh commanded by Moses, for the nine tribes, and for the half-tribe."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Denn Mose hatte das Erbe der zwei Stämme und des halben Stammes jenseits des Jordan gegeben.\nAber den Leviten hatte er unter ihnen kein Erbe gegeben.",
+       "englisch_web": "For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan; but to the Levites he gave no inheritance among them."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn die Nachkommen Josefs waren zwei Stämme, Manasse und Efraim.\nDen Leviten gaben sie keinen Anteil am Land,\naußer Städten zum Wohnen mit ihrem Weideland für ihr Vieh und ihren Besitz.",
+       "englisch_web": "For the children of Joseph were two tribes, Manasseh and Ephraim. They gave no portion to the Levites in the land, except cities to dwell in, with their pasture lands for their livestock and for their property."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wie der HERR es Mose geboten hatte, so taten es die Israeliten, und sie verteilten das Land.",
+       "englisch_web": "The children of Israel did as Yahweh commanded Moses, and they divided the land."
+      }
+     ],
+     "erklaerung": "Das Land wird durch das Los verteilt. So konnte niemand sagen, er sei ungerecht behandelt worden. Man glaubte: Gott selbst entscheidet durch das Los.\nEs bleibt bei zwölf Stämmen mit Land: Levi bekommt kein eigenes Gebiet, aber Josef zählt doppelt, als Efraim und Manasse. So geht die Zahl wieder auf."
+    },
+    {
+     "ueberschrift": "Kaleb erinnert an ein altes Versprechen",
+     "vers_von": 6,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Da traten die Nachkommen Judas in Gilgal zu Josua.\nUnd Kaleb, der Sohn von Jefunne, der Kenasiter, sagte zu ihm:\n„Du kennst das Wort, das der HERR in Kadesch-Barnea zu Mose, dem Mann Gottes,\nüber mich und über dich gesagt hat.",
+       "englisch_web": "Then the children of Judah came near to Joshua in Gilgal. Caleb the son of Jephunneh the Kenizzite said to him, “You know the thing that Yahweh spoke to Moses the man of God concerning me and concerning you in Kadesh Barnea."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich war vierzig Jahre alt, als Mose, der Knecht des HERRN, mich von Kadesch-Barnea aussandte,\num das Land auszukundschaften.\nUnd ich brachte ihm Bericht, so wie es mir ums Herz war.",
+       "englisch_web": "I was forty years old when Moses the servant of Yahweh sent me from Kadesh Barnea to spy out the land. I brought him word again as it was in my heart."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber meine Brüder, die mit mir hinaufgezogen waren, machten das Herz des Volkes verzagt.\nIch aber folgte dem HERRN, meinem Gott, ganz und gar.",
+       "englisch_web": "Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my God."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "An jenem Tag schwor Mose:\n‚Ganz gewiss soll das Land, das dein Fuß betreten hat, für immer dein Erbe und das deiner Kinder sein,\nweil du dem HERRN, meinem Gott, ganz und gar gefolgt bist.‘",
+       "englisch_web": "Moses swore on that day, saying, ‘Surely the land where you walked shall be an inheritance to you and to your children forever, because you have wholly followed Yahweh my God.’"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Und nun, schau, der HERR hat mich am Leben erhalten, wie er es gesagt hat,\ndiese 45 Jahre lang, seit der HERR dieses Wort zu Mose sprach,\nals Israel durch die Wüste zog.\nUnd nun, schau, ich bin heute 85 Jahre alt.",
+       "englisch_web": "“Now, behold, Yahweh has kept me alive, as he spoke, these forty-five years, from the time that Yahweh spoke this word to Moses, while Israel walked in the wilderness. Now, behold, I am eighty-five years old, today."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ich bin heute noch so stark wie an dem Tag, als Mose mich aussandte.\nWie meine Kraft damals war, so ist meine Kraft jetzt, für den Krieg und für das Aus- und Eingehen.",
+       "englisch_web": "As yet I am as strong today as I was in the day that Moses sent me. As my strength was then, even so is my strength now for war, to go out and to come in."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Und nun gib mir dieses Bergland, von dem der HERR an jenem Tag gesprochen hat.\nDenn du hast an jenem Tag gehört, dass die Anakiter dort sind und große, befestigte Städte.\nVielleicht ist der HERR mit mir, und ich vertreibe sie, wie der HERR es gesagt hat.“",
+       "englisch_web": "Now therefore give me this hill country, of which Yahweh spoke in that day; for you heard in that day how the Anakim were there, and great and fortified cities. It may be that Yahweh will be with me, and I shall drive them out, as Yahweh said.”"
+      }
+     ],
+     "erklaerung": "Kaleb war einer der zwei treuen Kundschafter (4. Mose 13–14). Josua war der andere. Die beiden alten Männer kennen sich seit 45 Jahren.\nKaleb ist 85 Jahre alt. Aber er sagt: Ich bin noch genauso stark wie damals. Und er bittet nicht um ein bequemes, sicheres Stück Land. Er will das schwerste Gebiet: das Bergland, wo die „Riesen“ wohnen, vor denen alle Angst hatten.\n„Vielleicht ist der HERR mit mir“: Kaleb ist nicht überheblich. Er vertraut auf Gott, nicht auf sich selbst.\nDie Zahlen helfen beim Rechnen: Kaleb war 40, als er das Land erkundete. 38 Jahre war das Volk danach noch in der Wüste. Jetzt ist er 85. Also hat die Eroberung des Landes etwa sieben Jahre gedauert.\nKaleb war ein „Kenasiter“. Die Kenasiter waren ursprünglich ein Volk, das nicht zu Israel gehörte (1. Mose 15,19). Seine Familie wurde in den Stamm Juda aufgenommen. Und gerade er wird zum Vorbild an Treue."
+    },
+    {
+     "ueberschrift": "Josua gibt Kaleb Hebron",
+     "vers_von": 13,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Da segnete Josua ihn\nund gab Kaleb, dem Sohn von Jefunne, Hebron als Erbe.",
+       "englisch_web": "Joshua blessed him; and he gave Hebron to Caleb the son of Jephunneh for an inheritance."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Darum gehört Hebron bis heute Kaleb, dem Sohn von Jefunne, dem Kenasiter, als Erbe,\nweil er dem HERRN, dem Gott Israels, ganz und gar gefolgt ist.",
+       "englisch_web": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed Yahweh, the God of Israel wholeheartedly."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Der Name von Hebron war früher Kirjat-Arba, nach dem größten Mann unter den Anakitern.\nUnd das Land hatte Ruhe vom Krieg.",
+       "englisch_web": "Now the name of Hebron before was Kiriath Arba, after the greatest man among the Anakim. Then the land had rest from war."
+      }
+     ],
+     "erklaerung": "Hebron ist eine besondere Stadt. Dort hatte Abraham gewohnt, und dort sind Abraham, Sara, Isaak, Rebekka, Jakob und Lea begraben (1. Mose 23; 49,29–32). Gerade dieser Ort wird das Erbe des treuen Kaleb.\n„Kirjat-Arba“ bedeutet „Stadt des Arba“. Arba war der Name eines berühmten Anakiters.\n„Ganz und gar gefolgt“: Dieser Satz wird über Kaleb immer wieder gesagt. Er ist das Geheimnis seines Lebens."
+    }
+   ]
+  },
+  {
+   "kapitel": 15,
+   "titel": "Das Gebiet des Stammes Juda",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Südgrenze",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Los für den Stamm der Nachkommen Judas nach ihren Sippen\nfiel bis zur Grenze von Edom, bis zur Wüste Zin im Süden, am äußersten Ende im Süden.",
+       "englisch_web": "The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ihre Südgrenze begann am äußersten Ende des Salzmeeres, an der Bucht, die nach Süden schaut.",
+       "englisch_web": "Their south border was from the uttermost part of the Salt Sea, from the bay that looks southward;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie ging südlich vom Skorpionenpass hinaus,\nführte hinüber nach Zin,\nging südlich von Kadesch-Barnea hinauf,\nführte hinüber nach Hezron, ging hinauf nach Addar\nund wandte sich nach Karka.",
+       "englisch_web": "and it went out southward of the ascent of Akrabbim, and passed along to Zin, and went up by the south of Kadesh Barnea, and passed along by Hezron, went up to Addar, and turned toward Karka;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sie führte hinüber nach Azmon und ging hinaus zum Bach Ägyptens.\nUnd die Grenze endete am Meer.\nDas soll eure Südgrenze sein.",
+       "englisch_web": "and it passed along to Azmon, went out at the brook of Egypt; and the border ended at the sea. This shall be your south border."
+      }
+     ],
+     "erklaerung": "Juda war der größte Stamm. Er bekommt zuerst sein Gebiet, im Süden des Landes.\n„Skorpionenpass“ heißt auf Hebräisch „Akrabbim“. So steht es auch in der englischen Vorlage.\nDie Grenzen sind ähnlich beschrieben wie die Südgrenze des ganzen Landes (4. Mose 34,3–5)."
+    },
+    {
+     "ueberschrift": "Die Ost- und die Nordgrenze",
+     "vers_von": 5,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Ostgrenze war das Salzmeer bis zur Mündung des Jordan.\nDie Grenze auf der Nordseite begann an der Bucht des Meeres, an der Mündung des Jordan.",
+       "englisch_web": "The east border was the Salt Sea, even to the end of the Jordan. The border of the north quarter was from the bay of the sea at the end of the Jordan."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Grenze ging hinauf nach Bet-Hogla\nund führte nördlich an Bet-Araba vorbei.\nUnd die Grenze ging hinauf zum Stein Bohans, des Sohnes Rubens.",
+       "englisch_web": "The border went up to Beth Hoglah, and passed along by the north of Beth Arabah; and the border went up to the stone of Bohan the son of Reuben."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Grenze ging vom Tal Achor hinauf nach Debir\nund wandte sich nach Norden, in Richtung Gilgal,\ndas gegenüber dem Aufstieg von Adummim liegt, südlich vom Bach.\nDie Grenze führte hinüber zum Wasser von En-Schemesch\nund endete bei En-Rogel.",
+       "englisch_web": "The border went up to Debir from the valley of Achor, and so northward, looking toward Gilgal, that faces the ascent of Adummim, which is on the south side of the river. The border passed along to the waters of En Shemesh, and ended at En Rogel."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Grenze ging hinauf durch das Tal des Sohnes Hinnoms,\nan der Südseite der Jebusiter entlang – das ist Jerusalem.\nUnd die Grenze ging hinauf zum Gipfel des Berges, der westlich vor dem Tal Hinnom liegt,\nam nördlichen Ende des Tals der Refaiter.",
+       "englisch_web": "The border went up by the valley of the son of Hinnom to the side of the Jebusite (also called Jerusalem) southward; and the border went up to the top of the mountain that lies before the valley of Hinnom westward, which is at the farthest part of the valley of Rephaim northward."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Grenze zog sich vom Gipfel des Berges zur Quelle des Wassers von Neftoach\nund ging hinaus zu den Städten des Berges Efron.\nUnd die Grenze zog sich nach Baala – das ist Kirjat-Jearim.",
+       "englisch_web": "The border extended from the top of the mountain to the spring of the waters of Nephtoah, and went out to the cities of Mount Ephron; and the border extended to Baalah (also called Kiriath Jearim);"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die Grenze wandte sich von Baala nach Westen zum Berg Seïr\nund führte hinüber zur Seite des Berges Jearim – das ist Kesalon – im Norden.\nSie ging hinab nach Bet-Schemesch und führte hinüber nach Timna.",
+       "englisch_web": "and the border turned about from Baalah westward to Mount Seir, and passed along to the side of Mount Jearim (also called Chesalon) on the north, and went down to Beth Shemesh, and passed along by Timnah;"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Und die Grenze ging hinaus zur Seite von Ekron im Norden.\nDie Grenze zog sich nach Schikkeron, führte hinüber zum Berg Baala und ging hinaus nach Jabneel.\nUnd die Grenze endete am Meer.",
+       "englisch_web": "and the border went out to the side of Ekron northward; and the border extended to Shikkeron, and passed along to Mount Baalah, and went out at Jabneel; and the goings out of the border were at the sea."
+      }
+     ],
+     "erklaerung": "Die Nordgrenze von Juda läuft direkt südlich an Jerusalem vorbei, durch das Tal Hinnom. Jerusalem selbst gehört noch den Jebusitern.\nDas „Tal Hinnom“ hat später eine traurige Bedeutung bekommen. Dort wurden in späterer Zeit Kinder dem Götzen Moloch geopfert (2. Könige 23,10). Aus seinem hebräischen Namen „Ge-Hinnom“ wurde das Wort „Gehenna“, das im Neuen Testament für die Hölle steht.\nDer Berg Seïr hier ist ein kleiner Berg bei Jerusalem, nicht das Gebirge Seïr in Edom."
+    },
+    {
+     "ueberschrift": "Die Westgrenze",
+     "vers_von": 12,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Die Westgrenze war das große Meer mit seiner Küste.\nDas ist die Grenze der Nachkommen Judas ringsum, nach ihren Sippen.",
+       "englisch_web": "The west border was to the shore of the great sea. This is the border of the children of Judah according to their families."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Kaleb erobert Hebron und Debir",
+     "vers_von": 13,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Kaleb, dem Sohn von Jefunne, gab er einen Anteil mitten unter den Nachkommen Judas,\nnach dem Befehl des HERRN an Josua:\nKirjat-Arba, benannt nach dem Vater Anaks – das ist Hebron.",
+       "englisch_web": "He gave to Caleb the son of Jephunneh a portion among the children of Judah, according to the commandment of Yahweh to Joshua, even Kiriath Arba, named after the father of Anak (also called Hebron)."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Kaleb vertrieb von dort die drei Söhne Anaks:\nScheschai, Ahiman und Talmai, die Nachkommen Anaks.",
+       "englisch_web": "Caleb drove out the three sons of Anak: Sheshai, and Ahiman, and Talmai, the children of Anak."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Von dort zog er hinauf gegen die Bewohner von Debir.\nDer Name von Debir war früher Kirjat-Sefer.",
+       "englisch_web": "He went up against the inhabitants of Debir: now the name of Debir before was Kiriath Sepher."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Kaleb sagte:\n„Wer Kirjat-Sefer schlägt und einnimmt, dem gebe ich meine Tochter Achsa zur Frau.“",
+       "englisch_web": "Caleb said, “He who strikes Kiriath Sepher, and takes it, to him I will give Achsah my daughter as wife.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Otniël, der Sohn von Kenas, der Bruder Kalebs, nahm es ein.\nUnd er gab ihm seine Tochter Achsa zur Frau.",
+       "englisch_web": "Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter as wife."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Als sie zu ihm kam, brachte sie ihn dazu, ihren Vater um ein Feld zu bitten.\nSie stieg von ihrem Esel ab, und Kaleb fragte sie:\n„Was möchtest du?“",
+       "englisch_web": "When she came, she had him ask her father for a field. She got off her donkey, and Caleb said, “What do you want?”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Sie sagte:\n„Gib mir ein Segensgeschenk.\nWeil du mir Land im trockenen Süden gegeben hast, gib mir auch Wasserquellen.“\nDa gab er ihr die oberen Quellen und die unteren Quellen.",
+       "englisch_web": "She said, “Give me a blessing. Because you have set me in the land of the South, give me also springs of water.” So he gave her the upper springs and the lower springs."
+      }
+     ],
+     "erklaerung": "Die drei Söhne Anaks wurden schon von den Kundschaftern vor 45 Jahren in Hebron gesehen (4. Mose 13,22). Jetzt vertreibt der alte Kaleb genau sie.\nIn Kapitel 10 wurde erzählt, dass Josua Hebron und Debir schon erobert hatte. Hier wird erzählt, dass Kaleb sie erobert. Vielleicht wurden die Städte zweimal eingenommen, oder Josuas Feldzug wird zusammengefasst und hier im Detail erzählt.\nDass Kaleb seine Tochter als Preis verspricht, war damals üblich. Für uns ist das befremdlich: Die Tochter wird nicht gefragt.\nAber Achsa ist eine selbstbewusste Frau. Sie bittet ihren Vater um das, was sie braucht: Wasser. Land ohne Wasser ist im trockenen Süden wertlos. Und ihr Vater gibt ihr sogar mehr, als sie erbeten hat.\nOtniël wird später der erste Richter in Israel (Richter 3,9–11). Diese Geschichte wird in Richter 1,11–15 noch einmal erzählt."
+    },
+    {
+     "ueberschrift": "Die Städte im Süden",
+     "vers_von": 20,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Das ist das Erbe des Stammes der Nachkommen Judas nach ihren Sippen.",
+       "englisch_web": "This is the inheritance of the tribe of the children of Judah according to their families."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Die äußersten Städte des Stammes der Nachkommen Judas an der Grenze zu Edom, im Süden, waren:\nKabzeel, Eder, Jagur,",
+       "englisch_web": "The farthest cities of the tribe of the children of Judah toward the border of Edom in the South were Kabzeel, Eder, Jagur,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Kina, Dimona, Adada,",
+       "englisch_web": "Kinah, Dimonah, Adadah,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Kedesch, Hazor, Jitnan,",
+       "englisch_web": "Kedesh, Hazor, Ithnan,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Sif, Telem, Bealot,",
+       "englisch_web": "Ziph, Telem, Bealoth,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Hazor-Hadatta, Kerijot-Hezron – das ist Hazor –,",
+       "englisch_web": "Hazor Hadattah, Kerioth Hezron (also called Hazor),"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Amam, Schema, Molada,",
+       "englisch_web": "Amam, Shema, Moladah,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Hazar-Gadda, Heschmon, Bet-Pelet,",
+       "englisch_web": "Hazar Gaddah, Heshmon, Beth Pelet,"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Hazar-Schual, Beerscheba, Bisjotja,",
+       "englisch_web": "Hazar Shual, Beersheba, Biziothiah,"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Baala, Ijim, Ezem,",
+       "englisch_web": "Baalah, Iim, Ezem,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Eltolad, Kesil, Horma,",
+       "englisch_web": "Eltolad, Chesil, Hormah,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Ziklag, Madmanna, Sansanna,",
+       "englisch_web": "Ziklag, Madmannah, Sansannah,"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Lebaot, Schilhim, Ajin und Rimmon.\nZusammen 29 Städte mit ihren Dörfern.",
+       "englisch_web": "Lebaoth, Shilhim, Ain, and Rimmon. All the cities are twenty-nine, with their villages."
+      }
+     ],
+     "erklaerung": "Wenn man die Namen zählt, kommt man auf mehr als 29. Vielleicht sind manche Namen zwei Teile eines einzigen Ortes, zum Beispiel „Ajin-Rimmon“. Oder einige Orte kamen später dazu. Die Bibel hat diese Listen über lange Zeit weitergegeben.\nBeerscheba ist bekannt aus den Geschichten von Abraham, Isaak und Jakob (1. Mose 21; 26). Ziklag wurde später die Stadt von David, als er vor Saul floh (1. Samuel 27,6)."
+    },
+    {
+     "ueberschrift": "Die Städte im Hügelland",
+     "vers_von": 33,
+     "vers_bis": 47,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 33,
+       "leichte_sprache": "Im Hügelland:\nEschtaol, Zora, Aschna,",
+       "englisch_web": "In the lowland, Eshtaol, Zorah, Ashnah,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Sanoach, En-Gannim, Tappuach, Enam,",
+       "englisch_web": "Zanoah, En Gannim, Tappuah, Enam,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Jarmut, Adullam, Socho, Aseka,",
+       "englisch_web": "Jarmuth, Adullam, Socoh, Azekah,"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Schaarajim, Aditajim und Gedera oder Gederotajim.\nVierzehn Städte mit ihren Dörfern.",
+       "englisch_web": "Shaaraim, Adithaim and Gederah (or Gederothaim); fourteen cities with their villages."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Zenan, Hadascha, Migdal-Gad,",
+       "englisch_web": "Zenan, Hadashah, Migdal Gad,"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Dilean, Mizpe, Jokteel,",
+       "englisch_web": "Dilean, Mizpah, Joktheel,"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Lachisch, Bozkat, Eglon,",
+       "englisch_web": "Lachish, Bozkath, Eglon,"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Kabbon, Lachmas, Kitlisch,",
+       "englisch_web": "Cabbon, Lahmam, Chitlish,"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Gederot, Bet-Dagon, Naama und Makkeda.\nSechzehn Städte mit ihren Dörfern.",
+       "englisch_web": "Gederoth, Beth Dagon, Naamah, and Makkedah; sixteen cities with their villages."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Libna, Eter, Aschan,",
+       "englisch_web": "Libnah, Ether, Ashan,"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Jiftach, Aschna, Nezib,",
+       "englisch_web": "Iphtah, Ashnah, Nezib,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Keïla, Achsib und Marescha.\nNeun Städte mit ihren Dörfern.",
+       "englisch_web": "Keilah, Achzib, and Mareshah; nine cities with their villages."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Ekron mit seinen Tochterstädten und Dörfern.",
+       "englisch_web": "Ekron, with its towns and its villages;"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Von Ekron bis zum Meer alles, was neben Aschdod liegt, mit seinen Dörfern.",
+       "englisch_web": "from Ekron even to the sea, all that were by the side of Ashdod, with their villages."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Aschdod mit seinen Tochterstädten und Dörfern,\nGaza mit seinen Tochterstädten und Dörfern,\nbis zum Bach Ägyptens und zum großen Meer mit seiner Küste.",
+       "englisch_web": "Ashdod, its towns and its villages; Gaza, its towns and its villages; to the brook of Egypt, and the great sea with its coastline."
+      }
+     ],
+     "erklaerung": "„Tochterstädte“: So nannte man kleinere Orte, die zu einer größeren Stadt gehörten.\nIn diesem Hügelland liegen viele Orte, die in späteren Geschichten wichtig werden: Zora und Eschtaol in der Geschichte von Simson (Richter 13). Socho und Aseka bei Davids Kampf gegen Goliat (1. Samuel 17,1). Adullam, wo David sich in einer Höhle versteckte (1. Samuel 22,1).\nEkron, Aschdod und Gaza waren Städte der Philister. Sie wurden Juda zugeteilt, aber Juda hat sie lange nicht wirklich beherrscht."
+    },
+    {
+     "ueberschrift": "Die Städte im Bergland",
+     "vers_von": 48,
+     "vers_bis": 60,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 48,
+       "leichte_sprache": "Im Bergland:\nSchamir, Jattir, Socho,",
+       "englisch_web": "In the hill country, Shamir, Jattir, Socoh,"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Danna, Kirjat-Sanna – das ist Debir –,",
+       "englisch_web": "Dannah, Kiriath Sannah (which is Debir),"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Anab, Eschtemoa, Anim,",
+       "englisch_web": "Anab, Eshtemoh, Anim,"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Goschen, Holon und Gilo.\nElf Städte mit ihren Dörfern.",
+       "englisch_web": "Goshen, Holon, and Giloh; eleven cities with their villages."
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "Arab, Duma, Eschan,",
+       "englisch_web": "Arab, Dumah, Eshan,"
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Janum, Bet-Tappuach, Afeka,",
+       "englisch_web": "Janim, Beth Tappuah, Aphekah,"
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Humta, Kirjat-Arba – das ist Hebron – und Zior.\nNeun Städte mit ihren Dörfern.",
+       "englisch_web": "Humtah, Kiriath Arba (also called Hebron), and Zior; nine cities with their villages."
+      },
+      {
+       "vers": 55,
+       "leichte_sprache": "Maon, Karmel, Sif, Jutta,",
+       "englisch_web": "Maon, Carmel, Ziph, Jutah,"
+      },
+      {
+       "vers": 56,
+       "leichte_sprache": "Jesreel, Jokdeam, Sanoach,",
+       "englisch_web": "Jezreel, Jokdeam, Zanoah,"
+      },
+      {
+       "vers": 57,
+       "leichte_sprache": "Kajin, Gibea und Timna.\nZehn Städte mit ihren Dörfern.",
+       "englisch_web": "Kain, Gibeah, and Timnah; ten cities with their villages."
+      },
+      {
+       "vers": 58,
+       "leichte_sprache": "Halhul, Bet-Zur, Gedor,",
+       "englisch_web": "Halhul, Beth Zur, Gedor,"
+      },
+      {
+       "vers": 59,
+       "leichte_sprache": "Maarat, Bet-Anot und Eltekon.\nSechs Städte mit ihren Dörfern.",
+       "englisch_web": "Maarath, Beth Anoth, and Eltekon; six cities with their villages."
+      },
+      {
+       "vers": 60,
+       "leichte_sprache": "Kirjat-Baal – das ist Kirjat-Jearim – und Rabba.\nZwei Städte mit ihren Dörfern.",
+       "englisch_web": "Kiriath Baal (also called Kiriath Jearim), and Rabbah; two cities with their villages."
+      }
+     ],
+     "erklaerung": "Debir wird hier „Kirjat-Sanna“ genannt, in Vers 15 „Kirjat-Sefer“. Beides waren alte Namen dieser Stadt.\nDas Karmel hier ist ein Ort im Süden, nicht das bekannte Karmelgebirge im Norden. Dort lebten später Nabal und Abigail (1. Samuel 25,2).\nDas Jesreel hier ist ebenfalls ein Ort in Juda, nicht die bekannte Ebene im Norden.\nIn der griechischen Übersetzung der Bibel steht nach Vers 59 noch eine Liste mit elf weiteren Städten, darunter Betlehem. Im hebräischen Text und in der englischen Vorlage fehlt diese Liste."
+    },
+    {
+     "ueberschrift": "Die Städte in der Wüste",
+     "vers_von": 61,
+     "vers_bis": 62,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 61,
+       "leichte_sprache": "In der Wüste:\nBet-Araba, Middin, Sechacha,",
+       "englisch_web": "In the wilderness, Beth Arabah, Middin, Secacah,"
+      },
+      {
+       "vers": 62,
+       "leichte_sprache": "Nibschan, die Salzstadt und En-Gedi.\nSechs Städte mit ihren Dörfern.",
+       "englisch_web": "Nibshan, the City of Salt, and En Gedi; six cities with their villages."
+      }
+     ],
+     "erklaerung": "Die „Wüste“ ist hier die Wüste Juda, die steil zum Toten Meer abfällt. En-Gedi ist eine Oase mit einem Wasserfall. Dort versteckte sich David später vor Saul (1. Samuel 24,1).\nManche Forscher meinen, die „Salzstadt“ liege bei Qumran, wo man die berühmten Schriftrollen vom Toten Meer gefunden hat."
+    },
+    {
+     "ueberschrift": "Jerusalem bleibt jebusitisch",
+     "vers_von": 63,
+     "vers_bis": 63,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 63,
+       "leichte_sprache": "Aber die Jebusiter, die Bewohner von Jerusalem, konnten die Nachkommen Judas nicht vertreiben.\nSo wohnen die Jebusiter mit den Nachkommen Judas in Jerusalem bis heute.",
+       "englisch_web": "As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day."
+      }
+     ],
+     "erklaerung": "Ein ehrlicher Satz: Jerusalem konnte Juda nicht einnehmen. Erst König David hat die Stadt viele Jahre später erobert und zu seiner Hauptstadt gemacht (2. Samuel 5,6–9).\nBis dahin lebten Jebusiter und Israeliten nebeneinander. Das zeigt: Das Land war nicht menschenleer. Die Völker lebten oft nebeneinander weiter."
+    }
+   ]
+  },
+  {
+   "kapitel": 16,
+   "titel": "Das Gebiet von Efraim",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Los für die Nachkommen Josefs",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Los für die Nachkommen Josefs fiel so:\nvom Jordan bei Jericho, an den Wassern von Jericho im Osten,\ndurch die Wüste, die von Jericho durch das Bergland nach Bethel hinaufsteigt.",
+       "englisch_web": "The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Von Bethel ging es hinaus nach Lus\nund führte hinüber zum Gebiet der Arkiter nach Atarot.",
+       "englisch_web": "It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Es ging westwärts hinab zum Gebiet der Jafletiter\nbis zum Gebiet von Unter-Bet-Horon und bis nach Geser.\nUnd es endete am Meer.",
+       "englisch_web": "and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "So erhielten die Nachkommen Josefs, Manasse und Efraim, ihr Erbe.",
+       "englisch_web": "The children of Joseph, Manasseh and Ephraim, took their inheritance."
+      }
+     ],
+     "erklaerung": "Nach Juda im Süden bekommen jetzt die Nachkommen Josefs ihr Gebiet in der Mitte des Landes. Josef hatte zwei Söhne: Manasse und Efraim. Jakob hatte beide gesegnet und den jüngeren, Efraim, vor den älteren gestellt (1. Mose 48).\n„Bethel“ und „Lus“: Lus war der alte Name von Bethel (1. Mose 28,19). Hier werden sie wie zwei nahe beieinanderliegende Orte genannt.\n„Die Arkiter“: Aus dieser Familie stammte später Huschai, der treue Freund und Ratgeber von König David (2. Samuel 15,32)."
+    },
+    {
+     "ueberschrift": "Die Grenzen von Efraim",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Das war das Gebiet der Nachkommen Efraims nach ihren Sippen:\nDie Grenze ihres Erbes im Osten war Atrot-Addar bis Ober-Bet-Horon.",
+       "englisch_web": "This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Grenze ging hinaus nach Westen, bei Michmetat im Norden.\nUnd die Grenze wandte sich nach Osten nach Taanat-Schilo\nund führte daran vorbei östlich von Janoach.",
+       "englisch_web": "The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie ging von Janoach hinab nach Atarot und nach Naara,\nerreichte Jericho und ging hinaus zum Jordan.",
+       "englisch_web": "It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Von Tappuach führte die Grenze westwärts zum Bach Kana und endete am Meer.\nDas ist das Erbe des Stammes der Nachkommen Efraims nach ihren Sippen,",
+       "englisch_web": "From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families;"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "zusammen mit den Städten, die für die Nachkommen Efraims mitten im Erbe der Nachkommen Manasses ausgesondert wurden,\nalle Städte mit ihren Dörfern.",
+       "englisch_web": "together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages."
+      }
+     ],
+     "erklaerung": "Efraim bekam fruchtbares Land im Bergland in der Mitte des Landes. Später wurde Efraim einer der mächtigsten Stämme. Nach der Teilung des Reiches nannte man das ganze Nordreich manchmal einfach „Efraim“ (zum Beispiel Hosea 11,8).\nEinige Städte von Efraim lagen im Gebiet von Manasse. Die Brüderstämme lebten eng zusammen."
+    },
+    {
+     "ueberschrift": "Die Kanaaniter in Geser",
+     "vers_von": 10,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Sie vertrieben aber die Kanaaniter nicht, die in Geser wohnten.\nSo wohnen die Kanaaniter mitten in Efraim bis heute.\nSie wurden aber zu Knechten, die Zwangsarbeit leisten mussten.",
+       "englisch_web": "They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor."
+      }
+     ],
+     "erklaerung": "Wieder ein ehrlicher Satz: Efraim vertrieb die Kanaaniter in Geser nicht. Sie blieben, mussten aber Zwangsarbeit leisten.\nViel später eroberte der Pharao von Ägypten Geser und gab die Stadt seiner Tochter als Hochzeitsgeschenk, als sie König Salomo heiratete (1. Könige 9,16).\nDas Buch der Richter sieht diese unvollständige Eroberung kritisch: Die Völker, die im Land blieben, verführten Israel später zum Götzendienst (Richter 1,29; 2,1–3). Zwangsarbeit für Menschen eines anderen Volkes entspricht nicht unserem heutigen Verständnis von Menschenwürde."
+    }
+   ]
   }
  ]
 }
