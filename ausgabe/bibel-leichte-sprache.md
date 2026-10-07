@@ -32139,3 +32139,439 @@ Sie ist in Lehi bis zum heutigen Tag.
 > Gott antwortet sofort. Er lässt Wasser aus dem Boden kommen, so wie damals in der Wüste für Israel.
 > „En-Hakkore“ heißt „Quelle des Rufenden“. Der Name erinnert daran: Simson hat zu Gott gerufen, und Gott hat geantwortet.
 > Vers 20 sagt, dass Simson zwanzig Jahre lang Richter war. Er hat die Philister nicht vertrieben. Sie blieben an der Macht. Aber er war für sie eine ständige Gefahr. Dieser Satz steht hier wie ein Abschluss, und er wird am Ende von Kapitel 16 noch einmal wiederholt.
+
+## Richter – Kapitel 16
+#### Simson und Delila
+
+---
+
+### Simson in Gaza (Vers 1–3)
+
+<sup>1</sup>Simson ging nach Gaza.
+Dort sah er eine Prostituierte und ging zu ihr hinein.
+<sup>2</sup>Den Leuten von Gaza wurde gesagt: „Simson ist hier!“
+Sie umstellten ihn und lauerten ihm die ganze Nacht im Stadttor auf.
+Sie verhielten sich die ganze Nacht still und sagten:
+„Wartet, bis es Morgen wird. Dann töten wir ihn.“
+<sup>3</sup>Simson lag bis Mitternacht.
+Um Mitternacht stand er auf.
+Er packte die Türflügel des Stadttores mit den beiden Pfosten
+und riss sie heraus, mitsamt dem Riegel.
+Er legte sie auf seine Schultern
+und trug sie hinauf auf den Gipfel des Berges, der vor Hebron liegt.
+
+> **Was bedeutet das?**
+> Gaza war eine der fünf großen Städte der Philister, am Meer im Süden. Simson geht mitten in das Land seiner Feinde.
+> Die Bibel erzählt offen, dass Simson zu einer Prostituierten geht. Wieder folgt er dem, was seine Augen sehen. Das Gesetz Gottes lehnte das ab.
+> Ein Stadttor war das Wichtigste an einer Stadtmauer. Es war schwer und fest. Simson trägt es fort. Für die Philister ist das eine große Demütigung: Ihre Stadt steht offen und ohne Schutz da.
+> Hebron liegt etwa 60 Kilometer von Gaza entfernt, in den Bergen von Juda. Vielleicht ist ein Berg gemeint, der in Richtung Hebron liegt.
+
+---
+
+### Die Philister bestechen Delila (Vers 4–5)
+
+<sup>4</sup>Danach geschah es, dass er eine Frau im Tal Sorek liebte.
+Ihr Name war Delila.
+<sup>5</sup>Die Fürsten der Philister kamen zu ihr hinauf und sagten zu ihr:
+„Überrede ihn und finde heraus, worin seine große Kraft liegt
+und wie wir ihn überwältigen können.
+Dann wollen wir ihn fesseln und ihn quälen.
+Dann gibt dir jeder von uns 1100 Silberstücke.“
+
+> **Was bedeutet das?**
+> Das Tal Sorek liegt nahe bei Simsons Heimat Zora, an der Grenze zum Land der Philister. Ob Delila eine Philisterin oder eine Israelitin war, sagt die Bibel nicht.
+> Bei Simson steht hier zum ersten Mal, dass er eine Frau „liebt“. Aber dass Delila ihn liebt, steht nirgends.
+> Die „Fürsten der Philister“ waren die Herrscher der fünf Philisterstädte. Wenn jeder 1100 Silberstücke zahlte, waren das zusammen 5500. Ein Silberstück war wohl ein Schekel, etwa 11 Gramm. 1100 Silberstücke waren also etwa 12 Kilogramm Silber. Das war ein riesiges Vermögen.
+
+---
+
+### Drei falsche Antworten (Vers 6–14)
+
+<sup>6</sup>Delila sagte zu Simson:
+„Bitte sag mir, worin deine große Kraft liegt
+und womit man dich fesseln kann, um dich zu quälen.“
+<sup>7</sup>Simson sagte zu ihr:
+„Wenn man mich mit sieben frischen Schnüren fesselt, die noch nie getrocknet wurden,
+dann werde ich schwach und bin wie jeder andere Mensch.“
+<sup>8</sup>Da brachten die Fürsten der Philister ihr sieben frische Schnüre,
+die nicht getrocknet worden waren.
+Und sie fesselte ihn damit.
+<sup>9</sup>Sie hatte aber Männer im Hinterhalt im inneren Zimmer warten.
+Sie sagte zu ihm: „Die Philister über dir, Simson!“
+Da zerriss er die Schnüre, so wie ein Faden aus Flachs zerreißt, wenn er dem Feuer zu nahe kommt.
+So wurde das Geheimnis seiner Kraft nicht bekannt.
+
+<sup>10</sup>Delila sagte zu Simson:
+„Schau, du hast mich zum Narren gehalten und mich angelogen.
+Jetzt sag mir bitte, womit man dich fesseln kann.“
+<sup>11</sup>Er sagte zu ihr:
+„Wenn man mich nur mit neuen Seilen fesselt, mit denen noch nie gearbeitet wurde,
+dann werde ich schwach und bin wie jeder andere Mensch.“
+<sup>12</sup>Da nahm Delila neue Seile und fesselte ihn damit.
+Dann sagte sie zu ihm: „Die Philister über dir, Simson!“
+Die Männer im Hinterhalt warteten im inneren Zimmer.
+Er riss die Seile von seinen Armen ab wie einen Faden.
+
+<sup>13</sup>Delila sagte zu Simson:
+„Bis jetzt hast du mich zum Narren gehalten und mich angelogen.
+Sag mir, womit man dich fesseln kann.“
+Er sagte zu ihr:
+„Wenn du die sieben Locken meines Kopfes mit dem Gewebe am Webstuhl verwebst.“
+<sup>14</sup>Sie befestigte es mit dem Pflock
+und sagte zu ihm: „Die Philister über dir, Simson!“
+Er wachte aus seinem Schlaf auf
+und riss den Pflock des Webstuhls und das Gewebe heraus.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht „grüne Schnüre“. Gemeint sind wohl frische, feuchte Sehnen oder Stricke, zum Beispiel aus Tierdarm. Wenn sie trocknen, werden sie hart.
+> Delila fragt ganz offen: Womit kann man dich fesseln, um dich zu quälen? Simson merkt jedes Mal, dass sie ihn verraten will. Trotzdem bleibt er bei ihr. Er spielt mit der Gefahr.
+> Mit jeder Antwort kommt er seinem wirklichen Geheimnis näher: Bei der dritten Antwort geht es schon um seine Haare.
+> Vers 13 und 14 sind im hebräischen Text kurz. Die alte griechische Übersetzung erzählt hier etwas ausführlicher, wie Delila die Haare verwebt, während Simson schläft. Die englische Vorlage folgt dem hebräischen Text.
+
+---
+
+### Simson verrät sein Geheimnis (Vers 15–20)
+
+<sup>15</sup>Sie sagte zu ihm:
+„Wie kannst du sagen: ‚Ich liebe dich‘,
+wenn dein Herz nicht bei mir ist?
+Du hast mich jetzt dreimal zum Narren gehalten
+und mir nicht gesagt, worin deine große Kraft liegt.“
+<sup>16</sup>Sie bedrängte ihn jeden Tag mit ihren Worten und setzte ihm zu.
+Da wurde seine Seele zu Tode betrübt.
+<sup>17</sup>Er öffnete ihr sein ganzes Herz und sagte zu ihr:
+„Noch nie ist ein Rasiermesser auf meinen Kopf gekommen.
+Denn ich bin ein Nasiräer für Gott von Mutterleib an.
+Wenn man mich schert, dann weicht meine Kraft von mir.
+Dann werde ich schwach und bin wie jeder andere Mensch.“
+
+<sup>18</sup>Als Delila sah, dass er ihr sein ganzes Herz geöffnet hatte,
+schickte sie zu den Fürsten der Philister und ließ ihnen sagen:
+„Kommt noch dieses eine Mal herauf.
+Denn er hat mir sein ganzes Herz geöffnet.“
+Da kamen die Fürsten der Philister zu ihr herauf
+und brachten das Geld in ihrer Hand mit.
+<sup>19</sup>Sie ließ ihn auf ihren Knien einschlafen.
+Sie rief einen Mann und ließ die sieben Locken seines Kopfes abscheren.
+Sie fing an, ihn zu quälen,
+und seine Kraft wich von ihm.
+<sup>20</sup>Sie sagte: „Die Philister über dir, Simson!“
+Er wachte aus seinem Schlaf auf und sagte:
+„Ich will hinausgehen wie die anderen Male und mich losschütteln.“
+Aber er wusste nicht, dass der HERR von ihm gewichen war.
+
+> **Was bedeutet das?**
+> Delila benutzt dasselbe Mittel wie damals die Frau aus Timna (Kapitel 14): Wenn du mich liebst, dann sag es mir. Und wieder gibt Simson nach.
+> Wichtig ist: Die Kraft steckte nicht in den Haaren selbst. Die Haare waren das Zeichen dafür, dass Simson ganz zu Gott gehörte. Simson hatte schon viele Regeln gebrochen. Jetzt gibt er auch das letzte Zeichen seines Nasiräer-Gelübdes preis.
+> Vers 20 ist einer der traurigsten Sätze der Bibel: „Er wusste nicht, dass der HERR von ihm gewichen war.“ Simson hatte sich so an seine Kraft gewöhnt, dass er vergessen hatte, woher sie kam.
+
+---
+
+### Simson im Gefängnis (Vers 21–22)
+
+<sup>21</sup>Die Philister packten ihn und stachen ihm die Augen aus.
+Sie brachten ihn hinab nach Gaza und fesselten ihn mit Ketten aus Bronze.
+Und er musste im Gefängnis an der Mühle mahlen.
+<sup>22</sup>Aber das Haar seines Kopfes fing wieder an zu wachsen,
+nachdem man es geschoren hatte.
+
+> **Was bedeutet das?**
+> Simson hatte immer getan, was seinen Augen gefiel. Jetzt verliert er seine Augen. Der starke Held wird zum Sklaven. Mahlen an der Handmühle war damals eine Arbeit für Sklaven und Frauen, oft wurde auch ein Esel dafür benutzt. Es war eine große Erniedrigung.
+> Er wird nach Gaza gebracht, in die Stadt, deren Tor er weggetragen hatte.
+> Vers 22 ist ein kleines Zeichen der Hoffnung: Die Haare wachsen wieder. Gott ist mit Simson noch nicht fertig.
+
+---
+
+### Das Fest für den Gott Dagon (Vers 23–27)
+
+<sup>23</sup>Die Fürsten der Philister versammelten sich,
+um ihrem Gott Dagon ein großes Opfer darzubringen und um sich zu freuen.
+Denn sie sagten:
+„Unser Gott hat Simson, unseren Feind, in unsere Hand gegeben.“
+<sup>24</sup>Als das Volk ihn sah, lobten sie ihren Gott.
+Denn sie sagten:
+„Unser Gott hat unseren Feind in unsere Hand gegeben,
+den, der unser Land verwüstet hat und viele von uns getötet hat.“
+<sup>25</sup>Als ihr Herz fröhlich war, sagten sie:
+„Ruft Simson, damit er uns unterhält.“
+Sie riefen Simson aus dem Gefängnis,
+und er musste vor ihnen auftreten.
+Sie stellten ihn zwischen die Säulen.
+<sup>26</sup>Simson sagte zu dem Jungen, der ihn an der Hand hielt:
+„Lass mich die Säulen ertasten, auf denen das Haus ruht,
+damit ich mich daran anlehnen kann.“
+<sup>27</sup>Das Haus war voll von Männern und Frauen.
+Alle Fürsten der Philister waren dort.
+Und auf dem Dach waren etwa dreitausend Männer und Frauen,
+die zuschauten, wie Simson auftrat.
+
+> **Was bedeutet das?**
+> Dagon war ein Gott, der im ganzen Gebiet verehrt wurde, wahrscheinlich ein Gott des Getreides. Die Philister glauben: Unser Gott ist stärker als der Gott Israels. Darum geht es jetzt nicht mehr nur um Simson. Es geht um die Frage: Wer ist der wahre Gott?
+> Der blinde Simson muss die Menge unterhalten. Er wird verspottet und vorgeführt.
+> Archäologen haben Tempel der Philister ausgegraben, deren Dach auf zwei Holzsäulen ruhte, die nahe beieinander standen. Das passt zu dieser Geschichte.
+
+---
+
+### Simsons Tod (Vers 28–31)
+
+<sup>28</sup>Simson rief zum HERRN und sagte:
+„Herr, du HERR, denk bitte an mich.
+Stärke mich bitte nur noch dieses eine Mal, o Gott,
+damit ich mich mit einem Schlag an den Philistern rächen kann für meine beiden Augen.“
+<sup>29</sup>Simson umfasste die beiden mittleren Säulen, auf denen das Haus ruhte,
+und stemmte sich gegen sie,
+gegen die eine mit seiner rechten Hand und gegen die andere mit seiner linken.
+<sup>30</sup>Simson sagte: „Ich will mit den Philistern sterben!“
+Er beugte sich mit aller Kraft.
+Da fiel das Haus auf die Fürsten und auf das ganze Volk, das darin war.
+So waren die Toten, die er bei seinem Tod tötete, mehr als die, die er in seinem Leben getötet hatte.
+<sup>31</sup>Da kamen seine Brüder und das ganze Haus seines Vaters herab.
+Sie holten ihn, brachten ihn hinauf
+und begruben ihn zwischen Zora und Eschtaol, im Grab seines Vaters Manoach.
+Er war zwanzig Jahre lang Richter in Israel gewesen.
+
+> **Was bedeutet das?**
+> Simson betet ein zweites Mal in seinem Leben. Blind und gefangen bittet er Gott um Hilfe, und Gott antwortet. Auch nach großem Versagen kann ein Mensch zu Gott zurückkehren.
+> Aber sein Gebet ist nicht fromm und selbstlos. Er bittet um Rache für seine Augen. Bis zum Schluss bleibt Simson ein Mensch mit großen Fehlern.
+> Simsons Tod hat Tausende Menschen mit in den Tod gerissen, auch Frauen. Das ist eine schreckliche Geschichte aus einer gewalttätigen Zeit. Die Bibel erzählt sie als Sieg des HERRN über den Gott Dagon. Sie darf niemals als Vorbild dafür genommen werden, sich selbst und andere zu töten. Wer heute Gewalt im Namen Gottes ausübt, missbraucht die Bibel.
+> Im Neuen Testament wird Simson zu den Menschen gezählt, die geglaubt haben (Hebräer 11,32). Das heißt nicht, dass alles gut war, was er tat. Es heißt: Gott kann auch mit schwachen und fehlerhaften Menschen etwas anfangen, wenn sie ihm am Ende vertrauen.
+> Simson ist der letzte Richter, von dem das Buch erzählt. Die restlichen Kapitel zeigen, wie schlimm es in Israel ohne gute Führung wurde.
+
+## Richter – Kapitel 17
+#### Micha und sein Götterbild
+
+---
+
+### Das gestohlene Silber (Vers 1–6)
+
+<sup>1</sup>Es war ein Mann aus dem Bergland Efraim.
+Sein Name war Micha.
+<sup>2</sup>Er sagte zu seiner Mutter:
+„Die 1100 Silberstücke, die dir weggenommen wurden –
+du hast deswegen einen Fluch ausgesprochen, und das auch vor meinen Ohren –
+schau, das Silber ist bei mir. Ich habe es genommen.“
+Seine Mutter sagte: „Der HERR segne meinen Sohn!“
+<sup>3</sup>Er gab die 1100 Silberstücke seiner Mutter zurück.
+Da sagte seine Mutter:
+„Ich weihe das Silber ganz bestimmt dem HERRN, aus meiner Hand für meinen Sohn,
+um ein geschnitztes Bild und ein gegossenes Bild zu machen.
+Darum gebe ich es dir jetzt zurück.“
+<sup>4</sup>Als er das Geld seiner Mutter zurückgab,
+nahm seine Mutter 200 Silberstücke und gab sie einem Silberschmied.
+Der machte daraus ein geschnitztes Bild und ein gegossenes Bild.
+Es war im Haus von Micha.
+<sup>5</sup>Der Mann Micha hatte ein Haus der Götter.
+Er machte ein Efod und Terafim
+und weihte einen seiner Söhne, der wurde sein Priester.
+<sup>6</sup>In jenen Tagen gab es keinen König in Israel.
+Jeder tat, was in seinen eigenen Augen recht war.
+
+> **Was bedeutet das?**
+> Mit diesem Kapitel beginnt der letzte Teil des Buches. Er erzählt nicht mehr von Richtern, sondern davon, wie Israel innerlich zerfällt.
+> Micha bestiehlt seine eigene Mutter. Erst als sie den Dieb verflucht, bekommt er Angst und gibt das Geld zurück. Die Mutter segnet ihn sofort, um den Fluch aufzuheben.
+> 1100 Silberstücke sind etwa 12 Kilogramm Silber, 200 Silberstücke sind etwa 2,2 Kilogramm. Ein Silberstück war wohl ein Schekel, etwa 11 Gramm. Interessant: Delila bekam in Kapitel 16 von jedem Fürsten genauso viel.
+> Die Mutter will das Silber „dem HERRN“ weihen, und dann macht sie daraus Götterbilder. Genau das hatte Gott verboten: „Du sollst dir kein Bild machen“ (2. Mose 20,4). Sie meint es fromm, aber sie tut das Gegenteil von Gottes Willen. Außerdem gibt sie von 1100 Silberstücken nur 200 dafür her.
+> Ein „Efod“ war hier wohl ein Gegenstand, mit dem man Gott befragte. „Terafim“ waren Hausgötter, kleine Figuren (siehe 1. Mose 31,19).
+> Micha macht seinen eigenen Sohn zum Priester. Aber Priester durften nur die Nachkommen Aarons sein.
+> Vers 6 ist der Schlüssel für die letzten Kapitel des Buches: Jeder macht sich seine eigene Religion und seine eigenen Regeln. Am Ende des Buches kommt dieser Satz noch einmal.
+
+---
+
+### Ein Levit wird Michas Priester (Vers 7–13)
+
+<sup>7</sup>Es war ein junger Mann aus Betlehem in Juda, aus der Sippe Juda.
+Er war ein Levit und wohnte dort als Fremder.
+<sup>8</sup>Der Mann zog aus der Stadt weg, aus Betlehem in Juda,
+um dort zu wohnen, wo er einen Platz finden würde.
+Auf seiner Reise kam er ins Bergland Efraim, zum Haus von Micha.
+<sup>9</sup>Micha fragte ihn: „Woher kommst du?“
+Er sagte zu ihm:
+„Ich bin ein Levit aus Betlehem in Juda.
+Ich suche einen Platz, wo ich wohnen kann.“
+<sup>10</sup>Micha sagte zu ihm:
+„Bleib bei mir.
+Sei mir Vater und Priester.
+Dann gebe ich dir zehn Silberstücke im Jahr, Kleidung und dein Essen.“
+Da ging der Levit hinein.
+<sup>11</sup>Der Levit war bereit, bei dem Mann zu bleiben.
+Und der junge Mann war für ihn wie einer seiner Söhne.
+<sup>12</sup>Micha weihte den Leviten.
+Der junge Mann wurde sein Priester und war im Haus von Micha.
+<sup>13</sup>Da sagte Micha:
+„Jetzt weiß ich, dass der HERR mir Gutes tun wird,
+denn ich habe einen Leviten als Priester.“
+
+> **Was bedeutet das?**
+> Die Leviten hatten kein eigenes Land. Sie sollten in den Levitenstädten wohnen und vom Zehnten des Volkes leben (Josua 21). Dass dieser Levit herumzieht und Arbeit sucht, zeigt: Das Volk hat sich nicht mehr um die Leviten gekümmert.
+> Zehn Silberstücke im Jahr sind etwa 110 Gramm Silber.
+> Micha denkt: Jetzt habe ich einen „echten“ Priester, jetzt muss Gott mich segnen. Er meint, man könnte Gottes Segen mit den richtigen Dingen und Leuten kaufen. Aber er hat Götterbilder in seinem Haus. Gott lässt sich nicht so benutzen.
+> „Vater“ war ein Ehrentitel für einen geistlichen Lehrer.
+
+## Richter – Kapitel 18
+#### Der Stamm Dan sucht ein neues Land
+
+---
+
+### Die Kundschafter bei Micha (Vers 1–6)
+
+<sup>1</sup>In jenen Tagen gab es keinen König in Israel.
+In jenen Tagen suchte sich der Stamm der Daniter ein Erbe, um darin zu wohnen.
+Denn bis zu diesem Tag war ihnen unter den Stämmen Israels kein Erbe zugefallen.
+<sup>2</sup>Die Nachkommen Dans schickten fünf Männer aus ihrer Sippe, aus ihrer ganzen Zahl,
+tapfere Männer, aus Zora und aus Eschtaol,
+um das Land auszukundschaften und zu erforschen.
+Sie sagten zu ihnen: „Geht, erkundet das Land!“
+Sie kamen ins Bergland Efraim, zum Haus von Micha, und übernachteten dort.
+<sup>3</sup>Als sie beim Haus von Micha waren,
+erkannten sie die Stimme des jungen Mannes, des Leviten.
+Sie gingen dorthin und sagten zu ihm:
+„Wer hat dich hierher gebracht?
+Was machst du an diesem Ort?
+Was hast du hier?“
+<sup>4</sup>Er sagte zu ihnen:
+„So und so hat Micha mit mir gehandelt.
+Er hat mich angestellt, und ich bin sein Priester geworden.“
+<sup>5</sup>Sie sagten zu ihm:
+„Bitte frag Gott um Rat, damit wir wissen,
+ob unser Weg, den wir gehen, Erfolg haben wird.“
+<sup>6</sup>Der Priester sagte zu ihnen:
+„Geht in Frieden.
+Euer Weg, den ihr geht, liegt vor den Augen des HERRN.“
+
+> **Was bedeutet das?**
+> Der Stamm Dan hatte eigentlich ein Gebiet bekommen (Josua 19,40–48). Aber er konnte es nicht erobern. Die Amoriter drängten die Daniter ins Gebirge zurück (Richter 1,34). Darum sucht der Stamm jetzt woanders Land.
+> „Kein Erbe war ihnen zugefallen“ heißt: Sie hatten ihr Land noch nicht wirklich in Besitz genommen.
+> Die Kundschafter erkennen die Stimme des Leviten, vielleicht an seiner Aussprache aus dem Süden.
+> Die Antwort des Priesters klingt gut, aber sie ist zweideutig. Sie kann heißen: Gott beschützt euren Weg. Sie kann aber auch nur heißen: Gott sieht, was ihr tut.
+
+---
+
+### Das Land Lajisch (Vers 7–10)
+
+<sup>7</sup>Da gingen die fünf Männer weiter und kamen nach Lajisch.
+Sie sahen das Volk, das dort lebte:
+Es wohnte in Sicherheit, nach der Art der Sidonier, ruhig und sorglos.
+Denn es gab niemand im Land, der Macht hatte und sie in irgendetwas beschämen konnte.
+Und sie waren weit weg von den Sidoniern
+und hatten mit niemand anderem zu tun.
+<sup>8</sup>Sie kamen zu ihren Brüdern nach Zora und Eschtaol.
+Ihre Brüder fragten sie: „Was sagt ihr?“
+<sup>9</sup>Sie sagten:
+„Auf, lasst uns gegen sie hinaufziehen.
+Denn wir haben das Land gesehen, und schau: Es ist sehr gut.
+Und ihr bleibt ruhig sitzen?
+Seid nicht zu träge, hinzugehen und hineinzuziehen, um das Land in Besitz zu nehmen.
+<sup>10</sup>Wenn ihr hingeht, kommt ihr zu einem Volk, das sich sicher fühlt.
+Und das Land ist weit.
+Denn Gott hat es in eure Hand gegeben.
+Es ist ein Ort, an dem es an nichts fehlt, was es auf der Erde gibt.“
+
+> **Was bedeutet das?**
+> Lajisch lag ganz im Norden, am Fuß des Berges Hermon, bei den Quellen des Jordan. Dort ist es grün und wasserreich.
+> Die Sidonier waren ein Volk von Händlern an der Küste, im heutigen Libanon. Die Leute von Lajisch lebten friedlich wie sie. Sie hatten keine Armee und keine Verbündeten.
+> Die Kundschafter sagen: „Gott hat es in eure Hand gegeben.“ Aber das hat Gott nicht gesagt. Lajisch gehörte nicht zu dem Land, das Gott den Danitern zugeteilt hatte. Sie benutzen Gottes Namen für ihre eigenen Pläne.
+> Diese Geschichte erinnert an die Kundschafter des Mose (4. Mose 13). Aber dort war es Gottes Auftrag. Hier ist es nur der Plan eines Stammes.
+
+---
+
+### Die Daniter rauben Michas Götterbilder (Vers 11–20)
+
+<sup>11</sup>Da brachen von dort, aus Zora und Eschtaol, aus der Sippe der Daniter,
+600 Männer auf, mit Kriegswaffen ausgerüstet.
+<sup>12</sup>Sie zogen hinauf und lagerten in Kirjat-Jearim in Juda.
+Darum nennt man diesen Ort bis heute Mahane-Dan.
+Schau, er liegt hinter Kirjat-Jearim.
+<sup>13</sup>Von dort zogen sie weiter ins Bergland Efraim
+und kamen zum Haus von Micha.
+
+<sup>14</sup>Da ergriffen die fünf Männer das Wort,
+die gegangen waren, um das Land Lajisch auszukundschaften.
+Sie sagten zu ihren Brüdern:
+„Wisst ihr, dass es in diesen Häusern ein Efod gibt und Terafim
+und ein geschnitztes Bild und ein gegossenes Bild?
+Darum überlegt jetzt, was ihr tun wollt.“
+<sup>15</sup>Sie gingen dorthin und kamen zum Haus des jungen Leviten, zum Haus von Micha,
+und fragten ihn, wie es ihm geht.
+<sup>16</sup>Die 600 Männer der Nachkommen Dans, mit ihren Kriegswaffen ausgerüstet,
+standen am Eingang des Tores.
+<sup>17</sup>Die fünf Männer, die gegangen waren, um das Land auszukundschaften, gingen hinauf.
+Sie kamen dort hinein und nahmen das geschnitzte Bild, das Efod, die Terafim und das gegossene Bild.
+Und der Priester stand am Eingang des Tores mit den 600 Männern, die mit Kriegswaffen ausgerüstet waren.
+<sup>18</sup>Als diese in Michas Haus gingen
+und das geschnitzte Bild, das Efod, die Terafim und das gegossene Bild nahmen,
+sagte der Priester zu ihnen: „Was macht ihr da?“
+<sup>19</sup>Sie sagten zu ihm:
+„Sei still, leg deine Hand auf deinen Mund und komm mit uns.
+Sei uns Vater und Priester.
+Ist es besser für dich, Priester für das Haus eines einzigen Mannes zu sein,
+oder Priester für einen Stamm und eine Sippe in Israel?“
+<sup>20</sup>Da freute sich das Herz des Priesters.
+Er nahm das Efod, die Terafim und das geschnitzte Bild
+und ging mit dem Volk.
+
+> **Was bedeutet das?**
+> 600 Krieger ziehen mit ihren Familien los. Das war wohl nur ein Teil des Stammes Dan.
+> „Mahane-Dan“ heißt „Lager Dans“. Dieser Ort wurde schon bei Simson genannt (Kapitel 13,25).
+> Die Daniter stehlen die Götterbilder. Micha hatte sie mit gestohlenem Silber bezahlt, jetzt werden sie selbst gestohlen. Niemand fragt: Will Gott solche Bilder überhaupt?
+> Der Levit ist nicht treu. Für eine bessere Stelle verlässt er Micha sofort, der ihn wie einen Sohn aufgenommen hatte. Er „freut sich“ sogar. Es geht ihm um Ansehen und Vorteil, nicht um Gott.
+
+---
+
+### Micha bleibt mit leeren Händen zurück (Vers 21–26)
+
+<sup>21</sup>So wandten sie sich um und zogen weg.
+Die kleinen Kinder, das Vieh und den Besitz ließen sie vor sich herziehen.
+<sup>22</sup>Als sie schon ein gutes Stück vom Haus von Micha entfernt waren,
+versammelten sich die Männer aus den Häusern in der Nähe von Michas Haus
+und holten die Nachkommen Dans ein.
+<sup>23</sup>Sie riefen den Nachkommen Dans nach.
+Die drehten sich um und sagten zu Micha:
+„Was hast du, dass du mit so einer Schar kommst?“
+<sup>24</sup>Er sagte:
+„Ihr habt meine Götter weggenommen, die ich gemacht habe, und den Priester,
+und seid weggegangen!
+Was habe ich denn noch?
+Wie könnt ihr mich da fragen: ‚Was hast du?‘“
+<sup>25</sup>Die Nachkommen Dans sagten zu ihm:
+„Lass deine Stimme bei uns nicht hören.
+Sonst fallen wütende Männer über dich her,
+und du verlierst dein Leben und das Leben deiner Familie.“
+<sup>26</sup>Die Nachkommen Dans gingen ihren Weg.
+Als Micha sah, dass sie stärker waren als er,
+drehte er um und ging zurück in sein Haus.
+
+> **Was bedeutet das?**
+> Michas Klage ist traurig und zugleich fast komisch: „Ihr habt meine Götter weggenommen, die ich gemacht habe!“ Ein Gott, den man selbst gemacht hat und den andere einfach wegtragen können, kann nicht helfen. Die Propheten haben später oft über solche Götter gespottet (zum Beispiel Jesaja 44,9–20).
+> Hier gilt nur noch das Recht des Stärkeren. Niemand schützt Micha. Es gibt keinen König und keinen Richter.
+
+---
+
+### Die Daniter erobern Lajisch (Vers 27–31)
+
+<sup>27</sup>Sie nahmen, was Micha gemacht hatte, und den Priester, den er hatte.
+Sie kamen nach Lajisch, zu einem Volk, das ruhig und sorglos lebte.
+Sie schlugen sie mit der Schärfe des Schwertes
+und verbrannten die Stadt mit Feuer.
+<sup>28</sup>Es gab keinen Retter, denn die Stadt war weit weg von Sidon,
+und sie hatten mit niemand anderem zu tun.
+Sie lag in dem Tal, das bei Bet-Rehob liegt.
+Die Daniter bauten die Stadt wieder auf und wohnten darin.
+<sup>29</sup>Sie gaben der Stadt den Namen Dan,
+nach dem Namen ihres Stammvaters Dan, der Israel geboren worden war.
+Früher aber hieß die Stadt Lajisch.
+
+<sup>30</sup>Die Nachkommen Dans stellten für sich das geschnitzte Bild auf.
+Und Jonatan, der Sohn von Gerschom, dem Sohn von Mose,
+er und seine Söhne waren Priester für den Stamm der Daniter
+bis zu dem Tag, an dem das Land in die Gefangenschaft geführt wurde.
+<sup>31</sup>So stellten sie für sich das geschnitzte Bild auf, das Micha gemacht hatte.
+Es blieb dort die ganze Zeit, solange das Haus Gottes in Schilo war.
+
+> **Was bedeutet das?**
+> Die Daniter überfallen ein friedliches, wehrloses Volk, das niemandem etwas getan hatte. Die Bibel erzählt das ohne Lob. Gott hatte ihnen diesen Auftrag nicht gegeben. Diese Geschichte zeigt, wie tief Israel gesunken war. Sie ist kein Vorbild, sondern eine Warnung.
+> „Israel“ in Vers 29 ist ein anderer Name für Jakob. Dan war einer seiner zwölf Söhne.
+> Die Stadt Dan wurde später die nördlichste Stadt Israels. Man sagte: „von Dan bis Beerscheba“ und meinte damit das ganze Land von Norden bis Süden. Später stellte König Jerobeam dort ein goldenes Stierbild auf (1. Könige 12,29). Dan blieb ein Ort des falschen Gottesdienstes.
+> Jetzt erfahren wir den Namen des Leviten: Jonatan, ein Enkel von Mose. Es ist erschreckend: Schon der Enkel des großen Mose dient Götterbildern.
+> Im hebräischen Text steht hier ein kleiner Buchstabe „n“ über der Zeile. So wird aus „Mose“ der Name „Manasse“. Jüdische Ausleger haben gesagt: Das hat man getan, um die Ehre von Mose zu schützen. Die englische Vorlage hat „Mose“.
+> „Die Gefangenschaft des Landes“ meint wohl die Zeit, als die Assyrer den Norden Israels eroberten und Menschen wegführten (2. Könige 15,29; 17,6).
+> Schilo war der Ort, an dem das Zelt Gottes stand, der rechtmäßige Ort des Gottesdienstes (Josua 18,1). Die Daniter hatten also ihren eigenen Gottesdienst, getrennt vom Haus Gottes.
