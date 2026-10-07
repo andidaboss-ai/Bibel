@@ -31394,3 +31394,338 @@ Und der Fluch Jotams, des Sohnes Jerubbaals, kam über sie.
 > Ein Mühlstein war ein schwerer, runder Stein, mit dem Frauen jeden Tag Getreide mahlten. Ein Werkzeug aus der Küche besiegt den Tyrannen.
 > Abimelech ist sogar im Sterben noch stolz: Niemand soll sagen, dass eine Frau ihn getötet hat. Aber die Bibel erzählt es trotzdem, und viele Jahre später erinnert man sich noch genau daran (2. Samuel 11,21).
 > Am Ende steht klar: Gott hat die Gerechtigkeit wiederhergestellt. Abimelech, der seine Brüder auf einem Stein ermordete, wird selbst durch einen Stein getötet. Wer Gewalt sät, wird Gewalt ernten.
+
+## Richter – Kapitel 10
+#### Tola, Jaïr und Israels Reue
+
+---
+
+### Tola und Jaïr (Vers 1–5)
+
+<sup>1</sup>Nach Abimelech stand Tola auf, um Israel zu retten,
+der Sohn von Pua, dem Sohn von Dodo, ein Mann aus Issachar.
+Er wohnte in Schamir im Bergland Efraim.
+<sup>2</sup>Er richtete Israel 23 Jahre lang.
+Dann starb er und wurde in Schamir begraben.
+<sup>3</sup>Nach ihm stand Jaïr auf, der Gileaditer.
+Er richtete Israel 22 Jahre lang.
+<sup>4</sup>Er hatte dreißig Söhne, die auf dreißig jungen Eseln ritten.
+Sie hatten dreißig Städte, die man bis heute Hawot-Jaïr nennt.
+Sie liegen im Land Gilead.
+<sup>5</sup>Jaïr starb und wurde in Kamon begraben.
+
+> **Was bedeutet das?**
+> Über Tola und Jaïr wird nur wenig erzählt. Man nennt sie die „kleinen Richter“. Sie führten Israel in ruhigeren Zeiten.
+> Dreißig Söhne auf dreißig Eseln: Das zeigt, dass Jaïr reich und mächtig war. Wer auf einem Esel ritt, war ein angesehener Mann.
+> „Hawot-Jaïr“ bedeutet „Zeltdörfer Jaïrs“ (siehe auch 4. Mose 32,41).
+
+---
+
+### Israel dient vielen Göttern (Vers 6–9)
+
+<sup>6</sup>Die Israeliten taten wieder, was in den Augen des HERRN böse war.
+Sie dienten den Baalen und den Astarten,
+den Göttern Syriens, den Göttern Sidons, den Göttern Moabs,
+den Göttern der Ammoniter und den Göttern der Philister.
+Sie verließen den HERRN und dienten ihm nicht.
+<sup>7</sup>Da entbrannte der Zorn des HERRN gegen Israel,
+und er verkaufte sie in die Hand der Philister und in die Hand der Ammoniter.
+<sup>8</sup>Sie bedrängten und unterdrückten die Israeliten in diesem Jahr.
+Achtzehn Jahre lang unterdrückten sie alle Israeliten, die jenseits des Jordan wohnten,
+im Land der Amoriter, das in Gilead liegt.
+<sup>9</sup>Die Ammoniter zogen sogar über den Jordan,
+um auch gegen Juda, gegen Benjamin und gegen das Haus Efraim zu kämpfen.
+Und Israel war in großer Not.
+
+> **Was bedeutet das?**
+> Jetzt wird es schlimmer als je zuvor: Israel dient nicht nur einem fremden Gott, sondern den Göttern von sieben verschiedenen Völkern. Und den HERRN verlassen sie ganz.
+> Zwei Feinde kommen gleichzeitig: im Westen die Philister, im Osten die Ammoniter. Von den Philistern erzählt später die Geschichte von Simson. Von den Ammonitern erzählt die Geschichte von Jiftach.
+
+---
+
+### Gott ist es leid (Vers 10–16)
+
+<sup>10</sup>Da schrien die Israeliten zum HERRN und sagten:
+„Wir haben gegen dich gesündigt,
+denn wir haben unseren Gott verlassen und den Baalen gedient.“
+<sup>11</sup>Der HERR sagte zu den Israeliten:
+„Habe ich euch nicht gerettet vor den Ägyptern, vor den Amoritern, vor den Ammonitern und vor den Philistern?
+<sup>12</sup>Auch die Sidonier, die Amalekiter und die Maoniter haben euch unterdrückt.
+Und ihr habt zu mir geschrien, und ich habe euch aus ihrer Hand gerettet.
+<sup>13</sup>Aber ihr habt mich verlassen und anderen Göttern gedient.
+Darum werde ich euch nicht mehr retten.
+<sup>14</sup>Geht hin und schreit zu den Göttern, die ihr euch erwählt habt.
+Sollen sie euch retten in der Zeit eurer Not!“
+<sup>15</sup>Die Israeliten sagten zum HERRN:
+„Wir haben gesündigt!
+Tu mit uns, was dir gut erscheint.
+Nur rette uns bitte heute!“
+<sup>16</sup>Und sie schafften die fremden Götter aus ihrer Mitte weg und dienten dem HERRN.
+Da konnte seine Seele das Elend Israels nicht länger ertragen.
+
+> **Was bedeutet das?**
+> Diesmal sagt Gott zuerst Nein. Das Volk hat so oft gebettelt und ist dann doch wieder abgefallen. Gott sagt: Ruft doch eure anderen Götter! Das ist bitterer Spott, aber auch ein Schmerz. Gott ist wie ein Vater, der von seinen Kindern immer wieder enttäuscht wird.
+> Aber dann tut das Volk etwas, was es vorher nicht getan hatte: Es schafft die fremden Götter wirklich weg. Es bittet nicht nur, es kehrt um.
+> Und dann steht einer der schönsten Sätze des Buches: „Seine Seele konnte das Elend Israels nicht länger ertragen.“ Gott kann nicht zusehen, wie sein Volk leidet. Seine Liebe ist stärker als sein Zorn.
+> „Maoniter“: Wer damit gemeint ist, ist nicht sicher. Die griechische Übersetzung hat hier „Midianiter“.
+
+---
+
+### Wer wird uns führen? (Vers 17–18)
+
+<sup>17</sup>Da versammelten sich die Ammoniter und lagerten in Gilead.
+Und die Israeliten versammelten sich und lagerten in Mizpa.
+<sup>18</sup>Das Volk, die Anführer Gileads, sagten zueinander:
+„Wer ist der Mann, der anfängt, gegen die Ammoniter zu kämpfen?
+Der soll das Haupt über alle Bewohner Gileads sein.“
+
+> **Was bedeutet das?**
+> Die Armeen stehen sich gegenüber. Aber Israel hat keinen Anführer. Niemand will den Anfang machen. Das nächste Kapitel erzählt, wer dieser Mann wird.
+
+## Richter – Kapitel 11
+#### Jiftach und sein Gelübde
+
+---
+
+### Der verstoßene Sohn (Vers 1–3)
+
+<sup>1</sup>Jiftach, der Gileaditer, war ein tapferer Krieger.
+Er war der Sohn einer Prostituierten.
+Gilead war der Vater Jiftachs.
+<sup>2</sup>Auch die Frau Gileads gebar ihm Söhne.
+Als die Söhne seiner Frau groß wurden, verjagten sie Jiftach und sagten zu ihm:
+„Du sollst im Haus unseres Vaters nicht erben,
+denn du bist der Sohn einer anderen Frau.“
+<sup>3</sup>Da floh Jiftach vor seinen Brüdern und wohnte im Land Tob.
+Und es sammelten sich Ausgestoßene um Jiftach, und sie zogen mit ihm aus.
+
+> **Was bedeutet das?**
+> Jiftach hat einen schweren Start ins Leben: Er ist das Kind einer Prostituierten. Seine Halbbrüder verjagen ihn, damit er nichts erbt. Er wird zum Außenseiter und lebt mit anderen Ausgestoßenen zusammen.
+> Gott gebraucht oft gerade die Menschen, die von anderen verachtet werden.
+
+---
+
+### Die Ältesten holen Jiftach zurück (Vers 4–11)
+
+<sup>4</sup>Nach einiger Zeit führten die Ammoniter Krieg gegen Israel.
+<sup>5</sup>Als die Ammoniter Krieg gegen Israel führten,
+gingen die Ältesten Gileads hin, um Jiftach aus dem Land Tob zu holen.
+<sup>6</sup>Sie sagten zu Jiftach:
+„Komm und sei unser Anführer, damit wir gegen die Ammoniter kämpfen.“
+<sup>7</sup>Jiftach sagte zu den Ältesten Gileads:
+„Habt ihr mich nicht gehasst und aus dem Haus meines Vaters verjagt?
+Warum kommt ihr jetzt zu mir, wo ihr in Not seid?“
+<sup>8</sup>Die Ältesten Gileads sagten zu Jiftach:
+„Darum sind wir jetzt zu dir zurückgekommen.
+Geh mit uns und kämpfe gegen die Ammoniter.
+Dann sollst du unser Haupt über alle Bewohner Gileads sein.“
+<sup>9</sup>Jiftach sagte zu den Ältesten Gileads:
+„Wenn ihr mich zurückholt, um gegen die Ammoniter zu kämpfen,
+und der HERR sie mir preisgibt, soll ich dann euer Haupt sein?“
+<sup>10</sup>Die Ältesten Gileads sagten zu Jiftach:
+„Der HERR soll Zeuge zwischen uns sein.
+Ganz sicher werden wir tun, was du sagst.“
+<sup>11</sup>Da ging Jiftach mit den Ältesten Gileads.
+Und das Volk machte ihn zum Haupt und Anführer über sich.
+Und Jiftach sprach alle seine Worte vor dem HERRN in Mizpa.
+
+> **Was bedeutet das?**
+> Jetzt, in der Not, brauchen sie den Verstoßenen. Jiftach sagt ehrlich: Ihr habt mich weggejagt, und jetzt kommt ihr angekrochen?
+> Er verhandelt klug und lässt sich das Versprechen vor Gott bestätigen. Er weiß, wie schnell Menschen ihre Meinung ändern.
+
+---
+
+### Jiftach verhandelt mit dem König von Ammon (Vers 12–28)
+
+<sup>12</sup>Jiftach schickte Boten zum König der Ammoniter und ließ ihm sagen:
+„Was hast du mit mir zu tun, dass du zu mir gekommen bist, um gegen mein Land zu kämpfen?“
+<sup>13</sup>Der König der Ammoniter antwortete den Boten Jiftachs:
+„Weil Israel mein Land weggenommen hat, als es aus Ägypten heraufzog,
+vom Arnon bis zum Jabbok und bis zum Jordan.
+Darum gib es jetzt friedlich zurück.“
+<sup>14</sup>Jiftach schickte wieder Boten zum König der Ammoniter
+<sup>15</sup>und ließ ihm sagen:
+„So spricht Jiftach:
+Israel hat das Land Moab nicht weggenommen und auch nicht das Land der Ammoniter.
+<sup>16</sup>Sondern als sie aus Ägypten heraufzogen,
+zog Israel durch die Wüste bis zum Roten Meer und kam nach Kadesch.
+<sup>17</sup>Dann schickte Israel Boten zum König von Edom und ließ sagen:
+‚Lass mich doch durch dein Land ziehen.‘
+Aber der König von Edom hörte nicht darauf.
+Ebenso schickte es zum König von Moab, aber er wollte nicht.
+So blieb Israel in Kadesch.
+<sup>18</sup>Dann zogen sie durch die Wüste und gingen um das Land Edom und das Land Moab herum.
+Sie kamen von Osten an das Land Moab und lagerten jenseits des Arnon.
+Aber sie kamen nicht in das Gebiet Moabs, denn der Arnon war die Grenze Moabs.
+<sup>19</sup>Dann schickte Israel Boten zu Sihon, dem König der Amoriter, dem König von Heschbon.
+Und Israel ließ ihm sagen:
+‚Lass uns doch durch dein Land an unseren Ort ziehen.‘
+<sup>20</sup>Aber Sihon vertraute Israel nicht, dass es nur durch sein Gebiet ziehen würde.
+Sondern Sihon versammelte sein ganzes Volk, lagerte in Jahaz und kämpfte gegen Israel.
+<sup>21</sup>Und der HERR, der Gott Israels, gab Sihon und sein ganzes Volk in die Hand Israels,
+und sie schlugen sie.
+So nahm Israel das ganze Land der Amoriter in Besitz, die in diesem Land wohnten.
+<sup>22</sup>Sie nahmen das ganze Gebiet der Amoriter in Besitz,
+vom Arnon bis zum Jabbok und von der Wüste bis zum Jordan.
+<sup>23</sup>Und nun hat der HERR, der Gott Israels, die Amoriter vor seinem Volk Israel vertrieben.
+Und du willst es jetzt besitzen?
+<sup>24</sup>Nimmst du nicht in Besitz, was Kemosch, dein Gott, dir zum Besitz gibt?
+So nehmen auch wir alles in Besitz, was der HERR, unser Gott, vor uns vertrieben hat.
+<sup>25</sup>Und nun, bist du etwa besser als Balak, der Sohn von Zippor, der König von Moab?
+Hat er je mit Israel gestritten, oder hat er je gegen sie gekämpft?
+<sup>26</sup>Israel wohnt in Heschbon und seinen Tochterstädten,
+in Aroër und seinen Tochterstädten
+und in allen Städten am Ufer des Arnon schon dreihundert Jahre lang!
+Warum habt ihr sie in dieser Zeit nicht zurückgeholt?
+<sup>27</sup>Ich habe nicht gegen dich gesündigt,
+sondern du tust mir Unrecht, wenn du gegen mich Krieg führst.
+Der HERR, der Richter, soll heute richten zwischen den Israeliten und den Ammonitern.“
+<sup>28</sup>Aber der König der Ammoniter hörte nicht auf die Worte Jiftachs, die er ihm geschickt hatte.
+
+> **Was bedeutet das?**
+> Bevor Jiftach kämpft, versucht er es mit Worten. Er schickt zweimal Boten und erklärt die Geschichte ausführlich, ganz wie in 4. Mose 20–21 erzählt. Das ist eine der ersten diplomatischen Verhandlungen, die in der Bibel überliefert sind.
+> Seine Argumente: Israel hat das Land nicht den Ammonitern genommen, sondern dem König Sihon, der Israel angegriffen hatte. Und Israel wohnt dort schon seit 300 Jahren. Warum kommt ihr erst jetzt?
+> „Kemosch“ war eigentlich der Gott der Moabiter. Vielleicht verwechselt Jiftach hier die Völker, oder Ammon und Moab waren damals eng verbunden. Jiftach redet hier in der Sprache seines Gegners, ohne zu sagen, dass Kemosch ein echter Gott ist.
+> „Der HERR, der Richter“: Am Ende überlässt Jiftach die Entscheidung Gott. Er ist der eigentliche Richter.
+> „Rotes Meer“: So steht es in der englischen Vorlage. Im Hebräischen steht „Schilfmeer“.
+
+---
+
+### Das schreckliche Gelübde (Vers 29–33)
+
+<sup>29</sup>Da kam der Geist des HERRN über Jiftach.
+Er zog durch Gilead und Manasse, er zog nach Mizpe in Gilead,
+und von Mizpe in Gilead zog er weiter zu den Ammonitern.
+<sup>30</sup>Und Jiftach legte dem HERRN ein Gelübde ab und sagte:
+„Wenn du die Ammoniter wirklich in meine Hand gibst,
+<sup>31</sup>dann soll das, was aus der Tür meines Hauses mir entgegenkommt,
+wenn ich in Frieden von den Ammonitern zurückkehre,
+dem HERRN gehören,
+und ich will es als Brandopfer darbringen.“
+<sup>32</sup>So zog Jiftach zu den Ammonitern, um gegen sie zu kämpfen.
+Und der HERR gab sie in seine Hand.
+<sup>33</sup>Er schlug sie von Aroër bis nach Minnit, zwanzig Städte, und bis nach Abel-Keramim,
+eine sehr große Niederlage.
+So wurden die Ammoniter vor den Israeliten gedemütigt.
+
+> **Was bedeutet das?**
+> Obwohl der Geist des HERRN schon über Jiftach gekommen ist, legt er ein Gelübde ab. Er will Gott etwas versprechen, damit er gewinnt. Das war nicht nötig. Gott hatte ihn schon ausgerüstet.
+> Das Gelübde ist leichtsinnig und schrecklich: „Was mir aus meinem Haus entgegenkommt.“ Damals lebten Tiere oft im Erdgeschoss der Häuser. Vielleicht dachte er an ein Tier. Aber er musste auch damit rechnen, dass ein Mensch herauskommt.
+> Gott hatte Menschenopfer ausdrücklich verboten (3. Mose 18,21; 5. Mose 12,31). Jiftach kannte Gottes Gebote offenbar nicht gut. Er dachte wie die Völker ringsum, die ihren Göttern Menschen opferten.
+
+---
+
+### Jiftachs Tochter (Vers 34–40)
+
+<sup>34</sup>Als Jiftach nach Mizpa zu seinem Haus kam,
+schaut: Da kam seine Tochter heraus, ihm entgegen, mit Tamburinen und Reigentänzen.
+Sie war sein einziges Kind.
+Außer ihr hatte er weder Sohn noch Tochter.
+<sup>35</sup>Als er sie sah, zerriss er seine Kleider und sagte:
+„Ach, meine Tochter! Du hast mich tief gebeugt,
+und du gehörst zu denen, die mich ins Unglück stürzen.
+Denn ich habe meinen Mund vor dem HERRN aufgetan, und ich kann es nicht zurücknehmen.“
+<sup>36</sup>Sie sagte zu ihm:
+„Mein Vater, du hast deinen Mund vor dem HERRN aufgetan.
+Tu mit mir, wie es aus deinem Mund gekommen ist,
+nachdem der HERR dir Rache an deinen Feinden, den Ammonitern, verschafft hat.“
+<sup>37</sup>Und sie sagte zu ihrem Vater:
+„Nur das eine soll mir gewährt werden:
+Lass mich zwei Monate lang allein,
+damit ich hingehe und auf die Berge hinabsteige
+und meine Jungfräulichkeit beweine, ich und meine Freundinnen.“
+<sup>38</sup>Er sagte: „Geh!“
+Und er ließ sie für zwei Monate gehen.
+Sie ging hin mit ihren Freundinnen und beweinte ihre Jungfräulichkeit auf den Bergen.
+<sup>39</sup>Am Ende der zwei Monate kehrte sie zu ihrem Vater zurück.
+Und er tat mit ihr nach seinem Gelübde, das er abgelegt hatte.
+Sie hatte keinen Mann erkannt.
+Und es wurde ein Brauch in Israel,
+<sup>40</sup>dass die Töchter Israels jedes Jahr hingehen, um die Tochter Jiftachs, des Gileaditers, zu feiern, vier Tage im Jahr.
+
+> **Was bedeutet das?**
+> Das ist eine der traurigsten und schrecklichsten Geschichten der Bibel.
+> Seine Tochter, sein einziges Kind, kommt ihm fröhlich entgegen, mit Musik und Tanz, um den Sieg zu feiern. Und Jiftach sagt: „Du stürzt mich ins Unglück.“ Er denkt zuerst an sich selbst, nicht an sie.
+> Die Tochter ist mutiger und würdevoller als ihr Vater. Sie hat nicht einmal einen Namen in der Geschichte. Sie bittet nur um zwei Monate, um mit ihren Freundinnen zu trauern, dass sie nie heiraten und nie Kinder haben wird.
+> Was genau geschah dann? Die Bibel sagt nur: „Er tat mit ihr nach seinem Gelübde.“ Es gibt zwei Deutungen:
+> Viele, auch die meisten alten jüdischen und christlichen Ausleger, verstehen es so, dass Jiftach seine Tochter wirklich geopfert hat. Das war ein furchtbares Verbrechen gegen Gottes Gebot.
+> Andere meinen, er hat sie Gott geweiht, sodass sie nie heiraten durfte und ihr Leben lang im Dienst Gottes lebte. Darauf könnte hinweisen, dass sie ihre „Jungfräulichkeit“ beweint, nicht ihren Tod.
+> Jüdische Gelehrte haben gesagt: Jiftach hätte sein Gelübde nicht halten dürfen. Ein Gelübde, das gegen Gottes Gebot verstößt, gilt nicht. Er hätte zum Priester gehen und es lösen lassen können (3. Mose 27).
+> Die Bibel lobt Jiftach für dieses Gelübde nicht. Gott schweigt in dieser Geschichte. Sie ist eine Warnung: vor leichtsinnigen Versprechen und davor, Gott wie einen Handelspartner zu behandeln. Und sie zeigt, wie weit Israel in dieser Zeit von Gott entfernt war.
+> Die Frauen Israels haben die Tochter Jiftachs nicht vergessen. Jedes Jahr erinnerten sie an sie. So bekommt das namenlose Opfer wenigstens eine Erinnerung.
+
+## Richter – Kapitel 12
+#### Schibbolet – und drei kleine Richter
+
+---
+
+### Streit mit Efraim (Vers 1–4)
+
+<sup>1</sup>Die Männer Efraims wurden zusammengerufen.
+Sie zogen hinüber nach Norden und sagten zu Jiftach:
+„Warum bist du hinübergezogen, um gegen die Ammoniter zu kämpfen,
+und hast uns nicht gerufen, mit dir zu gehen?
+Wir werden dein Haus über dir mit Feuer verbrennen!“
+<sup>2</sup>Jiftach sagte zu ihnen:
+„Ich und mein Volk hatten einen großen Streit mit den Ammonitern.
+Und als ich euch gerufen habe, habt ihr mich nicht aus ihrer Hand gerettet.
+<sup>3</sup>Als ich sah, dass ihr mich nicht rettet,
+da habe ich mein Leben aufs Spiel gesetzt und bin gegen die Ammoniter gezogen.
+Und der HERR hat sie in meine Hand gegeben.
+Warum seid ihr dann heute zu mir heraufgekommen, um gegen mich zu kämpfen?“
+<sup>4</sup>Da versammelte Jiftach alle Männer Gileads und kämpfte gegen Efraim.
+Und die Männer Gileads schlugen Efraim,
+weil sie gesagt hatten:
+„Ihr Gileaditer seid nur Flüchtlinge aus Efraim, mitten in Efraim und mitten in Manasse.“
+
+> **Was bedeutet das?**
+> „Nach Norden“: Das hebräische Wort „Zafon“ kann „Norden“ bedeuten, aber auch eine Stadt mit diesem Namen östlich des Jordan (Josua 13,27).
+> Efraim beschwert sich wieder, wie schon bei Gideon (Kapitel 8,1). Aber Jiftach antwortet nicht so sanft wie Gideon. Er wird zornig.
+> Die Efraimiter beleidigen die Gileaditer: Ihr seid nur Flüchtlinge, Leute ohne richtige Heimat! So ein Spott kann Kriege auslösen.
+> Es kommt zu einem Krieg zwischen Brüdern, Israeliten gegen Israeliten. Das ist ein Zeichen dafür, wie tief Israel gefallen ist.
+
+---
+
+### Das Wort „Schibbolet“ (Vers 5–7)
+
+<sup>5</sup>Die Gileaditer besetzten die Furten des Jordan vor Efraim.
+Wenn dann ein Flüchtling aus Efraim sagte: „Lass mich hinübergehen“,
+dann fragten ihn die Männer Gileads: „Bist du ein Efraimiter?“
+Wenn er sagte: „Nein“,
+<sup>6</sup>dann sagten sie zu ihm: „Sag doch ‚Schibbolet‘.“
+Dann sagte er „Sibbolet“, denn er konnte es nicht richtig aussprechen.
+Dann packten sie ihn und töteten ihn an den Furten des Jordan.
+Damals fielen von Efraim 42.000 Mann.
+<sup>7</sup>Jiftach richtete Israel sechs Jahre lang.
+Dann starb Jiftach, der Gileaditer, und wurde in einer der Städte Gileads begraben.
+
+> **Was bedeutet das?**
+> „Schibbolet“ bedeutet „Ähre“ oder „Strömung“. Die Efraimiter sprachen einen anderen Dialekt. Sie konnten das „sch“ nicht aussprechen und sagten „s“. So konnte man sie an ihrer Aussprache erkennen.
+> Aus dieser Geschichte kommt das Wort „Schibboleth“, das es bis heute in vielen Sprachen gibt, auch im Deutschen. Es bedeutet: ein Erkennungszeichen, an dem man sieht, ob jemand zu einer Gruppe gehört oder nicht.
+> Die Geschichte ist erschreckend: Menschen werden getötet, nur weil sie anders sprechen. Leider ist so etwas in der Geschichte immer wieder geschehen. Die Bibel erzählt es als Zeichen für den Zerfall des Volkes, nicht als Vorbild.
+> Die Zahl 42.000 ist sehr hoch. Das hebräische Wort für „tausend“ kann auch eine kleinere militärische Einheit bedeuten (siehe Josua 8).
+
+---
+
+### Ibzan, Elon und Abdon (Vers 8–15)
+
+<sup>8</sup>Nach ihm richtete Ibzan aus Betlehem Israel.
+<sup>9</sup>Er hatte dreißig Söhne.
+Dreißig Töchter verheiratete er nach außen,
+und dreißig Töchter brachte er von außen für seine Söhne herein.
+Er richtete Israel sieben Jahre lang.
+<sup>10</sup>Ibzan starb und wurde in Betlehem begraben.
+<sup>11</sup>Nach ihm richtete Elon, der Sebuloniter, Israel.
+Er richtete Israel zehn Jahre lang.
+<sup>12</sup>Elon, der Sebuloniter, starb und wurde in Ajalon im Land Sebulon begraben.
+<sup>13</sup>Nach ihm richtete Abdon, der Sohn von Hillel, der Piratoniter, Israel.
+<sup>14</sup>Er hatte vierzig Söhne und dreißig Enkel, die auf siebzig jungen Eseln ritten.
+Er richtete Israel acht Jahre lang.
+<sup>15</sup>Abdon, der Sohn von Hillel, der Piratoniter, starb
+und wurde in Piraton im Land Efraim begraben, im Bergland der Amalekiter.
+
+> **Was bedeutet das?**
+> Wieder drei „kleine Richter“, über die wenig erzählt wird. Sie hatten große Familien und viel Einfluss.
+> Ibzan verheiratete seine Kinder mit Menschen außerhalb seiner Sippe. So knüpfte er Verbindungen und Freundschaften mit anderen Familien. Das stärkte den Frieden.
+> Ob das Betlehem hier das Betlehem in Juda ist oder das in Sebulon (Josua 19,15), ist nicht sicher.
+> Nach diesen ruhigeren Zeiten kommt der bekannteste Richter: Simson.
