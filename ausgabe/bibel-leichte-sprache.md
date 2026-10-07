@@ -31729,3 +31729,413 @@ und wurde in Piraton im Land Efraim begraben, im Bergland der Amalekiter.
 > Ibzan verheiratete seine Kinder mit Menschen außerhalb seiner Sippe. So knüpfte er Verbindungen und Freundschaften mit anderen Familien. Das stärkte den Frieden.
 > Ob das Betlehem hier das Betlehem in Juda ist oder das in Sebulon (Josua 19,15), ist nicht sicher.
 > Nach diesen ruhigeren Zeiten kommt der bekannteste Richter: Simson.
+
+## Richter – Kapitel 13
+#### Ein Engel kündigt Simsons Geburt an
+
+---
+
+### Die Philister herrschen über Israel (Vers 1)
+
+<sup>1</sup>Die Israeliten taten wieder, was in den Augen des HERRN böse war.
+Und der HERR gab sie vierzig Jahre lang in die Hand der Philister.
+
+> **Was bedeutet das?**
+> Wieder beginnt die Geschichte wie so oft im Buch der Richter: Israel wendet sich von Gott ab, und ein fremdes Volk herrscht über das Land.
+> Die Philister wohnten an der Küste im Südwesten, am Mittelmeer. Sie waren ein starkes Volk mit Waffen aus Eisen. Von ihnen hat das Land später den Namen „Palästina“ bekommen.
+> Diesmal steht nichts davon, dass das Volk zu Gott schreit. Trotzdem schickt Gott einen Retter. Gott handelt, bevor das Volk ihn überhaupt bittet.
+
+---
+
+### Der Engel erscheint der Frau (Vers 2–7)
+
+<sup>2</sup>Es gab einen Mann aus Zora, aus der Sippe der Daniter.
+Sein Name war Manoach.
+Seine Frau war unfruchtbar und hatte keine Kinder.
+<sup>3</sup>Der Engel des HERRN erschien der Frau und sagte zu ihr:
+„Schau doch: Du bist unfruchtbar und hast keine Kinder.
+Aber du wirst schwanger werden und einen Sohn bekommen.
+<sup>4</sup>Darum hüte dich jetzt bitte:
+Trink keinen Wein und kein starkes Getränk,
+und iss nichts Unreines.
+<sup>5</sup>Denn schau: Du wirst schwanger werden und einen Sohn bekommen.
+Kein Rasiermesser soll auf seinen Kopf kommen.
+Denn das Kind soll von Mutterleib an ein Nasiräer für Gott sein.
+Er wird anfangen, Israel aus der Hand der Philister zu retten.“
+
+<sup>6</sup>Da ging die Frau zu ihrem Mann und erzählte es ihm:
+„Ein Mann Gottes ist zu mir gekommen.
+Sein Gesicht war wie das Gesicht des Engels Gottes, sehr Ehrfurcht gebietend.
+Ich habe ihn nicht gefragt, woher er kommt,
+und er hat mir seinen Namen nicht gesagt.
+<sup>7</sup>Aber er hat zu mir gesagt:
+‚Schau: Du wirst schwanger werden und einen Sohn bekommen.
+Und jetzt trink keinen Wein und kein starkes Getränk.
+Iss nichts Unreines.
+Denn das Kind soll ein Nasiräer für Gott sein,
+von Mutterleib an bis zum Tag seines Todes.‘“
+
+> **Was bedeutet das?**
+> Zora lag im Hügelland westlich von Jerusalem, nahe am Gebiet der Philister.
+> Eine Frau, die keine Kinder bekommen kann, bekommt durch Gottes Eingreifen doch einen Sohn. Das gibt es in der Bibel öfter: bei Sara, der Mutter von Isaak, bei Rebekka, bei Rahel, später bei Hanna, der Mutter von Samuel, und im Neuen Testament bei Elisabet, der Mutter von Johannes dem Täufer. Es zeigt: Dieses Kind ist ein Geschenk Gottes und hat einen besonderen Auftrag.
+> Die Frau hat in der Geschichte keinen Namen. Aber sie ist es, der der Engel zuerst erscheint.
+> Ein „Nasiräer“ ist ein Mensch, der ganz für Gott ausgesondert ist. Er trinkt keinen Wein, schneidet seine Haare nicht und berührt keine Toten (4. Mose 6). Normalerweise legte man so ein Gelübde für eine bestimmte Zeit ab. Simson aber soll sein ganzes Leben lang Nasiräer sein. Schon die Mutter soll während der Schwangerschaft keinen Wein trinken.
+> „Er wird anfangen, Israel zu retten“: Simson wird die Philister nicht ganz besiegen. Er macht nur einen Anfang. Erst viel später, unter König David, wird Israel ganz von den Philistern frei.
+
+---
+
+### Manoach bittet um einen zweiten Besuch (Vers 8–14)
+
+<sup>8</sup>Da betete Manoach zum HERRN und sagte:
+„Ach, Herr, lass bitte den Mann Gottes, den du geschickt hast, noch einmal zu uns kommen.
+Er soll uns lehren, was wir mit dem Kind tun sollen, das geboren wird.“
+<sup>9</sup>Gott hörte auf die Stimme von Manoach.
+Der Engel Gottes kam noch einmal zu der Frau, als sie auf dem Feld saß.
+Aber Manoach, ihr Mann, war nicht bei ihr.
+<sup>10</sup>Die Frau lief schnell und erzählte es ihrem Mann.
+Sie sagte zu ihm:
+„Schau, der Mann, der neulich zu mir gekommen ist, ist mir erschienen.“
+<sup>11</sup>Manoach stand auf und ging seiner Frau nach.
+Er kam zu dem Mann und sagte zu ihm:
+„Bist du der Mann, der mit meiner Frau geredet hat?“
+Er sagte: „Ich bin es.“
+<sup>12</sup>Manoach sagte:
+„Möge jetzt geschehen, was du gesagt hast.
+Wie soll das Kind leben, und was soll seine Aufgabe sein?“
+<sup>13</sup>Der Engel des HERRN sagte zu Manoach:
+„Vor allem, was ich der Frau gesagt habe, soll sie sich hüten.
+<sup>14</sup>Sie soll nichts essen, was vom Weinstock kommt.
+Sie soll keinen Wein und kein starkes Getränk trinken
+und nichts Unreines essen.
+Sie soll alles halten, was ich ihr befohlen habe.“
+
+> **Was bedeutet das?**
+> Manoach möchte alles richtig machen. Er betet, und Gott hört ihn. Aber der Engel kommt wieder zuerst zur Frau, nicht zu ihm.
+> Manoach fragt nach Regeln für das Kind. Der Engel antwortet nicht mit neuen Regeln. Er sagt nur: Was ich der Frau gesagt habe, das gilt. Die Frau hatte schon alles richtig verstanden.
+> „Starkes Getränk“ meint andere berauschende Getränke, zum Beispiel Bier.
+
+---
+
+### Das Opfer und der Name des Engels (Vers 15–23)
+
+<sup>15</sup>Manoach sagte zum Engel des HERRN:
+„Bitte bleib bei uns.
+Dann wollen wir dir ein junges Ziegenböckchen zubereiten.“
+<sup>16</sup>Der Engel des HERRN sagte zu Manoach:
+„Auch wenn du mich hier festhältst, werde ich nicht von deinem Brot essen.
+Wenn du ein Brandopfer zubereiten willst, dann musst du es dem HERRN opfern.“
+Denn Manoach wusste nicht, dass er der Engel des HERRN war.
+<sup>17</sup>Manoach sagte zum Engel des HERRN:
+„Wie ist dein Name?
+Wenn deine Worte eintreffen, wollen wir dich ehren.“
+<sup>18</sup>Der Engel des HERRN sagte zu ihm:
+„Warum fragst du nach meinem Namen? Er ist unbegreiflich.“
+
+<sup>19</sup>Da nahm Manoach das Ziegenböckchen mit dem Speiseopfer
+und opferte es auf dem Felsen dem HERRN.
+Da tat der Engel etwas Wunderbares, während Manoach und seine Frau zuschauten.
+<sup>20</sup>Denn als die Flamme vom Altar zum Himmel aufstieg,
+stieg der Engel des HERRN in der Flamme des Altars hinauf.
+Manoach und seine Frau sahen es,
+und sie fielen mit dem Gesicht zur Erde.
+<sup>21</sup>Aber der Engel des HERRN erschien Manoach und seiner Frau nicht mehr.
+Da erkannte Manoach, dass es der Engel des HERRN war.
+<sup>22</sup>Manoach sagte zu seiner Frau:
+„Wir müssen sicher sterben, denn wir haben Gott gesehen.“
+<sup>23</sup>Aber seine Frau sagte zu ihm:
+„Wenn der HERR uns hätte töten wollen,
+dann hätte er kein Brandopfer und kein Speiseopfer aus unserer Hand angenommen.
+Dann hätte er uns das alles nicht gezeigt.
+Und er hätte uns jetzt nicht solche Dinge sagen lassen.“
+
+> **Was bedeutet das?**
+> Manoach will den Gast bewirten, wie es Gastfreundschaft verlangt. Er hält ihn für einen Menschen, für einen Propheten. Der Engel lenkt ihn weg von sich selbst: Wenn du etwas geben willst, dann gib es Gott.
+> „Unbegreiflich“: So steht es in der englischen Vorlage. Das hebräische Wort heißt „wunderbar“. Der Name des Engels ist zu groß für Menschen. Dasselbe Wort steht später beim Propheten Jesaja über das verheißene Kind: Es wird „Wunderbar“ heißen (Jesaja 9,5). In Vers 19 steht ein verwandtes Wort: Der Engel tut „etwas Wunderbares“.
+> Manoach bekommt Angst. Man glaubte damals: Wer Gott sieht, muss sterben. Aber seine Frau denkt klar und ruhig: Gott hat unser Opfer angenommen. Er hat uns ein Kind versprochen. Er will uns nicht töten, er will uns segnen. In dieser Geschichte ist die Frau die Klügere.
+
+---
+
+### Simson wird geboren (Vers 24–25)
+
+<sup>24</sup>Die Frau bekam einen Sohn und gab ihm den Namen Simson.
+Das Kind wuchs heran, und der HERR segnete es.
+<sup>25</sup>Der Geist des HERRN fing an, ihn anzutreiben in Mahane-Dan,
+zwischen Zora und Eschtaol.
+
+> **Was bedeutet das?**
+> Der Name Simson (hebräisch „Schimschon“) hängt wohl mit dem hebräischen Wort für „Sonne“ zusammen.
+> „Mahane-Dan“ heißt „Lager Dans“. Der Stamm Dan lebte damals noch in diesem Gebiet, bevor ein Teil nach Norden zog (Kapitel 18).
+> Der Geist Gottes kommt über Simson. Das ist die Quelle seiner Kraft, nicht seine Muskeln. Davon erzählen die nächsten Kapitel.
+
+## Richter – Kapitel 14
+#### Der Löwe, das Rätsel und die Hochzeit
+
+---
+
+### Simson will eine Philisterin heiraten (Vers 1–4)
+
+<sup>1</sup>Simson ging hinab nach Timna.
+In Timna sah er eine Frau, eine von den Töchtern der Philister.
+<sup>2</sup>Er kam herauf und erzählte es seinem Vater und seiner Mutter.
+Er sagte:
+„Ich habe in Timna eine Frau gesehen, eine von den Töchtern der Philister.
+Holt sie mir jetzt zur Frau.“
+<sup>3</sup>Da sagten sein Vater und seine Mutter zu ihm:
+„Gibt es keine Frau unter den Töchtern deiner Brüder
+oder in meinem ganzen Volk,
+dass du hingehst und dir eine Frau von den unbeschnittenen Philistern nimmst?“
+Simson sagte zu seinem Vater:
+„Hol sie mir, denn sie gefällt mir gut.“
+<sup>4</sup>Aber sein Vater und seine Mutter wussten nicht, dass es vom HERRN kam.
+Denn er suchte einen Anlass gegen die Philister.
+Zu dieser Zeit herrschten nämlich die Philister über Israel.
+
+> **Was bedeutet das?**
+> Damals suchten die Eltern die Ehepartner für ihre Kinder aus. Simson aber bestimmt selbst. Er will eine Frau aus dem Volk, das Israel unterdrückt.
+> „Unbeschnitten“: Die Beschneidung war das Zeichen des Bundes mit Gott. Die Philister hatten dieses Zeichen nicht. Die Eltern sorgen sich: Eine Ehe mit einer Frau, die den HERRN nicht kennt, kann vom Glauben wegführen (5. Mose 7,3–4).
+> „Sie gefällt mir gut“ heißt wörtlich auf Hebräisch: „Sie ist recht in meinen Augen.“ Das passt zum großen Thema am Ende des Buches: „Jeder tat, was in seinen eigenen Augen recht war“ (Richter 17,6; 21,25).
+> Vers 4 ist schwer: Gott benutzt sogar Simsons eigenwilligen Wunsch für seinen Plan. Das heißt nicht, dass Gott alles gut findet, was Simson tut. Aber Gott kann auch durch fehlerhafte Menschen handeln.
+
+---
+
+### Simson und der Löwe (Vers 5–9)
+
+<sup>5</sup>Da ging Simson mit seinem Vater und seiner Mutter hinab nach Timna.
+Sie kamen zu den Weinbergen von Timna.
+Und schau: Ein junger Löwe kam ihm brüllend entgegen.
+<sup>6</sup>Da kam der Geist des HERRN mit Macht über ihn.
+Er zerriss den Löwen mit bloßen Händen,
+so wie man ein Ziegenböckchen zerreißt.
+Aber er erzählte seinem Vater und seiner Mutter nicht, was er getan hatte.
+<sup>7</sup>Er ging hinab und redete mit der Frau.
+Und sie gefiel Simson gut.
+
+<sup>8</sup>Nach einiger Zeit kam er zurück, um sie zu holen.
+Er ging vom Weg ab, um sich das tote Tier des Löwen anzusehen.
+Und schau: Im Körper des Löwen war ein Bienenschwarm und Honig.
+<sup>9</sup>Er nahm den Honig in seine Hände
+und ging weiter und aß im Gehen.
+Er kam zu seinem Vater und seiner Mutter und gab ihnen davon, und sie aßen.
+Aber er sagte ihnen nicht, dass er den Honig aus dem Körper des Löwen genommen hatte.
+
+> **Was bedeutet das?**
+> Damals gab es in Israel noch Löwen. Simson tötet einen ohne Waffe. Das schafft er nicht aus eigener Kraft: Der Geist des HERRN kommt über ihn.
+> Simson ist in den Weinbergen. Für einen Nasiräer ist das ein gefährlicher Ort, denn er darf nichts vom Weinstock essen.
+> Dann nimmt Simson Honig aus dem toten Löwen. Ein Nasiräer durfte keine Toten berühren (4. Mose 6,6). Das Gesetz spricht dort von toten Menschen. Aber ein totes Tier machte jeden Israeliten unrein (3. Mose 11,27). Simson nimmt es mit den Regeln nicht genau. Darum verschweigt er es wohl auch seinen Eltern. Er gibt ihnen sogar von dem Honig, ohne es ihnen zu sagen.
+
+---
+
+### Das Hochzeitsfest und das Rätsel (Vers 10–14)
+
+<sup>10</sup>Sein Vater ging hinab zu der Frau.
+Und Simson machte dort ein Festmahl,
+denn so machten es die jungen Männer.
+<sup>11</sup>Als sie ihn sahen, brachten sie dreißig Gefährten, die bei ihm sein sollten.
+<sup>12</sup>Simson sagte zu ihnen:
+„Ich will euch jetzt ein Rätsel aufgeben.
+Wenn ihr mir die Lösung in den sieben Tagen des Festes sagen könnt und sie herausfindet,
+dann gebe ich euch dreißig Leinenhemden und dreißig Festkleider.
+<sup>13</sup>Aber wenn ihr mir die Lösung nicht sagen könnt,
+dann sollt ihr mir dreißig Leinenhemden und dreißig Festkleider geben.“
+Sie sagten zu ihm:
+„Gib uns dein Rätsel auf, damit wir es hören.“
+<sup>14</sup>Er sagte zu ihnen:
+„Vom Fresser kam Speise.
+Vom Starken kam Süßes.“
+Drei Tage lang konnten sie das Rätsel nicht lösen.
+
+> **Was bedeutet das?**
+> Eine Hochzeit wurde damals sieben Tage lang gefeiert. Das Wort für „Festmahl“ bedeutet auf Hebräisch eigentlich „Trinkgelage“. Ob Simson als Nasiräer dort Wein trank, sagt der Text nicht.
+> Die dreißig Gefährten sind Philister. Sie sollen Simson begleiten, aber vielleicht auch bewachen.
+> Ein „Festkleid“ (in der englischen Vorlage „Wechselkleid“) war ein wertvolles Kleidungsstück. Kleidung war damals sehr teuer. Die Wette ging also um viel.
+> Das Rätsel ist eigentlich unfair. Niemand konnte die Lösung wissen, denn niemand hatte gesehen, was mit dem Löwen geschehen war.
+
+---
+
+### Die Frau verrät das Rätsel (Vers 15–18)
+
+<sup>15</sup>Am siebten Tag sagten sie zu Simsons Frau:
+„Überrede deinen Mann, dass er uns das Rätsel verrät.
+Sonst verbrennen wir dich und das Haus deines Vaters mit Feuer.
+Habt ihr uns eingeladen, um uns arm zu machen? Ist es nicht so?“
+<sup>16</sup>Simsons Frau weinte vor ihm und sagte:
+„Du hasst mich ja nur und liebst mich nicht.
+Du hast den Leuten aus meinem Volk ein Rätsel aufgegeben
+und hast es mir nicht verraten.“
+Er sagte zu ihr:
+„Schau, ich habe es nicht einmal meinem Vater und meiner Mutter verraten.
+Warum sollte ich es dir verraten?“
+<sup>17</sup>Sie weinte vor ihm die sieben Tage, solange ihr Fest dauerte.
+Am siebten Tag verriet er es ihr, weil sie ihn so sehr bedrängte.
+Und sie verriet das Rätsel den Leuten aus ihrem Volk.
+<sup>18</sup>Am siebten Tag, bevor die Sonne unterging, sagten die Männer der Stadt zu ihm:
+„Was ist süßer als Honig?
+Was ist stärker als ein Löwe?“
+Er sagte zu ihnen:
+„Hättet ihr nicht mit meiner jungen Kuh gepflügt,
+dann hättet ihr mein Rätsel nicht herausgefunden.“
+
+> **Was bedeutet das?**
+> Die Philister drohen der jungen Frau mit dem Tod. Sie ist in einer schrecklichen Lage: Sie steht zwischen ihrem Mann und ihrem Volk.
+> Vers 15 sagt „am siebten Tag“, Vers 17 sagt, sie weinte „die sieben Tage“. Das passt nicht ganz zusammen. Die alte griechische Übersetzung hat in Vers 15 „am vierten Tag“. Vielleicht weinte die Frau schon die ganze Woche, und am siebten Tag kam die Drohung dazu.
+> „Mit meiner jungen Kuh gepflügt“ ist ein grobes Bild. Simson meint: Ihr habt meine Frau benutzt, um an das Geheimnis zu kommen. So redet man nicht respektvoll über die eigene Frau.
+> Diese Szene wird sich später wiederholen: Wieder wird eine Frau Simson so lange bedrängen, bis er sein Geheimnis verrät (Kapitel 16).
+
+---
+
+### Simson rächt sich in Aschkelon (Vers 19–20)
+
+<sup>19</sup>Da kam der Geist des HERRN mit Macht über ihn.
+Er ging hinab nach Aschkelon und erschlug dreißig Männer von ihnen.
+Er nahm ihnen ab, was er erbeuten konnte,
+und gab die Festkleider denen, die das Rätsel gelöst hatten.
+Sein Zorn brannte, und er ging hinauf in das Haus seines Vaters.
+<sup>20</sup>Aber Simsons Frau wurde seinem Gefährten gegeben,
+der sein Freund gewesen war.
+
+> **Was bedeutet das?**
+> Aschkelon war eine der fünf großen Städte der Philister, am Meer.
+> Simson tötet dreißig unschuldige Männer, nur um seine Wettschuld zu bezahlen. Das ist eine furchtbare Tat. Die Bibel sagt, dass der Geist des HERRN über ihn kam. Das bedeutet: Gott beginnt durch Simson den Kampf gegen die Unterdrücker Israels. Aber die Bibel sagt nicht, dass Simsons Zorn und seine Rache gut sind. Simson ist ein Held mit großen Schwächen.
+> Jüdische und christliche Ausleger haben Simson oft kritisch gesehen: Er war von Gott begabt, aber er lebte nach seinen eigenen Wünschen. Diese Geschichte darf niemals als Vorbild genommen werden, um Rache oder Gewalt zu rechtfertigen.
+> Am Ende verliert Simson seine Frau. Ihr Vater gibt sie einem anderen Mann. Die Hochzeit endet in einer Katastrophe.
+
+## Richter – Kapitel 15
+#### Die Füchse und der Eselskinnbacken
+
+---
+
+### Simson will zu seiner Frau (Vers 1–3)
+
+<sup>1</sup>Aber nach einiger Zeit, in der Zeit der Weizenernte,
+besuchte Simson seine Frau und brachte ein junges Ziegenböckchen mit.
+Er sagte: „Ich will zu meiner Frau in ihr Zimmer gehen.“
+Aber ihr Vater ließ ihn nicht hineingehen.
+<sup>2</sup>Ihr Vater sagte:
+„Ich dachte ganz sicher, dass du sie völlig hasst.
+Darum habe ich sie deinem Gefährten gegeben.
+Ist nicht ihre jüngere Schwester schöner als sie?
+Bitte nimm doch sie an ihrer Stelle.“
+<sup>3</sup>Simson sagte zu ihnen:
+„Diesmal bin ich ohne Schuld gegenüber den Philistern,
+wenn ich ihnen Schaden zufüge.“
+
+> **Was bedeutet das?**
+> Die Weizenernte war im Frühsommer, etwa im Mai oder Juni.
+> Simson kommt zurück, als wäre nichts gewesen. Ein Ziegenböckchen war damals ein Geschenk, wie man es zur Versöhnung mitbrachte.
+> Der Vater hat seine Tochter inzwischen einem anderen Mann gegeben. Jetzt bietet er Simson die jüngere Schwester an, als wären Frauen eine Ware, die man tauschen kann. So war das damals oft. Die Bibel erzählt es, aber sie lobt es nicht.
+
+---
+
+### Die Füchse mit den Fackeln (Vers 4–6)
+
+<sup>4</sup>Simson ging hin und fing dreihundert Füchse.
+Er nahm Fackeln und band je zwei Füchse an den Schwänzen zusammen.
+Zwischen je zwei Schwänze steckte er eine Fackel.
+<sup>5</sup>Er zündete die Fackeln an
+und ließ die Füchse in das stehende Getreide der Philister laufen.
+So verbrannte er die Garben und das stehende Getreide
+und auch die Olivenhaine.
+<sup>6</sup>Da fragten die Philister: „Wer hat das getan?“
+Man sagte: „Simson, der Schwiegersohn des Mannes aus Timna.
+Denn der hat ihm seine Frau weggenommen und sie seinem Gefährten gegeben.“
+Da zogen die Philister hinauf
+und verbrannten die Frau und ihren Vater mit Feuer.
+
+> **Was bedeutet das?**
+> Mit dem Wort für „Füchse“ können auch Schakale gemeint sein. Schakale leben in Rudeln und sind leichter in großer Zahl zu fangen.
+> Zur Erntezeit war das Getreide trocken. Ein Feuer zerstörte die Nahrung für ein ganzes Jahr. Das war ein schwerer Schlag für die Philister.
+> Dann geschieht etwas Furchtbares: Die Philister verbrennen die Frau und ihren Vater. Genau damit hatten sie ihr gedroht (Kapitel 14,15). Die Frau hatte Simsons Geheimnis verraten, um nicht verbrannt zu werden. Jetzt wird sie trotzdem verbrannt. Sie ist das unschuldige Opfer der Gewalt zwischen den Männern.
+
+---
+
+### Rache und Gegenrache (Vers 7–8)
+
+<sup>7</sup>Simson sagte zu ihnen:
+„Wenn ihr so etwas tut,
+dann werde ich mich ganz sicher an euch rächen,
+und danach werde ich aufhören.“
+<sup>8</sup>Er schlug sie Hüfte und Schenkel, in einem großen Gemetzel.
+Und er ging hinab und wohnte in der Höhle im Felsen von Etam.
+
+> **Was bedeutet das?**
+> „Hüfte und Schenkel schlagen“ ist eine alte Redewendung. Sie bedeutet: Er schlug sie vernichtend.
+> Hier sieht man, wie Rache immer neue Rache erzeugt: Simson verbrennt die Felder, die Philister verbrennen die Frau, Simson tötet viele Philister, und die Philister ziehen gegen Juda. Simson sagt: „Danach höre ich auf.“ Aber die Gewalt hört nicht auf.
+> Die Bibel zeigt hier ehrlich, wohin Rache führt. Später lehrt die Bibel einen anderen Weg: „Räche dich nicht“ (3. Mose 19,18), und Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
+
+---
+
+### Die Männer von Juda liefern Simson aus (Vers 9–13)
+
+<sup>9</sup>Da zogen die Philister hinauf,
+lagerten sich in Juda und breiteten sich in Lehi aus.
+<sup>10</sup>Die Männer von Juda fragten: „Warum seid ihr gegen uns heraufgezogen?“
+Sie sagten:
+„Wir sind heraufgezogen, um Simson zu fesseln.
+Wir wollen ihm tun, wie er uns getan hat.“
+<sup>11</sup>Da gingen dreitausend Männer von Juda hinab zur Höhle im Felsen von Etam.
+Sie sagten zu Simson:
+„Weißt du nicht, dass die Philister über uns herrschen?
+Was hast du uns da angetan?“
+Er sagte zu ihnen:
+„Wie sie mir getan haben, so habe ich ihnen getan.“
+<sup>12</sup>Sie sagten zu ihm:
+„Wir sind herabgekommen, um dich zu fesseln
+und dich in die Hand der Philister zu geben.“
+Simson sagte zu ihnen:
+„Schwört mir, dass ihr selbst nicht über mich herfallt.“
+<sup>13</sup>Sie sagten zu ihm:
+„Nein, wir wollen dich nur fest fesseln und dich in ihre Hand geben.
+Aber töten werden wir dich ganz sicher nicht.“
+Sie fesselten ihn mit zwei neuen Seilen
+und brachten ihn vom Felsen herauf.
+
+> **Was bedeutet das?**
+> Das ist eine traurige Szene: Die Männer aus Juda kämpfen nicht gegen die Unterdrücker. Sie haben sich mit der Herrschaft der Philister abgefunden. Lieber liefern sie ihren eigenen Landsmann aus, als Ärger zu bekommen. Dreitausend Männer kommen, um einen einzigen zu fesseln.
+> Früher hatte Juda als erster Stamm gegen die Kanaaniter gekämpft (Kapitel 1). Jetzt will Juda nur noch Ruhe.
+> Simson wehrt sich nicht gegen seine eigenen Leute. Er lässt sich fesseln.
+> „Lehi“ heißt auf Hebräisch „Kinnbacken“. Das passt zu dem, was jetzt kommt.
+
+---
+
+### Der Eselskinnbacken (Vers 14–17)
+
+<sup>14</sup>Als er nach Lehi kam, liefen die Philister ihm mit Geschrei entgegen.
+Da kam der Geist des HERRN mit Macht über ihn.
+Die Seile an seinen Armen wurden wie Flachs, der im Feuer verbrannt ist.
+Und seine Fesseln fielen von seinen Händen ab.
+<sup>15</sup>Er fand einen frischen Kinnbacken von einem Esel.
+Er streckte seine Hand aus, nahm ihn und erschlug damit tausend Männer.
+<sup>16</sup>Simson sagte:
+„Mit dem Kinnbacken eines Esels: Haufen über Haufen.
+Mit dem Kinnbacken eines Esels habe ich tausend Männer erschlagen.“
+<sup>17</sup>Als er fertig geredet hatte, warf er den Kinnbacken aus seiner Hand.
+Und man nannte diesen Ort Ramat-Lehi.
+
+> **Was bedeutet das?**
+> Ein „frischer“ Kinnbacken war noch nicht ausgetrocknet und brüchig, sondern hart und schwer.
+> Wieder berührt Simson etwas Totes. Für einen Nasiräer ist das eigentlich verboten.
+> Simsons Spruch ist ein Wortspiel: Auf Hebräisch klingen „Esel“ und „Haufen“ gleich: „chamor“. Das ist wie ein kleines Siegeslied.
+> „Ramat-Lehi“ heißt „Höhe des Kinnbackens“.
+> Simson sagt: „Ich habe erschlagen.“ Er spricht nur von sich, nicht von Gott. Aber die Bibel macht klar: Die Kraft kam vom Geist des HERRN.
+
+---
+
+### Gott gibt Wasser (Vers 18–20)
+
+<sup>18</sup>Er hatte großen Durst.
+Er rief zum HERRN und sagte:
+„Du hast durch die Hand deines Dieners diese große Rettung gegeben.
+Und jetzt soll ich vor Durst sterben
+und in die Hände der Unbeschnittenen fallen?“
+<sup>19</sup>Aber Gott spaltete die Mulde, die in Lehi ist,
+und Wasser kam daraus hervor.
+Als er getrunken hatte, kam sein Lebensgeist zurück, und er lebte wieder auf.
+Darum nannte man die Quelle En-Hakkore.
+Sie ist in Lehi bis zum heutigen Tag.
+<sup>20</sup>Er war zwanzig Jahre lang Richter in Israel, in den Tagen der Philister.
+
+> **Was bedeutet das?**
+> Zum ersten Mal betet Simson. Er merkt: Ohne Gott ist er nur ein schwacher Mensch, der verdursten kann. Der starke Held braucht Hilfe.
+> Gott antwortet sofort. Er lässt Wasser aus dem Boden kommen, so wie damals in der Wüste für Israel.
+> „En-Hakkore“ heißt „Quelle des Rufenden“. Der Name erinnert daran: Simson hat zu Gott gerufen, und Gott hat geantwortet.
+> Vers 20 sagt, dass Simson zwanzig Jahre lang Richter war. Er hat die Philister nicht vertrieben. Sie blieben an der Macht. Aber er war für sie eine ständige Gefahr. Dieser Satz steht hier wie ein Abschluss, und er wird am Ende von Kapitel 16 noch einmal wiederholt.
