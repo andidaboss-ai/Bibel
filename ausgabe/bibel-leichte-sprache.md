@@ -28331,3 +28331,320 @@ denn der HERR, der Gott Israels, kämpfte für Israel.
 > Das „Land Goschen“ hier ist nicht das Goschen in Ägypten, sondern eine Gegend im Süden des Landes Kanaan mit demselben Namen.
 > „Auf einmal“ heißt wohl: in einem einzigen Feldzug. In Kapitel 11,18 steht aber, dass Josua „lange Zeit“ Krieg führte. Der Bericht fasst vieles zusammen.
 > Der wichtigste Satz für den Erzähler ist: „Der HERR kämpfte für Israel.“ Nicht die eigene Stärke hat gesiegt, sondern Gott. Aber wir wissen aus Kapitel 5: Gott ist nicht einfach auf einer Seite. Man muss auf seiner Seite stehen.
+
+## Josua – Kapitel 11
+#### Der Sieg im Norden
+
+---
+
+### Die Könige des Nordens verbünden sich (Vers 1–5)
+
+<sup>1</sup>Als Jabin, der König von Hazor, davon hörte,
+schickte er zu Jobab, dem König von Madon, zum König von Schimron, zum König von Achschaf
+<sup>2</sup>und zu den Königen, die im Norden wohnten, im Bergland, in der Araba südlich von Kinnerot,
+im Hügelland und auf den Höhen von Dor im Westen,
+<sup>3</sup>zu den Kanaanitern im Osten und im Westen, zu den Amoritern, den Hetitern, den Perisitern,
+den Jebusitern im Bergland
+und den Hiwitern unterhalb des Hermon im Land Mizpa.
+<sup>4</sup>Sie zogen aus, sie und alle ihre Heere mit ihnen,
+viel Volk, so zahlreich wie der Sand am Ufer des Meeres,
+mit sehr vielen Pferden und Streitwagen.
+<sup>5</sup>Alle diese Könige trafen sich.
+Sie kamen und lagerten gemeinsam an den Wassern von Merom, um gegen Israel zu kämpfen.
+
+> **Was bedeutet das?**
+> Nach dem Süden kommt der Norden. Hazor war die größte Stadt im Land Kanaan. Archäologen haben dort riesige Ruinen gefunden.
+> Die Gegner haben Pferde und Streitwagen, die modernsten Waffen ihrer Zeit. Israel hatte so etwas nicht.
+> „Kinnerot“ ist der See Genezareth.
+
+---
+
+### Der Sieg an den Wassern von Merom (Vers 6–9)
+
+<sup>6</sup>Der HERR sagte zu Josua:
+„Hab keine Angst vor ihnen.
+Denn morgen um diese Zeit will ich sie alle erschlagen vor Israel daliegen lassen.
+Ihre Pferde sollst du lähmen, und ihre Streitwagen sollst du mit Feuer verbrennen.“
+<sup>7</sup>Da kam Josua mit allen Kriegern plötzlich über sie, an den Wassern von Merom, und griff sie an.
+<sup>8</sup>Und der HERR gab sie in die Hand Israels.
+Sie schlugen sie und verfolgten sie bis zum großen Sidon und bis Misrefot-Majim
+und bis in das Tal Mizpa im Osten.
+Sie schlugen sie, bis niemand von ihnen übrig blieb.
+<sup>9</sup>Josua tat mit ihnen, wie der HERR es ihm gesagt hatte.
+Ihre Pferde lähmte er, und ihre Streitwagen verbrannte er mit Feuer.
+
+> **Was bedeutet das?**
+> „Die Pferde lähmen“: Man durchtrennte eine Sehne am Bein, damit sie nicht mehr für den Krieg taugten. Das ist grausam gegenüber den Tieren.
+> Warum sollte Israel die Pferde und Wagen nicht behalten? Israel sollte nicht auf Waffen vertrauen, sondern auf Gott. Das sagt auch das Gesetz für den König (5. Mose 17,16) und Psalm 20,8: „Die einen vertrauen auf Wagen, die anderen auf Pferde. Wir aber denken an den Namen des HERRN, unseres Gottes.“
+
+---
+
+### Hazor wird zerstört (Vers 10–15)
+
+<sup>10</sup>Josua kehrte damals um und nahm Hazor ein.
+Und seinen König erschlug er mit dem Schwert.
+Denn Hazor war früher das Haupt all dieser Königreiche.
+<sup>11</sup>Sie erschlugen alle Menschen, die darin waren, mit der Schärfe des Schwertes
+und vollstreckten an ihnen den Bann.
+Es blieb niemand übrig, der atmete.
+Und Hazor verbrannte er mit Feuer.
+<sup>12</sup>Alle Städte dieser Könige und alle ihre Könige nahm Josua ein.
+Er schlug sie mit der Schärfe des Schwertes und vollstreckte an ihnen den Bann,
+wie Mose, der Knecht des HERRN, es geboten hatte.
+<sup>13</sup>Aber die Städte, die auf ihren Hügeln standen, verbrannte Israel nicht.
+Nur Hazor allein verbrannte Josua.
+<sup>14</sup>Die ganze Beute dieser Städte und das Vieh nahmen die Israeliten als Beute für sich.
+Aber alle Menschen erschlugen sie mit der Schärfe des Schwertes, bis sie sie vernichtet hatten.
+Sie ließen niemanden übrig, der atmete.
+<sup>15</sup>Wie der HERR es Mose, seinem Knecht, geboten hatte, so hatte Mose es Josua geboten.
+Und so tat es Josua.
+Er ließ nichts ungetan von allem, was der HERR Mose geboten hatte.
+
+> **Was bedeutet das?**
+> „Städte auf ihren Hügeln“: Alte Städte wurden immer wieder auf den Trümmern der früheren Städte gebaut. So entstanden Hügel, die man heute „Tell“ nennt.
+> Archäologen haben in Hazor eine dicke Brandschicht gefunden, aus der Zeit um 1200 vor Christus. Wer die Stadt damals zerstört hat, ist aber umstritten.
+> Auch hier gilt: Die Berichte von der Vernichtung ganzer Städte sind schwer zu ertragen. Sie gehören zu ihrer Zeit und dürfen niemals Gewalt rechtfertigen.
+
+---
+
+### Das ganze Land wird eingenommen (Vers 16–20)
+
+<sup>16</sup>So nahm Josua dieses ganze Land ein:
+das Bergland, den ganzen Süden, das ganze Land Goschen, das Hügelland, die Araba,
+das Bergland Israels und sein Hügelland,
+<sup>17</sup>vom kahlen Berg, der nach Seïr ansteigt, bis nach Baal-Gad im Tal des Libanon unterhalb des Berges Hermon.
+Alle ihre Könige nahm er gefangen, schlug sie und tötete sie.
+<sup>18</sup>Lange Zeit führte Josua Krieg mit all diesen Königen.
+<sup>19</sup>Es gab keine Stadt, die mit den Israeliten Frieden schloss,
+außer den Hiwitern, die in Gibeon wohnten.
+Alle anderen nahmen sie im Kampf ein.
+<sup>20</sup>Denn es kam vom HERRN, dass er ihre Herzen verhärtete,
+damit sie Israel zum Kampf entgegenzogen
+und damit er an ihnen den Bann vollstreckte,
+damit sie keine Gnade fanden, sondern damit er sie vernichtete,
+wie der HERR es Mose geboten hatte.
+
+> **Was bedeutet das?**
+> „Der kahle Berg“ heißt auf Hebräisch „Halak“. In der englischen Vorlage steht der Name „Mount Halak“.
+> „Lange Zeit“: Die Eroberung dauerte nicht ein paar Tage, sondern viele Jahre. Jüdische Ausleger rechneten etwa sieben Jahre.
+> Vers 19 ist bemerkenswert: Frieden wäre möglich gewesen. Die Gibeoniter haben es gezeigt. Aber keine andere Stadt hat diesen Weg gewählt.
+> „Gott verhärtete ihre Herzen“: Das ist schwer zu verstehen. Ähnlich wurde es beim Pharao gesagt. Die Bibel will damit sagen: Auch der Widerstand der Völker lag nicht außerhalb von Gottes Plan. Das heißt nicht, dass die Menschen keine Wahl hatten. Rahab und die Gibeoniter haben anders gewählt.
+
+---
+
+### Die Anakiter (Vers 21–23)
+
+<sup>21</sup>Damals kam Josua und rottete die Anakiter aus im Bergland,
+in Hebron, in Debir, in Anab, im ganzen Bergland Juda und im ganzen Bergland Israel.
+Josua vollstreckte an ihnen und an ihren Städten den Bann.
+<sup>22</sup>Im Land der Israeliten blieben keine Anakiter übrig.
+Nur in Gaza, in Gat und in Aschdod blieben einige übrig.
+<sup>23</sup>So nahm Josua das ganze Land ein,
+ganz so, wie der HERR es Mose gesagt hatte.
+Und Josua gab es Israel als Erbe, nach ihren Abteilungen, nach ihren Stämmen.
+Und das Land hatte Ruhe vom Krieg.
+
+> **Was bedeutet das?**
+> Die Anakiter waren die „Riesen“, vor denen die Kundschafter vor 40 Jahren so große Angst hatten (4. Mose 13,33). Jetzt sind sie besiegt.
+> In Gat blieben einige übrig. Aus Gat kam später der Riese Goliat, den David besiegte (1. Samuel 17,4).
+> „Das ganze Land“: Das ist eine Zusammenfassung. Gleich in Kapitel 13 steht, dass noch sehr viel Land übrig ist. Der Erzähler meint: Die großen Kämpfe sind vorbei, die wichtigsten Gebiete gehören Israel.
+> „Das Land hatte Ruhe vom Krieg“: Endlich Frieden. Jetzt kann das Land verteilt werden.
+
+## Josua – Kapitel 12
+#### Die Liste der besiegten Könige
+
+---
+
+### Die Könige östlich des Jordan (Vers 1–6)
+
+<sup>1</sup>Das sind die Könige des Landes, die die Israeliten geschlagen haben
+und deren Land sie in Besitz genommen haben,
+jenseits des Jordan im Osten, wo die Sonne aufgeht,
+vom Tal des Arnon bis zum Berg Hermon, und die ganze Araba im Osten:
+<sup>2</sup>Sihon, der König der Amoriter, der in Heschbon wohnte.
+Er herrschte von Aroër an, das am Rand des Arnontales liegt,
+und von der Mitte des Tales an, über das halbe Gilead bis zum Fluss Jabbok, der Grenze der Ammoniter,
+<sup>3</sup>und über die Araba bis zum See Kinnerot im Osten
+und bis zum Meer der Araba, dem Salzmeer, im Osten, auf dem Weg nach Bet-Jeschimot,
+und im Süden bis unterhalb der Hänge des Pisga.
+<sup>4</sup>Und das Gebiet von Og, dem König von Baschan,
+einem der Letzten der Refaiter, der in Aschtarot und in Edreï wohnte.
+<sup>5</sup>Er herrschte über den Berg Hermon, über Salcha und ganz Baschan
+bis zur Grenze der Geschuriter und der Maachatiter,
+und über das halbe Gilead bis zur Grenze von Sihon, dem König von Heschbon.
+<sup>6</sup>Mose, der Knecht des HERRN, und die Israeliten hatten sie geschlagen.
+Und Mose, der Knecht des HERRN, gab es den Rubeniten, den Gaditen und dem halben Stamm Manasse als Besitz.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist wie eine Siegesliste. Zuerst werden die beiden Könige östlich des Jordan genannt, die schon zur Zeit von Mose besiegt wurden (4. Mose 21; 5. Mose 2–3).
+
+---
+
+### Die Könige westlich des Jordan (Vers 7–24)
+
+<sup>7</sup>Und das sind die Könige des Landes, die Josua und die Israeliten geschlagen haben,
+jenseits des Jordan im Westen,
+von Baal-Gad im Tal des Libanon bis zum kahlen Berg, der nach Seïr ansteigt.
+Josua gab es den Stämmen Israels als Besitz, nach ihren Abteilungen,
+<sup>8</sup>im Bergland, im Hügelland, in der Araba, an den Abhängen, in der Wüste und im Süden,
+das Land der Hetiter, der Amoriter, der Kanaaniter, der Perisiter, der Hiwiter und der Jebusiter:
+<sup>9</sup>der König von Jericho: einer.
+Der König von Ai, das neben Bethel liegt: einer.
+<sup>10</sup>Der König von Jerusalem: einer.
+Der König von Hebron: einer.
+<sup>11</sup>Der König von Jarmut: einer.
+Der König von Lachisch: einer.
+<sup>12</sup>Der König von Eglon: einer.
+Der König von Geser: einer.
+<sup>13</sup>Der König von Debir: einer.
+Der König von Geder: einer.
+<sup>14</sup>Der König von Horma: einer.
+Der König von Arad: einer.
+<sup>15</sup>Der König von Libna: einer.
+Der König von Adullam: einer.
+<sup>16</sup>Der König von Makkeda: einer.
+Der König von Bethel: einer.
+<sup>17</sup>Der König von Tappuach: einer.
+Der König von Hefer: einer.
+<sup>18</sup>Der König von Afek: einer.
+Der König von Lascharon: einer.
+<sup>19</sup>Der König von Madon: einer.
+Der König von Hazor: einer.
+<sup>20</sup>Der König von Schimron-Meron: einer.
+Der König von Achschaf: einer.
+<sup>21</sup>Der König von Taanach: einer.
+Der König von Megiddo: einer.
+<sup>22</sup>Der König von Kedesch: einer.
+Der König von Jokneam am Karmel: einer.
+<sup>23</sup>Der König von Dor auf den Höhen von Dor: einer.
+Der König der Völker in Gilgal: einer.
+<sup>24</sup>Der König von Tirza: einer.
+Zusammen 31 Könige.
+
+> **Was bedeutet das?**
+> Die Liste zählt 31 Könige auf. Damals hatte fast jede größere Stadt ihren eigenen „König“, eher so etwas wie ein Stadtfürst. Das Land war in viele kleine Stadtstaaten aufgeteilt.
+> Manche dieser Könige werden in den Kapiteln vorher nicht erwähnt, zum Beispiel Bethel, Megiddo oder Tirza. Die Liste fasst also mehr zusammen, als erzählt wurde.
+> Einige Städte wie Jerusalem, Geser und Megiddo wurden in Wirklichkeit erst viel später von Israel eingenommen (Richter 1,21.27–29; 2. Samuel 5,6–9; 1. Könige 9,16). Hier wurden ihre Könige zwar besiegt, aber die Städte selbst blieben in den Händen der Kanaaniter.
+> „Der König der Völker in Gilgal“: In der englischen Vorlage steht „Goiim in Gilgal“. „Goiim“ heißt „Völker“. Es ist vielleicht ein anderer Ort als das Gilgal am Jordan.
+> Die Liste zeigt: Gott hat sein Versprechen gehalten. Das Land, das er Abraham versprochen hat, gehört jetzt Israel.
+
+## Josua – Kapitel 13
+#### Was noch übrig ist – das Land östlich des Jordan
+
+---
+
+### Es ist noch viel Land übrig (Vers 1–7)
+
+<sup>1</sup>Josua war alt und hochbetagt.
+Da sagte der HERR zu ihm:
+„Du bist alt und hochbetagt,
+und es bleibt noch sehr viel Land übrig, das in Besitz genommen werden muss.
+<sup>2</sup>Das ist das Land, das noch übrig ist:
+alle Gebiete der Philister und das ganze Gebiet der Geschuriter,
+<sup>3</sup>vom Schihor, der östlich von Ägypten liegt, bis zur Grenze von Ekron im Norden,
+das zu den Kanaanitern gerechnet wird:
+die fünf Fürsten der Philister, der von Gaza, der von Aschdod, der von Aschkelon, der von Gat und der von Ekron,
+und auch die Awiter
+<sup>4</sup>im Süden.
+Dazu das ganze Land der Kanaaniter und Meara, das den Sidoniern gehört,
+bis nach Afek, bis zur Grenze der Amoriter,
+<sup>5</sup>und das Land der Gebaliter und der ganze Libanon im Osten,
+von Baal-Gad unterhalb des Berges Hermon bis nach Lebo-Hamat,
+<sup>6</sup>alle Bewohner des Berglandes, vom Libanon bis Misrefot-Majim, alle Sidonier.
+Ich selbst werde sie vor den Israeliten vertreiben.
+Verteile das Land nur durch das Los an Israel als Erbe, wie ich es dir geboten habe.
+<sup>7</sup>Und nun verteile dieses Land als Erbe an die neun Stämme und den halben Stamm Manasse.“
+
+> **Was bedeutet das?**
+> Josua ist alt geworden. Er hat viel erreicht, aber nicht alles. Es bleibt viel Land übrig, vor allem an der Küste (bei den Philistern) und im Norden (im Libanon).
+> Gott sagt: Verteile das Land trotzdem schon. Ich selbst werde den Rest übernehmen. Josua muss nicht alles vollenden. Gott sorgt für das, was nach ihm kommt.
+> Die Philister lebten in fünf großen Städten an der Küste. Sie waren später lange die gefährlichsten Feinde Israels, zur Zeit von Simson, Saul und David.
+> „Lebo-Hamat“: In der englischen Vorlage steht „der Eingang von Hamat“.
+> „Gebaliter“ sind die Leute aus Gebal, der Stadt Byblos im heutigen Libanon.
+
+---
+
+### Das Erbe östlich des Jordan (Vers 8–14)
+
+<sup>8</sup>Mit ihm hatten die Rubeniten und die Gaditen ihr Erbe erhalten,
+das Mose ihnen jenseits des Jordan im Osten gegeben hatte,
+so wie Mose, der Knecht des HERRN, es ihnen gegeben hatte:
+<sup>9</sup>von Aroër an, das am Rand des Arnontales liegt,
+und die Stadt mitten im Tal,
+und die ganze Hochebene von Medeba bis nach Dibon,
+<sup>10</sup>und alle Städte von Sihon, dem König der Amoriter, der in Heschbon regierte,
+bis zur Grenze der Ammoniter,
+<sup>11</sup>und Gilead und das Gebiet der Geschuriter und der Maachatiter,
+den ganzen Berg Hermon und ganz Baschan bis nach Salcha,
+<sup>12</sup>das ganze Königreich von Og in Baschan, der in Aschtarot und in Edreï regierte.
+Er war vom Rest der Refaiter übrig geblieben.
+Mose hatte sie geschlagen und vertrieben.
+<sup>13</sup>Aber die Israeliten vertrieben die Geschuriter und die Maachatiter nicht.
+Darum wohnen Geschur und Maacha mitten in Israel bis heute.
+<sup>14</sup>Nur dem Stamm Levi gab er kein Erbe.
+Die Feueropfer des HERRN, des Gottes Israels, sind sein Erbe, wie er es ihm gesagt hatte.
+
+> **Was bedeutet das?**
+> „Mit ihm“: Gemeint ist der andere halbe Stamm Manasse, der östlich des Jordan wohnte.
+> Vers 13 ist ehrlich: Nicht alle Völker wurden vertrieben. Sie lebten weiter mitten in Israel. Später heiratete König David eine Prinzessin aus Geschur. Ihr Sohn war Absalom (2. Samuel 3,3).
+> Der Stamm Levi bekommt kein Land. Er hat Gott selbst als Erbe. Das wird in diesem Kapitel zweimal gesagt.
+
+---
+
+### Das Gebiet von Ruben (Vers 15–23)
+
+<sup>15</sup>Mose gab dem Stamm der Rubeniten Land nach ihren Sippen.
+<sup>16</sup>Ihr Gebiet reichte von Aroër an, das am Rand des Arnontales liegt,
+und die Stadt mitten im Tal und die ganze Hochebene bei Medeba,
+<sup>17</sup>Heschbon und alle seine Städte auf der Hochebene:
+Dibon, Bamot-Baal, Bet-Baal-Meon,
+<sup>18</sup>Jahaz, Kedemot, Mefaat,
+<sup>19</sup>Kirjatajim, Sibma, Zeret-Schahar auf dem Berg im Tal,
+<sup>20</sup>Bet-Peor, die Hänge des Pisga, Bet-Jeschimot,
+<sup>21</sup>alle Städte der Hochebene und das ganze Königreich von Sihon, dem König der Amoriter, der in Heschbon regierte.
+Ihn hatte Mose geschlagen, zusammen mit den Fürsten von Midian,
+Ewi, Rekem, Zur, Hur und Reba, den Fürsten von Sihon, die im Land wohnten.
+<sup>22</sup>Auch Bileam, den Sohn von Beor, den Wahrsager,
+töteten die Israeliten mit dem Schwert, zusammen mit den anderen Erschlagenen.
+<sup>23</sup>Die Grenze der Rubeniten war das Ufer des Jordan.
+Das ist das Erbe der Rubeniten nach ihren Sippen, die Städte und ihre Dörfer.
+
+> **Was bedeutet das?**
+> Bileam wird hier „Wahrsager“ genannt. Er hatte Israel gesegnet, als er es verfluchen sollte (4. Mose 22–24). Aber später hatte er den Midianitern geraten, Israel zum Götzendienst zu verführen. Darum starb er im Krieg gegen Midian (4. Mose 31,8.16).
+
+---
+
+### Das Gebiet von Gad (Vers 24–28)
+
+<sup>24</sup>Mose gab dem Stamm Gad, den Gaditen, Land nach ihren Sippen.
+<sup>25</sup>Ihr Gebiet war Jaser und alle Städte Gileads
+und das halbe Land der Ammoniter bis nach Aroër, das gegenüber von Rabba liegt,
+<sup>26</sup>und von Heschbon bis nach Ramat-Mizpe und Betonim,
+und von Mahanajim bis zum Gebiet von Debir,
+<sup>27</sup>und im Tal: Bet-Haram, Bet-Nimra, Sukkot und Zafon,
+der Rest des Königreichs von Sihon, dem König von Heschbon,
+das Ufer des Jordan bis zum Ende des Sees Kinneret, jenseits des Jordan im Osten.
+<sup>28</sup>Das ist das Erbe der Gaditen nach ihren Sippen, die Städte und ihre Dörfer.
+
+> **Was bedeutet das?**
+> Mahanajim ist der Ort, an dem Jakob Engel begegnete (1. Mose 32,3). Sukkot ist der Ort, an dem Jakob Hütten für sein Vieh baute (1. Mose 33,17). Die alten Geschichten der Väter sind mit diesem Land verbunden.
+
+---
+
+### Das Gebiet des halben Stammes Manasse (Vers 29–33)
+
+<sup>29</sup>Mose gab dem halben Stamm Manasse ein Erbe.
+Es war für den halben Stamm der Manassiten nach ihren Sippen.
+<sup>30</sup>Ihr Gebiet reichte von Mahanajim an: ganz Baschan, das ganze Königreich von Og, dem König von Baschan,
+und alle Zeltdörfer Jaïrs, die in Baschan liegen, sechzig Städte.
+<sup>31</sup>Das halbe Gilead, Aschtarot und Edreï, die Städte des Königreichs von Og in Baschan,
+waren für die Nachkommen von Machir, dem Sohn von Manasse,
+für die Hälfte der Nachkommen Machirs nach ihren Sippen.
+<sup>32</sup>Das ist es, was Mose in den Steppen von Moab als Erbe verteilt hat,
+jenseits des Jordan bei Jericho, im Osten.
+<sup>33</sup>Aber dem Stamm Levi gab Mose kein Erbe.
+Der HERR, der Gott Israels, ist ihr Erbe, wie er es ihnen gesagt hat.
+
+> **Was bedeutet das?**
+> Mit diesem Kapitel beginnt der zweite große Teil des Buches Josua: die Verteilung des Landes (Kapitel 13–21). Es gibt viele Namen von Orten und Grenzen. Für uns heute ist das manchmal mühsam zu lesen. Aber für Israel war es sehr wichtig: Jeder Stamm, jede Familie wusste so, wo ihr Platz im Land war. Das Land war ein Geschenk Gottes, und jeder bekam seinen Anteil.
+> Am Ende steht noch einmal der Satz über Levi: „Der HERR ist ihr Erbe.“ Das ist das schönste Erbe von allen.
