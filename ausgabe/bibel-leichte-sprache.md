@@ -26360,3 +26360,499 @@ damit wir alle Worte dieses Gesetzes tun.
 > Ein weiser Satz zum Abschluss: Wir Menschen verstehen nicht alles. Vieles bleibt Gottes Geheimnis, zum Beispiel warum etwas geschieht oder was die Zukunft bringt. Das dürfen wir Gott überlassen.
 > Aber was Gott uns gezeigt hat, das sollen wir tun. Wir müssen nicht alles wissen, um das Richtige zu tun.
 > In der hebräischen Bibel sind über einigen Wörtern dieses Verses besondere Punkte geschrieben. Sie zeigen, wie wichtig und geheimnisvoll dieser Satz den alten Schreibern war.
+
+## 5. Mose – Kapitel 30
+#### Umkehr ist möglich – wähle das Leben!
+
+---
+
+### Wenn ihr umkehrt, sammelt Gott euch wieder (Vers 1–10)
+
+<sup>1</sup>Wenn das alles über dich gekommen ist, der Segen und der Fluch, die ich dir vorgelegt habe,
+und du nimmst es dir zu Herzen unter allen Völkern, zu denen der HERR, dein Gott, dich verstoßen hat,
+<sup>2</sup>und du kehrst um zum HERRN, deinem Gott, und hörst auf seine Stimme,
+ganz so, wie ich es dir heute gebiete,
+du und deine Kinder, mit deinem ganzen Herzen und mit deiner ganzen Seele,
+<sup>3</sup>dann wird der HERR, dein Gott, dich aus der Gefangenschaft befreien und sich über dich erbarmen.
+Er wird sich dir wieder zuwenden und dich sammeln aus allen Völkern,
+unter die der HERR, dein Gott, dich zerstreut hat.
+<sup>4</sup>Selbst wenn deine Verstoßenen am Ende des Himmels wären,
+von dort wird der HERR, dein Gott, dich sammeln, und von dort wird er dich holen.
+<sup>5</sup>Der HERR, dein Gott, wird dich in das Land bringen, das deine Väter besessen haben,
+und du wirst es besitzen.
+Er wird dir Gutes tun und dich zahlreicher machen als deine Väter.
+<sup>6</sup>Der HERR, dein Gott, wird dein Herz beschneiden und das Herz deiner Nachkommen,
+damit du den HERRN, deinen Gott, liebst mit deinem ganzen Herzen und mit deiner ganzen Seele,
+damit du lebst.
+<sup>7</sup>Der HERR, dein Gott, wird alle diese Flüche auf deine Feinde legen
+und auf die, die dich hassen und die dich verfolgt haben.
+<sup>8</sup>Du aber wirst umkehren und auf die Stimme des HERRN hören
+und alle seine Gebote tun, die ich dir heute gebiete.
+<sup>9</sup>Der HERR, dein Gott, wird dir Gelingen schenken bei aller Arbeit deiner Hände,
+bei der Frucht deines Leibes, bei der Frucht deines Viehs und bei der Frucht deines Bodens, zum Guten.
+Denn der HERR wird sich wieder über dich freuen, dir Gutes zu tun,
+wie er sich über deine Väter gefreut hat,
+<sup>10</sup>wenn du auf die Stimme des HERRN, deines Gottes, hörst
+und seine Gebote und seine Ordnungen hältst, die in diesem Buch des Gesetzes geschrieben sind,
+wenn du zum HERRN, deinem Gott, umkehrst mit deinem ganzen Herzen und mit deiner ganzen Seele.
+
+> **Was bedeutet das?**
+> Nach den schweren Flüchen in Kapitel 28 und 29 kommt jetzt eine große Hoffnung: Auch wenn alles verloren scheint, auch wenn das Volk in die ganze Welt zerstreut ist, kann es umkehren. Und dann wird Gott es wieder sammeln.
+> Das Wort „umkehren“ (hebräisch „schuw“) kommt in diesem Abschnitt immer wieder vor. Es ist eines der wichtigsten Wörter der Bibel. Umkehr heißt: sich wieder Gott zuwenden. Und Gott „kehrt“ sich auch wieder seinem Volk zu.
+> Vers 6 ist ein großes Versprechen: Gott selbst wird das Herz „beschneiden“, also öffnen. In Kapitel 10,16 sollte das Volk das selbst tun. Hier verspricht Gott: Ich werde es für euch tun. Die Propheten Jeremia und Hesekiel sprechen später von einem „neuen Herzen“, das Gott schenken wird (Jeremia 31,33; Hesekiel 36,26).
+> Gott „freut sich“, seinem Volk Gutes zu tun. Er bestraft nicht gern. Er segnet gern.
+> Juden haben diese Verse in allen Jahrhunderten der Zerstreuung als Trost gelesen.
+
+---
+
+### Gottes Wort ist ganz nah (Vers 11–14)
+
+<sup>11</sup>Denn dieses Gebot, das ich dir heute gebiete, ist nicht zu schwer für dich und nicht zu fern.
+<sup>12</sup>Es ist nicht im Himmel, sodass du sagen müsstest:
+„Wer steigt für uns in den Himmel hinauf, holt es uns herunter und verkündet es uns, damit wir es tun?“
+<sup>13</sup>Es ist auch nicht jenseits des Meeres, sodass du sagen müsstest:
+„Wer fährt für uns über das Meer, holt es uns und verkündet es uns, damit wir es tun?“
+<sup>14</sup>Sondern das Wort ist dir ganz nah, in deinem Mund und in deinem Herzen,
+damit du es tun kannst.
+
+> **Was bedeutet das?**
+> Ein wunderbarer Trost: Gottes Wille ist nicht unerreichbar. Man muss nicht in den Himmel steigen oder ans Ende der Welt reisen, um ihn zu finden. Man muss kein Gelehrter sein. Gottes Wort ist ganz nah: im Mund, wenn man es ausspricht, und im Herzen, wenn man es liebt.
+> Darum ist es auch so wichtig, dass jeder Mensch die Bibel in seiner eigenen Sprache lesen und verstehen kann.
+> Paulus zitiert diese Verse und sagt: Das Wort ist nahe, nämlich das Wort vom Glauben an Jesus Christus (Römer 10,6–10).
+
+---
+
+### Wähle das Leben! (Vers 15–20)
+
+<sup>15</sup>Schau, ich lege dir heute das Leben und das Gute vor, den Tod und das Böse.
+<sup>16</sup>Denn ich gebiete dir heute, den HERRN, deinen Gott, zu lieben,
+auf seinen Wegen zu gehen und seine Gebote, seine Ordnungen und seine Rechtsbestimmungen zu halten,
+damit du lebst und zahlreich wirst
+und damit der HERR, dein Gott, dich segnet in dem Land, in das du kommst, um es in Besitz zu nehmen.
+<sup>17</sup>Wenn aber dein Herz sich abwendet und du nicht hörst,
+sondern dich verführen lässt und anderen Göttern dienst und sie anbetest,
+<sup>18</sup>dann erkläre ich euch heute: Ihr werdet ganz gewiss umkommen.
+Ihr werdet nicht lange in dem Land leben, in das du über den Jordan ziehst, um es in Besitz zu nehmen.
+<sup>19</sup>Ich rufe heute Himmel und Erde als Zeugen gegen euch an:
+Ich habe dir das Leben und den Tod vorgelegt, den Segen und den Fluch.
+So wähle das Leben, damit du lebst, du und deine Nachkommen,
+<sup>20</sup>indem du den HERRN, deinen Gott, liebst, auf seine Stimme hörst und an ihm festhältst.
+Denn er ist dein Leben und die Länge deiner Tage,
+damit du in dem Land wohnst, das der HERR deinen Vätern Abraham, Isaak und Jakob geschworen hat, ihnen zu geben.
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt der großen Reden des Mose. Er stellt das Volk vor eine Entscheidung zwischen zwei Wegen: Leben oder Tod, Segen oder Fluch.
+> Und dann sagt er, was er sich wünscht: „Wähle das Leben!“ Gott zwingt niemanden. Jeder Mensch hat die Freiheit zu wählen. Aber Gott wünscht sich von Herzen, dass wir das Leben wählen.
+> Was heißt „das Leben wählen“? Gott lieben, auf ihn hören und an ihm festhalten. Denn: „Er ist dein Leben.“ Wer sich an Gott hält, hält sich an die Quelle des Lebens.
+> Dieser Satz „Wähle das Leben“ ist bis heute für viele Menschen ein Leitwort geworden.
+
+## 5. Mose – Kapitel 31
+#### Josua wird eingesetzt – das Gesetz wird aufgeschrieben
+
+---
+
+### Seid stark und mutig (Vers 1–6)
+
+<sup>1</sup>Mose ging hin und sprach diese Worte zu ganz Israel.
+<sup>2</sup>Er sagte zu ihnen:
+„Ich bin heute 120 Jahre alt.
+Ich kann nicht mehr aus- und eingehen.
+Und der HERR hat zu mir gesagt: ‚Du wirst nicht über diesen Jordan ziehen.‘
+<sup>3</sup>Der HERR, dein Gott, wird selbst vor dir hinüberziehen.
+Er wird diese Völker vor dir vernichten, und du wirst sie vertreiben.
+Josua wird vor dir hinüberziehen, wie der HERR es gesagt hat.
+<sup>4</sup>Der HERR wird mit ihnen tun, was er mit Sihon und Og getan hat, den Königen der Amoriter,
+und mit ihrem Land, als er sie vernichtete.
+<sup>5</sup>Der HERR wird sie euch preisgeben,
+und ihr sollt mit ihnen nach dem ganzen Gebot handeln, das ich euch geboten habe.
+<sup>6</sup>Seid stark und mutig!
+Habt keine Angst und erschreckt nicht vor ihnen.
+Denn der HERR, dein Gott, ist es, der mit dir geht.
+Er wird dich nicht im Stich lassen und dich nicht verlassen.“
+
+> **Was bedeutet das?**
+> Mose ist 120 Jahre alt. „Ich kann nicht mehr aus- und eingehen“ heißt: Ich kann das Volk nicht mehr führen. Sein Leben geht zu Ende.
+> Aber das Volk muss keine Angst haben. Nicht Mose war der eigentliche Anführer, sondern Gott. Und Gott bleibt.
+> „Er wird dich nicht im Stich lassen und dich nicht verlassen“: Dieses Versprechen wird im Hebräerbrief allen Glaubenden zugesprochen (Hebräer 13,5). Es ist eines der tröstlichsten Worte der Bibel.
+
+---
+
+### Mose ermutigt Josua (Vers 7–8)
+
+<sup>7</sup>Mose rief Josua und sagte vor den Augen von ganz Israel zu ihm:
+„Sei stark und mutig!
+Denn du wirst mit diesem Volk in das Land ziehen,
+das der HERR ihren Vätern geschworen hat, ihnen zu geben.
+Und du wirst es ihnen als Erbe geben.
+<sup>8</sup>Der HERR selbst ist es, der vor dir hergeht.
+Er wird mit dir sein.
+Er wird dich nicht im Stich lassen und dich nicht verlassen.
+Hab keine Angst und lass dich nicht entmutigen.“
+
+> **Was bedeutet das?**
+> Vor allen Leuten macht Mose seinem Nachfolger Mut. So weiß jeder: Josua ist der neue Anführer, und Mose steht hinter ihm.
+> „Sei stark und mutig“ wird im Buch Josua noch oft wiederholt (Josua 1,6–9).
+
+---
+
+### Alle sieben Jahre soll das Gesetz vorgelesen werden (Vers 9–13)
+
+<sup>9</sup>Mose schrieb dieses Gesetz auf und gab es den Priestern, den Söhnen Levis,
+die die Lade des Bundes des HERRN trugen, und allen Ältesten Israels.
+<sup>10</sup>Und Mose gebot ihnen:
+„Am Ende von jeweils sieben Jahren, zur festgesetzten Zeit des Erlassjahres, am Laubhüttenfest,
+<sup>11</sup>wenn ganz Israel kommt, um vor dem HERRN, deinem Gott, zu erscheinen,
+an dem Ort, den er erwählen wird,
+dann sollst du dieses Gesetz vor ganz Israel laut vorlesen, sodass sie es hören.
+<sup>12</sup>Versammle das Volk, die Männer, die Frauen und die kleinen Kinder
+und den Fremden, der in deinen Toren wohnt,
+damit sie hören und lernen und den HERRN, euren Gott, fürchten
+und darauf achten, alle Worte dieses Gesetzes zu tun,
+<sup>13</sup>und damit ihre Kinder, die es noch nicht kennen, es hören
+und lernen, den HERRN, euren Gott, zu fürchten,
+solange ihr in dem Land lebt, in das ihr über den Jordan zieht, um es in Besitz zu nehmen.“
+
+> **Was bedeutet das?**
+> Mose schreibt das Gesetz auf. Ab jetzt ist Gottes Wort nicht nur in seinem Kopf, sondern in einem Buch. So kann es weitergegeben werden, auch wenn Mose stirbt.
+> Alle sieben Jahre soll das ganze Gesetz öffentlich vorgelesen werden. Damals konnten nur wenige lesen. Darum war das Vorlesen so wichtig.
+> Und wieder: Alle sollen zuhören, Männer, Frauen, Kinder und Fremde. Gottes Wort ist für alle.
+> Daraus entstand die jüdische Tradition, in der Synagoge jede Woche einen Abschnitt aus der Tora vorzulesen. Im Laufe eines Jahres wird so die ganze Tora gelesen.
+
+---
+
+### Gott sagt voraus, dass Israel untreu wird (Vers 14–18)
+
+<sup>14</sup>Der HERR sagte zu Mose:
+„Schau, die Tage kommen näher, an denen du sterben musst.
+Ruf Josua, und stellt euch im Zelt der Begegnung auf, damit ich ihn in sein Amt einsetze.“
+Da gingen Mose und Josua hin und stellten sich im Zelt der Begegnung auf.
+<sup>15</sup>Der HERR erschien im Zelt in einer Wolkensäule.
+Und die Wolkensäule stand über dem Eingang des Zeltes.
+<sup>16</sup>Der HERR sagte zu Mose:
+„Schau, du wirst dich zu deinen Vätern legen.
+Und dieses Volk wird aufstehen und sich wie eine Prostituierte mit den fremden Göttern des Landes einlassen,
+in das es kommt, um unter ihnen zu leben.
+Es wird mich verlassen und meinen Bund brechen, den ich mit ihm geschlossen habe.
+<sup>17</sup>Dann wird an jenem Tag mein Zorn gegen sie entbrennen.
+Ich werde sie verlassen und mein Gesicht vor ihnen verbergen.
+Sie werden gefressen werden, und viel Unglück und viele Nöte werden über sie kommen.
+Dann werden sie an jenem Tag sagen:
+‚Ist dieses Unglück nicht über uns gekommen, weil unser Gott nicht mitten unter uns ist?‘
+<sup>18</sup>Ich aber werde an jenem Tag mein Gesicht ganz verbergen,
+wegen all des Bösen, das sie getan haben, weil sie sich anderen Göttern zugewandt haben.
+
+> **Was bedeutet das?**
+> „Du wirst dich zu deinen Vätern legen“ ist eine Umschreibung für das Sterben.
+> „Wie Prostituierte“: Die Bibel benutzt dieses harte Bild oft. Gott sieht sich wie einen treuen Ehemann. Wenn sein Volk anderen Göttern nachläuft, ist das wie Untreue in einer Ehe.
+> „Mein Gesicht verbergen“: Gott zieht sich zurück. Die Menschen spüren seine Nähe nicht mehr. Das ist eine der schlimmsten Erfahrungen, die ein Mensch machen kann. Viele Psalmen klagen darüber: „Warum verbirgst du dein Gesicht vor mir?“ (Psalm 13,2; Psalm 88,15).
+> Es ist traurig: Gott weiß schon jetzt, dass das Volk untreu werden wird. Trotzdem führt er es ins Land. Das zeigt seine große Geduld und Liebe.
+
+---
+
+### Ein Lied als Zeuge (Vers 19–23)
+
+<sup>19</sup>„Und nun schreibt euch dieses Lied auf und lehrt es die Israeliten.
+Legt es ihnen in den Mund,
+damit dieses Lied für mich ein Zeuge gegen die Israeliten ist.
+<sup>20</sup>Denn wenn ich sie in das Land gebracht habe, das ich ihren Vätern geschworen habe,
+in dem Milch und Honig fließen,
+und sie gegessen haben und satt und fett geworden sind,
+dann werden sie sich anderen Göttern zuwenden und ihnen dienen,
+und sie werden mich verachten und meinen Bund brechen.
+<sup>21</sup>Und wenn dann viel Unglück und viele Nöte über sie gekommen sind,
+wird dieses Lied vor ihnen als Zeuge aussagen.
+Denn es wird im Mund ihrer Nachkommen nicht vergessen werden.
+Denn ich kenne ihre Pläne, die sie heute schon haben,
+bevor ich sie in das Land gebracht habe, das ich ihnen versprochen habe.“
+<sup>22</sup>Da schrieb Mose an diesem Tag dieses Lied auf und lehrte es die Israeliten.
+<sup>23</sup>Und er setzte Josua, den Sohn von Nun, in sein Amt ein und sagte:
+„Sei stark und mutig!
+Denn du wirst die Israeliten in das Land bringen, das ich ihnen geschworen habe.
+Und ich werde mit dir sein.“
+
+> **Was bedeutet das?**
+> Ein Lied vergisst man nicht so schnell wie eine Rede. Man singt es, man lernt es auswendig, man gibt es an die Kinder weiter. Darum soll Mose ein Lied schreiben. Es folgt in Kapitel 32.
+> Später, wenn das Volk in Not ist, wird es sich an das Lied erinnern und verstehen: Gott hat uns gewarnt. Aber das Lied endet auch mit Hoffnung.
+> In Vers 23 spricht Gott selbst zu Josua: „Ich werde mit dir sein.“
+
+---
+
+### Das Buch neben der Bundeslade (Vers 24–30)
+
+<sup>24</sup>Als Mose damit fertig war, die Worte dieses Gesetzes vollständig in ein Buch zu schreiben,
+<sup>25</sup>gebot Mose den Leviten, die die Lade des Bundes des HERRN trugen:
+<sup>26</sup>„Nehmt dieses Buch des Gesetzes und legt es neben die Lade des Bundes des HERRN, eures Gottes,
+damit es dort ein Zeuge gegen dich ist.
+<sup>27</sup>Denn ich kenne deine Widerspenstigkeit und deinen harten Nacken.
+Schaut, schon heute, während ich noch bei euch lebe, seid ihr widerspenstig gegen den HERRN gewesen.
+Wie viel mehr erst nach meinem Tod!
+<sup>28</sup>Versammelt bei mir alle Ältesten eurer Stämme und eure Amtsleute,
+damit ich diese Worte vor ihren Ohren rede
+und Himmel und Erde als Zeugen gegen sie anrufe.
+<sup>29</sup>Denn ich weiß, dass ihr nach meinem Tod ganz verderblich handeln werdet
+und von dem Weg abweicht, den ich euch geboten habe.
+Und in späteren Tagen wird euch Unglück treffen,
+weil ihr tun werdet, was in den Augen des HERRN böse ist,
+und ihn mit dem Werk eurer Hände kränkt.“
+<sup>30</sup>Und Mose sprach vor den Ohren der ganzen Versammlung Israels die Worte dieses Liedes bis zum Ende:
+
+> **Was bedeutet das?**
+> In der Bundeslade lagen die zwei Steintafeln mit den Zehn Geboten. Das ganze Buch des Gesetzes wird daneben gelegt. So ist es am heiligsten Ort aufbewahrt.
+> Mose spricht sehr ehrlich, fast traurig. Er kennt sein Volk gut. Er weiß, wie oft es sich gegen Gott aufgelehnt hat.
+> Später, zur Zeit von König Josia, wurde im Tempel ein „Buch des Gesetzes“ wiedergefunden, das lange vergessen war. Als man es vorlas, erschrak der König und erneuerte den Bund mit Gott (2. Könige 22–23).
+
+## 5. Mose – Kapitel 32
+#### Das Lied des Mose
+
+---
+
+### Hört zu, Himmel und Erde! (Vers 1–4)
+
+<sup>1</sup>Hört zu, ihr Himmel, ich will reden!
+Und die Erde höre die Worte meines Mundes!
+<sup>2</sup>Meine Lehre soll niederträufeln wie der Regen.
+Meine Rede soll sich niederlassen wie der Tau,
+wie feiner Regen auf das zarte Gras,
+wie Regenschauer auf das Kraut.
+<sup>3</sup>Denn ich will den Namen des HERRN verkünden.
+Gebt unserem Gott die Ehre!
+<sup>4</sup>Der Fels: Sein Werk ist vollkommen,
+denn alle seine Wege sind gerecht.
+Ein treuer Gott, der kein Unrecht tut,
+gerecht und aufrichtig ist er.
+
+> **Was bedeutet das?**
+> Jetzt kommt das Lied, das Mose dem Volk beibringen soll (Kapitel 31,19). Es ist ein Gedicht mit starken Bildern. Es erzählt die Geschichte zwischen Gott und seinem Volk: Gottes Treue, Israels Untreue, die Strafe und am Ende die Rettung.
+> Gottes Wort soll wie sanfter Regen sein, der das Gras wachsen lässt. Es soll nicht erschlagen, sondern beleben.
+> „Der Fels“: Das ist das wichtigste Bild für Gott in diesem Lied. Es kommt immer wieder vor. Ein Fels ist fest, sicher und unerschütterlich. Auf ihn kann man bauen. Auf ihn kann man sich verlassen.
+
+---
+
+### Ein undankbares Volk (Vers 5–6)
+
+<sup>5</sup>Sie haben verderblich gegen ihn gehandelt.
+Sie sind nicht seine Kinder, wegen ihres Makels.
+Sie sind eine verkehrte und verdrehte Generation.
+<sup>6</sup>Dankt ihr so dem HERRN, du törichtes und unweises Volk?
+Ist er nicht dein Vater, der dich erworben hat?
+Er hat dich gemacht und dich fest gegründet.
+
+> **Was bedeutet das?**
+> Der Gegensatz ist groß: Gott ist vollkommen und treu. Das Volk ist verdreht und untreu.
+> Gott wird hier „Vater“ genannt. Das ist im Alten Testament noch selten. Er hat Israel „erworben“, also aus der Sklaverei freigekauft, wie ein Vater, der sein Kind auslöst.
+
+---
+
+### Wie Gott sein Volk fand und trug (Vers 7–14)
+
+<sup>7</sup>Denk an die alten Tage.
+Achte auf die Jahre vieler Generationen.
+Frag deinen Vater, und er wird es dir zeigen,
+deine Ältesten, und sie werden es dir sagen.
+<sup>8</sup>Als der Höchste den Völkern ihr Erbe gab,
+als er die Menschenkinder voneinander trennte,
+da legte er die Grenzen der Völker fest
+nach der Zahl der Kinder Israels.
+<sup>9</sup>Denn der Anteil des HERRN ist sein Volk.
+Jakob ist sein Erbteil.
+<sup>10</sup>Er fand ihn in einem Wüstenland,
+in der öden, heulenden Wildnis.
+Er umgab ihn, er sorgte für ihn.
+Er behütete ihn wie seinen Augapfel.
+<sup>11</sup>Wie ein Adler, der sein Nest aufscheucht
+und über seinen Jungen schwebt,
+so breitete er seine Flügel aus, nahm sie
+und trug sie auf seinen Federn.
+<sup>12</sup>Der HERR allein führte ihn.
+Kein fremder Gott war bei ihm.
+<sup>13</sup>Er ließ ihn über die Höhen der Erde fahren.
+Er aß den Ertrag des Feldes.
+Er ließ ihn Honig aus dem Felsen saugen
+und Öl aus dem harten Gestein,
+<sup>14</sup>Butter von den Rindern und Milch von den Schafen,
+mit dem Fett der Lämmer,
+Widder von der Rasse aus Baschan und Böcke,
+mit dem besten Weizen.
+Und vom Blut der Trauben hast du Wein getrunken.
+
+> **Was bedeutet das?**
+> Vers 8: In der englischen Vorlage steht „nach der Zahl der Kinder Israels“, so wie im üblichen hebräischen Text. In alten Handschriften vom Toten Meer und in der griechischen Übersetzung steht aber „nach der Zahl der Söhne Gottes“. Gemeint wäre dann: Gott hat alle Völker verteilt, aber sein eigenes Volk hat er für sich selbst behalten.
+> „Wie seinen Augapfel“: Der Augapfel ist das Empfindlichste, was wir haben. Wir schützen ihn sofort, wenn ihm Gefahr droht. So schützt Gott sein Volk. Diesen Ausdruck benutzen wir bis heute.
+> Das Bild vom Adler (Vers 11) ist eines der schönsten der Bibel: Ein Adler bringt seinen Jungen das Fliegen bei. Er scheucht sie aus dem Nest. Wenn sie fallen, fliegt er unter sie und fängt sie auf seinen Flügeln auf. So hat Gott Israel durch die Wüste geführt: Er hat es gefordert, aber nie fallen lassen.
+> „Honig aus dem Felsen“: In Felsspalten gab es manchmal wilde Bienenvölker. Gott gab dem Volk sogar in kargen Gegenden Gutes.
+
+---
+
+### Das Volk wird fett und vergisst Gott (Vers 15–18)
+
+<sup>15</sup>Aber Jeschurun wurde fett und schlug aus.
+Du bist fett geworden, dick und feist.
+Da verließ er Gott, der ihn gemacht hat,
+und verachtete den Fels seiner Rettung.
+<sup>16</sup>Sie reizten ihn zur Eifersucht mit fremden Göttern.
+Mit Gräueln kränkten sie ihn.
+<sup>17</sup>Sie opferten den Dämonen, die nicht Gott sind,
+Göttern, die sie nicht kannten,
+neuen Göttern, die erst vor kurzem gekommen waren,
+vor denen eure Väter keine Ehrfurcht hatten.
+<sup>18</sup>Den Fels, der dich gezeugt hat, hast du vergessen.
+Du hast den Gott vergessen, der dich geboren hat.
+
+> **Was bedeutet das?**
+> „Jeschurun“ ist ein liebevoller Name für Israel. Er bedeutet etwa „der Aufrichtige“. Gerade der, der aufrichtig sein sollte, wird untreu. Das klingt fast ironisch.
+> Das Bild: Ein Tier, das gut gefüttert wird, wird übermütig und schlägt mit den Hufen aus. So wird Israel im Wohlstand übermütig und vergisst Gott. Diese Gefahr kennen wir schon aus Kapitel 8.
+> Vers 18 ist erstaunlich: Gott wird hier mit einem Vater verglichen, der zeugt, und mit einer Mutter, die gebiert. Gottes Liebe ist wie die Liebe von Vater und Mutter zugleich.
+
+---
+
+### Gott verbirgt sein Gesicht (Vers 19–27)
+
+<sup>19</sup>Der HERR sah es und verwarf sie,
+weil seine Söhne und Töchter ihn gekränkt hatten.
+<sup>20</sup>Er sagte: „Ich will mein Gesicht vor ihnen verbergen.
+Ich will sehen, was aus ihnen am Ende wird.
+Denn sie sind eine ganz verkehrte Generation,
+Kinder, in denen keine Treue ist.
+<sup>21</sup>Sie haben mich eifersüchtig gemacht mit dem, was kein Gott ist.
+Sie haben mich gekränkt mit ihren nichtigen Götzen.
+So will ich sie eifersüchtig machen mit denen, die kein Volk sind.
+Mit einem törichten Volk will ich sie kränken.
+<sup>22</sup>Denn ein Feuer ist entbrannt in meinem Zorn.
+Es brennt bis hinunter in die tiefste Unterwelt.
+Es verzehrt die Erde mit ihrem Ertrag
+und setzt die Grundmauern der Berge in Brand.
+<sup>23</sup>Ich will Unglück über sie häufen.
+Ich will meine Pfeile auf sie verschießen.
+<sup>24</sup>Sie sollen ausgezehrt werden vom Hunger
+und verzehrt werden von Fieberglut und bitterer Seuche.
+Ich will die Zähne der wilden Tiere gegen sie schicken
+und das Gift der Schlangen, die im Staub kriechen.
+<sup>25</sup>Draußen wird das Schwert sie kinderlos machen,
+und in den Kammern der Schrecken,
+den jungen Mann und die junge Frau,
+den Säugling und den alten Mann mit grauen Haaren.
+<sup>26</sup>Ich hätte gesagt: Ich will sie weit wegblasen.
+Ich will die Erinnerung an sie unter den Menschen auslöschen –
+<sup>27</sup>wenn ich nicht die Kränkung durch den Feind fürchten würde,
+dass ihre Gegner es falsch verstehen,
+dass sie sagen: ‚Unsere Hand ist mächtig gewesen.
+Nicht der HERR hat das alles getan.‘“
+
+> **Was bedeutet das?**
+> Die „Unterwelt“ heißt auf Hebräisch „Scheol“. Damals stellte man sich vor, dass die Toten an einem dunklen Ort unter der Erde sind.
+> Vers 21: „Die kein Volk sind“: Israel hat Gott mit „Nicht-Göttern“ eifersüchtig gemacht. Darum will Gott Israel mit einem „Nicht-Volk“ eifersüchtig machen. Paulus deutet das später so: Gott wendet sich den anderen Völkern zu, damit Israel eifersüchtig wird und zu ihm zurückfindet (Römer 10,19; 11,11).
+> Vers 26–27: Gott könnte sein Volk ganz vernichten. Aber er tut es nicht. Warum? Die Feinde würden sonst denken, sie hätten aus eigener Kraft gesiegt. Gottes Name und Ehre stehen auf dem Spiel. Und dahinter steht seine Treue: Er gibt sein Volk nicht ganz auf.
+
+---
+
+### Die Feinde verstehen es nicht (Vers 28–35)
+
+<sup>28</sup>Denn sie sind ein Volk ohne Rat,
+und es gibt kein Verständnis in ihnen.
+<sup>29</sup>Wenn sie doch weise wären und das verstehen würden!
+Wenn sie doch auf ihr Ende achten würden!
+<sup>30</sup>Wie könnte einer tausend jagen
+und zwei zehntausend in die Flucht schlagen,
+wenn ihr Fels sie nicht verkauft
+und der HERR sie nicht preisgegeben hätte?
+<sup>31</sup>Denn ihr Fels ist nicht wie unser Fels.
+Das müssen sogar unsere Feinde zugeben.
+<sup>32</sup>Denn ihr Weinstock stammt vom Weinstock Sodoms
+und von den Feldern Gomorras.
+Ihre Trauben sind Gifttrauben.
+Ihre Trauben sind bitter.
+<sup>33</sup>Ihr Wein ist Schlangengift,
+das grausame Gift der Ottern.
+<sup>34</sup>„Ist das nicht bei mir aufbewahrt,
+versiegelt in meinen Schatzkammern?
+<sup>35</sup>Die Rache ist mein und die Vergeltung,
+zu der Zeit, wenn ihr Fuß wankt.
+Denn der Tag ihres Unglücks ist nahe.
+Was ihnen bevorsteht, eilt herbei.“
+
+> **Was bedeutet das?**
+> Es ist nicht ganz klar, wer in Vers 28–33 gemeint ist: Israel oder die Feinde. Viele Ausleger meinen: zuerst Israel, das nicht versteht, warum es verliert. Dann die Feinde, deren „Fels“, also ihre Götter, nichts taugen, und deren Bosheit wie giftiger Wein ist.
+> Vers 30: Israel wurde nicht besiegt, weil die Feinde so stark waren, sondern weil Gott sein Volk nicht mehr beschützt hat.
+> „Die Rache ist mein“: Das ist ein ganz wichtiger Satz. Er bedeutet: Rache ist Gottes Sache, nicht die der Menschen. Paulus zitiert ihn und sagt: „Rächt euch nicht selbst, sondern überlasst das Gericht Gott“ (Römer 12,19). Der Satz verbietet also gerade die menschliche Rache.
+
+---
+
+### Gott hat Erbarmen (Vers 36–43)
+
+<sup>36</sup>Denn der HERR wird seinem Volk Recht verschaffen
+und sich über seine Knechte erbarmen,
+wenn er sieht, dass ihre Kraft dahin ist
+und niemand mehr da ist, weder Gefangene noch Freie.
+<sup>37</sup>Er wird sagen: „Wo sind ihre Götter,
+der Fels, bei dem sie Zuflucht suchten,
+<sup>38</sup>die das Fett ihrer Opfer aßen
+und den Wein ihres Trankopfers tranken?
+Sie sollen aufstehen und euch helfen!
+Sie sollen euer Schutz sein!
+<sup>39</sup>Seht jetzt, dass ich, ich es bin.
+Es gibt keinen Gott neben mir.
+Ich töte, und ich mache lebendig.
+Ich verwunde, und ich heile.
+Und niemand kann aus meiner Hand retten.
+<sup>40</sup>Denn ich hebe meine Hand zum Himmel und sage:
+So wahr ich ewig lebe:
+<sup>41</sup>Wenn ich mein blitzendes Schwert schärfe
+und meine Hand zum Gericht greift,
+dann will ich Rache nehmen an meinen Gegnern
+und denen vergelten, die mich hassen.
+<sup>42</sup>Ich will meine Pfeile trunken machen von Blut,
+und mein Schwert soll Fleisch fressen,
+vom Blut der Erschlagenen und der Gefangenen,
+vom Haupt der Anführer des Feindes.“
+<sup>43</sup>Jubelt, ihr Völker, mit seinem Volk!
+Denn er rächt das Blut seiner Knechte.
+Er nimmt Rache an seinen Gegnern
+und schafft Versöhnung für sein Land und für sein Volk.
+
+> **Was bedeutet das?**
+> Die Wende: Wenn das Volk ganz am Ende ist, ohne Kraft und ohne Hoffnung, dann erbarmt sich Gott. Die falschen Götter haben nicht geholfen. Aber der wahre Gott hilft.
+> „Ich töte, und ich mache lebendig. Ich verwunde, und ich heile“: Alles liegt in Gottes Hand, Leben und Tod. Aber das Ziel ist das Leben und die Heilung.
+> Die Bilder in Vers 41–42 sind sehr hart: Gott als Krieger mit Schwert und Pfeilen. Das sind Bilder aus der Sprache der Zeit. Sie sagen: Gott wird das Böse nicht ungestraft lassen. Er steht auf der Seite der Unterdrückten. Diese Bilder sind aber keine Aufforderung an Menschen, Gewalt anzuwenden. Die Rache bleibt allein Gottes Sache (Vers 35).
+> Am Ende steht ein überraschender Aufruf: „Jubelt, ihr Völker, mit seinem Volk!“ Auch die anderen Völker sollen sich mitfreuen. Paulus zitiert diesen Vers als Hinweis, dass Gottes Rettung allen Völkern gilt (Römer 15,10).
+> Das letzte Wort des Liedes ist „Versöhnung“.
+
+---
+
+### Das Gesetz ist euer Leben (Vers 44–47)
+
+<sup>44</sup>Mose kam und sprach alle Worte dieses Liedes vor den Ohren des Volkes,
+er und Josua, der Sohn von Nun.
+<sup>45</sup>Als Mose alle diese Worte zu ganz Israel zu Ende gesprochen hatte,
+<sup>46</sup>sagte er zu ihnen:
+„Nehmt euch alle Worte zu Herzen, die ich euch heute bezeuge.
+Ihr sollt sie euren Kindern gebieten,
+damit sie darauf achten, alle Worte dieses Gesetzes zu tun.
+<sup>47</sup>Denn es ist kein leeres Wort für euch,
+sondern es ist euer Leben.
+Und durch dieses Wort werdet ihr lange leben in dem Land,
+in das ihr über den Jordan zieht, um es in Besitz zu nehmen.“
+
+> **Was bedeutet das?**
+> In Vers 44 steht im hebräischen Text „Hoschea, der Sohn von Nun“. Das war der ursprüngliche Name von Josua (4. Mose 13,16). Die englische Vorlage schreibt „Josua“.
+> „Es ist kein leeres Wort, sondern es ist euer Leben“: Das ist das Vermächtnis des Mose. Gottes Wort ist nicht nur eine Sammlung von Regeln. Es ist die Grundlage des Lebens.
+
+---
+
+### Mose soll auf den Berg Nebo steigen (Vers 48–52)
+
+<sup>48</sup>Am selben Tag sprach der HERR zu Mose:
+<sup>49</sup>„Steig hinauf auf dieses Gebirge Abarim, auf den Berg Nebo, der im Land Moab liegt, gegenüber von Jericho.
+Und schau dir das Land Kanaan an, das ich den Israeliten als Besitz gebe.
+<sup>50</sup>Stirb auf dem Berg, auf den du hinaufsteigst,
+und werde zu deinem Volk versammelt,
+so wie dein Bruder Aaron auf dem Berg Hor gestorben ist und zu seinem Volk versammelt wurde,
+<sup>51</sup>weil ihr mir mitten unter den Israeliten untreu wart,
+am Wasser von Meriba bei Kadesch in der Wüste Zin,
+weil ihr mich mitten unter den Israeliten nicht als heilig geehrt habt.
+<sup>52</sup>Denn von weitem wirst du das Land sehen.
+Aber hineinkommen wirst du nicht in das Land, das ich den Israeliten gebe.“
+
+> **Was bedeutet das?**
+> Jetzt ist es so weit. Mose soll auf einen Berg steigen, das Land von oben sehen und dann sterben.
+> Der Berg Nebo liegt im heutigen Jordanien. Von seinem Gipfel kann man bei klarem Wetter weit ins Land sehen, über das Jordantal bis nach Jericho und, so heißt es, an guten Tagen bis zu den Bergen von Jerusalem.
+> „Zu seinem Volk versammelt werden“: So spricht die Bibel vom Tod. Man geht nicht ins Nichts, sondern zu denen, die vorausgegangen sind.
