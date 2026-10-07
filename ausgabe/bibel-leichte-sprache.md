@@ -35831,3 +35831,585 @@ Und es reute den HERRN, dass er Saul zum König über Israel gemacht hatte.
 > Dass der Prophet selbst einen Menschen tötet, ist für heutige Leser erschreckend. Es gehört zu einer gewalttätigen Zeit. Es ist kein Vorbild für heute.
 > Später, im Buch Ester, wird ein Mann namens Haman „der Agagiter“ genannt, ein Nachkomme von Agag (Ester 3,1). Er will alle Juden umbringen. Für die jüdische Tradition ist Amalek darum ein Bild für alle, die das jüdische Volk vernichten wollen.
 > Das Kapitel endet traurig: Samuel besucht Saul nie wieder. Aber Samuel trauert um Saul. Und auch Gott ist traurig. Der erste König Israels ist gescheitert, nicht weil er zu schwach war, sondern weil er nicht gehorchen wollte.
+
+## 1. Samuel – Kapitel 16
+#### Samuel salbt David
+
+---
+
+### Samuel geht nach Betlehem (Vers 1–5)
+
+<sup>1</sup>Der HERR sagte zu Samuel:
+„Wie lange willst du noch um Saul trauern?
+Ich habe ihn doch verworfen, dass er nicht mehr König über Israel sein soll.
+Füll dein Horn mit Öl und geh.
+Ich sende dich zu Isai aus Betlehem.
+Denn unter seinen Söhnen habe ich mir einen König ausgesucht.“
+<sup>2</sup>Samuel sagte:
+„Wie kann ich hingehen?
+Wenn Saul es hört, wird er mich töten.“
+Der HERR sagte:
+„Nimm eine junge Kuh mit dir und sag:
+‚Ich bin gekommen, um dem HERRN zu opfern.‘
+<sup>3</sup>Lade Isai zum Opfer ein.
+Dann will ich dir zeigen, was du tun sollst.
+Du sollst mir den salben, den ich dir nennen werde.“
+<sup>4</sup>Samuel tat, was der HERR gesagt hatte, und kam nach Betlehem.
+Die Ältesten der Stadt kamen ihm zitternd entgegen und sagten:
+„Kommst du in Frieden?“
+<sup>5</sup>Er sagte:
+„In Frieden.
+Ich bin gekommen, um dem HERRN zu opfern.
+Heiligt euch und kommt mit mir zum Opfer.“
+Er heiligte Isai und seine Söhne
+und lud sie zum Opfer ein.
+
+> **Was bedeutet das?**
+> Samuel trauert noch um Saul. Aber Gott sagt: Es ist Zeit, nach vorne zu schauen. Ich habe schon einen neuen König.
+> Isai ist der Enkel von Rut und Boas (Rut 4,17). Hier knüpft die Geschichte an das Buch Rut an.
+> Samuel hat Angst vor Saul. Saul ist inzwischen so gefährlich, dass selbst der Prophet um sein Leben fürchtet. Gott gibt ihm einen Weg: Er soll wirklich ein Opfer bringen. Das ist keine Lüge, aber er sagt nicht alles.
+> Die Ältesten von Betlehem zittern. Wenn der große Prophet überraschend kommt, kann das Gericht bedeuten. „Heiligt euch“ heißt: Macht euch durch Waschen und Gebet bereit für die Begegnung mit Gott.
+
+---
+
+### Gott sieht das Herz an (Vers 6–13)
+
+<sup>6</sup>Als sie kamen, sah er Eliab und sagte:
+„Sicher steht hier vor dem HERRN sein Gesalbter.“
+<sup>7</sup>Aber der HERR sagte zu Samuel:
+„Schau nicht auf sein Aussehen und nicht auf seine große Gestalt,
+denn ich habe ihn verworfen.
+Denn ich sehe nicht so, wie der Mensch sieht.
+Denn der Mensch sieht, was vor Augen ist,
+aber der HERR sieht das Herz an.“
+<sup>8</sup>Da rief Isai Abinadab
+und ließ ihn an Samuel vorübergehen.
+Er sagte: „Auch diesen hat der HERR nicht erwählt.“
+<sup>9</sup>Da ließ Isai Schamma vorübergehen.
+Er sagte: „Auch diesen hat der HERR nicht erwählt.“
+<sup>10</sup>So ließ Isai sieben von seinen Söhnen an Samuel vorübergehen.
+Samuel sagte zu Isai:
+„Diese hat der HERR nicht erwählt.“
+<sup>11</sup>Samuel sagte zu Isai:
+„Sind das alle deine Kinder?“
+Er sagte:
+„Es fehlt noch der Jüngste.
+Schau, er hütet die Schafe.“
+Samuel sagte zu Isai:
+„Schick hin und lass ihn holen.
+Denn wir setzen uns nicht zum Essen, bis er hierhergekommen ist.“
+<sup>12</sup>Er schickte hin und ließ ihn holen.
+Er war rötlich, mit schönem Gesicht und gutem Aussehen.
+Der HERR sagte:
+„Steh auf! Salbe ihn, denn er ist es.“
+<sup>13</sup>Da nahm Samuel das Horn mit Öl
+und salbte ihn mitten unter seinen Brüdern.
+Und der Geist des HERRN kam mit Macht über David,
+von diesem Tag an.
+Dann stand Samuel auf und ging nach Rama.
+
+> **Was bedeutet das?**
+> Eliab ist der älteste Sohn, groß und stattlich, wie Saul. Selbst Samuel denkt: Das muss er sein. Aber Gott sagt einen der wichtigsten Sätze der Bibel: „Der Mensch sieht, was vor Augen ist, aber der HERR sieht das Herz an.“
+> Das bedeutet: Gott beurteilt Menschen nicht nach Aussehen, Größe, Reichtum oder Stellung. Er sieht, wie ein Mensch innen ist.
+> Der jüngste Sohn ist nicht einmal eingeladen worden. Er muss die Schafe hüten. Niemand hat an ihn gedacht. Aber genau ihn wählt Gott. Gott wählt oft die Kleinen und Übersehenen.
+> „Rötlich“ meint vielleicht rötliches Haar oder eine gesunde, frische Hautfarbe. „Mit schönem Gesicht“ heißt im Hebräischen wörtlich „mit schönen Augen“.
+> Erst jetzt, am Ende, wird sein Name genannt: David. Der Name bedeutet wahrscheinlich „Geliebter“.
+> Bei Saul kam der Geist Gottes nur in bestimmten Momenten. Bei David bleibt er „von diesem Tag an“.
+
+---
+
+### Ein böser Geist quält Saul (Vers 14–23)
+
+<sup>14</sup>Der Geist des HERRN wich von Saul,
+und ein böser Geist vom HERRN quälte ihn.
+<sup>15</sup>Sauls Diener sagten zu ihm:
+„Schau doch, ein böser Geist von Gott quält dich.
+<sup>16</sup>Unser Herr möge doch seinen Dienern, die vor dir stehen, befehlen,
+einen Mann zu suchen, der gut auf der Harfe spielen kann.
+Wenn dann der böse Geist von Gott über dich kommt,
+soll er mit seiner Hand spielen.
+Dann wird es dir besser gehen.“
+<sup>17</sup>Saul sagte zu seinen Dienern:
+„Sucht mir doch einen Mann, der gut spielen kann,
+und bringt ihn zu mir.“
+<sup>18</sup>Da antwortete einer der jungen Männer und sagte:
+„Schau, ich habe einen Sohn von Isai aus Betlehem gesehen,
+der gut spielen kann.
+Er ist ein tapferer Mann, ein Kriegsmann,
+klug in der Rede und gut aussehend.
+Und der HERR ist mit ihm.“
+<sup>19</sup>Darum schickte Saul Boten zu Isai und ließ sagen:
+„Schick mir deinen Sohn David, der bei den Schafen ist.“
+<sup>20</sup>Isai nahm einen Esel, beladen mit Brot,
+ein Gefäß mit Wein und ein junges Ziegenböckchen
+und schickte es durch seinen Sohn David zu Saul.
+<sup>21</sup>David kam zu Saul und trat in seinen Dienst.
+Er gewann ihn sehr lieb,
+und er wurde sein Waffenträger.
+<sup>22</sup>Saul schickte zu Isai und ließ sagen:
+„Lass David doch in meinem Dienst bleiben,
+denn er hat Gnade in meinen Augen gefunden.“
+<sup>23</sup>Wenn der Geist von Gott über Saul kam,
+nahm David die Harfe und spielte mit seiner Hand.
+Dann wurde Saul erfrischt, und es ging ihm besser,
+und der böse Geist wich von ihm.
+
+> **Was bedeutet das?**
+> „Ein böser Geist vom HERRN“ ist ein schwieriger Ausdruck. Die Menschen damals glaubten: Alles, auch das Schwere, steht letztlich unter Gottes Macht. Gott lässt zu, dass Saul gequält wird, weil Saul sich von ihm abgewandt hat. Es heißt nicht, dass Gott Freude am Bösen hat.
+> Heute würde man bei Saul vielleicht von schweren Depressionen, Angstzuständen oder Wahnvorstellungen sprechen. Er ist misstrauisch, launisch und hat Wutanfälle. Die Bibel beschreibt das ehrlich.
+> Musik hilft Saul. Das ist bis heute bekannt: Musik kann die Seele beruhigen und trösten. Musiktherapie wird heute in der Medizin eingesetzt.
+> Die „Harfe“ war eigentlich eine Leier, ein kleines Saiteninstrument, das man in den Armen hielt.
+> Hier sieht man, wie Gott die Wege lenkt: Der zukünftige König kommt an den Hof des jetzigen Königs. Saul liebt David am Anfang. Er weiß nicht, dass Samuel ihn gesalbt hat.
+> David ist nicht nur Hirte, sondern auch Musiker und Dichter. Später wurden ihm viele Psalmen zugeschrieben.
+
+## 1. Samuel – Kapitel 17
+#### David und Goliat
+
+---
+
+### Der Riese Goliat (Vers 1–11)
+
+<sup>1</sup>Die Philister sammelten ihre Heere zum Kampf.
+Sie versammelten sich in Socho, das zu Juda gehört,
+und lagerten zwischen Socho und Aseka, in Efes-Dammim.
+<sup>2</sup>Saul und die Männer Israels versammelten sich,
+lagerten im Tal Ela
+und stellten sich gegen die Philister zum Kampf auf.
+<sup>3</sup>Die Philister standen auf dem Berg auf der einen Seite,
+und Israel stand auf dem Berg auf der anderen Seite.
+Und zwischen ihnen war das Tal.
+
+<sup>4</sup>Da trat aus dem Lager der Philister ein Vorkämpfer hervor.
+Sein Name war Goliat aus Gat.
+Er war etwa 2,90 Meter groß.
+<sup>5</sup>Er hatte einen Helm aus Bronze auf dem Kopf
+und trug einen Schuppenpanzer.
+Der Panzer wog etwa 55 Kilogramm Bronze.
+<sup>6</sup>Er hatte Schienen aus Bronze an seinen Beinen
+und einen Wurfspieß aus Bronze zwischen seinen Schultern.
+<sup>7</sup>Der Schaft seines Speeres war wie ein Weberbaum.
+Und die Spitze seines Speeres wog etwa 6,6 Kilogramm Eisen.
+Sein Schildträger ging vor ihm her.
+<sup>8</sup>Er stellte sich hin und rief den Schlachtreihen Israels zu:
+„Warum seid ihr ausgezogen, um euch zum Kampf aufzustellen?
+Bin ich nicht ein Philister, und ihr seid Knechte Sauls?
+Wählt euch einen Mann aus, der soll zu mir herabkommen.
+<sup>9</sup>Wenn er mit mir kämpfen und mich töten kann,
+dann wollen wir eure Knechte sein.
+Aber wenn ich ihn besiege und töte,
+dann sollt ihr unsere Knechte sein und uns dienen.“
+<sup>10</sup>Der Philister sagte:
+„Ich verhöhne heute die Schlachtreihen Israels!
+Gebt mir einen Mann, damit wir miteinander kämpfen!“
+<sup>11</sup>Als Saul und ganz Israel diese Worte des Philisters hörten,
+erschraken sie und fürchteten sich sehr.
+
+> **Was bedeutet das?**
+> „Ela“ heißt „Terebinthe“, das ist ein Baum. Das Tal Ela liegt etwa 25 Kilometer südwestlich von Jerusalem. Man kann es bis heute besuchen.
+> In der Bibel steht: „sechs Ellen und eine Spanne“. Eine Elle sind etwa 45 Zentimeter, eine Spanne etwa 22 Zentimeter. Das sind etwa 2,90 Meter. Eine alte Handschrift vom Toten Meer, die alte griechische Übersetzung und Josephus haben „vier Ellen und eine Spanne“, das sind etwa 2 Meter. Auch das war damals ein Riese, denn die meisten Männer waren viel kleiner.
+> Der Panzer wog 5000 Schekel, die Speerspitze 600 Schekel. Ein Schekel sind etwa 11 Gramm.
+> Ein „Weberbaum“ war ein dicker Holzbalken an einem Webstuhl.
+> Goliat schlägt einen Zweikampf vor: Ein Mann gegen einen Mann entscheidet den ganzen Krieg. Das war damals manchmal üblich.
+> Und Saul? Er ist der größte Mann in Israel (Kapitel 9,2). Eigentlich hätte er gegen Goliat kämpfen müssen. Aber auch er hat Angst.
+
+---
+
+### David kommt ins Lager (Vers 12–24)
+
+<sup>12</sup>David war der Sohn jenes Efratiters aus Betlehem in Juda, dessen Name Isai war.
+Er hatte acht Söhne.
+Der Mann war in den Tagen Sauls schon alt und betagt.
+<sup>13</sup>Die drei ältesten Söhne von Isai waren Saul in den Krieg gefolgt.
+Die Namen seiner drei Söhne, die in den Krieg gezogen waren, waren:
+Eliab, der Erstgeborene,
+Abinadab, der zweite,
+und Schamma, der dritte.
+<sup>14</sup>David war der Jüngste.
+Und die drei Ältesten waren Saul gefolgt.
+<sup>15</sup>David aber ging immer wieder von Saul weg,
+um die Schafe seines Vaters in Betlehem zu hüten.
+<sup>16</sup>Der Philister trat morgens und abends heran
+und stellte sich hin, vierzig Tage lang.
+
+<sup>17</sup>Isai sagte zu seinem Sohn David:
+„Nimm doch für deine Brüder etwa 22 Liter von diesem gerösteten Korn
+und diese zehn Brote
+und bring sie schnell ins Lager zu deinen Brüdern.
+<sup>18</sup>Und diese zehn Käse bring dem Anführer über die Tausend.
+Schau nach, wie es deinen Brüdern geht,
+und bring eine Nachricht von ihnen mit.“
+<sup>19</sup>Saul und sie und alle Männer Israels waren im Tal Ela
+und kämpften gegen die Philister.
+
+<sup>20</sup>David stand am Morgen früh auf,
+überließ die Schafe einem Hüter,
+nahm die Sachen und ging los, wie Isai es ihm befohlen hatte.
+Er kam zur Wagenburg,
+als das Heer gerade zum Kampf auszog und das Kriegsgeschrei erhob.
+<sup>21</sup>Israel und die Philister stellten sich auf, Schlachtreihe gegen Schlachtreihe.
+<sup>22</sup>David ließ sein Gepäck in der Hand des Gepäckwächters,
+lief zur Schlachtreihe,
+kam hin und grüßte seine Brüder.
+<sup>23</sup>Während er mit ihnen redete,
+schau, da kam der Vorkämpfer herauf,
+der Philister aus Gat, Goliat mit Namen,
+aus den Reihen der Philister.
+Er sagte dieselben Worte, und David hörte sie.
+<sup>24</sup>Als alle Männer Israels den Mann sahen,
+flohen sie vor ihm und fürchteten sich sehr.
+
+> **Was bedeutet das?**
+> Hier wird David noch einmal vorgestellt, als hätten wir noch nichts von ihm gehört. Das liegt wohl daran, dass hier verschiedene Erzählungen über David zusammengefügt wurden. Die alte griechische Übersetzung hat einen kürzeren Text: Die Verse 12–31 und 55–58 fehlen dort.
+> Isai hat hier acht Söhne. In 1. Chronik 2,13–15 werden nur sieben genannt, und David ist dort der siebte. Vielleicht starb ein Sohn früh.
+> Vierzig Tage lang verhöhnt Goliat Israel, und niemand traut sich. Vierzig ist in der Bibel oft eine Zahl für eine Zeit der Prüfung.
+> In der Bibel steht „ein Efa“. Ein Efa sind etwa 22 Liter.
+> David kommt nicht als Kämpfer, sondern als Bote mit Essen. Er ist der kleine Bruder, der seinen großen Brüdern Brot und Käse bringt.
+
+---
+
+### David will kämpfen (Vers 25–30)
+
+<sup>25</sup>Die Männer Israels sagten:
+„Habt ihr diesen Mann gesehen, der heraufkommt?
+Er kommt herauf, um Israel zu verhöhnen.
+Den Mann, der ihn tötet, wird der König mit großem Reichtum beschenken.
+Er wird ihm seine Tochter geben
+und die Familie seines Vaters in Israel von Abgaben befreien.“
+<sup>26</sup>David sagte zu den Männern, die bei ihm standen:
+„Was wird man dem Mann tun, der diesen Philister tötet
+und die Schande von Israel wegnimmt?
+Denn wer ist dieser unbeschnittene Philister,
+dass er die Schlachtreihen des lebendigen Gottes verhöhnt?“
+<sup>27</sup>Das Volk antwortete ihm genauso und sagte:
+„So wird man dem Mann tun, der ihn tötet.“
+<sup>28</sup>Eliab, sein ältester Bruder, hörte, wie er mit den Männern redete.
+Da entbrannte Eliabs Zorn gegen David, und er sagte:
+„Warum bist du herabgekommen?
+Und bei wem hast du die paar Schafe in der Wüste gelassen?
+Ich kenne deinen Hochmut und die Bosheit deines Herzens.
+Denn du bist nur herabgekommen, um dem Kampf zuzusehen.“
+<sup>29</sup>David sagte:
+„Was habe ich denn jetzt getan?
+Gibt es nicht einen Grund?“
+<sup>30</sup>Er wandte sich von ihm weg zu einem anderen
+und redete wieder genauso.
+Und das Volk antwortete ihm wieder wie vorher.
+
+> **Was bedeutet das?**
+> Die Soldaten reden nur über die Belohnung. David aber redet über Gott: Goliat verhöhnt nicht nur Israel, sondern „den lebendigen Gott“. Das ist für David der eigentliche Skandal.
+> „Unbeschnitten“ heißt hier: Er gehört nicht zum Bund mit Gott.
+> Eliab ist wütend. Vielleicht ist er eifersüchtig, weil Samuel nicht ihn, sondern David gesalbt hat. Er wirft David Hochmut vor. Aber in Wirklichkeit ist Eliab derjenige, der sich nicht traut.
+> „Gibt es nicht einen Grund?“: Das Hebräische kann auch bedeuten: „Es war doch nur ein Wort“ oder „nur eine Frage“.
+
+---
+
+### David vor Saul (Vers 31–40)
+
+<sup>31</sup>Als man die Worte hörte, die David gesagt hatte,
+erzählte man sie Saul.
+Und er ließ ihn holen.
+<sup>32</sup>David sagte zu Saul:
+„Niemand soll seinetwegen den Mut verlieren.
+Dein Knecht wird hingehen und mit diesem Philister kämpfen.“
+<sup>33</sup>Saul sagte zu David:
+„Du kannst nicht gegen diesen Philister antreten, um mit ihm zu kämpfen.
+Denn du bist noch ein junger Mann,
+und er ist ein Kriegsmann von seiner Jugend an.“
+<sup>34</sup>David sagte zu Saul:
+„Dein Knecht hütete die Schafe seines Vaters.
+Wenn dann ein Löwe oder ein Bär kam
+und ein Lamm aus der Herde wegnahm,
+<sup>35</sup>dann lief ich ihm nach, schlug ihn
+und riss das Lamm aus seinem Maul.
+Wenn er sich gegen mich erhob,
+packte ich ihn am Bart, schlug ihn und tötete ihn.
+<sup>36</sup>Dein Knecht hat den Löwen und den Bären erschlagen.
+Und diesem unbeschnittenen Philister soll es gehen wie einem von ihnen,
+denn er hat die Schlachtreihen des lebendigen Gottes verhöhnt.“
+<sup>37</sup>David sagte:
+„Der HERR, der mich aus der Tatze des Löwen und aus der Tatze des Bären gerettet hat,
+der wird mich auch aus der Hand dieses Philisters retten.“
+Saul sagte zu David:
+„Geh! Der HERR wird mit dir sein.“
+
+<sup>38</sup>Saul zog David seine eigene Kleidung an.
+Er setzte ihm einen Helm aus Bronze auf den Kopf
+und zog ihm einen Panzer an.
+<sup>39</sup>David band sein Schwert über seine Kleidung um
+und versuchte zu gehen, denn er hatte es noch nie ausprobiert.
+David sagte zu Saul:
+„Ich kann damit nicht gehen,
+denn ich habe es noch nie ausprobiert.“
+Da zog David sie wieder aus.
+<sup>40</sup>Er nahm seinen Stab in die Hand,
+suchte sich fünf glatte Steine aus dem Bach aus
+und steckte sie in seine Hirtentasche, die er hatte.
+Seine Schleuder hatte er in der Hand.
+Und er ging auf den Philister zu.
+
+> **Was bedeutet das?**
+> David erzählt von seiner Arbeit als Hirte: Er hat die Schafe gegen Löwen und Bären verteidigt. Das war damals in Israel wirklich gefährlich.
+> Aber David prahlt nicht mit seiner Kraft. Er sagt: Der HERR hat mich gerettet. Er wird mich wieder retten. Sein Mut kommt aus Gottvertrauen.
+> Saul will David seine eigene Rüstung geben. Aber sie passt nicht zu David. Er kann sich darin nicht bewegen. David kämpft nicht mit fremden Waffen, sondern mit dem, was er kennt: Stab, Steine und Schleuder.
+> Eine Schleuder war ein Lederband mit einer kleinen Tasche. Man legte einen Stein hinein, schwang es im Kreis und ließ ein Ende los. Ein geübter Schleuderer konnte sehr genau und mit großer Wucht treffen. Es war eine echte Waffe (Richter 20,16).
+
+---
+
+### „Ich komme im Namen des HERRN“ (Vers 41–47)
+
+<sup>41</sup>Der Philister kam immer näher an David heran,
+und der Mann, der den Schild trug, ging vor ihm her.
+<sup>42</sup>Als der Philister sich umsah und David erblickte, verachtete er ihn.
+Denn er war noch ein junger Mann, rötlich und mit schönem Aussehen.
+<sup>43</sup>Der Philister sagte zu David:
+„Bin ich etwa ein Hund, dass du mit Stöcken zu mir kommst?“
+Und der Philister verfluchte David bei seinen Göttern.
+<sup>44</sup>Der Philister sagte zu David:
+„Komm her zu mir,
+dann will ich dein Fleisch den Vögeln des Himmels und den Tieren des Feldes geben.“
+<sup>45</sup>Da sagte David zu dem Philister:
+„Du kommst zu mir mit Schwert, Speer und Wurfspieß.
+Aber ich komme zu dir im Namen des HERRN der Heere,
+des Gottes der Schlachtreihen Israels, den du verhöhnt hast.
+<sup>46</sup>Heute wird der HERR dich in meine Hand geben.
+Ich werde dich schlagen und dir den Kopf abhauen.
+Und die Leichen des Heeres der Philister
+werde ich heute den Vögeln des Himmels und den wilden Tieren der Erde geben.
+Dann soll die ganze Erde erkennen, dass Israel einen Gott hat.
+<sup>47</sup>Und diese ganze Versammlung soll erkennen,
+dass der HERR nicht durch Schwert und Speer rettet.
+Denn der Kampf gehört dem HERRN,
+und er wird euch in unsere Hand geben.“
+
+> **Was bedeutet das?**
+> Goliat fühlt sich beleidigt: Ein junger Hirte mit einem Stock? Er droht David grausam.
+> Davids Antwort ist das Herz dieser Geschichte. Es geht nicht um Stärke gegen Schwäche. Es geht um Vertrauen auf Waffen gegen Vertrauen auf Gott: „Du kommst mit Schwert und Speer, ich komme im Namen des HERRN.“
+> David kämpft nicht für seinen eigenen Ruhm. Er sagt: Die ganze Welt soll erkennen, dass es einen Gott gibt. Und Israel soll lernen: Gott rettet nicht durch Waffen.
+> „Der Kampf gehört dem HERRN“: Diesen Gedanken findet man oft in der Bibel. Menschen sollen ihr Bestes tun, aber den Sieg schenkt Gott.
+
+---
+
+### Der Stein trifft (Vers 48–54)
+
+<sup>48</sup>Als der Philister aufstand
+und herankam, um David entgegenzutreten,
+eilte David und lief der Schlachtreihe entgegen, auf den Philister zu.
+<sup>49</sup>David griff mit seiner Hand in seine Tasche,
+nahm einen Stein heraus,
+schleuderte ihn
+und traf den Philister an der Stirn.
+Der Stein drang in seine Stirn ein,
+und er fiel auf sein Gesicht zur Erde.
+<sup>50</sup>So besiegte David den Philister mit einer Schleuder und einem Stein.
+Er schlug den Philister und tötete ihn,
+obwohl David kein Schwert in der Hand hatte.
+<sup>51</sup>Dann lief David hin,
+stellte sich über den Philister,
+nahm sein Schwert, zog es aus der Scheide,
+tötete ihn und hieb ihm damit den Kopf ab.
+Als die Philister sahen, dass ihr Held tot war, flohen sie.
+<sup>52</sup>Die Männer Israels und Judas machten sich auf,
+erhoben das Kriegsgeschrei
+und verfolgten die Philister bis nach Gai und bis an die Tore von Ekron.
+Die Verwundeten der Philister fielen auf dem Weg nach Schaarajim,
+bis nach Gat und bis nach Ekron.
+<sup>53</sup>Die Israeliten kehrten von der Verfolgung der Philister zurück
+und plünderten ihr Lager.
+<sup>54</sup>David nahm den Kopf des Philisters und brachte ihn nach Jerusalem.
+Aber seine Waffen legte er in sein Zelt.
+
+> **Was bedeutet das?**
+> Ein einziger Stein entscheidet den Kampf. Goliat hatte eine schwere Rüstung, aber seine Stirn war frei.
+> David hatte kein Schwert. Er benutzt Goliats eigenes Schwert, um ihm den Kopf abzuschlagen. Später wird dieses Schwert noch einmal eine Rolle spielen (Kapitel 21,10).
+> Diese Geschichte ist weltberühmt geworden. „David gegen Goliat“ sagt man bis heute, wenn ein Kleiner gegen einen scheinbar übermächtigen Gegner antritt.
+> Die Bibel erzählt hier von einem Krieg mit viel Gewalt. Die Botschaft ist nicht: Gewalt ist gut. Die Botschaft ist: Wer Gott vertraut, braucht keine Angst vor übermächtigen Feinden zu haben.
+> Jerusalem gehörte damals noch den Jebusitern. David erobert die Stadt erst später (2. Samuel 5). Vielleicht brachte er den Kopf später dorthin, oder der Erzähler nennt hier schon die spätere Hauptstadt.
+> In 2. Samuel 21,19 steht, dass ein Mann namens Elhanan Goliat aus Gat tötete. In 1. Chronik 20,5 steht, dass Elhanan einen Bruder von Goliat tötete. Die Ausleger erklären diese Stellen unterschiedlich.
+
+---
+
+### „Wessen Sohn ist dieser junge Mann?“ (Vers 55–58)
+
+<sup>55</sup>Als Saul David gegen den Philister ausziehen sah,
+sagte er zu Abner, dem Heerführer:
+„Abner, wessen Sohn ist dieser junge Mann?“
+Abner sagte:
+„So wahr du lebst, König, ich weiß es nicht.“
+<sup>56</sup>Der König sagte:
+„Frag nach, wessen Sohn dieser junge Mann ist!“
+<sup>57</sup>Als David vom Sieg über den Philister zurückkam,
+nahm Abner ihn und brachte ihn vor Saul,
+mit dem Kopf des Philisters in der Hand.
+<sup>58</sup>Saul sagte zu ihm:
+„Wessen Sohn bist du, junger Mann?“
+David antwortete:
+„Ich bin der Sohn deines Knechtes Isai aus Betlehem.“
+
+> **Was bedeutet das?**
+> Das ist erstaunlich: In Kapitel 16 war David schon Sauls Harfenspieler und Waffenträger. Warum kennt Saul ihn jetzt nicht?
+> Manche Ausleger sagen: Hier sind zwei verschiedene Erzählungen über Davids Weg an den Hof zusammengestellt. Die alte griechische Übersetzung hat diese Verse nicht. Andere sagen: Saul fragt nicht nach David selbst, sondern nach seiner Familie, denn er hatte dem Sieger seine Tochter und Steuerfreiheit für dessen Familie versprochen (Vers 25). Oder Saul war durch seine Krankheit so verwirrt, dass er David nicht wiedererkannte.
+> Wir lassen den Text so stehen, wie er ist, und sagen ehrlich: Hier gibt es eine Spannung, die man nicht ganz auflösen kann.
+
+## 1. Samuel – Kapitel 18
+#### Jonatans Freundschaft und Sauls Eifersucht
+
+---
+
+### Jonatan und David schließen einen Bund (Vers 1–5)
+
+<sup>1</sup>Als er mit Saul zu Ende geredet hatte,
+verband sich die Seele Jonatans mit der Seele Davids.
+Und Jonatan liebte ihn wie seine eigene Seele.
+<sup>2</sup>Saul nahm ihn an diesem Tag zu sich
+und ließ ihn nicht mehr in das Haus seines Vaters zurückkehren.
+<sup>3</sup>Dann schlossen Jonatan und David einen Bund,
+weil er ihn liebte wie seine eigene Seele.
+<sup>4</sup>Jonatan zog den Mantel aus, den er anhatte,
+und gab ihn David, mit seiner Kleidung,
+sogar mit seinem Schwert, seinem Bogen und seinem Gürtel.
+<sup>5</sup>David zog aus, wohin Saul ihn auch schickte,
+und er handelte klug.
+Saul setzte ihn über die Kriegsleute.
+Das gefiel dem ganzen Volk und auch den Dienern Sauls.
+
+> **Was bedeutet das?**
+> Jonatan ist der Sohn des Königs und eigentlich der Nachfolger. David ist ein Hirte aus Betlehem. Trotzdem werden sie die besten Freunde. Ihre Freundschaft gehört zu den bekanntesten Freundschaften der Weltliteratur.
+> „Er liebte ihn wie seine eigene Seele“ heißt: wie sich selbst. Jonatan ist bereit, alles für David zu tun.
+> Der „Bund“ ist ein feierliches Versprechen der Treue, vor Gott.
+> Jonatan gibt David seinen Mantel und seine Waffen. Das ist mehr als ein Geschenk. Es ist ein Zeichen: Jonatan erkennt an, dass David einmal König sein wird, nicht er selbst (vergleiche Kapitel 23,17). Jonatan ist frei von Neid. Das ist sehr selten.
+> Manche Leser fragen heute, ob die Liebe zwischen Jonatan und David mehr als Freundschaft war. Der Text spricht von Bund, Treue und tiefer Verbundenheit. Das Wort „lieben“ wurde damals auch für Treue und Loyalität zwischen Verbündeten gebraucht. Die meisten jüdischen und christlichen Ausleger sehen hier das Vorbild einer tiefen Freundschaft.
+
+---
+
+### Das Lied der Frauen (Vers 6–9)
+
+<sup>6</sup>Als sie heimkamen, als David vom Sieg über den Philister zurückkehrte,
+kamen die Frauen aus allen Städten Israels heraus,
+singend und tanzend,
+dem König Saul entgegen,
+mit Tamburinen, mit Freude und mit Musikinstrumenten.
+<sup>7</sup>Die Frauen sangen im Wechsel, während sie spielten, und sagten:
+„Saul hat seine Tausende erschlagen,
+und David seine Zehntausende.“
+<sup>8</sup>Da wurde Saul sehr zornig,
+und dieses Lied missfiel ihm.
+Er sagte:
+„Sie haben David Zehntausende gegeben,
+und mir haben sie nur Tausende gegeben.
+Was fehlt ihm noch außer dem Königtum?“
+<sup>9</sup>Von diesem Tag an beobachtete Saul David mit Misstrauen.
+
+> **Was bedeutet das?**
+> Die Frauen feiern den Sieg mit einem Lied. In der Dichtung der Bibel sagt man oft dasselbe zweimal, und die zweite Hälfte steigert die erste. Die Frauen wollten Saul wohl nicht beleidigen. Aber Saul hört nur: David ist besser als ich.
+> Jetzt beginnt Sauls Eifersucht. Sie wird ihn sein ganzes restliches Leben quälen. Neid kann einen Menschen von innen zerfressen.
+> „Was fehlt ihm noch außer dem Königtum?“ Saul ahnt, dass David einmal König wird. Und genau das ist ja Gottes Plan.
+
+---
+
+### Saul wirft den Speer (Vers 10–16)
+
+<sup>10</sup>Am nächsten Tag kam ein böser Geist von Gott mit Macht über Saul,
+und er redete prophetisch mitten im Haus.
+David spielte mit seiner Hand, wie jeden Tag.
+Saul hatte seinen Speer in der Hand.
+<sup>11</sup>Und Saul warf den Speer,
+denn er sagte: „Ich will David an die Wand spießen!“
+Aber David wich ihm zweimal aus.
+<sup>12</sup>Saul hatte Angst vor David,
+denn der HERR war mit ihm,
+aber von Saul war er gewichen.
+<sup>13</sup>Darum entfernte Saul ihn aus seiner Nähe
+und machte ihn zum Anführer über Tausend.
+Und er zog vor dem Volk aus und ein.
+<sup>14</sup>David handelte in all seinen Wegen klug,
+und der HERR war mit ihm.
+<sup>15</sup>Als Saul sah, dass er sehr klug handelte,
+fürchtete er sich vor ihm.
+<sup>16</sup>Aber ganz Israel und Juda liebten David,
+denn er zog vor ihnen aus und ein.
+
+> **Was bedeutet das?**
+> „Er redete prophetisch“: Es ist dasselbe Wort wie bei den begeisterten Propheten in Kapitel 10. Aber hier ist es ein unheimlicher, wilder Zustand.
+> Während David Musik macht, um Saul zu beruhigen, versucht Saul, ihn zu töten. Der Mann, der ihm hilft, wird zu seinem Feind.
+> Saul hat Angst vor David, weil Gott mit ihm ist. Saul spürt: Gott hat ihn verlassen und ist bei David.
+> Saul schickt David in den Krieg, vielleicht in der Hoffnung, dass er dort fällt. Aber das Gegenteil passiert: David wird immer beliebter.
+> „Aus- und einziehen“ heißt: Er führte die Soldaten in den Kampf und wieder zurück. Er war ein Anführer, den man sah und kannte.
+
+---
+
+### Merab und Michal (Vers 17–27)
+
+<sup>17</sup>Saul sagte zu David:
+„Schau, da ist meine ältere Tochter Merab.
+Die will ich dir zur Frau geben.
+Nur sei tapfer für mich und führe die Kriege des HERRN.“
+Denn Saul sagte sich:
+„Nicht meine Hand soll gegen ihn sein,
+sondern die Hand der Philister soll gegen ihn sein.“
+<sup>18</sup>David sagte zu Saul:
+„Wer bin ich, und was ist mein Leben
+oder die Familie meines Vaters in Israel,
+dass ich Schwiegersohn des Königs werden sollte?“
+<sup>19</sup>Aber zu der Zeit, als Merab, die Tochter Sauls, David gegeben werden sollte,
+wurde sie Adriel aus Mehola zur Frau gegeben.
+
+<sup>20</sup>Michal, die Tochter Sauls, liebte David.
+Man erzählte es Saul, und die Sache gefiel ihm.
+<sup>21</sup>Saul sagte:
+„Ich will sie ihm geben,
+damit sie ihm zur Falle wird
+und die Hand der Philister gegen ihn ist.“
+Darum sagte Saul zum zweiten Mal zu David:
+„Du sollst heute mein Schwiegersohn werden.“
+<sup>22</sup>Saul befahl seinen Dienern:
+„Redet heimlich mit David und sagt:
+‚Schau, der König hat Gefallen an dir,
+und alle seine Diener lieben dich.
+Darum werde jetzt Schwiegersohn des Königs.‘“
+<sup>23</sup>Sauls Diener sagten diese Worte vor den Ohren Davids.
+David sagte:
+„Scheint es euch eine Kleinigkeit zu sein, Schwiegersohn des Königs zu werden,
+wo ich doch ein armer und unbedeutender Mann bin?“
+<sup>24</sup>Die Diener Sauls erzählten es ihm und sagten:
+„So hat David geredet.“
+<sup>25</sup>Saul sagte:
+„So sollt ihr zu David sagen:
+‚Der König will keinen Brautpreis
+außer hundert Vorhäuten von Philistern,
+damit er sich an den Feinden des Königs rächt.‘“
+Denn Saul plante, David durch die Hand der Philister fallen zu lassen.
+<sup>26</sup>Als seine Diener David diese Worte erzählten,
+gefiel es David gut, Schwiegersohn des Königs zu werden.
+Noch bevor die Frist um war,
+<sup>27</sup>machte David sich auf und zog los, er und seine Männer,
+und tötete 200 Männer von den Philistern.
+David brachte ihre Vorhäute,
+und man gab sie in voller Zahl dem König,
+damit er Schwiegersohn des Königs werden konnte.
+Da gab Saul ihm seine Tochter Michal zur Frau.
+
+> **Was bedeutet das?**
+> Saul hatte versprochen, dem Sieger über Goliat seine Tochter zu geben (Kapitel 17,25). Aber er hält sein Versprechen nicht. Er knüpft neue Bedingungen daran, in der Hoffnung, dass David im Kampf stirbt.
+> Merab wird einem anderen Mann gegeben. Wieder werden Frauen behandelt wie Gegenstände, mit denen Männer Politik machen.
+> Es ist sehr selten, dass die Bibel ausdrücklich erzählt, dass eine Frau einen Mann liebt. Bei Michal steht es zweimal (Vers 20 und 28). Aber ihr Vater benutzt ihre Liebe als Falle.
+> David ist bescheiden: Ich bin arm, ich kann keinen Brautpreis für eine Königstochter bezahlen. Damals musste der Bräutigam der Familie der Braut einen Brautpreis zahlen.
+> Saul verlangt einen grausamen Brautpreis: Vorhäute von getöteten Philistern. Das war ein Beweis, dass man wirklich Philister getötet hatte, denn die Philister waren nicht beschnitten. Das ist ein Brauch aus einer brutalen Kriegszeit. Die Bibel erzählt es, aber sie lobt es nicht.
+> David bringt sogar doppelt so viele. Die alte griechische Übersetzung hat in Vers 27 „hundert“. Auch in 2. Samuel 3,14 spricht David von hundert.
+
+---
+
+### Saul wird Davids Feind (Vers 28–30)
+
+<sup>28</sup>Saul sah und erkannte, dass der HERR mit David war.
+Und Michal, die Tochter Sauls, liebte ihn.
+<sup>29</sup>Da fürchtete sich Saul noch mehr vor David.
+Und Saul wurde für immer Davids Feind.
+<sup>30</sup>Dann zogen die Fürsten der Philister aus.
+Und jedes Mal, wenn sie auszogen,
+handelte David klüger als alle Diener Sauls,
+sodass sein Name sehr geachtet wurde.
+
+> **Was bedeutet das?**
+> Alles, was Saul gegen David plant, macht David nur stärker. Der Speer verfehlt ihn. Der Krieg macht ihn berühmt. Die Hochzeit macht ihn zum Mitglied der Königsfamilie. Sogar Sauls eigene Kinder, Jonatan und Michal, lieben David.
+> Saul erkennt: Gott ist mit David. Aber statt sich darüber zu freuen oder sich Gott wieder zuzuwenden, wird er zu Davids Feind. Er kämpft damit eigentlich gegen Gott selbst.
+> Dieses Kapitel zeigt den Unterschied zwischen zwei Menschen: Jonatan hätte allen Grund zur Eifersucht, aber er liebt David. Saul hat allen Grund zur Dankbarkeit, aber er hasst David.
