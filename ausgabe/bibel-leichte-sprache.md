@@ -26856,3 +26856,369 @@ Aber hineinkommen wirst du nicht in das Land, das ich den Israeliten gebe.“
 > Jetzt ist es so weit. Mose soll auf einen Berg steigen, das Land von oben sehen und dann sterben.
 > Der Berg Nebo liegt im heutigen Jordanien. Von seinem Gipfel kann man bei klarem Wetter weit ins Land sehen, über das Jordantal bis nach Jericho und, so heißt es, an guten Tagen bis zu den Bergen von Jerusalem.
 > „Zu seinem Volk versammelt werden“: So spricht die Bibel vom Tod. Man geht nicht ins Nichts, sondern zu denen, die vorausgegangen sind.
+
+## 5. Mose – Kapitel 33
+#### Mose segnet die Stämme Israels
+
+---
+
+### Gott kam vom Sinai (Vers 1–5)
+
+<sup>1</sup>Das ist der Segen, mit dem Mose, der Mann Gottes, die Israeliten vor seinem Tod segnete.
+<sup>2</sup>Er sagte:
+„Der HERR kam vom Sinai,
+und er ging ihnen auf von Seïr her.
+Er strahlte auf vom Berg Paran.
+Er kam aus den Zehntausenden von Heiligen.
+Zu seiner Rechten war ein feuriges Gesetz für sie.
+<sup>3</sup>Ja, er liebt die Völker.
+Alle seine Heiligen sind in deiner Hand.
+Sie setzten sich zu deinen Füßen.
+Jeder empfängt deine Worte.
+<sup>4</sup>Mose hat uns ein Gesetz geboten,
+ein Erbe für die Gemeinde Jakobs.
+<sup>5</sup>Er war König in Jeschurun,
+als die Häupter des Volkes sich versammelten,
+alle Stämme Israels zusammen.
+
+> **Was bedeutet das?**
+> Bevor Mose stirbt, segnet er die Stämme, so wie Jakob vor seinem Tod seine Söhne gesegnet hat (1. Mose 49).
+> „Mann Gottes“: Das ist ein Ehrentitel für Propheten. Mose wird hier zum ersten Mal so genannt.
+> Gott wird beschrieben wie die Sonne, die über den Bergen im Süden aufgeht: Sinai, Seïr, Paran. Er kommt mit seinen Engeln, den „Heiligen“.
+> „Er liebt die Völker“: So steht es in der englischen Vorlage („the people“). Im Hebräischen steht „Völker“ in der Mehrzahl. Gemeint sind vielleicht die Stämme Israels.
+> Vers 2–5 sind im Hebräischen sehr schwer zu verstehen. Darum übersetzen Bibeln diese Verse sehr unterschiedlich.
+> „Er war König in Jeschurun“: Gemeint ist wohl Gott selbst. Er ist der eigentliche König Israels.
+
+---
+
+### Ruben, Juda und Levi (Vers 6–11)
+
+<sup>6</sup>Ruben soll leben und nicht sterben.
+Und seine Männer sollen nicht wenige sein.“
+<sup>7</sup>Und das ist für Juda. Er sagte:
+„Höre, HERR, die Stimme Judas.
+Bring ihn zu seinem Volk.
+Mit seinen Händen hat er für sich gekämpft.
+Sei du ihm eine Hilfe gegen seine Feinde.“
+<sup>8</sup>Über Levi sagte er:
+„Deine Tummim und deine Urim gehören deinem treuen Mann,
+den du in Massa geprüft hast,
+mit dem du am Wasser von Meriba gestritten hast.
+<sup>9</sup>Er sagte von seinem Vater und von seiner Mutter: ‚Ich habe ihn nicht gesehen.‘
+Er erkannte seine Brüder nicht an,
+und von seinen eigenen Kindern wusste er nichts.
+Denn sie haben dein Wort beachtet und halten deinen Bund.
+<sup>10</sup>Sie sollen Jakob deine Rechtsbestimmungen lehren und Israel dein Gesetz.
+Sie sollen Weihrauch vor dich bringen
+und Ganzopfer auf deinen Altar.
+<sup>11</sup>HERR, segne seine Kraft.
+Nimm das Werk seiner Hände an.
+Zerschmettere die Hüften derer, die gegen ihn aufstehen,
+derer, die ihn hassen, damit sie nicht wieder aufstehen.“
+
+> **Was bedeutet das?**
+> Ruben war Jakobs Erstgeborener, hatte aber seinen Vorrang durch eine schwere Schuld verloren (1. Mose 49,3–4). Mose bittet: Lass ihn trotzdem leben und nicht aussterben.
+> Juda: Aus diesem Stamm kommt später König David. Und nach dem Neuen Testament auch Jesus.
+> Simeon wird nicht genannt. Dieser Stamm ging später im Stamm Juda auf.
+> Levi: Die „Urim und Tummim“ waren heilige Lose des Hohenpriesters, mit denen man Gottes Willen erfragte (2. Mose 28,30).
+> Vers 9 erinnert an die Geschichte vom goldenen Kalb: Die Leviten haben sich auf Gottes Seite gestellt, sogar gegen ihre eigenen Verwandten (2. Mose 32,26–29). Treue zu Gott war ihnen wichtiger als die Familie.
+> Die Aufgabe der Leviten: das Volk lehren und den Gottesdienst halten.
+
+---
+
+### Benjamin und Josef (Vers 12–17)
+
+<sup>12</sup>Über Benjamin sagte er:
+„Der Liebling des HERRN wird sicher bei ihm wohnen.
+Er beschützt ihn den ganzen Tag.
+Er wohnt zwischen seinen Schultern.“
+<sup>13</sup>Über Josef sagte er:
+„Sein Land ist vom HERRN gesegnet
+mit dem Köstlichsten vom Himmel, mit dem Tau,
+und mit der Tiefe, die unten lagert,
+<sup>14</sup>mit dem Köstlichsten, was die Sonne hervorbringt,
+mit dem Köstlichsten, was der Mond wachsen lässt,
+<sup>15</sup>mit dem Besten der uralten Berge,
+mit dem Köstlichsten der ewigen Hügel,
+<sup>16</sup>mit dem Köstlichsten der Erde und ihrer Fülle,
+und mit dem Wohlgefallen dessen, der im Dornbusch wohnte.
+Das soll auf das Haupt Josefs kommen,
+auf den Scheitel dessen, der von seinen Brüdern getrennt war.
+<sup>17</sup>Herrlichkeit gehört dem Erstgeborenen seines Stieres.
+Seine Hörner sind die Hörner des Wildstiers.
+Mit ihnen stößt er die Völker bis an die Enden der Erde.
+Das sind die Zehntausende von Efraim.
+Das sind die Tausende von Manasse.“
+
+> **Was bedeutet das?**
+> Benjamin war Jakobs jüngster und liebster Sohn. „Er wohnt zwischen seinen Schultern“: Vielleicht ist das ein Bild für ein Kind, das der Vater auf den Schultern trägt. Oder es meint: Der Tempel in Jerusalem lag später an der Grenze des Gebiets von Benjamin, „zwischen seinen Hügeln“.
+> Josef bekommt den reichsten Segen: alles Gute vom Himmel, von der Erde, von Sonne und Mond.
+> „Der im Dornbusch wohnte“: Das erinnert an die Geschichte, in der Gott Mose im brennenden Dornbusch erschien (2. Mose 3). Es ist die einzige Stelle, an der Mose später noch einmal daran erinnert.
+> „Der von seinen Brüdern getrennt war“: Josef wurde von seinen Brüdern nach Ägypten verkauft (1. Mose 37).
+> Efraim und Manasse sind die beiden Söhne Josefs. Aus ihnen wurden zwei große Stämme.
+
+---
+
+### Sebulon, Issachar, Gad, Dan, Naftali und Asser (Vers 18–25)
+
+<sup>18</sup>Über Sebulon sagte er:
+„Freu dich, Sebulon, wenn du ausziehst,
+und du, Issachar, in deinen Zelten.
+<sup>19</sup>Sie werden Völker auf den Berg rufen.
+Dort werden sie Opfer der Gerechtigkeit darbringen.
+Denn sie werden den Reichtum der Meere aufsaugen
+und die verborgenen Schätze im Sand.“
+<sup>20</sup>Über Gad sagte er:
+„Gesegnet ist, wer Gad weiten Raum schafft.
+Er lagert wie eine Löwin
+und zerreißt Arm und Scheitel.
+<sup>21</sup>Er hat sich das erste Stück ausgesucht,
+denn dort war der Anteil des Anführers für ihn aufbewahrt.
+Er kam mit den Häuptern des Volkes.
+Er hat die Gerechtigkeit des HERRN ausgeführt
+und seine Rechtsbestimmungen mit Israel.“
+<sup>22</sup>Über Dan sagte er:
+„Dan ist ein junger Löwe, der aus Baschan hervorspringt.“
+<sup>23</sup>Über Naftali sagte er:
+„Naftali, gesättigt mit Gnade
+und voll vom Segen des HERRN,
+nimm den Westen und den Süden in Besitz.“
+<sup>24</sup>Über Asser sagte er:
+„Asser ist gesegnet mit Kindern.
+Er soll bei seinen Brüdern beliebt sein.
+Er soll seinen Fuß in Öl tauchen.
+<sup>25</sup>Deine Riegel sollen aus Eisen und Bronze sein.
+Wie deine Tage, so soll deine Kraft sein.
+
+> **Was bedeutet das?**
+> Sebulon und Issachar wohnten später im Norden, nahe am Meer. „Der Reichtum der Meere“ und „die Schätze im Sand“ meinen vielleicht Fischfang, Handel und das Glas, das man aus Sand machte.
+> Gad bekam das Land östlich des Jordan als „erstes Stück“ (4. Mose 32). Trotzdem kämpfte er mit den anderen Stämmen, „mit den Häuptern des Volkes“.
+> „Er soll seinen Fuß in Öl tauchen“: Asser bekam später ein Gebiet mit vielen Olivenbäumen. So viel Öl, dass man darin baden könnte.
+> „Wie deine Tage, so soll deine Kraft sein“: Ein schöner Segen, den viele Menschen als Trost mitnehmen. Er bedeutet: Gott gibt dir für jeden Tag so viel Kraft, wie du brauchst.
+
+---
+
+### Niemand ist wie Gott (Vers 26–29)
+
+<sup>26</sup>Niemand ist wie Gott, Jeschurun,
+der über den Himmel fährt, um dir zu helfen,
+und in seiner Hoheit auf den Wolken.
+<sup>27</sup>Der ewige Gott ist deine Wohnung.
+Und unter dir sind ewige Arme.
+Er hat den Feind vor dir vertrieben
+und hat gesagt: ‚Vernichte!‘
+<sup>28</sup>Israel wohnt in Sicherheit,
+die Quelle Jakobs für sich allein,
+in einem Land mit Getreide und neuem Wein.
+Ja, sein Himmel träufelt Tau herab.
+<sup>29</sup>Glücklich bist du, Israel!
+Wer ist wie du, ein Volk, das vom HERRN gerettet ist?
+Er ist der Schild deiner Hilfe
+und das Schwert deiner Hoheit.
+Deine Feinde werden sich dir unterwerfen,
+und du wirst über ihre Höhen schreiten.“
+
+> **Was bedeutet das?**
+> Am Ende steht nicht ein Stamm, sondern Gott selbst im Mittelpunkt.
+> Vers 27 ist eines der schönsten Worte der ganzen Bibel: „Der ewige Gott ist deine Wohnung. Und unter dir sind ewige Arme.“ Gott ist wie ein Haus, in dem man sicher ist. Und wenn man fällt, fängt er einen mit seinen Armen auf. Dieser Vers wird oft bei Beerdigungen und in schweren Zeiten gelesen.
+> „Glücklich bist du, Israel!“: Die letzten Worte des Mose an sein Volk sind keine Warnung, sondern eine Seligpreisung.
+
+## 5. Mose – Kapitel 34
+#### Der Tod des Mose
+
+---
+
+### Mose sieht das Land (Vers 1–4)
+
+<sup>1</sup>Mose stieg aus den Steppen von Moab hinauf auf den Berg Nebo,
+auf den Gipfel des Pisga, der gegenüber von Jericho liegt.
+Und der HERR zeigte ihm das ganze Land:
+Gilead bis nach Dan,
+<sup>2</sup>ganz Naftali, das Land Efraim und Manasse
+und das ganze Land Juda bis zum westlichen Meer,
+<sup>3</sup>den Süden und die Ebene, das Tal von Jericho, der Palmenstadt, bis nach Zoar.
+<sup>4</sup>Der HERR sagte zu ihm:
+„Das ist das Land, das ich Abraham, Isaak und Jakob geschworen habe, als ich sagte:
+‚Deinen Nachkommen will ich es geben.‘
+Ich habe es dich mit deinen eigenen Augen sehen lassen.
+Aber hinüberziehen wirst du nicht.“
+
+> **Was bedeutet das?**
+> Gott selbst zeigt Mose das ganze Land, von Norden bis Süden. Es ist, als würde Gott ihn an der Hand nehmen und sagen: Schau, das alles habe ich versprochen, und jetzt erfülle ich es.
+> Mose darf nicht hinein. Aber er sieht das Ziel, auf das er 40 Jahre lang zugegangen ist. Das Versprechen an Abraham ist fast erfüllt.
+
+---
+
+### Mose stirbt (Vers 5–8)
+
+<sup>5</sup>So starb Mose, der Knecht des HERRN, dort im Land Moab, wie der HERR es gesagt hatte.
+<sup>6</sup>Und er begrub ihn im Tal im Land Moab, gegenüber von Bet-Peor.
+Aber bis heute weiß niemand, wo sein Grab ist.
+<sup>7</sup>Mose war 120 Jahre alt, als er starb.
+Seine Augen waren nicht schwach geworden, und seine Kraft war nicht geschwunden.
+<sup>8</sup>Die Israeliten weinten um Mose in den Steppen von Moab dreißig Tage lang.
+Dann waren die Tage des Weinens und der Trauer um Mose zu Ende.
+
+> **Was bedeutet das?**
+> „Der Knecht des HERRN“: Das ist der höchste Ehrentitel für Mose. Er hat sein ganzes Leben Gott gedient.
+> „Wie der HERR es gesagt hatte“: Im Hebräischen steht wörtlich „nach dem Mund des HERRN“. Jüdische Ausleger haben daraus ein schönes Bild gemacht: Mose starb durch einen Kuss Gottes.
+> „Er begrub ihn“: Gott selbst hat Mose begraben. Niemand kennt sein Grab. Vielleicht damit niemand einen Kult um Mose macht und sein Grab verehrt. Mose wollte immer auf Gott hinweisen, nicht auf sich selbst.
+> Mit 120 Jahren war Mose noch gesund und stark. Er starb nicht, weil er zu schwach war, sondern weil seine Zeit nach Gottes Willen gekommen war.
+> Das Volk trauerte 30 Tage lang. Bis heute gibt es im Judentum eine Trauerzeit von 30 Tagen nach dem Tod eines nahen Menschen.
+
+---
+
+### Josua übernimmt (Vers 9)
+
+<sup>9</sup>Josua, der Sohn von Nun, war erfüllt mit dem Geist der Weisheit,
+denn Mose hatte ihm die Hände aufgelegt.
+Und die Israeliten hörten auf ihn
+und taten, wie der HERR es Mose geboten hatte.
+
+> **Was bedeutet das?**
+> Das Leben geht weiter. Gottes Werk hängt nicht an einem einzelnen Menschen. Mose hat rechtzeitig einen Nachfolger eingesetzt, und das Volk folgt ihm.
+
+---
+
+### Kein Prophet war wie Mose (Vers 10–12)
+
+<sup>10</sup>Seitdem ist in Israel kein Prophet mehr aufgestanden wie Mose,
+den der HERR von Angesicht zu Angesicht kannte,
+<sup>11</sup>mit all den Zeichen und Wundern, die der HERR ihn tun ließ im Land Ägypten,
+am Pharao, an allen seinen Dienern und an seinem ganzen Land,
+<sup>12</sup>und mit all der starken Hand
+und all den großen und furchterregenden Taten, die Mose vor den Augen von ganz Israel tat.
+
+> **Was bedeutet das?**
+> Das ist das letzte Wort über Mose: Es gab keinen Propheten wie ihn. Kein anderer kannte Gott so nah, „von Angesicht zu Angesicht“.
+> Wer hat diese letzten Verse geschrieben? Mose kann seinen eigenen Tod kaum selbst beschrieben haben. Jüdische Gelehrte sagten schon im Talmud: Josua hat die letzten acht Verse geschrieben. Andere meinen, Mose schrieb sie unter Tränen, weil Gott sie ihm diktierte. Viele heutige Forscher meinen, dass die fünf Bücher Mose über längere Zeit gewachsen sind.
+> In Kapitel 18 hatte Mose versprochen: Gott wird einen Propheten wie mich senden. Am Ende des Buches heißt es: Es kam bisher keiner. Darum wartete Israel auf diesen Propheten. Christen glauben, dass Jesus dieser Prophet ist (Apostelgeschichte 3,22). Im Johannesevangelium heißt es: „Das Gesetz wurde durch Mose gegeben, die Gnade und die Wahrheit kamen durch Jesus Christus“ (Johannes 1,17).
+
+---
+
+### Rückblick: Was haben wir im 5. Buch Mose gelesen?
+
+> **Was bedeutet das?**
+> Das 5. Buch Mose ist das Abschiedsbuch des Mose. Am Jordan, kurz vor seinem Tod, spricht er noch einmal zum ganzen Volk:
+> 1. Er erinnert an den Weg durch die Wüste: an Gottes Treue und an die Untreue des Volkes (Kapitel 1–4).
+> 2. Er wiederholt die Zehn Gebote und das wichtigste Gebot: „Höre, Israel: Der HERR ist unser Gott, der HERR ist einer. Du sollst den HERRN, deinen Gott, lieben mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deiner ganzen Kraft“ (Kapitel 5–11).
+> 3. Er erklärt die Gebote für das Leben im Land: für Gottesdienst und Feste, für Gerichte und Könige, für die Familie und vor allem für den Schutz der Schwachen: der Armen, der Fremden, der Waisen und der Witwen (Kapitel 12–26).
+> 4. Er stellt das Volk vor die Wahl zwischen Segen und Fluch und ruft: „Wähle das Leben!“ (Kapitel 27–30).
+> 5. Er setzt Josua ein, singt sein Lied, segnet die Stämme und stirbt (Kapitel 31–34).
+> Das Buch enthält auch harte und dunkle Texte, über Krieg, über Strafen und über den Umgang mit anderen Völkern. Wir haben sie nicht weggelassen, aber ehrlich erklärt. Sie gehören zu einer fernen Zeit, und niemand darf sie benutzen, um Gewalt oder Hass zu rechtfertigen.
+> Die Hauptbotschaft des Buches ist Liebe: Gott liebt sein Volk, nicht weil es groß oder gut ist, sondern einfach so. Und er wünscht sich, dass sein Volk ihn auch liebt und dass alle Menschen gerecht und barmherzig miteinander leben, besonders mit den Schwächsten. „Denn ihr wart selbst Fremde in Ägypten.“
+
+---
+
+### Rückblick: Die fünf Bücher Mose, die Tora
+
+> **Was bedeutet das?**
+> Mit diesem Kapitel enden die fünf Bücher Mose. Juden nennen sie zusammen „Tora“, das heißt „Weisung“. Sie sind der wichtigste Teil der hebräischen Bibel. In jeder Synagoge liegt die Tora als handgeschriebene Rolle im Heiligen Schrein.
+> 1. Mose: Gott erschafft die Welt und die Menschen. Er ruft Abraham und verspricht ihm ein Land und viele Nachkommen.
+> 2. Mose: Gott befreit sein Volk aus der Sklaverei in Ägypten, schließt am Sinai einen Bund mit ihm und gibt ihm die Zehn Gebote.
+> 3. Mose: Gott zeigt, wie ein heiliges Volk mit einem heiligen Gott leben kann. Mitten darin: „Liebe deinen Nächsten wie dich selbst.“
+> 4. Mose: Das Volk wandert 40 Jahre durch die Wüste. Es zweifelt und murrt, aber Gott bleibt treu.
+> 5. Mose: Mose verabschiedet sich und ruft: „Wähle das Leben!“
+> Die Tora endet nicht im verheißenen Land, sondern kurz davor. Das Volk steht am Jordan. Das Ziel ist in Sicht, aber noch nicht erreicht. So ist es oft auch mit dem Glauben: Man ist unterwegs, mit Gottes Versprechen in der Hand.
+> Und wenn die Juden am Fest „Simchat Tora“ mit dem letzten Vers fertig sind, fangen sie sofort wieder von vorne an: „Am Anfang schuf Gott Himmel und Erde.“ Gottes Wort ist nie zu Ende gelesen.
+
+
+---
+
+# Josua
+
+## Josua – Kapitel 1
+#### Sei stark und mutig!
+
+---
+
+### Bevor es losgeht: Was ist das Buch Josua?
+
+Das Buch Josua ist nach seiner Hauptperson benannt: Josua, dem Nachfolger von Mose. Der Name „Josua“ bedeutet „Der HERR rettet“. Es ist derselbe Name wie „Jesus“ in seiner hebräischen Form.
+Das Buch erzählt, wie Israel endlich in das versprochene Land kommt. Das Volk zieht durch den Jordan, die Mauern von Jericho fallen, und das Land wird unter die zwölf Stämme verteilt. Was Gott Abraham versprochen hat, wird jetzt Wirklichkeit.
+Das Buch enthält auch viele Kriegsberichte. Manche davon sind sehr schwer zu ertragen, weil auch Frauen und Kinder getötet werden. Wir lassen diese Stellen nicht weg, sondern erklären sie ehrlich. Viele Forscher meinen außerdem, dass die Eroberung in Wirklichkeit langsamer und weniger gewaltsam war, als das Buch sie in seiner Sprache schildert. Klar ist: Niemand darf diese Berichte benutzen, um heute Gewalt oder Krieg zu rechtfertigen.
+Am Ende des Buches stellt Josua das Volk vor die Wahl, wem es dienen will. Und er sagt den berühmten Satz: „Ich aber und mein Haus wollen dem HERRN dienen“ (Josua 24,15).
+In der jüdischen Bibel gehört das Buch Josua zu den „Vorderen Propheten“. In christlichen Bibeln steht es am Anfang der „Geschichtsbücher“.
+
+---
+
+### Gott spricht zu Josua (Vers 1–9)
+
+<sup>1</sup>Nach dem Tod von Mose, dem Knecht des HERRN,
+sprach der HERR zu Josua, dem Sohn von Nun, dem Diener von Mose:
+<sup>2</sup>„Mose, mein Knecht, ist gestorben.
+Darum mach dich jetzt auf und zieh über diesen Jordan, du und dieses ganze Volk,
+in das Land, das ich ihnen gebe, den Israeliten.
+<sup>3</sup>Jeden Ort, den eure Fußsohle betreten wird, habe ich euch gegeben,
+wie ich es Mose gesagt habe.
+<sup>4</sup>Von der Wüste und diesem Libanon bis zum großen Strom, dem Fluss Euphrat,
+das ganze Land der Hetiter,
+und bis zum großen Meer, wo die Sonne untergeht, soll euer Gebiet reichen.
+<sup>5</sup>Niemand wird vor dir bestehen können, dein ganzes Leben lang.
+Wie ich mit Mose gewesen bin, so werde ich mit dir sein.
+Ich werde dich nicht im Stich lassen und dich nicht verlassen.
+<sup>6</sup>Sei stark und mutig!
+Denn du wirst diesem Volk das Land als Erbe geben,
+das ich ihren Vätern geschworen habe, ihnen zu geben.
+<sup>7</sup>Nur sei sehr stark und mutig!
+Achte darauf, ganz nach dem Gesetz zu handeln, das Mose, mein Knecht, dir geboten hat.
+Weiche nicht davon ab, weder nach rechts noch nach links,
+damit du Erfolg hast, wohin du auch gehst.
+<sup>8</sup>Dieses Buch des Gesetzes soll nicht von deinem Mund weichen.
+Sondern du sollst Tag und Nacht darüber nachsinnen,
+damit du darauf achtest, alles zu tun, was darin geschrieben steht.
+Denn dann wirst du auf deinem Weg Gelingen haben,
+und dann wirst du Erfolg haben.
+<sup>9</sup>Habe ich dir nicht geboten: Sei stark und mutig?
+Hab keine Angst und erschrick nicht,
+denn der HERR, dein Gott, ist mit dir, wohin du auch gehst.“
+
+> **Was bedeutet das?**
+> Mose, der große Anführer, ist tot. Für das Volk ist das ein großer Verlust. Josua muss jetzt in sehr große Fußstapfen treten.
+> Gott sagt ihm dreimal: „Sei stark und mutig!“ Josua hat wohl Angst. Aber Gott verspricht: „Wie ich mit Mose gewesen bin, so werde ich mit dir sein.“ Josua muss nicht wie Mose sein. Er muss nur Gott vertrauen.
+> Die Stärke kommt nicht aus Josua selbst, sondern aus zwei Quellen: aus Gottes Gegenwart („der HERR ist mit dir“) und aus Gottes Wort („Tag und Nacht darüber nachsinnen“).
+> „Nachsinnen“ heißt: das Wort Gottes immer wieder bedenken, halblaut vor sich hin sprechen, im Herzen bewegen. Psalm 1 sagt dasselbe über einen glücklichen Menschen.
+> Das große Gebiet bis zum Euphrat ist eine Verheißung, die Israel nur kurz unter König Salomo erreichte. Es ist keine Landkarte für die Politik von heute.
+> Vers 9 ist für viele Menschen bis heute ein Trostwort, zum Beispiel vor einer schweren Aufgabe, einem Umzug oder einer Operation.
+
+---
+
+### Macht euch bereit! (Vers 10–11)
+
+<sup>10</sup>Da gebot Josua den Amtsleuten des Volkes:
+<sup>11</sup>„Geht mitten durch das Lager und gebietet dem Volk:
+‚Macht euch Reiseproviant bereit.
+Denn in drei Tagen werdet ihr über diesen Jordan ziehen,
+um hineinzugehen und das Land in Besitz zu nehmen,
+das der HERR, euer Gott, euch zum Besitz gibt.‘“
+
+> **Was bedeutet das?**
+> Josua zögert nicht. Er gibt sofort die ersten Befehle. Gottes Wort hat ihm Mut gegeben.
+
+---
+
+### Die Stämme östlich des Jordan halten ihr Wort (Vers 12–18)
+
+<sup>12</sup>Zu den Rubeniten, den Gaditen und dem halben Stamm Manasse sagte Josua:
+<sup>13</sup>„Denkt an das Wort, das Mose, der Knecht des HERRN, euch geboten hat, als er sagte:
+‚Der HERR, euer Gott, gibt euch Ruhe und wird euch dieses Land geben.
+<sup>14</sup>Eure Frauen, eure kleinen Kinder und euer Vieh sollen in dem Land bleiben,
+das Mose euch jenseits des Jordan gegeben hat.
+Aber ihr, alle tapferen Krieger, sollt bewaffnet vor euren Brüdern hinüberziehen und ihnen helfen,
+<sup>15</sup>bis der HERR euren Brüdern Ruhe gegeben hat wie euch
+und bis auch sie das Land in Besitz genommen haben, das der HERR, euer Gott, ihnen gibt.
+Dann sollt ihr in das Land zurückkehren, das euch gehört, und es besitzen,
+das Mose, der Knecht des HERRN, euch jenseits des Jordan gegeben hat, im Osten.‘“
+<sup>16</sup>Sie antworteten Josua:
+„Alles, was du uns geboten hast, wollen wir tun,
+und wohin du uns schickst, dahin wollen wir gehen.
+<sup>17</sup>So wie wir in allem auf Mose gehört haben, so wollen wir auch auf dich hören.
+Nur möge der HERR, dein Gott, mit dir sein, wie er mit Mose gewesen ist.
+<sup>18</sup>Jeder, der sich gegen deinen Befehl auflehnt
+und nicht auf deine Worte hört in allem, was du ihm gebietest, der soll getötet werden.
+Nur sei stark und mutig!“
+
+> **Was bedeutet das?**
+> Josua erinnert die zweieinhalb Stämme an ihr Versprechen aus 4. Mose 32: Sie haben ihr Land schon, aber sie kämpfen trotzdem mit ihren Brüdern.
+> Und sie halten ihr Wort. Sie stellen sich hinter den neuen Anführer. Am Ende sagen sie ihm sogar, was Gott ihm gesagt hat: „Sei stark und mutig!“ So wird Josua nicht nur von Gott ermutigt, sondern auch von seinen Leuten.
+> Die harte Drohung in Vers 18 zeigt, wie ernst die Lage vor einem Krieg war. Einheit war lebenswichtig.
