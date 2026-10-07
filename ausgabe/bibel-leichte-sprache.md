@@ -34451,3 +34451,389 @@ Kommt herab und holt sie zu euch hinauf.“
 > Diese Geschichte ist schwer zu verstehen. Sie will zeigen: Gott ist heilig. Man darf nicht neugierig oder respektlos mit ihm umgehen. Er ist kein Gegenstand, den man untersucht.
 > Die Frage „Wer kann vor diesem heiligen Gott bestehen?“ ist eine wichtige Frage der ganzen Bibel. Die Antwort der Bibel ist: Niemand aus eigener Kraft. Nur weil Gott selbst gnädig ist, können Menschen in seine Nähe kommen.
 > Kirjat-Jearim lag etwa 15 Kilometer westlich von Jerusalem. Die Geschichte geht im nächsten Kapitel weiter.
+
+## 1. Samuel – Kapitel 7
+#### Der Stein der Hilfe
+
+---
+
+### Die Lade in Kirjat-Jearim (Vers 1–2)
+
+<sup>1</sup>Die Männer von Kirjat-Jearim kamen und holten die Lade des HERRN.
+Sie brachten sie in das Haus von Abinadab auf dem Hügel.
+Und sie weihten seinen Sohn Eleasar, damit er die Lade des HERRN bewacht.
+<sup>2</sup>Seit dem Tag, an dem die Lade in Kirjat-Jearim blieb, verging eine lange Zeit.
+Es waren zwanzig Jahre.
+Und das ganze Haus Israel klagte dem HERRN nach.
+
+> **Was bedeutet das?**
+> Die Lade kommt nicht nach Schilo zurück. Schilo war wohl von den Philistern zerstört worden (Jeremia 7,12). Die Lade bleibt in einem Privathaus, viele Jahre lang. Erst König David holt sie später nach Jerusalem (2. Samuel 6).
+> „Dem HERRN nachklagen“ heißt: Das Volk vermisst Gott. Es sehnt sich nach ihm. Das ist der Anfang einer Umkehr.
+
+---
+
+### Samuel ruft zur Umkehr (Vers 3–6)
+
+<sup>3</sup>Samuel sprach zum ganzen Haus Israel:
+„Wenn ihr mit eurem ganzen Herzen zum HERRN umkehrt,
+dann schafft die fremden Götter und die Astarten aus eurer Mitte weg.
+Richtet eure Herzen auf den HERRN und dient ihm allein.
+Dann wird er euch aus der Hand der Philister retten.“
+<sup>4</sup>Da schafften die Israeliten die Baale und die Astarten weg
+und dienten dem HERRN allein.
+<sup>5</sup>Samuel sagte:
+„Versammelt ganz Israel nach Mizpa.
+Dann will ich für euch zum HERRN beten.“
+<sup>6</sup>Sie versammelten sich in Mizpa.
+Sie schöpften Wasser und gossen es vor dem HERRN aus.
+Sie fasteten an diesem Tag und sagten dort:
+„Wir haben gegen den HERRN gesündigt.“
+Und Samuel war in Mizpa Richter über die Israeliten.
+
+> **Was bedeutet das?**
+> Zwanzig Jahre lang hört man nichts von Samuel. Jetzt tritt er auf und sagt klar: Echte Umkehr heißt nicht nur klagen. Echte Umkehr heißt: alles wegtun, was zwischen euch und Gott steht.
+> Baal war ein Gott des Regens und der Fruchtbarkeit. Astarte war eine Göttin der Liebe und des Krieges. Die Mehrzahl „Baale“ und „Astarten“ meint ihre vielen Bilder und Orte der Verehrung.
+> Wasser ausgießen ist ein Zeichen, das sonst nirgends in der Bibel so vorkommt. Vielleicht bedeutet es: Wir schütten unser Herz vor Gott aus, wie Hanna es getan hatte (Kapitel 1,15). Oder: Unser Leben ist vor dir wie ausgegossenes Wasser.
+> Das Volk sagt ehrlich: „Wir haben gesündigt.“ Das ist der wichtigste Satz bei einer Umkehr.
+
+---
+
+### Gott donnert gegen die Philister (Vers 7–11)
+
+<sup>7</sup>Als die Philister hörten, dass sich die Israeliten in Mizpa versammelt hatten,
+zogen die Fürsten der Philister gegen Israel hinauf.
+Als die Israeliten das hörten, bekamen sie Angst vor den Philistern.
+<sup>8</sup>Die Israeliten sagten zu Samuel:
+„Hör nicht auf, für uns zum HERRN, unserem Gott, zu schreien,
+damit er uns aus der Hand der Philister rettet.“
+<sup>9</sup>Samuel nahm ein Lamm, das noch gesäugt wurde,
+und opferte es dem HERRN als ganzes Brandopfer.
+Samuel schrie für Israel zum HERRN, und der HERR antwortete ihm.
+<sup>10</sup>Während Samuel das Brandopfer darbrachte,
+rückten die Philister heran, um gegen Israel zu kämpfen.
+Aber der HERR donnerte an diesem Tag mit gewaltigem Donner über die Philister
+und brachte sie durcheinander.
+Und sie wurden vor Israel geschlagen.
+<sup>11</sup>Die Männer Israels zogen aus Mizpa aus,
+verfolgten die Philister
+und schlugen sie bis unterhalb von Bet-Kar.
+
+> **Was bedeutet das?**
+> Diesmal ist alles anders als in Kapitel 4. Damals holte Israel die Lade wie einen Glücksbringer. Jetzt betet es. Damals verließ es sich auf ein Ding. Jetzt verlässt es sich auf Gott.
+> Das Volk hat Angst, aber es läuft nicht weg. Es bittet Samuel, für es zu beten.
+> Gott antwortet mit Donner. Hanna hatte in ihrem Lied gesagt: „Er wird gegen sie am Himmel donnern“ (Kapitel 2,10). Das erfüllt sich hier.
+> Wo Bet-Kar lag, weiß man heute nicht genau.
+
+---
+
+### Eben-Eser: Bis hierher hat der HERR geholfen (Vers 12–14)
+
+<sup>12</sup>Da nahm Samuel einen Stein
+und stellte ihn zwischen Mizpa und Schen auf.
+Er nannte ihn Eben-Eser und sagte:
+„Bis hierher hat der HERR uns geholfen.“
+<sup>13</sup>So wurden die Philister gedemütigt.
+Sie kamen nicht mehr in das Gebiet Israels.
+Die Hand des HERRN war gegen die Philister, solange Samuel lebte.
+<sup>14</sup>Die Städte, die die Philister Israel weggenommen hatten,
+kamen wieder an Israel zurück, von Ekron bis Gat.
+Israel befreite sein Gebiet aus der Hand der Philister.
+Und es war Frieden zwischen Israel und den Amoritern.
+
+> **Was bedeutet das?**
+> „Eben-Eser“ heißt „Stein der Hilfe“. Genau an einem Ort mit diesem Namen hatte Israel in Kapitel 4 die Lade verloren. Jetzt bekommt der Name eine neue Bedeutung: Gott hat geholfen.
+> „Bis hierher“ kann man auf zwei Arten verstehen: Bis zu diesem Ort hat Gott uns geholfen. Und: Bis zu dieser Zeit hat Gott uns geholfen. Beides stimmt. Der Stein soll erinnern: Gott hat uns bis heute nicht verlassen. Darum können wir ihm auch für morgen vertrauen.
+> Viele Christen sagen bis heute „Eben-Eser“ oder „Bis hierher hat der HERR geholfen“, wenn sie auf ihr Leben zurückblicken. Ein bekanntes deutsches Kirchenlied beginnt mit den Worten „Bis hierher hat mich Gott gebracht“.
+> „Amoriter“ steht hier für die Völker Kanaans, die noch im Land lebten.
+
+---
+
+### Samuel als Richter (Vers 15–17)
+
+<sup>15</sup>Samuel war Richter in Israel, sein ganzes Leben lang.
+<sup>16</sup>Er zog Jahr für Jahr im Kreis nach Bethel, Gilgal und Mizpa.
+Und an all diesen Orten sprach er Recht für Israel.
+<sup>17</sup>Dann kehrte er nach Rama zurück, denn dort war sein Haus.
+Und dort sprach er Recht für Israel.
+Und er baute dort dem HERRN einen Altar.
+
+> **Was bedeutet das?**
+> Samuel ist wie ein Richter, der durch das Land reist. Er kommt zu den Menschen, damit sie nicht weit gehen müssen, um Recht zu bekommen.
+> Bethel, Gilgal und Mizpa lagen alle im Gebiet der Stämme Benjamin und Efraim, nicht weit voneinander. Rama war seine Heimatstadt.
+> Samuel ist der letzte und vielleicht der beste der Richter. Er führt das Volk nicht vor allem mit dem Schwert, sondern mit Gebet und mit Gottes Wort.
+
+## 1. Samuel – Kapitel 8
+#### Das Volk will einen König
+
+---
+
+### Samuels Söhne (Vers 1–3)
+
+<sup>1</sup>Als Samuel alt war, setzte er seine Söhne als Richter über Israel ein.
+<sup>2</sup>Der Name seines erstgeborenen Sohnes war Joel,
+und der Name des zweiten war Abija.
+Sie waren Richter in Beerscheba.
+<sup>3</sup>Aber seine Söhne gingen nicht auf seinen Wegen.
+Sie waren hinter unehrlichem Gewinn her,
+nahmen Bestechungsgeld an
+und beugten das Recht.
+
+> **Was bedeutet das?**
+> Wieder dasselbe Problem wie bei Eli: Ein guter Vater hat Söhne, die nicht gut sind. Samuels Söhne sind bestechlich. Wer ihnen Geld gibt, bekommt Recht.
+> Das Gesetz Gottes verbietet Bestechung streng: „Bestechung macht die Weisen blind“ (5. Mose 16,19).
+> Beerscheba lag ganz im Süden, weit weg von Samuel in Rama. Vielleicht wusste Samuel lange nicht, was sie taten.
+
+---
+
+### „Gib uns einen König!“ (Vers 4–9)
+
+<sup>4</sup>Da versammelten sich alle Ältesten Israels
+und kamen zu Samuel nach Rama.
+<sup>5</sup>Sie sagten zu ihm:
+„Schau, du bist alt geworden,
+und deine Söhne gehen nicht auf deinen Wegen.
+Setze jetzt einen König über uns ein, der uns richtet,
+so wie es bei allen Völkern ist.“
+<sup>6</sup>Aber die Sache missfiel Samuel, als sie sagten:
+„Gib uns einen König, der uns richtet.“
+Samuel betete zum HERRN.
+<sup>7</sup>Der HERR sagte zu Samuel:
+„Hör auf die Stimme des Volkes in allem, was sie dir sagen.
+Denn sie haben nicht dich verworfen,
+sondern mich haben sie verworfen, dass ich nicht mehr König über sie sein soll.
+<sup>8</sup>So wie sie es immer getan haben,
+seit dem Tag, an dem ich sie aus Ägypten heraufgeführt habe, bis zum heutigen Tag:
+Sie haben mich verlassen und anderen Göttern gedient.
+So machen sie es jetzt auch mit dir.
+<sup>9</sup>Hör nun auf ihre Stimme.
+Aber warne sie eindringlich
+und zeige ihnen das Recht des Königs, der über sie herrschen wird.“
+
+> **Was bedeutet das?**
+> Die Ältesten haben einen guten Grund: Samuel ist alt, und seine Söhne sind schlecht. Wer soll das Volk danach führen?
+> Aber dann sagen sie: „so wie es bei allen Völkern ist“. Das ist das eigentliche Problem. Israel sollte anders sein als die anderen Völker. Gott selbst sollte sein König sein.
+> Samuel ist gekränkt. Aber Gott tröstet ihn: Sie lehnen nicht dich ab, sondern mich.
+> Ist ein König also schlecht? Die Bibel sieht das nicht einfach. Schon im Gesetz des Mose steht, dass Israel einmal einen König haben darf, wenn er Gott gehorcht (5. Mose 17,14–20). Das Problem ist nicht der König an sich. Das Problem ist das Herz des Volkes: Es will Sicherheit durch einen Menschen statt Vertrauen auf Gott.
+> Gott gibt dem Volk, was es will. Aber er lässt es warnen. Gott zwingt niemanden. Er lässt Menschen ihre Entscheidungen treffen, auch wenn sie falsch sind.
+
+---
+
+### Was ein König tun wird (Vers 10–18)
+
+<sup>10</sup>Samuel sagte dem Volk, das einen König von ihm verlangte,
+alle Worte des HERRN.
+<sup>11</sup>Er sagte:
+„Das wird das Recht des Königs sein, der über euch herrschen wird:
+Er wird eure Söhne nehmen und sie für sich einsetzen,
+für seine Wagen und als seine Reiter.
+Und sie werden vor seinen Wagen herlaufen.
+<sup>12</sup>Er wird sie für sich einsetzen als Anführer über Tausend und Anführer über Fünfzig.
+Manche wird er bestimmen, um sein Land zu pflügen und seine Ernte einzubringen
+und um seine Kriegswaffen und die Ausrüstung für seine Wagen zu machen.
+<sup>13</sup>Eure Töchter wird er nehmen, damit sie Salben mischen, kochen und backen.
+<sup>14</sup>Eure Felder, eure Weinberge und eure Olivengärten, die besten,
+wird er nehmen und seinen Dienern geben.
+<sup>15</sup>Von eurer Saat und von euren Weinbergen wird er den Zehnten nehmen
+und ihn seinen Beamten und seinen Dienern geben.
+<sup>16</sup>Eure Knechte und eure Mägde, eure besten jungen Männer und eure Esel
+wird er nehmen und für seine eigene Arbeit einsetzen.
+<sup>17</sup>Von euren Schafen und Ziegen wird er den Zehnten nehmen.
+Und ihr selbst werdet seine Knechte sein.
+<sup>18</sup>An jenem Tag werdet ihr schreien wegen eures Königs, den ihr euch selbst ausgewählt habt.
+Aber der HERR wird euch an jenem Tag nicht antworten.“
+
+> **Was bedeutet das?**
+> Samuel beschreibt ehrlich, wie Könige damals waren. Das Wort „nehmen“ kommt immer wieder vor: Er nimmt eure Söhne, eure Töchter, eure Felder, euer Vieh. Ein König braucht Soldaten, Arbeiter, Steuern und Land. Und am Ende seid ihr seine Knechte.
+> Genau das ist später wirklich passiert. Besonders König Salomo hat das Volk mit Steuern und Zwangsarbeit schwer belastet (1. Könige 12,4).
+> Das ist auch eine Warnung für heute: Wer viel Macht hat, ist in Gefahr, sie zu missbrauchen. Darum braucht jede Macht Grenzen.
+> „Der HERR wird euch nicht antworten“: Wer Gott bewusst ablehnt, kann sich später nicht beschweren, wenn er die Folgen tragen muss.
+
+---
+
+### Das Volk bleibt dabei (Vers 19–22)
+
+<sup>19</sup>Aber das Volk weigerte sich, auf die Stimme Samuels zu hören.
+Sie sagten:
+„Nein, wir wollen einen König über uns haben.
+<sup>20</sup>Dann sind auch wir wie alle Völker.
+Unser König soll uns richten,
+vor uns herziehen und unsere Kriege führen.“
+<sup>21</sup>Samuel hörte alle Worte des Volkes
+und sagte sie dem HERRN.
+<sup>22</sup>Der HERR sagte zu Samuel:
+„Hör auf ihre Stimme und setze einen König über sie ein.“
+Da sagte Samuel zu den Männern Israels:
+„Geht jeder in seine Stadt.“
+
+> **Was bedeutet das?**
+> Das Volk will um jeden Preis einen König. „Damit wir wie alle Völker sind.“ Und: „Er soll unsere Kriege führen.“ Aber bis jetzt hatte Gott ihre Kriege geführt, wie gerade erst in Kapitel 7 mit dem Donner.
+> Samuel bringt die Worte des Volkes zu Gott. Er ist der Vermittler zwischen beiden.
+> Gott sagt zum dritten Mal: „Hör auf ihre Stimme.“ Israel bekommt seinen König. Wie das geschieht, erzählt das nächste Kapitel.
+
+## 1. Samuel – Kapitel 9
+#### Saul sucht Eselinnen und findet ein Königreich
+
+---
+
+### Saul, der Sohn von Kisch (Vers 1–4)
+
+<sup>1</sup>Es war ein Mann aus Benjamin.
+Sein Name war Kisch, der Sohn von Abiel, dem Sohn von Zeror, dem Sohn von Bechorat,
+dem Sohn von Afiach, dem Sohn eines Benjaminiters.
+Er war ein tüchtiger und angesehener Mann.
+<sup>2</sup>Er hatte einen Sohn, der Saul hieß.
+Er war ein stattlicher junger Mann.
+Unter den Israeliten gab es keinen, der schöner war als er.
+Von den Schultern an aufwärts war er größer als das ganze Volk.
+<sup>3</sup>Die Esel von Kisch, dem Vater von Saul, hatten sich verlaufen.
+Kisch sagte zu seinem Sohn Saul:
+„Nimm doch einen von den Knechten mit dir,
+mach dich auf und such die Esel.“
+<sup>4</sup>Er zog durch das Bergland Efraim
+und zog durch das Land Schalischa,
+aber sie fanden sie nicht.
+Dann zogen sie durch das Land Schaalim, aber sie waren nicht dort.
+Dann zog er durch das Land der Benjaminiter, aber sie fanden sie nicht.
+
+> **Was bedeutet das?**
+> Saul kommt aus dem Stamm Benjamin, dem Stamm, der am Ende des Buches der Richter fast ausgelöscht worden war (Richter 20–21). Gerade aus diesem kleinen Stamm wählt Gott den ersten König.
+> Saul sieht aus wie ein König: groß, schön und stark. Er ist genau das, was die Menschen sich wünschen. Später wird Gott sagen: „Der Mensch sieht, was vor Augen ist; aber der HERR sieht das Herz an“ (Kapitel 16,7).
+> Im Hebräischen steht genauer: Eselinnen. Esel waren damals wertvoll, wie heute ein Auto oder ein Traktor.
+> Die Orte Schalischa und Schaalim kennt man heute nicht mehr genau.
+
+---
+
+### Der Rat des Knechtes (Vers 5–10)
+
+<sup>5</sup>Als sie in das Land Zuf kamen, sagte Saul zu seinem Knecht, der bei ihm war:
+„Komm! Lass uns zurückkehren.
+Sonst macht sich mein Vater keine Sorgen mehr um die Esel,
+sondern um uns.“
+<sup>6</sup>Der Knecht sagte zu ihm:
+„Schau doch, in dieser Stadt gibt es einen Mann Gottes.
+Er ist ein angesehener Mann.
+Alles, was er sagt, trifft ganz sicher ein.
+Lass uns jetzt dorthin gehen.
+Vielleicht kann er uns sagen, welchen Weg wir gehen sollen.“
+<sup>7</sup>Da sagte Saul zu seinem Knecht:
+„Aber schau, wenn wir hingehen, was sollen wir dem Mann mitbringen?
+Denn das Brot in unseren Säcken ist aufgebraucht,
+und wir haben kein Geschenk, das wir dem Mann Gottes bringen können.
+Was haben wir denn?“
+<sup>8</sup>Der Knecht antwortete Saul noch einmal und sagte:
+„Schau, ich habe einen Viertel Schekel Silber in meiner Hand.
+Den will ich dem Mann Gottes geben, damit er uns unseren Weg sagt.“
+<sup>9</sup>(Früher sagte man in Israel, wenn jemand Gott befragen wollte:
+„Kommt, lasst uns zum Seher gehen.“
+Denn wer heute „Prophet“ genannt wird, wurde früher „Seher“ genannt.)
+<sup>10</sup>Da sagte Saul zu seinem Knecht:
+„Gut gesagt. Komm, lass uns gehen.“
+So gingen sie in die Stadt, in der der Mann Gottes war.
+
+> **Was bedeutet das?**
+> Das Land Zuf war die Gegend, aus der Samuels Familie stammte (Kapitel 1,1). Die Stadt ist wohl Rama.
+> Saul kennt Samuel nicht. Der große Prophet, den „ganz Israel von Dan bis Beerscheba“ kennt (Kapitel 3,20), ist ihm unbekannt. Der Knecht weiß mehr als Saul. Das sagt etwas über Saul: Er hat sich wohl wenig um Gott gekümmert.
+> Ein Viertel Schekel sind etwa 3 Gramm Silber. Es war üblich, einem Propheten ein kleines Geschenk zu bringen.
+> Vers 9 ist eine Erklärung des Erzählers für spätere Leser: Ein „Seher“ ist jemand, der sieht, was andere nicht sehen. Später sagte man dazu „Prophet“.
+
+---
+
+### Die Mädchen am Brunnen (Vers 11–14)
+
+<sup>11</sup>Als sie den Weg zur Stadt hinaufgingen,
+trafen sie junge Mädchen, die herauskamen, um Wasser zu schöpfen.
+Sie fragten sie: „Ist der Seher hier?“
+<sup>12</sup>Sie antworteten ihnen:
+„Ja, er ist hier. Schaut, er ist vor euch.
+Beeilt euch jetzt, denn er ist heute in die Stadt gekommen.
+Denn das Volk hat heute ein Opfer auf der Opferhöhe.
+<sup>13</sup>Sobald ihr in die Stadt kommt, werdet ihr ihn sofort finden,
+bevor er zur Opferhöhe hinaufgeht, um zu essen.
+Denn das Volk isst nicht, bevor er kommt,
+denn er segnet das Opfer.
+Danach essen die Eingeladenen.
+Geht jetzt hinauf, denn um diese Zeit werdet ihr ihn finden.“
+<sup>14</sup>Sie gingen hinauf in die Stadt.
+Als sie mitten in die Stadt kamen,
+schau, da kam Samuel heraus, ihnen entgegen, um zur Opferhöhe hinaufzugehen.
+
+> **Was bedeutet das?**
+> Eine „Opferhöhe“ war ein Platz auf einem Hügel, an dem man Gott opferte. Später wurden solche Orte oft für fremde Götter benutzt und verboten. Aber damals, als es keinen Tempel gab, opferte man dort auch dem HERRN.
+> Nach dem Opfer gab es ein gemeinsames Festessen. Samuel als Prophet sprach zuerst das Segensgebet.
+> Alles passt genau zusammen: Die Esel laufen weg, Saul sucht drei Tage, er kommt genau an diesem Tag in diese Stadt, und Samuel kommt ihm genau in diesem Moment entgegen. Für den Leser ist klar: Das ist kein Zufall.
+
+---
+
+### Gott hat Saul angekündigt (Vers 15–21)
+
+<sup>15</sup>Der HERR hatte es Samuel einen Tag, bevor Saul kam, offenbart:
+<sup>16</sup>„Morgen um diese Zeit schicke ich dir einen Mann aus dem Land Benjamin.
+Den sollst du zum Fürsten über mein Volk Israel salben.
+Er wird mein Volk aus der Hand der Philister retten.
+Denn ich habe mein Volk angesehen,
+weil sein Schreien zu mir gekommen ist.“
+<sup>17</sup>Als Samuel Saul sah, sagte der HERR zu ihm:
+„Schau, das ist der Mann, von dem ich dir gesagt habe.
+Er soll über mein Volk herrschen.“
+<sup>18</sup>Da trat Saul im Tor zu Samuel heran und sagte:
+„Bitte sag mir, wo das Haus des Sehers ist.“
+<sup>19</sup>Samuel antwortete Saul und sagte:
+„Ich bin der Seher.
+Geh vor mir hinauf zur Opferhöhe,
+denn ihr sollt heute mit mir essen.
+Am Morgen will ich dich gehen lassen
+und dir alles sagen, was in deinem Herzen ist.
+<sup>20</sup>Und um die Esel, die dir vor drei Tagen verloren gegangen sind,
+mach dir keine Sorgen, denn sie sind gefunden worden.
+Und auf wen richtet sich das ganze Verlangen Israels?
+Ist es nicht auf dich und auf das ganze Haus deines Vaters?“
+<sup>21</sup>Saul antwortete:
+„Bin ich nicht ein Benjaminiter, aus dem kleinsten der Stämme Israels?
+Und ist meine Sippe nicht die geringste von allen Sippen des Stammes Benjamin?
+Warum sagst du so etwas zu mir?“
+
+> **Was bedeutet das?**
+> „Offenbart“ heißt wörtlich auf Hebräisch: „Er hatte das Ohr Samuels aufgedeckt.“ Gott hatte Samuel ein Geheimnis anvertraut.
+> Gott sagt nicht „König“, sondern „Fürst“ (hebräisch „Nagid“). Das bedeutet: Saul soll ein Anführer sein, der Gott untersteht. Der eigentliche König bleibt Gott.
+> Gott sagt: Ich habe das Schreien meines Volkes gehört. Obwohl das Volk ihn als König abgelehnt hat, sorgt Gott weiter für es.
+> Saul ist bescheiden: Ich bin doch nur aus dem kleinsten Stamm und aus einer unbedeutenden Familie. Das klingt gut. Gideon hatte ähnlich geantwortet (Richter 6,15). Aber später wird man sehen, dass Saul sich oft klein und unsicher fühlt und darum falsche Entscheidungen trifft.
+
+---
+
+### Das Festessen (Vers 22–27)
+
+<sup>22</sup>Samuel nahm Saul und seinen Knecht
+und brachte sie in den Saal.
+Er gab ihnen den besten Platz unter den Eingeladenen.
+Es waren etwa dreißig Leute.
+<sup>23</sup>Samuel sagte zum Koch:
+„Bring das Stück, das ich dir gegeben habe,
+von dem ich dir gesagt habe: ‚Leg es beiseite.‘“
+<sup>24</sup>Da brachte der Koch den Schenkel und was daran war
+und legte sie Saul vor.
+Samuel sagte:
+„Schau, das ist das, was aufbewahrt wurde!
+Leg es dir vor und iss.
+Denn es ist für dich aufbewahrt worden für diesen festgesetzten Zeitpunkt,
+denn ich habe gesagt: ‚Ich habe das Volk eingeladen.‘“
+So aß Saul an diesem Tag mit Samuel.
+<sup>25</sup>Als sie von der Opferhöhe in die Stadt hinabgekommen waren,
+redete er mit Saul auf dem Dach.
+<sup>26</sup>Sie standen früh auf.
+Als die Morgenröte aufging, rief Samuel Saul auf dem Dach zu und sagte:
+„Steh auf, damit ich dich verabschieden kann.“
+Saul stand auf, und sie gingen beide hinaus, er und Samuel, zusammen.
+<sup>27</sup>Als sie zum Rand der Stadt hinuntergingen,
+sagte Samuel zu Saul:
+„Sag dem Knecht, dass er vor uns weitergehen soll.“
+Er ging weiter.
+Dann sagte Samuel:
+„Du aber bleib jetzt stehen.
+Dann will ich dich das Wort Gottes hören lassen.“
+
+> **Was bedeutet das?**
+> Saul bekommt den Ehrenplatz und das beste Stück Fleisch. Samuel hatte es schon am Tag vorher für ihn zurücklegen lassen. Alle Gäste sehen: Dieser junge Mann ist etwas Besonderes.
+> Der Schenkel, die Keule, war ein Ehrenstück. Eigentlich gehörte sie bei einem Opfer den Priestern (3. Mose 7,32). Samuel gibt sie Saul.
+> Vers 24 ist im Hebräischen schwer zu verstehen. Die Ausleger übersetzen den letzten Teil auf verschiedene Weise.
+> Das Dach war bei den flachen Häusern damals ein Platz zum Reden und zum Schlafen. Die alte griechische Übersetzung sagt in Vers 25: Man machte Saul auf dem Dach ein Bett, und er legte sich schlafen.
+> Am Ende schickt Samuel den Knecht weg. Was jetzt kommt, soll geheim bleiben: Saul wird zum König gesalbt. Das erzählt das nächste Kapitel.
