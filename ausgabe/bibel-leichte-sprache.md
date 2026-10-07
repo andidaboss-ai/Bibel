@@ -29981,3 +29981,406 @@ der ihm im Bergland Efraim gegeben worden war.
 > Das Buch enthält viele harte Kriegsberichte. Wir haben sie nicht weggelassen, aber ehrlich gesagt: Sie gehören zu einer fernen Zeit, sie übertreiben oft in der Sprache ihrer Zeit, und sie dürfen niemals benutzt werden, um Gewalt oder Krieg zu rechtfertigen.
 > Und das Buch zeigt auch: Menschen aus fremden Völkern wie Rahab und die Gibeoniter finden einen Platz in Gottes Volk. Der Fremde Kaleb wird zum Vorbild der Treue.
 > Die wichtigste Botschaft: Gott hält sein Wort. Und jeder Mensch muss sich entscheiden, wem er dienen will.
+
+
+---
+
+# Richter
+
+## Richter – Kapitel 1
+#### Die Eroberung bleibt unvollständig
+
+---
+
+### Bevor es losgeht: Was ist das Buch der Richter?
+
+Das Buch der Richter erzählt von der Zeit nach Josua, bevor Israel einen König hatte. Diese Zeit dauerte vielleicht 200 bis 300 Jahre.
+Die „Richter“ waren keine Richter in einem Gericht, wie wir sie heute kennen. Es waren Anführer und Retter, die Gott in Zeiten der Not berief. Sie befreiten das Volk von Feinden. Bekannte Richter sind Debora, eine Frau, Gideon und Simson.
+Das Buch hat ein festes Muster, das sich immer wiederholt: Israel verlässt Gott und dient fremden Göttern. Dann wird es von Feinden unterdrückt. Das Volk schreit zu Gott. Gott schickt einen Retter. Es gibt Frieden. Und dann fängt alles wieder von vorn an.
+Mit jedem Mal wird es schlimmer. Am Ende des Buches ist das Volk in Chaos und Gewalt versunken. Der letzte Satz lautet: „In jenen Tagen gab es keinen König in Israel. Jeder tat, was in seinen eigenen Augen richtig war“ (Richter 21,25).
+Das Buch der Richter ist ehrlich. Es zeigt die dunklen Seiten des Volkes Gottes, auch schreckliche Gewalt, besonders gegen Frauen. Wir lassen nichts weg, aber wir erklären es. Die Bibel erzählt diese Geschichten nicht als Vorbild, sondern als Warnung: So sieht es aus, wenn Menschen Gott vergessen.
+Und trotzdem zeigt das Buch: Gott gibt sein Volk nicht auf. Immer wieder hört er auf den Schrei der Menschen und schickt Rettung.
+
+---
+
+### Juda zieht als Erster in den Kampf (Vers 1–7)
+
+<sup>1</sup>Nach dem Tod Josuas fragten die Israeliten den HERRN:
+„Wer von uns soll als Erster gegen die Kanaaniter hinaufziehen, um gegen sie zu kämpfen?“
+<sup>2</sup>Der HERR sagte:
+„Juda soll hinaufziehen.
+Schaut, ich habe das Land in seine Hand gegeben.“
+<sup>3</sup>Juda sagte zu seinem Bruder Simeon:
+„Zieh mit mir hinauf in mein Gebiet, damit wir gegen die Kanaaniter kämpfen.
+Dann will ich auch mit dir in dein Gebiet ziehen.“
+Da zog Simeon mit ihm.
+<sup>4</sup>Juda zog hinauf, und der HERR gab die Kanaaniter und die Perisiter in ihre Hand.
+Sie schlugen in Besek zehntausend Mann.
+<sup>5</sup>In Besek fanden sie Adoni-Besek und kämpften gegen ihn.
+Sie schlugen die Kanaaniter und die Perisiter.
+<sup>6</sup>Aber Adoni-Besek floh.
+Sie verfolgten ihn, nahmen ihn gefangen
+und hackten ihm die Daumen und die großen Zehen ab.
+<sup>7</sup>Adoni-Besek sagte:
+„Siebzig Könige mit abgehackten Daumen und großen Zehen
+haben unter meinem Tisch nach Essensresten gesucht.
+Wie ich es getan habe, so hat Gott es mir vergolten.“
+Sie brachten ihn nach Jerusalem, und dort starb er.
+
+> **Was bedeutet das?**
+> Nach Josuas Tod gibt es keinen einzelnen Anführer mehr. Die Stämme fragen Gott selbst. Juda, der größte Stamm, soll beginnen.
+> „Adoni-Besek“ bedeutet „Herr von Besek“.
+> Die Strafe ist grausam: Ohne Daumen kann man kein Schwert halten, ohne große Zehen nicht gut laufen. So machte man Krieger kampfunfähig. Adoni-Besek selbst hatte das siebzig Königen angetan. Er erkennt: Was ich anderen angetan habe, ist mir jetzt selbst geschehen.
+> Das ist keine Aufforderung, Menschen zu verstümmeln. Die Bibel erzählt hier, wie grausam die Zeit war.
+
+---
+
+### Jerusalem, Hebron und Debir (Vers 8–15)
+
+<sup>8</sup>Die Nachkommen Judas kämpften gegen Jerusalem.
+Sie nahmen es ein, schlugen es mit der Schärfe des Schwertes und steckten die Stadt in Brand.
+<sup>9</sup>Danach zogen die Nachkommen Judas hinab, um gegen die Kanaaniter zu kämpfen,
+die im Bergland, im Süden und im Hügelland wohnten.
+<sup>10</sup>Juda zog gegen die Kanaaniter, die in Hebron wohnten.
+(Der Name von Hebron war früher Kirjat-Arba.)
+Sie schlugen Scheschai, Ahiman und Talmai.
+<sup>11</sup>Von dort zog er gegen die Bewohner von Debir.
+(Der Name von Debir war früher Kirjat-Sefer.)
+<sup>12</sup>Kaleb sagte:
+„Wer Kirjat-Sefer schlägt und einnimmt, dem gebe ich meine Tochter Achsa zur Frau.“
+<sup>13</sup>Otniël, der Sohn von Kenas, der jüngere Bruder Kalebs, nahm es ein.
+Da gab er ihm seine Tochter Achsa zur Frau.
+<sup>14</sup>Als sie zu ihm kam, brachte sie ihn dazu, ihren Vater um ein Feld zu bitten.
+Sie stieg von ihrem Esel, und Kaleb fragte sie: „Was möchtest du?“
+<sup>15</sup>Sie sagte zu ihm:
+„Gib mir ein Segensgeschenk.
+Weil du mir Land im trockenen Süden gegeben hast, gib mir auch Wasserquellen.“
+Da gab Kaleb ihr die oberen Quellen und die unteren Quellen.
+
+> **Was bedeutet das?**
+> Jerusalem wird hier eingenommen und verbrannt. Aber in Vers 21 heißt es, dass die Jebusiter weiter dort wohnten. Vielleicht wurde nur ein Teil der Stadt zerstört, oder die Jebusiter kehrten zurück. Erst David hat Jerusalem endgültig eingenommen (2. Samuel 5).
+> Die Geschichte von Kaleb, Otniël und Achsa kennen wir schon aus Josua 15,13–19. Hier wird sie fast wörtlich noch einmal erzählt. Otniël wird bald der erste Richter (Kapitel 3).
+
+---
+
+### Erfolge im Süden (Vers 16–20)
+
+<sup>16</sup>Die Nachkommen des Keniters, des Schwagers von Mose,
+zogen mit den Nachkommen Judas aus der Palmenstadt hinauf in die Wüste Juda, die südlich von Arad liegt.
+Sie gingen hin und wohnten beim Volk.
+<sup>17</sup>Juda zog mit seinem Bruder Simeon.
+Sie schlugen die Kanaaniter, die in Zefat wohnten,
+und vollstreckten an der Stadt den Bann.
+Darum nannte man die Stadt Horma.
+<sup>18</sup>Juda nahm auch Gaza mit seinem Gebiet ein,
+Aschkelon mit seinem Gebiet und Ekron mit seinem Gebiet.
+<sup>19</sup>Der HERR war mit Juda, und es vertrieb die Bewohner des Berglandes.
+Aber die Bewohner der Ebene konnte es nicht vertreiben,
+denn sie hatten eiserne Streitwagen.
+<sup>20</sup>Und sie gaben Hebron an Kaleb, wie Mose es gesagt hatte.
+Und er vertrieb von dort die drei Söhne Anaks.
+
+> **Was bedeutet das?**
+> „Schwager“: So steht es in der englischen Vorlage. Das hebräische Wort meint meist „Schwiegervater“. Die Keniter waren die Familie von Moses Schwiegervater Jitro (2. Mose 18). Sie gehörten nicht zu Israel, lebten aber mit Israel zusammen. Die „Palmenstadt“ ist Jericho.
+> „Horma“ bedeutet „Bann“ oder „Vernichtung“.
+> Vers 18 sagt, dass Juda die Philisterstädte Gaza, Aschkelon und Ekron einnahm. Später gehören diese Städte aber wieder den Philistern. Die griechische Übersetzung der Bibel sagt hier sogar das Gegenteil: Juda nahm sie nicht ein.
+> Vers 19 ist bemerkenswert: „Der HERR war mit Juda“, und trotzdem konnten sie die Ebene nicht erobern, wegen der eisernen Wagen. Der Erzähler fragt nicht, warum. Aber die Frage bleibt: War es wirklich die Stärke der Feinde, oder fehlte Juda das Vertrauen?
+
+---
+
+### Die anderen Stämme vertreiben die Kanaaniter nicht (Vers 21–36)
+
+<sup>21</sup>Die Nachkommen Benjamins vertrieben die Jebusiter nicht, die in Jerusalem wohnten.
+So wohnen die Jebusiter mit den Nachkommen Benjamins in Jerusalem bis heute.
+<sup>22</sup>Auch das Haus Josef zog hinauf gegen Bethel, und der HERR war mit ihnen.
+<sup>23</sup>Das Haus Josef ließ Bethel auskundschaften.
+(Der Name der Stadt war früher Lus.)
+<sup>24</sup>Die Wächter sahen einen Mann aus der Stadt kommen und sagten zu ihm:
+„Zeig uns doch, wie man in die Stadt hineinkommt, dann wollen wir dir Güte erweisen.“
+<sup>25</sup>Er zeigte ihnen, wie man in die Stadt hineinkommt.
+Da schlugen sie die Stadt mit der Schärfe des Schwertes.
+Aber den Mann und seine ganze Familie ließen sie gehen.
+<sup>26</sup>Der Mann ging in das Land der Hetiter, baute eine Stadt und nannte sie Lus.
+So heißt sie bis heute.
+<sup>27</sup>Manasse vertrieb nicht die Bewohner von Bet-Schean und seinen Tochterstädten,
+von Taanach und seinen Tochterstädten, die Bewohner von Dor und seinen Tochterstädten,
+die Bewohner von Jibleam und seinen Tochterstädten
+und die Bewohner von Megiddo und seinen Tochterstädten.
+Sondern die Kanaaniter blieben entschlossen in diesem Land wohnen.
+<sup>28</sup>Als Israel stark wurde, machten sie die Kanaaniter zu Zwangsarbeitern.
+Aber sie vertrieben sie nicht ganz.
+<sup>29</sup>Efraim vertrieb die Kanaaniter nicht, die in Geser wohnten.
+Sondern die Kanaaniter wohnten mitten unter ihnen in Geser.
+<sup>30</sup>Sebulon vertrieb die Bewohner von Kitron nicht und auch nicht die Bewohner von Nahalol.
+Sondern die Kanaaniter wohnten mitten unter ihnen und mussten Zwangsarbeit leisten.
+<sup>31</sup>Asser vertrieb die Bewohner von Akko nicht,
+auch nicht die Bewohner von Sidon, Achlab, Achsib, Helba, Afik und Rehob.
+<sup>32</sup>Sondern die Asseriter wohnten mitten unter den Kanaanitern, den Bewohnern des Landes,
+denn sie vertrieben sie nicht.
+<sup>33</sup>Naftali vertrieb die Bewohner von Bet-Schemesch nicht und auch nicht die Bewohner von Bet-Anat.
+Sondern er wohnte mitten unter den Kanaanitern, den Bewohnern des Landes.
+Doch die Bewohner von Bet-Schemesch und Bet-Anat mussten Zwangsarbeit leisten.
+<sup>34</sup>Die Amoriter drängten die Nachkommen Dans ins Bergland zurück.
+Sie ließen sie nicht in die Ebene herabkommen.
+<sup>35</sup>Die Amoriter blieben entschlossen am Berg Heres, in Ajalon und in Schaalbim wohnen.
+Aber die Hand des Hauses Josef wurde schwer auf ihnen, sodass sie Zwangsarbeit leisten mussten.
+<sup>36</sup>Die Grenze der Amoriter reichte vom Aufstieg von Akrabbim, vom Felsen an und weiter hinauf.
+
+> **Was bedeutet das?**
+> Wie eine lange Liste von Misserfolgen: Stamm um Stamm vertreibt die Kanaaniter nicht. Bei manchen Stämmen wohnen die Kanaaniter unter Israel. Bei Asser und Naftali ist es umgekehrt: Israel wohnt unter den Kanaanitern. Und Dan wird sogar selbst vertrieben.
+> Das Problem waren nicht die Menschen an sich, sondern ihre Götter. Wie Josua gewarnt hatte (Josua 23,12–13), wurden die Völker zu einer Falle für Israel. Davon erzählt das Kapitel 2.
+> Zwangsarbeit für Menschen eines anderen Volkes entspricht nicht unserem heutigen Verständnis von Menschenwürde. Der Erzähler kritisiert sie aber nicht wegen der Menschenwürde, sondern weil Israel nicht tat, was Gott gesagt hatte.
+> Ein Mann aus Bethel verrät seine Stadt und wird verschont. Das erinnert an Rahab. Aber anders als Rahab wird er nicht Teil Israels. Er geht weg und baut eine neue Stadt.
+
+## Richter – Kapitel 2
+#### Eine neue Generation, die Gott nicht kennt
+
+---
+
+### Der Engel des HERRN in Bochim (Vers 1–5)
+
+<sup>1</sup>Der Engel des HERRN kam von Gilgal herauf nach Bochim und sagte:
+„Ich habe euch aus Ägypten heraufgeführt
+und euch in das Land gebracht, das ich euren Vätern geschworen habe.
+Ich habe gesagt: ‚Ich werde meinen Bund mit euch niemals brechen.
+<sup>2</sup>Ihr aber sollt keinen Bund mit den Bewohnern dieses Landes schließen.
+Ihre Altäre sollt ihr niederreißen.‘
+Aber ihr habt nicht auf meine Stimme gehört.
+Warum habt ihr das getan?
+<sup>3</sup>Darum habe ich auch gesagt:
+‚Ich werde sie nicht vor euch vertreiben.
+Sondern sie werden euch in den Seiten sitzen,
+und ihre Götter werden euch zur Falle werden.‘“
+<sup>4</sup>Als der Engel des HERRN diese Worte zu allen Israeliten sagte,
+erhob das Volk seine Stimme und weinte.
+<sup>5</sup>Sie nannten diesen Ort Bochim.
+Und sie opferten dort dem HERRN.
+
+> **Was bedeutet das?**
+> „Bochim“ bedeutet „die Weinenden“.
+> Der Engel des HERRN spricht, als wäre er Gott selbst: „Ich habe euch aus Ägypten heraufgeführt.“ In der Bibel ist der Engel des HERRN oft ein Bote, durch den Gott selbst spricht.
+> Gott bleibt treu: „Ich werde meinen Bund niemals brechen.“ Aber Israel hat nicht gehört. Darum werden die Völker im Land bleiben, mit all ihren Versuchungen.
+> Das Volk weint. Aber die Frage ist: Weinen sie aus echter Reue, oder nur, weil es ihnen leidtut, was jetzt kommt?
+
+---
+
+### Rückblick auf Josuas Tod (Vers 6–10)
+
+<sup>6</sup>Als Josua das Volk entlassen hatte,
+gingen die Israeliten jeder in sein Erbteil, um das Land in Besitz zu nehmen.
+<sup>7</sup>Das Volk diente dem HERRN, solange Josua lebte
+und solange die Ältesten lebten, die Josua überlebten
+und die das ganze große Werk des HERRN gesehen hatten, das er für Israel getan hatte.
+<sup>8</sup>Josua, der Sohn von Nun, der Knecht des HERRN, starb mit 110 Jahren.
+<sup>9</sup>Man begrub ihn im Gebiet seines Erbteils, in Timnat-Heres im Bergland Efraim, nördlich vom Berg Gaasch.
+<sup>10</sup>Auch diese ganze Generation wurde zu ihren Vätern versammelt.
+Und nach ihnen kam eine andere Generation auf,
+die den HERRN nicht kannte
+und auch nicht das Werk, das er für Israel getan hatte.
+
+> **Was bedeutet das?**
+> Diese Verse wiederholen fast wörtlich das Ende des Buches Josua (Josua 24,28–31). Sie erinnern daran, wie es zu der neuen Lage kam.
+> „Timnat-Heres“: In Josua 24,30 hieß der Ort „Timnat-Serach“. Die Buchstaben sind vertauscht. „Heres“ bedeutet „Sonne“.
+> Vers 10 ist einer der traurigsten Sätze der Bibel: Eine neue Generation wächst auf, „die den HERRN nicht kannte“. Die Eltern haben Gottes Taten gesehen, aber sie haben es ihren Kindern nicht weitergegeben. Dabei hatte Mose so oft gesagt: Erzählt es euren Kindern! (5. Mose 6,7).
+> Glaube wird nicht vererbt. Jede Generation muss Gott selbst kennenlernen.
+
+---
+
+### Der Kreislauf der Richterzeit (Vers 11–19)
+
+<sup>11</sup>Die Israeliten taten, was in den Augen des HERRN böse war,
+und dienten den Baalen.
+<sup>12</sup>Sie verließen den HERRN, den Gott ihrer Väter,
+der sie aus dem Land Ägypten herausgeführt hatte,
+und liefen anderen Göttern nach, den Göttern der Völker, die rings um sie wohnten.
+Sie warfen sich vor ihnen nieder und kränkten den HERRN.
+<sup>13</sup>Sie verließen den HERRN und dienten dem Baal und den Astarten.
+<sup>14</sup>Da entbrannte der Zorn des HERRN gegen Israel.
+Er gab sie in die Hand von Räubern, die sie ausplünderten.
+Er verkaufte sie in die Hand ihrer Feinde ringsum,
+sodass sie nicht mehr vor ihren Feinden bestehen konnten.
+<sup>15</sup>Wohin sie auch auszogen, war die Hand des HERRN gegen sie, zum Unglück,
+wie der HERR es gesagt und wie der HERR es ihnen geschworen hatte.
+Und sie waren in großer Not.
+<sup>16</sup>Da ließ der HERR Richter aufstehen,
+die sie aus der Hand ihrer Plünderer retteten.
+<sup>17</sup>Aber auch auf ihre Richter hörten sie nicht.
+Denn sie ließen sich wie Prostituierte mit anderen Göttern ein und warfen sich vor ihnen nieder.
+Schnell wichen sie von dem Weg ab, den ihre Väter gegangen waren,
+die den Geboten des HERRN gehorcht hatten.
+So taten sie es nicht.
+<sup>18</sup>Wenn der HERR ihnen Richter aufstehen ließ,
+dann war der HERR mit dem Richter
+und rettete sie aus der Hand ihrer Feinde, solange der Richter lebte.
+Denn es tat dem HERRN leid, wenn sie stöhnten
+wegen derer, die sie unterdrückten und quälten.
+<sup>19</sup>Aber wenn der Richter gestorben war,
+dann fielen sie wieder ab und trieben es noch schlimmer als ihre Väter.
+Sie liefen anderen Göttern nach, um ihnen zu dienen und sich vor ihnen niederzuwerfen.
+Sie ließen nicht ab von ihren Taten und von ihrem sturen Weg.
+
+> **Was bedeutet das?**
+> Hier wird das Muster des ganzen Buches erklärt. Es ist wie ein Kreis, der sich immer wiederholt:
+> 1. Israel verlässt Gott und dient fremden Göttern.
+> 2. Gott lässt zu, dass Feinde Israel unterdrücken.
+> 3. Israel stöhnt und schreit in seiner Not.
+> 4. Gott hat Mitleid und schickt einen Richter, der das Volk rettet.
+> 5. Solange der Richter lebt, ist Frieden.
+> 6. Nach seinem Tod fällt Israel wieder ab, sogar noch schlimmer als vorher.
+> „Baal“ war ein Gott der Kanaaniter. Man glaubte, er bringe Regen und Fruchtbarkeit. „Astarte“ war eine Göttin der Liebe und der Fruchtbarkeit. Für Bauern war die Versuchung groß: Man wollte sicher sein, dass die Ernte gut wird.
+> Vers 18 zeigt Gottes Herz: „Es tat dem HERRN leid, wenn sie stöhnten.“ Gott leidet mit, wenn sein Volk leidet, auch wenn es selbst schuld ist.
+
+---
+
+### Gott prüft Israel (Vers 20–23)
+
+<sup>20</sup>Da entbrannte der Zorn des HERRN gegen Israel, und er sagte:
+„Weil dieses Volk meinen Bund übertreten hat, den ich ihren Vätern geboten habe,
+und nicht auf meine Stimme gehört hat,
+<sup>21</sup>darum will auch ich keines der Völker mehr vor ihnen vertreiben,
+die Josua bei seinem Tod übrig gelassen hat,
+<sup>22</sup>um Israel durch sie zu prüfen:
+ob sie auf dem Weg des HERRN bleiben und darauf gehen, wie ihre Väter es getan haben, oder nicht.“
+<sup>23</sup>So ließ der HERR diese Völker bleiben und vertrieb sie nicht schnell.
+Er hatte sie auch nicht in die Hand Josuas gegeben.
+
+> **Was bedeutet das?**
+> Warum blieben die anderen Völker im Land? Die Bibel gibt mehrere Antworten. Hier steht: Sie sind eine Prüfung. Gott will sehen, ob Israel ihm treu bleibt, auch wenn die Versuchung direkt nebenan wohnt.
+> Das gilt auch für uns: Treue zu Gott zeigt sich nicht dann, wenn alles leicht ist, sondern wenn es Versuchungen gibt.
+
+## Richter – Kapitel 3
+#### Die ersten Richter: Otniël, Ehud und Schamgar
+
+---
+
+### Die Völker, die im Land blieben (Vers 1–6)
+
+<sup>1</sup>Das sind die Völker, die der HERR übrig ließ, um Israel durch sie zu prüfen,
+alle, die keinen der Kriege um Kanaan erlebt hatten.
+<sup>2</sup>Es geschah nur, damit die Generationen der Israeliten es lernten,
+um sie den Krieg zu lehren, wenigstens die, die ihn vorher nicht gekannt hatten:
+<sup>3</sup>die fünf Fürsten der Philister, alle Kanaaniter, die Sidonier
+und die Hiwiter, die im Gebirge Libanon wohnten, vom Berg Baal-Hermon bis dorthin, wo es nach Hamat hineingeht.
+<sup>4</sup>Sie blieben übrig, um Israel durch sie zu prüfen,
+um zu erkennen, ob sie auf die Gebote des HERRN hören würden,
+die er ihren Vätern durch Mose geboten hatte.
+<sup>5</sup>So wohnten die Israeliten mitten unter den Kanaanitern, den Hetitern, den Amoritern,
+den Perisitern, den Hiwitern und den Jebusitern.
+<sup>6</sup>Sie nahmen sich ihre Töchter zu Frauen
+und gaben ihre eigenen Töchter ihren Söhnen
+und dienten ihren Göttern.
+
+> **Was bedeutet das?**
+> Hier wird ein weiterer Grund genannt, warum Völker im Land blieben: Die neue Generation sollte lernen, sich zu verteidigen und dabei auf Gott zu vertrauen.
+> Vers 6 zeigt, was Josua befürchtet hatte: Durch die Ehen übernahm Israel die fremden Götter. Es ging nicht um die Herkunft der Menschen, sondern um den Glauben.
+
+---
+
+### Otniël, der erste Richter (Vers 7–11)
+
+<sup>7</sup>Die Israeliten taten, was in den Augen des HERRN böse war.
+Sie vergaßen den HERRN, ihren Gott, und dienten den Baalen und den Ascheren.
+<sup>8</sup>Da entbrannte der Zorn des HERRN gegen Israel,
+und er verkaufte sie in die Hand von Kuschan-Rischatajim, dem König von Mesopotamien.
+Und die Israeliten dienten Kuschan-Rischatajim acht Jahre lang.
+<sup>9</sup>Da schrien die Israeliten zum HERRN.
+Und der HERR ließ den Israeliten einen Retter aufstehen, der sie rettete:
+Otniël, den Sohn von Kenas, den jüngeren Bruder Kalebs.
+<sup>10</sup>Der Geist des HERRN kam über ihn, und er richtete Israel.
+Er zog in den Krieg, und der HERR gab Kuschan-Rischatajim, den König von Mesopotamien, in seine Hand.
+Seine Hand wurde stark gegen Kuschan-Rischatajim.
+<sup>11</sup>Und das Land hatte vierzig Jahre Ruhe.
+Dann starb Otniël, der Sohn von Kenas.
+
+> **Was bedeutet das?**
+> Hier sehen wir den Kreislauf aus Kapitel 2 zum ersten Mal ganz: Abfall, Unterdrückung, Schreien, Rettung, Ruhe.
+> „Kuschan-Rischatajim“ bedeutet etwa „Kuschan, der doppelt Böse“. Das klingt wie ein Spottname.
+> Otniël kennen wir schon: Er hat Debir erobert und Achsa geheiratet (Kapitel 1). Er stammt aus der Familie Kalebs, des treuen Kundschafters.
+> „Der Geist des HERRN kam über ihn“: Die Richter waren nicht aus eigener Kraft stark. Gottes Geist gab ihnen Mut und Kraft für ihre Aufgabe.
+> „Vierzig Jahre“ bedeutet in der Bibel oft: eine ganze Generation, eine lange Zeit.
+
+---
+
+### Ehud und der König Eglon (Vers 12–26)
+
+<sup>12</sup>Die Israeliten taten wieder, was in den Augen des HERRN böse war.
+Da machte der HERR Eglon, den König von Moab, stark gegen Israel,
+weil sie getan hatten, was in den Augen des HERRN böse war.
+<sup>13</sup>Er versammelte die Ammoniter und die Amalekiter um sich.
+Er zog hin und schlug Israel, und sie nahmen die Palmenstadt in Besitz.
+<sup>14</sup>Die Israeliten dienten Eglon, dem König von Moab, achtzehn Jahre lang.
+<sup>15</sup>Da schrien die Israeliten zum HERRN.
+Und der HERR ließ ihnen einen Retter aufstehen:
+Ehud, den Sohn von Gera, den Benjaminiter, einen Mann, der Linkshänder war.
+Die Israeliten schickten durch ihn den Tribut an Eglon, den König von Moab.
+<sup>16</sup>Ehud machte sich ein Schwert, das zwei Schneiden hatte und etwa 45 Zentimeter lang war.
+Er band es unter seiner Kleidung an seinen rechten Oberschenkel.
+<sup>17</sup>Er überbrachte Eglon, dem König von Moab, den Tribut.
+Eglon aber war ein sehr dicker Mann.
+<sup>18</sup>Als Ehud den Tribut überbracht hatte,
+schickte er die Leute weg, die den Tribut getragen hatten.
+<sup>19</sup>Er selbst aber kehrte bei den Steinbildern um, die bei Gilgal standen, und sagte:
+„Ich habe eine geheime Botschaft für dich, König.“
+Der König sagte: „Still!“
+Und alle, die bei ihm standen, gingen von ihm hinaus.
+<sup>20</sup>Ehud kam zu ihm.
+Er saß ganz allein in seinem kühlen Obergemach.
+Ehud sagte: „Ich habe eine Botschaft von Gott für dich.“
+Da stand er von seinem Sitz auf.
+<sup>21</sup>Ehud streckte seine linke Hand aus,
+nahm das Schwert von seinem rechten Oberschenkel
+und stieß es ihm in den Bauch.
+<sup>22</sup>Auch der Griff fuhr hinter der Klinge hinein,
+und das Fett schloss sich um die Klinge.
+Denn er zog das Schwert nicht aus seinem Bauch heraus.
+Und es trat hinten heraus.
+<sup>23</sup>Dann ging Ehud hinaus in die Vorhalle,
+schloss die Türen des Obergemachs hinter ihm und verriegelte sie.
+<sup>24</sup>Als er hinausgegangen war, kamen die Diener des Königs.
+Sie sahen, dass die Türen des Obergemachs verriegelt waren.
+Sie sagten: „Sicher bedeckt er gerade seine Füße im Obergemach.“
+<sup>25</sup>Sie warteten, bis sie sich schämten.
+Und schaut: Er öffnete die Türen des Obergemachs nicht.
+Da nahmen sie den Schlüssel und öffneten.
+Und schaut: Ihr Herr lag tot auf dem Boden.
+<sup>26</sup>Ehud aber war entkommen, während sie warteten.
+Er war an den Steinbildern vorbeigegangen und nach Seïra entkommen.
+
+> **Was bedeutet das?**
+> In der Bibel steht: eine Elle lang. Eine Elle sind etwa 45 Zentimeter.
+> Moab, Ammon und Amalek greifen gemeinsam an. Sie nehmen Jericho ein, die „Palmenstadt“. Achtzehn Jahre muss Israel Tribut zahlen, also Abgaben an den fremden König.
+> Ehud war Linkshänder. Das ist wichtig für die Geschichte: Die Wachen suchten das Schwert wohl an der linken Seite, wo Rechtshänder es tragen. Darum fanden sie es nicht. Der Name „Benjamin“ bedeutet übrigens „Sohn der rechten Hand“. Ein Linkshänder aus dem Stamm der „rechten Hand“, das ist ein kleiner Witz in der Geschichte.
+> Die Geschichte ist sehr anschaulich erzählt, fast wie ein Krimi, und mit derbem Humor: Der König ist so dick, dass das Fett das Schwert verschluckt. Die Diener denken, er sitze auf der Toilette. „Seine Füße bedecken“ ist eine höfliche Umschreibung dafür. Darum warten sie so lange, „bis sie sich schämten“.
+> Ehud handelt mit List und tötet einen König. Heute würden wir das ein Attentat nennen. Die Bibel erzählt es als Befreiung aus der Unterdrückung. Sie ist aber kein Aufruf, Herrscher zu ermorden.
+
+---
+
+### Moab wird besiegt (Vers 27–30)
+
+<sup>27</sup>Als er dort angekommen war, blies er das Horn im Bergland Efraim.
+Da zogen die Israeliten mit ihm vom Bergland hinab, und er ging vor ihnen her.
+<sup>28</sup>Er sagte zu ihnen:
+„Folgt mir! Denn der HERR hat eure Feinde, die Moabiter, in eure Hand gegeben.“
+Sie folgten ihm und besetzten die Furten des Jordan gegen die Moabiter.
+Und sie ließen niemanden hinüber.
+<sup>29</sup>Sie schlugen damals etwa zehntausend Mann von Moab, lauter starke und tapfere Männer.
+Keiner entkam.
+<sup>30</sup>So wurde Moab an diesem Tag unter die Hand Israels gebeugt.
+Und das Land hatte achtzig Jahre Ruhe.
+
+> **Was bedeutet das?**
+> Die Moabiter wollten über den Jordan in ihre Heimat fliehen. Aber Israel besetzte die Furten, die flachen Stellen, an denen man den Fluss durchqueren konnte.
+> Achtzig Jahre Ruhe: Das sind zwei Generationen, die längste Friedenszeit im ganzen Buch.
+
+---
+
+### Schamgar (Vers 31)
+
+<sup>31</sup>Nach ihm kam Schamgar, der Sohn von Anat.
+Er schlug sechshundert Mann von den Philistern mit einem Ochsenstachel.
+Auch er rettete Israel.
+
+> **Was bedeutet das?**
+> Über Schamgar wird nur ein einziger Satz erzählt. Ein Ochsenstachel war ein langer Stock mit einer Metallspitze, mit dem man Rinder beim Pflügen antrieb. Schamgar hatte keine richtige Waffe, nur ein Werkzeug vom Bauernhof. Trotzdem rettete er Israel.
+> „Anat“ war der Name einer kanaanitischen Göttin. Vielleicht war Schamgar gar kein Israelit. Trotzdem gebrauchte Gott ihn.
+> Schamgar wird auch im Lied der Debora erwähnt (Kapitel 5,6).
