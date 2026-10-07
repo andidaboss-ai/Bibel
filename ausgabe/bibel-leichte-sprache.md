@@ -25690,3 +25690,313 @@ Darum gebiete ich dir, das zu tun.
 > **Was bedeutet das?**
 > Man soll bei der Ernte nicht alles bis zum letzten Rest einsammeln. Was übrig bleibt, gehört den Armen. Sie dürfen kommen und es auflesen. So haben sie zu essen, und zwar mit Würde, durch eigene Arbeit, ohne betteln zu müssen.
 > Genau so hat Rut, die arme Witwe aus Moab, auf dem Feld von Boas Ähren gesammelt (Rut 2). So begann eine der schönsten Geschichten der Bibel.
+
+## 5. Mose – Kapitel 25
+#### Begrenzte Strafen – Schwagerehe – ehrliche Gewichte
+
+---
+
+### Nicht mehr als vierzig Schläge (Vers 1–3)
+
+<sup>1</sup>Wenn es einen Streit zwischen Männern gibt
+und sie vor Gericht kommen und die Richter über sie urteilen,
+dann sollen sie den Gerechten freisprechen und den Schuldigen verurteilen.
+<sup>2</sup>Wenn der Schuldige Schläge verdient hat,
+dann soll der Richter ihn sich hinlegen lassen
+und ihn vor seinen Augen schlagen lassen,
+mit einer Anzahl von Schlägen, die seiner Schuld entspricht.
+<sup>3</sup>Er darf ihn zu nicht mehr als vierzig Schlägen verurteilen.
+Er soll nicht mehr geben.
+Sonst, wenn er ihm mehr Schläge gibt als diese,
+wird dein Bruder vor deinen Augen entwürdigt.
+
+> **Was bedeutet das?**
+> Körperstrafen waren damals üblich. Heute lehnen wir sie ab, weil sie die Würde des Menschen verletzen.
+> Aber auch hier gibt die Bibel eine Grenze: Nie mehr als vierzig Schläge. Und der Richter muss dabei sein, damit niemand übertreibt. Der Grund ist bemerkenswert: Der Bestrafte bleibt „dein Bruder“. Er darf nicht entwürdigt werden.
+> Später gaben die Juden sicherheitshalber nur 39 Schläge, um die Grenze auf keinen Fall zu überschreiten. Paulus erzählt, dass er fünfmal „vierzig weniger einen“ Schläge bekommen hat (2. Korinther 11,24).
+
+---
+
+### Dem Rind beim Dreschen nicht das Maul verbinden (Vers 4)
+
+<sup>4</sup>Du sollst dem Rind nicht das Maul zubinden, wenn es drischt.
+
+> **Was bedeutet das?**
+> Beim Dreschen lief ein Rind im Kreis über das Getreide, damit die Körner sich von den Halmen lösten. Das Rind soll dabei fressen dürfen. Wer arbeitet, soll auch etwas davon haben, selbst ein Tier.
+> Paulus wendet diesen Vers auf Menschen an: Wer für die Gemeinde arbeitet, soll auch davon leben dürfen (1. Korinther 9,9–10).
+
+---
+
+### Die Schwagerehe (Vers 5–10)
+
+<sup>5</sup>Wenn Brüder zusammen wohnen
+und einer von ihnen stirbt und hat keinen Sohn,
+dann soll die Frau des Verstorbenen nicht einen fremden Mann außerhalb der Familie heiraten.
+Ihr Schwager soll zu ihr eingehen und sie zur Frau nehmen
+und die Pflicht eines Schwagers an ihr erfüllen.
+<sup>6</sup>Und der erste Sohn, den sie bekommt, soll den Namen des verstorbenen Bruders weitertragen,
+damit sein Name in Israel nicht ausgelöscht wird.
+<sup>7</sup>Wenn der Mann die Frau seines Bruders aber nicht nehmen will,
+dann soll die Frau seines Bruders zum Tor hinaufgehen, zu den Ältesten, und sagen:
+„Mein Schwager weigert sich, seinem Bruder einen Namen in Israel zu erhalten.
+Er will die Pflicht eines Schwagers an mir nicht erfüllen.“
+<sup>8</sup>Dann sollen die Ältesten seiner Stadt ihn rufen und mit ihm reden.
+Wenn er dabei bleibt und sagt: „Ich will sie nicht nehmen“,
+<sup>9</sup>dann soll die Frau seines Bruders vor den Augen der Ältesten zu ihm treten,
+ihm die Sandale vom Fuß ziehen und ihm ins Gesicht spucken.
+Und sie soll sagen:
+„So soll man es mit dem Mann machen, der das Haus seines Bruders nicht aufbauen will.“
+<sup>10</sup>Und sein Name soll in Israel heißen: „Das Haus dessen, dem die Sandale ausgezogen wurde“.
+
+> **Was bedeutet das?**
+> Wenn ein Mann starb, ohne einen Sohn zu haben, war seine Witwe in großer Not. Sie hatte keine Versorgung und keinen Anteil am Land. Und der Name des Verstorbenen wäre ausgestorben.
+> Darum sollte sein Bruder die Witwe heiraten. Das erste Kind galt dann als Kind des Verstorbenen. So war die Witwe versorgt, und die Familie des Toten lebte weiter.
+> Der Bruder durfte sich aber weigern. Dann musste er eine öffentliche Schande ertragen. Die Witwe durfte ihn vor allen bloßstellen. So hatte sie wenigstens die Möglichkeit, ihr Recht einzufordern.
+> Die Bibel erzählt zwei Geschichten dazu: Tamar (1. Mose 38) und Rut (Rut 4). Bei Rut wird die Sandale anders verwendet, als Zeichen dafür, dass ein Recht weitergegeben wird.
+
+---
+
+### Ein unerlaubter Griff im Streit (Vers 11–12)
+
+<sup>11</sup>Wenn Männer miteinander streiten,
+und die Frau des einen kommt herbei, um ihren Mann aus der Hand dessen zu retten, der ihn schlägt,
+und sie streckt ihre Hand aus und packt den anderen an seinen Geschlechtsteilen,
+<sup>12</sup>dann sollst du ihr die Hand abhauen.
+Dein Auge soll kein Mitleid haben.
+
+> **Was bedeutet das?**
+> Dieses Gesetz ist für uns schwer zu verstehen und sehr hart. Wahrscheinlich ging es darum, dass der Mann durch den Griff zeugungsunfähig werden konnte. Dann hätte er keine Nachkommen mehr gehabt. Das passt zum vorigen Abschnitt, in dem es um den Erhalt der Familie geht.
+> Es ist die einzige Stelle im Gesetz Israels, in der eine Verstümmelung als Strafe vorkommt.
+> Die jüdischen Gelehrten haben dieses Gesetz nicht wörtlich angewendet. Sie haben es als Geldstrafe für die Beschämung verstanden.
+> Heute wäre eine solche Strafe ein schweres Unrecht. Niemand darf sich darauf berufen.
+
+---
+
+### Ehrliche Gewichte und Maße (Vers 13–16)
+
+<sup>13</sup>Du sollst nicht zweierlei Gewichtssteine in deinem Beutel haben, einen schweren und einen leichten.
+<sup>14</sup>Du sollst nicht zweierlei Messgefäße in deinem Haus haben, ein großes und ein kleines.
+<sup>15</sup>Du sollst einen vollen und gerechten Gewichtsstein haben.
+Du sollst ein volles und gerechtes Messgefäß haben,
+damit du lange lebst in dem Land, das der HERR, dein Gott, dir gibt.
+<sup>16</sup>Denn jeder, der so etwas tut, jeder, der Unrecht tut, ist ein Gräuel für den HERRN, deinen Gott.
+
+> **Was bedeutet das?**
+> Damals wog man Waren mit Gewichtssteinen auf einer Waage. Ein Betrüger hatte zwei Sätze: einen schweren zum Einkaufen und einen leichten zum Verkaufen. So betrog er seine Kunden.
+> Gott will Ehrlichkeit im Geschäft. Betrug beim Handel ist für ihn ein „Gräuel“, genauso wie Götzendienst. Das zeigt: Glaube und Alltag gehören zusammen. Wer Gott ehrt, muss auch beim Einkaufen und Verkaufen ehrlich sein.
+
+---
+
+### Denk an Amalek (Vers 17–19)
+
+<sup>17</sup>Denk daran, was Amalek dir auf dem Weg angetan hat, als ihr aus Ägypten gezogen seid,
+<sup>18</sup>wie er dir auf dem Weg entgegengetreten ist
+und die Letzten von dir angegriffen hat, alle Schwachen hinter dir,
+als du müde und erschöpft warst.
+Und er hatte keine Ehrfurcht vor Gott.
+<sup>19</sup>Wenn dir der HERR, dein Gott, Ruhe gegeben hat vor allen deinen Feinden ringsum
+in dem Land, das der HERR, dein Gott, dir als Erbe gibt, um es in Besitz zu nehmen,
+dann sollst du die Erinnerung an Amalek unter dem Himmel auslöschen.
+Vergiss es nicht!
+
+> **Was bedeutet das?**
+> Die Amalekiter griffen Israel in der Wüste an (2. Mose 17,8–16). Hier erfahren wir, wie feige dieser Angriff war: Sie griffen nicht die Krieger an, sondern die Schwächsten am Ende des Zuges: die Alten, die Kranken, die Müden.
+> „Er hatte keine Ehrfurcht vor Gott“: Wer die Schwächsten angreift, zeigt, dass ihm nichts heilig ist.
+> Der Befehl, die Erinnerung an Amalek auszulöschen, ist sehr hart. Im Judentum ist „Amalek“ zu einem Bild geworden für jede Macht, die Schwache und Wehrlose angreift und ohne jedes Gewissen ist.
+> Ein Widerspruch fällt auf: „Lösche die Erinnerung aus“ und „Vergiss es nicht!“ Gemeint ist: Vergiss nie, was Böses ist, damit es nicht wieder geschieht.
+> Diese Stelle darf niemals benutzt werden, um ein heutiges Volk oder eine Gruppe zu Feinden zu erklären und Gewalt gegen sie zu rechtfertigen.
+
+## 5. Mose – Kapitel 26
+#### Die ersten Früchte – ein Bekenntnis – der Bund
+
+---
+
+### Der Korb mit den ersten Früchten (Vers 1–4)
+
+<sup>1</sup>Wenn du in das Land kommst, das der HERR, dein Gott, dir als Erbe gibt,
+und es in Besitz nimmst und darin wohnst,
+<sup>2</sup>dann sollst du von den ersten aller Früchte des Bodens nehmen,
+die du von deinem Land einbringst, das der HERR, dein Gott, dir gibt.
+Du sollst sie in einen Korb legen
+und an den Ort gehen, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen.
+<sup>3</sup>Du sollst zu dem Priester kommen, der in jenen Tagen da ist, und zu ihm sagen:
+„Ich bekenne heute vor dem HERRN, deinem Gott,
+dass ich in das Land gekommen bin, das der HERR unseren Vätern geschworen hat, uns zu geben.“
+<sup>4</sup>Der Priester soll den Korb aus deiner Hand nehmen
+und ihn vor den Altar des HERRN, deines Gottes, stellen.
+
+> **Was bedeutet das?**
+> Wenn die erste Ernte im neuen Land reif ist, soll jeder einen Korb mit den ersten Früchten zum Heiligtum bringen. Das ist ein Zeichen des Dankes: Das Land und alles, was darauf wächst, ist ein Geschenk Gottes.
+
+---
+
+### „Mein Vater war ein umherirrender Aramäer“ (Vers 5–11)
+
+<sup>5</sup>Dann sollst du vor dem HERRN, deinem Gott, anfangen zu sprechen und sagen:
+„Mein Vater war ein Syrer, dem Untergang nahe.
+Er zog hinab nach Ägypten und lebte dort als Fremder, mit nur wenigen Leuten.
+Dort wurde er zu einem großen, starken und zahlreichen Volk.
+<sup>6</sup>Die Ägypter misshandelten uns, sie unterdrückten uns
+und legten uns harte Arbeit auf.
+<sup>7</sup>Da schrien wir zum HERRN, dem Gott unserer Väter.
+Und der HERR hörte unsere Stimme und sah unser Elend, unsere Mühe und unsere Unterdrückung.
+<sup>8</sup>Der HERR führte uns aus Ägypten heraus
+mit starker Hand und mit ausgestrecktem Arm,
+mit großem Schrecken, mit Zeichen und mit Wundern.
+<sup>9</sup>Und er hat uns an diesen Ort gebracht und uns dieses Land gegeben,
+ein Land, in dem Milch und Honig fließen.
+<sup>10</sup>Und nun, schau, ich habe die ersten Früchte des Bodens gebracht,
+den du, HERR, mir gegeben hast.“
+Dann sollst du sie vor den HERRN, deinen Gott, stellen
+und dich vor dem HERRN, deinem Gott, niederwerfen.
+<sup>11</sup>Und du sollst dich freuen über alles Gute, das der HERR, dein Gott, dir und deinem Haus gegeben hat,
+du und der Levit und der Fremde, der bei dir lebt.
+
+> **Was bedeutet das?**
+> „Syrer“: So steht es in der englischen Vorlage. Im Hebräischen steht „Aramäer“. Die Aramäer lebten in der Gegend des heutigen Syrien. Gemeint ist Jakob, der lange bei seinem Onkel Laban in Aram lebte. „Dem Untergang nahe“ kann man auch übersetzen mit „umherirrend“ oder „heimatlos“.
+> Dieses Gebet ist wie ein kurzes Glaubensbekenntnis Israels. In wenigen Sätzen wird die ganze Geschichte erzählt: Wir waren heimatlos. Wir waren Sklaven. Wir haben geschrien. Gott hat gehört und uns befreit. Er hat uns dieses Land gegeben.
+> Auffällig: Der Bauer, der Jahrhunderte später lebt, sagt „uns“ und „wir“. Er war nicht selbst in Ägypten. Aber die Geschichte seines Volkes ist auch seine Geschichte.
+> Dieser Text ist bis heute ein zentraler Teil der jüdischen Passa-Feier (Haggada).
+> Und wieder: Die Freude wird geteilt, auch mit dem Leviten und dem Fremden.
+
+---
+
+### Der Zehnte im dritten Jahr (Vers 12–15)
+
+<sup>12</sup>Wenn du im dritten Jahr, dem Jahr des Zehnten, den ganzen Zehnten deiner Ernte abgesondert hast,
+dann sollst du ihn dem Leviten, dem Fremden, der Waise und der Witwe geben,
+damit sie in deinen Toren essen und satt werden.
+<sup>13</sup>Und du sollst vor dem HERRN, deinem Gott, sagen:
+„Ich habe das Heilige aus meinem Haus weggeschafft,
+und ich habe es auch dem Leviten, dem Fremden, der Waise und der Witwe gegeben,
+ganz nach deinem Gebot, das du mir geboten hast.
+Ich habe keines deiner Gebote übertreten, und ich habe keines vergessen.
+<sup>14</sup>Ich habe in meiner Trauer nichts davon gegessen.
+Ich habe nichts davon weggeschafft, als ich unrein war.
+Und ich habe nichts davon für einen Toten gegeben.
+Ich habe auf die Stimme des HERRN, meines Gottes, gehört.
+Ich habe alles getan, was du mir geboten hast.
+<sup>15</sup>Schau herab von deiner heiligen Wohnung, vom Himmel,
+und segne dein Volk Israel und das Land, das du uns gegeben hast,
+wie du es unseren Vätern geschworen hast,
+ein Land, in dem Milch und Honig fließen.“
+
+> **Was bedeutet das?**
+> Jedes dritte Jahr gehört der Zehnte den Armen (siehe Kapitel 14,28–29). Danach soll man vor Gott bezeugen: Ich habe es wirklich weitergegeben.
+> „Für einen Toten“: Bei manchen Völkern gab man den Toten Essen mit ins Grab oder opferte für sie. Das soll Israel mit dem heiligen Zehnten nicht tun.
+> Zum Schluss steht ein schönes Gebet: „Schau herab vom Himmel und segne dein Volk.“ Wer mit den Armen teilt, darf um Gottes Segen bitten.
+
+---
+
+### Gott und sein Volk gehören zusammen (Vers 16–19)
+
+<sup>16</sup>Heute gebietet dir der HERR, dein Gott, diese Ordnungen und Rechtsbestimmungen zu tun.
+So halte und tu sie mit deinem ganzen Herzen und mit deiner ganzen Seele.
+<sup>17</sup>Du hast heute erklärt, dass der HERR dein Gott ist
+und dass du auf seinen Wegen gehen willst,
+seine Ordnungen, seine Gebote und seine Rechtsbestimmungen halten
+und auf seine Stimme hören willst.
+<sup>18</sup>Und der HERR hat heute erklärt, dass du sein eigenes Volk bist, wie er es dir versprochen hat,
+und dass du alle seine Gebote halten sollst.
+<sup>19</sup>Er will dich hoch über alle Völker erheben, die er gemacht hat,
+zum Lob, zum Ruhm und zur Ehre,
+und du sollst ein heiliges Volk für den HERRN, deinen Gott, sein, wie er es gesagt hat.
+
+> **Was bedeutet das?**
+> Hier endet der große Teil mit den einzelnen Geboten (Kapitel 12–26).
+> Es ist wie bei einer Hochzeit: Beide Seiten erklären sich. Das Volk sagt: „Der HERR ist unser Gott.“ Und Gott sagt: „Ihr seid mein Volk.“ Das ist der Kern des Bundes.
+> „Hoch über alle Völker“: Gemeint ist nicht, dass Israel über andere herrschen soll. Es soll ein Volk sein, an dem man Gottes Güte sehen kann, „zum Lob, zum Ruhm und zur Ehre“ Gottes.
+
+## 5. Mose – Kapitel 27
+#### Das Gesetz auf Steinen – zwölf Flüche am Berg Ebal
+
+---
+
+### Große Steine mit dem Gesetz (Vers 1–8)
+
+<sup>1</sup>Mose und die Ältesten Israels geboten dem Volk:
+„Haltet das ganze Gebot, das ich euch heute gebiete.
+<sup>2</sup>An dem Tag, an dem ihr über den Jordan in das Land zieht, das der HERR, dein Gott, dir gibt,
+sollst du dir große Steine aufrichten und sie mit Kalk bestreichen.
+<sup>3</sup>Du sollst alle Worte dieses Gesetzes darauf schreiben, wenn du hinübergezogen bist,
+damit du in das Land kommst, das der HERR, dein Gott, dir gibt,
+ein Land, in dem Milch und Honig fließen,
+wie der HERR, der Gott deiner Väter, es dir versprochen hat.
+<sup>4</sup>Wenn ihr über den Jordan gezogen seid,
+sollt ihr diese Steine, die ich euch heute gebiete, auf dem Berg Ebal aufrichten.
+Und du sollst sie mit Kalk bestreichen.
+<sup>5</sup>Dort sollst du dem HERRN, deinem Gott, einen Altar bauen, einen Altar aus Steinen.
+Du sollst kein Werkzeug aus Eisen an ihnen benutzen.
+<sup>6</sup>Aus unbehauenen Steinen sollst du den Altar des HERRN, deines Gottes, bauen.
+Und du sollst darauf dem HERRN, deinem Gott, Brandopfer darbringen.
+<sup>7</sup>Du sollst Gemeinschaftsopfer schlachten und dort essen.
+Und du sollst dich vor dem HERRN, deinem Gott, freuen.
+<sup>8</sup>Und du sollst alle Worte dieses Gesetzes deutlich und klar auf die Steine schreiben.“
+
+> **Was bedeutet das?**
+> Gleich nach dem Einzug ins Land soll das Gesetz öffentlich aufgeschrieben werden, auf großen Steinen, für alle sichtbar. Die weiße Kalkschicht machte die Schrift gut lesbar.
+> „Deutlich und klar“: Gottes Wort soll für alle verständlich sein. Das ist auch das Ziel dieser Bibel in leichter Sprache.
+> Josua hat das später getan (Josua 8,30–35).
+> Der Altar soll aus unbehauenen Steinen sein, so wie Gott sie geschaffen hat (siehe 2. Mose 20,25).
+
+---
+
+### Heute bist du Gottes Volk geworden (Vers 9–10)
+
+<sup>9</sup>Mose und die Priester, die Leviten, sprachen zu ganz Israel:
+„Sei still und hör zu, Israel!
+Heute bist du das Volk des HERRN, deines Gottes, geworden.
+<sup>10</sup>Darum sollst du auf die Stimme des HERRN, deines Gottes, hören
+und seine Gebote und Ordnungen tun, die ich dir heute gebiete.“
+
+---
+
+### Segen und Fluch auf zwei Bergen (Vers 11–14)
+
+<sup>11</sup>Am selben Tag gebot Mose dem Volk:
+<sup>12</sup>„Diese sollen auf dem Berg Garizim stehen, um das Volk zu segnen, wenn ihr über den Jordan gezogen seid:
+Simeon, Levi, Juda, Issachar, Josef und Benjamin.
+<sup>13</sup>Und diese sollen auf dem Berg Ebal stehen für den Fluch:
+Ruben, Gad, Asser, Sebulon, Dan und Naftali.
+<sup>14</sup>Und die Leviten sollen mit lauter Stimme zu allen Männern Israels sagen:
+
+> **Was bedeutet das?**
+> Die zwölf Stämme teilen sich auf zwei Berge auf, die sich gegenüberliegen. Dazwischen liegt ein Tal. Man stellt sich vor, wie die Stimmen von einem Berg zum anderen hallen.
+> Die Stämme auf dem Berg des Segens stammen von Jakobs Frauen Lea und Rahel ab. Auf dem Berg des Fluches stehen vor allem die Stämme, die von den Mägden Silpa und Bilha abstammen, dazu Ruben und Sebulon.
+
+---
+
+### Die zwölf Flüche (Vers 15–26)
+
+<sup>15</sup>‚Verflucht ist der Mann, der ein geschnitztes oder gegossenes Bild macht,
+einen Gräuel für den HERRN, ein Werk von Handwerkerhänden, und es heimlich aufstellt.‘
+Und das ganze Volk soll antworten und sagen: ‚Amen.‘
+<sup>16</sup>‚Verflucht ist, wer seinen Vater oder seine Mutter verachtet.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>17</sup>‚Verflucht ist, wer die Grenze seines Nächsten verrückt.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>18</sup>‚Verflucht ist, wer einen Blinden auf dem Weg in die Irre führt.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>19</sup>‚Verflucht ist, wer das Recht des Fremden, der Waise und der Witwe beugt.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>20</sup>‚Verflucht ist, wer mit der Frau seines Vaters schläft, denn er entehrt das Bett seines Vaters.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>21</sup>‚Verflucht ist, wer mit irgendeinem Tier schläft.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>22</sup>‚Verflucht ist, wer mit seiner Schwester schläft, der Tochter seines Vaters oder der Tochter seiner Mutter.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>23</sup>‚Verflucht ist, wer mit seiner Schwiegermutter schläft.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>24</sup>‚Verflucht ist, wer seinen Nächsten heimlich erschlägt.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>25</sup>‚Verflucht ist, wer Bestechung annimmt, um einen Unschuldigen zu töten.‘
+Und das ganze Volk soll sagen: ‚Amen.‘
+<sup>26</sup>‚Verflucht ist, wer die Worte dieses Gesetzes nicht aufrechterhält, indem er sie tut.‘
+Und das ganze Volk soll sagen: ‚Amen.‘“
+
+> **Was bedeutet das?**
+> „Das Bett des Vaters entehren“: So steht es in der englischen Vorlage. Im Hebräischen steht dasselbe Bild wie in Kapitel 22,30: „den Saum des Vaters aufdecken“.
+> „Amen“ heißt „So ist es“ oder „So soll es sein“. Das ganze Volk stimmt zu. Jeder sagt damit: Ich weiß, was richtig ist, und ich will mich daran halten.
+> Auffällig: Fast alle diese Sünden geschehen heimlich. Ein Götzenbild „heimlich“ aufstellen, „heimlich“ erschlagen, einen Blinden in die Irre führen, der es nicht sehen kann. Ein menschliches Gericht würde davon oft nichts erfahren. Aber Gott sieht es.
+> Wieder geht es um den Schutz der Schwachen: Blinde, Fremde, Waisen und Witwen.
+> Der letzte Fluch fasst alles zusammen. Paulus zitiert ihn und sagt: Niemand kann das ganze Gesetz vollkommen halten. Darum brauchen alle Menschen Gottes Gnade. Christus hat den Fluch für uns getragen (Galater 3,10–13).
