@@ -50891,3 +50891,469 @@ Ramot in Gilead mit seinen Weideflächen, Mahanajim mit seinen Weideflächen,
 > Anatot ist der Heimatort des Propheten Jeremia (Jeremia 1,1).
 > In Vers 57 klingt es so, als wären alle genannten Städte Zufluchtsstädte. Nach Josua 21,13 war nur Hebron eine Zufluchtsstadt.
 > In Vers 61 und 77 ist der hebräische Text an einigen Stellen gekürzt. Josua 21 nennt hier mehr Städte.
+
+## 1. Chronik – Kapitel 7
+#### Die Stämme im Norden
+
+---
+
+### Issachar (Vers 1–5)
+
+<sup>1</sup>Von den Söhnen Issachars:
+Tola, Pua, Jaschub und Schimron, vier.
+<sup>2</sup>Die Söhne Tolas:
+Usi, Refaja, Jeriël, Jachmai, Jibsam und Schemuël,
+Oberhäupter ihrer Familien, von Tola,
+tapfere Krieger in ihren Generationen.
+Ihre Zahl in den Tagen Davids war 22 600.
+<sup>3</sup>Der Sohn Usis: Jisrachja.
+Die Söhne Jisrachjas:
+Michael, Obadja, Joël und Jischija, fünf,
+alle Oberhäupter.
+<sup>4</sup>Mit ihnen waren nach ihren Generationen und Familien
+Kriegsscharen für den Kampf, 36 000.
+Denn sie hatten viele Frauen und Söhne.
+<sup>5</sup>Ihre Brüder in allen Familien Issachars,
+tapfere Krieger, alle zusammen in den Stammbaum eingetragen,
+waren 87 000.
+
+> **Was bedeutet das?**
+> Issachar lebte in der fruchtbaren Ebene Jesreel im Norden. Der Richter Tola stammte aus diesem Stamm (Richter 10,1).
+> In Vers 3 werden fünf gezählt, aber nur vier Söhne genannt. Wahrscheinlich ist Jisrachja selbst mitgezählt.
+> Die Zahlen beziehen sich wohl auf eine Volkszählung unter David (2. Samuel 24). Sie sind sehr hoch. Manche Fachleute meinen, dass das hebräische Wort für „tausend“ hier eine Kriegsabteilung bezeichnet.
+> Pua heißt in 1. Mose 46,13 „Puwa“, und Jaschub heißt dort „Job“.
+
+---
+
+### Benjamin (Vers 6–12)
+
+<sup>6</sup>Die Söhne Benjamins:
+Bela, Becher und Jediaël, drei.
+<sup>7</sup>Die Söhne Belas:
+Ezbon, Usi, Usiël, Jerimot und Iri, fünf,
+Oberhäupter der Familien, tapfere Krieger.
+Im Stammbaum waren es 22 034.
+<sup>8</sup>Die Söhne Bechers:
+Semira, Joasch, Eliëser, Eljoënai, Omri, Jeremot, Abija, Anatot und Alemet.
+Das alle waren Söhne Bechers.
+<sup>9</sup>Sie wurden nach ihren Generationen in den Stammbaum eingetragen,
+Oberhäupter ihrer Familien, tapfere Krieger:
+20 200.
+<sup>10</sup>Der Sohn Jediaëls: Bilhan.
+Die Söhne Bilhans:
+Jëusch, Benjamin, Ehud, Kenaana, Setan, Tarschisch und Ahischahar.
+<sup>11</sup>Das alle waren Söhne Jediaëls,
+nach den Oberhäuptern ihrer Familien, tapfere Krieger,
+17 200, die mit dem Heer in den Krieg ziehen konnten.
+<sup>12</sup>Dazu Schuppim und Huppim, die Söhne Irs,
+Huschim, die Söhne Ahers.
+
+> **Was bedeutet das?**
+> Benjamin war der jüngste Sohn Jakobs. Aus diesem Stamm kam König Saul. Kapitel 8 bringt noch eine längere Liste für Benjamin.
+> Die Namen der Söhne Benjamins sind in den verschiedenen Listen der Bibel unterschiedlich (vgl. 1. Mose 46,21; 4. Mose 26,38–41; 1. Chronik 8,1–5). Solche Listen wurden zu verschiedenen Zeiten aufgeschrieben.
+> Anatot und Alemet sind auch Namen von Städten (Kapitel 6,60).
+> Vers 12 ist schwer zu verstehen. Vielleicht gehören die Namen noch zu Benjamin. „Huschim“ ist in 1. Mose 46,23 ein Sohn Dans. Manche Fachleute denken, dass hier ursprünglich der Stamm Dan erwähnt war. Dan fehlt sonst in diesen Listen.
+
+---
+
+### Naftali (Vers 13)
+
+<sup>13</sup>Die Söhne Naftalis:
+Jachziël, Guni, Jezer und Schallum,
+die Söhne Bilhas.
+
+> **Was bedeutet das?**
+> Naftali bekommt nur einen einzigen Vers. Bilha war die Mutter Naftalis und Dans, eine Magd Rahels (1. Mose 30,4–8).
+> Schallum heißt in 1. Mose 46,24 „Schillem“.
+
+---
+
+### Manasse (Vers 14–19)
+
+<sup>14</sup>Die Söhne Manasses:
+Asriël, den seine Nebenfrau, die Aramäerin, gebar.
+Sie gebar Machir, den Vater Gileads.
+<sup>15</sup>Machir nahm eine Frau für Huppim und Schuppim.
+Ihre Schwester hieß Maacha.
+Der Name des zweiten war Zelofhad.
+Und Zelofhad hatte Töchter.
+<sup>16</sup>Maacha, die Frau Machirs, gebar einen Sohn
+und nannte ihn Peresch.
+Sein Bruder hieß Scheresch.
+Und seine Söhne waren Ulam und Rekem.
+<sup>17</sup>Der Sohn Ulams: Bedan.
+Das waren die Söhne Gileads, des Sohnes Machirs, des Sohnes Manasses.
+<sup>18</sup>Seine Schwester Hammolechet gebar Ischhod, Abiëser und Machla.
+<sup>19</sup>Die Söhne Schemidas waren Achjan, Schechem, Likhi und Aniam.
+
+> **Was bedeutet das?**
+> Manasse war ein Sohn Josefs. Seine Familie hatte Verbindungen zu den Aramäern, wie Vers 14 zeigt.
+> Zelofhad hatte nur Töchter. Diese fünf Töchter setzten bei Mose durch, dass auch Töchter ein Erbe bekommen konnten, wenn es keine Söhne gab (4. Mose 27,1–11). Ein wichtiger Schritt für die Rechte von Frauen.
+> Abiëser war die Familie, aus der der Richter Gideon stammte (Richter 6,11).
+> Dieser Abschnitt ist im Hebräischen an mehreren Stellen schwer verständlich. Die Verwandtschaften sind nicht ganz klar.
+> Hier ist der halbe Stamm Manasse westlich des Jordan gemeint. Der andere halbe Stamm wurde in Kapitel 5,23–24 genannt.
+
+---
+
+### Efraim (Vers 20–29)
+
+<sup>20</sup>Die Söhne Efraims:
+Schutelach,
+dessen Sohn Bered,
+dessen Sohn Tahat,
+dessen Sohn Elada,
+dessen Sohn Tahat,
+<sup>21</sup>dessen Sohn Sabad,
+dessen Sohn Schutelach,
+dazu Eser und Elad.
+Die Männer von Gat, die im Land geboren waren, töteten sie,
+weil sie hinabgezogen waren, um ihr Vieh wegzunehmen.
+<sup>22</sup>Ihr Vater Efraim trauerte viele Tage,
+und seine Brüder kamen, um ihn zu trösten.
+<sup>23</sup>Dann ging er zu seiner Frau.
+Sie wurde schwanger und gebar einen Sohn.
+Er nannte ihn Beria,
+weil Unglück über sein Haus gekommen war.
+<sup>24</sup>Seine Tochter war Scheëra.
+Sie baute das untere und das obere Bet-Horon und Usen-Scheëra.
+<sup>25</sup>Dessen Sohn war Refach,
+dazu Reschef,
+dessen Sohn Telach,
+dessen Sohn Tahan,
+<sup>26</sup>dessen Sohn Ladan,
+dessen Sohn Ammihud,
+dessen Sohn Elischama,
+<sup>27</sup>dessen Sohn Nun,
+dessen Sohn Josua.
+<sup>28</sup>Ihr Besitz und ihre Wohnorte waren:
+Bet-El und seine Tochterstädte,
+nach Osten Naaran,
+nach Westen Geser und seine Tochterstädte,
+dazu Sichem und seine Tochterstädte
+bis nach Asa und seinen Tochterstädten.
+<sup>29</sup>Und an den Grenzen der Söhne Manasses:
+Bet-Schean und seine Tochterstädte,
+Taanach und seine Tochterstädte,
+Megiddo und seine Tochterstädte,
+und Dor und seine Tochterstädte.
+In diesen wohnten die Söhne Josefs, des Sohnes Israels.
+
+> **Was bedeutet das?**
+> Eine traurige kleine Geschichte: Söhne Efraims werden bei einem Viehraub getötet. Ihr Vater Efraim trauert lange. Seine Brüder kommen und trösten ihn. Dann wird ihm ein neuer Sohn geboren. Er nennt ihn Beria, „im Unglück“. Der Name erinnert an den Schmerz, aber das Kind ist auch ein neuer Anfang.
+> Eine Frau als Städtebauerin: Scheëra, die Tochter Efraims, baute drei Orte. Das ist eine Besonderheit in der Bibel.
+> Am Ende der Linie steht Josua, der Sohn Nuns, der Nachfolger Moses. Er stammte aus Efraim.
+> „Tochterstädte“ heißt: die kleineren Orte, die zu einer Stadt gehörten.
+> „Asa“ (englisch „Azzah“) ist nicht Gaza im Süden, sondern wohl ein Ort im Bergland Efraim. Viele hebräische Handschriften haben hier „Aja“.
+
+---
+
+### Asser (Vers 30–40)
+
+<sup>30</sup>Die Söhne Assers:
+Jimna, Jischwa, Jischwi und Beria.
+Und Serach war ihre Schwester.
+<sup>31</sup>Die Söhne Berias:
+Heber und Malkiël.
+Der war der Vater von Birsajit.
+<sup>32</sup>Heber zeugte Jaflet, Schomer und Hotam
+und ihre Schwester Schua.
+<sup>33</sup>Die Söhne Jaflets:
+Pasach, Bimhal und Aschwat.
+Das sind die Söhne Jaflets.
+<sup>34</sup>Die Söhne Schemers:
+Achi, Rohga, Jehubba und Aram.
+<sup>35</sup>Die Söhne seines Bruders Helem:
+Zofach, Jimna, Schelesch und Amal.
+<sup>36</sup>Die Söhne Zofachs:
+Suach, Harnefer, Schual, Beri, Jimra,
+<sup>37</sup>Bezer, Hod, Schamma, Schilscha, Jitran und Beera.
+<sup>38</sup>Die Söhne Jeters:
+Jefunne, Pispa und Ara.
+<sup>39</sup>Die Söhne Ullas:
+Arach, Hanniël und Rizja.
+<sup>40</sup>Das alle waren Söhne Assers,
+Oberhäupter der Familien,
+auserlesene, tapfere Krieger,
+Häupter der Fürsten.
+Die Zahl derer, die für den Kriegsdienst in den Stammbaum eingetragen waren,
+war 26 000 Männer.
+
+> **Was bedeutet das?**
+> Asser lebte im Nordwesten, an der Küste des Mittelmeers.
+> Serach, die Schwester, wird schon in 1. Mose 46,17 genannt. Es gibt eine schöne jüdische Legende: Sie soll dem alten Jakob mit Gesang die Nachricht gebracht haben, dass Josef noch lebt. Diese Legende steht nicht in der Bibel.
+> Schemer (Vers 34) ist wohl derselbe wie Schomer (Vers 32), und Helem ist wohl Hotam. Solche kleinen Unterschiede in der Schreibweise kommen in alten Listen oft vor.
+> Zebulon und Dan werden in diesen Listen nicht genannt. Warum, ist nicht bekannt.
+
+## 1. Chronik – Kapitel 8
+#### Der Stamm Benjamin und die Familie Sauls
+
+---
+
+### Benjamins Söhne und Enkel (Vers 1–7)
+
+<sup>1</sup>Benjamin zeugte Bela, seinen Erstgeborenen,
+Aschbel, den zweiten,
+Achrach, den dritten,
+<sup>2</sup>Noha, den vierten,
+und Rafa, den fünften.
+<sup>3</sup>Bela hatte Söhne:
+Addar, Gera, Abihud,
+<sup>4</sup>Abischua, Naaman, Achoach,
+<sup>5</sup>Gera, Schefufan und Huram.
+<sup>6</sup>Das sind die Söhne Ehuds.
+Das sind die Oberhäupter der Familien der Bewohner von Geba,
+die man nach Manahat wegführte:
+<sup>7</sup>Naaman, Ahija und Gera.
+Der führte sie weg.
+Und er zeugte Usa und Ahihud.
+
+> **Was bedeutet das?**
+> Benjamin bekommt eine zweite, längere Liste. Das hat einen Grund: Aus Benjamin stammte König Saul. Und nach der Verbannung lebten viele Benjaminiter in und um Jerusalem.
+> Die Namen weichen von Kapitel 7,6–12 ab. Die Listen stammen wohl aus verschiedenen Zeiten und Quellen.
+> Ehud ist vielleicht der Richter Ehud, der Linkshänder aus Benjamin (Richter 3,15). Wo er in die Familie gehört, wird nicht gesagt.
+> Was mit dem Wegführen nach Manahat gemeint ist, ist unklar. Vielleicht ein Umzug innerhalb Benjamins.
+
+---
+
+### Schaharajim und seine Nachkommen (Vers 8–28)
+
+<sup>8</sup>Schaharajim zeugte Kinder im Gebiet von Moab,
+nachdem er Huschim und Baara, seine Frauen, weggeschickt hatte.
+<sup>9</sup>Mit Hodesch, seiner Frau, zeugte er Jobab, Zibja, Mescha, Malkam,
+<sup>10</sup>Jëuz, Sachja und Mirma.
+Das waren seine Söhne, Oberhäupter der Familien.
+<sup>11</sup>Mit Huschim zeugte er Abitub und Elpaal.
+<sup>12</sup>Die Söhne Elpaals:
+Eber, Mischam und Schemed.
+Der baute Ono und Lod mit seinen Tochterstädten.
+<sup>13</sup>Dazu Beria und Schema.
+Sie waren Oberhäupter der Familien der Bewohner von Ajalon.
+Sie vertrieben die Bewohner von Gat.
+<sup>14</sup>Dazu Achjo, Schaschak, Jeremot,
+<sup>15</sup>Sebadja, Arad, Eder,
+<sup>16</sup>Michael, Jischpa und Joha, die Söhne Berias.
+<sup>17</sup>Sebadja, Meschullam, Hiski, Heber,
+<sup>18</sup>Jischmerai, Jislia und Jobab, die Söhne Elpaals.
+<sup>19</sup>Jakim, Sichri, Sabdi,
+<sup>20</sup>Eljoënai, Zilletai, Eliël,
+<sup>21</sup>Adaja, Beraja und Schimrat, die Söhne Schimis.
+<sup>22</sup>Jischpan, Eber, Eliël,
+<sup>23</sup>Abdon, Sichri, Hanan,
+<sup>24</sup>Hananja, Elam, Antotija,
+<sup>25</sup>Jifdeja und Penuël, die Söhne Schaschaks.
+<sup>26</sup>Schamscherai, Schecharja, Atalja,
+<sup>27</sup>Jaareschja, Elija und Sichri, die Söhne Jerohams.
+<sup>28</sup>Das waren Oberhäupter der Familien nach ihren Generationen, Häupter.
+Diese wohnten in Jerusalem.
+
+> **Was bedeutet das?**
+> Schaharajim lebte eine Zeit lang in Moab. Erinnert das an Rut? Auch Noomis Familie war in Moab (Rut 1,1).
+> „Weggeschickt“ heißt hier wohl, dass er sich von seinen ersten Frauen trennte. Aber mit Huschim hatte er trotzdem Söhne (Vers 11). Der Text ist hier nicht ganz klar.
+> Ono und Lod liegen in der Küstenebene. Lod ist heute eine Stadt nahe dem Flughafen Ben Gurion bei Tel Aviv.
+> Vers 28: Diese Familien wohnten in Jerusalem. Jerusalem lag an der Grenze zwischen Juda und Benjamin.
+> Auch hier stehen Namen wie Atalja und Elija. Es sind andere Personen als die berühmte Königin und der Prophet.
+
+---
+
+### Die Familie Sauls (Vers 29–40)
+
+<sup>29</sup>In Gibeon wohnte der Vater von Gibeon.
+Seine Frau hieß Maacha.
+<sup>30</sup>Mit ihm wohnten dort sein erstgeborener Sohn Abdon, dazu Zur, Kisch, Baal, Nadab,
+<sup>31</sup>Gedor, Achjo, Secher
+<sup>32</sup>und Miklot.
+Der zeugte Schimea.
+Auch sie wohnten mit ihren Familien in Jerusalem, in der Nähe ihrer Verwandten.
+<sup>33</sup>Ner zeugte Kisch.
+Kisch zeugte Saul.
+Saul zeugte Jonatan, Malkischua, Abinadab und Eschbaal.
+<sup>34</sup>Der Sohn Jonatans war Merib-Baal.
+Merib-Baal zeugte Micha.
+<sup>35</sup>Die Söhne Michas:
+Piton, Melech, Tarea und Ahas.
+<sup>36</sup>Ahas zeugte Joadda.
+Joadda zeugte Alemet, Asmawet und Simri.
+Simri zeugte Moza.
+<sup>37</sup>Moza zeugte Binea.
+Dessen Sohn war Rafa,
+dessen Sohn Elasa,
+dessen Sohn Azel.
+<sup>38</sup>Azel hatte sechs Söhne. Das sind ihre Namen:
+Asrikam, Bochru, Jischmael, Schearja, Obadja und Hanan.
+Das alle waren Söhne Azels.
+<sup>39</sup>Die Söhne seines Bruders Eschek:
+Ulam, sein Erstgeborener,
+Jëusch, der zweite,
+und Elifelet, der dritte.
+<sup>40</sup>Die Söhne Ulams waren tapfere Krieger, Bogenschützen.
+Sie hatten viele Söhne und Enkel, 150.
+Das alle waren von den Söhnen Benjamins.
+
+> **Was bedeutet das?**
+> Hier steht der Stammbaum König Sauls. Saul ist der erste König Israels, und die Chronik erzählt im nächsten Kapitel von seinem Tod. Seine Familie lebte weiter, über viele Generationen.
+> „Eschbaal“ heißt in 2. Samuel 2,8 „Isch-Boschet“, und „Merib-Baal“ heißt dort „Mefi-Boschet“ (2. Samuel 4,4). „Baal“ bedeutete ursprünglich einfach „Herr“ und konnte auch für den Gott Israels gebraucht werden. Später, als „Baal“ nur noch an den Götzen erinnerte, ersetzten Schreiber es oft durch „Boschet“, das heißt „Schande“.
+> Mefi-Boschet war der gelähmte Sohn Jonatans, um den David sich kümmerte (2. Samuel 9).
+> In Vers 29 fehlt im Hebräischen der Name des „Vaters von Gibeon“. In Kapitel 9,35 heißt er Jeïël. Dort wird auch Ner unter seinen Söhnen genannt. Die englische Vorlage folgt in Vers 29 dem hebräischen Text.
+
+## 1. Chronik – Kapitel 9
+#### Die Bewohner Jerusalems nach der Rückkehr
+
+---
+
+### Wer wohnte wieder im Land? (Vers 1–9)
+
+<sup>1</sup>So wurde ganz Israel in Stammbäume eingetragen.
+Und schau, sie sind im Buch der Könige von Israel geschrieben.
+Juda aber wurde wegen seiner Untreue gefangen nach Babel weggeführt.
+<sup>2</sup>Die ersten Bewohner, die wieder in ihrem Besitz, in ihren Städten wohnten,
+waren Israel, die Priester, die Leviten und die Tempeldiener.
+<sup>3</sup>In Jerusalem wohnten von den Söhnen Judas, von den Söhnen Benjamins
+und von den Söhnen Efraims und Manasses:
+<sup>4</sup>Utai, der Sohn Ammihuds, des Sohnes Omris, des Sohnes Imris, des Sohnes Banis,
+von den Söhnen des Perez, des Sohnes Judas.
+<sup>5</sup>Von den Schiloniten:
+Asaja, der Erstgeborene, und seine Söhne.
+<sup>6</sup>Von den Söhnen Serachs:
+Jëuël und ihre Brüder, 690.
+<sup>7</sup>Von den Söhnen Benjamins:
+Sallu, der Sohn Meschullams, des Sohnes Hodawjas, des Sohnes Hassenuas,
+<sup>8</sup>dazu Jibneja, der Sohn Jerohams,
+und Ela, der Sohn Usis, des Sohnes Michris,
+und Meschullam, der Sohn Schefatjas, des Sohnes Reguëls, des Sohnes Jibnijas,
+<sup>9</sup>und ihre Brüder nach ihren Generationen, 956.
+Alle diese Männer waren Oberhäupter der Familien in ihren Vaterhäusern.
+
+> **Was bedeutet das?**
+> Mit Vers 1 schließt die Chronik die langen Stammbäume ab. Dann macht sie einen großen Sprung: von der Verbannung zur Rückkehr.
+> „Wegen seiner Untreue“: Die Chronik sagt ehrlich, warum Juda in die Verbannung musste.
+> Dann zeigt sie die Hoffnung: Menschen kehren zurück und wohnen wieder in Jerusalem. Diese Liste ähnelt Nehemia 11.
+> Bemerkenswert: Nicht nur Juda und Benjamin, sondern auch Menschen aus Efraim und Manasse, also aus dem alten Nordreich, wohnen wieder in Jerusalem. Für die Chronik gehört „ganz Israel“ zusammen.
+> „Tempeldiener“ (hebräisch „Netinim“) waren Helfer beim Tempeldienst, die nicht zu den Leviten gehörten.
+> „Schiloniten“ sind wohl Nachkommen von Schela, dem Sohn Judas.
+
+---
+
+### Die Priester (Vers 10–13)
+
+<sup>10</sup>Von den Priestern:
+Jedaja, Jojarib, Jachin,
+<sup>11</sup>und Asarja, der Sohn Hilkijas, des Sohnes Meschullams, des Sohnes Zadoks,
+des Sohnes Merajots, des Sohnes Ahitubs,
+der Vorsteher des Hauses Gottes,
+<sup>12</sup>und Adaja, der Sohn Jerohams, des Sohnes Paschhurs, des Sohnes Malkijas,
+und Masai, der Sohn Adiëls, des Sohnes Jachseras,
+des Sohnes Meschullams, des Sohnes Meschillemits, des Sohnes Immers,
+<sup>13</sup>und ihre Brüder, Oberhäupter ihrer Familien, 1760,
+sehr tüchtige Männer für die Arbeit im Dienst des Hauses Gottes.
+
+> **Was bedeutet das?**
+> Auch die Priester kehren zurück. Jedaja und Jojarib sind Namen von Priesterabteilungen (Kapitel 24,7). Die Makkabäer, eine berühmte jüdische Familie im 2. Jahrhundert vor Christus, stammten aus der Abteilung Jojarib.
+> „Vorsteher des Hauses Gottes“: Das war ein hohes Amt im Tempel, vielleicht der Hohepriester oder sein Stellvertreter.
+
+---
+
+### Die Leviten und die Torhüter (Vers 14–27)
+
+<sup>14</sup>Von den Leviten:
+Schemaja, der Sohn Haschschubs, des Sohnes Asrikams, des Sohnes Haschabjas,
+von den Söhnen Meraris,
+<sup>15</sup>und Bakbakkar, Heresch, Galal
+und Mattanja, der Sohn Michas, des Sohnes Sichris, des Sohnes Asafs,
+<sup>16</sup>und Obadja, der Sohn Schemajas, des Sohnes Galals, des Sohnes Jedutuns,
+und Berechja, der Sohn Asas, des Sohnes Elkanas,
+der in den Dörfern der Netofatiter wohnte.
+<sup>17</sup>Die Torhüter:
+Schallum, Akkub, Talmon, Ahiman und ihre Brüder.
+Schallum war das Oberhaupt.
+<sup>18</sup>Sie dienten bis dahin am Tor des Königs im Osten.
+Sie waren die Torhüter für das Lager der Söhne Levis.
+<sup>19</sup>Schallum, der Sohn Kores, des Sohnes Ebjasafs, des Sohnes Korachs,
+und seine Brüder aus seiner Familie, die Korachiter,
+waren über die Arbeit des Dienstes gesetzt,
+als Hüter der Schwellen des Zeltes.
+Ihre Väter waren über das Lager des HERRN gesetzt gewesen,
+als Hüter des Eingangs.
+<sup>20</sup>Pinhas, der Sohn Eleasars, war früher ihr Vorsteher gewesen.
+Und der HERR war mit ihm.
+<sup>21</sup>Secharja, der Sohn Meschelemjas, war Torhüter am Eingang des Zeltes der Begegnung.
+<sup>22</sup>Alle diese, die als Torhüter an den Schwellen ausgewählt waren, waren 212.
+Sie waren in ihren Dörfern in die Stammbäume eingetragen.
+David und Samuel, der Seher, hatten sie in ihr Vertrauensamt eingesetzt.
+<sup>23</sup>So hatten sie und ihre Söhne die Aufsicht über die Tore des Hauses des HERRN,
+des Zelthauses, als Wachen.
+<sup>24</sup>An allen vier Seiten standen die Torhüter:
+nach Osten, nach Westen, nach Norden und nach Süden.
+<sup>25</sup>Ihre Brüder in ihren Dörfern mussten von Zeit zu Zeit für sieben Tage kommen,
+um mit ihnen zusammen zu sein.
+<sup>26</sup>Denn die vier obersten Torhüter, die Leviten waren, hatten ein Vertrauensamt.
+Sie waren über die Kammern und über die Schatzkammern im Haus Gottes gesetzt.
+<sup>27</sup>Sie übernachteten rings um das Haus Gottes,
+denn sie hatten die Wache.
+Und sie mussten es jeden Morgen aufschließen.
+
+> **Was bedeutet das?**
+> Die Torhüter waren wichtig: Sie bewachten den Tempel Tag und Nacht, schlossen ihn morgens auf und sorgten dafür, dass nichts Unreines hineinkam. Sie hatten auch die Aufsicht über die Schätze.
+> Die Chronik führt ihren Dienst auf ganz alte Zeiten zurück: auf die Wüstenzeit, auf Pinhas, auf Samuel und David. Damit zeigt sie: Der Gottesdienst nach der Rückkehr steht in einer langen, treuen Tradition.
+> Sie arbeiteten im Wechsel: Wer in den Dörfern wohnte, kam für jeweils sieben Tage zum Dienst nach Jerusalem.
+> Jedutun war einer der großen Sänger Davids (Kapitel 16,41).
+
+---
+
+### Weitere Aufgaben im Tempel (Vers 28–34)
+
+<sup>28</sup>Einige von ihnen waren für die Geräte des Dienstes verantwortlich.
+Denn sie wurden abgezählt hineingebracht und abgezählt hinausgebracht.
+<sup>29</sup>Einige von ihnen waren auch über die Geräte gesetzt,
+über alle heiligen Geräte,
+über das Feinmehl, den Wein, das Öl, den Weihrauch und die Gewürze.
+<sup>30</sup>Einige von den Söhnen der Priester bereiteten die Mischung der Gewürze zu.
+<sup>31</sup>Mattitja, einer der Leviten, der Erstgeborene Schallums, des Korachiters,
+hatte das Vertrauensamt über das, was in Pfannen gebacken wurde.
+<sup>32</sup>Einige ihrer Brüder, von den Söhnen der Kehatiter,
+waren für die Schaubrote verantwortlich,
+um sie jeden Sabbat bereitzustellen.
+<sup>33</sup>Das sind die Sänger, Oberhäupter der Familien der Leviten.
+Sie wohnten in den Kammern und waren von anderem Dienst befreit,
+denn Tag und Nacht waren sie mit ihrer Arbeit beschäftigt.
+<sup>34</sup>Das waren Oberhäupter der Familien der Leviten nach ihren Generationen, Häupter.
+Sie wohnten in Jerusalem.
+
+> **Was bedeutet das?**
+> Im Tempel gab es viele verschiedene Aufgaben: Geräte zählen und verwahren, Mehl, Wein, Öl und Weihrauch verwalten, Gewürze für das heilige Salböl mischen, Brot backen.
+> Die „Schaubrote“ waren zwölf Brote, die jede Woche frisch auf einen Tisch im Heiligtum gelegt wurden, eins für jeden Stamm Israels (3. Mose 24,5–9).
+> Die Sänger lobten Gott „Tag und Nacht“. Das erinnert an Psalm 134: „Lobt den HERRN, ihr Diener des HERRN, die ihr nachts im Haus des HERRN steht.“
+> Jede Arbeit hat ihren Platz, ob Torwächter, Bäcker oder Sänger. Alle dienen gemeinsam Gott.
+
+---
+
+### Noch einmal: die Familie Sauls (Vers 35–44)
+
+<sup>35</sup>In Gibeon wohnte Jeïël, der Vater von Gibeon.
+Seine Frau hieß Maacha.
+<sup>36</sup>Sein erstgeborener Sohn war Abdon,
+dann Zur, Kisch, Baal, Ner, Nadab,
+<sup>37</sup>Gedor, Achjo, Secharja und Miklot.
+<sup>38</sup>Miklot zeugte Schimeam.
+Auch sie wohnten mit ihren Verwandten in Jerusalem, in der Nähe ihrer Verwandten.
+<sup>39</sup>Ner zeugte Kisch.
+Kisch zeugte Saul.
+Saul zeugte Jonatan, Malkischua, Abinadab und Eschbaal.
+<sup>40</sup>Der Sohn Jonatans war Merib-Baal.
+Merib-Baal zeugte Micha.
+<sup>41</sup>Die Söhne Michas:
+Piton, Melech, Tachrea und Ahas.
+<sup>42</sup>Ahas zeugte Jara.
+Jara zeugte Alemet, Asmawet und Simri.
+Simri zeugte Moza.
+<sup>43</sup>Moza zeugte Binea,
+dessen Sohn Refaja,
+dessen Sohn Elasa,
+dessen Sohn Azel.
+<sup>44</sup>Azel hatte sechs Söhne. Das sind ihre Namen:
+Asrikam, Bochru, Jischmael, Schearja, Obadja und Hanan.
+Das waren die Söhne Azels.
+
+> **Was bedeutet das?**
+> Die Familie Sauls wird hier ein zweites Mal genannt (vgl. Kapitel 8,29–38). Das ist kein Versehen: Diese Liste bildet die Brücke zum nächsten Kapitel. Dort beginnt die eigentliche Erzählung, mit dem Tod Sauls.
+> Kleine Unterschiede zu Kapitel 8: Hier heißt der Sohn Michas „Tachrea“ statt „Tarea“, der Sohn des Ahas „Jara“ statt „Joadda“ und der Sohn Bineas „Refaja“ statt „Rafa“. Solche Abweichungen entstanden beim Abschreiben über die Jahrhunderte.
+> Damit enden die Stammbäume. Ab Kapitel 10 erzählt die Chronik die Geschichte Davids.
