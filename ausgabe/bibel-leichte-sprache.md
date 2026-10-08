@@ -53456,3 +53456,317 @@ Joab war der Heerführer des Königs.
 > Jehiël war wohl der Erzieher der Königssöhne.
 > „Freund des Königs“ war ein Ehrentitel für einen engen Vertrauten.
 > Ahitofel hatte David später verraten und sich Absalom angeschlossen. Huschai blieb David treu und vereitelte Ahitofels Rat (2. Samuel 15–17). Die Chronik erwähnt das nur ganz kurz mit den Worten „nach Ahitofel“.
+
+## 1. Chronik – Kapitel 28
+#### Davids letzte Rede
+
+---
+
+### David spricht zu ganz Israel (Vers 1–8)
+
+<sup>1</sup>David versammelte in Jerusalem alle Fürsten Israels:
+die Fürsten der Stämme,
+die Anführer der Abteilungen, die dem König dienten,
+die Anführer über Tausend und über Hundert,
+die Verwalter über alles Gut und allen Besitz des Königs und seiner Söhne,
+dazu die Hofbeamten und die Helden, alle tapferen Krieger.
+<sup>2</sup>Da stand der König David auf seine Füße und sagte:
+„Hört mich, meine Brüder und mein Volk!
+Ich hatte es im Herzen, ein Haus der Ruhe zu bauen
+für die Lade des Bundes des HERRN
+und für den Fußschemel unseres Gottes.
+Und ich hatte für den Bau vorgesorgt.
+<sup>3</sup>Aber Gott sagte zu mir:
+‚Du sollst kein Haus für meinen Namen bauen,
+denn du bist ein Mann des Krieges und hast Blut vergossen.‘
+<sup>4</sup>Doch der HERR, der Gott Israels, hat mich aus dem ganzen Haus meines Vaters erwählt,
+für immer König über Israel zu sein.
+Denn er hat Juda als Fürsten erwählt,
+und im Haus Juda das Haus meines Vaters,
+und unter den Söhnen meines Vaters hatte er Gefallen an mir,
+um mich zum König über ganz Israel zu machen.
+<sup>5</sup>Und von allen meinen Söhnen
+– denn der HERR hat mir viele Söhne gegeben –
+hat er meinen Sohn Salomo erwählt,
+damit er auf dem Thron des Königtums des HERRN über Israel sitzt.
+<sup>6</sup>Er hat zu mir gesagt:
+‚Dein Sohn Salomo soll mein Haus und meine Vorhöfe bauen.
+Denn ich habe ihn mir zum Sohn erwählt,
+und ich will sein Vater sein.
+<sup>7</sup>Ich will sein Königtum für immer festigen,
+wenn er fest dabei bleibt, meine Gebote und meine Rechtsordnungen zu halten, wie es heute ist.‘
+<sup>8</sup>Und jetzt, vor den Augen ganz Israels, der Gemeinde des HERRN,
+und vor den Ohren unseres Gottes:
+Achtet auf alle Gebote des HERRN, eures Gottes, und sucht sie,
+damit ihr dieses gute Land besitzt
+und es euren Kindern nach euch für immer als Erbe hinterlasst.“
+
+> **Was bedeutet das?**
+> David ist alt und schwach. Aber jetzt steht er auf seine Füße und hält eine große Abschiedsrede vor dem ganzen Volk.
+> „Fußschemel unseres Gottes“: Die Lade war wie der Fußschemel für Gottes unsichtbaren Thron.
+> David sagt ehrlich, warum er den Tempel nicht bauen durfte: wegen des vielen Blutes.
+> Eine besondere Formulierung: Salomo sitzt auf dem „Thron des Königtums des HERRN“. Für die Chronik ist der eigentliche König Israels Gott selbst. Der menschliche König sitzt nur stellvertretend auf seinem Thron.
+> Das Versprechen hat eine Bedingung: „wenn er fest dabei bleibt, meine Gebote zu halten“. Gottes Treue lädt zur Treue ein.
+
+---
+
+### David spricht zu Salomo (Vers 9–10)
+
+<sup>9</sup>„Und du, mein Sohn Salomo,
+erkenne den Gott deines Vaters
+und diene ihm mit ungeteiltem Herzen und mit williger Seele.
+Denn der HERR durchforscht alle Herzen
+und versteht alles Planen der Gedanken.
+Wenn du ihn suchst, wird er sich von dir finden lassen.
+Wenn du ihn aber verlässt, wird er dich für immer verwerfen.
+<sup>10</sup>Sieh nun zu,
+denn der HERR hat dich erwählt,
+ein Haus als Heiligtum zu bauen.
+Sei stark und tu es!“
+
+> **Was bedeutet das?**
+> Das ist Davids persönliches Vermächtnis an seinen Sohn: „Erkenne den Gott deines Vaters.“ Nicht nur von ihm wissen, sondern ihn persönlich kennen.
+> „Mit ungeteiltem Herzen und williger Seele“: Gott will keinen erzwungenen Dienst, sondern ein offenes, bereites Herz.
+> „Gott durchforscht alle Herzen“: Vor ihm kann man nichts verbergen. Das ist ernst, aber auch tröstlich: Gott versteht uns ganz.
+> „Wenn du ihn suchst, wird er sich von dir finden lassen“: eine wunderbare Zusage. Gott versteckt sich nicht vor denen, die ihn ehrlich suchen (vgl. Jeremia 29,13–14).
+
+---
+
+### Der Bauplan des Tempels (Vers 11–19)
+
+<sup>11</sup>Dann gab David seinem Sohn Salomo den Bauplan
+für die Vorhalle des Tempels, für seine Häuser,
+für seine Schatzkammern, für seine Obergemächer,
+für seine inneren Kammern
+und für den Raum des Sühnedeckels,
+<sup>12</sup>und den Plan von allem, was er durch den Geist im Sinn hatte:
+für die Vorhöfe des Hauses des HERRN,
+für alle Kammern ringsum,
+für die Schatzkammern des Hauses Gottes
+und für die Schatzkammern der geweihten Gaben;
+<sup>13</sup>auch für die Abteilungen der Priester und der Leviten,
+für alle Arbeit im Dienst am Haus des HERRN
+und für alle Geräte des Dienstes im Haus des HERRN;
+<sup>14</sup>das Gold nach Gewicht für alle goldenen Geräte für jeden Dienst,
+und für alle silbernen Geräte nach Gewicht, für alle Geräte für jeden Dienst;
+<sup>15</sup>auch das Gewicht für die goldenen Leuchter und ihre goldenen Lampen,
+nach Gewicht für jeden Leuchter und seine Lampen;
+und für die silbernen Leuchter, nach Gewicht für jeden Leuchter und seine Lampen,
+je nach dem Gebrauch jedes Leuchters;
+<sup>16</sup>und das Gold nach Gewicht für die Tische der Schaubrote, für jeden Tisch,
+und das Silber für die silbernen Tische;
+<sup>17</sup>und die Gabeln, die Becken und die Kannen aus reinem Gold;
+und für die goldenen Schalen nach Gewicht für jede Schale,
+und für die silbernen Schalen nach Gewicht für jede Schale;
+<sup>18</sup>und für den Räucheraltar geläutertes Gold nach Gewicht;
+und Gold für das Modell des Wagens,
+der Cherubim, die ihre Flügel ausbreiten und die Lade des Bundes des HERRN bedecken.
+<sup>19</sup>„Das alles“, sagte David,
+„hat man mich schriftlich von der Hand des HERRN verstehen lassen,
+alle Arbeiten nach diesem Plan.“
+
+> **Was bedeutet das?**
+> David übergibt Salomo einen genauen Bauplan. Er sagt: Das habe ich „durch den Geist“ und „von der Hand des HERRN“ bekommen. Wie Mose den Plan für die Stiftshütte von Gott bekam (2. Mose 25,9), so bekommt David den Plan für den Tempel.
+> Alles ist genau geplant, bis zum Gewicht jeder Schale. Für Gott soll das Beste gegeben werden, mit Sorgfalt.
+> Der „Sühnedeckel“ war der Deckel der Bundeslade. Dort wurde am Versöhnungstag Blut gesprengt, um die Schuld des Volkes zu sühnen (3. Mose 16,14–15).
+> „Der Wagen“ ist ein Bild für die Cherubim über der Lade, auf denen Gott unsichtbar thront, wie auf einem Thronwagen. Der Prophet Hesekiel sah später eine Vision von Gottes Thronwagen (Hesekiel 1).
+
+---
+
+### Sei stark und mutig (Vers 20–21)
+
+<sup>20</sup>David sagte zu seinem Sohn Salomo:
+„Sei stark und mutig und tu es!
+Fürchte dich nicht und erschrick nicht.
+Denn der HERR, Gott, mein Gott, ist mit dir.
+Er wird dich nicht loslassen und dich nicht verlassen,
+bis alle Arbeit für den Dienst am Haus des HERRN vollendet ist.
+<sup>21</sup>Schau, da sind die Abteilungen der Priester und der Leviten für jeden Dienst am Haus Gottes.
+Und bei dir sind für jede Arbeit alle Willigen, die geschickt sind für jeden Dienst.
+Auch die Anführer und das ganze Volk stehen ganz zu deinen Diensten.“
+
+> **Was bedeutet das?**
+> David macht seinem Sohn Mut: Du bist nicht allein. Gott ist mit dir. Und viele Menschen helfen dir.
+> „Er wird dich nicht loslassen und nicht verlassen“: Dieses Versprechen gab Gott auch Josua (Josua 1,5). Es wird im Neuen Testament wieder aufgenommen (Hebräer 13,5). Es gilt allen, die eine große Aufgabe vor sich haben.
+
+## 1. Chronik – Kapitel 29
+#### Freiwillige Gaben, Davids Gebet und sein Tod
+
+---
+
+### Davids eigene Gabe (Vers 1–5)
+
+<sup>1</sup>Der König David sagte zur ganzen Versammlung:
+„Mein Sohn Salomo, den Gott allein erwählt hat,
+ist noch jung und zart,
+und das Werk ist groß.
+Denn der Palast ist nicht für einen Menschen bestimmt,
+sondern für den HERRN, Gott.
+<sup>2</sup>Ich habe mit aller Kraft für das Haus meines Gottes vorgesorgt:
+Gold für das Goldene,
+Silber für das Silberne,
+Bronze für das Bronzene,
+Eisen für das Eiserne
+und Holz für das Hölzerne,
+dazu Onyxsteine, Steine zum Einfassen,
+Steine für Einlegearbeiten in verschiedenen Farben,
+allerlei Edelsteine
+und Marmorsteine in Menge.
+<sup>3</sup>Außerdem, weil ich mein Herz an das Haus meines Gottes gehängt habe,
+gebe ich meinen eigenen Schatz an Gold und Silber für das Haus meines Gottes,
+zusätzlich zu allem, was ich für das heilige Haus vorbereitet habe:
+<sup>4</sup>etwa 102 Tonnen Gold, Gold aus Ofir,
+und etwa 238 Tonnen geläutertes Silber,
+um die Wände der Häuser damit zu überziehen,
+<sup>5</sup>Gold für das Goldene und Silber für das Silberne,
+und für alle Arbeiten, die von Handwerkern gemacht werden.
+Wer ist nun bereit, heute freiwillig seine Hand für den HERRN zu füllen?“
+
+> **Was bedeutet das?**
+> David gibt nicht nur aus der Staatskasse, sondern auch aus seinem eigenen Besitz. „Weil ich mein Herz an das Haus meines Gottes gehängt habe“: Wo das Herz ist, da gibt man gern.
+> Er geht mit gutem Beispiel voran und lädt dann die anderen ein, freiwillig zu geben.
+> In der Bibel steht „3000 Talente Gold und 7000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Auch diese Zahlen sind sehr hoch.
+> „Die Hand füllen“ ist eine alte Redewendung für: sich Gott weihen, sich für den Dienst hingeben.
+
+---
+
+### Das Volk gibt freiwillig (Vers 6–9)
+
+<sup>6</sup>Da gaben freiwillig:
+die Fürsten der Familien,
+die Fürsten der Stämme Israels,
+die Anführer über Tausend und über Hundert
+und die Verwalter der Arbeiten des Königs.
+<sup>7</sup>Sie gaben für den Dienst am Haus Gottes:
+an Gold etwa 170 Tonnen und 10 000 Dareiken,
+an Silber etwa 340 Tonnen,
+an Bronze etwa 612 Tonnen
+und an Eisen etwa 3400 Tonnen.
+<sup>8</sup>Wer Edelsteine besaß, gab sie in den Schatz des Hauses des HERRN,
+in die Hand Jehiëls, des Gerschoniters.
+<sup>9</sup>Da freute sich das Volk, weil sie freiwillig gegeben hatten.
+Denn mit ungeteiltem Herzen gaben sie dem HERRN freiwillig.
+Und auch der König David freute sich mit großer Freude.
+
+> **Was bedeutet das?**
+> Die Großen des Volkes folgen Davids Beispiel. Und das Wichtigste: Sie geben freiwillig und von Herzen. Darum ist Freude im Volk. Freiwilliges Geben macht froh. Paulus schreibt später: „Einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).
+> In der Bibel steht: „5000 Talente und 10 000 Dareiken Gold, 10 000 Talente Silber, 18 000 Talente Bronze, 100 000 Talente Eisen“.
+> „Dareiken“ waren persische Goldmünzen. Sie gab es zur Zeit Davids noch nicht, sondern erst etwa 500 Jahre später. Der Verfasser der Chronik hat den Wert in die Währung seiner eigenen Zeit umgerechnet, damit seine Leser ihn verstehen. 10 000 Dareiken wären etwa 84 Kilogramm Gold.
+
+---
+
+### Davids Lobgebet (Vers 10–19)
+
+<sup>10</sup>Da lobte David den HERRN vor der ganzen Versammlung.
+David sagte:
+„Gelobt seist du, HERR, Gott unseres Vaters Israel,
+von Ewigkeit zu Ewigkeit!
+<sup>11</sup>Dein, HERR, ist die Größe und die Macht,
+die Herrlichkeit, der Sieg und die Hoheit.
+Denn alles, was im Himmel und auf der Erde ist, ist dein.
+Dein, HERR, ist das Reich,
+und du bist erhoben als Haupt über alles.
+<sup>12</sup>Reichtum und Ehre kommen von dir,
+und du herrschst über alles.
+In deiner Hand sind Kraft und Stärke.
+In deiner Hand liegt es, jeden groß und stark zu machen.
+<sup>13</sup>Und jetzt, unser Gott, danken wir dir
+und loben deinen herrlichen Namen.
+<sup>14</sup>Denn wer bin ich, und was ist mein Volk,
+dass wir die Kraft haben, so freiwillig zu geben?
+Denn von dir kommt alles,
+und aus deiner Hand haben wir dir gegeben.
+<sup>15</sup>Denn wir sind Fremde vor dir und Gäste, wie alle unsere Väter.
+Unsere Tage auf der Erde sind wie ein Schatten,
+und es gibt kein Bleiben.
+<sup>16</sup>HERR, unser Gott,
+dieser ganze Reichtum, den wir vorbereitet haben,
+um dir ein Haus für deinen heiligen Namen zu bauen,
+kommt aus deiner Hand,
+und alles gehört dir.
+<sup>17</sup>Ich weiß, mein Gott, dass du das Herz prüfst
+und Gefallen an Aufrichtigkeit hast.
+Ich habe in der Aufrichtigkeit meines Herzens alles dies freiwillig gegeben.
+Und jetzt habe ich mit Freude gesehen,
+wie dein Volk, das hier versammelt ist, dir freiwillig gegeben hat.
+<sup>18</sup>HERR, Gott Abrahams, Isaaks und Israels, unserer Väter,
+bewahre dies für immer in den Gedanken des Herzens deines Volkes
+und richte ihr Herz auf dich aus.
+<sup>19</sup>Und gib meinem Sohn Salomo ein ungeteiltes Herz,
+damit er deine Gebote, deine Mahnungen und deine Ordnungen hält
+und alles ausführt
+und den Palast baut, für den ich vorgesorgt habe.“
+
+> **Was bedeutet das?**
+> Das ist eines der schönsten Gebete der Bibel.
+> Vers 11 klingt vertraut: „Dein ist das Reich und die Kraft und die Herrlichkeit.“ Mit diesen Worten endet das Vaterunser in vielen Kirchen. Dieser Schluss stammt aus diesem Gebet Davids.
+> Vers 14 ist der Kern: „Von dir kommt alles, und aus deiner Hand haben wir dir gegeben.“ Wenn wir Gott etwas geben, geben wir ihm nur zurück, was er uns vorher geschenkt hat. Dieser Satz wird bis heute in vielen Gottesdiensten bei der Kollekte gesprochen.
+> Vers 15: „Wir sind Fremde und Gäste. Unsere Tage sind wie ein Schatten.“ Der mächtige König weiß: Das Leben ist kurz. Alles, was wir haben, ist nur geliehen.
+> Am Ende betet David nicht um mehr Reichtum, sondern um ein Herz, das auf Gott ausgerichtet bleibt, für das Volk und für seinen Sohn.
+
+---
+
+### Salomo wird König (Vers 20–25)
+
+<sup>20</sup>Dann sagte David zur ganzen Versammlung:
+„Lobt nun den HERRN, euren Gott!“
+Und die ganze Versammlung lobte den HERRN, den Gott ihrer Väter.
+Sie verneigten sich und warfen sich nieder vor dem HERRN und vor dem König.
+<sup>21</sup>Am Tag nach diesem Tag
+brachten sie dem HERRN Schlachtopfer und Brandopfer dar:
+1000 Stiere, 1000 Widder und 1000 Lämmer,
+mit ihren Trankopfern,
+und Schlachtopfer in Menge für ganz Israel.
+<sup>22</sup>An diesem Tag aßen und tranken sie vor dem HERRN mit großer Freude.
+Sie machten Salomo, den Sohn Davids, zum zweiten Mal zum König
+und salbten ihn für den HERRN zum Fürsten,
+und Zadok zum Priester.
+<sup>23</sup>So setzte sich Salomo auf den Thron des HERRN als König an Stelle seines Vaters David.
+Er hatte Erfolg, und ganz Israel gehorchte ihm.
+<sup>24</sup>Alle Fürsten und Helden
+und auch alle Söhne des Königs David
+unterwarfen sich dem König Salomo.
+<sup>25</sup>Der HERR machte Salomo vor ganz Israel überaus groß
+und gab ihm eine königliche Hoheit,
+wie sie vor ihm kein König über Israel gehabt hatte.
+
+> **Was bedeutet das?**
+> Ein großes Fest mit Opfern, Essen und Trinken, „mit großer Freude“.
+> „Zum zweiten Mal“: Salomo war schon in Kapitel 23,1 zum König gemacht worden. Jetzt wird er vor dem ganzen Volk feierlich bestätigt.
+> Die Chronik erzählt den Übergang friedlich. In 1. Könige 1 wird erzählt, dass es vorher Streit um die Nachfolge gab, weil Adonija selbst König werden wollte. Die Chronik betont hier: „Alle Söhne Davids unterwarfen sich Salomo.“
+> Wieder: Salomo sitzt auf dem „Thron des HERRN“.
+
+---
+
+### Davids Tod (Vers 26–30)
+
+<sup>26</sup>So hatte David, der Sohn Isais, über ganz Israel regiert.
+<sup>27</sup>Die Zeit, die er über Israel regierte, war vierzig Jahre.
+In Hebron regierte er sieben Jahre,
+und in Jerusalem regierte er 33 Jahre.
+<sup>28</sup>Er starb in gutem Alter,
+satt an Tagen, an Reichtum und an Ehre.
+Und sein Sohn Salomo wurde an seiner Stelle König.
+<sup>29</sup>Die Geschichte des Königs David, die frühere und die spätere,
+schau, sie steht geschrieben in der Geschichte Samuels, des Sehers,
+in der Geschichte Natans, des Propheten,
+und in der Geschichte Gads, des Sehers,
+<sup>30</sup>mit seiner ganzen Herrschaft und seiner Stärke
+und den Ereignissen, die über ihn, über Israel und über alle Königreiche der Länder gekommen sind.
+
+> **Was bedeutet das?**
+> David stirbt „satt an Tagen“, nach einem langen, erfüllten Leben. Er regierte etwa von 1010 bis 970 vor Christus.
+> Die Chronik nennt ihre Quellen: Aufzeichnungen der Propheten Samuel, Natan und Gad. Diese Bücher sind heute verloren. Manches daraus ist wohl in die Bücher Samuel eingeflossen.
+
+---
+
+### Rückblick: Was haben wir im 1. Buch der Chronik gelesen?
+
+> **Was bedeutet das?**
+> **Die Stammbäume (Kapitel 1–9):** Das Buch beginnt mit Adam und führt über Abraham und die zwölf Stämme bis zu den Menschen, die nach der Verbannung nach Jerusalem zurückkehrten. Die Botschaft an die ersten Leser: Ihr gehört dazu. Ihr steht in einer langen Geschichte mit Gott. Keiner ist vergessen, jeder Name zählt.
+> **David (Kapitel 10–29):** Nach Sauls Tod wird David König über ganz Israel. Alle Stämme kommen zu ihm. Er erobert Jerusalem und bringt die Lade mit Freude und Musik in die Stadt.
+> **Gottes Versprechen:** Gott sagt zu David: „Ich will dir ein Haus bauen.“ Davids Familie soll für immer bestehen. Juden erwarten deshalb den Messias aus Davids Familie, und Christen sehen das Versprechen in Jesus erfüllt.
+> **Der Tempel:** David darf den Tempel nicht selbst bauen, weil er viel Blut vergossen hat. Aber er bereitet alles vor: den Ort, das Material, den Bauplan, die Priester, die Leviten, die Sänger und die Torhüter. Alles ist geordnet und durch das Los gerecht verteilt.
+> **Das Herz:** Immer wieder geht es um das Herz: „Diene Gott mit ungeteiltem Herzen.“ „Wenn du ihn suchst, wird er sich finden lassen.“ Das Volk gibt freiwillig und mit Freude.
+> **Die Lehre des Buches:** Das Wichtigste im Leben eines Volkes und eines Menschen ist der Gottesdienst, also die Beziehung zu Gott. Davids Gebet fasst es zusammen: „Von dir kommt alles, und aus deiner Hand haben wir dir gegeben.“
+> **Wie geht es weiter?** Das 2. Buch der Chronik erzählt von Salomo, dem Bau des Tempels und den Königen von Juda bis zur Verbannung und zur Rückkehr.
