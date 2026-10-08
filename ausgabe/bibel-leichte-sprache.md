@@ -40407,3 +40407,497 @@ Und Absalom kam nach Jerusalem.
 > David betet ein kurzes Gebet: „Mach den Rat Ahitofels zur Torheit.“ Und sofort danach kommt Huschai. Er ist die Antwort auf Davids Gebet.
 > Huschai wird „Davids Freund“ genannt. Das war wohl ein Ehrentitel für einen engen Berater des Königs. Er soll zum Schein zu Absalom überlaufen und Ahitofels Pläne durchkreuzen.
 > Der letzte Vers zeigt die Spannung: Huschai kommt in die Stadt, und gleichzeitig kommt Absalom. Das Spiel beginnt.
+
+## 2. Samuel – Kapitel 16
+#### Ziba, Schimi und Absalom in Jerusalem
+
+---
+
+### Ziba bringt Geschenke (Vers 1–4)
+
+<sup>1</sup>Als David ein wenig über den Gipfel hinaus war,
+schau, da kam ihm Ziba, der Knecht von Mefi-Boschet, entgegen,
+mit zwei gesattelten Eseln.
+Darauf waren 200 Brote, hundert Büschel Rosinen,
+hundert Sommerfrüchte und ein Gefäß mit Wein.
+<sup>2</sup>Der König sagte zu Ziba:
+„Was willst du damit?“
+Ziba sagte:
+„Die Esel sind für die Familie des Königs zum Reiten,
+das Brot und die Sommerfrüchte für die jungen Männer zum Essen,
+und der Wein, damit die trinken können, die in der Wüste müde werden.“
+<sup>3</sup>Der König sagte:
+„Wo ist der Sohn deines Herrn?“
+Ziba sagte zum König:
+„Schau, er bleibt in Jerusalem.
+Denn er hat gesagt:
+‚Heute wird mir das Haus Israel das Königtum meines Großvaters zurückgeben.‘“
+<sup>4</sup>Da sagte der König zu Ziba:
+„Schau, alles, was Mefi-Boschet gehört, soll dir gehören.“
+Ziba sagte:
+„Ich verneige mich.
+Möge ich Gnade in deinen Augen finden, mein Herr und König.“
+
+> **Was bedeutet das?**
+> Ziba kommt mit großzügigen Geschenken. Das tut David in seiner Not gut.
+> Aber dann verleumdet Ziba seinen Herrn Mefi-Boschet: Er sei in Jerusalem geblieben, weil er selbst König werden wolle. Das ist sehr unwahrscheinlich. Wie sollte ein gelähmter Mann, der von Davids Gnade lebt, König werden?
+> David glaubt Ziba sofort, ohne nachzuprüfen. In seiner Not und Erschöpfung urteilt er vorschnell. Er gibt Ziba den ganzen Besitz von Mefi-Boschet.
+> In Kapitel 19 werden wir hören, was Mefi-Boschet selbst dazu sagt. Wer hier die Wahrheit sagt, bleibt am Ende offen.
+> „Sommerfrüchte“ waren wohl Feigen oder andere Früchte aus der Sommerernte.
+
+---
+
+### Schimi verflucht David (Vers 5–14)
+
+<sup>5</sup>Als der König David nach Bahurim kam,
+schau, da kam ein Mann heraus aus der Sippe des Hauses Sauls.
+Sein Name war Schimi, der Sohn von Gera.
+Er kam heraus und fluchte, während er herauskam.
+<sup>6</sup>Er warf mit Steinen nach David und nach allen Knechten des Königs David,
+obwohl das ganze Volk und alle Helden rechts und links von ihm waren.
+<sup>7</sup>So sagte Schimi, als er fluchte:
+„Hau ab, hau ab, du Blutmensch, du nichtsnutziger Kerl!
+<sup>8</sup>Der HERR hat das ganze Blut des Hauses Sauls auf dich zurückgebracht,
+an dessen Stelle du König geworden bist.
+Und der HERR hat das Königtum in die Hand deines Sohnes Absalom gegeben.
+Schau, jetzt hat dich dein eigenes Unheil getroffen,
+denn du bist ein Blutmensch!“
+<sup>9</sup>Da sagte Abischai, der Sohn der Zeruja, zum König:
+„Warum soll dieser tote Hund meinen Herrn, den König, verfluchen?
+Lass mich doch hinübergehen und ihm den Kopf abhauen.“
+<sup>10</sup>Der König sagte:
+„Was habe ich mit euch zu tun, ihr Söhne der Zeruja?
+Wenn er flucht, und wenn der HERR zu ihm gesagt hat: ‚Verfluche David‘,
+wer darf dann sagen: ‚Warum tust du das?‘“
+<sup>11</sup>David sagte zu Abischai und zu allen seinen Knechten:
+„Schaut, mein eigener Sohn, der aus meinem Leib gekommen ist, trachtet mir nach dem Leben.
+Wie viel mehr jetzt dieser Benjaminiter!
+Lasst ihn in Ruhe und lasst ihn fluchen,
+denn der HERR hat es ihm gesagt.
+<sup>12</sup>Vielleicht sieht der HERR das Unrecht an, das mir geschieht,
+und der HERR vergilt mir Gutes für das Fluchen von heute.“
+<sup>13</sup>So gingen David und seine Männer ihren Weg.
+Und Schimi ging am Berghang neben ihm her
+und fluchte im Gehen, warf Steine nach ihm und warf Staub.
+<sup>14</sup>Der König und das ganze Volk, das bei ihm war, kamen erschöpft an.
+Und er ruhte sich dort aus.
+
+> **Was bedeutet das?**
+> Schimi ist ein Verwandter von Saul. Er hasst David. Er glaubt, David habe sich den Thron mit Blut erkauft, und jetzt treffe ihn die gerechte Strafe.
+> Das stimmt so nicht. David hat Saul und seine Familie verschont. Aber Schimi hat in einem Punkt nicht ganz unrecht: David hat Blut vergossen, das Blut von Uria.
+> Abischai will Schimi töten. Aber David sagt: Nein. Vielleicht hat Gott ihn geschickt. Ich nehme es hin.
+> Das ist eine große Demut. David wehrt sich nicht gegen die Beleidigung. Er erinnert sich wohl an seine eigene Schuld. Und er hofft: Vielleicht sieht Gott mein Leid und wendet es zum Guten.
+> Jesus hat später gelehrt: „Segnet, die euch verfluchen“ (Lukas 6,28). David segnet Schimi nicht, aber er rächt sich auch nicht.
+
+---
+
+### Huschai bei Absalom (Vers 15–19)
+
+<sup>15</sup>Absalom und das ganze Volk, die Männer Israels, kamen nach Jerusalem,
+und Ahitofel mit ihm.
+<sup>16</sup>Als Huschai, der Arkiter, Davids Freund, zu Absalom kam,
+sagte Huschai zu Absalom:
+„Es lebe der König! Es lebe der König!“
+<sup>17</sup>Absalom sagte zu Huschai:
+„Ist das deine Treue zu deinem Freund?
+Warum bist du nicht mit deinem Freund gegangen?“
+<sup>18</sup>Huschai sagte zu Absalom:
+„Nein, sondern wen der HERR und dieses Volk und alle Männer Israels erwählt haben,
+dem will ich gehören, und bei ihm will ich bleiben.
+<sup>19</sup>Und außerdem: Wem sollte ich dienen?
+Sollte ich nicht vor seinem Sohn dienen?
+So wie ich vor deinem Vater gedient habe, so will ich vor dir sein.“
+
+> **Was bedeutet das?**
+> Huschai spielt seine Rolle als Doppelagent. Absalom ist misstrauisch: Warum hältst du nicht zu meinem Vater?
+> Huschais Antwort ist klug und doppeldeutig. „Es lebe der König!“ sagt er, aber er sagt nicht, welchen König er meint. „Wen der HERR erwählt hat“: Das ist in Wahrheit David.
+> Absalom ist eitel genug, um es zu glauben.
+
+---
+
+### Ahitofels erster Rat (Vers 20–23)
+
+<sup>20</sup>Da sagte Absalom zu Ahitofel:
+„Gebt euren Rat, was wir tun sollen.“
+<sup>21</sup>Ahitofel sagte zu Absalom:
+„Geh zu den Nebenfrauen deines Vaters, die er zurückgelassen hat, um das Haus zu hüten.
+Dann wird ganz Israel hören, dass du dich bei deinem Vater verhasst gemacht hast.
+Dann werden die Hände aller, die bei dir sind, stark werden.“
+<sup>22</sup>Da schlugen sie für Absalom auf dem Dach ein Zelt auf.
+Und Absalom ging zu den Nebenfrauen seines Vaters, vor den Augen von ganz Israel.
+<sup>23</sup>Der Rat Ahitofels, den er in jenen Tagen gab,
+war so, als ob man das Wort Gottes befragte.
+So galt jeder Rat Ahitofels, sowohl bei David als auch bei Absalom.
+
+> **Was bedeutet das?**
+> Ahitofel gibt einen grausamen, aber politisch klugen Rat. Wenn Absalom öffentlich mit den Frauen seines Vaters schläft, zeigt er: Ich bin jetzt der König. Und es gibt kein Zurück mehr. Eine Versöhnung mit David ist unmöglich. So wissen alle Anhänger, dass sie sich ganz auf Absalom verlassen können.
+> Für die zehn Frauen ist es ein schweres Unrecht. Sie werden öffentlich missbraucht, als Mittel im Machtkampf. Niemand fragt nach ihnen.
+> Hier erfüllt sich die Ankündigung Natans genau: „Ich will deine Frauen deinem Nächsten geben, und er wird bei hellem Tag mit ihnen schlafen“ (Kapitel 12,11). Und es geschieht auf demselben Dach, von dem aus David Batseba gesehen hatte (Kapitel 11,2).
+> Ahitofels Rat galt als so sicher wie ein Wort von Gott. Darum war er so gefährlich für David.
+
+## 2. Samuel – Kapitel 17
+#### Ahitofels Rat gegen Huschais Rat
+
+---
+
+### Ahitofels zweiter Rat (Vers 1–4)
+
+<sup>1</sup>Weiter sagte Ahitofel zu Absalom:
+„Lass mich jetzt 12 000 Männer auswählen.
+Dann will ich mich aufmachen und heute Nacht David nachjagen.
+<sup>2</sup>Ich will über ihn kommen, während er müde und erschöpft ist,
+und ihm einen Schrecken einjagen.
+Dann wird das ganze Volk, das bei ihm ist, fliehen.
+Und ich will nur den König erschlagen.
+<sup>3</sup>Und ich will das ganze Volk zu dir zurückbringen.
+Der Mann, den du suchst, ist so viel wert, als ob alle zurückkehrten.
+Dann wird das ganze Volk in Frieden sein.“
+<sup>4</sup>Der Vorschlag gefiel Absalom und allen Ältesten Israels gut.
+
+> **Was bedeutet das?**
+> Ahitofels Plan ist sehr gut: Sofort angreifen, solange David erschöpft ist. Nur David töten, alle anderen verschonen. Dann ist der Krieg mit einem einzigen Schlag vorbei.
+> Wenn Absalom diesen Plan befolgt hätte, wäre David wahrscheinlich gestorben.
+
+---
+
+### Huschais Gegenrat (Vers 5–14)
+
+<sup>5</sup>Da sagte Absalom:
+„Ruft doch auch Huschai, den Arkiter.
+Wir wollen hören, was auch er sagt.“
+<sup>6</sup>Als Huschai zu Absalom kam, sagte Absalom zu ihm:
+„So hat Ahitofel geredet.
+Sollen wir tun, was er sagt?
+Wenn nicht, dann sprich du.“
+<sup>7</sup>Huschai sagte zu Absalom:
+„Der Rat, den Ahitofel diesmal gegeben hat, ist nicht gut.“
+<sup>8</sup>Huschai sagte weiter:
+„Du kennst deinen Vater und seine Männer.
+Sie sind Helden, und sie sind wütend
+wie eine Bärin auf dem Feld, der man die Jungen geraubt hat.
+Dein Vater ist ein Kriegsmann.
+Er wird nicht beim Volk übernachten.
+<sup>9</sup>Schau, jetzt hat er sich in irgendeiner Grube oder an einem anderen Ort versteckt.
+Und wenn gleich am Anfang einige von ihnen fallen,
+dann wird jeder, der es hört, sagen:
+‚Unter dem Volk, das Absalom folgt, gibt es ein Gemetzel!‘
+<sup>10</sup>Dann wird auch der Tapferste, der ein Herz wie ein Löwe hat, ganz verzagen.
+Denn ganz Israel weiß, dass dein Vater ein Held ist
+und dass die Männer bei ihm tapfer sind.
+<sup>11</sup>Aber ich rate:
+Ganz Israel soll sich bei dir versammeln, von Dan bis Beerscheba,
+so zahlreich wie der Sand am Meer.
+Und du selbst sollst in den Kampf ziehen.
+<sup>12</sup>Dann werden wir über ihn kommen, an irgendeinem Ort, wo er sich finden lässt.
+Wir werden auf ihn fallen, wie der Tau auf die Erde fällt.
+Und von ihm und von allen Männern bei ihm wird nicht einer übrig bleiben.
+<sup>13</sup>Und wenn er sich in eine Stadt zurückzieht,
+dann wird ganz Israel Seile an diese Stadt legen,
+und wir ziehen sie hinab in den Fluss,
+bis dort nicht einmal mehr ein kleiner Stein zu finden ist.“
+<sup>14</sup>Absalom und alle Männer Israels sagten:
+„Der Rat Huschais, des Arkiters, ist besser als der Rat Ahitofels.“
+Denn der HERR hatte es so bestimmt,
+den guten Rat Ahitofels zunichtezumachen,
+damit der HERR Unheil über Absalom brachte.
+
+> **Was bedeutet das?**
+> Huschai ist ein Meister der Worte. Er macht Absalom Angst vor David: Dein Vater ist gefährlich wie eine wütende Bärin. Er wird sich verstecken und euch überraschen.
+> Dann schmeichelt er Absaloms Eitelkeit: Du selbst sollst ein riesiges Heer anführen. Das gefällt Absalom.
+> Er übertreibt mit großen Bildern: so viele wie Sand am Meer, wie Tau auf der Erde, eine Stadt mit Seilen in den Fluss ziehen. Die Worte klingen eindrucksvoll, sind aber unrealistisch.
+> Vor allem gewinnt Huschai das Wichtigste für David: Zeit. Bis ganz Israel versammelt ist, kann David sich in Sicherheit bringen.
+> Vers 14 ist der Schlüssel: Gott selbst hat Davids Gebet erhört: „Mach den Rat Ahitofels zur Torheit“ (Kapitel 15,31). Gott wirkt hier nicht durch Wunder, sondern durch menschliche Entscheidungen.
+
+---
+
+### Die Boten im Brunnen (Vers 15–22)
+
+<sup>15</sup>Da sagte Huschai zu Zadok und zu Abjatar, den Priestern:
+„So und so hat Ahitofel Absalom und den Ältesten Israels geraten,
+und so und so habe ich geraten.
+<sup>16</sup>Darum schickt jetzt schnell hin und lasst David sagen:
+‚Übernachte heute Nacht nicht an den Furten der Wüste,
+sondern geh unbedingt hinüber,
+damit der König und das ganze Volk bei ihm nicht verschlungen werden.‘“
+<sup>17</sup>Jonatan und Ahimaaz warteten bei En-Rogel.
+Eine Magd ging immer hin und berichtete ihnen,
+und sie gingen hin und berichteten es dem König David.
+Denn sie durften sich nicht sehen lassen, wie sie in die Stadt kamen.
+<sup>18</sup>Aber ein Junge sah sie und erzählte es Absalom.
+Da gingen die beiden schnell weg
+und kamen in das Haus eines Mannes in Bahurim,
+der einen Brunnen in seinem Hof hatte.
+Und sie stiegen dort hinab.
+<sup>19</sup>Die Frau nahm eine Decke und breitete sie über die Öffnung des Brunnens
+und streute zerstoßenes Getreide darauf.
+So merkte niemand etwas.
+<sup>20</sup>Die Knechte Absaloms kamen zu der Frau ins Haus und sagten:
+„Wo sind Ahimaaz und Jonatan?“
+Die Frau sagte zu ihnen:
+„Sie sind über den Wasserbach gegangen.“
+Als sie gesucht und sie nicht gefunden hatten,
+kehrten sie nach Jerusalem zurück.
+<sup>21</sup>Nachdem sie weggegangen waren,
+stiegen die beiden aus dem Brunnen herauf,
+gingen hin und berichteten es dem König David.
+Sie sagten zu David:
+„Macht euch auf und geht schnell über das Wasser.
+Denn so hat Ahitofel gegen euch geraten.“
+<sup>22</sup>Da machte sich David auf und das ganze Volk, das bei ihm war,
+und sie gingen über den Jordan.
+Bis zum Morgenlicht fehlte nicht einer, der nicht über den Jordan gegangen wäre.
+
+> **Was bedeutet das?**
+> Huschai weiß nicht sicher, ob Absalom nicht doch noch Ahitofels Rat befolgt. Darum soll David sofort fliehen.
+> Jetzt beginnt eine spannende Botenkette: Huschai sagt es den Priestern, die Priester einer Magd, die Magd den Priestersöhnen, die Söhne David.
+> En-Rogel war eine Quelle im Tal südlich von Jerusalem.
+> Wieder rettet eine mutige Frau Davids Leute. Sie versteckt die Boten im Brunnen, wie Rahab die Kundschafter versteckt hatte (Josua 2). Sie schickt die Verfolger in die falsche Richtung.
+> Am Morgen ist ganz Davids Volk sicher über den Jordan. Keiner fehlt.
+
+---
+
+### Ahitofels Ende (Vers 23)
+
+<sup>23</sup>Als Ahitofel sah, dass sein Rat nicht befolgt wurde,
+sattelte er seinen Esel,
+machte sich auf und ging nach Hause in seine Stadt.
+Er bestellte sein Haus und erhängte sich.
+So starb er und wurde im Grab seines Vaters begraben.
+
+> **Was bedeutet das?**
+> Ahitofel ist klug genug, um zu sehen: Wenn Absalom nicht sofort angreift, wird David gewinnen. Und dann wird er als Verräter bestraft.
+> Er ordnet seine Angelegenheiten und nimmt sich das Leben. Die Bibel erzählt das nüchtern, ohne Urteil.
+> Im Neuen Testament gibt es eine ähnliche Geschichte: Judas, der Jesus verriet, nahm sich auch das Leben (Matthäus 27,5).
+> Wenn du selbst keinen Ausweg mehr siehst oder daran denkst, dir das Leben zu nehmen: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist Tag und Nacht kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. Im Notfall wähle 112.
+
+---
+
+### David in Mahanajim (Vers 24–29)
+
+<sup>24</sup>Dann kam David nach Mahanajim.
+Und Absalom ging über den Jordan, er und alle Männer Israels mit ihm.
+<sup>25</sup>Absalom setzte Amasa anstelle von Joab über das Heer.
+Amasa war der Sohn eines Mannes namens Jitra, des Israeliten,
+der zu Abigajil gegangen war, der Tochter von Nahasch, der Schwester der Zeruja, der Mutter Joabs.
+<sup>26</sup>Israel und Absalom lagerten im Land Gilead.
+<sup>27</sup>Als David nach Mahanajim gekommen war,
+brachten Schobi, der Sohn von Nahasch aus Rabba der Ammoniter,
+und Machir, der Sohn von Ammiël aus Lo-Dabar,
+und Barsillai, der Gileaditer aus Roglim,
+<sup>28</sup>Betten, Schüsseln, Tongefäße,
+Weizen, Gerste, Mehl, geröstetes Korn, Bohnen, Linsen, geröstete Körner,
+<sup>29</sup>Honig, Butter, Schafe und Käse vom Rind,
+damit David und das Volk bei ihm essen konnten.
+Denn sie sagten:
+„Das Volk ist in der Wüste hungrig, müde und durstig.“
+
+> **Was bedeutet das?**
+> Mahanajim liegt östlich des Jordan. Dort war früher auch Isch-Boschet König gewesen (Kapitel 2,8).
+> Amasa ist ein Cousin von Joab und auch ein Neffe Davids. Diese Abigajil ist nicht Davids Frau aus Kapitel 25 im 1. Samuelbuch. In 1. Chronik 2,13–17 steht, dass sie eine Schwester Davids war. Hier steht „Tochter von Nahasch“. Vielleicht war Nahasch ein anderer Name für Isai oder der Name ihrer Mutter. Und in 1. Chronik 2,17 heißt Jitra „der Ismaeliter“.
+> In Davids größter Not kommen drei Männer mit allem, was man braucht. Einer ist ein Ammoniter, ein Sohn von Nahasch, dem früheren Feind. Einer ist Machir, der früher Mefi-Boschet aufgenommen hatte. Und einer ist der reiche, alte Barsillai.
+> Sie fragen nicht, wer gewinnt. Sie sehen nur: Diese Menschen sind hungrig, müde und durstig. Das ist echte Hilfsbereitschaft.
+
+## 2. Samuel – Kapitel 18
+#### Absaloms Tod
+
+---
+
+### „Geht schonend mit Absalom um!“ (Vers 1–5)
+
+<sup>1</sup>David musterte das Volk, das bei ihm war,
+und setzte Anführer über Tausend und Anführer über Hundert über sie.
+<sup>2</sup>David schickte das Volk aus:
+ein Drittel unter der Hand von Joab,
+ein Drittel unter der Hand von Abischai, dem Sohn der Zeruja, dem Bruder Joabs,
+und ein Drittel unter der Hand von Ittai, dem Gatiter.
+Der König sagte zum Volk:
+„Ich will auch selbst ganz sicher mit euch ausziehen.“
+<sup>3</sup>Aber das Volk sagte:
+„Du sollst nicht ausziehen.
+Denn wenn wir fliehen müssen, werden sie sich nicht um uns kümmern.
+Und auch wenn die Hälfte von uns stirbt, werden sie sich nicht um uns kümmern.
+Aber du bist so viel wert wie zehntausend von uns.
+Darum ist es jetzt besser, dass du bereit bist, uns aus der Stadt zu helfen.“
+<sup>4</sup>Der König sagte zu ihnen:
+„Ich will tun, was euch am besten erscheint.“
+Der König stellte sich neben das Tor,
+und das ganze Volk zog aus, in Hundertschaften und in Tausendschaften.
+<sup>5</sup>Der König befahl Joab, Abischai und Ittai:
+„Geht mir zuliebe schonend mit dem jungen Mann Absalom um.“
+Und das ganze Volk hörte, wie der König allen Anführern wegen Absalom befahl.
+
+> **Was bedeutet das?**
+> David ist ein erfahrener Feldherr. Er teilt sein Heer in drei Gruppen. Auch Ittai, der treue Philister, bekommt eine Gruppe.
+> Das Volk will nicht, dass David mitkämpft. Wenn er stirbt, ist alles verloren. Das Ziel der Feinde ist nur David.
+> Davids letzter Befehl ist ein Befehl als Vater, nicht als König: „Geht schonend mit Absalom um.“ Absalom will ihn töten, aber David liebt seinen Sohn trotzdem.
+
+---
+
+### Die Schlacht im Wald (Vers 6–8)
+
+<sup>6</sup>So zog das Volk aufs Feld hinaus, Israel entgegen.
+Und der Kampf fand im Wald Efraim statt.
+<sup>7</sup>Das Volk Israel wurde dort von den Knechten Davids geschlagen.
+Und es gab dort an diesem Tag eine große Niederlage: 20 000 Mann.
+<sup>8</sup>Denn der Kampf breitete sich dort über das ganze Land aus.
+Und der Wald fraß an diesem Tag mehr Menschen, als das Schwert fraß.
+
+> **Was bedeutet das?**
+> Der Wald Efraim lag östlich des Jordan, im Land Gilead.
+> Das unwegsame Gelände, mit Schluchten, Felsen und dichtem Gestrüpp, ist für Absaloms großes Heer eine Falle. Davids erfahrene Kämpfer kennen sich besser aus.
+> „Der Wald fraß mehr Menschen als das Schwert“: Viele starben auf der Flucht, in Gruben, Sümpfen oder im Unterholz.
+
+---
+
+### Absalom hängt in der Eiche (Vers 9–15)
+
+<sup>9</sup>Absalom traf zufällig auf die Knechte Davids.
+Absalom ritt auf seinem Maultier.
+Das Maultier lief unter die dichten Zweige einer großen Eiche.
+Da blieb sein Kopf in der Eiche hängen,
+und er hing zwischen Himmel und Erde.
+Und das Maultier, das unter ihm war, lief weiter.
+<sup>10</sup>Ein Mann sah es, erzählte es Joab und sagte:
+„Schau, ich habe Absalom in einer Eiche hängen sehen.“
+<sup>11</sup>Joab sagte zu dem Mann, der es ihm erzählte:
+„Schau, du hast es gesehen.
+Warum hast du ihn dort nicht zu Boden geschlagen?
+Ich hätte dir zehn Silberstücke und einen Gürtel gegeben.“
+<sup>12</sup>Der Mann sagte zu Joab:
+„Auch wenn ich tausend Silberstücke in meine Hand bekäme,
+würde ich meine Hand nicht gegen den Sohn des Königs ausstrecken.
+Denn vor unseren Ohren hat der König dir, Abischai und Ittai befohlen:
+‚Passt auf, dass niemand dem jungen Mann Absalom etwas antut.‘
+<sup>13</sup>Sonst hätte ich falsch an seinem Leben gehandelt
+– und vor dem König bleibt nichts verborgen –,
+und du selbst hättest dich gegen mich gestellt.“
+<sup>14</sup>Da sagte Joab:
+„Ich will nicht so mit dir warten.“
+Er nahm drei Spieße in seine Hand
+und stieß sie Absalom ins Herz, während er noch lebend mitten in der Eiche hing.
+<sup>15</sup>Zehn junge Männer, Joabs Waffenträger, umringten Absalom,
+schlugen ihn und töteten ihn.
+
+> **Was bedeutet das?**
+> Absalom bleibt mit dem Kopf in den Ästen hängen, wohl mit seinem langen, dichten Haar, auf das er so stolz war (Kapitel 14,26). Sein Maultier, ein Zeichen königlicher Würde, läuft weg. Er hängt hilflos „zwischen Himmel und Erde“.
+> Der einfache Soldat gehorcht dem König. Er sagt: Für kein Geld der Welt würde ich ihn töten. Der König hat es verboten.
+> Aber Joab gehorcht nicht. Er weiß: Solange Absalom lebt, wird es keinen Frieden geben. Er tötet ihn, obwohl er wehrlos ist. Joab handelt nach politischer Berechnung, nicht nach dem Befehl des Königs. Es ist nicht das erste Mal (Kapitel 3,27).
+> Zehn Silberstücke sind etwa 110 Gramm Silber, tausend Silberstücke etwa 11 Kilogramm.
+
+---
+
+### Ein Steinhaufen statt eines Denkmals (Vers 16–18)
+
+<sup>16</sup>Joab blies das Horn,
+und das Volk kehrte von der Verfolgung Israels zurück.
+Denn Joab hielt das Volk zurück.
+<sup>17</sup>Sie nahmen Absalom,
+warfen ihn im Wald in eine große Grube
+und errichteten über ihm einen sehr großen Steinhaufen.
+Und ganz Israel floh, jeder in sein Zelt.
+<sup>18</sup>Absalom hatte sich zu Lebzeiten das Denkmal genommen und aufgerichtet,
+das im Königstal steht.
+Denn er sagte:
+„Ich habe keinen Sohn, der meinen Namen in Erinnerung hält.“
+Er nannte das Denkmal nach seinem eigenen Namen.
+Man nennt es bis heute „Absaloms Denkmal“.
+
+> **Was bedeutet das?**
+> Mit Absaloms Tod ist der Krieg vorbei. Joab beendet das Blutvergießen.
+> Absalom bekommt kein Königsgrab. Er wird in eine Grube geworfen. Ein Steinhaufen über einem Toten war ein Zeichen der Schande, wie bei Achan (Josua 7,26).
+> Absalom hatte sich selbst ein Denkmal errichtet, damit man sich an ihn erinnert. Aber nicht das Denkmal, sondern der Steinhaufen im Wald ist sein Grab.
+> In Kapitel 14,27 stand, dass er drei Söhne hatte. Vielleicht waren sie früh gestorben.
+> Im Kidrontal in Jerusalem gibt es heute ein Grabmal, das man „Absaloms Grab“ nennt. Es wurde aber viel später gebaut, etwa zur Zeit von Jesus.
+
+---
+
+### Die Boten (Vers 19–32)
+
+<sup>19</sup>Da sagte Ahimaaz, der Sohn Zadoks:
+„Lass mich doch laufen und dem König die gute Nachricht bringen,
+dass der HERR ihm gegen seine Feinde Recht verschafft hat.“
+<sup>20</sup>Joab sagte zu ihm:
+„Du sollst heute nicht der Bote sein.
+An einem anderen Tag kannst du eine Nachricht bringen.
+Aber heute sollst du keine Nachricht bringen,
+denn der Sohn des Königs ist tot.“
+<sup>21</sup>Dann sagte Joab zu dem Kuschiter:
+„Geh, berichte dem König, was du gesehen hast!“
+Der Kuschiter verneigte sich vor Joab und lief los.
+<sup>22</sup>Da sagte Ahimaaz, der Sohn Zadoks, noch einmal zu Joab:
+„Komme, was wolle, lass mich doch auch hinter dem Kuschiter herlaufen.“
+Joab sagte:
+„Warum willst du laufen, mein Sohn?
+Du wirst für die Nachricht keinen Lohn bekommen.“
+<sup>23</sup>„Komme, was wolle“, sagte er, „ich will laufen.“
+Er sagte zu ihm:
+„Lauf!“
+Da lief Ahimaaz den Weg durch die Ebene
+und überholte den Kuschiter.
+
+<sup>24</sup>David saß zwischen den beiden Toren.
+Der Wächter stieg auf das Dach des Tores, auf die Mauer.
+Er blickte auf und sah,
+und schau: Ein Mann lief allein.
+<sup>25</sup>Der Wächter rief und erzählte es dem König.
+Der König sagte:
+„Wenn er allein ist, dann hat er eine Nachricht im Mund.“
+Er kam immer näher.
+<sup>26</sup>Da sah der Wächter einen anderen Mann laufen.
+Der Wächter rief dem Torhüter zu und sagte:
+„Schau, ein Mann läuft allein!“
+Der König sagte:
+„Auch er bringt eine Nachricht.“
+<sup>27</sup>Der Wächter sagte:
+„Ich glaube, der erste läuft wie Ahimaaz, der Sohn Zadoks.“
+Der König sagte:
+„Er ist ein guter Mann und kommt mit einer guten Nachricht.“
+<sup>28</sup>Ahimaaz rief und sagte zum König:
+„Es ist alles gut!“
+Er verneigte sich vor dem König mit dem Gesicht zur Erde und sagte:
+„Gelobt sei der HERR, dein Gott,
+der die Männer ausgeliefert hat, die ihre Hand gegen meinen Herrn, den König, erhoben hatten!“
+<sup>29</sup>Der König sagte:
+„Geht es dem jungen Mann Absalom gut?“
+Ahimaaz antwortete:
+„Als Joab den Knecht des Königs schickte, nämlich mich, deinen Knecht,
+da sah ich ein großes Getümmel.
+Aber ich weiß nicht, was es war.“
+<sup>30</sup>Der König sagte:
+„Tritt zur Seite und stell dich hierher.“
+Er trat zur Seite und blieb stehen.
+<sup>31</sup>Und schau, der Kuschiter kam.
+Der Kuschiter sagte:
+„Eine gute Nachricht für meinen Herrn, den König!
+Denn der HERR hat dir heute Recht verschafft gegen alle, die sich gegen dich erhoben haben.“
+<sup>32</sup>Der König sagte zu dem Kuschiter:
+„Geht es dem jungen Mann Absalom gut?“
+Der Kuschiter antwortete:
+„Den Feinden meines Herrn, des Königs,
+und allen, die sich gegen dich erheben, um dir Böses zu tun,
+soll es so gehen wie diesem jungen Mann.“
+
+> **Was bedeutet das?**
+> Joab weiß: Für David ist das keine gute Nachricht. Wer ihm sagt, dass Absalom tot ist, bringt Schmerz. Darum will er Ahimaaz, den jungen Priestersohn, schützen. Er schickt einen Kuschiter, einen Mann aus Afrika, aus dem Gebiet südlich von Ägypten, wohl einen Diener.
+> Ahimaaz will unbedingt laufen. Er ist schneller. Aber als er vor David steht, traut er sich nicht, die Wahrheit zu sagen.
+> David fragt beide Boten nur eins: „Geht es Absalom gut?“ Der Sieg ist ihm egal. Er denkt nur an seinen Sohn.
+> Der Kuschiter sagt es vorsichtig, aber deutlich: Allen deinen Feinden soll es gehen wie ihm. Da versteht David.
+
+---
+
+### „Mein Sohn Absalom!“ (Vers 33)
+
+<sup>33</sup>Da erschrak der König sehr.
+Er ging hinauf in das Obergemach über dem Tor und weinte.
+Und während er ging, sagte er:
+„Mein Sohn Absalom!
+Mein Sohn, mein Sohn Absalom!
+Wäre ich doch an deiner Stelle gestorben,
+Absalom, mein Sohn, mein Sohn!“
+
+> **Was bedeutet das?**
+> Das ist einer der erschütterndsten Sätze der Bibel. David hat gesiegt, aber er hat seinen Sohn verloren. Er wiederholt immer wieder: „Mein Sohn, mein Sohn.“ Er wünscht sich, er wäre an seiner Stelle gestorben.
+> Absalom wollte ihn töten. Aber David liebt ihn trotzdem. Die Liebe eines Vaters hört nicht auf, auch wenn der Sohn ihn verrät.
+> Vielleicht spürt David auch seine eigene Schuld: Er hat Amnon nicht bestraft. Er hat sich mit Absalom nie wirklich ausgesprochen. Und das Schwert, das Natan angekündigt hatte, hat jetzt seinen dritten Sohn getroffen.
+> Viele Christen sehen in Davids Klage ein Bild für Gottes Liebe: Gott liebt die Menschen, auch die, die sich gegen ihn auflehnen. Und Christen glauben, dass Gott in Jesus wirklich an Stelle der Menschen gestorben ist.
+> In vielen deutschen Bibeln ist dieser Vers schon Kapitel 19, Vers 1.
