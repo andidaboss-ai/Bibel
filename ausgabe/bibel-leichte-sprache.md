@@ -53770,3 +53770,319 @@ und den Ereignissen, die über ihn, über Israel und über alle Königreiche der
 > **Das Herz:** Immer wieder geht es um das Herz: „Diene Gott mit ungeteiltem Herzen.“ „Wenn du ihn suchst, wird er sich finden lassen.“ Das Volk gibt freiwillig und mit Freude.
 > **Die Lehre des Buches:** Das Wichtigste im Leben eines Volkes und eines Menschen ist der Gottesdienst, also die Beziehung zu Gott. Davids Gebet fasst es zusammen: „Von dir kommt alles, und aus deiner Hand haben wir dir gegeben.“
 > **Wie geht es weiter?** Das 2. Buch der Chronik erzählt von Salomo, dem Bau des Tempels und den Königen von Juda bis zur Verbannung und zur Rückkehr.
+
+
+---
+
+# 2. Chronik
+
+## 2. Chronik – Kapitel 1
+#### Salomo bittet um Weisheit
+
+---
+
+### Bevor es losgeht: Was ist das 2. Buch der Chronik?
+
+Das 2. Buch der Chronik ist die Fortsetzung des 1. Buches der Chronik. Ursprünglich waren beide ein einziges Buch.
+Es erzählt von König Salomo und vom Bau des Tempels in Jerusalem (Kapitel 1–9). Danach erzählt es von den Königen von Juda, bis Jerusalem von den Babyloniern zerstört wird (Kapitel 10–36).
+Anders als die Bücher der Könige erzählt die Chronik fast nur von Juda, dem Südreich mit Jerusalem und dem Tempel. Das Nordreich Israel kommt nur am Rand vor.
+Das wichtigste Thema ist der Tempel und der Gottesdienst. Die Chronik fragt bei jedem König: Hat er Gott gesucht? Hat er den Tempel und den Gottesdienst geachtet? Wenn ein König Gott sucht, geht es ihm und dem Volk gut. Wenn er Gott verlässt, kommt Unglück.
+Ein Lieblingswort der Chronik ist „suchen“: Gott suchen, ihn fragen, sich ihm zuwenden. Und die Chronik zeigt: Auch wer schwer gesündigt hat, kann umkehren, und Gott hört ihn.
+Das Buch endet mit einem Ausblick voller Hoffnung: Der persische König Kyrus erlaubt den Juden, nach Jerusalem zurückzukehren und den Tempel wieder aufzubauen.
+Viele Geschichten kennen wir schon aus den Büchern der Könige. Wo die Chronik anders erzählt, weisen die Erklärungen darauf hin.
+
+---
+
+### Salomo in Gibeon (Vers 1–6)
+
+<sup>1</sup>Salomo, der Sohn Davids, wurde in seinem Königreich stark.
+Der HERR, sein Gott, war mit ihm
+und machte ihn überaus groß.
+<sup>2</sup>Salomo redete zu ganz Israel,
+zu den Anführern über Tausend und über Hundert,
+zu den Richtern und zu jedem Fürsten in ganz Israel, den Oberhäuptern der Familien.
+<sup>3</sup>Dann ging Salomo mit der ganzen Versammlung zur Opferhöhe in Gibeon.
+Denn dort war das Zelt der Begegnung Gottes,
+das Mose, der Knecht des HERRN, in der Wüste gemacht hatte.
+<sup>4</sup>Die Lade Gottes aber hatte David von Kirjat-Jearim heraufgebracht
+an den Ort, den David für sie vorbereitet hatte.
+Denn er hatte in Jerusalem ein Zelt für sie aufgeschlagen.
+<sup>5</sup>Auch der Altar aus Bronze, den Bezalel gemacht hatte, der Sohn Uris, des Sohnes Hurs,
+stand dort vor der Wohnung des HERRN.
+Und Salomo und die Versammlung suchten ihn dort auf.
+<sup>6</sup>Salomo ging dort hinauf zum Altar aus Bronze vor dem HERRN, der beim Zelt der Begegnung stand,
+und brachte darauf tausend Brandopfer dar.
+
+> **Was bedeutet das?**
+> Salomo beginnt seine Herrschaft mit einem Gottesdienst. Er geht nicht allein, sondern mit dem ganzen Volk.
+> Gibeon lag etwa 10 Kilometer nordwestlich von Jerusalem. Dort stand noch die alte Stiftshütte aus der Wüstenzeit. Die Lade war schon in Jerusalem (1. Chronik 16,39).
+> Bezalel war der Kunsthandwerker, der den Altar in der Wüste gemacht hatte (2. Mose 31,1–5). Er stammte aus Juda (1. Chronik 2,20).
+> „Suchten ihn dort auf“ kann auch heißen „suchten den HERRN dort“. Das Wort „suchen“ ist für die Chronik besonders wichtig.
+
+---
+
+### Gott erscheint Salomo (Vers 7–13)
+
+<sup>7</sup>In dieser Nacht erschien Gott Salomo und sagte zu ihm:
+„Bitte, was ich dir geben soll.“
+<sup>8</sup>Salomo sagte zu Gott:
+„Du hast meinem Vater David große Güte erwiesen
+und hast mich an seiner Stelle zum König gemacht.
+<sup>9</sup>Nun, HERR, Gott,
+lass dein Versprechen an meinen Vater David wahr werden.
+Denn du hast mich zum König über ein Volk gemacht,
+das so zahlreich ist wie der Staub der Erde.
+<sup>10</sup>Gib mir nun Weisheit und Erkenntnis,
+damit ich vor diesem Volk ein- und ausgehen kann.
+Denn wer kann dieses dein großes Volk richten?“
+<sup>11</sup>Gott sagte zu Salomo:
+„Weil das in deinem Herzen war
+und du nicht um Reichtum, Schätze und Ehre gebeten hast
+und nicht um das Leben derer, die dich hassen,
+und auch nicht um ein langes Leben,
+sondern um Weisheit und Erkenntnis für dich,
+damit du mein Volk richten kannst, über das ich dich zum König gemacht habe,
+<sup>12</sup>darum sind dir Weisheit und Erkenntnis gegeben.
+Und ich will dir Reichtum, Schätze und Ehre geben,
+wie sie keiner der Könige vor dir gehabt hat
+und keiner nach dir haben wird.“
+<sup>13</sup>Dann kam Salomo von der Opferhöhe in Gibeon,
+vom Zelt der Begegnung, nach Jerusalem.
+Und er regierte über Israel.
+
+> **Was bedeutet das?**
+> Gott fragt: „Was soll ich dir geben?“ Salomo hätte alles wünschen können. Aber er bittet um Weisheit, um gut für sein Volk sorgen zu können. Er denkt nicht an sich, sondern an die Menschen, die ihm anvertraut sind.
+> „Ein- und ausgehen“ heißt: das Volk gut führen und leiten.
+> Gott freut sich über diese Bitte und schenkt ihm noch mehr dazu. Jesus hat Ähnliches gesagt: „Sucht zuerst das Reich Gottes, dann wird euch das andere dazugegeben“ (Matthäus 6,33).
+> Die Geschichte steht ausführlicher in 1. Könige 3. Dort folgt das berühmte Urteil Salomos über die zwei Frauen und das Kind.
+
+---
+
+### Salomos Reichtum (Vers 14–17)
+
+<sup>14</sup>Salomo sammelte Wagen und Reiter.
+Er hatte 1400 Wagen und 12 000 Reiter.
+Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
+<sup>15</sup>Der König machte Silber und Gold in Jerusalem so häufig wie Steine
+und Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.
+<sup>16</sup>Die Pferde, die Salomo hatte, wurden aus Ägypten und aus Koë eingeführt.
+Die Händler des Königs kauften sie in Koë.
+<sup>17</sup>Sie führten aus Ägypten einen Wagen für 600 Silberstücke ein und ein Pferd für 150.
+Und sie führten sie auch an die Könige der Hetiter und die Könige von Syrien aus.
+
+> **Was bedeutet das?**
+> Gottes Versprechen erfüllt sich: Salomo wird reich und mächtig.
+> „Koë“ ist wohl Kilikien, eine Gegend im Süden der heutigen Türkei. Dort züchtete man Pferde.
+> „Silberstücke“ sind wohl Schekel. Ein Schekel sind etwa 11 Gramm Silber.
+> „Syrien“ heißt im Hebräischen „Aram“.
+> Ähnliche Verse stehen in 1. Könige 10,26–29.
+> In deutschen Bibeln hat dieses Kapitel noch einen Vers 18. Er entspricht hier Kapitel 2, Vers 1. Darum ist im nächsten Kapitel die Verszählung verschoben.
+
+## 2. Chronik – Kapitel 2
+#### Salomo und König Huram von Tyrus
+
+---
+
+### Salomo plant den Bau (Vers 1–2)
+
+<sup>1</sup>Salomo beschloss, ein Haus für den Namen des HERRN zu bauen
+und ein Haus für sein Königtum.
+<sup>2</sup>Salomo zählte 70 000 Lastträger ab,
+80 000 Steinhauer im Gebirge
+und 3600 Aufseher über sie.
+
+> **Was bedeutet das?**
+> Salomo baut zwei Häuser: den Tempel für Gott und einen Palast für sich.
+> Die Zahlen der Arbeiter sind groß. Wer diese Menschen waren, sagt Vers 17: Fremde, die im Land lebten. Für sie war es schwere Zwangsarbeit.
+> In deutschen Bibeln ist Vers 1 hier Kapitel 1, Vers 18. Und alle folgenden Verse dieses Kapitels haben dort eine Nummer weniger: Vers 2 hier ist dort Vers 1, und so weiter bis Vers 18 hier, der dort Vers 17 ist.
+
+---
+
+### Salomos Brief an Huram (Vers 3–10)
+
+<sup>3</sup>Salomo schickte zu Huram, dem König von Tyrus, und ließ ihm sagen:
+„Wie du es mit meinem Vater David gemacht hast,
+als du ihm Zedern geschickt hast, damit er sich ein Haus bauen konnte, in dem er wohnte,
+so mach es auch mit mir.
+<sup>4</sup>Schau, ich will ein Haus für den Namen des HERRN, meines Gottes, bauen,
+um es ihm zu weihen,
+um vor ihm wohlriechenden Weihrauch zu verbrennen,
+für die ständigen Schaubrote
+und für die Brandopfer am Morgen und am Abend,
+an den Sabbaten, an den Neumonden und an den Festen des HERRN, unseres Gottes.
+Das ist eine ewige Ordnung für Israel.
+<sup>5</sup>Das Haus, das ich baue, wird groß sein,
+denn unser Gott ist größer als alle Götter.
+<sup>6</sup>Aber wer kann ihm ein Haus bauen?
+Denn der Himmel und der Himmel der Himmel können ihn nicht fassen.
+Wer bin ich, dass ich ihm ein Haus baue?
+Nur um vor ihm Weihrauch zu verbrennen.
+<sup>7</sup>Nun schick mir einen Mann, der geschickt ist,
+mit Gold, Silber, Bronze und Eisen zu arbeiten
+und mit Purpur, Karmesin und blauem Purpur,
+und der gravieren kann,
+damit er bei den geschickten Männern ist, die bei mir in Juda und in Jerusalem sind
+und die mein Vater David bereitgestellt hat.
+<sup>8</sup>Schick mir auch Zedernholz, Zypressenholz und Algummimholz vom Libanon.
+Denn ich weiß, dass deine Diener sich darauf verstehen, Holz auf dem Libanon zu fällen.
+Schau, meine Diener sollen mit deinen Dienern arbeiten,
+<sup>9</sup>um mir Holz in Menge bereitzustellen.
+Denn das Haus, das ich bauen will, wird groß und wunderbar sein.
+<sup>10</sup>Schau, ich will deinen Dienern, den Holzfällern, geben:
+etwa 4,4 Millionen Liter gestampften Weizen,
+etwa 440 000 Liter Gerste,
+etwa 440 000 Liter Wein
+und etwa 440 000 Liter Öl.“
+
+> **Was bedeutet das?**
+> Huram ist derselbe wie Hiram in den Königsbüchern. Er war König der Phönizier in Tyrus.
+> Salomo erklärt einem ausländischen König, wozu der Tempel dient: für Gebet, Weihrauch, Opfer und Feste.
+> Vers 6 ist bemerkenswert: Salomo weiß, dass Gott viel zu groß ist für ein Haus. „Der Himmel der Himmel kann ihn nicht fassen.“ Der Tempel ist nicht Gottes Wohnung im engen Sinn, sondern ein Ort, an dem die Menschen Gott begegnen und ihn ehren können.
+> Purpur und Karmesin waren teure Farben für Stoffe. Die Phönizier waren berühmt für ihren Purpur.
+> „Algummimholz“ war ein kostbares Holz, vielleicht rotes Sandelholz.
+> In der Bibel steht „20 000 Kor Weizen“ und „20 000 Bat“ Gerste, Wein und Öl. Ein Kor sind etwa 220 Liter, ein Bat etwa 22 Liter. In 1. Könige 5,25 werden andere Mengen genannt.
+
+---
+
+### Hurams Antwort (Vers 11–16)
+
+<sup>11</sup>Da antwortete Huram, der König von Tyrus, in einem Brief, den er Salomo schickte:
+„Weil der HERR sein Volk liebt, hat er dich zum König über sie gemacht.“
+<sup>12</sup>Weiter schrieb Huram:
+„Gelobt sei der HERR, der Gott Israels,
+der den Himmel und die Erde gemacht hat,
+der dem König David einen weisen Sohn gegeben hat,
+voll Klugheit und Verstand,
+der ein Haus für den HERRN und ein Haus für sein Königtum bauen wird.
+<sup>13</sup>Nun schicke ich dir einen geschickten Mann voll Verstand,
+Huram-Abi,
+<sup>14</sup>den Sohn einer Frau von den Töchtern Dans.
+Sein Vater war ein Mann aus Tyrus.
+Er kann mit Gold, Silber, Bronze, Eisen, Stein und Holz arbeiten,
+mit Purpur, blauem Purpur, feinem Leinen und Karmesin,
+und er kann jede Art von Gravur machen
+und jeden Entwurf ausführen, den man ihm aufträgt,
+zusammen mit deinen geschickten Männern
+und den geschickten Männern meines Herrn David, deines Vaters.
+<sup>15</sup>Nun schicke mein Herr seinen Dienern den Weizen, die Gerste, das Öl und den Wein,
+von denen er gesprochen hat.
+<sup>16</sup>Und wir wollen Holz vom Libanon fällen, so viel du brauchst.
+Wir bringen es dir als Flöße über das Meer nach Jafo.
+Und du sollst es nach Jerusalem hinaufbringen.“
+
+> **Was bedeutet das?**
+> Ein heidnischer König lobt den Gott Israels als Schöpfer von Himmel und Erde. Die Chronik zeigt: Gottes Größe wird auch von anderen Völkern erkannt.
+> „Weil der HERR sein Volk liebt“: Ein guter König ist ein Geschenk Gottes für das Volk.
+> Huram-Abi ist ein Mann mit gemischter Herkunft: Seine Mutter war Israelitin aus dem Stamm Dan, sein Vater Phönizier. Gerade er wird der wichtigste Künstler beim Tempelbau. In 1. Könige 7,14 heißt es, seine Mutter war eine Witwe aus dem Stamm Naftali.
+> Jafo ist der heutige Stadtteil Jaffa in Tel Aviv. Von dort brachte man das Holz etwa 60 Kilometer bergauf nach Jerusalem.
+
+---
+
+### Die Fremden als Arbeiter (Vers 17–18)
+
+<sup>17</sup>Salomo zählte alle Fremden, die im Land Israel lebten,
+nach der Zählung, mit der sein Vater David sie gezählt hatte.
+Man fand 153 600.
+<sup>18</sup>Von ihnen setzte er 70 000 als Lastträger ein,
+80 000 als Steinhauer im Gebirge
+und 3600 als Aufseher, die das Volk zur Arbeit antrieben.
+
+> **Was bedeutet das?**
+> Die Fremden, also Menschen aus den früheren Völkern Kanaans, mussten beim Bau Zwangsarbeit leisten. Für sie war das ein hartes Schicksal. Die Bibel erzählt es ehrlich.
+> Gottes Gesetz verlangte eigentlich, Fremde gut zu behandeln: „Du sollst den Fremden lieben wie dich selbst“ (3. Mose 19,34). Der prächtige Tempel wurde auch auf der schweren Arbeit dieser Menschen gebaut. Das gehört zur Wahrheit dazu.
+
+## 2. Chronik – Kapitel 3
+#### Der Bau des Tempels beginnt
+
+---
+
+### Der Ort und die Maße (Vers 1–4)
+
+<sup>1</sup>Dann fing Salomo an, das Haus des HERRN in Jerusalem zu bauen,
+auf dem Berg Morija,
+wo der HERR seinem Vater David erschienen war,
+an dem Ort, den David bestimmt hatte,
+auf der Tenne Ornans, des Jebusiters.
+<sup>2</sup>Er begann zu bauen am zweiten Tag des zweiten Monats,
+im vierten Jahr seiner Herrschaft.
+<sup>3</sup>Das sind die Grundmaße, die Salomo für den Bau des Hauses Gottes festlegte:
+Die Länge war, nach dem alten Maß, etwa 27 Meter
+und die Breite etwa 9 Meter.
+<sup>4</sup>Die Vorhalle vorne war so lang wie das Haus breit war, etwa 9 Meter,
+und die Höhe etwa 54 Meter.
+Innen überzog er sie mit reinem Gold.
+
+> **Was bedeutet das?**
+> Der Tempel wird genau dort gebaut, wo der Engel stehen blieb und David den Altar baute (1. Chronik 21).
+> Der Berg Morija ist der Ort, an dem Abraham seinen Sohn Isaak opfern sollte und Gott ihn davon abhielt (1. Mose 22,2). Nur hier in 2. Chronik 3,1 wird der Tempelberg in der Bibel so genannt. Zwei große Geschichten der Bibel werden so verbunden: Abraham und Isaak, David und der Engel. Beides sind Geschichten, in denen Gott Leben bewahrt.
+> Das war etwa im Jahr 966 vor Christus.
+> In der Bibel steht „60 Ellen lang und 20 Ellen breit“. Eine Elle sind etwa 45 Zentimeter. „Nach dem alten Maß“ heißt: nach der alten, längeren Elle.
+> Die Höhe der Vorhalle, „120 Ellen“ (etwa 54 Meter), ist sehr hoch, viel höher als der Tempel selbst (30 Ellen, 1. Könige 6,2). Manche alte Handschriften haben hier „20 Ellen“. Vielleicht ist die größere Zahl ein Abschreibfehler.
+
+---
+
+### Gold und Edelsteine (Vers 5–9)
+
+<sup>5</sup>Den großen Raum täfelte er mit Zypressenholz
+und überzog es mit feinem Gold.
+Er verzierte ihn mit Palmen und Ketten.
+<sup>6</sup>Er schmückte das Haus mit Edelsteinen, zur Pracht.
+Das Gold war Gold aus Parwajim.
+<sup>7</sup>Er überzog auch das Haus, die Balken, die Schwellen, seine Wände und seine Türen mit Gold
+und ließ Cherubim in die Wände schnitzen.
+<sup>8</sup>Er machte das Allerheiligste.
+Seine Länge, entsprechend der Breite des Hauses, war etwa 9 Meter,
+und seine Breite war etwa 9 Meter.
+Er überzog es mit feinem Gold, etwa 20 Tonnen.
+<sup>9</sup>Das Gewicht der Nägel war etwa 550 Gramm Gold.
+Auch die Obergemächer überzog er mit Gold.
+
+> **Was bedeutet das?**
+> Der Tempel war prächtig, voller Gold und Schmuck. Für Gott sollte das Schönste und Beste gegeben werden.
+> Palmen und Cherubim erinnern an den Garten Eden. Dort wachten Cherubim am Eingang zum Garten (1. Mose 3,24). Der Tempel war wie ein Bild für das Paradies, den Ort, an dem Gott und die Menschen zusammen sind.
+> Wo „Parwajim“ lag, weiß man nicht. Es war für sein Gold bekannt.
+> Das Allerheiligste war ein Würfel: 20 Ellen lang, breit und hoch (vgl. 1. Könige 6,20). Eine Elle sind etwa 45 Zentimeter.
+> In der Bibel steht „600 Talente“ Gold (ein Talent sind etwa 34 Kilogramm) und „50 Schekel“ für die Nägel (ein Schekel sind etwa 11 Gramm).
+
+---
+
+### Die Cherubim im Allerheiligsten (Vers 10–14)
+
+<sup>10</sup>Im Allerheiligsten machte er zwei Cherubim, geschnitzt,
+und man überzog sie mit Gold.
+<sup>11</sup>Die Flügel der Cherubim waren zusammen etwa 9 Meter lang:
+Der eine Flügel des einen war etwa 2,25 Meter lang und berührte die Wand des Hauses.
+Der andere Flügel war etwa 2,25 Meter lang und berührte den Flügel des anderen Cherubs.
+<sup>12</sup>Der eine Flügel des anderen Cherubs war etwa 2,25 Meter lang und berührte die Wand des Hauses.
+Der andere Flügel war etwa 2,25 Meter lang und stieß an den Flügel des ersten Cherubs.
+<sup>13</sup>Die Flügel dieser Cherubim breiteten sich etwa 9 Meter weit aus.
+Sie standen auf ihren Füßen,
+und ihre Gesichter waren zum Haus gerichtet.
+<sup>14</sup>Er machte den Vorhang aus blauem Purpur, rotem Purpur, Karmesin und feinem Leinen
+und verzierte ihn mit Cherubim.
+
+> **Was bedeutet das?**
+> Zwei große Cherubim standen im Allerheiligsten. Ihre Flügel füllten den ganzen Raum von Wand zu Wand. Unter ihren Flügeln stand später die Bundeslade.
+> Cherubim sind Himmelswesen, die Gottes Thron bewachen. Man stellte sich vor, dass Gott unsichtbar über ihnen thront.
+> In der Bibel stehen „20 Ellen“ und „5 Ellen“. Eine Elle sind etwa 45 Zentimeter.
+> Der Vorhang trennte das Allerheiligste vom übrigen Tempel. Nur der Hohepriester durfte einmal im Jahr hineingehen. Im Neuen Testament wird erzählt, dass beim Tod Jesu der Vorhang im Tempel zerriss (Markus 15,38). Christen sehen darin ein Zeichen, dass der Weg zu Gott jetzt für alle offen ist.
+
+---
+
+### Die beiden Säulen (Vers 15–17)
+
+<sup>15</sup>Vor dem Haus machte er zwei Säulen, etwa 15,75 Meter hoch.
+Das Kapitell oben auf jeder von ihnen war etwa 2,25 Meter hoch.
+<sup>16</sup>Er machte Ketten im Inneren des Heiligtums
+und setzte sie oben auf die Säulen.
+Und er machte hundert Granatäpfel und hängte sie an die Ketten.
+<sup>17</sup>Er stellte die Säulen vor dem Tempel auf,
+eine rechts und eine links.
+Die rechte nannte er Jachin,
+und die linke nannte er Boas.
+
+> **Was bedeutet das?**
+> Die zwei großen Säulen aus Bronze standen frei vor dem Eingang.
+> „Jachin“ heißt „Er (Gott) richtet auf“ oder „Er macht fest“. „Boas“ heißt „In ihm ist Stärke“. Zusammen sagen sie: Gott gibt Halt und Kraft.
+> In der Bibel steht „35 Ellen“ und „5 Ellen“. Eine Elle sind etwa 45 Zentimeter. In 1. Könige 7,15 sind die Säulen nur 18 Ellen hoch. Vielleicht sind hier beide Säulen zusammengerechnet.
+> „Im Inneren des Heiligtums“: Im Hebräischen steht ein Wort, das man auch als „wie eine Halskette“ lesen kann. Gemeint ist wohl ein Kettengeflecht als Schmuck.

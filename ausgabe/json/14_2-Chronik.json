@@ -1,0 +1,396 @@
+{
+ "nr": 14,
+ "code": "2CH",
+ "kuerzel": "2Chr",
+ "name": "2. Chronik",
+ "name_englisch": "2 Chronicles",
+ "testament": "altes-testament",
+ "kapitel": 36,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Salomo bittet um Weisheit",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 2. Buch der Chronik?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 2. Buch der Chronik ist die Fortsetzung des 1. Buches der Chronik. Ursprünglich waren beide ein einziges Buch.\nEs erzählt von König Salomo und vom Bau des Tempels in Jerusalem (Kapitel 1–9). Danach erzählt es von den Königen von Juda, bis Jerusalem von den Babyloniern zerstört wird (Kapitel 10–36).\nAnders als die Bücher der Könige erzählt die Chronik fast nur von Juda, dem Südreich mit Jerusalem und dem Tempel. Das Nordreich Israel kommt nur am Rand vor.\nDas wichtigste Thema ist der Tempel und der Gottesdienst. Die Chronik fragt bei jedem König: Hat er Gott gesucht? Hat er den Tempel und den Gottesdienst geachtet? Wenn ein König Gott sucht, geht es ihm und dem Volk gut. Wenn er Gott verlässt, kommt Unglück.\nEin Lieblingswort der Chronik ist „suchen“: Gott suchen, ihn fragen, sich ihm zuwenden. Und die Chronik zeigt: Auch wer schwer gesündigt hat, kann umkehren, und Gott hört ihn.\nDas Buch endet mit einem Ausblick voller Hoffnung: Der persische König Kyrus erlaubt den Juden, nach Jerusalem zurückzukehren und den Tempel wieder aufzubauen.\nViele Geschichten kennen wir schon aus den Büchern der Könige. Wo die Chronik anders erzählt, weisen die Erklärungen darauf hin.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Salomo in Gibeon",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Salomo, der Sohn Davids, wurde in seinem Königreich stark.\nDer HERR, sein Gott, war mit ihm\nund machte ihn überaus groß.",
+       "englisch_web": "Solomon the son of David was firmly established in his kingdom, and Yahweh his God was with him, and made him exceedingly great."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Salomo redete zu ganz Israel,\nzu den Anführern über Tausend und über Hundert,\nzu den Richtern und zu jedem Fürsten in ganz Israel, den Oberhäuptern der Familien.",
+       "englisch_web": "Solomon spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every prince in all Israel, the heads of the fathers’ households."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Dann ging Salomo mit der ganzen Versammlung zur Opferhöhe in Gibeon.\nDenn dort war das Zelt der Begegnung Gottes,\ndas Mose, der Knecht des HERRN, in der Wüste gemacht hatte.",
+       "englisch_web": "Then Solomon, and all the assembly with him, went to the high place that was at Gibeon; for God’s Tent of Meeting was there, which Yahweh’s servant Moses had made in the wilderness."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Lade Gottes aber hatte David von Kirjat-Jearim heraufgebracht\nan den Ort, den David für sie vorbereitet hatte.\nDenn er hatte in Jerusalem ein Zelt für sie aufgeschlagen.",
+       "englisch_web": "But David had brought God’s ark up from Kiriath Jearim to the place that David had prepared for it; for he had pitched a tent for it at Jerusalem."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Auch der Altar aus Bronze, den Bezalel gemacht hatte, der Sohn Uris, des Sohnes Hurs,\nstand dort vor der Wohnung des HERRN.\nUnd Salomo und die Versammlung suchten ihn dort auf.",
+       "englisch_web": "Moreover the bronze altar that Bezalel the son of Uri, the son of Hur, had made was there before Yahweh’s tabernacle; and Solomon and the assembly were seeking counsel there."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Salomo ging dort hinauf zum Altar aus Bronze vor dem HERRN, der beim Zelt der Begegnung stand,\nund brachte darauf tausend Brandopfer dar.",
+       "englisch_web": "Solomon went up there to the bronze altar before Yahweh, which was at the Tent of Meeting, and offered one thousand burnt offerings on it."
+      }
+     ],
+     "erklaerung": "Salomo beginnt seine Herrschaft mit einem Gottesdienst. Er geht nicht allein, sondern mit dem ganzen Volk.\nGibeon lag etwa 10 Kilometer nordwestlich von Jerusalem. Dort stand noch die alte Stiftshütte aus der Wüstenzeit. Die Lade war schon in Jerusalem (1. Chronik 16,39).\nBezalel war der Kunsthandwerker, der den Altar in der Wüste gemacht hatte (2. Mose 31,1–5). Er stammte aus Juda (1. Chronik 2,20).\n„Suchten ihn dort auf“ kann auch heißen „suchten den HERRN dort“. Das Wort „suchen“ ist für die Chronik besonders wichtig."
+    },
+    {
+     "ueberschrift": "Gott erscheint Salomo",
+     "vers_von": 7,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "In dieser Nacht erschien Gott Salomo und sagte zu ihm:\n„Bitte, was ich dir geben soll.“",
+       "englisch_web": "That night, God appeared to Solomon and said to him, “Ask for what you want me to give you.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Salomo sagte zu Gott:\n„Du hast meinem Vater David große Güte erwiesen\nund hast mich an seiner Stelle zum König gemacht.",
+       "englisch_web": "Solomon said to God, “You have shown great loving kindness to David my father, and have made me king in his place."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Nun, HERR, Gott,\nlass dein Versprechen an meinen Vater David wahr werden.\nDenn du hast mich zum König über ein Volk gemacht,\ndas so zahlreich ist wie der Staub der Erde.",
+       "englisch_web": "Now, Yahweh God, let your promise to David my father be established; for you have made me king over a people like the dust of the earth in multitude."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Gib mir nun Weisheit und Erkenntnis,\ndamit ich vor diesem Volk ein- und ausgehen kann.\nDenn wer kann dieses dein großes Volk richten?“",
+       "englisch_web": "Now give me wisdom and knowledge, that I may go out and come in before this people; for who can judge this great people of yours?”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Gott sagte zu Salomo:\n„Weil das in deinem Herzen war\nund du nicht um Reichtum, Schätze und Ehre gebeten hast\nund nicht um das Leben derer, die dich hassen,\nund auch nicht um ein langes Leben,\nsondern um Weisheit und Erkenntnis für dich,\ndamit du mein Volk richten kannst, über das ich dich zum König gemacht habe,",
+       "englisch_web": "God said to Solomon, “Because this was in your heart, and you have not asked riches, wealth, honor, or the life of those who hate you, nor yet have you asked for long life; but have asked for wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "darum sind dir Weisheit und Erkenntnis gegeben.\nUnd ich will dir Reichtum, Schätze und Ehre geben,\nwie sie keiner der Könige vor dir gehabt hat\nund keiner nach dir haben wird.“",
+       "englisch_web": "therefore wisdom and knowledge is granted to you. I will give you riches, wealth, and honor, such as none of the kings have had who have been before you, and none after you will have.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Dann kam Salomo von der Opferhöhe in Gibeon,\nvom Zelt der Begegnung, nach Jerusalem.\nUnd er regierte über Israel.",
+       "englisch_web": "So Solomon came from the high place that was at Gibeon, from before the Tent of Meeting, to Jerusalem; and he reigned over Israel."
+      }
+     ],
+     "erklaerung": "Gott fragt: „Was soll ich dir geben?“ Salomo hätte alles wünschen können. Aber er bittet um Weisheit, um gut für sein Volk sorgen zu können. Er denkt nicht an sich, sondern an die Menschen, die ihm anvertraut sind.\n„Ein- und ausgehen“ heißt: das Volk gut führen und leiten.\nGott freut sich über diese Bitte und schenkt ihm noch mehr dazu. Jesus hat Ähnliches gesagt: „Sucht zuerst das Reich Gottes, dann wird euch das andere dazugegeben“ (Matthäus 6,33).\nDie Geschichte steht ausführlicher in 1. Könige 3. Dort folgt das berühmte Urteil Salomos über die zwei Frauen und das Kind."
+    },
+    {
+     "ueberschrift": "Salomos Reichtum",
+     "vers_von": 14,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Salomo sammelte Wagen und Reiter.\nEr hatte 1400 Wagen und 12 000 Reiter.\nEr brachte sie in die Wagenstädte und zum König nach Jerusalem.",
+       "englisch_web": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen that he placed in the chariot cities, and with the king at Jerusalem."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Der König machte Silber und Gold in Jerusalem so häufig wie Steine\nund Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.",
+       "englisch_web": "The king made silver and gold to be as common as stones in Jerusalem, and he made cedars to be as common as the sycamore trees that are in the lowland."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Pferde, die Salomo hatte, wurden aus Ägypten und aus Koë eingeführt.\nDie Händler des Königs kauften sie in Koë.",
+       "englisch_web": "The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Sie führten aus Ägypten einen Wagen für 600 Silberstücke ein und ein Pferd für 150.\nUnd sie führten sie auch an die Könige der Hetiter und die Könige von Syrien aus.",
+       "englisch_web": "They imported from Egypt then exported a chariot for six hundred pieces of silver and a horse for one hundred fifty. They also exported them to the Hittite kings and the Syrian kings."
+      }
+     ],
+     "erklaerung": "Gottes Versprechen erfüllt sich: Salomo wird reich und mächtig.\n„Koë“ ist wohl Kilikien, eine Gegend im Süden der heutigen Türkei. Dort züchtete man Pferde.\n„Silberstücke“ sind wohl Schekel. Ein Schekel sind etwa 11 Gramm Silber.\n„Syrien“ heißt im Hebräischen „Aram“.\nÄhnliche Verse stehen in 1. Könige 10,26–29.\nIn deutschen Bibeln hat dieses Kapitel noch einen Vers 18. Er entspricht hier Kapitel 2, Vers 1. Darum ist im nächsten Kapitel die Verszählung verschoben."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Salomo und König Huram von Tyrus",
+   "abschnitte": [
+    {
+     "ueberschrift": "Salomo plant den Bau",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Salomo beschloss, ein Haus für den Namen des HERRN zu bauen\nund ein Haus für sein Königtum.",
+       "englisch_web": "Now Solomon decided to build a house for Yahweh’s name, and a house for his kingdom."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Salomo zählte 70 000 Lastträger ab,\n80 000 Steinhauer im Gebirge\nund 3600 Aufseher über sie.",
+       "englisch_web": "Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them."
+      }
+     ],
+     "erklaerung": "Salomo baut zwei Häuser: den Tempel für Gott und einen Palast für sich.\nDie Zahlen der Arbeiter sind groß. Wer diese Menschen waren, sagt Vers 17: Fremde, die im Land lebten. Für sie war es schwere Zwangsarbeit.\nIn deutschen Bibeln ist Vers 1 hier Kapitel 1, Vers 18. Und alle folgenden Verse dieses Kapitels haben dort eine Nummer weniger: Vers 2 hier ist dort Vers 1, und so weiter bis Vers 18 hier, der dort Vers 17 ist."
+    },
+    {
+     "ueberschrift": "Salomos Brief an Huram",
+     "vers_von": 3,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Salomo schickte zu Huram, dem König von Tyrus, und ließ ihm sagen:\n„Wie du es mit meinem Vater David gemacht hast,\nals du ihm Zedern geschickt hast, damit er sich ein Haus bauen konnte, in dem er wohnte,\nso mach es auch mit mir.",
+       "englisch_web": "Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Schau, ich will ein Haus für den Namen des HERRN, meines Gottes, bauen,\num es ihm zu weihen,\num vor ihm wohlriechenden Weihrauch zu verbrennen,\nfür die ständigen Schaubrote\nund für die Brandopfer am Morgen und am Abend,\nan den Sabbaten, an den Neumonden und an den Festen des HERRN, unseres Gottes.\nDas ist eine ewige Ordnung für Israel.",
+       "englisch_web": "Behold, I am about to build a house for the name of Yahweh my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of Yahweh our God. This is an ordinance forever to Israel."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Das Haus, das ich baue, wird groß sein,\ndenn unser Gott ist größer als alle Götter.",
+       "englisch_web": "“The house which I am building will be great, for our God is greater than all gods."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Aber wer kann ihm ein Haus bauen?\nDenn der Himmel und der Himmel der Himmel können ihn nicht fassen.\nWer bin ich, dass ich ihm ein Haus baue?\nNur um vor ihm Weihrauch zu verbrennen.",
+       "englisch_web": "But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him?"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Nun schick mir einen Mann, der geschickt ist,\nmit Gold, Silber, Bronze und Eisen zu arbeiten\nund mit Purpur, Karmesin und blauem Purpur,\nund der gravieren kann,\ndamit er bei den geschickten Männern ist, die bei mir in Juda und in Jerusalem sind\nund die mein Vater David bereitgestellt hat.",
+       "englisch_web": "“Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Schick mir auch Zedernholz, Zypressenholz und Algummimholz vom Libanon.\nDenn ich weiß, dass deine Diener sich darauf verstehen, Holz auf dem Libanon zu fällen.\nSchau, meine Diener sollen mit deinen Dienern arbeiten,",
+       "englisch_web": "“Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "um mir Holz in Menge bereitzustellen.\nDenn das Haus, das ich bauen will, wird groß und wunderbar sein.",
+       "englisch_web": "even to prepare timber in abundance for me; for the house which I am about to build will be great and wonderful."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Schau, ich will deinen Dienern, den Holzfällern, geben:\netwa 4,4 Millionen Liter gestampften Weizen,\netwa 440 000 Liter Gerste,\netwa 440 000 Liter Wein\nund etwa 440 000 Liter Öl.“",
+       "englisch_web": "Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors of beaten wheat, twenty thousand baths of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”"
+      }
+     ],
+     "erklaerung": "Huram ist derselbe wie Hiram in den Königsbüchern. Er war König der Phönizier in Tyrus.\nSalomo erklärt einem ausländischen König, wozu der Tempel dient: für Gebet, Weihrauch, Opfer und Feste.\nVers 6 ist bemerkenswert: Salomo weiß, dass Gott viel zu groß ist für ein Haus. „Der Himmel der Himmel kann ihn nicht fassen.“ Der Tempel ist nicht Gottes Wohnung im engen Sinn, sondern ein Ort, an dem die Menschen Gott begegnen und ihn ehren können.\nPurpur und Karmesin waren teure Farben für Stoffe. Die Phönizier waren berühmt für ihren Purpur.\n„Algummimholz“ war ein kostbares Holz, vielleicht rotes Sandelholz.\nIn der Bibel steht „20 000 Kor Weizen“ und „20 000 Bat“ Gerste, Wein und Öl. Ein Kor sind etwa 220 Liter, ein Bat etwa 22 Liter. In 1. Könige 5,25 werden andere Mengen genannt."
+    },
+    {
+     "ueberschrift": "Hurams Antwort",
+     "vers_von": 11,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Da antwortete Huram, der König von Tyrus, in einem Brief, den er Salomo schickte:\n„Weil der HERR sein Volk liebt, hat er dich zum König über sie gemacht.“",
+       "englisch_web": "Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Weiter schrieb Huram:\n„Gelobt sei der HERR, der Gott Israels,\nder den Himmel und die Erde gemacht hat,\nder dem König David einen weisen Sohn gegeben hat,\nvoll Klugheit und Verstand,\nder ein Haus für den HERRN und ein Haus für sein Königtum bauen wird.",
+       "englisch_web": "Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh and a house for his kingdom."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Nun schicke ich dir einen geschickten Mann voll Verstand,\nHuram-Abi,",
+       "englisch_web": "Now I have sent a skillful man, endowed with understanding, Huram-abi,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "den Sohn einer Frau von den Töchtern Dans.\nSein Vater war ein Mann aus Tyrus.\nEr kann mit Gold, Silber, Bronze, Eisen, Stein und Holz arbeiten,\nmit Purpur, blauem Purpur, feinem Leinen und Karmesin,\nund er kann jede Art von Gravur machen\nund jeden Entwurf ausführen, den man ihm aufträgt,\nzusammen mit deinen geschickten Männern\nund den geschickten Männern meines Herrn David, deines Vaters.",
+       "englisch_web": "the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Nun schicke mein Herr seinen Dienern den Weizen, die Gerste, das Öl und den Wein,\nvon denen er gesprochen hat.",
+       "englisch_web": "“Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Und wir wollen Holz vom Libanon fällen, so viel du brauchst.\nWir bringen es dir als Flöße über das Meer nach Jafo.\nUnd du sollst es nach Jerusalem hinaufbringen.“",
+       "englisch_web": "and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.”"
+      }
+     ],
+     "erklaerung": "Ein heidnischer König lobt den Gott Israels als Schöpfer von Himmel und Erde. Die Chronik zeigt: Gottes Größe wird auch von anderen Völkern erkannt.\n„Weil der HERR sein Volk liebt“: Ein guter König ist ein Geschenk Gottes für das Volk.\nHuram-Abi ist ein Mann mit gemischter Herkunft: Seine Mutter war Israelitin aus dem Stamm Dan, sein Vater Phönizier. Gerade er wird der wichtigste Künstler beim Tempelbau. In 1. Könige 7,14 heißt es, seine Mutter war eine Witwe aus dem Stamm Naftali.\nJafo ist der heutige Stadtteil Jaffa in Tel Aviv. Von dort brachte man das Holz etwa 60 Kilometer bergauf nach Jerusalem."
+    },
+    {
+     "ueberschrift": "Die Fremden als Arbeiter",
+     "vers_von": 17,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Salomo zählte alle Fremden, die im Land Israel lebten,\nnach der Zählung, mit der sein Vater David sie gezählt hatte.\nMan fand 153 600.",
+       "englisch_web": "Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Von ihnen setzte er 70 000 als Lastträger ein,\n80 000 als Steinhauer im Gebirge\nund 3600 als Aufseher, die das Volk zur Arbeit antrieben.",
+       "englisch_web": "He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work."
+      }
+     ],
+     "erklaerung": "Die Fremden, also Menschen aus den früheren Völkern Kanaans, mussten beim Bau Zwangsarbeit leisten. Für sie war das ein hartes Schicksal. Die Bibel erzählt es ehrlich.\nGottes Gesetz verlangte eigentlich, Fremde gut zu behandeln: „Du sollst den Fremden lieben wie dich selbst“ (3. Mose 19,34). Der prächtige Tempel wurde auch auf der schweren Arbeit dieser Menschen gebaut. Das gehört zur Wahrheit dazu."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der Bau des Tempels beginnt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Ort und die Maße",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Dann fing Salomo an, das Haus des HERRN in Jerusalem zu bauen,\nauf dem Berg Morija,\nwo der HERR seinem Vater David erschienen war,\nan dem Ort, den David bestimmt hatte,\nauf der Tenne Ornans, des Jebusiters.",
+       "englisch_web": "Then Solomon began to build Yahweh’s house at Jerusalem on Mount Moriah, where Yahweh appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er begann zu bauen am zweiten Tag des zweiten Monats,\nim vierten Jahr seiner Herrschaft.",
+       "englisch_web": "He began to build in the second day of the second month, in the fourth year of his reign."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Das sind die Grundmaße, die Salomo für den Bau des Hauses Gottes festlegte:\nDie Länge war, nach dem alten Maß, etwa 27 Meter\nund die Breite etwa 9 Meter.",
+       "englisch_web": "Now these are the foundations which Solomon laid for the building of God’s house: the length by cubits after the first measure was sixty cubits, and the width twenty cubits."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Vorhalle vorne war so lang wie das Haus breit war, etwa 9 Meter,\nund die Höhe etwa 54 Meter.\nInnen überzog er sie mit reinem Gold.",
+       "englisch_web": "The porch that was in front, its length, across the width of the house, was twenty cubits, and the height one hundred twenty; and he overlaid it within with pure gold."
+      }
+     ],
+     "erklaerung": "Der Tempel wird genau dort gebaut, wo der Engel stehen blieb und David den Altar baute (1. Chronik 21).\nDer Berg Morija ist der Ort, an dem Abraham seinen Sohn Isaak opfern sollte und Gott ihn davon abhielt (1. Mose 22,2). Nur hier in 2. Chronik 3,1 wird der Tempelberg in der Bibel so genannt. Zwei große Geschichten der Bibel werden so verbunden: Abraham und Isaak, David und der Engel. Beides sind Geschichten, in denen Gott Leben bewahrt.\nDas war etwa im Jahr 966 vor Christus.\nIn der Bibel steht „60 Ellen lang und 20 Ellen breit“. Eine Elle sind etwa 45 Zentimeter. „Nach dem alten Maß“ heißt: nach der alten, längeren Elle.\nDie Höhe der Vorhalle, „120 Ellen“ (etwa 54 Meter), ist sehr hoch, viel höher als der Tempel selbst (30 Ellen, 1. Könige 6,2). Manche alte Handschriften haben hier „20 Ellen“. Vielleicht ist die größere Zahl ein Abschreibfehler."
+    },
+    {
+     "ueberschrift": "Gold und Edelsteine",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Den großen Raum täfelte er mit Zypressenholz\nund überzog es mit feinem Gold.\nEr verzierte ihn mit Palmen und Ketten.",
+       "englisch_web": "He made the larger room with a ceiling of cypress wood, which he overlaid with fine gold, and ornamented it with palm trees and chains."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er schmückte das Haus mit Edelsteinen, zur Pracht.\nDas Gold war Gold aus Parwajim.",
+       "englisch_web": "He decorated the house with precious stones for beauty. The gold was gold from Parvaim."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er überzog auch das Haus, die Balken, die Schwellen, seine Wände und seine Türen mit Gold\nund ließ Cherubim in die Wände schnitzen.",
+       "englisch_web": "He also overlaid the house, the beams, the thresholds, its walls, and its doors with gold, and engraved cherubim on the walls."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er machte das Allerheiligste.\nSeine Länge, entsprechend der Breite des Hauses, war etwa 9 Meter,\nund seine Breite war etwa 9 Meter.\nEr überzog es mit feinem Gold, etwa 20 Tonnen.",
+       "englisch_web": "He made the most holy place. Its length, according to the width of the house, was twenty cubits, and its width twenty cubits; and he overlaid it with fine gold, amounting to six hundred talents."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Das Gewicht der Nägel war etwa 550 Gramm Gold.\nAuch die Obergemächer überzog er mit Gold.",
+       "englisch_web": "The weight of the nails was fifty shekels of gold. He overlaid the upper rooms with gold."
+      }
+     ],
+     "erklaerung": "Der Tempel war prächtig, voller Gold und Schmuck. Für Gott sollte das Schönste und Beste gegeben werden.\nPalmen und Cherubim erinnern an den Garten Eden. Dort wachten Cherubim am Eingang zum Garten (1. Mose 3,24). Der Tempel war wie ein Bild für das Paradies, den Ort, an dem Gott und die Menschen zusammen sind.\nWo „Parwajim“ lag, weiß man nicht. Es war für sein Gold bekannt.\nDas Allerheiligste war ein Würfel: 20 Ellen lang, breit und hoch (vgl. 1. Könige 6,20). Eine Elle sind etwa 45 Zentimeter.\nIn der Bibel steht „600 Talente“ Gold (ein Talent sind etwa 34 Kilogramm) und „50 Schekel“ für die Nägel (ein Schekel sind etwa 11 Gramm)."
+    },
+    {
+     "ueberschrift": "Die Cherubim im Allerheiligsten",
+     "vers_von": 10,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Im Allerheiligsten machte er zwei Cherubim, geschnitzt,\nund man überzog sie mit Gold.",
+       "englisch_web": "In the most holy place he made two cherubim by carving, and they overlaid them with gold."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Die Flügel der Cherubim waren zusammen etwa 9 Meter lang:\nDer eine Flügel des einen war etwa 2,25 Meter lang und berührte die Wand des Hauses.\nDer andere Flügel war etwa 2,25 Meter lang und berührte den Flügel des anderen Cherubs.",
+       "englisch_web": "The wings of the cherubim were twenty cubits long: the wing of the one was five cubits, reaching to the wall of the house; and the other wing was five cubits, reaching to the wing of the other cherub."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Der eine Flügel des anderen Cherubs war etwa 2,25 Meter lang und berührte die Wand des Hauses.\nDer andere Flügel war etwa 2,25 Meter lang und stieß an den Flügel des ersten Cherubs.",
+       "englisch_web": "The wing of the other cherub was five cubits, reaching to the wall of the house; and the other wing was five cubits, joining to the wing of the other cherub."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Die Flügel dieser Cherubim breiteten sich etwa 9 Meter weit aus.\nSie standen auf ihren Füßen,\nund ihre Gesichter waren zum Haus gerichtet.",
+       "englisch_web": "The wings of these cherubim spread themselves out twenty cubits. They stood on their feet, and their faces were toward the house."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er machte den Vorhang aus blauem Purpur, rotem Purpur, Karmesin und feinem Leinen\nund verzierte ihn mit Cherubim.",
+       "englisch_web": "He made the veil of blue, purple, crimson, and fine linen, and ornamented it with cherubim."
+      }
+     ],
+     "erklaerung": "Zwei große Cherubim standen im Allerheiligsten. Ihre Flügel füllten den ganzen Raum von Wand zu Wand. Unter ihren Flügeln stand später die Bundeslade.\nCherubim sind Himmelswesen, die Gottes Thron bewachen. Man stellte sich vor, dass Gott unsichtbar über ihnen thront.\nIn der Bibel stehen „20 Ellen“ und „5 Ellen“. Eine Elle sind etwa 45 Zentimeter.\nDer Vorhang trennte das Allerheiligste vom übrigen Tempel. Nur der Hohepriester durfte einmal im Jahr hineingehen. Im Neuen Testament wird erzählt, dass beim Tod Jesu der Vorhang im Tempel zerriss (Markus 15,38). Christen sehen darin ein Zeichen, dass der Weg zu Gott jetzt für alle offen ist."
+    },
+    {
+     "ueberschrift": "Die beiden Säulen",
+     "vers_von": 15,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Vor dem Haus machte er zwei Säulen, etwa 15,75 Meter hoch.\nDas Kapitell oben auf jeder von ihnen war etwa 2,25 Meter hoch.",
+       "englisch_web": "Also he made before the house two pillars thirty-five cubits high, and the capital that was on the top of each of them was five cubits."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er machte Ketten im Inneren des Heiligtums\nund setzte sie oben auf die Säulen.\nUnd er machte hundert Granatäpfel und hängte sie an die Ketten.",
+       "englisch_web": "He made chains in the inner sanctuary, and put them on the tops of the pillars; and he made one hundred pomegranates, and put them on the chains."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er stellte die Säulen vor dem Tempel auf,\neine rechts und eine links.\nDie rechte nannte er Jachin,\nund die linke nannte er Boas.",
+       "englisch_web": "He set up the pillars before the temple, one on the right hand and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz."
+      }
+     ],
+     "erklaerung": "Die zwei großen Säulen aus Bronze standen frei vor dem Eingang.\n„Jachin“ heißt „Er (Gott) richtet auf“ oder „Er macht fest“. „Boas“ heißt „In ihm ist Stärke“. Zusammen sagen sie: Gott gibt Halt und Kraft.\nIn der Bibel steht „35 Ellen“ und „5 Ellen“. Eine Elle sind etwa 45 Zentimeter. In 1. Könige 7,15 sind die Säulen nur 18 Ellen hoch. Vielleicht sind hier beide Säulen zusammengerechnet.\n„Im Inneren des Heiligtums“: Im Hebräischen steht ein Wort, das man auch als „wie eine Halskette“ lesen kann. Gemeint ist wohl ein Kettengeflecht als Schmuck."
+    }
+   ]
+  }
+ ]
+}
