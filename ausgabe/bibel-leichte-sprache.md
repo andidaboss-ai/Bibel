@@ -52425,3 +52425,321 @@ Und die Söhne Davids waren die Ersten an der Seite des Königs.
 > Die Liste zeigt Davids wichtigste Beamte. Die „Kreter und Pleter“ waren Davids Leibwache, wohl ausländische Söldner.
 > In 2. Samuel 8,18 heißt es, Davids Söhne waren „Priester“. Die Chronik schreibt „die Ersten an der Seite des Königs“. Für die Chronik konnten nur Nachkommen Aarons Priester sein.
 > In 2. Samuel 8,17 heißen die Namen „Ahimelech“ statt „Abimelech“ und „Seraja“ statt „Schawscha“.
+
+## 1. Chronik – Kapitel 19
+#### Krieg mit den Ammonitern
+
+---
+
+### Eine Beleidigung (Vers 1–5)
+
+<sup>1</sup>Danach starb Nahasch, der König der Ammoniter,
+und sein Sohn wurde an seiner Stelle König.
+<sup>2</sup>David sagte:
+„Ich will Hanun, dem Sohn des Nahasch, Freundlichkeit erweisen,
+denn sein Vater hat mir Freundlichkeit erwiesen.“
+So schickte David Boten, um ihn wegen seines Vaters zu trösten.
+Die Diener Davids kamen in das Land der Ammoniter zu Hanun, um ihn zu trösten.
+<sup>3</sup>Aber die Fürsten der Ammoniter sagten zu Hanun:
+„Meinst du, dass David deinen Vater ehren will, weil er dir Tröster geschickt hat?
+Sind seine Diener nicht zu dir gekommen,
+um das Land auszuforschen, zu zerstören und auszuspionieren?“
+<sup>4</sup>Da nahm Hanun die Diener Davids,
+schor sie
+und schnitt ihre Kleider in der Mitte ab, bis zum Gesäß,
+und schickte sie weg.
+<sup>5</sup>Da gingen einige hin und erzählten David, was mit den Männern geschehen war.
+Er schickte ihnen Leute entgegen,
+denn die Männer waren sehr beschämt.
+Der König sagte:
+„Bleibt in Jericho, bis euch der Bart wieder gewachsen ist.
+Dann kommt zurück.“
+
+> **Was bedeutet das?**
+> David will freundlich sein und eine alte Freundschaft ehren. Aber die Berater des neuen Königs sind misstrauisch und machen aus der Freundlichkeit einen Verdacht.
+> Die Gesandten werden schwer gedemütigt. Den Bart abzuscheren und die Kleidung bis zum Gesäß abzuschneiden war damals eine große Schande.
+> David zeigt Mitgefühl mit seinen Männern. Er lässt sie warten, bis sie sich wieder zeigen können. Er schützt ihre Würde.
+> Die Geschichte steht auch in 2. Samuel 10.
+
+---
+
+### Ammon sucht Verbündete (Vers 6–9)
+
+<sup>6</sup>Als die Ammoniter sahen, dass sie sich bei David verhasst gemacht hatten,
+schickten Hanun und die Ammoniter etwa 34 Tonnen Silber,
+um sich Wagen und Reiter aus Mesopotamien, aus Aram-Maacha und aus Zoba zu mieten.
+<sup>7</sup>So mieteten sie sich 32 000 Wagen
+und den König von Maacha mit seinem Volk.
+Sie kamen und lagerten vor Medeba.
+Auch die Ammoniter versammelten sich aus ihren Städten und kamen zum Kampf.
+<sup>8</sup>Als David das hörte,
+schickte er Joab mit dem ganzen Heer der Helden.
+<sup>9</sup>Die Ammoniter zogen aus und stellten sich am Eingang der Stadt zum Kampf auf.
+Und die Könige, die gekommen waren, standen für sich auf dem Feld.
+
+> **Was bedeutet das?**
+> Statt sich zu entschuldigen, rüsten die Ammoniter zum Krieg. Sie bezahlen fremde Heere.
+> In der Bibel steht „1000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm.
+> Die Zahl von 32 000 Wagen ist sehr hoch. In 2. Samuel 10,6 steht stattdessen 33 000 Mann.
+> Medeba lag östlich des Toten Meeres. Mesopotamien heißt hier wörtlich „Aram der zwei Flüsse“, also das Gebiet am Oberlauf des Euphrat.
+
+---
+
+### Joab und Abischai (Vers 10–15)
+
+<sup>10</sup>Als Joab sah, dass der Kampf vorne und hinten gegen ihn war,
+wählte er einige von allen besten Männern Israels aus
+und stellte sie gegen die Syrer auf.
+<sup>11</sup>Den Rest des Volkes gab er in die Hand seines Bruders Abischai,
+und sie stellten sich gegen die Ammoniter auf.
+<sup>12</sup>Er sagte:
+„Wenn die Syrer stärker sind als ich, dann sollst du mir helfen.
+Aber wenn die Ammoniter stärker sind als du, dann will ich dir helfen.
+<sup>13</sup>Sei stark,
+und lasst uns stark sein für unser Volk und für die Städte unseres Gottes.
+Der HERR tue, was ihm gut erscheint.“
+<sup>14</sup>Da rückte Joab mit dem Volk, das bei ihm war, gegen die Syrer zum Kampf vor.
+Und sie flohen vor ihm.
+<sup>15</sup>Als die Ammoniter sahen, dass die Syrer geflohen waren,
+flohen auch sie vor seinem Bruder Abischai und gingen in die Stadt.
+Dann kam Joab nach Jerusalem.
+
+> **Was bedeutet das?**
+> Joab ist eingekesselt: vorne die Ammoniter, hinten die Syrer. Er teilt das Heer und verabredet mit seinem Bruder: Wir helfen uns gegenseitig.
+> Sein Satz ist ein Vorbild an Mut und Gottvertrauen: Wir tun, was wir können. Und dann: „Der HERR tue, was ihm gut erscheint.“ Man soll sein Bestes geben und das Ergebnis Gott überlassen.
+> „Syrer“ heißen im Hebräischen „Aramäer“.
+
+---
+
+### Der Sieg über die Syrer (Vers 16–19)
+
+<sup>16</sup>Als die Syrer sahen, dass sie von Israel geschlagen worden waren,
+schickten sie Boten
+und holten die Syrer, die jenseits des Stromes wohnten.
+Schofach, der Heerführer Hadad-Esers, führte sie an.
+<sup>17</sup>Das wurde David gemeldet.
+Da versammelte er ganz Israel, zog über den Jordan, kam zu ihnen
+und stellte sich gegen sie zum Kampf auf.
+Als David sich gegen die Syrer zum Kampf aufgestellt hatte, kämpften sie mit ihm.
+<sup>18</sup>Die Syrer flohen vor Israel.
+David tötete von den Syrern 7000 Wagenkämpfer und 40 000 Fußsoldaten.
+Auch Schofach, den Heerführer, tötete er.
+<sup>19</sup>Als die Diener Hadad-Esers sahen, dass sie von Israel geschlagen worden waren,
+schlossen sie Frieden mit David und dienten ihm.
+Und die Syrer wollten den Ammonitern nicht mehr helfen.
+
+> **Was bedeutet das?**
+> „Der Strom“ ist der Euphrat. Die Syrer holen Hilfe von dort.
+> Am Ende schließen sie Frieden mit David.
+> In 2. Samuel 10,18 steht: 700 Wagenkämpfer und 40 000 Reiter. Solche Unterschiede bei den Zahlen entstanden wohl beim Abschreiben über die Jahrhunderte. Der Heerführer heißt dort „Schobach“.
+
+## 1. Chronik – Kapitel 20
+#### Rabba und die Riesen aus Gat
+
+---
+
+### Die Eroberung Rabbas (Vers 1–3)
+
+<sup>1</sup>Als das Jahr wiederkehrte,
+zur Zeit, wenn die Könige in den Krieg ziehen,
+führte Joab das Heer aus.
+Er verwüstete das Land der Ammoniter,
+kam und belagerte Rabba.
+Aber David blieb in Jerusalem.
+Joab schlug Rabba und zerstörte es.
+<sup>2</sup>David nahm die Krone ihres Königs von seinem Kopf.
+Er fand, dass sie etwa 34 Kilogramm Gold wog,
+und es waren Edelsteine darin.
+Man setzte sie David auf den Kopf.
+Und er brachte sehr viel Beute aus der Stadt.
+<sup>3</sup>Das Volk, das darin war, führte er heraus
+und ließ es mit Sägen, eisernen Hacken und Äxten zerschneiden.
+So machte es David mit allen Städten der Ammoniter.
+Dann kehrten David und das ganze Volk nach Jerusalem zurück.
+
+> **Was bedeutet das?**
+> „Wenn die Könige in den Krieg ziehen“: im Frühling, nach der Regenzeit.
+> „Aber David blieb in Jerusalem.“ Wer 2. Samuel 11 kennt, weiß: Genau in dieser Zeit geschah die Sache mit Batseba und Uria. Die Chronik erzählt sie nicht. Sie will vor allem Davids Rolle als Begründer des Tempels zeigen. Aber diese Lücke zeigt: Die Chronik setzt voraus, dass die Leser die Geschichte kennen.
+> In der Bibel steht „ein Talent Gold“. Ein Talent sind etwa 34 Kilogramm. So schwer kann man eine Krone kaum tragen. Vielleicht wurde sie nur kurz aufgesetzt, oder es war die Krone des Götzenbildes Milkom (das hebräische Wort für „ihr König“ klingt sehr ähnlich).
+> Vers 3 ist sehr schwer. In 2. Samuel 12,31 steht im Hebräischen ein ähnliches Wort, das man auch so verstehen kann: Er ließ sie mit Sägen, Hacken und Äxten arbeiten, also Zwangsarbeit leisten. Hier steht im Hebräischen „er sägte“. Viele Fachleute meinen, dass hier ein Buchstabe vertauscht wurde und eigentlich „er setzte sie ein“ gemeint ist. Wenn es wörtlich gemeint ist, wäre es ein grausames Kriegsverbrechen. So etwas ist durch nichts zu rechtfertigen, auch nicht durch Davids Ansehen.
+
+---
+
+### Die Riesen aus Gat (Vers 4–8)
+
+<sup>4</sup>Danach kam es in Geser zum Krieg mit den Philistern.
+Da erschlug Sibbechai, der Huschatiter, Sippai, einen von den Nachkommen der Riesen.
+Und sie wurden gedemütigt.
+<sup>5</sup>Wieder gab es Krieg mit den Philistern.
+Und Elhanan, der Sohn Jaïrs, erschlug Lachmi, den Bruder Goliats, des Gatiters.
+Der Schaft seines Speeres war wie ein Weberbaum.
+<sup>6</sup>Wieder gab es Krieg in Gat.
+Dort war ein sehr großer Mann.
+Er hatte 24 Finger und Zehen, sechs an jeder Hand und sechs an jedem Fuß.
+Auch er stammte von den Riesen ab.
+<sup>7</sup>Er verhöhnte Israel.
+Da erschlug ihn Jonatan, der Sohn Schimeas, des Bruders Davids.
+<sup>8</sup>Diese stammten von den Riesen in Gat ab.
+Und sie fielen durch die Hand Davids und durch die Hand seiner Diener.
+
+> **Was bedeutet das?**
+> Die „Riesen“ (hebräisch „Rafa“) waren ein Geschlecht besonders großer Krieger bei den Philistern. Goliat, den David besiegt hatte, gehörte dazu (1. Samuel 17).
+> Vers 5 klärt eine schwierige Stelle: In 2. Samuel 21,19 steht im Hebräischen, dass Elhanan Goliat getötet habe. Die Chronik sagt: Er tötete Lachmi, den Bruder Goliats. So kommt es nicht zum Widerspruch mit der Geschichte von David und Goliat.
+> Sechs Finger und Zehen: Das kommt auch heute bei manchen Menschen vor (Polydaktylie). Es ist eine angeborene Besonderheit, keine Krankheit und kein Makel.
+> Die Liste steht auch in 2. Samuel 21,18–22. Dort wird noch ein vierter Riese genannt, Jischbi-Benob.
+
+## 1. Chronik – Kapitel 21
+#### Davids Volkszählung und der Altar auf der Tenne
+
+---
+
+### Die Volkszählung (Vers 1–7)
+
+<sup>1</sup>Der Satan trat gegen Israel auf
+und verleitete David, Israel zu zählen.
+<sup>2</sup>David sagte zu Joab und zu den Fürsten des Volkes:
+„Geht, zählt Israel von Beerscheba bis Dan
+und bringt mir Bericht, damit ich weiß, wie viele es sind.“
+<sup>3</sup>Joab sagte:
+„Der HERR möge sein Volk hundertmal so zahlreich machen, wie es ist!
+Aber, mein Herr König, sind sie nicht alle Diener meines Herrn?
+Warum verlangt mein Herr so etwas?
+Warum soll das für Israel zur Schuld werden?“
+<sup>4</sup>Aber das Wort des Königs setzte sich gegen Joab durch.
+Da ging Joab weg,
+zog durch ganz Israel
+und kam nach Jerusalem zurück.
+<sup>5</sup>Joab gab David die Zahl der Volkszählung.
+In ganz Israel waren 1 100 000 Männer, die das Schwert zogen,
+und in Juda 470 000 Männer, die das Schwert zogen.
+<sup>6</sup>Aber Levi und Benjamin zählte er nicht mit,
+denn das Wort des Königs war Joab ein Gräuel.
+<sup>7</sup>Gott missfiel diese Sache.
+Darum schlug er Israel.
+
+> **Was bedeutet das?**
+> David will wissen, wie viele Krieger er hat. Das klingt harmlos, aber es zeigt: Er vertraut auf die Zahl seiner Soldaten, nicht auf Gott. Er behandelt das Volk, als gehöre es ihm, nicht Gott.
+> Sogar Joab, der sonst nicht zimperlich ist, warnt David.
+> Hier steht „der Satan“. Das hebräische Wort heißt „Widersacher“ oder „Ankläger“. In 2. Samuel 24,1 steht an dieser Stelle: „Der Zorn des HERRN entbrannte gegen Israel, und er reizte David.“ Die Chronik, die später geschrieben wurde, sagt es anders: Nicht Gott selbst, sondern der Satan hat David verführt. Beide Texte sagen: Hinter der Versuchung steht eine Macht, die größer ist als David. Und beide sagen: David ist trotzdem selbst verantwortlich.
+> Die Zahlen unterscheiden sich von 2. Samuel 24,9 (dort 800 000 und 500 000).
+> Levi wurde nicht gezählt, weil die Leviten keinen Kriegsdienst taten (4. Mose 1,47–49).
+
+---
+
+### David bereut (Vers 8–13)
+
+<sup>8</sup>David sagte zu Gott:
+„Ich habe schwer gesündigt, weil ich das getan habe.
+Aber jetzt nimm doch die Schuld deines Knechtes weg,
+denn ich habe sehr töricht gehandelt.“
+<sup>9</sup>Der HERR redete zu Gad, dem Seher Davids:
+<sup>10</sup>„Geh und sag zu David:
+‚So spricht der HERR:
+Drei Dinge lege ich dir vor.
+Wähle dir eins davon, das ich dir antun soll.‘“
+<sup>11</sup>So kam Gad zu David und sagte zu ihm:
+„So spricht der HERR:
+‚Wähle dir:
+<sup>12</sup>entweder drei Jahre Hungersnot,
+oder drei Monate, in denen du vor deinen Feinden weggerafft wirst
+und das Schwert deiner Feinde dich einholt,
+oder drei Tage das Schwert des HERRN,
+die Pest im Land,
+und der Engel des HERRN verdirbt im ganzen Gebiet Israels.‘
+Und jetzt überleg, was ich dem antworten soll, der mich geschickt hat.“
+<sup>13</sup>David sagte zu Gad:
+„Mir ist sehr angst.
+Lass mich doch in die Hand des HERRN fallen,
+denn seine Barmherzigkeit ist sehr groß.
+Aber lass mich nicht in die Hand von Menschen fallen.“
+
+> **Was bedeutet das?**
+> David erkennt seinen Fehler und bekennt ihn ehrlich: „Ich habe schwer gesündigt.“
+> Er muss zwischen drei schlimmen Folgen wählen. Er wählt die, bei der er ganz in Gottes Hand ist. Sein Grund: „Gottes Barmherzigkeit ist sehr groß.“ Er vertraut darauf, dass Gott gnädiger ist als Menschen.
+> In 2. Samuel 24,13 steht „sieben Jahre“ Hungersnot statt drei.
+> Gad war ein Prophet, der David begleitete.
+
+---
+
+### Die Pest und der Engel über Jerusalem (Vers 14–17)
+
+<sup>14</sup>Da schickte der HERR eine Pest über Israel.
+Und es fielen 70 000 Männer in Israel.
+<sup>15</sup>Gott schickte einen Engel nach Jerusalem, um es zu verderben.
+Als er gerade verderben wollte, sah es der HERR,
+und es reute ihn das Unheil.
+Er sagte zu dem Engel, der verdarb:
+„Es ist genug! Zieh deine Hand jetzt zurück.“
+Der Engel des HERRN stand bei der Tenne Ornans, des Jebusiters.
+<sup>16</sup>David hob seine Augen auf
+und sah den Engel des HERRN zwischen Erde und Himmel stehen,
+ein gezogenes Schwert in seiner Hand, ausgestreckt über Jerusalem.
+Da fielen David und die Ältesten, in Säcke gehüllt, auf ihr Gesicht.
+<sup>17</sup>David sagte zu Gott:
+„Bin nicht ich es, der befohlen hat, das Volk zu zählen?
+Ich bin es doch, der gesündigt und sehr Böses getan hat.
+Aber diese Schafe, was haben sie getan?
+HERR, mein Gott, deine Hand soll doch gegen mich und gegen das Haus meines Vaters sein,
+aber nicht gegen dein Volk, damit es geplagt wird.“
+
+> **Was bedeutet das?**
+> Das ist eine sehr schwere Geschichte. Viele Menschen sterben wegen der Schuld ihres Königs. Das erscheint uns ungerecht. Die Bibel verschweigt diese Frage nicht. David selbst stellt sie: „Diese Schafe, was haben sie getan?“
+> David ist bereit, die Strafe selbst zu tragen. Er will, dass Gott ihn trifft und nicht das Volk. Ein König soll sich vor sein Volk stellen, wie ein Hirte vor seine Schafe.
+> Gott hat Erbarmen: „Es ist genug!“ Er hält den Engel auf, bevor Jerusalem zerstört wird. Gottes Barmherzigkeit ist größer als sein Zorn, wie David gehofft hatte.
+> Christen sehen hier ein Bild für Jesus: Er hat als der „gute Hirte“ die Schuld anderer auf sich genommen (Johannes 10,11).
+> „Ornan“ heißt in 2. Samuel 24,16 „Arauna“.
+
+---
+
+### Der Altar auf der Tenne (Vers 18–30)
+
+<sup>18</sup>Da befahl der Engel des HERRN Gad, David zu sagen,
+David solle hinaufgehen
+und auf der Tenne Ornans, des Jebusiters, einen Altar für den HERRN errichten.
+<sup>19</sup>David ging hinauf, nach dem Wort Gads,
+das er im Namen des HERRN gesagt hatte.
+<sup>20</sup>Ornan drehte sich um und sah den Engel.
+Und seine vier Söhne, die bei ihm waren, versteckten sich.
+Ornan drosch gerade Weizen.
+<sup>21</sup>Als David zu Ornan kam,
+schaute Ornan hin und sah David.
+Er ging aus der Tenne hinaus
+und verneigte sich vor David mit dem Gesicht zur Erde.
+<sup>22</sup>Da sagte David zu Ornan:
+„Verkauf mir den Platz dieser Tenne,
+damit ich darauf einen Altar für den HERRN baue.
+Verkauf ihn mir für den vollen Preis,
+damit die Plage vom Volk weggenommen wird.“
+<sup>23</sup>Ornan sagte zu David:
+„Nimm ihn dir,
+und mein Herr, der König, tue, was in seinen Augen gut ist.
+Schau, ich gebe die Rinder für die Brandopfer,
+die Dreschschlitten als Holz
+und den Weizen für das Speiseopfer.
+Alles gebe ich.“
+<sup>24</sup>Der König David sagte zu Ornan:
+„Nein, ich will es ganz sicher für den vollen Preis kaufen.
+Denn ich will nicht für den HERRN nehmen, was dir gehört,
+und kein Brandopfer darbringen, das mich nichts kostet.“
+<sup>25</sup>So gab David Ornan für den Platz etwa 6,6 Kilogramm Gold, abgewogen.
+<sup>26</sup>David baute dort einen Altar für den HERRN
+und brachte Brandopfer und Friedensopfer dar.
+Er rief den HERRN an,
+und er antwortete ihm vom Himmel mit Feuer auf dem Brandopferaltar.
+<sup>27</sup>Dann gab der HERR dem Engel den Befehl,
+und er steckte sein Schwert wieder in die Scheide.
+<sup>28</sup>Zu dieser Zeit,
+als David sah, dass der HERR ihm auf der Tenne Ornans, des Jebusiters, geantwortet hatte,
+opferte er dort.
+<sup>29</sup>Denn die Wohnung des HERRN, die Mose in der Wüste gemacht hatte,
+und der Brandopferaltar waren zu dieser Zeit auf der Opferhöhe in Gibeon.
+<sup>30</sup>Aber David konnte nicht vor ihn gehen, um Gott zu befragen,
+denn er hatte Angst vor dem Schwert des Engels des HERRN.
+
+> **Was bedeutet das?**
+> Der Ort, an dem der Engel stehen bleibt, wird zum Ort der Versöhnung. Dort baut David einen Altar.
+> Ornan will David alles schenken. Aber David sagt einen berühmten Satz: „Ich will kein Opfer darbringen, das mich nichts kostet.“ Echte Hingabe an Gott kostet etwas.
+> In der Bibel steht „600 Schekel Gold“. Ein Schekel sind etwa 11 Gramm. In 2. Samuel 24,24 steht „50 Schekel Silber“. Vielleicht galten die 50 Schekel nur für die Tenne und die Rinder, die 600 Schekel für den ganzen Platz.
+> Gott antwortet mit Feuer vom Himmel, wie bei Elija auf dem Karmel. Das zeigt: Gott nimmt das Opfer an.
+> Das Wichtigste: Auf diesem Platz wird später der Tempel gebaut (Kapitel 22,1; 2. Chronik 3,1). In 2. Chronik 3,1 wird der Ort „Berg Morija“ genannt, wie der Berg, auf dem Abraham Isaak opfern sollte (1. Mose 22,2). Ein Ort der Schuld wird zum Ort der Gnade.
+> Bis heute ist dieser Platz in Jerusalem, der Tempelberg, für Juden, Christen und Muslime heilig.
