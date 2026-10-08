@@ -48711,3 +48711,449 @@ und erzählten ihm die Worte des Rabschake.
 > Das Volk schweigt, wie der König befohlen hat. Manchmal ist Schweigen die stärkste Antwort auf Hohn.
 > Hamat und Arpad waren Städte in Syrien, die die Assyrer erobert hatten.
 > Die Geschichte wird auch im Buch Jesaja erzählt (Jesaja 36–37), fast mit denselben Worten.
+
+## 2. Könige – Kapitel 19
+#### Hiskija betet, und Gott rettet Jerusalem
+
+---
+
+### Hiskija schickt zu Jesaja (Vers 1–7)
+
+<sup>1</sup>Als der König Hiskija das hörte,
+zerriss er seine Kleider,
+hüllte sich in einen Sack
+und ging in das Haus des HERRN.
+<sup>2</sup>Er schickte Eljakim, der über den Palast gesetzt war,
+Schebna, den Schreiber,
+und die Ältesten der Priester, in Säcke gehüllt,
+zum Propheten Jesaja, dem Sohn des Amoz.
+<sup>3</sup>Sie sagten zu ihm:
+„So spricht Hiskija:
+‚Heute ist ein Tag der Not, der Strafe und der Schande.
+Denn die Kinder sind bis an den Muttermund gekommen,
+aber es ist keine Kraft da, sie zu gebären.
+<sup>4</sup>Vielleicht hört der HERR, dein Gott, alle Worte des Rabschake,
+den sein Herr, der König von Assyrien, geschickt hat,
+um den lebendigen Gott zu verhöhnen.
+Vielleicht straft er die Worte, die der HERR, dein Gott, gehört hat.
+Darum bete für den Rest, der noch übrig ist.‘“
+<sup>5</sup>So kamen die Diener des Königs Hiskija zu Jesaja.
+<sup>6</sup>Jesaja sagte zu ihnen:
+„Sagt zu eurem Herrn:
+‚So spricht der HERR:
+Fürchte dich nicht vor den Worten, die du gehört hast,
+mit denen die Diener des Königs von Assyrien mich gelästert haben.
+<sup>7</sup>Schau, ich lege einen Geist in ihn,
+und er wird eine Nachricht hören
+und in sein eigenes Land zurückkehren.
+Und ich lasse ihn in seinem eigenen Land durch das Schwert fallen.‘“
+
+> **Was bedeutet das?**
+> Hiskija reagiert ganz anders als sein Vater Ahas: Er geht in den Tempel und sucht Gott. Er schickt nach dem Propheten Jesaja.
+> Das Bild von der Geburt ist eindrücklich: Das Kind ist bereit, geboren zu werden, aber die Mutter hat keine Kraft mehr. Jerusalem ist in einer ausweglosen Lage.
+> Hiskija sagt: Der Rabschake hat nicht nur uns verhöhnt, sondern den „lebendigen Gott“. Die Götter der anderen Völker waren tote Bilder. Der Gott Israels lebt.
+> Jesajas Antwort beginnt mit den Worten: „Fürchte dich nicht.“
+
+---
+
+### Ein Drohbrief (Vers 8–13)
+
+<sup>8</sup>Der Rabschake kehrte zurück
+und fand den König von Assyrien im Kampf gegen Libna.
+Denn er hatte gehört, dass er von Lachisch abgezogen war.
+<sup>9</sup>Da hörte der König über Tirhaka, den König von Äthiopien:
+„Schau, er ist ausgezogen, um gegen dich zu kämpfen.“
+Da schickte er noch einmal Boten zu Hiskija und ließ ihm sagen:
+<sup>10</sup>„So sollt ihr zu Hiskija, dem König von Juda, sagen:
+‚Lass dich nicht von deinem Gott täuschen, auf den du vertraust,
+wenn er sagt:
+„Jerusalem wird nicht in die Hand des Königs von Assyrien gegeben werden.“
+<sup>11</sup>Schau, du hast gehört, was die Könige von Assyrien allen Ländern angetan haben,
+wie sie sie völlig vernichtet haben.
+Und du willst gerettet werden?
+<sup>12</sup>Haben die Götter der Völker sie gerettet, die meine Väter vernichtet haben:
+Gosan, Haran, Rezef und die Leute von Eden, die in Telassar waren?
+<sup>13</sup>Wo ist der König von Hamat, der König von Arpad
+und der König der Stadt Sefarwajim, von Hena und Iwa?‘“
+
+> **Was bedeutet das?**
+> Ein ägyptisches Heer kommt Juda zu Hilfe. Tirhaka (ägyptisch Taharqa) war ein Pharao aus Kusch, dem Land südlich von Ägypten im heutigen Sudan. „Äthiopien“ ist hier der alte Name für dieses Land.
+> Sanherib muss sich darum kümmern. Aber er schickt noch einen Brief nach Jerusalem: Bilde dir nicht ein, dass dein Gott dich retten kann!
+> Die genannten Orte waren Städte und Reiche, die die Assyrer erobert hatten.
+
+---
+
+### Hiskijas Gebet (Vers 14–19)
+
+<sup>14</sup>Hiskija nahm den Brief aus der Hand der Boten und las ihn.
+Dann ging Hiskija hinauf in das Haus des HERRN
+und breitete ihn vor dem HERRN aus.
+<sup>15</sup>Hiskija betete vor dem HERRN und sagte:
+„HERR, Gott Israels,
+der du über den Cherubim thronst,
+du allein bist Gott über alle Königreiche der Erde.
+Du hast den Himmel und die Erde gemacht.
+<sup>16</sup>Neige, HERR, dein Ohr und höre!
+Öffne, HERR, deine Augen und sieh!
+Höre die Worte Sanheribs,
+die er geschickt hat, um den lebendigen Gott zu verhöhnen.
+<sup>17</sup>Es ist wahr, HERR:
+Die Könige von Assyrien haben die Völker und ihre Länder verwüstet.
+<sup>18</sup>Sie haben ihre Götter ins Feuer geworfen.
+Denn das waren keine Götter,
+sondern Werke von Menschenhänden, Holz und Stein.
+Darum konnten sie sie vernichten.
+<sup>19</sup>Und jetzt, HERR, unser Gott,
+rette uns doch aus seiner Hand,
+damit alle Königreiche der Erde erkennen,
+dass du, HERR, allein Gott bist.“
+
+> **Was bedeutet das?**
+> Das ist ein wunderbares Vorbild für das Gebet in der Not. Hiskija nimmt den Drohbrief und breitet ihn vor Gott aus. Er legt sein Problem ganz praktisch in Gottes Hände.
+> Er beginnt nicht mit seiner Angst, sondern mit Gottes Größe: Du allein bist Gott. Du hast Himmel und Erde gemacht.
+> Er ist ehrlich: Ja, die Assyrer sind stark, sie haben viele Völker besiegt. Aber deren Götter waren nur Holz und Stein.
+> Und er betet nicht nur für sich selbst, sondern für Gottes Ehre: „damit alle Königreiche der Erde erkennen, dass du allein Gott bist.“
+> „Der du über den Cherubim thronst“: Gemeint sind die Cherubim über der Bundeslade im Allerheiligsten.
+
+---
+
+### Gottes Antwort durch Jesaja (Vers 20–34)
+
+<sup>20</sup>Da schickte Jesaja, der Sohn des Amoz, zu Hiskija und ließ ihm sagen:
+„So spricht der HERR, der Gott Israels:
+‚Was du wegen Sanherib, dem König von Assyrien, zu mir gebetet hast, das habe ich gehört.‘
+<sup>21</sup>Das ist das Wort, das der HERR über ihn gesagt hat:
+‚Die Jungfrau, die Tochter Zion, verachtet dich und verspottet dich.
+Die Tochter Jerusalem schüttelt hinter dir den Kopf.
+<sup>22</sup>Wen hast du verhöhnt und gelästert?
+Gegen wen hast du deine Stimme erhoben
+und deine Augen hochmütig erhoben?
+Gegen den Heiligen Israels!
+<sup>23</sup>Durch deine Boten hast du den Herrn verhöhnt und gesagt:
+„Mit der Menge meiner Wagen
+bin ich auf die Höhen der Berge gestiegen,
+in das Innerste des Libanon.
+Ich will seine hohen Zedern und seine auserlesenen Zypressen fällen.
+Ich will in seine entfernteste Herberge eindringen,
+in den Wald seines Fruchtgartens.
+<sup>24</sup>Ich habe Brunnen gegraben und fremdes Wasser getrunken.
+Und mit meinen Fußsohlen will ich alle Ströme Ägyptens austrocknen.“
+<sup>25</sup>Hast du nicht gehört, dass ich es längst so gemacht habe,
+dass ich es seit alten Zeiten geplant habe?
+Jetzt habe ich es geschehen lassen,
+dass du befestigte Städte zu öden Steinhaufen machen konntest.
+<sup>26</sup>Darum hatten ihre Bewohner wenig Kraft.
+Sie waren erschrocken und beschämt.
+Sie waren wie das Gras auf dem Feld und wie das grüne Kraut,
+wie das Gras auf den Dächern
+und wie Getreide, das verdorrt, bevor es hochgewachsen ist.
+<sup>27</sup>Aber ich kenne dein Sitzen, dein Hinausgehen und dein Hereinkommen
+und dein Toben gegen mich.
+<sup>28</sup>Weil du gegen mich tobst
+und weil dein Hochmut mir zu Ohren gekommen ist,
+darum lege ich meinen Haken in deine Nase
+und meinen Zaum in deine Lippen
+und führe dich auf dem Weg zurück, auf dem du gekommen bist.‘
+<sup>29</sup>Und das soll dir ein Zeichen sein:
+In diesem Jahr werdet ihr essen, was von selbst wächst,
+und im zweiten Jahr, was daraus aufwächst.
+Aber im dritten Jahr sollt ihr säen und ernten,
+Weinberge pflanzen und ihre Früchte essen.
+<sup>30</sup>Und der Rest des Hauses Juda, der entkommen ist,
+wird wieder nach unten Wurzeln schlagen
+und nach oben Frucht tragen.
+<sup>31</sup>Denn von Jerusalem wird ein Rest ausgehen,
+und vom Berg Zion die, die entkommen sind.
+Der Eifer des HERRN wird das tun.
+<sup>32</sup>Darum spricht der HERR über den König von Assyrien:
+‚Er wird nicht in diese Stadt kommen
+und keinen Pfeil hineinschießen.
+Er wird ihr nicht mit einem Schild entgegentreten
+und keinen Wall gegen sie aufschütten.
+<sup>33</sup>Auf dem Weg, auf dem er gekommen ist, wird er zurückkehren,
+und in diese Stadt wird er nicht kommen‘,
+spricht der HERR.
+<sup>34</sup>‚Denn ich will diese Stadt beschützen, um sie zu retten,
+um meinetwillen und um meines Knechtes David willen.‘“
+
+> **Was bedeutet das?**
+> Gott antwortet in einem Gedicht. Jerusalem wird als junge Frau dargestellt, die über den mächtigen König lacht und hinter ihm den Kopf schüttelt.
+> Sanherib prahlt mit seinen Taten. Aber Gott sagt: Ohne mich hättest du gar nichts tun können. Ich lenke die Geschichte. Du bist nur ein Werkzeug.
+> „Haken in der Nase und Zaum in den Lippen“: So führten die Assyrer selbst ihre Gefangenen ab. Jetzt soll es ihm selbst so gehen, wie einem Tier, das man wegführt.
+> Das Zeichen: Wegen des Krieges können die Felder zwei Jahre lang nicht richtig bestellt werden. Aber im dritten Jahr wird wieder normal gesät und geerntet. Das Leben geht weiter.
+> Der „Rest“ ist ein wichtiger Gedanke bei Jesaja: Auch wenn vieles zerstört wird, bleibt ein Rest übrig, aus dem Neues wachsen kann, wie ein Baum, der wieder Wurzeln schlägt.
+
+---
+
+### Die Rettung (Vers 35–37)
+
+<sup>35</sup>In dieser Nacht ging der Engel des HERRN aus
+und schlug im Lager der Assyrer 185 000 Mann.
+Als man am Morgen früh aufstand,
+schau, da waren sie alle tot, lauter Leichen.
+<sup>36</sup>Da brach Sanherib, der König von Assyrien, auf,
+zog ab, kehrte zurück
+und blieb in Ninive.
+<sup>37</sup>Als er im Haus seines Gottes Nisroch anbetete,
+erschlugen ihn Adrammelech und Sarezer mit dem Schwert.
+Sie flohen in das Land Ararat.
+Und sein Sohn Asarhaddon wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jerusalem wird gerettet, ohne dass ein einziger Pfeil geschossen wird. Gott selbst greift ein.
+> Was genau geschehen ist, ist unbekannt. Viele denken an eine Seuche, die im Lager ausbrach. Der griechische Geschichtsschreiber Herodot erzählt eine ähnliche Geschichte: Mäuse hätten in einer Nacht das Heer Sanheribs heimgesucht. Mäuse können Krankheiten übertragen.
+> Bemerkenswert: In seinen eigenen Inschriften sagt Sanherib nicht, dass er Jerusalem erobert hat. Er sagt nur, dass er Hiskija „wie einen Vogel im Käfig“ eingeschlossen habe. Ein assyrischer König hätte eine Eroberung bestimmt erwähnt.
+> Die Zahl 185 000 ist sehr groß. Wie bei anderen Zahlen in alten Kriegsberichten ist es schwer zu sagen, wie sie gemeint ist.
+> Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von einem oder mehreren seiner Söhne ermordet. Das berichten auch babylonische Quellen. Sein Sohn Asarhaddon wurde König.
+> Ararat ist das Gebiet des heutigen Armenien.
+> Der Gott Nisroch ist sonst nicht bekannt.
+
+## 2. Könige – Kapitel 20
+#### Hiskijas Krankheit und die Gesandten aus Babylon
+
+---
+
+### Hiskija wird todkrank und betet (Vers 1–7)
+
+<sup>1</sup>In diesen Tagen wurde Hiskija todkrank.
+Der Prophet Jesaja, der Sohn des Amoz, kam zu ihm und sagte zu ihm:
+„So spricht der HERR:
+‚Bestell dein Haus, denn du wirst sterben und nicht am Leben bleiben.‘“
+<sup>2</sup>Da drehte er sein Gesicht zur Wand
+und betete zum HERRN:
+<sup>3</sup>„Ach, HERR, denk doch daran,
+wie ich vor dir in Treue und mit ungeteiltem Herzen gelebt habe
+und getan habe, was in deinen Augen gut ist.“
+Und Hiskija weinte bitterlich.
+<sup>4</sup>Jesaja war noch nicht in den mittleren Teil der Stadt hinausgegangen,
+da kam das Wort des HERRN zu ihm:
+<sup>5</sup>„Kehr um und sag zu Hiskija, dem Fürsten meines Volkes:
+‚So spricht der HERR, der Gott deines Vaters David:
+Ich habe dein Gebet gehört.
+Ich habe deine Tränen gesehen.
+Schau, ich will dich heilen.
+Am dritten Tag wirst du in das Haus des HERRN hinaufgehen.
+<sup>6</sup>Ich will zu deinen Tagen noch 15 Jahre hinzufügen.
+Ich will dich und diese Stadt aus der Hand des Königs von Assyrien retten.
+Ich will diese Stadt beschützen, um meinetwillen und um meines Knechtes David willen.‘“
+<sup>7</sup>Jesaja sagte:
+„Holt einen Feigenkuchen.“
+Sie holten ihn und legten ihn auf das Geschwür,
+und er wurde gesund.
+
+> **Was bedeutet das?**
+> Hiskija bekommt eine schlimme Nachricht: Du wirst sterben. Er dreht sich zur Wand, um allein mit Gott zu sein, und weint.
+> Gott antwortet sofort, noch bevor Jesaja weit gekommen ist: „Ich habe dein Gebet gehört. Ich habe deine Tränen gesehen.“ Gott sieht unsere Tränen. Gebet kann etwas verändern.
+> Der Feigenkuchen war ein damals bekanntes Heilmittel für Geschwüre. Gott heilt hier durch ein Wunder und gleichzeitig durch ein normales Heilmittel. Glaube und Medizin sind keine Gegensätze.
+> Statt „mittlerer Teil der Stadt“ haben viele hebräische Handschriften „mittlerer Hof“. Dann war Jesaja noch im Palast.
+> Ein Gebet Hiskijas nach seiner Heilung steht in Jesaja 38,9–20.
+
+---
+
+### Der Schatten geht zurück (Vers 8–11)
+
+<sup>8</sup>Hiskija sagte zu Jesaja:
+„Was ist das Zeichen dafür, dass der HERR mich heilen wird
+und dass ich am dritten Tag in das Haus des HERRN hinaufgehen werde?“
+<sup>9</sup>Jesaja sagte:
+„Das soll dir das Zeichen vom HERRN sein,
+dass der HERR tun wird, was er gesagt hat:
+Soll der Schatten zehn Stufen vorwärts gehen
+oder zehn Stufen zurückgehen?“
+<sup>10</sup>Hiskija antwortete:
+„Es ist leicht für den Schatten, zehn Stufen vorwärts zu gehen.
+Nein, der Schatten soll zehn Stufen zurückgehen.“
+<sup>11</sup>Da rief der Prophet Jesaja zum HERRN.
+Und er ließ den Schatten zehn Stufen zurückgehen,
+auf den Stufen, die er an der Sonnenuhr des Ahas schon hinabgegangen war.
+
+> **Was bedeutet das?**
+> Die „Sonnenuhr des Ahas“ war wohl eine Treppe, auf der der Schatten im Lauf des Tages Stufe für Stufe weiterwanderte. So konnte man die Zeit ablesen.
+> Dass der Schatten zurückgeht, ist ein Zeichen: Gott kann sogar die Zeit zurückdrehen. Er schenkt Hiskija Lebenszeit.
+> Wie das genau geschehen ist, sagt die Bibel nicht.
+
+---
+
+### Die Gesandten aus Babylon (Vers 12–19)
+
+<sup>12</sup>Zu dieser Zeit schickte Berodach-Baladan, der Sohn Baladans, der König von Babel,
+Briefe und ein Geschenk an Hiskija.
+Denn er hatte gehört, dass Hiskija krank gewesen war.
+<sup>13</sup>Hiskija hörte auf sie
+und zeigte ihnen sein ganzes Schatzhaus:
+das Silber, das Gold, die Gewürze und das kostbare Öl,
+sein Waffenhaus
+und alles, was sich in seinen Schatzkammern fand.
+Es gab nichts in seinem Haus und in seinem ganzen Herrschaftsbereich,
+was Hiskija ihnen nicht zeigte.
+<sup>14</sup>Da kam der Prophet Jesaja zum König Hiskija und sagte zu ihm:
+„Was haben diese Männer gesagt?
+Woher sind sie zu dir gekommen?“
+Hiskija sagte:
+„Sie sind aus einem fernen Land gekommen, aus Babel.“
+<sup>15</sup>Er fragte:
+„Was haben sie in deinem Haus gesehen?“
+Hiskija antwortete:
+„Sie haben alles gesehen, was in meinem Haus ist.
+Es gibt nichts unter meinen Schätzen, was ich ihnen nicht gezeigt habe.“
+<sup>16</sup>Da sagte Jesaja zu Hiskija:
+„Höre das Wort des HERRN:
+<sup>17</sup>‚Schau, es kommen Tage,
+da wird alles, was in deinem Haus ist,
+und was deine Väter bis zum heutigen Tag gesammelt haben,
+nach Babel weggebracht werden.
+Nichts wird übrig bleiben‘,
+spricht der HERR.
+<sup>18</sup>‚Und von deinen Söhnen, die von dir abstammen werden, die du zeugen wirst,
+wird man einige wegnehmen,
+und sie werden Hofbeamte im Palast des Königs von Babel sein.‘“
+<sup>19</sup>Da sagte Hiskija zu Jesaja:
+„Das Wort des HERRN, das du gesagt hast, ist gut.“
+Und er sagte:
+„Ist es nicht so? Wenn nur in meinen Tagen Frieden und Beständigkeit sein werden!“
+
+> **Was bedeutet das?**
+> Berodach-Baladan (auch Merodach-Baladan genannt) war ein König von Babylon, der gegen die Assyrer kämpfte. Er suchte Verbündete. Er ist auch aus assyrischen und babylonischen Quellen bekannt.
+> Hiskija fühlt sich geschmeichelt und zeigt den Gesandten stolz alle seine Schätze und Waffen. Er sucht Hilfe bei Menschen und will Eindruck machen.
+> Jesaja kündigt an: Eines Tages wird Babylon alles wegnehmen. Das geschah über hundert Jahre später (Kapitel 24–25). Auch der Prophet Daniel und seine Freunde wurden als junge Männer an den Hof in Babel gebracht (Daniel 1,3–6).
+> „Hofbeamte“: Wörtlich steht da „Eunuchen“. Gemeint sind Diener am Königshof.
+> Hiskijas Antwort ist schwer zu verstehen. Vielleicht nimmt er das Urteil demütig an. Vielleicht denkt er auch ein wenig selbstsüchtig: Hauptsache, zu meinen Lebzeiten ist Frieden. Die Bibel lässt das offen.
+
+---
+
+### Hiskijas Ende (Vers 20–21)
+
+<sup>20</sup>Was sonst noch von Hiskija zu erzählen ist,
+alle seine Stärke,
+und wie er den Teich und die Wasserleitung gemacht hat
+und das Wasser in die Stadt gebracht hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>21</sup>Hiskija legte sich zu seinen Vätern,
+und sein Sohn Manasse wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Hiskija ließ einen Tunnel durch den Felsen graben, um das Wasser der Gihon-Quelle in die Stadt zu leiten. So hatte Jerusalem auch während einer Belagerung Wasser.
+> Diesen Tunnel gibt es bis heute. Er ist etwa 530 Meter lang, und man kann noch durch ihn hindurchgehen. 1880 wurde darin eine Inschrift gefunden, die erzählt, wie zwei Arbeitergruppen von beiden Seiten gruben und sich in der Mitte trafen. Sie ist heute in einem Museum in Istanbul.
+> Bei Ausgrabungen in Jerusalem wurde 2015 auch ein Siegelabdruck gefunden mit der Aufschrift: „Hiskija, Sohn des Ahas, König von Juda“.
+
+## 2. Könige – Kapitel 21
+#### Manasse und Amon
+
+---
+
+### Manasse, der schlimmste König von Juda (Vers 1–9)
+
+<sup>1</sup>Manasse war zwölf Jahre alt, als er König wurde,
+und er regierte 55 Jahre in Jerusalem.
+Seine Mutter hieß Hefzi-Bah.
+<sup>2</sup>Er tat, was in den Augen des HERRN böse war,
+nach den Gräueln der Völker,
+die der HERR vor den Israeliten vertrieben hatte.
+<sup>3</sup>Denn er baute die Opferhöhen wieder auf, die sein Vater Hiskija zerstört hatte.
+Er errichtete Altäre für Baal,
+machte eine Aschera, wie Ahab, der König von Israel, getan hatte,
+betete das ganze Heer des Himmels an und diente ihm.
+<sup>4</sup>Er baute Altäre im Haus des HERRN,
+von dem der HERR gesagt hatte:
+„In Jerusalem will ich meinen Namen wohnen lassen.“
+<sup>5</sup>Er baute Altäre für das ganze Heer des Himmels
+in den beiden Vorhöfen des Hauses des HERRN.
+<sup>6</sup>Er ließ seinen Sohn durch das Feuer gehen,
+trieb Zauberei und Wahrsagerei
+und gab sich mit Totenbeschwörern und Geisterbeschwörern ab.
+Er tat viel Böses in den Augen des HERRN, um ihn zum Zorn zu reizen.
+<sup>7</sup>Das geschnitzte Bild der Aschera, das er gemacht hatte,
+stellte er in das Haus,
+von dem der HERR zu David und zu seinem Sohn Salomo gesagt hatte:
+„In diesem Haus und in Jerusalem,
+das ich aus allen Stämmen Israels erwählt habe,
+will ich meinen Namen für immer wohnen lassen.
+<sup>8</sup>Und ich will den Fuß Israels nicht mehr aus dem Land weichen lassen,
+das ich ihren Vätern gegeben habe,
+wenn sie nur darauf achten, alles zu tun, was ich ihnen geboten habe,
+und nach dem ganzen Gesetz zu leben, das mein Knecht Mose ihnen geboten hat.“
+<sup>9</sup>Aber sie hörten nicht.
+Und Manasse verführte sie dazu, Böses zu tun,
+mehr als die Völker, die der HERR vor den Israeliten vernichtet hatte.
+
+> **Was bedeutet das?**
+> Manasse ist der Sohn des guten Königs Hiskija. Aber er macht alles rückgängig, was sein Vater aufgebaut hat. Er regiert sehr lange, 55 Jahre, länger als jeder andere König von Juda.
+> „Das Heer des Himmels“ sind die Sterne und Planeten. Die Assyrer verehrten sie als Götter. Manasse übernimmt diesen Kult, wohl auch, um den Assyrern zu gefallen. In assyrischen Inschriften wird „Manasse, König von Juda“ als einer der Könige genannt, die Tribut zahlen mussten.
+> Er stellt sogar ein Götzenbild in den Tempel Gottes. Das ist der schlimmste Bruch des Bundes.
+> Auch er opfert seinen Sohn im Feuer, wie sein Großvater Ahas.
+> Manasse regierte etwa von 697 bis 642 vor Christus, zuerst gemeinsam mit seinem Vater.
+
+---
+
+### Gottes Urteil über Jerusalem (Vers 10–16)
+
+<sup>10</sup>Da redete der HERR durch seine Knechte, die Propheten:
+<sup>11</sup>„Manasse, der König von Juda, hat diese Gräuel getan.
+Er hat Schlimmeres getan als alles, was die Amoriter vor ihm getan haben,
+und hat auch Juda mit seinen Götzen zur Sünde verführt.
+<sup>12</sup>Darum spricht der HERR, der Gott Israels:
+‚Schau, ich bringe solches Unheil über Jerusalem und Juda,
+dass jedem, der davon hört, beide Ohren gellen werden.
+<sup>13</sup>Ich will über Jerusalem die Messschnur Samarias spannen
+und das Senkblei des Hauses Ahab.
+Ich will Jerusalem auswischen, wie man eine Schüssel auswischt:
+Man wischt sie aus und dreht sie um.
+<sup>14</sup>Ich will den Rest meines Erbes verstoßen
+und sie in die Hand ihrer Feinde geben.
+Sie sollen allen ihren Feinden zur Beute und zum Raub werden,
+<sup>15</sup>weil sie getan haben, was in meinen Augen böse ist,
+und mich zum Zorn gereizt haben,
+seit dem Tag, an dem ihre Väter aus Ägypten auszogen, bis zum heutigen Tag.‘“
+<sup>16</sup>Außerdem vergoss Manasse sehr viel unschuldiges Blut,
+bis er Jerusalem von einem Ende bis zum anderen damit erfüllt hatte,
+zusätzlich zu seiner Sünde, mit der er Juda zur Sünde verführte,
+sodass es tat, was in den Augen des HERRN böse war.
+
+> **Was bedeutet das?**
+> Jetzt kündigt Gott an, dass auch Jerusalem untergehen wird, wie Samaria.
+> Die Bilder sind stark: Mit Messschnur und Senkblei prüft ein Baumeister, ob eine Mauer gerade ist. Jerusalem wird mit demselben Maßstab gemessen wie Samaria und das Haus Ahab. Und wie man eine schmutzige Schüssel auswischt und umdreht, so wird Jerusalem ausgeleert.
+> Manasse ließ auch viele unschuldige Menschen töten. Nach einer alten jüdischen Überlieferung soll sogar der Prophet Jesaja unter Manasse getötet worden sein. Das steht nicht in der Bibel.
+> In 2. Chronik 33,11–17 wird zusätzlich erzählt, dass Manasse später gefangen nach Babel gebracht wurde, dort umkehrte, zu Gott betete und erhört wurde. Selbst für einen so schlimmen Menschen gab es noch Umkehr. Das „Gebet Manasses“ ist ein altes Bußgebet, das in manchen Bibeln im Anhang steht.
+
+---
+
+### Manasses Tod (Vers 17–18)
+
+<sup>17</sup>Was sonst noch von Manasse zu erzählen ist,
+alles, was er getan hat, und seine Sünde, die er begangen hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>18</sup>Manasse legte sich zu seinen Vätern
+und wurde im Garten seines Hauses begraben, im Garten Usas.
+Und sein Sohn Amon wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Manasse wird nicht in den Königsgräbern in der Stadt Davids begraben, sondern im Garten seines Palastes. Wer Usa war, ist unbekannt.
+
+---
+
+### Amon, König von Juda (Vers 19–26)
+
+<sup>19</sup>Amon war 22 Jahre alt, als er König wurde,
+und er regierte zwei Jahre in Jerusalem.
+Seine Mutter hieß Meschullemet, die Tochter des Haruz, aus Jotba.
+<sup>20</sup>Er tat, was in den Augen des HERRN böse war,
+wie sein Vater Manasse getan hatte.
+<sup>21</sup>Er ging auf dem ganzen Weg, den sein Vater gegangen war,
+diente den Götzen, denen sein Vater gedient hatte,
+und betete sie an.
+<sup>22</sup>Er verließ den HERRN, den Gott seiner Väter,
+und ging nicht auf dem Weg des HERRN.
+<sup>23</sup>Die Diener Amons verschworen sich gegen ihn
+und töteten den König in seinem Haus.
+<sup>24</sup>Aber das Volk des Landes erschlug alle, die sich gegen den König Amon verschworen hatten.
+Und das Volk des Landes machte seinen Sohn Joschija an seiner Stelle zum König.
+<sup>25</sup>Was sonst noch von Amon zu erzählen ist, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>26</sup>Man begrub ihn in seinem Grab im Garten Usas.
+Und sein Sohn Joschija wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Amon setzt den Weg seines Vaters fort. Nach nur zwei Jahren wird er ermordet.
+> „Das Volk des Landes“ waren wohl die freien, landbesitzenden Männer von Juda. Sie bestrafen die Mörder und sorgen dafür, dass die Familie Davids auf dem Thron bleibt.
+> Der neue König ist ein Kind von acht Jahren: Joschija. Er wird einer der besten Könige Judas. Schon 300 Jahre vorher hatte ein Prophet seinen Namen genannt (1. Könige 13,2).
+> Amon regierte etwa von 642 bis 640 vor Christus.
