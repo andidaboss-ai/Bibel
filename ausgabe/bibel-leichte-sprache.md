@@ -46207,3 +46207,599 @@ Und sie zogen von ihm ab und kehrten in ihr Land zurück.
 > „Ein großer Zorn über Israel“ ist schwer zu deuten. Vielleicht war es Entsetzen bei den Israeliten selbst. Vielleicht wuchs der Kampfgeist der Moabiter so sehr, dass Israel abziehen musste. Der Text sagt es nicht genau. Er sagt nicht, dass Kemosch wirklich Macht hatte.
 > Elisas Ankündigung hatte sich erfüllt: Israel siegte. Aber den endgültigen Sieg bekamen sie nicht. Auf dem Mescha-Stein beschreibt Mescha das Ende des Krieges als Befreiung Moabs.
 > Kir-Hareset (auch Kir-Heres genannt) war die Hauptstadt Moabs. Man nimmt an, dass sie beim heutigen Kerak in Jordanien lag.
+
+## 2. Könige – Kapitel 4
+#### Elisa hilft in der Not
+
+---
+
+### Das Öl der Witwe (Vers 1–7)
+
+<sup>1</sup>Eine Frau von den Frauen der Prophetenjünger schrie zu Elisa:
+„Dein Diener, mein Mann, ist gestorben.
+Du weißt, dass dein Diener den HERRN gefürchtet hat.
+Jetzt ist der Gläubiger gekommen,
+um meine beiden Kinder als Sklaven zu nehmen.“
+<sup>2</sup>Elisa sagte zu ihr:
+„Was soll ich für dich tun?
+Sag mir, was hast du im Haus?“
+Sie sagte:
+„Deine Dienerin hat nichts im Haus außer einem Krug Öl.“
+<sup>3</sup>Da sagte er:
+„Geh, leih dir leere Gefäße von allen deinen Nachbarn.
+Leih nicht zu wenige Gefäße.
+<sup>4</sup>Dann geh hinein
+und schließ die Tür hinter dir und deinen Söhnen zu.
+Gieß das Öl in alle diese Gefäße
+und stell die vollen zur Seite.“
+<sup>5</sup>Sie ging von ihm weg
+und schloss die Tür hinter sich und ihren Söhnen zu.
+Sie brachten ihr die Gefäße, und sie goss ein.
+<sup>6</sup>Als die Gefäße voll waren, sagte sie zu ihrem Sohn:
+„Bring mir noch ein Gefäß.“
+Er sagte zu ihr:
+„Es ist kein Gefäß mehr da.“
+Da hörte das Öl auf zu fließen.
+<sup>7</sup>Sie kam und erzählte es dem Mann Gottes.
+Er sagte:
+„Geh, verkauf das Öl und bezahl deine Schulden.
+Und du und deine Söhne, ihr könnt von dem Rest leben.“
+
+> **Was bedeutet das?**
+> Eine Witwe ist in großer Not. Ihr Mann ist tot, sie hat Schulden. Damals konnte ein Gläubiger die Kinder als Schuldsklaven nehmen, bis die Schuld abgearbeitet war.
+> Elisa fragt: „Was hast du im Haus?“ Gott beginnt mit dem Wenigen, das schon da ist.
+> Das Öl fließt, solange es Gefäße gibt. Die Frau hätte noch mehr bekommen können, wenn sie mehr Gefäße gehabt hätte. Gottes Gaben sind größer, als wir oft erwarten.
+> Gott sieht die Armen und Schwachen. Witwen und Waisen stehen in der Bibel unter Gottes besonderem Schutz (2. Mose 22,21–23).
+> Wer heute Schulden hat, die über den Kopf wachsen, kann sich an eine kostenlose Schuldnerberatung wenden, zum Beispiel bei der Caritas, der Diakonie oder der Verbraucherzentrale.
+
+---
+
+### Die Frau aus Schunem (Vers 8–17)
+
+<sup>8</sup>Eines Tages kam Elisa nach Schunem.
+Dort lebte eine angesehene Frau.
+Sie nötigte ihn, bei ihr Brot zu essen.
+Und immer, wenn er dort vorbeikam, kehrte er dort ein, um Brot zu essen.
+<sup>9</sup>Sie sagte zu ihrem Mann:
+„Schau doch, ich merke, dass dieser Mann, der immer bei uns vorbeikommt,
+ein heiliger Mann Gottes ist.
+<sup>10</sup>Lass uns doch auf dem Dach ein kleines Zimmer bauen.
+Wir wollen ihm dort ein Bett, einen Tisch, einen Stuhl und einen Leuchter hinstellen.
+Wenn er zu uns kommt, kann er dort bleiben.“
+<sup>11</sup>Eines Tages kam er dorthin,
+ging in das Zimmer und legte sich dort hin.
+<sup>12</sup>Er sagte zu Gehasi, seinem Diener:
+„Ruf diese Schunemiterin.“
+Er rief sie, und sie stellte sich vor ihn.
+<sup>13</sup>Er sagte zu Gehasi:
+„Sag doch zu ihr:
+‚Schau, du hast dir so viel Mühe um uns gemacht.
+Was kann man für dich tun?
+Soll man beim König oder beim Heerführer für dich ein Wort einlegen?‘“
+Sie antwortete:
+„Ich wohne mitten unter meinem eigenen Volk.“
+<sup>14</sup>Er sagte:
+„Was kann man dann für sie tun?“
+Gehasi antwortete:
+„Sie hat leider keinen Sohn, und ihr Mann ist alt.“
+<sup>15</sup>Er sagte:
+„Ruf sie.“
+Er rief sie, und sie stellte sich in die Tür.
+<sup>16</sup>Er sagte:
+„Um diese Zeit im nächsten Jahr wirst du einen Sohn im Arm halten.“
+Sie sagte:
+„Nein, mein Herr, du Mann Gottes, belüg deine Dienerin nicht.“
+<sup>17</sup>Die Frau wurde schwanger
+und gebar einen Sohn um dieselbe Zeit im nächsten Jahr,
+wie Elisa es ihr gesagt hatte.
+
+> **Was bedeutet das?**
+> Die Frau aus Schunem ist reich und großzügig. Sie baut Elisa ein eigenes Gästezimmer, ohne etwas dafür zu erwarten.
+> Als Elisa ihr etwas Gutes tun will, sagt sie: „Ich wohne mitten unter meinem eigenen Volk.“ Das heißt: Ich brauche nichts, ich bin zufrieden.
+> Aber sie hat einen tiefen Schmerz, über den sie nicht spricht: Sie hat keinen Sohn. Sie wagt kaum zu hoffen: „Belüg mich nicht.“ Sie will nicht enttäuscht werden.
+> Die Geschichte erinnert an Sara, die im Alter noch einen Sohn bekam (1. Mose 18,10–14).
+> Schunem lag in der Ebene Jesreel, im Norden Israels.
+
+---
+
+### Der Sohn stirbt (Vers 18–28)
+
+<sup>18</sup>Als das Kind größer geworden war,
+ging es eines Tages hinaus zu seinem Vater, zu den Schnittern.
+<sup>19</sup>Es sagte zu seinem Vater:
+„Mein Kopf! Mein Kopf!“
+Der Vater sagte zu einem Knecht:
+„Trag ihn zu seiner Mutter.“
+<sup>20</sup>Der Knecht nahm ihn und brachte ihn zu seiner Mutter.
+Er saß auf ihren Knien bis zum Mittag.
+Dann starb er.
+<sup>21</sup>Sie ging hinauf, legte ihn auf das Bett des Mannes Gottes,
+schloss die Tür hinter ihm zu und ging hinaus.
+<sup>22</sup>Sie rief ihren Mann und sagte:
+„Schick mir doch einen von den Knechten und einen von den Eseln.
+Ich will schnell zum Mann Gottes und wieder zurückkommen.“
+<sup>23</sup>Er sagte:
+„Warum willst du heute zu ihm gehen?
+Es ist doch weder Neumond noch Sabbat.“
+Sie sagte:
+„Es ist gut.“
+<sup>24</sup>Da sattelte sie den Esel und sagte zu ihrem Knecht:
+„Treib an und reite los!
+Halte meinetwegen nicht an, außer wenn ich es dir sage.“
+<sup>25</sup>So ritt sie los und kam zum Mann Gottes auf den Berg Karmel.
+Als der Mann Gottes sie von Weitem sah, sagte er zu Gehasi, seinem Diener:
+„Schau, da ist die Schunemiterin.
+<sup>26</sup>Lauf ihr doch entgegen und frag sie:
+‚Geht es dir gut? Geht es deinem Mann gut? Geht es dem Kind gut?‘“
+Sie antwortete:
+„Es geht gut.“
+<sup>27</sup>Als sie zum Mann Gottes auf den Berg kam,
+umklammerte sie seine Füße.
+Gehasi trat heran, um sie wegzustoßen.
+Aber der Mann Gottes sagte:
+„Lass sie, denn ihre Seele ist bitter betrübt.
+Und der HERR hat es mir verborgen und mir nicht gesagt.“
+<sup>28</sup>Da sagte sie:
+„Habe ich meinen Herrn um einen Sohn gebeten?
+Habe ich nicht gesagt: ‚Täusch mich nicht‘?“
+
+> **Was bedeutet das?**
+> Das Kind bekommt plötzlich starke Kopfschmerzen, vielleicht einen Sonnenstich bei der Ernte, und stirbt auf dem Schoß seiner Mutter. Das ist das Schlimmste, was Eltern erleben können.
+> Die Mutter sagt niemandem etwas. Sie sagt nur: „Es geht gut.“ Mit aller Kraft hält sie ihren Schmerz zurück, bis sie bei dem Mann Gottes ist. Erst dort bricht es aus ihr heraus.
+> Elisa weiß nicht, was los ist. Auch ein Prophet weiß nicht alles. Aber er lässt die verzweifelte Frau an sich heran.
+> Ihr Vorwurf ist ehrlich: „Ich habe dich nicht um einen Sohn gebeten!“ Wer etwas Geschenktes wieder verliert, leidet doppelt. Die Bibel lässt solche Klagen zu.
+> „Neumond und Sabbat“ waren Feiertage, an denen man zu einem Propheten ging.
+> Im Hebräischen steht in Vers 22 und 24 wohl „Eselin“. Eselinnen ritt man damals gern.
+> Wer ein Kind verloren hat, findet Hilfe zum Beispiel bei Selbsthilfegruppen für verwaiste Eltern oder bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Der Junge wird wieder lebendig (Vers 29–37)
+
+<sup>29</sup>Da sagte Elisa zu Gehasi:
+„Binde deinen Mantel hoch um die Hüften,
+nimm meinen Stab in deine Hand und geh.
+Wenn du jemandem begegnest, grüß ihn nicht.
+Und wenn dich jemand grüßt, antworte ihm nicht.
+Leg meinen Stab auf das Gesicht des Jungen.“
+<sup>30</sup>Die Mutter des Jungen sagte:
+„So wahr der HERR lebt und so wahr du lebst:
+Ich verlasse dich nicht.“
+Da machte er sich auf und ging ihr nach.
+<sup>31</sup>Gehasi ging ihnen voraus
+und legte den Stab auf das Gesicht des Jungen.
+Aber da war kein Laut und keine Regung.
+Da kehrte er um, ging ihm entgegen und sagte ihm:
+„Der Junge ist nicht aufgewacht.“
+<sup>32</sup>Als Elisa ins Haus kam,
+schau, da lag der Junge tot auf seinem Bett.
+<sup>33</sup>Er ging hinein,
+schloss die Tür hinter ihnen beiden zu
+und betete zum HERRN.
+<sup>34</sup>Dann stieg er auf das Bett und legte sich auf das Kind.
+Er legte seinen Mund auf seinen Mund,
+seine Augen auf seine Augen
+und seine Hände auf seine Hände.
+Er streckte sich über ihm aus,
+und der Körper des Kindes wurde warm.
+<sup>35</sup>Dann stand er wieder auf
+und ging im Haus einmal hin und her.
+Dann stieg er wieder hinauf und streckte sich über ihm aus.
+Da nieste der Junge siebenmal,
+und der Junge öffnete seine Augen.
+<sup>36</sup>Er rief Gehasi und sagte:
+„Ruf diese Schunemiterin!“
+Er rief sie.
+Als sie zu ihm hereinkam, sagte er:
+„Nimm deinen Sohn.“
+<sup>37</sup>Da ging sie hinein, fiel ihm zu Füßen
+und verneigte sich bis zur Erde.
+Dann nahm sie ihren Sohn und ging hinaus.
+
+> **Was bedeutet das?**
+> Die Mutter sagt dasselbe wie Elisa damals zu Elija: „Ich verlasse dich nicht“ (Kapitel 2). Sie lässt nicht locker.
+> Der Stab allein hilft nicht. Es braucht keinen Zauber, sondern das Gebet und Elisas ganzen Einsatz.
+> Elisa betet und legt sich auf das Kind, ganz ähnlich wie Elija beim Sohn der Witwe in Sarepta (1. Könige 17,21). Gott schenkt dem Kind das Leben zurück.
+> Das siebenfache Niesen ist ein lebendiges Detail: Der Atem kehrt zurück.
+> Die Mutter sagt kein Wort. Sie fällt nieder, voller Dank, und nimmt ihren Sohn in die Arme.
+
+---
+
+### Tod im Topf (Vers 38–41)
+
+<sup>38</sup>Elisa kam wieder nach Gilgal.
+Es war eine Hungersnot im Land.
+Die Prophetenjünger saßen vor ihm.
+Er sagte zu seinem Diener:
+„Setz den großen Topf auf und koch einen Eintopf für die Prophetenjünger.“
+<sup>39</sup>Einer ging hinaus aufs Feld, um Kräuter zu sammeln.
+Er fand eine wilde Ranke
+und sammelte davon wilde Kürbisse, so viele in sein Gewand passten.
+Er kam und schnitt sie in den Topf mit dem Eintopf.
+Denn sie kannten sie nicht.
+<sup>40</sup>Dann schöpften sie es für die Männer zum Essen aus.
+Als sie von dem Eintopf aßen, schrien sie:
+„Mann Gottes, der Tod ist im Topf!“
+Und sie konnten nicht essen.
+<sup>41</sup>Er sagte:
+„Bringt Mehl her.“
+Er warf es in den Topf und sagte:
+„Schöpft es für die Leute aus, damit sie essen.“
+Und es war nichts Schädliches mehr im Topf.
+
+> **Was bedeutet das?**
+> In der Hungersnot sammeln die Männer, was sie finden. Einer erwischt giftige Früchte. Vermutlich waren es Koloquinten, eine wilde Kürbisart, die sehr bitter und giftig ist und starken Durchfall auslöst.
+> Elisa wirft Mehl in den Topf. Wie das Salz in Kapitel 2 wirkt nicht das Mehl selbst, sondern Gott macht das Essen genießbar.
+
+---
+
+### Brot für hundert Männer (Vers 42–44)
+
+<sup>42</sup>Ein Mann kam aus Baal-Schalischa
+und brachte dem Mann Gottes Brot von den ersten Früchten:
+zwanzig Gerstenbrote und frische Ähren in seinem Sack.
+Elisa sagte:
+„Gib es den Leuten, damit sie essen.“
+<sup>43</sup>Sein Diener sagte:
+„Wie soll ich das hundert Männern vorsetzen?“
+Er sagte:
+„Gib es den Leuten, damit sie essen.
+Denn so spricht der HERR:
+‚Sie werden essen und noch übrig lassen.‘“
+<sup>44</sup>Da setzte er es ihnen vor.
+Sie aßen und ließen noch übrig,
+nach dem Wort des HERRN.
+
+> **Was bedeutet das?**
+> Die ersten Früchte der Ernte gehörten eigentlich Gott und den Priestern. Weil es im Nordreich keine rechtmäßigen Priester gab, bringt der Mann sie dem Propheten.
+> Zwanzig kleine Gerstenbrote für hundert Männer, das ist viel zu wenig. Aber Gott sorgt dafür, dass alle satt werden und noch etwas übrig bleibt.
+> Diese Geschichte erinnert sehr an die Speisung der Fünftausend durch Jesus. Auch dort gab es Gerstenbrote, die Jünger zweifelten, alle wurden satt, und es blieb etwas übrig (Johannes 6,9–13).
+
+## 2. Könige – Kapitel 5
+#### Naaman wird gesund
+
+---
+
+### Ein Mädchen gibt einen Rat (Vers 1–7)
+
+<sup>1</sup>Naaman, der Heerführer des Königs von Syrien,
+war ein großer Mann bei seinem Herrn und hoch angesehen,
+denn durch ihn hatte der HERR Syrien den Sieg gegeben.
+Er war auch ein tapferer Kriegsheld.
+Aber er war aussätzig.
+<sup>2</sup>Die Syrer waren in Streifscharen ausgezogen
+und hatten aus dem Land Israel ein kleines Mädchen gefangen weggeführt.
+Sie diente der Frau Naamans.
+<sup>3</sup>Sie sagte zu ihrer Herrin:
+„Ach, wenn mein Herr doch bei dem Propheten in Samaria wäre!
+Der würde ihn von seinem Aussatz heilen.“
+<sup>4</sup>Da ging jemand hinein und sagte es seinem Herrn:
+„So und so hat das Mädchen aus dem Land Israel gesagt.“
+<sup>5</sup>Der König von Syrien sagte:
+„Geh nur hin.
+Ich will dem König von Israel einen Brief schicken.“
+Er ging los und nahm etwa 340 Kilogramm Silber mit,
+6000 Goldstücke und zehn Wechselkleider.
+<sup>6</sup>Er brachte dem König von Israel den Brief. Darin stand:
+„Wenn dieser Brief zu dir kommt, schau:
+Ich habe meinen Diener Naaman zu dir geschickt,
+damit du ihn von seinem Aussatz heilst.“
+<sup>7</sup>Als der König von Israel den Brief gelesen hatte,
+zerriss er seine Kleider und sagte:
+„Bin ich denn Gott, dass ich töten und lebendig machen kann,
+dass dieser mir einen Mann schickt, damit ich ihn von seinem Aussatz heile?
+Merkt doch und seht, wie er Streit mit mir sucht!“
+
+> **Was bedeutet das?**
+> Naaman ist ein mächtiger Mann, ein erfolgreicher General aus Syrien (Aram), dem Feind Israels. Aber er hat eine Krankheit, gegen die alle Macht nichts hilft.
+> Bemerkenswert: Die Bibel sagt, dass der HERR Syrien durch Naaman den Sieg gegeben hat. Gott ist nicht nur der Gott Israels. Er lenkt die Geschichte aller Völker.
+> „Aussatz“ war damals ein Name für viele verschiedene Hautkrankheiten, nicht nur für die heutige Lepra. Kranke wurden oft ausgegrenzt.
+> Die eigentliche Heldin am Anfang ist ein kleines Mädchen ohne Namen. Sie wurde aus ihrer Heimat verschleppt und muss als Sklavin dienen. Trotzdem wünscht sie ihrem Herrn Heilung. Sie hat keine Bitterkeit, sondern Mitgefühl, und sie vertraut auf Gott.
+> Der König von Israel (wohl Joram) bekommt Angst. Er denkt, der Brief sei eine Falle. An den Propheten Elisa denkt er nicht.
+> In der Bibel steht „zehn Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Bei den „6000 Goldstücken“ sind wohl Schekel gemeint, zusammen etwa 66 Kilogramm Gold. Das war ein riesiges Vermögen.
+
+---
+
+### Wasche dich im Jordan (Vers 8–14)
+
+<sup>8</sup>Als Elisa, der Mann Gottes, hörte,
+dass der König von Israel seine Kleider zerrissen hatte,
+schickte er zum König und ließ ihm sagen:
+„Warum hast du deine Kleider zerrissen?
+Lass ihn doch zu mir kommen.
+Dann wird er erkennen, dass es einen Propheten in Israel gibt.“
+<sup>9</sup>So kam Naaman mit seinen Pferden und seinen Wagen
+und hielt an der Tür von Elisas Haus.
+<sup>10</sup>Elisa schickte einen Boten zu ihm hinaus und ließ ihm sagen:
+„Geh hin und wasch dich siebenmal im Jordan.
+Dann wird dein Körper wieder gesund,
+und du wirst rein sein.“
+<sup>11</sup>Aber Naaman wurde zornig, ging weg und sagte:
+„Schau, ich dachte:
+‚Er wird bestimmt zu mir herauskommen und hintreten
+und den Namen des HERRN, seines Gottes, anrufen
+und seine Hand über der Stelle hin und her bewegen
+und so den Aussatz heilen.‘
+<sup>12</sup>Sind nicht Abana und Parpar, die Flüsse von Damaskus,
+besser als alle Gewässer Israels?
+Könnte ich mich nicht in ihnen waschen und rein werden?“
+So drehte er um und ging wütend weg.
+<sup>13</sup>Da traten seine Diener zu ihm, redeten mit ihm und sagten:
+„Mein Vater, wenn der Prophet dir etwas Großes befohlen hätte,
+hättest du es dann nicht getan?
+Wie viel mehr, wenn er dir nur sagt:
+‚Wasch dich, und du wirst rein!‘“
+<sup>14</sup>Da ging er hinab und tauchte siebenmal im Jordan unter,
+wie der Mann Gottes gesagt hatte.
+Und sein Körper wurde wieder wie der Körper eines kleinen Kindes,
+und er war rein.
+
+> **Was bedeutet das?**
+> Naaman kommt mit großem Auftritt, mit Pferden und Wagen. Aber Elisa kommt nicht einmal heraus. Er schickt nur einen Boten.
+> Naaman ist gekränkt. Er hatte sich eine eindrucksvolle Heilung vorgestellt. Stattdessen soll er sich in einem kleinen, schlammigen Fluss waschen. Sein Stolz steht ihm im Weg.
+> Wieder sind es Diener, einfache Menschen, die den mächtigen Mann zur Vernunft bringen: „Wenn es etwas Schweres wäre, würdest du es tun. Warum dann nicht das Einfache?“
+> Naaman muss demütig werden. Er steigt hinab, ganz wörtlich, in den Jordan. Und er wird gesund, seine Haut wird wie die eines kleinen Kindes.
+> Jesus hat in Nazaret an Naaman erinnert: Es gab viele Aussätzige in Israel, aber geheilt wurde ein Ausländer (Lukas 4,27).
+> Abana und Parpar sind Flüsse bei Damaskus.
+
+---
+
+### Naaman bekennt sich zum HERRN (Vers 15–19)
+
+<sup>15</sup>Er kehrte zum Mann Gottes zurück, er und sein ganzes Gefolge.
+Er kam, trat vor ihn hin und sagte:
+„Schau, jetzt weiß ich,
+dass es auf der ganzen Erde keinen Gott gibt außer in Israel.
+Nun nimm doch ein Geschenk von deinem Diener an.“
+<sup>16</sup>Aber er sagte:
+„So wahr der HERR lebt, vor dem ich stehe:
+Ich nehme nichts an.“
+Naaman drängte ihn, es anzunehmen,
+aber er weigerte sich.
+<sup>17</sup>Naaman sagte:
+„Wenn nicht, dann lass doch deinem Diener so viel Erde geben, wie zwei Maultiere tragen können.
+Denn dein Diener will von jetzt an anderen Göttern kein Brandopfer und kein Schlachtopfer mehr darbringen,
+sondern nur dem HERRN.
+<sup>18</sup>Nur in einer Sache möge der HERR deinem Diener vergeben:
+Wenn mein Herr in das Haus Rimmons geht, um dort anzubeten,
+und er sich auf meine Hand stützt
+und ich mich im Haus Rimmons niederbeuge,
+wenn ich mich im Haus Rimmons niederbeuge,
+dann möge der HERR deinem Diener in dieser Sache vergeben.“
+<sup>19</sup>Er sagte zu ihm:
+„Geh in Frieden.“
+Und er ging ein Stück weit von ihm weg.
+
+> **Was bedeutet das?**
+> Naaman ist nicht nur körperlich geheilt. Er hat den lebendigen Gott erkannt. Ein Feind Israels wird zum Anbeter des HERRN.
+> Elisa nimmt kein Geschenk an. Gottes Hilfe kann man nicht kaufen. Sie ist ein Geschenk.
+> Naaman will Erde aus Israel mitnehmen. Damals dachte man, dass ein Gott an sein Land gebunden ist. Auf dieser Erde will Naaman in seiner Heimat dem HERRN opfern.
+> Naaman hat ein ehrliches Problem: Er muss als Beamter seinen König in den Tempel des Gottes Rimmon begleiten (Rimmon ist ein Name des Wettergottes Hadad). Er fragt im Voraus um Vergebung. Elisa antwortet weise und freundlich: „Geh in Frieden.“ Er legt ihm keine Last auf, die er nicht tragen kann.
+
+---
+
+### Gehasis Gier (Vers 20–27)
+
+<sup>20</sup>Aber Gehasi, der Diener Elisas, des Mannes Gottes, sagte:
+„Schau, mein Herr hat diesen Naaman, den Syrer, geschont
+und nichts aus seiner Hand angenommen, was er mitgebracht hat.
+So wahr der HERR lebt:
+Ich will ihm nachlaufen und etwas von ihm nehmen.“
+<sup>21</sup>So lief Gehasi Naaman nach.
+Als Naaman jemanden hinter sich herlaufen sah,
+stieg er vom Wagen herab, ihm entgegen, und sagte:
+„Steht alles gut?“
+<sup>22</sup>Er sagte:
+„Alles steht gut.
+Mein Herr hat mich geschickt und lässt dir sagen:
+‚Schau, gerade eben sind zwei junge Männer von den Prophetenjüngern
+aus dem Bergland Efraim zu mir gekommen.
+Gib ihnen doch etwa 34 Kilogramm Silber und zwei Wechselkleider.‘“
+<sup>23</sup>Naaman sagte:
+„Sei so gut und nimm das Doppelte, etwa 68 Kilogramm.“
+Er drängte ihn
+und band das Silber in zwei Beutel,
+dazu zwei Wechselkleider,
+und gab es zwei seiner Diener.
+Die trugen es vor ihm her.
+<sup>24</sup>Als er zum Hügel kam, nahm er es aus ihrer Hand
+und verwahrte es im Haus.
+Dann ließ er die Männer gehen, und sie gingen weg.
+<sup>25</sup>Er aber ging hinein und trat vor seinen Herrn.
+Elisa sagte zu ihm:
+„Woher kommst du, Gehasi?“
+Er sagte:
+„Dein Diener ist nirgendwohin gegangen.“
+<sup>26</sup>Er sagte zu ihm:
+„War mein Herz nicht dabei,
+als der Mann sich von seinem Wagen umwandte, dir entgegen?
+Ist das die Zeit, Geld zu nehmen und Kleider zu nehmen,
+Olivengärten und Weinberge,
+Schafe und Rinder,
+Knechte und Mägde?
+<sup>27</sup>Darum wird der Aussatz Naamans an dir und an deinen Nachkommen haften, für immer.“
+Und er ging von ihm hinaus, aussätzig, weiß wie Schnee.
+
+> **Was bedeutet das?**
+> Gehasi ist gierig. Er lügt Naaman an und dann auch seinen Herrn Elisa. Er macht aus Gottes Geschenk ein Geschäft.
+> Damit beschädigt er die Botschaft: Naaman sollte lernen, dass Gottes Hilfe umsonst ist. Gehasi zerstört dieses Zeugnis.
+> Elisa weiß Bescheid: „War mein Herz nicht dabei?“ Er hat es im Geist gesehen.
+> Gehasi wollte sich mit dem Geld wohl Land, Tiere und Diener kaufen. Elisa zählt das alles auf.
+> Am Ende ist der Ausländer geheilt und der Israelit aussätzig. Es kommt nicht auf die Herkunft an, sondern auf das Herz.
+> In der Bibel steht „ein Talent Silber“ und „zwei Talente“. Ein Talent sind etwa 34 Kilogramm.
+> „Für immer“ ist eine harte Strafe. Später wird Gehasi aber noch einmal erwähnt, wie er dem König von Elisas Taten erzählt (Kapitel 8,4–5).
+
+## 2. Könige – Kapitel 6
+#### Feurige Wagen und eine belagerte Stadt
+
+---
+
+### Das schwimmende Eisen (Vers 1–7)
+
+<sup>1</sup>Die Prophetenjünger sagten zu Elisa:
+„Schau doch, der Ort, an dem wir vor dir wohnen, ist zu eng für uns.
+<sup>2</sup>Lass uns doch an den Jordan gehen.
+Jeder soll dort einen Balken holen,
+und wir wollen uns dort einen Ort bauen, an dem wir wohnen können.“
+Er antwortete:
+„Geht!“
+<sup>3</sup>Einer sagte:
+„Sei doch so gut und geh mit deinen Dienern.“
+Er antwortete:
+„Ich gehe mit.“
+<sup>4</sup>So ging er mit ihnen.
+Als sie an den Jordan kamen, fällten sie Bäume.
+<sup>5</sup>Als einer gerade einen Baum fällte,
+fiel das Eisen der Axt ins Wasser.
+Da schrie er:
+„Ach, mein Herr!
+Und sie war geliehen!“
+<sup>6</sup>Der Mann Gottes fragte:
+„Wo ist es hineingefallen?“
+Er zeigte ihm die Stelle.
+Da schnitt er ein Stück Holz ab, warf es dort hinein
+und ließ das Eisen schwimmen.
+<sup>7</sup>Er sagte:
+„Hol es dir heraus.“
+Da streckte er seine Hand aus und nahm es.
+
+> **Was bedeutet das?**
+> Ein kleines Wunder für eine kleine Not. Damals war Eisen teuer. Ein armer Prophetenjünger hätte die geliehene Axt kaum ersetzen können.
+> Gott kümmert sich nicht nur um große Dinge wie Kriege und Könige, sondern auch um die alltäglichen Sorgen eines einfachen Menschen.
+
+---
+
+### Elisa durchschaut die Syrer (Vers 8–14)
+
+<sup>8</sup>Der König von Syrien führte Krieg gegen Israel.
+Er beriet sich mit seinen Dienern und sagte:
+„An dem und dem Ort soll mein Lager sein.“
+<sup>9</sup>Da schickte der Mann Gottes zum König von Israel und ließ ihm sagen:
+„Hüte dich, an diesem Ort vorbeizuziehen,
+denn die Syrer kommen dort herab.“
+<sup>10</sup>Der König von Israel schickte Leute an den Ort,
+von dem der Mann Gottes ihm gesagt und vor dem er ihn gewarnt hatte.
+So rettete er sich dort, nicht nur einmal oder zweimal.
+<sup>11</sup>Darüber wurde das Herz des Königs von Syrien sehr unruhig.
+Er rief seine Diener und sagte zu ihnen:
+„Wollt ihr mir nicht sagen, wer von uns zum König von Israel hält?“
+<sup>12</sup>Einer seiner Diener sagte:
+„Nein, mein Herr König.
+Sondern Elisa, der Prophet in Israel,
+sagt dem König von Israel die Worte, die du in deinem Schlafzimmer sprichst.“
+<sup>13</sup>Er sagte:
+„Geht und seht, wo er ist,
+damit ich hinschicke und ihn hole.“
+Man meldete ihm:
+„Schau, er ist in Dotan.“
+<sup>14</sup>Da schickte er Pferde und Wagen und ein großes Heer dorthin.
+Sie kamen in der Nacht und umzingelten die Stadt.
+
+> **Was bedeutet das?**
+> Der König von Syrien glaubt, er habe einen Verräter in seinen eigenen Reihen. Aber es ist Gott, der Elisa die geheimen Pläne zeigt.
+> Vor Gott gibt es keine Geheimnisse, nicht einmal im Schlafzimmer eines Königs.
+> Dotan lag etwa 20 Kilometer nördlich von Samaria. Dort hatten früher Josefs Brüder ihn verkauft (1. Mose 37,17).
+
+---
+
+### Mehr sind bei uns (Vers 15–23)
+
+<sup>15</sup>Als der Diener des Mannes Gottes früh aufstand und hinausging,
+schau, da umgab ein Heer mit Pferden und Wagen die Stadt.
+Sein Diener sagte zu ihm:
+„Ach, mein Herr! Was sollen wir tun?“
+<sup>16</sup>Er antwortete:
+„Hab keine Angst!
+Denn die bei uns sind, sind mehr als die bei ihnen.“
+<sup>17</sup>Elisa betete und sagte:
+„HERR, öffne doch seine Augen, damit er sieht.“
+Da öffnete der HERR die Augen des jungen Mannes, und er sah.
+Und schau, der Berg war voll von feurigen Pferden und Wagen rings um Elisa.
+<sup>18</sup>Als die Syrer zu ihm herabkamen,
+betete Elisa zum HERRN und sagte:
+„Schlag doch dieses Volk mit Blindheit.“
+Und er schlug sie mit Blindheit, wie Elisa gesagt hatte.
+<sup>19</sup>Elisa sagte zu ihnen:
+„Das ist nicht der Weg, und das ist nicht die Stadt.
+Folgt mir, ich will euch zu dem Mann bringen, den ihr sucht.“
+Und er führte sie nach Samaria.
+<sup>20</sup>Als sie nach Samaria gekommen waren, sagte Elisa:
+„HERR, öffne diesen Männern die Augen, damit sie sehen.“
+Da öffnete der HERR ihre Augen, und sie sahen.
+Und schau, sie waren mitten in Samaria.
+<sup>21</sup>Als der König von Israel sie sah, sagte er zu Elisa:
+„Mein Vater, soll ich sie erschlagen? Soll ich sie erschlagen?“
+<sup>22</sup>Er antwortete:
+„Du sollst sie nicht erschlagen.
+Würdest du die erschlagen, die du mit deinem Schwert und deinem Bogen gefangen genommen hast?
+Setz ihnen Brot und Wasser vor,
+damit sie essen und trinken,
+und dann sollen sie zu ihrem Herrn gehen.“
+<sup>23</sup>Da bereitete er ihnen ein großes Festmahl.
+Nachdem sie gegessen und getrunken hatten,
+ließ er sie gehen, und sie gingen zu ihrem Herrn.
+Und die Streifscharen der Syrer kamen nicht mehr in das Land Israel.
+
+> **Was bedeutet das?**
+> Der junge Diener sieht nur die Feinde und bekommt Angst. Elisa sieht mehr: Gottes himmlisches Heer ist da. „Die bei uns sind, sind mehr als die bei ihnen.“ Wer auf Gott vertraut, ist nie allein.
+> Elisa betet: „Öffne ihm die Augen.“ Glauben heißt manchmal, die unsichtbare Wirklichkeit Gottes zu sehen.
+> Die feurigen Pferde und Wagen erinnern an Elijas Himmelfahrt (Kapitel 2,11).
+> Dann geschieht etwas Überraschendes: Elisa lässt die Feinde nicht töten. Er lässt ihnen ein Festmahl geben und schickt sie nach Hause. Und so entsteht Frieden: Die Überfälle hören auf.
+> Das ist eine der schönsten Friedensgeschichten im Alten Testament. Sie erinnert an Sprüche 25,21: „Hat dein Feind Hunger, so gib ihm Brot zu essen.“ Paulus zitiert das in Römer 12,20. Und Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
+> „Mit Blindheit schlagen“ meint hier wohl eine Verwirrung: Sie erkennen nicht, wo sie sind.
+
+---
+
+### Hungersnot in Samaria (Vers 24–33)
+
+<sup>24</sup>Danach versammelte Ben-Hadad, der König von Syrien, sein ganzes Heer,
+zog herauf und belagerte Samaria.
+<sup>25</sup>Da entstand eine große Hungersnot in Samaria.
+Schau, sie belagerten es so lange,
+bis ein Eselskopf 80 Silberstücke kostete
+und ein Viertel Kab Taubenmist 5 Silberstücke.
+<sup>26</sup>Als der König von Israel auf der Mauer entlangging,
+schrie eine Frau zu ihm:
+„Hilf, mein Herr König!“
+<sup>27</sup>Er sagte:
+„Wenn der HERR dir nicht hilft, woher soll ich dir helfen?
+Von der Tenne oder von der Weinpresse?“
+<sup>28</sup>Dann fragte der König sie:
+„Was hast du?“
+Sie antwortete:
+„Diese Frau hat zu mir gesagt:
+‚Gib deinen Sohn her, damit wir ihn heute essen.
+Und morgen essen wir meinen Sohn.‘
+<sup>29</sup>So haben wir meinen Sohn gekocht und ihn gegessen.
+Und am nächsten Tag habe ich zu ihr gesagt:
+‚Gib deinen Sohn her, damit wir ihn essen.‘
+Aber sie hat ihren Sohn versteckt.“
+<sup>30</sup>Als der König die Worte der Frau hörte,
+zerriss er seine Kleider.
+Er ging gerade auf der Mauer entlang.
+Und das Volk schaute hin,
+und schau, er trug darunter einen Sack auf seinem Körper.
+<sup>31</sup>Da sagte er:
+„Gott soll mir dies und noch mehr antun,
+wenn der Kopf Elisas, des Sohnes Schafats, heute auf ihm bleibt.“
+<sup>32</sup>Elisa aber saß in seinem Haus,
+und die Ältesten saßen bei ihm.
+Der König schickte einen Mann vor sich her.
+Aber bevor der Bote zu ihm kam, sagte er zu den Ältesten:
+„Seht ihr, wie dieser Sohn eines Mörders hergeschickt hat, um mir den Kopf abzunehmen?
+Schaut, wenn der Bote kommt, dann schließt die Tür
+und haltet die Tür gegen ihn zu.
+Ist nicht der Schritt seines Herrn hinter ihm?“
+<sup>33</sup>Während er noch mit ihnen redete,
+schau, da kam der Bote zu ihm herab.
+Und er sagte:
+„Schau, dieses Unglück kommt vom HERRN.
+Warum soll ich noch länger auf den HERRN warten?“
+
+> **Was bedeutet das?**
+> Das ist eine der schrecklichsten Stellen der Bibel. Die Belagerung ist so lang, dass die Menschen verhungern. Für einen Eselskopf, der eigentlich als unrein galt und kaum Fleisch hat, zahlt man ein Vermögen.
+> „Taubenmist“: Vielleicht ist das wörtlich gemeint, als Brennmaterial oder sogar als Nahrung in größter Not. Vielleicht ist es auch der Name einer Pflanze, etwa einer Art wilder Zwiebeln oder Schoten. Ein Kab sind etwa 1,2 Liter, ein Viertel davon also etwa 0,3 Liter.
+> Die Not ist so groß, dass Mütter ihre eigenen Kinder essen. Das ist das äußerste Grauen. Genau davor hatte Gott gewarnt, wenn das Volk ihn verlässt (5. Mose 28,53–57). Die Bibel verschweigt dieses Grauen nicht. Sie zeigt, wie Krieg und Belagerung die Menschlichkeit zerstören. Leider gibt es auch aus der neueren Geschichte Berichte über solches Grauen in Hungersnöten, zum Beispiel bei der Belagerung von Leningrad.
+> Der König trägt heimlich einen Sack unter seiner Kleidung, als Zeichen der Buße. Aber statt zu Gott umzukehren, will er Elisa töten. Er gibt dem Propheten die Schuld.
+> „Sohn eines Mörders“: Gemeint ist der König Joram, Sohn Ahabs, der Nabot ermorden ließ.
+> Der letzte Satz zeigt die Verzweiflung: „Warum soll ich noch auf den HERRN warten?“ Das nächste Kapitel gibt eine überraschende Antwort.
