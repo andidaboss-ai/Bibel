@@ -38734,3 +38734,331 @@ Der HERR soll dem, der Böses tut, nach seiner Bosheit vergelten.“
 > Sein kurzes Klagelied sagt: Abner war kein Verbrecher, der gefesselt hingerichtet wurde. Er war frei und ahnungslos. Er wurde hinterhältig ermordet.
 > Das Volk sieht Davids Trauer und glaubt ihm. David gewinnt dadurch das Vertrauen auch im Norden.
 > Aber David gibt zu: Ich bin zu schwach gegen Joab und Abischai. Er bestraft Joab nicht. Joab ist zu mächtig und zu wichtig für das Heer. Das ist eine Schwäche Davids, die später noch viel Leid bringen wird. Erst kurz vor seinem Tod sagt David seinem Sohn Salomo, er solle mit Joab abrechnen (1. Könige 2,5–6).
+
+## 2. Samuel – Kapitel 4
+#### Der Mord an Isch-Boschet
+
+---
+
+### Zwei Anführer und ein gelähmtes Kind (Vers 1–4)
+
+<sup>1</sup>Als der Sohn Sauls hörte, dass Abner in Hebron tot war,
+wurden seine Hände schlaff,
+und ganz Israel erschrak.
+<sup>2</sup>Der Sohn Sauls hatte zwei Männer, die Anführer von Streiftrupps waren.
+Der Name des einen war Baana und der Name des anderen Rechab.
+Sie waren Söhne von Rimmon aus Beerot, vom Stamm Benjamin.
+Denn auch Beerot wird zu Benjamin gerechnet.
+<sup>3</sup>Die Leute von Beerot waren nach Gittajim geflohen
+und haben dort als Fremde gelebt bis zum heutigen Tag.
+<sup>4</sup>Jonatan, der Sohn Sauls, hatte einen Sohn, der an beiden Füßen gelähmt war.
+Er war fünf Jahre alt, als die Nachricht über Saul und Jonatan aus Jesreel kam.
+Da nahm ihn seine Amme und floh.
+Als sie in großer Eile floh, fiel er hin und wurde gelähmt.
+Sein Name war Mefi-Boschet.
+
+> **Was bedeutet das?**
+> Ohne Abner ist Isch-Boschet hilflos. „Seine Hände wurden schlaff“ heißt: Er verliert allen Mut.
+> Mitten in die Geschichte wird kurz ein Kind eingefügt: Mefi-Boschet, der Sohn Jonatans. Als die Nachricht vom Tod seines Vaters und Großvaters kam, floh seine Amme mit ihm. Er fiel hin und war seitdem gelähmt.
+> Warum wird er hier erwähnt? Wenn Isch-Boschet stirbt, bleibt aus Sauls Familie nur noch dieser gelähmte Junge übrig. Er könnte kein König werden. David hatte Jonatan versprochen, seine Familie zu schützen (1. Samuel 20,15). Von Mefi-Boschet hören wir in Kapitel 9 wieder.
+> Wie bei Isch-Boschet wurde auch dieser Name verändert: In 1. Chronik 8,34 heißt er „Merib-Baal“.
+
+---
+
+### Isch-Boschet wird ermordet (Vers 5–8)
+
+<sup>5</sup>Die Söhne von Rimmon aus Beerot, Rechab und Baana, gingen los
+und kamen in der Mittagshitze zum Haus von Isch-Boschet,
+als er gerade seine Mittagsruhe hielt.
+<sup>6</sup>Sie kamen mitten ins Haus, als wollten sie Weizen holen,
+und stachen ihn in den Bauch.
+Und Rechab und sein Bruder Baana entkamen.
+<sup>7</sup>Als sie nämlich ins Haus kamen,
+lag er auf seinem Bett in seinem Schlafzimmer.
+Sie stachen auf ihn ein, töteten ihn,
+schlugen ihm den Kopf ab und nahmen seinen Kopf mit.
+Dann gingen sie die ganze Nacht auf dem Weg durch die Araba.
+<sup>8</sup>Sie brachten den Kopf von Isch-Boschet zu David nach Hebron
+und sagten zum König:
+„Schau, hier ist der Kopf von Isch-Boschet, dem Sohn Sauls, deinem Feind,
+der dir nach dem Leben trachtete!
+Der HERR hat heute meinen Herrn, den König, an Saul und an seinen Nachkommen gerächt.“
+
+> **Was bedeutet das?**
+> Zwei von Isch-Boschets eigenen Offizieren ermorden ihn, während er schläft. Sie tun so, als wollten sie Getreide holen. Es ist ein feiger Mord an einem wehrlosen Mann.
+> Die alte griechische Übersetzung erzählt Vers 6 etwas anders: Die Türhüterin hatte Weizen gereinigt und war eingeschlafen. So kamen die Männer ungesehen ins Haus.
+> Die Mörder denken wie der Amalekiter in Kapitel 1: David wird sich freuen und uns belohnen. Sie benutzen sogar Gottes Namen: „Der HERR hat dich gerächt.“
+
+---
+
+### David bestraft die Mörder (Vers 9–12)
+
+<sup>9</sup>David antwortete Rechab und seinem Bruder Baana, den Söhnen von Rimmon aus Beerot,
+und sagte zu ihnen:
+„So wahr der HERR lebt, der meine Seele aus aller Not erlöst hat:
+<sup>10</sup>Als mir einer erzählte: ‚Schau, Saul ist tot‘,
+und meinte, er bringe eine gute Nachricht,
+da habe ich ihn gepackt und in Ziklag getötet.
+Das war der Lohn, den ich ihm für seine Nachricht gab.
+<sup>11</sup>Wie viel mehr, wenn böse Männer einen gerechten Mann in seinem eigenen Haus,
+auf seinem Bett, getötet haben,
+sollte ich da nicht sein Blut von eurer Hand fordern
+und euch von der Erde wegschaffen?“
+<sup>12</sup>David befahl seinen jungen Männern, und sie töteten sie.
+Sie hieben ihnen die Hände und die Füße ab
+und hängten sie am Teich in Hebron auf.
+Aber den Kopf von Isch-Boschet nahmen sie
+und begruben ihn im Grab Abners in Hebron.
+
+> **Was bedeutet das?**
+> David sagt: Nicht ihr habt mich gerettet, sondern der HERR hat mich aus aller Not erlöst. Ich brauche keine Mörder, um König zu werden.
+> Er nennt Isch-Boschet einen „gerechten Mann“. Er war Davids Gegner, aber er war unschuldig an diesem Verbrechen.
+> David bestraft die Mörder hart. Hände und Füße wurden abgehauen, weil sie mit ihren Händen gemordet hatten und mit ihren Füßen gelaufen waren, um es zu melden. Die toten Körper wurden öffentlich aufgehängt, als Warnung für alle. Das ist eine grausame Strafe aus einer harten Zeit, kein Vorbild für heute.
+> Wieder zeigt David: Er will nicht durch Gewalt an die Macht kommen. Er wartet auf Gottes Weg.
+
+## 2. Samuel – Kapitel 5
+#### David wird König über ganz Israel und erobert Jerusalem
+
+---
+
+### Ganz Israel salbt David (Vers 1–5)
+
+<sup>1</sup>Da kamen alle Stämme Israels zu David nach Hebron
+und sagten:
+„Schau, wir sind dein Bein und dein Fleisch.
+<sup>2</sup>Schon früher, als Saul König über uns war,
+warst du es, der Israel ins Feld geführt und wieder zurückgebracht hat.
+Und der HERR hat zu dir gesagt:
+‚Du sollst mein Volk Israel weiden,
+und du sollst Fürst über Israel sein.‘“
+<sup>3</sup>So kamen alle Ältesten Israels zum König nach Hebron.
+Und der König David schloss mit ihnen in Hebron einen Bund vor dem HERRN.
+Und sie salbten David zum König über Israel.
+<sup>4</sup>David war dreißig Jahre alt, als er König wurde,
+und er regierte vierzig Jahre.
+<sup>5</sup>In Hebron regierte er über Juda sieben Jahre und sechs Monate.
+Und in Jerusalem regierte er dreiunddreißig Jahre über ganz Israel und Juda.
+
+> **Was bedeutet das?**
+> Endlich ist es so weit: Alle zwölf Stämme kommen zu David. „Wir sind dein Bein und dein Fleisch“ heißt: Wir sind deine Familie, wir gehören zusammen.
+> „Weiden“ ist ein schönes Bild für einen König. David war Hirte. Jetzt soll er das Volk Gottes wie ein Hirte führen und schützen, nicht ausbeuten. Viel später nennt sich Jesus „der gute Hirte“ (Johannes 10,11).
+> Es ist das dritte Mal, dass David gesalbt wird: zuerst heimlich von Samuel, dann von Juda, jetzt von ganz Israel.
+> Der König schließt einen „Bund“ mit dem Volk. Das heißt: Auch der König hat Pflichten. Er steht nicht über dem Recht.
+> Rechnung: siebeneinhalb Jahre in Hebron plus 33 Jahre in Jerusalem sind etwa 40 Jahre.
+
+---
+
+### Die Eroberung Jerusalems (Vers 6–10)
+
+<sup>6</sup>Der König und seine Männer zogen nach Jerusalem gegen die Jebusiter,
+die Bewohner des Landes.
+Sie sagten zu David:
+„Die Blinden und die Lahmen werden dich hier abwehren.“
+Sie dachten: „David kann hier nicht hereinkommen.“
+<sup>7</sup>Doch David nahm die Burg Zion ein.
+Das ist die Stadt Davids.
+<sup>8</sup>David sagte an diesem Tag:
+„Wer die Jebusiter schlagen will,
+der soll durch den Wasserschacht hinaufsteigen
+und die Lahmen und Blinden schlagen, die Davids Seele hasst.“
+Darum sagt man:
+„Ein Blinder und ein Lahmer darf nicht in das Haus kommen.“
+<sup>9</sup>David wohnte in der Burg
+und nannte sie Stadt Davids.
+Und David baute ringsum, vom Millo an nach innen.
+<sup>10</sup>David wurde immer größer,
+denn der HERR, der Gott der Heere, war mit ihm.
+
+> **Was bedeutet das?**
+> Jerusalem gehörte bis dahin den Jebusitern. Die Stadt lag auf einem Hügel, gut geschützt durch Täler. Sie lag genau an der Grenze zwischen Juda und den Nordstämmen und gehörte zu keinem Stamm. Darum war sie die ideale Hauptstadt für alle.
+> Die Jebusiter spotten: Unsere Stadt ist so sicher, dass sogar Blinde und Lahme dich abwehren können.
+> Der „Wasserschacht“ war wohl ein Gang, durch den die Bewohner Wasser von der Quelle unterhalb der Stadt holten. Durch ihn kamen Davids Männer in die Stadt. Archäologen haben in Jerusalem solche alten Wasserschächte gefunden.
+> Vers 8 ist im Hebräischen sehr schwer zu verstehen. „Die Blinden und Lahmen, die Davids Seele hasst“ meint wohl die spottenden Verteidiger, nicht wirklich kranke Menschen. Das Sprichwort am Ende wurde später leider gegen Menschen mit Behinderung benutzt.
+> Ganz wichtig: Die Bibel lehrt nicht, dass Menschen mit Behinderung weniger wert sind. Gerade David nimmt später den gelähmten Mefi-Boschet an seinen eigenen Tisch (Kapitel 9). Und Jesus heilte Blinde und Lahme im Tempel (Matthäus 21,14). Bei Gott hat jeder Mensch die gleiche Würde.
+> „Zion“ war zuerst der Name der Burg. Später wurde „Zion“ ein Name für ganz Jerusalem und für den Ort, an dem Gott wohnt.
+> Der „Millo“ war wohl eine Aufschüttung, eine Terrasse aus Steinen, auf der man bauen konnte.
+
+---
+
+### Davids Haus und Familie (Vers 11–16)
+
+<sup>11</sup>Hiram, der König von Tyrus, schickte Boten zu David,
+mit Zedernholz, Zimmerleuten und Steinmetzen.
+Und sie bauten David ein Haus.
+<sup>12</sup>David erkannte, dass der HERR ihn als König über Israel bestätigt hatte
+und dass er sein Königreich um seines Volkes Israel willen erhöht hatte.
+<sup>13</sup>David nahm sich noch mehr Nebenfrauen und Frauen aus Jerusalem,
+nachdem er aus Hebron gekommen war.
+Und David wurden noch mehr Söhne und Töchter geboren.
+<sup>14</sup>Das sind die Namen der Söhne, die ihm in Jerusalem geboren wurden:
+Schammua, Schobab, Natan, Salomo,
+<sup>15</sup>Jibhar, Elischua, Nefeg, Jafia,
+<sup>16</sup>Elischama, Eljada und Elifelet.
+
+> **Was bedeutet das?**
+> Tyrus war eine reiche Handelsstadt am Meer, im heutigen Libanon. Die Leute dort waren berühmt für ihre Baukunst. Das Zedernholz aus dem Libanon war das beste Bauholz.
+> Andere Könige erkennen David jetzt an. Er wird ein angesehener König.
+> Vers 12 ist wichtig: David versteht, dass Gott ihn nicht für sich selbst groß gemacht hat, sondern „um seines Volkes willen“. Ein König ist für das Volk da.
+> Wieder nimmt David noch mehr Frauen. Das war bei Königen üblich, aber das Gesetz warnte davor (5. Mose 17,17).
+> Unter den Söhnen sind Natan und Salomo. Salomo wird der nächste König. Im Lukasevangelium wird der Stammbaum von Jesus über Natan geführt (Lukas 3,31), im Matthäusevangelium über Salomo (Matthäus 1,6).
+
+---
+
+### Zwei Siege über die Philister (Vers 17–25)
+
+<sup>17</sup>Als die Philister hörten, dass man David zum König über Israel gesalbt hatte,
+zogen alle Philister herauf, um David zu suchen.
+Aber David hörte davon und ging hinab in die Bergfestung.
+<sup>18</sup>Die Philister waren gekommen und breiteten sich im Tal Refaïm aus.
+<sup>19</sup>David befragte den HERRN und sagte:
+„Soll ich gegen die Philister hinaufziehen?
+Wirst du sie in meine Hand geben?“
+Der HERR sagte zu David:
+„Zieh hinauf.
+Denn ich werde die Philister ganz sicher in deine Hand geben.“
+<sup>20</sup>David kam nach Baal-Perazim,
+und David schlug sie dort.
+Dann sagte er:
+„Der HERR hat meine Feinde vor mir durchbrochen,
+wie Wasser einen Damm durchbricht.“
+Darum nannte er diesen Ort Baal-Perazim.
+<sup>21</sup>Sie ließen dort ihre Götterbilder zurück,
+und David und seine Männer nahmen sie weg.
+
+<sup>22</sup>Die Philister zogen noch einmal herauf
+und breiteten sich im Tal Refaïm aus.
+<sup>23</sup>Als David den HERRN befragte, sagte er:
+„Du sollst nicht hinaufziehen.
+Geh im Bogen hinter sie
+und greif sie gegenüber von den Maulbeerbäumen an.
+<sup>24</sup>Wenn du in den Wipfeln der Maulbeerbäume das Geräusch von Schritten hörst,
+dann beeil dich.
+Denn dann ist der HERR vor dir ausgezogen,
+um das Heer der Philister zu schlagen.“
+<sup>25</sup>David machte es so, wie der HERR es ihm befohlen hatte.
+Und er schlug die Philister von Geba bis nach Geser.
+
+> **Was bedeutet das?**
+> Solange David nur über Juda regierte, ließen die Philister ihn in Ruhe. Jetzt, wo er ganz Israel vereint, sehen sie in ihm eine Gefahr.
+> Das Tal Refaïm liegt südwestlich von Jerusalem.
+> „Baal-Perazim“ heißt „Herr der Durchbrüche“. Gott bricht durch die Feinde wie eine Flut durch einen Damm.
+> Die Philister lassen ihre Götterbilder zurück. Erinnern wir uns: Früher hatten die Philister die Lade Gottes erbeutet (1. Samuel 4). Jetzt ist es umgekehrt.
+> Beim zweiten Mal gibt Gott eine andere Anweisung. David fragt jedes Mal neu. Er verlässt sich nicht auf seine Erfahrung, sondern auf Gottes Führung.
+> In der englischen Vorlage steht „Maulbeerbäume“. Welche Bäume genau gemeint sind, weiß man nicht sicher. Das Rauschen in den Bäumen ist das Zeichen: Gottes Heer zieht vor David her.
+
+## 2. Samuel – Kapitel 6
+#### Die Lade kommt nach Jerusalem
+
+---
+
+### Der neue Wagen (Vers 1–5)
+
+<sup>1</sup>David versammelte wieder alle ausgewählten Männer Israels, 30 000 Mann.
+<sup>2</sup>David machte sich auf und zog mit dem ganzen Volk, das bei ihm war, von Baale-Juda los,
+um von dort die Lade Gottes hinaufzubringen,
+über der der Name genannt wird,
+der Name des HERRN der Heere, der über den Cherubim thront.
+<sup>3</sup>Sie stellten die Lade Gottes auf einen neuen Wagen
+und brachten sie aus dem Haus Abinadabs, das auf dem Hügel lag.
+Und Usa und Achjo, die Söhne Abinadabs, lenkten den neuen Wagen.
+<sup>4</sup>Sie brachten ihn aus dem Haus Abinadabs, das auf dem Hügel lag, mit der Lade Gottes.
+Und Achjo ging vor der Lade her.
+<sup>5</sup>David und das ganze Haus Israel spielten vor dem HERRN
+mit allerlei Instrumenten aus Zypressenholz,
+mit Harfen, mit Saiteninstrumenten, mit Tamburinen,
+mit Rasseln und mit Zimbeln.
+
+> **Was bedeutet das?**
+> Jerusalem ist jetzt die Hauptstadt. Jetzt soll dort auch Gott seinen Platz haben. David will die Bundeslade holen, das Zeichen von Gottes Gegenwart.
+> Die Lade stand seit vielen Jahren im Haus Abinadabs in Kirjat-Jearim (1. Samuel 7,1–2). „Baale-Juda“ ist ein anderer Name für diesen Ort.
+> Es ist ein riesiges Fest mit Musik und Freude.
+> Aber es gibt ein Problem: Sie transportieren die Lade auf einem Wagen. So hatten es die Philister gemacht (1. Samuel 6). Das Gesetz sagte aber: Die Lade soll von Leviten an Stangen getragen werden (4. Mose 4,15; 2. Mose 25,14).
+
+---
+
+### Usa stirbt (Vers 6–11)
+
+<sup>6</sup>Als sie zur Tenne von Nachon kamen,
+streckte Usa seine Hand nach der Lade Gottes aus und hielt sie fest,
+denn die Rinder stolperten.
+<sup>7</sup>Da entbrannte der Zorn des HERRN gegen Usa.
+Und Gott schlug ihn dort wegen seines Vergehens.
+Und er starb dort bei der Lade Gottes.
+<sup>8</sup>David war verärgert, weil der HERR gegen Usa losgebrochen war.
+Und er nannte diesen Ort Perez-Usa, bis zum heutigen Tag.
+<sup>9</sup>An diesem Tag bekam David Angst vor dem HERRN.
+Er sagte:
+„Wie kann die Lade des HERRN zu mir kommen?“
+<sup>10</sup>Darum wollte David die Lade des HERRN nicht zu sich in die Stadt Davids bringen.
+Sondern David ließ sie zur Seite bringen, in das Haus von Obed-Edom aus Gat.
+<sup>11</sup>Die Lade des HERRN blieb drei Monate im Haus von Obed-Edom aus Gat.
+Und der HERR segnete Obed-Edom und sein ganzes Haus.
+
+> **Was bedeutet das?**
+> Das ist eine schwer verständliche Geschichte. Usa meint es gut. Er will verhindern, dass die Lade herunterfällt. Und trotzdem stirbt er.
+> Viele Ausleger erklären es so: Die Heiligkeit Gottes ist kein Spielzeug. Die Lade durfte nur auf die vorgeschriebene Weise getragen und nicht berührt werden (4. Mose 4,15). Das Problem fing schon damit an, dass man die Lade auf einen Wagen stellte, statt sie tragen zu lassen. David selbst hat das später erkannt (1. Chronik 15,13).
+> Die Geschichte bleibt trotzdem schwer. Auch David ist verärgert und erschrocken. Die Bibel erlaubt es, solche Fragen und Gefühle zu haben.
+> „Perez-Usa“ heißt „Durchbruch gegen Usa“. Es ist dasselbe Wort wie bei „Baal-Perazim“ in Kapitel 5,20. Gott bricht durch, gegen die Feinde, aber auch gegen die eigenen Leute, wenn sie ihn nicht ernst nehmen.
+> Obed-Edom ist ein Mann aus Gat, vielleicht sogar ein Philister. Ausgerechnet er bekommt den Segen der Lade. Gottes Gegenwart bringt nicht nur Gefahr, sondern auch großen Segen.
+
+---
+
+### David tanzt vor dem HERRN (Vers 12–19)
+
+<sup>12</sup>Man erzählte dem König David:
+„Der HERR hat das Haus von Obed-Edom gesegnet und alles, was ihm gehört,
+wegen der Lade Gottes.“
+Da ging David hin und brachte die Lade Gottes mit Freude
+aus dem Haus von Obed-Edom hinauf in die Stadt Davids.
+<sup>13</sup>Als die, die die Lade des HERRN trugen, sechs Schritte gegangen waren,
+opferte er einen Stier und ein Mastkalb.
+<sup>14</sup>David tanzte mit aller Kraft vor dem HERRN.
+Und David war mit einem leinenen Efod bekleidet.
+<sup>15</sup>So brachten David und das ganze Haus Israel die Lade des HERRN hinauf,
+mit Jubelgeschrei und mit dem Schall des Horns.
+<sup>16</sup>Als die Lade des HERRN in die Stadt Davids kam,
+schaute Michal, die Tochter Sauls, durch das Fenster
+und sah den König David vor dem HERRN springen und tanzen.
+Und sie verachtete ihn in ihrem Herzen.
+<sup>17</sup>Sie brachten die Lade des HERRN hinein
+und stellten sie an ihren Platz, mitten in das Zelt, das David für sie aufgeschlagen hatte.
+Und David brachte vor dem HERRN Brandopfer und Friedensopfer dar.
+<sup>18</sup>Als David mit den Brandopfern und den Friedensopfern fertig war,
+segnete er das Volk im Namen des HERRN der Heere.
+<sup>19</sup>Er verteilte an das ganze Volk, an die ganze Menge Israels, an Männer und Frauen,
+an jeden ein Stück Brot, Datteln und Rosinen.
+Dann ging das ganze Volk nach Hause, jeder in sein Haus.
+
+> **Was bedeutet das?**
+> Diesmal wird die Lade getragen, nicht gefahren. Nach sechs Schritten wird geopfert. Alles geschieht mit Ehrfurcht.
+> David tanzt „mit aller Kraft“. Er ist so voller Freude über Gottes Gegenwart, dass er seine königliche Würde vergisst. Er trägt kein Königsgewand, sondern ein einfaches leinenes Priestergewand.
+> Das ist ein schönes Bild: Glaube darf fröhlich sein. Man darf Gott mit dem ganzen Körper loben, mit Musik und Tanz.
+> Aber Michal schaut vom Fenster aus zu. Sie feiert nicht mit. Sie verachtet David. Sie ist die „Tochter Sauls“, so nennt der Text sie hier, nicht „die Frau Davids“.
+> David segnet das Volk und verteilt Essen an alle, Männer und Frauen. Es ist ein Fest für das ganze Volk.
+> Die genaue Bedeutung der hebräischen Wörter für „Datteln“ und „Rosinen“ ist unsicher. Viele deutsche Bibeln übersetzen „Dattelkuchen“ und „Rosinenkuchen“.
+
+---
+
+### Michal und David (Vers 20–23)
+
+<sup>20</sup>Dann kehrte David zurück, um sein Haus zu segnen.
+Michal, die Tochter Sauls, kam heraus, David entgegen, und sagte:
+„Wie herrlich hat sich heute der König von Israel gezeigt,
+der sich heute vor den Augen der Mägde seiner Knechte entblößt hat,
+wie sich einer von den Nichtsnutzen schamlos entblößt!“
+<sup>21</sup>David sagte zu Michal:
+„Es war vor dem HERRN,
+der mich lieber erwählt hat als deinen Vater und sein ganzes Haus,
+um mich zum Fürsten über das Volk des HERRN, über Israel, zu machen.
+Darum will ich vor dem HERRN feiern.
+<sup>22</sup>Ich will mich noch geringer machen als dieses Mal
+und in meinen eigenen Augen niedrig sein.
+Aber bei den Mägden, von denen du gesprochen hast,
+bei denen werde ich geehrt sein.“
+<sup>23</sup>Und Michal, die Tochter Sauls, hatte kein Kind bis zum Tag ihres Todes.
+
+> **Was bedeutet das?**
+> Michal macht sich über David lustig. Sie findet, ein König sollte würdevoll sein, nicht wild tanzen. Das kurze leinene Gewand hatte beim Tanzen wohl viel gezeigt.
+> David antwortet: Ich habe nicht für die Menschen getanzt, sondern für Gott. Vor Gott ist es nicht peinlich, sich klein zu machen.
+> Hinter dem Streit steckt aber auch mehr: Michal ist gegen ihren Willen von ihrem zweiten Mann weggeholt worden (Kapitel 3,15–16). Sie hatte David einmal geliebt (1. Samuel 18,20). Jetzt ist von dieser Liebe nichts mehr übrig. David erinnert sie hart daran, dass Gott ihren Vater verworfen hat.
+> Vers 23 ist ein trauriges Ende: Michal bekommt kein Kind. Damit gibt es keinen Nachkommen, in dem Sauls und Davids Familie vereint wären. Ob das eine Strafe Gottes war oder ob David sich von ihr fernhielt, sagt der Text nicht.
