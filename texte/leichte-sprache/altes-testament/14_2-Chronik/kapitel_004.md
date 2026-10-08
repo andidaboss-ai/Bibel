@@ -75,7 +75,7 @@ sodass man das Gewicht der Bronze nicht feststellen konnte.
 
 > **Was bedeutet das?**
 > Huram-Abi, der Künstler aus Tyrus, machte die Geräte aus Bronze.
-> Gegossen wurde in der Jordanebene, wo es den richtigen Lehm für die Gussformen gab. Archäologen haben in dieser Gegend Spuren von alter Metallverarbeitung gefunden.
+> Gegossen wurde in der Jordanebene, wo es den richtigen Lehm für die Gussformen gab.
 > „Kugelförmige Kapitelle“: Im Hebräischen steht ein Wort für „Schalen“ oder „Kugeln“.
 
 ---
