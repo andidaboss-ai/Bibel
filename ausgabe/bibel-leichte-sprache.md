@@ -39814,3 +39814,596 @@ Dann kehrten David und das ganze Volk nach Jerusalem zurück.
 > In der Bibel steht „ein Talent Gold“. Ein Talent waren etwa 34 Kilogramm. Eine so schwere Krone konnte man kaum tragen. Vielleicht wurde sie nur kurz bei einer Feier aufgesetzt. Manche Ausleger meinen, die Krone gehörte zu einer Götterstatue: Das hebräische Wort für „ihr König“ (malkam) klingt wie „Milkom“, der Gott der Ammoniter.
 > Vers 31: Die besiegten Ammoniter mussten Zwangsarbeit leisten. Ältere Übersetzungen verstanden den Vers so, dass David sie mit Sägen und Äxten grausam tötete. Die englische Vorlage und viele neue Übersetzungen verstehen ihn als Zwangsarbeit.
 > Das Kapitel endet mit einem Sieg. Aber nach dem, was vorher geschah, schmeckt dieser Sieg bitter. Davids Familie wird von nun an das Schwert nicht mehr loswerden.
+
+## 2. Samuel – Kapitel 13
+#### Amnon, Tamar und Absalom
+
+---
+
+### Amnons böser Plan (Vers 1–7)
+
+<sup>1</sup>Danach geschah Folgendes:
+Absalom, der Sohn Davids, hatte eine schöne Schwester, deren Name war Tamar.
+Und Amnon, der Sohn Davids, liebte sie.
+<sup>2</sup>Amnon war so bedrückt, dass er krank wurde wegen seiner Schwester Tamar.
+Denn sie war eine Jungfrau,
+und es schien Amnon unmöglich, ihr etwas anzutun.
+<sup>3</sup>Aber Amnon hatte einen Freund, der hieß Jonadab, der Sohn von Schima, dem Bruder Davids.
+Und Jonadab war ein sehr listiger Mann.
+<sup>4</sup>Er sagte zu ihm:
+„Warum bist du, Sohn des Königs, jeden Tag so elend?
+Willst du es mir nicht sagen?“
+Amnon sagte zu ihm:
+„Ich liebe Tamar, die Schwester meines Bruders Absalom.“
+<sup>5</sup>Jonadab sagte zu ihm:
+„Leg dich auf dein Bett und stell dich krank.
+Wenn dann dein Vater kommt, um nach dir zu sehen, sag zu ihm:
+‚Lass doch meine Schwester Tamar kommen und mir Brot zu essen geben.
+Sie soll das Essen vor meinen Augen zubereiten,
+damit ich zusehe und aus ihrer Hand esse.‘“
+<sup>6</sup>So legte sich Amnon hin und stellte sich krank.
+Als der König kam, um nach ihm zu sehen, sagte Amnon zum König:
+„Lass doch meine Schwester Tamar kommen
+und ein paar Kuchen vor meinen Augen machen,
+damit ich aus ihrer Hand esse.“
+<sup>7</sup>Da schickte David zu Tamar ins Haus und ließ ihr sagen:
+„Geh doch in das Haus deines Bruders Amnon und bereite ihm Essen zu.“
+
+> **Was bedeutet das?**
+> Hier beginnt das Unheil in Davids Familie, das Natan angekündigt hatte (Kapitel 12,10–11).
+> Amnon ist Davids ältester Sohn. Tamar ist seine Halbschwester, die Schwester von Absalom. Sie haben denselben Vater, aber verschiedene Mütter.
+> Amnon nennt es „Liebe“. Aber was er fühlt, ist keine Liebe. Es ist Begierde. Echte Liebe will das Gute für den anderen. Amnon will nur haben.
+> Jonadab, ein Cousin, hilft ihm mit einem hinterhältigen Plan. Und David selbst schickt seine Tochter ahnungslos in die Falle.
+
+---
+
+### Amnon vergewaltigt Tamar (Vers 8–14)
+
+<sup>8</sup>Da ging Tamar in das Haus ihres Bruders Amnon.
+Er lag im Bett.
+Sie nahm Teig, knetete ihn, machte Kuchen vor seinen Augen
+und backte die Kuchen.
+<sup>9</sup>Sie nahm die Pfanne und schüttete sie vor ihm aus.
+Aber er weigerte sich zu essen.
+Amnon sagte:
+„Alle sollen von mir hinausgehen.“
+Da gingen alle von ihm hinaus.
+<sup>10</sup>Amnon sagte zu Tamar:
+„Bring das Essen in die Kammer, damit ich aus deiner Hand esse.“
+Tamar nahm die Kuchen, die sie gemacht hatte,
+und brachte sie ihrem Bruder Amnon in die Kammer.
+<sup>11</sup>Als sie sie ihm hinhielt, damit er esse,
+packte er sie und sagte zu ihr:
+„Komm, schlaf mit mir, meine Schwester!“
+<sup>12</sup>Sie antwortete ihm:
+„Nein, mein Bruder, tu mir keine Gewalt an!
+Denn so etwas darf in Israel nicht geschehen.
+Tu diese Schandtat nicht!
+<sup>13</sup>Und ich, wohin sollte ich mit meiner Schande gehen?
+Und du, du wärst wie einer der Narren in Israel.
+Rede doch jetzt mit dem König.
+Denn er wird mich dir nicht verweigern.“
+<sup>14</sup>Aber er wollte nicht auf ihre Stimme hören.
+Er war stärker als sie, tat ihr Gewalt an und schlief mit ihr.
+
+> **Was bedeutet das?**
+> Hier wird ein schreckliches Verbrechen erzählt: Amnon vergewaltigt seine Schwester. Die Bibel beschreibt es klar und ohne Beschönigung.
+> Tamar wehrt sich mit allen Worten, die sie hat. Sie sagt klar: Nein. Sie nennt es Gewalt und Schandtat. Sie denkt an ihre Zukunft und sogar an seine. Sie sucht einen Ausweg. Sie ist klug und mutig. Aber er hört nicht. Er nutzt seine Kraft aus.
+> Die Bibel stellt sich hier deutlich auf die Seite des Opfers. Tamar trifft keine Schuld.
+> „Er wird mich dir nicht verweigern“: Vielleicht hofft Tamar, Zeit zu gewinnen. Später verbot das Gesetz eine Ehe zwischen Halbgeschwistern (3. Mose 18,9).
+> Wenn du selbst Gewalt erlebt hast: Du bist nicht schuld. Du darfst Hilfe suchen. In Deutschland erreichst du das Hilfetelefon „Gewalt gegen Frauen“ Tag und Nacht kostenlos unter 116 016. Das Hilfetelefon Sexueller Missbrauch erreichst du kostenlos unter 0800 22 55 530.
+
+---
+
+### Tamar wird verstoßen (Vers 15–20)
+
+<sup>15</sup>Danach hasste Amnon sie mit einem sehr großen Hass.
+Der Hass, mit dem er sie hasste, war größer als die Liebe, mit der er sie geliebt hatte.
+Amnon sagte zu ihr:
+„Steh auf, verschwinde!“
+<sup>16</sup>Sie sagte zu ihm:
+„Nein, denn dieses große Unrecht, mich wegzuschicken,
+ist noch schlimmer als das andere, das du mir angetan hast!“
+Aber er wollte nicht auf sie hören.
+<sup>17</sup>Da rief er seinen Diener, der ihn bediente, und sagte:
+„Schafft diese da von mir hinaus und verriegelt die Tür hinter ihr.“
+<sup>18</sup>Sie trug ein buntes Gewand.
+Denn solche Gewänder trugen die Töchter des Königs, die Jungfrauen waren.
+Sein Diener brachte sie hinaus und verriegelte die Tür hinter ihr.
+<sup>19</sup>Tamar streute Asche auf ihren Kopf
+und zerriss das bunte Gewand, das sie trug.
+Sie legte ihre Hand auf ihren Kopf
+und ging davon und schrie laut beim Gehen.
+<sup>20</sup>Ihr Bruder Absalom sagte zu ihr:
+„Ist dein Bruder Amnon bei dir gewesen?
+Jetzt aber schweig, meine Schwester.
+Er ist dein Bruder.
+Nimm dir diese Sache nicht zu Herzen.“
+So blieb Tamar einsam und verlassen im Haus ihres Bruders Absalom.
+
+> **Was bedeutet das?**
+> Nach der Tat schlägt Amnons „Liebe“ in Hass um. Das zeigt, dass es nie Liebe war.
+> Er wirft sie hinaus wie Abfall. Er nennt sie nicht einmal beim Namen, sondern „diese da“.
+> Tamar trägt Zeichen tiefer Trauer: Asche auf dem Kopf, das zerrissene Gewand. Sie schreit laut. Sie schweigt nicht. Sie macht das Unrecht öffentlich.
+> Absalom sagt zu ihr: „Schweig.“ Er meint es vielleicht gut, er will sie schützen. Aber für Tamar bedeutet es: Ihr Schmerz soll versteckt werden. Leider erleben Opfer von Gewalt bis heute oft, dass man von ihnen verlangt zu schweigen.
+> „Einsam und verlassen“: Tamar hat keine Zukunft mehr. Sie wird nie heiraten. Ihr Leben ist zerstört. Die Bibel sagt danach kein Wort mehr über sie. Aber sie hat ihre Geschichte festgehalten, damit sie nicht vergessen wird.
+
+---
+
+### David schweigt, Absalom hasst (Vers 21–22)
+
+<sup>21</sup>Als aber der König David von all dem hörte, wurde er sehr zornig.
+<sup>22</sup>Absalom redete mit Amnon weder Gutes noch Böses.
+Denn Absalom hasste Amnon,
+weil er seiner Schwester Tamar Gewalt angetan hatte.
+
+> **Was bedeutet das?**
+> David wird zornig. Aber er tut nichts. Er bestraft Amnon nicht. Eine alte Handschrift vom Toten Meer und die alte griechische Übersetzung sagen auch, warum: „Er wollte Amnon nicht wehtun, denn er liebte ihn, weil er sein Erstgeborener war.“
+> Vielleicht fühlt David sich auch selbst schuldig, nach dem, was er mit Batseba getan hat. Wie soll er einen anderen bestrafen?
+> Weil der Vater schweigt, nimmt Absalom das Recht in die eigene Hand. Er schweigt auch, aber in ihm wächst der Hass. Wenn Unrecht nicht gerecht bestraft wird, führt es oft zu neuer Gewalt.
+
+---
+
+### Absaloms Rache (Vers 23–29)
+
+<sup>23</sup>Nach zwei vollen Jahren
+hatte Absalom Schafscherer in Baal-Hazor, das bei Efraim liegt.
+Und Absalom lud alle Söhne des Königs ein.
+<sup>24</sup>Absalom kam zum König und sagte:
+„Schau doch, dein Knecht hat Schafscherer.
+Der König und seine Knechte mögen doch mit deinem Knecht gehen.“
+<sup>25</sup>Der König sagte zu Absalom:
+„Nein, mein Sohn, wir wollen nicht alle gehen,
+damit wir dir nicht zur Last fallen.“
+Er drängte ihn, aber er wollte nicht gehen, sondern er segnete ihn.
+<sup>26</sup>Da sagte Absalom:
+„Wenn nicht, dann lass doch meinen Bruder Amnon mit uns gehen.“
+Der König sagte zu ihm:
+„Warum soll er mit dir gehen?“
+<sup>27</sup>Aber Absalom drängte ihn.
+Da ließ er Amnon und alle Söhne des Königs mit ihm gehen.
+<sup>28</sup>Absalom befahl seinen Knechten:
+„Passt auf!
+Wenn Amnons Herz vom Wein fröhlich ist
+und ich zu euch sage: ‚Schlagt Amnon!‘,
+dann tötet ihn.
+Habt keine Angst.
+Habe ich es euch nicht befohlen?
+Seid stark und tapfer!“
+<sup>29</sup>Die Knechte Absaloms taten mit Amnon, wie Absalom befohlen hatte.
+Da standen alle Söhne des Königs auf,
+jeder stieg auf sein Maultier, und sie flohen.
+
+> **Was bedeutet das?**
+> Absalom wartet zwei Jahre. Er plant seine Rache genau. Beim Fest der Schafschur, wenn alle feiern und Wein trinken, lässt er Amnon töten.
+> David ahnt etwas: „Warum soll er mit dir gehen?“ Aber er lässt es trotzdem zu.
+> Amnon hat ein schweres Verbrechen begangen. Aber auch Absaloms Rache ist ein Verbrechen: Mord. Die Bibel zeigt, wie Gewalt immer neue Gewalt erzeugt.
+> Jetzt erfüllt sich Natans Wort: „Das Schwert soll nicht von deinem Haus weichen.“ Davids Sohn wird von Davids Sohn ermordet.
+
+---
+
+### Falsche Nachricht und große Trauer (Vers 30–39)
+
+<sup>30</sup>Während sie noch auf dem Weg waren,
+kam die Nachricht zu David:
+„Absalom hat alle Söhne des Königs erschlagen,
+und nicht einer von ihnen ist übrig geblieben!“
+<sup>31</sup>Da stand der König auf, zerriss seine Kleider
+und legte sich auf die Erde.
+Und alle seine Knechte standen mit zerrissenen Kleidern dabei.
+<sup>32</sup>Jonadab, der Sohn von Schima, dem Bruder Davids, sagte:
+„Mein Herr soll nicht glauben, dass sie alle jungen Männer, die Söhne des Königs, getötet haben.
+Denn nur Amnon ist tot.
+Denn auf Befehl von Absalom war das beschlossen
+seit dem Tag, an dem er seiner Schwester Tamar Gewalt angetan hat.
+<sup>33</sup>Darum soll mein Herr, der König, sich die Sache nicht zu Herzen nehmen
+und denken, dass alle Söhne des Königs tot sind.
+Denn nur Amnon ist tot.“
+<sup>34</sup>Aber Absalom floh.
+Der junge Mann, der Wache hielt, blickte auf und sah,
+und schau: Viele Leute kamen auf dem Weg am Hang hinter ihm.
+<sup>35</sup>Jonadab sagte zum König:
+„Schau, die Söhne des Königs kommen!
+Es ist so, wie dein Knecht gesagt hat.“
+<sup>36</sup>Kaum hatte er zu Ende geredet,
+schau, da kamen die Söhne des Königs.
+Sie erhoben ihre Stimme und weinten.
+Auch der König und alle seine Knechte weinten sehr bitterlich.
+<sup>37</sup>Aber Absalom floh und ging zu Talmai, dem Sohn von Ammihur, dem König von Geschur.
+Und David trauerte um seinen Sohn alle Tage.
+<sup>38</sup>So floh Absalom und ging nach Geschur und war dort drei Jahre.
+<sup>39</sup>Und der König David sehnte sich danach, zu Absalom hinauszugehen.
+Denn er hatte sich über Amnon getröstet, weil er tot war.
+
+> **Was bedeutet das?**
+> Jonadab, der Amnon den bösen Plan gegeben hatte, weiß auch jetzt Bescheid. Er wusste offenbar schon lange, dass Absalom sich rächen würde. Er hat nichts verhindert.
+> Absalom flieht zu seinem Großvater Talmai, dem König von Geschur (Kapitel 3,3). Geschur lag nordöstlich vom See Genezareth.
+> David trauert lange. Um wen? Um Amnon, der tot ist? Um Absalom, der weg ist? Wohl um beide.
+> Vers 39 ist im Hebräischen nicht ganz klar. Er kann auch bedeuten: „Davids Zorn gegen Absalom ließ nach.“ David vermisst seinen Sohn trotz allem.
+
+## 2. Samuel – Kapitel 14
+#### Absalom kehrt zurück
+
+---
+
+### Die kluge Frau aus Tekoa (Vers 1–11)
+
+<sup>1</sup>Joab, der Sohn der Zeruja, merkte, dass das Herz des Königs sich nach Absalom sehnte.
+<sup>2</sup>Da schickte Joab nach Tekoa und ließ von dort eine kluge Frau holen.
+Er sagte zu ihr:
+„Stell dich doch, als würdest du trauern.
+Zieh Trauerkleider an und salbe dich nicht mit Öl.
+Sei wie eine Frau, die schon lange um einen Toten trauert.
+<sup>3</sup>Geh zum König hinein und rede so mit ihm.“
+Und Joab legte ihr die Worte in den Mund.
+<sup>4</sup>Als die Frau aus Tekoa mit dem König redete,
+fiel sie auf ihr Gesicht zur Erde, erwies ihm Ehre und sagte:
+„Hilf, König!“
+<sup>5</sup>Der König sagte zu ihr:
+„Was hast du?“
+Sie antwortete:
+„Ach, ich bin eine Witwe, und mein Mann ist tot.
+<sup>6</sup>Deine Magd hatte zwei Söhne.
+Die beiden stritten miteinander auf dem Feld,
+und niemand war da, der sie trennte.
+Da schlug der eine den anderen und tötete ihn.
+<sup>7</sup>Und schau, die ganze Sippe ist gegen deine Magd aufgestanden.
+Sie sagen:
+‚Gib den heraus, der seinen Bruder erschlagen hat,
+damit wir ihn töten für das Leben seines Bruders, den er getötet hat.
+So vernichten wir auch den Erben.‘
+So wollen sie meine letzte Glut auslöschen, die mir geblieben ist,
+und meinem Mann weder Namen noch Nachkommen auf der Erde lassen.“
+<sup>8</sup>Der König sagte zu der Frau:
+„Geh in dein Haus.
+Ich will deinetwegen einen Befehl geben.“
+<sup>9</sup>Die Frau aus Tekoa sagte zum König:
+„Mein Herr und König, die Schuld soll auf mir und auf dem Haus meines Vaters liegen.
+Der König und sein Thron sollen ohne Schuld sein.“
+<sup>10</sup>Der König sagte:
+„Wer etwas gegen dich sagt, den bring zu mir.
+Dann wird er dich nicht mehr belästigen.“
+<sup>11</sup>Da sagte sie:
+„Der König möge doch an den HERRN, deinen Gott, denken,
+damit der Bluträcher nicht noch mehr Unheil anrichtet
+und sie meinen Sohn nicht vernichten.“
+Er sagte:
+„So wahr der HERR lebt:
+Kein Haar deines Sohnes soll auf die Erde fallen.“
+
+> **Was bedeutet das?**
+> Joab merkt, dass David Absalom vermisst. Er will den Streit beenden, vielleicht auch, weil Absalom der wahrscheinliche Thronfolger ist.
+> Er benutzt eine List, ähnlich wie Natan in Kapitel 12. Eine kluge Frau erzählt dem König eine erfundene Geschichte. David soll ein Urteil sprechen, das dann auch für ihn selbst gilt.
+> Tekoa war ein Dorf südlich von Betlehem. Später kam der Prophet Amos von dort.
+> Die Geschichte der Frau ähnelt Davids Lage: Ein Sohn hat seinen Bruder getötet. Nach dem Recht der Blutrache müsste er sterben. Aber dann hätte die Mutter keinen Sohn mehr.
+> „Meine letzte Glut“ ist ein schönes Bild: Ihr letzter Sohn ist wie das letzte glühende Stück Kohle im Feuer. Wenn es ausgeht, ist alles dunkel.
+> David verspricht der Frau: Deinem Sohn soll nichts geschehen.
+
+---
+
+### Die Frau deckt ihr Anliegen auf (Vers 12–20)
+
+<sup>12</sup>Da sagte die Frau:
+„Lass doch deine Magd ein Wort zu meinem Herrn, dem König, sagen.“
+Er sagte: „Sprich.“
+<sup>13</sup>Die Frau sagte:
+„Warum hast du dann so etwas gegen das Volk Gottes ausgedacht?
+Denn mit diesem Wort, das der König gesprochen hat, ist er wie einer, der schuldig ist,
+weil der König seinen Verbannten nicht zurückholt.
+<sup>14</sup>Denn wir müssen alle sterben
+und sind wie Wasser, das auf die Erde geschüttet wird
+und das man nicht wieder sammeln kann.
+Aber Gott nimmt das Leben nicht weg,
+sondern er denkt sich Wege aus,
+damit der Verbannte nicht von ihm verstoßen bleibt.
+<sup>15</sup>Und jetzt bin ich gekommen, um diese Worte zu meinem Herrn, dem König, zu sagen,
+weil das Volk mir Angst gemacht hat.
+Deine Magd dachte:
+‚Ich will jetzt mit dem König reden.
+Vielleicht wird der König die Bitte seiner Magd erfüllen.‘
+<sup>16</sup>Denn der König wird hören
+und seine Magd aus der Hand des Mannes retten,
+der mich und meinen Sohn zusammen aus dem Erbe Gottes vernichten will.
+<sup>17</sup>Dann dachte deine Magd:
+‚Das Wort meines Herrn, des Königs, soll mir Ruhe bringen.
+Denn wie ein Engel Gottes, so ist mein Herr, der König,
+um Gutes und Böses zu unterscheiden.
+Der HERR, dein Gott, sei mit dir.‘“
+
+<sup>18</sup>Da antwortete der König der Frau:
+„Verheimliche mir bitte nichts von dem, was ich dich frage.“
+Die Frau sagte:
+„Mein Herr, der König, möge sprechen.“
+<sup>19</sup>Der König sagte:
+„Ist die Hand Joabs bei all dem mit dir?“
+Die Frau antwortete:
+„So wahr du lebst, mein Herr und König:
+Niemand kann nach rechts oder links ausweichen von allem, was mein Herr, der König, sagt.
+Ja, dein Knecht Joab hat es mir befohlen,
+und er hat alle diese Worte deiner Magd in den Mund gelegt.
+<sup>20</sup>Dein Knecht Joab hat das getan, um der Sache ein anderes Gesicht zu geben.
+Aber mein Herr ist weise, wie mit der Weisheit eines Engels Gottes,
+sodass er alles weiß, was auf der Erde geschieht.“
+
+> **Was bedeutet das?**
+> Jetzt zeigt die Frau, worum es wirklich geht: König, du hast meinem Sohn Gnade erwiesen. Warum holst du dann deinen eigenen Sohn nicht zurück?
+> Vers 14 ist ein besonders schöner Satz: „Gott denkt sich Wege aus, damit der Verbannte nicht von ihm verstoßen bleibt.“ Gott will nicht, dass Menschen für immer verloren sind. Er sucht Wege, um sie zurückzuholen. Christen sehen darin einen Hinweis auf die Versöhnung, die Gott in Jesus geschaffen hat.
+> David durchschaut die List: Steckt Joab dahinter? Die Frau gibt es zu.
+> Sie schmeichelt dem König: Du bist weise wie ein Engel Gottes. Das ist höflich, aber auch ein wenig ironisch, denn David hat die List lange nicht gemerkt.
+
+---
+
+### Absalom darf zurück, aber nicht zum König (Vers 21–24)
+
+<sup>21</sup>Der König sagte zu Joab:
+„Schau doch, ich habe diese Sache gewährt.
+Geh also und bring den jungen Mann Absalom zurück.“
+<sup>22</sup>Joab fiel auf sein Gesicht zur Erde,
+erwies ihm Ehre und segnete den König.
+Joab sagte:
+„Heute erkennt dein Knecht, dass ich Gnade in deinen Augen gefunden habe,
+mein Herr und König,
+weil der König die Bitte seines Knechtes erfüllt hat.“
+<sup>23</sup>Da machte sich Joab auf, ging nach Geschur
+und brachte Absalom nach Jerusalem.
+<sup>24</sup>Der König sagte:
+„Er soll in sein eigenes Haus zurückkehren,
+aber mein Gesicht soll er nicht sehen.“
+So kehrte Absalom in sein eigenes Haus zurück
+und sah das Gesicht des Königs nicht.
+
+> **Was bedeutet das?**
+> David erlaubt Absalom die Rückkehr. Aber er will ihn nicht sehen. Das ist eine halbe Versöhnung.
+> Absalom ist wieder in Jerusalem, aber er ist immer noch ausgeschlossen. Er hat keine Strafe bekommen, aber auch keine echte Vergebung. Das ist gefährlich. Der Konflikt bleibt ungelöst.
+
+---
+
+### Der schöne Absalom (Vers 25–27)
+
+<sup>25</sup>In ganz Israel gab es keinen Mann, der wegen seiner Schönheit so gelobt wurde wie Absalom.
+Von der Fußsohle bis zum Scheitel war kein Makel an ihm.
+<sup>26</sup>Wenn er sein Haar schneiden ließ,
+– das tat er am Ende jedes Jahres, weil es ihm zu schwer wurde, darum schnitt er es ab –,
+dann wog er sein Haar:
+etwa 2,3 Kilogramm nach dem Gewicht des Königs.
+<sup>27</sup>Absalom wurden drei Söhne geboren und eine Tochter, deren Name war Tamar.
+Sie war eine Frau mit einem schönen Gesicht.
+
+> **Was bedeutet das?**
+> Absalom ist schön wie Saul es war (1. Samuel 9,2). Und wie bei Saul ist die Schönheit äußerlich. Was in seinem Herzen ist, wird sich bald zeigen.
+> Sein dichtes, langes Haar ist sein Stolz. Später wird es ihm zum Verhängnis (Kapitel 18,9).
+> In der Bibel steht „200 Schekel“. Ein Schekel sind etwa 11 Gramm. Das ist sehr viel Haar. Die Zahl soll wohl zeigen, wie außergewöhnlich er war.
+> Absalom nennt seine Tochter Tamar, nach seiner Schwester. Das ist ein liebevolles Zeichen der Erinnerung an sie.
+> In Kapitel 18,18 sagt Absalom, er habe keinen Sohn. Vielleicht sind seine Söhne früh gestorben.
+
+---
+
+### Absalom zündet Joabs Feld an (Vers 28–33)
+
+<sup>28</sup>Absalom wohnte zwei volle Jahre in Jerusalem
+und sah das Gesicht des Königs nicht.
+<sup>29</sup>Da schickte Absalom zu Joab, um ihn zum König zu schicken.
+Aber er wollte nicht zu ihm kommen.
+Er schickte noch ein zweites Mal, aber er wollte nicht kommen.
+<sup>30</sup>Darum sagte er zu seinen Knechten:
+„Schaut, das Feld von Joab liegt neben meinem,
+und er hat dort Gerste.
+Geht hin und zündet es an.“
+Da zündeten die Knechte von Absalom das Feld an.
+<sup>31</sup>Da machte sich Joab auf, kam zu Absalom in sein Haus und sagte zu ihm:
+„Warum haben deine Knechte mein Feld angezündet?“
+<sup>32</sup>Absalom antwortete Joab:
+„Schau, ich habe zu dir geschickt und gesagt:
+‚Komm her, dann will ich dich zum König schicken und sagen lassen:
+„Wozu bin ich aus Geschur zurückgekommen?
+Es wäre besser für mich, wenn ich noch dort wäre.
+Jetzt also will ich das Gesicht des Königs sehen.
+Und wenn eine Schuld an mir ist, dann soll er mich töten.“‘“
+<sup>33</sup>Da ging Joab zum König und erzählte es ihm.
+Und er rief Absalom.
+Der kam zum König und verneigte sich vor dem König mit dem Gesicht zur Erde.
+Und der König küsste Absalom.
+
+> **Was bedeutet das?**
+> Zwei Jahre lang wartet Absalom. Dann verliert er die Geduld. Weil Joab nicht kommt, zündet er sein Feld an. Das zeigt Absaloms Charakter: Er setzt seinen Willen mit Gewalt durch.
+> Absalom sagt: Wenn ich schuldig bin, soll er mich töten. Er zeigt keine Reue für den Mord an Amnon. Er fordert nur sein Recht.
+> Am Ende küsst der König seinen Sohn. Es sieht aus wie eine Versöhnung. Aber es gibt kein Gespräch, keine Klärung, kein Wort über die Schuld. Und Absalom hat in seinem Herzen schon andere Pläne.
+
+## 2. Samuel – Kapitel 15
+#### Absaloms Aufstand und Davids Flucht
+
+---
+
+### Absalom stiehlt die Herzen (Vers 1–6)
+
+<sup>1</sup>Danach schaffte sich Absalom einen Wagen und Pferde an
+und fünfzig Männer, die vor ihm herliefen.
+<sup>2</sup>Absalom stand früh auf
+und stellte sich neben den Weg zum Tor.
+Wenn jemand einen Rechtsstreit hatte, mit dem er zum König kommen wollte, um ein Urteil zu bekommen,
+dann rief Absalom ihn zu sich und sagte:
+„Aus welcher Stadt bist du?“
+Er sagte:
+„Dein Knecht ist aus einem der Stämme Israels.“
+<sup>3</sup>Absalom sagte zu ihm:
+„Schau, deine Sache ist gut und richtig.
+Aber beim König gibt es niemanden, der dich anhört.“
+<sup>4</sup>Und Absalom sagte weiter:
+„Wenn ich doch Richter im Land wäre!
+Dann könnte jeder zu mir kommen, der einen Streit oder eine Rechtssache hat,
+und ich würde ihm zu seinem Recht verhelfen!“
+<sup>5</sup>Und wenn jemand herankam, um sich vor ihm zu verneigen,
+streckte er seine Hand aus, fasste ihn und küsste ihn.
+<sup>6</sup>So machte es Absalom mit ganz Israel, wer zum König kam, um ein Urteil zu bekommen.
+So stahl Absalom die Herzen der Männer Israels.
+
+> **Was bedeutet das?**
+> Absalom bereitet einen Umsturz vor. Mit Wagen, Pferden und Leibwache zeigt er sich wie ein König.
+> Er stellt sich ans Stadttor, wo die Menschen hinkamen, um Recht zu bekommen. Er sagt jedem: Du hast recht! Aber der König hört dich nicht. Wenn ich König wäre, wäre alles besser.
+> Er verspricht allen alles. Er ist freundlich, küsst die Leute, tut so, als wäre er einer von ihnen. Das ist die Methode von Verführern bis heute: Unzufriedenheit schüren, schmeicheln und große Versprechen machen.
+> „Er stahl die Herzen“: Er gewinnt die Menschen nicht ehrlich, sondern mit List.
+> Vielleicht hatte Absalom auch recht mit seiner Kritik. David scheint sich in dieser Zeit wenig um Recht im Land gekümmert zu haben. Das hatte David auch bei Amnon und Tamar nicht getan.
+
+---
+
+### Die Verschwörung in Hebron (Vers 7–12)
+
+<sup>7</sup>Nach vierzig Jahren sagte Absalom zum König:
+„Lass mich doch gehen
+und mein Gelübde in Hebron erfüllen, das ich dem HERRN gelobt habe.
+<sup>8</sup>Denn dein Knecht hat ein Gelübde abgelegt, als ich in Geschur in Syrien wohnte.
+Ich sagte:
+‚Wenn der HERR mich wirklich nach Jerusalem zurückbringt,
+dann will ich dem HERRN dienen.‘“
+<sup>9</sup>Der König sagte zu ihm:
+„Geh in Frieden.“
+Da machte er sich auf und ging nach Hebron.
+<sup>10</sup>Aber Absalom schickte heimliche Boten durch alle Stämme Israels und ließ sagen:
+„Sobald ihr den Klang des Horns hört,
+dann sagt: ‚Absalom ist König in Hebron!‘“
+<sup>11</sup>Mit Absalom gingen 200 Männer aus Jerusalem.
+Sie waren eingeladen und gingen ahnungslos mit.
+Sie wussten von nichts.
+<sup>12</sup>Absalom ließ Ahitofel, den Giloniter, Davids Ratgeber, aus seiner Stadt Gilo holen,
+während er die Opfer darbrachte.
+Die Verschwörung wurde stark,
+denn das Volk bei Absalom wurde immer zahlreicher.
+
+> **Was bedeutet das?**
+> „Nach vierzig Jahren“: So steht es im hebräischen Text und in der englischen Vorlage. Das passt aber nicht in Davids Lebenszeit. Einige alte Übersetzungen haben „nach vier Jahren“. Das passt besser.
+> Absalom lügt seinen Vater an. Er benutzt ein frommes Gelübde als Vorwand. David sagt „Geh in Frieden“, ohne zu ahnen, was sein Sohn vorhat. Es ist das letzte Wort, das David zu Absalom sagt.
+> Absalom wählt Hebron. Dort war David selbst zum ersten Mal König geworden. Absalom will Davids Geschichte wiederholen, gegen David.
+> Die 200 Männer, die ahnungslos mitgehen, sind wie Geiseln. Alle sollen denken, sie gehörten zu Absalom.
+> Ahitofel war Davids klügster Ratgeber. Dass er zu Absalom überläuft, ist ein schwerer Schlag. Vielleicht hatte er einen persönlichen Grund: Ahitofel war wohl der Großvater von Batseba (vergleiche Kapitel 11,3 und 23,34).
+
+---
+
+### David flieht aus Jerusalem (Vers 13–18)
+
+<sup>13</sup>Ein Bote kam zu David und sagte:
+„Die Herzen der Männer Israels sind hinter Absalom her.“
+<sup>14</sup>Da sagte David zu allen seinen Knechten, die bei ihm in Jerusalem waren:
+„Auf! Lasst uns fliehen!
+Sonst wird keiner von uns vor Absalom entkommen.
+Beeilt euch, wegzugehen,
+damit er uns nicht schnell einholt, Unheil über uns bringt
+und die Stadt mit der Schärfe des Schwertes schlägt.“
+<sup>15</sup>Die Knechte des Königs sagten zum König:
+„Schau, deine Knechte sind bereit, alles zu tun, was mein Herr, der König, wählt.“
+<sup>16</sup>Der König zog hinaus, und seine ganze Familie hinter ihm.
+Der König ließ zehn Frauen zurück, Nebenfrauen, um das Haus zu hüten.
+<sup>17</sup>Der König zog hinaus, und das ganze Volk hinter ihm.
+Und sie blieben in Bet-Merhak stehen.
+<sup>18</sup>Alle seine Knechte zogen an ihm vorbei,
+und alle Kreter und alle Pleter
+und alle Gatiter, 600 Mann, die ihm aus Gat gefolgt waren,
+zogen vor dem König vorbei.
+
+> **Was bedeutet das?**
+> David flieht sofort. Er will nicht, dass Jerusalem in einem Kampf zerstört wird. Er will kein Blutvergießen in der Stadt.
+> Der große König, der Jerusalem erobert hat, muss jetzt vor seinem eigenen Sohn fliehen.
+> Er lässt zehn Nebenfrauen zurück, um den Palast zu hüten. Das wird schlimme Folgen haben (Kapitel 16,21–22).
+> „Bet-Merhak“ heißt „das ferne Haus“. Gemeint ist wohl das letzte Haus am Stadtrand.
+> Davids treueste Leute sind seine ausländischen Söldner: Kreter, Pleter und Männer aus Gat.
+
+---
+
+### Ittais Treue (Vers 19–23)
+
+<sup>19</sup>Da sagte der König zu Ittai, dem Gatiter:
+„Warum willst auch du mit uns gehen?
+Kehr um und bleib beim König.
+Denn du bist ein Ausländer und auch aus deiner Heimat verbannt.
+Kehr an deinen Ort zurück.
+<sup>20</sup>Gestern erst bist du gekommen,
+und heute soll ich dich mit uns herumirren lassen?
+Ich gehe ja, wohin ich eben gehen kann.
+Kehr um und nimm deine Brüder mit dir zurück.
+Güte und Treue seien mit dir.“
+<sup>21</sup>Ittai antwortete dem König und sagte:
+„So wahr der HERR lebt, und so wahr mein Herr, der König, lebt:
+An dem Ort, wo mein Herr, der König, sein wird, ob zum Tod oder zum Leben,
+dort wird auch dein Knecht sein.“
+<sup>22</sup>Da sagte David zu Ittai:
+„Geh und zieh vorüber.“
+So zog Ittai, der Gatiter, vorüber,
+mit allen seinen Männern und allen Kindern, die bei ihm waren.
+<sup>23</sup>Das ganze Land weinte mit lauter Stimme,
+während das ganze Volk vorüberzog.
+Auch der König selbst zog über den Bach Kidron,
+und das ganze Volk zog weiter auf dem Weg zur Wüste.
+
+> **Was bedeutet das?**
+> Ittai ist ein Philister aus Gat, der Stadt Goliats. Er ist erst kurz bei David. David sagt: Du musst nicht mit mir ins Unglück gehen. Bleib beim neuen König.
+> Aber Ittai antwortet mit einem Schwur der Treue, der an Rut erinnert: „Wo du hingehst, da will ich auch hingehen“ (Rut 1,16–17). Ein Ausländer ist treuer als Davids eigener Sohn.
+> „Ob zum Tod oder zum Leben“: Ittai bleibt, egal was kommt.
+> Der Bach Kidron fließt im Tal östlich von Jerusalem. Viel später ging auch Jesus in der Nacht vor seinem Tod über den Bach Kidron zum Ölberg (Johannes 18,1). Er wurde auch von einem Vertrauten verraten.
+
+---
+
+### Die Lade bleibt in Jerusalem (Vers 24–29)
+
+<sup>24</sup>Und schau, auch Zadok kam und alle Leviten mit ihm.
+Sie trugen die Lade des Bundes Gottes.
+Sie stellten die Lade Gottes ab,
+und Abjatar stieg hinauf, bis das ganze Volk aus der Stadt hinausgezogen war.
+<sup>25</sup>Der König sagte zu Zadok:
+„Bring die Lade Gottes in die Stadt zurück.
+Wenn ich Gnade in den Augen des HERRN finde,
+dann wird er mich zurückbringen
+und mich sie und seine Wohnung wiedersehen lassen.
+<sup>26</sup>Wenn er aber sagt: ‚Ich habe kein Gefallen an dir‘,
+schau, hier bin ich.
+Er soll mit mir tun, was ihm gut erscheint.“
+<sup>27</sup>Der König sagte auch zu Zadok, dem Priester:
+„Bist du nicht ein Seher?
+Kehr in Frieden in die Stadt zurück,
+und deine beiden Söhne mit dir,
+Ahimaaz, dein Sohn, und Jonatan, der Sohn Abjatars.
+<sup>28</sup>Schaut, ich will an den Furten in der Wüste warten,
+bis eine Nachricht von euch kommt, um mich zu benachrichtigen.“
+<sup>29</sup>Da brachten Zadok und Abjatar die Lade Gottes nach Jerusalem zurück
+und blieben dort.
+
+> **Was bedeutet das?**
+> Die Priester wollen die Lade mitnehmen, als Zeichen, dass Gott auf Davids Seite ist. Aber David lehnt ab. Er hat aus der Geschichte gelernt: Die Lade ist kein Glücksbringer (1. Samuel 4).
+> David legt sein Schicksal ganz in Gottes Hände: „Er soll mit mir tun, was ihm gut erscheint.“ Das ist echtes Vertrauen. David will nicht mit Gewalt um seinen Thron kämpfen. Er wartet auf Gott.
+> Gleichzeitig ist David klug. Die Priester und ihre Söhne bleiben in Jerusalem und sollen ihm Nachrichten schicken.
+
+---
+
+### Auf dem Ölberg (Vers 30–37)
+
+<sup>30</sup>David ging den Ölberg hinauf
+und weinte, während er hinaufging.
+Er hatte seinen Kopf verhüllt und ging barfuß.
+Und alle Leute, die bei ihm waren, verhüllten jeder seinen Kopf
+und gingen hinauf und weinten, während sie hinaufgingen.
+<sup>31</sup>Man erzählte David:
+„Ahitofel ist unter den Verschwörern bei Absalom.“
+David sagte:
+„HERR, bitte mach den Rat Ahitofels zur Torheit.“
+<sup>32</sup>Als David auf den Gipfel kam, wo man Gott anbetete,
+schau, da kam ihm Huschai, der Arkiter, entgegen,
+mit zerrissenem Gewand und Erde auf seinem Kopf.
+<sup>33</sup>David sagte zu ihm:
+„Wenn du mit mir weiterziehst, wirst du mir eine Last sein.
+<sup>34</sup>Aber wenn du in die Stadt zurückkehrst und zu Absalom sagst:
+‚Ich will dein Knecht sein, König.
+So wie ich früher der Knecht deines Vaters war, so will ich jetzt dein Knecht sein‘,
+dann kannst du für mich den Rat Ahitofels zunichtemachen.
+<sup>35</sup>Sind nicht Zadok und Abjatar, die Priester, dort bei dir?
+Alles, was du aus dem Haus des Königs hörst,
+sollst du Zadok und Abjatar, den Priestern, erzählen.
+<sup>36</sup>Schau, sie haben dort ihre beiden Söhne bei sich,
+Ahimaaz, den Sohn Zadoks, und Jonatan, den Sohn Abjatars.
+Durch sie sollt ihr mir alles schicken, was ihr hört.“
+<sup>37</sup>So kam Huschai, Davids Freund, in die Stadt.
+Und Absalom kam nach Jerusalem.
+
+> **Was bedeutet das?**
+> David geht weinend, barfuß und mit verhülltem Kopf den Ölberg hinauf. Das sind Zeichen tiefer Trauer und Demütigung. Der König ist gebrochen.
+> Psalm 3 ist nach seiner Überschrift ein Gebet von David auf der Flucht vor Absalom: „HERR, wie sind meiner Feinde so viel! … Aber du, HERR, bist der Schild für mich.“
+> David betet ein kurzes Gebet: „Mach den Rat Ahitofels zur Torheit.“ Und sofort danach kommt Huschai. Er ist die Antwort auf Davids Gebet.
+> Huschai wird „Davids Freund“ genannt. Das war wohl ein Ehrentitel für einen engen Berater des Königs. Er soll zum Schein zu Absalom überlaufen und Ahitofels Pläne durchkreuzen.
+> Der letzte Vers zeigt die Spannung: Huschai kommt in die Stadt, und gleichzeitig kommt Absalom. Das Spiel beginnt.
