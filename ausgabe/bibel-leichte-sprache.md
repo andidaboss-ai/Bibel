@@ -52743,3 +52743,363 @@ denn er hatte Angst vor dem Schwert des Engels des HERRN.
 > Gott antwortet mit Feuer vom Himmel, wie bei Elija auf dem Karmel. Das zeigt: Gott nimmt das Opfer an.
 > Das Wichtigste: Auf diesem Platz wird später der Tempel gebaut (Kapitel 22,1; 2. Chronik 3,1). In 2. Chronik 3,1 wird der Ort „Berg Morija“ genannt, wie der Berg, auf dem Abraham Isaak opfern sollte (1. Mose 22,2). Ein Ort der Schuld wird zum Ort der Gnade.
 > Bis heute ist dieser Platz in Jerusalem, der Tempelberg, für Juden, Christen und Muslime heilig.
+
+## 1. Chronik – Kapitel 22
+#### David bereitet den Tempelbau vor
+
+---
+
+### Der Ort für den Tempel (Vers 1–5)
+
+<sup>1</sup>Da sagte David:
+„Hier soll das Haus des HERRN, Gottes, sein,
+und hier der Brandopferaltar für Israel.“
+<sup>2</sup>David befahl, die Fremden zu versammeln, die im Land Israel lebten.
+Und er stellte Steinmetze an, die Quadersteine für den Bau des Hauses Gottes behauen sollten.
+<sup>3</sup>David bereitete Eisen in Menge vor,
+für die Nägel an den Türflügeln der Tore und für die Klammern,
+und Bronze in Menge, ohne sie zu wiegen,
+<sup>4</sup>und Zedernstämme ohne Zahl.
+Denn die Sidonier und die Leute aus Tyrus brachten David Zedernholz in Menge.
+<sup>5</sup>David sagte:
+„Mein Sohn Salomo ist noch jung und zart.
+Und das Haus, das für den HERRN gebaut werden soll,
+muss überaus prächtig werden,
+berühmt und herrlich in allen Ländern.
+Darum will ich es für ihn vorbereiten.“
+So bereitete David vor seinem Tod sehr viel vor.
+
+> **Was bedeutet das?**
+> Nach der Geschichte mit dem Engel und dem Altar (Kapitel 21) weiß David: Hier, auf der Tenne Ornans, soll der Tempel stehen.
+> David darf den Tempel nicht selbst bauen. Aber er bereitet alles vor: Steine, Eisen, Bronze und Holz. Er tut, was er kann, damit sein Sohn es leichter hat. Manchmal ist es unsere Aufgabe, für andere vorzubereiten, was wir selbst nicht vollenden.
+> „Die Fremden“: Menschen aus anderen Völkern, die in Israel lebten. Sie mussten beim Bau mitarbeiten (vgl. 2. Chronik 2,16–17).
+
+---
+
+### David beauftragt Salomo (Vers 6–16)
+
+<sup>6</sup>Dann rief er seinen Sohn Salomo
+und gab ihm den Auftrag, ein Haus für den HERRN, den Gott Israels, zu bauen.
+<sup>7</sup>David sagte zu seinem Sohn Salomo:
+„Ich selbst hatte es im Herzen,
+ein Haus für den Namen des HERRN, meines Gottes, zu bauen.
+<sup>8</sup>Aber das Wort des HERRN kam zu mir:
+‚Du hast viel Blut vergossen und große Kriege geführt.
+Du sollst kein Haus für meinen Namen bauen,
+denn du hast viel Blut auf der Erde vor mir vergossen.
+<sup>9</sup>Schau, dir wird ein Sohn geboren werden.
+Der wird ein Mann der Ruhe sein.
+Ich will ihm Ruhe vor allen seinen Feinden ringsum geben.
+Denn Salomo soll sein Name sein,
+und ich will Israel in seinen Tagen Frieden und Stille geben.
+<sup>10</sup>Er soll ein Haus für meinen Namen bauen.
+Er soll mein Sohn sein, und ich will sein Vater sein.
+Und ich will den Thron seines Königtums über Israel für immer festigen.‘
+<sup>11</sup>Und jetzt, mein Sohn,
+der HERR sei mit dir,
+damit du Erfolg hast
+und das Haus des HERRN, deines Gottes, baust,
+wie er es über dich gesagt hat.
+<sup>12</sup>Der HERR gebe dir Klugheit und Verstand
+und setze dich über Israel ein,
+damit du das Gesetz des HERRN, deines Gottes, hältst.
+<sup>13</sup>Dann wirst du Erfolg haben,
+wenn du darauf achtest, die Ordnungen und Rechtsordnungen zu halten,
+die der HERR Mose für Israel gegeben hat.
+Sei stark und mutig.
+Fürchte dich nicht und erschrick nicht.
+<sup>14</sup>Schau, ich habe in meiner Mühsal für das Haus des HERRN vorbereitet:
+etwa 3400 Tonnen Gold
+und etwa 34 000 Tonnen Silber,
+dazu Bronze und Eisen ohne Gewicht, denn es ist in Menge da.
+Auch Holz und Steine habe ich vorbereitet.
+Und du kannst noch mehr dazutun.
+<sup>15</sup>Bei dir sind auch Arbeiter in Menge:
+Steinhauer, Maurer und Zimmerleute,
+und allerlei Fachleute für jede Arbeit.
+<sup>16</sup>Gold, Silber, Bronze und Eisen gibt es ohne Zahl.
+Mach dich auf und fang an,
+und der HERR sei mit dir!“
+
+> **Was bedeutet das?**
+> Hier steht der Grund, warum David den Tempel nicht bauen durfte: Er hatte viel Blut vergossen. Gottes Haus soll ein Haus des Friedens sein. Das passt zu Salomo, dessen Name „der Friedliche“ bedeutet (hebräisch „Schalom“ heißt „Frieden“).
+> David gibt seinem Sohn einen Rat für das Leben: Halte Gottes Gesetz. „Sei stark und mutig. Fürchte dich nicht.“ So hatte auch Mose zu Josua gesprochen (Josua 1,6–9).
+> „In meiner Mühsal“: David hat trotz vieler Schwierigkeiten das Material zusammengetragen.
+> In der Bibel steht „100 000 Talente Gold und 1 000 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das wären unvorstellbar große Mengen, viel mehr als alles Gold, das damals in der ganzen Gegend vorhanden war. Die Zahlen wollen wohl ausdrücken: Es war unermesslich viel. Vielleicht wurden sie auch beim Abschreiben verändert.
+
+---
+
+### David ruft die Fürsten auf (Vers 17–19)
+
+<sup>17</sup>David befahl auch allen Fürsten Israels, seinem Sohn Salomo zu helfen:
+<sup>18</sup>„Ist nicht der HERR, euer Gott, mit euch?
+Hat er euch nicht ringsum Ruhe gegeben?
+Denn er hat die Bewohner des Landes in meine Hand gegeben,
+und das Land ist vor dem HERRN und vor seinem Volk unterworfen.
+<sup>19</sup>Richtet nun euer Herz und eure Seele darauf,
+den HERRN, euren Gott, zu suchen.
+Macht euch auf und baut das Heiligtum des HERRN, Gottes,
+damit man die Lade des Bundes des HERRN und die heiligen Geräte Gottes
+in das Haus bringt, das für den Namen des HERRN gebaut werden soll.“
+
+> **Was bedeutet das?**
+> Der Tempel ist nicht nur Salomos Aufgabe. Alle sollen mithelfen.
+> Das Wichtigste ist nicht das Gebäude, sondern das Herz: „Richtet euer Herz und eure Seele darauf, den HERRN zu suchen.“ Ein Haus für Gott ohne Herz für Gott wäre leer.
+
+## 1. Chronik – Kapitel 23
+#### Die Ordnung der Leviten
+
+---
+
+### David zählt die Leviten (Vers 1–6)
+
+<sup>1</sup>David war alt und hatte genug vom Leben.
+Da machte er seinen Sohn Salomo zum König über Israel.
+<sup>2</sup>Er versammelte alle Fürsten Israels, die Priester und die Leviten.
+<sup>3</sup>Die Leviten wurden gezählt, von dreißig Jahren an und darüber.
+Ihre Zahl, Kopf für Kopf, Mann für Mann, war 38 000.
+<sup>4</sup>David sagte:
+„Von diesen sollen 24 000 die Arbeit am Haus des HERRN beaufsichtigen,
+6000 sollen Beamte und Richter sein,
+<sup>5</sup>4000 sollen Torhüter sein,
+und 4000 sollen den HERRN loben mit den Instrumenten,
+die ich zum Lob gemacht habe.“
+<sup>6</sup>David teilte sie in Abteilungen ein, nach den Söhnen Levis:
+Gerschon, Kehat und Merari.
+
+> **Was bedeutet das?**
+> In den Kapiteln 23 bis 27 ordnet David alles für den Tempeldienst: die Leviten, die Priester, die Sänger, die Torhüter und die Beamten. Für die Chronik ist das sehr wichtig: Der Gottesdienst soll ordentlich und gut organisiert sein.
+> „Er hatte genug vom Leben“, wörtlich „satt an Tagen“: Er hatte ein langes, erfülltes Leben.
+> Die Leviten hatten verschiedene Aufgaben: Aufsicht über die Arbeit im Tempel, Verwaltung und Rechtsprechung im Land, Wache an den Toren und Musik.
+> David hat auch Musikinstrumente selbst gemacht oder entworfen. Er war ja selbst ein Musiker.
+
+---
+
+### Die Familien Gerschons (Vers 7–11)
+
+<sup>7</sup>Von den Gerschonitern:
+Ladan und Schimi.
+<sup>8</sup>Die Söhne Ladans:
+Jehiël, das Oberhaupt, Setam und Joël, drei.
+<sup>9</sup>Die Söhne Schimis:
+Schelomot, Hasiël und Haran, drei.
+Das waren die Oberhäupter der Familien Ladans.
+<sup>10</sup>Die Söhne Schimis:
+Jahat, Sina, Jëusch und Beria.
+Diese vier waren die Söhne Schimis.
+<sup>11</sup>Jahat war das Oberhaupt, und Sisa der zweite.
+Aber Jëusch und Beria hatten nicht viele Söhne.
+Darum wurden sie zu einer Familie zusammengezählt.
+
+> **Was bedeutet das?**
+> Die Familien wurden nach der Zahl der Männer eingeteilt. Kleine Familien wurden zusammengelegt, damit die Abteilungen etwa gleich groß waren.
+> Es gibt zwei Männer namens Schimi: einen Sohn Ladans (Vers 9) und einen Sohn Gerschons (Vers 10).
+> „Sina“ (Vers 10) und „Sisa“ (Vers 11) sind wohl derselbe Name, nur verschieden geschrieben.
+
+---
+
+### Die Familien Kehats (Vers 12–20)
+
+<sup>12</sup>Die Söhne Kehats:
+Amram, Jizhar, Hebron und Usiël, vier.
+<sup>13</sup>Die Söhne Amrams:
+Aaron und Mose.
+Aaron wurde ausgesondert,
+um das Hochheilige zu heiligen, er und seine Söhne für immer,
+um vor dem HERRN Weihrauch zu verbrennen,
+ihm zu dienen
+und in seinem Namen für immer zu segnen.
+<sup>14</sup>Aber Mose, der Mann Gottes:
+Seine Söhne wurden zum Stamm Levi gezählt.
+<sup>15</sup>Die Söhne Moses:
+Gerschom und Eliëser.
+<sup>16</sup>Die Söhne Gerschoms:
+Schebuël, das Oberhaupt.
+<sup>17</sup>Der Sohn Eliësers war Rehabja, das Oberhaupt.
+Eliëser hatte keine anderen Söhne.
+Aber die Söhne Rehabjas waren sehr zahlreich.
+<sup>18</sup>Der Sohn Jizhars:
+Schelomit, das Oberhaupt.
+<sup>19</sup>Die Söhne Hebrons:
+Jerija, das Oberhaupt,
+Amarja, der zweite,
+Jahasiël, der dritte,
+und Jekamam, der vierte.
+<sup>20</sup>Die Söhne Usiëls:
+Micha, das Oberhaupt,
+und Jischija, der zweite.
+
+> **Was bedeutet das?**
+> Aaron und seine Nachkommen waren Priester. Sie hatten besondere Aufgaben: das Heiligste, das Räucheropfer und den Segen im Namen Gottes. Der „aaronitische Segen“ wird bis heute gesprochen: „Der HERR segne dich und behüte dich …“ (4. Mose 6,24–26).
+> Bemerkenswert: Die Nachkommen Moses, des größten Propheten, wurden keine Priester, sondern einfache Leviten. Mose hat für seine Familie keine Sonderrechte beansprucht.
+
+---
+
+### Die Familien Meraris (Vers 21–23)
+
+<sup>21</sup>Die Söhne Meraris:
+Machli und Muschi.
+Die Söhne Machlis:
+Eleasar und Kisch.
+<sup>22</sup>Eleasar starb und hatte keine Söhne, sondern nur Töchter.
+Und ihre Verwandten, die Söhne des Kisch, nahmen sie zur Frau.
+<sup>23</sup>Die Söhne Muschis:
+Machli, Eder und Jeremot, drei.
+
+> **Was bedeutet das?**
+> Die Töchter Eleasars heirateten ihre Cousins. So blieb das Erbe in der Familie, wie es in 4. Mose 36 geregelt ist.
+
+---
+
+### Neue Aufgaben für die Leviten (Vers 24–32)
+
+<sup>24</sup>Das waren die Söhne Levis nach ihren Familien,
+die Oberhäupter der Familien, wie sie gezählt wurden,
+nach der Zahl der Namen, Kopf für Kopf,
+die die Arbeit für den Dienst am Haus des HERRN taten,
+von zwanzig Jahren an und darüber.
+<sup>25</sup>Denn David sagte:
+„Der HERR, der Gott Israels, hat seinem Volk Ruhe gegeben,
+und er wohnt für immer in Jerusalem.
+<sup>26</sup>Auch müssen die Leviten die Wohnung und alle ihre Geräte für den Dienst nicht mehr tragen.“
+<sup>27</sup>Denn nach den letzten Worten Davids wurden die Söhne Levis gezählt,
+von zwanzig Jahren an und darüber.
+<sup>28</sup>Denn ihre Aufgabe war es, den Söhnen Aarons zur Seite zu stehen beim Dienst am Haus des HERRN:
+in den Vorhöfen, in den Kammern,
+bei der Reinigung aller heiligen Dinge,
+bei der Arbeit für den Dienst im Haus Gottes;
+<sup>29</sup>auch bei den Schaubroten,
+beim Feinmehl für das Speiseopfer,
+bei den ungesäuerten Fladen,
+bei dem, was in der Pfanne gebacken wird,
+bei dem, was eingerührt wird,
+und bei allen Maßen für Menge und Größe;
+<sup>30</sup>und jeden Morgen dazustehen, um dem HERRN zu danken und ihn zu loben,
+und ebenso am Abend;
+<sup>31</sup>und alle Brandopfer für den HERRN darzubringen,
+an den Sabbaten, an den Neumonden und an den Festen,
+in der Zahl, wie es für sie vorgeschrieben war,
+ständig vor dem HERRN;
+<sup>32</sup>und dass sie die Aufgaben am Zelt der Begegnung wahrnehmen sollten,
+die Aufgaben am Heiligtum
+und die Aufgaben ihrer Brüder, der Söhne Aarons, beim Dienst am Haus des HERRN.
+
+> **Was bedeutet das?**
+> Früher mussten die Leviten die Stiftshütte durch die Wüste tragen. Jetzt, mit dem festen Tempel, brauchen sie neue Aufgaben. David ordnet ihren Dienst neu: Reinigung, Brot backen, Maße prüfen, Musik und Gebet.
+> Morgens und abends sollen sie Gott danken und loben. Daraus entstanden die regelmäßigen Gebetszeiten, die es im Judentum und im Christentum bis heute gibt.
+> In Vers 3 werden die Leviten ab 30 Jahren gezählt, in Vers 24 und 27 ab 20 Jahren. Vers 27 erklärt: Nach Davids letzten Anordnungen wurde das Alter gesenkt, weil man mehr Leute für den Tempel brauchte. (In 4. Mose 4,3 waren es 30 Jahre, in 4. Mose 8,24 schon 25.)
+
+## 1. Chronik – Kapitel 24
+#### Die 24 Abteilungen der Priester
+
+---
+
+### Die Priester werden eingeteilt (Vers 1–6)
+
+<sup>1</sup>Das waren die Abteilungen der Söhne Aarons.
+Die Söhne Aarons:
+Nadab, Abihu, Eleasar und Itamar.
+<sup>2</sup>Aber Nadab und Abihu starben vor ihrem Vater und hatten keine Kinder.
+Darum dienten Eleasar und Itamar als Priester.
+<sup>3</sup>David teilte sie zusammen mit Zadok von den Söhnen Eleasars
+und Ahimelech von den Söhnen Itamars
+nach ihrer Ordnung in ihrem Dienst ein.
+<sup>4</sup>Bei den Söhnen Eleasars fanden sich mehr Oberhäupter als bei den Söhnen Itamars.
+Sie wurden so eingeteilt:
+von den Söhnen Eleasars sechzehn Oberhäupter von Familien,
+und von den Söhnen Itamars nach ihren Familien acht.
+<sup>5</sup>So wurden sie unparteiisch durch das Los eingeteilt,
+die einen wie die anderen.
+Denn es gab Fürsten des Heiligtums und Fürsten Gottes
+sowohl unter den Söhnen Eleasars als auch unter den Söhnen Itamars.
+<sup>6</sup>Schemaja, der Sohn Netanels, der Schreiber, der zu den Leviten gehörte,
+schrieb sie auf,
+vor dem König, den Fürsten, dem Priester Zadok, Ahimelech, dem Sohn Abjatars,
+und den Oberhäuptern der Familien der Priester und der Leviten.
+Eine Familie wurde für Eleasar gezogen, und eine für Itamar.
+
+> **Was bedeutet das?**
+> Nadab und Abihu starben, weil sie „fremdes Feuer“ vor Gott brachten (3. Mose 10,1–2).
+> Die Priester werden in 24 Abteilungen eingeteilt. Jede Abteilung hatte für eine bestimmte Zeit Dienst im Tempel, wohl jeweils eine Woche, zweimal im Jahr. So kam jeder Priester einmal an die Reihe.
+> Die Einteilung geschieht durch das Los. So ist sie gerecht und unparteiisch. Niemand kann bevorzugt werden.
+> Alles wird öffentlich aufgeschrieben, vor Zeugen. Eine ordentliche, gerechte Verwaltung.
+
+---
+
+### Die Reihenfolge der 24 Abteilungen (Vers 7–19)
+
+<sup>7</sup>Das erste Los fiel auf Jojarib,
+das zweite auf Jedaja,
+<sup>8</sup>das dritte auf Harim,
+das vierte auf Seorim,
+<sup>9</sup>das fünfte auf Malkija,
+das sechste auf Mijamin,
+<sup>10</sup>das siebte auf Koz,
+das achte auf Abija,
+<sup>11</sup>das neunte auf Jeschua,
+das zehnte auf Schechanja,
+<sup>12</sup>das elfte auf Eljaschib,
+das zwölfte auf Jakim,
+<sup>13</sup>das dreizehnte auf Huppa,
+das vierzehnte auf Jeschebab,
+<sup>14</sup>das fünfzehnte auf Bilga,
+das sechzehnte auf Immer,
+<sup>15</sup>das siebzehnte auf Hesir,
+das achtzehnte auf Happizzez,
+<sup>16</sup>das neunzehnte auf Petachja,
+das zwanzigste auf Jeheskel,
+<sup>17</sup>das einundzwanzigste auf Jachin,
+das zweiundzwanzigste auf Gamul,
+<sup>18</sup>das dreiundzwanzigste auf Delaja,
+das vierundzwanzigste auf Maasja.
+<sup>19</sup>Das war ihre Ordnung in ihrem Dienst,
+um in das Haus des HERRN zu kommen,
+nach der Vorschrift, die ihnen ihr Vater Aaron gegeben hatte,
+wie es ihm der HERR, der Gott Israels, geboten hatte.
+
+> **Was bedeutet das?**
+> Diese 24 Priesterabteilungen gab es noch zur Zeit Jesu.
+> Die achte Abteilung, Abija, ist besonders bekannt: Der Priester Zacharias, der Vater von Johannes dem Täufer, gehörte zu ihr. Als er im Tempel Dienst hatte, erschien ihm der Engel Gabriel (Lukas 1,5–13).
+> Die erste Abteilung, Jojarib, war die Familie der Makkabäer, die im 2. Jahrhundert vor Christus den Tempel von fremden Göttern befreiten. Daran erinnert das Lichterfest Chanukka.
+> In Caesarea in Israel wurden Bruchstücke einer Steininschrift gefunden, auf der die 24 Priesterabteilungen und die Orte in Galiläa stehen, wo sie nach der Zerstörung des Tempels wohnten.
+> „Koz“ heißt in der englischen Vorlage „Hakkoz“. Das „ha“ ist der hebräische Artikel.
+
+---
+
+### Die übrigen Leviten (Vers 20–31)
+
+<sup>20</sup>Von den übrigen Söhnen Levis:
+von den Söhnen Amrams: Schubaël;
+von den Söhnen Schubaëls: Jechdeja.
+<sup>21</sup>Von Rehabja:
+von den Söhnen Rehabjas: Jischija, das Oberhaupt.
+<sup>22</sup>Von den Jizharitern: Schelomot;
+von den Söhnen Schelomots: Jahat.
+<sup>23</sup>Die Söhne Hebrons:
+Jerija, Amarja, der zweite, Jahasiël, der dritte, und Jekamam, der vierte.
+<sup>24</sup>Die Söhne Usiëls: Micha;
+von den Söhnen Michas: Schamir.
+<sup>25</sup>Der Bruder Michas: Jischija;
+von den Söhnen Jischijas: Secharja.
+<sup>26</sup>Die Söhne Meraris:
+Machli und Muschi.
+Der Sohn Jaasijas: Beno.
+<sup>27</sup>Die Söhne Meraris von Jaasija:
+Beno, Schoham, Sakkur und Ibri.
+<sup>28</sup>Von Machli:
+Eleasar, der keine Söhne hatte.
+<sup>29</sup>Von Kisch, der Sohn des Kisch:
+Jerachmeël.
+<sup>30</sup>Die Söhne Muschis:
+Machli, Eder und Jerimot.
+Das waren die Söhne der Leviten nach ihren Familien.
+<sup>31</sup>Auch sie warfen Lose wie ihre Brüder, die Söhne Aarons,
+vor dem König David, Zadok, Ahimelech
+und den Oberhäuptern der Familien der Priester und der Leviten,
+das Oberhaupt einer Familie genauso wie sein jüngerer Bruder.
+
+> **Was bedeutet das?**
+> Auch die anderen Leviten werden durch das Los eingeteilt.
+> Der letzte Satz ist schön: „Das Oberhaupt genauso wie sein jüngerer Bruder.“ Vor dem Los waren alle gleich. Niemand wurde wegen seines Ranges bevorzugt.
+> Schubaël heißt in Kapitel 23,16 „Schebuël“. Die Liste ist eine Fortsetzung von Kapitel 23, mit einer Generation mehr.
+> Vers 26–27 sind im Hebräischen schwer verständlich. Jaasija wird sonst nirgends als Sohn Meraris genannt.
