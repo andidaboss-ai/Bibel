@@ -49780,3 +49780,567 @@ jeden Tag sein Teil, sein Leben lang.
 > **Die Hoffnung:** Das Buch endet nicht mit dem Tod, sondern mit einem freigelassenen König, der am Tisch des Königs essen darf. Gott hat sein Volk und seine Versprechen nicht vergessen.
 > **Die Lehre des Buches:** Gott ist geduldig. Er warnt immer wieder. Aber wer ihn dauerhaft verlässt, verliert, was er von Gott bekommen hat. Gleichzeitig zeigt das Buch: Selbst nach der größten Katastrophe ist Gottes Treue nicht zu Ende.
 > **Wie geht es weiter?** Die Bücher der Chronik erzählen dieselbe Geschichte noch einmal, aus einem anderen Blickwinkel. Die Bücher Esra und Nehemia erzählen von der Rückkehr aus Babylon und dem Wiederaufbau Jerusalems.
+
+
+---
+
+# 1. Chronik
+
+## 1. Chronik – Kapitel 1
+#### Von Adam bis Esau
+
+---
+
+### Bevor es losgeht: Was ist das 1. Buch der Chronik?
+
+Die Bücher der Chronik erzählen die Geschichte Israels noch einmal, von Adam bis zum Ende der babylonischen Gefangenschaft. Ursprünglich waren das 1. und das 2. Buch der Chronik ein einziges Buch.
+Vieles kennen wir schon aus den Büchern Samuel und Könige. Aber die Chronik erzählt aus einem anderen Blickwinkel. Sie wurde wahrscheinlich nach der Rückkehr aus Babylon geschrieben, etwa 400 bis 300 vor Christus. Die Menschen fragten damals: Wer sind wir? Gehören wir noch zu Gottes Volk? Hat Gott uns vergessen?
+Die Antwort der Chronik: Ihr gehört dazu. Ihr steht in einer langen Reihe, die bis zu Adam zurückgeht. Gott hat sein Volk nie aufgegeben.
+Darum beginnt das Buch mit langen Namenslisten (Kapitel 1–9). Das ist für uns heute ungewohnt. Aber für die Menschen damals war jeder Name wichtig: Hier stand ihre Familie, ihre Herkunft, ihr Platz im Volk Gottes. Darum lassen wir auch hier keinen Namen aus.
+Danach erzählt das 1. Buch der Chronik vor allem von König David (Kapitel 10–29). Besonders wichtig sind dabei der Tempel, die Priester, die Leviten und die Musik im Gottesdienst.
+Im Hebräischen heißt das Buch „Dibre ha-jamim“, das heißt „Ereignisse der Tage“. Das deutsche Wort „Chronik“ kommt vom griechischen Wort für Zeit.
+
+---
+
+### Von Adam bis Noah (Vers 1–4)
+
+<sup>1</sup>Adam, Set, Enosch,
+<sup>2</sup>Kenan, Mahalalel, Jered,
+<sup>3</sup>Henoch, Metuschelach, Lamech,
+<sup>4</sup>Noah, Sem, Ham und Jafet.
+
+> **Was bedeutet das?**
+> Die Chronik beginnt ganz am Anfang: bei Adam, dem ersten Menschen. So zeigt sie: Die Geschichte Israels ist Teil der Geschichte aller Menschen.
+> Die Namen stammen aus 1. Mose 5. Dort steht mehr über diese Menschen. Henoch zum Beispiel „ging mit Gott“, und Metuschelach wurde sehr alt.
+> Noah hatte drei Söhne: Sem, Ham und Jafet. Von ihnen stammen nach der Bibel alle Völker der Erde ab.
+
+---
+
+### Die Nachkommen Jafets (Vers 5–7)
+
+<sup>5</sup>Die Söhne Jafets:
+Gomer, Magog, Madai, Jawan, Tubal, Meschech und Tiras.
+<sup>6</sup>Die Söhne Gomers:
+Aschkenas, Difat und Togarma.
+<sup>7</sup>Die Söhne Jawans:
+Elischa, Tarschisch, die Kittäer und die Rodaniter.
+
+> **Was bedeutet das?**
+> Diese Namen stammen aus 1. Mose 10, der sogenannten „Völkertafel“. Viele Namen stehen für Völker oder Länder.
+> Die Nachkommen Jafets lebten nach damaliger Vorstellung vor allem im Norden und Westen, zum Beispiel in Kleinasien (heute Türkei) und auf den Inseln im Mittelmeer.
+> „Jawan“ ist wohl der alte Name für die Griechen (Ionier). „Madai“ sind die Meder. Die „Kittäer“ sind die Bewohner Zyperns.
+> In 1. Mose 10,3 steht statt Difat „Rifat“ und in 1. Mose 10,4 statt Rodaniter „Dodaniter“. Im Hebräischen sehen die Buchstaben D und R fast gleich aus.
+
+---
+
+### Die Nachkommen Hams (Vers 8–16)
+
+<sup>8</sup>Die Söhne Hams:
+Kusch, Mizrajim, Put und Kanaan.
+<sup>9</sup>Die Söhne von Kusch:
+Seba, Hawila, Sabta, Ragma und Sabtecha.
+Die Söhne Ragmas:
+Saba und Dedan.
+<sup>10</sup>Kusch zeugte Nimrod.
+Er war der Erste, der ein Gewaltiger auf der Erde wurde.
+<sup>11</sup>Mizrajim zeugte die Luditer, die Anamiter, die Lehabiter, die Naftuhiter,
+<sup>12</sup>die Patrusiter, die Kasluhiter, von denen die Philister abstammen,
+und die Kaftoriter.
+<sup>13</sup>Kanaan zeugte Sidon, seinen Erstgeborenen, und Het,
+<sup>14</sup>dazu den Jebusiter, den Amoriter, den Girgaschiter,
+<sup>15</sup>den Hiwiter, den Arkiter, den Siniter,
+<sup>16</sup>den Arwaditer, den Zemariter und den Hamatiter.
+
+> **Was bedeutet das?**
+> Die Nachkommen Hams lebten nach damaliger Vorstellung vor allem im Süden: in Afrika und Arabien, und in Kanaan.
+> „Kusch“ ist das Land südlich von Ägypten (heute Sudan). „Mizrajim“ ist der hebräische Name für Ägypten. „Put“ ist vielleicht Libyen.
+> Nimrod war ein berühmter Jäger und Herrscher in Mesopotamien (1. Mose 10,8–12).
+> Die Namen in Vers 14–16 sind die Völker, die in Kanaan lebten, bevor Israel kam.
+> Wichtig: Diese Liste ordnet Völker nach Gebieten und Beziehungen, nicht nach Hautfarbe oder Wert. Die Bibel lehrt, dass alle Menschen von einem Menschenpaar abstammen und gleich viel wert sind. Die Liste wurde früher leider missbraucht, um Rassismus zu begründen. Das ist falsch und gegen den Sinn der Bibel.
+
+---
+
+### Die Nachkommen Sems (Vers 17–23)
+
+<sup>17</sup>Die Söhne Sems:
+Elam, Assur, Arpachschad, Lud, Aram, Uz, Hul, Geter und Meschech.
+<sup>18</sup>Arpachschad zeugte Schelach,
+und Schelach zeugte Eber.
+<sup>19</sup>Eber wurden zwei Söhne geboren.
+Der eine hieß Peleg, denn in seinen Tagen wurde die Erde geteilt.
+Und sein Bruder hieß Joktan.
+<sup>20</sup>Joktan zeugte Almodad, Schelef, Hazarmawet, Jerach,
+<sup>21</sup>Hadoram, Usal, Dikla,
+<sup>22</sup>Ebal, Abimaël, Saba,
+<sup>23</sup>Ofir, Hawila und Jobab.
+Das alle waren die Söhne Joktans.
+
+> **Was bedeutet das?**
+> Von Sem stammen die „Semiten“ ab: die Völker im Nahen Osten, darunter die Aramäer, die Araber und die Israeliten.
+> Eber ist wahrscheinlich der Namensgeber der „Hebräer“.
+> „Peleg“ heißt „Teilung“. Vielleicht ist die Zerstreuung der Völker nach dem Turmbau zu Babel gemeint (1. Mose 11).
+> Uz, Hul, Geter und Meschech sind in 1. Mose 10,23 Söhne Arams. Die Chronik nennt sie hier verkürzt.
+> Joktans Nachkommen lebten vor allem in Arabien. Ofir war berühmt für sein Gold (1. Könige 9,28).
+
+---
+
+### Von Sem bis Abraham (Vers 24–27)
+
+<sup>24</sup>Sem, Arpachschad, Schelach,
+<sup>25</sup>Eber, Peleg, Regu,
+<sup>26</sup>Serug, Nahor, Terach,
+<sup>27</sup>Abram, das ist Abraham.
+
+> **Was bedeutet das?**
+> Jetzt wird die Linie enger. Von allen Nachkommen Sems wird nur noch eine Linie verfolgt: die Linie zu Abraham.
+> Abram bekam von Gott einen neuen Namen: Abraham, „Vater vieler Völker“ (1. Mose 17,5). Mit ihm beginnt Gottes besondere Geschichte mit Israel.
+
+---
+
+### Die Nachkommen Abrahams: Ismael und Ketura (Vers 28–33)
+
+<sup>28</sup>Die Söhne Abrahams:
+Isaak und Ismael.
+<sup>29</sup>Das sind ihre Nachkommen:
+der Erstgeborene Ismaels, Nebajot,
+dann Kedar, Adbeël, Mibsam,
+<sup>30</sup>Mischma, Duma, Massa, Hadad, Tema,
+<sup>31</sup>Jetur, Nafisch und Kedma.
+Das sind die Söhne Ismaels.
+<sup>32</sup>Die Söhne Keturas, der Nebenfrau Abrahams:
+Sie gebar Simran, Jokschan, Medan, Midian, Jischbak und Schuach.
+Die Söhne Jokschans:
+Saba und Dedan.
+<sup>33</sup>Die Söhne Midians:
+Efa, Efer, Henoch, Abida und Eldaa.
+Das alle waren die Söhne Keturas.
+
+> **Was bedeutet das?**
+> Auch Ismael, der ältere Sohn Abrahams, hatte zwölf Söhne, so wie Gott es versprochen hatte (1. Mose 17,20). Viele Araber und Muslime sehen in Ismael ihren Stammvater.
+> Ketura war eine weitere Frau Abrahams nach Saras Tod (1. Mose 25,1–4). Von ihrem Sohn Midian stammen die Midianiter ab. Moses Frau Zippora war eine Midianiterin.
+> Die Chronik vergisst die anderen Söhne Abrahams nicht. Gott hatte Abraham versprochen, dass alle Völker durch ihn gesegnet werden.
+
+---
+
+### Die Nachkommen Esaus (Vers 34–37)
+
+<sup>34</sup>Abraham zeugte Isaak.
+Die Söhne Isaaks:
+Esau und Israel.
+<sup>35</sup>Die Söhne Esaus:
+Elifas, Reguël, Jëusch, Jalam und Korach.
+<sup>36</sup>Die Söhne des Elifas:
+Teman, Omar, Zefi, Gatam, Kenas, Timna und Amalek.
+<sup>37</sup>Die Söhne Reguëls:
+Nahat, Serach, Schamma und Missa.
+
+> **Was bedeutet das?**
+> Isaak hatte zwei Söhne: Esau und Jakob. Jakob wird hier „Israel“ genannt, mit dem Namen, den Gott ihm gab (1. Mose 32,29).
+> Von Esau stammen die Edomiter ab. Die Liste kommt aus 1. Mose 36.
+> In 1. Mose 36,12 ist Timna die Nebenfrau des Elifas und die Mutter Amaleks. Die Chronik zählt sie hier verkürzt unter seine Nachkommen.
+
+---
+
+### Die Bewohner Seïrs (Vers 38–42)
+
+<sup>38</sup>Die Söhne Seïrs:
+Lotan, Schobal, Zibon, Ana, Dischon, Ezer und Dischan.
+<sup>39</sup>Die Söhne Lotans:
+Hori und Homam.
+Und Timna war die Schwester Lotans.
+<sup>40</sup>Die Söhne Schobals:
+Aljan, Manahat, Ebal, Schefi und Onam.
+Die Söhne Zibons:
+Aja und Ana.
+<sup>41</sup>Der Sohn Anas:
+Dischon.
+Die Söhne Dischons:
+Hamran, Eschban, Jitran und Keran.
+<sup>42</sup>Die Söhne Ezers:
+Bilhan, Saawan und Jaakan.
+Die Söhne Dischans:
+Uz und Aran.
+
+> **Was bedeutet das?**
+> Seïr ist das Bergland, in dem die Edomiter lebten. Vor ihnen wohnten dort die Horiter. Hier werden ihre Familien genannt (1. Mose 36,20–28).
+> Esaus Familie vermischte sich mit ihnen. Esau heiratete Oholibama, eine Enkelin Zibons (1. Mose 36,2).
+
+---
+
+### Die Könige und Fürsten von Edom (Vers 43–54)
+
+<sup>43</sup>Das sind die Könige, die im Land Edom regierten,
+bevor ein König über die Israeliten regierte:
+Bela, der Sohn Beors.
+Seine Stadt hieß Dinhaba.
+<sup>44</sup>Bela starb,
+und Jobab, der Sohn Serachs, aus Bozra, wurde an seiner Stelle König.
+<sup>45</sup>Jobab starb,
+und Huscham aus dem Land der Temaniter wurde an seiner Stelle König.
+<sup>46</sup>Huscham starb,
+und Hadad, der Sohn Bedads, wurde an seiner Stelle König.
+Er schlug Midian im Gebiet von Moab.
+Seine Stadt hieß Awit.
+<sup>47</sup>Hadad starb,
+und Samla aus Masreka wurde an seiner Stelle König.
+<sup>48</sup>Samla starb,
+und Schaul aus Rehobot am Strom wurde an seiner Stelle König.
+<sup>49</sup>Schaul starb,
+und Baal-Hanan, der Sohn Achbors, wurde an seiner Stelle König.
+<sup>50</sup>Baal-Hanan starb,
+und Hadad wurde an seiner Stelle König.
+Seine Stadt hieß Pai.
+Seine Frau hieß Mehetabel, die Tochter Matreds, die Tochter Me-Sahabs.
+<sup>51</sup>Dann starb Hadad.
+Die Fürsten von Edom waren:
+der Fürst Timna, der Fürst Alja, der Fürst Jetet,
+<sup>52</sup>der Fürst Oholibama, der Fürst Ela, der Fürst Pinon,
+<sup>53</sup>der Fürst Kenas, der Fürst Teman, der Fürst Mibzar,
+<sup>54</sup>der Fürst Magdiël und der Fürst Iram.
+Das sind die Fürsten von Edom.
+
+> **Was bedeutet das?**
+> Edom hatte schon Könige, lange bevor Israel einen König hatte. Die Liste stammt aus 1. Mose 36,31–43.
+> Interessant: Diese Könige bildeten keine Familie. Jeder kam aus einer anderen Stadt.
+> „Fürsten“ waren die Anführer der Stämme oder Gebiete Edoms. Manche Namen sind wohl eher Namen von Gegenden.
+> In 1. Mose 36,39 heißt die Stadt „Pagu“ statt „Pai“.
+> In 1. Mose 10,28 heißt Ebal „Obal“.
+> Damit endet der Blick auf die anderen Völker. Ab Kapitel 2 geht es nur noch um Israel.
+
+## 1. Chronik – Kapitel 2
+#### Die Söhne Israels und der Stamm Juda
+
+---
+
+### Die zwölf Söhne Israels (Vers 1–2)
+
+<sup>1</sup>Das sind die Söhne Israels:
+Ruben, Simeon, Levi, Juda, Issachar, Sebulon,
+<sup>2</sup>Dan, Josef, Benjamin, Naftali, Gad und Asser.
+
+> **Was bedeutet das?**
+> Jetzt kommt die Chronik zu ihrem eigentlichen Thema: zu Israel, also zu Jakob und seinen zwölf Söhnen. Von ihnen stammen die zwölf Stämme Israels ab.
+> Die Reihenfolge ist fast wie in 1. Mose 35,23–26. Nur Dan steht hier früher.
+
+---
+
+### Juda und seine Söhne (Vers 3–8)
+
+<sup>3</sup>Die Söhne Judas:
+Er, Onan und Schela.
+Diese drei wurden ihm von der Tochter Schuas, der Kanaaniterin, geboren.
+Er, der Erstgeborene Judas, war böse in den Augen des HERRN,
+und er ließ ihn sterben.
+<sup>4</sup>Tamar, seine Schwiegertochter, gebar ihm Perez und Serach.
+Juda hatte insgesamt fünf Söhne.
+<sup>5</sup>Die Söhne von Perez:
+Hezron und Hamul.
+<sup>6</sup>Die Söhne Serachs:
+Simri, Etan, Heman, Kalkol und Dara, zusammen fünf.
+<sup>7</sup>Der Sohn Karmis:
+Achar, der Israel ins Unglück stürzte,
+weil er sich an dem vergriff, was dem Bann geweiht war.
+<sup>8</sup>Der Sohn Etans:
+Asarja.
+
+> **Was bedeutet das?**
+> Die Chronik beginnt mit Juda, nicht mit Ruben, dem Erstgeborenen. Denn aus Juda kommt König David, und um ihn geht es im Buch vor allem.
+> Die Familiengeschichte Judas war nicht einfach. Die Geschichte von Juda und Tamar steht in 1. Mose 38. Die Chronik verschweigt die dunklen Seiten nicht. Trotzdem ist dieser Stamm von Gott erwählt.
+> Achar (in Josua 7 heißt er Achan) hatte nach der Eroberung von Jericho heimlich Beute genommen. Sein Name wird hier mit dem hebräischen Wort für „Unglück bringen“ verbunden: „achar“.
+> Etan, Heman, Kalkol und Dara waren berühmt für ihre Weisheit (1. Könige 5,11). Dort heißt Dara „Darda“.
+> Karmi ist wohl ein Nachkomme Simris (Josua 7,1, dort „Sabdi“).
+
+---
+
+### Von Hezron bis David (Vers 9–17)
+
+<sup>9</sup>Die Söhne Hezrons, die ihm geboren wurden:
+Jerachmeël, Ram und Kelubai.
+<sup>10</sup>Ram zeugte Amminadab,
+und Amminadab zeugte Nachschon, den Fürsten der Söhne Judas.
+<sup>11</sup>Nachschon zeugte Salma,
+und Salma zeugte Boas.
+<sup>12</sup>Boas zeugte Obed,
+und Obed zeugte Isai.
+<sup>13</sup>Isai zeugte Eliab, seinen Erstgeborenen,
+Abinadab, den zweiten,
+Schimea, den dritten,
+<sup>14</sup>Netanel, den vierten,
+Raddai, den fünften,
+<sup>15</sup>Ozem, den sechsten,
+und David, den siebten.
+<sup>16</sup>Ihre Schwestern waren Zeruja und Abigajil.
+Die Söhne Zerujas:
+Abischai, Joab und Asaël, drei.
+<sup>17</sup>Abigajil gebar Amasa.
+Der Vater Amasas war Jeter, der Ismaeliter.
+
+> **Was bedeutet das?**
+> Das ist die Linie, auf die es der Chronik ankommt: von Juda über Boas und Obed zu Isai und David. Wir kennen sie aus dem Buch Rut (Rut 4,18–22).
+> Nachschon war der Anführer des Stammes Juda in der Wüste (4. Mose 1,7).
+> David war der siebte Sohn Isais. In 1. Samuel 16,10–11 werden acht Söhne erwähnt. Vielleicht starb einer früh.
+> Davids Neffen Joab, Abischai und Asaël waren wichtige Heerführer (2. Samuel 2,18).
+> In 2. Samuel 17,25 wird Jeter „Jitra, der Israelit“ genannt.
+> „Kelubai“ ist eine andere Form des Namens Kaleb (Vers 18).
+
+---
+
+### Die Nachkommen Kalebs (Vers 18–24)
+
+<sup>18</sup>Kaleb, der Sohn Hezrons, zeugte Kinder mit seiner Frau Asuba und mit Jeriot.
+Das sind ihre Söhne:
+Jescher, Schobab und Ardon.
+<sup>19</sup>Asuba starb,
+und Kaleb heiratete Efrat.
+Sie gebar ihm Hur.
+<sup>20</sup>Hur zeugte Uri,
+und Uri zeugte Bezalel.
+<sup>21</sup>Danach ging Hezron zu der Tochter Machirs, des Vaters Gileads.
+Er nahm sie zur Frau, als er sechzig Jahre alt war.
+Und sie gebar ihm Segub.
+<sup>22</sup>Segub zeugte Jaïr.
+Der hatte 23 Städte im Land Gilead.
+<sup>23</sup>Aber Geschur und Aram nahmen ihnen die Zeltdörfer Jaïrs weg,
+dazu Kenat und seine Dörfer, sechzig Städte.
+Das alle waren die Söhne Machirs, des Vaters Gileads.
+<sup>24</sup>Nachdem Hezron in Kaleb-Efrata gestorben war,
+gebar ihm Abija, die Frau Hezrons, Aschhur, den Vater von Tekoa.
+
+> **Was bedeutet das?**
+> Bezalel war der begabte Kunsthandwerker, der die Stiftshütte in der Wüste baute (2. Mose 31,1–5).
+> Hezron heiratete eine Frau aus dem Stamm Manasse (Machir war ein Sohn Manasses). So hatte der Stamm Juda auch Verbindungen in das Land östlich des Jordan, nach Gilead.
+> „Vater von Tekoa“ heißt hier wohl: Gründer oder Anführer der Stadt Tekoa. Oft steht „Vater“ in diesen Listen für den Gründer eines Ortes.
+> Vers 18 ist im Hebräischen schwer verständlich. Vielleicht war Jeriot eine zweite Frau, vielleicht ein anderer Name für Asuba.
+> Vers 24 ist auch unklar. In der griechischen Übersetzung steht: „Nach Hezrons Tod ging Kaleb zu Efrata.“
+
+---
+
+### Die Nachkommen Jerachmeëls (Vers 25–33)
+
+<sup>25</sup>Die Söhne Jerachmeëls, des Erstgeborenen Hezrons:
+Ram, der Erstgeborene, Buna, Oren, Ozem und Ahija.
+<sup>26</sup>Jerachmeël hatte noch eine andere Frau, die hieß Atara.
+Sie war die Mutter Onams.
+<sup>27</sup>Die Söhne Rams, des Erstgeborenen Jerachmeëls:
+Maaz, Jamin und Eker.
+<sup>28</sup>Die Söhne Onams:
+Schammai und Jada.
+Die Söhne Schammais:
+Nadab und Abischur.
+<sup>29</sup>Die Frau Abischurs hieß Abihajil.
+Sie gebar ihm Achban und Molid.
+<sup>30</sup>Die Söhne Nadabs:
+Seled und Appajim.
+Aber Seled starb ohne Kinder.
+<sup>31</sup>Der Sohn Appajims:
+Jischi.
+Der Sohn Jischis:
+Scheschan.
+Der Sohn Scheschans:
+Achlai.
+<sup>32</sup>Die Söhne Jadas, des Bruders Schammais:
+Jeter und Jonatan.
+Aber Jeter starb ohne Kinder.
+<sup>33</sup>Die Söhne Jonatans:
+Pelet und Sasa.
+Das waren die Söhne Jerachmeëls.
+
+> **Was bedeutet das?**
+> Die Jerachmeëliter waren ein Teil des Stammes Juda, der im Süden, im Negev, lebte (1. Samuel 27,10).
+> Die Chronik erwähnt auch, wer ohne Kinder starb. Kein Name wird vergessen, auch nicht der von Menschen, deren Familie endete.
+
+---
+
+### Ein ägyptischer Diener wird Teil der Familie (Vers 34–41)
+
+<sup>34</sup>Scheschan hatte keine Söhne, sondern nur Töchter.
+Scheschan hatte einen Diener, einen Ägypter, der hieß Jarha.
+<sup>35</sup>Scheschan gab seine Tochter seinem Diener Jarha zur Frau,
+und sie gebar ihm Attai.
+<sup>36</sup>Attai zeugte Natan,
+und Natan zeugte Sabad.
+<sup>37</sup>Sabad zeugte Eflal,
+und Eflal zeugte Obed.
+<sup>38</sup>Obed zeugte Jehu,
+und Jehu zeugte Asarja.
+<sup>39</sup>Asarja zeugte Helez,
+und Helez zeugte Elasa.
+<sup>40</sup>Elasa zeugte Sismai,
+und Sismai zeugte Schallum.
+<sup>41</sup>Schallum zeugte Jekamja,
+und Jekamja zeugte Elischama.
+
+> **Was bedeutet das?**
+> Eine schöne kleine Geschichte mitten in der Liste: Scheschan hat keinen Sohn. Er gibt seine Tochter seinem ägyptischen Diener zur Frau. So wird ein Ausländer, sogar ein Diener, ein vollwertiges Mitglied der Familie in Juda. Seine Nachkommen werden über 13 Generationen aufgezählt.
+> In Vers 31 steht, dass Scheschan einen Sohn namens Achlai hatte. Vielleicht war Achlai die Tochter, oder der Sohn starb früh. Die Bibel erklärt das nicht.
+
+---
+
+### Weitere Nachkommen Kalebs (Vers 42–50a)
+
+<sup>42</sup>Die Söhne Kalebs, des Bruders Jerachmeëls:
+Mescha, sein Erstgeborener, der Vater von Sif,
+und die Söhne Mareschas, des Vaters von Hebron.
+<sup>43</sup>Die Söhne Hebrons:
+Korach, Tappuach, Rekem und Schema.
+<sup>44</sup>Schema zeugte Raham, den Vater von Jorkeam.
+Und Rekem zeugte Schammai.
+<sup>45</sup>Der Sohn Schammais war Maon.
+Und Maon war der Vater von Bet-Zur.
+<sup>46</sup>Efa, die Nebenfrau Kalebs, gebar Haran, Moza und Gases.
+Und Haran zeugte Gases.
+<sup>47</sup>Die Söhne Jahdais:
+Regem, Jotan, Geschan, Pelet, Efa und Schaaf.
+<sup>48</sup>Maacha, die Nebenfrau Kalebs, gebar Scheber und Tirhana.
+<sup>49</sup>Sie gebar auch Schaaf, den Vater von Madmanna,
+Schewa, den Vater von Machbena und den Vater von Gibea.
+Und die Tochter Kalebs war Achsa.
+<sup>50</sup>Das waren die Söhne Kalebs.
+
+> **Was bedeutet das?**
+> Viele dieser Namen sind auch Namen von Städten im Süden Judas: Sif, Hebron, Tappuach, Maon, Bet-Zur, Madmanna, Gibea. „Vater von“ heißt hier: Gründer oder Anführer dieser Stadt.
+> Achsa, die Tochter Kalebs, kennen wir aus Josua 15,16–19. Dort ist es aber der berühmte Kaleb, der Sohn Jefunnes, der Kundschafter. Ob die Chronik hier dieselbe Person meint, ist unklar.
+> Wer Jahdai war, wird nicht gesagt.
+> Die Chronik nennt hier ausdrücklich Frauen: Asuba, Efrat, Abija, Atara, Abihajil, Efa, Maacha und Achsa. Auch sie gehören zur Geschichte.
+
+---
+
+### Die Nachkommen Hurs (Vers 50b–55)
+
+Der Sohn Hurs, des Erstgeborenen Efratas:
+Schobal, der Vater von Kirjat-Jearim,
+<sup>51</sup>Salma, der Vater von Betlehem,
+und Haref, der Vater von Bet-Gader.
+<sup>52</sup>Schobal, der Vater von Kirjat-Jearim, hatte Söhne:
+Haroë, die Hälfte der Menuhoter.
+<sup>53</sup>Die Familien von Kirjat-Jearim:
+die Jitriter, die Putiter, die Schumatiter und die Mischraiter.
+Von ihnen stammen die Zoratiter und die Eschtaoliter ab.
+<sup>54</sup>Die Söhne Salmas:
+Betlehem, die Netofatiter, Atrot-Bet-Joab,
+die Hälfte der Manahatiter, die Zoriter.
+<sup>55</sup>Die Familien der Schreiber, die in Jabez wohnten:
+die Tiratiter, die Schimatiter und die Suchatiter.
+Das sind die Keniter, die von Hammat abstammen,
+dem Vater des Hauses Rechab.
+
+> **Was bedeutet das?**
+> Hier tauchen bekannte Orte auf: Kirjat-Jearim, wo die Bundeslade 20 Jahre stand (1. Samuel 7,1–2), und Betlehem, die Stadt Davids. Später wurde dort Jesus geboren.
+> In der englischen Vorlage steht in Vers 50: „Das waren die Söhne Kalebs, des Sohnes Hurs.“ Wahrscheinlich ist gemeint: Das waren die Söhne Kalebs. Und dann neu: Der Sohn Hurs … Die Verse 50 bis 55 zählen dann die Nachkommen Hurs auf.
+> Die Keniter waren ursprünglich kein israelitischer Stamm. Moses Schwiegervater gehörte zu ihnen (Richter 1,16). Sie wurden Teil Judas. Die Rechabiter, die wir aus 2. Könige 10,15 kennen, gehörten zu ihnen.
+> „Schreiber“ waren Menschen, die lesen und schreiben konnten. Das war damals selten und wichtig.
+
+## 1. Chronik – Kapitel 3
+#### Die Familie Davids
+
+---
+
+### Davids Söhne aus Hebron (Vers 1–4a)
+
+<sup>1</sup>Das sind die Söhne Davids, die ihm in Hebron geboren wurden:
+der Erstgeborene, Amnon, von Ahinoam, der Jesreeliterin;
+der zweite, Daniel, von Abigajil, der Karmeliterin;
+<sup>2</sup>der dritte, Absalom, der Sohn Maachas, der Tochter Talmais, des Königs von Geschur;
+der vierte, Adonija, der Sohn Haggits;
+<sup>3</sup>der fünfte, Schefatja, von Abital;
+der sechste, Jitream, von Egla, seiner Frau.
+<sup>4</sup>Sechs wurden ihm in Hebron geboren.
+
+> **Was bedeutet das?**
+> David regierte zuerst in Hebron, über den Stamm Juda (2. Samuel 2,1–4). Dort wurden diese sechs Söhne geboren. Die Liste steht auch in 2. Samuel 3,2–5.
+> Daniel heißt in 2. Samuel 3,3 „Kilab“. Er ist nicht der Prophet Daniel.
+> Viele dieser Söhne haben eine traurige Geschichte: Amnon tat seiner Halbschwester Tamar Gewalt an und wurde von Absalom getötet. Absalom erhob sich gegen seinen Vater und starb. Adonija wollte König werden und wurde getötet.
+
+---
+
+### Davids Söhne aus Jerusalem (Vers 4b–9)
+
+Dort regierte er sieben Jahre und sechs Monate.
+Und 33 Jahre regierte er in Jerusalem.
+<sup>5</sup>Diese wurden ihm in Jerusalem geboren:
+Schimea, Schobab, Natan und Salomo, vier,
+von Batschua, der Tochter Ammiëls;
+<sup>6</sup>dazu Jibhar, Elischama, Elifelet,
+<sup>7</sup>Nogah, Nefeg, Jafia,
+<sup>8</sup>Elischama, Eljada und Elifelet, neun.
+<sup>9</sup>Das alle waren Söhne Davids,
+außer den Söhnen der Nebenfrauen.
+Und Tamar war ihre Schwester.
+
+> **Was bedeutet das?**
+> „Batschua“ ist eine andere Form des Namens Batseba. Ihr Vater Ammiël heißt in 2. Samuel 11,3 „Eliam“.
+> Salomo wird hier als vierter Sohn Batsebas genannt, obwohl er wohl der älteste überlebende war. Die Reihenfolge ist vielleicht nicht nach dem Alter.
+> Natan, ein anderer Sohn Davids, ist wichtig im Stammbaum Jesu bei Lukas (Lukas 3,31).
+> Zwei Namen kommen doppelt vor: Elischama und Elifelet. Vielleicht starben die ersten Söhne mit diesem Namen jung, und spätere Söhne bekamen denselben Namen. Statt dem ersten Elischama steht in 2. Samuel 5,15 „Elischua“.
+> Tamar ist die einzige Tochter Davids, die genannt wird. Ihre schlimme Geschichte steht in 2. Samuel 13.
+
+---
+
+### Die Könige von Juda (Vers 10–16)
+
+<sup>10</sup>Salomos Sohn war Rehabeam,
+dessen Sohn Abija,
+dessen Sohn Asa,
+dessen Sohn Joschafat,
+<sup>11</sup>dessen Sohn Joram,
+dessen Sohn Ahasja,
+dessen Sohn Joasch,
+<sup>12</sup>dessen Sohn Amazja,
+dessen Sohn Asarja,
+dessen Sohn Jotam,
+<sup>13</sup>dessen Sohn Ahas,
+dessen Sohn Hiskija,
+dessen Sohn Manasse,
+<sup>14</sup>dessen Sohn Amon,
+dessen Sohn Joschija.
+<sup>15</sup>Die Söhne Joschijas:
+der Erstgeborene, Johanan,
+der zweite, Jojakim,
+der dritte, Zidkija,
+der vierte, Schallum.
+<sup>16</sup>Die Söhne Jojakims:
+sein Sohn Jechonja
+und sein Sohn Zidkija.
+
+> **Was bedeutet das?**
+> Das ist die Liste aller Könige von Juda aus der Familie Davids, über fast 400 Jahre. Wir kennen sie aus den Königsbüchern. Die Königin Atalja fehlt, weil sie nicht zur Familie Davids gehörte.
+> Abija heißt in den Königsbüchern „Abijam“, Asarja wird auch „Usija“ genannt.
+> Schallum ist wohl derselbe wie König Joahas (2. Könige 23,31; Jeremia 22,11). Von Johanan wissen wir sonst nichts.
+> Jechonja ist ein anderer Name für König Jojachin.
+> Der Zidkija in Vers 16 ist wohl ein anderer als der König Zidkija in Vers 15. Oder es ist doch derselbe, und „Sohn“ heißt hier „Nachfolger“.
+
+---
+
+### Die Familie Davids nach der Verbannung (Vers 17–24)
+
+<sup>17</sup>Die Söhne Jechonjas, des Gefangenen:
+sein Sohn Schealtiël,
+<sup>18</sup>Malkiram, Pedaja, Schenazzar, Jekamja, Hoschama und Nedabja.
+<sup>19</sup>Die Söhne Pedajas:
+Serubbabel und Schimi.
+Die Söhne Serubbabels:
+Meschullam und Hananja.
+Und Schelomit war ihre Schwester.
+<sup>20</sup>Dazu Haschuba, Ohel, Berechja, Hasadja und Juschab-Hesed, fünf.
+<sup>21</sup>Die Söhne Hananjas:
+Pelatja und Jeschaja,
+die Söhne Refajas,
+die Söhne Arnans,
+die Söhne Obadjas,
+die Söhne Schechanjas.
+<sup>22</sup>Der Sohn Schechanjas:
+Schemaja.
+Die Söhne Schemajas:
+Hattusch, Jigal, Bariach, Nearja und Schafat, sechs.
+<sup>23</sup>Die Söhne Nearjas:
+Eljoënai, Hiskija und Asrikam, drei.
+<sup>24</sup>Die Söhne Eljoënais:
+Hodawja, Eljaschib, Pelaja, Akkub, Johanan, Delaja und Anani, sieben.
+
+> **Was bedeutet das?**
+> Das ist eine wichtige Botschaft: Die Familie Davids ging in der Verbannung nicht unter! Jechonja (Jojachin) war ein Gefangener in Babylon (2. Könige 25,27). Aber seine Nachkommen lebten weiter.
+> Serubbabel führte nach der Verbannung die erste Gruppe von Juden zurück nach Jerusalem und begann mit dem Wiederaufbau des Tempels (Esra 3,2; Haggai 1,1). An anderen Stellen wird er „Sohn Schealtiëls“ genannt. Vielleicht war Schealtiël sein Onkel oder Adoptivvater, oder es gab eine Schwagerehe.
+> Die Liste geht noch mehrere Generationen nach Serubbabel weiter. Daran kann man sehen, dass die Chronik erst lange nach der Rückkehr geschrieben wurde.
+> In Vers 22 steht „sechs“, aber es werden nur fünf Namen genannt. Vielleicht wird Schemaja mitgezählt, oder ein Name ist beim Abschreiben verloren gegangen.
+> Vers 21 ist im Hebräischen schwer verständlich. In der griechischen Übersetzung bilden die Namen eine durchgehende Reihe von Vater und Sohn.
+> Matthäus nennt Jechonja, Schealtiël und Serubbabel im Stammbaum Jesu (Matthäus 1,12). So verbinden Christen die Hoffnung auf den Messias aus Davids Familie mit Jesus. Im Judentum wird der Messias aus dem Haus David noch erwartet.

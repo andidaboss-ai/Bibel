@@ -1,0 +1,891 @@
+{
+ "nr": 13,
+ "code": "1CH",
+ "kuerzel": "1Chr",
+ "name": "1. Chronik",
+ "name_englisch": "1 Chronicles",
+ "testament": "altes-testament",
+ "kapitel": 29,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Von Adam bis Esau",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 1. Buch der Chronik?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Die Bücher der Chronik erzählen die Geschichte Israels noch einmal, von Adam bis zum Ende der babylonischen Gefangenschaft. Ursprünglich waren das 1. und das 2. Buch der Chronik ein einziges Buch.\nVieles kennen wir schon aus den Büchern Samuel und Könige. Aber die Chronik erzählt aus einem anderen Blickwinkel. Sie wurde wahrscheinlich nach der Rückkehr aus Babylon geschrieben, etwa 400 bis 300 vor Christus. Die Menschen fragten damals: Wer sind wir? Gehören wir noch zu Gottes Volk? Hat Gott uns vergessen?\nDie Antwort der Chronik: Ihr gehört dazu. Ihr steht in einer langen Reihe, die bis zu Adam zurückgeht. Gott hat sein Volk nie aufgegeben.\nDarum beginnt das Buch mit langen Namenslisten (Kapitel 1–9). Das ist für uns heute ungewohnt. Aber für die Menschen damals war jeder Name wichtig: Hier stand ihre Familie, ihre Herkunft, ihr Platz im Volk Gottes. Darum lassen wir auch hier keinen Namen aus.\nDanach erzählt das 1. Buch der Chronik vor allem von König David (Kapitel 10–29). Besonders wichtig sind dabei der Tempel, die Priester, die Leviten und die Musik im Gottesdienst.\nIm Hebräischen heißt das Buch „Dibre ha-jamim“, das heißt „Ereignisse der Tage“. Das deutsche Wort „Chronik“ kommt vom griechischen Wort für Zeit.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Von Adam bis Noah",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Adam, Set, Enosch,",
+       "englisch_web": "Adam, Seth, Enosh,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Kenan, Mahalalel, Jered,",
+       "englisch_web": "Kenan, Mahalalel, Jared,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Henoch, Metuschelach, Lamech,",
+       "englisch_web": "Enoch, Methuselah, Lamech,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Noah, Sem, Ham und Jafet.",
+       "englisch_web": "Noah, Shem, Ham, and Japheth."
+      }
+     ],
+     "erklaerung": "Die Chronik beginnt ganz am Anfang: bei Adam, dem ersten Menschen. So zeigt sie: Die Geschichte Israels ist Teil der Geschichte aller Menschen.\nDie Namen stammen aus 1. Mose 5. Dort steht mehr über diese Menschen. Henoch zum Beispiel „ging mit Gott“, und Metuschelach wurde sehr alt.\nNoah hatte drei Söhne: Sem, Ham und Jafet. Von ihnen stammen nach der Bibel alle Völker der Erde ab."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Jafets",
+     "vers_von": 5,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Söhne Jafets:\nGomer, Magog, Madai, Jawan, Tubal, Meschech und Tiras.",
+       "englisch_web": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Söhne Gomers:\nAschkenas, Difat und Togarma.",
+       "englisch_web": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Söhne Jawans:\nElischa, Tarschisch, die Kittäer und die Rodaniter.",
+       "englisch_web": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim."
+      }
+     ],
+     "erklaerung": "Diese Namen stammen aus 1. Mose 10, der sogenannten „Völkertafel“. Viele Namen stehen für Völker oder Länder.\nDie Nachkommen Jafets lebten nach damaliger Vorstellung vor allem im Norden und Westen, zum Beispiel in Kleinasien (heute Türkei) und auf den Inseln im Mittelmeer.\n„Jawan“ ist wohl der alte Name für die Griechen (Ionier). „Madai“ sind die Meder. Die „Kittäer“ sind die Bewohner Zyperns.\nIn 1. Mose 10,3 steht statt Difat „Rifat“ und in 1. Mose 10,4 statt Rodaniter „Dodaniter“. Im Hebräischen sehen die Buchstaben D und R fast gleich aus."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Hams",
+     "vers_von": 8,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Söhne Hams:\nKusch, Mizrajim, Put und Kanaan.",
+       "englisch_web": "The sons of Ham: Cush, Mizraim, Put, and Canaan."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Söhne von Kusch:\nSeba, Hawila, Sabta, Ragma und Sabtecha.\nDie Söhne Ragmas:\nSaba und Dedan.",
+       "englisch_web": "The sons of Cush: Seba, Havilah, Sabta, Raama, Sabteca. The sons of Raamah: Sheba and Dedan."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Kusch zeugte Nimrod.\nEr war der Erste, der ein Gewaltiger auf der Erde wurde.",
+       "englisch_web": "Cush became the father of Nimrod. He began to be a mighty one on the earth."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Mizrajim zeugte die Luditer, die Anamiter, die Lehabiter, die Naftuhiter,",
+       "englisch_web": "Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "die Patrusiter, die Kasluhiter, von denen die Philister abstammen,\nund die Kaftoriter.",
+       "englisch_web": "Pathrusim, Casluhim (where the Philistines came from), and Caphtorim."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Kanaan zeugte Sidon, seinen Erstgeborenen, und Het,",
+       "englisch_web": "Canaan became the father of Sidon his firstborn, Heth,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "dazu den Jebusiter, den Amoriter, den Girgaschiter,",
+       "englisch_web": "the Jebusite, the Amorite, the Girgashite,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "den Hiwiter, den Arkiter, den Siniter,",
+       "englisch_web": "the Hivite, the Arkite, the Sinite,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "den Arwaditer, den Zemariter und den Hamatiter.",
+       "englisch_web": "the Arvadite, the Zemarite, and the Hamathite."
+      }
+     ],
+     "erklaerung": "Die Nachkommen Hams lebten nach damaliger Vorstellung vor allem im Süden: in Afrika und Arabien, und in Kanaan.\n„Kusch“ ist das Land südlich von Ägypten (heute Sudan). „Mizrajim“ ist der hebräische Name für Ägypten. „Put“ ist vielleicht Libyen.\nNimrod war ein berühmter Jäger und Herrscher in Mesopotamien (1. Mose 10,8–12).\nDie Namen in Vers 14–16 sind die Völker, die in Kanaan lebten, bevor Israel kam.\nWichtig: Diese Liste ordnet Völker nach Gebieten und Beziehungen, nicht nach Hautfarbe oder Wert. Die Bibel lehrt, dass alle Menschen von einem Menschenpaar abstammen und gleich viel wert sind. Die Liste wurde früher leider missbraucht, um Rassismus zu begründen. Das ist falsch und gegen den Sinn der Bibel."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Sems",
+     "vers_von": 17,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Söhne Sems:\nElam, Assur, Arpachschad, Lud, Aram, Uz, Hul, Geter und Meschech.",
+       "englisch_web": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Arpachschad zeugte Schelach,\nund Schelach zeugte Eber.",
+       "englisch_web": "Arpachshad became the father of Shelah, and Shelah became the father of Eber."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Eber wurden zwei Söhne geboren.\nDer eine hieß Peleg, denn in seinen Tagen wurde die Erde geteilt.\nUnd sein Bruder hieß Joktan.",
+       "englisch_web": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Joktan zeugte Almodad, Schelef, Hazarmawet, Jerach,",
+       "englisch_web": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Hadoram, Usal, Dikla,",
+       "englisch_web": "Hadoram, Uzal, Diklah,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Ebal, Abimaël, Saba,",
+       "englisch_web": "Ebal, Abimael, Sheba,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ofir, Hawila und Jobab.\nDas alle waren die Söhne Joktans.",
+       "englisch_web": "Ophir, Havilah, and Jobab. All these were the sons of Joktan."
+      }
+     ],
+     "erklaerung": "Von Sem stammen die „Semiten“ ab: die Völker im Nahen Osten, darunter die Aramäer, die Araber und die Israeliten.\nEber ist wahrscheinlich der Namensgeber der „Hebräer“.\n„Peleg“ heißt „Teilung“. Vielleicht ist die Zerstreuung der Völker nach dem Turmbau zu Babel gemeint (1. Mose 11).\nUz, Hul, Geter und Meschech sind in 1. Mose 10,23 Söhne Arams. Die Chronik nennt sie hier verkürzt.\nJoktans Nachkommen lebten vor allem in Arabien. Ofir war berühmt für sein Gold (1. Könige 9,28)."
+    },
+    {
+     "ueberschrift": "Von Sem bis Abraham",
+     "vers_von": 24,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Sem, Arpachschad, Schelach,",
+       "englisch_web": "Shem, Arpachshad, Shelah,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Eber, Peleg, Regu,",
+       "englisch_web": "Eber, Peleg, Reu,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Serug, Nahor, Terach,",
+       "englisch_web": "Serug, Nahor, Terah,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Abram, das ist Abraham.",
+       "englisch_web": "Abram (also called Abraham)."
+      }
+     ],
+     "erklaerung": "Jetzt wird die Linie enger. Von allen Nachkommen Sems wird nur noch eine Linie verfolgt: die Linie zu Abraham.\nAbram bekam von Gott einen neuen Namen: Abraham, „Vater vieler Völker“ (1. Mose 17,5). Mit ihm beginnt Gottes besondere Geschichte mit Israel."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Abrahams: Ismael und Ketura",
+     "vers_von": 28,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Söhne Abrahams:\nIsaak und Ismael.",
+       "englisch_web": "The sons of Abraham: Isaac and Ishmael."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Das sind ihre Nachkommen:\nder Erstgeborene Ismaels, Nebajot,\ndann Kedar, Adbeël, Mibsam,",
+       "englisch_web": "These are their generations: the firstborn of Ishmael, Nebaioth; then Kedar, Adbeel, Mibsam,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Mischma, Duma, Massa, Hadad, Tema,",
+       "englisch_web": "Mishma, Dumah, Massa, Hadad, Tema,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Jetur, Nafisch und Kedma.\nDas sind die Söhne Ismaels.",
+       "englisch_web": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Die Söhne Keturas, der Nebenfrau Abrahams:\nSie gebar Simran, Jokschan, Medan, Midian, Jischbak und Schuach.\nDie Söhne Jokschans:\nSaba und Dedan.",
+       "englisch_web": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die Söhne Midians:\nEfa, Efer, Henoch, Abida und Eldaa.\nDas alle waren die Söhne Keturas.",
+       "englisch_web": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah."
+      }
+     ],
+     "erklaerung": "Auch Ismael, der ältere Sohn Abrahams, hatte zwölf Söhne, so wie Gott es versprochen hatte (1. Mose 17,20). Viele Araber und Muslime sehen in Ismael ihren Stammvater.\nKetura war eine weitere Frau Abrahams nach Saras Tod (1. Mose 25,1–4). Von ihrem Sohn Midian stammen die Midianiter ab. Moses Frau Zippora war eine Midianiterin.\nDie Chronik vergisst die anderen Söhne Abrahams nicht. Gott hatte Abraham versprochen, dass alle Völker durch ihn gesegnet werden."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Esaus",
+     "vers_von": 34,
+     "vers_bis": 37,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 34,
+       "leichte_sprache": "Abraham zeugte Isaak.\nDie Söhne Isaaks:\nEsau und Israel.",
+       "englisch_web": "Abraham became the father of Isaac. The sons of Isaac: Esau and Israel."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Söhne Esaus:\nElifas, Reguël, Jëusch, Jalam und Korach.",
+       "englisch_web": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Die Söhne des Elifas:\nTeman, Omar, Zefi, Gatam, Kenas, Timna und Amalek.",
+       "englisch_web": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die Söhne Reguëls:\nNahat, Serach, Schamma und Missa.",
+       "englisch_web": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah."
+      }
+     ],
+     "erklaerung": "Isaak hatte zwei Söhne: Esau und Jakob. Jakob wird hier „Israel“ genannt, mit dem Namen, den Gott ihm gab (1. Mose 32,29).\nVon Esau stammen die Edomiter ab. Die Liste kommt aus 1. Mose 36.\nIn 1. Mose 36,12 ist Timna die Nebenfrau des Elifas und die Mutter Amaleks. Die Chronik zählt sie hier verkürzt unter seine Nachkommen."
+    },
+    {
+     "ueberschrift": "Die Bewohner Seïrs",
+     "vers_von": 38,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 38,
+       "leichte_sprache": "Die Söhne Seïrs:\nLotan, Schobal, Zibon, Ana, Dischon, Ezer und Dischan.",
+       "englisch_web": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Die Söhne Lotans:\nHori und Homam.\nUnd Timna war die Schwester Lotans.",
+       "englisch_web": "The sons of Lotan: Hori and Homam; and Timna was Lotan’s sister."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Die Söhne Schobals:\nAljan, Manahat, Ebal, Schefi und Onam.\nDie Söhne Zibons:\nAja und Ana.",
+       "englisch_web": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Der Sohn Anas:\nDischon.\nDie Söhne Dischons:\nHamran, Eschban, Jitran und Keran.",
+       "englisch_web": "The son of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Die Söhne Ezers:\nBilhan, Saawan und Jaakan.\nDie Söhne Dischans:\nUz und Aran.",
+       "englisch_web": "The sons of Ezer: Bilhan, Zaavan, and Jaakan. The sons of Dishan: Uz and Aran."
+      }
+     ],
+     "erklaerung": "Seïr ist das Bergland, in dem die Edomiter lebten. Vor ihnen wohnten dort die Horiter. Hier werden ihre Familien genannt (1. Mose 36,20–28).\nEsaus Familie vermischte sich mit ihnen. Esau heiratete Oholibama, eine Enkelin Zibons (1. Mose 36,2)."
+    },
+    {
+     "ueberschrift": "Die Könige und Fürsten von Edom",
+     "vers_von": 43,
+     "vers_bis": 54,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 43,
+       "leichte_sprache": "Das sind die Könige, die im Land Edom regierten,\nbevor ein König über die Israeliten regierte:\nBela, der Sohn Beors.\nSeine Stadt hieß Dinhaba.",
+       "englisch_web": "Now these are the kings who reigned in the land of Edom, before any king reigned over the children of Israel: Bela the son of Beor; and the name of his city was Dinhabah."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Bela starb,\nund Jobab, der Sohn Serachs, aus Bozra, wurde an seiner Stelle König.",
+       "englisch_web": "Bela died, and Jobab the son of Zerah of Bozrah reigned in his place."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Jobab starb,\nund Huscham aus dem Land der Temaniter wurde an seiner Stelle König.",
+       "englisch_web": "Jobab died, and Husham of the land of the Temanites reigned in his place."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Huscham starb,\nund Hadad, der Sohn Bedads, wurde an seiner Stelle König.\nEr schlug Midian im Gebiet von Moab.\nSeine Stadt hieß Awit.",
+       "englisch_web": "Husham died, and Hadad the son of Bedad, who struck Midian in the field of Moab, reigned in his place; and the name of his city was Avith."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Hadad starb,\nund Samla aus Masreka wurde an seiner Stelle König.",
+       "englisch_web": "Hadad died, and Samlah of Masrekah reigned in his place."
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Samla starb,\nund Schaul aus Rehobot am Strom wurde an seiner Stelle König.",
+       "englisch_web": "Samlah died, and Shaul of Rehoboth by the River reigned in his place."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Schaul starb,\nund Baal-Hanan, der Sohn Achbors, wurde an seiner Stelle König.",
+       "englisch_web": "Shaul died, and Baal Hanan the son of Achbor reigned in his place."
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Baal-Hanan starb,\nund Hadad wurde an seiner Stelle König.\nSeine Stadt hieß Pai.\nSeine Frau hieß Mehetabel, die Tochter Matreds, die Tochter Me-Sahabs.",
+       "englisch_web": "Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai. His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab."
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Dann starb Hadad.\nDie Fürsten von Edom waren:\nder Fürst Timna, der Fürst Alja, der Fürst Jetet,",
+       "englisch_web": "Then Hadad died. The chiefs of Edom were: chief Timna, chief Aliah, chief Jetheth,"
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "der Fürst Oholibama, der Fürst Ela, der Fürst Pinon,",
+       "englisch_web": "chief Oholibamah, chief Elah, chief Pinon,"
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "der Fürst Kenas, der Fürst Teman, der Fürst Mibzar,",
+       "englisch_web": "chief Kenaz, chief Teman, chief Mibzar,"
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "der Fürst Magdiël und der Fürst Iram.\nDas sind die Fürsten von Edom.",
+       "englisch_web": "chief Magdiel, and chief Iram. These are the chiefs of Edom."
+      }
+     ],
+     "erklaerung": "Edom hatte schon Könige, lange bevor Israel einen König hatte. Die Liste stammt aus 1. Mose 36,31–43.\nInteressant: Diese Könige bildeten keine Familie. Jeder kam aus einer anderen Stadt.\n„Fürsten“ waren die Anführer der Stämme oder Gebiete Edoms. Manche Namen sind wohl eher Namen von Gegenden.\nIn 1. Mose 36,39 heißt die Stadt „Pagu“ statt „Pai“.\nIn 1. Mose 10,28 heißt Ebal „Obal“.\nDamit endet der Blick auf die anderen Völker. Ab Kapitel 2 geht es nur noch um Israel."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Die Söhne Israels und der Stamm Juda",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die zwölf Söhne Israels",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Söhne Israels:\nRuben, Simeon, Levi, Juda, Issachar, Sebulon,",
+       "englisch_web": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Dan, Josef, Benjamin, Naftali, Gad und Asser.",
+       "englisch_web": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher."
+      }
+     ],
+     "erklaerung": "Jetzt kommt die Chronik zu ihrem eigentlichen Thema: zu Israel, also zu Jakob und seinen zwölf Söhnen. Von ihnen stammen die zwölf Stämme Israels ab.\nDie Reihenfolge ist fast wie in 1. Mose 35,23–26. Nur Dan steht hier früher."
+    },
+    {
+     "ueberschrift": "Juda und seine Söhne",
+     "vers_von": 3,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Söhne Judas:\nEr, Onan und Schela.\nDiese drei wurden ihm von der Tochter Schuas, der Kanaaniterin, geboren.\nEr, der Erstgeborene Judas, war böse in den Augen des HERRN,\nund er ließ ihn sterben.",
+       "englisch_web": "The sons of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in Yahweh’s sight; and he killed him."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Tamar, seine Schwiegertochter, gebar ihm Perez und Serach.\nJuda hatte insgesamt fünf Söhne.",
+       "englisch_web": "Tamar his daughter-in-law bore him Perez and Zerah. All the sons of Judah were five."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Söhne von Perez:\nHezron und Hamul.",
+       "englisch_web": "The sons of Perez: Hezron and Hamul."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Söhne Serachs:\nSimri, Etan, Heman, Kalkol und Dara, zusammen fünf.",
+       "englisch_web": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara—five of them in all."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Der Sohn Karmis:\nAchar, der Israel ins Unglück stürzte,\nweil er sich an dem vergriff, was dem Bann geweiht war.",
+       "englisch_web": "The son of Carmi: Achar, the troubler of Israel, who committed a trespass in the devoted thing."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Der Sohn Etans:\nAsarja.",
+       "englisch_web": "The son of Ethan: Azariah."
+      }
+     ],
+     "erklaerung": "Die Chronik beginnt mit Juda, nicht mit Ruben, dem Erstgeborenen. Denn aus Juda kommt König David, und um ihn geht es im Buch vor allem.\nDie Familiengeschichte Judas war nicht einfach. Die Geschichte von Juda und Tamar steht in 1. Mose 38. Die Chronik verschweigt die dunklen Seiten nicht. Trotzdem ist dieser Stamm von Gott erwählt.\nAchar (in Josua 7 heißt er Achan) hatte nach der Eroberung von Jericho heimlich Beute genommen. Sein Name wird hier mit dem hebräischen Wort für „Unglück bringen“ verbunden: „achar“.\nEtan, Heman, Kalkol und Dara waren berühmt für ihre Weisheit (1. Könige 5,11). Dort heißt Dara „Darda“.\nKarmi ist wohl ein Nachkomme Simris (Josua 7,1, dort „Sabdi“)."
+    },
+    {
+     "ueberschrift": "Von Hezron bis David",
+     "vers_von": 9,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Söhne Hezrons, die ihm geboren wurden:\nJerachmeël, Ram und Kelubai.",
+       "englisch_web": "The sons also of Hezron, who were born to him: Jerahmeel, Ram, and Chelubai."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ram zeugte Amminadab,\nund Amminadab zeugte Nachschon, den Fürsten der Söhne Judas.",
+       "englisch_web": "Ram became the father of Amminadab, and Amminadab became the father of Nahshon, prince of the children of Judah;"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Nachschon zeugte Salma,\nund Salma zeugte Boas.",
+       "englisch_web": "and Nahshon became the father of Salma, and Salma became the father of Boaz,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Boas zeugte Obed,\nund Obed zeugte Isai.",
+       "englisch_web": "and Boaz became the father of Obed, and Obed became the father of Jesse;"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Isai zeugte Eliab, seinen Erstgeborenen,\nAbinadab, den zweiten,\nSchimea, den dritten,",
+       "englisch_web": "and Jesse became the father of his firstborn Eliab, Abinadab the second, Shimea the third,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Netanel, den vierten,\nRaddai, den fünften,",
+       "englisch_web": "Nethanel the fourth, Raddai the fifth,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ozem, den sechsten,\nund David, den siebten.",
+       "englisch_web": "Ozem the sixth, and David the seventh;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ihre Schwestern waren Zeruja und Abigajil.\nDie Söhne Zerujas:\nAbischai, Joab und Asaël, drei.",
+       "englisch_web": "and their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Abigajil gebar Amasa.\nDer Vater Amasas war Jeter, der Ismaeliter.",
+       "englisch_web": "Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite."
+      }
+     ],
+     "erklaerung": "Das ist die Linie, auf die es der Chronik ankommt: von Juda über Boas und Obed zu Isai und David. Wir kennen sie aus dem Buch Rut (Rut 4,18–22).\nNachschon war der Anführer des Stammes Juda in der Wüste (4. Mose 1,7).\nDavid war der siebte Sohn Isais. In 1. Samuel 16,10–11 werden acht Söhne erwähnt. Vielleicht starb einer früh.\nDavids Neffen Joab, Abischai und Asaël waren wichtige Heerführer (2. Samuel 2,18).\nIn 2. Samuel 17,25 wird Jeter „Jitra, der Israelit“ genannt.\n„Kelubai“ ist eine andere Form des Namens Kaleb (Vers 18)."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Kalebs",
+     "vers_von": 18,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Kaleb, der Sohn Hezrons, zeugte Kinder mit seiner Frau Asuba und mit Jeriot.\nDas sind ihre Söhne:\nJescher, Schobab und Ardon.",
+       "englisch_web": "Caleb the son of Hezron became the father of children by Azubah his wife, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Asuba starb,\nund Kaleb heiratete Efrat.\nSie gebar ihm Hur.",
+       "englisch_web": "Azubah died, and Caleb married Ephrath, who bore him Hur."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Hur zeugte Uri,\nund Uri zeugte Bezalel.",
+       "englisch_web": "Hur became the father of Uri, and Uri became the father of Bezalel."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Danach ging Hezron zu der Tochter Machirs, des Vaters Gileads.\nEr nahm sie zur Frau, als er sechzig Jahre alt war.\nUnd sie gebar ihm Segub.",
+       "englisch_web": "Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he took as wife when he was sixty years old; and she bore him Segub."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Segub zeugte Jaïr.\nDer hatte 23 Städte im Land Gilead.",
+       "englisch_web": "Segub became the father of Jair, who had twenty-three cities in the land of Gilead."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Aber Geschur und Aram nahmen ihnen die Zeltdörfer Jaïrs weg,\ndazu Kenat und seine Dörfer, sechzig Städte.\nDas alle waren die Söhne Machirs, des Vaters Gileads.",
+       "englisch_web": "Geshur and Aram took the towns of Jair from them, with Kenath, and its villages, even sixty cities. All these were the sons of Machir the father of Gilead."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Nachdem Hezron in Kaleb-Efrata gestorben war,\ngebar ihm Abija, die Frau Hezrons, Aschhur, den Vater von Tekoa.",
+       "englisch_web": "After Hezron died in Caleb Ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa."
+      }
+     ],
+     "erklaerung": "Bezalel war der begabte Kunsthandwerker, der die Stiftshütte in der Wüste baute (2. Mose 31,1–5).\nHezron heiratete eine Frau aus dem Stamm Manasse (Machir war ein Sohn Manasses). So hatte der Stamm Juda auch Verbindungen in das Land östlich des Jordan, nach Gilead.\n„Vater von Tekoa“ heißt hier wohl: Gründer oder Anführer der Stadt Tekoa. Oft steht „Vater“ in diesen Listen für den Gründer eines Ortes.\nVers 18 ist im Hebräischen schwer verständlich. Vielleicht war Jeriot eine zweite Frau, vielleicht ein anderer Name für Asuba.\nVers 24 ist auch unklar. In der griechischen Übersetzung steht: „Nach Hezrons Tod ging Kaleb zu Efrata.“"
+    },
+    {
+     "ueberschrift": "Die Nachkommen Jerachmeëls",
+     "vers_von": 25,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Söhne Jerachmeëls, des Erstgeborenen Hezrons:\nRam, der Erstgeborene, Buna, Oren, Ozem und Ahija.",
+       "englisch_web": "The sons of Jerahmeel the firstborn of Hezron were Ram the firstborn, Bunah, Oren, Ozem, and Ahijah."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Jerachmeël hatte noch eine andere Frau, die hieß Atara.\nSie war die Mutter Onams.",
+       "englisch_web": "Jerahmeel had another wife, whose name was Atarah. She was the mother of Onam."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Die Söhne Rams, des Erstgeborenen Jerachmeëls:\nMaaz, Jamin und Eker.",
+       "englisch_web": "The sons of Ram the firstborn of Jerahmeel were Maaz, Jamin, and Eker."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Söhne Onams:\nSchammai und Jada.\nDie Söhne Schammais:\nNadab und Abischur.",
+       "englisch_web": "The sons of Onam were Shammai and Jada. The sons of Shammai: Nadab and Abishur."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Die Frau Abischurs hieß Abihajil.\nSie gebar ihm Achban und Molid.",
+       "englisch_web": "The name of the wife of Abishur was Abihail; and she bore him Ahban and Molid."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Die Söhne Nadabs:\nSeled und Appajim.\nAber Seled starb ohne Kinder.",
+       "englisch_web": "The sons of Nadab: Seled and Appaim; but Seled died without children."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Der Sohn Appajims:\nJischi.\nDer Sohn Jischis:\nScheschan.\nDer Sohn Scheschans:\nAchlai.",
+       "englisch_web": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Die Söhne Jadas, des Bruders Schammais:\nJeter und Jonatan.\nAber Jeter starb ohne Kinder.",
+       "englisch_web": "The sons of Jada the brother of Shammai: Jether and Jonathan; and Jether died without children."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die Söhne Jonatans:\nPelet und Sasa.\nDas waren die Söhne Jerachmeëls.",
+       "englisch_web": "The sons of Jonathan: Peleth and Zaza. These were the sons of Jerahmeel."
+      }
+     ],
+     "erklaerung": "Die Jerachmeëliter waren ein Teil des Stammes Juda, der im Süden, im Negev, lebte (1. Samuel 27,10).\nDie Chronik erwähnt auch, wer ohne Kinder starb. Kein Name wird vergessen, auch nicht der von Menschen, deren Familie endete."
+    },
+    {
+     "ueberschrift": "Ein ägyptischer Diener wird Teil der Familie",
+     "vers_von": 34,
+     "vers_bis": 41,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 34,
+       "leichte_sprache": "Scheschan hatte keine Söhne, sondern nur Töchter.\nScheschan hatte einen Diener, einen Ägypter, der hieß Jarha.",
+       "englisch_web": "Now Sheshan had no sons, but only daughters. Sheshan had a servant, an Egyptian, whose name was Jarha."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Scheschan gab seine Tochter seinem Diener Jarha zur Frau,\nund sie gebar ihm Attai.",
+       "englisch_web": "Sheshan gave his daughter to Jarha his servant as wife; and she bore him Attai."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Attai zeugte Natan,\nund Natan zeugte Sabad.",
+       "englisch_web": "Attai became the father of Nathan, and Nathan became the father of Zabad,"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Sabad zeugte Eflal,\nund Eflal zeugte Obed.",
+       "englisch_web": "and Zabad became the father of Ephlal, and Ephlal became the father of Obed,"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Obed zeugte Jehu,\nund Jehu zeugte Asarja.",
+       "englisch_web": "and Obed became the father of Jehu, and Jehu became the father of Azariah,"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Asarja zeugte Helez,\nund Helez zeugte Elasa.",
+       "englisch_web": "and Azariah became the father of Helez, and Helez became the father of Eleasah,"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Elasa zeugte Sismai,\nund Sismai zeugte Schallum.",
+       "englisch_web": "and Eleasah became the father of Sismai, and Sismai became the father of Shallum,"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Schallum zeugte Jekamja,\nund Jekamja zeugte Elischama.",
+       "englisch_web": "and Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama."
+      }
+     ],
+     "erklaerung": "Eine schöne kleine Geschichte mitten in der Liste: Scheschan hat keinen Sohn. Er gibt seine Tochter seinem ägyptischen Diener zur Frau. So wird ein Ausländer, sogar ein Diener, ein vollwertiges Mitglied der Familie in Juda. Seine Nachkommen werden über 13 Generationen aufgezählt.\nIn Vers 31 steht, dass Scheschan einen Sohn namens Achlai hatte. Vielleicht war Achlai die Tochter, oder der Sohn starb früh. Die Bibel erklärt das nicht."
+    },
+    {
+     "ueberschrift": "Weitere Nachkommen Kalebs",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 42,
+       "leichte_sprache": "Die Söhne Kalebs, des Bruders Jerachmeëls:\nMescha, sein Erstgeborener, der Vater von Sif,\nund die Söhne Mareschas, des Vaters von Hebron.",
+       "englisch_web": "The sons of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Die Söhne Hebrons:\nKorach, Tappuach, Rekem und Schema.",
+       "englisch_web": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Schema zeugte Raham, den Vater von Jorkeam.\nUnd Rekem zeugte Schammai.",
+       "englisch_web": "Shema became the father of Raham, the father of Jorkeam; and Rekem became the father of Shammai."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Der Sohn Schammais war Maon.\nUnd Maon war der Vater von Bet-Zur.",
+       "englisch_web": "The son of Shammai was Maon; and Maon was the father of Beth Zur."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Efa, die Nebenfrau Kalebs, gebar Haran, Moza und Gases.\nUnd Haran zeugte Gases.",
+       "englisch_web": "Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran became the father of Gazez."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Die Söhne Jahdais:\nRegem, Jotan, Geschan, Pelet, Efa und Schaaf.",
+       "englisch_web": "The sons of Jahdai: Regem, Jothan, Geshan, Pelet, Ephah, and Shaaph."
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Maacha, die Nebenfrau Kalebs, gebar Scheber und Tirhana.",
+       "englisch_web": "Maacah, Caleb’s concubine, bore Sheber and Tirhanah."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Sie gebar auch Schaaf, den Vater von Madmanna,\nSchewa, den Vater von Machbena und den Vater von Gibea.\nUnd die Tochter Kalebs war Achsa.",
+       "englisch_web": "She bore also Shaaph the father of Madmannah, Sheva the father of Machbena and the father of Gibea; and the daughter of Caleb was Achsah."
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Das waren die Söhne Kalebs.",
+       "englisch_web": "These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,"
+      }
+     ],
+     "erklaerung": "Viele dieser Namen sind auch Namen von Städten im Süden Judas: Sif, Hebron, Tappuach, Maon, Bet-Zur, Madmanna, Gibea. „Vater von“ heißt hier: Gründer oder Anführer dieser Stadt.\nAchsa, die Tochter Kalebs, kennen wir aus Josua 15,16–19. Dort ist es aber der berühmte Kaleb, der Sohn Jefunnes, der Kundschafter. Ob die Chronik hier dieselbe Person meint, ist unklar.\nWer Jahdai war, wird nicht gesagt.\nDie Chronik nennt hier ausdrücklich Frauen: Asuba, Efrat, Abija, Atara, Abihajil, Efa, Maacha und Achsa. Auch sie gehören zur Geschichte."
+    },
+    {
+     "ueberschrift": "Die Nachkommen Hurs",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Der Sohn Hurs, des Erstgeborenen Efratas:\nSchobal, der Vater von Kirjat-Jearim,",
+     "verse": [
+      {
+       "vers": 51,
+       "leichte_sprache": "Salma, der Vater von Betlehem,\nund Haref, der Vater von Bet-Gader.",
+       "englisch_web": "Salma the father of Bethlehem, and Hareph the father of Beth Gader."
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "Schobal, der Vater von Kirjat-Jearim, hatte Söhne:\nHaroë, die Hälfte der Menuhoter.",
+       "englisch_web": "Shobal the father of Kiriath Jearim had sons: Haroeh, half of the Menuhoth."
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Die Familien von Kirjat-Jearim:\ndie Jitriter, die Putiter, die Schumatiter und die Mischraiter.\nVon ihnen stammen die Zoratiter und die Eschtaoliter ab.",
+       "englisch_web": "The families of Kiriath Jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from them came the Zorathites and the Eshtaolites."
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Die Söhne Salmas:\nBetlehem, die Netofatiter, Atrot-Bet-Joab,\ndie Hälfte der Manahatiter, die Zoriter.",
+       "englisch_web": "The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites."
+      },
+      {
+       "vers": 55,
+       "leichte_sprache": "Die Familien der Schreiber, die in Jabez wohnten:\ndie Tiratiter, die Schimatiter und die Suchatiter.\nDas sind die Keniter, die von Hammat abstammen,\ndem Vater des Hauses Rechab.",
+       "englisch_web": "The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab."
+      }
+     ],
+     "erklaerung": "Hier tauchen bekannte Orte auf: Kirjat-Jearim, wo die Bundeslade 20 Jahre stand (1. Samuel 7,1–2), und Betlehem, die Stadt Davids. Später wurde dort Jesus geboren.\nIn der englischen Vorlage steht in Vers 50: „Das waren die Söhne Kalebs, des Sohnes Hurs.“ Wahrscheinlich ist gemeint: Das waren die Söhne Kalebs. Und dann neu: Der Sohn Hurs … Die Verse 50 bis 55 zählen dann die Nachkommen Hurs auf.\nDie Keniter waren ursprünglich kein israelitischer Stamm. Moses Schwiegervater gehörte zu ihnen (Richter 1,16). Sie wurden Teil Judas. Die Rechabiter, die wir aus 2. Könige 10,15 kennen, gehörten zu ihnen.\n„Schreiber“ waren Menschen, die lesen und schreiben konnten. Das war damals selten und wichtig."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Die Familie Davids",
+   "abschnitte": [
+    {
+     "ueberschrift": "Davids Söhne aus Hebron",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Söhne Davids, die ihm in Hebron geboren wurden:\nder Erstgeborene, Amnon, von Ahinoam, der Jesreeliterin;\nder zweite, Daniel, von Abigajil, der Karmeliterin;",
+       "englisch_web": "Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "der dritte, Absalom, der Sohn Maachas, der Tochter Talmais, des Königs von Geschur;\nder vierte, Adonija, der Sohn Haggits;",
+       "englisch_web": "the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "der fünfte, Schefatja, von Abital;\nder sechste, Jitream, von Egla, seiner Frau.",
+       "englisch_web": "the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife:"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sechs wurden ihm in Hebron geboren.",
+       "englisch_web": "six were born to him in Hebron; and he reigned there seven years and six months. He reigned thirty-three years in Jerusalem;"
+      }
+     ],
+     "erklaerung": "David regierte zuerst in Hebron, über den Stamm Juda (2. Samuel 2,1–4). Dort wurden diese sechs Söhne geboren. Die Liste steht auch in 2. Samuel 3,2–5.\nDaniel heißt in 2. Samuel 3,3 „Kilab“. Er ist nicht der Prophet Daniel.\nViele dieser Söhne haben eine traurige Geschichte: Amnon tat seiner Halbschwester Tamar Gewalt an und wurde von Absalom getötet. Absalom erhob sich gegen seinen Vater und starb. Adonija wollte König werden und wurde getötet."
+    },
+    {
+     "ueberschrift": "Davids Söhne aus Jerusalem",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Dort regierte er sieben Jahre und sechs Monate.\nUnd 33 Jahre regierte er in Jerusalem.",
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Diese wurden ihm in Jerusalem geboren:\nSchimea, Schobab, Natan und Salomo, vier,\nvon Batschua, der Tochter Ammiëls;",
+       "englisch_web": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four, by Bathshua the daughter of Ammiel;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "dazu Jibhar, Elischama, Elifelet,",
+       "englisch_web": "and Ibhar, Elishama, Eliphelet,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Nogah, Nefeg, Jafia,",
+       "englisch_web": "Nogah, Nepheg, Japhia,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Elischama, Eljada und Elifelet, neun.",
+       "englisch_web": "Elishama, Eliada, and Eliphelet, nine."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Das alle waren Söhne Davids,\naußer den Söhnen der Nebenfrauen.\nUnd Tamar war ihre Schwester.",
+       "englisch_web": "All these were the sons of David, in addition to the sons of the concubines; and Tamar was their sister."
+      }
+     ],
+     "erklaerung": "„Batschua“ ist eine andere Form des Namens Batseba. Ihr Vater Ammiël heißt in 2. Samuel 11,3 „Eliam“.\nSalomo wird hier als vierter Sohn Batsebas genannt, obwohl er wohl der älteste überlebende war. Die Reihenfolge ist vielleicht nicht nach dem Alter.\nNatan, ein anderer Sohn Davids, ist wichtig im Stammbaum Jesu bei Lukas (Lukas 3,31).\nZwei Namen kommen doppelt vor: Elischama und Elifelet. Vielleicht starben die ersten Söhne mit diesem Namen jung, und spätere Söhne bekamen denselben Namen. Statt dem ersten Elischama steht in 2. Samuel 5,15 „Elischua“.\nTamar ist die einzige Tochter Davids, die genannt wird. Ihre schlimme Geschichte steht in 2. Samuel 13."
+    },
+    {
+     "ueberschrift": "Die Könige von Juda",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Salomos Sohn war Rehabeam,\ndessen Sohn Abija,\ndessen Sohn Asa,\ndessen Sohn Joschafat,",
+       "englisch_web": "Solomon’s son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "dessen Sohn Joram,\ndessen Sohn Ahasja,\ndessen Sohn Joasch,",
+       "englisch_web": "Joram his son, Ahaziah his son, Joash his son,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "dessen Sohn Amazja,\ndessen Sohn Asarja,\ndessen Sohn Jotam,",
+       "englisch_web": "Amaziah his son, Azariah his son, Jotham his son,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "dessen Sohn Ahas,\ndessen Sohn Hiskija,\ndessen Sohn Manasse,",
+       "englisch_web": "Ahaz his son, Hezekiah his son, Manasseh his son,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "dessen Sohn Amon,\ndessen Sohn Joschija.",
+       "englisch_web": "Amon his son, and Josiah his son."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Die Söhne Joschijas:\nder Erstgeborene, Johanan,\nder zweite, Jojakim,\nder dritte, Zidkija,\nder vierte, Schallum.",
+       "englisch_web": "The sons of Josiah: the firstborn Johanan, the second Jehoiakim, the third Zedekiah, and the fourth Shallum."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Söhne Jojakims:\nsein Sohn Jechonja\nund sein Sohn Zidkija.",
+       "englisch_web": "The sons of Jehoiakim: Jeconiah his son, and Zedekiah his son."
+      }
+     ],
+     "erklaerung": "Das ist die Liste aller Könige von Juda aus der Familie Davids, über fast 400 Jahre. Wir kennen sie aus den Königsbüchern. Die Königin Atalja fehlt, weil sie nicht zur Familie Davids gehörte.\nAbija heißt in den Königsbüchern „Abijam“, Asarja wird auch „Usija“ genannt.\nSchallum ist wohl derselbe wie König Joahas (2. Könige 23,31; Jeremia 22,11). Von Johanan wissen wir sonst nichts.\nJechonja ist ein anderer Name für König Jojachin.\nDer Zidkija in Vers 16 ist wohl ein anderer als der König Zidkija in Vers 15. Oder es ist doch derselbe, und „Sohn“ heißt hier „Nachfolger“."
+    },
+    {
+     "ueberschrift": "Die Familie Davids nach der Verbannung",
+     "vers_von": 17,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Söhne Jechonjas, des Gefangenen:\nsein Sohn Schealtiël,",
+       "englisch_web": "The sons of Jeconiah, the captive: Shealtiel his son,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Malkiram, Pedaja, Schenazzar, Jekamja, Hoschama und Nedabja.",
+       "englisch_web": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Söhne Pedajas:\nSerubbabel und Schimi.\nDie Söhne Serubbabels:\nMeschullam und Hananja.\nUnd Schelomit war ihre Schwester.",
+       "englisch_web": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam and Hananiah; and Shelomith was their sister;"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Dazu Haschuba, Ohel, Berechja, Hasadja und Juschab-Hesed, fünf.",
+       "englisch_web": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed, five."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Die Söhne Hananjas:\nPelatja und Jeschaja,\ndie Söhne Refajas,\ndie Söhne Arnans,\ndie Söhne Obadjas,\ndie Söhne Schechanjas.",
+       "englisch_web": "The sons of Hananiah: Pelatiah and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Der Sohn Schechanjas:\nSchemaja.\nDie Söhne Schemajas:\nHattusch, Jigal, Bariach, Nearja und Schafat, sechs.",
+       "englisch_web": "The son of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Söhne Nearjas:\nEljoënai, Hiskija und Asrikam, drei.",
+       "englisch_web": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Söhne Eljoënais:\nHodawja, Eljaschib, Pelaja, Akkub, Johanan, Delaja und Anani, sieben.",
+       "englisch_web": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven."
+      }
+     ],
+     "erklaerung": "Das ist eine wichtige Botschaft: Die Familie Davids ging in der Verbannung nicht unter! Jechonja (Jojachin) war ein Gefangener in Babylon (2. Könige 25,27). Aber seine Nachkommen lebten weiter.\nSerubbabel führte nach der Verbannung die erste Gruppe von Juden zurück nach Jerusalem und begann mit dem Wiederaufbau des Tempels (Esra 3,2; Haggai 1,1). An anderen Stellen wird er „Sohn Schealtiëls“ genannt. Vielleicht war Schealtiël sein Onkel oder Adoptivvater, oder es gab eine Schwagerehe.\nDie Liste geht noch mehrere Generationen nach Serubbabel weiter. Daran kann man sehen, dass die Chronik erst lange nach der Rückkehr geschrieben wurde.\nIn Vers 22 steht „sechs“, aber es werden nur fünf Namen genannt. Vielleicht wird Schemaja mitgezählt, oder ein Name ist beim Abschreiben verloren gegangen.\nVers 21 ist im Hebräischen schwer verständlich. In der griechischen Übersetzung bilden die Namen eine durchgehende Reihe von Vater und Sohn.\nMatthäus nennt Jechonja, Schealtiël und Serubbabel im Stammbaum Jesu (Matthäus 1,12). So verbinden Christen die Hoffnung auf den Messias aus Davids Familie mit Jesus. Im Judentum wird der Messias aus dem Haus David noch erwartet."
+    }
+   ]
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 338 von 1189 Kapiteln (28.4 %), 10253 von 31098 Versen.**
+**Gesamt: 341 von 1189 Kapiteln (28.7 %), 10386 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 10 | 2. Samuel | AT | 24 / 24 | fertig |
 | 11 | 1. Könige | AT | 22 / 22 | fertig |
 | 12 | 2. Könige | AT | 25 / 25 | fertig |
-| 13 | 1. Chronik | AT | 0 / 29 | – |
+| 13 | 1. Chronik | AT | 3 / 29 | in Arbeit |
 | 14 | 2. Chronik | AT | 0 / 36 | – |
 | 15 | Esra | AT | 0 / 10 | – |
 | 16 | Nehemia | AT | 0 / 13 | – |
