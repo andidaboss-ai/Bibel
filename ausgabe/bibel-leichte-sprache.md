@@ -48209,3 +48209,505 @@ Und sein Sohn Ahas wurde an seiner Stelle König.
 > Syrien und Israel verbünden sich gegen Juda. Sie wollen Juda zwingen, mit ihnen gegen Assyrien zu kämpfen. Das wird im nächsten Kapitel erzählt.
 > Im Vergleich zum Nordreich ist Juda stabiler: Dort folgen die Söhne auf ihre Väter, aus der Familie Davids. Im Norden dagegen gab es in nur etwa 20 Jahren sechs Könige, und vier davon wurden ermordet.
 > Jotam regierte etwa von 750 bis 735 vor Christus, zuerst für seinen kranken Vater.
+
+## 2. Könige – Kapitel 16
+#### König Ahas und der fremde Altar
+
+---
+
+### Ahas, ein böser König in Juda (Vers 1–4)
+
+<sup>1</sup>Im 17. Jahr Pekachs, des Sohnes Remaljas,
+wurde Ahas, der Sohn Jotams, König von Juda.
+<sup>2</sup>Ahas war 20 Jahre alt, als er König wurde,
+und er regierte 16 Jahre in Jerusalem.
+Er tat nicht, was in den Augen des HERRN, seines Gottes, recht war,
+wie sein Vater David.
+<sup>3</sup>Sondern er ging auf dem Weg der Könige von Israel.
+Er ließ sogar seinen Sohn durch das Feuer gehen,
+nach den Gräueln der Völker,
+die der HERR vor den Israeliten vertrieben hatte.
+<sup>4</sup>Er opferte und verbrannte Weihrauch auf den Opferhöhen,
+auf den Hügeln und unter jedem grünen Baum.
+
+> **Was bedeutet das?**
+> Ahas ist einer der schlimmsten Könige von Juda.
+> „Seinen Sohn durch das Feuer gehen lassen“ bedeutet sehr wahrscheinlich: Er hat sein Kind als Opfer verbrannt, für einen fremden Gott. Das ist ein entsetzliches Verbrechen. Gottes Gesetz verbietet es ausdrücklich (3. Mose 18,21; 5. Mose 18,10). Gott will keine Menschenopfer. Schon bei Abraham und Isaak hat er gezeigt: Kein Kind soll geopfert werden (1. Mose 22).
+> Ahas regierte etwa von 735 bis 715 vor Christus.
+
+---
+
+### Ahas ruft die Assyrer zu Hilfe (Vers 5–9)
+
+<sup>5</sup>Damals zogen Rezin, der König von Syrien, und Pekach, der Sohn Remaljas, der König von Israel,
+nach Jerusalem herauf, um Krieg zu führen.
+Sie belagerten Ahas, aber sie konnten ihn nicht besiegen.
+<sup>6</sup>Zu dieser Zeit brachte Rezin, der König von Syrien, Elat wieder an Syrien
+und vertrieb die Judäer aus Elat.
+Und die Syrer kamen nach Elat und wohnen dort bis zum heutigen Tag.
+<sup>7</sup>Da schickte Ahas Boten zu Tiglat-Pileser, dem König von Assyrien, und ließ ihm sagen:
+„Ich bin dein Diener und dein Sohn.
+Komm herauf und rette mich aus der Hand des Königs von Syrien
+und aus der Hand des Königs von Israel,
+die sich gegen mich erhoben haben.“
+<sup>8</sup>Ahas nahm das Silber und Gold, das sich im Haus des HERRN
+und in den Schätzen des Hauses des Königs fand,
+und schickte es dem König von Assyrien als Geschenk.
+<sup>9</sup>Der König von Assyrien hörte auf ihn.
+Der König von Assyrien zog gegen Damaskus herauf und nahm es ein.
+Er führte seine Bewohner gefangen nach Kir
+und tötete Rezin.
+
+> **Was bedeutet das?**
+> Syrien und Israel wollen Juda zwingen, mit ihnen gegen Assyrien zu kämpfen. Sie belagern Jerusalem.
+> In dieser Not sagte der Prophet Jesaja zu Ahas: „Hab keine Angst, vertrau auf Gott!“ Und er gab ihm das berühmte Zeichen: „Eine junge Frau wird schwanger werden und einen Sohn gebären, und sie wird ihn Immanuel nennen, ‚Gott mit uns‘“ (Jesaja 7,1–14). Christen beziehen dieses Wort später auf Jesus (Matthäus 1,23).
+> Aber Ahas vertraut nicht auf Gott, sondern kauft sich die Hilfe der Assyrer. Er nennt sich ihren „Diener und Sohn“. Damit macht er Juda vom grausamen Assyrien abhängig.
+> Die Assyrer erobern 732 vor Christus Damaskus. Das Reich der Aramäer endet.
+> In Vers 6 steht in manchen hebräischen Handschriften „Edom“ statt „Aram“ (Syrien). Die beiden Wörter sehen im Hebräischen fast gleich aus. Viele Fachleute denken, dass ursprünglich die Edomiter gemeint waren.
+
+---
+
+### Der neue Altar (Vers 10–18)
+
+<sup>10</sup>Der König Ahas ging nach Damaskus, Tiglat-Pileser, dem König von Assyrien, entgegen.
+Dort sah er den Altar, der in Damaskus stand.
+Und der König Ahas schickte dem Priester Urija eine Zeichnung des Altars
+und genaue Baupläne dafür.
+<sup>11</sup>Der Priester Urija baute einen Altar.
+Ganz nach allem, was der König Ahas aus Damaskus geschickt hatte,
+so machte ihn der Priester Urija,
+bis der König Ahas aus Damaskus zurückkam.
+<sup>12</sup>Als der König aus Damaskus kam, sah der König den Altar.
+Der König trat an den Altar und opferte darauf.
+<sup>13</sup>Er verbrannte sein Brandopfer und sein Speiseopfer,
+goss sein Trankopfer aus
+und sprengte das Blut seiner Friedensopfer an den Altar.
+<sup>14</sup>Den Altar aus Bronze, der vor dem HERRN stand,
+rückte er von der Vorderseite des Hauses weg,
+von der Stelle zwischen seinem Altar und dem Haus des HERRN,
+und stellte ihn an die Nordseite seines Altars.
+<sup>15</sup>Der König Ahas befahl dem Priester Urija:
+„Auf dem großen Altar sollst du verbrennen:
+das Brandopfer am Morgen, das Speiseopfer am Abend,
+das Brandopfer des Königs und sein Speiseopfer,
+dazu das Brandopfer des ganzen Volkes des Landes,
+ihr Speiseopfer und ihre Trankopfer.
+Und alles Blut der Brandopfer und alles Blut der Schlachtopfer sollst du daran sprengen.
+Aber der Altar aus Bronze soll für mich sein, um Gott zu befragen.“
+<sup>16</sup>Der Priester Urija machte alles so, wie der König Ahas befohlen hatte.
+<sup>17</sup>Der König Ahas schnitt die Leisten von den Kesselwagen ab
+und nahm die Becken von ihnen herunter.
+Das Meer nahm er von den Rindern aus Bronze herunter, die darunter standen,
+und setzte es auf ein Steinpflaster.
+<sup>18</sup>Den überdachten Gang für den Sabbat, den man im Haus gebaut hatte,
+und den äußeren Eingang des Königs
+entfernte er vom Haus des HERRN,
+wegen des Königs von Assyrien.
+
+> **Was bedeutet das?**
+> In Damaskus muss Ahas sich vor dem assyrischen König verneigen. Dort sieht er einen Altar und will ihn in Jerusalem nachbauen lassen.
+> Der Altar Salomos wird zur Seite geschoben. Der neue, fremde Altar wird zum Hauptaltar. Das zeigt: Ahas passt den Gottesdienst den Mächtigen an. Statt Gott in die Mitte zu stellen, stellt er die Großmacht in die Mitte.
+> Der Priester Urija macht alles mit, ohne zu widersprechen.
+> Ahas nimmt auch Bronze von den Tempelgeräten ab, wohl um den Tribut an Assyrien zu bezahlen.
+> Was der „überdachte Gang für den Sabbat“ genau war, weiß man nicht sicher. Ahas entfernte wohl königliche Zeichen am Tempel, um den assyrischen König nicht zu reizen.
+
+---
+
+### Ahas stirbt (Vers 19–20)
+
+<sup>19</sup>Was sonst noch von Ahas zu erzählen ist, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>20</sup>Ahas legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt Davids begraben.
+Und sein Sohn Hiskija wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Auf einen der schlimmsten Könige folgt einer der besten: Hiskija. Ein Sohn muss nicht den Weg seines Vaters gehen.
+> Ein Siegelabdruck mit dem Namen „Ahas, Sohn Jotams, König von Juda“ ist bekannt. Er stammt aus dem Antikenhandel, darum ist seine Herkunft nicht sicher.
+
+## 2. Könige – Kapitel 17
+#### Das Ende des Nordreichs Israel
+
+---
+
+### Hoschea, der letzte König von Israel (Vers 1–6)
+
+<sup>1</sup>Im zwölften Jahr des Ahas, des Königs von Juda,
+wurde Hoschea, der Sohn Elas, König in Samaria über Israel, für neun Jahre.
+<sup>2</sup>Er tat, was in den Augen des HERRN böse war,
+aber nicht so wie die Könige von Israel vor ihm.
+<sup>3</sup>Salmanassar, der König von Assyrien, zog gegen ihn herauf.
+Hoschea wurde sein Diener und zahlte ihm Tribut.
+<sup>4</sup>Aber der König von Assyrien entdeckte eine Verschwörung bei Hoschea.
+Denn er hatte Boten zu So, dem König von Ägypten, geschickt
+und dem König von Assyrien keinen Tribut mehr gezahlt, wie er es jedes Jahr getan hatte.
+Da nahm der König von Assyrien ihn fest
+und legte ihn gefesselt ins Gefängnis.
+<sup>5</sup>Dann zog der König von Assyrien durch das ganze Land herauf,
+zog gegen Samaria
+und belagerte es drei Jahre lang.
+<sup>6</sup>Im neunten Jahr Hoscheas nahm der König von Assyrien Samaria ein
+und führte Israel weg nach Assyrien.
+Er siedelte sie in Halach an, am Habor, dem Fluss von Gosan,
+und in den Städten der Meder.
+
+> **Was bedeutet das?**
+> Hoschea versucht, sich mit Hilfe Ägyptens von Assyrien zu befreien. Aber Ägypten hilft nicht. Assyrien greift an.
+> Nach drei Jahren Belagerung fällt Samaria, etwa 722 vor Christus. Das Nordreich Israel hört auf zu bestehen. Es hatte etwa 200 Jahre bestanden.
+> Der assyrische König Sargon II., der Nachfolger Salmanassars, rühmt sich in seinen Inschriften, er habe über 27 000 Menschen aus Samaria verschleppt.
+> Halach, Habor und Gosan lagen im Norden Mesopotamiens, im Gebiet der heutigen Grenze zwischen Syrien und der Türkei. Die Meder lebten im heutigen Iran.
+> Wer „So, der König von Ägypten“ war, ist unsicher. Ägypten war damals in mehrere kleine Reiche zerfallen.
+> Hoschea regierte etwa von 732 bis 722 vor Christus.
+
+---
+
+### Warum ist das geschehen? (Vers 7–23)
+
+<sup>7</sup>Das geschah, weil die Israeliten gegen den HERRN, ihren Gott, gesündigt hatten,
+der sie aus dem Land Ägypten heraufgeführt hatte,
+aus der Hand des Pharao, des Königs von Ägypten.
+Sie hatten andere Götter verehrt
+<sup>8</sup>und hatten nach den Bräuchen der Völker gelebt,
+die der HERR vor den Israeliten vertrieben hatte,
+und nach den Bräuchen, die die Könige von Israel eingeführt hatten.
+<sup>9</sup>Die Israeliten taten heimlich Dinge gegen den HERRN, ihren Gott, die nicht recht waren.
+Sie bauten sich Opferhöhen in allen ihren Städten,
+vom Wachturm bis zur befestigten Stadt.
+<sup>10</sup>Sie stellten sich heilige Steinsäulen und Ascheren auf,
+auf jedem hohen Hügel und unter jedem grünen Baum.
+<sup>11</sup>Dort verbrannten sie Weihrauch auf allen Opferhöhen,
+wie die Völker, die der HERR vor ihnen weggeführt hatte.
+Und sie taten böse Dinge, um den HERRN zum Zorn zu reizen.
+<sup>12</sup>Sie dienten den Götzen,
+von denen der HERR ihnen gesagt hatte:
+„Das sollt ihr nicht tun.“
+<sup>13</sup>Und doch hatte der HERR Israel und Juda gewarnt,
+durch alle Propheten und alle Seher:
+„Kehrt um von euren bösen Wegen
+und haltet meine Gebote und meine Ordnungen,
+nach dem ganzen Gesetz, das ich euren Vätern geboten habe
+und das ich euch durch meine Knechte, die Propheten, gesandt habe.“
+<sup>14</sup>Aber sie wollten nicht hören.
+Sie machten ihren Nacken steif wie ihre Väter,
+die dem HERRN, ihrem Gott, nicht vertraut hatten.
+<sup>15</sup>Sie verwarfen seine Ordnungen und seinen Bund, den er mit ihren Vätern geschlossen hatte,
+und seine Mahnungen, mit denen er sie gewarnt hatte.
+Sie liefen dem Nichtigen nach und wurden selbst nichtig.
+Sie folgten den Völkern ringsum,
+von denen der HERR ihnen geboten hatte, nicht wie sie zu handeln.
+<sup>16</sup>Sie verließen alle Gebote des HERRN, ihres Gottes.
+Sie machten sich gegossene Bilder, zwei Kälber,
+und machten eine Aschera.
+Sie beteten das ganze Heer des Himmels an
+und dienten dem Baal.
+<sup>17</sup>Sie ließen ihre Söhne und ihre Töchter durch das Feuer gehen,
+trieben Wahrsagerei und Zauberei
+und verkauften sich, um zu tun, was in den Augen des HERRN böse war,
+um ihn zum Zorn zu reizen.
+<sup>18</sup>Darum wurde der HERR sehr zornig über Israel
+und entfernte sie von seinem Angesicht.
+Es blieb nichts übrig als nur der Stamm Juda.
+<sup>19</sup>Auch Juda hielt die Gebote des HERRN, seines Gottes, nicht,
+sondern lebte nach den Bräuchen, die Israel eingeführt hatte.
+<sup>20</sup>Der HERR verwarf alle Nachkommen Israels.
+Er demütigte sie und gab sie in die Hand von Plünderern,
+bis er sie von seinem Angesicht verstoßen hatte.
+<sup>21</sup>Denn er hatte Israel vom Haus Davids losgerissen.
+Und sie machten Jerobeam, den Sohn Nebats, zum König.
+Und Jerobeam trieb Israel davon ab, dem HERRN zu folgen,
+und verführte sie zu einer großen Sünde.
+<sup>22</sup>Die Israeliten lebten in allen Sünden, die Jerobeam begangen hatte.
+Sie ließen nicht davon ab,
+<sup>23</sup>bis der HERR Israel von seinem Angesicht entfernte,
+wie er es durch alle seine Knechte, die Propheten, gesagt hatte.
+So wurde Israel aus seinem Land nach Assyrien weggeführt, bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Das ist eine der wichtigsten Stellen in den Königsbüchern. Der Text hält inne und fragt: Warum ist das Nordreich untergegangen?
+> Die Antwort: Nicht weil Gott zu schwach war. Nicht weil Assyrien so stark war. Sondern weil das Volk Gott immer wieder verlassen hat, obwohl Gott es durch viele Propheten gewarnt hat: durch Elija, Elisa, Amos, Hosea und viele andere.
+> Gott hat lange Geduld gehabt, etwa 200 Jahre. Er hat immer wieder gerufen: „Kehrt um!“ Aber sie wollten nicht hören.
+> „Sie liefen dem Nichtigen nach und wurden selbst nichtig“: Wer leeren Dingen nachläuft, wird selbst leer. Man wird dem ähnlich, was man verehrt.
+> Vers 19 ist schon eine Warnung an Juda: Auch ihr seid in Gefahr.
+> Diese Erklärung ist eine Deutung aus dem Glauben. Sie will die Menschen damals zur Umkehr rufen. Sie sagt nicht, dass jedes Unglück im Leben eines Menschen eine Strafe Gottes ist. Jesus hat das ausdrücklich zurückgewiesen (Johannes 9,2–3; Lukas 13,1–5).
+> Was wurde aus den zehn Stämmen? Viele wurden zerstreut und gingen in anderen Völkern auf. Manche flohen nach Juda und lebten dort weiter. Die Frage nach den „verlorenen zehn Stämmen“ hat Menschen bis heute beschäftigt.
+
+---
+
+### Fremde Völker in Samaria (Vers 24–33)
+
+<sup>24</sup>Der König von Assyrien brachte Menschen aus Babel, aus Kuta, aus Awa, aus Hamat und aus Sefarwajim
+und siedelte sie in den Städten Samarias an, an Stelle der Israeliten.
+Sie nahmen Samaria in Besitz und wohnten in seinen Städten.
+<sup>25</sup>Als sie anfingen, dort zu wohnen, fürchteten sie den HERRN nicht.
+Darum schickte der HERR Löwen unter sie,
+die einige von ihnen töteten.
+<sup>26</sup>Da sagte man zum König von Assyrien:
+„Die Völker, die du weggeführt und in den Städten Samarias angesiedelt hast,
+kennen die Ordnung des Gottes des Landes nicht.
+Darum hat er Löwen unter sie geschickt.
+Und schau, sie töten sie,
+weil sie die Ordnung des Gottes des Landes nicht kennen.“
+<sup>27</sup>Da befahl der König von Assyrien:
+„Bringt einen der Priester dorthin, die ihr von dort weggeführt habt.
+Er soll hingehen und dort wohnen
+und sie die Ordnung des Gottes des Landes lehren.“
+<sup>28</sup>Da kam einer der Priester, die man aus Samaria weggeführt hatte,
+und wohnte in Bet-El.
+Und er lehrte sie, wie sie den HERRN fürchten sollten.
+<sup>29</sup>Aber jedes Volk machte sich seine eigenen Götter
+und stellte sie in den Häusern auf den Opferhöhen auf, die die Samariter gemacht hatten,
+jedes Volk in seinen Städten, in denen es wohnte.
+<sup>30</sup>Die Leute aus Babel machten Sukkot-Benot,
+die Leute aus Kut machten Nergal,
+die Leute aus Hamat machten Aschima,
+<sup>31</sup>und die Awiter machten Nibhas und Tartak.
+Und die Sefarwiter verbrannten ihre Kinder im Feuer für Adrammelech und Anammelech,
+die Götter von Sefarwajim.
+<sup>32</sup>So fürchteten sie den HERRN,
+aber sie machten sich auch aus ihren eigenen Leuten Priester für die Opferhöhen,
+die für sie in den Häusern auf den Opferhöhen opferten.
+<sup>33</sup>Sie fürchteten den HERRN,
+und sie dienten auch ihren eigenen Göttern,
+nach den Bräuchen der Völker, aus denen man sie weggeführt hatte.
+
+> **Was bedeutet das?**
+> Die Assyrer hatten eine grausame Methode: Sie verschleppten besiegte Völker und siedelten fremde Völker in ihrem Land an. So sollten keine Aufstände entstehen.
+> Die neuen Siedler bringen ihre eigenen Götter mit. Sie verehren den HERRN zusätzlich, als einen Gott unter vielen. Es entsteht eine Mischreligion.
+> Die Löwen wurden zahlreicher, weil das Land nach dem Krieg verwüstet und leer war. Die Menschen deuteten das als Zeichen des Gottes des Landes.
+> Aus dieser Bevölkerung gingen nach jüdischer Sicht später die Samariter hervor. Die Samariter selbst sehen sich aber als Nachkommen der Israeliten, die im Land geblieben sind, besonders der Stämme Efraim und Manasse. Es gibt sie bis heute, eine kleine Gemeinschaft bei Nablus und in Holon in Israel.
+> Juden und Samariter waren lange verfeindet. Jesus hat diese Feindschaft durchbrochen: Er erzählte das Gleichnis vom barmherzigen Samariter (Lukas 10,25–37) und sprach mit der Samariterin am Brunnen (Johannes 4).
+> Die Namen der fremden Götter sind sonst kaum bekannt. Nergal war ein Gott der Unterwelt aus Mesopotamien.
+> Auch die Sefarwiter brachten Kinderopfer. Die Bibel nennt das als schlimmstes Beispiel des Götzendienstes.
+
+---
+
+### Bis zum heutigen Tag (Vers 34–41)
+
+<sup>34</sup>Bis zum heutigen Tag tun sie, was sie früher getan haben.
+Sie fürchten den HERRN nicht
+und halten sich nicht an die Ordnungen und Rechtsordnungen,
+an das Gesetz und das Gebot,
+das der HERR den Söhnen Jakobs geboten hat,
+dem er den Namen Israel gegeben hat.
+<sup>35</sup>Mit ihnen hatte der HERR einen Bund geschlossen und ihnen geboten:
+„Ihr sollt keine anderen Götter fürchten,
+euch nicht vor ihnen niederwerfen,
+ihnen nicht dienen und ihnen nicht opfern.
+<sup>36</sup>Sondern den HERRN, der euch mit großer Kraft und mit ausgestrecktem Arm aus dem Land Ägypten heraufgeführt hat,
+den sollt ihr fürchten,
+vor ihm sollt ihr euch niederwerfen,
+und ihm sollt ihr opfern.
+<sup>37</sup>Die Ordnungen und die Rechtsordnungen,
+das Gesetz und das Gebot, das er für euch aufgeschrieben hat,
+sollt ihr für immer halten und danach handeln.
+Ihr sollt keine anderen Götter fürchten.
+<sup>38</sup>Den Bund, den ich mit euch geschlossen habe, sollt ihr nicht vergessen.
+Ihr sollt keine anderen Götter fürchten.
+<sup>39</sup>Sondern den HERRN, euren Gott, sollt ihr fürchten.
+Dann wird er euch aus der Hand aller eurer Feinde retten.“
+<sup>40</sup>Aber sie hörten nicht,
+sondern taten, was sie früher getan hatten.
+<sup>41</sup>So fürchteten diese Völker den HERRN,
+und sie dienten auch ihren geschnitzten Bildern.
+Auch ihre Kinder und ihre Kindeskinder machten es so.
+Sie tun, wie ihre Väter getan haben, bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Der Text wiederholt das wichtigste Gebot: „Ihr sollt keine anderen Götter fürchten.“ Dreimal steht es hier. Es ist das erste der Zehn Gebote (2. Mose 20,3).
+> Vers 33 sagt: „Sie fürchteten den HERRN.“ Vers 34 sagt: „Sie fürchten den HERRN nicht.“ Das ist kein Widerspruch. Gemeint ist: Sie verehrten ihn ein bisschen, aber nicht allein und nicht von Herzen. Halbe Gottesverehrung ist für die Bibel keine echte Gottesfurcht.
+> „Gott fürchten“ heißt in der Bibel nicht, Angst vor Gott haben. Es heißt: Gott ernst nehmen, ihn ehren und ihm vertrauen.
+
+## 2. Könige – Kapitel 18
+#### Hiskija und die Bedrohung durch Assyrien
+
+---
+
+### Hiskija, ein König, der Gott vertraut (Vers 1–8)
+
+<sup>1</sup>Im dritten Jahr Hoscheas, des Sohnes Elas, des Königs von Israel,
+wurde Hiskija, der Sohn des Ahas, König von Juda.
+<sup>2</sup>Er war 25 Jahre alt, als er König wurde,
+und er regierte 29 Jahre in Jerusalem.
+Seine Mutter hieß Abi, die Tochter Secharjas.
+<sup>3</sup>Er tat, was in den Augen des HERRN recht war,
+ganz so, wie sein Vater David getan hatte.
+<sup>4</sup>Er entfernte die Opferhöhen,
+zerbrach die Steinsäulen
+und hieb die Aschera um.
+Er zerschlug auch die Schlange aus Bronze, die Mose gemacht hatte.
+Denn bis zu dieser Zeit verbrannten die Israeliten ihr Weihrauch.
+Man nannte sie Nehuschtan.
+<sup>5</sup>Er vertraute auf den HERRN, den Gott Israels.
+Nach ihm war keiner wie er unter allen Königen von Juda,
+und auch keiner von denen, die vor ihm waren.
+<sup>6</sup>Denn er hing dem HERRN an.
+Er wich nicht davon ab, ihm zu folgen,
+sondern hielt seine Gebote, die der HERR Mose geboten hatte.
+<sup>7</sup>Und der HERR war mit ihm.
+Überall, wohin er ging, hatte er Erfolg.
+Er lehnte sich gegen den König von Assyrien auf und diente ihm nicht.
+<sup>8</sup>Er schlug die Philister bis nach Gaza und ihr Gebiet,
+vom Wachturm bis zur befestigten Stadt.
+
+> **Was bedeutet das?**
+> Endlich wieder ein König wie David! Hiskija ist einer der besten Könige Judas. Das Besondere an ihm: „Er vertraute auf den HERRN.“
+> Er schafft als erster König die Opferhöhen ab. Damit soll Gott nur noch im Tempel in Jerusalem verehrt werden, wie es in 5. Mose 12 steht.
+> Er zerstört sogar die Schlange aus Bronze, die Mose in der Wüste gemacht hatte (4. Mose 21,8–9). Damals war sie ein Zeichen der Rettung. Aber mit der Zeit wurde sie selbst angebetet, wie ein Götze. Hiskija zeigt Mut: Auch etwas Altes und Ehrwürdiges muss weg, wenn es den Platz Gottes einnimmt.
+> „Nehuschtan“ ist ein Wortspiel: Es klingt wie „Schlange“ und wie „Bronze“, also etwa: „nur ein Stück Bronze“.
+> Hiskija regierte etwa von 715 bis 686 vor Christus. Die Jahresangaben in diesem Kapitel sind schwer zu vereinbaren. Vielleicht regierte er zuerst gemeinsam mit seinem Vater.
+
+---
+
+### Samaria fällt (Vers 9–12)
+
+<sup>9</sup>Im vierten Jahr des Königs Hiskija,
+das war das siebte Jahr Hoscheas, des Sohnes Elas, des Königs von Israel,
+zog Salmanassar, der König von Assyrien, gegen Samaria herauf und belagerte es.
+<sup>10</sup>Nach drei Jahren nahmen sie es ein.
+Im sechsten Jahr Hiskijas, das war das neunte Jahr Hoscheas, des Königs von Israel,
+wurde Samaria eingenommen.
+<sup>11</sup>Der König von Assyrien führte Israel weg nach Assyrien
+und siedelte sie in Halach an, am Habor, dem Fluss von Gosan,
+und in den Städten der Meder,
+<sup>12</sup>weil sie nicht auf die Stimme des HERRN, ihres Gottes, gehört hatten,
+sondern seinen Bund übertreten hatten,
+alles, was Mose, der Knecht des HERRN, geboten hatte.
+Sie wollten es nicht hören und nicht tun.
+
+> **Was bedeutet das?**
+> Der Untergang des Nordreichs wird hier noch einmal kurz erzählt. Hiskija hat ihn miterlebt. Er weiß jetzt: Auch Juda ist in Gefahr. Wie wird er sich verhalten?
+
+---
+
+### Sanherib greift Juda an (Vers 13–16)
+
+<sup>13</sup>Im 14. Jahr des Königs Hiskija
+zog Sanherib, der König von Assyrien, gegen alle befestigten Städte Judas herauf
+und nahm sie ein.
+<sup>14</sup>Da schickte Hiskija, der König von Juda, zum König von Assyrien nach Lachisch
+und ließ ihm sagen:
+„Ich habe gesündigt. Zieh von mir ab.
+Was du mir auferlegst, will ich tragen.“
+Da legte der König von Assyrien Hiskija, dem König von Juda,
+etwa 10 Tonnen Silber und etwa 1 Tonne Gold auf.
+<sup>15</sup>Hiskija gab alles Silber, das sich im Haus des HERRN
+und in den Schätzen des Hauses des Königs fand.
+<sup>16</sup>Zu dieser Zeit ließ Hiskija das Gold von den Türen des Tempels des HERRN abschlagen
+und von den Türpfosten, die Hiskija, der König von Juda, hatte überziehen lassen,
+und gab es dem König von Assyrien.
+
+> **Was bedeutet das?**
+> Im Jahr 701 vor Christus greift der assyrische König Sanherib Juda an. Er erobert viele Städte, darunter die große Festung Lachisch.
+> Diese Ereignisse sind auch außerhalb der Bibel gut belegt:
+> – In Sanheribs Palast in Ninive gab es große Steinreliefs, die die Eroberung von Lachisch zeigen. Sie sind heute im Britischen Museum in London.
+> – Auf einem Tonprisma rühmt sich Sanherib, er habe 46 Städte Judas erobert und Hiskija in Jerusalem eingesperrt „wie einen Vogel im Käfig“. Er nennt auch 30 Talente Gold als Tribut, genau wie die Bibel. Beim Silber nennt er eine höhere Zahl (800 Talente).
+> – In Lachisch haben Archäologen die Belagerungsrampe der Assyrer gefunden.
+> Hiskija gibt nach und zahlt einen riesigen Tribut. Er muss sogar das Gold von den Tempeltüren abnehmen.
+> In der Bibel steht „300 Talente Silber und 30 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.
+
+---
+
+### Der Rabschake verhöhnt Jerusalem (Vers 17–25)
+
+<sup>17</sup>Der König von Assyrien schickte den Tartan, den Rabsaris und den Rabschake
+mit einem großen Heer von Lachisch zum König Hiskija nach Jerusalem.
+Sie zogen herauf und kamen nach Jerusalem.
+Als sie heraufgekommen waren, kamen sie
+und stellten sich an die Wasserleitung des oberen Teiches,
+die an der Straße zum Walkerfeld liegt.
+<sup>18</sup>Als sie nach dem König riefen,
+kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
+Schebna, der Schreiber,
+und Joach, der Sohn Asafs, der Kanzler, zu ihnen hinaus.
+<sup>19</sup>Der Rabschake sagte zu ihnen:
+„Sagt doch zu Hiskija:
+‚So spricht der große König, der König von Assyrien:
+Was ist das für ein Vertrauen, auf das du dich verlässt?
+<sup>20</sup>Du sagst – aber das sind nur leere Worte –:
+„Es gibt Rat und Stärke für den Krieg.“
+Auf wen vertraust du denn, dass du dich gegen mich aufgelehnt hast?
+<sup>21</sup>Schau, jetzt vertraust du auf diesen geknickten Rohrstab, auf Ägypten.
+Wenn sich jemand darauf stützt,
+dringt er ihm in die Hand und durchbohrt sie.
+So ist der Pharao, der König von Ägypten, für alle, die auf ihn vertrauen.
+<sup>22</sup>Und wenn ihr zu mir sagt:
+„Wir vertrauen auf den HERRN, unseren Gott“,
+ist das nicht der, dessen Opferhöhen und Altäre Hiskija entfernt hat?
+Und er hat zu Juda und Jerusalem gesagt:
+„Vor diesem Altar in Jerusalem sollt ihr anbeten.“
+<sup>23</sup>Nun gib doch meinem Herrn, dem König von Assyrien, ein Pfand:
+Ich gebe dir 2000 Pferde,
+wenn du von deiner Seite Reiter für sie aufbringen kannst.
+<sup>24</sup>Wie willst du da auch nur einen einzigen Hauptmann zurückschlagen,
+einen der geringsten Diener meines Herrn?
+Und du verlässt dich auf Ägypten wegen der Wagen und Reiter!
+<sup>25</sup>Bin ich etwa ohne den HERRN gegen diesen Ort heraufgezogen, um ihn zu vernichten?
+Der HERR hat zu mir gesagt:
+„Zieh gegen dieses Land hinauf und vernichte es.“‘“
+
+> **Was bedeutet das?**
+> „Tartan“, „Rabsaris“ und „Rabschake“ sind keine Namen, sondern assyrische Titel: der Oberbefehlshaber, ein hoher Hofbeamter und der Obermundschenk, ein wichtiger Berater des Königs.
+> Der Rabschake ist ein geschickter Redner. Er will den Menschen in Jerusalem den Mut nehmen. Er greift alles an, worauf sie vertrauen:
+> – Ägypten? Ein geknickter Stab, der einem in die Hand sticht.
+> – Das eigene Heer? Ihr habt nicht einmal genug Reiter für 2000 Pferde.
+> – Gott? Hiskija hat doch seine Altäre abgerissen! (Er versteht nicht, dass Hiskija Gott damit treu war.)
+> – Und dann die gemeinste Behauptung: Euer Gott selbst hat mich geschickt!
+> Das ist psychologische Kriegsführung: Er will Zweifel säen.
+> Der „obere Teich“ war ein Wasserbecken bei Jerusalem. Genau dort hatte Jesaja Jahre zuvor Ahas getroffen und ihn zum Vertrauen auf Gott aufgerufen (Jesaja 7,3). Ahas hatte nicht vertraut. Wird Hiskija vertrauen?
+
+---
+
+### Die Rede an das Volk (Vers 26–37)
+
+<sup>26</sup>Da sagten Eljakim, der Sohn Hilkijas, Schebna und Joach zum Rabschake:
+„Rede doch mit deinen Dienern in der syrischen Sprache, denn wir verstehen sie.
+Rede nicht in der Sprache der Juden mit uns,
+vor den Ohren des Volkes, das auf der Mauer ist.“
+<sup>27</sup>Aber der Rabschake sagte zu ihnen:
+„Hat mich mein Herr etwa zu deinem Herrn und zu dir geschickt, um diese Worte zu sagen?
+Hat er mich nicht zu den Männern geschickt, die auf der Mauer sitzen
+und mit euch ihren eigenen Kot essen und ihren eigenen Urin trinken müssen?“
+<sup>28</sup>Dann stellte sich der Rabschake hin
+und rief mit lauter Stimme in der Sprache der Juden:
+„Hört das Wort des großen Königs, des Königs von Assyrien!
+<sup>29</sup>So spricht der König:
+‚Lasst euch nicht von Hiskija täuschen,
+denn er kann euch nicht aus seiner Hand retten.
+<sup>30</sup>Lasst euch nicht von Hiskija dazu bringen, auf den HERRN zu vertrauen,
+wenn er sagt:
+„Der HERR wird uns ganz sicher retten,
+und diese Stadt wird nicht in die Hand des Königs von Assyrien gegeben werden.“
+<sup>31</sup>Hört nicht auf Hiskija!‘
+Denn so spricht der König von Assyrien:
+‚Schließt Frieden mit mir und kommt zu mir heraus.
+Dann kann jeder von seinem Weinstock und jeder von seinem Feigenbaum essen
+und jeder Wasser aus seiner eigenen Zisterne trinken,
+<sup>32</sup>bis ich komme und euch in ein Land wegführe, das wie euer Land ist:
+ein Land mit Korn und Most, ein Land mit Brot und Weinbergen,
+ein Land mit Olivenbäumen und Honig,
+damit ihr lebt und nicht sterbt.
+Hört nicht auf Hiskija, wenn er euch überredet und sagt:
+„Der HERR wird uns retten.“
+<sup>33</sup>Hat etwa einer von den Göttern der Völker sein Land aus der Hand des Königs von Assyrien gerettet?
+<sup>34</sup>Wo sind die Götter von Hamat und Arpad?
+Wo sind die Götter von Sefarwajim, Hena und Iwa?
+Haben sie Samaria aus meiner Hand gerettet?
+<sup>35</sup>Wer von allen Göttern der Länder hat sein Land aus meiner Hand gerettet,
+dass der HERR Jerusalem aus meiner Hand retten sollte?‘“
+<sup>36</sup>Aber das Volk schwieg und antwortete ihm kein Wort.
+Denn der König hatte befohlen:
+„Antwortet ihm nicht.“
+<sup>37</sup>Da kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
+Schebna, der Schreiber,
+und Joach, der Sohn Asafs, der Kanzler,
+mit zerrissenen Kleidern zu Hiskija
+und erzählten ihm die Worte des Rabschake.
+
+> **Was bedeutet das?**
+> „Die syrische Sprache“ ist Aramäisch. Das war damals die Sprache der Diplomatie. Die Beamten Judas verstanden es, das einfache Volk nicht. „Die Sprache der Juden“ ist das Hebräisch, das in Juda gesprochen wurde.
+> Der Rabschake will aber gerade, dass das Volk zuhört. Er spricht in der Sprache des Volkes und malt ihnen den Hunger der Belagerung drastisch aus.
+> Dann macht er ein verlockendes Angebot: Ergebt euch, dann geht es euch gut. Ehrlicherweise sagt er auch, dass er sie danach verschleppen wird, nur in ein „schönes Land“.
+> Sein größter Fehler: Er stellt den Gott Israels auf eine Stufe mit den Göttern anderer Völker. „Keiner von ihnen konnte sein Land retten, also kann es euer Gott auch nicht.“ Damit fordert er Gott selbst heraus.
+> Das Volk schweigt, wie der König befohlen hat. Manchmal ist Schweigen die stärkste Antwort auf Hohn.
+> Hamat und Arpad waren Städte in Syrien, die die Assyrer erobert hatten.
+> Die Geschichte wird auch im Buch Jesaja erzählt (Jesaja 36–37), fast mit denselben Worten.
