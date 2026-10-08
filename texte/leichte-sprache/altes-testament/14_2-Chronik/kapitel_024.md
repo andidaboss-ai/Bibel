@@ -162,7 +162,7 @@ aber man begrub ihn nicht in den Gräbern der Könige.
 Sabad, der Sohn der Schimat, der Ammoniterin,
 und Josabad, der Sohn der Schimrit, der Moabiterin.
 [27] Was seine Söhne betrifft,
-die vielen Prophetensprüche gegen ihn
+die großen Lasten, die ihm auferlegt wurden,
 und den Wiederaufbau des Hauses Gottes,
 schau, das ist aufgeschrieben in der Auslegung des Buches der Könige.
 Sein Sohn Amazja wurde an seiner Stelle König.
@@ -172,4 +172,4 @@ Sein Sohn Amazja wurde an seiner Stelle König.
 > Ein wenig zuvor war Juda gegen ein riesiges Heer gerettet worden (Kapitel 14 und 20). Jetzt verliert ein großes Heer gegen wenige Männer. Es kommt nicht auf die Zahl an, sondern darauf, ob man Gott vertraut.
 > Vers 25 sagt „Söhne“ Jojadas in der Mehrzahl. Vielleicht wurden noch weitere Söhne getötet, oder es ist eine allgemeine Ausdrucksweise.
 > Jojada, der Priester, wurde bei den Königen begraben. Joasch, der König, nicht. Was zählt, ist nicht der Titel, sondern wie man gelebt hat.
-> „Die vielen Prophetensprüche gegen ihn“: Wörtlich „die Größe der Lasten“. Ein „Lastspruch“ ist eine schwere Botschaft eines Propheten. Die englische Vorlage hat hier „die Größe der Lasten, die ihm auferlegt wurden“. Es kann also auch die Abgaben meinen, die er an Syrien zahlen musste.
+> „Die großen Lasten, die ihm auferlegt wurden“: Das kann die Abgaben meinen, die er an Syrien zahlen musste. Das hebräische Wort für „Last“ kann aber auch „Lastspruch“ bedeuten, also eine schwere Botschaft eines Propheten. Dann wären die Prophetenworte gegen ihn gemeint (Vers 19).
