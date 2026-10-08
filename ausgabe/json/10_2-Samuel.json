@@ -1056,6 +1056,414 @@
      "erklaerung": "Michal macht sich über David lustig. Sie findet, ein König sollte würdevoll sein, nicht wild tanzen. Das kurze leinene Gewand hatte beim Tanzen wohl viel gezeigt.\nDavid antwortet: Ich habe nicht für die Menschen getanzt, sondern für Gott. Vor Gott ist es nicht peinlich, sich klein zu machen.\nHinter dem Streit steckt aber auch mehr: Michal ist gegen ihren Willen von ihrem zweiten Mann weggeholt worden (Kapitel 3,15–16). Sie hatte David einmal geliebt (1. Samuel 18,20). Jetzt ist von dieser Liebe nichts mehr übrig. David erinnert sie hart daran, dass Gott ihren Vater verworfen hat.\nVers 23 ist ein trauriges Ende: Michal bekommt kein Kind. Damit gibt es keinen Nachkommen, in dem Sauls und Davids Familie vereint wären. Ob das eine Strafe Gottes war oder ob David sich von ihr fernhielt, sagt der Text nicht."
     }
    ]
+  },
+  {
+   "kapitel": 7,
+   "titel": "Gottes Versprechen an David",
+   "abschnitte": [
+    {
+     "ueberschrift": "David will Gott ein Haus bauen",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als der König in seinem Haus wohnte\nund der HERR ihm Ruhe vor allen seinen Feinden ringsum gegeben hatte,",
+       "englisch_web": "When the king lived in his house, and Yahweh had given him rest from all his enemies all around,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "sagte der König zu Natan, dem Propheten:\n„Schau doch, ich wohne in einem Haus aus Zedernholz,\naber die Lade Gottes wohnt unter Zeltdecken.“",
+       "englisch_web": "the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but God’s ark dwells within curtains.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Natan sagte zum König:\n„Geh, tu alles, was in deinem Herzen ist,\ndenn der HERR ist mit dir.“",
+       "englisch_web": "Nathan said to the king, “Go, do all that is in your heart, for Yahweh is with you.”"
+      }
+     ],
+     "erklaerung": "David hat jetzt einen Palast. Er hat Frieden. Und er denkt: Es ist nicht richtig, dass ich in einem schönen Haus wohne, während Gottes Lade nur in einem Zelt steht. Er will Gott einen Tempel bauen.\nHier tritt zum ersten Mal der Prophet Natan auf. Er wird in Davids Leben noch sehr wichtig (Kapitel 12).\nNatan sagt zuerst spontan: Mach nur! Er gibt seine eigene Meinung. Aber noch hat er Gott nicht gefragt."
+    },
+    {
+     "ueberschrift": "Gottes Antwort durch Natan",
+     "vers_von": 4,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "In derselben Nacht kam das Wort des HERRN zu Natan:",
+       "englisch_web": "That same night, Yahweh’s word came to Nathan, saying,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "„Geh und sag zu meinem Knecht David:\n‚So spricht der HERR:\n„Willst du mir ein Haus bauen, in dem ich wohnen soll?",
+       "englisch_web": "“Go and tell my servant David, ‘Yahweh says, “Should you build me a house for me to dwell in?"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn ich habe in keinem Haus gewohnt,\nseit dem Tag, an dem ich die Israeliten aus Ägypten heraufgeführt habe, bis zum heutigen Tag.\nSondern ich bin in einem Zelt und in einer Wohnung umhergezogen.",
+       "englisch_web": "For I have not lived in a house since the day that I brought the children of Israel up out of Egypt, even to this day, but have moved around in a tent and in a tabernacle."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "An allen Orten, an denen ich mit allen Israeliten umhergezogen bin,\nhabe ich da je zu einem aus den Stämmen Israels,\ndem ich befohlen hatte, mein Volk Israel zu weiden, ein Wort gesagt:\n‚Warum habt ihr mir kein Haus aus Zedernholz gebaut?‘“‘",
+       "englisch_web": "In all places in which I have walked with all the children of Israel, did I say a word to anyone from the tribes of Israel whom I commanded to be shepherd of my people Israel, saying, ‘Why have you not built me a house of cedar?’”’"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum sollst du jetzt zu meinem Knecht David sagen:\n‚So spricht der HERR der Heere:\n„Ich habe dich von der Weide genommen, hinter den Schafen weg,\ndamit du Fürst über mein Volk, über Israel, wirst.",
+       "englisch_web": "Now therefore tell my servant David this: ‘Yahweh of Armies says, “I took you from the sheep pen, from following the sheep, to be prince over my people, over Israel."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ich bin mit dir gewesen, wohin du auch gegangen bist,\nund habe alle deine Feinde vor dir ausgerottet.\nIch will dir einen großen Namen machen,\nwie der Name der Großen auf der Erde.",
+       "englisch_web": "I have been with you wherever you went, and have cut off all your enemies from before you. I will make you a great name, like the name of the great ones who are on the earth."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich will meinem Volk Israel einen Ort bestimmen\nund es einpflanzen,\ndamit es an seinem eigenen Ort wohnt und nicht mehr umhergetrieben wird.\nDie bösen Menschen sollen es nicht mehr bedrängen wie am Anfang,",
+       "englisch_web": "I will appoint a place for my people Israel, and will plant them, that they may dwell in their own place and be moved no more. The children of wickedness will not afflict them any more, as at the first,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "und wie seit dem Tag, an dem ich Richter über mein Volk Israel eingesetzt habe.\nIch will dir Ruhe vor allen deinen Feinden geben.\nUnd der HERR verkündet dir: Der HERR wird dir ein Haus bauen.",
+       "englisch_web": "and as from the day that I commanded judges to be over my people Israel. I will cause you to rest from all your enemies. Moreover Yahweh tells you that Yahweh will make you a house."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wenn deine Tage erfüllt sind und du dich zu deinen Vätern legst,\ndann will ich deinen Nachkommen nach dir aufrichten,\nder aus deinem Leib kommen wird,\nund ich will sein Königtum festigen.",
+       "englisch_web": "When your days are fulfilled and you sleep with your fathers, I will set up your offspring after you, who will proceed out of your body, and I will establish his kingdom."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er wird meinem Namen ein Haus bauen,\nund ich will den Thron seines Königtums für immer festigen.",
+       "englisch_web": "He will build a house for my name, and I will establish the throne of his kingdom forever."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich will ihm Vater sein, und er soll mir Sohn sein.\nWenn er Unrecht tut, will ich ihn mit der Rute von Menschen\nund mit den Schlägen von Menschenkindern züchtigen.",
+       "englisch_web": "I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men and with the stripes of the children of men;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Aber meine Güte soll nicht von ihm weichen,\nso wie ich sie von Saul weggenommen habe, den ich vor dir entfernt habe.",
+       "englisch_web": "but my loving kindness will not depart from him, as I took it from Saul, whom I put away before you."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Dein Haus und dein Königtum sollen vor dir für immer Bestand haben.\nDein Thron soll für immer feststehen.“‘“",
+       "englisch_web": "Your house and your kingdom will be made sure forever before you. Your throne will be established forever.”’”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Natan sagte David alle diese Worte, ganz nach dieser Vision.",
+       "englisch_web": "Nathan spoke to David all these words, and according to all this vision."
+      }
+     ],
+     "erklaerung": "Gott sagt Nein zu Davids Plan. Aber es ist ein liebevolles Nein, mit einem viel größeren Ja.\nGott sagt: Ich habe nie ein Haus gebraucht. Ich bin mit meinem Volk umhergezogen, im Zelt. Ich bin nicht an einen Ort gebunden.\nDann kommt ein Wortspiel mit dem Wort „Haus“: David wollte Gott ein „Haus“ bauen, einen Tempel. Aber Gott sagt: Nicht du baust mir ein Haus, sondern ich baue dir ein „Haus“, nämlich eine Familie, eine Königsfamilie, die für immer bestehen soll.\nDas ist eines der wichtigsten Versprechen der ganzen Bibel. Man nennt es den „Davidsbund“.\nDer Nachkomme, der den Tempel bauen wird, ist zuerst Salomo, Davids Sohn. Er baut den Tempel in Jerusalem (1. Könige 6).\n„Ich will ihm Vater sein, und er soll mir Sohn sein“: Der König soll eine besondere, enge Beziehung zu Gott haben. Wenn er Unrecht tut, wird Gott ihn bestrafen, aber Gott wird ihn nicht verlassen wie Saul. Gottes Güte bleibt.\n„Für immer“: Das Königtum Davids hat in Jerusalem etwa 400 Jahre bestanden. Dann wurde Jerusalem von den Babyloniern zerstört, und es gab keinen König mehr. Aber das Volk Israel hat an Gottes Versprechen festgehalten. Daraus wuchs die Hoffnung auf den Messias, den Gesalbten, einen Nachkommen Davids, der für immer regieren wird (Jesaja 9,6; Psalm 89).\nChristen glauben, dass sich dieses Versprechen in Jesus erfüllt hat. Im Lukasevangelium sagt der Engel zu Maria über Jesus: „Gott wird ihm den Thron seines Vaters David geben … und sein Reich wird kein Ende haben“ (Lukas 1,32–33). Im Hebräerbrief wird Vers 14 auf Jesus bezogen (Hebräer 1,5)."
+    },
+    {
+     "ueberschrift": "Davids Gebet",
+     "vers_von": 18,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Da ging der König David hinein, setzte sich vor den HERRN und sagte:\n„Wer bin ich, Herr, du HERR,\nund was ist mein Haus, dass du mich bis hierher gebracht hast?",
+       "englisch_web": "Then David the king went in and sat before Yahweh; and he said, “Who am I, Lord Yahweh, and what is my house, that you have brought me this far?"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Und das war noch zu wenig in deinen Augen, Herr, du HERR.\nSondern du hast auch über das Haus deines Knechtes für eine ferne Zukunft gesprochen.\nUnd das ist die Weise der Menschen, Herr, du HERR!",
+       "englisch_web": "This was yet a small thing in your eyes, Lord Yahweh, but you have spoken also of your servant’s house for a great while to come; and this among men, Lord Yahweh!"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Was soll David noch weiter zu dir sagen?\nDu kennst ja deinen Knecht, Herr, du HERR.",
+       "englisch_web": "What more can David say to you? For you know your servant, Lord Yahweh."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Um deines Wortes willen und nach deinem Herzen hast du all dieses Große getan,\num es deinem Knecht bekannt zu machen.",
+       "englisch_web": "For your word’s sake, and according to your own heart, you have worked all this greatness, to make your servant know it."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Darum bist du groß, HERR, Gott.\nDenn niemand ist wie du,\nund es gibt keinen Gott außer dir,\nnach allem, was wir mit unseren Ohren gehört haben.",
+       "englisch_web": "Therefore you are great, Yahweh God. For there is no one like you, neither is there any God besides you, according to all that we have heard with our ears."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Und welches Volk auf der Erde ist wie dein Volk, wie Israel?\nGott ist hingegangen, um es sich als Volk zu erlösen,\num sich einen Namen zu machen\nund um Großes für euch zu tun und Furchterregendes für dein Land,\nvor deinem Volk, das du dir aus Ägypten erlöst hast,\naus den Völkern und von ihren Göttern.",
+       "englisch_web": "What one nation on the earth is like your people, even like Israel, whom God went to redeem to himself for a people, and to make himself a name, and to do great things for you, and awesome things for your land, before your people, whom you redeemed to yourself out of Egypt, from the nations and their gods?"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Du hast dir dein Volk Israel für immer zu deinem Volk bestimmt.\nUnd du, HERR, bist ihr Gott geworden.",
+       "englisch_web": "You established for yourself your people Israel to be your people forever; and you, Yahweh, became their God."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Und jetzt, HERR, Gott:\nDas Wort, das du über deinen Knecht und über sein Haus gesagt hast,\ndas bestätige für immer und tu, wie du gesagt hast.",
+       "englisch_web": "“Now, Yahweh God, the word that you have spoken concerning your servant, and concerning his house, confirm it forever, and do as you have spoken."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Dein Name soll für immer groß sein, sodass man sagt:\n‚Der HERR der Heere ist Gott über Israel.‘\nUnd das Haus deines Knechtes David soll vor dir Bestand haben.",
+       "englisch_web": "Let your name be magnified forever, saying, ‘Yahweh of Armies is God over Israel; and the house of your servant David will be established before you.’"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Denn du, HERR der Heere, Gott Israels,\nhast deinem Knecht offenbart und gesagt:\n‚Ich will dir ein Haus bauen.‘\nDarum hat dein Knecht in seinem Herzen den Mut gefunden, dieses Gebet zu dir zu beten.",
+       "englisch_web": "For you, Yahweh of Armies, the God of Israel, have revealed to your servant, saying, ‘I will build you a house.’ Therefore your servant has found in his heart to pray this prayer to you."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Und jetzt, Herr, du HERR, du bist Gott, und deine Worte sind Wahrheit,\nund du hast deinem Knecht dieses Gute versprochen.",
+       "englisch_web": "“Now, O Lord Yahweh, you are God, and your words are truth, and you have promised this good thing to your servant."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "So möge es dir nun gefallen, das Haus deines Knechtes zu segnen,\ndamit es für immer vor dir besteht.\nDenn du, Herr, du HERR, hast es gesagt.\nUnd mit deinem Segen soll das Haus deines Knechtes für immer gesegnet sein.“",
+       "englisch_web": "Now therefore, let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord Yahweh, have spoken it. Let the house of your servant be blessed forever with your blessing.”"
+      }
+     ],
+     "erklaerung": "David ist überwältigt. Er setzt sich vor Gott hin und betet. Das Gebet beginnt mit einer Frage voller Demut: „Wer bin ich?“ Ich war ein Hirte. Und du hast mich zum König gemacht und mir eine ewige Zukunft versprochen.\nDavid wollte etwas für Gott tun. Aber er lernt: Gott tut viel mehr für ihn. Das ist das Wesen der Gnade: Gott gibt, bevor wir geben können.\n„Das ist die Weise der Menschen“ in Vers 19 ist im Hebräischen schwer zu verstehen. Vielleicht meint David: So redet man unter Menschen, aber du, Gott, redest so mit mir!\nDavid lobt Gott nicht nur für sich selbst, sondern für das ganze Volk Israel. Gott hat dieses Volk aus Ägypten erlöst.\nVers 23 ist im Hebräischen etwas schwierig. Er wechselt zwischen „euch“ und „dein“. In 1. Chronik 17,21 steht ein ähnlicher Text.\nAm Ende bittet David: Tu, was du versprochen hast. Das ist eine gute Art zu beten: Man nimmt Gott beim Wort."
+    }
+   ]
+  },
+  {
+   "kapitel": 8,
+   "titel": "Davids Siege und seine Regierung",
+   "abschnitte": [
+    {
+     "ueberschrift": "Siege über die Philister und Moab",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Danach schlug David die Philister und unterwarf sie.\nUnd David nahm den Philistern den Zügel der Mutterstadt aus der Hand.",
+       "englisch_web": "After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er schlug auch Moab.\nEr maß sie mit der Messschnur ab,\nindem er sie sich auf die Erde legen ließ.\nZwei Schnurlängen maß er ab, um sie zu töten,\nund eine volle Schnurlänge, um sie am Leben zu lassen.\nSo wurden die Moabiter Davids Knechte und brachten ihm Abgaben.",
+       "englisch_web": "He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute."
+      }
+     ],
+     "erklaerung": "Dieses Kapitel ist eine Zusammenfassung von Davids Kriegen. Es zeigt, dass Gottes Versprechen „Ich gebe dir Ruhe vor deinen Feinden“ (Kapitel 7,11) in Erfüllung geht.\n„Der Zügel der Mutterstadt“ ist im Hebräischen schwer zu verstehen. Es heißt „Meteg-Amma“. Vielleicht ist es ein Ortsname, vielleicht bedeutet es: David übernahm die Herrschaft über die Hauptstadt der Philister. In 1. Chronik 18,1 steht: Er nahm Gat ein.\nWas David mit den Moabitern macht, ist grausam. Er lässt gefangene Soldaten in Reihen auf den Boden legen und lässt zwei Drittel von ihnen töten. Das war damals eine Kriegspraxis, um ein besiegtes Volk zu schwächen. Die Bibel erzählt es, ohne es zu loben. Es ist kein Vorbild.\nDas ist umso erschütternder, weil Davids Urgroßmutter Rut eine Moabiterin war und der König von Moab Davids Eltern früher geschützt hatte (1. Samuel 22,3–4). Warum David so hart vorging, sagt der Text nicht."
+    },
+    {
+     "ueberschrift": "Siege über Zoba und Damaskus",
+     "vers_von": 3,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "David schlug auch Hadad-Eser, den Sohn von Rehob, den König von Zoba,\nals er hinzog, um seine Herrschaft am Strom wiederherzustellen.",
+       "englisch_web": "David also struck Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "David nahm von ihm 1700 Reiter und 20 000 Mann Fußvolk gefangen.\nDavid lähmte alle Wagenpferde,\naber er behielt so viele von ihnen übrig, wie man für hundert Wagen brauchte.",
+       "englisch_web": "David took from him one thousand seven hundred horsemen and twenty thousand footmen. David hamstrung the chariot horses, but reserved enough of them for one hundred chariots."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Als die Syrer von Damaskus kamen, um Hadad-Eser, dem König von Zoba, zu helfen,\nschlug David von den Syrern 22 000 Mann.",
+       "englisch_web": "When the Syrians of Damascus came to help Hadadezer king of Zobah, David struck twenty two thousand men of the Syrians."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Dann legte David Besatzungen in das Syrien von Damaskus.\nUnd die Syrer wurden Davids Knechte und brachten ihm Abgaben.\nDer HERR gab David Sieg, wohin er auch zog.",
+       "englisch_web": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. Yahweh gave victory to David wherever he went."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "David nahm die goldenen Schilde, die die Knechte von Hadad-Eser getragen hatten,\nund brachte sie nach Jerusalem.",
+       "englisch_web": "David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Und aus Betach und Berotai, den Städten von Hadad-Eser,\nnahm der König David sehr viel Bronze mit.",
+       "englisch_web": "From Betah and from Berothai, cities of Hadadezer, King David took a great quantity of bronze."
+      }
+     ],
+     "erklaerung": "„Syrer“ heißen im Hebräischen „Aram“, viele deutsche Bibeln sagen „Aramäer“. Sie wohnten im Norden, im heutigen Syrien. Zoba und Damaskus waren aramäische Königreiche.\n„Der Strom“ ist der Euphrat. Davids Reich reichte jetzt weit nach Norden.\nDavid lähmt die Pferde, indem er ihnen eine Sehne am Bein durchschneidet. So können sie nicht mehr im Krieg eingesetzt werden. Schon Josua tat das (Josua 11,6). Gott wollte nicht, dass Israel sich auf Pferde und Kriegswagen verlässt (5. Mose 17,16; Psalm 20,8).\nDie Zahlen sind in 1. Chronik 18,4 etwas anders: 1000 Wagen, 7000 Reiter und 20 000 Mann Fußvolk.\n„Der HERR gab David Sieg, wohin er auch zog“: Dieser Satz steht zweimal im Kapitel (Vers 6 und 14). Der Erzähler betont: Die Siege kommen von Gott."
+    },
+    {
+     "ueberschrift": "Geschenke von Hamat",
+     "vers_von": 9,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Als Toï, der König von Hamat, hörte,\ndass David das ganze Heer von Hadad-Eser geschlagen hatte,",
+       "englisch_web": "When Toi king of Hamath heard that David had struck all the army of Hadadezer,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "da schickte Toï seinen Sohn Joram zum König David,\num ihn zu grüßen und ihn zu beglückwünschen,\nweil er gegen Hadad-Eser gekämpft und ihn geschlagen hatte.\nDenn Hadad-Eser hatte Kriege mit Toï geführt.\nJoram brachte silberne, goldene und bronzene Gefäße mit.",
+       "englisch_web": "then Toi sent Joram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of bronze."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Auch diese weihte der König David dem HERRN,\nzusammen mit dem Silber und Gold, das er von allen Völkern geweiht hatte, die er unterworfen hatte:",
+       "englisch_web": "King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued—"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "von Syrien, von Moab, von den Ammonitern, von den Philistern, von Amalek\nund von der Beute von Hadad-Eser, dem Sohn von Rehob, dem König von Zoba.",
+       "englisch_web": "of Syria, of Moab, of the children of Ammon, of the Philistines, of Amalek, and of the plunder of Hadadezer, son of Rehob, king of Zobah."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "David machte sich einen Namen,\nals er zurückkehrte, nachdem er 18 000 Mann von den Syrern im Salztal geschlagen hatte.",
+       "englisch_web": "David earned a reputation when he returned from striking down eighteen thousand men of the Syrians in the Valley of Salt."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er legte Besatzungen in Edom.\nIm ganzen Edom legte er Besatzungen,\nund alle Edomiter wurden Davids Knechte.\nDer HERR gab David Sieg, wohin er auch zog.",
+       "englisch_web": "He put garrisons in Edom. Throughout all Edom, he put garrisons, and all the Edomites became servants to David. Yahweh gave victory to David wherever he went."
+      }
+     ],
+     "erklaerung": "Hamat war ein Königreich noch weiter im Norden. Sein König ist froh, dass David seinen Feind besiegt hat. Er schickt Geschenke.\nDavid behält die Schätze nicht für sich. Er weiht sie dem HERRN. Daraus wurde später der Tempel gebaut (1. Chronik 18,8).\nVers 13: Das Salztal liegt südlich vom Toten Meer, im Gebiet von Edom. Darum steht in 1. Chronik 18,12 und in der Überschrift von Psalm 60 „Edomiter“ statt „Syrer“. Im Hebräischen sehen die Wörter für Aram und Edom sehr ähnlich aus. Ein Schreiber hat sie wohl verwechselt."
+    },
+    {
+     "ueberschrift": "Davids Beamte",
+     "vers_von": 15,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "David regierte über ganz Israel.\nUnd David übte Recht und Gerechtigkeit für sein ganzes Volk.",
+       "englisch_web": "David reigned over all Israel; and David executed justice and righteousness for all his people."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Joab, der Sohn der Zeruja, war über das Heer gesetzt.\nJoschafat, der Sohn von Ahilud, war Kanzler.",
+       "englisch_web": "Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Zadok, der Sohn von Ahitub, und Ahimelech, der Sohn von Abjatar, waren Priester.\nSeraja war Schreiber.",
+       "englisch_web": "Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Benaja, der Sohn von Jojada, war über die Kreter und Pleter gesetzt.\nUnd die Söhne Davids waren die obersten Beamten.",
+       "englisch_web": "Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers."
+      }
+     ],
+     "erklaerung": "Vers 15 ist der wichtigste Satz dieses Kapitels: David „übte Recht und Gerechtigkeit für sein ganzes Volk“. Das ist die eigentliche Aufgabe eines Königs. Nicht nur Kriege gewinnen, sondern für Gerechtigkeit sorgen, für alle.\nDavid hat jetzt einen richtigen Staat mit Beamten: einen Heerführer, einen Kanzler, der die Akten führte, Priester und einen Schreiber.\nZadok wird hier zum ersten Mal genannt. Er wird später der wichtigste Priester unter Salomo.\nIn 1. Samuel 22,20 war Abjatar der Sohn von Ahimelech. Hier ist es umgekehrt. Vielleicht hieß Abjatars Sohn wie sein Großvater, oder die Namen wurden beim Abschreiben vertauscht.\nDie „Kreter und Pleter“ waren Davids Leibwache, Söldner aus dem Ausland, wohl aus Kreta und aus dem Volk der Philister.\n„Oberste Beamte“: So steht es in der englischen Vorlage. Im hebräischen Text steht wörtlich „Priester“. Das ist ungewöhnlich, denn Priester sollten aus dem Stamm Levi kommen. In 1. Chronik 18,17 steht: „die Ersten an der Seite des Königs“."
+    }
+   ]
+  },
+  {
+   "kapitel": 9,
+   "titel": "Mefi-Boschet an Davids Tisch",
+   "abschnitte": [
+    {
+     "ueberschrift": "David sucht jemanden aus Sauls Familie",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "David sagte:\n„Ist noch jemand übrig geblieben aus dem Haus Sauls,\ndem ich um Jonatans willen Güte erweisen kann?“",
+       "englisch_web": "David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Aus dem Haus Sauls gab es einen Knecht namens Ziba.\nMan rief ihn zu David.\nDer König sagte zu ihm:\n„Bist du Ziba?“\nEr sagte: „Ich bin dein Knecht.“",
+       "englisch_web": "There was of Saul’s house a servant whose name was Ziba, and they called him to David; and the king said to him, “Are you Ziba?” He said, “I am your servant.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der König sagte:\n„Ist niemand mehr aus dem Haus Sauls übrig,\ndem ich die Güte Gottes erweisen kann?“\nZiba sagte zum König:\n„Jonatan hat noch einen Sohn, der an beiden Füßen gelähmt ist.“",
+       "englisch_web": "The king said, “Is there not yet any of Saul’s house, that I may show the kindness of God to him?” Ziba said to the king, “Jonathan still has a son, who is lame in his feet.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der König sagte zu ihm:\n„Wo ist er?“\nZiba sagte zum König:\n„Schau, er ist im Haus von Machir, dem Sohn von Ammiël, in Lo-Dabar.“",
+       "englisch_web": "The king said to him, “Where is he?” Ziba said to the king, “Behold, he is in the house of Machir the son of Ammiel, in Lo Debar.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da schickte der König David hin\nund ließ ihn aus dem Haus von Machir, dem Sohn von Ammiël, aus Lo-Dabar holen.",
+       "englisch_web": "Then King David sent and brought him out of the house of Machir the son of Ammiel, from Lo Debar."
+      }
+     ],
+     "erklaerung": "David ist jetzt ein mächtiger König. Seine Feinde sind besiegt. Und jetzt erinnert er sich an sein Versprechen an Jonatan: Ich will deiner Familie für immer Güte erweisen (1. Samuel 20,14–17).\nDamals töteten neue Könige oft alle Nachkommen des alten Königs. David tut das Gegenteil. Er sucht einen Nachkommen Sauls, um ihm Gutes zu tun.\n„Die Güte Gottes“: David will so großzügig sein, wie Gott großzügig ist. Das Wort ist wieder „Chesed“, Treue und Güte.\nMefi-Boschet lebt versteckt in Lo-Dabar, östlich des Jordan. Der Name des Ortes heißt vielleicht „keine Weide“ oder „nichts“. Er lebt am Rand, vergessen, ohne Besitz."
+    },
+    {
+     "ueberschrift": "„Du sollst immer an meinem Tisch essen“",
+     "vers_von": 6,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Mefi-Boschet, der Sohn Jonatans, des Sohnes Sauls, kam zu David,\nfiel auf sein Gesicht und erwies ihm Ehre.\nDavid sagte: „Mefi-Boschet?“\nEr antwortete: „Schau, hier ist dein Knecht!“",
+       "englisch_web": "Mephibosheth, the son of Jonathan, the son of Saul, came to David, fell on his face, and showed respect. David said, “Mephibosheth?” He answered, “Behold, your servant!”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "David sagte zu ihm:\n„Fürchte dich nicht.\nDenn ich will dir ganz sicher Güte erweisen, um deines Vaters Jonatan willen.\nIch will dir das ganze Land deines Großvaters Saul zurückgeben.\nUnd du sollst immer an meinem Tisch Brot essen.“",
+       "englisch_web": "David said to him, “Don’t be afraid, for I will surely show you kindness for Jonathan your father’s sake, and will restore to you all the land of Saul your father. You will eat bread at my table continually.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er verneigte sich und sagte:\n„Was ist dein Knecht,\ndass du dich einem toten Hund wie mir zuwendest?“",
+       "englisch_web": "He bowed down, and said, “What is your servant, that you should look at such a dead dog as I am?”"
+      }
+     ],
+     "erklaerung": "Mefi-Boschet hat Angst. Er ist der Enkel von Davids Feind. Er erwartet vielleicht, getötet zu werden.\nAber David sagt als Erstes: „Fürchte dich nicht.“ Dann ruft er ihn beim Namen. Und dann schenkt er ihm drei Dinge: Güte, Land und einen festen Platz an seinem Tisch, für immer.\nMefi-Boschet nennt sich einen „toten Hund“. Er fühlt sich wertlos, wegen seiner Behinderung und wegen seiner Herkunft. Damals wurden Menschen mit Behinderung oft verachtet.\nAber David behandelt ihn wie einen seiner eigenen Söhne (Vers 11). Er schaut nicht auf die gelähmten Füße, sondern auf den Menschen und auf sein Versprechen an Jonatan.\nViele Christen sehen in dieser Geschichte ein Bild für die Gnade Gottes: Gott holt Menschen, die sich wertlos fühlen, an seinen Tisch. Nicht weil sie es verdient haben, sondern aus Liebe und Treue."
+    },
+    {
+     "ueberschrift": "Ziba soll für Mefi-Boschet arbeiten",
+     "vers_von": 9,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Dann rief der König Ziba, den Knecht Sauls, und sagte zu ihm:\n„Alles, was Saul und seinem ganzen Haus gehört hat,\nhabe ich dem Sohn deines Herrn gegeben.",
+       "englisch_web": "Then the king called to Ziba, Saul’s servant, and said to him, “All that belonged to Saul and to all his house I have given to your master’s son."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Bearbeite für ihn das Land,\ndu, deine Söhne und deine Knechte.\nBring die Ernte ein, damit der Sohn deines Herrn Brot zu essen hat.\nAber Mefi-Boschet, der Sohn deines Herrn, soll immer an meinem Tisch Brot essen.“\nZiba hatte fünfzehn Söhne und zwanzig Knechte.",
+       "englisch_web": "Till the land for him—you, your sons, and your servants. Bring in the harvest, that your master’s son may have bread to eat; but Mephibosheth your master’s son will always eat bread at my table.” Now Ziba had fifteen sons and twenty servants."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Da sagte Ziba zum König:\n„Ganz wie mein Herr, der König, seinem Knecht befiehlt, so will dein Knecht es tun.“\nSo aß Mefi-Boschet am Tisch des Königs wie einer der Königssöhne.",
+       "englisch_web": "Then Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at the king’s table like one of the king’s sons."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Mefi-Boschet hatte einen kleinen Sohn namens Micha.\nUnd alle, die im Haus von Ziba wohnten, waren Knechte von Mefi-Boschet.",
+       "englisch_web": "Mephibosheth had a young son, whose name was Mica. All who lived in Ziba’s house were servants to Mephibosheth."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So wohnte Mefi-Boschet in Jerusalem,\ndenn er aß immer am Tisch des Königs.\nUnd er war an beiden Füßen gelähmt.",
+       "englisch_web": "So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was lame in both his feet."
+      }
+     ],
+     "erklaerung": "David sorgt nicht nur für einen Ehrenplatz, sondern auch für ein Einkommen. Ziba und seine große Familie sollen das Land für Mefi-Boschet bearbeiten. So ist Mefi-Boschet versorgt und muss nicht betteln.\nMefi-Boschet hat einen Sohn, Micha. Durch ihn lebt die Familie von Saul und Jonatan weiter (1. Chronik 8,34–35).\nDer letzte Satz erinnert noch einmal: Er war gelähmt. Am Tisch des Königs sah man die gelähmten Füße nicht. Dort war er einfach ein Sohn.\nZiba wird in späteren Kapiteln noch eine fragwürdige Rolle spielen (Kapitel 16 und 19)."
+    }
+   ]
   }
  ]
 }

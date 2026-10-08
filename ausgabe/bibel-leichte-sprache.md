@@ -39062,3 +39062,313 @@ bei denen werde ich geehrt sein.“
 > David antwortet: Ich habe nicht für die Menschen getanzt, sondern für Gott. Vor Gott ist es nicht peinlich, sich klein zu machen.
 > Hinter dem Streit steckt aber auch mehr: Michal ist gegen ihren Willen von ihrem zweiten Mann weggeholt worden (Kapitel 3,15–16). Sie hatte David einmal geliebt (1. Samuel 18,20). Jetzt ist von dieser Liebe nichts mehr übrig. David erinnert sie hart daran, dass Gott ihren Vater verworfen hat.
 > Vers 23 ist ein trauriges Ende: Michal bekommt kein Kind. Damit gibt es keinen Nachkommen, in dem Sauls und Davids Familie vereint wären. Ob das eine Strafe Gottes war oder ob David sich von ihr fernhielt, sagt der Text nicht.
+
+## 2. Samuel – Kapitel 7
+#### Gottes Versprechen an David
+
+---
+
+### David will Gott ein Haus bauen (Vers 1–3)
+
+<sup>1</sup>Als der König in seinem Haus wohnte
+und der HERR ihm Ruhe vor allen seinen Feinden ringsum gegeben hatte,
+<sup>2</sup>sagte der König zu Natan, dem Propheten:
+„Schau doch, ich wohne in einem Haus aus Zedernholz,
+aber die Lade Gottes wohnt unter Zeltdecken.“
+<sup>3</sup>Natan sagte zum König:
+„Geh, tu alles, was in deinem Herzen ist,
+denn der HERR ist mit dir.“
+
+> **Was bedeutet das?**
+> David hat jetzt einen Palast. Er hat Frieden. Und er denkt: Es ist nicht richtig, dass ich in einem schönen Haus wohne, während Gottes Lade nur in einem Zelt steht. Er will Gott einen Tempel bauen.
+> Hier tritt zum ersten Mal der Prophet Natan auf. Er wird in Davids Leben noch sehr wichtig (Kapitel 12).
+> Natan sagt zuerst spontan: Mach nur! Er gibt seine eigene Meinung. Aber noch hat er Gott nicht gefragt.
+
+---
+
+### Gottes Antwort durch Natan (Vers 4–17)
+
+<sup>4</sup>In derselben Nacht kam das Wort des HERRN zu Natan:
+<sup>5</sup>„Geh und sag zu meinem Knecht David:
+‚So spricht der HERR:
+„Willst du mir ein Haus bauen, in dem ich wohnen soll?
+<sup>6</sup>Denn ich habe in keinem Haus gewohnt,
+seit dem Tag, an dem ich die Israeliten aus Ägypten heraufgeführt habe, bis zum heutigen Tag.
+Sondern ich bin in einem Zelt und in einer Wohnung umhergezogen.
+<sup>7</sup>An allen Orten, an denen ich mit allen Israeliten umhergezogen bin,
+habe ich da je zu einem aus den Stämmen Israels,
+dem ich befohlen hatte, mein Volk Israel zu weiden, ein Wort gesagt:
+‚Warum habt ihr mir kein Haus aus Zedernholz gebaut?‘“‘
+
+<sup>8</sup>Darum sollst du jetzt zu meinem Knecht David sagen:
+‚So spricht der HERR der Heere:
+„Ich habe dich von der Weide genommen, hinter den Schafen weg,
+damit du Fürst über mein Volk, über Israel, wirst.
+<sup>9</sup>Ich bin mit dir gewesen, wohin du auch gegangen bist,
+und habe alle deine Feinde vor dir ausgerottet.
+Ich will dir einen großen Namen machen,
+wie der Name der Großen auf der Erde.
+<sup>10</sup>Ich will meinem Volk Israel einen Ort bestimmen
+und es einpflanzen,
+damit es an seinem eigenen Ort wohnt und nicht mehr umhergetrieben wird.
+Die bösen Menschen sollen es nicht mehr bedrängen wie am Anfang,
+<sup>11</sup>und wie seit dem Tag, an dem ich Richter über mein Volk Israel eingesetzt habe.
+Ich will dir Ruhe vor allen deinen Feinden geben.
+Und der HERR verkündet dir: Der HERR wird dir ein Haus bauen.
+
+<sup>12</sup>Wenn deine Tage erfüllt sind und du dich zu deinen Vätern legst,
+dann will ich deinen Nachkommen nach dir aufrichten,
+der aus deinem Leib kommen wird,
+und ich will sein Königtum festigen.
+<sup>13</sup>Er wird meinem Namen ein Haus bauen,
+und ich will den Thron seines Königtums für immer festigen.
+<sup>14</sup>Ich will ihm Vater sein, und er soll mir Sohn sein.
+Wenn er Unrecht tut, will ich ihn mit der Rute von Menschen
+und mit den Schlägen von Menschenkindern züchtigen.
+<sup>15</sup>Aber meine Güte soll nicht von ihm weichen,
+so wie ich sie von Saul weggenommen habe, den ich vor dir entfernt habe.
+<sup>16</sup>Dein Haus und dein Königtum sollen vor dir für immer Bestand haben.
+Dein Thron soll für immer feststehen.“‘“
+<sup>17</sup>Natan sagte David alle diese Worte, ganz nach dieser Vision.
+
+> **Was bedeutet das?**
+> Gott sagt Nein zu Davids Plan. Aber es ist ein liebevolles Nein, mit einem viel größeren Ja.
+> Gott sagt: Ich habe nie ein Haus gebraucht. Ich bin mit meinem Volk umhergezogen, im Zelt. Ich bin nicht an einen Ort gebunden.
+> Dann kommt ein Wortspiel mit dem Wort „Haus“: David wollte Gott ein „Haus“ bauen, einen Tempel. Aber Gott sagt: Nicht du baust mir ein Haus, sondern ich baue dir ein „Haus“, nämlich eine Familie, eine Königsfamilie, die für immer bestehen soll.
+> Das ist eines der wichtigsten Versprechen der ganzen Bibel. Man nennt es den „Davidsbund“.
+> Der Nachkomme, der den Tempel bauen wird, ist zuerst Salomo, Davids Sohn. Er baut den Tempel in Jerusalem (1. Könige 6).
+> „Ich will ihm Vater sein, und er soll mir Sohn sein“: Der König soll eine besondere, enge Beziehung zu Gott haben. Wenn er Unrecht tut, wird Gott ihn bestrafen, aber Gott wird ihn nicht verlassen wie Saul. Gottes Güte bleibt.
+> „Für immer“: Das Königtum Davids hat in Jerusalem etwa 400 Jahre bestanden. Dann wurde Jerusalem von den Babyloniern zerstört, und es gab keinen König mehr. Aber das Volk Israel hat an Gottes Versprechen festgehalten. Daraus wuchs die Hoffnung auf den Messias, den Gesalbten, einen Nachkommen Davids, der für immer regieren wird (Jesaja 9,6; Psalm 89).
+> Christen glauben, dass sich dieses Versprechen in Jesus erfüllt hat. Im Lukasevangelium sagt der Engel zu Maria über Jesus: „Gott wird ihm den Thron seines Vaters David geben … und sein Reich wird kein Ende haben“ (Lukas 1,32–33). Im Hebräerbrief wird Vers 14 auf Jesus bezogen (Hebräer 1,5).
+
+---
+
+### Davids Gebet (Vers 18–29)
+
+<sup>18</sup>Da ging der König David hinein, setzte sich vor den HERRN und sagte:
+„Wer bin ich, Herr, du HERR,
+und was ist mein Haus, dass du mich bis hierher gebracht hast?
+<sup>19</sup>Und das war noch zu wenig in deinen Augen, Herr, du HERR.
+Sondern du hast auch über das Haus deines Knechtes für eine ferne Zukunft gesprochen.
+Und das ist die Weise der Menschen, Herr, du HERR!
+<sup>20</sup>Was soll David noch weiter zu dir sagen?
+Du kennst ja deinen Knecht, Herr, du HERR.
+<sup>21</sup>Um deines Wortes willen und nach deinem Herzen hast du all dieses Große getan,
+um es deinem Knecht bekannt zu machen.
+<sup>22</sup>Darum bist du groß, HERR, Gott.
+Denn niemand ist wie du,
+und es gibt keinen Gott außer dir,
+nach allem, was wir mit unseren Ohren gehört haben.
+<sup>23</sup>Und welches Volk auf der Erde ist wie dein Volk, wie Israel?
+Gott ist hingegangen, um es sich als Volk zu erlösen,
+um sich einen Namen zu machen
+und um Großes für euch zu tun und Furchterregendes für dein Land,
+vor deinem Volk, das du dir aus Ägypten erlöst hast,
+aus den Völkern und von ihren Göttern.
+<sup>24</sup>Du hast dir dein Volk Israel für immer zu deinem Volk bestimmt.
+Und du, HERR, bist ihr Gott geworden.
+
+<sup>25</sup>Und jetzt, HERR, Gott:
+Das Wort, das du über deinen Knecht und über sein Haus gesagt hast,
+das bestätige für immer und tu, wie du gesagt hast.
+<sup>26</sup>Dein Name soll für immer groß sein, sodass man sagt:
+‚Der HERR der Heere ist Gott über Israel.‘
+Und das Haus deines Knechtes David soll vor dir Bestand haben.
+<sup>27</sup>Denn du, HERR der Heere, Gott Israels,
+hast deinem Knecht offenbart und gesagt:
+‚Ich will dir ein Haus bauen.‘
+Darum hat dein Knecht in seinem Herzen den Mut gefunden, dieses Gebet zu dir zu beten.
+<sup>28</sup>Und jetzt, Herr, du HERR, du bist Gott, und deine Worte sind Wahrheit,
+und du hast deinem Knecht dieses Gute versprochen.
+<sup>29</sup>So möge es dir nun gefallen, das Haus deines Knechtes zu segnen,
+damit es für immer vor dir besteht.
+Denn du, Herr, du HERR, hast es gesagt.
+Und mit deinem Segen soll das Haus deines Knechtes für immer gesegnet sein.“
+
+> **Was bedeutet das?**
+> David ist überwältigt. Er setzt sich vor Gott hin und betet. Das Gebet beginnt mit einer Frage voller Demut: „Wer bin ich?“ Ich war ein Hirte. Und du hast mich zum König gemacht und mir eine ewige Zukunft versprochen.
+> David wollte etwas für Gott tun. Aber er lernt: Gott tut viel mehr für ihn. Das ist das Wesen der Gnade: Gott gibt, bevor wir geben können.
+> „Das ist die Weise der Menschen“ in Vers 19 ist im Hebräischen schwer zu verstehen. Vielleicht meint David: So redet man unter Menschen, aber du, Gott, redest so mit mir!
+> David lobt Gott nicht nur für sich selbst, sondern für das ganze Volk Israel. Gott hat dieses Volk aus Ägypten erlöst.
+> Vers 23 ist im Hebräischen etwas schwierig. Er wechselt zwischen „euch“ und „dein“. In 1. Chronik 17,21 steht ein ähnlicher Text.
+> Am Ende bittet David: Tu, was du versprochen hast. Das ist eine gute Art zu beten: Man nimmt Gott beim Wort.
+
+## 2. Samuel – Kapitel 8
+#### Davids Siege und seine Regierung
+
+---
+
+### Siege über die Philister und Moab (Vers 1–2)
+
+<sup>1</sup>Danach schlug David die Philister und unterwarf sie.
+Und David nahm den Philistern den Zügel der Mutterstadt aus der Hand.
+<sup>2</sup>Er schlug auch Moab.
+Er maß sie mit der Messschnur ab,
+indem er sie sich auf die Erde legen ließ.
+Zwei Schnurlängen maß er ab, um sie zu töten,
+und eine volle Schnurlänge, um sie am Leben zu lassen.
+So wurden die Moabiter Davids Knechte und brachten ihm Abgaben.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist eine Zusammenfassung von Davids Kriegen. Es zeigt, dass Gottes Versprechen „Ich gebe dir Ruhe vor deinen Feinden“ (Kapitel 7,11) in Erfüllung geht.
+> „Der Zügel der Mutterstadt“ ist im Hebräischen schwer zu verstehen. Es heißt „Meteg-Amma“. Vielleicht ist es ein Ortsname, vielleicht bedeutet es: David übernahm die Herrschaft über die Hauptstadt der Philister. In 1. Chronik 18,1 steht: Er nahm Gat ein.
+> Was David mit den Moabitern macht, ist grausam. Er lässt gefangene Soldaten in Reihen auf den Boden legen und lässt zwei Drittel von ihnen töten. Das war damals eine Kriegspraxis, um ein besiegtes Volk zu schwächen. Die Bibel erzählt es, ohne es zu loben. Es ist kein Vorbild.
+> Das ist umso erschütternder, weil Davids Urgroßmutter Rut eine Moabiterin war und der König von Moab Davids Eltern früher geschützt hatte (1. Samuel 22,3–4). Warum David so hart vorging, sagt der Text nicht.
+
+---
+
+### Siege über Zoba und Damaskus (Vers 3–8)
+
+<sup>3</sup>David schlug auch Hadad-Eser, den Sohn von Rehob, den König von Zoba,
+als er hinzog, um seine Herrschaft am Strom wiederherzustellen.
+<sup>4</sup>David nahm von ihm 1700 Reiter und 20 000 Mann Fußvolk gefangen.
+David lähmte alle Wagenpferde,
+aber er behielt so viele von ihnen übrig, wie man für hundert Wagen brauchte.
+<sup>5</sup>Als die Syrer von Damaskus kamen, um Hadad-Eser, dem König von Zoba, zu helfen,
+schlug David von den Syrern 22 000 Mann.
+<sup>6</sup>Dann legte David Besatzungen in das Syrien von Damaskus.
+Und die Syrer wurden Davids Knechte und brachten ihm Abgaben.
+Der HERR gab David Sieg, wohin er auch zog.
+<sup>7</sup>David nahm die goldenen Schilde, die die Knechte von Hadad-Eser getragen hatten,
+und brachte sie nach Jerusalem.
+<sup>8</sup>Und aus Betach und Berotai, den Städten von Hadad-Eser,
+nahm der König David sehr viel Bronze mit.
+
+> **Was bedeutet das?**
+> „Syrer“ heißen im Hebräischen „Aram“, viele deutsche Bibeln sagen „Aramäer“. Sie wohnten im Norden, im heutigen Syrien. Zoba und Damaskus waren aramäische Königreiche.
+> „Der Strom“ ist der Euphrat. Davids Reich reichte jetzt weit nach Norden.
+> David lähmt die Pferde, indem er ihnen eine Sehne am Bein durchschneidet. So können sie nicht mehr im Krieg eingesetzt werden. Schon Josua tat das (Josua 11,6). Gott wollte nicht, dass Israel sich auf Pferde und Kriegswagen verlässt (5. Mose 17,16; Psalm 20,8).
+> Die Zahlen sind in 1. Chronik 18,4 etwas anders: 1000 Wagen, 7000 Reiter und 20 000 Mann Fußvolk.
+> „Der HERR gab David Sieg, wohin er auch zog“: Dieser Satz steht zweimal im Kapitel (Vers 6 und 14). Der Erzähler betont: Die Siege kommen von Gott.
+
+---
+
+### Geschenke von Hamat (Vers 9–14)
+
+<sup>9</sup>Als Toï, der König von Hamat, hörte,
+dass David das ganze Heer von Hadad-Eser geschlagen hatte,
+<sup>10</sup>da schickte Toï seinen Sohn Joram zum König David,
+um ihn zu grüßen und ihn zu beglückwünschen,
+weil er gegen Hadad-Eser gekämpft und ihn geschlagen hatte.
+Denn Hadad-Eser hatte Kriege mit Toï geführt.
+Joram brachte silberne, goldene und bronzene Gefäße mit.
+<sup>11</sup>Auch diese weihte der König David dem HERRN,
+zusammen mit dem Silber und Gold, das er von allen Völkern geweiht hatte, die er unterworfen hatte:
+<sup>12</sup>von Syrien, von Moab, von den Ammonitern, von den Philistern, von Amalek
+und von der Beute von Hadad-Eser, dem Sohn von Rehob, dem König von Zoba.
+<sup>13</sup>David machte sich einen Namen,
+als er zurückkehrte, nachdem er 18 000 Mann von den Syrern im Salztal geschlagen hatte.
+<sup>14</sup>Er legte Besatzungen in Edom.
+Im ganzen Edom legte er Besatzungen,
+und alle Edomiter wurden Davids Knechte.
+Der HERR gab David Sieg, wohin er auch zog.
+
+> **Was bedeutet das?**
+> Hamat war ein Königreich noch weiter im Norden. Sein König ist froh, dass David seinen Feind besiegt hat. Er schickt Geschenke.
+> David behält die Schätze nicht für sich. Er weiht sie dem HERRN. Daraus wurde später der Tempel gebaut (1. Chronik 18,8).
+> Vers 13: Das Salztal liegt südlich vom Toten Meer, im Gebiet von Edom. Darum steht in 1. Chronik 18,12 und in der Überschrift von Psalm 60 „Edomiter“ statt „Syrer“. Im Hebräischen sehen die Wörter für Aram und Edom sehr ähnlich aus. Ein Schreiber hat sie wohl verwechselt.
+
+---
+
+### Davids Beamte (Vers 15–18)
+
+<sup>15</sup>David regierte über ganz Israel.
+Und David übte Recht und Gerechtigkeit für sein ganzes Volk.
+<sup>16</sup>Joab, der Sohn der Zeruja, war über das Heer gesetzt.
+Joschafat, der Sohn von Ahilud, war Kanzler.
+<sup>17</sup>Zadok, der Sohn von Ahitub, und Ahimelech, der Sohn von Abjatar, waren Priester.
+Seraja war Schreiber.
+<sup>18</sup>Benaja, der Sohn von Jojada, war über die Kreter und Pleter gesetzt.
+Und die Söhne Davids waren die obersten Beamten.
+
+> **Was bedeutet das?**
+> Vers 15 ist der wichtigste Satz dieses Kapitels: David „übte Recht und Gerechtigkeit für sein ganzes Volk“. Das ist die eigentliche Aufgabe eines Königs. Nicht nur Kriege gewinnen, sondern für Gerechtigkeit sorgen, für alle.
+> David hat jetzt einen richtigen Staat mit Beamten: einen Heerführer, einen Kanzler, der die Akten führte, Priester und einen Schreiber.
+> Zadok wird hier zum ersten Mal genannt. Er wird später der wichtigste Priester unter Salomo.
+> In 1. Samuel 22,20 war Abjatar der Sohn von Ahimelech. Hier ist es umgekehrt. Vielleicht hieß Abjatars Sohn wie sein Großvater, oder die Namen wurden beim Abschreiben vertauscht.
+> Die „Kreter und Pleter“ waren Davids Leibwache, Söldner aus dem Ausland, wohl aus Kreta und aus dem Volk der Philister.
+> „Oberste Beamte“: So steht es in der englischen Vorlage. Im hebräischen Text steht wörtlich „Priester“. Das ist ungewöhnlich, denn Priester sollten aus dem Stamm Levi kommen. In 1. Chronik 18,17 steht: „die Ersten an der Seite des Königs“.
+
+## 2. Samuel – Kapitel 9
+#### Mefi-Boschet an Davids Tisch
+
+---
+
+### David sucht jemanden aus Sauls Familie (Vers 1–5)
+
+<sup>1</sup>David sagte:
+„Ist noch jemand übrig geblieben aus dem Haus Sauls,
+dem ich um Jonatans willen Güte erweisen kann?“
+<sup>2</sup>Aus dem Haus Sauls gab es einen Knecht namens Ziba.
+Man rief ihn zu David.
+Der König sagte zu ihm:
+„Bist du Ziba?“
+Er sagte: „Ich bin dein Knecht.“
+<sup>3</sup>Der König sagte:
+„Ist niemand mehr aus dem Haus Sauls übrig,
+dem ich die Güte Gottes erweisen kann?“
+Ziba sagte zum König:
+„Jonatan hat noch einen Sohn, der an beiden Füßen gelähmt ist.“
+<sup>4</sup>Der König sagte zu ihm:
+„Wo ist er?“
+Ziba sagte zum König:
+„Schau, er ist im Haus von Machir, dem Sohn von Ammiël, in Lo-Dabar.“
+<sup>5</sup>Da schickte der König David hin
+und ließ ihn aus dem Haus von Machir, dem Sohn von Ammiël, aus Lo-Dabar holen.
+
+> **Was bedeutet das?**
+> David ist jetzt ein mächtiger König. Seine Feinde sind besiegt. Und jetzt erinnert er sich an sein Versprechen an Jonatan: Ich will deiner Familie für immer Güte erweisen (1. Samuel 20,14–17).
+> Damals töteten neue Könige oft alle Nachkommen des alten Königs. David tut das Gegenteil. Er sucht einen Nachkommen Sauls, um ihm Gutes zu tun.
+> „Die Güte Gottes“: David will so großzügig sein, wie Gott großzügig ist. Das Wort ist wieder „Chesed“, Treue und Güte.
+> Mefi-Boschet lebt versteckt in Lo-Dabar, östlich des Jordan. Der Name des Ortes heißt vielleicht „keine Weide“ oder „nichts“. Er lebt am Rand, vergessen, ohne Besitz.
+
+---
+
+### „Du sollst immer an meinem Tisch essen“ (Vers 6–8)
+
+<sup>6</sup>Mefi-Boschet, der Sohn Jonatans, des Sohnes Sauls, kam zu David,
+fiel auf sein Gesicht und erwies ihm Ehre.
+David sagte: „Mefi-Boschet?“
+Er antwortete: „Schau, hier ist dein Knecht!“
+<sup>7</sup>David sagte zu ihm:
+„Fürchte dich nicht.
+Denn ich will dir ganz sicher Güte erweisen, um deines Vaters Jonatan willen.
+Ich will dir das ganze Land deines Großvaters Saul zurückgeben.
+Und du sollst immer an meinem Tisch Brot essen.“
+<sup>8</sup>Er verneigte sich und sagte:
+„Was ist dein Knecht,
+dass du dich einem toten Hund wie mir zuwendest?“
+
+> **Was bedeutet das?**
+> Mefi-Boschet hat Angst. Er ist der Enkel von Davids Feind. Er erwartet vielleicht, getötet zu werden.
+> Aber David sagt als Erstes: „Fürchte dich nicht.“ Dann ruft er ihn beim Namen. Und dann schenkt er ihm drei Dinge: Güte, Land und einen festen Platz an seinem Tisch, für immer.
+> Mefi-Boschet nennt sich einen „toten Hund“. Er fühlt sich wertlos, wegen seiner Behinderung und wegen seiner Herkunft. Damals wurden Menschen mit Behinderung oft verachtet.
+> Aber David behandelt ihn wie einen seiner eigenen Söhne (Vers 11). Er schaut nicht auf die gelähmten Füße, sondern auf den Menschen und auf sein Versprechen an Jonatan.
+> Viele Christen sehen in dieser Geschichte ein Bild für die Gnade Gottes: Gott holt Menschen, die sich wertlos fühlen, an seinen Tisch. Nicht weil sie es verdient haben, sondern aus Liebe und Treue.
+
+---
+
+### Ziba soll für Mefi-Boschet arbeiten (Vers 9–13)
+
+<sup>9</sup>Dann rief der König Ziba, den Knecht Sauls, und sagte zu ihm:
+„Alles, was Saul und seinem ganzen Haus gehört hat,
+habe ich dem Sohn deines Herrn gegeben.
+<sup>10</sup>Bearbeite für ihn das Land,
+du, deine Söhne und deine Knechte.
+Bring die Ernte ein, damit der Sohn deines Herrn Brot zu essen hat.
+Aber Mefi-Boschet, der Sohn deines Herrn, soll immer an meinem Tisch Brot essen.“
+Ziba hatte fünfzehn Söhne und zwanzig Knechte.
+<sup>11</sup>Da sagte Ziba zum König:
+„Ganz wie mein Herr, der König, seinem Knecht befiehlt, so will dein Knecht es tun.“
+So aß Mefi-Boschet am Tisch des Königs wie einer der Königssöhne.
+<sup>12</sup>Mefi-Boschet hatte einen kleinen Sohn namens Micha.
+Und alle, die im Haus von Ziba wohnten, waren Knechte von Mefi-Boschet.
+<sup>13</sup>So wohnte Mefi-Boschet in Jerusalem,
+denn er aß immer am Tisch des Königs.
+Und er war an beiden Füßen gelähmt.
+
+> **Was bedeutet das?**
+> David sorgt nicht nur für einen Ehrenplatz, sondern auch für ein Einkommen. Ziba und seine große Familie sollen das Land für Mefi-Boschet bearbeiten. So ist Mefi-Boschet versorgt und muss nicht betteln.
+> Mefi-Boschet hat einen Sohn, Micha. Durch ihn lebt die Familie von Saul und Jonatan weiter (1. Chronik 8,34–35).
+> Der letzte Satz erinnert noch einmal: Er war gelähmt. Am Tisch des Königs sah man die gelähmten Füße nicht. Dort war er einfach ein Sohn.
+> Ziba wird in späteren Kapiteln noch eine fragwürdige Rolle spielen (Kapitel 16 und 19).
