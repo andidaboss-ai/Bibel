@@ -46803,3 +46803,503 @@ Warum soll ich noch länger auf den HERRN warten?“
 > Der König trägt heimlich einen Sack unter seiner Kleidung, als Zeichen der Buße. Aber statt zu Gott umzukehren, will er Elisa töten. Er gibt dem Propheten die Schuld.
 > „Sohn eines Mörders“: Gemeint ist der König Joram, Sohn Ahabs, der Nabot ermorden ließ.
 > Der letzte Satz zeigt die Verzweiflung: „Warum soll ich noch auf den HERRN warten?“ Das nächste Kapitel gibt eine überraschende Antwort.
+
+## 2. Könige – Kapitel 7
+#### Vier Aussätzige bringen eine gute Nachricht
+
+---
+
+### Elisas unglaubliche Ankündigung (Vers 1–2)
+
+<sup>1</sup>Elisa sagte:
+„Hört das Wort des HERRN.
+So spricht der HERR:
+‚Morgen um diese Zeit wird man im Tor von Samaria
+etwa 7 Liter Feinmehl für etwa 11 Gramm Silber verkaufen
+und etwa 15 Liter Gerste für etwa 11 Gramm Silber.‘“
+<sup>2</sup>Da antwortete der Offizier, auf dessen Hand sich der König stützte, dem Mann Gottes:
+„Schau, selbst wenn der HERR Fenster in den Himmel machen würde,
+könnte so etwas geschehen?“
+Er sagte:
+„Schau, du wirst es mit deinen Augen sehen,
+aber du wirst nicht davon essen.“
+
+> **Was bedeutet das?**
+> Mitten in der schlimmsten Hungersnot kündigt Elisa an: Schon morgen wird es Essen zu ganz normalen Preisen geben. Das klingt unmöglich.
+> In der Bibel steht „ein Sea Feinmehl für einen Schekel und zwei Sea Gerste für einen Schekel“. Ein Sea sind etwa 7,3 Liter, ein Schekel sind etwa 11 Gramm Silber.
+> Der Offizier spottet: Nicht einmal wenn Gott Fenster in den Himmel macht und Essen herabregnen lässt! Er glaubt nicht, dass Gott helfen kann.
+> „Auf dessen Hand sich der König stützte“ heißt: Er war ein enger Vertrauter des Königs.
+
+---
+
+### Die Aussätzigen im leeren Lager (Vers 3–11)
+
+<sup>3</sup>Am Eingang des Tores waren vier aussätzige Männer.
+Sie sagten zueinander:
+„Warum sitzen wir hier, bis wir sterben?
+<sup>4</sup>Wenn wir sagen: ‚Wir gehen in die Stadt‘,
+dann ist die Hungersnot in der Stadt, und wir sterben dort.
+Und wenn wir hier sitzen bleiben, sterben wir auch.
+Also kommt, lasst uns zum Heer der Syrer überlaufen.
+Wenn sie uns am Leben lassen, leben wir.
+Und wenn sie uns töten, dann sterben wir eben.“
+<sup>5</sup>Sie machten sich in der Dämmerung auf, um zum Lager der Syrer zu gehen.
+Als sie an den Rand des Lagers der Syrer kamen,
+schau, da war niemand.
+<sup>6</sup>Denn der Herr hatte das Heer der Syrer
+den Lärm von Wagen und den Lärm von Pferden hören lassen,
+den Lärm eines großen Heeres.
+Da sagten sie zueinander:
+„Schau, der König von Israel hat die Könige der Hetiter
+und die Könige der Ägypter gegen uns angeworben, um uns anzugreifen.“
+<sup>7</sup>Darum machten sie sich auf und flohen in der Dämmerung.
+Sie ließen ihre Zelte, ihre Pferde und ihre Esel zurück,
+das ganze Lager, wie es war,
+und flohen um ihr Leben.
+<sup>8</sup>Als diese Aussätzigen an den Rand des Lagers kamen,
+gingen sie in ein Zelt, aßen und tranken.
+Dann trugen sie Silber, Gold und Kleider weg
+und gingen hin und versteckten es.
+Dann kamen sie zurück, gingen in ein anderes Zelt,
+trugen auch von dort Sachen weg
+und gingen hin und versteckten sie.
+<sup>9</sup>Dann sagten sie zueinander:
+„Wir tun nicht recht.
+Heute ist ein Tag der guten Nachricht, und wir schweigen.
+Wenn wir bis zum Morgenlicht warten, wird uns Strafe treffen.
+Also kommt, lasst uns gehen und es dem Haus des Königs sagen.“
+<sup>10</sup>Sie kamen und riefen die Torwächter der Stadt
+und erzählten ihnen:
+„Wir sind zum Lager der Syrer gekommen,
+und schau, da war niemand, nicht einmal die Stimme eines Menschen.
+Nur die Pferde waren angebunden und die Esel angebunden,
+und die Zelte standen, wie sie waren.“
+<sup>11</sup>Da riefen die Torwächter es aus,
+und man sagte es drinnen im Haus des Königs.
+
+> **Was bedeutet das?**
+> Die Aussätzigen durften nicht in die Stadt. Sie waren ausgestoßen und hatten nichts mehr zu verlieren. Ausgerechnet sie entdecken als Erste die Rettung.
+> Gott hat die Syrer mit einem Geräusch erschreckt. Sie dachten, eine riesige Armee käme. Sie flohen und ließen alles zurück. Kein Israelit musste kämpfen.
+> Zuerst denken die Aussätzigen nur an sich. Sie essen und verstecken Schätze. Verständlich, nach so viel Hunger. Aber dann merken sie: „Wir tun nicht recht. Heute ist ein Tag der guten Nachricht, und wir schweigen.“ Eine gute Nachricht darf man nicht für sich behalten, während andere verhungern.
+> Viele Christen sehen darin ein Bild: Wer eine gute Nachricht von Gott erfahren hat, soll sie weitersagen.
+> Die „Könige der Hetiter“ waren Herrscher kleiner Reiche im Norden, im Gebiet der heutigen Türkei und Syriens.
+
+---
+
+### Der König ist misstrauisch (Vers 12–15)
+
+<sup>12</sup>Der König stand in der Nacht auf und sagte zu seinen Dienern:
+„Ich will euch sagen, was die Syrer mit uns vorhaben.
+Sie wissen, dass wir hungern.
+Darum sind sie aus dem Lager gegangen, um sich auf dem Feld zu verstecken.
+Sie denken: ‚Wenn sie aus der Stadt herauskommen,
+dann fangen wir sie lebendig und dringen in die Stadt ein.‘“
+<sup>13</sup>Einer seiner Diener antwortete:
+„Man soll doch fünf von den übrigen Pferden nehmen, die in der Stadt noch übrig sind.
+Schau, es geht ihnen wie der ganzen Menge Israels, die in der Stadt übrig ist.
+Schau, es geht ihnen wie der ganzen Menge Israels, die schon umgekommen ist.
+Lasst uns hinschicken und nachsehen.“
+<sup>14</sup>Da nahmen sie zwei Wagen mit Pferden.
+Und der König schickte sie dem Heer der Syrer nach und sagte:
+„Geht und seht nach.“
+<sup>15</sup>Sie folgten ihnen bis zum Jordan.
+Und schau, der ganze Weg war voll von Kleidern und Ausrüstung,
+die die Syrer in ihrer Eile weggeworfen hatten.
+Die Boten kehrten zurück und erzählten es dem König.
+
+> **Was bedeutet das?**
+> Der König traut der guten Nachricht nicht. Er vermutet eine Falle.
+> Der Diener ist klug: Die Pferde sterben sowieso bald vor Hunger. Wir haben nichts zu verlieren, wenn wir nachschauen.
+> Vers 13 wiederholt einen Satz fast gleich. Vielleicht ist das ein Schreibfehler in der alten Abschrift. Gemeint ist: Den Pferden geht es wie allen anderen, ob sie bleiben oder gehen, sie sterben sowieso.
+
+---
+
+### Das Wort erfüllt sich (Vers 16–20)
+
+<sup>16</sup>Da ging das Volk hinaus und plünderte das Lager der Syrer.
+So kostete etwa 7 Liter Feinmehl etwa 11 Gramm Silber
+und etwa 15 Liter Gerste etwa 11 Gramm Silber,
+nach dem Wort des HERRN.
+<sup>17</sup>Der König hatte den Offizier, auf dessen Hand er sich stützte, über das Tor gesetzt.
+Aber das Volk trampelte ihn im Tor nieder,
+und er starb,
+wie es der Mann Gottes gesagt hatte,
+der geredet hatte, als der König zu ihm herabgekommen war.
+<sup>18</sup>Es geschah, wie der Mann Gottes zum König gesagt hatte:
+„Morgen um diese Zeit wird man im Tor von Samaria
+etwa 15 Liter Gerste für etwa 11 Gramm Silber
+und etwa 7 Liter Feinmehl für etwa 11 Gramm Silber verkaufen.“
+<sup>19</sup>Und der Offizier hatte dem Mann Gottes geantwortet:
+„Schau, selbst wenn der HERR Fenster in den Himmel machen würde,
+könnte so etwas geschehen?“
+Und er hatte gesagt:
+„Schau, du wirst es mit deinen Augen sehen,
+aber du wirst nicht davon essen.“
+<sup>20</sup>So geschah es ihm.
+Denn das Volk trampelte ihn im Tor nieder, und er starb.
+
+> **Was bedeutet das?**
+> Alles geschieht genau so, wie Elisa angekündigt hat. Gott hat sein Volk ohne Kampf gerettet.
+> Der Offizier sieht das Wunder mit eigenen Augen, aber er kann nicht mehr davon genießen. Die hungrige Menge drängt durch das Tor und tritt ihn nieder.
+> Der Text wiederholt die Geschichte noch einmal ausführlich. Er will betonen: Gottes Wort ist zuverlässig, auch wenn es unmöglich klingt. Spott und Unglaube bringen nichts Gutes.
+> In Vers 16 steht in der englischen Vorlage „zwei Maß Gerste“. Gemeint sind wieder zwei Sea, wie in Vers 1.
+
+## 2. Könige – Kapitel 8
+#### Die Schunemiterin, Hasaël und zwei Könige von Juda
+
+---
+
+### Die Frau aus Schunem bekommt ihr Land zurück (Vers 1–6)
+
+<sup>1</sup>Elisa hatte zu der Frau, deren Sohn er wieder lebendig gemacht hatte, gesagt:
+„Mach dich auf und geh weg, du und deine Familie,
+und wohne als Fremde, wo du eben wohnen kannst.
+Denn der HERR hat eine Hungersnot herbeigerufen.
+Sie wird über das Land kommen, sieben Jahre lang.“
+<sup>2</sup>Die Frau machte sich auf und tat, was der Mann Gottes gesagt hatte.
+Sie ging mit ihrer Familie weg
+und wohnte sieben Jahre lang im Land der Philister.
+<sup>3</sup>Nach sieben Jahren kehrte die Frau aus dem Land der Philister zurück.
+Dann ging sie zum König, um ihn um ihr Haus und ihr Feld zu bitten.
+<sup>4</sup>Der König redete gerade mit Gehasi, dem Diener des Mannes Gottes,
+und sagte:
+„Erzähl mir doch alle großen Dinge, die Elisa getan hat.“
+<sup>5</sup>Als er dem König gerade erzählte,
+wie Elisa den Toten wieder lebendig gemacht hatte,
+schau, da kam die Frau, deren Sohn er wieder lebendig gemacht hatte,
+und bat den König um ihr Haus und ihr Feld.
+Gehasi sagte:
+„Mein Herr König, das ist die Frau,
+und das ist ihr Sohn, den Elisa wieder lebendig gemacht hat.“
+<sup>6</sup>Der König fragte die Frau, und sie erzählte es ihm.
+Da gab der König ihr einen Hofbeamten mit und sagte:
+„Gib ihr alles zurück, was ihr gehört,
+dazu den ganzen Ertrag des Feldes von dem Tag an, an dem sie das Land verlassen hat, bis jetzt.“
+
+> **Was bedeutet das?**
+> Elisa warnt die Frau aus Schunem vor einer Hungersnot. Sie flieht ins Ausland, zu den Philistern. Sie ist ein Flüchtling, sieben Jahre lang.
+> Als sie zurückkommt, haben andere ihr Haus und Feld genommen. Sie muss beim König darum bitten.
+> Und genau in diesem Moment erzählt Gehasi dem König von ihr. Das ist kein Zufall: Gott sorgt dafür, dass sie zur richtigen Zeit kommt. Sie bekommt alles zurück, sogar den Ertrag der sieben Jahre.
+> Der Text erzählt hier wohl nicht in zeitlicher Reihenfolge. Gehasi war in Kapitel 5 aussätzig geworden. Diese Geschichte spielt vielleicht vorher oder zeigt, dass er trotzdem mit dem König redete.
+
+---
+
+### Hasaël wird König von Syrien (Vers 7–15)
+
+<sup>7</sup>Elisa kam nach Damaskus.
+Ben-Hadad, der König von Syrien, war krank.
+Man meldete ihm:
+„Der Mann Gottes ist hierhergekommen.“
+<sup>8</sup>Der König sagte zu Hasaël:
+„Nimm ein Geschenk in deine Hand,
+geh dem Mann Gottes entgegen
+und frag durch ihn den HERRN:
+‚Werde ich von dieser Krankheit gesund werden?‘“
+<sup>9</sup>So ging Hasaël ihm entgegen
+und nahm ein Geschenk mit, von allem Guten aus Damaskus,
+eine Last für vierzig Kamele.
+Er kam, trat vor ihn hin und sagte:
+„Dein Sohn Ben-Hadad, der König von Syrien, hat mich zu dir geschickt
+und lässt fragen:
+‚Werde ich von dieser Krankheit gesund werden?‘“
+<sup>10</sup>Elisa sagte zu ihm:
+„Geh, sag ihm: ‚Du wirst ganz sicher gesund werden.‘
+Aber der HERR hat mir gezeigt, dass er ganz sicher sterben wird.“
+<sup>11</sup>Er sah ihn starr an, so lange, bis Hasaël sich schämte.
+Dann weinte der Mann Gottes.
+<sup>12</sup>Hasaël fragte:
+„Warum weint mein Herr?“
+Er antwortete:
+„Weil ich weiß, was du den Israeliten Böses antun wirst.
+Ihre Festungen wirst du in Brand stecken,
+ihre jungen Männer wirst du mit dem Schwert töten,
+ihre kleinen Kinder wirst du zerschmettern
+und ihre schwangeren Frauen wirst du aufschlitzen.“
+<sup>13</sup>Hasaël sagte:
+„Was ist denn dein Diener, dieser Hund, dass er so etwas Großes tun könnte?“
+Elisa antwortete:
+„Der HERR hat mir gezeigt, dass du König über Syrien sein wirst.“
+<sup>14</sup>Dann ging er von Elisa weg und kam zu seinem Herrn.
+Der fragte ihn:
+„Was hat Elisa dir gesagt?“
+Er antwortete:
+„Er hat mir gesagt, dass du ganz sicher gesund wirst.“
+<sup>15</sup>Am nächsten Tag nahm er eine dicke Decke,
+tauchte sie in Wasser
+und breitete sie über das Gesicht des Königs,
+sodass er starb.
+Und Hasaël wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Elisa ist sogar im Land der Feinde bekannt und geachtet. Der König von Syrien nennt sich „dein Sohn“.
+> Elisas Antwort klingt widersprüchlich: Die Krankheit selbst wird Ben-Hadad nicht töten. Aber er wird trotzdem sterben, durch Mord.
+> Dann schaut Elisa Hasaël lange an und weint. Er sieht voraus, wie viel Leid dieser Mann über Israel bringen wird. Der Prophet freut sich nicht über das kommende Unglück. Er weint über die Opfer.
+> Die Grausamkeiten in Vers 12 waren damals im Krieg leider üblich. Die Bibel beschreibt sie als Böses, nicht als etwas Gutes. Heute sind solche Taten Kriegsverbrechen.
+> Hasaël tut so, als sei er zu gering („ein Hund“). Aber noch am nächsten Tag ermordet er seinen König. In Wahrheit wollte er die Macht.
+> Gott hatte Elija am Horeb gesagt, dass Hasaël König werden soll (1. Könige 19,15). Das erfüllt sich jetzt, aber durch Hasaëls eigene böse Tat.
+> Hasaël ist auch außerhalb der Bibel bekannt. Eine assyrische Inschrift nennt ihn einen „Sohn eines Niemand“, also einen Mann ohne königliche Herkunft, der den Thron an sich gerissen hat.
+
+---
+
+### Joram, König von Juda (Vers 16–24)
+
+<sup>16</sup>Im fünften Jahr Jorams, des Sohnes Ahabs, des Königs von Israel,
+als Joschafat noch König von Juda war,
+wurde Joram, der Sohn Joschafats, König von Juda.
+<sup>17</sup>Er war 32 Jahre alt, als er König wurde,
+und er regierte acht Jahre in Jerusalem.
+<sup>18</sup>Er ging auf dem Weg der Könige von Israel,
+wie es das Haus Ahab tat,
+denn er hatte die Tochter Ahabs zur Frau.
+Er tat, was in den Augen des HERRN böse war.
+<sup>19</sup>Doch der HERR wollte Juda nicht vernichten,
+um seines Knechtes David willen,
+wie er ihm versprochen hatte, ihm und seinen Söhnen für immer eine Lampe zu geben.
+<sup>20</sup>In seinen Tagen fiel Edom von Juda ab
+und setzte einen eigenen König über sich ein.
+<sup>21</sup>Da zog Joram nach Zaïr hinüber und alle seine Wagen mit ihm.
+In der Nacht machte er sich auf
+und schlug die Edomiter, die ihn umzingelt hatten, und die Anführer der Wagen.
+Und das Volk floh zu seinen Zelten.
+<sup>22</sup>So fiel Edom von Juda ab, bis zum heutigen Tag.
+Damals fiel auch Libna ab, zur selben Zeit.
+<sup>23</sup>Was sonst noch von Joram zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>24</sup>Joram legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt Davids begraben.
+Und sein Sohn Ahasja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jetzt hat das Haus Ahab auch Einfluss in Juda: Der König Joram von Juda hat Ahabs Tochter Atalja geheiratet. Damit kommt der Baalskult auch nach Jerusalem.
+> Nicht verwechseln: Zur selben Zeit regierte im Norden ein anderer Joram, der Sohn Ahabs.
+> Trotzdem bleibt Gott seinem Versprechen an David treu. Die „Lampe“ in Jerusalem soll nicht erlöschen.
+> Edom macht sich selbstständig. Der Kampf in Vers 21 ist schwer zu verstehen. Wahrscheinlich konnte Joram nur mit Mühe aus einer Umzingelung entkommen.
+> Libna war eine Stadt im Westen Judas, an der Grenze zu den Philistern.
+> Joram von Juda regierte etwa von 848 bis 841 vor Christus.
+
+---
+
+### Ahasja, König von Juda (Vers 25–29)
+
+<sup>25</sup>Im zwölften Jahr Jorams, des Sohnes Ahabs, des Königs von Israel,
+wurde Ahasja, der Sohn Jorams, König von Juda.
+<sup>26</sup>Ahasja war 22 Jahre alt, als er König wurde,
+und er regierte ein Jahr in Jerusalem.
+Seine Mutter hieß Atalja, die Tochter Omris, des Königs von Israel.
+<sup>27</sup>Er ging auf dem Weg des Hauses Ahab
+und tat, was in den Augen des HERRN böse war, wie das Haus Ahab.
+Denn er war mit dem Haus Ahab verschwägert.
+<sup>28</sup>Er zog mit Joram, dem Sohn Ahabs, in den Krieg gegen Hasaël, den König von Syrien,
+nach Ramot in Gilead.
+Und die Syrer verwundeten Joram.
+<sup>29</sup>Der König Joram kehrte nach Jesreel zurück,
+um sich von den Wunden heilen zu lassen,
+die die Syrer ihm bei Rama geschlagen hatten,
+als er gegen Hasaël, den König von Syrien, kämpfte.
+Und Ahasja, der Sohn Jorams, der König von Juda,
+ging nach Jesreel hinab, um Joram, den Sohn Ahabs, zu besuchen,
+weil er krank war.
+
+> **Was bedeutet das?**
+> Wieder ein Ahasja: Dieser ist König von Juda, ein Enkel Ahabs.
+> Atalja wird hier „Tochter Omris“ genannt. Im Hebräischen kann „Tochter“ auch „Enkelin“ oder „Nachkommin“ heißen. Sie war die Tochter Ahabs und die Enkelin Omris. Sie wird in Kapitel 11 noch eine schlimme Rolle spielen.
+> „Rama“ ist hier eine Kurzform für Ramot in Gilead.
+> Die beiden Könige, Joram von Israel und Ahasja von Juda, sind jetzt zusammen in Jesreel. Das ist wichtig für das nächste Kapitel.
+
+## 2. Könige – Kapitel 9
+#### Jehu wird König
+
+---
+
+### Jehu wird gesalbt (Vers 1–13)
+
+<sup>1</sup>Der Prophet Elisa rief einen von den Prophetenjüngern und sagte zu ihm:
+„Binde deinen Gürtel um die Hüften,
+nimm diese Flasche Öl in deine Hand
+und geh nach Ramot in Gilead.
+<sup>2</sup>Wenn du dort ankommst,
+such Jehu, den Sohn Joschafats, des Sohnes Nimschis.
+Geh hinein, lass ihn von seinen Brüdern aufstehen
+und führe ihn in einen inneren Raum.
+<sup>3</sup>Dann nimm die Flasche Öl,
+gieß sie auf seinen Kopf
+und sag:
+‚So spricht der HERR:
+Ich habe dich zum König über Israel gesalbt.‘
+Dann öffne die Tür, flieh und warte nicht.“
+<sup>4</sup>Da ging der junge Mann, der junge Prophet, nach Ramot in Gilead.
+<sup>5</sup>Als er ankam, schau, da saßen die Heerführer zusammen.
+Er sagte:
+„Ich habe eine Botschaft für dich, Heerführer.“
+Jehu fragte:
+„Für wen von uns allen?“
+Er sagte:
+„Für dich, Heerführer.“
+<sup>6</sup>Da stand er auf und ging ins Haus.
+Er goss das Öl auf seinen Kopf und sagte zu ihm:
+„So spricht der HERR, der Gott Israels:
+‚Ich habe dich zum König über das Volk des HERRN, über Israel, gesalbt.
+<sup>7</sup>Du sollst das Haus deines Herrn Ahab schlagen,
+damit ich das Blut meiner Knechte, der Propheten,
+und das Blut aller Knechte des HERRN an Isebel räche.
+<sup>8</sup>Denn das ganze Haus Ahab soll umkommen.
+Ich rotte von Ahab jeden aus, der an die Wand uriniert,
+den Gebundenen und den Freien in Israel.
+<sup>9</sup>Ich mache das Haus Ahabs wie das Haus Jerobeams, des Sohnes Nebats,
+und wie das Haus Baschas, des Sohnes Ahijas.
+<sup>10</sup>Und die Hunde werden Isebel auf dem Feld von Jesreel fressen,
+und niemand wird sie begraben.‘“
+Dann öffnete er die Tür und floh.
+<sup>11</sup>Als Jehu zu den Dienern seines Herrn herauskam,
+fragte ihn einer:
+„Ist alles gut? Warum ist dieser Verrückte zu dir gekommen?“
+Er sagte zu ihnen:
+„Ihr kennt den Mann und sein Geschwätz.“
+<sup>12</sup>Sie sagten:
+„Das ist gelogen. Sag es uns doch.“
+Er sagte:
+„So und so hat er zu mir gesagt:
+‚So spricht der HERR: Ich habe dich zum König über Israel gesalbt.‘“
+<sup>13</sup>Da beeilten sie sich.
+Jeder nahm seinen Mantel und legte ihn unter ihn auf die oberste Stufe der Treppe.
+Sie bliesen das Horn und riefen:
+„Jehu ist König!“
+
+> **Was bedeutet das?**
+> Jetzt erfüllt sich, was Gott Elija am Horeb gesagt hatte: Jehu soll König werden (1. Könige 19,16).
+> Jehu ist ein Heerführer. Ein junger Prophet salbt ihn heimlich und flieht dann sofort, denn das ist lebensgefährlich: Es ist ein Aufstand gegen den König.
+> Die Soldaten nennen den Propheten einen „Verrückten“. Propheten wirkten oft seltsam auf andere Menschen.
+> Die Offiziere legen ihre Mäntel unter Jehus Füße. Das ist eine Ehrung für einen König. Ähnlich legten die Menschen beim Einzug Jesu in Jerusalem ihre Kleider auf den Weg (Matthäus 21,8).
+> Gottes Auftrag an Jehu ist sehr hart. Die Bibel erzählt ihn, weil Ahab und Isebel viele Unschuldige getötet hatten, darunter Propheten und Nabot. Aber man muss wissen: Jehu geht später weit über den Auftrag hinaus. Ein späterer Prophet, Hosea, verurteilt das „Blut von Jesreel“, das Jehu vergossen hat (Hosea 1,4). Gottes Gericht ist kein Freibrief für menschliche Grausamkeit.
+
+---
+
+### Jehu tötet Joram (Vers 14–26)
+
+<sup>14</sup>So verschwor sich Jehu, der Sohn Joschafats, des Sohnes Nimschis, gegen Joram.
+– Joram hatte mit ganz Israel Ramot in Gilead gegen Hasaël, den König von Syrien, verteidigt.
+<sup>15</sup>Aber der König Joram war nach Jesreel zurückgekehrt,
+um sich von den Wunden heilen zu lassen,
+die die Syrer ihm geschlagen hatten, als er gegen Hasaël, den König von Syrien, kämpfte. –
+Jehu sagte:
+„Wenn ihr so denkt,
+dann soll niemand aus der Stadt entkommen,
+um hinzugehen und es in Jesreel zu erzählen.“
+<sup>16</sup>Da stieg Jehu auf einen Wagen und fuhr nach Jesreel,
+denn dort lag Joram.
+Auch Ahasja, der König von Juda, war hinabgekommen, um Joram zu besuchen.
+<sup>17</sup>Der Wächter stand auf dem Turm in Jesreel.
+Er sah den Trupp Jehus kommen und sagte:
+„Ich sehe einen Trupp.“
+Joram sagte:
+„Nimm einen Reiter und schick ihn ihnen entgegen.
+Er soll fragen: ‚Ist es Frieden?‘“
+<sup>18</sup>Da ritt einer auf einem Pferd ihm entgegen und sagte:
+„So spricht der König: ‚Ist es Frieden?‘“
+Jehu sagte:
+„Was hast du mit Frieden zu tun? Reih dich hinter mir ein!“
+Der Wächter meldete:
+„Der Bote ist zu ihnen gekommen, aber er kommt nicht zurück.“
+<sup>19</sup>Da schickte er einen zweiten Reiter.
+Der kam zu ihnen und sagte:
+„So spricht der König: ‚Ist es Frieden?‘“
+Jehu antwortete:
+„Was hast du mit Frieden zu tun? Reih dich hinter mir ein!“
+<sup>20</sup>Der Wächter meldete:
+„Er ist zu ihnen gekommen und kommt nicht zurück.
+Und die Fahrweise ist wie die Fahrweise Jehus, des Sohnes Nimschis,
+denn er fährt wie ein Wahnsinniger.“
+<sup>21</sup>Joram sagte:
+„Spann an!“
+Und man spannte seinen Wagen an.
+Dann fuhren Joram, der König von Israel, und Ahasja, der König von Juda, hinaus,
+jeder in seinem Wagen.
+Sie fuhren Jehu entgegen
+und trafen ihn auf dem Grundstück Nabots aus Jesreel.
+<sup>22</sup>Als Joram Jehu sah, sagte er:
+„Ist es Frieden, Jehu?“
+Er antwortete:
+„Was für ein Frieden,
+solange die Hurerei deiner Mutter Isebel und ihre vielen Zaubereien andauern?“
+<sup>23</sup>Da wendete Joram den Wagen, floh
+und sagte zu Ahasja:
+„Verrat, Ahasja!“
+<sup>24</sup>Jehu spannte seinen Bogen mit aller Kraft
+und traf Joram zwischen die Arme.
+Der Pfeil ging durch sein Herz,
+und er sank in seinem Wagen zusammen.
+<sup>25</sup>Dann sagte Jehu zu Bidkar, seinem Offizier:
+„Heb ihn auf und wirf ihn auf das Feldstück Nabots aus Jesreel.
+Denn denk daran, wie du und ich hinter seinem Vater Ahab herfuhren,
+als der HERR dieses Urteil über ihn sprach:
+<sup>26</sup>‚Wahrlich, ich habe gestern das Blut Nabots und das Blut seiner Söhne gesehen‘,
+spricht der HERR,
+‚und ich will es dir auf diesem Feldstück vergelten‘,
+spricht der HERR.
+Darum nimm ihn und wirf ihn auf das Feldstück, nach dem Wort des HERRN.“
+
+> **Was bedeutet das?**
+> „Zwischen die Arme“ heißt wohl: in den Rücken, zwischen die Schulterblätter, als Joram sich zur Flucht umdrehte.
+> Jehu ist für seine wilde Fahrweise bekannt. Der Wächter erkennt ihn schon von Weitem daran.
+> Dreimal wird gefragt: „Ist es Frieden?“ Aber es gibt keinen Frieden.
+> „Hurerei“ ist in der Bibel oft ein Bild für Götzendienst: Untreue gegenüber Gott, wie Untreue in der Ehe. Isebel hatte den Baalskult nach Israel gebracht.
+> Joram stirbt ausgerechnet auf dem Feld Nabots. Hier schließt sich der Kreis: Ahab und Isebel hatten Nabot dort ermorden lassen (1. Könige 21). Jetzt kommt die Vergeltung an diesem Ort.
+> Hier erfahren wir auch, dass Nabots Söhne mit ermordet wurden (Vers 26).
+
+---
+
+### Ahasja von Juda stirbt (Vers 27–29)
+
+<sup>27</sup>Als Ahasja, der König von Juda, das sah,
+floh er auf dem Weg zum Gartenhaus.
+Jehu verfolgte ihn und sagte:
+„Schlagt auch ihn im Wagen!“
+Sie schlugen ihn an der Steige von Gur, die bei Jibleam liegt.
+Er floh nach Megiddo und starb dort.
+<sup>28</sup>Seine Diener fuhren ihn auf einem Wagen nach Jerusalem
+und begruben ihn in seinem Grab bei seinen Vätern in der Stadt Davids.
+<sup>29</sup>Im elften Jahr Jorams, des Sohnes Ahabs, war Ahasja König über Juda geworden.
+
+> **Was bedeutet das?**
+> Auch der König von Juda kommt ums Leben, weil er mit dem Haus Ahab verbunden war.
+> Interessant: 1993 und 1994 wurde in Tel Dan im Norden Israels eine Inschrift gefunden. Darin rühmt sich ein König von Damaskus, wohl Hasaël, dass er Joram, den König von Israel, und Ahasja vom „Haus David“ getötet habe. Die Bibel sagt, Jehu war es. Vielleicht sah Hasaël sich als Sieger, weil Jehu mit ihm zusammengearbeitet hat, oder er hat einfach geprahlt. Diese Inschrift ist berühmt, weil sie das „Haus David“ erwähnt. Sie ist einer der ältesten Belege außerhalb der Bibel für Davids Königsfamilie.
+> Vers 29 nennt eine andere Jahreszahl als Kapitel 8,25 (elftes statt zwölftes Jahr). Wahrscheinlich wurden die Jahre unterschiedlich gezählt.
+
+---
+
+### Isebels Ende (Vers 30–37)
+
+<sup>30</sup>Als Jehu nach Jesreel kam, hörte Isebel davon.
+Sie schminkte ihre Augen, schmückte ihren Kopf
+und schaute aus dem Fenster.
+<sup>31</sup>Als Jehu ins Tor kam, sagte sie:
+„Kommst du in Frieden, du Simri, du Mörder deines Herrn?“
+<sup>32</sup>Er hob sein Gesicht zum Fenster und sagte:
+„Wer ist auf meiner Seite? Wer?“
+Da schauten zwei oder drei Hofbeamte zu ihm herab.
+<sup>33</sup>Er sagte:
+„Werft sie herunter!“
+Und sie warfen sie herunter.
+Etwas von ihrem Blut spritzte an die Wand und an die Pferde.
+Und er zertrat sie.
+<sup>34</sup>Als er hineingekommen war, aß und trank er.
+Dann sagte er:
+„Seht doch nach dieser Verfluchten und begrabt sie,
+denn sie ist eine Königstochter.“
+<sup>35</sup>Sie gingen hin, um sie zu begraben,
+aber sie fanden nichts mehr von ihr außer dem Schädel, den Füßen und den Handflächen.
+<sup>36</sup>Da kamen sie zurück und erzählten es ihm.
+Er sagte:
+„Das ist das Wort des HERRN,
+das er durch seinen Knecht Elija, den Tischbiter, gesagt hat:
+‚Auf dem Feld von Jesreel werden die Hunde das Fleisch Isebels fressen.
+<sup>37</sup>Und die Leiche Isebels soll auf dem Feld im Land Jesreel wie Mist auf dem Acker liegen,
+sodass man nicht sagen kann: Das ist Isebel.‘“
+
+> **Was bedeutet das?**
+> Isebel weiß, dass ihr Ende kommt. Aber sie stirbt stolz. Sie schminkt sich und tritt Jehu als Königin entgegen. Sie nennt ihn „Simri“: Simri hatte vor etwa 45 Jahren seinen König ermordet und regierte dann nur sieben Tage (1. Könige 16,9–18). Isebel will sagen: Dir wird es genauso gehen.
+> Die Hofbeamten, wörtlich „Eunuchen“, wechseln schnell die Seite und werfen ihre Herrin aus dem Fenster.
+> Jehu isst und trinkt, als wäre nichts gewesen. Das zeigt seine Härte.
+> So erfüllt sich Elijas Wort (1. Könige 21,23). Isebel hatte viele Propheten Gottes und Nabot töten lassen. Die Bibel zeigt: Auch die Mächtigen entkommen Gottes Gericht nicht.
+> Trotzdem ist diese Szene grausam und kein Vorbild. Die Bibel erzählt sie, um zu zeigen, wie Gewalt und Götzendienst sich rächen, nicht um sie gutzuheißen.
+> Der Name „Isebel“ wurde später zum Symbol für Verführung zum Götzendienst (Offenbarung 2,20). Leider wurde er auch benutzt, um Frauen abzuwerten. Das ist falsch: Isebel wird nicht verurteilt, weil sie eine Frau war, sondern wegen ihrer Taten.
