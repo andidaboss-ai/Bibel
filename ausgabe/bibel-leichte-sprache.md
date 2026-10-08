@@ -45022,3 +45022,757 @@ und lief vor Ahab her bis dahin, wo man nach Jesreel hineingeht.
 > Der Regen beweist: Nicht Baal, sondern der HERR schenkt den Regen.
 > Elija läuft vor dem Wagen des Königs her, etwa 25 bis 30 Kilometer bis Jesreel. Gott gibt ihm übernatürliche Kraft. Es ist auch ein Zeichen: Elija ehrt den König, obwohl er ihm widersprochen hat.
 > Jesreel war ein zweiter Königssitz Ahabs, in der fruchtbaren Ebene östlich vom Karmel.
+
+## 1. Könige – Kapitel 19
+#### Elija am Berg Horeb
+
+---
+
+### Elija flieht und will sterben (Vers 1–8)
+
+<sup>1</sup>Ahab erzählte Isebel alles, was Elija getan hatte,
+und wie er alle Propheten mit dem Schwert getötet hatte.
+<sup>2</sup>Da schickte Isebel einen Boten zu Elija und ließ ihm sagen:
+„Die Götter sollen mir dies und noch mehr antun,
+wenn ich morgen um diese Zeit dein Leben nicht so mache
+wie das Leben von einem von ihnen!“
+<sup>3</sup>Als er das sah, machte er sich auf und lief um sein Leben.
+Er kam nach Beerscheba, das zu Juda gehört,
+und ließ seinen Diener dort.
+<sup>4</sup>Er selbst aber ging eine Tagesreise weit in die Wüste.
+Er kam und setzte sich unter einen Wacholderstrauch.
+Dann wünschte er sich den Tod und sagte:
+„Es ist genug.
+Nimm jetzt, HERR, mein Leben,
+denn ich bin nicht besser als meine Väter.“
+<sup>5</sup>Er legte sich hin und schlief unter dem Wacholderstrauch ein.
+Und schau, ein Engel berührte ihn und sagte zu ihm:
+„Steh auf und iss!“
+<sup>6</sup>Er schaute hin,
+und schau, an seinem Kopf lag ein Brotfladen, auf heißen Steinen gebacken,
+und ein Krug Wasser.
+Er aß und trank und legte sich wieder hin.
+<sup>7</sup>Der Engel des HERRN kam ein zweites Mal,
+berührte ihn und sagte:
+„Steh auf und iss, denn der Weg ist zu weit für dich.“
+<sup>8</sup>Er stand auf, aß und trank
+und ging in der Kraft dieser Speise vierzig Tage und vierzig Nächte
+bis zum Horeb, dem Berg Gottes.
+
+> **Was bedeutet das?**
+> Gerade noch hat Elija den großen Sieg auf dem Karmel erlebt. Jetzt droht ihm Isebel, und er bricht zusammen. Er läuft weg, so weit er kann, bis ganz in den Süden.
+> Elija ist erschöpft und verzweifelt. Er will nicht mehr leben. Die Bibel verschweigt das nicht: Auch ein großer Glaubensmensch kann am Ende seiner Kraft sein und tiefe Traurigkeit erleben.
+> Gott schimpft nicht mit ihm. Er schickt einen Engel, der ihn sanft berührt, ihm Essen und Wasser gibt und ihn schlafen lässt. Erst Ruhe und Stärkung, dann der Weg. „Der Weg ist zu weit für dich“: Gott kennt unsere Grenzen.
+> Wenn du selbst denkst „Es ist genug, ich will nicht mehr leben“: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+> „Wacholderstrauch“: Im Hebräischen heißt die Pflanze „rotem“. Das ist ein Ginsterstrauch, der in der Wüste wächst und ein wenig Schatten gibt.
+> Vierzig Tage und Nächte erinnern an Mose, der vierzig Tage auf dem Berg Sinai war (2. Mose 34,28). Auch Jesus war vierzig Tage in der Wüste (Matthäus 4,2). Der Horeb ist der Berg Sinai, wo Gott Mose begegnet ist.
+
+---
+
+### Gott ist im sanften, leisen Säuseln (Vers 9–18)
+
+<sup>9</sup>Dort kam er zu einer Höhle und übernachtete dort.
+Und schau, das Wort des HERRN kam zu ihm.
+Er sagte zu ihm:
+„Was machst du hier, Elija?“
+<sup>10</sup>Er sagte:
+„Ich habe sehr geeifert für den HERRN, den Gott der Heere.
+Denn die Israeliten haben deinen Bund verlassen,
+deine Altäre niedergerissen
+und deine Propheten mit dem Schwert getötet.
+Ich, ich allein bin übrig geblieben.
+Und sie trachten mir nach dem Leben, um es mir zu nehmen.“
+<sup>11</sup>Er sagte:
+„Geh hinaus und stell dich auf den Berg vor den HERRN.“
+Und schau, der HERR ging vorüber.
+Ein großer und starker Wind zerriss die Berge und zerbrach die Felsen vor dem HERRN.
+Aber der HERR war nicht im Wind.
+Nach dem Wind kam ein Erdbeben.
+Aber der HERR war nicht im Erdbeben.
+<sup>12</sup>Nach dem Erdbeben kam ein Feuer.
+Aber der HERR war nicht im Feuer.
+Nach dem Feuer kam ein stilles, sanftes Säuseln.
+<sup>13</sup>Als Elija das hörte, verhüllte er sein Gesicht mit seinem Mantel,
+ging hinaus und stellte sich an den Eingang der Höhle.
+Und schau, eine Stimme kam zu ihm und sagte:
+„Was machst du hier, Elija?“
+<sup>14</sup>Er sagte:
+„Ich habe sehr geeifert für den HERRN, den Gott der Heere.
+Denn die Israeliten haben deinen Bund verlassen,
+deine Altäre niedergerissen
+und deine Propheten mit dem Schwert getötet.
+Ich, ich allein bin übrig geblieben.
+Und sie trachten mir nach dem Leben, um es mir zu nehmen.“
+<sup>15</sup>Der HERR sagte zu ihm:
+„Geh, kehr auf deinem Weg zurück in die Wüste von Damaskus.
+Wenn du dort ankommst, salbe Hasaël zum König über Syrien.
+<sup>16</sup>Und Jehu, den Sohn Nimschis, sollst du zum König über Israel salben.
+Und Elisa, den Sohn Schafats, aus Abel-Mehola,
+sollst du zum Propheten an deiner Stelle salben.
+<sup>17</sup>Wer dem Schwert Hasaëls entkommt, den wird Jehu töten.
+Und wer dem Schwert Jehus entkommt, den wird Elisa töten.
+<sup>18</sup>Doch ich habe in Israel 7000 übrig gelassen,
+alle Knie, die sich nicht vor Baal gebeugt haben,
+und jeden Mund, der ihn nicht geküsst hat.“
+
+> **Was bedeutet das?**
+> Das ist eine der bekanntesten Stellen der Bibel. Gott fragt zweimal: „Was machst du hier, Elija?“ Er fragt nicht streng, sondern lädt Elija ein, zu reden.
+> Elija schüttet sein Herz aus: Ich habe alles gegeben, und jetzt bin ich ganz allein.
+> Dann kommen Sturm, Erdbeben und Feuer, wie damals am Sinai. Aber Gott ist nicht darin. Gott kommt in einem „stillen, sanften Säuseln“. Im Hebräischen steht etwas wie „eine Stimme verschwebenden Schweigens“. Gott ist nicht nur im Spektakulären. Oft begegnet er uns leise, in der Stille.
+> Elija hatte das große Feuer auf dem Karmel erlebt. Jetzt lernt er: Gott wirkt auch still und verborgen.
+> Gott gibt Elija neue Aufgaben. Er ist nicht abgeschrieben. Und er bekommt einen Nachfolger, Elisa. Er muss die Last nicht mehr allein tragen.
+> Und Elija ist nicht der Einzige: 7000 Menschen sind Gott treu geblieben. Wer sich allein fühlt, weiß oft nicht, wie viele andere es noch gibt. Paulus zitiert diesen Vers in Römer 11,4.
+> Vers 17 klingt hart. Hasaël und Jehu werden später Krieg und Gericht über das Haus Ahab und den Baalskult bringen (2. Könige 8–10). Bei Elisa ist wohl sein prophetisches Wort gemeint, nicht dass er selbst mit dem Schwert tötet.
+> „Den Baal küssen“: Man küsste damals Götzenbilder als Zeichen der Verehrung.
+> „Syrien“ heißt im Hebräischen „Aram“.
+
+---
+
+### Elisa wird berufen (Vers 19–21)
+
+<sup>19</sup>Er ging von dort weg und fand Elisa, den Sohn Schafats.
+Der pflügte gerade mit zwölf Gespannen Rindern vor sich,
+und er selbst war beim zwölften.
+Elija ging zu ihm hinüber und warf seinen Mantel über ihn.
+<sup>20</sup>Elisa ließ die Rinder stehen, lief Elija nach und sagte:
+„Lass mich bitte noch meinen Vater und meine Mutter küssen,
+dann will ich dir folgen.“
+Er sagte zu ihm:
+„Geh, kehr zurück.
+Denn was habe ich dir getan?“
+<sup>21</sup>Elisa kehrte um, nahm das Gespann Rinder und schlachtete sie.
+Mit dem Geschirr der Rinder kochte er ihr Fleisch
+und gab es den Leuten, und sie aßen.
+Dann machte er sich auf, folgte Elija und diente ihm.
+
+> **Was bedeutet das?**
+> Elisa war ein reicher Bauer: Zwölf Gespanne Rinder waren viel.
+> Elija wirft ihm seinen Mantel über. Das ist ein Zeichen: Du sollst mein Nachfolger werden.
+> Elijas Antwort „Was habe ich dir getan?“ heißt wohl: Entscheide selbst. Ich zwinge dich nicht.
+> Elisa trifft eine klare Entscheidung: Er schlachtet die Rinder und verbrennt den Pflug als Brennholz. Es gibt kein Zurück mehr. Und er feiert ein Abschiedsessen mit den Leuten.
+> Jesus hat auf diese Geschichte angespielt: „Wer die Hand an den Pflug legt und zurückschaut, ist nicht geschickt für das Reich Gottes“ (Lukas 9,61–62).
+
+## 1. Könige – Kapitel 20
+#### Ahabs Kriege gegen Syrien
+
+---
+
+### Ben-Hadad belagert Samaria (Vers 1–12)
+
+<sup>1</sup>Ben-Hadad, der König von Syrien, versammelte sein ganzes Heer.
+32 Könige waren bei ihm, mit Pferden und Wagen.
+Er zog herauf, belagerte Samaria und kämpfte gegen die Stadt.
+<sup>2</sup>Er schickte Boten in die Stadt zu Ahab, dem König von Israel, und ließ ihm sagen:
+„So spricht Ben-Hadad:
+<sup>3</sup>‚Dein Silber und dein Gold gehören mir.
+Auch deine Frauen und deine Kinder, die besten, gehören mir.‘“
+<sup>4</sup>Der König von Israel antwortete:
+„Wie du sagst, mein Herr König.
+Ich gehöre dir, mit allem, was ich habe.“
+<sup>5</sup>Die Boten kamen wieder und sagten:
+„So spricht Ben-Hadad:
+‚Ich habe dir sagen lassen:
+„Du sollst mir dein Silber, dein Gold, deine Frauen und deine Kinder geben.“
+<sup>6</sup>Aber morgen um diese Zeit schicke ich meine Diener zu dir.
+Sie werden dein Haus und die Häuser deiner Diener durchsuchen.
+Alles, was dir gefällt, werden sie in ihre Hand nehmen und mitnehmen.‘“
+<sup>7</sup>Da rief der König von Israel alle Ältesten des Landes und sagte:
+„Seht doch, wie dieser Mann Unheil sucht.
+Er hat zu mir geschickt wegen meiner Frauen und meiner Kinder,
+wegen meines Silbers und meines Goldes,
+und ich habe es ihm nicht verweigert.“
+<sup>8</sup>Alle Ältesten und das ganze Volk sagten zu ihm:
+„Hör nicht auf ihn und stimm nicht zu.“
+<sup>9</sup>Darum sagte er zu den Boten Ben-Hadads:
+„Sagt meinem Herrn, dem König:
+‚Alles, was du zuerst von deinem Diener verlangt hast, will ich tun.
+Aber das kann ich nicht tun.‘“
+Die Boten gingen weg und brachten ihm die Antwort.
+<sup>10</sup>Ben-Hadad schickte zu ihm und ließ sagen:
+„Die Götter sollen mir dies und noch mehr antun,
+wenn der Staub von Samaria reicht, dass jeder von dem Volk, das mir folgt, eine Handvoll bekommt.“
+<sup>11</sup>Der König von Israel antwortete:
+„Sagt ihm:
+‚Wer die Rüstung anlegt, soll nicht prahlen wie einer, der sie ablegt.‘“
+<sup>12</sup>Ben-Hadad hörte diese Antwort, als er gerade mit den Königen in den Zelten trank.
+Da sagte er zu seinen Dienern:
+„Macht euch zum Angriff bereit!“
+Und sie machten sich bereit, die Stadt anzugreifen.
+
+> **Was bedeutet das?**
+> Ben-Hadad war der König der Aramäer in Damaskus. „Ben-Hadad“ heißt „Sohn des Hadad“. Hadad war ein Wettergott. Mehrere Könige trugen diesen Namen.
+> Die 32 Könige waren wohl Fürsten kleiner Städte und Stämme, die mit ihm verbündet waren.
+> Ben-Hadad will Ahab demütigen. Zuerst soll Ahab sich unterwerfen. Dann will Ben-Hadad sogar Ahabs Haus plündern lassen. Da sagen die Ältesten: Genug!
+> Vers 10 heißt: Wir sind so viele, dass von Samaria nicht einmal genug Staub für jeden übrig bleiben wird.
+> Ahabs Antwort ist ein Sprichwort: Wer erst in den Kampf zieht, soll nicht so angeben wie einer, der schon gewonnen hat. Also: Freu dich nicht zu früh.
+
+---
+
+### Ein unerwarteter Sieg (Vers 13–22)
+
+<sup>13</sup>Schau, ein Prophet trat zu Ahab, dem König von Israel, und sagte:
+„So spricht der HERR:
+‚Hast du diese ganze große Menge gesehen?
+Schau, ich gebe sie heute in deine Hand.
+Dann wirst du erkennen, dass ich der HERR bin.‘“
+<sup>14</sup>Ahab fragte:
+„Durch wen?“
+Er sagte:
+„So spricht der HERR:
+‚Durch die jungen Männer der Anführer der Provinzen.‘“
+Dann fragte er:
+„Wer soll den Kampf beginnen?“
+Er antwortete:
+„Du.“
+<sup>15</sup>Da musterte er die jungen Männer der Anführer der Provinzen.
+Es waren 232.
+Nach ihnen musterte er das ganze Volk, alle Israeliten: 7000.
+<sup>16</sup>Sie zogen am Mittag aus.
+Ben-Hadad aber trank sich betrunken in den Zelten,
+er und die Könige, die 32 Könige, die ihm halfen.
+<sup>17</sup>Die jungen Männer der Anführer der Provinzen zogen zuerst aus.
+Ben-Hadad schickte Leute aus, und sie meldeten ihm:
+„Männer kommen aus Samaria heraus.“
+<sup>18</sup>Er sagte:
+„Wenn sie zum Frieden herausgekommen sind, nehmt sie lebendig gefangen.
+Und wenn sie zum Krieg herausgekommen sind, nehmt sie auch lebendig gefangen.“
+<sup>19</sup>So zogen sie aus der Stadt,
+die jungen Männer der Anführer der Provinzen und das Heer, das ihnen folgte.
+<sup>20</sup>Jeder erschlug seinen Mann.
+Die Syrer flohen, und Israel verfolgte sie.
+Ben-Hadad, der König von Syrien, entkam auf einem Pferd mit einigen Reitern.
+<sup>21</sup>Der König von Israel zog aus,
+schlug die Pferde und die Wagen
+und brachte den Syrern eine große Niederlage bei.
+<sup>22</sup>Der Prophet trat zum König von Israel und sagte zu ihm:
+„Geh, stärke dich und überleg, was du tun musst.
+Denn wenn das Jahr wiederkehrt, wird der König von Syrien gegen dich heraufziehen.“
+
+> **Was bedeutet das?**
+> Obwohl Ahab ein schlechter König ist, hilft Gott Israel. Er schickt sogar einen Propheten. Der Grund: „Dann wirst du erkennen, dass ich der HERR bin.“ Gott gibt Ahab noch eine Chance, ihn zu erkennen.
+> Die Armee ist klein: zuerst nur 232 junge Männer. Sie greifen am Mittag an, als Ben-Hadad schon betrunken ist. Gott siegt nicht durch die große Zahl.
+> „Wenn das Jahr wiederkehrt“ heißt: im Frühling. Im Frühling begannen damals die Kriegszüge.
+
+---
+
+### Gott der Berge und der Täler (Vers 23–30)
+
+<sup>23</sup>Die Diener des Königs von Syrien sagten zu ihm:
+„Ihr Gott ist ein Gott der Berge.
+Darum waren sie stärker als wir.
+Aber lass uns in der Ebene gegen sie kämpfen,
+dann werden wir ganz sicher stärker sein als sie.
+<sup>24</sup>Mach Folgendes:
+Setz die Könige ab, jeden von seinem Posten,
+und setz Statthalter an ihre Stelle.
+<sup>25</sup>Stell dir ein Heer zusammen wie das Heer, das du verloren hast,
+Pferd für Pferd und Wagen für Wagen.
+Wir wollen in der Ebene gegen sie kämpfen,
+dann werden wir ganz sicher stärker sein als sie.“
+Er hörte auf ihren Rat und machte es so.
+<sup>26</sup>Als das Jahr wiederkehrte,
+musterte Ben-Hadad die Syrer
+und zog nach Afek hinauf, um gegen Israel zu kämpfen.
+<sup>27</sup>Auch die Israeliten wurden gemustert und mit Vorräten versorgt
+und zogen ihnen entgegen.
+Die Israeliten lagerten ihnen gegenüber wie zwei kleine Herden Ziegen.
+Aber die Syrer füllten das Land.
+<sup>28</sup>Ein Mann Gottes trat heran und sagte zum König von Israel:
+„So spricht der HERR:
+‚Weil die Syrer gesagt haben:
+„Der HERR ist ein Gott der Berge, aber er ist kein Gott der Täler“,
+darum will ich diese ganze große Menge in deine Hand geben.
+Und ihr werdet erkennen, dass ich der HERR bin.‘“
+<sup>29</sup>Sie lagerten sieben Tage einander gegenüber.
+Am siebten Tag begann der Kampf.
+Die Israeliten erschlugen an einem Tag 100 000 Fußsoldaten der Syrer.
+<sup>30</sup>Die übrigen flohen nach Afek, in die Stadt.
+Da fiel die Mauer auf die 27 000 Männer, die übrig geblieben waren.
+Ben-Hadad floh und kam in die Stadt, in einen inneren Raum.
+
+> **Was bedeutet das?**
+> Die Aramäer dachten: Jeder Gott ist nur für ein bestimmtes Gebiet zuständig. Der Gott Israels ist ein Berggott, also kämpfen wir im Tal.
+> Gott zeigt: Ich bin nicht an einen Ort gebunden. Ich bin der Herr über Berge und Täler, über die ganze Welt.
+> Afek lag wohl östlich des Sees Gennesaret, in einer Ebene.
+> Die Zahlen sind sehr groß. In alten Kriegsberichten wurden Zahlen oft übertrieben oder rund angegeben. Manche Fachleute meinen, dass das hebräische Wort für „tausend“ hier eine militärische Einheit bezeichnet.
+
+---
+
+### Ahab lässt Ben-Hadad frei (Vers 31–34)
+
+<sup>31</sup>Seine Diener sagten zu ihm:
+„Schau doch, wir haben gehört, dass die Könige des Hauses Israel barmherzige Könige sind.
+Lass uns Säcke um unsere Hüften legen und Stricke um unsere Köpfe
+und zum König von Israel hinausgehen.
+Vielleicht lässt er dich am Leben.“
+<sup>32</sup>Sie legten Säcke um ihre Hüften und Stricke um ihre Köpfe,
+kamen zum König von Israel und sagten:
+„Dein Diener Ben-Hadad sagt: ‚Lass mich doch am Leben.‘“
+Er sagte:
+„Lebt er noch? Er ist mein Bruder.“
+<sup>33</sup>Die Männer achteten genau darauf
+und griffen dieses Wort schnell auf und sagten:
+„Dein Bruder Ben-Hadad!“
+Er sagte:
+„Geht, holt ihn.“
+Da kam Ben-Hadad zu ihm heraus,
+und er ließ ihn auf seinen Wagen steigen.
+<sup>34</sup>Ben-Hadad sagte zu ihm:
+„Die Städte, die mein Vater deinem Vater weggenommen hat, will ich zurückgeben.
+Und du sollst dir in Damaskus Handelsstraßen anlegen,
+wie mein Vater es in Samaria getan hat.“
+Ahab sagte:
+„Mit diesem Vertrag will ich dich freilassen.“
+So schloss er einen Vertrag mit ihm und ließ ihn gehen.
+
+> **Was bedeutet das?**
+> Säcke (grober Stoff) und Stricke um den Hals waren Zeichen der Unterwerfung und der Bitte um Gnade.
+> Ahab nennt seinen Feind „mein Bruder“. Unter Königen hieß das: Wir sind gleichrangige Verbündete. Ahab macht einen guten Handel für sich: Städte und Handelsrechte.
+> Auf den ersten Blick wirkt das großzügig. Aber Gott hatte den Sieg geschenkt, und Ahab fragt Gott nicht, was er tun soll. Er handelt nur nach seinem eigenen Vorteil. Ben-Hadad wird später wieder gegen Israel kämpfen.
+
+---
+
+### Ein Prophet mit einem Gleichnis (Vers 35–43)
+
+<sup>35</sup>Ein Mann von den Prophetenjüngern sagte auf das Wort des HERRN hin zu seinem Gefährten:
+„Schlag mich doch!“
+Aber der Mann weigerte sich, ihn zu schlagen.
+<sup>36</sup>Da sagte er zu ihm:
+„Weil du nicht auf die Stimme des HERRN gehört hast,
+schau, darum wird dich ein Löwe töten, sobald du von mir weggehst.“
+Und als er von ihm wegging, fand ihn ein Löwe und tötete ihn.
+<sup>37</sup>Dann fand er einen anderen Mann und sagte:
+„Schlag mich doch!“
+Der Mann schlug ihn und verwundete ihn.
+<sup>38</sup>Da ging der Prophet weg und wartete am Weg auf den König.
+Er machte sich unkenntlich mit seiner Binde über den Augen.
+<sup>39</sup>Als der König vorbeikam, rief er dem König zu:
+„Dein Diener zog mitten in den Kampf.
+Und schau, ein Mann kam herüber, brachte einen Mann zu mir und sagte:
+‚Bewache diesen Mann!
+Wenn er irgendwie verschwindet, dann soll dein Leben für sein Leben einstehen,
+oder du musst etwa 34 Kilogramm Silber bezahlen.‘
+<sup>40</sup>Während dein Diener hier und dort beschäftigt war, war er weg.“
+Der König von Israel sagte zu ihm:
+„So soll dein Urteil sein. Du hast es selbst entschieden.“
+<sup>41</sup>Da nahm er schnell die Binde von seinen Augen.
+Und der König von Israel erkannte, dass er einer von den Propheten war.
+<sup>42</sup>Er sagte zu ihm:
+„So spricht der HERR:
+‚Weil du den Mann aus deiner Hand gelassen hast, den ich dem Bann geweiht hatte,
+darum soll dein Leben für sein Leben einstehen
+und dein Volk für sein Volk.‘“
+<sup>43</sup>Der König von Israel ging nach Hause, missmutig und zornig,
+und kam nach Samaria.
+
+> **Was bedeutet das?**
+> „Prophetenjünger“, wörtlich „Söhne der Propheten“, waren Gruppen von Schülern, die mit einem Propheten zusammenlebten und lernten.
+> Der Prophet braucht eine echte Wunde, damit er wie ein verwundeter Soldat aussieht. Die Geschichte mit dem Löwen ist hart. Sie erinnert an Kapitel 13: Ein klares Wort Gottes ist ernst zu nehmen.
+> Der Prophet erzählt dem König ein Gleichnis, so wie damals Natan bei David (2. Samuel 12). Ahab spricht sich mit seinem Urteil selbst schuldig.
+> In der Bibel steht „ein Talent Silber“. Ein Talent sind etwa 34 Kilogramm. Das war eine riesige Summe, die ein einfacher Soldat nie bezahlen konnte.
+> „Dem Bann geweiht“ heißt: Gott hatte Ben-Hadad dem Gericht übergeben. Ahab hat ihn aus eigenem Interesse freigelassen. Wichtig ist: Hier geht es um einen König, der Krieg führt, nicht um einen Auftrag an Menschen heute, andere zu töten.
+> Ahab ist „missmutig und zornig“. Er ärgert sich, aber er kehrt nicht um.
+
+## 1. Könige – Kapitel 21
+#### Nabots Weinberg
+
+---
+
+### Ahab will den Weinberg (Vers 1–7)
+
+<sup>1</sup>Danach geschah Folgendes:
+Nabot aus Jesreel hatte einen Weinberg in Jesreel,
+neben dem Palast Ahabs, des Königs von Samaria.
+<sup>2</sup>Ahab redete mit Nabot und sagte:
+„Gib mir deinen Weinberg.
+Ich will einen Gemüsegarten daraus machen,
+denn er liegt nahe bei meinem Haus.
+Ich will dir dafür einen besseren Weinberg geben.
+Oder, wenn du willst, gebe ich dir Geld, so viel er wert ist.“
+<sup>3</sup>Nabot sagte zu Ahab:
+„Der HERR bewahre mich davor,
+dass ich dir das Erbe meiner Väter gebe!“
+<sup>4</sup>Ahab ging in sein Haus, missmutig und zornig
+wegen des Wortes, das Nabot aus Jesreel zu ihm gesagt hatte.
+Denn er hatte gesagt:
+„Ich gebe dir das Erbe meiner Väter nicht.“
+Er legte sich auf sein Bett,
+wandte sein Gesicht ab
+und wollte kein Brot essen.
+<sup>5</sup>Da kam seine Frau Isebel zu ihm und sagte zu ihm:
+„Warum bist du so traurig, dass du kein Brot isst?“
+<sup>6</sup>Er sagte zu ihr:
+„Weil ich mit Nabot aus Jesreel geredet und zu ihm gesagt habe:
+‚Gib mir deinen Weinberg für Geld.
+Oder, wenn du willst, gebe ich dir einen anderen Weinberg dafür.‘
+Aber er hat geantwortet:
+‚Ich gebe dir meinen Weinberg nicht.‘“
+<sup>7</sup>Seine Frau Isebel sagte zu ihm:
+„Bist du jetzt König über Israel oder nicht?
+Steh auf, iss Brot und sei fröhlich.
+Ich werde dir den Weinberg Nabots aus Jesreel geben.“
+
+> **Was bedeutet das?**
+> Ahabs Angebot scheint fair. Aber für Nabot geht es nicht um Geld. Das Land war das „Erbe der Väter“. Nach Gottes Gesetz sollte das Land in der Familie bleiben, denn es gehörte eigentlich Gott (3. Mose 25,23). Nabot handelt treu nach Gottes Gebot.
+> Ahab benimmt sich wie ein beleidigtes Kind: Er legt sich ins Bett, wendet sein Gesicht ab und isst nichts.
+> Isebel denkt anders. In ihrer Heimat Phönizien konnte der König sich nehmen, was er wollte. In Israel sollte auch der König unter Gottes Gesetz stehen.
+
+---
+
+### Isebels böser Plan (Vers 8–16)
+
+<sup>8</sup>Da schrieb sie Briefe im Namen Ahabs,
+versiegelte sie mit seinem Siegel
+und schickte die Briefe an die Ältesten und an die Vornehmen in seiner Stadt,
+die mit Nabot zusammen wohnten.
+<sup>9</sup>In den Briefen schrieb sie:
+„Ruft ein Fasten aus
+und setzt Nabot ganz vorne vor das Volk.
+<sup>10</sup>Setzt zwei Männer, nichtsnutzige Kerle, ihm gegenüber.
+Sie sollen gegen ihn aussagen:
+‚Du hast Gott und den König verflucht!‘
+Dann führt ihn hinaus und steinigt ihn zu Tode.“
+<sup>11</sup>Die Männer seiner Stadt, die Ältesten und die Vornehmen, die in seiner Stadt wohnten,
+machten es so, wie Isebel ihnen befohlen hatte,
+wie es in den Briefen stand, die sie ihnen geschickt hatte.
+<sup>12</sup>Sie riefen ein Fasten aus
+und setzten Nabot ganz vorne vor das Volk.
+<sup>13</sup>Die zwei Männer, die nichtsnutzigen Kerle, kamen herein und setzten sich ihm gegenüber.
+Und die nichtsnutzigen Kerle sagten gegen ihn, gegen Nabot, vor dem Volk aus:
+„Nabot hat Gott und den König verflucht!“
+Da führten sie ihn aus der Stadt hinaus
+und steinigten ihn mit Steinen zu Tode.
+<sup>14</sup>Dann schickten sie zu Isebel und ließen ihr sagen:
+„Nabot ist gesteinigt worden und ist tot.“
+<sup>15</sup>Als Isebel hörte, dass Nabot gesteinigt worden und tot war,
+sagte Isebel zu Ahab:
+„Steh auf, nimm den Weinberg Nabots aus Jesreel in Besitz,
+den er dir nicht für Geld geben wollte.
+Denn Nabot lebt nicht mehr, er ist tot.“
+<sup>16</sup>Als Ahab hörte, dass Nabot tot war,
+machte sich Ahab auf,
+um zum Weinberg Nabots aus Jesreel hinunterzugehen und ihn in Besitz zu nehmen.
+
+> **Was bedeutet das?**
+> Das ist ein Justizmord. Isebel benutzt den Namen des Königs, ein frommes Fasten und ein Gericht mit falschen Zeugen, um einen unschuldigen Mann zu töten.
+> Nach dem Gesetz brauchte man zwei Zeugen für eine Verurteilung (5. Mose 17,6). Isebel besorgt genau zwei, aber Lügner. Das Gebot „Du sollst kein falsches Zeugnis geben“ wird gebrochen, um das Gebot „Du sollst nicht töten“ zu brechen, um das Gebot „Du sollst nicht begehren“ zu erfüllen.
+> Erschreckend ist auch: Die Ältesten und Vornehmen der Stadt machen mit. Niemand widerspricht. Aus Angst oder Feigheit werden sie zu Mittätern.
+> Nach 2. Könige 9,26 wurden auch Nabots Söhne getötet. So konnte niemand mehr Anspruch auf das Land erheben.
+> Diese Geschichte zeigt, wie Macht missbraucht wird. Die Bibel steht hier klar auf der Seite des kleinen Mannes, gegen den mächtigen König.
+
+---
+
+### Elija stellt Ahab zur Rede (Vers 17–26)
+
+<sup>17</sup>Da kam das Wort des HERRN zu Elija, dem Tischbiter:
+<sup>18</sup>„Mach dich auf, geh hinunter, Ahab entgegen, dem König von Israel, der in Samaria wohnt.
+Schau, er ist im Weinberg Nabots.
+Er ist dort hinuntergegangen, um ihn in Besitz zu nehmen.
+<sup>19</sup>Sag zu ihm:
+‚So spricht der HERR:
+Hast du gemordet und auch noch in Besitz genommen?‘
+Und sag zu ihm:
+‚So spricht der HERR:
+An dem Ort, wo die Hunde das Blut Nabots geleckt haben,
+werden die Hunde auch dein Blut lecken, ja, deines.‘“
+<sup>20</sup>Ahab sagte zu Elija:
+„Hast du mich gefunden, mein Feind?“
+Er antwortete:
+„Ich habe dich gefunden,
+weil du dich verkauft hast, um zu tun, was in den Augen des HERRN böse ist.
+<sup>21</sup>Schau, ich bringe Unheil über dich
+und fege dich ganz weg
+und rotte von Ahab jeden aus, der an die Wand uriniert,
+den Gebundenen und den Freien in Israel.
+<sup>22</sup>Ich mache dein Haus wie das Haus Jerobeams, des Sohnes Nebats,
+und wie das Haus Baschas, des Sohnes Ahijas,
+wegen der Kränkung, mit der du mich zum Zorn gereizt
+und Israel zur Sünde verführt hast.“
+<sup>23</sup>Auch über Isebel hat der HERR gesagt:
+„Die Hunde werden Isebel an der Mauer von Jesreel fressen.
+<sup>24</sup>Wer von Ahab in der Stadt stirbt, den werden die Hunde fressen.
+Und wer auf dem Feld stirbt, den werden die Vögel des Himmels fressen.“
+<sup>25</sup>Wirklich, es gab niemanden wie Ahab,
+der sich verkaufte, um zu tun, was in den Augen des HERRN böse war,
+weil seine Frau Isebel ihn dazu anstachelte.
+<sup>26</sup>Er handelte ganz abscheulich,
+indem er den Götzen nachlief,
+ganz wie es die Amoriter getan hatten,
+die der HERR vor den Israeliten vertrieben hatte.
+
+> **Was bedeutet das?**
+> Gott sieht, was im Verborgenen geschieht. Kein Gericht der Menschen hat Nabot geholfen. Aber Gott schickt Elija.
+> „Hast du gemordet und auch noch in Besitz genommen?“ Elija nennt die Dinge beim Namen. Ahab hat Nabot nicht selbst getötet. Aber er hat es geschehen lassen und davon profitiert. Er ist mitschuldig.
+> „Mein Feind“: Ahab sieht in Elija einen Feind. Dabei ist Elija der Einzige, der ihm die Wahrheit sagt.
+> „Sich verkaufen“ heißt: Ahab hat sich dem Bösen ausgeliefert wie ein Sklave.
+> „Jeder, der an die Wand uriniert“ ist ein derber Ausdruck für alle männlichen Nachkommen (siehe Kapitel 14,10).
+> Die Ankündigungen erfüllen sich später: Ahab stirbt im Krieg (Kapitel 22,38). Isebel stirbt in Jesreel (2. Könige 9,30–37).
+> Die Amoriter waren eines der Völker, die vor Israel in Kanaan lebten.
+> Wichtig: Isebel wird hier als Anstifterin genannt. Aber Ahab bleibt selbst verantwortlich. Man kann die eigene Schuld nicht einfach auf einen anderen Menschen schieben.
+
+---
+
+### Ahab demütigt sich (Vers 27–29)
+
+<sup>27</sup>Als Ahab diese Worte hörte,
+zerriss er seine Kleider,
+legte einen Sack um seinen Leib
+und fastete.
+Er schlief im Sack und ging gebückt umher.
+<sup>28</sup>Da kam das Wort des HERRN zu Elija, dem Tischbiter:
+<sup>29</sup>„Hast du gesehen, wie Ahab sich vor mir demütigt?
+Weil er sich vor mir demütigt,
+will ich das Unheil nicht zu seinen Lebzeiten bringen.
+Erst in den Tagen seines Sohnes will ich das Unheil über sein Haus bringen.“
+
+> **Was bedeutet das?**
+> Das ist überraschend: Ausgerechnet Ahab, der schlimmste König, bereut. Er zeigt Zeichen der Trauer und Buße.
+> Und Gott sieht es sofort. Er sagt zu Elija: „Hast du gesehen?“ Gott freut sich über jede Umkehr, auch über die eines sehr schuldigen Menschen.
+> Gott ist barmherzig und verschiebt das Gericht. Es gibt keinen Menschen, der für Gott ganz verloren ist.
+> Ob Ahabs Reue tief und dauerhaft war, bleibt offen. Im nächsten Kapitel hört er wieder nicht auf Gottes Propheten.
+
+## 1. Könige – Kapitel 22
+#### Der Prophet Micha und Ahabs Tod
+
+---
+
+### Ahab und Joschafat planen einen Krieg (Vers 1–12)
+
+<sup>1</sup>Drei Jahre lang blieb es ohne Krieg zwischen Syrien und Israel.
+<sup>2</sup>Im dritten Jahr kam Joschafat, der König von Juda, zum König von Israel herab.
+<sup>3</sup>Der König von Israel sagte zu seinen Dienern:
+„Wisst ihr, dass Ramot in Gilead uns gehört?
+Und wir tun nichts und holen es nicht aus der Hand des Königs von Syrien zurück?“
+<sup>4</sup>Er sagte zu Joschafat:
+„Ziehst du mit mir in den Kampf nach Ramot in Gilead?“
+Joschafat sagte zum König von Israel:
+„Ich bin wie du, mein Volk wie dein Volk, meine Pferde wie deine Pferde.“
+<sup>5</sup>Joschafat sagte zum König von Israel:
+„Frag doch zuerst nach dem Wort des HERRN.“
+<sup>6</sup>Da versammelte der König von Israel die Propheten, etwa 400 Männer,
+und sagte zu ihnen:
+„Soll ich gegen Ramot in Gilead in den Kampf ziehen, oder soll ich es lassen?“
+Sie sagten:
+„Zieh hinauf, denn der Herr wird es in die Hand des Königs geben.“
+<sup>7</sup>Aber Joschafat sagte:
+„Gibt es hier keinen Propheten des HERRN mehr, den wir fragen können?“
+<sup>8</sup>Der König von Israel sagte zu Joschafat:
+„Es gibt noch einen Mann, durch den wir den HERRN fragen können:
+Micha, den Sohn Jimlas.
+Aber ich hasse ihn,
+denn er prophezeit mir nichts Gutes, sondern nur Böses.“
+Joschafat sagte:
+„Der König soll nicht so reden.“
+<sup>9</sup>Da rief der König von Israel einen Hofbeamten und sagte:
+„Hol schnell Micha, den Sohn Jimlas.“
+<sup>10</sup>Der König von Israel und Joschafat, der König von Juda,
+saßen jeder auf seinem Thron, in ihre königlichen Gewänder gekleidet,
+auf einem freien Platz am Eingang des Tores von Samaria.
+Und alle Propheten prophezeiten vor ihnen.
+<sup>11</sup>Zidkija, der Sohn Kenaanas, machte sich Hörner aus Eisen und sagte:
+„So spricht der HERR:
+‚Mit diesen wirst du die Syrer niederstoßen, bis sie vernichtet sind.‘“
+<sup>12</sup>Alle Propheten prophezeiten so und sagten:
+„Zieh hinauf nach Ramot in Gilead, und du wirst Erfolg haben.
+Denn der HERR wird es in die Hand des Königs geben.“
+
+> **Was bedeutet das?**
+> Joschafat ist ein guter König von Juda. Er hat sich mit Ahab verbündet. Sein Sohn heiratete später Ahabs Tochter (2. Könige 8,18).
+> Ramot in Gilead war eine wichtige Grenzstadt östlich des Jordan.
+> Joschafat will vorher Gott fragen. Das ist gut. Aber die 400 Propheten Ahabs sagen alle, was der König hören will. Joschafat spürt: Hier stimmt etwas nicht. Er fragt nach einem echten Propheten des HERRN.
+> Ahabs Satz ist entlarvend: „Ich hasse ihn, denn er sagt mir nichts Gutes.“ Viele Menschen wollen nicht die Wahrheit hören, sondern nur Bestätigung.
+> Die Hörner aus Eisen sind eine Zeichenhandlung: So wie ein Stier mit seinen Hörnern stößt, soll Ahab die Feinde besiegen.
+> Dieser Micha ist nicht der Prophet Micha, nach dem ein Buch der Bibel benannt ist.
+
+---
+
+### Micha sagt die Wahrheit (Vers 13–28)
+
+<sup>13</sup>Der Bote, der hingegangen war, um Micha zu rufen, sagte zu ihm:
+„Schau doch, die Propheten sagen dem König wie aus einem Mund Gutes voraus.
+Lass doch dein Wort wie das Wort von einem von ihnen sein und sag Gutes.“
+<sup>14</sup>Micha sagte:
+„So wahr der HERR lebt:
+Was der HERR mir sagt, das werde ich reden.“
+<sup>15</sup>Als er zum König kam, sagte der König zu ihm:
+„Micha, sollen wir nach Ramot in Gilead in den Kampf ziehen, oder sollen wir es lassen?“
+Er antwortete ihm:
+„Zieh hinauf, und du wirst Erfolg haben.
+Der HERR wird es in die Hand des Königs geben.“
+<sup>16</sup>Der König sagte zu ihm:
+„Wie oft muss ich dich beschwören,
+dass du mir im Namen des HERRN nichts als die Wahrheit sagst?“
+<sup>17</sup>Er sagte:
+„Ich sah ganz Israel auf den Bergen zerstreut
+wie Schafe, die keinen Hirten haben.
+Und der HERR sagte:
+‚Diese haben keinen Herrn.
+Jeder soll in Frieden in sein Haus zurückkehren.‘“
+<sup>18</sup>Der König von Israel sagte zu Joschafat:
+„Habe ich dir nicht gesagt, dass er mir nichts Gutes prophezeit, sondern nur Böses?“
+<sup>19</sup>Micha sagte:
+„Darum hör das Wort des HERRN:
+Ich sah den HERRN auf seinem Thron sitzen,
+und das ganze Heer des Himmels stand bei ihm,
+zu seiner Rechten und zu seiner Linken.
+<sup>20</sup>Der HERR sagte:
+‚Wer will Ahab betören,
+damit er hinaufzieht und bei Ramot in Gilead fällt?‘
+Der eine sagte dies, der andere sagte das.
+<sup>21</sup>Da trat ein Geist hervor, stellte sich vor den HERRN und sagte:
+‚Ich will ihn betören.‘
+<sup>22</sup>Der HERR fragte ihn:
+‚Womit?‘
+Er sagte:
+‚Ich will hinausgehen und ein Lügengeist im Mund aller seiner Propheten sein.‘
+Er sagte:
+‚Du wirst ihn betören, und es wird dir auch gelingen.
+Geh hinaus und mach es so.‘
+<sup>23</sup>Und jetzt, schau, der HERR hat einen Lügengeist in den Mund aller dieser deiner Propheten gelegt.
+Und der HERR hat Unheil über dich angekündigt.“
+<sup>24</sup>Da trat Zidkija, der Sohn Kenaanas, heran, schlug Micha auf die Wange und sagte:
+„Auf welchem Weg ist denn der Geist des HERRN von mir gewichen, um mit dir zu reden?“
+<sup>25</sup>Micha sagte:
+„Schau, du wirst es sehen an dem Tag,
+an dem du in einen inneren Raum gehst, um dich zu verstecken.“
+<sup>26</sup>Der König von Israel sagte:
+„Nehmt Micha und bringt ihn zurück zu Amon, dem Stadtobersten,
+und zu Joasch, dem Sohn des Königs.
+<sup>27</sup>Sagt:
+‚So spricht der König:
+Werft diesen Kerl ins Gefängnis
+und gebt ihm Brot der Bedrängnis und Wasser der Bedrängnis,
+bis ich in Frieden zurückkomme.‘“
+<sup>28</sup>Micha sagte:
+„Wenn du wirklich in Frieden zurückkommst,
+dann hat der HERR nicht durch mich geredet.“
+Und er sagte:
+„Hört es, all ihr Völker!“
+
+> **Was bedeutet das?**
+> Micha steht unter großem Druck: 400 Propheten gegen einen. Aber er bleibt fest: „Was der HERR mir sagt, das werde ich reden.“
+> Zuerst wiederholt Micha spöttisch die Worte der anderen. Ahab merkt sofort, dass es nicht ernst gemeint ist. Dann sagt Micha die Wahrheit: Israel wird wie Schafe ohne Hirten sein. Das heißt: Der König, der Hirte des Volkes, wird sterben.
+> Die Vision vom himmlischen Thronrat ist schwer zu verstehen. Lässt Gott wirklich lügen? Man muss genau hinsehen: Micha verrät Ahab ja gerade den ganzen Plan! Gott warnt Ahab offen. Ahab hat die Wahl. Er wollte die Lüge hören, und Gott lässt ihn bei der Lüge, die er gewählt hat. Paulus schreibt etwas Ähnliches in 2. Thessalonicher 2,10–11.
+> Der wahre Prophet wird geschlagen und eingesperrt. Das ist vielen treuen Menschen in der Geschichte so gegangen. Die Wahrheit zu sagen kann viel kosten.
+> „Brot der Bedrängnis und Wasser der Bedrängnis“ heißt: nur ganz wenig Brot und Wasser, gerade genug zum Überleben.
+> Michas letzter Satz „Hört es, all ihr Völker!“ ist genau derselbe wie der erste Satz im Buch des Propheten Micha (Micha 1,2).
+
+---
+
+### Ahabs Tod (Vers 29–40)
+
+<sup>29</sup>So zogen der König von Israel und Joschafat, der König von Juda, nach Ramot in Gilead hinauf.
+<sup>30</sup>Der König von Israel sagte zu Joschafat:
+„Ich will mich verkleiden und in den Kampf ziehen.
+Du aber zieh deine königlichen Gewänder an.“
+Der König von Israel verkleidete sich und zog in den Kampf.
+<sup>31</sup>Der König von Syrien hatte seinen 32 Wagenführern befohlen:
+„Kämpft weder gegen Kleine noch gegen Große,
+sondern nur gegen den König von Israel.“
+<sup>32</sup>Als die Wagenführer Joschafat sahen, sagten sie:
+„Das ist bestimmt der König von Israel!“
+Und sie wandten sich zu ihm, um gegen ihn zu kämpfen.
+Da schrie Joschafat auf.
+<sup>33</sup>Als die Wagenführer sahen, dass es nicht der König von Israel war,
+ließen sie von ihm ab und verfolgten ihn nicht mehr.
+<sup>34</sup>Ein Mann spannte seinen Bogen, ohne zu zielen,
+und traf den König von Israel zwischen den Teilen seines Panzers.
+Da sagte er zu seinem Wagenlenker:
+„Dreh um und bring mich aus dem Kampf,
+denn ich bin schwer verwundet.“
+<sup>35</sup>Der Kampf wurde an diesem Tag immer heftiger.
+Der König wurde in seinem Wagen aufrecht gehalten, den Syrern gegenüber,
+und am Abend starb er.
+Das Blut aus der Wunde floss in den Boden des Wagens.
+<sup>36</sup>Bei Sonnenuntergang ging ein Ruf durch das Heer:
+„Jeder in seine Stadt und jeder in sein Land!“
+<sup>37</sup>So starb der König und wurde nach Samaria gebracht.
+Und sie begruben den König in Samaria.
+<sup>38</sup>Sie wuschen den Wagen am Teich von Samaria.
+Da leckten die Hunde sein Blut auf,
+dort, wo die Prostituierten sich wuschen,
+nach dem Wort des HERRN, das er gesagt hatte.
+<sup>39</sup>Was sonst noch von Ahab zu erzählen ist und alles, was er getan hat,
+das Elfenbeinhaus, das er gebaut hat,
+und alle Städte, die er gebaut hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>40</sup>So legte sich Ahab zu seinen Vätern.
+Und sein Sohn Ahasja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Ahab versucht, Gottes Wort zu entkommen. Er verkleidet sich, und Joschafat soll als König auffallen. Das ist feige und gefährlich für Joschafat.
+> Aber ein Pfeil, „ohne zu zielen“ abgeschossen, trifft genau die Lücke in Ahabs Rüstung. Was wie Zufall aussieht, ist die Erfüllung von Gottes Wort.
+> Man muss Ahab aber auch zugestehen: Er bleibt tapfer bis zum Abend im Wagen stehen, damit sein Heer nicht den Mut verliert.
+> Michas Wort erfüllt sich: Das Heer zerstreut sich „wie Schafe ohne Hirten“. Und Elijas Wort erfüllt sich: Hunde lecken Ahabs Blut (Kapitel 21,19). In Kapitel 21 hieß es „an dem Ort, wo“ Nabot starb. Ahabs Blut wurde aber in Samaria aufgeleckt. Wegen Ahabs Reue verschob Gott einen Teil des Gerichts (Kapitel 21,29). Der Rest erfüllte sich bei seinem Sohn in Jesreel (2. Könige 9,25–26).
+> Das „Elfenbeinhaus“: Archäologen haben in Samaria viele kunstvolle Elfenbeinschnitzereien aus dieser Zeit gefunden. Damit wurden Möbel und Wände verziert.
+> Ahab starb etwa 853 vor Christus.
+
+---
+
+### Joschafat, König von Juda (Vers 41–50)
+
+<sup>41</sup>Joschafat, der Sohn Asas, wurde König über Juda im vierten Jahr Ahabs, des Königs von Israel.
+<sup>42</sup>Joschafat war 35 Jahre alt, als er König wurde,
+und er regierte 25 Jahre in Jerusalem.
+Seine Mutter hieß Asuba, die Tochter Schilhis.
+<sup>43</sup>Er ging auf dem ganzen Weg seines Vaters Asa.
+Er wich nicht davon ab
+und tat, was in den Augen des HERRN recht war.
+Aber die Opferhöhen wurden nicht entfernt.
+Das Volk opferte und verbrannte noch Weihrauch auf den Opferhöhen.
+<sup>44</sup>Joschafat schloss Frieden mit dem König von Israel.
+<sup>45</sup>Was sonst noch von Joschafat zu erzählen ist,
+die Stärke, die er zeigte, und wie er kämpfte,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>46</sup>Den Rest der Kultprostituierten, die in den Tagen seines Vaters Asa übrig geblieben waren,
+schaffte er aus dem Land.
+<sup>47</sup>In Edom gab es damals keinen König.
+Ein Statthalter regierte.
+<sup>48</sup>Joschafat baute Tarschisch-Schiffe, um nach Ofir zu fahren und Gold zu holen.
+Aber sie fuhren nicht, denn die Schiffe zerbrachen in Ezjon-Geber.
+<sup>49</sup>Da sagte Ahasja, der Sohn Ahabs, zu Joschafat:
+„Lass meine Diener mit deinen Dienern auf den Schiffen fahren.“
+Aber Joschafat wollte nicht.
+<sup>50</sup>Joschafat legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt seines Vaters David begraben.
+Und sein Sohn Joram wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Joschafat war ein guter König, wie sein Vater Asa. In 2. Chronik 17–20 wird noch viel mehr über ihn erzählt.
+> Er schloss Frieden mit Israel. Nach vielen Jahren Krieg zwischen Nord und Süd war das gut. Aber die enge Verbindung mit dem Haus Ahab brachte später großes Unglück nach Juda.
+> Joschafat wollte wie Salomo Schiffe nach Ofir schicken. Aber die Schiffe gingen kaputt, noch bevor sie losfuhren.
+> In Vers 46 steht in der englischen Vorlage wieder „sodomites“ (siehe die Erklärung zu Kapitel 14,24).
+> Edom stand damals unter der Herrschaft Judas. Darum konnte Joschafat den Hafen Ezjon-Geber benutzen.
+> In deutschen Bibeln ist die Verszählung ab hier um eins verschoben: Der zweite Teil von Vers 43 ist dort Vers 44. Vers 44 hier ist dort Vers 45, und so weiter bis Vers 53 hier, der dort Vers 54 ist.
+> Joschafat regierte etwa von 870 bis 848 vor Christus.
+
+---
+
+### Ahasja, König von Israel (Vers 51–53)
+
+<sup>51</sup>Ahasja, der Sohn Ahabs, wurde König über Israel in Samaria
+im 17. Jahr Joschafats, des Königs von Juda.
+Er regierte zwei Jahre über Israel.
+<sup>52</sup>Er tat, was in den Augen des HERRN böse war.
+Er ging auf dem Weg seines Vaters und auf dem Weg seiner Mutter
+und auf dem Weg Jerobeams, des Sohnes Nebats,
+der Israel zur Sünde verführt hatte.
+<sup>53</sup>Er diente dem Baal und betete ihn an
+und reizte den HERRN, den Gott Israels, zum Zorn,
+ganz wie es sein Vater getan hatte.
+
+> **Was bedeutet das?**
+> Ahabs Sohn macht weiter wie seine Eltern Ahab und Isebel. Das Buch endet mitten in der Geschichte. Die Erzählung über Ahasja geht im 2. Buch der Könige weiter. Ursprünglich waren die beiden Bücher ein einziges Buch.
+
+---
+
+### Rückblick: Was haben wir im 1. Buch der Könige gelesen?
+
+> **Was bedeutet das?**
+> Das 1. Buch der Könige erzählt etwa 120 Jahre Geschichte, von etwa 970 bis 850 vor Christus.
+> **Der Glanz:** Salomo wird König. Er bittet Gott um Weisheit, nicht um Reichtum, und bekommt beides. Er baut den Tempel in Jerusalem. Gott erfüllt das Haus mit seiner Herrlichkeit. Salomos Gebet bei der Einweihung zeigt: Gott ist größer als jeder Himmel, und er hört jeden, der zu ihm betet, auch den Fremden.
+> **Der Fall:** Aber Salomos Herz wird geteilt. Viele Frauen, viel Gold und fremde Götter ziehen ihn weg von Gott. Nach seinem Tod zerbricht das Reich: im Norden Israel, im Süden Juda.
+> **Zwei Reiche:** Im Norden stellt Jerobeam goldene Kälber auf. Dort folgen Königsmorde und Machtkämpfe. Im Süden bleibt Davids Familie auf dem Thron, „eine Lampe in Jerusalem“, wie Gott es versprochen hat.
+> **Die Propheten:** Je dunkler es wird, desto stärker treten Gottes Boten auf: Ahija, Jehu, der Mann Gottes aus Juda, Micha und vor allem Elija. Sie sagen den Königen die Wahrheit, oft unter Lebensgefahr. Elija zeigt auf dem Karmel, wer der wahre Gott ist. Und am Horeb lernt er, dass Gott auch im leisen Säuseln zu finden ist.
+> **Die Lehre des Buches:** Es kommt nicht auf Macht, Reichtum oder große Bauten an. Entscheidend ist ein ungeteiltes Herz für Gott. Gott bleibt treu, auch wenn Menschen untreu sind. Er hält seine Versprechen, und er gibt selbst schlimmen Menschen wie Ahab die Chance zur Umkehr.
+> **Wie geht es weiter?** Im 2. Buch der Könige geht Elija in den Himmel, und Elisa wird sein Nachfolger. Die Geschichte der beiden Reiche geht weiter, bis zu ihrem Untergang.
