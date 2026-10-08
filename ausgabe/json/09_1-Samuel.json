@@ -3330,6 +3330,537 @@
      "erklaerung": "Alles, was Saul gegen David plant, macht David nur stärker. Der Speer verfehlt ihn. Der Krieg macht ihn berühmt. Die Hochzeit macht ihn zum Mitglied der Königsfamilie. Sogar Sauls eigene Kinder, Jonatan und Michal, lieben David.\nSaul erkennt: Gott ist mit David. Aber statt sich darüber zu freuen oder sich Gott wieder zuzuwenden, wird er zu Davids Feind. Er kämpft damit eigentlich gegen Gott selbst.\nDieses Kapitel zeigt den Unterschied zwischen zwei Menschen: Jonatan hätte allen Grund zur Eifersucht, aber er liebt David. Saul hat allen Grund zur Dankbarkeit, aber er hasst David."
     }
    ]
+  },
+  {
+   "kapitel": 19,
+   "titel": "David muss fliehen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Jonatan setzt sich für David ein",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Saul sagte zu seinem Sohn Jonatan und zu allen seinen Dienern,\ndass sie David töten sollten.\nAber Jonatan, der Sohn Sauls, hatte David sehr gern.",
+       "englisch_web": "Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Jonatan erzählte es David und sagte:\n„Mein Vater Saul will dich töten.\nDarum nimm dich morgen früh bitte in Acht.\nBleib an einem geheimen Ort und versteck dich.",
+       "englisch_web": "Jonathan told David, saying, “Saul my father seeks to kill you. Now therefore, please take care of yourself in the morning, live in a secret place, and hide yourself."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich will hinausgehen und mich neben meinen Vater stellen,\nauf dem Feld, wo du bist.\nDann will ich mit meinem Vater über dich reden.\nUnd wenn ich etwas merke, sage ich es dir.“",
+       "englisch_web": "I will go out and stand beside my father in the field where you are, and I will talk with my father about you; and if I see anything, I will tell you.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Jonatan redete gut von David bei seinem Vater Saul und sagte zu ihm:\n„Der König soll sich nicht an seinem Knecht David versündigen.\nDenn er hat sich nicht an dir versündigt,\nund seine Taten waren sehr gut für dich.",
+       "englisch_web": "Jonathan spoke good of David to Saul his father, and said to him, “Don’t let the king sin against his servant, against David; because he has not sinned against you, and because his works have been very good toward you;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Er hat sein Leben aufs Spiel gesetzt und den Philister erschlagen,\nund der HERR hat für ganz Israel einen großen Sieg bewirkt.\nDu hast es gesehen und dich gefreut.\nWarum willst du dich dann an unschuldigem Blut versündigen\nund David ohne Grund töten?“",
+       "englisch_web": "for he put his life in his hand and struck the Philistine, and Yahweh worked a great victory for all Israel. You saw it and rejoiced. Why then will you sin against innocent blood, to kill David without a cause?”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Saul hörte auf die Stimme Jonatans.\nUnd Saul schwor:\n„So wahr der HERR lebt, er soll nicht getötet werden.“",
+       "englisch_web": "Saul listened to the voice of Jonathan; and Saul swore, “As Yahweh lives, he shall not be put to death.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Jonatan rief David\nund erzählte ihm alle diese Worte.\nDann brachte Jonatan David zu Saul,\nund er war bei ihm wie früher.",
+       "englisch_web": "Jonathan called David, and Jonathan showed him all those things. Then Jonathan brought David to Saul, and he was in his presence as before."
+      }
+     ],
+     "erklaerung": "Jetzt befiehlt Saul ganz offen, David zu töten. Sogar seinem eigenen Sohn.\nJonatan steht zwischen seinem Vater und seinem Freund. Er wählt den Weg des Rechts: Er redet mit seinem Vater und erinnert ihn an die Wahrheit. David ist unschuldig. Er hat Israel gerettet.\nJonatan ist mutig. Es war gefährlich, einem zornigen König zu widersprechen.\nFür einen Moment hört Saul auf ihn und schwört sogar bei Gott. Aber wird er sein Wort halten?"
+    },
+    {
+     "ueberschrift": "Der Speer und das Fenster",
+     "vers_von": 8,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Es gab wieder Krieg.\nDavid zog aus und kämpfte gegen die Philister.\nEr brachte ihnen eine große Niederlage bei, und sie flohen vor ihm.",
+       "englisch_web": "There was war again. David went out and fought with the Philistines, and killed them with a great slaughter; and they fled before him."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Da kam ein böser Geist vom HERRN über Saul,\nals er in seinem Haus saß, mit seinem Speer in der Hand.\nUnd David spielte mit seiner Hand Musik.",
+       "englisch_web": "An evil spirit from Yahweh was on Saul as he sat in his house with his spear in his hand; and David was playing music with his hand."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Saul versuchte, David mit dem Speer an die Wand zu spießen.\nAber er wich Saul aus,\nund der Speer fuhr in die Wand.\nDavid floh und entkam in dieser Nacht.",
+       "englisch_web": "Saul sought to pin David to the wall with the spear, but he slipped away out of Saul’s presence; and he stuck the spear into the wall. David fled and escaped that night."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Saul schickte Boten zu Davids Haus,\num ihn zu bewachen und ihn am Morgen zu töten.\nMichal, Davids Frau, erzählte es ihm und sagte:\n„Wenn du dich heute Nacht nicht in Sicherheit bringst,\ndann wirst du morgen getötet.“",
+       "englisch_web": "Saul sent messengers to David’s house to watch him and to kill him in the morning. Michal, David’s wife, told him, saying, “If you don’t save your life tonight, tomorrow you will be killed.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da ließ Michal David durch das Fenster hinab.\nEr ging weg, floh und entkam.",
+       "englisch_web": "So Michal let David down through the window. He went away, fled, and escaped."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Michal nahm die Terafim und legte sie ins Bett.\nSie legte ein Kissen aus Ziegenhaar an das Kopfende\nund deckte sie mit Kleidern zu.",
+       "englisch_web": "Michal took the teraphim and laid it in the bed, and put a pillow of goats’ hair at its head and covered it with clothes."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Als Saul Boten schickte, um David zu holen,\nsagte sie: „Er ist krank.“",
+       "englisch_web": "When Saul sent messengers to take David, she said, “He is sick.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Saul schickte die Boten, um David zu sehen, und sagte:\n„Bringt ihn im Bett zu mir herauf, damit ich ihn töte.“",
+       "englisch_web": "Saul sent the messengers to see David, saying, “Bring him up to me in the bed, that I may kill him.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Als die Boten hineinkamen,\nschau, da lagen die Terafim im Bett,\nmit dem Kissen aus Ziegenhaar am Kopfende.",
+       "englisch_web": "When the messengers came in, behold, the teraphim was in the bed, with the pillow of goats’ hair at its head."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Saul sagte zu Michal:\n„Warum hast du mich so betrogen\nund meinen Feind gehen lassen, sodass er entkommen ist?“\nMichal antwortete Saul:\n„Er hat zu mir gesagt:\n‚Lass mich gehen! Warum sollte ich dich töten?‘“",
+       "englisch_web": "Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” Michal answered Saul, “He said to me, ‘Let me go! Why should I kill you?’”"
+      }
+     ],
+     "erklaerung": "Saul bricht seinen Schwur. Wieder wirft er den Speer. Jetzt muss David fliehen. Von hier an ist David viele Jahre auf der Flucht.\nMichal liebt David und rettet ihn. Sie lässt ihn durch das Fenster hinunter, wie Rahab die Kundschafter in Jericho (Josua 2,15).\n„Terafim“ waren Hausgötter, Figuren, die manche Familien damals hatten, obwohl es verboten war. Dass Michal so etwas im Haus hat, zeigt, wie verbreitet solche Bräuche waren. Die Figur war hier wohl groß genug, um wie ein Mensch unter der Decke auszusehen.\nMichal lügt, um David zu retten. Und am Ende lügt sie auch ihren Vater an, um sich selbst zu schützen: Er hat mich bedroht. Die Bibel erzählt das, ohne es zu bewerten.\nSaul will sogar einen Kranken im Bett töten lassen. Sein Hass kennt keine Grenzen mehr.\nPsalm 59 ist nach seiner Überschrift ein Gebet von David aus dieser Nacht."
+    },
+    {
+     "ueberschrift": "Der Geist Gottes hält Saul auf",
+     "vers_von": 18,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "David floh und entkam.\nEr kam zu Samuel nach Rama\nund erzählte ihm alles, was Saul ihm angetan hatte.\nEr und Samuel gingen hin und wohnten in Najot.",
+       "englisch_web": "Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and lived in Naioth."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Man erzählte Saul:\n„Schau, David ist in Najot bei Rama.“",
+       "englisch_web": "Saul was told, saying, “Behold, David is at Naioth in Ramah.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Saul schickte Boten, um David zu holen.\nAls sie die Gruppe der Propheten sahen, die prophetisch redeten,\nund Samuel, der als ihr Leiter bei ihnen stand,\nkam der Geist Gottes über die Boten Sauls,\nund auch sie redeten prophetisch.",
+       "englisch_web": "Saul sent messengers to seize David; and when they saw the company of the prophets prophesying, and Samuel standing as head over them, God’s Spirit came on Saul’s messengers, and they also prophesied."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Als man es Saul erzählte,\nschickte er andere Boten,\nund auch sie redeten prophetisch.\nSaul schickte zum dritten Mal Boten,\nund auch sie redeten prophetisch.",
+       "englisch_web": "When Saul was told, he sent other messengers, and they also prophesied. Saul sent messengers again the third time, and they also prophesied."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Da ging er selbst nach Rama.\nEr kam zu dem großen Brunnen, der in Sechu ist,\nund fragte:\n„Wo sind Samuel und David?“\nEiner sagte:\n„Schau, sie sind in Najot bei Rama.“",
+       "englisch_web": "Then he also went to Ramah, and came to the great well that is in Secu: and he asked, “Where are Samuel and David?” One said, “Behold, they are at Naioth in Ramah.”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Er ging dorthin, nach Najot bei Rama.\nDa kam der Geist Gottes auch über ihn.\nEr ging weiter und redete prophetisch, bis er nach Najot bei Rama kam.",
+       "englisch_web": "He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he went on, and prophesied, until he came to Naioth in Ramah."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Auch er zog seine Kleider aus.\nAuch er redete prophetisch vor Samuel\nund lag den ganzen Tag und die ganze Nacht nackt da.\nDarum sagt man:\n„Ist auch Saul unter den Propheten?“",
+       "englisch_web": "He also stripped off his clothes. He also prophesied before Samuel and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”"
+      }
+     ],
+     "erklaerung": "David flieht zu Samuel, dem Mann, der ihn gesalbt hat. „Najot“ war wohl ein Ort, an dem die Propheten zusammen wohnten, ähnlich wie eine Gemeinschaft.\nDreimal schickt Saul Soldaten, um David zu fangen. Aber jedes Mal kommt der Geist Gottes über sie, und sie fangen an, prophetisch zu reden, statt David festzunehmen. Gott schützt David auf eine ganz ungewöhnliche Weise.\nDann kommt Saul selbst. Und auch er wird vom Geist Gottes ergriffen. Er reißt sich die Kleider vom Leib und liegt einen Tag und eine Nacht da. „Nackt“ kann hier auch heißen: nur noch in Unterkleidung, ohne Obergewand und königliche Kleidung.\nDas ist ein tiefes Bild: Der König, der gegen Gottes Willen kämpft, wird von Gott hilflos gemacht. Er liegt am Boden vor Samuel, dem Propheten, den er seit Kapitel 15 nicht mehr gesehen hatte.\nDas Sprichwort „Ist auch Saul unter den Propheten?“ kennen wir schon aus Kapitel 10,11–12. Damals war es ein Zeichen für Sauls neuen Anfang. Jetzt ist es ein Zeichen seiner Ohnmacht."
+    }
+   ]
+  },
+  {
+   "kapitel": 20,
+   "titel": "Jonatan und die Pfeile",
+   "abschnitte": [
+    {
+     "ueberschrift": "„Nur ein Schritt zwischen mir und dem Tod“",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "David floh aus Najot bei Rama.\nEr kam und sagte zu Jonatan:\n„Was habe ich getan?\nWas ist meine Schuld?\nWas ist meine Sünde vor deinem Vater, dass er mir nach dem Leben trachtet?“",
+       "englisch_web": "David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er sagte zu ihm:\n„Auf keinen Fall! Du wirst nicht sterben.\nSchau, mein Vater tut nichts, weder Großes noch Kleines,\nohne es mir zu sagen.\nWarum sollte mein Vater diese Sache vor mir verbergen?\nDas ist nicht so.“",
+       "englisch_web": "He said to him, “Far from it; you will not die. Behold, my father does nothing either great or small, but that he discloses it to me. Why would my father hide this thing from me? It is not so.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "David schwor außerdem und sagte:\n„Dein Vater weiß genau, dass ich Gnade in deinen Augen gefunden habe.\nUnd er sagt sich:\n‚Jonatan soll es nicht wissen, sonst wird er traurig.‘\nAber wirklich, so wahr der HERR lebt und so wahr du lebst:\nEs ist nur ein Schritt zwischen mir und dem Tod.“",
+       "englisch_web": "David swore moreover, and said, “Your father knows well that I have found favor in your eyes; and he says, ‘Don’t let Jonathan know this, lest he be grieved;’ but truly as Yahweh lives, and as your soul lives, there is but a step between me and death.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da sagte Jonatan zu David:\n„Was auch immer du dir wünschst, das will ich für dich tun.“",
+       "englisch_web": "Then Jonathan said to David, “Whatever your soul desires, I will even do it for you.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "David sagte zu Jonatan:\n„Schau, morgen ist Neumond.\nDa sollte ich eigentlich mit dem König beim Essen sitzen.\nAber lass mich gehen.\nDann will ich mich auf dem Feld verstecken bis zum Abend des dritten Tages.",
+       "englisch_web": "David said to Jonathan, “Behold, tomorrow is the new moon, and I should not fail to dine with the king; but let me go, that I may hide myself in the field to the third day at evening."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn dein Vater mich vermisst,\ndann sag:\n‚David hat mich dringend gebeten, nach Betlehem, in seine Stadt, laufen zu dürfen.\nDenn dort ist das jährliche Opfer für die ganze Sippe.‘",
+       "englisch_web": "If your father misses me at all, then say, ‘David earnestly asked leave of me that he might run to Bethlehem, his city; for it is the yearly sacrifice there for all the family.’"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn er sagt: ‚Gut‘,\ndann hat dein Knecht Frieden.\nAber wenn er zornig wird,\ndann weißt du, dass er das Böse beschlossen hat.",
+       "englisch_web": "If he says, ‘It is well,’ your servant shall have peace; but if he is angry, then know that evil is determined by him."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum erweise deinem Knecht Güte.\nDenn du hast deinen Knecht mit dir in einen Bund des HERRN gebracht.\nWenn aber eine Schuld an mir ist, dann töte du mich selbst.\nWarum solltest du mich zu deinem Vater bringen?“",
+       "englisch_web": "Therefore deal kindly with your servant, for you have brought your servant into a covenant of Yahweh with you; but if there is iniquity in me, kill me yourself, for why should you bring me to your father?”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Jonatan sagte:\n„Das sei fern von dir!\nWenn ich sicher wüsste, dass mein Vater beschlossen hat, dir Böses zu tun,\nwürde ich es dir dann nicht sagen?“",
+       "englisch_web": "Jonathan said, “Far be it from you; for if I should at all know that evil were determined by my father to come on you, then wouldn’t I tell you that?”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Da sagte David zu Jonatan:\n„Wer wird es mir sagen, wenn dein Vater dir eine harte Antwort gibt?“",
+       "englisch_web": "Then David said to Jonathan, “Who will tell me if your father answers you roughly?”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Jonatan sagte zu David:\n„Komm! Lass uns hinaus aufs Feld gehen.“\nUnd die beiden gingen hinaus aufs Feld.",
+       "englisch_web": "Jonathan said to David, “Come! Let’s go out into the field.” They both went out into the field."
+      }
+     ],
+     "erklaerung": "David versteht nicht, warum Saul ihn hasst. Er fragt: Was habe ich falsch gemacht? Diese Frage stellen viele Menschen, die ohne Grund verfolgt werden.\nJonatan will nicht glauben, dass sein Vater wirklich so böse ist. Es ist schwer, so etwas über den eigenen Vater zu denken.\n„Nur ein Schritt zwischen mir und dem Tod“: So fühlt sich David. Jeden Tag kann es zu Ende sein.\nAm „Neumond“, dem Anfang jedes Monats, gab es ein Fest mit einem besonderen Essen (4. Mose 10,10; 28,11). David als Schwiegersohn des Königs sollte dabei sein.\nDavid schlägt einen Test vor: Wie reagiert Saul, wenn David fehlt?\n„Bund des HERRN“: Die Freundschaft zwischen David und Jonatan ist ein Bund vor Gott (Kapitel 18,3). Das ist ein heiliges Versprechen."
+    },
+    {
+     "ueberschrift": "Jonatans Bund mit Davids Haus",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Jonatan sagte zu David:\n„Beim HERRN, dem Gott Israels:\nWenn ich meinen Vater morgen um diese Zeit oder übermorgen ausgeforscht habe,\nund schau, wenn es gut für David steht,\nwerde ich dann nicht zu dir schicken und es dir mitteilen?",
+       "englisch_web": "Jonathan said to David, “By Yahweh, the God of Israel, when I have sounded out my father about this time tomorrow, or the third day, behold, if there is good toward David, won’t I then send to you and disclose it to you?"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der HERR tue Jonatan dies und noch mehr,\nwenn mein Vater dir Böses tun will\nund ich es dir nicht mitteile und dich nicht wegschicke,\ndamit du in Frieden gehen kannst.\nDer HERR sei mit dir, wie er mit meinem Vater gewesen ist.",
+       "englisch_web": "Yahweh do so to Jonathan and more also, should it please my father to do you evil, if I don’t disclose it to you and send you away, that you may go in peace. May Yahweh be with you as he has been with my father."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Und nicht nur, solange ich noch lebe,\nsollst du mir die Güte des HERRN erweisen, damit ich nicht sterbe.",
+       "englisch_web": "You shall not only show me the loving kindness of Yahweh while I still live, that I not die;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Sondern du sollst auch deine Güte niemals von meinem Haus abwenden,\nauch dann nicht, wenn der HERR jeden einzelnen der Feinde Davids\nvom Erdboden ausgerottet hat.“",
+       "englisch_web": "but you shall also not cut off your kindness from my house forever, no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "So schloss Jonatan einen Bund mit dem Haus Davids und sagte:\n„Der HERR wird es von der Hand der Feinde Davids fordern.“",
+       "englisch_web": "So Jonathan made a covenant with David’s house, saying, “Yahweh will require it at the hand of David’s enemies.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Jonatan ließ David noch einmal schwören,\nwegen seiner Liebe zu ihm.\nDenn er liebte ihn, wie er seine eigene Seele liebte.",
+       "englisch_web": "Jonathan caused David to swear again, for the love that he had for him; for he loved him as he loved his own soul."
+      }
+     ],
+     "erklaerung": "Jonatan sagt: „Der HERR sei mit dir, wie er mit meinem Vater gewesen ist.“ Jonatan weiß, dass David der nächste König wird, nicht er selbst. Und er wünscht es ihm.\nDamals töteten neue Könige oft die ganze Familie des alten Königs, damit niemand ihnen den Thron streitig machen konnte. Darum bittet Jonatan: Wenn du König bist, dann verschone meine Familie.\nDavid hat dieses Versprechen gehalten. Viele Jahre später nimmt er Jonatans gelähmten Sohn Mefi-Boschet an seinen Tisch (2. Samuel 9).\nWieder steht das Wort „Güte“ (Chesed), das wir aus dem Buch Rut kennen. Es ist Treue, die über das Leben hinausgeht."
+    },
+    {
+     "ueberschrift": "Das Zeichen mit den Pfeilen",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Dann sagte Jonatan zu ihm:\n„Morgen ist Neumond.\nMan wird dich vermissen, denn dein Platz wird leer sein.",
+       "englisch_web": "Then Jonathan said to him, “Tomorrow is the new moon, and you will be missed, because your seat will be empty."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wenn du drei Tage gewartet hast,\ndann geh schnell hinab an den Ort, wo du dich versteckt hast, als diese Sache anfing,\nund bleib beim Stein Esel.",
+       "englisch_web": "When you have stayed three days, go down quickly and come to the place where you hid yourself when this started, and remain by the stone Ezel."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Ich will drei Pfeile neben ihn schießen,\nals ob ich auf ein Ziel schieße.",
+       "englisch_web": "I will shoot three arrows on its side, as though I shot at a mark."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Und schau, dann schicke ich den Jungen und sage:\n‚Geh, such die Pfeile!‘\nWenn ich zu dem Jungen sage:\n‚Schau, die Pfeile liegen diesseits von dir, nimm sie‘,\ndann komm.\nDenn dann hast du Frieden, und es gibt keine Gefahr, so wahr der HERR lebt.",
+       "englisch_web": "Behold, I will send the boy, saying, ‘Go, find the arrows!’ If I tell the boy, ‘Behold, the arrows are on this side of you. Take them;’ then come, for there is peace to you and no danger, as Yahweh lives."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Aber wenn ich zu dem Jungen sage:\n‚Schau, die Pfeile liegen jenseits von dir‘,\ndann geh deinen Weg.\nDenn der HERR schickt dich weg.",
+       "englisch_web": "But if I say this to the boy, ‘Behold, the arrows are beyond you,’ then go your way, for Yahweh has sent you away."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Und was die Sache angeht, über die wir gesprochen haben, du und ich:\nSchau, der HERR ist zwischen dir und mir für immer.“",
+       "englisch_web": "Concerning the matter which you and I have spoken of, behold, Yahweh is between you and me forever.”"
+      }
+     ],
+     "erklaerung": "Jonatan denkt sich ein geheimes Zeichen aus. Niemand soll merken, dass er David warnt. Ein Junge, der Pfeile holt, ist ganz unauffällig.\n„Der HERR ist zwischen dir und mir“ heißt: Gott ist Zeuge unseres Versprechens. Er wacht darüber."
+    },
+    {
+     "ueberschrift": "Sauls Zorn beim Festmahl",
+     "vers_von": 24,
+     "vers_bis": 34,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "So versteckte sich David auf dem Feld.\nAls der Neumond gekommen war, setzte sich der König zum Essen.",
+       "englisch_web": "So David hid himself in the field. When the new moon had come, the king sat himself down to eat food."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Der König saß auf seinem Platz wie sonst,\nauf dem Platz an der Wand.\nJonatan stand auf, und Abner saß an Sauls Seite.\nAber Davids Platz war leer.",
+       "englisch_web": "The king sat on his seat, as at other times, even on the seat by the wall; and Jonathan stood up, and Abner sat by Saul’s side, but David’s place was empty."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Doch Saul sagte an diesem Tag nichts.\nDenn er dachte:\n„Es ist ihm etwas passiert. Er ist nicht rein.\nSicher ist er nicht rein.“",
+       "englisch_web": "Nevertheless Saul didn’t say anything that day, for he thought, “Something has happened to him. He is not clean. Surely he is not clean.”"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Am Tag nach dem Neumond, am zweiten Tag, war Davids Platz wieder leer.\nSaul sagte zu seinem Sohn Jonatan:\n„Warum ist der Sohn Isais weder gestern noch heute zum Essen gekommen?“",
+       "englisch_web": "On the next day after the new moon, the second day, David’s place was empty. Saul said to Jonathan his son, “Why didn’t the son of Jesse come to eat, either yesterday, or today?”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Jonatan antwortete Saul:\n„David hat mich dringend um Erlaubnis gebeten, nach Betlehem zu gehen.",
+       "englisch_web": "Jonathan answered Saul, “David earnestly asked permission of me to go to Bethlehem."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Er hat gesagt:\n‚Lass mich bitte gehen,\ndenn unsere Sippe hat ein Opfer in der Stadt.\nMein Bruder hat mir befohlen, dort zu sein.\nWenn ich jetzt Gnade in deinen Augen gefunden habe,\ndann lass mich bitte weggehen und meine Brüder sehen.‘\nDarum ist er nicht an den Tisch des Königs gekommen.“",
+       "englisch_web": "He said, ‘Please let me go, for our family has a sacrifice in the city. My brother has commanded me to be there. Now, if I have found favor in your eyes, please let me go away and see my brothers.’ Therefore he has not come to the king’s table.”"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Da entbrannte Sauls Zorn gegen Jonatan, und er sagte zu ihm:\n„Du Sohn einer verkehrten, widerspenstigen Frau!\nWeiß ich nicht, dass du den Sohn Isais erwählt hast,\ndir selbst zur Schande und zur Schande der Blöße deiner Mutter?",
+       "englisch_web": "Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse rebellious woman, don’t I know that you have chosen the son of Jesse to your own shame, and to the shame of your mother’s nakedness?"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Denn solange der Sohn Isais auf der Erde lebt,\nwirst du keinen Bestand haben, weder du noch dein Königtum.\nDarum schick jetzt hin und bring ihn zu mir,\ndenn er muss sterben!“",
+       "englisch_web": "For as long as the son of Jesse lives on the earth, you will not be established, nor will your kingdom. Therefore now send and bring him to me, for he shall surely die!”"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Jonatan antwortete seinem Vater Saul und sagte zu ihm:\n„Warum soll er getötet werden?\nWas hat er getan?“",
+       "englisch_web": "Jonathan answered Saul his father, and said to him, “Why should he be put to death? What has he done?”"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Da warf Saul den Speer nach ihm, um ihn zu treffen.\nDaran erkannte Jonatan, dass sein Vater fest entschlossen war, David zu töten.",
+       "englisch_web": "Saul cast his spear at him to strike him. By this Jonathan knew that his father was determined to put David to death."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Da stand Jonatan in glühendem Zorn vom Tisch auf\nund aß am zweiten Tag des Monats nichts.\nDenn er war betrübt wegen David,\nweil sein Vater ihn so schändlich behandelt hatte.",
+       "englisch_web": "So Jonathan arose from the table in fierce anger, and ate no food the second day of the month; for he was grieved for David, because his father had treated him shamefully."
+      }
+     ],
+     "erklaerung": "Am ersten Tag denkt Saul: David ist vielleicht unrein, zum Beispiel weil er etwas Totes berührt hat. Dann durfte man nicht am heiligen Festmahl teilnehmen (3. Mose 7,20–21).\nAm zweiten Tag explodiert Saul. Er beschimpft Jonatan und seine eigene Frau. „Zur Schande der Blöße deiner Mutter“ ist eine grobe Beleidigung.\nSaul verrät seine wahre Angst: Wenn David lebt, wirst du nicht König. Für Saul geht es um Macht für seine Familie. Für Jonatan geht es um Recht und Treue.\nJonatan fragt: „Was hat er getan?“ Das ist die richtige Frage. Und Saul antwortet mit dem Speer. Er greift sogar seinen eigenen Sohn an.\nJonatan ist zornig und traurig, nicht wegen sich selbst, sondern wegen David."
+    },
+    {
+     "ueberschrift": "Der Abschied",
+     "vers_von": 35,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 35,
+       "leichte_sprache": "Am Morgen ging Jonatan hinaus aufs Feld,\nzu der Zeit, die er mit David verabredet hatte,\nund ein kleiner Junge war bei ihm.",
+       "englisch_web": "In the morning, Jonathan went out into the field at the time appointed with David, and a little boy with him."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Er sagte zu seinem Jungen:\n„Lauf, such die Pfeile, die ich schieße.“\nWährend der Junge lief, schoss er einen Pfeil über ihn hinaus.",
+       "englisch_web": "He said to his boy, “Run, find now the arrows which I shoot.” As the boy ran, he shot an arrow beyond him."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Als der Junge an die Stelle des Pfeils kam, den Jonatan geschossen hatte,\nrief Jonatan dem Jungen nach und sagte:\n„Liegt der Pfeil nicht jenseits von dir?“",
+       "englisch_web": "When the boy had come to the place of the arrow which Jonathan had shot, Jonathan cried after the boy, and said, “Isn’t the arrow beyond you?”"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Jonatan rief dem Jungen nach:\n„Schnell! Beeil dich! Bleib nicht stehen!“\nDer Junge Jonatans sammelte die Pfeile auf und kam zu seinem Herrn.",
+       "englisch_web": "Jonathan cried after the boy, “Go fast! Hurry! Don’t delay!” Jonathan’s boy gathered up the arrows, and came to his master."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Aber der Junge wusste von nichts.\nNur Jonatan und David wussten von der Sache.",
+       "englisch_web": "But the boy didn’t know anything. Only Jonathan and David knew the matter."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Jonatan gab seine Waffen seinem Jungen\nund sagte zu ihm:\n„Geh, bring sie in die Stadt.“",
+       "englisch_web": "Jonathan gave his weapons to his boy, and said to him, “Go, carry them to the city.”"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Sobald der Junge weg war,\nstand David auf, von der Südseite her.\nEr fiel auf sein Gesicht zur Erde\nund verneigte sich dreimal.\nSie küssten einander und weinten miteinander,\nund David weinte am meisten.",
+       "englisch_web": "As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times. They kissed one another and wept with one another, and David wept the most."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Jonatan sagte zu David:\n„Geh in Frieden.\nDenn wir beide haben im Namen des HERRN geschworen und gesagt:\n‚Der HERR ist zwischen mir und dir\nund zwischen meinen Nachkommen und deinen Nachkommen für immer.‘“\nEr stand auf und ging weg.\nUnd Jonatan ging in die Stadt.",
+       "englisch_web": "Jonathan said to David, “Go in peace, because we have both sworn in Yahweh’s name, saying, ‘Yahweh is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city."
+      }
+     ],
+     "erklaerung": "Der Pfeil fliegt über den Jungen hinaus. Das heißt: Geh weg, du bist in Gefahr. „Schnell! Beeil dich!“ ruft Jonatan dem Jungen zu, aber eigentlich spricht er zu David.\nEigentlich hätte Jonatan das Zeichen nicht gebraucht. Aber die beiden wollen sich wenigstens noch einmal sehen.\nSie küssen sich und weinen. Damals war es für Männer normal, so ihre Freundschaft und ihren Abschiedsschmerz zu zeigen.\nDas ist einer der traurigsten Abschiede der Bibel. Die beiden sehen sich nur noch ein einziges Mal (Kapitel 23,16–18).\nIn vielen deutschen Bibeln ist die Zählung hier anders: Der letzte Satz („Er stand auf und ging weg, und Jonatan ging in die Stadt“) ist dort Kapitel 21, Vers 1."
+    }
+   ]
+  },
+  {
+   "kapitel": 21,
+   "titel": "David in Nob und in Gat",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das heilige Brot",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da kam David nach Nob zu Ahimelech, dem Priester.\nAhimelech kam David zitternd entgegen und sagte zu ihm:\n„Warum bist du allein, und kein Mann ist bei dir?“",
+       "englisch_web": "Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "David sagte zu Ahimelech, dem Priester:\n„Der König hat mir einen Auftrag gegeben und zu mir gesagt:\n‚Niemand soll etwas von der Sache wissen, in der ich dich schicke,\nund von dem, was ich dir befohlen habe.‘\nDie jungen Männer habe ich an einen bestimmten Ort bestellt.",
+       "englisch_web": "David said to Ahimelech the priest, “The king has commanded me to do something, and has said to me, ‘Let no one know anything about the business about which I send you, and what I have commanded you. I have sent the young men to a certain place.’"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Was hast du nun zur Hand?\nGib mir bitte fünf Brote in meine Hand,\noder was sonst da ist.“",
+       "englisch_web": "Now therefore what is under your hand? Please give me five loaves of bread in my hand, or whatever is available.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der Priester antwortete David und sagte:\n„Ich habe kein gewöhnliches Brot zur Hand,\naber es gibt heiliges Brot,\nwenn sich nur die jungen Männer von Frauen ferngehalten haben.“",
+       "englisch_web": "The priest answered David, and said, “I have no common bread, but there is holy bread; if only the young men have kept themselves from women.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "David antwortete dem Priester und sagte zu ihm:\n„Wirklich, Frauen sind uns ferngehalten worden wie sonst auch, diese drei Tage.\nAls ich auszog, waren die Gefäße der jungen Männer heilig,\nobwohl es nur eine gewöhnliche Reise war.\nWie viel mehr werden heute ihre Gefäße heilig sein?“",
+       "englisch_web": "David answered the priest, and said to him, “Truly, women have been kept from us as usual these three days. When I came out, the vessels of the young men were holy, though it was only a common journey. How much more then today shall their vessels be holy?”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da gab der Priester ihm heiliges Brot.\nDenn es gab dort kein anderes Brot als die Schaubrote,\ndie vor dem HERRN weggenommen worden waren,\num sie durch warmes Brot zu ersetzen an dem Tag, an dem sie weggenommen wurden.",
+       "englisch_web": "So the priest gave him holy bread; for there was no bread there but the show bread that was taken from before Yahweh, to be replaced with hot bread in the day when it was taken away."
+      }
+     ],
+     "erklaerung": "In vielen deutschen Bibeln ist dieses Kapitel um einen Vers verschoben. Vers 1 hier ist dort Vers 2, und so weiter bis Vers 16.\nNob war eine Stadt der Priester, nahe bei Jerusalem. Nach der Zerstörung von Schilo lebten dort die Priester aus der Familie Elis. Ahimelech war ein Urenkel von Eli.\nAhimelech zittert. Warum kommt Sauls berühmter Heerführer ganz allein? Das ist seltsam.\nDavid lügt den Priester an. Er sagt, er sei im Auftrag des Königs unterwegs. Diese Lüge wird schreckliche Folgen haben (Kapitel 22).\nDie „Schaubrote“ waren zwölf Brote, die jede Woche frisch vor Gott im Heiligtum ausgelegt wurden. Die alten Brote durften nur die Priester essen (3. Mose 24,5–9).\nDer Priester macht eine Ausnahme, weil David und seine Männer in Not sind. Er fragt nur, ob sie rein sind. Damals galt: Wer vor kurzem mit einer Frau geschlafen hatte, war für heilige Dinge eine Zeit lang unrein (2. Mose 19,15). „Gefäße“ meint hier wohl ihre Körper oder ihre Ausrüstung.\nJesus hat sich später auf diese Geschichte berufen: Die Not eines Menschen ist wichtiger als eine religiöse Vorschrift (Markus 2,25–27)."
+    },
+    {
+     "ueberschrift": "Doeg, der Edomiter",
+     "vers_von": 7,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Nun war an diesem Tag ein Mann von Sauls Dienern dort,\nder vor dem HERRN zurückgehalten wurde.\nSein Name war Doeg, der Edomiter,\nder oberste von Sauls Hirten.",
+       "englisch_web": "Now a certain man of the servants of Saul was there that day, detained before Yahweh; and his name was Doeg the Edomite, the best of the herdsmen who belonged to Saul."
+      }
+     ],
+     "erklaerung": "Dieser kurze Satz ist wie eine dunkle Wolke. Ein Diener Sauls sieht alles, was hier geschieht. Er wird es später verraten (Kapitel 22,9).\n„Vor dem HERRN zurückgehalten“: Vielleicht musste er wegen eines Gelübdes oder einer Reinigung eine Zeit lang am Heiligtum bleiben.\nPsalm 52 ist nach seiner Überschrift ein Gebet von David über Doeg."
+    },
+    {
+     "ueberschrift": "Das Schwert Goliats",
+     "vers_von": 8,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "David sagte zu Ahimelech:\n„Hast du hier nicht einen Speer oder ein Schwert zur Hand?\nDenn ich habe weder mein Schwert noch meine Waffen mitgenommen,\nweil der Auftrag des Königs Eile verlangte.“",
+       "englisch_web": "David said to Ahimelech, “Isn’t there here under your hand spear or sword? For I haven’t brought my sword or my weapons with me, because the king’s business required haste.”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Der Priester sagte:\n„Schau, das Schwert Goliats, des Philisters,\nden du im Tal Ela erschlagen hast,\nist hier, in einen Mantel gewickelt, hinter dem Efod.\nWenn du es nehmen willst, dann nimm es,\ndenn es gibt hier kein anderes außer diesem.“\nDavid sagte:\n„Es gibt keines wie dieses. Gib es mir.“",
+       "englisch_web": "The priest said, “Behold, the sword of Goliath the Philistine, whom you killed in the valley of Elah, is here wrapped in a cloth behind the ephod. If you would like to take that, take it, for there is no other except that here.” David said, “There is none like that. Give it to me.”"
+      }
+     ],
+     "erklaerung": "Das Schwert Goliats war als Siegeszeichen im Heiligtum aufbewahrt worden. Jetzt bekommt David es zurück.\nEs ist ein Zeichen der Erinnerung: Gott hat David damals gegen den Riesen geholfen. Er wird ihm auch jetzt helfen."
+    },
+    {
+     "ueberschrift": "David stellt sich wahnsinnig",
+     "vers_von": 10,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "David machte sich auf und floh an diesem Tag vor Saul.\nEr ging zu Achisch, dem König von Gat.",
+       "englisch_web": "David arose and fled that day for fear of Saul, and went to Achish the king of Gath."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Die Diener von Achisch sagten zu ihm:\n„Ist das nicht David, der König des Landes?\nHaben sie nicht beim Reigentanz über ihn gesungen und gesagt:\n‚Saul hat seine Tausende erschlagen,\nund David seine Zehntausende‘?“",
+       "englisch_web": "The servants of Achish said to him, “Isn’t this David the king of the land? Didn’t they sing to one another about him in dances, saying, ‘Saul has slain his thousands, and David his ten thousands’?”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "David nahm sich diese Worte zu Herzen\nund fürchtete sich sehr vor Achisch, dem König von Gat.",
+       "englisch_web": "David laid up these words in his heart, and was very afraid of Achish the king of Gath."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er verstellte sich vor ihnen\nund tat so, als wäre er wahnsinnig, als sie ihn festhielten.\nEr kritzelte an die Türen des Tores\nund ließ seinen Speichel in seinen Bart laufen.",
+       "englisch_web": "He changed his behavior before them and pretended to be insane in their hands, and scribbled on the doors of the gate, and let his spittle fall down on his beard."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Da sagte Achisch zu seinen Dienern:\n„Schaut, ihr seht doch, der Mann ist wahnsinnig.\nWarum habt ihr ihn zu mir gebracht?",
+       "englisch_web": "Then Achish said to his servants, “Look, you see the man is insane. Why then have you brought him to me?"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Fehlt es mir an Wahnsinnigen,\ndass ihr diesen da gebracht habt, damit er vor mir den Wahnsinnigen spielt?\nSoll dieser da in mein Haus kommen?“",
+       "englisch_web": "Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?”"
+      }
+     ],
+     "erklaerung": "David ist so verzweifelt, dass er ausgerechnet zu den Philistern flieht. Und ausgerechnet nach Gat, in die Heimatstadt Goliats. Und er hat Goliats Schwert dabei!\nDie Philister erkennen ihn sofort. Sie nennen ihn sogar „König des Landes“. Sie wissen mehr als Saul ahnt.\nDavid bekommt Angst und rettet sich mit einer List: Er spielt den Verrückten. Damals hatte man Scheu davor, einem Wahnsinnigen etwas anzutun.\nAchisch macht sich lustig: Ich habe schon genug Verrückte um mich herum.\nDer große Held, der Goliat besiegt hat, muss jetzt sabbern und kritzeln, um zu überleben. So tief ist David gefallen. Aber Gott lässt ihn nicht fallen.\nPsalm 34 ist nach seiner Überschrift ein Lied von David aus dieser Zeit. Darin steht: „Der HERR ist nahe denen, die zerbrochenen Herzens sind“ (Psalm 34,19). Der König heißt in der Überschrift des Psalms „Abimelech“, das war wohl ein Titel der Könige der Philister."
+    }
+   ]
   }
  ]
 }

@@ -36413,3 +36413,456 @@ sodass sein Name sehr geachtet wurde.
 > Alles, was Saul gegen David plant, macht David nur stärker. Der Speer verfehlt ihn. Der Krieg macht ihn berühmt. Die Hochzeit macht ihn zum Mitglied der Königsfamilie. Sogar Sauls eigene Kinder, Jonatan und Michal, lieben David.
 > Saul erkennt: Gott ist mit David. Aber statt sich darüber zu freuen oder sich Gott wieder zuzuwenden, wird er zu Davids Feind. Er kämpft damit eigentlich gegen Gott selbst.
 > Dieses Kapitel zeigt den Unterschied zwischen zwei Menschen: Jonatan hätte allen Grund zur Eifersucht, aber er liebt David. Saul hat allen Grund zur Dankbarkeit, aber er hasst David.
+
+## 1. Samuel – Kapitel 19
+#### David muss fliehen
+
+---
+
+### Jonatan setzt sich für David ein (Vers 1–7)
+
+<sup>1</sup>Saul sagte zu seinem Sohn Jonatan und zu allen seinen Dienern,
+dass sie David töten sollten.
+Aber Jonatan, der Sohn Sauls, hatte David sehr gern.
+<sup>2</sup>Jonatan erzählte es David und sagte:
+„Mein Vater Saul will dich töten.
+Darum nimm dich morgen früh bitte in Acht.
+Bleib an einem geheimen Ort und versteck dich.
+<sup>3</sup>Ich will hinausgehen und mich neben meinen Vater stellen,
+auf dem Feld, wo du bist.
+Dann will ich mit meinem Vater über dich reden.
+Und wenn ich etwas merke, sage ich es dir.“
+<sup>4</sup>Jonatan redete gut von David bei seinem Vater Saul und sagte zu ihm:
+„Der König soll sich nicht an seinem Knecht David versündigen.
+Denn er hat sich nicht an dir versündigt,
+und seine Taten waren sehr gut für dich.
+<sup>5</sup>Er hat sein Leben aufs Spiel gesetzt und den Philister erschlagen,
+und der HERR hat für ganz Israel einen großen Sieg bewirkt.
+Du hast es gesehen und dich gefreut.
+Warum willst du dich dann an unschuldigem Blut versündigen
+und David ohne Grund töten?“
+<sup>6</sup>Saul hörte auf die Stimme Jonatans.
+Und Saul schwor:
+„So wahr der HERR lebt, er soll nicht getötet werden.“
+<sup>7</sup>Jonatan rief David
+und erzählte ihm alle diese Worte.
+Dann brachte Jonatan David zu Saul,
+und er war bei ihm wie früher.
+
+> **Was bedeutet das?**
+> Jetzt befiehlt Saul ganz offen, David zu töten. Sogar seinem eigenen Sohn.
+> Jonatan steht zwischen seinem Vater und seinem Freund. Er wählt den Weg des Rechts: Er redet mit seinem Vater und erinnert ihn an die Wahrheit. David ist unschuldig. Er hat Israel gerettet.
+> Jonatan ist mutig. Es war gefährlich, einem zornigen König zu widersprechen.
+> Für einen Moment hört Saul auf ihn und schwört sogar bei Gott. Aber wird er sein Wort halten?
+
+---
+
+### Der Speer und das Fenster (Vers 8–17)
+
+<sup>8</sup>Es gab wieder Krieg.
+David zog aus und kämpfte gegen die Philister.
+Er brachte ihnen eine große Niederlage bei, und sie flohen vor ihm.
+<sup>9</sup>Da kam ein böser Geist vom HERRN über Saul,
+als er in seinem Haus saß, mit seinem Speer in der Hand.
+Und David spielte mit seiner Hand Musik.
+<sup>10</sup>Saul versuchte, David mit dem Speer an die Wand zu spießen.
+Aber er wich Saul aus,
+und der Speer fuhr in die Wand.
+David floh und entkam in dieser Nacht.
+
+<sup>11</sup>Saul schickte Boten zu Davids Haus,
+um ihn zu bewachen und ihn am Morgen zu töten.
+Michal, Davids Frau, erzählte es ihm und sagte:
+„Wenn du dich heute Nacht nicht in Sicherheit bringst,
+dann wirst du morgen getötet.“
+<sup>12</sup>Da ließ Michal David durch das Fenster hinab.
+Er ging weg, floh und entkam.
+<sup>13</sup>Michal nahm die Terafim und legte sie ins Bett.
+Sie legte ein Kissen aus Ziegenhaar an das Kopfende
+und deckte sie mit Kleidern zu.
+<sup>14</sup>Als Saul Boten schickte, um David zu holen,
+sagte sie: „Er ist krank.“
+<sup>15</sup>Saul schickte die Boten, um David zu sehen, und sagte:
+„Bringt ihn im Bett zu mir herauf, damit ich ihn töte.“
+<sup>16</sup>Als die Boten hineinkamen,
+schau, da lagen die Terafim im Bett,
+mit dem Kissen aus Ziegenhaar am Kopfende.
+<sup>17</sup>Saul sagte zu Michal:
+„Warum hast du mich so betrogen
+und meinen Feind gehen lassen, sodass er entkommen ist?“
+Michal antwortete Saul:
+„Er hat zu mir gesagt:
+‚Lass mich gehen! Warum sollte ich dich töten?‘“
+
+> **Was bedeutet das?**
+> Saul bricht seinen Schwur. Wieder wirft er den Speer. Jetzt muss David fliehen. Von hier an ist David viele Jahre auf der Flucht.
+> Michal liebt David und rettet ihn. Sie lässt ihn durch das Fenster hinunter, wie Rahab die Kundschafter in Jericho (Josua 2,15).
+> „Terafim“ waren Hausgötter, Figuren, die manche Familien damals hatten, obwohl es verboten war. Dass Michal so etwas im Haus hat, zeigt, wie verbreitet solche Bräuche waren. Die Figur war hier wohl groß genug, um wie ein Mensch unter der Decke auszusehen.
+> Michal lügt, um David zu retten. Und am Ende lügt sie auch ihren Vater an, um sich selbst zu schützen: Er hat mich bedroht. Die Bibel erzählt das, ohne es zu bewerten.
+> Saul will sogar einen Kranken im Bett töten lassen. Sein Hass kennt keine Grenzen mehr.
+> Psalm 59 ist nach seiner Überschrift ein Gebet von David aus dieser Nacht.
+
+---
+
+### Der Geist Gottes hält Saul auf (Vers 18–24)
+
+<sup>18</sup>David floh und entkam.
+Er kam zu Samuel nach Rama
+und erzählte ihm alles, was Saul ihm angetan hatte.
+Er und Samuel gingen hin und wohnten in Najot.
+<sup>19</sup>Man erzählte Saul:
+„Schau, David ist in Najot bei Rama.“
+<sup>20</sup>Saul schickte Boten, um David zu holen.
+Als sie die Gruppe der Propheten sahen, die prophetisch redeten,
+und Samuel, der als ihr Leiter bei ihnen stand,
+kam der Geist Gottes über die Boten Sauls,
+und auch sie redeten prophetisch.
+<sup>21</sup>Als man es Saul erzählte,
+schickte er andere Boten,
+und auch sie redeten prophetisch.
+Saul schickte zum dritten Mal Boten,
+und auch sie redeten prophetisch.
+<sup>22</sup>Da ging er selbst nach Rama.
+Er kam zu dem großen Brunnen, der in Sechu ist,
+und fragte:
+„Wo sind Samuel und David?“
+Einer sagte:
+„Schau, sie sind in Najot bei Rama.“
+<sup>23</sup>Er ging dorthin, nach Najot bei Rama.
+Da kam der Geist Gottes auch über ihn.
+Er ging weiter und redete prophetisch, bis er nach Najot bei Rama kam.
+<sup>24</sup>Auch er zog seine Kleider aus.
+Auch er redete prophetisch vor Samuel
+und lag den ganzen Tag und die ganze Nacht nackt da.
+Darum sagt man:
+„Ist auch Saul unter den Propheten?“
+
+> **Was bedeutet das?**
+> David flieht zu Samuel, dem Mann, der ihn gesalbt hat. „Najot“ war wohl ein Ort, an dem die Propheten zusammen wohnten, ähnlich wie eine Gemeinschaft.
+> Dreimal schickt Saul Soldaten, um David zu fangen. Aber jedes Mal kommt der Geist Gottes über sie, und sie fangen an, prophetisch zu reden, statt David festzunehmen. Gott schützt David auf eine ganz ungewöhnliche Weise.
+> Dann kommt Saul selbst. Und auch er wird vom Geist Gottes ergriffen. Er reißt sich die Kleider vom Leib und liegt einen Tag und eine Nacht da. „Nackt“ kann hier auch heißen: nur noch in Unterkleidung, ohne Obergewand und königliche Kleidung.
+> Das ist ein tiefes Bild: Der König, der gegen Gottes Willen kämpft, wird von Gott hilflos gemacht. Er liegt am Boden vor Samuel, dem Propheten, den er seit Kapitel 15 nicht mehr gesehen hatte.
+> Das Sprichwort „Ist auch Saul unter den Propheten?“ kennen wir schon aus Kapitel 10,11–12. Damals war es ein Zeichen für Sauls neuen Anfang. Jetzt ist es ein Zeichen seiner Ohnmacht.
+
+## 1. Samuel – Kapitel 20
+#### Jonatan und die Pfeile
+
+---
+
+### „Nur ein Schritt zwischen mir und dem Tod“ (Vers 1–11)
+
+<sup>1</sup>David floh aus Najot bei Rama.
+Er kam und sagte zu Jonatan:
+„Was habe ich getan?
+Was ist meine Schuld?
+Was ist meine Sünde vor deinem Vater, dass er mir nach dem Leben trachtet?“
+<sup>2</sup>Er sagte zu ihm:
+„Auf keinen Fall! Du wirst nicht sterben.
+Schau, mein Vater tut nichts, weder Großes noch Kleines,
+ohne es mir zu sagen.
+Warum sollte mein Vater diese Sache vor mir verbergen?
+Das ist nicht so.“
+<sup>3</sup>David schwor außerdem und sagte:
+„Dein Vater weiß genau, dass ich Gnade in deinen Augen gefunden habe.
+Und er sagt sich:
+‚Jonatan soll es nicht wissen, sonst wird er traurig.‘
+Aber wirklich, so wahr der HERR lebt und so wahr du lebst:
+Es ist nur ein Schritt zwischen mir und dem Tod.“
+<sup>4</sup>Da sagte Jonatan zu David:
+„Was auch immer du dir wünschst, das will ich für dich tun.“
+<sup>5</sup>David sagte zu Jonatan:
+„Schau, morgen ist Neumond.
+Da sollte ich eigentlich mit dem König beim Essen sitzen.
+Aber lass mich gehen.
+Dann will ich mich auf dem Feld verstecken bis zum Abend des dritten Tages.
+<sup>6</sup>Wenn dein Vater mich vermisst,
+dann sag:
+‚David hat mich dringend gebeten, nach Betlehem, in seine Stadt, laufen zu dürfen.
+Denn dort ist das jährliche Opfer für die ganze Sippe.‘
+<sup>7</sup>Wenn er sagt: ‚Gut‘,
+dann hat dein Knecht Frieden.
+Aber wenn er zornig wird,
+dann weißt du, dass er das Böse beschlossen hat.
+<sup>8</sup>Darum erweise deinem Knecht Güte.
+Denn du hast deinen Knecht mit dir in einen Bund des HERRN gebracht.
+Wenn aber eine Schuld an mir ist, dann töte du mich selbst.
+Warum solltest du mich zu deinem Vater bringen?“
+<sup>9</sup>Jonatan sagte:
+„Das sei fern von dir!
+Wenn ich sicher wüsste, dass mein Vater beschlossen hat, dir Böses zu tun,
+würde ich es dir dann nicht sagen?“
+<sup>10</sup>Da sagte David zu Jonatan:
+„Wer wird es mir sagen, wenn dein Vater dir eine harte Antwort gibt?“
+<sup>11</sup>Jonatan sagte zu David:
+„Komm! Lass uns hinaus aufs Feld gehen.“
+Und die beiden gingen hinaus aufs Feld.
+
+> **Was bedeutet das?**
+> David versteht nicht, warum Saul ihn hasst. Er fragt: Was habe ich falsch gemacht? Diese Frage stellen viele Menschen, die ohne Grund verfolgt werden.
+> Jonatan will nicht glauben, dass sein Vater wirklich so böse ist. Es ist schwer, so etwas über den eigenen Vater zu denken.
+> „Nur ein Schritt zwischen mir und dem Tod“: So fühlt sich David. Jeden Tag kann es zu Ende sein.
+> Am „Neumond“, dem Anfang jedes Monats, gab es ein Fest mit einem besonderen Essen (4. Mose 10,10; 28,11). David als Schwiegersohn des Königs sollte dabei sein.
+> David schlägt einen Test vor: Wie reagiert Saul, wenn David fehlt?
+> „Bund des HERRN“: Die Freundschaft zwischen David und Jonatan ist ein Bund vor Gott (Kapitel 18,3). Das ist ein heiliges Versprechen.
+
+---
+
+### Jonatans Bund mit Davids Haus (Vers 12–17)
+
+<sup>12</sup>Jonatan sagte zu David:
+„Beim HERRN, dem Gott Israels:
+Wenn ich meinen Vater morgen um diese Zeit oder übermorgen ausgeforscht habe,
+und schau, wenn es gut für David steht,
+werde ich dann nicht zu dir schicken und es dir mitteilen?
+<sup>13</sup>Der HERR tue Jonatan dies und noch mehr,
+wenn mein Vater dir Böses tun will
+und ich es dir nicht mitteile und dich nicht wegschicke,
+damit du in Frieden gehen kannst.
+Der HERR sei mit dir, wie er mit meinem Vater gewesen ist.
+<sup>14</sup>Und nicht nur, solange ich noch lebe,
+sollst du mir die Güte des HERRN erweisen, damit ich nicht sterbe.
+<sup>15</sup>Sondern du sollst auch deine Güte niemals von meinem Haus abwenden,
+auch dann nicht, wenn der HERR jeden einzelnen der Feinde Davids
+vom Erdboden ausgerottet hat.“
+<sup>16</sup>So schloss Jonatan einen Bund mit dem Haus Davids und sagte:
+„Der HERR wird es von der Hand der Feinde Davids fordern.“
+<sup>17</sup>Jonatan ließ David noch einmal schwören,
+wegen seiner Liebe zu ihm.
+Denn er liebte ihn, wie er seine eigene Seele liebte.
+
+> **Was bedeutet das?**
+> Jonatan sagt: „Der HERR sei mit dir, wie er mit meinem Vater gewesen ist.“ Jonatan weiß, dass David der nächste König wird, nicht er selbst. Und er wünscht es ihm.
+> Damals töteten neue Könige oft die ganze Familie des alten Königs, damit niemand ihnen den Thron streitig machen konnte. Darum bittet Jonatan: Wenn du König bist, dann verschone meine Familie.
+> David hat dieses Versprechen gehalten. Viele Jahre später nimmt er Jonatans gelähmten Sohn Mefi-Boschet an seinen Tisch (2. Samuel 9).
+> Wieder steht das Wort „Güte“ (Chesed), das wir aus dem Buch Rut kennen. Es ist Treue, die über das Leben hinausgeht.
+
+---
+
+### Das Zeichen mit den Pfeilen (Vers 18–23)
+
+<sup>18</sup>Dann sagte Jonatan zu ihm:
+„Morgen ist Neumond.
+Man wird dich vermissen, denn dein Platz wird leer sein.
+<sup>19</sup>Wenn du drei Tage gewartet hast,
+dann geh schnell hinab an den Ort, wo du dich versteckt hast, als diese Sache anfing,
+und bleib beim Stein Esel.
+<sup>20</sup>Ich will drei Pfeile neben ihn schießen,
+als ob ich auf ein Ziel schieße.
+<sup>21</sup>Und schau, dann schicke ich den Jungen und sage:
+‚Geh, such die Pfeile!‘
+Wenn ich zu dem Jungen sage:
+‚Schau, die Pfeile liegen diesseits von dir, nimm sie‘,
+dann komm.
+Denn dann hast du Frieden, und es gibt keine Gefahr, so wahr der HERR lebt.
+<sup>22</sup>Aber wenn ich zu dem Jungen sage:
+‚Schau, die Pfeile liegen jenseits von dir‘,
+dann geh deinen Weg.
+Denn der HERR schickt dich weg.
+<sup>23</sup>Und was die Sache angeht, über die wir gesprochen haben, du und ich:
+Schau, der HERR ist zwischen dir und mir für immer.“
+
+> **Was bedeutet das?**
+> Jonatan denkt sich ein geheimes Zeichen aus. Niemand soll merken, dass er David warnt. Ein Junge, der Pfeile holt, ist ganz unauffällig.
+> „Der HERR ist zwischen dir und mir“ heißt: Gott ist Zeuge unseres Versprechens. Er wacht darüber.
+
+---
+
+### Sauls Zorn beim Festmahl (Vers 24–34)
+
+<sup>24</sup>So versteckte sich David auf dem Feld.
+Als der Neumond gekommen war, setzte sich der König zum Essen.
+<sup>25</sup>Der König saß auf seinem Platz wie sonst,
+auf dem Platz an der Wand.
+Jonatan stand auf, und Abner saß an Sauls Seite.
+Aber Davids Platz war leer.
+<sup>26</sup>Doch Saul sagte an diesem Tag nichts.
+Denn er dachte:
+„Es ist ihm etwas passiert. Er ist nicht rein.
+Sicher ist er nicht rein.“
+<sup>27</sup>Am Tag nach dem Neumond, am zweiten Tag, war Davids Platz wieder leer.
+Saul sagte zu seinem Sohn Jonatan:
+„Warum ist der Sohn Isais weder gestern noch heute zum Essen gekommen?“
+<sup>28</sup>Jonatan antwortete Saul:
+„David hat mich dringend um Erlaubnis gebeten, nach Betlehem zu gehen.
+<sup>29</sup>Er hat gesagt:
+‚Lass mich bitte gehen,
+denn unsere Sippe hat ein Opfer in der Stadt.
+Mein Bruder hat mir befohlen, dort zu sein.
+Wenn ich jetzt Gnade in deinen Augen gefunden habe,
+dann lass mich bitte weggehen und meine Brüder sehen.‘
+Darum ist er nicht an den Tisch des Königs gekommen.“
+
+<sup>30</sup>Da entbrannte Sauls Zorn gegen Jonatan, und er sagte zu ihm:
+„Du Sohn einer verkehrten, widerspenstigen Frau!
+Weiß ich nicht, dass du den Sohn Isais erwählt hast,
+dir selbst zur Schande und zur Schande der Blöße deiner Mutter?
+<sup>31</sup>Denn solange der Sohn Isais auf der Erde lebt,
+wirst du keinen Bestand haben, weder du noch dein Königtum.
+Darum schick jetzt hin und bring ihn zu mir,
+denn er muss sterben!“
+<sup>32</sup>Jonatan antwortete seinem Vater Saul und sagte zu ihm:
+„Warum soll er getötet werden?
+Was hat er getan?“
+<sup>33</sup>Da warf Saul den Speer nach ihm, um ihn zu treffen.
+Daran erkannte Jonatan, dass sein Vater fest entschlossen war, David zu töten.
+<sup>34</sup>Da stand Jonatan in glühendem Zorn vom Tisch auf
+und aß am zweiten Tag des Monats nichts.
+Denn er war betrübt wegen David,
+weil sein Vater ihn so schändlich behandelt hatte.
+
+> **Was bedeutet das?**
+> Am ersten Tag denkt Saul: David ist vielleicht unrein, zum Beispiel weil er etwas Totes berührt hat. Dann durfte man nicht am heiligen Festmahl teilnehmen (3. Mose 7,20–21).
+> Am zweiten Tag explodiert Saul. Er beschimpft Jonatan und seine eigene Frau. „Zur Schande der Blöße deiner Mutter“ ist eine grobe Beleidigung.
+> Saul verrät seine wahre Angst: Wenn David lebt, wirst du nicht König. Für Saul geht es um Macht für seine Familie. Für Jonatan geht es um Recht und Treue.
+> Jonatan fragt: „Was hat er getan?“ Das ist die richtige Frage. Und Saul antwortet mit dem Speer. Er greift sogar seinen eigenen Sohn an.
+> Jonatan ist zornig und traurig, nicht wegen sich selbst, sondern wegen David.
+
+---
+
+### Der Abschied (Vers 35–42)
+
+<sup>35</sup>Am Morgen ging Jonatan hinaus aufs Feld,
+zu der Zeit, die er mit David verabredet hatte,
+und ein kleiner Junge war bei ihm.
+<sup>36</sup>Er sagte zu seinem Jungen:
+„Lauf, such die Pfeile, die ich schieße.“
+Während der Junge lief, schoss er einen Pfeil über ihn hinaus.
+<sup>37</sup>Als der Junge an die Stelle des Pfeils kam, den Jonatan geschossen hatte,
+rief Jonatan dem Jungen nach und sagte:
+„Liegt der Pfeil nicht jenseits von dir?“
+<sup>38</sup>Jonatan rief dem Jungen nach:
+„Schnell! Beeil dich! Bleib nicht stehen!“
+Der Junge Jonatans sammelte die Pfeile auf und kam zu seinem Herrn.
+<sup>39</sup>Aber der Junge wusste von nichts.
+Nur Jonatan und David wussten von der Sache.
+<sup>40</sup>Jonatan gab seine Waffen seinem Jungen
+und sagte zu ihm:
+„Geh, bring sie in die Stadt.“
+<sup>41</sup>Sobald der Junge weg war,
+stand David auf, von der Südseite her.
+Er fiel auf sein Gesicht zur Erde
+und verneigte sich dreimal.
+Sie küssten einander und weinten miteinander,
+und David weinte am meisten.
+<sup>42</sup>Jonatan sagte zu David:
+„Geh in Frieden.
+Denn wir beide haben im Namen des HERRN geschworen und gesagt:
+‚Der HERR ist zwischen mir und dir
+und zwischen meinen Nachkommen und deinen Nachkommen für immer.‘“
+Er stand auf und ging weg.
+Und Jonatan ging in die Stadt.
+
+> **Was bedeutet das?**
+> Der Pfeil fliegt über den Jungen hinaus. Das heißt: Geh weg, du bist in Gefahr. „Schnell! Beeil dich!“ ruft Jonatan dem Jungen zu, aber eigentlich spricht er zu David.
+> Eigentlich hätte Jonatan das Zeichen nicht gebraucht. Aber die beiden wollen sich wenigstens noch einmal sehen.
+> Sie küssen sich und weinen. Damals war es für Männer normal, so ihre Freundschaft und ihren Abschiedsschmerz zu zeigen.
+> Das ist einer der traurigsten Abschiede der Bibel. Die beiden sehen sich nur noch ein einziges Mal (Kapitel 23,16–18).
+> In vielen deutschen Bibeln ist die Zählung hier anders: Der letzte Satz („Er stand auf und ging weg, und Jonatan ging in die Stadt“) ist dort Kapitel 21, Vers 1.
+
+## 1. Samuel – Kapitel 21
+#### David in Nob und in Gat
+
+---
+
+### Das heilige Brot (Vers 1–6)
+
+<sup>1</sup>Da kam David nach Nob zu Ahimelech, dem Priester.
+Ahimelech kam David zitternd entgegen und sagte zu ihm:
+„Warum bist du allein, und kein Mann ist bei dir?“
+<sup>2</sup>David sagte zu Ahimelech, dem Priester:
+„Der König hat mir einen Auftrag gegeben und zu mir gesagt:
+‚Niemand soll etwas von der Sache wissen, in der ich dich schicke,
+und von dem, was ich dir befohlen habe.‘
+Die jungen Männer habe ich an einen bestimmten Ort bestellt.
+<sup>3</sup>Was hast du nun zur Hand?
+Gib mir bitte fünf Brote in meine Hand,
+oder was sonst da ist.“
+<sup>4</sup>Der Priester antwortete David und sagte:
+„Ich habe kein gewöhnliches Brot zur Hand,
+aber es gibt heiliges Brot,
+wenn sich nur die jungen Männer von Frauen ferngehalten haben.“
+<sup>5</sup>David antwortete dem Priester und sagte zu ihm:
+„Wirklich, Frauen sind uns ferngehalten worden wie sonst auch, diese drei Tage.
+Als ich auszog, waren die Gefäße der jungen Männer heilig,
+obwohl es nur eine gewöhnliche Reise war.
+Wie viel mehr werden heute ihre Gefäße heilig sein?“
+<sup>6</sup>Da gab der Priester ihm heiliges Brot.
+Denn es gab dort kein anderes Brot als die Schaubrote,
+die vor dem HERRN weggenommen worden waren,
+um sie durch warmes Brot zu ersetzen an dem Tag, an dem sie weggenommen wurden.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist dieses Kapitel um einen Vers verschoben. Vers 1 hier ist dort Vers 2, und so weiter bis Vers 16.
+> Nob war eine Stadt der Priester, nahe bei Jerusalem. Nach der Zerstörung von Schilo lebten dort die Priester aus der Familie Elis. Ahimelech war ein Urenkel von Eli.
+> Ahimelech zittert. Warum kommt Sauls berühmter Heerführer ganz allein? Das ist seltsam.
+> David lügt den Priester an. Er sagt, er sei im Auftrag des Königs unterwegs. Diese Lüge wird schreckliche Folgen haben (Kapitel 22).
+> Die „Schaubrote“ waren zwölf Brote, die jede Woche frisch vor Gott im Heiligtum ausgelegt wurden. Die alten Brote durften nur die Priester essen (3. Mose 24,5–9).
+> Der Priester macht eine Ausnahme, weil David und seine Männer in Not sind. Er fragt nur, ob sie rein sind. Damals galt: Wer vor kurzem mit einer Frau geschlafen hatte, war für heilige Dinge eine Zeit lang unrein (2. Mose 19,15). „Gefäße“ meint hier wohl ihre Körper oder ihre Ausrüstung.
+> Jesus hat sich später auf diese Geschichte berufen: Die Not eines Menschen ist wichtiger als eine religiöse Vorschrift (Markus 2,25–27).
+
+---
+
+### Doeg, der Edomiter (Vers 7)
+
+<sup>7</sup>Nun war an diesem Tag ein Mann von Sauls Dienern dort,
+der vor dem HERRN zurückgehalten wurde.
+Sein Name war Doeg, der Edomiter,
+der oberste von Sauls Hirten.
+
+> **Was bedeutet das?**
+> Dieser kurze Satz ist wie eine dunkle Wolke. Ein Diener Sauls sieht alles, was hier geschieht. Er wird es später verraten (Kapitel 22,9).
+> „Vor dem HERRN zurückgehalten“: Vielleicht musste er wegen eines Gelübdes oder einer Reinigung eine Zeit lang am Heiligtum bleiben.
+> Psalm 52 ist nach seiner Überschrift ein Gebet von David über Doeg.
+
+---
+
+### Das Schwert Goliats (Vers 8–9)
+
+<sup>8</sup>David sagte zu Ahimelech:
+„Hast du hier nicht einen Speer oder ein Schwert zur Hand?
+Denn ich habe weder mein Schwert noch meine Waffen mitgenommen,
+weil der Auftrag des Königs Eile verlangte.“
+<sup>9</sup>Der Priester sagte:
+„Schau, das Schwert Goliats, des Philisters,
+den du im Tal Ela erschlagen hast,
+ist hier, in einen Mantel gewickelt, hinter dem Efod.
+Wenn du es nehmen willst, dann nimm es,
+denn es gibt hier kein anderes außer diesem.“
+David sagte:
+„Es gibt keines wie dieses. Gib es mir.“
+
+> **Was bedeutet das?**
+> Das Schwert Goliats war als Siegeszeichen im Heiligtum aufbewahrt worden. Jetzt bekommt David es zurück.
+> Es ist ein Zeichen der Erinnerung: Gott hat David damals gegen den Riesen geholfen. Er wird ihm auch jetzt helfen.
+
+---
+
+### David stellt sich wahnsinnig (Vers 10–15)
+
+<sup>10</sup>David machte sich auf und floh an diesem Tag vor Saul.
+Er ging zu Achisch, dem König von Gat.
+<sup>11</sup>Die Diener von Achisch sagten zu ihm:
+„Ist das nicht David, der König des Landes?
+Haben sie nicht beim Reigentanz über ihn gesungen und gesagt:
+‚Saul hat seine Tausende erschlagen,
+und David seine Zehntausende‘?“
+<sup>12</sup>David nahm sich diese Worte zu Herzen
+und fürchtete sich sehr vor Achisch, dem König von Gat.
+<sup>13</sup>Er verstellte sich vor ihnen
+und tat so, als wäre er wahnsinnig, als sie ihn festhielten.
+Er kritzelte an die Türen des Tores
+und ließ seinen Speichel in seinen Bart laufen.
+<sup>14</sup>Da sagte Achisch zu seinen Dienern:
+„Schaut, ihr seht doch, der Mann ist wahnsinnig.
+Warum habt ihr ihn zu mir gebracht?
+<sup>15</sup>Fehlt es mir an Wahnsinnigen,
+dass ihr diesen da gebracht habt, damit er vor mir den Wahnsinnigen spielt?
+Soll dieser da in mein Haus kommen?“
+
+> **Was bedeutet das?**
+> David ist so verzweifelt, dass er ausgerechnet zu den Philistern flieht. Und ausgerechnet nach Gat, in die Heimatstadt Goliats. Und er hat Goliats Schwert dabei!
+> Die Philister erkennen ihn sofort. Sie nennen ihn sogar „König des Landes“. Sie wissen mehr als Saul ahnt.
+> David bekommt Angst und rettet sich mit einer List: Er spielt den Verrückten. Damals hatte man Scheu davor, einem Wahnsinnigen etwas anzutun.
+> Achisch macht sich lustig: Ich habe schon genug Verrückte um mich herum.
+> Der große Held, der Goliat besiegt hat, muss jetzt sabbern und kritzeln, um zu überleben. So tief ist David gefallen. Aber Gott lässt ihn nicht fallen.
+> Psalm 34 ist nach seiner Überschrift ein Lied von David aus dieser Zeit. Darin steht: „Der HERR ist nahe denen, die zerbrochenen Herzens sind“ (Psalm 34,19). Der König heißt in der Überschrift des Psalms „Abimelech“, das war wohl ein Titel der Könige der Philister.
