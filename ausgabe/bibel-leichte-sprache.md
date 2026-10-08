@@ -54460,3 +54460,365 @@ Denk an die Gnadenerweise an deinen Knecht David.“
 > Das Gebet endet hier anders als in 1. Könige 8. Die Chronik schließt mit Worten aus Psalm 132,8–10.
 > „Steh auf zu deinem Ruheplatz“: Die Lade, die lange gewandert ist, hat jetzt einen festen Ort gefunden.
 > „Denk an die Gnadenerweise an deinen Knecht David“: Salomo beruft sich zum Schluss auf Gottes Versprechen an David. Für die Leser der Chronik, die keinen König mehr hatten, war das eine Hoffnung: Gott vergisst sein Versprechen an David nicht.
+
+## 2. Chronik – Kapitel 7
+#### Feuer vom Himmel und Gottes Antwort
+
+---
+
+### Feuer vom Himmel (Vers 1–3)
+
+<sup>1</sup>Als Salomo sein Gebet beendet hatte,
+fiel Feuer vom Himmel herab
+und verzehrte das Brandopfer und die Schlachtopfer.
+Und die Herrlichkeit des HERRN erfüllte das Haus.
+<sup>2</sup>Die Priester konnten nicht in das Haus des HERRN hineingehen,
+denn die Herrlichkeit des HERRN erfüllte das Haus des HERRN.
+<sup>3</sup>Alle Israeliten sahen zu,
+als das Feuer herabfiel und die Herrlichkeit des HERRN auf dem Haus war.
+Da warfen sie sich mit dem Gesicht zur Erde auf das Pflaster,
+beteten an und dankten dem HERRN:
+„Denn er ist gut, denn seine Güte währt ewig!“
+
+> **Was bedeutet das?**
+> Gott antwortet auf Salomos Gebet mit Feuer vom Himmel, wie bei Mose in der Wüste (3. Mose 9,24), bei David auf der Tenne (1. Chronik 21,26) und bei Elija auf dem Karmel (1. Könige 18,38). Das Feuer zeigt: Gott nimmt das Opfer und das Haus an.
+> Das ganze Volk fällt nieder und singt den Lobspruch: „Denn er ist gut, denn seine Güte währt ewig!“ Das Feuer und diese Szene erzählt nur die Chronik, nicht 1. Könige 8.
+
+---
+
+### Das große Fest (Vers 4–10)
+
+<sup>4</sup>Dann brachten der König und das ganze Volk Schlachtopfer vor dem HERRN dar.
+<sup>5</sup>Der König Salomo brachte als Schlachtopfer 22 000 Rinder und 120 000 Schafe dar.
+So weihten der König und das ganze Volk das Haus Gottes ein.
+<sup>6</sup>Die Priester standen an ihren Posten,
+auch die Leviten mit den Musikinstrumenten für den HERRN,
+die der König David gemacht hatte, um dem HERRN zu danken
+– denn seine Güte währt ewig –,
+wenn David durch ihren Dienst lobte.
+Die Priester bliesen vor ihnen die Trompeten,
+und ganz Israel stand.
+<sup>7</sup>Salomo heiligte auch die Mitte des Vorhofs vor dem Haus des HERRN.
+Denn dort brachte er die Brandopfer und das Fett der Friedensopfer dar.
+Denn der Altar aus Bronze, den Salomo gemacht hatte,
+konnte das Brandopfer, das Speiseopfer und das Fett nicht fassen.
+<sup>8</sup>So feierte Salomo zu dieser Zeit das Fest sieben Tage lang,
+und ganz Israel mit ihm, eine sehr große Versammlung,
+von Lebo-Hamat bis zum Bach Ägyptens.
+<sup>9</sup>Am achten Tag hielten sie eine Festversammlung.
+Denn sie hatten die Einweihung des Altars sieben Tage lang gefeiert
+und das Fest sieben Tage lang.
+<sup>10</sup>Am 23. Tag des siebten Monats entließ er das Volk zu seinen Zelten,
+fröhlich und guten Mutes über das Gute,
+das der HERR David, Salomo und seinem Volk Israel getan hatte.
+
+> **Was bedeutet das?**
+> Die Zahl der Opfertiere ist riesig. Das Fleisch der Friedensopfer wurde gemeinsam gegessen. So wurde es ein großes Festessen für das ganze Volk.
+> Das Fest dauerte zwei Wochen: sieben Tage Einweihung des Altars und sieben Tage Laubhüttenfest. Dann kam noch ein Abschlusstag.
+> „Lebo-Hamat“ heißt in der englischen Vorlage „Eingang von Hamat“. Gemeint ist der äußerste Norden. Der „Bach Ägyptens“ ist die Südgrenze. Menschen aus dem ganzen Land waren gekommen.
+> Am Ende gehen alle „fröhlich und guten Mutes“ nach Hause.
+
+---
+
+### Gottes Antwort an Salomo (Vers 11–16)
+
+<sup>11</sup>So vollendete Salomo das Haus des HERRN und das Haus des Königs.
+Alles, was Salomo sich vorgenommen hatte,
+im Haus des HERRN und in seinem eigenen Haus zu machen,
+führte er erfolgreich aus.
+<sup>12</sup>Da erschien der HERR Salomo in der Nacht und sagte zu ihm:
+„Ich habe dein Gebet gehört
+und habe mir diesen Ort als Haus des Opfers erwählt.
+<sup>13</sup>Wenn ich den Himmel verschließe, sodass es nicht regnet,
+oder wenn ich den Heuschrecken befehle, das Land kahl zu fressen,
+oder wenn ich eine Seuche unter mein Volk schicke,
+<sup>14</sup>und wenn dann mein Volk, über dem mein Name ausgerufen ist,
+sich demütigt und betet
+und mein Angesicht sucht
+und von seinen bösen Wegen umkehrt,
+dann will ich vom Himmel her hören,
+ihre Sünde vergeben
+und ihr Land heilen.
+<sup>15</sup>Jetzt sollen meine Augen offen sein
+und meine Ohren aufmerksam auf das Gebet an diesem Ort.
+<sup>16</sup>Denn jetzt habe ich dieses Haus erwählt und geheiligt,
+damit mein Name für immer dort sei.
+Meine Augen und mein Herz sollen alle Tage dort sein.“
+
+> **Was bedeutet das?**
+> Gott antwortet direkt auf Salomos Gebet: „Ich habe dein Gebet gehört.“
+> Vers 14 ist einer der bekanntesten Verse der Chronik. Er enthält vier Schritte: sich demütigen, beten, Gottes Angesicht suchen und umkehren. Und drei Versprechen Gottes: hören, vergeben und heilen. Dieser Vers ist ein Kernsatz der ganzen Chronik. Immer wieder wird erzählt: Wenn ein König oder das Volk so handelt, kommt Hilfe.
+> „Ihr Land heilen“: Gott will nicht nur die einzelnen Menschen, sondern auch die Gemeinschaft und das Land wieder gesund machen.
+> Diese Verse 13–15 stehen nicht in 1. Könige 9. Die Chronik hat sie hinzugefügt.
+
+---
+
+### Versprechen und Warnung (Vers 17–22)
+
+<sup>17</sup>„Und was dich betrifft:
+Wenn du vor mir lebst, wie dein Vater David gelebt hat,
+und alles tust, was ich dir geboten habe,
+und meine Ordnungen und meine Rechtsordnungen hältst,
+<sup>18</sup>dann will ich den Thron deines Königtums festigen,
+wie ich es mit deinem Vater David durch einen Bund versprochen habe, als ich sagte:
+‚Es soll dir nie an einem Mann fehlen, der in Israel herrscht.‘
+<sup>19</sup>Aber wenn ihr euch abwendet
+und meine Ordnungen und meine Gebote verlasst, die ich euch vorgelegt habe,
+und hingeht und anderen Göttern dient und sie anbetet,
+<sup>20</sup>dann will ich sie aus meinem Land ausreißen, das ich ihnen gegeben habe.
+Und dieses Haus, das ich für meinen Namen geheiligt habe, will ich von meinem Angesicht verstoßen.
+Und ich will es zum Sprichwort und zum Spott unter allen Völkern machen.
+<sup>21</sup>Und dieses Haus, so hoch es auch ist:
+Jeder, der daran vorbeigeht, wird sich entsetzen und sagen:
+‚Warum hat der HERR diesem Land und diesem Haus so etwas angetan?‘
+<sup>22</sup>Und man wird antworten:
+‚Weil sie den HERRN, den Gott ihrer Väter, verlassen haben,
+der sie aus dem Land Ägypten herausgeführt hat,
+und sich an andere Götter gehalten,
+sie angebetet und ihnen gedient haben.
+Darum hat er all dieses Unglück über sie gebracht.‘“
+
+> **Was bedeutet das?**
+> Gott verspricht Segen, wenn Salomo treu bleibt. Aber er warnt auch: Wenn das Volk andere Götter anbetet, wird sogar dieser prächtige Tempel zerstört werden.
+> Das ist später wirklich geschehen (Kapitel 36). Für die ersten Leser der Chronik war das schon Geschichte. Diese Verse erklärten ihnen: Gott war nicht zu schwach. Die Zerstörung war die Folge der Untreue.
+> Aber der Weg zurück ist immer offen: „Wenn mein Volk sich demütigt und betet … dann will ich hören“ (Vers 14).
+
+## 2. Chronik – Kapitel 8
+#### Salomos Bauten und der Gottesdienst
+
+---
+
+### Städte und Festungen (Vers 1–6)
+
+<sup>1</sup>Nach zwanzig Jahren, in denen Salomo das Haus des HERRN und sein eigenes Haus gebaut hatte,
+<sup>2</sup>baute Salomo die Städte aus, die Huram Salomo gegeben hatte,
+und ließ Israeliten darin wohnen.
+<sup>3</sup>Salomo zog nach Hamat-Zoba und überwältigte es.
+<sup>4</sup>Er baute Tadmor in der Wüste aus
+und alle Vorratsstädte, die er in Hamat baute.
+<sup>5</sup>Er baute auch das obere Bet-Horon und das untere Bet-Horon aus,
+befestigte Städte mit Mauern, Toren und Riegeln,
+<sup>6</sup>und Baalat und alle Vorratsstädte, die Salomo hatte,
+und alle Städte für die Wagen und die Städte für die Reiter
+und alles, was Salomo zu seinem Vergnügen in Jerusalem, auf dem Libanon
+und im ganzen Land seiner Herrschaft bauen wollte.
+
+> **Was bedeutet das?**
+> Nach dem Tempel und dem Palast baut Salomo Städte und Festungen im ganzen Land.
+> In 1. Könige 9,11–13 ist es andersherum: Dort gibt Salomo Huram zwanzig Städte. Vielleicht gab Huram sie später zurück, weil sie ihm nicht gefielen.
+> Tadmor ist die spätere berühmte Oasenstadt Palmyra in der syrischen Wüste. In 1. Könige 9,18 steht an dieser Stelle „Tamar“. Die beiden Namen sehen im Hebräischen sehr ähnlich aus.
+> Hamat-Zoba lag im Norden, im Gebiet des heutigen Syrien.
+
+---
+
+### Die Zwangsarbeit (Vers 7–10)
+
+<sup>7</sup>Was alle Leute betrifft, die von den Hetitern, Amoritern, Perisitern, Hiwitern und Jebusitern übrig geblieben waren,
+die nicht zu Israel gehörten,
+<sup>8</sup>von ihren Nachkommen, die nach ihnen im Land übrig geblieben waren
+und die die Israeliten nicht vernichtet hatten,
+von ihnen hob Salomo Zwangsarbeiter aus, bis zum heutigen Tag.
+<sup>9</sup>Aber von den Israeliten machte Salomo keine zu Knechten für seine Arbeit.
+Sondern sie waren Krieger, Oberste seiner Hauptleute
+und Anführer seiner Wagen und seiner Reiter.
+<sup>10</sup>Das waren die obersten Beamten des Königs Salomo, 250, die über das Volk herrschten.
+
+> **Was bedeutet das?**
+> Die Nachkommen der früheren Völker Kanaans mussten Zwangsarbeit leisten. Für sie war es ein hartes Schicksal. Die Bibel erzählt es ehrlich.
+> In 1. Könige 9,23 stehen 550 Beamte statt 250.
+
+---
+
+### Salomos Frau, die Tochter des Pharao (Vers 11)
+
+<sup>11</sup>Salomo brachte die Tochter des Pharao aus der Stadt Davids herauf in das Haus, das er für sie gebaut hatte.
+Denn er sagte:
+„Meine Frau soll nicht im Haus Davids, des Königs von Israel, wohnen,
+denn die Orte, an die die Lade des HERRN gekommen ist, sind heilig.“
+
+> **Was bedeutet das?**
+> Salomo hatte eine ägyptische Prinzessin geheiratet. Sie war keine Israelitin und verehrte wohl ägyptische Götter. Darum sollte sie nicht in der Nähe der Lade wohnen.
+> Die Chronik erklärt hier, warum sie in einen eigenen Palast zog. In 1. Könige 9,24 wird es ohne diese Begründung erzählt.
+> Für die Chronik ist die Heiligkeit des Ortes, an dem Gott gegenwärtig ist, sehr wichtig.
+
+---
+
+### Der regelmäßige Gottesdienst (Vers 12–16)
+
+<sup>12</sup>Dann brachte Salomo dem HERRN Brandopfer dar,
+auf dem Altar des HERRN, den er vor der Vorhalle gebaut hatte,
+<sup>13</sup>wie es die Pflicht jedes Tages erforderte,
+nach dem Gebot des Mose,
+an den Sabbaten, an den Neumonden und an den Festen,
+dreimal im Jahr:
+am Fest der ungesäuerten Brote,
+am Wochenfest
+und am Laubhüttenfest.
+<sup>14</sup>Nach der Anordnung seines Vaters David setzte er die Abteilungen der Priester für ihren Dienst ein
+und die Leviten für ihre Aufgaben,
+um zu loben und den Priestern zu helfen,
+wie es die Pflicht jedes Tages erforderte,
+und die Torhüter in ihren Abteilungen an jedem Tor.
+Denn so hatte es David, der Mann Gottes, geboten.
+<sup>15</sup>Sie wichen nicht von dem Gebot des Königs an die Priester und die Leviten ab,
+in keiner Sache und auch nicht bei den Schätzen.
+<sup>16</sup>So wurde das ganze Werk Salomos vollendet,
+vom Tag der Grundsteinlegung des Hauses des HERRN bis zu seiner Vollendung.
+So wurde das Haus des HERRN fertig.
+
+> **Was bedeutet das?**
+> Der Tempel ist nicht nur ein Gebäude. Jetzt beginnt der regelmäßige Gottesdienst: jeden Tag, am Sabbat, am Neumond und an den drei großen Festen.
+> Die drei großen Feste sind: das Fest der ungesäuerten Brote (Passa, im Frühling), das Wochenfest (Schawuot, im Frühsommer, später „Pfingsten“) und das Laubhüttenfest (im Herbst). Bis heute feiern Juden diese drei Feste.
+> Alles geschieht so, wie David es angeordnet hatte. Die Chronik betont, dass Salomo das Werk seines Vaters treu fortsetzt.
+
+---
+
+### Schiffe nach Ofir (Vers 17–18)
+
+<sup>17</sup>Dann ging Salomo nach Ezjon-Geber und nach Elot,
+an die Küste des Meeres im Land Edom.
+<sup>18</sup>Huram schickte ihm durch seine Diener Schiffe und Diener, die sich auf dem Meer auskannten.
+Sie fuhren mit den Dienern Salomos nach Ofir
+und holten von dort etwa 15 Tonnen Gold
+und brachten es dem König Salomo.
+
+> **Was bedeutet das?**
+> Ezjon-Geber und Elot (Elat) liegen am Golf von Akaba, am Roten Meer.
+> Die Seeleute aus Tyrus kannten sich mit der Seefahrt aus, Israel nicht.
+> Wo Ofir lag, weiß man nicht sicher. Es war für sein Gold berühmt.
+> In der Bibel steht „450 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. In 1. Könige 9,28 stehen 420 Talente.
+
+## 2. Chronik – Kapitel 9
+#### Die Königin von Saba und Salomos Ende
+
+---
+
+### Die Königin von Saba (Vers 1–12)
+
+<sup>1</sup>Die Königin von Saba hörte vom Ruhm Salomos.
+Da kam sie nach Jerusalem, um Salomo mit schweren Fragen zu prüfen,
+mit einer sehr großen Karawane,
+mit Kamelen, die Gewürze trugen, Gold in Menge und Edelsteine.
+Als sie zu Salomo gekommen war,
+redete sie mit ihm über alles, was sie auf dem Herzen hatte.
+<sup>2</sup>Salomo beantwortete alle ihre Fragen.
+Es gab nichts, was Salomo verborgen war und was er ihr nicht erklärte.
+<sup>3</sup>Die Königin von Saba sah die Weisheit Salomos,
+das Haus, das er gebaut hatte,
+<sup>4</sup>die Speisen auf seinem Tisch, wie seine Diener dasaßen,
+wie seine Beamten aufwarteten, ihre Kleidung,
+seine Mundschenke und ihre Kleidung,
+und seinen Aufgang, auf dem er zum Haus des HERRN hinaufging.
+Da blieb ihr der Atem weg.
+<sup>5</sup>Sie sagte zum König:
+„Es war die Wahrheit, was ich in meinem eigenen Land
+über deine Taten und deine Weisheit gehört habe.
+<sup>6</sup>Aber ich habe ihren Worten nicht geglaubt,
+bis ich gekommen bin und es mit meinen eigenen Augen gesehen habe.
+Und schau, nicht einmal die Hälfte von der Größe deiner Weisheit hat man mir erzählt.
+Du übertriffst den Ruf, den ich gehört habe!
+<sup>7</sup>Glücklich sind deine Männer,
+und glücklich sind diese deine Diener, die immer vor dir stehen und deine Weisheit hören.
+<sup>8</sup>Gelobt sei der HERR, dein Gott,
+der Gefallen an dir hatte
+und dich auf seinen Thron gesetzt hat,
+damit du König für den HERRN, deinen Gott, bist.
+Weil dein Gott Israel liebt und es für immer bestehen lassen will,
+darum hat er dich zum König über sie gemacht,
+damit du Recht und Gerechtigkeit übst.“
+<sup>9</sup>Sie schenkte dem König etwa 4 Tonnen Gold,
+sehr viele Gewürze und Edelsteine.
+Nie zuvor gab es solche Gewürze,
+wie die Königin von Saba sie dem König Salomo schenkte.
+<sup>10</sup>Auch die Diener Hurams und die Diener Salomos, die Gold aus Ofir brachten,
+brachten Algummimholz und Edelsteine.
+<sup>11</sup>Der König machte aus dem Algummimholz Terrassen für das Haus des HERRN und für das Haus des Königs,
+dazu Harfen und Zithern für die Sänger.
+Etwas Derartiges hatte man vorher im Land Juda nie gesehen.
+<sup>12</sup>Der König Salomo gab der Königin von Saba alles, was sie wollte und worum sie bat,
+mehr als das, was sie dem König gebracht hatte.
+Dann kehrte sie um und ging in ihr Land, sie und ihre Diener.
+
+> **Was bedeutet das?**
+> Die Geschichte steht fast gleich in 1. Könige 10.
+> Saba lag wahrscheinlich im Süden Arabiens, im heutigen Jemen.
+> Die Königin lobt den Gott Israels. Ein wichtiger Unterschied zu 1. Könige 10,9: Hier sagt sie, Gott hat Salomo „auf seinen Thron“ gesetzt, „damit du König für den HERRN bist“. Für die Chronik ist Gott der eigentliche König.
+> Sie erkennt den Sinn von Macht: „damit du Recht und Gerechtigkeit übst“.
+> Jesus erinnerte an die „Königin des Südens“, die vom Ende der Erde kam, um Salomos Weisheit zu hören (Matthäus 12,42).
+> In der Bibel steht „120 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.
+> „Terrassen“: Das hebräische Wort ist unklar. Vielleicht sind Treppen oder Geländer gemeint.
+
+---
+
+### Salomos Reichtum (Vers 13–21)
+
+<sup>13</sup>Das Gold, das in einem Jahr zu Salomo kam, wog etwa 22,6 Tonnen,
+<sup>14</sup>dazu noch das, was die Händler und Kaufleute brachten.
+Auch alle Könige Arabiens und die Statthalter des Landes brachten Salomo Gold und Silber.
+<sup>15</sup>Der König Salomo machte 200 große Schilde aus gehämmertem Gold.
+Für jeden großen Schild verwendete er etwa 6,6 Kilogramm gehämmertes Gold.
+<sup>16</sup>Und er machte 300 kleine Schilde aus gehämmertem Gold.
+Für jeden Schild verwendete er etwa 3,3 Kilogramm Gold.
+Der König brachte sie in das Libanonwaldhaus.
+<sup>17</sup>Außerdem machte der König einen großen Thron aus Elfenbein
+und überzog ihn mit reinem Gold.
+<sup>18</sup>Der Thron hatte sechs Stufen und einen goldenen Fußschemel,
+die am Thron befestigt waren.
+Auf beiden Seiten des Sitzes waren Armlehnen,
+und neben den Armlehnen standen zwei Löwen.
+<sup>19</sup>Zwölf Löwen standen dort auf den sechs Stufen, auf der einen und auf der anderen Seite.
+So etwas wurde in keinem anderen Königreich gemacht.
+<sup>20</sup>Alle Trinkgefäße des Königs Salomo waren aus Gold,
+und alle Geräte im Libanonwaldhaus waren aus reinem Gold.
+Silber galt in den Tagen Salomos als nichts wert.
+<sup>21</sup>Denn der König hatte Schiffe, die mit den Dienern Hurams nach Tarschisch fuhren.
+Einmal in drei Jahren kamen die Tarschisch-Schiffe
+und brachten Gold, Silber, Elfenbein, Affen und Pfauen.
+
+> **Was bedeutet das?**
+> Salomo ist unvorstellbar reich. In der Bibel steht „666 Talente Gold“ (ein Talent sind etwa 34 Kilogramm), „600 Schekel“ und „300 Schekel“ (ein Schekel sind etwa 11 Gramm). In 1. Könige 10,17 stehen statt 300 Schekel „drei Minen“.
+> Die Schilde aus Gold waren nicht für den Kampf, sondern für Pracht und Feste.
+> Das Libanonwaldhaus war ein großer Saal im Palast Salomos, mit vielen Säulen aus Zedernholz.
+> In der Chronik fährt die Flotte „nach Tarschisch“. In 1. Könige 10,22 heißen sie nur „Tarschisch-Schiffe“, also große Schiffe für weite Fahrten. Wo Tarschisch lag, ist nicht sicher.
+> Bei „Pfauen“ ist die Übersetzung unsicher. Manche übersetzen „Paviane“.
+
+---
+
+### Salomos Weisheit und Macht (Vers 22–28)
+
+<sup>22</sup>So übertraf der König Salomo alle Könige der Erde an Reichtum und Weisheit.
+<sup>23</sup>Alle Könige der Erde wollten Salomo sehen,
+um seine Weisheit zu hören, die Gott ihm ins Herz gegeben hatte.
+<sup>24</sup>Jeder brachte jedes Jahr sein Geschenk:
+Geräte aus Silber, Geräte aus Gold, Kleider, Waffen, Gewürze, Pferde und Maultiere.
+<sup>25</sup>Salomo hatte 4000 Ställe für Pferde und Wagen und 12 000 Reiter.
+Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
+<sup>26</sup>Er herrschte über alle Könige vom Strom bis zum Land der Philister
+und bis an die Grenze Ägyptens.
+<sup>27</sup>Der König machte in Jerusalem das Silber so häufig wie Steine
+und die Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.
+<sup>28</sup>Man brachte Pferde für Salomo aus Ägypten und aus allen Ländern.
+
+> **Was bedeutet das?**
+> Gottes Versprechen aus Kapitel 1 hat sich erfüllt: Salomo ist reicher und weiser als alle Könige. Und Vers 23 betont: Seine Weisheit kam von Gott.
+> „Der Strom“ ist der Euphrat.
+> In 1. Könige 5,6 stehen 40 000 Ställe statt 4000.
+> Die Chronik erzählt nicht, dass Salomo später viele fremde Frauen hatte und fremden Göttern diente (1. Könige 11). Sie will Salomo vor allem als den Erbauer des Tempels zeigen. Sie setzt voraus, dass die Leser die andere Geschichte kennen.
+
+---
+
+### Salomos Tod (Vers 29–31)
+
+<sup>29</sup>Was sonst noch von Salomo zu erzählen ist, die früheren und die späteren Dinge,
+steht das nicht geschrieben in der Geschichte des Propheten Natan,
+in der Prophezeiung Ahijas aus Schilo
+und in den Visionen des Sehers Iddo über Jerobeam, den Sohn Nebats?
+<sup>30</sup>Salomo regierte vierzig Jahre in Jerusalem über ganz Israel.
+<sup>31</sup>Salomo legte sich zu seinen Vätern
+und wurde in der Stadt seines Vaters David begraben.
+Und sein Sohn Rehabeam wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Die Chronik nennt prophetische Bücher als Quellen. Sie sind heute verloren.
+> Ahija aus Schilo war der Prophet, der Jerobeam ankündigte, dass er König über die zehn Nordstämme wird (1. Könige 11,29–39).
+> Salomo regierte etwa von 970 bis 930 vor Christus.
