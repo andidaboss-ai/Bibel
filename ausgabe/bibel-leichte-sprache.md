@@ -53316,7 +53316,7 @@ wurden Kenanja und seine Söhne für die äußeren Aufgaben in Israel eingesetzt
 als Beamte und Richter.
 <sup>30</sup>Von den Hebronitern
 hatten Haschabja und seine Brüder, 1700 tüchtige Männer,
-die Aufsicht über Israel diesseits des Jordan, im Westen,
+die Aufsicht über Israel jenseits des Jordan, nach Westen,
 für alle Angelegenheiten des HERRN und für den Dienst des Königs.
 <sup>31</sup>Von den Hebronitern war Jerija das Oberhaupt,
 nach ihren Generationen und Familien.
@@ -53328,7 +53328,7 @@ für alle Angelegenheiten Gottes und für die Angelegenheiten des Königs.
 
 > **Was bedeutet das?**
 > Nicht alle Leviten arbeiteten im Tempel. Viele waren im ganzen Land als Beamte und Richter tätig. Sie kümmerten sich um religiöse Fragen und um Aufgaben für den König.
-> „Diesseits des Jordan, im Westen“: In der englischen Vorlage steht „jenseits des Jordan westwärts“. Gemeint ist das Land westlich des Jordan.
+> „Jenseits des Jordan, nach Westen“: Gemeint ist das Land westlich des Jordan. Für jemanden, der im Osten stand, lag es „jenseits“.
 > Im vierzigsten Jahr, also im letzten Jahr Davids, ordnete er das alles noch.
 
 ## 1. Chronik – Kapitel 27
