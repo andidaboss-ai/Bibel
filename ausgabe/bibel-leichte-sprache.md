@@ -55129,3 +55129,321 @@ Und sein Sohn Abija wurde an seiner Stelle König.
 > Vers 14 ist das Urteil über Rehabeam: „Er richtete sein Herz nicht darauf, den HERRN zu suchen.“ Das ist für die Chronik der entscheidende Maßstab. Nicht ein einzelner Fehler, sondern ein Herz, das Gott nicht sucht.
 > Rehabeam regierte etwa von 930 bis 913 vor Christus.
 > Abija heißt in 1. Könige 15,1 „Abijam“.
+
+## 2. Chronik – Kapitel 13
+#### Abija gegen Jerobeam
+
+---
+
+### Zwei Heere stehen sich gegenüber (Vers 1–3)
+
+<sup>1</sup>Im 18. Jahr des Königs Jerobeam
+wurde Abija König über Juda.
+<sup>2</sup>Er regierte drei Jahre in Jerusalem.
+Seine Mutter hieß Michaja, die Tochter Uriëls aus Gibea.
+Es war Krieg zwischen Abija und Jerobeam.
+<sup>3</sup>Abija zog in den Kampf mit einem Heer von tapferen Kriegern,
+400 000 ausgewählten Männern.
+Jerobeam stellte sich gegen ihn zum Kampf auf
+mit 800 000 ausgewählten Männern, starken, tapferen Kriegern.
+
+> **Was bedeutet das?**
+> Abija regierte etwa von 913 bis 910 vor Christus. In 1. Könige 15 heißt er „Abijam“, und dort wird er kurz und kritisch beurteilt: „Er wandelte in allen Sünden seines Vaters.“ Die Chronik erzählt dagegen eine Geschichte, in der Abija einmal ganz auf Gott vertraut.
+> Die Mutter heißt hier Michaja, Tochter Uriëls. In Kapitel 11,20 heißt sie Maacha. Wahrscheinlich ist es dieselbe Frau mit zwei Namensformen.
+> Die Zahlen sind riesig. Viele Fachleute meinen, dass das hebräische Wort für „tausend“ hier auch „Truppe“ oder „Einheit“ bedeuten kann. Wichtig ist die Aussage: Juda war nur halb so stark wie Israel.
+
+---
+
+### Abijas Rede auf dem Berg (Vers 4–12)
+
+<sup>4</sup>Abija stellte sich auf den Berg Zemarajim,
+der im Bergland Efraim liegt,
+und rief:
+„Hört mir zu, Jerobeam und ganz Israel!
+<sup>5</sup>Solltet ihr nicht wissen,
+dass der HERR, der Gott Israels,
+David das Königtum über Israel für immer gegeben hat,
+ihm und seinen Söhnen, durch einen Salzbund?
+<sup>6</sup>Doch Jerobeam, der Sohn Nebats,
+der Diener Salomos, des Sohnes Davids,
+erhob sich und lehnte sich gegen seinen Herrn auf.
+<sup>7</sup>Nichtsnutzige Männer, gemeine Leute, sammelten sich um ihn.
+Sie machten sich stark gegen Rehabeam, den Sohn Salomos,
+als Rehabeam noch jung und weichherzig war
+und sich nicht gegen sie wehren konnte.
+<sup>8</sup>Und jetzt wollt ihr euch dem Königtum des HERRN entgegenstellen,
+das in der Hand der Söhne Davids ist.
+Ihr seid eine große Menge,
+und bei euch sind die goldenen Kälber,
+die Jerobeam euch als Götter gemacht hat.
+<sup>9</sup>Habt ihr nicht die Priester des HERRN, die Söhne Aarons, und die Leviten vertrieben
+und euch selbst Priester gemacht wie die Völker anderer Länder?
+Jeder, der mit einem jungen Stier und sieben Widdern kommt, um sich weihen zu lassen,
+kann Priester werden für die, die keine Götter sind.
+<sup>10</sup>Aber bei uns ist der HERR unser Gott,
+und wir haben ihn nicht verlassen.
+Wir haben Priester, die dem HERRN dienen, die Söhne Aarons,
+und die Leviten bei ihrer Arbeit.
+<sup>11</sup>Sie verbrennen dem HERRN jeden Morgen und jeden Abend Brandopfer und duftenden Weihrauch.
+Sie legen auch die Schaubrote auf den reinen Tisch
+und kümmern sich um den goldenen Leuchter mit seinen Lampen,
+damit sie jeden Abend brennen.
+Denn wir halten die Weisung des HERRN, unseres Gottes,
+ihr aber habt ihn verlassen.
+<sup>12</sup>Schaut, Gott ist mit uns, an unserer Spitze,
+und seine Priester mit den Alarmtrompeten,
+um gegen euch Alarm zu blasen.
+Kinder Israels, kämpft nicht gegen den HERRN, den Gott eurer Väter!
+Denn es wird euch nicht gelingen.“
+
+> **Was bedeutet das?**
+> Bevor gekämpft wird, hält Abija eine Rede. Sie ist eine Art Predigt der Chronik.
+> Ein „Salzbund“ ist ein Bund, der für immer gilt. Salz macht haltbar und verdirbt nicht (vgl. 4. Mose 18,19).
+> Abija sagt: Das wahre Königtum ist eigentlich das Königtum Gottes. Und der wahre Gottesdienst findet in Jerusalem statt, mit den richtigen Priestern, den täglichen Opfern, den Schaubroten und dem Leuchter.
+> Im Norden dagegen konnte jeder Priester werden, der genug Tiere bezahlte. Und die goldenen Kälber nennt Abija „die, die keine Götter sind“.
+> Wichtig: Abija ruft die Menschen im Norden „Kinder Israels“. Er bittet sie: Kämpft nicht gegen Gott! Sie sind immer noch Brüder.
+> Abija spricht hart über Rehabeam als „jung und weichherzig“. Dabei war Rehabeam 41 Jahre alt, als er König wurde (Kapitel 12,13). Gemeint ist wohl: unerfahren und schwach.
+
+---
+
+### Juda schreit zu Gott (Vers 13–20)
+
+<sup>13</sup>Aber Jerobeam ließ einen Hinterhalt hinter sie kommen.
+So standen sie vor Juda, und der Hinterhalt war hinter ihnen.
+<sup>14</sup>Als Juda sich umsah, schau,
+da war der Kampf vor ihnen und hinter ihnen.
+Sie schrien zum HERRN,
+und die Priester bliesen die Trompeten.
+<sup>15</sup>Dann erhoben die Männer Judas ein Kriegsgeschrei.
+Als die Männer Judas schrien,
+schlug Gott Jerobeam und ganz Israel vor Abija und Juda.
+<sup>16</sup>Die Kinder Israels flohen vor Juda,
+und Gott gab sie in ihre Hand.
+<sup>17</sup>Abija und sein Volk schlugen sie mit einer großen Niederlage.
+500 000 ausgewählte Männer Israels fielen erschlagen.
+<sup>18</sup>So wurden die Kinder Israels damals gedemütigt,
+und die Kinder Judas wurden stark,
+weil sie sich auf den HERRN, den Gott ihrer Väter, verlassen hatten.
+<sup>19</sup>Abija verfolgte Jerobeam
+und nahm ihm Städte weg:
+Bethel mit seinen Dörfern,
+Jeschana mit seinen Dörfern
+und Efron mit seinen Dörfern.
+<sup>20</sup>Jerobeam kam in den Tagen Abijas nicht wieder zu Kräften.
+Der HERR schlug ihn, und er starb.
+
+> **Was bedeutet das?**
+> Juda ist umzingelt. Militärisch ist die Lage hoffnungslos. Aber sie schreien zu Gott. Das ist der entscheidende Satz in Vers 18: „weil sie sich auf den HERRN verlassen hatten“.
+> Die Chronik will damit Mut machen: Wer auf Gott vertraut, ist nicht verloren, auch wenn er schwächer ist.
+> Die Zahl der Toten ist erschreckend hoch. Auch hier gilt: Die Zahlen sind wahrscheinlich nicht genau gemeint. Trotzdem bleibt es traurig: Brüder kämpfen gegen Brüder. Die Bibel feiert hier nicht den Krieg, sondern das Vertrauen auf Gott.
+> Bethel war einer der beiden Orte, an denen Jerobeam ein goldenes Kalb aufgestellt hatte (1. Könige 12,29).
+> Jerobeam starb nicht sofort. Er lebte noch ein paar Jahre länger als Abija (1. Könige 14,20; 15,9). Die Chronik fasst sein Ende hier nur zusammen.
+
+---
+
+### Abijas Familie und Ende (Vers 21–22)
+
+<sup>21</sup>Aber Abija wurde stark.
+Er nahm sich 14 Frauen
+und zeugte 22 Söhne und 16 Töchter.
+<sup>22</sup>Die übrige Geschichte Abijas, seine Wege und seine Worte,
+sind aufgeschrieben in der Auslegung des Propheten Iddo.
+
+> **Was bedeutet das?**
+> Die „Auslegung des Propheten Iddo“ ist ein Buch, das es nicht mehr gibt. Die Chronik nennt oft Prophetenbücher als Quellen.
+> In der englischen Vorlage endet das Kapitel hier. In deutschen Bibeln ist der nächste Vers (Abijas Tod) noch Vers 23 dieses Kapitels.
+
+## 2. Chronik – Kapitel 14
+#### König Asa vertraut auf Gott
+
+---
+
+### Asa schafft die Götzen ab (Vers 1–5)
+
+<sup>1</sup>Abija legte sich zu seinen Vätern,
+und man begrub ihn in der Stadt Davids.
+Sein Sohn Asa wurde an seiner Stelle König.
+In seinen Tagen hatte das Land zehn Jahre lang Ruhe.
+<sup>2</sup>Asa tat, was gut und recht war in den Augen des HERRN, seines Gottes.
+<sup>3</sup>Denn er entfernte die fremden Altäre und die Opferhöhen,
+zerbrach die Steinsäulen
+und hieb die Aschera-Pfähle um.
+<sup>4</sup>Er befahl Juda,
+den HERRN, den Gott ihrer Väter, zu suchen
+und sein Gesetz und sein Gebot zu befolgen.
+<sup>5</sup>Er entfernte auch aus allen Städten Judas die Opferhöhen und die Sonnensäulen.
+Und das Königreich hatte unter ihm Ruhe.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln ist Vers 1 dieses Kapitels noch Kapitel 13,23. Darum sind die Verse in Kapitel 14 in deutschen Bibeln um eins verschoben: Vers 2 hier ist dort Vers 1 und so weiter.
+> Asa regierte etwa von 910 bis 869 vor Christus, also 41 Jahre.
+> „Aschera-Pfähle“ waren Holzpfähle für die Göttin Aschera. „Steinsäulen“ waren heilige Steine für fremde Götter. „Sonnensäulen“ waren wohl Räucheraltäre, vielleicht für einen Sonnengott.
+> Asa räumt auf. Aber er tut nicht nur etwas weg. Er ruft das Volk auch auf, Gott zu suchen. Das ist der Kern.
+
+---
+
+### Ruhe und Aufbau (Vers 6–8)
+
+<sup>6</sup>Er baute befestigte Städte in Juda,
+denn das Land hatte Ruhe,
+und er hatte in diesen Jahren keinen Krieg,
+weil der HERR ihm Ruhe gegeben hatte.
+<sup>7</sup>Denn er sagte zu Juda:
+„Lasst uns diese Städte bauen
+und Mauern um sie machen,
+mit Türmen, Toren und Riegeln.
+Noch liegt das Land vor uns,
+weil wir den HERRN, unseren Gott, gesucht haben.
+Wir haben ihn gesucht,
+und er hat uns ringsum Ruhe gegeben.“
+So bauten sie, und es gelang ihnen.
+<sup>8</sup>Asa hatte ein Heer:
+300 000 Mann aus Juda, die Langschilde und Speere trugen,
+und 280 000 Mann aus Benjamin, die Schilde trugen und den Bogen spannten.
+Alle diese waren starke, tapfere Krieger.
+
+> **Was bedeutet das?**
+> Asa nutzt die Friedenszeit klug. Er baut, solange Ruhe ist.
+> Er sagt deutlich, woher die Ruhe kommt: „Wir haben den HERRN gesucht, und er hat uns Ruhe gegeben.“
+> Juda trug lange Schilde und Speere für den Nahkampf. Benjamin war bekannt für seine Bogenschützen.
+
+---
+
+### Der Kuschit Serach greift an (Vers 9–15)
+
+<sup>9</sup>Serach, der Kuschit, zog gegen sie heraus
+mit einem Heer von einer Million Soldaten und 300 Wagen.
+Er kam bis Marescha.
+<sup>10</sup>Da zog Asa ihm entgegen,
+und sie stellten sich im Tal Zefata bei Marescha zum Kampf auf.
+<sup>11</sup>Asa schrie zum HERRN, seinem Gott, und sagte:
+„HERR, außer dir gibt es keinen, der helfen kann
+zwischen dem Starken und dem, der keine Kraft hat.
+Hilf uns, HERR, unser Gott!
+Denn wir verlassen uns auf dich,
+und in deinem Namen sind wir gegen diese Menge gezogen.
+HERR, du bist unser Gott.
+Lass nicht einen Menschen gegen dich stark sein!“
+<sup>12</sup>Da schlug der HERR die Kuschiten vor Asa und vor Juda,
+und die Kuschiten flohen.
+<sup>13</sup>Asa und das Volk, das bei ihm war, verfolgten sie bis Gerar.
+Es fielen so viele Kuschiten, dass sie sich nicht mehr erholen konnten,
+denn sie wurden zerschlagen vor dem HERRN und vor seinem Heer.
+Das Heer Judas trug sehr viel Beute davon.
+<sup>14</sup>Sie schlugen alle Städte rings um Gerar,
+denn der Schrecken des HERRN kam über sie.
+Sie plünderten alle Städte,
+denn es war viel Beute darin.
+<sup>15</sup>Sie schlugen auch die Zelte der Viehhirten
+und führten Schafe und Kamele in großer Menge weg.
+Dann kehrten sie nach Jerusalem zurück.
+
+> **Was bedeutet das?**
+> In der englischen Vorlage steht „der Äthiopier“. Gemeint ist ein Mann aus Kusch, dem Gebiet südlich von Ägypten. Wer Serach genau war, ist nicht sicher. Vielleicht war er ein Heerführer im Dienst Ägyptens, oder er führte Stämme aus der Gegend von Gerar im Süden an.
+> Asas Gebet in Vers 11 ist eines der schönsten Gebete in der Chronik. Asa sagt: Für dich, Gott, ist es egal, ob jemand stark oder schwach ist. Du kannst helfen. Und: Es geht nicht um uns, sondern um dich. Lass keinen Menschen gegen dich stark sein.
+> Dieses Gebet kann man auch heute beten, wenn man vor einem riesigen Problem steht.
+> Dass die Bibel Kämpfe und Plünderungen so erzählt, gehört zu jener alten Zeit. Es ist kein Vorbild für Gewalt heute. Die Botschaft ist: Vertrau auf Gott, auch wenn du schwach bist.
+
+## 2. Chronik – Kapitel 15
+#### Der Bund, Gott zu suchen
+
+---
+
+### Die Botschaft des Propheten Asarja (Vers 1–7)
+
+<sup>1</sup>Der Geist Gottes kam über Asarja, den Sohn Odeds.
+<sup>2</sup>Er ging hinaus, Asa entgegen, und sagte zu ihm:
+„Hört mir zu, Asa und ganz Juda und Benjamin!
+Der HERR ist mit euch, solange ihr mit ihm seid.
+Wenn ihr ihn sucht, wird er sich von euch finden lassen.
+Wenn ihr ihn aber verlasst, wird er euch verlassen.
+<sup>3</sup>Lange Zeit war Israel ohne den wahren Gott,
+ohne einen Priester, der lehrte,
+und ohne Gesetz.
+<sup>4</sup>Aber als sie in ihrer Not zum HERRN, dem Gott Israels, umkehrten
+und ihn suchten,
+ließ er sich von ihnen finden.
+<sup>5</sup>In jenen Zeiten gab es keinen Frieden für den, der hinausging,
+und nicht für den, der hereinkam.
+Sondern große Unruhen lagen auf allen Bewohnern der Länder.
+<sup>6</sup>Sie wurden zerschlagen, Volk gegen Volk und Stadt gegen Stadt,
+denn Gott brachte sie in Verwirrung durch jede Not.
+<sup>7</sup>Ihr aber, seid stark!
+Lasst eure Hände nicht schlaff werden,
+denn eure Arbeit wird belohnt werden.“
+
+> **Was bedeutet das?**
+> Asa hat gerade einen großen Sieg errungen. Jetzt kommt ein Prophet und sagt: Vergesst nicht, wem ihr den Sieg verdankt!
+> Vers 2 ist ein Kernsatz der ganzen Chronik: „Wenn ihr ihn sucht, wird er sich von euch finden lassen.“ Gott versteckt sich nicht vor denen, die ihn ehrlich suchen. Ähnlich sagt es später der Prophet Jeremia (29,13–14) und Jesus: „Sucht, so werdet ihr finden“ (Matthäus 7,7).
+> Die Verse 3–6 erinnern wohl an die Zeit der Richter. Damals gab es Chaos und Gewalt. Aber immer, wenn das Volk in der Not zu Gott schrie, half er.
+> Vers 7 ist eine Ermutigung: Gebt nicht auf! Eure Mühe ist nicht umsonst.
+
+---
+
+### Asa erneuert den Glauben (Vers 8–11)
+
+<sup>8</sup>Als Asa diese Worte und die Weissagung des Propheten Oded hörte,
+fasste er Mut
+und entfernte die Gräuelbilder aus dem ganzen Land Juda und Benjamin
+und aus den Städten, die er im Bergland Efraim erobert hatte.
+Und er erneuerte den Altar des HERRN, der vor der Vorhalle des HERRN stand.
+<sup>9</sup>Er versammelte ganz Juda und Benjamin
+und die Fremden, die bei ihnen wohnten, aus Efraim, Manasse und Simeon.
+Denn viele kamen aus Israel zu ihm über,
+als sie sahen, dass der HERR, sein Gott, mit ihm war.
+<sup>10</sup>So versammelten sie sich in Jerusalem im dritten Monat,
+im 15. Jahr der Regierung Asas.
+<sup>11</sup>Sie opferten dem HERRN an diesem Tag von der Beute, die sie mitgebracht hatten,
+700 Rinder und 7000 Schafe.
+
+> **Was bedeutet das?**
+> Vers 8 sagt „die Weissagung des Propheten Oded“. Vorher hieß der Prophet aber Asarja, der Sohn Odeds. Wahrscheinlich ist beim Abschreiben der Name „Asarja, der Sohn“ verloren gegangen. Manche alten Übersetzungen haben hier „Asarja, Sohn Odeds“.
+> „Gräuelbilder“ sind Götzenbilder, vor denen Gott Abscheu hat.
+> Wieder kommen Menschen aus dem Norden nach Juda, weil sie sehen: Gott ist mit Asa. Glaube, der echt gelebt wird, zieht andere an.
+> Der dritte Monat ist die Zeit des Wochenfestes (Schawuot, später Pfingsten).
+
+---
+
+### Der Bund (Vers 12–15)
+
+<sup>12</sup>Sie traten in den Bund ein,
+den HERRN, den Gott ihrer Väter, zu suchen,
+mit ihrem ganzen Herzen und mit ihrer ganzen Seele.
+<sup>13</sup>Und wer den HERRN, den Gott Israels, nicht suchen würde,
+sollte getötet werden,
+ob klein oder groß, ob Mann oder Frau.
+<sup>14</sup>Sie schworen dem HERRN mit lauter Stimme,
+mit Jubel, mit Trompeten und mit Hörnern.
+<sup>15</sup>Ganz Juda freute sich über den Schwur,
+denn sie hatten mit ihrem ganzen Herzen geschworen
+und ihn mit ihrem ganzen Willen gesucht.
+Und er ließ sich von ihnen finden.
+Der HERR gab ihnen ringsum Ruhe.
+
+> **Was bedeutet das?**
+> Das Volk verspricht feierlich, Gott von ganzem Herzen zu suchen. Es ist ein Fest der Freude.
+> Vers 13 ist schwer: Wer Gott nicht sucht, soll getötet werden. Das beruht auf dem alten Gesetz gegen den Götzendienst (5. Mose 13 und 17,2–7). In jener Zeit galt Götzendienst als Verrat am ganzen Volk.
+> Heute sagen Juden und Christen klar: Glaube darf niemals erzwungen werden. Gewalt im Namen Gottes ist falsch. Jesus hat niemanden gezwungen, ihm zu folgen. Glaube kann nur in Freiheit wachsen. Das sieht man auch in Vers 15: Das Entscheidende war, dass sie „mit ganzem Herzen“ und „mit ganzem Willen“ suchten. Das kann man nicht erzwingen.
+
+---
+
+### Asa und seine Mutter (Vers 16–19)
+
+<sup>16</sup>Auch Maacha, die Mutter des Königs Asa,
+setzte er ab, sodass sie nicht mehr Königinmutter war,
+weil sie ein abscheuliches Bild für die Aschera gemacht hatte.
+Asa hieb ihr Bild um, zermalmte es zu Staub
+und verbrannte es am Bach Kidron.
+<sup>17</sup>Aber die Opferhöhen wurden nicht aus Israel entfernt.
+Doch das Herz Asas war ungeteilt sein Leben lang.
+<sup>18</sup>Er brachte die Gaben, die sein Vater geweiht hatte,
+und die er selbst geweiht hatte,
+Silber, Gold und Geräte,
+in das Haus Gottes.
+<sup>19</sup>Es gab keinen Krieg mehr bis zum 35. Jahr der Regierung Asas.
+
+> **Was bedeutet das?**
+> Maacha war eigentlich Asas Großmutter (die Mutter Abijas, Kapitel 11,20). Im Hebräischen kann „Mutter“ auch „Großmutter“ bedeuten. Die „Königinmutter“ hatte am Hof großen Einfluss.
+> Asa handelt auch gegen seine eigene Familie, als es um Gott geht. Das war mutig.
+> Vers 17 scheint Kapitel 14,5 zu widersprechen, wo Asa die Opferhöhen entfernte. Eine Erklärung: Asa entfernte die Höhen für fremde Götter. Die Höhen, auf denen man dem HERRN opferte, blieben. Oder: „Israel“ meint hier die eroberten Gebiete im Norden.
+> „Sein Herz war ungeteilt“: In der englischen Vorlage steht „perfekt“. Gemeint ist nicht, dass Asa ohne Fehler war, sondern dass er Gott treu war. Kapitel 16 zeigt, dass Asa später doch Fehler machte.
