@@ -42547,3 +42547,373 @@ Denn sie sahen, dass die Weisheit Gottes in ihm war, um Recht zu sprechen.
 > Die echte Mutter will lieber ihr Kind verlieren als es sterben sehen. Ihre Liebe ist selbstlos. Die andere Frau will nur, dass keine das Kind bekommt. So zeigt sich die Wahrheit.
 > Das „hörende Herz“, um das Salomo gebeten hatte, zeigt sich hier: Er hört nicht nur auf die Worte, sondern auf das Herz.
 > Dieses „salomonische Urteil“ ist bis heute weltberühmt. Man sagt „ein salomonisches Urteil“, wenn jemand einen schwierigen Streit klug löst.
+
+## 1. Könige – Kapitel 4
+#### Salomos Reich und seine Weisheit
+
+---
+
+### Salomos oberste Beamte (Vers 1–6)
+
+<sup>1</sup>Der König Salomo war König über ganz Israel.
+<sup>2</sup>Das waren die Fürsten, die er hatte:
+Asarja, der Sohn von Zadok, der Priester;
+<sup>3</sup>Elihoref und Ahija, die Söhne von Schischa, Schreiber;
+Joschafat, der Sohn von Ahilud, Kanzler;
+<sup>4</sup>Benaja, der Sohn von Jojada, war über das Heer gesetzt;
+Zadok und Abjatar waren Priester;
+<sup>5</sup>Asarja, der Sohn von Natan, war über die Statthalter gesetzt;
+Sabud, der Sohn von Natan, war oberster Beamter, der Freund des Königs;
+<sup>6</sup>Ahischar war über den Palast gesetzt;
+und Adoniram, der Sohn von Abda, war über die Zwangsarbeiter gesetzt.
+
+> **Was bedeutet das?**
+> Salomo hat einen großen Hofstaat mit vielen Beamten. Das Königreich ist jetzt ein richtiger Staat.
+> Einige Namen kennen wir schon: Benaja, Zadok, Joschafat. Die Söhne von Natan sind vielleicht Söhne des Propheten Natan.
+> Abjatar wird noch als Priester genannt, obwohl Salomo ihn verbannt hatte (Kapitel 2,27). Die Liste stammt wohl aus verschiedenen Zeiten.
+> „Freund des Königs“ war ein Ehrentitel für einen engen Berater, wie Huschai bei David.
+> Adoniram leitet die Zwangsarbeit. Die Arbeitslast für das Volk wird unter Salomo immer schwerer. Das wird später zur Teilung des Reiches führen (Kapitel 12).
+
+---
+
+### Zwölf Statthalter (Vers 7–19)
+
+<sup>7</sup>Salomo hatte zwölf Statthalter über ganz Israel.
+Sie versorgten den König und seinen Hof mit Lebensmitteln.
+Jeder musste für einen Monat im Jahr die Versorgung übernehmen.
+<sup>8</sup>Das sind ihre Namen:
+Ben-Hur im Bergland Efraim;
+<sup>9</sup>Ben-Deker in Makaz, in Schaalbim, Bet-Schemesch und Elon-Bet-Hanan;
+<sup>10</sup>Ben-Hesed in Arubbot, ihm gehörten Socho und das ganze Land Hefer;
+<sup>11</sup>Ben-Abinadab im ganzen Hügelland von Dor, er hatte Tafat, die Tochter Salomos, zur Frau;
+<sup>12</sup>Baana, der Sohn von Ahilud, in Taanach und Megiddo
+und im ganzen Bet-Schean, das neben Zaretan liegt, unterhalb von Jesreel,
+von Bet-Schean bis Abel-Mehola, bis jenseits von Jokmeam;
+<sup>13</sup>Ben-Geber in Ramot in Gilead,
+ihm gehörten die Zeltdörfer von Jaïr, dem Sohn Manasses, die in Gilead liegen,
+und ihm gehörte die Gegend von Argob, die in Baschan liegt,
+sechzig große Städte mit Mauern und Riegeln aus Bronze;
+<sup>14</sup>Ahinadab, der Sohn von Iddo, in Mahanajim;
+<sup>15</sup>Ahimaaz in Naftali, er hatte auch Basemat, die Tochter Salomos, zur Frau;
+<sup>16</sup>Baana, der Sohn von Huschai, in Asser und in Bealot;
+<sup>17</sup>Joschafat, der Sohn von Paruach, in Issachar;
+<sup>18</sup>Schimi, der Sohn von Ela, in Benjamin;
+<sup>19</sup>Geber, der Sohn von Uri, im Land Gilead,
+dem Land von Sihon, dem König der Amoriter, und von Og, dem König von Baschan.
+Und er war der einzige Statthalter, der in diesem Land war.
+
+> **Was bedeutet das?**
+> Salomo teilt das Land in zwölf Bezirke. Jeder Bezirk muss einen Monat im Jahr den ganzen Königshof mit Essen versorgen. Das war eine Art Steuer.
+> Interessant: Die Bezirke folgen nicht genau den alten Stammesgrenzen. Und Juda, Salomos eigener Stamm, wird nicht genannt. Vielleicht musste Juda weniger zahlen. Das hat die Nordstämme später sehr verärgert.
+> Zwei Statthalter sind mit Töchtern Salomos verheiratet. So bindet Salomo wichtige Männer an seine Familie.
+> Ahimaaz ist vielleicht der Sohn Zadoks, der David als Bote gedient hatte (2. Samuel 18). Und Baana, der Sohn von Huschai, ist vielleicht der Sohn von Davids treuem Freund.
+
+---
+
+### Wohlstand und Frieden (Vers 20–28)
+
+<sup>20</sup>Juda und Israel waren so zahlreich wie der Sand am Meer.
+Sie aßen, tranken und waren fröhlich.
+<sup>21</sup>Salomo herrschte über alle Königreiche vom Strom bis zum Land der Philister
+und bis an die Grenze Ägyptens.
+Sie brachten Abgaben und dienten Salomo, solange er lebte.
+<sup>22</sup>Salomos Bedarf für einen Tag war etwa 6600 Liter Feinmehl, 60 Maß Mehl,
+<sup>23</sup>zehn gemästete Rinder, zwanzig Rinder von der Weide und hundert Schafe,
+außerdem Hirsche, Gazellen, Rehböcke und gemästetes Geflügel.
+<sup>24</sup>Denn er herrschte über das ganze Gebiet diesseits des Stromes,
+von Tifsach bis Gaza,
+über alle Könige diesseits des Stromes.
+Und er hatte Frieden ringsum.
+<sup>25</sup>Juda und Israel wohnten in Sicherheit,
+jeder unter seinem Weinstock und unter seinem Feigenbaum,
+von Dan bis Beerscheba, solange Salomo lebte.
+<sup>26</sup>Salomo hatte 40 000 Ställe für die Pferde seiner Wagen und 12 000 Reiter.
+<sup>27</sup>Diese Statthalter versorgten den König Salomo
+und alle, die an den Tisch des Königs Salomo kamen, jeder in seinem Monat.
+Sie ließen nichts fehlen.
+<sup>28</sup>Sie brachten auch Gerste und Stroh für die Pferde und für die schnellen Rosse
+an den Ort, wo die Statthalter waren, jeder nach seiner Pflicht.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln sind diese Verse schon Kapitel 5, Vers 1–8. Von hier bis zum Ende dieses Kapitels ist die Zählung um ein Kapitel verschoben.
+> Das ist die goldene Zeit Israels. Das Volk ist groß, es hat genug zu essen, es lebt in Frieden und Freude. Gottes Versprechen an Abraham scheint erfüllt: „zahlreich wie der Sand am Meer“ (1. Mose 22,17).
+> „Der Strom“ ist der Euphrat. Salomos Einfluss reicht vom Euphrat im Norden bis nach Ägypten im Süden.
+> „Jeder unter seinem Weinstock und unter seinem Feigenbaum“ ist ein Bild für Frieden und Wohlstand: Jeder kann in Ruhe von dem leben, was er anbaut. Die Propheten haben dieses Bild später für die Zeit des Friedens benutzt, die Gott schenken wird (Micha 4,4).
+> Der Hof Salomos verbraucht riesige Mengen. In der Bibel steht „30 Kor Feinmehl und 60 Kor Mehl“. Ein Kor sind etwa 220 Liter. 60 Kor sind also etwa 13 200 Liter. Daran sieht man, wie groß der Hofstaat war, vielleicht mehrere Tausend Menschen.
+> 40 000 Ställe: In 2. Chronik 9,25 steht 4000. Das passt besser zu den 12 000 Reitern.
+> Pferde und Wagen in großer Zahl: Davor hatte das Gesetz den König gewarnt (5. Mose 17,16). Hinter dem Glanz zeigen sich schon die ersten Schatten.
+
+---
+
+### Salomos Weisheit (Vers 29–34)
+
+<sup>29</sup>Gott gab Salomo sehr viel Weisheit und Einsicht
+und ein weites Herz, so weit wie der Sand am Ufer des Meeres.
+<sup>30</sup>Salomos Weisheit war größer als die Weisheit aller Völker des Ostens
+und als alle Weisheit Ägyptens.
+<sup>31</sup>Denn er war weiser als alle Menschen,
+weiser als Etan, der Esrachiter, und als Heman, Kalkol und Darda, die Söhne von Mahol.
+Und sein Ruhm war bei allen Völkern ringsum.
+<sup>32</sup>Er dichtete dreitausend Sprüche,
+und seine Lieder waren tausendundfünf.
+<sup>33</sup>Er redete über die Bäume,
+von der Zeder auf dem Libanon bis zum Ysop, der aus der Mauer wächst.
+Er redete auch über die Tiere, über die Vögel, über das Gewürm und über die Fische.
+<sup>34</sup>Aus allen Völkern kamen Menschen, um die Weisheit Salomos zu hören,
+geschickt von allen Königen der Erde, die von seiner Weisheit gehört hatten.
+
+> **Was bedeutet das?**
+> Salomos Weisheit war berühmt in der ganzen Welt. Damals gab es in Ägypten und im Osten, in Mesopotamien, berühmte Weisheitslehrer. Salomo übertrifft sie alle.
+> Etan und Heman waren berühmte weise Männer. Nach ihnen sind Psalm 88 und Psalm 89 benannt.
+> Salomo dichtete Sprüche und Lieder. Viele Sprüche im Buch der Sprüche werden ihm zugeschrieben (Sprüche 1,1), ebenso das Hohelied (Hohelied 1,1).
+> Salomo interessiert sich auch für die Natur: Pflanzen und Tiere. Die Zeder ist der größte und prächtigste Baum, der Ysop eine kleine Pflanze, die in Mauerritzen wächst. Er beobachtet alles, vom Größten bis zum Kleinsten. Weisheit in der Bibel bedeutet auch, Gottes Schöpfung zu verstehen.
+
+## 1. Könige – Kapitel 5
+#### Vorbereitungen für den Tempelbau
+
+---
+
+### Salomo schreibt an Hiram (Vers 1–6)
+
+<sup>1</sup>Hiram, der König von Tyrus, schickte seine Diener zu Salomo,
+denn er hatte gehört, dass man ihn an Stelle seines Vaters zum König gesalbt hatte.
+Und Hiram war David sein Leben lang freundlich gesinnt gewesen.
+<sup>2</sup>Salomo schickte zu Hiram und ließ ihm sagen:
+<sup>3</sup>„Du weißt, dass mein Vater David kein Haus für den Namen des HERRN, seines Gottes, bauen konnte,
+wegen der Kriege, die ihn ringsum umgaben,
+bis der HERR seine Feinde unter seine Fußsohlen gelegt hatte.
+<sup>4</sup>Aber jetzt hat mir der HERR, mein Gott, ringsum Ruhe gegeben.
+Es gibt keinen Feind und kein Unglück.
+<sup>5</sup>Und schau, ich habe vor, ein Haus für den Namen des HERRN, meines Gottes, zu bauen,
+so wie der HERR zu meinem Vater David gesagt hat:
+‚Dein Sohn, den ich an deiner Stelle auf deinen Thron setzen werde,
+der wird das Haus für meinen Namen bauen.‘
+<sup>6</sup>Darum befiehl jetzt, dass man mir Zedern auf dem Libanon fällt.
+Meine Diener sollen bei deinen Dienern sein.
+Und ich will dir den Lohn für deine Diener geben, ganz wie du sagst.
+Denn du weißt, dass es bei uns niemanden gibt, der so gut Holz fällen kann wie die Sidonier.“
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist dieses Kapitel anders gezählt. Vers 1 hier ist dort Kapitel 5, Vers 15. Vers 18 hier ist dort Vers 32.
+> Hiram war ein Freund von David. Er hatte David schon einen Palast gebaut (2. Samuel 5,11).
+> Salomo erklärt: Mein Vater konnte den Tempel nicht bauen, weil er Krieg führen musste. In 1. Chronik 22,8 steht noch ein anderer Grund: David hatte zu viel Blut vergossen.
+> Jetzt herrscht Frieden. Und Salomo erfüllt das Versprechen, das Gott David gegeben hatte (2. Samuel 7,13).
+> „Ein Haus für den Namen des HERRN“: Gott wohnt nicht wirklich in einem Haus wie ein Mensch. Aber sein „Name“, also seine Gegenwart, soll dort sein.
+> Die Sidonier, die Bewohner von Tyrus und Sidon, waren berühmte Handwerker und Seefahrer. Israel hatte selbst keine so guten Fachleute.
+
+---
+
+### Der Vertrag mit Hiram (Vers 7–12)
+
+<sup>7</sup>Als Hiram die Worte Salomos hörte, freute er sich sehr und sagte:
+„Gelobt sei heute der HERR,
+der David einen weisen Sohn gegeben hat, um über dieses große Volk zu herrschen.“
+<sup>8</sup>Hiram schickte zu Salomo und ließ ihm sagen:
+„Ich habe die Botschaft gehört, die du mir geschickt hast.
+Ich will alles tun, was du wünschst, beim Zedernholz und beim Zypressenholz.
+<sup>9</sup>Meine Diener werden es vom Libanon zum Meer hinunterbringen.
+Ich will es zu Flößen machen und auf dem Meer bis zu dem Ort bringen, den du mir nennst.
+Dort lasse ich sie auseinandernehmen, und du kannst das Holz holen.
+Und du sollst meinen Wunsch erfüllen und meinen Hof mit Lebensmitteln versorgen.“
+<sup>10</sup>So gab Hiram Salomo Zedernholz und Zypressenholz, so viel er wollte.
+<sup>11</sup>Und Salomo gab Hiram etwa 4,4 Millionen Liter Weizen als Nahrung für seinen Hof
+und etwa 4400 Liter reines Öl.
+Das gab Salomo Hiram Jahr für Jahr.
+<sup>12</sup>Der HERR gab Salomo Weisheit, wie er es ihm versprochen hatte.
+Und es war Frieden zwischen Hiram und Salomo,
+und die beiden schlossen einen Vertrag miteinander.
+
+> **Was bedeutet das?**
+> Hiram, ein König, der den HERRN nicht als seinen Gott verehrt, lobt den Gott Israels. Salomos Ruhm macht auch Gott bei anderen Völkern bekannt.
+> Es ist ein Handelsvertrag: Holz gegen Lebensmittel. Tyrus war eine Stadt am Meer mit wenig Ackerland. Israel hatte viel Getreide.
+> Das Holz wurde in Flößen auf dem Meer die Küste entlang transportiert, wohl bis Jafo. Von dort brachte man es nach Jerusalem (2. Chronik 2,15).
+> In der Bibel steht „20 000 Kor Weizen“ und „20 Kor Öl“. Ein Kor sind etwa 220 Liter. Die alte griechische Übersetzung und 2. Chronik 2,9 haben beim Öl eine viel größere Menge.
+> „Der HERR gab Salomo Weisheit“: Seine Weisheit zeigt sich auch darin, dass er Frieden mit den Nachbarn schließt.
+
+---
+
+### Die Zwangsarbeit (Vers 13–18)
+
+<sup>13</sup>Der König Salomo hob aus ganz Israel Zwangsarbeiter aus.
+Es waren 30 000 Mann.
+<sup>14</sup>Er schickte sie auf den Libanon, jeden Monat 10 000 im Wechsel.
+Einen Monat waren sie auf dem Libanon und zwei Monate zu Hause.
+Und Adoniram war über die Zwangsarbeiter gesetzt.
+<sup>15</sup>Salomo hatte 70 000 Lastträger
+und 80 000 Steinhauer im Gebirge,
+<sup>16</sup>außer den obersten Aufsehern Salomos, die über die Arbeit gesetzt waren:
+3300, die über das Volk herrschten, das an der Arbeit beschäftigt war.
+<sup>17</sup>Der König befahl,
+und sie brachen große Steine, kostbare Steine,
+um das Fundament des Hauses mit behauenen Steinen zu legen.
+<sup>18</sup>Die Bauleute Salomos, die Bauleute Hirams und die Leute aus Gebal
+behauten sie und bereiteten das Holz und die Steine vor, um das Haus zu bauen.
+
+> **Was bedeutet das?**
+> Für den Tempelbau braucht Salomo viele Arbeiter. Er zwingt Männer aus Israel zur Arbeit. Sie müssen abwechselnd einen Monat im Libanon arbeiten und dürfen dann zwei Monate nach Hause.
+> Das erinnert an Samuels Warnung: Der König wird eure Söhne für seine Arbeit nehmen (1. Samuel 8,16). Und es erinnert an die Zwangsarbeit, die Israel einst in Ägypten leisten musste (2. Mose 1,11). Der prächtige Tempel wurde mit der Last vieler Menschen gebaut.
+> In Kapitel 9,22 steht, dass Salomo keine Israeliten zu Sklaven machte. Wahrscheinlich waren die 150 000 Lastträger und Steinhauer vor allem Nicht-Israeliten, die noch im Land lebten (2. Chronik 2,16–17).
+> In 2. Chronik 2,17 steht 3600 Aufseher statt 3300.
+> Gebal ist die Stadt Byblos im heutigen Libanon. Ihre Bewohner waren berühmte Steinmetze.
+
+## 1. Könige – Kapitel 6
+#### Der Bau des Tempels
+
+---
+
+### Wann und wie groß (Vers 1–10)
+
+<sup>1</sup>Im vierhundertachtzigsten Jahr, nachdem die Israeliten aus dem Land Ägypten ausgezogen waren,
+im vierten Jahr der Regierung Salomos über Israel,
+im Monat Siw, das ist der zweite Monat,
+fing er an, das Haus des HERRN zu bauen.
+<sup>2</sup>Das Haus, das der König Salomo für den HERRN baute,
+war etwa 27 Meter lang, 9 Meter breit und 13,5 Meter hoch.
+<sup>3</sup>Die Vorhalle vor dem Hauptraum des Hauses war 9 Meter lang,
+entsprechend der Breite des Hauses,
+und 4,5 Meter tief vor dem Haus.
+<sup>4</sup>Er machte für das Haus Fenster mit festem Gitterwerk.
+<sup>5</sup>An der Wand des Hauses baute er ringsum Stockwerke,
+an den Wänden des Hauses ringsum, sowohl beim Hauptraum als auch beim innersten Raum.
+Und er machte ringsum Seitenräume.
+<sup>6</sup>Das unterste Stockwerk war 2,25 Meter breit,
+das mittlere 2,7 Meter breit
+und das dritte 3,15 Meter breit.
+Denn er machte außen ringsum an der Wand des Hauses Absätze,
+damit die Balken nicht in die Wände des Hauses eingelassen werden mussten.
+<sup>7</sup>Als das Haus gebaut wurde, baute man es aus Steinen,
+die schon im Steinbruch fertig behauen waren.
+Man hörte keinen Hammer, keine Axt und kein eisernes Werkzeug im Haus,
+während es gebaut wurde.
+<sup>8</sup>Die Tür zu den mittleren Seitenräumen war an der rechten Seite des Hauses.
+Man stieg auf Wendeltreppen zum mittleren Stockwerk hinauf
+und vom mittleren zum dritten.
+<sup>9</sup>So baute er das Haus und vollendete es.
+Er deckte das Haus mit Balken und Brettern aus Zedernholz.
+<sup>10</sup>Er baute die Stockwerke am ganzen Haus entlang, jedes 2,25 Meter hoch.
+Und sie ruhten mit Zedernbalken auf dem Haus.
+
+> **Was bedeutet das?**
+> Der Bau des Tempels ist ein Höhepunkt in der Geschichte Israels. Darum wird die Zeit genau angegeben: 480 Jahre nach dem Auszug aus Ägypten. 480 ist zwölf mal vierzig, zwölf Generationen von je 40 Jahren. Vielleicht ist die Zahl auch symbolisch gemeint. Die Gelehrten berechnen die Zeit des Tempelbaus meist auf etwa 960 vor Christus.
+> Der Monat Siw ist etwa April bis Mai, der Frühling.
+> In der Bibel stehen die Maße in Ellen. Eine Elle sind etwa 45 Zentimeter. Der Tempel war 60 Ellen lang, 20 breit und 30 hoch. Die Vorhalle war 20 mal 10 Ellen. Die Stockwerke waren 5, 6 und 7 Ellen breit und je 5 Ellen hoch.
+> Der Tempel war nicht riesig, etwa so groß wie eine kleine Kirche heute. Aber er war sehr prächtig. Er war nicht für große Versammlungen gedacht. Das Volk versammelte sich draußen in den Vorhöfen. Drinnen dienten nur die Priester.
+> Vers 7: Die Steine wurden schon im Steinbruch fertig behauen. Am Tempel selbst hörte man keinen Lärm von Werkzeugen. Gottes Haus sollte in Stille und Ehrfurcht gebaut werden. Eisen wurde auch mit Krieg und Waffen verbunden (vergleiche 2. Mose 20,25).
+
+---
+
+### Gottes Versprechen beim Bau (Vers 11–14)
+
+<sup>11</sup>Da kam das Wort des HERRN zu Salomo:
+<sup>12</sup>„Was dieses Haus betrifft, das du baust:
+Wenn du in meinen Ordnungen lebst
+und meine Rechtsordnungen tust
+und alle meine Gebote hältst und nach ihnen lebst,
+dann will ich an dir mein Wort erfüllen, das ich zu deinem Vater David gesagt habe.
+<sup>13</sup>Ich will mitten unter den Israeliten wohnen
+und mein Volk Israel nicht verlassen.“
+<sup>14</sup>So baute Salomo das Haus und vollendete es.
+
+> **Was bedeutet das?**
+> Mitten in der Baubeschreibung spricht Gott. Er erinnert Salomo: Nicht das prächtige Gebäude ist das Wichtigste, sondern der Gehorsam. Gott wohnt nicht wegen der Steine und des Goldes bei seinem Volk, sondern wenn das Volk ihm treu ist.
+> Die Propheten haben später gewarnt: Verlasst euch nicht auf den Tempel, als ob Gott euch schützen müsste, egal wie ihr lebt (Jeremia 7,4). Der Tempel wurde später tatsächlich zerstört, als das Volk Gott untreu wurde.
+
+---
+
+### Das Innere des Tempels (Vers 15–22)
+
+<sup>15</sup>Er baute die Wände des Hauses innen mit Brettern aus Zedernholz,
+vom Fußboden des Hauses bis zu den Balken der Decke.
+Er verkleidete sie innen mit Holz.
+Und den Fußboden des Hauses bedeckte er mit Brettern aus Zypressenholz.
+<sup>16</sup>Die hinteren 9 Meter des Hauses baute er mit Brettern aus Zedernholz,
+vom Fußboden bis zur Decke.
+Das baute er innen als innersten Raum, als das Allerheiligste.
+<sup>17</sup>Der Hauptraum davor war 18 Meter lang.
+<sup>18</sup>Innen am Haus war Zedernholz,
+geschnitzt mit Knospen und offenen Blüten.
+Alles war Zedernholz. Kein Stein war zu sehen.
+<sup>19</sup>Er richtete einen innersten Raum in der Mitte des Hauses ein,
+um dort die Lade des Bundes des HERRN aufzustellen.
+<sup>20</sup>Der innerste Raum war 9 Meter lang, 9 Meter breit und 9 Meter hoch.
+Er überzog ihn mit reinem Gold.
+Und den Altar verkleidete er mit Zedernholz.
+<sup>21</sup>So überzog Salomo das Haus innen mit reinem Gold.
+Er zog goldene Ketten vor dem innersten Raum entlang
+und überzog ihn mit Gold.
+<sup>22</sup>Das ganze Haus überzog er mit Gold, bis das ganze Haus fertig war.
+Auch den ganzen Altar, der zum innersten Raum gehörte, überzog er mit Gold.
+
+> **Was bedeutet das?**
+> Der Tempel hatte drei Teile: die Vorhalle, den Hauptraum, das Heilige, und ganz hinten das Allerheiligste.
+> In der Bibel steht: Das Allerheiligste war 20 Ellen lang, breit und hoch, ein vollkommener Würfel. Der Hauptraum war 40 Ellen lang. Der Würfel war ein Zeichen für Vollkommenheit. Auch das himmlische Jerusalem wird im Neuen Testament als Würfel beschrieben (Offenbarung 21,16).
+> Ins Allerheiligste kommt die Bundeslade. Dorthin durfte nur der Hohepriester, einmal im Jahr am Versöhnungstag (3. Mose 16).
+> Die Wände waren mit Zedernholz verkleidet, mit geschnitzten Blumen und Knospen, und alles mit Gold überzogen. Der Tempel erinnerte an einen Garten, wie der Garten Eden, wo Gott und Mensch sich begegneten.
+> Der „Altar“ vor dem Allerheiligsten war der Räucheraltar, auf dem Weihrauch verbrannt wurde.
+
+---
+
+### Die Cherubim (Vers 23–28)
+
+<sup>23</sup>Im innersten Raum machte er zwei Cherubim aus Olivenholz,
+jeder 4,5 Meter hoch.
+<sup>24</sup>Ein Flügel des einen Cherubs war 2,25 Meter lang,
+und der andere Flügel des Cherubs war 2,25 Meter lang.
+Von der Spitze des einen Flügels bis zur Spitze des anderen Flügels waren es 4,5 Meter.
+<sup>25</sup>Auch der andere Cherub maß 4,5 Meter.
+Beide Cherubim hatten dasselbe Maß und dieselbe Gestalt.
+<sup>26</sup>Der eine Cherub war 4,5 Meter hoch, und ebenso der andere Cherub.
+<sup>27</sup>Er stellte die Cherubim mitten in den innersten Raum.
+Die Flügel der Cherubim waren ausgebreitet,
+sodass der Flügel des einen die eine Wand berührte
+und der Flügel des anderen Cherubs die andere Wand berührte.
+Und ihre Flügel berührten sich in der Mitte des Raumes.
+<sup>28</sup>Er überzog die Cherubim mit Gold.
+
+> **Was bedeutet das?**
+> Cherubim sind Engelwesen mit Flügeln. Sie bewachten in der Bibel das Heilige. Nach dem Sündenfall bewachten Cherubim den Weg zum Baum des Lebens (1. Mose 3,24).
+> In der Bibel steht: Jeder Cherub war 10 Ellen hoch, jeder Flügel 5 Ellen lang. Zusammen reichten ihre Flügel von Wand zu Wand, über die ganze Breite des Allerheiligsten: 20 Ellen.
+> Unter den Flügeln der Cherubim stand die Bundeslade. Die Lade galt als der Fußschemel von Gottes Thron. Gott, so stellte man sich vor, thront unsichtbar über den Cherubim (1. Samuel 4,4).
+> Wichtig: Es gab kein Bild von Gott im Tempel. Der Platz über den Cherubim war leer. Gott kann man nicht abbilden (2. Mose 20,4).
+
+---
+
+### Schnitzereien und Türen (Vers 29–36)
+
+<sup>29</sup>An allen Wänden des Hauses ringsum schnitzte er Bilder von Cherubim,
+Palmen und offenen Blüten, innen und außen.
+<sup>30</sup>Den Fußboden des Hauses überzog er mit Gold, innen und außen.
+<sup>31</sup>Für den Eingang des innersten Raumes machte er Türen aus Olivenholz.
+Der Türsturz und die Türpfosten waren ein Fünftel der Wand.
+<sup>32</sup>So machte er zwei Türflügel aus Olivenholz.
+Er schnitzte darauf Bilder von Cherubim, Palmen und offenen Blüten
+und überzog sie mit Gold.
+Er hämmerte das Gold auf die Cherubim und auf die Palmen.
+<sup>33</sup>Auch für den Eingang des Hauptraums machte er Türpfosten aus Olivenholz,
+aus einem Viertel der Wand,
+<sup>34</sup>und zwei Türen aus Zypressenholz.
+Die beiden Flügel der einen Tür waren drehbar,
+und die beiden Flügel der anderen Tür waren drehbar.
+<sup>35</sup>Er schnitzte Cherubim, Palmen und offene Blüten
+und überzog sie mit Gold, das genau auf die Schnitzerei gelegt war.
+<sup>36</sup>Er baute den inneren Vorhof
+mit drei Lagen behauener Steine und einer Lage Zedernbalken.
+
+> **Was bedeutet das?**
+> Überall im Tempel sind Cherubim, Palmen und Blüten. Das ist wie ein Bild des Paradieses. Wer den Tempel betritt, soll sich fühlen wie im Garten Gottes.
+> „Ein Fünftel der Wand“ und „ein Viertel der Wand“: Die hebräischen Wörter in Vers 31 und 33 sind schwer zu verstehen. Vielleicht beschreiben sie die Form der Türrahmen.
+> Der „innere Vorhof“ war der Hof der Priester, direkt um den Tempel. Dort stand der große Brandopferaltar.
+
+---
+
+### Sieben Jahre Bauzeit (Vers 37–38)
+
+<sup>37</sup>Im vierten Jahr, im Monat Siw, wurde das Fundament des Hauses des HERRN gelegt.
+<sup>38</sup>Und im elften Jahr, im Monat Bul, das ist der achte Monat,
+wurde das Haus fertig, in allen seinen Teilen und nach allen seinen Plänen.
+So baute er sieben Jahre daran.
+
+> **Was bedeutet das?**
+> Der Monat Bul ist etwa Oktober bis November.
+> Vom vierten Jahr im zweiten Monat bis zum elften Jahr im achten Monat sind es genau gerechnet siebeneinhalb Jahre. Die Bibel sagt rund: sieben Jahre. Die Zahl sieben steht in der Bibel oft für Vollständigkeit, wie die sieben Tage der Schöpfung.
+> Im nächsten Kapitel werden wir lesen, dass Salomo an seinem eigenen Palast dreizehn Jahre baute, fast doppelt so lange (Kapitel 7,1).
