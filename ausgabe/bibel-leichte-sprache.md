@@ -41414,3 +41414,508 @@ Und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
 > Vers 19: Im hebräischen Text steht: „Elhanan erschlug Goliat aus Gat.“ In 1. Chronik 20,5 steht: „Elhanan erschlug Lachmi, den Bruder von Goliat.“ Die englische Vorlage hat die Worte „den Bruder von“ ergänzt, damit der Text nicht im Widerspruch zu 1. Samuel 17 steht. Die Ausleger erklären diese Stelle unterschiedlich.
 > Sechs Finger und sechs Zehen: Das gibt es bis heute manchmal bei Menschen. Es ist eine angeborene Besonderheit.
 > Die Botschaft: Nicht nur David konnte Riesen besiegen. Auch seine Männer, im Vertrauen auf Gott, schafften es.
+
+## 2. Samuel – Kapitel 22
+#### Davids Danklied: Der HERR ist mein Fels
+
+---
+
+### Der HERR ist mein Fels (Vers 1–4)
+
+<sup>1</sup>David sprach die Worte dieses Liedes zum HERRN,
+an dem Tag, an dem der HERR ihn aus der Hand aller seiner Feinde
+und aus der Hand Sauls gerettet hatte.
+<sup>2</sup>Er sagte:
+„Der HERR ist mein Fels, meine Burg und mein Retter, ja, meiner.
+<sup>3</sup>Gott ist mein Fels, bei dem ich Zuflucht suche,
+mein Schild und das Horn meiner Rettung,
+meine hohe Festung und meine Zuflucht.
+Mein Retter, du rettest mich vor Gewalt.
+<sup>4</sup>Ich rufe den HERRN an, der es wert ist, gelobt zu werden.
+So werde ich vor meinen Feinden gerettet.
+
+> **Was bedeutet das?**
+> Am Ende des Buches steht ein großes Danklied. Fast genau dasselbe Lied steht auch im Buch der Psalmen, als Psalm 18.
+> Es ist eines der ältesten Gebete der Bibel. David blickt zurück auf sein ganzes Leben: die Verfolgung durch Saul, die Kriege, die Gefahren. Und er sagt: Gott hat mich immer gerettet.
+> David benutzt viele Bilder für Gott: Fels, Burg, Schild, Festung, Zuflucht. Das sind Bilder für Sicherheit. Als David auf der Flucht war, versteckte er sich oft in Felsen und Bergfestungen. Aber er weiß: Der eigentliche Schutz war nicht der Fels, sondern Gott.
+> „Horn meiner Rettung“: Das Horn ist ein Bild für Kraft, wie bei Hanna (1. Samuel 2,1).
+
+---
+
+### In der Not rief ich zum HERRN (Vers 5–7)
+
+<sup>5</sup>Denn die Wellen des Todes umgaben mich.
+Die Fluten des Verderbens erschreckten mich.
+<sup>6</sup>Die Stricke des Totenreiches umschlangen mich.
+Die Schlingen des Todes fingen mich.
+<sup>7</sup>In meiner Not rief ich den HERRN an.
+Ja, ich rief zu meinem Gott.
+Er hörte meine Stimme aus seinem Tempel.
+Mein Schreien kam zu seinen Ohren.
+
+> **Was bedeutet das?**
+> David beschreibt Todesangst mit Bildern: wie ein Ertrinkender in den Wellen, wie ein Tier in der Falle.
+> „Totenreich“ heißt auf Hebräisch „Scheol“.
+> Und dann kommt der wichtigste Satz: „In meiner Not rief ich den HERRN an. Er hörte meine Stimme.“ Viele Menschen haben in schweren Zeiten diese Worte gebetet.
+> „Tempel“ meint hier Gottes Wohnung im Himmel. Den Tempel in Jerusalem gab es zu Davids Zeit noch nicht.
+
+---
+
+### Gott kommt zu Hilfe (Vers 8–20)
+
+<sup>8</sup>Da wankte und bebte die Erde.
+Die Grundfesten des Himmels zitterten und wankten,
+denn er war zornig.
+<sup>9</sup>Rauch stieg auf aus seiner Nase.
+Verzehrendes Feuer kam aus seinem Mund.
+Glühende Kohlen brannten davon.
+<sup>10</sup>Er neigte den Himmel und kam herab.
+Dunkle Wolken waren unter seinen Füßen.
+<sup>11</sup>Er ritt auf einem Cherub und flog.
+Ja, er erschien auf den Flügeln des Windes.
+<sup>12</sup>Er machte die Finsternis zu einem Zelt um sich herum,
+gesammelte Wasser und dichte Wolken des Himmels.
+<sup>13</sup>Vom Glanz vor ihm entbrannten glühende Kohlen.
+<sup>14</sup>Der HERR donnerte vom Himmel.
+Der Höchste ließ seine Stimme erschallen.
+<sup>15</sup>Er schoss Pfeile ab und zerstreute sie,
+Blitze, und brachte sie durcheinander.
+<sup>16</sup>Da wurden die Betten des Meeres sichtbar.
+Die Grundfesten der Welt wurden aufgedeckt
+durch das Schelten des HERRN,
+durch den Hauch des Atems seiner Nase.
+<sup>17</sup>Er griff von der Höhe herab und fasste mich.
+Er zog mich aus vielen Wassern.
+<sup>18</sup>Er rettete mich vor meinem starken Feind,
+vor denen, die mich hassten,
+denn sie waren mir zu mächtig.
+<sup>19</sup>Sie überfielen mich am Tag meines Unglücks,
+aber der HERR war meine Stütze.
+<sup>20</sup>Er führte mich hinaus in die Weite.
+Er rettete mich, denn er hatte Gefallen an mir.
+
+> **Was bedeutet das?**
+> Jetzt wird es dramatisch. Gott kommt vom Himmel herab wie ein gewaltiges Gewitter: Erdbeben, Feuer, Rauch, Donner, Blitze. Das sind Bilder, keine Beschreibung eines bestimmten Ereignisses. Sie sagen: Wenn ein Mensch zu Gott schreit, setzt Gott Himmel und Erde in Bewegung.
+> Die Bilder erinnern an den Berg Sinai (2. Mose 19) und an den Durchzug durch das Meer (2. Mose 14).
+> Und dann wird es ganz zart: Der große Gott greift herab und zieht einen einzelnen Menschen aus dem Wasser. Der Name Mose heißt „aus dem Wasser gezogen“.
+> „Er führte mich hinaus in die Weite“: Wer in Angst ist, fühlt sich eng. Gott schenkt Weite und Freiheit.
+> „Denn er hatte Gefallen an mir“: Gott rettet aus Liebe.
+
+---
+
+### Gott belohnt die Treue (Vers 21–28)
+
+<sup>21</sup>Der HERR hat mir vergolten nach meiner Gerechtigkeit.
+Er hat mir gelohnt nach der Reinheit meiner Hände.
+<sup>22</sup>Denn ich habe die Wege des HERRN eingehalten
+und bin nicht gottlos von meinem Gott abgewichen.
+<sup>23</sup>Denn alle seine Rechtsordnungen waren vor mir.
+Von seinen Geboten bin ich nicht abgewichen.
+<sup>24</sup>Ich war auch vollkommen vor ihm.
+Ich habe mich vor meiner Schuld gehütet.
+<sup>25</sup>Darum hat der HERR mir vergolten nach meiner Gerechtigkeit,
+nach meiner Reinheit vor seinen Augen.
+<sup>26</sup>Mit dem Barmherzigen zeigst du dich barmherzig.
+Mit dem vollkommenen Mann zeigst du dich vollkommen.
+<sup>27</sup>Mit dem Reinen zeigst du dich rein.
+Mit dem Verkehrten zeigst du dich listig.
+<sup>28</sup>Du rettest das gedemütigte Volk.
+Aber deine Augen sind auf die Hochmütigen gerichtet, um sie zu erniedrigen.
+
+> **Was bedeutet das?**
+> David sagt: Ich war gerecht, ich habe Gottes Gebote gehalten. Wie kann er das sagen, nach der Sache mit Batseba und Uria?
+> Vielleicht stammt das Lied aus der Zeit vor dieser Schuld, als David vor Saul floh und ihn zweimal verschonte. Damals war er wirklich unschuldig. Oder David meint damit seine grundsätzliche Treue zu Gott: Er hat nie fremden Göttern gedient. Und als er gesündigt hatte, hat er bereut. „Gerecht“ heißt in der Bibel nicht „ohne Fehler“, sondern: in der richtigen Beziehung zu Gott.
+> Vers 26 und 27 sagen: Gott begegnet jedem Menschen so, wie der Mensch selbst ist. Wer barmherzig ist, erfährt Barmherzigkeit. Wer falsch ist, wird mit seinen eigenen Waffen geschlagen.
+> Gott ist auf der Seite der Gedemütigten, nicht der Hochmütigen. Das hatte schon Hanna gesungen (1. Samuel 2,7–8).
+
+---
+
+### Mit meinem Gott springe ich über Mauern (Vers 29–37)
+
+<sup>29</sup>Denn du bist meine Lampe, HERR.
+Der HERR macht meine Finsternis hell.
+<sup>30</sup>Denn mit dir laufe ich gegen eine Schar an.
+Mit meinem Gott springe ich über eine Mauer.
+<sup>31</sup>Gottes Weg ist vollkommen.
+Das Wort des HERRN ist geprüft.
+Er ist ein Schild für alle, die bei ihm Zuflucht suchen.
+<sup>32</sup>Denn wer ist Gott außer dem HERRN?
+Und wer ist ein Fels außer unserem Gott?
+<sup>33</sup>Gott ist meine starke Festung.
+Er macht meinen Weg vollkommen.
+<sup>34</sup>Er macht seine Füße wie die Füße der Hirschkühe
+und stellt mich auf meine Höhen.
+<sup>35</sup>Er lehrt meine Hände kämpfen,
+sodass meine Arme einen Bogen aus Bronze spannen.
+<sup>36</sup>Du hast mir auch den Schild deiner Rettung gegeben.
+Deine Sanftmut hat mich groß gemacht.
+<sup>37</sup>Du hast meinen Schritten unter mir weiten Raum gegeben.
+Meine Füße sind nicht gestrauchelt.
+
+> **Was bedeutet das?**
+> „Du bist meine Lampe“: Gott macht das Dunkle hell. In Kapitel 21,17 wurde David selbst „die Lampe Israels“ genannt. Aber David weiß: Sein Licht kommt von Gott.
+> „Mit meinem Gott springe ich über eine Mauer“: Dieser Satz ist sehr bekannt geworden. Er bedeutet: Mit Gott kann ich Hindernisse überwinden, die unüberwindbar scheinen. Viele Menschen haben ihn sich als Mutmacher aufgeschrieben.
+> „Füße wie die Hirschkühe“: Hirschkühe klettern sicher auf steilen Felsen, ohne abzustürzen. So gibt Gott sicheren Halt.
+> „Deine Sanftmut hat mich groß gemacht“: Ein schöner Gedanke. Nicht Gottes Macht allein, sondern seine Güte und Freundlichkeit haben David groß gemacht.
+> „Seine Füße“ in Vers 34: So steht es im hebräischen Haupttext. Psalm 18,34 hat „meine Füße“.
+
+---
+
+### Sieg über die Feinde (Vers 38–46)
+
+<sup>38</sup>Ich habe meine Feinde verfolgt und vernichtet.
+Ich bin nicht umgekehrt, bis sie aufgerieben waren.
+<sup>39</sup>Ich habe sie aufgerieben und durchbohrt, sodass sie nicht mehr aufstehen können.
+Ja, sie sind unter meine Füße gefallen.
+<sup>40</sup>Denn du hast mich mit Kraft für den Kampf ausgerüstet.
+Du hast die unter mich gebeugt, die sich gegen mich erhoben.
+<sup>41</sup>Du hast auch meine Feinde vor mir fliehen lassen,
+damit ich die vernichte, die mich hassen.
+<sup>42</sup>Sie schauten aus, aber da war niemand, der rettete,
+sogar zum HERRN, aber er antwortete ihnen nicht.
+<sup>43</sup>Da zerrieb ich sie so fein wie den Staub der Erde.
+Ich zertrat sie wie den Schmutz der Straßen und verstreute sie.
+<sup>44</sup>Du hast mich auch aus den Streitigkeiten meines Volkes gerettet.
+Du hast mich zum Haupt der Völker bewahrt.
+Ein Volk, das ich nicht kannte, wird mir dienen.
+<sup>45</sup>Die Fremden werden sich mir unterwerfen.
+Sobald sie von mir hören, werden sie mir gehorchen.
+<sup>46</sup>Die Fremden werden verwelken
+und zitternd aus ihren Burgen hervorkommen.
+
+> **Was bedeutet das?**
+> Dieser Teil ist ein Siegeslied, wie es Könige damals sangen. Die Sprache ist hart und kriegerisch. Sie spiegelt die Welt Davids, in der um das Überleben gekämpft wurde.
+> David gibt Gott die Ehre für jeden Sieg: „Du hast mich ausgerüstet.“
+> „Die Streitigkeiten meines Volkes“: Damit sind wohl die Aufstände von Absalom und Scheba gemeint.
+> Wir lesen diese Verse als Dank eines Königs für Rettung aus großer Gefahr, nicht als Aufforderung, Feinde zu vernichten. Jesus lehrt: „Liebt eure Feinde“ (Matthäus 5,44).
+
+---
+
+### Lob für Gottes Treue (Vers 47–51)
+
+<sup>47</sup>Der HERR lebt!
+Gepriesen sei mein Fels!
+Erhoben sei Gott, der Fels meiner Rettung,
+<sup>48</sup>der Gott, der mir Recht verschafft
+und Völker unter mich beugt,
+<sup>49</sup>der mich von meinen Feinden wegführt.
+Ja, du erhebst mich über die, die sich gegen mich erheben.
+Du rettest mich vor dem gewalttätigen Mann.
+<sup>50</sup>Darum will ich dir danken, HERR, unter den Völkern
+und deinem Namen Loblieder singen.
+<sup>51</sup>Er schenkt seinem König große Rettung
+und erweist seinem Gesalbten Güte,
+David und seinen Nachkommen, für immer.“
+
+> **Was bedeutet das?**
+> Das Lied endet, wie es begonnen hat: mit dem Bild vom Fels. Gott ist der feste Grund in Davids Leben.
+> „Ich will dir danken unter den Völkern“: Nicht nur Israel, sondern alle Völker sollen von Gott hören. Paulus zitiert diesen Vers im Brief an die Römer. Er sagt: Durch Jesus sollen auch die Menschen aus allen Völkern Gott loben (Römer 15,9).
+> Der letzte Vers erinnert an Gottes Versprechen in Kapitel 7: Gottes Güte bleibt bei David und seinen Nachkommen für immer. „Seinem Gesalbten“, auf Hebräisch „seinem Maschiach“, Messias.
+
+## 2. Samuel – Kapitel 23
+#### Davids letzte Worte und seine Helden
+
+---
+
+### Davids letzte Worte (Vers 1–7)
+
+<sup>1</sup>Das sind die letzten Worte Davids:
+„So spricht David, der Sohn Isais,
+so spricht der Mann, der hoch erhoben wurde,
+der Gesalbte des Gottes Jakobs,
+der liebliche Sänger Israels:
+<sup>2</sup>Der Geist des HERRN hat durch mich geredet.
+Sein Wort war auf meiner Zunge.
+<sup>3</sup>Der Gott Israels hat gesagt,
+der Fels Israels hat zu mir geredet:
+‚Wer gerecht über die Menschen herrscht,
+wer in der Furcht Gottes herrscht,
+<sup>4</sup>der ist wie das Licht am Morgen, wenn die Sonne aufgeht,
+ein Morgen ohne Wolken,
+wenn das zarte Gras aus der Erde sprießt,
+durch den hellen Glanz nach dem Regen.‘
+<sup>5</sup>Steht nicht mein Haus so vor Gott?
+Er hat ja mit mir einen ewigen Bund geschlossen,
+in allem geordnet und sicher.
+Denn er ist meine ganze Rettung und all mein Verlangen.
+Wird er es nicht wachsen lassen?
+<sup>6</sup>Aber alle Gottlosen sind wie Dornen, die man wegwirft,
+denn man kann sie nicht mit der Hand anfassen.
+<sup>7</sup>Der Mann, der sie anfasst, muss sich mit Eisen und dem Schaft eines Speeres bewaffnen.
+Und sie werden an ihrem Ort ganz mit Feuer verbrannt.“
+
+> **Was bedeutet das?**
+> Das sind Davids letzte Worte, wie ein geistliches Testament. David blickt auf sein Leben zurück: Gott hat mich, den Hirtenjungen, „hoch erhoben“.
+> „Der liebliche Sänger Israels“: So erinnert man sich an David bis heute. Viele Psalmen werden ihm zugeschrieben.
+> „Der Geist des HERRN hat durch mich geredet“: David versteht sich auch als Prophet.
+> Das Bild vom guten König ist wunderschön: Ein gerechter Herrscher ist wie ein klarer Sonnenaufgang nach dem Regen, wenn alles frisch und grün wird. Gute Führung bringt Leben und Wachstum für alle.
+> „Steht nicht mein Haus so vor Gott?“: Das kann man als Frage oder als Bekenntnis verstehen. David weiß, dass er nicht immer ein guter König war. Aber er vertraut auf Gottes „ewigen Bund“ (Kapitel 7). Nicht seine eigene Leistung, sondern Gottes Treue ist seine Hoffnung.
+> Die Gottlosen sind wie Dornengestrüpp, das man nicht anfassen kann und das schließlich verbrannt wird.
+
+---
+
+### Die drei Helden (Vers 8–12)
+
+<sup>8</sup>Das sind die Namen der Helden, die David hatte:
+Joscheb-Baschebet, der Tachkemoniter, der Oberste der Anführer.
+Er wurde Adino, der Ezniter, genannt.
+Er erschlug achthundert auf einmal.
+<sup>9</sup>Nach ihm kam Eleasar, der Sohn von Dodai, dem Sohn eines Ahoachiters.
+Er war einer der drei Helden bei David,
+als sie die Philister verhöhnten, die sich dort zum Kampf versammelt hatten,
+und die Männer Israels sich zurückgezogen hatten.
+<sup>10</sup>Er stand auf und schlug die Philister,
+bis seine Hand müde war und seine Hand am Schwert klebte.
+Und der HERR wirkte an diesem Tag einen großen Sieg.
+Und das Volk kehrte hinter ihm zurück, nur um zu plündern.
+<sup>11</sup>Nach ihm kam Schamma, der Sohn von Age, der Harariter.
+Die Philister hatten sich zu einer Schar versammelt.
+Dort war ein Stück Feld voller Linsen.
+Und das Volk floh vor den Philistern.
+<sup>12</sup>Aber er stellte sich mitten auf das Feld und verteidigte es
+und erschlug die Philister.
+Und der HERR wirkte einen großen Sieg.
+
+> **Was bedeutet das?**
+> Jetzt folgt eine Liste von Davids berühmtesten Kriegern. Ohne sie wäre David nicht König geworden. Die Bibel vergisst die Menschen nicht, die im Hintergrund treu waren.
+> Die Namen in Vers 8 sind im Hebräischen schwer zu verstehen. In 1. Chronik 11,11 heißt der Mann „Jaschobeam“, und dort tötet er 300 Mann.
+> Eleasar kämpft so lange, bis seine Hand am Schwert festklebt, wie ein Krampf. Schamma verteidigt allein ein Linsenfeld, während alle anderen fliehen.
+> Zweimal steht: „Der HERR wirkte einen großen Sieg.“ Die Helden waren tapfer, aber den Sieg gab Gott.
+
+---
+
+### Wasser aus Betlehem (Vers 13–17)
+
+<sup>13</sup>Drei von den dreißig Obersten zogen hinab
+und kamen zur Erntezeit zu David in die Höhle Adullam.
+Die Schar der Philister lagerte im Tal Refaïm.
+<sup>14</sup>David war damals in der Bergfestung,
+und ein Posten der Philister war damals in Betlehem.
+<sup>15</sup>David sagte voller Sehnsucht:
+„Wenn mir doch jemand Wasser zu trinken gäbe
+aus dem Brunnen von Betlehem, der am Tor ist!“
+<sup>16</sup>Da brachen die drei Helden durch das Lager der Philister hindurch,
+schöpften Wasser aus dem Brunnen von Betlehem, der am Tor ist,
+nahmen es und brachten es David.
+Aber er wollte es nicht trinken,
+sondern goss es für den HERRN aus.
+<sup>17</sup>Er sagte:
+„Das sei fern von mir, HERR, dass ich das tue!
+Ist das nicht das Blut der Männer, die ihr Leben aufs Spiel gesetzt haben, um hinzugehen?“
+Und er wollte es nicht trinken.
+Das taten die drei Helden.
+
+> **Was bedeutet das?**
+> Das ist eine wunderschöne Geschichte aus der Zeit, als David auf der Flucht war.
+> David denkt an seine Heimat Betlehem. Er sagt einfach so, voller Heimweh: Ich hätte so gern Wasser aus dem Brunnen meiner Kindheit.
+> Drei seiner Männer hören das. Und sie riskieren ihr Leben, brechen durch das Lager der Feinde und holen das Wasser. Aus Liebe zu ihrem Anführer.
+> Aber David trinkt es nicht. Er sagt: Dieses Wasser ist so kostbar wie das Leben dieser Männer. Es ist zu wertvoll für mich. Es gehört Gott. Und er gießt es als Opfer für Gott auf die Erde.
+> David ehrt damit die Treue seiner Männer. Er zeigt: Ihr Leben ist mir wichtiger als mein Durst. Ein guter Anführer missbraucht die Liebe seiner Leute nicht.
+
+---
+
+### Abischai und Benaja (Vers 18–23)
+
+<sup>18</sup>Abischai, der Bruder Joabs, der Sohn der Zeruja,
+war der Anführer der Drei.
+Er schwang seinen Speer gegen dreihundert und erschlug sie.
+Und er hatte einen Namen unter den Dreien.
+<sup>19</sup>War er nicht der Angesehenste unter den Dreien?
+Darum wurde er ihr Anführer.
+Aber an die Drei reichte er nicht heran.
+<sup>20</sup>Benaja, der Sohn von Jojada, der Sohn eines tapferen Mannes aus Kabzeel,
+der große Taten vollbracht hatte,
+erschlug die beiden Söhne von Ariël aus Moab.
+Er stieg auch hinab und erschlug an einem Schneetag einen Löwen mitten in einer Grube.
+<sup>21</sup>Er erschlug einen riesigen Ägypter.
+Der Ägypter hatte einen Speer in seiner Hand.
+Aber er ging mit einem Stock zu ihm hinab,
+riss dem Ägypter den Speer aus der Hand
+und tötete ihn mit seinem eigenen Speer.
+<sup>22</sup>Das tat Benaja, der Sohn von Jojada.
+Und er hatte einen Namen unter den drei Helden.
+<sup>23</sup>Er war angesehener als die Dreißig,
+aber an die Drei reichte er nicht heran.
+David setzte ihn über seine Leibwache.
+
+> **Was bedeutet das?**
+> In Vers 18 steht in der englischen Vorlage „der Drei“. Viele Handschriften haben hier „der Dreißig“. Das passt besser, denn Abischai „reichte nicht an die Drei heran“ (Vers 19).
+> Benaja ist ein besonders mutiger Mann. Einen Löwen in einer Grube, an einem Schneetag, wo man leicht ausrutscht: Das ist fast unmöglich. Und gegen einen bewaffneten Riesen geht er nur mit einem Stock, wie David mit seiner Schleuder gegen Goliat.
+> Benaja wird später unter Salomo der oberste Heerführer, als Nachfolger von Joab (1. Könige 2,35).
+
+---
+
+### Die Dreißig (Vers 24–39)
+
+<sup>24</sup>Asahel, der Bruder Joabs, war einer der Dreißig.
+Elhanan, der Sohn von Dodo aus Betlehem,
+<sup>25</sup>Schamma, der Haroditer, Elika, der Haroditer,
+<sup>26</sup>Helez, der Paltiter, Ira, der Sohn von Ikkesch, der Tekoiter,
+<sup>27</sup>Abiëser, der Anatotiter, Mebunnai, der Huschatiter,
+<sup>28</sup>Zalmon, der Ahoachiter, Mahrai, der Netofatiter,
+<sup>29</sup>Heleb, der Sohn von Baana, der Netofatiter,
+Ittai, der Sohn von Ribai aus Gibea, von den Benjaminitern,
+<sup>30</sup>Benaja, ein Piratoniter, Hiddai aus den Tälern von Gaasch,
+<sup>31</sup>Abi-Albon, der Arbatiter, Asmawet, der Barhumiter,
+<sup>32</sup>Eljachba, der Schaalboniter,
+die Söhne von Jaschen, Jonatan,
+<sup>33</sup>Schamma, der Harariter, Ahiam, der Sohn von Scharar, der Harariter,
+<sup>34</sup>Elifelet, der Sohn von Ahasbai, dem Sohn des Maachatiters,
+Eliam, der Sohn von Ahitofel, der Giloniter,
+<sup>35</sup>Hezro, der Karmeliter, Paarai, der Arbiter,
+<sup>36</sup>Jigal, der Sohn von Natan aus Zoba, Bani, der Gaditer,
+<sup>37</sup>Zelek, der Ammoniter,
+Nachrai, der Beerotiter, die Waffenträger von Joab, dem Sohn der Zeruja,
+<sup>38</sup>Ira, der Jitriter, Gareb, der Jitriter,
+<sup>39</sup>und Uria, der Hetiter.
+Zusammen siebenunddreißig.
+
+> **Was bedeutet das?**
+> Das ist eine Liste der „Dreißig“, Davids Elitetruppe. „Die Dreißig“ war wohl der Name der Gruppe, auch wenn es mal mehr, mal weniger Männer waren.
+> Asahel steht am Anfang. Er war schon früh gestorben (Kapitel 2,23). Die Liste ehrt auch die Toten.
+> Unter den Helden sind auch Ausländer: ein Ammoniter, ein Mann aus Zoba in Syrien und Uria, der Hetiter.
+> Eliam, der Sohn von Ahitofel, war wohl der Vater von Batseba (Kapitel 11,3).
+> Und am Ende steht ein Name, der wie ein Stich ins Herz ist: „Uria, der Hetiter.“ Der treue Soldat, den David töten ließ. Die Bibel setzt ihn bewusst an das Ende dieser Ehrenliste. Er wird nicht vergessen. Und Davids Schuld wird nicht verschwiegen.
+> „Zusammen siebenunddreißig“: Wenn man die Drei, Abischai und Benaja zu den Namen dieser Liste dazuzählt, kommt man ungefähr auf diese Zahl. Wie genau gezählt wurde, ist unsicher.
+
+## 2. Samuel – Kapitel 24
+#### Die Volkszählung und der Altar auf der Tenne
+
+---
+
+### David lässt das Volk zählen (Vers 1–9)
+
+<sup>1</sup>Wieder entbrannte der Zorn des HERRN gegen Israel.
+Und er reizte David gegen sie und sagte:
+„Geh, zähle Israel und Juda.“
+<sup>2</sup>Der König sagte zu Joab, dem Heerführer, der bei ihm war:
+„Geh doch umher durch alle Stämme Israels, von Dan bis Beerscheba,
+und zählt das Volk,
+damit ich die Zahl des Volkes weiß.“
+<sup>3</sup>Joab sagte zum König:
+„Der HERR, dein Gott, möge das Volk hundertmal mehr machen, als es jetzt ist,
+und die Augen meines Herrn, des Königs, mögen es sehen.
+Aber warum hat mein Herr, der König, Gefallen an dieser Sache?“
+<sup>4</sup>Doch das Wort des Königs setzte sich gegen Joab und gegen die Heerführer durch.
+Joab und die Heerführer gingen vom König weg, um das Volk Israel zu zählen.
+<sup>5</sup>Sie gingen über den Jordan
+und lagerten in Aroër, rechts von der Stadt, die mitten im Tal von Gad liegt, und in Richtung Jaser.
+<sup>6</sup>Dann kamen sie nach Gilead und in das Land Tachtim-Hodschi.
+Und sie kamen nach Dan-Jaan und herum nach Sidon.
+<sup>7</sup>Und sie kamen zur Festung Tyrus und zu allen Städten der Hiwiter und der Kanaaniter.
+Und sie zogen hinaus in den Süden von Juda, nach Beerscheba.
+<sup>8</sup>Als sie durch das ganze Land gezogen waren,
+kamen sie nach neun Monaten und zwanzig Tagen nach Jerusalem.
+<sup>9</sup>Joab gab dem König die Zahl der Zählung des Volkes.
+In Israel waren es 800 000 kriegstüchtige Männer, die das Schwert führen konnten,
+und die Männer von Juda waren 500 000 Mann.
+
+> **Was bedeutet das?**
+> Warum ist eine Volkszählung eine Sünde? Die Bibel sagt es nicht genau. Wahrscheinlich ging es darum, dass David wissen wollte, wie stark seine Armee war. Er wollte sich auf die Zahl seiner Soldaten verlassen, nicht auf Gott. Es war eine Zählung für Krieg und Steuern, aus Stolz.
+> Sogar Joab, der sonst wenig Bedenken hat, warnt David: Warum willst du das?
+> Vers 1 ist sehr schwer: „Der HERR reizte David.“ Wie kann Gott jemanden zu einer Sünde verleiten? In 1. Chronik 21,1, wo dieselbe Geschichte erzählt wird, steht: „Satan stand auf gegen Israel und reizte David.“ Die Bibel ringt hier selbst mit der Frage, woher das Böse kommt. Im älteren Text wird alles auf Gott zurückgeführt, weil Gott über allem steht. Der spätere Text sagt genauer: Der Verführer war Satan, aber Gott ließ es zu.
+> Die Zählung dauert fast zehn Monate. Die Zahlen sind sehr hoch. In 1. Chronik 21,5 stehen andere Zahlen: 1 100 000 für Israel und 470 000 für Juda.
+
+---
+
+### Davids Reue und drei Strafen (Vers 10–14)
+
+<sup>10</sup>Davids Herz schlug ihn, nachdem er das Volk gezählt hatte.
+David sagte zum HERRN:
+„Ich habe schwer gesündigt mit dem, was ich getan habe.
+Aber jetzt, HERR, nimm doch die Schuld deines Knechtes weg,
+denn ich habe sehr töricht gehandelt.“
+<sup>11</sup>Als David am Morgen aufstand,
+kam das Wort des HERRN zum Propheten Gad, dem Seher Davids:
+<sup>12</sup>„Geh und sag zu David:
+‚So spricht der HERR:
+„Ich lege dir drei Dinge vor.
+Wähle dir eins davon aus, damit ich es dir antue.“‘“
+<sup>13</sup>Da kam Gad zu David, berichtete es ihm und sagte:
+„Sollen sieben Jahre Hungersnot über dein Land kommen?
+Oder willst du drei Monate vor deinen Feinden fliehen, während sie dich verfolgen?
+Oder soll drei Tage lang eine Seuche in deinem Land sein?
+Jetzt überlege und sieh, welche Antwort ich dem bringen soll, der mich gesandt hat.“
+<sup>14</sup>David sagte zu Gad:
+„Ich bin in großer Not.
+Lasst uns doch in die Hand des HERRN fallen,
+denn seine Barmherzigkeit ist groß.
+Aber in die Hand von Menschen will ich nicht fallen.“
+
+> **Was bedeutet das?**
+> Wieder schlägt Davids Gewissen, wie damals in der Höhle bei Saul (1. Samuel 24,6). David bereut sofort. Er versucht nicht, sich herauszureden.
+> Gott lässt David wählen. In 1. Chronik 21,12 sind es drei Jahre Hungersnot statt sieben. Die alte griechische Übersetzung hat auch hier drei.
+> David wählt die Seuche. Seine Begründung ist ein tiefes Bekenntnis: Lieber falle ich in Gottes Hand als in die Hand von Menschen, denn Gott ist barmherzig. Selbst in der Strafe vertraut David auf Gottes Barmherzigkeit.
+
+---
+
+### Die Pest und der Engel (Vers 15–17)
+
+<sup>15</sup>Da schickte der HERR eine Seuche über Israel, vom Morgen bis zur festgesetzten Zeit.
+Und vom Volk starben 70 000 Männer, von Dan bis Beerscheba.
+<sup>16</sup>Als der Engel seine Hand gegen Jerusalem ausstreckte, um es zu vernichten,
+da reute den HERRN das Unheil.
+Und er sagte zu dem Engel, der das Volk vernichtete:
+„Es ist genug. Zieh jetzt deine Hand zurück.“
+Der Engel des HERRN war bei der Tenne von Arauna, dem Jebusiter.
+<sup>17</sup>Als David den Engel sah, der das Volk schlug,
+sagte David zum HERRN:
+„Schau, ich habe gesündigt, und ich habe Unrecht getan.
+Aber diese Schafe, was haben sie getan?
+Lass doch deine Hand gegen mich und gegen das Haus meines Vaters sein.“
+
+> **Was bedeutet das?**
+> Viele Menschen sterben. Das ist sehr schwer zu verstehen: Warum muss das Volk für die Sünde des Königs leiden? Vers 1 sagt allerdings, dass Gott schon vorher zornig auf Israel war. Vielleicht wegen der Aufstände gegen David. Die Bibel erklärt es nicht genauer.
+> Aber dann kommt die Wende: Gott hält den Engel zurück, bevor er Jerusalem vernichtet. „Es ist genug.“ Gottes Barmherzigkeit ist größer als sein Zorn. David hatte recht, auf Gottes Barmherzigkeit zu hoffen.
+> David tritt für sein Volk ein: Ich habe gesündigt, nicht diese Schafe. Bestrafe mich. Hier zeigt sich wieder der Hirte David, der für seine Herde einsteht. Christen sehen darin ein Bild für Jesus, den guten Hirten, der für seine Schafe sein Leben gibt (Johannes 10,11).
+
+---
+
+### Der Altar auf der Tenne (Vers 18–25)
+
+<sup>18</sup>An diesem Tag kam Gad zu David und sagte zu ihm:
+„Geh hinauf und errichte dem HERRN einen Altar auf der Tenne von Arauna, dem Jebusiter.“
+<sup>19</sup>David ging hinauf, wie Gad gesagt hatte, wie der HERR befohlen hatte.
+<sup>20</sup>Arauna blickte hinaus und sah den König und seine Knechte zu sich herüberkommen.
+Da ging Arauna hinaus und verneigte sich vor dem König mit dem Gesicht zur Erde.
+<sup>21</sup>Arauna sagte:
+„Warum ist mein Herr, der König, zu seinem Knecht gekommen?“
+David sagte:
+„Um dir die Tenne abzukaufen und dem HERRN einen Altar zu bauen,
+damit die Seuche vom Volk abgewendet wird.“
+<sup>22</sup>Arauna sagte zu David:
+„Mein Herr, der König, soll nehmen und opfern, was ihm gut erscheint.
+Schau, hier sind die Rinder für das Brandopfer
+und die Dreschschlitten und das Geschirr der Rinder als Holz.
+<sup>23</sup>Alles das, König, gibt Arauna dem König.“
+Und Arauna sagte zum König:
+„Der HERR, dein Gott, möge dich gnädig annehmen.“
+<sup>24</sup>Der König sagte zu Arauna:
+„Nein, sondern ich will es dir ganz bestimmt zu einem Preis abkaufen.
+Ich will dem HERRN, meinem Gott, keine Brandopfer bringen, die mich nichts kosten.“
+So kaufte David die Tenne und die Rinder für 50 Schekel Silber.
+<sup>25</sup>David baute dort dem HERRN einen Altar
+und brachte Brandopfer und Friedensopfer dar.
+So ließ sich der HERR für das Land erbitten,
+und die Seuche wich von Israel.
+
+> **Was bedeutet das?**
+> Arauna will David alles schenken. Aber David lehnt ab und sagt einen wichtigen Satz: „Ich will Gott keine Opfer bringen, die mich nichts kosten.“ Ein echtes Opfer, eine echte Hingabe, muss etwas kosten. Wer Gott nur gibt, was übrig ist, gibt eigentlich nichts.
+> 50 Schekel Silber sind etwa 550 Gramm Silber. In 1. Chronik 21,25 steht, dass David 600 Schekel Gold bezahlte, vielleicht für das ganze Gelände.
+> Diese Tenne ist ein besonderer Ort. Genau hier hat Salomo später den Tempel gebaut, auf dem Berg Morija (2. Chronik 3,1). Nach jüdischer Überlieferung ist es auch der Berg, auf dem Abraham Isaak opfern sollte (1. Mose 22,2).
+> So endet das Buch Samuel nicht mit Davids Tod, sondern mit einem Altar, mit Vergebung und mit einem Ort, an dem Gott und Menschen sich begegnen. Die Seuche hört auf. Gott lässt sich erbitten.
+
+---
+
+### Rückblick: Was haben wir im 2. Buch Samuel gelesen?
+
+> **Was bedeutet das?**
+> Das 2. Buch Samuel erzählt die Geschichte von König David, mit allen Höhen und Tiefen.
+> 1. Davids Aufstieg (Kapitel 1–10): David trauert um Saul und Jonatan. Er wird König über Juda, dann über ganz Israel. Er erobert Jerusalem und holt die Bundeslade dorthin. Gott gibt ihm ein großes Versprechen: „Dein Thron soll für immer bestehen“ (Kapitel 7). David holt Mefi-Boschet an seinen Tisch. Er „übte Recht und Gerechtigkeit für sein ganzes Volk“.
+> 2. Davids Schuld (Kapitel 11–12): David nimmt Batseba und lässt ihren Mann Uria töten. Der Prophet Natan sagt: „Du bist der Mann!“ David bereut, und Gott vergibt ihm. Aber die Folgen bleiben.
+> 3. Unglück in Davids Familie (Kapitel 13–20): Amnon vergewaltigt Tamar. Absalom ermordet Amnon und erhebt sich gegen seinen Vater. David muss fliehen. Absalom stirbt, und David klagt: „Mein Sohn Absalom!“ Das Schwert weicht nicht von Davids Haus.
+> 4. Anhang (Kapitel 21–24): Weitere Geschichten aus Davids Zeit, sein großes Danklied „Der HERR ist mein Fels“, seine letzten Worte, seine Helden und die Volkszählung, die mit einem Altar auf dem späteren Tempelberg endet.
+> Das Buch zeigt einen Menschen, wie er wirklich ist: ein großer König, Dichter und Glaubensheld, der Gott von Herzen liebt. Aber auch ein Mann, der schwere Schuld auf sich lädt, der in seiner Familie versagt und viel Leid verursacht. Die Bibel beschönigt nichts.
+> Was David von Saul unterscheidet, ist nicht, dass er keine Fehler macht. Es ist, dass er immer wieder zu Gott zurückkehrt, seine Schuld zugibt und auf Gottes Barmherzigkeit vertraut: „Lasst uns in die Hand des HERRN fallen, denn seine Barmherzigkeit ist groß.“
+> Gottes Versprechen an David hat die ganze weitere Bibel geprägt. Juden warten auf den Messias, den Sohn Davids. Christen glauben, dass Jesus dieser Sohn Davids ist, der König, dessen Reich kein Ende hat.
+> Die Bücher der Könige erzählen, wie es nach David weitergeht: mit Salomo, dem Bau des Tempels und der Teilung des Reiches.
