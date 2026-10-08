@@ -73,7 +73,7 @@ Dann muss ich mein Elend nicht mehr ansehen.“
 > Hier zeigt die Bibel einen großen Führer am Ende seiner Kraft. Mose ist erschöpft und verzweifelt. Er wünscht sich sogar den Tod.
 > Mose redet ganz offen mit Gott, sogar mit Vorwürfen. Und Gott bestraft ihn nicht dafür. Er hört zu und hilft. Man darf Gott alles sagen, auch seine Verzweiflung.
 > Das Bild ist stark: Mose fühlt sich wie eine Mutter, die ein schreiendes Baby tragen muss. Aber er sagt: „Ich bin doch nicht ihre Mutter!“ Damit sagt er indirekt: Du, Gott, hast dieses Volk geboren. Du musst es tragen.
-> Auch andere große Menschen in der Bibel waren so erschöpft, dass sie sterben wollten, zum Beispiel Elia (1. Könige 19,4) und Jona (Jona 4,3).
+> Auch andere große Menschen in der Bibel waren so erschöpft, dass sie sterben wollten, zum Beispiel Elija (1. Könige 19,4) und Jona (Jona 4,3).
 > Wer sich heute so fühlt, ist nicht allein. Es ist gut, mit jemandem darüber zu sprechen und Hilfe zu suchen.
 
 ---

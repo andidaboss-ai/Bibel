@@ -18929,7 +18929,7 @@ Dann muss ich mein Elend nicht mehr ansehen.“
 > Hier zeigt die Bibel einen großen Führer am Ende seiner Kraft. Mose ist erschöpft und verzweifelt. Er wünscht sich sogar den Tod.
 > Mose redet ganz offen mit Gott, sogar mit Vorwürfen. Und Gott bestraft ihn nicht dafür. Er hört zu und hilft. Man darf Gott alles sagen, auch seine Verzweiflung.
 > Das Bild ist stark: Mose fühlt sich wie eine Mutter, die ein schreiendes Baby tragen muss. Aber er sagt: „Ich bin doch nicht ihre Mutter!“ Damit sagt er indirekt: Du, Gott, hast dieses Volk geboren. Du musst es tragen.
-> Auch andere große Menschen in der Bibel waren so erschöpft, dass sie sterben wollten, zum Beispiel Elia (1. Könige 19,4) und Jona (Jona 4,3).
+> Auch andere große Menschen in der Bibel waren so erschöpft, dass sie sterben wollten, zum Beispiel Elija (1. Könige 19,4) und Jona (Jona 4,3).
 > Wer sich heute so fühlt, ist nicht allein. Es ist gut, mit jemandem darüber zu sprechen und Hilfe zu suchen.
 
 ---
@@ -24909,7 +24909,7 @@ von dem werde ich Rechenschaft fordern.
 
 > **Was bedeutet das?**
 > Statt Zauberei und Wahrsagerei verspricht Gott etwas Besseres: Propheten. Durch sie wird Gott zu seinem Volk reden, so wie er durch Mose geredet hat.
-> Juden verstehen das oft so: Gott wird immer wieder Propheten senden, wie Samuel, Elia, Jesaja und Jeremia.
+> Juden verstehen das oft so: Gott wird immer wieder Propheten senden, wie Samuel, Elija, Jesaja und Jeremia.
 > Christen sehen in diesem Versprechen vor allem einen Hinweis auf Jesus. Im Neuen Testament wird dieser Vers auf ihn bezogen (Apostelgeschichte 3,22; Johannes 6,14). Am Ende des 5. Buches Mose steht aber auch: „Es stand kein Prophet mehr in Israel auf wie Mose“ (Kapitel 34,10). Darum wartete man auf diesen einen Propheten.
 
 ---
@@ -29282,7 +29282,7 @@ Zweiundzwanzig Städte mit ihren Dörfern.
 
 > **Was bedeutet das?**
 > Asser bekam die Küste im Norden, bis zu den großen Handelsstädten Sidon und Tyrus im heutigen Libanon. Diese Städte hat Israel nie wirklich beherrscht.
-> Der Karmel ist ein Gebirge am Meer, bei der heutigen Stadt Haifa. Dort hatte später der Prophet Elia seinen großen Wettstreit mit den Propheten des Baal (1. Könige 18).
+> Der Karmel ist ein Gebirge am Meer, bei der heutigen Stadt Haifa. Dort hatte später der Prophet Elija seinen großen Wettstreit mit den Propheten des Baal (1. Könige 18).
 
 ---
 
@@ -41935,7 +41935,7 @@ und die Seuche wich von Israel.
 Die Bücher der Könige erzählen die Geschichte der Könige Israels, von Salomo bis zum Untergang Jerusalems. Das sind etwa 400 Jahre. Ursprünglich waren das 1. und das 2. Buch der Könige ein einziges Buch.
 Das 1. Buch der Könige hat zwei große Teile:
 Im ersten Teil (Kapitel 1–11) geht es um König Salomo. Er ist berühmt für seine Weisheit und seinen Reichtum. Er baut den Tempel in Jerusalem. Aber am Ende seines Lebens wendet er sich fremden Göttern zu.
-Im zweiten Teil (Kapitel 12–22) teilt sich das Reich in zwei Teile: im Norden das Königreich Israel, im Süden das Königreich Juda. Viele Könige folgen aufeinander, die meisten im Norden dienen fremden Göttern. Dann tritt der große Prophet Elia auf. Er kämpft gegen König Ahab und Königin Isebel und gegen den Götzen Baal.
+Im zweiten Teil (Kapitel 12–22) teilt sich das Reich in zwei Teile: im Norden das Königreich Israel, im Süden das Königreich Juda. Viele Könige folgen aufeinander, die meisten im Norden dienen fremden Göttern. Dann tritt der große Prophet Elija auf. Er kämpft gegen König Ahab und Königin Isebel und gegen den Götzen Baal.
 Das Buch fragt immer wieder: Hat der König dem HERRN gehorcht oder nicht? Es beurteilt die Könige nicht nach ihrem Reichtum oder ihren Kriegen, sondern nach ihrer Treue zu Gott.
 Die Bücher der Könige wurden wohl in der Zeit der Verbannung in Babylon zusammengestellt. Sie wollen erklären: Warum hat Israel sein Land verloren? Die Antwort ist: Weil die Könige und das Volk Gott immer wieder untreu waren. Aber das Buch zeigt auch: Gott hält seine Versprechen an David.
 
@@ -45776,3 +45776,434 @@ ganz wie es sein Vater getan hatte.
 > **Die Propheten:** Je dunkler es wird, desto stärker treten Gottes Boten auf: Ahija, Jehu, der Mann Gottes aus Juda, Micha und vor allem Elija. Sie sagen den Königen die Wahrheit, oft unter Lebensgefahr. Elija zeigt auf dem Karmel, wer der wahre Gott ist. Und am Horeb lernt er, dass Gott auch im leisen Säuseln zu finden ist.
 > **Die Lehre des Buches:** Es kommt nicht auf Macht, Reichtum oder große Bauten an. Entscheidend ist ein ungeteiltes Herz für Gott. Gott bleibt treu, auch wenn Menschen untreu sind. Er hält seine Versprechen, und er gibt selbst schlimmen Menschen wie Ahab die Chance zur Umkehr.
 > **Wie geht es weiter?** Im 2. Buch der Könige geht Elija in den Himmel, und Elisa wird sein Nachfolger. Die Geschichte der beiden Reiche geht weiter, bis zu ihrem Untergang.
+
+
+---
+
+# 2. Könige
+
+## 2. Könige – Kapitel 1
+#### König Ahasja und der Prophet Elija
+
+---
+
+### Bevor es losgeht: Was ist das 2. Buch der Könige?
+
+Das 2. Buch der Könige ist die Fortsetzung des 1. Buches der Könige. Ursprünglich waren beide ein einziges Buch. Es erzählt etwa 300 Jahre Geschichte, von etwa 850 bis 560 vor Christus.
+Am Anfang stehen die Propheten Elija und Elisa. Elija wird in den Himmel aufgenommen. Elisa wird sein Nachfolger und tut viele Wunder. Er hilft armen Menschen, Kranken und sogar Feinden.
+Dann erzählt das Buch weiter von den beiden Reichen: Israel im Norden und Juda im Süden. Im Norden folgen viele Könige, die Gott nicht treu sind. Im Jahr 722 vor Christus erobern die Assyrer das Nordreich. Viele Menschen werden verschleppt. Das Nordreich hört auf zu bestehen.
+Juda im Süden besteht noch etwa 135 Jahre länger. Es gibt dort gute Könige wie Hiskija und Joschija, die das Volk zu Gott zurückführen wollen. Aber am Ende erobern die Babylonier Jerusalem. Im Jahr 587 vor Christus wird der Tempel zerstört, und viele Menschen werden nach Babylon verschleppt.
+Das Buch fragt: Warum ist das geschehen? Die Antwort: Weil das Volk und seine Könige Gott immer wieder verlassen haben, obwohl die Propheten sie gewarnt haben.
+Aber das Buch endet nicht ohne Hoffnung: Im letzten Abschnitt wird der König Jojachin aus dem Gefängnis in Babylon befreit. Das ist ein kleines Zeichen: Gott hat Davids Familie nicht vergessen.
+
+---
+
+### Ahasja fragt einen fremden Gott (Vers 1–8)
+
+<sup>1</sup>Nach dem Tod Ahabs fiel Moab von Israel ab.
+<sup>2</sup>Ahasja fiel durch das Gitter seines Obergemachs in Samaria
+und wurde krank.
+Da schickte er Boten und sagte zu ihnen:
+„Geht und fragt Baal-Sebub, den Gott von Ekron,
+ob ich von dieser Krankheit gesund werde.“
+<sup>3</sup>Aber der Engel des HERRN sagte zu Elija, dem Tischbiter:
+„Mach dich auf, geh hinauf, den Boten des Königs von Samaria entgegen,
+und sag zu ihnen:
+‚Gibt es denn keinen Gott in Israel,
+dass ihr hingeht, um Baal-Sebub, den Gott von Ekron, zu fragen?
+<sup>4</sup>Darum spricht der HERR:
+„Von dem Bett, auf das du dich gelegt hast, wirst du nicht mehr herunterkommen.
+Du wirst ganz sicher sterben.“‘“
+Dann ging Elija weg.
+<sup>5</sup>Die Boten kehrten zu Ahasja zurück.
+Er sagte zu ihnen:
+„Warum seid ihr zurückgekommen?“
+<sup>6</sup>Sie sagten zu ihm:
+„Ein Mann kam uns entgegen und sagte zu uns:
+‚Geht, kehrt zum König zurück, der euch geschickt hat, und sagt zu ihm:
+„So spricht der HERR:
+Gibt es denn keinen Gott in Israel,
+dass du hinschickst, um Baal-Sebub, den Gott von Ekron, zu fragen?
+Darum wirst du von dem Bett, auf das du dich gelegt hast, nicht mehr herunterkommen.
+Du wirst ganz sicher sterben.“‘“
+<sup>7</sup>Er sagte zu ihnen:
+„Was für ein Mann war das, der euch entgegenkam und euch diese Worte gesagt hat?“
+<sup>8</sup>Sie antworteten ihm:
+„Er war ein Mann mit viel Haar
+und trug einen Ledergürtel um seine Hüften.“
+Er sagte:
+„Das ist Elija, der Tischbiter.“
+
+> **Was bedeutet das?**
+> Ahasja ist der Sohn von Ahab und Isebel. Er fällt in seinem Haus durch ein Holzgitter, wohl an einem Fenster oder auf dem Dach, und wird schwer verletzt.
+> Statt den Gott Israels zu fragen, schickt er Boten zu einem Gott der Philister nach Ekron. „Baal-Sebub“ heißt „Herr der Fliegen“. Wahrscheinlich ist das ein Spottname. Der echte Name war vielleicht „Baal-Sebul“, „Baal, der Fürst“. Im Neuen Testament ist „Beelzebul“ ein Name für den Obersten der Dämonen (Markus 3,22).
+> Elijas Frage ist der Kern: „Gibt es denn keinen Gott in Israel?“ Ahasja sucht Hilfe überall, nur nicht bei Gott.
+> „Ein Mann mit viel Haar“: Das kann auch heißen, dass er einen Mantel aus Fell trug. Später wird Johannes der Täufer ähnlich beschrieben, mit Kamelhaar und Ledergürtel (Markus 1,6). Viele sahen in Johannes einen neuen Elija (Maleachi 3,23; Matthäus 11,14).
+> Moabs Abfall wird in Kapitel 3 weitererzählt.
+> In deutschen Bibeln heißt dieser König oft „Ahasja“ oder „Ahasjahu“.
+
+---
+
+### Feuer vom Himmel (Vers 9–16)
+
+<sup>9</sup>Da schickte der König einen Hauptmann über fünfzig mit seinen fünfzig Männern zu ihm.
+Er ging zu ihm hinauf.
+Und schau, Elija saß oben auf dem Berg.
+Er sagte zu ihm:
+„Mann Gottes, der König hat gesagt: ‚Komm herunter!‘“
+<sup>10</sup>Elija antwortete dem Hauptmann über fünfzig:
+„Wenn ich ein Mann Gottes bin,
+dann soll Feuer vom Himmel herabkommen
+und dich und deine fünfzig verzehren!“
+Da kam Feuer vom Himmel herab
+und verzehrte ihn und seine fünfzig.
+<sup>11</sup>Der König schickte wieder einen anderen Hauptmann über fünfzig mit seinen fünfzig zu ihm.
+Der sagte zu ihm:
+„Mann Gottes, so spricht der König: ‚Komm schnell herunter!‘“
+<sup>12</sup>Elija antwortete ihnen:
+„Wenn ich ein Mann Gottes bin,
+dann soll Feuer vom Himmel herabkommen
+und dich und deine fünfzig verzehren!“
+Da kam das Feuer Gottes vom Himmel herab
+und verzehrte ihn und seine fünfzig.
+<sup>13</sup>Der König schickte wieder einen dritten Hauptmann über fünfzig mit seinen fünfzig.
+Der dritte Hauptmann über fünfzig ging hinauf,
+kam, fiel vor Elija auf die Knie,
+flehte ihn an und sagte zu ihm:
+„Mann Gottes, lass doch mein Leben und das Leben dieser fünfzig, deiner Diener,
+in deinen Augen kostbar sein.
+<sup>14</sup>Schau, Feuer ist vom Himmel herabgekommen
+und hat die beiden ersten Hauptleute über fünfzig mit ihren fünfzig verzehrt.
+Aber jetzt lass mein Leben in deinen Augen kostbar sein.“
+<sup>15</sup>Der Engel des HERRN sagte zu Elija:
+„Geh mit ihm hinunter. Hab keine Angst vor ihm.“
+Da machte er sich auf und ging mit ihm hinunter zum König.
+<sup>16</sup>Er sagte zu ihm:
+„So spricht der HERR:
+‚Du hast Boten geschickt, um Baal-Sebub, den Gott von Ekron, zu fragen.
+Gibt es denn keinen Gott in Israel, dessen Wort man fragen kann?
+Darum wirst du von dem Bett, auf das du dich gelegt hast, nicht mehr herunterkommen.
+Du wirst ganz sicher sterben.‘“
+
+> **Was bedeutet das?**
+> Der König will Elija mit Gewalt holen lassen. Die ersten beiden Hauptleute treten sehr hochmütig auf: Sie befehlen dem Mann Gottes im Namen des Königs. Es geht um die Frage: Wer hat mehr Macht, der König oder Gott?
+> Der dritte Hauptmann ist anders. Er kniet nieder und bittet demütig um sein Leben. Er wird verschont. Demut wird geschützt.
+> Diese Geschichte ist schwer. Über hundert Soldaten sterben, die nur Befehle befolgt haben. Die Bibel will zeigen, wie ernst es ist, sich gegen Gott zu stellen. Aber sie ist kein Vorbild für uns: Als die Jünger Jesus später fragten, ob sie wie Elija Feuer vom Himmel auf ein ungastliches Dorf herabrufen sollen, wies Jesus sie zurecht (Lukas 9,54–55).
+> Am Ende geht Elija furchtlos zum König und sagt ihm das Wort Gottes ins Gesicht.
+
+---
+
+### Ahasjas Tod (Vers 17–18)
+
+<sup>17</sup>So starb er nach dem Wort des HERRN, das Elija gesagt hatte.
+Joram wurde an seiner Stelle König,
+im zweiten Jahr Jorams, des Sohnes Joschafats, des Königs von Juda,
+denn er hatte keinen Sohn.
+<sup>18</sup>Was sonst noch von Ahasja zu erzählen ist, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+
+> **Was bedeutet das?**
+> Ahasja hatte keinen Sohn. Darum wurde sein Bruder Joram König.
+> Das kann verwirrend sein: Zur selben Zeit gab es zwei Könige mit dem Namen Joram (auch Jehoram genannt): einen in Israel (Ahabs Sohn) und einen in Juda (Joschafats Sohn).
+> Die Jahresangaben in den Königsbüchern sind manchmal schwer zu vereinbaren. In Kapitel 3,1 steht eine andere Angabe. Vermutlich regierten manche Könige eine Zeit lang zusammen mit ihrem Vater, und die Jahre wurden unterschiedlich gezählt.
+
+## 2. Könige – Kapitel 2
+#### Elija fährt in den Himmel
+
+---
+
+### Elisa bleibt bei Elija (Vers 1–8)
+
+<sup>1</sup>Als der HERR Elija im Sturm in den Himmel holen wollte,
+ging Elija mit Elisa von Gilgal weg.
+<sup>2</sup>Elija sagte zu Elisa:
+„Bleib doch hier, denn der HERR hat mich nach Bet-El geschickt.“
+Elisa sagte:
+„So wahr der HERR lebt und so wahr du lebst:
+Ich verlasse dich nicht.“
+So gingen sie nach Bet-El hinab.
+<sup>3</sup>Die Prophetenjünger, die in Bet-El waren, kamen zu Elisa heraus und sagten zu ihm:
+„Weißt du, dass der HERR heute deinen Herrn über deinem Haupt wegnehmen wird?“
+Er sagte:
+„Ja, ich weiß es. Schweigt still.“
+<sup>4</sup>Elija sagte zu ihm:
+„Elisa, bleib doch hier, denn der HERR hat mich nach Jericho geschickt.“
+Er sagte:
+„So wahr der HERR lebt und so wahr du lebst:
+Ich verlasse dich nicht.“
+So kamen sie nach Jericho.
+<sup>5</sup>Die Prophetenjünger, die in Jericho waren, kamen zu Elisa und sagten zu ihm:
+„Weißt du, dass der HERR heute deinen Herrn über deinem Haupt wegnehmen wird?“
+Er antwortete:
+„Ja, ich weiß es. Schweigt still.“
+<sup>6</sup>Elija sagte zu ihm:
+„Bleib doch hier, denn der HERR hat mich an den Jordan geschickt.“
+Er sagte:
+„So wahr der HERR lebt und so wahr du lebst:
+Ich verlasse dich nicht.“
+Da gingen die beiden weiter.
+<sup>7</sup>Fünfzig Männer von den Prophetenjüngern gingen mit
+und stellten sich in einiger Entfernung gegenüber auf.
+Und die beiden standen am Jordan.
+<sup>8</sup>Elija nahm seinen Mantel, rollte ihn zusammen und schlug auf das Wasser.
+Da teilte es sich nach beiden Seiten,
+sodass die beiden auf trockenem Boden hinübergingen.
+
+> **Was bedeutet das?**
+> Elija weiß, dass sein Ende auf der Erde nahe ist. Dreimal sagt er zu Elisa: „Bleib hier.“ Vielleicht will er ihn prüfen. Aber Elisa bleibt treu: „Ich verlasse dich nicht.“ Das erinnert an Rut, die zu Noomi sagte: „Wo du hingehst, da will ich auch hingehen“ (Rut 1,16).
+> Der Weg führt von Gilgal über Bet-El und Jericho zum Jordan. Das ist wie eine Reise rückwärts durch Israels Geschichte: Unter Josua kam Israel über den Jordan nach Jericho und Gilgal.
+> Elija teilt den Jordan mit seinem Mantel, so wie Mose das Schilfmeer geteilt hat (2. Mose 14) und Josua den Jordan (Josua 3).
+> „Prophetenjünger“, wörtlich „Söhne der Propheten“, waren Gruppen von Schülern, die mit einem Propheten lebten und lernten.
+
+---
+
+### Der feurige Wagen (Vers 9–14)
+
+<sup>9</sup>Als sie hinübergegangen waren, sagte Elija zu Elisa:
+„Bitte, was ich für dich tun soll, bevor ich von dir weggenommen werde.“
+Elisa sagte:
+„Lass doch einen doppelten Anteil von deinem Geist auf mir sein.“
+<sup>10</sup>Er sagte:
+„Du hast um etwas Schweres gebeten.
+Wenn du mich siehst, wenn ich von dir weggenommen werde,
+dann wird es dir so geschehen.
+Wenn nicht, dann wird es nicht so geschehen.“
+<sup>11</sup>Während sie weitergingen und miteinander redeten,
+schau, da kam ein feuriger Wagen mit feurigen Pferden und trennte die beiden.
+Und Elija fuhr im Sturm in den Himmel hinauf.
+<sup>12</sup>Elisa sah es und schrie:
+„Mein Vater, mein Vater!
+Du Wagen Israels und seine Reiter!“
+Und er sah ihn nicht mehr.
+Da fasste er seine Kleider und zerriss sie in zwei Stücke.
+<sup>13</sup>Er hob auch den Mantel Elijas auf, der von ihm heruntergefallen war,
+ging zurück und stellte sich an das Ufer des Jordan.
+<sup>14</sup>Er nahm den Mantel Elijas, der von ihm heruntergefallen war,
+schlug auf das Wasser und sagte:
+„Wo ist der HERR, der Gott Elijas?“
+Als auch er auf das Wasser geschlagen hatte,
+teilte es sich nach beiden Seiten,
+und Elisa ging hinüber.
+
+> **Was bedeutet das?**
+> „Ein doppelter Anteil“: Nach dem Gesetz bekam der älteste Sohn einen doppelten Anteil vom Erbe (5. Mose 21,17). Elisa bittet also darum, der richtige Erbe und Nachfolger Elijas zu sein.
+> Elija stirbt nicht. Er wird lebendig in den Himmel aufgenommen. Das wird in der Bibel sonst nur von Henoch erzählt (1. Mose 5,24).
+> Darum erwarteten die Juden, dass Elija einmal wiederkommt, vor dem großen Tag des HERRN (Maleachi 3,23). Bis heute wird beim jüdischen Passafest ein Becher für Elija bereitgestellt und die Tür für ihn geöffnet. Im Neuen Testament erscheint Elija bei der Verklärung Jesu auf dem Berg (Markus 9,4).
+> „Du Wagen Israels und seine Reiter!“: Elisa meint: Elija war Israels wahre Stärke, mehr als alle Streitwagen und Soldaten.
+> Elisa zerreißt seine Kleider aus Trauer. Dann nimmt er den Mantel Elijas auf. Der Mantel ist das Zeichen: Jetzt bist du der Prophet. Und Gott bestätigt es: Auch für Elisa teilt sich der Jordan.
+> „Wo ist der HERR, der Gott Elijas?“ Das ist die Frage jeder neuen Generation: Ist Gott auch noch bei uns, wenn die großen Vorbilder nicht mehr da sind? Die Antwort ist: Ja.
+
+---
+
+### Die Prophetenjünger suchen Elija (Vers 15–18)
+
+<sup>15</sup>Als die Prophetenjünger, die in Jericho gegenüber waren, ihn sahen, sagten sie:
+„Der Geist Elijas ruht auf Elisa.“
+Sie kamen ihm entgegen und verneigten sich vor ihm bis zur Erde.
+<sup>16</sup>Sie sagten zu ihm:
+„Schau doch, bei deinen Dienern sind fünfzig starke Männer.
+Lass sie doch gehen und deinen Herrn suchen.
+Vielleicht hat der Geist des HERRN ihn hochgehoben
+und auf irgendeinen Berg oder in irgendein Tal geworfen.“
+Er sagte:
+„Schickt sie nicht.“
+<sup>17</sup>Aber sie drängten ihn so lange, bis er sich schämte, und er sagte:
+„Schickt sie.“
+Da schickten sie fünfzig Männer.
+Die suchten drei Tage lang, aber sie fanden ihn nicht.
+<sup>18</sup>Sie kamen zu ihm zurück, während er noch in Jericho war.
+Er sagte zu ihnen:
+„Habe ich euch nicht gesagt: ‚Geht nicht‘?“
+
+> **Was bedeutet das?**
+> Die Prophetenjünger erkennen Elisa als neuen Anführer an.
+> Sie können nicht glauben, dass Elija wirklich weg ist. Die vergebliche Suche zeigt allen: Elija ist nicht irgendwo auf der Erde. Gott hat ihn wirklich zu sich genommen.
+
+---
+
+### Elisa macht das Wasser gesund (Vers 19–22)
+
+<sup>19</sup>Die Männer der Stadt sagten zu Elisa:
+„Schau doch, die Lage dieser Stadt ist gut, wie mein Herr sieht.
+Aber das Wasser ist schlecht, und das Land ist unfruchtbar.“
+<sup>20</sup>Er sagte:
+„Bringt mir eine neue Schale und tut Salz hinein.“
+Sie brachten sie ihm.
+<sup>21</sup>Er ging hinaus zur Wasserquelle,
+warf das Salz hinein und sagte:
+„So spricht der HERR:
+‚Ich habe dieses Wasser gesund gemacht.
+Von dort soll kein Tod und keine Unfruchtbarkeit mehr kommen.‘“
+<sup>22</sup>So wurde das Wasser gesund, bis zum heutigen Tag,
+nach dem Wort, das Elisa gesagt hatte.
+
+> **Was bedeutet das?**
+> Elisas erstes Wunder ist ein Wunder des Heilens und des Lebens. Das wird typisch für ihn sein: Er hilft den Menschen in ihrer Not.
+> Das Salz wirkt nicht von selbst. Elisa sagt deutlich: Der HERR hat das Wasser gesund gemacht.
+> Das hebräische Wort für „unfruchtbar“ kann auch „Fehlgeburten verursachend“ bedeuten. Das Wasser machte das Land unfruchtbar und schadete vielleicht auch Menschen und Tieren.
+> Bei Jericho gibt es bis heute eine große Quelle. Sie wird „Elisa-Quelle“ genannt.
+
+---
+
+### Die Jungen von Bet-El (Vers 23–25)
+
+<sup>23</sup>Von dort ging er hinauf nach Bet-El.
+Als er auf dem Weg hinaufging,
+kamen junge Burschen aus der Stadt heraus und verspotteten ihn.
+Sie riefen ihm zu:
+„Komm hoch, du Glatzkopf! Komm hoch, du Glatzkopf!“
+<sup>24</sup>Er drehte sich um, sah sie an
+und verfluchte sie im Namen des HERRN.
+Da kamen zwei Bärinnen aus dem Wald
+und zerrissen 42 von diesen Burschen.
+<sup>25</sup>Von dort ging er zum Berg Karmel,
+und von dort kehrte er nach Samaria zurück.
+
+> **Was bedeutet das?**
+> Diese Geschichte ist eine der schwierigsten der Bibel. Viele Menschen stoßen sich daran, und das ist verständlich.
+> Was man wissen sollte: Das hebräische Wort für „Burschen“ kann auch junge Männer bezeichnen, nicht nur kleine Kinder. Es war eine große Gruppe, mindestens 42. Sie kamen aus Bet-El, dem Ort von Jerobeams goldenem Kalb. Ihr Spott richtet sich gegen den Propheten Gottes. „Komm hoch“ ist vielleicht eine Anspielung auf Elijas Himmelfahrt, also: „Verschwinde doch auch!“
+> „Zerrissen“ heißt verletzt. Der Text sagt nicht ausdrücklich, dass alle starben.
+> Der Text will zeigen: Wer Gottes Boten verachtet, verachtet Gott selbst. Trotzdem ist diese Geschichte kein Vorbild für unser Handeln. Jesus lehrte: „Segnet, die euch verfluchen“ (Lukas 6,28).
+> Juden und Christen haben über diese Stelle viel nachgedacht. Im Talmud (Sota 47a) heißt es sogar, Elisa sei später unter anderem deswegen krank geworden.
+
+## 2. Könige – Kapitel 3
+#### Der Krieg gegen Moab
+
+---
+
+### Joram, König von Israel (Vers 1–3)
+
+<sup>1</sup>Joram, der Sohn Ahabs, wurde König über Israel in Samaria,
+im achtzehnten Jahr Joschafats, des Königs von Juda.
+Er regierte zwölf Jahre.
+<sup>2</sup>Er tat, was in den Augen des HERRN böse war,
+aber nicht so wie sein Vater und seine Mutter.
+Denn er entfernte die Steinsäule Baals, die sein Vater gemacht hatte.
+<sup>3</sup>Doch er hielt fest an den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+Er ließ nicht davon ab.
+
+> **Was bedeutet das?**
+> Joram ist ein weiterer Sohn von Ahab und Isebel. Er ist nicht ganz so schlimm wie seine Eltern. Er entfernt ein Zeichen des Baalskults. Aber er bleibt bei den goldenen Kälbern Jerobeams.
+> Joram regierte etwa von 852 bis 841 vor Christus.
+
+---
+
+### Drei Könige ziehen gegen Moab (Vers 4–12)
+
+<sup>4</sup>Mescha, der König von Moab, war ein Schafzüchter.
+Er musste dem König von Israel 100 000 Lämmer
+und die Wolle von 100 000 Widdern liefern.
+<sup>5</sup>Aber als Ahab tot war,
+fiel der König von Moab vom König von Israel ab.
+<sup>6</sup>Da zog der König Joram zu dieser Zeit von Samaria aus
+und musterte ganz Israel.
+<sup>7</sup>Er ging hin und schickte zu Joschafat, dem König von Juda, und ließ ihm sagen:
+„Der König von Moab ist von mir abgefallen.
+Ziehst du mit mir in den Kampf gegen Moab?“
+Er sagte:
+„Ich ziehe hinauf.
+Ich bin wie du, mein Volk wie dein Volk, meine Pferde wie deine Pferde.“
+<sup>8</sup>Dann fragte er:
+„Auf welchem Weg sollen wir hinaufziehen?“
+Joram antwortete:
+„Auf dem Weg durch die Wüste von Edom.“
+<sup>9</sup>So zog der König von Israel mit dem König von Juda und dem König von Edom los.
+Sie zogen sieben Tage lang auf einem Umweg.
+Da gab es kein Wasser für das Heer und für die Tiere, die ihnen folgten.
+<sup>10</sup>Der König von Israel sagte:
+„Weh!
+Der HERR hat diese drei Könige zusammengerufen, um sie in die Hand Moabs zu geben.“
+<sup>11</sup>Aber Joschafat sagte:
+„Gibt es hier keinen Propheten des HERRN, damit wir durch ihn den HERRN fragen können?“
+Einer von den Dienern des Königs von Israel antwortete:
+„Elisa, der Sohn Schafats, ist hier,
+der Elija Wasser über die Hände gegossen hat.“
+<sup>12</sup>Joschafat sagte:
+„Bei ihm ist das Wort des HERRN.“
+Da gingen der König von Israel, Joschafat und der König von Edom zu ihm hinab.
+
+> **Was bedeutet das?**
+> Moab liegt östlich des Toten Meeres. Es musste Israel jedes Jahr hohe Abgaben in Form von Schafen und Wolle zahlen.
+> Mescha ist auch außerhalb der Bibel bekannt: 1868 wurde in Jordanien der „Mescha-Stein“ gefunden, eine große Inschrift. Darin erzählt Mescha selbst, wie Moab sich von Israel befreit hat. Er nennt dort auch Omri, den König von Israel, und den Gott Israels mit seinem Namen. Der Stein ist heute im Louvre in Paris.
+> Die drei Könige wollen Moab von Süden her angreifen, durch Edom. Aber in der Wüste geht ihnen das Wasser aus.
+> Wieder ist es Joschafat, der fragt: „Gibt es hier keinen Propheten des HERRN?“ (wie in 1. Könige 22,7).
+> „Der Elija Wasser über die Hände gegossen hat“ heißt: der Elijas Diener und Schüler war.
+
+---
+
+### Elisa verspricht Wasser (Vers 13–20)
+
+<sup>13</sup>Elisa sagte zum König von Israel:
+„Was habe ich mit dir zu tun?
+Geh zu den Propheten deines Vaters und zu den Propheten deiner Mutter.“
+Der König von Israel sagte zu ihm:
+„Nein, denn der HERR hat diese drei Könige zusammengerufen,
+um sie in die Hand Moabs zu geben.“
+<sup>14</sup>Elisa sagte:
+„So wahr der HERR der Heere lebt, vor dem ich stehe:
+Wenn ich nicht Rücksicht auf Joschafat, den König von Juda, nehmen würde,
+dann würde ich dich nicht anschauen und dich nicht ansehen.
+<sup>15</sup>Aber jetzt bringt mir einen Spielmann.“
+Als der Spielmann spielte, kam die Hand des HERRN über ihn.
+<sup>16</sup>Er sagte:
+„So spricht der HERR:
+‚Macht in diesem Tal überall Gräben.‘
+<sup>17</sup>Denn so spricht der HERR:
+‚Ihr werdet keinen Wind sehen und keinen Regen sehen,
+und doch wird dieses Tal voll Wasser werden.
+Und ihr werdet trinken, ihr und euer Vieh und eure anderen Tiere.
+<sup>18</sup>Das ist leicht in den Augen des HERRN.
+Er wird auch Moab in eure Hand geben.
+<sup>19</sup>Ihr werdet jede befestigte Stadt und jede auserlesene Stadt schlagen,
+jeden guten Baum fällen,
+alle Wasserquellen verstopfen
+und jedes gute Feld mit Steinen verderben.‘“
+<sup>20</sup>Am Morgen, um die Zeit, wenn man das Opfer darbringt,
+schau, da kam Wasser aus der Richtung von Edom,
+und das Land wurde voll Wasser.
+
+> **Was bedeutet das?**
+> Elisa ist sehr direkt zu Joram: Geh doch zu deinen Baalspropheten! Nur wegen des treuen Königs Joschafat hilft er.
+> Elisa lässt Musik spielen, bevor er prophezeit. Musik kann helfen, still zu werden und auf Gott zu hören. Auch David spielte für Saul auf der Harfe (1. Samuel 16,23).
+> Das Wasser kommt ohne Regen. Wahrscheinlich hat es weit weg in den Bergen von Edom geregnet, und das Wasser floss durch das trockene Flussbett herab. Für die Menschen dort war es trotzdem ein Wunder zur richtigen Zeit.
+> Vers 19 ist hart: Bäume fällen und Felder verderben war damals übliche Kriegsführung. In 5. Mose 20,19 hatte Gott sogar verboten, bei einer Belagerung die Fruchtbäume zu fällen. Hier wird es angekündigt, nicht unbedingt gutgeheißen. Heute verbietet das Völkerrecht ausdrücklich, die Lebensgrundlagen der Zivilbevölkerung zu zerstören.
+
+---
+
+### Der Sieg über Moab und ein schreckliches Opfer (Vers 21–27)
+
+<sup>21</sup>Als ganz Moab hörte, dass die Könige heraufgezogen waren, um gegen sie zu kämpfen,
+wurden alle versammelt, die eine Rüstung anlegen konnten, Junge und Alte,
+und sie stellten sich an der Grenze auf.
+<sup>22</sup>Sie standen früh am Morgen auf.
+Die Sonne schien auf das Wasser,
+und die Moabiter sahen das Wasser ihnen gegenüber, rot wie Blut.
+<sup>23</sup>Sie sagten:
+„Das ist Blut!
+Die Könige haben sich bestimmt gegenseitig vernichtet und einander erschlagen.
+Jetzt also, Moab, auf zur Beute!“
+<sup>24</sup>Als sie zum Lager Israels kamen,
+standen die Israeliten auf und schlugen die Moabiter,
+sodass sie vor ihnen flohen.
+Und sie drangen in das Land vor und schlugen die Moabiter.
+<sup>25</sup>Sie rissen die Städte nieder.
+Auf jedes gute Feld warf jeder seinen Stein, bis es voll war.
+Sie verstopften alle Wasserquellen und fällten alle guten Bäume.
+Am Ende blieben nur noch in Kir-Hareset die Steine übrig.
+Aber die Steinschleuderer umzingelten die Stadt und griffen sie an.
+<sup>26</sup>Als der König von Moab sah, dass der Kampf für ihn zu schwer war,
+nahm er 700 Männer mit, die das Schwert zogen,
+um zum König von Edom durchzubrechen.
+Aber sie schafften es nicht.
+<sup>27</sup>Da nahm er seinen ältesten Sohn, der an seiner Stelle König werden sollte,
+und brachte ihn auf der Mauer als Brandopfer dar.
+Da kam ein großer Zorn über Israel.
+Und sie zogen von ihm ab und kehrten in ihr Land zurück.
+
+> **Was bedeutet das?**
+> Das Wasser leuchtet in der Morgensonne rot, vielleicht wegen der roten Erde in Edom. Die Moabiter denken, es sei Blut, und laufen in eine Falle.
+> Am Ende ist Mescha eingeschlossen in seiner Festung Kir-Hareset. In seiner Verzweiflung opfert er seinen eigenen Sohn auf der Stadtmauer, wohl seinem Gott Kemosch. Das ist grausam und entsetzlich. Die Bibel verurteilt Kinderopfer an vielen Stellen scharf (3. Mose 18,21; 5. Mose 12,31).
+> „Ein großer Zorn über Israel“ ist schwer zu deuten. Vielleicht war es Entsetzen bei den Israeliten selbst. Vielleicht wuchs der Kampfgeist der Moabiter so sehr, dass Israel abziehen musste. Der Text sagt es nicht genau. Er sagt nicht, dass Kemosch wirklich Macht hatte.
+> Elisas Ankündigung hatte sich erfüllt: Israel siegte. Aber den endgültigen Sieg bekamen sie nicht. Auf dem Mescha-Stein beschreibt Mescha das Ende des Krieges als Befreiung Moabs.
+> Kir-Hareset (auch Kir-Heres genannt) war die Hauptstadt Moabs. Man nimmt an, dass sie beim heutigen Kerak in Jordanien lag.

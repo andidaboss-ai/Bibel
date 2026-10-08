@@ -73,7 +73,7 @@ von dem werde ich Rechenschaft fordern.
 
 > **Was bedeutet das?**
 > Statt Zauberei und Wahrsagerei verspricht Gott etwas Besseres: Propheten. Durch sie wird Gott zu seinem Volk reden, so wie er durch Mose geredet hat.
-> Juden verstehen das oft so: Gott wird immer wieder Propheten senden, wie Samuel, Elia, Jesaja und Jeremia.
+> Juden verstehen das oft so: Gott wird immer wieder Propheten senden, wie Samuel, Elija, Jesaja und Jeremia.
 > Christen sehen in diesem Versprechen vor allem einen Hinweis auf Jesus. Im Neuen Testament wird dieser Vers auf ihn bezogen (Apostelgeschichte 3,22; Johannes 6,14). Am Ende des 5. Buches Mose steht aber auch: „Es stand kein Prophet mehr in Israel auf wie Mose“ (Kapitel 34,10). Darum wartete man auf diesen einen Propheten.
 
 ---

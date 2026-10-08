@@ -8,7 +8,7 @@
 Die Bücher der Könige erzählen die Geschichte der Könige Israels, von Salomo bis zum Untergang Jerusalems. Das sind etwa 400 Jahre. Ursprünglich waren das 1. und das 2. Buch der Könige ein einziges Buch.
 Das 1. Buch der Könige hat zwei große Teile:
 Im ersten Teil (Kapitel 1–11) geht es um König Salomo. Er ist berühmt für seine Weisheit und seinen Reichtum. Er baut den Tempel in Jerusalem. Aber am Ende seines Lebens wendet er sich fremden Göttern zu.
-Im zweiten Teil (Kapitel 12–22) teilt sich das Reich in zwei Teile: im Norden das Königreich Israel, im Süden das Königreich Juda. Viele Könige folgen aufeinander, die meisten im Norden dienen fremden Göttern. Dann tritt der große Prophet Elia auf. Er kämpft gegen König Ahab und Königin Isebel und gegen den Götzen Baal.
+Im zweiten Teil (Kapitel 12–22) teilt sich das Reich in zwei Teile: im Norden das Königreich Israel, im Süden das Königreich Juda. Viele Könige folgen aufeinander, die meisten im Norden dienen fremden Göttern. Dann tritt der große Prophet Elija auf. Er kämpft gegen König Ahab und Königin Isebel und gegen den Götzen Baal.
 Das Buch fragt immer wieder: Hat der König dem HERRN gehorcht oder nicht? Es beurteilt die Könige nicht nach ihrem Reichtum oder ihren Kriegen, sondern nach ihrer Treue zu Gott.
 Die Bücher der Könige wurden wohl in der Zeit der Verbannung in Babylon zusammengestellt. Sie wollen erklären: Warum hat Israel sein Land verloren? Die Antwort ist: Weil die Könige und das Volk Gott immer wieder untreu waren. Aber das Buch zeigt auch: Gott hält seine Versprechen an David.
 

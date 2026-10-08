@@ -88,7 +88,7 @@ Zweiundzwanzig Städte mit ihren Dörfern.
 
 > **Was bedeutet das?**
 > Asser bekam die Küste im Norden, bis zu den großen Handelsstädten Sidon und Tyrus im heutigen Libanon. Diese Städte hat Israel nie wirklich beherrscht.
-> Der Karmel ist ein Gebirge am Meer, bei der heutigen Stadt Haifa. Dort hatte später der Prophet Elia seinen großen Wettstreit mit den Propheten des Baal (1. Könige 18).
+> Der Karmel ist ein Gebirge am Meer, bei der heutigen Stadt Haifa. Dort hatte später der Prophet Elija seinen großen Wettstreit mit den Propheten des Baal (1. Könige 18).
 
 ---
 

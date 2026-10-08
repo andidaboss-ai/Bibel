@@ -1,0 +1,495 @@
+{
+ "nr": 12,
+ "code": "2KI",
+ "kuerzel": "2Kön",
+ "name": "2. Könige",
+ "name_englisch": "2 Kings",
+ "testament": "altes-testament",
+ "kapitel": 25,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "König Ahasja und der Prophet Elija",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 2. Buch der Könige?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 2. Buch der Könige ist die Fortsetzung des 1. Buches der Könige. Ursprünglich waren beide ein einziges Buch. Es erzählt etwa 300 Jahre Geschichte, von etwa 850 bis 560 vor Christus.\nAm Anfang stehen die Propheten Elija und Elisa. Elija wird in den Himmel aufgenommen. Elisa wird sein Nachfolger und tut viele Wunder. Er hilft armen Menschen, Kranken und sogar Feinden.\nDann erzählt das Buch weiter von den beiden Reichen: Israel im Norden und Juda im Süden. Im Norden folgen viele Könige, die Gott nicht treu sind. Im Jahr 722 vor Christus erobern die Assyrer das Nordreich. Viele Menschen werden verschleppt. Das Nordreich hört auf zu bestehen.\nJuda im Süden besteht noch etwa 135 Jahre länger. Es gibt dort gute Könige wie Hiskija und Joschija, die das Volk zu Gott zurückführen wollen. Aber am Ende erobern die Babylonier Jerusalem. Im Jahr 587 vor Christus wird der Tempel zerstört, und viele Menschen werden nach Babylon verschleppt.\nDas Buch fragt: Warum ist das geschehen? Die Antwort: Weil das Volk und seine Könige Gott immer wieder verlassen haben, obwohl die Propheten sie gewarnt haben.\nAber das Buch endet nicht ohne Hoffnung: Im letzten Abschnitt wird der König Jojachin aus dem Gefängnis in Babylon befreit. Das ist ein kleines Zeichen: Gott hat Davids Familie nicht vergessen.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Ahasja fragt einen fremden Gott",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Nach dem Tod Ahabs fiel Moab von Israel ab.",
+       "englisch_web": "Moab rebelled against Israel after the death of Ahab."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ahasja fiel durch das Gitter seines Obergemachs in Samaria\nund wurde krank.\nDa schickte er Boten und sagte zu ihnen:\n„Geht und fragt Baal-Sebub, den Gott von Ekron,\nob ich von dieser Krankheit gesund werde.“",
+       "englisch_web": "Ahaziah fell down through the lattice in his upper room that was in Samaria, and was sick. So he sent messengers, and said to them, “Go, inquire of Baal Zebub, the god of Ekron, whether I will recover from this sickness.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber der Engel des HERRN sagte zu Elija, dem Tischbiter:\n„Mach dich auf, geh hinauf, den Boten des Königs von Samaria entgegen,\nund sag zu ihnen:\n‚Gibt es denn keinen Gott in Israel,\ndass ihr hingeht, um Baal-Sebub, den Gott von Ekron, zu fragen?",
+       "englisch_web": "But Yahweh’s angel said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and tell them, ‘Is it because there is no God in Israel that you go to inquire of Baal Zebub, the god of Ekron?"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Darum spricht der HERR:\n„Von dem Bett, auf das du dich gelegt hast, wirst du nicht mehr herunterkommen.\nDu wirst ganz sicher sterben.“‘“\nDann ging Elija weg.",
+       "englisch_web": "Now therefore Yahweh says, “You will not come down from the bed where you have gone up, but you will surely die.”’” Then Elijah departed."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Boten kehrten zu Ahasja zurück.\nEr sagte zu ihnen:\n„Warum seid ihr zurückgekommen?“",
+       "englisch_web": "The messengers returned to him, and he said to them, “Why is it that you have returned?”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Sie sagten zu ihm:\n„Ein Mann kam uns entgegen und sagte zu uns:\n‚Geht, kehrt zum König zurück, der euch geschickt hat, und sagt zu ihm:\n„So spricht der HERR:\nGibt es denn keinen Gott in Israel,\ndass du hinschickst, um Baal-Sebub, den Gott von Ekron, zu fragen?\nDarum wirst du von dem Bett, auf das du dich gelegt hast, nicht mehr herunterkommen.\nDu wirst ganz sicher sterben.“‘“",
+       "englisch_web": "They said to him, “A man came up to meet us, and said to us, ‘Go, return to the king who sent you, and tell him, “Yahweh says, ‘Is it because there is no God in Israel that you send to inquire of Baal Zebub, the god of Ekron? Therefore you will not come down from the bed where you have gone up, but you will surely die.’”’”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er sagte zu ihnen:\n„Was für ein Mann war das, der euch entgegenkam und euch diese Worte gesagt hat?“",
+       "englisch_web": "He said to them, “What kind of man was he who came up to meet you and told you these words?”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie antworteten ihm:\n„Er war ein Mann mit viel Haar\nund trug einen Ledergürtel um seine Hüften.“\nEr sagte:\n„Das ist Elija, der Tischbiter.“",
+       "englisch_web": "They answered him, “He was a hairy man, and wearing a leather belt around his waist.” He said, “It’s Elijah the Tishbite.”"
+      }
+     ],
+     "erklaerung": "Ahasja ist der Sohn von Ahab und Isebel. Er fällt in seinem Haus durch ein Holzgitter, wohl an einem Fenster oder auf dem Dach, und wird schwer verletzt.\nStatt den Gott Israels zu fragen, schickt er Boten zu einem Gott der Philister nach Ekron. „Baal-Sebub“ heißt „Herr der Fliegen“. Wahrscheinlich ist das ein Spottname. Der echte Name war vielleicht „Baal-Sebul“, „Baal, der Fürst“. Im Neuen Testament ist „Beelzebul“ ein Name für den Obersten der Dämonen (Markus 3,22).\nElijas Frage ist der Kern: „Gibt es denn keinen Gott in Israel?“ Ahasja sucht Hilfe überall, nur nicht bei Gott.\n„Ein Mann mit viel Haar“: Das kann auch heißen, dass er einen Mantel aus Fell trug. Später wird Johannes der Täufer ähnlich beschrieben, mit Kamelhaar und Ledergürtel (Markus 1,6). Viele sahen in Johannes einen neuen Elija (Maleachi 3,23; Matthäus 11,14).\nMoabs Abfall wird in Kapitel 3 weitererzählt.\nIn deutschen Bibeln heißt dieser König oft „Ahasja“ oder „Ahasjahu“."
+    },
+    {
+     "ueberschrift": "Feuer vom Himmel",
+     "vers_von": 9,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Da schickte der König einen Hauptmann über fünfzig mit seinen fünfzig Männern zu ihm.\nEr ging zu ihm hinauf.\nUnd schau, Elija saß oben auf dem Berg.\nEr sagte zu ihm:\n„Mann Gottes, der König hat gesagt: ‚Komm herunter!‘“",
+       "englisch_web": "Then the king sent a captain of fifty with his fifty to him. He went up to him; and behold, he was sitting on the top of the hill. He said to him, “Man of God, the king has said, ‘Come down!’”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Elija antwortete dem Hauptmann über fünfzig:\n„Wenn ich ein Mann Gottes bin,\ndann soll Feuer vom Himmel herabkommen\nund dich und deine fünfzig verzehren!“\nDa kam Feuer vom Himmel herab\nund verzehrte ihn und seine fünfzig.",
+       "englisch_web": "Elijah answered to the captain of fifty, “If I am a man of God, then let fire come down from the sky and consume you and your fifty!” Then fire came down from the sky, and consumed him and his fifty."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der König schickte wieder einen anderen Hauptmann über fünfzig mit seinen fünfzig zu ihm.\nDer sagte zu ihm:\n„Mann Gottes, so spricht der König: ‚Komm schnell herunter!‘“",
+       "englisch_web": "Again he sent to him another captain of fifty with his fifty. He answered him, “Man of God, the king has said, ‘Come down quickly!’”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Elija antwortete ihnen:\n„Wenn ich ein Mann Gottes bin,\ndann soll Feuer vom Himmel herabkommen\nund dich und deine fünfzig verzehren!“\nDa kam das Feuer Gottes vom Himmel herab\nund verzehrte ihn und seine fünfzig.",
+       "englisch_web": "Elijah answered them, “If I am a man of God, then let fire come down from the sky and consume you and your fifty!” Then God’s fire came down from the sky, and consumed him and his fifty."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der König schickte wieder einen dritten Hauptmann über fünfzig mit seinen fünfzig.\nDer dritte Hauptmann über fünfzig ging hinauf,\nkam, fiel vor Elija auf die Knie,\nflehte ihn an und sagte zu ihm:\n„Mann Gottes, lass doch mein Leben und das Leben dieser fünfzig, deiner Diener,\nin deinen Augen kostbar sein.",
+       "englisch_web": "Again he sent the captain of a third fifty with his fifty. The third captain of fifty went up, and came and fell on his knees before Elijah, and begged him, and said to him, “Man of God, please let my life and the life of these fifty of your servants be precious in your sight."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Schau, Feuer ist vom Himmel herabgekommen\nund hat die beiden ersten Hauptleute über fünfzig mit ihren fünfzig verzehrt.\nAber jetzt lass mein Leben in deinen Augen kostbar sein.“",
+       "englisch_web": "Behold, fire came down from the sky and consumed the last two captains of fifty with their fifties. But now let my life be precious in your sight.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Der Engel des HERRN sagte zu Elija:\n„Geh mit ihm hinunter. Hab keine Angst vor ihm.“\nDa machte er sich auf und ging mit ihm hinunter zum König.",
+       "englisch_web": "Yahweh’s angel said to Elijah, “Go down with him. Don’t be afraid of him.” Then he arose and went down with him to the king."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er sagte zu ihm:\n„So spricht der HERR:\n‚Du hast Boten geschickt, um Baal-Sebub, den Gott von Ekron, zu fragen.\nGibt es denn keinen Gott in Israel, dessen Wort man fragen kann?\nDarum wirst du von dem Bett, auf das du dich gelegt hast, nicht mehr herunterkommen.\nDu wirst ganz sicher sterben.‘“",
+       "englisch_web": "He said to him, “Yahweh says, ‘Because you have sent messengers to inquire of Baal Zebub, the god of Ekron, is it because there is no God in Israel to inquire of his word? Therefore you will not come down from the bed where you have gone up, but you will surely die.’”"
+      }
+     ],
+     "erklaerung": "Der König will Elija mit Gewalt holen lassen. Die ersten beiden Hauptleute treten sehr hochmütig auf: Sie befehlen dem Mann Gottes im Namen des Königs. Es geht um die Frage: Wer hat mehr Macht, der König oder Gott?\nDer dritte Hauptmann ist anders. Er kniet nieder und bittet demütig um sein Leben. Er wird verschont. Demut wird geschützt.\nDiese Geschichte ist schwer. Über hundert Soldaten sterben, die nur Befehle befolgt haben. Die Bibel will zeigen, wie ernst es ist, sich gegen Gott zu stellen. Aber sie ist kein Vorbild für uns: Als die Jünger Jesus später fragten, ob sie wie Elija Feuer vom Himmel auf ein ungastliches Dorf herabrufen sollen, wies Jesus sie zurecht (Lukas 9,54–55).\nAm Ende geht Elija furchtlos zum König und sagt ihm das Wort Gottes ins Gesicht."
+    },
+    {
+     "ueberschrift": "Ahasjas Tod",
+     "vers_von": 17,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "So starb er nach dem Wort des HERRN, das Elija gesagt hatte.\nJoram wurde an seiner Stelle König,\nim zweiten Jahr Jorams, des Sohnes Joschafats, des Königs von Juda,\ndenn er hatte keinen Sohn.",
+       "englisch_web": "So he died according to Yahweh’s word which Elijah had spoken. Jehoram began to reign in his place in the second year of Jehoram the son of Jehoshaphat king of Judah, because he had no son."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Was sonst noch von Ahasja zu erzählen ist, was er getan hat,\nsteht das nicht im Buch der Chronik der Könige von Israel geschrieben?",
+       "englisch_web": "Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel?"
+      }
+     ],
+     "erklaerung": "Ahasja hatte keinen Sohn. Darum wurde sein Bruder Joram König.\nDas kann verwirrend sein: Zur selben Zeit gab es zwei Könige mit dem Namen Joram (auch Jehoram genannt): einen in Israel (Ahabs Sohn) und einen in Juda (Joschafats Sohn).\nDie Jahresangaben in den Königsbüchern sind manchmal schwer zu vereinbaren. In Kapitel 3,1 steht eine andere Angabe. Vermutlich regierten manche Könige eine Zeit lang zusammen mit ihrem Vater, und die Jahre wurden unterschiedlich gezählt."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Elija fährt in den Himmel",
+   "abschnitte": [
+    {
+     "ueberschrift": "Elisa bleibt bei Elija",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als der HERR Elija im Sturm in den Himmel holen wollte,\nging Elija mit Elisa von Gilgal weg.",
+       "englisch_web": "When Yahweh was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Elija sagte zu Elisa:\n„Bleib doch hier, denn der HERR hat mich nach Bet-El geschickt.“\nElisa sagte:\n„So wahr der HERR lebt und so wahr du lebst:\nIch verlasse dich nicht.“\nSo gingen sie nach Bet-El hinab.",
+       "englisch_web": "Elijah said to Elisha, “Please wait here, for Yahweh has sent me as far as Bethel.” Elisha said, “As Yahweh lives, and as your soul lives, I will not leave you.” So they went down to Bethel."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Prophetenjünger, die in Bet-El waren, kamen zu Elisa heraus und sagten zu ihm:\n„Weißt du, dass der HERR heute deinen Herrn über deinem Haupt wegnehmen wird?“\nEr sagte:\n„Ja, ich weiß es. Schweigt still.“",
+       "englisch_web": "The sons of the prophets who were at Bethel came out to Elisha, and said to him, “Do you know that Yahweh will take away your master from over you today?” He said, “Yes, I know it. Hold your peace.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Elija sagte zu ihm:\n„Elisa, bleib doch hier, denn der HERR hat mich nach Jericho geschickt.“\nEr sagte:\n„So wahr der HERR lebt und so wahr du lebst:\nIch verlasse dich nicht.“\nSo kamen sie nach Jericho.",
+       "englisch_web": "Elijah said to him, “Elisha, please wait here, for Yahweh has sent me to Jericho.” He said, “As Yahweh lives, and as your soul lives, I will not leave you.” So they came to Jericho."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Prophetenjünger, die in Jericho waren, kamen zu Elisa und sagten zu ihm:\n„Weißt du, dass der HERR heute deinen Herrn über deinem Haupt wegnehmen wird?“\nEr antwortete:\n„Ja, ich weiß es. Schweigt still.“",
+       "englisch_web": "The sons of the prophets who were at Jericho came near to Elisha, and said to him, “Do you know that Yahweh will take away your master from over you today?” He answered, “Yes, I know it. Hold your peace.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Elija sagte zu ihm:\n„Bleib doch hier, denn der HERR hat mich an den Jordan geschickt.“\nEr sagte:\n„So wahr der HERR lebt und so wahr du lebst:\nIch verlasse dich nicht.“\nDa gingen die beiden weiter.",
+       "englisch_web": "Elijah said to him, “Please wait here, for Yahweh has sent me to the Jordan.” He said, “As Yahweh lives, and as your soul lives, I will not leave you.” Then they both went on."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Fünfzig Männer von den Prophetenjüngern gingen mit\nund stellten sich in einiger Entfernung gegenüber auf.\nUnd die beiden standen am Jordan.",
+       "englisch_web": "Fifty men of the sons of the prophets went and stood opposite them at a distance; and they both stood by the Jordan."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Elija nahm seinen Mantel, rollte ihn zusammen und schlug auf das Wasser.\nDa teilte es sich nach beiden Seiten,\nsodass die beiden auf trockenem Boden hinübergingen.",
+       "englisch_web": "Elijah took his mantle, and rolled it up, and struck the waters; and they were divided here and there, so that they both went over on dry ground."
+      }
+     ],
+     "erklaerung": "Elija weiß, dass sein Ende auf der Erde nahe ist. Dreimal sagt er zu Elisa: „Bleib hier.“ Vielleicht will er ihn prüfen. Aber Elisa bleibt treu: „Ich verlasse dich nicht.“ Das erinnert an Rut, die zu Noomi sagte: „Wo du hingehst, da will ich auch hingehen“ (Rut 1,16).\nDer Weg führt von Gilgal über Bet-El und Jericho zum Jordan. Das ist wie eine Reise rückwärts durch Israels Geschichte: Unter Josua kam Israel über den Jordan nach Jericho und Gilgal.\nElija teilt den Jordan mit seinem Mantel, so wie Mose das Schilfmeer geteilt hat (2. Mose 14) und Josua den Jordan (Josua 3).\n„Prophetenjünger“, wörtlich „Söhne der Propheten“, waren Gruppen von Schülern, die mit einem Propheten lebten und lernten."
+    },
+    {
+     "ueberschrift": "Der feurige Wagen",
+     "vers_von": 9,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Als sie hinübergegangen waren, sagte Elija zu Elisa:\n„Bitte, was ich für dich tun soll, bevor ich von dir weggenommen werde.“\nElisa sagte:\n„Lass doch einen doppelten Anteil von deinem Geist auf mir sein.“",
+       "englisch_web": "When they had gone over, Elijah said to Elisha, “Ask what I shall do for you, before I am taken from you.” Elisha said, “Please let a double portion of your spirit be on me.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er sagte:\n„Du hast um etwas Schweres gebeten.\nWenn du mich siehst, wenn ich von dir weggenommen werde,\ndann wird es dir so geschehen.\nWenn nicht, dann wird es nicht so geschehen.“",
+       "englisch_web": "He said, “You have asked a hard thing. If you see me when I am taken from you, it will be so for you; but if not, it will not be so.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Während sie weitergingen und miteinander redeten,\nschau, da kam ein feuriger Wagen mit feurigen Pferden und trennte die beiden.\nUnd Elija fuhr im Sturm in den Himmel hinauf.",
+       "englisch_web": "As they continued on and talked, behold, a chariot of fire and horses of fire separated them; and Elijah went up by a whirlwind into heaven."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Elisa sah es und schrie:\n„Mein Vater, mein Vater!\nDu Wagen Israels und seine Reiter!“\nUnd er sah ihn nicht mehr.\nDa fasste er seine Kleider und zerriss sie in zwei Stücke.",
+       "englisch_web": "Elisha saw it, and he cried, “My father, my father, the chariots of Israel and its horsemen!” He saw him no more. Then he took hold of his own clothes and tore them in two pieces."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er hob auch den Mantel Elijas auf, der von ihm heruntergefallen war,\nging zurück und stellte sich an das Ufer des Jordan.",
+       "englisch_web": "He also took up Elijah’s mantle that fell from him, and went back and stood by the bank of the Jordan."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er nahm den Mantel Elijas, der von ihm heruntergefallen war,\nschlug auf das Wasser und sagte:\n„Wo ist der HERR, der Gott Elijas?“\nAls auch er auf das Wasser geschlagen hatte,\nteilte es sich nach beiden Seiten,\nund Elisa ging hinüber.",
+       "englisch_web": "He took Elijah’s mantle that fell from him, and struck the waters, and said, “Where is Yahweh, the God of Elijah?” When he also had struck the waters, they were divided apart, and Elisha went over."
+      }
+     ],
+     "erklaerung": "„Ein doppelter Anteil“: Nach dem Gesetz bekam der älteste Sohn einen doppelten Anteil vom Erbe (5. Mose 21,17). Elisa bittet also darum, der richtige Erbe und Nachfolger Elijas zu sein.\nElija stirbt nicht. Er wird lebendig in den Himmel aufgenommen. Das wird in der Bibel sonst nur von Henoch erzählt (1. Mose 5,24).\nDarum erwarteten die Juden, dass Elija einmal wiederkommt, vor dem großen Tag des HERRN (Maleachi 3,23). Bis heute wird beim jüdischen Passafest ein Becher für Elija bereitgestellt und die Tür für ihn geöffnet. Im Neuen Testament erscheint Elija bei der Verklärung Jesu auf dem Berg (Markus 9,4).\n„Du Wagen Israels und seine Reiter!“: Elisa meint: Elija war Israels wahre Stärke, mehr als alle Streitwagen und Soldaten.\nElisa zerreißt seine Kleider aus Trauer. Dann nimmt er den Mantel Elijas auf. Der Mantel ist das Zeichen: Jetzt bist du der Prophet. Und Gott bestätigt es: Auch für Elisa teilt sich der Jordan.\n„Wo ist der HERR, der Gott Elijas?“ Das ist die Frage jeder neuen Generation: Ist Gott auch noch bei uns, wenn die großen Vorbilder nicht mehr da sind? Die Antwort ist: Ja."
+    },
+    {
+     "ueberschrift": "Die Prophetenjünger suchen Elija",
+     "vers_von": 15,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Als die Prophetenjünger, die in Jericho gegenüber waren, ihn sahen, sagten sie:\n„Der Geist Elijas ruht auf Elisa.“\nSie kamen ihm entgegen und verneigten sich vor ihm bis zur Erde.",
+       "englisch_web": "When the sons of the prophets who were at Jericho facing him saw him, they said, “The spirit of Elijah rests on Elisha.” They came to meet him, and bowed themselves to the ground before him."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sie sagten zu ihm:\n„Schau doch, bei deinen Dienern sind fünfzig starke Männer.\nLass sie doch gehen und deinen Herrn suchen.\nVielleicht hat der Geist des HERRN ihn hochgehoben\nund auf irgendeinen Berg oder in irgendein Tal geworfen.“\nEr sagte:\n„Schickt sie nicht.“",
+       "englisch_web": "They said to him, “See now, there are with your servants fifty strong men. Please let them go and seek your master. Perhaps Yahweh’s Spirit has taken him up, and put him on some mountain or into some valley.” He said, “Don’t send them.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Aber sie drängten ihn so lange, bis er sich schämte, und er sagte:\n„Schickt sie.“\nDa schickten sie fünfzig Männer.\nDie suchten drei Tage lang, aber sie fanden ihn nicht.",
+       "englisch_web": "When they urged him until he was ashamed, he said, “Send them.” Therefore they sent fifty men; and they searched for three days, but didn’t find him."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sie kamen zu ihm zurück, während er noch in Jericho war.\nEr sagte zu ihnen:\n„Habe ich euch nicht gesagt: ‚Geht nicht‘?“",
+       "englisch_web": "They came back to him while he stayed at Jericho; and he said to them, “Didn’t I tell you, ‘Don’t go’?”"
+      }
+     ],
+     "erklaerung": "Die Prophetenjünger erkennen Elisa als neuen Anführer an.\nSie können nicht glauben, dass Elija wirklich weg ist. Die vergebliche Suche zeigt allen: Elija ist nicht irgendwo auf der Erde. Gott hat ihn wirklich zu sich genommen."
+    },
+    {
+     "ueberschrift": "Elisa macht das Wasser gesund",
+     "vers_von": 19,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Männer der Stadt sagten zu Elisa:\n„Schau doch, die Lage dieser Stadt ist gut, wie mein Herr sieht.\nAber das Wasser ist schlecht, und das Land ist unfruchtbar.“",
+       "englisch_web": "The men of the city said to Elisha, “Behold, please, the situation of this city is pleasant, as my lord sees; but the water is bad, and the land is barren.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Er sagte:\n„Bringt mir eine neue Schale und tut Salz hinein.“\nSie brachten sie ihm.",
+       "englisch_web": "He said, “Bring me a new jar, and put salt in it.” Then they brought it to him."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er ging hinaus zur Wasserquelle,\nwarf das Salz hinein und sagte:\n„So spricht der HERR:\n‚Ich habe dieses Wasser gesund gemacht.\nVon dort soll kein Tod und keine Unfruchtbarkeit mehr kommen.‘“",
+       "englisch_web": "He went out to the spring of the waters, and threw salt into it, and said, “Yahweh says, ‘I have healed these waters. There shall not be from there any more death or barren wasteland.’”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "So wurde das Wasser gesund, bis zum heutigen Tag,\nnach dem Wort, das Elisa gesagt hatte.",
+       "englisch_web": "So the waters were healed to this day, according to Elisha’s word which he spoke."
+      }
+     ],
+     "erklaerung": "Elisas erstes Wunder ist ein Wunder des Heilens und des Lebens. Das wird typisch für ihn sein: Er hilft den Menschen in ihrer Not.\nDas Salz wirkt nicht von selbst. Elisa sagt deutlich: Der HERR hat das Wasser gesund gemacht.\nDas hebräische Wort für „unfruchtbar“ kann auch „Fehlgeburten verursachend“ bedeuten. Das Wasser machte das Land unfruchtbar und schadete vielleicht auch Menschen und Tieren.\nBei Jericho gibt es bis heute eine große Quelle. Sie wird „Elisa-Quelle“ genannt."
+    },
+    {
+     "ueberschrift": "Die Jungen von Bet-El",
+     "vers_von": 23,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Von dort ging er hinauf nach Bet-El.\nAls er auf dem Weg hinaufging,\nkamen junge Burschen aus der Stadt heraus und verspotteten ihn.\nSie riefen ihm zu:\n„Komm hoch, du Glatzkopf! Komm hoch, du Glatzkopf!“",
+       "englisch_web": "He went up from there to Bethel. As he was going up by the way, some youths came out of the city and mocked him, and said to him, “Go up, you baldy! Go up, you baldy!”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Er drehte sich um, sah sie an\nund verfluchte sie im Namen des HERRN.\nDa kamen zwei Bärinnen aus dem Wald\nund zerrissen 42 von diesen Burschen.",
+       "englisch_web": "He looked behind him and saw them, and cursed them in Yahweh’s name. Then two female bears came out of the woods and mauled forty-two of those youths."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Von dort ging er zum Berg Karmel,\nund von dort kehrte er nach Samaria zurück.",
+       "englisch_web": "He went from there to Mount Carmel, and from there he returned to Samaria."
+      }
+     ],
+     "erklaerung": "Diese Geschichte ist eine der schwierigsten der Bibel. Viele Menschen stoßen sich daran, und das ist verständlich.\nWas man wissen sollte: Das hebräische Wort für „Burschen“ kann auch junge Männer bezeichnen, nicht nur kleine Kinder. Es war eine große Gruppe, mindestens 42. Sie kamen aus Bet-El, dem Ort von Jerobeams goldenem Kalb. Ihr Spott richtet sich gegen den Propheten Gottes. „Komm hoch“ ist vielleicht eine Anspielung auf Elijas Himmelfahrt, also: „Verschwinde doch auch!“\n„Zerrissen“ heißt verletzt. Der Text sagt nicht ausdrücklich, dass alle starben.\nDer Text will zeigen: Wer Gottes Boten verachtet, verachtet Gott selbst. Trotzdem ist diese Geschichte kein Vorbild für unser Handeln. Jesus lehrte: „Segnet, die euch verfluchen“ (Lukas 6,28).\nJuden und Christen haben über diese Stelle viel nachgedacht. Im Talmud (Sota 47a) heißt es sogar, Elisa sei später unter anderem deswegen krank geworden."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der Krieg gegen Moab",
+   "abschnitte": [
+    {
+     "ueberschrift": "Joram, König von Israel",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Joram, der Sohn Ahabs, wurde König über Israel in Samaria,\nim achtzehnten Jahr Joschafats, des Königs von Juda.\nEr regierte zwölf Jahre.",
+       "englisch_web": "Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er tat, was in den Augen des HERRN böse war,\naber nicht so wie sein Vater und seine Mutter.\nDenn er entfernte die Steinsäule Baals, die sein Vater gemacht hatte.",
+       "englisch_web": "He did that which was evil in Yahweh’s sight, but not like his father and like his mother, for he put away the pillar of Baal that his father had made."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Doch er hielt fest an den Sünden Jerobeams, des Sohnes Nebats,\nzu denen er Israel verführt hatte.\nEr ließ nicht davon ab.",
+       "englisch_web": "Nevertheless he held to the sins of Jeroboam the son of Nebat, with which he made Israel to sin. He didn’t depart from them."
+      }
+     ],
+     "erklaerung": "Joram ist ein weiterer Sohn von Ahab und Isebel. Er ist nicht ganz so schlimm wie seine Eltern. Er entfernt ein Zeichen des Baalskults. Aber er bleibt bei den goldenen Kälbern Jerobeams.\nJoram regierte etwa von 852 bis 841 vor Christus."
+    },
+    {
+     "ueberschrift": "Drei Könige ziehen gegen Moab",
+     "vers_von": 4,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Mescha, der König von Moab, war ein Schafzüchter.\nEr musste dem König von Israel 100 000 Lämmer\nund die Wolle von 100 000 Widdern liefern.",
+       "englisch_web": "Now Mesha king of Moab was a sheep breeder; and he supplied the king of Israel with one hundred thousand lambs and the wool of one hundred thousand rams."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Aber als Ahab tot war,\nfiel der König von Moab vom König von Israel ab.",
+       "englisch_web": "But when Ahab was dead, the king of Moab rebelled against the king of Israel."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da zog der König Joram zu dieser Zeit von Samaria aus\nund musterte ganz Israel.",
+       "englisch_web": "King Jehoram went out of Samaria at that time, and mustered all Israel."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er ging hin und schickte zu Joschafat, dem König von Juda, und ließ ihm sagen:\n„Der König von Moab ist von mir abgefallen.\nZiehst du mit mir in den Kampf gegen Moab?“\nEr sagte:\n„Ich ziehe hinauf.\nIch bin wie du, mein Volk wie dein Volk, meine Pferde wie deine Pferde.“",
+       "englisch_web": "He went and sent to Jehoshaphat the king of Judah, saying, “The king of Moab has rebelled against me. Will you go with me against Moab to battle?” He said, “I will go up. I am as you are, my people as your people, my horses as your horses.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Dann fragte er:\n„Auf welchem Weg sollen wir hinaufziehen?“\nJoram antwortete:\n„Auf dem Weg durch die Wüste von Edom.“",
+       "englisch_web": "Then he said, “Which way shall we go up?” Jehoram answered, “The way of the wilderness of Edom.”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "So zog der König von Israel mit dem König von Juda und dem König von Edom los.\nSie zogen sieben Tage lang auf einem Umweg.\nDa gab es kein Wasser für das Heer und für die Tiere, die ihnen folgten.",
+       "englisch_web": "So the king of Israel went with the king of Judah and the king of Edom, and they marched for seven days along a circuitous route. There was no water for the army or for the animals that followed them."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Der König von Israel sagte:\n„Weh!\nDer HERR hat diese drei Könige zusammengerufen, um sie in die Hand Moabs zu geben.“",
+       "englisch_web": "The king of Israel said, “Alas! For Yahweh has called these three kings together to deliver them into the hand of Moab.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Aber Joschafat sagte:\n„Gibt es hier keinen Propheten des HERRN, damit wir durch ihn den HERRN fragen können?“\nEiner von den Dienern des Königs von Israel antwortete:\n„Elisa, der Sohn Schafats, ist hier,\nder Elija Wasser über die Hände gegossen hat.“",
+       "englisch_web": "But Jehoshaphat said, “Isn’t there a prophet of Yahweh here, that we may inquire of Yahweh by him?” One of the king of Israel’s servants answered, “Elisha the son of Shaphat, who poured water on the hands of Elijah, is here.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Joschafat sagte:\n„Bei ihm ist das Wort des HERRN.“\nDa gingen der König von Israel, Joschafat und der König von Edom zu ihm hinab.",
+       "englisch_web": "Jehoshaphat said, “Yahweh’s word is with him.” So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+      }
+     ],
+     "erklaerung": "Moab liegt östlich des Toten Meeres. Es musste Israel jedes Jahr hohe Abgaben in Form von Schafen und Wolle zahlen.\nMescha ist auch außerhalb der Bibel bekannt: 1868 wurde in Jordanien der „Mescha-Stein“ gefunden, eine große Inschrift. Darin erzählt Mescha selbst, wie Moab sich von Israel befreit hat. Er nennt dort auch Omri, den König von Israel, und den Gott Israels mit seinem Namen. Der Stein ist heute im Louvre in Paris.\nDie drei Könige wollen Moab von Süden her angreifen, durch Edom. Aber in der Wüste geht ihnen das Wasser aus.\nWieder ist es Joschafat, der fragt: „Gibt es hier keinen Propheten des HERRN?“ (wie in 1. Könige 22,7).\n„Der Elija Wasser über die Hände gegossen hat“ heißt: der Elijas Diener und Schüler war."
+    },
+    {
+     "ueberschrift": "Elisa verspricht Wasser",
+     "vers_von": 13,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Elisa sagte zum König von Israel:\n„Was habe ich mit dir zu tun?\nGeh zu den Propheten deines Vaters und zu den Propheten deiner Mutter.“\nDer König von Israel sagte zu ihm:\n„Nein, denn der HERR hat diese drei Könige zusammengerufen,\num sie in die Hand Moabs zu geben.“",
+       "englisch_web": "Elisha said to the king of Israel, “What have I to do with you? Go to the prophets of your father, and to the prophets of your mother.” The king of Israel said to him, “No, for Yahweh has called these three kings together to deliver them into the hand of Moab.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Elisa sagte:\n„So wahr der HERR der Heere lebt, vor dem ich stehe:\nWenn ich nicht Rücksicht auf Joschafat, den König von Juda, nehmen würde,\ndann würde ich dich nicht anschauen und dich nicht ansehen.",
+       "englisch_web": "Elisha said, “As Yahweh of Armies lives, before whom I stand, surely, were it not that I respect the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Aber jetzt bringt mir einen Spielmann.“\nAls der Spielmann spielte, kam die Hand des HERRN über ihn.",
+       "englisch_web": "But now bring me a musician.” When the musician played, Yahweh’s hand came on him."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er sagte:\n„So spricht der HERR:\n‚Macht in diesem Tal überall Gräben.‘",
+       "englisch_web": "He said, “Yahweh says, ‘Make this valley full of trenches.’"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn so spricht der HERR:\n‚Ihr werdet keinen Wind sehen und keinen Regen sehen,\nund doch wird dieses Tal voll Wasser werden.\nUnd ihr werdet trinken, ihr und euer Vieh und eure anderen Tiere.",
+       "englisch_web": "For Yahweh says, ‘You will not see wind, neither will you see rain, yet that valley will be filled with water, and you will drink, both you and your livestock and your other animals."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Das ist leicht in den Augen des HERRN.\nEr wird auch Moab in eure Hand geben.",
+       "englisch_web": "This is an easy thing in Yahweh’s sight. He will also deliver the Moabites into your hand."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Ihr werdet jede befestigte Stadt und jede auserlesene Stadt schlagen,\njeden guten Baum fällen,\nalle Wasserquellen verstopfen\nund jedes gute Feld mit Steinen verderben.‘“",
+       "englisch_web": "You shall strike every fortified city and every choice city, and shall fell every good tree, and stop all springs of water, and mar every good piece of land with stones.’”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Am Morgen, um die Zeit, wenn man das Opfer darbringt,\nschau, da kam Wasser aus der Richtung von Edom,\nund das Land wurde voll Wasser.",
+       "englisch_web": "In the morning, about the time of offering the sacrifice, behold, water came by the way of Edom, and the country was filled with water."
+      }
+     ],
+     "erklaerung": "Elisa ist sehr direkt zu Joram: Geh doch zu deinen Baalspropheten! Nur wegen des treuen Königs Joschafat hilft er.\nElisa lässt Musik spielen, bevor er prophezeit. Musik kann helfen, still zu werden und auf Gott zu hören. Auch David spielte für Saul auf der Harfe (1. Samuel 16,23).\nDas Wasser kommt ohne Regen. Wahrscheinlich hat es weit weg in den Bergen von Edom geregnet, und das Wasser floss durch das trockene Flussbett herab. Für die Menschen dort war es trotzdem ein Wunder zur richtigen Zeit.\nVers 19 ist hart: Bäume fällen und Felder verderben war damals übliche Kriegsführung. In 5. Mose 20,19 hatte Gott sogar verboten, bei einer Belagerung die Fruchtbäume zu fällen. Hier wird es angekündigt, nicht unbedingt gutgeheißen. Heute verbietet das Völkerrecht ausdrücklich, die Lebensgrundlagen der Zivilbevölkerung zu zerstören."
+    },
+    {
+     "ueberschrift": "Der Sieg über Moab und ein schreckliches Opfer",
+     "vers_von": 21,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Als ganz Moab hörte, dass die Könige heraufgezogen waren, um gegen sie zu kämpfen,\nwurden alle versammelt, die eine Rüstung anlegen konnten, Junge und Alte,\nund sie stellten sich an der Grenze auf.",
+       "englisch_web": "Now when all the Moabites heard that the kings had come up to fight against them, they gathered themselves together, all who were able to put on armor, young and old, and stood on the border."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Sie standen früh am Morgen auf.\nDie Sonne schien auf das Wasser,\nund die Moabiter sahen das Wasser ihnen gegenüber, rot wie Blut.",
+       "englisch_web": "They rose up early in the morning, and the sun shone on the water, and the Moabites saw the water opposite them as red as blood."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sie sagten:\n„Das ist Blut!\nDie Könige haben sich bestimmt gegenseitig vernichtet und einander erschlagen.\nJetzt also, Moab, auf zur Beute!“",
+       "englisch_web": "They said, “This is blood. The kings are surely destroyed, and they have struck each other. Now therefore, Moab, to the plunder!”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Als sie zum Lager Israels kamen,\nstanden die Israeliten auf und schlugen die Moabiter,\nsodass sie vor ihnen flohen.\nUnd sie drangen in das Land vor und schlugen die Moabiter.",
+       "englisch_web": "When they came to the camp of Israel, the Israelites rose up and struck the Moabites, so that they fled before them; and they went forward into the land attacking the Moabites."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Sie rissen die Städte nieder.\nAuf jedes gute Feld warf jeder seinen Stein, bis es voll war.\nSie verstopften alle Wasserquellen und fällten alle guten Bäume.\nAm Ende blieben nur noch in Kir-Hareset die Steine übrig.\nAber die Steinschleuderer umzingelten die Stadt und griffen sie an.",
+       "englisch_web": "They beat down the cities; and on every good piece of land each man cast his stone, and filled it. They also stopped all the springs of water and cut down all the good trees, until in Kir Hareseth all they left was its stones; however the men armed with slings went around it and attacked it."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Als der König von Moab sah, dass der Kampf für ihn zu schwer war,\nnahm er 700 Männer mit, die das Schwert zogen,\num zum König von Edom durchzubrechen.\nAber sie schafften es nicht.",
+       "englisch_web": "When the king of Moab saw that the battle was too severe for him, he took with him seven hundred men who drew a sword, to break through to the king of Edom; but they could not."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Da nahm er seinen ältesten Sohn, der an seiner Stelle König werden sollte,\nund brachte ihn auf der Mauer als Brandopfer dar.\nDa kam ein großer Zorn über Israel.\nUnd sie zogen von ihm ab und kehrten in ihr Land zurück.",
+       "englisch_web": "Then he took his oldest son who would have reigned in his place, and offered him for a burnt offering on the wall. There was great wrath against Israel; and they departed from him, and returned to their own land."
+      }
+     ],
+     "erklaerung": "Das Wasser leuchtet in der Morgensonne rot, vielleicht wegen der roten Erde in Edom. Die Moabiter denken, es sei Blut, und laufen in eine Falle.\nAm Ende ist Mescha eingeschlossen in seiner Festung Kir-Hareset. In seiner Verzweiflung opfert er seinen eigenen Sohn auf der Stadtmauer, wohl seinem Gott Kemosch. Das ist grausam und entsetzlich. Die Bibel verurteilt Kinderopfer an vielen Stellen scharf (3. Mose 18,21; 5. Mose 12,31).\n„Ein großer Zorn über Israel“ ist schwer zu deuten. Vielleicht war es Entsetzen bei den Israeliten selbst. Vielleicht wuchs der Kampfgeist der Moabiter so sehr, dass Israel abziehen musste. Der Text sagt es nicht genau. Er sagt nicht, dass Kemosch wirklich Macht hatte.\nElisas Ankündigung hatte sich erfüllt: Israel siegte. Aber den endgültigen Sieg bekamen sie nicht. Auf dem Mescha-Stein beschreibt Mescha das Ende des Krieges als Befreiung Moabs.\nKir-Hareset (auch Kir-Heres genannt) war die Hauptstadt Moabs. Man nimmt an, dass sie beim heutigen Kerak in Jordanien lag."
+    }
+   ]
+  }
+ ]
+}
