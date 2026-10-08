@@ -55447,3 +55447,369 @@ in das Haus Gottes.
 > Asa handelt auch gegen seine eigene Familie, als es um Gott geht. Das war mutig.
 > Vers 17 scheint Kapitel 14,5 zu widersprechen, wo Asa die Opferhöhen entfernte. Eine Erklärung: Asa entfernte die Höhen für fremde Götter. Die Höhen, auf denen man dem HERRN opferte, blieben. Oder: „Israel“ meint hier die eroberten Gebiete im Norden.
 > „Sein Herz war ungeteilt“: In der englischen Vorlage steht „perfekt“. Gemeint ist nicht, dass Asa ohne Fehler war, sondern dass er Gott treu war. Kapitel 16 zeigt, dass Asa später doch Fehler machte.
+
+## 2. Chronik – Kapitel 16
+#### Asas letzte Jahre
+
+---
+
+### Asa kauft sich Hilfe bei den Syrern (Vers 1–6)
+
+<sup>1</sup>Im 36. Jahr der Regierung Asas
+zog Bascha, der König von Israel, gegen Juda herauf
+und baute Rama aus,
+damit niemand mehr zu Asa, dem König von Juda, hinausgehen oder hereinkommen konnte.
+<sup>2</sup>Da holte Asa Silber und Gold aus den Schätzen des Hauses des HERRN
+und des Hauses des Königs
+und schickte es zu Ben-Hadad, dem König von Syrien, der in Damaskus wohnte,
+und ließ ihm sagen:
+<sup>3</sup>„Es soll ein Bündnis zwischen mir und dir sein,
+wie es zwischen meinem Vater und deinem Vater war.
+Schau, ich schicke dir Silber und Gold.
+Geh, brich dein Bündnis mit Bascha, dem König von Israel,
+damit er von mir abzieht.“
+<sup>4</sup>Ben-Hadad hörte auf den König Asa
+und schickte die Anführer seiner Heere gegen die Städte Israels.
+Sie schlugen Ijon, Dan, Abel-Majim
+und alle Vorratsstädte Naftalis.
+<sup>5</sup>Als Bascha davon hörte,
+hörte er auf, Rama auszubauen,
+und ließ seine Arbeit ruhen.
+<sup>6</sup>Da nahm der König Asa ganz Juda mit,
+und sie trugen die Steine und das Holz von Rama weg,
+mit denen Bascha gebaut hatte.
+Damit baute er Geba und Mizpa aus.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 1. Könige 15,16–22.
+> Rama lag nur etwa 8 km nördlich von Jerusalem. Wenn Bascha Rama befestigte, war Jerusalem vom Norden abgeschnitten.
+> Syrien heißt im Hebräischen „Aram“. Damaskus war seine Hauptstadt.
+> Die Zahl „36. Jahr“ ist schwierig. Nach 1. Könige 16,8 war Bascha da schon tot. Viele Fachleute meinen, dass hier die Jahre seit der Teilung des Reiches gezählt werden, nicht die Jahre Asas. Dann wäre es etwa Asas 16. Jahr.
+> Abel-Majim heißt in 1. Könige 15,20 „Abel-Bet-Maacha“.
+> Politisch war Asas Plan ein Erfolg. Aber er hat dafür sogar den Tempelschatz hergegeben, und er hat sich auf einen fremden König verlassen, nicht auf Gott.
+
+---
+
+### Der Seher Hanani tadelt Asa (Vers 7–10)
+
+<sup>7</sup>Zu dieser Zeit kam der Seher Hanani zu Asa, dem König von Juda,
+und sagte zu ihm:
+„Weil du dich auf den König von Syrien verlassen hast
+und dich nicht auf den HERRN, deinen Gott, verlassen hast,
+darum ist das Heer des Königs von Syrien deiner Hand entkommen.
+<sup>8</sup>Waren nicht die Kuschiten und die Libyer ein riesiges Heer,
+mit Wagen und sehr vielen Reitern?
+Doch weil du dich auf den HERRN verlassen hast,
+hat er sie in deine Hand gegeben.
+<sup>9</sup>Denn die Augen des HERRN durchstreifen die ganze Erde,
+um sich stark zu zeigen für die,
+deren Herz ungeteilt bei ihm ist.
+Darin hast du töricht gehandelt.
+Denn von jetzt an wirst du Kriege haben.“
+<sup>10</sup>Da wurde Asa zornig über den Seher
+und warf ihn ins Gefängnis,
+denn er war wütend auf ihn wegen dieser Sache.
+Zur selben Zeit unterdrückte Asa auch einige aus dem Volk.
+
+> **Was bedeutet das?**
+> Hanani erinnert Asa an Kapitel 14: Damals war das Heer viel größer, und Asa hat Gott vertraut. Jetzt war die Gefahr kleiner, aber Asa hat Gott nicht mehr gefragt.
+> Vers 9 ist ein wunderbarer Satz: Gott schaut über die ganze Erde. Er sucht Menschen, die ihm ihr ganzes Herz geben, damit er ihnen helfen kann. Gott sucht nicht nach Fehlern, sondern nach Gelegenheiten, zu helfen.
+> Traurig ist Asas Reaktion. Statt umzukehren, wird er wütend und sperrt den Propheten ein. Und er unterdrückt Menschen. Der einst so treue König ist im Alter hart geworden.
+> „Kuschiten“: In der englischen Vorlage steht „Äthiopier“ (siehe Kapitel 14,9).
+
+---
+
+### Asas Krankheit und Tod (Vers 11–14)
+
+<sup>11</sup>Schau, die Geschichte Asas, die frühere und die spätere,
+schau, sie ist aufgeschrieben im Buch der Könige von Juda und Israel.
+<sup>12</sup>Im 39. Jahr seiner Regierung
+wurde Asa an seinen Füßen krank.
+Seine Krankheit war sehr schwer.
+Doch auch in seiner Krankheit suchte er nicht den HERRN,
+sondern nur die Ärzte.
+<sup>13</sup>Asa legte sich zu seinen Vätern
+und starb im 41. Jahr seiner Regierung.
+<sup>14</sup>Man begrub ihn in seinem eigenen Grab,
+das er sich in der Stadt Davids hatte aushauen lassen.
+Man legte ihn auf ein Lager,
+das mit Wohlgerüchen und allerlei Gewürzen gefüllt war,
+die nach der Kunst der Salbenmischer zubereitet waren.
+Und man machte für ihn ein sehr großes Feuer.
+
+> **Was bedeutet das?**
+> Vers 12 heißt nicht, dass es falsch ist, zum Arzt zu gehen! Die Bibel achtet die Ärzte (zum Beispiel Jesus Sirach 38; Lukas war Arzt, Kolosser 4,14). Der Vorwurf ist: Asa suchte „nur“ die Ärzte und gar nicht mehr Gott. Er hatte Gott ganz aus seinem Leben verdrängt.
+> Heute sagen Juden und Christen: Geh zum Arzt und bete auch. Beides gehört zusammen.
+> Das „sehr große Feuer“ war keine Verbrennung des Toten. Es war ein Ehrenfeuer, in dem man Gewürze verbrannte, zu Ehren des Königs (vgl. Jeremia 34,5).
+> Trotz seiner späten Fehler wird Asa geehrt. Er war insgesamt ein guter König (Kapitel 15,17).
+
+## 2. Chronik – Kapitel 17
+#### Joschafat, ein guter König
+
+---
+
+### Joschafat sucht Gott (Vers 1–6)
+
+<sup>1</sup>Sein Sohn Joschafat wurde an seiner Stelle König
+und machte sich stark gegen Israel.
+<sup>2</sup>Er legte Truppen in alle befestigten Städte Judas
+und setzte Besatzungen in das Land Juda
+und in die Städte Efraims, die sein Vater Asa erobert hatte.
+<sup>3</sup>Der HERR war mit Joschafat,
+denn er ging auf den früheren Wegen seines Vaters David
+und suchte nicht die Baale,
+<sup>4</sup>sondern er suchte den Gott seines Vaters
+und ging nach seinen Geboten
+und nicht nach den Wegen Israels.
+<sup>5</sup>Darum festigte der HERR das Königreich in seiner Hand.
+Ganz Juda brachte Joschafat Abgaben,
+und er hatte Reichtum und Ehre in Fülle.
+<sup>6</sup>Sein Herz wurde mutig auf den Wegen des HERRN.
+Außerdem entfernte er die Opferhöhen und die Aschera-Pfähle aus Juda.
+
+> **Was bedeutet das?**
+> Joschafat regierte etwa von 872 bis 848 vor Christus. Die Chronik erzählt viel mehr über ihn als die Bücher der Könige.
+> „Die früheren Wege seines Vaters David“: David war sein Vorfahre. Gemeint sind Davids gute Jahre.
+> „Baale“ sind die verschiedenen Formen des Gottes Baal, der im Nordreich unter Ahab verehrt wurde.
+> „Sein Herz wurde mutig“: Wörtlich „sein Herz wurde hoch“. Sonst heißt das „hochmütig werden“. Hier ist es positiv gemeint: Er wurde voller Mut für Gottes Wege.
+
+---
+
+### Lehrer ziehen durchs Land (Vers 7–9)
+
+<sup>7</sup>Im dritten Jahr seiner Regierung schickte er seine Fürsten,
+nämlich Ben-Hajil, Obadja, Secharja, Netanel und Michaja,
+damit sie in den Städten Judas lehrten.
+<sup>8</sup>Mit ihnen schickte er Leviten,
+nämlich Schemaja, Netanja, Sebadja, Asaël, Schemiramot,
+Jonatan, Adonija, Tobija und Tob-Adonija, die Leviten,
+und mit ihnen die Priester Elischama und Joram.
+<sup>9</sup>Sie lehrten in Juda
+und hatten das Buch des Gesetzes des HERRN bei sich.
+Sie zogen durch alle Städte Judas
+und lehrten unter dem Volk.
+
+> **Was bedeutet das?**
+> Das ist etwas Besonderes: Joschafat schickt Lehrer durch das ganze Land. Fürsten, Leviten und Priester gehen gemeinsam. Sie bringen das Buch des Gesetzes zu den Menschen.
+> Joschafat wusste: Glaube braucht Wissen. Die Menschen sollen Gottes Wort selbst kennen.
+> Der Name Joschafat bedeutet „Der HERR richtet“. In Kapitel 19 setzt er Richter ein.
+
+---
+
+### Joschafat wird mächtig (Vers 10–13)
+
+<sup>10</sup>Der Schrecken des HERRN kam über alle Königreiche der Länder rings um Juda,
+sodass sie keinen Krieg gegen Joschafat führten.
+<sup>11</sup>Einige von den Philistern brachten Joschafat Geschenke und Silber als Abgabe.
+Auch die Araber brachten ihm Herden:
+7700 Widder und 7700 Ziegenböcke.
+<sup>12</sup>Joschafat wurde immer größer.
+Er baute Burgen und Vorratsstädte in Juda.
+<sup>13</sup>Er hatte viel Arbeit in den Städten Judas
+und Kriegsleute, starke, tapfere Krieger, in Jerusalem.
+
+> **Was bedeutet das?**
+> Weil das Volk Gottes Wort lernte, gab Gott Frieden. Die Nachbarvölker hatten Respekt.
+> Die „Araber“ waren Nomadenstämme in der Wüste südlich und östlich von Juda.
+
+---
+
+### Joschafats Heer (Vers 14–19)
+
+<sup>14</sup>Dies war ihre Zählung nach ihren Familien:
+Aus Juda die Anführer über Tausend:
+Adna, der Anführer, und mit ihm 300 000 starke, tapfere Krieger.
+<sup>15</sup>Neben ihm Johanan, der Anführer, und mit ihm 280 000.
+<sup>16</sup>Neben ihm Amasja, der Sohn Sichris,
+der sich freiwillig dem HERRN zur Verfügung gestellt hatte,
+und mit ihm 200 000 starke, tapfere Krieger.
+<sup>17</sup>Aus Benjamin:
+Eljada, ein starker, tapferer Krieger,
+und mit ihm 200 000, bewaffnet mit Bogen und Schild.
+<sup>18</sup>Neben ihm Josabad,
+und mit ihm 180 000, gerüstet und bereit zum Krieg.
+<sup>19</sup>Diese dienten dem König,
+außer denen, die der König in die befestigten Städte in ganz Juda gelegt hatte.
+
+> **Was bedeutet das?**
+> Zusammen sind das über eine Million Männer. Das ist für ein kleines Land wie Juda sehr viel. Wie bei den anderen großen Zahlen meinen viele Fachleute, dass „Tausend“ hier eine militärische Einheit bezeichnet.
+> Schön ist die kleine Bemerkung über Amasja in Vers 16: Er hat sich „freiwillig dem HERRN zur Verfügung gestellt“. Mitten in einer Liste von Zahlen wird ein Mensch wegen seiner Hingabe geehrt.
+
+## 2. Chronik – Kapitel 18
+#### Der Prophet Micha und Ahabs Tod
+
+---
+
+### Joschafat verbündet sich mit Ahab (Vers 1–3)
+
+<sup>1</sup>Joschafat hatte Reichtum und Ehre in Fülle.
+Und er verschwägerte sich mit Ahab.
+<sup>2</sup>Nach einigen Jahren ging er hinab zu Ahab nach Samaria.
+Ahab schlachtete für ihn und für das Volk, das bei ihm war,
+Schafe und Rinder in Menge.
+Und er überredete ihn, mit ihm nach Ramot in Gilead hinaufzuziehen.
+<sup>3</sup>Ahab, der König von Israel, sagte zu Joschafat, dem König von Juda:
+„Ziehst du mit mir nach Ramot in Gilead?“
+Er antwortete ihm:
+„Ich bin wie du, und mein Volk wie dein Volk.
+Wir werden mit dir in den Krieg ziehen.“
+
+> **Was bedeutet das?**
+> Diese Geschichte steht fast gleich in 1. Könige 22.
+> „Er verschwägerte sich“: In der englischen Vorlage steht „verbündete sich“. Gemeint ist: Joschafats Sohn Joram heiratete Atalja, die Tochter Ahabs (Kapitel 21,6). Diese Ehe brachte später großes Unglück über Juda (Kapitel 22–23).
+> Ahab war der König des Nordreichs, der mit seiner Frau Isebel den Baal-Kult förderte.
+> Joschafat hatte doch Reichtum und Ehre. Warum brauchte er das Bündnis mit Ahab? Die Chronik deutet an: Er hatte es gar nicht nötig.
+
+---
+
+### 400 Propheten sagen Ja (Vers 4–11)
+
+<sup>4</sup>Joschafat sagte zum König von Israel:
+„Bitte frag zuerst nach dem Wort des HERRN.“
+<sup>5</sup>Da versammelte der König von Israel die Propheten,
+400 Männer,
+und sagte zu ihnen:
+„Sollen wir nach Ramot in Gilead in den Kampf ziehen, oder soll ich es lassen?“
+Sie sagten:
+„Zieh hinauf, denn Gott wird es in die Hand des Königs geben.“
+<sup>6</sup>Aber Joschafat sagte:
+„Gibt es hier nicht noch einen Propheten des HERRN,
+damit wir ihn fragen können?“
+<sup>7</sup>Der König von Israel sagte zu Joschafat:
+„Es gibt noch einen Mann, durch den wir den HERRN fragen können.
+Aber ich hasse ihn,
+denn er weissagt mir nie Gutes, sondern immer nur Böses.
+Es ist Micha, der Sohn Jimlas.“
+Joschafat sagte:
+„Der König soll nicht so reden.“
+<sup>8</sup>Da rief der König von Israel einen Hofbeamten
+und sagte:
+„Hol schnell Micha, den Sohn Jimlas.“
+<sup>9</sup>Der König von Israel und Joschafat, der König von Juda,
+saßen jeder auf seinem Thron, in ihre Gewänder gekleidet.
+Sie saßen auf einem freien Platz am Eingang des Tores von Samaria.
+Und alle Propheten weissagten vor ihnen.
+<sup>10</sup>Zidkija, der Sohn Kenaanas, machte sich Hörner aus Eisen
+und sagte:
+„So spricht der HERR:
+‚Mit diesen wirst du die Syrer niederstoßen, bis sie vernichtet sind.‘“
+<sup>11</sup>Alle Propheten weissagten so und sagten:
+„Zieh hinauf nach Ramot in Gilead, und du wirst Erfolg haben.
+Denn der HERR wird es in die Hand des Königs geben.“
+
+> **Was bedeutet das?**
+> Joschafat ist vorsichtig. Er will Gottes Willen wissen. Aber die 400 Propheten sagen nur, was Ahab hören will.
+> Ahab hasst Micha, weil Micha die Wahrheit sagt. Das ist eine alte Versuchung: Man will nur Menschen um sich haben, die einem zustimmen.
+> Ramot in Gilead war eine wichtige Grenzstadt östlich des Jordan. Die Syrer (Aram) hatten sie besetzt.
+> Dieser Micha ist nicht der Prophet Micha, nach dem ein Buch der Bibel benannt ist.
+
+---
+
+### Micha sagt die Wahrheit (Vers 12–27)
+
+<sup>12</sup>Der Bote, der hingegangen war, um Micha zu rufen, sagte zu ihm:
+„Schau, die Worte der Propheten sagen dem König wie aus einem Mund Gutes.
+Bitte lass dein Wort sein wie das Wort von einem von ihnen,
+und sag Gutes.“
+<sup>13</sup>Micha sagte:
+„So wahr der HERR lebt:
+Was mein Gott sagt, das werde ich reden.“
+<sup>14</sup>Als er zum König kam, sagte der König zu ihm:
+„Micha, sollen wir nach Ramot in Gilead in den Kampf ziehen, oder soll ich es lassen?“
+Er sagte:
+„Zieht hinauf, und ihr werdet Erfolg haben.
+Sie werden in eure Hand gegeben werden.“
+<sup>15</sup>Der König sagte zu ihm:
+„Wie oft soll ich dich beschwören,
+dass du mir im Namen des HERRN nichts als die Wahrheit sagst?“
+<sup>16</sup>Er sagte:
+„Ich sah ganz Israel auf den Bergen zerstreut,
+wie Schafe, die keinen Hirten haben.
+Der HERR sagte:
+‚Diese haben keinen Herrn.
+Jeder soll in Frieden in sein Haus zurückkehren.‘“
+<sup>17</sup>Der König von Israel sagte zu Joschafat:
+„Habe ich dir nicht gesagt, dass er mir nichts Gutes weissagt, sondern nur Böses?“
+<sup>18</sup>Micha sagte:
+„Darum hört das Wort des HERRN:
+Ich sah den HERRN auf seinem Thron sitzen,
+und das ganze Heer des Himmels stand zu seiner Rechten und zu seiner Linken.
+<sup>19</sup>Der HERR sagte:
+‚Wer wird Ahab, den König von Israel, verführen,
+damit er hinaufzieht und bei Ramot in Gilead fällt?‘
+Der eine sagte dies, der andere sagte das.
+<sup>20</sup>Da trat ein Geist hervor, stellte sich vor den HERRN und sagte:
+‚Ich will ihn verführen.‘
+Der HERR sagte zu ihm:
+‚Wie?‘
+<sup>21</sup>Er sagte:
+‚Ich will hinausgehen und ein Lügengeist im Mund aller seiner Propheten sein.‘
+Er sagte:
+‚Du wirst ihn verführen, und es wird dir auch gelingen.
+Geh hin und tu es.‘
+<sup>22</sup>Und jetzt, schau, der HERR hat einen Lügengeist in den Mund dieser deiner Propheten gelegt,
+und der HERR hat Böses über dich geredet.“
+<sup>23</sup>Da trat Zidkija, der Sohn Kenaanas, heran,
+schlug Micha auf die Wange und sagte:
+„Auf welchem Weg ist der Geist des HERRN von mir gewichen, um mit dir zu reden?“
+<sup>24</sup>Micha sagte:
+„Schau, du wirst es sehen an dem Tag,
+an dem du in eine innere Kammer gehst, um dich zu verstecken.“
+<sup>25</sup>Der König von Israel sagte:
+„Nehmt Micha und bringt ihn zurück zu Amon, dem Stadtobersten,
+und zu Joasch, dem Sohn des Königs,
+<sup>26</sup>und sagt:
+‚So spricht der König:
+Werft diesen Kerl ins Gefängnis
+und gebt ihm Brot der Bedrängnis und Wasser der Bedrängnis,
+bis ich in Frieden zurückkomme.‘“
+<sup>27</sup>Micha sagte:
+„Wenn du wirklich in Frieden zurückkommst,
+dann hat der HERR nicht durch mich geredet.“
+Und er sagte:
+„Hört es, all ihr Völker!“
+
+> **Was bedeutet das?**
+> Micha steht unter großem Druck: 400 Propheten gegen einen. Aber er bleibt fest: „Was mein Gott sagt, das werde ich reden.“
+> Zuerst wiederholt Micha spöttisch die Worte der anderen. Ahab merkt sofort, dass es nicht ernst gemeint ist. Dann sagt Micha die Wahrheit: Israel wird wie Schafe ohne Hirten sein. Das heißt: Der König, der Hirte des Volkes, wird sterben.
+> Die Vision vom himmlischen Thronrat ist schwer zu verstehen. Lässt Gott wirklich lügen? Man muss genau hinsehen: Micha verrät Ahab ja gerade den ganzen Plan! Gott warnt Ahab offen. Ahab hat die Wahl. Er wollte die Lüge hören, und Gott lässt ihn bei der Lüge, die er gewählt hat.
+> „Brot der Bedrängnis und Wasser der Bedrängnis“ heißt: nur ganz wenig Brot und Wasser, gerade genug zum Überleben.
+> „Hört es, all ihr Völker!“ ist derselbe Satz wie der erste Satz im Buch des Propheten Micha (Micha 1,2).
+
+---
+
+### Ahabs Tod (Vers 28–34)
+
+<sup>28</sup>So zogen der König von Israel und Joschafat, der König von Juda, nach Ramot in Gilead hinauf.
+<sup>29</sup>Der König von Israel sagte zu Joschafat:
+„Ich will mich verkleiden und in den Kampf gehen.
+Du aber zieh deine Gewänder an.“
+So verkleidete sich der König von Israel,
+und sie gingen in den Kampf.
+<sup>30</sup>Der König von Syrien hatte den Anführern seiner Wagen befohlen:
+„Kämpft nicht gegen Kleine oder Große,
+sondern nur gegen den König von Israel.“
+<sup>31</sup>Als die Anführer der Wagen Joschafat sahen,
+sagten sie:
+„Das ist der König von Israel!“
+Darum wandten sie sich um, um gegen ihn zu kämpfen.
+Aber Joschafat schrie,
+und der HERR half ihm,
+und Gott lenkte sie von ihm weg.
+<sup>32</sup>Als die Anführer der Wagen sahen, dass er nicht der König von Israel war,
+ließen sie davon ab, ihn zu verfolgen.
+<sup>33</sup>Ein Mann spannte seinen Bogen aufs Geratewohl
+und traf den König von Israel zwischen die Teile der Rüstung.
+Da sagte er zu seinem Wagenlenker:
+„Wende um und bring mich aus dem Kampf,
+denn ich bin schwer verwundet.“
+<sup>34</sup>Der Kampf wurde an diesem Tag immer heftiger.
+Der König von Israel hielt sich in seinem Wagen aufrecht,
+den Syrern gegenüber, bis zum Abend.
+Und um die Zeit, als die Sonne unterging, starb er.
+
+> **Was bedeutet das?**
+> Ahab versucht, der Prophezeiung zu entgehen. Er verkleidet sich und lässt Joschafat als einzigen König in Königskleidern kämpfen. Das war gefährlich und unfair gegenüber Joschafat.
+> Aber man kann Gott nicht austricksen. Ein Pfeil, „aufs Geratewohl“ geschossen, trifft Ahab genau an der schwachen Stelle der Rüstung.
+> Die Chronik fügt in Vers 31 etwas hinzu, das in 1. Könige 22 nicht steht: „Der HERR half ihm, und Gott lenkte sie von ihm weg.“ Joschafat schreit zu Gott, und Gott rettet ihn, obwohl er sich mit Ahab eingelassen hatte. Gottes Gnade ist größer als unsere Fehler.
+> Ahab regierte etwa von 874 bis 853 vor Christus.
