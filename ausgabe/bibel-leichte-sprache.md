@@ -42917,3 +42917,653 @@ So baute er sieben Jahre daran.
 > Der Monat Bul ist etwa Oktober bis November.
 > Vom vierten Jahr im zweiten Monat bis zum elften Jahr im achten Monat sind es genau gerechnet siebeneinhalb Jahre. Die Bibel sagt rund: sieben Jahre. Die Zahl sieben steht in der Bibel oft für Vollständigkeit, wie die sieben Tage der Schöpfung.
 > Im nächsten Kapitel werden wir lesen, dass Salomo an seinem eigenen Palast dreizehn Jahre baute, fast doppelt so lange (Kapitel 7,1).
+
+## 1. Könige – Kapitel 7
+#### Salomos Palast und die Geräte für den Tempel
+
+---
+
+### Salomos Palast (Vers 1–12)
+
+<sup>1</sup>An seinem eigenen Haus baute Salomo dreizehn Jahre,
+und er vollendete sein ganzes Haus.
+<sup>2</sup>Er baute nämlich das Libanonwaldhaus.
+Es war etwa 45 Meter lang, 22,5 Meter breit und 13,5 Meter hoch,
+auf vier Reihen von Zedernsäulen, mit Zedernbalken auf den Säulen.
+<sup>3</sup>Es war oben mit Zedernholz gedeckt,
+über den fünfundvierzig Balken, die auf den Säulen lagen, fünfzehn in einer Reihe.
+<sup>4</sup>Es gab Balken in drei Reihen,
+und Fenster lag gegenüber Fenster, dreimal.
+<sup>5</sup>Alle Türen und Pfosten waren viereckig mit Balken gemacht,
+und Fenster lag gegenüber Fenster, dreimal.
+<sup>6</sup>Er machte die Säulenhalle.
+Sie war etwa 22,5 Meter lang und 13,5 Meter breit,
+mit einer Vorhalle davor, und Säulen und einem Vordach davor.
+<sup>7</sup>Er machte die Thronhalle, wo er Gericht halten wollte, die Gerichtshalle.
+Sie war mit Zedernholz verkleidet, vom Fußboden bis zum Fußboden.
+<sup>8</sup>Sein Haus, in dem er wohnen wollte, im anderen Hof hinter der Halle,
+war in derselben Bauweise.
+Er baute auch ein Haus für die Tochter des Pharao, die Salomo zur Frau genommen hatte,
+wie diese Halle.
+<sup>9</sup>Alle diese Gebäude waren aus kostbaren Steinen,
+aus Steinen, die nach Maß behauen und mit Sägen gesägt waren, innen und außen,
+vom Fundament bis zum Gesims,
+und außen bis zum großen Vorhof.
+<sup>10</sup>Das Fundament war aus kostbaren Steinen, aus großen Steinen,
+Steinen von etwa 4,5 Metern und Steinen von etwa 3,6 Metern.
+<sup>11</sup>Darüber waren kostbare Steine, behauen nach Maß, und Zedernholz.
+<sup>12</sup>Der große Vorhof ringsum hatte drei Lagen behauener Steine und eine Lage Zedernbalken,
+wie der innere Vorhof des Hauses des HERRN und die Vorhalle des Hauses.
+
+> **Was bedeutet das?**
+> Salomo baute sieben Jahre am Tempel, aber dreizehn Jahre an seinem eigenen Palast (Kapitel 6,38). Und der Palast war viel größer als der Tempel. Der Erzähler stellt das einfach nebeneinander. Man kann sich fragen: Was war Salomo wichtiger?
+> In der Bibel stehen die Maße in Ellen: Das Libanonwaldhaus war 100 Ellen lang, 50 breit und 30 hoch, die Säulenhalle 50 mal 30 Ellen, die Fundamentsteine 10 und 8 Ellen. Eine Elle sind etwa 45 Zentimeter.
+> „Libanonwaldhaus“ hieß das Gebäude, weil es so viele Säulen aus Zedernholz vom Libanon hatte. Es sah innen aus wie ein Wald. Dort wurden später auch Waffen aufbewahrt (Kapitel 10,17).
+> In der Gerichtshalle sprach der König Recht, so wie Salomo im Streit der zwei Mütter (Kapitel 3).
+> „Vom Fußboden bis zum Fußboden“: So steht es im hebräischen Text. Vielleicht ist gemeint: vom Fußboden bis zu den Deckenbalken.
+
+---
+
+### Hiram, der Bronzeschmied (Vers 13–14)
+
+<sup>13</sup>Der König Salomo schickte hin und holte Hiram aus Tyrus.
+<sup>14</sup>Er war der Sohn einer Witwe aus dem Stamm Naftali,
+und sein Vater war ein Mann aus Tyrus, ein Bronzeschmied.
+Er war erfüllt mit Weisheit, Verstand und Geschick,
+um alle Arbeiten aus Bronze auszuführen.
+Er kam zum König Salomo und führte alle seine Arbeit aus.
+
+> **Was bedeutet das?**
+> Dieser Hiram ist nicht der König Hiram, sondern ein Handwerker mit demselben Namen.
+> Er ist halb Israelit, halb Ausländer. Er wird „mit Weisheit erfüllt“ genannt, so wie Bezalel, der in der Wüste die Stiftshütte baute (2. Mose 31,3). Auch handwerkliches Können ist eine Gabe Gottes.
+
+---
+
+### Die zwei Säulen Jachin und Boas (Vers 15–22)
+
+<sup>15</sup>Er formte die zwei Säulen aus Bronze.
+Jede war etwa 8,1 Meter hoch,
+und eine Schnur von etwa 5,4 Metern umspannte jede von ihnen.
+<sup>16</sup>Er machte zwei Kapitelle aus gegossener Bronze,
+um sie oben auf die Säulen zu setzen.
+Das eine Kapitell war etwa 2,25 Meter hoch,
+und das andere Kapitell war etwa 2,25 Meter hoch.
+<sup>17</sup>Es gab Netze aus Flechtwerk und Kränze aus Kettenwerk für die Kapitelle oben auf den Säulen,
+sieben für das eine Kapitell und sieben für das andere Kapitell.
+<sup>18</sup>So machte er die Säulen.
+Und es gab zwei Reihen Granatäpfel ringsum auf dem einen Netzwerk,
+um die Kapitelle oben auf den Säulen zu bedecken.
+Und so machte er es auch mit dem anderen Kapitell.
+<sup>19</sup>Die Kapitelle oben auf den Säulen in der Vorhalle
+waren wie Lilien gearbeitet, etwa 1,8 Meter.
+<sup>20</sup>Auch oben auf den beiden Säulen waren Kapitelle,
+nah an der Wölbung, die neben dem Netzwerk war.
+Und es gab zweihundert Granatäpfel in Reihen ringsum auf dem anderen Kapitell.
+<sup>21</sup>Er stellte die Säulen an der Vorhalle des Tempels auf.
+Er stellte die rechte Säule auf und gab ihr den Namen Jachin.
+Und er stellte die linke Säule auf und gab ihr den Namen Boas.
+<sup>22</sup>Oben auf den Säulen war Lilienwerk.
+So war die Arbeit an den Säulen fertig.
+
+> **Was bedeutet das?**
+> In der Bibel stehen die Maße in Ellen: Die Säulen waren 18 Ellen hoch, ihr Umfang 12 Ellen, die Kapitelle je 5 Ellen hoch, das Lilienwerk 4 Ellen.
+> Die beiden Säulen standen frei vor dem Eingang des Tempels. Sie trugen nichts. Sie waren Zeichen.
+> Ihre Namen haben eine Bedeutung: „Jachin“ heißt „Er (Gott) wird fest machen“. „Boas“ heißt wohl „In ihm ist Kraft“. Wer in den Tempel ging, wurde daran erinnert: Gott gibt Halt und Stärke. Boas war auch der Name von Davids Urgroßvater (Rut 4).
+> Granatäpfel und Lilien waren Zeichen für Fruchtbarkeit, Leben und Schönheit.
+> Einige Einzelheiten in diesen Versen sind im Hebräischen schwer zu verstehen. Die Ausleger stellen sich die Kapitelle unterschiedlich vor.
+
+---
+
+### Das Meer aus Bronze (Vers 23–26)
+
+<sup>23</sup>Er machte das gegossene Meer.
+Es war von Rand zu Rand etwa 4,5 Meter, ringsum rund.
+Seine Höhe war etwa 2,25 Meter.
+Und eine Schnur von etwa 13,5 Metern umspannte es ringsum.
+<sup>24</sup>Unter seinem Rand ringsum waren Knospen, die es umgaben,
+auf etwa 4,5 Metern, rings um das Meer.
+Die Knospen waren in zwei Reihen,
+mitgegossen, als es gegossen wurde.
+<sup>25</sup>Es stand auf zwölf Rindern.
+Drei schauten nach Norden, drei schauten nach Westen,
+drei schauten nach Süden und drei schauten nach Osten.
+Das Meer ruhte oben auf ihnen,
+und ihre Hinterteile waren alle nach innen gerichtet.
+<sup>26</sup>Es war eine Handbreit dick.
+Sein Rand war gearbeitet wie der Rand eines Bechers, wie eine Lilienblüte.
+Es fasste etwa 44 000 Liter.
+
+> **Was bedeutet das?**
+> Das „Meer“ war ein riesiges Wasserbecken aus Bronze. In 2. Chronik 4,6 steht, wozu es diente: Die Priester wuschen sich darin.
+> In der Bibel steht: 10 Ellen Durchmesser, 5 Ellen hoch, 30 Ellen Umfang. Es fasste 2000 Bat. Ein Bat sind etwa 22 Liter. Eine Handbreit sind etwa 7,5 Zentimeter.
+> Manche fragen: Wenn der Durchmesser 10 Ellen ist, müsste der Umfang mehr als 31 Ellen sein, nicht 30. Die Bibel rundet hier. Oder der Durchmesser wurde außen am Rand gemessen und der Umfang darunter. Die Bibel ist kein Mathematikbuch, sondern beschreibt das Becken ungefähr.
+> In Vers 24 steht in der englischen Vorlage „zehn Ellen“. Im Hebräischen steht wohl „zehn auf eine Elle“, also zehn Knospen auf jede Elle.
+> Die zwölf Rinder erinnern an die zwölf Stämme Israels.
+> Das Wort „Meer“ erinnert vielleicht auch daran, dass Gott das Meer beherrscht und gebändigt hat (1. Mose 1; Psalm 93).
+
+---
+
+### Die zehn Kesselwagen (Vers 27–39)
+
+<sup>27</sup>Er machte die zehn Gestelle aus Bronze.
+Jedes Gestell war etwa 1,8 Meter lang, 1,8 Meter breit und 1,35 Meter hoch.
+<sup>28</sup>Die Gestelle waren so gearbeitet:
+Sie hatten Platten, und die Platten waren zwischen den Leisten.
+<sup>29</sup>Auf den Platten zwischen den Leisten waren Löwen, Rinder und Cherubim.
+Und auf den Leisten war oben ein Untersatz.
+Unter den Löwen und Rindern waren hängende Kränze.
+<sup>30</sup>Jedes Gestell hatte vier Räder aus Bronze und Achsen aus Bronze.
+Und seine vier Füße hatten Stützen.
+Die Stützen waren unter dem Becken gegossen, mit Kränzen an jeder Seite.
+<sup>31</sup>Seine Öffnung innerhalb des Aufsatzes und oberhalb war etwa 45 Zentimeter.
+Die Öffnung war rund wie ein Untersatz, etwa 68 Zentimeter.
+Auch an der Öffnung waren Schnitzereien.
+Und ihre Platten waren viereckig, nicht rund.
+<sup>32</sup>Die vier Räder waren unter den Platten,
+und die Achsen der Räder waren am Gestell.
+Ein Rad war etwa 68 Zentimeter hoch.
+<sup>33</sup>Die Räder waren gearbeitet wie die Räder eines Wagens.
+Ihre Achsen, Felgen, Speichen und Naben waren alle gegossen.
+<sup>34</sup>An den vier Ecken jedes Gestells waren vier Stützen.
+Die Stützen waren aus einem Stück mit dem Gestell.
+<sup>35</sup>Oben auf dem Gestell war ein runder Ring, etwa 23 Zentimeter hoch.
+Und oben auf dem Gestell waren seine Halter und seine Platten aus einem Stück mit ihm.
+<sup>36</sup>Auf die Flächen seiner Halter und auf seine Platten
+gravierte er Cherubim, Löwen und Palmen,
+jedes an seinem Platz, mit Kränzen ringsum.
+<sup>37</sup>So machte er die zehn Gestelle.
+Alle hatten einen Guss, ein Maß und eine Form.
+<sup>38</sup>Er machte zehn Becken aus Bronze.
+Ein Becken fasste etwa 880 Liter.
+Jedes Becken maß etwa 1,8 Meter.
+Auf jedem der zehn Gestelle war ein Becken.
+<sup>39</sup>Er stellte die Gestelle auf,
+fünf an die rechte Seite des Hauses und fünf an die linke Seite des Hauses.
+Das Meer stellte er an die rechte Seite des Hauses, nach Osten, Richtung Süden.
+
+> **Was bedeutet das?**
+> Das waren fahrbare Wasserbecken auf Rädern. In ihnen wusch man die Teile der Opfertiere (2. Chronik 4,6).
+> In der Bibel stehen die Maße in Ellen: Die Gestelle waren 4 mal 4 mal 3 Ellen, die Öffnung 1 und 1,5 Ellen, die Räder 1,5 Ellen hoch, der Ring eine halbe Elle. Jedes Becken fasste 40 Bat und maß 4 Ellen.
+> Archäologen haben ähnliche kleinere Kesselwagen aus dieser Zeit in Zypern gefunden. Die Beschreibung ist im Hebräischen an vielen Stellen schwer zu verstehen.
+> Wieder sieht man die Bilder von Löwen, Rindern, Cherubim und Palmen: Kraft, Fruchtbarkeit und Gottes Nähe.
+
+---
+
+### Weitere Arbeiten Hirams (Vers 40–47)
+
+<sup>40</sup>Hiram machte die Töpfe, die Schaufeln und die Schalen.
+So vollendete Hiram die ganze Arbeit, die er für den König Salomo am Haus des HERRN machte:
+<sup>41</sup>die zwei Säulen,
+die zwei Schalen der Kapitelle oben auf den Säulen,
+die zwei Netzwerke, um die zwei Schalen der Kapitelle oben auf den Säulen zu bedecken,
+<sup>42</sup>die vierhundert Granatäpfel für die zwei Netzwerke,
+zwei Reihen Granatäpfel für jedes Netzwerk,
+um die zwei Schalen der Kapitelle auf den Säulen zu bedecken,
+<sup>43</sup>die zehn Gestelle und die zehn Becken auf den Gestellen,
+<sup>44</sup>das eine Meer und die zwölf Rinder unter dem Meer,
+<sup>45</sup>die Töpfe, die Schaufeln und die Schalen.
+Alle diese Geräte, die Hiram für den König Salomo für das Haus des HERRN machte,
+waren aus polierter Bronze.
+<sup>46</sup>Der König goss sie in der Jordanebene,
+im Lehmboden zwischen Sukkot und Zaretan.
+<sup>47</sup>Salomo ließ alle Geräte ungewogen, weil es so sehr viele waren.
+Das Gewicht der Bronze ließ sich nicht feststellen.
+
+> **Was bedeutet das?**
+> Hier wird alles noch einmal aufgezählt, wie in einer Liste.
+> Die großen Bronzeteile wurden im Jordantal gegossen. Der Lehmboden dort eignete sich gut für Gussformen.
+> So viel Bronze wurde verwendet, dass man sie nicht wiegen konnte. Das zeigt den großen Reichtum.
+
+---
+
+### Die goldenen Geräte (Vers 48–51)
+
+<sup>48</sup>Salomo machte alle Geräte, die im Haus des HERRN waren:
+den goldenen Altar
+und den Tisch aus Gold, auf dem die Schaubrote lagen,
+<sup>49</sup>und die Leuchter aus reinem Gold,
+fünf auf der rechten Seite und fünf auf der linken, vor dem innersten Raum,
+und die Blüten, die Lampen und die Dochtscheren aus Gold,
+<sup>50</sup>die Becher, die Messer, die Schalen, die Löffel und die Kohlenpfannen aus reinem Gold,
+und die Angeln für die Türen des inneren Hauses, des Allerheiligsten,
+und für die Türen des Hauses, des Hauptraums, aus Gold.
+<sup>51</sup>So wurde die ganze Arbeit fertig,
+die der König Salomo am Haus des HERRN machte.
+Salomo brachte die Dinge hinein, die sein Vater David geweiht hatte,
+das Silber, das Gold und die Geräte,
+und legte sie in die Schatzkammern des Hauses des HERRN.
+
+> **Was bedeutet das?**
+> Draußen war Bronze, drinnen Gold. Je näher man dem Allerheiligsten kam, desto kostbarer wurde alles.
+> Der „goldene Altar“ war der Räucheraltar. Auf dem Tisch lagen die zwölf Schaubrote (3. Mose 24,5–9). In der Stiftshütte gab es einen Leuchter mit sieben Armen. Im Tempel gab es zehn Leuchter.
+> Salomo bringt auch die Schätze hinein, die David gesammelt hatte. So ist der Tempel das gemeinsame Werk von Vater und Sohn.
+
+## 1. Könige – Kapitel 8
+#### Die Einweihung des Tempels
+
+---
+
+### Die Lade kommt in den Tempel (Vers 1–9)
+
+<sup>1</sup>Dann versammelte Salomo die Ältesten Israels,
+alle Häupter der Stämme, die Fürsten der Familien der Israeliten,
+zum König Salomo nach Jerusalem,
+um die Lade des Bundes des HERRN aus der Stadt Davids, das ist Zion, heraufzubringen.
+<sup>2</sup>Alle Männer Israels versammelten sich beim König Salomo am Fest,
+im Monat Etanim, das ist der siebte Monat.
+<sup>3</sup>Alle Ältesten Israels kamen,
+und die Priester hoben die Lade auf.
+<sup>4</sup>Sie brachten die Lade des HERRN herauf,
+das Zelt der Begegnung und alle heiligen Geräte, die im Zelt waren.
+Die Priester und die Leviten brachten sie herauf.
+<sup>5</sup>Der König Salomo und die ganze Gemeinde Israels, die sich bei ihm versammelt hatte,
+waren mit ihm vor der Lade
+und opferten Schafe und Rinder, so viele, dass man sie nicht zählen und nicht berechnen konnte.
+<sup>6</sup>Die Priester brachten die Lade des Bundes des HERRN an ihren Platz,
+in den innersten Raum des Hauses, in das Allerheiligste,
+unter die Flügel der Cherubim.
+<sup>7</sup>Denn die Cherubim breiteten ihre Flügel über den Platz der Lade aus,
+und die Cherubim bedeckten die Lade und ihre Stangen von oben.
+<sup>8</sup>Die Stangen waren so lang,
+dass man die Enden der Stangen vom Heiligen aus vor dem innersten Raum sah.
+Aber draußen sah man sie nicht.
+Sie sind dort bis zum heutigen Tag.
+<sup>9</sup>In der Lade war nichts außer den zwei Steintafeln,
+die Mose am Horeb hineingelegt hatte,
+als der HERR mit den Israeliten einen Bund schloss,
+als sie aus dem Land Ägypten auszogen.
+
+> **Was bedeutet das?**
+> Der Monat Etanim ist etwa September bis Oktober. „Das Fest“ ist das Laubhüttenfest, das große Herbstfest. Bei diesem Fest erinnerte man sich daran, wie Gott Israel in der Wüste begleitet hatte.
+> Die Lade wird aus der Burg Zion, wo David sie hingebracht hatte (2. Samuel 6), hinauf in den neuen Tempel getragen. Diesmal wird sie richtig getragen, von den Priestern.
+> Die Lade kommt unter die Flügel der Cherubim, ins Allerheiligste. Ab jetzt ist das der heiligste Ort in Israel.
+> In der Lade lagen nur die zwei Steintafeln mit den Zehn Geboten. Im Herzen des Tempels ist nicht Gold, sondern Gottes Wort und sein Bund.
+> „Bis zum heutigen Tag“: Als dieser Text geschrieben wurde, stand der Tempel wohl noch. Später, bei der Zerstörung Jerusalems, ging die Lade verloren. Niemand weiß, was aus ihr geworden ist.
+> Horeb ist ein anderer Name für den Berg Sinai.
+
+---
+
+### Die Wolke erfüllt das Haus (Vers 10–13)
+
+<sup>10</sup>Als die Priester aus dem Heiligen herauskamen,
+geschah es, dass die Wolke das Haus des HERRN erfüllte,
+<sup>11</sup>sodass die Priester wegen der Wolke nicht stehen bleiben konnten, um ihren Dienst zu tun.
+Denn die Herrlichkeit des HERRN erfüllte das Haus des HERRN.
+<sup>12</sup>Da sagte Salomo:
+„Der HERR hat gesagt, dass er im Dunkel wohnen will.
+<sup>13</sup>Ich habe dir ein Haus gebaut, eine Wohnung,
+einen Ort, an dem du für immer wohnen kannst.“
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt: Gott selbst nimmt das Haus an. Die Wolke, das Zeichen seiner Gegenwart, erfüllt den Tempel. So war es auch bei der Stiftshütte in der Wüste (2. Mose 40,34–35).
+> Die Herrlichkeit Gottes ist so stark, dass selbst die Priester nicht bleiben können.
+> „Im Dunkel wohnen“: Gott ist geheimnisvoll. Man kann ihn nicht sehen. Auch am Sinai war Gott in einer dunklen Wolke (2. Mose 20,21). Das Allerheiligste hatte keine Fenster.
+
+---
+
+### Salomo segnet das Volk (Vers 14–21)
+
+<sup>14</sup>Der König wandte sein Gesicht um
+und segnete die ganze Versammlung Israels.
+Und die ganze Versammlung Israels stand.
+<sup>15</sup>Er sagte:
+„Gelobt sei der HERR, der Gott Israels,
+der mit seinem Mund zu meinem Vater David geredet
+und es mit seiner Hand erfüllt hat.
+Er hat gesagt:
+<sup>16</sup>‚Seit dem Tag, an dem ich mein Volk Israel aus Ägypten herausgeführt habe,
+habe ich keine Stadt aus allen Stämmen Israels erwählt, um ein Haus zu bauen,
+damit mein Name dort sei.
+Aber ich habe David erwählt, über mein Volk Israel zu sein.‘
+<sup>17</sup>Mein Vater David hatte es im Herzen,
+ein Haus für den Namen des HERRN, des Gottes Israels, zu bauen.
+<sup>18</sup>Aber der HERR sagte zu meinem Vater David:
+‚Dass du es im Herzen hattest, ein Haus für meinen Namen zu bauen,
+daran hast du gut getan, dass du es im Herzen hattest.
+<sup>19</sup>Doch du sollst das Haus nicht bauen,
+sondern dein Sohn, der aus deinem Leib hervorgehen wird,
+der soll das Haus für meinen Namen bauen.‘
+<sup>20</sup>Der HERR hat sein Wort erfüllt, das er gesagt hat.
+Denn ich bin an die Stelle meines Vaters David getreten
+und sitze auf dem Thron Israels, wie der HERR versprochen hat.
+Und ich habe das Haus für den Namen des HERRN, des Gottes Israels, gebaut.
+<sup>21</sup>Dort habe ich einen Platz für die Lade eingerichtet,
+in der der Bund des HERRN ist,
+den er mit unseren Vätern geschlossen hat,
+als er sie aus dem Land Ägypten herausführte.“
+
+> **Was bedeutet das?**
+> Salomo betont immer wieder: Gott hat sein Wort gehalten. Was er David versprochen hat, hat er erfüllt.
+> Schön ist Vers 18: Gott lobt David für den guten Wunsch in seinem Herzen, auch wenn er ihn nicht selbst ausführen durfte. Gott sieht schon die gute Absicht.
+
+---
+
+### Salomos Gebet: Gott, höre! (Vers 22–30)
+
+<sup>22</sup>Salomo trat vor den Altar des HERRN,
+vor der ganzen Versammlung Israels,
+und breitete seine Hände zum Himmel aus.
+<sup>23</sup>Er sagte:
+„HERR, Gott Israels,
+es gibt keinen Gott wie dich, weder oben im Himmel noch unten auf der Erde.
+Du hältst den Bund und die Güte mit deinen Knechten,
+die vor dir mit ihrem ganzen Herzen leben.
+<sup>24</sup>Du hast deinem Knecht David, meinem Vater, gehalten, was du ihm versprochen hast.
+Ja, du hast es mit deinem Mund gesagt und mit deiner Hand erfüllt, wie es heute ist.
+<sup>25</sup>Und jetzt, HERR, Gott Israels,
+halte auch deinem Knecht David, meinem Vater, was du ihm versprochen hast, als du sagtest:
+‚Es soll dir nie an einem Mann vor mir fehlen, der auf dem Thron Israels sitzt,
+wenn nur deine Kinder auf ihren Weg achten,
+dass sie vor mir leben, wie du vor mir gelebt hast.‘
+<sup>26</sup>Und jetzt, Gott Israels, möge sich doch dein Wort als wahr erweisen,
+das du zu deinem Knecht David, meinem Vater, gesagt hast.
+
+<sup>27</sup>Aber wohnt Gott wirklich auf der Erde?
+Schau, der Himmel und der Himmel der Himmel können dich nicht fassen,
+wie viel weniger dieses Haus, das ich gebaut habe!
+<sup>28</sup>Doch wende dich zum Gebet deines Knechtes und zu seinem Flehen, HERR, mein Gott,
+und höre auf das Schreien und das Gebet, das dein Knecht heute vor dir betet.
+<sup>29</sup>Deine Augen mögen Tag und Nacht offen sein über diesem Haus,
+über dem Ort, von dem du gesagt hast: ‚Mein Name soll dort sein.‘
+Höre auf das Gebet, das dein Knecht zu diesem Ort hin betet.
+<sup>30</sup>Höre auf das Flehen deines Knechtes und deines Volkes Israel,
+wenn sie zu diesem Ort hin beten.
+Ja, höre im Himmel, an dem Ort, wo du wohnst.
+Und wenn du hörst, dann vergib.“
+
+> **Was bedeutet das?**
+> Salomo betet mit ausgebreiteten Händen zum Himmel. Das war damals eine typische Gebetshaltung.
+> Vers 27 ist einer der wichtigsten Sätze des Gebets: Gott ist so groß, dass nicht einmal der Himmel ihn fassen kann. Wie dann ein Haus aus Stein? Salomo weiß: Der Tempel ist nicht Gottes Gefängnis. Gott ist überall. Aber der Tempel ist ein Ort, an dem Menschen Gott begegnen und zu ihm beten können.
+> Das wichtigste Wort im ganzen Gebet heißt: „Höre.“ Und dann: „Vergib.“ Salomo weiß, dass die Menschen immer wieder schuldig werden. Darum ist der Tempel vor allem ein Ort der Vergebung.
+> Bis heute beten Juden auf der ganzen Welt in Richtung Jerusalem.
+
+---
+
+### Sieben Bitten für das Volk (Vers 31–53)
+
+<sup>31</sup>Wenn jemand gegen seinen Nächsten sündigt
+und man ihm einen Eid auferlegt, damit er schwört,
+und er kommt und schwört vor deinem Altar in diesem Haus,
+<sup>32</sup>dann höre im Himmel und handle
+und richte deine Knechte:
+Verurteile den Schuldigen und bring seinen Weg auf seinen eigenen Kopf.
+Und sprich den Gerechten frei und gib ihm nach seiner Gerechtigkeit.
+
+<sup>33</sup>Wenn dein Volk Israel vor dem Feind geschlagen wird,
+weil sie gegen dich gesündigt haben,
+und wenn sie dann zu dir umkehren und deinen Namen bekennen
+und in diesem Haus zu dir beten und flehen,
+<sup>34</sup>dann höre im Himmel
+und vergib die Sünde deines Volkes Israel
+und bring sie zurück in das Land, das du ihren Vätern gegeben hast.
+
+<sup>35</sup>Wenn der Himmel verschlossen ist und es nicht regnet,
+weil sie gegen dich gesündigt haben,
+und wenn sie dann zu diesem Ort hin beten und deinen Namen bekennen
+und von ihrer Sünde umkehren, weil du sie demütigst,
+<sup>36</sup>dann höre im Himmel
+und vergib die Sünde deiner Knechte und deines Volkes Israel,
+indem du sie den guten Weg lehrst, auf dem sie gehen sollen,
+und schick Regen auf dein Land, das du deinem Volk als Erbe gegeben hast.
+
+<sup>37</sup>Wenn eine Hungersnot im Land ist,
+wenn eine Seuche ist, wenn Getreidebrand, Mehltau, Heuschrecken oder Raupen kommen,
+wenn ihr Feind sie im Land ihrer Städte belagert,
+welche Plage, welche Krankheit auch immer es ist,
+<sup>38</sup>welches Gebet und welches Flehen auch immer
+von irgendeinem Menschen oder von deinem ganzen Volk Israel kommt,
+wenn jeder die Not seines eigenen Herzens erkennt
+und seine Hände zu diesem Haus hin ausbreitet,
+<sup>39</sup>dann höre im Himmel, an dem Ort, wo du wohnst,
+und vergib und handle
+und gib jedem nach allen seinen Wegen,
+denn du kennst sein Herz,
+du allein kennst das Herz aller Menschen,
+<sup>40</sup>damit sie dich fürchten, solange sie in dem Land leben, das du unseren Vätern gegeben hast.
+
+<sup>41</sup>Auch wegen des Fremden, der nicht zu deinem Volk Israel gehört,
+wenn er aus einem fernen Land kommt, um deines Namens willen
+<sup>42</sup>– denn sie werden von deinem großen Namen hören,
+von deiner starken Hand und deinem ausgestreckten Arm –,
+wenn er kommt und zu diesem Haus hin betet,
+<sup>43</sup>dann höre im Himmel, an dem Ort, wo du wohnst,
+und tu alles, worum der Fremde dich bittet,
+damit alle Völker der Erde deinen Namen erkennen
+und dich fürchten wie dein Volk Israel,
+und damit sie erkennen, dass dieses Haus, das ich gebaut habe, nach deinem Namen genannt ist.
+
+<sup>44</sup>Wenn dein Volk in den Krieg gegen seinen Feind zieht,
+auf welchem Weg du sie auch schickst,
+und sie zum HERRN beten, zu der Stadt hin, die du erwählt hast,
+und zu dem Haus hin, das ich für deinen Namen gebaut habe,
+<sup>45</sup>dann höre im Himmel ihr Gebet und ihr Flehen
+und verschaffe ihnen Recht.
+
+<sup>46</sup>Wenn sie gegen dich sündigen
+– denn es gibt keinen Menschen, der nicht sündigt –
+und du zornig auf sie bist und sie dem Feind auslieferst,
+sodass man sie gefangen in das Land des Feindes wegführt, fern oder nah,
+<sup>47</sup>und wenn sie dann in dem Land, in das sie gefangen weggeführt wurden, in sich gehen
+und umkehren und zu dir flehen im Land derer, die sie gefangen weggeführt haben,
+und sagen:
+‚Wir haben gesündigt und unrecht getan, wir haben gottlos gehandelt‘,
+<sup>48</sup>wenn sie mit ihrem ganzen Herzen und mit ihrer ganzen Seele zu dir umkehren
+im Land ihrer Feinde, die sie gefangen weggeführt haben,
+und zu dir beten, zu ihrem Land hin, das du ihren Vätern gegeben hast,
+zu der Stadt hin, die du erwählt hast,
+und zu dem Haus hin, das ich für deinen Namen gebaut habe,
+<sup>49</sup>dann höre im Himmel, an dem Ort, wo du wohnst, ihr Gebet und ihr Flehen
+und verschaffe ihnen Recht.
+<sup>50</sup>Und vergib deinem Volk, das gegen dich gesündigt hat,
+und alle ihre Vergehen, mit denen sie sich gegen dich vergangen haben.
+Und lass sie Erbarmen finden bei denen, die sie gefangen weggeführt haben,
+damit diese sich über sie erbarmen.
+<sup>51</sup>Denn sie sind dein Volk und dein Erbe,
+das du aus Ägypten herausgeführt hast, mitten aus dem Schmelzofen für Eisen.
+<sup>52</sup>Mögen deine Augen offen sein für das Flehen deines Knechtes
+und für das Flehen deines Volkes Israel,
+damit du auf sie hörst, wann immer sie zu dir rufen.
+<sup>53</sup>Denn du hast sie aus allen Völkern der Erde ausgesondert, damit sie dein Erbe sind,
+wie du durch deinen Knecht Mose gesagt hast,
+als du unsere Väter aus Ägypten herausgeführt hast, Herr, du HERR.“
+
+> **Was bedeutet das?**
+> Salomo bittet für viele Situationen, in denen Menschen in Not zu Gott beten: bei einem Streit vor Gericht, bei einer Niederlage im Krieg, bei Dürre, bei Hungersnot und Krankheit, und sogar in der Gefangenschaft.
+> Immer wieder: „Höre im Himmel und vergib.“ Salomo weiß: „Es gibt keinen Menschen, der nicht sündigt“ (Vers 46). Darum braucht jeder Gottes Vergebung.
+> Vers 38: „Die Not seines eigenen Herzens erkennen.“ Gott hört auch das ganz persönliche Gebet eines einzelnen Menschen.
+> Besonders schön ist die Bitte für den Fremden (Vers 41–43): Auch Menschen aus anderen Völkern sollen zu Gott beten dürfen, und Gott soll sie erhören. Der Tempel ist nicht nur für Israel da. Jesus hat später den Propheten Jesaja zitiert: „Mein Haus soll ein Bethaus für alle Völker heißen“ (Markus 11,17; Jesaja 56,7).
+> Die letzte Bitte (Vers 46–53) klingt wie eine Vorahnung: Was ist, wenn Israel in Gefangenschaft gerät? Genau das ist später geschehen, in der Verbannung nach Babylon. Daniel betete dort dreimal am Tag mit offenem Fenster in Richtung Jerusalem (Daniel 6,11). Diese Verse waren für die Gefangenen eine große Hoffnung: Auch in der Ferne hört Gott uns.
+> „Schmelzofen für Eisen“ ist ein Bild für die harte Sklaverei in Ägypten.
+
+---
+
+### Salomos Segen (Vers 54–61)
+
+<sup>54</sup>Als Salomo dieses ganze Gebet und Flehen zum HERRN beendet hatte,
+stand er vor dem Altar des HERRN auf,
+wo er auf seinen Knien gekniet hatte, mit den Händen zum Himmel ausgebreitet.
+<sup>55</sup>Er stellte sich hin und segnete die ganze Versammlung Israels mit lauter Stimme und sagte:
+<sup>56</sup>„Gelobt sei der HERR,
+der seinem Volk Israel Ruhe gegeben hat, ganz wie er versprochen hat.
+Nicht ein einziges Wort ist ausgefallen von all seinen guten Versprechen,
+die er durch seinen Knecht Mose gegeben hat.
+<sup>57</sup>Der HERR, unser Gott, sei mit uns, wie er mit unseren Vätern war.
+Er verlasse uns nicht und verstoße uns nicht,
+<sup>58</sup>damit er unsere Herzen zu sich neigt,
+damit wir auf allen seinen Wegen gehen
+und seine Gebote, Ordnungen und Rechtsordnungen halten,
+die er unseren Vätern geboten hat.
+<sup>59</sup>Und diese meine Worte, mit denen ich vor dem HERRN gefleht habe,
+mögen Tag und Nacht dem HERRN, unserem Gott, nahe sein,
+damit er seinem Knecht und seinem Volk Israel Recht verschafft,
+wie es jeder Tag erfordert,
+<sup>60</sup>damit alle Völker der Erde erkennen,
+dass der HERR Gott ist und sonst keiner.
+<sup>61</sup>Darum soll euer Herz ungeteilt beim HERRN, unserem Gott, sein,
+damit ihr in seinen Ordnungen lebt und seine Gebote haltet, wie heute.“
+
+> **Was bedeutet das?**
+> Salomo hat beim Beten gekniet. Jetzt steht er auf und segnet das Volk.
+> „Nicht ein einziges Wort ist ausgefallen von all seinen guten Versprechen“: Das ist ein großes Bekenntnis. Gott hält, was er verspricht. Auf sein Wort kann man sich verlassen.
+> Salomo bittet: Gott möge unsere Herzen zu sich neigen. Er weiß: Aus eigener Kraft schaffen wir es nicht, Gott treu zu bleiben. Wir brauchen Gottes Hilfe dafür.
+> Am Ende steht die Mahnung: „Euer Herz soll ungeteilt beim HERRN sein.“ Leider wird ausgerechnet Salomo selbst diese Mahnung später nicht befolgen (Kapitel 11,4).
+
+---
+
+### Das große Fest (Vers 62–66)
+
+<sup>62</sup>Der König und ganz Israel mit ihm brachten vor dem HERRN Opfer dar.
+<sup>63</sup>Salomo brachte als Friedensopfer, das er dem HERRN darbrachte,
+22 000 Rinder und 120 000 Schafe dar.
+So weihten der König und alle Israeliten das Haus des HERRN ein.
+<sup>64</sup>Am selben Tag heiligte der König die Mitte des Vorhofs, der vor dem Haus des HERRN war.
+Denn dort brachte er das Brandopfer, das Speiseopfer und das Fett der Friedensopfer dar.
+Denn der Altar aus Bronze, der vor dem HERRN stand,
+war zu klein, um das Brandopfer, das Speiseopfer und das Fett der Friedensopfer zu fassen.
+<sup>65</sup>So feierte Salomo zu dieser Zeit das Fest,
+und ganz Israel mit ihm, eine große Versammlung,
+von Lebo-Hamat bis zum Bach Ägyptens,
+vor dem HERRN, unserem Gott,
+sieben Tage und noch sieben Tage, zusammen vierzehn Tage.
+<sup>66</sup>Am achten Tag entließ er das Volk.
+Sie segneten den König
+und gingen zu ihren Zelten, fröhlich und guten Mutes
+über all das Gute, das der HERR seinem Knecht David und seinem Volk Israel getan hatte.
+
+> **Was bedeutet das?**
+> Die Zahl der Opfertiere ist riesig. Das Fleisch der Friedensopfer wurde gemeinsam gegessen. So wurde es ein großes Festessen für das ganze Volk.
+> „Von Lebo-Hamat bis zum Bach Ägyptens“: Menschen aus dem ganzen Land kamen, vom äußersten Norden bis zum äußersten Süden. In der englischen Vorlage steht „vom Eingang von Hamat“.
+> Das Fest dauerte vierzehn Tage: sieben Tage für die Einweihung und sieben Tage für das Laubhüttenfest.
+> „Am achten Tag“: Gemeint ist wohl der Tag nach dem zweiten Fest. In 2. Chronik 7,9–10 wird es genauer erzählt.
+> Das Volk geht fröhlich nach Hause. Das ist der Höhepunkt der Geschichte Israels unter den Königen: Gott wohnt mitten in seinem Volk, und alle sind dankbar.
+
+## 1. Könige – Kapitel 9
+#### Gott erscheint Salomo ein zweites Mal
+
+---
+
+### Versprechen und Warnung (Vers 1–9)
+
+<sup>1</sup>Als Salomo den Bau des Hauses des HERRN vollendet hatte,
+und das Haus des Königs und alles, was Salomo zu bauen wünschte,
+<sup>2</sup>da erschien der HERR Salomo ein zweites Mal,
+so wie er ihm in Gibeon erschienen war.
+<sup>3</sup>Der HERR sagte zu ihm:
+„Ich habe dein Gebet und dein Flehen gehört, mit dem du vor mir gefleht hast.
+Ich habe dieses Haus geheiligt, das du gebaut hast,
+um meinen Namen für immer dorthin zu legen.
+Und meine Augen und mein Herz sollen alle Tage dort sein.
+<sup>4</sup>Und was dich betrifft:
+Wenn du vor mir lebst, wie dein Vater David gelebt hat,
+mit ungeteiltem Herzen und aufrichtig,
+und alles tust, was ich dir geboten habe,
+und meine Ordnungen und meine Rechtsordnungen hältst,
+<sup>5</sup>dann will ich den Thron deines Königtums über Israel für immer festigen,
+wie ich deinem Vater David versprochen habe, als ich sagte:
+‚Es soll dir nie an einem Mann auf dem Thron Israels fehlen.‘
+<sup>6</sup>Aber wenn ihr euch von mir abwendet, ihr oder eure Kinder,
+und meine Gebote und meine Ordnungen nicht haltet, die ich euch vorgelegt habe,
+sondern hingeht und anderen Göttern dient und sie anbetet,
+<sup>7</sup>dann will ich Israel aus dem Land ausrotten, das ich ihnen gegeben habe.
+Und dieses Haus, das ich für meinen Namen geheiligt habe, will ich von meinem Angesicht verstoßen.
+Und Israel wird zum Sprichwort und zum Spott unter allen Völkern werden.
+<sup>8</sup>Und dieses Haus, so hoch es auch ist:
+Jeder, der daran vorbeigeht, wird sich entsetzen und zischen.
+Und man wird sagen:
+‚Warum hat der HERR diesem Land und diesem Haus so etwas angetan?‘
+<sup>9</sup>Und man wird antworten:
+‚Weil sie den HERRN, ihren Gott, verlassen haben,
+der ihre Väter aus dem Land Ägypten herausgeführt hat,
+und sich an andere Götter gehängt
+und sie angebetet und ihnen gedient haben.
+Darum hat der HERR all dieses Unglück über sie gebracht.‘“
+
+> **Was bedeutet das?**
+> Gott antwortet auf Salomos Gebet: Ich habe dich gehört. Ich habe den Tempel angenommen.
+> Aber dann kommt eine ernste Warnung. Gottes Gegenwart ist kein Besitz, den man für immer hat, egal wie man lebt. Wenn Israel andere Götter anbetet, wird Gott sogar diesen Tempel verlassen.
+> Das ist später wirklich geschehen. Etwa 400 Jahre später zerstörten die Babylonier Jerusalem und den Tempel (2. Könige 25). Diese Verse erklären den Menschen in der Verbannung: Es war nicht so, dass Gott zu schwach war. Es war die Folge der Untreue.
+> „Zischen“ war damals eine Geste des Entsetzens oder des Spottes.
+
+---
+
+### Salomo und Hiram (Vers 10–14)
+
+<sup>10</sup>Nach zwanzig Jahren, in denen Salomo die beiden Häuser gebaut hatte,
+das Haus des HERRN und das Haus des Königs,
+<sup>11</sup>– Hiram, der König von Tyrus, hatte Salomo mit Zedernholz und Zypressenholz
+und mit Gold versorgt, so viel er wollte –,
+da gab der König Salomo Hiram zwanzig Städte im Land Galiläa.
+<sup>12</sup>Hiram kam aus Tyrus heraus, um sich die Städte anzusehen, die Salomo ihm gegeben hatte.
+Aber sie gefielen ihm nicht.
+<sup>13</sup>Er sagte:
+„Was sind das für Städte, die du mir gegeben hast, mein Bruder?“
+Und er nannte sie „Land Kabul“, bis zum heutigen Tag.
+<sup>14</sup>Hiram schickte dem König etwa 4 Tonnen Gold.
+
+> **Was bedeutet das?**
+> Zwanzig Jahre Bauzeit: sieben Jahre für den Tempel und dreizehn für den Palast.
+> Salomo bezahlt Hiram mit zwanzig Städten. Das ist bemerkenswert: Er gibt Land aus Israel weg. Das Land war eigentlich Gottes Erbe für sein Volk.
+> Hiram ist enttäuscht. „Kabul“ klingt auf Hebräisch wie „so gut wie nichts“.
+> In der Bibel steht „120 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. Ob Hiram das Gold für die Städte bezahlte oder vorher als Kredit gegeben hatte, ist nicht ganz klar.
+> In 2. Chronik 8,2 wird es anders erzählt: Dort gibt Hiram Salomo Städte.
+
+---
+
+### Salomos Bauten und die Zwangsarbeit (Vers 15–25)
+
+<sup>15</sup>Das ist der Grund für die Zwangsarbeit, die der König Salomo aushob:
+um das Haus des HERRN zu bauen, sein eigenes Haus, den Millo, die Mauer Jerusalems,
+Hazor, Megiddo und Geser.
+<sup>16</sup>Der Pharao, der König von Ägypten, war heraufgezogen,
+hatte Geser eingenommen, mit Feuer verbrannt
+und die Kanaaniter getötet, die in der Stadt wohnten.
+Und er hatte sie seiner Tochter, der Frau Salomos, als Hochzeitsgeschenk gegeben.
+<sup>17</sup>Salomo baute im Land Geser aus, das untere Bet-Horon,
+<sup>18</sup>Baalat und Tamar in der Wüste,
+<sup>19</sup>alle Vorratsstädte, die Salomo hatte,
+die Städte für seine Wagen und die Städte für seine Reiter,
+und alles, was Salomo zu seinem Vergnügen in Jerusalem, auf dem Libanon
+und im ganzen Land seiner Herrschaft bauen wollte.
+<sup>20</sup>Was alle Leute betrifft, die von den Amoritern, Hetitern, Perisitern, Hiwitern und Jebusitern übrig geblieben waren,
+die nicht zu den Israeliten gehörten,
+<sup>21</sup>ihre Nachkommen, die nach ihnen im Land übrig geblieben waren,
+die die Israeliten nicht ganz vernichten konnten:
+von ihnen hob Salomo Sklavenarbeiter aus, bis zum heutigen Tag.
+<sup>22</sup>Aber von den Israeliten machte Salomo keine zu Sklaven.
+Sondern sie waren die Kriegsleute, seine Diener, seine Fürsten, seine Hauptleute
+und die Anführer seiner Wagen und seiner Reiter.
+<sup>23</sup>Das waren die 550 obersten Aufseher, die über Salomos Arbeit gesetzt waren
+und über das Volk herrschten, das an der Arbeit beschäftigt war.
+<sup>24</sup>Aber die Tochter des Pharao zog aus der Stadt Davids hinauf in ihr Haus,
+das Salomo für sie gebaut hatte.
+Dann baute er den Millo.
+<sup>25</sup>Salomo brachte dreimal im Jahr Brandopfer und Friedensopfer auf dem Altar dar,
+den er für den HERRN gebaut hatte,
+und verbrannte Weihrauch auf dem Altar, der vor dem HERRN war.
+So vollendete er das Haus.
+
+> **Was bedeutet das?**
+> Salomo baute nicht nur den Tempel und den Palast, sondern auch Festungen: Hazor im Norden, Megiddo in der Ebene Jesreel, Geser im Westen. Archäologen haben in diesen drei Städten große Stadttore aus derselben Zeit gefunden, die sich sehr ähneln. Viele bringen sie mit Salomo in Verbindung.
+> Die Zwangsarbeit wurde vor allem von den Nachkommen der Kanaaniter verlangt, die noch im Land lebten. Sie mussten als Sklaven arbeiten. Für sie war es ein hartes Schicksal. Die Bibel erzählt es ehrlich.
+> Vers 22 sagt, dass Israeliten keine Sklaven wurden. Aber in Kapitel 5,13 stand, dass auch Israeliten Zwangsarbeit leisten mussten. Vielleicht war es für Israeliten eine zeitlich begrenzte Arbeitspflicht, keine Sklaverei.
+> Dreimal im Jahr opferte Salomo: an den drei großen Festen Passa, Wochenfest und Laubhüttenfest (2. Mose 23,14–17).
+> In 2. Chronik 8,10 stehen 250 Aufseher statt 550.
+
+---
+
+### Salomos Schiffe (Vers 26–28)
+
+<sup>26</sup>Der König Salomo baute eine Flotte in Ezjon-Geber, das bei Elat liegt,
+am Ufer des Roten Meeres, im Land Edom.
+<sup>27</sup>Und Hiram schickte seine Knechte mit der Flotte,
+Seeleute, die sich auf dem Meer auskannten,
+zusammen mit den Knechten Salomos.
+<sup>28</sup>Sie kamen nach Ofir und holten von dort etwa 14 Tonnen Gold
+und brachten es dem König Salomo.
+
+> **Was bedeutet das?**
+> Ezjon-Geber und Elat liegen ganz im Süden, am Golf von Akaba. Dort hatte Israel einen Zugang zum Meer nach Süden, Richtung Arabien und Afrika.
+> „Rotes Meer“: Im Hebräischen steht „Jam Suf“, „Schilfmeer“. Gemeint ist hier der Golf von Akaba.
+> Israel hatte keine Erfahrung mit der Seefahrt. Darum helfen die Seeleute von Hiram aus Tyrus.
+> Wo Ofir lag, weiß man heute nicht sicher. Vielleicht in Arabien, in Ostafrika oder in Indien. Es war berühmt für sein Gold.
+> In der Bibel steht „420 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. In 2. Chronik 8,18 stehen 450 Talente.
