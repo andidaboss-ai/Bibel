@@ -44530,3 +44530,495 @@ und in seiner Sünde, zu der er Israel verführt hatte.
 > Dieser Ahija, Baschas Vater, ist nicht der Prophet Ahija aus Schilo.
 > Gibbeton lag im Westen, an der Grenze zum Land der Philister.
 > Nadab regierte etwa von 909 bis 908 vor Christus, Bascha etwa von 908 bis 886.
+
+## 1. Könige – Kapitel 16
+#### Könige kommen und gehen – und dann kommt Ahab
+
+---
+
+### Das Wort gegen Bascha (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN kam zu Jehu, dem Sohn Hananis, gegen Bascha:
+<sup>2</sup>„Ich habe dich aus dem Staub erhoben
+und dich zum Fürsten über mein Volk Israel gemacht.
+Aber du bist auf dem Weg Jerobeams gegangen
+und hast mein Volk Israel zur Sünde verführt,
+sodass sie mich mit ihren Sünden zum Zorn reizen.
+<sup>3</sup>Darum, schau, fege ich Bascha und sein Haus ganz weg.
+Ich mache dein Haus wie das Haus Jerobeams, des Sohnes Nebats.
+<sup>4</sup>Wer von Bascha in der Stadt stirbt, den werden die Hunde fressen.
+Und wer von ihm auf dem Feld stirbt, den werden die Vögel des Himmels fressen.“
+<sup>5</sup>Was sonst noch von Bascha zu erzählen ist, was er getan hat und seine Stärke,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>6</sup>Bascha legte sich zu seinen Vätern und wurde in Tirza begraben.
+Und sein Sohn Ela wurde an seiner Stelle König.
+<sup>7</sup>Auch kam das Wort des HERRN durch den Propheten Jehu, den Sohn Hananis,
+gegen Bascha und gegen sein Haus,
+wegen all des Bösen, das er in den Augen des HERRN getan hatte,
+um ihn mit dem Werk seiner Hände zum Zorn zu reizen,
+weil er wie das Haus Jerobeams war,
+und auch, weil er es erschlagen hatte.
+
+> **Was bedeutet das?**
+> Bascha bekommt dasselbe Urteil wie Jerobeam. Gott hatte ihn „aus dem Staub“ erhoben, also aus einfachen Verhältnissen. Aber er hat nichts daraus gemacht.
+> Dieser Prophet Jehu ist nicht der spätere König Jehu (2. Könige 9).
+> Vers 7 ist wichtig: Bascha wird auch dafür verurteilt, dass er die Familie Jerobeams ermordet hat. Auch wenn Gott das Ende Jerobeams angekündigt hatte, war der Mord trotzdem Schuld. Gott braucht keine Mörder, um sein Wort zu erfüllen, und er rechtfertigt keine Gewalt.
+
+---
+
+### Ela und Simri (Vers 8–20)
+
+<sup>8</sup>Im 26. Jahr Asas, des Königs von Juda,
+wurde Ela, der Sohn Baschas, König über Israel in Tirza, für zwei Jahre.
+<sup>9</sup>Sein Diener Simri, der Anführer der Hälfte seiner Wagen, verschwor sich gegen ihn.
+Ela war in Tirza und trank sich betrunken
+im Haus Arzas, der über den Palast in Tirza gesetzt war.
+<sup>10</sup>Da kam Simri herein, schlug ihn und tötete ihn,
+im 27. Jahr Asas, des Königs von Juda.
+Und er wurde an seiner Stelle König.
+<sup>11</sup>Als er König wurde, sobald er auf seinem Thron saß,
+erschlug er das ganze Haus Baschas.
+Er ließ ihm keinen übrig, der an die Wand uriniert,
+weder von seinen Verwandten noch von seinen Freunden.
+<sup>12</sup>So vernichtete Simri das ganze Haus Baschas,
+nach dem Wort des HERRN, das er durch den Propheten Jehu gegen Bascha gesagt hatte,
+<sup>13</sup>wegen aller Sünden Baschas und der Sünden seines Sohnes Ela,
+die sie begangen hatten und zu denen sie Israel verführt hatten,
+um den HERRN, den Gott Israels, mit ihren nichtigen Götzen zum Zorn zu reizen.
+<sup>14</sup>Was sonst noch von Ela zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>15</sup>Im 27. Jahr Asas, des Königs von Juda, regierte Simri sieben Tage in Tirza.
+Das Volk lagerte gerade vor Gibbeton, das den Philistern gehörte.
+<sup>16</sup>Das Volk im Lager hörte:
+„Simri hat sich verschworen und hat sogar den König getötet.“
+Da machte ganz Israel an diesem Tag im Lager Omri, den Heerführer, zum König über Israel.
+<sup>17</sup>Omri zog von Gibbeton herauf, und ganz Israel mit ihm,
+und sie belagerten Tirza.
+<sup>18</sup>Als Simri sah, dass die Stadt eingenommen war,
+ging er in die Burg des Königshauses
+und verbrannte das Königshaus über sich mit Feuer und starb,
+<sup>19</sup>wegen seiner Sünden, die er begangen hatte,
+indem er tat, was in den Augen des HERRN böse war,
+und auf dem Weg Jerobeams ging
+und in seiner Sünde, zu der er Israel verführt hatte.
+<sup>20</sup>Was sonst noch von Simri zu erzählen ist und seine Verschwörung, die er angezettelt hatte,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+
+> **Was bedeutet das?**
+> Wieder ein Königsmord. Ela ist betrunken, als sein eigener Offizier ihn tötet.
+> Simri regiert nur sieben Tage. Das Heer macht seinen Anführer Omri zum König. Simri sieht keinen Ausweg und verbrennt sich im Palast.
+> „Nichtige Götzen“: Wörtlich steht da „Nichtigkeiten“ oder „Hauch“. Götzen sind leer, ohne Kraft.
+> Das Nordreich hat keine feste Königsfamilie wie Juda. Wer die Macht hat, wird König. Das führt zu immer neuer Gewalt.
+
+---
+
+### Omri und die neue Hauptstadt Samaria (Vers 21–28)
+
+<sup>21</sup>Damals teilte sich das Volk Israel in zwei Teile.
+Die Hälfte des Volkes folgte Tibni, dem Sohn Ginats, um ihn zum König zu machen,
+und die andere Hälfte folgte Omri.
+<sup>22</sup>Aber das Volk, das Omri folgte, war stärker als das Volk, das Tibni, dem Sohn Ginats, folgte.
+So starb Tibni, und Omri wurde König.
+<sup>23</sup>Im 31. Jahr Asas, des Königs von Juda,
+wurde Omri König über Israel, für zwölf Jahre.
+Sechs Jahre regierte er in Tirza.
+<sup>24</sup>Er kaufte den Berg Samaria von Schemer für etwa 68 Kilogramm Silber.
+Er baute auf dem Berg eine Stadt
+und nannte die Stadt, die er baute, Samaria,
+nach dem Namen Schemers, des Besitzers des Berges.
+<sup>25</sup>Omri tat, was in den Augen des HERRN böse war,
+und handelte schlimmer als alle, die vor ihm waren.
+<sup>26</sup>Denn er ging auf dem ganzen Weg Jerobeams, des Sohnes Nebats,
+und in seinen Sünden, zu denen er Israel verführt hatte,
+um den HERRN, den Gott Israels, mit ihren nichtigen Götzen zum Zorn zu reizen.
+<sup>27</sup>Was sonst noch von Omri zu erzählen ist, was er getan hat und die Stärke, die er gezeigt hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>28</sup>Omri legte sich zu seinen Vätern und wurde in Samaria begraben.
+Und sein Sohn Ahab wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> In der Bibel steht „zwei Talente Silber“. Ein Talent sind etwa 34 Kilogramm.
+> Omri gründet die Stadt Samaria. Sie wird für fast 150 Jahre die Hauptstadt des Nordreichs. Später wurde der Name auch für die ganze Gegend benutzt. Daher kommen auch die „Samariter“ aus dem Neuen Testament.
+> Die Bibel erzählt nur wenig über Omri. Aber außerhalb der Bibel war er sehr bekannt: Auf dem Mescha-Stein, einer Inschrift des Königs von Moab, wird Omri genannt. Und die Assyrer nannten Israel noch lange danach „das Haus Omri“.
+> Für die Bibel zählt aber nicht politische Macht, sondern die Treue zu Gott. Darum fällt das Urteil kurz und hart aus.
+> Omri regierte etwa von 885 bis 874 vor Christus.
+
+---
+
+### Ahab und Isebel (Vers 29–34)
+
+<sup>29</sup>Im 38. Jahr Asas, des Königs von Juda,
+wurde Ahab, der Sohn Omris, König über Israel.
+Ahab, der Sohn Omris, regierte 22 Jahre über Israel in Samaria.
+<sup>30</sup>Ahab, der Sohn Omris, tat, was in den Augen des HERRN böse war,
+mehr als alle, die vor ihm waren.
+<sup>31</sup>Als wäre es noch zu wenig gewesen, in den Sünden Jerobeams, des Sohnes Nebats, zu gehen,
+nahm er Isebel zur Frau, die Tochter Etbaals, des Königs der Sidonier.
+Und er ging hin, diente dem Baal und betete ihn an.
+<sup>32</sup>Er errichtete einen Altar für Baal im Haus Baals, das er in Samaria gebaut hatte.
+<sup>33</sup>Ahab machte auch die Aschera.
+Ahab tat noch mehr, um den HERRN, den Gott Israels, zum Zorn zu reizen,
+als alle Könige Israels, die vor ihm waren.
+<sup>34</sup>In seinen Tagen baute Hiël aus Bet-El Jericho wieder auf.
+Er legte den Grund der Stadt um den Preis seines erstgeborenen Sohnes Abiram,
+und er setzte ihre Tore ein um den Preis seines jüngsten Sohnes Segub,
+nach dem Wort des HERRN, das er durch Josua, den Sohn Nuns, gesagt hatte.
+
+> **Was bedeutet das?**
+> Jetzt beginnt eine neue, dunkle Zeit. Ahab heiratet Isebel, eine Prinzessin aus Sidon in Phönizien (im heutigen Libanon). Mit ihr kommt der Baalskult nach Israel, und zwar offiziell, mit einem Tempel in der Hauptstadt.
+> Baal war der Gott des Wetters, des Regens und der Fruchtbarkeit. Die Menschen glaubten, dass er für Regen und gute Ernten sorgt. Das ist wichtig für die nächsten Kapitel.
+> Ahab ist auch außerhalb der Bibel bekannt: Eine assyrische Inschrift (der Monolith von Kurch) nennt „Ahab, den Israeliten“. Er kämpfte 853 vor Christus mit 2000 Streitwagen in der Schlacht bei Qarqar gegen die Assyrer.
+> Vers 34 erinnert an Josuas Fluch über Jericho (Josua 6,26): Wer die Stadt wieder aufbaut, verliert seine Söhne. Ob Hiël seine Söhne opferte oder ob sie bei dem Bau starben, sagt der Text nicht genau. Beides wäre furchtbar. Die Bibel will zeigen: Gottes Wort erfüllt sich, auch nach Hunderten von Jahren.
+> Ahab regierte etwa von 874 bis 853 vor Christus.
+
+## 1. Könige – Kapitel 17
+#### Elija, die Raben und die Witwe
+
+---
+
+### Elija kündigt die Dürre an (Vers 1–7)
+
+<sup>1</sup>Elija, der Tischbiter, einer von den Siedlern in Gilead, sagte zu Ahab:
+„So wahr der HERR lebt, der Gott Israels, vor dem ich stehe:
+In diesen Jahren soll es weder Tau noch Regen geben,
+außer wenn ich es sage.“
+<sup>2</sup>Dann kam das Wort des HERRN zu ihm:
+<sup>3</sup>„Geh weg von hier, wende dich nach Osten
+und versteck dich am Bach Krit, der vor dem Jordan liegt.
+<sup>4</sup>Aus dem Bach sollst du trinken.
+Und ich habe den Raben geboten, dich dort zu versorgen.“
+<sup>5</sup>Er ging hin und tat, was der HERR gesagt hatte.
+Er ging hin und wohnte am Bach Krit, der vor dem Jordan liegt.
+<sup>6</sup>Die Raben brachten ihm Brot und Fleisch am Morgen
+und Brot und Fleisch am Abend.
+Und er trank aus dem Bach.
+<sup>7</sup>Nach einiger Zeit trocknete der Bach aus,
+weil es im Land nicht regnete.
+
+> **Was bedeutet das?**
+> Jetzt tritt einer der größten Propheten der Bibel auf: Elija. Sein Name bedeutet „Mein Gott ist der HERR“. Schon sein Name ist eine Botschaft gegen den Baalskult.
+> Elija kündigt eine Dürre an. Das ist eine direkte Herausforderung an Baal, den angeblichen Gott des Regens. Wer hat wirklich Macht über den Regen?
+> „Vor dem ich stehe“ heißt: dem ich diene.
+> Gott sorgt auf ungewöhnliche Weise für Elija: Raben bringen ihm Essen. Raben galten als unreine Vögel. Gott kann auch durch unerwartete Helfer versorgen.
+> Wo Tischbe lag, ist nicht sicher. Gilead ist das Bergland östlich des Jordan.
+> „Vor dem Jordan“: Das heißt wohl „östlich vom Jordan“, denn Elija soll sich „nach Osten“ wenden.
+
+---
+
+### Die Witwe in Sarepta (Vers 8–16)
+
+<sup>8</sup>Da kam das Wort des HERRN zu ihm:
+<sup>9</sup>„Mach dich auf, geh nach Sarepta, das zu Sidon gehört, und bleib dort.
+Schau, ich habe dort einer Witwe geboten, dich zu versorgen.“
+<sup>10</sup>Da machte er sich auf und ging nach Sarepta.
+Als er an das Tor der Stadt kam,
+schau, da war eine Witwe, die Holz sammelte.
+Er rief ihr zu und sagte:
+„Hol mir doch ein wenig Wasser in einem Gefäß, damit ich trinken kann.“
+<sup>11</sup>Als sie hinging, um es zu holen, rief er ihr nach und sagte:
+„Bring mir doch auch einen Bissen Brot in deiner Hand mit.“
+<sup>12</sup>Sie sagte:
+„So wahr der HERR, dein Gott, lebt:
+Ich habe nichts Gebackenes,
+nur eine Handvoll Mehl im Topf und ein wenig Öl im Krug.
+Schau, ich sammle gerade zwei Holzstücke.
+Dann gehe ich hinein und backe es für mich und meinen Sohn.
+Dann essen wir es und sterben.“
+<sup>13</sup>Elija sagte zu ihr:
+„Hab keine Angst.
+Geh und mach es, wie du gesagt hast.
+Aber mach mir zuerst einen kleinen Kuchen davon und bring ihn mir heraus.
+Danach mach etwas für dich und deinen Sohn.
+<sup>14</sup>Denn so spricht der HERR, der Gott Israels:
+‚Das Mehl im Topf wird nicht ausgehen,
+und das Öl im Krug wird nicht weniger werden,
+bis zu dem Tag, an dem der HERR Regen auf die Erde schickt.‘“
+<sup>15</sup>Sie ging hin und machte es, wie Elija gesagt hatte.
+Und sie und er und ihre Familie aßen viele Tage lang.
+<sup>16</sup>Das Mehl im Topf ging nicht aus,
+und das Öl im Krug wurde nicht weniger,
+wie es der HERR durch Elija gesagt hatte.
+
+> **Was bedeutet das?**
+> Gott schickt Elija ausgerechnet nach Sidon, in die Heimat von Isebel, mitten in das Land des Baal. Und dort hilft ihm eine arme ausländische Witwe.
+> Die Frau hat fast nichts mehr. Sie rechnet damit, dass sie und ihr Sohn verhungern. Trotzdem teilt sie das Letzte. Das braucht großes Vertrauen.
+> Elijas erste Worte sind: „Hab keine Angst.“ Und Gott versorgt alle drei, Tag für Tag.
+> Jesus hat in Nazaret an diese Frau erinnert: Es gab viele Witwen in Israel, aber Elija wurde zu einer Ausländerin geschickt (Lukas 4,25–26). Gottes Güte gilt nicht nur einem Volk.
+
+---
+
+### Der Sohn der Witwe wird lebendig (Vers 17–24)
+
+<sup>17</sup>Danach wurde der Sohn der Frau, der Hausherrin, krank.
+Seine Krankheit wurde so schwer, dass kein Atem mehr in ihm war.
+<sup>18</sup>Sie sagte zu Elija:
+„Was habe ich mit dir zu tun, du Mann Gottes?
+Du bist zu mir gekommen, um mich an meine Sünde zu erinnern
+und meinen Sohn zu töten!“
+<sup>19</sup>Er sagte zu ihr:
+„Gib mir deinen Sohn.“
+Er nahm ihn von ihrem Schoß
+und trug ihn hinauf in das Obergemach, in dem er wohnte,
+und legte ihn auf sein eigenes Bett.
+<sup>20</sup>Er schrie zum HERRN und sagte:
+„HERR, mein Gott,
+hast du auch über die Witwe, bei der ich wohne, Unheil gebracht,
+indem du ihren Sohn sterben lässt?“
+<sup>21</sup>Er streckte sich dreimal über das Kind aus,
+schrie zum HERRN und sagte:
+„HERR, mein Gott, lass doch das Leben dieses Kindes in ihn zurückkehren.“
+<sup>22</sup>Der HERR hörte auf die Stimme Elijas.
+Und das Leben des Kindes kehrte in ihn zurück, und er wurde lebendig.
+<sup>23</sup>Elija nahm das Kind,
+brachte es aus dem Obergemach hinunter ins Haus
+und gab es seiner Mutter.
+Und Elija sagte:
+„Schau, dein Sohn lebt.“
+<sup>24</sup>Die Frau sagte zu Elija:
+„Jetzt weiß ich, dass du ein Mann Gottes bist
+und dass das Wort des HERRN in deinem Mund Wahrheit ist.“
+
+> **Was bedeutet das?**
+> Die Mutter ist verzweifelt. Sie denkt: Mein Kind stirbt wegen meiner Schuld. Viele Menschen haben bei einem Unglück diesen Gedanken. Die Bibel zeigt: Krankheit und Tod sind keine Strafe für die Mutter. Gott schenkt dem Kind das Leben zurück.
+> Auch Elija klagt Gott ehrlich an: „Warum hast du das getan?“ Man darf vor Gott klagen und fragen.
+> Das ist die erste Totenauferweckung in der Bibel. Elijas Nachfolger Elisa tut später etwas Ähnliches (2. Könige 4). Und Jesus erweckte auch den Sohn einer Witwe, in Nain (Lukas 7,11–17).
+> „Leben“ heißt hier wörtlich „Seele“. Im Hebräischen meint das Wort die Lebenskraft eines Menschen.
+> Am Ende bekennt die ausländische Frau: Das Wort des HERRN ist Wahrheit.
+
+## 1. Könige – Kapitel 18
+#### Elija auf dem Berg Karmel
+
+---
+
+### Elija und Obadja (Vers 1–16)
+
+<sup>1</sup>Nach vielen Tagen, im dritten Jahr, kam das Wort des HERRN zu Elija:
+„Geh, zeig dich Ahab.
+Ich will Regen auf die Erde schicken.“
+<sup>2</sup>Elija ging, um sich Ahab zu zeigen.
+Die Hungersnot war schlimm in Samaria.
+<sup>3</sup>Ahab rief Obadja, der über den Palast gesetzt war.
+– Obadja fürchtete den HERRN sehr.
+<sup>4</sup>Denn als Isebel die Propheten des HERRN ausrottete,
+nahm Obadja 100 Propheten
+und versteckte sie, je 50 in einer Höhle,
+und versorgte sie mit Brot und Wasser. –
+<sup>5</sup>Ahab sagte zu Obadja:
+„Geh durch das Land, zu allen Wasserquellen und zu allen Bächen.
+Vielleicht finden wir Gras
+und können die Pferde und Maultiere am Leben erhalten,
+damit wir nicht alle Tiere verlieren.“
+<sup>6</sup>Sie teilten das Land unter sich auf, um es zu durchziehen.
+Ahab ging allein in die eine Richtung,
+und Obadja ging allein in die andere Richtung.
+<sup>7</sup>Als Obadja unterwegs war, schau, da kam ihm Elija entgegen.
+Er erkannte ihn, warf sich auf sein Gesicht und sagte:
+„Bist du es, mein Herr Elija?“
+<sup>8</sup>Er antwortete ihm:
+„Ich bin es.
+Geh, sag deinem Herrn: ‚Schau, Elija ist hier!‘“
+<sup>9</sup>Er sagte:
+„Was habe ich gesündigt,
+dass du deinen Diener in die Hand Ahabs gibst, damit er mich tötet?
+<sup>10</sup>So wahr der HERR, dein Gott, lebt:
+Es gibt kein Volk und kein Königreich, in das mein Herr nicht geschickt hat, um dich zu suchen.
+Wenn sie sagten: ‚Er ist nicht hier‘,
+dann ließ er das Königreich und das Volk schwören, dass sie dich nicht gefunden hatten.
+<sup>11</sup>Und jetzt sagst du:
+‚Geh, sag deinem Herrn: „Schau, Elija ist hier.“‘
+<sup>12</sup>Sobald ich von dir weggehe,
+wird der Geist des HERRN dich wegtragen, ich weiß nicht wohin.
+Dann komme ich und sage es Ahab, und er findet dich nicht.
+Dann wird er mich töten.
+Dabei habe ich, dein Diener, den HERRN von meiner Jugend an gefürchtet.
+<sup>13</sup>Hat man meinem Herrn nicht erzählt, was ich getan habe,
+als Isebel die Propheten des HERRN tötete?
+Ich habe 100 Männer von den Propheten des HERRN versteckt,
+je 50 in einer Höhle,
+und habe sie mit Brot und Wasser versorgt.
+<sup>14</sup>Und jetzt sagst du:
+‚Geh, sag deinem Herrn: „Schau, Elija ist hier.“‘
+Er wird mich töten.“
+<sup>15</sup>Elija sagte:
+„So wahr der HERR der Heere lebt, vor dem ich stehe:
+Heute noch werde ich mich ihm zeigen.“
+<sup>16</sup>Da ging Obadja Ahab entgegen und sagte es ihm.
+Und Ahab ging Elija entgegen.
+
+> **Was bedeutet das?**
+> Seit über zwei Jahren hat es nicht geregnet. Das Land leidet. Ahab sorgt sich um seine Pferde.
+> Obadja ist ein mutiger Mann. Er arbeitet direkt für den König. Aber heimlich rettet er 100 Propheten vor der Königin Isebel. Er zeigt: Man kann auch an einem schwierigen Ort Gott treu bleiben und Leben retten.
+> Obadja hat Angst. Er fürchtet, dass Elija wieder verschwindet und Ahab ihn dann tötet. Elija verspricht ihm: Ich bleibe.
+> Dieser Obadja ist nicht derselbe wie der Prophet Obadja, nach dem ein Buch der Bibel benannt ist.
+> „HERR der Heere“ (hebräisch „Zebaot“) ist ein Name Gottes. Er bedeutet: Gott ist der Herr über alle Mächte im Himmel und auf der Erde.
+
+---
+
+### Wer bringt Unglück über Israel? (Vers 17–19)
+
+<sup>17</sup>Als Ahab Elija sah, sagte Ahab zu ihm:
+„Bist du das, du Unglücksbringer Israels?“
+<sup>18</sup>Er antwortete:
+„Nicht ich bringe Unglück über Israel,
+sondern du und das Haus deines Vaters,
+weil ihr die Gebote des HERRN verlassen habt
+und du den Baalen nachgelaufen bist.
+<sup>19</sup>Nun schick hin und versammle ganz Israel zu mir auf den Berg Karmel,
+dazu die 450 Propheten Baals
+und die 400 Propheten der Aschera, die am Tisch Isebels essen.“
+
+> **Was bedeutet das?**
+> Ahab macht Elija für die Dürre verantwortlich. Elija antwortet klar: Nicht der Bote ist schuld, sondern der, der Gott verlassen hat.
+> Der Berg Karmel liegt am Mittelmeer, beim heutigen Haifa. Er lag an der Grenze zwischen Israel und Phönizien. Dort wurde vielleicht auch Baal verehrt.
+> „Die Baale“: Baal wurde an vielen Orten unter verschiedenen Namen verehrt.
+> „Die am Tisch Isebels essen“ heißt: Isebel bezahlte und versorgte diese Propheten.
+
+---
+
+### Die Entscheidung auf dem Karmel (Vers 20–29)
+
+<sup>20</sup>Da schickte Ahab zu allen Israeliten
+und versammelte die Propheten auf dem Berg Karmel.
+<sup>21</sup>Elija trat zu dem ganzen Volk und sagte:
+„Wie lange wollt ihr noch zwischen den zwei Seiten schwanken?
+Wenn der HERR Gott ist, dann folgt ihm.
+Wenn aber Baal, dann folgt ihm.“
+Das Volk antwortete ihm kein Wort.
+<sup>22</sup>Da sagte Elija zum Volk:
+„Ich, ich allein bin als Prophet des HERRN übrig geblieben.
+Aber die Propheten Baals sind 450 Männer.
+<sup>23</sup>Man gebe uns zwei Stiere.
+Sie sollen sich einen Stier aussuchen,
+ihn in Stücke schneiden und auf das Holz legen,
+aber kein Feuer darunter legen.
+Und ich will den anderen Stier zubereiten
+und auf das Holz legen
+und kein Feuer darunter legen.
+<sup>24</sup>Ruft ihr den Namen eures Gottes an,
+und ich will den Namen des HERRN anrufen.
+Der Gott, der mit Feuer antwortet, der soll Gott sein.“
+Das ganze Volk antwortete:
+„Was du sagst, ist gut.“
+<sup>25</sup>Elija sagte zu den Propheten Baals:
+„Sucht euch einen Stier aus und bereitet ihn zuerst zu,
+denn ihr seid viele.
+Ruft den Namen eures Gottes an,
+aber legt kein Feuer darunter.“
+<sup>26</sup>Sie nahmen den Stier, den man ihnen gegeben hatte,
+und bereiteten ihn zu.
+Und sie riefen den Namen Baals an, vom Morgen bis zum Mittag:
+„Baal, antworte uns!“
+Aber da war keine Stimme, und niemand antwortete.
+Sie hüpften um den Altar herum, den man gemacht hatte.
+<sup>27</sup>Am Mittag verspottete Elija sie und sagte:
+„Ruft lauter, er ist doch ein Gott!
+Vielleicht ist er in Gedanken versunken,
+oder er ist irgendwo hingegangen,
+oder er ist auf Reisen,
+oder vielleicht schläft er und muss aufgeweckt werden.“
+<sup>28</sup>Sie riefen lauter
+und ritzten sich nach ihrem Brauch mit Messern und Lanzen,
+bis das Blut an ihnen herunterlief.
+<sup>29</sup>Als der Mittag vorbei war, prophezeiten sie wild,
+bis zur Zeit des Abendopfers.
+Aber da war keine Stimme, keine Antwort und niemand, der darauf achtete.
+
+> **Was bedeutet das?**
+> „Zwischen den zwei Seiten schwanken“: Im Hebräischen steht wörtlich „auf beiden Krücken hinken“. Das Volk will beides, den HERRN und Baal. Elija sagt: Entscheidet euch! Man kann nicht zwei Herren dienen (vgl. Matthäus 6,24).
+> Die Probe ist fair, sogar günstig für Baal: Baal galt als Gott des Gewitters und des Blitzes. Feuer vom Himmel müsste für ihn leicht sein.
+> Die Baalspropheten rufen stundenlang. Sie tanzen und verletzen sich selbst. Aber es kommt keine Antwort. Das ist der Kern: Götzen können nicht hören und nicht antworten.
+> Elijas Spott ist scharf: „Vielleicht schläft er.“ Hinter „irgendwo hingegangen“ steht im Hebräischen wohl ein derber Ausdruck, der auch „er ist auf der Toilette“ meinen kann.
+> Das Abendopfer wurde am späten Nachmittag dargebracht.
+
+---
+
+### Feuer vom Himmel (Vers 30–40)
+
+<sup>30</sup>Da sagte Elija zum ganzen Volk:
+„Kommt her zu mir!“
+Und das ganze Volk kam zu ihm.
+Er baute den Altar des HERRN wieder auf, der niedergerissen worden war.
+<sup>31</sup>Elija nahm zwölf Steine,
+nach der Zahl der Stämme der Söhne Jakobs,
+zu dem das Wort des HERRN gekommen war:
+„Israel soll dein Name sein.“
+<sup>32</sup>Mit den Steinen baute er einen Altar im Namen des HERRN.
+Um den Altar machte er einen Graben,
+so groß, dass etwa 15 Liter Saatgut hineingepasst hätten.
+<sup>33</sup>Er schichtete das Holz auf,
+schnitt den Stier in Stücke und legte ihn auf das Holz.
+Er sagte:
+„Füllt vier Krüge mit Wasser
+und gießt es auf das Brandopfer und auf das Holz.“
+<sup>34</sup>Er sagte:
+„Macht es noch einmal.“
+Und sie machten es noch einmal.
+Er sagte:
+„Macht es ein drittes Mal.“
+Und sie machten es ein drittes Mal.
+<sup>35</sup>Das Wasser lief rings um den Altar,
+und auch den Graben füllte er mit Wasser.
+<sup>36</sup>Zur Zeit des Abendopfers trat der Prophet Elija heran und sagte:
+„HERR, Gott Abrahams, Isaaks und Israels,
+lass heute erkennen, dass du Gott in Israel bist
+und dass ich dein Diener bin
+und dass ich all das auf dein Wort hin getan habe.
+<sup>37</sup>Antworte mir, HERR, antworte mir,
+damit dieses Volk erkennt, dass du, HERR, Gott bist
+und dass du ihr Herz wieder zurückgewendet hast.“
+<sup>38</sup>Da fiel das Feuer des HERRN herab
+und verzehrte das Brandopfer, das Holz, die Steine und die Erde,
+und leckte das Wasser im Graben auf.
+<sup>39</sup>Als das ganze Volk das sah, fielen sie auf ihr Gesicht und sagten:
+„Der HERR, er ist Gott!
+Der HERR, er ist Gott!“
+<sup>40</sup>Elija sagte zu ihnen:
+„Packt die Propheten Baals!
+Lasst keinen von ihnen entkommen!“
+Sie packten sie.
+Und Elija führte sie hinunter an den Bach Kischon und tötete sie dort.
+
+> **Was bedeutet das?**
+> Elija baut den alten Altar mit zwölf Steinen auf, für alle zwölf Stämme. Obwohl das Reich geteilt ist, gehört für Gott ganz Israel zusammen.
+> Dann lässt er alles mit Wasser übergießen, und das in einer Dürre, wo Wasser so kostbar ist! Niemand soll sagen können, es sei ein Trick gewesen.
+> Elijas Gebet ist kurz und schlicht. Er tanzt nicht, er ritzt sich nicht. Er bittet nur: „Antworte mir, damit dieses Volk erkennt, dass du Gott bist.“ Und Gott antwortet.
+> Das Volk ruft: „Der HERR, er ist Gott!“ Auf Hebräisch: „Adonai hu ha-Elohim!“ Dieser Ruf ist bis heute Teil des jüdischen Gottesdienstes am Ende von Jom Kippur, dem Versöhnungstag.
+> Vers 40 ist sehr schwer: Elija lässt die Baalspropheten töten. Damals galt nach dem Gesetz die Todesstrafe für die, die zum Götzendienst verführten (5. Mose 13). Auch Isebel hatte vorher die Propheten des HERRN getötet. Trotzdem: Diese Geschichte ist kein Vorbild für heute. Niemand darf im Namen Gottes Menschen töten oder ihnen Gewalt antun. Jesus hat seinen Jüngern ausdrücklich verboten, Feuer vom Himmel auf Andersgläubige herabzurufen (Lukas 9,54–55).
+> In der Bibel steht beim Graben „zwei Sea Saatgut“. Eine Sea sind etwa 7,3 Liter.
+> Der Bach Kischon fließt am Fuß des Karmel ins Mittelmeer.
+
+---
+
+### Der Regen kommt (Vers 41–46)
+
+<sup>41</sup>Elija sagte zu Ahab:
+„Geh hinauf, iss und trink,
+denn ich höre schon das Rauschen von viel Regen.“
+<sup>42</sup>Da ging Ahab hinauf, um zu essen und zu trinken.
+Elija aber ging auf den Gipfel des Karmel,
+beugte sich zur Erde nieder
+und legte sein Gesicht zwischen seine Knie.
+<sup>43</sup>Er sagte zu seinem Diener:
+„Geh hinauf und schau zum Meer hin.“
+Er ging hinauf, schaute und sagte:
+„Da ist nichts.“
+Elija sagte siebenmal:
+„Geh wieder hin.“
+<sup>44</sup>Beim siebten Mal sagte er:
+„Schau, eine kleine Wolke, so klein wie die Hand eines Menschen, steigt aus dem Meer auf.“
+Er sagte:
+„Geh hinauf und sag zu Ahab:
+‚Mach dich bereit und fahr hinunter, damit der Regen dich nicht aufhält.‘“
+<sup>45</sup>Nach kurzer Zeit wurde der Himmel schwarz von Wolken und Wind,
+und es kam ein großer Regen.
+Ahab stieg auf seinen Wagen und fuhr nach Jesreel.
+<sup>46</sup>Die Hand des HERRN war über Elija.
+Er band seinen Mantel hoch um seine Hüften
+und lief vor Ahab her bis dahin, wo man nach Jesreel hineingeht.
+
+> **Was bedeutet das?**
+> Nach dem großen Feuer betet Elija ganz still und demütig, das Gesicht zwischen den Knien. Er betet immer weiter, bis zum siebten Mal. Der Jakobusbrief nennt Elija ein Vorbild im Gebet: „Er war ein Mensch wie wir“ (Jakobus 5,17–18).
+> Am Anfang ist die Wolke nur so klein wie eine Hand. Aber daraus wird ein großer Regen. Große Dinge fangen oft ganz klein an.
+> Der Regen beweist: Nicht Baal, sondern der HERR schenkt den Regen.
+> Elija läuft vor dem Wagen des Königs her, etwa 25 bis 30 Kilometer bis Jesreel. Gott gibt ihm übernatürliche Kraft. Es ist auch ein Zeichen: Elija ehrt den König, obwohl er ihm widersprochen hat.
+> Jesreel war ein zweiter Königssitz Ahabs, in der fruchtbaren Ebene östlich vom Karmel.
