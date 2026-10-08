@@ -50344,3 +50344,550 @@ Hodawja, Eljaschib, Pelaja, Akkub, Johanan, Delaja und Anani, sieben.
 > In Vers 22 steht „sechs“, aber es werden nur fünf Namen genannt. Vielleicht wird Schemaja mitgezählt, oder ein Name ist beim Abschreiben verloren gegangen.
 > Vers 21 ist im Hebräischen schwer verständlich. In der griechischen Übersetzung bilden die Namen eine durchgehende Reihe von Vater und Sohn.
 > Matthäus nennt Jechonja, Schealtiël und Serubbabel im Stammbaum Jesu (Matthäus 1,12). So verbinden Christen die Hoffnung auf den Messias aus Davids Familie mit Jesus. Im Judentum wird der Messias aus dem Haus David noch erwartet.
+
+## 1. Chronik – Kapitel 4
+#### Weitere Familien aus Juda und der Stamm Simeon
+
+---
+
+### Familien aus Juda (Vers 1–8)
+
+<sup>1</sup>Die Söhne Judas:
+Perez, Hezron, Karmi, Hur und Schobal.
+<sup>2</sup>Reaja, der Sohn Schobals, zeugte Jahat,
+und Jahat zeugte Ahumai und Lahad.
+Das sind die Familien der Zoratiter.
+<sup>3</sup>Das waren die Söhne des Vaters von Etam:
+Jesreel, Jischma und Jidbasch.
+Ihre Schwester hieß Hazzelelponi.
+<sup>4</sup>Penuël war der Vater von Gedor,
+und Ezer war der Vater von Huscha.
+Das sind die Söhne Hurs, des Erstgeborenen Efratas, des Vaters von Betlehem.
+<sup>5</sup>Aschhur, der Vater von Tekoa, hatte zwei Frauen: Hela und Naara.
+<sup>6</sup>Naara gebar ihm Ahusam, Hefer, Temeni und Haachaschtari.
+Das waren die Söhne Naaras.
+<sup>7</sup>Die Söhne Helas waren Zeret, Jizhar und Etnan.
+<sup>8</sup>Koz zeugte Anub und Zobeba
+und die Familien Aharhels, des Sohnes Harums.
+
+> **Was bedeutet das?**
+> Die Liste in Vers 1 ist keine Liste von Brüdern, sondern eine Linie über mehrere Generationen: Perez war Judas Sohn, Hezron sein Enkel, und so weiter.
+> Viele Namen sind auch Ortsnamen: Etam, Jesreel, Gedor, Betlehem, Tekoa. „Vater von“ heißt hier oft „Gründer von“.
+> Die Chronik nennt auch hier Frauen beim Namen: Hazzelelponi, Hela und Naara.
+> „Koz“ heißt in der englischen Vorlage „Hakkoz“. Das „ha“ ist im Hebräischen der Artikel.
+
+---
+
+### Das Gebet des Jabez (Vers 9–10)
+
+<sup>9</sup>Jabez war angesehener als seine Brüder.
+Seine Mutter hatte ihm den Namen Jabez gegeben,
+denn sie sagte:
+„Ich habe ihn mit Schmerzen geboren.“
+<sup>10</sup>Jabez rief zum Gott Israels:
+„Ach, dass du mich doch segnen
+und mein Gebiet erweitern würdest!
+Deine Hand sei mit mir,
+und bewahre mich vor dem Bösen,
+damit ich keinen Schmerz verursache!“
+Und Gott gab ihm, worum er gebeten hatte.
+
+> **Was bedeutet das?**
+> Mitten in den langen Namenslisten steht plötzlich eine kleine Geschichte mit einem Gebet.
+> Der Name Jabez klingt im Hebräischen wie „Schmerz“. Ein Name mit einer schweren Bedeutung, wie ein Schatten über seinem Leben.
+> Jabez bittet Gott: Segne mich, sei mit mir, und bewahre mich vor dem Bösen, damit ich keinen Schmerz verursache. Er will nicht, dass sein Name sein Schicksal bestimmt.
+> Gott erhört ihn. Die Botschaft: Kein Mensch ist an einen schweren Anfang gebunden. Man kann Gott um einen neuen Weg bitten.
+> Dieses Gebet wurde vor einigen Jahren durch ein Buch sehr bekannt. Wichtig ist: Es ist kein Zauberspruch für Reichtum, sondern die Bitte eines Menschen um Gottes Nähe und Schutz.
+
+---
+
+### Weitere Familien aus Juda (Vers 11–23)
+
+<sup>11</sup>Kelub, der Bruder Schuhas, zeugte Mehir.
+Der war der Vater Eschtons.
+<sup>12</sup>Eschton zeugte Bet-Rafa, Paseach und Tehinna, den Vater von Ir-Nahasch.
+Das sind die Männer von Recha.
+<sup>13</sup>Die Söhne des Kenas:
+Otniël und Seraja.
+Die Söhne Otniëls:
+Hatat.
+<sup>14</sup>Meonotai zeugte Ofra.
+Und Seraja zeugte Joab, den Vater von Ge-Haraschim,
+denn sie waren Handwerker.
+<sup>15</sup>Die Söhne Kalebs, des Sohnes Jefunnes:
+Iru, Ela und Naam.
+Der Sohn Elas: Kenas.
+<sup>16</sup>Die Söhne Jehallelels:
+Sif, Sifa, Tirja und Asarel.
+<sup>17</sup>Die Söhne Esras:
+Jeter, Mered, Efer und Jalon.
+Und die Frau Mereds gebar Mirjam, Schammai und Jischbach, den Vater von Eschtemoa.
+<sup>18</sup>Seine Frau, die Judäerin, gebar Jered, den Vater von Gedor,
+Heber, den Vater von Socho,
+und Jekutiël, den Vater von Sanoach.
+Das sind die Söhne Bitjas, der Tochter des Pharao, die Mered zur Frau genommen hatte.
+<sup>19</sup>Die Söhne der Frau Hodijas, der Schwester Nahams:
+der Vater von Keïla, dem Garmiter,
+und Eschtemoa, der Maachatiter.
+<sup>20</sup>Die Söhne Schimons:
+Amnon, Rinna, Ben-Hanan und Tilon.
+Die Söhne Jischis:
+Sohet und Ben-Sohet.
+<sup>21</sup>Die Söhne Schelas, des Sohnes Judas:
+Er, der Vater von Lecha,
+Laëda, der Vater von Marescha,
+und die Familien des Hauses der Leinenweber, aus dem Haus Aschbea,
+<sup>22</sup>dazu Jokim und die Männer von Koseba,
+Joasch und Saraf, die über Moab herrschten,
+und Jaschubi-Lehem.
+Diese Berichte sind alt.
+<sup>23</sup>Das waren die Töpfer und die Bewohner von Netaïm und Gedera.
+Sie wohnten dort beim König für seine Arbeit.
+
+> **Was bedeutet das?**
+> Otniël war der erste Richter Israels (Richter 3,9–11). Kaleb, der Sohn Jefunnes, war einer der zwei treuen Kundschafter (4. Mose 14,6–9).
+> „Ge-Haraschim“ heißt „Tal der Handwerker“. Die Chronik würdigt auch Handwerker, Töpfer und Leinenweber. Jede Arbeit hat ihren Wert.
+> Bemerkenswert in Vers 18: Mered heiratete Bitja, eine Tochter des Pharao. Eine ägyptische Prinzessin wurde Teil des Stammes Juda. Ihr Name „Bitja“ bedeutet „Tochter des HERRN“. Die jüdische Überlieferung verbindet sie mit der Tochter des Pharao, die Mose aus dem Nil rettete.
+> Vers 17–18 sind im Hebräischen etwas durcheinander. Die griechische Übersetzung stellt den Schluss von Vers 18 vor „Und sie gebar Mirjam“ in Vers 17.
+> „Diese Berichte sind alt“: Der Schreiber sagt ehrlich, dass er aus alten Quellen schöpft.
+> „Er“ ist hier ein Enkel Judas, benannt nach Judas verstorbenem ältesten Sohn Er.
+
+---
+
+### Der Stamm Simeon (Vers 24–33)
+
+<sup>24</sup>Die Söhne Simeons:
+Nemuël, Jamin, Jarib, Serach und Schaul,
+<sup>25</sup>dessen Sohn Schallum,
+dessen Sohn Mibsam,
+dessen Sohn Mischma.
+<sup>26</sup>Die Söhne Mischmas:
+dessen Sohn Hammuël,
+dessen Sohn Sakkur,
+dessen Sohn Schimi.
+<sup>27</sup>Schimi hatte 16 Söhne und 6 Töchter.
+Aber seine Brüder hatten nicht viele Kinder.
+Ihre ganze Familie vermehrte sich nicht so wie die Söhne Judas.
+<sup>28</sup>Sie wohnten in Beerscheba, Molada, Hazar-Schual,
+<sup>29</sup>in Bilha, in Ezem, in Tolad,
+<sup>30</sup>in Betuël, in Horma, in Ziklag,
+<sup>31</sup>in Bet-Markabot, Hazar-Susim, in Bet-Biri und in Schaarajim.
+Das waren ihre Städte, bis David König wurde.
+<sup>32</sup>Ihre Dörfer waren Etam, Ajin, Rimmon, Tochen und Aschan, fünf Städte,
+<sup>33</sup>dazu alle ihre Dörfer rings um diese Städte, bis nach Baal.
+Das waren ihre Wohnorte,
+und sie führten ihre Stammbäume.
+
+> **Was bedeutet das?**
+> Simeon war ein kleiner Stamm. Er lebte mitten im Gebiet Judas, im Süden (Josua 19,1–9). Mit der Zeit ging er fast ganz in Juda auf.
+> Jakob hatte über Simeon und Levi gesagt, dass sie in Israel zerstreut werden würden (1. Mose 49,7).
+> In 1. Mose 46,10 heißt Nemuël „Jemuël“ und Jarib „Jachin“.
+
+---
+
+### Simeon sucht neues Weideland (Vers 34–43)
+
+<sup>34</sup>Meschobab, Jamlech, Joscha, der Sohn Amazjas,
+<sup>35</sup>Joël, Jehu, der Sohn Joschibjas, des Sohnes Serajas, des Sohnes Asiëls,
+<sup>36</sup>Eljoënai, Jaakoba, Jeschohaja, Asaja, Adiël, Jesimiël, Benaja,
+<sup>37</sup>und Sisa, der Sohn Schifis, des Sohnes Allons, des Sohnes Jedajas, des Sohnes Schimris, des Sohnes Schemajas –
+<sup>38</sup>diese, die mit Namen genannt sind, waren Fürsten in ihren Familien.
+Ihre Familien wuchsen sehr stark.
+<sup>39</sup>Sie zogen bis zum Eingang von Gedor,
+bis an die Ostseite des Tals,
+um Weideland für ihre Herden zu suchen.
+<sup>40</sup>Sie fanden fettes, gutes Weideland.
+Das Land war weit, ruhig und friedlich.
+Denn die, die früher dort gewohnt hatten, stammten von Ham ab.
+<sup>41</sup>Diese, die mit Namen aufgeschrieben sind, kamen in den Tagen Hiskijas, des Königs von Juda.
+Sie zerstörten ihre Zelte und die Mëuniter, die man dort fand,
+und vernichteten sie völlig, bis zum heutigen Tag.
+Und sie wohnten an ihrer Stelle,
+weil es dort Weideland für ihre Herden gab.
+<sup>42</sup>Einige von ihnen, von den Söhnen Simeons,
+zogen mit 500 Männern zum Gebirge Seïr.
+Ihre Anführer waren Pelatja, Nearja, Refaja und Usiël, die Söhne Jischis.
+<sup>43</sup>Sie schlugen den Rest der Amalekiter, die entkommen waren,
+und wohnen dort bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Zur Zeit König Hiskijas brauchen die Familien Simeons mehr Platz für ihre Herden. Sie ziehen weiter in den Süden und vertreiben die Menschen, die dort lebten.
+> Das ist ein harter Bericht über Vertreibung und Gewalt. Die Bibel erzählt, wie es damals geschah. Für die Menschen, die dort friedlich lebten, war es ein Unrecht und großes Leid. Diese Verse sind kein Vorbild dafür, anderen ihr Land wegzunehmen.
+> Die Mëuniter waren wohl ein Volk aus dem Gebiet südlich des Toten Meeres.
+> Die Amalekiter waren seit der Wüstenzeit Feinde Israels (2. Mose 17,8–16).
+
+## 1. Chronik – Kapitel 5
+#### Die Stämme östlich des Jordan
+
+---
+
+### Ruben, der Erstgeborene (Vers 1–3)
+
+<sup>1</sup>Die Söhne Rubens, des Erstgeborenen Israels
+– er war zwar der Erstgeborene,
+aber weil er das Bett seines Vaters entehrt hatte,
+wurde sein Erstgeburtsrecht den Söhnen Josefs, des Sohnes Israels, gegeben.
+Darum wird er im Stammbaum nicht als Erstgeborener geführt.
+<sup>2</sup>Denn Juda wurde mächtiger als seine Brüder,
+und aus ihm kam der Fürst.
+Aber das Erstgeburtsrecht bekam Josef. –
+<sup>3</sup>Die Söhne Rubens, des Erstgeborenen Israels:
+Hanoch, Pallu, Hezron und Karmi.
+
+> **Was bedeutet das?**
+> Ruben war Jakobs ältester Sohn. Aber er hatte mit Bilha, einer Frau seines Vaters, geschlafen (1. Mose 35,22). Darum verlor er sein Vorrecht als Erstgeborener.
+> Das Erstgeburtsrecht wurde aufgeteilt: Josef bekam den doppelten Anteil am Land (seine Söhne Efraim und Manasse wurden zwei Stämme). Juda bekam die Führung: Aus ihm kam der König David.
+> „Der Fürst“: Gemeint ist David. Später verband man diesen Ausdruck auch mit dem erwarteten Messias.
+
+---
+
+### Die Familien Rubens (Vers 4–10)
+
+<sup>4</sup>Die Söhne Joëls:
+dessen Sohn Schemaja,
+dessen Sohn Gog,
+dessen Sohn Schimi,
+<sup>5</sup>dessen Sohn Micha,
+dessen Sohn Reaja,
+dessen Sohn Baal,
+<sup>6</sup>dessen Sohn Beera,
+den Tiglat-Pileser, der König von Assyrien, gefangen wegführte.
+Er war ein Fürst der Rubeniter.
+<sup>7</sup>Seine Brüder nach ihren Familien,
+als ihre Stammbäume nach ihren Generationen aufgeschrieben wurden:
+das Oberhaupt Jeïël, und Secharja,
+<sup>8</sup>und Bela, der Sohn des Asas, des Sohnes Schemas, des Sohnes Joëls.
+Der wohnte in Aroër und bis nach Nebo und Baal-Meon.
+<sup>9</sup>Nach Osten wohnte er bis dorthin, wo die Wüste beginnt, die sich bis zum Strom Euphrat erstreckt.
+Denn ihr Vieh hatte sich im Land Gilead vermehrt.
+<sup>10</sup>In den Tagen Sauls führten sie Krieg mit den Hagaritern.
+Die fielen durch ihre Hand.
+Und sie wohnten in deren Zelten im ganzen Gebiet östlich von Gilead.
+
+> **Was bedeutet das?**
+> Wie Joël mit Ruben verbunden ist, wird nicht gesagt.
+> Tiglat-Pileser (hier in einer anderen Schreibweise „Tilgat-Pilneser“ in der Vorlage) war der assyrische König, der um 733 vor Christus die Stämme östlich des Jordan verschleppte (2. Könige 15,29).
+> Aroër, Nebo und Baal-Meon lagen östlich des Toten Meeres. Diese Orte werden auch auf dem Mescha-Stein genannt.
+> Die Hagariter waren wohl ein arabischer Stamm. Ihr Name erinnert an Hagar, die Mutter Ismaels.
+
+---
+
+### Der Stamm Gad (Vers 11–17)
+
+<sup>11</sup>Die Söhne Gads wohnten neben ihnen im Land Baschan bis nach Salcha:
+<sup>12</sup>Joël, das Oberhaupt,
+Schafam, der zweite,
+Janai und Schafat in Baschan.
+<sup>13</sup>Ihre Brüder nach ihren Familien:
+Michael, Meschullam, Scheba, Jorai, Jakan, Sia und Eber, sieben.
+<sup>14</sup>Das waren die Söhne Abihajils,
+des Sohnes Huris, des Sohnes Jaroachs, des Sohnes Gileads,
+des Sohnes Michaels, des Sohnes Jeschischais, des Sohnes Jachdos, des Sohnes des Bus.
+<sup>15</sup>Achi, der Sohn Abdiëls, des Sohnes Gunis,
+war das Oberhaupt ihrer Familien.
+<sup>16</sup>Sie wohnten in Gilead, in Baschan und in seinen Dörfern
+und in allen Weidegebieten von Scharon bis an ihre Grenzen.
+<sup>17</sup>Diese alle wurden in den Tagen Jotams, des Königs von Juda,
+und in den Tagen Jerobeams, des Königs von Israel, in die Stammbäume eingetragen.
+
+> **Was bedeutet das?**
+> Gad lebte östlich des Jordan, in Gilead und Baschan. Das war gutes Weideland für Viehherden.
+> „Scharon“ ist hier wohl nicht die bekannte Küstenebene, sondern eine Gegend östlich des Jordan.
+> Die Stammbäume wurden unter König Jotam von Juda und König Jerobeam II. von Israel aufgeschrieben, also etwa um 750 vor Christus.
+
+---
+
+### Krieg gegen die Hagariter (Vers 18–22)
+
+<sup>18</sup>Die Söhne Rubens, die Gaditer und der halbe Stamm Manasse hatten tapfere Männer,
+Männer, die Schild und Schwert tragen und mit dem Bogen schießen konnten,
+erfahren im Krieg:
+44 760 Mann, die in den Krieg ziehen konnten.
+<sup>19</sup>Sie führten Krieg mit den Hagaritern,
+mit Jetur, Nafisch und Nodab.
+<sup>20</sup>Ihnen wurde gegen sie geholfen,
+und die Hagariter wurden in ihre Hand gegeben,
+mit allen, die bei ihnen waren.
+Denn sie schrien im Kampf zu Gott,
+und er erhörte sie, weil sie auf ihn vertrauten.
+<sup>21</sup>Sie führten ihr Vieh weg:
+50 000 von ihren Kamelen,
+250 000 Schafe,
+2000 Esel
+und 100 000 Menschen.
+<sup>22</sup>Denn viele fielen erschlagen, weil der Krieg von Gott war.
+Und sie wohnten an ihrer Stelle bis zur Gefangenschaft.
+
+> **Was bedeutet das?**
+> Die Botschaft der Chronik: Sie siegten, weil sie in der Not zu Gott schrien und ihm vertrauten.
+> Jetur und Nafisch waren Söhne Ismaels (Kapitel 1,31). Die Hagariter waren also arabische Stämme.
+> Die Zahlen sind sehr groß. Wie bei anderen alten Kriegsberichten ist unklar, wie genau sie gemeint sind.
+> „Der Krieg war von Gott“ ist eine Deutung aus der Sicht der Sieger. Für die Besiegten war es großes Leid, Tod und Gefangenschaft. Heute darf sich niemand auf Gott berufen, um Krieg gegen andere Völker zu rechtfertigen.
+
+---
+
+### Der halbe Stamm Manasse und die Verschleppung (Vers 23–26)
+
+<sup>23</sup>Die Söhne des halben Stammes Manasse wohnten im Land.
+Sie wurden zahlreich, von Baschan bis Baal-Hermon, Senir und den Berg Hermon.
+<sup>24</sup>Das waren die Oberhäupter ihrer Familien:
+Efer, Jischi, Eliël, Asriël, Jirmeja, Hodawja und Jachdiël,
+tapfere Krieger, berühmte Männer, Oberhäupter ihrer Familien.
+<sup>25</sup>Aber sie wurden dem Gott ihrer Väter untreu.
+Sie liefen hurend den Göttern der Völker des Landes nach,
+die Gott vor ihnen vernichtet hatte.
+<sup>26</sup>Da weckte der Gott Israels den Geist Puls, des Königs von Assyrien,
+und den Geist Tiglat-Pilesers, des Königs von Assyrien.
+Und er führte die Rubeniter, die Gaditer und den halben Stamm Manasse weg
+und brachte sie nach Halach, Habor, Hara und an den Strom von Gosan,
+bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Der halbe Stamm Manasse lebte im Norden, bis zum Berg Hermon. Der Hermon ist der höchste Berg der Gegend. „Senir“ ist ein anderer Name für ihn.
+> Die Chronik erklärt kurz: Sie verloren ihr Land, weil sie Gott untreu wurden. „Hurend nachlaufen“ ist ein Bild für Götzendienst: Untreue gegen Gott wie Untreue in der Ehe.
+> „Pul“ und „Tiglat-Pileser“ sind wahrscheinlich zwei Namen für denselben König (2. Könige 15,19.29). Die Chronik nennt sie hier nebeneinander.
+> Das war die erste Verschleppung von Israeliten, etwa 733 vor Christus.
+> In deutschen Bibeln geht Kapitel 5 noch weiter, bis Vers 41. Die Verse 1–15 im nächsten Kapitel stehen dort als Kapitel 5, Verse 27–41.
+
+## 1. Chronik – Kapitel 6
+#### Der Stamm Levi: Priester, Sänger und ihre Städte
+
+---
+
+### Die Hohenpriester von Aaron bis zur Verbannung (Vers 1–15)
+
+<sup>1</sup>Die Söhne Levis:
+Gerschon, Kehat und Merari.
+<sup>2</sup>Die Söhne Kehats:
+Amram, Jizhar, Hebron und Usiël.
+<sup>3</sup>Die Kinder Amrams:
+Aaron, Mose und Mirjam.
+Die Söhne Aarons:
+Nadab, Abihu, Eleasar und Itamar.
+<sup>4</sup>Eleasar zeugte Pinhas,
+Pinhas zeugte Abischua,
+<sup>5</sup>Abischua zeugte Bukki,
+Bukki zeugte Usi,
+<sup>6</sup>Usi zeugte Serachja,
+Serachja zeugte Merajot,
+<sup>7</sup>Merajot zeugte Amarja,
+Amarja zeugte Ahitub,
+<sup>8</sup>Ahitub zeugte Zadok,
+Zadok zeugte Ahimaaz,
+<sup>9</sup>Ahimaaz zeugte Asarja,
+Asarja zeugte Johanan,
+<sup>10</sup>Johanan zeugte Asarja.
+Der war Priester in dem Haus, das Salomo in Jerusalem gebaut hatte.
+<sup>11</sup>Asarja zeugte Amarja,
+Amarja zeugte Ahitub,
+<sup>12</sup>Ahitub zeugte Zadok,
+Zadok zeugte Schallum,
+<sup>13</sup>Schallum zeugte Hilkija,
+Hilkija zeugte Asarja,
+<sup>14</sup>Asarja zeugte Seraja,
+Seraja zeugte Jozadak.
+<sup>15</sup>Jozadak zog mit in die Gefangenschaft,
+als der HERR Juda und Jerusalem durch die Hand Nebukadnezars wegführen ließ.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln stehen diese Verse am Ende von Kapitel 5 (Verse 27–41). Darum ist die Verszählung in diesem ganzen Kapitel anders: Vers 16 hier ist in deutschen Bibeln Kapitel 6, Vers 1, und so weiter. Vers 81 hier ist dort Vers 66.
+> Levi war der Stamm der Priester und Tempeldiener. Aus Levi kamen Mose, Aaron und Mirjam. Die Chronik nennt Mirjam ausdrücklich mit ihren Brüdern.
+> Hier wird die Linie der Hohenpriester aufgezählt, von Aaron bis zur Verbannung nach Babylon, etwa 800 Jahre.
+> Hilkija ist der Hohepriester, der unter Joschija das Buch des Gesetzes fand (2. Könige 22,8). Seraja wurde von den Babyloniern hingerichtet (2. Könige 25,18–21).
+> Jozadak (auch Jehozadak) war der Vater von Jeschua, dem ersten Hohenpriester nach der Rückkehr aus Babylon (Esra 3,2). So zeigt die Chronik: Auch das Priesteramt ging nicht verloren.
+> Die Liste ist nicht vollständig. Bekannte Priester wie Eli oder Jojada fehlen. Solche Listen nennen oft nur die wichtigsten Glieder.
+
+---
+
+### Die Familien der Leviten (Vers 16–30)
+
+<sup>16</sup>Die Söhne Levis:
+Gerschom, Kehat und Merari.
+<sup>17</sup>Das sind die Namen der Söhne Gerschoms:
+Libni und Schimi.
+<sup>18</sup>Die Söhne Kehats waren:
+Amram, Jizhar, Hebron und Usiël.
+<sup>19</sup>Die Söhne Meraris:
+Machli und Muschi.
+Das sind die Familien der Leviten nach ihren Vätern.
+<sup>20</sup>Von Gerschom:
+dessen Sohn Libni,
+dessen Sohn Jahat,
+dessen Sohn Simma,
+<sup>21</sup>dessen Sohn Joach,
+dessen Sohn Iddo,
+dessen Sohn Serach,
+dessen Sohn Jeatrai.
+<sup>22</sup>Die Söhne Kehats:
+dessen Sohn Amminadab,
+dessen Sohn Korach,
+dessen Sohn Assir,
+<sup>23</sup>dessen Sohn Elkana,
+dessen Sohn Ebjasaf,
+dessen Sohn Assir,
+<sup>24</sup>dessen Sohn Tahat,
+dessen Sohn Uriël,
+dessen Sohn Usija,
+dessen Sohn Schaul.
+<sup>25</sup>Die Söhne Elkanas:
+Amasai und Ahimot.
+<sup>26</sup>Was Elkana betrifft, die Söhne Elkanas:
+dessen Sohn Zofai,
+dessen Sohn Nahat,
+<sup>27</sup>dessen Sohn Eliab,
+dessen Sohn Jeroham,
+dessen Sohn Elkana.
+<sup>28</sup>Die Söhne Samuels:
+der Erstgeborene, Joël,
+und der zweite, Abija.
+<sup>29</sup>Die Söhne Meraris:
+Machli,
+dessen Sohn Libni,
+dessen Sohn Schimi,
+dessen Sohn Usa,
+<sup>30</sup>dessen Sohn Schimea,
+dessen Sohn Haggija,
+dessen Sohn Asaja.
+
+> **Was bedeutet das?**
+> Die Leviten waren in drei große Familien eingeteilt, nach den drei Söhnen Levis: Gerschom (oder Gerschon), Kehat und Merari. Jede Familie hatte eigene Aufgaben (4. Mose 3–4).
+> Interessant: Auch der Prophet Samuel wird hier zu den Leviten gezählt. In 1. Samuel 1,1 wird seine Familie mit Efraim verbunden. Wahrscheinlich war er ein Levit, der im Gebiet Efraim lebte.
+> Samuels Söhne heißen Joël und Abija (1. Samuel 8,2). Im hebräischen Text von Vers 28 fehlt der Name Joël. Die englische Vorlage ergänzt ihn aus Vers 33.
+
+---
+
+### Die Sänger im Tempel (Vers 31–47)
+
+<sup>31</sup>Das sind die, die David über den Gesang im Haus des HERRN setzte,
+nachdem die Lade dort einen Ruheplatz gefunden hatte.
+<sup>32</sup>Sie dienten mit Gesang vor der Wohnung, dem Zelt der Begegnung,
+bis Salomo das Haus des HERRN in Jerusalem gebaut hatte.
+Sie taten ihren Dienst nach ihrer Ordnung.
+<sup>33</sup>Das sind die, die dienten, und ihre Söhne.
+Von den Söhnen der Kehatiter:
+Heman, der Sänger, der Sohn Joëls, des Sohnes Samuels,
+<sup>34</sup>des Sohnes Elkanas, des Sohnes Jerohams, des Sohnes Eliëls, des Sohnes Toachs,
+<sup>35</sup>des Sohnes Zufs, des Sohnes Elkanas, des Sohnes Mahats, des Sohnes Amasais,
+<sup>36</sup>des Sohnes Elkanas, des Sohnes Joëls, des Sohnes Asarjas, des Sohnes Zefanjas,
+<sup>37</sup>des Sohnes Tahats, des Sohnes Assirs, des Sohnes Ebjasafs, des Sohnes Korachs,
+<sup>38</sup>des Sohnes Jizhars, des Sohnes Kehats, des Sohnes Levis, des Sohnes Israels.
+<sup>39</sup>Sein Bruder Asaf stand zu seiner Rechten:
+Asaf, der Sohn Berechjas, des Sohnes Schimeas,
+<sup>40</sup>des Sohnes Michaels, des Sohnes Baaseja, des Sohnes Malkijas,
+<sup>41</sup>des Sohnes Etnis, des Sohnes Serachs, des Sohnes Adajas,
+<sup>42</sup>des Sohnes Etans, des Sohnes Simmas, des Sohnes Schimis,
+<sup>43</sup>des Sohnes Jahats, des Sohnes Gerschoms, des Sohnes Levis.
+<sup>44</sup>Zur Linken standen ihre Brüder, die Söhne Meraris:
+Etan, der Sohn Kischis, des Sohnes Abdis, des Sohnes Malluchs,
+<sup>45</sup>des Sohnes Haschabjas, des Sohnes Amazjas, des Sohnes Hilkijas,
+<sup>46</sup>des Sohnes Amzis, des Sohnes Banis, des Sohnes Schemers,
+<sup>47</sup>des Sohnes Machlis, des Sohnes Muschis, des Sohnes Meraris, des Sohnes Levis.
+
+> **Was bedeutet das?**
+> Die Musik im Gottesdienst ist der Chronik sehr wichtig. David hat sie eingeführt.
+> Drei große Sängerfamilien: Heman (aus der Familie Kehat), Asaf (aus der Familie Gerschom) und Etan (aus der Familie Merari). Sie standen in der Mitte, rechts und links. Jede Familie der Leviten war vertreten.
+> Heman war ein Enkel des Propheten Samuel.
+> Viele Psalmen tragen die Namen dieser Sänger: Die Psalmen 50 und 73–83 sind „von Asaf“, Psalm 88 „von Heman“ und Psalm 89 „von Etan“. Auch die „Söhne Korachs“ (Psalmen 42–49 und andere) gehören zu dieser Familie.
+> Die Liste zeigt: Diese Sänger konnten ihre Herkunft über viele Generationen bis zu Levi und Jakob zurückverfolgen.
+
+---
+
+### Die Aufgaben der Priester (Vers 48–53)
+
+<sup>48</sup>Ihre Brüder, die Leviten, waren für den ganzen Dienst an der Wohnung des Hauses Gottes bestimmt.
+<sup>49</sup>Aber Aaron und seine Söhne brachten die Opfer dar
+auf dem Brandopferaltar und auf dem Räucheraltar,
+für den ganzen Dienst im Allerheiligsten,
+und um Sühne für Israel zu schaffen,
+ganz so, wie Mose, der Knecht Gottes, geboten hatte.
+<sup>50</sup>Das sind die Söhne Aarons:
+dessen Sohn Eleasar,
+dessen Sohn Pinhas,
+dessen Sohn Abischua,
+<sup>51</sup>dessen Sohn Bukki,
+dessen Sohn Usi,
+dessen Sohn Serachja,
+<sup>52</sup>dessen Sohn Merajot,
+dessen Sohn Amarja,
+dessen Sohn Ahitub,
+<sup>53</sup>dessen Sohn Zadok,
+dessen Sohn Ahimaaz.
+
+> **Was bedeutet das?**
+> Es gab eine Arbeitsteilung: Die Leviten halfen beim Dienst am Heiligtum. Nur die Priester, die Nachkommen Aarons, durften die Opfer darbringen und ins Heiligtum gehen.
+> „Sühne schaffen“ heißt: Durch die Opfer sollte die Schuld des Volkes vor Gott bedeckt und die Gemeinschaft mit Gott wiederhergestellt werden.
+> Die Liste wiederholt die Hohenpriester bis zu Zadok und Ahimaaz, der Zeit Davids und Salomos.
+
+---
+
+### Die Städte der Leviten (Vers 54–81)
+
+<sup>54</sup>Das sind ihre Wohnorte nach ihren Lagern in ihren Gebieten.
+Den Söhnen Aarons, aus der Familie der Kehatiter
+– denn für sie fiel das erste Los –,
+<sup>55</sup>ihnen gab man Hebron im Land Juda mit seinen Weideflächen ringsum.
+<sup>56</sup>Aber die Felder der Stadt und ihre Dörfer gab man Kaleb, dem Sohn Jefunnes.
+<sup>57</sup>Den Söhnen Aarons gab man die Zufluchtsstädte:
+Hebron, dazu Libna mit seinen Weideflächen,
+Jattir, Eschtemoa mit seinen Weideflächen,
+<sup>58</sup>Hilen mit seinen Weideflächen, Debir mit seinen Weideflächen,
+<sup>59</sup>Aschan mit seinen Weideflächen und Bet-Schemesch mit seinen Weideflächen.
+<sup>60</sup>Und vom Stamm Benjamin:
+Geba mit seinen Weideflächen, Allemet mit seinen Weideflächen
+und Anatot mit seinen Weideflächen.
+Alle ihre Städte in ihren Familien waren dreizehn Städte.
+<sup>61</sup>Den übrigen Söhnen Kehats gab man durch das Los
+aus der Familie des Stammes, aus dem halben Stamm, der Hälfte Manasses,
+zehn Städte.
+<sup>62</sup>Den Söhnen Gerschoms nach ihren Familien
+vom Stamm Issachar, vom Stamm Asser, vom Stamm Naftali
+und vom Stamm Manasse in Baschan:
+dreizehn Städte.
+<sup>63</sup>Den Söhnen Meraris nach ihren Familien gab man durch das Los
+vom Stamm Ruben, vom Stamm Gad und vom Stamm Sebulon:
+zwölf Städte.
+<sup>64</sup>So gaben die Israeliten den Leviten die Städte mit ihren Weideflächen.
+<sup>65</sup>Sie gaben durch das Los
+vom Stamm der Söhne Judas, vom Stamm der Söhne Simeons
+und vom Stamm der Söhne Benjamins
+diese Städte, die mit Namen genannt sind.
+<sup>66</sup>Einige der Familien der Söhne Kehats
+bekamen Städte ihres Gebiets vom Stamm Efraim.
+<sup>67</sup>Man gab ihnen die Zufluchtsstädte:
+Sichem im Bergland Efraim mit seinen Weideflächen,
+und Geser mit seinen Weideflächen,
+<sup>68</sup>Jokmeam mit seinen Weideflächen, Bet-Horon mit seinen Weideflächen,
+<sup>69</sup>Ajalon mit seinen Weideflächen, Gat-Rimmon mit seinen Weideflächen.
+<sup>70</sup>Und vom halben Stamm Manasse:
+Aner mit seinen Weideflächen und Bileam mit seinen Weideflächen,
+für die übrige Familie der Söhne Kehats.
+<sup>71</sup>Den Söhnen Gerschoms gab man
+aus der Familie des halben Stammes Manasse
+Golan in Baschan mit seinen Weideflächen und Aschtarot mit seinen Weideflächen,
+<sup>72</sup>und vom Stamm Issachar
+Kedesch mit seinen Weideflächen, Daberat mit seinen Weideflächen,
+<sup>73</sup>Ramot mit seinen Weideflächen und Anem mit seinen Weideflächen,
+<sup>74</sup>und vom Stamm Asser
+Maschal mit seinen Weideflächen, Abdon mit seinen Weideflächen,
+<sup>75</sup>Hukok mit seinen Weideflächen und Rehob mit seinen Weideflächen,
+<sup>76</sup>und vom Stamm Naftali
+Kedesch in Galiläa mit seinen Weideflächen,
+Hammon mit seinen Weideflächen und Kirjatajim mit seinen Weideflächen.
+<sup>77</sup>Den übrigen Leviten, den Söhnen Meraris, gab man
+vom Stamm Sebulon
+Rimmono mit seinen Weideflächen und Tabor mit seinen Weideflächen,
+<sup>78</sup>und jenseits des Jordan bei Jericho, auf der Ostseite des Jordan,
+gab man ihnen vom Stamm Ruben
+Bezer in der Wüste mit seinen Weideflächen, Jahza mit seinen Weideflächen,
+<sup>79</sup>Kedemot mit seinen Weideflächen und Mefaat mit seinen Weideflächen,
+<sup>80</sup>und vom Stamm Gad
+Ramot in Gilead mit seinen Weideflächen, Mahanajim mit seinen Weideflächen,
+<sup>81</sup>Heschbon mit seinen Weideflächen und Jaser mit seinen Weideflächen.
+
+> **Was bedeutet das?**
+> Die Leviten bekamen kein eigenes Stammesgebiet. Stattdessen bekamen sie Städte verteilt im ganzen Land, in den Gebieten der anderen Stämme (4. Mose 35,1–8). So waren sie überall im Volk und konnten die Menschen Gottes Gesetz lehren.
+> Diese Liste steht ähnlich auch in Josua 21. Manche Namen sind leicht anders geschrieben, zum Beispiel heißt Hilen dort „Holon“ und Aschan dort „Ajin“.
+> „Zufluchtsstädte“ waren Städte, in die jemand fliehen konnte, der unabsichtlich einen Menschen getötet hatte. Dort war er vor der Blutrache sicher, bis ein Gericht entschied (4. Mose 35,9–15). Das war ein früher Schutz vor Selbstjustiz.
+> Anatot ist der Heimatort des Propheten Jeremia (Jeremia 1,1).
+> In Vers 57 klingt es so, als wären alle genannten Städte Zufluchtsstädte. Nach Josua 21,13 war nur Hebron eine Zufluchtsstadt.
+> In Vers 61 und 77 ist der hebräische Text an einigen Stellen gekürzt. Josua 21 nennt hier mehr Städte.
