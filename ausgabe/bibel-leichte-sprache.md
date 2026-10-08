@@ -47303,3 +47303,450 @@ sodass man nicht sagen kann: Das ist Isebel.‘“
 > So erfüllt sich Elijas Wort (1. Könige 21,23). Isebel hatte viele Propheten Gottes und Nabot töten lassen. Die Bibel zeigt: Auch die Mächtigen entkommen Gottes Gericht nicht.
 > Trotzdem ist diese Szene grausam und kein Vorbild. Die Bibel erzählt sie, um zu zeigen, wie Gewalt und Götzendienst sich rächen, nicht um sie gutzuheißen.
 > Der Name „Isebel“ wurde später zum Symbol für Verführung zum Götzendienst (Offenbarung 2,20). Leider wurde er auch benutzt, um Frauen abzuwerten. Das ist falsch: Isebel wird nicht verurteilt, weil sie eine Frau war, sondern wegen ihrer Taten.
+
+## 2. Könige – Kapitel 10
+#### Jehus blutige Herrschaft
+
+---
+
+### Die siebzig Söhne Ahabs (Vers 1–11)
+
+<sup>1</sup>Ahab hatte siebzig Söhne in Samaria.
+Jehu schrieb Briefe und schickte sie nach Samaria,
+an die Obersten von Jesreel, die Ältesten,
+und an die Erzieher der Söhne Ahabs.
+Er schrieb:
+<sup>2</sup>„Sobald dieser Brief zu euch kommt
+– denn bei euch sind die Söhne eures Herrn,
+und ihr habt Wagen und Pferde, eine befestigte Stadt und Waffen –,
+<sup>3</sup>dann sucht den besten und fähigsten von den Söhnen eures Herrn aus,
+setzt ihn auf den Thron seines Vaters
+und kämpft für das Haus eures Herrn.“
+<sup>4</sup>Aber sie bekamen große Angst und sagten:
+„Schau, die zwei Könige konnten nicht vor ihm bestehen!
+Wie sollen wir dann bestehen?“
+<sup>5</sup>Der Palastverwalter, der Stadtoberste, die Ältesten und die Erzieher
+schickten zu Jehu und ließen ihm sagen:
+„Wir sind deine Diener.
+Wir wollen alles tun, was du uns sagst.
+Wir wollen niemanden zum König machen.
+Tu, was in deinen Augen gut ist.“
+<sup>6</sup>Da schrieb er ihnen einen zweiten Brief:
+„Wenn ihr auf meiner Seite seid und auf meine Stimme hört,
+dann nehmt die Köpfe der Männer, der Söhne eures Herrn,
+und kommt morgen um diese Zeit zu mir nach Jesreel.“
+Die Königssöhne, siebzig Personen, waren bei den Großen der Stadt, die sie erzogen.
+<sup>7</sup>Als der Brief zu ihnen kam,
+nahmen sie die Königssöhne und töteten sie, siebzig Personen.
+Sie legten ihre Köpfe in Körbe
+und schickten sie zu ihm nach Jesreel.
+<sup>8</sup>Ein Bote kam und meldete ihm:
+„Sie haben die Köpfe der Königssöhne gebracht.“
+Er sagte:
+„Legt sie in zwei Haufen an den Eingang des Tores, bis zum Morgen.“
+<sup>9</sup>Am Morgen ging er hinaus, stellte sich hin und sagte zum ganzen Volk:
+„Ihr seid gerecht.
+Schaut, ich habe mich gegen meinen Herrn verschworen und ihn getötet.
+Aber wer hat alle diese erschlagen?
+<sup>10</sup>Erkennt nun, dass nichts von dem Wort des HERRN zur Erde fällt,
+das der HERR gegen das Haus Ahab geredet hat.
+Denn der HERR hat getan, was er durch seinen Knecht Elija gesagt hat.“
+<sup>11</sup>Und Jehu erschlug alle, die vom Haus Ahab in Jesreel übrig waren,
+alle seine Großen, seine Vertrauten und seine Priester,
+bis er ihm niemanden übrig ließ.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist sehr blutig und schwer zu lesen.
+> „Siebzig Söhne“ meint wohl alle männlichen Nachkommen Ahabs, auch Enkel.
+> Jehu ist schlau und rücksichtslos. Er lässt die Vornehmen von Samaria die Prinzen töten. Dann sagt er zum Volk: Ich habe nur einen getötet, aber wer hat diese alle getötet? So macht er alle zu Mitschuldigen.
+> Jehu beruft sich auf Gottes Wort. Aber er geht weit darüber hinaus. Er tötet auch Freunde, Beamte und Priester. Etwa hundert Jahre später verurteilt der Prophet Hosea das „Blut von Jesreel“ (Hosea 1,4). Gott hatte ein Gericht über Ahabs Haus angekündigt. Er hatte Jehu aber keinen Freibrief für grenzenlose Gewalt gegeben.
+> Die Bibel berichtet diese Taten ehrlich. Sie sind kein Vorbild. Niemand darf sich auf Gott berufen, um Menschen zu töten.
+
+---
+
+### Die Brüder Ahasjas (Vers 12–14)
+
+<sup>12</sup>Er machte sich auf und ging nach Samaria.
+Als er unterwegs beim Scherhaus der Hirten war,
+<sup>13</sup>traf Jehu die Brüder Ahasjas, des Königs von Juda.
+Er fragte:
+„Wer seid ihr?“
+Sie antworteten:
+„Wir sind die Brüder Ahasjas.
+Wir gehen hinab, um die Söhne des Königs und die Söhne der Königin zu begrüßen.“
+<sup>14</sup>Er sagte:
+„Nehmt sie lebendig gefangen!“
+Sie nahmen sie lebendig gefangen
+und töteten sie an der Zisterne beim Scherhaus, 42 Männer.
+Er ließ keinen von ihnen übrig.
+
+> **Was bedeutet das?**
+> Die Verwandten des Königs von Juda wissen noch nichts von dem Umsturz. Sie wollen die Familie Ahabs besuchen. Jehu lässt auch sie alle töten.
+> „Brüder“ heißt hier wohl allgemein Verwandte. Die echten Brüder Ahasjas waren schon früher umgekommen (2. Chronik 21,17).
+> „Die Königin“ ist Isebel, die Königinmutter.
+
+---
+
+### Jonadab, der Sohn Rechabs (Vers 15–17)
+
+<sup>15</sup>Als er von dort weiterzog,
+traf er Jonadab, den Sohn Rechabs, der ihm entgegenkam.
+Er grüßte ihn und sagte zu ihm:
+„Ist dein Herz aufrichtig, wie mein Herz mit deinem Herzen?“
+Jonadab antwortete:
+„Ja, das ist es.“
+„Wenn es so ist, dann gib mir deine Hand.“
+Er gab ihm seine Hand,
+und Jehu ließ ihn zu sich auf den Wagen steigen.
+<sup>16</sup>Er sagte:
+„Komm mit mir und sieh, wie ich für den HERRN eifere.“
+So ließen sie ihn auf seinem Wagen mitfahren.
+<sup>17</sup>Als er nach Samaria kam,
+erschlug er alle, die von Ahab in Samaria übrig waren,
+bis er sie vernichtet hatte,
+nach dem Wort des HERRN, das er zu Elija gesagt hatte.
+
+> **Was bedeutet das?**
+> Jonadab war der Anführer einer besonders strengen Gruppe, der Rechabiter. Sie tranken keinen Wein, bauten keine Häuser und lebten in Zelten, als Zeichen ihrer Treue zu Gott und gegen das bequeme Leben in den Städten. Der Prophet Jeremia lobt sie später für ihre Treue (Jeremia 35).
+> Jehu will mit Jonadab zeigen, dass er auf der Seite der frommen Leute steht. „Sieh, wie ich für den HERRN eifere“ klingt stolz. Echter Eifer für Gott braucht keine Zuschauer.
+
+---
+
+### Die Baalsdiener werden getötet (Vers 18–28)
+
+<sup>18</sup>Jehu versammelte das ganze Volk und sagte zu ihnen:
+„Ahab hat Baal ein wenig gedient.
+Jehu wird ihm viel dienen.
+<sup>19</sup>Nun ruft alle Propheten Baals zu mir,
+alle seine Diener und alle seine Priester.
+Keiner soll fehlen,
+denn ich habe ein großes Opfer für Baal vor.
+Wer fehlt, soll nicht am Leben bleiben.“
+Aber Jehu handelte mit List,
+um die Diener Baals zu vernichten.
+<sup>20</sup>Jehu sagte:
+„Heiligt eine Festversammlung für Baal!“
+Und sie riefen sie aus.
+<sup>21</sup>Jehu schickte Boten durch ganz Israel.
+Da kamen alle Diener Baals.
+Kein einziger Mann blieb übrig, der nicht kam.
+Sie kamen in das Haus Baals,
+und das Haus Baals war voll von einem Ende bis zum anderen.
+<sup>22</sup>Er sagte zu dem, der über die Kleiderkammer gesetzt war:
+„Bring Gewänder für alle Diener Baals heraus!“
+Und er brachte ihnen Gewänder heraus.
+<sup>23</sup>Jehu ging mit Jonadab, dem Sohn Rechabs, in das Haus Baals.
+Dann sagte er zu den Dienern Baals:
+„Sucht und seht nach, dass hier bei euch keiner von den Dienern des HERRN ist,
+sondern nur Diener Baals.“
+<sup>24</sup>So gingen sie hinein, um Schlachtopfer und Brandopfer darzubringen.
+Jehu hatte sich draußen achtzig Männer aufgestellt und gesagt:
+„Wenn einer von den Männern entkommt, die ich in eure Hände gebe,
+dann soll das Leben dessen, der ihn entkommen lässt, für sein Leben einstehen.“
+<sup>25</sup>Sobald er das Brandopfer dargebracht hatte,
+sagte Jehu zur Leibwache und zu den Offizieren:
+„Geht hinein und tötet sie! Keiner soll entkommen!“
+Da schlugen sie sie mit der Schärfe des Schwertes.
+Die Leibwache und die Offiziere warfen die Leichen hinaus
+und gingen bis in den innersten Raum des Hauses Baals.
+<sup>26</sup>Sie brachten die Steinsäulen aus dem Haus Baals heraus
+und verbrannten sie.
+<sup>27</sup>Sie rissen die Steinsäule Baals nieder
+und rissen das Haus Baals nieder
+und machten eine Latrine daraus, bis zum heutigen Tag.
+<sup>28</sup>So vertilgte Jehu den Baal aus Israel.
+
+> **Was bedeutet das?**
+> Jehu lockt alle Baalsdiener mit einer Lüge in den Tempel und lässt sie dort töten.
+> Der Baalskult ist damit im Nordreich beendet. Aber die Mittel sind Lüge und Massenmord. Das ist zutiefst erschreckend.
+> Man muss diese Geschichte in ihrer Zeit sehen: Ein Machtkampf zwischen Herrscherhäusern und Religionen wurde damals oft mit größter Grausamkeit geführt. Die Bibel berichtet es, aber an anderen Stellen macht sie klar, dass Gott keinen Gefallen am Tod hat (Hesekiel 18,32). Religiöse Gewalt ist nicht Gottes Wille. Jesus hat Gewalt im Namen Gottes ausdrücklich zurückgewiesen (Matthäus 26,52).
+> Aus dem Baalstempel wird eine Latrine, also eine Toilette. Das ist die größte Verachtung, die man zeigen konnte.
+
+---
+
+### Jehu bleibt bei den goldenen Kälbern (Vers 29–36)
+
+<sup>29</sup>Doch Jehu ließ nicht ab von den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte:
+von den goldenen Kälbern in Bet-El und in Dan.
+<sup>30</sup>Der HERR sagte zu Jehu:
+„Weil du gut gehandelt hast
+und getan hast, was in meinen Augen recht ist,
+und am Haus Ahab alles getan hast, was in meinem Herzen war,
+sollen deine Nachkommen bis in die vierte Generation auf dem Thron Israels sitzen.“
+<sup>31</sup>Aber Jehu achtete nicht darauf,
+mit seinem ganzen Herzen nach dem Gesetz des HERRN, des Gottes Israels, zu leben.
+Er ließ nicht ab von den Sünden Jerobeams,
+zu denen er Israel verführt hatte.
+<sup>32</sup>In diesen Tagen fing der HERR an, Stücke von Israel abzuschneiden.
+Hasaël schlug sie in allen Gebieten Israels,
+<sup>33</sup>vom Jordan nach Osten:
+das ganze Land Gilead, die Gaditer, die Rubeniter und die Manassiter,
+von Aroër am Bach Arnon an,
+Gilead und Baschan.
+<sup>34</sup>Was sonst noch von Jehu zu erzählen ist,
+alles, was er getan hat, und alle seine Stärke,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>35</sup>Jehu legte sich zu seinen Vätern,
+und sie begruben ihn in Samaria.
+Und sein Sohn Joahas wurde an seiner Stelle König.
+<sup>36</sup>Die Zeit, die Jehu in Samaria über Israel regierte, war 28 Jahre.
+
+> **Was bedeutet das?**
+> Jehu hat den Baal beseitigt. Dafür bekommt er eine Zusage: Seine Familie soll vier Generationen lang regieren. Das geschieht auch: Joahas, Joasch, Jerobeam II. und Secharja.
+> Aber Jehu geht nur halbe Wege. Die goldenen Kälber Jerobeams lässt er stehen. Es ging ihm wohl mehr um Macht als um Gott. Er war eifrig gegen andere, aber nicht von ganzem Herzen für Gott.
+> Gleichzeitig verliert Israel unter Jehu das ganze Land östlich des Jordan an Hasaël von Syrien.
+> Auf dem „Schwarzen Obelisken“ des assyrischen Königs Salmanassar III. (heute im Britischen Museum in London) ist ein Mann abgebildet, der sich vor dem assyrischen König niederwirft. Die Inschrift nennt ihn „Jehu, Sohn Omris“ (oder einen Gesandten Jehus). Es ist das älteste bekannte Bild eines israelitischen Königs. Jehu musste den Assyrern Tribut zahlen.
+> Jehu regierte etwa von 841 bis 814 vor Christus.
+
+## 2. Könige – Kapitel 11
+#### Die Königin Atalja und der kleine Joasch
+
+---
+
+### Ein Kind wird gerettet (Vers 1–3)
+
+<sup>1</sup>Als Atalja, die Mutter Ahasjas, sah, dass ihr Sohn tot war,
+machte sie sich auf und brachte alle Nachkommen aus der Königsfamilie um.
+<sup>2</sup>Aber Joscheba, die Tochter des Königs Joram, die Schwester Ahasjas,
+nahm Joasch, den Sohn Ahasjas,
+und stahl ihn heimlich weg aus der Mitte der Königssöhne, die getötet wurden,
+ihn und seine Amme,
+und brachte sie in die Bettenkammer.
+So versteckten sie ihn vor Atalja,
+und er wurde nicht getötet.
+<sup>3</sup>Er war mit ihr im Haus des HERRN versteckt, sechs Jahre lang,
+während Atalja über das Land herrschte.
+
+> **Was bedeutet das?**
+> Atalja ist die Tochter von Ahab und Isebel. Nach dem Tod ihres Sohnes will sie selbst regieren. Dafür tötet sie ihre eigenen Enkel. Das ist ein entsetzliches Verbrechen.
+> Damit ist die Familie Davids in höchster Gefahr. Gott hatte David versprochen, dass seine „Lampe“ nicht erlischt. Jetzt hängt alles an einem einzigen Baby.
+> Eine mutige Frau, Joscheba, rettet das Kind unter Lebensgefahr. Sie ist die Tante des Jungen. Nach 2. Chronik 22,11 war sie mit dem Priester Jojada verheiratet. Darum konnte sie das Kind im Tempel verstecken.
+> Atalja ist die einzige Frau, die über Juda als Königin geherrscht hat. Sie regierte etwa von 841 bis 835 vor Christus.
+
+---
+
+### Der Plan des Priesters Jojada (Vers 4–12)
+
+<sup>4</sup>Im siebten Jahr schickte Jojada hin
+und holte die Hauptleute über hundert von den Karern und von der Leibwache.
+Er ließ sie zu sich in das Haus des HERRN kommen.
+Er schloss einen Bund mit ihnen,
+ließ sie im Haus des HERRN schwören
+und zeigte ihnen den Sohn des Königs.
+<sup>5</sup>Er befahl ihnen:
+„Das sollt ihr tun:
+Ein Drittel von euch, die ihr am Sabbat zum Dienst antretet,
+soll Wache halten beim Haus des Königs.
+<sup>6</sup>Ein Drittel soll am Tor Sur sein,
+und ein Drittel am Tor hinter der Leibwache.
+So sollt ihr die Wache des Hauses halten und eine Absperrung bilden.
+<sup>7</sup>Und die zwei Abteilungen von euch, alle, die am Sabbat vom Dienst abtreten,
+sollen beim Haus des HERRN Wache halten, rings um den König.
+<sup>8</sup>Ihr sollt den König umringen, jeder mit seinen Waffen in der Hand.
+Wer in die Reihen eindringt, soll getötet werden.
+Seid beim König, wenn er hinausgeht und wenn er hereinkommt.“
+<sup>9</sup>Die Hauptleute über hundert taten alles, was der Priester Jojada befohlen hatte.
+Jeder nahm seine Männer,
+die am Sabbat zum Dienst antraten, und die am Sabbat vom Dienst abtraten,
+und sie kamen zum Priester Jojada.
+<sup>10</sup>Der Priester gab den Hauptleuten über hundert die Speere und Schilde,
+die dem König David gehört hatten
+und die im Haus des HERRN waren.
+<sup>11</sup>Die Leibwache stellte sich auf, jeder mit seinen Waffen in der Hand,
+von der rechten Seite des Hauses bis zur linken Seite des Hauses,
+am Altar und am Haus entlang, rings um den König.
+<sup>12</sup>Dann führte er den Sohn des Königs heraus,
+setzte ihm die Krone auf
+und gab ihm das Zeugnis.
+Sie machten ihn zum König und salbten ihn.
+Sie klatschten in die Hände und riefen:
+„Es lebe der König!“
+
+> **Was bedeutet das?**
+> Sechs Jahre lang wartet der Priester Jojada. Dann plant er alles sorgfältig. Er nutzt den Sabbat, weil dann die Wachen wechseln. So sind doppelt so viele Soldaten da, ohne dass es auffällt.
+> Die „Karer“ waren wohl ausländische Söldner, die als Leibwache dienten.
+> Die Waffen Davids werden benutzt. Das ist ein Zeichen: Hier geht es um Davids rechtmäßige Familie.
+> „Das Zeugnis“: Wohl eine Schriftrolle mit Gottes Gesetz oder mit dem Bund. Der König soll nach Gottes Wort regieren (5. Mose 17,18–19).
+> „Es lebe der König!“ Der siebenjährige Joasch wird gekrönt.
+
+---
+
+### Ataljas Ende (Vers 13–16)
+
+<sup>13</sup>Als Atalja den Lärm der Leibwache und des Volkes hörte,
+kam sie zum Volk in das Haus des HERRN.
+<sup>14</sup>Sie schaute hin, und schau,
+der König stand an der Säule, wie es Brauch war,
+und die Hauptleute und die Trompeter waren beim König.
+Und das ganze Volk des Landes freute sich und blies die Trompeten.
+Da zerriss Atalja ihre Kleider und schrie:
+„Verrat! Verrat!“
+<sup>15</sup>Der Priester Jojada befahl den Hauptleuten über hundert, die über das Heer gesetzt waren:
+„Führt sie zwischen den Reihen hinaus.
+Wer ihr folgt, den tötet mit dem Schwert.“
+Denn der Priester sagte:
+„Sie soll nicht im Haus des HERRN getötet werden.“
+<sup>16</sup>Da ergriffen sie sie.
+Sie ging den Weg, auf dem die Pferde zum Haus des Königs hineingehen,
+und dort wurde sie getötet.
+
+> **Was bedeutet das?**
+> Atalja hört den Jubel und eilt herbei. Sie ruft „Verrat!“, obwohl sie selbst durch Mord an die Macht gekommen ist.
+> Jojada achtet darauf, dass im Tempel kein Blut vergossen wird. Der heilige Ort soll nicht entweiht werden.
+
+---
+
+### Ein neuer Bund (Vers 17–21)
+
+<sup>17</sup>Jojada schloss einen Bund zwischen dem HERRN und dem König und dem Volk,
+dass sie das Volk des HERRN sein sollten,
+und auch einen Bund zwischen dem König und dem Volk.
+<sup>18</sup>Das ganze Volk des Landes ging zum Haus Baals und riss es nieder.
+Sie zerschlugen seine Altäre und seine Bilder gründlich,
+und Mattan, den Priester Baals, töteten sie vor den Altären.
+Und der Priester setzte Aufseher über das Haus des HERRN ein.
+<sup>19</sup>Er nahm die Hauptleute über hundert, die Karer, die Leibwache
+und das ganze Volk des Landes.
+Sie führten den König vom Haus des HERRN hinab
+und kamen auf dem Weg durch das Tor der Leibwache zum Haus des Königs.
+Und er setzte sich auf den Thron der Könige.
+<sup>20</sup>Das ganze Volk des Landes freute sich,
+und die Stadt blieb ruhig.
+Atalja aber hatten sie beim Haus des Königs mit dem Schwert getötet.
+<sup>21</sup>Joasch war sieben Jahre alt, als er König wurde.
+
+> **Was bedeutet das?**
+> Der Bund wird erneuert: Gott, König und Volk gehören zusammen. Und auch zwischen König und Volk gibt es einen Bund. Der König hat Pflichten gegenüber dem Volk.
+> Der Baalstempel in Jerusalem wird zerstört. Anders als bei Jehu wird hier nur der Priester Baals getötet. Die Stadt bleibt ruhig.
+> In deutschen Bibeln ist Vers 21 hier schon Kapitel 12, Vers 1. Darum ist im nächsten Kapitel die Verszählung um eins verschoben.
+
+## 2. Könige – Kapitel 12
+#### König Joasch erneuert den Tempel
+
+---
+
+### Ein guter Anfang (Vers 1–3)
+
+<sup>1</sup>Joasch wurde König im siebten Jahr Jehus,
+und er regierte vierzig Jahre in Jerusalem.
+Seine Mutter hieß Zibja, aus Beerscheba.
+<sup>2</sup>Joasch tat, was in den Augen des HERRN recht war,
+alle seine Tage, in denen der Priester Jojada ihn unterwies.
+<sup>3</sup>Aber die Opferhöhen wurden nicht entfernt.
+Das Volk opferte und verbrannte noch Weihrauch auf den Opferhöhen.
+
+> **Was bedeutet das?**
+> Joasch hat einen guten Lehrer: den Priester Jojada. Solange Jojada lebt, handelt Joasch gut.
+> „Alle seine Tage, in denen Jojada ihn unterwies“ ist ein leiser Hinweis: Nach Jojadas Tod wurde es anders. In 2. Chronik 24,17–22 wird erzählt, dass Joasch später sogar den Sohn Jojadas töten ließ.
+> In deutschen Bibeln ist die Verszählung in diesem Kapitel um eins verschoben: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 21 hier, der dort Vers 22 ist.
+> Joasch regierte etwa von 835 bis 796 vor Christus.
+
+---
+
+### Geld für die Reparatur des Tempels (Vers 4–8)
+
+<sup>4</sup>Joasch sagte zu den Priestern:
+„Alles Geld von den heiligen Gaben, das in das Haus des HERRN gebracht wird,
+in gängigem Geld:
+das Geld, das jemand für die Schätzung seiner Person zahlt,
+und alles Geld, das jemand aus freiem Herzen in das Haus des HERRN bringt,
+<sup>5</sup>das sollen die Priester an sich nehmen, jeder von seinem Spender.
+Und sie sollen damit die Schäden am Haus ausbessern,
+überall, wo man einen Schaden findet.“
+<sup>6</sup>Aber im 23. Jahr des Königs Joasch
+hatten die Priester die Schäden am Haus noch nicht ausgebessert.
+<sup>7</sup>Da rief der König Joasch den Priester Jojada und die anderen Priester
+und sagte zu ihnen:
+„Warum bessert ihr die Schäden am Haus nicht aus?
+Nehmt jetzt kein Geld mehr von euren Schatzmeistern,
+sondern gebt es für die Ausbesserung der Schäden am Haus her.“
+<sup>8</sup>Die Priester willigten ein,
+kein Geld mehr vom Volk zu nehmen
+und die Schäden am Haus nicht selbst auszubessern.
+
+> **Was bedeutet das?**
+> Der Tempel war über hundert Jahre alt und unter Atalja vernachlässigt worden. Es gab viele Schäden.
+> Joasch ordnet an: Die Spenden sollen für die Reparatur verwendet werden. Aber über 20 Jahre lang passiert nichts. Wohin das Geld geflossen ist, sagt der Text nicht direkt.
+> „Schätzung seiner Person“: Wer ein Gelübde abgelegt hatte, konnte sich mit einem festen Geldbetrag auslösen (3. Mose 27,1–8).
+> Das hebräische Wort für „Spender“ und „Schatzmeister“ ist unklar. Wörtlich heißt es wohl „Bekannter“. Gemeint ist vielleicht ein Kassenbeamter, der das Geld von den Leuten entgegennahm.
+
+---
+
+### Die Spendenkiste (Vers 9–16)
+
+<sup>9</sup>Da nahm der Priester Jojada eine Kiste,
+bohrte ein Loch in ihren Deckel
+und stellte sie neben den Altar,
+auf der rechten Seite, wenn man in das Haus des HERRN hineingeht.
+Die Priester, die an der Schwelle Wache hielten,
+legten alles Geld hinein, das in das Haus des HERRN gebracht wurde.
+<sup>10</sup>Wenn sie sahen, dass viel Geld in der Kiste war,
+kamen der Schreiber des Königs und der Hohepriester herauf.
+Sie banden es in Beutel
+und zählten das Geld, das sich im Haus des HERRN fand.
+<sup>11</sup>Sie gaben das abgewogene Geld in die Hände der Arbeitsleiter,
+die die Aufsicht über das Haus des HERRN hatten.
+Die bezahlten damit die Zimmerleute und die Bauleute,
+die am Haus des HERRN arbeiteten,
+<sup>12</sup>die Maurer und die Steinmetze,
+und kauften Holz und behauene Steine,
+um die Schäden am Haus des HERRN auszubessern,
+und alles, was für die Ausbesserung des Hauses ausgegeben wurde.
+<sup>13</sup>Aber von dem Geld, das in das Haus des HERRN gebracht wurde,
+machte man keine silbernen Schalen, Dochtscheren, Becken, Trompeten,
+keine Geräte aus Gold oder Silber für das Haus des HERRN.
+<sup>14</sup>Denn man gab es den Arbeitern,
+und sie besserten damit das Haus des HERRN aus.
+<sup>15</sup>Und man verlangte von den Männern, denen man das Geld gab, um es den Arbeitern zu geben,
+keine Abrechnung.
+Denn sie handelten ehrlich.
+<sup>16</sup>Das Geld für die Schuldopfer und das Geld für die Sündopfer
+wurde nicht in das Haus des HERRN gebracht.
+Es gehörte den Priestern.
+
+> **Was bedeutet das?**
+> Jojada findet eine einfache Lösung: eine Spendenkiste mit einem Loch im Deckel. Das Geld wird gemeinsam von einem Beamten des Königs und dem Hohenpriester gezählt. So kann niemand allein etwas abzweigen. Das ist ein frühes Beispiel für gute, kontrollierte Verwaltung von Geld.
+> Bis heute stehen in vielen Kirchen und Synagogen solche Opferstöcke.
+> Zuerst wird alles Geld für die Reparatur verwendet, nicht für neue schöne Geräte. Das Wichtige zuerst.
+> Die Arbeitsleiter waren so ehrlich, dass man keine Abrechnung von ihnen verlangen musste.
+> Die Priester bekommen trotzdem, was ihnen zusteht: das Geld aus bestimmten Opfern. Auch sie müssen leben.
+> Dochtscheren brauchte man, um die Dochte der Lampen zu kürzen.
+
+---
+
+### Hasaël bedroht Jerusalem (Vers 17–18)
+
+<sup>17</sup>Damals zog Hasaël, der König von Syrien, herauf,
+kämpfte gegen Gat und nahm es ein.
+Dann richtete Hasaël sein Gesicht darauf, nach Jerusalem hinaufzuziehen.
+<sup>18</sup>Da nahm Joasch, der König von Juda, alle heiligen Gaben,
+die seine Väter Joschafat, Joram und Ahasja, die Könige von Juda, geweiht hatten,
+und seine eigenen heiligen Gaben
+und alles Gold, das sich in den Schätzen des Hauses des HERRN
+und des Hauses des Königs fand,
+und schickte es Hasaël, dem König von Syrien.
+Da zog er von Jerusalem ab.
+
+> **Was bedeutet das?**
+> Hasaël, der grausame König von Syrien, rückt bis vor Jerusalem vor. Joasch kauft sich frei mit den Schätzen des Tempels.
+> Das ist bitter: Der König, der den Tempel gerade erneuert hat, muss ihn nun ausplündern, um Jerusalem zu retten.
+> Gat war eine Stadt der Philister.
+
+---
+
+### Joaschs Ende (Vers 19–21)
+
+<sup>19</sup>Was sonst noch von Joasch zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>20</sup>Seine Diener machten sich auf und zettelten eine Verschwörung an.
+Sie erschlugen Joasch im Haus Millo, auf dem Weg, der nach Silla hinabgeht.
+<sup>21</sup>Denn Josachar, der Sohn Schimats, und Josabad, der Sohn Schomers, seine Diener,
+erschlugen ihn, und er starb.
+Und sie begruben ihn bei seinen Vätern in der Stadt Davids.
+Und sein Sohn Amazja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Joasch, der als Kind wunderbar gerettet wurde, wird am Ende von seinen eigenen Dienern ermordet. Nach 2. Chronik 24,25 geschah das als Rache für den Sohn des Priesters Jojada, den Joasch hatte töten lassen.
+> Joaschs Leben zeigt: Ein guter Anfang mit einem guten Lehrer ist ein großes Geschenk. Aber jeder muss selbst Gott treu bleiben, auch wenn der Lehrer nicht mehr da ist.
+> Wo „Millo“ und „Silla“ genau lagen, weiß man nicht. Millo war wohl eine Befestigung in Jerusalem.
