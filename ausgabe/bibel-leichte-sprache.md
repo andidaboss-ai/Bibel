@@ -37276,3 +37276,469 @@ Aber David und seine Männer stiegen hinauf in die Bergfestung.
 > Saul spricht es zum ersten Mal offen aus: Ich weiß, dass du König sein wirst. Er bittet um dasselbe wie Jonatan: Verschone meine Familie. David schwört es.
 > Aber David bleibt vorsichtig. Er geht nicht mit Saul nach Hause, sondern zurück in die Bergfestung. Er weiß: Sauls Stimmung kann sich schnell wieder ändern. Und genau das wird geschehen (Kapitel 26).
 > Diese Geschichte ist eine große Lehre: Man kann Böses mit Gutem beantworten. Feindesliebe kann sogar das Herz eines Verfolgers berühren, wenigstens für einen Moment.
+
+## 1. Samuel – Kapitel 25
+#### David, Nabal und die kluge Abigajil
+
+---
+
+### Samuel stirbt (Vers 1)
+
+<sup>1</sup>Samuel starb.
+Ganz Israel versammelte sich und trauerte um ihn.
+Sie begruben ihn bei seinem Haus in Rama.
+Dann machte sich David auf und zog hinab in die Wüste Paran.
+
+> **Was bedeutet das?**
+> Der große Prophet Samuel stirbt. Er war der letzte Richter und hat die ersten beiden Könige gesalbt. Ganz Israel trauert um ihn.
+> Mit Samuels Tod hat David einen wichtigen Fürsprecher verloren.
+> Die Wüste Paran liegt weit im Süden. Die alte griechische Übersetzung hat hier „die Wüste Maon“. Das passt besser zum Rest der Geschichte.
+
+---
+
+### Der reiche Nabal (Vers 2–13)
+
+<sup>2</sup>Es gab einen Mann in Maon, der seinen Besitz in Karmel hatte.
+Der Mann war sehr reich.
+Er hatte 3000 Schafe und 1000 Ziegen.
+Und er schor gerade seine Schafe in Karmel.
+<sup>3</sup>Der Name des Mannes war Nabal,
+und der Name seiner Frau war Abigajil.
+Die Frau war klug und hatte ein schönes Gesicht.
+Aber der Mann war grob und böse in seinen Taten.
+Er war aus der Sippe Kalebs.
+<sup>4</sup>David hörte in der Wüste, dass Nabal seine Schafe schor.
+<sup>5</sup>Da schickte David zehn junge Männer.
+David sagte zu den jungen Männern:
+„Geht hinauf nach Karmel, geht zu Nabal
+und grüßt ihn in meinem Namen.
+<sup>6</sup>Sagt zu ihm:
+‚Langes Leben dir!
+Friede dir! Friede deinem Haus!
+Friede allem, was du hast!
+<sup>7</sup>Ich habe gehört, dass du Schafscherer hast.
+Deine Hirten waren jetzt bei uns,
+und wir haben ihnen nichts getan.
+Es fehlte ihnen nichts, die ganze Zeit, in der sie in Karmel waren.
+<sup>8</sup>Frag deine jungen Männer, sie werden es dir sagen.
+Darum lass die jungen Männer Gnade in deinen Augen finden,
+denn wir kommen an einem guten Tag.
+Gib bitte deinen Knechten und deinem Sohn David,
+was du gerade zur Hand hast.‘“
+<sup>9</sup>Als Davids junge Männer ankamen,
+sagten sie Nabal alle diese Worte im Namen Davids und warteten.
+<sup>10</sup>Nabal antwortete Davids Knechten und sagte:
+„Wer ist David?
+Wer ist der Sohn Isais?
+Heutzutage gibt es viele Knechte, die ihren Herren davonlaufen.
+<sup>11</sup>Soll ich mein Brot und mein Wasser nehmen
+und mein Fleisch, das ich für meine Schafscherer geschlachtet habe,
+und es Männern geben, von denen ich nicht weiß, woher sie kommen?“
+<sup>12</sup>Da kehrten Davids junge Männer um und gingen zurück.
+Sie kamen und erzählten ihm alle diese Worte.
+<sup>13</sup>David sagte zu seinen Männern:
+„Jeder schnalle sein Schwert um!“
+Und jeder schnallte sein Schwert um.
+Auch David schnallte sein Schwert um.
+Etwa 400 Männer zogen hinter David hinauf,
+und 200 blieben beim Gepäck.
+
+> **Was bedeutet das?**
+> Maon und Karmel sind Orte in Juda, südlich von Hebron. Dieses Karmel ist nicht der Berg Karmel im Norden.
+> Der Name „Nabal“ bedeutet auf Hebräisch „Tor“ oder „Dummkopf“. Seine Frau Abigajil ist das genaue Gegenteil: klug und schön.
+> Die Schafschur war ein großes Fest, wie ein Erntedankfest. Da war es üblich, großzügig zu sein und zu teilen.
+> David und seine Männer hatten Nabals Hirten in der Wüste beschützt, vor Räubern und wilden Tieren. Jetzt bittet David höflich um einen Anteil. Das war damals nicht unverschämt, sondern üblich.
+> Nabal beleidigt David: „Wer ist David? Ein entlaufener Knecht!“ Und er sagt immer wieder „mein“: mein Brot, mein Wasser, mein Fleisch. Er denkt nur an sich.
+> David wird sehr zornig. Er will Rache nehmen. Das ist ein ganz anderer David als in Kapitel 24, wo er Saul verschont hat.
+
+---
+
+### Ein Knecht warnt Abigajil (Vers 14–22)
+
+<sup>14</sup>Aber einer der jungen Männer erzählte es Abigajil, der Frau Nabals, und sagte:
+„Schau, David hat Boten aus der Wüste geschickt, um unseren Herrn zu grüßen.
+Und er hat sie beschimpft.
+<sup>15</sup>Aber die Männer waren sehr gut zu uns.
+Uns ist nichts geschehen,
+und uns hat nichts gefehlt, solange wir mit ihnen umhergezogen sind,
+als wir auf den Feldern waren.
+<sup>16</sup>Sie waren eine Mauer um uns, bei Nacht und bei Tag,
+die ganze Zeit, in der wir bei ihnen die Schafe hüteten.
+<sup>17</sup>Darum überlege jetzt und sieh, was du tun willst.
+Denn das Unheil ist gegen unseren Herrn und gegen sein ganzes Haus beschlossen.
+Und er ist so ein nichtsnutziger Mann, dass man nicht mit ihm reden kann.“
+
+<sup>18</sup>Da beeilte sich Abigajil.
+Sie nahm 200 Brote, zwei Gefäße mit Wein,
+fünf zubereitete Schafe,
+etwa 37 Liter geröstetes Korn,
+hundert Büschel Rosinen und zweihundert Feigenkuchen
+und lud sie auf Esel.
+<sup>19</sup>Sie sagte zu ihren jungen Männern:
+„Geht vor mir her.
+Schaut, ich komme hinter euch her.“
+Aber ihrem Mann Nabal sagte sie nichts.
+<sup>20</sup>Als sie auf ihrem Esel ritt
+und im Schutz des Berges hinabkam,
+schau, da kamen ihr David und seine Männer entgegen,
+und sie traf sie.
+<sup>21</sup>David hatte nämlich gesagt:
+„Umsonst habe ich alles bewacht, was dieser Kerl in der Wüste hat,
+sodass ihm von allem, was ihm gehört, nichts gefehlt hat.
+Er hat mir Gutes mit Bösem vergolten.
+<sup>22</sup>Gott tue den Feinden Davids dies und noch mehr,
+wenn ich von allem, was ihm gehört, bis zum Morgenlicht
+auch nur einen übrig lasse, der an die Wand pinkelt.“
+
+> **Was bedeutet das?**
+> Der Knecht bestätigt: David und seine Männer waren wie eine Schutzmauer. Der Knecht weiß, dass mit Nabal nicht zu reden ist. Darum geht er zu Abigajil.
+> Abigajil handelt sofort und klug. Sie bereitet ein großes Geschenk vor. In der Bibel steht „fünf Sea“. Ein Sea sind etwa 7,3 Liter.
+> David schwört Rache. „Einer, der an die Wand pinkelt“ ist ein grober Ausdruck für „Mann“ oder „Junge“. David will alle Männer in Nabals Haus töten.
+> „Gott tue den Feinden Davids dies“: So steht es im hebräischen Text. Eigentlich sagt man in dieser Schwurformel „Gott tue mir“. Die alte griechische Übersetzung hat „Gott tue David“. Vielleicht haben die Schreiber den Satz verändert, damit der Fluch nicht auf David fällt, denn David hat seinen Schwur ja nicht ausgeführt.
+
+---
+
+### Abigajils kluge Rede (Vers 23–31)
+
+<sup>23</sup>Als Abigajil David sah,
+stieg sie schnell von ihrem Esel ab,
+fiel vor David auf ihr Gesicht
+und verneigte sich bis zur Erde.
+<sup>24</sup>Sie fiel ihm zu Füßen und sagte:
+„Auf mir, mein Herr, auf mir liegt die Schuld!
+Lass doch deine Dienerin vor deinen Ohren reden.
+Hör die Worte deiner Dienerin.
+<sup>25</sup>Mein Herr soll doch nicht auf diesen nichtsnutzigen Mann achten, auf Nabal.
+Denn wie sein Name, so ist er.
+Nabal ist sein Name, und Torheit ist bei ihm.
+Aber ich, deine Dienerin, habe die jungen Männer meines Herrn,
+die du geschickt hast, nicht gesehen.
+<sup>26</sup>Und jetzt, mein Herr, so wahr der HERR lebt und so wahr du lebst:
+Der HERR hat dich davor zurückgehalten, Blutschuld auf dich zu laden
+und dir mit deiner eigenen Hand zu helfen.
+Darum sollen deine Feinde und alle, die meinem Herrn Böses wollen, wie Nabal werden.
+<sup>27</sup>Und dieses Geschenk, das deine Dienerin meinem Herrn gebracht hat,
+soll den jungen Männern gegeben werden, die meinem Herrn folgen.
+<sup>28</sup>Vergib bitte die Schuld deiner Dienerin.
+Denn der HERR wird meinem Herrn ganz sicher ein beständiges Haus bauen,
+weil mein Herr die Kriege des HERRN führt.
+Und Böses soll an dir nicht gefunden werden, dein ganzes Leben lang.
+<sup>29</sup>Auch wenn sich Menschen erheben, um dich zu verfolgen und dir nach dem Leben zu trachten,
+so wird doch die Seele meines Herrn eingebunden sein in das Bündel des Lebens
+beim HERRN, deinem Gott.
+Aber die Seelen deiner Feinde wird er wegschleudern
+wie aus der Tasche einer Schleuder.
+<sup>30</sup>Und es wird geschehen:
+Wenn der HERR meinem Herrn all das Gute getan hat, das er dir versprochen hat,
+und dich zum Fürsten über Israel eingesetzt hat,
+<sup>31</sup>dann soll dir das nicht zum Kummer und nicht zur Last auf dem Herzen werden,
+dass du ohne Grund Blut vergossen hast
+oder dass mein Herr sich selbst geholfen hat.
+Und wenn der HERR meinem Herrn Gutes getan hat,
+dann denk an deine Dienerin.“
+
+> **Was bedeutet das?**
+> Abigajils Rede ist eine der längsten Reden einer Frau in der Bibel. Und sie ist ein Meisterwerk.
+> Sie nimmt die Schuld auf sich, obwohl sie unschuldig ist. So macht sie es David leicht, nachzugeben.
+> Sie erinnert David an das, was Gott ihm versprochen hat: Du wirst König sein. Ein König sollte nicht als jemand anfangen, der aus Rache Blut vergossen hat. Das würde dich später belasten.
+> Sie sagt im Grunde: Du hast Saul nicht getötet, um dir selbst zu helfen. Tu es jetzt auch nicht bei Nabal. Überlass die Rache Gott.
+> „Das Bündel des Lebens“ ist ein schönes Bild: Gott bewahrt dein Leben, wie man etwas Kostbares in ein Bündel bindet. Auf vielen jüdischen Grabsteinen stehen bis heute fünf hebräische Buchstaben für den Satz: „Seine Seele sei eingebunden in das Bündel des Lebens.“
+> Das Bild der Schleuder erinnert an David und Goliat.
+> Abigajil ist eine Prophetin, ohne so genannt zu werden. Sie sagt Davids Zukunft voraus.
+
+---
+
+### David dankt Gott für Abigajil (Vers 32–35)
+
+<sup>32</sup>David sagte zu Abigajil:
+„Gelobt sei der HERR, der Gott Israels,
+der dich heute mir entgegengeschickt hat!
+<sup>33</sup>Gesegnet sei deine Klugheit,
+und gesegnet seist du,
+die du mich heute davor bewahrt hast, Blutschuld auf mich zu laden
+und mir mit eigener Hand zu helfen.
+<sup>34</sup>Denn wirklich, so wahr der HERR, der Gott Israels, lebt,
+der mich davor zurückgehalten hat, dir Böses zu tun:
+Wenn du dich nicht beeilt hättest und mir nicht entgegengekommen wärst,
+dann wäre Nabal bis zum Morgenlicht
+nicht einer übrig geblieben, der an die Wand pinkelt.“
+<sup>35</sup>So nahm David aus ihrer Hand an, was sie ihm gebracht hatte.
+Dann sagte er zu ihr:
+„Geh in Frieden hinauf in dein Haus.
+Schau, ich habe auf deine Stimme gehört und deine Bitte gewährt.“
+
+> **Was bedeutet das?**
+> David hört auf eine Frau, die ihm widerspricht. Das ist ein Zeichen von Größe. Saul hat nie auf Rat gehört. David kann sich korrigieren lassen.
+> Er erkennt: Gott hat Abigajil geschickt. Gott hat mich durch sie vor einer großen Sünde bewahrt.
+> Das ist eine wichtige Lehre: Manchmal schickt Gott uns Menschen, die uns aufhalten, wenn wir im Zorn etwas Falsches tun wollen.
+
+---
+
+### Nabals Tod (Vers 36–38)
+
+<sup>36</sup>Abigajil kam zu Nabal.
+Und schau: Er hielt ein Festmahl in seinem Haus, wie das Festmahl eines Königs.
+Nabals Herz war fröhlich, denn er war sehr betrunken.
+Darum erzählte sie ihm nichts, bis zum Morgenlicht.
+<sup>37</sup>Am Morgen, als der Wein aus Nabal heraus war,
+erzählte ihm seine Frau diese Dinge.
+Da erstarb sein Herz in ihm, und er wurde wie ein Stein.
+<sup>38</sup>Etwa zehn Tage später schlug der HERR Nabal, sodass er starb.
+
+> **Was bedeutet das?**
+> Nabal feiert „wie ein König“. Er benimmt sich, als wäre er der König, während der wahre zukünftige König in der Wüste lebt.
+> Als er am Morgen nüchtern ist und hört, wie knapp er dem Tod entkommen ist, erschrickt er so sehr, dass „sein Herz erstarb“. Vielleicht war es ein Schlaganfall oder ein Herzinfarkt.
+> Zehn Tage später stirbt er. Die Bibel sagt: Der HERR hat ihn geschlagen. David musste sich nicht rächen. Gott hat selbst gerichtet.
+
+---
+
+### David heiratet Abigajil (Vers 39–44)
+
+<sup>39</sup>Als David hörte, dass Nabal tot war, sagte er:
+„Gelobt sei der HERR,
+der meine Sache gegen die Beschimpfung durch Nabal geführt
+und seinen Knecht vor dem Bösen bewahrt hat.
+Der HERR hat die Bosheit Nabals auf seinen eigenen Kopf zurückfallen lassen.“
+Dann schickte David Boten und ließ mit Abigajil reden,
+um sie sich zur Frau zu nehmen.
+<sup>40</sup>Als Davids Knechte zu Abigajil nach Karmel kamen,
+redeten sie mit ihr und sagten:
+„David hat uns zu dir geschickt,
+um dich zu ihm zu holen, damit du seine Frau wirst.“
+<sup>41</sup>Sie stand auf, verneigte sich mit dem Gesicht zur Erde und sagte:
+„Schau, deine Dienerin ist bereit, als Magd den Knechten meines Herrn die Füße zu waschen.“
+<sup>42</sup>Abigajil stand schnell auf
+und ritt auf einem Esel, mit ihren fünf Mägden, die ihr folgten.
+Sie ging hinter den Boten Davids her
+und wurde seine Frau.
+<sup>43</sup>David hatte auch Ahinoam aus Jesreel genommen.
+Und beide wurden seine Frauen.
+<sup>44</sup>Saul aber hatte seine Tochter Michal, die Frau Davids,
+Palti gegeben, dem Sohn von Lajisch, aus Gallim.
+
+> **Was bedeutet das?**
+> David ist dankbar, dass Gott ihn davor bewahrt hat, selbst Rache zu nehmen.
+> David heiratet Abigajil. Damals war es für eine Witwe ohne Sohn oft lebenswichtig, wieder einen Mann zu haben. Abigajil sagt Ja. Sie verbindet sich mit dem Mann, von dem sie weiß, dass er König wird.
+> David hat jetzt mehrere Frauen: Ahinoam und Abigajil. Seine erste Frau Michal hat Saul einem anderen Mann gegeben, wohl um David zu kränken und ihm das Recht auf die Königsfamilie zu nehmen.
+> Mehrere Frauen zu haben war damals bei Königen üblich. Im Gesetz steht aber eine Warnung: Ein König soll nicht viele Frauen haben, damit sein Herz sich nicht abwendet (5. Mose 17,17). Davids viele Ehen werden später zu großem Unglück in seiner Familie führen.
+
+## 1. Samuel – Kapitel 26
+#### David verschont Saul ein zweites Mal
+
+---
+
+### Speer und Wasserkrug (Vers 1–12)
+
+<sup>1</sup>Die Sifiter kamen zu Saul nach Gibea und sagten:
+„Versteckt sich David nicht auf dem Hügel Hachila, gegenüber der Wüste?“
+<sup>2</sup>Da machte sich Saul auf und zog hinab in die Wüste Sif,
+mit 3000 ausgewählten Männern aus Israel,
+um David in der Wüste Sif zu suchen.
+<sup>3</sup>Saul lagerte auf dem Hügel Hachila, gegenüber der Wüste, am Weg.
+Aber David blieb in der Wüste.
+Er sah, dass Saul ihm in die Wüste nachkam.
+<sup>4</sup>Darum schickte David Kundschafter aus
+und erfuhr, dass Saul wirklich gekommen war.
+<sup>5</sup>Dann machte sich David auf und kam an den Ort, an dem Saul lagerte.
+David sah die Stelle, wo Saul lag,
+mit Abner, dem Sohn von Ner, seinem Heerführer.
+Saul lag mitten in der Wagenburg,
+und das Volk lagerte rings um ihn herum.
+<sup>6</sup>Da sagte David zu Ahimelech, dem Hetiter,
+und zu Abischai, dem Sohn der Zeruja, dem Bruder Joabs:
+„Wer geht mit mir zu Saul ins Lager hinab?“
+Abischai sagte: „Ich gehe mit dir hinab.“
+<sup>7</sup>So kamen David und Abischai in der Nacht zum Volk.
+Und schau: Saul lag schlafend mitten in der Wagenburg,
+sein Speer steckte an seinem Kopfende in der Erde.
+Und Abner und das Volk lagen rings um ihn herum.
+<sup>8</sup>Da sagte Abischai zu David:
+„Gott hat heute deinen Feind in deine Hand gegeben.
+Lass mich ihn jetzt bitte mit dem Speer an den Boden spießen, mit einem einzigen Stoß.
+Einen zweiten brauche ich nicht.“
+<sup>9</sup>David sagte zu Abischai:
+„Töte ihn nicht.
+Denn wer kann seine Hand gegen den Gesalbten des HERRN ausstrecken
+und bleibt ohne Schuld?“
+<sup>10</sup>David sagte:
+„So wahr der HERR lebt:
+Der HERR wird ihn schlagen.
+Oder sein Tag wird kommen, an dem er stirbt.
+Oder er wird in den Krieg hinabziehen und umkommen.
+<sup>11</sup>Der HERR bewahre mich davor,
+dass ich meine Hand gegen den Gesalbten des HERRN ausstrecke.
+Aber nimm jetzt bitte den Speer, der an seinem Kopfende steckt,
+und den Wasserkrug, und lass uns gehen.“
+<sup>12</sup>So nahm David den Speer und den Wasserkrug von Sauls Kopfende,
+und sie gingen weg.
+Niemand sah es, niemand merkte es, und niemand wachte auf.
+Denn sie schliefen alle,
+weil ein tiefer Schlaf vom HERRN auf sie gefallen war.
+
+> **Was bedeutet das?**
+> Wieder verraten die Sifiter David (wie in Kapitel 23,19). Wieder jagt Saul ihn mit 3000 Mann, obwohl er in Kapitel 24 versprochen hatte, damit aufzuhören.
+> Diesmal geht David selbst ins Lager des Feindes, mitten in der Nacht. Abischai ist ein Neffe von David. Seine Mutter Zeruja war Davids Schwester (1. Chronik 2,16). Abischai und sein Bruder Joab werden später Davids wichtigste Heerführer.
+> Abischai sagt dasselbe wie Davids Männer in der Höhle: Gott hat ihn dir gegeben! Lass mich ihn töten. Und David antwortet wieder: Nein. Gott wird selbst handeln, wann und wie er will.
+> Der Speer war Sauls Zeichen der Macht. Mit diesem Speer hatte Saul mehrmals versucht, David zu töten. Jetzt nimmt David ihn weg, ohne ihn zu benutzen.
+> „Ein tiefer Schlaf vom HERRN“: Gott selbst schützt David bei diesem gefährlichen Gang.
+
+---
+
+### David ruft Abner (Vers 13–16)
+
+<sup>13</sup>Dann ging David auf die andere Seite hinüber
+und stellte sich weit entfernt auf den Gipfel des Berges,
+sodass ein großer Abstand zwischen ihnen war.
+<sup>14</sup>David rief dem Volk und Abner, dem Sohn von Ner, zu und sagte:
+„Antwortest du nicht, Abner?“
+Da antwortete Abner:
+„Wer bist du, der du den König rufst?“
+<sup>15</sup>David sagte zu Abner:
+„Bist du nicht ein Mann?
+Und wer ist wie du in Israel?
+Warum hast du dann nicht über deinen Herrn, den König, gewacht?
+Denn einer aus dem Volk ist gekommen, um deinen Herrn, den König, zu töten.
+<sup>16</sup>Das ist nicht gut, was du getan hast.
+So wahr der HERR lebt:
+Ihr habt den Tod verdient,
+weil ihr nicht über euren Herrn, den Gesalbten des HERRN, gewacht habt.
+Und jetzt sieh, wo der Speer des Königs ist
+und der Wasserkrug, der an seinem Kopfende war.“
+
+> **Was bedeutet das?**
+> David verspottet Abner, den großen Heerführer: Du bist der Leibwächter des Königs, und du hast geschlafen! Wenn ich ein Mörder gewesen wäre, wäre der König jetzt tot.
+> Das ist ein Beweis: David hätte Saul töten können. Er hat es nicht getan.
+
+---
+
+### Davids letzte Bitte an Saul (Vers 17–25)
+
+<sup>17</sup>Saul erkannte Davids Stimme und sagte:
+„Ist das deine Stimme, mein Sohn David?“
+David sagte:
+„Es ist meine Stimme, mein Herr und König.“
+<sup>18</sup>Er sagte:
+„Warum verfolgt mein Herr seinen Knecht?
+Denn was habe ich getan?
+Was ist Böses in meiner Hand?
+<sup>19</sup>Darum möge mein Herr und König jetzt bitte die Worte seines Knechtes hören:
+Wenn der HERR dich gegen mich aufgehetzt hat,
+dann möge er ein Opfer annehmen.
+Wenn es aber Menschen sind,
+dann sollen sie verflucht sein vor dem HERRN.
+Denn sie haben mich heute vertrieben,
+damit ich nicht mehr am Erbe des HERRN teilhaben kann.
+Sie sagen: ‚Geh, diene anderen Göttern!‘
+<sup>20</sup>Darum soll jetzt mein Blut nicht fern vom Angesicht des HERRN auf die Erde fallen.
+Denn der König von Israel ist ausgezogen, um einen Floh zu suchen,
+so wie man ein Rebhuhn in den Bergen jagt.“
+
+<sup>21</sup>Da sagte Saul:
+„Ich habe gesündigt.
+Komm zurück, mein Sohn David.
+Denn ich will dir nichts Böses mehr tun,
+weil mein Leben heute in deinen Augen kostbar war.
+Schau, ich habe töricht gehandelt und mich sehr geirrt.“
+<sup>22</sup>David antwortete:
+„Schau, hier ist der Speer, König!
+Einer von den jungen Männern soll herüberkommen und ihn holen.
+<sup>23</sup>Der HERR wird jedem seine Gerechtigkeit und seine Treue vergelten.
+Denn der HERR hat dich heute in meine Hand gegeben,
+aber ich wollte meine Hand nicht gegen den Gesalbten des HERRN ausstrecken.
+<sup>24</sup>Und schau:
+So wie dein Leben heute in meinen Augen geachtet war,
+so soll mein Leben in den Augen des HERRN geachtet sein.
+Und er soll mich aus aller Not retten.“
+<sup>25</sup>Da sagte Saul zu David:
+„Gesegnet bist du, mein Sohn David.
+Du wirst Großes tun und ganz sicher siegen.“
+Dann ging David seines Weges,
+und Saul kehrte an seinen Ort zurück.
+
+> **Was bedeutet das?**
+> David sagt: Wenn Gott dich gegen mich aufgehetzt hat, dann lass uns ein Opfer bringen und Gott versöhnen. Aber wenn Menschen dich aufhetzen, dann sind sie verflucht.
+> David leidet darunter, dass er aus Israel vertrieben wird. Damals dachte man: Wer im Ausland lebt, ist fern von Gottes Gegenwart, und muss dort fremden Göttern dienen. David will nicht fern von Gott sterben.
+> „Ein Rebhuhn in den Bergen“: Ein Rebhuhn läuft lieber, als dass es fliegt. Man jagt es so lange, bis es erschöpft ist. So fühlt sich David.
+> Saul sagt wieder: „Ich habe gesündigt“ und „Ich habe töricht gehandelt.“ Aber David glaubt ihm nicht mehr. Er gibt den Speer zurück, aber er geht nicht mit Saul.
+> Das ist das letzte Mal, dass sich Saul und David begegnen. Sauls letzte Worte an David sind ein Segen: „Du wirst ganz sicher siegen.“
+
+## 1. Samuel – Kapitel 27
+#### David bei den Philistern
+
+---
+
+### David flieht nach Gat (Vers 1–4)
+
+<sup>1</sup>David sagte in seinem Herzen:
+„Eines Tages werde ich doch durch die Hand Sauls umkommen.
+Es gibt nichts Besseres für mich, als in das Land der Philister zu fliehen.
+Dann wird Saul es aufgeben, mich noch im ganzen Gebiet Israels zu suchen.
+So werde ich seiner Hand entkommen.“
+<sup>2</sup>Da machte sich David auf und ging hinüber,
+er und die 600 Männer, die bei ihm waren,
+zu Achisch, dem Sohn von Maoch, dem König von Gat.
+<sup>3</sup>David wohnte bei Achisch in Gat,
+er und seine Männer, jeder mit seiner Familie,
+auch David mit seinen beiden Frauen,
+Ahinoam aus Jesreel und Abigajil aus Karmel, der Frau Nabals.
+<sup>4</sup>Man erzählte Saul, dass David nach Gat geflohen war.
+Da suchte er ihn nicht mehr.
+
+> **Was bedeutet das?**
+> David verliert den Mut. Er hat Saul zweimal verschont, aber Saul jagt ihn immer weiter. Er denkt: Irgendwann erwischt er mich doch.
+> Auffällig: Diesmal fragt David nicht Gott, bevor er handelt. Er „sagt in seinem Herzen“, also er entscheidet allein. Und er geht ausgerechnet zu den Feinden Israels.
+> Beim ersten Mal kam David allein nach Gat und musste sich wahnsinnig stellen (Kapitel 21). Jetzt kommt er mit 600 Kriegern. Für Achisch ist das ein wertvoller Verbündeter gegen Saul.
+> Davids Plan funktioniert: Saul hört auf, ihn zu jagen.
+
+---
+
+### Die Stadt Ziklag (Vers 5–7)
+
+<sup>5</sup>David sagte zu Achisch:
+„Wenn ich Gnade in deinen Augen gefunden habe,
+dann soll man mir einen Platz in einer der Städte auf dem Land geben,
+damit ich dort wohnen kann.
+Denn warum soll dein Knecht bei dir in der Königsstadt wohnen?“
+<sup>6</sup>Da gab Achisch ihm an diesem Tag Ziklag.
+Darum gehört Ziklag den Königen von Juda bis zum heutigen Tag.
+<sup>7</sup>Die Zeit, die David im Land der Philister wohnte,
+war ein Jahr und vier Monate.
+
+> **Was bedeutet das?**
+> David will nicht in der Hauptstadt wohnen, unter den Augen des Königs. In einer eigenen Stadt kann er freier handeln.
+> Ziklag lag im Süden, an der Grenze zwischen dem Land der Philister und Juda.
+> „Bis zum heutigen Tag“: Als das Buch geschrieben wurde, gehörte Ziklag zum Königreich Juda. Die Stadt war ein Geschenk der Philister an David.
+
+---
+
+### Davids Doppelspiel (Vers 8–12)
+
+<sup>8</sup>David und seine Männer zogen hinauf
+und überfielen die Geschuriter, die Girsiter und die Amalekiter.
+Denn das waren die Bewohner des Landes von alters her,
+in Richtung Schur bis zum Land Ägypten.
+<sup>9</sup>David schlug das Land
+und ließ keinen Mann und keine Frau am Leben.
+Er nahm die Schafe, die Rinder, die Esel, die Kamele und die Kleider mit.
+Dann kehrte er zurück und kam zu Achisch.
+<sup>10</sup>Achisch fragte:
+„Gegen wen habt ihr heute einen Überfall gemacht?“
+David sagte:
+„Gegen den Süden von Juda,
+gegen den Süden der Jerachmeeliter
+und gegen den Süden der Keniter.“
+<sup>11</sup>David ließ weder Mann noch Frau am Leben, um sie nach Gat zu bringen.
+Denn er sagte:
+„Sonst erzählen sie über uns und sagen:
+‚So hat David es gemacht.‘“
+Und so war seine Art die ganze Zeit, in der er im Land der Philister wohnte.
+<sup>12</sup>Achisch glaubte David und sagte:
+„Er hat sich bei seinem Volk Israel ganz verhasst gemacht.
+Darum wird er für immer mein Knecht sein.“
+
+> **Was bedeutet das?**
+> Dieser Abschnitt zeigt eine dunkle Seite von David. Er überfällt Völker im Süden, die Feinde Israels waren, wie die Amalekiter. Und er lässt niemanden am Leben, auch keine Frauen.
+> Dann lügt er Achisch an: Er sagt, er habe Orte in Juda überfallen. Und damit niemand die Wahrheit erzählen kann, tötet er alle Zeugen.
+> Die Bibel erzählt das ohne Lob. Sie verschweigt nicht, dass auch David, der „Mann nach dem Herzen Gottes“, grausam und unehrlich handeln konnte. David ist ein großer Glaubensheld, aber kein fehlerloser Mensch.
+> Wir lesen diesen Text als ehrlichen Bericht über eine gewalttätige Zeit, nicht als Vorbild. Kein Mensch darf sich darauf berufen, um Gewalt oder Lügen zu rechtfertigen.
+> Achisch fällt auf die Lüge herein. Er denkt: Jetzt hasst Israel ihn, er kann nie mehr zurück. Er gehört mir. Aber David bleibt in seinem Herzen bei seinem Volk.
