@@ -56217,3 +56217,416 @@ aber nicht in den Gräbern der Könige.
 > Das „Feuer“ ist das Ehrenfeuer mit Gewürzen, wie bei Asa (Kapitel 16,14). Joram bekam diese Ehre nicht.
 > Vers 20 ist ein trauriges Urteil: „Er ging dahin, ohne dass jemand ihn vermisste.“ Niemand trauerte um ihn. Ein Leben, das nur auf Macht und Gewalt gebaut war, hinterlässt keine Liebe.
 > Die Bibel sagt hier nicht, dass jede Krankheit eine Strafe ist. Jesus hat das ausdrücklich abgelehnt (Johannes 9,1–3). Hier geht es um diesen einen König und sein Gericht.
+
+## 2. Chronik – Kapitel 22
+#### Ahasja und Atalja
+
+---
+
+### Ahasja, König von Juda (Vers 1–6)
+
+<sup>1</sup>Die Bewohner Jerusalems machten Ahasja, seinen jüngsten Sohn, an seiner Stelle zum König.
+Denn die Truppe, die mit den Arabern ins Lager gekommen war,
+hatte alle älteren Söhne getötet.
+So wurde Ahasja, der Sohn Jorams, König von Juda.
+<sup>2</sup>Ahasja war 42 Jahre alt, als er König wurde,
+und er regierte ein Jahr in Jerusalem.
+Seine Mutter hieß Atalja, die Tochter Omris.
+<sup>3</sup>Auch er ging auf den Wegen des Hauses Ahab,
+denn seine Mutter war seine Ratgeberin darin, gottlos zu handeln.
+<sup>4</sup>Er tat, was böse war in den Augen des HERRN,
+wie das Haus Ahab.
+Denn sie waren nach dem Tod seines Vaters seine Ratgeber,
+zu seinem Verderben.
+<sup>5</sup>Er folgte auch ihrem Rat
+und zog mit Joram, dem Sohn Ahabs, dem König von Israel,
+in den Krieg gegen Hasaël, den König von Syrien, bei Ramot in Gilead.
+Und die Syrer verwundeten Joram.
+<sup>6</sup>Er kehrte zurück, um sich in Jesreel heilen zu lassen
+von den Wunden, die sie ihm bei Rama geschlagen hatten,
+als er gegen Hasaël, den König von Syrien, kämpfte.
+Asarja, der Sohn Jorams, der König von Juda,
+ging hinab, um Joram, den Sohn Ahabs, in Jesreel zu besuchen,
+weil er krank war.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht ausführlicher in 2. Könige 8–9.
+> Vers 2: Hier steht „42 Jahre“. In 2. Könige 8,26 steht „22 Jahre“. Das passt besser, denn sein Vater Joram wurde nur 40 Jahre alt (Kapitel 21,20). Beim Abschreiben ist hier wohl ein Fehler passiert. Manche alten Übersetzungen haben auch hier „22“ oder „20“.
+> Atalja war die Tochter Ahabs und die Enkelin Omris. „Tochter“ kann im Hebräischen auch „Nachkommin“ heißen.
+> Vers 6: Hier heißt Ahasja „Asarja“. Das ist wohl ein Schreibfehler. „Rama“ ist eine Kurzform von Ramot in Gilead.
+> Das Problem dieses Königs: schlechte Ratgeber. Seine Mutter und Ahabs Familie führten ihn ins Verderben.
+> Zwei Könige mit gleichem Namen: Joram von Israel (Sohn Ahabs) und Joram von Juda (Ahasjas Vater). Sie waren Schwäger.
+
+---
+
+### Ahasjas Tod (Vers 7–9)
+
+<sup>7</sup>Der Untergang Ahasjas kam von Gott,
+dadurch dass er zu Joram ging.
+Denn als er hingekommen war,
+zog er mit Joram hinaus gegen Jehu, den Sohn Nimschis,
+den der HERR gesalbt hatte, um das Haus Ahab auszurotten.
+<sup>8</sup>Als Jehu das Gericht am Haus Ahab vollzog,
+fand er die Fürsten Judas und die Söhne der Brüder Ahasjas,
+die Ahasja dienten,
+und tötete sie.
+<sup>9</sup>Er suchte Ahasja.
+Man fing ihn – er hatte sich in Samaria versteckt –
+und brachte ihn zu Jehu und tötete ihn.
+Man begrub ihn,
+denn man sagte:
+„Er ist ein Sohn Joschafats,
+der den HERRN mit ganzem Herzen gesucht hat.“
+Und im Haus Ahasjas gab es niemanden, der die Kraft hatte, das Königreich zu halten.
+
+> **Was bedeutet das?**
+> Jehu hatte den Auftrag, das Haus Ahab zu bestrafen (2. Könige 9). Ahasja war zur falschen Zeit am falschen Ort, weil er sich mit Ahabs Familie verbunden hatte.
+> In 2. Könige 9,27 wird Ahasjas Tod etwas anders erzählt: Er flieht und wird bei Megiddo tödlich verwundet. Die Chronik fasst kürzer zusammen. Wie genau die beiden Berichte zusammenpassen, ist nicht ganz klar.
+> Schön ist Vers 9: Ahasja wird wegen seines Großvaters Joschafat ehrenvoll begraben. Joschafats Treue zu Gott wirkt noch nach seinem Tod.
+
+---
+
+### Atalja reißt die Macht an sich (Vers 10–12)
+
+<sup>10</sup>Als Atalja, die Mutter Ahasjas, sah, dass ihr Sohn tot war,
+machte sie sich auf und vernichtete alle königlichen Nachkommen des Hauses Juda.
+<sup>11</sup>Aber Joschabat, die Tochter des Königs,
+nahm Joasch, den Sohn Ahasjas,
+und rettete ihn heimlich aus der Mitte der Königssöhne, die getötet werden sollten.
+Sie brachte ihn und seine Amme in das Schlafzimmer.
+So versteckte Joschabat, die Tochter des Königs Joram,
+die Frau des Priesters Jojada
+(denn sie war die Schwester Ahasjas),
+ihn vor Atalja,
+sodass sie ihn nicht tötete.
+<sup>12</sup>Er war sechs Jahre lang bei ihnen im Haus Gottes versteckt,
+während Atalja über das Land herrschte.
+
+> **Was bedeutet das?**
+> Das ist einer der dunkelsten Momente in der Geschichte Judas. Atalja will ihre eigenen Enkel töten, um selbst zu herrschen. Wenn sie Erfolg gehabt hätte, wäre die Familie Davids ausgestorben. Und Gottes Versprechen an David (Kapitel 21,7) wäre gebrochen gewesen.
+> Aber eine mutige Frau rettet das Kind: Joschabat. In 2. Könige 11,2 heißt sie „Joscheba“. Sie war die Tante des kleinen Joasch und die Frau des Priesters Jojada. Darum konnte sie ihn im Tempel verstecken.
+> Christen sehen hier ein Bild: Wie Gott damals die Linie Davids durch ein kleines Kind bewahrt hat, so kam später Jesus aus dieser Linie. Auch er wurde als Kind vor einem mörderischen König gerettet (Matthäus 2,13–16).
+
+## 2. Chronik – Kapitel 23
+#### Joasch wird König
+
+---
+
+### Der Bund mit den Hauptleuten (Vers 1–3)
+
+<sup>1</sup>Im siebten Jahr fasste Jojada Mut
+und nahm die Hauptleute über hundert in einen Bund mit sich:
+Asarja, den Sohn Jerohams,
+Jischmael, den Sohn Johanans,
+Asarja, den Sohn Obeds,
+Maaseja, den Sohn Adajas,
+und Elischafat, den Sohn Sichris.
+<sup>2</sup>Sie zogen in Juda umher
+und versammelten die Leviten aus allen Städten Judas
+und die Familienoberhäupter Israels,
+und sie kamen nach Jerusalem.
+<sup>3</sup>Die ganze Versammlung schloss im Haus Gottes einen Bund mit dem König.
+Jojada sagte zu ihnen:
+„Schaut, der Sohn des Königs soll König sein,
+wie der HERR über die Söhne Davids gesagt hat.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 2. Könige 11. Die Chronik erzählt sie aber mit anderen Schwerpunkten: Bei ihr spielen die Leviten und Priester die Hauptrolle. In 2. Könige sind es eher die Leibwache und die Karer (ausländische Söldner).
+> Jojada handelt nicht aus Machtgier. Er beruft sich auf Gottes Versprechen: Ein Nachkomme Davids soll König sein.
+
+---
+
+### Der Plan (Vers 4–10)
+
+<sup>4</sup>Das ist es, was ihr tun sollt:
+Ein Drittel von euch, die am Sabbat zum Dienst kommen,
+von den Priestern und von den Leviten,
+sollen Torhüter an den Schwellen sein.
+<sup>5</sup>Ein Drittel soll am Haus des Königs sein,
+und ein Drittel am Tor Jesod.
+Das ganze Volk soll in den Vorhöfen des Hauses des HERRN sein.
+<sup>6</sup>Aber niemand darf in das Haus des HERRN hineingehen,
+außer den Priestern und den Leviten, die Dienst tun.
+Sie dürfen hineingehen, denn sie sind heilig.
+Aber das ganze Volk soll die Anweisungen des HERRN befolgen.
+<sup>7</sup>Die Leviten sollen den König umgeben,
+jeder mit seinen Waffen in der Hand.
+Wer in das Haus kommt, soll getötet werden.
+Seid beim König, wenn er hineingeht und wenn er hinausgeht.“
+<sup>8</sup>Die Leviten und ganz Juda taten alles, was der Priester Jojada befohlen hatte.
+Jeder nahm seine Männer,
+die, die am Sabbat zum Dienst kamen,
+und die, die am Sabbat vom Dienst gingen.
+Denn der Priester Jojada hatte die Dienstgruppen nicht entlassen.
+<sup>9</sup>Der Priester Jojada gab den Hauptleuten über hundert
+die Speere, die kleinen und die großen Schilde, die dem König David gehört hatten
+und die im Haus Gottes waren.
+<sup>10</sup>Er stellte das ganze Volk auf,
+jeden mit seiner Waffe in der Hand,
+von der rechten Seite des Hauses bis zur linken Seite des Hauses,
+beim Altar und beim Haus,
+rings um den König.
+
+> **Was bedeutet das?**
+> Jojada nutzt den Sabbat, weil dann die Dienstgruppen wechseln. Die alte und die neue Gruppe sind gleichzeitig da. So hat er doppelt so viele Männer, ohne dass es auffällt.
+> „Tor Jesod“ heißt wörtlich „Tor des Fundaments“. Wo es genau war, weiß man nicht. In 2. Könige 11,6 heißt es „Tor Sur“.
+> Wichtig für die Chronik: Nur die Priester und Leviten dürfen in den Tempel. Selbst bei diesem Aufstand wird die Heiligkeit des Tempels geachtet.
+> Davids eigene Waffen werden verwendet. Das ist ein Zeichen: Hier kommt Davids rechtmäßiger Nachkomme auf den Thron.
+
+---
+
+### Die Krönung (Vers 11)
+
+<sup>11</sup>Dann führten sie den Sohn des Königs heraus,
+setzten ihm die Krone auf,
+gaben ihm den Bund
+und machten ihn zum König.
+Jojada und seine Söhne salbten ihn,
+und sie riefen:
+„Es lebe der König!“
+
+> **Was bedeutet das?**
+> „Den Bund“: Im Hebräischen steht „das Zeugnis“. Gemeint ist wohl eine Schriftrolle mit Gottes Gesetz oder mit dem Bund. Der König soll nach Gottes Wort regieren (5. Mose 17,18–19).
+> Joasch ist erst sieben Jahre alt (Kapitel 24,1).
+
+---
+
+### Ataljas Ende (Vers 12–15)
+
+<sup>12</sup>Als Atalja den Lärm des Volkes hörte,
+das herbeilief und den König lobte,
+kam sie zum Volk in das Haus des HERRN.
+<sup>13</sup>Sie schaute, und schau,
+der König stand an seiner Säule am Eingang,
+und die Hauptleute und die Trompeter waren beim König.
+Das ganze Volk des Landes freute sich und blies die Trompeten.
+Auch die Sänger spielten auf Musikinstrumenten
+und leiteten den Lobgesang.
+Da zerriss Atalja ihre Kleider und rief:
+„Verrat! Verrat!“
+<sup>14</sup>Der Priester Jojada ließ die Hauptleute über hundert herauskommen,
+die über das Heer gesetzt waren,
+und sagte zu ihnen:
+„Führt sie zwischen den Reihen hinaus!
+Und wer ihr folgt, soll mit dem Schwert getötet werden.“
+Denn der Priester sagte:
+„Tötet sie nicht im Haus des HERRN.“
+<sup>15</sup>Da machten sie ihr Platz.
+Sie ging bis zum Eingang des Rosstores beim Haus des Königs.
+Dort töteten sie sie.
+
+> **Was bedeutet das?**
+> Atalja ruft „Verrat!“. Dabei hatte sie selbst ihre Enkel ermordet und den Thron geraubt.
+> Wieder achtet Jojada darauf, dass der Tempel nicht durch Blut entweiht wird.
+> Die Bibel erzählt Ataljas Tod als Ende einer Gewaltherrschaft. Sie hatte selbst sehr viel Blut vergossen.
+
+---
+
+### Ein neuer Bund und ein neuer Anfang (Vers 16–21)
+
+<sup>16</sup>Jojada schloss einen Bund zwischen sich, dem ganzen Volk und dem König,
+dass sie das Volk des HERRN sein sollten.
+<sup>17</sup>Das ganze Volk ging zum Haus Baals
+und riss es nieder.
+Sie zerschlugen seine Altäre und seine Bilder
+und töteten Mattan, den Priester Baals, vor den Altären.
+<sup>18</sup>Jojada setzte Aufseher für das Haus des HERRN ein,
+unter der Leitung der levitischen Priester,
+die David im Haus des HERRN eingeteilt hatte,
+um die Brandopfer des HERRN darzubringen,
+wie es im Gesetz des Mose geschrieben ist,
+mit Freude und mit Gesang,
+wie David es angeordnet hatte.
+<sup>19</sup>Er stellte die Torhüter an die Tore des Hauses des HERRN,
+damit niemand hineinkam, der in irgendeiner Sache unrein war.
+<sup>20</sup>Er nahm die Hauptleute über hundert,
+die Vornehmen, die Herrscher des Volkes
+und das ganze Volk des Landes
+und führte den König aus dem Haus des HERRN hinab.
+Sie kamen durch das obere Tor in das Haus des Königs
+und setzten den König auf den Thron des Königreichs.
+<sup>21</sup>Das ganze Volk des Landes freute sich,
+und die Stadt war ruhig.
+Atalja aber hatten sie mit dem Schwert getötet.
+
+> **Was bedeutet das?**
+> Der wichtigste Schritt ist der Bund in Vers 16: König und Volk versprechen, „das Volk des HERRN“ zu sein.
+> Atalja hatte den Baalskult nach Jerusalem gebracht. Jetzt wird der Baalstempel zerstört.
+> Jojada ordnet den Gottesdienst neu, „wie David es angeordnet hatte“, mit Freude und Gesang.
+> „Die Stadt war ruhig“: Nach Jahren der Angst kehrt Frieden ein.
+
+## 2. Chronik – Kapitel 24
+#### Joasch – ein guter Anfang und ein schlimmes Ende
+
+---
+
+### Joasch und Jojada (Vers 1–3)
+
+<sup>1</sup>Joasch war sieben Jahre alt, als er König wurde,
+und er regierte 40 Jahre in Jerusalem.
+Seine Mutter hieß Zibja, aus Beerscheba.
+<sup>2</sup>Joasch tat, was recht war in den Augen des HERRN,
+alle Tage des Priesters Jojada.
+<sup>3</sup>Jojada nahm für ihn zwei Frauen,
+und er zeugte Söhne und Töchter.
+
+> **Was bedeutet das?**
+> Joasch regierte etwa von 835 bis 796 vor Christus.
+> Vers 2 ist wichtig: „alle Tage des Priesters Jojada“. Solange sein Lehrer und Beschützer lebte, war Joasch gut. Das ist eine Warnung: Glaube darf nicht nur von einem anderen Menschen abhängen. Jeder muss selbst eine Beziehung zu Gott haben.
+> Dass Jojada für Joasch Frauen aussuchte, war wichtig: Die Familie Davids, die fast ausgerottet worden war, sollte wieder wachsen.
+
+---
+
+### Die Reparatur des Tempels (Vers 4–14)
+
+<sup>4</sup>Danach hatte Joasch vor, das Haus des HERRN zu erneuern.
+<sup>5</sup>Er versammelte die Priester und die Leviten
+und sagte zu ihnen:
+„Zieht hinaus in die Städte Judas
+und sammelt Geld von ganz Israel,
+um das Haus eures Gottes auszubessern, Jahr für Jahr.
+Seht zu, dass ihr euch damit beeilt.“
+Aber die Leviten beeilten sich nicht.
+<sup>6</sup>Da rief der König Jojada, das Oberhaupt,
+und sagte zu ihm:
+„Warum hast du nicht von den Leviten verlangt,
+dass sie aus Juda und aus Jerusalem die Abgabe bringen,
+die Mose, der Diener des HERRN, und die Versammlung Israels
+für das Zelt des Zeugnisses festgesetzt haben?“
+<sup>7</sup>Denn die Söhne Ataljas, dieser gottlosen Frau,
+hatten das Haus Gottes beschädigt.
+Und sie hatten auch alle geweihten Gaben des Hauses des HERRN für die Baale verwendet.
+<sup>8</sup>Da befahl der König,
+und man machte eine Truhe
+und stellte sie draußen an das Tor des Hauses des HERRN.
+<sup>9</sup>Man ließ in Juda und Jerusalem ausrufen,
+dass man dem HERRN die Abgabe bringen sollte,
+die Mose, der Diener Gottes, Israel in der Wüste auferlegt hatte.
+<sup>10</sup>Alle Fürsten und das ganze Volk freuten sich.
+Sie brachten es und warfen es in die Truhe,
+bis sie voll war.
+<sup>11</sup>Immer wenn die Truhe von den Leviten zu den Beamten des Königs gebracht wurde
+und sie sahen, dass viel Geld darin war,
+kamen der Schreiber des Königs und der Beamte des obersten Priesters,
+leerten die Truhe,
+nahmen sie und brachten sie wieder an ihren Platz.
+So machten sie es Tag für Tag
+und sammelten viel Geld.
+<sup>12</sup>Der König und Jojada gaben es denen,
+die die Arbeit am Haus des HERRN machten.
+Sie stellten Steinmetze und Zimmerleute ein,
+um das Haus des HERRN zu erneuern,
+und auch Leute, die Eisen und Bronze bearbeiteten,
+um das Haus des HERRN auszubessern.
+<sup>13</sup>So arbeiteten die Handwerker,
+und die Ausbesserung kam unter ihren Händen voran.
+Sie stellten das Haus Gottes wieder her, wie es geplant war,
+und machten es fest.
+<sup>14</sup>Als sie fertig waren,
+brachten sie das übrige Geld vor den König und Jojada.
+Davon machte man Geräte für das Haus des HERRN,
+Geräte für den Dienst und für die Opfer,
+Schalen und Geräte aus Gold und Silber.
+Man brachte im Haus des HERRN ständig Brandopfer dar,
+alle Tage Jojadas.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 2. Könige 12.
+> Der Tempel war unter Atalja verfallen. Ihre „Söhne“ waren wohl ihre Anhänger.
+> Die „Abgabe des Mose“ ist die Steuer aus 2. Mose 30,12–16 für das Heiligtum. Das „Zelt des Zeugnisses“ ist die Stiftshütte, das Zelt in der Wüste.
+> Die Opfertruhe war eine gute Idee: Jeder konnte selbst geben. Das Geld wurde offen gezählt, von einem Beamten des Königs und einem des Priesters gemeinsam. So konnte niemand etwas veruntreuen.
+> Und das Volk gab gern: „Sie freuten sich.“
+
+---
+
+### Jojadas Tod (Vers 15–16)
+
+<sup>15</sup>Aber Jojada wurde alt und lebenssatt und starb.
+Er war 130 Jahre alt, als er starb.
+<sup>16</sup>Man begrub ihn in der Stadt Davids bei den Königen,
+weil er Gutes getan hatte in Israel,
+an Gott und an seinem Haus.
+
+> **Was bedeutet das?**
+> Jojada ist der einzige Priester, der bei den Königen begraben wurde. Das ist eine große Ehre. Er hatte die Familie Davids gerettet.
+
+---
+
+### Joasch fällt ab (Vers 17–19)
+
+<sup>17</sup>Nach dem Tod Jojadas kamen die Fürsten Judas
+und verneigten sich vor dem König.
+Da hörte der König auf sie.
+<sup>18</sup>Sie verließen das Haus des HERRN, des Gottes ihrer Väter,
+und dienten den Aschera-Pfählen und den Götzen.
+Da kam Zorn über Juda und Jerusalem wegen dieser ihrer Schuld.
+<sup>19</sup>Doch er schickte Propheten zu ihnen,
+um sie zum HERRN zurückzubringen.
+Sie warnten sie,
+aber sie wollten nicht hören.
+
+> **Was bedeutet das?**
+> Kaum ist Jojada tot, ändert sich alles. Die Fürsten schmeicheln dem König, und er hört auf sie.
+> Auch jetzt gibt Gott nicht auf. Er schickt Propheten, einen nach dem anderen. Gott ist geduldig.
+
+---
+
+### Der Mord an Secharja (Vers 20–22)
+
+<sup>20</sup>Der Geist Gottes kam über Secharja, den Sohn des Priesters Jojada.
+Er stellte sich über das Volk
+und sagte zu ihnen:
+„So spricht Gott:
+‚Warum übertretet ihr die Gebote des HERRN?
+So kann es euch nicht gelingen.
+Weil ihr den HERRN verlassen habt,
+hat er auch euch verlassen.‘“
+<sup>21</sup>Sie verschworen sich gegen ihn
+und steinigten ihn mit Steinen,
+auf Befehl des Königs,
+im Vorhof des Hauses des HERRN.
+<sup>22</sup>So dachte der König Joasch nicht an die Güte,
+die ihm Jojada, Secharjas Vater, erwiesen hatte,
+sondern tötete seinen Sohn.
+Als er starb, sagte er:
+„Der HERR möge es sehen und es vergelten!“
+
+> **Was bedeutet das?**
+> Das ist eine erschütternde Geschichte. Jojada hatte Joasch das Leben gerettet. Und Joasch lässt Jojadas Sohn töten, mitten im Tempel, weil er die Wahrheit sagt.
+> Jesus erwähnt diesen Mord in Matthäus 23,35 und Lukas 11,51. In der hebräischen Bibel ist die Chronik das letzte Buch. Darum ist Abel der erste und Secharja der letzte Mord an einem Gerechten, von dem die hebräische Bibel erzählt. Jesus meint damit: alle Märtyrer vom Anfang bis zum Ende der Schrift.
+> Secharjas letzte Worte: „Der HERR möge es sehen und es vergelten!“ Er überlässt die Strafe Gott. Jesus hat am Kreuz noch mehr getan: Er betete für seine Mörder (Lukas 23,34). Auch Stephanus tat das (Apostelgeschichte 7,60).
+
+---
+
+### Joaschs Ende (Vers 23–27)
+
+<sup>23</sup>Am Ende des Jahres zog das Heer der Syrer gegen ihn herauf.
+Sie kamen nach Juda und Jerusalem
+und vernichteten alle Fürsten des Volkes aus dem Volk.
+Und ihre ganze Beute schickten sie zum König von Damaskus.
+<sup>24</sup>Denn das Heer der Syrer kam mit wenigen Männern,
+aber der HERR gab ein sehr großes Heer in ihre Hand,
+weil sie den HERRN, den Gott ihrer Väter, verlassen hatten.
+So vollzogen sie das Gericht an Joasch.
+<sup>25</sup>Als sie von ihm abgezogen waren
+(denn sie ließen ihn schwer verwundet zurück),
+verschworen sich seine eigenen Diener gegen ihn
+wegen des Blutes der Söhne des Priesters Jojada.
+Sie töteten ihn auf seinem Bett, und er starb.
+Man begrub ihn in der Stadt Davids,
+aber man begrub ihn nicht in den Gräbern der Könige.
+<sup>26</sup>Das sind die, die sich gegen ihn verschworen:
+Sabad, der Sohn der Schimat, der Ammoniterin,
+und Josabad, der Sohn der Schimrit, der Moabiterin.
+<sup>27</sup>Was seine Söhne betrifft,
+die vielen Prophetensprüche gegen ihn
+und den Wiederaufbau des Hauses Gottes,
+schau, das ist aufgeschrieben in der Auslegung des Buches der Könige.
+Sein Sohn Amazja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Die Chronik zeigt den Zusammenhang: Die Fürsten, die Joasch zum Götzendienst verführt hatten, werden von den Syrern getötet. Und Joasch selbst wird von seinen Dienern ermordet, wegen des Mordes an Secharja.
+> Ein wenig zuvor war Juda gegen ein riesiges Heer gerettet worden (Kapitel 14 und 20). Jetzt verliert ein großes Heer gegen wenige Männer. Es kommt nicht auf die Zahl an, sondern darauf, ob man Gott vertraut.
+> Vers 25 sagt „Söhne“ Jojadas in der Mehrzahl. Vielleicht wurden noch weitere Söhne getötet, oder es ist eine allgemeine Ausdrucksweise.
+> Jojada, der Priester, wurde bei den Königen begraben. Joasch, der König, nicht. Was zählt, ist nicht der Titel, sondern wie man gelebt hat.
+> „Die vielen Prophetensprüche gegen ihn“: Wörtlich „die Größe der Lasten“. Ein „Lastspruch“ ist eine schwere Botschaft eines Propheten. Die englische Vorlage hat hier „die Größe der Lasten, die ihm auferlegt wurden“. Es kann also auch die Abgaben meinen, die er an Syrien zahlen musste.
