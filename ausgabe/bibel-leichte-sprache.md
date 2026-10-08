@@ -44404,7 +44404,7 @@ wie das Herz seines Vaters David.
 indem er seinen Sohn nach ihm einsetzte und Jerusalem bestehen ließ.
 <sup>5</sup>Denn David hatte getan, was in den Augen des HERRN recht war,
 und war sein ganzes Leben lang von nichts abgewichen, was er ihm geboten hatte,
-nur in der Sache mit Urija, dem Hetiter.
+nur in der Sache mit Uria, dem Hetiter.
 <sup>6</sup>Zwischen Rehabeam und Jerobeam war Krieg, solange er lebte.
 <sup>7</sup>Was sonst noch von Abijam zu erzählen ist und alles, was er getan hat,
 steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
@@ -44418,7 +44418,7 @@ Und sein Sohn Asa wurde an seiner Stelle König.
 > Abischalom ist wohl Absalom, der Sohn Davids. Maacha war dann seine Tochter oder Enkelin.
 > In 2. Chronik 13 heißt dieser König Abija.
 > Wieder hört man: Gott bleibt treu „um Davids willen“. Die „Lampe“ in Jerusalem erlischt nicht.
-> Vers 5 ist ehrlich: Auch David war nicht ohne Schuld. Sein großer Fehler war die Sache mit Batseba und ihrem Mann Urija (2. Samuel 11). Die Bibel verschweigt das nicht.
+> Vers 5 ist ehrlich: Auch David war nicht ohne Schuld. Sein großer Fehler war die Sache mit Batseba und ihrem Mann Uria (2. Samuel 11). Die Bibel verschweigt das nicht.
 > Vers 6: Hier steht noch einmal „Rehabeam“. Manche Handschriften haben stattdessen „Abijam“. Der Krieg zwischen Nord und Süd ging jedenfalls weiter.
 > Abijam regierte etwa von 913 bis 911 vor Christus.
 
@@ -51357,3 +51357,460 @@ Das waren die Söhne Azels.
 > Die Familie Sauls wird hier ein zweites Mal genannt (vgl. Kapitel 8,29–38). Das ist kein Versehen: Diese Liste bildet die Brücke zum nächsten Kapitel. Dort beginnt die eigentliche Erzählung, mit dem Tod Sauls.
 > Kleine Unterschiede zu Kapitel 8: Hier heißt der Sohn Michas „Tachrea“ statt „Tarea“, der Sohn des Ahas „Jara“ statt „Joadda“ und der Sohn Bineas „Refaja“ statt „Rafa“. Solche Abweichungen entstanden beim Abschreiben über die Jahrhunderte.
 > Damit enden die Stammbäume. Ab Kapitel 10 erzählt die Chronik die Geschichte Davids.
+
+## 1. Chronik – Kapitel 10
+#### Sauls Tod
+
+---
+
+### Die Schlacht am Gilboa (Vers 1–7)
+
+<sup>1</sup>Die Philister kämpften gegen Israel.
+Die Männer Israels flohen vor den Philistern
+und fielen erschlagen auf dem Berg Gilboa.
+<sup>2</sup>Die Philister verfolgten Saul und seine Söhne.
+Und die Philister töteten Jonatan, Abinadab und Malkischua, die Söhne Sauls.
+<sup>3</sup>Der Kampf wurde schwer für Saul.
+Die Bogenschützen erreichten ihn,
+und er geriet durch die Bogenschützen in große Not.
+<sup>4</sup>Da sagte Saul zu seinem Waffenträger:
+„Zieh dein Schwert und durchbohre mich damit,
+damit nicht diese Unbeschnittenen kommen und ihren Mutwillen mit mir treiben.“
+Aber sein Waffenträger wollte nicht, denn er hatte große Angst.
+Da nahm Saul selbst das Schwert und stürzte sich hinein.
+<sup>5</sup>Als sein Waffenträger sah, dass Saul tot war,
+stürzte er sich auch in sein Schwert und starb.
+<sup>6</sup>So starben Saul und seine drei Söhne,
+und sein ganzes Haus starb zusammen.
+<sup>7</sup>Als alle Männer Israels, die im Tal waren, sahen, dass sie geflohen waren
+und dass Saul und seine Söhne tot waren,
+verließen sie ihre Städte und flohen.
+Und die Philister kamen und wohnten darin.
+
+> **Was bedeutet das?**
+> Die Chronik beginnt ihre Erzählung nicht mit Sauls Aufstieg, sondern mit seinem Tod. Sie will vor allem von David erzählen. Die Geschichte steht ausführlicher in 1. Samuel 31.
+> Saul nimmt sich in seiner Verzweiflung das Leben. Die Bibel erzählt das ohne Beschönigung und ohne Verurteilung.
+> Wenn du selbst in einer Lage bist, in der du keinen Ausweg mehr siehst: Du bist nicht allein. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+> „Sein ganzes Haus starb zusammen“: Das ist zugespitzt. Sauls Sohn Isch-Boschet und sein Enkel Mefi-Boschet lebten noch (2. Samuel 2 und 4). Die Chronik will sagen: Sauls Königsherrschaft war zu Ende.
+> Der Berg Gilboa liegt im Norden, am Rand der Ebene Jesreel.
+
+---
+
+### Die Männer von Jabesch ehren Saul (Vers 8–12)
+
+<sup>8</sup>Am nächsten Tag kamen die Philister, um die Erschlagenen auszuplündern.
+Da fanden sie Saul und seine Söhne gefallen auf dem Berg Gilboa.
+<sup>9</sup>Sie zogen ihn aus
+und nahmen seinen Kopf und seine Waffen.
+Dann schickten sie Boten im ganzen Land der Philister umher,
+um die Nachricht ihren Götzen und dem Volk zu verkünden.
+<sup>10</sup>Sie legten seine Waffen in das Haus ihrer Götter,
+und seinen Kopf hängten sie im Haus Dagons auf.
+<sup>11</sup>Als ganz Jabesch in Gilead alles hörte, was die Philister Saul angetan hatten,
+<sup>12</sup>machten sich alle tapferen Männer auf.
+Sie holten den Leichnam Sauls und die Leichname seiner Söhne
+und brachten sie nach Jabesch.
+Sie begruben ihre Gebeine unter der Eiche in Jabesch
+und fasteten sieben Tage.
+
+> **Was bedeutet das?**
+> Die Philister feiern ihren Sieg als Sieg ihrer Götter. Dagon war ein Gott der Philister.
+> Die Männer von Jabesch riskieren ihr Leben, um Saul ein würdiges Begräbnis zu geben. Sie hatten nicht vergessen, dass Saul sie einst gerettet hatte (1. Samuel 11). Dankbarkeit und Treue über den Tod hinaus.
+
+---
+
+### Warum Saul starb (Vers 13–14)
+
+<sup>13</sup>So starb Saul wegen seiner Untreue, die er gegen den HERRN begangen hatte,
+wegen des Wortes des HERRN, das er nicht gehalten hatte,
+und auch, weil er eine Totenbeschwörerin um Rat gefragt hatte
+<sup>14</sup>und nicht den HERRN gefragt hatte.
+Darum ließ er ihn sterben
+und übertrug das Königtum David, dem Sohn Isais.
+
+> **Was bedeutet das?**
+> Die Chronik deutet Sauls Tod: Er hat Gottes Wort nicht gehalten (1. Samuel 13 und 15), und er hat eine Totenbeschwörerin in En-Dor befragt (1. Samuel 28). Er hat bei anderen Rat gesucht statt bei Gott.
+> „Er ließ ihn sterben“: Die Chronik sieht hinter allem Gottes Handeln. Saul selbst hat sein Leben beendet. Aber Gott hat zugelassen, dass seine Herrschaft endet.
+> In 1. Samuel 28,6 steht, dass Saul den HERRN zwar gefragt, aber keine Antwort bekommen hatte. Die Chronik meint wohl: Er hat Gott nicht wirklich und von Herzen gesucht.
+> Damit ist der Weg frei für David, um den es im Rest des Buches geht.
+
+## 1. Chronik – Kapitel 11
+#### David wird König und erobert Jerusalem
+
+---
+
+### David wird König über ganz Israel (Vers 1–3)
+
+<sup>1</sup>Da versammelte sich ganz Israel bei David in Hebron und sagte:
+„Schau, wir sind dein Bein und dein Fleisch.
+<sup>2</sup>Schon früher, als Saul noch König war,
+warst du es, der Israel in den Krieg hinausführte und wieder heimbrachte.
+Und der HERR, dein Gott, hat zu dir gesagt:
+‚Du sollst mein Volk Israel weiden,
+und du sollst Fürst über mein Volk Israel sein.‘“
+<sup>3</sup>So kamen alle Ältesten Israels zum König nach Hebron.
+Und David schloss in Hebron einen Bund mit ihnen vor dem HERRN.
+Sie salbten David zum König über Israel,
+nach dem Wort des HERRN durch Samuel.
+
+> **Was bedeutet das?**
+> „Wir sind dein Bein und dein Fleisch“ heißt: Wir sind deine Verwandten, wir gehören zusammen.
+> Die Chronik erzählt kurz. Sie lässt die sieben Jahre aus, in denen David nur über Juda regierte und mit Sauls Familie im Streit lag (2. Samuel 2–4). Ihr ist wichtig: „Ganz Israel“ steht hinter David.
+> „Weiden“ heißt: wie ein Hirte führen und versorgen. David war selbst ein Hirte gewesen. Ein König soll für sein Volk sorgen wie ein guter Hirte für seine Schafe.
+> Der Bund zeigt: Auch der König hat Pflichten vor Gott und vor dem Volk.
+
+---
+
+### Die Eroberung Jerusalems (Vers 4–9)
+
+<sup>4</sup>David und ganz Israel zogen nach Jerusalem, das ist Jebus.
+Dort wohnten die Jebusiter, die Bewohner des Landes.
+<sup>5</sup>Die Bewohner von Jebus sagten zu David:
+„Du wirst hier nicht hereinkommen!“
+Aber David nahm die Burg Zion ein.
+Das ist die Stadt Davids.
+<sup>6</sup>David hatte gesagt:
+„Wer die Jebusiter als Erster schlägt, soll Oberhaupt und Heerführer werden.“
+Joab, der Sohn der Zeruja, stieg als Erster hinauf
+und wurde Oberhaupt.
+<sup>7</sup>David wohnte in der Burg.
+Darum nannte man sie die Stadt Davids.
+<sup>8</sup>Er baute die Stadt ringsum aus, vom Millo an, rings herum.
+Und Joab stellte den Rest der Stadt wieder her.
+<sup>9</sup>David wurde immer mächtiger,
+denn der HERR der Heere war mit ihm.
+
+> **Was bedeutet das?**
+> Jerusalem war eine alte Stadt der Jebusiter, auf einem Hügel mit steilen Hängen. Sie galt als uneinnehmbar. David erobert sie und macht sie zu seiner Hauptstadt (vgl. 2. Samuel 5,6–10).
+> Jerusalem lag zwischen den Gebieten von Juda und Benjamin, also zwischen Süden und Norden. Eine gute Wahl, um das ganze Volk zu vereinen.
+> „Zion“ war zuerst der Name der Burg. Später wurde er zum Namen für ganz Jerusalem und zum Bild für Gottes Wohnort.
+> Der „Millo“ war wohl eine Aufschüttung oder Terrasse, auf der Gebäude standen.
+> Die Chronik erklärt, warum Joab Heerführer wurde: Er war der Erste beim Angriff.
+> Der wichtigste Satz: „Der HERR der Heere war mit ihm.“ Davids Erfolg kam von Gott.
+
+---
+
+### Davids Helden: die Drei (Vers 10–14)
+
+<sup>10</sup>Das sind die Obersten der Helden Davids,
+die mit ihm stark für sein Königtum eintraten,
+zusammen mit ganz Israel, um ihn zum König zu machen,
+nach dem Wort des HERRN über Israel.
+<sup>11</sup>Das ist die Zahl der Helden, die David hatte:
+Jaschobam, der Sohn eines Hachmoniters, das Oberhaupt der Dreißig.
+Er schwang seinen Speer gegen dreihundert
+und erschlug sie auf einmal.
+<sup>12</sup>Nach ihm kam Eleasar, der Sohn Dodos, der Ahoachiter.
+Er war einer der drei Helden.
+<sup>13</sup>Er war mit David in Pas-Dammim.
+Dort hatten sich die Philister zum Kampf versammelt.
+Dort war ein Feldstück voll Gerste.
+Das Volk floh vor den Philistern.
+<sup>14</sup>Aber sie stellten sich mitten auf das Feldstück,
+verteidigten es und schlugen die Philister.
+Und der HERR schenkte einen großen Sieg.
+
+> **Was bedeutet das?**
+> David hatte eine Gruppe besonders tapferer Krieger: „die Drei“ und „die Dreißig“. Die Liste steht auch in 2. Samuel 23,8–39.
+> Jaschobam heißt dort „Joscheb-Baschebet“. Und dort sind es 800 statt 300, die er erschlug.
+> In 2. Samuel 23 wird noch ein dritter Held genannt, Schamma, der auch ein Feld verteidigte. Die Chronik hat diesen Teil verkürzt. Darum ist hier vom „Feld voll Gerste“ die Rede, während es in 2. Samuel 23,11 ein Feld voll Linsen ist.
+> Auch hier betont der Text: Nicht die Helden allein, sondern der HERR schenkte den Sieg.
+
+---
+
+### Das Wasser aus Betlehem (Vers 15–19)
+
+<sup>15</sup>Drei von den dreißig Obersten gingen hinab zum Felsen,
+zu David in die Höhle Adullam.
+Das Heer der Philister lagerte im Tal Refaïm.
+<sup>16</sup>David war damals in der Bergfestung,
+und eine Wache der Philister war zu dieser Zeit in Betlehem.
+<sup>17</sup>David hatte großen Durst und sagte:
+„Ach, wenn mir doch jemand Wasser zu trinken gäbe
+aus dem Brunnen in Betlehem, der beim Tor ist!“
+<sup>18</sup>Da brachen die drei durch das Lager der Philister,
+schöpften Wasser aus dem Brunnen in Betlehem, der beim Tor war,
+nahmen es und brachten es David.
+Aber David wollte es nicht trinken,
+sondern goss es aus für den HERRN
+<sup>19</sup>und sagte:
+„Mein Gott bewahre mich davor, dass ich das tue!
+Soll ich das Blut dieser Männer trinken, die ihr Leben aufs Spiel gesetzt haben?“
+Denn sie hatten ihr Leben gewagt, um es zu bringen.
+Darum wollte er es nicht trinken.
+Das taten die drei Helden.
+
+> **Was bedeutet das?**
+> David sehnt sich nach dem Wasser aus seiner Heimatstadt Betlehem. Drei seiner Männer riskieren ihr Leben, um es ihm zu bringen.
+> Aber David trinkt es nicht. Er gießt es aus als Opfer für Gott. Er sagt: Dieses Wasser ist so kostbar wie das Leben meiner Männer. Das darf ich nicht einfach für mich nehmen.
+> Eine schöne Geschichte über Treue, Freundschaft und Respekt vor dem Leben anderer.
+
+---
+
+### Abischai und Benaja (Vers 20–25)
+
+<sup>20</sup>Abischai, der Bruder Joabs, war das Oberhaupt der Drei.
+Er schwang seinen Speer gegen dreihundert und erschlug sie.
+Und er hatte einen Namen unter den Dreien.
+<sup>21</sup>Von den Dreien war er angesehener als die zwei,
+und er wurde ihr Anführer.
+Aber an die Drei reichte er nicht heran.
+<sup>22</sup>Benaja, der Sohn Jojadas, der Sohn eines tapferen Mannes aus Kabzeel,
+der große Taten vollbrachte:
+Er erschlug die zwei Söhne Ariëls aus Moab.
+Er stieg auch hinab und erschlug einen Löwen mitten in einer Grube, an einem Tag, als Schnee lag.
+<sup>23</sup>Er erschlug einen Ägypter, einen riesigen Mann, etwa 2,25 Meter groß.
+Der Ägypter hatte einen Speer in der Hand wie einen Weberbaum.
+Benaja ging mit einem Stock zu ihm hinab,
+riss dem Ägypter den Speer aus der Hand
+und tötete ihn mit seinem eigenen Speer.
+<sup>24</sup>Das tat Benaja, der Sohn Jojadas.
+Und er hatte einen Namen unter den drei Helden.
+<sup>25</sup>Schau, er war angesehener als die Dreißig,
+aber an die Drei reichte er nicht heran.
+Und David setzte ihn über seine Leibwache.
+
+> **Was bedeutet das?**
+> Vers 20 und 21 sind im Hebräischen schwer zu verstehen. Abischai war Anführer, aber gehörte nicht zu den ersten Drei. Vielleicht war er der Anführer einer zweiten Gruppe von Drei.
+> Benaja wurde später unter Salomo der oberste Heerführer (1. Könige 2,35).
+> In der Bibel steht „fünf Ellen“. Eine Elle sind etwa 45 Zentimeter.
+> Ein „Weberbaum“ war ein dicker Holzbalken an einem Webstuhl. Auch Goliats Speer wird so beschrieben (1. Samuel 17,7).
+
+---
+
+### Die Dreißig (Vers 26–47)
+
+<sup>26</sup>Zu den Helden des Heeres gehörten auch:
+Asaël, der Bruder Joabs,
+Elhanan, der Sohn Dodos, aus Betlehem,
+<sup>27</sup>Schammot, der Haroriter,
+Helez, der Peloniter,
+<sup>28</sup>Ira, der Sohn des Ikkesch, der Tekoiter,
+Abiëser, der Anatotiter,
+<sup>29</sup>Sibbechai, der Huschatiter,
+Ilai, der Ahoachiter,
+<sup>30</sup>Mahrai, der Netofatiter,
+Heled, der Sohn Baanas, der Netofatiter,
+<sup>31</sup>Itai, der Sohn Ribais, aus Gibea von den Söhnen Benjamins,
+Benaja, der Piratoniter,
+<sup>32</sup>Hurai von den Bächen von Gaasch,
+Abiël, der Arbatiter,
+<sup>33</sup>Asmawet, der Baharumiter,
+Eljachba, der Schaalboniter,
+<sup>34</sup>die Söhne Haschems, des Gisoniters,
+Jonatan, der Sohn Schages, der Harariter,
+<sup>35</sup>Ahiam, der Sohn Sachars, der Harariter,
+Elifal, der Sohn Urs,
+<sup>36</sup>Hefer, der Mecheratiter,
+Ahija, der Peloniter,
+<sup>37</sup>Hezro, der Karmeliter,
+Naarai, der Sohn Esbais,
+<sup>38</sup>Joël, der Bruder Natans,
+Mibhar, der Sohn Hagris,
+<sup>39</sup>Zelek, der Ammoniter,
+Nachrai, der Berotiter, der Waffenträger Joabs, des Sohnes der Zeruja,
+<sup>40</sup>Ira, der Jitriter,
+Gareb, der Jitriter,
+<sup>41</sup>Uria, der Hetiter,
+Sabad, der Sohn Achlais,
+<sup>42</sup>Adina, der Sohn Schisas, der Rubeniter, ein Oberhaupt der Rubeniter, und dreißig mit ihm,
+<sup>43</sup>Hanan, der Sohn Maachas,
+Joschafat, der Mitniter,
+<sup>44</sup>Usija, der Aschteratiter,
+Schama und Jeïël, die Söhne Hotams, des Aroëriters,
+<sup>45</sup>Jediaël, der Sohn Schimris,
+und Joha, sein Bruder, der Tiziter,
+<sup>46</sup>Eliël, der Mahawiter,
+Jeribai und Joschawja, die Söhne Elnaams,
+und Jitma, der Moabiter,
+<sup>47</sup>Eliël, Obed und Jaasiël, der Mezobaiter.
+
+> **Was bedeutet das?**
+> Hier werden alle Helden mit Namen genannt. Viele sind sonst unbekannt. Aber ihr Einsatz wird nicht vergessen.
+> Unter ihnen ist auch Uria, der Hetiter. Er war treu, und David hat ihm großes Unrecht getan: Er nahm ihm seine Frau Batseba und ließ ihn im Krieg töten (2. Samuel 11). Die Chronik erzählt diese Geschichte nicht, aber sie nennt Urias Namen in der Liste der Helden.
+> Unter den Helden sind auch Ausländer: ein Ammoniter, ein Moabiter und ein Hetiter. Sie gehörten fest zu Davids Männern.
+> Die Liste ist länger als in 2. Samuel 23. Die Namen ab Vers 42 stehen nur hier. Bei vielen Namen gibt es leichte Unterschiede zu 2. Samuel 23, zum Beispiel „Schammot, der Haroriter“ statt „Schamma, der Haroditer“.
+
+## 1. Chronik – Kapitel 12
+#### Alle kommen zu David
+
+---
+
+### Helden aus Benjamin in Ziklag (Vers 1–7)
+
+<sup>1</sup>Das sind die, die zu David nach Ziklag kamen,
+als er sich noch vor Saul, dem Sohn des Kisch, verbergen musste.
+Sie gehörten zu den Helden, die ihm im Krieg halfen.
+<sup>2</sup>Sie waren mit Bogen bewaffnet
+und konnten mit der rechten und mit der linken Hand
+Steine schleudern und Pfeile mit dem Bogen schießen.
+Sie waren Verwandte Sauls, aus dem Stamm Benjamin.
+<sup>3</sup>Das Oberhaupt war Ahiëser, dann Joasch, die Söhne Schemaas, des Gibeatiters,
+Jesiël und Pelet, die Söhne Asmawets,
+Beracha, Jehu, der Anatotiter,
+<sup>4</sup>Jischmaja, der Gibeoniter, ein Held unter den Dreißig und Anführer der Dreißig,
+Jirmeja, Jachasiël, Johanan, Josabad, der Gederatiter,
+<sup>5</sup>Elusai, Jerimot, Bealja, Schemarja, Schefatja, der Haruftiter,
+<sup>6</sup>Elkana, Jischija, Asarel, Joëser und Jaschobam, die Korachiter,
+<sup>7</sup>und Joëla und Sebadja, die Söhne Jerohams, aus Gedor.
+
+> **Was bedeutet das?**
+> Schon als David noch auf der Flucht vor Saul war, kamen Männer zu ihm, sogar aus Sauls eigenem Stamm Benjamin. Sie erkannten: Gottes Segen liegt auf David.
+> Ziklag war eine Stadt, die der Philisterkönig David überlassen hatte (1. Samuel 27,6).
+> Die Benjaminiter waren berühmt für ihre Geschicklichkeit mit beiden Händen (Richter 20,16).
+> In deutschen Bibeln ist die Verszählung in diesem Kapitel ab hier um eins verschoben: Vers 4 hier ist dort Vers 4 und 5. Vers 5 hier ist dort Vers 6, und so weiter bis Vers 40 hier, der dort Vers 41 ist.
+
+---
+
+### Helden aus Gad (Vers 8–15)
+
+<sup>8</sup>Einige Gaditer schlossen sich David in der Bergfestung in der Wüste an,
+tapfere Krieger, für den Krieg ausgebildet,
+die mit Schild und Speer umgehen konnten.
+Ihre Gesichter waren wie die Gesichter von Löwen,
+und sie waren so schnell wie die Gazellen auf den Bergen:
+<sup>9</sup>Eser, das Oberhaupt,
+Obadja, der zweite,
+Eliab, der dritte,
+<sup>10</sup>Mischmanna, der vierte,
+Jirmeja, der fünfte,
+<sup>11</sup>Attai, der sechste,
+Eliël, der siebte,
+<sup>12</sup>Johanan, der achte,
+Elsabad, der neunte,
+<sup>13</sup>Jirmeja, der zehnte,
+Machbannai, der elfte.
+<sup>14</sup>Diese von den Söhnen Gads waren Anführer des Heeres.
+Der Geringste war so viel wert wie hundert,
+und der Größte wie tausend.
+<sup>15</sup>Das sind die, die im ersten Monat über den Jordan gingen,
+als er über alle seine Ufer getreten war.
+Und sie vertrieben alle, die in den Tälern wohnten, nach Osten und nach Westen.
+
+> **Was bedeutet das?**
+> Die Gaditer kamen von der anderen Seite des Jordan. Sie überquerten den Fluss im Frühling, wenn er durch die Schneeschmelze am Hermon Hochwasser führt. Das zeigt ihren Mut und ihre Entschlossenheit.
+> „Wie Löwen und Gazellen“: stark und schnell.
+> „Der Geringste wie hundert“ kann auch heißen: Der Geringste war Anführer über hundert, der Größte über tausend.
+
+---
+
+### Helden aus Benjamin und Juda (Vers 16–18)
+
+<sup>16</sup>Einige von den Söhnen Benjamins und Judas kamen zu David in die Bergfestung.
+<sup>17</sup>David ging hinaus, ihnen entgegen, und sagte zu ihnen:
+„Wenn ihr in Frieden zu mir gekommen seid, um mir zu helfen,
+dann soll mein Herz mit euch eins sein.
+Aber wenn ihr gekommen seid, um mich an meine Feinde zu verraten,
+obwohl kein Unrecht an meinen Händen ist,
+dann möge der Gott unserer Väter es sehen und strafen.“
+<sup>18</sup>Da kam der Geist über Amasai, das Oberhaupt der Dreißig,
+und er sagte:
+„Dein sind wir, David,
+und mit dir halten wir, du Sohn Isais.
+Frieden, Frieden sei mit dir,
+und Frieden sei mit deinen Helfern,
+denn dein Gott hilft dir.“
+Da nahm David sie auf
+und machte sie zu Anführern der Schar.
+
+> **Was bedeutet das?**
+> David ist vorsichtig. Er weiß nicht, ob die Männer Freunde oder Verräter sind. Er fragt offen und legt die Sache in Gottes Hand.
+> Amasai antwortet, vom Geist Gottes bewegt, mit einem Bekenntnis: „Dein sind wir, David! Frieden sei mit dir, denn dein Gott hilft dir.“ Dreimal das Wort „Frieden“ (hebräisch „Schalom“).
+> Das ist das Herz dieses Kapitels: Menschen aus allen Stämmen erkennen, dass Gott mit David ist, und schließen sich ihm an.
+
+---
+
+### Helden aus Manasse (Vers 19–22)
+
+<sup>19</sup>Auch von Manasse schlossen sich einige David an,
+als er mit den Philistern gegen Saul in den Kampf zog.
+Aber sie halfen ihnen nicht.
+Denn die Fürsten der Philister schickten ihn nach einer Beratung weg und sagten:
+„Er wird zu seinem Herrn Saul überlaufen, und das kostet uns den Kopf.“
+<sup>20</sup>Als er nach Ziklag zog, schlossen sich ihm aus Manasse an:
+Adnach, Josabad, Jediaël, Michael, Josabad, Elihu und Zilletai,
+Anführer über Tausend aus Manasse.
+<sup>21</sup>Sie halfen David gegen die Räuberbande,
+denn sie waren alle tapfere Krieger und Anführer im Heer.
+<sup>22</sup>Denn Tag für Tag kamen Leute zu David, um ihm zu helfen,
+bis es ein großes Heer war, wie ein Heer Gottes.
+
+> **Was bedeutet das?**
+> Vers 19 erinnert an 1. Samuel 29: David lebte damals bei den Philistern und sollte mit ihnen gegen Saul kämpfen. Aber die Philister trauten ihm nicht und schickten ihn zurück. So musste David nicht gegen sein eigenes Volk kämpfen.
+> „Die Räuberbande“ sind die Amalekiter, die Ziklag überfallen hatten (1. Samuel 30).
+> „Wie ein Heer Gottes“ heißt: ein sehr großes, gewaltiges Heer.
+
+---
+
+### Das große Treffen in Hebron (Vers 23–37)
+
+<sup>23</sup>Das sind die Zahlen der Anführer der Bewaffneten,
+die zu David nach Hebron kamen,
+um ihm das Königtum Sauls zu übertragen, nach dem Wort des HERRN:
+<sup>24</sup>Von den Söhnen Judas, die Schild und Speer trugen:
+6800, zum Kampf gerüstet.
+<sup>25</sup>Von den Söhnen Simeons, tapfere Krieger für den Kampf:
+7100.
+<sup>26</sup>Von den Söhnen Levis:
+4600.
+<sup>27</sup>Jojada war der Anführer des Hauses Aaron,
+und mit ihm waren 3700,
+<sup>28</sup>und Zadok, ein junger, tapferer Krieger,
+und aus seiner Familie 22 Anführer.
+<sup>29</sup>Von den Söhnen Benjamins, den Verwandten Sauls:
+3000.
+Denn bis dahin hatte der größte Teil von ihnen dem Haus Sauls die Treue gehalten.
+<sup>30</sup>Von den Söhnen Efraims:
+20 800, tapfere Krieger, berühmte Männer in ihren Familien.
+<sup>31</sup>Vom halben Stamm Manasse:
+18 000, die mit Namen bestimmt worden waren,
+um zu kommen und David zum König zu machen.
+<sup>32</sup>Von den Söhnen Issachars,
+Männer, die die Zeiten verstanden und wussten, was Israel tun sollte:
+200 Oberhäupter,
+und alle ihre Brüder folgten ihrem Befehl.
+<sup>33</sup>Von Sebulon, die mit dem Heer ausziehen konnten,
+die sich mit allen Kriegswaffen zum Kampf aufstellen konnten:
+50 000, die sich anschlossen und kein geteiltes Herz hatten.
+<sup>34</sup>Von Naftali:
+1000 Anführer,
+und mit ihnen 37 000 mit Schild und Speer.
+<sup>35</sup>Von den Danitern, die sich zum Kampf aufstellen konnten:
+28 600.
+<sup>36</sup>Von Asser, die mit dem Heer ausziehen konnten
+und sich zum Kampf aufstellen konnten:
+40 000.
+<sup>37</sup>Von der anderen Seite des Jordan,
+von den Rubenitern, den Gaditern und dem halben Stamm Manasse,
+mit allen Kriegswaffen für den Kampf:
+120 000.
+
+> **Was bedeutet das?**
+> Alle zwölf Stämme kommen nach Hebron, um David zum König zu machen. Dazu die Leviten. Für die Chronik ist das ein Höhepunkt: Ganz Israel ist eins.
+> Die Männer aus Issachar „verstanden die Zeiten“: Sie hatten ein gutes Gespür dafür, was der richtige Moment war und was zu tun ist. Eine Gabe, die auch heute wertvoll ist.
+> Sebulon hatte „kein geteiltes Herz“: Sie standen ganz und ehrlich zu David.
+> Interessant: Aus Juda, Davids eigenem Stamm, kommen die wenigsten Männer. Aus den weit entfernten Stämmen kommen die meisten. Vielleicht, weil Juda schon vorher zu David gehalten hatte.
+> Die Zahlen sind sehr groß, zusammen über 300 000. Wie bei anderen alten Zahlen ist unklar, wie genau sie gemeint sind.
+> Jojada ist wohl der Vater Benajas (Kapitel 11,22). Zadok wurde später der Hohepriester unter David und Salomo.
+
+---
+
+### Ein großes Fest (Vers 38–40)
+
+<sup>38</sup>Alle diese Krieger, die sich zur Schlacht aufstellen konnten,
+kamen mit ungeteiltem Herzen nach Hebron,
+um David zum König über ganz Israel zu machen.
+Und auch der ganze Rest Israels war einmütig,
+David zum König zu machen.
+<sup>39</sup>Sie waren dort drei Tage bei David,
+aßen und tranken,
+denn ihre Brüder hatten für sie vorgesorgt.
+<sup>40</sup>Auch die, die in ihrer Nähe wohnten, bis nach Issachar, Sebulon und Naftali,
+brachten Brot auf Eseln, Kamelen, Maultieren und Rindern:
+Vorräte an Mehl, Feigenkuchen, Rosinenkuchen, Wein, Öl, Rinder und Schafe in Fülle.
+Denn es war Freude in Israel.
+
+> **Was bedeutet das?**
+> Das Kapitel endet mit einem großen Fest. Drei Tage essen und trinken die Menschen zusammen. Alle bringen etwas mit, auch die, die weit weg wohnen.
+> „Mit ungeteiltem Herzen“ und „einmütig“: Das Volk ist vereint.
+> Der letzte Satz fasst alles zusammen: „Es war Freude in Israel.“ Wenn Gottes Volk zusammenkommt und Gott in der Mitte ist, entsteht Freude.

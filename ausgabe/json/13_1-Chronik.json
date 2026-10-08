@@ -2553,6 +2553,664 @@
      "erklaerung": "Die Familie Sauls wird hier ein zweites Mal genannt (vgl. Kapitel 8,29–38). Das ist kein Versehen: Diese Liste bildet die Brücke zum nächsten Kapitel. Dort beginnt die eigentliche Erzählung, mit dem Tod Sauls.\nKleine Unterschiede zu Kapitel 8: Hier heißt der Sohn Michas „Tachrea“ statt „Tarea“, der Sohn des Ahas „Jara“ statt „Joadda“ und der Sohn Bineas „Refaja“ statt „Rafa“. Solche Abweichungen entstanden beim Abschreiben über die Jahrhunderte.\nDamit enden die Stammbäume. Ab Kapitel 10 erzählt die Chronik die Geschichte Davids."
     }
    ]
+  },
+  {
+   "kapitel": 10,
+   "titel": "Sauls Tod",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Schlacht am Gilboa",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Philister kämpften gegen Israel.\nDie Männer Israels flohen vor den Philistern\nund fielen erschlagen auf dem Berg Gilboa.",
+       "englisch_web": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Die Philister verfolgten Saul und seine Söhne.\nUnd die Philister töteten Jonatan, Abinadab und Malkischua, die Söhne Sauls.",
+       "englisch_web": "The Philistines followed hard after Saul and after his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der Kampf wurde schwer für Saul.\nDie Bogenschützen erreichten ihn,\nund er geriet durch die Bogenschützen in große Not.",
+       "englisch_web": "The battle went hard against Saul, and the archers overtook him; and he was distressed by reason of the archers."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da sagte Saul zu seinem Waffenträger:\n„Zieh dein Schwert und durchbohre mich damit,\ndamit nicht diese Unbeschnittenen kommen und ihren Mutwillen mit mir treiben.“\nAber sein Waffenträger wollte nicht, denn er hatte große Angst.\nDa nahm Saul selbst das Schwert und stürzte sich hinein.",
+       "englisch_web": "Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.” But his armor bearer would not, for he was terrified. Therefore Saul took his sword and fell on it."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Als sein Waffenträger sah, dass Saul tot war,\nstürzte er sich auch in sein Schwert und starb.",
+       "englisch_web": "When his armor bearer saw that Saul was dead, he likewise fell on his sword and died."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "So starben Saul und seine drei Söhne,\nund sein ganzes Haus starb zusammen.",
+       "englisch_web": "So Saul died with his three sons; and all his house died together."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Als alle Männer Israels, die im Tal waren, sahen, dass sie geflohen waren\nund dass Saul und seine Söhne tot waren,\nverließen sie ihre Städte und flohen.\nUnd die Philister kamen und wohnten darin.",
+       "englisch_web": "When all the men of Israel who were in the valley saw that they fled, and that Saul and his sons were dead, they abandoned their cities, and fled; and the Philistines came and lived in them."
+      }
+     ],
+     "erklaerung": "Die Chronik beginnt ihre Erzählung nicht mit Sauls Aufstieg, sondern mit seinem Tod. Sie will vor allem von David erzählen. Die Geschichte steht ausführlicher in 1. Samuel 31.\nSaul nimmt sich in seiner Verzweiflung das Leben. Die Bibel erzählt das ohne Beschönigung und ohne Verurteilung.\nWenn du selbst in einer Lage bist, in der du keinen Ausweg mehr siehst: Du bist nicht allein. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.\n„Sein ganzes Haus starb zusammen“: Das ist zugespitzt. Sauls Sohn Isch-Boschet und sein Enkel Mefi-Boschet lebten noch (2. Samuel 2 und 4). Die Chronik will sagen: Sauls Königsherrschaft war zu Ende.\nDer Berg Gilboa liegt im Norden, am Rand der Ebene Jesreel."
+    },
+    {
+     "ueberschrift": "Die Männer von Jabesch ehren Saul",
+     "vers_von": 8,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Am nächsten Tag kamen die Philister, um die Erschlagenen auszuplündern.\nDa fanden sie Saul und seine Söhne gefallen auf dem Berg Gilboa.",
+       "englisch_web": "On the next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sie zogen ihn aus\nund nahmen seinen Kopf und seine Waffen.\nDann schickten sie Boten im ganzen Land der Philister umher,\num die Nachricht ihren Götzen und dem Volk zu verkünden.",
+       "englisch_web": "They stripped him and took his head and his armor, then sent into the land of the Philistines all around to carry the news to their idols and to the people."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sie legten seine Waffen in das Haus ihrer Götter,\nund seinen Kopf hängten sie im Haus Dagons auf.",
+       "englisch_web": "They put his armor in the house of their gods, and fastened his head in the house of Dagon."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Als ganz Jabesch in Gilead alles hörte, was die Philister Saul angetan hatten,",
+       "englisch_web": "When all Jabesh Gilead heard all that the Philistines had done to Saul,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "machten sich alle tapferen Männer auf.\nSie holten den Leichnam Sauls und die Leichname seiner Söhne\nund brachten sie nach Jabesch.\nSie begruben ihre Gebeine unter der Eiche in Jabesch\nund fasteten sieben Tage.",
+       "englisch_web": "all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days."
+      }
+     ],
+     "erklaerung": "Die Philister feiern ihren Sieg als Sieg ihrer Götter. Dagon war ein Gott der Philister.\nDie Männer von Jabesch riskieren ihr Leben, um Saul ein würdiges Begräbnis zu geben. Sie hatten nicht vergessen, dass Saul sie einst gerettet hatte (1. Samuel 11). Dankbarkeit und Treue über den Tod hinaus."
+    },
+    {
+     "ueberschrift": "Warum Saul starb",
+     "vers_von": 13,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "So starb Saul wegen seiner Untreue, die er gegen den HERRN begangen hatte,\nwegen des Wortes des HERRN, das er nicht gehalten hatte,\nund auch, weil er eine Totenbeschwörerin um Rat gefragt hatte",
+       "englisch_web": "So Saul died for his trespass which he committed against Yahweh, because of Yahweh’s word, which he didn’t keep, and also because he asked counsel of one who had a familiar spirit, to inquire,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "und nicht den HERRN gefragt hatte.\nDarum ließ er ihn sterben\nund übertrug das Königtum David, dem Sohn Isais.",
+       "englisch_web": "and didn’t inquire of Yahweh. Therefore he killed him, and turned the kingdom over to David the son of Jesse."
+      }
+     ],
+     "erklaerung": "Die Chronik deutet Sauls Tod: Er hat Gottes Wort nicht gehalten (1. Samuel 13 und 15), und er hat eine Totenbeschwörerin in En-Dor befragt (1. Samuel 28). Er hat bei anderen Rat gesucht statt bei Gott.\n„Er ließ ihn sterben“: Die Chronik sieht hinter allem Gottes Handeln. Saul selbst hat sein Leben beendet. Aber Gott hat zugelassen, dass seine Herrschaft endet.\nIn 1. Samuel 28,6 steht, dass Saul den HERRN zwar gefragt, aber keine Antwort bekommen hatte. Die Chronik meint wohl: Er hat Gott nicht wirklich und von Herzen gesucht.\nDamit ist der Weg frei für David, um den es im Rest des Buches geht."
+    }
+   ]
+  },
+  {
+   "kapitel": 11,
+   "titel": "David wird König und erobert Jerusalem",
+   "abschnitte": [
+    {
+     "ueberschrift": "David wird König über ganz Israel",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da versammelte sich ganz Israel bei David in Hebron und sagte:\n„Schau, wir sind dein Bein und dein Fleisch.",
+       "englisch_web": "Then all Israel gathered themselves to David to Hebron, saying, “Behold, we are your bone and your flesh."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Schon früher, als Saul noch König war,\nwarst du es, der Israel in den Krieg hinausführte und wieder heimbrachte.\nUnd der HERR, dein Gott, hat zu dir gesagt:\n‚Du sollst mein Volk Israel weiden,\nund du sollst Fürst über mein Volk Israel sein.‘“",
+       "englisch_web": "In times past, even when Saul was king, it was you who led out and brought in Israel. Yahweh your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "So kamen alle Ältesten Israels zum König nach Hebron.\nUnd David schloss in Hebron einen Bund mit ihnen vor dem HERRN.\nSie salbten David zum König über Israel,\nnach dem Wort des HERRN durch Samuel.",
+       "englisch_web": "So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before Yahweh. They anointed David king over Israel, according to Yahweh’s word by Samuel."
+      }
+     ],
+     "erklaerung": "„Wir sind dein Bein und dein Fleisch“ heißt: Wir sind deine Verwandten, wir gehören zusammen.\nDie Chronik erzählt kurz. Sie lässt die sieben Jahre aus, in denen David nur über Juda regierte und mit Sauls Familie im Streit lag (2. Samuel 2–4). Ihr ist wichtig: „Ganz Israel“ steht hinter David.\n„Weiden“ heißt: wie ein Hirte führen und versorgen. David war selbst ein Hirte gewesen. Ein König soll für sein Volk sorgen wie ein guter Hirte für seine Schafe.\nDer Bund zeigt: Auch der König hat Pflichten vor Gott und vor dem Volk."
+    },
+    {
+     "ueberschrift": "Die Eroberung Jerusalems",
+     "vers_von": 4,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "David und ganz Israel zogen nach Jerusalem, das ist Jebus.\nDort wohnten die Jebusiter, die Bewohner des Landes.",
+       "englisch_web": "David and all Israel went to Jerusalem (also called Jebus); and the Jebusites, the inhabitants of the land, were there."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Bewohner von Jebus sagten zu David:\n„Du wirst hier nicht hereinkommen!“\nAber David nahm die Burg Zion ein.\nDas ist die Stadt Davids.",
+       "englisch_web": "The inhabitants of Jebus said to David, “You will not come in here!” Nevertheless David took the stronghold of Zion. The same is David’s city."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "David hatte gesagt:\n„Wer die Jebusiter als Erster schlägt, soll Oberhaupt und Heerführer werden.“\nJoab, der Sohn der Zeruja, stieg als Erster hinauf\nund wurde Oberhaupt.",
+       "englisch_web": "David had said, “Whoever strikes the Jebusites first shall be chief and captain.” Joab the son of Zeruiah went up first, and was made chief."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "David wohnte in der Burg.\nDarum nannte man sie die Stadt Davids.",
+       "englisch_web": "David lived in the stronghold; therefore they called it David’s city."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er baute die Stadt ringsum aus, vom Millo an, rings herum.\nUnd Joab stellte den Rest der Stadt wieder her.",
+       "englisch_web": "He built the city all around, from Millo even around; and Joab repaired the rest of the city."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "David wurde immer mächtiger,\ndenn der HERR der Heere war mit ihm.",
+       "englisch_web": "David grew greater and greater, for Yahweh of Armies was with him."
+      }
+     ],
+     "erklaerung": "Jerusalem war eine alte Stadt der Jebusiter, auf einem Hügel mit steilen Hängen. Sie galt als uneinnehmbar. David erobert sie und macht sie zu seiner Hauptstadt (vgl. 2. Samuel 5,6–10).\nJerusalem lag zwischen den Gebieten von Juda und Benjamin, also zwischen Süden und Norden. Eine gute Wahl, um das ganze Volk zu vereinen.\n„Zion“ war zuerst der Name der Burg. Später wurde er zum Namen für ganz Jerusalem und zum Bild für Gottes Wohnort.\nDer „Millo“ war wohl eine Aufschüttung oder Terrasse, auf der Gebäude standen.\nDie Chronik erklärt, warum Joab Heerführer wurde: Er war der Erste beim Angriff.\nDer wichtigste Satz: „Der HERR der Heere war mit ihm.“ Davids Erfolg kam von Gott."
+    },
+    {
+     "ueberschrift": "Davids Helden: die Drei",
+     "vers_von": 10,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Das sind die Obersten der Helden Davids,\ndie mit ihm stark für sein Königtum eintraten,\nzusammen mit ganz Israel, um ihn zum König zu machen,\nnach dem Wort des HERRN über Israel.",
+       "englisch_web": "Now these are the chief of the mighty men whom David had, who showed themselves strong with him in his kingdom, together with all Israel, to make him king, according to Yahweh’s word concerning Israel."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Das ist die Zahl der Helden, die David hatte:\nJaschobam, der Sohn eines Hachmoniters, das Oberhaupt der Dreißig.\nEr schwang seinen Speer gegen dreihundert\nund erschlug sie auf einmal.",
+       "englisch_web": "This is the number of the mighty men whom David had: Jashobeam, the son of a Hachmonite, the chief of the thirty; he lifted up his spear against three hundred and killed them at one time."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Nach ihm kam Eleasar, der Sohn Dodos, der Ahoachiter.\nEr war einer der drei Helden.",
+       "englisch_web": "After him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighty men."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er war mit David in Pas-Dammim.\nDort hatten sich die Philister zum Kampf versammelt.\nDort war ein Feldstück voll Gerste.\nDas Volk floh vor den Philistern.",
+       "englisch_web": "He was with David at Pasdammim, and there the Philistines were gathered together to battle, where there was a plot of ground full of barley; and the people fled from before the Philistines."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Aber sie stellten sich mitten auf das Feldstück,\nverteidigten es und schlugen die Philister.\nUnd der HERR schenkte einen großen Sieg.",
+       "englisch_web": "They stood in the middle of the plot, defended it, and killed the Philistines; and Yahweh saved them by a great victory."
+      }
+     ],
+     "erklaerung": "David hatte eine Gruppe besonders tapferer Krieger: „die Drei“ und „die Dreißig“. Die Liste steht auch in 2. Samuel 23,8–39.\nJaschobam heißt dort „Joscheb-Baschebet“. Und dort sind es 800 statt 300, die er erschlug.\nIn 2. Samuel 23 wird noch ein dritter Held genannt, Schamma, der auch ein Feld verteidigte. Die Chronik hat diesen Teil verkürzt. Darum ist hier vom „Feld voll Gerste“ die Rede, während es in 2. Samuel 23,11 ein Feld voll Linsen ist.\nAuch hier betont der Text: Nicht die Helden allein, sondern der HERR schenkte den Sieg."
+    },
+    {
+     "ueberschrift": "Das Wasser aus Betlehem",
+     "vers_von": 15,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Drei von den dreißig Obersten gingen hinab zum Felsen,\nzu David in die Höhle Adullam.\nDas Heer der Philister lagerte im Tal Refaïm.",
+       "englisch_web": "Three of the thirty chief men went down to the rock to David, into the cave of Adullam; and the army of the Philistines were encamped in the valley of Rephaim."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "David war damals in der Bergfestung,\nund eine Wache der Philister war zu dieser Zeit in Betlehem.",
+       "englisch_web": "David was then in the stronghold, and the garrison of the Philistines was in Bethlehem at that time."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "David hatte großen Durst und sagte:\n„Ach, wenn mir doch jemand Wasser zu trinken gäbe\naus dem Brunnen in Betlehem, der beim Tor ist!“",
+       "englisch_web": "David longed, and said, “Oh, that someone would give me water to drink from the well of Bethlehem, which is by the gate!”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Da brachen die drei durch das Lager der Philister,\nschöpften Wasser aus dem Brunnen in Betlehem, der beim Tor war,\nnahmen es und brachten es David.\nAber David wollte es nicht trinken,\nsondern goss es aus für den HERRN",
+       "englisch_web": "The three broke through the army of the Philistines, and drew water out of the well of Bethlehem that was by the gate, took it, and brought it to David; but David would not drink any of it, but poured it out to Yahweh,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "und sagte:\n„Mein Gott bewahre mich davor, dass ich das tue!\nSoll ich das Blut dieser Männer trinken, die ihr Leben aufs Spiel gesetzt haben?“\nDenn sie hatten ihr Leben gewagt, um es zu bringen.\nDarum wollte er es nicht trinken.\nDas taten die drei Helden.",
+       "englisch_web": "and said, “My God forbid me, that I should do this! Shall I drink the blood of these men who have put their lives in jeopardy?” For they risked their lives to bring it. Therefore he would not drink it. The three mighty men did these things."
+      }
+     ],
+     "erklaerung": "David sehnt sich nach dem Wasser aus seiner Heimatstadt Betlehem. Drei seiner Männer riskieren ihr Leben, um es ihm zu bringen.\nAber David trinkt es nicht. Er gießt es aus als Opfer für Gott. Er sagt: Dieses Wasser ist so kostbar wie das Leben meiner Männer. Das darf ich nicht einfach für mich nehmen.\nEine schöne Geschichte über Treue, Freundschaft und Respekt vor dem Leben anderer."
+    },
+    {
+     "ueberschrift": "Abischai und Benaja",
+     "vers_von": 20,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Abischai, der Bruder Joabs, war das Oberhaupt der Drei.\nEr schwang seinen Speer gegen dreihundert und erschlug sie.\nUnd er hatte einen Namen unter den Dreien.",
+       "englisch_web": "Abishai, the brother of Joab, was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name among the three."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Von den Dreien war er angesehener als die zwei,\nund er wurde ihr Anführer.\nAber an die Drei reichte er nicht heran.",
+       "englisch_web": "Of the three, he was more honorable than the two, and was made their captain; however he wasn’t included in the three."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Benaja, der Sohn Jojadas, der Sohn eines tapferen Mannes aus Kabzeel,\nder große Taten vollbrachte:\nEr erschlug die zwei Söhne Ariëls aus Moab.\nEr stieg auch hinab und erschlug einen Löwen mitten in einer Grube, an einem Tag, als Schnee lag.",
+       "englisch_web": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, killed the two sons of Ariel of Moab. He also went down and killed a lion in the middle of a pit on a snowy day."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Er erschlug einen Ägypter, einen riesigen Mann, etwa 2,25 Meter groß.\nDer Ägypter hatte einen Speer in der Hand wie einen Weberbaum.\nBenaja ging mit einem Stock zu ihm hinab,\nriss dem Ägypter den Speer aus der Hand\nund tötete ihn mit seinem eigenen Speer.",
+       "englisch_web": "He killed an Egyptian, a man of great stature, five cubits high. In the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, plucked the spear out of the Egyptian’s hand, and killed him with his own spear."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Das tat Benaja, der Sohn Jojadas.\nUnd er hatte einen Namen unter den drei Helden.",
+       "englisch_web": "Benaiah the son of Jehoiada did these things and had a name among the three mighty men."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Schau, er war angesehener als die Dreißig,\naber an die Drei reichte er nicht heran.\nUnd David setzte ihn über seine Leibwache.",
+       "englisch_web": "Behold, he was more honorable than the thirty, but he didn’t attain to the three; and David set him over his guard."
+      }
+     ],
+     "erklaerung": "Vers 20 und 21 sind im Hebräischen schwer zu verstehen. Abischai war Anführer, aber gehörte nicht zu den ersten Drei. Vielleicht war er der Anführer einer zweiten Gruppe von Drei.\nBenaja wurde später unter Salomo der oberste Heerführer (1. Könige 2,35).\nIn der Bibel steht „fünf Ellen“. Eine Elle sind etwa 45 Zentimeter.\nEin „Weberbaum“ war ein dicker Holzbalken an einem Webstuhl. Auch Goliats Speer wird so beschrieben (1. Samuel 17,7)."
+    },
+    {
+     "ueberschrift": "Die Dreißig",
+     "vers_von": 26,
+     "vers_bis": 47,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 26,
+       "leichte_sprache": "Zu den Helden des Heeres gehörten auch:\nAsaël, der Bruder Joabs,\nElhanan, der Sohn Dodos, aus Betlehem,",
+       "englisch_web": "The mighty men of the armies also include Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Schammot, der Haroriter,\nHelez, der Peloniter,",
+       "englisch_web": "Shammoth the Harorite, Helez the Pelonite,"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Ira, der Sohn des Ikkesch, der Tekoiter,\nAbiëser, der Anatotiter,",
+       "englisch_web": "Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite,"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Sibbechai, der Huschatiter,\nIlai, der Ahoachiter,",
+       "englisch_web": "Sibbecai the Hushathite, Ilai the Ahohite,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Mahrai, der Netofatiter,\nHeled, der Sohn Baanas, der Netofatiter,",
+       "englisch_web": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Itai, der Sohn Ribais, aus Gibea von den Söhnen Benjamins,\nBenaja, der Piratoniter,",
+       "englisch_web": "Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite,"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Hurai von den Bächen von Gaasch,\nAbiël, der Arbatiter,",
+       "englisch_web": "Hurai of the brooks of Gaash, Abiel the Arbathite,"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Asmawet, der Baharumiter,\nEljachba, der Schaalboniter,",
+       "englisch_web": "Azmaveth the Baharumite, Eliahba the Shaalbonite,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "die Söhne Haschems, des Gisoniters,\nJonatan, der Sohn Schages, der Harariter,",
+       "englisch_web": "the sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Ahiam, der Sohn Sachars, der Harariter,\nElifal, der Sohn Urs,",
+       "englisch_web": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Hefer, der Mecheratiter,\nAhija, der Peloniter,",
+       "englisch_web": "Hepher the Mecherathite, Ahijah the Pelonite,"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Hezro, der Karmeliter,\nNaarai, der Sohn Esbais,",
+       "englisch_web": "Hezro the Carmelite, Naarai the son of Ezbai,"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Joël, der Bruder Natans,\nMibhar, der Sohn Hagris,",
+       "englisch_web": "Joel the brother of Nathan, Mibhar the son of Hagri,"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Zelek, der Ammoniter,\nNachrai, der Berotiter, der Waffenträger Joabs, des Sohnes der Zeruja,",
+       "englisch_web": "Zelek the Ammonite, Naharai the Berothite (the armor bearer of Joab the son of Zeruiah),"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Ira, der Jitriter,\nGareb, der Jitriter,",
+       "englisch_web": "Ira the Ithrite, Gareb the Ithrite,"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Uria, der Hetiter,\nSabad, der Sohn Achlais,",
+       "englisch_web": "Uriah the Hittite, Zabad the son of Ahlai,"
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Adina, der Sohn Schisas, der Rubeniter, ein Oberhaupt der Rubeniter, und dreißig mit ihm,",
+       "englisch_web": "Adina the son of Shiza the Reubenite (a chief of the Reubenites), and thirty with him,"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Hanan, der Sohn Maachas,\nJoschafat, der Mitniter,",
+       "englisch_web": "Hanan the son of Maacah, Joshaphat the Mithnite,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Usija, der Aschteratiter,\nSchama und Jeïël, die Söhne Hotams, des Aroëriters,",
+       "englisch_web": "Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Jediaël, der Sohn Schimris,\nund Joha, sein Bruder, der Tiziter,",
+       "englisch_web": "Jediael the son of Shimri, and Joha his brother, the Tizite,"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Eliël, der Mahawiter,\nJeribai und Joschawja, die Söhne Elnaams,\nund Jitma, der Moabiter,",
+       "englisch_web": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Eliël, Obed und Jaasiël, der Mezobaiter.",
+       "englisch_web": "Eliel, Obed, and Jaasiel the Mezobaite."
+      }
+     ],
+     "erklaerung": "Hier werden alle Helden mit Namen genannt. Viele sind sonst unbekannt. Aber ihr Einsatz wird nicht vergessen.\nUnter ihnen ist auch Uria, der Hetiter. Er war treu, und David hat ihm großes Unrecht getan: Er nahm ihm seine Frau Batseba und ließ ihn im Krieg töten (2. Samuel 11). Die Chronik erzählt diese Geschichte nicht, aber sie nennt Urias Namen in der Liste der Helden.\nUnter den Helden sind auch Ausländer: ein Ammoniter, ein Moabiter und ein Hetiter. Sie gehörten fest zu Davids Männern.\nDie Liste ist länger als in 2. Samuel 23. Die Namen ab Vers 42 stehen nur hier. Bei vielen Namen gibt es leichte Unterschiede zu 2. Samuel 23, zum Beispiel „Schammot, der Haroriter“ statt „Schamma, der Haroditer“."
+    }
+   ]
+  },
+  {
+   "kapitel": 12,
+   "titel": "Alle kommen zu David",
+   "abschnitte": [
+    {
+     "ueberschrift": "Helden aus Benjamin in Ziklag",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die, die zu David nach Ziklag kamen,\nals er sich noch vor Saul, dem Sohn des Kisch, verbergen musste.\nSie gehörten zu den Helden, die ihm im Krieg halfen.",
+       "englisch_web": "Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Sie waren mit Bogen bewaffnet\nund konnten mit der rechten und mit der linken Hand\nSteine schleudern und Pfeile mit dem Bogen schießen.\nSie waren Verwandte Sauls, aus dem Stamm Benjamin.",
+       "englisch_web": "They were armed with bows, and could use both the right hand and the left in slinging stones and in shooting arrows from the bow. They were of Saul’s relatives of the tribe of Benjamin."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Das Oberhaupt war Ahiëser, dann Joasch, die Söhne Schemaas, des Gibeatiters,\nJesiël und Pelet, die Söhne Asmawets,\nBeracha, Jehu, der Anatotiter,",
+       "englisch_web": "The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Jischmaja, der Gibeoniter, ein Held unter den Dreißig und Anführer der Dreißig,\nJirmeja, Jachasiël, Johanan, Josabad, der Gederatiter,",
+       "englisch_web": "Ishmaiah the Gibeonite, a mighty man among the thirty and a leader of the thirty; Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Elusai, Jerimot, Bealja, Schemarja, Schefatja, der Haruftiter,",
+       "englisch_web": "Eluzai; Jerimoth; Bealiah; Shemariah; Shephatiah the Haruphite;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Elkana, Jischija, Asarel, Joëser und Jaschobam, die Korachiter,",
+       "englisch_web": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "und Joëla und Sebadja, die Söhne Jerohams, aus Gedor.",
+       "englisch_web": "and Joelah and Zebadiah, the sons of Jeroham of Gedor."
+      }
+     ],
+     "erklaerung": "Schon als David noch auf der Flucht vor Saul war, kamen Männer zu ihm, sogar aus Sauls eigenem Stamm Benjamin. Sie erkannten: Gottes Segen liegt auf David.\nZiklag war eine Stadt, die der Philisterkönig David überlassen hatte (1. Samuel 27,6).\nDie Benjaminiter waren berühmt für ihre Geschicklichkeit mit beiden Händen (Richter 20,16).\nIn deutschen Bibeln ist die Verszählung in diesem Kapitel ab hier um eins verschoben: Vers 4 hier ist dort Vers 4 und 5. Vers 5 hier ist dort Vers 6, und so weiter bis Vers 40 hier, der dort Vers 41 ist."
+    },
+    {
+     "ueberschrift": "Helden aus Gad",
+     "vers_von": 8,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Einige Gaditer schlossen sich David in der Bergfestung in der Wüste an,\ntapfere Krieger, für den Krieg ausgebildet,\ndie mit Schild und Speer umgehen konnten.\nIhre Gesichter waren wie die Gesichter von Löwen,\nund sie waren so schnell wie die Gazellen auf den Bergen:",
+       "englisch_web": "Some Gadites joined David in the stronghold in the wilderness, mighty men of valor, men trained for war, who could handle shield and spear; whose faces were like the faces of lions, and they were as swift as the gazelles on the mountains:"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Eser, das Oberhaupt,\nObadja, der zweite,\nEliab, der dritte,",
+       "englisch_web": "Ezer the chief, Obadiah the second, Eliab the third,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Mischmanna, der vierte,\nJirmeja, der fünfte,",
+       "englisch_web": "Mishmannah the fourth, Jeremiah the fifth,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Attai, der sechste,\nEliël, der siebte,",
+       "englisch_web": "Attai the sixth, Eliel the seventh,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Johanan, der achte,\nElsabad, der neunte,",
+       "englisch_web": "Johanan the eighth, Elzabad the ninth,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Jirmeja, der zehnte,\nMachbannai, der elfte.",
+       "englisch_web": "Jeremiah the tenth, and Machbannai the eleventh."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Diese von den Söhnen Gads waren Anführer des Heeres.\nDer Geringste war so viel wert wie hundert,\nund der Größte wie tausend.",
+       "englisch_web": "These of the sons of Gad were captains of the army. He who was least was equal to one hundred, and the greatest to one thousand."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Das sind die, die im ersten Monat über den Jordan gingen,\nals er über alle seine Ufer getreten war.\nUnd sie vertrieben alle, die in den Tälern wohnten, nach Osten und nach Westen.",
+       "englisch_web": "These are those who went over the Jordan in the first month, when it had overflowed all its banks; and they put to flight all who lived in the valleys, both toward the east and toward the west."
+      }
+     ],
+     "erklaerung": "Die Gaditer kamen von der anderen Seite des Jordan. Sie überquerten den Fluss im Frühling, wenn er durch die Schneeschmelze am Hermon Hochwasser führt. Das zeigt ihren Mut und ihre Entschlossenheit.\n„Wie Löwen und Gazellen“: stark und schnell.\n„Der Geringste wie hundert“ kann auch heißen: Der Geringste war Anführer über hundert, der Größte über tausend."
+    },
+    {
+     "ueberschrift": "Helden aus Benjamin und Juda",
+     "vers_von": 16,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Einige von den Söhnen Benjamins und Judas kamen zu David in die Bergfestung.",
+       "englisch_web": "Some of the children of Benjamin and Judah came to the stronghold to David."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "David ging hinaus, ihnen entgegen, und sagte zu ihnen:\n„Wenn ihr in Frieden zu mir gekommen seid, um mir zu helfen,\ndann soll mein Herz mit euch eins sein.\nAber wenn ihr gekommen seid, um mich an meine Feinde zu verraten,\nobwohl kein Unrecht an meinen Händen ist,\ndann möge der Gott unserer Väter es sehen und strafen.“",
+       "englisch_web": "David went out to meet them, and answered them, “If you have come peaceably to me to help me, my heart will be united with you; but if you have come to betray me to my adversaries, since there is no wrong in my hands, may the God of our fathers see this and rebuke it.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Da kam der Geist über Amasai, das Oberhaupt der Dreißig,\nund er sagte:\n„Dein sind wir, David,\nund mit dir halten wir, du Sohn Isais.\nFrieden, Frieden sei mit dir,\nund Frieden sei mit deinen Helfern,\ndenn dein Gott hilft dir.“\nDa nahm David sie auf\nund machte sie zu Anführern der Schar.",
+       "englisch_web": "Then the Spirit came on Amasai, who was chief of the thirty, and he said, “We are yours, David, and on your side, you son of Jesse. Peace, peace be to you, and peace be to your helpers; for your God helps you.” Then David received them and made them captains of the band."
+      }
+     ],
+     "erklaerung": "David ist vorsichtig. Er weiß nicht, ob die Männer Freunde oder Verräter sind. Er fragt offen und legt die Sache in Gottes Hand.\nAmasai antwortet, vom Geist Gottes bewegt, mit einem Bekenntnis: „Dein sind wir, David! Frieden sei mit dir, denn dein Gott hilft dir.“ Dreimal das Wort „Frieden“ (hebräisch „Schalom“).\nDas ist das Herz dieses Kapitels: Menschen aus allen Stämmen erkennen, dass Gott mit David ist, und schließen sich ihm an."
+    },
+    {
+     "ueberschrift": "Helden aus Manasse",
+     "vers_von": 19,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Auch von Manasse schlossen sich einige David an,\nals er mit den Philistern gegen Saul in den Kampf zog.\nAber sie halfen ihnen nicht.\nDenn die Fürsten der Philister schickten ihn nach einer Beratung weg und sagten:\n„Er wird zu seinem Herrn Saul überlaufen, und das kostet uns den Kopf.“",
+       "englisch_web": "Some of Manasseh also joined David when he came with the Philistines against Saul to battle, but they didn’t help them, for the lords of the Philistines sent him away after consultation, saying, “He will desert to his master Saul to the jeopardy of our heads.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Als er nach Ziklag zog, schlossen sich ihm aus Manasse an:\nAdnach, Josabad, Jediaël, Michael, Josabad, Elihu und Zilletai,\nAnführer über Tausend aus Manasse.",
+       "englisch_web": "As he went to Ziklag, some from Manasseh joined him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, captains of thousands who were of Manasseh."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie halfen David gegen die Räuberbande,\ndenn sie waren alle tapfere Krieger und Anführer im Heer.",
+       "englisch_web": "They helped David against the band of raiders, for they were all mighty men of valor and were captains in the army."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Denn Tag für Tag kamen Leute zu David, um ihm zu helfen,\nbis es ein großes Heer war, wie ein Heer Gottes.",
+       "englisch_web": "For from day to day men came to David to help him, until there was a great army, like God’s army."
+      }
+     ],
+     "erklaerung": "Vers 19 erinnert an 1. Samuel 29: David lebte damals bei den Philistern und sollte mit ihnen gegen Saul kämpfen. Aber die Philister trauten ihm nicht und schickten ihn zurück. So musste David nicht gegen sein eigenes Volk kämpfen.\n„Die Räuberbande“ sind die Amalekiter, die Ziklag überfallen hatten (1. Samuel 30).\n„Wie ein Heer Gottes“ heißt: ein sehr großes, gewaltiges Heer."
+    },
+    {
+     "ueberschrift": "Das große Treffen in Hebron",
+     "vers_von": 23,
+     "vers_bis": 37,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Das sind die Zahlen der Anführer der Bewaffneten,\ndie zu David nach Hebron kamen,\num ihm das Königtum Sauls zu übertragen, nach dem Wort des HERRN:",
+       "englisch_web": "These are the numbers of the heads of those who were armed for war, who came to David to Hebron to turn the kingdom of Saul to him, according to Yahweh’s word."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Von den Söhnen Judas, die Schild und Speer trugen:\n6800, zum Kampf gerüstet.",
+       "englisch_web": "The children of Judah who bore shield and spear were six thousand eight hundred, armed for war."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Von den Söhnen Simeons, tapfere Krieger für den Kampf:\n7100.",
+       "englisch_web": "Of the children of Simeon, mighty men of valor for the war: seven thousand one hundred."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Von den Söhnen Levis:\n4600.",
+       "englisch_web": "Of the children of Levi: four thousand six hundred."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Jojada war der Anführer des Hauses Aaron,\nund mit ihm waren 3700,",
+       "englisch_web": "Jehoiada was the leader of the household of Aaron; and with him were three thousand seven hundred,"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "und Zadok, ein junger, tapferer Krieger,\nund aus seiner Familie 22 Anführer.",
+       "englisch_web": "and Zadok, a young man mighty of valor, and of his father’s house twenty-two captains."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Von den Söhnen Benjamins, den Verwandten Sauls:\n3000.\nDenn bis dahin hatte der größte Teil von ihnen dem Haus Sauls die Treue gehalten.",
+       "englisch_web": "Of the children of Benjamin, Saul’s relatives: three thousand, for until then, the greatest part of them had kept their allegiance to Saul’s house."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Von den Söhnen Efraims:\n20 800, tapfere Krieger, berühmte Männer in ihren Familien.",
+       "englisch_web": "Of the children of Ephraim: twenty thousand eight hundred, mighty men of valor, famous men in their fathers’ houses."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Vom halben Stamm Manasse:\n18 000, die mit Namen bestimmt worden waren,\num zu kommen und David zum König zu machen.",
+       "englisch_web": "Of the half-tribe of Manasseh: eighteen thousand, who were mentioned by name, to come and make David king."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Von den Söhnen Issachars,\nMänner, die die Zeiten verstanden und wussten, was Israel tun sollte:\n200 Oberhäupter,\nund alle ihre Brüder folgten ihrem Befehl.",
+       "englisch_web": "Of the children of Issachar, men who had understanding of the times, to know what Israel ought to do, their heads were two hundred; and all their brothers were at their command."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Von Sebulon, die mit dem Heer ausziehen konnten,\ndie sich mit allen Kriegswaffen zum Kampf aufstellen konnten:\n50 000, die sich anschlossen und kein geteiltes Herz hatten.",
+       "englisch_web": "Of Zebulun, such as were able to go out in the army, who could set the battle in array with all kinds of instruments of war: fifty thousand who could command and were not of double heart."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Von Naftali:\n1000 Anführer,\nund mit ihnen 37 000 mit Schild und Speer.",
+       "englisch_web": "Of Naphtali: one thousand captains, and with them with shield and spear thirty-seven thousand."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Von den Danitern, die sich zum Kampf aufstellen konnten:\n28 600.",
+       "englisch_web": "Of the Danites who could set the battle in array: twenty-eight thousand six hundred."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Von Asser, die mit dem Heer ausziehen konnten\nund sich zum Kampf aufstellen konnten:\n40 000.",
+       "englisch_web": "Of Asher, such as were able to go out in the army, who could set the battle in array: forty thousand."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Von der anderen Seite des Jordan,\nvon den Rubenitern, den Gaditern und dem halben Stamm Manasse,\nmit allen Kriegswaffen für den Kampf:\n120 000.",
+       "englisch_web": "On the other side of the Jordan, of the Reubenites, the Gadites, and of the half-tribe of Manasseh, with all kinds of instruments of war for the battle: one hundred twenty thousand."
+      }
+     ],
+     "erklaerung": "Alle zwölf Stämme kommen nach Hebron, um David zum König zu machen. Dazu die Leviten. Für die Chronik ist das ein Höhepunkt: Ganz Israel ist eins.\nDie Männer aus Issachar „verstanden die Zeiten“: Sie hatten ein gutes Gespür dafür, was der richtige Moment war und was zu tun ist. Eine Gabe, die auch heute wertvoll ist.\nSebulon hatte „kein geteiltes Herz“: Sie standen ganz und ehrlich zu David.\nInteressant: Aus Juda, Davids eigenem Stamm, kommen die wenigsten Männer. Aus den weit entfernten Stämmen kommen die meisten. Vielleicht, weil Juda schon vorher zu David gehalten hatte.\nDie Zahlen sind sehr groß, zusammen über 300 000. Wie bei anderen alten Zahlen ist unklar, wie genau sie gemeint sind.\nJojada ist wohl der Vater Benajas (Kapitel 11,22). Zadok wurde später der Hohepriester unter David und Salomo."
+    },
+    {
+     "ueberschrift": "Ein großes Fest",
+     "vers_von": 38,
+     "vers_bis": 40,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 38,
+       "leichte_sprache": "Alle diese Krieger, die sich zur Schlacht aufstellen konnten,\nkamen mit ungeteiltem Herzen nach Hebron,\num David zum König über ganz Israel zu machen.\nUnd auch der ganze Rest Israels war einmütig,\nDavid zum König zu machen.",
+       "englisch_web": "All these were men of war who could order the battle array, and came with a perfect heart to Hebron to make David king over all Israel; and all the rest also of Israel were of one heart to make David king."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Sie waren dort drei Tage bei David,\naßen und tranken,\ndenn ihre Brüder hatten für sie vorgesorgt.",
+       "englisch_web": "They were there with David three days, eating and drinking; for their brothers had supplied provisions for them."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Auch die, die in ihrer Nähe wohnten, bis nach Issachar, Sebulon und Naftali,\nbrachten Brot auf Eseln, Kamelen, Maultieren und Rindern:\nVorräte an Mehl, Feigenkuchen, Rosinenkuchen, Wein, Öl, Rinder und Schafe in Fülle.\nDenn es war Freude in Israel.",
+       "englisch_web": "Moreover those who were near to them, as far as Issachar, Zebulun, and Naphtali, brought bread on donkeys, on camels, on mules, and on oxen: supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in abundance; for there was joy in Israel."
+      }
+     ],
+     "erklaerung": "Das Kapitel endet mit einem großen Fest. Drei Tage essen und trinken die Menschen zusammen. Alle bringen etwas mit, auch die, die weit weg wohnen.\n„Mit ungeteiltem Herzen“ und „einmütig“: Das Volk ist vereint.\nDer letzte Satz fasst alles zusammen: „Es war Freude in Israel.“ Wenn Gottes Volk zusammenkommt und Gott in der Mitte ist, entsteht Freude."
+    }
+   ]
   }
  ]
 }

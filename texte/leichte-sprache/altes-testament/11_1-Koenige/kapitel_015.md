@@ -16,7 +16,7 @@ wie das Herz seines Vaters David.
 indem er seinen Sohn nach ihm einsetzte und Jerusalem bestehen ließ.
 [5] Denn David hatte getan, was in den Augen des HERRN recht war,
 und war sein ganzes Leben lang von nichts abgewichen, was er ihm geboten hatte,
-nur in der Sache mit Urija, dem Hetiter.
+nur in der Sache mit Uria, dem Hetiter.
 [6] Zwischen Rehabeam und Jerobeam war Krieg, solange er lebte.
 [7] Was sonst noch von Abijam zu erzählen ist und alles, was er getan hat,
 steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
@@ -30,7 +30,7 @@ Und sein Sohn Asa wurde an seiner Stelle König.
 > Abischalom ist wohl Absalom, der Sohn Davids. Maacha war dann seine Tochter oder Enkelin.
 > In 2. Chronik 13 heißt dieser König Abija.
 > Wieder hört man: Gott bleibt treu „um Davids willen“. Die „Lampe“ in Jerusalem erlischt nicht.
-> Vers 5 ist ehrlich: Auch David war nicht ohne Schuld. Sein großer Fehler war die Sache mit Batseba und ihrem Mann Urija (2. Samuel 11). Die Bibel verschweigt das nicht.
+> Vers 5 ist ehrlich: Auch David war nicht ohne Schuld. Sein großer Fehler war die Sache mit Batseba und ihrem Mann Uria (2. Samuel 11). Die Bibel verschweigt das nicht.
 > Vers 6: Hier steht noch einmal „Rehabeam“. Manche Handschriften haben stattdessen „Abijam“. Der Krieg zwischen Nord und Süd ging jedenfalls weiter.
 > Abijam regierte etwa von 913 bis 911 vor Christus.
 
