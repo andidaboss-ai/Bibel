@@ -55813,3 +55813,407 @@ Und um die Zeit, als die Sonne unterging, starb er.
 > Aber man kann Gott nicht austricksen. Ein Pfeil, „aufs Geratewohl“ geschossen, trifft Ahab genau an der schwachen Stelle der Rüstung.
 > Die Chronik fügt in Vers 31 etwas hinzu, das in 1. Könige 22 nicht steht: „Der HERR half ihm, und Gott lenkte sie von ihm weg.“ Joschafat schreit zu Gott, und Gott rettet ihn, obwohl er sich mit Ahab eingelassen hatte. Gottes Gnade ist größer als unsere Fehler.
 > Ahab regierte etwa von 874 bis 853 vor Christus.
+
+## 2. Chronik – Kapitel 19
+#### Joschafat setzt Richter ein
+
+---
+
+### Der Seher Jehu tadelt Joschafat (Vers 1–3)
+
+<sup>1</sup>Joschafat, der König von Juda, kehrte in Frieden in sein Haus nach Jerusalem zurück.
+<sup>2</sup>Jehu, der Sohn des Sehers Hanani, ging ihm entgegen
+und sagte zum König Joschafat:
+„Sollst du dem Gottlosen helfen
+und die lieben, die den HERRN hassen?
+Deswegen liegt Zorn vom HERRN auf dir.
+<sup>3</sup>Doch es ist Gutes an dir gefunden worden:
+Du hast die Ascheren aus dem Land entfernt
+und dein Herz darauf gerichtet, Gott zu suchen.“
+
+> **Was bedeutet das?**
+> Joschafat ist knapp dem Tod entkommen (Kapitel 18). Jetzt sagt ihm der Prophet Jehu deutlich: Dein Bündnis mit Ahab war falsch.
+> Jehu war der Sohn Hananis, der Asa getadelt hatte (Kapitel 16,7). Vater und Sohn waren beide mutige Propheten.
+> Schön ist Vers 3: Gott sieht nicht nur den Fehler. Er sieht auch das Gute. Joschafat hat ein Herz, das Gott sucht.
+> „Ascheren“ ist die Mehrzahl von Aschera, gemeint sind die Aschera-Pfähle.
+
+---
+
+### Joschafat führt das Volk zurück (Vers 4–7)
+
+<sup>4</sup>Joschafat wohnte in Jerusalem.
+Und er zog wieder hinaus unter das Volk,
+von Beerscheba bis zum Bergland Efraim,
+und brachte sie zurück zum HERRN, dem Gott ihrer Väter.
+<sup>5</sup>Er setzte Richter im Land ein,
+in allen befestigten Städten Judas, Stadt für Stadt,
+<sup>6</sup>und sagte zu den Richtern:
+„Seht zu, was ihr tut!
+Denn ihr richtet nicht für Menschen, sondern für den HERRN,
+und er ist bei euch, wenn ihr Recht sprecht.
+<sup>7</sup>Darum soll die Furcht des HERRN auf euch sein.
+Gebt acht und handelt so!
+Denn beim HERRN, unserem Gott, gibt es kein Unrecht,
+kein Ansehen der Person
+und keine Bestechung.“
+
+> **Was bedeutet das?**
+> Joschafat nimmt den Tadel an. Er reist selbst durch das ganze Land, vom Süden (Beerscheba) bis zum Norden (Efraim), und ruft die Menschen zu Gott zurück.
+> Dann sorgt er für gerechte Gerichte. Seine Worte an die Richter sind bis heute wichtig:
+> – Ein Richter urteilt nicht nur vor Menschen, sondern vor Gott.
+> – Kein „Ansehen der Person“: Reiche und Arme, Mächtige und Schwache müssen gleich behandelt werden.
+> – Keine Bestechung.
+> Joschafats Name bedeutet „Der HERR richtet“. Er setzt um, was sein Name sagt.
+
+---
+
+### Ein oberstes Gericht in Jerusalem (Vers 8–11)
+
+<sup>8</sup>Auch in Jerusalem setzte Joschafat einige von den Leviten und Priestern
+und von den Familienoberhäuptern Israels ein,
+damit sie für den HERRN Recht sprachen und Streitfälle entschieden.
+Sie kehrten nach Jerusalem zurück.
+<sup>9</sup>Er befahl ihnen:
+„So sollt ihr handeln, in der Furcht des HERRN,
+treu und mit ungeteiltem Herzen.
+<sup>10</sup>Wenn ein Streitfall von euren Brüdern zu euch kommt, die in ihren Städten wohnen,
+ob es um Blut und Blut geht,
+um Gesetz und Gebot, um Satzungen und Rechtsordnungen,
+dann sollt ihr sie warnen,
+damit sie nicht schuldig werden vor dem HERRN
+und Zorn über euch und eure Brüder kommt.
+So sollt ihr handeln, dann werdet ihr nicht schuldig.
+<sup>11</sup>Schaut, Amarja, der oberste Priester, ist über euch in allen Sachen des HERRN,
+und Sebadja, der Sohn Jischmaels, der Fürst des Hauses Juda, in allen Sachen des Königs.
+Auch die Leviten sollen als Beamte vor euch sein.
+Seid mutig und handelt!
+Der HERR sei mit dem Guten!“
+
+> **Was bedeutet das?**
+> In Jerusalem gibt es jetzt ein oberstes Gericht für schwierige Fälle (vgl. 5. Mose 17,8–13).
+> „Blut und Blut“ meint Fälle von Totschlag oder Mord: War es Absicht oder ein Unfall?
+> Bemerkenswert: Es gibt zwei Bereiche. Für religiöse Fragen ist der oberste Priester zuständig, für staatliche Fragen ein Fürst. Das ist eine frühe Form der Gewaltenteilung.
+> „Der HERR sei mit dem Guten!“: Gott steht auf der Seite derer, die gerecht urteilen.
+
+## 2. Chronik – Kapitel 20
+#### Der Kampf ist Gottes Sache
+
+---
+
+### Ein riesiges Heer kommt (Vers 1–4)
+
+<sup>1</sup>Danach kamen die Moabiter und die Ammoniter
+und mit ihnen einige von den Mëunitern
+gegen Joschafat, um zu kämpfen.
+<sup>2</sup>Da kamen einige und berichteten Joschafat:
+„Eine große Menge kommt gegen dich von jenseits des Meeres, aus Syrien.
+Schau, sie sind in Hazezon-Tamar“ (das ist En-Gedi).
+<sup>3</sup>Joschafat bekam Angst
+und richtete sich darauf aus, den HERRN zu suchen.
+Er rief in ganz Juda ein Fasten aus.
+<sup>4</sup>Juda versammelte sich, um Hilfe vom HERRN zu suchen.
+Aus allen Städten Judas kamen sie, um den HERRN zu suchen.
+
+> **Was bedeutet das?**
+> Moab und Ammon lagen östlich des Toten Meeres. Die Mëuniter waren wohl ein Volk aus der Gegend von Edom (Seïr).
+> „Von jenseits des Meeres“ meint das Tote Meer. „Aus Syrien“: Im Hebräischen steht „Aram“. Viele Fachleute meinen, dass ursprünglich „Edom“ gemeint war. Die beiden Wörter sehen im Hebräischen sehr ähnlich aus. Später im Kapitel ist ja vom Gebirge Seïr, also Edom, die Rede.
+> En-Gedi ist eine Oase am Westufer des Toten Meeres, nur etwa 40 km von Jerusalem entfernt. Der Feind war schon sehr nahe.
+> Joschafat hat Angst. Das ist menschlich. Aber er lässt sich von der Angst nicht lähmen. Er wendet sich an Gott.
+
+---
+
+### Joschafats Gebet (Vers 5–13)
+
+<sup>5</sup>Joschafat stellte sich in die Versammlung Judas und Jerusalems,
+im Haus des HERRN, vor den neuen Vorhof,
+<sup>6</sup>und sagte:
+„HERR, Gott unserer Väter,
+bist du nicht Gott im Himmel?
+Bist du nicht Herrscher über alle Königreiche der Völker?
+In deiner Hand ist Kraft und Macht,
+sodass niemand gegen dich bestehen kann.
+<sup>7</sup>Hast nicht du, unser Gott, die Bewohner dieses Landes vor deinem Volk Israel vertrieben
+und es den Nachkommen Abrahams, deines Freundes, für immer gegeben?
+<sup>8</sup>Sie haben darin gewohnt
+und dir darin ein Heiligtum für deinen Namen gebaut
+und gesagt:
+<sup>9</sup>‚Wenn Unheil über uns kommt
+– Schwert, Strafgericht, Seuche oder Hungersnot –,
+dann wollen wir vor dieses Haus treten und vor dich
+(denn dein Name ist in diesem Haus)
+und in unserer Not zu dir schreien,
+und du wirst hören und retten.‘
+<sup>10</sup>Und jetzt, schau, die Ammoniter und Moab und das Gebirge Seïr:
+Du hast Israel nicht erlaubt, bei ihnen einzudringen,
+als sie aus dem Land Ägypten kamen.
+Sie sind ihnen ausgewichen und haben sie nicht vernichtet.
+<sup>11</sup>Schau, wie sie es uns vergelten:
+Sie kommen, um uns aus deinem Besitz zu vertreiben,
+den du uns zum Erbe gegeben hast.
+<sup>12</sup>Unser Gott, willst du sie nicht richten?
+Denn wir haben keine Kraft gegen diese große Menge, die gegen uns kommt.
+Wir wissen nicht, was wir tun sollen,
+aber unsere Augen sehen auf dich.“
+<sup>13</sup>Ganz Juda stand vor dem HERRN,
+mit ihren Kleinen, ihren Frauen und ihren Kindern.
+
+> **Was bedeutet das?**
+> Joschafats Gebet ist ein Vorbild für das Beten in der Not:
+> – Er erinnert sich, wer Gott ist: der Herrscher über alle Völker.
+> – Er erinnert sich, was Gott früher getan hat.
+> – Er erinnert Gott an sein Versprechen beim Tempelbau (Kapitel 6 und 7).
+> – Er sagt ehrlich: „Wir wissen nicht, was wir tun sollen.“
+> – Und dann: „Aber unsere Augen sehen auf dich.“
+> Dieser letzte Satz hat vielen Menschen in ausweglosen Lagen geholfen.
+> Abraham wird hier „Gottes Freund“ genannt. So nennen ihn auch Jesaja 41,8 und Jakobus 2,23.
+> Vers 10 erinnert an 5. Mose 2: Gott hatte Israel verboten, Edom, Moab und Ammon anzugreifen.
+> Vers 13 ist berührend: Die ganzen Familien stehen vor Gott, auch die kleinen Kinder.
+
+---
+
+### Gottes Antwort durch Jahasiël (Vers 14–19)
+
+<sup>14</sup>Da kam der Geist des HERRN mitten in der Versammlung über Jahasiël,
+den Sohn Secharjas, des Sohnes Benajas, des Sohnes Jëiëls, des Sohnes Mattanjas,
+den Leviten, von den Söhnen Asafs.
+<sup>15</sup>Er sagte:
+„Hört zu, ganz Juda und ihr Bewohner Jerusalems und du, König Joschafat!
+So spricht der HERR zu euch:
+‚Fürchtet euch nicht und erschreckt nicht vor dieser großen Menge!
+Denn der Kampf ist nicht eure Sache, sondern Gottes.
+<sup>16</sup>Zieht morgen gegen sie hinab.
+Schaut, sie kommen den Aufstieg von Ziz herauf.
+Ihr werdet sie am Ende des Tals finden,
+vor der Wüste Jeruël.
+<sup>17</sup>Ihr werdet in diesem Kampf nicht kämpfen müssen.
+Stellt euch auf, steht still
+und seht die Rettung des HERRN, die er an euch tut, Juda und Jerusalem!
+Fürchtet euch nicht und erschreckt nicht!
+Zieht morgen gegen sie hinaus,
+denn der HERR ist mit euch.‘“
+<sup>18</sup>Joschafat neigte sich mit dem Gesicht zur Erde,
+und ganz Juda und die Bewohner Jerusalems fielen vor dem HERRN nieder
+und beteten den HERRN an.
+<sup>19</sup>Die Leviten, von den Nachkommen der Kehatiter und der Korachiter,
+standen auf, um den HERRN, den Gott Israels, mit sehr lauter Stimme zu loben.
+
+> **Was bedeutet das?**
+> Gott antwortet durch einen Leviten, einen Sänger aus der Familie Asafs. Er war kein bekannter Prophet. Gott kann durch jeden sprechen.
+> „Der Kampf ist nicht eure Sache, sondern Gottes“ ist einer der bekanntesten Sätze der Chronik. Er erinnert an Mose am Schilfmeer: „Steht still und seht die Rettung des HERRN!“ (2. Mose 14,13).
+> Noch bevor etwas geschehen ist, beten sie an und loben Gott. Sie vertrauen seinem Wort.
+> Die Korachiter waren Sänger am Tempel. Mehrere Psalmen stammen von ihnen (zum Beispiel Psalm 42–49).
+
+---
+
+### Das Heer zieht singend hinaus (Vers 20–26)
+
+<sup>20</sup>Am Morgen standen sie früh auf
+und zogen hinaus in die Wüste Tekoa.
+Als sie hinauszogen, trat Joschafat hin und sagte:
+„Hört mir zu, Juda und ihr Bewohner Jerusalems!
+Glaubt an den HERRN, euren Gott, dann werdet ihr fest stehen!
+Glaubt seinen Propheten, dann wird es euch gelingen!“
+<sup>21</sup>Er beriet sich mit dem Volk
+und stellte Sänger auf, die dem HERRN singen
+und ihn in heiligem Schmuck loben sollten,
+während sie vor dem Heer herzogen,
+und sagen sollten:
+„Dankt dem HERRN, denn seine Güte bleibt für immer!“
+<sup>22</sup>Als sie anfingen zu singen und zu loben,
+legte der HERR einen Hinterhalt gegen die Ammoniter, Moab und das Gebirge Seïr,
+die gegen Juda gekommen waren,
+und sie wurden geschlagen.
+<sup>23</sup>Denn die Ammoniter und Moab stellten sich gegen die Bewohner des Gebirges Seïr,
+um sie ganz zu töten und zu vernichten.
+Als sie mit den Bewohnern Seïrs fertig waren,
+halfen sie alle mit, einander zu vernichten.
+<sup>24</sup>Als Juda an die Stelle kam, von der man auf die Wüste hinabsieht,
+schauten sie auf die Menge.
+Und schau, da lagen Leichen auf der Erde,
+und keiner war entkommen.
+<sup>25</sup>Als Joschafat und sein Volk kamen, um die Beute zu holen,
+fanden sie bei ihnen viel Reichtum
+und Leichen mit kostbarem Schmuck.
+Sie nahmen ihn sich,
+mehr, als sie tragen konnten.
+Drei Tage lang holten sie Beute, so viel war es.
+<sup>26</sup>Am vierten Tag versammelten sie sich im Tal Beracha,
+denn dort lobten sie den HERRN.
+Darum nennt man diesen Ort „Tal Beracha“ bis heute.
+
+> **Was bedeutet das?**
+> Vers 20 klingt wie Jesaja 7,9: „Glaubt ihr nicht, so bleibt ihr nicht.“ Im Hebräischen ist das ein Wortspiel: „glauben“ und „fest stehen“ kommen vom selben Wort (aman, davon kommt auch „Amen“).
+> Das ist die ungewöhnlichste Schlachtordnung der Bibel: Vorne gehen nicht die Soldaten, sondern die Sänger. Sie singen: „Dankt dem HERRN, denn seine Güte bleibt für immer!“ (wie Psalm 136).
+> Juda kämpft gar nicht. Die Feinde zerstreiten sich und vernichten sich gegenseitig. Wer den „Hinterhalt“ legte, sagt der Text nicht genau. Wichtig ist: Gott hat es bewirkt.
+> „Beracha“ heißt „Segen“ oder „Lob“. Das Tal heißt so, weil sie dort Gott lobten. Es gibt bis heute einen Ort mit ähnlichem Namen südlich von Betlehem.
+> Auch hier gilt: Die Bibel freut sich nicht über die Toten, sondern über die Rettung. Und die Rettung kam nicht durch Waffen, sondern durch Vertrauen und Lob.
+
+---
+
+### Freude in Jerusalem (Vers 27–30)
+
+<sup>27</sup>Dann kehrten sie zurück, alle Männer Judas und Jerusalems,
+mit Joschafat an ihrer Spitze,
+um voller Freude nach Jerusalem zurückzugehen.
+Denn der HERR hatte ihnen Freude über ihre Feinde geschenkt.
+<sup>28</sup>Sie kamen nach Jerusalem
+mit Saiteninstrumenten, Harfen und Trompeten
+zum Haus des HERRN.
+<sup>29</sup>Der Schrecken Gottes kam über alle Königreiche der Länder,
+als sie hörten, dass der HERR gegen die Feinde Israels gekämpft hatte.
+<sup>30</sup>So hatte das Königreich Joschafats Ruhe,
+denn sein Gott gab ihm ringsum Ruhe.
+
+> **Was bedeutet das?**
+> Es beginnt mit Gebet und Fasten. Es endet mit Musik und Freude im Tempel. So sieht es aus, wenn ein Volk Gott ganz vertraut.
+
+---
+
+### Zusammenfassung über Joschafat (Vers 31–37)
+
+<sup>31</sup>So regierte Joschafat über Juda.
+Er war 35 Jahre alt, als er König wurde,
+und er regierte 25 Jahre in Jerusalem.
+Seine Mutter hieß Asuba, die Tochter Schilhis.
+<sup>32</sup>Er ging auf dem Weg seines Vaters Asa
+und wich nicht davon ab.
+Er tat, was recht war in den Augen des HERRN.
+<sup>33</sup>Doch die Opferhöhen wurden nicht entfernt,
+und das Volk hatte sein Herz noch nicht auf den Gott seiner Väter gerichtet.
+<sup>34</sup>Die übrige Geschichte Joschafats, die frühere und die spätere,
+schau, sie ist aufgeschrieben in der Geschichte Jehus, des Sohnes Hananis,
+die in das Buch der Könige Israels aufgenommen ist.
+<sup>35</sup>Danach verband sich Joschafat, der König von Juda,
+mit Ahasja, dem König von Israel.
+Der handelte sehr gottlos.
+<sup>36</sup>Er verband sich mit ihm, um Schiffe zu bauen, die nach Tarschisch fahren sollten.
+Sie bauten die Schiffe in Ezjon-Geber.
+<sup>37</sup>Da weissagte Eliëser, der Sohn Dodawahus aus Marescha, gegen Joschafat
+und sagte:
+„Weil du dich mit Ahasja verbunden hast,
+hat der HERR deine Werke zerstört.“
+Die Schiffe zerbrachen,
+sodass sie nicht nach Tarschisch fahren konnten.
+
+> **Was bedeutet das?**
+> Vers 33 scheint Kapitel 17,6 zu widersprechen, wo Joschafat die Opferhöhen entfernte. Vielleicht entfernte er sie, aber das Volk baute sie wieder auf. Vers 33 sagt ja auch: Das Herz des Volkes war noch nicht ganz bei Gott. Ein König kann Altäre entfernen, aber er kann die Herzen nicht ändern.
+> Joschafat wiederholt seinen alten Fehler: Wieder verbündet er sich mit dem gottlosen Königshaus Ahabs. Ahasja war Ahabs Sohn.
+> „Schiffe nach Tarschisch“ waren große Hochseeschiffe für den Handel. Ezjon-Geber war ein Hafen am Roten Meer, beim heutigen Eilat.
+> In 1. Könige 22,49–50 wird die Geschichte etwas anders erzählt: Dort will Ahasja mitmachen, und Joschafat lehnt ab, nachdem die Schiffe zerbrochen waren. Vielleicht hat Joschafat aus dem Unglück gelernt.
+
+## 2. Chronik – Kapitel 21
+#### Joram, ein schlimmer König
+
+---
+
+### Joram tötet seine Brüder (Vers 1–7)
+
+<sup>1</sup>Joschafat legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt Davids begraben.
+Sein Sohn Joram wurde an seiner Stelle König.
+<sup>2</sup>Er hatte Brüder, die Söhne Joschafats:
+Asarja, Jehiël, Secharja, Asarja, Michael und Schefatja.
+Alle diese waren Söhne Joschafats, des Königs von Israel.
+<sup>3</sup>Ihr Vater gab ihnen große Geschenke an Silber, Gold und kostbaren Dingen,
+dazu befestigte Städte in Juda.
+Aber das Königtum gab er Joram,
+denn er war der Erstgeborene.
+<sup>4</sup>Als Joram die Herrschaft über das Königreich seines Vaters angetreten
+und sich stark gemacht hatte,
+tötete er alle seine Brüder mit dem Schwert
+und auch einige von den Fürsten Israels.
+<sup>5</sup>Joram war 32 Jahre alt, als er König wurde,
+und er regierte acht Jahre in Jerusalem.
+<sup>6</sup>Er ging auf dem Weg der Könige von Israel,
+wie es das Haus Ahab tat,
+denn er hatte die Tochter Ahabs zur Frau.
+Er tat, was böse war in den Augen des HERRN.
+<sup>7</sup>Doch der HERR wollte das Haus Davids nicht vernichten,
+wegen des Bundes, den er mit David geschlossen hatte,
+und weil er versprochen hatte,
+ihm und seinen Söhnen für immer eine Lampe zu geben.
+
+> **Was bedeutet das?**
+> Hier sieht man die Folgen von Joschafats Bündnis mit Ahab: Sein Sohn Joram hat Atalja, die Tochter Ahabs, geheiratet. Und Joram wird wie Ahab.
+> Joram ermordet alle seine sechs Brüder. Zwei von ihnen heißen Asarja, wahrscheinlich mit leicht verschiedener Schreibweise im Hebräischen.
+> Joschafat wird hier „König von Israel“ genannt. Für die Chronik ist Juda das wahre Israel.
+> Die „Lampe“ ist ein Bild: Solange in einem Haus eine Lampe brennt, lebt dort noch jemand. Gott verspricht: Davids Familie stirbt nicht aus. Trotz eines so schlimmen Königs hält Gott seine Treue. Christen sehen hier einen Hinweis auf Jesus, den Nachkommen Davids.
+> Joram regierte etwa von 848 bis 841 vor Christus.
+
+---
+
+### Edom und Libna fallen ab (Vers 8–11)
+
+<sup>8</sup>In seinen Tagen fiel Edom von der Herrschaft Judas ab
+und setzte sich einen eigenen König ein.
+<sup>9</sup>Da zog Joram mit seinen Anführern hinüber
+und alle seine Wagen mit ihm.
+Er machte sich in der Nacht auf
+und schlug die Edomiter, die ihn umzingelt hatten,
+und die Anführer der Wagen.
+<sup>10</sup>So ist Edom von der Herrschaft Judas abgefallen bis zum heutigen Tag.
+Damals, zur selben Zeit, fiel auch Libna von seiner Herrschaft ab,
+weil er den HERRN, den Gott seiner Väter, verlassen hatte.
+<sup>11</sup>Außerdem machte er Opferhöhen auf den Bergen Judas,
+verführte die Bewohner Jerusalems zur Untreue
+und brachte Juda auf Abwege.
+
+> **Was bedeutet das?**
+> Diese Ereignisse stehen auch in 2. Könige 8,20–22.
+> Libna war eine Stadt im Westen von Juda, an der Grenze zu den Philistern.
+> Die Chronik nennt den Grund: Joram hatte Gott verlassen. Wer Gott verlässt, verliert auch Halt in anderen Dingen.
+> „Zur Untreue verführen“: Wörtlich steht da „huren lassen“. Das ist ein Bild aus der Bibel für Götzendienst. Das Volk war mit Gott wie in einer Ehe verbunden. Wer anderen Göttern dient, bricht diese Ehe.
+
+---
+
+### Ein Brief von Elija (Vers 12–15)
+
+<sup>12</sup>Da kam ein Brief zu ihm von dem Propheten Elija:
+„So spricht der HERR, der Gott deines Vaters David:
+‚Du bist nicht auf den Wegen deines Vaters Joschafat gegangen
+und nicht auf den Wegen Asas, des Königs von Juda,
+<sup>13</sup>sondern du bist auf dem Weg der Könige von Israel gegangen.
+Du hast Juda und die Bewohner Jerusalems zur Untreue verführt,
+wie es das Haus Ahab getan hat.
+Und du hast auch deine Brüder getötet, die Familie deines Vaters,
+die besser waren als du.
+<sup>14</sup>Schau, darum wird der HERR dein Volk mit einer großen Plage schlagen,
+auch deine Kinder, deine Frauen und deinen ganzen Besitz.
+<sup>15</sup>Und du wirst schwer krank werden, mit einer Krankheit deiner Eingeweide,
+bis deine Eingeweide wegen der Krankheit heraustreten,
+Tag für Tag.‘“
+
+> **Was bedeutet das?**
+> Das ist das einzige Mal, dass die Chronik den Propheten Elija nennt. Und es ist das einzige Mal, dass Elija etwas Schriftliches sendet.
+> Das ist eine schwierige Stelle. Nach 2. Könige 2–3 wurde Elija schon zur Zeit Joschafats in den Himmel aufgenommen. Es gibt verschiedene Erklärungen: Vielleicht schrieb Elija den Brief schon vorher, weil er ahnte, was kommen würde. Oder die Regierungszeiten überlappten sich, weil Joram schon zu Lebzeiten seines Vaters mitregierte. Oder ein Schüler Elijas schrieb in seinem Namen. Ganz sicher weiß man es nicht.
+> Elija hatte schon gegen Ahab gekämpft. Jetzt kämpft er auch gegen Ahabs Einfluss in Juda.
+
+---
+
+### Jorams Ende (Vers 16–20)
+
+<sup>16</sup>Der HERR weckte gegen Joram den Geist der Philister
+und der Araber, die neben den Kuschiten wohnen.
+<sup>17</sup>Sie zogen gegen Juda herauf, brachen ein
+und führten den ganzen Besitz weg, der sich im Haus des Königs fand,
+auch seine Söhne und seine Frauen.
+Ihm blieb kein Sohn außer Joahas, dem jüngsten seiner Söhne.
+<sup>18</sup>Nach all dem schlug ihn der HERR in seinen Eingeweiden
+mit einer unheilbaren Krankheit.
+<sup>19</sup>Mit der Zeit, am Ende von zwei Jahren,
+traten seine Eingeweide wegen seiner Krankheit heraus,
+und er starb unter schweren Schmerzen.
+Sein Volk machte für ihn kein Feuer,
+wie das Feuer für seine Väter.
+<sup>20</sup>Er war 32 Jahre alt, als er König wurde,
+und er regierte acht Jahre in Jerusalem.
+Er ging dahin, ohne dass jemand ihn vermisste.
+Man begrub ihn in der Stadt Davids,
+aber nicht in den Gräbern der Könige.
+
+> **Was bedeutet das?**
+> Joram hatte seine Brüder getötet. Jetzt verliert er selbst seine Söhne. Nur der Jüngste bleibt. Joahas heißt in Kapitel 22,1 „Ahasja“. Beide Namen bedeuten fast dasselbe: „Der HERR hat ergriffen“.
+> „Kuschiten“: In der englischen Vorlage steht „Äthiopier“.
+> Das „Feuer“ ist das Ehrenfeuer mit Gewürzen, wie bei Asa (Kapitel 16,14). Joram bekam diese Ehre nicht.
+> Vers 20 ist ein trauriges Urteil: „Er ging dahin, ohne dass jemand ihn vermisste.“ Niemand trauerte um ihn. Ein Leben, das nur auf Macht und Gewalt gebaut war, hinterlässt keine Liebe.
+> Die Bibel sagt hier nicht, dass jede Krankheit eine Strafe ist. Jesus hat das ausdrücklich abgelehnt (Johannes 9,1–3). Hier geht es um diesen einen König und sein Gericht.
