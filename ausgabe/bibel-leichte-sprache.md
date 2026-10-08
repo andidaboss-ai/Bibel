@@ -53699,7 +53699,7 @@ und den Palast baut, für den ich vorgesorgt habe.“
 
 > **Was bedeutet das?**
 > Das ist eines der schönsten Gebete der Bibel.
-> Vers 11 klingt vertraut: „Dein ist das Reich und die Kraft und die Herrlichkeit.“ Mit diesen Worten endet das Vaterunser in vielen Kirchen. Dieser Schluss stammt aus diesem Gebet Davids.
+> Vers 11 klingt vertraut: „Dein ist das Reich und die Kraft und die Herrlichkeit.“ Mit diesen Worten endet das Vaterunser in vielen Kirchen. Dieser Schluss ist an dieses Gebet Davids angelehnt.
 > Vers 14 ist der Kern: „Von dir kommt alles, und aus deiner Hand haben wir dir gegeben.“ Wenn wir Gott etwas geben, geben wir ihm nur zurück, was er uns vorher geschenkt hat. Dieser Satz wird bis heute in vielen Gottesdiensten bei der Kollekte gesprochen.
 > Vers 15: „Wir sind Fremde und Gäste. Unsere Tage sind wie ein Schatten.“ Der mächtige König weiß: Das Leben ist kurz. Alles, was wir haben, ist nur geliehen.
 > Am Ende betet David nicht um mehr Reichtum, sondern um ein Herz, das auf Gott ausgerichtet bleibt, für das Volk und für seinen Sohn.
