@@ -47750,3 +47750,462 @@ Und sein Sohn Amazja wurde an seiner Stelle König.
 > Joasch, der als Kind wunderbar gerettet wurde, wird am Ende von seinen eigenen Dienern ermordet. Nach 2. Chronik 24,25 geschah das als Rache für den Sohn des Priesters Jojada, den Joasch hatte töten lassen.
 > Joaschs Leben zeigt: Ein guter Anfang mit einem guten Lehrer ist ein großes Geschenk. Aber jeder muss selbst Gott treu bleiben, auch wenn der Lehrer nicht mehr da ist.
 > Wo „Millo“ und „Silla“ genau lagen, weiß man nicht. Millo war wohl eine Befestigung in Jerusalem.
+
+## 2. Könige – Kapitel 13
+#### Elisas letzte Prophezeiung
+
+---
+
+### Joahas, König von Israel (Vers 1–9)
+
+<sup>1</sup>Im 23. Jahr des Joasch, des Sohnes Ahasjas, des Königs von Juda,
+wurde Joahas, der Sohn Jehus, König über Israel in Samaria, für 17 Jahre.
+<sup>2</sup>Er tat, was in den Augen des HERRN böse war,
+und folgte den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+Er ließ nicht davon ab.
+<sup>3</sup>Da entbrannte der Zorn des HERRN gegen Israel.
+Er gab sie immer wieder in die Hand Hasaëls, des Königs von Syrien,
+und in die Hand Ben-Hadads, des Sohnes Hasaëls.
+<sup>4</sup>Joahas flehte zum HERRN,
+und der HERR hörte auf ihn,
+denn er sah die Bedrängnis Israels,
+wie der König von Syrien sie bedrängte.
+<sup>5</sup>– Der HERR gab Israel einen Retter,
+sodass sie aus der Hand der Syrer herauskamen.
+Und die Israeliten wohnten wieder in ihren Zelten wie früher.
+<sup>6</sup>Doch sie ließen nicht von den Sünden des Hauses Jerobeams ab,
+zu denen er Israel verführt hatte,
+sondern lebten weiter darin.
+Auch die Aschera blieb in Samaria stehen. –
+<sup>7</sup>Denn er hatte Joahas vom Volk nicht mehr übrig gelassen
+als fünfzig Reiter, zehn Wagen und 10 000 Fußsoldaten.
+Denn der König von Syrien hatte sie vernichtet
+und sie gemacht wie Staub beim Dreschen.
+<sup>8</sup>Was sonst noch von Joahas zu erzählen ist,
+alles, was er getan hat, und seine Stärke,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>9</sup>Joahas legte sich zu seinen Vätern,
+und sie begruben ihn in Samaria.
+Und sein Sohn Joasch wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Unter Jehus Sohn Joahas wird Israel von Syrien fast vernichtet. Vom Heer bleiben nur zehn Wagen übrig. Zum Vergleich: Ahab hatte noch 2000 Streitwagen.
+> Joahas betet in seiner Not, und Gott hört ihn, obwohl er kein guter König ist. Gottes Erbarmen ist größer als unser Verdienst.
+> Wer der „Retter“ war, sagt der Text nicht. Vielleicht ist der spätere König Jerobeam II. gemeint. Oder der assyrische König, der Syrien angriff und so Israel Luft verschaffte.
+> Vers 5–6 stehen in Klammern: Sie sind ein Einschub mitten im Bericht.
+> Joahas regierte etwa von 814 bis 798 vor Christus.
+
+---
+
+### Joasch, König von Israel (Vers 10–13)
+
+<sup>10</sup>Im 37. Jahr des Joasch, des Königs von Juda,
+wurde Joasch, der Sohn des Joahas, König über Israel in Samaria, für 16 Jahre.
+<sup>11</sup>Er tat, was in den Augen des HERRN böse war.
+Er ließ nicht ab von allen Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte,
+sondern lebte darin.
+<sup>12</sup>Was sonst noch von Joasch zu erzählen ist,
+alles, was er getan hat, und seine Stärke, mit der er gegen Amazja, den König von Juda, kämpfte,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>13</sup>Joasch legte sich zu seinen Vätern,
+und Jerobeam setzte sich auf seinen Thron.
+Joasch wurde in Samaria bei den Königen von Israel begraben.
+
+> **Was bedeutet das?**
+> Wieder eine Verwirrung bei den Namen: Zur selben Zeit hieß der König von Juda Joasch, und der König von Israel auch. Beide werden manchmal auch „Joas“ oder „Jehoasch“ genannt.
+> Hier wird schon das Ende von Joasch erzählt. Danach geht der Text noch einmal zurück und erzählt eine Geschichte aus seiner Zeit.
+> Joasch von Israel regierte etwa von 798 bis 782 vor Christus.
+
+---
+
+### Die Pfeile des Sieges (Vers 14–19)
+
+<sup>14</sup>Elisa wurde krank, an der Krankheit, an der er sterben sollte.
+Joasch, der König von Israel, kam zu ihm hinab,
+weinte über ihm und sagte:
+„Mein Vater, mein Vater!
+Du Wagen Israels und seine Reiter!“
+<sup>15</sup>Elisa sagte zu ihm:
+„Nimm Bogen und Pfeile.“
+Und er nahm sich Bogen und Pfeile.
+<sup>16</sup>Er sagte zum König von Israel:
+„Leg deine Hand auf den Bogen.“
+Und er legte seine Hand darauf.
+Elisa legte seine Hände auf die Hände des Königs.
+<sup>17</sup>Er sagte:
+„Öffne das Fenster nach Osten.“
+Und er öffnete es.
+Da sagte Elisa:
+„Schieß!“
+Und er schoss.
+Er sagte:
+„Ein Pfeil des Sieges vom HERRN,
+ein Pfeil des Sieges gegen Syrien!
+Du wirst die Syrer bei Afek schlagen, bis du sie vernichtet hast.“
+<sup>18</sup>Er sagte:
+„Nimm die Pfeile.“
+Und er nahm sie.
+Er sagte zum König von Israel:
+„Schlag auf den Boden.“
+Er schlug dreimal und hörte dann auf.
+<sup>19</sup>Da wurde der Mann Gottes zornig über ihn und sagte:
+„Du hättest fünf- oder sechsmal schlagen sollen.
+Dann hättest du Syrien geschlagen, bis du es vernichtet hättest.
+Aber jetzt wirst du Syrien nur dreimal schlagen.“
+
+> **Was bedeutet das?**
+> Elisa ist alt und sterbenskrank. Der König weint und sagt dieselben Worte, die Elisa einst beim Abschied von Elija gerufen hat (Kapitel 2,12). Elisa war Israels wahre Stärke.
+> Elisas letzte Prophezeiung ist eine Zeichenhandlung. Er legt seine Hände auf die Hände des Königs: Der Sieg kommt von Gott, nicht aus eigener Kraft.
+> Der Pfeil fliegt nach Osten, in Richtung Syrien.
+> Dann soll der König mit den Pfeilen auf den Boden schlagen. Aber er schlägt nur dreimal, halbherzig. Elisa ist enttäuscht. Die Lehre: Wer nur zaghaft vertraut, bekommt auch nur einen Teil. Gott lädt uns ein, mit ganzem Herzen zu glauben und zu handeln.
+
+---
+
+### Elisas Tod und seine Knochen (Vers 20–21)
+
+<sup>20</sup>Elisa starb, und man begrub ihn.
+Streifscharen der Moabiter kamen jedes Jahr zu Beginn des Jahres ins Land.
+<sup>21</sup>Als man gerade einen Mann begrub,
+schau, da sahen sie eine Streifschar.
+Da warfen sie den Mann in das Grab Elisas.
+Sobald der Mann die Knochen Elisas berührte,
+wurde er lebendig und stellte sich auf seine Füße.
+
+> **Was bedeutet das?**
+> Elisa stirbt. Anders als Elija wird er nicht in den Himmel geholt. Er stirbt wie alle Menschen.
+> Aber sogar nach seinem Tod geschieht noch ein Wunder: Ein Toter, der in sein Grab geworfen wird, wird lebendig. Gottes Kraft wirkt über den Tod hinaus.
+> Das Wunder kommt nicht aus den Knochen selbst. Es ist ein Zeichen dafür, dass Gott der Herr über Leben und Tod ist.
+> „Zu Beginn des Jahres“ heißt: im Frühling, wenn Kriegszüge und Raubzüge begannen.
+> Diese Stelle wurde später oft herangezogen, um die Verehrung von Reliquien zu begründen. Christen verschiedener Konfessionen sehen das unterschiedlich.
+
+---
+
+### Gott hat Erbarmen mit Israel (Vers 22–25)
+
+<sup>22</sup>Hasaël, der König von Syrien, bedrängte Israel, solange Joahas lebte.
+<sup>23</sup>Aber der HERR war ihnen gnädig,
+hatte Erbarmen mit ihnen und wandte sich ihnen zu,
+wegen seines Bundes mit Abraham, Isaak und Jakob.
+Er wollte sie nicht vernichten
+und verstieß sie bis dahin nicht von seinem Angesicht.
+<sup>24</sup>Hasaël, der König von Syrien, starb,
+und sein Sohn Ben-Hadad wurde an seiner Stelle König.
+<sup>25</sup>Joasch, der Sohn des Joahas, nahm Ben-Hadad, dem Sohn Hasaëls,
+die Städte wieder ab,
+die dieser seinem Vater Joahas im Krieg weggenommen hatte.
+Dreimal schlug Joasch ihn
+und gewann die Städte Israels zurück.
+
+> **Was bedeutet das?**
+> Vers 23 ist ein großes Wort der Hoffnung: Gott erinnert sich an seinen Bund mit Abraham, Isaak und Jakob. Auch wenn das Volk untreu ist, bleibt Gott treu.
+> „Bis dahin“ ist ein leiser, trauriger Hinweis: Etwa 60 Jahre später wird das Nordreich doch untergehen.
+> Elisas Wort erfüllt sich genau: Joasch siegt dreimal über Syrien, nicht öfter.
+
+## 2. Könige – Kapitel 14
+#### Amazja von Juda und Jerobeam II. von Israel
+
+---
+
+### Amazja, König von Juda (Vers 1–7)
+
+<sup>1</sup>Im zweiten Jahr des Joasch, des Sohnes des Joahas, des Königs von Israel,
+wurde Amazja, der Sohn des Joasch, König von Juda.
+<sup>2</sup>Er war 25 Jahre alt, als er König wurde,
+und er regierte 29 Jahre in Jerusalem.
+Seine Mutter hieß Joaddan, aus Jerusalem.
+<sup>3</sup>Er tat, was in den Augen des HERRN recht war,
+aber nicht wie sein Vater David.
+Er tat alles so, wie sein Vater Joasch getan hatte.
+<sup>4</sup>Doch die Opferhöhen wurden nicht entfernt.
+Das Volk opferte und verbrannte noch Weihrauch auf den Opferhöhen.
+<sup>5</sup>Sobald das Königreich fest in seiner Hand war,
+tötete er seine Diener, die seinen Vater, den König, erschlagen hatten.
+<sup>6</sup>Aber die Kinder der Mörder tötete er nicht,
+wie es im Buch des Gesetzes des Mose geschrieben steht,
+wo der HERR geboten hat:
+„Die Väter sollen nicht für die Kinder getötet werden,
+und die Kinder sollen nicht für die Väter getötet werden,
+sondern jeder soll für seine eigene Sünde sterben.“
+<sup>7</sup>Er schlug 10 000 Edomiter im Salztal
+und eroberte Sela im Krieg
+und nannte es Jokteël, bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Amazja ist ein recht guter König, aber nicht so treu wie David.
+> Vers 6 ist bemerkenswert: Damals war es üblich, auch die Familie eines Verbrechers zu töten, damit niemand Rache nimmt. Amazja hält sich an Gottes Gesetz (5. Mose 24,16): Jeder ist nur für seine eigene Schuld verantwortlich. Das war ein großer Fortschritt für die Gerechtigkeit. Auch heute ist das ein Grundsatz unseres Rechts: Es gibt keine Sippenhaft.
+> Das Salztal liegt wohl südlich des Toten Meeres. Sela heißt „Fels“. Wo es genau lag, ist nicht sicher.
+
+---
+
+### Der Distelstrauch und die Zeder (Vers 8–14)
+
+<sup>8</sup>Dann schickte Amazja Boten zu Joasch, dem Sohn des Joahas, des Sohnes Jehus, dem König von Israel,
+und ließ ihm sagen:
+„Komm, wir wollen uns ins Gesicht sehen.“
+<sup>9</sup>Joasch, der König von Israel, schickte zu Amazja, dem König von Juda, und ließ ihm sagen:
+„Die Distel auf dem Libanon schickte zur Zeder auf dem Libanon und ließ ihr sagen:
+‚Gib deine Tochter meinem Sohn zur Frau.‘
+Da lief ein wildes Tier auf dem Libanon vorbei
+und zertrat die Distel.
+<sup>10</sup>Du hast Edom geschlagen,
+und dein Herz ist hochmütig geworden.
+Genieß deinen Ruhm und bleib zu Hause.
+Warum willst du das Unglück herausfordern,
+sodass du fällst, du und Juda mit dir?“
+<sup>11</sup>Aber Amazja wollte nicht hören.
+Da zog Joasch, der König von Israel, herauf.
+Er und Amazja, der König von Juda, sahen sich ins Gesicht
+bei Bet-Schemesch, das zu Juda gehört.
+<sup>12</sup>Juda wurde von Israel geschlagen,
+und jeder floh zu seinem Zelt.
+<sup>13</sup>Joasch, der König von Israel, nahm Amazja, den König von Juda,
+den Sohn des Joasch, des Sohnes Ahasjas, bei Bet-Schemesch gefangen.
+Dann kam er nach Jerusalem
+und riss die Mauer Jerusalems nieder,
+vom Tor Efraim bis zum Ecktor, etwa 180 Meter.
+<sup>14</sup>Er nahm alles Gold und Silber
+und alle Geräte, die sich im Haus des HERRN
+und in den Schätzen des Hauses des Königs fanden,
+dazu Geiseln,
+und kehrte nach Samaria zurück.
+
+> **Was bedeutet das?**
+> Amazja ist nach seinem Sieg über Edom übermütig geworden. Er fordert den König von Israel zum Kampf heraus. „Wir wollen uns ins Gesicht sehen“ heißt: Lass uns kämpfen.
+> Joasch antwortet mit einer Fabel: Eine kleine Distel will mit der großen Zeder auf Augenhöhe sein, und wird zertreten. Er meint: Du überschätzt dich.
+> „Hochmut kommt vor dem Fall“ (vgl. Sprüche 16,18). Amazja hört nicht und verliert alles.
+> Zum ersten Mal wird Jerusalem von einem König aus Israel erobert. Ein Bruderkrieg.
+> In der Bibel steht „400 Ellen“. Eine Elle sind etwa 45 Zentimeter.
+
+---
+
+### Joaschs Tod und Amazjas Ende (Vers 15–22)
+
+<sup>15</sup>Was sonst noch von Joasch zu erzählen ist, was er getan hat und seine Stärke
+und wie er gegen Amazja, den König von Juda, gekämpft hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>16</sup>Joasch legte sich zu seinen Vätern
+und wurde in Samaria bei den Königen von Israel begraben.
+Und sein Sohn Jerobeam wurde an seiner Stelle König.
+<sup>17</sup>Amazja, der Sohn des Joasch, der König von Juda,
+lebte nach dem Tod des Joasch, des Sohnes des Joahas, des Königs von Israel, noch 15 Jahre.
+<sup>18</sup>Was sonst noch von Amazja zu erzählen ist,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>19</sup>Man zettelte in Jerusalem eine Verschwörung gegen ihn an.
+Er floh nach Lachisch.
+Aber man schickte ihm Leute nach Lachisch nach und tötete ihn dort.
+<sup>20</sup>Man brachte ihn auf Pferden zurück,
+und er wurde in Jerusalem bei seinen Vätern in der Stadt Davids begraben.
+<sup>21</sup>Das ganze Volk von Juda nahm Asarja, der 16 Jahre alt war,
+und machte ihn zum König an Stelle seines Vaters Amazja.
+<sup>22</sup>Er baute Elat aus und brachte es an Juda zurück,
+nachdem der König sich zu seinen Vätern gelegt hatte.
+
+> **Was bedeutet das?**
+> Auch Amazja wird ermordet, wie schon sein Vater Joasch. Lachisch war eine große Festungsstadt im Südwesten Judas.
+> Asarja wird mit 16 Jahren König. Er heißt auch Usija (Kapitel 15,13). Elat liegt am Roten Meer, am Golf von Akaba. Damit hat Juda wieder einen Hafen.
+> „Nachdem der König sich zu seinen Vätern gelegt hatte“: Gemeint ist wohl Amazja. Asarja baute Elat nach dem Tod seines Vaters aus.
+> Amazja regierte etwa von 796 bis 767 vor Christus.
+
+---
+
+### Jerobeam II., König von Israel (Vers 23–29)
+
+<sup>23</sup>Im 15. Jahr Amazjas, des Sohnes des Joasch, des Königs von Juda,
+wurde Jerobeam, der Sohn des Joasch, König von Israel in Samaria, für 41 Jahre.
+<sup>24</sup>Er tat, was in den Augen des HERRN böse war.
+Er ließ nicht ab von allen Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+<sup>25</sup>Er stellte die Grenze Israels wieder her,
+von Lebo-Hamat bis an das Meer der Araba,
+nach dem Wort des HERRN, des Gottes Israels,
+das er durch seinen Knecht, den Propheten Jona, den Sohn Amittais, aus Gat-Hefer gesagt hatte.
+<sup>26</sup>Denn der HERR sah die Not Israels,
+dass sie sehr bitter war für alle, für Sklaven und Freie,
+und dass Israel keinen Helfer hatte.
+<sup>27</sup>Der HERR hatte nicht gesagt, dass er den Namen Israels unter dem Himmel auslöschen wollte.
+Darum rettete er sie durch die Hand Jerobeams, des Sohnes des Joasch.
+<sup>28</sup>Was sonst noch von Jerobeam zu erzählen ist,
+alles, was er getan hat, und seine Stärke, wie er gekämpft hat
+und wie er Damaskus und Hamat, die zu Juda gehört hatten, für Israel zurückgewann,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>29</sup>Jerobeam legte sich zu seinen Vätern, zu den Königen von Israel.
+Und sein Sohn Secharja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jerobeam II. ist einer der erfolgreichsten Könige des Nordreichs. Er regiert sehr lange und erobert viel Land zurück. Israel ist wieder groß, fast wie zur Zeit Salomos.
+> Trotzdem urteilt die Bibel kurz: „Er tat, was böse war.“ Erfolg und Reichtum sind kein Zeichen dafür, dass jemand Gott treu ist.
+> Hier wird der Prophet Jona erwähnt. Er ist derselbe Jona, von dem das Buch Jona erzählt. Gat-Hefer lag in Galiläa, nahe beim späteren Nazaret.
+> In dieser Zeit wirkten auch die Propheten Amos und Hosea. Sie kritisierten scharf, dass die Reichen in Luxus lebten, während die Armen unterdrückt wurden (Amos 6,4–6).
+> Vers 26–27 zeigen Gottes Erbarmen: Er sah die Not und half, obwohl der König ihm nicht treu war.
+> „Das Meer der Araba“ ist das Tote Meer. „Lebo-Hamat“ heißt in der englischen Vorlage „Eingang von Hamat“. Gemeint ist der äußerste Norden.
+> Vers 28 ist schwer zu verstehen: Damaskus und Hamat gehörten früher zum Reich Davids und Salomos. Darum steht hier wohl „zu Juda“.
+> Jerobeam II. regierte etwa von 793 bis 753 vor Christus. Die Jahre überschneiden sich mit denen seines Vaters, weil er wohl einige Jahre gemeinsam mit ihm regierte.
+
+## 2. Könige – Kapitel 15
+#### Könige in schneller Folge
+
+---
+
+### Asarja (Usija), König von Juda (Vers 1–7)
+
+<sup>1</sup>Im 27. Jahr Jerobeams, des Königs von Israel,
+wurde Asarja, der Sohn Amazjas, König von Juda.
+<sup>2</sup>Er war 16 Jahre alt, als er König wurde,
+und er regierte 52 Jahre in Jerusalem.
+Seine Mutter hieß Jecholja, aus Jerusalem.
+<sup>3</sup>Er tat, was in den Augen des HERRN recht war,
+ganz so, wie sein Vater Amazja getan hatte.
+<sup>4</sup>Doch die Opferhöhen wurden nicht entfernt.
+Das Volk opferte und verbrannte noch Weihrauch auf den Opferhöhen.
+<sup>5</sup>Der HERR schlug den König,
+sodass er bis zu seinem Todestag aussätzig war.
+Er wohnte in einem abgesonderten Haus.
+Jotam, der Sohn des Königs, war über den Palast gesetzt
+und richtete das Volk des Landes.
+<sup>6</sup>Was sonst noch von Asarja zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>7</sup>Asarja legte sich zu seinen Vätern,
+und sie begruben ihn bei seinen Vätern in der Stadt Davids.
+Und sein Sohn Jotam wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Asarja wird auch Usija genannt. Er regierte sehr lange und erfolgreich. In 2. Chronik 26 wird mehr über ihn erzählt: Er wurde mächtig, dann aber hochmütig. Er wollte selbst im Tempel Weihrauch opfern, was nur Priester durften. Daraufhin wurde er aussätzig.
+> Weil er aussätzig war, musste er getrennt leben. Sein Sohn Jotam regierte für ihn.
+> Im Todesjahr des Königs Usija hatte der Prophet Jesaja seine große Berufungsvision im Tempel (Jesaja 6,1).
+> In Jerusalem wurde eine Steintafel gefunden, die viel später angefertigt wurde. Darauf steht auf Aramäisch, dass hier die Gebeine Usijas, des Königs von Juda, hingebracht wurden. Sie ist heute im Israel-Museum.
+> Asarja (Usija) regierte etwa von 792 bis 740 vor Christus, zum Teil zusammen mit seinem Vater und seinem Sohn.
+
+---
+
+### Secharja und Schallum, Könige von Israel (Vers 8–16)
+
+<sup>8</sup>Im 38. Jahr Asarjas, des Königs von Juda,
+wurde Secharja, der Sohn Jerobeams, König über Israel in Samaria, für sechs Monate.
+<sup>9</sup>Er tat, was in den Augen des HERRN böse war, wie seine Väter.
+Er ließ nicht ab von den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+<sup>10</sup>Schallum, der Sohn des Jabesch, verschwor sich gegen ihn,
+schlug ihn vor dem Volk, tötete ihn
+und wurde an seiner Stelle König.
+<sup>11</sup>Was sonst noch von Secharja zu erzählen ist,
+schau, das steht im Buch der Chronik der Könige von Israel geschrieben.
+<sup>12</sup>Das war das Wort des HERRN, das er zu Jehu gesagt hatte:
+„Deine Söhne sollen bis in die vierte Generation auf dem Thron Israels sitzen.“
+Und so geschah es.
+<sup>13</sup>Schallum, der Sohn des Jabesch, wurde König im 39. Jahr Usijas, des Königs von Juda.
+Er regierte einen Monat in Samaria.
+<sup>14</sup>Da zog Menahem, der Sohn Gadis, von Tirza herauf,
+kam nach Samaria,
+schlug Schallum, den Sohn des Jabesch, in Samaria,
+tötete ihn und wurde an seiner Stelle König.
+<sup>15</sup>Was sonst noch von Schallum zu erzählen ist und seine Verschwörung, die er angezettelt hat,
+schau, das steht im Buch der Chronik der Könige von Israel geschrieben.
+<sup>16</sup>Damals schlug Menahem Tifsach
+und alle, die darin waren, und ihr Gebiet, von Tirza aus.
+Er schlug sie, weil sie ihm die Tore nicht geöffnet hatten.
+Und alle ihre schwangeren Frauen schlitzte er auf.
+
+> **Was bedeutet das?**
+> Mit Secharja endet die Familie Jehus nach vier Generationen, genau wie Gott gesagt hatte.
+> Danach beginnt das Chaos im Nordreich: Secharja regiert sechs Monate, Schallum nur einen Monat. Jeder wird von seinem Nachfolger ermordet. Der Prophet Hosea klagt in dieser Zeit: „Sie setzen Könige ein, aber nicht durch mich“ (Hosea 8,4).
+> Menahem begeht ein furchtbares Kriegsverbrechen an einer Stadt, die sich ihm nicht ergeben wollte. Die Bibel nennt es ohne Beschönigung. Solche Grausamkeit gegen Wehrlose, besonders gegen Frauen und ungeborene Kinder, ist durch nichts zu rechtfertigen.
+> Wo Tifsach lag, ist unsicher. Manche alte Übersetzungen haben hier „Tappuach“, eine Stadt in Israel.
+
+---
+
+### Menahem und die Assyrer (Vers 17–22)
+
+<sup>17</sup>Im 39. Jahr Asarjas, des Königs von Juda,
+wurde Menahem, der Sohn Gadis, König über Israel, für zehn Jahre in Samaria.
+<sup>18</sup>Er tat, was in den Augen des HERRN böse war.
+Er ließ sein Leben lang nicht ab von den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+<sup>19</sup>Pul, der König von Assyrien, fiel in das Land ein.
+Menahem gab Pul etwa 34 Tonnen Silber,
+damit er ihm half, das Königreich in seiner Hand zu festigen.
+<sup>20</sup>Menahem trieb das Geld von Israel ein,
+von allen reichen Leuten,
+von jedem Mann etwa 550 Gramm Silber,
+um es dem König von Assyrien zu geben.
+Da kehrte der König von Assyrien um
+und blieb nicht dort im Land.
+<sup>21</sup>Was sonst noch von Menahem zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>22</sup>Menahem legte sich zu seinen Vätern,
+und sein Sohn Pekachja wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jetzt tritt eine neue Großmacht auf: Assyrien, im Gebiet des heutigen Irak. Die Assyrer waren für ihre Grausamkeit gefürchtet.
+> „Pul“ ist ein anderer Name für Tiglat-Pileser III., der von 745 bis 727 vor Christus regierte. Er ist aus vielen assyrischen Inschriften bekannt. Darin wird auch erwähnt, dass „Menahem von Samaria“ ihm Tribut gezahlt hat.
+> In der Bibel steht „1000 Talente Silber“ (ein Talent sind etwa 34 Kilogramm) und „50 Schekel“ pro Mann (ein Schekel sind etwa 11 Gramm). Wenn man rechnet, mussten etwa 60 000 wohlhabende Männer bezahlen.
+> Menahem kauft sich Schutz. Damit wird Israel abhängig von Assyrien.
+
+---
+
+### Pekachja und Pekach, Könige von Israel (Vers 23–31)
+
+<sup>23</sup>Im 50. Jahr Asarjas, des Königs von Juda,
+wurde Pekachja, der Sohn Menahems, König über Israel in Samaria, für zwei Jahre.
+<sup>24</sup>Er tat, was in den Augen des HERRN böse war.
+Er ließ nicht ab von den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+<sup>25</sup>Pekach, der Sohn Remaljas, sein Offizier, verschwor sich gegen ihn
+und schlug ihn in Samaria, in der Burg des Königshauses,
+zusammen mit Argob und Arje.
+Bei ihm waren fünfzig Männer aus Gilead.
+Er tötete ihn und wurde an seiner Stelle König.
+<sup>26</sup>Was sonst noch von Pekachja zu erzählen ist und alles, was er getan hat,
+schau, das steht im Buch der Chronik der Könige von Israel geschrieben.
+<sup>27</sup>Im 52. Jahr Asarjas, des Königs von Juda,
+wurde Pekach, der Sohn Remaljas, König über Israel in Samaria, für zwanzig Jahre.
+<sup>28</sup>Er tat, was in den Augen des HERRN böse war.
+Er ließ nicht ab von den Sünden Jerobeams, des Sohnes Nebats,
+zu denen er Israel verführt hatte.
+<sup>29</sup>In den Tagen Pekachs, des Königs von Israel,
+kam Tiglat-Pileser, der König von Assyrien,
+und nahm Ijon, Abel-Bet-Maacha, Janoach, Kedesch, Hazor, Gilead und Galiläa ein,
+das ganze Land Naftali,
+und führte die Menschen gefangen nach Assyrien.
+<sup>30</sup>Hoschea, der Sohn Elas, zettelte eine Verschwörung gegen Pekach, den Sohn Remaljas, an.
+Er schlug ihn, tötete ihn und wurde an seiner Stelle König,
+im zwanzigsten Jahr Jotams, des Sohnes Usijas.
+<sup>31</sup>Was sonst noch von Pekach zu erzählen ist und alles, was er getan hat,
+schau, das steht im Buch der Chronik der Könige von Israel geschrieben.
+
+> **Was bedeutet das?**
+> Ein Königsmord folgt auf den nächsten.
+> Unter Pekach erobern die Assyrer den ganzen Norden Israels, Galiläa und das Land östlich des Jordan. Zum ersten Mal werden viele Israeliten nach Assyrien verschleppt. Das war etwa 733/732 vor Christus.
+> Das Nordreich wird immer kleiner. Es bleibt fast nur noch die Gegend um die Hauptstadt Samaria.
+> Der Prophet Jesaja spricht in dieser Zeit von dem „Land Sebulon und Naftali“, das „im Dunkel“ lebt, aber ein „großes Licht“ sehen wird (Jesaja 8,23–9,1). Matthäus bezieht dieses Wort auf Jesus, der in Galiläa zu wirken begann (Matthäus 4,13–16).
+> Die 20 Jahre Pekachs sind schwer einzuordnen. Vielleicht hat er schon vorher im Osten des Landes regiert, neben anderen Königen.
+> Auch Hoschea ist in assyrischen Inschriften erwähnt. Tiglat-Pileser behauptet dort, er habe Hoschea als König eingesetzt.
+
+---
+
+### Jotam, König von Juda (Vers 32–38)
+
+<sup>32</sup>Im zweiten Jahr Pekachs, des Sohnes Remaljas, des Königs von Israel,
+wurde Jotam, der Sohn Usijas, König von Juda.
+<sup>33</sup>Er war 25 Jahre alt, als er König wurde,
+und er regierte 16 Jahre in Jerusalem.
+Seine Mutter hieß Jeruscha, die Tochter Zadoks.
+<sup>34</sup>Er tat, was in den Augen des HERRN recht war.
+Er tat ganz so, wie sein Vater Usija getan hatte.
+<sup>35</sup>Doch die Opferhöhen wurden nicht entfernt.
+Das Volk opferte und verbrannte noch Weihrauch auf den Opferhöhen.
+Er baute das obere Tor am Haus des HERRN.
+<sup>36</sup>Was sonst noch von Jotam zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>37</sup>In diesen Tagen fing der HERR an,
+Rezin, den König von Syrien, und Pekach, den Sohn Remaljas, gegen Juda zu schicken.
+<sup>38</sup>Jotam legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt seines Vaters David begraben.
+Und sein Sohn Ahas wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jotam war ein guter König, wie sein Vater Usija.
+> Syrien und Israel verbünden sich gegen Juda. Sie wollen Juda zwingen, mit ihnen gegen Assyrien zu kämpfen. Das wird im nächsten Kapitel erzählt.
+> Im Vergleich zum Nordreich ist Juda stabiler: Dort folgen die Söhne auf ihre Väter, aus der Familie Davids. Im Norden dagegen gab es in nur etwa 20 Jahren sechs Könige, und vier davon wurden ermordet.
+> Jotam regierte etwa von 750 bis 735 vor Christus, zuerst für seinen kranken Vater.
