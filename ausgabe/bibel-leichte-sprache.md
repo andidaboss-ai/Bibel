@@ -53103,3 +53103,356 @@ das Oberhaupt einer Familie genauso wie sein jüngerer Bruder.
 > Der letzte Satz ist schön: „Das Oberhaupt genauso wie sein jüngerer Bruder.“ Vor dem Los waren alle gleich. Niemand wurde wegen seines Ranges bevorzugt.
 > Schubaël heißt in Kapitel 23,16 „Schebuël“. Die Liste ist eine Fortsetzung von Kapitel 23, mit einer Generation mehr.
 > Vers 26–27 sind im Hebräischen schwer verständlich. Jaasija wird sonst nirgends als Sohn Meraris genannt.
+
+## 1. Chronik – Kapitel 25
+#### Die Sänger im Tempel
+
+---
+
+### Die Familien der Sänger (Vers 1–7)
+
+<sup>1</sup>David und die Anführer des Heeres sonderten für den Dienst einige von den Söhnen Asafs, Hemans und Jedutuns aus.
+Sie sollten prophetisch reden mit Harfen, mit Zithern und mit Zimbeln.
+Die Zahl derer, die diese Arbeit in ihrem Dienst taten, war:
+<sup>2</sup>Von den Söhnen Asafs:
+Sakkur, Josef, Netanja und Asarela.
+Die Söhne Asafs standen unter der Leitung Asafs,
+der nach der Anordnung des Königs prophetisch redete.
+<sup>3</sup>Von Jedutun, die Söhne Jedutuns:
+Gedalja, Zeri, Jeschaja, Schimi, Haschabja und Mattitja, sechs,
+unter der Leitung ihres Vaters Jedutun,
+der mit der Harfe prophetisch redete, um dem HERRN zu danken und ihn zu loben.
+<sup>4</sup>Von Heman, die Söhne Hemans:
+Bukkija, Mattanja, Usiël, Schebuël, Jerimot,
+Hananja, Hanani, Eliata, Giddalti, Romamti-Eser,
+Joschbekascha, Malloti, Hotir und Machasiot.
+<sup>5</sup>Das alle waren Söhne Hemans,
+des Sehers des Königs in den Worten Gottes, um das Horn zu erheben.
+Gott gab Heman 14 Söhne und 3 Töchter.
+<sup>6</sup>Diese alle standen unter der Leitung ihres Vaters beim Gesang im Haus des HERRN,
+mit Zimbeln, Zithern und Harfen, für den Dienst im Haus Gottes.
+Asaf, Jedutun und Heman standen unter der Anordnung des Königs.
+<sup>7</sup>Ihre Zahl, zusammen mit ihren Brüdern,
+die im Gesang für den HERRN ausgebildet waren,
+alle, die es gut konnten,
+war 288.
+
+> **Was bedeutet das?**
+> Musik und Gesang im Tempel wurden „prophetisch“ genannt. Das heißt: Durch die Lieder sprach Gott zu den Menschen, und die Menschen sprachen zu Gott. Musik kann Menschen tief berühren und zu Gott führen.
+> Heman wird „Seher des Königs“ genannt. Er war Musiker und Prophet zugleich.
+> „Das Horn erheben“ ist ein Bild für Stärke und Ehre. Gott schenkte Heman eine große Familie.
+> Heman hatte auch drei Töchter. Nach Vers 6 sangen wohl alle seine Kinder mit, auch die Töchter.
+> Interessant: Die letzten Namen der Söhne Hemans (ab Hananja) ergeben im Hebräischen zusammen fast einen kleinen Gebetstext: „Sei mir gnädig, HERR, sei mir gnädig, du bist mein Gott. Ich habe groß gemacht und erhoben die Hilfe …“ Manche Fachleute denken, dass hier Anfangszeilen eines Psalms zu Namen wurden.
+> 288 ist 24 mal 12. So entstehen 24 Gruppen zu je 12 Sängern, wie die 24 Priesterabteilungen.
+
+---
+
+### Die 24 Gruppen der Sänger (Vers 8–31)
+
+<sup>8</sup>Sie warfen Lose für ihre Dienste,
+alle gleich, der Kleine wie der Große,
+der Lehrer wie der Schüler.
+<sup>9</sup>Das erste Los fiel für Asaf auf Josef.
+Das zweite auf Gedalja, ihn, seine Brüder und Söhne, zwölf.
+<sup>10</sup>Das dritte auf Sakkur, seine Söhne und Brüder, zwölf.
+<sup>11</sup>Das vierte auf Jizri, seine Söhne und Brüder, zwölf.
+<sup>12</sup>Das fünfte auf Netanja, seine Söhne und Brüder, zwölf.
+<sup>13</sup>Das sechste auf Bukkija, seine Söhne und Brüder, zwölf.
+<sup>14</sup>Das siebte auf Jesarela, seine Söhne und Brüder, zwölf.
+<sup>15</sup>Das achte auf Jeschaja, seine Söhne und Brüder, zwölf.
+<sup>16</sup>Das neunte auf Mattanja, seine Söhne und Brüder, zwölf.
+<sup>17</sup>Das zehnte auf Schimi, seine Söhne und Brüder, zwölf.
+<sup>18</sup>Das elfte auf Asarel, seine Söhne und Brüder, zwölf.
+<sup>19</sup>Das zwölfte auf Haschabja, seine Söhne und Brüder, zwölf.
+<sup>20</sup>Das dreizehnte auf Schubaël, seine Söhne und Brüder, zwölf.
+<sup>21</sup>Das vierzehnte auf Mattitja, seine Söhne und Brüder, zwölf.
+<sup>22</sup>Das fünfzehnte auf Jeremot, seine Söhne und Brüder, zwölf.
+<sup>23</sup>Das sechzehnte auf Hananja, seine Söhne und Brüder, zwölf.
+<sup>24</sup>Das siebzehnte auf Joschbekascha, seine Söhne und Brüder, zwölf.
+<sup>25</sup>Das achtzehnte auf Hanani, seine Söhne und Brüder, zwölf.
+<sup>26</sup>Das neunzehnte auf Malloti, seine Söhne und Brüder, zwölf.
+<sup>27</sup>Das zwanzigste auf Eliata, seine Söhne und Brüder, zwölf.
+<sup>28</sup>Das einundzwanzigste auf Hotir, seine Söhne und Brüder, zwölf.
+<sup>29</sup>Das zweiundzwanzigste auf Giddalti, seine Söhne und Brüder, zwölf.
+<sup>30</sup>Das dreiundzwanzigste auf Machasiot, seine Söhne und Brüder, zwölf.
+<sup>31</sup>Das vierundzwanzigste auf Romamti-Eser, seine Söhne und Brüder, zwölf.
+
+> **Was bedeutet das?**
+> Wieder entscheidet das Los, wie bei den Priestern. „Der Lehrer wie der Schüler“: Alle sind gleich, ob erfahren oder neu.
+> Jede Gruppe hatte zwölf Sänger. So gab es immer genug Musiker für den Gottesdienst.
+> Einige Namen sind leicht anders geschrieben als in Vers 2–4: Jizri ist Zeri, Jesarela ist Asarela, Asarel ist Usiël, Schubaël ist Schebuël, Jeremot ist Jerimot.
+> Bei der ersten Gruppe (Josef) fehlt die Angabe „zwölf“. Wahrscheinlich ist sie beim Abschreiben verloren gegangen.
+
+## 1. Chronik – Kapitel 26
+#### Torhüter, Schatzmeister und Beamte
+
+---
+
+### Die Familien der Torhüter (Vers 1–12)
+
+<sup>1</sup>Die Abteilungen der Torhüter:
+Von den Korachitern:
+Meschelemja, der Sohn Kores, von den Söhnen Asafs.
+<sup>2</sup>Meschelemja hatte Söhne:
+Secharja, der Erstgeborene,
+Jediaël, der zweite,
+Sebadja, der dritte,
+Jatniël, der vierte,
+<sup>3</sup>Elam, der fünfte,
+Johanan, der sechste,
+Eljoënai, der siebte.
+<sup>4</sup>Obed-Edom hatte Söhne:
+Schemaja, der Erstgeborene,
+Josabad, der zweite,
+Joach, der dritte,
+Sachar, der vierte,
+Netanel, der fünfte,
+<sup>5</sup>Ammiël, der sechste,
+Issachar, der siebte,
+Pëulletai, der achte.
+Denn Gott hatte ihn gesegnet.
+<sup>6</sup>Auch seinem Sohn Schemaja wurden Söhne geboren.
+Sie herrschten über ihre Familie,
+denn sie waren tapfere Männer.
+<sup>7</sup>Die Söhne Schemajas:
+Otni, Refaël, Obed und Elsabad,
+und seine Brüder, tüchtige Männer, Elihu und Semachja.
+<sup>8</sup>Diese alle waren von den Söhnen Obed-Edoms,
+sie, ihre Söhne und ihre Brüder,
+tüchtige Männer, stark für den Dienst:
+62 von Obed-Edom.
+<sup>9</sup>Meschelemja hatte Söhne und Brüder, 18 tüchtige Männer.
+<sup>10</sup>Auch Hosa, von den Söhnen Meraris, hatte Söhne:
+Schimri, das Oberhaupt
+– er war zwar nicht der Erstgeborene, aber sein Vater machte ihn zum Oberhaupt –,
+<sup>11</sup>Hilkija, der zweite,
+Tebalja, der dritte,
+Secharja, der vierte.
+Alle Söhne und Brüder Hosas waren 13.
+<sup>12</sup>Das waren die Abteilungen der Torhüter, nach den Oberhäuptern der Männer.
+Sie hatten Dienste wie ihre Brüder, um im Haus des HERRN zu dienen.
+
+> **Was bedeutet das?**
+> Die Torhüter bewachten die Eingänge des Tempels.
+> Obed-Edom, in dessen Haus die Lade drei Monate stand (Kapitel 13,14), wird hier mit vielen Söhnen gesegnet: „Denn Gott hatte ihn gesegnet.“ Der Segen der Lade ging auf seine ganze Familie über.
+> „Von den Söhnen Asafs“ in Vers 1 ist wohl ein anderer Asaf als der Sänger, nämlich Ebjasaf (Kapitel 9,19).
+> In Vers 10 macht Hosa nicht den Erstgeborenen, sondern einen anderen Sohn zum Oberhaupt. Vielleicht war der Erstgeborene gestorben oder nicht geeignet.
+
+---
+
+### Die Tore werden verlost (Vers 13–19)
+
+<sup>13</sup>Sie warfen Lose, der Kleine wie der Große, nach ihren Familien, für jedes Tor.
+<sup>14</sup>Das Los für den Osten fiel auf Schelemja.
+Dann warfen sie für seinen Sohn Secharja, einen klugen Ratgeber, Lose,
+und sein Los kam für den Norden heraus.
+<sup>15</sup>Für Obed-Edom der Süden,
+und für seine Söhne das Vorratshaus.
+<sup>16</sup>Für Schuppim und Hosa der Westen,
+beim Tor Schallechet, an der Straße, die hinaufführt,
+Wache neben Wache.
+<sup>17</sup>Im Osten waren täglich sechs Leviten,
+im Norden täglich vier,
+im Süden täglich vier,
+und beim Vorratshaus je zwei.
+<sup>18</sup>Beim Parbar im Westen:
+vier an der Straße und zwei am Parbar.
+<sup>19</sup>Das waren die Abteilungen der Torhüter,
+von den Söhnen der Korachiter und von den Söhnen Meraris.
+
+> **Was bedeutet das?**
+> Jede Seite des Tempels hatte ihre Torhüter. Im Osten, wo der Haupteingang war, standen die meisten.
+> Schelemja ist eine andere Form von Meschelemja.
+> „Parbar“ ist ein seltenes Wort. Es war wohl ein offener Anbau oder Vorhof an der Westseite des Tempels.
+> Was das Tor „Schallechet“ war, ist nicht bekannt.
+
+---
+
+### Die Schatzmeister (Vers 20–28)
+
+<sup>20</sup>Von den Leviten war Ahija über die Schätze des Hauses Gottes gesetzt
+und über die Schätze der geweihten Gaben.
+<sup>21</sup>Die Söhne Ladans,
+die Söhne der Gerschoniter, die zu Ladan gehörten,
+die Oberhäupter der Familien Ladans, des Gerschoniters:
+Jehiëli.
+<sup>22</sup>Die Söhne Jehiëlis:
+Setam und sein Bruder Joël.
+Sie waren über die Schätze des Hauses des HERRN gesetzt.
+<sup>23</sup>Von den Amramitern, den Jizharitern, den Hebronitern und den Usiëlitern:
+<sup>24</sup>Schebuël, der Sohn Gerschoms, des Sohnes Moses,
+war Vorsteher über die Schatzkammern.
+<sup>25</sup>Seine Brüder:
+von Eliëser:
+dessen Sohn Rehabja,
+dessen Sohn Jeschaja,
+dessen Sohn Joram,
+dessen Sohn Sichri,
+dessen Sohn Schelomot.
+<sup>26</sup>Dieser Schelomot und seine Brüder waren über alle Schatzkammern der geweihten Gaben gesetzt,
+die der König David,
+die Oberhäupter der Familien,
+die Anführer über Tausend und über Hundert
+und die Anführer des Heeres geweiht hatten.
+<sup>27</sup>Von der Beute aus den Kriegen hatten sie einiges geweiht,
+um das Haus des HERRN instand zu halten.
+<sup>28</sup>Auch alles, was Samuel, der Seher,
+Saul, der Sohn des Kisch,
+Abner, der Sohn Ners,
+und Joab, der Sohn der Zeruja, geweiht hatten,
+alles Geweihte stand unter der Aufsicht Schelomots und seiner Brüder.
+
+> **Was bedeutet das?**
+> Der Tempel hatte große Schätze. Ehrliche und zuverlässige Leviten verwalteten sie. Auch hier zeigt sich: Ordnung und Ehrlichkeit beim Geld sind im Gottesdienst wichtig.
+> Wieder werden Nachkommen Moses genannt, Schebuël und Schelomot. Sie hatten verantwortungsvolle Aufgaben.
+> Sogar Samuel, Saul, Abner und Joab hatten Gaben für den Tempel geweiht, lange bevor er gebaut wurde.
+
+---
+
+### Beamte im ganzen Land (Vers 29–32)
+
+<sup>29</sup>Von den Jizharitern
+wurden Kenanja und seine Söhne für die äußeren Aufgaben in Israel eingesetzt,
+als Beamte und Richter.
+<sup>30</sup>Von den Hebronitern
+hatten Haschabja und seine Brüder, 1700 tüchtige Männer,
+die Aufsicht über Israel diesseits des Jordan, im Westen,
+für alle Angelegenheiten des HERRN und für den Dienst des Königs.
+<sup>31</sup>Von den Hebronitern war Jerija das Oberhaupt,
+nach ihren Generationen und Familien.
+Im vierzigsten Jahr der Herrschaft Davids suchte man nach ihnen,
+und man fand unter ihnen tüchtige Männer in Jaser in Gilead.
+<sup>32</sup>Seine Brüder, tüchtige Männer, waren 2700 Oberhäupter von Familien.
+Der König David setzte sie über die Rubeniter, die Gaditer und den halben Stamm Manasse,
+für alle Angelegenheiten Gottes und für die Angelegenheiten des Königs.
+
+> **Was bedeutet das?**
+> Nicht alle Leviten arbeiteten im Tempel. Viele waren im ganzen Land als Beamte und Richter tätig. Sie kümmerten sich um religiöse Fragen und um Aufgaben für den König.
+> „Diesseits des Jordan, im Westen“: In der englischen Vorlage steht „jenseits des Jordan westwärts“. Gemeint ist das Land westlich des Jordan.
+> Im vierzigsten Jahr, also im letzten Jahr Davids, ordnete er das alles noch.
+
+## 1. Chronik – Kapitel 27
+#### Heerführer und Verwalter Davids
+
+---
+
+### Die zwölf Heeresabteilungen (Vers 1–15)
+
+<sup>1</sup>Die Israeliten nach ihrer Zahl:
+die Oberhäupter der Familien,
+die Anführer über Tausend und über Hundert
+und ihre Beamten, die dem König in allen Angelegenheiten der Abteilungen dienten.
+Die Abteilungen kamen und gingen Monat für Monat, alle Monate des Jahres.
+Jede Abteilung hatte 24 000 Mann.
+<sup>2</sup>Über die erste Abteilung, für den ersten Monat, war Jaschobam gesetzt, der Sohn Sabdiëls.
+In seiner Abteilung waren 24 000.
+<sup>3</sup>Er war von den Söhnen des Perez,
+das Oberhaupt aller Heerführer für den ersten Monat.
+<sup>4</sup>Über die Abteilung des zweiten Monats war Dodai, der Ahoachiter, mit seiner Abteilung,
+und Miklot war der Vorsteher.
+In seiner Abteilung waren 24 000.
+<sup>5</sup>Der dritte Heerführer, für den dritten Monat, war Benaja, der Sohn Jojadas, des obersten Priesters.
+In seiner Abteilung waren 24 000.
+<sup>6</sup>Das ist der Benaja, der ein Held unter den Dreißig und über den Dreißig war.
+Zu seiner Abteilung gehörte sein Sohn Ammisabad.
+<sup>7</sup>Der vierte, für den vierten Monat, war Asaël, der Bruder Joabs,
+und nach ihm sein Sohn Sebadja.
+In seiner Abteilung waren 24 000.
+<sup>8</sup>Der fünfte, für den fünften Monat, war der Anführer Schamhut, der Jisrachiter.
+In seiner Abteilung waren 24 000.
+<sup>9</sup>Der sechste, für den sechsten Monat, war Ira, der Sohn des Ikkesch, der Tekoiter.
+In seiner Abteilung waren 24 000.
+<sup>10</sup>Der siebte, für den siebten Monat, war Helez, der Peloniter, von den Söhnen Efraims.
+In seiner Abteilung waren 24 000.
+<sup>11</sup>Der achte, für den achten Monat, war Sibbechai, der Huschatiter, von den Serachitern.
+In seiner Abteilung waren 24 000.
+<sup>12</sup>Der neunte, für den neunten Monat, war Abiëser, der Anatotiter, von den Benjaminitern.
+In seiner Abteilung waren 24 000.
+<sup>13</sup>Der zehnte, für den zehnten Monat, war Mahrai, der Netofatiter, von den Serachitern.
+In seiner Abteilung waren 24 000.
+<sup>14</sup>Der elfte, für den elften Monat, war Benaja, der Piratoniter, von den Söhnen Efraims.
+In seiner Abteilung waren 24 000.
+<sup>15</sup>Der zwölfte, für den zwölften Monat, war Heldai, der Netofatiter, von Otniël.
+In seiner Abteilung waren 24 000.
+
+> **Was bedeutet das?**
+> David hatte kein großes stehendes Heer. Stattdessen diente jeden Monat eine Abteilung beim König, wie eine Art Wehrdienst im Wechsel. So konnten die Männer die übrige Zeit zu Hause arbeiten.
+> Die Anführer sind alte Bekannte: Es sind die Helden Davids aus Kapitel 11.
+> Asaël war schon früh im Krieg gegen Abner gefallen (2. Samuel 2,23). Darum steht hier „und nach ihm sein Sohn Sebadja“. Die Abteilung trug wohl seinen Namen weiter.
+> In Vers 5 wird Jojada „oberster Priester“ genannt. Man kann den hebräischen Text auch anders lesen: „Benaja, der Sohn des Priesters Jojada, als Oberhaupt“.
+
+---
+
+### Die Fürsten der Stämme (Vers 16–24)
+
+<sup>16</sup>Über die Stämme Israels waren gesetzt:
+über die Rubeniter: Eliëser, der Sohn Sichris, als Fürst;
+über die Simeoniter: Schefatja, der Sohn Maachas;
+<sup>17</sup>über Levi: Haschabja, der Sohn Kemuëls;
+über Aaron: Zadok;
+<sup>18</sup>über Juda: Elihu, einer der Brüder Davids;
+über Issachar: Omri, der Sohn Michaels;
+<sup>19</sup>über Sebulon: Jischmaja, der Sohn Obadjas;
+über Naftali: Jerimot, der Sohn Asriëls;
+<sup>20</sup>über die Söhne Efraims: Hoschea, der Sohn Asasjas;
+über den halben Stamm Manasse: Joël, der Sohn Pedajas;
+<sup>21</sup>über den halben Stamm Manasse in Gilead: Iddo, der Sohn Secharjas;
+über Benjamin: Jaasiël, der Sohn Abners;
+<sup>22</sup>über Dan: Asarel, der Sohn Jerohams.
+Das waren die Fürsten der Stämme Israels.
+<sup>23</sup>Aber David zählte die nicht,
+die zwanzig Jahre alt und jünger waren,
+denn der HERR hatte gesagt, er werde Israel zahlreich machen wie die Sterne am Himmel.
+<sup>24</sup>Joab, der Sohn der Zeruja, hatte angefangen zu zählen,
+aber er wurde nicht fertig.
+Und darüber kam Zorn über Israel.
+Darum wurde die Zahl nicht in die Chronik des Königs David aufgenommen.
+
+> **Was bedeutet das?**
+> Jeder Stamm hatte einen Fürsten. Gad und Asser fehlen in dieser Liste, dafür werden Levi und Aaron eigens genannt. So kommen es wieder auf zwölf, wenn man die halben Stämme zählt.
+> Elihu ist wohl Eliab, Davids ältester Bruder (1. Samuel 16,6).
+> Jaasiël war ein Sohn Abners, des früheren Heerführers Sauls. Auch Sauls Leute bekamen Verantwortung.
+> Vers 23–24 erinnern an die Volkszählung (Kapitel 21). Gott hatte Abraham versprochen, sein Volk so zahlreich zu machen wie die Sterne (1. Mose 15,5). Man sollte nicht nachzählen, was Gott versprochen hat.
+
+---
+
+### Die Verwalter des Königsgutes (Vers 25–31)
+
+<sup>25</sup>Über die Schätze des Königs war Asmawet, der Sohn Adiëls, gesetzt.
+Über die Vorräte auf dem Land, in den Städten, in den Dörfern und in den Türmen
+war Jonatan, der Sohn Usijas, gesetzt.
+<sup>26</sup>Über die Landarbeiter, die das Feld bebauten,
+war Esri, der Sohn Kelubs, gesetzt.
+<sup>27</sup>Über die Weinberge war Schimi, der Ramatiter, gesetzt.
+Über den Ertrag der Weinberge für die Weinkeller war Sabdi, der Schifmiter, gesetzt.
+<sup>28</sup>Über die Olivenbäume und die Maulbeerfeigenbäume in der Niederung
+war Baal-Hanan, der Gederiter, gesetzt.
+Über die Ölvorräte war Joasch gesetzt.
+<sup>29</sup>Über die Rinder, die in Scharon weideten, war Schitrai, der Scharoniter, gesetzt.
+Über die Rinder in den Tälern war Schafat, der Sohn Adlais, gesetzt.
+<sup>30</sup>Über die Kamele war Obil, der Ismaeliter, gesetzt.
+Über die Esel war Jechdeja, der Meronotiter, gesetzt.
+Über die Schafe war Jasis, der Hagariter, gesetzt.
+<sup>31</sup>Das alle waren Verwalter des Besitzes, der dem König David gehörte.
+
+> **Was bedeutet das?**
+> Der König hatte viel eigenen Besitz: Felder, Weinberge, Olivenbäume und Herden. Für jeden Bereich gab es einen Fachmann.
+> Bemerkenswert: Ein Ismaeliter kümmerte sich um die Kamele, ein Hagariter um die Schafe. Die Araber kannten sich mit Kamelen und Herden besonders gut aus. David setzte Menschen aus anderen Völkern ein, wo sie gut waren.
+> Im Hebräischen steht in Vers 30 „Eselinnen“.
+
+---
+
+### Davids Berater (Vers 32–34)
+
+<sup>32</sup>Jonatan, der Onkel Davids, war Berater,
+ein verständiger Mann und ein Schreiber.
+Jehiël, der Sohn Hachmonis, war bei den Söhnen des Königs.
+<sup>33</sup>Ahitofel war der Berater des Königs.
+Huschai, der Arkiter, war der Freund des Königs.
+<sup>34</sup>Nach Ahitofel kamen Jojada, der Sohn Benajas, und Abjatar.
+Joab war der Heerführer des Königs.
+
+> **Was bedeutet das?**
+> Jehiël war wohl der Erzieher der Königssöhne.
+> „Freund des Königs“ war ein Ehrentitel für einen engen Vertrauten.
+> Ahitofel hatte David später verraten und sich Absalom angeschlossen. Huschai blieb David treu und vereitelte Ahitofels Rat (2. Samuel 15–17). Die Chronik erwähnt das nur ganz kurz mit den Worten „nach Ahitofel“.
