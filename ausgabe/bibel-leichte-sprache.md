@@ -36224,7 +36224,7 @@ Aber seine Waffen legte er in sein Zelt.
 > Diese Geschichte ist weltberühmt geworden. „David gegen Goliat“ sagt man bis heute, wenn ein Kleiner gegen einen scheinbar übermächtigen Gegner antritt.
 > Die Bibel erzählt hier von einem Krieg mit viel Gewalt. Die Botschaft ist nicht: Gewalt ist gut. Die Botschaft ist: Wer Gott vertraut, braucht keine Angst vor übermächtigen Feinden zu haben.
 > Jerusalem gehörte damals noch den Jebusitern. David erobert die Stadt erst später (2. Samuel 5). Vielleicht brachte er den Kopf später dorthin, oder der Erzähler nennt hier schon die spätere Hauptstadt.
-> In 2. Samuel 21,19 steht, dass ein Mann namens Elhanan Goliat aus Gat tötete. In 1. Chronik 20,5 steht, dass Elhanan einen Bruder von Goliat tötete. Die Ausleger erklären diese Stellen unterschiedlich.
+> Im hebräischen Text von 2. Samuel 21,19 steht, dass ein Mann namens Elhanan Goliat aus Gat tötete. Die englische Vorlage hat dort „den Bruder von Goliat“. In 1. Chronik 20,5 steht, dass Elhanan einen Bruder von Goliat tötete. Die Ausleger erklären diese Stellen unterschiedlich.
 
 ---
 
@@ -40901,3 +40901,516 @@ Absalom, mein Sohn, mein Sohn!“
 > Vielleicht spürt David auch seine eigene Schuld: Er hat Amnon nicht bestraft. Er hat sich mit Absalom nie wirklich ausgesprochen. Und das Schwert, das Natan angekündigt hatte, hat jetzt seinen dritten Sohn getroffen.
 > Viele Christen sehen in Davids Klage ein Bild für Gottes Liebe: Gott liebt die Menschen, auch die, die sich gegen ihn auflehnen. Und Christen glauben, dass Gott in Jesus wirklich an Stelle der Menschen gestorben ist.
 > In vielen deutschen Bibeln ist dieser Vers schon Kapitel 19, Vers 1.
+
+## 2. Samuel – Kapitel 19
+#### David kehrt nach Jerusalem zurück
+
+---
+
+### Joab tadelt den trauernden König (Vers 1–8)
+
+<sup>1</sup>Man erzählte Joab:
+„Schau, der König weint und trauert um Absalom.“
+<sup>2</sup>Da wurde an diesem Tag der Sieg für das ganze Volk zur Trauer.
+Denn das Volk hörte an diesem Tag:
+„Der König ist betrübt wegen seines Sohnes.“
+<sup>3</sup>Das Volk schlich sich an diesem Tag in die Stadt,
+so wie sich Leute davonschleichen, die sich schämen, weil sie im Kampf geflohen sind.
+<sup>4</sup>Der König verhüllte sein Gesicht,
+und der König schrie mit lauter Stimme:
+„Mein Sohn Absalom, Absalom, mein Sohn, mein Sohn!“
+<sup>5</sup>Da kam Joab zum König ins Haus und sagte:
+„Heute hast du alle deine Knechte beschämt,
+die heute dein Leben gerettet haben,
+das Leben deiner Söhne und Töchter,
+das Leben deiner Frauen und das Leben deiner Nebenfrauen.
+<sup>6</sup>Denn du liebst die, die dich hassen,
+und hasst die, die dich lieben.
+Denn du hast heute gezeigt, dass dir Anführer und Knechte nichts bedeuten.
+Denn heute erkenne ich:
+Wenn Absalom lebte und wir alle heute tot wären,
+dann wäre es dir recht.
+<sup>7</sup>Darum steh jetzt auf, geh hinaus
+und rede deinen Knechten freundlich zu.
+Denn ich schwöre beim HERRN:
+Wenn du nicht hinausgehst, wird heute Nacht kein Mann bei dir bleiben.
+Und das wird schlimmer für dich sein als alles Unheil,
+das dich von deiner Jugend an bis jetzt getroffen hat.“
+<sup>8</sup>Da stand der König auf und setzte sich ins Tor.
+Und man sagte dem ganzen Volk:
+„Schaut, der König sitzt im Tor.“
+Da kam das ganze Volk vor den König.
+Israel aber war geflohen, jeder in sein Zelt.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist die Zählung in diesem Kapitel um einen Vers verschoben. Vers 1 hier ist dort Vers 2, und so weiter bis Vers 44.
+> Die Soldaten haben für David ihr Leben riskiert. Und jetzt, statt zu feiern, schleichen sie sich in die Stadt, als hätten sie verloren.
+> Joab sagt David hart die Wahrheit. Er hat Absalom gegen Davids Befehl getötet. Jetzt tadelt er David auch noch. Joab ist rücksichtslos. Aber in der Sache hat er recht: Ein König muss auch für die da sein, die ihm treu waren.
+> David hört auf ihn. Er setzt sich ins Tor, wo jeder ihn sehen kann. Er stellt seinen privaten Schmerz zurück, um seine Pflicht als König zu tun.
+> „Israel“ meint hier die Anhänger Absaloms. Sie sind geflohen.
+
+---
+
+### Israel und Juda wollen David zurück (Vers 9–15)
+
+<sup>9</sup>Das ganze Volk stritt in allen Stämmen Israels und sagte:
+„Der König hat uns aus der Hand unserer Feinde gerettet,
+und er hat uns aus der Hand der Philister befreit.
+Und jetzt ist er vor Absalom aus dem Land geflohen.
+<sup>10</sup>Und Absalom, den wir über uns gesalbt haben, ist im Kampf gestorben.
+Warum sagt ihr denn kein Wort davon, den König zurückzuholen?“
+<sup>11</sup>Der König David schickte zu Zadok und zu Abjatar, den Priestern, und ließ sagen:
+„Redet mit den Ältesten von Juda und sagt:
+‚Warum seid ihr die Letzten, die den König in sein Haus zurückholen,
+wo doch die Rede von ganz Israel schon zum König gekommen ist,
+ihn in sein Haus zurückzubringen?
+<sup>12</sup>Ihr seid meine Brüder.
+Ihr seid mein Bein und mein Fleisch.
+Warum seid ihr dann die Letzten, die den König zurückholen?‘
+<sup>13</sup>Und zu Amasa sollt ihr sagen:
+‚Bist du nicht mein Bein und mein Fleisch?
+Gott tue mir dies und noch mehr,
+wenn du nicht für immer Heerführer vor mir wirst, anstelle von Joab.‘“
+<sup>14</sup>So gewann er das Herz aller Männer von Juda wie das eines einzigen Mannes.
+Sie schickten zum König und ließen sagen:
+„Kehr zurück, du und alle deine Knechte.“
+<sup>15</sup>So kehrte der König zurück und kam an den Jordan.
+Und Juda kam nach Gilgal, um dem König entgegenzugehen
+und den König über den Jordan zu bringen.
+
+> **Was bedeutet das?**
+> Die Nordstämme sind sich unsicher. Sie hatten Absalom gefolgt. Jetzt wollen sie David zurück, aber sie zögern.
+> Erstaunlich: Juda, Davids eigener Stamm, zögert am meisten. Hebron in Juda war der Ort, wo Absaloms Aufstand begonnen hatte.
+> David ist politisch klug: Er gewinnt Juda zurück, indem er an die Verwandtschaft erinnert. Und er macht Amasa, Absaloms Heerführer, zu seinem eigenen Heerführer. Damit zeigt er: Ich will Versöhnung, keine Rache. Und gleichzeitig entmachtet er Joab, der gegen seinen Befehl Absalom getötet hat.
+> Aber das wird Folgen haben (Kapitel 20,10).
+
+---
+
+### Schimi bittet um Gnade (Vers 16–23)
+
+<sup>16</sup>Schimi, der Sohn von Gera, der Benjaminiter aus Bahurim,
+beeilte sich und kam mit den Männern von Juda herab, dem König David entgegen.
+<sup>17</sup>Mit ihm waren tausend Männer aus Benjamin,
+und Ziba, der Knecht des Hauses Sauls,
+und seine fünfzehn Söhne und seine zwanzig Knechte mit ihm.
+Sie gingen vor dem König durch den Jordan.
+<sup>18</sup>Eine Fähre fuhr hinüber, um die Familie des Königs herüberzubringen
+und zu tun, was ihm gut erschien.
+Schimi, der Sohn von Gera, fiel vor dem König nieder,
+als er über den Jordan gekommen war.
+<sup>19</sup>Er sagte zum König:
+„Mein Herr möge mir keine Schuld anrechnen.
+Erinnere dich nicht an das, womit dein Knecht sich verfehlt hat
+an dem Tag, als mein Herr, der König, aus Jerusalem auszog.
+Der König möge es sich nicht zu Herzen nehmen.
+<sup>20</sup>Denn dein Knecht weiß, dass ich gesündigt habe.
+Darum, schau, bin ich heute als Erster vom ganzen Haus Josef gekommen,
+um meinem Herrn, dem König, entgegenzugehen.“
+<sup>21</sup>Aber Abischai, der Sohn der Zeruja, antwortete:
+„Sollte Schimi nicht dafür getötet werden,
+weil er den Gesalbten des HERRN verflucht hat?“
+<sup>22</sup>David sagte:
+„Was habe ich mit euch zu tun, ihr Söhne der Zeruja,
+dass ihr heute meine Gegner sein wollt?
+Soll heute jemand in Israel getötet werden?
+Weiß ich denn nicht, dass ich heute König über Israel bin?“
+<sup>23</sup>Der König sagte zu Schimi:
+„Du sollst nicht sterben.“
+Und der König schwor es ihm.
+
+> **Was bedeutet das?**
+> Schimi, der David verflucht hatte, kommt jetzt als Erster und bittet um Vergebung. Er bringt tausend Männer aus Benjamin mit. Das ist auch klug: Er zeigt, dass Sauls Stamm jetzt zu David hält.
+> „Haus Josef“ meint hier die Nordstämme, zu denen Benjamin gezählt wird.
+> Abischai will Schimi wieder töten. Aber David sagt: Heute ist ein Tag der Versöhnung, nicht der Rache. Wie Saul damals nach seinem Sieg in Jabesch (1. Samuel 11,13).
+> David vergibt Schimi und schwört ihm, dass er nicht sterben muss. Kurz vor seinem Tod wird David seinem Sohn Salomo allerdings sagen, er solle mit Schimi abrechnen (1. Könige 2,8–9).
+
+---
+
+### Mefi-Boschet trifft David (Vers 24–30)
+
+<sup>24</sup>Auch Mefi-Boschet, der Sohn Sauls, kam herab, dem König entgegen.
+Er hatte seine Füße nicht gepflegt, seinen Bart nicht geschnitten
+und seine Kleider nicht gewaschen,
+von dem Tag an, als der König weggegangen war,
+bis zu dem Tag, an dem er in Frieden heimkam.
+<sup>25</sup>Als er nach Jerusalem kam, dem König entgegen,
+sagte der König zu ihm:
+„Warum bist du nicht mit mir gegangen, Mefi-Boschet?“
+<sup>26</sup>Er antwortete:
+„Mein Herr und König, mein Knecht hat mich betrogen.
+Denn dein Knecht hatte gesagt:
+‚Ich will mir einen Esel satteln, damit ich darauf reite und mit dem König gehe.‘
+Denn dein Knecht ist gelähmt.
+<sup>27</sup>Und er hat deinen Knecht bei meinem Herrn, dem König, verleumdet.
+Aber mein Herr, der König, ist wie ein Engel Gottes.
+Darum tu, was gut ist in deinen Augen.
+<sup>28</sup>Denn das ganze Haus meines Vaters war nichts anderes als Männer des Todes vor meinem Herrn, dem König.
+Und doch hast du deinen Knecht unter die gesetzt, die an deinem Tisch essen.
+Welches Recht habe ich also noch, mich weiter beim König zu beklagen?“
+<sup>29</sup>Der König sagte zu ihm:
+„Warum redest du noch weiter von deinen Angelegenheiten?
+Ich sage: Du und Ziba, ihr sollt das Land teilen.“
+<sup>30</sup>Mefi-Boschet sagte zum König:
+„Er soll ruhig alles nehmen,
+nachdem mein Herr, der König, in Frieden in sein Haus gekommen ist.“
+
+> **Was bedeutet das?**
+> Mefi-Boschet hat die ganze Zeit getrauert: keine Fußpflege, kein Rasieren, keine saubere Kleidung. Das spricht dafür, dass er David treu war und Ziba gelogen hat (Kapitel 16,3).
+> Er erklärt: Ich wollte mitkommen, aber ich bin gelähmt. Ziba sollte mir einen Esel satteln, aber er hat mich betrogen und ist allein zu dir gegangen.
+> David weiß nicht, wem er glauben soll. Er entscheidet sich für einen Kompromiss: Teilt das Land. Das ist keine gerechte Lösung, wenn Mefi-Boschet die Wahrheit sagt.
+> Mefi-Boschets Antwort zeigt sein Herz: „Er soll ruhig alles nehmen. Hauptsache, du bist wieder da.“ Ihm geht es nicht um Besitz, sondern um David.
+> In Vers 24 steht „der Sohn Sauls“. Gemeint ist „Enkel“. Das hebräische Wort für „Sohn“ kann auch „Nachkomme“ bedeuten.
+
+---
+
+### Der alte Barsillai (Vers 31–40)
+
+<sup>31</sup>Barsillai, der Gileaditer, kam aus Roglim herab
+und ging mit dem König zum Jordan, um ihn über den Jordan zu begleiten.
+<sup>32</sup>Barsillai war ein sehr alter Mann, achtzig Jahre alt.
+Er hatte den König versorgt, als er in Mahanajim war,
+denn er war ein sehr reicher Mann.
+<sup>33</sup>Der König sagte zu Barsillai:
+„Komm mit mir hinüber.
+Dann will ich dich bei mir in Jerusalem versorgen.“
+<sup>34</sup>Barsillai sagte zum König:
+„Wie viele Tage und Jahre habe ich noch zu leben,
+dass ich mit dem König nach Jerusalem hinaufziehen sollte?
+<sup>35</sup>Ich bin heute achtzig Jahre alt.
+Kann ich noch zwischen Gutem und Schlechtem unterscheiden?
+Kann dein Knecht noch schmecken, was ich esse oder was ich trinke?
+Kann ich noch die Stimme der Sänger und Sängerinnen hören?
+Warum soll dein Knecht meinem Herrn, dem König, noch zur Last fallen?
+<sup>36</sup>Dein Knecht will nur ein kleines Stück mit dem König über den Jordan gehen.
+Warum soll der König mir das mit einem solchen Lohn vergelten?
+<sup>37</sup>Lass doch deinen Knecht umkehren,
+damit ich in meiner Stadt sterbe, beim Grab meines Vaters und meiner Mutter.
+Aber schau, hier ist dein Knecht Kimham.
+Er soll mit meinem Herrn, dem König, hinübergehen.
+Und tu ihm, was dir gut erscheint.“
+<sup>38</sup>Der König antwortete:
+„Kimham soll mit mir hinübergehen,
+und ich will ihm tun, was dir gut erscheint.
+Und alles, was du von mir erbittest, das will ich für dich tun.“
+<sup>39</sup>Das ganze Volk ging über den Jordan,
+und auch der König ging hinüber.
+Dann küsste der König Barsillai und segnete ihn,
+und er kehrte an seinen Ort zurück.
+<sup>40</sup>So ging der König weiter nach Gilgal,
+und Kimham ging mit ihm.
+Das ganze Volk von Juda hatte den König herübergebracht
+und auch die Hälfte des Volkes Israel.
+
+> **Was bedeutet das?**
+> Barsillai ist ein treuer, großzügiger alter Mann. Er hat David in der Not versorgt, ohne etwas dafür zu verlangen.
+> David möchte ihn belohnen. Aber Barsillai lehnt bescheiden ab. Er beschreibt ehrlich, wie es ist, alt zu werden: Man schmeckt weniger, hört schlechter, kann das Leben am Hof nicht mehr genießen. Er möchte zu Hause sterben, bei seinen Eltern.
+> Statt sich selbst bittet er für Kimham, wohl seinen Sohn (1. Könige 2,7).
+> Das ist eine schöne, ruhige Szene nach so viel Gewalt: Treue wird mit Treue beantwortet. David vergisst seine Freunde nicht.
+
+---
+
+### Streit zwischen Israel und Juda (Vers 41–43)
+
+<sup>41</sup>Und schau, alle Männer Israels kamen zum König
+und sagten zum König:
+„Warum haben unsere Brüder, die Männer von Juda, dich gestohlen
+und den König und seine Familie über den Jordan gebracht,
+und alle Männer Davids mit ihm?“
+<sup>42</sup>Alle Männer von Juda antworteten den Männern Israels:
+„Weil der König mit uns nahe verwandt ist.
+Warum seid ihr wegen dieser Sache zornig?
+Haben wir etwa auf Kosten des Königs gegessen?
+Oder hat er uns ein Geschenk gegeben?“
+<sup>43</sup>Die Männer Israels antworteten den Männern von Juda und sagten:
+„Wir haben zehn Anteile am König,
+und wir haben auch mehr Anrecht auf David als ihr.
+Warum habt ihr uns verachtet?
+War es nicht unser Wort, das zuerst davon sprach, unseren König zurückzuholen?“
+Aber die Worte der Männer von Juda waren härter als die Worte der Männer Israels.
+
+> **Was bedeutet das?**
+> Kaum ist der Krieg vorbei, beginnt ein neuer Streit. Die zehn Nordstämme fühlen sich übergangen. Juda hat den König allein zurückgeholt.
+> „Zehn Anteile“: Die Nordstämme sind zehn Stämme, Juda ist einer. Sie sagen: Wir sind mehr.
+> Juda antwortet hart und überheblich. Dieser Streit zwischen Nord und Süd führt im nächsten Kapitel zu einem neuen Aufstand. Und viel später wird sich das Reich genau an dieser Linie teilen (1. Könige 12).
+
+## 2. Samuel – Kapitel 20
+#### Der Aufstand von Scheba
+
+---
+
+### „Wir haben keinen Anteil an David!“ (Vers 1–3)
+
+<sup>1</sup>Zufällig war dort ein nichtsnutziger Mann.
+Sein Name war Scheba, der Sohn von Bichri, ein Benjaminiter.
+Er blies das Horn und sagte:
+„Wir haben keinen Anteil an David
+und kein Erbe am Sohn Isais.
+Jeder in seine Zelte, Israel!“
+<sup>2</sup>Da zogen alle Männer Israels von David weg
+und folgten Scheba, dem Sohn von Bichri.
+Aber die Männer von Juda hielten zu ihrem König,
+vom Jordan bis nach Jerusalem.
+<sup>3</sup>David kam in sein Haus nach Jerusalem.
+Der König nahm die zehn Frauen, seine Nebenfrauen,
+die er zurückgelassen hatte, um das Haus zu hüten,
+und brachte sie in ein bewachtes Haus.
+Er versorgte sie, aber er ging nicht mehr zu ihnen.
+So waren sie eingeschlossen bis zum Tag ihres Todes
+und lebten wie Witwen.
+
+> **Was bedeutet das?**
+> Der Streit aus Kapitel 19 führt sofort zu einem neuen Aufstand. Scheba ist ein Benjaminiter, wie Saul. Sein Ruf wird später wieder auftauchen, wenn sich das Reich teilt (1. Könige 12,16).
+> Die zehn Nebenfrauen: Sie hatten keine Schuld. Absalom hatte sie gegen ihren Willen missbraucht (Kapitel 16,22). Jetzt werden sie für den Rest ihres Lebens eingesperrt und leben wie Witwen. David versorgt sie, aber sie haben kein eigenes Leben mehr. Wieder müssen Frauen die Folgen der Taten von Männern tragen. Die Bibel erzählt es, ohne es gutzuheißen.
+
+---
+
+### Joab ermordet Amasa (Vers 4–13)
+
+<sup>4</sup>Dann sagte der König zu Amasa:
+„Ruf mir die Männer von Juda innerhalb von drei Tagen zusammen,
+und sei dann selbst hier.“
+<sup>5</sup>Da ging Amasa, um die Männer von Juda zusammenzurufen.
+Aber er blieb länger als die Frist, die ihm bestimmt worden war.
+<sup>6</sup>Da sagte David zu Abischai:
+„Jetzt wird uns Scheba, der Sohn von Bichri, mehr Schaden tun als Absalom.
+Nimm die Knechte deines Herrn und jag ihm nach,
+damit er sich keine befestigten Städte verschafft und uns entkommt.“
+<sup>7</sup>Da zogen hinter ihm her die Männer Joabs,
+die Kreter, die Pleter und alle Helden.
+Sie zogen aus Jerusalem aus, um Scheba, dem Sohn von Bichri, nachzujagen.
+<sup>8</sup>Als sie bei dem großen Stein waren, der in Gibeon ist,
+kam ihnen Amasa entgegen.
+Joab trug sein Kriegsgewand, das er angezogen hatte.
+Darüber hatte er einen Gürtel mit einem Schwert in der Scheide an seiner Hüfte befestigt.
+Und als er herankam, fiel es heraus.
+<sup>9</sup>Joab sagte zu Amasa:
+„Geht es dir gut, mein Bruder?“
+Joab fasste Amasa mit der rechten Hand am Bart, um ihn zu küssen.
+<sup>10</sup>Aber Amasa achtete nicht auf das Schwert, das Joab in der Hand hatte.
+Da stach er ihn damit in den Bauch,
+sodass seine Eingeweide auf die Erde fielen.
+Er stach ihn kein zweites Mal, und er starb.
+Dann jagten Joab und sein Bruder Abischai Scheba, dem Sohn von Bichri, nach.
+<sup>11</sup>Einer von Joabs jungen Männern stellte sich neben ihn und sagte:
+„Wer für Joab ist und wer für David ist, der folge Joab!“
+<sup>12</sup>Amasa wälzte sich in seinem Blut mitten auf der Straße.
+Als der Mann sah, dass alles Volk stehen blieb,
+trug er Amasa von der Straße weg aufs Feld
+und warf ein Gewand über ihn,
+als er sah, dass jeder, der an ihm vorbeikam, stehen blieb.
+<sup>13</sup>Als er von der Straße weggeschafft war,
+zog das ganze Volk hinter Joab her, um Scheba, dem Sohn von Bichri, nachzujagen.
+
+> **Was bedeutet das?**
+> Amasa, der neue Heerführer, ist zu langsam. David schickt Abischai, aber Joab kommt mit.
+> Dann geschieht wieder ein heimtückischer Mord. Joab begrüßt Amasa freundlich: „Geht es dir gut, mein Bruder?“ Er fasst ihn am Bart, um ihn zu küssen, wie es damals unter Freunden üblich war. Und mit der anderen Hand ersticht er ihn.
+> Joab hatte schon Abner auf ähnliche Weise ermordet (Kapitel 3,27). Beide Male tötet er einen Rivalen, der ihm seinen Platz als Heerführer wegnehmen konnte.
+> Christen erinnern sich hier an Judas, der Jesus mit einem Kuss verriet (Matthäus 26,49).
+> Die Soldaten bleiben entsetzt bei der Leiche stehen. Erst als sie zugedeckt ist, folgen sie Joab. Joab hat sich die Macht mit Gewalt zurückgeholt.
+
+---
+
+### Die kluge Frau von Abel (Vers 14–22)
+
+<sup>14</sup>Er zog durch alle Stämme Israels bis nach Abel und Bet-Maacha
+und durch das ganze Gebiet der Beriter.
+Sie versammelten sich und folgten ihm auch.
+<sup>15</sup>Sie kamen und belagerten ihn in Abel-Bet-Maacha.
+Sie schütteten einen Wall gegen die Stadt auf,
+der bis an die Vormauer reichte.
+Und das ganze Volk, das bei Joab war, schlug gegen die Mauer, um sie einzureißen.
+<sup>16</sup>Da rief eine kluge Frau aus der Stadt:
+„Hört, hört!
+Sagt doch zu Joab:
+‚Komm hierher, damit ich mit dir reden kann.‘“
+<sup>17</sup>Er kam zu ihr heran.
+Die Frau sagte: „Bist du Joab?“
+Er antwortete: „Ich bin es.“
+Da sagte sie zu ihm:
+„Hör die Worte deiner Magd.“
+Er antwortete: „Ich höre.“
+<sup>18</sup>Da sagte sie:
+„Früher sagte man:
+‚Man soll in Abel um Rat fragen.‘
+Und so brachte man eine Sache zu Ende.
+<sup>19</sup>Ich gehöre zu den Friedlichen und Treuen in Israel.
+Du willst eine Stadt und eine Mutter in Israel zerstören.
+Warum willst du das Erbe des HERRN verschlingen?“
+<sup>20</sup>Joab antwortete:
+„Das sei fern, das sei fern von mir,
+dass ich verschlinge oder zerstöre!
+<sup>21</sup>So ist es nicht.
+Sondern ein Mann aus dem Bergland Efraim, Scheba, der Sohn von Bichri, mit Namen,
+hat seine Hand gegen den König erhoben, gegen David.
+Gebt nur ihn heraus,
+dann will ich von der Stadt abziehen.“
+Die Frau sagte zu Joab:
+„Schau, sein Kopf wird dir über die Mauer zugeworfen werden.“
+<sup>22</sup>Dann ging die Frau mit ihrer Klugheit zum ganzen Volk.
+Sie schlugen Scheba, dem Sohn von Bichri, den Kopf ab
+und warfen ihn Joab hinaus.
+Da blies er das Horn,
+und sie zogen von der Stadt ab, jeder in sein Zelt.
+Und Joab kehrte nach Jerusalem zum König zurück.
+
+> **Was bedeutet das?**
+> Abel-Bet-Maacha lag ganz im Norden, nahe bei Dan.
+> Wieder rettet eine kluge Frau viele Leben, wie die Frau aus Tekoa (Kapitel 14) und wie Abigajil (1. Samuel 25). Die Frauen in diesen Büchern sind oft weiser als die Männer.
+> Sie fragt Joab: Warum willst du eine ganze Stadt zerstören? Eine „Mutter in Israel“ ist eine Stadt, die für die Umgebung wichtig ist, wie eine Mutter für ihre Kinder.
+> Sie verhandelt und findet eine Lösung: Nur der Anführer des Aufstands stirbt, nicht die ganze Stadt.
+> Für uns heute ist das blutige Ende hart. Aber in einer Zeit ohne Gerichte und ohne Gefängnisse war es eine Lösung, die viele Unschuldige rettete.
+
+---
+
+### Davids Beamte (Vers 23–26)
+
+<sup>23</sup>Joab war über das ganze Heer Israels gesetzt.
+Benaja, der Sohn von Jojada, war über die Kreter und über die Pleter gesetzt.
+<sup>24</sup>Adoram war über die Zwangsarbeiter gesetzt.
+Joschafat, der Sohn von Ahilud, war Kanzler.
+<sup>25</sup>Schewa war Schreiber.
+Zadok und Abjatar waren Priester.
+<sup>26</sup>Und auch Ira, der Jairiter, war oberster Beamter für David.
+
+> **Was bedeutet das?**
+> Am Ende steht wieder eine Liste von Davids Beamten, wie in Kapitel 8,16–18. Joab ist wieder ganz oben. Niemand bestraft ihn für den Mord an Amasa.
+> Neu ist Adoram, der die Zwangsarbeit leitet. Das erinnert an Samuels Warnung: Der König wird eure Söhne für seine Arbeit nehmen (1. Samuel 8,16). Unter Salomo wird die Zwangsarbeit zu einer schweren Last, und Adoram wird später vom Volk gesteinigt (1. Könige 12,18).
+> „Oberster Beamter“: Im Hebräischen steht wieder „Priester“, wie in Kapitel 8,18.
+
+## 2. Samuel – Kapitel 21
+#### Die Gibeoniter, Rizpa und die Riesen
+
+---
+
+### Die Hungersnot und Sauls Schuld (Vers 1–6)
+
+<sup>1</sup>In den Tagen Davids gab es drei Jahre lang eine Hungersnot, Jahr für Jahr.
+Da suchte David das Angesicht des HERRN.
+Der HERR sagte:
+„Es ist wegen Saul und wegen seines blutbefleckten Hauses,
+weil er die Gibeoniter getötet hat.“
+<sup>2</sup>Der König rief die Gibeoniter und redete mit ihnen.
+Die Gibeoniter gehörten nicht zu den Israeliten,
+sondern zum Rest der Amoriter.
+Die Israeliten hatten ihnen einen Eid geschworen.
+Aber Saul versuchte, sie zu töten, in seinem Eifer für die Israeliten und für Juda.
+<sup>3</sup>David sagte zu den Gibeonitern:
+„Was soll ich für euch tun?
+Und womit soll ich Sühne leisten,
+damit ihr das Erbe des HERRN segnet?“
+<sup>4</sup>Die Gibeoniter sagten zu ihm:
+„Zwischen uns und Saul und seinem Haus geht es nicht um Silber oder Gold.
+Und es ist auch nicht unsere Sache, jemanden in Israel zu töten.“
+Er sagte:
+„Was ihr sagt, das will ich für euch tun.“
+<sup>5</sup>Sie sagten zum König:
+„Der Mann, der uns vernichten wollte
+und der Pläne gegen uns machte,
+damit wir aus dem ganzen Gebiet Israels ausgerottet werden,
+<sup>6</sup>von seinen Söhnen sollen uns sieben Männer ausgeliefert werden.
+Dann wollen wir sie für den HERRN in Gibea Sauls aufhängen,
+des Erwählten des HERRN.“
+Der König sagte:
+„Ich will sie euch geben.“
+
+> **Was bedeutet das?**
+> Die Kapitel 21 bis 24 sind wie ein Anhang zum Buch. Sie erzählen Geschichten aus verschiedenen Zeiten von Davids Regierung, nicht in zeitlicher Reihenfolge.
+> Die Gibeoniter waren ein Volk in Kanaan. Zur Zeit Josuas hatten sie sich mit einer List einen Friedensvertrag mit Israel erschlichen. Aber Israel hatte beim HERRN geschworen, sie zu verschonen (Josua 9). Ein Schwur vor Gott gilt.
+> Saul hat diesen Schwur gebrochen und viele Gibeoniter getötet. Davon steht im 1. Samuelbuch nichts. Wir erfahren es nur hier.
+> Damals glaubte man: Unrecht, das nicht wiedergutgemacht wird, lastet auf dem ganzen Land. Darum kommt eine Hungersnot.
+> Die Gibeoniter wollen kein Geld. Sie verlangen das Leben von sieben Nachkommen Sauls. Das war damals die Logik der Blutrache: Leben für Leben.
+
+---
+
+### Sieben Nachkommen Sauls sterben (Vers 7–9)
+
+<sup>7</sup>Aber der König verschonte Mefi-Boschet, den Sohn Jonatans, des Sohnes Sauls,
+wegen des Schwurs beim HERRN, der zwischen ihnen war,
+zwischen David und Jonatan, dem Sohn Sauls.
+<sup>8</sup>Aber der König nahm die beiden Söhne von Rizpa, der Tochter von Aja,
+die sie Saul geboren hatte, Armoni und Mefi-Boschet,
+und die fünf Söhne von Merab, der Tochter Sauls,
+die sie Adriël geboren hatte, dem Sohn von Barsillai aus Mehola.
+<sup>9</sup>Er gab sie in die Hände der Gibeoniter.
+Und sie hängten sie auf dem Berg vor dem HERRN auf.
+Alle sieben fielen zusammen.
+Sie wurden in den Tagen der Ernte getötet,
+in den ersten Tagen, am Anfang der Gerstenernte.
+
+> **Was bedeutet das?**
+> Das ist eine der schwersten Geschichten der Bibel. Sieben Männer sterben für eine Schuld, die nicht ihre eigene war.
+> Das Gesetz sagt eigentlich klar: „Kinder sollen nicht für die Schuld ihrer Väter getötet werden“ (5. Mose 24,16). Diese Geschichte steht in Spannung dazu. Sie zeigt, wie damals in Israel noch die alte Vorstellung der Blutrache lebte.
+> Manche Ausleger fragen auch, ob David nicht froh war, mögliche Gegner aus Sauls Familie loszuwerden. Schimi hatte ihm ja vorgeworfen, ein „Blutmensch“ gegenüber dem Haus Sauls zu sein (Kapitel 16,8).
+> David verschont Mefi-Boschet, Jonatans Sohn. Er hält sein Versprechen an Jonatan.
+> Hier gibt es noch einen anderen Mefi-Boschet, einen Sohn Sauls und Rizpas.
+> „Merab“: So steht es in der englischen Vorlage und in einigen Handschriften. Im hebräischen Haupttext steht „Michal“. Aber Merab war mit Adriël verheiratet (1. Samuel 18,19), und Michal hatte keine Kinder (Kapitel 6,23).
+> Wir lesen diesen Text als Bericht aus einer harten Zeit, nicht als Vorbild. Niemand darf heute Menschen für die Taten ihrer Eltern bestrafen.
+
+---
+
+### Rizpas Wache (Vers 10–14)
+
+<sup>10</sup>Rizpa, die Tochter von Aja, nahm einen Sack
+und breitete ihn für sich auf dem Felsen aus,
+vom Anfang der Ernte an, bis Wasser vom Himmel auf sie fiel.
+Sie ließ am Tag die Vögel des Himmels nicht auf ihnen ruhen
+und in der Nacht nicht die Tiere des Feldes.
+<sup>11</sup>Man erzählte David, was Rizpa, die Tochter von Aja, die Nebenfrau Sauls, getan hatte.
+<sup>12</sup>Da ging David hin und holte die Gebeine Sauls und die Gebeine seines Sohnes Jonatan
+von den Bürgern von Jabesch in Gilead.
+Sie hatten sie heimlich vom Platz von Bet-Schean weggeholt,
+wo die Philister sie aufgehängt hatten,
+an dem Tag, als die Philister Saul am Gilboa töteten.
+<sup>13</sup>Er brachte die Gebeine Sauls und die Gebeine seines Sohnes Jonatan von dort herauf.
+Und man sammelte auch die Gebeine der Aufgehängten.
+<sup>14</sup>Sie begruben die Gebeine Sauls und seines Sohnes Jonatan im Land Benjamin, in Zela,
+im Grab seines Vaters Kisch.
+Und sie taten alles, was der König befohlen hatte.
+Danach erhörte Gott die Gebete für das Land.
+
+> **Was bedeutet das?**
+> Rizpa ist die Mutter von zwei der Getöteten. Sie kann ihre Söhne nicht retten. Aber sie bewacht ihre Leichname. Von der Gerstenernte im Frühling bis zum ersten Regen im Herbst, viele Monate lang, sitzt sie Tag und Nacht auf dem Felsen. Sie vertreibt die Vögel und die wilden Tiere.
+> Das ist ein stiller, mächtiger Protest einer Mutter. Sie hat keine Macht, aber sie gibt ihren Söhnen ihre Würde zurück.
+> Ihr Beispiel berührt sogar David. Er sorgt endlich für ein würdiges Begräbnis für Saul, Jonatan und die sieben Getöteten, im Familiengrab.
+> Erst nach diesem Begräbnis heißt es: „Gott erhörte die Gebete für das Land.“ Nicht die Hinrichtung, sondern erst das würdige Begräbnis bringt den Frieden. Vielleicht will der Text sagen: Gott hat Gefallen an der Barmherzigkeit von Rizpa.
+
+---
+
+### Davids Helden gegen die Riesen (Vers 15–22)
+
+<sup>15</sup>Die Philister hatten wieder Krieg mit Israel.
+David zog mit seinen Knechten hinab, und sie kämpften gegen die Philister.
+Und David wurde müde.
+<sup>16</sup>Und Jischbi-Benob, der zu den Nachkommen des Riesen gehörte,
+dessen Speer etwa 3,3 Kilogramm Bronze wog
+und der mit einem neuen Schwert bewaffnet war,
+dachte, er könnte David töten.
+<sup>17</sup>Aber Abischai, der Sohn der Zeruja, half ihm.
+Er schlug den Philister und tötete ihn.
+Da schworen die Männer Davids ihm und sagten:
+„Du sollst nicht mehr mit uns in den Kampf ziehen,
+damit du die Lampe Israels nicht auslöschst.“
+<sup>18</sup>Danach gab es wieder Krieg mit den Philistern bei Gob.
+Da erschlug Sibbechai, der Huschatiter, Saf, der zu den Nachkommen des Riesen gehörte.
+<sup>19</sup>Es gab wieder Krieg mit den Philistern bei Gob.
+Da erschlug Elhanan, der Sohn von Jaare-Oregim aus Betlehem,
+den Bruder von Goliat aus Gat.
+Der Schaft seines Speeres war wie ein Weberbaum.
+<sup>20</sup>Es gab wieder Krieg bei Gat.
+Dort war ein sehr großer Mann,
+der hatte an jeder Hand sechs Finger und an jedem Fuß sechs Zehen,
+zusammen vierundzwanzig.
+Auch er stammte von dem Riesen ab.
+<sup>21</sup>Als er Israel verhöhnte,
+erschlug ihn Jonatan, der Sohn von Schima, dem Bruder Davids.
+<sup>22</sup>Diese vier stammten von dem Riesen in Gat ab.
+Und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
+
+> **Was bedeutet das?**
+> David ist älter geworden. Er wird im Kampf müde und gerät in Lebensgefahr. Abischai rettet ihn.
+> „Die Lampe Israels“: Der König ist wie ein Licht für das ganze Volk. Wenn er stirbt, geht das Licht aus. Darum soll David nicht mehr selbst kämpfen.
+> In der Bibel steht „300 Schekel“. Ein Schekel sind etwa 11 Gramm.
+> „Der Riese“ heißt im Hebräischen „Rafa“. Die „Rafaiter“ waren ein Volk von großen Menschen, das früher im Land lebte (5. Mose 2,11).
+> Vers 19: Im hebräischen Text steht: „Elhanan erschlug Goliat aus Gat.“ In 1. Chronik 20,5 steht: „Elhanan erschlug Lachmi, den Bruder von Goliat.“ Die englische Vorlage hat die Worte „den Bruder von“ ergänzt, damit der Text nicht im Widerspruch zu 1. Samuel 17 steht. Die Ausleger erklären diese Stelle unterschiedlich.
+> Sechs Finger und sechs Zehen: Das gibt es bis heute manchmal bei Menschen. Es ist eine angeborene Besonderheit.
+> Die Botschaft: Nicht nur David konnte Riesen besiegen. Auch seine Männer, im Vertrauen auf Gott, schafften es.

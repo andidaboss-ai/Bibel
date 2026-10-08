@@ -260,7 +260,7 @@ Aber seine Waffen legte er in sein Zelt.
 > Diese Geschichte ist weltberühmt geworden. „David gegen Goliat“ sagt man bis heute, wenn ein Kleiner gegen einen scheinbar übermächtigen Gegner antritt.
 > Die Bibel erzählt hier von einem Krieg mit viel Gewalt. Die Botschaft ist nicht: Gewalt ist gut. Die Botschaft ist: Wer Gott vertraut, braucht keine Angst vor übermächtigen Feinden zu haben.
 > Jerusalem gehörte damals noch den Jebusitern. David erobert die Stadt erst später (2. Samuel 5). Vielleicht brachte er den Kopf später dorthin, oder der Erzähler nennt hier schon die spätere Hauptstadt.
-> In 2. Samuel 21,19 steht, dass ein Mann namens Elhanan Goliat aus Gat tötete. In 1. Chronik 20,5 steht, dass Elhanan einen Bruder von Goliat tötete. Die Ausleger erklären diese Stellen unterschiedlich.
+> Im hebräischen Text von 2. Samuel 21,19 steht, dass ein Mann namens Elhanan Goliat aus Gat tötete. Die englische Vorlage hat dort „den Bruder von Goliat“. In 1. Chronik 20,5 steht, dass Elhanan einen Bruder von Goliat tötete. Die Ausleger erklären diese Stellen unterschiedlich.
 
 ---
 
