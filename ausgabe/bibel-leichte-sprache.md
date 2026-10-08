@@ -49157,3 +49157,626 @@ Und sein Sohn Joschija wurde an seiner Stelle König.
 > „Das Volk des Landes“ waren wohl die freien, landbesitzenden Männer von Juda. Sie bestrafen die Mörder und sorgen dafür, dass die Familie Davids auf dem Thron bleibt.
 > Der neue König ist ein Kind von acht Jahren: Joschija. Er wird einer der besten Könige Judas. Schon 300 Jahre vorher hatte ein Prophet seinen Namen genannt (1. Könige 13,2).
 > Amon regierte etwa von 642 bis 640 vor Christus.
+
+## 2. Könige – Kapitel 22
+#### Das wiedergefundene Buch
+
+---
+
+### Joschija, ein guter König (Vers 1–2)
+
+<sup>1</sup>Joschija war acht Jahre alt, als er König wurde,
+und er regierte 31 Jahre in Jerusalem.
+Seine Mutter hieß Jedida, die Tochter Adajas, aus Bozkat.
+<sup>2</sup>Er tat, was in den Augen des HERRN recht war,
+und ging auf allen Wegen seines Vaters David
+und wich weder nach rechts noch nach links ab.
+
+> **Was bedeutet das?**
+> Joschija wird schon als Kind König, nach der Ermordung seines Vaters Amon. Trotz seines schlimmen Vaters und Großvaters wird er einer der treuesten Könige.
+> „Weder nach rechts noch nach links“: Er bleibt auf dem geraden Weg Gottes, ohne Umwege (vgl. 5. Mose 5,32).
+> Joschija regierte etwa von 640 bis 609 vor Christus. In seiner Zeit begann auch der Prophet Jeremia zu wirken (Jeremia 1,2).
+
+---
+
+### Die Reparatur des Tempels (Vers 3–7)
+
+<sup>3</sup>Im 18. Jahr des Königs Joschija
+schickte der König Schafan, den Sohn Azaljas, des Sohnes Meschullams, den Schreiber,
+in das Haus des HERRN und sagte:
+<sup>4</sup>„Geh hinauf zum Hohenpriester Hilkija.
+Er soll das Geld zusammenrechnen, das in das Haus des HERRN gebracht wurde
+und das die Hüter der Schwelle vom Volk eingesammelt haben.
+<sup>5</sup>Man soll es den Arbeitsleitern geben,
+die die Aufsicht über das Haus des HERRN haben.
+Und die sollen es den Arbeitern im Haus des HERRN geben,
+um die Schäden am Haus auszubessern,
+<sup>6</sup>den Zimmerleuten, den Bauleuten und den Maurern,
+und um Holz und behauene Steine zu kaufen, um das Haus auszubessern.
+<sup>7</sup>Aber man soll von ihnen keine Abrechnung über das Geld verlangen,
+das man ihnen in die Hand gibt,
+denn sie handeln ehrlich.“
+
+> **Was bedeutet das?**
+> Joschija ist jetzt 26 Jahre alt. Er lässt den Tempel reparieren, der unter Manasse und Amon verwahrlost war. Das Verfahren ist dasselbe wie bei König Joasch (Kapitel 12).
+> Das 18. Jahr Joschijas war etwa 622 vor Christus.
+> Schafan und seine Familie spielen auch später eine wichtige Rolle: Sein Sohn Ahikam beschützte den Propheten Jeremia (Jeremia 26,24). In Jerusalem wurde ein Siegelabdruck mit dem Namen „Gemarja, Sohn Schafans“ gefunden. Ein Gemarja, Sohn Schafans, wird in Jeremia 36,10 erwähnt.
+
+---
+
+### Das Buch des Gesetzes wird gefunden (Vers 8–13)
+
+<sup>8</sup>Der Hohepriester Hilkija sagte zu Schafan, dem Schreiber:
+„Ich habe das Buch des Gesetzes im Haus des HERRN gefunden.“
+Hilkija gab Schafan das Buch, und er las es.
+<sup>9</sup>Schafan, der Schreiber, kam zum König
+und brachte dem König Bericht und sagte:
+„Deine Diener haben das Geld ausgeschüttet, das sich im Haus fand,
+und haben es den Arbeitsleitern gegeben, die die Aufsicht über das Haus des HERRN haben.“
+<sup>10</sup>Und Schafan, der Schreiber, erzählte dem König:
+„Der Priester Hilkija hat mir ein Buch gegeben.“
+Und Schafan las es dem König vor.
+<sup>11</sup>Als der König die Worte des Buches des Gesetzes hörte,
+zerriss er seine Kleider.
+<sup>12</sup>Der König befahl dem Priester Hilkija,
+Ahikam, dem Sohn Schafans,
+Achbor, dem Sohn Michas,
+Schafan, dem Schreiber,
+und Asaja, dem Diener des Königs:
+<sup>13</sup>„Geht und befragt den HERRN für mich, für das Volk und für ganz Juda
+wegen der Worte dieses Buches, das gefunden worden ist.
+Denn groß ist der Zorn des HERRN, der gegen uns entbrannt ist,
+weil unsere Väter nicht auf die Worte dieses Buches gehört haben,
+um alles zu tun, was darin für uns geschrieben steht.“
+
+> **Was bedeutet das?**
+> Bei den Bauarbeiten wird ein vergessenes Buch gefunden: das Buch des Gesetzes. Unter den bösen Königen war Gottes Wort so vernachlässigt worden, dass man es gar nicht mehr kannte.
+> Welches Buch war das? Die meisten Fachleute denken, dass es das 5. Buch Mose (Deuteronomium) war, ganz oder in einem Teil. Denn Joschijas Reformen passen genau zu dem, was dort steht: nur ein Ort für den Gottesdienst, keine fremden Götter, das Passafest in Jerusalem.
+> Joschija hört Gottes Wort und erschrickt. Er zerreißt seine Kleider, als Zeichen der Trauer und Buße. Er erkennt: Wir haben ganz falsch gelebt.
+> Das zeigt, wie stark Gottes Wort wirken kann, wenn man es wirklich hört.
+
+---
+
+### Die Prophetin Hulda (Vers 14–20)
+
+<sup>14</sup>Da gingen der Priester Hilkija, Ahikam, Achbor, Schafan und Asaja
+zu der Prophetin Hulda,
+der Frau Schallums, des Sohnes Tikwas, des Sohnes Harhas, des Kleiderverwalters.
+– Sie wohnte in Jerusalem im zweiten Stadtteil. –
+Und sie redeten mit ihr.
+<sup>15</sup>Sie sagte zu ihnen:
+„So spricht der HERR, der Gott Israels:
+‚Sagt dem Mann, der euch zu mir geschickt hat:
+<sup>16</sup>So spricht der HERR:
+Schau, ich bringe Unheil über diesen Ort und über seine Bewohner,
+alle Worte des Buches, das der König von Juda gelesen hat.
+<sup>17</sup>Weil sie mich verlassen haben
+und anderen Göttern Weihrauch verbrannt haben,
+um mich mit allen Werken ihrer Hände zum Zorn zu reizen,
+darum ist mein Zorn gegen diesen Ort entbrannt,
+und er wird nicht erlöschen.‘
+<sup>18</sup>Aber zum König von Juda, der euch geschickt hat, um den HERRN zu befragen,
+sollt ihr sagen:
+‚So spricht der HERR, der Gott Israels,
+über die Worte, die du gehört hast:
+<sup>19</sup>Weil dein Herz weich geworden ist
+und du dich vor dem HERRN gedemütigt hast,
+als du gehört hast, was ich gegen diesen Ort und seine Bewohner gesagt habe,
+dass sie zur Verwüstung und zum Fluch werden sollen,
+und weil du deine Kleider zerrissen und vor mir geweint hast,
+darum habe auch ich dich gehört,
+spricht der HERR.
+<sup>20</sup>Darum, schau, will ich dich zu deinen Vätern versammeln,
+und du wirst in Frieden in dein Grab gebracht werden.
+Deine Augen sollen all das Unheil nicht sehen,
+das ich über diesen Ort bringen werde.‘“
+Und sie brachten dem König die Antwort.
+
+> **Was bedeutet das?**
+> Die Männer des Königs gehen zu einer Frau: zur Prophetin Hulda. Obwohl damals auch Jeremia und Zefanja als Propheten wirkten, fragen sie Hulda. Ihr Wort wird ernst genommen und gilt als Gottes Wort. In der Bibel gibt es mehrere Prophetinnen, zum Beispiel Mirjam (2. Mose 15,20) und Debora (Richter 4,4).
+> In Jerusalem erinnern bis heute die „Hulda-Tore“ an der Südseite des Tempelbergs an sie.
+> Huldas Botschaft hat zwei Teile: Das Unglück über Jerusalem ist nicht mehr aufzuhalten. Aber Joschija selbst wird es nicht erleben, weil er sich gedemütigt hat.
+> „Weil dein Herz weich geworden ist“: Gott achtet auf ein Herz, das sich ansprechen lässt.
+> „In Frieden in dein Grab“: Joschija stirbt später zwar im Krieg (Kapitel 23,29). Aber er stirbt, bevor Jerusalem zerstört wird. Er muss den Untergang nicht mit ansehen.
+> Der „zweite Stadtteil“ war wohl ein neuerer Teil Jerusalems, der unter Hiskija dazugekommen war.
+
+## 2. Könige – Kapitel 23
+#### Joschijas große Reform
+
+---
+
+### Der Bund wird erneuert (Vers 1–3)
+
+<sup>1</sup>Der König schickte hin,
+und man versammelte bei ihm alle Ältesten von Juda und Jerusalem.
+<sup>2</sup>Der König ging hinauf in das Haus des HERRN,
+und alle Männer von Juda und alle Bewohner Jerusalems mit ihm,
+die Priester, die Propheten und das ganze Volk, Klein und Groß.
+Und er las vor ihren Ohren alle Worte des Bundesbuches vor,
+das im Haus des HERRN gefunden worden war.
+<sup>3</sup>Der König stellte sich an die Säule
+und schloss vor dem HERRN einen Bund:
+dem HERRN nachzufolgen
+und seine Gebote, seine Mahnungen und seine Ordnungen
+mit ganzem Herzen und ganzer Seele zu halten
+und die Worte dieses Bundes zu erfüllen, die in diesem Buch geschrieben waren.
+Und das ganze Volk trat in den Bund ein.
+
+> **Was bedeutet das?**
+> Joschija behält das Buch nicht für sich. Er liest es dem ganzen Volk vor, allen, Klein und Groß. Gottes Wort ist für alle da.
+> Dann erneuern König und Volk gemeinsam den Bund mit Gott. „Mit ganzem Herzen und ganzer Seele“ erinnert an das wichtigste Gebot: „Du sollst den HERRN, deinen Gott, lieben mit ganzem Herzen, mit ganzer Seele und mit ganzer Kraft“ (5. Mose 6,5). Jesus nannte es das größte Gebot (Markus 12,29–30).
+
+---
+
+### Der Tempel wird gereinigt (Vers 4–14)
+
+<sup>4</sup>Der König befahl dem Hohenpriester Hilkija,
+den Priestern des zweiten Ranges und den Hütern der Schwelle,
+alle Geräte aus dem Tempel des HERRN hinauszubringen,
+die für Baal, für die Aschera und für das ganze Heer des Himmels gemacht worden waren.
+Er verbrannte sie außerhalb von Jerusalem auf den Feldern am Kidron
+und brachte ihre Asche nach Bet-El.
+<sup>5</sup>Er setzte die Götzenpriester ab,
+die die Könige von Juda eingesetzt hatten,
+um auf den Opferhöhen in den Städten Judas und in der Umgebung Jerusalems Weihrauch zu verbrennen,
+und auch die, die Baal, der Sonne, dem Mond, den Sternbildern und dem ganzen Heer des Himmels Weihrauch verbrannten.
+<sup>6</sup>Er brachte die Aschera aus dem Haus des HERRN hinaus, aus Jerusalem hinaus, an den Bach Kidron.
+Er verbrannte sie am Bach Kidron,
+zermalmte sie zu Staub
+und warf den Staub auf die Gräber des einfachen Volkes.
+<sup>7</sup>Er riss die Häuser der Kultprostituierten nieder, die im Haus des HERRN waren,
+wo die Frauen Gewänder für die Aschera webten.
+<sup>8</sup>Er holte alle Priester aus den Städten Judas
+und machte die Opferhöhen unrein, auf denen die Priester Weihrauch verbrannt hatten,
+von Geba bis Beerscheba.
+Er riss die Opferhöhen an den Toren nieder,
+die am Eingang des Tores Josuas, des Stadtobersten, waren,
+links, wenn man in das Stadttor hineingeht.
+<sup>9</sup>Doch die Priester der Opferhöhen durften nicht an den Altar des HERRN in Jerusalem hinaufgehen.
+Aber sie aßen ungesäuertes Brot mitten unter ihren Brüdern.
+<sup>10</sup>Er machte das Tofet im Tal der Söhne Hinnoms unrein,
+damit niemand mehr seinen Sohn oder seine Tochter für den Moloch durch das Feuer gehen ließ.
+<sup>11</sup>Er entfernte die Pferde, die die Könige von Juda der Sonne geweiht hatten,
+am Eingang zum Haus des HERRN,
+bei der Kammer des Kämmerers Netan-Melech, die im Hof war.
+Und die Wagen der Sonne verbrannte er mit Feuer.
+<sup>12</sup>Die Altäre auf dem Dach des Obergemachs des Ahas, die die Könige von Juda gemacht hatten,
+und die Altäre, die Manasse in den beiden Vorhöfen des Hauses des HERRN gemacht hatte,
+riss der König nieder,
+zertrümmerte sie dort
+und warf ihren Staub in den Bach Kidron.
+<sup>13</sup>Die Opferhöhen vor Jerusalem,
+rechts vom Berg des Verderbens,
+die Salomo, der König von Israel, für Astarte, den Gräuel der Sidonier,
+für Kemosch, den Gräuel Moabs,
+und für Milkom, den Gräuel der Ammoniter, gebaut hatte,
+machte der König unrein.
+<sup>14</sup>Er zerbrach die Steinsäulen,
+hieb die Ascheren um
+und füllte ihre Stätten mit Menschenknochen.
+
+> **Was bedeutet das?**
+> Joschija räumt gründlich auf. Die Liste ist lang und zeigt, wie viel Götzendienst sich angesammelt hatte, sogar im Tempel Gottes selbst.
+> Das „Heer des Himmels“: Sonne, Mond und Sterne wurden als Götter verehrt. Es gab sogar Pferde und Wagen für den Sonnengott.
+> Das „Tofet“ im Tal Hinnom war der Ort, an dem Kinder geopfert wurden. Joschija macht dem ein Ende. Das Tal Hinnom (hebräisch „Ge-Hinnom“) wurde später zum Bild für den Ort der Strafe. Daraus entstand das Wort „Gehenna“, das im Neuen Testament für die Hölle steht.
+> Sogar Salomos Altäre für fremde Götter standen nach etwa 300 Jahren noch (1. Könige 11,7). Der „Berg des Verderbens“ ist ein Spottname für einen Teil des Ölbergs.
+> Menschenknochen machten einen Ort unrein. Damit konnten diese Stätten nie mehr für Gottesdienste benutzt werden.
+> Die Priester der Opferhöhen im Land durften nicht am Altar in Jerusalem dienen. Aber sie bekamen Anteil an den Gaben ihrer Brüder. Sie wurden nicht einfach fallen gelassen.
+> In Vers 7 steht in der englischen Vorlage „männliche Kultprostituierte“ (siehe die Erklärung zu 1. Könige 14,24).
+
+---
+
+### Bet-El und Samaria (Vers 15–20)
+
+<sup>15</sup>Auch den Altar in Bet-El
+und die Opferhöhe, die Jerobeam, der Sohn Nebats, gemacht hatte,
+der Israel zur Sünde verführt hatte,
+auch diesen Altar und die Opferhöhe riss er nieder.
+Er verbrannte die Opferhöhe, zermalmte sie zu Staub
+und verbrannte die Aschera.
+<sup>16</sup>Als Joschija sich umwandte,
+sah er die Gräber, die dort am Berg waren.
+Er schickte hin, ließ die Knochen aus den Gräbern holen,
+verbrannte sie auf dem Altar und machte ihn unrein,
+nach dem Wort des HERRN,
+das der Mann Gottes ausgerufen hatte, der diese Dinge angekündigt hatte.
+<sup>17</sup>Dann fragte er:
+„Was ist das für ein Grabmal, das ich da sehe?“
+Die Männer der Stadt sagten ihm:
+„Das ist das Grab des Mannes Gottes, der aus Juda gekommen ist
+und diese Dinge angekündigt hat, die du gegen den Altar von Bet-El getan hast.“
+<sup>18</sup>Er sagte:
+„Lasst ihn in Ruhe!
+Niemand soll seine Knochen anrühren.“
+So ließen sie seine Knochen in Ruhe,
+zusammen mit den Knochen des Propheten, der aus Samaria gekommen war.
+<sup>19</sup>Auch alle Häuser auf den Opferhöhen in den Städten Samarias,
+die die Könige von Israel gemacht hatten, um den HERRN zum Zorn zu reizen,
+entfernte Joschija.
+Er tat mit ihnen alles so, wie er in Bet-El getan hatte.
+<sup>20</sup>Er tötete alle Priester der Opferhöhen, die dort waren, auf den Altären
+und verbrannte Menschenknochen darauf.
+Dann kehrte er nach Jerusalem zurück.
+
+> **Was bedeutet das?**
+> Hier erfüllt sich ein Wort, das etwa 300 Jahre alt ist: Der namenlose Mann Gottes aus Juda hatte genau das angekündigt, sogar mit dem Namen Joschija (1. Könige 13,2). Jetzt geschieht es.
+> Joschija lässt das Grab des Propheten unberührt, und damit auch das Grab des alten Propheten aus Bet-El, der neben ihm begraben werden wollte (1. Könige 13,31).
+> Das Nordreich war seit 100 Jahren zerstört. Die Assyrer waren schwach geworden. So konnte Joschija seine Reform auch im Gebiet des alten Nordreichs durchführen.
+> Vers 20 ist sehr schwer: Joschija lässt die Priester der Opferhöhen im Norden töten. In Juda hatte er sie nur abgesetzt. Die Bibel berichtet das, aber es ist kein Vorbild für heute. Glaubensfragen dürfen niemals mit Gewalt entschieden werden.
+
+---
+
+### Ein Passafest wie nie zuvor (Vers 21–23)
+
+<sup>21</sup>Der König befahl dem ganzen Volk:
+„Feiert das Passa für den HERRN, euren Gott,
+wie es in diesem Bundesbuch geschrieben steht.“
+<sup>22</sup>Denn ein solches Passa war nicht gefeiert worden
+seit den Tagen der Richter, die Israel gerichtet hatten,
+und in der ganzen Zeit der Könige von Israel und der Könige von Juda.
+<sup>23</sup>Erst im 18. Jahr des Königs Joschija
+wurde dieses Passa für den HERRN in Jerusalem gefeiert.
+
+> **Was bedeutet das?**
+> Das Passafest erinnert an die Befreiung aus Ägypten (2. Mose 12). Jetzt wird es wieder gefeiert, und zwar gemeinsam in Jerusalem, wie es in 5. Mose 16,1–8 steht.
+> Bis heute feiern Juden jedes Jahr das Passafest (Pessach). Auch Jesus feierte das Passa mit seinen Jüngern am Abend vor seinem Tod. Daraus entstand das Abendmahl der Christen.
+
+---
+
+### Keiner war wie Joschija (Vers 24–27)
+
+<sup>24</sup>Auch die Totenbeschwörer, die Wahrsager,
+die Terafim, die Götzen und alle Gräuel,
+die im Land Juda und in Jerusalem zu sehen waren,
+schaffte Joschija weg,
+um die Worte des Gesetzes zu erfüllen,
+die in dem Buch geschrieben waren,
+das der Priester Hilkija im Haus des HERRN gefunden hatte.
+<sup>25</sup>Vor ihm war kein König wie er,
+der zum HERRN umkehrte mit seinem ganzen Herzen, mit seiner ganzen Seele und mit seiner ganzen Kraft,
+ganz nach dem Gesetz des Mose.
+Und auch nach ihm kam keiner wie er.
+<sup>26</sup>Doch der HERR ließ nicht ab von der Glut seines großen Zorns,
+mit dem sein Zorn gegen Juda entbrannt war,
+wegen all der Kränkungen, mit denen Manasse ihn gereizt hatte.
+<sup>27</sup>Der HERR sagte:
+„Auch Juda will ich von meinem Angesicht entfernen,
+wie ich Israel entfernt habe.
+Und ich will diese Stadt verstoßen, die ich erwählt habe, Jerusalem,
+und das Haus, von dem ich gesagt habe: ‚Mein Name soll dort sein.‘“
+
+> **Was bedeutet das?**
+> Joschija bekommt das höchste Lob der ganzen Königsbücher. Er liebt Gott genau so, wie es das wichtigste Gebot verlangt: mit ganzem Herzen, ganzer Seele und ganzer Kraft.
+> „Terafim“ waren kleine Hausgötter-Figuren.
+> Aber dann kommt der traurige Satz: Trotzdem wird Jerusalem untergehen. Die Schuld, die sich über Generationen angesammelt hatte, besonders unter Manasse, war zu groß. Joschijas Reform kam spät. Und nach seinem Tod kehrte das Volk schnell zu den alten Wegen zurück.
+> Das ist schwer zu verstehen. Es zeigt: Ein einzelner guter Mensch kann viel bewirken, aber er kann nicht alles ungeschehen machen, was ein ganzes Volk über lange Zeit getan hat. Der Prophet Jeremia, der in dieser Zeit lebte, beklagte, dass das Volk sich nicht wirklich von Herzen bekehrt hatte (Jeremia 3,10).
+
+---
+
+### Joschijas Tod (Vers 28–30)
+
+<sup>28</sup>Was sonst noch von Joschija zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>29</sup>In seinen Tagen zog der Pharao Necho, der König von Ägypten,
+zum König von Assyrien hinauf, an den Strom Euphrat.
+Der König Joschija zog ihm entgegen.
+Aber der Pharao Necho tötete ihn bei Megiddo, als er ihn sah.
+<sup>30</sup>Seine Diener fuhren ihn tot auf einem Wagen von Megiddo weg,
+brachten ihn nach Jerusalem und begruben ihn in seinem Grab.
+Und das Volk des Landes nahm Joahas, den Sohn Joschijas,
+salbte ihn und machte ihn an Stelle seines Vaters zum König.
+
+> **Was bedeutet das?**
+> Im Jahr 609 vor Christus zieht der ägyptische Pharao Necho II. nach Norden. Er will den Assyrern helfen, die gegen die Babylonier kämpfen. Joschija stellt sich ihm in den Weg und wird bei Megiddo getötet. Er ist erst 39 Jahre alt.
+> Warum Joschija gegen Necho zog, sagt die Bibel nicht genau. Vielleicht wollte er verhindern, dass Assyrien, der alte Feind, gerettet wird.
+> Sein früher Tod war ein großer Schock. Jeremia dichtete ein Klagelied über ihn (2. Chronik 35,25).
+> Megiddo war ein wichtiger Ort für Schlachten. Von ihm kommt der Name „Harmagedon“ (Berg von Megiddo) in Offenbarung 16,16.
+
+---
+
+### Joahas und Jojakim (Vers 31–37)
+
+<sup>31</sup>Joahas war 23 Jahre alt, als er König wurde,
+und er regierte drei Monate in Jerusalem.
+Seine Mutter hieß Hamutal, die Tochter Jeremias, aus Libna.
+<sup>32</sup>Er tat, was in den Augen des HERRN böse war,
+ganz so, wie seine Väter getan hatten.
+<sup>33</sup>Der Pharao Necho legte ihn in Ribla im Land Hamat in Fesseln,
+damit er nicht in Jerusalem König sein konnte.
+Und er legte dem Land einen Tribut auf von etwa 3,4 Tonnen Silber und etwa 34 Kilogramm Gold.
+<sup>34</sup>Der Pharao Necho machte Eljakim, den Sohn Joschijas, an Stelle seines Vaters Joschija zum König
+und änderte seinen Namen in Jojakim.
+Joahas aber nahm er mit,
+und er kam nach Ägypten und starb dort.
+<sup>35</sup>Jojakim gab das Silber und das Gold dem Pharao.
+Aber er musste das Land besteuern, um das Geld nach dem Befehl des Pharao zu geben.
+Von jedem im Volk des Landes trieb er das Silber und das Gold ein,
+nach seiner Schätzung,
+um es dem Pharao Necho zu geben.
+<sup>36</sup>Jojakim war 25 Jahre alt, als er König wurde,
+und er regierte elf Jahre in Jerusalem.
+Seine Mutter hieß Sebida, die Tochter Pedajas, aus Ruma.
+<sup>37</sup>Er tat, was in den Augen des HERRN böse war,
+ganz so, wie seine Väter getan hatten.
+
+> **Was bedeutet das?**
+> Nach Joschijas Tod geht es schnell bergab. Juda ist jetzt von Ägypten abhängig. Der Pharao setzt Könige ab und ein, wie er will.
+> Er gibt dem neuen König sogar einen neuen Namen. Das zeigt: Juda ist nicht mehr frei.
+> Der Jeremia in Vers 31 ist nicht der Prophet Jeremia, sondern ein anderer Mann aus Libna.
+> In der Bibel steht „100 Talente Silber und ein Talent Gold“. Ein Talent sind etwa 34 Kilogramm.
+> Jojakim war ein harter König. Der Prophet Jeremia klagte ihn an, weil er sich einen prächtigen Palast bauen ließ, ohne den Arbeitern ihren Lohn zu zahlen (Jeremia 22,13–19). Jojakim verbrannte sogar die Schriftrolle mit Jeremias Worten (Jeremia 36).
+> Jojakim regierte etwa von 609 bis 598 vor Christus.
+
+## 2. Könige – Kapitel 24
+#### Babylon kommt
+
+---
+
+### Jojakim und Nebukadnezar (Vers 1–7)
+
+<sup>1</sup>In seinen Tagen zog Nebukadnezar, der König von Babel, herauf.
+Jojakim wurde für drei Jahre sein Diener.
+Dann wandte er sich ab und lehnte sich gegen ihn auf.
+<sup>2</sup>Der HERR schickte Streifscharen der Chaldäer,
+Streifscharen der Syrer,
+Streifscharen der Moabiter
+und Streifscharen der Ammoniter gegen ihn.
+Er schickte sie gegen Juda, um es zu vernichten,
+nach dem Wort des HERRN, das er durch seine Knechte, die Propheten, gesagt hatte.
+<sup>3</sup>Ja, auf Befehl des HERRN kam das über Juda,
+um es von seinem Angesicht zu entfernen,
+wegen der Sünden Manasses, wegen allem, was er getan hatte,
+<sup>4</sup>und auch wegen des unschuldigen Blutes, das er vergossen hatte.
+Denn er hatte Jerusalem mit unschuldigem Blut erfüllt,
+und der HERR wollte nicht vergeben.
+<sup>5</sup>Was sonst noch von Jojakim zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>6</sup>Jojakim legte sich zu seinen Vätern,
+und sein Sohn Jojachin wurde an seiner Stelle König.
+<sup>7</sup>Der König von Ägypten zog nicht mehr aus seinem Land aus.
+Denn der König von Babel hatte alles genommen, was dem König von Ägypten gehört hatte,
+vom Bach Ägyptens bis zum Strom Euphrat.
+
+> **Was bedeutet das?**
+> Jetzt kommt die neue Weltmacht: Babylon, im Süden des heutigen Irak. Die Babylonier werden auch „Chaldäer“ genannt. Ihr König Nebukadnezar II. regierte von 605 bis 562 vor Christus. Er besiegte 605 vor Christus die Ägypter bei Karkemisch.
+> Jojakim wird ein Diener Babylons, aber dann lehnt er sich auf. Das war ein großer Fehler. Der Prophet Jeremia hatte gewarnt, sich gegen Babylon aufzulehnen.
+> Wieder sagt der Text: Das Unglück ist die Folge der Schuld, besonders der Schuld Manasses. „Unschuldiges Blut“ ist eine schwere Schuld. Gott nimmt es nicht leicht, wenn Unschuldige getötet werden.
+> „Syrien“ heißt im Hebräischen „Aram“.
+
+---
+
+### Jojachin und die erste Verschleppung (Vers 8–17)
+
+<sup>8</sup>Jojachin war 18 Jahre alt, als er König wurde,
+und er regierte drei Monate in Jerusalem.
+Seine Mutter hieß Nehuschta, die Tochter Elnatans, aus Jerusalem.
+<sup>9</sup>Er tat, was in den Augen des HERRN böse war,
+ganz so, wie sein Vater getan hatte.
+<sup>10</sup>Zu dieser Zeit zogen die Diener Nebukadnezars, des Königs von Babel, nach Jerusalem herauf,
+und die Stadt wurde belagert.
+<sup>11</sup>Nebukadnezar, der König von Babel, kam selbst zur Stadt,
+während seine Diener sie belagerten.
+<sup>12</sup>Da ging Jojachin, der König von Juda, zum König von Babel hinaus,
+er, seine Mutter, seine Diener, seine Fürsten und seine Hofbeamten.
+Und der König von Babel nahm ihn gefangen, im achten Jahr seiner Herrschaft.
+<sup>13</sup>Er nahm von dort alle Schätze des Hauses des HERRN
+und die Schätze des Hauses des Königs mit.
+Und er zerschlug alle goldenen Geräte,
+die Salomo, der König von Israel, im Tempel des HERRN gemacht hatte,
+wie der HERR es gesagt hatte.
+<sup>14</sup>Er führte ganz Jerusalem weg:
+alle Fürsten und alle tapferen Krieger, 10 000 Gefangene,
+dazu alle Handwerker und Schmiede.
+Niemand blieb übrig außer den Ärmsten des Volkes im Land.
+<sup>15</sup>Er führte Jojachin nach Babel weg,
+dazu die Mutter des Königs, die Frauen des Königs, seine Hofbeamten
+und die Mächtigen des Landes.
+Sie führte er gefangen von Jerusalem nach Babel.
+<sup>16</sup>Alle Krieger, 7000,
+und die Handwerker und Schmiede, 1000,
+alle stark und kriegstüchtig,
+die brachte der König von Babel gefangen nach Babel.
+<sup>17</sup>Der König von Babel machte Mattanja, den Onkel Jojachins, an seiner Stelle zum König
+und änderte seinen Namen in Zidkija.
+
+> **Was bedeutet das?**
+> Im Jahr 597 vor Christus wird Jerusalem zum ersten Mal von den Babyloniern eingenommen. Eine babylonische Chronik berichtet das auch und nennt sogar den Tag: im März 597 vor Christus.
+> Jojachin ergibt sich. So wird die Stadt zunächst nicht zerstört. Aber die Oberschicht, die Soldaten und die Handwerker werden nach Babylon verschleppt. Zu ihnen gehörte auch der Prophet Hesekiel (Hesekiel 1,1–3).
+> Damit erfüllt sich das Wort, das Jesaja dem König Hiskija gesagt hatte (Kapitel 20,17).
+> Die Zahlen in Vers 14 und 16 sind nicht ganz gleich. Vielleicht sind 10 000 die Gesamtzahl. In Jeremia 52,28 wird eine kleinere Zahl genannt (3023).
+> Nur die Ärmsten bleiben im Land. Die Babylonier nahmen die gebildeten und fähigen Leute mit, damit Juda sich nicht wieder erheben konnte.
+> Auch Zidkija bekommt vom fremden König einen neuen Namen.
+
+---
+
+### Zidkija, der letzte König von Juda (Vers 18–20)
+
+<sup>18</sup>Zidkija war 21 Jahre alt, als er König wurde,
+und er regierte elf Jahre in Jerusalem.
+Seine Mutter hieß Hamutal, die Tochter Jeremias, aus Libna.
+<sup>19</sup>Er tat, was in den Augen des HERRN böse war,
+ganz so, wie Jojakim getan hatte.
+<sup>20</sup>Denn wegen des Zornes des HERRN geschah dies mit Jerusalem und Juda,
+bis er sie von seinem Angesicht verstoßen hatte.
+Und Zidkija lehnte sich gegen den König von Babel auf.
+
+> **Was bedeutet das?**
+> Zidkija ist ein Sohn Joschijas, ein Bruder von Joahas und Jojakim.
+> Er war ein schwacher König, der hin- und hergerissen war. Er fragte oft heimlich den Propheten Jeremia um Rat, hatte aber nicht den Mut, ihm zu folgen (Jeremia 37–38). Jeremia riet ihm, sich Babylon zu unterwerfen, um die Stadt zu retten. Aber Zidkija lehnte sich auf.
+> Zidkija regierte etwa von 597 bis 587 vor Christus.
+
+## 2. Könige – Kapitel 25
+#### Jerusalem wird zerstört
+
+---
+
+### Die Belagerung und die Flucht des Königs (Vers 1–7)
+
+<sup>1</sup>Im neunten Jahr seiner Herrschaft,
+im zehnten Monat, am zehnten Tag des Monats,
+kam Nebukadnezar, der König von Babel, mit seinem ganzen Heer gegen Jerusalem.
+Er lagerte vor der Stadt
+und baute ringsum Belagerungswälle gegen sie.
+<sup>2</sup>So wurde die Stadt belagert bis zum elften Jahr des Königs Zidkija.
+<sup>3</sup>Am neunten Tag des vierten Monats war die Hungersnot in der Stadt so groß,
+dass das Volk des Landes kein Brot mehr hatte.
+<sup>4</sup>Da wurde eine Bresche in die Stadtmauer geschlagen.
+Alle Krieger flohen in der Nacht
+auf dem Weg durch das Tor zwischen den beiden Mauern, das beim Garten des Königs war.
+– Die Chaldäer lagen rings um die Stadt. –
+Und der König ging auf dem Weg zur Araba.
+<sup>5</sup>Aber das Heer der Chaldäer verfolgte den König
+und holte ihn in der Ebene von Jericho ein.
+Sein ganzes Heer zerstreute sich und verließ ihn.
+<sup>6</sup>Sie nahmen den König gefangen
+und brachten ihn zum König von Babel nach Ribla hinauf.
+Und sie sprachen das Urteil über ihn.
+<sup>7</sup>Sie töteten die Söhne Zidkijas vor seinen Augen.
+Dann blendeten sie Zidkija,
+legten ihn in Fesseln
+und brachten ihn nach Babel.
+
+> **Was bedeutet das?**
+> Die Belagerung dauert etwa eineinhalb Jahre. Die Menschen in der Stadt hungern.
+> Zidkija versucht in der Nacht zu fliehen, Richtung Jordantal. Aber er wird gefangen.
+> Die Strafe ist grausam: Seine Söhne werden vor seinen Augen getötet. Das ist das Letzte, was er sieht. Dann wird er geblendet. Die Bibel erzählt diese Grausamkeit ohne Beschönigung. Sie zeigt das ganze Leid des Krieges.
+> Bis heute erinnern Juden mit Fastentagen an diese Ereignisse: an den Beginn der Belagerung am 10. Tevet und an die Bresche in der Mauer im Monat Tammus.
+> In Lachisch wurden Briefe auf Tonscherben gefunden, die aus dieser Zeit stammen. Darin schreibt ein Offizier, dass man die Feuerzeichen von Aseka nicht mehr sieht. Das passt zu Jeremia 34,7.
+
+---
+
+### Der Tempel brennt (Vers 8–17)
+
+<sup>8</sup>Im fünften Monat, am siebten Tag des Monats,
+das war das 19. Jahr Nebukadnezars, des Königs von Babel,
+kam Nebusaradan, der Oberste der Leibwache, ein Diener des Königs von Babel, nach Jerusalem.
+<sup>9</sup>Er verbrannte das Haus des HERRN,
+das Haus des Königs
+und alle Häuser Jerusalems.
+Jedes große Haus verbrannte er mit Feuer.
+<sup>10</sup>Das ganze Heer der Chaldäer, das bei dem Obersten der Leibwache war,
+riss die Mauern rings um Jerusalem nieder.
+<sup>11</sup>Den Rest des Volkes, der in der Stadt übrig geblieben war,
+und die Überläufer, die zum König von Babel übergelaufen waren,
+den ganzen Rest der Menge,
+führte Nebusaradan, der Oberste der Leibwache, gefangen weg.
+<sup>12</sup>Aber von den Ärmsten des Landes ließ der Oberste der Leibwache einige zurück
+als Weingärtner und Ackerbauern.
+<sup>13</sup>Die Chaldäer zerschlugen die Säulen aus Bronze, die im Haus des HERRN waren,
+die Kesselwagen und das Meer aus Bronze im Haus des HERRN,
+und brachten die Bronze nach Babel.
+<sup>14</sup>Sie nahmen auch die Töpfe, die Schaufeln, die Dochtscheren, die Schalen
+und alle Geräte aus Bronze mit, mit denen man den Dienst tat.
+<sup>15</sup>Die Feuerpfannen und die Becken,
+was aus Gold war, für das Gold,
+und was aus Silber war, für das Silber,
+nahm der Oberste der Leibwache mit.
+<sup>16</sup>Die zwei Säulen, das eine Meer und die Kesselwagen,
+die Salomo für das Haus des HERRN gemacht hatte:
+Die Bronze aller dieser Geräte konnte man gar nicht wiegen.
+<sup>17</sup>Die eine Säule war etwa 8 Meter hoch.
+Auf ihr war ein Kapitell aus Bronze.
+Das Kapitell war etwa 1,35 Meter hoch,
+mit Flechtwerk und Granatäpfeln ringsum, alles aus Bronze.
+Und die zweite Säule mit ihrem Flechtwerk war genauso.
+
+> **Was bedeutet das?**
+> Das ist der traurigste Tag in der Geschichte des alten Israel: Der Tempel, den Salomo vor fast 400 Jahren gebaut hatte, wird verbrannt. Das geschah im Jahr 587 oder 586 vor Christus.
+> Juden erinnern sich bis heute an diesen Tag. Am Fasttag „Tischa be-Av“ (9. Tag des Monats Av) trauern sie über die Zerstörung des ersten und des zweiten Tempels. Dann wird das Buch der Klagelieder gelesen, das über diese Zerstörung klagt.
+> In Jeremia 52,12 steht der zehnte Tag statt des siebten. Vielleicht kam Nebusaradan am siebten Tag an und zündete den Tempel am zehnten an.
+> Die genaue Beschreibung der Säulen und Geräte erinnert daran, wie prächtig alles einmal war (1. Könige 7,15–22). Jetzt wird es zu Altmetall zerschlagen.
+> In der Bibel steht „18 Ellen“ und „3 Ellen“. Eine Elle sind etwa 45 Zentimeter. In 1. Könige 7,16 stehen für das Kapitell 5 Ellen.
+> Die Ärmsten bleiben im Land. Sie bekommen sogar Felder und Weinberge (Jeremia 39,10). Für sie ist das Unglück auch ein neuer Anfang.
+
+---
+
+### Die führenden Männer werden hingerichtet (Vers 18–21)
+
+<sup>18</sup>Der Oberste der Leibwache nahm Seraja, den obersten Priester,
+Zefanja, den zweiten Priester,
+und die drei Hüter der Schwelle gefangen.
+<sup>19</sup>Aus der Stadt nahm er einen Hofbeamten, der über die Krieger gesetzt war,
+fünf Männer von denen, die das Angesicht des Königs sehen durften
+und die in der Stadt gefunden wurden,
+den Schreiber des Heerführers, der das Volk des Landes zum Heer einberief,
+und sechzig Männer vom Volk des Landes, die in der Stadt gefunden wurden.
+<sup>20</sup>Nebusaradan, der Oberste der Leibwache, nahm sie
+und brachte sie zum König von Babel nach Ribla.
+<sup>21</sup>Der König von Babel ließ sie in Ribla im Land Hamat erschlagen und töten.
+So wurde Juda aus seinem Land weggeführt.
+
+> **Was bedeutet das?**
+> Die Babylonier töten die führenden Männer, die den Aufstand mitgetragen hatten.
+> „So wurde Juda aus seinem Land weggeführt.“ Mit diesem kurzen Satz endet die Geschichte des Königreichs Juda nach etwa 400 Jahren. Es beginnt die Zeit der babylonischen Gefangenschaft, auch „Exil“ genannt.
+> Ein Nachkomme dieses obersten Priesters Seraja war Esra, der etwa 140 Jahre später aus Babylon nach Jerusalem zurückkehrte (Esra 7,1).
+
+---
+
+### Gedalja (Vers 22–26)
+
+<sup>22</sup>Über das Volk, das im Land Juda zurückblieb,
+das Nebukadnezar, der König von Babel, übrig gelassen hatte,
+setzte er Gedalja, den Sohn Ahikams, des Sohnes Schafans, als Statthalter ein.
+<sup>23</sup>Als alle Heerführer und ihre Männer hörten,
+dass der König von Babel Gedalja als Statthalter eingesetzt hatte,
+kamen sie zu Gedalja nach Mizpa:
+Jischmael, der Sohn Netanjas,
+Johanan, der Sohn Kareachs,
+Seraja, der Sohn Tanhumets, aus Netofa,
+und Jaasanja, der Sohn des Maachatiters,
+sie und ihre Männer.
+<sup>24</sup>Gedalja schwor ihnen und ihren Männern und sagte zu ihnen:
+„Habt keine Angst vor den Dienern der Chaldäer.
+Bleibt im Land und dient dem König von Babel,
+dann wird es euch gut gehen.“
+<sup>25</sup>Aber im siebten Monat kam Jischmael, der Sohn Netanjas, des Sohnes Elischamas, aus der königlichen Familie,
+und zehn Männer mit ihm.
+Sie erschlugen Gedalja, sodass er starb,
+und auch die Judäer und die Chaldäer, die bei ihm in Mizpa waren.
+<sup>26</sup>Da machte sich das ganze Volk auf, Klein und Groß,
+und die Heerführer,
+und sie zogen nach Ägypten,
+denn sie fürchteten sich vor den Chaldäern.
+
+> **Was bedeutet das?**
+> Gedalja war ein Enkel Schafans, aus der Familie, die den Propheten Jeremia beschützt hatte. Er wollte das zerstörte Land wieder aufbauen und Frieden halten.
+> Aber Jischmael, ein Mann aus der Königsfamilie, ermordet ihn. Vielleicht aus Neid oder weil er Gedalja für einen Verräter hielt.
+> Aus Angst vor der Rache der Babylonier fliehen viele nach Ägypten. Sie nehmen den Propheten Jeremia gegen seinen Willen mit (Jeremia 40–43).
+> Bis heute erinnern Juden am „Fasten Gedalja“, nach dem Neujahrsfest, an diesen Mord.
+> In Lachisch wurde ein Siegelabdruck gefunden mit der Aufschrift „Gedalja, der über das Haus gesetzt ist“. Ob es derselbe Gedalja ist, ist nicht sicher.
+
+---
+
+### Ein Licht der Hoffnung: Jojachin wird freigelassen (Vers 27–30)
+
+<sup>27</sup>Im 37. Jahr der Gefangenschaft Jojachins, des Königs von Juda,
+im zwölften Monat, am 27. Tag des Monats,
+ließ Ewil-Merodach, der König von Babel, in dem Jahr, in dem er König wurde,
+Jojachin, den König von Juda, aus dem Gefängnis frei.
+<sup>28</sup>Er redete freundlich mit ihm
+und setzte seinen Thron über die Throne der Könige, die bei ihm in Babel waren.
+<sup>29</sup>Und er durfte seine Gefängniskleider ablegen.
+Jojachin aß sein Leben lang immer an seinem Tisch.
+<sup>30</sup>Und für seinen Unterhalt bekam er vom König immer, was er brauchte,
+jeden Tag sein Teil, sein Leben lang.
+
+> **Was bedeutet das?**
+> Nach so viel Dunkel endet das Buch mit einem kleinen Licht. Etwa 560 vor Christus wird der König Jojachin aus dem Gefängnis in Babylon befreit. Er darf am Tisch des Königs essen und wird geehrt.
+> Das ist ein Zeichen der Hoffnung: Die Familie Davids lebt noch. Gott hat sein Versprechen an David nicht vergessen. Die „Lampe“ ist nicht ganz erloschen.
+> In Babylon wurden Tontafeln gefunden, auf denen die Öl-Zuteilungen für „Jojachin, König von Juda“ und seine Söhne aufgeschrieben sind. Sie sind heute in einem Museum in Berlin.
+> Ewil-Merodach (babylonisch Amel-Marduk) war der Sohn Nebukadnezars. Er regierte nur kurz, von 562 bis 560 vor Christus.
+> Ein Nachkomme Jojachins war Serubbabel, der später die Rückkehr nach Jerusalem anführte (Esra 3,2). Im Matthäus-Evangelium steht Jojachin (dort Jechonja genannt) im Stammbaum Jesu (Matthäus 1,12).
+
+---
+
+### Rückblick: Was haben wir im 2. Buch der Könige gelesen?
+
+> **Was bedeutet das?**
+> Das 2. Buch der Könige erzählt fast 300 Jahre Geschichte, von etwa 850 bis 560 vor Christus.
+> **Die Propheten:** Am Anfang stehen Elija und Elisa. Elija fährt im feurigen Wagen in den Himmel. Elisa tut viele Wunder: Er hilft armen Witwen, heilt Kranke und gibt Hungrigen zu essen. Er heilt sogar den feindlichen General Naaman und lässt gefangene Feinde frei. Später warnen Jona, Amos, Hosea, Jesaja, Jeremia und die Prophetin Hulda das Volk.
+> **Der Untergang des Nordreichs:** Im Norden folgen viele Könige, die meisten Gott untreu, viele von ihnen ermordet. 722 vor Christus erobern die Assyrer Samaria. Die Bibel fragt: Warum? Und antwortet: Weil sie nicht auf Gottes Propheten gehört haben.
+> **Juda:** Im Süden gibt es gute und böse Könige. Hiskija vertraut Gott und erlebt die Rettung Jerusalems vor den Assyrern. Joschija findet das vergessene Buch des Gesetzes und erneuert den Bund. Aber die Schuld, besonders unter Manasse, wiegt zu schwer.
+> **Der Untergang Jerusalems:** 587 vor Christus zerstören die Babylonier Jerusalem und den Tempel. Das Volk wird nach Babylon verschleppt.
+> **Die Hoffnung:** Das Buch endet nicht mit dem Tod, sondern mit einem freigelassenen König, der am Tisch des Königs essen darf. Gott hat sein Volk und seine Versprechen nicht vergessen.
+> **Die Lehre des Buches:** Gott ist geduldig. Er warnt immer wieder. Aber wer ihn dauerhaft verlässt, verliert, was er von Gott bekommen hat. Gleichzeitig zeigt das Buch: Selbst nach der größten Katastrophe ist Gottes Treue nicht zu Ende.
+> **Wie geht es weiter?** Die Bücher der Chronik erzählen dieselbe Geschichte noch einmal, aus einem anderen Blickwinkel. Die Bücher Esra und Nehemia erzählen von der Rückkehr aus Babylon und dem Wiederaufbau Jerusalems.
