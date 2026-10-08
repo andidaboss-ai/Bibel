@@ -41919,3 +41919,631 @@ und die Seuche wich von Israel.
 > Was David von Saul unterscheidet, ist nicht, dass er keine Fehler macht. Es ist, dass er immer wieder zu Gott zurückkehrt, seine Schuld zugibt und auf Gottes Barmherzigkeit vertraut: „Lasst uns in die Hand des HERRN fallen, denn seine Barmherzigkeit ist groß.“
 > Gottes Versprechen an David hat die ganze weitere Bibel geprägt. Juden warten auf den Messias, den Sohn Davids. Christen glauben, dass Jesus dieser Sohn Davids ist, der König, dessen Reich kein Ende hat.
 > Die Bücher der Könige erzählen, wie es nach David weitergeht: mit Salomo, dem Bau des Tempels und der Teilung des Reiches.
+
+
+---
+
+# 1. Könige
+
+## 1. Könige – Kapitel 1
+#### Wer wird Davids Nachfolger?
+
+---
+
+### Bevor es losgeht: Was ist das 1. Buch der Könige?
+
+Die Bücher der Könige erzählen die Geschichte der Könige Israels, von Salomo bis zum Untergang Jerusalems. Das sind etwa 400 Jahre. Ursprünglich waren das 1. und das 2. Buch der Könige ein einziges Buch.
+Das 1. Buch der Könige hat zwei große Teile:
+Im ersten Teil (Kapitel 1–11) geht es um König Salomo. Er ist berühmt für seine Weisheit und seinen Reichtum. Er baut den Tempel in Jerusalem. Aber am Ende seines Lebens wendet er sich fremden Göttern zu.
+Im zweiten Teil (Kapitel 12–22) teilt sich das Reich in zwei Teile: im Norden das Königreich Israel, im Süden das Königreich Juda. Viele Könige folgen aufeinander, die meisten im Norden dienen fremden Göttern. Dann tritt der große Prophet Elia auf. Er kämpft gegen König Ahab und Königin Isebel und gegen den Götzen Baal.
+Das Buch fragt immer wieder: Hat der König dem HERRN gehorcht oder nicht? Es beurteilt die Könige nicht nach ihrem Reichtum oder ihren Kriegen, sondern nach ihrer Treue zu Gott.
+Die Bücher der Könige wurden wohl in der Zeit der Verbannung in Babylon zusammengestellt. Sie wollen erklären: Warum hat Israel sein Land verloren? Die Antwort ist: Weil die Könige und das Volk Gott immer wieder untreu waren. Aber das Buch zeigt auch: Gott hält seine Versprechen an David.
+
+---
+
+### Der alte König David (Vers 1–4)
+
+<sup>1</sup>Der König David war alt und hochbetagt.
+Man deckte ihn mit Kleidern zu, aber ihm wurde nicht warm.
+<sup>2</sup>Da sagten seine Diener zu ihm:
+„Man soll für meinen Herrn, den König, eine junge Frau suchen, die noch Jungfrau ist.
+Sie soll vor dem König stehen und ihn pflegen.
+Sie soll in deinem Schoß liegen, damit meinem Herrn, dem König, warm wird.“
+<sup>3</sup>So suchten sie im ganzen Gebiet Israels eine schöne junge Frau.
+Sie fanden Abischag aus Schunem und brachten sie zum König.
+<sup>4</sup>Die junge Frau war sehr schön.
+Sie pflegte den König und diente ihm,
+aber der König erkannte sie nicht.
+
+> **Was bedeutet das?**
+> Der große König David ist jetzt ein alter, kranker Mann. Er friert, er ist schwach.
+> Die Diener holen eine junge Frau, Abischag. Sie soll ihn pflegen und wärmen. Damals glaubte man, die Körperwärme eines jungen Menschen könnte einem alten Menschen Lebenskraft geben.
+> Für Abischag war das sicher keine freie Entscheidung. Junge Frauen wurden damals oft nicht gefragt.
+> „Er erkannte sie nicht“ heißt: Er hatte keinen Sex mit ihr. Das zeigt auch: David ist so schwach, dass er nicht mehr regieren kann. Das ist der Moment, in dem der Kampf um seine Nachfolge beginnt.
+
+---
+
+### Adonija will König werden (Vers 5–10)
+
+<sup>5</sup>Da erhob sich Adonija, der Sohn von Haggit, und sagte:
+„Ich will König werden.“
+Er schaffte sich Wagen und Reiter an
+und fünfzig Männer, die vor ihm herliefen.
+<sup>6</sup>Sein Vater hatte ihn sein Leben lang nie gekränkt mit der Frage:
+„Warum hast du das getan?“
+Er war auch ein sehr schöner Mann.
+Er war nach Absalom geboren worden.
+<sup>7</sup>Er beriet sich mit Joab, dem Sohn der Zeruja, und mit Abjatar, dem Priester.
+Und sie hielten zu Adonija und halfen ihm.
+<sup>8</sup>Aber Zadok, der Priester, Benaja, der Sohn von Jojada, Natan, der Prophet,
+Schimi, Rei und die Helden Davids waren nicht auf der Seite Adonijas.
+<sup>9</sup>Adonija schlachtete Schafe, Rinder und Mastvieh beim Stein Sohelet, der neben En-Rogel ist.
+Er lud alle seine Brüder ein, die Söhne des Königs,
+und alle Männer von Juda, die Diener des Königs.
+<sup>10</sup>Aber den Propheten Natan, Benaja, die Helden
+und seinen Bruder Salomo lud er nicht ein.
+
+> **Was bedeutet das?**
+> Adonija ist der vierte Sohn Davids (2. Samuel 3,4). Amnon und Absalom sind tot, der zweite Sohn Kilab wird nicht mehr erwähnt. So ist Adonija jetzt wohl der älteste lebende Sohn. Er glaubt, er habe das Recht auf den Thron.
+> Er macht es genau wie Absalom: Wagen, Pferde, fünfzig Läufer (2. Samuel 15,1). Und er ist auch schön, wie Absalom.
+> „Sein Vater hatte ihn nie gekränkt“: David hat seine Söhne nie zurechtgewiesen. Er hat sie verwöhnt und ihnen keine Grenzen gesetzt. Das ist eine Schwäche, die sich wie ein roter Faden durch Davids Familie zieht.
+> Am Hof gibt es jetzt zwei Gruppen: Joab und Abjatar sind für Adonija. Zadok, Benaja und Natan sind für Salomo.
+> Adonija feiert schon ein Fest, als wäre er König. Aber Salomo lädt er nicht ein. Er weiß, wer sein Rivale ist.
+
+---
+
+### Natan und Batseba greifen ein (Vers 11–27)
+
+<sup>11</sup>Da sagte Natan zu Batseba, der Mutter Salomos:
+„Hast du nicht gehört, dass Adonija, der Sohn von Haggit, König geworden ist,
+und unser Herr David weiß es nicht?
+<sup>12</sup>Darum komm jetzt, ich will dir einen Rat geben,
+damit du dein Leben und das Leben deines Sohnes Salomo rettest.
+<sup>13</sup>Geh zum König David hinein und sag zu ihm:
+‚Hast du nicht, mein Herr und König, deiner Magd geschworen und gesagt:
+„Ganz sicher soll dein Sohn Salomo nach mir König sein,
+und er soll auf meinem Thron sitzen“?
+Warum ist dann Adonija König geworden?‘
+<sup>14</sup>Schau, während du noch dort mit dem König redest,
+will ich nach dir hineinkommen und deine Worte bestätigen.“
+<sup>15</sup>Da ging Batseba zum König in sein Zimmer.
+Der König war sehr alt,
+und Abischag aus Schunem bediente den König.
+<sup>16</sup>Batseba verneigte sich und erwies dem König Ehre.
+Der König sagte: „Was möchtest du?“
+<sup>17</sup>Sie sagte zu ihm:
+„Mein Herr, du hast deiner Magd beim HERRN, deinem Gott, geschworen:
+‚Ganz sicher soll dein Sohn Salomo nach mir König sein,
+und er soll auf meinem Thron sitzen.‘
+<sup>18</sup>Aber jetzt, schau, ist Adonija König geworden.
+Und du, mein Herr und König, weißt es nicht.
+<sup>19</sup>Er hat Rinder, Mastvieh und Schafe in Menge geschlachtet
+und alle Söhne des Königs eingeladen,
+Abjatar, den Priester, und Joab, den Heerführer.
+Aber deinen Knecht Salomo hat er nicht eingeladen.
+<sup>20</sup>Und du, mein Herr und König, die Augen von ganz Israel sind auf dich gerichtet,
+dass du ihnen sagst, wer nach meinem Herrn, dem König, auf seinem Thron sitzen soll.
+<sup>21</sup>Sonst wird es geschehen:
+Wenn mein Herr, der König, sich zu seinen Vätern gelegt hat,
+dann werden ich und mein Sohn Salomo als Verbrecher gelten.“
+
+<sup>22</sup>Und schau, während sie noch mit dem König redete, kam der Prophet Natan.
+<sup>23</sup>Man meldete dem König:
+„Schau, der Prophet Natan ist da!“
+Als er vor den König kam, verneigte er sich vor dem König mit dem Gesicht zur Erde.
+<sup>24</sup>Natan sagte:
+„Mein Herr und König, hast du gesagt:
+‚Adonija soll nach mir König sein, und er soll auf meinem Thron sitzen‘?
+<sup>25</sup>Denn er ist heute hinabgegangen
+und hat Rinder, Mastvieh und Schafe in Menge geschlachtet
+und alle Söhne des Königs, die Heerführer und Abjatar, den Priester, eingeladen.
+Und schau, sie essen und trinken vor ihm und sagen:
+‚Es lebe der König Adonija!‘
+<sup>26</sup>Aber mich, deinen Knecht, hat er nicht eingeladen,
+und auch nicht Zadok, den Priester, Benaja, den Sohn von Jojada, und deinen Knecht Salomo.
+<sup>27</sup>Ist diese Sache von meinem Herrn, dem König, ausgegangen,
+und du hast deinen Knechten nicht mitgeteilt,
+wer nach meinem Herrn, dem König, auf seinem Thron sitzen soll?“
+
+> **Was bedeutet das?**
+> Natan, der Prophet, der David einst mit „Du bist der Mann!“ zur Umkehr gerufen hat, greift wieder ein.
+> Batseba hat jetzt eine ganz andere Rolle als früher. Sie ist nicht mehr die Frau, die geholt wurde, sondern eine kluge, starke Mutter, die um die Zukunft ihres Sohnes kämpft.
+> Sie erinnert David an einen Schwur, dass Salomo König werden soll. Dieser Schwur wird vorher in der Bibel nicht erwähnt. Aber Gott hatte Salomo schon bei seiner Geburt „Jedidja“, „Geliebter des HERRN“, genannt (2. Samuel 12,25).
+> Natan und Batseba sprechen sich ab. Sie wissen: Wenn Adonija König wird, sind Salomo und Batseba in Lebensgefahr. Neue Könige töteten oft ihre Rivalen.
+
+---
+
+### David entscheidet: Salomo soll König sein (Vers 28–40)
+
+<sup>28</sup>Da antwortete der König David:
+„Ruft mir Batseba.“
+Sie kam zum König herein und stellte sich vor den König.
+<sup>29</sup>Der König schwor und sagte:
+„So wahr der HERR lebt, der mein Leben aus aller Not erlöst hat:
+<sup>30</sup>Ganz sicher, so wie ich dir beim HERRN, dem Gott Israels, geschworen habe:
+‚Ganz sicher soll dein Sohn Salomo nach mir König sein,
+und er soll an meiner Stelle auf meinem Thron sitzen‘,
+so will ich es heute ganz sicher tun.“
+<sup>31</sup>Da verneigte sich Batseba mit dem Gesicht zur Erde,
+erwies dem König Ehre und sagte:
+„Mein Herr, der König David, lebe ewig!“
+<sup>32</sup>Der König David sagte:
+„Ruft mir Zadok, den Priester, Natan, den Propheten, und Benaja, den Sohn von Jojada.“
+Sie kamen vor den König.
+<sup>33</sup>Der König sagte zu ihnen:
+„Nehmt die Diener eures Herrn mit euch
+und lasst meinen Sohn Salomo auf meinem eigenen Maultier reiten
+und bringt ihn hinab zum Gihon.
+<sup>34</sup>Dort sollen Zadok, der Priester, und Natan, der Prophet, ihn zum König über Israel salben.
+Blast das Horn und sagt:
+‚Es lebe der König Salomo!‘
+<sup>35</sup>Dann zieht hinter ihm herauf.
+Er soll kommen und sich auf meinen Thron setzen.
+Denn er soll an meiner Stelle König sein.
+Ich habe ihn zum Fürsten über Israel und über Juda bestimmt.“
+<sup>36</sup>Benaja, der Sohn von Jojada, antwortete dem König und sagte:
+„Amen. So möge der HERR, der Gott meines Herrn, des Königs, sprechen.
+<sup>37</sup>So wie der HERR mit meinem Herrn, dem König, gewesen ist,
+so möge er auch mit Salomo sein
+und seinen Thron noch größer machen als den Thron meines Herrn, des Königs David.“
+<sup>38</sup>Da gingen Zadok, der Priester, Natan, der Prophet, Benaja, der Sohn von Jojada,
+und die Kreter und die Pleter hinab.
+Sie ließen Salomo auf dem Maultier des Königs David reiten
+und brachten ihn zum Gihon.
+<sup>39</sup>Zadok, der Priester, nahm das Ölhorn aus dem Zelt und salbte Salomo.
+Sie bliesen das Horn,
+und das ganze Volk rief:
+„Es lebe der König Salomo!“
+<sup>40</sup>Das ganze Volk zog hinter ihm herauf.
+Und das Volk blies auf Flöten und freute sich mit großer Freude,
+sodass die Erde von ihrem Lärm erbebte.
+
+> **Was bedeutet das?**
+> Der alte David wird noch einmal wach. Er handelt schnell und entschlossen.
+> Salomo reitet auf Davids eigenem Maultier. Das ist ein Zeichen für alle: Dieser ist der Nachfolger des Königs.
+> Der Gihon ist eine Quelle im Tal östlich von Jerusalem, nicht weit von En-Rogel, wo Adonija feiert. Beide Feiern finden fast in Hörweite statt.
+> Salomo wird gesalbt, wie David und Saul vor ihm. Mit Öl aus dem Zelt, in dem die Lade stand.
+> „Es lebe der König Salomo!“: Das Volk feiert so laut, dass die Erde bebt.
+
+---
+
+### Adonija hört die Nachricht (Vers 41–53)
+
+<sup>41</sup>Adonija und alle Gäste, die bei ihm waren, hörten es,
+als sie gerade mit dem Essen fertig waren.
+Als Joab den Klang des Horns hörte, sagte er:
+„Was soll dieser Lärm in der Stadt, dieses Getöse?“
+<sup>42</sup>Während er noch redete,
+schau, da kam Jonatan, der Sohn von Abjatar, dem Priester.
+Adonija sagte:
+„Komm herein, denn du bist ein tüchtiger Mann und bringst gute Nachricht.“
+<sup>43</sup>Jonatan antwortete Adonija:
+„Ganz im Gegenteil! Unser Herr, der König David, hat Salomo zum König gemacht.
+<sup>44</sup>Der König hat Zadok, den Priester, Natan, den Propheten, Benaja, den Sohn von Jojada,
+und die Kreter und die Pleter mit ihm geschickt.
+Und sie haben ihn auf dem Maultier des Königs reiten lassen.
+<sup>45</sup>Zadok, der Priester, und Natan, der Prophet, haben ihn am Gihon zum König gesalbt.
+Und sie sind von dort voller Freude heraufgezogen,
+sodass die Stadt widerhallt.
+Das ist der Lärm, den ihr gehört habt.
+<sup>46</sup>Auch sitzt Salomo schon auf dem Thron des Königreichs.
+<sup>47</sup>Und die Diener des Königs sind gekommen,
+um unseren Herrn, den König David, zu segnen.
+Sie sagten:
+‚Dein Gott möge den Namen Salomos noch besser machen als deinen Namen
+und seinen Thron noch größer als deinen Thron.‘
+Und der König verneigte sich auf dem Bett.
+<sup>48</sup>Und der König hat auch gesagt:
+‚Gelobt sei der HERR, der Gott Israels,
+der heute einen gegeben hat, der auf meinem Thron sitzt,
+und meine Augen sehen es noch.‘“
+<sup>49</sup>Da erschraken alle Gäste von Adonija,
+standen auf und gingen jeder seines Weges.
+<sup>50</sup>Adonija hatte Angst vor Salomo.
+Er stand auf, ging hin und hielt sich an den Hörnern des Altars fest.
+<sup>51</sup>Man meldete Salomo:
+„Schau, Adonija fürchtet sich vor dem König Salomo.
+Denn schau, er hält sich an den Hörnern des Altars fest und sagt:
+‚Der König Salomo soll mir zuerst schwören,
+dass er seinen Knecht nicht mit dem Schwert tötet.‘“
+<sup>52</sup>Salomo sagte:
+„Wenn er sich als tüchtiger Mann erweist,
+soll kein Haar von ihm auf die Erde fallen.
+Aber wenn Böses an ihm gefunden wird, muss er sterben.“
+<sup>53</sup>Da schickte der König Salomo hin,
+und man holte ihn vom Altar herab.
+Er kam und verneigte sich vor dem König Salomo.
+Und Salomo sagte zu ihm:
+„Geh in dein Haus.“
+
+> **Was bedeutet das?**
+> Mitten im Festessen kommt die Nachricht. Adonija erwartet eine gute Nachricht, aber es ist das Ende seiner Pläne. Alle Gäste laufen weg.
+> Adonija flieht zum Altar und hält sich an den „Hörnern“ fest, den Ecken des Altars. Der Altar war ein Ort des Schutzes. Wer sich dort festhielt, durfte nicht getötet werden, außer er war ein absichtlicher Mörder (2. Mose 21,14).
+> Salomo zeigt sich am Anfang großzügig: Wenn du dich gut verhältst, geschieht dir nichts. Aber er stellt eine klare Bedingung.
+
+## 1. Könige – Kapitel 2
+#### Davids Tod und Salomos harte Hand
+
+---
+
+### Davids letzte Anweisungen (Vers 1–9)
+
+<sup>1</sup>Als die Zeit kam, dass David sterben sollte,
+gab er seinem Sohn Salomo Anweisungen und sagte:
+<sup>2</sup>„Ich gehe den Weg aller Welt.
+Sei du nun stark und zeig dich als Mann.
+<sup>3</sup>Halte die Anweisungen des HERRN, deines Gottes.
+Geh auf seinen Wegen und halte seine Ordnungen, seine Gebote, seine Rechtsordnungen und seine Zeugnisse,
+wie es im Gesetz des Mose geschrieben steht,
+damit dir alles gelingt, was du tust, und wohin du dich wendest.
+<sup>4</sup>Dann wird der HERR sein Wort erfüllen, das er über mich gesagt hat:
+‚Wenn deine Kinder auf ihren Weg achten
+und in Treue vor mir gehen, mit ihrem ganzen Herzen und mit ihrer ganzen Seele,
+dann soll es dir nie an einem Mann auf dem Thron Israels fehlen.‘
+
+<sup>5</sup>Außerdem weißt du auch, was Joab, der Sohn der Zeruja, mir angetan hat,
+was er den beiden Heerführern Israels angetan hat,
+Abner, dem Sohn von Ner, und Amasa, dem Sohn von Jeter.
+Er hat sie getötet und im Frieden Blut wie im Krieg vergossen.
+Er hat das Blut des Krieges an seinen Gürtel um seine Hüften
+und an seine Sandalen an seinen Füßen gebracht.
+<sup>6</sup>Darum handle nach deiner Weisheit
+und lass sein graues Haar nicht in Frieden ins Totenreich hinabfahren.
+<sup>7</sup>Aber den Söhnen von Barsillai, dem Gileaditer, sollst du Güte erweisen.
+Sie sollen zu denen gehören, die an deinem Tisch essen.
+Denn so sind sie mir entgegengekommen, als ich vor deinem Bruder Absalom floh.
+
+<sup>8</sup>Und schau, da ist bei dir Schimi, der Sohn von Gera, der Benjaminiter aus Bahurim.
+Er hat mich mit einem schlimmen Fluch verflucht,
+an dem Tag, als ich nach Mahanajim ging.
+Aber er kam mir zum Jordan entgegen,
+und ich habe ihm beim HERRN geschworen:
+‚Ich will dich nicht mit dem Schwert töten.‘
+<sup>9</sup>Jetzt aber halte ihn nicht für unschuldig.
+Denn du bist ein weiser Mann,
+und du wirst wissen, was du mit ihm tun sollst.
+Und du sollst sein graues Haar mit Blut ins Totenreich hinabbringen.“
+
+> **Was bedeutet das?**
+> „Ich gehe den Weg aller Welt“ heißt: Ich werde sterben, wie alle Menschen.
+> Davids erster Rat ist gut: Halte Gottes Gebote. Dann wird dein Königreich bestehen. Gottes Versprechen an David (2. Samuel 7) hat eine Bedingung: Treue zu Gott.
+> Aber dann kommen Anweisungen, die schwer zu lesen sind. David bittet Salomo, mit Joab und Schimi abzurechnen.
+> Bei Joab kann man es verstehen: Er hat zwei Männer heimtückisch ermordet, Abner und Amasa, und dafür nie eine Strafe bekommen. David war damals zu schwach, um ihn zu bestrafen (2. Samuel 3,39). Jetzt soll Salomo die Gerechtigkeit nachholen.
+> Bei Schimi ist es schwieriger. David hatte ihm geschworen, ihn nicht zu töten. Jetzt sagt er Salomo: Du bist an meinen Schwur nicht gebunden. Das ist ein dunkler Moment am Ende von Davids Leben.
+> Die Bibel erzählt ehrlich, dass auch David bis zum Schluss ein Mensch mit Schwächen war.
+> Für Barsillai, der David in der Not geholfen hat, gibt es dagegen Dank und Treue.
+
+---
+
+### Davids Tod (Vers 10–12)
+
+<sup>10</sup>David legte sich zu seinen Vätern
+und wurde in der Stadt Davids begraben.
+<sup>11</sup>Die Zeit, in der David über Israel regierte, war vierzig Jahre.
+In Hebron regierte er sieben Jahre,
+und in Jerusalem regierte er dreiunddreißig Jahre.
+<sup>12</sup>Salomo saß auf dem Thron seines Vaters David,
+und seine Königsherrschaft wurde sehr gefestigt.
+
+> **Was bedeutet das?**
+> Mit wenigen Worten wird Davids Tod erzählt. Der Hirtenjunge aus Betlehem, der Goliat besiegte, der König, Dichter und Sünder, stirbt.
+> „Stadt Davids“ ist die Burg Zion in Jerusalem, die David erobert hatte.
+> In 2. Samuel 5,5 stand genauer: siebeneinhalb Jahre in Hebron. Hier wird gerundet.
+
+---
+
+### Adonija bittet um Abischag (Vers 13–25)
+
+<sup>13</sup>Da kam Adonija, der Sohn von Haggit, zu Batseba, der Mutter Salomos.
+Sie sagte: „Kommst du in Frieden?“
+Er sagte: „In Frieden.“
+<sup>14</sup>Und er sagte weiter:
+„Ich habe etwas mit dir zu reden.“
+Sie sagte: „Sprich.“
+<sup>15</sup>Er sagte:
+„Du weißt, dass das Königtum mir gehörte,
+und dass ganz Israel darauf gerichtet war, dass ich König werde.
+Aber das Königtum hat sich gewendet und ist meinem Bruder zugefallen,
+denn es kam vom HERRN zu ihm.
+<sup>16</sup>Jetzt habe ich eine einzige Bitte an dich.
+Weise mich nicht ab.“
+Sie sagte zu ihm: „Sprich.“
+<sup>17</sup>Er sagte:
+„Rede doch mit dem König Salomo,
+denn dir wird er nicht ‚Nein‘ sagen,
+dass er mir Abischag aus Schunem zur Frau gibt.“
+<sup>18</sup>Batseba sagte:
+„Gut. Ich will für dich mit dem König reden.“
+
+<sup>19</sup>Da ging Batseba zum König Salomo, um für Adonija mit ihm zu reden.
+Der König stand auf, ging ihr entgegen und verneigte sich vor ihr.
+Dann setzte er sich auf seinen Thron
+und ließ einen Thron für die Mutter des Königs aufstellen.
+Und sie setzte sich zu seiner Rechten.
+<sup>20</sup>Dann sagte sie:
+„Ich habe eine einzige kleine Bitte an dich.
+Weise mich nicht ab.“
+Der König sagte zu ihr:
+„Bitte, meine Mutter, denn ich werde dich nicht abweisen.“
+<sup>21</sup>Sie sagte:
+„Man soll Abischag aus Schunem deinem Bruder Adonija zur Frau geben.“
+<sup>22</sup>Der König Salomo antwortete seiner Mutter:
+„Warum bittest du um Abischag aus Schunem für Adonija?
+Bitte für ihn doch gleich um das Königtum,
+denn er ist mein älterer Bruder,
+für ihn und für Abjatar, den Priester, und für Joab, den Sohn der Zeruja!“
+<sup>23</sup>Dann schwor der König Salomo beim HERRN und sagte:
+„Gott tue mir dies und noch mehr:
+Mit diesem Wort hat Adonija sein eigenes Leben verwirkt.
+<sup>24</sup>Und jetzt, so wahr der HERR lebt,
+der mich eingesetzt und auf den Thron meines Vaters David gesetzt hat
+und der mir ein Haus gemacht hat, wie er versprochen hat:
+Adonija soll heute getötet werden.“
+<sup>25</sup>Der König Salomo schickte Benaja, den Sohn von Jojada.
+Der fiel über ihn her, sodass er starb.
+
+> **Was bedeutet das?**
+> Adonija tut so, als hätte er sich mit seiner Niederlage abgefunden. Aber dann bittet er um Abischag, die junge Frau, die David gepflegt hatte.
+> Damals galt: Wer die Frauen des verstorbenen Königs nimmt, erhebt Anspruch auf den Thron (vergleiche 2. Samuel 16,21–22). Salomo versteht sofort: Das ist ein versteckter Griff nach der Krone.
+> Batseba merkt es nicht, oder sie merkt es und lässt Adonija ins Messer laufen. Der Text sagt es nicht.
+> Salomo ehrt seine Mutter sehr: Er steht auf, verneigt sich und lässt einen Thron für sie zu seiner Rechten aufstellen. Die Mutter des Königs hatte eine wichtige Stellung am Hof.
+> Abischag wird wieder nicht gefragt. Sie ist nur ein Mittel im Kampf der Männer um Macht.
+> Salomo lässt seinen Bruder töten. Damit bricht er nicht direkt sein Versprechen aus Kapitel 1,52, denn er sieht in Adonijas Bitte etwas „Böses“.
+
+---
+
+### Abjatar und Joab (Vers 26–35)
+
+<sup>26</sup>Zu Abjatar, dem Priester, sagte der König:
+„Geh nach Anatot, auf deine eigenen Felder,
+denn du hast den Tod verdient.
+Aber ich will dich jetzt nicht töten,
+weil du die Lade des Herrn, des HERRN, vor meinem Vater David getragen hast
+und weil du alles mitgelitten hast, was mein Vater gelitten hat.“
+<sup>27</sup>So verstieß Salomo Abjatar,
+dass er nicht mehr Priester für den HERRN war.
+So sollte das Wort des HERRN erfüllt werden,
+das er in Schilo über das Haus Eli gesagt hatte.
+
+<sup>28</sup>Diese Nachricht kam zu Joab.
+Denn Joab hatte zu Adonija gehalten,
+obwohl er nicht zu Absalom gehalten hatte.
+Joab floh zum Zelt des HERRN
+und hielt sich an den Hörnern des Altars fest.
+<sup>29</sup>Man meldete dem König Salomo:
+„Joab ist zum Zelt des HERRN geflohen,
+und schau, er ist beim Altar.“
+Da schickte Salomo Benaja, den Sohn von Jojada, und sagte:
+„Geh hin und fall über ihn her.“
+<sup>30</sup>Benaja kam zum Zelt des HERRN und sagte zu ihm:
+„So sagt der König: ‚Komm heraus!‘“
+Er sagte:
+„Nein, sondern hier will ich sterben.“
+Benaja brachte dem König die Antwort zurück und sagte:
+„So hat Joab gesagt, und so hat er mir geantwortet.“
+<sup>31</sup>Der König sagte zu ihm:
+„Tu, wie er gesagt hat.
+Fall über ihn her und begrab ihn.
+So nimmst du das Blut, das Joab ohne Grund vergossen hat,
+von mir und vom Haus meines Vaters weg.
+<sup>32</sup>Der HERR wird sein Blut auf seinen eigenen Kopf zurückbringen.
+Denn er ist über zwei Männer hergefallen, die gerechter und besser waren als er,
+und hat sie mit dem Schwert getötet, ohne dass mein Vater David es wusste:
+Abner, den Sohn von Ner, den Heerführer Israels,
+und Amasa, den Sohn von Jeter, den Heerführer Judas.
+<sup>33</sup>So soll ihr Blut für immer auf den Kopf Joabs und auf den Kopf seiner Nachkommen zurückkommen.
+Aber für David und seine Nachkommen, für sein Haus und für seinen Thron
+soll Frieden vom HERRN sein für immer.“
+<sup>34</sup>Da ging Benaja, der Sohn von Jojada, hinauf,
+fiel über ihn her und tötete ihn.
+Und er wurde in seinem Haus in der Wüste begraben.
+<sup>35</sup>Der König setzte Benaja, den Sohn von Jojada, an seiner Stelle über das Heer.
+Und Zadok, den Priester, setzte der König an die Stelle von Abjatar.
+
+> **Was bedeutet das?**
+> Abjatar hatte David treu gedient, auf der Flucht vor Saul und vor Absalom. Darum verschont Salomo sein Leben. Aber er verliert sein Priesteramt.
+> Damit erfüllt sich ein altes Wort: Der Familie Elis war angekündigt worden, dass sie das Priesteramt verliert (1. Samuel 2,30–35). Abjatar war der letzte Priester aus Elis Familie.
+> Anatot war ein Dorf nördlich von Jerusalem. Später kam der Prophet Jeremia aus einer Priesterfamilie aus Anatot (Jeremia 1,1).
+> Joab flieht zum Altar wie Adonija. Aber der Schutz des Altars galt nicht für Mörder (2. Mose 21,14). Joab hatte Abner und Amasa ermordet.
+> So endet das Leben des Mannes, der David viele Siege gebracht hat, aber auch so viel Blut vergossen hat. Er stirbt, wie er gelebt hat: durch das Schwert.
+> Benaja wird neuer Heerführer, Zadok wird der oberste Priester. Seine Nachkommen bleiben Priester bis in viel spätere Zeit.
+
+---
+
+### Schimis Ende (Vers 36–46)
+
+<sup>36</sup>Der König schickte hin, ließ Schimi rufen und sagte zu ihm:
+„Bau dir ein Haus in Jerusalem und wohne dort.
+Und geh von dort nirgendwo anders hin.
+<sup>37</sup>Denn an dem Tag, an dem du hinausgehst und den Bach Kidron überschreitest,
+sollst du sicher wissen, dass du sterben musst.
+Dein Blut wird auf deinem eigenen Kopf sein.“
+<sup>38</sup>Schimi sagte zum König:
+„Das Wort ist gut.
+So wie mein Herr, der König, gesagt hat, so wird dein Knecht es tun.“
+Und Schimi wohnte lange Zeit in Jerusalem.
+<sup>39</sup>Nach drei Jahren liefen zwei Sklaven von Schimi weg
+zu Achisch, dem Sohn von Maacha, dem König von Gat.
+Man erzählte Schimi:
+„Schau, deine Sklaven sind in Gat.“
+<sup>40</sup>Da machte sich Schimi auf, sattelte seinen Esel
+und ging nach Gat zu Achisch, um seine Sklaven zu suchen.
+Und Schimi ging hin und holte seine Sklaven aus Gat zurück.
+<sup>41</sup>Man erzählte Salomo,
+dass Schimi von Jerusalem nach Gat gegangen und wieder zurückgekommen war.
+<sup>42</sup>Da schickte der König hin, ließ Schimi rufen und sagte zu ihm:
+„Habe ich dich nicht beim HERRN schwören lassen und dich gewarnt:
+‚Du sollst sicher wissen: An dem Tag, an dem du hinausgehst und irgendwo anders hingehst,
+musst du sterben‘?
+Und du hast zu mir gesagt:
+‚Das Wort, das ich gehört habe, ist gut.‘
+<sup>43</sup>Warum hast du dann den Schwur beim HERRN nicht gehalten
+und das Gebot, das ich dir gegeben habe?“
+<sup>44</sup>Weiter sagte der König zu Schimi:
+„Du kennst in deinem Herzen all das Böse, das du meinem Vater David angetan hast.
+Darum wird der HERR deine Bosheit auf deinen eigenen Kopf zurückbringen.
+<sup>45</sup>Aber der König Salomo wird gesegnet sein,
+und der Thron Davids wird vor dem HERRN für immer feststehen.“
+<sup>46</sup>Dann gab der König Benaja, dem Sohn von Jojada, den Befehl.
+Er ging hinaus und fiel über ihn her, sodass er starb.
+So wurde das Königtum in der Hand Salomos gefestigt.
+
+> **Was bedeutet das?**
+> Salomo gibt Schimi eine Chance: Er darf leben, aber er muss in Jerusalem bleiben, unter Aufsicht. So kann er keinen Aufstand im Stamm Benjamin anzetteln.
+> Nach drei Jahren bricht Schimi die Abmachung, um zwei geflohene Sklaven zurückzuholen. Salomo lässt ihn töten.
+> Das Kapitel endet mit dem Satz: „So wurde das Königtum in der Hand Salomos gefestigt.“ Salomo hat alle möglichen Gegner beseitigt: Adonija, Joab, Schimi. Abjatar ist verbannt.
+> Das ist ein hartes Kapitel. Es zeigt, wie es damals bei einem Machtwechsel zuging. Die Bibel beschönigt nichts. Wir lesen es nicht als Vorbild, sondern als ehrlichen Bericht über die Machtpolitik jener Zeit.
+> Dass zwei Sklaven weglaufen, erinnert daran, dass es damals in Israel Sklaverei gab. Das Gesetz des Mose hatte eigentlich geboten, geflohene Sklaven nicht zurückzuschicken (5. Mose 23,16).
+
+## 1. Könige – Kapitel 3
+#### Salomo bittet um Weisheit
+
+---
+
+### Salomo und die Opferhöhen (Vers 1–4)
+
+<sup>1</sup>Salomo verschwägerte sich mit dem Pharao, dem König von Ägypten.
+Er nahm die Tochter des Pharao zur Frau
+und brachte sie in die Stadt Davids,
+bis er sein eigenes Haus, das Haus des HERRN
+und die Mauer rings um Jerusalem fertig gebaut hatte.
+<sup>2</sup>Doch das Volk opferte auf den Opferhöhen,
+weil noch kein Haus für den Namen des HERRN gebaut war.
+<sup>3</sup>Salomo liebte den HERRN
+und lebte nach den Ordnungen seines Vaters David.
+Nur opferte er auch auf den Opferhöhen und verbrannte dort Weihrauch.
+<sup>4</sup>Der König ging nach Gibeon, um dort zu opfern,
+denn das war die große Opferhöhe.
+Salomo brachte auf diesem Altar tausend Brandopfer dar.
+
+> **Was bedeutet das?**
+> Salomo heiratet eine Tochter des Pharao. Das zeigt, wie mächtig Israel geworden ist: Der König von Ägypten gibt seine Tochter einem israelitischen König. Solche Ehen waren damals politische Bündnisse.
+> Aber das Gesetz warnte: Ein König soll nicht viele Frauen haben, und er soll das Volk nicht nach Ägypten zurückführen (5. Mose 17,16–17). Später wird Salomo viele ausländische Frauen haben, und sie werden sein Herz zu fremden Göttern ziehen (Kapitel 11).
+> „Opferhöhen“ waren Plätze auf Hügeln, an denen man opferte. Weil es noch keinen Tempel gab, opferte man auch dem HERRN dort. Später wurden die Opferhöhen verboten, weil man dort oft auch fremden Göttern diente.
+> „Salomo liebte den HERRN“: Am Anfang ist Salomo ganz auf Gott ausgerichtet.
+> In Gibeon stand damals das Zelt der Begegnung aus der Zeit des Mose (2. Chronik 1,3).
+
+---
+
+### „Bitte, was ich dir geben soll“ (Vers 5–9)
+
+<sup>5</sup>In Gibeon erschien der HERR Salomo in der Nacht im Traum.
+Und Gott sagte:
+„Bitte, was ich dir geben soll.“
+<sup>6</sup>Salomo sagte:
+„Du hast deinem Knecht David, meinem Vater, große Güte erwiesen,
+weil er vor dir in Treue, in Gerechtigkeit und mit aufrichtigem Herzen gelebt hat.
+Und du hast ihm diese große Güte bewahrt
+und ihm einen Sohn gegeben, der auf seinem Thron sitzt, wie es heute ist.
+<sup>7</sup>Und jetzt, HERR, mein Gott,
+du hast deinen Knecht an Stelle meines Vaters David zum König gemacht.
+Ich bin nur ein kleiner Junge.
+Ich weiß nicht, wie ich aus- und eingehen soll.
+<sup>8</sup>Und dein Knecht steht mitten in deinem Volk, das du erwählt hast,
+ein großes Volk, das man vor Menge nicht zählen und nicht berechnen kann.
+<sup>9</sup>Darum gib deinem Knecht ein verständiges Herz,
+damit er dein Volk richten kann
+und zwischen Gut und Böse unterscheiden kann.
+Denn wer kann dieses dein großes Volk richten?“
+
+> **Was bedeutet das?**
+> Gott sagt zu Salomo: Wünsch dir etwas! Was würdest du dir wünschen?
+> Salomo beginnt mit Dank: Du warst so gut zu meinem Vater. Dann sagt er ehrlich: Ich bin noch jung und unerfahren. Ich weiß nicht, wie man ein ganzes Volk führt.
+> „Aus- und eingehen“ heißt: Ich weiß nicht, wie man sich als Anführer verhält.
+> Und dann bittet er nicht um Reichtum oder Macht, sondern um ein „verständiges Herz“. Im Hebräischen steht wörtlich: „ein hörendes Herz“. Ein Herz, das auf Gott und auf die Menschen hören kann. Nur wer gut zuhört, kann gerecht urteilen.
+> Das ist eine wunderbare Bitte, auch für uns heute: Gott, gib mir ein hörendes Herz.
+
+---
+
+### Gott schenkt mehr als erbeten (Vers 10–15)
+
+<sup>10</sup>Diese Bitte gefiel dem Herrn, dass Salomo um diese Sache gebeten hatte.
+<sup>11</sup>Gott sagte zu ihm:
+„Weil du um diese Sache gebeten hast
+und nicht für dich um ein langes Leben gebeten hast,
+nicht um Reichtum für dich
+und nicht um das Leben deiner Feinde,
+sondern weil du für dich um Verstand gebeten hast, um das Recht zu verstehen,
+<sup>12</sup>schau, darum habe ich nach deinem Wort getan.
+Schau, ich habe dir ein weises und verständiges Herz gegeben,
+sodass es vor dir keinen gegeben hat wie dich,
+und nach dir keiner aufstehen wird wie du.
+<sup>13</sup>Ich habe dir auch das gegeben, worum du nicht gebeten hast,
+sowohl Reichtum als auch Ehre,
+sodass es unter den Königen keinen wie dich geben wird, solange du lebst.
+<sup>14</sup>Und wenn du auf meinen Wegen gehst
+und meine Ordnungen und meine Gebote hältst,
+wie dein Vater David gegangen ist,
+dann will ich dir ein langes Leben geben.“
+<sup>15</sup>Salomo erwachte, und schau, es war ein Traum.
+Dann kam er nach Jerusalem,
+stellte sich vor die Lade des Bundes des HERRN
+und brachte Brandopfer und Friedensopfer dar
+und machte ein Festmahl für alle seine Diener.
+
+> **Was bedeutet das?**
+> Gott freut sich über Salomos Bitte. Salomo hat nicht an sich selbst gedacht, sondern an das Volk und an die Gerechtigkeit.
+> Und Gott schenkt ihm mehr, als er erbeten hat: Weisheit, aber dazu auch Reichtum und Ehre. Jesus hat später etwas Ähnliches gesagt: „Sucht zuerst das Reich Gottes und seine Gerechtigkeit, dann wird euch das alles dazugegeben“ (Matthäus 6,33).
+> Aber das lange Leben hat eine Bedingung: Wenn du auf meinen Wegen gehst. Gottes Geschenke verpflichten.
+> Nach dem Traum geht Salomo nach Jerusalem, vor die Lade. Er feiert mit allen seinen Dienern.
+
+---
+
+### Das Urteil zwischen den zwei Müttern (Vers 16–28)
+
+<sup>16</sup>Da kamen zwei Frauen, die Prostituierte waren, zum König
+und stellten sich vor ihn.
+<sup>17</sup>Die eine Frau sagte:
+„Ach, mein Herr, ich und diese Frau wohnen in einem Haus.
+Ich habe bei ihr im Haus ein Kind geboren.
+<sup>18</sup>Am dritten Tag, nachdem ich geboren hatte,
+hat auch diese Frau ein Kind geboren.
+Wir waren zusammen.
+Es war kein Fremder bei uns im Haus,
+nur wir beide waren im Haus.
+<sup>19</sup>Das Kind dieser Frau ist in der Nacht gestorben,
+weil sie auf ihm gelegen hat.
+<sup>20</sup>Sie stand um Mitternacht auf
+und nahm meinen Sohn von meiner Seite weg, während deine Magd schlief.
+Sie legte ihn in ihren Arm
+und ihr totes Kind legte sie in meinen Arm.
+<sup>21</sup>Als ich am Morgen aufstand, um mein Kind zu stillen,
+schau, da war es tot.
+Aber als ich es am Morgen genau ansah,
+schau, da war es nicht mein Sohn, den ich geboren hatte.“
+<sup>22</sup>Die andere Frau sagte:
+„Nein! Sondern das lebende Kind ist mein Sohn, und das tote ist dein Sohn.“
+Die erste sagte:
+„Nein! Sondern das tote ist dein Sohn, und das lebende ist mein Sohn.“
+So stritten sie vor dem König.
+
+<sup>23</sup>Da sagte der König:
+„Die eine sagt: ‚Dies ist mein Sohn, der lebt, und dein Sohn ist der tote.‘
+Und die andere sagt: ‚Nein! Sondern dein Sohn ist der tote, und mein Sohn ist der lebende.‘“
+<sup>24</sup>Der König sagte:
+„Holt mir ein Schwert.“
+Da brachte man ein Schwert vor den König.
+<sup>25</sup>Der König sagte:
+„Teilt das lebende Kind in zwei Teile
+und gebt der einen die Hälfte und der anderen die Hälfte.“
+<sup>26</sup>Da sagte die Frau, der das lebende Kind gehörte, zum König,
+denn ihr Herz brannte vor Liebe zu ihrem Sohn:
+„Ach, mein Herr, gebt ihr das lebende Kind,
+und tötet es auf keinen Fall!“
+Aber die andere sagte:
+„Es soll weder mir noch dir gehören. Teilt es!“
+<sup>27</sup>Da antwortete der König und sagte:
+„Gebt der ersten Frau das lebende Kind,
+und tötet es auf keinen Fall.
+Sie ist seine Mutter.“
+<sup>28</sup>Ganz Israel hörte von dem Urteil, das der König gefällt hatte.
+Und sie hatten Ehrfurcht vor dem König.
+Denn sie sahen, dass die Weisheit Gottes in ihm war, um Recht zu sprechen.
+
+> **Was bedeutet das?**
+> Gleich nach dem Traum zeigt sich Salomos Weisheit. Zwei Frauen streiten um ein Kind. Es gibt keine Zeugen. Wort steht gegen Wort.
+> Bemerkenswert: Die Frauen sind Prostituierte, Menschen, die in der Gesellschaft verachtet wurden. Aber der König hört auch sie an. Gerechtigkeit gilt für alle, nicht nur für die Angesehenen.
+> Salomo befiehlt etwas Schreckliches: das Kind zu teilen. Aber er meint es nicht ernst. Er will das Herz der Frauen prüfen.
+> Die echte Mutter will lieber ihr Kind verlieren als es sterben sehen. Ihre Liebe ist selbstlos. Die andere Frau will nur, dass keine das Kind bekommt. So zeigt sich die Wahrheit.
+> Das „hörende Herz“, um das Salomo gebeten hatte, zeigt sich hier: Er hört nicht nur auf die Worte, sondern auf das Herz.
+> Dieses „salomonische Urteil“ ist bis heute weltberühmt. Man sagt „ein salomonisches Urteil“, wenn jemand einen schwierigen Streit klug löst.
