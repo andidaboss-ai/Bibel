@@ -54086,3 +54086,377 @@ und die linke nannte er Boas.
 > „Jachin“ heißt „Er (Gott) richtet auf“ oder „Er macht fest“. „Boas“ heißt „In ihm ist Stärke“. Zusammen sagen sie: Gott gibt Halt und Kraft.
 > In der Bibel steht „35 Ellen“ und „5 Ellen“. Eine Elle sind etwa 45 Zentimeter. In 1. Könige 7,15 sind die Säulen nur 18 Ellen hoch. Vielleicht sind hier beide Säulen zusammengerechnet.
 > „Im Inneren des Heiligtums“: Im Hebräischen steht ein Wort, das man auch als „wie eine Halskette“ lesen kann. Gemeint ist wohl ein Kettengeflecht als Schmuck.
+
+## 2. Chronik – Kapitel 4
+#### Die Geräte für den Tempel
+
+---
+
+### Der Altar, das Meer und die Becken (Vers 1–10)
+
+<sup>1</sup>Dann machte er einen Altar aus Bronze,
+etwa 9 Meter lang, etwa 9 Meter breit und etwa 4,5 Meter hoch.
+<sup>2</sup>Er machte auch das gegossene Meer,
+von Rand zu Rand etwa 4,5 Meter.
+Es war rund, etwa 2,25 Meter hoch,
+und hatte einen Umfang von etwa 13,5 Metern.
+<sup>3</sup>Unter ihm waren Bilder von Rindern, die es ringsum umgaben,
+auf etwa 4,5 Metern rings um das Meer.
+Die Rinder waren in zwei Reihen gegossen,
+zusammen mit dem Meer in einem Guss.
+<sup>4</sup>Es stand auf zwölf Rindern.
+Drei schauten nach Norden,
+drei schauten nach Westen,
+drei schauten nach Süden
+und drei schauten nach Osten.
+Das Meer lag oben auf ihnen,
+und ihre Hinterteile waren alle nach innen gerichtet.
+<sup>5</sup>Es war eine Handbreit dick.
+Sein Rand war gemacht wie der Rand eines Bechers, wie eine Lilienblüte.
+Es fasste etwa 66 000 Liter.
+<sup>6</sup>Er machte auch zehn Becken
+und stellte fünf auf die rechte und fünf auf die linke Seite,
+um darin zu waschen.
+Darin wusch man, was zum Brandopfer gehörte.
+Das Meer aber war für die Priester zum Waschen.
+<sup>7</sup>Er machte die zehn goldenen Leuchter, wie es für sie vorgeschrieben war,
+und stellte sie in den Tempel,
+fünf auf die rechte und fünf auf die linke Seite.
+<sup>8</sup>Er machte auch zehn Tische
+und stellte sie in den Tempel,
+fünf auf die rechte und fünf auf die linke Seite.
+Und er machte hundert goldene Schalen.
+<sup>9</sup>Er machte den Vorhof der Priester und den großen Vorhof
+und Türen für den Vorhof,
+und ihre Türen überzog er mit Bronze.
+<sup>10</sup>Das Meer stellte er auf die rechte Seite des Hauses, nach Südosten.
+
+> **Was bedeutet das?**
+> Hier werden die Geräte für den Tempel aufgezählt. Die meisten kennen wir aus 1. Könige 7.
+> Der große Altar aus Bronze für die Brandopfer wird nur hier so genau beschrieben.
+> Das „Meer“ war ein riesiges Wasserbecken. Darin wuschen sich die Priester, bevor sie Dienst taten. Reinheit vor Gott war wichtig.
+> Die zwölf Rinder zeigen in alle vier Himmelsrichtungen, vielleicht ein Bild für die zwölf Stämme Israels.
+> In 1. Könige 7,24 stehen statt der Rinder „Koloquinten“ (eine Art Kürbisse) unter dem Rand. Die Wörter sehen im Hebräischen ähnlich aus.
+> In der Bibel stehen Ellen (eine Elle sind etwa 45 Zentimeter), eine „Handbreit“ (etwa 7,5 Zentimeter) und „3000 Bat“ (ein Bat sind etwa 22 Liter). In 1. Könige 7,26 stehen 2000 Bat.
+
+---
+
+### Hurams Arbeiten (Vers 11–18)
+
+<sup>11</sup>Huram machte die Töpfe, die Schaufeln und die Schalen.
+So vollendete Huram die Arbeit, die er für den König Salomo am Haus Gottes machte:
+<sup>12</sup>die zwei Säulen,
+die kugelförmigen Kapitelle oben auf den zwei Säulen,
+und die zwei Flechtwerke, um die zwei Kugeln der Kapitelle oben auf den Säulen zu bedecken,
+<sup>13</sup>und die 400 Granatäpfel für die zwei Flechtwerke,
+zwei Reihen Granatäpfel für jedes Flechtwerk,
+um die zwei Kugeln der Kapitelle auf den Säulen zu bedecken.
+<sup>14</sup>Er machte auch die Kesselwagen,
+und die Becken auf den Kesselwagen,
+<sup>15</sup>das eine Meer und die zwölf Rinder darunter.
+<sup>16</sup>Auch die Töpfe, die Schaufeln, die Gabeln und alle Geräte dazu
+machte Huram-Abi für den König Salomo, für das Haus des HERRN,
+aus glänzender Bronze.
+<sup>17</sup>Der König goss sie in der Jordanebene,
+im Lehmboden zwischen Sukkot und Zereda.
+<sup>18</sup>So machte Salomo alle diese Geräte in großer Menge,
+sodass man das Gewicht der Bronze nicht feststellen konnte.
+
+> **Was bedeutet das?**
+> Huram-Abi, der Künstler aus Tyrus, machte die Geräte aus Bronze.
+> Gegossen wurde in der Jordanebene, wo es den richtigen Lehm für die Gussformen gab. Archäologen haben in dieser Gegend Spuren von alter Metallverarbeitung gefunden.
+> „Kugelförmige Kapitelle“: Im Hebräischen steht ein Wort für „Schalen“ oder „Kugeln“.
+
+---
+
+### Die goldenen Geräte (Vers 19–22)
+
+<sup>19</sup>Salomo machte alle Geräte, die im Haus Gottes waren:
+den goldenen Altar,
+die Tische, auf denen die Schaubrote lagen,
+<sup>20</sup>und die Leuchter mit ihren Lampen, aus reinem Gold,
+die nach der Vorschrift vor dem Allerheiligsten brennen sollten,
+<sup>21</sup>dazu die Blüten, die Lampen und die Zangen aus Gold, aus reinstem Gold,
+<sup>22</sup>und die Dochtscheren, die Becken, die Schalen und die Feuerpfannen aus reinem Gold.
+Und was den Eingang des Hauses betrifft:
+Seine inneren Türen zum Allerheiligsten
+und die Türen zur großen Halle des Tempels waren aus Gold.
+
+> **Was bedeutet das?**
+> Im Inneren des Tempels war alles aus Gold. Je näher man dem Allerheiligsten kam, desto kostbarer wurde alles.
+> Der „goldene Altar“ war der Räucheraltar. Darauf wurde Weihrauch verbrannt. Der Rauch stieg auf wie ein Gebet (Psalm 141,2).
+
+## 2. Chronik – Kapitel 5
+#### Die Lade kommt in den Tempel
+
+---
+
+### Der Tempel ist fertig (Vers 1–6)
+
+<sup>1</sup>So wurde die ganze Arbeit vollendet, die Salomo für das Haus des HERRN machte.
+Salomo brachte hinein, was sein Vater David geweiht hatte:
+das Silber, das Gold und alle Geräte.
+Er legte sie in die Schatzkammern des Hauses Gottes.
+<sup>2</sup>Dann versammelte Salomo die Ältesten Israels
+und alle Oberhäupter der Stämme,
+die Fürsten der Familien der Israeliten,
+nach Jerusalem,
+um die Lade des Bundes des HERRN aus der Stadt Davids heraufzubringen, das ist Zion.
+<sup>3</sup>So versammelten sich alle Männer Israels beim König zum Fest im siebten Monat.
+<sup>4</sup>Alle Ältesten Israels kamen.
+Und die Leviten hoben die Lade auf.
+<sup>5</sup>Sie brachten die Lade herauf,
+das Zelt der Begegnung und alle heiligen Geräte, die im Zelt waren.
+Die Priester, die Leviten, brachten sie herauf.
+<sup>6</sup>Der König Salomo und die ganze Gemeinde Israels, die sich bei ihm versammelt hatte,
+waren vor der Lade
+und opferten Schafe und Rinder, so viele, dass man sie nicht zählen und nicht berechnen konnte.
+
+> **Was bedeutet das?**
+> Die Geschichte steht fast genauso in 1. Könige 8.
+> Das Fest im siebten Monat ist das Laubhüttenfest im Herbst.
+> Diesmal tragen die Leviten die Lade richtig, auf ihren Schultern (vgl. 1. Chronik 15). Die Chronik betont das: Hier sind es „die Leviten“, in 1. Könige 8,3 „die Priester“.
+> „Die Priester, die Leviten“: Gemeint sind wohl die Priester aus dem Stamm Levi. In manchen Handschriften steht „die Priester und die Leviten“.
+
+---
+
+### Die Lade im Allerheiligsten (Vers 7–10)
+
+<sup>7</sup>Die Priester brachten die Lade des Bundes des HERRN an ihren Platz,
+in den innersten Raum des Hauses, in das Allerheiligste,
+unter die Flügel der Cherubim.
+<sup>8</sup>Denn die Cherubim breiteten ihre Flügel über den Platz der Lade aus,
+und die Cherubim bedeckten die Lade und ihre Stangen von oben.
+<sup>9</sup>Die Stangen waren so lang,
+dass man die Enden der Stangen von der Lade aus vor dem innersten Raum sah.
+Aber draußen sah man sie nicht.
+Und sie ist dort bis zum heutigen Tag.
+<sup>10</sup>In der Lade war nichts außer den zwei Tafeln,
+die Mose am Horeb hineingelegt hatte,
+als der HERR mit den Israeliten einen Bund schloss,
+als sie aus Ägypten auszogen.
+
+> **Was bedeutet das?**
+> In der Lade lagen nur die zwei Steintafeln mit den Zehn Geboten. Im Herzen des Tempels ist Gottes Wort.
+> „Bis zum heutigen Tag“: Dieser Satz stammt aus der Quelle, die die Chronik benutzt hat (1. Könige 8,8). Zur Zeit der Chronik gab es die Lade schon lange nicht mehr. Sie ging bei der Zerstörung Jerusalems 587 vor Christus verloren.
+
+---
+
+### Die Herrlichkeit Gottes erfüllt das Haus (Vers 11–14)
+
+<sup>11</sup>Als die Priester aus dem Heiligen herauskamen
+– denn alle Priester, die da waren, hatten sich geheiligt,
+ohne auf ihre Abteilungen zu achten,
+<sup>12</sup>und auch die Leviten, die Sänger, alle,
+Asaf, Heman, Jedutun, ihre Söhne und ihre Brüder,
+in feines Leinen gekleidet,
+mit Zimbeln, Zithern und Harfen,
+standen östlich vom Altar,
+und mit ihnen 120 Priester, die Trompeten bliesen –,
+<sup>13</sup>als die Trompeter und die Sänger wie einer waren,
+um mit einer Stimme den HERRN zu loben und ihm zu danken,
+und als sie ihre Stimme erhoben, mit Trompeten, Zimbeln und Musikinstrumenten,
+und den HERRN lobten:
+„Denn er ist gut, denn seine Güte währt ewig!“,
+da wurde das Haus mit einer Wolke erfüllt, das Haus des HERRN,
+<sup>14</sup>sodass die Priester wegen der Wolke nicht stehen bleiben konnten, um ihren Dienst zu tun.
+Denn die Herrlichkeit des HERRN erfüllte das Haus Gottes.
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt: Gott selbst kommt in sein Haus. Die Wolke ist das Zeichen seiner Gegenwart.
+> Die Chronik fügt etwas hinzu, das in 1. Könige 8 fehlt: die große Musik. Alle Priester, 120 Trompeter, alle Sänger singen „wie einer“, „mit einer Stimme“. Und genau in dem Moment, als sie singen „Denn er ist gut, denn seine Güte währt ewig“, kommt die Herrlichkeit Gottes. Gemeinsames Lob öffnet den Raum für Gottes Gegenwart.
+> Alle Priester waren da, egal zu welcher Abteilung sie gehörten. An diesem besonderen Tag dienten alle zusammen.
+
+## 2. Chronik – Kapitel 6
+#### Salomos Gebet bei der Einweihung des Tempels
+
+---
+
+### Salomo segnet das Volk (Vers 1–11)
+
+<sup>1</sup>Da sagte Salomo:
+„Der HERR hat gesagt, dass er im Dunkel wohnen will.
+<sup>2</sup>Ich aber habe dir ein Haus gebaut, eine Wohnung,
+einen Ort, an dem du für immer wohnen kannst.“
+<sup>3</sup>Der König wandte sein Gesicht um
+und segnete die ganze Versammlung Israels.
+Und die ganze Versammlung Israels stand.
+<sup>4</sup>Er sagte:
+„Gelobt sei der HERR, der Gott Israels,
+der mit seinem Mund zu meinem Vater David geredet
+und es mit seinen Händen erfüllt hat.
+Er hat gesagt:
+<sup>5</sup>‚Seit dem Tag, an dem ich mein Volk aus dem Land Ägypten herausgeführt habe,
+habe ich keine Stadt aus allen Stämmen Israels erwählt, um ein Haus zu bauen,
+damit mein Name dort sei.
+Und ich habe keinen Mann erwählt, Fürst über mein Volk Israel zu sein.
+<sup>6</sup>Aber jetzt habe ich Jerusalem erwählt, damit mein Name dort sei.
+Und ich habe David erwählt, über mein Volk Israel zu sein.‘
+<sup>7</sup>Mein Vater David hatte es im Herzen,
+ein Haus für den Namen des HERRN, des Gottes Israels, zu bauen.
+<sup>8</sup>Aber der HERR sagte zu meinem Vater David:
+‚Dass du es im Herzen hattest, ein Haus für meinen Namen zu bauen,
+daran hast du gut getan, dass du es im Herzen hattest.
+<sup>9</sup>Doch du sollst das Haus nicht bauen,
+sondern dein Sohn, der aus deinem Leib hervorgehen wird,
+der soll das Haus für meinen Namen bauen.‘
+<sup>10</sup>Der HERR hat sein Wort erfüllt, das er gesagt hat.
+Denn ich bin an die Stelle meines Vaters David getreten
+und sitze auf dem Thron Israels, wie der HERR versprochen hat.
+Und ich habe das Haus für den Namen des HERRN, des Gottes Israels, gebaut.
+<sup>11</sup>Dort habe ich die Lade hingestellt,
+in der der Bund des HERRN ist,
+den er mit den Israeliten geschlossen hat.“
+
+> **Was bedeutet das?**
+> Diese Rede steht fast gleich in 1. Könige 8,12–21.
+> Salomo betont: Gott hat sein Versprechen gehalten. Gott hat Jerusalem und David erwählt.
+> „Im Dunkel wohnen“: Gott ist ein Geheimnis. Niemand kann ihn sehen. Das Allerheiligste hatte keine Fenster.
+> Gott lobt David schon für den guten Wunsch in seinem Herzen, auch wenn er ihn nicht selbst ausführen durfte.
+
+---
+
+### Salomos Gebet: Gott, höre! (Vers 12–21)
+
+<sup>12</sup>Er stellte sich vor den Altar des HERRN,
+vor der ganzen Versammlung Israels,
+und breitete seine Hände aus.
+<sup>13</sup>– Salomo hatte nämlich ein Podest aus Bronze gemacht,
+etwa 2,25 Meter lang, etwa 2,25 Meter breit und etwa 1,35 Meter hoch,
+und hatte es mitten in den Vorhof gestellt.
+Darauf stand er.
+Er kniete vor der ganzen Versammlung Israels auf seine Knie
+und breitete seine Hände zum Himmel aus. –
+<sup>14</sup>Er sagte:
+„HERR, Gott Israels,
+es gibt keinen Gott wie dich, im Himmel und auf der Erde.
+Du hältst den Bund und die Güte mit deinen Knechten,
+die vor dir mit ihrem ganzen Herzen leben.
+<sup>15</sup>Du hast deinem Knecht David, meinem Vater, gehalten, was du ihm versprochen hast.
+Ja, du hast es mit deinem Mund gesagt und mit deiner Hand erfüllt, wie es heute ist.
+<sup>16</sup>Und jetzt, HERR, Gott Israels,
+halte auch deinem Knecht David, meinem Vater, was du ihm versprochen hast, als du sagtest:
+‚Es soll dir nie an einem Mann vor mir fehlen, der auf dem Thron Israels sitzt,
+wenn nur deine Kinder auf ihren Weg achten,
+dass sie nach meinem Gesetz leben, wie du vor mir gelebt hast.‘
+<sup>17</sup>Und jetzt, HERR, Gott Israels,
+möge sich dein Wort als wahr erweisen,
+das du zu deinem Knecht David gesagt hast.
+<sup>18</sup>Aber wohnt Gott wirklich bei den Menschen auf der Erde?
+Schau, der Himmel und der Himmel der Himmel können dich nicht fassen,
+wie viel weniger dieses Haus, das ich gebaut habe!
+<sup>19</sup>Doch wende dich zum Gebet deines Knechtes und zu seinem Flehen, HERR, mein Gott,
+und höre auf das Schreien und das Gebet, das dein Knecht vor dir betet.
+<sup>20</sup>Deine Augen mögen Tag und Nacht offen sein über diesem Haus,
+über dem Ort, von dem du gesagt hast, dass du deinen Namen dorthin legen willst.
+Höre auf das Gebet, das dein Knecht zu diesem Ort hin betet.
+<sup>21</sup>Höre auf das Flehen deines Knechtes und deines Volkes Israel,
+wenn sie zu diesem Ort hin beten.
+Ja, höre von deiner Wohnung aus, vom Himmel,
+und wenn du hörst, dann vergib.“
+
+> **Was bedeutet das?**
+> Die Chronik erzählt eine Einzelheit, die in 1. Könige 8 fehlt: Salomo stand auf einem Podest, damit alle ihn sehen konnten, und kniete dort vor dem ganzen Volk nieder. Der mächtige König kniet vor Gott.
+> In Vers 16 steht „nach meinem Gesetz leben“. In 1. Könige 8,25 steht „vor mir leben“. Für die Chronik ist das Gesetz Gottes besonders wichtig.
+> Vers 18 ist einer der wichtigsten Sätze: Gott ist so groß, dass nicht einmal der Himmel ihn fassen kann. Wie dann ein Haus? Der Tempel ist kein Gefängnis für Gott, sondern ein Ort, an dem Menschen ihm begegnen und beten können.
+> Das wichtigste Wort im Gebet heißt: „Höre.“ Und dann: „Vergib.“ Der Tempel ist vor allem ein Ort der Vergebung.
+> In der Bibel steht „5 Ellen“ und „3 Ellen“. Eine Elle sind etwa 45 Zentimeter.
+
+---
+
+### Bitten für viele Situationen (Vers 22–39)
+
+<sup>22</sup>„Wenn jemand gegen seinen Nächsten sündigt
+und man ihm einen Eid auferlegt, damit er schwört,
+und er kommt und schwört vor deinem Altar in diesem Haus,
+<sup>23</sup>dann höre vom Himmel und handle
+und richte deine Knechte:
+Vergilt dem Schuldigen und bring seinen Weg auf seinen eigenen Kopf.
+Und sprich den Gerechten frei und gib ihm nach seiner Gerechtigkeit.
+<sup>24</sup>Wenn dein Volk Israel vor dem Feind geschlagen wird,
+weil sie gegen dich gesündigt haben,
+und wenn sie dann umkehren und deinen Namen bekennen
+und in diesem Haus vor dir beten und flehen,
+<sup>25</sup>dann höre vom Himmel
+und vergib die Sünde deines Volkes Israel
+und bring sie zurück in das Land, das du ihnen und ihren Vätern gegeben hast.
+<sup>26</sup>Wenn der Himmel verschlossen ist und es nicht regnet,
+weil sie gegen dich gesündigt haben,
+und wenn sie dann zu diesem Ort hin beten und deinen Namen bekennen
+und von ihrer Sünde umkehren, weil du sie demütigst,
+<sup>27</sup>dann höre im Himmel
+und vergib die Sünde deiner Knechte, deines Volkes Israel,
+indem du sie den guten Weg lehrst, auf dem sie gehen sollen,
+und schick Regen auf dein Land, das du deinem Volk als Erbe gegeben hast.
+<sup>28</sup>Wenn eine Hungersnot im Land ist,
+wenn eine Seuche ist, wenn Getreidebrand oder Mehltau, Heuschrecken oder Raupen kommen,
+wenn ihre Feinde sie im Land ihrer Städte belagern,
+welche Plage oder welche Krankheit auch immer es ist,
+<sup>29</sup>welches Gebet und welches Flehen auch immer
+von irgendeinem Menschen oder von deinem ganzen Volk Israel kommt,
+wenn jeder seine eigene Plage und seinen eigenen Schmerz kennt
+und seine Hände zu diesem Haus hin ausbreitet,
+<sup>30</sup>dann höre vom Himmel, von deiner Wohnung aus, und vergib
+und gib jedem nach allen seinen Wegen,
+denn du kennst sein Herz
+– denn du allein kennst das Herz der Menschenkinder –,
+<sup>31</sup>damit sie dich fürchten und auf deinen Wegen gehen,
+solange sie in dem Land leben, das du unseren Vätern gegeben hast.
+<sup>32</sup>Auch wegen des Fremden, der nicht zu deinem Volk Israel gehört:
+Wenn er aus einem fernen Land kommt,
+um deines großen Namens, deiner starken Hand und deines ausgestreckten Armes willen,
+wenn sie kommen und zu diesem Haus hin beten,
+<sup>33</sup>dann höre vom Himmel, von deiner Wohnung aus,
+und tu alles, worum der Fremde dich bittet,
+damit alle Völker der Erde deinen Namen erkennen
+und dich fürchten wie dein Volk Israel,
+und damit sie erkennen, dass dieses Haus, das ich gebaut habe, nach deinem Namen genannt ist.
+<sup>34</sup>Wenn dein Volk in den Krieg gegen seine Feinde zieht,
+auf welchem Weg du sie auch schickst,
+und sie zu dir beten, zu dieser Stadt hin, die du erwählt hast,
+und zu dem Haus hin, das ich für deinen Namen gebaut habe,
+<sup>35</sup>dann höre vom Himmel ihr Gebet und ihr Flehen
+und verschaffe ihnen Recht.
+<sup>36</sup>Wenn sie gegen dich sündigen
+– denn es gibt keinen Menschen, der nicht sündigt –
+und du zornig auf sie bist und sie dem Feind auslieferst,
+sodass man sie gefangen in ein fernes oder nahes Land wegführt,
+<sup>37</sup>und wenn sie dann in dem Land, in das sie gefangen weggeführt wurden, in sich gehen
+und umkehren und zu dir flehen im Land ihrer Gefangenschaft
+und sagen:
+‚Wir haben gesündigt, wir haben unrecht getan und gottlos gehandelt‘,
+<sup>38</sup>wenn sie mit ihrem ganzen Herzen und mit ihrer ganzen Seele zu dir umkehren
+im Land ihrer Gefangenschaft, in das man sie gefangen weggeführt hat,
+und zu ihrem Land hin beten, das du ihren Vätern gegeben hast,
+und zu der Stadt hin, die du erwählt hast,
+und zu dem Haus hin, das ich für deinen Namen gebaut habe,
+<sup>39</sup>dann höre vom Himmel, von deiner Wohnung aus, ihr Gebet und ihr Flehen
+und verschaffe ihnen Recht
+und vergib deinem Volk, das gegen dich gesündigt hat.“
+
+> **Was bedeutet das?**
+> Diese Bitten stehen fast gleich in 1. Könige 8,31–50. Salomo denkt an alle möglichen Nöte: Streit, Krieg, Dürre, Hunger, Krankheit und Gefangenschaft.
+> Immer wieder: „Höre und vergib.“ Denn „es gibt keinen Menschen, der nicht sündigt“ (Vers 36).
+> „Jeder kennt seine eigene Plage und seinen eigenen Schmerz“ (Vers 29): Gott hört auch das ganz persönliche Gebet eines einzelnen Menschen in seiner Not.
+> Auch der Fremde aus einem anderen Volk darf beten, und Gott soll ihn erhören (Vers 32–33). Gottes Haus ist offen für alle Völker.
+> Die Bitte für die Gefangenen (Vers 36–39) war für die ersten Leser der Chronik sehr wichtig. Sie hatten die Verbannung in Babylon erlebt. Diese Verse sagten ihnen: Auch in der Ferne hört Gott.
+
+---
+
+### Der Schluss des Gebets (Vers 40–42)
+
+<sup>40</sup>„Nun, mein Gott,
+mögen deine Augen offen sein
+und deine Ohren aufmerksam auf das Gebet an diesem Ort.
+<sup>41</sup>Und nun steh auf, HERR, Gott, zu deinem Ruheplatz,
+du und die Lade deiner Stärke!
+Deine Priester, HERR, Gott, sollen mit Heil bekleidet sein,
+und deine Frommen sollen sich am Guten freuen.
+<sup>42</sup>HERR, Gott,
+weise das Angesicht deines Gesalbten nicht ab.
+Denk an die Gnadenerweise an deinen Knecht David.“
+
+> **Was bedeutet das?**
+> Das Gebet endet hier anders als in 1. Könige 8. Die Chronik schließt mit Worten aus Psalm 132,8–10.
+> „Steh auf zu deinem Ruheplatz“: Die Lade, die lange gewandert ist, hat jetzt einen festen Ort gefunden.
+> „Denk an die Gnadenerweise an deinen Knecht David“: Salomo beruft sich zum Schluss auf Gottes Versprechen an David. Für die Leser der Chronik, die keinen König mehr hatten, war das eine Hoffnung: Gott vergisst sein Versprechen an David nicht.
