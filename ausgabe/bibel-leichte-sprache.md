@@ -36866,3 +36866,413 @@ Soll dieser da in mein Haus kommen?“
 > Achisch macht sich lustig: Ich habe schon genug Verrückte um mich herum.
 > Der große Held, der Goliat besiegt hat, muss jetzt sabbern und kritzeln, um zu überleben. So tief ist David gefallen. Aber Gott lässt ihn nicht fallen.
 > Psalm 34 ist nach seiner Überschrift ein Lied von David aus dieser Zeit. Darin steht: „Der HERR ist nahe denen, die zerbrochenen Herzens sind“ (Psalm 34,19). Der König heißt in der Überschrift des Psalms „Abimelech“, das war wohl ein Titel der Könige der Philister.
+
+## 1. Samuel – Kapitel 22
+#### Die Höhle Adullam und das Blutbad in Nob
+
+---
+
+### Davids Leute (Vers 1–5)
+
+<sup>1</sup>Darum ging David von dort weg und floh in die Höhle Adullam.
+Als seine Brüder und die ganze Familie seines Vaters das hörten,
+gingen sie zu ihm hinab.
+<sup>2</sup>Jeder, der in Not war,
+jeder, der Schulden hatte,
+und jeder, der verbittert war, sammelte sich bei ihm.
+Und er wurde ihr Anführer.
+Es waren etwa 400 Männer bei ihm.
+<sup>3</sup>David ging von dort nach Mizpe in Moab.
+Er sagte zum König von Moab:
+„Lass doch meinen Vater und meine Mutter bei euch wohnen,
+bis ich weiß, was Gott mit mir tun wird.“
+<sup>4</sup>Er brachte sie zum König von Moab.
+Und sie wohnten bei ihm die ganze Zeit, in der David in der Bergfestung war.
+<sup>5</sup>Der Prophet Gad sagte zu David:
+„Bleib nicht in der Bergfestung.
+Geh weg und geh in das Land Juda.“
+Da ging David weg und kam in den Wald Heret.
+
+> **Was bedeutet das?**
+> Die Höhle Adullam lag im Hügelland von Juda, etwa 25 Kilometer südwestlich von Betlehem. Dort gibt es viele Höhlen.
+> Davids Familie muss auch fliehen. Saul könnte sich an ihnen rächen.
+> Zu David kommen keine Helden und Edlen, sondern Menschen am Rand: Arme, Verschuldete, Unzufriedene. Aus ihnen macht David eine Truppe. Christen erinnern sich hier an Jesus, zu dem auch die Ausgestoßenen und Verachteten kamen.
+> David bringt seine Eltern nach Moab. Das ist kein Zufall: Davids Urgroßmutter Rut war eine Moabiterin (Rut 4,17).
+> Gad ist ein Prophet, der David von nun an begleitet. Auch David hört auf das Wort Gottes durch einen Propheten. Das unterscheidet ihn von Saul.
+> Psalm 57 und Psalm 142 sind nach ihren Überschriften Gebete von David „in der Höhle“.
+
+---
+
+### Sauls Misstrauen (Vers 6–10)
+
+<sup>6</sup>Saul hörte, dass man David und die Männer bei ihm entdeckt hatte.
+Saul saß gerade in Gibea, unter der Tamariske in Rama,
+mit seinem Speer in der Hand,
+und alle seine Diener standen um ihn herum.
+<sup>7</sup>Saul sagte zu seinen Dienern, die um ihn herumstanden:
+„Hört doch, ihr Benjaminiter!
+Wird der Sohn Isais euch allen Felder und Weinberge geben?
+Wird er euch alle zu Anführern über Tausend und Anführern über Hundert machen?
+<sup>8</sup>Habt ihr euch deshalb alle gegen mich verschworen?
+Und keiner sagt es mir, wenn mein Sohn einen Bund mit dem Sohn Isais schließt.
+Keiner von euch hat Mitleid mit mir
+und sagt mir, dass mein Sohn meinen Knecht gegen mich aufgehetzt hat,
+damit er mir auflauert, wie es heute geschieht?“
+<sup>9</sup>Da antwortete Doeg, der Edomiter, der bei den Dienern Sauls stand, und sagte:
+„Ich habe gesehen, wie der Sohn Isais nach Nob kam,
+zu Ahimelech, dem Sohn von Ahitub.
+<sup>10</sup>Er hat für ihn den HERRN befragt,
+ihm Essen gegeben
+und ihm das Schwert Goliats, des Philisters, gegeben.“
+
+> **Was bedeutet das?**
+> Saul sitzt unter einem Baum, den Speer in der Hand. Er ist misstrauisch gegen alle. Er glaubt, alle hätten sich gegen ihn verschworen, sogar sein eigener Sohn.
+> Er appelliert an seine eigenen Leute aus dem Stamm Benjamin: David ist aus Juda. Er wird euch nichts geben. Nur ich kann euch belohnen. So spaltet Saul das Volk nach Stämmen.
+> Er tut sich selbst leid: „Keiner hat Mitleid mit mir.“ Saul sieht sich als Opfer, obwohl er der Verfolger ist.
+> Doeg nutzt die Gelegenheit, um sich beim König beliebt zu machen. Er erzählt nur die halbe Wahrheit: Er sagt nicht, dass Ahimelech von Davids Flucht nichts wusste.
+
+---
+
+### Saul lässt die Priester töten (Vers 11–19)
+
+<sup>11</sup>Da ließ der König Ahimelech, den Priester, den Sohn von Ahitub, rufen,
+und die ganze Familie seines Vaters, die Priester, die in Nob waren.
+Und sie kamen alle zum König.
+<sup>12</sup>Saul sagte: „Hör doch, du Sohn Ahitubs!“
+Er antwortete: „Hier bin ich, mein Herr.“
+<sup>13</sup>Saul sagte zu ihm:
+„Warum habt ihr euch gegen mich verschworen, du und der Sohn Isais?
+Du hast ihm Brot und ein Schwert gegeben
+und Gott für ihn befragt,
+damit er sich gegen mich erhebt und mir auflauert, wie es heute geschieht.“
+<sup>14</sup>Da antwortete Ahimelech dem König und sagte:
+„Wer unter all deinen Dienern ist so treu wie David?
+Er ist der Schwiegersohn des Königs,
+der Anführer deiner Leibwache
+und geehrt in deinem Haus.
+<sup>15</sup>Habe ich etwa heute zum ersten Mal Gott für ihn befragt?
+Das sei fern von mir!
+Der König soll seinem Knecht und der ganzen Familie meines Vaters nichts vorwerfen.
+Denn dein Knecht hat von dieser ganzen Sache nichts gewusst, weder wenig noch viel.“
+<sup>16</sup>Der König sagte:
+„Du musst sterben, Ahimelech, du und die ganze Familie deines Vaters.“
+<sup>17</sup>Der König sagte zu der Wache, die um ihn herumstand:
+„Wendet euch um und tötet die Priester des HERRN.
+Denn auch ihre Hand ist mit David,
+und sie wussten, dass er floh, und haben es mir nicht gesagt.“
+Aber die Diener des Königs wollten ihre Hand nicht ausstrecken,
+um die Priester des HERRN anzugreifen.
+<sup>18</sup>Da sagte der König zu Doeg:
+„Wende du dich um und greif die Priester an!“
+Da wandte sich Doeg, der Edomiter, um und griff die Priester an.
+Er tötete an diesem Tag 85 Männer, die ein leinenes Efod trugen.
+<sup>19</sup>Und Nob, die Stadt der Priester, schlug er mit der Schärfe des Schwertes:
+Männer und Frauen, Kinder und Säuglinge,
+Rinder, Esel und Schafe, mit der Schärfe des Schwertes.
+
+> **Was bedeutet das?**
+> Ahimelech verteidigt sich ehrlich und mutig: David war doch dein treuester Diener! Ich habe nichts Böses getan. Er ist völlig unschuldig.
+> Aber Saul will nicht hören. Er verurteilt die ganze Priesterfamilie zum Tod.
+> Die Soldaten Sauls weigern sich. Sie wollen keine Priester des HERRN töten. Das ist ein mutiger Ungehorsam. Es gibt Befehle, denen man nicht folgen darf. Wer Unschuldige töten soll, muss sich weigern.
+> Doeg, ein Ausländer ohne Ehrfurcht vor Gott, führt den grausamen Befehl aus. Er tötet 85 Priester. Die alte griechische Übersetzung hat 305.
+> Dann vernichtet Saul die ganze Stadt Nob, mit Frauen, Kindern und Tieren. Das ist erschütternd: Gegen die Amalekiter hatte Saul Gottes Befehl nicht ganz ausgeführt (Kapitel 15). Aber gegen Gottes eigene Priester führt er aus Hass einen vollständigen Vernichtungsschlag. So weit ist Saul gefallen.
+> Hier erfüllt sich auch die düstere Ankündigung über das Haus Eli (Kapitel 2,31–33).
+
+---
+
+### Abjatar entkommt (Vers 20–23)
+
+<sup>20</sup>Einer der Söhne von Ahimelech, dem Sohn von Ahitub, entkam.
+Sein Name war Abjatar.
+Er floh zu David.
+<sup>21</sup>Abjatar erzählte David, dass Saul die Priester des HERRN getötet hatte.
+<sup>22</sup>David sagte zu Abjatar:
+„Ich wusste es an jenem Tag, als Doeg, der Edomiter, dort war,
+dass er es Saul ganz sicher erzählen würde.
+Ich bin verantwortlich für den Tod aller Menschen aus der Familie deines Vaters.
+<sup>23</sup>Bleib bei mir.
+Fürchte dich nicht.
+Denn wer mir nach dem Leben trachtet, der trachtet auch dir nach dem Leben.
+Bei mir bist du in Sicherheit.“
+
+> **Was bedeutet das?**
+> David übernimmt Verantwortung. Er sagt: Es ist meine Schuld. Ich habe den Priester angelogen, und ich habe Doeg gesehen. Das unterscheidet ihn von Saul, der immer anderen die Schuld gibt.
+> David nimmt Abjatar unter seinen Schutz. Von nun an hat David einen Priester bei sich. Abjatar bringt das Efod mit, mit dem man Gott befragen kann (Kapitel 23,6).
+> Saul hat die Priester getötet und damit auch die Möglichkeit, Gott zu befragen. David aber hat jetzt Priester und Prophet bei sich.
+
+## 1. Samuel – Kapitel 23
+#### Auf der Flucht in der Wüste
+
+---
+
+### David rettet Keïla (Vers 1–6)
+
+<sup>1</sup>Man erzählte David:
+„Schau, die Philister kämpfen gegen Keïla
+und plündern die Tennen.“
+<sup>2</sup>Darum befragte David den HERRN und sagte:
+„Soll ich hingehen und diese Philister schlagen?“
+Der HERR sagte zu David:
+„Geh hin, schlag die Philister und rette Keïla.“
+<sup>3</sup>Davids Männer sagten zu ihm:
+„Schau, wir haben schon hier in Juda Angst.
+Wie viel mehr, wenn wir nach Keïla gegen die Schlachtreihen der Philister ziehen!“
+<sup>4</sup>Da befragte David den HERRN noch einmal.
+Und der HERR antwortete ihm und sagte:
+„Mach dich auf, zieh hinab nach Keïla.
+Denn ich gebe die Philister in deine Hand.“
+<sup>5</sup>David und seine Männer zogen nach Keïla
+und kämpften gegen die Philister.
+Sie trieben ihr Vieh weg
+und brachten ihnen eine große Niederlage bei.
+So rettete David die Bewohner von Keïla.
+<sup>6</sup>Als Abjatar, der Sohn von Ahimelech, zu David nach Keïla floh,
+kam er mit einem Efod in der Hand herab.
+
+> **Was bedeutet das?**
+> Keïla war eine Stadt in Juda, nahe der Grenze zu den Philistern. Die „Tennen“ waren die Plätze, auf denen das geerntete Getreide gedroschen wurde. Die Philister stehlen die Ernte, die Nahrung für ein ganzes Jahr.
+> David ist selbst auf der Flucht. Trotzdem hilft er anderen. Eigentlich wäre das die Aufgabe des Königs gewesen. Aber Saul ist damit beschäftigt, David zu jagen.
+> David fragt Gott, bevor er handelt. Und als seine Männer Angst haben, fragt er noch einmal. Das ist ganz anders als Saul, der Gott oft nicht abwartete.
+> Mit dem Efod konnte der Priester Gott befragen und eine Antwort mit Ja oder Nein bekommen.
+
+---
+
+### Die Undankbarkeit von Keïla (Vers 7–14)
+
+<sup>7</sup>Man erzählte Saul, dass David nach Keïla gekommen war.
+Saul sagte:
+„Gott hat ihn in meine Hand gegeben.
+Denn er hat sich eingeschlossen,
+weil er in eine Stadt mit Toren und Riegeln gegangen ist.“
+<sup>8</sup>Saul rief das ganze Volk zum Krieg zusammen,
+um nach Keïla hinabzuziehen und David und seine Männer zu belagern.
+<sup>9</sup>David erfuhr, dass Saul Böses gegen ihn plante.
+Er sagte zu Abjatar, dem Priester:
+„Bring das Efod her.“
+<sup>10</sup>Dann sagte David:
+„HERR, Gott Israels,
+dein Knecht hat sicher gehört,
+dass Saul nach Keïla kommen will,
+um die Stadt wegen mir zu zerstören.
+<sup>11</sup>Werden die Bürger von Keïla mich in seine Hand ausliefern?
+Wird Saul herabkommen, wie dein Knecht gehört hat?
+HERR, Gott Israels, bitte sag es deinem Knecht.“
+Der HERR sagte:
+„Er wird herabkommen.“
+<sup>12</sup>Da sagte David:
+„Werden die Bürger von Keïla mich und meine Männer in die Hand Sauls ausliefern?“
+Der HERR sagte:
+„Sie werden dich ausliefern.“
+<sup>13</sup>Da machten sich David und seine Männer auf, etwa 600 Mann,
+und zogen aus Keïla weg
+und zogen umher, wo immer sie hingehen konnten.
+Man erzählte Saul, dass David aus Keïla entkommen war.
+Da gab er es auf, dorthin zu ziehen.
+<sup>14</sup>David blieb in der Wüste, in den Bergfestungen,
+und hielt sich im Bergland in der Wüste Sif auf.
+Saul suchte ihn jeden Tag,
+aber Gott gab ihn nicht in seine Hand.
+
+> **Was bedeutet das?**
+> Saul denkt: Gott hat mir David ausgeliefert! Er benutzt Gottes Namen für seine bösen Pläne. Aber Gott ist nicht auf seiner Seite.
+> Die Leute von Keïla würden David verraten, obwohl er sie gerade gerettet hat. Aus Angst vor Saul. Sie hatten gesehen, was mit Nob geschehen war.
+> David will nicht, dass eine ganze Stadt seinetwegen leidet. Darum geht er weg.
+> „Gott gab ihn nicht in seine Hand“: Das ist der Schlüsselsatz. Saul sucht jeden Tag, mit einer ganzen Armee. Aber er findet David nicht. Gott schützt ihn.
+> Die Wüste Sif liegt südöstlich von Hebron, ein trockenes, felsiges Gebiet am Rand der Wüste Juda.
+
+---
+
+### Jonatan stärkt David (Vers 15–18)
+
+<sup>15</sup>David sah, dass Saul ausgezogen war, um ihm nach dem Leben zu trachten.
+David war in der Wüste Sif, im Wald.
+<sup>16</sup>Da machte sich Jonatan, der Sohn Sauls, auf
+und ging zu David in den Wald.
+Er stärkte seine Hand in Gott.
+<sup>17</sup>Er sagte zu ihm:
+„Fürchte dich nicht.
+Denn die Hand meines Vaters Saul wird dich nicht finden.
+Und du wirst König über Israel sein,
+und ich werde der Zweite nach dir sein.
+Und das weiß auch mein Vater Saul.“
+<sup>18</sup>Die beiden schlossen einen Bund vor dem HERRN.
+Dann blieb David im Wald,
+und Jonatan ging in sein Haus.
+
+> **Was bedeutet das?**
+> „Im Wald“: Das hebräische Wort ist wohl ein Ortsname: „Horescha“. Viele deutsche Bibeln schreiben darum „in Horescha“.
+> Jonatan kommt heimlich zu David, obwohl es für ihn gefährlich ist. Er tut genau das, was ein echter Freund tut: Er macht David Mut, nicht durch eigene Kraft, sondern „in Gott“. Er erinnert David an Gottes Versprechen.
+> Jonatan sagt offen: Du wirst König sein, nicht ich. Und ich will gern der Zweite sein. Das ist wahre Größe.
+> Das ist das letzte Mal, dass sich die beiden Freunde sehen. Jonatan wird zusammen mit Saul im Kampf sterben (Kapitel 31). Sein Wunsch, der Zweite nach David zu sein, geht nicht in Erfüllung.
+
+---
+
+### Die Sifiter verraten David (Vers 19–29)
+
+<sup>19</sup>Da zogen die Sifiter zu Saul nach Gibea hinauf und sagten:
+„Versteckt sich David nicht bei uns in den Bergfestungen im Wald,
+auf dem Hügel Hachila, der südlich der Wüste liegt?
+<sup>20</sup>Darum, König, komm jetzt herab,
+ganz wie du es dir wünschst.
+Und unsere Sache ist es, ihn in die Hand des Königs auszuliefern.“
+<sup>21</sup>Saul sagte:
+„Gesegnet seid ihr vom HERRN,
+denn ihr habt Mitleid mit mir gehabt.
+<sup>22</sup>Geht doch hin und vergewissert euch noch genauer.
+Erkundet und seht seinen Ort, wo er sich aufhält,
+und wer ihn dort gesehen hat.
+Denn man hat mir gesagt, dass er sehr listig ist.
+<sup>23</sup>Seht und erkundet alle Schlupfwinkel, in denen er sich versteckt.
+Dann kommt mit sicherer Nachricht wieder zu mir,
+dann will ich mit euch gehen.
+Und wenn er im Land ist,
+dann will ich ihn unter allen Tausenden von Juda aufspüren.“
+<sup>24</sup>Sie machten sich auf und gingen vor Saul her nach Sif.
+Aber David und seine Männer waren in der Wüste Maon,
+in der Araba, südlich der Wüste.
+<sup>25</sup>Saul und seine Männer gingen hin, um ihn zu suchen.
+Als man es David erzählte,
+ging er hinab zum Felsen und blieb in der Wüste Maon.
+Als Saul das hörte, verfolgte er David in die Wüste Maon.
+<sup>26</sup>Saul ging auf dieser Seite des Berges,
+und David und seine Männer auf der anderen Seite des Berges.
+David beeilte sich, aus Angst vor Saul zu entkommen.
+Denn Saul und seine Männer umzingelten David und seine Männer, um sie zu fangen.
+<sup>27</sup>Aber ein Bote kam zu Saul und sagte:
+„Beeil dich und komm,
+denn die Philister sind ins Land eingefallen!“
+<sup>28</sup>Da kehrte Saul von der Verfolgung Davids um
+und zog gegen die Philister.
+Darum nannte man diesen Ort Sela-Machlekot.
+<sup>29</sup>David zog von dort hinauf
+und wohnte in den Bergfestungen von En-Gedi.
+
+> **Was bedeutet das?**
+> Die Sifiter gehörten zum Stamm Juda, wie David selbst. Trotzdem verraten sie ihn. Psalm 54 ist nach seiner Überschrift ein Gebet von David, als die Sifiter ihn verrieten.
+> Saul segnet die Verräter im Namen des HERRN. Und er sagt wieder: „Ihr habt Mitleid mit mir.“ Er sieht sich immer noch als Opfer.
+> Am Berg wird es ganz eng. Saul ist nur noch durch einen Berg von David getrennt. Er hat ihn fast umzingelt. Und genau in diesem Moment kommt ein Bote: Die Philister greifen an! Saul muss umkehren.
+> War das Zufall? Für den Erzähler nicht. Gott rettet David im letzten Moment, sogar durch die Feinde Israels.
+> „Sela-Machlekot“ heißt wahrscheinlich „Fels der Trennung“, weil Saul und David sich hier trennten.
+> En-Gedi ist eine Oase am Toten Meer, mit einer Quelle und Höhlen in den Felsen. Dort gibt es bis heute Steinböcke.
+> In vielen deutschen Bibeln ist Vers 29 schon Kapitel 24, Vers 1.
+
+## 1. Samuel – Kapitel 24
+#### David verschont Saul in der Höhle
+
+---
+
+### In der Höhle (Vers 1–7)
+
+<sup>1</sup>Als Saul von der Verfolgung der Philister zurückgekehrt war,
+erzählte man ihm:
+„Schau, David ist in der Wüste En-Gedi.“
+<sup>2</sup>Da nahm Saul 3000 ausgewählte Männer aus ganz Israel
+und ging hin, um David und seine Männer an den Steinbockfelsen zu suchen.
+<sup>3</sup>Er kam zu den Schafhürden am Weg, wo eine Höhle war.
+Und Saul ging hinein, um seine Notdurft zu verrichten.
+David und seine Männer saßen ganz hinten in der Höhle.
+<sup>4</sup>Davids Männer sagten zu ihm:
+„Schau, das ist der Tag, von dem der HERR zu dir gesagt hat:
+‚Schau, ich gebe deinen Feind in deine Hand,
+und du kannst mit ihm tun, was dir gut erscheint.‘“
+Da stand David auf
+und schnitt heimlich den Zipfel von Sauls Mantel ab.
+<sup>5</sup>Danach schlug David das Herz,
+weil er den Zipfel von Sauls Mantel abgeschnitten hatte.
+<sup>6</sup>Er sagte zu seinen Männern:
+„Der HERR bewahre mich davor, dass ich so etwas meinem Herrn antue,
+dem Gesalbten des HERRN,
+dass ich meine Hand gegen ihn ausstrecke.
+Denn er ist der Gesalbte des HERRN.“
+<sup>7</sup>So hielt David seine Männer mit diesen Worten zurück
+und erlaubte ihnen nicht, sich gegen Saul zu erheben.
+Saul stand auf, verließ die Höhle und ging seines Weges.
+
+> **Was bedeutet das?**
+> In vielen deutschen Bibeln ist die Zählung in diesem Kapitel um einen Vers verschoben. Vers 1 hier ist dort Vers 2, und so weiter bis Vers 23.
+> Saul jagt David mit 3000 Elitesoldaten. Und dann geht er ausgerechnet in die Höhle, in der David sich versteckt. Er ist allein, wehrlos, mit dem Rücken zu ihnen.
+> Davids Männer sagen: Das ist deine Chance! Gott hat ihn dir in die Hand gegeben! Ein Wort Gottes, wie sie es zitieren, steht vorher nirgends. Vielleicht deuten sie die Situation einfach so.
+> David schleicht sich an Saul heran. Aber er tötet ihn nicht. Er schneidet nur einen Zipfel von seinem Mantel ab. Und selbst das tut ihm danach leid. Sein Gewissen schlägt.
+> Warum? Der Mantelzipfel war ein Zeichen für Würde und Macht. Erinnern wir uns: Saul hatte einmal Samuels Mantelzipfel abgerissen, und Samuel sagte, so wird dir das Königtum abgerissen (Kapitel 15,27–28). David will Saul nicht selbst das Königtum wegnehmen. Er will warten, bis Gott es ihm gibt.
+> „Der Gesalbte des HERRN“: Saul ist immer noch von Gott eingesetzt. David respektiert das, obwohl Saul ihn verfolgt. Er überlässt das Urteil Gott.
+
+---
+
+### David spricht zu Saul (Vers 8–15)
+
+<sup>8</sup>Danach stand auch David auf,
+ging aus der Höhle hinaus
+und rief Saul nach:
+„Mein Herr und König!“
+Als Saul sich umschaute,
+verneigte sich David mit dem Gesicht zur Erde und erwies ihm Ehre.
+<sup>9</sup>David sagte zu Saul:
+„Warum hörst du auf die Worte von Leuten, die sagen:
+‚Schau, David will dir Böses tun‘?
+<sup>10</sup>Schau, heute haben deine Augen gesehen,
+wie der HERR dich heute in der Höhle in meine Hand gegeben hat.
+Manche drängten mich, dich zu töten.
+Aber ich habe dich verschont.
+Ich habe gesagt:
+‚Ich will meine Hand nicht gegen meinen Herrn ausstrecken,
+denn er ist der Gesalbte des HERRN.‘
+<sup>11</sup>Und schau doch, mein Vater,
+sieh hier den Zipfel deines Mantels in meiner Hand.
+Daran, dass ich den Zipfel deines Mantels abgeschnitten
+und dich nicht getötet habe,
+sollst du erkennen und sehen,
+dass in meiner Hand weder Bosheit noch Auflehnung ist.
+Ich habe nicht gegen dich gesündigt,
+obwohl du mir nachjagst, um mir das Leben zu nehmen.
+<sup>12</sup>Der HERR soll zwischen mir und dir richten,
+und der HERR soll mich an dir rächen.
+Aber meine Hand soll nicht gegen dich sein.
+<sup>13</sup>Wie das Sprichwort der Alten sagt:
+‚Von den Gottlosen kommt Gottlosigkeit.‘
+Aber meine Hand soll nicht gegen dich sein.
+<sup>14</sup>Hinter wem ist der König von Israel her?
+Wen verfolgst du?
+Einen toten Hund? Einen Floh?
+<sup>15</sup>Darum soll der HERR Richter sein
+und zwischen mir und dir entscheiden.
+Er soll hinsehen und meine Sache führen
+und mich aus deiner Hand retten.“
+
+> **Was bedeutet das?**
+> David hat großen Mut. Er geht hinaus und zeigt sich dem Mann, der ihn töten will. Er verneigt sich vor ihm und nennt ihn „mein Vater“.
+> Er hält ihm den Mantelzipfel hin: Schau, ich hätte dich töten können. Ich habe es nicht getan. Ich bin nicht dein Feind.
+> David sagt dreimal: „Meine Hand soll nicht gegen dich sein.“ Er überlässt Gott das Urteil. Das ist der Kern dieser Geschichte: Nicht selbst Rache nehmen, sondern Gott richten lassen. Paulus schreibt später: „Rächt euch nicht selbst ... Überwinde das Böse mit dem Guten“ (Römer 12,19–21).
+> „Ein toter Hund, ein Floh“: David macht sich klein. Warum jagt der mächtige König einem so unbedeutenden Menschen nach? Das ist doch lächerlich.
+
+---
+
+### Saul weint (Vers 16–22)
+
+<sup>16</sup>Als David diese Worte zu Saul zu Ende geredet hatte,
+sagte Saul:
+„Ist das deine Stimme, mein Sohn David?“
+Und Saul erhob seine Stimme und weinte.
+<sup>17</sup>Er sagte zu David:
+„Du bist gerechter als ich.
+Denn du hast mir Gutes getan,
+ich aber habe dir Böses getan.
+<sup>18</sup>Du hast heute gezeigt, wie gut du mit mir umgegangen bist.
+Denn der HERR hatte mich in deine Hand gegeben,
+und du hast mich nicht getötet.
+<sup>19</sup>Denn wenn ein Mann seinen Feind findet,
+lässt er ihn dann unversehrt seines Weges gehen?
+Darum möge der HERR dir Gutes vergelten für das, was du heute an mir getan hast.
+<sup>20</sup>Und jetzt, schau, ich weiß, dass du ganz sicher König sein wirst
+und dass das Königtum Israels in deiner Hand Bestand haben wird.
+<sup>21</sup>Darum schwöre mir jetzt beim HERRN,
+dass du meine Nachkommen nach mir nicht ausrotten
+und meinen Namen nicht aus der Familie meines Vaters auslöschen wirst.“
+<sup>22</sup>David schwor es Saul.
+Saul ging nach Hause.
+Aber David und seine Männer stiegen hinauf in die Bergfestung.
+
+> **Was bedeutet das?**
+> Für einen Moment bricht Sauls hartes Herz auf. Er weint. Er nennt David „mein Sohn“. Und er sagt die Wahrheit: „Du bist gerechter als ich.“
+> Saul spricht es zum ersten Mal offen aus: Ich weiß, dass du König sein wirst. Er bittet um dasselbe wie Jonatan: Verschone meine Familie. David schwört es.
+> Aber David bleibt vorsichtig. Er geht nicht mit Saul nach Hause, sondern zurück in die Bergfestung. Er weiß: Sauls Stimmung kann sich schnell wieder ändern. Und genau das wird geschehen (Kapitel 26).
+> Diese Geschichte ist eine große Lehre: Man kann Böses mit Gutem beantworten. Feindesliebe kann sogar das Herz eines Verfolgers berühren, wenigstens für einen Moment.
