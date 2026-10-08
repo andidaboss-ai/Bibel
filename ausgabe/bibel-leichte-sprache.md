@@ -51814,3 +51814,251 @@ Denn es war Freude in Israel.
 > Das Kapitel endet mit einem großen Fest. Drei Tage essen und trinken die Menschen zusammen. Alle bringen etwas mit, auch die, die weit weg wohnen.
 > „Mit ungeteiltem Herzen“ und „einmütig“: Das Volk ist vereint.
 > Der letzte Satz fasst alles zusammen: „Es war Freude in Israel.“ Wenn Gottes Volk zusammenkommt und Gott in der Mitte ist, entsteht Freude.
+
+## 1. Chronik – Kapitel 13
+#### Der erste Versuch, die Lade zu holen
+
+---
+
+### David will die Lade nach Jerusalem holen (Vers 1–8)
+
+<sup>1</sup>David beriet sich mit den Anführern über Tausend und über Hundert,
+mit allen Fürsten.
+<sup>2</sup>David sagte zur ganzen Versammlung Israels:
+„Wenn es euch gut erscheint und wenn es vom HERRN, unserem Gott, kommt,
+dann lasst uns überallhin Boten schicken
+zu unseren Brüdern, die in allen Gebieten Israels übrig geblieben sind,
+und zu den Priestern und Leviten in ihren Städten mit Weideflächen,
+damit sie sich bei uns versammeln.
+<sup>3</sup>Und lasst uns die Lade unseres Gottes zu uns zurückholen.
+Denn in den Tagen Sauls haben wir nicht nach ihr gefragt.“
+<sup>4</sup>Die ganze Versammlung sagte, dass sie es so machen wollten,
+denn die Sache war in den Augen des ganzen Volkes recht.
+<sup>5</sup>So versammelte David ganz Israel,
+vom Schihor, dem Fluss Ägyptens, bis nach Lebo-Hamat,
+um die Lade Gottes aus Kirjat-Jearim zu holen.
+<sup>6</sup>David zog mit ganz Israel hinauf nach Baala, das ist Kirjat-Jearim, das zu Juda gehörte,
+um von dort die Lade Gottes, des HERRN, heraufzubringen,
+der über den Cherubim thront,
+über der sein Name ausgerufen wird.
+<sup>7</sup>Sie fuhren die Lade Gottes auf einem neuen Wagen
+und brachten sie aus dem Haus Abinadabs heraus.
+Usa und Achjo lenkten den Wagen.
+<sup>8</sup>David und ganz Israel tanzten vor Gott mit aller Kraft,
+mit Liedern, mit Zithern, mit Harfen, mit Tamburinen, mit Zimbeln und mit Trompeten.
+
+> **Was bedeutet das?**
+> Die Chronik erzählt die Geschichte von der Lade anders als 2. Samuel 6: Gleich nachdem David König ist, kümmert er sich um die Lade. Der Gottesdienst ist ihm das Wichtigste.
+> David fragt die Versammlung und will Gottes Willen. Er bezieht alle ein, auch die Priester und Leviten.
+> Die Lade war das Zeichen der Gegenwart Gottes. Sie stand seit etwa 20 Jahren vergessen in Kirjat-Jearim (1. Samuel 7,1–2). „In den Tagen Sauls haben wir nicht nach ihr gefragt“: Unter Saul war Gott an den Rand gerückt.
+> Der Schihor ist ein Fluss an der Grenze zu Ägypten. Lebo-Hamat (englisch „Eingang von Hamat“) liegt ganz im Norden. Das ganze Land ist dabei.
+> Es ist ein großes Fest mit viel Musik.
+
+---
+
+### Usa stirbt (Vers 9–14)
+
+<sup>9</sup>Als sie zur Tenne Kidons kamen,
+streckte Usa seine Hand aus, um die Lade festzuhalten,
+denn die Rinder waren gestolpert.
+<sup>10</sup>Da entbrannte der Zorn des HERRN gegen Usa,
+und er schlug ihn, weil er seine Hand an die Lade gelegt hatte.
+Und er starb dort vor Gott.
+<sup>11</sup>David wurde zornig,
+weil der HERR einen Riss an Usa gerissen hatte.
+Er nannte den Ort Perez-Usa, bis zum heutigen Tag.
+<sup>12</sup>An diesem Tag bekam David Angst vor Gott und sagte:
+„Wie soll ich die Lade Gottes zu mir bringen?“
+<sup>13</sup>So brachte David die Lade nicht zu sich in die Stadt Davids,
+sondern ließ sie zur Seite in das Haus Obed-Edoms, des Gatiters, bringen.
+<sup>14</sup>Die Lade Gottes blieb drei Monate bei der Familie Obed-Edoms in seinem Haus.
+Und der HERR segnete das Haus Obed-Edoms und alles, was er hatte.
+
+> **Was bedeutet das?**
+> Diese Geschichte ist sehr schwer. Usa will nur helfen, und er stirbt. Das erscheint uns ungerecht.
+> Die Chronik erklärt es in Kapitel 15,13: Die Lade hätte nicht auf einem Wagen gefahren werden dürfen, sondern hätte von Leviten auf Stangen getragen werden müssen (4. Mose 4,15). So hatten es die Philister gemacht (1. Samuel 6,7), nicht so, wie Gott es geboten hatte. Und niemand durfte die heiligen Gegenstände berühren.
+> Die Geschichte will sagen: Gottes Heiligkeit ist ernst. Gott ist kein Gegenstand, den man nach eigenen Vorstellungen benutzen kann. Trotzdem bleibt ein Rest an Schwerem und Unverständlichem. Auch David war zornig und hatte Angst. Er durfte das vor Gott zeigen.
+> „Perez-Usa“ heißt „Riss an Usa“.
+> Obed-Edom stammte aus Gat. Vielleicht war er ein Philister, vielleicht ein Levit aus der Levitenstadt Gat-Rimmon. Sein Haus wird gesegnet: Die Lade bringt Segen, wenn man sie achtet.
+> Die Tenne heißt in 2. Samuel 6,6 „Tenne Nachons“.
+
+## 1. Chronik – Kapitel 14
+#### David wird stark
+
+---
+
+### Davids Haus und Familie (Vers 1–7)
+
+<sup>1</sup>Hiram, der König von Tyrus, schickte Boten zu David,
+dazu Zedernholz, Maurer und Zimmerleute,
+um ihm ein Haus zu bauen.
+<sup>2</sup>David erkannte, dass der HERR ihn als König über Israel bestätigt hatte.
+Denn sein Königtum war hoch erhoben worden,
+um seines Volkes Israel willen.
+<sup>3</sup>David nahm noch mehr Frauen in Jerusalem,
+und David zeugte noch mehr Söhne und Töchter.
+<sup>4</sup>Das sind die Namen der Kinder, die er in Jerusalem bekam:
+Schammua, Schobab, Natan, Salomo,
+<sup>5</sup>Jibhar, Elischua, Elpelet,
+<sup>6</sup>Nogah, Nefeg, Jafia,
+<sup>7</sup>Elischama, Beeljada und Elifelet.
+
+> **Was bedeutet das?**
+> Hiram war König der Phönizier in Tyrus, im heutigen Libanon. Er war ein Freund Davids und später auch Salomos.
+> Ein wichtiger Satz: David erkennt, dass Gott ihn groß gemacht hat, und zwar „um seines Volkes willen“. Die Macht des Königs ist nicht für ihn selbst da, sondern für das Volk.
+> David nahm noch mehr Frauen. Das war damals bei Königen üblich, aber das Gesetz warnte davor (5. Mose 17,17).
+> Die Namen der Söhne stehen auch in Kapitel 3,5–8 und 2. Samuel 5,14–16, mit kleinen Unterschieden. „Beeljada“ heißt dort „Eljada“. Das „Baal“ (Herr) wurde später oft vermieden.
+
+---
+
+### Zwei Siege über die Philister (Vers 8–17)
+
+<sup>8</sup>Als die Philister hörten, dass David zum König über ganz Israel gesalbt worden war,
+zogen alle Philister herauf, um David zu suchen.
+David hörte davon und zog ihnen entgegen.
+<sup>9</sup>Die Philister waren gekommen und hatten das Tal Refaïm überfallen.
+<sup>10</sup>David fragte Gott:
+„Soll ich gegen die Philister hinaufziehen?
+Wirst du sie in meine Hand geben?“
+Der HERR sagte zu ihm:
+„Zieh hinauf, denn ich gebe sie in deine Hand.“
+<sup>11</sup>So zogen sie hinauf nach Baal-Perazim,
+und David schlug sie dort.
+David sagte:
+„Gott hat meine Feinde durch meine Hand durchbrochen,
+wie Wasser durchbricht.“
+Darum nannte man diesen Ort Baal-Perazim.
+<sup>12</sup>Sie ließen dort ihre Götter zurück.
+David gab einen Befehl,
+und sie wurden mit Feuer verbrannt.
+<sup>13</sup>Die Philister überfielen noch einmal das Tal.
+<sup>14</sup>David fragte wieder Gott.
+Gott sagte zu ihm:
+„Zieh nicht hinter ihnen her.
+Wende dich von ihnen ab
+und greif sie gegenüber den Maulbeerbäumen an.
+<sup>15</sup>Wenn du das Geräusch von Schritten in den Wipfeln der Maulbeerbäume hörst,
+dann zieh hinaus in den Kampf.
+Denn Gott ist vor dir ausgezogen,
+um das Heer der Philister zu schlagen.“
+<sup>16</sup>David tat, was Gott ihm geboten hatte.
+Und sie schlugen das Heer der Philister von Gibeon bis nach Geser.
+<sup>17</sup>Der Ruf Davids ging hinaus in alle Länder.
+Und der HERR ließ alle Völker Furcht vor ihm haben.
+
+> **Was bedeutet das?**
+> Anders als Saul fragt David vor jedem Kampf Gott, und zwar jedes Mal neu. Beim zweiten Mal bekommt er eine ganz andere Anweisung. Gottes Weg ist nicht immer derselbe. Darum lohnt es sich, immer wieder neu zu fragen.
+> „Baal-Perazim“ heißt „Herr der Durchbrüche“. Gott bricht durch die Feinde wie eine Flut durch einen Damm.
+> Die Philister hatten ihre Götterbilder mit in den Kampf genommen. David lässt sie verbrennen, wie es das Gesetz verlangt (5. Mose 7,25). In 2. Samuel 5,21 steht nur, dass David und seine Männer sie mitnahmen.
+> Das Geräusch in den Baumwipfeln ist ein Zeichen: Gott selbst geht vor dem Heer her.
+> „Maulbeerbäume“: Welche Bäume genau gemeint sind, ist unsicher. Manche übersetzen „Bakabäume“ oder „Balsamsträucher“.
+
+## 1. Chronik – Kapitel 15
+#### Die Lade kommt nach Jerusalem
+
+---
+
+### Diesmal richtig (Vers 1–15)
+
+<sup>1</sup>David baute sich Häuser in der Stadt Davids.
+Er bereitete einen Platz für die Lade Gottes vor
+und schlug ein Zelt für sie auf.
+<sup>2</sup>Dann sagte David:
+„Niemand außer den Leviten soll die Lade Gottes tragen.
+Denn der HERR hat sie erwählt, die Lade Gottes zu tragen
+und ihm für immer zu dienen.“
+<sup>3</sup>David versammelte ganz Israel in Jerusalem,
+um die Lade des HERRN an ihren Platz hinaufzubringen,
+den er für sie vorbereitet hatte.
+<sup>4</sup>David versammelte die Söhne Aarons und die Leviten:
+<sup>5</sup>Von den Söhnen Kehats:
+Uriël, den Anführer, und seine Brüder, 120.
+<sup>6</sup>Von den Söhnen Meraris:
+Asaja, den Anführer, und seine Brüder, 220.
+<sup>7</sup>Von den Söhnen Gerschoms:
+Joël, den Anführer, und seine Brüder, 130.
+<sup>8</sup>Von den Söhnen Elizafans:
+Schemaja, den Anführer, und seine Brüder, 200.
+<sup>9</sup>Von den Söhnen Hebrons:
+Eliël, den Anführer, und seine Brüder, 80.
+<sup>10</sup>Von den Söhnen Usiëls:
+Amminadab, den Anführer, und seine Brüder, 112.
+<sup>11</sup>David rief die Priester Zadok und Abjatar
+und die Leviten Uriël, Asaja, Joël, Schemaja, Eliël und Amminadab
+<sup>12</sup>und sagte zu ihnen:
+„Ihr seid die Oberhäupter der Familien der Leviten.
+Heiligt euch, ihr und eure Brüder,
+damit ihr die Lade des HERRN, des Gottes Israels,
+an den Platz hinaufbringt, den ich für sie vorbereitet habe.
+<sup>13</sup>Denn weil ihr sie beim ersten Mal nicht getragen habt,
+hat der HERR, unser Gott, einen Riss unter uns gerissen,
+weil wir ihn nicht nach der Vorschrift gesucht haben.“
+<sup>14</sup>Da heiligten sich die Priester und die Leviten,
+um die Lade des HERRN, des Gottes Israels, hinaufzubringen.
+<sup>15</sup>Die Söhne der Leviten trugen die Lade Gottes auf ihren Schultern, mit ihren Stangen,
+wie Mose es nach dem Wort des HERRN geboten hatte.
+
+> **Was bedeutet das?**
+> David hat aus dem Fehler gelernt. Er sagt offen: „Wir haben Gott nicht nach der Vorschrift gesucht.“ Er sucht nicht einen Schuldigen, sondern sagt „wir“.
+> Jetzt machen sie es richtig: Die Leviten tragen die Lade auf den Schultern, mit Stangen, wie es in 2. Mose 25,14 und 4. Mose 7,9 steht.
+> „Heiligt euch“ heißt: Bereitet euch vor, reinigt euch, macht euch bereit für den Dienst an Gott.
+> Elizafan, Hebron und Usiël waren Unterfamilien der Kehatiter. Sie werden hier eigens genannt.
+> Zadok und Abjatar waren die beiden Priester zur Zeit Davids.
+
+---
+
+### Musik für Gott (Vers 16–24)
+
+<sup>16</sup>David sagte zu den Obersten der Leviten,
+sie sollten ihre Brüder als Sänger einsetzen,
+mit Musikinstrumenten, Zithern, Harfen und Zimbeln,
+die laut erklingen lassen und die Stimme mit Freude erheben.
+<sup>17</sup>Da setzten die Leviten Heman ein, den Sohn Joëls,
+und von seinen Brüdern Asaf, den Sohn Berechjas,
+und von den Söhnen Meraris, ihren Brüdern, Etan, den Sohn Kuschajas,
+<sup>18</sup>und mit ihnen ihre Brüder vom zweiten Rang:
+Secharja, Ben, Jaasiël, Schemiramot, Jehiël, Unni, Eliab, Benaja, Maaseja,
+Mattitja, Elifelehu, Mikneja, Obed-Edom und Jeïël, die Torhüter.
+<sup>19</sup>So bekamen die Sänger Heman, Asaf und Etan Zimbeln aus Bronze, um sie laut erklingen zu lassen.
+<sup>20</sup>Secharja, Asiël, Schemiramot, Jehiël, Unni, Eliab, Maaseja und Benaja
+spielten Zithern nach Alamot.
+<sup>21</sup>Mattitja, Elifelehu, Mikneja, Obed-Edom, Jeïël und Asasja
+spielten Harfen nach der Achtsaitigen, um anzuleiten.
+<sup>22</sup>Kenanja, der Oberste der Leviten, war über den Gesang gesetzt.
+Er unterrichtete die Sänger, denn er verstand etwas davon.
+<sup>23</sup>Berechja und Elkana waren Torhüter für die Lade.
+<sup>24</sup>Schebanja, Joschafat, Netanel, Amasai, Secharja, Benaja und Eliëser, die Priester,
+bliesen die Trompeten vor der Lade Gottes.
+Und Obed-Edom und Jehija waren Torhüter für die Lade.
+
+> **Was bedeutet das?**
+> Für die Chronik ist Musik ein wichtiger Teil des Gottesdienstes. David stellt einen großen Chor und ein Orchester zusammen. Lob Gottes soll laut und fröhlich sein.
+> „Alamot“ und „die Achtsaitige“ (hebräisch „Scheminit“) sind musikalische Fachbegriffe, deren genaue Bedeutung heute unbekannt ist. Vielleicht bedeutet „Alamot“ eine hohe Stimmlage und „Scheminit“ eine tiefe. Beide Wörter stehen auch in den Überschriften von Psalmen (Psalm 6; Psalm 46).
+> Kenanja war ein guter Musiklehrer. Fachwissen und Begabung werden geschätzt.
+> Obed-Edom, in dessen Haus die Lade war, ist jetzt Torhüter und Musiker. Er bleibt der Lade treu.
+
+---
+
+### Freude und Verachtung (Vers 25–29)
+
+<sup>25</sup>So gingen David, die Ältesten Israels und die Anführer über Tausend hin,
+um die Lade des Bundes des HERRN mit Freude aus dem Haus Obed-Edoms heraufzuholen.
+<sup>26</sup>Als Gott den Leviten half, die die Lade des Bundes des HERRN trugen,
+opferten sie sieben Stiere und sieben Widder.
+<sup>27</sup>David war mit einem Mantel aus feinem Leinen bekleidet,
+ebenso alle Leviten, die die Lade trugen,
+die Sänger und Kenanja, der Leiter des Gesangs, mit den Sängern.
+Und David trug einen leinenen Efod.
+<sup>28</sup>So brachte ganz Israel die Lade des Bundes des HERRN hinauf
+mit Jubel, mit dem Klang des Horns, mit Trompeten und mit Zimbeln,
+laut spielend auf Zithern und Harfen.
+<sup>29</sup>Als die Lade des Bundes des HERRN in die Stadt Davids kam,
+schaute Michal, die Tochter Sauls, aus dem Fenster.
+Sie sah den König David tanzen und spielen
+und verachtete ihn in ihrem Herzen.
+
+> **Was bedeutet das?**
+> „Als Gott den Leviten half“: Diesmal geht alles gut. Die Leviten bringen voller Dankbarkeit Opfer dar.
+> David trägt Kleidung wie ein Levit, aus einfachem Leinen, nicht seine Königskleider. Ein Efod war ein schurzartiges Gewand für den Dienst vor Gott.
+> David tanzt vor Freude. Michal, Sauls Tochter und Davids Frau, findet das unwürdig für einen König. Mehr über diesen Streit steht in 2. Samuel 6,20–23.
+> Michal steht für die Haltung Sauls: kein Herz für Gott und seine Lade. David dagegen freut sich mit ganzem Herzen. Echte Freude an Gott darf man zeigen, auch wenn andere es seltsam finden.
