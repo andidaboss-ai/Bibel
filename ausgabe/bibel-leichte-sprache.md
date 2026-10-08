@@ -54822,3 +54822,310 @@ Und sein Sohn Rehabeam wurde an seiner Stelle König.
 > Die Chronik nennt prophetische Bücher als Quellen. Sie sind heute verloren.
 > Ahija aus Schilo war der Prophet, der Jerobeam ankündigte, dass er König über die zehn Nordstämme wird (1. Könige 11,29–39).
 > Salomo regierte etwa von 970 bis 930 vor Christus.
+
+## 2. Chronik – Kapitel 10
+#### Das Reich wird geteilt
+
+---
+
+### Das Volk bittet um Erleichterung (Vers 1–5)
+
+<sup>1</sup>Rehabeam ging nach Sichem,
+denn ganz Israel war nach Sichem gekommen, um ihn zum König zu machen.
+<sup>2</sup>Als Jerobeam, der Sohn Nebats, davon hörte
+– er war nämlich in Ägypten, wohin er vor dem König Salomo geflohen war –,
+kehrte Jerobeam aus Ägypten zurück.
+<sup>3</sup>Sie schickten hin und riefen ihn.
+Da kamen Jerobeam und ganz Israel
+und redeten mit Rehabeam und sagten:
+<sup>4</sup>„Dein Vater hat unser Joch hart gemacht.
+Mach du jetzt den harten Dienst deines Vaters
+und sein schweres Joch, das er uns aufgelegt hat, leichter.
+Dann wollen wir dir dienen.“
+<sup>5</sup>Er sagte zu ihnen:
+„Kommt nach drei Tagen wieder zu mir.“
+Da ging das Volk weg.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht fast gleich in 1. Könige 12.
+> Sichem lag im Norden. Die Nordstämme wollten Rehabeam nicht einfach so als König annehmen. Sie wollten verhandeln.
+> Ein „Joch“ ist ein Holzbalken, mit dem man Tiere vor einen Pflug spannt. Es ist ein Bild für Last und Unterdrückung. Das Volk litt unter Salomos hohen Abgaben und der Zwangsarbeit.
+> Wer Jerobeam war, erzählt die Chronik nicht. Sie setzt voraus, dass die Leser 1. Könige 11 kennen: Ein Prophet hatte Jerobeam angekündigt, dass er König über die zehn Nordstämme wird.
+
+---
+
+### Der Rat der Alten und der Rat der Jungen (Vers 6–15)
+
+<sup>6</sup>Der König Rehabeam beriet sich mit den Alten,
+die vor seinem Vater Salomo gestanden hatten, als er noch lebte.
+Er fragte:
+„Was ratet ihr mir, diesem Volk zu antworten?“
+<sup>7</sup>Sie sagten zu ihm:
+„Wenn du zu diesem Volk freundlich bist,
+es zufriedenstellst und ihm gute Worte sagst,
+dann werden sie für immer deine Diener sein.“
+<sup>8</sup>Aber er ließ den Rat der Alten, den sie ihm gegeben hatten, liegen
+und beriet sich mit den jungen Männern, die mit ihm aufgewachsen waren
+und die vor ihm standen.
+<sup>9</sup>Er sagte zu ihnen:
+„Was ratet ihr, dass wir diesem Volk antworten,
+das zu mir gesagt hat:
+‚Mach das Joch leichter, das dein Vater uns aufgelegt hat‘?“
+<sup>10</sup>Die jungen Männer, die mit ihm aufgewachsen waren, sagten zu ihm:
+„So sollst du zu dem Volk sagen, das zu dir gesagt hat:
+‚Dein Vater hat unser Joch schwer gemacht, aber mach du es uns leichter.‘
+So sollst du zu ihnen sagen:
+‚Mein kleiner Finger ist dicker als die Hüften meines Vaters.
+<sup>11</sup>Mein Vater hat euch ein schweres Joch aufgeladen,
+aber ich will euer Joch noch schwerer machen.
+Mein Vater hat euch mit Peitschen gezüchtigt,
+aber ich will euch mit Skorpionen züchtigen.‘“
+<sup>12</sup>So kamen Jerobeam und das ganze Volk am dritten Tag zu Rehabeam,
+wie der König gesagt hatte:
+„Kommt am dritten Tag wieder zu mir.“
+<sup>13</sup>Der König antwortete ihnen hart.
+Der König Rehabeam ließ den Rat der Alten liegen
+<sup>14</sup>und redete zu ihnen nach dem Rat der jungen Männer und sagte:
+„Mein Vater hat euer Joch schwer gemacht,
+aber ich will es noch schwerer machen.
+Mein Vater hat euch mit Peitschen gezüchtigt,
+aber ich will euch mit Skorpionen züchtigen.“
+<sup>15</sup>So hörte der König nicht auf das Volk.
+Denn so war es von Gott gefügt,
+damit der HERR sein Wort erfüllte,
+das er durch Ahija aus Schilo zu Jerobeam, dem Sohn Nebats, geredet hatte.
+
+> **Was bedeutet das?**
+> Die Alten geben einen weisen Rat: Sei freundlich zum Volk, dann wird es dir dienen. In 1. Könige 12,7 heißt es noch deutlicher: „Wenn du heute ein Diener dieses Volkes bist …“
+> Die jungen Männer sind im Palast aufgewachsen. Sie kennen das harte Leben des Volkes nicht. Sie raten zu Härte und Prahlerei.
+> „Skorpione“ waren vielleicht Peitschen mit Stacheln.
+> Vers 15: Gott hat es so gefügt. Das heißt nicht, dass Rehabeam keine Schuld hatte. Er hat seine Wahl selbst getroffen. Aber Gott wirkt auch durch die Fehler der Menschen.
+
+---
+
+### Die Nordstämme sagen sich los (Vers 16–19)
+
+<sup>16</sup>Als ganz Israel sah, dass der König nicht auf sie hörte,
+antwortete das Volk dem König:
+„Was haben wir für einen Anteil an David?
+Wir haben kein Erbe beim Sohn Isais!
+Jeder zu seinen Zelten, Israel!
+Jetzt sieh selbst nach deinem Haus, David!“
+So ging ganz Israel zu seinen Zelten.
+<sup>17</sup>Aber über die Israeliten, die in den Städten Judas wohnten, regierte Rehabeam.
+<sup>18</sup>Dann schickte der König Rehabeam Hadoram, der über die Zwangsarbeiter gesetzt war.
+Aber die Israeliten steinigten ihn mit Steinen zu Tode.
+Der König Rehabeam beeilte sich, auf seinen Wagen zu steigen,
+um nach Jerusalem zu fliehen.
+<sup>19</sup>So fiel Israel vom Haus Davids ab, bis zum heutigen Tag.
+
+> **Was bedeutet das?**
+> Von jetzt an gibt es zwei Reiche: im Norden Israel mit zehn Stämmen, im Süden Juda mit Jerusalem. Das geschah etwa 930 vor Christus.
+> Rehabeam schickt ausgerechnet den Chef der Zwangsarbeit zu den wütenden Menschen. Das war sehr unklug. Hadoram heißt in 1. Könige 12,18 „Adoram“.
+> Die Chronik erzählt danach fast nur noch von Juda. Das Nordreich kommt nur noch vor, wenn es mit Juda zu tun hat. Für die Chronik bleibt aber auch der Norden ein Teil des Volkes Gottes: „Israel“.
+
+## 2. Chronik – Kapitel 11
+#### Rehabeam, König von Juda
+
+---
+
+### Kein Bruderkrieg (Vers 1–4)
+
+<sup>1</sup>Als Rehabeam nach Jerusalem gekommen war,
+versammelte er das Haus Juda und Benjamin,
+180 000 ausgewählte Krieger,
+um gegen Israel zu kämpfen
+und das Königreich wieder an Rehabeam zurückzubringen.
+<sup>2</sup>Aber das Wort des HERRN kam zu Schemaja, dem Mann Gottes:
+<sup>3</sup>„Sag zu Rehabeam, dem Sohn Salomos, dem König von Juda,
+und zu ganz Israel in Juda und Benjamin:
+<sup>4</sup>‚So spricht der HERR:
+Ihr sollt nicht hinaufziehen und nicht gegen eure Brüder kämpfen!
+Jeder gehe zurück in sein Haus,
+denn diese Sache kommt von mir.‘“
+Sie hörten auf die Worte des HERRN
+und kehrten um und zogen nicht gegen Jerobeam.
+
+> **Was bedeutet das?**
+> Rehabeam will die Einheit mit Gewalt zurückholen. Aber Gott sagt durch den Propheten Schemaja: Kämpft nicht gegen eure Brüder!
+> Rehabeam hört auf Gott. Ein Bürgerkrieg wird verhindert. Auch wenn das Reich geteilt ist, bleiben die Menschen „Brüder“.
+
+---
+
+### Festungen in Juda (Vers 5–12)
+
+<sup>5</sup>Rehabeam wohnte in Jerusalem
+und baute Städte in Juda zu Festungen aus.
+<sup>6</sup>Er baute Betlehem, Etam, Tekoa aus,
+<sup>7</sup>Bet-Zur, Socho, Adullam,
+<sup>8</sup>Gat, Marescha, Sif,
+<sup>9</sup>Adorajim, Lachisch, Aseka,
+<sup>10</sup>Zora, Ajalon und Hebron,
+befestigte Städte in Juda und in Benjamin.
+<sup>11</sup>Er verstärkte die Festungen
+und setzte Befehlshaber hinein,
+mit Vorräten an Nahrung, Öl und Wein.
+<sup>12</sup>In jede Stadt legte er Schilde und Speere
+und machte sie sehr stark.
+So gehörten ihm Juda und Benjamin.
+
+> **Was bedeutet das?**
+> Rehabeam baut einen Gürtel von Festungen rund um Juda, vor allem im Süden und Westen, gegen Ägypten und die Philister.
+> Diese Liste steht nur in der Chronik. Viele dieser Orte, zum Beispiel Lachisch und Aseka, wurden ausgegraben.
+
+---
+
+### Priester und Leviten kommen nach Juda (Vers 13–17)
+
+<sup>13</sup>Die Priester und die Leviten, die in ganz Israel waren,
+kamen aus allen ihren Gebieten zu ihm.
+<sup>14</sup>Denn die Leviten verließen ihre Weideflächen und ihren Besitz
+und kamen nach Juda und Jerusalem.
+Denn Jerobeam und seine Söhne hatten sie verstoßen,
+sodass sie nicht mehr als Priester für den HERRN dienen durften.
+<sup>15</sup>Er setzte sich eigene Priester für die Opferhöhen ein,
+für die Bocksgötzen und für die Kälber, die er gemacht hatte.
+<sup>16</sup>Nach ihnen kamen aus allen Stämmen Israels die,
+die ihr Herz darauf richteten, den HERRN, den Gott Israels, zu suchen,
+nach Jerusalem, um dem HERRN, dem Gott ihrer Väter, zu opfern.
+<sup>17</sup>So stärkten sie das Königreich Juda
+und machten Rehabeam, den Sohn Salomos, drei Jahre lang stark.
+Denn drei Jahre lang gingen sie auf dem Weg Davids und Salomos.
+
+> **Was bedeutet das?**
+> Im Norden stellte Jerobeam goldene Kälber auf und setzte eigene Priester ein (1. Könige 12,28–31). Die echten Priester und Leviten verloren ihre Arbeit.
+> Darum zogen sie nach Juda, und mit ihnen viele Menschen aus dem Norden, „die ihr Herz darauf richteten, den HERRN zu suchen“. Sie gaben ihre Heimat auf, um Gott treu zu bleiben.
+> Die Chronik zeigt: Auch im Norden gab es Menschen, die Gott suchten. Das wahre Israel sind die, die Gott suchen, egal aus welchem Stamm.
+> „Bocksgötzen“: wörtlich „Böcke“, wohl Dämonen oder Götzenbilder in Bocksgestalt (vgl. 3. Mose 17,7).
+> „Drei Jahre lang“: Diese gute Zeit hielt nicht lange (Kapitel 12,1).
+
+---
+
+### Rehabeams Familie (Vers 18–23)
+
+<sup>18</sup>Rehabeam nahm sich Mahalat zur Frau,
+die Tochter Jerimots, des Sohnes Davids,
+und Abihajils, der Tochter Eliabs, des Sohnes Isais.
+<sup>19</sup>Sie gebar ihm Söhne:
+Jëusch, Schemarja und Saham.
+<sup>20</sup>Nach ihr nahm er Maacha, die Enkelin Absaloms.
+Sie gebar ihm Abija, Attai, Sisa und Schelomit.
+<sup>21</sup>Rehabeam liebte Maacha, die Enkelin Absaloms, mehr als alle seine Frauen und Nebenfrauen.
+Denn er hatte 18 Frauen und 60 Nebenfrauen genommen
+und zeugte 28 Söhne und 60 Töchter.
+<sup>22</sup>Rehabeam setzte Abija, den Sohn Maachas, als Oberhaupt ein,
+als Fürsten unter seinen Brüdern,
+denn er wollte ihn zum König machen.
+<sup>23</sup>Er handelte klug
+und verteilte einige seiner Söhne auf alle Gebiete von Juda und Benjamin,
+auf alle befestigten Städte.
+Er gab ihnen reichlich Nahrung
+und suchte viele Frauen für sie.
+
+> **Was bedeutet das?**
+> Rehabeam heiratete Verwandte aus Davids Familie. Mahalat und Maacha stammten beide von David oder Isai ab.
+> Wie sein Vater Salomo hatte Rehabeam viele Frauen. Das Gesetz warnte davor (5. Mose 17,17).
+> Maacha wird hier „Enkelin“ Absaloms genannt. Im Hebräischen steht „Tochter“, was auch „Enkelin“ bedeuten kann. In Kapitel 13,2 wird sie „Michaja, Tochter Uriëls“ genannt. Vielleicht war Uriël ihr Vater und Absalom ihr Großvater.
+> Rehabeam verteilte seine Söhne als Befehlshaber auf die Festungen. So hatten sie Aufgaben und stritten sich nicht um den Thron. Das war klug.
+
+## 2. Chronik – Kapitel 12
+#### Schischak greift Jerusalem an
+
+---
+
+### Rehabeam verlässt Gott (Vers 1–4)
+
+<sup>1</sup>Als das Königreich Rehabeams gefestigt war und er stark geworden war,
+verließ er das Gesetz des HERRN,
+und ganz Israel mit ihm.
+<sup>2</sup>Im fünften Jahr des Königs Rehabeam
+zog Schischak, der König von Ägypten, gegen Jerusalem herauf,
+weil sie dem HERRN untreu geworden waren.
+<sup>3</sup>Er kam mit 1200 Wagen und 60 000 Reitern.
+Und das Volk, das mit ihm aus Ägypten kam, war ohne Zahl:
+Libyer, Sukkiter und Kuschiten.
+<sup>4</sup>Er nahm die befestigten Städte ein, die zu Juda gehörten,
+und kam bis nach Jerusalem.
+
+> **Was bedeutet das?**
+> Ein bekanntes Muster: Als es Rehabeam gut geht und er stark ist, vergisst er Gott. Erfolg kann gefährlich sein.
+> Schischak ist der Pharao Scheschonq I. Sein Feldzug um 925 vor Christus ist auch außerhalb der Bibel belegt: Im Tempel von Karnak in Ägypten gibt es eine große Inschrift mit den Namen vieler Orte, die er in Palästina eroberte.
+> Die Festungen, die Rehabeam gebaut hatte, halfen nicht.
+> Die „Sukkiter“ waren wohl ein Volk aus der libyschen Wüste. Die „Kuschiten“ kamen aus dem Gebiet südlich von Ägypten. In der englischen Vorlage steht „Äthiopier“.
+
+---
+
+### Die Fürsten demütigen sich (Vers 5–8)
+
+<sup>5</sup>Da kam der Prophet Schemaja zu Rehabeam und zu den Fürsten Judas,
+die sich wegen Schischak in Jerusalem versammelt hatten,
+und sagte zu ihnen:
+„So spricht der HERR:
+‚Ihr habt mich verlassen,
+darum habe auch ich euch verlassen und in die Hand Schischaks gegeben.‘“
+<sup>6</sup>Da demütigten sich die Fürsten Israels und der König
+und sagten:
+„Der HERR ist gerecht.“
+<sup>7</sup>Als der HERR sah, dass sie sich demütigten,
+kam das Wort des HERRN zu Schemaja:
+„Sie haben sich gedemütigt.
+Ich will sie nicht vernichten,
+sondern ihnen bald Rettung schenken.
+Mein Zorn soll sich nicht durch Schischak über Jerusalem ergießen.
+<sup>8</sup>Doch sie sollen seine Diener werden,
+damit sie erkennen, was es heißt, mir zu dienen,
+und was es heißt, den Königreichen der Länder zu dienen.“
+
+> **Was bedeutet das?**
+> Hier sieht man das Muster aus Kapitel 7,14: Das Volk demütigt sich, und Gott hört und verschont.
+> „Der HERR ist gerecht“: Sie geben zu, dass sie selbst schuld sind.
+> Gottes Antwort ist bemerkenswert: Sie sollen erfahren, was der Unterschied ist zwischen dem Dienst für Gott und dem Dienst für fremde Herrscher. Gott zu dienen ist Freiheit, fremden Mächten zu dienen ist Last.
+
+---
+
+### Gold wird durch Bronze ersetzt (Vers 9–12)
+
+<sup>9</sup>So zog Schischak, der König von Ägypten, gegen Jerusalem herauf
+und nahm die Schätze des Hauses des HERRN
+und die Schätze des Hauses des Königs weg.
+Er nahm alles weg.
+Er nahm auch die goldenen Schilde weg, die Salomo gemacht hatte.
+<sup>10</sup>Der König Rehabeam machte an ihrer Stelle Schilde aus Bronze
+und gab sie den Anführern der Leibwache,
+die den Eingang zum Haus des Königs bewachten.
+<sup>11</sup>Jedes Mal, wenn der König in das Haus des HERRN ging,
+kamen die Wachen und trugen sie
+und brachten sie danach in die Wachstube zurück.
+<sup>12</sup>Weil er sich gedemütigt hatte,
+wandte sich der Zorn des HERRN von ihm ab,
+sodass er ihn nicht ganz vernichtete.
+Auch gab es in Juda noch Gutes.
+
+> **Was bedeutet das?**
+> Die goldenen Schilde Salomos sind weg. Rehabeam ersetzt sie durch Bronze. Nach außen sieht es noch ähnlich aus, aber der Glanz ist verloren.
+> „Auch gab es in Juda noch Gutes“: Selbst in schlechten Zeiten gab es noch Menschen, die Gott treu waren.
+
+---
+
+### Rehabeams Ende (Vers 13–16)
+
+<sup>13</sup>So stärkte sich der König Rehabeam in Jerusalem und regierte.
+Rehabeam war 41 Jahre alt, als er König wurde,
+und er regierte 17 Jahre in Jerusalem,
+in der Stadt, die der HERR aus allen Stämmen Israels erwählt hatte,
+um seinen Namen dorthin zu legen.
+Seine Mutter hieß Naama, die Ammoniterin.
+<sup>14</sup>Er tat, was böse war,
+denn er richtete sein Herz nicht darauf, den HERRN zu suchen.
+<sup>15</sup>Die Geschichte Rehabeams, die frühere und die spätere,
+steht die nicht geschrieben in der Geschichte des Propheten Schemaja
+und des Sehers Iddo, in den Stammbäumen?
+Zwischen Rehabeam und Jerobeam war die ganze Zeit Krieg.
+<sup>16</sup>Rehabeam legte sich zu seinen Vätern
+und wurde in der Stadt Davids begraben.
+Und sein Sohn Abija wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Vers 14 ist das Urteil über Rehabeam: „Er richtete sein Herz nicht darauf, den HERRN zu suchen.“ Das ist für die Chronik der entscheidende Maßstab. Nicht ein einzelner Fehler, sondern ein Herz, das Gott nicht sucht.
+> Rehabeam regierte etwa von 930 bis 913 vor Christus.
+> Abija heißt in 1. Könige 15,1 „Abijam“.

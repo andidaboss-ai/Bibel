@@ -1379,6 +1379,413 @@
      "erklaerung": "Die Chronik nennt prophetische Bücher als Quellen. Sie sind heute verloren.\nAhija aus Schilo war der Prophet, der Jerobeam ankündigte, dass er König über die zehn Nordstämme wird (1. Könige 11,29–39).\nSalomo regierte etwa von 970 bis 930 vor Christus."
     }
    ]
+  },
+  {
+   "kapitel": 10,
+   "titel": "Das Reich wird geteilt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Volk bittet um Erleichterung",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Rehabeam ging nach Sichem,\ndenn ganz Israel war nach Sichem gekommen, um ihn zum König zu machen.",
+       "englisch_web": "Rehoboam went to Shechem, for all Israel had come to Shechem to make him king."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Als Jerobeam, der Sohn Nebats, davon hörte\n– er war nämlich in Ägypten, wohin er vor dem König Salomo geflohen war –,\nkehrte Jerobeam aus Ägypten zurück.",
+       "englisch_web": "When Jeroboam the son of Nebat heard of it (for he was in Egypt, where he had fled from the presence of King Solomon), Jeroboam returned out of Egypt."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie schickten hin und riefen ihn.\nDa kamen Jerobeam und ganz Israel\nund redeten mit Rehabeam und sagten:",
+       "englisch_web": "They sent and called him; and Jeroboam and all Israel came, and they spoke to Rehoboam, saying,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "„Dein Vater hat unser Joch hart gemacht.\nMach du jetzt den harten Dienst deines Vaters\nund sein schweres Joch, das er uns aufgelegt hat, leichter.\nDann wollen wir dir dienen.“",
+       "englisch_web": "“Your father made our yoke grievous. Now therefore make the grievous service of your father and his heavy yoke which he put on us, lighter, and we will serve you.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Er sagte zu ihnen:\n„Kommt nach drei Tagen wieder zu mir.“\nDa ging das Volk weg.",
+       "englisch_web": "He said to them, “Come again to me after three days.” So the people departed."
+      }
+     ],
+     "erklaerung": "Diese Geschichte steht fast gleich in 1. Könige 12.\nSichem lag im Norden. Die Nordstämme wollten Rehabeam nicht einfach so als König annehmen. Sie wollten verhandeln.\nEin „Joch“ ist ein Holzbalken, mit dem man Tiere vor einen Pflug spannt. Es ist ein Bild für Last und Unterdrückung. Das Volk litt unter Salomos hohen Abgaben und der Zwangsarbeit.\nWer Jerobeam war, erzählt die Chronik nicht. Sie setzt voraus, dass die Leser 1. Könige 11 kennen: Ein Prophet hatte Jerobeam angekündigt, dass er König über die zehn Nordstämme wird."
+    },
+    {
+     "ueberschrift": "Der Rat der Alten und der Rat der Jungen",
+     "vers_von": 6,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Der König Rehabeam beriet sich mit den Alten,\ndie vor seinem Vater Salomo gestanden hatten, als er noch lebte.\nEr fragte:\n„Was ratet ihr mir, diesem Volk zu antworten?“",
+       "englisch_web": "King Rehoboam took counsel with the old men, who had stood before Solomon his father while he yet lived, saying, “What counsel do you give me about how to answer these people?”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie sagten zu ihm:\n„Wenn du zu diesem Volk freundlich bist,\nes zufriedenstellst und ihm gute Worte sagst,\ndann werden sie für immer deine Diener sein.“",
+       "englisch_web": "They spoke to him, saying, “If you are kind to these people, please them, and speak good words to them, then they will be your servants forever.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber er ließ den Rat der Alten, den sie ihm gegeben hatten, liegen\nund beriet sich mit den jungen Männern, die mit ihm aufgewachsen waren\nund die vor ihm standen.",
+       "englisch_web": "But he abandoned the counsel of the old men which they had given him, and took counsel with the young men who had grown up with him, who stood before him."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er sagte zu ihnen:\n„Was ratet ihr, dass wir diesem Volk antworten,\ndas zu mir gesagt hat:\n‚Mach das Joch leichter, das dein Vater uns aufgelegt hat‘?“",
+       "englisch_web": "He said to them, “What counsel do you give, that we may give an answer to these people, who have spoken to me, saying, ‘Make the yoke that your father put on us lighter’?”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die jungen Männer, die mit ihm aufgewachsen waren, sagten zu ihm:\n„So sollst du zu dem Volk sagen, das zu dir gesagt hat:\n‚Dein Vater hat unser Joch schwer gemacht, aber mach du es uns leichter.‘\nSo sollst du zu ihnen sagen:\n‚Mein kleiner Finger ist dicker als die Hüften meines Vaters.",
+       "englisch_web": "The young men who had grown up with him spoke to him, saying, “Thus you shall tell the people who spoke to you, saying, ‘Your father made our yoke heavy, but make it lighter on us;’ thus you shall say to them, ‘My little finger is thicker than my father’s waist."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Mein Vater hat euch ein schweres Joch aufgeladen,\naber ich will euer Joch noch schwerer machen.\nMein Vater hat euch mit Peitschen gezüchtigt,\naber ich will euch mit Skorpionen züchtigen.‘“",
+       "englisch_web": "Now whereas my father burdened you with a heavy yoke, I will add to your yoke. My father chastised you with whips, but I will chastise you with scorpions.’”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "So kamen Jerobeam und das ganze Volk am dritten Tag zu Rehabeam,\nwie der König gesagt hatte:\n„Kommt am dritten Tag wieder zu mir.“",
+       "englisch_web": "So Jeroboam and all the people came to Rehoboam the third day, as the king asked, saying, “Come to me again the third day.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der König antwortete ihnen hart.\nDer König Rehabeam ließ den Rat der Alten liegen",
+       "englisch_web": "The king answered them roughly; and King Rehoboam abandoned the counsel of the old men,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "und redete zu ihnen nach dem Rat der jungen Männer und sagte:\n„Mein Vater hat euer Joch schwer gemacht,\naber ich will es noch schwerer machen.\nMein Vater hat euch mit Peitschen gezüchtigt,\naber ich will euch mit Skorpionen züchtigen.“",
+       "englisch_web": "and spoke to them after the counsel of the young men, saying, “My father made your yoke heavy, but I will add to it. My father chastised you with whips, but I will chastise you with scorpions.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "So hörte der König nicht auf das Volk.\nDenn so war es von Gott gefügt,\ndamit der HERR sein Wort erfüllte,\ndas er durch Ahija aus Schilo zu Jerobeam, dem Sohn Nebats, geredet hatte.",
+       "englisch_web": "So the king didn’t listen to the people; for it was brought about by God, that Yahweh might establish his word, which he spoke by Ahijah the Shilonite to Jeroboam the son of Nebat."
+      }
+     ],
+     "erklaerung": "Die Alten geben einen weisen Rat: Sei freundlich zum Volk, dann wird es dir dienen. In 1. Könige 12,7 heißt es noch deutlicher: „Wenn du heute ein Diener dieses Volkes bist …“\nDie jungen Männer sind im Palast aufgewachsen. Sie kennen das harte Leben des Volkes nicht. Sie raten zu Härte und Prahlerei.\n„Skorpione“ waren vielleicht Peitschen mit Stacheln.\nVers 15: Gott hat es so gefügt. Das heißt nicht, dass Rehabeam keine Schuld hatte. Er hat seine Wahl selbst getroffen. Aber Gott wirkt auch durch die Fehler der Menschen."
+    },
+    {
+     "ueberschrift": "Die Nordstämme sagen sich los",
+     "vers_von": 16,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Als ganz Israel sah, dass der König nicht auf sie hörte,\nantwortete das Volk dem König:\n„Was haben wir für einen Anteil an David?\nWir haben kein Erbe beim Sohn Isais!\nJeder zu seinen Zelten, Israel!\nJetzt sieh selbst nach deinem Haus, David!“\nSo ging ganz Israel zu seinen Zelten.",
+       "englisch_web": "When all Israel saw that the king didn’t listen to them, the people answered the king, saying, “What portion do we have in David? We don’t have an inheritance in the son of Jesse! Every man to your tents, Israel! Now see to your own house, David.” So all Israel departed to their tents."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Aber über die Israeliten, die in den Städten Judas wohnten, regierte Rehabeam.",
+       "englisch_web": "But as for the children of Israel who lived in the cities of Judah, Rehoboam reigned over them."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Dann schickte der König Rehabeam Hadoram, der über die Zwangsarbeiter gesetzt war.\nAber die Israeliten steinigten ihn mit Steinen zu Tode.\nDer König Rehabeam beeilte sich, auf seinen Wagen zu steigen,\num nach Jerusalem zu fliehen.",
+       "englisch_web": "Then King Rehoboam sent Hadoram, who was over the men subject to forced labor; and the children of Israel stoned him to death with stones. King Rehoboam hurried to get himself up to his chariot, to flee to Jerusalem."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "So fiel Israel vom Haus Davids ab, bis zum heutigen Tag.",
+       "englisch_web": "So Israel rebelled against David’s house to this day."
+      }
+     ],
+     "erklaerung": "Von jetzt an gibt es zwei Reiche: im Norden Israel mit zehn Stämmen, im Süden Juda mit Jerusalem. Das geschah etwa 930 vor Christus.\nRehabeam schickt ausgerechnet den Chef der Zwangsarbeit zu den wütenden Menschen. Das war sehr unklug. Hadoram heißt in 1. Könige 12,18 „Adoram“.\nDie Chronik erzählt danach fast nur noch von Juda. Das Nordreich kommt nur noch vor, wenn es mit Juda zu tun hat. Für die Chronik bleibt aber auch der Norden ein Teil des Volkes Gottes: „Israel“."
+    }
+   ]
+  },
+  {
+   "kapitel": 11,
+   "titel": "Rehabeam, König von Juda",
+   "abschnitte": [
+    {
+     "ueberschrift": "Kein Bruderkrieg",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als Rehabeam nach Jerusalem gekommen war,\nversammelte er das Haus Juda und Benjamin,\n180 000 ausgewählte Krieger,\num gegen Israel zu kämpfen\nund das Königreich wieder an Rehabeam zurückzubringen.",
+       "englisch_web": "When Rehoboam had come to Jerusalem, he assembled the house of Judah and Benjamin, one hundred eighty thousand chosen men who were warriors, to fight against Israel, to bring the kingdom again to Rehoboam."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Aber das Wort des HERRN kam zu Schemaja, dem Mann Gottes:",
+       "englisch_web": "But Yahweh’s word came to Shemaiah the man of God, saying,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "„Sag zu Rehabeam, dem Sohn Salomos, dem König von Juda,\nund zu ganz Israel in Juda und Benjamin:",
+       "englisch_web": "“Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "‚So spricht der HERR:\nIhr sollt nicht hinaufziehen und nicht gegen eure Brüder kämpfen!\nJeder gehe zurück in sein Haus,\ndenn diese Sache kommt von mir.‘“\nSie hörten auf die Worte des HERRN\nund kehrten um und zogen nicht gegen Jerobeam.",
+       "englisch_web": "‘Yahweh says, “You shall not go up, nor fight against your brothers! Every man return to his house; for this thing is of me.”’” So they listened to Yahweh’s words, and returned from going against Jeroboam."
+      }
+     ],
+     "erklaerung": "Rehabeam will die Einheit mit Gewalt zurückholen. Aber Gott sagt durch den Propheten Schemaja: Kämpft nicht gegen eure Brüder!\nRehabeam hört auf Gott. Ein Bürgerkrieg wird verhindert. Auch wenn das Reich geteilt ist, bleiben die Menschen „Brüder“."
+    },
+    {
+     "ueberschrift": "Festungen in Juda",
+     "vers_von": 5,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Rehabeam wohnte in Jerusalem\nund baute Städte in Juda zu Festungen aus.",
+       "englisch_web": "Rehoboam lived in Jerusalem, and built cities for defense in Judah."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er baute Betlehem, Etam, Tekoa aus,",
+       "englisch_web": "He built Bethlehem, Etam, Tekoa,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Bet-Zur, Socho, Adullam,",
+       "englisch_web": "Beth Zur, Soco, Adullam,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Gat, Marescha, Sif,",
+       "englisch_web": "Gath, Mareshah, Ziph,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Adorajim, Lachisch, Aseka,",
+       "englisch_web": "Adoraim, Lachish, Azekah,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Zora, Ajalon und Hebron,\nbefestigte Städte in Juda und in Benjamin.",
+       "englisch_web": "Zorah, Aijalon, and Hebron, which are fortified cities in Judah and in Benjamin."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er verstärkte die Festungen\nund setzte Befehlshaber hinein,\nmit Vorräten an Nahrung, Öl und Wein.",
+       "englisch_web": "He fortified the strongholds and put captains in them with stores of food, oil and wine."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "In jede Stadt legte er Schilde und Speere\nund machte sie sehr stark.\nSo gehörten ihm Juda und Benjamin.",
+       "englisch_web": "He put shields and spears in every city, and made them exceedingly strong. Judah and Benjamin belonged to him."
+      }
+     ],
+     "erklaerung": "Rehabeam baut einen Gürtel von Festungen rund um Juda, vor allem im Süden und Westen, gegen Ägypten und die Philister.\nDiese Liste steht nur in der Chronik. Viele dieser Orte, zum Beispiel Lachisch und Aseka, wurden ausgegraben."
+    },
+    {
+     "ueberschrift": "Priester und Leviten kommen nach Juda",
+     "vers_von": 13,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Die Priester und die Leviten, die in ganz Israel waren,\nkamen aus allen ihren Gebieten zu ihm.",
+       "englisch_web": "The priests and the Levites who were in all Israel stood with him out of all their territory."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Denn die Leviten verließen ihre Weideflächen und ihren Besitz\nund kamen nach Juda und Jerusalem.\nDenn Jerobeam und seine Söhne hatten sie verstoßen,\nsodass sie nicht mehr als Priester für den HERRN dienen durften.",
+       "englisch_web": "For the Levites left their pasture lands and their possessions, and came to Judah and Jerusalem; for Jeroboam and his sons cast them off, that they should not execute the priest’s office to Yahweh."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er setzte sich eigene Priester für die Opferhöhen ein,\nfür die Bocksgötzen und für die Kälber, die er gemacht hatte.",
+       "englisch_web": "He himself appointed priests for the high places, for the male goat and calf idols which he had made."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Nach ihnen kamen aus allen Stämmen Israels die,\ndie ihr Herz darauf richteten, den HERRN, den Gott Israels, zu suchen,\nnach Jerusalem, um dem HERRN, dem Gott ihrer Väter, zu opfern.",
+       "englisch_web": "After them, out of all the tribes of Israel, those who set their hearts to seek Yahweh, the God of Israel, came to Jerusalem to sacrifice to Yahweh, the God of their fathers."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "So stärkten sie das Königreich Juda\nund machten Rehabeam, den Sohn Salomos, drei Jahre lang stark.\nDenn drei Jahre lang gingen sie auf dem Weg Davids und Salomos.",
+       "englisch_web": "So they strengthened the kingdom of Judah and made Rehoboam the son of Solomon strong for three years, for they walked three years in the way of David and Solomon."
+      }
+     ],
+     "erklaerung": "Im Norden stellte Jerobeam goldene Kälber auf und setzte eigene Priester ein (1. Könige 12,28–31). Die echten Priester und Leviten verloren ihre Arbeit.\nDarum zogen sie nach Juda, und mit ihnen viele Menschen aus dem Norden, „die ihr Herz darauf richteten, den HERRN zu suchen“. Sie gaben ihre Heimat auf, um Gott treu zu bleiben.\nDie Chronik zeigt: Auch im Norden gab es Menschen, die Gott suchten. Das wahre Israel sind die, die Gott suchen, egal aus welchem Stamm.\n„Bocksgötzen“: wörtlich „Böcke“, wohl Dämonen oder Götzenbilder in Bocksgestalt (vgl. 3. Mose 17,7).\n„Drei Jahre lang“: Diese gute Zeit hielt nicht lange (Kapitel 12,1)."
+    },
+    {
+     "ueberschrift": "Rehabeams Familie",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Rehabeam nahm sich Mahalat zur Frau,\ndie Tochter Jerimots, des Sohnes Davids,\nund Abihajils, der Tochter Eliabs, des Sohnes Isais.",
+       "englisch_web": "Rehoboam took a wife for himself, Mahalath the daughter of Jerimoth the son of David and of Abihail the daughter of Eliab the son of Jesse."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Sie gebar ihm Söhne:\nJëusch, Schemarja und Saham.",
+       "englisch_web": "She bore him sons: Jeush, Shemariah, and Zaham."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Nach ihr nahm er Maacha, die Enkelin Absaloms.\nSie gebar ihm Abija, Attai, Sisa und Schelomit.",
+       "englisch_web": "After her, he took Maacah the granddaughter of Absalom; and she bore him Abijah, Attai, Ziza, and Shelomith."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Rehabeam liebte Maacha, die Enkelin Absaloms, mehr als alle seine Frauen und Nebenfrauen.\nDenn er hatte 18 Frauen und 60 Nebenfrauen genommen\nund zeugte 28 Söhne und 60 Töchter.",
+       "englisch_web": "Rehoboam loved Maacah the granddaughter of Absalom above all his wives and his concubines; for he took eighteen wives and sixty concubines, and became the father of twenty-eight sons and sixty daughters."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Rehabeam setzte Abija, den Sohn Maachas, als Oberhaupt ein,\nals Fürsten unter seinen Brüdern,\ndenn er wollte ihn zum König machen.",
+       "englisch_web": "Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his brothers, for he intended to make him king."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Er handelte klug\nund verteilte einige seiner Söhne auf alle Gebiete von Juda und Benjamin,\nauf alle befestigten Städte.\nEr gab ihnen reichlich Nahrung\nund suchte viele Frauen für sie.",
+       "englisch_web": "He dealt wisely, and dispersed some of his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance; and he sought many wives for them."
+      }
+     ],
+     "erklaerung": "Rehabeam heiratete Verwandte aus Davids Familie. Mahalat und Maacha stammten beide von David oder Isai ab.\nWie sein Vater Salomo hatte Rehabeam viele Frauen. Das Gesetz warnte davor (5. Mose 17,17).\nMaacha wird hier „Enkelin“ Absaloms genannt. Im Hebräischen steht „Tochter“, was auch „Enkelin“ bedeuten kann. In Kapitel 13,2 wird sie „Michaja, Tochter Uriëls“ genannt. Vielleicht war Uriël ihr Vater und Absalom ihr Großvater.\nRehabeam verteilte seine Söhne als Befehlshaber auf die Festungen. So hatten sie Aufgaben und stritten sich nicht um den Thron. Das war klug."
+    }
+   ]
+  },
+  {
+   "kapitel": 12,
+   "titel": "Schischak greift Jerusalem an",
+   "abschnitte": [
+    {
+     "ueberschrift": "Rehabeam verlässt Gott",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als das Königreich Rehabeams gefestigt war und er stark geworden war,\nverließ er das Gesetz des HERRN,\nund ganz Israel mit ihm.",
+       "englisch_web": "When the kingdom of Rehoboam was established and he was strong, he abandoned Yahweh’s law, and all Israel with him."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Im fünften Jahr des Königs Rehabeam\nzog Schischak, der König von Ägypten, gegen Jerusalem herauf,\nweil sie dem HERRN untreu geworden waren.",
+       "englisch_web": "In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem, because they had trespassed against Yahweh,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er kam mit 1200 Wagen und 60 000 Reitern.\nUnd das Volk, das mit ihm aus Ägypten kam, war ohne Zahl:\nLibyer, Sukkiter und Kuschiten.",
+       "englisch_web": "with twelve hundred chariots and sixty thousand horsemen. The people were without number who came with him out of Egypt: the Lubim, the Sukkiim, and the Ethiopians."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er nahm die befestigten Städte ein, die zu Juda gehörten,\nund kam bis nach Jerusalem.",
+       "englisch_web": "He took the fortified cities which belonged to Judah, and came to Jerusalem."
+      }
+     ],
+     "erklaerung": "Ein bekanntes Muster: Als es Rehabeam gut geht und er stark ist, vergisst er Gott. Erfolg kann gefährlich sein.\nSchischak ist der Pharao Scheschonq I. Sein Feldzug um 925 vor Christus ist auch außerhalb der Bibel belegt: Im Tempel von Karnak in Ägypten gibt es eine große Inschrift mit den Namen vieler Orte, die er in Palästina eroberte.\nDie Festungen, die Rehabeam gebaut hatte, halfen nicht.\nDie „Sukkiter“ waren wohl ein Volk aus der libyschen Wüste. Die „Kuschiten“ kamen aus dem Gebiet südlich von Ägypten. In der englischen Vorlage steht „Äthiopier“."
+    },
+    {
+     "ueberschrift": "Die Fürsten demütigen sich",
+     "vers_von": 5,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Da kam der Prophet Schemaja zu Rehabeam und zu den Fürsten Judas,\ndie sich wegen Schischak in Jerusalem versammelt hatten,\nund sagte zu ihnen:\n„So spricht der HERR:\n‚Ihr habt mich verlassen,\ndarum habe auch ich euch verlassen und in die Hand Schischaks gegeben.‘“",
+       "englisch_web": "Now Shemaiah the prophet came to Rehoboam and to the princes of Judah, who were gathered together to Jerusalem because of Shishak, and said to them, “Yahweh says, ‘You have forsaken me, therefore I have also left you in the hand of Shishak.’”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da demütigten sich die Fürsten Israels und der König\nund sagten:\n„Der HERR ist gerecht.“",
+       "englisch_web": "Then the princes of Israel and the king humbled themselves; and they said, “Yahweh is righteous.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Als der HERR sah, dass sie sich demütigten,\nkam das Wort des HERRN zu Schemaja:\n„Sie haben sich gedemütigt.\nIch will sie nicht vernichten,\nsondern ihnen bald Rettung schenken.\nMein Zorn soll sich nicht durch Schischak über Jerusalem ergießen.",
+       "englisch_web": "When Yahweh saw that they humbled themselves, Yahweh’s word came to Shemaiah, saying, “They have humbled themselves. I will not destroy them, but I will grant them some deliverance, and my wrath won’t be poured out on Jerusalem by the hand of Shishak."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Doch sie sollen seine Diener werden,\ndamit sie erkennen, was es heißt, mir zu dienen,\nund was es heißt, den Königreichen der Länder zu dienen.“",
+       "englisch_web": "Nevertheless they will be his servants, that they may know my service, and the service of the kingdoms of the countries.”"
+      }
+     ],
+     "erklaerung": "Hier sieht man das Muster aus Kapitel 7,14: Das Volk demütigt sich, und Gott hört und verschont.\n„Der HERR ist gerecht“: Sie geben zu, dass sie selbst schuld sind.\nGottes Antwort ist bemerkenswert: Sie sollen erfahren, was der Unterschied ist zwischen dem Dienst für Gott und dem Dienst für fremde Herrscher. Gott zu dienen ist Freiheit, fremden Mächten zu dienen ist Last."
+    },
+    {
+     "ueberschrift": "Gold wird durch Bronze ersetzt",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "So zog Schischak, der König von Ägypten, gegen Jerusalem herauf\nund nahm die Schätze des Hauses des HERRN\nund die Schätze des Hauses des Königs weg.\nEr nahm alles weg.\nEr nahm auch die goldenen Schilde weg, die Salomo gemacht hatte.",
+       "englisch_web": "So Shishak king of Egypt came up against Jerusalem and took away the treasures of Yahweh’s house and the treasures of the king’s house. He took it all away. He also took away the shields of gold which Solomon had made."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Der König Rehabeam machte an ihrer Stelle Schilde aus Bronze\nund gab sie den Anführern der Leibwache,\ndie den Eingang zum Haus des Königs bewachten.",
+       "englisch_web": "King Rehoboam made shields of bronze in their place, and committed them to the hands of the captains of the guard, who kept the door of the king’s house."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Jedes Mal, wenn der König in das Haus des HERRN ging,\nkamen die Wachen und trugen sie\nund brachten sie danach in die Wachstube zurück.",
+       "englisch_web": "As often as the king entered into Yahweh’s house, the guard came and bore them, then brought them back into the guard room."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Weil er sich gedemütigt hatte,\nwandte sich der Zorn des HERRN von ihm ab,\nsodass er ihn nicht ganz vernichtete.\nAuch gab es in Juda noch Gutes.",
+       "englisch_web": "When he humbled himself, Yahweh’s wrath turned from him, so as not to destroy him altogether. Moreover, there were good things found in Judah."
+      }
+     ],
+     "erklaerung": "Die goldenen Schilde Salomos sind weg. Rehabeam ersetzt sie durch Bronze. Nach außen sieht es noch ähnlich aus, aber der Glanz ist verloren.\n„Auch gab es in Juda noch Gutes“: Selbst in schlechten Zeiten gab es noch Menschen, die Gott treu waren."
+    },
+    {
+     "ueberschrift": "Rehabeams Ende",
+     "vers_von": 13,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "So stärkte sich der König Rehabeam in Jerusalem und regierte.\nRehabeam war 41 Jahre alt, als er König wurde,\nund er regierte 17 Jahre in Jerusalem,\nin der Stadt, die der HERR aus allen Stämmen Israels erwählt hatte,\num seinen Namen dorthin zu legen.\nSeine Mutter hieß Naama, die Ammoniterin.",
+       "englisch_web": "So King Rehoboam strengthened himself in Jerusalem and reigned; for Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Yahweh had chosen out of all the tribes of Israel to put his name there. His mother’s name was Naamah the Ammonitess."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er tat, was böse war,\ndenn er richtete sein Herz nicht darauf, den HERRN zu suchen.",
+       "englisch_web": "He did that which was evil, because he didn’t set his heart to seek Yahweh."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Die Geschichte Rehabeams, die frühere und die spätere,\nsteht die nicht geschrieben in der Geschichte des Propheten Schemaja\nund des Sehers Iddo, in den Stammbäumen?\nZwischen Rehabeam und Jerobeam war die ganze Zeit Krieg.",
+       "englisch_web": "Now the acts of Rehoboam, first and last, aren’t they written in the histories of Shemaiah the prophet and of Iddo the seer, in the genealogies? There were wars between Rehoboam and Jeroboam continually."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Rehabeam legte sich zu seinen Vätern\nund wurde in der Stadt Davids begraben.\nUnd sein Sohn Abija wurde an seiner Stelle König.",
+       "englisch_web": "Rehoboam slept with his fathers, and was buried in David’s city; and Abijah his son reigned in his place."
+      }
+     ],
+     "erklaerung": "Vers 14 ist das Urteil über Rehabeam: „Er richtete sein Herz nicht darauf, den HERRN zu suchen.“ Das ist für die Chronik der entscheidende Maßstab. Nicht ein einzelner Fehler, sondern ein Herz, das Gott nicht sucht.\nRehabeam regierte etwa von 930 bis 913 vor Christus.\nAbija heißt in 1. Könige 15,1 „Abijam“."
+    }
+   ]
   }
  ]
 }
