@@ -44070,3 +44070,463 @@ und stieg auf den Altar, um Weihrauch zu verbrennen.
 > Jerobeam macht noch mehr falsch: Er setzt Priester ein, die nicht aus dem Stamm Levi sind, und erfindet einen eigenen Festtermin: einen Monat später als das Laubhüttenfest in Jerusalem.
 > Gott hatte Jerobeam ein beständiges Haus versprochen, wenn er treu bleibt (Kapitel 11,38). Aber aus Angst um seine Macht verlässt er Gott. Von nun an wird es immer wieder heißen: Ein König von Israel „ging in den Sünden Jerobeams“. Diese Kälber werden die Geschichte des Nordreichs prägen.
 > Penuël liegt östlich des Jordan. Dort hatte Jakob mit Gott gerungen (1. Mose 32,31).
+
+## 1. Könige – Kapitel 13
+#### Der Mann Gottes aus Juda
+
+---
+
+### Ein Wort gegen den Altar in Bet-El (Vers 1–10)
+
+<sup>1</sup>Schau, ein Mann Gottes kam aus Juda nach Bet-El, auf das Wort des HERRN hin.
+Jerobeam stand gerade am Altar, um Weihrauch zu verbrennen.
+<sup>2</sup>Er rief gegen den Altar, auf das Wort des HERRN hin:
+„Altar! Altar! So spricht der HERR:
+‚Schau, dem Haus Davids wird ein Sohn geboren werden, Joschija mit Namen.
+Auf dir wird er die Priester der Opferhöhen opfern,
+die auf dir Weihrauch verbrennen.
+Und man wird Menschenknochen auf dir verbrennen.‘“
+<sup>3</sup>Am selben Tag gab er ein Zeichen und sagte:
+„Das ist das Zeichen, das der HERR angekündigt hat:
+Schau, der Altar wird zerbrechen,
+und die Asche, die auf ihm liegt, wird ausgeschüttet werden.“
+<sup>4</sup>Als der König hörte, was der Mann Gottes gegen den Altar in Bet-El rief,
+streckte Jerobeam seine Hand vom Altar aus und sagte:
+„Packt ihn!“
+Da verdorrte seine Hand, die er gegen ihn ausgestreckt hatte,
+sodass er sie nicht mehr zu sich zurückziehen konnte.
+<sup>5</sup>Auch der Altar zerbrach,
+und die Asche wurde vom Altar ausgeschüttet,
+wie es das Zeichen angekündigt hatte, das der Mann Gottes auf das Wort des HERRN hin gegeben hatte.
+<sup>6</sup>Da sagte der König zum Mann Gottes:
+„Bitte doch den HERRN, deinen Gott, um Gnade
+und bete für mich, damit meine Hand mir wiedergegeben wird.“
+Der Mann Gottes bat den HERRN,
+und die Hand des Königs wurde ihm wiedergegeben und wurde wie vorher.
+<sup>7</sup>Der König sagte zum Mann Gottes:
+„Komm mit mir nach Hause und stärke dich.
+Ich will dir ein Geschenk geben.“
+<sup>8</sup>Der Mann Gottes sagte zum König:
+„Selbst wenn du mir die Hälfte deines Hauses geben würdest,
+würde ich nicht mit dir hineingehen.
+Ich würde an diesem Ort kein Brot essen und kein Wasser trinken.
+<sup>9</sup>Denn so wurde es mir durch das Wort des HERRN geboten:
+‚Du sollst kein Brot essen und kein Wasser trinken
+und nicht auf dem Weg zurückkehren, auf dem du gekommen bist.‘“
+<sup>10</sup>So ging er auf einem anderen Weg
+und kehrte nicht auf dem Weg zurück, auf dem er nach Bet-El gekommen war.
+
+> **Was bedeutet das?**
+> Ein namenloser Prophet aus Juda kommt nach Bet-El, genau zu Jerobeams neuem Altar. Er kündigt an: Ein König namens Joschija wird diesen Altar entweihen.
+> Das ist eine erstaunliche Vorhersage: Joschija lebte etwa 300 Jahre später. In 2. Könige 23,15–18 wird erzählt, wie er genau das getan hat. Er verbrannte dort Knochen auf dem Altar, damit der Altar unrein und unbrauchbar wurde.
+> Jerobeam will den Propheten verhaften lassen. Aber seine Hand erstarrt. Als der Prophet für ihn betet, wird sie wieder gesund. Sogar für den König, der ihn verhaften wollte, betet der Prophet.
+> Der Prophet darf an diesem Ort nichts essen und nichts trinken. Gemeinsam essen hieß damals: Man ist miteinander verbunden. Der Prophet soll zeigen: Mit diesem falschen Gottesdienst gibt es keine Gemeinschaft.
+
+---
+
+### Der alte Prophet lügt (Vers 11–19)
+
+<sup>11</sup>In Bet-El wohnte ein alter Prophet.
+Einer seiner Söhne kam und erzählte ihm alles, was der Mann Gottes an diesem Tag in Bet-El getan hatte.
+Auch die Worte, die er zum König gesagt hatte, erzählten sie ihrem Vater.
+<sup>12</sup>Ihr Vater fragte sie:
+„Auf welchem Weg ist er gegangen?“
+Seine Söhne hatten gesehen, auf welchem Weg der Mann Gottes gegangen war, der aus Juda gekommen war.
+<sup>13</sup>Er sagte zu seinen Söhnen:
+„Sattelt mir den Esel.“
+Sie sattelten ihm den Esel, und er ritt darauf.
+<sup>14</sup>Er ritt dem Mann Gottes nach und fand ihn unter einer Eiche sitzen.
+Er fragte ihn:
+„Bist du der Mann Gottes, der aus Juda gekommen ist?“
+Er antwortete:
+„Ja, der bin ich.“
+<sup>15</sup>Da sagte er zu ihm:
+„Komm mit mir nach Hause und iss Brot.“
+<sup>16</sup>Er sagte:
+„Ich darf nicht mit dir umkehren und nicht mit dir hineingehen.
+Ich werde an diesem Ort mit dir kein Brot essen und kein Wasser trinken.
+<sup>17</sup>Denn durch das Wort des HERRN wurde mir gesagt:
+‚Du sollst dort kein Brot essen und kein Wasser trinken.
+Und kehr nicht auf dem Weg zurück, auf dem du gekommen bist.‘“
+<sup>18</sup>Er sagte zu ihm:
+„Ich bin auch ein Prophet wie du.
+Und ein Engel hat auf das Wort des HERRN hin zu mir gesagt:
+‚Bring ihn mit dir zurück in dein Haus, damit er Brot isst und Wasser trinkt.‘“
+Er belog ihn.
+<sup>19</sup>Da ging er mit ihm zurück, aß Brot in seinem Haus und trank Wasser.
+
+> **Was bedeutet das?**
+> Warum lügt der alte Prophet? Die Bibel sagt es nicht. Vielleicht wollte er den berühmten Gast bei sich haben. Vielleicht wollte er prüfen, ob dieser treu bleibt.
+> Der Mann Gottes hatte einen klaren Auftrag von Gott selbst bekommen. Jetzt kommt jemand, der sagt: „Ein Engel hat mir etwas anderes gesagt.“ Und er glaubt ihm.
+> Die Lehre ist ernst: Wenn Gott dir etwas klar gesagt hat, dann lass dich nicht von anderen davon abbringen, auch nicht von frommen Menschen, die sich auf Gott oder einen Engel berufen. Paulus schreibt Ähnliches in Galater 1,8.
+
+---
+
+### Der Löwe auf dem Weg (Vers 20–32)
+
+<sup>20</sup>Als sie am Tisch saßen,
+kam das Wort des HERRN zu dem Propheten, der ihn zurückgebracht hatte.
+<sup>21</sup>Und er rief dem Mann Gottes zu, der aus Juda gekommen war:
+„So spricht der HERR:
+‚Weil du dem Wort des HERRN ungehorsam warst
+und das Gebot nicht gehalten hast, das der HERR, dein Gott, dir geboten hat,
+<sup>22</sup>sondern zurückgekommen bist
+und an dem Ort Brot gegessen und Wasser getrunken hast,
+von dem er dir gesagt hat: „Iss kein Brot und trink kein Wasser“,
+darum wird dein Leichnam nicht in das Grab deiner Väter kommen.‘“
+<sup>23</sup>Nachdem er Brot gegessen und getrunken hatte,
+sattelte er den Esel für den Propheten, den er zurückgebracht hatte.
+<sup>24</sup>Als er weggegangen war, traf ihn ein Löwe auf dem Weg und tötete ihn.
+Sein Leichnam lag hingeworfen auf dem Weg,
+und der Esel stand daneben.
+Auch der Löwe stand neben dem Leichnam.
+<sup>25</sup>Schau, Männer gingen vorbei
+und sahen den Leichnam auf dem Weg liegen und den Löwen neben dem Leichnam stehen.
+Sie kamen und erzählten es in der Stadt, in der der alte Prophet wohnte.
+<sup>26</sup>Als der Prophet, der ihn vom Weg zurückgebracht hatte, das hörte, sagte er:
+„Das ist der Mann Gottes, der dem Wort des HERRN ungehorsam war.
+Darum hat der HERR ihn dem Löwen ausgeliefert,
+der ihn zerrissen und getötet hat,
+wie es der HERR ihm durch sein Wort gesagt hatte.“
+<sup>27</sup>Er sagte zu seinen Söhnen:
+„Sattelt mir den Esel.“
+Und sie sattelten ihn.
+<sup>28</sup>Er ritt hin und fand den Leichnam auf dem Weg liegen,
+und den Esel und den Löwen neben dem Leichnam stehen.
+Der Löwe hatte den Leichnam nicht gefressen und den Esel nicht zerrissen.
+<sup>29</sup>Der Prophet hob den Leichnam des Mannes Gottes auf,
+legte ihn auf den Esel und brachte ihn zurück.
+Er kam in die Stadt des alten Propheten,
+um ihn zu beklagen und zu begraben.
+<sup>30</sup>Er legte den Leichnam in sein eigenes Grab.
+Und sie klagten über ihn:
+„Ach, mein Bruder!“
+<sup>31</sup>Nachdem er ihn begraben hatte, sagte er zu seinen Söhnen:
+„Wenn ich gestorben bin,
+dann begrabt mich in dem Grab, in dem der Mann Gottes begraben ist.
+Legt meine Knochen neben seine Knochen.
+<sup>32</sup>Denn das Wort, das er auf das Wort des HERRN hin gegen den Altar in Bet-El
+und gegen alle Häuser der Opferhöhen in den Städten Samarias gerufen hat,
+wird ganz sicher geschehen.“
+
+> **Was bedeutet das?**
+> Diese Geschichte ist schwer zu verstehen. Ausgerechnet der Lügner bekommt ein echtes Wort von Gott. Und der Mann, der belogen wurde, muss sterben.
+> Der Text will wohl zeigen: Gottes Wort ist ernst. Wenn schon der Prophet, der es überbringt, sterben muss, weil er es nicht befolgt, wie viel ernster ist dann das Wort gegen den Altar in Bet-El!
+> Der Löwe verhält sich ganz unnatürlich: Er frisst weder den Toten noch den Esel. Jeder sieht: Das ist kein Zufall, das ist ein Zeichen Gottes.
+> „Nicht in das Grab deiner Väter kommen“ hieß: in der Fremde sterben und begraben werden. Das war damals sehr schlimm.
+> Am Ende klagt der alte Prophet ehrlich: „Ach, mein Bruder!“ Er will sogar neben ihm begraben werden. Er hat erkannt, dass der Mann aus Juda ein wahrer Prophet war.
+> 300 Jahre später verschont König Joschija genau dieses Grab (2. Könige 23,17–18).
+> „Samaria“: Diese Stadt wurde erst später gebaut (Kapitel 16,24). Der Name wird hier schon für das ganze Nordreich gebraucht.
+
+---
+
+### Jerobeam kehrt nicht um (Vers 33–34)
+
+<sup>33</sup>Nach dieser Sache kehrte Jerobeam nicht von seinem bösen Weg um.
+Er machte wieder Leute aus dem ganzen Volk zu Priestern der Opferhöhen.
+Wer wollte, den weihte er, damit es Priester der Opferhöhen gab.
+<sup>34</sup>Das wurde zur Sünde für das Haus Jerobeams,
+sodass es vernichtet und vom Erdboden ausgelöscht wurde.
+
+> **Was bedeutet das?**
+> Jerobeam hat ein Wunder an seinem eigenen Körper erlebt. Er hat den zerbrochenen Altar gesehen. Trotzdem ändert er nichts.
+> Jeder konnte bei ihm Priester werden. „Weihen“ heißt hier wörtlich: „die Hand füllen“. Gemeint ist die Einsetzung in das Priesteramt.
+
+## 1. Könige – Kapitel 14
+#### Ahijas Wort gegen Jerobeam und König Rehabeam
+
+---
+
+### Jerobeams kranker Sohn (Vers 1–6)
+
+<sup>1</sup>In dieser Zeit wurde Abija, der Sohn Jerobeams, krank.
+<sup>2</sup>Jerobeam sagte zu seiner Frau:
+„Steh bitte auf und verkleide dich,
+damit niemand erkennt, dass du die Frau Jerobeams bist.
+Geh nach Schilo.
+Schau, dort ist der Prophet Ahija,
+der mir gesagt hat, dass ich König über dieses Volk sein werde.
+<sup>3</sup>Nimm zehn Brote mit, ein paar Kuchen und einen Krug Honig
+und geh zu ihm.
+Er wird dir sagen, was mit dem Jungen geschehen wird.“
+<sup>4</sup>Die Frau Jerobeams tat es.
+Sie machte sich auf, ging nach Schilo und kam zum Haus Ahijas.
+Ahija konnte nicht mehr sehen,
+denn seine Augen waren wegen seines Alters starr geworden.
+<sup>5</sup>Der HERR sagte zu Ahija:
+„Schau, die Frau Jerobeams kommt,
+um dich wegen ihres Sohnes zu befragen, denn er ist krank.
+Sag ihr dies und das.
+Wenn sie hereinkommt, wird sie sich als eine andere Frau ausgeben.“
+<sup>6</sup>Als Ahija das Geräusch ihrer Füße hörte, als sie zur Tür hereinkam, sagte er:
+„Komm herein, Frau Jerobeams!
+Warum gibst du dich als eine andere aus?
+Ich bin mit einer schweren Botschaft zu dir geschickt.“
+
+> **Was bedeutet das?**
+> Jerobeam ist in Not. Sein Sohn ist krank. Er geht nicht zu seinen goldenen Kälbern, sondern schickt seine Frau zu dem echten Propheten des HERRN. In der Not weiß er, wo die Wahrheit ist.
+> Aber er schickt seine Frau verkleidet. Er will Gott täuschen. Doch der blinde Prophet „sieht“ mehr als alle anderen: Gott hat ihm gesagt, wer da kommt.
+> Diesen Abija darf man nicht verwechseln mit Abijam, dem König von Juda (Kapitel 15).
+
+---
+
+### Die schwere Botschaft (Vers 7–16)
+
+<sup>7</sup>„Geh, sag zu Jerobeam:
+‚So spricht der HERR, der Gott Israels:
+„Ich habe dich mitten aus dem Volk erhoben
+und dich zum Fürsten über mein Volk Israel gemacht.
+<sup>8</sup>Ich habe das Königreich vom Haus Davids weggerissen und es dir gegeben.
+Aber du bist nicht gewesen wie mein Knecht David,
+der meine Gebote gehalten hat
+und mir mit seinem ganzen Herzen gefolgt ist
+und nur getan hat, was in meinen Augen recht ist.
+<sup>9</sup>Sondern du hast Böses getan, mehr als alle, die vor dir waren.
+Du bist hingegangen und hast dir andere Götter gemacht, gegossene Bilder,
+um mich zum Zorn zu reizen.
+Und mich hast du hinter deinen Rücken geworfen.
+<sup>10</sup>Darum, schau, bringe ich Unheil über das Haus Jerobeams.
+Ich rotte von Jerobeam jeden aus, der an die Wand uriniert,
+den Gebundenen und den Freien in Israel.
+Ich fege das Haus Jerobeams ganz weg,
+wie man Mist wegfegt, bis nichts mehr übrig ist.
+<sup>11</sup>Wer von Jerobeams Familie in der Stadt stirbt, den werden die Hunde fressen.
+Und wer auf dem Feld stirbt, den werden die Vögel des Himmels fressen.
+Denn der HERR hat es gesagt.“‘
+<sup>12</sup>Und du, steh auf und geh in dein Haus.
+Wenn deine Füße die Stadt betreten, wird der Junge sterben.
+<sup>13</sup>Ganz Israel wird um ihn klagen und ihn begraben.
+Denn er allein von Jerobeams Familie wird in ein Grab kommen,
+weil sich an ihm etwas Gutes für den HERRN, den Gott Israels, gefunden hat,
+im Haus Jerobeams.
+<sup>14</sup>Außerdem wird der HERR sich einen König über Israel erwecken,
+der das Haus Jerobeams ausrotten wird.
+Das ist der Tag! Und was noch? Schon jetzt!
+<sup>15</sup>Denn der HERR wird Israel schlagen,
+wie ein Schilfrohr im Wasser hin und her schwankt.
+Und er wird Israel aus diesem guten Land ausreißen, das er ihren Vätern gegeben hat,
+und wird sie jenseits des Stromes zerstreuen,
+weil sie sich ihre Ascheren gemacht haben
+und den HERRN damit zum Zorn gereizt haben.
+<sup>16</sup>Er wird Israel preisgeben wegen der Sünden Jerobeams,
+die er begangen hat
+und zu denen er Israel verführt hat.“
+
+> **Was bedeutet das?**
+> Derselbe Prophet, der Jerobeam einst das Königreich versprochen hat, muss ihm jetzt das Ende ankündigen. Gott hatte Jerobeam alles gegeben. Aber Jerobeam hat Gott „hinter seinen Rücken geworfen“, also absichtlich vergessen.
+> „Jeder, der an die Wand uriniert“ ist ein derber Ausdruck der damaligen Sprache. Gemeint sind alle männlichen Nachkommen. „Den Gebundenen und den Freien“ heißt wohl: alle, ohne Ausnahme.
+> Dass Tote nicht begraben, sondern von Tieren gefressen werden, galt als die schlimmste Schande.
+> Mitten in diesem harten Gericht steht ein zartes Wort: An dem kranken Jungen war „etwas Gutes für den HERRN“. Er darf in Frieden sterben und ehrenvoll begraben werden. Gott sieht das Gute auch in einem Kind aus einer schlimmen Familie.
+> „Jenseits des Stromes“: Gemeint ist der Euphrat. Hier wird schon die spätere Verschleppung Israels durch die Assyrer (2. Könige 17) angekündigt.
+> „Ascheren“ waren heilige Holzpfähle für die Göttin Aschera, eine Göttin der Fruchtbarkeit.
+
+---
+
+### Der Tod des Kindes und Jerobeams Ende (Vers 17–20)
+
+<sup>17</sup>Die Frau Jerobeams machte sich auf, ging weg und kam nach Tirza.
+Als sie die Schwelle des Hauses betrat, starb der Junge.
+<sup>18</sup>Ganz Israel begrub ihn und klagte um ihn,
+wie es der HERR durch seinen Knecht, den Propheten Ahija, gesagt hatte.
+<sup>19</sup>Was sonst noch von Jerobeam zu erzählen ist, wie er kämpfte und wie er regierte,
+schau, das steht im Buch der Chronik der Könige von Israel geschrieben.
+<sup>20</sup>Jerobeam regierte 22 Jahre lang.
+Dann legte er sich zu seinen Vätern,
+und sein Sohn Nadab wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Für eine Mutter ist das unendlich schwer: Sie kommt nach Hause, und in diesem Moment stirbt ihr Kind. Die Bibel erzählt es ohne Beschönigung.
+> Wer heute ein Kind verloren hat, ist mit seiner Trauer nicht allein. Die Klage hat in der Bibel ihren Platz. Hilfe gibt es zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr).
+> Tirza war damals die Hauptstadt des Nordreichs.
+> Das „Buch der Chronik der Könige von Israel“ ist ein altes Buch, das heute verloren ist. Es ist nicht dasselbe wie die biblischen Bücher der Chronik.
+> Jerobeam regierte etwa von 930 bis 909 vor Christus.
+
+---
+
+### Rehabeam, König von Juda (Vers 21–31)
+
+<sup>21</sup>Rehabeam, der Sohn Salomos, regierte in Juda.
+Rehabeam war 41 Jahre alt, als er König wurde,
+und er regierte 17 Jahre in Jerusalem,
+in der Stadt, die der HERR aus allen Stämmen Israels erwählt hatte, um seinen Namen dorthin zu legen.
+Seine Mutter hieß Naama, die Ammoniterin.
+<sup>22</sup>Juda tat, was in den Augen des HERRN böse war.
+Sie reizten ihn zur Eifersucht mit ihren Sünden, die sie begingen,
+mehr als alles, was ihre Väter getan hatten.
+<sup>23</sup>Denn auch sie bauten sich Opferhöhen, heilige Steinsäulen und Ascheren
+auf jedem hohen Hügel und unter jedem grünen Baum.
+<sup>24</sup>Es gab auch Kultprostituierte im Land.
+Sie taten nach allen Gräueln der Völker,
+die der HERR vor den Israeliten vertrieben hatte.
+<sup>25</sup>Im fünften Jahr des Königs Rehabeam
+zog Schischak, der König von Ägypten, gegen Jerusalem herauf.
+<sup>26</sup>Er nahm die Schätze des Hauses des HERRN und die Schätze des Hauses des Königs weg.
+Er nahm alles weg,
+auch alle goldenen Schilde, die Salomo gemacht hatte.
+<sup>27</sup>Der König Rehabeam machte an ihrer Stelle Schilde aus Bronze
+und gab sie den Anführern der Leibwache,
+die den Eingang zum Haus des Königs bewachten.
+<sup>28</sup>Jedes Mal, wenn der König in das Haus des HERRN ging,
+trugen die Wachen sie
+und brachten sie danach in die Wachstube zurück.
+<sup>29</sup>Was sonst noch von Rehabeam zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+<sup>30</sup>Zwischen Rehabeam und Jerobeam war die ganze Zeit Krieg.
+<sup>31</sup>Rehabeam legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt Davids begraben.
+Seine Mutter hieß Naama, die Ammoniterin.
+Und sein Sohn Abijam wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Auch im Südreich Juda, wo der Tempel steht, verbreitet sich der Götzendienst. Der Tempel allein macht ein Volk nicht treu.
+> „Heilige Steinsäulen“ und „Ascheren“ waren Zeichen kanaanitischer Götter. „Unter jedem grünen Baum“ heißt: überall im Land.
+> Vers 24: In der englischen Vorlage steht „sodomites“. Im Hebräischen steht „qadesch“, wörtlich „Geweihter“. Gemeint sind wohl Menschen, die im Dienst fremder Götter sexuelle Handlungen vollzogen (sogenannte Kultprostitution). Wie das genau aussah, ist in der Forschung umstritten. Der Vers spricht vom Götzendienst. Man sollte ihn nicht benutzen, um Menschen abzuwerten.
+> Der Feldzug von Schischak (Pharao Scheschonq I.) ist auch außerhalb der Bibel belegt: Im Tempel von Karnak in Ägypten gibt es eine Inschrift mit einer Liste der Orte, die er in Palästina erobert hat. Das war etwa 925 vor Christus.
+> Die goldenen Schilde Salomos sind weg. Rehabeam ersetzt sie durch Bronze. Das ist ein trauriges Bild: Nach außen sieht es noch ähnlich aus, aber der Glanz ist verloren.
+> Rehabeams Mutter war Ammoniterin, eine der ausländischen Frauen Salomos. Dass das zweimal erwähnt wird, erinnert an Kapitel 11.
+> Rehabeam regierte etwa von 930 bis 913 vor Christus.
+
+## 1. Könige – Kapitel 15
+#### Die Könige Abijam, Asa, Nadab und Bascha
+
+---
+
+### Abijam, König von Juda (Vers 1–8)
+
+<sup>1</sup>Im achtzehnten Jahr des Königs Jerobeam, des Sohnes Nebats,
+wurde Abijam König über Juda.
+<sup>2</sup>Er regierte drei Jahre in Jerusalem.
+Seine Mutter hieß Maacha, die Tochter Abischaloms.
+<sup>3</sup>Er ging in allen Sünden seines Vaters, die dieser vor ihm getan hatte.
+Und sein Herz war nicht ungeteilt beim HERRN, seinem Gott,
+wie das Herz seines Vaters David.
+<sup>4</sup>Doch um Davids willen gab ihm der HERR, sein Gott, eine Lampe in Jerusalem,
+indem er seinen Sohn nach ihm einsetzte und Jerusalem bestehen ließ.
+<sup>5</sup>Denn David hatte getan, was in den Augen des HERRN recht war,
+und war sein ganzes Leben lang von nichts abgewichen, was er ihm geboten hatte,
+nur in der Sache mit Urija, dem Hetiter.
+<sup>6</sup>Zwischen Rehabeam und Jerobeam war Krieg, solange er lebte.
+<sup>7</sup>Was sonst noch von Abijam zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+Und zwischen Abijam und Jerobeam war Krieg.
+<sup>8</sup>Abijam legte sich zu seinen Vätern,
+und sie begruben ihn in der Stadt Davids.
+Und sein Sohn Asa wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Ab jetzt erzählt das Buch abwechselnd von den Königen im Süden (Juda) und im Norden (Israel). Die Jahre werden immer mit dem anderen Reich verglichen: „im achtzehnten Jahr Jerobeams“.
+> Abischalom ist wohl Absalom, der Sohn Davids. Maacha war dann seine Tochter oder Enkelin.
+> In 2. Chronik 13 heißt dieser König Abija.
+> Wieder hört man: Gott bleibt treu „um Davids willen“. Die „Lampe“ in Jerusalem erlischt nicht.
+> Vers 5 ist ehrlich: Auch David war nicht ohne Schuld. Sein großer Fehler war die Sache mit Batseba und ihrem Mann Urija (2. Samuel 11). Die Bibel verschweigt das nicht.
+> Vers 6: Hier steht noch einmal „Rehabeam“. Manche Handschriften haben stattdessen „Abijam“. Der Krieg zwischen Nord und Süd ging jedenfalls weiter.
+> Abijam regierte etwa von 913 bis 911 vor Christus.
+
+---
+
+### Asa, ein guter König von Juda (Vers 9–15)
+
+<sup>9</sup>Im zwanzigsten Jahr Jerobeams, des Königs von Israel,
+wurde Asa König über Juda.
+<sup>10</sup>Er regierte 41 Jahre in Jerusalem.
+Seine Mutter hieß Maacha, die Tochter Abischaloms.
+<sup>11</sup>Asa tat, was in den Augen des HERRN recht war, wie sein Vater David.
+<sup>12</sup>Er schaffte die Kultprostituierten aus dem Land
+und entfernte alle Götzenbilder, die seine Väter gemacht hatten.
+<sup>13</sup>Er setzte auch seine Mutter Maacha als Königin ab,
+weil sie ein abscheuliches Bild für die Aschera gemacht hatte.
+Asa hieb ihr Bild um und verbrannte es am Bach Kidron.
+<sup>14</sup>Aber die Opferhöhen wurden nicht entfernt.
+Doch das Herz Asas war ungeteilt beim HERRN, sein Leben lang.
+<sup>15</sup>Er brachte in das Haus des HERRN, was sein Vater geweiht hatte
+und was er selbst geweiht hatte:
+Silber, Gold und Geräte.
+
+> **Was bedeutet das?**
+> Endlich ein guter König! Asa räumt mit dem Götzendienst auf.
+> „Wie sein Vater David“: Gemeint ist sein Vorfahre David. Im Hebräischen kann „Vater“ auch „Vorfahre“ heißen. So ist es auch bei „seine Mutter Maacha“: Nach Vers 2 war Maacha die Mutter Abijams, also eigentlich Asas Großmutter. Sie hatte als „Königinmutter“ eine wichtige Stellung am Hof.
+> Asa setzt sie ab, weil sie ein Götzenbild gemacht hat. Das braucht Mut: Er stellt Gott über seine eigene Familie.
+> Die „Opferhöhen“ waren Altäre auf Hügeln im ganzen Land. Viele davon waren wohl dem HERRN geweiht, aber nach 5. Mose 12 sollte man nur an dem einen Ort opfern, den Gott erwählt. Asa schaffte sie nicht ab. Trotzdem lobt die Bibel sein ehrliches Herz.
+> Der Bach Kidron fließt im Tal östlich von Jerusalem.
+> In Vers 12 steht in der englischen Vorlage wieder „sodomites“, siehe die Erklärung zu Kapitel 14,24.
+
+---
+
+### Asa und Bascha im Krieg (Vers 16–24)
+
+<sup>16</sup>Zwischen Asa und Bascha, dem König von Israel, war Krieg, solange sie lebten.
+<sup>17</sup>Bascha, der König von Israel, zog gegen Juda herauf und baute Rama aus,
+damit er niemanden zu Asa, dem König von Juda, hinaus- oder hineingehen ließ.
+<sup>18</sup>Da nahm Asa alles Silber und Gold,
+das in den Schätzen des Hauses des HERRN und in den Schätzen des Hauses des Königs übrig geblieben war,
+und gab es seinen Dienern.
+Der König Asa schickte sie zu Ben-Hadad,
+dem Sohn Tabrimmons, des Sohnes Hesjons, dem König von Syrien, der in Damaskus wohnte,
+und ließ ihm sagen:
+<sup>19</sup>„Lass einen Bund zwischen mir und dir sein,
+wie er zwischen meinem Vater und deinem Vater war.
+Schau, ich schicke dir ein Geschenk aus Silber und Gold.
+Geh, brich deinen Bund mit Bascha, dem König von Israel,
+damit er von mir abzieht.“
+<sup>20</sup>Ben-Hadad hörte auf den König Asa
+und schickte seine Heerführer gegen die Städte Israels.
+Er eroberte Ijon, Dan, Abel-Bet-Maacha und ganz Kinneret,
+mit dem ganzen Land Naftali.
+<sup>21</sup>Als Bascha das hörte, hörte er auf, Rama auszubauen,
+und blieb in Tirza.
+<sup>22</sup>Da ließ der König Asa ganz Juda aufrufen. Keiner war ausgenommen.
+Sie trugen die Steine und das Holz von Rama weg, mit denen Bascha gebaut hatte.
+Und der König Asa baute damit Geba in Benjamin und Mizpa aus.
+<sup>23</sup>Was sonst noch von Asa zu erzählen ist,
+alle seine Stärke, alles, was er getan hat, und die Städte, die er gebaut hat,
+steht das nicht im Buch der Chronik der Könige von Juda geschrieben?
+Aber im Alter wurde er an seinen Füßen krank.
+<sup>24</sup>Asa legte sich zu seinen Vätern
+und wurde bei seinen Vätern in der Stadt seines Vaters David begraben.
+Und sein Sohn Joschafat wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Rama lag nur etwa 8 Kilometer nördlich von Jerusalem. Bascha baute es zur Festung aus, um Jerusalem abzuschneiden.
+> Asa wehrt sich mit Geld statt mit Gottvertrauen: Er bezahlt den König von Syrien (Aram), damit dieser Israel im Norden angreift. Der Plan funktioniert. Aber er nimmt dafür die Schätze aus dem Tempel. Und er holt eine fremde Großmacht ins Land, die später für beide Reiche gefährlich wird. Der Prophet Hanani tadelt ihn dafür später (2. Chronik 16,7–9).
+> Kinneret ist die Gegend am See Gennesaret, dem See Genezareth. Naftali ist das Gebiet im Norden Galiläas.
+> „Syrien“ heißt im Hebräischen „Aram“, das Land der Aramäer.
+> Asa regierte etwa von 911 bis 870 vor Christus, also sehr lange.
+
+---
+
+### Nadab und Bascha, Könige von Israel (Vers 25–34)
+
+<sup>25</sup>Nadab, der Sohn Jerobeams, wurde König über Israel im zweiten Jahr Asas, des Königs von Juda.
+Er regierte zwei Jahre über Israel.
+<sup>26</sup>Er tat, was in den Augen des HERRN böse war,
+und ging auf dem Weg seines Vaters
+und in seiner Sünde, zu der er Israel verführt hatte.
+<sup>27</sup>Bascha, der Sohn Ahijas, aus dem Haus Issachar, verschwor sich gegen ihn.
+Bascha erschlug ihn bei Gibbeton, das den Philistern gehörte.
+Denn Nadab und ganz Israel belagerten gerade Gibbeton.
+<sup>28</sup>Im dritten Jahr Asas, des Königs von Juda, tötete Bascha ihn
+und wurde an seiner Stelle König.
+<sup>29</sup>Sobald er König war, erschlug er das ganze Haus Jerobeams.
+Er ließ von Jerobeam niemanden übrig, der atmete,
+bis er ihn vernichtet hatte,
+nach dem Wort des HERRN, das er durch seinen Knecht Ahija aus Schilo gesagt hatte,
+<sup>30</sup>wegen der Sünden Jerobeams, die er begangen
+und zu denen er Israel verführt hatte,
+wegen der Kränkung, mit der er den HERRN, den Gott Israels, zum Zorn gereizt hatte.
+<sup>31</sup>Was sonst noch von Nadab zu erzählen ist und alles, was er getan hat,
+steht das nicht im Buch der Chronik der Könige von Israel geschrieben?
+<sup>32</sup>Zwischen Asa und Bascha, dem König von Israel, war Krieg, solange sie lebten.
+<sup>33</sup>Im dritten Jahr Asas, des Königs von Juda,
+wurde Bascha, der Sohn Ahijas, König über ganz Israel in Tirza,
+für 24 Jahre.
+<sup>34</sup>Er tat, was in den Augen des HERRN böse war,
+und ging auf dem Weg Jerobeams
+und in seiner Sünde, zu der er Israel verführt hatte.
+
+> **Was bedeutet das?**
+> Im Nordreich beginnt eine traurige Reihe: Ein König wird ermordet, und der Mörder wird König. Bascha tötet Nadab und die ganze Familie Jerobeams.
+> So erfüllt sich das Wort Ahijas (Kapitel 14,10). Aber das macht Baschas Mord nicht gut. Bascha wird für seine Taten selbst zur Rechenschaft gezogen (Kapitel 16,7). Die Bibel zeigt: Gott kann sogar böse Taten in seinen Plan einfügen, aber er billigt die Gewalt nicht.
+> Und Bascha macht genau dieselben Fehler wie Jerobeam. Er hat nichts gelernt.
+> Dieser Ahija, Baschas Vater, ist nicht der Prophet Ahija aus Schilo.
+> Gibbeton lag im Westen, an der Grenze zum Land der Philister.
+> Nadab regierte etwa von 909 bis 908 vor Christus, Bascha etwa von 908 bis 886.
