@@ -37742,3 +37742,498 @@ Darum wird er für immer mein Knecht sein.“
 > Die Bibel erzählt das ohne Lob. Sie verschweigt nicht, dass auch David, der „Mann nach dem Herzen Gottes“, grausam und unehrlich handeln konnte. David ist ein großer Glaubensheld, aber kein fehlerloser Mensch.
 > Wir lesen diesen Text als ehrlichen Bericht über eine gewalttätige Zeit, nicht als Vorbild. Kein Mensch darf sich darauf berufen, um Gewalt oder Lügen zu rechtfertigen.
 > Achisch fällt auf die Lüge herein. Er denkt: Jetzt hasst Israel ihn, er kann nie mehr zurück. Er gehört mir. Aber David bleibt in seinem Herzen bei seinem Volk.
+
+## 1. Samuel – Kapitel 28
+#### Saul bei der Totenbeschwörerin in En-Dor
+
+---
+
+### David in einer schwierigen Lage (Vers 1–2)
+
+<sup>1</sup>In jenen Tagen sammelten die Philister ihre Heere zum Krieg,
+um gegen Israel zu kämpfen.
+Achisch sagte zu David:
+„Du sollst sicher wissen, dass du mit mir ins Heer ausziehen wirst,
+du und deine Männer.“
+<sup>2</sup>David sagte zu Achisch:
+„Darum wirst du erfahren, was dein Knecht tun kann.“
+Achisch sagte zu David:
+„Darum mache ich dich für immer zu meinem Leibwächter.“
+
+> **Was bedeutet das?**
+> Jetzt rächt sich Davids Doppelspiel. Achisch verlangt, dass David mit den Philistern gegen Israel kämpft, gegen sein eigenes Volk.
+> Davids Antwort ist absichtlich doppeldeutig: „Du wirst erfahren, was ich tun kann.“ Achisch versteht: Er wird gut für mich kämpfen. Aber David lässt offen, auf welcher Seite.
+> Wie es weitergeht, erzählt Kapitel 29.
+
+---
+
+### Gott antwortet Saul nicht mehr (Vers 3–7)
+
+<sup>3</sup>Samuel war gestorben,
+und ganz Israel hatte um ihn getrauert und ihn in Rama begraben, in seiner Stadt.
+Und Saul hatte die Totenbeschwörer und die Wahrsager aus dem Land vertrieben.
+<sup>4</sup>Die Philister versammelten sich, kamen und lagerten in Schunem.
+Und Saul versammelte ganz Israel, und sie lagerten auf dem Gilboa.
+<sup>5</sup>Als Saul das Heer der Philister sah, bekam er Angst,
+und sein Herz zitterte sehr.
+<sup>6</sup>Saul befragte den HERRN.
+Aber der HERR antwortete ihm nicht,
+weder durch Träume noch durch die Urim noch durch Propheten.
+<sup>7</sup>Da sagte Saul zu seinen Dienern:
+„Sucht mir eine Frau, die einen Totengeist hat.
+Dann will ich zu ihr gehen und sie befragen.“
+Seine Diener sagten zu ihm:
+„Schau, in En-Dor gibt es eine Frau, die einen Totengeist hat.“
+
+> **Was bedeutet das?**
+> Der Erzähler erinnert uns: Samuel ist tot. Und Saul hatte selbst die Totenbeschwörer aus dem Land vertrieben, wie es Gottes Gesetz verlangte (3. Mose 19,31; 5. Mose 18,10–12).
+> Die Philister lagern in Schunem, in der fruchtbaren Ebene Jesreel im Norden. Saul lagert gegenüber auf dem Gebirge Gilboa.
+> Saul bekommt Angst, große Angst. Er fragt Gott, aber Gott schweigt. Keine Träume, keine Antwort durch die heiligen Lose (Urim), keine Propheten. Saul hatte die Priester töten lassen (Kapitel 22) und auf die Propheten nicht gehört.
+> In seiner Verzweiflung tut Saul genau das, was er selbst verboten hatte. Er sucht eine Totenbeschwörerin. Das zeigt, wie tief er gefallen ist.
+> „Eine Frau, die einen Totengeist hat“ meint: eine Frau, die behauptet, mit Toten sprechen zu können.
+
+---
+
+### Saul geht verkleidet nach En-Dor (Vers 8–14)
+
+<sup>8</sup>Saul verkleidete sich und zog andere Kleider an.
+Er ging hin, er und zwei Männer mit ihm,
+und sie kamen in der Nacht zu der Frau.
+Er sagte:
+„Befrage doch für mich den Totengeist
+und lass mir den heraufkommen, den ich dir nenne.“
+<sup>9</sup>Die Frau sagte zu ihm:
+„Schau, du weißt doch, was Saul getan hat,
+wie er die Totenbeschwörer und die Wahrsager aus dem Land ausgerottet hat.
+Warum legst du mir eine Falle, um mich zu töten?“
+<sup>10</sup>Saul schwor ihr beim HERRN und sagte:
+„So wahr der HERR lebt:
+Dir soll wegen dieser Sache keine Strafe treffen.“
+<sup>11</sup>Da sagte die Frau:
+„Wen soll ich dir heraufkommen lassen?“
+Er sagte:
+„Lass mir Samuel heraufkommen.“
+<sup>12</sup>Als die Frau Samuel sah, schrie sie laut auf.
+Und die Frau sagte zu Saul:
+„Warum hast du mich betrogen?
+Du bist ja Saul!“
+<sup>13</sup>Der König sagte zu ihr:
+„Fürchte dich nicht!
+Was siehst du?“
+Die Frau sagte zu Saul:
+„Ich sehe einen Gott aus der Erde heraufkommen.“
+<sup>14</sup>Er sagte zu ihr:
+„Wie sieht er aus?“
+Sie sagte:
+„Ein alter Mann kommt herauf.
+Er ist in einen Mantel gehüllt.“
+Da erkannte Saul, dass es Samuel war.
+Er verneigte sich mit dem Gesicht zur Erde und erwies ihm Ehre.
+
+> **Was bedeutet das?**
+> En-Dor lag nördlich vom Lager der Philister. Saul muss in der Nacht nah am feindlichen Lager vorbei. Er verkleidet sich, damit niemand ihn erkennt.
+> Es ist bitter: Saul schwört beim HERRN, um etwas zu tun, was der HERR verboten hat.
+> Die Frau schreit auf, als Samuel erscheint. Vielleicht hat sie selbst nicht erwartet, dass wirklich jemand kommt. Und plötzlich erkennt sie Saul.
+> „Ein Gott“ meint hier: ein geisterhaftes, übermenschliches Wesen.
+> Der Mantel war Samuels Kennzeichen. Erinnern wir uns: Saul hatte einmal Samuels Mantel zerrissen (Kapitel 15,27).
+> War das wirklich Samuel? Juden und Christen haben darüber viel nachgedacht. Viele sagen: Ja, Gott selbst hat in diesem einen Fall Samuel geschickt, um Saul sein Urteil zu sagen. Darum ist auch die Frau so erschrocken. Andere sagen: Es war eine Täuschung. Die Bibel erzählt es so, als wäre es Samuel. Im Buch Jesus Sirach steht, dass Samuel auch nach seinem Tod noch prophezeite (Sirach 46,20).
+> Klar ist: Die Bibel verbietet Totenbeschwörung (5. Mose 18,10–12). Diese Geschichte ist keine Erlaubnis, sondern zeigt, wohin Verzweiflung ohne Gott führt. Die Bibel gibt aber auch niemandem das Recht, Menschen als „Hexen“ zu beschuldigen oder zu verfolgen.
+
+---
+
+### Samuels letzte Botschaft (Vers 15–19)
+
+<sup>15</sup>Samuel sagte zu Saul:
+„Warum hast du mich gestört und mich heraufkommen lassen?“
+Saul antwortete:
+„Ich bin in großer Not.
+Denn die Philister kämpfen gegen mich,
+und Gott ist von mir gewichen
+und antwortet mir nicht mehr, weder durch Propheten noch durch Träume.
+Darum habe ich dich gerufen,
+damit du mir sagst, was ich tun soll.“
+<sup>16</sup>Samuel sagte:
+„Warum fragst du dann mich,
+wenn der HERR von dir gewichen und dein Gegner geworden ist?
+<sup>17</sup>Der HERR hat an dir getan, wie er durch mich gesagt hat.
+Der HERR hat das Königtum aus deiner Hand gerissen
+und es deinem Nächsten gegeben, David.
+<sup>18</sup>Weil du nicht auf die Stimme des HERRN gehört
+und seinen glühenden Zorn an Amalek nicht vollstreckt hast,
+darum hat der HERR dir heute das angetan.
+<sup>19</sup>Und der HERR wird auch Israel mit dir in die Hand der Philister geben.
+Morgen wirst du mit deinen Söhnen bei mir sein.
+Auch das Heer Israels wird der HERR in die Hand der Philister geben.“
+
+> **Was bedeutet das?**
+> Saul hofft auf einen Rat. Aber Samuel sagt nichts Neues. Er wiederholt nur, was er schon zu Lebzeiten gesagt hatte (Kapitel 15). Wer nicht auf Gott hört, solange er lebt, findet auch bei den Toten keine andere Antwort.
+> Zum ersten Mal wird klar ausgesprochen, wer der „Nächste“ ist, dem Gott das Königtum gibt: David.
+> „Morgen wirst du bei mir sein“ heißt: Morgen wirst du tot sein, du und deine Söhne. Damals stellte man sich vor, dass alle Toten an einem Ort sind, im Totenreich.
+> Es ist eine erschütternde Botschaft. Saul erfährt am Abend vor der Schlacht, dass er sterben wird.
+
+---
+
+### Die Frau sorgt für Saul (Vers 20–25)
+
+<sup>20</sup>Da fiel Saul sofort der Länge nach auf die Erde.
+Er war voller Angst wegen der Worte Samuels.
+Und er hatte keine Kraft mehr,
+denn er hatte den ganzen Tag und die ganze Nacht kein Brot gegessen.
+<sup>21</sup>Die Frau kam zu Saul und sah, dass er sehr erschrocken war.
+Sie sagte zu ihm:
+„Schau, deine Dienerin hat auf deine Stimme gehört.
+Ich habe mein Leben aufs Spiel gesetzt
+und habe auf die Worte gehört, die du zu mir gesagt hast.
+<sup>22</sup>Darum hör jetzt bitte auch auf die Stimme deiner Dienerin.
+Lass mich dir einen Bissen Brot vorsetzen.
+Iss, damit du Kraft hast, wenn du deinen Weg gehst.“
+<sup>23</sup>Aber er weigerte sich und sagte:
+„Ich will nicht essen.“
+Aber seine Diener und auch die Frau drängten ihn.
+Da hörte er auf ihre Stimme.
+Er stand von der Erde auf und setzte sich auf das Bett.
+<sup>24</sup>Die Frau hatte ein gemästetes Kalb im Haus.
+Sie beeilte sich und schlachtete es.
+Sie nahm Mehl, knetete es und backte ungesäuertes Brot daraus.
+<sup>25</sup>Sie brachte es Saul und seinen Dienern, und sie aßen.
+Dann standen sie auf und gingen in dieser Nacht weg.
+
+> **Was bedeutet das?**
+> Saul bricht zusammen. Der große König liegt am Boden, schwach vor Hunger und Angst.
+> Die Frau, die er eigentlich hätte verfolgen müssen, hat Mitleid mit ihm. Sie schlachtet ihr einziges Mastkalb, ein großes Opfer für eine arme Frau. Sie gibt ihm eine letzte Mahlzeit.
+> Das ist ein überraschend menschlicher Moment. Ausgerechnet diese Frau zeigt Saul in seiner letzten Nacht Freundlichkeit.
+> Dann gehen sie in die Nacht hinaus. Die Nacht passt zu Sauls Lage: Er geht in die Dunkelheit, seinem Tod entgegen.
+
+## 1. Samuel – Kapitel 29
+#### Die Philister schicken David zurück
+
+---
+
+### Die Fürsten trauen David nicht (Vers 1–5)
+
+<sup>1</sup>Die Philister sammelten alle ihre Heere in Afek.
+Und die Israeliten lagerten an der Quelle, die in Jesreel ist.
+<sup>2</sup>Die Fürsten der Philister zogen vorbei, in Hundertschaften und Tausendschaften.
+Und David und seine Männer zogen mit Achisch am Schluss vorbei.
+<sup>3</sup>Da sagten die Anführer der Philister:
+„Was sollen diese Hebräer hier?“
+Achisch sagte zu den Anführern der Philister:
+„Ist das nicht David, der Knecht Sauls, des Königs von Israel?
+Er ist jetzt schon Tage, ja Jahre bei mir.
+Ich habe an ihm keinen Fehler gefunden,
+seit er zu mir übergelaufen ist, bis heute.“
+<sup>4</sup>Aber die Anführer der Philister wurden zornig über ihn.
+Die Anführer der Philister sagten zu ihm:
+„Schick den Mann zurück.
+Er soll an seinen Ort zurückgehen, den du ihm zugewiesen hast.
+Er soll nicht mit uns in den Kampf hinabziehen,
+damit er sich im Kampf nicht gegen uns wendet.
+Denn womit könnte dieser Kerl sich besser bei seinem Herrn wieder beliebt machen
+als mit den Köpfen dieser Männer?
+<sup>5</sup>Ist das nicht David, über den sie beim Reigentanz gesungen haben:
+‚Saul hat seine Tausende erschlagen,
+und David seine Zehntausende‘?“
+
+> **Was bedeutet das?**
+> Der Erzähler springt hier etwas zurück: Die Philister versammeln sich erst in Afek, bevor sie nach Norden nach Schunem ziehen (Kapitel 28,4).
+> Die anderen Fürsten der Philister sind misstrauischer als Achisch. Sie sagen: Im Kampf könnte David die Seite wechseln und uns in den Rücken fallen. Damit könnte er sich bei Saul wieder versöhnen.
+> Wieder wird das berühmte Lied zitiert. Davids Ruhm verfolgt ihn sogar bei den Feinden.
+
+---
+
+### Achisch schickt David weg (Vers 6–11)
+
+<sup>6</sup>Da rief Achisch David und sagte zu ihm:
+„So wahr der HERR lebt:
+Du bist aufrichtig,
+und dein Aus- und Einziehen mit mir im Heer ist gut in meinen Augen.
+Denn ich habe an dir nichts Böses gefunden,
+seit dem Tag, an dem du zu mir gekommen bist, bis heute.
+Aber die Fürsten sind dir nicht gewogen.
+<sup>7</sup>Darum kehr jetzt um und geh in Frieden,
+damit du nichts tust, was den Fürsten der Philister missfällt.“
+<sup>8</sup>David sagte zu Achisch:
+„Aber was habe ich getan?
+Was hast du an deinem Knecht gefunden, seit ich bei dir bin bis heute,
+dass ich nicht mitgehen und gegen die Feinde meines Herrn und Königs kämpfen darf?“
+<sup>9</sup>Achisch antwortete David:
+„Ich weiß, dass du gut bist in meinen Augen, wie ein Engel Gottes.
+Aber die Anführer der Philister haben gesagt:
+‚Er soll nicht mit uns in den Kampf hinaufziehen.‘
+<sup>10</sup>Darum steh morgen früh auf, mit den Knechten deines Herrn, die mit dir gekommen sind.
+Sobald ihr morgens früh aufgestanden seid und es hell ist, zieht weg.“
+<sup>11</sup>Da stand David früh auf, er und seine Männer,
+um am Morgen wegzuziehen und in das Land der Philister zurückzukehren.
+Und die Philister zogen hinauf nach Jesreel.
+
+> **Was bedeutet das?**
+> Achisch, ein Philister, schwört beim HERRN, dem Gott Israels. Vielleicht will er David damit besonders überzeugen.
+> David tut so, als wäre er enttäuscht. „Gegen die Feinde meines Herrn und Königs“ ist wieder doppeldeutig: Meint er Achisch als seinen Herrn, oder Saul? Wir erfahren nicht, was David wirklich getan hätte.
+> Gott hat David auf diese Weise aus einer unmöglichen Lage befreit. Er musste nicht gegen sein eigenes Volk kämpfen. Und er ist nicht beteiligt, als Saul und Jonatan sterben.
+
+## 1. Samuel – Kapitel 30
+#### David holt alles zurück
+
+---
+
+### Ziklag ist verbrannt (Vers 1–6)
+
+<sup>1</sup>Als David und seine Männer am dritten Tag nach Ziklag kamen,
+hatten die Amalekiter einen Überfall auf den Süden und auf Ziklag gemacht.
+Sie hatten Ziklag geschlagen und mit Feuer verbrannt.
+<sup>2</sup>Und sie hatten die Frauen gefangen genommen und alle, die darin waren, Klein und Groß.
+Sie hatten niemanden getötet,
+sondern sie weggeführt und waren ihres Weges gegangen.
+<sup>3</sup>Als David und seine Männer zur Stadt kamen,
+schau, da war sie mit Feuer verbrannt.
+Und ihre Frauen, ihre Söhne und ihre Töchter waren gefangen weggeführt.
+<sup>4</sup>Da erhoben David und das Volk, das bei ihm war, ihre Stimme und weinten,
+bis sie keine Kraft mehr zum Weinen hatten.
+<sup>5</sup>Auch Davids zwei Frauen waren gefangen weggeführt worden,
+Ahinoam aus Jesreel und Abigajil, die Frau Nabals aus Karmel.
+<sup>6</sup>David war in großer Not.
+Denn das Volk redete davon, ihn zu steinigen,
+weil alle im Volk verbittert waren, jeder wegen seiner Söhne und Töchter.
+Aber David stärkte sich im HERRN, seinem Gott.
+
+> **Was bedeutet das?**
+> David war drei Tage unterwegs. In dieser Zeit haben die Amalekiter seine Stadt überfallen. Das ist bittere Ironie: David hatte selbst die Amalekiter überfallen (Kapitel 27,8). Jetzt rächen sie sich.
+> Aber anders als David haben die Amalekiter niemanden getötet. Sie haben die Menschen als Sklaven mitgenommen.
+> Davids Männer weinen, bis sie nicht mehr können. Dann schlägt ihre Trauer in Wut um. Sie wollen David steinigen. Das ist der tiefste Punkt in Davids Leben bisher.
+> Und genau da steht der wichtige Satz: „Aber David stärkte sich im HERRN, seinem Gott.“ Als alle gegen ihn sind und alles verloren scheint, wendet sich David an Gott. Er findet seine Kraft nicht in sich selbst, sondern bei Gott.
+
+---
+
+### David fragt Gott und verfolgt die Räuber (Vers 7–10)
+
+<sup>7</sup>David sagte zu Abjatar, dem Priester, dem Sohn von Ahimelech:
+„Bring mir doch das Efod her.“
+Und Abjatar brachte David das Efod.
+<sup>8</sup>David befragte den HERRN und sagte:
+„Wenn ich dieser Räuberschar nachjage, werde ich sie einholen?“
+Er antwortete ihm:
+„Jage ihnen nach.
+Denn du wirst sie ganz sicher einholen
+und ganz sicher alles retten.“
+<sup>9</sup>Da zog David los, er und die 600 Männer, die bei ihm waren.
+Sie kamen an den Bach Besor,
+wo die, die zurückblieben, stehen blieben.
+<sup>10</sup>Aber David jagte weiter, er und 400 Männer.
+200 Männer blieben zurück,
+weil sie zu erschöpft waren, um über den Bach Besor zu gehen.
+
+> **Was bedeutet das?**
+> In Kapitel 27 hatte David nicht gefragt, bevor er zu den Philistern ging. Jetzt fragt er wieder Gott. Er ist zurück auf dem richtigen Weg.
+> Gott antwortet nicht nur mit Ja, sondern mit einem Versprechen: Du wirst alles zurückbekommen.
+> Die Männer sind erschöpft. Sie waren drei Tage von Afek nach Ziklag unterwegs und jagen jetzt gleich weiter. 200 können nicht mehr.
+
+---
+
+### Der Ägypter (Vers 11–15)
+
+<sup>11</sup>Sie fanden einen Ägypter auf dem Feld
+und brachten ihn zu David.
+Sie gaben ihm Brot, und er aß.
+Und sie gaben ihm Wasser zu trinken.
+<sup>12</sup>Sie gaben ihm ein Stück Feigenkuchen und zwei Büschel Rosinen.
+Als er gegessen hatte, kam sein Lebensgeist zurück.
+Denn er hatte drei Tage und drei Nächte kein Brot gegessen und kein Wasser getrunken.
+<sup>13</sup>David fragte ihn:
+„Zu wem gehörst du? Und woher kommst du?“
+Er sagte:
+„Ich bin ein junger Mann aus Ägypten, der Knecht eines Amalekiters.
+Mein Herr hat mich zurückgelassen, weil ich vor drei Tagen krank wurde.
+<sup>14</sup>Wir haben einen Überfall gemacht auf den Süden der Kreter,
+auf das, was zu Juda gehört,
+und auf den Süden von Kaleb.
+Und Ziklag haben wir mit Feuer verbrannt.“
+<sup>15</sup>David sagte zu ihm:
+„Willst du mich zu dieser Räuberschar hinabführen?“
+Er sagte:
+„Schwöre mir bei Gott, dass du mich nicht tötest
+und mich nicht in die Hand meines Herrn auslieferst.
+Dann will ich dich zu dieser Räuberschar hinabführen.“
+
+> **Was bedeutet das?**
+> Ein kranker Sklave wird von seinem Herrn einfach in der Wüste zurückgelassen, zum Sterben. Davids Männer finden ihn und geben ihm zu essen und zu trinken, obwohl sie es eilig haben.
+> Diese Freundlichkeit wird belohnt: Der Ägypter führt sie zu den Räubern. So zeigt die Geschichte: Wer einem Schwachen hilft, dem wird oft selbst geholfen.
+> Die „Kreter“ waren eine Gruppe, die mit den Philistern verwandt war und im Süden wohnte. Später gehörten Kreter zu Davids Leibwache (2. Samuel 8,18).
+
+---
+
+### Der Sieg über die Amalekiter (Vers 16–20)
+
+<sup>16</sup>Als er ihn hinabgeführt hatte,
+schau, da waren sie über das ganze Land verstreut.
+Sie aßen, tranken und tanzten
+wegen der großen Beute, die sie aus dem Land der Philister und aus dem Land Juda geholt hatten.
+<sup>17</sup>David schlug sie von der Dämmerung an bis zum Abend des nächsten Tages.
+Keiner von ihnen entkam,
+außer 400 jungen Männern, die auf Kamele stiegen und flohen.
+<sup>18</sup>David rettete alles, was die Amalekiter genommen hatten.
+Und David rettete auch seine zwei Frauen.
+<sup>19</sup>Es fehlte ihnen nichts, weder Klein noch Groß,
+weder Söhne noch Töchter, noch irgendetwas von der Beute,
+nichts von allem, was sie ihnen genommen hatten.
+David brachte alles zurück.
+<sup>20</sup>David nahm auch alle Schafe und Rinder.
+Die trieb man vor dem anderen Vieh her und sagte:
+„Das ist Davids Beute.“
+
+> **Was bedeutet das?**
+> Die Amalekiter fühlen sich sicher und feiern. So werden sie überrascht.
+> Gottes Versprechen erfüllt sich ganz genau: Es fehlte nichts. Alle Frauen und Kinder kommen zurück. David bekommt sogar noch mehr, als er verloren hatte.
+
+---
+
+### Gleiches Recht für alle (Vers 21–25)
+
+<sup>21</sup>David kam zu den 200 Männern,
+die zu erschöpft gewesen waren, um David zu folgen,
+und die man am Bach Besor hatte bleiben lassen.
+Sie gingen hinaus, David und dem Volk bei ihm entgegen.
+Als David zum Volk kam, grüßte er sie.
+<sup>22</sup>Da sagten alle bösen und nichtsnutzigen Männer unter denen, die mit David gezogen waren:
+„Weil sie nicht mit uns gegangen sind,
+geben wir ihnen nichts von der Beute, die wir gerettet haben.
+Nur jeder soll seine Frau und seine Kinder bekommen
+und mit ihnen weggehen.“
+<sup>23</sup>Da sagte David:
+„Macht das nicht so, meine Brüder,
+mit dem, was der HERR uns gegeben hat.
+Er hat uns bewahrt
+und die Räuberschar, die gegen uns kam, in unsere Hand gegeben.
+<sup>24</sup>Wer wird in dieser Sache auf euch hören?
+Denn wie der Anteil dessen ist, der in den Kampf hinabzieht,
+so soll der Anteil dessen sein, der beim Gepäck bleibt.
+Sie sollen gleich teilen.“
+<sup>25</sup>So geschah es von diesem Tag an:
+Er machte es zu einer festen Ordnung und einem Recht für Israel, bis heute.
+
+> **Was bedeutet das?**
+> Einige Männer wollen die Erschöpften leer ausgehen lassen. Aber David sagt: Nein. Der Sieg kommt von Gott, nicht von uns. Darum gehört die Beute allen.
+> David macht daraus ein Gesetz: Wer kämpft und wer zurückbleibt, um das Gepäck zu bewachen, bekommt gleich viel. Auch die Schwachen gehören dazu.
+> Das ist ein Grundsatz von Gerechtigkeit und Solidarität: Jeder trägt bei, was er kann, und alle teilen. Niemand soll benachteiligt werden, weil er nicht so stark ist.
+
+---
+
+### Geschenke an die Ältesten von Juda (Vers 26–31)
+
+<sup>26</sup>Als David nach Ziklag kam,
+schickte er einen Teil der Beute an die Ältesten von Juda, an seine Freunde, und sagte:
+„Schaut, hier ist ein Geschenk für euch aus der Beute der Feinde des HERRN.“
+<sup>27</sup>Er schickte es an die in Bethel,
+an die in Ramot im Süden,
+an die in Jattir,
+<sup>28</sup>an die in Aroër,
+an die in Sifmot,
+an die in Eschtemoa,
+<sup>29</sup>an die in Rachal,
+an die in den Städten der Jerachmeeliter,
+an die in den Städten der Keniter,
+<sup>30</sup>an die in Horma,
+an die in Bor-Aschan,
+an die in Atach,
+<sup>31</sup>an die in Hebron
+und an alle Orte, an denen David mit seinen Männern umhergezogen war.
+
+> **Was bedeutet das?**
+> David teilt seine Beute mit den Städten in Juda, die ihm auf der Flucht geholfen hatten. Das ist Dankbarkeit. Und es ist auch klug: So gewinnt er die Herzen der Ältesten von Juda.
+> „Bethel“ ist hier wohl ein Ort im Süden, nicht das bekannte Bethel nördlich von Jerusalem. Einige Handschriften der alten griechischen Übersetzung haben hier „Bet-Zur“.
+> Die letzte Stadt in der Liste ist Hebron. Dort wird David bald zum König über Juda gesalbt (2. Samuel 2,4).
+
+## 1. Samuel – Kapitel 31
+#### Der Tod von Saul und Jonatan
+
+---
+
+### Die Schlacht am Gilboa (Vers 1–6)
+
+<sup>1</sup>Die Philister kämpften gegen Israel.
+Die Männer Israels flohen vor den Philistern
+und fielen erschlagen auf dem Gebirge Gilboa.
+<sup>2</sup>Die Philister holten Saul und seine Söhne ein.
+Und die Philister töteten Jonatan, Abinadab und Malkischua, die Söhne Sauls.
+<sup>3</sup>Der Kampf wurde schwer gegen Saul.
+Die Bogenschützen holten ihn ein,
+und er geriet wegen der Bogenschützen in große Not.
+<sup>4</sup>Da sagte Saul zu seinem Waffenträger:
+„Zieh dein Schwert und durchbohre mich damit,
+damit nicht diese Unbeschnittenen kommen,
+mich durchbohren und ihr Spiel mit mir treiben!“
+Aber sein Waffenträger wollte nicht, denn er hatte große Angst.
+Da nahm Saul das Schwert und stürzte sich hinein.
+<sup>5</sup>Als sein Waffenträger sah, dass Saul tot war,
+stürzte auch er sich in sein Schwert und starb mit ihm.
+<sup>6</sup>So starben Saul, seine drei Söhne, sein Waffenträger
+und auch alle seine Männer an demselben Tag zusammen.
+
+> **Was bedeutet das?**
+> Was Samuel in En-Dor angekündigt hatte, geschieht: Israel wird geschlagen, und Saul stirbt mit seinen Söhnen.
+> Auch Jonatan stirbt, Davids treuer Freund. Er war ein guter Mann, aber er bleibt bis zum Ende an der Seite seines Vaters. Er stirbt nicht für eigene Schuld.
+> Saul ist schwer verwundet. Er hat Angst, dass die Philister ihn lebend fangen, quälen und verspotten, so wie sie es mit Simson getan hatten (Richter 16). Darum bittet er seinen Waffenträger, ihn zu töten. Als der sich weigert, nimmt Saul sich selbst das Leben.
+> Die Bibel erzählt das ohne Kommentar, ehrlich und traurig. Sie verurteilt Saul hier nicht, und sie lobt es auch nicht. Es ist das Ende eines Mannes, der Gott verloren hatte und nur noch Angst kannte.
+> In 2. Samuel 1 erzählt ein Amalekiter eine andere Version von Sauls Tod. Was davon wahr ist, werden wir dort lesen.
+> Ein wichtiger Hinweis: Wenn du selbst in großer Not bist oder daran denkst, dir das Leben zu nehmen, dann bist du nicht allein. Bitte sprich mit jemandem. In Deutschland kannst du Tag und Nacht kostenlos die Telefonseelsorge anrufen: 0800 111 0 111 oder 0800 111 0 222. Im Notfall wähle 112.
+
+---
+
+### Die Philister schänden Sauls Leichnam (Vers 7–10)
+
+<sup>7</sup>Die Männer Israels auf der anderen Seite des Tals und jenseits des Jordan
+sahen, dass die Männer Israels geflohen und dass Saul und seine Söhne tot waren.
+Da verließen sie die Städte und flohen.
+Und die Philister kamen und wohnten darin.
+<sup>8</sup>Am nächsten Tag kamen die Philister, um die Erschlagenen auszuplündern.
+Da fanden sie Saul und seine drei Söhne, gefallen auf dem Gebirge Gilboa.
+<sup>9</sup>Sie schlugen ihm den Kopf ab
+und zogen ihm seine Rüstung aus.
+Und sie schickten Boten ringsum ins Land der Philister,
+um die Nachricht in den Häusern ihrer Götzen und dem Volk zu verkünden.
+<sup>10</sup>Seine Rüstung legten sie in das Haus der Astarten.
+Und seinen Leichnam hängten sie an die Mauer von Bet-Schean.
+
+> **Was bedeutet das?**
+> Die Niederlage ist vollständig. Die Philister erobern viele Städte im Norden Israels. Das Land ist jetzt schwächer als zu Beginn von Sauls Herrschaft.
+> Die Philister schlagen Saul den Kopf ab, so wie David einst Goliat den Kopf abgeschlagen hatte.
+> Sie feiern den Sieg in den Tempeln ihrer Götter. Für sie ist es ein Sieg ihrer Götter über den Gott Israels.
+> Bet-Schean war eine Stadt in der Jordanebene. Den Leichnam an die Mauer zu hängen war eine große Schande. Die Toten sollten nicht einmal ein Grab bekommen.
+
+---
+
+### Die Treue der Männer von Jabesch (Vers 11–13)
+
+<sup>11</sup>Als die Bewohner von Jabesch in Gilead hörten,
+was die Philister mit Saul gemacht hatten,
+<sup>12</sup>machten sich alle tapferen Männer auf.
+Sie gingen die ganze Nacht
+und holten den Leichnam Sauls und die Leichname seiner Söhne von der Mauer von Bet-Schean.
+Sie kamen nach Jabesch und verbrannten sie dort.
+<sup>13</sup>Sie nahmen ihre Gebeine
+und begruben sie unter der Tamariske in Jabesch.
+Und sie fasteten sieben Tage.
+
+> **Was bedeutet das?**
+> Das Buch endet mit einem Zeichen der Treue. Die Männer von Jabesch erinnern sich: Saul hatte sie gerettet, als Nahasch ihnen die Augen ausstechen wollte. Das war Sauls erste große Tat als König (Kapitel 11).
+> Jetzt, viele Jahre später, setzen sie ihr Leben aufs Spiel. Sie marschieren die ganze Nacht, holen die Toten von der Mauer und begraben sie ehrenvoll.
+> Normalerweise verbrannte man in Israel keine Toten. Vielleicht taten sie es, weil die Leichname schon geschändet waren. Die Gebeine aber begruben sie.
+> Sieben Tage Fasten war ein Zeichen großer Trauer.
+> So endet die Geschichte von Saul nicht nur mit Schande, sondern auch mit Dankbarkeit. Das Gute, das er einmal getan hat, wurde nicht vergessen.
+
+---
+
+### Rückblick: Was haben wir im 1. Buch Samuel gelesen?
+
+> **Was bedeutet das?**
+> Das 1. Buch Samuel erzählt, wie Israel von der Zeit der Richter zur Zeit der Könige kommt. Drei Menschen stehen im Mittelpunkt:
+> 1. Samuel (Kapitel 1–7): Er ist das Kind, um das Hanna gebetet hat. Er hört als Junge Gottes Stimme: „Rede, HERR, denn dein Diener hört.“ Er wird Prophet und der letzte Richter. Er führt das Volk zur Umkehr. Unter ihm hilft Gott Israel: „Bis hierher hat der HERR geholfen.“
+> 2. Saul (Kapitel 8–15): Das Volk will einen König „wie alle Völker“. Gott gibt ihnen Saul, groß und schön. Er beginnt bescheiden und mutig. Aber er hat keine Geduld, auf Gott zu warten, und er gehorcht nur halb. Samuel sagt ihm: „Gehorchen ist besser als Opfer.“ Gott verwirft Saul als König.
+> 3. David (Kapitel 16–31): Gott wählt den jüngsten Sohn Isais, einen Hirten: „Der Mensch sieht, was vor Augen ist, aber der HERR sieht das Herz an.“ David besiegt Goliat im Namen des HERRN. Jonatan wird sein treuer Freund. Saul wird eifersüchtig und jagt David jahrelang. Zweimal könnte David Saul töten, aber er tut es nicht. Er wartet, bis Gott selbst handelt.
+> Das Buch zeigt auch ehrlich die dunklen Seiten: die bösen Söhne Elis, Sauls Hass und seine Gewalt gegen die Priester in Nob, aber auch Davids Lügen und seine grausamen Überfälle. Die Bibel beschönigt nichts. Sie ist kein Heldenbuch, sondern ein ehrliches Buch über Menschen und Gott.
+> Wichtige Botschaften des Buches:
+> Gott hört Gebete, wie das Gebet von Hanna.
+> Gott sieht auf das Herz, nicht auf das Äußere.
+> Gott will Gehorsam und Vertrauen, nicht nur fromme Rituale.
+> Echte Freundschaft ist treu und frei von Neid, wie bei Jonatan.
+> Rache gehört Gott. David verschont seinen Feind und überlässt Gott das Urteil.
+> Am Ende ist Saul tot. Der Weg für David ist frei. Das 2. Buch Samuel erzählt, wie David König wird.
