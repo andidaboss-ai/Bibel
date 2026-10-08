@@ -52062,3 +52062,366 @@ und verachtete ihn in ihrem Herzen.
 > David trägt Kleidung wie ein Levit, aus einfachem Leinen, nicht seine Königskleider. Ein Efod war ein schurzartiges Gewand für den Dienst vor Gott.
 > David tanzt vor Freude. Michal, Sauls Tochter und Davids Frau, findet das unwürdig für einen König. Mehr über diesen Streit steht in 2. Samuel 6,20–23.
 > Michal steht für die Haltung Sauls: kein Herz für Gott und seine Lade. David dagegen freut sich mit ganzem Herzen. Echte Freude an Gott darf man zeigen, auch wenn andere es seltsam finden.
+
+## 1. Chronik – Kapitel 16
+#### Davids Danklied
+
+---
+
+### Die Lade ist angekommen (Vers 1–7)
+
+<sup>1</sup>Sie brachten die Lade Gottes hinein
+und stellten sie mitten in das Zelt, das David für sie aufgeschlagen hatte.
+Und sie brachten Brandopfer und Friedensopfer vor Gott dar.
+<sup>2</sup>Als David das Brandopfer und die Friedensopfer dargebracht hatte,
+segnete er das Volk im Namen des HERRN.
+<sup>3</sup>Er gab jedem in Israel, Männern und Frauen,
+jedem ein Brot, ein Stück Fleisch und einen Rosinenkuchen.
+<sup>4</sup>Er setzte einige von den Leviten ein,
+um vor der Lade des HERRN zu dienen
+und den HERRN, den Gott Israels, zu preisen, ihm zu danken und ihn zu loben:
+<sup>5</sup>Asaf als Oberhaupt,
+und nach ihm Secharja,
+dann Jeïël, Schemiramot, Jehiël, Mattitja, Eliab, Benaja, Obed-Edom und Jeïël,
+mit Zithern und Harfen.
+Und Asaf mit Zimbeln, laut erklingend.
+<sup>6</sup>Dazu Benaja und Jahasiël, die Priester, mit Trompeten,
+ständig vor der Lade des Bundes Gottes.
+<sup>7</sup>An diesem Tag ordnete David zum ersten Mal an,
+dass Asaf und seine Brüder den HERRN mit Dank preisen sollten:
+
+> **Was bedeutet das?**
+> Endlich ist die Lade in Jerusalem. David segnet das Volk, und alle bekommen etwas zu essen, Männer und Frauen gleich. Das Fest ist für alle.
+> David setzt Sänger ein, die ständig vor der Lade singen und Gott loben. Lob und Dank sollen nicht nur an Festtagen, sondern jeden Tag geschehen.
+> „Rosinenkuchen“: In der englischen Vorlage steht „cake of raisins“. Das hebräische Wort ist nicht ganz sicher.
+
+---
+
+### Das Danklied: Erzählt von Gottes Taten (Vers 8–22)
+
+<sup>8</sup>Dankt dem HERRN!
+Ruft seinen Namen an!
+Macht unter den Völkern bekannt, was er getan hat.
+<sup>9</sup>Singt ihm, spielt ihm,
+erzählt von allen seinen Wundern.
+<sup>10</sup>Rühmt euch seines heiligen Namens.
+Das Herz derer, die den HERRN suchen, soll sich freuen.
+<sup>11</sup>Fragt nach dem HERRN und nach seiner Stärke.
+Sucht sein Angesicht immer.
+<sup>12</sup>Denkt an seine Wunder, die er getan hat,
+an seine Zeichen und an die Urteile seines Mundes,
+<sup>13</sup>ihr Nachkommen Israels, seines Knechtes,
+ihr Kinder Jakobs, seine Erwählten.
+<sup>14</sup>Er ist der HERR, unser Gott.
+Seine Urteile gelten auf der ganzen Erde.
+<sup>15</sup>Denkt für immer an seinen Bund,
+an das Wort, das er geboten hat für tausend Generationen,
+<sup>16</sup>an den Bund, den er mit Abraham geschlossen hat,
+und an seinen Eid an Isaak.
+<sup>17</sup>Er hat ihn für Jakob als Ordnung bestätigt,
+für Israel als ewigen Bund,
+<sup>18</sup>und gesagt:
+„Dir will ich das Land Kanaan geben
+als euer Erbteil.“
+<sup>19</sup>Damals wart ihr nur wenige Menschen,
+ja, ganz wenige, und Fremde im Land.
+<sup>20</sup>Sie zogen von Volk zu Volk,
+von einem Königreich zum anderen.
+<sup>21</sup>Er ließ niemanden zu, der ihnen Unrecht tat.
+Ja, er wies Könige ihretwegen zurecht:
+<sup>22</sup>„Rührt meine Gesalbten nicht an!
+Tut meinen Propheten nichts Böses!“
+
+> **Was bedeutet das?**
+> Dieses Lied besteht aus Teilen von drei Psalmen. Die Verse 8–22 stehen auch in Psalm 105,1–15.
+> Das Lied lädt ein: Dankt Gott, singt, erzählt anderen von seinen Taten. Glaube ist nicht nur etwas Privates, sondern soll weitergesagt werden.
+> „Sucht sein Angesicht immer“: Gott will, dass wir seine Nähe suchen, jeden Tag.
+> Dann erinnert das Lied an die Geschichte: Gott hat einen Bund mit Abraham, Isaak und Jakob geschlossen. Sie waren nur wenige, Fremde im Land, auf Wanderschaft. Aber Gott hat sie beschützt.
+> „Meine Gesalbten“ und „meine Propheten“ sind hier die Erzväter Abraham, Isaak und Jakob. Gott hat zum Beispiel den Pharao und den König Abimelech gewarnt, ihnen etwas anzutun (1. Mose 12,17; 20,3–7).
+> „Tausend Generationen“ heißt: für immer.
+
+---
+
+### Das Danklied: Alle Welt soll Gott loben (Vers 23–33)
+
+<sup>23</sup>Singt dem HERRN, alle Welt!
+Verkündet Tag für Tag seine Rettung!
+<sup>24</sup>Erzählt unter den Völkern von seiner Herrlichkeit,
+unter allen Völkern von seinen Wundern.
+<sup>25</sup>Denn groß ist der HERR und sehr zu loben.
+Er ist zu fürchten mehr als alle Götter.
+<sup>26</sup>Denn alle Götter der Völker sind Götzen.
+Aber der HERR hat den Himmel gemacht.
+<sup>27</sup>Hoheit und Pracht sind vor ihm,
+Stärke und Freude sind an seinem Ort.
+<sup>28</sup>Gebt dem HERRN, ihr Familien der Völker,
+gebt dem HERRN Ehre und Stärke!
+<sup>29</sup>Gebt dem HERRN die Ehre seines Namens!
+Bringt eine Gabe und kommt vor ihn.
+Betet den HERRN an in heiligem Schmuck.
+<sup>30</sup>Zittere vor ihm, alle Welt!
+Auch die Erde steht fest, sie wird nicht wanken.
+<sup>31</sup>Der Himmel soll sich freuen, und die Erde soll jubeln!
+Man soll unter den Völkern sagen:
+„Der HERR ist König!“
+<sup>32</sup>Das Meer soll brausen und alles, was darin ist!
+Das Feld soll jubeln und alles, was darauf ist!
+<sup>33</sup>Dann werden die Bäume des Waldes vor dem HERRN jubeln,
+denn er kommt, um die Erde zu richten.
+
+> **Was bedeutet das?**
+> Dieser Teil steht auch in Psalm 96.
+> Jetzt geht der Blick über Israel hinaus: Alle Völker, die ganze Erde, sollen Gott loben. Gott ist nicht nur der Gott eines Volkes, sondern der Schöpfer des Himmels.
+> Die ganze Schöpfung jubelt mit: der Himmel, die Erde, das Meer, die Felder, sogar die Bäume. Was für ein schönes Bild!
+> „Er kommt, um die Erde zu richten“: Das ist hier ein Grund zur Freude. Gottes Gericht heißt: Er bringt alles in Ordnung und schafft Gerechtigkeit für alle, die Unrecht leiden.
+> „Heiliger Schmuck“ kann auch heißen „in heiliger Pracht“, also: mit Ehrfurcht und festlich.
+
+---
+
+### Das Danklied: Danket dem HERRN (Vers 34–36)
+
+<sup>34</sup>Dankt dem HERRN, denn er ist gut,
+denn seine Güte währt ewig.
+<sup>35</sup>Und sagt:
+„Rette uns, Gott unserer Rettung!
+Sammle uns und befreie uns aus den Völkern,
+damit wir deinem heiligen Namen danken
+und uns deines Lobes rühmen.“
+<sup>36</sup>Gelobt sei der HERR, der Gott Israels,
+von Ewigkeit zu Ewigkeit!
+Und das ganze Volk sagte: „Amen!“
+und lobte den HERRN.
+
+> **Was bedeutet das?**
+> Dieser Teil steht auch in Psalm 106,1 und 106,47–48.
+> „Dankt dem HERRN, denn er ist gut, denn seine Güte währt ewig“: Das ist einer der wichtigsten und häufigsten Lobsprüche der Bibel. Er wird bis heute in jüdischen und christlichen Gottesdiensten gebetet.
+> Vers 35 ist interessant: „Sammle uns aus den Völkern“. Zur Zeit Davids waren die Israeliten nicht zerstreut. Aber für die ersten Leser der Chronik, nach der Verbannung, war das ein sehr aktuelles Gebet.
+> „Amen“ heißt: „So ist es“, „Das ist gewiss“. Das ganze Volk stimmt zu.
+
+---
+
+### Der tägliche Gottesdienst (Vers 37–43)
+
+<sup>37</sup>So ließ er Asaf und seine Brüder dort vor der Lade des Bundes des HERRN,
+um ständig vor der Lade zu dienen, wie es die Arbeit jedes Tages erforderte,
+<sup>38</sup>dazu Obed-Edom mit ihren 68 Verwandten,
+und Obed-Edom, den Sohn Jedutuns, und Hosa als Torhüter.
+<sup>39</sup>Und den Priester Zadok und seine Brüder, die Priester,
+ließ er vor der Wohnung des HERRN auf der Opferhöhe in Gibeon,
+<sup>40</sup>um dem HERRN auf dem Brandopferaltar ständig Brandopfer darzubringen,
+morgens und abends,
+nach allem, was im Gesetz des HERRN geschrieben steht, das er Israel geboten hat.
+<sup>41</sup>Und mit ihnen waren Heman und Jedutun
+und die übrigen Ausgewählten, die mit Namen genannt waren,
+um dem HERRN zu danken, denn seine Güte währt ewig.
+<sup>42</sup>Und mit ihnen waren Heman und Jedutun mit Trompeten und Zimbeln für die, die laut spielen sollten,
+und mit Instrumenten für die Lieder Gottes.
+Und die Söhne Jedutuns waren am Tor.
+<sup>43</sup>Dann ging das ganze Volk weg, jeder in sein Haus.
+Und David kehrte zurück, um sein Haus zu segnen.
+
+> **Was bedeutet das?**
+> Zur Zeit Davids gab es zwei Orte für den Gottesdienst: In Jerusalem stand die Lade in einem Zelt, und dort sangen Asaf und seine Leute. In Gibeon stand noch die alte Stiftshütte aus der Wüstenzeit mit dem Brandopferaltar. Dort opferten Zadok und die Priester. Erst unter Salomo kam alles im Tempel zusammen.
+> Jedutun war ein weiterer Leiter der Musik. Er wird wohl auch Etan genannt (Kapitel 15,17).
+> Am Ende geht David nach Hause, „um sein Haus zu segnen“. Nach dem großen Fest für das ganze Volk denkt er auch an seine eigene Familie.
+
+## 1. Chronik – Kapitel 17
+#### Gottes Versprechen an David
+
+---
+
+### David will Gott ein Haus bauen (Vers 1–2)
+
+<sup>1</sup>Als David in seinem Haus wohnte,
+sagte David zum Propheten Natan:
+„Schau, ich wohne in einem Haus aus Zedernholz,
+aber die Lade des Bundes des HERRN steht unter einem Zelt.“
+<sup>2</sup>Natan sagte zu David:
+„Tu alles, was du im Herzen hast,
+denn Gott ist mit dir.“
+
+> **Was bedeutet das?**
+> David hat einen schönen Palast. Aber die Lade Gottes steht nur in einem Zelt. Das findet er nicht richtig. Er will Gott einen Tempel bauen.
+> Der Prophet Natan findet das zuerst eine gute Idee.
+> Die Geschichte steht auch in 2. Samuel 7.
+
+---
+
+### Gott will David ein Haus bauen (Vers 3–15)
+
+<sup>3</sup>Aber in derselben Nacht kam das Wort Gottes zu Natan:
+<sup>4</sup>„Geh und sag zu David, meinem Knecht:
+‚So spricht der HERR:
+Du sollst mir kein Haus bauen, in dem ich wohnen soll.
+<sup>5</sup>Denn ich habe in keinem Haus gewohnt
+seit dem Tag, an dem ich Israel heraufgeführt habe, bis zum heutigen Tag.
+Sondern ich bin von Zelt zu Zelt gezogen und von einer Wohnung zur anderen.
+<sup>6</sup>Habe ich irgendwo, wo ich mit ganz Israel umhergezogen bin,
+zu einem der Richter Israels, denen ich befohlen hatte, mein Volk zu weiden,
+jemals ein Wort gesagt:
+„Warum habt ihr mir kein Haus aus Zedernholz gebaut?“‘
+<sup>7</sup>Und jetzt sollst du zu meinem Knecht David sagen:
+‚So spricht der HERR der Heere:
+Ich habe dich von der Weide geholt, wo du hinter den Schafen hergingst,
+damit du Fürst über mein Volk Israel wirst.
+<sup>8</sup>Ich bin mit dir gewesen, wohin du auch gegangen bist,
+und habe alle deine Feinde vor dir ausgerottet.
+Ich will dir einen Namen machen
+wie den Namen der Großen auf der Erde.
+<sup>9</sup>Ich will für mein Volk Israel einen Ort bestimmen
+und es einpflanzen,
+damit es an seinem Ort wohnt und nicht mehr unruhig wird.
+Böse Menschen sollen es nicht mehr bedrängen wie früher,
+<sup>10</sup>seit der Zeit, als ich Richter über mein Volk Israel eingesetzt habe.
+Ich will alle deine Feinde demütigen.
+Und ich verkünde dir: Der HERR wird dir ein Haus bauen.
+<sup>11</sup>Wenn deine Tage vorbei sind und du zu deinen Vätern gehen musst,
+dann will ich einen deiner Nachkommen nach dir aufstehen lassen,
+einen von deinen Söhnen.
+Und ich will sein Königtum festigen.
+<sup>12</sup>Er soll mir ein Haus bauen,
+und ich will seinen Thron für immer festigen.
+<sup>13</sup>Ich will sein Vater sein,
+und er soll mein Sohn sein.
+Meine Güte will ich nicht von ihm wegnehmen,
+wie ich sie von dem weggenommen habe, der vor dir war.
+<sup>14</sup>Sondern ich will ihn für immer in mein Haus und in mein Königreich einsetzen,
+und sein Thron soll für immer feststehen.‘“
+<sup>15</sup>Ganz nach diesen Worten und nach dieser ganzen Offenbarung
+redete Natan zu David.
+
+> **Was bedeutet das?**
+> Das ist eine der wichtigsten Stellen im Alten Testament.
+> Gott sagt: Nicht du baust mir ein Haus, sondern ich baue dir ein „Haus“. Das hebräische Wort „Haus“ kann ein Gebäude bedeuten, aber auch eine Familie, eine Königsfamilie, eine Dynastie. Ein schönes Wortspiel.
+> Gott erinnert David: Ich habe dich von den Schafen geholt. Alles, was du hast, ist mein Geschenk.
+> Gott verspricht: Ein Sohn Davids wird den Tempel bauen (Salomo). Und Davids Thron soll „für immer“ feststehen.
+> „Ich will sein Vater sein, und er soll mein Sohn sein“: Eine ganz enge Beziehung zwischen Gott und dem König.
+> Anders als in 2. Samuel 7,14 fehlt hier der Satz, dass Gott den Sohn bestrafen wird, wenn er sündigt. Die Chronik sieht den König schon stärker als Bild für einen kommenden, vollkommenen König.
+> Nach der Verbannung gab es keinen König mehr aus Davids Familie. Trotzdem hielten die Juden an diesem Versprechen fest und erwarteten einen „Gesalbten“ (Messias) aus dem Haus Davids. Christen glauben, dass sich dieses Versprechen in Jesus erfüllt hat, den das Neue Testament „Sohn Davids“ nennt (Lukas 1,32–33).
+
+---
+
+### Davids Gebet (Vers 16–27)
+
+<sup>16</sup>Da ging der König David hinein, setzte sich vor den HERRN und sagte:
+„Wer bin ich, HERR, Gott, und was ist mein Haus,
+dass du mich bis hierher gebracht hast?
+<sup>17</sup>Und das war noch zu wenig in deinen Augen, Gott.
+Du hast über das Haus deines Knechtes auch für die ferne Zukunft geredet.
+Und du hast mich angesehen wie einen hohen Menschen, HERR, Gott.
+<sup>18</sup>Was soll David noch weiter zu dir sagen über die Ehre, die du deinem Knecht erwiesen hast?
+Du kennst ja deinen Knecht.
+<sup>19</sup>HERR, um deines Knechtes willen und nach deinem Herzen
+hast du all dieses Große getan,
+um alle diese großen Dinge bekannt zu machen.
+<sup>20</sup>HERR, keiner ist wie du,
+und es gibt keinen Gott außer dir,
+nach allem, was wir mit unseren Ohren gehört haben.
+<sup>21</sup>Und welches Volk auf der Erde ist wie dein Volk Israel,
+das Gott selbst befreit hat, um es sich zum Volk zu machen
+und dir einen Namen zu machen durch große und furchtbare Taten,
+indem du Völker vor deinem Volk vertrieben hast,
+das du aus Ägypten befreit hast?
+<sup>22</sup>Du hast dein Volk Israel für immer zu deinem Volk gemacht,
+und du, HERR, bist ihr Gott geworden.
+<sup>23</sup>Und jetzt, HERR,
+das Wort, das du über deinen Knecht und über sein Haus geredet hast,
+soll für immer bestehen.
+Tu, wie du gesagt hast.
+<sup>24</sup>Dein Name soll für immer bestehen und groß werden,
+sodass man sagt:
+‚Der HERR der Heere ist der Gott Israels, ja, ein Gott für Israel.‘
+Und das Haus Davids, deines Knechtes, soll vor dir bestehen.
+<sup>25</sup>Denn du, mein Gott, hast deinem Knecht offenbart, dass du ihm ein Haus bauen willst.
+Darum hat dein Knecht den Mut gefunden, vor dir zu beten.
+<sup>26</sup>Und jetzt, HERR, du bist Gott,
+und du hast deinem Knecht dieses Gute versprochen.
+<sup>27</sup>Und jetzt hat es dir gefallen, das Haus deines Knechtes zu segnen,
+damit es für immer vor dir besteht.
+Denn du, HERR, hast es gesegnet,
+und es ist gesegnet für immer.“
+
+> **Was bedeutet das?**
+> David ist überwältigt. Er sitzt vor Gott und staunt: „Wer bin ich, dass du mich bis hierher gebracht hast?“ Echte Dankbarkeit macht demütig.
+> David bittet nicht um mehr, sondern darum, dass Gott tut, was er versprochen hat. Gottes Versprechen geben ihm den Mut zu beten (Vers 25).
+> Am Ende steht großes Vertrauen: „Du hast es gesegnet, und es ist gesegnet für immer.“ Was Gott segnet, bleibt gesegnet.
+> In Vers 17 ist der hebräische Text schwer zu verstehen. Die Übersetzung „wie einen hohen Menschen“ ist unsicher.
+
+## 1. Chronik – Kapitel 18
+#### Davids Siege
+
+---
+
+### Siege nach allen Seiten (Vers 1–8)
+
+<sup>1</sup>Danach schlug David die Philister und demütigte sie.
+Er nahm Gat und seine Tochterstädte aus der Hand der Philister.
+<sup>2</sup>Er schlug Moab,
+und die Moabiter wurden Davids Diener und zahlten ihm Tribut.
+<sup>3</sup>David schlug Hadad-Eser, den König von Zoba, in Richtung Hamat,
+als er hinzog, um seine Herrschaft am Strom Euphrat zu festigen.
+<sup>4</sup>David nahm ihm 1000 Wagen, 7000 Reiter und 20 000 Fußsoldaten ab.
+David lähmte alle Wagenpferde,
+aber er behielt davon so viele übrig, wie man für hundert Wagen brauchte.
+<sup>5</sup>Als die Syrer aus Damaskus Hadad-Eser, dem König von Zoba, zu Hilfe kamen,
+erschlug David 22 000 Mann von den Syrern.
+<sup>6</sup>Dann legte David Besatzungen in das Syrien von Damaskus.
+Und die Syrer wurden Davids Diener und zahlten Tribut.
+Der HERR gab David den Sieg, wohin er auch zog.
+<sup>7</sup>David nahm die goldenen Schilde, die die Diener Hadad-Esers trugen,
+und brachte sie nach Jerusalem.
+<sup>8</sup>Aus Tibhat und aus Kun, Städten Hadad-Esers, nahm David sehr viel Bronze.
+Daraus machte Salomo das Meer aus Bronze, die Säulen und die Geräte aus Bronze.
+
+> **Was bedeutet das?**
+> In kurzer Zeit besiegt David alle Feinde ringsum: im Westen die Philister, im Osten Moab, im Norden die Aramäer (Syrer). Israel wird zu einem kleinen Großreich. Die Liste steht auch in 2. Samuel 8.
+> „Lähmte die Pferde“: Er durchschnitt ihnen die Sehnen, damit sie nicht mehr im Krieg eingesetzt werden konnten. Israel sollte nicht auf Pferde und Wagen vertrauen (5. Mose 17,16; Psalm 20,8).
+> Die Chronik betont: Die Bronze aus diesen Siegen wurde später für den Tempel verwendet. Schon David sammelt Material für den Tempel, den Salomo bauen wird.
+> „Syrien“ heißt im Hebräischen „Aram“. Zoba war ein aramäisches Königreich nördlich von Damaskus.
+> In 2. Samuel 8,4 steht 1700 Reiter statt 1000 Wagen und 7000 Reiter. Solche Zahlenunterschiede entstanden wohl beim Abschreiben.
+> In 2. Samuel 8,8 heißen die Städte „Betach“ und „Berotai“.
+
+---
+
+### Ein Geschenk aus Hamat (Vers 9–13)
+
+<sup>9</sup>Als Tou, der König von Hamat, hörte,
+dass David das ganze Heer Hadad-Esers, des Königs von Zoba, geschlagen hatte,
+<sup>10</sup>schickte er seinen Sohn Hadoram zum König David,
+um ihn zu grüßen und ihn zu beglückwünschen,
+weil er gegen Hadad-Eser gekämpft und ihn geschlagen hatte.
+Denn Hadad-Eser hatte Kriege mit Tou geführt.
+Und Hadoram brachte allerlei Geräte aus Gold, Silber und Bronze mit.
+<sup>11</sup>Auch diese weihte der König David dem HERRN,
+zusammen mit dem Silber und dem Gold, das er von allen Völkern mitgenommen hatte:
+von Edom, von Moab, von den Ammonitern, von den Philistern und von Amalek.
+<sup>12</sup>Abischai, der Sohn der Zeruja, erschlug 18 000 Edomiter im Salztal.
+<sup>13</sup>Er legte Besatzungen nach Edom,
+und alle Edomiter wurden Davids Diener.
+Der HERR gab David den Sieg, wohin er auch zog.
+
+> **Was bedeutet das?**
+> Der König von Hamat ist froh, dass sein Feind besiegt ist. Er schickt Geschenke.
+> David behält die Schätze nicht für sich. Er weiht sie Gott, für den späteren Tempel.
+> Zweimal steht der Satz: „Der HERR gab David den Sieg, wohin er auch zog.“ Die Chronik will sagen: Davids Erfolg ist Gottes Geschenk.
+> In 2. Samuel 8,13 wird der Sieg im Salztal David selbst zugeschrieben, in Psalm 60 Joab. Hier ist es Abischai. Wahrscheinlich waren mehrere Heerführer beteiligt.
+> Die Zahlen der Gefallenen sind hoch. Krieg bedeutet immer großes Leid, auch wenn die Bibel ihn hier aus der Sicht der Sieger erzählt.
+
+---
+
+### Davids Regierung (Vers 14–17)
+
+<sup>14</sup>David regierte über ganz Israel,
+und er übte Recht und Gerechtigkeit für sein ganzes Volk.
+<sup>15</sup>Joab, der Sohn der Zeruja, war über das Heer gesetzt.
+Joschafat, der Sohn Ahiluds, war Kanzler.
+<sup>16</sup>Zadok, der Sohn Ahitubs, und Abimelech, der Sohn Abjatars, waren Priester.
+Schawscha war Schreiber.
+<sup>17</sup>Benaja, der Sohn Jojadas, war über die Kreter und die Pleter gesetzt.
+Und die Söhne Davids waren die Ersten an der Seite des Königs.
+
+> **Was bedeutet das?**
+> Vers 14 sagt, was einen guten König ausmacht: Er übt „Recht und Gerechtigkeit für sein ganzes Volk“. Nicht Macht und Siege sind das Wichtigste, sondern Gerechtigkeit für alle.
+> Die Liste zeigt Davids wichtigste Beamte. Die „Kreter und Pleter“ waren Davids Leibwache, wohl ausländische Söldner.
+> In 2. Samuel 8,18 heißt es, Davids Söhne waren „Priester“. Die Chronik schreibt „die Ersten an der Seite des Königs“. Für die Chronik konnten nur Nachkommen Aarons Priester sein.
+> In 2. Samuel 8,17 heißen die Namen „Ahimelech“ statt „Abimelech“ und „Seraja“ statt „Schawscha“.
