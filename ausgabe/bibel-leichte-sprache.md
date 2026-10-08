@@ -43567,3 +43567,506 @@ und brachten es dem König Salomo.
 > Israel hatte keine Erfahrung mit der Seefahrt. Darum helfen die Seeleute von Hiram aus Tyrus.
 > Wo Ofir lag, weiß man heute nicht sicher. Vielleicht in Arabien, in Ostafrika oder in Indien. Es war berühmt für sein Gold.
 > In der Bibel steht „420 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. In 2. Chronik 8,18 stehen 450 Talente.
+
+## 1. Könige – Kapitel 10
+#### Die Königin von Saba und Salomos Reichtum
+
+---
+
+### Die Königin von Saba besucht Salomo (Vers 1–13)
+
+<sup>1</sup>Die Königin von Saba hörte vom Ruhm Salomos im Zusammenhang mit dem Namen des HERRN.
+Da kam sie, um ihn mit schweren Fragen zu prüfen.
+<sup>2</sup>Sie kam nach Jerusalem mit einer sehr großen Karawane,
+mit Kamelen, die Gewürze trugen, sehr viel Gold und Edelsteine.
+Als sie zu Salomo gekommen war,
+redete sie mit ihm über alles, was sie auf dem Herzen hatte.
+<sup>3</sup>Salomo beantwortete alle ihre Fragen.
+Es gab nichts, was dem König verborgen war und was er ihr nicht erklärte.
+<sup>4</sup>Die Königin von Saba sah die ganze Weisheit Salomos,
+das Haus, das er gebaut hatte,
+<sup>5</sup>die Speisen auf seinem Tisch, wie seine Diener dasaßen,
+wie seine Beamten aufwarteten, ihre Kleidung, seine Mundschenke
+und seinen Aufgang, auf dem er zum Haus des HERRN hinaufging.
+Da blieb ihr der Atem weg.
+<sup>6</sup>Sie sagte zum König:
+„Es war die Wahrheit, was ich in meinem eigenen Land
+über deine Taten und deine Weisheit gehört habe.
+<sup>7</sup>Aber ich habe den Worten nicht geglaubt,
+bis ich gekommen bin und es mit meinen eigenen Augen gesehen habe.
+Schau, nicht einmal die Hälfte hat man mir erzählt!
+Deine Weisheit und dein Wohlstand übertreffen den Ruf, den ich gehört habe.
+<sup>8</sup>Glücklich sind deine Männer,
+glücklich sind diese deine Diener, die immer vor dir stehen und deine Weisheit hören.
+<sup>9</sup>Gelobt sei der HERR, dein Gott,
+der Gefallen an dir hatte und dich auf den Thron Israels gesetzt hat.
+Weil der HERR Israel für immer liebt,
+darum hat er dich zum König gemacht,
+damit du Recht und Gerechtigkeit übst.“
+<sup>10</sup>Sie schenkte dem König etwa 4 Tonnen Gold,
+sehr viele Gewürze und Edelsteine.
+Nie wieder kamen so viele Gewürze ins Land
+wie die, die die Königin von Saba dem König Salomo schenkte.
+<sup>11</sup>Auch die Flotte Hirams, die Gold aus Ofir brachte,
+brachte aus Ofir sehr viel Almuggim-Holz und Edelsteine.
+<sup>12</sup>Der König machte aus dem Almuggim-Holz Säulen für das Haus des HERRN und für das Haus des Königs,
+dazu Harfen und Saiteninstrumente für die Sänger.
+So viel Almuggim-Holz kam nie wieder, und man hat es bis zum heutigen Tag nicht mehr gesehen.
+<sup>13</sup>Der König Salomo gab der Königin von Saba alles, was sie wollte, worum sie bat,
+außer dem, was Salomo ihr aus seinem königlichen Reichtum schenkte.
+Dann kehrte sie um und ging in ihr Land zurück, sie und ihre Diener.
+
+> **Was bedeutet das?**
+> Saba lag wahrscheinlich im Süden Arabiens, im heutigen Jemen. Es war reich durch den Handel mit Weihrauch und Gewürzen. Manche denken auch an Äthiopien.
+> Die Königin reist über 2000 Kilometer. Sie kommt nicht nur wegen des Reichtums, sondern wegen der Weisheit, und zwar „im Zusammenhang mit dem Namen des HERRN“. Sie will wissen, woher diese Weisheit kommt.
+> „Da blieb ihr der Atem weg“: Wörtlich steht da: „Es war kein Geist mehr in ihr.“ Sie war völlig überwältigt.
+> Eine ausländische Königin lobt den Gott Israels (Vers 9). Sie erkennt: Ein König ist dazu da, Recht und Gerechtigkeit zu üben. Das ist der Sinn von Macht.
+> Jesus hat später an sie erinnert: Die „Königin des Südens“ kam vom Ende der Erde, um Salomos Weisheit zu hören, „und hier ist mehr als Salomo“ (Matthäus 12,42).
+> In Äthiopien gibt es eine alte Überlieferung, nach der die Königin und Salomo einen Sohn hatten, Menelik. Das steht nicht in der Bibel.
+> In der Bibel steht „120 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.
+> Was „Almuggim-Holz“ genau war, weiß man nicht sicher, vielleicht rotes Sandelholz. Statt „Säulen“ könnte man das hebräische Wort auch mit „Geländer“ oder „Stützen“ übersetzen.
+
+---
+
+### Salomos Gold (Vers 14–22)
+
+<sup>14</sup>Das Gold, das in einem Jahr zu Salomo kam, wog etwa 22,6 Tonnen.
+<sup>15</sup>Dazu kam noch das, was die Händler brachten, der Handel der Kaufleute,
+alle Könige der gemischten Völker und die Statthalter des Landes.
+<sup>16</sup>Der König Salomo machte 200 große Schilde aus gehämmertem Gold.
+Für jeden Schild verwendete er etwa 6,6 Kilogramm Gold.
+<sup>17</sup>Und er machte 300 kleine Schilde aus gehämmertem Gold.
+Für jeden Schild verwendete er etwa 1,7 Kilogramm Gold.
+Der König brachte sie in das Libanonwaldhaus.
+<sup>18</sup>Außerdem machte der König einen großen Thron aus Elfenbein
+und überzog ihn mit feinstem Gold.
+<sup>19</sup>Der Thron hatte sechs Stufen.
+Oben war die Rückseite des Throns rund.
+Auf beiden Seiten des Sitzes waren Armlehnen,
+und neben den Armlehnen standen zwei Löwen.
+<sup>20</sup>Zwölf Löwen standen dort auf den sechs Stufen, auf der einen und auf der anderen Seite.
+So etwas wurde in keinem Königreich gemacht.
+<sup>21</sup>Alle Trinkgefäße des Königs Salomo waren aus Gold,
+und alle Geräte im Libanonwaldhaus waren aus reinem Gold.
+Keines war aus Silber, denn Silber galt in den Tagen Salomos als nichts wert.
+<sup>22</sup>Denn der König hatte eine Flotte von Tarschisch-Schiffen auf dem Meer, zusammen mit der Flotte Hirams.
+Einmal in drei Jahren kam die Tarschisch-Flotte
+und brachte Gold, Silber, Elfenbein, Affen und Pfauen.
+
+> **Was bedeutet das?**
+> Die Zahlen sind gewaltig. In der Bibel steht „666 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.
+> Bei den Schilden steht in der Bibel „600 Schekel“ (ein Schekel sind etwa 11 Gramm) und „drei Minen“ (eine Mine sind etwa 570 Gramm). Die Schilde aus Gold waren nicht für den Kampf. Sie waren zum Zeigen, für Feste und Paraden.
+> Das Libanonwaldhaus war ein großer Saal in Salomos Palast (Kapitel 7,2).
+> „Tarschisch-Schiffe“ waren große Schiffe für weite Reisen über das Meer. Wo Tarschisch lag, ist nicht sicher, vielleicht in Spanien. Bei „Pfauen“ ist die Übersetzung unsicher. Manche übersetzen „Paviane“.
+> Diese Beschreibung zeigt Salomos Glanz. Aber sie hat einen Haken: In 5. Mose 17,16–17 steht, dass ein König nicht viele Pferde, viele Frauen und viel Silber und Gold anhäufen soll. Genau das tut Salomo. Das nächste Kapitel zeigt, wohin das führt.
+
+---
+
+### Salomos Weisheit, Wagen und Pferde (Vers 23–29)
+
+<sup>23</sup>So übertraf der König Salomo alle Könige der Erde an Reichtum und an Weisheit.
+<sup>24</sup>Alle Welt wollte Salomo sehen,
+um seine Weisheit zu hören, die Gott ihm ins Herz gegeben hatte.
+<sup>25</sup>Jahr für Jahr brachte jeder sein Geschenk:
+Geräte aus Silber, Geräte aus Gold, Kleider, Waffen, Gewürze, Pferde und Maultiere.
+<sup>26</sup>Salomo sammelte Wagen und Reiter.
+Er hatte 1400 Wagen und 12 000 Reiter.
+Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
+<sup>27</sup>Der König machte in Jerusalem das Silber so häufig wie Steine
+und die Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.
+<sup>28</sup>Die Pferde, die Salomo hatte, wurden aus Ägypten eingeführt.
+Die Händler des Königs holten sie in Herden, jede Herde für einen Preis.
+<sup>29</sup>Ein Wagen wurde aus Ägypten für etwa 6,6 Kilogramm Silber eingeführt
+und ein Pferd für etwa 1,65 Kilogramm Silber.
+Und so führten sie sie auch an alle Könige der Hetiter und an die Könige von Syrien aus.
+
+> **Was bedeutet das?**
+> Salomo wird als der reichste und weiseste König der Welt beschrieben. Aber Vers 24 sagt deutlich: Seine Weisheit kam von Gott.
+> Salomo war auch ein Pferdehändler. Er kaufte Pferde und Wagen und verkaufte sie weiter an andere Könige.
+> In der Bibel steht „600 Schekel Silber“ und „150 Schekel“. Ein Schekel sind etwa 11 Gramm.
+> „Aus Ägypten“: Manche Fachleute denken, dass hier ursprünglich „Muzri“ stand, ein Land in der heutigen Türkei. Der Name klingt im Hebräischen fast gleich wie „Ägypten“.
+> „Syrien“ heißt im Hebräischen „Aram“, das Land der Aramäer.
+> Der Maulbeerfeigenbaum (Sykomore) war ein ganz gewöhnlicher Baum. Zedern waren kostbar. Unter Salomo war Kostbares so alltäglich wie Gewöhnliches.
+> Wieder ist das ein Hinweis auf 5. Mose 17,16: Der König soll keine Pferde aus Ägypten holen. Der Glanz hat eine Schattenseite.
+
+## 1. Könige – Kapitel 11
+#### Salomos Herz wendet sich ab
+
+---
+
+### Salomos viele Frauen (Vers 1–8)
+
+<sup>1</sup>Der König Salomo liebte viele ausländische Frauen,
+dazu die Tochter des Pharao:
+Frauen von den Moabitern, Ammonitern, Edomitern, Sidoniern und Hetitern,
+<sup>2</sup>aus den Völkern, über die der HERR zu den Israeliten gesagt hatte:
+„Ihr sollt nicht zu ihnen gehen, und sie sollen nicht zu euch kommen.
+Denn sie werden ganz sicher euer Herz zu ihren Göttern hinwenden.“
+An diesen Frauen hing Salomo in Liebe.
+<sup>3</sup>Er hatte 700 Frauen, die Fürstinnen waren, und 300 Nebenfrauen.
+Seine Frauen wandten sein Herz ab.
+<sup>4</sup>Als Salomo alt war, wandten seine Frauen sein Herz anderen Göttern zu.
+Und sein Herz war nicht mehr ungeteilt beim HERRN, seinem Gott,
+wie das Herz seines Vaters David.
+<sup>5</sup>Denn Salomo lief Astarte nach, der Göttin der Sidonier,
+und Milkom, dem Gräuel der Ammoniter.
+<sup>6</sup>Salomo tat, was in den Augen des HERRN böse war,
+und folgte dem HERRN nicht völlig, wie sein Vater David.
+<sup>7</sup>Damals baute Salomo eine Opferhöhe für Kemosch, den Gräuel Moabs,
+auf dem Berg, der vor Jerusalem liegt,
+und für Moloch, den Gräuel der Ammoniter.
+<sup>8</sup>So machte er es für alle seine ausländischen Frauen,
+die ihren Göttern Weihrauch verbrannten und opferten.
+
+> **Was bedeutet das?**
+> Das ist der tiefe Fall des weisen Königs. Die vielen Ehen waren damals oft Politik: Ein König heiratete die Tochter eines anderen Königs, um ein Bündnis zu schließen.
+> Das Problem ist nicht, dass die Frauen Ausländerinnen waren. Auch Rut war eine Moabiterin, und sie war die Urgroßmutter Davids. Das Problem ist: Salomo betet ihre Götter mit an. Sein Herz ist geteilt.
+> Gott hatte genau davor gewarnt (2. Mose 34,16; 5. Mose 7,3–4). Und in 5. Mose 17,17 steht: Der König soll nicht viele Frauen nehmen, damit sein Herz sich nicht abwendet.
+> Die Zahlen 700 und 300 sind riesig. Sie zeigen, wie maßlos Salomo geworden war.
+> „Gräuel“ ist ein starkes Wort für einen Götzen, den Gott verabscheut.
+> Astarte war eine Göttin der Fruchtbarkeit und des Krieges. Kemosch war der Gott der Moabiter. Moloch wird mit grausamen Kinderopfern in Verbindung gebracht (3. Mose 18,21). In Vers 5 und 33 heißt der Gott der Ammoniter „Milkom“. Viele Fachleute meinen, dass in Vers 7 derselbe Gott gemeint ist.
+> „Der Berg vor Jerusalem“ ist der Ölberg. Später ließ König Joschija diese Opferhöhen zerstören (2. Könige 23,13).
+> Salomo, der den Tempel gebaut hat, baut nun Altäre für fremde Götter. Das zeigt: Auch ein großer Anfang schützt nicht vor einem schlechten Ende. Man muss sein Herz jeden Tag bewahren.
+
+---
+
+### Gott kündigt die Teilung des Reiches an (Vers 9–13)
+
+<sup>9</sup>Der HERR wurde zornig auf Salomo,
+weil sein Herz sich vom HERRN, dem Gott Israels, abgewandt hatte,
+der ihm zweimal erschienen war
+<sup>10</sup>und ihm genau das geboten hatte: dass er nicht anderen Göttern nachlaufen sollte.
+Aber er hielt nicht, was der HERR geboten hatte.
+<sup>11</sup>Darum sagte der HERR zu Salomo:
+„Weil du so gehandelt hast
+und meinen Bund und meine Ordnungen nicht gehalten hast, die ich dir geboten habe,
+will ich dir das Königreich ganz sicher wegreißen und es deinem Knecht geben.
+<sup>12</sup>Doch zu deinen Lebzeiten will ich es nicht tun, um deines Vaters David willen.
+Aus der Hand deines Sohnes will ich es reißen.
+<sup>13</sup>Aber ich will ihm nicht das ganze Königreich wegreißen.
+Einen Stamm will ich deinem Sohn geben,
+um meines Knechtes David willen
+und um Jerusalems willen, das ich erwählt habe.“
+
+> **Was bedeutet das?**
+> Gott war Salomo zweimal erschienen (Kapitel 3 und 9). Er hatte so viel bekommen. Umso schwerer wiegt seine Untreue.
+> Die Strafe ist hart: Das Reich wird geteilt. Aber Gott bleibt auch jetzt seinem Versprechen an David treu. Ein Teil des Reiches bleibt bei Davids Familie, wegen Jerusalem.
+> „Einen Stamm“: Gemeint ist Juda. Der kleine Stamm Benjamin kam später noch dazu (Kapitel 12,21).
+
+---
+
+### Hadad, der Edomiter (Vers 14–22)
+
+<sup>14</sup>Der HERR ließ einen Gegner gegen Salomo aufstehen:
+Hadad, den Edomiter.
+Er stammte aus der Königsfamilie in Edom.
+<sup>15</sup>Denn als David in Edom war
+und Joab, der Heerführer, hinaufzog, um die Gefallenen zu begraben,
+erschlug er alle Männer in Edom
+<sup>16</sup>– denn Joab blieb mit ganz Israel sechs Monate dort,
+bis er alle Männer in Edom ausgerottet hatte.
+<sup>17</sup>Da floh Hadad, er und einige Edomiter von den Dienern seines Vaters mit ihm,
+um nach Ägypten zu gehen.
+Hadad war damals noch ein kleiner Junge.
+<sup>18</sup>Sie brachen von Midian auf und kamen nach Paran.
+Aus Paran nahmen sie Männer mit
+und kamen nach Ägypten zum Pharao, dem König von Ägypten.
+Der gab ihm ein Haus, sorgte für sein Essen und gab ihm Land.
+<sup>19</sup>Hadad fand große Gunst beim Pharao,
+sodass der ihm die Schwester seiner eigenen Frau zur Frau gab,
+die Schwester der Königin Tachpenes.
+<sup>20</sup>Die Schwester der Tachpenes gebar ihm seinen Sohn Genubat.
+Tachpenes zog ihn im Haus des Pharao auf, bis er entwöhnt war.
+Und Genubat war im Haus des Pharao, unter den Söhnen des Pharao.
+<sup>21</sup>Als Hadad in Ägypten hörte, dass David sich zu seinen Vätern gelegt hatte
+und dass Joab, der Heerführer, tot war,
+sagte Hadad zum Pharao:
+„Lass mich gehen, damit ich in mein eigenes Land gehe.“
+<sup>22</sup>Da sagte der Pharao zu ihm:
+„Was hat dir denn bei mir gefehlt, dass du nun in dein eigenes Land gehen willst?“
+Er antwortete:
+„Nichts, aber lass mich bitte gehen.“
+
+> **Was bedeutet das?**
+> Hier wird eine dunkle Seite aus Davids Kriegen erzählt: Joab tötete in Edom alle Männer, die er finden konnte (vgl. 2. Samuel 8,13–14). Der kleine Hadad überlebte und floh nach Ägypten.
+> Die Bibel erzählt ehrlich: Gewalt erzeugt neuen Hass. Der Junge, der damals floh, wird später zum Feind Israels.
+> „Sich zu seinen Vätern legen“ heißt: sterben.
+> Midian und Paran sind Wüstengebiete im Süden, zwischen Edom und Ägypten.
+
+---
+
+### Reson von Damaskus (Vers 23–25)
+
+<sup>23</sup>Gott ließ noch einen Gegner gegen ihn aufstehen:
+Reson, den Sohn Eljadas,
+der vor seinem Herrn Hadad-Eser, dem König von Zoba, geflohen war.
+<sup>24</sup>Er sammelte Männer um sich und wurde Anführer einer Truppe,
+als David die Leute von Zoba tötete.
+Sie gingen nach Damaskus, wohnten dort und herrschten in Damaskus.
+<sup>25</sup>Er war ein Gegner Israels, solange Salomo lebte,
+zusätzlich zu dem Unheil, das Hadad anrichtete.
+Er verabscheute Israel und herrschte über Syrien.
+
+> **Was bedeutet das?**
+> Reson gründete in Damaskus ein eigenes Königreich. Später wird Damaskus, das Reich der Aramäer (Syrer), ein gefährlicher Feind Israels sein.
+> Salomos Reich wirkte nach außen glänzend und friedlich. Aber an den Rändern bröckelte es schon.
+> „Syrien“ heißt im Hebräischen „Aram“.
+
+---
+
+### Jerobeam und der Prophet Ahija (Vers 26–40)
+
+<sup>26</sup>Auch Jerobeam, der Sohn Nebats, ein Efraimiter aus Zereda,
+ein Diener Salomos, dessen Mutter Zerua hieß und eine Witwe war,
+erhob seine Hand gegen den König.
+<sup>27</sup>Das war der Grund, warum er seine Hand gegen den König erhob:
+Salomo baute den Millo
+und schloss die Lücke in der Stadt seines Vaters David.
+<sup>28</sup>Jerobeam war ein tüchtiger, starker Mann.
+Salomo sah, dass der junge Mann fleißig war,
+und setzte ihn über alle Lastarbeit des Hauses Josef.
+<sup>29</sup>In dieser Zeit, als Jerobeam aus Jerusalem hinausging,
+traf ihn der Prophet Ahija aus Schilo auf dem Weg.
+Ahija hatte einen neuen Mantel an.
+Und die beiden waren allein auf dem Feld.
+<sup>30</sup>Ahija nahm den neuen Mantel, den er anhatte,
+und riss ihn in zwölf Stücke.
+<sup>31</sup>Er sagte zu Jerobeam:
+„Nimm dir zehn Stücke.
+Denn so spricht der HERR, der Gott Israels:
+‚Schau, ich reiße das Königreich aus der Hand Salomos
+und gebe dir zehn Stämme
+<sup>32</sup>– aber einen Stamm soll er behalten,
+um meines Knechtes David willen
+und um Jerusalems willen, der Stadt, die ich aus allen Stämmen Israels erwählt habe –,
+<sup>33</sup>weil sie mich verlassen haben
+und Astarte, die Göttin der Sidonier, Kemosch, den Gott Moabs,
+und Milkom, den Gott der Ammoniter, angebetet haben.
+Sie sind nicht auf meinen Wegen gegangen,
+um zu tun, was in meinen Augen recht ist,
+und meine Ordnungen und Rechtsordnungen zu halten, wie sein Vater David.
+<sup>34</sup>Doch ich will nicht das ganze Königreich aus seiner Hand nehmen,
+sondern ich will ihn zum Fürsten machen, solange er lebt,
+um meines Knechtes David willen, den ich erwählt habe
+und der meine Gebote und meine Ordnungen gehalten hat.
+<sup>35</sup>Aber aus der Hand seines Sohnes will ich das Königreich nehmen
+und es dir geben, nämlich zehn Stämme.
+<sup>36</sup>Seinem Sohn will ich einen Stamm geben,
+damit mein Knecht David immer eine Lampe vor mir in Jerusalem hat,
+in der Stadt, die ich mir erwählt habe, um meinen Namen dort hinzulegen.
+<sup>37</sup>Dich aber will ich nehmen,
+und du sollst herrschen über alles, was dein Herz begehrt,
+und du sollst König über Israel sein.
+<sup>38</sup>Wenn du auf alles hörst, was ich dir gebiete,
+und auf meinen Wegen gehst
+und tust, was in meinen Augen recht ist,
+und meine Ordnungen und Gebote hältst, wie mein Knecht David es getan hat,
+dann will ich mit dir sein
+und dir ein beständiges Haus bauen, wie ich es für David gebaut habe,
+und dir Israel geben.
+<sup>39</sup>Ich will die Nachkommen Davids deswegen demütigen, aber nicht für immer.‘“
+<sup>40</sup>Darum wollte Salomo Jerobeam töten.
+Aber Jerobeam machte sich auf und floh nach Ägypten,
+zu Schischak, dem König von Ägypten.
+Und er blieb in Ägypten bis zum Tod Salomos.
+
+> **Was bedeutet das?**
+> Jerobeam war ein begabter Aufseher über die Arbeiter aus dem „Haus Josef“, also aus den Stämmen Efraim und Manasse im Norden. Er erlebte selbst, wie schwer die Lasten für das Volk waren.
+> Der Prophet Ahija macht eine Zeichenhandlung: Er zerreißt einen neuen Mantel in zwölf Stücke, für die zwölf Stämme. Zehn bekommt Jerobeam. Das Bild ist stark: Etwas Neues, Ganzes wird zerrissen.
+> Zehn und eins sind zusammen nur elf. Der zwölfte Stamm, Levi, hatte kein eigenes Land. Oder Benjamin wird hier zu Juda gerechnet. Die Rechnung wird in der Bibel nicht genau erklärt.
+> „Eine Lampe in Jerusalem“: Davids Familie soll nicht erlöschen. Aus ihr kommen die Könige von Juda. Christen glauben, dass aus dieser Linie später Jesus kam. Juden erwarten den Messias aus dem Haus David.
+> Gott macht Jerobeam ein großes Angebot: dasselbe wie David, wenn er treu bleibt. Ob er es annimmt, zeigt das nächste Kapitel.
+> „Aber nicht für immer“ (Vers 39): Mitten in der Strafe steht schon eine Hoffnung.
+> Schischak ist der Pharao Scheschonq I. Er ist auch aus ägyptischen Quellen bekannt. Er regierte etwa 945 bis 924 vor Christus.
+
+---
+
+### Salomos Tod (Vers 41–43)
+
+<sup>41</sup>Was sonst noch von Salomo zu erzählen ist,
+alles, was er getan hat, und seine Weisheit,
+steht das nicht im Buch der Geschichte Salomos geschrieben?
+<sup>42</sup>Salomo regierte in Jerusalem über ganz Israel vierzig Jahre lang.
+<sup>43</sup>Salomo legte sich zu seinen Vätern
+und wurde in der Stadt seines Vaters David begraben.
+Und sein Sohn Rehabeam wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Das „Buch der Geschichte Salomos“ ist ein altes Buch, das heute verloren ist. Der Schreiber hat es als Quelle benutzt.
+> Salomo regierte etwa von 970 bis 930 vor Christus.
+> Salomos Leben ist eine große Lehre: Er begann mit einem demütigen Gebet um Weisheit. Er baute den Tempel und war berühmt in der ganzen Welt. Aber am Ende ließ er sein Herz von Reichtum, Macht und fremden Göttern wegziehen. Weisheit allein reicht nicht. Es kommt darauf an, dass das Herz bei Gott bleibt.
+
+## 1. Könige – Kapitel 12
+#### Das Reich wird geteilt
+
+---
+
+### Das Volk bittet um Erleichterung (Vers 1–5)
+
+<sup>1</sup>Rehabeam ging nach Sichem,
+denn ganz Israel war nach Sichem gekommen, um ihn zum König zu machen.
+<sup>2</sup>Jerobeam, der Sohn Nebats, hörte davon
+– er war noch in Ägypten, wohin er vor dem König Salomo geflohen war,
+und Jerobeam wohnte in Ägypten.
+<sup>3</sup>Und sie schickten hin und riefen ihn.
+Da kamen Jerobeam und die ganze Versammlung Israels
+und redeten mit Rehabeam und sagten:
+<sup>4</sup>„Dein Vater hat unser Joch schwer gemacht.
+Mach du jetzt den harten Dienst deines Vaters
+und sein schweres Joch, das er uns aufgelegt hat, leichter.
+Dann wollen wir dir dienen.“
+<sup>5</sup>Er sagte zu ihnen:
+„Geht für drei Tage weg, dann kommt wieder zu mir.“
+Da ging das Volk weg.
+
+> **Was bedeutet das?**
+> Sichem lag im Norden, im Gebiet von Efraim. Es war ein alter, wichtiger Ort: Dort hatte Josua mit dem Volk den Bund erneuert (Josua 24). Dass Rehabeam dorthin kommen muss, zeigt: Die Nordstämme wollten ihn nicht einfach so als König annehmen. Sie wollten verhandeln.
+> Ein „Joch“ ist ein Holzbalken, mit dem man Tiere vor einen Pflug spannt. Es ist ein Bild für Last und Unterdrückung. Das Volk litt unter Salomos hohen Abgaben und der Zwangsarbeit.
+> Die Bitte ist vernünftig: „Mach es leichter, dann dienen wir dir.“
+
+---
+
+### Der Rat der Alten und der Rat der Jungen (Vers 6–15)
+
+<sup>6</sup>Der König Rehabeam beriet sich mit den Alten,
+die vor seinem Vater Salomo gestanden hatten, als er noch lebte.
+Er sagte:
+„Was ratet ihr mir, diesem Volk zu antworten?“
+<sup>7</sup>Sie antworteten:
+„Wenn du heute ein Diener dieses Volkes bist und ihnen dienst
+und ihnen mit guten Worten antwortest,
+dann werden sie für immer deine Diener sein.“
+<sup>8</sup>Aber er ließ den Rat der Alten, den sie ihm gegeben hatten, liegen
+und beriet sich mit den jungen Männern, die mit ihm aufgewachsen waren
+und die vor ihm standen.
+<sup>9</sup>Er sagte zu ihnen:
+„Was ratet ihr, dass wir diesem Volk antworten,
+das zu mir gesagt hat:
+‚Mach das Joch leichter, das dein Vater uns aufgelegt hat‘?“
+<sup>10</sup>Die jungen Männer, die mit ihm aufgewachsen waren, sagten zu ihm:
+„Sag zu diesem Volk, das zu dir gesagt hat:
+‚Dein Vater hat unser Joch schwer gemacht, aber mach du es uns leichter‘,
+sag zu ihnen:
+‚Mein kleiner Finger ist dicker als die Hüften meines Vaters.
+<sup>11</sup>Mein Vater hat euch ein schweres Joch aufgeladen,
+aber ich will euer Joch noch schwerer machen.
+Mein Vater hat euch mit Peitschen gezüchtigt,
+aber ich will euch mit Skorpionen züchtigen.‘“
+<sup>12</sup>So kamen Jerobeam und das ganze Volk am dritten Tag zu Rehabeam,
+wie der König gesagt hatte:
+„Kommt am dritten Tag wieder zu mir.“
+<sup>13</sup>Der König antwortete dem Volk hart.
+Er ließ den Rat der Alten liegen, den sie ihm gegeben hatten,
+<sup>14</sup>und redete zu ihnen nach dem Rat der jungen Männer und sagte:
+„Mein Vater hat euer Joch schwer gemacht,
+aber ich will euer Joch noch schwerer machen.
+Mein Vater hat euch mit Peitschen gezüchtigt,
+aber ich will euch mit Skorpionen züchtigen.“
+<sup>15</sup>So hörte der König nicht auf das Volk.
+Denn so war es vom HERRN gefügt,
+damit er sein Wort erfüllte,
+das der HERR durch Ahija aus Schilo zu Jerobeam, dem Sohn Nebats, geredet hatte.
+
+> **Was bedeutet das?**
+> Die Alten geben einen weisen Rat: „Wenn du dem Volk dienst, wird es dir dienen.“ Ein guter Herrscher ist ein Diener. Jesus hat später etwas sehr Ähnliches gesagt: „Wer unter euch groß sein will, der soll euer Diener sein“ (Markus 10,43).
+> Die jungen Männer sind mit Rehabeam im Palast aufgewachsen. Sie kennen das harte Leben des Volkes nicht. Sie raten zu Härte und Angeberei.
+> „Mein kleiner Finger ist dicker als die Hüften meines Vaters“: Das ist eine grobe Prahlerei. „Skorpione“ waren vielleicht Peitschen mit Stacheln oder Haken.
+> Vers 15 sagt: Gott hat es so gefügt. Das heißt nicht, dass Rehabeam keine Schuld hatte. Er hat seine Wahl selbst getroffen. Aber Gott wirkt auch durch die Fehler der Menschen, damit sein Wort sich erfüllt.
+
+---
+
+### Die Nordstämme sagen sich los (Vers 16–20)
+
+<sup>16</sup>Als ganz Israel sah, dass der König nicht auf sie hörte,
+antwortete das Volk dem König:
+„Was haben wir für einen Anteil an David?
+Wir haben kein Erbe beim Sohn Isais.
+Zu deinen Zelten, Israel!
+Jetzt sieh selbst nach deinem Haus, David!“
+So ging Israel zu seinen Zelten.
+<sup>17</sup>Aber über die Israeliten, die in den Städten Judas wohnten, regierte Rehabeam.
+<sup>18</sup>Dann schickte der König Rehabeam Adoram, der über die Zwangsarbeiter gesetzt war.
+Aber ganz Israel steinigte ihn mit Steinen zu Tode.
+Der König Rehabeam beeilte sich, auf seinen Wagen zu steigen,
+um nach Jerusalem zu fliehen.
+<sup>19</sup>So fiel Israel vom Haus Davids ab, bis zum heutigen Tag.
+<sup>20</sup>Als ganz Israel hörte, dass Jerobeam zurückgekommen war,
+schickten sie hin und riefen ihn zur Versammlung
+und machten ihn zum König über ganz Israel.
+Niemand folgte dem Haus Davids außer dem Stamm Juda allein.
+
+> **Was bedeutet das?**
+> Der Ruf „Zu deinen Zelten, Israel!“ war schon einmal zu hören, beim Aufstand von Scheba (2. Samuel 20,1). Er heißt: Wir gehen nach Hause, wir gehören nicht mehr zu dir.
+> Rehabeam schickt ausgerechnet den Chef der Zwangsarbeit zu den wütenden Menschen. Das war sehr unklug. Adoram wird getötet. Er ist wohl derselbe wie Adoniram in Kapitel 4,6 und 5,14.
+> Von jetzt an gibt es zwei Reiche:
+> – im Norden das Reich **Israel** (zehn Stämme), König Jerobeam,
+> – im Süden das Reich **Juda** (mit Benjamin), König Rehabeam, Hauptstadt Jerusalem.
+> Das geschah etwa 930 vor Christus. Die Trennung hat etwa 200 Jahre gedauert, bis das Nordreich 722 vor Christus von Assyrien zerstört wurde.
+> „Israel“ bedeutet in den Königsbüchern ab jetzt meistens nur das Nordreich.
+
+---
+
+### Kein Bruderkrieg (Vers 21–24)
+
+<sup>21</sup>Als Rehabeam nach Jerusalem gekommen war,
+versammelte er das ganze Haus Juda und den Stamm Benjamin,
+180 000 ausgewählte Krieger,
+um gegen das Haus Israel zu kämpfen
+und das Königreich wieder an Rehabeam, den Sohn Salomos, zurückzubringen.
+<sup>22</sup>Aber das Wort Gottes kam zu Schemaja, dem Mann Gottes:
+<sup>23</sup>„Sag zu Rehabeam, dem Sohn Salomos, dem König von Juda,
+und zum ganzen Haus Juda und Benjamin
+und zum übrigen Volk:
+<sup>24</sup>‚So spricht der HERR:
+Ihr sollt nicht hinaufziehen und nicht gegen eure Brüder, die Israeliten, kämpfen.
+Jeder gehe zurück in sein Haus, denn diese Sache kommt von mir.‘“
+Sie hörten auf das Wort des HERRN
+und kehrten um und gingen nach Hause, wie der HERR gesagt hatte.
+
+> **Was bedeutet das?**
+> Rehabeam will die Einheit mit Gewalt zurückholen. Aber Gott sagt durch den Propheten Schemaja: Kämpft nicht gegen eure Brüder!
+> Das ist bemerkenswert: Diesmal hört der König auf Gott. Ein Bürgerkrieg wird verhindert. Auch wenn das Reich geteilt ist, bleiben die Menschen „Brüder“.
+
+---
+
+### Jerobeams goldene Kälber (Vers 25–33)
+
+<sup>25</sup>Dann baute Jerobeam Sichem im Bergland von Efraim aus und wohnte dort.
+Von dort zog er weiter und baute Penuël aus.
+<sup>26</sup>Jerobeam sagte in seinem Herzen:
+„Jetzt wird das Königreich wieder an das Haus Davids zurückfallen.
+<sup>27</sup>Wenn dieses Volk hinaufgeht, um im Haus des HERRN in Jerusalem Opfer darzubringen,
+dann wird sich das Herz dieses Volkes wieder seinem Herrn zuwenden,
+Rehabeam, dem König von Juda.
+Dann werden sie mich töten
+und zu Rehabeam, dem König von Juda, zurückkehren.“
+<sup>28</sup>Da beriet sich der König und machte zwei Kälber aus Gold.
+Und er sagte zu ihnen:
+„Es ist zu viel für euch, nach Jerusalem hinaufzugehen.
+Schau, das sind deine Götter, Israel,
+die dich aus dem Land Ägypten heraufgeführt haben!“
+<sup>29</sup>Das eine stellte er in Bet-El auf,
+und das andere stellte er in Dan auf.
+<sup>30</sup>Das wurde zur Sünde.
+Denn das Volk ging sogar bis nach Dan, um vor dem einen dort anzubeten.
+<sup>31</sup>Er baute Häuser auf den Opferhöhen
+und machte Leute aus dem ganzen Volk zu Priestern, die nicht von den Söhnen Levis waren.
+<sup>32</sup>Jerobeam setzte ein Fest im achten Monat ein, am fünfzehnten Tag des Monats,
+wie das Fest, das in Juda gefeiert wurde,
+und er stieg auf den Altar.
+So machte er es in Bet-El:
+Er opferte den Kälbern, die er gemacht hatte.
+Und er setzte in Bet-El die Priester der Opferhöhen ein, die er gemacht hatte.
+<sup>33</sup>Er stieg auf den Altar, den er in Bet-El gemacht hatte,
+am fünfzehnten Tag im achten Monat,
+in dem Monat, den er sich selbst in seinem Herzen ausgedacht hatte.
+Er setzte für die Israeliten ein Fest ein
+und stieg auf den Altar, um Weihrauch zu verbrennen.
+
+> **Was bedeutet das?**
+> Jerobeam hat Angst. Wenn die Menschen weiter nach Jerusalem in den Tempel gehen, verliert er sie vielleicht. Darum baut er eigene Heiligtümer: in Bet-El ganz im Süden seines Reiches und in Dan ganz im Norden.
+> Er macht zwei goldene Kälber. Seine Worte sind fast genau dieselben wie beim goldenen Kalb am Sinai (2. Mose 32,4). Das ist kein Zufall. Der Text will zeigen: Jerobeam wiederholt die schlimmste Sünde aus der Wüste.
+> Vielleicht sollten die Kälber nur der Sockel sein, auf dem der unsichtbare Gott steht, so wie die Cherubim über der Lade. Aber für die Menschen wurden sie schnell zu Götzen.
+> Jerobeam macht noch mehr falsch: Er setzt Priester ein, die nicht aus dem Stamm Levi sind, und erfindet einen eigenen Festtermin: einen Monat später als das Laubhüttenfest in Jerusalem.
+> Gott hatte Jerobeam ein beständiges Haus versprochen, wenn er treu bleibt (Kapitel 11,38). Aber aus Angst um seine Macht verlässt er Gott. Von nun an wird es immer wieder heißen: Ein König von Israel „ging in den Sünden Jerobeams“. Diese Kälber werden die Geschichte des Nordreichs prägen.
+> Penuël liegt östlich des Jordan. Dort hatte Jakob mit Gott gerungen (1. Mose 32,31).
