@@ -1,0 +1,644 @@
+{
+ "nr": 10,
+ "code": "2SA",
+ "kuerzel": "2Sam",
+ "name": "2. Samuel",
+ "name_englisch": "2 Samuel",
+ "testament": "altes-testament",
+ "kapitel": 24,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "„Wie sind die Helden gefallen!“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das 2. Buch Samuel?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das 2. Buch Samuel ist die Fortsetzung des 1. Buches Samuel. Ursprünglich waren beide ein einziges Buch.\nEs erzählt die Geschichte von König David, von seinem Anfang als König bis kurz vor seinem Tod. Das sind etwa 40 Jahre.\nDas Buch hat zwei große Teile:\nIm ersten Teil (Kapitel 1–10) steigt David auf. Er wird König, zuerst über Juda, dann über ganz Israel. Er erobert Jerusalem und macht es zur Hauptstadt. Er holt die Bundeslade dorthin. Gott gibt ihm ein großes Versprechen: Sein Königshaus soll für immer bestehen.\nIm zweiten Teil (Kapitel 11–24) geht es abwärts. David begeht eine schwere Schuld mit Batseba und ihrem Mann Uria. Danach kommen Unglück, Gewalt und Streit in seine eigene Familie. Sein Sohn Absalom erhebt sich gegen ihn.\nDas Buch ist sehr ehrlich. Es zeigt David nicht als fehlerlosen Helden. Es zeigt einen Menschen, der Gott liebt, aber auch schwer sündigt. Und es zeigt, wie David Reue zeigt und Gott ihm vergibt, auch wenn die Folgen bleiben.\nDas Versprechen Gottes an David (Kapitel 7) ist eines der wichtigsten Kapitel der ganzen Bibel. Juden erwarten den Messias als Nachkommen Davids. Christen glauben, dass Jesus dieser „Sohn Davids“ ist.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Ein Bote bringt die Nachricht",
+     "vers_von": 1,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Nach dem Tod Sauls, als David vom Sieg über die Amalekiter zurückgekehrt war\nund David zwei Tage in Ziklag geblieben war,",
+       "englisch_web": "After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "am dritten Tag, schau, da kam ein Mann aus dem Lager von Saul.\nSeine Kleider waren zerrissen, und er hatte Erde auf dem Kopf.\nAls er zu David kam, fiel er zur Erde und erwies ihm Ehre.",
+       "englisch_web": "on the third day, behold, a man came out of the camp from Saul, with his clothes torn and earth on his head. When he came to David, he fell to the earth and showed respect."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "David sagte zu ihm: „Woher kommst du?“\nEr sagte zu ihm: „Ich bin aus dem Lager Israels entkommen.“",
+       "englisch_web": "David said to him, “Where do you come from?” He said to him, “I have escaped out of the camp of Israel.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "David sagte zu ihm: „Wie ist es ausgegangen? Bitte erzähl es mir.“\nEr antwortete:\n„Das Volk ist aus dem Kampf geflohen.\nUnd viele vom Volk sind gefallen und tot.\nAuch Saul und sein Sohn Jonatan sind tot.“",
+       "englisch_web": "David said to him, “How did it go? Please tell me.” He answered, “The people have fled from the battle, and many of the people also have fallen and are dead. Saul and Jonathan his son are dead also.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "David sagte zu dem jungen Mann, der es ihm erzählte:\n„Woher weißt du, dass Saul und sein Sohn Jonatan tot sind?“",
+       "englisch_web": "David said to the young man who told him, “How do you know that Saul and Jonathan his son are dead?”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Der junge Mann, der es ihm erzählte, sagte:\n„Ich kam zufällig auf das Gebirge Gilboa.\nUnd schau, da stützte sich Saul auf seinen Speer.\nUnd schau, die Wagen und die Reiter waren dicht hinter ihm.",
+       "englisch_web": "The young man who told him said, “As I happened by chance on Mount Gilboa, behold, Saul was leaning on his spear; and behold, the chariots and the horsemen followed close behind him."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Als er sich umsah, sah er mich und rief mich.\nIch antwortete: ‚Hier bin ich.‘",
+       "englisch_web": "When he looked behind him, he saw me and called to me. I answered, ‘Here I am.’"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er sagte zu mir: ‚Wer bist du?‘\nIch antwortete ihm: ‚Ich bin ein Amalekiter.‘",
+       "englisch_web": "He said to me, ‘Who are you?’ I answered him, ‘I am an Amalekite.’"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er sagte zu mir:\n‚Stell dich bitte neben mich und töte mich.\nDenn die Todesangst hat mich gepackt, weil noch Leben in mir ist.‘",
+       "englisch_web": "He said to me, ‘Please stand beside me, and kill me, for anguish has taken hold of me because my life lingers in me.’"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Da stellte ich mich neben ihn und tötete ihn.\nDenn ich wusste sicher, dass er nicht mehr leben konnte, nachdem er gefallen war.\nIch nahm die Krone, die auf seinem Kopf war,\nund den Armreif an seinem Arm\nund habe sie hierher zu meinem Herrn gebracht.“",
+       "englisch_web": "So I stood beside him and killed him, because I was sure that he could not live after he had fallen. I took the crown that was on his head and the bracelet that was on his arm, and have brought them here to my lord.”"
+      }
+     ],
+     "erklaerung": "Der Mann erzählt eine andere Geschichte als 1. Samuel 31. Dort steht, dass Saul sich selbst in sein Schwert stürzte. Hier sagt der Amalekiter, er habe Saul getötet.\nWahrscheinlich lügt der Mann. Er hat Sauls Leichnam auf dem Schlachtfeld gefunden, die Krone und den Armreif genommen und erfindet eine Geschichte. Er denkt: David wird sich freuen, dass sein Feind tot ist, und mich belohnen.\nAuffällig: Er ist ein Amalekiter. Saul hatte die Amalekiter nicht ganz besiegt (1. Samuel 15). Jetzt behauptet ausgerechnet ein Amalekiter, Saul getötet zu haben."
+    },
+    {
+     "ueberschrift": "David trauert und bestraft den Amalekiter",
+     "vers_von": 11,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Da fasste David seine Kleider und zerriss sie.\nUnd alle Männer, die bei ihm waren, taten dasselbe.",
+       "englisch_web": "Then David took hold of his clothes and tore them; and all the men who were with him did likewise."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie klagten, weinten und fasteten bis zum Abend\num Saul und um seinen Sohn Jonatan,\num das Volk des HERRN und um das Haus Israel,\nweil sie durch das Schwert gefallen waren.",
+       "englisch_web": "They mourned, wept, and fasted until evening for Saul and for Jonathan his son, and for the people of Yahweh, and for the house of Israel, because they had fallen by the sword."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "David sagte zu dem jungen Mann, der es ihm erzählt hatte:\n„Woher bist du?“\nEr antwortete:\n„Ich bin der Sohn eines Fremden, eines Amalekiters.“",
+       "englisch_web": "David said to the young man who told him, “Where are you from?” He answered, “I am the son of a foreigner, an Amalekite.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "David sagte zu ihm:\n„Warum hattest du keine Angst, deine Hand auszustrecken,\num den Gesalbten des HERRN zu töten?“",
+       "englisch_web": "David said to him, “Why were you not afraid to stretch out your hand to destroy Yahweh’s anointed?”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "David rief einen der jungen Männer und sagte:\n„Komm her und schlag ihn nieder!“\nEr schlug ihn, und er starb.",
+       "englisch_web": "David called one of the young men and said, “Go near, and cut him down!” He struck him so that he died."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "David sagte zu ihm:\n„Dein Blut komme auf deinen Kopf.\nDenn dein eigener Mund hat gegen dich ausgesagt,\nals du sagtest: ‚Ich habe den Gesalbten des HERRN getötet.‘“",
+       "englisch_web": "David said to him, “Your blood be on your head, for your mouth has testified against you, saying, ‘I have slain Yahweh’s anointed.’”"
+      }
+     ],
+     "erklaerung": "David freut sich nicht über Sauls Tod. Er trauert, zusammen mit allen seinen Männern. Saul war sein Verfolger, aber er war auch der König Israels. Und Jonatan war sein bester Freund.\nDer Amalekiter hat sich verrechnet. Statt einer Belohnung bekommt er den Tod. David hatte selbst zweimal darauf verzichtet, Saul zu töten, weil er „der Gesalbte des HERRN“ war. Wer sich rühmt, den König getötet zu haben, verurteilt sich selbst.\nEs war ein „Fremder“, der im Land lebte. Er hätte die Gesetze Israels kennen können.\nFür uns heute ist diese schnelle Hinrichtung ohne Gerichtsverfahren schwer zu verstehen. Sie gehört zu einer Zeit mit anderen Rechtsvorstellungen. Sie ist kein Vorbild für heute."
+    },
+    {
+     "ueberschrift": "Das Bogenlied: Davids Klage um Saul und Jonatan",
+     "vers_von": 17,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "David sang dieses Klagelied über Saul und über seinen Sohn Jonatan.",
+       "englisch_web": "David lamented with this lamentation over Saul and over Jonathan his son"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Und er befahl, die Leute von Juda das Lied vom Bogen zu lehren.\nSchau, es ist im Buch des Aufrechten aufgeschrieben:",
+       "englisch_web": "(and he commanded them to teach the children of Judah the song of the bow; behold, it is written in the book of Jashar):"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "„Deine Zierde, Israel, liegt erschlagen auf deinen Höhen!\nWie sind die Helden gefallen!",
+       "englisch_web": "“Your glory, Israel, was slain on your high places! How the mighty have fallen!"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Erzählt es nicht in Gat.\nVerkündet es nicht auf den Straßen von Aschkelon.\nSonst freuen sich die Töchter der Philister,\nsonst jubeln die Töchter der Unbeschnittenen.",
+       "englisch_web": "Don’t tell it in Gath. Don’t publish it in the streets of Ashkelon, lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ihr Berge von Gilboa,\nkein Tau und kein Regen soll auf euch fallen,\nund keine Felder mit Gaben für das Opfer.\nDenn dort wurde der Schild der Helden besudelt und weggeworfen,\nder Schild Sauls, nicht mit Öl gesalbt.",
+       "englisch_web": "You mountains of Gilboa, let there be no dew or rain on you, and no fields of offerings; for there the shield of the mighty was defiled and cast away, the shield of Saul was not anointed with oil."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Vom Blut der Erschlagenen, vom Fett der Helden\nwich der Bogen Jonatans nicht zurück.\nDas Schwert Sauls kehrte nicht leer zurück.",
+       "englisch_web": "From the blood of the slain, from the fat of the mighty, Jonathan’s bow didn’t turn back. Saul’s sword didn’t return empty."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Saul und Jonatan,\ngeliebt und lieblich in ihrem Leben,\nin ihrem Tod waren sie nicht getrennt.\nSie waren schneller als Adler,\nsie waren stärker als Löwen.",
+       "englisch_web": "Saul and Jonathan were lovely and pleasant in their lives. In their death, they were not divided. They were swifter than eagles. They were stronger than lions."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Ihr Töchter Israels, weint über Saul,\nder euch prächtig in Scharlach kleidete,\nder goldenen Schmuck auf eure Kleider steckte.",
+       "englisch_web": "You daughters of Israel, weep over Saul, who clothed you delicately in scarlet, who put ornaments of gold on your clothing."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Wie sind die Helden gefallen mitten im Kampf!\nJonatan liegt erschlagen auf deinen Höhen.",
+       "englisch_web": "How the mighty have fallen in the middle of the battle! Jonathan was slain on your high places."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Es ist mir leid um dich, mein Bruder Jonatan.\nDu warst mir sehr lieb.\nDeine Liebe zu mir war wunderbarer als die Liebe der Frauen.",
+       "englisch_web": "I am distressed for you, my brother Jonathan. You have been very pleasant to me. Your love to me was wonderful, surpassing the love of women."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Wie sind die Helden gefallen,\nund die Waffen des Krieges sind verloren!“",
+       "englisch_web": "How the mighty have fallen, and the weapons of war have perished!”"
+      }
+     ],
+     "erklaerung": "Dieses Klagelied gehört zu den schönsten Gedichten der Bibel. David war auch ein großer Dichter.\nEr sagt kein böses Wort über Saul. Er erinnert nur an das Gute: Saul war ein tapferer Krieger, der Israel Wohlstand brachte. Das ist edel: Über einen Toten, der einem Böses getan hat, gut zu reden.\n„Das Buch des Aufrechten“ war eine alte Sammlung von Liedern, die heute verloren ist. Es wird auch in Josua 10,13 erwähnt.\n„Erzählt es nicht in Gat“: Die Feinde sollen sich nicht freuen. Dieser Satz wurde später ein Sprichwort.\nDer Schild wurde mit Öl eingerieben, damit das Leder geschmeidig blieb. Sauls Schild liegt jetzt weggeworfen und ungepflegt da. Das hebräische Wort für „gesalbt“ erinnert auch daran, dass Saul selbst der Gesalbte war.\nVers 26 handelt von Jonatan: „Deine Liebe zu mir war wunderbarer als die Liebe der Frauen.“ David sagt damit: Unsere Freundschaft war das Tiefste und Treueste, was ich je erlebt habe. Manche Leser heute fragen, ob mehr dahinter steckte. Die meisten jüdischen und christlichen Ausleger verstehen es als Ausdruck einer einzigartigen, selbstlosen Freundschaft. Jonatan hatte für David auf seinen eigenen Thron verzichtet.\n„Wie sind die Helden gefallen!“ steht dreimal im Lied, am Anfang, in der Mitte und am Ende. So wird der Schmerz immer wieder hörbar."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "David wird König über Juda",
+   "abschnitte": [
+    {
+     "ueberschrift": "David in Hebron",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Danach befragte David den HERRN und sagte:\n„Soll ich in eine der Städte Judas hinaufziehen?“\nDer HERR sagte zu ihm: „Zieh hinauf.“\nDavid sagte: „Wohin soll ich hinaufziehen?“\nEr sagte: „Nach Hebron.“",
+       "englisch_web": "After this, David inquired of Yahweh, saying, “Shall I go up into any of the cities of Judah?” Yahweh said to him, “Go up.” David said, “Where shall I go up?” He said, “To Hebron.”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da zog David dorthin hinauf,\nmit seinen beiden Frauen,\nAhinoam aus Jesreel und Abigajil, der Frau Nabals aus Karmel.",
+       "englisch_web": "So David went up there with his two wives, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "David brachte auch seine Männer hinauf, die bei ihm waren,\njeden mit seiner Familie.\nUnd sie wohnten in den Städten bei Hebron.",
+       "englisch_web": "David brought up his men who were with him, every man with his household. They lived in the cities of Hebron."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Männer von Juda kamen,\nund dort salbten sie David zum König über das Haus Juda.\nMan erzählte David:\n„Die Männer von Jabesch in Gilead haben Saul begraben.“",
+       "englisch_web": "The men of Judah came, and there they anointed David king over the house of Judah. They told David, “The men of Jabesh Gilead were those who buried Saul.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da schickte David Boten zu den Männern von Jabesch in Gilead\nund ließ ihnen sagen:\n„Gesegnet seid ihr vom HERRN,\ndass ihr diese Güte an eurem Herrn Saul erwiesen und ihn begraben habt.",
+       "englisch_web": "David sent messengers to the men of Jabesh Gilead, and said to them, “Blessed are you by Yahweh, that you have shown this kindness to your lord, even to Saul, and have buried him."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Jetzt möge der HERR euch Güte und Treue erweisen.\nAuch ich will euch Gutes tun, weil ihr das getan habt.",
+       "englisch_web": "Now may Yahweh show loving kindness and truth to you. I also will reward you for this kindness, because you have done this thing."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Darum seid jetzt stark und tapfer.\nDenn euer Herr Saul ist tot,\nund das Haus Juda hat mich zum König über sich gesalbt.“",
+       "englisch_web": "Now therefore let your hands be strong, and be valiant; for Saul your lord is dead, and also the house of Judah have anointed me king over them.”"
+      }
+     ],
+     "erklaerung": "Bevor David etwas tut, fragt er Gott. So hat er es seit Kapitel 23 im 1. Samuelbuch meistens getan.\nHebron war eine alte, wichtige Stadt in Juda. Dort waren Abraham, Isaak und Jakob begraben (1. Mose 23 und 49,29–31).\nDavid wird zum zweiten Mal gesalbt, diesmal öffentlich von den Männern seines Stammes. Das erste Mal hatte Samuel ihn heimlich gesalbt (1. Samuel 16).\nDavid lobt die Männer von Jabesch für ihre Treue zu Saul. Er will nicht nur König von Juda sein, sondern auch die Anhänger Sauls gewinnen. Seine Botschaft ist freundlich, aber auch klug."
+    },
+    {
+     "ueberschrift": "Isch-Boschet wird König über Israel",
+     "vers_von": 8,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Abner, der Sohn von Ner, der Heerführer Sauls,\nhatte Isch-Boschet, den Sohn Sauls, genommen\nund ihn nach Mahanajim hinübergebracht.",
+       "englisch_web": "Now Abner the son of Ner, captain of Saul’s army, had taken Ishbosheth the son of Saul and brought him over to Mahanaim."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er machte ihn zum König über Gilead, über die Aschuriter,\nüber Jesreel, über Efraim, über Benjamin\nund über ganz Israel.",
+       "englisch_web": "He made him king over Gilead, over the Ashurites, over Jezreel, over Ephraim, over Benjamin, and over all Israel."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Isch-Boschet, der Sohn Sauls, war 40 Jahre alt,\nals er anfing, über Israel zu regieren,\nund er regierte zwei Jahre.\nAber das Haus Juda folgte David.",
+       "englisch_web": "Ishbosheth, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Die Zeit, in der David in Hebron König über das Haus Juda war,\nwar sieben Jahre und sechs Monate.",
+       "englisch_web": "The time that David was king in Hebron over the house of Judah was seven years and six months."
+      }
+     ],
+     "erklaerung": "Jetzt gibt es zwei Könige: David im Süden über Juda und Isch-Boschet im Norden über die anderen Stämme. Das Land ist geteilt.\nIsch-Boschet ist ein Sohn Sauls, aber der eigentliche Machthaber ist Abner, der Heerführer.\nDer Name „Isch-Boschet“ heißt „Mann der Schande“. So hieß er sicher nicht wirklich. In 1. Chronik 8,33 heißt er „Esch-Baal“, das heißt „Mann des Baal“ oder „Mann des Herrn“. Das Wort „Baal“ bedeutete ursprünglich einfach „Herr“. Später wollten die Schreiber den Namen des fremden Gottes Baal nicht schreiben und setzten dafür „Boschet“, „Schande“, ein.\nMahanajim lag östlich des Jordan. Wahrscheinlich war der Westen nach der Niederlage am Gilboa noch zu sehr unter dem Einfluss der Philister.\nDie Zahlen sind nicht ganz leicht zu verbinden: Isch-Boschet regiert zwei Jahre, David in Hebron siebeneinhalb Jahre. Vielleicht dauerte es eine Weile, bis Isch-Boschet wirklich König wurde, oder bis David nach seinem Tod ganz Israel bekam."
+    },
+    {
+     "ueberschrift": "Der Kampf am Teich von Gibeon",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Abner, der Sohn von Ner, und die Knechte von Isch-Boschet, dem Sohn Sauls,\nzogen aus Mahanajim nach Gibeon.",
+       "englisch_web": "Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Auch Joab, der Sohn der Zeruja, und die Knechte Davids zogen aus.\nSie trafen sich beim Teich von Gibeon.\nSie setzten sich, die einen auf der einen Seite des Teiches\nund die anderen auf der anderen Seite des Teiches.",
+       "englisch_web": "Joab the son of Zeruiah and David’s servants went out, and met them by the pool of Gibeon; and they sat down, the one on the one side of the pool and the other on the other side of the pool."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Abner sagte zu Joab:\n„Lass doch die jungen Männer aufstehen und vor uns einen Wettkampf machen!“\nJoab sagte: „Sie sollen aufstehen!“",
+       "englisch_web": "Abner said to Joab, “Please let the young men arise and compete before us!” Joab said, “Let them arise!”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da standen sie auf und gingen abgezählt hinüber:\nzwölf für Benjamin und für Isch-Boschet, den Sohn Sauls,\nund zwölf von den Knechten Davids.",
+       "englisch_web": "Then they arose and went over by number: twelve for Benjamin and for Ishbosheth the son of Saul, and twelve of David’s servants."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Jeder packte seinen Gegner am Kopf\nund stieß ihm sein Schwert in die Seite.\nSo fielen sie alle zusammen.\nDarum nannte man diesen Ort in Gibeon Helkat-Hazzurim.",
+       "englisch_web": "They each caught his opponent by the head and thrust his sword in his fellow’s side; so they fell down together. Therefore that place in Gibeon was called Helkath Hazzurim."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der Kampf wurde an diesem Tag sehr heftig.\nUnd Abner und die Männer Israels wurden von den Knechten Davids geschlagen.",
+       "englisch_web": "The battle was very severe that day; and Abner was beaten, and the men of Israel, before David’s servants."
+      }
+     ],
+     "erklaerung": "Gibeon lag etwa 10 Kilometer nordwestlich von Jerusalem. Archäologen haben dort einen großen, in den Felsen gehauenen Wasserschacht gefunden.\nJoab ist Davids Neffe und sein Heerführer. Er wird in den nächsten Kapiteln eine große und oft dunkle Rolle spielen.\nDer „Wettkampf“ sollte vielleicht den Streit mit wenigen Männern entscheiden, wie damals bei David und Goliat. Aber er endet tödlich für alle 24 Männer. Und danach bricht doch eine große Schlacht aus.\n„Helkat-Hazzurim“ heißt wohl „Feld der Schwerter“ oder „Feld der Klingen“.\nIsrael kämpft gegen Israel. Brüder töten Brüder. Das ist die traurige Folge der Spaltung."
+    },
+    {
+     "ueberschrift": "Abner tötet Asahel",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Dort waren die drei Söhne der Zeruja: Joab, Abischai und Asahel.\nAsahel war schnell auf den Füßen wie eine Gazelle auf dem Feld.",
+       "englisch_web": "The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Asahel was as light of foot as a wild gazelle."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Asahel jagte Abner nach.\nEr bog weder nach rechts noch nach links ab, wenn er Abner folgte.",
+       "englisch_web": "Asahel pursued Abner. He didn’t turn to the right hand or to the left from following Abner."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da sah sich Abner um und sagte:\n„Bist du es, Asahel?“\nEr antwortete: „Ich bin es.“",
+       "englisch_web": "Then Abner looked behind him and said, “Is that you, Asahel?” He answered, “It is.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Abner sagte zu ihm:\n„Bieg nach rechts oder nach links ab,\npack dir einen von den jungen Männern und nimm dir seine Rüstung.“\nAber Asahel wollte nicht von ihm ablassen.",
+       "englisch_web": "Abner said to him, “Turn away to your right hand or to your left, and grab one of the young men, and take his armor.” But Asahel would not turn away from following him."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Abner sagte noch einmal zu Asahel:\n„Hör auf, mir zu folgen.\nWarum soll ich dich zu Boden schlagen?\nWie könnte ich dann deinem Bruder Joab ins Gesicht sehen?“",
+       "englisch_web": "Abner said again to Asahel, “Turn away from following me. Why should I strike you to the ground? How then could I look Joab your brother in the face?”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Aber er weigerte sich, abzulassen.\nDa stieß Abner ihn mit dem hinteren Ende des Speeres in den Bauch,\nsodass der Speer hinten wieder herauskam.\nEr fiel dort hin und starb an derselben Stelle.\nUnd alle, die an die Stelle kamen, wo Asahel gefallen und gestorben war, blieben stehen.",
+       "englisch_web": "However, he refused to turn away. Therefore Abner with the back end of the spear struck him in the body, so that the spear came out behind him; and he fell down there and died in the same place. As many as came to the place where Asahel fell down and died stood still."
+      }
+     ],
+     "erklaerung": "Asahel ist jung, schnell und ehrgeizig. Er will den berühmten Abner besiegen.\nAbner will ihn nicht töten. Er warnt ihn zweimal. Er weiß: Wenn ich Joabs Bruder töte, wird Joab sich rächen. Das war damals die Pflicht des „Bluträchers“.\nAm Ende tötet Abner Asahel doch, mit dem stumpfen Ende des Speeres, vielleicht weil er ihn eigentlich nur abwehren wollte. Aber der Stoß ist tödlich.\nHier beginnt eine Blutfehde, die schlimme Folgen hat (Kapitel 3,27)."
+    },
+    {
+     "ueberschrift": "Abner bittet um Frieden",
+     "vers_von": 24,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Aber Joab und Abischai jagten Abner nach.\nDie Sonne ging unter, als sie zum Hügel Amma kamen,\nder gegenüber von Giach liegt, auf dem Weg zur Wüste von Gibeon.",
+       "englisch_web": "But Joab and Abishai pursued Abner. The sun went down when they had come to the hill of Ammah, that lies before Giah by the way of the wilderness of Gibeon."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Benjaminiter sammelten sich hinter Abner\nund wurden zu einer einzigen Schar.\nSie stellten sich auf den Gipfel eines Hügels.",
+       "englisch_web": "The children of Benjamin gathered themselves together after Abner and became one band, and stood on the top of a hill."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Da rief Abner Joab zu und sagte:\n„Soll das Schwert für immer fressen?\nWeißt du nicht, dass es am Ende bitter sein wird?\nWie lange willst du noch warten,\nbis du dem Volk sagst, dass es aufhören soll, seine Brüder zu verfolgen?“",
+       "englisch_web": "Then Abner called to Joab, and said, “Shall the sword devour forever? Don’t you know that it will be bitterness in the latter end? How long will it be then, before you ask the people to return from following their brothers?”"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Joab sagte:\n„So wahr Gott lebt:\nWenn du nicht geredet hättest,\ndann wäre das Volk erst am Morgen abgezogen,\nund jeder hätte bis dahin seinen Bruder verfolgt.“",
+       "englisch_web": "Joab said, “As God lives, if you had not spoken, surely then in the morning the people would have gone away, and not each followed his brother.”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Da blies Joab das Horn.\nUnd das ganze Volk blieb stehen.\nSie verfolgten Israel nicht mehr\nund kämpften nicht mehr.",
+       "englisch_web": "So Joab blew the trumpet; and all the people stood still and pursued Israel no more, and they fought no more."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Abner und seine Männer zogen die ganze Nacht durch die Araba.\nSie gingen über den Jordan,\nzogen durch das ganze Bitron\nund kamen nach Mahanajim.",
+       "englisch_web": "Abner and his men went all that night through the Arabah; and they passed over the Jordan, and went through all Bithron, and came to Mahanaim."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Joab kehrte von der Verfolgung Abners zurück.\nAls er das ganze Volk versammelt hatte,\nfehlten von Davids Knechten 19 Mann und Asahel.",
+       "englisch_web": "Joab returned from following Abner; and when he had gathered all the people together, nineteen men of David’s and Asahel were missing."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Aber die Knechte Davids hatten von Benjamin und von Abners Männern\n360 Mann erschlagen.",
+       "englisch_web": "But David’s servants had struck Benjamin and Abner’s men so that three hundred sixty men died."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Sie nahmen Asahel und begruben ihn im Grab seines Vaters in Betlehem.\nJoab und seine Männer zogen die ganze Nacht,\nund der Tag brach an, als sie in Hebron waren.",
+       "englisch_web": "They took up Asahel and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron."
+      }
+     ],
+     "erklaerung": "Abner sagt einen wichtigen Satz: „Soll das Schwert für immer fressen? Am Ende wird es bitter sein.“ Krieg zwischen Brüdern hat keinen Sieger. Joab hört darauf und beendet den Kampf.\nDie Verluste: David verliert 20 Männer, mit Asahel. Abners Seite verliert 360. Davids Seite ist viel stärker.\nDie Araba ist die Senke des Jordantals. „Bitron“ ist wohl eine Schlucht oder eine Gegend östlich des Jordan.\nAsahel wird in Betlehem begraben, der Heimatstadt von David und seiner Familie."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Abner wechselt die Seite und wird ermordet",
+   "abschnitte": [
+    {
+     "ueberschrift": "David wird stärker",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Es gab einen langen Krieg zwischen dem Haus Sauls und dem Haus Davids.\nDavid wurde immer stärker,\naber das Haus Sauls wurde immer schwächer.",
+       "englisch_web": "Now there was a long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "In Hebron wurden David Söhne geboren.\nSein Erstgeborener war Amnon, von Ahinoam aus Jesreel.",
+       "englisch_web": "Sons were born to David in Hebron. His firstborn was Amnon, of Ahinoam the Jezreelitess;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sein zweiter war Kilab, von Abigajil, der Frau Nabals aus Karmel.\nDer dritte war Absalom, der Sohn von Maacha, der Tochter von Talmai, dem König von Geschur.",
+       "englisch_web": "and his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der vierte war Adonija, der Sohn von Haggit.\nDer fünfte war Schefatja, der Sohn von Abital.",
+       "englisch_web": "and the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Der sechste war Jitream, von Egla, der Frau Davids.\nDiese wurden David in Hebron geboren.",
+       "englisch_web": "and the sixth, Ithream, of Eglah, David’s wife. These were born to David in Hebron."
+      }
+     ],
+     "erklaerung": "David hat jetzt sechs Frauen und sechs Söhne. Mehrere Frauen zu haben war damals für Könige üblich, oft aus politischen Gründen. Maacha war zum Beispiel die Tochter eines Königs. So schloss David Bündnisse.\nAber das Gesetz warnte den König davor, viele Frauen zu haben (5. Mose 17,17). Diese Liste ist wie eine dunkle Vorschau: Amnon, Absalom und Adonija werden später für großes Unglück in Davids Familie sorgen.\nKilab heißt in 1. Chronik 3,1 „Daniel“. Von ihm hören wir sonst nichts mehr."
+    },
+    {
+     "ueberschrift": "Abner und Isch-Boschet streiten",
+     "vers_von": 6,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Während Krieg war zwischen dem Haus Sauls und dem Haus Davids,\nmachte Abner sich im Haus Sauls immer mächtiger.",
+       "englisch_web": "While there was war between Saul’s house and David’s house, Abner made himself strong in Saul’s house."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Saul hatte eine Nebenfrau gehabt, deren Name war Rizpa, die Tochter von Aja.\nUnd Isch-Boschet sagte zu Abner:\n„Warum bist du zur Nebenfrau meines Vaters gegangen?“",
+       "englisch_web": "Now Saul had a concubine, whose name was Rizpah, the daughter of Aiah; and Ishbosheth said to Abner, “Why have you gone in to my father’s concubine?”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Da wurde Abner sehr zornig über die Worte von Isch-Boschet und sagte:\n„Bin ich ein Hundekopf, der zu Juda gehört?\nHeute erweise ich dem Haus deines Vaters Saul Güte,\nseinen Brüdern und seinen Freunden.\nIch habe dich nicht in die Hand Davids ausgeliefert.\nUnd du wirfst mir heute eine Schuld wegen dieser Frau vor!",
+       "englisch_web": "Then Abner was very angry about Ishbosheth’s words, and said, “Am I a dog’s head that belongs to Judah? Today I show kindness to your father Saul’s house, to his brothers, and to his friends, and have not delivered you into the hand of David; and yet you charge me today with a fault concerning this woman!"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Gott tue Abner dies und noch mehr,\nwenn ich für David nicht genau das tue, was der HERR ihm geschworen hat:",
+       "englisch_web": "God do so to Abner, and more also, if, as Yahweh has sworn to David, I don’t do even so to him:"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "das Königtum vom Haus Sauls wegzunehmen\nund den Thron Davids über Israel und über Juda aufzurichten,\nvon Dan bis Beerscheba.“",
+       "englisch_web": "to transfer the kingdom from Saul’s house, and to set up David’s throne over Israel and over Judah, from Dan even to Beersheba.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er konnte Abner kein Wort mehr erwidern,\nweil er Angst vor ihm hatte.",
+       "englisch_web": "He could not answer Abner another word, because he was afraid of him."
+      }
+     ],
+     "erklaerung": "Damals galt: Wer mit der Frau eines verstorbenen Königs schlief, erhob damit Anspruch auf seinen Thron. Darum ist Isch-Boschet so beunruhigt. Er wirft Abner vor, selbst König werden zu wollen.\nOb Abner es wirklich getan hat, sagt der Text nicht. Rizpa wird hier wie ein Gegenstand im Machtkampf der Männer behandelt. Später zeigt sie große Treue und Würde (Kapitel 21,10).\nAbner ist beleidigt. „Ein Hundekopf“ ist ein Schimpfwort für jemanden, der nichts wert ist.\nInteressant: Abner weiß, dass Gott David das Königtum versprochen hat. Er hat trotzdem bisher gegen David gekämpft. Jetzt wechselt er die Seite, aus gekränktem Stolz."
+    },
+    {
+     "ueberschrift": "Abner verhandelt mit David",
+     "vers_von": 12,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Abner schickte Boten zu David und ließ ihm in seinem Namen sagen:\n„Wem gehört das Land?“\nUnd weiter:\n„Schließ einen Bund mit mir.\nUnd schau, meine Hand wird mit dir sein,\num ganz Israel zu dir herüberzubringen.“",
+       "englisch_web": "Abner sent messengers to David on his behalf, saying, “Whose is the land?” and saying, “Make your alliance with me, and behold, my hand will be with you to bring all Israel around to you.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "David sagte:\n„Gut. Ich will einen Bund mit dir schließen.\nAber eins verlange ich von dir:\nDu sollst mein Gesicht nicht sehen,\nwenn du nicht zuerst Michal, die Tochter Sauls, mitbringst,\nwenn du kommst, um mein Gesicht zu sehen.“",
+       "englisch_web": "David said, “Good. I will make a treaty with you, but one thing I require of you. That is, you will not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "David schickte Boten zu Isch-Boschet, dem Sohn Sauls, und ließ ihm sagen:\n„Gib mir meine Frau Michal,\ndie mir zur Frau gegeben wurde für hundert Vorhäute von Philistern.“",
+       "englisch_web": "David sent messengers to Ishbosheth, Saul’s son, saying, “Deliver me my wife Michal, whom I was given to marry for one hundred foreskins of the Philistines.”"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da schickte Isch-Boschet hin\nund ließ sie ihrem Mann Paltiël, dem Sohn von Lajisch, wegnehmen.",
+       "englisch_web": "Ishbosheth sent and took her from her husband, Paltiel the son of Laish."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ihr Mann ging mit ihr\nund folgte ihr weinend bis nach Bahurim.\nDa sagte Abner zu ihm:\n„Geh! Kehr um!“\nUnd er kehrte um.",
+       "englisch_web": "Her husband went with her, weeping as he went, and followed her to Bahurim. Then Abner said to him, “Go! Return!” and he returned."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Abner verhandelte mit den Ältesten Israels und sagte:\n„Schon lange habt ihr gewollt, dass David König über euch wird.",
+       "englisch_web": "Abner had communication with the elders of Israel, saying, “In times past, you sought for David to be king over you."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Jetzt also tut es!\nDenn der HERR hat über David gesagt:\n‚Durch die Hand meines Knechtes David\nwill ich mein Volk Israel aus der Hand der Philister\nund aus der Hand aller seiner Feinde retten.‘“",
+       "englisch_web": "Now then do it! For Yahweh has spoken of David, saying, ‘By the hand of my servant David, I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.’”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Abner redete auch mit den Benjaminitern.\nDann ging Abner auch nach Hebron, um David alles zu sagen,\nwas Israel und dem ganzen Haus Benjamin gut erschien.",
+       "englisch_web": "Abner also spoke in the ears of Benjamin; and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel and to the whole house of Benjamin."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "So kam Abner zu David nach Hebron, und zwanzig Männer mit ihm.\nDavid machte für Abner und die Männer bei ihm ein Festmahl.",
+       "englisch_web": "So Abner came to David to Hebron, and twenty men with him. David made Abner and the men who were with him a feast."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Abner sagte zu David:\n„Ich will aufstehen und gehen\nund ganz Israel zu meinem Herrn, dem König, versammeln.\nDann sollen sie einen Bund mit dir schließen,\nund du sollst über alles regieren, was dein Herz sich wünscht.“\nDa ließ David Abner gehen,\nund er ging in Frieden.",
+       "englisch_web": "Abner said to David, “I will arise and go, and will gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your soul desires.” David sent Abner away; and he went in peace."
+      }
+     ],
+     "erklaerung": "David verlangt Michal zurück. Er hatte sie rechtmäßig geheiratet, Saul hatte sie ihm weggenommen (1. Samuel 25,44). Als Tochter Sauls stärkt sie auch Davids Anspruch auf den Thron von ganz Israel.\nHier steht „hundert Vorhäute“, wie es Saul verlangt hatte. In 1. Samuel 18,27 brachte David zweihundert.\nPaltiël liebt Michal. Er läuft weinend hinter ihr her, bis Abner ihn wegschickt. Es ist eine traurige Szene. Niemand fragt, was Michal will. Sie wird wieder zwischen Männern hin und her geschoben.\nAbner bereitet alles vor. Er redet mit den Ältesten im Norden und besonders mit dem Stamm Benjamin, Sauls eigenem Stamm. Ohne Benjamin wäre eine Einigung schwierig gewesen.\nDavid empfängt Abner freundlich, obwohl er jahrelang sein Gegner war. Dreimal betont der Text: Er ging „in Frieden“. David will Versöhnung, nicht Rache."
+    },
+    {
+     "ueberschrift": "Joab ermordet Abner",
+     "vers_von": 22,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Und schau: Die Knechte Davids und Joab kamen von einem Raubzug\nund brachten große Beute mit.\nAber Abner war nicht mehr bei David in Hebron,\ndenn er hatte ihn gehen lassen, und er war in Frieden gegangen.",
+       "englisch_web": "Behold, David’s servants and Joab came from a raid and brought in a great plunder with them; but Abner was not with David in Hebron, for he had sent him away, and he had gone in peace."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Als Joab und das ganze Heer, das bei ihm war, ankamen,\nerzählte man Joab:\n„Abner, der Sohn von Ner, ist zum König gekommen.\nUnd er hat ihn gehen lassen, und er ist in Frieden gegangen.“",
+       "englisch_web": "When Joab and all the army who was with him had come, they told Joab, “Abner the son of Ner came to the king, and he has sent him away, and he has gone in peace.”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Da kam Joab zum König und sagte:\n„Was hast du getan?\nSchau, Abner ist zu dir gekommen.\nWarum hast du ihn gehen lassen, sodass er schon weg ist?",
+       "englisch_web": "Then Joab came to the king and said, “What have you done? Behold, Abner came to you. Why is it that you have sent him away, and he is already gone?"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Du kennst doch Abner, den Sohn von Ner.\nEr ist gekommen, um dich zu täuschen\nund um dein Aus- und Einziehen zu erkunden\nund alles zu erfahren, was du tust.“",
+       "englisch_web": "You know Abner the son of Ner. He came to deceive you, and to know your going out and your coming in, and to know all that you do.”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Als Joab von David weggegangen war,\nschickte er Boten hinter Abner her.\nSie holten ihn vom Brunnen Sira zurück.\nAber David wusste es nicht.",
+       "englisch_web": "When Joab had come out from David, he sent messengers after Abner, and they brought him back from the well of Sirah; but David didn’t know it."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Als Abner nach Hebron zurückgekommen war,\nnahm Joab ihn beiseite, mitten ins Tor,\num im Stillen mit ihm zu reden.\nUnd dort stach er ihn in den Bauch, sodass er starb,\nwegen des Blutes seines Bruders Asahel.",
+       "englisch_web": "When Abner had returned to Hebron, Joab took him aside into the middle of the gate to speak with him quietly, and struck him there in the body, so that he died for the blood of Asahel his brother."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Als David es danach hörte, sagte er:\n„Ich und mein Königreich sind vor dem HERRN für immer unschuldig\nam Blut Abners, des Sohnes von Ner.",
+       "englisch_web": "Afterward, when David heard it, he said, “I and my kingdom are guiltless before Yahweh forever of the blood of Abner the son of Ner."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Es soll auf den Kopf Joabs fallen und auf das ganze Haus seines Vaters.\nIm Haus Joabs soll es nie an jemandem fehlen, der einen Ausfluss hat oder aussätzig ist,\nder sich auf einen Stock stützen muss, der durch das Schwert fällt\noder dem es an Brot fehlt.“",
+       "englisch_web": "Let it fall on the head of Joab and on all his father’s house. Let there not fail from the house of Joab one who has a discharge, or who is a leper, or who leans on a staff, or who falls by the sword, or who lacks bread.”"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "So töteten Joab und sein Bruder Abischai Abner,\nweil er ihren Bruder Asahel in Gibeon im Kampf getötet hatte.",
+       "englisch_web": "So Joab and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle."
+      }
+     ],
+     "erklaerung": "Joab ist wütend. Er sagt, Abner sei ein Spion. Aber seine wahren Gründe sind andere: Er will Rache für seinen Bruder Asahel. Und er hat vielleicht Angst, dass Abner ihm seinen Platz als Heerführer wegnimmt.\nJoab holt Abner heimlich zurück und ermordet ihn im Tor von Hebron. Das ist ein schweres Verbrechen. Hebron war eine Zufluchtsstadt (Josua 20,7), in der niemand ohne Gericht getötet werden durfte. Und Asahel war im Kampf gestorben, nicht durch Mord. Abner hatte ihn sogar gewarnt.\nDavid verflucht Joab und seine Familie. „Ausfluss“ und „Aussatz“ waren Krankheiten, die unrein machten. „Sich auf einen Stock stützen“ meint vielleicht Lahmheit oder Schwäche.\nDavid erklärt öffentlich: Ich habe damit nichts zu tun. Das war wichtig, denn sonst hätten die Nordstämme gedacht, David habe Abner in eine Falle gelockt."
+    },
+    {
+     "ueberschrift": "David trauert um Abner",
+     "vers_von": 31,
+     "vers_bis": 39,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 31,
+       "leichte_sprache": "David sagte zu Joab und zu allem Volk, das bei ihm war:\n„Zerreißt eure Kleider,\nzieht Säcke an\nund trauert vor Abner her.“\nUnd der König David ging hinter der Bahre her.",
+       "englisch_web": "David said to Joab and to all the people who were with him, “Tear your clothes, and clothe yourselves with sackcloth, and mourn in front of Abner.” King David followed the bier."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Sie begruben Abner in Hebron.\nUnd der König erhob seine Stimme und weinte am Grab Abners.\nUnd das ganze Volk weinte.",
+       "englisch_web": "They buried Abner in Hebron; and the king lifted up his voice and wept at Abner’s grave; and all the people wept."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Der König sang ein Klagelied über Abner und sagte:\n„Musste Abner sterben, wie ein Tor stirbt?",
+       "englisch_web": "The king lamented for Abner, and said, “Should Abner die as a fool dies?"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Deine Hände waren nicht gebunden,\nund deine Füße waren nicht in Fesseln gelegt.\nWie man vor Verbrechern fällt, so bist du gefallen.“\nUnd das ganze Volk weinte noch einmal über ihn.",
+       "englisch_web": "Your hands weren’t bound, and your feet weren’t put into fetters. As a man falls before the children of iniquity, so you fell.” All the people wept again over him."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Das ganze Volk kam, um David zu drängen, noch bei Tag Brot zu essen.\nAber David schwor und sagte:\n„Gott tue mir dies und noch mehr,\nwenn ich Brot oder irgendetwas anderes esse, bevor die Sonne untergeht.“",
+       "englisch_web": "All the people came to urge David to eat bread while it was yet day; but David swore, saying, “God do so to me, and more also, if I taste bread or anything else, until the sun goes down.”"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Das ganze Volk bemerkte es,\nund es gefiel ihnen,\nso wie alles, was der König tat, dem ganzen Volk gefiel.",
+       "englisch_web": "All the people took notice of it, and it pleased them, as whatever the king did pleased all the people."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "So erkannte das ganze Volk und ganz Israel an diesem Tag,\ndass es nicht vom König ausgegangen war, Abner, den Sohn von Ner, zu töten.",
+       "englisch_web": "So all the people and all Israel understood that day that it was not of the king to kill Abner the son of Ner."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Der König sagte zu seinen Knechten:\n„Wisst ihr nicht, dass heute ein Fürst und ein großer Mann in Israel gefallen ist?",
+       "englisch_web": "The king said to his servants, “Don’t you know that a prince and a great man has fallen today in Israel?"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Ich bin heute schwach, obwohl ich zum König gesalbt bin.\nDiese Männer, die Söhne der Zeruja, sind zu hart für mich.\nDer HERR soll dem, der Böses tut, nach seiner Bosheit vergelten.“",
+       "englisch_web": "I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May Yahweh reward the evildoer according to his wickedness.”"
+      }
+     ],
+     "erklaerung": "David zwingt sogar Joab, um Abner zu trauern. Er selbst geht hinter dem Sarg her, weint und fastet.\nSein kurzes Klagelied sagt: Abner war kein Verbrecher, der gefesselt hingerichtet wurde. Er war frei und ahnungslos. Er wurde hinterhältig ermordet.\nDas Volk sieht Davids Trauer und glaubt ihm. David gewinnt dadurch das Vertrauen auch im Norden.\nAber David gibt zu: Ich bin zu schwach gegen Joab und Abischai. Er bestraft Joab nicht. Joab ist zu mächtig und zu wichtig für das Heer. Das ist eine Schwäche Davids, die später noch viel Leid bringen wird. Erst kurz vor seinem Tod sagt David seinem Sohn Salomo, er solle mit Joab abrechnen (1. Könige 2,5–6)."
+    }
+   ]
+  }
+ ]
+}

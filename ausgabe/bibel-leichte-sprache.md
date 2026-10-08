@@ -38237,3 +38237,500 @@ Und sie fasteten sieben Tage.
 > Echte Freundschaft ist treu und frei von Neid, wie bei Jonatan.
 > Rache gehört Gott. David verschont seinen Feind und überlässt Gott das Urteil.
 > Am Ende ist Saul tot. Der Weg für David ist frei. Das 2. Buch Samuel erzählt, wie David König wird.
+
+
+---
+
+# 2. Samuel
+
+## 2. Samuel – Kapitel 1
+#### „Wie sind die Helden gefallen!“
+
+---
+
+### Bevor es losgeht: Was ist das 2. Buch Samuel?
+
+Das 2. Buch Samuel ist die Fortsetzung des 1. Buches Samuel. Ursprünglich waren beide ein einziges Buch.
+Es erzählt die Geschichte von König David, von seinem Anfang als König bis kurz vor seinem Tod. Das sind etwa 40 Jahre.
+Das Buch hat zwei große Teile:
+Im ersten Teil (Kapitel 1–10) steigt David auf. Er wird König, zuerst über Juda, dann über ganz Israel. Er erobert Jerusalem und macht es zur Hauptstadt. Er holt die Bundeslade dorthin. Gott gibt ihm ein großes Versprechen: Sein Königshaus soll für immer bestehen.
+Im zweiten Teil (Kapitel 11–24) geht es abwärts. David begeht eine schwere Schuld mit Batseba und ihrem Mann Uria. Danach kommen Unglück, Gewalt und Streit in seine eigene Familie. Sein Sohn Absalom erhebt sich gegen ihn.
+Das Buch ist sehr ehrlich. Es zeigt David nicht als fehlerlosen Helden. Es zeigt einen Menschen, der Gott liebt, aber auch schwer sündigt. Und es zeigt, wie David Reue zeigt und Gott ihm vergibt, auch wenn die Folgen bleiben.
+Das Versprechen Gottes an David (Kapitel 7) ist eines der wichtigsten Kapitel der ganzen Bibel. Juden erwarten den Messias als Nachkommen Davids. Christen glauben, dass Jesus dieser „Sohn Davids“ ist.
+
+---
+
+### Ein Bote bringt die Nachricht (Vers 1–10)
+
+<sup>1</sup>Nach dem Tod Sauls, als David vom Sieg über die Amalekiter zurückgekehrt war
+und David zwei Tage in Ziklag geblieben war,
+<sup>2</sup>am dritten Tag, schau, da kam ein Mann aus dem Lager von Saul.
+Seine Kleider waren zerrissen, und er hatte Erde auf dem Kopf.
+Als er zu David kam, fiel er zur Erde und erwies ihm Ehre.
+<sup>3</sup>David sagte zu ihm: „Woher kommst du?“
+Er sagte zu ihm: „Ich bin aus dem Lager Israels entkommen.“
+<sup>4</sup>David sagte zu ihm: „Wie ist es ausgegangen? Bitte erzähl es mir.“
+Er antwortete:
+„Das Volk ist aus dem Kampf geflohen.
+Und viele vom Volk sind gefallen und tot.
+Auch Saul und sein Sohn Jonatan sind tot.“
+<sup>5</sup>David sagte zu dem jungen Mann, der es ihm erzählte:
+„Woher weißt du, dass Saul und sein Sohn Jonatan tot sind?“
+<sup>6</sup>Der junge Mann, der es ihm erzählte, sagte:
+„Ich kam zufällig auf das Gebirge Gilboa.
+Und schau, da stützte sich Saul auf seinen Speer.
+Und schau, die Wagen und die Reiter waren dicht hinter ihm.
+<sup>7</sup>Als er sich umsah, sah er mich und rief mich.
+Ich antwortete: ‚Hier bin ich.‘
+<sup>8</sup>Er sagte zu mir: ‚Wer bist du?‘
+Ich antwortete ihm: ‚Ich bin ein Amalekiter.‘
+<sup>9</sup>Er sagte zu mir:
+‚Stell dich bitte neben mich und töte mich.
+Denn die Todesangst hat mich gepackt, weil noch Leben in mir ist.‘
+<sup>10</sup>Da stellte ich mich neben ihn und tötete ihn.
+Denn ich wusste sicher, dass er nicht mehr leben konnte, nachdem er gefallen war.
+Ich nahm die Krone, die auf seinem Kopf war,
+und den Armreif an seinem Arm
+und habe sie hierher zu meinem Herrn gebracht.“
+
+> **Was bedeutet das?**
+> Der Mann erzählt eine andere Geschichte als 1. Samuel 31. Dort steht, dass Saul sich selbst in sein Schwert stürzte. Hier sagt der Amalekiter, er habe Saul getötet.
+> Wahrscheinlich lügt der Mann. Er hat Sauls Leichnam auf dem Schlachtfeld gefunden, die Krone und den Armreif genommen und erfindet eine Geschichte. Er denkt: David wird sich freuen, dass sein Feind tot ist, und mich belohnen.
+> Auffällig: Er ist ein Amalekiter. Saul hatte die Amalekiter nicht ganz besiegt (1. Samuel 15). Jetzt behauptet ausgerechnet ein Amalekiter, Saul getötet zu haben.
+
+---
+
+### David trauert und bestraft den Amalekiter (Vers 11–16)
+
+<sup>11</sup>Da fasste David seine Kleider und zerriss sie.
+Und alle Männer, die bei ihm waren, taten dasselbe.
+<sup>12</sup>Sie klagten, weinten und fasteten bis zum Abend
+um Saul und um seinen Sohn Jonatan,
+um das Volk des HERRN und um das Haus Israel,
+weil sie durch das Schwert gefallen waren.
+<sup>13</sup>David sagte zu dem jungen Mann, der es ihm erzählt hatte:
+„Woher bist du?“
+Er antwortete:
+„Ich bin der Sohn eines Fremden, eines Amalekiters.“
+<sup>14</sup>David sagte zu ihm:
+„Warum hattest du keine Angst, deine Hand auszustrecken,
+um den Gesalbten des HERRN zu töten?“
+<sup>15</sup>David rief einen der jungen Männer und sagte:
+„Komm her und schlag ihn nieder!“
+Er schlug ihn, und er starb.
+<sup>16</sup>David sagte zu ihm:
+„Dein Blut komme auf deinen Kopf.
+Denn dein eigener Mund hat gegen dich ausgesagt,
+als du sagtest: ‚Ich habe den Gesalbten des HERRN getötet.‘“
+
+> **Was bedeutet das?**
+> David freut sich nicht über Sauls Tod. Er trauert, zusammen mit allen seinen Männern. Saul war sein Verfolger, aber er war auch der König Israels. Und Jonatan war sein bester Freund.
+> Der Amalekiter hat sich verrechnet. Statt einer Belohnung bekommt er den Tod. David hatte selbst zweimal darauf verzichtet, Saul zu töten, weil er „der Gesalbte des HERRN“ war. Wer sich rühmt, den König getötet zu haben, verurteilt sich selbst.
+> Es war ein „Fremder“, der im Land lebte. Er hätte die Gesetze Israels kennen können.
+> Für uns heute ist diese schnelle Hinrichtung ohne Gerichtsverfahren schwer zu verstehen. Sie gehört zu einer Zeit mit anderen Rechtsvorstellungen. Sie ist kein Vorbild für heute.
+
+---
+
+### Das Bogenlied: Davids Klage um Saul und Jonatan (Vers 17–27)
+
+<sup>17</sup>David sang dieses Klagelied über Saul und über seinen Sohn Jonatan.
+<sup>18</sup>Und er befahl, die Leute von Juda das Lied vom Bogen zu lehren.
+Schau, es ist im Buch des Aufrechten aufgeschrieben:
+<sup>19</sup>„Deine Zierde, Israel, liegt erschlagen auf deinen Höhen!
+Wie sind die Helden gefallen!
+<sup>20</sup>Erzählt es nicht in Gat.
+Verkündet es nicht auf den Straßen von Aschkelon.
+Sonst freuen sich die Töchter der Philister,
+sonst jubeln die Töchter der Unbeschnittenen.
+<sup>21</sup>Ihr Berge von Gilboa,
+kein Tau und kein Regen soll auf euch fallen,
+und keine Felder mit Gaben für das Opfer.
+Denn dort wurde der Schild der Helden besudelt und weggeworfen,
+der Schild Sauls, nicht mit Öl gesalbt.
+<sup>22</sup>Vom Blut der Erschlagenen, vom Fett der Helden
+wich der Bogen Jonatans nicht zurück.
+Das Schwert Sauls kehrte nicht leer zurück.
+<sup>23</sup>Saul und Jonatan,
+geliebt und lieblich in ihrem Leben,
+in ihrem Tod waren sie nicht getrennt.
+Sie waren schneller als Adler,
+sie waren stärker als Löwen.
+<sup>24</sup>Ihr Töchter Israels, weint über Saul,
+der euch prächtig in Scharlach kleidete,
+der goldenen Schmuck auf eure Kleider steckte.
+<sup>25</sup>Wie sind die Helden gefallen mitten im Kampf!
+Jonatan liegt erschlagen auf deinen Höhen.
+<sup>26</sup>Es ist mir leid um dich, mein Bruder Jonatan.
+Du warst mir sehr lieb.
+Deine Liebe zu mir war wunderbarer als die Liebe der Frauen.
+<sup>27</sup>Wie sind die Helden gefallen,
+und die Waffen des Krieges sind verloren!“
+
+> **Was bedeutet das?**
+> Dieses Klagelied gehört zu den schönsten Gedichten der Bibel. David war auch ein großer Dichter.
+> Er sagt kein böses Wort über Saul. Er erinnert nur an das Gute: Saul war ein tapferer Krieger, der Israel Wohlstand brachte. Das ist edel: Über einen Toten, der einem Böses getan hat, gut zu reden.
+> „Das Buch des Aufrechten“ war eine alte Sammlung von Liedern, die heute verloren ist. Es wird auch in Josua 10,13 erwähnt.
+> „Erzählt es nicht in Gat“: Die Feinde sollen sich nicht freuen. Dieser Satz wurde später ein Sprichwort.
+> Der Schild wurde mit Öl eingerieben, damit das Leder geschmeidig blieb. Sauls Schild liegt jetzt weggeworfen und ungepflegt da. Das hebräische Wort für „gesalbt“ erinnert auch daran, dass Saul selbst der Gesalbte war.
+> Vers 26 handelt von Jonatan: „Deine Liebe zu mir war wunderbarer als die Liebe der Frauen.“ David sagt damit: Unsere Freundschaft war das Tiefste und Treueste, was ich je erlebt habe. Manche Leser heute fragen, ob mehr dahinter steckte. Die meisten jüdischen und christlichen Ausleger verstehen es als Ausdruck einer einzigartigen, selbstlosen Freundschaft. Jonatan hatte für David auf seinen eigenen Thron verzichtet.
+> „Wie sind die Helden gefallen!“ steht dreimal im Lied, am Anfang, in der Mitte und am Ende. So wird der Schmerz immer wieder hörbar.
+
+## 2. Samuel – Kapitel 2
+#### David wird König über Juda
+
+---
+
+### David in Hebron (Vers 1–7)
+
+<sup>1</sup>Danach befragte David den HERRN und sagte:
+„Soll ich in eine der Städte Judas hinaufziehen?“
+Der HERR sagte zu ihm: „Zieh hinauf.“
+David sagte: „Wohin soll ich hinaufziehen?“
+Er sagte: „Nach Hebron.“
+<sup>2</sup>Da zog David dorthin hinauf,
+mit seinen beiden Frauen,
+Ahinoam aus Jesreel und Abigajil, der Frau Nabals aus Karmel.
+<sup>3</sup>David brachte auch seine Männer hinauf, die bei ihm waren,
+jeden mit seiner Familie.
+Und sie wohnten in den Städten bei Hebron.
+<sup>4</sup>Die Männer von Juda kamen,
+und dort salbten sie David zum König über das Haus Juda.
+Man erzählte David:
+„Die Männer von Jabesch in Gilead haben Saul begraben.“
+<sup>5</sup>Da schickte David Boten zu den Männern von Jabesch in Gilead
+und ließ ihnen sagen:
+„Gesegnet seid ihr vom HERRN,
+dass ihr diese Güte an eurem Herrn Saul erwiesen und ihn begraben habt.
+<sup>6</sup>Jetzt möge der HERR euch Güte und Treue erweisen.
+Auch ich will euch Gutes tun, weil ihr das getan habt.
+<sup>7</sup>Darum seid jetzt stark und tapfer.
+Denn euer Herr Saul ist tot,
+und das Haus Juda hat mich zum König über sich gesalbt.“
+
+> **Was bedeutet das?**
+> Bevor David etwas tut, fragt er Gott. So hat er es seit Kapitel 23 im 1. Samuelbuch meistens getan.
+> Hebron war eine alte, wichtige Stadt in Juda. Dort waren Abraham, Isaak und Jakob begraben (1. Mose 23 und 49,29–31).
+> David wird zum zweiten Mal gesalbt, diesmal öffentlich von den Männern seines Stammes. Das erste Mal hatte Samuel ihn heimlich gesalbt (1. Samuel 16).
+> David lobt die Männer von Jabesch für ihre Treue zu Saul. Er will nicht nur König von Juda sein, sondern auch die Anhänger Sauls gewinnen. Seine Botschaft ist freundlich, aber auch klug.
+
+---
+
+### Isch-Boschet wird König über Israel (Vers 8–11)
+
+<sup>8</sup>Abner, der Sohn von Ner, der Heerführer Sauls,
+hatte Isch-Boschet, den Sohn Sauls, genommen
+und ihn nach Mahanajim hinübergebracht.
+<sup>9</sup>Er machte ihn zum König über Gilead, über die Aschuriter,
+über Jesreel, über Efraim, über Benjamin
+und über ganz Israel.
+<sup>10</sup>Isch-Boschet, der Sohn Sauls, war 40 Jahre alt,
+als er anfing, über Israel zu regieren,
+und er regierte zwei Jahre.
+Aber das Haus Juda folgte David.
+<sup>11</sup>Die Zeit, in der David in Hebron König über das Haus Juda war,
+war sieben Jahre und sechs Monate.
+
+> **Was bedeutet das?**
+> Jetzt gibt es zwei Könige: David im Süden über Juda und Isch-Boschet im Norden über die anderen Stämme. Das Land ist geteilt.
+> Isch-Boschet ist ein Sohn Sauls, aber der eigentliche Machthaber ist Abner, der Heerführer.
+> Der Name „Isch-Boschet“ heißt „Mann der Schande“. So hieß er sicher nicht wirklich. In 1. Chronik 8,33 heißt er „Esch-Baal“, das heißt „Mann des Baal“ oder „Mann des Herrn“. Das Wort „Baal“ bedeutete ursprünglich einfach „Herr“. Später wollten die Schreiber den Namen des fremden Gottes Baal nicht schreiben und setzten dafür „Boschet“, „Schande“, ein.
+> Mahanajim lag östlich des Jordan. Wahrscheinlich war der Westen nach der Niederlage am Gilboa noch zu sehr unter dem Einfluss der Philister.
+> Die Zahlen sind nicht ganz leicht zu verbinden: Isch-Boschet regiert zwei Jahre, David in Hebron siebeneinhalb Jahre. Vielleicht dauerte es eine Weile, bis Isch-Boschet wirklich König wurde, oder bis David nach seinem Tod ganz Israel bekam.
+
+---
+
+### Der Kampf am Teich von Gibeon (Vers 12–17)
+
+<sup>12</sup>Abner, der Sohn von Ner, und die Knechte von Isch-Boschet, dem Sohn Sauls,
+zogen aus Mahanajim nach Gibeon.
+<sup>13</sup>Auch Joab, der Sohn der Zeruja, und die Knechte Davids zogen aus.
+Sie trafen sich beim Teich von Gibeon.
+Sie setzten sich, die einen auf der einen Seite des Teiches
+und die anderen auf der anderen Seite des Teiches.
+<sup>14</sup>Abner sagte zu Joab:
+„Lass doch die jungen Männer aufstehen und vor uns einen Wettkampf machen!“
+Joab sagte: „Sie sollen aufstehen!“
+<sup>15</sup>Da standen sie auf und gingen abgezählt hinüber:
+zwölf für Benjamin und für Isch-Boschet, den Sohn Sauls,
+und zwölf von den Knechten Davids.
+<sup>16</sup>Jeder packte seinen Gegner am Kopf
+und stieß ihm sein Schwert in die Seite.
+So fielen sie alle zusammen.
+Darum nannte man diesen Ort in Gibeon Helkat-Hazzurim.
+<sup>17</sup>Der Kampf wurde an diesem Tag sehr heftig.
+Und Abner und die Männer Israels wurden von den Knechten Davids geschlagen.
+
+> **Was bedeutet das?**
+> Gibeon lag etwa 10 Kilometer nordwestlich von Jerusalem. Archäologen haben dort einen großen, in den Felsen gehauenen Wasserschacht gefunden.
+> Joab ist Davids Neffe und sein Heerführer. Er wird in den nächsten Kapiteln eine große und oft dunkle Rolle spielen.
+> Der „Wettkampf“ sollte vielleicht den Streit mit wenigen Männern entscheiden, wie damals bei David und Goliat. Aber er endet tödlich für alle 24 Männer. Und danach bricht doch eine große Schlacht aus.
+> „Helkat-Hazzurim“ heißt wohl „Feld der Schwerter“ oder „Feld der Klingen“.
+> Israel kämpft gegen Israel. Brüder töten Brüder. Das ist die traurige Folge der Spaltung.
+
+---
+
+### Abner tötet Asahel (Vers 18–23)
+
+<sup>18</sup>Dort waren die drei Söhne der Zeruja: Joab, Abischai und Asahel.
+Asahel war schnell auf den Füßen wie eine Gazelle auf dem Feld.
+<sup>19</sup>Asahel jagte Abner nach.
+Er bog weder nach rechts noch nach links ab, wenn er Abner folgte.
+<sup>20</sup>Da sah sich Abner um und sagte:
+„Bist du es, Asahel?“
+Er antwortete: „Ich bin es.“
+<sup>21</sup>Abner sagte zu ihm:
+„Bieg nach rechts oder nach links ab,
+pack dir einen von den jungen Männern und nimm dir seine Rüstung.“
+Aber Asahel wollte nicht von ihm ablassen.
+<sup>22</sup>Abner sagte noch einmal zu Asahel:
+„Hör auf, mir zu folgen.
+Warum soll ich dich zu Boden schlagen?
+Wie könnte ich dann deinem Bruder Joab ins Gesicht sehen?“
+<sup>23</sup>Aber er weigerte sich, abzulassen.
+Da stieß Abner ihn mit dem hinteren Ende des Speeres in den Bauch,
+sodass der Speer hinten wieder herauskam.
+Er fiel dort hin und starb an derselben Stelle.
+Und alle, die an die Stelle kamen, wo Asahel gefallen und gestorben war, blieben stehen.
+
+> **Was bedeutet das?**
+> Asahel ist jung, schnell und ehrgeizig. Er will den berühmten Abner besiegen.
+> Abner will ihn nicht töten. Er warnt ihn zweimal. Er weiß: Wenn ich Joabs Bruder töte, wird Joab sich rächen. Das war damals die Pflicht des „Bluträchers“.
+> Am Ende tötet Abner Asahel doch, mit dem stumpfen Ende des Speeres, vielleicht weil er ihn eigentlich nur abwehren wollte. Aber der Stoß ist tödlich.
+> Hier beginnt eine Blutfehde, die schlimme Folgen hat (Kapitel 3,27).
+
+---
+
+### Abner bittet um Frieden (Vers 24–32)
+
+<sup>24</sup>Aber Joab und Abischai jagten Abner nach.
+Die Sonne ging unter, als sie zum Hügel Amma kamen,
+der gegenüber von Giach liegt, auf dem Weg zur Wüste von Gibeon.
+<sup>25</sup>Die Benjaminiter sammelten sich hinter Abner
+und wurden zu einer einzigen Schar.
+Sie stellten sich auf den Gipfel eines Hügels.
+<sup>26</sup>Da rief Abner Joab zu und sagte:
+„Soll das Schwert für immer fressen?
+Weißt du nicht, dass es am Ende bitter sein wird?
+Wie lange willst du noch warten,
+bis du dem Volk sagst, dass es aufhören soll, seine Brüder zu verfolgen?“
+<sup>27</sup>Joab sagte:
+„So wahr Gott lebt:
+Wenn du nicht geredet hättest,
+dann wäre das Volk erst am Morgen abgezogen,
+und jeder hätte bis dahin seinen Bruder verfolgt.“
+<sup>28</sup>Da blies Joab das Horn.
+Und das ganze Volk blieb stehen.
+Sie verfolgten Israel nicht mehr
+und kämpften nicht mehr.
+
+<sup>29</sup>Abner und seine Männer zogen die ganze Nacht durch die Araba.
+Sie gingen über den Jordan,
+zogen durch das ganze Bitron
+und kamen nach Mahanajim.
+<sup>30</sup>Joab kehrte von der Verfolgung Abners zurück.
+Als er das ganze Volk versammelt hatte,
+fehlten von Davids Knechten 19 Mann und Asahel.
+<sup>31</sup>Aber die Knechte Davids hatten von Benjamin und von Abners Männern
+360 Mann erschlagen.
+<sup>32</sup>Sie nahmen Asahel und begruben ihn im Grab seines Vaters in Betlehem.
+Joab und seine Männer zogen die ganze Nacht,
+und der Tag brach an, als sie in Hebron waren.
+
+> **Was bedeutet das?**
+> Abner sagt einen wichtigen Satz: „Soll das Schwert für immer fressen? Am Ende wird es bitter sein.“ Krieg zwischen Brüdern hat keinen Sieger. Joab hört darauf und beendet den Kampf.
+> Die Verluste: David verliert 20 Männer, mit Asahel. Abners Seite verliert 360. Davids Seite ist viel stärker.
+> Die Araba ist die Senke des Jordantals. „Bitron“ ist wohl eine Schlucht oder eine Gegend östlich des Jordan.
+> Asahel wird in Betlehem begraben, der Heimatstadt von David und seiner Familie.
+
+## 2. Samuel – Kapitel 3
+#### Abner wechselt die Seite und wird ermordet
+
+---
+
+### David wird stärker (Vers 1–5)
+
+<sup>1</sup>Es gab einen langen Krieg zwischen dem Haus Sauls und dem Haus Davids.
+David wurde immer stärker,
+aber das Haus Sauls wurde immer schwächer.
+<sup>2</sup>In Hebron wurden David Söhne geboren.
+Sein Erstgeborener war Amnon, von Ahinoam aus Jesreel.
+<sup>3</sup>Sein zweiter war Kilab, von Abigajil, der Frau Nabals aus Karmel.
+Der dritte war Absalom, der Sohn von Maacha, der Tochter von Talmai, dem König von Geschur.
+<sup>4</sup>Der vierte war Adonija, der Sohn von Haggit.
+Der fünfte war Schefatja, der Sohn von Abital.
+<sup>5</sup>Der sechste war Jitream, von Egla, der Frau Davids.
+Diese wurden David in Hebron geboren.
+
+> **Was bedeutet das?**
+> David hat jetzt sechs Frauen und sechs Söhne. Mehrere Frauen zu haben war damals für Könige üblich, oft aus politischen Gründen. Maacha war zum Beispiel die Tochter eines Königs. So schloss David Bündnisse.
+> Aber das Gesetz warnte den König davor, viele Frauen zu haben (5. Mose 17,17). Diese Liste ist wie eine dunkle Vorschau: Amnon, Absalom und Adonija werden später für großes Unglück in Davids Familie sorgen.
+> Kilab heißt in 1. Chronik 3,1 „Daniel“. Von ihm hören wir sonst nichts mehr.
+
+---
+
+### Abner und Isch-Boschet streiten (Vers 6–11)
+
+<sup>6</sup>Während Krieg war zwischen dem Haus Sauls und dem Haus Davids,
+machte Abner sich im Haus Sauls immer mächtiger.
+<sup>7</sup>Saul hatte eine Nebenfrau gehabt, deren Name war Rizpa, die Tochter von Aja.
+Und Isch-Boschet sagte zu Abner:
+„Warum bist du zur Nebenfrau meines Vaters gegangen?“
+<sup>8</sup>Da wurde Abner sehr zornig über die Worte von Isch-Boschet und sagte:
+„Bin ich ein Hundekopf, der zu Juda gehört?
+Heute erweise ich dem Haus deines Vaters Saul Güte,
+seinen Brüdern und seinen Freunden.
+Ich habe dich nicht in die Hand Davids ausgeliefert.
+Und du wirfst mir heute eine Schuld wegen dieser Frau vor!
+<sup>9</sup>Gott tue Abner dies und noch mehr,
+wenn ich für David nicht genau das tue, was der HERR ihm geschworen hat:
+<sup>10</sup>das Königtum vom Haus Sauls wegzunehmen
+und den Thron Davids über Israel und über Juda aufzurichten,
+von Dan bis Beerscheba.“
+<sup>11</sup>Er konnte Abner kein Wort mehr erwidern,
+weil er Angst vor ihm hatte.
+
+> **Was bedeutet das?**
+> Damals galt: Wer mit der Frau eines verstorbenen Königs schlief, erhob damit Anspruch auf seinen Thron. Darum ist Isch-Boschet so beunruhigt. Er wirft Abner vor, selbst König werden zu wollen.
+> Ob Abner es wirklich getan hat, sagt der Text nicht. Rizpa wird hier wie ein Gegenstand im Machtkampf der Männer behandelt. Später zeigt sie große Treue und Würde (Kapitel 21,10).
+> Abner ist beleidigt. „Ein Hundekopf“ ist ein Schimpfwort für jemanden, der nichts wert ist.
+> Interessant: Abner weiß, dass Gott David das Königtum versprochen hat. Er hat trotzdem bisher gegen David gekämpft. Jetzt wechselt er die Seite, aus gekränktem Stolz.
+
+---
+
+### Abner verhandelt mit David (Vers 12–21)
+
+<sup>12</sup>Abner schickte Boten zu David und ließ ihm in seinem Namen sagen:
+„Wem gehört das Land?“
+Und weiter:
+„Schließ einen Bund mit mir.
+Und schau, meine Hand wird mit dir sein,
+um ganz Israel zu dir herüberzubringen.“
+<sup>13</sup>David sagte:
+„Gut. Ich will einen Bund mit dir schließen.
+Aber eins verlange ich von dir:
+Du sollst mein Gesicht nicht sehen,
+wenn du nicht zuerst Michal, die Tochter Sauls, mitbringst,
+wenn du kommst, um mein Gesicht zu sehen.“
+<sup>14</sup>David schickte Boten zu Isch-Boschet, dem Sohn Sauls, und ließ ihm sagen:
+„Gib mir meine Frau Michal,
+die mir zur Frau gegeben wurde für hundert Vorhäute von Philistern.“
+<sup>15</sup>Da schickte Isch-Boschet hin
+und ließ sie ihrem Mann Paltiël, dem Sohn von Lajisch, wegnehmen.
+<sup>16</sup>Ihr Mann ging mit ihr
+und folgte ihr weinend bis nach Bahurim.
+Da sagte Abner zu ihm:
+„Geh! Kehr um!“
+Und er kehrte um.
+
+> **Was bedeutet das?**
+> David verlangt Michal zurück. Er hatte sie rechtmäßig geheiratet, Saul hatte sie ihm weggenommen (1. Samuel 25,44). Als Tochter Sauls stärkt sie auch Davids Anspruch auf den Thron von ganz Israel.
+> Hier steht „hundert Vorhäute“, wie es Saul verlangt hatte. In 1. Samuel 18,27 brachte David zweihundert.
+> Paltiël liebt Michal. Er läuft weinend hinter ihr her, bis Abner ihn wegschickt. Es ist eine traurige Szene. Niemand fragt, was Michal will. Sie wird wieder zwischen Männern hin und her geschoben.
+
+<sup>17</sup>Abner verhandelte mit den Ältesten Israels und sagte:
+„Schon lange habt ihr gewollt, dass David König über euch wird.
+<sup>18</sup>Jetzt also tut es!
+Denn der HERR hat über David gesagt:
+‚Durch die Hand meines Knechtes David
+will ich mein Volk Israel aus der Hand der Philister
+und aus der Hand aller seiner Feinde retten.‘“
+<sup>19</sup>Abner redete auch mit den Benjaminitern.
+Dann ging Abner auch nach Hebron, um David alles zu sagen,
+was Israel und dem ganzen Haus Benjamin gut erschien.
+<sup>20</sup>So kam Abner zu David nach Hebron, und zwanzig Männer mit ihm.
+David machte für Abner und die Männer bei ihm ein Festmahl.
+<sup>21</sup>Abner sagte zu David:
+„Ich will aufstehen und gehen
+und ganz Israel zu meinem Herrn, dem König, versammeln.
+Dann sollen sie einen Bund mit dir schließen,
+und du sollst über alles regieren, was dein Herz sich wünscht.“
+Da ließ David Abner gehen,
+und er ging in Frieden.
+
+> **Was bedeutet das?**
+> Abner bereitet alles vor. Er redet mit den Ältesten im Norden und besonders mit dem Stamm Benjamin, Sauls eigenem Stamm. Ohne Benjamin wäre eine Einigung schwierig gewesen.
+> David empfängt Abner freundlich, obwohl er jahrelang sein Gegner war. Dreimal betont der Text: Er ging „in Frieden“. David will Versöhnung, nicht Rache.
+
+---
+
+### Joab ermordet Abner (Vers 22–30)
+
+<sup>22</sup>Und schau: Die Knechte Davids und Joab kamen von einem Raubzug
+und brachten große Beute mit.
+Aber Abner war nicht mehr bei David in Hebron,
+denn er hatte ihn gehen lassen, und er war in Frieden gegangen.
+<sup>23</sup>Als Joab und das ganze Heer, das bei ihm war, ankamen,
+erzählte man Joab:
+„Abner, der Sohn von Ner, ist zum König gekommen.
+Und er hat ihn gehen lassen, und er ist in Frieden gegangen.“
+<sup>24</sup>Da kam Joab zum König und sagte:
+„Was hast du getan?
+Schau, Abner ist zu dir gekommen.
+Warum hast du ihn gehen lassen, sodass er schon weg ist?
+<sup>25</sup>Du kennst doch Abner, den Sohn von Ner.
+Er ist gekommen, um dich zu täuschen
+und um dein Aus- und Einziehen zu erkunden
+und alles zu erfahren, was du tust.“
+<sup>26</sup>Als Joab von David weggegangen war,
+schickte er Boten hinter Abner her.
+Sie holten ihn vom Brunnen Sira zurück.
+Aber David wusste es nicht.
+<sup>27</sup>Als Abner nach Hebron zurückgekommen war,
+nahm Joab ihn beiseite, mitten ins Tor,
+um im Stillen mit ihm zu reden.
+Und dort stach er ihn in den Bauch, sodass er starb,
+wegen des Blutes seines Bruders Asahel.
+<sup>28</sup>Als David es danach hörte, sagte er:
+„Ich und mein Königreich sind vor dem HERRN für immer unschuldig
+am Blut Abners, des Sohnes von Ner.
+<sup>29</sup>Es soll auf den Kopf Joabs fallen und auf das ganze Haus seines Vaters.
+Im Haus Joabs soll es nie an jemandem fehlen, der einen Ausfluss hat oder aussätzig ist,
+der sich auf einen Stock stützen muss, der durch das Schwert fällt
+oder dem es an Brot fehlt.“
+<sup>30</sup>So töteten Joab und sein Bruder Abischai Abner,
+weil er ihren Bruder Asahel in Gibeon im Kampf getötet hatte.
+
+> **Was bedeutet das?**
+> Joab ist wütend. Er sagt, Abner sei ein Spion. Aber seine wahren Gründe sind andere: Er will Rache für seinen Bruder Asahel. Und er hat vielleicht Angst, dass Abner ihm seinen Platz als Heerführer wegnimmt.
+> Joab holt Abner heimlich zurück und ermordet ihn im Tor von Hebron. Das ist ein schweres Verbrechen. Hebron war eine Zufluchtsstadt (Josua 20,7), in der niemand ohne Gericht getötet werden durfte. Und Asahel war im Kampf gestorben, nicht durch Mord. Abner hatte ihn sogar gewarnt.
+> David verflucht Joab und seine Familie. „Ausfluss“ und „Aussatz“ waren Krankheiten, die unrein machten. „Sich auf einen Stock stützen“ meint vielleicht Lahmheit oder Schwäche.
+> David erklärt öffentlich: Ich habe damit nichts zu tun. Das war wichtig, denn sonst hätten die Nordstämme gedacht, David habe Abner in eine Falle gelockt.
+
+---
+
+### David trauert um Abner (Vers 31–39)
+
+<sup>31</sup>David sagte zu Joab und zu allem Volk, das bei ihm war:
+„Zerreißt eure Kleider,
+zieht Säcke an
+und trauert vor Abner her.“
+Und der König David ging hinter der Bahre her.
+<sup>32</sup>Sie begruben Abner in Hebron.
+Und der König erhob seine Stimme und weinte am Grab Abners.
+Und das ganze Volk weinte.
+<sup>33</sup>Der König sang ein Klagelied über Abner und sagte:
+„Musste Abner sterben, wie ein Tor stirbt?
+<sup>34</sup>Deine Hände waren nicht gebunden,
+und deine Füße waren nicht in Fesseln gelegt.
+Wie man vor Verbrechern fällt, so bist du gefallen.“
+Und das ganze Volk weinte noch einmal über ihn.
+<sup>35</sup>Das ganze Volk kam, um David zu drängen, noch bei Tag Brot zu essen.
+Aber David schwor und sagte:
+„Gott tue mir dies und noch mehr,
+wenn ich Brot oder irgendetwas anderes esse, bevor die Sonne untergeht.“
+<sup>36</sup>Das ganze Volk bemerkte es,
+und es gefiel ihnen,
+so wie alles, was der König tat, dem ganzen Volk gefiel.
+<sup>37</sup>So erkannte das ganze Volk und ganz Israel an diesem Tag,
+dass es nicht vom König ausgegangen war, Abner, den Sohn von Ner, zu töten.
+<sup>38</sup>Der König sagte zu seinen Knechten:
+„Wisst ihr nicht, dass heute ein Fürst und ein großer Mann in Israel gefallen ist?
+<sup>39</sup>Ich bin heute schwach, obwohl ich zum König gesalbt bin.
+Diese Männer, die Söhne der Zeruja, sind zu hart für mich.
+Der HERR soll dem, der Böses tut, nach seiner Bosheit vergelten.“
+
+> **Was bedeutet das?**
+> David zwingt sogar Joab, um Abner zu trauern. Er selbst geht hinter dem Sarg her, weint und fastet.
+> Sein kurzes Klagelied sagt: Abner war kein Verbrecher, der gefesselt hingerichtet wurde. Er war frei und ahnungslos. Er wurde hinterhältig ermordet.
+> Das Volk sieht Davids Trauer und glaubt ihm. David gewinnt dadurch das Vertrauen auch im Norden.
+> Aber David gibt zu: Ich bin zu schwach gegen Joab und Abischai. Er bestraft Joab nicht. Joab ist zu mächtig und zu wichtig für das Heer. Das ist eine Schwäche Davids, die später noch viel Leid bringen wird. Erst kurz vor seinem Tod sagt David seinem Sohn Salomo, er solle mit Joab abrechnen (1. Könige 2,5–6).
