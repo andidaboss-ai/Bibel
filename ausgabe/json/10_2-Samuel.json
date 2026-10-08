@@ -1464,6 +1464,535 @@
      "erklaerung": "David sorgt nicht nur für einen Ehrenplatz, sondern auch für ein Einkommen. Ziba und seine große Familie sollen das Land für Mefi-Boschet bearbeiten. So ist Mefi-Boschet versorgt und muss nicht betteln.\nMefi-Boschet hat einen Sohn, Micha. Durch ihn lebt die Familie von Saul und Jonatan weiter (1. Chronik 8,34–35).\nDer letzte Satz erinnert noch einmal: Er war gelähmt. Am Tisch des Königs sah man die gelähmten Füße nicht. Dort war er einfach ein Sohn.\nZiba wird in späteren Kapiteln noch eine fragwürdige Rolle spielen (Kapitel 16 und 19)."
     }
    ]
+  },
+  {
+   "kapitel": 10,
+   "titel": "Krieg gegen die Ammoniter und die Syrer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Davids Boten werden gedemütigt",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Danach starb der König der Ammoniter,\nund sein Sohn Hanun wurde an seiner Stelle König.",
+       "englisch_web": "After this, the king of the children of Ammon died, and Hanun his son reigned in his place."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "David sagte:\n„Ich will Hanun, dem Sohn von Nahasch, Güte erweisen,\nso wie sein Vater mir Güte erwiesen hat.“\nSo schickte David seine Knechte,\num ihn wegen seines Vaters zu trösten.\nUnd die Knechte Davids kamen in das Land der Ammoniter.",
+       "englisch_web": "David said, “I will show kindness to Hanun the son of Nahash, as his father showed kindness to me.” So David sent by his servants to comfort him concerning his father. David’s servants came into the land of the children of Ammon."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber die Fürsten der Ammoniter sagten zu Hanun, ihrem Herrn:\n„Glaubst du, dass David deinen Vater ehren will,\nweil er Tröster zu dir geschickt hat?\nHat David nicht seine Knechte zu dir geschickt,\num die Stadt zu erkunden, sie auszuspionieren und sie zu zerstören?“",
+       "englisch_web": "But the princes of the children of Ammon said to Hanun their lord, “Do you think that David honors your father, in that he has sent comforters to you? Hasn’t David sent his servants to you to search the city, to spy it out, and to overthrow it?”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da nahm Hanun die Knechte Davids,\nließ ihnen die Hälfte des Bartes abscheren\nund ihre Kleider in der Mitte abschneiden, bis zum Gesäß.\nDann schickte er sie weg.",
+       "englisch_web": "So Hanun took David’s servants, shaved off one half of their beards, and cut off their garments in the middle, even to their buttocks, and sent them away."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Als man es David erzählte, schickte er ihnen Leute entgegen,\ndenn die Männer schämten sich sehr.\nDer König ließ ihnen sagen:\n„Bleibt in Jericho, bis euer Bart wieder gewachsen ist.\nDann kehrt zurück.“",
+       "englisch_web": "When they told David this, he sent to meet them, for the men were greatly ashamed. The king said, “Wait at Jericho until your beards have grown, and then return.”"
+      }
+     ],
+     "erklaerung": "Nahasch, der Vater von Hanun, war der König, der früher Jabesch bedroht hatte (1. Samuel 11). Später hat er David wohl einmal geholfen, vielleicht als David auf der Flucht vor Saul war. Darum will David seinem Sohn Trauer und Mitgefühl zeigen.\nAber die Berater von Hanun sind misstrauisch. Sie denken, Davids Boten seien Spione.\nHanun demütigt die Boten auf schlimme Weise. Der Bart war damals ein Zeichen von Würde und Männlichkeit. Ein halb geschorener Bart und Kleider, die das Gesäß zeigen, waren eine schwere Schande.\nDavid ist rücksichtsvoll: Er sorgt dafür, dass seine Männer sich nicht in der Öffentlichkeit zeigen müssen, bis ihr Bart nachgewachsen ist.\nWer Boten demütigt, beleidigt den, der sie geschickt hat. Das war praktisch eine Kriegserklärung."
+    },
+    {
+     "ueberschrift": "Joab und Abischai siegen",
+     "vers_von": 6,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Als die Ammoniter sahen, dass sie sich bei David verhasst gemacht hatten,\nschickten die Ammoniter hin und warben die Syrer von Bet-Rehob\nund die Syrer von Zoba an, 20 000 Mann Fußvolk,\nund den König von Maacha mit 1000 Mann\nund die Männer von Tob, 12 000 Mann.",
+       "englisch_web": "When the children of Ammon saw that they had become odious to David, the children of Ammon sent and hired the Syrians of Beth Rehob and the Syrians of Zobah, twenty thousand footmen, and the king of Maacah with one thousand men, and the men of Tob twelve thousand men."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Als David das hörte,\nschickte er Joab und das ganze Heer der Helden.",
+       "englisch_web": "When David heard of it, he sent Joab and all the army of the mighty men."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Ammoniter zogen aus\nund stellten sich am Eingang des Tores zum Kampf auf.\nDie Syrer von Zoba und Rehob und die Männer von Tob und Maacha standen für sich auf dem Feld.",
+       "englisch_web": "The children of Ammon came out, and put the battle in array at the entrance of the gate. The Syrians of Zobah and of Rehob and the men of Tob and Maacah were by themselves in the field."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Als Joab sah, dass der Kampf vor ihm und hinter ihm gegen ihn aufgestellt war,\nwählte er aus allen besten Männern Israels aus\nund stellte sie gegen die Syrer auf.",
+       "englisch_web": "Now when Joab saw that the battle was set against him before and behind, he chose of all the choice men of Israel and put them in array against the Syrians."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Den Rest des Volkes gab er in die Hand seines Bruders Abischai.\nUnd er stellte sie gegen die Ammoniter auf.",
+       "englisch_web": "The rest of the people he committed into the hand of Abishai his brother; and he put them in array against the children of Ammon."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er sagte:\n„Wenn die Syrer mir zu stark sind, dann sollst du mir helfen.\nAber wenn die Ammoniter dir zu stark sind, dann will ich kommen und dir helfen.",
+       "englisch_web": "He said, “If the Syrians are too strong for me, then you shall help me; but if the children of Ammon are too strong for you, then I will come and help you."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sei mutig,\nund lass uns stark sein für unser Volk und für die Städte unseres Gottes.\nUnd der HERR möge tun, was ihm gut erscheint.“",
+       "englisch_web": "Be courageous, and let’s be strong for our people and for the cities of our God; and may Yahweh do what seems good to him.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So rückten Joab und das Volk, das bei ihm war, zum Kampf gegen die Syrer vor.\nUnd sie flohen vor ihm.",
+       "englisch_web": "So Joab and the people who were with him came near to the battle against the Syrians, and they fled before him."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Als die Ammoniter sahen, dass die Syrer geflohen waren,\nflohen auch sie vor Abischai und gingen in die Stadt hinein.\nDa kehrte Joab von den Ammonitern zurück und kam nach Jerusalem.",
+       "englisch_web": "When the children of Ammon saw that the Syrians had fled, they likewise fled before Abishai, and entered into the city. Then Joab returned from the children of Ammon and came to Jerusalem."
+      }
+     ],
+     "erklaerung": "Die Ammoniter wissen, dass David sich rächen wird. Darum kaufen sie sich Söldner von den Syrern.\nJoab ist in einer gefährlichen Lage: Feinde vor ihm und hinter ihm. Er teilt das Heer: Er selbst kämpft gegen die Syrer, sein Bruder Abischai gegen die Ammoniter. Sie versprechen sich gegenseitig Hilfe.\nJoabs Worte in Vers 12 sind bemerkenswert: „Sei mutig … Und der HERR möge tun, was ihm gut erscheint.“ Er tut, was er kann, und überlässt das Ergebnis Gott. Joab ist oft hart und gewalttätig, aber hier zeigt er auch Gottvertrauen."
+    },
+    {
+     "ueberschrift": "David besiegt die Syrer",
+     "vers_von": 15,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Als die Syrer sahen, dass sie von Israel geschlagen worden waren,\nsammelten sie sich wieder.",
+       "englisch_web": "When the Syrians saw that they were defeated by Israel, they gathered themselves together."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Hadad-Eser schickte hin und ließ die Syrer kommen, die jenseits des Stromes waren.\nSie kamen nach Helam,\nund Schobach, der Heerführer von Hadad-Eser, war an ihrer Spitze.",
+       "englisch_web": "Hadadezer sent and brought out the Syrians who were beyond the River; and they came to Helam, with Shobach the captain of the army of Hadadezer at their head."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Das wurde David erzählt.\nDa versammelte er ganz Israel, ging über den Jordan und kam nach Helam.\nDie Syrer stellten sich gegen David auf und kämpften mit ihm.",
+       "englisch_web": "David was told that; and he gathered all Israel together, passed over the Jordan, and came to Helam. The Syrians set themselves in array against David and fought with him."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Die Syrer flohen vor Israel.\nUnd David tötete von den Syrern 700 Wagenkämpfer und 40 000 Reiter.\nUnd er schlug Schobach, ihren Heerführer, sodass er dort starb.",
+       "englisch_web": "The Syrians fled before Israel; and David killed seven hundred charioteers of the Syrians and forty thousand horsemen, and struck Shobach the captain of their army, so that he died there."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Als alle Könige, die Knechte von Hadad-Eser waren, sahen,\ndass sie vor Israel geschlagen waren,\nschlossen sie Frieden mit Israel und dienten ihnen.\nSo fürchteten sich die Syrer, den Ammonitern noch einmal zu helfen.",
+       "englisch_web": "When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel and served them. So the Syrians were afraid to help the children of Ammon any more."
+      }
+     ],
+     "erklaerung": "Jetzt kommt ein großes Heer von Syrern, sogar von jenseits des Euphrat. David selbst führt Israel in den Kampf und siegt.\nIn 1. Chronik 19,18 steht: 7000 Wagenkämpfer und 40 000 Mann Fußvolk. Die Zahlen sind in den alten Handschriften manchmal unterschiedlich überliefert.\nAm Ende sind die Syrer Israel untertan. Davids Reich ist jetzt auf dem Höhepunkt seiner Macht.\nDie Ammoniter sind aber noch nicht besiegt. Der Krieg gegen sie geht im nächsten Kapitel weiter. Und genau während dieses Krieges geschieht Davids schwerste Schuld."
+    }
+   ]
+  },
+  {
+   "kapitel": 11,
+   "titel": "David, Batseba und Uria",
+   "abschnitte": [
+    {
+     "ueberschrift": "David nimmt Batseba",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als das Jahr wiederkehrte, zu der Zeit, wenn die Könige in den Krieg ziehen,\nschickte David Joab und seine Knechte mit ihm und ganz Israel aus.\nSie verwüsteten das Land der Ammoniter und belagerten Rabba.\nAber David blieb in Jerusalem.",
+       "englisch_web": "At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Gegen Abend stand David von seinem Bett auf\nund ging auf dem Dach des Königshauses umher.\nVom Dach aus sah er eine Frau, die sich wusch.\nUnd die Frau war sehr schön anzusehen.",
+       "englisch_web": "At evening, David arose from his bed and walked on the roof of the king’s house. From the roof, he saw a woman bathing, and the woman was very beautiful to look at."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "David schickte hin und erkundigte sich nach der Frau.\nMan sagte:\n„Ist das nicht Batseba, die Tochter von Eliam, die Frau von Uria, dem Hetiter?“",
+       "englisch_web": "David sent and inquired after the woman. One said, “Isn’t this Bathsheba, the daughter of Eliam, Uriah the Hittite’s wife?”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "David schickte Boten hin und ließ sie holen.\nSie kam zu ihm, und er schlief mit ihr.\nSie hatte sich gerade von ihrer Unreinheit gereinigt.\nDann kehrte sie in ihr Haus zurück.",
+       "englisch_web": "David sent messengers, and took her; and she came in to him, and he lay with her (for she was purified from her uncleanness); and she returned to her house."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Frau wurde schwanger.\nSie schickte hin und ließ David sagen:\n„Ich bin schwanger.“",
+       "englisch_web": "The woman conceived; and she sent and told David, and said, “I am with child.”"
+      }
+     ],
+     "erklaerung": "Jetzt beginnt der dunkelste Teil von Davids Leben. Die Bibel erzählt ihn ganz offen. Sie verschweigt nicht die Schuld ihres größten Königs.\n„Als das Jahr wiederkehrte“ meint das Frühjahr. Nach der Regenzeit im Winter zog man wieder in den Krieg.\n„Zu der Zeit, wenn die Könige in den Krieg ziehen“, bleibt David zu Hause. Er ist nicht dort, wo er hingehört.\nDavid sieht eine Frau beim Baden. Er erfährt sogar, dass sie verheiratet ist, mit Uria, einem seiner treuesten Soldaten (Kapitel 23,39). Trotzdem lässt er sie holen.\nWie viel Wahl hatte Batseba? Der König schickt Boten, um sie zu holen. Eine Frau konnte damals kaum Nein sagen zum König. Der Text sagt nichts über ihre Gefühle. Viele Ausleger sehen hier einen schweren Machtmissbrauch durch David. Die Bibel macht später klar, dass die ganze Schuld bei David liegt, nicht bei Batseba (Kapitel 12).\n„Sie hatte sich von ihrer Unreinheit gereinigt“: Gemeint ist die Reinigung nach der Monatsblutung (3. Mose 15,19–28). Das zeigt auch: Das Kind kann nur von David sein, nicht von Uria, der im Krieg war.\nBatseba schickt nur drei Worte, auf Hebräisch zwei: „Ich bin schwanger.“ Darin steckt ihre ganze Not. Auf Ehebruch stand damals die Todesstrafe (3. Mose 20,10)."
+    },
+    {
+     "ueberschrift": "David versucht, alles zu vertuschen",
+     "vers_von": 6,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "David schickte zu Joab und ließ ihm sagen:\n„Schick mir Uria, den Hetiter.“\nUnd Joab schickte Uria zu David.",
+       "englisch_web": "David sent to Joab, “Send me Uriah the Hittite.” Joab sent Uriah to David."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Als Uria zu ihm kam,\nfragte David ihn, wie es Joab gehe und wie es dem Volk gehe\nund wie es mit dem Krieg stehe.",
+       "englisch_web": "When Uriah had come to him, David asked him how Joab did, and how the people fared, and how the war prospered."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "David sagte zu Uria:\n„Geh hinab in dein Haus und wasch dir die Füße.“\nUria ging aus dem Haus des Königs hinaus,\nund ein Geschenk des Königs wurde ihm hinterhergeschickt.",
+       "englisch_web": "David said to Uriah, “Go down to your house and wash your feet.” Uriah departed out of the king’s house, and a gift from the king was sent after him."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Aber Uria schlief am Eingang des Königshauses bei allen Knechten seines Herrn\nund ging nicht hinab in sein Haus.",
+       "englisch_web": "But Uriah slept at the door of the king’s house with all the servants of his lord, and didn’t go down to his house."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Man erzählte David:\n„Uria ist nicht in sein Haus hinabgegangen.“\nDa sagte David zu Uria:\n„Kommst du nicht von einer Reise?\nWarum bist du nicht in dein Haus hinabgegangen?“",
+       "englisch_web": "When they had told David, saying, “Uriah didn’t go down to his house,” David said to Uriah, “Haven’t you come from a journey? Why didn’t you go down to your house?”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Uria sagte zu David:\n„Die Lade und Israel und Juda wohnen in Zelten.\nUnd mein Herr Joab und die Knechte meines Herrn lagern auf freiem Feld.\nUnd ich soll in mein Haus gehen, um zu essen und zu trinken und mit meiner Frau zu schlafen?\nSo wahr du lebst und so wahr deine Seele lebt:\nDas werde ich nicht tun!“",
+       "englisch_web": "Uriah said to David, “The ark, Israel, and Judah, are staying in tents; and my lord Joab and the servants of my lord are encamped in the open field. Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "David sagte zu Uria:\n„Bleib heute auch noch hier.\nMorgen will ich dich gehen lassen.“\nSo blieb Uria an diesem Tag und am nächsten Tag in Jerusalem.",
+       "englisch_web": "David said to Uriah, “Stay here today also, and tomorrow I will let you depart.” So Uriah stayed in Jerusalem that day and the next day."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "David lud ihn ein, und er aß und trank vor ihm.\nUnd David machte ihn betrunken.\nAm Abend ging er hinaus, um sich auf sein Lager bei den Knechten seines Herrn zu legen.\nAber in sein Haus ging er nicht hinab.",
+       "englisch_web": "When David had called him, he ate and drank before him; and he made him drunk. At evening, he went out to lie on his bed with the servants of his lord, but didn’t go down to his house."
+      }
+     ],
+     "erklaerung": "David will seine Schuld verstecken. Er holt Uria aus dem Krieg. Wenn Uria mit seiner Frau schläft, wird jeder denken, das Kind sei von ihm.\n„Wasch dir die Füße“ heißt: Geh nach Hause, ruh dich aus, mach es dir gemütlich, auch mit deiner Frau.\nAber Uria geht nicht nach Hause. Er ist ein Mann mit Ehre. Seine Kameraden schlafen im Feld, die Lade Gottes ist im Zelt. Da will er es sich nicht gut gehen lassen. Soldaten mussten sich damals im Krieg von ihren Frauen fernhalten (1. Samuel 21,5).\nDas Bittere: Uria, der Ausländer, ein Hetiter, ist treuer und frommer als der König Israels.\nDavid versucht es noch einmal und macht ihn betrunken. Aber selbst betrunken bleibt Uria treu."
+    },
+    {
+     "ueberschrift": "Der Todesbrief",
+     "vers_von": 14,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Am Morgen schrieb David einen Brief an Joab\nund schickte ihn durch die Hand von Uria.",
+       "englisch_web": "In the morning, David wrote a letter to Joab and sent it by the hand of Uriah."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er schrieb in dem Brief:\n„Stellt Uria nach vorn, wo der Kampf am heftigsten ist.\nDann zieht euch hinter ihm zurück,\ndamit er getroffen wird und stirbt.“",
+       "englisch_web": "He wrote in the letter, saying, “Send Uriah to the forefront of the hottest battle, and retreat from him, that he may be struck and die.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Als Joab die Stadt belagerte,\nstellte er Uria an den Ort, von dem er wusste, dass dort tapfere Männer waren.",
+       "englisch_web": "When Joab kept watch on the city, he assigned Uriah to the place where he knew that valiant men were."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Männer der Stadt zogen heraus und kämpften gegen Joab.\nEinige vom Volk fielen, von den Knechten Davids.\nUnd auch Uria, der Hetiter, starb.",
+       "englisch_web": "The men of the city went out and fought with Joab. Some of the people fell, even of David’s servants; and Uriah the Hittite died also."
+      }
+     ],
+     "erklaerung": "Jetzt wird aus Ehebruch Mord. David lässt Uria töten.\nUnd er lässt Uria seinen eigenen Todesbrief selbst überbringen. Das ist eine furchtbare Grausamkeit. Uria ist so treu, dass er den Brief nicht öffnet.\nJoab gehorcht, ohne zu fragen. Und es sterben nicht nur Uria, sondern auch andere unschuldige Soldaten.\nEine Schuld zieht die nächste nach sich. Wer eine Sünde vertuschen will, gerät oft immer tiefer hinein."
+    },
+    {
+     "ueberschrift": "Joabs Botschaft an David",
+     "vers_von": 18,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Dann schickte Joab Boten und ließ David alles über den Krieg berichten.",
+       "englisch_web": "Then Joab sent and told David all the things concerning the war;"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Er befahl dem Boten:\n„Wenn du dem König alles über den Krieg erzählt hast,",
+       "englisch_web": "and he commanded the messenger, saying, “When you have finished telling all the things concerning the war to the king,"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "und wenn dann der Zorn des Königs aufsteigt und er zu dir sagt:\n‚Warum seid ihr so nah an die Stadt herangegangen, um zu kämpfen?\nWusstet ihr nicht, dass sie von der Mauer herab schießen würden?",
+       "englisch_web": "it shall be that, if the king’s wrath arise, and he asks you, ‘Why did you go so near to the city to fight? Didn’t you know that they would shoot from the wall?"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Wer hat Abimelech, den Sohn von Jerubbeschet, erschlagen?\nHat nicht eine Frau einen oberen Mühlstein von der Mauer auf ihn geworfen,\nsodass er in Tebez starb?\nWarum seid ihr so nah an die Mauer herangegangen?‘,\ndann sollst du sagen:\n‚Auch dein Knecht Uria, der Hetiter, ist tot.‘“",
+       "englisch_web": "Who struck Abimelech the son of Jerubbesheth? Didn’t a woman cast an upper millstone on him from the wall, so that he died at Thebez? Why did you go so near the wall?’ then you shall say, ‘Your servant Uriah the Hittite is also dead.’”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Da ging der Bote hin,\nkam und erzählte David alles, wozu Joab ihn geschickt hatte.",
+       "englisch_web": "So the messenger went, and came and showed David all that Joab had sent him for."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Der Bote sagte zu David:\n„Die Männer waren stärker als wir.\nSie kamen zu uns heraus aufs Feld.\nAber wir drängten sie zurück bis an den Eingang des Tores.",
+       "englisch_web": "The messenger said to David, “The men prevailed against us, and came out to us into the field; and we were on them even to the entrance of the gate."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Da schossen die Schützen von der Mauer herab auf deine Knechte.\nUnd einige von den Knechten des Königs sind tot.\nUnd auch dein Knecht Uria, der Hetiter, ist tot.“",
+       "englisch_web": "The shooters shot at your servants from off the wall; and some of the king’s servants are dead, and your servant Uriah the Hittite is also dead.”"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Da sagte David zu dem Boten:\n„So sollst du zu Joab sagen:\n‚Lass dich diese Sache nicht verdrießen,\ndenn das Schwert frisst mal den einen, mal den anderen.\nVerstärke deinen Kampf gegen die Stadt und zerstöre sie.‘\nSo sollst du ihn ermutigen.“",
+       "englisch_web": "Then David said to the messenger, “Tell Joab, ‘Don’t let this thing displease you, for the sword devours one as well as another. Make your battle stronger against the city, and overthrow it.’ Encourage him.”"
+      }
+     ],
+     "erklaerung": "Joab weiß, dass der Angriff militärisch dumm war. Man geht nicht so nah an eine Stadtmauer heran. Das hatte man schon aus der Geschichte von Abimelech gelernt (Richter 9,53). „Jerubbeschet“ ist ein anderer Name für Gideon (Jerubbaal), wieder mit „Boschet“, „Schande“, statt „Baal“.\nAber Joab weiß auch: Sobald David hört, dass Uria tot ist, wird er nicht mehr zornig sein. Joab kennt jetzt Davids Geheimnis. Das gibt ihm Macht über den König.\nDavids Antwort ist kalt: „Das Schwert frisst mal den einen, mal den anderen.“ So redet er über einen Mord, den er selbst befohlen hat."
+    },
+    {
+     "ueberschrift": "David heiratet Batseba",
+     "vers_von": 26,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 26,
+       "leichte_sprache": "Als die Frau von Uria hörte, dass ihr Mann Uria tot war,\ntrauerte sie um ihren Mann.",
+       "englisch_web": "When Uriah’s wife heard that Uriah her husband was dead, she mourned for her husband."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Als die Trauerzeit vorbei war,\nschickte David hin und holte sie in sein Haus.\nSie wurde seine Frau und gebar ihm einen Sohn.\nAber die Sache, die David getan hatte, war böse in den Augen des HERRN.",
+       "englisch_web": "When the mourning was past, David sent and took her home to his house, and she became his wife and bore him a son. But the thing that David had done displeased Yahweh."
+      }
+     ],
+     "erklaerung": "Batseba trauert um ihren Mann. Der Text nennt sie hier „die Frau von Uria“. Sie gehört in den Augen der Bibel immer noch zu Uria.\nDavid heiratet sie schnell. Für die Leute sieht alles ordentlich aus. Niemand weiß etwas. David denkt, die Sache ist erledigt.\nAber der letzte Satz zeigt: Gott hat alles gesehen. „Die Sache war böse in den Augen des HERRN.“ Man kann Menschen täuschen, aber nicht Gott.\nIm Stammbaum von Jesus im Matthäusevangelium wird Batseba nicht mit Namen genannt, sondern als „die Frau des Uria“ (Matthäus 1,6). Damit wird das Unrecht an Uria nicht vergessen."
+    }
+   ]
+  },
+  {
+   "kapitel": 12,
+   "titel": "„Du bist der Mann!“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Natans Geschichte vom Lamm",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der HERR schickte Natan zu David.\nEr kam zu ihm und sagte zu ihm:\n„Es waren zwei Männer in einer Stadt,\nder eine reich und der andere arm.",
+       "englisch_web": "Yahweh sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der Reiche hatte sehr viele Schafe und Rinder.",
+       "englisch_web": "The rich man had very many flocks and herds,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber der Arme hatte nichts außer einem einzigen kleinen Lamm,\ndas er gekauft und großgezogen hatte.\nEs wuchs bei ihm und bei seinen Kindern zusammen auf.\nEs aß von seinem Bissen, trank aus seinem Becher und lag in seinem Schoß.\nEs war für ihn wie eine Tochter.",
+       "englisch_web": "but the poor man had nothing, except one little ewe lamb, which he had bought and raised. It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da kam ein Reisender zu dem reichen Mann.\nAber er wollte nichts von seinen eigenen Schafen und Rindern nehmen,\num es für den Reisenden zuzubereiten, der zu ihm gekommen war.\nSondern er nahm das Lamm des armen Mannes\nund bereitete es für den Mann zu, der zu ihm gekommen war.“",
+       "englisch_web": "A traveler came to the rich man, and he didn’t want to take of his own flock and of his own herd to prepare for the wayfaring man who had come to him, but took the poor man’s lamb and prepared it for the man who had come to him.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da entbrannte Davids Zorn sehr gegen den Mann,\nund er sagte zu Natan:\n„So wahr der HERR lebt:\nDer Mann, der das getan hat, hat den Tod verdient!",
+       "englisch_web": "David’s anger burned hot against the man, and he said to Nathan, “As Yahweh lives, the man who has done this deserves to die!"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und das Lamm soll er vierfach ersetzen,\nweil er das getan hat und weil er kein Mitleid hatte!“",
+       "englisch_web": "He must restore the lamb fourfold, because he did this thing and because he had no pity!”"
+      }
+     ],
+     "erklaerung": "Fast ein Jahr ist vergangen. Das Kind ist schon geboren. David denkt, alles sei vergessen. Aber Gott schickt den Propheten Natan.\nNatan klagt David nicht direkt an. Er erzählt eine Geschichte, wie einen Rechtsfall. David als König soll ein Urteil sprechen.\nDie Geschichte ist klug gewählt: Der Reiche hat alles, der Arme hat nur ein geliebtes Lamm. Und der Reiche nimmt es ihm weg. Jeder sieht sofort: Das ist himmelschreiendes Unrecht.\nDavid ist empört. Er hat noch ein Gefühl für Gerechtigkeit. Aber er merkt nicht, dass er über sich selbst urteilt.\nDas Gesetz sagt: Wer ein Schaf stiehlt, soll es vierfach ersetzen (2. Mose 21,37)."
+    },
+    {
+     "ueberschrift": "„Du bist der Mann!“",
+     "vers_von": 7,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Natan sagte zu David:\n„Du bist der Mann!\nSo spricht der HERR, der Gott Israels:\n‚Ich habe dich zum König über Israel gesalbt,\nund ich habe dich aus der Hand Sauls gerettet.",
+       "englisch_web": "Nathan said to David, “You are the man! This is what Yahweh, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you out of the hand of Saul."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ich habe dir das Haus deines Herrn gegeben\nund die Frauen deines Herrn in deinen Schoß gelegt.\nUnd ich habe dir das Haus Israel und Juda gegeben.\nUnd wenn das zu wenig gewesen wäre,\ndann hätte ich dir noch viel mehr dazugegeben.",
+       "englisch_web": "I gave you your master’s house and your master’s wives into your bosom, and gave you the house of Israel and of Judah; and if that would have been too little, I would have added to you many more such things."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Warum hast du das Wort des HERRN verachtet\nund getan, was in seinen Augen böse ist?\nUria, den Hetiter, hast du mit dem Schwert erschlagen.\nSeine Frau hast du dir zur Frau genommen.\nUnd ihn hast du durch das Schwert der Ammoniter umgebracht.",
+       "englisch_web": "Why have you despised Yahweh’s word, to do that which is evil in his sight? You have struck Uriah the Hittite with the sword, have taken his wife to be your wife, and have slain him with the sword of the children of Ammon."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Darum soll jetzt das Schwert niemals von deinem Haus weichen,\nweil du mich verachtet hast\nund die Frau von Uria, dem Hetiter, genommen hast, damit sie deine Frau wird.‘",
+       "englisch_web": "Now therefore the sword will never depart from your house, because you have despised me and have taken Uriah the Hittite’s wife to be your wife.’"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "So spricht der HERR:\n‚Schau, ich will aus deinem eigenen Haus Unheil über dich bringen.\nIch will deine Frauen vor deinen Augen nehmen und sie deinem Nächsten geben.\nUnd er wird bei hellem Tag mit deinen Frauen schlafen.",
+       "englisch_web": "“This is what Yahweh says: ‘Behold, I will raise up evil against you out of your own house; and I will take your wives before your eyes and give them to your neighbor, and he will lie with your wives in the sight of this sun."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn du hast es heimlich getan.\nIch aber will es vor ganz Israel und vor der Sonne tun.‘“",
+       "englisch_web": "For you did this secretly, but I will do this thing before all Israel, and before the sun.’”"
+      }
+     ],
+     "erklaerung": "„Du bist der Mann!“ Diese vier Worte gehören zu den mutigsten Sätzen der Bibel. Ein Prophet sagt dem mächtigsten Mann des Landes ins Gesicht: Du bist schuldig. Natan riskiert sein Leben.\nDas zeigt etwas Wichtiges: In Israel stand auch der König unter Gottes Gesetz. Er konnte nicht machen, was er wollte.\nGott erinnert David an alles, was er ihm geschenkt hat. David hatte so viel, und trotzdem nahm er dem Armen sein einziges Lamm weg.\nGott nennt das Verbrechen klar: Mord und Ehebruch. Die Schuld liegt bei David.\nDann kommt das Urteil: Das Schwert wird nicht von deinem Haus weichen. Und Unheil wird aus deiner eigenen Familie kommen. Das erfüllt sich in den nächsten Kapiteln: Ein Sohn Davids vergewaltigt seine Schwester, ein anderer Sohn ermordet ihn, und Absalom erhebt sich gegen seinen Vater und schläft öffentlich mit Davids Nebenfrauen (Kapitel 13–18, besonders 16,22).\nWas David heimlich getan hat, wird öffentlich zurückkommen."
+    },
+    {
+     "ueberschrift": "Davids Reue",
+     "vers_von": 13,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "David sagte zu Natan:\n„Ich habe gegen den HERRN gesündigt.“\nNatan sagte zu David:\n„Der HERR hat auch deine Sünde weggenommen.\nDu wirst nicht sterben.",
+       "englisch_web": "David said to Nathan, “I have sinned against Yahweh.” Nathan said to David, “Yahweh also has put away your sin. You will not die."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Aber weil du durch diese Tat den Feinden des HERRN großen Anlass zum Lästern gegeben hast,\nwird auch der Sohn, der dir geboren ist, ganz sicher sterben.“",
+       "englisch_web": "However, because by this deed you have given great occasion to Yahweh’s enemies to blaspheme, the child also who is born to you will surely die.”"
+      }
+     ],
+     "erklaerung": "David macht keine Ausreden. Er schiebt die Schuld nicht auf andere, wie Saul es immer getan hat. Er sagt einfach: „Ich habe gegen den HERRN gesündigt.“ Das ist der große Unterschied zwischen Saul und David.\nPsalm 51 ist nach seiner Überschrift das Gebet, das David nach diesem Gespräch betete: „Gott, sei mir gnädig nach deiner Güte … Schaffe in mir, Gott, ein reines Herz.“\nGott vergibt David sofort: „Der HERR hat deine Sünde weggenommen.“ Eigentlich hätte David nach dem Gesetz den Tod verdient. Aber Gott ist gnädig.\nVergebung heißt aber nicht, dass alle Folgen verschwinden. Das Kind wird sterben.\n„Den Feinden des HERRN Anlass zum Lästern gegeben“: Im Hebräischen steht wörtlich „die Feinde des HERRN verachtet“. Viele Ausleger meinen, die Schreiber haben hier ein Wort eingefügt, um nicht zu schreiben „du hast den HERRN verachtet“.\nDer Tod des Kindes ist sehr schwer zu verstehen. Warum muss ein unschuldiges Kind für die Schuld seines Vaters sterben? Die Bibel gibt keine einfache Antwort. Wir dürfen diese Frage stellen und ehrlich sagen, dass sie uns schmerzt. An anderen Stellen sagt die Bibel klar: Kinder sollen nicht für die Schuld ihrer Eltern bestraft werden (5. Mose 24,16; Hesekiel 18,20)."
+    },
+    {
+     "ueberschrift": "Das Kind stirbt",
+     "vers_von": 15,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Dann ging Natan in sein Haus.\nUnd der HERR schlug das Kind, das die Frau von Uria David geboren hatte,\nund es wurde sehr krank.",
+       "englisch_web": "Then Nathan departed to his house. Yahweh struck the child that Uriah’s wife bore to David, and he was very sick."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Da flehte David Gott für das Kind an.\nDavid fastete, ging hinein und lag die ganze Nacht auf der Erde.",
+       "englisch_web": "David therefore begged God for the child; and David fasted, and went in and lay all night on the ground."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Ältesten seines Hauses stellten sich neben ihn,\num ihn von der Erde aufzuheben.\nAber er wollte nicht, und er aß kein Brot mit ihnen.",
+       "englisch_web": "The elders of his house arose beside him, to raise him up from the earth; but he would not, and he didn’t eat bread with them."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Am siebten Tag starb das Kind.\nDie Knechte Davids hatten Angst, ihm zu sagen, dass das Kind tot war.\nDenn sie sagten:\n„Schaut, als das Kind noch lebte, haben wir mit ihm geredet,\nund er hat nicht auf uns gehört.\nWie soll er sich dann etwas antun, wenn wir ihm sagen, dass das Kind tot ist?“",
+       "englisch_web": "On the seventh day, the child died. David’s servants were afraid to tell him that the child was dead, for they said, “Behold, while the child was yet alive, we spoke to him and he didn’t listen to our voice. How will he then harm himself if we tell him that the child is dead?”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Aber als David sah, dass seine Knechte miteinander flüsterten,\nmerkte David, dass das Kind tot war.\nDavid sagte zu seinen Knechten:\n„Ist das Kind tot?“\nSie sagten: „Es ist tot.“",
+       "englisch_web": "But when David saw that his servants were whispering together, David perceived that the child was dead; and David said to his servants, “Is the child dead?” They said, “He is dead.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da stand David von der Erde auf,\nwusch sich, salbte sich und zog andere Kleider an.\nEr ging in das Haus des HERRN und betete an.\nDann ging er in sein eigenes Haus.\nEr verlangte zu essen, und man setzte ihm Brot vor, und er aß.",
+       "englisch_web": "Then David arose from the earth, and washed and anointed himself, and changed his clothing; and he came into Yahweh’s house, and worshiped. Then he came to his own house; and when he requested, they set bread before him and he ate."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Da sagten seine Knechte zu ihm:\n„Was ist das, was du getan hast?\nAls das Kind noch lebte, hast du gefastet und geweint.\nAber jetzt, wo das Kind tot ist, stehst du auf und isst Brot.“",
+       "englisch_web": "Then his servants said to him, “What is this that you have done? You fasted and wept for the child while he was alive, but when the child was dead, you rose up and ate bread.”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Er sagte:\n„Solange das Kind noch lebte, habe ich gefastet und geweint.\nDenn ich dachte:\n‚Wer weiß, vielleicht ist der HERR mir gnädig, und das Kind bleibt am Leben.‘",
+       "englisch_web": "He said, “While the child was yet alive, I fasted and wept; for I said, ‘Who knows whether Yahweh will not be gracious to me, that the child may live?’"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Aber jetzt ist es tot.\nWarum soll ich fasten?\nKann ich es zurückholen?\nIch werde zu ihm gehen,\naber es wird nicht zu mir zurückkommen.“",
+       "englisch_web": "But now he is dead. Why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”"
+      }
+     ],
+     "erklaerung": "David kämpft im Gebet um das Leben seines Kindes. Sieben Tage lang liegt er auf dem Boden, fastet und betet. Er hofft, dass Gott vielleicht doch gnädig ist.\nAls das Kind stirbt, überrascht David alle. Er steht auf, wäscht sich und betet Gott an. Er nimmt Gottes Entscheidung an, obwohl sie ihm das Herz bricht.\nSein Satz „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkommen“ hat viele trauernde Eltern getröstet. David denkt daran, dass er seinem Kind im Tod wieder begegnen wird.\nDie Geschichte zeigt auch: Man darf mit Gott ringen und um etwas bitten, solange Hoffnung besteht. Und man darf danach weiterleben."
+    },
+    {
+     "ueberschrift": "Salomo wird geboren",
+     "vers_von": 24,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "David tröstete seine Frau Batseba.\nEr ging zu ihr hinein und schlief mit ihr.\nSie gebar einen Sohn, und er nannte ihn Salomo.\nUnd der HERR liebte ihn.",
+       "englisch_web": "David comforted Bathsheba his wife, and went in to her, and lay with her. She bore a son, and he called his name Solomon. Yahweh loved him;"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Er schickte eine Botschaft durch den Propheten Natan,\nund der nannte ihn Jedidja, um des HERRN willen.",
+       "englisch_web": "and he sent by the hand of Nathan the prophet, and he named him Jedidiah, for Yahweh’s sake."
+      }
+     ],
+     "erklaerung": "Zum ersten Mal wird Batseba „seine Frau“ genannt, nicht mehr „die Frau von Uria“. Und zum ersten Mal wird erzählt, dass David sie tröstet. Auch sie hat ein Kind verloren.\nDer Name Salomo hängt mit dem Wort „Schalom“, Frieden, zusammen.\nUnd Gott gibt dem Kind durch Natan einen zweiten Namen: „Jedidja“ heißt „Geliebter des HERRN“. Das ist ein Zeichen der Versöhnung. Gott hat einen Neuanfang geschenkt. Aus dieser schwierigen Ehe kommt der nächste König Israels."
+    },
+    {
+     "ueberschrift": "Die Eroberung von Rabba",
+     "vers_von": 26,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 26,
+       "leichte_sprache": "Joab kämpfte gegen Rabba, die Stadt der Ammoniter,\nund nahm die Königsstadt ein.",
+       "englisch_web": "Now Joab fought against Rabbah of the children of Ammon, and took the royal city."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Joab schickte Boten zu David und ließ ihm sagen:\n„Ich habe gegen Rabba gekämpft.\nJa, ich habe die Wasserstadt eingenommen.",
+       "englisch_web": "Joab sent messengers to David, and said, “I have fought against Rabbah. Yes, I have taken the city of waters."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Darum versammle jetzt den Rest des Volkes,\nbelagere die Stadt und nimm sie ein.\nSonst nehme ich die Stadt ein, und sie wird nach meinem Namen genannt.“",
+       "englisch_web": "Now therefore gather the rest of the people together, and encamp against the city and take it; lest I take the city, and it be called by my name.”"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Da versammelte David das ganze Volk und zog nach Rabba.\nEr kämpfte gegen die Stadt und nahm sie ein.",
+       "englisch_web": "David gathered all the people together and went to Rabbah, and fought against it and took it."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Er nahm die Krone ihres Königs von seinem Kopf.\nSie wog etwa 34 Kilogramm Gold,\nund darin waren Edelsteine.\nUnd sie wurde auf Davids Kopf gesetzt.\nEr brachte sehr viel Beute aus der Stadt heraus.",
+       "englisch_web": "He took the crown of their king from off his head; and its weight was a talent of gold, and in it were precious stones; and it was set on David’s head. He brought a great quantity of plunder out of the city."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Er führte das Volk heraus, das darin war,\nund setzte sie an Sägen, an eiserne Hacken und eiserne Äxte zur Arbeit\nund ließ sie an den Ziegelöfen arbeiten.\nSo machte er es mit allen Städten der Ammoniter.\nDann kehrten David und das ganze Volk nach Jerusalem zurück.",
+       "englisch_web": "He brought out the people who were in it, and put them to work under saws, under iron picks, under axes of iron, and made them go to the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem."
+      }
+     ],
+     "erklaerung": "Rabba ist das heutige Amman, die Hauptstadt von Jordanien. Die „Wasserstadt“ war wohl der Teil der Stadt mit der Wasserversorgung. Danach konnte die Stadt nicht mehr lange durchhalten.\nJoab lässt David den Ruhm des Sieges. Er will nicht, dass die Stadt nach ihm benannt wird.\nIn der Bibel steht „ein Talent Gold“. Ein Talent waren etwa 34 Kilogramm. Eine so schwere Krone konnte man kaum tragen. Vielleicht wurde sie nur kurz bei einer Feier aufgesetzt. Manche Ausleger meinen, die Krone gehörte zu einer Götterstatue: Das hebräische Wort für „ihr König“ (malkam) klingt wie „Milkom“, der Gott der Ammoniter.\nVers 31: Die besiegten Ammoniter mussten Zwangsarbeit leisten. Ältere Übersetzungen verstanden den Vers so, dass David sie mit Sägen und Äxten grausam tötete. Die englische Vorlage und viele neue Übersetzungen verstehen ihn als Zwangsarbeit.\nDas Kapitel endet mit einem Sieg. Aber nach dem, was vorher geschah, schmeckt dieser Sieg bitter. Davids Familie wird von nun an das Schwert nicht mehr loswerden."
+    }
+   ]
   }
  ]
 }

@@ -39372,3 +39372,445 @@ Und er war an beiden Füßen gelähmt.
 > Mefi-Boschet hat einen Sohn, Micha. Durch ihn lebt die Familie von Saul und Jonatan weiter (1. Chronik 8,34–35).
 > Der letzte Satz erinnert noch einmal: Er war gelähmt. Am Tisch des Königs sah man die gelähmten Füße nicht. Dort war er einfach ein Sohn.
 > Ziba wird in späteren Kapiteln noch eine fragwürdige Rolle spielen (Kapitel 16 und 19).
+
+## 2. Samuel – Kapitel 10
+#### Krieg gegen die Ammoniter und die Syrer
+
+---
+
+### Davids Boten werden gedemütigt (Vers 1–5)
+
+<sup>1</sup>Danach starb der König der Ammoniter,
+und sein Sohn Hanun wurde an seiner Stelle König.
+<sup>2</sup>David sagte:
+„Ich will Hanun, dem Sohn von Nahasch, Güte erweisen,
+so wie sein Vater mir Güte erwiesen hat.“
+So schickte David seine Knechte,
+um ihn wegen seines Vaters zu trösten.
+Und die Knechte Davids kamen in das Land der Ammoniter.
+<sup>3</sup>Aber die Fürsten der Ammoniter sagten zu Hanun, ihrem Herrn:
+„Glaubst du, dass David deinen Vater ehren will,
+weil er Tröster zu dir geschickt hat?
+Hat David nicht seine Knechte zu dir geschickt,
+um die Stadt zu erkunden, sie auszuspionieren und sie zu zerstören?“
+<sup>4</sup>Da nahm Hanun die Knechte Davids,
+ließ ihnen die Hälfte des Bartes abscheren
+und ihre Kleider in der Mitte abschneiden, bis zum Gesäß.
+Dann schickte er sie weg.
+<sup>5</sup>Als man es David erzählte, schickte er ihnen Leute entgegen,
+denn die Männer schämten sich sehr.
+Der König ließ ihnen sagen:
+„Bleibt in Jericho, bis euer Bart wieder gewachsen ist.
+Dann kehrt zurück.“
+
+> **Was bedeutet das?**
+> Nahasch, der Vater von Hanun, war der König, der früher Jabesch bedroht hatte (1. Samuel 11). Später hat er David wohl einmal geholfen, vielleicht als David auf der Flucht vor Saul war. Darum will David seinem Sohn Trauer und Mitgefühl zeigen.
+> Aber die Berater von Hanun sind misstrauisch. Sie denken, Davids Boten seien Spione.
+> Hanun demütigt die Boten auf schlimme Weise. Der Bart war damals ein Zeichen von Würde und Männlichkeit. Ein halb geschorener Bart und Kleider, die das Gesäß zeigen, waren eine schwere Schande.
+> David ist rücksichtsvoll: Er sorgt dafür, dass seine Männer sich nicht in der Öffentlichkeit zeigen müssen, bis ihr Bart nachgewachsen ist.
+> Wer Boten demütigt, beleidigt den, der sie geschickt hat. Das war praktisch eine Kriegserklärung.
+
+---
+
+### Joab und Abischai siegen (Vers 6–14)
+
+<sup>6</sup>Als die Ammoniter sahen, dass sie sich bei David verhasst gemacht hatten,
+schickten die Ammoniter hin und warben die Syrer von Bet-Rehob
+und die Syrer von Zoba an, 20 000 Mann Fußvolk,
+und den König von Maacha mit 1000 Mann
+und die Männer von Tob, 12 000 Mann.
+<sup>7</sup>Als David das hörte,
+schickte er Joab und das ganze Heer der Helden.
+<sup>8</sup>Die Ammoniter zogen aus
+und stellten sich am Eingang des Tores zum Kampf auf.
+Die Syrer von Zoba und Rehob und die Männer von Tob und Maacha standen für sich auf dem Feld.
+<sup>9</sup>Als Joab sah, dass der Kampf vor ihm und hinter ihm gegen ihn aufgestellt war,
+wählte er aus allen besten Männern Israels aus
+und stellte sie gegen die Syrer auf.
+<sup>10</sup>Den Rest des Volkes gab er in die Hand seines Bruders Abischai.
+Und er stellte sie gegen die Ammoniter auf.
+<sup>11</sup>Er sagte:
+„Wenn die Syrer mir zu stark sind, dann sollst du mir helfen.
+Aber wenn die Ammoniter dir zu stark sind, dann will ich kommen und dir helfen.
+<sup>12</sup>Sei mutig,
+und lass uns stark sein für unser Volk und für die Städte unseres Gottes.
+Und der HERR möge tun, was ihm gut erscheint.“
+<sup>13</sup>So rückten Joab und das Volk, das bei ihm war, zum Kampf gegen die Syrer vor.
+Und sie flohen vor ihm.
+<sup>14</sup>Als die Ammoniter sahen, dass die Syrer geflohen waren,
+flohen auch sie vor Abischai und gingen in die Stadt hinein.
+Da kehrte Joab von den Ammonitern zurück und kam nach Jerusalem.
+
+> **Was bedeutet das?**
+> Die Ammoniter wissen, dass David sich rächen wird. Darum kaufen sie sich Söldner von den Syrern.
+> Joab ist in einer gefährlichen Lage: Feinde vor ihm und hinter ihm. Er teilt das Heer: Er selbst kämpft gegen die Syrer, sein Bruder Abischai gegen die Ammoniter. Sie versprechen sich gegenseitig Hilfe.
+> Joabs Worte in Vers 12 sind bemerkenswert: „Sei mutig … Und der HERR möge tun, was ihm gut erscheint.“ Er tut, was er kann, und überlässt das Ergebnis Gott. Joab ist oft hart und gewalttätig, aber hier zeigt er auch Gottvertrauen.
+
+---
+
+### David besiegt die Syrer (Vers 15–19)
+
+<sup>15</sup>Als die Syrer sahen, dass sie von Israel geschlagen worden waren,
+sammelten sie sich wieder.
+<sup>16</sup>Hadad-Eser schickte hin und ließ die Syrer kommen, die jenseits des Stromes waren.
+Sie kamen nach Helam,
+und Schobach, der Heerführer von Hadad-Eser, war an ihrer Spitze.
+<sup>17</sup>Das wurde David erzählt.
+Da versammelte er ganz Israel, ging über den Jordan und kam nach Helam.
+Die Syrer stellten sich gegen David auf und kämpften mit ihm.
+<sup>18</sup>Die Syrer flohen vor Israel.
+Und David tötete von den Syrern 700 Wagenkämpfer und 40 000 Reiter.
+Und er schlug Schobach, ihren Heerführer, sodass er dort starb.
+<sup>19</sup>Als alle Könige, die Knechte von Hadad-Eser waren, sahen,
+dass sie vor Israel geschlagen waren,
+schlossen sie Frieden mit Israel und dienten ihnen.
+So fürchteten sich die Syrer, den Ammonitern noch einmal zu helfen.
+
+> **Was bedeutet das?**
+> Jetzt kommt ein großes Heer von Syrern, sogar von jenseits des Euphrat. David selbst führt Israel in den Kampf und siegt.
+> In 1. Chronik 19,18 steht: 7000 Wagenkämpfer und 40 000 Mann Fußvolk. Die Zahlen sind in den alten Handschriften manchmal unterschiedlich überliefert.
+> Am Ende sind die Syrer Israel untertan. Davids Reich ist jetzt auf dem Höhepunkt seiner Macht.
+> Die Ammoniter sind aber noch nicht besiegt. Der Krieg gegen sie geht im nächsten Kapitel weiter. Und genau während dieses Krieges geschieht Davids schwerste Schuld.
+
+## 2. Samuel – Kapitel 11
+#### David, Batseba und Uria
+
+---
+
+### David nimmt Batseba (Vers 1–5)
+
+<sup>1</sup>Als das Jahr wiederkehrte, zu der Zeit, wenn die Könige in den Krieg ziehen,
+schickte David Joab und seine Knechte mit ihm und ganz Israel aus.
+Sie verwüsteten das Land der Ammoniter und belagerten Rabba.
+Aber David blieb in Jerusalem.
+<sup>2</sup>Gegen Abend stand David von seinem Bett auf
+und ging auf dem Dach des Königshauses umher.
+Vom Dach aus sah er eine Frau, die sich wusch.
+Und die Frau war sehr schön anzusehen.
+<sup>3</sup>David schickte hin und erkundigte sich nach der Frau.
+Man sagte:
+„Ist das nicht Batseba, die Tochter von Eliam, die Frau von Uria, dem Hetiter?“
+<sup>4</sup>David schickte Boten hin und ließ sie holen.
+Sie kam zu ihm, und er schlief mit ihr.
+Sie hatte sich gerade von ihrer Unreinheit gereinigt.
+Dann kehrte sie in ihr Haus zurück.
+<sup>5</sup>Die Frau wurde schwanger.
+Sie schickte hin und ließ David sagen:
+„Ich bin schwanger.“
+
+> **Was bedeutet das?**
+> Jetzt beginnt der dunkelste Teil von Davids Leben. Die Bibel erzählt ihn ganz offen. Sie verschweigt nicht die Schuld ihres größten Königs.
+> „Als das Jahr wiederkehrte“ meint das Frühjahr. Nach der Regenzeit im Winter zog man wieder in den Krieg.
+> „Zu der Zeit, wenn die Könige in den Krieg ziehen“, bleibt David zu Hause. Er ist nicht dort, wo er hingehört.
+> David sieht eine Frau beim Baden. Er erfährt sogar, dass sie verheiratet ist, mit Uria, einem seiner treuesten Soldaten (Kapitel 23,39). Trotzdem lässt er sie holen.
+> Wie viel Wahl hatte Batseba? Der König schickt Boten, um sie zu holen. Eine Frau konnte damals kaum Nein sagen zum König. Der Text sagt nichts über ihre Gefühle. Viele Ausleger sehen hier einen schweren Machtmissbrauch durch David. Die Bibel macht später klar, dass die ganze Schuld bei David liegt, nicht bei Batseba (Kapitel 12).
+> „Sie hatte sich von ihrer Unreinheit gereinigt“: Gemeint ist die Reinigung nach der Monatsblutung (3. Mose 15,19–28). Das zeigt auch: Das Kind kann nur von David sein, nicht von Uria, der im Krieg war.
+> Batseba schickt nur drei Worte, auf Hebräisch zwei: „Ich bin schwanger.“ Darin steckt ihre ganze Not. Auf Ehebruch stand damals die Todesstrafe (3. Mose 20,10).
+
+---
+
+### David versucht, alles zu vertuschen (Vers 6–13)
+
+<sup>6</sup>David schickte zu Joab und ließ ihm sagen:
+„Schick mir Uria, den Hetiter.“
+Und Joab schickte Uria zu David.
+<sup>7</sup>Als Uria zu ihm kam,
+fragte David ihn, wie es Joab gehe und wie es dem Volk gehe
+und wie es mit dem Krieg stehe.
+<sup>8</sup>David sagte zu Uria:
+„Geh hinab in dein Haus und wasch dir die Füße.“
+Uria ging aus dem Haus des Königs hinaus,
+und ein Geschenk des Königs wurde ihm hinterhergeschickt.
+<sup>9</sup>Aber Uria schlief am Eingang des Königshauses bei allen Knechten seines Herrn
+und ging nicht hinab in sein Haus.
+<sup>10</sup>Man erzählte David:
+„Uria ist nicht in sein Haus hinabgegangen.“
+Da sagte David zu Uria:
+„Kommst du nicht von einer Reise?
+Warum bist du nicht in dein Haus hinabgegangen?“
+<sup>11</sup>Uria sagte zu David:
+„Die Lade und Israel und Juda wohnen in Zelten.
+Und mein Herr Joab und die Knechte meines Herrn lagern auf freiem Feld.
+Und ich soll in mein Haus gehen, um zu essen und zu trinken und mit meiner Frau zu schlafen?
+So wahr du lebst und so wahr deine Seele lebt:
+Das werde ich nicht tun!“
+<sup>12</sup>David sagte zu Uria:
+„Bleib heute auch noch hier.
+Morgen will ich dich gehen lassen.“
+So blieb Uria an diesem Tag und am nächsten Tag in Jerusalem.
+<sup>13</sup>David lud ihn ein, und er aß und trank vor ihm.
+Und David machte ihn betrunken.
+Am Abend ging er hinaus, um sich auf sein Lager bei den Knechten seines Herrn zu legen.
+Aber in sein Haus ging er nicht hinab.
+
+> **Was bedeutet das?**
+> David will seine Schuld verstecken. Er holt Uria aus dem Krieg. Wenn Uria mit seiner Frau schläft, wird jeder denken, das Kind sei von ihm.
+> „Wasch dir die Füße“ heißt: Geh nach Hause, ruh dich aus, mach es dir gemütlich, auch mit deiner Frau.
+> Aber Uria geht nicht nach Hause. Er ist ein Mann mit Ehre. Seine Kameraden schlafen im Feld, die Lade Gottes ist im Zelt. Da will er es sich nicht gut gehen lassen. Soldaten mussten sich damals im Krieg von ihren Frauen fernhalten (1. Samuel 21,5).
+> Das Bittere: Uria, der Ausländer, ein Hetiter, ist treuer und frommer als der König Israels.
+> David versucht es noch einmal und macht ihn betrunken. Aber selbst betrunken bleibt Uria treu.
+
+---
+
+### Der Todesbrief (Vers 14–17)
+
+<sup>14</sup>Am Morgen schrieb David einen Brief an Joab
+und schickte ihn durch die Hand von Uria.
+<sup>15</sup>Er schrieb in dem Brief:
+„Stellt Uria nach vorn, wo der Kampf am heftigsten ist.
+Dann zieht euch hinter ihm zurück,
+damit er getroffen wird und stirbt.“
+<sup>16</sup>Als Joab die Stadt belagerte,
+stellte er Uria an den Ort, von dem er wusste, dass dort tapfere Männer waren.
+<sup>17</sup>Die Männer der Stadt zogen heraus und kämpften gegen Joab.
+Einige vom Volk fielen, von den Knechten Davids.
+Und auch Uria, der Hetiter, starb.
+
+> **Was bedeutet das?**
+> Jetzt wird aus Ehebruch Mord. David lässt Uria töten.
+> Und er lässt Uria seinen eigenen Todesbrief selbst überbringen. Das ist eine furchtbare Grausamkeit. Uria ist so treu, dass er den Brief nicht öffnet.
+> Joab gehorcht, ohne zu fragen. Und es sterben nicht nur Uria, sondern auch andere unschuldige Soldaten.
+> Eine Schuld zieht die nächste nach sich. Wer eine Sünde vertuschen will, gerät oft immer tiefer hinein.
+
+---
+
+### Joabs Botschaft an David (Vers 18–25)
+
+<sup>18</sup>Dann schickte Joab Boten und ließ David alles über den Krieg berichten.
+<sup>19</sup>Er befahl dem Boten:
+„Wenn du dem König alles über den Krieg erzählt hast,
+<sup>20</sup>und wenn dann der Zorn des Königs aufsteigt und er zu dir sagt:
+‚Warum seid ihr so nah an die Stadt herangegangen, um zu kämpfen?
+Wusstet ihr nicht, dass sie von der Mauer herab schießen würden?
+<sup>21</sup>Wer hat Abimelech, den Sohn von Jerubbeschet, erschlagen?
+Hat nicht eine Frau einen oberen Mühlstein von der Mauer auf ihn geworfen,
+sodass er in Tebez starb?
+Warum seid ihr so nah an die Mauer herangegangen?‘,
+dann sollst du sagen:
+‚Auch dein Knecht Uria, der Hetiter, ist tot.‘“
+<sup>22</sup>Da ging der Bote hin,
+kam und erzählte David alles, wozu Joab ihn geschickt hatte.
+<sup>23</sup>Der Bote sagte zu David:
+„Die Männer waren stärker als wir.
+Sie kamen zu uns heraus aufs Feld.
+Aber wir drängten sie zurück bis an den Eingang des Tores.
+<sup>24</sup>Da schossen die Schützen von der Mauer herab auf deine Knechte.
+Und einige von den Knechten des Königs sind tot.
+Und auch dein Knecht Uria, der Hetiter, ist tot.“
+<sup>25</sup>Da sagte David zu dem Boten:
+„So sollst du zu Joab sagen:
+‚Lass dich diese Sache nicht verdrießen,
+denn das Schwert frisst mal den einen, mal den anderen.
+Verstärke deinen Kampf gegen die Stadt und zerstöre sie.‘
+So sollst du ihn ermutigen.“
+
+> **Was bedeutet das?**
+> Joab weiß, dass der Angriff militärisch dumm war. Man geht nicht so nah an eine Stadtmauer heran. Das hatte man schon aus der Geschichte von Abimelech gelernt (Richter 9,53). „Jerubbeschet“ ist ein anderer Name für Gideon (Jerubbaal), wieder mit „Boschet“, „Schande“, statt „Baal“.
+> Aber Joab weiß auch: Sobald David hört, dass Uria tot ist, wird er nicht mehr zornig sein. Joab kennt jetzt Davids Geheimnis. Das gibt ihm Macht über den König.
+> Davids Antwort ist kalt: „Das Schwert frisst mal den einen, mal den anderen.“ So redet er über einen Mord, den er selbst befohlen hat.
+
+---
+
+### David heiratet Batseba (Vers 26–27)
+
+<sup>26</sup>Als die Frau von Uria hörte, dass ihr Mann Uria tot war,
+trauerte sie um ihren Mann.
+<sup>27</sup>Als die Trauerzeit vorbei war,
+schickte David hin und holte sie in sein Haus.
+Sie wurde seine Frau und gebar ihm einen Sohn.
+Aber die Sache, die David getan hatte, war böse in den Augen des HERRN.
+
+> **Was bedeutet das?**
+> Batseba trauert um ihren Mann. Der Text nennt sie hier „die Frau von Uria“. Sie gehört in den Augen der Bibel immer noch zu Uria.
+> David heiratet sie schnell. Für die Leute sieht alles ordentlich aus. Niemand weiß etwas. David denkt, die Sache ist erledigt.
+> Aber der letzte Satz zeigt: Gott hat alles gesehen. „Die Sache war böse in den Augen des HERRN.“ Man kann Menschen täuschen, aber nicht Gott.
+> Im Stammbaum von Jesus im Matthäusevangelium wird Batseba nicht mit Namen genannt, sondern als „die Frau des Uria“ (Matthäus 1,6). Damit wird das Unrecht an Uria nicht vergessen.
+
+## 2. Samuel – Kapitel 12
+#### „Du bist der Mann!“
+
+---
+
+### Natans Geschichte vom Lamm (Vers 1–6)
+
+<sup>1</sup>Der HERR schickte Natan zu David.
+Er kam zu ihm und sagte zu ihm:
+„Es waren zwei Männer in einer Stadt,
+der eine reich und der andere arm.
+<sup>2</sup>Der Reiche hatte sehr viele Schafe und Rinder.
+<sup>3</sup>Aber der Arme hatte nichts außer einem einzigen kleinen Lamm,
+das er gekauft und großgezogen hatte.
+Es wuchs bei ihm und bei seinen Kindern zusammen auf.
+Es aß von seinem Bissen, trank aus seinem Becher und lag in seinem Schoß.
+Es war für ihn wie eine Tochter.
+<sup>4</sup>Da kam ein Reisender zu dem reichen Mann.
+Aber er wollte nichts von seinen eigenen Schafen und Rindern nehmen,
+um es für den Reisenden zuzubereiten, der zu ihm gekommen war.
+Sondern er nahm das Lamm des armen Mannes
+und bereitete es für den Mann zu, der zu ihm gekommen war.“
+<sup>5</sup>Da entbrannte Davids Zorn sehr gegen den Mann,
+und er sagte zu Natan:
+„So wahr der HERR lebt:
+Der Mann, der das getan hat, hat den Tod verdient!
+<sup>6</sup>Und das Lamm soll er vierfach ersetzen,
+weil er das getan hat und weil er kein Mitleid hatte!“
+
+> **Was bedeutet das?**
+> Fast ein Jahr ist vergangen. Das Kind ist schon geboren. David denkt, alles sei vergessen. Aber Gott schickt den Propheten Natan.
+> Natan klagt David nicht direkt an. Er erzählt eine Geschichte, wie einen Rechtsfall. David als König soll ein Urteil sprechen.
+> Die Geschichte ist klug gewählt: Der Reiche hat alles, der Arme hat nur ein geliebtes Lamm. Und der Reiche nimmt es ihm weg. Jeder sieht sofort: Das ist himmelschreiendes Unrecht.
+> David ist empört. Er hat noch ein Gefühl für Gerechtigkeit. Aber er merkt nicht, dass er über sich selbst urteilt.
+> Das Gesetz sagt: Wer ein Schaf stiehlt, soll es vierfach ersetzen (2. Mose 21,37).
+
+---
+
+### „Du bist der Mann!“ (Vers 7–12)
+
+<sup>7</sup>Natan sagte zu David:
+„Du bist der Mann!
+So spricht der HERR, der Gott Israels:
+‚Ich habe dich zum König über Israel gesalbt,
+und ich habe dich aus der Hand Sauls gerettet.
+<sup>8</sup>Ich habe dir das Haus deines Herrn gegeben
+und die Frauen deines Herrn in deinen Schoß gelegt.
+Und ich habe dir das Haus Israel und Juda gegeben.
+Und wenn das zu wenig gewesen wäre,
+dann hätte ich dir noch viel mehr dazugegeben.
+<sup>9</sup>Warum hast du das Wort des HERRN verachtet
+und getan, was in seinen Augen böse ist?
+Uria, den Hetiter, hast du mit dem Schwert erschlagen.
+Seine Frau hast du dir zur Frau genommen.
+Und ihn hast du durch das Schwert der Ammoniter umgebracht.
+<sup>10</sup>Darum soll jetzt das Schwert niemals von deinem Haus weichen,
+weil du mich verachtet hast
+und die Frau von Uria, dem Hetiter, genommen hast, damit sie deine Frau wird.‘
+<sup>11</sup>So spricht der HERR:
+‚Schau, ich will aus deinem eigenen Haus Unheil über dich bringen.
+Ich will deine Frauen vor deinen Augen nehmen und sie deinem Nächsten geben.
+Und er wird bei hellem Tag mit deinen Frauen schlafen.
+<sup>12</sup>Denn du hast es heimlich getan.
+Ich aber will es vor ganz Israel und vor der Sonne tun.‘“
+
+> **Was bedeutet das?**
+> „Du bist der Mann!“ Diese vier Worte gehören zu den mutigsten Sätzen der Bibel. Ein Prophet sagt dem mächtigsten Mann des Landes ins Gesicht: Du bist schuldig. Natan riskiert sein Leben.
+> Das zeigt etwas Wichtiges: In Israel stand auch der König unter Gottes Gesetz. Er konnte nicht machen, was er wollte.
+> Gott erinnert David an alles, was er ihm geschenkt hat. David hatte so viel, und trotzdem nahm er dem Armen sein einziges Lamm weg.
+> Gott nennt das Verbrechen klar: Mord und Ehebruch. Die Schuld liegt bei David.
+> Dann kommt das Urteil: Das Schwert wird nicht von deinem Haus weichen. Und Unheil wird aus deiner eigenen Familie kommen. Das erfüllt sich in den nächsten Kapiteln: Ein Sohn Davids vergewaltigt seine Schwester, ein anderer Sohn ermordet ihn, und Absalom erhebt sich gegen seinen Vater und schläft öffentlich mit Davids Nebenfrauen (Kapitel 13–18, besonders 16,22).
+> Was David heimlich getan hat, wird öffentlich zurückkommen.
+
+---
+
+### Davids Reue (Vers 13–14)
+
+<sup>13</sup>David sagte zu Natan:
+„Ich habe gegen den HERRN gesündigt.“
+Natan sagte zu David:
+„Der HERR hat auch deine Sünde weggenommen.
+Du wirst nicht sterben.
+<sup>14</sup>Aber weil du durch diese Tat den Feinden des HERRN großen Anlass zum Lästern gegeben hast,
+wird auch der Sohn, der dir geboren ist, ganz sicher sterben.“
+
+> **Was bedeutet das?**
+> David macht keine Ausreden. Er schiebt die Schuld nicht auf andere, wie Saul es immer getan hat. Er sagt einfach: „Ich habe gegen den HERRN gesündigt.“ Das ist der große Unterschied zwischen Saul und David.
+> Psalm 51 ist nach seiner Überschrift das Gebet, das David nach diesem Gespräch betete: „Gott, sei mir gnädig nach deiner Güte … Schaffe in mir, Gott, ein reines Herz.“
+> Gott vergibt David sofort: „Der HERR hat deine Sünde weggenommen.“ Eigentlich hätte David nach dem Gesetz den Tod verdient. Aber Gott ist gnädig.
+> Vergebung heißt aber nicht, dass alle Folgen verschwinden. Das Kind wird sterben.
+> „Den Feinden des HERRN Anlass zum Lästern gegeben“: Im Hebräischen steht wörtlich „die Feinde des HERRN verachtet“. Viele Ausleger meinen, die Schreiber haben hier ein Wort eingefügt, um nicht zu schreiben „du hast den HERRN verachtet“.
+> Der Tod des Kindes ist sehr schwer zu verstehen. Warum muss ein unschuldiges Kind für die Schuld seines Vaters sterben? Die Bibel gibt keine einfache Antwort. Wir dürfen diese Frage stellen und ehrlich sagen, dass sie uns schmerzt. An anderen Stellen sagt die Bibel klar: Kinder sollen nicht für die Schuld ihrer Eltern bestraft werden (5. Mose 24,16; Hesekiel 18,20).
+
+---
+
+### Das Kind stirbt (Vers 15–23)
+
+<sup>15</sup>Dann ging Natan in sein Haus.
+Und der HERR schlug das Kind, das die Frau von Uria David geboren hatte,
+und es wurde sehr krank.
+<sup>16</sup>Da flehte David Gott für das Kind an.
+David fastete, ging hinein und lag die ganze Nacht auf der Erde.
+<sup>17</sup>Die Ältesten seines Hauses stellten sich neben ihn,
+um ihn von der Erde aufzuheben.
+Aber er wollte nicht, und er aß kein Brot mit ihnen.
+<sup>18</sup>Am siebten Tag starb das Kind.
+Die Knechte Davids hatten Angst, ihm zu sagen, dass das Kind tot war.
+Denn sie sagten:
+„Schaut, als das Kind noch lebte, haben wir mit ihm geredet,
+und er hat nicht auf uns gehört.
+Wie soll er sich dann etwas antun, wenn wir ihm sagen, dass das Kind tot ist?“
+<sup>19</sup>Aber als David sah, dass seine Knechte miteinander flüsterten,
+merkte David, dass das Kind tot war.
+David sagte zu seinen Knechten:
+„Ist das Kind tot?“
+Sie sagten: „Es ist tot.“
+<sup>20</sup>Da stand David von der Erde auf,
+wusch sich, salbte sich und zog andere Kleider an.
+Er ging in das Haus des HERRN und betete an.
+Dann ging er in sein eigenes Haus.
+Er verlangte zu essen, und man setzte ihm Brot vor, und er aß.
+<sup>21</sup>Da sagten seine Knechte zu ihm:
+„Was ist das, was du getan hast?
+Als das Kind noch lebte, hast du gefastet und geweint.
+Aber jetzt, wo das Kind tot ist, stehst du auf und isst Brot.“
+<sup>22</sup>Er sagte:
+„Solange das Kind noch lebte, habe ich gefastet und geweint.
+Denn ich dachte:
+‚Wer weiß, vielleicht ist der HERR mir gnädig, und das Kind bleibt am Leben.‘
+<sup>23</sup>Aber jetzt ist es tot.
+Warum soll ich fasten?
+Kann ich es zurückholen?
+Ich werde zu ihm gehen,
+aber es wird nicht zu mir zurückkommen.“
+
+> **Was bedeutet das?**
+> David kämpft im Gebet um das Leben seines Kindes. Sieben Tage lang liegt er auf dem Boden, fastet und betet. Er hofft, dass Gott vielleicht doch gnädig ist.
+> Als das Kind stirbt, überrascht David alle. Er steht auf, wäscht sich und betet Gott an. Er nimmt Gottes Entscheidung an, obwohl sie ihm das Herz bricht.
+> Sein Satz „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkommen“ hat viele trauernde Eltern getröstet. David denkt daran, dass er seinem Kind im Tod wieder begegnen wird.
+> Die Geschichte zeigt auch: Man darf mit Gott ringen und um etwas bitten, solange Hoffnung besteht. Und man darf danach weiterleben.
+
+---
+
+### Salomo wird geboren (Vers 24–25)
+
+<sup>24</sup>David tröstete seine Frau Batseba.
+Er ging zu ihr hinein und schlief mit ihr.
+Sie gebar einen Sohn, und er nannte ihn Salomo.
+Und der HERR liebte ihn.
+<sup>25</sup>Er schickte eine Botschaft durch den Propheten Natan,
+und der nannte ihn Jedidja, um des HERRN willen.
+
+> **Was bedeutet das?**
+> Zum ersten Mal wird Batseba „seine Frau“ genannt, nicht mehr „die Frau von Uria“. Und zum ersten Mal wird erzählt, dass David sie tröstet. Auch sie hat ein Kind verloren.
+> Der Name Salomo hängt mit dem Wort „Schalom“, Frieden, zusammen.
+> Und Gott gibt dem Kind durch Natan einen zweiten Namen: „Jedidja“ heißt „Geliebter des HERRN“. Das ist ein Zeichen der Versöhnung. Gott hat einen Neuanfang geschenkt. Aus dieser schwierigen Ehe kommt der nächste König Israels.
+
+---
+
+### Die Eroberung von Rabba (Vers 26–31)
+
+<sup>26</sup>Joab kämpfte gegen Rabba, die Stadt der Ammoniter,
+und nahm die Königsstadt ein.
+<sup>27</sup>Joab schickte Boten zu David und ließ ihm sagen:
+„Ich habe gegen Rabba gekämpft.
+Ja, ich habe die Wasserstadt eingenommen.
+<sup>28</sup>Darum versammle jetzt den Rest des Volkes,
+belagere die Stadt und nimm sie ein.
+Sonst nehme ich die Stadt ein, und sie wird nach meinem Namen genannt.“
+<sup>29</sup>Da versammelte David das ganze Volk und zog nach Rabba.
+Er kämpfte gegen die Stadt und nahm sie ein.
+<sup>30</sup>Er nahm die Krone ihres Königs von seinem Kopf.
+Sie wog etwa 34 Kilogramm Gold,
+und darin waren Edelsteine.
+Und sie wurde auf Davids Kopf gesetzt.
+Er brachte sehr viel Beute aus der Stadt heraus.
+<sup>31</sup>Er führte das Volk heraus, das darin war,
+und setzte sie an Sägen, an eiserne Hacken und eiserne Äxte zur Arbeit
+und ließ sie an den Ziegelöfen arbeiten.
+So machte er es mit allen Städten der Ammoniter.
+Dann kehrten David und das ganze Volk nach Jerusalem zurück.
+
+> **Was bedeutet das?**
+> Rabba ist das heutige Amman, die Hauptstadt von Jordanien. Die „Wasserstadt“ war wohl der Teil der Stadt mit der Wasserversorgung. Danach konnte die Stadt nicht mehr lange durchhalten.
+> Joab lässt David den Ruhm des Sieges. Er will nicht, dass die Stadt nach ihm benannt wird.
+> In der Bibel steht „ein Talent Gold“. Ein Talent waren etwa 34 Kilogramm. Eine so schwere Krone konnte man kaum tragen. Vielleicht wurde sie nur kurz bei einer Feier aufgesetzt. Manche Ausleger meinen, die Krone gehörte zu einer Götterstatue: Das hebräische Wort für „ihr König“ (malkam) klingt wie „Milkom“, der Gott der Ammoniter.
+> Vers 31: Die besiegten Ammoniter mussten Zwangsarbeit leisten. Ältere Übersetzungen verstanden den Vers so, dass David sie mit Sägen und Äxten grausam tötete. Die englische Vorlage und viele neue Übersetzungen verstehen ihn als Zwangsarbeit.
+> Das Kapitel endet mit einem Sieg. Aber nach dem, was vorher geschah, schmeckt dieser Sieg bitter. Davids Familie wird von nun an das Schwert nicht mehr loswerden.
