@@ -57011,3 +57011,525 @@ Sein Sohn Ahas wurde an seiner Stelle König.
 > **Was bedeutet das?**
 > Jotam ist einer der wenigen Könige, über die die Chronik nichts Schlechtes sagt.
 > Vers 8 wiederholt Vers 1. Vielleicht soll damit ein Abschnitt abgeschlossen werden, bevor mit Ahas eine sehr dunkle Zeit beginnt.
+
+## 2. Chronik – Kapitel 28
+#### Ahas und die barmherzigen Samariter
+
+---
+
+### Ahas dient fremden Göttern (Vers 1–4)
+
+<sup>1</sup>Ahas war 20 Jahre alt, als er König wurde,
+und er regierte 16 Jahre in Jerusalem.
+Er tat nicht, was recht war in den Augen des HERRN,
+wie sein Vater David,
+<sup>2</sup>sondern er ging auf den Wegen der Könige von Israel
+und machte auch gegossene Bilder für die Baale.
+<sup>3</sup>Außerdem verbrannte er Weihrauch im Tal Ben-Hinnom
+und verbrannte seine Kinder im Feuer,
+nach den Gräueln der Völker,
+die der HERR vor den Kindern Israels vertrieben hatte.
+<sup>4</sup>Er opferte und räucherte auf den Opferhöhen,
+auf den Hügeln
+und unter jedem grünen Baum.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 2. Könige 16. Ahas regierte etwa von 735 bis 715 vor Christus.
+> Ahas ist einer der schlimmsten Könige Judas. Er betet fremde Götter an und tut das Schrecklichste: Er verbrennt seine eigenen Kinder als Opfer. Das ist ein entsetzliches Verbrechen. Gottes Gesetz verbietet es ausdrücklich (3. Mose 18,21; 5. Mose 18,10). Gott will keine Menschenopfer. Schon bei Abraham und Isaak hat er gezeigt: Kein Kind soll geopfert werden (1. Mose 22).
+> Das Tal Ben-Hinnom liegt südlich von Jerusalem. Dort fanden solche Kinderopfer statt. Später wurde der Name des Tals („Gehenna“) zum Bild für die Hölle.
+
+---
+
+### Niederlagen gegen Syrien und Israel (Vers 5–8)
+
+<sup>5</sup>Darum gab ihn der HERR, sein Gott, in die Hand des Königs von Syrien.
+Sie schlugen ihn,
+führten eine große Menge Gefangene von ihm weg
+und brachten sie nach Damaskus.
+Er wurde auch in die Hand des Königs von Israel gegeben,
+der ihm eine schwere Niederlage beibrachte.
+<sup>6</sup>Denn Pekach, der Sohn Remaljas, tötete in Juda an einem Tag 120 000,
+alles tapfere Männer,
+weil sie den HERRN, den Gott ihrer Väter, verlassen hatten.
+<sup>7</sup>Sichri, ein starker Krieger aus Efraim,
+tötete Maaseja, den Sohn des Königs,
+Asrikam, den Verwalter des Palastes,
+und Elkana, den zweiten Mann nach dem König.
+<sup>8</sup>Die Kinder Israels führten von ihren Brüdern 200 000 gefangen weg,
+Frauen, Söhne und Töchter.
+Sie nahmen ihnen auch viel Beute weg
+und brachten die Beute nach Samaria.
+
+> **Was bedeutet das?**
+> Der König von Syrien war Rezin, der König von Israel war Pekach. Die beiden verbündeten sich gegen Juda (der „Syrisch-Efraimitische Krieg“, etwa 734 vor Christus). In dieser Zeit sprach der Prophet Jesaja zu Ahas (Jesaja 7).
+> Die Zahlen sind wieder sehr groß. Wichtig ist: Juda erlitt eine furchtbare Niederlage. Und das Schlimmste: Brüder führen Brüder in die Sklaverei.
+
+---
+
+### Der Prophet Oded und die barmherzigen Männer aus Samaria (Vers 9–15)
+
+<sup>9</sup>Aber dort war ein Prophet des HERRN, der Oded hieß.
+Er ging dem Heer entgegen, das nach Samaria kam,
+und sagte zu ihnen:
+„Schaut, weil der HERR, der Gott eurer Väter, zornig auf Juda war,
+hat er sie in eure Hand gegeben.
+Und ihr habt sie in einer Wut getötet, die bis zum Himmel reicht.
+<sup>10</sup>Und jetzt habt ihr vor, die Kinder Judas und Jerusalems
+zu euren Sklaven und Sklavinnen zu erniedrigen.
+Habt ihr selbst nicht auch Schuld vor dem HERRN, eurem Gott?
+<sup>11</sup>Darum hört jetzt auf mich
+und schickt die Gefangenen zurück,
+die ihr von euren Brüdern gefangen genommen habt.
+Denn der glühende Zorn des HERRN ist über euch.“
+<sup>12</sup>Da standen einige von den Oberhäuptern der Söhne Efraims auf:
+Asarja, der Sohn Johanans,
+Berechja, der Sohn Meschillemots,
+Jehiskija, der Sohn Schallums,
+und Amasa, der Sohn Hadlais.
+Sie stellten sich gegen die, die aus dem Krieg kamen,
+<sup>13</sup>und sagten zu ihnen:
+„Ihr dürft die Gefangenen nicht hierher bringen!
+Denn ihr habt etwas vor, das Schuld vor dem HERRN über uns bringt,
+um unsere Sünden und unsere Schuld noch größer zu machen.
+Denn unsere Schuld ist groß,
+und glühender Zorn liegt auf Israel.“
+<sup>14</sup>Da ließen die Bewaffneten die Gefangenen und die Beute
+vor den Fürsten und der ganzen Versammlung zurück.
+<sup>15</sup>Die Männer, die mit Namen genannt worden sind, standen auf
+und nahmen sich der Gefangenen an.
+Mit der Beute kleideten sie alle, die nackt unter ihnen waren.
+Sie zogen ihnen Kleider und Sandalen an,
+gaben ihnen zu essen und zu trinken
+und salbten sie.
+Alle, die schwach waren, setzten sie auf Esel
+und brachten sie nach Jericho, der Palmenstadt, zu ihren Brüdern.
+Dann kehrten sie nach Samaria zurück.
+
+> **Was bedeutet das?**
+> Das ist eine der schönsten Geschichten in der Chronik, mitten in einem dunklen Kapitel.
+> Ein Prophet aus dem Nordreich sagt seinem eigenen Volk die Wahrheit: Ihr habt nicht das Recht, eure Brüder zu Sklaven zu machen. Ihr seid selbst schuldig vor Gott.
+> Und einige Anführer hören auf ihn. Sie tun noch mehr, als der Prophet verlangt: Sie geben den Gefangenen Kleidung, Essen und Trinken, salben ihre Wunden und setzen die Schwachen auf Esel.
+> Viele Ausleger sehen hier ein Vorbild für das Gleichnis Jesu vom barmherzigen Samariter (Lukas 10,30–37): Auch dort hilft ein Mann aus Samaria, gibt Öl auf die Wunden, setzt den Verletzten auf sein Tier und bringt ihn auf der Straße bei Jericho in Sicherheit.
+> Die Chronik zeigt damit: Auch im Nordreich gab es Menschen, die auf Gott hörten. Barmherzigkeit kann Feinde wieder zu Brüdern machen.
+
+---
+
+### Ahas sucht Hilfe bei Assyrien (Vers 16–21)
+
+<sup>16</sup>Zu dieser Zeit schickte der König Ahas zu den Königen von Assyrien,
+damit sie ihm helfen sollten.
+<sup>17</sup>Denn die Edomiter waren wieder gekommen,
+hatten Juda geschlagen und Gefangene weggeführt.
+<sup>18</sup>Auch die Philister waren in die Städte des Hügellandes
+und des Südlandes von Juda eingefallen.
+Sie hatten Bet-Schemesch, Ajalon, Gederot,
+Socho mit seinen Dörfern,
+Timna mit seinen Dörfern
+und Gimso mit seinen Dörfern eingenommen
+und wohnten dort.
+<sup>19</sup>Denn der HERR demütigte Juda wegen Ahas, des Königs von Israel,
+weil er in Juda zügellos gehandelt hatte
+und dem HERRN schwer untreu geworden war.
+<sup>20</sup>Tiglat-Pileser, der König von Assyrien, kam zu ihm.
+Er bedrängte ihn, statt ihn zu stärken.
+<sup>21</sup>Denn Ahas nahm einen Teil aus dem Haus des HERRN
+und aus dem Haus des Königs und der Fürsten
+und gab es dem König von Assyrien.
+Aber es half ihm nicht.
+
+> **Was bedeutet das?**
+> Statt Gott um Hilfe zu bitten, ruft Ahas den mächtigsten Herrscher der Welt: den König von Assyrien. Der Prophet Jesaja hatte ihn gewarnt (Jesaja 7,1–17): Vertrau auf Gott, dann wirst du bestehen!
+> In der englischen Vorlage heißt er „Tilgat-Pilneser“. Das ist eine andere Schreibweise für Tiglat-Pileser III. Er regierte etwa von 745 bis 727 vor Christus. In seinen eigenen Inschriften wird Ahas als einer der Könige genannt, die ihm Abgaben zahlten.
+> Nach 2. Könige 16,9 half Tiglat-Pileser kurzfristig, indem er Damaskus eroberte. Aber auf lange Sicht machte er Juda abhängig und arm. „Es half ihm nicht.“
+> Ahas wird hier „König von Israel“ genannt. Für die Chronik ist Juda das wahre Israel.
+
+---
+
+### Ahas schließt den Tempel (Vers 22–27)
+
+<sup>22</sup>In der Zeit seiner Not wurde er dem HERRN noch mehr untreu,
+dieser König Ahas.
+<sup>23</sup>Denn er opferte den Göttern von Damaskus, die ihn geschlagen hatten,
+und sagte:
+„Weil die Götter der Könige von Syrien ihnen geholfen haben,
+will ich ihnen opfern, damit sie auch mir helfen.“
+Aber sie wurden zu seinem Untergang und zum Untergang von ganz Israel.
+<sup>24</sup>Ahas sammelte die Geräte des Hauses Gottes,
+zerschlug die Geräte des Hauses Gottes
+und schloss die Türen des Hauses des HERRN.
+Und er machte sich Altäre an jeder Ecke Jerusalems.
+<sup>25</sup>In jeder Stadt Judas machte er Opferhöhen,
+um anderen Göttern zu räuchern.
+So reizte er den HERRN, den Gott seiner Väter, zum Zorn.
+<sup>26</sup>Seine übrige Geschichte und alle seine Wege, die früheren und die späteren,
+schau, sie sind aufgeschrieben im Buch der Könige von Juda und Israel.
+<sup>27</sup>Ahas legte sich zu seinen Vätern,
+und man begrub ihn in der Stadt, in Jerusalem.
+Denn man brachte ihn nicht in die Gräber der Könige von Israel.
+Sein Sohn Hiskija wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Vers 22 ist erschütternd: „In der Zeit seiner Not wurde er noch untreuer.“ Not kann Menschen zu Gott führen, wie Manasse später (Kapitel 33). Aber sie kann Menschen auch noch weiter von Gott wegtreiben.
+> Ahas denkt wie ein Geschäftsmann: Welcher Gott hilft am meisten? Den bete ich an. Aber Glaube ist kein Handel.
+> Am schlimmsten: Er schließt den Tempel. Die Lampen gehen aus, kein Gottesdienst findet mehr statt (Kapitel 29,7).
+> Ahas wird nicht in den Königsgräbern begraben. Und sein Sohn Hiskija wird genau das Gegenteil tun: Er öffnet den Tempel wieder.
+
+## 2. Chronik – Kapitel 29
+#### Hiskija öffnet den Tempel wieder
+
+---
+
+### Hiskijas Aufruf an die Priester und Leviten (Vers 1–11)
+
+<sup>1</sup>Hiskija wurde König, als er 25 Jahre alt war,
+und er regierte 29 Jahre in Jerusalem.
+Seine Mutter hieß Abija, die Tochter Secharjas.
+<sup>2</sup>Er tat, was recht war in den Augen des HERRN,
+ganz so, wie es sein Vater David getan hatte.
+<sup>3</sup>Im ersten Jahr seiner Regierung, im ersten Monat,
+öffnete er die Türen des Hauses des HERRN
+und besserte sie aus.
+<sup>4</sup>Er ließ die Priester und die Leviten kommen
+und versammelte sie auf dem freien Platz im Osten.
+<sup>5</sup>Er sagte zu ihnen:
+„Hört mir zu, ihr Leviten!
+Heiligt euch jetzt,
+und heiligt das Haus des HERRN, des Gottes eurer Väter,
+und schafft den Unrat aus dem Heiligtum hinaus!
+<sup>6</sup>Denn unsere Väter sind untreu gewesen
+und haben getan, was böse war in den Augen des HERRN, unseres Gottes.
+Sie haben ihn verlassen.
+Sie haben ihr Gesicht von der Wohnung des HERRN abgewandt
+und ihr den Rücken zugekehrt.
+<sup>7</sup>Sie haben auch die Türen der Vorhalle geschlossen,
+die Lampen ausgelöscht,
+und sie haben im Heiligtum dem Gott Israels weder Weihrauch verbrannt noch Brandopfer dargebracht.
+<sup>8</sup>Darum kam der Zorn des HERRN über Juda und Jerusalem.
+Er hat sie hin und her geworfen,
+zum Entsetzen und zum Spott gemacht,
+wie ihr mit euren eigenen Augen seht.
+<sup>9</sup>Denn schaut, unsere Väter sind durch das Schwert gefallen,
+und unsere Söhne, unsere Töchter und unsere Frauen sind deswegen in Gefangenschaft.
+<sup>10</sup>Jetzt habe ich in meinem Herzen,
+einen Bund mit dem HERRN, dem Gott Israels, zu schließen,
+damit sein glühender Zorn sich von uns abwendet.
+<sup>11</sup>Meine Söhne, seid jetzt nicht nachlässig!
+Denn der HERR hat euch erwählt,
+vor ihm zu stehen, ihm zu dienen,
+seine Diener zu sein und Weihrauch zu verbrennen.“
+
+> **Was bedeutet das?**
+> Hiskija regierte etwa von 715 bis 686 vor Christus. Er ist einer der besten Könige Judas. Die Chronik erzählt in drei Kapiteln (29–31) von seiner Erneuerung des Gottesdienstes.
+> Er wartet keinen Tag: Gleich im ersten Monat öffnet er den Tempel, den sein Vater geschlossen hatte.
+> Hiskija sagt ehrlich: Unsere Väter waren untreu. Er beschönigt nichts. Und er erklärt die Not des Volkes mit der Abkehr von Gott.
+> Ein „Bund“ ist ein feierliches Versprechen. Hiskija will ganz neu mit Gott anfangen.
+> Liebevoll nennt er die Leviten „meine Söhne“.
+
+---
+
+### Die Leviten reinigen den Tempel (Vers 12–19)
+
+<sup>12</sup>Da machten sich die Leviten auf:
+Mahat, der Sohn Amasais,
+und Joël, der Sohn Asarjas, von den Söhnen der Kehatiter;
+von den Söhnen Meraris
+Kisch, der Sohn Abdis,
+und Asarja, der Sohn Jehallelels;
+von den Gerschonitern
+Joach, der Sohn Simmas,
+und Eden, der Sohn Joachs;
+<sup>13</sup>von den Söhnen Elizafans
+Schimri und Jëuël;
+von den Söhnen Asafs
+Secharja und Mattanja;
+<sup>14</sup>von den Söhnen Hemans
+Jehuël und Schimi;
+von den Söhnen Jedutuns
+Schemaja und Usiël.
+<sup>15</sup>Sie versammelten ihre Brüder,
+heiligten sich
+und gingen hinein,
+nach dem Befehl des Königs, nach den Worten des HERRN,
+um das Haus des HERRN zu reinigen.
+<sup>16</sup>Die Priester gingen in das Innere des Hauses des HERRN, um es zu reinigen.
+Sie brachten alles Unreine, das sie im Tempel des HERRN fanden,
+in den Vorhof des Hauses des HERRN hinaus.
+Die Leviten nahmen es von dort
+und brachten es hinaus zum Bach Kidron.
+<sup>17</sup>Sie begannen am ersten Tag des ersten Monats mit dem Heiligen.
+Am achten Tag des Monats kamen sie zur Vorhalle des HERRN.
+Sie heiligten das Haus des HERRN in acht Tagen,
+und am 16. Tag des ersten Monats waren sie fertig.
+<sup>18</sup>Dann gingen sie hinein zum König Hiskija in den Palast
+und sagten:
+„Wir haben das ganze Haus des HERRN gereinigt,
+auch den Brandopferaltar mit allen seinen Geräten
+und den Tisch der Schaubrote mit allen seinen Geräten.
+<sup>19</sup>Und alle Geräte, die der König Ahas während seiner Regierung weggeworfen hat,
+als er untreu war,
+haben wir hergerichtet und geheiligt.
+Schau, sie sind vor dem Altar des HERRN.“
+
+> **Was bedeutet das?**
+> Vertreter aller Levitenfamilien helfen mit: die drei großen Familien Kehat, Merari und Gerschon und die Sänger-Familien Asaf, Heman und Jedutun.
+> Nur die Priester durften ins Innere des Tempels. Sie trugen den Unrat heraus, und die Leviten brachten ihn weg. Jeder tat seinen Teil.
+> Der „Unrat“ waren wohl Götzenbilder, fremde Altäre und Schmutz aus den Jahren, in denen der Tempel geschlossen war.
+> 16 Tage dauerte die Reinigung. Es war viel Arbeit, aber sie wurde mit Hingabe getan.
+
+---
+
+### Sühnopfer für das ganze Volk (Vers 20–24)
+
+<sup>20</sup>Da stand der König Hiskija früh auf,
+versammelte die Obersten der Stadt
+und ging hinauf zum Haus des HERRN.
+<sup>21</sup>Sie brachten sieben Stiere, sieben Widder, sieben Lämmer und sieben Ziegenböcke
+als Sündopfer für das Königreich, für das Heiligtum und für Juda.
+Er befahl den Priestern, den Söhnen Aarons,
+sie auf dem Altar des HERRN darzubringen.
+<sup>22</sup>Da schlachteten sie die Stiere,
+und die Priester fingen das Blut auf
+und sprengten es an den Altar.
+Sie schlachteten die Widder
+und sprengten das Blut an den Altar.
+Sie schlachteten auch die Lämmer
+und sprengten das Blut an den Altar.
+<sup>23</sup>Dann brachten sie die Ziegenböcke für das Sündopfer
+vor den König und die Versammlung,
+und sie legten ihre Hände auf sie.
+<sup>24</sup>Dann schlachteten die Priester sie
+und brachten mit ihrem Blut am Altar ein Sündopfer dar,
+um Sühne zu erwirken für ganz Israel.
+Denn der König hatte befohlen,
+dass das Brandopfer und das Sündopfer für ganz Israel dargebracht werden sollten.
+
+> **Was bedeutet das?**
+> Bevor der normale Gottesdienst wieder beginnt, braucht es Vergebung. Die Sündopfer sollen die Schuld der vergangenen Jahre sühnen.
+> Die Zahl Sieben steht in der Bibel für Vollständigkeit.
+> Das Handauflegen bedeutet: Wir geben unsere Schuld auf dieses Tier. Es stirbt an unserer Stelle (vgl. 3. Mose 4 und 16,21).
+> Wichtig: „für ganz Israel“. Hiskija denkt auch an das Nordreich. Christen sehen in diesen Opfern einen Hinweis auf Jesus, der nach dem Neuen Testament ein für alle Mal für die Schuld aller Menschen gestorben ist (Hebräer 10,10–12).
+
+---
+
+### Musik und Anbetung (Vers 25–30)
+
+<sup>25</sup>Er stellte die Leviten im Haus des HERRN auf,
+mit Zimbeln, Saiteninstrumenten und Harfen,
+nach dem Gebot Davids,
+Gads, des Sehers des Königs,
+und des Propheten Natan.
+Denn das Gebot kam vom HERRN durch seine Propheten.
+<sup>26</sup>Die Leviten standen mit den Instrumenten Davids da
+und die Priester mit den Trompeten.
+<sup>27</sup>Hiskija befahl, das Brandopfer auf dem Altar darzubringen.
+Als das Brandopfer begann,
+begann auch der Gesang des HERRN,
+zusammen mit den Trompeten und den Instrumenten Davids, des Königs von Israel.
+<sup>28</sup>Die ganze Versammlung betete an,
+die Sänger sangen,
+und die Trompeter bliesen.
+Das alles dauerte, bis das Brandopfer vollendet war.
+<sup>29</sup>Als sie mit dem Opfern fertig waren,
+verneigten sich der König und alle, die bei ihm waren,
+und beteten an.
+<sup>30</sup>Außerdem befahlen der König Hiskija und die Fürsten den Leviten,
+den HERRN mit den Worten Davids und des Sehers Asaf zu loben.
+Sie lobten mit Freude,
+verneigten sich und beteten an.
+
+> **Was bedeutet das?**
+> Die Musik im Tempel war nicht nur Davids Idee. Vers 25 sagt: Sie kam durch Propheten von Gott.
+> Wenn das Opfer beginnt, beginnt auch der Gesang. Vergebung und Freude gehören zusammen.
+> „Mit den Worten Davids und Asafs“: Das sind Psalmen. Viele Psalmen tragen die Namen David oder Asaf (zum Beispiel Psalm 50 und 73–83 von Asaf).
+
+---
+
+### Das Volk bringt freiwillig Opfer (Vers 31–36)
+
+<sup>31</sup>Dann sagte Hiskija:
+„Jetzt habt ihr euch dem HERRN geweiht.
+Tretet heran und bringt Schlachtopfer und Dankopfer in das Haus des HERRN.“
+Die Versammlung brachte Schlachtopfer und Dankopfer,
+und alle, die ein williges Herz hatten, brachten Brandopfer.
+<sup>32</sup>Die Zahl der Brandopfer, die die Versammlung brachte, war:
+70 Rinder, 100 Widder und 200 Lämmer.
+Das alles war ein Brandopfer für den HERRN.
+<sup>33</sup>Die geweihten Gaben waren 600 Rinder und 3000 Schafe.
+<sup>34</sup>Aber es waren zu wenige Priester,
+sodass sie nicht allen Brandopfern die Haut abziehen konnten.
+Darum halfen ihnen ihre Brüder, die Leviten,
+bis die Arbeit fertig war
+und bis die Priester sich geheiligt hatten.
+Denn die Leviten waren aufrichtiger im Herzen, sich zu heiligen, als die Priester.
+<sup>35</sup>Es gab auch Brandopfer in Menge,
+dazu das Fett der Friedensopfer
+und die Trankopfer für jedes Brandopfer.
+So wurde der Dienst im Haus des HERRN wieder eingerichtet.
+<sup>36</sup>Hiskija und das ganze Volk freuten sich über das,
+was Gott für das Volk bereitet hatte.
+Denn die Sache war schnell geschehen.
+
+> **Was bedeutet das?**
+> Jetzt kommt das Volk selbst. Niemand wird gezwungen. Es geben die, „die ein williges Herz hatten“.
+> Eine ehrliche Bemerkung in Vers 34: Die Leviten waren eifriger als die Priester. Die Chronik scheut sich nicht, auch die Priester zu kritisieren.
+> Vers 36: Die Freude war groß, weil alles so schnell ging. Das Volk war bereit für einen Neuanfang. Die Chronik sagt: Gott selbst hatte es vorbereitet.
+
+## 2. Chronik – Kapitel 30
+#### Das große Passafest
+
+---
+
+### Einladung an ganz Israel (Vers 1–5)
+
+<sup>1</sup>Hiskija schickte Boten zu ganz Israel und Juda
+und schrieb auch Briefe an Efraim und Manasse,
+dass sie zum Haus des HERRN nach Jerusalem kommen sollten,
+um dem HERRN, dem Gott Israels, das Passa zu feiern.
+<sup>2</sup>Denn der König hatte sich mit seinen Fürsten und der ganzen Versammlung in Jerusalem beraten,
+das Passa im zweiten Monat zu feiern.
+<sup>3</sup>Denn sie konnten es nicht zur richtigen Zeit feiern,
+weil sich nicht genug Priester geheiligt hatten
+und das Volk sich nicht in Jerusalem versammelt hatte.
+<sup>4</sup>Die Sache war recht in den Augen des Königs und der ganzen Versammlung.
+<sup>5</sup>So beschlossen sie, in ganz Israel ausrufen zu lassen,
+von Beerscheba bis Dan,
+dass sie kommen sollten,
+um dem HERRN, dem Gott Israels, in Jerusalem das Passa zu feiern.
+Denn sie hatten es nicht in großer Zahl gefeiert, wie es geschrieben steht.
+
+> **Was bedeutet das?**
+> Das Passa erinnert an die Befreiung aus Ägypten. Normalerweise feiert man es im ersten Monat. Aber das Gesetz erlaubt es, das Passa im zweiten Monat nachzuholen, wenn man im ersten Monat unrein oder weit weg war (4. Mose 9,6–13).
+> Das Besondere: Hiskija lädt auch das Nordreich ein, „Efraim und Manasse“. Das Nordreich war gerade von den Assyrern erobert worden (722 vor Christus). Viele waren weggeführt worden. Hiskija lädt die Übriggebliebenen ein.
+> „Von Beerscheba bis Dan“ heißt: vom äußersten Süden bis zum äußersten Norden. Das ganze Volk, wie zur Zeit Davids und Salomos.
+
+---
+
+### Der Brief des Königs (Vers 6–9)
+
+<sup>6</sup>So gingen die Läufer mit den Briefen des Königs und seiner Fürsten durch ganz Israel und Juda,
+nach dem Befehl des Königs,
+und sagten:
+„Ihr Kinder Israels, kehrt um zum HERRN,
+dem Gott Abrahams, Isaaks und Israels,
+damit er sich wieder dem Rest von euch zuwendet,
+der aus der Hand der Könige von Assyrien entkommen ist.
+<sup>7</sup>Seid nicht wie eure Väter und wie eure Brüder,
+die dem HERRN, dem Gott ihrer Väter, untreu waren,
+sodass er sie der Verwüstung preisgab,
+wie ihr seht.
+<sup>8</sup>Seid jetzt nicht halsstarrig wie eure Väter,
+sondern reicht dem HERRN die Hand
+und kommt zu seinem Heiligtum,
+das er für immer geheiligt hat.
+Dient dem HERRN, eurem Gott,
+damit sein glühender Zorn sich von euch abwendet.
+<sup>9</sup>Denn wenn ihr zum HERRN umkehrt,
+dann werden eure Brüder und eure Kinder Erbarmen finden
+bei denen, die sie gefangen weggeführt haben,
+und werden in dieses Land zurückkehren.
+Denn der HERR, euer Gott, ist gnädig und barmherzig
+und wird sein Gesicht nicht von euch abwenden,
+wenn ihr zu ihm umkehrt.“
+
+> **Was bedeutet das?**
+> Der Brief ist eine Einladung zur Umkehr. Das hebräische Wort „schuw“ (umkehren) kommt mehrmals vor: Kehrt um zu Gott, dann kehrt Gott sich euch zu, und eure Gefangenen kehren zurück.
+> „Halsstarrig“ heißt stur, wie ein Tier, das den Hals steif macht und sich nicht führen lässt.
+> „Reicht dem HERRN die Hand“: In der englischen Vorlage steht „gebt euch dem HERRN hin“. Wörtlich: „Gebt dem HERRN die Hand“, als Zeichen der Unterwerfung und des Vertrauens.
+> Vers 9 ist ein großes Versprechen: Gott ist gnädig und barmherzig (vgl. 2. Mose 34,6). Er wendet sich nicht ab von dem, der zu ihm umkehrt.
+
+---
+
+### Spott und Demut (Vers 10–12)
+
+<sup>10</sup>So zogen die Läufer von Stadt zu Stadt durch das Land Efraim und Manasse bis nach Sebulon.
+Aber die Leute lachten über sie und verspotteten sie.
+<sup>11</sup>Doch einige Männer aus Ascher, Manasse und Sebulon demütigten sich
+und kamen nach Jerusalem.
+<sup>12</sup>Auch in Juda war die Hand Gottes,
+um ihnen ein einmütiges Herz zu geben,
+damit sie den Befehl des Königs und der Fürsten nach dem Wort des HERRN ausführten.
+
+> **Was bedeutet das?**
+> Die Einladung wird von vielen verspottet. Das ist bis heute so: Nicht jeder nimmt Gottes Einladung an. Jesus erzählt ein ähnliches Gleichnis vom großen Festmahl (Lukas 14,16–24).
+> Aber einige kommen. Sie „demütigten sich“. Man muss seinen Stolz überwinden, um zu kommen.
+> In Juda bewirkt Gott Einmütigkeit. Das Volk ist sich einig.
+
+---
+
+### Das Fest beginnt (Vers 13–20)
+
+<sup>13</sup>Viel Volk versammelte sich in Jerusalem,
+um im zweiten Monat das Fest der ungesäuerten Brote zu feiern,
+eine sehr große Versammlung.
+<sup>14</sup>Sie machten sich auf
+und entfernten die Altäre, die in Jerusalem waren.
+Auch alle Räucheraltäre entfernten sie
+und warfen sie in den Bach Kidron.
+<sup>15</sup>Dann schlachteten sie das Passa am 14. Tag des zweiten Monats.
+Die Priester und die Leviten schämten sich,
+heiligten sich
+und brachten Brandopfer in das Haus des HERRN.
+<sup>16</sup>Sie standen an ihrem Platz nach ihrer Ordnung,
+nach dem Gesetz des Mose, des Mannes Gottes.
+Die Priester sprengten das Blut,
+das sie aus der Hand der Leviten empfingen.
+<sup>17</sup>Denn es waren viele in der Versammlung, die sich nicht geheiligt hatten.
+Darum übernahmen die Leviten das Schlachten der Passalämmer
+für alle, die nicht rein waren,
+um sie dem HERRN zu heiligen.
+<sup>18</sup>Denn eine Menge Volk,
+viele aus Efraim, Manasse, Issaschar und Sebulon,
+hatten sich nicht gereinigt.
+Trotzdem aßen sie das Passa,
+anders als es geschrieben steht.
+Denn Hiskija hatte für sie gebetet und gesagt:
+„Der gütige HERR möge jedem vergeben,
+<sup>19</sup>der sein Herz darauf richtet, Gott zu suchen,
+den HERRN, den Gott seiner Väter,
+auch wenn er nicht rein ist nach der Reinheit des Heiligtums.“
+<sup>20</sup>Der HERR hörte auf Hiskija
+und heilte das Volk.
+
+> **Was bedeutet das?**
+> Die Altäre, die Ahas überall in Jerusalem gebaut hatte (Kapitel 28,24), werden entfernt.
+> Die Priester und Leviten „schämten sich“: Das Volk war eifriger als sie. Das spornte sie an.
+> Vers 18–20 gehört zu den wichtigsten Stellen der Chronik. Viele Menschen aus dem Norden waren nicht nach den Regeln gereinigt. Eigentlich durften sie das Passa nicht essen. Aber Hiskija betet für sie: Gott, vergib jedem, der dich von Herzen sucht, auch wenn er nicht alle Regeln erfüllt.
+> Und Gott hört auf ihn. Das Herz ist Gott wichtiger als die äußere Form. Jesus sagt Ähnliches: Gott will Barmherzigkeit (Matthäus 9,13; 12,7).
+> „Er heilte das Volk“: Vielleicht befürchtete man Krankheit als Folge der Unreinheit. Gott schenkt Heilung statt Strafe.
+
+---
+
+### Freude, die zwei Wochen dauert (Vers 21–27)
+
+<sup>21</sup>Die Kinder Israels, die in Jerusalem waren,
+feierten das Fest der ungesäuerten Brote sieben Tage lang mit großer Freude.
+Die Leviten und die Priester lobten den HERRN Tag für Tag
+und sangen dem HERRN mit lauten Instrumenten.
+<sup>22</sup>Hiskija redete allen Leviten zu Herzen,
+die gute Einsicht hatten im Dienst des HERRN.
+So aßen sie das Festessen die sieben Tage lang,
+brachten Friedensopfer dar
+und bekannten sich zum HERRN, dem Gott ihrer Väter.
+<sup>23</sup>Die ganze Versammlung beschloss, noch weitere sieben Tage zu feiern.
+Und sie feierten noch sieben Tage mit Freude.
+<sup>24</sup>Denn Hiskija, der König von Juda,
+gab der Versammlung für die Opfer 1000 Stiere und 7000 Schafe.
+Und die Fürsten gaben der Versammlung 1000 Stiere und 10 000 Schafe.
+Und eine große Zahl von Priestern heiligte sich.
+<sup>25</sup>Die ganze Versammlung Judas freute sich,
+mit den Priestern und den Leviten,
+und die ganze Versammlung, die aus Israel gekommen war,
+und die Fremden, die aus dem Land Israel gekommen waren
+und die in Juda wohnten.
+<sup>26</sup>So war große Freude in Jerusalem.
+Denn seit der Zeit Salomos, des Sohnes Davids, des Königs von Israel,
+hatte es so etwas in Jerusalem nicht gegeben.
+<sup>27</sup>Dann standen die levitischen Priester auf und segneten das Volk.
+Ihre Stimme wurde gehört,
+und ihr Gebet kam hinauf zu seiner heiligen Wohnung, in den Himmel.
+
+> **Was bedeutet das?**
+> Die Freude ist so groß, dass das Fest einfach verlängert wird, um noch eine Woche. Das war schon bei Salomos Tempelweihe so (Kapitel 7,8–9).
+> Alle feiern zusammen: Juda und Israel, Priester und Volk, und auch die Fremden. Gottes Fest ist offen für alle, die kommen.
+> „Seit der Zeit Salomos“: Zum ersten Mal seit der Teilung des Reiches feiert das ganze Volk wieder gemeinsam.
+> Das Kapitel endet mit dem Segen und mit der Gewissheit: Das Gebet ist im Himmel angekommen. Gott hat gehört.
