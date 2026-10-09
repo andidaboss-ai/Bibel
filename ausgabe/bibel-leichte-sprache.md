@@ -76161,3 +76161,327 @@ um ihn zu retten vor denen, die über sein Leben richten.
 > Vers 28 ist ein Wendepunkt: „Sie mögen fluchen, du aber segne.“ Der Fluch der Menschen hat keine Macht, wenn Gott segnet.
 > Vers 31 ist die Antwort auf Vers 6: Dort sollte ein Ankläger zur Rechten des Beters stehen. Jetzt steht Gott selbst zur Rechten des Armen, als sein Verteidiger.
 > Psalm 109 zeigt: Man darf Gott auch seinen tiefsten Zorn und Schmerz sagen. Gott hört auch das. Aber das Gericht bleibt bei Gott. Und Gott steht auf der Seite der Armen und Verletzten.
+
+## Psalm 110
+#### Setze dich zu meiner Rechten
+
+---
+
+### Der König zur Rechten Gottes (Vers 1–3)
+
+<sup>1</sup>Ein Psalm von David.
+Der HERR spricht zu meinem Herrn:
+„Setze dich zu meiner Rechten,
+bis ich deine Feinde zum Schemel deiner Füße mache.“
+<sup>2</sup>Der HERR wird das Zepter deiner Macht aus Zion ausstrecken.
+Herrsche inmitten deiner Feinde!
+<sup>3</sup>Dein Volk ist bereitwillig am Tag deiner Macht,
+in heiligem Schmuck.
+Aus dem Schoß der Morgenröte
+hast du den Tau deiner Jugend.
+
+> **Was bedeutet das?**
+> Psalm 110 ist der Psalm, der im Neuen Testament am häufigsten zitiert wird (über 20 Mal).
+> Vers 1: „Der HERR (Gott) spricht zu meinem Herrn (dem König)“: Gott lädt den König ein, an seiner rechten Seite Platz zu nehmen, dem Ehrenplatz. Er wird die Feinde unter seine Füße legen. Damals setzten Sieger ihren Fuß auf den Nacken der Besiegten.
+> Jesus fragte die Schriftgelehrten: Wenn David den Messias „meinen Herrn“ nennt, wie kann der Messias dann nur Davids Sohn sein? (Markus 12,35–37). Christen glauben, dass Jesus nach seiner Auferstehung „zur Rechten Gottes“ sitzt (Apostelgeschichte 2,34–36; Hebräer 1,13).
+> Juden haben den Psalm auf den König aus Davids Familie oder auf den kommenden Messias bezogen.
+> Vers 3 ist im Hebräischen sehr schwer zu verstehen. Gemeint ist wohl: Der König ist jung und frisch wie der Tau am Morgen.
+
+---
+
+### Priester nach der Ordnung Melchisedeks (Vers 4)
+
+<sup>4</sup>Der HERR hat geschworen und wird es nicht bereuen:
+„Du bist Priester für immer nach der Ordnung Melchisedeks.“
+
+> **Was bedeutet das?**
+> In Israel waren Könige und Priester normalerweise verschiedene Personen. Könige kamen aus dem Stamm Juda, Priester aus dem Stamm Levi.
+> Aber dieser König ist auch Priester, nach dem Vorbild von Melchisedek. Melchisedek war König von Salem (Jerusalem) und zugleich Priester. Er segnete Abraham (1. Mose 14,18–20).
+> Der Hebräerbrief erklärt ausführlich, dass Jesus dieser ewige Priester nach der Ordnung Melchisedeks ist (Hebräer 5–7).
+
+---
+
+### Der Sieg des Königs (Vers 5–7)
+
+<sup>5</sup>Der Herr ist zu deiner Rechten.
+Er wird Könige zerschmettern am Tag seines Zorns.
+<sup>6</sup>Er wird unter den Völkern richten.
+Er wird Leichen aufhäufen.
+Er wird den Herrscher über die ganze Erde zerschmettern.
+<sup>7</sup>Er wird aus dem Bach am Weg trinken.
+Darum wird er sein Haupt erheben.
+
+> **Was bedeutet das?**
+> Diese Verse beschreiben in der Kriegssprache der damaligen Zeit den Sieg über alle Feinde. Es ist ein Bild für Gottes endgültigen Sieg über das Böse. Es ist keine Aufforderung zur Gewalt.
+> Vers 7: Ein rätselhafter Schluss. Vielleicht ein Bild: Der König stärkt sich unterwegs an einem Bach und geht siegreich weiter. Vielleicht erinnert es an ein Ritual bei der Königssalbung an der Gihon-Quelle (1. Könige 1,38–39).
+
+## Psalm 111
+#### Die Furcht des HERRN ist der Anfang der Weisheit
+
+---
+
+### Groß sind die Werke des HERRN (Vers 1–5)
+
+<sup>1</sup>Lobt Jah!
+Ich will dem HERRN danken von ganzem Herzen
+im Kreis der Aufrichtigen und in der Gemeinde.
+<sup>2</sup>Groß sind die Werke des HERRN,
+erforscht von allen, die Freude an ihnen haben.
+<sup>3</sup>Sein Werk ist Hoheit und Pracht.
+Seine Gerechtigkeit bleibt für immer.
+<sup>4</sup>Er hat ein Gedächtnis seiner Wunder gestiftet.
+Gnädig und barmherzig ist der HERR.
+<sup>5</sup>Er hat denen Nahrung gegeben, die ihn fürchten.
+Er denkt für immer an seinen Bund.
+
+> **Was bedeutet das?**
+> Psalm 111 und 112 sind Zwillinge: Beide sind Alphabet-Gedichte mit je 22 Halbzeilen. Psalm 111 lobt Gott, Psalm 112 beschreibt den Menschen, der Gott fürchtet.
+> Vers 2: Gottes Werke sind es wert, erforscht zu werden. Über dem Eingang des Physiklabors (Cavendish Laboratory) in Cambridge steht dieser Vers auf Lateinisch. Naturwissenschaft und Glaube müssen keine Gegner sein.
+> Vers 4: „Ein Gedächtnis seiner Wunder“: Die Feste Israels, besonders das Passafest, erinnern an Gottes Taten.
+> Vers 5: Nahrung in der Wüste: das Manna.
+
+---
+
+### Seine Gebote sind zuverlässig (Vers 6–9)
+
+<sup>6</sup>Er hat seinem Volk die Macht seiner Werke gezeigt,
+indem er ihnen das Erbe der Völker gab.
+<sup>7</sup>Die Werke seiner Hände sind Wahrheit und Recht.
+Alle seine Vorschriften sind zuverlässig.
+<sup>8</sup>Sie stehen fest für immer und ewig.
+Sie sind in Wahrheit und Aufrichtigkeit gemacht.
+<sup>9</sup>Er hat seinem Volk Erlösung gesandt.
+Er hat seinen Bund für immer festgesetzt.
+Heilig und furchterregend ist sein Name!
+
+> **Was bedeutet das?**
+> Gottes Gebote sind nicht willkürlich. Sie sind „in Wahrheit und Aufrichtigkeit gemacht“, gut und zuverlässig.
+> Vers 9: Gott hat sein Volk erlöst, aus Ägypten und später aus dem Exil.
+
+---
+
+### Der Anfang der Weisheit (Vers 10)
+
+<sup>10</sup>Die Furcht des HERRN ist der Anfang der Weisheit.
+Alle, die danach handeln, haben gute Einsicht.
+Sein Lob bleibt für immer!
+
+> **Was bedeutet das?**
+> Vers 10 ist ein berühmter Satz, der auch in Sprüche 1,7 und 9,10 vorkommt.
+> „Furcht des HERRN“ heißt nicht Angst vor Gott. Es heißt: Ehrfurcht, Respekt, Gott ernst nehmen. Wer Gott ernst nimmt, beginnt weise zu werden.
+
+## Psalm 112
+#### Glücklich, wer den HERRN fürchtet
+
+---
+
+### Ein Licht in der Finsternis (Vers 1–4)
+
+<sup>1</sup>Lobt Jah!
+Glücklich ist der Mensch, der den HERRN fürchtet,
+der große Freude an seinen Geboten hat.
+<sup>2</sup>Seine Nachkommen werden mächtig sein im Land.
+Die Generation der Aufrichtigen wird gesegnet.
+<sup>3</sup>Wohlstand und Reichtum sind in seinem Haus.
+Seine Gerechtigkeit bleibt für immer.
+<sup>4</sup>Den Aufrichtigen geht in der Finsternis ein Licht auf,
+gnädig, barmherzig und gerecht.
+
+> **Was bedeutet das?**
+> Psalm 112 ist der Zwilling von Psalm 111. Was dort über Gott gesagt wird, wird hier über den Menschen gesagt, der Gott fürchtet. Zum Beispiel: „Seine Gerechtigkeit bleibt für immer“ (111,3 und 112,3), „gnädig und barmherzig“ (111,4 und 112,4).
+> Das heißt: Wer Gott ehrt, wird ihm ähnlich.
+> Vers 4: Auch der Gerechte erlebt dunkle Zeiten. Aber in der Dunkelheit geht ihm ein Licht auf.
+
+---
+
+### Er gibt den Armen (Vers 5–9)
+
+<sup>5</sup>Gut geht es dem Menschen, der gnädig ist und ausleiht.
+Er wird seine Sache vor Gericht vertreten.
+<sup>6</sup>Denn er wird niemals wanken.
+An den Gerechten wird man für immer denken.
+<sup>7</sup>Er fürchtet sich nicht vor schlechten Nachrichten.
+Sein Herz ist fest. Er vertraut auf den HERRN.
+<sup>8</sup>Sein Herz ist gefestigt.
+Er wird sich nicht fürchten, bis er auf seine Gegner herabsieht.
+<sup>9</sup>Er hat ausgestreut, er hat den Armen gegeben.
+Seine Gerechtigkeit bleibt für immer.
+Sein Horn wird erhoben in Ehren.
+
+> **Was bedeutet das?**
+> Der Gerechte ist großzügig. Er leiht anderen, er gibt den Armen.
+> Vers 7: „Er fürchtet sich nicht vor schlechten Nachrichten“: Wer auf Gott vertraut, hat einen festen Halt, auch wenn schlimme Nachrichten kommen.
+> Paulus zitiert Vers 9, als er die Gemeinde in Korinth zum Spenden für die Armen ermutigt (2. Korinther 9,9).
+
+---
+
+### Der Gottlose sieht es (Vers 10)
+
+<sup>10</sup>Der Gottlose wird es sehen und sich ärgern.
+Er wird mit den Zähnen knirschen und vergehen.
+Das Verlangen der Gottlosen wird zunichte.
+
+> **Was bedeutet das?**
+> Der Psalm endet mit einem Gegenbild: Der Gottlose ist neidisch und ärgert sich. Seine Wünsche erfüllen sich nicht.
+
+## Psalm 113
+#### Wer ist wie der HERR?
+
+---
+
+### Vom Aufgang der Sonne bis zu ihrem Untergang (Vers 1–4)
+
+<sup>1</sup>Lobt Jah!
+Lobt, ihr Knechte des HERRN,
+lobt den Namen des HERRN!
+<sup>2</sup>Gepriesen sei der Name des HERRN
+von nun an bis in Ewigkeit!
+<sup>3</sup>Vom Aufgang der Sonne bis zu ihrem Untergang
+sei der Name des HERRN gelobt!
+<sup>4</sup>Der HERR ist erhaben über alle Völker,
+seine Herrlichkeit über den Himmel.
+
+> **Was bedeutet das?**
+> Mit Psalm 113 beginnt das „Hallel“ (Psalm 113–118). Diese Psalmen singen Juden bis heute an großen Festen, besonders am Passafest. Auch Jesus hat sie mit seinen Jüngern beim letzten Abendmahl gesungen (Matthäus 26,30).
+> Vers 3: Den ganzen Tag lang, und überall auf der Welt, von Osten bis Westen, soll Gott gelobt werden.
+
+---
+
+### Er hebt den Armen aus dem Staub (Vers 5–9)
+
+<sup>5</sup>Wer ist wie der HERR, unser Gott,
+der in der Höhe thront,
+<sup>6</sup>der sich herabneigt, um zu sehen
+im Himmel und auf der Erde?
+<sup>7</sup>Er hebt den Armen aus dem Staub
+und erhöht den Bedürftigen aus dem Schmutz,
+<sup>8</sup>um ihn neben Fürsten zu setzen,
+neben die Fürsten seines Volkes.
+<sup>9</sup>Er lässt die unfruchtbare Frau im Haus wohnen
+als fröhliche Mutter von Kindern.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Gott ist so hoch, dass er sich sogar „herabneigen“ muss, um den Himmel zu sehen. Und doch sieht er die Kleinsten auf der Erde.
+> Vers 7–8: Gott holt Arme aus dem Elend und setzt sie neben Fürsten. Hanna hat fast dieselben Worte gesungen (1. Samuel 2,8), und auch Maria in ihrem Lobgesang (Lukas 1,52).
+> Vers 9: Eine Frau ohne Kinder wurde damals oft verachtet. Gott schenkt ihr Freude, wie Sara, Rebekka, Rahel und Hanna.
+> Wenn du dir Kinder wünschst und keine bekommst: Das ist kein Zeichen, dass Gott dich weniger liebt. Gottes Liebe hängt nicht von Kindern ab.
+
+## Psalm 114
+#### Als Israel aus Ägypten zog
+
+---
+
+### Das Meer sah es und floh (Vers 1–4)
+
+<sup>1</sup>Als Israel aus Ägypten zog,
+das Haus Jakobs aus einem Volk mit fremder Sprache,
+<sup>2</sup>da wurde Juda sein Heiligtum,
+Israel sein Herrschaftsbereich.
+<sup>3</sup>Das Meer sah es und floh.
+Der Jordan wich zurück.
+<sup>4</sup>Die Berge hüpften wie Widder,
+die Hügel wie Lämmer.
+
+> **Was bedeutet das?**
+> Psalm 114 ist ein kurzes, lebendiges Gedicht über den Auszug aus Ägypten. Es gehört zum Hallel, das am Passafest gesungen wird.
+> Vers 3: Zwei Wunder werden zusammen genannt: Das Rote Meer teilte sich beim Auszug (2. Mose 14), der Jordan beim Einzug ins Land (Josua 3).
+> Vers 4: Die Berge hüpfen wie junge Schafe. Gemeint ist das Erdbeben am Berg Sinai (2. Mose 19,18). Die Natur reagiert lebendig, als Gott kommt.
+
+---
+
+### Was ist mit dir, Meer? (Vers 5–8)
+
+<sup>5</sup>Was ist mit dir, Meer, dass du fliehst?
+Du Jordan, dass du zurückweichst?
+<sup>6</sup>Ihr Berge, dass ihr hüpft wie Widder?
+Ihr Hügel, wie Lämmer?
+<sup>7</sup>Erbebe, du Erde, vor dem Angesicht des Herrn,
+vor dem Angesicht des Gottes Jakobs,
+<sup>8</sup>der den Felsen in einen Wasserteich verwandelt,
+den Kieselstein in eine Wasserquelle.
+
+> **Was bedeutet das?**
+> Der Dichter fragt das Meer und die Berge, fast mit Humor: Was ist denn mit euch los?
+> Die Antwort: Gott ist gekommen! Vor ihm muss die ganze Erde beben.
+> Vers 8: Der Gott, der Meere austrocknet, kann auch aus hartem Felsen Wasser fließen lassen (2. Mose 17,6). Er kann Totes lebendig machen.
+
+## Psalm 115
+#### Nicht uns, HERR, sondern deinem Namen gib Ehre
+
+---
+
+### Nicht uns, sondern deinem Namen (Vers 1–3)
+
+<sup>1</sup>Nicht uns, HERR, nicht uns,
+sondern deinem Namen gib Ehre
+wegen deiner Güte und wegen deiner Treue!
+<sup>2</sup>Warum sollen die Völker sagen:
+„Wo ist denn ihr Gott?“
+<sup>3</sup>Unser Gott ist im Himmel.
+Er tut alles, was ihm gefällt.
+
+> **Was bedeutet das?**
+> Vers 1 ist ein Gebet der Demut: Nicht wir sollen geehrt werden, sondern Gott. Viele Menschen haben diesen Vers als Lebensmotto gewählt (lateinisch: „Non nobis, Domine“).
+> Die Völker spotten: Wo ist denn euer Gott? Man sieht ihn ja nicht.
+> Die Antwort: Unser Gott ist im Himmel. Man kann ihn nicht sehen, aber er ist mächtig.
+
+---
+
+### Götzen sind tot (Vers 4–8)
+
+<sup>4</sup>Ihre Götzen sind Silber und Gold,
+das Werk von Menschenhänden.
+<sup>5</sup>Sie haben einen Mund, aber sie reden nicht.
+Sie haben Augen, aber sie sehen nicht.
+<sup>6</sup>Sie haben Ohren, aber sie hören nicht.
+Sie haben eine Nase, aber sie riechen nicht.
+<sup>7</sup>Sie haben Hände, aber sie fühlen nicht.
+Sie haben Füße, aber sie gehen nicht.
+Sie geben keinen Laut aus ihrer Kehle.
+<sup>8</sup>Die sie machen, werden ihnen gleich,
+ja, jeder, der auf sie vertraut.
+
+> **Was bedeutet das?**
+> Die Götter der anderen Völker kann man sehen. Aber sie sind nur Figuren aus Metall. Sie haben Augen, Ohren, Hände, Füße, aber nichts davon funktioniert.
+> Vers 8: Ein tiefer Gedanke: Man wird dem ähnlich, was man anbetet. Wer leblose Dinge anbetet, wird selbst innerlich leblos. Das gilt auch für moderne „Götzen“ wie Geld, Macht oder Erfolg.
+
+---
+
+### Vertraut auf den HERRN! (Vers 9–15)
+
+<sup>9</sup>Israel, vertraue auf den HERRN!
+Er ist ihre Hilfe und ihr Schild.
+<sup>10</sup>Haus Aaron, vertraue auf den HERRN!
+Er ist ihre Hilfe und ihr Schild.
+<sup>11</sup>Ihr, die ihr den HERRN fürchtet, vertraut auf den HERRN!
+Er ist ihre Hilfe und ihr Schild.
+<sup>12</sup>Der HERR denkt an uns. Er wird uns segnen.
+Er wird das Haus Israel segnen.
+Er wird das Haus Aaron segnen.
+<sup>13</sup>Er wird die segnen, die den HERRN fürchten,
+die Kleinen wie die Großen.
+<sup>14</sup>Der HERR möge euch mehr und mehr Gutes geben,
+euch und euren Kindern.
+<sup>15</sup>Gesegnet seid ihr vom HERRN,
+der Himmel und Erde gemacht hat.
+
+> **Was bedeutet das?**
+> Drei Gruppen werden aufgerufen: das ganze Volk Israel, die Priester (Haus Aaron) und alle, die Gott fürchten. Mit der dritten Gruppe sind vielleicht auch Menschen aus anderen Völkern gemeint, die sich dem Gott Israels angeschlossen haben.
+> Vers 13: Gott segnet alle, „die Kleinen wie die Großen“. Vor Gott ist niemand zu unwichtig.
+
+---
+
+### Wir loben Jah (Vers 16–18)
+
+<sup>16</sup>Der Himmel ist der Himmel des HERRN,
+aber die Erde hat er den Menschenkindern gegeben.
+<sup>17</sup>Die Toten loben Jah nicht,
+und keiner, der hinabfährt in die Stille.
+<sup>18</sup>Wir aber wollen Jah preisen
+von nun an bis in Ewigkeit.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 16: Gott hat den Menschen die Erde anvertraut. Das ist ein Geschenk und eine Verantwortung (vgl. 1. Mose 1,28; 2,15).
+> Vers 17–18: Solange wir leben, wollen wir Gott loben, und zwar „bis in Ewigkeit“.
