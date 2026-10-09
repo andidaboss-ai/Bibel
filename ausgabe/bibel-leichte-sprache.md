@@ -67275,3 +67275,320 @@ und sah seine Söhne und die Söhne seiner Söhne, vier Generationen.
 > **Was wir nicht wissen:** Der Leser weiß mehr als Hiob: Er kennt die Szene im Himmel (Kapitel 1–2). Das zeigt: Auch hinter unserem Leid kann es Zusammenhänge geben, die wir nicht sehen.
 > **Das Ende:** Hiob betet für seine Freunde, wird wiederhergestellt und stirbt „alt und lebenssatt“. Aber das gute Ende macht das Leid nicht ungeschehen. Nicht jedes Leid endet in diesem Leben gut. Das Buch Hiob verspricht das auch nicht. Es zeigt aber: Gott verlässt die Leidenden nicht.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch der Psalmen, 150 Lieder und Gebete. Viele davon klingen wie Hiob: Klage, Fragen, Vertrauen und Lob.
+
+
+---
+
+# Psalmen
+
+## Psalm 1
+#### Zwei Wege
+
+---
+
+### Bevor es losgeht: Was ist das Buch der Psalmen?
+
+> **Was bedeutet das?**
+> Das Buch der Psalmen ist das Gebets- und Liederbuch der Bibel. Es enthält 150 Psalmen. „Psalm“ kommt aus dem Griechischen und bedeutet „Lied, das mit Saiteninstrumenten begleitet wird“. Auf Hebräisch heißt das Buch „Tehillim“, das heißt „Lobgesänge“.
+> **Wer hat sie geschrieben?** Viele Psalmen werden David zugeschrieben, dem König Israels (um 1000 vor Christus). Andere stammen von Asaf, den Söhnen Korachs, Salomo, Mose und anderen. Viele haben keinen Namen. Die Psalmen sind über viele Jahrhunderte entstanden.
+> **Fünf Bücher:** Die Psalmen sind in fünf Teile gegliedert, so wie die fünf Bücher Mose: Psalm 1–41, 42–72, 73–89, 90–106 und 107–150. Jeder Teil endet mit einem Lob Gottes.
+> **Was steht darin?** Alles, was Menschen vor Gott bringen: Lob und Dank, Klage und Verzweiflung, Bitte um Hilfe, Bekenntnis von Schuld, Vertrauen, Zorn über Unrecht, Freude über Gottes Schöpfung. Die Psalmen zeigen: Man darf mit Gott über alles reden.
+> **Überschriften:** Viele Psalmen haben eine Überschrift, zum Beispiel „Ein Psalm Davids“ oder „Für den Chorleiter“. In der englischen Vorlage gehört die Überschrift zu Vers 1. In vielen deutschen Bibeln wird die Überschrift als eigener Vers gezählt. Deshalb sind dort die Versnummern oft um 1 oder 2 höher.
+> **„Sela“:** Dieses Wort steht oft am Ende eines Abschnitts. Niemand weiß genau, was es bedeutet. Wahrscheinlich ist es ein musikalisches Zeichen, etwa für eine Pause oder ein Zwischenspiel.
+> **Dichtung:** Die Psalmen sind Gedichte. Typisch ist der „Parallelismus“: Ein Gedanke wird in der zweiten Zeile mit anderen Worten wiederholt oder weitergeführt. Darum behalten wir die Zeilenform bei.
+> **Bis heute:** Juden und Christen beten die Psalmen seit Jahrtausenden. Jesus hat sie gebetet, sogar am Kreuz (Psalm 22 und 31). Das Neue Testament zitiert kein Buch so oft wie die Psalmen.
+
+---
+
+### Glücklich ist, wer Gottes Weisung liebt (Vers 1–3)
+
+<sup>1</sup>Glücklich ist der Mensch,
+der nicht nach dem Rat der Gottlosen lebt,
+der nicht auf dem Weg der Sünder stehen bleibt
+und nicht im Kreis der Spötter sitzt,
+<sup>2</sup>sondern der Freude hat an der Weisung des HERRN
+und über seine Weisung nachdenkt bei Tag und bei Nacht.
+<sup>3</sup>Er wird sein wie ein Baum, der an Wasserbächen gepflanzt ist,
+der seine Frucht bringt zu seiner Zeit
+und dessen Blätter nicht verwelken.
+Alles, was er tut, wird gelingen.
+
+> **Was bedeutet das?**
+> Psalm 1 ist das Eingangstor zum ganzen Buch. Er zeigt zwei Wege, zwischen denen jeder Mensch wählen kann.
+> „Glücklich“ (oft übersetzt mit „Wohl dem“ oder „Selig“): Es geht um ein gelingendes, erfülltes Leben.
+> Vers 1 zeigt eine Steigerung: gehen, stehen, sitzen. Wer sich dem Bösen nähert, wird erst mitgerissen, dann bleibt er stehen, und schließlich setzt er sich dazu und gehört dazu.
+> „Weisung“ (englisch „law“, hebräisch „Tora“) meint nicht nur Gesetze, sondern alles, was Gott uns zeigt, wie wir gut leben können.
+> „Nachdenken“ heißt im Hebräischen eigentlich „murmeln“: Man sagte die Worte halblaut vor sich hin, um sie sich einzuprägen.
+> Das Bild vom Baum am Wasser: Auch in Zeiten der Dürre bleibt er grün, weil seine Wurzeln an der Quelle sind (vgl. Jeremia 17,7–8).
+
+---
+
+### Der Weg der Gottlosen (Vers 4–6)
+
+<sup>4</sup>So sind die Gottlosen nicht,
+sondern sie sind wie die Spreu, die der Wind verweht.
+<sup>5</sup>Darum werden die Gottlosen im Gericht nicht bestehen
+und die Sünder nicht in der Gemeinde der Gerechten.
+<sup>6</sup>Denn der HERR kennt den Weg der Gerechten,
+aber der Weg der Gottlosen wird vergehen.
+
+> **Was bedeutet das?**
+> Spreu sind die leeren Hülsen beim Dreschen des Getreides. Man warf alles in die Luft, und der Wind trug die leichte Spreu davon. Übrig blieb das schwere Korn.
+> Der Baum hat Wurzeln und bringt Frucht. Die Spreu hat kein Gewicht und keinen Halt.
+> Vers 6: „Der HERR kennt den Weg der Gerechten.“ „Kennen“ heißt in der Bibel mehr als „wissen“. Es heißt: begleiten, sich kümmern, Gemeinschaft haben.
+> Der Psalm beschreibt, wie Gott es sich gedacht hat. Hiob hat gezeigt, dass das Leben nicht immer so einfach aussieht. Aber am Ende, so sagt der Psalm, hat nur der Weg mit Gott Bestand.
+
+## Psalm 2
+#### Der König, den Gott eingesetzt hat
+
+---
+
+### Die Völker lehnen sich auf (Vers 1–3)
+
+<sup>1</sup>Warum toben die Völker,
+und warum planen die Nationen etwas Vergebliches?
+<sup>2</sup>Die Könige der Erde stellen sich auf,
+und die Herrscher beraten sich miteinander
+gegen den HERRN und gegen seinen Gesalbten und sagen:
+<sup>3</sup>„Lasst uns ihre Fesseln zerreißen
+und ihre Stricke von uns werfen!“
+
+> **Was bedeutet das?**
+> Psalm 2 gehört mit Psalm 1 zusammen. Beide bilden zusammen den Eingang zum Buch der Psalmen.
+> Mächtige Könige wollen sich gegen Gott und seinen König auflehnen. Sie empfinden Gottes Herrschaft als Fesseln.
+> „Gesalbter“ heißt auf Hebräisch „Maschiach“ (Messias), auf Griechisch „Christos“. Gemeint war zuerst der König Israels, der bei seiner Einsetzung mit Öl gesalbt wurde (vgl. 1. Samuel 16,13).
+
+---
+
+### Gott lacht über sie (Vers 4–6)
+
+<sup>4</sup>Der im Himmel thront, lacht.
+Der Herr spottet über sie.
+<sup>5</sup>Dann redet er zu ihnen in seinem Zorn
+und erschreckt sie in seiner Glut:
+<sup>6</sup>„Ich aber habe meinen König eingesetzt
+auf Zion, meinem heiligen Berg.“
+
+> **Was bedeutet das?**
+> Gott ist nicht beunruhigt. Die Pläne der Mächtigen sind für ihn lächerlich klein.
+> Zion ist der Berg in Jerusalem, auf dem der Tempel stand. Dort hat Gott seinen König eingesetzt.
+
+---
+
+### Du bist mein Sohn (Vers 7–9)
+
+<sup>7</sup>Ich will von dem Beschluss erzählen.
+Der HERR hat zu mir gesagt: „Du bist mein Sohn.
+Heute bin ich dein Vater geworden.
+<sup>8</sup>Bitte mich, und ich will dir die Völker als Erbe geben
+und die Enden der Erde zu deinem Besitz.
+<sup>9</sup>Du sollst sie mit einem eisernen Stab zerschlagen.
+Wie Töpfergeschirr sollst du sie zerschmettern.“
+
+> **Was bedeutet das?**
+> Jetzt redet der König selbst. Er erzählt, was Gott bei seiner Einsetzung gesagt hat: „Du bist mein Sohn.“
+> Im alten Israel war das eine Art Adoptionsformel. Am Tag seiner Krönung wurde der König zu Gottes „Sohn“ (vgl. 2. Samuel 7,14).
+> Juden verstehen den Psalm auf den König aus dem Haus David und auf den kommenden Messias.
+> Christen sehen hier einen Hinweis auf Jesus. Bei seiner Taufe sagt die Stimme vom Himmel: „Du bist mein geliebter Sohn“ (Markus 1,11). Das Neue Testament zitiert Vers 7 mehrmals (Apostelgeschichte 13,33; Hebräer 1,5).
+> Vers 9 ist ein Bild für vollständige Macht. Es ist ein Bild aus der Sprache der Könige damals. Es ist keine Aufforderung zur Gewalt. Das Neue Testament verbindet es mit dem endgültigen Sieg über das Böse (Offenbarung 19,15).
+
+---
+
+### Eine Warnung an die Mächtigen (Vers 10–12)
+
+<sup>10</sup>Nun also, ihr Könige, seid klug!
+Lasst euch warnen, ihr Richter der Erde!
+<sup>11</sup>Dient dem HERRN mit Furcht
+und freut euch mit Zittern!
+<sup>12</sup>Erweist dem Sohn aufrichtige Ehre,
+damit er nicht zornig wird und ihr auf dem Weg umkommt,
+denn sein Zorn kann schnell entbrennen.
+Glücklich sind alle, die bei ihm Zuflucht suchen.
+
+> **Was bedeutet das?**
+> Die Mächtigen werden gewarnt, aber auch eingeladen: Seid klug! Dient Gott!
+> Vers 12 ist im Hebräischen schwer zu übersetzen. Wörtlich steht dort wohl „Küsst den Sohn“. Das Küssen war ein Zeichen der Ehrerbietung vor einem König. Andere übersetzen: „Küsst seine Füße“ oder „Nehmt Zucht an“.
+> Der Psalm endet mit „Glücklich“, so wie Psalm 1 damit begonnen hat. Das verbindet die beiden Psalmen wie einen Rahmen.
+> „Zuflucht suchen“: Wer sich Gott anvertraut, ist sicher.
+
+## Psalm 3
+#### Ein Morgengebet in Gefahr
+
+---
+
+### So viele Feinde (Vers 1–2)
+
+<sup>1</sup>Ein Psalm von David, als er vor seinem Sohn Abschalom floh.
+HERR, wie viele sind meine Gegner geworden!
+Viele stehen gegen mich auf.
+<sup>2</sup>Viele sagen über mich:
+„Er hat keine Hilfe bei Gott.“
+Sela.
+
+> **Was bedeutet das?**
+> Die Überschrift nennt die Situation: David muss vor seinem eigenen Sohn Abschalom fliehen, der ihm den Thron wegnehmen will (2. Samuel 15–18). Das ist einer der schmerzlichsten Momente in Davids Leben.
+> Das Schlimmste sind nicht nur die vielen Feinde, sondern ihr Spott: „Gott hilft ihm nicht mehr.“ Das kennt auch Hiob.
+> „Sela“: wahrscheinlich ein musikalisches Zeichen für eine Pause (siehe Psalm 1).
+> Hinweis: In deutschen Bibeln ist die Überschrift Vers 1. Darum ist dort jeder Vers um 1 höher.
+
+---
+
+### Aber du, HERR (Vers 3–6)
+
+<sup>3</sup>Aber du, HERR, bist ein Schild um mich,
+meine Ehre und der, der meinen Kopf aufrichtet.
+<sup>4</sup>Ich rufe mit meiner Stimme zum HERRN,
+und er antwortet mir von seinem heiligen Berg.
+Sela.
+<sup>5</sup>Ich legte mich nieder und schlief.
+Ich wachte auf, denn der HERR hält mich.
+<sup>6</sup>Ich fürchte mich nicht vor Zehntausenden von Menschen,
+die sich ringsum gegen mich aufgestellt haben.
+
+> **Was bedeutet das?**
+> Mit „Aber du“ kommt die Wende. David schaut nicht mehr auf die Feinde, sondern auf Gott.
+> Gott ist wie ein Schild, der ihn rundherum schützt. „Der meinen Kopf aufrichtet“: Als David floh, ging er mit verhülltem Kopf und weinte (2. Samuel 15,30). Gott richtet ihn wieder auf.
+> Vers 5: Mitten in der Gefahr kann David schlafen. Das ist ein Zeichen großen Vertrauens. Darum gilt Psalm 3 als Morgengebet: Ich bin aufgewacht, Gott hat mich bewahrt.
+
+---
+
+### Steh auf, HERR! (Vers 7–8)
+
+<sup>7</sup>Steh auf, HERR! Rette mich, mein Gott!
+Denn du hast alle meine Feinde auf die Backe geschlagen.
+Du hast die Zähne der Gottlosen zerbrochen.
+<sup>8</sup>Die Rettung gehört dem HERRN.
+Dein Segen sei auf deinem Volk.
+Sela.
+
+> **Was bedeutet das?**
+> „Steh auf, HERR!“ war der Ruf, wenn die Bundeslade in den Kampf zog (4. Mose 10,35).
+> Die Feinde werden mit wilden Tieren verglichen. Wenn man ihnen die Zähne bricht, können sie nicht mehr beißen. Das ist ein Bild: Gott nimmt den Feinden die Macht zu schaden. David schlägt nicht selbst zu, er überlässt es Gott.
+> Vers 8: Am Ende denkt David nicht nur an sich, sondern segnet das ganze Volk, auch die, die ihm gerade untreu geworden sind.
+
+## Psalm 4
+#### Ein Abendgebet
+
+---
+
+### Antworte mir, wenn ich rufe (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten. Ein Psalm von David.
+Antworte mir, wenn ich rufe, Gott meiner Gerechtigkeit!
+Schaff mir Erleichterung aus meiner Not!
+Sei mir gnädig und hör mein Gebet!
+<sup>2</sup>Ihr Menschenkinder, wie lange soll meine Ehre in Schande verwandelt werden?
+Wollt ihr das Nichtige lieben und die Lüge suchen?
+Sela.
+<sup>3</sup>Aber erkennt, dass der HERR den Frommen für sich ausgesondert hat.
+Der HERR hört, wenn ich zu ihm rufe.
+
+> **Was bedeutet das?**
+> „Für den Chorleiter“: Diese Angabe steht über vielen Psalmen. Sie zeigt, dass die Psalmen im Gottesdienst gesungen wurden.
+> „Gott meiner Gerechtigkeit“: Gott ist der, der mir Recht verschafft.
+> David wird von Menschen verleumdet. Sie lieben „das Nichtige“ und „die Lüge“. Manche denken hier an falsche Götter, andere an falsche Gerüchte.
+
+---
+
+### Werdet still (Vers 4–5)
+
+<sup>4</sup>Steht in Ehrfurcht und sündigt nicht!
+Prüft euer eigenes Herz auf eurem Lager und seid still!
+Sela.
+<sup>5</sup>Bringt Opfer der Gerechtigkeit dar
+und vertraut auf den HERRN!
+
+> **Was bedeutet das?**
+> Ein guter Rat für den Abend: Bevor du schläfst, denk über deinen Tag nach. Prüfe dein Herz. Werde still.
+> Vers 4 kann man auch übersetzen: „Zürnt ihr, so sündigt nicht.“ So zitiert Paulus ihn in Epheser 4,26: „Lasst die Sonne nicht über eurem Zorn untergehen.“
+> „Opfer der Gerechtigkeit“: Opfer, die mit ehrlichem Herzen gebracht werden, nicht nur äußerlich.
+
+---
+
+### Frieden in der Nacht (Vers 6–8)
+
+<sup>6</sup>Viele sagen: „Wer wird uns Gutes sehen lassen?“
+HERR, lass das Licht deines Angesichts über uns leuchten!
+<sup>7</sup>Du hast mir Freude ins Herz gegeben,
+mehr als wenn sie viel Korn und neuen Wein haben.
+<sup>8</sup>In Frieden will ich mich niederlegen und schlafen,
+denn du allein, HERR, lässt mich sicher wohnen.
+
+> **Was bedeutet das?**
+> Viele Menschen sind unzufrieden und fragen: Wo bleibt das Gute?
+> David antwortet mit einem Gebet aus dem Aaronitischen Segen: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).
+> Vers 7: Die Freude, die von Gott kommt, ist größer als die Freude über eine reiche Ernte.
+> Vers 8 ist einer der schönsten Sätze für den Abend: „In Frieden will ich mich niederlegen und schlafen.“ Psalm 3 war ein Morgengebet, Psalm 4 ist ein Abendgebet.
+
+## Psalm 5
+#### Ein Gebet am Morgen
+
+---
+
+### Am Morgen hörst du meine Stimme (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Mit Flöten. Ein Psalm von David.
+Hör meine Worte, HERR!
+Achte auf mein Nachsinnen!
+<sup>2</sup>Hör auf die Stimme meines Schreiens, mein König und mein Gott,
+denn zu dir bete ich.
+<sup>3</sup>HERR, am Morgen wirst du meine Stimme hören.
+Am Morgen lege ich dir meine Bitten vor
+und warte voller Erwartung.
+
+> **Was bedeutet das?**
+> David beginnt den Tag mit Gebet. Er bringt Gott seine Bitten und wartet gespannt auf Gottes Antwort.
+> „Mein König“: David ist selbst König, aber er weiß: Der eigentliche König ist Gott.
+> „Warten voller Erwartung“: wie ein Wächter, der auf den Morgen wartet.
+
+---
+
+### Gott hat kein Gefallen am Bösen (Vers 4–6)
+
+<sup>4</sup>Denn du bist kein Gott, der Gefallen an Gottlosigkeit hat.
+Das Böse kann nicht bei dir wohnen.
+<sup>5</sup>Die Überheblichen werden vor deinen Augen nicht bestehen.
+Du hasst alle, die Unrecht tun.
+<sup>6</sup>Du vernichtest die, die Lügen reden.
+Der HERR verabscheut den blutgierigen und betrügerischen Menschen.
+
+> **Was bedeutet das?**
+> Gott ist heilig. Er kann das Böse nicht dulden.
+> „Du hasst alle, die Unrecht tun“: Das ist eine starke Aussage. In der Sprache der Bibel heißt „hassen“ oft: entschieden ablehnen, nicht bei sich haben wollen. Die Bibel sagt auch, dass Gott nicht den Tod des Sünders will, sondern dass er umkehrt und lebt (Hesekiel 18,23).
+
+---
+
+### Ich komme in dein Haus (Vers 7–8)
+
+<sup>7</sup>Ich aber darf durch deine große Güte in dein Haus kommen.
+Ich will mich in Ehrfurcht vor dir zu deinem heiligen Tempel hin niederbeugen.
+<sup>8</sup>Führe mich, HERR, in deiner Gerechtigkeit wegen meiner Feinde!
+Mach deinen Weg eben vor mir!
+
+> **Was bedeutet das?**
+> David weiß: Ich darf zu Gott kommen, nicht weil ich so gut bin, sondern „durch deine große Güte“. Das hebräische Wort ist „Chesed“: Gottes treue Liebe.
+> „Zum Tempel hin“: Juden beten bis heute in Richtung Jerusalem.
+> David bittet: Zeig mir den richtigen Weg und mach ihn eben, ohne Stolpersteine.
+
+---
+
+### Die Feinde und die, die Zuflucht suchen (Vers 9–12)
+
+<sup>9</sup>Denn in ihrem Mund ist keine Treue.
+Ihr Herz ist Verderben.
+Ihre Kehle ist ein offenes Grab.
+Mit ihrer Zunge schmeicheln sie.
+<sup>10</sup>Sprich sie schuldig, Gott!
+Lass sie durch ihre eigenen Pläne fallen!
+Stoß sie hinaus wegen der Menge ihrer Übertretungen,
+denn sie haben sich gegen dich aufgelehnt.
+<sup>11</sup>Aber alle, die bei dir Zuflucht suchen, sollen sich freuen.
+Sie sollen für immer jubeln, weil du sie beschützt.
+Auch die, die deinen Namen lieben, sollen fröhlich sein in dir.
+<sup>12</sup>Denn du segnest den Gerechten.
+HERR, du umgibst ihn mit Gunst wie mit einem Schild.
+
+> **Was bedeutet das?**
+> Vers 9: Die Worte der Feinde sind tödlich wie ein offenes Grab. Paulus zitiert das in Römer 3,13, um zu zeigen: Alle Menschen brauchen Gottes Gnade.
+> Vers 10 ist eine Bitte um Gerechtigkeit. David bittet Gott, die Bösen an ihren eigenen Plänen scheitern zu lassen. Er nimmt nicht selbst Rache, sondern überlässt das Urteil Gott. Solche Gebete nennt man „Fluchpsalmen“ oder „Rachepsalmen“. Sie zeigen ehrlich den Schmerz von Menschen, denen Unrecht geschieht. Jesus lehrt später, sogar für die Feinde zu beten (Matthäus 5,44).
+> Vers 11–12: Der Psalm endet mit Freude. Gott beschützt alle, die bei ihm Zuflucht suchen, wie mit einem großen Schild.

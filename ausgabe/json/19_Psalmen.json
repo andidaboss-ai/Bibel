@@ -1,0 +1,423 @@
+{
+ "nr": 19,
+ "code": "PSA",
+ "kuerzel": "Ps",
+ "name": "Psalmen",
+ "name_englisch": "Psalms",
+ "testament": "altes-testament",
+ "kapitel": 150,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Zwei Wege",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch der Psalmen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "Das Buch der Psalmen ist das Gebets- und Liederbuch der Bibel. Es enthält 150 Psalmen. „Psalm“ kommt aus dem Griechischen und bedeutet „Lied, das mit Saiteninstrumenten begleitet wird“. Auf Hebräisch heißt das Buch „Tehillim“, das heißt „Lobgesänge“.\n**Wer hat sie geschrieben?** Viele Psalmen werden David zugeschrieben, dem König Israels (um 1000 vor Christus). Andere stammen von Asaf, den Söhnen Korachs, Salomo, Mose und anderen. Viele haben keinen Namen. Die Psalmen sind über viele Jahrhunderte entstanden.\n**Fünf Bücher:** Die Psalmen sind in fünf Teile gegliedert, so wie die fünf Bücher Mose: Psalm 1–41, 42–72, 73–89, 90–106 und 107–150. Jeder Teil endet mit einem Lob Gottes.\n**Was steht darin?** Alles, was Menschen vor Gott bringen: Lob und Dank, Klage und Verzweiflung, Bitte um Hilfe, Bekenntnis von Schuld, Vertrauen, Zorn über Unrecht, Freude über Gottes Schöpfung. Die Psalmen zeigen: Man darf mit Gott über alles reden.\n**Überschriften:** Viele Psalmen haben eine Überschrift, zum Beispiel „Ein Psalm Davids“ oder „Für den Chorleiter“. In der englischen Vorlage gehört die Überschrift zu Vers 1. In vielen deutschen Bibeln wird die Überschrift als eigener Vers gezählt. Deshalb sind dort die Versnummern oft um 1 oder 2 höher.\n**„Sela“:** Dieses Wort steht oft am Ende eines Abschnitts. Niemand weiß genau, was es bedeutet. Wahrscheinlich ist es ein musikalisches Zeichen, etwa für eine Pause oder ein Zwischenspiel.\n**Dichtung:** Die Psalmen sind Gedichte. Typisch ist der „Parallelismus“: Ein Gedanke wird in der zweiten Zeile mit anderen Worten wiederholt oder weitergeführt. Darum behalten wir die Zeilenform bei.\n**Bis heute:** Juden und Christen beten die Psalmen seit Jahrtausenden. Jesus hat sie gebetet, sogar am Kreuz (Psalm 22 und 31). Das Neue Testament zitiert kein Buch so oft wie die Psalmen."
+    },
+    {
+     "ueberschrift": "Glücklich ist, wer Gottes Weisung liebt",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Glücklich ist der Mensch,\nder nicht nach dem Rat der Gottlosen lebt,\nder nicht auf dem Weg der Sünder stehen bleibt\nund nicht im Kreis der Spötter sitzt,",
+       "englisch_web": "Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "sondern der Freude hat an der Weisung des HERRN\nund über seine Weisung nachdenkt bei Tag und bei Nacht.",
+       "englisch_web": "but his delight is in Yahweh’s law. On his law he meditates day and night."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er wird sein wie ein Baum, der an Wasserbächen gepflanzt ist,\nder seine Frucht bringt zu seiner Zeit\nund dessen Blätter nicht verwelken.\nAlles, was er tut, wird gelingen.",
+       "englisch_web": "He will be like a tree planted by the streams of water, that produces its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper."
+      }
+     ],
+     "erklaerung": "Psalm 1 ist das Eingangstor zum ganzen Buch. Er zeigt zwei Wege, zwischen denen jeder Mensch wählen kann.\n„Glücklich“ (oft übersetzt mit „Wohl dem“ oder „Selig“): Es geht um ein gelingendes, erfülltes Leben.\nVers 1 zeigt eine Steigerung: gehen, stehen, sitzen. Wer sich dem Bösen nähert, wird erst mitgerissen, dann bleibt er stehen, und schließlich setzt er sich dazu und gehört dazu.\n„Weisung“ (englisch „law“, hebräisch „Tora“) meint nicht nur Gesetze, sondern alles, was Gott uns zeigt, wie wir gut leben können.\n„Nachdenken“ heißt im Hebräischen eigentlich „murmeln“: Man sagte die Worte halblaut vor sich hin, um sie sich einzuprägen.\nDas Bild vom Baum am Wasser: Auch in Zeiten der Dürre bleibt er grün, weil seine Wurzeln an der Quelle sind (vgl. Jeremia 17,7–8)."
+    },
+    {
+     "ueberschrift": "Der Weg der Gottlosen",
+     "vers_von": 4,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "So sind die Gottlosen nicht,\nsondern sie sind wie die Spreu, die der Wind verweht.",
+       "englisch_web": "The wicked are not so, but are like the chaff which the wind drives away."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Darum werden die Gottlosen im Gericht nicht bestehen\nund die Sünder nicht in der Gemeinde der Gerechten.",
+       "englisch_web": "Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn der HERR kennt den Weg der Gerechten,\naber der Weg der Gottlosen wird vergehen.",
+       "englisch_web": "For Yahweh knows the way of the righteous, but the way of the wicked shall perish."
+      }
+     ],
+     "erklaerung": "Spreu sind die leeren Hülsen beim Dreschen des Getreides. Man warf alles in die Luft, und der Wind trug die leichte Spreu davon. Übrig blieb das schwere Korn.\nDer Baum hat Wurzeln und bringt Frucht. Die Spreu hat kein Gewicht und keinen Halt.\nVers 6: „Der HERR kennt den Weg der Gerechten.“ „Kennen“ heißt in der Bibel mehr als „wissen“. Es heißt: begleiten, sich kümmern, Gemeinschaft haben.\nDer Psalm beschreibt, wie Gott es sich gedacht hat. Hiob hat gezeigt, dass das Leben nicht immer so einfach aussieht. Aber am Ende, so sagt der Psalm, hat nur der Weg mit Gott Bestand."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Der König, den Gott eingesetzt hat",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Völker lehnen sich auf",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Warum toben die Völker,\nund warum planen die Nationen etwas Vergebliches?",
+       "englisch_web": "Why do the nations rage, and the peoples plot a vain thing?"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Die Könige der Erde stellen sich auf,\nund die Herrscher beraten sich miteinander\ngegen den HERRN und gegen seinen Gesalbten und sagen:",
+       "englisch_web": "The kings of the earth take a stand, and the rulers take counsel together, against Yahweh, and against his Anointed, saying,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "„Lasst uns ihre Fesseln zerreißen\nund ihre Stricke von uns werfen!“",
+       "englisch_web": "“Let’s break their bonds apart, and cast their cords from us.”"
+      }
+     ],
+     "erklaerung": "Psalm 2 gehört mit Psalm 1 zusammen. Beide bilden zusammen den Eingang zum Buch der Psalmen.\nMächtige Könige wollen sich gegen Gott und seinen König auflehnen. Sie empfinden Gottes Herrschaft als Fesseln.\n„Gesalbter“ heißt auf Hebräisch „Maschiach“ (Messias), auf Griechisch „Christos“. Gemeint war zuerst der König Israels, der bei seiner Einsetzung mit Öl gesalbt wurde (vgl. 1. Samuel 16,13)."
+    },
+    {
+     "ueberschrift": "Gott lacht über sie",
+     "vers_von": 4,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Der im Himmel thront, lacht.\nDer Herr spottet über sie.",
+       "englisch_web": "He who sits in the heavens will laugh. The Lord will have them in derision."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Dann redet er zu ihnen in seinem Zorn\nund erschreckt sie in seiner Glut:",
+       "englisch_web": "Then he will speak to them in his anger, and terrify them in his wrath:"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "„Ich aber habe meinen König eingesetzt\nauf Zion, meinem heiligen Berg.“",
+       "englisch_web": "“Yet I have set my King on my holy hill of Zion.”"
+      }
+     ],
+     "erklaerung": "Gott ist nicht beunruhigt. Die Pläne der Mächtigen sind für ihn lächerlich klein.\nZion ist der Berg in Jerusalem, auf dem der Tempel stand. Dort hat Gott seinen König eingesetzt."
+    },
+    {
+     "ueberschrift": "Du bist mein Sohn",
+     "vers_von": 7,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich will von dem Beschluss erzählen.\nDer HERR hat zu mir gesagt: „Du bist mein Sohn.\nHeute bin ich dein Vater geworden.",
+       "englisch_web": "I will tell of the decree: Yahweh said to me, “You are my son. Today I have become your father."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Bitte mich, und ich will dir die Völker als Erbe geben\nund die Enden der Erde zu deinem Besitz.",
+       "englisch_web": "Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du sollst sie mit einem eisernen Stab zerschlagen.\nWie Töpfergeschirr sollst du sie zerschmettern.“",
+       "englisch_web": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”"
+      }
+     ],
+     "erklaerung": "Jetzt redet der König selbst. Er erzählt, was Gott bei seiner Einsetzung gesagt hat: „Du bist mein Sohn.“\nIm alten Israel war das eine Art Adoptionsformel. Am Tag seiner Krönung wurde der König zu Gottes „Sohn“ (vgl. 2. Samuel 7,14).\nJuden verstehen den Psalm auf den König aus dem Haus David und auf den kommenden Messias.\nChristen sehen hier einen Hinweis auf Jesus. Bei seiner Taufe sagt die Stimme vom Himmel: „Du bist mein geliebter Sohn“ (Markus 1,11). Das Neue Testament zitiert Vers 7 mehrmals (Apostelgeschichte 13,33; Hebräer 1,5).\nVers 9 ist ein Bild für vollständige Macht. Es ist ein Bild aus der Sprache der Könige damals. Es ist keine Aufforderung zur Gewalt. Das Neue Testament verbindet es mit dem endgültigen Sieg über das Böse (Offenbarung 19,15)."
+    },
+    {
+     "ueberschrift": "Eine Warnung an die Mächtigen",
+     "vers_von": 10,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Nun also, ihr Könige, seid klug!\nLasst euch warnen, ihr Richter der Erde!",
+       "englisch_web": "Now therefore be wise, you kings. Be instructed, you judges of the earth."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Dient dem HERRN mit Furcht\nund freut euch mit Zittern!",
+       "englisch_web": "Serve Yahweh with fear, and rejoice with trembling."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Erweist dem Sohn aufrichtige Ehre,\ndamit er nicht zornig wird und ihr auf dem Weg umkommt,\ndenn sein Zorn kann schnell entbrennen.\nGlücklich sind alle, die bei ihm Zuflucht suchen.",
+       "englisch_web": "Give sincere homage to the Son, lest he be angry, and you perish on the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him."
+      }
+     ],
+     "erklaerung": "Die Mächtigen werden gewarnt, aber auch eingeladen: Seid klug! Dient Gott!\nVers 12 ist im Hebräischen schwer zu übersetzen. Wörtlich steht dort wohl „Küsst den Sohn“. Das Küssen war ein Zeichen der Ehrerbietung vor einem König. Andere übersetzen: „Küsst seine Füße“ oder „Nehmt Zucht an“.\nDer Psalm endet mit „Glücklich“, so wie Psalm 1 damit begonnen hat. Das verbindet die beiden Psalmen wie einen Rahmen.\n„Zuflucht suchen“: Wer sich Gott anvertraut, ist sicher."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Ein Morgengebet in Gefahr",
+   "abschnitte": [
+    {
+     "ueberschrift": "So viele Feinde",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Psalm von David, als er vor seinem Sohn Abschalom floh.\nHERR, wie viele sind meine Gegner geworden!\nViele stehen gegen mich auf.",
+       "englisch_web": "A Psalm by David, when he fled from Absalom his son. Yahweh, how my adversaries have increased! Many are those who rise up against me."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Viele sagen über mich:\n„Er hat keine Hilfe bei Gott.“\nSela.",
+       "englisch_web": "Many there are who say of my soul, “There is no help for him in God.” Selah."
+      }
+     ],
+     "erklaerung": "Die Überschrift nennt die Situation: David muss vor seinem eigenen Sohn Abschalom fliehen, der ihm den Thron wegnehmen will (2. Samuel 15–18). Das ist einer der schmerzlichsten Momente in Davids Leben.\nDas Schlimmste sind nicht nur die vielen Feinde, sondern ihr Spott: „Gott hilft ihm nicht mehr.“ Das kennt auch Hiob.\n„Sela“: wahrscheinlich ein musikalisches Zeichen für eine Pause (siehe Psalm 1).\nHinweis: In deutschen Bibeln ist die Überschrift Vers 1. Darum ist dort jeder Vers um 1 höher."
+    },
+    {
+     "ueberschrift": "Aber du, HERR",
+     "vers_von": 3,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber du, HERR, bist ein Schild um mich,\nmeine Ehre und der, der meinen Kopf aufrichtet.",
+       "englisch_web": "But you, Yahweh, are a shield around me, my glory, and the one who lifts up my head."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich rufe mit meiner Stimme zum HERRN,\nund er antwortet mir von seinem heiligen Berg.\nSela.",
+       "englisch_web": "I cry to Yahweh with my voice, and he answers me out of his holy hill. Selah."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich legte mich nieder und schlief.\nIch wachte auf, denn der HERR hält mich.",
+       "englisch_web": "I laid myself down and slept. I awakened, for Yahweh sustains me."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ich fürchte mich nicht vor Zehntausenden von Menschen,\ndie sich ringsum gegen mich aufgestellt haben.",
+       "englisch_web": "I will not be afraid of tens of thousands of people who have set themselves against me on every side."
+      }
+     ],
+     "erklaerung": "Mit „Aber du“ kommt die Wende. David schaut nicht mehr auf die Feinde, sondern auf Gott.\nGott ist wie ein Schild, der ihn rundherum schützt. „Der meinen Kopf aufrichtet“: Als David floh, ging er mit verhülltem Kopf und weinte (2. Samuel 15,30). Gott richtet ihn wieder auf.\nVers 5: Mitten in der Gefahr kann David schlafen. Das ist ein Zeichen großen Vertrauens. Darum gilt Psalm 3 als Morgengebet: Ich bin aufgewacht, Gott hat mich bewahrt."
+    },
+    {
+     "ueberschrift": "Steh auf, HERR!",
+     "vers_von": 7,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Steh auf, HERR! Rette mich, mein Gott!\nDenn du hast alle meine Feinde auf die Backe geschlagen.\nDu hast die Zähne der Gottlosen zerbrochen.",
+       "englisch_web": "Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Rettung gehört dem HERRN.\nDein Segen sei auf deinem Volk.\nSela.",
+       "englisch_web": "Salvation belongs to Yahweh. May your blessing be on your people. Selah."
+      }
+     ],
+     "erklaerung": "„Steh auf, HERR!“ war der Ruf, wenn die Bundeslade in den Kampf zog (4. Mose 10,35).\nDie Feinde werden mit wilden Tieren verglichen. Wenn man ihnen die Zähne bricht, können sie nicht mehr beißen. Das ist ein Bild: Gott nimmt den Feinden die Macht zu schaden. David schlägt nicht selbst zu, er überlässt es Gott.\nVers 8: Am Ende denkt David nicht nur an sich, sondern segnet das ganze Volk, auch die, die ihm gerade untreu geworden sind."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Ein Abendgebet",
+   "abschnitte": [
+    {
+     "ueberschrift": "Antworte mir, wenn ich rufe",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Für den Chorleiter. Mit Saiteninstrumenten. Ein Psalm von David.\nAntworte mir, wenn ich rufe, Gott meiner Gerechtigkeit!\nSchaff mir Erleichterung aus meiner Not!\nSei mir gnädig und hör mein Gebet!",
+       "englisch_web": "For the Chief Musician; on stringed instruments. A Psalm by David. Answer me when I call, God of my righteousness. Give me relief from my distress. Have mercy on me, and hear my prayer."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ihr Menschenkinder, wie lange soll meine Ehre in Schande verwandelt werden?\nWollt ihr das Nichtige lieben und die Lüge suchen?\nSela.",
+       "englisch_web": "You sons of men, how long shall my glory be turned into dishonor? Will you love vanity and seek after falsehood? Selah."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber erkennt, dass der HERR den Frommen für sich ausgesondert hat.\nDer HERR hört, wenn ich zu ihm rufe.",
+       "englisch_web": "But know that Yahweh has set apart for himself him who is godly; Yahweh will hear when I call to him."
+      }
+     ],
+     "erklaerung": "„Für den Chorleiter“: Diese Angabe steht über vielen Psalmen. Sie zeigt, dass die Psalmen im Gottesdienst gesungen wurden.\n„Gott meiner Gerechtigkeit“: Gott ist der, der mir Recht verschafft.\nDavid wird von Menschen verleumdet. Sie lieben „das Nichtige“ und „die Lüge“. Manche denken hier an falsche Götter, andere an falsche Gerüchte."
+    },
+    {
+     "ueberschrift": "Werdet still",
+     "vers_von": 4,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Steht in Ehrfurcht und sündigt nicht!\nPrüft euer eigenes Herz auf eurem Lager und seid still!\nSela.",
+       "englisch_web": "Stand in awe, and don’t sin. Search your own heart on your bed, and be still. Selah."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Bringt Opfer der Gerechtigkeit dar\nund vertraut auf den HERRN!",
+       "englisch_web": "Offer the sacrifices of righteousness. Put your trust in Yahweh."
+      }
+     ],
+     "erklaerung": "Ein guter Rat für den Abend: Bevor du schläfst, denk über deinen Tag nach. Prüfe dein Herz. Werde still.\nVers 4 kann man auch übersetzen: „Zürnt ihr, so sündigt nicht.“ So zitiert Paulus ihn in Epheser 4,26: „Lasst die Sonne nicht über eurem Zorn untergehen.“\n„Opfer der Gerechtigkeit“: Opfer, die mit ehrlichem Herzen gebracht werden, nicht nur äußerlich."
+    },
+    {
+     "ueberschrift": "Frieden in der Nacht",
+     "vers_von": 6,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Viele sagen: „Wer wird uns Gutes sehen lassen?“\nHERR, lass das Licht deines Angesichts über uns leuchten!",
+       "englisch_web": "Many say, “Who will show us any good?” Yahweh, let the light of your face shine on us."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Du hast mir Freude ins Herz gegeben,\nmehr als wenn sie viel Korn und neuen Wein haben.",
+       "englisch_web": "You have put gladness in my heart, more than when their grain and their new wine are increased."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "In Frieden will ich mich niederlegen und schlafen,\ndenn du allein, HERR, lässt mich sicher wohnen.",
+       "englisch_web": "In peace I will both lay myself down and sleep, for you alone, Yahweh, make me live in safety."
+      }
+     ],
+     "erklaerung": "Viele Menschen sind unzufrieden und fragen: Wo bleibt das Gute?\nDavid antwortet mit einem Gebet aus dem Aaronitischen Segen: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).\nVers 7: Die Freude, die von Gott kommt, ist größer als die Freude über eine reiche Ernte.\nVers 8 ist einer der schönsten Sätze für den Abend: „In Frieden will ich mich niederlegen und schlafen.“ Psalm 3 war ein Morgengebet, Psalm 4 ist ein Abendgebet."
+    }
+   ]
+  },
+  {
+   "kapitel": 5,
+   "titel": "Ein Gebet am Morgen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Am Morgen hörst du meine Stimme",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Für den Chorleiter. Mit Flöten. Ein Psalm von David.\nHör meine Worte, HERR!\nAchte auf mein Nachsinnen!",
+       "englisch_web": "For the Chief Musician, with the flutes. A Psalm by David. Give ear to my words, Yahweh. Consider my meditation."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Hör auf die Stimme meines Schreiens, mein König und mein Gott,\ndenn zu dir bete ich.",
+       "englisch_web": "Listen to the voice of my cry, my King and my God, for I pray to you."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "HERR, am Morgen wirst du meine Stimme hören.\nAm Morgen lege ich dir meine Bitten vor\nund warte voller Erwartung.",
+       "englisch_web": "Yahweh, in the morning you will hear my voice. In the morning I will lay my requests before you, and will watch expectantly."
+      }
+     ],
+     "erklaerung": "David beginnt den Tag mit Gebet. Er bringt Gott seine Bitten und wartet gespannt auf Gottes Antwort.\n„Mein König“: David ist selbst König, aber er weiß: Der eigentliche König ist Gott.\n„Warten voller Erwartung“: wie ein Wächter, der auf den Morgen wartet."
+    },
+    {
+     "ueberschrift": "Gott hat kein Gefallen am Bösen",
+     "vers_von": 4,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn du bist kein Gott, der Gefallen an Gottlosigkeit hat.\nDas Böse kann nicht bei dir wohnen.",
+       "englisch_web": "For you are not a God who has pleasure in wickedness. Evil can’t live with you."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Überheblichen werden vor deinen Augen nicht bestehen.\nDu hasst alle, die Unrecht tun.",
+       "englisch_web": "The arrogant will not stand in your sight. You hate all workers of iniquity."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Du vernichtest die, die Lügen reden.\nDer HERR verabscheut den blutgierigen und betrügerischen Menschen.",
+       "englisch_web": "You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man."
+      }
+     ],
+     "erklaerung": "Gott ist heilig. Er kann das Böse nicht dulden.\n„Du hasst alle, die Unrecht tun“: Das ist eine starke Aussage. In der Sprache der Bibel heißt „hassen“ oft: entschieden ablehnen, nicht bei sich haben wollen. Die Bibel sagt auch, dass Gott nicht den Tod des Sünders will, sondern dass er umkehrt und lebt (Hesekiel 18,23)."
+    },
+    {
+     "ueberschrift": "Ich komme in dein Haus",
+     "vers_von": 7,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich aber darf durch deine große Güte in dein Haus kommen.\nIch will mich in Ehrfurcht vor dir zu deinem heiligen Tempel hin niederbeugen.",
+       "englisch_web": "But as for me, in the abundance of your loving kindness I will come into your house. I will bow toward your holy temple in reverence of you."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Führe mich, HERR, in deiner Gerechtigkeit wegen meiner Feinde!\nMach deinen Weg eben vor mir!",
+       "englisch_web": "Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face."
+      }
+     ],
+     "erklaerung": "David weiß: Ich darf zu Gott kommen, nicht weil ich so gut bin, sondern „durch deine große Güte“. Das hebräische Wort ist „Chesed“: Gottes treue Liebe.\n„Zum Tempel hin“: Juden beten bis heute in Richtung Jerusalem.\nDavid bittet: Zeig mir den richtigen Weg und mach ihn eben, ohne Stolpersteine."
+    },
+    {
+     "ueberschrift": "Die Feinde und die, die Zuflucht suchen",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn in ihrem Mund ist keine Treue.\nIhr Herz ist Verderben.\nIhre Kehle ist ein offenes Grab.\nMit ihrer Zunge schmeicheln sie.",
+       "englisch_web": "For there is no faithfulness in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sprich sie schuldig, Gott!\nLass sie durch ihre eigenen Pläne fallen!\nStoß sie hinaus wegen der Menge ihrer Übertretungen,\ndenn sie haben sich gegen dich aufgelehnt.",
+       "englisch_web": "Hold them guilty, God. Let them fall by their own counsels. Thrust them out in the multitude of their transgressions, for they have rebelled against you."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Aber alle, die bei dir Zuflucht suchen, sollen sich freuen.\nSie sollen für immer jubeln, weil du sie beschützt.\nAuch die, die deinen Namen lieben, sollen fröhlich sein in dir.",
+       "englisch_web": "But let all those who take refuge in you rejoice. Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn du segnest den Gerechten.\nHERR, du umgibst ihn mit Gunst wie mit einem Schild.",
+       "englisch_web": "For you will bless the righteous. Yahweh, you will surround him with favor as with a shield."
+      }
+     ],
+     "erklaerung": "Vers 9: Die Worte der Feinde sind tödlich wie ein offenes Grab. Paulus zitiert das in Römer 3,13, um zu zeigen: Alle Menschen brauchen Gottes Gnade.\nVers 10 ist eine Bitte um Gerechtigkeit. David bittet Gott, die Bösen an ihren eigenen Plänen scheitern zu lassen. Er nimmt nicht selbst Rache, sondern überlässt das Urteil Gott. Solche Gebete nennt man „Fluchpsalmen“ oder „Rachepsalmen“. Sie zeigen ehrlich den Schmerz von Menschen, denen Unrecht geschieht. Jesus lehrt später, sogar für die Feinde zu beten (Matthäus 5,44).\nVers 11–12: Der Psalm endet mit Freude. Gott beschützt alle, die bei ihm Zuflucht suchen, wie mit einem großen Schild."
+    }
+   ]
+  }
+ ]
+}
