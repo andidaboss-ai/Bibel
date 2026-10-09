@@ -66547,3 +66547,411 @@ und auch das Vieh kündigt das aufziehende Unwetter an.
 > Vers 31: Mit dem Wetter kann Gott strafen (Unwetter, Dürre) oder segnen (Regen, gute Ernte).
 > Vers 33: Sogar das Vieh spürt, wenn ein Gewitter kommt.
 > Es sieht so aus, als ob gerade ein Gewitter aufzieht, während Elihu redet. Das bereitet auf Kapitel 38 vor: Dort antwortet Gott „aus dem Sturm“.
+
+## Hiob – Kapitel 37
+#### Elihu: Gottes Größe im Gewitter
+
+---
+
+### Hört die Stimme Gottes im Donner (Vers 1–5)
+
+<sup>1</sup>„Ja, darüber zittert mein Herz
+und springt von seiner Stelle.
+<sup>2</sup>Hört, ach hört das Dröhnen seiner Stimme,
+den Klang, der aus seinem Mund hervorgeht!
+<sup>3</sup>Er schickt ihn unter den ganzen Himmel
+und seinen Blitz bis an die Enden der Erde.
+<sup>4</sup>Danach brüllt eine Stimme.
+Er donnert mit der Stimme seiner Majestät.
+Er hält nichts zurück, wenn seine Stimme gehört wird.
+<sup>5</sup>Gott donnert wunderbar mit seiner Stimme.
+Er tut große Dinge, die wir nicht begreifen können.
+
+> **Was bedeutet das?**
+> Elihu redet weiter. Ein Gewitter zieht auf, und Elihu ist tief beeindruckt. Sein Herz zittert.
+> Im Donner hört er Gottes Stimme. Das ist ein altes Bild in der Bibel (vgl. Psalm 29: „Die Stimme des HERRN ist über den Wassern“).
+> Vers 5: „Er tut große Dinge, die wir nicht begreifen können.“ Das ist der Kern von Elihus Schluss: Gott ist größer als unser Verstand.
+
+---
+
+### Schnee, Regen, Eis (Vers 6–13)
+
+<sup>6</sup>Denn er sagt zum Schnee: ‚Fall auf die Erde!‘,
+ebenso zum Regenschauer
+und zu den Schauern seines starken Regens.
+<sup>7</sup>Er versiegelt die Hand jedes Menschen,
+damit alle Menschen, die er gemacht hat, es erkennen.
+<sup>8</sup>Dann gehen die Tiere in Deckung
+und bleiben in ihren Höhlen.
+<sup>9</sup>Aus seiner Kammer kommt der Sturm
+und Kälte aus dem Norden.
+<sup>10</sup>Durch den Atem Gottes entsteht Eis,
+und die Weite der Wasser gefriert.
+<sup>11</sup>Ja, er belädt die dichte Wolke mit Feuchtigkeit.
+Er breitet die Wolke seines Blitzes aus.
+<sup>12</sup>Sie dreht sich nach seiner Führung,
+damit sie alles tun, was er ihnen befiehlt,
+auf der Oberfläche der bewohnten Welt,
+<sup>13</sup>sei es zur Zurechtweisung oder für sein Land
+oder aus Gnade, dass er es kommen lässt.
+
+> **Was bedeutet das?**
+> Gott befiehlt dem Wetter, und es gehorcht ihm.
+> Vers 7: „Er versiegelt die Hand jedes Menschen“: Bei Schnee und starkem Regen können die Menschen nicht auf dem Feld arbeiten. Ihre Hände ruhen. Dann merken sie, dass Gott über ihnen steht.
+> Vers 13: Gott schickt das Wetter mit verschiedenen Zielen: um zu warnen, um das Land zu bewässern, oder einfach aus Liebe und Güte.
+> Das hebräische Wort für Güte heißt „Chesed“. Es meint Gottes treue, liebende Zuwendung.
+
+---
+
+### Hiob, bleib stehen und staune (Vers 14–20)
+
+<sup>14</sup>Hör dies, Hiob!
+Bleib stehen und betrachte die Wunder Gottes!
+<sup>15</sup>Weißt du, wie Gott sie lenkt
+und den Blitz seiner Wolke leuchten lässt?
+<sup>16</sup>Kennst du das Schweben der Wolken,
+die Wunder dessen, der vollkommen im Wissen ist?
+<sup>17</sup>Du, dessen Kleider warm sind,
+wenn die Erde still ist wegen des Südwinds?
+<sup>18</sup>Kannst du mit ihm den Himmel ausbreiten,
+der fest ist wie ein gegossener Metallspiegel?
+<sup>19</sup>Lehre uns, was wir ihm sagen sollen,
+denn wir können wegen der Finsternis unsere Sache nicht darlegen.
+<sup>20</sup>Soll man ihm erzählen, dass ich reden will?
+Oder sollte ein Mensch wünschen, verschlungen zu werden?
+
+> **Was bedeutet das?**
+> Elihu fordert Hiob auf: Hör auf zu streiten. Bleib stehen und staune.
+> Er stellt Hiob Fragen: Weißt du, wie die Wolken schweben? Kannst du den Himmel ausbreiten? Das sind Fragen, die Gott selbst gleich in Kapitel 38 stellen wird.
+> Vers 17: Der heiße Südwind (aus der Wüste) macht alles still und schwül. Der Mensch kann dabei nur schwitzen, nicht das Wetter ändern.
+> Vers 18: Damals stellte man sich den Himmel wie eine feste, glänzende Kuppel vor. Spiegel waren damals aus poliertem Metall, nicht aus Glas.
+> Vers 19–20: Elihu meint: Wir Menschen tappen im Dunkeln. Wer wollte da mit Gott streiten? Wer so etwas versucht, wird „verschlungen“.
+
+---
+
+### Goldener Glanz aus dem Norden (Vers 21–24)
+
+<sup>21</sup>Jetzt sehen die Menschen das Licht nicht, das hell in den Wolken ist,
+aber der Wind fährt vorbei und reinigt sie.
+<sup>22</sup>Aus dem Norden kommt goldener Glanz.
+Bei Gott ist furchterregende Majestät.
+<sup>23</sup>Den Allmächtigen können wir nicht erreichen.
+Er ist erhaben an Macht.
+In Recht und großer Gerechtigkeit unterdrückt er nicht.
+<sup>24</sup>Darum fürchten ihn die Menschen.
+Er achtet keinen von denen, die sich selbst für weise halten.“
+
+> **Was bedeutet das?**
+> Nach dem Sturm kommt die Sonne wieder hervor. Der Wind hat die Wolken weggeblasen.
+> „Goldener Glanz aus dem Norden“: Im Alten Orient dachte man sich Gottes Wohnung oft im Norden. Gottes Herrlichkeit leuchtet hell wie Gold.
+> Vers 23 fasst Elihus Botschaft zusammen: Gott ist unerreichbar groß. Aber er ist gerecht und unterdrückt niemanden.
+> Vers 24: Wer sich selbst für weise hält, beeindruckt Gott nicht. Ehrfurcht vor Gott ist der Anfang der Weisheit (vgl. Kapitel 28,28).
+> Das sind Elihus letzte Worte. Ab jetzt redet Gott selbst.
+
+## Hiob – Kapitel 38
+#### Gott antwortet aus dem Sturm
+
+---
+
+### Gott ergreift das Wort (Vers 1–3)
+
+<sup>1</sup>Da antwortete der HERR Hiob aus dem Sturm und sagte:
+<sup>2</sup>„Wer ist das, der den Ratschluss verdunkelt
+mit Worten ohne Wissen?
+<sup>3</sup>Gürte deine Lenden wie ein Mann!
+Denn ich will dich fragen, und du sollst mir antworten!
+
+> **Was bedeutet das?**
+> Endlich antwortet Gott! Darauf hat Hiob das ganze Buch über gewartet.
+> Wichtig: Hier steht wieder der Gottesname „HERR“ (hebräisch: JHWH). In den Reden vorher hieß Gott meistens nur „Gott“ oder „der Allmächtige“. Jetzt begegnet Hiob dem Gott Israels persönlich.
+> Gott kommt „aus dem Sturm“. Das erinnert an andere Begegnungen mit Gott: am Berg Sinai (2. Mose 19) oder bei Elia (1. Könige 19).
+> Gott wirft Hiob vor, „ohne Wissen“ geredet zu haben. Aber: Gott sagt nicht, dass Hiob gesündigt hat. Er wiederholt nicht die Vorwürfe der Freunde.
+> „Gürte deine Lenden“: Damals band man das lange Gewand hoch, bevor man arbeitete oder kämpfte. Gemeint ist: Mach dich bereit! Hiob wollte Gott Fragen stellen. Jetzt stellt Gott Hiob Fragen.
+
+---
+
+### Wo warst du, als ich die Erde gründete? (Vers 4–7)
+
+<sup>4</sup>Wo warst du, als ich die Erde gründete?
+Sag es, wenn du Einsicht hast!
+<sup>5</sup>Wer hat ihre Maße bestimmt, wenn du es weißt?
+Oder wer hat die Messschnur über sie gespannt?
+<sup>6</sup>Worauf sind ihre Fundamente gesenkt?
+Oder wer hat ihren Eckstein gelegt,
+<sup>7</sup>als die Morgensterne miteinander jubelten
+und alle Söhne Gottes vor Freude jauchzten?
+
+> **Was bedeutet das?**
+> Gott beschreibt die Erschaffung der Welt wie den Bau eines Hauses: Maße bestimmen, Messschnur spannen, Fundamente legen, Eckstein setzen.
+> Und Hiob war nicht dabei. Er kennt den Plan nicht, nach dem die Welt gebaut ist.
+> Vers 7: Ein wunderschönes Bild. Als die Welt fertig war, jubelten die Sterne und die Engel („Söhne Gottes“, vgl. Kapitel 1,6). Die Schöpfung war ein Grund zur Freude.
+
+---
+
+### Das Meer hat seine Grenze (Vers 8–11)
+
+<sup>8</sup>Oder wer hat das Meer mit Toren verschlossen,
+als es hervorbrach, aus dem Mutterleib kam,
+<sup>9</sup>als ich die Wolken zu seinem Gewand machte
+und dichtes Dunkel zu seinen Windeln,
+<sup>10</sup>als ich ihm meine Grenze bestimmte
+und Riegel und Türen setzte
+<sup>11</sup>und sagte: ‚Bis hierher darfst du kommen und nicht weiter.
+Hier sollen sich deine stolzen Wellen legen‘?
+
+> **Was bedeutet das?**
+> Für die Menschen damals war das Meer gefährlich und unheimlich. Es stand für Chaos und Bedrohung.
+> Gott beschreibt das Meer aber wie ein neugeborenes Baby: Es kommt aus dem Mutterleib, Gott wickelt es in Wolken wie in Windeln.
+> Gott ist stärker als das Meer. Er hat ihm eine Grenze gesetzt: „Bis hierher und nicht weiter.“ Das Chaos ist nicht grenzenlos. Gott hat es im Griff.
+
+---
+
+### Hast du dem Morgen befohlen? (Vers 12–15)
+
+<sup>12</sup>Hast du in deinem Leben dem Morgen befohlen
+und der Morgenröte ihren Ort gezeigt,
+<sup>13</sup>damit sie die Enden der Erde ergreift
+und die Gottlosen aus ihr herausgeschüttelt werden?
+<sup>14</sup>Sie verwandelt sich wie Ton unter dem Siegel
+und steht da wie ein Gewand.
+<sup>15</sup>Den Gottlosen wird ihr Licht entzogen,
+und der erhobene Arm wird zerbrochen.
+
+> **Was bedeutet das?**
+> Jeden Morgen geht die Sonne auf. Wer hat das angeordnet? Nicht Hiob.
+> Das Morgenlicht packt die Erde wie eine Decke an den Zipfeln und schüttelt die Verbrecher heraus. Denn viele Verbrechen geschehen in der Nacht (vgl. Kapitel 24,13–17).
+> Vers 14: Wenn das Licht kommt, bekommen die Dinge wieder Form und Farbe, so wie weicher Ton durch einen Siegelstempel ein Bild bekommt.
+> Das ist eine Antwort auf Hiobs Frage nach Gerechtigkeit: Gott hat schon in die Ordnung der Welt eingebaut, dass das Böse begrenzt wird.
+
+---
+
+### Kennst du die Tiefen und das Licht? (Vers 16–21)
+
+<sup>16</sup>Bist du bis zu den Quellen des Meeres gekommen?
+Oder bist du in den Tiefen der Urflut umhergegangen?
+<sup>17</sup>Sind dir die Tore des Todes offenbart worden?
+Oder hast du die Tore des Todesschattens gesehen?
+<sup>18</sup>Hast du die Weite der Erde erfasst?
+Sag es, wenn du das alles weißt!
+<sup>19</sup>Wo ist der Weg zur Wohnung des Lichts?
+Und die Finsternis, wo ist ihr Ort,
+<sup>20</sup>dass du sie bis zu ihrer Grenze bringen
+und die Pfade zu ihrem Haus erkennen könntest?
+<sup>21</sup>Gewiss, du weißt es, denn damals wurdest du geboren,
+und die Zahl deiner Tage ist groß!
+
+> **Was bedeutet das?**
+> Gott fragt nach den tiefsten Tiefen des Meeres, nach dem Reich der Toten und nach der Größe der Erde. Hiob kennt nichts davon.
+> Vers 21 ist ironisch gemeint: „Du weißt es doch bestimmt, du bist ja so alt!“ Natürlich war Hiob bei der Schöpfung nicht dabei.
+> Gott ist nicht böse oder verletzend, aber er macht deutlich: Hiob sieht nur einen kleinen Teil des Ganzen.
+
+---
+
+### Schnee, Hagel, Regen und Eis (Vers 22–30)
+
+<sup>22</sup>Bist du in die Vorratskammern des Schnees gegangen,
+oder hast du die Vorratskammern des Hagels gesehen,
+<sup>23</sup>die ich aufbewahrt habe für die Zeit der Not,
+für den Tag der Schlacht und des Krieges?
+<sup>24</sup>Auf welchem Weg wird das Licht verteilt,
+oder der Ostwind über die Erde verstreut?
+<sup>25</sup>Wer hat der Flut einen Kanal gegraben
+oder dem Gewitter einen Weg,
+<sup>26</sup>um auf ein Land regnen zu lassen, wo kein Mensch ist,
+auf die Wüste, in der kein Mensch ist,
+<sup>27</sup>um das öde und verwüstete Land zu sättigen
+und das zarte Gras wachsen zu lassen?
+<sup>28</sup>Hat der Regen einen Vater?
+Oder wer zeugt die Tautropfen?
+<sup>29</sup>Aus wessen Mutterleib ist das Eis gekommen?
+Wer hat den grauen Reif des Himmels geboren?
+<sup>30</sup>Das Wasser wird hart wie Stein,
+wenn die Oberfläche der Tiefe gefriert.
+
+> **Was bedeutet das?**
+> Vers 24: Im englischen Text steht „lightning“ (Blitz). Das hebräische Wort heißt eigentlich „Licht“. Deshalb übersetzen viele deutsche Bibeln „Licht“.
+> Vers 26–27 sind besonders schön: Gott lässt es auch dort regnen, wo kein Mensch wohnt. Er kümmert sich um die Wüste und das kleine Gras, auch wenn kein Mensch etwas davon hat.
+> Das heißt: Die Welt dreht sich nicht nur um den Menschen. Gott freut sich an seiner ganzen Schöpfung. Diese Sicht ist für Hiob neu.
+> Vers 28–29: Regen, Tau, Eis und Reif haben keine menschlichen Eltern. Gott allein bringt sie hervor.
+
+---
+
+### Die Sterne (Vers 31–33)
+
+<sup>31</sup>Kannst du das Siebengestirn zusammenbinden
+oder die Fesseln des Orion lösen?
+<sup>32</sup>Kannst du die Sternbilder zu ihrer Zeit hervorführen?
+Oder kannst du den Bären mit seinen Jungen leiten?
+<sup>33</sup>Kennst du die Gesetze des Himmels?
+Kannst du seine Herrschaft über die Erde festlegen?
+
+> **Was bedeutet das?**
+> Das Siebengestirn (Plejaden), der Orion und der Große Bär (Großer Wagen) sind bekannte Sternbilder. Man kann sie auch heute am Nachthimmel sehen.
+> Gott hat ihnen ihre Bahnen gegeben. Sie folgen festen „Gesetzen des Himmels“. Kein Mensch kann sie verschieben.
+> Hiob hatte selbst schon von diesen Sternbildern gesprochen (Kapitel 9,9). Jetzt fragt Gott ihn: Kannst du sie lenken?
+
+---
+
+### Wolken, Blitze und Weisheit (Vers 34–38)
+
+<sup>34</sup>Kannst du deine Stimme zu den Wolken erheben,
+damit eine Fülle von Wasser dich bedeckt?
+<sup>35</sup>Kannst du Blitze aussenden, dass sie losfahren?
+Melden sie sich bei dir: ‚Hier sind wir‘?
+<sup>36</sup>Wer hat Weisheit ins Innere gelegt?
+Oder wer hat dem Verstand Einsicht gegeben?
+<sup>37</sup>Wer kann die Wolken mit Weisheit zählen?
+Oder wer kann die Wasserkrüge des Himmels ausgießen,
+<sup>38</sup>wenn der Staub zu einer Masse zusammenläuft
+und die Erdklumpen aneinanderkleben?
+
+> **Was bedeutet das?**
+> Kann Hiob Regen bestellen? Gehorchen ihm die Blitze wie Soldaten, die sich melden: „Hier sind wir!“? Nein.
+> Vers 36: Auch die Weisheit des Menschen kommt von Gott. Was Hiob weiß, hat er von Gott bekommen.
+> Vers 37–38: Die Wolken sind wie Krüge, aus denen Gott Wasser gießt. Danach wird der trockene Staub zu feuchten Erdklumpen.
+
+---
+
+### Futter für Löwen und Raben (Vers 39–41)
+
+<sup>39</sup>Kannst du für die Löwin Beute jagen
+oder den Hunger der jungen Löwen stillen,
+<sup>40</sup>wenn sie in ihren Höhlen kauern
+und im Dickicht auf der Lauer liegen?
+<sup>41</sup>Wer verschafft dem Raben sein Futter,
+wenn seine Jungen zu Gott schreien
+und umherirren, weil sie nichts zu essen haben?
+
+> **Was bedeutet das?**
+> Jetzt wechselt Gott von der unbelebten Natur zu den Tieren. Das geht in Kapitel 39 weiter.
+> Gott sorgt für die wilden Tiere: für die starken Löwen ebenso wie für die jungen Raben, die nach Futter schreien.
+> Jesus greift das später auf: „Seht die Raben an … Gott ernährt sie doch“ (Lukas 12,24). Wenn Gott sogar für die Raben sorgt, dann auch für dich.
+
+## Hiob – Kapitel 39
+#### Gott und die wilden Tiere
+
+---
+
+### Steinböcke und Hirschkühe (Vers 1–4)
+
+<sup>1</sup>„Kennst du die Zeit, wann die Steinböcke gebären?
+Gibst du acht, wann die Hirschkuh Junge bekommt?
+<sup>2</sup>Kannst du die Monate zählen, die sie erfüllen?
+Oder kennst du die Zeit, wann sie gebären?
+<sup>3</sup>Sie kauern sich nieder. Sie bringen ihre Jungen zur Welt.
+Sie werden ihre Wehen los.
+<sup>4</sup>Ihre Jungen werden stark.
+Sie wachsen auf dem freien Feld auf.
+Sie gehen fort und kehren nicht mehr zurück.
+
+> **Was bedeutet das?**
+> Gott stellt Hiob weiter Fragen, jetzt über wilde Tiere. Es geht um Tiere, die der Mensch nicht gezähmt hat und nicht beherrscht.
+> Die Steinböcke leben hoch in den Bergen. Kein Mensch ist dabei, wenn sie ihre Jungen bekommen. Aber Gott sieht es und sorgt dafür.
+> Die Jungen wachsen auf und werden selbstständig. Das Leben geht weiter, ganz ohne den Menschen.
+
+---
+
+### Der Wildesel (Vers 5–8)
+
+<sup>5</sup>Wer hat den Wildesel frei laufen lassen?
+Oder wer hat die Fesseln des schnellen Esels gelöst,
+<sup>6</sup>dem ich die Wüste zum Zuhause gemacht habe
+und das Salzland zu seiner Wohnung?
+<sup>7</sup>Er lacht über den Lärm der Stadt.
+Er hört nicht das Geschrei des Treibers.
+<sup>8</sup>Das Gebirge ist seine Weide.
+Er sucht nach allem, was grün ist.
+
+> **Was bedeutet das?**
+> Der Wildesel ist frei. Er muss keine Lasten tragen und wird von keinem Treiber angeschrien.
+> Gott hat ihm die Freiheit gegeben und die Wüste als Zuhause. Was für den Menschen unwirtlich ist, ist für den Wildesel genau richtig.
+> Gott hat jedem Geschöpf seinen eigenen Platz gegeben.
+
+---
+
+### Der Wildstier (Vers 9–12)
+
+<sup>9</sup>Wird der Wildstier bereit sein, dir zu dienen?
+Oder wird er an deiner Futterkrippe bleiben?
+<sup>10</sup>Kannst du den Wildstier mit seinem Geschirr in der Furche halten?
+Oder wird er hinter dir die Täler pflügen?
+<sup>11</sup>Wirst du ihm vertrauen, weil seine Kraft groß ist?
+Oder wirst du ihm deine Arbeit überlassen?
+<sup>12</sup>Wirst du dich auf ihn verlassen,
+dass er deine Saat heimbringt
+und das Korn deiner Dreschtenne sammelt?
+
+> **Was bedeutet das?**
+> Der Wildstier (Auerochse) war ein riesiges, sehr starkes Rind. Er ist heute ausgestorben. Man konnte ihn nicht zähmen.
+> Gott fragt: Kannst du den Wildstier vor deinen Pflug spannen wie einen Hausochsen? Nein. Er ist zu wild und zu stark.
+> Der Mensch kann nicht alles beherrschen. Es gibt Kräfte in der Schöpfung, die nur Gott in der Hand hat.
+
+---
+
+### Der Strauß (Vers 13–18)
+
+<sup>13</sup>Die Flügel des Straußes schlagen stolz,
+aber sind es die Federn und das Gefieder der Liebe?
+<sup>14</sup>Denn sie lässt ihre Eier auf der Erde liegen
+und wärmt sie im Staub
+<sup>15</sup>und vergisst, dass ein Fuß sie zertreten
+oder ein wildes Tier sie zertrampeln könnte.
+<sup>16</sup>Sie ist hart gegen ihre Jungen, als wären es nicht ihre.
+Obwohl ihre Mühe vergeblich ist, hat sie keine Furcht,
+<sup>17</sup>denn Gott hat ihr die Weisheit vorenthalten
+und ihr keinen Verstand zugeteilt.
+<sup>18</sup>Wenn sie sich in die Höhe aufrichtet,
+lacht sie über das Pferd und seinen Reiter.
+
+> **Was bedeutet das?**
+> Der Strauß ist ein seltsamer Vogel: Er hat Flügel, kann aber nicht fliegen. Er legt seine Eier in den Sand, und es sieht aus, als kümmere er sich nicht darum.
+> „Federn der Liebe“: Im Hebräischen ist das ein Wortspiel. Das Wort für Storch bedeutet „der Treue“ oder „der Liebevolle“. Der Strauß wirkt dagegen gleichgültig.
+> Aber dann: Wenn der Strauß losrennt, ist er schneller als ein Pferd mit Reiter.
+> Gott hat auch seltsame, scheinbar „unvernünftige“ Geschöpfe gemacht. Und doch haben sie ihre eigene Stärke. Gottes Schöpfung ist voller Überraschungen und Humor.
+
+---
+
+### Das Schlachtross (Vers 19–25)
+
+<sup>19</sup>Hast du dem Pferd Kraft gegeben?
+Hast du seinen Hals mit einer wehenden Mähne bekleidet?
+<sup>20</sup>Hast du es springen lassen wie eine Heuschrecke?
+Die Pracht seines Schnaubens ist furchterregend.
+<sup>21</sup>Es scharrt im Tal und freut sich an seiner Kraft.
+Es zieht den Bewaffneten entgegen.
+<sup>22</sup>Es lacht über die Furcht und erschrickt nicht.
+Es weicht nicht zurück vor dem Schwert.
+<sup>23</sup>Der Köcher klirrt an ihm,
+der blitzende Speer und der Wurfspieß.
+<sup>24</sup>Mit Wildheit und Ungestüm frisst es den Boden.
+Es steht nicht still beim Klang der Posaune.
+<sup>25</sup>Sooft die Posaune ertönt, schnaubt es: ‚Hui!‘
+Es riecht die Schlacht von fern,
+das Donnern der Anführer und das Kriegsgeschrei.
+
+> **Was bedeutet das?**
+> Das Pferd im Krieg ist mutig und stark. Es hat keine Angst vor Waffen und Lärm.
+> „Es frisst den Boden“: Es galoppiert so schnell, dass es den Weg zu verschlingen scheint.
+> „Hui!“ (im Hebräischen „Heach!“): Das Pferd wiehert vor Ungeduld, wenn es das Signal zum Angriff hört.
+> Auch diese Kraft und dieser Mut kommen von Gott, nicht vom Menschen. Die Bibel lobt hier nicht den Krieg, sondern staunt über das Tier, das Gott geschaffen hat.
+
+---
+
+### Falke und Adler (Vers 26–30)
+
+<sup>26</sup>Ist es durch deine Weisheit, dass der Falke sich aufschwingt
+und seine Flügel nach Süden ausbreitet?
+<sup>27</sup>Ist es auf deinen Befehl, dass der Adler hochsteigt
+und sein Nest in der Höhe baut?
+<sup>28</sup>Auf dem Felsen wohnt er und hat sein Zuhause,
+auf der Spitze des Felsens und der Burg.
+<sup>29</sup>Von dort späht er nach Beute.
+Seine Augen sehen sie von fern.
+<sup>30</sup>Auch seine Jungen schlürfen Blut.
+Wo Erschlagene sind, da ist er.“
+
+> **Was bedeutet das?**
+> Vers 26: Der Falke fliegt im Herbst nach Süden. Wer hat ihm das beigebracht? Nicht Hiob. Gott hat den Zugvögeln ihr Wissen gegeben.
+> Der Adler baut sein Nest hoch oben in den Felsen. Er sieht seine Beute aus großer Entfernung.
+> Vers 30 zeigt auch die harte Seite der Natur: Tiere fressen andere Tiere. Gott verschweigt das nicht. Auch das gehört zu seiner Schöpfung, die der Mensch nicht ganz versteht.
+> Jesus greift das Bild auf: „Wo das Aas ist, da sammeln sich die Geier“ (Matthäus 24,28).
