@@ -94980,3 +94980,567 @@ In späteren Tagen werdet ihr es verstehen.“
 > Vers 21: Der neue Herrscher wird kein fremder König sein, sondern einer aus dem eigenen Volk. Und er darf Gott ganz nahe kommen, wie ein Priester.
 > Vers 22: „Ihr sollt mein Volk sein, und ich will euer Gott sein.“ Das ist die Bundesformel, das Herz der Beziehung zwischen Gott und Israel. Sie wird erneuert.
 > Vers 23–24: Diese Verse stehen fast gleich schon in 23,19–20. Gottes Gericht trifft die Gottlosen, nicht sein Volk, das er heilt.
+
+## Jeremia – Kapitel 31
+#### Der neue Bund
+
+---
+
+### Mit ewiger Liebe geliebt (Vers 1–6)
+
+<sup>1</sup>„Zu jener Zeit“, spricht der HERR,
+„werde ich der Gott aller Sippen Israels sein,
+und sie werden mein Volk sein.“
+<sup>2</sup>So spricht der HERR:
+„Das Volk, das dem Schwert entronnen ist,
+hat Gnade gefunden in der Wüste,
+Israel, als ich hinging, um ihm Ruhe zu geben.“
+<sup>3</sup>Der HERR ist mir von fern erschienen und hat gesagt:
+„Ja, mit ewiger Liebe habe ich dich geliebt.
+Darum habe ich dich zu mir gezogen aus lauter Güte.
+<sup>4</sup>Ich werde dich wieder aufbauen, und du wirst gebaut werden,
+Jungfrau Israel.
+Du wirst dich wieder mit deinen Tamburinen schmücken
+und hinausziehen zu den Reigen der Fröhlichen.
+<sup>5</sup>Du wirst wieder Weinberge pflanzen auf den Bergen Samarias.
+Die Pflanzer werden pflanzen und die Frucht genießen.
+<sup>6</sup>Denn es wird ein Tag kommen,
+an dem die Wächter auf den Bergen Efraims rufen:
+‚Auf! Lasst uns hinaufziehen nach Zion zum HERRN, unserem Gott!‘“
+
+> **Was bedeutet das?**
+> Vers 2: Wie damals in der Wüste nach dem Auszug aus Ägypten wird Gott seinem Volk wieder Gnade schenken.
+> Vers 3 ist einer der schönsten Liebesverse der Bibel: „Mit ewiger Liebe habe ich dich geliebt. Darum habe ich dich zu mir gezogen aus lauter Güte.“ Gottes Liebe hört nie auf.
+> Vers 4–5: Die Zukunft sieht fröhlich aus: Tanz, Musik, Weinberge, Ernte.
+> Vers 6: Samaria und Efraim gehörten zum Nordreich, das sich von Jerusalem getrennt hatte. Jetzt werden auch die Menschen aus dem Norden wieder nach Jerusalem zum Tempel kommen. Die Spaltung wird überwunden.
+
+---
+
+### Sie kommen mit Weinen (Vers 7–14)
+
+<sup>7</sup>Denn so spricht der HERR:
+„Jubelt mit Freude über Jakob
+und jauchzt über das Haupt der Nationen!
+Verkündet, lobt und sagt:
+‚HERR, rette dein Volk, den Rest Israels!‘
+<sup>8</sup>Siehe, ich bringe sie aus dem Land des Nordens
+und sammle sie von den äußersten Enden der Erde,
+mit ihnen die Blinden und die Lahmen,
+die Schwangere und die Gebärende zusammen.
+Als große Schar kehren sie zurück.
+<sup>9</sup>Mit Weinen werden sie kommen.
+Unter Flehen werde ich sie führen.
+Ich werde sie an Wasserbächen entlanggehen lassen,
+auf einem geraden Weg, auf dem sie nicht stolpern.
+Denn ich bin Israel ein Vater,
+und Efraim ist mein Erstgeborener.
+<sup>10</sup>Hört das Wort des HERRN, ihr Nationen,
+und verkündet es auf den fernen Inseln und sagt:
+‚Der Israel zerstreut hat, wird es sammeln
+und es hüten, wie ein Hirte seine Herde.‘
+<sup>11</sup>Denn der HERR hat Jakob losgekauft
+und ihn erlöst aus der Hand dessen, der stärker war als er.
+<sup>12</sup>Sie werden kommen und auf der Höhe Zions jubeln
+und herbeiströmen zu den guten Gaben des HERRN,
+zum Getreide, zum Most, zum Öl
+und zu den Jungen der Schafe und Rinder.
+Ihre Seele wird sein wie ein bewässerter Garten,
+und sie werden nie mehr verschmachten.
+<sup>13</sup>Dann wird die junge Frau sich im Reigen freuen,
+die jungen Männer und die Alten zusammen.
+Denn ich werde ihre Trauer in Freude verwandeln
+und sie trösten und sie nach ihrem Kummer erfreuen.
+<sup>14</sup>Ich werde die Seele der Priester mit Fett sättigen,
+und mein Volk wird sich an meinen guten Gaben sättigen“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 8: Ein wunderbares Bild: Gott holt alle heim, gerade auch die Schwachen: Blinde, Lahme, Schwangere, Frauen in den Wehen. Niemand wird zurückgelassen.
+> Vers 9: Sie kommen weinend, vor Freude und vor Rührung. Gott führt sie wie ein Vater. Efraim (das Nordreich) nennt er seinen „Erstgeborenen“, sein Lieblingskind.
+> Vers 13: „Ich werde ihre Trauer in Freude verwandeln.“ Junge und Alte tanzen zusammen. Ein Bild voller Hoffnung für alle, die trauern.
+
+---
+
+### Rahel weint um ihre Kinder (Vers 15–22)
+
+<sup>15</sup>So spricht der HERR:
+„Eine Stimme hört man in Rama,
+Klage und bitteres Weinen.
+Rahel weint um ihre Kinder.
+Sie will sich nicht trösten lassen über ihre Kinder,
+denn sie sind nicht mehr.“
+<sup>16</sup>So spricht der HERR:
+„Halte deine Stimme zurück vom Weinen
+und deine Augen von den Tränen,
+denn deine Mühe wird belohnt werden“, spricht der HERR.
+„Sie werden zurückkehren aus dem Land des Feindes.
+<sup>17</sup>Es gibt Hoffnung für deine Zukunft“, spricht der HERR.
+„Deine Kinder werden in ihr Gebiet zurückkehren.
+<sup>18</sup>Ich habe Efraim genau klagen hören:
+‚Du hast mich gezüchtigt, und ich wurde gezüchtigt
+wie ein ungezähmtes Kalb.
+Bring mich zurück, so werde ich umkehren,
+denn du bist der HERR, mein Gott.
+<sup>19</sup>Gewiss, nachdem ich mich abgewandt hatte, habe ich bereut.
+Nachdem ich zur Einsicht gekommen war, schlug ich mir auf die Hüfte.
+Ich schämte mich, ja, ich war beschämt,
+denn ich trug die Schande meiner Jugend.‘
+<sup>20</sup>Ist Efraim mein lieber Sohn?
+Ist er ein Kind, an dem ich mich freue?
+Denn so oft ich gegen ihn rede,
+muss ich doch immer wieder an ihn denken.
+Darum ist mein Herz für ihn bewegt.
+Ich werde mich gewiss über ihn erbarmen“, spricht der HERR.
+<sup>21</sup>„Stell dir Wegzeichen auf!
+Setz dir Wegweiser!
+Richte dein Herz auf die Straße,
+auf den Weg, den du gegangen bist!
+Kehre zurück, Jungfrau Israel,
+kehre zurück zu diesen deinen Städten!
+<sup>22</sup>Wie lange willst du hin und her irren,
+du abtrünnige Tochter?
+Denn der HERR hat etwas Neues auf der Erde geschaffen:
+Eine Frau wird einen Mann umgeben.“
+
+> **Was bedeutet das?**
+> Vers 15: Rahel war die Lieblingsfrau Jakobs und die Stammmutter von Efraim und Benjamin. Ihr Grab lag in der Nähe von Rama (1. Mose 35,19; 1. Samuel 10,2). Jeremia stellt sich vor, wie Rahel um ihre Kinder weint, die in die Verbannung geführt werden. Rama war ein Sammelpunkt für die Gefangenen (vgl. 40,1). Das Matthäusevangelium zitiert diesen Vers bei der Erzählung vom Kindermord in Betlehem (Matthäus 2,18).
+> Vers 16–17: Gott tröstet Rahel: Hör auf zu weinen! Es gibt Hoffnung. Deine Kinder kommen zurück.
+> Wer um ein Kind trauert, findet in Rahel jemanden, der diesen Schmerz kennt. Hilfe gibt es zum Beispiel bei der Telefonseelsorge: 0800 111 0 111.
+> Vers 18–19: Efraim bereut und betet: „Bring mich zurück, so werde ich umkehren.“ Umkehr ist Gottes Geschenk.
+> Vers 20: Ein bewegender Vers: Gott spricht wie ein Vater, der von seinem Kind enttäuscht ist, aber es trotzdem nicht vergessen kann. „Mein Herz ist für ihn bewegt.“
+> Vers 22: „Eine Frau wird einen Mann umgeben“ ist ein rätselhafter Satz. Viele verstehen ihn so: Die Verhältnisse kehren sich um, etwas ganz Neues geschieht. Die Ausleger sind sich über die genaue Bedeutung nicht einig.
+
+---
+
+### Ein erquickender Schlaf (Vers 23–30)
+
+<sup>23</sup>So spricht der HERR der Heere, der Gott Israels:
+„Man wird im Land Juda und in seinen Städten wieder dieses Wort sagen,
+wenn ich ihr Geschick wende:
+‚Der HERR segne dich, du Wohnung der Gerechtigkeit,
+du heiliger Berg!‘
+<sup>24</sup>Juda und alle seine Städte werden darin zusammen wohnen,
+die Bauern und die, die mit den Herden umherziehen.
+<sup>25</sup>Denn ich habe die müde Seele getränkt,
+und jede verschmachtende Seele habe ich gesättigt.“
+<sup>26</sup>Darüber erwachte ich und sah,
+und mein Schlaf war mir süß gewesen.
+<sup>27</sup>„Siehe, es kommen Tage“, spricht der HERR,
+„da werde ich das Haus Israel und das Haus Juda besäen
+mit Samen von Menschen und mit Samen von Tieren.
+<sup>28</sup>Und es wird geschehen: Wie ich über sie gewacht habe,
+um auszureißen und niederzureißen,
+um abzubrechen, zu vernichten und Unheil zu bringen,
+so werde ich über sie wachen, um zu bauen und zu pflanzen“,
+spricht der HERR.
+<sup>29</sup>„In jenen Tagen wird man nicht mehr sagen:
+‚Die Väter haben saure Trauben gegessen,
+und den Kindern werden die Zähne stumpf.‘
+<sup>30</sup>Sondern jeder wird wegen seiner eigenen Schuld sterben.
+Jeder Mensch, der saure Trauben isst,
+dessen Zähne werden stumpf werden.
+
+> **Was bedeutet das?**
+> Vers 25: „Ich habe die müde Seele getränkt.“ Gott erfrischt die Erschöpften.
+> Vers 26: Jeremia wacht auf und sagt: „Mein Schlaf war süß.“ Nach all den schweren Botschaften war diese Botschaft wie ein schöner Traum.
+> Vers 28: Wieder die Worte aus Jeremias Berufung (1,10): Gott hat ausgerissen und niedergerissen. Jetzt wird er bauen und pflanzen.
+> Vers 29–30: Ein Sprichwort sagte damals: Die Väter haben gesündigt, und die Kinder müssen dafür büßen. Gott sagt: Das soll nicht mehr gelten. Jeder ist für seine eigenen Taten verantwortlich. (Auch Hesekiel 18 sagt das.)
+
+---
+
+### Der neue Bund (Vers 31–34)
+
+<sup>31</sup>Siehe, es kommen Tage“, spricht der HERR,
+„da werde ich mit dem Haus Israel und mit dem Haus Juda
+einen neuen Bund schließen,
+<sup>32</sup>nicht wie den Bund, den ich mit ihren Vätern geschlossen habe
+an dem Tag, als ich sie bei der Hand nahm,
+um sie aus dem Land Ägypten herauszuführen,
+meinen Bund, den sie gebrochen haben,
+obwohl ich ihr Ehemann war“, spricht der HERR.
+<sup>33</sup>„Sondern das ist der Bund, den ich mit dem Haus Israel
+nach jenen Tagen schließen werde“, spricht der HERR:
+„Ich werde mein Gesetz in ihr Inneres legen
+und es in ihr Herz schreiben.
+Ich werde ihr Gott sein,
+und sie werden mein Volk sein.
+<sup>34</sup>Sie werden nicht mehr einer seinen Nächsten
+und einer seinen Bruder lehren und sagen:
+‚Erkennt den HERRN!‘
+Denn sie alle werden mich kennen,
+vom Kleinsten bis zum Größten“, spricht der HERR,
+„denn ich werde ihre Schuld vergeben
+und an ihre Sünde nicht mehr denken.“
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Texte des ganzen Alten Testaments.
+> Vers 31–32: Gott verspricht einen „neuen Bund“ mit Israel und Juda. Der alte Bund vom Sinai wurde vom Volk gebrochen, obwohl Gott treu war wie ein Ehemann.
+> Vers 33: Das Neue: Gottes Gesetz steht nicht mehr nur auf Steintafeln, sondern wird ins Herz geschrieben. Die Menschen tun Gottes Willen dann nicht mehr aus Zwang, sondern von innen heraus, weil sie es wollen.
+> Vers 34: Alle werden Gott kennen, vom Kleinsten bis zum Größten. Niemand braucht mehr einen Lehrer. Und die Grundlage ist Vergebung: „Ich werde an ihre Sünde nicht mehr denken.“
+> Im Judentum wird diese Verheißung auf Israel bezogen: Gott erneuert seinen Bund mit seinem Volk, und das Gesetz (die Tora) wird ins Herz geschrieben.
+> Im Neuen Testament wird dieser Text auf Jesus bezogen. Beim letzten Abendmahl sagt Jesus: „Dieser Kelch ist der neue Bund in meinem Blut“ (Lukas 22,20). Der Hebräerbrief zitiert den ganzen Abschnitt (Hebräer 8,8–12).
+> Wichtig: Der neue Bund wird ausdrücklich mit Israel und Juda geschlossen. Gott hat sein Volk Israel nicht verworfen (vgl. Vers 35–37; Römer 11,1–2).
+
+---
+
+### So sicher wie Sonne und Mond (Vers 35–40)
+
+<sup>35</sup>So spricht der HERR,
+der die Sonne zum Licht am Tag gibt
+und die Ordnungen von Mond und Sternen zum Licht in der Nacht,
+der das Meer aufwühlt, sodass seine Wellen brausen,
+HERR der Heere ist sein Name:
+<sup>36</sup>„Wenn diese Ordnungen vor mir weichen“, spricht der HERR,
+„dann werden auch die Nachkommen Israels aufhören,
+für immer ein Volk vor mir zu sein.“
+<sup>37</sup>So spricht der HERR:
+„Wenn man den Himmel oben ausmessen
+und die Grundfesten der Erde unten erforschen kann,
+dann werde auch ich alle Nachkommen Israels verwerfen
+wegen allem, was sie getan haben“, spricht der HERR.
+<sup>38</sup>„Siehe, es kommen Tage“, spricht der HERR,
+„da wird die Stadt für den HERRN gebaut werden
+vom Turm Hananel bis zum Ecktor.
+<sup>39</sup>Die Messschnur wird weiter geradeaus gehen
+bis zum Hügel Gareb und sich nach Goa wenden.
+<sup>40</sup>Und das ganze Tal der Leichen und der Asche
+und alle Felder bis zum Bach Kidron,
+bis zur Ecke des Rosstores im Osten,
+werden dem HERRN heilig sein.
+Sie werden nie mehr ausgerissen und nie mehr niedergerissen werden,
+für immer.“
+
+> **Was bedeutet das?**
+> Vers 35–37: Gottes Treue zu Israel ist so sicher wie die Ordnung von Sonne, Mond und Sternen. Erst wenn diese aufhören, würde Gott Israel verwerfen, also niemals. Und so wenig man den Himmel ausmessen kann, so wenig wird Gott sein Volk verstoßen.
+> Vers 38–40: Jerusalem wird größer wieder aufgebaut. Sogar das „Tal der Leichen und der Asche“, wahrscheinlich das Tal Ben-Hinnom, wo Kinder geopfert wurden, wird Gott heilig sein. Der Ort des größten Grauens wird verwandelt.
+
+## Jeremia – Kapitel 32
+#### Jeremia kauft einen Acker
+
+---
+
+### Jeremia im Gefängnis (Vers 1–5)
+
+<sup>1</sup>Das ist das Wort, das vom HERRN an Jeremia kam
+im zehnten Jahr Zidkijas, des Königs von Juda,
+das war das achtzehnte Jahr Nebukadnezars.
+<sup>2</sup>Damals belagerte das Heer des Königs von Babel Jerusalem.
+Der Prophet Jeremia war im Wachhof eingesperrt,
+der im Haus des Königs von Juda war.
+<sup>3</sup>Denn Zidkija, der König von Juda, hatte ihn eingesperrt und gesagt:
+„Warum weissagst du und sagst:
+‚So spricht der HERR:
+„Siehe, ich gebe diese Stadt in die Hand des Königs von Babel,
+und er wird sie einnehmen.
+<sup>4</sup>Und Zidkija, der König von Juda, wird der Hand der Chaldäer nicht entkommen,
+sondern er wird gewiss in die Hand des Königs von Babel gegeben werden
+und wird von Mund zu Mund mit ihm reden,
+und seine Augen werden seine Augen sehen.
+<sup>5</sup>Und er wird Zidkija nach Babel bringen,
+und dort wird er bleiben, bis ich nach ihm sehe“, spricht der HERR.
+„Wenn ihr auch gegen die Chaldäer kämpft, ihr werdet keinen Erfolg haben“‘?“
+
+> **Was bedeutet das?**
+> Es ist das Jahr 588/587 vor Christus. Jerusalem wird belagert, kurz vor dem Fall. König Zidkija hat Jeremia im „Wachhof“ des Palastes eingesperrt, weil er weiter verkündet: Die Stadt wird fallen.
+
+---
+
+### Ein Kaufvertrag mitten im Krieg (Vers 6–15)
+
+<sup>6</sup>Jeremia sagte: „Das Wort des HERRN kam zu mir:
+<sup>7</sup>‚Siehe, Hanamel, der Sohn deines Onkels Schallum, wird zu dir kommen und sagen:
+„Kauf dir meinen Acker in Anatot,
+denn dir steht das Recht der Auslösung zu, ihn zu kaufen.“‘
+<sup>8</sup>Und Hanamel, der Sohn meines Onkels, kam zu mir in den Wachhof,
+wie der HERR gesagt hatte, und sagte zu mir:
+‚Kauf doch meinen Acker in Anatot im Land Benjamin,
+denn dir steht das Erbrecht zu, und die Auslösung ist deine Sache.
+Kauf ihn dir!‘
+Da erkannte ich, dass es das Wort des HERRN war.
+<sup>9</sup>Ich kaufte den Acker in Anatot von Hanamel, dem Sohn meines Onkels,
+und wog ihm das Geld ab, siebzehn Schekel Silber.
+<sup>10</sup>Ich unterschrieb die Urkunde, versiegelte sie,
+rief Zeugen herbei und wog das Geld auf der Waage ab.
+<sup>11</sup>Dann nahm ich die Kaufurkunde,
+die versiegelte mit den Bedingungen und Bestimmungen
+und die offene,
+<sup>12</sup>und gab die Kaufurkunde Baruch, dem Sohn Nerijas, des Sohnes Machsejas,
+vor den Augen Hanamels, des Sohnes meines Onkels,
+und vor den Augen der Zeugen, die die Kaufurkunde unterschrieben hatten,
+vor den Augen aller Juden, die im Wachhof saßen.
+<sup>13</sup>Ich befahl Baruch vor ihren Augen:
+<sup>14</sup>So spricht der HERR der Heere, der Gott Israels:
+‚Nimm diese Urkunden, diese versiegelte Kaufurkunde
+und diese offene Urkunde,
+und lege sie in ein Tongefäß,
+damit sie viele Tage erhalten bleiben.‘
+<sup>15</sup>Denn so spricht der HERR der Heere, der Gott Israels:
+‚Man wird wieder Häuser, Äcker und Weinberge kaufen in diesem Land.‘“
+
+> **Was bedeutet das?**
+> Eine erstaunliche Geschichte: Mitten in der Belagerung, während die Feinde vor den Toren stehen und das Land verloren scheint, kauft Jeremia einen Acker in seinem Heimatdorf Anatot. Das Dorf lag schon im Gebiet der Babylonier.
+> Vers 7–8: Nach dem Gesetz hatte ein naher Verwandter das Recht und die Pflicht, ein Familiengrundstück zu kaufen, damit es in der Familie bleibt (3. Mose 25,25).
+> Vers 10–14: Jeremia macht alles ganz ordentlich: Vertrag, Siegel, Zeugen, Geld. Es gibt zwei Exemplare: eines versiegelt, eines offen zum Nachlesen. Sie werden in einen Tonkrug gelegt, damit sie lange halten. (So wurden auch die Schriftrollen vom Toten Meer aufbewahrt.)
+> Vers 15: Die Botschaft: Es gibt eine Zukunft! Man wird in diesem Land wieder Häuser und Felder kaufen. Jeremia investiert in die Hoffnung, obwohl alles verloren scheint.
+> Hier wird zum ersten Mal Baruch genannt, Jeremias treuer Schreiber und Freund.
+
+---
+
+### Jeremias Gebet: Dir ist nichts unmöglich (Vers 16–25)
+
+<sup>16</sup>Nachdem ich die Kaufurkunde Baruch, dem Sohn Nerijas, gegeben hatte,
+betete ich zum HERRN und sagte:
+<sup>17</sup>„Ach, Herr, HERR!
+Siehe, du hast den Himmel und die Erde gemacht
+durch deine große Kraft und durch deinen ausgestreckten Arm.
+Dir ist nichts zu schwer.
+<sup>18</sup>Du erweist Gnade an Tausenden
+und vergiltst die Schuld der Väter in den Schoß ihrer Kinder nach ihnen.
+Du großer, mächtiger Gott, HERR der Heere ist dein Name,
+<sup>19</sup>groß an Rat und mächtig an Tat,
+deine Augen sind offen über allen Wegen der Menschenkinder,
+um jedem zu geben nach seinen Wegen
+und nach der Frucht seiner Taten.
+<sup>20</sup>Du hast Zeichen und Wunder getan im Land Ägypten bis zum heutigen Tag,
+in Israel und unter den Menschen,
+und hast dir einen Namen gemacht, wie es heute ist.
+<sup>21</sup>Du hast dein Volk Israel aus dem Land Ägypten herausgeführt
+mit Zeichen und Wundern, mit starker Hand und ausgestrecktem Arm
+und mit großem Schrecken
+<sup>22</sup>und hast ihnen dieses Land gegeben,
+das du ihren Vätern geschworen hattest, ihnen zu geben,
+ein Land, in dem Milch und Honig fließen.
+<sup>23</sup>Sie kamen hinein und nahmen es in Besitz,
+aber sie hörten nicht auf deine Stimme
+und lebten nicht nach deinem Gesetz.
+Sie haben nichts von allem getan, was du ihnen geboten hast.
+Darum hast du all dieses Unheil über sie kommen lassen.
+<sup>24</sup>Siehe, die Belagerungswälle reichen schon an die Stadt heran, um sie einzunehmen.
+Die Stadt ist in die Hand der Chaldäer gegeben, die gegen sie kämpfen,
+durch das Schwert, den Hunger und die Pest.
+Was du geredet hast, ist geschehen. Siehe, du siehst es.
+<sup>25</sup>Und du hast zu mir gesagt, Herr, HERR:
+‚Kauf dir den Acker für Geld und ruf Zeugen herbei‘,
+während doch die Stadt in die Hand der Chaldäer gegeben ist.“
+
+> **Was bedeutet das?**
+> Vers 17: „Dir ist nichts zu schwer.“ Jeremia vertraut Gottes Macht.
+> Vers 18–23: Er erinnert an Gottes große Taten in der Geschichte, an den Auszug aus Ägypten und an das Land, das Gott gegeben hat. Aber das Volk hat nicht gehört.
+> Vers 24–25: Und dann die ehrliche Frage: Gott, die Feinde stehen vor der Stadt, und du sagst mir, ich soll einen Acker kaufen? Wie passt das zusammen? Jeremia gehorcht, aber er versteht es nicht ganz.
+
+---
+
+### Gottes Antwort: Gericht (Vers 26–35)
+
+<sup>26</sup>Da kam das Wort des HERRN zu Jeremia:
+<sup>27</sup>„Siehe, ich bin der HERR, der Gott allen Fleisches.
+Sollte mir etwas zu schwer sein?
+<sup>28</sup>Darum spricht der HERR:
+Siehe, ich gebe diese Stadt in die Hand der Chaldäer
+und in die Hand Nebukadnezars, des Königs von Babel,
+und er wird sie einnehmen.
+<sup>29</sup>Die Chaldäer, die gegen diese Stadt kämpfen,
+werden kommen und diese Stadt in Brand stecken
+und sie verbrennen mit den Häusern,
+auf deren Dächern sie dem Baal Räucherwerk verbrannt
+und anderen Göttern Trankopfer ausgegossen haben, um mich zu kränken.
+<sup>30</sup>Denn die Kinder Israel und die Kinder Juda
+haben von ihrer Jugend an nur getan, was in meinen Augen böse ist.
+Denn die Kinder Israel haben mich nur gekränkt mit dem Werk ihrer Hände,
+spricht der HERR.
+<sup>31</sup>Denn diese Stadt hat meinen Zorn und meinen Grimm erregt
+von dem Tag an, als man sie gebaut hat, bis zu diesem Tag,
+sodass ich sie von meinem Angesicht entfernen muss
+<sup>32</sup>wegen all der Bosheit der Kinder Israel und der Kinder Juda,
+die sie getan haben, um mich zu kränken,
+sie, ihre Könige, ihre Fürsten, ihre Priester, ihre Propheten,
+die Männer von Juda und die Bewohner Jerusalems.
+<sup>33</sup>Sie haben mir den Rücken zugekehrt und nicht das Gesicht.
+Obwohl ich sie gelehrt habe, früh und unermüdlich,
+haben sie nicht gehört, um Zurechtweisung anzunehmen.
+<sup>34</sup>Sondern sie haben ihre Scheusale in das Haus gestellt,
+das nach meinem Namen genannt ist, um es zu entweihen.
+<sup>35</sup>Sie haben die Opferhöhen des Baal gebaut, die im Tal Ben-Hinnom sind,
+um ihre Söhne und ihre Töchter für den Moloch durchs Feuer gehen zu lassen,
+was ich ihnen nicht geboten habe,
+und es ist mir nicht in den Sinn gekommen,
+dass sie diesen Gräuel tun sollten,
+um Juda zur Sünde zu verführen.“
+
+> **Was bedeutet das?**
+> Vers 27: Gott nimmt Jeremias Worte auf: „Sollte mir etwas zu schwer sein?“ Auch die Rettung nach dem Gericht ist für Gott nicht zu schwer.
+> Vers 28–35: Aber zuerst kommt das Gericht. Gott zählt noch einmal auf, warum: Götzendienst, Entweihung des Tempels und das schlimmste Verbrechen, Kinderopfer für den Gott Moloch. Gott sagt wieder: Das ist mir nie in den Sinn gekommen. Kinder zu töten ist ein Gräuel vor Gott.
+
+---
+
+### Gottes Antwort: Hoffnung (Vers 36–44)
+
+<sup>36</sup>Und jetzt, darum spricht der HERR, der Gott Israels,
+über diese Stadt, von der ihr sagt:
+„Sie ist in die Hand des Königs von Babel gegeben
+durch das Schwert, den Hunger und die Pest“:
+<sup>37</sup>„Siehe, ich werde sie sammeln aus allen Ländern,
+wohin ich sie vertrieben habe in meinem Zorn
+und in meinem Grimm und in großer Wut,
+und ich werde sie an diesen Ort zurückbringen
+und sie sicher wohnen lassen.
+<sup>38</sup>Dann werden sie mein Volk sein,
+und ich werde ihr Gott sein.
+<sup>39</sup>Ich werde ihnen ein Herz und einen Weg geben,
+damit sie mich fürchten alle Tage,
+zu ihrem Besten und zum Besten ihrer Kinder nach ihnen.
+<sup>40</sup>Ich werde einen ewigen Bund mit ihnen schließen,
+dass ich mich nicht von ihnen abwende und ihnen Gutes tue.
+Und ich werde meine Furcht in ihr Herz legen,
+damit sie nicht von mir weichen.
+<sup>41</sup>Ja, ich werde mich über sie freuen, ihnen Gutes zu tun,
+und ich werde sie in diesem Land einpflanzen in Treue,
+mit meinem ganzen Herzen und mit meiner ganzen Seele.“
+<sup>42</sup>Denn so spricht der HERR:
+„Wie ich all dieses große Unheil über dieses Volk gebracht habe,
+so werde ich all das Gute über sie bringen,
+das ich ihnen zugesagt habe.
+<sup>43</sup>Man wird Äcker kaufen in diesem Land,
+von dem ihr sagt: ‚Es ist eine Wüste,
+ohne Mensch und ohne Tier.
+Es ist in die Hand der Chaldäer gegeben.‘
+<sup>44</sup>Man wird Äcker für Geld kaufen,
+Urkunden unterschreiben, versiegeln und Zeugen herbeirufen,
+im Land Benjamin und in der Umgebung Jerusalems,
+in den Städten Judas, in den Städten des Berglands,
+in den Städten des Hügellands und in den Städten des Südens.
+Denn ich werde ihr Geschick wenden“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Nach dem Gericht kommt die Hoffnung:
+> Vers 37–38: Gott wird sein Volk zurückbringen. „Sie werden mein Volk sein, und ich werde ihr Gott sein.“
+> Vers 39–40: Ein „ewiger Bund“, ähnlich wie der neue Bund in Kapitel 31: Gott schenkt ein neues Herz, damit das Volk bei ihm bleibt.
+> Vers 41 ist besonders schön: Gott freut sich darüber, Gutes zu tun, „mit ganzem Herzen und ganzer Seele“. Gott spricht hier von seinem „ganzen Herzen und seiner ganzen Seele“, so wie Menschen Gott von ganzem Herzen und ganzer Seele lieben sollen (5. Mose 6,5).
+> Vers 43–44: Und jetzt wird klar, warum Jeremia den Acker kaufen sollte: Er war ein Zeichen dafür, dass das Leben weitergeht. Eines Tages wird man im ganzen Land wieder Äcker kaufen.
+
+## Jeremia – Kapitel 33
+#### Ruf mich an, so will ich dir antworten
+
+---
+
+### Ich will die Stadt heilen (Vers 1–9)
+
+<sup>1</sup>Und das Wort des HERRN kam zum zweiten Mal zu Jeremia,
+als er noch im Wachhof eingesperrt war:
+<sup>2</sup>„So spricht der HERR, der es tut,
+der HERR, der es bildet, um es zu festigen,
+HERR ist sein Name:
+<sup>3</sup>‚Ruf mich an, so will ich dir antworten
+und will dir große und unbegreifliche Dinge zeigen,
+die du nicht kennst.‘
+<sup>4</sup>Denn so spricht der HERR, der Gott Israels,
+über die Häuser dieser Stadt und über die Häuser der Könige von Juda,
+die niedergerissen werden zur Verteidigung gegen die Belagerungswälle und gegen das Schwert:
+<sup>5</sup>‚Während man kommt, um gegen die Chaldäer zu kämpfen,
+und sie mit den Leichen der Menschen füllt,
+die ich in meinem Zorn und in meinem Grimm erschlagen habe,
+und weil ich wegen all ihrer Bosheit mein Angesicht vor dieser Stadt verborgen habe,
+<sup>6</sup>siehe, so werde ich ihr Genesung und Heilung bringen,
+und ich werde sie heilen
+und ihnen eine Fülle von Frieden und Treue offenbaren.
+<sup>7</sup>Ich werde das Geschick Judas und Israels wenden
+und sie aufbauen wie am Anfang.
+<sup>8</sup>Ich werde sie reinigen von all ihrer Schuld,
+mit der sie gegen mich gesündigt haben.
+Ich werde ihnen all ihre Schuld vergeben,
+mit der sie gegen mich gesündigt
+und mit der sie sich gegen mich vergangen haben.
+<sup>9</sup>Diese Stadt wird mir zu einem Namen der Freude werden,
+zum Lob und zur Ehre vor allen Nationen der Erde,
+die all das Gute hören werden, das ich ihnen tue.
+Sie werden staunen und zittern wegen all des Guten
+und wegen all des Friedens, den ich ihr verschaffe.‘“
+
+> **Was bedeutet das?**
+> Jeremia ist immer noch im Gefängnis, und draußen tobt der Krieg.
+> Vers 3 ist ein sehr beliebter Vers: „Ruf mich an, so will ich dir antworten und will dir große und unbegreifliche Dinge zeigen.“ Gott lädt ein, mit ihm zu reden. Er hat Antworten, die wir uns selbst nicht ausdenken können.
+> Vers 4–5: In der Belagerung werden Häuser abgerissen, um mit den Steinen die Mauern zu verstärken. Die Lage ist hoffnungslos.
+> Vers 6–9: Und doch: Gott wird die Stadt heilen, ihr Frieden und Treue schenken und alle Schuld vergeben. Jerusalem wird wieder ein Ort der Freude sein.
+
+---
+
+### Wieder Stimmen der Freude (Vers 10–13)
+
+<sup>10</sup>So spricht der HERR:
+„An diesem Ort, von dem ihr sagt: ‚Er ist verwüstet,
+ohne Mensch und ohne Tier‘,
+in den Städten Judas und auf den Straßen Jerusalems,
+die verwüstet sind, ohne Mensch, ohne Bewohner und ohne Tier,
+wird man wieder hören
+<sup>11</sup>die Stimme der Freude und die Stimme der Fröhlichkeit,
+die Stimme des Bräutigams und die Stimme der Braut,
+die Stimme derer, die sagen:
+‚Dankt dem HERRN der Heere,
+denn der HERR ist gut,
+denn seine Gnade währt ewig!‘,
+die Dankopfer in das Haus des HERRN bringen.
+Denn ich werde das Geschick des Landes wenden wie am Anfang“,
+spricht der HERR.
+<sup>12</sup>So spricht der HERR der Heere:
+„An diesem Ort, der verwüstet ist, ohne Mensch und ohne Tier,
+und in allen seinen Städten
+wird es wieder Weideplätze geben für Hirten,
+die ihre Herden lagern lassen.
+<sup>13</sup>In den Städten des Berglands, in den Städten des Hügellands,
+in den Städten des Südens, im Land Benjamin,
+in der Umgebung Jerusalems und in den Städten Judas
+werden die Herden wieder unter den Händen dessen vorbeiziehen,
+der sie zählt“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 10–11: Jeremia hatte mehrmals angekündigt, dass die Stimmen von Braut und Bräutigam verstummen werden (7,34; 16,9; 25,10). Jetzt wird das umgekehrt: Man wird wieder Hochzeiten feiern und Gott loben: „Dankt dem HERRN, denn er ist gut, denn seine Gnade währt ewig!“ (wie in Psalm 136). In jüdischen Hochzeitssegen wird bis heute an diese Verse erinnert.
+> Vers 12–13: Die Hirten zählen wieder ihre Schafe, ein Bild für Frieden und normales Leben.
+
+---
+
+### Der gerechte Spross und Gottes Treue (Vers 14–26)
+
+<sup>14</sup>„Siehe, es kommen Tage“, spricht der HERR,
+„da werde ich das gute Wort erfüllen,
+das ich über das Haus Israel und über das Haus Juda geredet habe.
+<sup>15</sup>In jenen Tagen und zu jener Zeit
+werde ich David einen Spross der Gerechtigkeit wachsen lassen.
+Er wird Recht und Gerechtigkeit üben im Land.
+<sup>16</sup>In jenen Tagen wird Juda gerettet werden,
+und Jerusalem wird sicher wohnen.
+Und das ist der Name, mit dem man sie nennen wird:
+‚Der HERR ist unsere Gerechtigkeit.‘“
+<sup>17</sup>Denn so spricht der HERR:
+„Es wird David nie an einem Mann fehlen,
+der auf dem Thron des Hauses Israel sitzt.
+<sup>18</sup>Und den levitischen Priestern wird es nie an einem Mann vor mir fehlen,
+der Brandopfer darbringt, Speisopfer verbrennt
+und alle Tage Schlachtopfer zubereitet.“
+<sup>19</sup>Das Wort des HERRN kam zu Jeremia:
+<sup>20</sup>„So spricht der HERR:
+‚Wenn ihr meinen Bund mit dem Tag und meinen Bund mit der Nacht brechen könnt,
+sodass Tag und Nacht nicht mehr zu ihrer Zeit kommen,
+<sup>21</sup>dann könnte auch mein Bund mit meinem Knecht David gebrochen werden,
+sodass er keinen Sohn mehr hätte, der auf seinem Thron als König herrscht,
+und mein Bund mit den levitischen Priestern, meinen Dienern.
+<sup>22</sup>Wie man das Heer des Himmels nicht zählen
+und den Sand des Meeres nicht messen kann,
+so werde ich die Nachkommen meines Knechtes David vermehren
+und die Leviten, die mir dienen.‘“
+<sup>23</sup>Das Wort des HERRN kam zu Jeremia:
+<sup>24</sup>„Hast du nicht beachtet, was dieses Volk redet und sagt:
+‚Die beiden Sippen, die der HERR erwählt hatte, hat er verworfen‘?
+So verachten sie mein Volk,
+als wäre es vor ihnen kein Volk mehr.“
+<sup>25</sup>So spricht der HERR:
+„Wenn mein Bund mit Tag und Nacht nicht besteht,
+wenn ich die Ordnungen von Himmel und Erde nicht festgesetzt habe,
+<sup>26</sup>dann werde ich auch die Nachkommen Jakobs und meines Knechtes David verwerfen,
+sodass ich nicht mehr aus seinen Nachkommen Herrscher nehme
+über die Nachkommen Abrahams, Isaaks und Jakobs.
+Denn ich werde ihr Geschick wenden und mich über sie erbarmen.“
+
+> **Was bedeutet das?**
+> Vers 14–16: Die Verheißung vom „gerechten Spross“ Davids aus Kapitel 23,5–6 wird wiederholt. Diesmal heißt Jerusalem selbst „Der HERR ist unsere Gerechtigkeit“. Im Judentum bezieht man das auf den kommenden Messias, Christen auf Jesus.
+> Vers 17–18: Gott verspricht, dass es immer einen König aus Davids Familie und Priester aus dem Stamm Levi geben wird. Nach dem Exil gab es lange keinen König mehr, und der Tempel wurde später zerstört. Juden verstehen diese Verheißung darum als Hoffnung auf die Zukunft. Christen sehen sie in Jesus erfüllt, den das Neue Testament als König aus Davids Familie und als Hohenpriester beschreibt (Hebräer 7).
+> Vers 20–22: Gottes Bund ist so sicher wie Tag und Nacht. Niemand kann ihn brechen.
+> Vers 24–26: Manche sagten: Gott hat Israel und Juda verworfen. Gott antwortet: Niemals! So sicher, wie es Tag und Nacht gibt, werde ich mich über mein Volk erbarmen. Das ist eine klare Absage an alle, die meinen, Gott habe das jüdische Volk verstoßen.
