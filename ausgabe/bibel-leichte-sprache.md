@@ -74431,7 +74431,7 @@ Herr, du bist unsere Wohnung gewesen von Generation zu Generation.
 <sup>2</sup>Bevor die Berge geboren wurden,
 bevor du die Erde und die Welt geformt hast,
 von Ewigkeit zu Ewigkeit bist du Gott.
-<sup>3</sup>Du lässt den Menschen zum Staub zurückkehren
+<sup>3</sup>Du lässt den Menschen zur Vernichtung zurückkehren
 und sagst: „Kehrt zurück, ihr Menschenkinder!“
 <sup>4</sup>Denn tausend Jahre sind vor dir
 wie der gestrige Tag, wenn er vergangen ist,
@@ -74443,7 +74443,7 @@ Am Abend ist es welk und verdorrt.
 
 > **Was bedeutet das?**
 > Gott ist ewig. Er war schon da, bevor die Berge entstanden. Für den Menschen ist er wie ein Zuhause, eine „Wohnung“, in der man geborgen ist.
-> Vers 3: „Kehrt zurück“: zurück zum Staub, aus dem der Mensch gemacht ist (1. Mose 3,19). Das englische „destruction“ (Zerstörung) meint hier: Der Mensch zerfällt wieder zu Staub.
+> Vers 3: „Zur Vernichtung“: Das hebräische Wort meint etwas Zermalmtes, Staub. Der Mensch kehrt zum Staub zurück, aus dem er gemacht ist (1. Mose 3,19).
 > Vers 4: Für Gott sind tausend Jahre wie ein Tag. Petrus zitiert das in 2. Petrus 3,8.
 > Vers 5–6: Das menschliche Leben ist wie Gras: am Morgen frisch, am Abend verwelkt.
 
@@ -74672,10 +74672,10 @@ Die Fluten erheben ihre Wellen.
 <sup>4</sup>Mächtiger als das Brausen vieler Wasser,
 als die gewaltigen Brandungswellen des Meeres,
 ist der HERR in der Höhe.
-<sup>5</sup>Deine Zeugnisse sind sehr zuverlässig.
+<sup>5</sup>Deine Ordnungen stehen fest.
 Heiligkeit ist die Zierde deines Hauses, HERR, für immer.
 
 > **Was bedeutet das?**
 > Das Meer mit seinen tosenden Wellen war für die Menschen damals ein Bild für Chaos und Bedrohung. Man hört die Wellen dreimal anrollen: „Die Fluten erheben …“
 > Aber Gott ist mächtiger als das tobende Meer. Auch die bedrohlichsten Mächte der Welt sind kleiner als er.
-> Vers 5: Gottes Worte sind zuverlässig, und sein Haus ist heilig.
+> Vers 5: Gottes Ordnungen sind zuverlässig, und sein Haus ist heilig.

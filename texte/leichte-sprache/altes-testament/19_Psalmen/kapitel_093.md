@@ -27,10 +27,10 @@ Die Fluten erheben ihre Wellen.
 [4] Mächtiger als das Brausen vieler Wasser,
 als die gewaltigen Brandungswellen des Meeres,
 ist der HERR in der Höhe.
-[5] Deine Zeugnisse sind sehr zuverlässig.
+[5] Deine Ordnungen stehen fest.
 Heiligkeit ist die Zierde deines Hauses, HERR, für immer.
 
 > **Was bedeutet das?**
 > Das Meer mit seinen tosenden Wellen war für die Menschen damals ein Bild für Chaos und Bedrohung. Man hört die Wellen dreimal anrollen: „Die Fluten erheben …“
 > Aber Gott ist mächtiger als das tobende Meer. Auch die bedrohlichsten Mächte der Welt sind kleiner als er.
-> Vers 5: Gottes Worte sind zuverlässig, und sein Haus ist heilig.
+> Vers 5: Gottes Ordnungen sind zuverlässig, und sein Haus ist heilig.

@@ -19,7 +19,7 @@ Herr, du bist unsere Wohnung gewesen von Generation zu Generation.
 [2] Bevor die Berge geboren wurden,
 bevor du die Erde und die Welt geformt hast,
 von Ewigkeit zu Ewigkeit bist du Gott.
-[3] Du lässt den Menschen zum Staub zurückkehren
+[3] Du lässt den Menschen zur Vernichtung zurückkehren
 und sagst: „Kehrt zurück, ihr Menschenkinder!“
 [4] Denn tausend Jahre sind vor dir
 wie der gestrige Tag, wenn er vergangen ist,
@@ -31,7 +31,7 @@ Am Abend ist es welk und verdorrt.
 
 > **Was bedeutet das?**
 > Gott ist ewig. Er war schon da, bevor die Berge entstanden. Für den Menschen ist er wie ein Zuhause, eine „Wohnung“, in der man geborgen ist.
-> Vers 3: „Kehrt zurück“: zurück zum Staub, aus dem der Mensch gemacht ist (1. Mose 3,19). Das englische „destruction“ (Zerstörung) meint hier: Der Mensch zerfällt wieder zu Staub.
+> Vers 3: „Zur Vernichtung“: Das hebräische Wort meint etwas Zermalmtes, Staub. Der Mensch kehrt zum Staub zurück, aus dem er gemacht ist (1. Mose 3,19).
 > Vers 4: Für Gott sind tausend Jahre wie ein Tag. Petrus zitiert das in 2. Petrus 3,8.
 > Vers 5–6: Das menschliche Leben ist wie Gras: am Morgen frisch, am Abend verwelkt.
 
