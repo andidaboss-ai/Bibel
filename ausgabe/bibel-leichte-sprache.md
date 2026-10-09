@@ -83025,7 +83025,7 @@ und was Flügel hat, könnte die Sache weitersagen.
 > Vers 16–17: Ein Land leidet, wenn seine Anführer unreif sind und nur feiern. Ein Land ist glücklich, wenn seine Anführer verantwortungsvoll handeln.
 > Vers 18: Wer sich nicht um sein Haus kümmert, dem regnet es bald durchs Dach. Das gilt auch für einen Staat.
 > Vers 19: Ein ironischer Satz: Manche denken, Geld löst alle Probleme. Der Prediger beschreibt diese Haltung, er lobt sie nicht.
-> Vers 20: „Ein Vögelchen hat es mir gezwitschert“: Diese Redewendung kommt von hier. Sei vorsichtig mit dem, was du über Mächtige sagst. Es kann herauskommen. Das gilt heute besonders für Nachrichten und Beiträge im Internet.
+> Vers 20: Die Redewendung „Ein Vögelchen hat es mir gezwitschert“ erinnert an diesen Vers. Sei vorsichtig mit dem, was du über Mächtige sagst. Es kann herauskommen. Das gilt heute besonders für Nachrichten und Beiträge im Internet.
 
 ## Prediger – Kapitel 11
 #### Wirf dein Brot über das Wasser
@@ -83148,7 +83148,7 @@ Des vielen Büchermachens ist kein Ende,
 und viel Studieren ermüdet den Leib.
 <sup>13</sup>Das ist das Ende der Sache. Alles ist gehört.
 Fürchte Gott und halte seine Gebote,
-denn das gilt für jeden Menschen.
+denn das ist die ganze Pflicht des Menschen.
 <sup>14</sup>Denn Gott wird jedes Werk vor Gericht bringen,
 mit allem, was verborgen ist,
 es sei gut oder böse.

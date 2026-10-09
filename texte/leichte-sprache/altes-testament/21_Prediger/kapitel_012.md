@@ -61,7 +61,7 @@ Des vielen Büchermachens ist kein Ende,
 und viel Studieren ermüdet den Leib.
 [13] Das ist das Ende der Sache. Alles ist gehört.
 Fürchte Gott und halte seine Gebote,
-denn das gilt für jeden Menschen.
+denn das ist die ganze Pflicht des Menschen.
 [14] Denn Gott wird jedes Werk vor Gericht bringen,
 mit allem, was verborgen ist,
 es sei gut oder böse.

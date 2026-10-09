@@ -89,5 +89,5 @@ und was Flügel hat, könnte die Sache weitersagen.
 > Vers 16–17: Ein Land leidet, wenn seine Anführer unreif sind und nur feiern. Ein Land ist glücklich, wenn seine Anführer verantwortungsvoll handeln.
 > Vers 18: Wer sich nicht um sein Haus kümmert, dem regnet es bald durchs Dach. Das gilt auch für einen Staat.
 > Vers 19: Ein ironischer Satz: Manche denken, Geld löst alle Probleme. Der Prediger beschreibt diese Haltung, er lobt sie nicht.
-> Vers 20: „Ein Vögelchen hat es mir gezwitschert“: Diese Redewendung kommt von hier. Sei vorsichtig mit dem, was du über Mächtige sagst. Es kann herauskommen. Das gilt heute besonders für Nachrichten und Beiträge im Internet.
+> Vers 20: Die Redewendung „Ein Vögelchen hat es mir gezwitschert“ erinnert an diesen Vers. Sei vorsichtig mit dem, was du über Mächtige sagst. Es kann herauskommen. Das gilt heute besonders für Nachrichten und Beiträge im Internet.
 
