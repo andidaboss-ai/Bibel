@@ -2802,6 +2802,583 @@
      "erklaerung": "Bildads Rede ist grausam, wenn man an Hiob denkt:\n– „Die Glieder seines Körpers werden verzehrt“: Genau das erlebt Hiob mit seiner Krankheit.\n– „Er wird weder Sohn noch Enkel haben“: Hiob hat alle seine Kinder verloren.\n– „Schwefel über seine Wohnung“: Wie bei Hiob, als „Feuer Gottes vom Himmel fiel“ (Kapitel 1,16).\nBildad sagt es nicht direkt, aber jeder Satz zielt auf Hiob. Am Ende schließt er: So geht es dem, „der Gott nicht kennt“. Das ist eine ungeheure Anklage gegen einen Mann, den Gott selbst als untadelig bezeichnet hat.\n„Der Erstgeborene des Todes“ ist wohl eine tödliche Krankheit. „Der König der Schrecken“ ist der Tod selbst.\nDiese Rede zeigt, wie gefährlich es ist, eine richtige Lehre falsch anzuwenden. Bildad redet von Gott und verletzt dabei einen Menschen zutiefst."
     }
    ]
+  },
+  {
+   "kapitel": 19,
+   "titel": "„Ich weiß, dass mein Erlöser lebt“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Wie lange wollt ihr mich quälen?",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da antwortete Hiob:",
+       "englisch_web": "Then Job answered,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Wie lange wollt ihr mich quälen\nund mich mit Worten zermalmen?",
+       "englisch_web": "“How long will you torment me, and crush me with words?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Zehnmal habt ihr mich schon beschimpft.\nIhr schämt euch nicht, mich anzugreifen.",
+       "englisch_web": "You have reproached me ten times. You aren’t ashamed that you attack me."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Wenn es wahr ist, dass ich mich geirrt habe,\ndann bleibt mein Irrtum bei mir.",
+       "englisch_web": "If it is true that I have erred, my error remains with myself."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn ihr euch wirklich über mich erheben wollt\nund mir meine Schande vorhaltet,",
+       "englisch_web": "If indeed you will magnify yourselves against me, and plead against me my reproach,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "dann wisst jetzt: Gott hat mich ins Unrecht gesetzt\nund mich mit seinem Netz umgeben.",
+       "englisch_web": "know now that God has subverted me, and has surrounded me with his net."
+      }
+     ],
+     "erklaerung": "„Zehnmal“ heißt: immer wieder. Hiob ist erschöpft von den ständigen Vorwürfen.\nVers 4: Selbst wenn ich einen Fehler gemacht habe, geht euch das nichts an. Das ist eine Sache zwischen mir und Gott.\nVers 6: Bildad hatte gesagt, der Gottlose gerät in sein eigenes Netz (Kapitel 18,8). Hiob antwortet: Nein, Gott hat das Netz um mich gelegt. Nicht ich bin schuld."
+    },
+    {
+     "ueberschrift": "Von Gott und allen Menschen verlassen",
+     "vers_von": 7,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Schaut, ich schreie: ‚Gewalt!‘, aber ich bekomme keine Antwort.\nIch rufe um Hilfe, aber es gibt kein Recht.",
+       "englisch_web": "“Behold, I cry out of wrong, but I am not heard. I cry for help, but there is no justice."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er hat meinen Weg zugemauert, dass ich nicht hindurchkann,\nund auf meine Pfade hat er Finsternis gelegt.",
+       "englisch_web": "He has walled up my way so that I can’t pass, and has set darkness in my paths."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er hat mir meine Ehre ausgezogen\nund die Krone von meinem Kopf genommen.",
+       "englisch_web": "He has stripped me of my glory, and taken the crown from my head."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er hat mich ringsum niedergerissen, und ich bin dahin.\nMeine Hoffnung hat er ausgerissen wie einen Baum.",
+       "englisch_web": "He has broken me down on every side, and I am gone. He has plucked my hope up like a tree."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er hat auch seinen Zorn gegen mich entfacht.\nEr zählt mich zu seinen Feinden.",
+       "englisch_web": "He has also kindled his wrath against me. He counts me among his adversaries."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Seine Truppen kommen zusammen,\nschütten einen Belagerungswall gegen mich auf\nund lagern rings um mein Zelt.",
+       "englisch_web": "His troops come on together, build a siege ramp against me, and encamp around my tent."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Meine Brüder hat er von mir entfernt.\nMeine Bekannten sind mir ganz fremd geworden.",
+       "englisch_web": "“He has put my brothers far from me. My acquaintances are wholly estranged from me."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Meine Verwandten sind weggegangen.\nMeine vertrauten Freunde haben mich vergessen.",
+       "englisch_web": "My relatives have gone away. My familiar friends have forgotten me."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Die in meinem Haus wohnen und meine Mägde halten mich für einen Fremden.\nIch bin ein Ausländer in ihren Augen.",
+       "englisch_web": "Those who dwell in my house and my maids consider me a stranger. I am an alien in their sight."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich rufe meinen Knecht, und er antwortet mir nicht.\nIch muss ihn mit meinem Mund anflehen.",
+       "englisch_web": "I call to my servant, and he gives me no answer. I beg him with my mouth."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Mein Atem ist meiner Frau zuwider,\nund ich bin den Kindern meiner eigenen Mutter ekelhaft.",
+       "englisch_web": "My breath is offensive to my wife. I am loathsome to the children of my own mother."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Selbst kleine Kinder verachten mich.\nWenn ich aufstehe, reden sie gegen mich.",
+       "englisch_web": "Even young children despise me. If I arise, they speak against me."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Alle meine vertrauten Freunde verabscheuen mich.\nUnd die ich geliebt habe, haben sich gegen mich gewandt.",
+       "englisch_web": "All my familiar friends abhor me. They whom I loved have turned against me."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Meine Knochen kleben an meiner Haut und an meinem Fleisch.\nIch bin mit der Haut meiner Zähne davongekommen.",
+       "englisch_web": "My bones stick to my skin and to my flesh. I have escaped by the skin of my teeth."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Habt Mitleid mit mir, habt Mitleid mit mir, ihr meine Freunde,\ndenn die Hand Gottes hat mich getroffen!",
+       "englisch_web": "“Have pity on me. Have pity on me, you my friends, for the hand of God has touched me."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Warum verfolgt ihr mich wie Gott\nund werdet nicht satt von meinem Fleisch?",
+       "englisch_web": "Why do you persecute me as God, and are not satisfied with my flesh?"
+      }
+     ],
+     "erklaerung": "Hiob beschreibt seine völlige Einsamkeit. Nicht nur Gott scheint gegen ihn zu sein, sondern auch alle Menschen: Brüder, Freunde, Verwandte, Knechte, Mägde, seine Frau, sogar kleine Kinder.\nEr war einmal ein geachteter Mann. Jetzt ist er ein Fremder im eigenen Haus. Krankheit und Leid machen oft einsam. Viele Kranke erleben das bis heute.\n„Mit der Haut meiner Zähne davongekommen“ ist eine Redewendung, die bis heute in vielen Sprachen bekannt ist. Gemeint ist: ganz knapp, mit fast nichts. Zähne haben ja keine Haut.\nVers 21 ist ein erschütternder Hilferuf: „Habt Mitleid mit mir!“ Hiob bittet nicht um Erklärungen. Er bittet um Mitgefühl.\nVers 22: „Warum verfolgt ihr mich wie Gott?“ Die Freunde machen sich selbst zu Richtern, als wären sie Gott."
+    },
+    {
+     "ueberschrift": "Ich weiß, dass mein Erlöser lebt",
+     "vers_von": 23,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Ach, dass meine Worte doch aufgeschrieben würden!\nAch, dass sie in ein Buch eingetragen würden!",
+       "englisch_web": "“Oh that my words were now written! Oh that they were inscribed in a book!"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Dass sie mit einem eisernen Griffel und mit Blei\nfür immer in den Felsen gehauen würden!",
+       "englisch_web": "That with an iron pen and lead they were engraved in the rock forever!"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ich aber, ich weiß: Mein Erlöser lebt.\nAm Ende wird er sich über der Erde erheben.",
+       "englisch_web": "But as for me, I know that my Redeemer lives. In the end, he will stand upon the earth."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Nachdem meine Haut so zerschlagen ist,\nwerde ich doch in meinem Fleisch Gott sehen.",
+       "englisch_web": "After my skin is destroyed, then I will see God in my flesh,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Ich selbst werde ihn sehen, auf meiner Seite.\nMeine Augen werden ihn sehen, und nicht als einen Fremden.\nMein Herz vergeht in meiner Brust.",
+       "englisch_web": "whom I, even I, will see on my side. My eyes will see, and not as a stranger. “My heart is consumed within me."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Wenn ihr sagt: ‚Wie wollen wir ihn verfolgen!‘,\nweil die Wurzel der Sache in mir gefunden wird,",
+       "englisch_web": "If you say, ‘How we will persecute him!’ because the root of the matter is found in me,"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "dann fürchtet euch vor dem Schwert!\nDenn Zorn bringt die Strafen des Schwertes,\ndamit ihr erkennt, dass es ein Gericht gibt.“",
+       "englisch_web": "be afraid of the sword, for wrath brings the punishments of the sword, that you may know there is a judgment.”"
+      }
+     ],
+     "erklaerung": "Hiob wünscht sich, dass seine Worte für immer erhalten bleiben, in Stein gemeißelt. Damit spätere Generationen wissen, dass er unschuldig war. Sein Wunsch hat sich erfüllt: Seine Worte stehen in der Bibel und werden seit Jahrtausenden gelesen.\nVers 25–27 gehört zu den berühmtesten Versen der ganzen Bibel: „Ich weiß, dass mein Erlöser lebt.“\nEin „Erlöser“ (hebräisch „Goël“) war in Israel ein naher Verwandter, der für einen Menschen in Not eintrat. Er kaufte ihn aus der Sklaverei frei, löste sein Land zurück oder sorgte für sein Recht (vgl. 3. Mose 25,25; Rut 4).\nHiob ist von allen verlassen. Aber er glaubt: Es gibt einen, der für mich eintritt. Er lebt. Und am Ende wird er auftreten.\n„In meinem Fleisch Gott sehen“: Hiob hofft, Gott selbst zu sehen, nicht als Fremden, sondern auf seiner Seite. Ob er das vor oder nach seinem Tod meint, ist im Hebräischen nicht ganz klar.\nChristen haben diese Worte schon früh auf Jesus bezogen, den lebendigen Erlöser, und auf die Hoffnung der Auferstehung. Georg Friedrich Händel hat sie in seinem „Messias“ vertont: „I know that my Redeemer liveth“.\nAm Ende des Buches sieht Hiob Gott tatsächlich: „Jetzt hat mein Auge dich gesehen“ (Kapitel 42,5).\nVers 28–29: Hiob warnt seine Freunde. Wenn sie ihn weiter verfolgen, werden sie selbst vor Gottes Gericht stehen."
+    }
+   ]
+  },
+  {
+   "kapitel": 20,
+   "titel": "Zofars zweite Rede: Das kurze Glück des Gottlosen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Jubel des Gottlosen ist kurz",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da antwortete Zofar, der Naamatiter:",
+       "englisch_web": "Then Zophar the Naamathite answered,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Darum antworten mir meine Gedanken,\nwegen der Unruhe, die in mir ist.",
+       "englisch_web": "“Therefore my thoughts answer me, even by reason of my haste that is in me."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich habe die Zurechtweisung gehört, die mich beschämt.\nAber der Geist meiner Einsicht gibt mir Antwort.",
+       "englisch_web": "I have heard the reproof which puts me to shame. The spirit of my understanding answers me."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Weißt du das nicht von alters her,\nseit der Mensch auf die Erde gesetzt wurde,",
+       "englisch_web": "Don’t you know this from old time, since man was placed on earth,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "dass der Jubel der Gottlosen kurz ist\nund die Freude des Gottlosen nur einen Augenblick dauert?",
+       "englisch_web": "that the triumphing of the wicked is short, the joy of the godless but for a moment?"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Auch wenn seine Höhe bis zum Himmel hinaufsteigt\nund sein Kopf an die Wolken reicht,",
+       "englisch_web": "Though his height mount up to the heavens, and his head reach to the clouds,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "so geht er doch für immer zugrunde wie sein eigener Kot.\nDie ihn gesehen haben, werden sagen: ‚Wo ist er?‘",
+       "englisch_web": "yet he will perish forever like his own dung. Those who have seen him will say, ‘Where is he?’"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wie ein Traum fliegt er davon, und man findet ihn nicht.\nJa, er wird verscheucht wie ein Gesicht in der Nacht.",
+       "englisch_web": "He will fly away as a dream, and will not be found. Yes, he will be chased away like a vision of the night."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Das Auge, das ihn sah, sieht ihn nicht wieder,\nund sein Ort sieht ihn nicht mehr.",
+       "englisch_web": "The eye which saw him will see him no more, neither will his place see him any more."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Seine Kinder müssen die Gunst der Armen suchen,\nund seine Hände müssen seinen Reichtum zurückgeben.",
+       "englisch_web": "His children will seek the favor of the poor. His hands will give back his wealth."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Seine Knochen sind voll von seiner Jugendkraft,\naber sie wird sich mit ihm in den Staub legen.",
+       "englisch_web": "His bones are full of his youth, but youth will lie down with him in the dust."
+      }
+     ],
+     "erklaerung": "Zofar ist beleidigt. Hiob hatte die Freunde gewarnt (Kapitel 19,29). Zofar fühlt sich beschämt und antwortet aufgeregt.\nEr hat Hiobs großes Bekenntnis „Ich weiß, dass mein Erlöser lebt“ gar nicht beachtet. Er redet einfach weiter seine Theorie.\nSeine Lehre: Die Gottlosen haben nur kurz Glück. Auch wenn sie bis zum Himmel aufsteigen, fallen sie bald.\nDas grobe Bild „wie sein eigener Kot“ zeigt, wie verächtlich Zofar über die Gottlosen denkt.\nVers 10: Die Kinder des Gottlosen müssen sogar die Armen um Hilfe bitten. Und er muss alles zurückgeben, was er geraubt hat."
+    },
+    {
+     "ueberschrift": "Das Böse schmeckt süß, aber wird zu Gift",
+     "vers_von": 12,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Auch wenn die Bosheit süß ist in seinem Mund,\nauch wenn er sie unter seiner Zunge verbirgt,",
+       "englisch_web": "“Though wickedness is sweet in his mouth, though he hide it under his tongue,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "auch wenn er sie schont und sie nicht loslässt,\nsondern sie in seinem Gaumen zurückhält,",
+       "englisch_web": "though he spare it, and will not let it go, but keep it still within his mouth,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "so verwandelt sich doch seine Speise in seinem Bauch.\nSie wird zu Kobragift in ihm.",
+       "englisch_web": "yet his food in his bowels is turned. It is cobra venom within him."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er hat Reichtum verschlungen, und er wird ihn wieder ausspeien.\nGott wird ihn aus seinem Bauch treiben.",
+       "englisch_web": "He has swallowed down riches, and he will vomit them up again. God will cast them out of his belly."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er wird Kobragift saugen.\nDie Zunge der Otter wird ihn töten.",
+       "englisch_web": "He will suck cobra venom. The viper’s tongue will kill him."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er wird die Flüsse nicht sehen,\ndie Bäche von Honig und Butter.",
+       "englisch_web": "He will not look at the rivers, the flowing streams of honey and butter."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Er muss zurückgeben, wofür er sich abgemüht hat,\nund darf es nicht verschlingen.\nEr wird sich nicht freuen an dem Besitz, den er erworben hat.",
+       "englisch_web": "He will restore that for which he labored, and will not swallow it down. He will not rejoice according to the substance that he has gotten."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn er hat die Armen unterdrückt und verlassen.\nEr hat ein Haus mit Gewalt an sich gerissen,\nund er wird es nicht aufbauen.",
+       "englisch_web": "For he has oppressed and forsaken the poor. He has violently taken away a house, and he will not build it up."
+      }
+     ],
+     "erklaerung": "Ein starkes Bild: Das Böse schmeckt zuerst süß wie ein Bonbon, das man im Mund behält. Aber im Bauch wird es zu Gift.\nDas ist eine wichtige Wahrheit: Unrecht kann sich zuerst gut anfühlen. Aber es zerstört den, der es tut.\nVers 19 nennt die Sünde: Er hat die Armen unterdrückt und ihnen ihr Haus weggenommen.\n„Bäche von Honig und Butter“: ein Bild für Wohlstand und Fülle.\nOb Zofar Hiob vorwirft, die Armen unterdrückt zu haben? Er sagt es nicht direkt. Aber in Kapitel 22 wird Elifas genau das behaupten. Und Hiob wird in Kapitel 29 und 31 zeigen, dass er den Armen immer geholfen hat."
+    },
+    {
+     "ueberschrift": "Gottes Zorn trifft ihn",
+     "vers_von": 20,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Weil er keine Ruhe in sich kannte,\nwird er nichts von dem retten, woran er Freude hat.",
+       "englisch_web": "“Because he knew no quietness within him, he will not save anything of that in which he delights."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Es blieb nichts übrig, was er nicht verschlang.\nDarum wird sein Wohlstand nicht bestehen.",
+       "englisch_web": "There was nothing left that he didn’t devour, therefore his prosperity will not endure."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Mitten in seinem Überfluss wird Not über ihn kommen.\nDie Hand jedes Elenden wird über ihn kommen.",
+       "englisch_web": "In the fullness of his sufficiency, distress will overtake him. The hand of everyone who is in misery will come on him."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Wenn er gerade seinen Bauch füllen will,\nwird Gott die Glut seines Zorns auf ihn werfen.\nEr wird auf ihn regnen, während er isst.",
+       "englisch_web": "When he is about to fill his belly, God will cast the fierceness of his wrath on him. It will rain on him while he is eating."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Er flieht vor der eisernen Waffe,\naber der bronzene Pfeil durchbohrt ihn.",
+       "englisch_web": "He will flee from the iron weapon. The bronze arrow will strike him through."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Er zieht ihn heraus, und er kommt aus seinem Körper.\nJa, die glänzende Spitze kommt aus seiner Leber.\nSchrecken kommen über ihn.",
+       "englisch_web": "He draws it out, and it comes out of his body. Yes, the glittering point comes out of his liver. Terrors are on him."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Alle Finsternis ist für seine Schätze aufbewahrt.\nEin Feuer, das niemand angefacht hat, wird ihn verzehren.\nEs wird verzehren, was in seinem Zelt übrig ist.",
+       "englisch_web": "All darkness is laid up for his treasures. An unfanned fire will devour him. It will consume that which is left in his tent."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Der Himmel wird seine Schuld enthüllen,\nund die Erde wird sich gegen ihn erheben.",
+       "englisch_web": "The heavens will reveal his iniquity. The earth will rise up against him."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Der Ertrag seines Hauses wird verschwinden.\nEr wird am Tag seines Zorns davonfließen.",
+       "englisch_web": "The increase of his house will depart. They will rush away in the day of his wrath."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Das ist das Teil eines gottlosen Menschen von Gott,\ndas Erbe, das Gott ihm bestimmt hat.“",
+       "englisch_web": "This is the portion of a wicked man from God, the heritage appointed to him by God.”"
+      }
+     ],
+     "erklaerung": "Zofar beschreibt Gottes Strafe für den Gottlosen in grellen Bildern: Gottes Zorn regnet auf ihn, Pfeile durchbohren ihn, Feuer verzehrt ihn.\n„Ein Feuer, das niemand angefacht hat“: Ein Feuer von Gott, vielleicht ein Blitz. Das erinnert an Kapitel 1,16, als „Feuer Gottes“ Hiobs Schafe verbrannte. Zofar zielt wieder auf Hiob.\nVers 27: Himmel und Erde treten als Zeugen gegen ihn auf. Hiob hatte gesagt: „Mein Zeuge ist im Himmel“ (Kapitel 16,19). Zofar antwortet: Der Himmel wird gegen dich zeugen!\nDas ist Zofars letzte Rede. In der dritten Runde wird er nicht mehr sprechen. Vielleicht ist ihm nichts mehr eingefallen."
+    }
+   ]
+  },
+  {
+   "kapitel": 21,
+   "titel": "„Warum leben die Gottlosen?“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Hört mir doch zu!",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da antwortete Hiob:",
+       "englisch_web": "Then Job answered,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Hört genau auf meine Rede!\nDas soll euer Trost sein.",
+       "englisch_web": "“Listen diligently to my speech. Let this be your consolation."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Lasst mich reden,\nund wenn ich geredet habe, dann spottet weiter.",
+       "englisch_web": "Allow me, and I also will speak. After I have spoken, mock on."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Richtet sich meine Klage denn an einen Menschen?\nWarum sollte ich nicht ungeduldig sein?",
+       "englisch_web": "As for me, is my complaint to man? Why shouldn’t I be impatient?"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Seht mich an und erschreckt\nund legt die Hand auf den Mund!",
+       "englisch_web": "Look at me, and be astonished. Lay your hand on your mouth."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn ich daran denke, bin ich bestürzt,\nund Schaudern packt mein Fleisch.",
+       "englisch_web": "When I remember, I am troubled. Horror takes hold of my flesh."
+      }
+     ],
+     "erklaerung": "Vers 2 ist bitter: Der einzige Trost, den ihr mir geben könnt, ist, dass ihr mir zuhört.\n„Die Hand auf den Mund legen“: ein Zeichen, dass man sprachlos ist und schweigt.\nHiob sagt: Meine Klage richtet sich an Gott, nicht an Menschen. Darum darf ich ungeduldig sein."
+    },
+    {
+     "ueberschrift": "Den Gottlosen geht es gut",
+     "vers_von": 7,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Warum leben die Gottlosen,\nwerden alt und mächtig an Kraft?",
+       "englisch_web": "“Why do the wicked live, become old, yes, and grow mighty in power?"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ihre Nachkommen haben festen Bestand bei ihnen,\nund ihre Sprösslinge vor ihren Augen.",
+       "englisch_web": "Their child is established with them in their sight, their offspring before their eyes."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ihre Häuser sind sicher vor Schrecken,\nund die Rute Gottes ist nicht über ihnen.",
+       "englisch_web": "Their houses are safe from fear, neither is the rod of God upon them."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ihr Stier bespringt und versagt nicht.\nIhre Kuh kalbt und hat keine Fehlgeburt.",
+       "englisch_web": "Their bulls breed without fail. Their cows calve, and don’t miscarry."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie schicken ihre Kleinen hinaus wie eine Herde,\nund ihre Kinder tanzen.",
+       "englisch_web": "They send out their little ones like a flock. Their children dance."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie singen zu Pauke und Harfe\nund freuen sich am Klang der Flöte.",
+       "englisch_web": "They sing to the tambourine and harp, and rejoice at the sound of the pipe."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie verbringen ihre Tage im Glück,\nund in einem Augenblick fahren sie hinab ins Totenreich.",
+       "englisch_web": "They spend their days in prosperity. In an instant they go down to Sheol."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Sie sagen zu Gott: ‚Weich von uns!\nWir wollen deine Wege nicht kennen.",
+       "englisch_web": "They tell God, ‘Depart from us, for we don’t want to know about your ways."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Was ist der Allmächtige, dass wir ihm dienen sollten?\nUnd was nützt es uns, wenn wir zu ihm beten?‘",
+       "englisch_web": "What is the Almighty, that we should serve him? What profit should we have, if we pray to him?’"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Schaut, ihr Glück liegt nicht in ihrer Hand.\nDer Rat der Gottlosen ist fern von mir.",
+       "englisch_web": "Behold, their prosperity is not in their hand. The counsel of the wicked is far from me."
+      }
+     ],
+     "erklaerung": "Jetzt greift Hiob die Lehre der Freunde direkt an. Sie haben gesagt: Den Gottlosen geht es schlecht. Hiob sagt: Schaut euch doch die Wirklichkeit an! Den Gottlosen geht es oft sehr gut!\nSie werden alt, haben viele Kinder, ihre Häuser sind sicher, ihr Vieh gedeiht, ihre Kinder tanzen und singen. Und sie sterben friedlich, „in einem Augenblick“, ohne langes Leiden.\nUnd das, obwohl sie Gott verachten: „Was nützt es uns, wenn wir zu ihm beten?“\nDiese Frage stellen auch andere Teile der Bibel (Psalm 73; Jeremia 12,1). Warum geht es den Bösen gut?\nVers 16: Hiob grenzt sich klar ab. Er will nicht so leben wie die Gottlosen, auch wenn es ihnen gut geht."
+    },
+    {
+     "ueberschrift": "Wie oft wird der Gottlose wirklich bestraft?",
+     "vers_von": 17,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Wie oft wird die Lampe der Gottlosen ausgelöscht?\nWie oft kommt ihr Unglück über sie?\nWie oft teilt Gott in seinem Zorn Schmerzen aus?",
+       "englisch_web": "“How often is it that the lamp of the wicked is put out, that their calamity comes on them, that God distributes sorrows in his anger?"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wie oft sind sie wie Stroh vor dem Wind\nund wie Spreu, die der Sturm davonträgt?",
+       "englisch_web": "How often is it that they are as stubble before the wind, as chaff that the storm carries away?"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Ihr sagt: ‚Gott bewahrt seine Schuld für seine Kinder auf.‘\nEr soll es ihm selbst vergelten, damit er es spürt!",
+       "englisch_web": "You say, ‘God lays up his iniquity for his children.’ Let him recompense it to himself, that he may know it."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Seine eigenen Augen sollen sein Verderben sehen,\nund er soll vom Zorn des Allmächtigen trinken.",
+       "englisch_web": "Let his own eyes see his destruction. Let him drink of the wrath of the Almighty."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn was kümmert ihn sein Haus nach ihm,\nwenn die Zahl seiner Monate abgeschnitten ist?",
+       "englisch_web": "For what does he care for his house after him, when the number of his months is cut off?"
+      }
+     ],
+     "erklaerung": "Bildad hatte gesagt: „Das Licht des Gottlosen wird ausgelöscht“ (Kapitel 18,5). Hiob fragt: Wie oft passiert das wirklich? Selten!\nDie Freunde sagen: Wenn der Gottlose nicht selbst bestraft wird, dann werden seine Kinder bestraft. Hiob findet das ungerecht: Der Täter selbst soll die Folgen spüren, nicht seine Kinder. Nach dem Tod ist es ihm ja egal, was mit seinen Kindern passiert.\nDas passt zu dem, was später der Prophet Hesekiel sagt: Jeder ist für seine eigene Schuld verantwortlich (Hesekiel 18,20)."
+    },
+    {
+     "ueberschrift": "Im Tod sind alle gleich",
+     "vers_von": 22,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Will jemand Gott Erkenntnis lehren,\nihn, der die Hohen richtet?",
+       "englisch_web": "“Shall any teach God knowledge, since he judges those who are high?"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Der eine stirbt in seiner vollen Kraft,\nganz unbesorgt und ruhig.",
+       "englisch_web": "One dies in his full strength, being wholly at ease and quiet."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Seine Eimer sind voll Milch,\nund das Mark seiner Knochen ist saftig.",
+       "englisch_web": "His pails are full of milk. The marrow of his bones is moistened."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Der andere stirbt in Bitterkeit der Seele\nund hat nie Gutes gekostet.",
+       "englisch_web": "Another dies in bitterness of soul, and never tastes of good."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Zusammen liegen sie im Staub,\nund Würmer bedecken sie.",
+       "englisch_web": "They lie down alike in the dust. The worm covers them."
+      }
+     ],
+     "erklaerung": "Hiob sagt: Man kann nicht sehen, wer gut und wer böse ist, wenn man nur auf ihr Leben schaut. Der eine stirbt glücklich, der andere unglücklich. Und am Ende liegen beide im Grab.\nDer Prediger Salomo sagt Ähnliches (Prediger 9,2–3).\nVers 22: Niemand kann Gott belehren. Aber genau das versuchen die Freunde mit ihrer Theorie."
+    },
+    {
+     "ueberschrift": "Eure Tröstungen sind Lügen",
+     "vers_von": 27,
+     "vers_bis": 34,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Schaut, ich kenne eure Gedanken\nund die Pläne, mit denen ihr mir Unrecht tun wollt.",
+       "englisch_web": "“Behold, I know your thoughts, the plans with which you would wrong me."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Denn ihr sagt: ‚Wo ist das Haus des Fürsten?\nUnd wo ist das Zelt, in dem die Gottlosen wohnten?‘",
+       "englisch_web": "For you say, ‘Where is the house of the prince? Where is the tent in which the wicked lived?’"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Habt ihr nicht die Reisenden gefragt?\nKennt ihr nicht ihre Berichte,",
+       "englisch_web": "Haven’t you asked wayfaring men? Don’t you know their evidences,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "dass der Böse verschont wird am Tag des Unglücks\nund dass sie weggeführt werden am Tag des Zorns?",
+       "englisch_web": "that the evil man is reserved to the day of calamity, that they are led out to the day of wrath?"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Wer wird ihm seinen Weg ins Gesicht vorhalten?\nUnd wer wird ihm vergelten, was er getan hat?",
+       "englisch_web": "Who will declare his way to his face? Who will repay him what he has done?"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Er wird zum Grab getragen,\nund man hält Wache über seinem Grabmal.",
+       "englisch_web": "Yet he will be borne to the grave. Men will keep watch over the tomb."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die Schollen des Tales sind ihm süß.\nAlle Menschen ziehen hinter ihm her,\nwie unzählige vor ihm hergingen.",
+       "englisch_web": "The clods of the valley will be sweet to him. All men will draw after him, as there were innumerable before him."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Wie wollt ihr mich also mit Nichtigkeiten trösten?\nDenn von euren Antworten bleibt nur Betrug übrig.“",
+       "englisch_web": "So how can you comfort me with nonsense, because in your answers there remains only falsehood?”"
+      }
+     ],
+     "erklaerung": "Hiob durchschaut seine Freunde: Wenn ihr fragt „Wo ist das Haus des Gottlosen?“, dann meint ihr mein zerstörtes Haus.\nEr sagt: Fragt doch die Reisenden, die viel von der Welt gesehen haben. Sie wissen: Oft wird der Böse verschont. Er bekommt sogar ein schönes Begräbnis mit einem Ehrengrab. Viele folgen seinem Trauerzug.\n„Vers 30“ ist im Hebräischen nicht ganz eindeutig. Die englische Vorlage versteht es so: Der Böse wird für den Tag des Unglücks aufbewahrt. Viele übersetzen aber so, wie es der Zusammenhang nahelegt: Er wird am Tag des Unglücks verschont.\nVers 34 ist Hiobs Urteil über die ganze zweite Runde: Eure Antworten sind Betrug. Sie passen nicht zur Wirklichkeit.\nHiob leugnet nicht, dass Gott gerecht ist. Aber er weigert sich, eine einfache Erklärung zu akzeptieren, die nicht stimmt. Das ist ehrlicher Glaube."
+    }
+   ]
   }
  ]
 }

@@ -64699,3 +64699,329 @@ und das ist der Ort dessen, der Gott nicht kennt.“
 > Bildad sagt es nicht direkt, aber jeder Satz zielt auf Hiob. Am Ende schließt er: So geht es dem, „der Gott nicht kennt“. Das ist eine ungeheure Anklage gegen einen Mann, den Gott selbst als untadelig bezeichnet hat.
 > „Der Erstgeborene des Todes“ ist wohl eine tödliche Krankheit. „Der König der Schrecken“ ist der Tod selbst.
 > Diese Rede zeigt, wie gefährlich es ist, eine richtige Lehre falsch anzuwenden. Bildad redet von Gott und verletzt dabei einen Menschen zutiefst.
+
+## Hiob – Kapitel 19
+#### „Ich weiß, dass mein Erlöser lebt“
+
+---
+
+### Wie lange wollt ihr mich quälen? (Vers 1–6)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Wie lange wollt ihr mich quälen
+und mich mit Worten zermalmen?
+<sup>3</sup>Zehnmal habt ihr mich schon beschimpft.
+Ihr schämt euch nicht, mich anzugreifen.
+<sup>4</sup>Wenn es wahr ist, dass ich mich geirrt habe,
+dann bleibt mein Irrtum bei mir.
+<sup>5</sup>Wenn ihr euch wirklich über mich erheben wollt
+und mir meine Schande vorhaltet,
+<sup>6</sup>dann wisst jetzt: Gott hat mich ins Unrecht gesetzt
+und mich mit seinem Netz umgeben.
+
+> **Was bedeutet das?**
+> „Zehnmal“ heißt: immer wieder. Hiob ist erschöpft von den ständigen Vorwürfen.
+> Vers 4: Selbst wenn ich einen Fehler gemacht habe, geht euch das nichts an. Das ist eine Sache zwischen mir und Gott.
+> Vers 6: Bildad hatte gesagt, der Gottlose gerät in sein eigenes Netz (Kapitel 18,8). Hiob antwortet: Nein, Gott hat das Netz um mich gelegt. Nicht ich bin schuld.
+
+---
+
+### Von Gott und allen Menschen verlassen (Vers 7–22)
+
+<sup>7</sup>Schaut, ich schreie: ‚Gewalt!‘, aber ich bekomme keine Antwort.
+Ich rufe um Hilfe, aber es gibt kein Recht.
+<sup>8</sup>Er hat meinen Weg zugemauert, dass ich nicht hindurchkann,
+und auf meine Pfade hat er Finsternis gelegt.
+<sup>9</sup>Er hat mir meine Ehre ausgezogen
+und die Krone von meinem Kopf genommen.
+<sup>10</sup>Er hat mich ringsum niedergerissen, und ich bin dahin.
+Meine Hoffnung hat er ausgerissen wie einen Baum.
+<sup>11</sup>Er hat auch seinen Zorn gegen mich entfacht.
+Er zählt mich zu seinen Feinden.
+<sup>12</sup>Seine Truppen kommen zusammen,
+schütten einen Belagerungswall gegen mich auf
+und lagern rings um mein Zelt.
+<sup>13</sup>Meine Brüder hat er von mir entfernt.
+Meine Bekannten sind mir ganz fremd geworden.
+<sup>14</sup>Meine Verwandten sind weggegangen.
+Meine vertrauten Freunde haben mich vergessen.
+<sup>15</sup>Die in meinem Haus wohnen und meine Mägde halten mich für einen Fremden.
+Ich bin ein Ausländer in ihren Augen.
+<sup>16</sup>Ich rufe meinen Knecht, und er antwortet mir nicht.
+Ich muss ihn mit meinem Mund anflehen.
+<sup>17</sup>Mein Atem ist meiner Frau zuwider,
+und ich bin den Kindern meiner eigenen Mutter ekelhaft.
+<sup>18</sup>Selbst kleine Kinder verachten mich.
+Wenn ich aufstehe, reden sie gegen mich.
+<sup>19</sup>Alle meine vertrauten Freunde verabscheuen mich.
+Und die ich geliebt habe, haben sich gegen mich gewandt.
+<sup>20</sup>Meine Knochen kleben an meiner Haut und an meinem Fleisch.
+Ich bin mit der Haut meiner Zähne davongekommen.
+<sup>21</sup>Habt Mitleid mit mir, habt Mitleid mit mir, ihr meine Freunde,
+denn die Hand Gottes hat mich getroffen!
+<sup>22</sup>Warum verfolgt ihr mich wie Gott
+und werdet nicht satt von meinem Fleisch?
+
+> **Was bedeutet das?**
+> Hiob beschreibt seine völlige Einsamkeit. Nicht nur Gott scheint gegen ihn zu sein, sondern auch alle Menschen: Brüder, Freunde, Verwandte, Knechte, Mägde, seine Frau, sogar kleine Kinder.
+> Er war einmal ein geachteter Mann. Jetzt ist er ein Fremder im eigenen Haus. Krankheit und Leid machen oft einsam. Viele Kranke erleben das bis heute.
+> „Mit der Haut meiner Zähne davongekommen“ ist eine Redewendung, die bis heute in vielen Sprachen bekannt ist. Gemeint ist: ganz knapp, mit fast nichts. Zähne haben ja keine Haut.
+> Vers 21 ist ein erschütternder Hilferuf: „Habt Mitleid mit mir!“ Hiob bittet nicht um Erklärungen. Er bittet um Mitgefühl.
+> Vers 22: „Warum verfolgt ihr mich wie Gott?“ Die Freunde machen sich selbst zu Richtern, als wären sie Gott.
+
+---
+
+### Ich weiß, dass mein Erlöser lebt (Vers 23–29)
+
+<sup>23</sup>Ach, dass meine Worte doch aufgeschrieben würden!
+Ach, dass sie in ein Buch eingetragen würden!
+<sup>24</sup>Dass sie mit einem eisernen Griffel und mit Blei
+für immer in den Felsen gehauen würden!
+<sup>25</sup>Ich aber, ich weiß: Mein Erlöser lebt.
+Am Ende wird er sich über der Erde erheben.
+<sup>26</sup>Nachdem meine Haut so zerschlagen ist,
+werde ich doch in meinem Fleisch Gott sehen.
+<sup>27</sup>Ich selbst werde ihn sehen, auf meiner Seite.
+Meine Augen werden ihn sehen, und nicht als einen Fremden.
+Mein Herz vergeht in meiner Brust.
+<sup>28</sup>Wenn ihr sagt: ‚Wie wollen wir ihn verfolgen!‘,
+weil die Wurzel der Sache in mir gefunden wird,
+<sup>29</sup>dann fürchtet euch vor dem Schwert!
+Denn Zorn bringt die Strafen des Schwertes,
+damit ihr erkennt, dass es ein Gericht gibt.“
+
+> **Was bedeutet das?**
+> Hiob wünscht sich, dass seine Worte für immer erhalten bleiben, in Stein gemeißelt. Damit spätere Generationen wissen, dass er unschuldig war. Sein Wunsch hat sich erfüllt: Seine Worte stehen in der Bibel und werden seit Jahrtausenden gelesen.
+> Vers 25–27 gehört zu den berühmtesten Versen der ganzen Bibel: „Ich weiß, dass mein Erlöser lebt.“
+> Ein „Erlöser“ (hebräisch „Goël“) war in Israel ein naher Verwandter, der für einen Menschen in Not eintrat. Er kaufte ihn aus der Sklaverei frei, löste sein Land zurück oder sorgte für sein Recht (vgl. 3. Mose 25,25; Rut 4).
+> Hiob ist von allen verlassen. Aber er glaubt: Es gibt einen, der für mich eintritt. Er lebt. Und am Ende wird er auftreten.
+> „In meinem Fleisch Gott sehen“: Hiob hofft, Gott selbst zu sehen, nicht als Fremden, sondern auf seiner Seite. Ob er das vor oder nach seinem Tod meint, ist im Hebräischen nicht ganz klar.
+> Christen haben diese Worte schon früh auf Jesus bezogen, den lebendigen Erlöser, und auf die Hoffnung der Auferstehung. Georg Friedrich Händel hat sie in seinem „Messias“ vertont: „I know that my Redeemer liveth“.
+> Am Ende des Buches sieht Hiob Gott tatsächlich: „Jetzt hat mein Auge dich gesehen“ (Kapitel 42,5).
+> Vers 28–29: Hiob warnt seine Freunde. Wenn sie ihn weiter verfolgen, werden sie selbst vor Gottes Gericht stehen.
+
+## Hiob – Kapitel 20
+#### Zofars zweite Rede: Das kurze Glück des Gottlosen
+
+---
+
+### Der Jubel des Gottlosen ist kurz (Vers 1–11)
+
+<sup>1</sup>Da antwortete Zofar, der Naamatiter:
+<sup>2</sup>„Darum antworten mir meine Gedanken,
+wegen der Unruhe, die in mir ist.
+<sup>3</sup>Ich habe die Zurechtweisung gehört, die mich beschämt.
+Aber der Geist meiner Einsicht gibt mir Antwort.
+<sup>4</sup>Weißt du das nicht von alters her,
+seit der Mensch auf die Erde gesetzt wurde,
+<sup>5</sup>dass der Jubel der Gottlosen kurz ist
+und die Freude des Gottlosen nur einen Augenblick dauert?
+<sup>6</sup>Auch wenn seine Höhe bis zum Himmel hinaufsteigt
+und sein Kopf an die Wolken reicht,
+<sup>7</sup>so geht er doch für immer zugrunde wie sein eigener Kot.
+Die ihn gesehen haben, werden sagen: ‚Wo ist er?‘
+<sup>8</sup>Wie ein Traum fliegt er davon, und man findet ihn nicht.
+Ja, er wird verscheucht wie ein Gesicht in der Nacht.
+<sup>9</sup>Das Auge, das ihn sah, sieht ihn nicht wieder,
+und sein Ort sieht ihn nicht mehr.
+<sup>10</sup>Seine Kinder müssen die Gunst der Armen suchen,
+und seine Hände müssen seinen Reichtum zurückgeben.
+<sup>11</sup>Seine Knochen sind voll von seiner Jugendkraft,
+aber sie wird sich mit ihm in den Staub legen.
+
+> **Was bedeutet das?**
+> Zofar ist beleidigt. Hiob hatte die Freunde gewarnt (Kapitel 19,29). Zofar fühlt sich beschämt und antwortet aufgeregt.
+> Er hat Hiobs großes Bekenntnis „Ich weiß, dass mein Erlöser lebt“ gar nicht beachtet. Er redet einfach weiter seine Theorie.
+> Seine Lehre: Die Gottlosen haben nur kurz Glück. Auch wenn sie bis zum Himmel aufsteigen, fallen sie bald.
+> Das grobe Bild „wie sein eigener Kot“ zeigt, wie verächtlich Zofar über die Gottlosen denkt.
+> Vers 10: Die Kinder des Gottlosen müssen sogar die Armen um Hilfe bitten. Und er muss alles zurückgeben, was er geraubt hat.
+
+---
+
+### Das Böse schmeckt süß, aber wird zu Gift (Vers 12–19)
+
+<sup>12</sup>Auch wenn die Bosheit süß ist in seinem Mund,
+auch wenn er sie unter seiner Zunge verbirgt,
+<sup>13</sup>auch wenn er sie schont und sie nicht loslässt,
+sondern sie in seinem Gaumen zurückhält,
+<sup>14</sup>so verwandelt sich doch seine Speise in seinem Bauch.
+Sie wird zu Kobragift in ihm.
+<sup>15</sup>Er hat Reichtum verschlungen, und er wird ihn wieder ausspeien.
+Gott wird ihn aus seinem Bauch treiben.
+<sup>16</sup>Er wird Kobragift saugen.
+Die Zunge der Otter wird ihn töten.
+<sup>17</sup>Er wird die Flüsse nicht sehen,
+die Bäche von Honig und Butter.
+<sup>18</sup>Er muss zurückgeben, wofür er sich abgemüht hat,
+und darf es nicht verschlingen.
+Er wird sich nicht freuen an dem Besitz, den er erworben hat.
+<sup>19</sup>Denn er hat die Armen unterdrückt und verlassen.
+Er hat ein Haus mit Gewalt an sich gerissen,
+und er wird es nicht aufbauen.
+
+> **Was bedeutet das?**
+> Ein starkes Bild: Das Böse schmeckt zuerst süß wie ein Bonbon, das man im Mund behält. Aber im Bauch wird es zu Gift.
+> Das ist eine wichtige Wahrheit: Unrecht kann sich zuerst gut anfühlen. Aber es zerstört den, der es tut.
+> Vers 19 nennt die Sünde: Er hat die Armen unterdrückt und ihnen ihr Haus weggenommen.
+> „Bäche von Honig und Butter“: ein Bild für Wohlstand und Fülle.
+> Ob Zofar Hiob vorwirft, die Armen unterdrückt zu haben? Er sagt es nicht direkt. Aber in Kapitel 22 wird Elifas genau das behaupten. Und Hiob wird in Kapitel 29 und 31 zeigen, dass er den Armen immer geholfen hat.
+
+---
+
+### Gottes Zorn trifft ihn (Vers 20–29)
+
+<sup>20</sup>Weil er keine Ruhe in sich kannte,
+wird er nichts von dem retten, woran er Freude hat.
+<sup>21</sup>Es blieb nichts übrig, was er nicht verschlang.
+Darum wird sein Wohlstand nicht bestehen.
+<sup>22</sup>Mitten in seinem Überfluss wird Not über ihn kommen.
+Die Hand jedes Elenden wird über ihn kommen.
+<sup>23</sup>Wenn er gerade seinen Bauch füllen will,
+wird Gott die Glut seines Zorns auf ihn werfen.
+Er wird auf ihn regnen, während er isst.
+<sup>24</sup>Er flieht vor der eisernen Waffe,
+aber der bronzene Pfeil durchbohrt ihn.
+<sup>25</sup>Er zieht ihn heraus, und er kommt aus seinem Körper.
+Ja, die glänzende Spitze kommt aus seiner Leber.
+Schrecken kommen über ihn.
+<sup>26</sup>Alle Finsternis ist für seine Schätze aufbewahrt.
+Ein Feuer, das niemand angefacht hat, wird ihn verzehren.
+Es wird verzehren, was in seinem Zelt übrig ist.
+<sup>27</sup>Der Himmel wird seine Schuld enthüllen,
+und die Erde wird sich gegen ihn erheben.
+<sup>28</sup>Der Ertrag seines Hauses wird verschwinden.
+Er wird am Tag seines Zorns davonfließen.
+<sup>29</sup>Das ist das Teil eines gottlosen Menschen von Gott,
+das Erbe, das Gott ihm bestimmt hat.“
+
+> **Was bedeutet das?**
+> Zofar beschreibt Gottes Strafe für den Gottlosen in grellen Bildern: Gottes Zorn regnet auf ihn, Pfeile durchbohren ihn, Feuer verzehrt ihn.
+> „Ein Feuer, das niemand angefacht hat“: Ein Feuer von Gott, vielleicht ein Blitz. Das erinnert an Kapitel 1,16, als „Feuer Gottes“ Hiobs Schafe verbrannte. Zofar zielt wieder auf Hiob.
+> Vers 27: Himmel und Erde treten als Zeugen gegen ihn auf. Hiob hatte gesagt: „Mein Zeuge ist im Himmel“ (Kapitel 16,19). Zofar antwortet: Der Himmel wird gegen dich zeugen!
+> Das ist Zofars letzte Rede. In der dritten Runde wird er nicht mehr sprechen. Vielleicht ist ihm nichts mehr eingefallen.
+
+## Hiob – Kapitel 21
+#### „Warum leben die Gottlosen?“
+
+---
+
+### Hört mir doch zu! (Vers 1–6)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Hört genau auf meine Rede!
+Das soll euer Trost sein.
+<sup>3</sup>Lasst mich reden,
+und wenn ich geredet habe, dann spottet weiter.
+<sup>4</sup>Richtet sich meine Klage denn an einen Menschen?
+Warum sollte ich nicht ungeduldig sein?
+<sup>5</sup>Seht mich an und erschreckt
+und legt die Hand auf den Mund!
+<sup>6</sup>Wenn ich daran denke, bin ich bestürzt,
+und Schaudern packt mein Fleisch.
+
+> **Was bedeutet das?**
+> Vers 2 ist bitter: Der einzige Trost, den ihr mir geben könnt, ist, dass ihr mir zuhört.
+> „Die Hand auf den Mund legen“: ein Zeichen, dass man sprachlos ist und schweigt.
+> Hiob sagt: Meine Klage richtet sich an Gott, nicht an Menschen. Darum darf ich ungeduldig sein.
+
+---
+
+### Den Gottlosen geht es gut (Vers 7–16)
+
+<sup>7</sup>Warum leben die Gottlosen,
+werden alt und mächtig an Kraft?
+<sup>8</sup>Ihre Nachkommen haben festen Bestand bei ihnen,
+und ihre Sprösslinge vor ihren Augen.
+<sup>9</sup>Ihre Häuser sind sicher vor Schrecken,
+und die Rute Gottes ist nicht über ihnen.
+<sup>10</sup>Ihr Stier bespringt und versagt nicht.
+Ihre Kuh kalbt und hat keine Fehlgeburt.
+<sup>11</sup>Sie schicken ihre Kleinen hinaus wie eine Herde,
+und ihre Kinder tanzen.
+<sup>12</sup>Sie singen zu Pauke und Harfe
+und freuen sich am Klang der Flöte.
+<sup>13</sup>Sie verbringen ihre Tage im Glück,
+und in einem Augenblick fahren sie hinab ins Totenreich.
+<sup>14</sup>Sie sagen zu Gott: ‚Weich von uns!
+Wir wollen deine Wege nicht kennen.
+<sup>15</sup>Was ist der Allmächtige, dass wir ihm dienen sollten?
+Und was nützt es uns, wenn wir zu ihm beten?‘
+<sup>16</sup>Schaut, ihr Glück liegt nicht in ihrer Hand.
+Der Rat der Gottlosen ist fern von mir.
+
+> **Was bedeutet das?**
+> Jetzt greift Hiob die Lehre der Freunde direkt an. Sie haben gesagt: Den Gottlosen geht es schlecht. Hiob sagt: Schaut euch doch die Wirklichkeit an! Den Gottlosen geht es oft sehr gut!
+> Sie werden alt, haben viele Kinder, ihre Häuser sind sicher, ihr Vieh gedeiht, ihre Kinder tanzen und singen. Und sie sterben friedlich, „in einem Augenblick“, ohne langes Leiden.
+> Und das, obwohl sie Gott verachten: „Was nützt es uns, wenn wir zu ihm beten?“
+> Diese Frage stellen auch andere Teile der Bibel (Psalm 73; Jeremia 12,1). Warum geht es den Bösen gut?
+> Vers 16: Hiob grenzt sich klar ab. Er will nicht so leben wie die Gottlosen, auch wenn es ihnen gut geht.
+
+---
+
+### Wie oft wird der Gottlose wirklich bestraft? (Vers 17–21)
+
+<sup>17</sup>Wie oft wird die Lampe der Gottlosen ausgelöscht?
+Wie oft kommt ihr Unglück über sie?
+Wie oft teilt Gott in seinem Zorn Schmerzen aus?
+<sup>18</sup>Wie oft sind sie wie Stroh vor dem Wind
+und wie Spreu, die der Sturm davonträgt?
+<sup>19</sup>Ihr sagt: ‚Gott bewahrt seine Schuld für seine Kinder auf.‘
+Er soll es ihm selbst vergelten, damit er es spürt!
+<sup>20</sup>Seine eigenen Augen sollen sein Verderben sehen,
+und er soll vom Zorn des Allmächtigen trinken.
+<sup>21</sup>Denn was kümmert ihn sein Haus nach ihm,
+wenn die Zahl seiner Monate abgeschnitten ist?
+
+> **Was bedeutet das?**
+> Bildad hatte gesagt: „Das Licht des Gottlosen wird ausgelöscht“ (Kapitel 18,5). Hiob fragt: Wie oft passiert das wirklich? Selten!
+> Die Freunde sagen: Wenn der Gottlose nicht selbst bestraft wird, dann werden seine Kinder bestraft. Hiob findet das ungerecht: Der Täter selbst soll die Folgen spüren, nicht seine Kinder. Nach dem Tod ist es ihm ja egal, was mit seinen Kindern passiert.
+> Das passt zu dem, was später der Prophet Hesekiel sagt: Jeder ist für seine eigene Schuld verantwortlich (Hesekiel 18,20).
+
+---
+
+### Im Tod sind alle gleich (Vers 22–26)
+
+<sup>22</sup>Will jemand Gott Erkenntnis lehren,
+ihn, der die Hohen richtet?
+<sup>23</sup>Der eine stirbt in seiner vollen Kraft,
+ganz unbesorgt und ruhig.
+<sup>24</sup>Seine Eimer sind voll Milch,
+und das Mark seiner Knochen ist saftig.
+<sup>25</sup>Der andere stirbt in Bitterkeit der Seele
+und hat nie Gutes gekostet.
+<sup>26</sup>Zusammen liegen sie im Staub,
+und Würmer bedecken sie.
+
+> **Was bedeutet das?**
+> Hiob sagt: Man kann nicht sehen, wer gut und wer böse ist, wenn man nur auf ihr Leben schaut. Der eine stirbt glücklich, der andere unglücklich. Und am Ende liegen beide im Grab.
+> Der Prediger Salomo sagt Ähnliches (Prediger 9,2–3).
+> Vers 22: Niemand kann Gott belehren. Aber genau das versuchen die Freunde mit ihrer Theorie.
+
+---
+
+### Eure Tröstungen sind Lügen (Vers 27–34)
+
+<sup>27</sup>Schaut, ich kenne eure Gedanken
+und die Pläne, mit denen ihr mir Unrecht tun wollt.
+<sup>28</sup>Denn ihr sagt: ‚Wo ist das Haus des Fürsten?
+Und wo ist das Zelt, in dem die Gottlosen wohnten?‘
+<sup>29</sup>Habt ihr nicht die Reisenden gefragt?
+Kennt ihr nicht ihre Berichte,
+<sup>30</sup>dass der Böse verschont wird am Tag des Unglücks
+und dass sie weggeführt werden am Tag des Zorns?
+<sup>31</sup>Wer wird ihm seinen Weg ins Gesicht vorhalten?
+Und wer wird ihm vergelten, was er getan hat?
+<sup>32</sup>Er wird zum Grab getragen,
+und man hält Wache über seinem Grabmal.
+<sup>33</sup>Die Schollen des Tales sind ihm süß.
+Alle Menschen ziehen hinter ihm her,
+wie unzählige vor ihm hergingen.
+<sup>34</sup>Wie wollt ihr mich also mit Nichtigkeiten trösten?
+Denn von euren Antworten bleibt nur Betrug übrig.“
+
+> **Was bedeutet das?**
+> Hiob durchschaut seine Freunde: Wenn ihr fragt „Wo ist das Haus des Gottlosen?“, dann meint ihr mein zerstörtes Haus.
+> Er sagt: Fragt doch die Reisenden, die viel von der Welt gesehen haben. Sie wissen: Oft wird der Böse verschont. Er bekommt sogar ein schönes Begräbnis mit einem Ehrengrab. Viele folgen seinem Trauerzug.
+> „Vers 30“ ist im Hebräischen nicht ganz eindeutig. Die englische Vorlage versteht es so: Der Böse wird für den Tag des Unglücks aufbewahrt. Viele übersetzen aber so, wie es der Zusammenhang nahelegt: Er wird am Tag des Unglücks verschont.
+> Vers 34 ist Hiobs Urteil über die ganze zweite Runde: Eure Antworten sind Betrug. Sie passen nicht zur Wirklichkeit.
+> Hiob leugnet nicht, dass Gott gerecht ist. Aber er weigert sich, eine einfache Erklärung zu akzeptieren, die nicht stimmt. Das ist ehrlicher Glaube.
