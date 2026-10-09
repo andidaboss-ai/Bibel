@@ -89846,3 +89846,341 @@ Und morgen wird es sein wie heute, großartig über alle Maßen.“
 > Vers 11–12: Sie denken nur an ihren eigenen Vorteil und feiern Trinkgelage. „Morgen wird es genauso toll!“ Sie merken nicht, dass das Volk in Gefahr ist.
 > Für heute: Wer Verantwortung für andere trägt, in Politik, Kirche, Gemeinde oder Familie, soll wachsam sein und an die Schwachen denken, nicht an den eigenen Gewinn.
 > Wer selbst Probleme mit Alkohol hat, findet Hilfe bei der Sucht- und Drogen-Hotline: 01806 313 031.
+
+## Jesaja – Kapitel 57
+#### Friede den Fernen und den Nahen
+
+---
+
+### Der Gerechte kommt um (Vers 1–2)
+
+<sup>1</sup>Der Gerechte kommt um, und niemand nimmt es sich zu Herzen.
+Barmherzige Menschen werden weggerafft,
+und niemand bedenkt,
+dass der Gerechte vor dem Unheil weggenommen wird.
+<sup>2</sup>Er geht ein in den Frieden.
+Sie ruhen auf ihren Lagern,
+jeder, der in seiner Aufrichtigkeit gelebt hat.
+
+> **Was bedeutet das?**
+> Gute Menschen sterben, und keinen interessiert es. Das ist eine bittere Klage.
+> Aber der Prophet sieht auch einen Trost: Der Gerechte ist vor dem kommenden Unheil bewahrt. Er ist jetzt im Frieden und ruht.
+> Wer um einen lieben Menschen trauert, kann in diesem Vers Trost finden: Wer aufrichtig gelebt hat, ist bei Gott im Frieden. Und wer in der Trauer nicht allein bleiben will, kann bei der Telefonseelsorge anrufen: 0800 111 0 111.
+
+---
+
+### Anklage gegen den Götzendienst (Vers 3–13)
+
+<sup>3</sup>„Ihr aber, kommt hierher,
+ihr Söhne einer Zauberin,
+ihr Nachkommen von Ehebrechern und Huren!
+<sup>4</sup>Über wen macht ihr euch lustig?
+Gegen wen reißt ihr das Maul auf
+und streckt die Zunge heraus?
+Seid ihr nicht Kinder des Ungehorsams
+und Nachkommen der Lüge,
+<sup>5</sup>die ihr euch unter den Eichen erhitzt,
+unter jedem grünen Baum,
+die ihr die Kinder in den Tälern schlachtet,
+unter den Felsspalten?
+<sup>6</sup>Bei den glatten Steinen des Tales ist dein Anteil.
+Sie, sie sind dein Los.
+Ihnen hast du sogar Trankopfer ausgegossen.
+Du hast Speisopfer dargebracht.
+Soll ich mich darüber beruhigen?
+<sup>7</sup>Auf einem hohen und erhabenen Berg hast du dein Lager aufgeschlagen.
+Auch dorthin bist du hinaufgestiegen, um Opfer darzubringen.
+<sup>8</sup>Hinter der Tür und den Pfosten hast du dein Erinnerungszeichen aufgestellt.
+Denn du hast dich einem anderen als mir entblößt
+und bist hinaufgestiegen.
+Du hast dein Lager breit gemacht
+und dir einen Bund mit ihnen geschlossen.
+Du hast geliebt, was du auf ihrem Lager gesehen hast.
+<sup>9</sup>Du bist mit Öl zum König gegangen,
+hast deine Salben vermehrt,
+hast deine Gesandten in die Ferne geschickt
+und dich erniedrigt bis zum Totenreich.
+<sup>10</sup>Du bist müde geworden von deinen vielen Wegen,
+und doch hast du nicht gesagt: ‚Es ist vergeblich.‘
+Du hast neue Kraft gefunden,
+darum bist du nicht schwach geworden.
+<sup>11</sup>Vor wem hast du dich gefürchtet und Angst gehabt,
+sodass du lügst
+und nicht an mich gedacht hast
+und es dir nicht zu Herzen genommen hast?
+Habe ich nicht lange geschwiegen,
+und du fürchtest mich nicht?
+<sup>12</sup>Ich werde deine Gerechtigkeit verkünden,
+und was deine Werke angeht, sie werden dir nichts nützen.
+<sup>13</sup>Wenn du schreist, sollen dich deine gesammelten Götzen retten!
+Aber der Wind wird sie alle forttragen.
+Ein Hauch wird sie alle wegnehmen.
+Wer aber bei mir Zuflucht sucht, wird das Land besitzen
+und meinen heiligen Berg erben.“
+
+> **Was bedeutet das?**
+> Dieser Abschnitt ist eine harte Anklage gegen Menschen im Volk, die anderen Göttern dienen.
+> Vers 3 und 8: Die Bibel beschreibt Götzendienst oft mit dem Bild von Ehebruch und Prostitution. Gemeint ist: Das Volk ist Gott untreu geworden, wie ein Ehepartner, der fremdgeht. Es ist ein Bild für Untreue gegenüber Gott, kein Urteil über Menschen, die in der Prostitution leben.
+> Vers 5: Das Schlimmste: Manche opferten sogar Kinder, in Tälern bei Jerusalem (vgl. 2. Könige 23,10). Die Bibel verurteilt das als schreckliches Verbrechen. Kinder zu schädigen oder zu töten ist in keiner Religion und unter keinen Umständen zu rechtfertigen.
+> Vers 6–7: Glatte Steine und hohe Berge waren Orte, an denen fremde Götter verehrt wurden.
+> Vers 9: Das Volk suchte Hilfe bei fremden Königen und Göttern und erniedrigte sich dabei immer tiefer.
+> Vers 13: Die Götzen werden vom Wind weggeweht. Aber wer bei Gott Zuflucht sucht, wird bewahrt.
+
+---
+
+### Bei den Zerschlagenen wohne ich (Vers 14–21)
+
+<sup>14</sup>Er wird sagen: „Baut auf, baut auf, bahnt den Weg!
+Räumt das Hindernis aus dem Weg meines Volkes!“
+<sup>15</sup>Denn so spricht der Hohe und Erhabene,
+der in Ewigkeit wohnt, dessen Name „Heilig“ ist:
+„Ich wohne in der Höhe und im Heiligtum
+und bei dem, der zerschlagenen und demütigen Geistes ist,
+um den Geist der Demütigen zu beleben
+und das Herz der Zerschlagenen zu beleben.
+<sup>16</sup>Denn ich will nicht ewig streiten
+und nicht immer zornig sein,
+denn sonst würde der Geist vor mir verschmachten
+und die Seelen, die ich gemacht habe.
+<sup>17</sup>Wegen der Schuld seiner Habgier war ich zornig
+und habe ihn geschlagen.
+Ich habe mich verborgen und war zornig,
+und er ging abtrünnig weiter auf dem Weg seines Herzens.
+<sup>18</sup>Ich habe seine Wege gesehen,
+und ich will ihn heilen.
+Ich will ihn auch führen
+und ihm und seinen Trauernden wieder Trost geben.
+<sup>19</sup>Ich schaffe die Frucht der Lippen:
+Frieden, Frieden den Fernen und den Nahen“, spricht der HERR,
+„und ich will sie heilen.“
+<sup>20</sup>Aber die Gottlosen sind wie das aufgewühlte Meer,
+denn es kann nicht ruhig sein,
+und seine Wasser werfen Schlamm und Schmutz auf.
+<sup>21</sup>„Es gibt keinen Frieden“, spricht mein Gott,
+„für die Gottlosen.“
+
+> **Was bedeutet das?**
+> Vers 15 ist ein wunderbarer Vers: Gott ist der Höchste, er wohnt in der Ewigkeit. Und gleichzeitig wohnt er bei denen, die zerschlagen und niedergedrückt sind. Gerade bei ihnen ist er, um sie wieder lebendig zu machen.
+> Vers 16: Gott will nicht ewig zornig sein. Er weiß, dass Menschen das nicht aushalten würden.
+> Vers 18: „Ich habe seine Wege gesehen, und ich will ihn heilen.“ Gott sieht die Fehler, und trotzdem will er heilen.
+> Vers 19: „Frieden, Frieden den Fernen und den Nahen.“ Gottes Frieden gilt allen, denen, die nah bei ihm sind, und denen, die weit weg sind. Paulus nimmt dieses Wort auf und sagt: Durch Christus sind Juden und Nichtjuden in einem Frieden vereint (Epheser 2,17).
+> Vers 20–21: Wer gegen Gott lebt, ist innerlich unruhig wie das stürmische Meer. Der Satz aus Vers 21 stand schon in Kapitel 48,22.
+
+## Jesaja – Kapitel 58
+#### Das Fasten, das Gott gefällt
+
+---
+
+### Warum sieht Gott unser Fasten nicht? (Vers 1–5)
+
+<sup>1</sup>„Rufe laut! Halte dich nicht zurück!
+Erhebe deine Stimme wie eine Posaune!
+Verkünde meinem Volk seinen Ungehorsam
+und dem Haus Jakob seine Sünden!
+<sup>2</sup>Doch sie suchen mich täglich
+und haben Freude daran, meine Wege zu kennen.
+Wie ein Volk, das Gerechtigkeit getan
+und das Recht seines Gottes nicht verlassen hat,
+fragen sie mich nach gerechten Urteilen.
+Sie haben Freude daran, sich Gott zu nähern.
+<sup>3</sup>‚Warum fasten wir‘, sagen sie, ‚und du siehst es nicht?
+Warum demütigen wir unsere Seele, und du merkst es nicht?‘
+Siehe, am Tag eures Fastens geht ihr euren Geschäften nach
+und unterdrückt alle eure Arbeiter.
+<sup>4</sup>Siehe, ihr fastet zu Streit und Zank
+und um mit der Faust der Bosheit zu schlagen.
+Ihr fastet heute nicht so,
+dass eure Stimme in der Höhe gehört wird.
+<sup>5</sup>Ist das ein Fasten, wie ich es erwählt habe?
+Ein Tag, an dem ein Mensch seine Seele demütigt?
+Ist es, den Kopf hängen zu lassen wie ein Schilfrohr
+und sich in Sacktuch und Asche zu betten?
+Wollt ihr das ein Fasten nennen
+und einen Tag, der dem HERRN gefällt?
+
+> **Was bedeutet das?**
+> Vers 2–3: Die Menschen sind sehr fromm. Sie beten, fasten und fragen nach Gott. Und sie beschweren sich: „Wir fasten doch, warum sieht Gott das nicht?“
+> Vers 3–4: Gottes Antwort: Ihr fastet, aber gleichzeitig beutet ihr eure Arbeiter aus, ihr streitet und schlagt zu. Das passt nicht zusammen.
+> Vers 5: Nur den Kopf hängen lassen und sich in Asche setzen, das allein ist nicht, was Gott will.
+
+---
+
+### Brich dem Hungrigen dein Brot (Vers 6–12)
+
+<sup>6</sup>Ist nicht das ein Fasten, wie ich es erwählt habe:
+die Fesseln der Bosheit zu lösen,
+die Riemen des Jochs aufzuknoten,
+die Unterdrückten freizulassen
+und jedes Joch zu zerbrechen?
+<sup>7</sup>Ist es nicht, dein Brot mit dem Hungrigen zu teilen
+und die Armen, die verstoßen sind, in dein Haus zu bringen?
+Wenn du einen Nackten siehst, dass du ihn kleidest
+und dich nicht vor deinem eigenen Fleisch verbirgst?
+<sup>8</sup>Dann wird dein Licht hervorbrechen wie die Morgenröte,
+und deine Heilung wird schnell sprossen.
+Dann wird deine Gerechtigkeit vor dir hergehen,
+und die Herrlichkeit des HERRN wird deine Nachhut sein.
+<sup>9</sup>Dann wirst du rufen, und der HERR wird antworten.
+Du wirst um Hilfe schreien, und er wird sagen: ‚Hier bin ich.‘
+Wenn du aus deiner Mitte das Joch entfernst,
+das Fingerzeigen und das böse Reden,
+<sup>10</sup>und wenn du dem Hungrigen deine Seele schenkst
+und die gebeugte Seele sättigst,
+dann wird dein Licht in der Finsternis aufgehen,
+und dein Dunkel wird wie der Mittag sein.
+<sup>11</sup>Und der HERR wird dich immer führen
+und deine Seele an dürren Orten sättigen
+und deine Knochen stark machen.
+Du wirst sein wie ein bewässerter Garten
+und wie eine Wasserquelle, deren Wasser nicht versiegt.
+<sup>12</sup>Die von dir abstammen, werden die alten Trümmer aufbauen.
+Du wirst die Grundmauern vieler Generationen wieder aufrichten.
+Man wird dich nennen: ‚Der die Lücken zumauert,
+der die Wege wiederherstellt, damit man dort wohnen kann.‘
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Texte der Bibel über echte Frömmigkeit.
+> Vers 6–7: Das Fasten, das Gott will: Unterdrückte befreien, mit Hungrigen das Brot teilen, Obdachlose aufnehmen, Nackten Kleidung geben. „Dich nicht vor deinem eigenen Fleisch verbergen“ heißt: Wende dich nicht von Menschen ab, die doch genauso Menschen sind wie du.
+> Vers 8–10: Wer so handelt, dem verspricht Gott: Dein Licht wird aufgehen wie die Morgenröte. Wenn du rufst, sagt Gott: „Hier bin ich.“ Auch das „Fingerzeigen“, also das Beschuldigen und Verachten von anderen, soll aufhören.
+> Vers 11: Wer gibt, wird selbst wie ein bewässerter Garten, wie eine Quelle, die nie versiegt.
+> Vers 12: Solche Menschen bauen Zerstörtes wieder auf. Sie „mauern Lücken zu“, sie reparieren, was kaputt ist, in der Stadt und in der Gemeinschaft.
+> Am jüdischen Versöhnungstag (Jom Kippur), einem Fastentag, wird dieses Kapitel in der Synagoge gelesen. Jesus sagt Ähnliches: „Ich war hungrig, und ihr habt mir zu essen gegeben“ (Matthäus 25,35).
+
+---
+
+### Der Sabbat als Freude (Vers 13–14)
+
+<sup>13</sup>Wenn du deinen Fuß vom Sabbat zurückhältst,
+dass du nicht an meinem heiligen Tag deinen Geschäften nachgehst,
+und wenn du den Sabbat eine Wonne nennst
+und den heiligen Tag des HERRN ehrwürdig,
+und wenn du ihn ehrst,
+indem du nicht deine eigenen Wege gehst,
+nicht deinen eigenen Geschäften nachgehst
+und nicht deine eigenen Worte redest,
+<sup>14</sup>dann wirst du dich am HERRN erfreuen,
+und ich werde dich über die Höhen der Erde fahren lassen
+und dich vom Erbe Jakobs, deines Vaters, essen lassen.“
+Denn der Mund des HERRN hat es gesagt.
+
+> **Was bedeutet das?**
+> Der Sabbat ist der siebte Tag, der Ruhetag. Er soll keine Last sein, sondern eine „Wonne“, eine Freude.
+> An diesem Tag soll man nicht seinen Geschäften nachgehen, sondern Zeit für Gott und die Menschen haben. Das tut auch dem Menschen selbst gut.
+> Für uns heute: Ein Ruhetag in der Woche ist ein Geschenk. Er hilft, nicht nur für Arbeit und Geld zu leben.
+
+## Jesaja – Kapitel 59
+#### Ein Erlöser wird nach Zion kommen
+
+---
+
+### Eure Sünden trennen euch von Gott (Vers 1–8)
+
+<sup>1</sup>Siehe, die Hand des HERRN ist nicht zu kurz, um zu retten,
+und sein Ohr ist nicht taub, um zu hören.
+<sup>2</sup>Sondern eure Missetaten haben euch von eurem Gott getrennt,
+und eure Sünden haben sein Gesicht vor euch verborgen,
+sodass er nicht hört.
+<sup>3</sup>Denn eure Hände sind mit Blut befleckt
+und eure Finger mit Missetat.
+Eure Lippen haben Lügen geredet.
+Eure Zunge murmelt Bosheit.
+<sup>4</sup>Niemand klagt in Gerechtigkeit,
+und niemand führt einen Rechtsstreit in Wahrheit.
+Sie vertrauen auf Nichtiges und reden Lügen.
+Sie gehen schwanger mit Unheil und gebären Unrecht.
+<sup>5</sup>Sie brüten Ottereier aus
+und weben Spinnweben.
+Wer von ihren Eiern isst, stirbt,
+und wenn eines zerdrückt wird, schlüpft eine Viper heraus.
+<sup>6</sup>Ihre Gewebe taugen nicht zu Kleidern.
+Sie können sich mit ihren Werken nicht bedecken.
+Ihre Werke sind Werke des Unrechts,
+und Gewalttaten sind in ihren Händen.
+<sup>7</sup>Ihre Füße laufen zum Bösen,
+und sie eilen, unschuldiges Blut zu vergießen.
+Ihre Gedanken sind Gedanken des Unrechts.
+Verwüstung und Zerstörung sind auf ihren Wegen.
+<sup>8</sup>Den Weg des Friedens kennen sie nicht,
+und es gibt kein Recht auf ihren Wegen.
+Sie haben sich krumme Pfade gemacht.
+Wer darauf geht, kennt keinen Frieden.
+
+> **Was bedeutet das?**
+> Vers 1–2: Die Menschen fragen: Warum hilft Gott nicht? Der Prophet antwortet: Gottes Hand ist nicht zu kurz und sein Ohr nicht taub. Aber eure Schuld steht wie eine Mauer zwischen euch und Gott.
+> Vers 3–8: Eine Liste von Unrecht: Gewalt, Lügen, ungerechte Gerichte, Mord an Unschuldigen. Die Bilder sind stark: Böse Pläne sind wie Schlangeneier, aus denen Gift schlüpft, und wie Spinnweben, die nicht zu Kleidern taugen.
+> Vers 7–8: Paulus zitiert diese Verse im Römerbrief (3,15–17), um zu zeigen, dass alle Menschen Gottes Gnade brauchen.
+
+---
+
+### Wir tappen wie Blinde (Vers 9–15)
+
+<sup>9</sup>Darum ist das Recht fern von uns,
+und die Gerechtigkeit erreicht uns nicht.
+Wir warten auf Licht, aber siehe, Finsternis,
+auf Helligkeit, aber wir gehen im Dunkeln.
+<sup>10</sup>Wir tasten nach der Wand wie Blinde.
+Ja, wir tasten wie solche, die keine Augen haben.
+Wir stolpern am Mittag wie in der Dämmerung.
+Unter den Starken sind wir wie Tote.
+<sup>11</sup>Wir alle brummen wie Bären
+und gurren traurig wie Tauben.
+Wir warten auf Recht, aber es ist keins da,
+auf Rettung, aber sie ist fern von uns.
+<sup>12</sup>Denn unsere Übertretungen sind zahlreich vor dir,
+und unsere Sünden zeugen gegen uns.
+Denn unsere Übertretungen sind bei uns,
+und unsere Missetaten, wir kennen sie:
+<sup>13</sup>abtrünnig sein und den HERRN verleugnen
+und sich abwenden von der Nachfolge unseres Gottes,
+Unterdrückung und Aufruhr reden,
+Lügenworte im Herzen empfangen und aussprechen.
+<sup>14</sup>Das Recht ist zurückgedrängt,
+und die Gerechtigkeit steht fern.
+Denn die Wahrheit ist auf der Straße gestürzt,
+und die Aufrichtigkeit kann nicht hineinkommen.
+<sup>15</sup>Ja, die Wahrheit fehlt,
+und wer sich vom Bösen abwendet, wird zur Beute.
+Der HERR sah es,
+und es missfiel ihm, dass kein Recht da war.
+
+> **Was bedeutet das?**
+> Jetzt spricht das Volk selbst: „Wir“. Es gibt seine Schuld zu.
+> Vers 9–11: Wir warten auf Licht, aber es bleibt dunkel. Wir tappen wie Blinde. Wir brummen wie Bären und gurren wie Tauben. Ein ehrliches Gebet in der Not.
+> Vers 12–13: „Unsere Sünden, wir kennen sie.“ Das Volk sieht seine Schuld ein. Das ist der erste Schritt zur Umkehr.
+> Vers 14–15: Eine Gesellschaft, in der die Wahrheit auf der Straße liegt und niemand sie aufhebt. Wer ehrlich ist, wird zur Beute. Diese Beschreibung passt leider zu vielen Zeiten und Orten. Aber am Ende von Vers 15 heißt es: Der HERR sah es, und es missfiel ihm.
+
+---
+
+### Gott greift selbst ein (Vers 16–21)
+
+<sup>16</sup>Er sah, dass niemand da war,
+und er staunte, dass keiner eintrat.
+Darum half ihm sein eigener Arm,
+und seine Gerechtigkeit stützte ihn.
+<sup>17</sup>Er zog Gerechtigkeit an wie einen Brustpanzer
+und setzte den Helm des Heils auf sein Haupt.
+Er zog Kleider der Vergeltung als Gewand an
+und hüllte sich in Eifer wie in einen Mantel.
+<sup>18</sup>Nach ihren Taten wird er vergelten, wie es angemessen ist:
+Zorn seinen Gegnern, Vergeltung seinen Feinden.
+Den Inseln wird er vergelten, was ihnen zusteht.
+<sup>19</sup>So werden sie den Namen des HERRN fürchten vom Westen her
+und seine Herrlichkeit vom Aufgang der Sonne.
+Denn er wird kommen wie ein reißender Strom,
+den der Atem des HERRN antreibt.
+<sup>20</sup>„Ein Erlöser wird nach Zion kommen,
+und zu denen in Jakob, die sich vom Ungehorsam abwenden“, spricht der HERR.
+<sup>21</sup>„Was mich betrifft, das ist mein Bund mit ihnen“, spricht der HERR:
+„Mein Geist, der auf dir ist,
+und meine Worte, die ich in deinen Mund gelegt habe,
+sollen nicht von deinem Mund weichen,
+nicht vom Mund deiner Nachkommen
+und nicht vom Mund der Nachkommen deiner Nachkommen“, spricht der HERR,
+„von nun an bis in Ewigkeit.“
+
+> **Was bedeutet das?**
+> Vers 16: Gott sieht, dass es kein Recht gibt und niemand eingreift. Da greift er selbst ein.
+> Vers 17: Gott zieht eine „Rüstung“ an: Gerechtigkeit als Panzer, Heil als Helm. Das ist ein Bild. Gott kämpft nicht mit Waffen, sondern mit Gerechtigkeit und Rettung. Paulus nimmt dieses Bild auf und spricht von der „Waffenrüstung Gottes“ für Christen (Epheser 6,14–17): Wahrheit, Gerechtigkeit, Frieden, Glaube und Gottes Wort. Das hat nichts mit echten Waffen oder Gewalt zu tun.
+> Vers 18: Gott sorgt dafür, dass Unrecht nicht ungestraft bleibt. Das Gericht ist seine Sache, nicht die Sache von Menschen, die Rache üben wollen.
+> Vers 20: „Ein Erlöser wird nach Zion kommen“ zu denen, die umkehren. Paulus zitiert diesen Vers in Römer 11,26.
+> Vers 21: Gottes Geist und Gottes Wort sollen bei seinem Volk bleiben, von Generation zu Generation, für immer.
