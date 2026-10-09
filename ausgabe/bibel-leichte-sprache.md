@@ -79619,3 +79619,319 @@ dass ihre Gäste in den Tiefen des Totenreichs sind.
 > Vers 18: Ihre Gäste merken nicht, dass sie in Wirklichkeit im Totenreich sitzen.
 > Jeder Mensch steht vor dieser Wahl: Welcher Einladung folge ich? Der Weisheit, die zum Leben führt, oder der Torheit, die verlockend klingt, aber in den Tod führt?
 > Damit endet der erste Teil des Buches (Kapitel 1–9). Ab Kapitel 10 folgen die einzelnen kurzen Sprüche Salomos.
+
+## Sprüche – Kapitel 10
+#### Die Sprüche Salomos beginnen
+
+---
+
+### Fleiß und Gerechtigkeit (Vers 1–7)
+
+<sup>1</sup>Die Sprüche Salomos.
+Ein weiser Sohn macht dem Vater Freude,
+aber ein törichter Sohn bringt seiner Mutter Kummer.
+<sup>2</sup>Schätze, die durch Unrecht gewonnen wurden, nützen nichts,
+aber Gerechtigkeit rettet vom Tod.
+<sup>3</sup>Der HERR lässt die Seele des Gerechten nicht hungern,
+aber die Gier der Gottlosen stößt er weg.
+<sup>4</sup>Wer mit fauler Hand arbeitet, wird arm,
+aber die Hand der Fleißigen macht reich.
+<sup>5</sup>Wer im Sommer sammelt, ist ein kluger Sohn,
+aber wer während der Ernte schläft, ist ein Sohn, der Schande bringt.
+<sup>6</sup>Segen liegt auf dem Kopf des Gerechten,
+aber Gewalt bedeckt den Mund der Gottlosen.
+<sup>7</sup>Das Andenken an den Gerechten ist ein Segen,
+aber der Name der Gottlosen wird verfaulen.
+
+> **Was bedeutet das?**
+> Ab hier beginnt der zweite große Teil des Buches: die kurzen Sprüche Salomos (Kapitel 10,1 bis 22,16).
+> Fast jeder Spruch hat zwei Zeilen. Oft zeigt die zweite Zeile das Gegenteil der ersten: „Der Weise … aber der Tor …“. So lernt man durch Vergleich.
+> Die Sprüche stehen meist einzeln. Man kann jeden für sich lesen und darüber nachdenken. Die Überschriften in dieser Übertragung fassen nur grob zusammen.
+> Vers 1: Was Kinder tun, betrifft auch die Eltern. Hier werden Vater und Mutter genannt.
+> Vers 4–5: Fleiß lohnt sich meistens. Aber wie schon in der Einleitung gesagt: Sprüche beschreiben das Normale, nicht jeden Einzelfall. Nicht jeder Arme ist faul.
+> Vers 7: Gute Menschen bleiben in guter Erinnerung. „Sein Andenken sei zum Segen“ ist bis heute ein jüdischer Spruch für Verstorbene.
+
+---
+
+### Die Kraft der Worte (Vers 8–21)
+
+<sup>8</sup>Wer ein weises Herz hat, nimmt Gebote an,
+aber ein schwatzender Tor kommt zu Fall.
+<sup>9</sup>Wer untadelig lebt, geht sicher,
+aber wer krumme Wege geht, wird entdeckt werden.
+<sup>10</sup>Wer mit dem Auge zwinkert, verursacht Kummer,
+und ein schwatzender Tor kommt zu Fall.
+<sup>11</sup>Der Mund des Gerechten ist eine Quelle des Lebens,
+aber Gewalt bedeckt den Mund der Gottlosen.
+<sup>12</sup>Hass weckt Streit,
+aber Liebe deckt alle Vergehen zu.
+<sup>13</sup>Auf den Lippen des Verständigen findet man Weisheit,
+aber ein Stock ist für den Rücken dessen, der keinen Verstand hat.
+<sup>14</sup>Weise Menschen sammeln Erkenntnis,
+aber der Mund des Toren ist nahe am Verderben.
+<sup>15</sup>Der Besitz des Reichen ist seine feste Stadt.
+Das Verderben der Armen ist ihre Armut.
+<sup>16</sup>Die Arbeit des Gerechten führt zum Leben.
+Der Gewinn des Gottlosen führt zur Sünde.
+<sup>17</sup>Wer auf Zurechtweisung achtet, ist auf dem Weg des Lebens,
+aber wer Tadel ablehnt, führt andere in die Irre.
+<sup>18</sup>Wer Hass verbirgt, hat lügnerische Lippen.
+Wer Verleumdung verbreitet, ist ein Tor.
+<sup>19</sup>Wo viele Worte sind, fehlt es nicht an Ungehorsam,
+aber wer seine Lippen zurückhält, handelt klug.
+<sup>20</sup>Die Zunge des Gerechten ist wie erlesenes Silber.
+Das Herz der Gottlosen ist wenig wert.
+<sup>21</sup>Die Lippen des Gerechten ernähren viele,
+aber die Toren sterben aus Mangel an Verstand.
+
+> **Was bedeutet das?**
+> Viele Sprüche handeln von unseren Worten. Worte können Leben schenken (Vers 11) oder Unheil anrichten.
+> Vers 12: Ein berühmter Satz: „Liebe deckt alle Vergehen zu.“ Wer liebt, stellt die Fehler anderer nicht bloß, sondern vergibt. Das Neue Testament zitiert diesen Satz (1. Petrus 4,8; vgl. Jakobus 5,20).
+> Vers 13: Der „Stock“ war damals ein übliches Erziehungsmittel. Heute wissen wir: Gewalt gegen Kinder schadet und ist in Deutschland verboten. Die Botschaft des Spruchs bleibt: Wer nicht hören will, muss die Folgen tragen.
+> Vers 15: Ein nüchterner Blick: Geld schützt. Armut macht verletzlich. Das ist eine Beobachtung, keine Rechtfertigung. An anderen Stellen fordert das Buch, den Armen zu helfen.
+> Vers 19: Wer viel redet, sagt auch viel Falsches. Manchmal ist Schweigen klüger.
+
+---
+
+### Der Segen des HERRN (Vers 22–32)
+
+<sup>22</sup>Der Segen des HERRN macht reich,
+und er fügt keine Mühe hinzu.
+<sup>23</sup>Für einen Toren ist es ein Vergnügen, Böses zu tun,
+aber für einen verständigen Mann ist die Weisheit ein Vergnügen.
+<sup>24</sup>Wovor die Gottlosen sich fürchten, das wird sie treffen,
+aber der Wunsch der Gerechten wird erfüllt.
+<sup>25</sup>Wenn der Wirbelsturm vorüberzieht, ist der Gottlose nicht mehr da,
+aber die Gerechten stehen fest für immer.
+<sup>26</sup>Wie Essig für die Zähne und wie Rauch für die Augen,
+so ist der Faule für die, die ihn schicken.
+<sup>27</sup>Die Ehrfurcht vor dem HERRN verlängert die Tage,
+aber die Jahre der Gottlosen werden verkürzt.
+<sup>28</sup>Die Erwartung der Gerechten ist Freude,
+aber die Hoffnung der Gottlosen wird zunichte.
+<sup>29</sup>Der Weg des HERRN ist eine Festung für den Aufrichtigen,
+aber Verderben für die, die Unrecht tun.
+<sup>30</sup>Der Gerechte wird niemals ins Wanken gebracht,
+aber die Gottlosen werden nicht im Land wohnen.
+<sup>31</sup>Der Mund des Gerechten bringt Weisheit hervor,
+aber die verdrehte Zunge wird abgeschnitten.
+<sup>32</sup>Die Lippen des Gerechten wissen, was gefällt,
+aber der Mund der Gottlosen ist verdreht.
+
+> **Was bedeutet das?**
+> Vers 22: Was Gott schenkt, bringt keinen Kummer mit sich. Reichtum durch Unrecht dagegen bringt Sorgen.
+> Vers 25: Wenn ein Sturm kommt, zeigt sich, wer festen Grund hat. Jesus erzählt ein ähnliches Gleichnis vom Haus auf dem Felsen (Matthäus 7,24–27).
+> Vers 26: Ein lustiger Vergleich: Ein fauler Bote ist so unangenehm wie Essig auf den Zähnen oder Rauch in den Augen.
+> Vers 27: Das ist eine allgemeine Erfahrung, keine Garantie. Auch gute Menschen sterben manchmal jung. Das Buch Hiob und der Prediger sprechen offen darüber.
+
+## Sprüche – Kapitel 11
+#### Ehrliche Waagen und großzügige Herzen
+
+---
+
+### Ehrlichkeit und Demut (Vers 1–8)
+
+<sup>1</sup>Eine falsche Waage ist dem HERRN ein Gräuel,
+aber genaue Gewichte gefallen ihm.
+<sup>2</sup>Wenn Hochmut kommt, dann kommt Schande,
+aber mit der Demut kommt Weisheit.
+<sup>3</sup>Die Redlichkeit der Aufrichtigen leitet sie,
+aber die Verdrehtheit der Treulosen zerstört sie.
+<sup>4</sup>Reichtum nützt nichts am Tag des Zorns,
+aber Gerechtigkeit rettet vom Tod.
+<sup>5</sup>Die Gerechtigkeit des Untadeligen macht seinen Weg gerade,
+aber der Gottlose fällt durch seine eigene Gottlosigkeit.
+<sup>6</sup>Die Gerechtigkeit der Aufrichtigen rettet sie,
+aber die Treulosen werden von ihren bösen Begierden gefangen.
+<sup>7</sup>Wenn ein gottloser Mensch stirbt, geht seine Hoffnung zugrunde,
+und die Erwartung von Macht wird zunichte.
+<sup>8</sup>Ein Gerechter wird aus der Not gerettet,
+und der Gottlose kommt an seine Stelle.
+
+> **Was bedeutet das?**
+> Vers 1: Im Handel benutzte man Waagen mit Gewichtssteinen. Manche Händler betrogen mit falschen Gewichten. Gott hasst Betrug im Geschäft. Das gilt heute genauso: falsche Abrechnungen, versteckte Kosten, Lügen in der Werbung.
+> Vers 2: „Hochmut kommt vor dem Fall“: ein bekanntes Sprichwort, das aus solchen Versen entstanden ist.
+> Vers 4: Am Ende zählt nicht, wie viel Geld jemand hat, sondern wie er gelebt hat.
+
+---
+
+### Die Stadt und der Nachbar (Vers 9–15)
+
+<sup>9</sup>Mit seinem Mund zerstört der Gottlose seinen Nächsten,
+aber die Gerechten werden durch Erkenntnis gerettet.
+<sup>10</sup>Wenn es den Gerechten gut geht, freut sich die Stadt.
+Wenn die Gottlosen umkommen, gibt es Jubel.
+<sup>11</sup>Durch den Segen der Aufrichtigen wird die Stadt erhöht,
+aber durch den Mund der Gottlosen wird sie niedergerissen.
+<sup>12</sup>Wer seinen Nächsten verachtet, hat keine Weisheit,
+aber ein verständiger Mann schweigt.
+<sup>13</sup>Wer Klatsch herumträgt, verrät Vertrauliches,
+aber wer einen treuen Geist hat, bewahrt ein Geheimnis.
+<sup>14</sup>Wo keine weise Führung ist, fällt ein Volk,
+aber wo viele Berater sind, gibt es Sieg.
+<sup>15</sup>Wer für einen Fremden bürgt, wird darunter leiden,
+aber wer Bürgschaften ablehnt, ist sicher.
+
+> **Was bedeutet das?**
+> Vers 10–11: Gute und ehrliche Menschen sind ein Segen für die ganze Stadt, für die Gesellschaft. Böse Worte können eine Stadt zerstören.
+> Vers 13: Wer Geheimnisse weitererzählt, zerstört Vertrauen. Ein treuer Freund kann schweigen.
+> Vers 14: Gute Entscheidungen brauchen viele kluge Ratgeber. Niemand sollte allein entscheiden, schon gar nicht, wer Macht hat.
+> Vers 15: Wieder die Warnung vor Bürgschaften (vgl. Kapitel 6,1–5).
+
+---
+
+### Großzügigkeit lohnt sich (Vers 16–26)
+
+<sup>16</sup>Eine anmutige Frau erlangt Ehre,
+aber gewalttätige Männer erlangen Reichtum.
+<sup>17</sup>Der barmherzige Mensch tut sich selbst Gutes,
+aber der Grausame schadet seinem eigenen Fleisch.
+<sup>18</sup>Gottlose verdienen trügerischen Lohn,
+aber wer Gerechtigkeit sät, erntet sicheren Lohn.
+<sup>19</sup>Wer wirklich gerecht ist, bekommt Leben.
+Wer dem Bösen nachjagt, bekommt den Tod.
+<sup>20</sup>Die ein verdrehtes Herz haben, sind dem HERRN ein Gräuel,
+aber die, deren Wege untadelig sind, gefallen ihm.
+<sup>21</sup>Ganz sicher wird der böse Mensch nicht ungestraft bleiben,
+aber die Nachkommen der Gerechten werden gerettet.
+<sup>22</sup>Wie ein goldener Ring im Rüssel eines Schweins,
+so ist eine schöne Frau, der es an Verstand fehlt.
+<sup>23</sup>Der Wunsch der Gerechten ist nur gut.
+Die Erwartung der Gottlosen ist Zorn.
+<sup>24</sup>Einer teilt großzügig aus und bekommt immer mehr.
+Ein anderer hält mehr zurück, als recht ist, und wird doch arm.
+<sup>25</sup>Die großzügige Seele wird reich gesättigt.
+Wer anderen zu trinken gibt, wird auch selbst getränkt.
+<sup>26</sup>Wer Getreide zurückhält, den verflucht das Volk,
+aber Segen kommt auf den Kopf dessen, der es verkauft.
+
+> **Was bedeutet das?**
+> Vers 16: Ehre bekommt man durch Freundlichkeit. Gewalttätige Menschen bekommen vielleicht Geld, aber keine echte Ehre.
+> Vers 17: Wer barmherzig ist, tut sich selbst etwas Gutes. Wer grausam ist, schadet am Ende auch sich selbst.
+> Vers 22: Ein drastisches Bild: Schönheit ohne Verstand ist wie Goldschmuck an einem Schwein, das im Dreck wühlt. Das gilt natürlich für Männer genauso.
+> Vers 24–25: Ein überraschendes Prinzip: Wer großzügig gibt, wird nicht ärmer, sondern reicher, an Freude, Freunden und oft auch an Segen. Wer geizig ist, gewinnt dadurch nichts.
+> Vers 26: Wer in einer Hungersnot Getreide hortet, um den Preis hochzutreiben, handelt verwerflich. Das gilt bis heute für Spekulation mit Lebensmitteln.
+
+---
+
+### Der Baum des Lebens (Vers 27–31)
+
+<sup>27</sup>Wer eifrig das Gute sucht, sucht Wohlgefallen,
+aber wer nach dem Bösen sucht, zu dem wird es kommen.
+<sup>28</sup>Wer auf seinen Reichtum vertraut, wird fallen,
+aber die Gerechten werden blühen wie grünes Laub.
+<sup>29</sup>Wer sein eigenes Haus in Unruhe bringt, wird Wind erben.
+Der Tor wird Diener dessen, der ein weises Herz hat.
+<sup>30</sup>Die Frucht des Gerechten ist ein Baum des Lebens.
+Wer weise ist, gewinnt Menschen.
+<sup>31</sup>Siehe, dem Gerechten wird auf der Erde vergolten,
+wie viel mehr dem Gottlosen und dem Sünder!
+
+> **Was bedeutet das?**
+> Vers 28: Geld ist kein sicherer Halt. Gerechte Menschen sind wie ein Baum mit frischen Blättern (vgl. Psalm 1,3).
+> Vers 29: Wer Streit in die eigene Familie bringt, steht am Ende mit leeren Händen da, er „erbt Wind“.
+> Vers 30: „Wer weise ist, gewinnt Menschen“: Ein weiser Mensch zieht andere an und kann ihnen helfen.
+> Vers 31: Jeder bekommt schon hier auf der Erde Folgen für sein Tun zu spüren. Petrus zitiert diesen Vers in der griechischen Fassung (1. Petrus 4,18).
+
+## Sprüche – Kapitel 12
+#### Wer Zurechtweisung liebt
+
+---
+
+### Lernen und Familie (Vers 1–8)
+
+<sup>1</sup>Wer Zurechtweisung liebt, liebt Erkenntnis,
+aber wer Tadel hasst, ist dumm.
+<sup>2</sup>Ein guter Mensch erlangt Wohlgefallen vom HERRN,
+aber einen Menschen mit bösen Plänen verurteilt er.
+<sup>3</sup>Ein Mensch wird durch Gottlosigkeit nicht fest gegründet,
+aber die Wurzel der Gerechten wird nicht wanken.
+<sup>4</sup>Eine tüchtige Frau ist die Krone ihres Mannes,
+aber eine Frau, die Schande bringt, ist wie Fäulnis in seinen Knochen.
+<sup>5</sup>Die Gedanken der Gerechten sind gerecht,
+aber die Ratschläge der Gottlosen sind betrügerisch.
+<sup>6</sup>Die Worte der Gottlosen lauern auf Blut,
+aber die Rede der Aufrichtigen rettet sie.
+<sup>7</sup>Die Gottlosen werden gestürzt und sind nicht mehr,
+aber das Haus der Gerechten bleibt bestehen.
+<sup>8</sup>Ein Mensch wird nach seiner Weisheit gelobt,
+aber wer ein verdrehtes Denken hat, wird verachtet.
+
+> **Was bedeutet das?**
+> Vers 1: Ein ehrlicher Satz: Wer nicht kritisiert werden will, bleibt dumm. Wer aus Fehlern lernen will, wird klug.
+> Vers 3: Ein Baum mit tiefen Wurzeln fällt nicht im Sturm. So ist es mit gerechten Menschen.
+> Vers 4: Eine gute Ehepartnerin ist wie eine Krone, ein großer Schatz. Ein Partner, der Schande bringt, macht das Leben schwer. Das gilt für beide Seiten einer Ehe.
+
+---
+
+### Fleiß und Tierschutz (Vers 9–14)
+
+<sup>9</sup>Besser ist einer, der wenig bekannt ist und einen Diener hat,
+als einer, der sich selbst wichtig nimmt und kein Brot hat.
+<sup>10</sup>Ein Gerechter achtet auf das Leben seines Tieres,
+aber das Erbarmen der Gottlosen ist grausam.
+<sup>11</sup>Wer sein Land bebaut, wird reichlich Brot haben,
+aber wer Hirngespinsten nachjagt, hat keinen Verstand.
+<sup>12</sup>Der Gottlose begehrt die Beute der Bösen,
+aber die Wurzel der Gerechten blüht.
+<sup>13</sup>Ein böser Mensch wird gefangen durch die Sünde seiner Lippen,
+aber der Gerechte kommt aus der Not heraus.
+<sup>14</sup>Ein Mensch wird mit Gutem gesättigt durch die Frucht seines Mundes.
+Was die Hände eines Menschen tun, wird ihm vergolten.
+
+> **Was bedeutet das?**
+> Vers 9: Lieber bescheiden und versorgt als angeberisch und hungrig.
+> Vers 10: Ein schöner Vers über Tierschutz: Ein gerechter Mensch kümmert sich um seine Tiere. Wer Tiere quält, zeigt, was in seinem Herzen ist. Schon die Gesetze Mose schützten Tiere (zum Beispiel 5. Mose 25,4).
+> Vers 11: Wer fleißig arbeitet, hat zu essen. Wer nur Träumen und schnellen Reichtümern nachjagt, geht leer aus.
+
+---
+
+### Worte, die heilen (Vers 15–23)
+
+<sup>15</sup>Der Weg eines Toren ist in seinen eigenen Augen richtig,
+aber wer weise ist, hört auf Rat.
+<sup>16</sup>Ein Tor zeigt seinen Ärger noch am selben Tag,
+aber wer eine Beleidigung übergeht, ist klug.
+<sup>17</sup>Wer wahrhaftig ist, bezeugt ehrlich,
+aber ein falscher Zeuge lügt.
+<sup>18</sup>Mancher redet unbedacht, das ist wie Stiche mit einem Schwert,
+aber die Zunge der Weisen heilt.
+<sup>19</sup>Wahrhaftige Lippen bestehen für immer,
+aber eine lügnerische Zunge nur für einen Augenblick.
+<sup>20</sup>Betrug ist im Herzen derer, die Böses planen,
+aber Freude haben die, die zum Frieden raten.
+<sup>21</sup>Dem Gerechten wird kein Unheil geschehen,
+aber die Gottlosen werden mit Bösem erfüllt.
+<sup>22</sup>Lügnerische Lippen sind dem HERRN ein Gräuel,
+aber die, die die Wahrheit tun, gefallen ihm.
+<sup>23</sup>Ein kluger Mensch behält sein Wissen für sich,
+aber das Herz der Toren verkündet Torheit.
+
+> **Was bedeutet das?**
+> Vers 15: Ein Tor hält sich immer für richtig. Ein Weiser fragt auch andere.
+> Vers 16: Wer sofort zurückschlägt, wenn er beleidigt wird, macht alles schlimmer. Wer gelassen bleibt, ist klug.
+> Vers 18: Worte können verletzen wie ein Schwert. Aber Worte können auch heilen. Jeder hat die Wahl.
+> Vers 19: Lügen haben kurze Beine. Die Wahrheit bleibt.
+> Vers 20: Wer Frieden stiftet, hat Freude (vgl. Matthäus 5,9: „Selig sind, die Frieden stiften“).
+> Vers 21: Das ist keine Garantie, dass gute Menschen nie leiden. Es heißt: Am Ende wird das Böse den Gerechten nicht besiegen.
+
+---
+
+### Ein freundliches Wort (Vers 24–28)
+
+<sup>24</sup>Die Hände der Fleißigen werden herrschen,
+aber Faulheit endet in Zwangsarbeit.
+<sup>25</sup>Sorge im Herzen eines Menschen drückt es nieder,
+aber ein freundliches Wort macht es froh.
+<sup>26</sup>Ein Gerechter ist vorsichtig in der Freundschaft,
+aber der Weg der Gottlosen führt sie in die Irre.
+<sup>27</sup>Der Faule brät sein Wild nicht,
+aber der Besitz fleißiger Menschen ist wertvoll.
+<sup>28</sup>Auf dem Weg der Gerechtigkeit ist Leben.
+Auf ihrem Pfad gibt es keinen Tod.
+
+> **Was bedeutet das?**
+> Vers 25: Ein schöner, einfacher Satz: Sorgen drücken nieder. Aber ein freundliches Wort kann einen Menschen wieder froh machen. Jeder kann heute so ein Wort sagen.
+> Vers 26: Wähle deine Freunde mit Bedacht. Schlechte Freunde können einen in die Irre führen.
+> Vers 27: Ein witziges Bild: Der Faule hat ein Tier gejagt, aber er ist zu faul, es zu braten. Er bringt nichts zu Ende.
+> Vers 28: Der Weg der Gerechtigkeit führt zum Leben. Manche jüdische und christliche Ausleger sehen hier schon eine Hoffnung über den Tod hinaus.

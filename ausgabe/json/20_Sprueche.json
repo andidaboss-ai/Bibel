@@ -1618,6 +1618,578 @@
      "erklaerung": "Jetzt kommt das Gegenbild: Frau Torheit. Auch sie lädt ein, mit genau denselben Worten wie die Weisheit (Vers 4 und Vers 16). Beide rufen die Unerfahrenen.\nAber die Torheit hat nichts vorbereitet. Sie bietet nur „gestohlenes Wasser“ und „heimliches Brot“: das Verbotene, das besonders reizvoll scheint.\nVers 18: Ihre Gäste merken nicht, dass sie in Wirklichkeit im Totenreich sitzen.\nJeder Mensch steht vor dieser Wahl: Welcher Einladung folge ich? Der Weisheit, die zum Leben führt, oder der Torheit, die verlockend klingt, aber in den Tod führt?\nDamit endet der erste Teil des Buches (Kapitel 1–9). Ab Kapitel 10 folgen die einzelnen kurzen Sprüche Salomos."
     }
    ]
+  },
+  {
+   "kapitel": 10,
+   "titel": "Die Sprüche Salomos beginnen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Fleiß und Gerechtigkeit",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Sprüche Salomos.\nEin weiser Sohn macht dem Vater Freude,\naber ein törichter Sohn bringt seiner Mutter Kummer.",
+       "englisch_web": "The proverbs of Solomon. A wise son makes a glad father; but a foolish son brings grief to his mother."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Schätze, die durch Unrecht gewonnen wurden, nützen nichts,\naber Gerechtigkeit rettet vom Tod.",
+       "englisch_web": "Treasures of wickedness profit nothing, but righteousness delivers from death."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der HERR lässt die Seele des Gerechten nicht hungern,\naber die Gier der Gottlosen stößt er weg.",
+       "englisch_web": "Yahweh will not allow the soul of the righteous to go hungry, but he thrusts away the desire of the wicked."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Wer mit fauler Hand arbeitet, wird arm,\naber die Hand der Fleißigen macht reich.",
+       "englisch_web": "He becomes poor who works with a lazy hand, but the hand of the diligent brings wealth."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wer im Sommer sammelt, ist ein kluger Sohn,\naber wer während der Ernte schläft, ist ein Sohn, der Schande bringt.",
+       "englisch_web": "He who gathers in summer is a wise son, but he who sleeps during the harvest is a son who causes shame."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Segen liegt auf dem Kopf des Gerechten,\naber Gewalt bedeckt den Mund der Gottlosen.",
+       "englisch_web": "Blessings are on the head of the righteous, but violence covers the mouth of the wicked."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Das Andenken an den Gerechten ist ein Segen,\naber der Name der Gottlosen wird verfaulen.",
+       "englisch_web": "The memory of the righteous is blessed, but the name of the wicked will rot."
+      }
+     ],
+     "erklaerung": "Ab hier beginnt der zweite große Teil des Buches: die kurzen Sprüche Salomos (Kapitel 10,1 bis 22,16).\nFast jeder Spruch hat zwei Zeilen. Oft zeigt die zweite Zeile das Gegenteil der ersten: „Der Weise … aber der Tor …“. So lernt man durch Vergleich.\nDie Sprüche stehen meist einzeln. Man kann jeden für sich lesen und darüber nachdenken. Die Überschriften in dieser Übertragung fassen nur grob zusammen.\nVers 1: Was Kinder tun, betrifft auch die Eltern. Hier werden Vater und Mutter genannt.\nVers 4–5: Fleiß lohnt sich meistens. Aber wie schon in der Einleitung gesagt: Sprüche beschreiben das Normale, nicht jeden Einzelfall. Nicht jeder Arme ist faul.\nVers 7: Gute Menschen bleiben in guter Erinnerung. „Sein Andenken sei zum Segen“ ist bis heute ein jüdischer Spruch für Verstorbene."
+    },
+    {
+     "ueberschrift": "Die Kraft der Worte",
+     "vers_von": 8,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Wer ein weises Herz hat, nimmt Gebote an,\naber ein schwatzender Tor kommt zu Fall.",
+       "englisch_web": "The wise in heart accept commandments, but a chattering fool will fall."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wer untadelig lebt, geht sicher,\naber wer krumme Wege geht, wird entdeckt werden.",
+       "englisch_web": "He who walks blamelessly walks surely, but he who perverts his ways will be found out."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Wer mit dem Auge zwinkert, verursacht Kummer,\nund ein schwatzender Tor kommt zu Fall.",
+       "englisch_web": "One who winks with the eye causes sorrow, but a chattering fool will fall."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der Mund des Gerechten ist eine Quelle des Lebens,\naber Gewalt bedeckt den Mund der Gottlosen.",
+       "englisch_web": "The mouth of the righteous is a spring of life, but violence covers the mouth of the wicked."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Hass weckt Streit,\naber Liebe deckt alle Vergehen zu.",
+       "englisch_web": "Hatred stirs up strife, but love covers all wrongs."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Auf den Lippen des Verständigen findet man Weisheit,\naber ein Stock ist für den Rücken dessen, der keinen Verstand hat.",
+       "englisch_web": "Wisdom is found on the lips of him who has discernment, but a rod is for the back of him who is void of understanding."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Weise Menschen sammeln Erkenntnis,\naber der Mund des Toren ist nahe am Verderben.",
+       "englisch_web": "Wise men lay up knowledge, but the mouth of the foolish is near ruin."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Der Besitz des Reichen ist seine feste Stadt.\nDas Verderben der Armen ist ihre Armut.",
+       "englisch_web": "The rich man’s wealth is his strong city. The destruction of the poor is their poverty."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Arbeit des Gerechten führt zum Leben.\nDer Gewinn des Gottlosen führt zur Sünde.",
+       "englisch_web": "The labor of the righteous leads to life. The increase of the wicked leads to sin."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Wer auf Zurechtweisung achtet, ist auf dem Weg des Lebens,\naber wer Tadel ablehnt, führt andere in die Irre.",
+       "englisch_web": "He is in the way of life who heeds correction, but he who forsakes reproof leads others astray."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wer Hass verbirgt, hat lügnerische Lippen.\nWer Verleumdung verbreitet, ist ein Tor.",
+       "englisch_web": "He who hides hatred has lying lips. He who utters a slander is a fool."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wo viele Worte sind, fehlt es nicht an Ungehorsam,\naber wer seine Lippen zurückhält, handelt klug.",
+       "englisch_web": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Die Zunge des Gerechten ist wie erlesenes Silber.\nDas Herz der Gottlosen ist wenig wert.",
+       "englisch_web": "The tongue of the righteous is like choice silver. The heart of the wicked is of little worth."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Die Lippen des Gerechten ernähren viele,\naber die Toren sterben aus Mangel an Verstand.",
+       "englisch_web": "The lips of the righteous feed many, but the foolish die for lack of understanding."
+      }
+     ],
+     "erklaerung": "Viele Sprüche handeln von unseren Worten. Worte können Leben schenken (Vers 11) oder Unheil anrichten.\nVers 12: Ein berühmter Satz: „Liebe deckt alle Vergehen zu.“ Wer liebt, stellt die Fehler anderer nicht bloß, sondern vergibt. Das Neue Testament zitiert diesen Satz (1. Petrus 4,8; vgl. Jakobus 5,20).\nVers 13: Der „Stock“ war damals ein übliches Erziehungsmittel. Heute wissen wir: Gewalt gegen Kinder schadet und ist in Deutschland verboten. Die Botschaft des Spruchs bleibt: Wer nicht hören will, muss die Folgen tragen.\nVers 15: Ein nüchterner Blick: Geld schützt. Armut macht verletzlich. Das ist eine Beobachtung, keine Rechtfertigung. An anderen Stellen fordert das Buch, den Armen zu helfen.\nVers 19: Wer viel redet, sagt auch viel Falsches. Manchmal ist Schweigen klüger."
+    },
+    {
+     "ueberschrift": "Der Segen des HERRN",
+     "vers_von": 22,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Der Segen des HERRN macht reich,\nund er fügt keine Mühe hinzu.",
+       "englisch_web": "Yahweh’s blessing brings wealth, and he adds no trouble to it."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Für einen Toren ist es ein Vergnügen, Böses zu tun,\naber für einen verständigen Mann ist die Weisheit ein Vergnügen.",
+       "englisch_web": "It is a fool’s pleasure to do wickedness, but wisdom is a man of understanding’s pleasure."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Wovor die Gottlosen sich fürchten, das wird sie treffen,\naber der Wunsch der Gerechten wird erfüllt.",
+       "englisch_web": "What the wicked fear will overtake them, but the desire of the righteous will be granted."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Wenn der Wirbelsturm vorüberzieht, ist der Gottlose nicht mehr da,\naber die Gerechten stehen fest für immer.",
+       "englisch_web": "When the whirlwind passes, the wicked is no more; but the righteous stand firm forever."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Wie Essig für die Zähne und wie Rauch für die Augen,\nso ist der Faule für die, die ihn schicken.",
+       "englisch_web": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to those who send him."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Die Ehrfurcht vor dem HERRN verlängert die Tage,\naber die Jahre der Gottlosen werden verkürzt.",
+       "englisch_web": "The fear of Yahweh prolongs days, but the years of the wicked shall be shortened."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Erwartung der Gerechten ist Freude,\naber die Hoffnung der Gottlosen wird zunichte.",
+       "englisch_web": "The prospect of the righteous is joy, but the hope of the wicked will perish."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Der Weg des HERRN ist eine Festung für den Aufrichtigen,\naber Verderben für die, die Unrecht tun.",
+       "englisch_web": "The way of Yahweh is a stronghold to the upright, but it is a destruction to the workers of iniquity."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Der Gerechte wird niemals ins Wanken gebracht,\naber die Gottlosen werden nicht im Land wohnen.",
+       "englisch_web": "The righteous will never be removed, but the wicked will not dwell in the land."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Der Mund des Gerechten bringt Weisheit hervor,\naber die verdrehte Zunge wird abgeschnitten.",
+       "englisch_web": "The mouth of the righteous produces wisdom, but the perverse tongue will be cut off."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Die Lippen des Gerechten wissen, was gefällt,\naber der Mund der Gottlosen ist verdreht.",
+       "englisch_web": "The lips of the righteous know what is acceptable, but the mouth of the wicked is perverse."
+      }
+     ],
+     "erklaerung": "Vers 22: Was Gott schenkt, bringt keinen Kummer mit sich. Reichtum durch Unrecht dagegen bringt Sorgen.\nVers 25: Wenn ein Sturm kommt, zeigt sich, wer festen Grund hat. Jesus erzählt ein ähnliches Gleichnis vom Haus auf dem Felsen (Matthäus 7,24–27).\nVers 26: Ein lustiger Vergleich: Ein fauler Bote ist so unangenehm wie Essig auf den Zähnen oder Rauch in den Augen.\nVers 27: Das ist eine allgemeine Erfahrung, keine Garantie. Auch gute Menschen sterben manchmal jung. Das Buch Hiob und der Prediger sprechen offen darüber."
+    }
+   ]
+  },
+  {
+   "kapitel": 11,
+   "titel": "Ehrliche Waagen und großzügige Herzen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ehrlichkeit und Demut",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Eine falsche Waage ist dem HERRN ein Gräuel,\naber genaue Gewichte gefallen ihm.",
+       "englisch_web": "A false balance is an abomination to Yahweh, but accurate weights are his delight."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wenn Hochmut kommt, dann kommt Schande,\naber mit der Demut kommt Weisheit.",
+       "englisch_web": "When pride comes, then comes shame, but with humility comes wisdom."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Redlichkeit der Aufrichtigen leitet sie,\naber die Verdrehtheit der Treulosen zerstört sie.",
+       "englisch_web": "The integrity of the upright shall guide them, but the perverseness of the treacherous shall destroy them."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Reichtum nützt nichts am Tag des Zorns,\naber Gerechtigkeit rettet vom Tod.",
+       "englisch_web": "Riches don’t profit in the day of wrath, but righteousness delivers from death."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Gerechtigkeit des Untadeligen macht seinen Weg gerade,\naber der Gottlose fällt durch seine eigene Gottlosigkeit.",
+       "englisch_web": "The righteousness of the blameless will direct his way, but the wicked shall fall by his own wickedness."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Gerechtigkeit der Aufrichtigen rettet sie,\naber die Treulosen werden von ihren bösen Begierden gefangen.",
+       "englisch_web": "The righteousness of the upright shall deliver them, but the unfaithful will be trapped by evil desires."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn ein gottloser Mensch stirbt, geht seine Hoffnung zugrunde,\nund die Erwartung von Macht wird zunichte.",
+       "englisch_web": "When a wicked man dies, hope perishes, and expectation of power comes to nothing."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ein Gerechter wird aus der Not gerettet,\nund der Gottlose kommt an seine Stelle.",
+       "englisch_web": "A righteous person is delivered out of trouble, and the wicked takes his place."
+      }
+     ],
+     "erklaerung": "Vers 1: Im Handel benutzte man Waagen mit Gewichtssteinen. Manche Händler betrogen mit falschen Gewichten. Gott hasst Betrug im Geschäft. Das gilt heute genauso: falsche Abrechnungen, versteckte Kosten, Lügen in der Werbung.\nVers 2: „Hochmut kommt vor dem Fall“: ein bekanntes Sprichwort, das aus solchen Versen entstanden ist.\nVers 4: Am Ende zählt nicht, wie viel Geld jemand hat, sondern wie er gelebt hat."
+    },
+    {
+     "ueberschrift": "Die Stadt und der Nachbar",
+     "vers_von": 9,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Mit seinem Mund zerstört der Gottlose seinen Nächsten,\naber die Gerechten werden durch Erkenntnis gerettet.",
+       "englisch_web": "With his mouth the godless man destroys his neighbor, but the righteous will be delivered through knowledge."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Wenn es den Gerechten gut geht, freut sich die Stadt.\nWenn die Gottlosen umkommen, gibt es Jubel.",
+       "englisch_web": "When it goes well with the righteous, the city rejoices. When the wicked perish, there is shouting."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Durch den Segen der Aufrichtigen wird die Stadt erhöht,\naber durch den Mund der Gottlosen wird sie niedergerissen.",
+       "englisch_web": "By the blessing of the upright, the city is exalted, but it is overthrown by the mouth of the wicked."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wer seinen Nächsten verachtet, hat keine Weisheit,\naber ein verständiger Mann schweigt.",
+       "englisch_web": "One who despises his neighbor is void of wisdom, but a man of understanding holds his peace."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Wer Klatsch herumträgt, verrät Vertrauliches,\naber wer einen treuen Geist hat, bewahrt ein Geheimnis.",
+       "englisch_web": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Wo keine weise Führung ist, fällt ein Volk,\naber wo viele Berater sind, gibt es Sieg.",
+       "englisch_web": "Where there is no wise guidance, the nation falls, but in the multitude of counselors there is victory."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wer für einen Fremden bürgt, wird darunter leiden,\naber wer Bürgschaften ablehnt, ist sicher.",
+       "englisch_web": "He who is collateral for a stranger will suffer for it, but he who refuses pledges of collateral is secure."
+      }
+     ],
+     "erklaerung": "Vers 10–11: Gute und ehrliche Menschen sind ein Segen für die ganze Stadt, für die Gesellschaft. Böse Worte können eine Stadt zerstören.\nVers 13: Wer Geheimnisse weitererzählt, zerstört Vertrauen. Ein treuer Freund kann schweigen.\nVers 14: Gute Entscheidungen brauchen viele kluge Ratgeber. Niemand sollte allein entscheiden, schon gar nicht, wer Macht hat.\nVers 15: Wieder die Warnung vor Bürgschaften (vgl. Kapitel 6,1–5)."
+    },
+    {
+     "ueberschrift": "Großzügigkeit lohnt sich",
+     "vers_von": 16,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Eine anmutige Frau erlangt Ehre,\naber gewalttätige Männer erlangen Reichtum.",
+       "englisch_web": "A gracious woman obtains honor, but violent men obtain riches."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der barmherzige Mensch tut sich selbst Gutes,\naber der Grausame schadet seinem eigenen Fleisch.",
+       "englisch_web": "The merciful man does good to his own soul, but he who is cruel troubles his own flesh."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Gottlose verdienen trügerischen Lohn,\naber wer Gerechtigkeit sät, erntet sicheren Lohn.",
+       "englisch_web": "Wicked people earn deceitful wages, but one who sows righteousness reaps a sure reward."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wer wirklich gerecht ist, bekommt Leben.\nWer dem Bösen nachjagt, bekommt den Tod.",
+       "englisch_web": "He who is truly righteous gets life. He who pursues evil gets death."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Die ein verdrehtes Herz haben, sind dem HERRN ein Gräuel,\naber die, deren Wege untadelig sind, gefallen ihm.",
+       "englisch_web": "Those who are perverse in heart are an abomination to Yahweh, but those whose ways are blameless are his delight."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ganz sicher wird der böse Mensch nicht ungestraft bleiben,\naber die Nachkommen der Gerechten werden gerettet.",
+       "englisch_web": "Most certainly, the evil man will not be unpunished, but the offspring of the righteous will be delivered."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Wie ein goldener Ring im Rüssel eines Schweins,\nso ist eine schöne Frau, der es an Verstand fehlt.",
+       "englisch_web": "Like a gold ring in a pig’s snout, is a beautiful woman who lacks discretion."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Der Wunsch der Gerechten ist nur gut.\nDie Erwartung der Gottlosen ist Zorn.",
+       "englisch_web": "The desire of the righteous is only good. The expectation of the wicked is wrath."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Einer teilt großzügig aus und bekommt immer mehr.\nEin anderer hält mehr zurück, als recht ist, und wird doch arm.",
+       "englisch_web": "There is one who scatters, and increases yet more. There is one who withholds more than is appropriate, but gains poverty."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die großzügige Seele wird reich gesättigt.\nWer anderen zu trinken gibt, wird auch selbst getränkt.",
+       "englisch_web": "The liberal soul shall be made fat. He who waters shall be watered also himself."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Wer Getreide zurückhält, den verflucht das Volk,\naber Segen kommt auf den Kopf dessen, der es verkauft.",
+       "englisch_web": "People curse someone who withholds grain, but blessing will be on the head of him who sells it."
+      }
+     ],
+     "erklaerung": "Vers 16: Ehre bekommt man durch Freundlichkeit. Gewalttätige Menschen bekommen vielleicht Geld, aber keine echte Ehre.\nVers 17: Wer barmherzig ist, tut sich selbst etwas Gutes. Wer grausam ist, schadet am Ende auch sich selbst.\nVers 22: Ein drastisches Bild: Schönheit ohne Verstand ist wie Goldschmuck an einem Schwein, das im Dreck wühlt. Das gilt natürlich für Männer genauso.\nVers 24–25: Ein überraschendes Prinzip: Wer großzügig gibt, wird nicht ärmer, sondern reicher, an Freude, Freunden und oft auch an Segen. Wer geizig ist, gewinnt dadurch nichts.\nVers 26: Wer in einer Hungersnot Getreide hortet, um den Preis hochzutreiben, handelt verwerflich. Das gilt bis heute für Spekulation mit Lebensmitteln."
+    },
+    {
+     "ueberschrift": "Der Baum des Lebens",
+     "vers_von": 27,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Wer eifrig das Gute sucht, sucht Wohlgefallen,\naber wer nach dem Bösen sucht, zu dem wird es kommen.",
+       "englisch_web": "He who diligently seeks good seeks favor, but he who searches after evil, it shall come to him."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Wer auf seinen Reichtum vertraut, wird fallen,\naber die Gerechten werden blühen wie grünes Laub.",
+       "englisch_web": "He who trusts in his riches will fall, but the righteous shall flourish as the green leaf."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Wer sein eigenes Haus in Unruhe bringt, wird Wind erben.\nDer Tor wird Diener dessen, der ein weises Herz hat.",
+       "englisch_web": "He who troubles his own house shall inherit the wind. The foolish shall be servant to the wise of heart."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Die Frucht des Gerechten ist ein Baum des Lebens.\nWer weise ist, gewinnt Menschen.",
+       "englisch_web": "The fruit of the righteous is a tree of life. He who is wise wins souls."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Siehe, dem Gerechten wird auf der Erde vergolten,\nwie viel mehr dem Gottlosen und dem Sünder!",
+       "englisch_web": "Behold, the righteous shall be repaid on the earth, how much more the wicked and the sinner!"
+      }
+     ],
+     "erklaerung": "Vers 28: Geld ist kein sicherer Halt. Gerechte Menschen sind wie ein Baum mit frischen Blättern (vgl. Psalm 1,3).\nVers 29: Wer Streit in die eigene Familie bringt, steht am Ende mit leeren Händen da, er „erbt Wind“.\nVers 30: „Wer weise ist, gewinnt Menschen“: Ein weiser Mensch zieht andere an und kann ihnen helfen.\nVers 31: Jeder bekommt schon hier auf der Erde Folgen für sein Tun zu spüren. Petrus zitiert diesen Vers in der griechischen Fassung (1. Petrus 4,18)."
+    }
+   ]
+  },
+  {
+   "kapitel": 12,
+   "titel": "Wer Zurechtweisung liebt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Lernen und Familie",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wer Zurechtweisung liebt, liebt Erkenntnis,\naber wer Tadel hasst, ist dumm.",
+       "englisch_web": "Whoever loves correction loves knowledge, but he who hates reproof is stupid."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ein guter Mensch erlangt Wohlgefallen vom HERRN,\naber einen Menschen mit bösen Plänen verurteilt er.",
+       "englisch_web": "A good man shall obtain favor from Yahweh, but he will condemn a man of wicked plans."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ein Mensch wird durch Gottlosigkeit nicht fest gegründet,\naber die Wurzel der Gerechten wird nicht wanken.",
+       "englisch_web": "A man shall not be established by wickedness, but the root of the righteous shall not be moved."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Eine tüchtige Frau ist die Krone ihres Mannes,\naber eine Frau, die Schande bringt, ist wie Fäulnis in seinen Knochen.",
+       "englisch_web": "A worthy woman is the crown of her husband, but a disgraceful wife is as rottenness in his bones."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Gedanken der Gerechten sind gerecht,\naber die Ratschläge der Gottlosen sind betrügerisch.",
+       "englisch_web": "The thoughts of the righteous are just, but the advice of the wicked is deceitful."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Worte der Gottlosen lauern auf Blut,\naber die Rede der Aufrichtigen rettet sie.",
+       "englisch_web": "The words of the wicked are about lying in wait for blood, but the speech of the upright rescues them."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Gottlosen werden gestürzt und sind nicht mehr,\naber das Haus der Gerechten bleibt bestehen.",
+       "englisch_web": "The wicked are overthrown, and are no more, but the house of the righteous shall stand."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ein Mensch wird nach seiner Weisheit gelobt,\naber wer ein verdrehtes Denken hat, wird verachtet.",
+       "englisch_web": "A man shall be commended according to his wisdom, but he who has a warped mind shall be despised."
+      }
+     ],
+     "erklaerung": "Vers 1: Ein ehrlicher Satz: Wer nicht kritisiert werden will, bleibt dumm. Wer aus Fehlern lernen will, wird klug.\nVers 3: Ein Baum mit tiefen Wurzeln fällt nicht im Sturm. So ist es mit gerechten Menschen.\nVers 4: Eine gute Ehepartnerin ist wie eine Krone, ein großer Schatz. Ein Partner, der Schande bringt, macht das Leben schwer. Das gilt für beide Seiten einer Ehe."
+    },
+    {
+     "ueberschrift": "Fleiß und Tierschutz",
+     "vers_von": 9,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Besser ist einer, der wenig bekannt ist und einen Diener hat,\nals einer, der sich selbst wichtig nimmt und kein Brot hat.",
+       "englisch_web": "Better is he who is little known, and has a servant, than he who honors himself and lacks bread."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ein Gerechter achtet auf das Leben seines Tieres,\naber das Erbarmen der Gottlosen ist grausam.",
+       "englisch_web": "A righteous man respects the life of his animal, but the tender mercies of the wicked are cruel."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Wer sein Land bebaut, wird reichlich Brot haben,\naber wer Hirngespinsten nachjagt, hat keinen Verstand.",
+       "englisch_web": "He who tills his land shall have plenty of bread, but he who chases fantasies is void of understanding."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Der Gottlose begehrt die Beute der Bösen,\naber die Wurzel der Gerechten blüht.",
+       "englisch_web": "The wicked desires the plunder of evil men, but the root of the righteous flourishes."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ein böser Mensch wird gefangen durch die Sünde seiner Lippen,\naber der Gerechte kommt aus der Not heraus.",
+       "englisch_web": "An evil man is trapped by sinfulness of lips, but the righteous shall come out of trouble."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ein Mensch wird mit Gutem gesättigt durch die Frucht seines Mundes.\nWas die Hände eines Menschen tun, wird ihm vergolten.",
+       "englisch_web": "A man shall be satisfied with good by the fruit of his mouth. The work of a man’s hands shall be rewarded to him."
+      }
+     ],
+     "erklaerung": "Vers 9: Lieber bescheiden und versorgt als angeberisch und hungrig.\nVers 10: Ein schöner Vers über Tierschutz: Ein gerechter Mensch kümmert sich um seine Tiere. Wer Tiere quält, zeigt, was in seinem Herzen ist. Schon die Gesetze Mose schützten Tiere (zum Beispiel 5. Mose 25,4).\nVers 11: Wer fleißig arbeitet, hat zu essen. Wer nur Träumen und schnellen Reichtümern nachjagt, geht leer aus."
+    },
+    {
+     "ueberschrift": "Worte, die heilen",
+     "vers_von": 15,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Der Weg eines Toren ist in seinen eigenen Augen richtig,\naber wer weise ist, hört auf Rat.",
+       "englisch_web": "The way of a fool is right in his own eyes, but he who is wise listens to counsel."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ein Tor zeigt seinen Ärger noch am selben Tag,\naber wer eine Beleidigung übergeht, ist klug.",
+       "englisch_web": "A fool shows his annoyance the same day, but one who overlooks an insult is prudent."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Wer wahrhaftig ist, bezeugt ehrlich,\naber ein falscher Zeuge lügt.",
+       "englisch_web": "He who is truthful testifies honestly, but a false witness lies."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Mancher redet unbedacht, das ist wie Stiche mit einem Schwert,\naber die Zunge der Weisen heilt.",
+       "englisch_web": "There is one who speaks rashly like the piercing of a sword, but the tongue of the wise heals."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wahrhaftige Lippen bestehen für immer,\naber eine lügnerische Zunge nur für einen Augenblick.",
+       "englisch_web": "Truth’s lips will be established forever, but a lying tongue is only momentary."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Betrug ist im Herzen derer, die Böses planen,\naber Freude haben die, die zum Frieden raten.",
+       "englisch_web": "Deceit is in the heart of those who plot evil, but joy comes to the promoters of peace."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Dem Gerechten wird kein Unheil geschehen,\naber die Gottlosen werden mit Bösem erfüllt.",
+       "englisch_web": "No mischief shall happen to the righteous, but the wicked shall be filled with evil."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Lügnerische Lippen sind dem HERRN ein Gräuel,\naber die, die die Wahrheit tun, gefallen ihm.",
+       "englisch_web": "Lying lips are an abomination to Yahweh, but those who do the truth are his delight."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ein kluger Mensch behält sein Wissen für sich,\naber das Herz der Toren verkündet Torheit.",
+       "englisch_web": "A prudent man keeps his knowledge, but the hearts of fools proclaim foolishness."
+      }
+     ],
+     "erklaerung": "Vers 15: Ein Tor hält sich immer für richtig. Ein Weiser fragt auch andere.\nVers 16: Wer sofort zurückschlägt, wenn er beleidigt wird, macht alles schlimmer. Wer gelassen bleibt, ist klug.\nVers 18: Worte können verletzen wie ein Schwert. Aber Worte können auch heilen. Jeder hat die Wahl.\nVers 19: Lügen haben kurze Beine. Die Wahrheit bleibt.\nVers 20: Wer Frieden stiftet, hat Freude (vgl. Matthäus 5,9: „Selig sind, die Frieden stiften“).\nVers 21: Das ist keine Garantie, dass gute Menschen nie leiden. Es heißt: Am Ende wird das Böse den Gerechten nicht besiegen."
+    },
+    {
+     "ueberschrift": "Ein freundliches Wort",
+     "vers_von": 24,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Hände der Fleißigen werden herrschen,\naber Faulheit endet in Zwangsarbeit.",
+       "englisch_web": "The hands of the diligent ones shall rule, but laziness ends in slave labor."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Sorge im Herzen eines Menschen drückt es nieder,\naber ein freundliches Wort macht es froh.",
+       "englisch_web": "Anxiety in a man’s heart weighs it down, but a kind word makes it glad."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ein Gerechter ist vorsichtig in der Freundschaft,\naber der Weg der Gottlosen führt sie in die Irre.",
+       "englisch_web": "A righteous person is cautious in friendship, but the way of the wicked leads them astray."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Der Faule brät sein Wild nicht,\naber der Besitz fleißiger Menschen ist wertvoll.",
+       "englisch_web": "The slothful man doesn’t roast his game, but the possessions of diligent men are prized."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Auf dem Weg der Gerechtigkeit ist Leben.\nAuf ihrem Pfad gibt es keinen Tod.",
+       "englisch_web": "In the way of righteousness is life; in its path there is no death."
+      }
+     ],
+     "erklaerung": "Vers 25: Ein schöner, einfacher Satz: Sorgen drücken nieder. Aber ein freundliches Wort kann einen Menschen wieder froh machen. Jeder kann heute so ein Wort sagen.\nVers 26: Wähle deine Freunde mit Bedacht. Schlechte Freunde können einen in die Irre führen.\nVers 27: Ein witziges Bild: Der Faule hat ein Tier gejagt, aber er ist zu faul, es zu braten. Er bringt nichts zu Ende.\nVers 28: Der Weg der Gerechtigkeit führt zum Leben. Manche jüdische und christliche Ausleger sehen hier schon eine Hoffnung über den Tod hinaus."
+    }
+   ]
   }
  ]
 }
