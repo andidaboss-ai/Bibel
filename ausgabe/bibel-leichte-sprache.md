@@ -84643,3 +84643,397 @@ und die Schafe werden darauf herumtrampeln.
 > Vers 20: Ein demütigendes Bild: Der König von Assyrien, den Ahas selbst „gemietet“ hat, wird Juda kahl rasieren wie ein Rasiermesser. Kriegsgefangene wurden damals geschoren, um sie zu demütigen.
 > Vers 21–25: Das fruchtbare Land wird zur Wildnis. Statt Weinbergen wachsen Dornen. Die wenigen Überlebenden halten nur noch ein paar Tiere. Dort, wo früher Felder waren, geht man nur noch mit Pfeil und Bogen zur Jagd.
 > Die Botschaft an Ahas: Wer auf Menschen statt auf Gott vertraut, holt sich am Ende das Unglück selbst ins Haus.
+
+## Jesaja – Kapitel 8
+#### Gott ist mit uns
+
+---
+
+### Ein Kind mit einem seltsamen Namen (Vers 1–4)
+
+<sup>1</sup>Der HERR sagte zu mir:
+„Nimm eine große Tafel und schreib darauf mit gewöhnlicher Schrift:
+‚Für Maher-Schalal-Hasch-Bas.‘
+<sup>2</sup>Und ich will mir zuverlässige Zeugen nehmen, die es bezeugen:
+Urija, den Priester, und Secharja, den Sohn Jeberechjas.“
+<sup>3</sup>Ich ging zu der Prophetin,
+und sie wurde schwanger und gebar einen Sohn.
+Da sagte der HERR zu mir:
+„Nenne ihn ‚Maher-Schalal-Hasch-Bas‘.
+<sup>4</sup>Denn bevor das Kind ‚Mein Vater‘ und ‚Meine Mutter‘ sagen kann,
+werden die Reichtümer von Damaskus und die Beute von Samaria
+vom König von Assyrien weggetragen werden.“
+
+> **Was bedeutet das?**
+> Jesaja bekommt wieder einen Sohn mit einem Botschafts-Namen. „Maher-Schalal-Hasch-Bas“ heißt: „Schnell die Beute, eilig der Raub.“
+> Die Botschaft: Noch bevor das Kind „Papa“ und „Mama“ sagen kann, also in etwa einem Jahr, werden die beiden Feinde, Syrien (Damaskus) und das Nordreich Israel (Samaria), von Assyrien ausgeraubt. So geschah es im Jahr 732 vor Christus.
+> Vers 3: „Die Prophetin“ ist Jesajas Frau. Auch sie war eine Prophetin.
+
+---
+
+### Die Flut aus Assyrien (Vers 5–10)
+
+<sup>5</sup>Der HERR sprach wieder zu mir und sagte:
+<sup>6</sup>„Weil dieses Volk die sanft fließenden Wasser von Schiloach verachtet
+und sich über Rezin und den Sohn Remaljas freut,
+<sup>7</sup>darum, siehe, bringt der Herr über sie
+die gewaltigen Fluten des Stromes:
+den König von Assyrien und all seine Pracht.
+Er wird über alle seine Kanäle steigen
+und über alle seine Ufer treten.
+<sup>8</sup>Er wird nach Juda hineinströmen.
+Er wird überfluten und durchziehen.
+Er wird bis an den Hals reichen.
+Die Ausbreitung seiner Flügel wird die Weite deines Landes füllen,
+o Immanuel.
+<sup>9</sup>Tobt, ihr Völker, und werdet zerschlagen!
+Hört zu, alle ihr aus fernen Ländern:
+Rüstet euch zum Kampf und werdet zerschmettert!
+Rüstet euch zum Kampf und werdet zerschmettert!
+<sup>10</sup>Beratet euch zusammen, und es wird zunichte werden.
+Sprecht ein Wort, und es wird nicht bestehen,
+denn Gott ist mit uns.“
+
+> **Was bedeutet das?**
+> Vers 6: Schiloach ist eine kleine Wasserleitung in Jerusalem. Das Wasser fließt dort ruhig und leise. Es ist ein Bild für Gottes stille, verlässliche Hilfe. Das Volk verachtet sie.
+> Vers 7–8: Stattdessen kommt eine gewaltige Flut: der „Strom“ ist der Euphrat, ein Bild für Assyrien. Das Wasser wird Juda bis zum Hals stehen.
+> Vers 8 und 10: Zweimal klingt „Immanuel“ an: „o Immanuel“ und „Gott ist mit uns“. Das ist die Hoffnung mitten in der Gefahr: Gott ist bei seinem Volk. Darum werden die Pläne der Feinde am Ende scheitern.
+
+---
+
+### Fürchtet nur Gott (Vers 11–15)
+
+<sup>11</sup>Denn so sprach der HERR zu mir, als seine Hand mich stark ergriff,
+und er wies mich an, nicht den Weg dieses Volkes zu gehen, und sagte:
+<sup>12</sup>„Nennt nicht alles Verschwörung, was dieses Volk Verschwörung nennt.
+Fürchtet nicht, was sie fürchten,
+und lasst euch nicht in Schrecken versetzen.
+<sup>13</sup>Den HERRN der Heere sollt ihr heilig halten.
+Er soll eure Furcht sein.
+Vor ihm sollt ihr erschrecken.
+<sup>14</sup>Er wird ein Heiligtum sein,
+aber für beide Häuser Israels ein Stein des Anstoßes
+und ein Fels, an dem man zu Fall kommt.
+Für die Bewohner Jerusalems wird er eine Falle und eine Schlinge sein.
+<sup>15</sup>Viele werden darüber stolpern, fallen, zerbrechen,
+sich verstricken und gefangen werden.“
+
+> **Was bedeutet das?**
+> Vers 12: Damals verbreiteten sich viele Ängste und Gerüchte über Verschwörungen. Gott sagt zu Jesaja: Lass dich davon nicht anstecken! Das klingt sehr aktuell.
+> Vers 13: Die einzige „Furcht“, die man haben soll, ist die Ehrfurcht vor Gott. Wer Gott ernst nimmt, muss sich vor nichts anderem fürchten.
+> Vers 14: Für die, die ihm vertrauen, ist Gott ein sicherer Ort. Für die, die ihn ablehnen, wird er zum Stein, über den sie stolpern. Das Neue Testament nimmt dieses Bild auf (Römer 9,33; 1. Petrus 2,8).
+
+---
+
+### Warten auf den HERRN (Vers 16–22)
+
+<sup>16</sup>Verschnür das Zeugnis!
+Versiegle die Weisung bei meinen Jüngern!
+<sup>17</sup>Ich will auf den HERRN warten,
+der sein Angesicht vor dem Haus Jakob verbirgt,
+und ich will nach ihm ausschauen.
+<sup>18</sup>Siehe, ich und die Kinder, die der HERR mir gegeben hat,
+sind Zeichen und Wunder in Israel
+vom HERRN der Heere, der auf dem Berg Zion wohnt.
+<sup>19</sup>Wenn sie zu euch sagen:
+„Befragt die Totengeister und die Wahrsager,
+die flüstern und murmeln“,
+soll ein Volk nicht seinen Gott befragen?
+Sollen sie die Toten für die Lebenden befragen?
+<sup>20</sup>Hin zur Weisung und zum Zeugnis!
+Wenn sie nicht nach diesem Wort reden,
+dann gibt es für sie keinen Morgen.
+<sup>21</sup>Sie werden durch das Land ziehen, sehr bedrückt und hungrig.
+Und es wird geschehen: Wenn sie hungrig sind,
+werden sie sich sorgen und ihren König und ihren Gott verfluchen.
+Sie werden ihr Gesicht nach oben wenden,
+<sup>22</sup>dann auf die Erde schauen
+und Not, Finsternis und düstere Angst sehen.
+Sie werden in dichte Finsternis hinausgestoßen.
+
+> **Was bedeutet das?**
+> Vers 16: Weil niemand hören will, lässt Jesaja seine Botschaft aufschreiben und versiegeln. Seine Schüler sollen sie bewahren, bis die Zeit kommt. So entstanden vermutlich die ersten Teile des Buches.
+> Vers 17: Ein Satz des Vertrauens: Auch wenn Gott gerade verborgen scheint, will ich auf ihn warten.
+> Vers 18: Jesaja und seine Kinder mit ihren Botschafts-Namen sind selbst lebendige Zeichen.
+> Vers 19: In der Not laufen die Menschen zu Wahrsagern und Totenbeschwörern. Jesaja fragt: Warum fragt ihr die Toten statt den lebendigen Gott?
+> Vers 21–22: Wer sich von Gott abwendet, gerät in tiefe Dunkelheit. Aber gleich danach kommt das große Licht (Kapitel 9).
+
+## Jesaja – Kapitel 9
+#### Uns ist ein Kind geboren
+
+---
+
+### Das Volk, das im Dunkeln lebt, sieht ein großes Licht (Vers 1–7)
+
+<sup>1</sup>Aber es wird keine Finsternis mehr geben für die, die in Not war.
+In der früheren Zeit brachte er Schmach über das Land Sebulon und das Land Naftali,
+aber in der späteren Zeit hat er es herrlich gemacht:
+den Weg am Meer, das Land jenseits des Jordan,
+das Galiläa der Völker.
+<sup>2</sup>Das Volk, das in der Finsternis lebte,
+hat ein großes Licht gesehen.
+Über denen, die im Land des Todesschattens wohnten,
+ist ein Licht aufgeleuchtet.
+<sup>3</sup>Du hast das Volk vermehrt.
+Du hast ihre Freude groß gemacht.
+Sie freuen sich vor dir, wie man sich bei der Ernte freut,
+wie man jubelt, wenn man die Beute verteilt.
+<sup>4</sup>Denn das Joch, das auf ihnen lastete,
+den Stab auf ihrer Schulter,
+den Stock ihres Unterdrückers,
+hast du zerbrochen wie am Tag Midians.
+<sup>5</sup>Denn jeder Stiefel des Kriegers im Getümmel der Schlacht
+und jeder Mantel, der in Blut gewälzt ist,
+wird verbrannt werden, ein Fraß des Feuers.
+<sup>6</sup>Denn ein Kind ist uns geboren,
+ein Sohn ist uns gegeben,
+und die Herrschaft liegt auf seiner Schulter.
+Man nennt seinen Namen:
+Wunderbarer Ratgeber, Starker Gott,
+Ewiger Vater, Friedefürst.
+<sup>7</sup>Die Zunahme seiner Herrschaft und des Friedens wird kein Ende haben,
+auf dem Thron Davids und über seinem Königreich,
+um es zu festigen und zu stützen
+durch Recht und Gerechtigkeit
+von nun an bis in Ewigkeit.
+Der Eifer des HERRN der Heere wird das tun.
+
+> **Was bedeutet das?**
+> Das ist einer der bekanntesten Texte der Bibel. Er wird in vielen Kirchen an Weihnachten gelesen.
+> Vers 1: Sebulon und Naftali liegen im Norden, in Galiläa. Diese Gegend wurde als erste von Assyrien erobert (2. Könige 15,29). Gerade dort soll das Licht zuerst aufleuchten.
+> Vers 2: Wer in tiefer Dunkelheit lebt, sieht plötzlich ein großes Licht. Ein Bild für Befreiung und Hoffnung.
+> Vers 4: „Wie am Tag Midians“: Damals hat Gott sein Volk durch Gideon mit nur 300 Männern befreit (Richter 7).
+> Vers 5: Alle Kriegsstiefel und blutigen Mäntel werden verbrannt. Der Krieg ist vorbei. Es gibt keine Waffen mehr.
+> Vers 6: Wie wird das geschehen? Nicht durch ein Heer, sondern durch ein Kind. Seine Namen sind gewaltig: Wunderbarer Ratgeber, Starker Gott, Ewiger Vater, Friedefürst.
+> Im Judentum wird dieser Text oft auf König Hiskia bezogen oder auf den kommenden Messias. Die Namen werden dann als Lob Gottes gelesen, der durch dieses Kind handelt. Christen sehen in diesem Kind Jesus Christus (vgl. Matthäus 4,13–16, wo Vers 1–2 zitiert werden). Georg Friedrich Händel hat diese Worte im „Messias“ vertont.
+> Vers 7: Seine Herrschaft bringt Frieden ohne Ende, gegründet auf Recht und Gerechtigkeit.
+
+---
+
+### Seine Hand ist noch ausgestreckt (Vers 8–12)
+
+<sup>8</sup>Der Herr sandte ein Wort gegen Jakob,
+und es fällt auf Israel.
+<sup>9</sup>Das ganze Volk wird es erfahren,
+auch Ephraim und die Bewohner von Samaria,
+die in Hochmut und Stolz des Herzens sagen:
+<sup>10</sup>„Die Ziegelsteine sind eingestürzt,
+aber wir wollen mit behauenen Steinen bauen.
+Die Maulbeerfeigenbäume sind gefällt,
+aber wir wollen Zedern an ihre Stelle setzen.“
+<sup>11</sup>Darum lässt der HERR die Gegner Rezins gegen ihn hoch kommen
+und stachelt seine Feinde auf,
+<sup>12</sup>die Syrer von vorn und die Philister von hinten.
+Sie werden Israel mit offenem Maul verschlingen.
+Bei alledem hat sich sein Zorn nicht abgewendet,
+sondern seine Hand ist noch ausgestreckt.
+
+> **Was bedeutet das?**
+> Nach der großen Hoffnung kehrt Jesaja zurück in die harte Gegenwart. Jetzt geht es um das Nordreich Israel (Ephraim, Samaria).
+> Vers 10: Nach einer Katastrophe sagen die Menschen stolz: Egal! Wir bauen alles noch schöner wieder auf! Sie fragen nicht, warum es passiert ist, und kehren nicht um.
+> Der Satz „Seine Hand ist noch ausgestreckt“ kommt in diesem Kapitel viermal vor wie ein Refrain. Das Gericht ist noch nicht vorbei, weil das Volk nicht umkehrt.
+
+---
+
+### Sie kehren nicht um (Vers 13–17)
+
+<sup>13</sup>Doch das Volk hat sich nicht zu dem bekehrt, der es geschlagen hat,
+und sie haben den HERRN der Heere nicht gesucht.
+<sup>14</sup>Darum wird der HERR von Israel Kopf und Schwanz abhauen,
+Palmzweig und Binse an einem Tag.
+<sup>15</sup>Der Älteste und der Angesehene, das ist der Kopf,
+und der Prophet, der Lügen lehrt, das ist der Schwanz.
+<sup>16</sup>Denn die dieses Volk führen, führen es in die Irre,
+und die von ihnen geführt werden, werden verschlungen.
+<sup>17</sup>Darum wird der Herr sich nicht über ihre jungen Männer freuen,
+und er wird sich nicht über ihre Waisen und Witwen erbarmen,
+denn sie alle sind gottlos und Übeltäter,
+und jeder Mund redet Torheit.
+Bei alledem hat sich sein Zorn nicht abgewendet,
+sondern seine Hand ist noch ausgestreckt.
+
+> **Was bedeutet das?**
+> Vers 14–16: Die Anführer und die Lügenpropheten sind schuld, dass das Volk in die Irre geht. Darum trifft das Gericht zuerst sie.
+> Vers 17: Ein erschreckender Satz: Sogar über Waisen und Witwen, die Gott sonst besonders schützt, erbarmt er sich nicht. So tief ist die Verderbnis im ganzen Volk geworden. Das ist prophetische Sprache, die den Ernst der Lage zeigen soll. Sie hebt nicht auf, dass Gott die Schwachen liebt (Psalm 68,6).
+
+---
+
+### Die Bosheit brennt wie Feuer (Vers 18–21)
+
+<sup>18</sup>Denn die Bosheit brennt wie ein Feuer.
+Sie frisst Dornen und Disteln.
+Ja, sie entzündet das Dickicht des Waldes,
+und es wirbelt in Rauchsäulen empor.
+<sup>19</sup>Durch den Zorn des HERRN der Heere ist das Land verbrannt,
+und das Volk ist wie Brennstoff für das Feuer.
+Keiner schont seinen Bruder.
+<sup>20</sup>Man frisst rechts und bleibt hungrig,
+und man isst links und wird nicht satt.
+Jeder isst das Fleisch seines eigenen Armes:
+<sup>21</sup>Manasse frisst Ephraim, und Ephraim frisst Manasse,
+und beide zusammen sind gegen Juda.
+Bei alledem hat sich sein Zorn nicht abgewendet,
+sondern seine Hand ist noch ausgestreckt.
+
+> **Was bedeutet das?**
+> Vers 18: Die Bosheit selbst ist wie ein Waldbrand. Wer Böses tut, entfacht ein Feuer, das am Ende alle verbrennt.
+> Vers 20–21: Ein Bild für Bürgerkrieg: Die Stämme bekämpfen sich gegenseitig, Manasse gegen Ephraim, Bruder gegen Bruder. Man „frisst“ sich selbst auf. Das ist das schlimmste Unglück eines Volkes.
+
+## Jesaja – Kapitel 10
+#### Assyrien ist nur der Stock in Gottes Hand
+
+---
+
+### Wehe den ungerechten Gesetzgebern (Vers 1–4)
+
+<sup>1</sup>Wehe denen, die ungerechte Gesetze erlassen,
+und den Schreibern, die bedrückende Verordnungen schreiben,
+<sup>2</sup>um die Bedürftigen vom Recht zu verdrängen
+und den Armen meines Volkes ihr Recht zu rauben,
+damit die Witwen ihre Beute werden
+und sie die Waisen ausplündern!
+<sup>3</sup>Was wollt ihr tun am Tag der Heimsuchung,
+bei dem Unheil, das von ferne kommt?
+Zu wem wollt ihr um Hilfe fliehen?
+Wo wollt ihr euren Reichtum lassen?
+<sup>4</sup>Es bleibt ihnen nur, unter den Gefangenen niederzusinken
+und unter den Erschlagenen zu fallen.
+Bei alledem hat sich sein Zorn nicht abgewendet,
+sondern seine Hand ist noch ausgestreckt.
+
+> **Was bedeutet das?**
+> Ein besonders scharfer Vorwurf: Es gibt Menschen, die Gesetze so schreiben, dass die Armen ihr Recht verlieren. Unrecht, das in Gesetze gegossen wird, ist besonders schlimm, weil es „legal“ aussieht.
+> Gott sieht das. Und wenn das Gericht kommt, nützt den Reichen ihr Reichtum nichts.
+
+---
+
+### Wehe Assyrien, dem Hochmütigen (Vers 5–19)
+
+<sup>5</sup>Wehe Assyrien, dem Stock meines Zorns,
+dem Stab, in dessen Hand mein Grimm ist!
+<sup>6</sup>Ich sende ihn gegen ein gottloses Volk,
+und gegen das Volk, das mich zornig macht, gebe ich ihm den Befehl,
+Beute zu machen und Raub zu nehmen
+und es zu zertreten wie Schlamm auf den Straßen.
+<sup>7</sup>Aber er meint es nicht so,
+und sein Herz denkt nicht so,
+sondern in seinem Herzen ist es, zu vernichten
+und nicht wenige Völker auszurotten.
+<sup>8</sup>Denn er sagt: „Sind nicht alle meine Fürsten Könige?
+<sup>9</sup>Ist es Kalno nicht ergangen wie Karkemisch?
+Ist es Hamat nicht ergangen wie Arpad?
+Ist es Samaria nicht ergangen wie Damaskus?
+<sup>10</sup>So wie meine Hand die Königreiche der Götzen gefunden hat,
+deren Bilder zahlreicher waren als die von Jerusalem und Samaria,
+<sup>11</sup>sollte ich nicht mit Jerusalem und seinen Götzen so verfahren,
+wie ich mit Samaria und seinen Götzen verfahren bin?“
+<sup>12</sup>Darum wird es geschehen:
+Wenn der Herr sein ganzes Werk am Berg Zion und an Jerusalem vollendet hat,
+dann werde ich die Frucht des hochmütigen Herzens des Königs von Assyrien heimsuchen
+und den Übermut seiner stolzen Blicke.
+<sup>13</sup>Denn er hat gesagt:
+„Mit der Kraft meiner Hand habe ich es getan
+und mit meiner Weisheit, denn ich bin verständig.
+Ich habe die Grenzen der Völker entfernt
+und ihre Schätze geraubt.
+Wie ein Held habe ich ihre Herrscher gestürzt.
+<sup>14</sup>Meine Hand hat den Reichtum der Völker gefunden wie ein Nest,
+und wie man verlassene Eier sammelt,
+so habe ich die ganze Erde gesammelt.
+Da war keiner, der einen Flügel bewegte
+oder den Schnabel aufsperrte oder piepste.“
+<sup>15</sup>Prahlt etwa die Axt gegen den, der mit ihr haut?
+Brüstet sich die Säge gegen den, der mit ihr sägt?
+Als ob ein Stock den hochheben würde, der ihn hochhebt,
+oder als ob ein Stab den hochheben würde, der nicht aus Holz ist!
+<sup>16</sup>Darum wird der Herr, der HERR der Heere,
+unter seine Fetten Schwindsucht senden,
+und unter seiner Pracht wird ein Brand entfacht werden
+wie ein brennendes Feuer.
+<sup>17</sup>Das Licht Israels wird zum Feuer werden
+und sein Heiliger zur Flamme.
+Es wird seine Dornen und Disteln
+an einem einzigen Tag verbrennen und verzehren.
+<sup>18</sup>Er wird die Pracht seines Waldes und seines fruchtbaren Feldes vernichten,
+Seele und Leib.
+Es wird sein, wie wenn ein Kranker dahinsiecht.
+<sup>19</sup>Der Rest der Bäume seines Waldes wird so gering sein,
+dass ein Kind sie aufschreiben könnte.
+
+> **Was bedeutet das?**
+> Vers 5–6: Gott benutzt Assyrien wie einen Stock, um sein untreues Volk zu strafen.
+> Vers 7–11: Aber Assyrien weiß nichts davon. Es will nur erobern und zerstören. Der assyrische König prahlt: Ich habe Stadt um Stadt erobert (Kalno, Karkemisch, Hamat, Arpad, Damaskus, Samaria). Jerusalem ist als Nächstes dran!
+> Vers 13–14: Er ist stolz: Alles habe ich mit meiner Kraft und Klugheit geschafft. Die Völker waren für mich wie ein Nest voller Eier, ich musste sie nur einsammeln.
+> Vers 15: Jesajas Antwort mit Humor: Kann eine Axt angeben gegenüber dem, der sie benutzt? Assyrien ist nur ein Werkzeug. Es hat keinen Grund, stolz zu sein.
+> Vers 16–19: Darum wird Gott auch Assyrien richten. Das mächtige Reich wird wie ein Wald, der abbrennt. Es bleiben so wenige Bäume, dass ein Kind sie zählen kann.
+> Eine wichtige Botschaft: Keine Weltmacht ist ewig. Wer sich für allmächtig hält, wird fallen.
+
+---
+
+### Ein Rest wird umkehren (Vers 20–27)
+
+<sup>20</sup>An jenem Tag wird es geschehen,
+dass der Rest Israels und die Entronnenen des Hauses Jakob
+sich nicht mehr auf den stützen werden, der sie geschlagen hat,
+sondern sie werden sich in Wahrheit auf den HERRN stützen,
+den Heiligen Israels.
+<sup>21</sup>Ein Rest wird umkehren, der Rest Jakobs,
+zu dem starken Gott.
+<sup>22</sup>Denn auch wenn dein Volk Israel wie der Sand am Meer ist,
+nur ein Rest von ihm wird umkehren.
+Eine Vernichtung ist beschlossen,
+überflutend mit Gerechtigkeit.
+<sup>23</sup>Denn der Herr, der HERR der Heere,
+wird ein volles Ende machen, ein beschlossenes, auf der ganzen Erde.
+<sup>24</sup>Darum spricht der Herr, der HERR der Heere:
+„Mein Volk, das in Zion wohnt,
+fürchte dich nicht vor Assyrien,
+auch wenn er dich mit dem Stock schlägt
+und seinen Stab gegen dich erhebt, wie es Ägypten tat.
+<sup>25</sup>Denn nur noch eine ganz kleine Weile,
+dann ist der Grimm gegen dich zu Ende,
+und mein Zorn wird sich auf seine Vernichtung richten.“
+<sup>26</sup>Der HERR der Heere wird eine Geißel gegen ihn erwecken
+wie bei der Niederlage Midians am Felsen Oreb.
+Sein Stab wird über dem Meer sein,
+und er wird ihn erheben, wie er es gegen Ägypten tat.
+<sup>27</sup>An jenem Tag wird es geschehen,
+dass seine Last von deiner Schulter weicht
+und sein Joch von deinem Nacken,
+und das Joch wird zerbrochen werden wegen des Salböls.
+
+> **Was bedeutet das?**
+> Vers 20–21: „Ein Rest wird umkehren“: Das ist genau der Name von Jesajas Sohn „Schear-Jaschub“ (Kapitel 7,3). Nur wenige werden übrig bleiben. Aber diese wenigen werden sich ganz auf Gott verlassen.
+> Vers 21: „Starker Gott“ ist derselbe Titel wie in Kapitel 9,6.
+> Vers 24–26: Ein Trost für Jerusalem: Fürchtet euch nicht vor Assyrien! Bald ist es vorbei. Gott wird euch befreien wie damals aus Ägypten und von den Midianitern (Richter 7,25).
+> Vers 27: Das schwere Joch wird zerbrochen. „Wegen des Salböls“ ist im Hebräischen schwer zu verstehen. Vielleicht ist der gesalbte König aus dem Haus David gemeint, vielleicht ein Bild für Kraft und Fülle.
+
+---
+
+### Der Feind marschiert auf Jerusalem (Vers 28–34)
+
+<sup>28</sup>Er ist nach Ajat gekommen.
+Er ist durch Migron gezogen.
+In Michmas lagert er sein Gepäck.
+<sup>29</sup>Sie sind über den Pass gezogen.
+In Geba haben sie ihr Nachtlager aufgeschlagen.
+Rama zittert.
+Gibea Sauls ist geflohen.
+<sup>30</sup>Schrei laut mit deiner Stimme, Tochter Gallim!
+Horch, Lajscha! Du armes Anatot!
+<sup>31</sup>Madmena ist auf der Flucht.
+Die Bewohner von Gebim bringen sich in Sicherheit.
+<sup>32</sup>Noch heute wird er in Nob haltmachen.
+Er schüttelt seine Faust gegen den Berg der Tochter Zion,
+den Hügel Jerusalems.
+<sup>33</sup>Siehe, der Herr, der HERR der Heere,
+wird die Äste mit Schrecken abhauen.
+Die Hohen werden gefällt,
+und die Erhabenen werden erniedrigt.
+<sup>34</sup>Er wird das Dickicht des Waldes mit Eisen umhauen,
+und der Libanon wird durch den Mächtigen fallen.
+
+> **Was bedeutet das?**
+> Ein spannender Bericht wie eine Live-Reportage: Das feindliche Heer marschiert von Norden auf Jerusalem zu, Ort für Ort, immer näher. Die Dörfer fliehen in Panik. Schließlich steht der Feind in Nob, direkt vor Jerusalem, und droht mit der Faust.
+> Vers 33–34: Doch dann die Wende: Gott selbst fällt diesen mächtigen „Wald“ wie ein Holzfäller. Der stolze Feind stürzt.
+> Im nächsten Kapitel geht es weiter: Aus dem gefällten Baumstumpf Isais wächst ein neuer Spross (Kapitel 11,1).
