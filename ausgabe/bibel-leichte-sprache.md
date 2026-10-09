@@ -56630,3 +56630,384 @@ Sein Sohn Amazja wurde an seiner Stelle König.
 > Vers 25 sagt „Söhne“ Jojadas in der Mehrzahl. Vielleicht wurden noch weitere Söhne getötet, oder es ist eine allgemeine Ausdrucksweise.
 > Jojada, der Priester, wurde bei den Königen begraben. Joasch, der König, nicht. Was zählt, ist nicht der Titel, sondern wie man gelebt hat.
 > „Die großen Lasten, die ihm auferlegt wurden“: Das kann die Abgaben meinen, die er an Syrien zahlen musste. Das hebräische Wort für „Last“ kann aber auch „Lastspruch“ bedeuten, also eine schwere Botschaft eines Propheten. Dann wären die Prophetenworte gegen ihn gemeint (Vers 19).
+
+## 2. Chronik – Kapitel 25
+#### Amazja und die Götter Edoms
+
+---
+
+### Amazja wird König (Vers 1–4)
+
+<sup>1</sup>Amazja war 25 Jahre alt, als er König wurde,
+und er regierte 29 Jahre in Jerusalem.
+Seine Mutter hieß Joaddan, aus Jerusalem.
+<sup>2</sup>Er tat, was recht war in den Augen des HERRN,
+aber nicht mit ungeteiltem Herzen.
+<sup>3</sup>Als das Königreich in seiner Hand gefestigt war,
+tötete er seine Diener, die seinen Vater, den König, getötet hatten.
+<sup>4</sup>Aber ihre Kinder tötete er nicht,
+sondern handelte nach dem, was im Gesetz, im Buch des Mose, geschrieben steht,
+wie der HERR geboten hatte:
+„Die Väter sollen nicht für die Kinder sterben,
+und die Kinder sollen nicht für die Väter sterben,
+sondern jeder soll für seine eigene Sünde sterben.“
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 2. Könige 14.
+> Amazja regierte etwa von 796 bis 767 vor Christus.
+> Vers 2 fasst sein Leben zusammen: Er tat das Richtige, „aber nicht mit ungeteiltem Herzen“. Er war nur halb bei der Sache. Das wird sich im Lauf des Kapitels zeigen.
+> Vers 4 zitiert 5. Mose 24,16. Das war damals ein großer Fortschritt: Es war üblich, die ganze Familie eines Verräters zu töten. Gottes Gesetz sagt: Jeder ist nur für seine eigene Schuld verantwortlich (vgl. Hesekiel 18,20).
+
+---
+
+### Die gekauften Soldaten aus Israel (Vers 5–10)
+
+<sup>5</sup>Amazja versammelte Juda
+und stellte sie nach ihren Familien auf,
+unter Anführern über Tausend und Anführern über Hundert,
+ganz Juda und Benjamin.
+Er zählte sie, von 20 Jahren an und darüber,
+und fand 300 000 ausgewählte Männer,
+die in den Krieg ziehen konnten
+und mit Speer und Schild umgehen konnten.
+<sup>6</sup>Er warb auch aus Israel 100 000 starke, tapfere Krieger an,
+für 3400 Kilogramm Silber.
+<sup>7</sup>Da kam ein Mann Gottes zu ihm und sagte:
+„König, lass das Heer Israels nicht mit dir ziehen!
+Denn der HERR ist nicht mit Israel,
+mit allen Söhnen Efraims.
+<sup>8</sup>Wenn du aber doch gehst,
+dann handle und sei stark für den Kampf –
+Gott wird dich vor dem Feind zu Fall bringen.
+Denn Gott hat die Macht, zu helfen und zu Fall zu bringen.“
+<sup>9</sup>Amazja sagte zum Mann Gottes:
+„Aber was sollen wir mit den 3400 Kilogramm Silber machen,
+die ich dem Heer Israels gegeben habe?“
+Der Mann Gottes antwortete:
+„Der HERR kann dir viel mehr als das geben.“
+<sup>10</sup>Da sonderte Amazja das Heer, das aus Efraim zu ihm gekommen war, ab,
+damit es wieder nach Hause ging.
+Darum wurden sie sehr zornig auf Juda
+und kehrten in glühendem Zorn nach Hause zurück.
+
+> **Was bedeutet das?**
+> In der Bibel steht „100 Talente Silber“. Ein Talent sind etwa 34 Kilogramm.
+> Amazja kauft sich Soldaten aus dem Nordreich. Der Prophet warnt: Verlass dich nicht auf ein Heer, das Gott nicht dient. „Efraim“ ist hier ein anderer Name für das Nordreich Israel.
+> Amazjas Frage in Vers 9 ist sehr menschlich: „Aber das ganze Geld!“ Die Antwort des Propheten ist eine Glaubenslektion: Gott kann dir viel mehr geben. Manchmal muss man einen Verlust in Kauf nehmen, um das Richtige zu tun.
+> Amazja gehorcht. Das ist gut. Aber es hat Folgen (Vers 13).
+
+---
+
+### Der Krieg gegen Edom (Vers 11–13)
+
+<sup>11</sup>Amazja fasste Mut,
+führte sein Volk hinaus
+und zog ins Salztal.
+Er schlug 10 000 von den Söhnen Seïrs.
+<sup>12</sup>Die Söhne Judas nahmen 10 000 lebend gefangen,
+brachten sie auf die Spitze des Felsens
+und stürzten sie von der Spitze des Felsens hinab,
+sodass sie alle zerschmettert wurden.
+<sup>13</sup>Aber die Männer des Heeres, die Amazja zurückgeschickt hatte,
+damit sie nicht mit ihm in den Kampf zogen,
+fielen über die Städte Judas her,
+von Samaria bis Bet-Horon.
+Sie erschlugen 3000 von ihnen
+und machten viel Beute.
+
+> **Was bedeutet das?**
+> „Söhne Seïrs“ sind die Edomiter. Das Gebirge Seïr lag in Edom, südöstlich vom Toten Meer.
+> Vers 12 berichtet von einer schrecklichen Grausamkeit. Die Bibel lobt das nicht. Sie erzählt nur, was geschah. Gefangene so zu töten, ist ein Verbrechen. Das galt auch damals schon als grausam (vgl. Amos 1,11 und 2,1, wo Gott solche Grausamkeit bei anderen Völkern verurteilt).
+> „Felsen“ heißt auf Hebräisch „Sela“. Vielleicht ist der Ort Sela gemeint, den Amazja nach 2. Könige 14,7 eroberte.
+> Die zornigen Soldaten aus Israel rächen sich an Juda. Wie „Samaria“ in diese Ortsangabe passt, ist schwierig, denn Samaria lag in Israel. Vielleicht ist gemeint: Sie kamen aus Richtung Samaria.
+
+---
+
+### Amazja betet die Götter Edoms an (Vers 14–16)
+
+<sup>14</sup>Nachdem Amazja von der Schlacht gegen die Edomiter zurückgekommen war,
+brachte er die Götter der Söhne Seïrs mit
+und stellte sie als seine Götter auf.
+Er warf sich vor ihnen nieder
+und räucherte ihnen.
+<sup>15</sup>Da entbrannte der Zorn des HERRN gegen Amazja.
+Er schickte einen Propheten zu ihm,
+der zu ihm sagte:
+„Warum hast du die Götter dieses Volkes gesucht,
+die ihr eigenes Volk nicht aus deiner Hand retten konnten?“
+<sup>16</sup>Während er noch mit ihm redete,
+sagte der König zu ihm:
+„Haben wir dich zum Ratgeber des Königs gemacht?
+Hör auf! Warum willst du erschlagen werden?“
+Da hörte der Prophet auf
+und sagte:
+„Ich weiß, dass Gott beschlossen hat, dich zu vernichten,
+weil du das getan hast
+und nicht auf meinen Rat gehört hast.“
+
+> **Was bedeutet das?**
+> Das ist fast unglaublich: Amazja besiegt Edom mit Gottes Hilfe. Und dann betet er die Götter der Besiegten an! Der Prophet zeigt, wie unsinnig das ist: Diese Götter konnten ja nicht einmal ihr eigenes Volk retten.
+> Früher hatte Amazja auf einen Propheten gehört (Vers 10). Jetzt droht er dem Propheten. Das ist das „nicht ungeteilte Herz“ aus Vers 2.
+> Ein Wortspiel: Der König fragt spöttisch „Haben wir dich zum Ratgeber gemacht?“ Der Prophet antwortet: Weil du nicht auf meinen Rat gehört hast, wird Gott dich vernichten.
+
+---
+
+### Amazja fordert Israel heraus (Vers 17–24)
+
+<sup>17</sup>Da beriet sich Amazja, der König von Juda,
+und schickte Boten zu Joasch, dem Sohn des Joahas, des Sohnes Jehus, dem König von Israel,
+und ließ ihm sagen:
+„Komm, wir wollen uns ins Gesicht sehen.“
+<sup>18</sup>Joasch, der König von Israel, schickte zu Amazja, dem König von Juda, und ließ ihm sagen:
+„Die Distel auf dem Libanon schickte zur Zeder auf dem Libanon und ließ ihr sagen:
+‚Gib deine Tochter meinem Sohn zur Frau.‘
+Da lief ein wildes Tier auf dem Libanon vorbei
+und zertrat die Distel.
+<sup>19</sup>Du sagst dir, dass du Edom geschlagen hast,
+und dein Herz erhebt dich, um zu prahlen.
+Bleib jetzt zu Hause.
+Warum willst du das Unglück herausfordern,
+sodass du fällst, du und Juda mit dir?“
+<sup>20</sup>Aber Amazja wollte nicht hören.
+Denn es kam von Gott,
+damit er sie in die Hand ihrer Feinde gab,
+weil sie die Götter Edoms gesucht hatten.
+<sup>21</sup>Da zog Joasch, der König von Israel, herauf.
+Er und Amazja, der König von Juda, sahen sich ins Gesicht
+bei Bet-Schemesch, das zu Juda gehört.
+<sup>22</sup>Juda wurde von Israel geschlagen,
+und jeder floh zu seinem Zelt.
+<sup>23</sup>Joasch, der König von Israel, nahm Amazja, den König von Juda,
+den Sohn des Joasch, des Sohnes des Joahas, bei Bet-Schemesch gefangen
+und brachte ihn nach Jerusalem.
+Er riss die Mauer Jerusalems nieder,
+vom Tor Efraim bis zum Ecktor, etwa 180 Meter.
+<sup>24</sup>Er nahm alles Gold und Silber
+und alle Geräte, die sich im Haus Gottes bei Obed-Edom fanden,
+und die Schätze des Hauses des Königs,
+dazu Geiseln,
+und kehrte nach Samaria zurück.
+
+> **Was bedeutet das?**
+> Vielleicht wollte Amazja sich an Israel rächen, wegen der Überfälle in Vers 13.
+> „Wir wollen uns ins Gesicht sehen“ heißt: Lass uns kämpfen.
+> Joasch antwortet mit einer Fabel: Eine kleine Distel will mit der großen Zeder auf Augenhöhe sein, und wird zertreten. Er meint: Du überschätzt dich.
+> Vers 20 erklärt aus der Sicht der Chronik, warum Amazja nicht hörte: Sein Götzendienst führte ihn ins Verderben.
+> In der Bibel steht „400 Ellen“. Eine Elle sind etwa 45 Zentimeter.
+> „Obed-Edom“: Eine Familie von Torhütern, die die Schätze im Tempel bewachte (1. Chronik 26,15).
+> Vers 23: In der englischen Vorlage steht „Sohn des Joahas“. In 2. Könige 14,13 steht „Sohn Ahasjas“. Joahas und Ahasja sind zwei Namen für denselben König (siehe Kapitel 21,17 und 22,1).
+
+---
+
+### Amazjas Ende (Vers 25–28)
+
+<sup>25</sup>Amazja, der Sohn des Joasch, der König von Juda,
+lebte nach dem Tod des Joasch, des Sohnes des Joahas, des Königs von Israel,
+noch 15 Jahre.
+<sup>26</sup>Die übrige Geschichte Amazjas, die frühere und die spätere,
+schau, steht die nicht geschrieben im Buch der Könige von Juda und Israel?
+<sup>27</sup>Von der Zeit an, als Amazja sich vom HERRN abgewandt hatte,
+verschworen sie sich gegen ihn in Jerusalem.
+Er floh nach Lachisch,
+aber sie schickten ihm Leute nach Lachisch nach
+und töteten ihn dort.
+<sup>28</sup>Sie brachten ihn auf Pferden zurück
+und begruben ihn bei seinen Vätern in der Stadt Judas.
+
+> **Was bedeutet das?**
+> Wie sein Vater Joasch wird auch Amazja ermordet.
+> Die Chronik verbindet die Verschwörung mit seinem Abfall von Gott: Von da an ging alles bergab.
+> Die „Stadt Judas“ ist Jerusalem, die Stadt Davids. In 2. Könige 14,20 heißt es „Stadt Davids“.
+
+## 2. Chronik – Kapitel 26
+#### Usija – stark und dann hochmütig
+
+---
+
+### Usija wird König (Vers 1–5)
+
+<sup>1</sup>Das ganze Volk Judas nahm Usija, der 16 Jahre alt war,
+und machte ihn zum König an der Stelle seines Vaters Amazja.
+<sup>2</sup>Er baute Elat aus
+und brachte es wieder an Juda zurück,
+nachdem der König sich zu seinen Vätern gelegt hatte.
+<sup>3</sup>Usija war 16 Jahre alt, als er König wurde,
+und er regierte 52 Jahre in Jerusalem.
+Seine Mutter hieß Jecholja, aus Jerusalem.
+<sup>4</sup>Er tat, was recht war in den Augen des HERRN,
+ganz so, wie es sein Vater Amazja getan hatte.
+<sup>5</sup>Er richtete sich darauf aus, Gott zu suchen,
+in den Tagen Secharjas,
+der Einsicht hatte in die Gesichte Gottes.
+Und solange er den HERRN suchte,
+ließ Gott es ihm gelingen.
+
+> **Was bedeutet das?**
+> Usija heißt in 2. Könige 14–15 meistens „Asarja“. Beide Namen bedeuten fast dasselbe: „Der HERR ist meine Stärke“ und „Der HERR hilft“.
+> Usija regierte etwa von 792 bis 740 vor Christus, also sehr lange. Ein Teil davon war wohl eine gemeinsame Regierung mit seinem Vater und später mit seinem Sohn.
+> Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist sein Vater Amazja.
+> Secharja war wohl ein Lehrer oder Prophet, der Usija beriet. Er ist nicht derselbe wie der Prophet Sacharja, nach dem ein Buch der Bibel benannt ist. „Gesichte“ sind Visionen, also Botschaften von Gott. Manche alten Handschriften haben „in der Furcht Gottes“.
+> „Solange er den HERRN suchte“: Diese kleinen Worte deuten schon an, dass es nicht so bleiben wird.
+
+---
+
+### Usijas Erfolge (Vers 6–15)
+
+<sup>6</sup>Er zog aus und kämpfte gegen die Philister.
+Er riss die Mauer von Gat, die Mauer von Jabne und die Mauer von Aschdod nieder.
+Und er baute Städte im Gebiet von Aschdod und unter den Philistern.
+<sup>7</sup>Gott half ihm gegen die Philister
+und gegen die Araber, die in Gur-Baal wohnten,
+und gegen die Mëuniter.
+<sup>8</sup>Die Ammoniter gaben Usija Abgaben.
+Sein Name wurde bekannt bis an den Eingang nach Ägypten,
+denn er wurde sehr stark.
+<sup>9</sup>Außerdem baute Usija Türme in Jerusalem,
+am Ecktor, am Taltor und am Winkel
+und befestigte sie.
+<sup>10</sup>Er baute Türme in der Wüste
+und grub viele Zisternen,
+denn er hatte viel Vieh,
+im Hügelland und in der Ebene.
+Er hatte Bauern und Weingärtner in den Bergen und auf dem fruchtbaren Land,
+denn er liebte den Ackerbau.
+<sup>11</sup>Außerdem hatte Usija ein Heer von Kriegsleuten,
+die in Abteilungen in den Krieg zogen,
+nach der Zahl ihrer Musterung,
+die der Schreiber Jëiël und der Beamte Maaseja vorgenommen hatten,
+unter der Leitung Hananjas, eines der Anführer des Königs.
+<sup>12</sup>Die ganze Zahl der Familienoberhäupter,
+der starken, tapferen Krieger,
+war 2600.
+<sup>13</sup>Unter ihrer Leitung stand ein Heer von 307 500 Mann,
+die mit großer Kraft Krieg führten,
+um dem König gegen den Feind zu helfen.
+<sup>14</sup>Usija beschaffte für sie, für das ganze Heer,
+Schilde, Speere, Helme, Panzer, Bogen und Schleudersteine.
+<sup>15</sup>In Jerusalem machte er kunstvolle Geräte,
+die geschickte Männer erfunden hatten.
+Sie sollten auf den Türmen und auf den Zinnen stehen,
+um damit Pfeile und große Steine zu schießen.
+Sein Name wurde weithin bekannt,
+denn ihm wurde wunderbar geholfen,
+bis er stark war.
+
+> **Was bedeutet das?**
+> Unter Usija erlebte Juda eine Blütezeit. Er war erfolgreich im Krieg, beim Bauen und in der Landwirtschaft.
+> Schön ist die kleine Bemerkung in Vers 10: „Er liebte den Ackerbau.“ Ein König, der Freude an Feldern und Weinbergen hat.
+> Die Geräte in Vers 15 waren wohl Schutzvorrichtungen auf den Mauern, hinter denen Bogenschützen und Steinwerfer geschützt kämpfen konnten.
+> Der wichtigste Satz steht am Ende von Vers 15: „Ihm wurde wunderbar geholfen, bis er stark war.“ Usijas Stärke war ein Geschenk Gottes. Aber das vergaß er.
+
+---
+
+### Usijas Hochmut (Vers 16–21)
+
+<sup>16</sup>Aber als er stark war,
+wurde sein Herz hochmütig,
+sodass er verderblich handelte.
+Er wurde dem HERRN, seinem Gott, untreu,
+denn er ging in den Tempel des HERRN,
+um auf dem Räucheraltar Weihrauch zu verbrennen.
+<sup>17</sup>Der Priester Asarja ging hinter ihm her,
+und mit ihm 80 Priester des HERRN, tapfere Männer.
+<sup>18</sup>Sie stellten sich dem König Usija entgegen
+und sagten zu ihm:
+„Es ist nicht deine Sache, Usija, dem HERRN Weihrauch zu verbrennen,
+sondern Sache der Priester, der Söhne Aarons,
+die geweiht sind, Weihrauch zu verbrennen.
+Geh hinaus aus dem Heiligtum,
+denn du bist untreu geworden.
+Es wird dir keine Ehre bringen vor dem HERRN, Gott.“
+<sup>19</sup>Da wurde Usija zornig.
+Er hatte eine Räucherpfanne in der Hand, um Weihrauch zu verbrennen.
+Und während er zornig auf die Priester war,
+brach an seiner Stirn der Aussatz aus,
+vor den Priestern im Haus des HERRN, neben dem Räucheraltar.
+<sup>20</sup>Der oberste Priester Asarja und alle Priester sahen ihn an,
+und schau, er war aussätzig an seiner Stirn.
+Sie trieben ihn schnell von dort hinaus.
+Er selbst beeilte sich auch, hinauszugehen,
+denn der HERR hatte ihn geschlagen.
+<sup>21</sup>So war der König Usija aussätzig bis zum Tag seines Todes.
+Er wohnte in einem abgesonderten Haus, weil er aussätzig war,
+denn er war vom Haus des HERRN ausgeschlossen.
+Sein Sohn Jotam stand dem Haus des Königs vor
+und sprach dem Volk des Landes Recht.
+
+> **Was bedeutet das?**
+> Usija will alles sein: König und Priester. Aber im Gesetz war klar: Nur die Priester aus der Familie Aarons durften im Heiligtum Weihrauch opfern (4. Mose 18,7).
+> Die 80 Priester sind sehr mutig. Sie stellen sich einem mächtigen König in den Weg.
+> „Aussatz“ ist in der Bibel ein Name für verschiedene schwere Hautkrankheiten, nicht nur die heutige Lepra. Wer aussätzig war, musste getrennt leben (3. Mose 13,46).
+> Der König, der in den Tempel eindringen wollte, darf jetzt nie mehr hinein. Das ist die bittere Ironie dieser Geschichte.
+> Die Botschaft: Erfolg kann hochmütig machen. „Hochmut kommt vor dem Fall“ (Sprüche 16,18). Auch große und erfolgreiche Menschen müssen Grenzen achten.
+
+---
+
+### Usijas Tod (Vers 22–23)
+
+<sup>22</sup>Die übrige Geschichte Usijas, die frühere und die spätere,
+hat der Prophet Jesaja, der Sohn des Amoz, aufgeschrieben.
+<sup>23</sup>So legte sich Usija zu seinen Vätern,
+und man begrub ihn bei seinen Vätern
+auf dem Begräbnisfeld, das den Königen gehörte,
+denn man sagte:
+„Er ist aussätzig.“
+Sein Sohn Jotam wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Der Prophet Jesaja lebte zu dieser Zeit. Im Todesjahr Usijas hatte Jesaja seine große Vision im Tempel. Dort sah er den wahren König: Gott selbst auf seinem Thron (Jesaja 6,1–5).
+> Usija wurde neben den Königsgräbern begraben, aber nicht in ihnen, wegen seiner Krankheit.
+> Im 20. Jahrhundert fand man in Jerusalem eine alte Steintafel mit der Aufschrift: „Hierher wurden die Gebeine Usijas, des Königs von Juda, gebracht. Nicht öffnen!“ Sie stammt aus viel späterer Zeit, als seine Gebeine umgebettet wurden. Sie zeigt aber, dass man sich lange an ihn erinnerte.
+
+## 2. Chronik – Kapitel 27
+#### Jotam, ein treuer König
+
+---
+
+### Jotams Regierung (Vers 1–6)
+
+<sup>1</sup>Jotam war 25 Jahre alt, als er König wurde,
+und er regierte 16 Jahre in Jerusalem.
+Seine Mutter hieß Jeruscha, die Tochter Zadoks.
+<sup>2</sup>Er tat, was recht war in den Augen des HERRN,
+ganz so, wie es sein Vater Usija getan hatte.
+Aber er drang nicht in den Tempel des HERRN ein.
+Das Volk handelte jedoch weiterhin verderblich.
+<sup>3</sup>Er baute das obere Tor des Hauses des HERRN,
+und an der Mauer des Ofel baute er viel.
+<sup>4</sup>Außerdem baute er Städte im Bergland Judas,
+und in den Wäldern baute er Burgen und Türme.
+<sup>5</sup>Er kämpfte auch gegen den König der Ammoniter
+und siegte über sie.
+Die Ammoniter gaben ihm in diesem Jahr
+3400 Kilogramm Silber,
+2,2 Millionen Liter Weizen
+und 2,2 Millionen Liter Gerste.
+So viel gaben ihm die Ammoniter auch im zweiten und im dritten Jahr.
+<sup>6</sup>So wurde Jotam mächtig,
+denn er richtete seine Wege aus vor dem HERRN, seinem Gott.
+
+> **Was bedeutet das?**
+> Jotam regierte etwa von 750 bis 735 vor Christus. Einen Teil davon regierte er für seinen kranken Vater (Kapitel 26,21).
+> Vers 2: Jotam war wie sein Vater, aber er machte nicht dessen Fehler. Er drang nicht in den Tempel ein, um selbst zu opfern. Er hatte aus dem Fehler seines Vaters gelernt.
+> „Das Volk handelte jedoch weiterhin verderblich“: Ein guter König allein kann das Herz des Volkes nicht ändern. Zur selben Zeit klagten die Propheten Jesaja und Micha über Ungerechtigkeit und Götzendienst in Juda.
+> Der Ofel ist ein Hügel in Jerusalem zwischen der Stadt Davids und dem Tempel.
+> In der Bibel steht „100 Talente Silber“ und „10 000 Kor“ Weizen und Gerste. Ein Talent sind etwa 34 Kilogramm, ein Kor sind etwa 220 Liter.
+> Vers 6 ist das Geheimnis seines Erfolgs: „Er richtete seine Wege aus vor dem HERRN.“ Er lebte bewusst vor Gott.
+
+---
+
+### Jotams Tod (Vers 7–9)
+
+<sup>7</sup>Die übrige Geschichte Jotams,
+alle seine Kriege und seine Wege,
+schau, sie ist aufgeschrieben im Buch der Könige von Israel und Juda.
+<sup>8</sup>Er war 25 Jahre alt, als er König wurde,
+und er regierte 16 Jahre in Jerusalem.
+<sup>9</sup>Jotam legte sich zu seinen Vätern,
+und man begrub ihn in der Stadt Davids.
+Sein Sohn Ahas wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jotam ist einer der wenigen Könige, über die die Chronik nichts Schlechtes sagt.
+> Vers 8 wiederholt Vers 1. Vielleicht soll damit ein Abschnitt abgeschlossen werden, bevor mit Ahas eine sehr dunkle Zeit beginnt.
