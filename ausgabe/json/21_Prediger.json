@@ -1,0 +1,570 @@
+{
+ "nr": 21,
+ "code": "ECC",
+ "kuerzel": "Pred",
+ "name": "Prediger",
+ "name_englisch": "Ecclesiastes",
+ "testament": "altes-testament",
+ "kapitel": 12,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Alles ist nichtig",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch Prediger?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Prediger heißt auf Hebräisch „Kohelet“. Das bedeutet etwa: „einer, der vor einer Versammlung spricht“. Darum heißt er auf Deutsch „der Prediger“.\nDer Prediger nennt sich „Sohn Davids, König in Jerusalem“. Darum hat man das Buch lange Salomo zugeschrieben. Viele Forscher meinen heute, dass es später geschrieben wurde und Salomo nur als Beispiel für einen reichen, weisen König dient.\nDas Buch ist ungewöhnlich ehrlich. Der Prediger beobachtet das Leben „unter der Sonne“ und fragt: Was bleibt am Ende? Was hat der Mensch von seiner ganzen Mühe?\nSein berühmtes Wort ist „Hevel“. Es bedeutet eigentlich „Hauch“, „Dunst“ oder „Windhauch“: etwas, das da ist und gleich wieder verschwindet. Die englische Vorlage übersetzt es mit „vanity“, Nichtigkeit. Diese Übertragung schreibt darum „nichtig“. Gemeint ist: Alles ist flüchtig, vergänglich, nicht zu greifen.\nDas Buch ist nicht nur traurig. Immer wieder sagt der Prediger: Freu dich an deinem Essen, an deiner Arbeit, an den Menschen, die du liebst. Das ist ein Geschenk Gottes.\nAm Ende steht: „Fürchte Gott und halte seine Gebote“ (Kapitel 12,13).\nDas Buch Prediger ergänzt das Buch der Sprüche. Die Sprüche sagen, wie das Leben meistens läuft. Der Prediger sagt: Aber nicht immer. Und am Ende sterben alle.\nViele Menschen finden in diesem Buch ihre eigenen Fragen wieder. Es zeigt: Auch Zweifel und Fragen haben in der Bibel Platz.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Alles ist nichtig",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem:",
+       "englisch_web": "The words of the Preacher, the son of David, king in Jerusalem:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Nichtigkeit der Nichtigkeiten“, sagt der Prediger,\n„Nichtigkeit der Nichtigkeiten, alles ist nichtig.“",
+       "englisch_web": "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Was gewinnt der Mensch von all seiner Mühe,\nmit der er sich abmüht unter der Sonne?",
+       "englisch_web": "What does man gain from all his labor in which he labors under the sun?"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Eine Generation geht, und eine andere Generation kommt,\naber die Erde bleibt für immer.",
+       "englisch_web": "One generation goes, and another generation comes; but the earth remains forever."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Sonne geht auf, und die Sonne geht unter\nund eilt zurück an ihren Ort, wo sie aufgeht.",
+       "englisch_web": "The sun also rises, and the sun goes down, and hurries to its place where it rises."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Der Wind geht nach Süden und dreht sich nach Norden.\nEr dreht sich immer wieder, während er weht,\nund der Wind kehrt wieder zurück zu seinen Bahnen.",
+       "englisch_web": "The wind goes toward the south, and turns around to the north. It turns around continually as it goes, and the wind returns again to its courses."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Alle Flüsse laufen ins Meer,\nund doch wird das Meer nicht voll.\nAn den Ort, wohin die Flüsse fließen,\ndorthin fließen sie immer wieder.",
+       "englisch_web": "All the rivers run into the sea, yet the sea is not full. To the place where the rivers flow, there they flow again."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Alle Dinge sind voller Mühe, mehr als man sagen kann.\nDas Auge wird nicht satt vom Sehen,\nund das Ohr wird nicht voll vom Hören.",
+       "englisch_web": "All things are full of weariness beyond uttering. The eye is not satisfied with seeing, nor the ear filled with hearing."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Was gewesen ist, das wird wieder sein,\nund was getan worden ist, das wird wieder getan werden.\nEs gibt nichts Neues unter der Sonne.",
+       "englisch_web": "That which has been is that which shall be, and that which has been done is that which shall be done; and there is no new thing under the sun."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Gibt es etwas, von dem man sagen könnte:\n„Siehe, das ist neu“?\nEs war schon längst da, in den Zeiten, die vor uns waren.",
+       "englisch_web": "Is there a thing of which it may be said, “Behold, this is new”? It has been long ago, in the ages which were before us."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Man erinnert sich nicht an die Früheren,\nund auch an die Späteren, die noch kommen werden,\nwird man sich nicht erinnern\nbei denen, die nach ihnen kommen.",
+       "englisch_web": "There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after."
+      }
+     ],
+     "erklaerung": "Vers 2: „Nichtigkeit der Nichtigkeiten“ heißt: Alles ist ganz und gar flüchtig. Im Hebräischen steht „Hevel“, ein Hauch. Wie der Atem an einem kalten Tag: Man sieht ihn kurz, dann ist er weg.\nVers 3: „Unter der Sonne“ ist ein Lieblingsausdruck des Predigers. Er meint: hier auf der Erde, im menschlichen Leben, so wie wir es sehen.\nVers 4–7: Die Natur läuft immer im Kreis: Sonne, Wind, Flüsse. Alles bewegt sich, aber nichts kommt an ein Ziel. Der Mensch kommt und geht, die Erde bleibt.\nVers 9: „Nichts Neues unter der Sonne“ ist ein berühmtes Sprichwort geworden. Die Technik ändert sich, aber die Menschen bleiben gleich: Sie lieben, streiten, hoffen und sterben.\nVers 11: Nach ein paar Generationen weiß niemand mehr, wer wir waren. Ein ernüchternder Gedanke."
+    },
+    {
+     "ueberschrift": "Viel Weisheit, viel Kummer",
+     "vers_von": 12,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Ich, der Prediger, war König über Israel in Jerusalem.",
+       "englisch_web": "I, the Preacher, was king over Israel in Jerusalem."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich richtete mein Herz darauf, mit Weisheit zu suchen und zu erforschen,\nwas alles unter dem Himmel getan wird.\nEs ist eine schwere Last, die Gott den Menschenkindern gegeben hat,\ndamit sie sich damit plagen.",
+       "englisch_web": "I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God has given to the sons of men to be afflicted with."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich habe alle Werke gesehen, die unter der Sonne getan werden,\nund siehe, alles ist nichtig und ein Haschen nach Wind.",
+       "englisch_web": "I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Was krumm ist, kann nicht gerade gemacht werden,\nund was fehlt, kann man nicht zählen.",
+       "englisch_web": "That which is crooked can’t be made straight; and that which is lacking can’t be counted."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich sagte zu mir selbst: „Siehe, ich habe große Weisheit erworben,\nmehr als alle, die vor mir in Jerusalem waren.\nJa, mein Herz hat viel Weisheit und Erkenntnis erfahren.“",
+       "englisch_web": "I said to myself, “Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ich richtete mein Herz darauf, Weisheit zu erkennen\nund Wahnsinn und Torheit zu erkennen.\nIch merkte, dass auch das ein Haschen nach Wind ist.",
+       "englisch_web": "I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Denn wo viel Weisheit ist, da ist viel Kummer,\nund wer Erkenntnis vermehrt, vermehrt Schmerz.",
+       "englisch_web": "For in much wisdom is much grief; and he who increases knowledge increases sorrow."
+      }
+     ],
+     "erklaerung": "Der Prediger hat alles erforscht, mit großer Weisheit. Sein Ergebnis: „Ein Haschen nach Wind.“ Man versucht, den Wind mit den Händen zu fangen, und hat doch nichts in der Hand.\nVers 15: Manches in der Welt ist schief, und wir können es nicht gerade biegen. Das zu akzeptieren, ist auch Weisheit.\nVers 18: Ein überraschender Satz: Je mehr man weiß, desto mehr leidet man. Wer viel weiß, sieht auch viel Leid und Ungerechtigkeit. Unwissenheit kann bequemer sein, aber der Prediger wählt die Ehrlichkeit."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Der große Versuch",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ich versuchte es mit Vergnügen",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ich sagte in meinem Herzen: „Komm, ich will dich mit Freude prüfen.\nDarum genieße das Vergnügen!“\nUnd siehe, auch das war nichtig.",
+       "englisch_web": "I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Über das Lachen sagte ich: „Es ist Torheit“,\nund über die Freude: „Was bringt sie?“",
+       "englisch_web": "I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich forschte in meinem Herzen nach,\nwie ich meinen Leib mit Wein erfreuen könnte,\nwährend mein Herz mich doch mit Weisheit leitete,\nund wie ich die Torheit festhalten könnte,\nbis ich sehen würde, was für die Menschenkinder gut ist,\nwas sie unter dem Himmel tun sollen\nalle Tage ihres Lebens.",
+       "englisch_web": "I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich machte mir große Werke.\nIch baute mir Häuser.\nIch pflanzte mir Weinberge.",
+       "englisch_web": "I made myself great works. I built myself houses. I planted myself vineyards."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich machte mir Gärten und Parks\nund pflanzte darin Bäume mit allerlei Früchten.",
+       "englisch_web": "I made myself gardens and parks, and I planted trees in them of all kinds of fruit."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ich machte mir Wasserteiche,\num damit den Wald zu bewässern, in dem die Bäume wuchsen.",
+       "englisch_web": "I made myself pools of water, to water the forest where trees were grown."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich kaufte Knechte und Mägde\nund hatte Diener, die in meinem Haus geboren waren.\nIch hatte auch großen Besitz an Rindern und Schafen,\nmehr als alle, die vor mir in Jerusalem waren.",
+       "englisch_web": "I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ich sammelte mir auch Silber und Gold\nund die Schätze von Königen und Provinzen.\nIch verschaffte mir Sänger und Sängerinnen\nund die Freuden der Menschenkinder:\nMusikinstrumente aller Art.",
+       "englisch_web": "I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments of all sorts."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "So wurde ich groß und reicher als alle,\ndie vor mir in Jerusalem waren.\nAuch meine Weisheit blieb bei mir.",
+       "englisch_web": "So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Was meine Augen begehrten, das verweigerte ich ihnen nicht.\nIch hielt mein Herz von keiner Freude zurück,\ndenn mein Herz freute sich über all meine Mühe,\nund das war mein Anteil von all meiner Mühe.",
+       "englisch_web": "Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Dann betrachtete ich alle Werke, die meine Hände getan hatten,\nund die Mühe, mit der ich mich abgemüht hatte,\nund siehe, alles war nichtig und ein Haschen nach Wind,\nund es gab keinen Gewinn unter der Sonne.",
+       "englisch_web": "Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun."
+      }
+     ],
+     "erklaerung": "Der Prediger macht ein großes Experiment: Macht Vergnügen glücklich? Er hat alles: Häuser, Gärten, Parks, Teiche, Diener, Herden, Gold, Musik, Wein. Er gönnt sich jeden Wunsch.\nDas Ergebnis: Leere. Es bleibt nichts, was wirklich zählt.\nDas ist bis heute wahr: Viele reiche und berühmte Menschen erzählen, dass Besitz und Erfolg sie nicht glücklich gemacht haben.\nVers 7: Sklaven zu besitzen war damals üblich. Heute wissen wir: Kein Mensch darf einem anderen gehören."
+    },
+    {
+     "ueberschrift": "Der Weise stirbt wie der Tor",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Ich wandte mich, um Weisheit, Wahnsinn und Torheit zu betrachten.\nDenn was kann der Nachfolger des Königs tun?\nNur das, was schon längst getan worden ist.",
+       "englisch_web": "I turned myself to consider wisdom, madness, and folly; for what can the king’s successor do? Just that which has been done long ago."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Da sah ich, dass die Weisheit die Torheit übertrifft,\nso wie das Licht die Finsternis übertrifft.",
+       "englisch_web": "Then I saw that wisdom excels folly, as far as light excels darkness."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Der Weise hat seine Augen im Kopf,\nund der Tor geht in der Finsternis.\nUnd doch erkannte ich, dass alle dasselbe Schicksal trifft.",
+       "englisch_web": "The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da sagte ich in meinem Herzen:\n„Wie es dem Toren geht, so wird es auch mir gehen.\nWarum bin ich dann so viel weiser gewesen?“\nDa sagte ich in meinem Herzen, dass auch das nichtig ist.",
+       "englisch_web": "Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn an den Weisen wie an den Toren\nerinnert man sich nicht für immer,\ndenn in den kommenden Tagen wird alles längst vergessen sein.\nJa, der Weise muss sterben genau wie der Tor!",
+       "englisch_web": "For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Da hasste ich das Leben,\ndenn das Werk, das unter der Sonne getan wird, war mir zuwider,\ndenn alles ist nichtig und ein Haschen nach Wind.",
+       "englisch_web": "So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind."
+      }
+     ],
+     "erklaerung": "Vers 13–14: Weisheit ist besser als Torheit, wie Licht besser ist als Dunkelheit. Das sagt auch der Prediger.\nAber: Am Ende sterben beide, der Weise und der Tor. Und beide werden vergessen.\nVers 17: „Da hasste ich das Leben“: ein erschreckend ehrlicher Satz. Der Prediger verschweigt seine Verzweiflung nicht. Die Bibel hat Platz für solche Gefühle.\nWer selbst so empfindet und das Leben nicht mehr erträgt: Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112."
+    },
+    {
+     "ueberschrift": "Wofür das alles?",
+     "vers_von": 18,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Ich hasste all meine Mühe, mit der ich mich unter der Sonne abgemüht hatte,\nweil ich sie dem Menschen hinterlassen muss, der nach mir kommt.",
+       "englisch_web": "I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wer weiß, ob er ein Weiser oder ein Tor sein wird?\nUnd doch wird er über all meine Mühe herrschen,\nmit der ich mich abgemüht und mich weise gezeigt habe unter der Sonne.\nAuch das ist nichtig.",
+       "englisch_web": "Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Darum fing ich an, mein Herz verzweifeln zu lassen\nüber all die Mühe, mit der ich mich unter der Sonne abgemüht hatte.",
+       "englisch_web": "Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn da ist ein Mensch, der mit Weisheit, Erkenntnis und Geschick arbeitet,\nund doch muss er es als Anteil einem Menschen hinterlassen,\nder sich nicht dafür abgemüht hat.\nAuch das ist nichtig und ein großes Übel.",
+       "englisch_web": "For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Denn was hat der Mensch von all seiner Mühe\nund vom Streben seines Herzens,\nmit dem er sich unter der Sonne abmüht?",
+       "englisch_web": "For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun?"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Denn alle seine Tage sind Schmerzen,\nund seine Arbeit ist Kummer.\nJa, sogar in der Nacht findet sein Herz keine Ruhe.\nAuch das ist nichtig.",
+       "englisch_web": "For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity."
+      }
+     ],
+     "erklaerung": "Der Prediger ärgert sich: Ich habe mein Leben lang gearbeitet und alles klug aufgebaut. Und wer bekommt es nach meinem Tod? Vielleicht ein Dummkopf, der alles verschleudert.\nVers 23: Er beschreibt, was viele Menschen kennen: Stress, Sorgen, schlaflose Nächte wegen der Arbeit. Und am Ende fragt man sich: Wofür?"
+    },
+    {
+     "ueberschrift": "Essen, trinken und sich freuen",
+     "vers_von": 24,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Es gibt nichts Besseres für den Menschen,\nals dass er isst und trinkt\nund seine Seele Gutes genießen lässt bei seiner Mühe.\nAuch das sah ich, dass es aus der Hand Gottes kommt.",
+       "englisch_web": "There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Denn wer kann essen, oder wer kann genießen, mehr als ich?",
+       "englisch_web": "For who can eat, or who can have enjoyment, more than I?"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Denn dem Menschen, der ihm gefällt,\ngibt Gott Weisheit, Erkenntnis und Freude.\nAber dem Sünder gibt er die Mühe, zu sammeln und anzuhäufen,\num es dem zu geben, der Gott gefällt.\nAuch das ist nichtig und ein Haschen nach Wind.",
+       "englisch_web": "For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind."
+      }
+     ],
+     "erklaerung": "Nach aller Verzweiflung kommt eine überraschende Wende: Genieße das Einfache! Essen, Trinken, Freude an der Arbeit. Das ist kein Lohn, den man sich verdient, sondern ein Geschenk aus Gottes Hand.\nDas ist ein Grundgedanke des Buches: Wir können das Leben nicht festhalten oder ganz verstehen. Aber wir können die guten Momente dankbar aus Gottes Hand annehmen."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Alles hat seine Zeit",
+   "abschnitte": [
+    {
+     "ueberschrift": "Eine Zeit für alles",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Alles hat seine Zeit,\nund es gibt eine Zeit für jedes Vorhaben unter dem Himmel:",
+       "englisch_web": "For everything there is a season, and a time for every purpose under heaven:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "eine Zeit zum Geborenwerden und eine Zeit zum Sterben,\neine Zeit zum Pflanzen und eine Zeit zum Ausreißen des Gepflanzten,",
+       "englisch_web": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "eine Zeit zum Töten und eine Zeit zum Heilen,\neine Zeit zum Niederreißen und eine Zeit zum Aufbauen,",
+       "englisch_web": "a time to kill, and a time to heal; a time to break down, and a time to build up;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "eine Zeit zum Weinen und eine Zeit zum Lachen,\neine Zeit zum Klagen und eine Zeit zum Tanzen,",
+       "englisch_web": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "eine Zeit, Steine wegzuwerfen, und eine Zeit, Steine zu sammeln,\neine Zeit zum Umarmen und eine Zeit, sich vom Umarmen fernzuhalten,",
+       "englisch_web": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "eine Zeit zum Suchen und eine Zeit zum Verlieren,\neine Zeit zum Behalten und eine Zeit zum Wegwerfen,",
+       "englisch_web": "a time to seek, and a time to lose; a time to keep, and a time to cast away;"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "eine Zeit zum Zerreißen und eine Zeit zum Nähen,\neine Zeit zum Schweigen und eine Zeit zum Reden,",
+       "englisch_web": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "eine Zeit zum Lieben und eine Zeit zum Hassen,\neine Zeit für den Krieg und eine Zeit für den Frieden.",
+       "englisch_web": "a time to love, and a time to hate; a time for war, and a time for peace."
+      }
+     ],
+     "erklaerung": "Das ist einer der bekanntesten Texte der Bibel. Er wird oft bei Beerdigungen, Hochzeiten und Geburtstagen vorgelesen.\nEs sind 14 Gegensatzpaare, immer zwei Gegensätze in einer Zeile. Sie umfassen das ganze Leben: von der Geburt bis zum Tod, von Weinen bis Lachen, von Krieg bis Frieden.\nDie Botschaft: Das Leben hat Rhythmen. Nicht alles ist zu jeder Zeit richtig. Es gibt eine Zeit zum Trauern und eine Zeit zum Feiern. Weise ist, wer erkennt, was jetzt dran ist.\nVers 3 und 8: „Eine Zeit zum Töten“, „eine Zeit zum Hassen“, „eine Zeit für den Krieg“: Der Prediger beschreibt, was in der Welt geschieht, auch das Schreckliche. Er sagt nicht, dass Töten oder Hass gut sind. Bemerkenswert ist: Die Liste endet mit „Frieden“.\nVers 5: „Steine wegwerfen und sammeln“: Vielleicht ist gemeint, ein Feld von Steinen zu befreien und Steine für ein Haus zu sammeln. Manche Ausleger denken auch an Zärtlichkeit, denn die nächste Zeile spricht vom Umarmen.\nVers 7: „Eine Zeit zum Zerreißen“: Bei einem Todesfall zerriss man vor Trauer seine Kleider. Später näht man sie wieder zusammen, wenn die Trauerzeit vorbei ist."
+    },
+    {
+     "ueberschrift": "Die Ewigkeit im Herzen",
+     "vers_von": 9,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Welchen Gewinn hat der, der arbeitet,\nvon dem, womit er sich abmüht?",
+       "englisch_web": "What profit has he who works in that in which he labors?"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich habe die Last gesehen, die Gott den Menschenkindern gegeben hat,\ndamit sie sich damit plagen.",
+       "englisch_web": "I have seen the burden which God has given to the sons of men to be afflicted with."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er hat alles schön gemacht zu seiner Zeit.\nEr hat auch die Ewigkeit in ihr Herz gelegt,\ndoch so, dass der Mensch das Werk, das Gott tut,\nvom Anfang bis zum Ende nicht ergründen kann.",
+       "englisch_web": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Ich weiß, dass es nichts Besseres für sie gibt,\nals sich zu freuen und Gutes zu tun, solange sie leben.",
+       "englisch_web": "I know that there is nothing better for them than to rejoice, and to do good as long as they live."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Und auch dass jeder Mensch isst und trinkt\nund Gutes genießt bei all seiner Mühe,\ndas ist ein Geschenk Gottes.",
+       "englisch_web": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich weiß, dass alles, was Gott tut, für immer sein wird.\nMan kann nichts hinzufügen und nichts davon wegnehmen.\nGott hat es so gemacht, damit die Menschen sich vor ihm fürchten.",
+       "englisch_web": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Was ist, das war schon längst,\nund was sein wird, ist schon längst gewesen.\nGott sucht wieder das, was vergangen ist.",
+       "englisch_web": "That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away."
+      }
+     ],
+     "erklaerung": "Vers 11 ist einer der tiefsten Sätze der Bibel: Gott hat „die Ewigkeit in das Herz der Menschen gelegt“. Darum sind wir nie ganz zufrieden mit dem, was vergeht. Wir sehnen uns nach etwas, das bleibt. Aber wir können Gottes großen Plan nicht ganz verstehen.\nAugustinus, ein großer Kirchenlehrer, sagte später: „Unruhig ist unser Herz, bis es ruht in dir, o Gott.“\nVers 12–13: Die Antwort des Predigers: sich freuen, Gutes tun, das Leben dankbar genießen. Es ist ein Geschenk Gottes.\nVers 15: „Gott sucht das Vergangene“: Bei Gott geht nichts verloren. Er vergisst nichts."
+    },
+    {
+     "ueberschrift": "Mensch und Tier",
+     "vers_von": 16,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Außerdem sah ich unter der Sonne:\nAn der Stätte des Rechts, da war Gottlosigkeit,\nund an der Stätte der Gerechtigkeit, da war Gottlosigkeit.",
+       "englisch_web": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ich sagte in meinem Herzen:\n„Gott wird den Gerechten und den Gottlosen richten,\ndenn dort gibt es eine Zeit für jedes Vorhaben und für jedes Werk.“",
+       "englisch_web": "I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Ich sagte in meinem Herzen:\n„Was die Menschenkinder angeht, so prüft Gott sie,\ndamit sie sehen, dass sie selbst wie Tiere sind.",
+       "englisch_web": "I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn was den Menschenkindern widerfährt, das widerfährt auch den Tieren.\nJa, das Gleiche widerfährt ihnen.\nWie das eine stirbt, so stirbt das andere.\nJa, sie haben alle einen Atem,\nund der Mensch hat keinen Vorzug vor dem Tier,\ndenn alles ist nichtig.",
+       "englisch_web": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals, for all is vanity."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Alle gehen an einen Ort.\nAlle sind aus dem Staub,\nund alle kehren wieder zum Staub zurück.",
+       "englisch_web": "All go to one place. All are from the dust, and all turn to dust again."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Wer kennt den Geist des Menschen, ob er nach oben steigt,\nund den Geist des Tieres, ob er hinab zur Erde fährt?“",
+       "englisch_web": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Darum sah ich, dass es nichts Besseres gibt,\nals dass der Mensch sich an seinen Werken freut,\ndenn das ist sein Anteil.\nDenn wer kann ihn dahin bringen, zu sehen,\nwas nach ihm sein wird?",
+       "englisch_web": "Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him?"
+      }
+     ],
+     "erklaerung": "Vers 16: Sogar in den Gerichten gibt es Unrecht. Das sieht der Prediger mit Schmerz.\nVers 17: Aber er glaubt: Gott wird am Ende gerecht richten.\nVers 18–21: Ein harter Gedanke: Mensch und Tier sterben auf die gleiche Weise. Beide kommen aus dem Staub und werden wieder zu Staub (vgl. 1. Mose 3,19). Der Prediger fragt ehrlich: Wer weiß, was nach dem Tod kommt?\nEr hat darauf keine sichere Antwort. Andere Teile der Bibel sprechen später deutlicher von einer Hoffnung über den Tod hinaus (zum Beispiel Daniel 12,2). Christen glauben an die Auferstehung durch Jesus Christus.\nVers 22: Da wir nicht wissen, was danach kommt, sollen wir uns jetzt an unserem Leben und unserer Arbeit freuen."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Zwei sind besser als einer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Tränen der Unterdrückten",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Dann wandte ich mich um und sah alle Unterdrückung,\ndie unter der Sonne geschieht:\nUnd siehe, die Tränen der Unterdrückten,\nund sie hatten keinen Tröster.\nAuf der Seite ihrer Unterdrücker war Macht,\naber sie hatten keinen Tröster.",
+       "englisch_web": "Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Darum pries ich die Toten, die schon lange tot sind,\nmehr als die Lebenden, die noch leben.",
+       "englisch_web": "Therefore I praised the dead who have been long dead more than the living who are yet alive."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ja, besser als beide ist der, der noch nicht gewesen ist,\nder das böse Werk nicht gesehen hat,\ndas unter der Sonne getan wird.",
+       "englisch_web": "Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun."
+      }
+     ],
+     "erklaerung": "Der Prediger sieht das Leid der Unterdrückten. Zweimal sagt er: „Sie hatten keinen Tröster.“ Niemand hilft ihnen.\nVers 2–3: Aus Verzweiflung über so viel Leid sagt er: Den Toten geht es besser, und am besten wäre es, nie geboren zu sein. Das ist ein Ausdruck tiefer Trauer über die Ungerechtigkeit der Welt, wie bei Hiob (Hiob 3). Es ist keine Aufforderung, sein Leben zu beenden.\nDie Bibel antwortet an anderer Stelle auf diesen Schrei: Gott selbst will der Tröster der Unterdrückten sein (Jesaja 40,1; 2. Korinther 1,3–4). Und wir sollen für andere zu Tröstern werden.\nWer verzweifelt ist: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, rund um die Uhr."
+    },
+    {
+     "ueberschrift": "Neid und Ruhe",
+     "vers_von": 4,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Dann sah ich alle Mühe und allen Erfolg,\ndass es der Neid des einen gegen den anderen ist.\nAuch das ist nichtig und ein Haschen nach Wind.",
+       "englisch_web": "Then I saw all the labor and achievement that is the envy of a man’s neighbor. This also is vanity and a striving after wind."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Der Tor faltet seine Hände\nund richtet sich selbst zugrunde.",
+       "englisch_web": "The fool folds his hands together and ruins himself."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Besser eine Handvoll mit Ruhe\nals zwei Handvoll mit Mühe und Haschen nach Wind.",
+       "englisch_web": "Better is a handful, with quietness, than two handfuls with labor and chasing after wind."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Dann wandte ich mich um und sah Nichtigkeit unter der Sonne.",
+       "englisch_web": "Then I returned and saw vanity under the sun."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Da ist einer, der allein ist,\nund er hat weder Sohn noch Bruder.\nDoch seine Mühe hat kein Ende,\nund seine Augen werden vom Reichtum nicht satt.\n„Für wen mühe ich mich denn ab\nund versage meiner Seele die Freude?“\nAuch das ist nichtig.\nJa, es ist eine elende Sache.",
+       "englisch_web": "There is one who is alone, and he has neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. “For whom then do I labor and deprive my soul of enjoyment?” This also is vanity. Yes, it is a miserable business."
+      }
+     ],
+     "erklaerung": "Vers 4: Viel Arbeit und Erfolg entstehen aus Konkurrenz und Neid: Man will besser sein als der Nachbar. Das macht nicht glücklich.\nVers 5–6: Zwei Extreme: Der Faule tut nichts und geht zugrunde. Der Gestresste arbeitet mit beiden Händen und hat keine Ruhe. Die Mitte ist besser: eine Hand voll, aber mit Ruhe.\nVers 8: Ein trauriges Bild: Ein Mensch arbeitet und arbeitet, wird immer reicher, aber er ist ganz allein. Für wen eigentlich? Er gönnt sich selbst nichts und hat niemanden, mit dem er teilen kann."
+    },
+    {
+     "ueberschrift": "Zwei sind besser als einer",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Zwei sind besser als einer,\ndenn sie haben einen guten Lohn für ihre Mühe.",
+       "englisch_web": "Two are better than one, because they have a good reward for their labor."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Denn wenn sie fallen, hilft der eine seinem Gefährten auf.\nAber wehe dem, der allein ist, wenn er fällt,\nund es ist kein anderer da, der ihm aufhilft.",
+       "englisch_web": "For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn’t have another to lift him up."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Auch wenn zwei beieinanderliegen, wird ihnen warm.\nAber wie soll einer allein warm werden?",
+       "englisch_web": "Again, if two lie together, then they have warmth; but how can one keep warm alone?"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wenn jemand den einen überwältigt,\nso werden zwei ihm widerstehen.\nUnd eine dreifache Schnur reißt nicht so schnell.",
+       "englisch_web": "If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken."
+      }
+     ],
+     "erklaerung": "Ein wunderschöner Text über Gemeinschaft und Freundschaft. Er wird oft bei Hochzeiten gelesen.\nZu zweit ist man stärker: Man hilft sich auf, wärmt sich, schützt sich.\nVers 12: „Eine dreifache Schnur“: Drei Fäden zusammengedreht sind viel stärker als einer. Bei Hochzeiten sagt man oft: Die dritte Schnur ist Gott, der das Paar zusammenhält.\nDieser Text ist ein Trost für alle, die Gemeinschaft haben, und eine Einladung an alle, die einsam sind: Suche Menschen, die mit dir gehen. Und sei selbst für andere da."
+    },
+    {
+     "ueberschrift": "Der junge und der alte König",
+     "vers_von": 13,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Besser ein armer und weiser junger Mann\nals ein alter und törichter König,\nder sich nicht mehr warnen lassen will.",
+       "englisch_web": "Better is a poor and wise youth than an old and foolish king who doesn’t know how to receive admonition any more."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Denn aus dem Gefängnis kam er heraus, um König zu werden.\nJa, sogar in seinem Königreich war er arm geboren worden.",
+       "englisch_web": "For out of prison he came out to be king; yes, even in his kingdom he was born poor."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ich sah alle Lebenden, die unter der Sonne gehen,\ndass sie bei dem jungen Mann waren, dem anderen,\nder an seine Stelle trat.",
+       "englisch_web": "I saw all the living who walk under the sun, that they were with the youth, the other, who succeeded him."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Es gab kein Ende all des Volkes,\nall derer, über die er gesetzt war.\nUnd doch werden die, die danach kommen, sich nicht über ihn freuen.\nGewiss, auch das ist nichtig und ein Haschen nach Wind.",
+       "englisch_web": "There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind."
+      }
+     ],
+     "erklaerung": "Eine kleine Geschichte: Ein alter König hört auf niemanden mehr. Ein armer junger Mann, der sogar im Gefängnis war, wird an seiner Stelle König. Alle jubeln ihm zu.\nAber auch seine Beliebtheit hält nicht ewig. Die nächste Generation hat ihn schon vergessen.\nRuhm und Beliebtheit sind flüchtig. Auch das ist „ein Haschen nach Wind“."
+    }
+   ]
+  }
+ ]
+}

@@ -82026,3 +82026,415 @@ Ihre Werke sollen sie in den Toren loben!
 > **Weisheit für alle:** Das Buch spricht oft „meinen Sohn“ an. Aber es endet mit dem Lob einer klugen, starken Frau. Weisheit ist für alle da.
 > **Christus, die Weisheit:** Christen sehen in der Weisheit, die bei der Schöpfung dabei war (Kapitel 8), einen Hinweis auf Christus (1. Korinther 1,24.30). Juden sehen darin die Tora, Gottes Weisung.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Prediger (hebräisch Kohelet). Es stellt die großen Fragen: Was bleibt vom Leben? „Es ist alles Hauch und Windhauch.“ Es ist ein ehrliches, nachdenkliches Buch, das die Sprüche ergänzt.
+
+
+---
+
+# Prediger
+
+## Prediger – Kapitel 1
+#### Alles ist nichtig
+
+---
+
+### Bevor es losgeht: Was ist das Buch Prediger?
+
+Das Buch Prediger heißt auf Hebräisch „Kohelet“. Das bedeutet etwa: „einer, der vor einer Versammlung spricht“. Darum heißt er auf Deutsch „der Prediger“.
+Der Prediger nennt sich „Sohn Davids, König in Jerusalem“. Darum hat man das Buch lange Salomo zugeschrieben. Viele Forscher meinen heute, dass es später geschrieben wurde und Salomo nur als Beispiel für einen reichen, weisen König dient.
+Das Buch ist ungewöhnlich ehrlich. Der Prediger beobachtet das Leben „unter der Sonne“ und fragt: Was bleibt am Ende? Was hat der Mensch von seiner ganzen Mühe?
+Sein berühmtes Wort ist „Hevel“. Es bedeutet eigentlich „Hauch“, „Dunst“ oder „Windhauch“: etwas, das da ist und gleich wieder verschwindet. Die englische Vorlage übersetzt es mit „vanity“, Nichtigkeit. Diese Übertragung schreibt darum „nichtig“. Gemeint ist: Alles ist flüchtig, vergänglich, nicht zu greifen.
+Das Buch ist nicht nur traurig. Immer wieder sagt der Prediger: Freu dich an deinem Essen, an deiner Arbeit, an den Menschen, die du liebst. Das ist ein Geschenk Gottes.
+Am Ende steht: „Fürchte Gott und halte seine Gebote“ (Kapitel 12,13).
+Das Buch Prediger ergänzt das Buch der Sprüche. Die Sprüche sagen, wie das Leben meistens läuft. Der Prediger sagt: Aber nicht immer. Und am Ende sterben alle.
+Viele Menschen finden in diesem Buch ihre eigenen Fragen wieder. Es zeigt: Auch Zweifel und Fragen haben in der Bibel Platz.
+
+---
+
+### Alles ist nichtig (Vers 1–11)
+
+<sup>1</sup>Die Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem:
+<sup>2</sup>„Nichtigkeit der Nichtigkeiten“, sagt der Prediger,
+„Nichtigkeit der Nichtigkeiten, alles ist nichtig.“
+<sup>3</sup>Was gewinnt der Mensch von all seiner Mühe,
+mit der er sich abmüht unter der Sonne?
+<sup>4</sup>Eine Generation geht, und eine andere Generation kommt,
+aber die Erde bleibt für immer.
+<sup>5</sup>Die Sonne geht auf, und die Sonne geht unter
+und eilt zurück an ihren Ort, wo sie aufgeht.
+<sup>6</sup>Der Wind geht nach Süden und dreht sich nach Norden.
+Er dreht sich immer wieder, während er weht,
+und der Wind kehrt wieder zurück zu seinen Bahnen.
+<sup>7</sup>Alle Flüsse laufen ins Meer,
+und doch wird das Meer nicht voll.
+An den Ort, wohin die Flüsse fließen,
+dorthin fließen sie immer wieder.
+<sup>8</sup>Alle Dinge sind voller Mühe, mehr als man sagen kann.
+Das Auge wird nicht satt vom Sehen,
+und das Ohr wird nicht voll vom Hören.
+<sup>9</sup>Was gewesen ist, das wird wieder sein,
+und was getan worden ist, das wird wieder getan werden.
+Es gibt nichts Neues unter der Sonne.
+<sup>10</sup>Gibt es etwas, von dem man sagen könnte:
+„Siehe, das ist neu“?
+Es war schon längst da, in den Zeiten, die vor uns waren.
+<sup>11</sup>Man erinnert sich nicht an die Früheren,
+und auch an die Späteren, die noch kommen werden,
+wird man sich nicht erinnern
+bei denen, die nach ihnen kommen.
+
+> **Was bedeutet das?**
+> Vers 2: „Nichtigkeit der Nichtigkeiten“ heißt: Alles ist ganz und gar flüchtig. Im Hebräischen steht „Hevel“, ein Hauch. Wie der Atem an einem kalten Tag: Man sieht ihn kurz, dann ist er weg.
+> Vers 3: „Unter der Sonne“ ist ein Lieblingsausdruck des Predigers. Er meint: hier auf der Erde, im menschlichen Leben, so wie wir es sehen.
+> Vers 4–7: Die Natur läuft immer im Kreis: Sonne, Wind, Flüsse. Alles bewegt sich, aber nichts kommt an ein Ziel. Der Mensch kommt und geht, die Erde bleibt.
+> Vers 9: „Nichts Neues unter der Sonne“ ist ein berühmtes Sprichwort geworden. Die Technik ändert sich, aber die Menschen bleiben gleich: Sie lieben, streiten, hoffen und sterben.
+> Vers 11: Nach ein paar Generationen weiß niemand mehr, wer wir waren. Ein ernüchternder Gedanke.
+
+---
+
+### Viel Weisheit, viel Kummer (Vers 12–18)
+
+<sup>12</sup>Ich, der Prediger, war König über Israel in Jerusalem.
+<sup>13</sup>Ich richtete mein Herz darauf, mit Weisheit zu suchen und zu erforschen,
+was alles unter dem Himmel getan wird.
+Es ist eine schwere Last, die Gott den Menschenkindern gegeben hat,
+damit sie sich damit plagen.
+<sup>14</sup>Ich habe alle Werke gesehen, die unter der Sonne getan werden,
+und siehe, alles ist nichtig und ein Haschen nach Wind.
+<sup>15</sup>Was krumm ist, kann nicht gerade gemacht werden,
+und was fehlt, kann man nicht zählen.
+<sup>16</sup>Ich sagte zu mir selbst: „Siehe, ich habe große Weisheit erworben,
+mehr als alle, die vor mir in Jerusalem waren.
+Ja, mein Herz hat viel Weisheit und Erkenntnis erfahren.“
+<sup>17</sup>Ich richtete mein Herz darauf, Weisheit zu erkennen
+und Wahnsinn und Torheit zu erkennen.
+Ich merkte, dass auch das ein Haschen nach Wind ist.
+<sup>18</sup>Denn wo viel Weisheit ist, da ist viel Kummer,
+und wer Erkenntnis vermehrt, vermehrt Schmerz.
+
+> **Was bedeutet das?**
+> Der Prediger hat alles erforscht, mit großer Weisheit. Sein Ergebnis: „Ein Haschen nach Wind.“ Man versucht, den Wind mit den Händen zu fangen, und hat doch nichts in der Hand.
+> Vers 15: Manches in der Welt ist schief, und wir können es nicht gerade biegen. Das zu akzeptieren, ist auch Weisheit.
+> Vers 18: Ein überraschender Satz: Je mehr man weiß, desto mehr leidet man. Wer viel weiß, sieht auch viel Leid und Ungerechtigkeit. Unwissenheit kann bequemer sein, aber der Prediger wählt die Ehrlichkeit.
+
+## Prediger – Kapitel 2
+#### Der große Versuch
+
+---
+
+### Ich versuchte es mit Vergnügen (Vers 1–11)
+
+<sup>1</sup>Ich sagte in meinem Herzen: „Komm, ich will dich mit Freude prüfen.
+Darum genieße das Vergnügen!“
+Und siehe, auch das war nichtig.
+<sup>2</sup>Über das Lachen sagte ich: „Es ist Torheit“,
+und über die Freude: „Was bringt sie?“
+<sup>3</sup>Ich forschte in meinem Herzen nach,
+wie ich meinen Leib mit Wein erfreuen könnte,
+während mein Herz mich doch mit Weisheit leitete,
+und wie ich die Torheit festhalten könnte,
+bis ich sehen würde, was für die Menschenkinder gut ist,
+was sie unter dem Himmel tun sollen
+alle Tage ihres Lebens.
+<sup>4</sup>Ich machte mir große Werke.
+Ich baute mir Häuser.
+Ich pflanzte mir Weinberge.
+<sup>5</sup>Ich machte mir Gärten und Parks
+und pflanzte darin Bäume mit allerlei Früchten.
+<sup>6</sup>Ich machte mir Wasserteiche,
+um damit den Wald zu bewässern, in dem die Bäume wuchsen.
+<sup>7</sup>Ich kaufte Knechte und Mägde
+und hatte Diener, die in meinem Haus geboren waren.
+Ich hatte auch großen Besitz an Rindern und Schafen,
+mehr als alle, die vor mir in Jerusalem waren.
+<sup>8</sup>Ich sammelte mir auch Silber und Gold
+und die Schätze von Königen und Provinzen.
+Ich verschaffte mir Sänger und Sängerinnen
+und die Freuden der Menschenkinder:
+Musikinstrumente aller Art.
+<sup>9</sup>So wurde ich groß und reicher als alle,
+die vor mir in Jerusalem waren.
+Auch meine Weisheit blieb bei mir.
+<sup>10</sup>Was meine Augen begehrten, das verweigerte ich ihnen nicht.
+Ich hielt mein Herz von keiner Freude zurück,
+denn mein Herz freute sich über all meine Mühe,
+und das war mein Anteil von all meiner Mühe.
+<sup>11</sup>Dann betrachtete ich alle Werke, die meine Hände getan hatten,
+und die Mühe, mit der ich mich abgemüht hatte,
+und siehe, alles war nichtig und ein Haschen nach Wind,
+und es gab keinen Gewinn unter der Sonne.
+
+> **Was bedeutet das?**
+> Der Prediger macht ein großes Experiment: Macht Vergnügen glücklich? Er hat alles: Häuser, Gärten, Parks, Teiche, Diener, Herden, Gold, Musik, Wein. Er gönnt sich jeden Wunsch.
+> Das Ergebnis: Leere. Es bleibt nichts, was wirklich zählt.
+> Das ist bis heute wahr: Viele reiche und berühmte Menschen erzählen, dass Besitz und Erfolg sie nicht glücklich gemacht haben.
+> Vers 7: Sklaven zu besitzen war damals üblich. Heute wissen wir: Kein Mensch darf einem anderen gehören.
+
+---
+
+### Der Weise stirbt wie der Tor (Vers 12–17)
+
+<sup>12</sup>Ich wandte mich, um Weisheit, Wahnsinn und Torheit zu betrachten.
+Denn was kann der Nachfolger des Königs tun?
+Nur das, was schon längst getan worden ist.
+<sup>13</sup>Da sah ich, dass die Weisheit die Torheit übertrifft,
+so wie das Licht die Finsternis übertrifft.
+<sup>14</sup>Der Weise hat seine Augen im Kopf,
+und der Tor geht in der Finsternis.
+Und doch erkannte ich, dass alle dasselbe Schicksal trifft.
+<sup>15</sup>Da sagte ich in meinem Herzen:
+„Wie es dem Toren geht, so wird es auch mir gehen.
+Warum bin ich dann so viel weiser gewesen?“
+Da sagte ich in meinem Herzen, dass auch das nichtig ist.
+<sup>16</sup>Denn an den Weisen wie an den Toren
+erinnert man sich nicht für immer,
+denn in den kommenden Tagen wird alles längst vergessen sein.
+Ja, der Weise muss sterben genau wie der Tor!
+<sup>17</sup>Da hasste ich das Leben,
+denn das Werk, das unter der Sonne getan wird, war mir zuwider,
+denn alles ist nichtig und ein Haschen nach Wind.
+
+> **Was bedeutet das?**
+> Vers 13–14: Weisheit ist besser als Torheit, wie Licht besser ist als Dunkelheit. Das sagt auch der Prediger.
+> Aber: Am Ende sterben beide, der Weise und der Tor. Und beide werden vergessen.
+> Vers 17: „Da hasste ich das Leben“: ein erschreckend ehrlicher Satz. Der Prediger verschweigt seine Verzweiflung nicht. Die Bibel hat Platz für solche Gefühle.
+> Wer selbst so empfindet und das Leben nicht mehr erträgt: Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+---
+
+### Wofür das alles? (Vers 18–23)
+
+<sup>18</sup>Ich hasste all meine Mühe, mit der ich mich unter der Sonne abgemüht hatte,
+weil ich sie dem Menschen hinterlassen muss, der nach mir kommt.
+<sup>19</sup>Wer weiß, ob er ein Weiser oder ein Tor sein wird?
+Und doch wird er über all meine Mühe herrschen,
+mit der ich mich abgemüht und mich weise gezeigt habe unter der Sonne.
+Auch das ist nichtig.
+<sup>20</sup>Darum fing ich an, mein Herz verzweifeln zu lassen
+über all die Mühe, mit der ich mich unter der Sonne abgemüht hatte.
+<sup>21</sup>Denn da ist ein Mensch, der mit Weisheit, Erkenntnis und Geschick arbeitet,
+und doch muss er es als Anteil einem Menschen hinterlassen,
+der sich nicht dafür abgemüht hat.
+Auch das ist nichtig und ein großes Übel.
+<sup>22</sup>Denn was hat der Mensch von all seiner Mühe
+und vom Streben seines Herzens,
+mit dem er sich unter der Sonne abmüht?
+<sup>23</sup>Denn alle seine Tage sind Schmerzen,
+und seine Arbeit ist Kummer.
+Ja, sogar in der Nacht findet sein Herz keine Ruhe.
+Auch das ist nichtig.
+
+> **Was bedeutet das?**
+> Der Prediger ärgert sich: Ich habe mein Leben lang gearbeitet und alles klug aufgebaut. Und wer bekommt es nach meinem Tod? Vielleicht ein Dummkopf, der alles verschleudert.
+> Vers 23: Er beschreibt, was viele Menschen kennen: Stress, Sorgen, schlaflose Nächte wegen der Arbeit. Und am Ende fragt man sich: Wofür?
+
+---
+
+### Essen, trinken und sich freuen (Vers 24–26)
+
+<sup>24</sup>Es gibt nichts Besseres für den Menschen,
+als dass er isst und trinkt
+und seine Seele Gutes genießen lässt bei seiner Mühe.
+Auch das sah ich, dass es aus der Hand Gottes kommt.
+<sup>25</sup>Denn wer kann essen, oder wer kann genießen, mehr als ich?
+<sup>26</sup>Denn dem Menschen, der ihm gefällt,
+gibt Gott Weisheit, Erkenntnis und Freude.
+Aber dem Sünder gibt er die Mühe, zu sammeln und anzuhäufen,
+um es dem zu geben, der Gott gefällt.
+Auch das ist nichtig und ein Haschen nach Wind.
+
+> **Was bedeutet das?**
+> Nach aller Verzweiflung kommt eine überraschende Wende: Genieße das Einfache! Essen, Trinken, Freude an der Arbeit. Das ist kein Lohn, den man sich verdient, sondern ein Geschenk aus Gottes Hand.
+> Das ist ein Grundgedanke des Buches: Wir können das Leben nicht festhalten oder ganz verstehen. Aber wir können die guten Momente dankbar aus Gottes Hand annehmen.
+
+## Prediger – Kapitel 3
+#### Alles hat seine Zeit
+
+---
+
+### Eine Zeit für alles (Vers 1–8)
+
+<sup>1</sup>Alles hat seine Zeit,
+und es gibt eine Zeit für jedes Vorhaben unter dem Himmel:
+<sup>2</sup>eine Zeit zum Geborenwerden und eine Zeit zum Sterben,
+eine Zeit zum Pflanzen und eine Zeit zum Ausreißen des Gepflanzten,
+<sup>3</sup>eine Zeit zum Töten und eine Zeit zum Heilen,
+eine Zeit zum Niederreißen und eine Zeit zum Aufbauen,
+<sup>4</sup>eine Zeit zum Weinen und eine Zeit zum Lachen,
+eine Zeit zum Klagen und eine Zeit zum Tanzen,
+<sup>5</sup>eine Zeit, Steine wegzuwerfen, und eine Zeit, Steine zu sammeln,
+eine Zeit zum Umarmen und eine Zeit, sich vom Umarmen fernzuhalten,
+<sup>6</sup>eine Zeit zum Suchen und eine Zeit zum Verlieren,
+eine Zeit zum Behalten und eine Zeit zum Wegwerfen,
+<sup>7</sup>eine Zeit zum Zerreißen und eine Zeit zum Nähen,
+eine Zeit zum Schweigen und eine Zeit zum Reden,
+<sup>8</sup>eine Zeit zum Lieben und eine Zeit zum Hassen,
+eine Zeit für den Krieg und eine Zeit für den Frieden.
+
+> **Was bedeutet das?**
+> Das ist einer der bekanntesten Texte der Bibel. Er wird oft bei Beerdigungen, Hochzeiten und Geburtstagen vorgelesen.
+> Es sind 14 Gegensatzpaare, immer zwei Gegensätze in einer Zeile. Sie umfassen das ganze Leben: von der Geburt bis zum Tod, von Weinen bis Lachen, von Krieg bis Frieden.
+> Die Botschaft: Das Leben hat Rhythmen. Nicht alles ist zu jeder Zeit richtig. Es gibt eine Zeit zum Trauern und eine Zeit zum Feiern. Weise ist, wer erkennt, was jetzt dran ist.
+> Vers 3 und 8: „Eine Zeit zum Töten“, „eine Zeit zum Hassen“, „eine Zeit für den Krieg“: Der Prediger beschreibt, was in der Welt geschieht, auch das Schreckliche. Er sagt nicht, dass Töten oder Hass gut sind. Bemerkenswert ist: Die Liste endet mit „Frieden“.
+> Vers 5: „Steine wegwerfen und sammeln“: Vielleicht ist gemeint, ein Feld von Steinen zu befreien und Steine für ein Haus zu sammeln. Manche Ausleger denken auch an Zärtlichkeit, denn die nächste Zeile spricht vom Umarmen.
+> Vers 7: „Eine Zeit zum Zerreißen“: Bei einem Todesfall zerriss man vor Trauer seine Kleider. Später näht man sie wieder zusammen, wenn die Trauerzeit vorbei ist.
+
+---
+
+### Die Ewigkeit im Herzen (Vers 9–15)
+
+<sup>9</sup>Welchen Gewinn hat der, der arbeitet,
+von dem, womit er sich abmüht?
+<sup>10</sup>Ich habe die Last gesehen, die Gott den Menschenkindern gegeben hat,
+damit sie sich damit plagen.
+<sup>11</sup>Er hat alles schön gemacht zu seiner Zeit.
+Er hat auch die Ewigkeit in ihr Herz gelegt,
+doch so, dass der Mensch das Werk, das Gott tut,
+vom Anfang bis zum Ende nicht ergründen kann.
+<sup>12</sup>Ich weiß, dass es nichts Besseres für sie gibt,
+als sich zu freuen und Gutes zu tun, solange sie leben.
+<sup>13</sup>Und auch dass jeder Mensch isst und trinkt
+und Gutes genießt bei all seiner Mühe,
+das ist ein Geschenk Gottes.
+<sup>14</sup>Ich weiß, dass alles, was Gott tut, für immer sein wird.
+Man kann nichts hinzufügen und nichts davon wegnehmen.
+Gott hat es so gemacht, damit die Menschen sich vor ihm fürchten.
+<sup>15</sup>Was ist, das war schon längst,
+und was sein wird, ist schon längst gewesen.
+Gott sucht wieder das, was vergangen ist.
+
+> **Was bedeutet das?**
+> Vers 11 ist einer der tiefsten Sätze der Bibel: Gott hat „die Ewigkeit in das Herz der Menschen gelegt“. Darum sind wir nie ganz zufrieden mit dem, was vergeht. Wir sehnen uns nach etwas, das bleibt. Aber wir können Gottes großen Plan nicht ganz verstehen.
+> Augustinus, ein großer Kirchenlehrer, sagte später: „Unruhig ist unser Herz, bis es ruht in dir, o Gott.“
+> Vers 12–13: Die Antwort des Predigers: sich freuen, Gutes tun, das Leben dankbar genießen. Es ist ein Geschenk Gottes.
+> Vers 15: „Gott sucht das Vergangene“: Bei Gott geht nichts verloren. Er vergisst nichts.
+
+---
+
+### Mensch und Tier (Vers 16–22)
+
+<sup>16</sup>Außerdem sah ich unter der Sonne:
+An der Stätte des Rechts, da war Gottlosigkeit,
+und an der Stätte der Gerechtigkeit, da war Gottlosigkeit.
+<sup>17</sup>Ich sagte in meinem Herzen:
+„Gott wird den Gerechten und den Gottlosen richten,
+denn dort gibt es eine Zeit für jedes Vorhaben und für jedes Werk.“
+<sup>18</sup>Ich sagte in meinem Herzen:
+„Was die Menschenkinder angeht, so prüft Gott sie,
+damit sie sehen, dass sie selbst wie Tiere sind.
+<sup>19</sup>Denn was den Menschenkindern widerfährt, das widerfährt auch den Tieren.
+Ja, das Gleiche widerfährt ihnen.
+Wie das eine stirbt, so stirbt das andere.
+Ja, sie haben alle einen Atem,
+und der Mensch hat keinen Vorzug vor dem Tier,
+denn alles ist nichtig.
+<sup>20</sup>Alle gehen an einen Ort.
+Alle sind aus dem Staub,
+und alle kehren wieder zum Staub zurück.
+<sup>21</sup>Wer kennt den Geist des Menschen, ob er nach oben steigt,
+und den Geist des Tieres, ob er hinab zur Erde fährt?“
+<sup>22</sup>Darum sah ich, dass es nichts Besseres gibt,
+als dass der Mensch sich an seinen Werken freut,
+denn das ist sein Anteil.
+Denn wer kann ihn dahin bringen, zu sehen,
+was nach ihm sein wird?
+
+> **Was bedeutet das?**
+> Vers 16: Sogar in den Gerichten gibt es Unrecht. Das sieht der Prediger mit Schmerz.
+> Vers 17: Aber er glaubt: Gott wird am Ende gerecht richten.
+> Vers 18–21: Ein harter Gedanke: Mensch und Tier sterben auf die gleiche Weise. Beide kommen aus dem Staub und werden wieder zu Staub (vgl. 1. Mose 3,19). Der Prediger fragt ehrlich: Wer weiß, was nach dem Tod kommt?
+> Er hat darauf keine sichere Antwort. Andere Teile der Bibel sprechen später deutlicher von einer Hoffnung über den Tod hinaus (zum Beispiel Daniel 12,2). Christen glauben an die Auferstehung durch Jesus Christus.
+> Vers 22: Da wir nicht wissen, was danach kommt, sollen wir uns jetzt an unserem Leben und unserer Arbeit freuen.
+
+## Prediger – Kapitel 4
+#### Zwei sind besser als einer
+
+---
+
+### Die Tränen der Unterdrückten (Vers 1–3)
+
+<sup>1</sup>Dann wandte ich mich um und sah alle Unterdrückung,
+die unter der Sonne geschieht:
+Und siehe, die Tränen der Unterdrückten,
+und sie hatten keinen Tröster.
+Auf der Seite ihrer Unterdrücker war Macht,
+aber sie hatten keinen Tröster.
+<sup>2</sup>Darum pries ich die Toten, die schon lange tot sind,
+mehr als die Lebenden, die noch leben.
+<sup>3</sup>Ja, besser als beide ist der, der noch nicht gewesen ist,
+der das böse Werk nicht gesehen hat,
+das unter der Sonne getan wird.
+
+> **Was bedeutet das?**
+> Der Prediger sieht das Leid der Unterdrückten. Zweimal sagt er: „Sie hatten keinen Tröster.“ Niemand hilft ihnen.
+> Vers 2–3: Aus Verzweiflung über so viel Leid sagt er: Den Toten geht es besser, und am besten wäre es, nie geboren zu sein. Das ist ein Ausdruck tiefer Trauer über die Ungerechtigkeit der Welt, wie bei Hiob (Hiob 3). Es ist keine Aufforderung, sein Leben zu beenden.
+> Die Bibel antwortet an anderer Stelle auf diesen Schrei: Gott selbst will der Tröster der Unterdrückten sein (Jesaja 40,1; 2. Korinther 1,3–4). Und wir sollen für andere zu Tröstern werden.
+> Wer verzweifelt ist: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, rund um die Uhr.
+
+---
+
+### Neid und Ruhe (Vers 4–8)
+
+<sup>4</sup>Dann sah ich alle Mühe und allen Erfolg,
+dass es der Neid des einen gegen den anderen ist.
+Auch das ist nichtig und ein Haschen nach Wind.
+<sup>5</sup>Der Tor faltet seine Hände
+und richtet sich selbst zugrunde.
+<sup>6</sup>Besser eine Handvoll mit Ruhe
+als zwei Handvoll mit Mühe und Haschen nach Wind.
+<sup>7</sup>Dann wandte ich mich um und sah Nichtigkeit unter der Sonne.
+<sup>8</sup>Da ist einer, der allein ist,
+und er hat weder Sohn noch Bruder.
+Doch seine Mühe hat kein Ende,
+und seine Augen werden vom Reichtum nicht satt.
+„Für wen mühe ich mich denn ab
+und versage meiner Seele die Freude?“
+Auch das ist nichtig.
+Ja, es ist eine elende Sache.
+
+> **Was bedeutet das?**
+> Vers 4: Viel Arbeit und Erfolg entstehen aus Konkurrenz und Neid: Man will besser sein als der Nachbar. Das macht nicht glücklich.
+> Vers 5–6: Zwei Extreme: Der Faule tut nichts und geht zugrunde. Der Gestresste arbeitet mit beiden Händen und hat keine Ruhe. Die Mitte ist besser: eine Hand voll, aber mit Ruhe.
+> Vers 8: Ein trauriges Bild: Ein Mensch arbeitet und arbeitet, wird immer reicher, aber er ist ganz allein. Für wen eigentlich? Er gönnt sich selbst nichts und hat niemanden, mit dem er teilen kann.
+
+---
+
+### Zwei sind besser als einer (Vers 9–12)
+
+<sup>9</sup>Zwei sind besser als einer,
+denn sie haben einen guten Lohn für ihre Mühe.
+<sup>10</sup>Denn wenn sie fallen, hilft der eine seinem Gefährten auf.
+Aber wehe dem, der allein ist, wenn er fällt,
+und es ist kein anderer da, der ihm aufhilft.
+<sup>11</sup>Auch wenn zwei beieinanderliegen, wird ihnen warm.
+Aber wie soll einer allein warm werden?
+<sup>12</sup>Wenn jemand den einen überwältigt,
+so werden zwei ihm widerstehen.
+Und eine dreifache Schnur reißt nicht so schnell.
+
+> **Was bedeutet das?**
+> Ein wunderschöner Text über Gemeinschaft und Freundschaft. Er wird oft bei Hochzeiten gelesen.
+> Zu zweit ist man stärker: Man hilft sich auf, wärmt sich, schützt sich.
+> Vers 12: „Eine dreifache Schnur“: Drei Fäden zusammengedreht sind viel stärker als einer. Bei Hochzeiten sagt man oft: Die dritte Schnur ist Gott, der das Paar zusammenhält.
+> Dieser Text ist ein Trost für alle, die Gemeinschaft haben, und eine Einladung an alle, die einsam sind: Suche Menschen, die mit dir gehen. Und sei selbst für andere da.
+
+---
+
+### Der junge und der alte König (Vers 13–16)
+
+<sup>13</sup>Besser ein armer und weiser junger Mann
+als ein alter und törichter König,
+der sich nicht mehr warnen lassen will.
+<sup>14</sup>Denn aus dem Gefängnis kam er heraus, um König zu werden.
+Ja, sogar in seinem Königreich war er arm geboren worden.
+<sup>15</sup>Ich sah alle Lebenden, die unter der Sonne gehen,
+dass sie bei dem jungen Mann waren, dem anderen,
+der an seine Stelle trat.
+<sup>16</sup>Es gab kein Ende all des Volkes,
+all derer, über die er gesetzt war.
+Und doch werden die, die danach kommen, sich nicht über ihn freuen.
+Gewiss, auch das ist nichtig und ein Haschen nach Wind.
+
+> **Was bedeutet das?**
+> Eine kleine Geschichte: Ein alter König hört auf niemanden mehr. Ein armer junger Mann, der sogar im Gefängnis war, wird an seiner Stelle König. Alle jubeln ihm zu.
+> Aber auch seine Beliebtheit hält nicht ewig. Die nächste Generation hat ihn schon vergessen.
+> Ruhm und Beliebtheit sind flüchtig. Auch das ist „ein Haschen nach Wind“.
