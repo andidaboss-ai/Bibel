@@ -93081,3 +93081,400 @@ und ich werde dich aus der Faust der Gewalttätigen erlösen.“
 > Vers 18: Jeremias bitterster Vorwurf: Gott, bist du wie ein Bach, der im Sommer austrocknet, wenn man ihn braucht? Früher hatte Gott sich „die Quelle lebendigen Wassers“ genannt (2,13). Jetzt fühlt Jeremia sich von dieser Quelle im Stich gelassen. Die Bibel erlaubt so ehrliche Worte.
 > Vers 19: Gott antwortet nicht mit Mitleid, sondern mit einer Einladung: Kehr um, Jeremia! Lass deine Verzweiflung los. Dann kannst du wieder mein Mund sein.
 > Vers 20–21: Gott wiederholt das Versprechen aus Jeremias Berufung (1,18–19): „Ich bin bei dir, um dich zu retten.“
+
+## Jeremia – Kapitel 16
+#### Jeremias einsames Leben
+
+---
+
+### Heirate nicht! (Vers 1–9)
+
+<sup>1</sup>Da kam das Wort des HERRN zu mir:
+<sup>2</sup>„Du sollst dir keine Frau nehmen
+und an diesem Ort keine Söhne und Töchter haben.“
+<sup>3</sup>Denn so spricht der HERR über die Söhne und Töchter,
+die an diesem Ort geboren werden,
+und über ihre Mütter, die sie geboren haben,
+und über ihre Väter, die sie in diesem Land gezeugt haben:
+<sup>4</sup>„Sie werden an schlimmen Krankheiten sterben.
+Man wird nicht um sie klagen und sie nicht begraben.
+Sie werden zu Dünger auf dem Erdboden werden.
+Sie werden durch Schwert und Hunger umkommen.
+Ihre Leichen werden den Vögeln des Himmels
+und den Tieren der Erde zum Fraß dienen.“
+<sup>5</sup>Denn so spricht der HERR:
+„Geh nicht in ein Trauerhaus.
+Geh nicht hin, um zu klagen.
+Bemitleide sie nicht,
+denn ich habe meinen Frieden von diesem Volk weggenommen“,
+spricht der HERR,
+„die Gnade und das Erbarmen.
+<sup>6</sup>Große und Kleine werden in diesem Land sterben.
+Sie werden nicht begraben werden.
+Man wird nicht um sie klagen,
+sich nicht ritzen und sich nicht kahl scheren für sie.
+<sup>7</sup>Man wird ihnen in der Trauer kein Brot brechen,
+um sie wegen des Toten zu trösten.
+Man wird ihnen nicht den Becher des Trostes zu trinken geben
+für ihren Vater oder für ihre Mutter.
+<sup>8</sup>Du sollst auch nicht in ein Haus gehen, wo gefeiert wird,
+um bei ihnen zu sitzen, zu essen und zu trinken.“
+<sup>9</sup>Denn so spricht der HERR der Heere, der Gott Israels:
+„Siehe, ich werde an diesem Ort verstummen lassen,
+vor euren Augen und in euren Tagen,
+den Jubelruf und den Freudenruf,
+die Stimme des Bräutigams und die Stimme der Braut.
+
+> **Was bedeutet das?**
+> Jeremias ganzes Leben wird zu einer Botschaft:
+> Vers 2: Er soll nicht heiraten und keine Kinder haben. Damals war das sehr ungewöhnlich. Jeremias Einsamkeit zeigt: Die Zeit, die kommt, ist so schrecklich, dass man keine Familie gründen sollte.
+> Vers 5–7: Er soll nicht zu Beerdigungen gehen und niemanden trösten. Es war damals üblich, Trauernden Brot und einen „Becher des Trostes“ zu bringen.
+> Vers 6: Manche ritzten sich damals aus Trauer die Haut. Das Gesetz Israels verbot das (3. Mose 19,28). Wer heute aus Verzweiflung sich selbst verletzt, soll sich Hilfe holen: Telefonseelsorge 0800 111 0 111, für junge Menschen die Nummer gegen Kummer 116 111.
+> Vers 8–9: Er soll auch nicht zu Festen gehen. Denn bald wird es keine Hochzeiten mehr geben.
+> Jeremias Verzicht war sehr schwer für ihn. Es zeigt, wie sehr er seine Berufung ernst nahm.
+
+---
+
+### Warum tut Gott das? (Vers 10–13)
+
+<sup>10</sup>Und es wird geschehen, wenn du diesem Volk all diese Worte sagst
+und sie dich fragen:
+‚Warum hat der HERR all dieses große Unheil über uns ausgesprochen?
+Und was ist unsere Schuld?
+Und was ist unsere Sünde, die wir gegen den HERRN, unseren Gott, begangen haben?‘,
+<sup>11</sup>dann sollst du zu ihnen sagen:
+‚Weil eure Väter mich verlassen haben‘, spricht der HERR,
+‚und anderen Göttern nachgelaufen sind
+und ihnen gedient und sie angebetet haben
+und mich verlassen und mein Gesetz nicht gehalten haben.
+<sup>12</sup>Und ihr habt es noch schlimmer getrieben als eure Väter,
+denn siehe, jeder von euch folgt der Verstocktheit seines bösen Herzens,
+sodass ihr nicht auf mich hört.
+<sup>13</sup>Darum werde ich euch aus diesem Land hinauswerfen
+in ein Land, das ihr nicht kennt,
+weder ihr noch eure Väter.
+Dort werdet ihr anderen Göttern dienen Tag und Nacht,
+denn ich werde euch keine Gnade erweisen.‘
+
+> **Was bedeutet das?**
+> Das Volk fragt erstaunt: Was haben wir denn falsch gemacht? Es merkt seine eigene Schuld gar nicht.
+> Gott antwortet: Eure Väter haben mich verlassen, und ihr seid noch schlimmer.
+> Vers 13: Eine bittere Ironie: Ihr wolltet fremden Göttern dienen, dann könnt ihr das im fremden Land jetzt Tag und Nacht tun.
+
+---
+
+### Ein neuer Auszug (Vers 14–21)
+
+<sup>14</sup>Darum siehe, es kommen Tage“, spricht der HERR,
+„da wird man nicht mehr sagen:
+‚So wahr der HERR lebt, der die Kinder Israel
+aus dem Land Ägypten heraufgeführt hat‘,
+<sup>15</sup>sondern:
+‚So wahr der HERR lebt, der die Kinder Israel
+aus dem Land des Nordens heraufgeführt hat
+und aus allen Ländern, wohin er sie vertrieben hatte.‘
+Und ich werde sie wieder in ihr Land bringen,
+das ich ihren Vätern gegeben habe.
+<sup>16</sup>Siehe, ich sende nach vielen Fischern“, spricht der HERR,
+„und sie werden sie fischen.
+Danach sende ich nach vielen Jägern,
+und sie werden sie jagen von jedem Berg und von jedem Hügel
+und aus den Felsspalten.
+<sup>17</sup>Denn meine Augen sind auf alle ihre Wege gerichtet.
+Sie sind nicht vor meinem Angesicht verborgen.
+Ihre Schuld ist vor meinen Augen nicht versteckt.
+<sup>18</sup>Zuerst werde ich ihre Schuld und ihre Sünde doppelt vergelten,
+weil sie mein Land entweiht haben
+mit den Leichen ihrer Scheusale
+und mein Erbe mit ihren Gräueln gefüllt haben.“
+<sup>19</sup>HERR, meine Stärke und meine Festung
+und meine Zuflucht am Tag der Not!
+Die Nationen werden zu dir kommen von den Enden der Erde und sagen:
+„Unsere Väter haben nur Lüge geerbt,
+Nichtiges und Dinge, die nichts nützen.
+<sup>20</sup>Soll sich ein Mensch Götter machen,
+die doch keine Götter sind?“
+<sup>21</sup>„Darum siehe, ich werde sie erkennen lassen,
+diesmal werde ich sie meine Hand und meine Macht erkennen lassen.
+Dann werden sie erkennen, dass mein Name HERR ist.“
+
+> **Was bedeutet das?**
+> Vers 14–15: Mitten in der Gerichtsbotschaft ein Lichtblick: Gott wird sein Volk aus dem Exil zurückholen. Diese Befreiung wird so groß sein, dass man sie sogar mehr feiern wird als den Auszug aus Ägypten.
+> Vers 16–17: Fischer und Jäger sind hier ein Bild für das Gericht: Niemand kann sich vor Gott verstecken. (Jesus nennt seine Jünger später „Menschenfischer“, aber in einem ganz anderen, guten Sinn: Markus 1,17.)
+> Vers 19–20: Ein wunderbares Gebet Jeremias: Gott ist seine Stärke und Zuflucht. Und er sieht voraus: Eines Tages werden alle Völker erkennen, dass die Götzen nichts sind, und zu Gott kommen.
+
+## Jeremia – Kapitel 17
+#### Wie ein Baum am Wasser
+
+---
+
+### Die Sünde ist ins Herz geschrieben (Vers 1–4)
+
+<sup>1</sup>„Die Sünde Judas ist mit eisernem Griffel geschrieben,
+mit einer Spitze aus Diamant.
+Sie ist eingraviert auf die Tafel ihres Herzens
+und auf die Hörner eurer Altäre.
+<sup>2</sup>Sogar ihre Kinder denken an ihre Altäre und ihre Ascherapfähle
+bei den grünen Bäumen auf den hohen Hügeln.
+<sup>3</sup>Mein Berg im Feld,
+deinen Besitz und alle deine Schätze werde ich zur Beute geben
+und deine Opferhöhen wegen der Sünde
+in allen deinen Grenzen.
+<sup>4</sup>Du wirst durch eigene Schuld dein Erbe verlieren,
+das ich dir gegeben habe.
+Ich werde dich deinen Feinden dienen lassen
+in dem Land, das du nicht kennst,
+denn ihr habt ein Feuer in meinem Zorn entzündet,
+das für immer brennen wird.“
+
+> **Was bedeutet das?**
+> Vers 1: Die Sünde ist nicht nur oberflächlich. Sie ist tief eingraviert, wie mit einem Diamanten in Stein, auf die „Tafel des Herzens“. Das erinnert an die Gesetzestafeln vom Sinai. Statt Gottes Gebote steht die Sünde im Herzen geschrieben. (In Kapitel 31,33 verspricht Gott, sein Gesetz neu ins Herz zu schreiben.)
+> Vers 2: Schon die Kinder kennen die Götzenaltäre. Die Ascherapfähle waren Holzpfähle für die Göttin Aschera.
+
+---
+
+### Verflucht und gesegnet (Vers 5–11)
+
+<sup>5</sup>So spricht der HERR:
+„Verflucht ist der Mann, der auf Menschen vertraut
+und Fleisch zu seiner Stärke macht
+und dessen Herz vom HERRN weicht.
+<sup>6</sup>Denn er wird sein wie ein Strauch in der Wüste
+und wird nicht sehen, wenn das Gute kommt,
+sondern wird an ausgedörrten Orten in der Wüste wohnen,
+in einem unbewohnten Salzland.
+<sup>7</sup>Gesegnet ist der Mann, der auf den HERRN vertraut
+und dessen Zuversicht der HERR ist.
+<sup>8</sup>Denn er wird sein wie ein Baum, der am Wasser gepflanzt ist
+und seine Wurzeln zum Bach hin ausstreckt.
+Er fürchtet sich nicht, wenn die Hitze kommt,
+sondern seine Blätter bleiben grün.
+Im Jahr der Dürre macht er sich keine Sorgen.
+Er hört nicht auf, Frucht zu bringen.
+<sup>9</sup>Das Herz ist trügerisch, mehr als alles,
+und es ist unheilbar krank.
+Wer kann es kennen?
+<sup>10</sup>Ich, der HERR, erforsche das Herz.
+Ich prüfe die Nieren,
+um jedem nach seinen Wegen zu geben,
+nach der Frucht seiner Taten.“
+<sup>11</sup>Wie ein Rebhuhn, das Eier ausbrütet, die es nicht gelegt hat,
+so ist der, der Reichtum erwirbt, aber nicht mit Recht.
+In der Mitte seiner Tage muss er ihn verlassen,
+und an seinem Ende steht er als Narr da.
+
+> **Was bedeutet das?**
+> Vers 5–8 ist einer der schönsten Texte bei Jeremia. Er ähnelt Psalm 1.
+> Wer nur auf Menschen und auf eigene Kraft vertraut, ist wie ein dürrer Strauch in der Wüste.
+> Wer aber auf Gott vertraut, ist wie ein Baum am Bach. Seine Wurzeln reichen bis zum Wasser. Auch wenn Hitze und Dürre kommen, bleiben seine Blätter grün. Er bringt immer Frucht.
+> Das heißt nicht, dass man anderen Menschen nicht vertrauen darf. Es heißt: Der tiefste Halt im Leben soll Gott sein, nicht Menschen oder Macht.
+> Vers 9: „Das Herz ist trügerisch.“ Wir Menschen können uns selbst täuschen. Wir kennen unser eigenes Herz oft nicht ganz.
+> Vers 10: Aber Gott kennt es. Er sieht in die Tiefe. Die „Nieren“ galten damals als Sitz der Gefühle.
+> Vers 11: Man glaubte damals, dass das Rebhuhn manchmal fremde Eier ausbrütet. Wenn die Küken schlüpfen, laufen sie weg. So ist es mit unrecht erworbenem Reichtum: Er bleibt nicht.
+
+---
+
+### Heile mich, HERR! (Vers 12–18)
+
+<sup>12</sup>Ein Thron der Herrlichkeit, erhaben von Anfang an,
+ist der Ort unseres Heiligtums.
+<sup>13</sup>HERR, du Hoffnung Israels,
+alle, die dich verlassen, werden zuschanden.
+Die von mir abweichen, werden in den Staub geschrieben,
+denn sie haben den HERRN verlassen,
+die Quelle lebendigen Wassers.
+<sup>14</sup>Heile mich, HERR, so werde ich heil.
+Rette mich, so werde ich gerettet,
+denn du bist mein Lobgesang.
+<sup>15</sup>Siehe, sie sagen zu mir:
+„Wo ist das Wort des HERRN?
+Es soll doch jetzt eintreffen!“
+<sup>16</sup>Ich aber habe mich nicht gedrängt, ein Hirte in deiner Nachfolge zu sein.
+Den Unglückstag habe ich nicht herbeigewünscht.
+Du weißt es.
+Was aus meinen Lippen kam, war vor deinem Angesicht.
+<sup>17</sup>Sei mir nicht zum Schrecken!
+Du bist meine Zuflucht am Tag des Unheils.
+<sup>18</sup>Lass die beschämt werden, die mich verfolgen,
+aber lass mich nicht beschämt werden.
+Lass sie erschrecken,
+aber lass mich nicht erschrecken.
+Bring über sie den Tag des Unheils
+und zerschmettere sie mit doppelter Zerschmetterung.
+
+> **Was bedeutet das?**
+> Vers 13: Wer Gott verlässt, wird „in den Staub geschrieben“, also schnell vergessen, wie Schrift im Sand. Jesus schrieb einmal mit dem Finger in den Sand, als Menschen eine Frau steinigen wollten (Johannes 8,6–8). Manche Ausleger sehen darin eine Anspielung auf diesen Vers.
+> Vers 14: Ein Gebet, das viele Menschen in Krankheit und Not beten: „Heile mich, HERR, so werde ich heil. Rette mich, so werde ich gerettet.“
+> Vers 15: Die Leute spotten: Wo bleibt denn das Unglück, das du ankündigst?
+> Vers 16: Jeremia sagt: Ich habe das Unglück nicht herbeigewünscht. Ich habe nur gesagt, was Gott mir aufgetragen hat.
+> Vers 18: Jeremia bittet Gott, seine Verfolger zu bestrafen. Er ist verletzt und wütend und sagt das offen im Gebet. Aber er überlässt es Gott und nimmt keine Rache in die eigene Hand.
+
+---
+
+### Haltet den Sabbat heilig (Vers 19–27)
+
+<sup>19</sup>So sagte der HERR zu mir:
+„Geh und stell dich in das Tor der Leute des Volkes,
+durch das die Könige von Juda hinein- und hinausgehen,
+und in alle Tore Jerusalems.
+<sup>20</sup>Sag zu ihnen:
+‚Hört das Wort des HERRN, ihr Könige von Juda und ganz Juda
+und alle Bewohner Jerusalems, die ihr durch diese Tore hineingeht!
+<sup>21</sup>So spricht der HERR:
+„Hütet euch um eurer Seelen willen
+und tragt am Sabbattag keine Last
+und bringt sie nicht durch die Tore Jerusalems hinein!
+<sup>22</sup>Tragt am Sabbattag keine Last aus euren Häusern hinaus
+und tut keine Arbeit,
+sondern heiligt den Sabbattag,
+wie ich es euren Vätern geboten habe.
+<sup>23</sup>Aber sie hörten nicht und neigten ihr Ohr nicht,
+sondern machten ihren Nacken hart,
+um nicht zu hören und keine Zurechtweisung anzunehmen.
+<sup>24</sup>Und es wird geschehen, wenn ihr wirklich auf mich hört“,
+spricht der HERR,
+„sodass ihr am Sabbattag keine Last durch die Tore dieser Stadt bringt,
+sondern den Sabbattag heiligt und an ihm keine Arbeit tut,
+<sup>25</sup>dann werden durch die Tore dieser Stadt Könige und Fürsten hineinziehen,
+die auf dem Thron Davids sitzen,
+auf Wagen und auf Pferden fahren,
+sie und ihre Fürsten, die Männer von Juda und die Bewohner Jerusalems,
+und diese Stadt wird für immer bewohnt bleiben.
+<sup>26</sup>Sie werden aus den Städten Judas kommen
+und aus der Umgebung Jerusalems,
+aus dem Land Benjamin, aus dem Hügelland,
+aus dem Bergland und aus dem Süden,
+und sie werden Brandopfer, Schlachtopfer, Speisopfer und Weihrauch bringen
+und Dankopfer in das Haus des HERRN bringen.
+<sup>27</sup>Wenn ihr aber nicht auf mich hört,
+den Sabbattag zu heiligen
+und am Sabbattag keine Last zu tragen
+und durch die Tore Jerusalems hineinzubringen,
+dann werde ich ein Feuer an seine Tore legen,
+und es wird die Paläste Jerusalems verzehren
+und nicht erlöschen.“‘“
+
+> **Was bedeutet das?**
+> Jeremia soll an den Stadttoren über den Sabbat sprechen. Am Sabbat, dem siebten Tag der Woche, sollte niemand arbeiten. Die Händler sollten keine Waren in die Stadt bringen.
+> Der Sabbat ist ein Geschenk: ein Tag der Ruhe für alle, auch für Knechte, Mägde und Tiere (5. Mose 5,14). Wer ihn missachtet, zeigt, dass ihm Geld und Geschäfte wichtiger sind als Gott und die Menschen.
+> Vers 24–26: Wenn das Volk den Sabbat hält, wird Jerusalem für immer bewohnt sein, und Menschen aus allen Gegenden kommen zum Tempel.
+> Vers 27: Wenn nicht, wird Feuer die Stadt zerstören. Das geschah im Jahr 587 vor Christus.
+
+## Jeremia – Kapitel 18
+#### Beim Töpfer
+
+---
+
+### Wie der Ton in der Hand des Töpfers (Vers 1–12)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam:
+<sup>2</sup>„Mach dich auf und geh hinab in das Haus des Töpfers,
+und dort werde ich dich meine Worte hören lassen.“
+<sup>3</sup>Da ging ich hinab in das Haus des Töpfers,
+und siehe, er arbeitete gerade an der Töpferscheibe.
+<sup>4</sup>Wenn das Gefäß, das er aus Ton machte,
+in der Hand des Töpfers missriet,
+dann machte er daraus wieder ein anderes Gefäß,
+so wie es dem Töpfer gut erschien.
+<sup>5</sup>Da kam das Wort des HERRN zu mir:
+<sup>6</sup>„Haus Israel, kann ich nicht mit euch umgehen wie dieser Töpfer?“,
+spricht der HERR.
+„Siehe, wie der Ton in der Hand des Töpfers,
+so seid ihr in meiner Hand, Haus Israel.
+<sup>7</sup>In einem Augenblick rede ich über eine Nation und über ein Königreich,
+dass ich es ausreißen, niederreißen und vernichten will.
+<sup>8</sup>Wenn aber diese Nation, über die ich geredet habe,
+von ihrer Bosheit umkehrt,
+dann reut mich das Unheil, das ich ihr antun wollte.
+<sup>9</sup>In einem anderen Augenblick rede ich über eine Nation und über ein Königreich,
+dass ich es bauen und pflanzen will.
+<sup>10</sup>Wenn sie aber tut, was in meinen Augen böse ist,
+und nicht auf meine Stimme hört,
+dann reut mich das Gute, das ich ihr tun wollte.
+<sup>11</sup>Und jetzt sprich doch zu den Männern von Juda
+und zu den Bewohnern Jerusalems und sag:
+‚So spricht der HERR:
+„Siehe, ich forme ein Unheil gegen euch
+und denke mir einen Plan gegen euch aus.
+Kehrt doch um, jeder von seinem bösen Weg,
+und bessert eure Wege und eure Taten!“‘
+<sup>12</sup>Aber sie sagen: ‚Es ist umsonst!
+Denn wir wollen unseren eigenen Plänen folgen,
+und jeder will nach der Verstocktheit seines bösen Herzens handeln.‘“
+
+> **Was bedeutet das?**
+> Jeremia geht zu einem Töpfer und schaut ihm bei der Arbeit zu. Wenn ein Gefäß nicht gelingt, wirft der Töpfer den Ton nicht weg, sondern formt daraus ein neues Gefäß.
+> Vers 6: So ist Israel in Gottes Hand. Gott kann aus dem „missratenen“ Volk etwas Neues machen.
+> Vers 7–10: Ein wichtiger Gedanke: Gottes Ankündigungen sind nicht unabänderlich. Wenn ein Volk umkehrt, verzichtet Gott auf das angekündigte Unheil (wie bei Ninive im Buch Jona). Und wenn ein Volk Böses tut, nimmt Gott sein gutes Versprechen zurück. Gott reagiert auf das, was Menschen tun. Die Zukunft ist offen.
+> Vers 11: Darum die Einladung: Kehrt um! Noch ist es nicht zu spät.
+> Vers 12: Aber das Volk antwortet: „Es ist umsonst. Wir machen, was wir wollen.“
+> Das Bild vom Töpfer ist tröstlich: Auch wenn in unserem Leben etwas missrät, kann Gott daraus etwas Neues formen.
+
+---
+
+### Mein Volk hat mich vergessen (Vers 13–17)
+
+<sup>13</sup>Darum spricht der HERR:
+„Fragt doch unter den Nationen:
+‚Wer hat so etwas gehört?‘
+Etwas sehr Schauderhaftes hat die Jungfrau Israel getan.
+<sup>14</sup>Weicht der Schnee des Libanon vom Felsen des Feldes?
+Versiegen die kalten Wasser, die von fern herabfließen?
+<sup>15</sup>Aber mein Volk hat mich vergessen.
+Sie verbrennen Räucherwerk für nichtige Götter.
+Sie wurden zum Stolpern gebracht auf ihren Wegen,
+auf den alten Pfaden,
+um auf Nebenwegen zu gehen,
+auf einem Weg, der nicht gebahnt ist,
+<sup>16</sup>um ihr Land zu einem Entsetzen zu machen,
+zu einem ewigen Gezisch.
+Jeder, der daran vorbeigeht, wird sich entsetzen
+und den Kopf schütteln.
+<sup>17</sup>Wie mit einem Ostwind werde ich sie zerstreuen vor dem Feind.
+Ich werde ihnen den Rücken zeigen und nicht das Gesicht
+am Tag ihres Unglücks.“
+
+> **Was bedeutet das?**
+> Vers 14: Die Natur ist treu: Der Schnee auf den Bergen des Libanon bleibt, die kalten Bergbäche fließen immer. Aber Gottes Volk ist untreu geworden.
+> Vers 15: Sie haben die alten, guten Wege verlassen und sind auf holprigen Nebenwegen unterwegs (vgl. 6,16).
+> Vers 16: Wer an dem zerstörten Land vorbeigeht, wird erschrocken den Kopf schütteln. „Zischen“ war damals ein Ausdruck des Entsetzens.
+> Vers 17: Der Ostwind ist ein heißer Wüstenwind. Gott wird sich abwenden, „den Rücken zeigen“.
+
+---
+
+### Ein Anschlag auf Jeremia (Vers 18–23)
+
+<sup>18</sup>Da sagten sie: „Kommt!
+Lasst uns Pläne gegen Jeremia schmieden!
+Denn dem Priester wird die Weisung nicht ausgehen,
+noch dem Weisen der Rat,
+noch dem Propheten das Wort.
+Kommt, lasst uns ihn mit der Zunge schlagen
+und auf keines seiner Worte achten.“
+<sup>19</sup>Achte auf mich, HERR,
+und höre auf die Stimme derer, die mit mir streiten!
+<sup>20</sup>Soll man Gutes mit Bösem vergelten?
+Denn sie haben meiner Seele eine Grube gegraben.
+Denk daran, wie ich vor dir stand, um Gutes für sie zu reden,
+um deinen Zorn von ihnen abzuwenden.
+<sup>21</sup>Darum gib ihre Kinder dem Hunger preis
+und liefere sie der Gewalt des Schwertes aus!
+Ihre Frauen sollen kinderlos und Witwen werden.
+Ihre Männer sollen getötet werden
+und ihre jungen Männer im Kampf vom Schwert erschlagen.
+<sup>22</sup>Man soll ein Geschrei aus ihren Häusern hören,
+wenn du plötzlich eine Kriegsschar über sie bringst.
+Denn sie haben eine Grube gegraben, um mich zu fangen,
+und meinen Füßen Schlingen gelegt.
+<sup>23</sup>Du aber, HERR, kennst all ihre Pläne gegen mich, mich zu töten.
+Vergib ihre Schuld nicht!
+Tilge ihre Sünde nicht vor deinem Angesicht!
+Lass sie vor dir zu Fall kommen!
+Handle mit ihnen zur Zeit deines Zorns!
+
+> **Was bedeutet das?**
+> Vers 18: Jeremias Gegner sagen: Wir brauchen ihn nicht. Wir haben doch unsere Priester, Weisen und Propheten. Lasst uns ihn mit Worten fertigmachen, durch Verleumdung.
+> Vers 20: Jeremia ist tief verletzt. Er hat sogar für diese Menschen gebetet, und jetzt wollen sie ihn töten.
+> Vers 21–23: Jeremia betet ein hartes Fluchgebet gegen seine Feinde und ihre Familien. Diese Worte erschrecken. Sie zeigen, wie verzweifelt und verletzt Jeremia war. Die Bibel verschweigt solche Gefühle nicht. Sie zeigt einen Menschen, der seinen ganzen Zorn vor Gott bringt, statt selbst Gewalt anzuwenden.
+> Wichtig: Diese Worte sind keine Anweisung, anderen Böses zu wünschen oder zu tun. Jesus hat einen anderen Weg gezeigt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44). Am Kreuz betete er: „Vater, vergib ihnen“ (Lukas 23,34).
+> Wer von anderen gemobbt oder bedroht wird, darf sich Hilfe holen: Nummer gegen Kummer 116 111, Telefonseelsorge 0800 111 0 111.
