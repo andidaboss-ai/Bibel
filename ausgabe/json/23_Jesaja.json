@@ -3383,6 +3383,631 @@
      "erklaerung": "Vers 12: Wie man beim Dreschen jedes einzelne Korn sammelt, so wird Gott jeden Einzelnen aus seinem Volk sammeln. Keiner geht verloren.\nVers 13: Eine große Posaune ruft alle Zerstreuten heim, aus Assyrien und aus Ägypten, zum Gottesdienst nach Jerusalem.\nDiese „große Posaune“ wird im jüdischen Gebet bis heute erwähnt: „Blase die große Posaune zu unserer Befreiung.“ Auch im Neuen Testament ist von der Posaune die Rede, wenn Gott seine Menschen sammelt (Matthäus 24,31; 1. Thessalonicher 4,16).\nDamit endet die „Jesaja-Apokalypse“: mit einer großen Heimkehr."
     }
    ]
+  },
+  {
+   "kapitel": 28,
+   "titel": "Der kostbare Eckstein",
+   "abschnitte": [
+    {
+     "ueberschrift": "Wehe den Betrunkenen von Ephraim",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wehe der stolzen Krone der Betrunkenen von Ephraim\nund der welkenden Blume seiner herrlichen Pracht,\ndie auf dem Gipfel über dem fruchtbaren Tal liegt,\nbei denen, die vom Wein überwältigt sind!",
+       "englisch_web": "Woe to the crown of pride of the drunkards of Ephraim, and to the fading flower of his glorious beauty, which is on the head of the fertile valley of those who are overcome with wine!"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Siehe, der Herr hat einen Mächtigen und Starken.\nWie ein Hagelsturm, ein verheerender Sturm,\nwie eine Flut gewaltiger, überströmender Wasser,\nwird er sie mit seiner Hand zu Boden werfen.",
+       "englisch_web": "Behold, the Lord has one who is mighty and strong. Like a storm of hail, a destroying storm, and like a storm of mighty waters overflowing, he will cast them down to the earth with his hand."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Die stolze Krone der Betrunkenen von Ephraim\nwird mit Füßen zertreten werden.",
+       "englisch_web": "The crown of pride of the drunkards of Ephraim will be trodden under foot."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die welkende Blume seiner herrlichen Pracht,\ndie auf dem Gipfel über dem fruchtbaren Tal liegt,\nwird sein wie die erste reife Feige vor dem Sommer:\nWer sie sieht, pflückt sie und isst sie sofort.",
+       "englisch_web": "The fading flower of his glorious beauty, which is on the head of the fertile valley, shall be like the first-ripe fig before the summer, which someone picks and eats as soon as he sees it."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "An jenem Tag wird der HERR der Heere\neine herrliche Krone und ein schönes Diadem sein\nfür den Rest seines Volkes,",
+       "englisch_web": "In that day, Yahweh of Armies will become a crown of glory and a diadem of beauty to the residue of his people,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "und ein Geist des Rechts für den, der zu Gericht sitzt,\nund Kraft für die, die den Kampf zum Tor zurückdrängen.",
+       "englisch_web": "and a spirit of justice to him who sits in judgment, and strength to those who turn back the battle at the gate."
+      }
+     ],
+     "erklaerung": "„Die stolze Krone von Ephraim“ ist Samaria, die Hauptstadt des Nordreichs. Sie lag auf einem Hügel über einem fruchtbaren Tal, wie ein Kranz auf einem Kopf. Aber die Oberschicht war betrunken und überheblich.\nVers 2–4: Assyrien wird kommen wie ein Hagelsturm. Samaria wird so schnell verschwinden wie eine reife Feige, die jemand sofort pflückt und isst. So geschah es im Jahr 722 vor Christus.\nVers 5–6: Nicht eine Stadt soll die Krone sein, sondern Gott selbst. Er gibt den Richtern Gerechtigkeit und den Soldaten Kraft."
+    },
+    {
+     "ueberschrift": "Priester und Propheten taumeln",
+     "vers_von": 7,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Auch diese taumeln vom Wein\nund schwanken vom starken Getränk.\nPriester und Prophet taumeln vom starken Getränk.\nSie sind vom Wein verschlungen.\nSie schwanken vom starken Getränk.\nSie irren beim Sehen.\nSie stolpern beim Urteilen.",
+       "englisch_web": "They also reel with wine, and stagger with strong drink. The priest and the prophet reel with strong drink. They are swallowed up by wine. They stagger with strong drink. They err in vision. They stumble in judgment."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denn alle Tische sind ganz voll von ekligem Erbrochenen und Schmutz.",
+       "englisch_web": "For all tables are completely full of filthy vomit and filthiness."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wen will er Erkenntnis lehren?\nWem will er die Botschaft erklären?\nDenen, die gerade von der Milch entwöhnt sind,\ndie eben erst von der Brust genommen wurden?",
+       "englisch_web": "Whom will he teach knowledge? To whom will he explain the message? Those who are weaned from the milk, and drawn from the breasts?"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Denn es heißt: Zaw la-zaw, zaw la-zaw,\nkaw la-kaw, kaw la-kaw,\nhier ein wenig, da ein wenig.",
+       "englisch_web": "For it is precept on precept, precept on precept; line on line, line on line; here a little, there a little."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Aber er wird zu diesem Volk mit stammelnden Lippen\nund in einer fremden Sprache reden,",
+       "englisch_web": "But he will speak to this nation with stammering lips and in another language,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "er, der zu ihnen gesagt hatte:\n„Das ist der Ruheplatz. Gebt den Müden Ruhe!“\nund: „Das ist die Erfrischung!“\nAber sie wollten nicht hören.",
+       "englisch_web": "to whom he said, “This is the resting place. Give rest to the weary,” and “This is the refreshing;” yet they would not hear."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Darum wird das Wort des HERRN für sie sein:\nZaw la-zaw, zaw la-zaw,\nkaw la-kaw, kaw la-kaw,\nhier ein wenig, da ein wenig,\ndamit sie gehen, rückwärts fallen,\nzerbrochen, verstrickt und gefangen werden.",
+       "englisch_web": "Therefore Yahweh’s word will be to them precept on precept, precept on precept; line on line, line on line; here a little, there a little; that they may go, fall backward, be broken, be snared, and be taken."
+      }
+     ],
+     "erklaerung": "Vers 7–8: Sogar die Priester und Propheten in Jerusalem sind betrunken. Ihre Tische sind voller Erbrochenem. Wie sollen sie da Gottes Willen erkennen?\nVers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: „Zaw la-zaw, kaw la-kaw“. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.\nVers 11–13: Jesajas Antwort: Wenn ihr nicht auf mich hört, dann wird Gott zu euch in einer fremden Sprache reden, nämlich durch die assyrischen Soldaten. Dann versteht ihr nur noch Kauderwelsch.\nVers 12: Dabei hatte Gott ihnen eigentlich Ruhe angeboten: „Gebt den Müden Ruhe!“ Gottes Weg wäre einfach gewesen."
+    },
+    {
+     "ueberschrift": "Ein Bund mit dem Tod",
+     "vers_von": 14,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Darum hört das Wort des HERRN, ihr Spötter,\ndie ihr dieses Volk in Jerusalem regiert:",
+       "englisch_web": "Therefore hear Yahweh’s word, you scoffers, that rule this people in Jerusalem:"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "„Weil ihr gesagt habt:\n‚Wir haben einen Bund mit dem Tod geschlossen,\nund mit dem Totenreich haben wir einen Vertrag.\nWenn die überflutende Geißel durchzieht,\nwird sie nicht zu uns kommen,\ndenn wir haben Lüge zu unserer Zuflucht gemacht\nund uns unter Falschheit versteckt‘,",
+       "englisch_web": "“Because you have said, ‘We have made a covenant with death, and we are in agreement with Sheol. When the overflowing scourge passes through, it won’t come to us; for we have made lies our refuge, and we have hidden ourselves under falsehood.’”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "darum spricht der Herr, der HERR:\n„Siehe, ich lege in Zion einen Grundstein,\neinen bewährten Stein,\neinen kostbaren Eckstein, der fest gegründet ist.\nWer glaubt, wird nicht in Hast geraten.",
+       "englisch_web": "Therefore the Lord Yahweh says, “Behold, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. He who believes shall not act hastily."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ich werde das Recht zur Messschnur machen\nund die Gerechtigkeit zum Senkblei.\nDer Hagel wird die Zuflucht der Lüge wegfegen,\nund die Wasser werden das Versteck überfluten.",
+       "englisch_web": "I will make justice the measuring line, and righteousness the plumb line. The hail will sweep away the refuge of lies, and the waters will overflow the hiding place."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Euer Bund mit dem Tod wird aufgehoben werden,\nund euer Vertrag mit dem Totenreich wird nicht bestehen.\nWenn die überflutende Geißel durchzieht,\nwerdet ihr von ihr zertreten werden.",
+       "englisch_web": "Your covenant with death shall be annulled, and your agreement with Sheol shall not stand. When the overflowing scourge passes through, then you will be trampled down by it."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "So oft sie durchzieht, wird sie euch packen,\ndenn Morgen für Morgen wird sie durchziehen, bei Tag und bei Nacht,\nund es wird nichts als Schrecken sein, die Botschaft zu verstehen.“",
+       "englisch_web": "As often as it passes through, it will seize you; for morning by morning it will pass through, by day and by night; and it will be nothing but terror to understand the message.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Denn das Bett ist zu kurz, um sich darauf auszustrecken,\nund die Decke zu schmal, um sich darin einzuwickeln.",
+       "englisch_web": "For the bed is too short to stretch out on, and the blanket is too narrow to wrap oneself in."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn der HERR wird aufstehen wie am Berg Perazim.\nEr wird zornig sein wie im Tal von Gibeon,\num sein Werk zu tun, sein ungewöhnliches Werk,\nund seine Tat zu vollbringen, seine außergewöhnliche Tat.",
+       "englisch_web": "For Yahweh will rise up as on Mount Perazim. He will be angry as in the valley of Gibeon; that he may do his work, his unusual work, and bring to pass his act, his extraordinary act."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Nun also, seid keine Spötter,\ndamit eure Fesseln nicht fester werden,\ndenn ich habe vom Herrn, dem HERRN der Heere,\neinen Beschluss der Vernichtung über die ganze Erde gehört.",
+       "englisch_web": "Now therefore don’t be scoffers, lest your bonds be made strong; for I have heard a decree of destruction from the Lord, Yahweh of Armies, on the whole earth."
+      }
+     ],
+     "erklaerung": "Vers 15: Die Anführer Jerusalems fühlen sich sicher. Sie haben Bündnisse geschlossen, wohl mit Ägypten, und glauben, dass ihnen nichts passieren kann. Jesaja nennt das spöttisch einen „Bund mit dem Tod“.\nVers 16: Gottes Antwort: Nicht Bündnisse geben Sicherheit, sondern Gott selbst. Er legt in Zion einen festen Grundstein. Wer darauf vertraut, muss nicht in Panik geraten. Das Neue Testament bezieht diesen „Eckstein“ auf Jesus Christus (Römer 9,33; 1. Petrus 2,6).\nVers 17: Gott baut mit den Werkzeugen eines Baumeisters: Recht ist die Messschnur, Gerechtigkeit das Senkblei.\nVers 20: Ein anschauliches Bild: Ihre falsche Sicherheit ist wie ein zu kurzes Bett und eine zu schmale Decke. Man kann darin nicht ruhen.\nVers 21: Bei Perazim und Gibeon hat Gott früher für David und Josua gegen die Feinde gekämpft (2. Samuel 5,20; Josua 10). Jetzt kämpft er gegen sein eigenes Volk. Das ist sein „ungewöhnliches“, fremdes Werk."
+    },
+    {
+     "ueberschrift": "Das Gleichnis vom Bauern",
+     "vers_von": 23,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Hört zu und hört meine Stimme!\nHorcht auf und hört meine Rede!",
+       "englisch_web": "Give ear, and hear my voice! Listen, and hear my speech!"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Pflügt der, der säen will, den ganzen Tag?\nWendet er ständig den Boden und zerschlägt die Schollen?",
+       "englisch_web": "Does he who plows to sow plow continually? Does he keep turning the soil and breaking the clods?"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Wenn er die Oberfläche geebnet hat,\npflanzt er dann nicht den Dill\nund streut den Kreuzkümmel aus\nund setzt den Weizen in Reihen,\ndie Gerste an ihren bestimmten Platz\nund den Dinkel an seinen Rand?",
+       "englisch_web": "When he has leveled its surface, doesn’t he plant the dill, and scatter the cumin seed, and put in the wheat in rows, the barley in the appointed place, and the spelt in its place?"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Denn sein Gott unterweist ihn zum rechten Verfahren\nund lehrt ihn.",
+       "englisch_web": "For his God instructs him in right judgment and teaches him."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Denn der Dill wird nicht mit einem scharfen Dreschschlitten gedroschen,\nund das Wagenrad wird nicht über den Kreuzkümmel gerollt,\nsondern der Dill wird mit einem Stock ausgeklopft\nund der Kreuzkümmel mit einer Rute.",
+       "englisch_web": "For the dill isn’t threshed with a sharp instrument, neither is a cart wheel turned over the cumin; but the dill is beaten out with a stick, and the cumin with a rod."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Brotgetreide muss gemahlen werden.\nDarum drischt man es nicht für immer.\nAuch wenn man das Rad seines Dreschwagens darüber treibt,\nzermalmen seine Pferde es nicht.",
+       "englisch_web": "Bread flour must be ground; so he will not always be threshing it. Although he drives the wheel of his threshing cart over it, his horses don’t grind it."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Auch dies kommt vom HERRN der Heere,\nder wunderbar ist im Rat\nund groß in der Weisheit.",
+       "englisch_web": "This also comes out from Yahweh of Armies, who is wonderful in counsel, and excellent in wisdom."
+      }
+     ],
+     "erklaerung": "Ein kleines Gleichnis aus der Landwirtschaft: Ein Bauer pflügt nicht ewig, sondern sät danach. Er behandelt jede Pflanze anders: Dill und Kümmel werden vorsichtig mit einem Stock ausgeklopft, Getreide mit dem schweren Dreschwagen. Und auch das Getreide wird nicht zermalmt.\nDie Botschaft: So wie der Bauer weiß, was jede Pflanze braucht, so weiß Gott, was jedes Volk braucht. Sein Gericht dauert nicht ewig und hat ein Ziel. Er will sein Volk nicht zerstören, sondern es zu „Brot“ machen."
+    }
+   ]
+  },
+  {
+   "kapitel": 29,
+   "titel": "Mit den Lippen ehren sie mich",
+   "abschnitte": [
+    {
+     "ueberschrift": "Wehe Ariël",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wehe Ariël!\nAriël, die Stadt, wo David lagerte!\nFügt Jahr zu Jahr,\nlasst die Feste ihren Kreislauf nehmen,",
+       "englisch_web": "Woe to Ariel! Ariel, the city where David encamped! Add year to year; let the feasts come around;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "dann werde ich Ariël bedrängen,\nund es wird Trauer und Klage geben.\nSie wird mir wie ein Altarherd sein.",
+       "englisch_web": "then I will distress Ariel, and there will be mourning and lamentation. She shall be to me as an altar hearth."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich werde rings um dich her lagern\nund dich mit Wachposten belagern.\nIch werde Belagerungswerke gegen dich errichten.",
+       "englisch_web": "I will encamp against you all around you, and will lay siege against you with posted troops. I will raise siege works against you."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Du wirst erniedrigt werden\nund aus der Erde heraus reden.\nDeine Rede wird aus dem Staub murmeln.\nDeine Stimme wird wie die eines Totengeistes aus der Erde kommen,\nund deine Rede wird aus dem Staub flüstern.",
+       "englisch_web": "You will be brought down, and will speak out of the ground. Your speech will mumble out of the dust. Your voice will be as of one who has a familiar spirit, out of the ground, and your speech will whisper out of the dust."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Aber die Menge deiner Feinde wird wie feiner Staub sein\nund die Menge der Gewalttätigen wie Spreu, die verweht.\nJa, es wird in einem Augenblick geschehen, plötzlich.",
+       "englisch_web": "But the multitude of your foes will be like fine dust, and the multitude of the ruthless ones like chaff that blows away. Yes, it will be in an instant, suddenly."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Sie wird vom HERRN der Heere heimgesucht werden\nmit Donner, mit Erdbeben, mit großem Lärm,\nmit Wirbelwind und Sturm\nund mit der Flamme eines verzehrenden Feuers.",
+       "englisch_web": "She will be visited by Yahweh of Armies with thunder, with earthquake, with great noise, with whirlwind and storm, and with the flame of a devouring fire."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Menge aller Nationen, die gegen Ariël kämpfen,\nalle, die gegen sie und ihre Festung kämpfen und sie bedrängen,\nwird wie ein Traum sein, wie eine Erscheinung in der Nacht.",
+       "englisch_web": "The multitude of all the nations that fight against Ariel, even all who fight against her and her stronghold, and who distress her, will be like a dream, a vision of the night."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Es wird sein wie wenn ein Hungriger träumt,\nund siehe, er isst,\naber er wacht auf, und sein Hunger ist nicht gestillt.\nOder wie wenn ein Durstiger träumt,\nund siehe, er trinkt,\naber er wacht auf, und siehe, er ist erschöpft und immer noch durstig.\nSo wird es der Menge aller Nationen gehen,\ndie gegen den Berg Zion kämpfen.",
+       "englisch_web": "It will be like when a hungry man dreams, and behold, he eats; but he awakes, and his hunger isn’t satisfied; or like when a thirsty man dreams, and behold, he drinks; but he awakes, and behold, he is faint, and he is still thirsty. The multitude of all the nations that fight against Mount Zion will be like that."
+      }
+     ],
+     "erklaerung": "„Ariël“ ist ein Name für Jerusalem. Er bedeutet vielleicht „Löwe Gottes“ oder „Altarherd“. Ein Wortspiel: Jerusalem wird selbst wie ein brennender Altar werden.\nVers 1: Jahr für Jahr feiert man in Jerusalem die Feste, ganz gewohnheitsmäßig. Aber Gott wird die Stadt in Not bringen.\nVers 4: Jerusalem wird so tief erniedrigt, dass ihre Stimme nur noch wie ein Flüstern aus der Erde klingt.\nVers 5–8: Doch dann die Wende: Die Feinde verschwinden plötzlich wie Staub im Wind. Sie wachen auf wie aus einem Traum, in dem sie gegessen haben, und sind immer noch hungrig. Ihr Traum, Jerusalem zu erobern, zerplatzt."
+    },
+    {
+     "ueberschrift": "Ein versiegeltes Buch",
+     "vers_von": 9,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Haltet inne und staunt!\nVerblendet euch und seid blind!\nSie sind betrunken, aber nicht vom Wein.\nSie taumeln, aber nicht vom starken Getränk.",
+       "englisch_web": "Pause and wonder! Blind yourselves and be blind! They are drunken, but not with wine; they stagger, but not with strong drink."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Denn der HERR hat einen Geist des tiefen Schlafes über euch ausgegossen\nund hat eure Augen verschlossen, die Propheten,\nund eure Köpfe verhüllt, die Seher.",
+       "englisch_web": "For Yahweh has poured out on you a spirit of deep sleep, and has closed your eyes, the prophets; and he has covered your heads, the seers."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Alle Vision ist für euch geworden wie die Worte eines versiegelten Buches,\ndas man einem gibt, der lesen kann, und sagt: „Lies das bitte!“\nUnd er sagt: „Ich kann nicht, denn es ist versiegelt.“",
+       "englisch_web": "All vision has become to you like the words of a book that is sealed, which men deliver to one who is educated, saying, “Read this, please;” and he says, “I can’t, for it is sealed;”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Und man gibt das Buch einem, der nicht lesen kann, und sagt: „Lies das bitte!“\nUnd er sagt: „Ich kann nicht lesen.“",
+       "englisch_web": "and the book is delivered to one who is not educated, saying, “Read this, please;” and he says, “I can’t read.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der Herr sagte:\n„Weil dieses Volk sich mit seinem Mund nähert\nund mich mit seinen Lippen ehrt,\naber sein Herz fern von mir hält,\nund weil ihre Furcht vor mir nur ein Gebot ist,\ndas Menschen gelehrt haben,",
+       "englisch_web": "The Lord said, “Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "darum, siehe, werde ich weiterhin mit diesem Volk wunderbar handeln,\nwunderbar und wundersam.\nDie Weisheit seiner Weisen wird vergehen,\nund der Verstand seiner Verständigen wird sich verbergen.“",
+       "englisch_web": "therefore, behold, I will proceed to do a marvelous work among this people, even a marvelous work and a wonder; and the wisdom of their wise men will perish, and the understanding of their prudent men will be hidden.”"
+      }
+     ],
+     "erklaerung": "Vers 9–12: Das Volk ist geistlich blind. Gottes Botschaft ist für sie wie ein versiegeltes Buch: Die Gebildeten sagen „Es ist versiegelt“, die Ungebildeten sagen „Ich kann nicht lesen“. Niemand will sich die Mühe machen, Gottes Wort wirklich zu verstehen.\nVers 13 ist ein sehr wichtiger Vers: Die Menschen beten mit dem Mund, aber ihr Herz ist weit weg von Gott. Ihr Glaube besteht nur aus auswendig gelernten Regeln. Jesus zitiert diesen Vers (Matthäus 15,8–9).\nDiese Gefahr gibt es in jeder Religion und zu jeder Zeit: fromme Worte ohne echtes Herz.\nVers 14: Paulus zitiert diesen Vers: Gott macht die Weisheit der Weisen zunichte (1. Korinther 1,19)."
+    },
+    {
+     "ueberschrift": "Der Töpfer und der Ton",
+     "vers_von": 15,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Wehe denen, die ihren Plan tief vor dem HERRN verbergen,\nderen Taten im Dunkeln geschehen und die sagen:\n„Wer sieht uns?“ und „Wer kennt uns?“",
+       "englisch_web": "Woe to those who deeply hide their counsel from Yahweh, and whose deeds are in the dark, and who say, “Who sees us?” and “Who knows us?”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ihr verdreht alles!\nSoll der Töpfer etwa dem Ton gleich geachtet werden,\ndass das Werk von dem, der es gemacht hat, sagen könnte:\n„Er hat mich nicht gemacht“,\noder das Gebilde von dem, der es geformt hat:\n„Er hat keinen Verstand“?",
+       "englisch_web": "You turn things upside down! Should the potter be thought to be like clay, that the thing made should say about him who made it, “He didn’t make me;” or the thing formed say of him who formed it, “He has no understanding”?"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ist es nicht nur noch eine kleine Weile,\ndann wird der Libanon zu einem Fruchtgarten werden,\nund der Fruchtgarten wird für einen Wald gehalten werden?",
+       "englisch_web": "Isn’t it yet a very little while, and Lebanon will be turned into a fruitful field, and the fruitful field will be regarded as a forest?"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "An jenem Tag werden die Tauben die Worte des Buches hören,\nund die Augen der Blinden werden aus Dunkel und Finsternis sehen.",
+       "englisch_web": "In that day, the deaf will hear the words of the book, and the eyes of the blind will see out of obscurity and out of darkness."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Auch die Demütigen werden ihre Freude am HERRN vermehren,\nund die Armen unter den Menschen werden über den Heiligen Israels jubeln.",
+       "englisch_web": "The humble also will increase their joy in Yahweh, and the poor among men will rejoice in the Holy One of Israel."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Denn der Gewalttätige hat ein Ende,\nund der Spötter hört auf,\nund alle, die darauf lauern, Böses zu tun, werden ausgerottet,",
+       "englisch_web": "For the ruthless is brought to nothing, and the scoffer ceases, and all those who are alert to do evil are cut off—"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "die einen Menschen durch ein Wort schuldig sprechen\nund dem eine Falle stellen, der im Tor Recht spricht,\nund den Unschuldigen durch falsches Zeugnis um sein Recht bringen.",
+       "englisch_web": "who cause a person to be indicted by a word, and lay a snare for one who reproves in the gate, and who deprive the innocent of justice with false testimony."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Darum spricht der HERR, der Abraham erlöst hat,\nüber das Haus Jakob:\n„Jakob soll nicht mehr beschämt werden,\nund sein Gesicht soll nicht mehr blass werden.",
+       "englisch_web": "Therefore Yahweh, who redeemed Abraham, says concerning the house of Jacob: “Jacob shall no longer be ashamed, neither shall his face grow pale."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Wenn er aber seine Kinder sieht, das Werk meiner Hände, in seiner Mitte,\ndann werden sie meinen Namen heiligen.\nJa, sie werden den Heiligen Jakobs heiligen\nund vor dem Gott Israels Ehrfurcht haben.",
+       "englisch_web": "But when he sees his children, the work of my hands, in the middle of him, they will sanctify my name. Yes, they will sanctify the Holy One of Jacob, and will stand in awe of the God of Israel."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Auch die, die im Geist irren, werden zur Einsicht kommen,\nund die, die murren, werden Belehrung annehmen.“",
+       "englisch_web": "They also who err in spirit will come to understanding, and those who grumble will receive instruction.”"
+      }
+     ],
+     "erklaerung": "Vers 15: Manche glauben, sie könnten ihre Pläne vor Gott verstecken: „Wer sieht uns schon?“\nVers 16: Jesajas Antwort mit einem Bild: Kann der Tontopf zum Töpfer sagen: „Du hast mich nicht gemacht“? Der Mensch ist Gottes Geschöpf und kann sich nicht über ihn stellen. Paulus nimmt dieses Bild auf (Römer 9,20–21).\nVers 17–19: Bald wird sich alles umkehren: Taube hören, Blinde sehen, Arme jubeln. Jesus zeigt solche Zeichen in seinem Wirken (Matthäus 11,5).\nVers 20–21: Die Gewalttätigen und die korrupten Richter, die Unschuldige mit Lügen verurteilen, haben ein Ende.\nVers 22–24: Gott wird sein Volk erneuern. Auch die Verwirrten und die Nörgler werden verstehen."
+    }
+   ]
+  },
+  {
+   "kapitel": 30,
+   "titel": "Durch Stillsein und Vertrauen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Nutzlose Hilfe aus Ägypten",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "„Wehe den widerspenstigen Kindern“, spricht der HERR,\n„die Pläne schmieden, aber nicht von mir,\nund die ein Bündnis schließen, aber nicht mit meinem Geist,\num Sünde auf Sünde zu häufen,",
+       "englisch_web": "“Woe to the rebellious children”, says Yahweh, “who take counsel, but not from me; and who make an alliance, but not with my Spirit, that they may add sin to sin;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "die losziehen, um nach Ägypten hinabzugehen,\nohne mich um Rat zu fragen,\num sich in der Stärke des Pharao zu stärken\nund im Schatten Ägyptens Zuflucht zu suchen!",
+       "englisch_web": "who set out to go down into Egypt without asking for my advice, to strengthen themselves in the strength of Pharaoh, and to take refuge in the shadow of Egypt!"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Darum wird die Stärke des Pharao eure Schande sein\nund die Zuflucht im Schatten Ägyptens eure Beschämung.",
+       "englisch_web": "Therefore the strength of Pharaoh will be your shame, and the refuge in the shadow of Egypt your confusion."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn ihre Fürsten sind in Zoan,\nund ihre Gesandten sind nach Hanes gekommen.",
+       "englisch_web": "For their princes are at Zoan, and their ambassadors have come to Hanes."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sie alle werden beschämt werden\nwegen eines Volkes, das ihnen nichts nützen kann,\ndas keine Hilfe und kein Nutzen ist,\nsondern Schande und auch Schmach.“",
+       "englisch_web": "They shall all be ashamed because of a people that can’t profit them, that are not a help nor profit, but a shame, and also a reproach.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Last über die Tiere des Südens.\nDurch das Land der Not und der Angst,\nder Löwin und des Löwen,\nder Otter und des fliegenden Feuerdrachen,\ntragen sie ihre Reichtümer auf dem Rücken junger Esel\nund ihre Schätze auf den Höckern von Kamelen\nzu einem Volk, das nichts nützt.",
+       "englisch_web": "The burden of the animals of the South. Through the land of trouble and anguish, of the lioness and the lion, the viper and fiery flying serpent, they carry their riches on the shoulders of young donkeys, and their treasures on the humps of camels, to an unprofitable people."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn Ägypten hilft umsonst und vergeblich.\nDarum habe ich es „Rahab, die stillsitzt“ genannt.",
+       "englisch_web": "For Egypt helps in vain, and to no purpose; therefore I have called her Rahab who sits still."
+      }
+     ],
+     "erklaerung": "König Hiskia und seine Berater schicken Gesandte nach Ägypten, um ein Bündnis gegen Assyrien zu schließen. Sie fragen Gott nicht um Rat.\nVers 6: Mühsam schleppen sie Geschenke durch die gefährliche Wüste, voller Löwen und Schlangen. Alles umsonst.\nVers 7: „Rahab“ ist ein Name für ein Meeresungeheuer und für Ägypten. Jesaja macht sich lustig: Ägypten ist ein Ungeheuer, das nur still herumsitzt und nichts tut."
+    },
+    {
+     "ueberschrift": "Erzählt uns nur angenehme Dinge",
+     "vers_von": 8,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Jetzt geh, schreib es vor ihnen auf eine Tafel\nund zeichne es in ein Buch,\ndamit es für die kommende Zeit bleibt,\nfür immer und ewig.",
+       "englisch_web": "Now go, write it before them on a tablet, and inscribe it in a book, that it may be for the time to come forever and ever."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn es ist ein widerspenstiges Volk,\nlügnerische Kinder,\nKinder, die die Weisung des HERRN nicht hören wollen,",
+       "englisch_web": "For it is a rebellious people, lying children, children who will not hear Yahweh’s law;"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "die zu den Sehern sagen: „Seht nicht!“\nund zu den Propheten: „Prophezeit uns nicht, was richtig ist!\nSagt uns angenehme Dinge!\nProphezeit uns Täuschungen!",
+       "englisch_web": "who tell the seers, “Don’t see!” and the prophets, “Don’t prophesy to us right things. Tell us pleasant things. Prophesy deceits."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Geht aus dem Weg!\nWeicht vom Pfad ab!\nLasst uns in Ruhe mit dem Heiligen Israels!“",
+       "englisch_web": "Get out of the way. Turn away from the path. Cause the Holy One of Israel to cease from before us.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darum spricht der Heilige Israels:\n„Weil ihr dieses Wort verachtet\nund auf Unterdrückung und Verkehrtheit vertraut\nund euch darauf stützt,",
+       "englisch_web": "Therefore the Holy One of Israel says, “Because you despise this word, and trust in oppression and perverseness, and rely on it,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "darum wird diese Schuld für euch sein\nwie ein Riss, der einzustürzen droht,\neine Ausbuchtung an einer hohen Mauer,\nderen Einsturz plötzlich kommt, in einem Augenblick.",
+       "englisch_web": "therefore this iniquity shall be to you like a breach ready to fall, swelling out in a high wall, whose breaking comes suddenly in an instant."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er wird sie zerbrechen, wie man einen Tontopf zerbricht,\nder ohne Schonung zerschlagen wird,\nsodass unter den Scherben kein Stück zu finden ist,\nmit dem man Feuer vom Herd holen\noder Wasser aus der Zisterne schöpfen könnte.“",
+       "englisch_web": "He will break it as a potter’s vessel is broken, breaking it in pieces without sparing, so that there won’t be found among the broken pieces a piece good enough to take fire from the hearth, or to dip up water out of the cistern.”"
+      }
+     ],
+     "erklaerung": "Vers 10–11: Das Volk will keine unbequeme Wahrheit hören. Es sagt zu den Propheten: Erzählt uns nur angenehme Dinge! Lügt uns ruhig an! Das ist eine sehr menschliche Haltung, die man bis heute kennt.\nVers 13–14: Ihre Schuld ist wie ein Riss in einer Mauer. Man sieht ihn erst kaum, aber plötzlich stürzt alles ein. Am Ende bleibt nicht einmal eine Scherbe übrig."
+    },
+    {
+     "ueberschrift": "Umkehr und Ruhe",
+     "vers_von": 15,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Denn so sprach der Herr, der HERR, der Heilige Israels:\n„Durch Umkehr und Ruhe werdet ihr gerettet werden.\nIn Stillsein und Vertrauen wird eure Stärke liegen.“\nAber ihr wolltet nicht,",
+       "englisch_web": "For thus said the Lord Yahweh, the Holy One of Israel, “You will be saved in returning and rest. Your strength will be in quietness and in confidence.” You refused,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "sondern ihr sagtet: „Nein, wir wollen auf Pferden fliehen!“\nDarum werdet ihr fliehen.\nUnd: „Wir wollen auf schnellen Pferden reiten!“\nDarum werden eure Verfolger schnell sein.",
+       "englisch_web": "but you said, “No, for we will flee on horses;” therefore you will flee; and, “We will ride on the swift;” therefore those who pursue you will be swift."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Tausend werden fliehen vor der Drohung eines Einzigen.\nVor der Drohung von fünf werdet ihr fliehen,\nbis ihr übrig bleibt wie ein Mast auf einem Berggipfel\nund wie ein Feldzeichen auf einem Hügel.",
+       "englisch_web": "One thousand will flee at the threat of one. At the threat of five, you will flee until you are left like a beacon on the top of a mountain, and like a banner on a hill."
+      }
+     ],
+     "erklaerung": "Vers 15 ist einer der bekanntesten Verse Jesajas: „In Stillsein und Vertrauen liegt eure Stärke.“ Gott lädt ein, nicht in Panik zu verfallen, sondern umzukehren, zur Ruhe zu kommen und ihm zu vertrauen.\nAber das Volk will lieber auf schnelle Pferde setzen, also auf militärische Stärke. Das Ergebnis: Sie werden fliehen müssen.\nEin Gedanke, der bis heute hilft: In Stress und Angst ist es oft klüger, still zu werden und Gott zu vertrauen, als hektisch zu handeln."
+    },
+    {
+     "ueberschrift": "Gott wartet darauf, gnädig zu sein",
+     "vers_von": 18,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Darum wartet der HERR darauf, euch gnädig zu sein,\nund darum erhebt er sich, um sich über euch zu erbarmen,\ndenn der HERR ist ein Gott des Rechts.\nGlücklich sind alle, die auf ihn warten.",
+       "englisch_web": "Therefore Yahweh will wait, that he may be gracious to you; and therefore he will be exalted, that he may have mercy on you, for Yahweh is a God of justice. Blessed are all those who wait for him."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn das Volk wird auf Zion in Jerusalem wohnen.\nDu wirst nicht mehr weinen.\nEr wird dir gewiss gnädig sein, wenn du um Hilfe schreist.\nWenn er dich hört, wird er dir antworten.",
+       "englisch_web": "For the people will dwell in Zion at Jerusalem. You will weep no more. He will surely be gracious to you at the voice of your cry. When he hears you, he will answer you."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Auch wenn der Herr euch Brot der Not und Wasser der Bedrängnis gibt,\nso werden sich deine Lehrer nicht mehr verbergen,\nsondern deine Augen werden deine Lehrer sehen,",
+       "englisch_web": "Though the Lord may give you the bread of adversity and the water of affliction, yet your teachers won’t be hidden any more, but your eyes will see your teachers;"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "und wenn ihr nach rechts oder nach links abbiegt,\nwerden deine Ohren ein Wort hinter dir hören:\n„Das ist der Weg. Geht auf ihm!“",
+       "englisch_web": "and when you turn to the right hand, and when you turn to the left, your ears will hear a voice behind you, saying, “This is the way. Walk in it.”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Ihr werdet den Silberüberzug eurer geschnitzten Götzenbilder\nund die Goldverkleidung eurer gegossenen Bilder entweihen.\nIhr werdet sie wegwerfen wie etwas Unreines.\nDu wirst zu ihm sagen: „Hinaus!“",
+       "englisch_web": "You shall defile the overlaying of your engraved images of silver, and the plating of your molten images of gold. You shall cast them away as an unclean thing. You shall tell it, “Go away!”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Er wird Regen geben für deine Saat,\nmit der du den Acker besäst,\nund das Brot vom Ertrag des Ackers wird kräftig und reichlich sein.\nAn jenem Tag wird dein Vieh auf weiten Weiden grasen.",
+       "englisch_web": "He will give the rain for your seed, with which you will sow the ground; and bread of the increase of the ground will be rich and plentiful. In that day, your livestock will feed in large pastures."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Auch die Rinder und die jungen Esel, die den Acker bearbeiten,\nwerden würziges Futter fressen,\ndas mit der Schaufel und der Gabel geworfelt wurde.",
+       "englisch_web": "The oxen likewise and the young donkeys that till the ground will eat savory feed, which has been winnowed with the shovel and with the fork."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Auf jedem hohen Berg und auf jedem erhabenen Hügel\nwerden Bäche und Wasserläufe sein\nam Tag des großen Gemetzels, wenn die Türme fallen.",
+       "englisch_web": "There will be brooks and streams of water on every lofty mountain and on every high hill in the day of the great slaughter, when the towers fall."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Das Licht des Mondes wird wie das Licht der Sonne sein,\nund das Licht der Sonne wird siebenmal heller sein,\nwie das Licht von sieben Tagen,\nan dem Tag, an dem der HERR den Bruch seines Volkes verbindet\nund die Wunde heilt, mit der es geschlagen wurde.",
+       "englisch_web": "Moreover the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, in the day that Yahweh binds up the fracture of his people, and heals the wound they were struck with."
+      }
+     ],
+     "erklaerung": "Vers 18: Ein wunderschöner Gedanke: Gott wartet selbst darauf, gnädig sein zu können. Er sehnt sich danach, seinem Volk zu helfen.\nVers 19: „Du wirst nicht mehr weinen.“ Gott hört jeden Hilfeschrei.\nVers 20–21: Ein tröstliches Bild: Wenn du unsicher bist, welchen Weg du gehen sollst, hörst du hinter dir eine Stimme: „Das ist der Weg, geh ihn!“ Gott begleitet dich wie ein guter Lehrer.\nVers 23–26: Ein Bild für eine wunderbare Zukunft: Regen, reiche Ernte, Wasser überall, helles Licht. Und vor allem: Gott verbindet die Wunden seines Volkes und heilt sie."
+    },
+    {
+     "ueberschrift": "Gottes Gericht über Assyrien",
+     "vers_von": 27,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Siehe, der Name des HERRN kommt von fern,\nbrennend in seinem Zorn und in dichtem, aufsteigendem Rauch.\nSeine Lippen sind voll Grimm.\nSeine Zunge ist wie ein verzehrendes Feuer.",
+       "englisch_web": "Behold, Yahweh’s name comes from far away, burning with his anger, and in thick rising smoke. His lips are full of indignation. His tongue is as a devouring fire."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Sein Atem ist wie ein überflutender Strom, der bis an den Hals reicht,\num die Völker mit dem Sieb der Vernichtung zu sieben.\nEin Zaum, der ins Verderben führt, wird im Maul der Völker sein.",
+       "englisch_web": "His breath is as an overflowing stream that reaches even to the neck, to sift the nations with the sieve of destruction. A bridle that leads to ruin will be in the jaws of the peoples."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Ihr werdet ein Lied haben wie in der Nacht, in der man ein heiliges Fest feiert,\nund Freude des Herzens wie einer, der mit der Flöte geht,\num auf den Berg des HERRN zu kommen, zum Fels Israels.",
+       "englisch_web": "You will have a song, as in the night when a holy feast is kept, and gladness of heart, as when one goes with a flute to come to Yahweh’s mountain, to Israel’s Rock."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Der HERR wird seine herrliche Stimme hören lassen\nund zeigen, wie sein Arm herabfährt\nmit dem Grimm seines Zorns und der Flamme eines verzehrenden Feuers,\nmit Wolkenbruch, Sturm und Hagelsteinen.",
+       "englisch_web": "Yahweh will cause his glorious voice to be heard, and will show the descent of his arm, with the indignation of his anger and the flame of a devouring fire, with a blast, storm, and hailstones."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Denn durch die Stimme des HERRN wird Assyrien bestürzt werden.\nEr wird es mit seinem Stock schlagen.",
+       "englisch_web": "For through Yahweh’s voice the Assyrian will be dismayed. He will strike him with his rod."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Jeder Schlag des Strafstocks, den der HERR auf es niederfahren lässt,\nwird unter dem Klang von Tamburinen und Harfen geschehen.\nEr wird in Schlachten mit ihnen kämpfen, mit geschwungener Waffe.",
+       "englisch_web": "Every stroke of the rod of punishment, which Yahweh will lay on him, will be with the sound of tambourines and harps. He will fight with them in battles, brandishing weapons."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Denn seine Brandstätte ist längst bereitet.\nJa, sie ist für den König vorbereitet.\nEr hat ihren Scheiterhaufen tief und weit gemacht,\nmit Feuer und viel Holz.\nDer Atem des HERRN, wie ein Strom von Schwefel, entzündet ihn.",
+       "englisch_web": "For his burning place has long been ready. Yes, it is prepared for the king. He has made its pyre deep and large with fire and much wood. Yahweh’s breath, like a stream of sulfur, kindles it."
+      }
+     ],
+     "erklaerung": "Gott selbst kommt wie ein gewaltiges Unwetter, um Assyrien zu richten.\nVers 29: Für Gottes Volk wird es ein Fest sein, wie in der Nacht des Pessachfestes, wenn man mit Liedern und Flöten nach Jerusalem pilgert.\nVers 33: „Die Brandstätte“ heißt im Hebräischen „Tofet“. Das war ein Ort im Tal Hinnom bei Jerusalem, an dem schreckliche Kinderopfer stattgefunden hatten (2. Könige 23,10). Jetzt soll dort der König von Assyrien sein Ende finden. Aus dem Namen dieses Tals („Gehinnom“) wurde später das Wort „Gehenna“, ein Bild für die Hölle."
+    }
+   ]
+  },
+  {
+   "kapitel": 31,
+   "titel": "Ägypter sind Menschen, nicht Gott",
+   "abschnitte": [
+    {
+     "ueberschrift": "Wehe denen, die nach Ägypten gehen",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wehe denen, die nach Ägypten hinabgehen, um Hilfe zu holen,\nund sich auf Pferde stützen\nund auf Streitwagen vertrauen, weil es viele sind,\nund auf Reiter, weil sie sehr stark sind,\naber nicht auf den Heiligen Israels schauen\nund den HERRN nicht suchen!",
+       "englisch_web": "Woe to those who go down to Egypt for help, and rely on horses, and trust in chariots because they are many, and in horsemen because they are very strong, but they don’t look to the Holy One of Israel, and they don’t seek Yahweh!"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Doch auch er ist weise.\nEr wird Unheil bringen\nund seine Worte nicht zurücknehmen,\nsondern er wird sich erheben gegen das Haus der Übeltäter\nund gegen die Hilfe derer, die Unrecht tun.",
+       "englisch_web": "Yet he also is wise, and will bring disaster, and will not call back his words, but will arise against the house of the evildoers, and against the help of those who work iniquity."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Ägypter sind Menschen und nicht Gott,\nund ihre Pferde sind Fleisch und nicht Geist.\nWenn der HERR seine Hand ausstreckt,\ndann stolpert der Helfer,\nund der, dem geholfen wird, fällt,\nund sie alle werden zusammen umkommen.",
+       "englisch_web": "Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When Yahweh stretches out his hand, both he who helps shall stumble, and he who is helped shall fall, and they all shall be consumed together."
+      }
+     ],
+     "erklaerung": "Wieder die Warnung vor dem Bündnis mit Ägypten. Ägypten hatte viele Pferde und Streitwagen, die modernste Militärtechnik der damaligen Zeit.\nVers 3 ist ein klarer Satz: „Die Ägypter sind Menschen und nicht Gott. Ihre Pferde sind Fleisch und nicht Geist.“ Menschliche Macht ist begrenzt. Wer sich nur auf sie verlässt, wird enttäuscht."
+    },
+    {
+     "ueberschrift": "Gott beschützt Jerusalem wie ein Vogel",
+     "vers_von": 4,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn so spricht der HERR zu mir:\n„Wie der Löwe und der junge Löwe über seiner Beute knurrt,\nund wenn eine Menge von Hirten gegen ihn zusammengerufen wird,\nerschrickt er nicht vor ihrem Geschrei\nund duckt sich nicht vor ihrem Lärm,\nso wird der HERR der Heere herabkommen,\num auf dem Berg Zion und auf seinem Hügel zu kämpfen.",
+       "englisch_web": "For Yahweh says to me, “As the lion and the young lion growling over his prey, if a multitude of shepherds is called together against him, will not be dismayed at their voice, nor abase himself for their noise, so Yahweh of Armies will come down to fight on Mount Zion and on its heights."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wie Vögel, die über ihrem Nest schweben,\nso wird der HERR der Heere Jerusalem beschützen.\nEr wird es beschützen und retten.\nEr wird schonend vorübergehen und es bewahren.“",
+       "englisch_web": "As birds hovering, so Yahweh of Armies will protect Jerusalem. He will protect and deliver it. He will pass over and preserve it.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Kehrt um zu dem, von dem ihr euch so tief abgewandt habt,\nihr Kinder Israels!",
+       "englisch_web": "Return to him from whom you have deeply revolted, children of Israel."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn an jenem Tag wird jeder seine Götzen aus Silber\nund seine Götzen aus Gold wegwerfen,\ndie Sünde, die eure eigenen Hände euch gemacht haben.",
+       "englisch_web": "For in that day everyone shall cast away his idols of silver and his idols of gold—sin which your own hands have made for you."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "„Assyrien wird durch ein Schwert fallen, das nicht von einem Mann ist,\nund ein Schwert, das nicht von einem Menschen ist, wird es fressen.\nEs wird vor dem Schwert fliehen,\nund seine jungen Männer werden zu Zwangsarbeit verurteilt.",
+       "englisch_web": "“The Assyrian will fall by the sword, not of man; and the sword, not of mankind, shall devour him. He will flee from the sword, and his young men will become subject to forced labor."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sein Fels wird vor Schrecken vergehen,\nund seine Fürsten werden sich vor dem Feldzeichen fürchten“,\nspricht der HERR, dessen Feuer in Zion ist\nund dessen Ofen in Jerusalem.",
+       "englisch_web": "His rock will pass away by reason of terror, and his princes will be afraid of the banner,” says Yahweh, whose fire is in Zion, and his furnace in Jerusalem."
+      }
+     ],
+     "erklaerung": "Vers 4: Gott ist wie ein Löwe, der sich von keinem Lärm einschüchtern lässt.\nVers 5: Und gleichzeitig ist Gott wie eine Vogelmutter, die schützend über ihrem Nest schwebt. Zwei Bilder: Stärke und Zärtlichkeit. „Schonend vorübergehen“ erinnert im Hebräischen an „Pessach“, als Gott an den Häusern Israels vorüberging und sie verschonte.\nVers 6: Der eigentliche Aufruf: Kehrt um zu Gott!\nVers 8: Assyrien wird nicht durch Menschenhand fallen, sondern durch Gottes Eingreifen. So berichtet es Kapitel 37,36."
+    }
+   ]
   }
  ]
 }

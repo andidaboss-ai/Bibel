@@ -86531,3 +86531,514 @@ auf dem heiligen Berg in Jerusalem.
 > Vers 13: Eine große Posaune ruft alle Zerstreuten heim, aus Assyrien und aus Ägypten, zum Gottesdienst nach Jerusalem.
 > Diese „große Posaune“ wird im jüdischen Gebet bis heute erwähnt: „Blase die große Posaune zu unserer Befreiung.“ Auch im Neuen Testament ist von der Posaune die Rede, wenn Gott seine Menschen sammelt (Matthäus 24,31; 1. Thessalonicher 4,16).
 > Damit endet die „Jesaja-Apokalypse“: mit einer großen Heimkehr.
+
+## Jesaja – Kapitel 28
+#### Der kostbare Eckstein
+
+---
+
+### Wehe den Betrunkenen von Ephraim (Vers 1–6)
+
+<sup>1</sup>Wehe der stolzen Krone der Betrunkenen von Ephraim
+und der welkenden Blume seiner herrlichen Pracht,
+die auf dem Gipfel über dem fruchtbaren Tal liegt,
+bei denen, die vom Wein überwältigt sind!
+<sup>2</sup>Siehe, der Herr hat einen Mächtigen und Starken.
+Wie ein Hagelsturm, ein verheerender Sturm,
+wie eine Flut gewaltiger, überströmender Wasser,
+wird er sie mit seiner Hand zu Boden werfen.
+<sup>3</sup>Die stolze Krone der Betrunkenen von Ephraim
+wird mit Füßen zertreten werden.
+<sup>4</sup>Die welkende Blume seiner herrlichen Pracht,
+die auf dem Gipfel über dem fruchtbaren Tal liegt,
+wird sein wie die erste reife Feige vor dem Sommer:
+Wer sie sieht, pflückt sie und isst sie sofort.
+<sup>5</sup>An jenem Tag wird der HERR der Heere
+eine herrliche Krone und ein schönes Diadem sein
+für den Rest seines Volkes,
+<sup>6</sup>und ein Geist des Rechts für den, der zu Gericht sitzt,
+und Kraft für die, die den Kampf zum Tor zurückdrängen.
+
+> **Was bedeutet das?**
+> „Die stolze Krone von Ephraim“ ist Samaria, die Hauptstadt des Nordreichs. Sie lag auf einem Hügel über einem fruchtbaren Tal, wie ein Kranz auf einem Kopf. Aber die Oberschicht war betrunken und überheblich.
+> Vers 2–4: Assyrien wird kommen wie ein Hagelsturm. Samaria wird so schnell verschwinden wie eine reife Feige, die jemand sofort pflückt und isst. So geschah es im Jahr 722 vor Christus.
+> Vers 5–6: Nicht eine Stadt soll die Krone sein, sondern Gott selbst. Er gibt den Richtern Gerechtigkeit und den Soldaten Kraft.
+
+---
+
+### Priester und Propheten taumeln (Vers 7–13)
+
+<sup>7</sup>Auch diese taumeln vom Wein
+und schwanken vom starken Getränk.
+Priester und Prophet taumeln vom starken Getränk.
+Sie sind vom Wein verschlungen.
+Sie schwanken vom starken Getränk.
+Sie irren beim Sehen.
+Sie stolpern beim Urteilen.
+<sup>8</sup>Denn alle Tische sind ganz voll von ekligem Erbrochenen und Schmutz.
+<sup>9</sup>Wen will er Erkenntnis lehren?
+Wem will er die Botschaft erklären?
+Denen, die gerade von der Milch entwöhnt sind,
+die eben erst von der Brust genommen wurden?
+<sup>10</sup>Denn es heißt: Zaw la-zaw, zaw la-zaw,
+kaw la-kaw, kaw la-kaw,
+hier ein wenig, da ein wenig.
+<sup>11</sup>Aber er wird zu diesem Volk mit stammelnden Lippen
+und in einer fremden Sprache reden,
+<sup>12</sup>er, der zu ihnen gesagt hatte:
+„Das ist der Ruheplatz. Gebt den Müden Ruhe!“
+und: „Das ist die Erfrischung!“
+Aber sie wollten nicht hören.
+<sup>13</sup>Darum wird das Wort des HERRN für sie sein:
+Zaw la-zaw, zaw la-zaw,
+kaw la-kaw, kaw la-kaw,
+hier ein wenig, da ein wenig,
+damit sie gehen, rückwärts fallen,
+zerbrochen, verstrickt und gefangen werden.
+
+> **Was bedeutet das?**
+> Vers 7–8: Sogar die Priester und Propheten in Jerusalem sind betrunken. Ihre Tische sind voller Erbrochenem. Wie sollen sie da Gottes Willen erkennen?
+> Vers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: „Zaw la-zaw, kaw la-kaw“. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.
+> Vers 11–13: Jesajas Antwort: Wenn ihr nicht auf mich hört, dann wird Gott zu euch in einer fremden Sprache reden, nämlich durch die assyrischen Soldaten. Dann versteht ihr nur noch Kauderwelsch.
+> Vers 12: Dabei hatte Gott ihnen eigentlich Ruhe angeboten: „Gebt den Müden Ruhe!“ Gottes Weg wäre einfach gewesen.
+
+---
+
+### Ein Bund mit dem Tod (Vers 14–22)
+
+<sup>14</sup>Darum hört das Wort des HERRN, ihr Spötter,
+die ihr dieses Volk in Jerusalem regiert:
+<sup>15</sup>„Weil ihr gesagt habt:
+‚Wir haben einen Bund mit dem Tod geschlossen,
+und mit dem Totenreich haben wir einen Vertrag.
+Wenn die überflutende Geißel durchzieht,
+wird sie nicht zu uns kommen,
+denn wir haben Lüge zu unserer Zuflucht gemacht
+und uns unter Falschheit versteckt‘,
+<sup>16</sup>darum spricht der Herr, der HERR:
+„Siehe, ich lege in Zion einen Grundstein,
+einen bewährten Stein,
+einen kostbaren Eckstein, der fest gegründet ist.
+Wer glaubt, wird nicht in Hast geraten.
+<sup>17</sup>Ich werde das Recht zur Messschnur machen
+und die Gerechtigkeit zum Senkblei.
+Der Hagel wird die Zuflucht der Lüge wegfegen,
+und die Wasser werden das Versteck überfluten.
+<sup>18</sup>Euer Bund mit dem Tod wird aufgehoben werden,
+und euer Vertrag mit dem Totenreich wird nicht bestehen.
+Wenn die überflutende Geißel durchzieht,
+werdet ihr von ihr zertreten werden.
+<sup>19</sup>So oft sie durchzieht, wird sie euch packen,
+denn Morgen für Morgen wird sie durchziehen, bei Tag und bei Nacht,
+und es wird nichts als Schrecken sein, die Botschaft zu verstehen.“
+<sup>20</sup>Denn das Bett ist zu kurz, um sich darauf auszustrecken,
+und die Decke zu schmal, um sich darin einzuwickeln.
+<sup>21</sup>Denn der HERR wird aufstehen wie am Berg Perazim.
+Er wird zornig sein wie im Tal von Gibeon,
+um sein Werk zu tun, sein ungewöhnliches Werk,
+und seine Tat zu vollbringen, seine außergewöhnliche Tat.
+<sup>22</sup>Nun also, seid keine Spötter,
+damit eure Fesseln nicht fester werden,
+denn ich habe vom Herrn, dem HERRN der Heere,
+einen Beschluss der Vernichtung über die ganze Erde gehört.
+
+> **Was bedeutet das?**
+> Vers 15: Die Anführer Jerusalems fühlen sich sicher. Sie haben Bündnisse geschlossen, wohl mit Ägypten, und glauben, dass ihnen nichts passieren kann. Jesaja nennt das spöttisch einen „Bund mit dem Tod“.
+> Vers 16: Gottes Antwort: Nicht Bündnisse geben Sicherheit, sondern Gott selbst. Er legt in Zion einen festen Grundstein. Wer darauf vertraut, muss nicht in Panik geraten. Das Neue Testament bezieht diesen „Eckstein“ auf Jesus Christus (Römer 9,33; 1. Petrus 2,6).
+> Vers 17: Gott baut mit den Werkzeugen eines Baumeisters: Recht ist die Messschnur, Gerechtigkeit das Senkblei.
+> Vers 20: Ein anschauliches Bild: Ihre falsche Sicherheit ist wie ein zu kurzes Bett und eine zu schmale Decke. Man kann darin nicht ruhen.
+> Vers 21: Bei Perazim und Gibeon hat Gott früher für David und Josua gegen die Feinde gekämpft (2. Samuel 5,20; Josua 10). Jetzt kämpft er gegen sein eigenes Volk. Das ist sein „ungewöhnliches“, fremdes Werk.
+
+---
+
+### Das Gleichnis vom Bauern (Vers 23–29)
+
+<sup>23</sup>Hört zu und hört meine Stimme!
+Horcht auf und hört meine Rede!
+<sup>24</sup>Pflügt der, der säen will, den ganzen Tag?
+Wendet er ständig den Boden und zerschlägt die Schollen?
+<sup>25</sup>Wenn er die Oberfläche geebnet hat,
+pflanzt er dann nicht den Dill
+und streut den Kreuzkümmel aus
+und setzt den Weizen in Reihen,
+die Gerste an ihren bestimmten Platz
+und den Dinkel an seinen Rand?
+<sup>26</sup>Denn sein Gott unterweist ihn zum rechten Verfahren
+und lehrt ihn.
+<sup>27</sup>Denn der Dill wird nicht mit einem scharfen Dreschschlitten gedroschen,
+und das Wagenrad wird nicht über den Kreuzkümmel gerollt,
+sondern der Dill wird mit einem Stock ausgeklopft
+und der Kreuzkümmel mit einer Rute.
+<sup>28</sup>Brotgetreide muss gemahlen werden.
+Darum drischt man es nicht für immer.
+Auch wenn man das Rad seines Dreschwagens darüber treibt,
+zermalmen seine Pferde es nicht.
+<sup>29</sup>Auch dies kommt vom HERRN der Heere,
+der wunderbar ist im Rat
+und groß in der Weisheit.
+
+> **Was bedeutet das?**
+> Ein kleines Gleichnis aus der Landwirtschaft: Ein Bauer pflügt nicht ewig, sondern sät danach. Er behandelt jede Pflanze anders: Dill und Kümmel werden vorsichtig mit einem Stock ausgeklopft, Getreide mit dem schweren Dreschwagen. Und auch das Getreide wird nicht zermalmt.
+> Die Botschaft: So wie der Bauer weiß, was jede Pflanze braucht, so weiß Gott, was jedes Volk braucht. Sein Gericht dauert nicht ewig und hat ein Ziel. Er will sein Volk nicht zerstören, sondern es zu „Brot“ machen.
+
+## Jesaja – Kapitel 29
+#### Mit den Lippen ehren sie mich
+
+---
+
+### Wehe Ariël (Vers 1–8)
+
+<sup>1</sup>Wehe Ariël!
+Ariël, die Stadt, wo David lagerte!
+Fügt Jahr zu Jahr,
+lasst die Feste ihren Kreislauf nehmen,
+<sup>2</sup>dann werde ich Ariël bedrängen,
+und es wird Trauer und Klage geben.
+Sie wird mir wie ein Altarherd sein.
+<sup>3</sup>Ich werde rings um dich her lagern
+und dich mit Wachposten belagern.
+Ich werde Belagerungswerke gegen dich errichten.
+<sup>4</sup>Du wirst erniedrigt werden
+und aus der Erde heraus reden.
+Deine Rede wird aus dem Staub murmeln.
+Deine Stimme wird wie die eines Totengeistes aus der Erde kommen,
+und deine Rede wird aus dem Staub flüstern.
+<sup>5</sup>Aber die Menge deiner Feinde wird wie feiner Staub sein
+und die Menge der Gewalttätigen wie Spreu, die verweht.
+Ja, es wird in einem Augenblick geschehen, plötzlich.
+<sup>6</sup>Sie wird vom HERRN der Heere heimgesucht werden
+mit Donner, mit Erdbeben, mit großem Lärm,
+mit Wirbelwind und Sturm
+und mit der Flamme eines verzehrenden Feuers.
+<sup>7</sup>Die Menge aller Nationen, die gegen Ariël kämpfen,
+alle, die gegen sie und ihre Festung kämpfen und sie bedrängen,
+wird wie ein Traum sein, wie eine Erscheinung in der Nacht.
+<sup>8</sup>Es wird sein wie wenn ein Hungriger träumt,
+und siehe, er isst,
+aber er wacht auf, und sein Hunger ist nicht gestillt.
+Oder wie wenn ein Durstiger träumt,
+und siehe, er trinkt,
+aber er wacht auf, und siehe, er ist erschöpft und immer noch durstig.
+So wird es der Menge aller Nationen gehen,
+die gegen den Berg Zion kämpfen.
+
+> **Was bedeutet das?**
+> „Ariël“ ist ein Name für Jerusalem. Er bedeutet vielleicht „Löwe Gottes“ oder „Altarherd“. Ein Wortspiel: Jerusalem wird selbst wie ein brennender Altar werden.
+> Vers 1: Jahr für Jahr feiert man in Jerusalem die Feste, ganz gewohnheitsmäßig. Aber Gott wird die Stadt in Not bringen.
+> Vers 4: Jerusalem wird so tief erniedrigt, dass ihre Stimme nur noch wie ein Flüstern aus der Erde klingt.
+> Vers 5–8: Doch dann die Wende: Die Feinde verschwinden plötzlich wie Staub im Wind. Sie wachen auf wie aus einem Traum, in dem sie gegessen haben, und sind immer noch hungrig. Ihr Traum, Jerusalem zu erobern, zerplatzt.
+
+---
+
+### Ein versiegeltes Buch (Vers 9–14)
+
+<sup>9</sup>Haltet inne und staunt!
+Verblendet euch und seid blind!
+Sie sind betrunken, aber nicht vom Wein.
+Sie taumeln, aber nicht vom starken Getränk.
+<sup>10</sup>Denn der HERR hat einen Geist des tiefen Schlafes über euch ausgegossen
+und hat eure Augen verschlossen, die Propheten,
+und eure Köpfe verhüllt, die Seher.
+<sup>11</sup>Alle Vision ist für euch geworden wie die Worte eines versiegelten Buches,
+das man einem gibt, der lesen kann, und sagt: „Lies das bitte!“
+Und er sagt: „Ich kann nicht, denn es ist versiegelt.“
+<sup>12</sup>Und man gibt das Buch einem, der nicht lesen kann, und sagt: „Lies das bitte!“
+Und er sagt: „Ich kann nicht lesen.“
+<sup>13</sup>Der Herr sagte:
+„Weil dieses Volk sich mit seinem Mund nähert
+und mich mit seinen Lippen ehrt,
+aber sein Herz fern von mir hält,
+und weil ihre Furcht vor mir nur ein Gebot ist,
+das Menschen gelehrt haben,
+<sup>14</sup>darum, siehe, werde ich weiterhin mit diesem Volk wunderbar handeln,
+wunderbar und wundersam.
+Die Weisheit seiner Weisen wird vergehen,
+und der Verstand seiner Verständigen wird sich verbergen.“
+
+> **Was bedeutet das?**
+> Vers 9–12: Das Volk ist geistlich blind. Gottes Botschaft ist für sie wie ein versiegeltes Buch: Die Gebildeten sagen „Es ist versiegelt“, die Ungebildeten sagen „Ich kann nicht lesen“. Niemand will sich die Mühe machen, Gottes Wort wirklich zu verstehen.
+> Vers 13 ist ein sehr wichtiger Vers: Die Menschen beten mit dem Mund, aber ihr Herz ist weit weg von Gott. Ihr Glaube besteht nur aus auswendig gelernten Regeln. Jesus zitiert diesen Vers (Matthäus 15,8–9).
+> Diese Gefahr gibt es in jeder Religion und zu jeder Zeit: fromme Worte ohne echtes Herz.
+> Vers 14: Paulus zitiert diesen Vers: Gott macht die Weisheit der Weisen zunichte (1. Korinther 1,19).
+
+---
+
+### Der Töpfer und der Ton (Vers 15–24)
+
+<sup>15</sup>Wehe denen, die ihren Plan tief vor dem HERRN verbergen,
+deren Taten im Dunkeln geschehen und die sagen:
+„Wer sieht uns?“ und „Wer kennt uns?“
+<sup>16</sup>Ihr verdreht alles!
+Soll der Töpfer etwa dem Ton gleich geachtet werden,
+dass das Werk von dem, der es gemacht hat, sagen könnte:
+„Er hat mich nicht gemacht“,
+oder das Gebilde von dem, der es geformt hat:
+„Er hat keinen Verstand“?
+<sup>17</sup>Ist es nicht nur noch eine kleine Weile,
+dann wird der Libanon zu einem Fruchtgarten werden,
+und der Fruchtgarten wird für einen Wald gehalten werden?
+<sup>18</sup>An jenem Tag werden die Tauben die Worte des Buches hören,
+und die Augen der Blinden werden aus Dunkel und Finsternis sehen.
+<sup>19</sup>Auch die Demütigen werden ihre Freude am HERRN vermehren,
+und die Armen unter den Menschen werden über den Heiligen Israels jubeln.
+<sup>20</sup>Denn der Gewalttätige hat ein Ende,
+und der Spötter hört auf,
+und alle, die darauf lauern, Böses zu tun, werden ausgerottet,
+<sup>21</sup>die einen Menschen durch ein Wort schuldig sprechen
+und dem eine Falle stellen, der im Tor Recht spricht,
+und den Unschuldigen durch falsches Zeugnis um sein Recht bringen.
+<sup>22</sup>Darum spricht der HERR, der Abraham erlöst hat,
+über das Haus Jakob:
+„Jakob soll nicht mehr beschämt werden,
+und sein Gesicht soll nicht mehr blass werden.
+<sup>23</sup>Wenn er aber seine Kinder sieht, das Werk meiner Hände, in seiner Mitte,
+dann werden sie meinen Namen heiligen.
+Ja, sie werden den Heiligen Jakobs heiligen
+und vor dem Gott Israels Ehrfurcht haben.
+<sup>24</sup>Auch die, die im Geist irren, werden zur Einsicht kommen,
+und die, die murren, werden Belehrung annehmen.“
+
+> **Was bedeutet das?**
+> Vers 15: Manche glauben, sie könnten ihre Pläne vor Gott verstecken: „Wer sieht uns schon?“
+> Vers 16: Jesajas Antwort mit einem Bild: Kann der Tontopf zum Töpfer sagen: „Du hast mich nicht gemacht“? Der Mensch ist Gottes Geschöpf und kann sich nicht über ihn stellen. Paulus nimmt dieses Bild auf (Römer 9,20–21).
+> Vers 17–19: Bald wird sich alles umkehren: Taube hören, Blinde sehen, Arme jubeln. Jesus zeigt solche Zeichen in seinem Wirken (Matthäus 11,5).
+> Vers 20–21: Die Gewalttätigen und die korrupten Richter, die Unschuldige mit Lügen verurteilen, haben ein Ende.
+> Vers 22–24: Gott wird sein Volk erneuern. Auch die Verwirrten und die Nörgler werden verstehen.
+
+## Jesaja – Kapitel 30
+#### Durch Stillsein und Vertrauen
+
+---
+
+### Nutzlose Hilfe aus Ägypten (Vers 1–7)
+
+<sup>1</sup>„Wehe den widerspenstigen Kindern“, spricht der HERR,
+„die Pläne schmieden, aber nicht von mir,
+und die ein Bündnis schließen, aber nicht mit meinem Geist,
+um Sünde auf Sünde zu häufen,
+<sup>2</sup>die losziehen, um nach Ägypten hinabzugehen,
+ohne mich um Rat zu fragen,
+um sich in der Stärke des Pharao zu stärken
+und im Schatten Ägyptens Zuflucht zu suchen!
+<sup>3</sup>Darum wird die Stärke des Pharao eure Schande sein
+und die Zuflucht im Schatten Ägyptens eure Beschämung.
+<sup>4</sup>Denn ihre Fürsten sind in Zoan,
+und ihre Gesandten sind nach Hanes gekommen.
+<sup>5</sup>Sie alle werden beschämt werden
+wegen eines Volkes, das ihnen nichts nützen kann,
+das keine Hilfe und kein Nutzen ist,
+sondern Schande und auch Schmach.“
+<sup>6</sup>Die Last über die Tiere des Südens.
+Durch das Land der Not und der Angst,
+der Löwin und des Löwen,
+der Otter und des fliegenden Feuerdrachen,
+tragen sie ihre Reichtümer auf dem Rücken junger Esel
+und ihre Schätze auf den Höckern von Kamelen
+zu einem Volk, das nichts nützt.
+<sup>7</sup>Denn Ägypten hilft umsonst und vergeblich.
+Darum habe ich es „Rahab, die stillsitzt“ genannt.
+
+> **Was bedeutet das?**
+> König Hiskia und seine Berater schicken Gesandte nach Ägypten, um ein Bündnis gegen Assyrien zu schließen. Sie fragen Gott nicht um Rat.
+> Vers 6: Mühsam schleppen sie Geschenke durch die gefährliche Wüste, voller Löwen und Schlangen. Alles umsonst.
+> Vers 7: „Rahab“ ist ein Name für ein Meeresungeheuer und für Ägypten. Jesaja macht sich lustig: Ägypten ist ein Ungeheuer, das nur still herumsitzt und nichts tut.
+
+---
+
+### Erzählt uns nur angenehme Dinge (Vers 8–14)
+
+<sup>8</sup>Jetzt geh, schreib es vor ihnen auf eine Tafel
+und zeichne es in ein Buch,
+damit es für die kommende Zeit bleibt,
+für immer und ewig.
+<sup>9</sup>Denn es ist ein widerspenstiges Volk,
+lügnerische Kinder,
+Kinder, die die Weisung des HERRN nicht hören wollen,
+<sup>10</sup>die zu den Sehern sagen: „Seht nicht!“
+und zu den Propheten: „Prophezeit uns nicht, was richtig ist!
+Sagt uns angenehme Dinge!
+Prophezeit uns Täuschungen!
+<sup>11</sup>Geht aus dem Weg!
+Weicht vom Pfad ab!
+Lasst uns in Ruhe mit dem Heiligen Israels!“
+<sup>12</sup>Darum spricht der Heilige Israels:
+„Weil ihr dieses Wort verachtet
+und auf Unterdrückung und Verkehrtheit vertraut
+und euch darauf stützt,
+<sup>13</sup>darum wird diese Schuld für euch sein
+wie ein Riss, der einzustürzen droht,
+eine Ausbuchtung an einer hohen Mauer,
+deren Einsturz plötzlich kommt, in einem Augenblick.
+<sup>14</sup>Er wird sie zerbrechen, wie man einen Tontopf zerbricht,
+der ohne Schonung zerschlagen wird,
+sodass unter den Scherben kein Stück zu finden ist,
+mit dem man Feuer vom Herd holen
+oder Wasser aus der Zisterne schöpfen könnte.“
+
+> **Was bedeutet das?**
+> Vers 10–11: Das Volk will keine unbequeme Wahrheit hören. Es sagt zu den Propheten: Erzählt uns nur angenehme Dinge! Lügt uns ruhig an! Das ist eine sehr menschliche Haltung, die man bis heute kennt.
+> Vers 13–14: Ihre Schuld ist wie ein Riss in einer Mauer. Man sieht ihn erst kaum, aber plötzlich stürzt alles ein. Am Ende bleibt nicht einmal eine Scherbe übrig.
+
+---
+
+### Umkehr und Ruhe (Vers 15–17)
+
+<sup>15</sup>Denn so sprach der Herr, der HERR, der Heilige Israels:
+„Durch Umkehr und Ruhe werdet ihr gerettet werden.
+In Stillsein und Vertrauen wird eure Stärke liegen.“
+Aber ihr wolltet nicht,
+<sup>16</sup>sondern ihr sagtet: „Nein, wir wollen auf Pferden fliehen!“
+Darum werdet ihr fliehen.
+Und: „Wir wollen auf schnellen Pferden reiten!“
+Darum werden eure Verfolger schnell sein.
+<sup>17</sup>Tausend werden fliehen vor der Drohung eines Einzigen.
+Vor der Drohung von fünf werdet ihr fliehen,
+bis ihr übrig bleibt wie ein Mast auf einem Berggipfel
+und wie ein Feldzeichen auf einem Hügel.
+
+> **Was bedeutet das?**
+> Vers 15 ist einer der bekanntesten Verse Jesajas: „In Stillsein und Vertrauen liegt eure Stärke.“ Gott lädt ein, nicht in Panik zu verfallen, sondern umzukehren, zur Ruhe zu kommen und ihm zu vertrauen.
+> Aber das Volk will lieber auf schnelle Pferde setzen, also auf militärische Stärke. Das Ergebnis: Sie werden fliehen müssen.
+> Ein Gedanke, der bis heute hilft: In Stress und Angst ist es oft klüger, still zu werden und Gott zu vertrauen, als hektisch zu handeln.
+
+---
+
+### Gott wartet darauf, gnädig zu sein (Vers 18–26)
+
+<sup>18</sup>Darum wartet der HERR darauf, euch gnädig zu sein,
+und darum erhebt er sich, um sich über euch zu erbarmen,
+denn der HERR ist ein Gott des Rechts.
+Glücklich sind alle, die auf ihn warten.
+<sup>19</sup>Denn das Volk wird auf Zion in Jerusalem wohnen.
+Du wirst nicht mehr weinen.
+Er wird dir gewiss gnädig sein, wenn du um Hilfe schreist.
+Wenn er dich hört, wird er dir antworten.
+<sup>20</sup>Auch wenn der Herr euch Brot der Not und Wasser der Bedrängnis gibt,
+so werden sich deine Lehrer nicht mehr verbergen,
+sondern deine Augen werden deine Lehrer sehen,
+<sup>21</sup>und wenn ihr nach rechts oder nach links abbiegt,
+werden deine Ohren ein Wort hinter dir hören:
+„Das ist der Weg. Geht auf ihm!“
+<sup>22</sup>Ihr werdet den Silberüberzug eurer geschnitzten Götzenbilder
+und die Goldverkleidung eurer gegossenen Bilder entweihen.
+Ihr werdet sie wegwerfen wie etwas Unreines.
+Du wirst zu ihm sagen: „Hinaus!“
+<sup>23</sup>Er wird Regen geben für deine Saat,
+mit der du den Acker besäst,
+und das Brot vom Ertrag des Ackers wird kräftig und reichlich sein.
+An jenem Tag wird dein Vieh auf weiten Weiden grasen.
+<sup>24</sup>Auch die Rinder und die jungen Esel, die den Acker bearbeiten,
+werden würziges Futter fressen,
+das mit der Schaufel und der Gabel geworfelt wurde.
+<sup>25</sup>Auf jedem hohen Berg und auf jedem erhabenen Hügel
+werden Bäche und Wasserläufe sein
+am Tag des großen Gemetzels, wenn die Türme fallen.
+<sup>26</sup>Das Licht des Mondes wird wie das Licht der Sonne sein,
+und das Licht der Sonne wird siebenmal heller sein,
+wie das Licht von sieben Tagen,
+an dem Tag, an dem der HERR den Bruch seines Volkes verbindet
+und die Wunde heilt, mit der es geschlagen wurde.
+
+> **Was bedeutet das?**
+> Vers 18: Ein wunderschöner Gedanke: Gott wartet selbst darauf, gnädig sein zu können. Er sehnt sich danach, seinem Volk zu helfen.
+> Vers 19: „Du wirst nicht mehr weinen.“ Gott hört jeden Hilfeschrei.
+> Vers 20–21: Ein tröstliches Bild: Wenn du unsicher bist, welchen Weg du gehen sollst, hörst du hinter dir eine Stimme: „Das ist der Weg, geh ihn!“ Gott begleitet dich wie ein guter Lehrer.
+> Vers 23–26: Ein Bild für eine wunderbare Zukunft: Regen, reiche Ernte, Wasser überall, helles Licht. Und vor allem: Gott verbindet die Wunden seines Volkes und heilt sie.
+
+---
+
+### Gottes Gericht über Assyrien (Vers 27–33)
+
+<sup>27</sup>Siehe, der Name des HERRN kommt von fern,
+brennend in seinem Zorn und in dichtem, aufsteigendem Rauch.
+Seine Lippen sind voll Grimm.
+Seine Zunge ist wie ein verzehrendes Feuer.
+<sup>28</sup>Sein Atem ist wie ein überflutender Strom, der bis an den Hals reicht,
+um die Völker mit dem Sieb der Vernichtung zu sieben.
+Ein Zaum, der ins Verderben führt, wird im Maul der Völker sein.
+<sup>29</sup>Ihr werdet ein Lied haben wie in der Nacht, in der man ein heiliges Fest feiert,
+und Freude des Herzens wie einer, der mit der Flöte geht,
+um auf den Berg des HERRN zu kommen, zum Fels Israels.
+<sup>30</sup>Der HERR wird seine herrliche Stimme hören lassen
+und zeigen, wie sein Arm herabfährt
+mit dem Grimm seines Zorns und der Flamme eines verzehrenden Feuers,
+mit Wolkenbruch, Sturm und Hagelsteinen.
+<sup>31</sup>Denn durch die Stimme des HERRN wird Assyrien bestürzt werden.
+Er wird es mit seinem Stock schlagen.
+<sup>32</sup>Jeder Schlag des Strafstocks, den der HERR auf es niederfahren lässt,
+wird unter dem Klang von Tamburinen und Harfen geschehen.
+Er wird in Schlachten mit ihnen kämpfen, mit geschwungener Waffe.
+<sup>33</sup>Denn seine Brandstätte ist längst bereitet.
+Ja, sie ist für den König vorbereitet.
+Er hat ihren Scheiterhaufen tief und weit gemacht,
+mit Feuer und viel Holz.
+Der Atem des HERRN, wie ein Strom von Schwefel, entzündet ihn.
+
+> **Was bedeutet das?**
+> Gott selbst kommt wie ein gewaltiges Unwetter, um Assyrien zu richten.
+> Vers 29: Für Gottes Volk wird es ein Fest sein, wie in der Nacht des Pessachfestes, wenn man mit Liedern und Flöten nach Jerusalem pilgert.
+> Vers 33: „Die Brandstätte“ heißt im Hebräischen „Tofet“. Das war ein Ort im Tal Hinnom bei Jerusalem, an dem schreckliche Kinderopfer stattgefunden hatten (2. Könige 23,10). Jetzt soll dort der König von Assyrien sein Ende finden. Aus dem Namen dieses Tals („Gehinnom“) wurde später das Wort „Gehenna“, ein Bild für die Hölle.
+
+## Jesaja – Kapitel 31
+#### Ägypter sind Menschen, nicht Gott
+
+---
+
+### Wehe denen, die nach Ägypten gehen (Vers 1–3)
+
+<sup>1</sup>Wehe denen, die nach Ägypten hinabgehen, um Hilfe zu holen,
+und sich auf Pferde stützen
+und auf Streitwagen vertrauen, weil es viele sind,
+und auf Reiter, weil sie sehr stark sind,
+aber nicht auf den Heiligen Israels schauen
+und den HERRN nicht suchen!
+<sup>2</sup>Doch auch er ist weise.
+Er wird Unheil bringen
+und seine Worte nicht zurücknehmen,
+sondern er wird sich erheben gegen das Haus der Übeltäter
+und gegen die Hilfe derer, die Unrecht tun.
+<sup>3</sup>Die Ägypter sind Menschen und nicht Gott,
+und ihre Pferde sind Fleisch und nicht Geist.
+Wenn der HERR seine Hand ausstreckt,
+dann stolpert der Helfer,
+und der, dem geholfen wird, fällt,
+und sie alle werden zusammen umkommen.
+
+> **Was bedeutet das?**
+> Wieder die Warnung vor dem Bündnis mit Ägypten. Ägypten hatte viele Pferde und Streitwagen, die modernste Militärtechnik der damaligen Zeit.
+> Vers 3 ist ein klarer Satz: „Die Ägypter sind Menschen und nicht Gott. Ihre Pferde sind Fleisch und nicht Geist.“ Menschliche Macht ist begrenzt. Wer sich nur auf sie verlässt, wird enttäuscht.
+
+---
+
+### Gott beschützt Jerusalem wie ein Vogel (Vers 4–9)
+
+<sup>4</sup>Denn so spricht der HERR zu mir:
+„Wie der Löwe und der junge Löwe über seiner Beute knurrt,
+und wenn eine Menge von Hirten gegen ihn zusammengerufen wird,
+erschrickt er nicht vor ihrem Geschrei
+und duckt sich nicht vor ihrem Lärm,
+so wird der HERR der Heere herabkommen,
+um auf dem Berg Zion und auf seinem Hügel zu kämpfen.
+<sup>5</sup>Wie Vögel, die über ihrem Nest schweben,
+so wird der HERR der Heere Jerusalem beschützen.
+Er wird es beschützen und retten.
+Er wird schonend vorübergehen und es bewahren.“
+<sup>6</sup>Kehrt um zu dem, von dem ihr euch so tief abgewandt habt,
+ihr Kinder Israels!
+<sup>7</sup>Denn an jenem Tag wird jeder seine Götzen aus Silber
+und seine Götzen aus Gold wegwerfen,
+die Sünde, die eure eigenen Hände euch gemacht haben.
+<sup>8</sup>„Assyrien wird durch ein Schwert fallen, das nicht von einem Mann ist,
+und ein Schwert, das nicht von einem Menschen ist, wird es fressen.
+Es wird vor dem Schwert fliehen,
+und seine jungen Männer werden zu Zwangsarbeit verurteilt.
+<sup>9</sup>Sein Fels wird vor Schrecken vergehen,
+und seine Fürsten werden sich vor dem Feldzeichen fürchten“,
+spricht der HERR, dessen Feuer in Zion ist
+und dessen Ofen in Jerusalem.
+
+> **Was bedeutet das?**
+> Vers 4: Gott ist wie ein Löwe, der sich von keinem Lärm einschüchtern lässt.
+> Vers 5: Und gleichzeitig ist Gott wie eine Vogelmutter, die schützend über ihrem Nest schwebt. Zwei Bilder: Stärke und Zärtlichkeit. „Schonend vorübergehen“ erinnert im Hebräischen an „Pessach“, als Gott an den Häusern Israels vorüberging und sie verschonte.
+> Vers 6: Der eigentliche Aufruf: Kehrt um zu Gott!
+> Vers 8: Assyrien wird nicht durch Menschenhand fallen, sondern durch Gottes Eingreifen. So berichtet es Kapitel 37,36.
