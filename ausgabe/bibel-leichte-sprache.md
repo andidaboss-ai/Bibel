@@ -56717,7 +56717,7 @@ und machten viel Beute.
 
 > **Was bedeutet das?**
 > „Söhne Seïrs“ sind die Edomiter. Das Gebirge Seïr lag in Edom, südöstlich vom Toten Meer.
-> Vers 12 berichtet von einer schrecklichen Grausamkeit. Die Bibel lobt das nicht. Sie erzählt nur, was geschah. Gefangene so zu töten, ist ein Verbrechen. Das galt auch damals schon als grausam (vgl. Amos 1,11 und 2,1, wo Gott solche Grausamkeit bei anderen Völkern verurteilt).
+> Vers 12 berichtet von einer schrecklichen Grausamkeit. Die Bibel lobt das nicht. Sie erzählt nur, was geschah. Gefangene so zu töten, ist ein Verbrechen. Das galt auch damals schon als grausam (vgl. Amos 1–2, wo Gott Grausamkeiten im Krieg bei vielen Völkern verurteilt).
 > „Felsen“ heißt auf Hebräisch „Sela“. Vielleicht ist der Ort Sela gemeint, den Amazja nach 2. Könige 14,7 eroberte.
 > Die zornigen Soldaten aus Israel rächen sich an Juda. Wie „Samaria“ in diese Ortsangabe passt, ist schwierig, denn Samaria lag in Israel. Vielleicht ist gemeint: Sie kamen aus Richtung Samaria.
 
@@ -56829,8 +56829,8 @@ und begruben ihn bei seinen Vätern in der Stadt Judas.
 <sup>1</sup>Das ganze Volk Judas nahm Usija, der 16 Jahre alt war,
 und machte ihn zum König an der Stelle seines Vaters Amazja.
 <sup>2</sup>Er baute Elat aus
-und brachte es wieder an Juda zurück,
-nachdem der König sich zu seinen Vätern gelegt hatte.
+und brachte es wieder an Juda zurück.
+Danach legte sich der König zu seinen Vätern.
 <sup>3</sup>Usija war 16 Jahre alt, als er König wurde,
 und er regierte 52 Jahre in Jerusalem.
 Seine Mutter hieß Jecholja, aus Jerusalem.
@@ -56845,7 +56845,7 @@ ließ Gott es ihm gelingen.
 > **Was bedeutet das?**
 > Usija heißt in 2. Könige 14–15 meistens „Asarja“. Beide Namen bedeuten fast dasselbe: „Der HERR ist meine Stärke“ und „Der HERR hilft“.
 > Usija regierte etwa von 792 bis 740 vor Christus, also sehr lange. Ein Teil davon war wohl eine gemeinsame Regierung mit seinem Vater und später mit seinem Sohn.
-> Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist sein Vater Amazja.
+> Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist wohl sein Vater Amazja. Gemeint ist: Usija baute Elat aus, nachdem sein Vater gestorben war.
 > Secharja war wohl ein Lehrer oder Prophet, der Usija beriet. Er ist nicht derselbe wie der Prophet Sacharja, nach dem ein Buch der Bibel benannt ist. „Gesichte“ sind Visionen, also Botschaften von Gott. Manche alten Handschriften haben „in der Furcht Gottes“.
 > „Solange er den HERRN suchte“: Diese kleinen Worte deuten schon an, dass es nicht so bleiben wird.
 

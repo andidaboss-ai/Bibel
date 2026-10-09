@@ -8,8 +8,8 @@
 [1] Das ganze Volk Judas nahm Usija, der 16 Jahre alt war,
 und machte ihn zum König an der Stelle seines Vaters Amazja.
 [2] Er baute Elat aus
-und brachte es wieder an Juda zurück,
-nachdem der König sich zu seinen Vätern gelegt hatte.
+und brachte es wieder an Juda zurück.
+Danach legte sich der König zu seinen Vätern.
 [3] Usija war 16 Jahre alt, als er König wurde,
 und er regierte 52 Jahre in Jerusalem.
 Seine Mutter hieß Jecholja, aus Jerusalem.
@@ -24,7 +24,7 @@ ließ Gott es ihm gelingen.
 > **Was bedeutet das?**
 > Usija heißt in 2. Könige 14–15 meistens „Asarja“. Beide Namen bedeuten fast dasselbe: „Der HERR ist meine Stärke“ und „Der HERR hilft“.
 > Usija regierte etwa von 792 bis 740 vor Christus, also sehr lange. Ein Teil davon war wohl eine gemeinsame Regierung mit seinem Vater und später mit seinem Sohn.
-> Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist sein Vater Amazja.
+> Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist wohl sein Vater Amazja. Gemeint ist: Usija baute Elat aus, nachdem sein Vater gestorben war.
 > Secharja war wohl ein Lehrer oder Prophet, der Usija beriet. Er ist nicht derselbe wie der Prophet Sacharja, nach dem ein Buch der Bibel benannt ist. „Gesichte“ sind Visionen, also Botschaften von Gott. Manche alten Handschriften haben „in der Furcht Gottes“.
 > „Solange er den HERRN suchte“: Diese kleinen Worte deuten schon an, dass es nicht so bleiben wird.
 

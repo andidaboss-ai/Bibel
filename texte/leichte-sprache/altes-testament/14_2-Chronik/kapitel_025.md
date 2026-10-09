@@ -84,7 +84,7 @@ und machten viel Beute.
 
 > **Was bedeutet das?**
 > „Söhne Seïrs“ sind die Edomiter. Das Gebirge Seïr lag in Edom, südöstlich vom Toten Meer.
-> Vers 12 berichtet von einer schrecklichen Grausamkeit. Die Bibel lobt das nicht. Sie erzählt nur, was geschah. Gefangene so zu töten, ist ein Verbrechen. Das galt auch damals schon als grausam (vgl. Amos 1,11 und 2,1, wo Gott solche Grausamkeit bei anderen Völkern verurteilt).
+> Vers 12 berichtet von einer schrecklichen Grausamkeit. Die Bibel lobt das nicht. Sie erzählt nur, was geschah. Gefangene so zu töten, ist ein Verbrechen. Das galt auch damals schon als grausam (vgl. Amos 1–2, wo Gott Grausamkeiten im Krieg bei vielen Völkern verurteilt).
 > „Felsen“ heißt auf Hebräisch „Sela“. Vielleicht ist der Ort Sela gemeint, den Amazja nach 2. Könige 14,7 eroberte.
 > Die zornigen Soldaten aus Israel rächen sich an Juda. Wie „Samaria“ in diese Ortsangabe passt, ist schwierig, denn Samaria lag in Israel. Vielleicht ist gemeint: Sie kamen aus Richtung Samaria.
 
