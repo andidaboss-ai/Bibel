@@ -58902,3 +58902,373 @@ und den Lärm hörte man weithin.
 > Ein bewegender Moment: Die Jungen jubeln, weil endlich der Tempel gebaut wird. Die Alten weinen, weil sie sich noch an den prächtigen Tempel Salomos erinnern, der 50 Jahre vorher zerstört wurde.
 > Vielleicht weinten sie, weil der neue Tempel viel kleiner und ärmer war (vgl. Haggai 2,3). Vielleicht weinten sie auch vor Freude und Rührung, dass sie das noch erleben durften.
 > Freude und Trauer liegen nah beieinander und klingen manchmal gleich. Beides hat seinen Platz vor Gott. Ein Neuanfang ist oft beides: Freude über das Neue und Trauer über das, was verloren ist.
+
+## Esra – Kapitel 4
+#### Widerstand gegen den Bau
+
+---
+
+### „Lasst uns mit euch bauen“ (Vers 1–5)
+
+<sup>1</sup>Als die Feinde von Juda und Benjamin hörten,
+dass die Heimkehrer aus der Gefangenschaft dem HERRN, dem Gott Israels, einen Tempel bauten,
+<sup>2</sup>kamen sie zu Serubbabel und zu den Familienoberhäuptern
+und sagten zu ihnen:
+„Lasst uns mit euch bauen!
+Denn wir suchen euren Gott wie ihr.
+Und wir opfern ihm seit den Tagen Asarhaddons, des Königs von Assyrien,
+der uns hierher gebracht hat.“
+<sup>3</sup>Aber Serubbabel, Jeschua und die übrigen Familienoberhäupter Israels sagten zu ihnen:
+„Ihr habt nichts mit uns zu tun beim Bau eines Hauses für unseren Gott.
+Sondern wir allein wollen dem HERRN, dem Gott Israels, bauen,
+wie es uns der König Kyrus, der König von Persien, befohlen hat.“
+<sup>4</sup>Da machte das Volk des Landes die Hände des Volkes von Juda schlaff
+und schreckte sie ab, weiterzubauen.
+<sup>5</sup>Sie bezahlten Ratgeber gegen sie,
+um ihr Vorhaben zu vereiteln,
+alle Tage des Kyrus, des Königs von Persien,
+bis zur Regierung des Darius, des Königs von Persien.
+
+> **Was bedeutet das?**
+> Die „Feinde“ waren Menschen, die im Gebiet des früheren Nordreichs wohnten. Die Assyrer hatten nach 722 vor Christus fremde Völker dort angesiedelt. Diese Völker verehrten den HERRN, aber auch ihre eigenen Götter (2. Könige 17,24–41). Später wurden ihre Nachkommen „Samaritaner“ genannt.
+> Asarhaddon war König von Assyrien von 681 bis 669 vor Christus.
+> Warum lehnten Serubbabel und Jeschua die Hilfe ab? Sie fürchteten, dass sich der Glaube an den einen Gott mit fremden Göttern vermischt. Genau das hatte zur Verbannung geführt. Ob die Ablehnung in jedem Fall richtig war, darüber kann man nachdenken. Später, im Neuen Testament, zeigt Jesus, dass Gott auch die Samaritaner liebt (Johannes 4; Lukas 10,30–37).
+> Die Folge: Die Abgelehnten wurden zu Gegnern. Sie entmutigten die Bauleute und sorgten dafür, dass der Bau etwa 16 Jahre lang stillstand (von etwa 536 bis 520 vor Christus).
+
+---
+
+### Spätere Anklagen (Vers 6–7)
+
+<sup>6</sup>In der Regierungszeit des Ahasveros, am Anfang seiner Regierung,
+schrieben sie eine Anklage gegen die Bewohner von Juda und Jerusalem.
+<sup>7</sup>In den Tagen des Artahsasta
+schrieben Bischlam, Mitredat, Tabeël und seine übrigen Gefährten
+an Artahsasta, den König von Persien.
+Der Brief war in syrischer Schrift geschrieben
+und in syrische Sprache übersetzt.
+
+> **Was bedeutet das?**
+> Hier springt das Buch zeitlich nach vorn. Es zeigt: Der Widerstand ging auch später weiter, unter den nächsten Königen.
+> Ahasveros ist Xerxes I. (486–465 vor Christus). Er ist auch der König aus dem Buch Ester. Artahsasta ist Artaxerxes I. (465–424 vor Christus). In der englischen Vorlage heißt er „Artaxerxes“.
+> In diesen späteren Briefen geht es nicht mehr um den Tempel, sondern um den Bau der Stadtmauer (Vers 12).
+> „Syrisch“ heißt hier: Aramäisch. Das war die Amtssprache im Perserreich. Ab Vers 8 ist auch das Buch Esra selbst auf Aramäisch geschrieben, bis Kapitel 6,18.
+
+---
+
+### Der Brief an König Artahsasta (Vers 8–16)
+
+<sup>8</sup>Rehum, der Kanzler, und Schimschai, der Schreiber,
+schrieben einen Brief gegen Jerusalem an den König Artahsasta, folgendermaßen:
+<sup>9</sup>Rehum, der Kanzler, Schimschai, der Schreiber,
+und ihre übrigen Gefährten,
+die Diniter, die Afarsatchiter, die Tarpeliter, die Afarsiter,
+die Leute aus Erech, die Babylonier, die Leute aus Susa, die Dehaiter, die Elamiter
+<sup>10</sup>und die übrigen Völker,
+die der große und vornehme Osnappar weggeführt
+und in der Stadt Samaria und im übrigen Gebiet jenseits des Stroms angesiedelt hatte,
+und so weiter, schrieben.
+<sup>11</sup>Das ist die Abschrift des Briefes, den sie schickten:
+„An den König Artahsasta, von deinen Dienern, den Leuten jenseits des Stroms.
+<sup>12</sup>Es sei dem König bekannt:
+Die Juden, die von dir heraufgezogen sind, sind zu uns nach Jerusalem gekommen.
+Sie bauen die aufrührerische und böse Stadt wieder auf.
+Sie haben die Mauern vollendet und die Fundamente ausgebessert.
+<sup>13</sup>Es sei nun dem König bekannt:
+Wenn diese Stadt gebaut wird und die Mauern vollendet werden,
+dann werden sie keine Steuern, Abgaben oder Zölle mehr zahlen.
+Und am Ende wird das den Königen schaden.
+<sup>14</sup>Weil wir das Salz des Palastes essen
+und es sich für uns nicht gehört, die Schande des Königs mit anzusehen,
+darum haben wir geschickt und dem König Bescheid gegeben,
+<sup>15</sup>damit man im Buch der Chroniken deiner Väter nachforscht.
+Du wirst im Buch der Chroniken finden und erkennen,
+dass diese Stadt eine aufrührerische Stadt ist,
+die Königen und Provinzen schadet,
+und dass man darin schon früher Aufstände angezettelt hat.
+Darum wurde diese Stadt zerstört.
+<sup>16</sup>Wir geben dem König Bescheid:
+Wenn diese Stadt gebaut wird und die Mauern vollendet werden,
+dann wirst du keinen Besitz mehr jenseits des Stroms haben.“
+
+> **Was bedeutet das?**
+> Die Gegner listen viele Völker auf, um wichtig zu wirken. Viele dieser Namen sind unsicher. Manche sind wohl Amtstitel, keine Völker. Erech (Uruk), Babylon, Susa und Elam waren Städte und Gebiete im Osten.
+> Osnappar ist wahrscheinlich der assyrische König Assurbanipal (668–627 vor Christus).
+> „Jenseits des Stroms“: Gemeint ist der Euphrat. Aus Sicht des Perserkönigs war das Gebiet westlich des Euphrats „jenseits“. Das war die Provinz, zu der Juda gehörte.
+> „Das Salz des Palastes essen“ heißt: im Dienst des Königs stehen, von ihm bezahlt werden.
+> Der Brief arbeitet mit Angst: Wenn Jerusalem stark wird, verliert der König Steuern und Macht. Das ist übertrieben. Aber es wirkt.
+
+---
+
+### Die Antwort des Königs (Vers 17–24)
+
+<sup>17</sup>Da schickte der König eine Antwort
+an Rehum, den Kanzler, und an Schimschai, den Schreiber,
+und an ihre übrigen Gefährten, die in Samaria und im übrigen Gebiet jenseits des Stroms wohnten:
+„Friede!
+<sup>18</sup>Der Brief, den ihr uns geschickt habt, ist mir deutlich vorgelesen worden.
+<sup>19</sup>Ich habe befohlen, und man hat nachgeforscht.
+Man hat gefunden, dass diese Stadt sich seit alter Zeit gegen Könige erhoben hat
+und dass darin Aufruhr und Aufstand gemacht worden sind.
+<sup>20</sup>Auch hat es mächtige Könige über Jerusalem gegeben,
+die über das ganze Gebiet jenseits des Stroms geherrscht haben.
+Und man hat ihnen Steuern, Abgaben und Zölle gezahlt.
+<sup>21</sup>Erlasst jetzt einen Befehl, dass diese Männer aufhören
+und dass diese Stadt nicht gebaut wird,
+bis von mir ein Befehl ergeht.
+<sup>22</sup>Hütet euch, darin nachlässig zu sein!
+Warum soll der Schaden wachsen zum Nachteil der Könige?“
+<sup>23</sup>Als die Abschrift des Briefes des Königs Artahsasta
+vor Rehum, Schimschai, dem Schreiber, und ihren Gefährten vorgelesen worden war,
+gingen sie eilig nach Jerusalem zu den Juden
+und zwangen sie mit Waffengewalt, aufzuhören.
+<sup>24</sup>Da hörte die Arbeit am Haus Gottes in Jerusalem auf.
+Sie ruhte bis zum zweiten Jahr der Regierung des Darius, des Königs von Persien.
+
+> **Was bedeutet das?**
+> Der König lässt nachforschen und findet: Jerusalem hat sich tatsächlich früher gegen Babylon aufgelehnt. Er erinnert sich auch an die großen Könige David und Salomo.
+> Wichtig in Vers 21: „bis von mir ein Befehl ergeht“. Der König lässt eine Tür offen. Später erlaubt derselbe König Nehemia, die Mauer zu bauen (Nehemia 2).
+> Vers 24 kehrt zurück zur Zeit des Tempelbaus. Er schließt an Vers 5 an: Der Tempelbau ruhte bis zum zweiten Jahr des Darius, also 520 vor Christus. Die Verse 6–23 waren ein Einschub, der zeigt, wie hartnäckig der Widerstand über viele Jahrzehnte war.
+
+## Esra – Kapitel 5
+#### Der Bau geht weiter
+
+---
+
+### Die Propheten Haggai und Sacharja (Vers 1–2)
+
+<sup>1</sup>Da weissagten die Propheten,
+der Prophet Haggai und Sacharja, der Sohn Iddos,
+den Juden, die in Juda und Jerusalem waren.
+Sie weissagten ihnen im Namen des Gottes Israels,
+der über ihnen war.
+<sup>2</sup>Da machten sich Serubbabel, der Sohn Schealtiëls, und Jeschua, der Sohn Jozadaks, auf
+und fingen an, das Haus Gottes in Jerusalem zu bauen.
+Und mit ihnen waren die Propheten Gottes und halfen ihnen.
+
+> **Was bedeutet das?**
+> 16 Jahre lang hatte das Volk nicht mehr am Tempel gebaut. Sie hatten sich eingerichtet und ihre eigenen Häuser gebaut. Da schickt Gott zwei Propheten. Ihre Worte stehen in den Büchern Haggai und Sacharja.
+> Haggai sagt: „Ist es Zeit für euch, in getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (Haggai 1,4). Und Sacharja sagt: „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist, spricht der HERR“ (Sacharja 4,6).
+> Die Propheten predigen nicht nur, sie helfen auch mit. Gottes Wort und praktische Hilfe gehören zusammen.
+> „Der über ihnen war“: In der englischen Vorlage fehlt das. Wörtlich steht im Aramäischen „im Namen des Gottes Israels, der über ihnen war“. Viele verstehen es so: Gott wachte über sie.
+
+---
+
+### Tattenai fragt nach (Vers 3–5)
+
+<sup>3</sup>Zur selben Zeit kam Tattenai, der Statthalter jenseits des Stroms,
+mit Schetar-Bosnai und ihren Gefährten zu ihnen
+und fragte sie:
+„Wer hat euch den Befehl gegeben, dieses Haus zu bauen
+und diese Mauer zu vollenden?“
+<sup>4</sup>Sie fragten auch nach den Namen der Männer, die diesen Bau machten.
+<sup>5</sup>Aber das Auge ihres Gottes war über den Ältesten der Juden.
+Sie ließen sie nicht aufhören,
+bis die Sache zu Darius käme
+und eine Antwort mit einem Brief darüber zurückkäme.
+
+> **Was bedeutet das?**
+> Tattenai war der persische Statthalter der ganzen Provinz westlich des Euphrats. Sein Name ist auch in einem persischen Dokument aus dieser Zeit belegt.
+> Anders als die Gegner in Kapitel 4 handelt Tattenai fair: Er fragt nach, schreibt an den König und lässt die Juden in der Zwischenzeit weiterbauen.
+> „Das Auge ihres Gottes war über ihnen“: Gott passte auf sie auf. Darum durften sie weiterbauen.
+
+---
+
+### Der Brief an Darius (Vers 6–17)
+
+<sup>6</sup>Das ist die Abschrift des Briefes,
+den Tattenai, der Statthalter jenseits des Stroms,
+und Schetar-Bosnai und seine Gefährten, die Afarsachiter, die jenseits des Stroms waren,
+an den König Darius schickten.
+<sup>7</sup>Sie schickten ihm einen Brief, in dem geschrieben stand:
+„An den König Darius: Allen Frieden!
+<sup>8</sup>Es sei dem König bekannt,
+dass wir in die Provinz Juda gegangen sind,
+zum Haus des großen Gottes.
+Es wird mit großen Steinen gebaut,
+und Holz wird in die Wände eingelegt.
+Diese Arbeit wird mit Eifer getan und gelingt in ihren Händen.
+<sup>9</sup>Da haben wir diese Ältesten gefragt
+und so zu ihnen gesagt:
+‚Wer hat euch den Befehl gegeben, dieses Haus zu bauen
+und diese Mauer zu vollenden?‘
+<sup>10</sup>Wir haben sie auch nach ihren Namen gefragt, um dir Bescheid zu geben,
+damit wir die Namen der Männer aufschreiben, die an ihrer Spitze stehen.
+<sup>11</sup>Sie haben uns so geantwortet:
+‚Wir sind die Diener des Gottes des Himmels und der Erde
+und bauen das Haus wieder auf, das vor vielen Jahren gebaut worden war.
+Ein großer König von Israel hat es gebaut und vollendet.
+<sup>12</sup>Aber weil unsere Väter den Gott des Himmels zum Zorn gereizt hatten,
+gab er sie in die Hand Nebukadnezars, des Königs von Babel, des Chaldäers.
+Der zerstörte dieses Haus
+und führte das Volk nach Babel weg.
+<sup>13</sup>Aber im ersten Jahr des Kyrus, des Königs von Babel,
+gab der König Kyrus den Befehl, dieses Haus Gottes zu bauen.
+<sup>14</sup>Auch die goldenen und silbernen Geräte des Hauses Gottes,
+die Nebukadnezar aus dem Tempel in Jerusalem weggenommen
+und in den Tempel von Babel gebracht hatte,
+die nahm der König Kyrus aus dem Tempel von Babel heraus.
+Sie wurden einem Mann übergeben, der Scheschbazzar hieß
+und den er zum Statthalter eingesetzt hatte.
+<sup>15</sup>Er sagte zu ihm:
+„Nimm diese Geräte, geh hin, stelle sie in den Tempel in Jerusalem,
+und das Haus Gottes soll an seiner Stelle gebaut werden.“
+<sup>16</sup>Da kam dieser Scheschbazzar
+und legte die Fundamente des Hauses Gottes in Jerusalem.
+Seit dieser Zeit bis jetzt wird daran gebaut,
+und es ist noch nicht vollendet.‘
+<sup>17</sup>Und jetzt, wenn es dem König gefällt,
+soll man im Schatzhaus des Königs, das dort in Babel ist, nachforschen,
+ob es wirklich so ist,
+dass vom König Kyrus der Befehl gegeben wurde,
+dieses Haus Gottes in Jerusalem zu bauen.
+Und der König soll uns seinen Willen in dieser Sache schicken.“
+
+> **Was bedeutet das?**
+> Der Brief ist sachlich und fair. Er berichtet genau, was die Juden gesagt haben.
+> Die Antwort der Ältesten ist mutig und ehrlich:
+> – Sie sagen offen, wer sie sind: Diener des Gottes des Himmels und der Erde.
+> – Sie geben zu, dass ihre Väter schuld an der Zerstörung waren.
+> – Sie berufen sich auf den Befehl des Kyrus.
+> Kyrus wird hier „König von Babel“ genannt, weil er Babel erobert hatte und auch diesen Titel trug.
+> Ein großer König von Israel: Gemeint ist Salomo.
+> „Afarsachiter“: Wohl ein persischer Amtstitel, etwa „Beamte“ oder „Gesandte“.
+
+## Esra – Kapitel 6
+#### Der neue Tempel wird eingeweiht
+
+---
+
+### Der Erlass des Kyrus wird gefunden (Vers 1–5)
+
+<sup>1</sup>Da gab der König Darius einen Befehl,
+und man forschte im Archiv nach,
+wo die Schätze in Babel aufbewahrt wurden.
+<sup>2</sup>In Achmeta, in der Burg in der Provinz Medien,
+fand man eine Schriftrolle.
+Darin stand als Urkunde geschrieben:
+<sup>3</sup>„Im ersten Jahr des Königs Kyrus
+gab der König Kyrus einen Befehl:
+Über das Haus Gottes in Jerusalem:
+Das Haus soll gebaut werden,
+der Ort, an dem man Opfer darbringt.
+Seine Fundamente sollen fest gelegt werden.
+Seine Höhe soll 27 Meter sein und seine Breite 27 Meter,
+<sup>4</sup>mit drei Lagen großer Steine und einer Lage neuen Holzes.
+Die Kosten sollen aus dem Haus des Königs bezahlt werden.
+<sup>5</sup>Auch sollen die goldenen und silbernen Geräte des Hauses Gottes,
+die Nebukadnezar aus dem Tempel in Jerusalem weggenommen und nach Babel gebracht hat,
+zurückgegeben und wieder in den Tempel in Jerusalem gebracht werden,
+jedes an seinen Platz.
+Du sollst sie in das Haus Gottes stellen.“
+
+> **Was bedeutet das?**
+> Man sucht zuerst in Babel und findet nichts. Dann findet man die Urkunde in Achmeta. Das ist Ekbatana, die Sommerhauptstadt der Perserkönige, heute Hamadan im Iran. Kyrus hatte dort im Sommer gewohnt.
+> In der Bibel steht „60 Ellen“. Eine Elle sind etwa 45 Zentimeter. Das ist größer als der Tempel Salomos (2. Chronik 3,3–4). Wahrscheinlich sind das Höchstmaße, die der König erlaubte. Tatsächlich war der neue Tempel wohl kleiner und bescheidener (vgl. Kapitel 3,12 und Haggai 2,3).
+> Der Erlass ist hier in seiner amtlichen Form abgeschrieben, auf Aramäisch. Er ergänzt den Text in Kapitel 1.
+
+---
+
+### Darius befiehlt: Lasst sie bauen! (Vers 6–12)
+
+<sup>6</sup>„Nun, Tattenai, Statthalter jenseits des Stroms,
+Schetar-Bosnai und eure Gefährten, die Afarsachiter, die jenseits des Stroms sind:
+Haltet euch fern von dort!
+<sup>7</sup>Lasst die Arbeit an diesem Haus Gottes in Ruhe!
+Der Statthalter der Juden und die Ältesten der Juden
+sollen dieses Haus Gottes an seiner Stelle bauen.
+<sup>8</sup>Außerdem befehle ich, was ihr für diese Ältesten der Juden
+beim Bau dieses Hauses Gottes tun sollt:
+Aus den Gütern des Königs, aus den Steuern von jenseits des Stroms,
+sollen diesen Männern die Kosten mit allem Eifer bezahlt werden,
+damit sie nicht aufgehalten werden.
+<sup>9</sup>Was sie brauchen,
+junge Stiere, Widder und Lämmer für Brandopfer für den Gott des Himmels,
+auch Weizen, Salz, Wein und Öl,
+nach dem Wort der Priester in Jerusalem,
+soll ihnen Tag für Tag ohne Ausnahme gegeben werden,
+<sup>10</sup>damit sie dem Gott des Himmels wohlriechende Opfer darbringen
+und für das Leben des Königs und seiner Söhne beten.
+<sup>11</sup>Ich habe auch befohlen:
+Wer diesen Befehl ändert,
+aus dessen Haus soll ein Balken herausgerissen werden,
+und er soll daran aufgehängt und festgemacht werden,
+und sein Haus soll deswegen zu einem Misthaufen gemacht werden.
+<sup>12</sup>Der Gott, der seinen Namen dort wohnen lässt,
+möge jeden König und jedes Volk stürzen,
+das seine Hand ausstreckt, um dies zu ändern
+und dieses Haus Gottes in Jerusalem zu zerstören.
+Ich, Darius, habe den Befehl gegeben.
+Er soll mit Eifer ausgeführt werden.“
+
+> **Was bedeutet das?**
+> Darius I. regierte von 522 bis 486 vor Christus.
+> Die Gegner wollten den Bau stoppen. Das Ergebnis ist das Gegenteil: Der König befiehlt, dass der Bau weitergeht, und er bezahlt ihn sogar aus den Steuern der Provinz! Die Gegner müssen den Bau jetzt selbst finanzieren.
+> Darius bittet, dass für ihn und seine Söhne gebetet wird. Auch später beteten Juden für die Herrscher (vgl. Jeremia 29,7; 1. Timotheus 2,1–2).
+> Vers 11 beschreibt eine grausame Strafe, die im Perserreich üblich war: Der Täter wurde auf einen Pfahl gespießt. So drohten die Könige damals. Die Bibel gibt hier den Wortlaut des königlichen Befehls wieder. Sie fordert damit nicht selbst zu solcher Gewalt auf.
+
+---
+
+### Der Tempel wird fertig (Vers 13–15)
+
+<sup>13</sup>Da handelten Tattenai, der Statthalter jenseits des Stroms,
+Schetar-Bosnai und ihre Gefährten mit Eifer so,
+wie der König Darius es befohlen hatte.
+<sup>14</sup>Die Ältesten der Juden bauten, und es gelang ihnen,
+durch die Weissagung des Propheten Haggai und Sacharjas, des Sohnes Iddos.
+Sie bauten und vollendeten es
+nach dem Befehl des Gottes Israels
+und nach dem Befehl des Kyrus, des Darius und des Artahsasta, des Königs von Persien.
+<sup>15</sup>Dieses Haus wurde am dritten Tag des Monats Adar vollendet,
+im sechsten Jahr der Regierung des Königs Darius.
+
+> **Was bedeutet das?**
+> Der Tempel wurde im Frühjahr 515 vor Christus fertig, etwa 70 Jahre nach der Zerstörung des ersten Tempels. Der Monat Adar ist Februar/März.
+> Vers 14 nennt zwei Gründe für den Erfolg: Gottes Befehl und die Befehle der Könige. Gott wirkt durch beides.
+> Artahsasta (Artaxerxes) regierte erst später. Er wird hier genannt, weil er später den Tempel mit Gaben unterstützte (Kapitel 7,15–24).
+> Dieser „zweite Tempel“ stand fast 600 Jahre lang. Herodes der Große hat ihn später prächtig ausgebaut. Das war der Tempel, in dem Jesus lehrte. Im Jahr 70 nach Christus wurde er von den Römern zerstört.
+
+---
+
+### Die Einweihung (Vers 16–18)
+
+<sup>16</sup>Die Kinder Israels, die Priester, die Leviten
+und die übrigen Heimkehrer aus der Gefangenschaft
+feierten die Einweihung dieses Hauses Gottes mit Freude.
+<sup>17</sup>Sie brachten zur Einweihung dieses Hauses Gottes dar:
+100 Stiere, 200 Widder, 400 Lämmer
+und als Sündopfer für ganz Israel 12 Ziegenböcke,
+nach der Zahl der Stämme Israels.
+<sup>18</sup>Sie setzten die Priester nach ihren Abteilungen ein
+und die Leviten nach ihren Gruppen,
+für den Dienst Gottes in Jerusalem,
+wie es im Buch des Mose geschrieben steht.
+
+> **Was bedeutet das?**
+> Im Vergleich zur Einweihung des Tempels Salomos (22 000 Rinder und 120 000 Schafe, 2. Chronik 7,5) sind das wenige Opfer. Die Heimkehrer waren arm. Aber die Freude ist genauso groß.
+> Zwölf Ziegenböcke „für ganz Israel“: Obwohl vor allem Juda und Benjamin zurückgekehrt sind, denken sie an alle zwölf Stämme. Das ganze Volk Gottes soll dazugehören.
+> Mit Vers 18 endet der aramäische Teil. Ab Vers 19 ist der Text wieder auf Hebräisch.
+
+---
+
+### Das Passafest (Vers 19–22)
+
+<sup>19</sup>Die Heimkehrer aus der Gefangenschaft feierten das Passa
+am 14. Tag des ersten Monats.
+<sup>20</sup>Denn die Priester und die Leviten hatten sich gemeinsam gereinigt.
+Sie waren alle rein.
+Sie schlachteten das Passa für alle Heimkehrer aus der Gefangenschaft,
+für ihre Brüder, die Priester, und für sich selbst.
+<sup>21</sup>Die Kinder Israels, die aus der Gefangenschaft zurückgekehrt waren,
+aßen es,
+und alle, die sich von der Unreinheit der Völker des Landes getrennt
+und sich ihnen angeschlossen hatten,
+um den HERRN, den Gott Israels, zu suchen.
+<sup>22</sup>Sie feierten das Fest der ungesäuerten Brote sieben Tage lang mit Freude.
+Denn der HERR hatte ihnen Freude geschenkt
+und das Herz des Königs von Assyrien ihnen zugewandt,
+um ihre Hände bei der Arbeit am Haus Gottes, des Gottes Israels, zu stärken.
+
+> **Was bedeutet das?**
+> Einen Monat nach der Einweihung feiern sie das Passa, das Fest der Befreiung aus Ägypten. Jetzt feiern sie es als Menschen, die ein zweites Mal befreit wurden, diesmal aus Babylon.
+> Vers 21 ist wichtig: Auch Menschen, die nicht in der Verbannung waren, durften mitfeiern, wenn sie sich von den Götzen abwandten und den HERRN suchten. Die Tür ist offen für alle, die Gott suchen.
+> „König von Assyrien“: Gemeint ist der Perserkönig Darius. Er herrschte jetzt über das Gebiet des alten Assyrien. Vielleicht wird der Titel bewusst gewählt: Die Assyrer hatten das Volk einst zerstreut, jetzt hilft ein König auf ihrem Thron beim Wiederaufbau.
