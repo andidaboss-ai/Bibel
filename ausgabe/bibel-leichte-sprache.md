@@ -76485,3 +76485,232 @@ Lobt Jah!
 > **Was bedeutet das?**
 > Vers 16: Gott hat den Menschen die Erde anvertraut. Das ist ein Geschenk und eine Verantwortung (vgl. 1. Mose 1,28; 2,15).
 > Vers 17–18: Solange wir leben, wollen wir Gott loben, und zwar „bis in Ewigkeit“.
+
+## Psalm 116
+#### Ich liebe den HERRN, denn er hört mich
+
+---
+
+### Er hat sein Ohr zu mir geneigt (Vers 1–4)
+
+<sup>1</sup>Ich liebe den HERRN, denn er hört meine Stimme
+und mein Flehen um Gnade.
+<sup>2</sup>Weil er sein Ohr zu mir geneigt hat,
+will ich ihn anrufen, solange ich lebe.
+<sup>3</sup>Die Stricke des Todes umgaben mich.
+Die Ängste des Totenreichs ergriffen mich.
+Ich geriet in Not und Kummer.
+<sup>4</sup>Da rief ich den Namen des HERRN an:
+„Ach, HERR, rette meine Seele!“
+
+> **Was bedeutet das?**
+> Psalm 116 ist ein persönliches Danklied. Der Beter war todkrank oder in Lebensgefahr. Gott hat ihn gerettet.
+> Er beginnt mit einem Liebesbekenntnis: „Ich liebe den HERRN.“ Der Grund: Gott hat zugehört.
+> Der Psalm gehört zum „Hallel“, das am Passafest gesungen wird.
+
+---
+
+### Kehre zurück zu deiner Ruhe, meine Seele (Vers 5–9)
+
+<sup>5</sup>Gnädig ist der HERR und gerecht.
+Ja, unser Gott ist barmherzig.
+<sup>6</sup>Der HERR behütet die Einfältigen.
+Ich war ganz unten, und er hat mich gerettet.
+<sup>7</sup>Kehre zurück zu deiner Ruhe, meine Seele,
+denn der HERR hat dir Gutes getan.
+<sup>8</sup>Denn du hast meine Seele vom Tod gerettet,
+meine Augen von Tränen
+und meine Füße vom Fallen.
+<sup>9</sup>Ich will vor dem HERRN gehen
+im Land der Lebenden.
+
+> **Was bedeutet das?**
+> „Die Einfältigen“: einfache, schutzlose Menschen, die sich nicht selbst helfen können. Um sie kümmert sich Gott besonders.
+> Vers 7: Der Beter spricht zu seiner eigenen Seele: Komm wieder zur Ruhe! Die Angst ist vorbei. Gott hat geholfen.
+> Vers 8: Dreifache Rettung: vom Tod, von den Tränen, vom Fallen.
+
+---
+
+### Wie kann ich dem HERRN vergelten? (Vers 10–14)
+
+<sup>10</sup>Ich habe geglaubt, darum habe ich gesagt:
+„Ich bin sehr geplagt.“
+<sup>11</sup>Ich sagte in meiner Bestürzung:
+„Alle Menschen sind Lügner.“
+<sup>12</sup>Was soll ich dem HERRN geben
+für all seine Wohltaten an mir?
+<sup>13</sup>Ich will den Becher der Rettung nehmen
+und den Namen des HERRN anrufen.
+<sup>14</sup>Ich will dem HERRN meine Gelübde erfüllen,
+ja, vor seinem ganzen Volk.
+
+> **Was bedeutet das?**
+> Vers 10–11: Auch in der Not hat der Beter nicht aufgehört zu glauben. Aber er war enttäuscht von den Menschen: Keiner hat ihm geholfen.
+> Paulus zitiert Vers 10 nach der griechischen Übersetzung: „Ich glaube, darum rede ich“ (2. Korinther 4,13).
+> Vers 12: Eine schöne Frage: Wie kann ich Gott danken für alles, was er mir gegeben hat?
+> Vers 13: Die Antwort: Ich erhebe den „Becher der Rettung“, einen Becher Wein beim Dankfest, und rufe Gottes Namen an. Beim Passamahl werden bis heute Becher Wein getrunken. Christen denken auch an den Kelch beim Abendmahl.
+
+---
+
+### Kostbar ist der Tod seiner Frommen (Vers 15–19)
+
+<sup>15</sup>Kostbar ist in den Augen des HERRN
+der Tod seiner Frommen.
+<sup>16</sup>Ach, HERR, ich bin dein Knecht.
+Ich bin dein Knecht, der Sohn deiner Magd.
+Du hast meine Fesseln gelöst.
+<sup>17</sup>Dir will ich ein Dankopfer bringen
+und den Namen des HERRN anrufen.
+<sup>18</sup>Ich will dem HERRN meine Gelübde erfüllen,
+ja, vor seinem ganzen Volk,
+<sup>19</sup>in den Vorhöfen des Hauses des HERRN,
+mitten in dir, Jerusalem.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 15: „Kostbar ist der Tod seiner Frommen“: Das heißt: Das Leben und Sterben der Menschen, die Gott vertrauen, ist ihm nicht egal. Es ist ihm sehr wertvoll. Er lässt sie nicht leichtfertig sterben. Das ist ein Trost an Sterbebetten.
+> Vers 16: „Sohn deiner Magd“: Ich gehöre dir ganz, wie ein Kind, das im Haus geboren wurde.
+> Der Beter bringt sein Dankopfer öffentlich im Tempel dar. Er will, dass alle von Gottes Hilfe erfahren.
+
+## Psalm 117
+#### Lobt den HERRN, alle Völker!
+
+---
+
+### Der kürzeste Psalm (Vers 1–2)
+
+<sup>1</sup>Lobt den HERRN, alle Völker!
+Preist ihn, alle Nationen!
+<sup>2</sup>Denn seine Güte ist groß über uns.
+Die Treue des HERRN bleibt für immer.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Psalm 117 ist der kürzeste Psalm und zugleich das kürzeste Kapitel der ganzen Bibel. Er steht ungefähr in der Mitte der Bibel.
+> Er ist kurz, aber sein Inhalt ist riesig: Alle Völker der Welt werden aufgerufen, Gott zu loben.
+> Der Grund: Gottes Güte und Treue. Das sind die zwei wichtigsten Eigenschaften Gottes im Alten Testament.
+> Paulus zitiert Vers 1, um zu zeigen: Die gute Nachricht von Gott gilt nicht nur für Israel, sondern für alle Völker (Römer 15,11).
+
+## Psalm 118
+#### Dies ist der Tag, den der HERR gemacht hat
+
+---
+
+### Seine Güte bleibt für immer (Vers 1–4)
+
+<sup>1</sup>Dankt dem HERRN, denn er ist gut,
+denn seine Güte bleibt für immer.
+<sup>2</sup>Israel soll nun sagen:
+„Seine Güte bleibt für immer.“
+<sup>3</sup>Das Haus Aaron soll nun sagen:
+„Seine Güte bleibt für immer.“
+<sup>4</sup>Die den HERRN fürchten, sollen nun sagen:
+„Seine Güte bleibt für immer.“
+
+> **Was bedeutet das?**
+> Psalm 118 ist der letzte Psalm des „Hallel“ (113–118). Es war wohl ein Festlied für eine Prozession zum Tempel. Ein Vorsänger rief, und die Gemeinde antwortete.
+> Wie in Psalm 115 werden drei Gruppen genannt: das Volk Israel, die Priester und alle, die Gott ehren.
+
+---
+
+### Der HERR ist auf meiner Seite (Vers 5–9)
+
+<sup>5</sup>Aus meiner Not rief ich zu Jah.
+Jah antwortete mir und gab mir Freiheit.
+<sup>6</sup>Der HERR ist auf meiner Seite. Ich fürchte mich nicht.
+Was kann ein Mensch mir tun?
+<sup>7</sup>Der HERR ist auf meiner Seite unter denen, die mir helfen.
+Darum werde ich auf die herabsehen, die mich hassen.
+<sup>8</sup>Es ist besser, beim HERRN Zuflucht zu suchen,
+als sich auf Menschen zu verlassen.
+<sup>9</sup>Es ist besser, beim HERRN Zuflucht zu suchen,
+als sich auf Fürsten zu verlassen.
+
+> **Was bedeutet das?**
+> Vers 5: „Gab mir Freiheit“: wörtlich „in die Weite“. Aus der Enge der Not führt Gott in die Weite.
+> Vers 6: „Der HERR ist auf meiner Seite, ich fürchte mich nicht“: vgl. Hebräer 13,6.
+> Vers 8–9: Menschen, auch mächtige, können enttäuschen. Gott ist zuverlässiger.
+
+---
+
+### Im Namen des HERRN (Vers 10–14)
+
+<sup>10</sup>Alle Völker umringten mich,
+aber im Namen des HERRN schlug ich sie zurück.
+<sup>11</sup>Sie umringten mich, ja, sie umringten mich.
+Im Namen des HERRN schlug ich sie zurück.
+<sup>12</sup>Sie umringten mich wie Bienen.
+Sie erloschen wie brennende Dornen.
+Im Namen des HERRN schlug ich sie zurück.
+<sup>13</sup>Du hast mich hart gestoßen, damit ich falle,
+aber der HERR hat mir geholfen.
+<sup>14</sup>Jah ist meine Stärke und mein Lied.
+Er ist meine Rettung geworden.
+
+> **Was bedeutet das?**
+> Der König oder das Volk wurde von allen Seiten bedrängt, wie von einem Bienenschwarm. Aber die Feinde verloschen schnell wie ein Feuer aus trockenen Dornen.
+> „Im Namen des HERRN“: nicht aus eigener Kraft, sondern mit Gottes Hilfe.
+> Vers 14 zitiert das Lied des Mose nach der Rettung am Roten Meer (2. Mose 15,2).
+
+---
+
+### Ich werde nicht sterben, sondern leben (Vers 15–18)
+
+<sup>15</sup>Die Stimme des Jubels und der Rettung ist in den Zelten der Gerechten:
+„Die rechte Hand des HERRN tut mächtige Taten.
+<sup>16</sup>Die rechte Hand des HERRN ist erhoben!
+Die rechte Hand des HERRN tut mächtige Taten!“
+<sup>17</sup>Ich werde nicht sterben, sondern leben
+und die Werke Jahs verkünden.
+<sup>18</sup>Jah hat mich hart gezüchtigt,
+aber dem Tod hat er mich nicht übergeben.
+
+> **Was bedeutet das?**
+> Vers 17 ist ein starkes Bekenntnis: „Ich werde nicht sterben, sondern leben.“ Martin Luther hat diesen Vers an die Wand seines Arbeitszimmers geschrieben, als er in schweren Zeiten war.
+> Vers 18: Der Beter hat schwere Zeiten erlebt, aber Gott hat ihn nicht sterben lassen.
+
+---
+
+### Der Stein, den die Bauleute verworfen haben (Vers 19–24)
+
+<sup>19</sup>Öffnet mir die Tore der Gerechtigkeit!
+Ich will durch sie hineingehen. Ich will Jah danken.
+<sup>20</sup>Das ist das Tor des HERRN.
+Die Gerechten werden hindurchgehen.
+<sup>21</sup>Ich will dir danken, denn du hast mir geantwortet
+und bist meine Rettung geworden.
+<sup>22</sup>Der Stein, den die Bauleute verworfen haben,
+ist zum Eckstein geworden.
+<sup>23</sup>Das ist vom HERRN geschehen.
+Es ist ein Wunder in unseren Augen.
+<sup>24</sup>Dies ist der Tag, den der HERR gemacht hat.
+Wir wollen jubeln und uns an ihm freuen!
+
+> **Was bedeutet das?**
+> Die Prozession kommt am Tempeltor an. „Öffnet mir die Tore!“
+> Vers 22 ist eines der wichtigsten Worte der Bibel: Ein Stein, den die Bauarbeiter als unbrauchbar weggeworfen haben, wird zum wichtigsten Stein des ganzen Gebäudes, zum Eckstein. Ursprünglich ein Bild für Israel oder den König, die von den Mächtigen verachtet und doch von Gott erwählt wurden.
+> Jesus bezog diesen Vers auf sich selbst (Matthäus 21,42). Er wurde von den Führern seines Volkes abgelehnt und gekreuzigt, aber Gott hat ihn auferweckt. Petrus sagt dasselbe (Apostelgeschichte 4,11; 1. Petrus 2,7).
+> Vers 24: „Dies ist der Tag, den der HERR gemacht hat“: ein bekannter Vers, der an Ostern gebetet wird.
+
+---
+
+### Gesegnet sei, der da kommt (Vers 25–29)
+
+<sup>25</sup>Ach, HERR, rette doch!
+Ach, HERR, lass es doch gelingen!
+<sup>26</sup>Gesegnet sei, der im Namen des HERRN kommt!
+Wir segnen euch vom Haus des HERRN aus.
+<sup>27</sup>Der HERR ist Gott, und er hat uns Licht gegeben.
+Bindet das Festopfer mit Stricken
+bis an die Hörner des Altars!
+<sup>28</sup>Du bist mein Gott, und ich will dir danken.
+Du bist mein Gott, ich will dich erheben.
+<sup>29</sup>Dankt dem HERRN, denn er ist gut,
+denn seine Güte bleibt für immer.
+
+> **Was bedeutet das?**
+> Vers 25: „Ach, HERR, rette doch!“ heißt auf Hebräisch „Hosianna!“
+> Vers 26: „Gesegnet sei, der im Namen des HERRN kommt!“ Mit diesen Worten begrüßten die Priester die Pilger am Tempel.
+> Als Jesus auf einem Esel in Jerusalem einzog, riefen die Menschen genau diese Worte: „Hosianna! Gesegnet sei, der da kommt im Namen des Herrn!“ (Matthäus 21,9). Christen singen diese Worte bis heute im Abendmahl.
+> Vers 27: „Die Hörner des Altars“: Ecken des Altars, die wie Hörner nach oben ragten.
+> Der Psalm endet, wie er begonnen hat: „Seine Güte bleibt für immer.“
