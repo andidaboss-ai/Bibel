@@ -92334,3 +92334,346 @@ und das ganze Haus Israel ist unbeschnitten im Herzen.“
 > **Was bedeutet das?**
 > Vers 23–24 ist einer der wichtigsten Sätze bei Jeremia: Sei nicht stolz auf deine Klugheit, deine Kraft oder dein Geld. Wenn du schon stolz sein willst, dann darauf, dass du Gott kennst, den Gott, der Gnade, Recht und Gerechtigkeit liebt. Paulus nimmt das auf: „Wer sich rühmt, der rühme sich des Herrn“ (1. Korinther 1,31).
 > Vers 25–26: Viele Völker damals waren beschnitten, nicht nur Israel. Jeremia sagt: Das äußere Zeichen allein nützt nichts. Wer ein „unbeschnittenes Herz“ hat, also ein Herz, das für Gott verschlossen ist, dem hilft auch das Zeichen am Körper nicht. Das gilt für alle Völker und auch für Israel. „Gestutzter Haarrand“ war eine Haartracht bestimmter arabischer Stämme.
+
+## Jeremia – Kapitel 10
+#### Der HERR ist der wahre Gott
+
+---
+
+### Die Götzen können nichts (Vers 1–16)
+
+<sup>1</sup>Hört das Wort, das der HERR zu euch redet, Haus Israel!
+<sup>2</sup>So spricht der HERR:
+„Lernt nicht den Weg der Nationen,
+und erschreckt nicht vor den Zeichen des Himmels,
+denn die Nationen erschrecken vor ihnen.
+<sup>3</sup>Denn die Bräuche der Völker sind nichtig.
+Denn man fällt einen Baum im Wald,
+ein Werk der Hände des Handwerkers mit der Axt.
+<sup>4</sup>Man schmückt ihn mit Silber und mit Gold.
+Man befestigt ihn mit Nägeln und Hämmern,
+damit er nicht wackelt.
+<sup>5</sup>Sie sind wie eine gedrechselte Palmsäule
+und reden nicht.
+Sie müssen getragen werden, denn sie können nicht gehen.
+Fürchtet euch nicht vor ihnen,
+denn sie können nichts Böses tun,
+und auch Gutes zu tun, liegt nicht in ihnen.“
+<sup>6</sup>Niemand ist wie du, HERR.
+Du bist groß, und groß ist dein Name an Macht.
+<sup>7</sup>Wer sollte dich nicht fürchten, König der Nationen?
+Denn dir gebührt es.
+Denn unter allen Weisen der Nationen
+und in allen ihren Königreichen
+ist niemand wie du.
+<sup>8</sup>Aber sie sind allesamt dumm und töricht,
+belehrt von Götzen! Es ist nur Holz.
+<sup>9</sup>Da ist gehämmertes Silberblech, das aus Tarschisch gebracht wird,
+und Gold aus Ufas,
+ein Werk des Graveurs und der Hände des Goldschmieds.
+Ihre Kleidung ist blauer und roter Purpur.
+Sie alle sind das Werk geschickter Männer.
+<sup>10</sup>Aber der HERR ist der wahre Gott.
+Er ist der lebendige Gott und ein ewiger König.
+Vor seinem Zorn bebt die Erde.
+Die Nationen können seinen Grimm nicht ertragen.
+<sup>11</sup>„So sollt ihr zu ihnen sagen:
+‚Die Götter, die den Himmel und die Erde nicht gemacht haben,
+werden verschwinden von der Erde und unter dem Himmel.‘“
+<sup>12</sup>Gott hat die Erde durch seine Kraft gemacht.
+Er hat die Welt durch seine Weisheit gegründet
+und durch seinen Verstand den Himmel ausgespannt.
+<sup>13</sup>Wenn er seine Stimme erhebt,
+dann rauschen die Wasser im Himmel,
+und er lässt die Wolken aufsteigen vom Ende der Erde.
+Er macht Blitze für den Regen
+und lässt den Wind aus seinen Vorratskammern hervorgehen.
+<sup>14</sup>Jeder Mensch ist dumm geworden und ohne Erkenntnis.
+Jeder Goldschmied wird beschämt durch sein Götterbild,
+denn sein gegossenes Bild ist Lüge,
+und es ist kein Atem in ihnen.
+<sup>15</sup>Sie sind nichtig, ein Werk der Täuschung.
+Zur Zeit ihrer Heimsuchung werden sie zugrunde gehen.
+<sup>16</sup>Der Anteil Jakobs ist nicht wie diese,
+denn er ist der Schöpfer von allem,
+und Israel ist der Stamm seines Erbes.
+HERR der Heere ist sein Name.
+
+> **Was bedeutet das?**
+> Vers 2: Die Babylonier deuteten die Sterne und hatten Angst vor Zeichen am Himmel wie Sonnenfinsternissen. Gott sagt: Habt keine Angst davor! Ich habe die Sterne gemacht.
+> Vers 3–5: Wieder ein Spott über die Götzen: Ein Baum wird gefällt, geschnitzt, vergoldet und festgenagelt, damit er nicht umfällt. Er kann nicht reden und nicht gehen. Andere Übersetzungen vergleichen das Götterbild hier mit einer „Vogelscheuche im Gurkenfeld“. „Fürchtet euch nicht vor ihnen, sie können nichts tun.“
+> Vers 6–7: Ein Lobpreis: „Niemand ist wie du, HERR!“
+> Vers 10: „Der HERR ist der wahre Gott, der lebendige Gott.“ Das ist der Gegensatz zu den toten Götzen.
+> Vers 11: Dieser Vers ist auf Aramäisch geschrieben, nicht auf Hebräisch. Aramäisch war die Sprache, die man damals in Babylon und im ganzen Orient verstand. Wahrscheinlich sollten die Verbannten diesen Satz den Babyloniern in ihrer eigenen Sprache sagen können.
+> Vers 12–13: Gott ist der Schöpfer. Er macht Regen, Blitze und Wind.
+> Vers 16: Israels „Anteil“, also sein Schatz, ist Gott selbst, der Schöpfer von allem.
+
+---
+
+### Meine Wunde ist schwer (Vers 17–25)
+
+<sup>17</sup>Pack deine Habe aus dem Land zusammen,
+die du in der Belagerung wohnst!
+<sup>18</sup>Denn so spricht der HERR:
+„Siehe, ich werde die Bewohner des Landes diesmal wegschleudern
+und sie in Not bringen, damit sie es spüren.“
+<sup>19</sup>Wehe mir wegen meines Zusammenbruchs!
+Meine Wunde ist schwer.
+Aber ich sagte: „Das ist eben mein Leid,
+und ich muss es tragen.“
+<sup>20</sup>Mein Zelt ist zerstört,
+und alle meine Seile sind zerrissen.
+Meine Kinder sind von mir weggegangen und sind nicht mehr.
+Da ist niemand mehr, der mein Zelt aufspannt
+und meine Zeltdecken aufrichtet.
+<sup>21</sup>Denn die Hirten sind dumm geworden
+und haben nicht nach dem HERRN gefragt.
+Darum hatten sie kein Gelingen,
+und ihre ganze Herde ist zerstreut.
+<sup>22</sup>Horch, eine Nachricht! Siehe, sie kommt,
+und ein großes Getöse aus dem Land des Nordens,
+um die Städte Judas zu einer Wüste zu machen,
+zu einer Wohnung der Schakale.
+<sup>23</sup>HERR, ich weiß, dass der Weg des Menschen nicht in seiner Macht steht.
+Es liegt nicht an dem Menschen, der geht,
+seine Schritte zu lenken.
+<sup>24</sup>HERR, weise mich zurecht, aber mit Maß,
+nicht in deinem Zorn,
+damit du mich nicht zunichtemachst.
+<sup>25</sup>Gieß deinen Grimm aus über die Nationen, die dich nicht kennen,
+und über die Sippen, die deinen Namen nicht anrufen!
+Denn sie haben Jakob gefressen.
+Ja, sie haben ihn gefressen und verzehrt
+und seine Wohnung verwüstet.
+
+> **Was bedeutet das?**
+> Vers 17–18: Packt eure Sachen! Das Exil kommt.
+> Vers 19–20: Jerusalem spricht wie eine Mutter, deren Zelt zerstört ist und deren Kinder fort sind. „Das ist mein Leid, und ich muss es tragen.“
+> Vers 21: Die „Hirten“, die Anführer des Volkes, haben nicht nach Gott gefragt. Darum ist die Herde zerstreut.
+> Vers 23 ist ein bekannter Vers: „Der Mensch kann seine Schritte nicht selbst lenken.“ Wir haben unser Leben nicht völlig im Griff. Wir sind auf Gott angewiesen.
+> Vers 24: Ein demütiges Gebet: Gott, korrigiere mich, aber sanft, nicht im Zorn.
+> Vers 25: Ein Gebet, Gottes Zorn möge die Völker treffen, die Israel zerstört haben. Das ist ein Schrei der Unterdrückten nach Gerechtigkeit, wie in manchen Psalmen (Psalm 79,6–7). Es ist an Gott gerichtet und überlässt ihm das Urteil. Es ist keine Erlaubnis, anderen Völkern Gewalt anzutun.
+
+## Jeremia – Kapitel 11
+#### Der gebrochene Bund
+
+---
+
+### Hört die Worte dieses Bundes (Vers 1–17)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam:
+<sup>2</sup>„Hört die Worte dieses Bundes
+und redet zu den Männern von Juda
+und zu den Bewohnern Jerusalems.
+<sup>3</sup>Sag zu ihnen: So spricht der HERR, der Gott Israels:
+‚Verflucht ist der Mann, der nicht auf die Worte dieses Bundes hört,
+<sup>4</sup>den ich euren Vätern geboten habe
+an dem Tag, als ich sie aus dem Land Ägypten herausführte,
+aus dem eisernen Schmelzofen‘, und sagte:
+‚Hört auf meine Stimme und tut sie,
+nach allem, was ich euch gebiete.
+So sollt ihr mein Volk sein,
+und ich will euer Gott sein,
+<sup>5</sup>damit ich den Eid erfülle, den ich euren Vätern geschworen habe,
+ihnen ein Land zu geben, in dem Milch und Honig fließen,
+wie es heute ist.‘“
+Da antwortete ich und sagte: „Amen, HERR.“
+<sup>6</sup>Der HERR sagte zu mir:
+„Rufe all diese Worte in den Städten Judas
+und auf den Straßen Jerusalems aus und sag:
+‚Hört die Worte dieses Bundes und tut sie!
+<sup>7</sup>Denn ich habe eure Väter eindringlich gewarnt
+an dem Tag, als ich sie aus dem Land Ägypten heraufführte,
+bis zu diesem Tag,
+früh und unermüdlich habe ich sie gewarnt und gesagt:
+„Hört auf meine Stimme!“
+<sup>8</sup>Aber sie hörten nicht und neigten ihr Ohr nicht,
+sondern jeder ging in der Verstocktheit seines bösen Herzens.
+Darum habe ich über sie alle Worte dieses Bundes kommen lassen,
+die ich ihnen zu tun geboten hatte,
+die sie aber nicht getan haben.‘“
+<sup>9</sup>Der HERR sagte zu mir:
+„Eine Verschwörung findet sich unter den Männern von Juda
+und unter den Bewohnern Jerusalems.
+<sup>10</sup>Sie sind zu den Missetaten ihrer Vorfahren zurückgekehrt,
+die sich weigerten, auf meine Worte zu hören.
+Sie sind anderen Göttern nachgelaufen, um ihnen zu dienen.
+Das Haus Israel und das Haus Juda haben meinen Bund gebrochen,
+den ich mit ihren Vätern geschlossen habe.
+<sup>11</sup>Darum spricht der HERR:
+‚Siehe, ich bringe Unheil über sie, dem sie nicht entkommen können.
+Sie werden zu mir schreien,
+aber ich werde nicht auf sie hören.
+<sup>12</sup>Dann werden die Städte Judas und die Bewohner Jerusalems hingehen
+und zu den Göttern schreien, denen sie Räucherwerk verbrennen,
+aber die werden sie ganz und gar nicht retten
+in der Zeit ihrer Not.
+<sup>13</sup>Denn so viele Städte du hast,
+so viele Götter hast du, Juda.
+Und so viele Straßen Jerusalem hat,
+so viele Altäre habt ihr dem Schändlichen aufgestellt,
+Altäre, um dem Baal Räucherwerk zu verbrennen.‘
+<sup>14</sup>Darum bete nicht für dieses Volk!
+Erhebe für sie weder Klage noch Gebet,
+denn ich werde nicht hören,
+wenn sie wegen ihrer Not zu mir schreien.
+<sup>15</sup>Was hat meine Geliebte in meinem Haus zu suchen,
+da sie mit vielen schändlich gehandelt hat
+und das heilige Opferfleisch von dir gewichen ist?
+Wenn du Böses tust, dann freust du dich.“
+<sup>16</sup>Der HERR hatte dich genannt:
+„Ein grüner Ölbaum, schön mit herrlichen Früchten.“
+Mit lautem Getöse hat er Feuer an ihn gelegt,
+und seine Zweige sind zerbrochen.
+<sup>17</sup>Denn der HERR der Heere, der dich gepflanzt hat,
+hat Unheil gegen dich ausgesprochen
+wegen der Bosheit des Hauses Israel und des Hauses Juda,
+die sie sich selbst angetan haben,
+indem sie mich kränkten und dem Baal Räucherwerk verbrannten.
+
+> **Was bedeutet das?**
+> Vers 2–5: Gott erinnert an den Bund vom Sinai. Der Kern ist: „Hört auf meine Stimme. Ihr sollt mein Volk sein, und ich will euer Gott sein.“ Ägypten wird „eiserner Schmelzofen“ genannt, ein Bild für die harte Sklaverei dort.
+> Vers 5: Jeremia antwortet mit „Amen“, das heißt: „So ist es, so soll es sein.“
+> Vielleicht steht dieses Kapitel im Zusammenhang mit der Reform des Königs Joschija. Damals wurde im Tempel ein Buch des Gesetzes gefunden, und der Bund wurde erneuert (2. Könige 22–23).
+> Vers 9–10: Aber das Volk hat den Bund gebrochen und sich wieder anderen Göttern zugewandt.
+> Vers 14: Wieder sagt Gott zu Jeremia: Bete nicht für dieses Volk (wie in 7,16). Das zeigt, wie ernst die Lage ist.
+> Vers 16: Israel war wie ein schöner, grüner Olivenbaum. Jetzt wird er vom Feuer getroffen. Paulus verwendet später das Bild vom Ölbaum für Israel (Römer 11,17–24).
+
+---
+
+### Wie ein Lamm zur Schlachtbank (Vers 18–23)
+
+<sup>18</sup>Der HERR hat es mir zu erkennen gegeben, und ich wusste es.
+Damals hast du mir ihre Taten gezeigt.
+<sup>19</sup>Ich aber war wie ein zahmes Lamm,
+das zur Schlachtung geführt wird.
+Ich wusste nicht, dass sie Pläne gegen mich ausgeheckt hatten und sagten:
+„Lasst uns den Baum mit seiner Frucht verderben
+und ihn ausrotten aus dem Land der Lebenden,
+damit seines Namens nicht mehr gedacht wird.“
+<sup>20</sup>Aber du, HERR der Heere, der gerecht richtet,
+der Herz und Nieren prüft,
+lass mich deine Vergeltung an ihnen sehen,
+denn dir habe ich meine Sache anvertraut.
+<sup>21</sup>Darum spricht der HERR über die Männer von Anatot,
+die dir nach dem Leben trachten und sagen:
+„Du sollst nicht im Namen des HERRN weissagen,
+sonst stirbst du durch unsere Hand“ –
+<sup>22</sup>darum spricht der HERR der Heere:
+„Siehe, ich werde sie heimsuchen.
+Die jungen Männer werden durch das Schwert sterben.
+Ihre Söhne und ihre Töchter werden durch Hunger sterben.
+<sup>23</sup>Es wird kein Rest von ihnen bleiben,
+denn ich bringe Unheil über die Männer von Anatot,
+das Jahr ihrer Heimsuchung.“
+
+> **Was bedeutet das?**
+> Vers 18–19: Jeremia erfährt, dass Männer aus seinem eigenen Heimatdorf Anatot ihn umbringen wollen, vielleicht sogar Verwandte (vgl. 12,6). Er ahnte nichts, wie ein Lamm, das zur Schlachtbank geführt wird. Dieses Bild erinnert an den Knecht Gottes in Jesaja 53,7.
+> Vers 20: Jeremia rächt sich nicht selbst. Er übergibt seine Sache Gott, der gerecht richtet und ins Herz sieht. Er bittet Gott um Gerechtigkeit. Das ist ein wichtiger Unterschied: Er nimmt die Rache nicht in die eigene Hand.
+> Vers 21–23: Gott kündigt das Gericht über die Männer von Anatot an.
+> Wer von Menschen bedroht wird, die ihm nahestehen, soll sich Hilfe holen: Notruf 110, Telefonseelsorge 0800 111 0 111.
+
+## Jeremia – Kapitel 12
+#### Warum geht es den Gottlosen so gut?
+
+---
+
+### Jeremia streitet mit Gott (Vers 1–6)
+
+<sup>1</sup>Du bist gerecht, HERR, wenn ich mit dir streite.
+Und doch möchte ich mit dir über das Recht reden:
+Warum hat der Weg der Gottlosen Gelingen?
+Warum leben alle in Ruhe, die so treulos handeln?
+<sup>2</sup>Du hast sie gepflanzt.
+Ja, sie haben Wurzeln geschlagen.
+Sie wachsen. Ja, sie bringen Frucht.
+Nahe bist du in ihrem Mund,
+aber fern von ihrem Herzen.
+<sup>3</sup>Du aber, HERR, kennst mich.
+Du siehst mich und prüfst mein Herz, wie es zu dir steht.
+Reiße sie heraus wie Schafe zur Schlachtung
+und bestimme sie für den Tag des Schlachtens!
+<sup>4</sup>Wie lange soll das Land trauern
+und das Kraut auf dem ganzen Feld verdorren?
+Wegen der Bosheit derer, die darin wohnen,
+sind Tiere und Vögel dahingerafft,
+denn sie sagten: „Er wird unser Ende nicht sehen.“
+<sup>5</sup>„Wenn du mit Fußgängern läufst und sie dich müde machen,
+wie willst du dann mit Pferden um die Wette laufen?
+Und wenn du dich nur in einem friedlichen Land sicher fühlst,
+was willst du dann tun im Dickicht des Jordan?
+<sup>6</sup>Denn sogar deine Brüder und das Haus deines Vaters,
+sogar sie haben dich verraten!
+Sogar sie haben laut hinter dir hergeschrien!
+Glaube ihnen nicht,
+auch wenn sie freundliche Worte zu dir reden.
+
+> **Was bedeutet das?**
+> Vers 1–2: Jeremia stellt eine Frage, die Menschen bis heute stellen: Warum geht es bösen Menschen so gut? Sie reden fromm, aber ihr Herz ist weit weg von Gott. Und trotzdem haben sie Erfolg. Auch Hiob und Psalm 73 stellen diese Frage.
+> Vers 1: Jeremia beginnt mit „Du bist gerecht“, und trotzdem streitet er mit Gott. Glaube und ehrliche Fragen gehören zusammen.
+> Vers 3: Jeremia ist so verletzt, dass er Gott bittet, die Bösen zu bestrafen. Er spricht seinen Zorn offen vor Gott aus, aber er handelt nicht selbst.
+> Vers 5: Gottes Antwort ist überraschend: Er erklärt nichts, sondern sagt: Es wird noch schwerer werden! Wenn du schon beim Laufen mit Fußgängern müde wirst, wie willst du mit Pferden mithalten? Das „Dickicht des Jordan“ war ein gefährlicher Urwald voller Löwen.
+> Vers 6: Selbst Jeremias eigene Familie hat ihn verraten. Eine besonders schmerzhafte Erfahrung.
+
+---
+
+### Gott klagt über sein Erbe (Vers 7–13)
+
+<sup>7</sup>Ich habe mein Haus verlassen.
+Ich habe mein Erbe verstoßen.
+Ich habe die Geliebte meiner Seele
+in die Hand ihrer Feinde gegeben.
+<sup>8</sup>Mein Erbe ist mir geworden wie ein Löwe im Wald.
+Es hat seine Stimme gegen mich erhoben.
+Darum habe ich es gehasst.
+<sup>9</sup>Ist mein Erbe für mich wie ein bunter Raubvogel?
+Sind die Raubvögel ringsum gegen sie?
+Geht, versammelt alle Tiere des Feldes!
+Bringt sie her zum Fressen!
+<sup>10</sup>Viele Hirten haben meinen Weinberg verwüstet.
+Sie haben mein Feld zertreten.
+Sie haben mein liebliches Feld zu einer öden Wüste gemacht.
+<sup>11</sup>Sie haben es zur Wüste gemacht.
+Verwüstet trauert es vor mir.
+Das ganze Land ist verwüstet,
+weil sich niemand darum kümmert.
+<sup>12</sup>Verwüster sind über alle kahlen Höhen in der Wüste gekommen,
+denn das Schwert des HERRN frisst
+von einem Ende des Landes bis zum anderen Ende des Landes.
+Kein Fleisch hat Frieden.
+<sup>13</sup>Sie haben Weizen gesät und Dornen geerntet.
+Sie haben sich abgemüht und nichts gewonnen.
+Ihr werdet euch eurer Ernte schämen
+wegen des glühenden Zorns des HERRN.“
+
+> **Was bedeutet das?**
+> Hier spricht Gott selbst, und man spürt seinen Schmerz: „Ich habe die Geliebte meiner Seele in die Hand ihrer Feinde gegeben.“ Gott tut das nicht gern. Es tut ihm weh wie jemandem, der seine Liebe verloren hat.
+> Vers 8: „Darum habe ich es gehasst“ ist eine Sprache der verletzten Liebe. Das Volk hat sich gegen Gott gestellt wie ein brüllender Löwe.
+> Vers 10–11: Die „Hirten“ sind hier die feindlichen Heerführer, die das Land zerstören. Und niemand kümmert sich darum.
+> Vers 13: Sie säen Weizen und ernten Dornen. All ihre Mühe ist umsonst.
+
+---
+
+### Auch für die Nachbarvölker gibt es Hoffnung (Vers 14–17)
+
+<sup>14</sup>So spricht der HERR über alle meine bösen Nachbarn,
+die das Erbe antasten, das ich meinem Volk Israel zum Erbe gegeben habe:
+„Siehe, ich werde sie aus ihrem Land herausreißen,
+und das Haus Juda werde ich aus ihrer Mitte herausreißen.
+<sup>15</sup>Und es wird geschehen, nachdem ich sie herausgerissen habe,
+werde ich mich wieder über sie erbarmen.
+Ich werde sie zurückbringen,
+jeden zu seinem Erbe und jeden in sein Land.
+<sup>16</sup>Und es wird geschehen, wenn sie die Wege meines Volkes eifrig lernen,
+bei meinem Namen zu schwören: ‚So wahr der HERR lebt‘,
+so wie sie mein Volk gelehrt haben, bei Baal zu schwören,
+dann werden sie mitten in meinem Volk aufgebaut werden.
+<sup>17</sup>Wenn sie aber nicht hören,
+dann werde ich dieses Volk herausreißen,
+herausreißen und vernichten“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 14: Die Nachbarvölker, die Israel überfallen haben, werden selbst aus ihrem Land gerissen werden.
+> Vers 15: Aber dann das Überraschende: Gott wird sich auch über sie erbarmen und sie in ihr Land zurückbringen! Gottes Barmherzigkeit gilt nicht nur Israel.
+> Vers 16: Wenn die anderen Völker lernen, den wahren Gott zu ehren, dann bekommen sie einen Platz mitten in Gottes Volk. Die Tür steht für alle offen.
+> Hier kehren die Worte aus Jeremias Berufung wieder: „ausreißen“ und „aufbauen“ (1,10).

@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 754 von 1189 Kapiteln (63.4 %), 19202 von 31098 Versen.**
+**Gesamt: 757 von 1189 Kapiteln (63.7 %), 19267 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 21 | Prediger | AT | 12 / 12 | fertig |
 | 22 | Hoheslied | AT | 8 / 8 | fertig |
 | 23 | Jesaja | AT | 66 / 66 | fertig |
-| 24 | Jeremia | AT | 9 / 52 | in Arbeit |
+| 24 | Jeremia | AT | 12 / 52 | in Arbeit |
 | 25 | Klagelieder | AT | 0 / 5 | – |
 | 26 | Hesekiel | AT | 0 / 48 | – |
 | 27 | Daniel | AT | 0 / 12 | – |
