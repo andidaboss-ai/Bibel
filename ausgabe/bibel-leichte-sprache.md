@@ -85793,3 +85793,332 @@ und Israel, mein Erbteil.“
 > Vers 22: Gott „schlägt und heilt“. Sein Gericht hat das Ziel der Heilung.
 > Vers 23: Eine Straße verbindet die alten Erzfeinde. Sie reisen zueinander und beten gemeinsam.
 > Vers 25: Gott nennt Ägypten „mein Volk“ und Assyrien „das Werk meiner Hände“, Titel, die sonst nur Israel trägt. Gottes Segen gilt allen Völkern. Eine Vision von Frieden und Versöhnung zwischen verfeindeten Nationen, die bis heute Hoffnung gibt.
+
+## Jesaja – Kapitel 20
+#### Nackt und barfuß
+
+---
+
+### Ein Zeichen gegen Ägypten und Kusch (Vers 1–6)
+
+<sup>1</sup>In dem Jahr, als der Feldherr nach Aschdod kam,
+als Sargon, der König von Assyrien, ihn sandte
+und er gegen Aschdod kämpfte und es eroberte,
+<sup>2</sup>zu dieser Zeit sprach der HERR durch Jesaja, den Sohn von Amoz:
+„Geh und löse das Sackgewand von deinen Hüften
+und zieh deine Sandalen von deinen Füßen aus.“
+Er tat es und ging nackt und barfuß umher.
+<sup>3</sup>Der HERR sagte:
+„So wie mein Knecht Jesaja drei Jahre lang nackt und barfuß gegangen ist
+als Zeichen und Wunder über Ägypten und über Kusch,
+<sup>4</sup>so wird der König von Assyrien die Gefangenen Ägyptens
+und die Verschleppten von Kusch wegführen,
+Junge und Alte, nackt und barfuß
+und mit entblößtem Gesäß,
+zur Schande Ägyptens.
+<sup>5</sup>Sie werden erschrecken und zuschanden werden
+wegen Kusch, auf das sie hofften,
+und wegen Ägypten, ihres Ruhms.
+<sup>6</sup>Die Bewohner dieses Küstenlandes werden an jenem Tag sagen:
+‚Siehe, so ist es mit unserer Hoffnung,
+zu der wir um Hilfe geflohen sind,
+um vor dem König von Assyrien gerettet zu werden.
+Und wir, wie sollen wir entkommen?‘“
+
+> **Was bedeutet das?**
+> Im Jahr 711 vor Christus eroberte der assyrische Feldherr („Tartan“ ist ein Titel) die Philisterstadt Aschdod. Die Philister hatten auf Hilfe aus Ägypten gehofft.
+> Jesaja muss eine Zeichenhandlung machen: Drei Jahre lang geht er nackt, also nur mit einem Lendenschurz, und barfuß wie ein Kriegsgefangener. Das war für einen angesehenen Mann eine große Demütigung.
+> Die Botschaft: So werden die Ägypter und Kuschiten als Gefangene weggeführt werden. Wer auf Ägypten vertraut, wird enttäuscht.
+> In der englischen Vorlage steht „Äthiopien“. Gemeint ist Kusch südlich von Ägypten.
+> Propheten haben oft nicht nur geredet, sondern ihre Botschaft auch vorgespielt, damit die Menschen sie nicht übersehen konnten.
+
+## Jesaja – Kapitel 21
+#### Wächter, wie weit ist die Nacht?
+
+---
+
+### Gefallen ist Babylon (Vers 1–10)
+
+<sup>1</sup>Die Last über die Wüste am Meer.
+Wie Stürme im Süden daherfegen,
+so kommt es aus der Wüste, aus einem furchtbaren Land.
+<sup>2</sup>Eine harte Vision ist mir verkündet worden.
+Der Verräter verrät, und der Verwüster verwüstet.
+Zieh hinauf, Elam! Greif an!
+Ich habe allem Seufzen von Medien ein Ende gemacht.
+<sup>3</sup>Darum sind meine Hüften voller Qual.
+Schmerzen haben mich gepackt wie die Schmerzen einer Frau in den Wehen.
+Ich habe so viele Schmerzen, dass ich nicht hören kann.
+Ich bin so bestürzt, dass ich nicht sehen kann.
+<sup>4</sup>Mein Herz flattert.
+Entsetzen hat mich erschreckt.
+Die Dämmerung, nach der ich mich sehnte,
+ist mir zum Zittern geworden.
+<sup>5</sup>Sie decken den Tisch.
+Sie stellen die Wache auf.
+Sie essen. Sie trinken.
+Steht auf, ihr Fürsten, ölt den Schild!
+<sup>6</sup>Denn der Herr sagte zu mir:
+„Geh, stell einen Wächter auf.
+Er soll melden, was er sieht.
+<sup>7</sup>Wenn er einen Zug sieht, Reiter paarweise,
+einen Zug Esel, einen Zug Kamele,
+dann soll er genau hinhören, mit großer Aufmerksamkeit.“
+<sup>8</sup>Er rief wie ein Löwe:
+„Herr, ich stehe ständig auf dem Wachturm am Tag,
+und jede Nacht bleibe ich auf meinem Posten.
+<sup>9</sup>Siehe, da kommt ein Zug von Männern, Reiter paarweise.“
+Er antwortete:
+„Gefallen, gefallen ist Babylon,
+und alle geschnitzten Bilder ihrer Götter sind zu Boden zerschmettert.
+<sup>10</sup>Du mein gedroschenes Volk, du Korn meiner Tenne!“
+Was ich vom HERRN der Heere gehört habe,
+vom Gott Israels, das habe ich euch verkündet.
+
+> **Was bedeutet das?**
+> „Die Wüste am Meer“ meint Babylon, das in einer Ebene am Euphrat lag.
+> Vers 2: Elam und Medien (im heutigen Iran) greifen Babylon an.
+> Vers 3–4: Die Vision ist so furchtbar, dass der Prophet körperlich leidet.
+> Vers 5: Während der Feind kommt, feiern die Fürsten Babylons noch ein Festmahl. Daniel 5 erzählt von so einem Fest in der Nacht, als Babylon fiel.
+> Vers 6–9: Ein Wächter steht auf dem Turm, Tag und Nacht. Endlich sieht er die Boten und ruft: „Gefallen, gefallen ist Babylon!“ Dieser Ruf wird in der Offenbarung des Johannes wieder aufgenommen (Offenbarung 14,8; 18,2).
+> Vers 10: Gott tröstet sein Volk, das „gedroschen“ wurde wie Getreide: Eure Unterdrücker sind gefallen.
+
+---
+
+### Wächter, wie weit ist die Nacht? (Vers 11–12)
+
+<sup>11</sup>Die Last über Duma.
+Einer ruft mir aus Seïr zu:
+„Wächter, wie weit ist die Nacht?
+Wächter, wie weit ist die Nacht?“
+<sup>12</sup>Der Wächter sagte:
+„Der Morgen kommt, aber auch die Nacht.
+Wenn ihr fragen wollt, dann fragt.
+Kommt wieder.“
+
+> **Was bedeutet das?**
+> Ein kurzes, geheimnisvolles Wort. Duma und Seïr liegen in Edom, südlich vom Toten Meer.
+> Jemand ruft verzweifelt in der Nacht: „Wächter, wie lange dauert die Nacht noch?“ Wie lange dauert diese schwere Zeit noch?
+> Die Antwort ist ehrlich: Der Morgen kommt, aber dann kommt auch wieder eine Nacht. Gute und schwere Zeiten wechseln sich ab. Fragt weiter, kommt wieder!
+> Viele Menschen haben in dunklen Zeiten diese Frage gestellt. Sie ist bis heute ein Bild für das Warten auf Hoffnung.
+
+---
+
+### Über Arabien (Vers 13–17)
+
+<sup>13</sup>Die Last über Arabien.
+Im Dickicht in Arabien werdet ihr übernachten,
+ihr Karawanen der Dedaniter.
+<sup>14</sup>Bringt dem Durstigen Wasser!
+Die Bewohner des Landes Tema kamen den Flüchtlingen mit Brot entgegen.
+<sup>15</sup>Denn sie sind vor den Schwertern geflohen,
+vor dem gezückten Schwert, vor dem gespannten Bogen
+und vor der Wucht des Kampfes.
+<sup>16</sup>Denn so hat der Herr zu mir gesagt:
+„Innerhalb eines Jahres, wie ein Tagelöhner es zählt,
+wird alle Pracht von Kedar vergehen,
+<sup>17</sup>und der Rest der Zahl der Bogenschützen,
+der Helden der Söhne Kedars, wird gering sein,
+denn der HERR, der Gott Israels, hat es gesagt.“
+
+> **Was bedeutet das?**
+> Arabische Stämme (Dedan, Tema, Kedar) werden von Krieg getroffen. Die Karawanen müssen sich im Gebüsch verstecken.
+> Vers 14: Ein schönes Detail: Die Bewohner von Tema bringen den Flüchtlingen Wasser und Brot. Gastfreundschaft gegenüber Flüchtlingen ist ein Zeichen von Menschlichkeit, das die Bibel lobt.
+> Vers 16: Innerhalb eines Jahres wird Kedars Macht gebrochen.
+
+## Jesaja – Kapitel 22
+#### Das Tal der Schau
+
+---
+
+### Jerusalem feiert, statt zu trauern (Vers 1–14)
+
+<sup>1</sup>Die Last über das Tal der Schau.
+Was ist denn mit dir, dass ihr alle auf die Dächer gestiegen seid?
+<sup>2</sup>Du lärmerfüllte, tobende Stadt, du fröhliche Stadt:
+Deine Erschlagenen sind nicht durch das Schwert erschlagen
+und nicht im Kampf gestorben.
+<sup>3</sup>Alle deine Anführer sind zusammen geflohen.
+Sie wurden von den Bogenschützen gefesselt.
+Alle von dir, die man fand, wurden zusammen gefesselt.
+Sie flohen weit weg.
+<sup>4</sup>Darum sagte ich: „Schaut weg von mir!
+Ich will bitterlich weinen.
+Bemüht euch nicht, mich zu trösten
+über die Zerstörung der Tochter meines Volkes.
+<sup>5</sup>Denn es ist ein Tag der Verwirrung, der Zertretung und der Bestürzung
+vom Herrn, dem HERRN der Heere,
+im Tal der Schau,
+ein Niederreißen der Mauern
+und ein Schreien zu den Bergen.“
+<sup>6</sup>Elam trug den Köcher,
+mit Wagen voller Männer und Reiter,
+und Kir enthüllte den Schild.
+<sup>7</sup>Deine schönsten Täler waren voller Wagen,
+und die Reiter stellten sich am Tor auf.
+<sup>8</sup>Er nahm die Decke von Juda weg.
+Und an jenem Tag schautest du auf die Waffen im Waldhaus.
+<sup>9</sup>Ihr saht, dass die Risse in der Stadt Davids zahlreich waren,
+und ihr sammeltet das Wasser des unteren Teiches.
+<sup>10</sup>Ihr zähltet die Häuser Jerusalems,
+und ihr risst die Häuser ab, um die Mauer zu befestigen.
+<sup>11</sup>Ihr machtet auch ein Becken zwischen den beiden Mauern
+für das Wasser des alten Teiches.
+Aber ihr habt nicht auf den geschaut, der dies getan hat,
+und ihr habt den nicht beachtet, der es vor langer Zeit geplant hat.
+<sup>12</sup>An jenem Tag rief der Herr, der HERR der Heere,
+zum Weinen, zum Klagen, zum Scheren des Kopfes
+und zum Anziehen von Sackkleidern.
+<sup>13</sup>Aber siehe, da ist Freude und Fröhlichkeit,
+man schlachtet Rinder und schlachtet Schafe,
+isst Fleisch und trinkt Wein:
+„Lasst uns essen und trinken, denn morgen sterben wir!“
+<sup>14</sup>Der HERR der Heere hat sich mir in meinen Ohren offenbart:
+„Gewiss, diese Schuld wird euch nicht vergeben werden, bis ihr sterbt“,
+spricht der Herr, der HERR der Heere.
+
+> **Was bedeutet das?**
+> „Das Tal der Schau“ ist Jerusalem, die Stadt, in der Gott durch Propheten Visionen schenkte.
+> Vers 1–3: Die Stadt feiert auf den Dächern. Vielleicht weil der Feind abgezogen ist. Aber Jesaja sieht: Die Anführer sind feige geflohen und gefangen genommen worden. Es gibt keinen Grund zum Feiern.
+> Vers 4: Jesaja weint bitterlich über sein Volk.
+> Vers 8–11: Das Volk bereitet sich klug auf den Krieg vor: Waffen aus dem Zeughaus („Waldhaus“), Mauern reparieren, Wasser sichern. Hiskia ließ damals einen Wassertunnel bauen, der heute noch in Jerusalem zu sehen ist (2. Könige 20,20). Aber das Volk hat Gott vergessen, der alles in der Hand hat.
+> Vers 13: „Lasst uns essen und trinken, denn morgen sind wir tot!“ Statt umzukehren, feiern sie sinnlos. Paulus zitiert diesen Satz (1. Korinther 15,32).
+> Vers 14: Ein sehr harter Satz. Er zeigt, wie ernst Gott diese Gleichgültigkeit nimmt.
+
+---
+
+### Schebna und Eljakim (Vers 15–25)
+
+<sup>15</sup>So spricht der Herr, der HERR der Heere:
+„Geh, begib dich zu diesem Verwalter,
+zu Schebna, der über den Palast gesetzt ist, und sag:
+<sup>16</sup>‚Was hast du hier zu suchen?
+Wen hast du hier, dass du dir hier ein Grab ausgehauen hast?‘
+Er haut sich ein Grab in der Höhe aus
+und meißelt sich eine Wohnung in den Felsen!
+<sup>17</sup>Siehe, der HERR wird dich überwältigen
+und dich mit Gewalt wegschleudern.
+Ja, er wird dich fest packen.
+<sup>18</sup>Er wird dich gewiss zusammenwickeln
+und dich wie einen Ball in ein weites Land werfen.
+Dort wirst du sterben,
+und dort werden die Wagen deiner Pracht sein,
+du Schande für das Haus deines Herrn.
+<sup>19</sup>Ich werde dich aus deinem Amt stoßen.
+Du wirst von deinem Posten heruntergerissen werden.
+<sup>20</sup>An jenem Tag wird es geschehen,
+dass ich meinen Knecht Eljakim rufe, den Sohn Hilkijas.
+<sup>21</sup>Ich werde ihn mit deinem Gewand bekleiden
+und mit deinem Gürtel stärken.
+Ich werde deine Herrschaft in seine Hand geben,
+und er wird ein Vater sein für die Bewohner Jerusalems
+und für das Haus Juda.
+<sup>22</sup>Ich werde den Schlüssel des Hauses David auf seine Schulter legen.
+Er wird öffnen, und niemand wird schließen.
+Er wird schließen, und niemand wird öffnen.
+<sup>23</sup>Ich werde ihn befestigen wie einen Nagel an einem festen Ort.
+Er wird ein Thron der Ehre für das Haus seines Vaters sein.
+<sup>24</sup>Man wird an ihn alle Herrlichkeit des Hauses seines Vaters hängen,
+die Sprösslinge und die Nachkommen,
+alle kleinen Gefäße,
+von den Schalen bis zu allen Krügen.
+<sup>25</sup>An jenem Tag“, spricht der HERR der Heere,
+„wird der Nagel, der an einem festen Ort befestigt war, nachgeben.
+Er wird abgehauen werden und fallen.
+Die Last, die an ihm hing, wird abgeschnitten werden,
+denn der HERR hat es gesagt.“
+
+> **Was bedeutet das?**
+> Schebna war ein hoher Beamter am Königshof. Während das Land in Gefahr ist, lässt er sich ein prächtiges Grab in den Felsen hauen, um nach seinem Tod geehrt zu werden. Er denkt nur an sich selbst.
+> Vers 17–19: Gott wird ihn absetzen und wie einen Ball weit wegwerfen.
+> Vers 20–22: An seine Stelle kommt Eljakim. Er soll „wie ein Vater“ für das Volk sein. Er bekommt den Schlüssel zum Palast.
+> Vers 22: „Er wird öffnen, und niemand wird schließen“: In der Offenbarung wird dieser Satz auf Jesus bezogen (Offenbarung 3,7).
+> Vers 23–25: Eljakim ist wie ein fester Nagel in der Wand. Aber wenn die ganze Familie sich an ihn hängt und von ihm profitieren will, wird auch dieser Nagel herausbrechen. Eine Warnung vor Vetternwirtschaft.
+
+## Jesaja – Kapitel 23
+#### Das Wort über Tyrus
+
+---
+
+### Heult, ihr Schiffe! (Vers 1–14)
+
+<sup>1</sup>Die Last über Tyrus.
+Heult, ihr Schiffe von Tarschisch!
+Denn sie ist verwüstet, sodass kein Haus mehr da ist und kein Hafen zum Einlaufen.
+Aus dem Land Kittim ist es ihnen offenbart worden.
+<sup>2</sup>Seid still, ihr Bewohner der Küste,
+die die Kaufleute von Sidon, die über das Meer fahren, reich gemacht haben.
+<sup>3</sup>Auf großen Wassern war die Saat des Schihor,
+die Ernte des Nils, ihr Einkommen.
+Sie war der Marktplatz der Völker.
+<sup>4</sup>Schäme dich, Sidon,
+denn das Meer hat gesprochen, die Festung des Meeres, und gesagt:
+„Ich habe keine Wehen gehabt und nicht geboren,
+ich habe keine jungen Männer großgezogen
+und keine jungen Frauen aufgezogen.“
+<sup>5</sup>Wenn die Nachricht nach Ägypten kommt,
+werden sie Schmerzen haben über die Nachricht von Tyrus.
+<sup>6</sup>Fahrt hinüber nach Tarschisch!
+Heult, ihr Bewohner der Küste!
+<sup>7</sup>Ist das eure fröhliche Stadt,
+deren Ursprung in uralten Tagen liegt,
+deren Füße sie weit weg getragen haben, um sich niederzulassen?
+<sup>8</sup>Wer hat das gegen Tyrus beschlossen,
+die Kronen verteilt hat,
+deren Kaufleute Fürsten waren,
+deren Händler die Angesehenen der Erde waren?
+<sup>9</sup>Der HERR der Heere hat es beschlossen,
+um den Stolz aller Pracht zu entweihen
+und alle Angesehenen der Erde verächtlich zu machen.
+<sup>10</sup>Zieh durch dein Land wie der Nil, Tochter Tarschisch.
+Es gibt keine Schranke mehr.
+<sup>11</sup>Er hat seine Hand über das Meer ausgestreckt.
+Er hat die Königreiche erschüttert.
+Der HERR hat die Zerstörung der Festungen Kanaans befohlen.
+<sup>12</sup>Er sagte: „Du sollst nicht mehr jubeln,
+du unterdrückte, jungfräuliche Tochter Sidon.
+Steh auf, zieh hinüber nach Kittim.
+Auch dort wirst du keine Ruhe haben.“
+<sup>13</sup>Siehe, das Land der Chaldäer.
+Dieses Volk gab es nicht.
+Die Assyrer haben es für die Bewohner der Wüste gegründet.
+Sie haben ihre Belagerungstürme aufgestellt.
+Sie haben ihre Paläste zerstört.
+Sie haben es zu einer Ruine gemacht.
+<sup>14</sup>Heult, ihr Schiffe von Tarschisch,
+denn eure Festung ist verwüstet!
+
+> **Was bedeutet das?**
+> Tyrus und Sidon waren reiche Hafenstädte der Phönizier, im heutigen Libanon. Ihre Schiffe fuhren über das ganze Mittelmeer bis nach Tarschisch, vielleicht im heutigen Spanien. Kittim ist Zypern.
+> Tyrus war ein großes Handelszentrum, „der Marktplatz der Völker“. Sie handelten sogar mit Getreide aus Ägypten (Vers 3).
+> Vers 4: Das Meer klagt wie eine Mutter, die keine Kinder mehr hat. Die Stadt ist leer.
+> Vers 8–9: Wer hat diese reiche Stadt gestürzt? Gott, um den Stolz auf Reichtum und Macht zu brechen.
+> Vers 13: Dieser Vers ist schwer zu verstehen. Vielleicht soll er sagen: Seht, wie es Babylon (dem Land der Chaldäer) ergangen ist. So wird es auch euch ergehen.
+
+---
+
+### Nach siebzig Jahren (Vers 15–18)
+
+<sup>15</sup>An jenem Tag wird es geschehen,
+dass Tyrus siebzig Jahre lang vergessen sein wird,
+so lange wie die Tage eines Königs.
+Nach dem Ende der siebzig Jahre wird es Tyrus ergehen
+wie im Lied von der Prostituierten:
+<sup>16</sup>„Nimm eine Harfe, geh in der Stadt umher,
+du vergessene Prostituierte!
+Spiel schön, sing viele Lieder,
+damit man sich an dich erinnert.“
+<sup>17</sup>Nach dem Ende von siebzig Jahren wird es geschehen,
+dass der HERR Tyrus heimsucht.
+Sie wird zu ihrem Lohn zurückkehren
+und mit allen Königreichen der Welt auf der Erde Unzucht treiben.
+<sup>18</sup>Aber ihr Handelsgewinn und ihr Lohn werden dem HERRN heilig sein.
+Sie werden nicht aufgehäuft und nicht gehortet werden,
+denn ihr Handelsgewinn wird denen gehören, die vor dem HERRN wohnen,
+damit sie sich satt essen und dauerhafte Kleidung haben.
+
+> **Was bedeutet das?**
+> Nach siebzig Jahren, einem Menschenleben, wird Tyrus wieder aufblühen.
+> Vers 15–17: Der Handel von Tyrus wird mit einer Prostituierten verglichen, die sich jedem anbietet. Gemeint ist: Tyrus macht mit allen Geschäfte, nur um reich zu werden, ohne nach Gerechtigkeit zu fragen. Das ist ein Bild aus der damaligen Sprache, das harten Handel ohne Moral kritisiert.
+> Vers 18: Eine überraschende Wende: Am Ende wird der Reichtum von Tyrus nicht mehr gehortet, sondern Gott geweiht. Er wird dafür verwendet, dass Menschen satt werden und Kleidung haben. Ein schönes Bild dafür, wie Reichtum richtig eingesetzt werden kann.
+> Damit enden die Worte über die einzelnen Völker (Kapitel 13–23).
