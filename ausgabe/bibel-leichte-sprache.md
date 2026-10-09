@@ -88917,3 +88917,355 @@ Niemand wird dich retten.“
 > Vers 12–13: Babylon war berühmt für Sterndeutung und Beschwörungen. Jesaja spottet: Sollen doch die Astrologen dich jetzt retten!
 > Vers 14: Ihre Weisheit verbrennt wie Stroh. Es bleibt nicht einmal ein gemütliches Feuer zum Wärmen.
 > Für uns heute: Kein Mensch, keine Firma und kein Staat soll denken: „Ich bin der Größte, und niemand sieht, was ich tue.“ Macht ohne Verantwortung führt ins Verderben. Im Buch der Offenbarung (Kapitel 18) wird „Babylon“ zum Bild für jede gottlose, überhebliche Macht.
+
+## Jesaja – Kapitel 48
+#### Zieht aus Babel!
+
+---
+
+### Du bist ein harter Nacken (Vers 1–11)
+
+<sup>1</sup>„Hört dies, Haus Jakob,
+die ihr mit dem Namen Israel genannt werdet
+und aus den Wassern Judas hervorgegangen seid.
+Ihr schwört beim Namen des HERRN
+und erwähnt den Gott Israels,
+aber nicht in Wahrheit und nicht in Gerechtigkeit.
+<sup>2</sup>Denn sie nennen sich Bürger der heiligen Stadt
+und stützen sich auf den Gott Israels.
+HERR der Heere ist sein Name.
+<sup>3</sup>Das Frühere habe ich seit langem verkündet.
+Ja, es ist aus meinem Mund hervorgegangen, und ich habe es hören lassen.
+Plötzlich habe ich es getan, und es ist geschehen.
+<sup>4</sup>Weil ich wusste, dass du hartnäckig bist
+und dein Nacken eine eiserne Sehne ist
+und deine Stirn aus Bronze,
+<sup>5</sup>darum habe ich es dir seit langem verkündet.
+Bevor es geschah, habe ich es dir hören lassen,
+damit du nicht sagst: ‚Mein Götze hat es getan.
+Mein geschnitztes Bild und mein gegossenes Bild haben es befohlen.‘
+<sup>6</sup>Du hast es gehört. Jetzt sieh dir all das an.
+Und ihr, wollt ihr es nicht verkünden?
+Ich lasse dich von jetzt an Neues hören,
+verborgene Dinge, die du nicht gekannt hast.
+<sup>7</sup>Jetzt sind sie geschaffen und nicht schon längst.
+Vor dem heutigen Tag hast du sie nicht gehört,
+damit du nicht sagst: ‚Siehe, ich wusste es schon.‘
+<sup>8</sup>Ja, du hast es nicht gehört.
+Ja, du hast es nicht gewusst.
+Ja, von alters her war dein Ohr nicht geöffnet,
+denn ich wusste, dass du sehr treulos handelst
+und von Mutterleib an ein Abtrünniger genannt wurdest.
+<sup>9</sup>Um meines Namens willen halte ich meinen Zorn zurück,
+und um meines Ruhmes willen bezähme ich ihn dir zuliebe,
+damit ich dich nicht ausrotte.
+<sup>10</sup>Siehe, ich habe dich geläutert, aber nicht wie Silber.
+Ich habe dich im Schmelzofen des Elends erwählt.
+<sup>11</sup>Um meinetwillen, um meinetwillen werde ich es tun.
+Denn wie sollte mein Name entweiht werden?
+Ich werde meine Ehre keinem anderen geben.
+
+> **Was bedeutet das?**
+> Vers 1–2: Gott spricht ehrlich mit seinem Volk: Ihr nennt euch fromm und sprecht von Gott, aber euer Leben passt nicht dazu.
+> Vers 4–5: Israel ist stur, „ein eiserner Nacken, eine Stirn aus Bronze“. Darum hat Gott die Ereignisse lange vorher angekündigt. So konnte niemand sagen: „Das hat mein Götze gemacht.“
+> Vers 6–7: Jetzt aber tut Gott etwas ganz Neues, die Befreiung aus Babylon. Das konnte niemand vorher wissen.
+> Vers 10: Das Exil war wie ein Schmelzofen. Dort wird Metall von Schlacke gereinigt. Das Leid war schwer, aber Gott hat sein Volk darin nicht verlassen: „Im Schmelzofen des Elends habe ich dich erwählt.“
+> Vers 9 und 11: Gott rettet sein Volk nicht, weil es so gut ist, sondern „um meinetwillen“, weil er treu zu sich selbst und zu seinem Wort steht.
+
+---
+
+### Ich bin der Erste und der Letzte (Vers 12–16)
+
+<sup>12</sup>Hör auf mich, Jakob,
+und Israel, mein Berufener:
+Ich bin es. Ich bin der Erste.
+Ich bin auch der Letzte.
+<sup>13</sup>Ja, meine Hand hat die Erde gegründet,
+und meine Rechte hat den Himmel ausgespannt.
+Wenn ich ihnen rufe, stehen sie alle zusammen da.
+<sup>14</sup>Versammelt euch alle und hört!
+Wer unter ihnen hat diese Dinge verkündet?
+Der, den der HERR liebt, wird mit Babel tun, was ihm gefällt,
+und sein Arm wird gegen die Chaldäer sein.
+<sup>15</sup>Ich, ich habe geredet.
+Ja, ich habe ihn gerufen.
+Ich habe ihn kommen lassen, und er wird seinen Weg gelingen lassen.
+<sup>16</sup>Kommt her zu mir und hört dies:
+Von Anfang an habe ich nicht im Verborgenen geredet.
+Von der Zeit an, als es geschah, war ich da.“
+Und jetzt hat der Herr, der HERR, mich gesandt mit seinem Geist.
+
+> **Was bedeutet das?**
+> Vers 14–15: „Der, den der HERR liebt“, ist wieder Kyrus. Gott hat ihn gerufen, damit er Babel erobert.
+> Vers 16: Am Ende spricht plötzlich ein „Ich“, das nicht Gott selbst ist: „Der Herr, der HERR, hat mich gesandt mit seinem Geist.“ Wahrscheinlich ist das der Prophet selbst, der hier über seinen Auftrag spricht. Christliche Ausleger haben in diesem Vers auch einen Hinweis auf den Vater, den Sohn und den Geist gesehen.
+
+---
+
+### Wenn du doch auf mich gehört hättest! (Vers 17–22)
+
+<sup>17</sup>So spricht der HERR, dein Erlöser, der Heilige Israels:
+„Ich bin der HERR, dein Gott,
+der dich lehrt, was dir nützt,
+der dich auf dem Weg führt, den du gehen sollst.
+<sup>18</sup>Ach, hättest du doch auf meine Gebote geachtet!
+Dann wäre dein Frieden wie ein Strom
+und deine Gerechtigkeit wie die Wellen des Meeres.
+<sup>19</sup>Auch deine Nachkommen wären wie der Sand
+und die Kinder deines Leibes wie seine Körner.
+Sein Name würde nicht ausgerottet und nicht vertilgt vor mir.“
+<sup>20</sup>Zieht aus Babel!
+Flieht vor den Chaldäern!
+Verkündet es mit Jubelschall,
+lasst es hören bis ans Ende der Erde!
+Sagt: „Der HERR hat seinen Knecht Jakob erlöst!“
+<sup>21</sup>Sie litten keinen Durst, als er sie durch die Wüsten führte.
+Er ließ Wasser für sie aus dem Felsen fließen.
+Er spaltete den Felsen, und das Wasser strömte heraus.
+<sup>22</sup>„Es gibt keinen Frieden“, spricht der HERR, „für die Gottlosen.“
+
+> **Was bedeutet das?**
+> Vers 18: Ein trauriger und zugleich zärtlicher Satz Gottes: „Ach, hättest du doch auf mich gehört! Dann wäre dein Frieden wie ein Strom.“ Gott will Gutes für sein Volk. Seine Gebote sollen zum Leben helfen.
+> Vers 20–21: Der Ruf zum Aufbruch: „Zieht aus Babel!“ Wie damals beim Auszug aus Ägypten wird Gott sein Volk durch die Wüste führen und ihm Wasser aus dem Felsen geben.
+> Vers 22: Dieser Satz schließt den ersten Teil des Trostbuchs ab (er kehrt in Kapitel 57,21 wieder). Wer sich gegen Gott stellt, findet keinen inneren Frieden.
+
+## Jesaja – Kapitel 49
+#### Ich vergesse dich nicht
+
+---
+
+### Das zweite Lied vom Knecht Gottes (Vers 1–7)
+
+<sup>1</sup>Hört mir zu, ihr Inseln!
+Hört, ihr Völker in der Ferne!
+Der HERR hat mich vom Mutterleib an gerufen.
+Vom Schoß meiner Mutter an hat er meinen Namen genannt.
+<sup>2</sup>Er hat meinen Mund wie ein scharfes Schwert gemacht.
+Er hat mich im Schatten seiner Hand versteckt.
+Er hat mich zu einem geschliffenen Pfeil gemacht.
+Er hat mich in seinem Köcher dicht bei sich verborgen.
+<sup>3</sup>Er sagte zu mir: „Du bist mein Knecht,
+Israel, an dem ich mich verherrlichen werde.“
+<sup>4</sup>Ich aber sagte: „Vergeblich habe ich mich abgemüht.
+Umsonst und für nichts habe ich meine Kraft verbraucht.
+Doch gewiss ist mein Recht beim HERRN
+und mein Lohn bei meinem Gott.“
+<sup>5</sup>Jetzt aber spricht der HERR,
+der mich vom Mutterleib an zu seinem Knecht geformt hat,
+um Jakob zu ihm zurückzubringen
+und Israel zu ihm zu sammeln,
+denn ich bin geehrt in den Augen des HERRN,
+und mein Gott ist meine Stärke geworden.
+<sup>6</sup>Ja, er sagt:
+„Es ist zu wenig, dass du mein Knecht bist,
+um die Stämme Jakobs aufzurichten
+und die Bewahrten Israels zurückzubringen.
+Ich mache dich auch zum Licht für die Nationen,
+damit mein Heil bis an das Ende der Erde reicht.“
+<sup>7</sup>So spricht der HERR, der Erlöser Israels, sein Heiliger,
+zu dem, den die Menschen verachten,
+zu dem, den das Volk verabscheut,
+zu einem Knecht von Herrschern:
+„Könige werden es sehen und aufstehen,
+Fürsten, und sie werden sich niederwerfen,
+wegen des HERRN, der treu ist,
+des Heiligen Israels, der dich erwählt hat.“
+
+> **Was bedeutet das?**
+> Das ist das zweite Lied vom Knecht Gottes. Diesmal spricht der Knecht selbst.
+> Vers 1–2: Gott hat ihn schon vor der Geburt berufen. Sein Wort ist scharf wie ein Schwert, er ist wie ein Pfeil, den Gott bereithält.
+> Vers 3: Hier wird der Knecht ausdrücklich „Israel“ genannt. Darauf stützt sich die jüdische Deutung, dass der Knecht das Volk Israel ist.
+> Vers 4: Der Knecht hat das Gefühl: Alles war umsonst. Viele Menschen kennen dieses Gefühl. Aber er vertraut: Mein Recht liegt bei Gott.
+> Vers 5–6: Zugleich hat der Knecht einen Auftrag an Israel: das Volk zu Gott zurückzubringen. Darum sehen manche Ausleger im Knecht eine einzelne Person, etwa den Propheten selbst. Und der Auftrag ist noch größer: „Licht für die Nationen“, damit Gottes Heil bis ans Ende der Erde reicht. Das Neue Testament bezieht dies auf Jesus (Lukas 2,32) und auf die Mission der Apostel (Apostelgeschichte 13,47).
+> Vers 7: Der Knecht wird verachtet. Aber am Ende werden Könige vor ihm aufstehen.
+
+---
+
+### Der Tag des Heils (Vers 8–13)
+
+<sup>8</sup>So spricht der HERR:
+„Zur Zeit der Gnade habe ich dich erhört,
+und am Tag des Heils habe ich dir geholfen.
+Ich werde dich behüten
+und dich zum Bund für das Volk machen,
+um das Land aufzurichten,
+um verwüstetes Erbe wieder zu verteilen,
+<sup>9</sup>und um zu den Gefangenen zu sagen: ‚Kommt heraus!‘,
+zu denen in der Finsternis: ‚Zeigt euch!‘
+Sie werden an den Wegen weiden,
+und auf allen kahlen Höhen wird ihre Weide sein.
+<sup>10</sup>Sie werden weder hungern noch dürsten.
+Weder Hitze noch Sonne wird sie treffen,
+denn der sich ihrer erbarmt, wird sie führen.
+Er wird sie zu Wasserquellen leiten.
+<sup>11</sup>Ich werde alle meine Berge zum Weg machen,
+und meine Straßen werden gebahnt sein.
+<sup>12</sup>Siehe, diese kommen von fern,
+und siehe, diese vom Norden und vom Westen,
+und diese aus dem Land Sinim.“
+<sup>13</sup>Jubelt, ihr Himmel, und freue dich, Erde!
+Brecht in Jubel aus, ihr Berge!
+Denn der HERR hat sein Volk getröstet
+und erbarmt sich über seine Elenden.
+
+> **Was bedeutet das?**
+> Vers 8: „Zur Zeit der Gnade, am Tag des Heils“: Paulus zitiert diesen Vers und sagt: „Jetzt ist die Zeit der Gnade, jetzt ist der Tag des Heils“ (2. Korinther 6,2).
+> Vers 9–10: Die Heimkehrer werden wie eine Herde sein, die von einem guten Hirten geführt wird, ohne Hunger, ohne Durst, zu frischen Quellen. Die Offenbarung greift Vers 10 auf (7,16–17).
+> Vers 12: Das „Land Sinim“ ist nicht sicher bekannt. Viele denken an Syene, das heutige Assuan im Süden Ägyptens. Dort lebte später eine jüdische Gemeinde.
+
+---
+
+### Kann eine Frau ihr Kind vergessen? (Vers 14–21)
+
+<sup>14</sup>Aber Zion sagte: „Der HERR hat mich verlassen,
+und der Herr hat mich vergessen.“
+<sup>15</sup>„Kann eine Frau ihr Kind vergessen, das sie stillt,
+sodass sie sich nicht erbarmt über den Sohn ihres Leibes?
+Ja, diese mögen vergessen,
+ich aber vergesse dich nicht!
+<sup>16</sup>Siehe, ich habe dich in meine Handflächen gezeichnet.
+Deine Mauern sind ständig vor mir.
+<sup>17</sup>Deine Kinder eilen herbei.
+Die dich zerstört und verwüstet haben, ziehen von dir fort.
+<sup>18</sup>Hebe deine Augen auf und sieh dich um:
+Sie alle versammeln sich und kommen zu dir.
+So wahr ich lebe“, spricht der HERR,
+„du wirst sie alle anlegen wie einen Schmuck
+und dich mit ihnen schmücken wie eine Braut.
+<sup>19</sup>Denn deine Trümmer und deine verwüsteten Orte
+und dein zerstörtes Land,
+gewiss, jetzt wird das Land zu eng sein für die Bewohner,
+und die dich verschlungen haben, werden weit weg sein.
+<sup>20</sup>Die Kinder, die du verloren glaubtest,
+werden dir noch in die Ohren sagen:
+‚Der Platz ist mir zu eng.
+Gib mir Raum, damit ich wohnen kann.‘
+<sup>21</sup>Dann wirst du in deinem Herzen sagen:
+‚Wer hat mir diese geboren?
+Ich war doch meiner Kinder beraubt und allein,
+verbannt und umherirrend.
+Wer hat diese großgezogen?
+Siehe, ich war allein übrig geblieben.
+Wo waren diese?‘“
+
+> **Was bedeutet das?**
+> Vers 14: Zion, also Jerusalem, wird wie eine Frau dargestellt, die klagt: „Gott hat mich verlassen und vergessen.“
+> Vers 15: Gottes Antwort ist einer der zärtlichsten Verse der Bibel: Kann eine Mutter ihr Baby vergessen? Selbst wenn das passieren sollte: „Ich aber vergesse dich nicht!“ Gottes Liebe ist wie die Liebe einer Mutter, und noch treuer.
+> Vers 16: „Ich habe dich in meine Handflächen gezeichnet.“ Wie wenn man sich etwas Wichtiges auf die Hand schreibt, damit man es nie vergisst. Gott hat sein Volk immer vor Augen.
+> Vers 18–21: Die einsame, kinderlose Stadt wird plötzlich voller Kinder sein, so viele, dass der Platz nicht reicht. Zion staunt: Wo kommen die alle her?
+> Wer sich gerade von allen verlassen fühlt: Dieser Vers sagt, dass Gott dich nicht vergisst. Und du darfst mit jemandem darüber reden, zum Beispiel mit der Telefonseelsorge: 0800 111 0 111.
+
+---
+
+### Ich rette deine Kinder (Vers 22–26)
+
+<sup>22</sup>So spricht der Herr, der HERR:
+„Siehe, ich werde meine Hand zu den Nationen erheben
+und mein Banner zu den Völkern aufrichten.
+Sie werden deine Söhne im Arm bringen,
+und deine Töchter werden auf den Schultern getragen werden.
+<sup>23</sup>Könige werden deine Pflegeväter sein
+und ihre Königinnen deine Ammen.
+Sie werden sich vor dir niederbeugen, das Gesicht zur Erde,
+und den Staub deiner Füße lecken.
+Dann wirst du erkennen, dass ich der HERR bin
+und dass die, die auf mich warten, nicht enttäuscht werden.“
+<sup>24</sup>Kann man dem Starken die Beute wegnehmen,
+oder können rechtmäßige Gefangene befreit werden?
+<sup>25</sup>Aber so spricht der HERR:
+„Auch die Gefangenen des Starken werden weggenommen,
+und die Beute des Gewalttätigen wird gerettet.
+Denn ich werde mit dem streiten, der mit dir streitet,
+und ich werde deine Kinder retten.
+<sup>26</sup>Ich werde deine Unterdrücker mit ihrem eigenen Fleisch speisen,
+und sie werden von ihrem eigenen Blut trunken werden wie von süßem Wein.
+Dann wird alles Fleisch erkennen,
+dass ich, der HERR, dein Retter bin
+und dein Erlöser, der Starke Jakobs.“
+
+> **Was bedeutet das?**
+> Vers 22–23: Die Völker selbst werden die Kinder Israels nach Hause tragen. Könige und Königinnen werden für sie sorgen wie Pflegeeltern. Das „Staub lecken“ ist ein altes Bild für völlige Unterwerfung. Gemeint ist: Die Verhältnisse kehren sich um, das verachtete Volk wird geehrt.
+> Vers 24–25: Kann man einem Starken seine Gefangenen wieder abnehmen? Ja, Gott kann es. Er kämpft für sein Volk und rettet die Kinder.
+> Vers 26: Ein hartes Bild: Die Unterdrücker zerstören sich am Ende selbst, sie bekämpfen sich gegenseitig. Das ist keine Aufforderung zu Gewalt. Es beschreibt, dass Gewalt sich gegen die richtet, die sie ausüben. Gott ist es, der Gerechtigkeit schafft.
+
+## Jesaja – Kapitel 50
+#### Das dritte Lied vom Knecht Gottes
+
+---
+
+### Ist meine Hand zu kurz? (Vers 1–3)
+
+<sup>1</sup>So spricht der HERR:
+„Wo ist der Scheidebrief eurer Mutter,
+mit dem ich sie weggeschickt habe?
+Oder an welchen meiner Gläubiger habe ich euch verkauft?
+Siehe, wegen eurer Missetaten wurdet ihr verkauft,
+und wegen eurer Übertretungen wurde eure Mutter weggeschickt.
+<sup>2</sup>Warum war niemand da, als ich kam?
+Warum antwortete niemand, als ich rief?
+Ist meine Hand etwa zu kurz, um zu erlösen?
+Oder habe ich keine Kraft, um zu retten?
+Siehe, mit meinem Schelten trockne ich das Meer aus.
+Ich mache die Flüsse zur Wüste.
+Ihre Fische stinken, weil kein Wasser da ist,
+und sterben vor Durst.
+<sup>3</sup>Ich kleide den Himmel in Schwärze.
+Ich mache Sacktuch zu seiner Decke.“
+
+> **Was bedeutet das?**
+> Vers 1: Die Menschen im Exil fragen: Hat Gott uns endgültig verstoßen, wie ein Mann seine Frau mit einem Scheidebrief? Hat er uns verkauft, wie man Kinder wegen Schulden verkaufte? Gott fragt zurück: Wo ist denn der Scheidebrief? Es gibt keinen! Die Trennung kam durch eure Schuld, aber sie ist nicht endgültig. Die Beziehung besteht weiter.
+> Vers 2–3: Gottes Hand ist nicht zu kurz. Er kann retten. Er hat Macht über Meer und Himmel. Das Problem war, dass niemand auf ihn gehört hat.
+
+---
+
+### Ich halte meinen Rücken hin (Vers 4–9)
+
+<sup>4</sup>Der Herr, der HERR, hat mir die Zunge von Jüngern gegeben,
+damit ich weiß, wie ich den Müden mit einem Wort aufrichte.
+Er weckt Morgen für Morgen,
+er weckt mein Ohr, damit ich höre wie Jünger.
+<sup>5</sup>Der Herr, der HERR, hat mir das Ohr geöffnet.
+Ich war nicht widerspenstig.
+Ich bin nicht zurückgewichen.
+<sup>6</sup>Ich habe meinen Rücken denen hingehalten, die mich schlugen,
+und meine Wangen denen, die mir die Haare ausrissen.
+Ich habe mein Gesicht nicht vor Schmach und Speichel verborgen.
+<sup>7</sup>Denn der Herr, der HERR, wird mir helfen.
+Darum bin ich nicht zuschanden geworden.
+Darum habe ich mein Gesicht hart gemacht wie einen Kieselstein,
+und ich weiß, dass ich nicht enttäuscht werde.
+<sup>8</sup>Der mir recht gibt, ist nahe.
+Wer will mich anklagen?
+Lasst uns zusammen hintreten!
+Wer ist mein Gegner?
+Er soll zu mir herkommen.
+<sup>9</sup>Siehe, der Herr, der HERR, wird mir helfen!
+Wer ist es, der mich verurteilen will?
+Siehe, sie alle werden zerfallen wie ein Kleid.
+Die Motten werden sie fressen.
+
+> **Was bedeutet das?**
+> Das ist das dritte Lied vom Knecht Gottes. Wieder spricht der Knecht selbst.
+> Vers 4: Jeden Morgen hört er auf Gott wie ein Schüler (ein „Jünger“) auf seinen Lehrer. Und er bekommt die Gabe, müde Menschen mit Worten aufzurichten. Ein schöner Auftrag für jeden Menschen.
+> Vers 6: Der Knecht wird geschlagen, verspottet und angespuckt. Er weicht nicht aus. Die Evangelien erzählen, dass Jesus so behandelt wurde (Matthäus 26,67; 27,30). Deshalb sehen Christen hier einen Hinweis auf Jesus. In der jüdischen Deutung steht der Knecht für Israel oder den Propheten, die für ihren Glauben viel Leid ertragen haben.
+> Vers 7–9: Der Knecht hält durch, weil er weiß: Gott steht zu mir. Paulus nimmt diesen Gedanken auf: „Wer will anklagen? Gott ist hier, der gerecht macht“ (Römer 8,33–34).
+> Wichtig: Dieser Text beschreibt einen Menschen, der für seinen Auftrag Leid trägt. Er bedeutet nicht, dass man Gewalt, zum Beispiel in der Familie oder Partnerschaft, einfach hinnehmen soll. Wer geschlagen wird, darf und soll sich Hilfe holen: Notruf 110, Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00.
+
+---
+
+### Wer im Dunkeln geht (Vers 10–11)
+
+<sup>10</sup>Wer unter euch fürchtet den HERRN
+und hört auf die Stimme seines Knechtes?
+Wer in der Finsternis geht und kein Licht hat,
+der vertraue auf den Namen des HERRN
+und stütze sich auf seinen Gott.
+<sup>11</sup>Siehe, ihr alle, die ihr ein Feuer anzündet,
+die ihr euch mit Fackeln umgebt,
+geht in die Flamme eures Feuers
+und zwischen die Fackeln, die ihr angezündet habt.
+Das bekommt ihr aus meiner Hand:
+In Schmerzen werdet ihr liegen.
+
+> **Was bedeutet das?**
+> Vers 10: Ein tröstlicher Vers für alle, die gerade im Dunkeln gehen und keinen Weg sehen: Vertraue auf Gott und halte dich an ihm fest. Auch ohne Licht bist du nicht allein.
+> Vers 11: Die anderen versuchen, sich selbst Licht zu machen, mit eigenen Fackeln, ohne Gott. Aber ihr eigenes Feuer verbrennt sie am Ende.
