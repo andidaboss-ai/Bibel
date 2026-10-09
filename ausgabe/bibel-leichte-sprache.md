@@ -59665,3 +59665,396 @@ Denn wegen dieser Sache kann niemand vor dir bestehen.“
 > Vers 11–12 ist kein wörtliches Zitat, sondern eine Zusammenfassung mehrerer Stellen aus dem Gesetz (zum Beispiel 5. Mose 7,1–3; 23,7).
 > Esra bittet in diesem Gebet nicht einmal um Vergebung. Er bekennt nur die Schuld und sagt: „Du bist gerecht.“ Er überlässt alles Gott.
 > Wie es weitergeht und wie man diese Geschichte heute verstehen kann, erklärt Kapitel 10.
+
+## Esra – Kapitel 10
+#### Die Entscheidung über die Mischehen
+
+---
+
+### Schechanja macht einen Vorschlag (Vers 1–5)
+
+<sup>1</sup>Während Esra betete und bekannte,
+weinend und vor dem Haus Gottes niedergeworfen,
+versammelte sich bei ihm aus Israel eine sehr große Menge
+von Männern, Frauen und Kindern.
+Denn das Volk weinte sehr bitter.
+<sup>2</sup>Schechanja, der Sohn Jehiëls, von den Söhnen Elams, antwortete Esra:
+„Wir sind unserem Gott untreu gewesen
+und haben fremde Frauen aus den Völkern des Landes geheiratet.
+Doch es gibt jetzt noch Hoffnung für Israel in dieser Sache.
+<sup>3</sup>Darum lasst uns jetzt einen Bund mit unserem Gott schließen,
+alle Frauen und die von ihnen geboren sind, wegzuschicken,
+nach dem Rat meines Herrn und derer, die vor dem Gebot unseres Gottes zittern.
+Es soll nach dem Gesetz geschehen.
+<sup>4</sup>Steh auf! Denn die Sache liegt bei dir,
+und wir sind mit dir.
+Sei mutig und handle!“
+<sup>5</sup>Da stand Esra auf
+und ließ die Obersten der Priester, die Leviten und ganz Israel schwören,
+dass sie nach diesem Wort handeln würden.
+Und sie schworen.
+
+> **Was bedeutet das?**
+> Esras Gebet und seine Trauer bewegen viele Menschen. Sie kommen und weinen mit ihm.
+> Der Vorschlag kommt nicht von Esra, sondern von Schechanja aus dem Volk. Er sagt: „Es gibt noch Hoffnung.“
+> Interessant: Mehrere Männer aus der Familie Elam stehen später selbst in der Liste derer, die fremde Frauen geheiratet hatten (Vers 26). Vielleicht war sogar Schechanjas eigener Vater Jehiël darunter.
+
+---
+
+### Die Versammlung in Jerusalem (Vers 6–15)
+
+<sup>6</sup>Dann stand Esra vor dem Haus Gottes auf
+und ging in die Kammer Johanans, des Sohnes Eljaschibs.
+Als er dorthin kam, aß er kein Brot und trank kein Wasser,
+denn er trauerte über die Untreue der Heimkehrer.
+<sup>7</sup>Man ließ in Juda und Jerusalem allen Heimkehrern aus der Gefangenschaft ausrufen,
+dass sie sich in Jerusalem versammeln sollten.
+<sup>8</sup>Und wer nicht innerhalb von drei Tagen kam,
+nach dem Rat der Fürsten und der Ältesten,
+dessen ganzer Besitz sollte eingezogen werden,
+und er selbst sollte aus der Gemeinde der Heimkehrer ausgeschlossen werden.
+<sup>9</sup>Da versammelten sich alle Männer von Juda und Benjamin innerhalb der drei Tage in Jerusalem.
+Es war der neunte Monat, am 20. Tag des Monats.
+Das ganze Volk saß auf dem freien Platz vor dem Haus Gottes
+und zitterte wegen dieser Sache und wegen des starken Regens.
+<sup>10</sup>Der Priester Esra stand auf und sagte zu ihnen:
+„Ihr seid untreu gewesen
+und habt fremde Frauen geheiratet
+und so die Schuld Israels vergrößert.
+<sup>11</sup>Darum legt jetzt ein Bekenntnis ab vor dem HERRN, dem Gott eurer Väter,
+und tut seinen Willen!
+Trennt euch von den Völkern des Landes und von den fremden Frauen!“
+<sup>12</sup>Da antwortete die ganze Versammlung mit lauter Stimme:
+„Wir müssen tun, was du uns gesagt hast.
+<sup>13</sup>Aber das Volk ist zahlreich,
+und es ist die Regenzeit,
+und wir können nicht draußen stehen.
+Das ist auch keine Arbeit für einen oder zwei Tage,
+denn wir haben in dieser Sache schwer gesündigt.
+<sup>14</sup>Lasst doch unsere Fürsten für die ganze Versammlung eintreten.
+Und alle in unseren Städten, die fremde Frauen geheiratet haben,
+sollen zu festgesetzten Zeiten kommen,
+und mit ihnen die Ältesten und die Richter jeder Stadt,
+bis der glühende Zorn unseres Gottes sich von uns abwendet,
+bis diese Sache geklärt ist.“
+<sup>15</sup>Nur Jonatan, der Sohn Asaëls, und Jachseja, der Sohn Tikwas, stellten sich dagegen.
+Und Meschullam und der Levit Schabbetai unterstützten sie.
+
+> **Was bedeutet das?**
+> Der neunte Monat ist Dezember. Es ist kalt, und es regnet in Strömen. Das Volk zittert vor Kälte und vor dem Ernst der Lage.
+> Das Volk macht einen vernünftigen Vorschlag: Jeder Fall soll einzeln geprüft werden, in Ruhe, mit den Ältesten und Richtern. Keine schnelle Massenentscheidung.
+> Vier Männer sind dagegen. Ob sie gegen die Trennung überhaupt waren oder nur gegen das Verfahren, sagt der Text nicht. Aber die Bibel nennt sie mit Namen. Es gab also Widerspruch.
+
+---
+
+### Die Fälle werden geprüft (Vers 16–17)
+
+<sup>16</sup>Die Heimkehrer machten es so.
+Der Priester Esra und einige Familienoberhäupter, nach ihren Familien,
+alle mit Namen genannt,
+wurden ausgesondert.
+Und sie setzten sich am ersten Tag des zehnten Monats zusammen,
+um die Sache zu untersuchen.
+<sup>17</sup>Und sie wurden mit allen Männern, die fremde Frauen geheiratet hatten,
+bis zum ersten Tag des ersten Monats fertig.
+
+> **Was bedeutet das?**
+> Die Prüfung dauerte drei Monate. Jeder Fall wurde einzeln angesehen. Vielleicht wurden dabei Unterschiede gemacht, zum Beispiel ob eine Frau sich dem Gott Israels zugewandt hatte. Der Text sagt das aber nicht ausdrücklich.
+
+---
+
+### Die Liste (Vers 18–44)
+
+<sup>18</sup>Unter den Söhnen der Priester fand man solche, die fremde Frauen geheiratet hatten:
+von den Söhnen Jeschuas, des Sohnes Jozadaks, und seinen Brüdern:
+Maaseja, Eliëser, Jarib und Gedalja.
+<sup>19</sup>Sie gaben ihre Hand darauf, dass sie ihre Frauen wegschicken würden.
+Und weil sie schuldig waren, brachten sie einen Widder aus der Herde als Schuldopfer dar.
+<sup>20</sup>Von den Söhnen Immers: Hanani und Sebadja.
+<sup>21</sup>Von den Söhnen Harims: Maaseja, Elija, Schemaja, Jehiël und Usija.
+<sup>22</sup>Von den Söhnen Paschhurs: Eljoënai, Maaseja, Jischmael, Netanel, Josabad und Elasa.
+<sup>23</sup>Von den Leviten: Josabad, Schimi, Kelaja – das ist Kelita –, Petachja, Juda und Eliëser.
+<sup>24</sup>Von den Sängern: Eljaschib.
+Von den Torhütern: Schallum, Telem und Uri.
+<sup>25</sup>Von Israel:
+von den Söhnen Parschs: Ramja, Jisija, Malkija, Mijamin, Eleasar, Malkija und Benaja.
+<sup>26</sup>Von den Söhnen Elams: Mattanja, Secharja, Jehiël, Abdi, Jeremot und Elija.
+<sup>27</sup>Von den Söhnen Sattus: Eljoënai, Eljaschib, Mattanja, Jeremot, Sabad und Asisa.
+<sup>28</sup>Von den Söhnen Bebais: Johanan, Hananja, Sabbai und Atlai.
+<sup>29</sup>Von den Söhnen Banis: Meschullam, Malluch, Adaja, Jaschub, Scheal und Jeremot.
+<sup>30</sup>Von den Söhnen Pahat-Moabs: Adna, Kelal, Benaja, Maaseja, Mattanja, Bezalel, Binnui und Manasse.
+<sup>31</sup>Von den Söhnen Harims: Eliëser, Jischija, Malkija, Schemaja, Schimeon,
+<sup>32</sup>Benjamin, Malluch und Schemarja.
+<sup>33</sup>Von den Söhnen Haschums: Mattenai, Mattatta, Sabad, Elifelet, Jeremai, Manasse und Schimi.
+<sup>34</sup>Von den Söhnen Banis: Maadai, Amram, Uël,
+<sup>35</sup>Benaja, Bedja, Keluhi,
+<sup>36</sup>Wanja, Meremot, Eljaschib,
+<sup>37</sup>Mattanja, Mattenai, Jaasai,
+<sup>38</sup>Bani, Binnui, Schimi,
+<sup>39</sup>Schelemja, Natan, Adaja,
+<sup>40</sup>Machnadbai, Schaschai, Scharai,
+<sup>41</sup>Asarel, Schelemja, Schemarja,
+<sup>42</sup>Schallum, Amarja und Josef.
+<sup>43</sup>Von den Söhnen Nebos: Jëiël, Mattitja, Sabad, Sebina, Iddo, Joël und Benaja.
+<sup>44</sup>Alle diese hatten fremde Frauen genommen.
+Und einige von ihnen hatten Frauen, mit denen sie Kinder hatten.
+
+> **Was bedeutet das?**
+> Die Liste nennt etwa 110 Männer. Das ist bei fast 30 000 Heimkehrern ein kleiner Teil. Aber es waren viele Anführer und Priester darunter, sogar aus der Familie des Hohenpriesters.
+> Vers 44 ist im Hebräischen schwer zu verstehen. Er endet sehr knapp mit den Kindern. Man spürt den Schmerz, der in diesem Satz liegt.
+
+> **Wie kann man dieses Kapitel heute verstehen?**
+> Diese Geschichte ist für viele Leser sehr schwer. Frauen und Kinder wurden weggeschickt. Das bedeutete großes Leid.
+> Man muss die damalige Lage verstehen: Das kleine Volk war nach der Verbannung in großer Gefahr, sich aufzulösen und seinen Glauben an den einen Gott zu verlieren. Die Führer sahen darin eine Frage des Überlebens.
+> Die Bibel selbst zeigt aber auch andere Wege:
+> – Rut aus Moab und Rahab aus Kanaan wurden ein Teil des Volkes Gottes, weil sie sich dem HERRN zuwandten.
+> – Der Prophet Maleachi, der in derselben Zeit lebte, sagt: „Ich hasse Scheidung, spricht der HERR“ (Maleachi 2,16).
+> – Paulus schreibt im Neuen Testament: Wenn ein Christ mit einem Partner verheiratet ist, der nicht glaubt, soll er sich nicht trennen, wenn der andere bleiben will. Die Kinder sind „heilig“ (1. Korinther 7,12–14).
+> Juden und Christen lesen dieses Kapitel heute nicht als Anleitung, Familien zu trennen. Sie lesen es als ernste Erinnerung, dass der Glaube das Leben prägen soll. Und als Geschichte, die zeigt, wie schwer manche Entscheidungen in einer bestimmten Notlage waren.
+> Die Bibel erzählt nicht, was mit den Frauen und Kindern geschah. Wir wissen nur, dass das Problem später wieder auftauchte (Nehemia 13,23–27).
+
+---
+
+### Rückblick: Was haben wir im Buch Esra gelesen?
+
+> **Was bedeutet das?**
+> **Die Heimkehr (Kapitel 1–2):** Gott hält sein Versprechen. Der Perserkönig Kyrus erlaubt den Juden, nach Jerusalem zurückzukehren. Fast 50 000 Menschen machen sich auf den Weg. Jeder Name wird aufgeschrieben.
+> **Der Tempel (Kapitel 3–6):** Zuerst bauen sie den Altar, dann das Fundament. Die Jungen jubeln, die Alten weinen. Nachbarn bringen den Bau für viele Jahre zum Stillstand. Aber die Propheten Haggai und Sacharja machen Mut. Im Jahr 515 vor Christus wird der neue Tempel eingeweiht.
+> **Esra (Kapitel 7–10):** Fast 60 Jahre später kommt Esra, ein Priester und Lehrer des Gesetzes. Er will Gottes Wort erforschen, danach leben und es lehren. Er vertraut auf Gottes Schutz und betet für das Volk. Am Ende steht die schwere Entscheidung über die Mischehen.
+> **Gottes Hand:** Ein Satz zieht sich durch das ganze Buch: „Die gute Hand Gottes war über uns.“ Gott wirkt auch durch fremde Könige. Er öffnet Türen, wo Menschen keine sehen.
+> **Was wir lernen:** Gott gibt einen Neuanfang nach dem Scheitern. Aber ein Neuanfang braucht Ausdauer, Mut gegen Widerstand und ein Herz, das Gottes Wort ernst nimmt.
+> **Wie geht es weiter?** Das Buch Nehemia erzählt, wie die Mauern Jerusalems wieder aufgebaut werden und wie Esra dem Volk das Gesetz vorliest.
+
+
+---
+
+# Nehemia
+
+## Nehemia – Kapitel 1
+#### Nehemia hört schlechte Nachrichten
+
+---
+
+### Bevor es losgeht: Was ist das Buch Nehemia?
+
+Das Buch Nehemia ist die Fortsetzung des Buches Esra. Ursprünglich waren beide ein einziges Buch.
+Nehemia war ein Jude, der am persischen Königshof lebte. Er war Mundschenk des Königs Artahsasta (Artaxerxes I.). Das war ein Vertrauensposten.
+Im Jahr 445 vor Christus hört Nehemia, dass die Mauern Jerusalems noch immer in Trümmern liegen. Er bittet den König, nach Jerusalem gehen zu dürfen, um sie wieder aufzubauen.
+Das Buch erzählt:
+– Kapitel 1–7: Nehemia baut mit dem Volk die Mauer in nur 52 Tagen auf, trotz Spott, Drohungen und Widerstand.
+– Kapitel 8–10: Esra liest dem Volk das Gesetz vor. Das Volk bekennt seine Schuld und schließt einen Bund mit Gott.
+– Kapitel 11–13: Jerusalem wird wieder bevölkert, die Mauer wird eingeweiht, und Nehemia sorgt für Ordnung.
+Große Teile sind in der Ich-Form geschrieben, wie ein Tagebuch. Man nennt sie die „Nehemia-Denkschrift“.
+Nehemia betet sehr oft, manchmal nur ganz kurz, mitten in einem Gespräch. Er verbindet Gebet und harte Arbeit.
+
+---
+
+### Die Nachricht aus Jerusalem (Vers 1–4)
+
+<sup>1</sup>Die Worte Nehemias, des Sohnes Hachaljas.
+Im Monat Kislew, im 20. Jahr,
+als ich in der Burg Susa war,
+<sup>2</sup>kam Hanani, einer meiner Brüder,
+er und einige Männer aus Juda.
+Ich fragte sie nach den Juden, die entkommen waren,
+die aus der Gefangenschaft übrig geblieben waren,
+und nach Jerusalem.
+<sup>3</sup>Sie sagten zu mir:
+„Die Übriggebliebenen, die aus der Gefangenschaft dort in der Provinz übrig geblieben sind,
+sind in großem Unglück und in Schande.
+Die Mauer Jerusalems ist niedergerissen,
+und ihre Tore sind mit Feuer verbrannt.“
+<sup>4</sup>Als ich diese Worte hörte,
+setzte ich mich hin und weinte
+und trauerte mehrere Tage lang.
+Ich fastete und betete vor dem Gott des Himmels.
+
+> **Was bedeutet das?**
+> Der Monat Kislew ist November/Dezember. Das „20. Jahr“ ist das 20. Regierungsjahr des Königs Artahsasta, also 445 vor Christus (Kapitel 2,1).
+> Susa war eine der Hauptstädte des Perserreichs, im heutigen Iran. Dort spielt auch die Geschichte von Ester.
+> Hanani war vielleicht wirklich Nehemias leiblicher Bruder (vgl. Kapitel 7,2).
+> Die Mauer war schon über 140 Jahre vorher von den Babyloniern zerstört worden. Vielleicht war ein späterer Versuch, sie wieder aufzubauen, gescheitert (Esra 4,23). Eine Stadt ohne Mauer war damals schutzlos und galt als Schande.
+> Nehemia lebt im Wohlstand am Königshof. Aber das Leid seines Volkes lässt ihn nicht kalt. Er weint, fastet und betet.
+
+---
+
+### Nehemias Gebet (Vers 5–11)
+
+<sup>5</sup>Ich sagte:
+„Ich bitte dich, HERR, Gott des Himmels,
+du großer und furchtgebietender Gott,
+der den Bund und die Güte bewahrt
+denen, die ihn lieben und seine Gebote halten:
+<sup>6</sup>Lass doch dein Ohr aufmerksam sein und deine Augen offen,
+damit du das Gebet deines Dieners hörst,
+das ich jetzt vor dir bete, Tag und Nacht,
+für die Kinder Israels, deine Diener.
+Ich bekenne die Sünden der Kinder Israels,
+die wir gegen dich begangen haben.
+Ja, auch ich und das Haus meines Vaters haben gesündigt.
+<sup>7</sup>Wir haben sehr böse gegen dich gehandelt
+und haben die Gebote, die Satzungen und die Rechtsordnungen nicht gehalten,
+die du deinem Diener Mose geboten hast.
+<sup>8</sup>Denk doch an das Wort, das du deinem Diener Mose geboten hast:
+‚Wenn ihr untreu seid, will ich euch unter die Völker zerstreuen.
+<sup>9</sup>Aber wenn ihr zu mir umkehrt
+und meine Gebote haltet und sie tut,
+dann will ich sie sammeln,
+selbst wenn eure Verstoßenen am äußersten Ende des Himmels wären,
+und will sie an den Ort bringen, den ich erwählt habe,
+um meinen Namen dort wohnen zu lassen.‘
+<sup>10</sup>Sie sind doch deine Diener und dein Volk,
+das du mit deiner großen Kraft und mit deiner starken Hand erlöst hast.
+<sup>11</sup>Herr, ich bitte dich,
+lass dein Ohr aufmerksam sein auf das Gebet deines Dieners
+und auf das Gebet deiner Diener, die sich freuen, deinen Namen zu fürchten.
+Lass es doch deinem Diener heute gelingen,
+und lass ihn Erbarmen finden vor diesem Mann.“
+Ich war nämlich Mundschenk des Königs.
+
+> **Was bedeutet das?**
+> Nehemias Gebet ist ein Vorbild:
+> – Er beginnt mit Lob: Gott ist groß und treu.
+> – Er bekennt die Schuld, auch seine eigene: „Auch ich habe gesündigt.“
+> – Er erinnert Gott an seine Versprechen (5. Mose 30,1–5).
+> – Er bittet konkret um Hilfe.
+> Er betet „Tag und Nacht“, vier Monate lang (von Kislew bis Nisan, Kapitel 2,1). Er wartet geduldig auf den richtigen Moment.
+> „Dieser Mann“ ist der König. Für Gott ist selbst der mächtigste König der Welt nur „ein Mann“.
+> Ein Mundschenk reichte dem König den Wein und prüfte ihn vorher, ob er vergiftet war. Er war ein enger Vertrauter des Königs und hatte oft großen Einfluss.
+
+## Nehemia – Kapitel 2
+#### Nehemia geht nach Jerusalem
+
+---
+
+### Nehemia vor dem König (Vers 1–8)
+
+<sup>1</sup>Im Monat Nisan, im 20. Jahr des Königs Artahsasta,
+als Wein vor ihm stand,
+nahm ich den Wein und gab ihn dem König.
+Ich war vorher nie traurig vor ihm gewesen.
+<sup>2</sup>Da sagte der König zu mir:
+„Warum ist dein Gesicht traurig?
+Du bist doch nicht krank.
+Das ist nichts anderes als Kummer im Herzen.“
+Da bekam ich große Angst.
+<sup>3</sup>Ich sagte zum König:
+„Der König lebe ewig!
+Warum sollte mein Gesicht nicht traurig sein,
+wenn die Stadt, der Ort der Gräber meiner Väter, verwüstet daliegt
+und ihre Tore vom Feuer verzehrt sind?“
+<sup>4</sup>Da sagte der König zu mir:
+„Was ist deine Bitte?“
+Da betete ich zum Gott des Himmels.
+<sup>5</sup>Und ich sagte zum König:
+„Wenn es dem König gefällt
+und wenn dein Diener Gunst vor dir gefunden hat,
+dann bitte ich dich, mich nach Juda zu schicken,
+in die Stadt der Gräber meiner Väter,
+damit ich sie wieder aufbaue.“
+<sup>6</sup>Der König sagte zu mir
+– die Königin saß neben ihm –:
+„Wie lange wird deine Reise dauern?
+Wann wirst du zurückkommen?“
+Es gefiel dem König, mich zu schicken,
+und ich nannte ihm eine Zeit.
+<sup>7</sup>Außerdem sagte ich zum König:
+„Wenn es dem König gefällt,
+soll man mir Briefe an die Statthalter jenseits des Stroms mitgeben,
+damit sie mich durchziehen lassen, bis ich nach Juda komme;
+<sup>8</sup>und einen Brief an Asaf, den Aufseher über den Wald des Königs,
+damit er mir Holz gibt,
+um Balken zu machen für die Tore der Burg beim Tempel,
+für die Stadtmauer
+und für das Haus, in das ich ziehen werde.“
+Und der König gab mir alles,
+weil die gute Hand meines Gottes über mir war.
+
+> **Was bedeutet das?**
+> Der Monat Nisan ist März/April. Nehemia hat vier Monate gebetet und gewartet.
+> Vor einem persischen König durfte man nicht traurig aussehen. Das konnte als Unzufriedenheit oder Verrat gelten. Darum bekommt Nehemia Angst.
+> Nehemia ist klug: Er spricht von der Stadt der „Gräber meiner Väter“. Gräber der Vorfahren zu ehren, verstand jeder König. Den Namen Jerusalem nennt er nicht. Der König hatte früher den Bau dieser Stadt stoppen lassen (Esra 4,21).
+> Vers 4 ist eines der kürzesten Gebete der Bibel: Zwischen der Frage des Königs und seiner Antwort betet Nehemia still. Man kann jederzeit beten, auch mitten in einem Gespräch.
+> Nehemia ist gut vorbereitet. Er weiß genau, was er braucht: Briefe für die Reise und Holz für den Bau. Glaube und gute Planung gehören zusammen.
+> Der „Wald des Königs“ war vielleicht im Libanon, wo Zedern wuchsen.
+
+---
+
+### Ankunft und erste Gegner (Vers 9–10)
+
+<sup>9</sup>Dann kam ich zu den Statthaltern jenseits des Stroms
+und gab ihnen die Briefe des Königs.
+Der König hatte auch Heerführer und Reiter mit mir geschickt.
+<sup>10</sup>Als Sanballat, der Horoniter, und Tobija, der ammonitische Knecht, davon hörten,
+ärgerte es sie sehr,
+dass ein Mann gekommen war, um das Wohl der Kinder Israels zu suchen.
+
+> **Was bedeutet das?**
+> Anders als Esra (Esra 8,22) reist Nehemia mit Soldaten. Beides ist kein Widerspruch. Gott kann auf verschiedene Weise schützen.
+> Sanballat war der Statthalter von Samaria. Sein Name ist auch in einem Brief belegt, der in Elephantine in Ägypten gefunden wurde. „Horoniter“ heißt wohl: Er stammte aus Bet-Horon.
+> Tobija war wohl ein hoher Beamter im Gebiet von Ammon, östlich des Jordan. „Knecht“ war vielleicht ein Titel, wie „Diener des Königs“. Oder es ist abwertend gemeint.
+> Diese Männer werden Nehemias Hauptgegner. Sie wollen nicht, dass Jerusalem wieder stark wird.
+
+---
+
+### Nehemia besichtigt die Mauer bei Nacht (Vers 11–16)
+
+<sup>11</sup>So kam ich nach Jerusalem und war dort drei Tage.
+<sup>12</sup>Dann stand ich in der Nacht auf, ich und einige wenige Männer mit mir.
+Ich hatte niemandem gesagt, was mein Gott mir ins Herz gegeben hatte, für Jerusalem zu tun.
+Und es war kein Tier bei mir außer dem Tier, auf dem ich ritt.
+<sup>13</sup>Ich zog in der Nacht hinaus durch das Taltor,
+zur Schakalsquelle hin
+und zum Misttor.
+Ich besichtigte die Mauern Jerusalems, die niedergerissen waren,
+und ihre Tore, die vom Feuer verzehrt waren.
+<sup>14</sup>Dann zog ich weiter zum Quelltor und zum Königsteich.
+Aber da war kein Platz für das Tier unter mir, um durchzukommen.
+<sup>15</sup>Da zog ich in der Nacht durch das Bachtal hinauf
+und besichtigte die Mauer.
+Dann kehrte ich um,
+kam durch das Taltor wieder hinein
+und kehrte zurück.
+<sup>16</sup>Die Vorsteher wussten nicht, wohin ich gegangen war und was ich tat.
+Ich hatte es bis dahin weder den Juden noch den Priestern,
+noch den Vornehmen, noch den Vorstehern,
+noch den anderen, die die Arbeit taten, gesagt.
+
+> **Was bedeutet das?**
+> Nehemia geht klug vor. Er schaut sich zuerst alles in Ruhe an, heimlich in der Nacht. Erst wenn er einen Plan hat, spricht er mit den anderen.
+> Die Trümmer liegen so dicht, dass sein Reittier an manchen Stellen nicht durchkommt.
+> Das „Bachtal“ ist das Kidrontal östlich von Jerusalem.
+> Nehemia umrundet wohl den südlichen Teil der Stadt, die alte Stadt Davids.
+
+---
+
+### „Lasst uns aufstehen und bauen!“ (Vers 17–20)
+
+<sup>17</sup>Dann sagte ich zu ihnen:
+„Ihr seht das Elend, in dem wir sind:
+Jerusalem liegt verwüstet,
+und seine Tore sind mit Feuer verbrannt.
+Kommt, lasst uns die Mauer Jerusalems wieder aufbauen,
+damit wir nicht länger in Schande sind.“
+<sup>18</sup>Ich erzählte ihnen von der Hand meines Gottes, die gut über mir war,
+und auch von den Worten des Königs, die er zu mir gesagt hatte.
+Da sagten sie:
+„Lasst uns aufstehen und bauen!“
+So stärkten sie ihre Hände für das gute Werk.
+<sup>19</sup>Aber als Sanballat, der Horoniter, Tobija, der ammonitische Knecht,
+und Geschem, der Araber, davon hörten,
+verspotteten sie uns und verachteten uns
+und sagten:
+„Was ist das, was ihr da tut?
+Wollt ihr euch gegen den König auflehnen?“
+<sup>20</sup>Da antwortete ich ihnen und sagte zu ihnen:
+„Der Gott des Himmels wird es uns gelingen lassen.
+Darum werden wir, seine Diener, aufstehen und bauen.
+Ihr aber habt keinen Anteil, kein Recht und kein Andenken in Jerusalem.“
+
+> **Was bedeutet das?**
+> Nehemia sagt „wir“: „das Elend, in dem wir sind“. Obwohl er gerade erst gekommen ist, stellt er sich mit dem Volk auf eine Stufe.
+> Er macht Mut, indem er erzählt, wie Gott schon geholfen hat. Das Volk antwortet begeistert: „Lasst uns aufstehen und bauen!“
+> Sofort kommen Spott und Drohung. Sie unterstellen Aufstand gegen den König. Das ist dieselbe Taktik wie in Esra 4.
+> Geschem war ein mächtiger Araberfürst. Sein Name steht auf einer Silberschale, die in Ägypten gefunden wurde.
+> Nehemia lässt sich nicht einschüchtern. Er antwortet klar: Gott wird uns gelingen lassen. Ihr habt hier nichts zu sagen.

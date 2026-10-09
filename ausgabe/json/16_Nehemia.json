@@ -1,0 +1,240 @@
+{
+ "nr": 16,
+ "code": "NEH",
+ "kuerzel": "Neh",
+ "name": "Nehemia",
+ "name_englisch": "Nehemiah",
+ "testament": "altes-testament",
+ "kapitel": 13,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Nehemia hört schlechte Nachrichten",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch Nehemia?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Nehemia ist die Fortsetzung des Buches Esra. Ursprünglich waren beide ein einziges Buch.\nNehemia war ein Jude, der am persischen Königshof lebte. Er war Mundschenk des Königs Artahsasta (Artaxerxes I.). Das war ein Vertrauensposten.\nIm Jahr 445 vor Christus hört Nehemia, dass die Mauern Jerusalems noch immer in Trümmern liegen. Er bittet den König, nach Jerusalem gehen zu dürfen, um sie wieder aufzubauen.\nDas Buch erzählt:\n– Kapitel 1–7: Nehemia baut mit dem Volk die Mauer in nur 52 Tagen auf, trotz Spott, Drohungen und Widerstand.\n– Kapitel 8–10: Esra liest dem Volk das Gesetz vor. Das Volk bekennt seine Schuld und schließt einen Bund mit Gott.\n– Kapitel 11–13: Jerusalem wird wieder bevölkert, die Mauer wird eingeweiht, und Nehemia sorgt für Ordnung.\nGroße Teile sind in der Ich-Form geschrieben, wie ein Tagebuch. Man nennt sie die „Nehemia-Denkschrift“.\nNehemia betet sehr oft, manchmal nur ganz kurz, mitten in einem Gespräch. Er verbindet Gebet und harte Arbeit.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Die Nachricht aus Jerusalem",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Worte Nehemias, des Sohnes Hachaljas.\nIm Monat Kislew, im 20. Jahr,\nals ich in der Burg Susa war,",
+       "englisch_web": "The words of Nehemiah the son of Hacaliah. Now in the month Chislev, in the twentieth year, as I was in Susa the palace,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "kam Hanani, einer meiner Brüder,\ner und einige Männer aus Juda.\nIch fragte sie nach den Juden, die entkommen waren,\ndie aus der Gefangenschaft übrig geblieben waren,\nund nach Jerusalem.",
+       "englisch_web": "Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie sagten zu mir:\n„Die Übriggebliebenen, die aus der Gefangenschaft dort in der Provinz übrig geblieben sind,\nsind in großem Unglück und in Schande.\nDie Mauer Jerusalems ist niedergerissen,\nund ihre Tore sind mit Feuer verbrannt.“",
+       "englisch_web": "They said to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Als ich diese Worte hörte,\nsetzte ich mich hin und weinte\nund trauerte mehrere Tage lang.\nIch fastete und betete vor dem Gott des Himmels.",
+       "englisch_web": "When I heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God of heaven,"
+      }
+     ],
+     "erklaerung": "Der Monat Kislew ist November/Dezember. Das „20. Jahr“ ist das 20. Regierungsjahr des Königs Artahsasta, also 445 vor Christus (Kapitel 2,1).\nSusa war eine der Hauptstädte des Perserreichs, im heutigen Iran. Dort spielt auch die Geschichte von Ester.\nHanani war vielleicht wirklich Nehemias leiblicher Bruder (vgl. Kapitel 7,2).\nDie Mauer war schon über 140 Jahre vorher von den Babyloniern zerstört worden. Vielleicht war ein späterer Versuch, sie wieder aufzubauen, gescheitert (Esra 4,23). Eine Stadt ohne Mauer war damals schutzlos und galt als Schande.\nNehemia lebt im Wohlstand am Königshof. Aber das Leid seines Volkes lässt ihn nicht kalt. Er weint, fastet und betet."
+    },
+    {
+     "ueberschrift": "Nehemias Gebet",
+     "vers_von": 5,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich sagte:\n„Ich bitte dich, HERR, Gott des Himmels,\ndu großer und furchtgebietender Gott,\nder den Bund und die Güte bewahrt\ndenen, die ihn lieben und seine Gebote halten:",
+       "englisch_web": "and said, “I beg you, Yahweh, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Lass doch dein Ohr aufmerksam sein und deine Augen offen,\ndamit du das Gebet deines Dieners hörst,\ndas ich jetzt vor dir bete, Tag und Nacht,\nfür die Kinder Israels, deine Diener.\nIch bekenne die Sünden der Kinder Israels,\ndie wir gegen dich begangen haben.\nJa, auch ich und das Haus meines Vaters haben gesündigt.",
+       "englisch_web": "let your ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wir haben sehr böse gegen dich gehandelt\nund haben die Gebote, die Satzungen und die Rechtsordnungen nicht gehalten,\ndie du deinem Diener Mose geboten hast.",
+       "englisch_web": "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denk doch an das Wort, das du deinem Diener Mose geboten hast:\n‚Wenn ihr untreu seid, will ich euch unter die Völker zerstreuen.",
+       "englisch_web": "“Remember, I beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples;"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Aber wenn ihr zu mir umkehrt\nund meine Gebote haltet und sie tut,\ndann will ich sie sammeln,\nselbst wenn eure Verstoßenen am äußersten Ende des Himmels wären,\nund will sie an den Ort bringen, den ich erwählt habe,\num meinen Namen dort wohnen zu lassen.‘",
+       "englisch_web": "but if you return to me, and keep my commandments and do them, though your outcasts were in the uttermost part of the heavens, yet I will gather them from there, and will bring them to the place that I have chosen, to cause my name to dwell there.’"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sie sind doch deine Diener und dein Volk,\ndas du mit deiner großen Kraft und mit deiner starken Hand erlöst hast.",
+       "englisch_web": "“Now these are your servants and your people, whom you have redeemed by your great power and by your strong hand."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Herr, ich bitte dich,\nlass dein Ohr aufmerksam sein auf das Gebet deines Dieners\nund auf das Gebet deiner Diener, die sich freuen, deinen Namen zu fürchten.\nLass es doch deinem Diener heute gelingen,\nund lass ihn Erbarmen finden vor diesem Mann.“\nIch war nämlich Mundschenk des Königs.",
+       "englisch_web": "Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.” Now I was cup bearer to the king."
+      }
+     ],
+     "erklaerung": "Nehemias Gebet ist ein Vorbild:\n– Er beginnt mit Lob: Gott ist groß und treu.\n– Er bekennt die Schuld, auch seine eigene: „Auch ich habe gesündigt.“\n– Er erinnert Gott an seine Versprechen (5. Mose 30,1–5).\n– Er bittet konkret um Hilfe.\nEr betet „Tag und Nacht“, vier Monate lang (von Kislew bis Nisan, Kapitel 2,1). Er wartet geduldig auf den richtigen Moment.\n„Dieser Mann“ ist der König. Für Gott ist selbst der mächtigste König der Welt nur „ein Mann“.\nEin Mundschenk reichte dem König den Wein und prüfte ihn vorher, ob er vergiftet war. Er war ein enger Vertrauter des Königs und hatte oft großen Einfluss."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Nehemia geht nach Jerusalem",
+   "abschnitte": [
+    {
+     "ueberschrift": "Nehemia vor dem König",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Im Monat Nisan, im 20. Jahr des Königs Artahsasta,\nals Wein vor ihm stand,\nnahm ich den Wein und gab ihn dem König.\nIch war vorher nie traurig vor ihm gewesen.",
+       "englisch_web": "In the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, I picked up the wine, and gave it to the king. Now I had not been sad before in his presence."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da sagte der König zu mir:\n„Warum ist dein Gesicht traurig?\nDu bist doch nicht krank.\nDas ist nichts anderes als Kummer im Herzen.“\nDa bekam ich große Angst.",
+       "englisch_web": "The king said to me, “Why is your face sad, since you are not sick? This is nothing else but sorrow of heart.” Then I was very much afraid."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich sagte zum König:\n„Der König lebe ewig!\nWarum sollte mein Gesicht nicht traurig sein,\nwenn die Stadt, der Ort der Gräber meiner Väter, verwüstet daliegt\nund ihre Tore vom Feuer verzehrt sind?“",
+       "englisch_web": "I said to the king, “Let the king live forever! Why shouldn’t my face be sad, when the city, the place of my fathers’ tombs, lies waste, and its gates have been consumed with fire?”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da sagte der König zu mir:\n„Was ist deine Bitte?“\nDa betete ich zum Gott des Himmels.",
+       "englisch_web": "Then the king said to me, “What is your request?” So I prayed to the God of heaven."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Und ich sagte zum König:\n„Wenn es dem König gefällt\nund wenn dein Diener Gunst vor dir gefunden hat,\ndann bitte ich dich, mich nach Juda zu schicken,\nin die Stadt der Gräber meiner Väter,\ndamit ich sie wieder aufbaue.“",
+       "englisch_web": "I said to the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you would send me to Judah, to the city of my fathers’ tombs, that I may build it.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Der König sagte zu mir\n– die Königin saß neben ihm –:\n„Wie lange wird deine Reise dauern?\nWann wirst du zurückkommen?“\nEs gefiel dem König, mich zu schicken,\nund ich nannte ihm eine Zeit.",
+       "englisch_web": "The king said to me (the queen was also sitting by him), “How long will your journey be? When will you return?” So it pleased the king to send me, and I set a time for him."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Außerdem sagte ich zum König:\n„Wenn es dem König gefällt,\nsoll man mir Briefe an die Statthalter jenseits des Stroms mitgeben,\ndamit sie mich durchziehen lassen, bis ich nach Juda komme;",
+       "englisch_web": "Moreover I said to the king, “If it pleases the king, let letters be given me to the governors beyond the River, that they may let me pass through until I come to Judah;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "und einen Brief an Asaf, den Aufseher über den Wald des Königs,\ndamit er mir Holz gibt,\num Balken zu machen für die Tore der Burg beim Tempel,\nfür die Stadtmauer\nund für das Haus, in das ich ziehen werde.“\nUnd der König gab mir alles,\nweil die gute Hand meines Gottes über mir war.",
+       "englisch_web": "and a letter to Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the citadel by the temple, for the wall of the city, and for the house that I will occupy.” The king granted my requests, because of the good hand of my God on me."
+      }
+     ],
+     "erklaerung": "Der Monat Nisan ist März/April. Nehemia hat vier Monate gebetet und gewartet.\nVor einem persischen König durfte man nicht traurig aussehen. Das konnte als Unzufriedenheit oder Verrat gelten. Darum bekommt Nehemia Angst.\nNehemia ist klug: Er spricht von der Stadt der „Gräber meiner Väter“. Gräber der Vorfahren zu ehren, verstand jeder König. Den Namen Jerusalem nennt er nicht. Der König hatte früher den Bau dieser Stadt stoppen lassen (Esra 4,21).\nVers 4 ist eines der kürzesten Gebete der Bibel: Zwischen der Frage des Königs und seiner Antwort betet Nehemia still. Man kann jederzeit beten, auch mitten in einem Gespräch.\nNehemia ist gut vorbereitet. Er weiß genau, was er braucht: Briefe für die Reise und Holz für den Bau. Glaube und gute Planung gehören zusammen.\nDer „Wald des Königs“ war vielleicht im Libanon, wo Zedern wuchsen."
+    },
+    {
+     "ueberschrift": "Ankunft und erste Gegner",
+     "vers_von": 9,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Dann kam ich zu den Statthaltern jenseits des Stroms\nund gab ihnen die Briefe des Königs.\nDer König hatte auch Heerführer und Reiter mit mir geschickt.",
+       "englisch_web": "Then I came to the governors beyond the River, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Als Sanballat, der Horoniter, und Tobija, der ammonitische Knecht, davon hörten,\närgerte es sie sehr,\ndass ein Mann gekommen war, um das Wohl der Kinder Israels zu suchen.",
+       "englisch_web": "When Sanballat the Horonite and Tobiah the Ammonite servant heard of it, it grieved them exceedingly, because a man had come to seek the welfare of the children of Israel."
+      }
+     ],
+     "erklaerung": "Anders als Esra (Esra 8,22) reist Nehemia mit Soldaten. Beides ist kein Widerspruch. Gott kann auf verschiedene Weise schützen.\nSanballat war der Statthalter von Samaria. Sein Name ist auch in einem Brief belegt, der in Elephantine in Ägypten gefunden wurde. „Horoniter“ heißt wohl: Er stammte aus Bet-Horon.\nTobija war wohl ein hoher Beamter im Gebiet von Ammon, östlich des Jordan. „Knecht“ war vielleicht ein Titel, wie „Diener des Königs“. Oder es ist abwertend gemeint.\nDiese Männer werden Nehemias Hauptgegner. Sie wollen nicht, dass Jerusalem wieder stark wird."
+    },
+    {
+     "ueberschrift": "Nehemia besichtigt die Mauer bei Nacht",
+     "vers_von": 11,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "So kam ich nach Jerusalem und war dort drei Tage.",
+       "englisch_web": "So I came to Jerusalem, and was there three days."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Dann stand ich in der Nacht auf, ich und einige wenige Männer mit mir.\nIch hatte niemandem gesagt, was mein Gott mir ins Herz gegeben hatte, für Jerusalem zu tun.\nUnd es war kein Tier bei mir außer dem Tier, auf dem ich ritt.",
+       "englisch_web": "I arose in the night, I and a few men with me. I didn’t tell anyone what my God put into my heart to do for Jerusalem. There wasn’t any animal with me except the animal that I rode on."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich zog in der Nacht hinaus durch das Taltor,\nzur Schakalsquelle hin\nund zum Misttor.\nIch besichtigte die Mauern Jerusalems, die niedergerissen waren,\nund ihre Tore, die vom Feuer verzehrt waren.",
+       "englisch_web": "I went out by night by the valley gate toward the jackal’s well, then to the dung gate; and I inspected the walls of Jerusalem, which were broken down, and its gates were consumed with fire."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Dann zog ich weiter zum Quelltor und zum Königsteich.\nAber da war kein Platz für das Tier unter mir, um durchzukommen.",
+       "englisch_web": "Then I went on to the spring gate and to the king’s pool, but there was no place for the animal that was under me to pass."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da zog ich in der Nacht durch das Bachtal hinauf\nund besichtigte die Mauer.\nDann kehrte ich um,\nkam durch das Taltor wieder hinein\nund kehrte zurück.",
+       "englisch_web": "Then I went up in the night by the brook and inspected the wall; and I turned back, and entered by the valley gate, and so returned."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Vorsteher wussten nicht, wohin ich gegangen war und was ich tat.\nIch hatte es bis dahin weder den Juden noch den Priestern,\nnoch den Vornehmen, noch den Vorstehern,\nnoch den anderen, die die Arbeit taten, gesagt.",
+       "englisch_web": "The rulers didn’t know where I went, or what I did. I had not as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest who did the work."
+      }
+     ],
+     "erklaerung": "Nehemia geht klug vor. Er schaut sich zuerst alles in Ruhe an, heimlich in der Nacht. Erst wenn er einen Plan hat, spricht er mit den anderen.\nDie Trümmer liegen so dicht, dass sein Reittier an manchen Stellen nicht durchkommt.\nDas „Bachtal“ ist das Kidrontal östlich von Jerusalem.\nNehemia umrundet wohl den südlichen Teil der Stadt, die alte Stadt Davids."
+    },
+    {
+     "ueberschrift": "„Lasst uns aufstehen und bauen!“",
+     "vers_von": 17,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Dann sagte ich zu ihnen:\n„Ihr seht das Elend, in dem wir sind:\nJerusalem liegt verwüstet,\nund seine Tore sind mit Feuer verbrannt.\nKommt, lasst uns die Mauer Jerusalems wieder aufbauen,\ndamit wir nicht länger in Schande sind.“",
+       "englisch_web": "Then I said to them, “You see the bad situation that we are in, how Jerusalem lies waste, and its gates are burned with fire. Come, let’s build up the wall of Jerusalem, that we won’t be disgraced.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Ich erzählte ihnen von der Hand meines Gottes, die gut über mir war,\nund auch von den Worten des Königs, die er zu mir gesagt hatte.\nDa sagten sie:\n„Lasst uns aufstehen und bauen!“\nSo stärkten sie ihre Hände für das gute Werk.",
+       "englisch_web": "I told them about the hand of my God which was good on me, and also about the king’s words that he had spoken to me. They said, “Let’s rise up and build.” So they strengthened their hands for the good work."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Aber als Sanballat, der Horoniter, Tobija, der ammonitische Knecht,\nund Geschem, der Araber, davon hörten,\nverspotteten sie uns und verachteten uns\nund sagten:\n„Was ist das, was ihr da tut?\nWollt ihr euch gegen den König auflehnen?“",
+       "englisch_web": "But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian, heard it, they ridiculed us and despised us, and said, “What is this thing that you are doing? Will you rebel against the king?”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da antwortete ich ihnen und sagte zu ihnen:\n„Der Gott des Himmels wird es uns gelingen lassen.\nDarum werden wir, seine Diener, aufstehen und bauen.\nIhr aber habt keinen Anteil, kein Recht und kein Andenken in Jerusalem.“",
+       "englisch_web": "Then I answered them, and said to them, “The God of heaven will prosper us. Therefore we, his servants, will arise and build; but you have no portion, nor right, nor memorial in Jerusalem.”"
+      }
+     ],
+     "erklaerung": "Nehemia sagt „wir“: „das Elend, in dem wir sind“. Obwohl er gerade erst gekommen ist, stellt er sich mit dem Volk auf eine Stufe.\nEr macht Mut, indem er erzählt, wie Gott schon geholfen hat. Das Volk antwortet begeistert: „Lasst uns aufstehen und bauen!“\nSofort kommen Spott und Drohung. Sie unterstellen Aufstand gegen den König. Das ist dieselbe Taktik wie in Esra 4.\nGeschem war ein mächtiger Araberfürst. Sein Name steht auf einer Silberschale, die in Ägypten gefunden wurde.\nNehemia lässt sich nicht einschüchtern. Er antwortet klar: Gott wird uns gelingen lassen. Ihr habt hier nichts zu sagen."
+    }
+   ]
+  }
+ ]
+}
