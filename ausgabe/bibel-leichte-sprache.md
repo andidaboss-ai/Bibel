@@ -60839,7 +60839,7 @@ sodass man das Vorgelesene verstand.
 
 ---
 
-### „Die Freude am HERRN ist eure Stärke“ (Vers 9–12)
+### „Die Freude des HERRN ist eure Stärke“ (Vers 9–12)
 
 <sup>9</sup>Nehemia, der der Statthalter war,
 und Esra, der Priester und Schriftgelehrte,
@@ -60854,7 +60854,7 @@ als sie die Worte des Gesetzes hörten.
 und schickt Anteile denen, für die nichts zubereitet ist!
 Denn dieser Tag ist unserem Herrn heilig.
 Seid nicht bekümmert,
-denn die Freude am HERRN ist eure Stärke.“
+denn die Freude des HERRN ist eure Stärke.“
 <sup>11</sup>Und die Leviten beruhigten das ganze Volk und sagten:
 „Seid still, denn der Tag ist heilig.
 Seid nicht bekümmert!“
@@ -60866,7 +60866,7 @@ Denn sie hatten die Worte verstanden, die man ihnen mitgeteilt hatte.
 > **Was bedeutet das?**
 > Als das Volk das Gesetz hört, weint es. Sie merken, wie weit sie von Gottes Willen entfernt sind.
 > Aber Nehemia und Esra sagen: Heute ist ein Festtag! Heute ist nicht der Tag zum Weinen, sondern zum Feiern.
-> „Die Freude am HERRN ist eure Stärke“: Das ist einer der bekanntesten Sätze der Bibel. Die Kraft für ein Leben mit Gott kommt nicht aus Schuldgefühlen, sondern aus der Freude über Gott. In der englischen Vorlage heißt es wörtlich „die Freude des HERRN“. Man kann es auch so verstehen: Gottes eigene Freude über sein Volk gibt Kraft.
+> „Die Freude des HERRN ist eure Stärke“: Das ist einer der bekanntesten Sätze der Bibel. Viele deutsche Bibeln übersetzen „die Freude am HERRN“. Beides ist möglich: Die Freude über Gott gibt Kraft. Und Gottes eigene Freude über sein Volk gibt Kraft. Die Kraft für ein Leben mit Gott kommt nicht aus Schuldgefühlen, sondern aus Freude.
 > Wichtig: „Schickt Anteile denen, für die nichts zubereitet ist.“ Zum Fest gehört, dass die Armen nicht vergessen werden. Niemand soll an einem Festtag hungern.
 > Vers 12: Sie feiern, „weil sie die Worte verstanden hatten“. Verstehen führt zur Freude.
 
