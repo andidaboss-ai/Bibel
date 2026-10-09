@@ -68736,7 +68736,7 @@ Mein Gott, mein Gott, warum hast du mich verlassen?
 Warum bist du so fern von meiner Rettung
 und von den Worten meines Stöhnens?
 <sup>2</sup>Mein Gott, ich rufe am Tag, aber du antwortest nicht,
-und in der Nacht, und ich finde keine Ruhe.
+und in der Nacht, und ich schweige nicht.
 <sup>3</sup>Aber du bist heilig,
 du, der über den Lobgesängen Israels thront.
 <sup>4</sup>Unsere Väter haben dir vertraut.
@@ -68748,7 +68748,7 @@ Sie haben dir vertraut und wurden nicht enttäuscht.
 > Psalm 22 ist einer der wichtigsten Psalmen der ganzen Bibel. Er beginnt mit dem verzweifeltsten Schrei, den es gibt: „Mein Gott, mein Gott, warum hast du mich verlassen?“
 > Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lema sabachtani?“ (Matthäus 27,46; Markus 15,34).
 > Der Beter fühlt sich von Gott völlig verlassen. Aber er spricht Gott trotzdem an: „Mein Gott“. Er hält an Gott fest, auch wenn er ihn nicht spürt.
-> Vers 2: Die englische Vorlage sagt wörtlich „und ich bin nicht still“, also: Ich höre nicht auf zu rufen, ich finde keine Ruhe.
+> Vers 2: „Ich schweige nicht“: Ich höre nicht auf zu rufen, Tag und Nacht. Viele deutsche Bibeln übersetzen: „und finde keine Ruhe“.
 > Vers 4–5: Er erinnert sich: Früher hat Gott unseren Vorfahren geholfen. Warum nicht mir?
 
 ---
