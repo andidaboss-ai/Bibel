@@ -67965,3 +67965,289 @@ damit der Mensch, der von der Erde ist, nicht mehr Schrecken verbreitet.
 > Gott hört die Demütigen, die Waisen und die Unterdrückten.
 > „Der Mensch, der von der Erde ist“: Auch der mächtigste Unterdrücker ist nur ein Mensch aus Staub. Seine Macht hat ein Ende.
 > Psalm 9 und 10 zusammen zeigen: Der Glaube an Gottes Gerechtigkeit und die ehrliche Klage „Warum bist du so fern?“ gehören zusammen.
+
+## Psalm 11
+#### Beim HERRN finde ich Zuflucht
+
+---
+
+### Flieh wie ein Vogel? (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Von David.
+Beim HERRN suche ich Zuflucht.
+Wie könnt ihr zu meiner Seele sagen:
+„Flieh wie ein Vogel auf deinen Berg“?
+<sup>2</sup>Denn schau, die Gottlosen spannen ihre Bogen.
+Sie legen ihre Pfeile auf die Sehne,
+um im Dunkeln auf die zu schießen, die aufrichtigen Herzens sind.
+<sup>3</sup>Wenn die Fundamente zerstört werden,
+was kann dann der Gerechte tun?
+
+> **Was bedeutet das?**
+> Freunde raten David: Flieh! Bring dich in Sicherheit! Die Lage ist hoffnungslos.
+> Vers 3 ist ihre Begründung: Wenn die Grundlagen der Gesellschaft zerstört sind, wenn Recht und Ordnung nicht mehr gelten, was kann ein einzelner gerechter Mensch da noch tun?
+> Aber David antwortet: Ich brauche nicht in die Berge zu fliehen. Meine Zuflucht ist Gott.
+
+---
+
+### Der HERR ist auf seinem Thron (Vers 4–7)
+
+<sup>4</sup>Der HERR ist in seinem heiligen Tempel.
+Der HERR hat seinen Thron im Himmel.
+Seine Augen schauen.
+Seine Augen prüfen die Menschenkinder.
+<sup>5</sup>Der HERR prüft den Gerechten,
+aber seine Seele hasst den Gottlosen und den, der Gewalt liebt.
+<sup>6</sup>Auf die Gottlosen wird er glühende Kohlen regnen lassen.
+Feuer, Schwefel und Glutwind wird der Inhalt ihres Bechers sein.
+<sup>7</sup>Denn der HERR ist gerecht.
+Er liebt Gerechtigkeit.
+Die Aufrichtigen werden sein Angesicht sehen.
+
+> **Was bedeutet das?**
+> Davids Antwort auf die Frage „Was kann der Gerechte tun?“: Er schaut nach oben. Auch wenn auf der Erde alles wankt, Gott sitzt noch auf seinem Thron. Er sieht alles.
+> Vers 5: Gott „hasst den, der Gewalt liebt“. Gewalt ist Gott zuwider.
+> Vers 6: „Feuer und Schwefel“ erinnert an Sodom und Gomorra (1. Mose 19,24). „Becher“ ist ein Bild für das Schicksal, das jemand bekommt.
+> Vers 7: Das Ziel der Aufrichtigen ist, Gottes Angesicht zu sehen, also ganz nah bei Gott zu sein (vgl. Matthäus 5,8: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen“).
+
+## Psalm 12
+#### Gottes Worte sind rein
+
+---
+
+### Alle lügen (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Auf der achtsaitigen Leier. Ein Psalm von David.
+Hilf, HERR, denn der Fromme hört auf zu sein!
+Denn die Treuen verschwinden unter den Menschenkindern.
+<sup>2</sup>Jeder lügt seinen Nächsten an.
+Sie reden mit schmeichelnden Lippen
+und mit doppeltem Herzen.
+<sup>3</sup>Der HERR möge alle schmeichelnden Lippen abschneiden
+und die Zunge, die prahlt,
+<sup>4</sup>die gesagt haben: „Mit unserer Zunge werden wir siegen.
+Unsere Lippen gehören uns. Wer ist Herr über uns?“
+
+> **Was bedeutet das?**
+> Der Beter fühlt sich allein. Es scheint keine treuen, ehrlichen Menschen mehr zu geben.
+> „Mit doppeltem Herzen“: Sie sagen das eine und meinen etwas anderes.
+> Vers 4: Die Lügner sind stolz auf ihre Macht durch Worte. Sie denken: Wir können sagen, was wir wollen. Niemand kann uns etwas.
+> Auch heute erleben wir, wie viel Schaden Lügen, Gerüchte und Hetze anrichten können, gerade auch im Internet.
+
+---
+
+### Gott steht auf (Vers 5–8)
+
+<sup>5</sup>„Wegen der Unterdrückung der Schwachen
+und wegen des Seufzens der Armen
+will ich jetzt aufstehen“, sagt der HERR.
+„Ich will ihn in Sicherheit bringen vor denen, die ihn verleumden.“
+<sup>6</sup>Die Worte des HERRN sind reine Worte,
+wie Silber, im Schmelzofen aus Ton geläutert,
+siebenmal gereinigt.
+<sup>7</sup>Du wirst sie bewahren, HERR.
+Du wirst sie vor dieser Generation für immer behüten.
+<sup>8</sup>Die Gottlosen gehen ringsum frei umher,
+wenn das Gemeine unter den Menschenkindern erhöht wird.
+
+> **Was bedeutet das?**
+> In Vers 5 spricht Gott selbst. Er hat das Seufzen der Armen gehört und steht auf, um ihnen zu helfen.
+> Vers 6: Die Worte der Menschen sind voller Lügen. Aber Gottes Worte sind rein wie Silber, das siebenmal geschmolzen und gereinigt wurde. Sieben ist die Zahl der Vollkommenheit. Auf Gottes Wort kann man sich völlig verlassen.
+> Vers 8: Ein ehrlicher Schluss: Noch sind die Gottlosen überall. Wenn das Gemeine gefeiert wird, haben sie leichtes Spiel. Aber Gottes Versprechen in Vers 5 gilt.
+
+## Psalm 13
+#### Wie lange noch, HERR?
+
+---
+
+### Wie lange? (Vers 1–2)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Wie lange, HERR? Willst du mich für immer vergessen?
+Wie lange willst du dein Angesicht vor mir verbergen?
+<sup>2</sup>Wie lange soll ich mir Sorgen machen in meiner Seele,
+mit Kummer in meinem Herzen jeden Tag?
+Wie lange soll mein Feind über mich triumphieren?
+
+> **Was bedeutet das?**
+> Viermal „Wie lange?“. Der Beter hat das Gefühl, Gott hat ihn vergessen. Es geht schon so lange so.
+> Psalm 13 ist kurz, aber er ist ein Muster für viele Klagepsalmen: Klage – Bitte – Vertrauen.
+> Er zeigt drei Seiten der Not: Gott scheint fern (Vers 1), ich selbst bin voller Sorgen (Vers 2a), und andere triumphieren über mich (Vers 2b).
+
+---
+
+### Schau her und antworte mir (Vers 3–4)
+
+<sup>3</sup>Schau her und antworte mir, HERR, mein Gott!
+Gib meinen Augen Licht,
+damit ich nicht im Tod einschlafe,
+<sup>4</sup>damit mein Feind nicht sagt: „Ich habe ihn besiegt“,
+damit meine Gegner sich nicht freuen, wenn ich falle.
+
+> **Was bedeutet das?**
+> Aus der Klage wird eine Bitte. „Gib meinen Augen Licht“: Wenn jemand sehr krank oder erschöpft ist, werden die Augen matt. Der Beter bittet um neue Lebenskraft.
+> Wer sich so fühlt, als ob Gott ihn vergessen hat, und keinen Ausweg mehr sieht: Hol dir Hilfe. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
+
+---
+
+### Aber ich vertraue (Vers 5–6)
+
+<sup>5</sup>Ich aber vertraue auf deine Güte.
+Mein Herz freut sich über deine Rettung.
+<sup>6</sup>Ich will dem HERRN singen,
+denn er hat mir Gutes getan.
+
+> **Was bedeutet das?**
+> „Ich aber“: Mitten in der Not entscheidet sich der Beter, Gott zu vertrauen.
+> Er freut sich schon jetzt auf die Rettung, obwohl sie noch nicht da ist.
+> Vers 6: Er erinnert sich: Gott hat mir früher schon Gutes getan. Das gibt Hoffnung für die Zukunft.
+
+## Psalm 14
+#### Der Tor sagt: Es gibt keinen Gott
+
+---
+
+### Keiner tut Gutes (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Von David.
+Der Tor sagt in seinem Herzen: „Es gibt keinen Gott.“
+Sie sind verdorben. Sie haben abscheuliche Taten verübt.
+Es gibt keinen, der Gutes tut.
+<sup>2</sup>Der HERR schaute vom Himmel herab auf die Menschenkinder,
+um zu sehen, ob einer verständig ist,
+ob einer nach Gott fragt.
+<sup>3</sup>Sie sind alle abgewichen.
+Sie sind alle zusammen verdorben.
+Es gibt keinen, der Gutes tut, auch nicht einen.
+
+> **Was bedeutet das?**
+> „Der Tor“ ist in der Bibel nicht einfach ein dummer Mensch. Es ist jemand, der so lebt, als ob es Gott nicht gibt. Er denkt nicht unbedingt philosophisch darüber nach. Er lebt einfach, als müsste er sich vor niemandem verantworten.
+> Gott schaut vom Himmel, ob er einen findet, der nach ihm fragt. Und er findet keinen.
+> Paulus zitiert Vers 1–3 in Römer 3,10–12: „Da ist keiner, der gerecht ist, auch nicht einer.“ Er zeigt damit: Alle Menschen brauchen Gottes Gnade.
+> Psalm 14 kommt fast genauso noch einmal als Psalm 53 vor.
+
+---
+
+### Gott ist bei den Gerechten (Vers 4–7)
+
+<sup>4</sup>Haben alle, die Unrecht tun, keine Einsicht,
+die mein Volk fressen, wie man Brot isst,
+und den HERRN nicht anrufen?
+<sup>5</sup>Dort gerieten sie in große Furcht,
+denn Gott ist bei der Generation der Gerechten.
+<sup>6</sup>Ihr vereitelt den Plan des Armen,
+aber der HERR ist seine Zuflucht.
+<sup>7</sup>Ach, käme doch aus Zion die Rettung für Israel!
+Wenn der HERR das Geschick seines Volkes wendet,
+dann wird Jakob jubeln und Israel sich freuen.
+
+> **Was bedeutet das?**
+> Vers 4: Die Bösen „fressen“ Gottes Volk so selbstverständlich, wie man Brot isst. Sie beuten die Schwachen aus, ohne nachzudenken.
+> Aber dann bekommen sie Angst, denn Gott steht auf der Seite der Gerechten und Armen.
+> Vers 6: Die Mächtigen können die Pläne der Armen durchkreuzen, aber Gott ist ihre Zuflucht.
+> Vers 7: Eine Sehnsucht: Gott möge kommen und sein Volk retten. „Jakob“ und „Israel“ sind zwei Namen für dasselbe Volk.
+
+## Psalm 15
+#### Wer darf bei Gott wohnen?
+
+---
+
+### Die Frage (Vers 1)
+
+<sup>1</sup>Ein Psalm von David.
+HERR, wer darf in deinem Heiligtum wohnen?
+Wer darf auf deinem heiligen Berg leben?
+
+> **Was bedeutet das?**
+> Wer zum Tempel auf dem Berg Zion kam, fragte vielleicht am Eingang: Wer darf hier hinein? Wer darf in Gottes Nähe sein?
+> Die Antwort in den folgenden Versen ist überraschend: Es geht nicht um Opfer oder Rituale, sondern um das Verhalten gegenüber anderen Menschen.
+
+---
+
+### Die Antwort (Vers 2–5)
+
+<sup>2</sup>Wer ohne Tadel lebt und tut, was recht ist,
+und in seinem Herzen die Wahrheit redet,
+<sup>3</sup>wer mit seiner Zunge nicht verleumdet,
+seinem Freund nichts Böses tut
+und seinen Mitmenschen nicht beschimpft,
+<sup>4</sup>in dessen Augen ein gemeiner Mensch verachtet ist,
+der aber die ehrt, die den HERRN fürchten,
+wer einen Eid hält, auch wenn es ihm schadet,
+und ihn nicht ändert,
+<sup>5</sup>wer sein Geld nicht gegen Wucherzinsen verleiht
+und keine Bestechung gegen den Unschuldigen annimmt.
+Wer das tut, wird niemals wanken.
+
+> **Was bedeutet das?**
+> Der Psalm nennt etwa zehn Eigenschaften, ähnlich wie die Zehn Gebote:
+> – ehrlich leben und das Rechte tun,
+> – die Wahrheit sagen, auch im Herzen,
+> – nicht über andere lästern,
+> – Freunden nichts Böses tun,
+> – Böses nicht bewundern, sondern die ehren, die Gott ehren,
+> – Versprechen halten, auch wenn es Nachteile bringt,
+> – keine Wucherzinsen nehmen (Israeliten sollten einander in Not ohne Zinsen helfen, vgl. 2. Mose 22,24),
+> – sich nicht bestechen lassen.
+> „In seinem Herzen die Wahrheit reden“: Ehrlichkeit beginnt innen, nicht erst bei den Worten.
+> Der Schluss ist ein Versprechen: Wer so lebt, steht fest.
+
+## Psalm 16
+#### Du zeigst mir den Weg zum Leben
+
+---
+
+### Du bist mein Herr (Vers 1–4)
+
+<sup>1</sup>Ein Gedicht von David.
+Bewahre mich, Gott, denn bei dir suche ich Zuflucht.
+<sup>2</sup>Meine Seele, du hast zum HERRN gesagt:
+„Du bist mein Herr.
+Außer dir habe ich nichts Gutes.“
+<sup>3</sup>Die Heiligen, die auf der Erde sind,
+sie sind die Herrlichen, an denen ich all meine Freude habe.
+<sup>4</sup>Die Schmerzen derer, die einem anderen Gott Gaben bringen, werden sich vermehren.
+Ihre Trankopfer aus Blut will ich nicht darbringen,
+und ihre Namen nicht auf meine Lippen nehmen.
+
+> **Was bedeutet das?**
+> „Gedicht“: Im Hebräischen steht „Miktam“. Die genaue Bedeutung ist unbekannt. Manche denken an „goldenes Lied“ oder „Inschrift“.
+> Vers 2 ist ein starkes Bekenntnis: Gott ist das höchste Gut. Ohne ihn ist alles andere nichts wert.
+> Vers 3: Der Beter freut sich an der Gemeinschaft mit anderen Menschen, die Gott lieben.
+> Vers 4: Er will nichts mit fremden Göttern zu tun haben, nicht einmal ihre Namen aussprechen.
+
+---
+
+### Mein schönes Erbe (Vers 5–8)
+
+<sup>5</sup>Der HERR hat mir meinen Anteil und meinen Becher zugeteilt.
+Du hast mein Los sicher gemacht.
+<sup>6</sup>Die Messschnüre sind mir auf liebliches Land gefallen.
+Ja, ich habe ein schönes Erbe.
+<sup>7</sup>Ich will den HERRN loben, der mir Rat gegeben hat.
+Ja, mein Herz unterweist mich in den Nächten.
+<sup>8</sup>Ich habe den HERRN immer vor Augen.
+Weil er an meiner rechten Seite ist, werde ich nicht wanken.
+
+> **Was bedeutet das?**
+> Als Israel ins Land kam, wurde das Land mit Messschnüren und durch das Los verteilt. Nur die Priester und Leviten bekamen kein Land. Gott selbst war ihr Erbe (4. Mose 18,20).
+> Der Beter sagt: Gott ist mein Anteil. Das ist das schönste Erbe, das es gibt.
+> Vers 8: „Ich habe den HERRN immer vor Augen.“ Wer an Gott denkt, findet festen Halt. Gott ist an meiner rechten Seite wie ein Beschützer.
+
+---
+
+### Du lässt mich nicht im Tod (Vers 9–11)
+
+<sup>9</sup>Darum freut sich mein Herz, und meine Zunge jubelt.
+Auch mein Leib wird sicher wohnen.
+<sup>10</sup>Denn du wirst meine Seele nicht im Totenreich lassen,
+und du wirst nicht zulassen, dass dein Heiliger die Verwesung sieht.
+<sup>11</sup>Du wirst mir den Weg des Lebens zeigen.
+Vor deinem Angesicht ist Freude in Fülle.
+In deiner rechten Hand sind Freuden für immer.
+
+> **Was bedeutet das?**
+> Hier spricht ein großes Vertrauen über den Tod hinaus: Gott wird mich nicht im Totenreich lassen. Die Gemeinschaft mit Gott ist stärker als der Tod.
+> Vers 11 ist einer der schönsten Verse der Bibel: Bei Gott ist „Freude in Fülle“ und „Freude für immer“.
+> Im Neuen Testament wird Vers 8–11 auf die Auferstehung von Jesus bezogen. Petrus zitiert ihn in seiner Pfingstpredigt (Apostelgeschichte 2,25–31), Paulus in Apostelgeschichte 13,35. Sie sagen: David ist gestorben und verwest. Aber Jesus ist auferstanden. Er ist „der Heilige“, der die Verwesung nicht gesehen hat.
+> Jüdische Ausleger verstehen den Psalm als Ausdruck des Vertrauens, dass Gott den Frommen vor dem Tod bewahrt und ihm das Leben schenkt.
