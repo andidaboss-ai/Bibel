@@ -87431,3 +87431,462 @@ und Kummer und Seufzen werden fliehen.
 > Vers 10: Einer der schönsten Verse der Bibel: Die Befreiten kommen singend nach Hause, mit ewiger Freude wie eine Krone auf dem Kopf. Kummer und Seufzen fliehen davon.
 > Johannes Brahms hat diesen Vers im „Deutschen Requiem“ vertont.
 > Damit endet der erste große Teil des Buches Jesaja. Es folgen vier Kapitel mit Geschichten über König Hiskia (Kapitel 36–39).
+
+## Jesaja – Kapitel 36
+#### Der Rabschake droht Jerusalem
+
+---
+
+### Auf wen vertraust du? (Vers 1–10)
+
+<sup>1</sup>Im vierzehnten Jahr des Königs Hiskia
+zog Sanherib, der König von Assyrien, gegen alle befestigten Städte Judas
+und eroberte sie.
+<sup>2</sup>Der König von Assyrien sandte den Rabschake von Lachisch nach Jerusalem
+zu König Hiskia mit einem großen Heer.
+Er stellte sich an die Wasserleitung des oberen Teiches,
+an der Straße zum Feld des Walkers.
+<sup>3</sup>Da kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
+und Schebna, der Schreiber,
+und Joach, der Sohn Asafs, der Kanzler, zu ihm heraus.
+<sup>4</sup>Der Rabschake sagte zu ihnen:
+„Sagt doch zu Hiskia: ‚So spricht der große König, der König von Assyrien:
+„Was ist das für eine Zuversicht, auf die du vertraust?
+<sup>5</sup>Ich sage: Dein Rat und deine Stärke für den Krieg sind nur leere Worte.
+Auf wen vertraust du denn, dass du dich gegen mich aufgelehnt hast?
+<sup>6</sup>Siehe, du vertraust auf den Stab dieses geknickten Schilfrohrs,
+auf Ägypten.
+Wenn sich jemand darauf stützt,
+dringt es ihm in die Hand und durchbohrt sie.
+So ist der Pharao, der König von Ägypten, für alle, die auf ihn vertrauen.
+<sup>7</sup>Wenn du aber zu mir sagst: ‚Wir vertrauen auf den HERRN, unseren Gott‘,
+ist das nicht der, dessen Kulthöhen und Altäre Hiskia entfernt hat,
+und der zu Juda und Jerusalem gesagt hat:
+‚Vor diesem Altar sollt ihr anbeten‘?“
+<sup>8</sup>Nun also, schließ doch eine Wette mit meinem Herrn, dem König von Assyrien:
+Ich will dir zweitausend Pferde geben,
+wenn du auf deiner Seite Reiter dafür stellen kannst.
+<sup>9</sup>Wie willst du dann auch nur einen einzigen Hauptmann
+von den geringsten Dienern meines Herrn zurückschlagen?
+Und du vertraust auf Ägypten wegen Streitwagen und Reitern!
+<sup>10</sup>Bin ich etwa ohne den HERRN gegen dieses Land heraufgezogen,
+um es zu verderben?
+Der HERR hat zu mir gesagt:
+‚Zieh hinauf gegen dieses Land und verdirb es!‘“‘“
+
+> **Was bedeutet das?**
+> Kapitel 36–39 erzählen Geschichten aus der Zeit von König Hiskia. Fast genau dieselben Geschichten stehen auch in 2. Könige 18–20.
+> Im Jahr 701 vor Christus zieht der assyrische König Sanherib mit einem riesigen Heer nach Juda. Er erobert 46 befestigte Städte. Das berichtet auch eine assyrische Inschrift, das sogenannte „Sanherib-Prisma“. Nur Jerusalem ist noch übrig.
+> „Rabschake“ ist ein Titel, etwa „oberster Mundschenk“, ein hoher Beamter.
+> Er stellt sich genau an die Stelle, wo Jesaja einst König Ahas zum Vertrauen aufgerufen hatte (Kapitel 7,3).
+> Seine Rede ist geschickte Kriegspropaganda: Ägypten ist ein geknicktes Rohr, das dich verletzt. Und euer Gott? Hiskia hat doch seine Altäre abgerissen! (Hiskia hatte die vielen Kultorte geschlossen und den Gottesdienst in Jerusalem gesammelt.) Er behauptet sogar, Gott selbst habe ihn geschickt.
+
+---
+
+### Die Rede an das Volk auf der Mauer (Vers 11–22)
+
+<sup>11</sup>Da sagten Eljakim, Schebna und Joach zum Rabschake:
+„Rede doch zu deinen Dienern auf Aramäisch, denn wir verstehen es.
+Rede nicht mit uns auf Hebräisch
+vor den Ohren des Volkes, das auf der Mauer ist.“
+<sup>12</sup>Aber der Rabschake sagte:
+„Hat mich mein Herr nur zu deinem Herrn und zu dir gesandt,
+um diese Worte zu reden,
+und nicht zu den Männern, die auf der Mauer sitzen,
+die mit euch ihren eigenen Kot essen
+und ihren eigenen Urin trinken werden?“
+<sup>13</sup>Dann stellte sich der Rabschake hin
+und rief mit lauter Stimme auf Hebräisch und sagte:
+„Hört die Worte des großen Königs, des Königs von Assyrien!
+<sup>14</sup>So spricht der König:
+‚Lasst euch nicht von Hiskia täuschen,
+denn er wird euch nicht retten können.
+<sup>15</sup>Lasst euch von Hiskia nicht dazu bringen, auf den HERRN zu vertrauen,
+wenn er sagt: „Der HERR wird uns gewiss retten.
+Diese Stadt wird nicht in die Hand des Königs von Assyrien gegeben werden.“‘
+<sup>16</sup>Hört nicht auf Hiskia,
+denn so spricht der König von Assyrien:
+‚Schließt Frieden mit mir und kommt zu mir heraus.
+Dann soll jeder von seinem Weinstock essen
+und jeder von seinem Feigenbaum,
+und jeder soll das Wasser aus seiner eigenen Zisterne trinken,
+<sup>17</sup>bis ich komme und euch in ein Land wegführe, das wie euer Land ist,
+ein Land voll Getreide und Most,
+ein Land voll Brot und Weinbergen.
+<sup>18</sup>Hütet euch, dass Hiskia euch nicht verführt,
+wenn er sagt: „Der HERR wird uns retten.“
+Haben etwa die Götter der Völker
+ihr Land aus der Hand des Königs von Assyrien gerettet?
+<sup>19</sup>Wo sind die Götter von Hamat und Arpad?
+Wo sind die Götter von Sefarwajim?
+Haben sie Samaria aus meiner Hand gerettet?
+<sup>20</sup>Wer von allen Göttern dieser Länder
+hat sein Land aus meiner Hand gerettet,
+dass der HERR Jerusalem aus meiner Hand retten sollte?‘“
+<sup>21</sup>Aber sie schwiegen und antworteten ihm kein Wort,
+denn der König hatte befohlen: „Antwortet ihm nicht!“
+<sup>22</sup>Da kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
+und Schebna, der Schreiber,
+und Joach, der Sohn Asafs, der Kanzler,
+mit zerrissenen Kleidern zu Hiskia
+und berichteten ihm die Worte des Rabschake.
+
+> **Was bedeutet das?**
+> Vers 11: Aramäisch war damals die Sprache der Diplomaten. Die Beamten Hiskias wollen nicht, dass das einfache Volk auf der Mauer alles versteht und Angst bekommt.
+> Vers 12–13: Aber genau das will der Rabschake. Er spricht absichtlich auf Hebräisch zum Volk. Er droht mit Hungersnot durch die Belagerung.
+> Vers 16–17: Er lockt mit Versprechen: Ergebt euch, dann habt ihr es gut. Aber am Ende will er sie doch deportieren.
+> Vers 18–20: Sein größter Fehler: Er vergleicht den Gott Israels mit den Götzen anderer Völker. Damit beleidigt er Gott selbst.
+> Vers 21: Das Volk schweigt klug, wie der König befohlen hatte.
+> Vers 22: Zerrissene Kleider waren ein Zeichen großer Not und Trauer.
+
+## Jesaja – Kapitel 37
+#### Hiskias Gebet und die Rettung Jerusalems
+
+---
+
+### Hiskia schickt zu Jesaja (Vers 1–7)
+
+<sup>1</sup>Als König Hiskia das hörte, zerriss er seine Kleider,
+hüllte sich in Sackleinen
+und ging in das Haus des HERRN.
+<sup>2</sup>Er sandte Eljakim, der über den Palast gesetzt war,
+und Schebna, den Schreiber,
+und die Ältesten der Priester, in Sackleinen gehüllt,
+zum Propheten Jesaja, dem Sohn von Amoz.
+<sup>3</sup>Sie sagten zu ihm:
+„So spricht Hiskia:
+‚Heute ist ein Tag der Not, der Zurechtweisung und der Schmach,
+denn die Kinder sind bis an den Muttermund gekommen,
+aber es ist keine Kraft da, um sie zu gebären.
+<sup>4</sup>Vielleicht hört der HERR, dein Gott, die Worte des Rabschake,
+den sein Herr, der König von Assyrien, gesandt hat,
+um den lebendigen Gott zu verhöhnen,
+und straft die Worte, die der HERR, dein Gott, gehört hat.
+Darum erhebe dein Gebet für den Rest, der noch übrig ist.‘“
+<sup>5</sup>So kamen die Diener des Königs Hiskia zu Jesaja.
+<sup>6</sup>Jesaja sagte zu ihnen:
+„Sagt zu eurem Herrn:
+‚So spricht der HERR:
+„Fürchte dich nicht vor den Worten, die du gehört hast,
+mit denen die Diener des Königs von Assyrien mich gelästert haben.
+<sup>7</sup>Siehe, ich gebe ihm einen Geist ein,
+und er wird eine Nachricht hören
+und in sein eigenes Land zurückkehren.
+Ich werde ihn in seinem eigenen Land durch das Schwert fallen lassen.“‘“
+
+> **Was bedeutet das?**
+> Hiskia reagiert ganz anders als sein Vater Ahas (Kapitel 7). Statt auf Bündnisse zu setzen, geht er in den Tempel und bittet Jesaja um Gebet.
+> Vers 3: Ein eindrückliches Bild: wie eine Geburt, bei der die Mutter keine Kraft mehr hat. Die Lage scheint ausweglos.
+> Vers 6: Gottes Antwort durch Jesaja: „Fürchte dich nicht!“
+
+---
+
+### Ein Drohbrief (Vers 8–13)
+
+<sup>8</sup>Der Rabschake kehrte zurück
+und fand den König von Assyrien im Kampf gegen Libna,
+denn er hatte gehört, dass er von Lachisch aufgebrochen war.
+<sup>9</sup>Er hörte die Nachricht über Tirhaka, den König von Kusch:
+„Er ist ausgezogen, um gegen dich zu kämpfen.“
+Als er das hörte, sandte er Boten zu Hiskia und sagte:
+<sup>10</sup>„So sollt ihr zu Hiskia, dem König von Juda, sagen:
+‚Lass dich nicht von deinem Gott täuschen, auf den du vertraust,
+wenn er sagt: „Jerusalem wird nicht in die Hand des Königs von Assyrien gegeben werden.“
+<sup>11</sup>Siehe, du hast gehört, was die Könige von Assyrien
+mit allen Ländern gemacht haben,
+indem sie sie völlig vernichtet haben.
+Und du solltest gerettet werden?
+<sup>12</sup>Haben die Götter der Völker sie gerettet,
+die meine Väter vernichtet haben:
+Gosan, Haran, Rezef und die Söhne Edens, die in Telassar waren?
+<sup>13</sup>Wo ist der König von Hamat und der König von Arpad
+und der König der Stadt Sefarwajim, von Hena und Iwa?‘“
+
+> **Was bedeutet das?**
+> Sanherib muss gegen ein Heer aus Kusch und Ägypten kämpfen, das unter König Tirhaka anrückt. Die englische Vorlage schreibt „Äthiopien“. Darum schickt er einen Drohbrief nach Jerusalem: Glaub ja nicht, dass dein Gott dich retten kann!
+> Er zählt die vielen Städte und Könige auf, die Assyrien schon besiegt hat. Er will Hiskia einschüchtern.
+
+---
+
+### Hiskias Gebet (Vers 14–20)
+
+<sup>14</sup>Hiskia nahm den Brief aus der Hand der Boten und las ihn.
+Dann ging Hiskia hinauf in das Haus des HERRN
+und breitete ihn vor dem HERRN aus.
+<sup>15</sup>Hiskia betete zum HERRN und sagte:
+<sup>16</sup>„HERR der Heere, Gott Israels,
+der du über den Keruben thronst,
+du allein bist Gott über alle Königreiche der Erde.
+Du hast den Himmel und die Erde gemacht.
+<sup>17</sup>Neige dein Ohr, HERR, und höre!
+Öffne deine Augen, HERR, und sieh!
+Höre alle Worte Sanheribs,
+der gesandt hat, um den lebendigen Gott zu verhöhnen.
+<sup>18</sup>Es ist wahr, HERR,
+die Könige von Assyrien haben alle Länder und ihr Gebiet verwüstet
+<sup>19</sup>und ihre Götter ins Feuer geworfen,
+denn sie waren keine Götter,
+sondern das Werk von Menschenhänden, Holz und Stein.
+Darum haben sie sie vernichtet.
+<sup>20</sup>Nun also, HERR, unser Gott, rette uns aus seiner Hand,
+damit alle Königreiche der Erde erkennen,
+dass du der HERR bist, du allein.“
+
+> **Was bedeutet das?**
+> Vers 14: Ein bewegendes Bild: Hiskia nimmt den Drohbrief und legt ihn im Tempel vor Gott hin. Er sagt damit: Gott, sieh dir das an! Das ist ein Vorbild für das Gebet: Man darf seine Sorgen, sogar einen Brief, ganz konkret vor Gott „ausbreiten“.
+> Vers 16–20: Hiskia gibt zu, dass Assyrien viele Länder besiegt hat. Aber die Götter dieser Länder waren nur Holz und Stein. Der Gott Israels ist der lebendige Gott, der Schöpfer.
+> Vers 20: Hiskia bittet nicht nur um seine eigene Rettung, sondern darum, dass alle Völker Gott erkennen.
+
+---
+
+### Gottes Antwort auf Sanheribs Hochmut (Vers 21–35)
+
+<sup>21</sup>Da sandte Jesaja, der Sohn von Amoz, zu Hiskia und ließ ihm sagen:
+„So spricht der HERR, der Gott Israels:
+‚Weil du zu mir gebetet hast wegen Sanherib, des Königs von Assyrien,
+<sup>22</sup>ist dies das Wort, das der HERR über ihn gesprochen hat:
+Die Jungfrau, die Tochter Zion, verachtet dich und spottet über dich.
+Die Tochter Jerusalem schüttelt den Kopf hinter dir.
+<sup>23</sup>Wen hast du verhöhnt und gelästert?
+Gegen wen hast du deine Stimme erhoben
+und deine Augen hochmütig erhoben?
+Gegen den Heiligen Israels!
+<sup>24</sup>Durch deine Diener hast du den Herrn verhöhnt
+und hast gesagt:
+„Mit der Menge meiner Streitwagen bin ich auf die Höhe der Berge gestiegen,
+in das Innerste des Libanon.
+Ich werde seine hohen Zedern umhauen
+und seine besten Zypressen.
+Ich werde in seine äußerste Höhe eindringen,
+in den Wald seines Fruchtgartens.
+<sup>25</sup>Ich habe gegraben und Wasser getrunken,
+und mit meinen Fußsohlen werde ich alle Ströme Ägyptens austrocknen.“
+<sup>26</sup>Hast du nicht gehört, dass ich es längst getan habe
+und es in alten Zeiten geplant habe?
+Jetzt habe ich es geschehen lassen,
+dass du befestigte Städte zerstören
+und zu Trümmerhaufen machen konntest.
+<sup>27</sup>Darum hatten ihre Bewohner wenig Kraft.
+Sie waren bestürzt und beschämt.
+Sie waren wie das Gras auf dem Feld und wie das grüne Kraut,
+wie das Gras auf den Dächern
+und wie ein Feld, bevor das Getreide aufgeht.
+<sup>28</sup>Aber ich kenne dein Sitzen,
+dein Ausgehen und dein Hereinkommen
+und dein Toben gegen mich.
+<sup>29</sup>Weil du gegen mich tobst
+und dein Übermut mir zu Ohren gekommen ist,
+darum lege ich meinen Haken in deine Nase
+und meinen Zaum in deine Lippen,
+und ich führe dich auf dem Weg zurück, auf dem du gekommen bist.
+<sup>30</sup>Und das soll dir ein Zeichen sein:
+In diesem Jahr werdet ihr essen, was von selbst wächst,
+und im zweiten Jahr, was daraus aufsprosst.
+Aber im dritten Jahr sät und erntet,
+pflanzt Weinberge und esst ihre Frucht.
+<sup>31</sup>Der Rest des Hauses Juda, der entronnen ist,
+wird wieder nach unten Wurzeln schlagen
+und nach oben Frucht tragen.
+<sup>32</sup>Denn von Jerusalem wird ein Rest ausgehen
+und vom Berg Zion Entronnene.
+Der Eifer des HERRN der Heere wird das tun.‘
+<sup>33</sup>Darum spricht der HERR über den König von Assyrien:
+‚Er wird nicht in diese Stadt kommen
+und keinen Pfeil dorthin schießen.
+Er wird nicht mit einem Schild vor sie treten
+und keinen Wall gegen sie aufschütten.
+<sup>34</sup>Auf dem Weg, auf dem er gekommen ist, wird er zurückkehren,
+und in diese Stadt wird er nicht kommen‘,
+spricht der HERR.
+<sup>35</sup>‚Denn ich werde diese Stadt beschützen, um sie zu retten,
+um meinetwillen und um meines Knechtes David willen.‘“
+
+> **Was bedeutet das?**
+> Vers 22: Jerusalem wird als junge Frau dargestellt, die über den prahlenden Sanherib den Kopf schüttelt und lacht.
+> Vers 24–25: Sanherib prahlt: Ich habe die höchsten Berge erobert, ich trockne sogar die Flüsse Ägyptens aus!
+> Vers 26–27: Gottes Antwort: Das hast du alles nur geschafft, weil ich es zugelassen habe. Du bist nur ein Werkzeug.
+> Vers 29: Ein demütigendes Bild: Gott legt Sanherib einen Haken in die Nase wie einem Tier und führt ihn zurück. Die Assyrer selbst führten Gefangene oft so ab.
+> Vers 30–32: Ein Zeichen für Hiskia: Zwei Jahre lang essen sie, was von allein wächst, im dritten Jahr wird wieder normal gesät. Der Rest Judas wird wieder Wurzeln schlagen und Früchte tragen.
+> Vers 33–35: Sanherib wird keinen einzigen Pfeil auf Jerusalem schießen.
+
+---
+
+### Die Rettung Jerusalems (Vers 36–38)
+
+<sup>36</sup>Da zog der Engel des HERRN aus
+und schlug im Lager der Assyrer hundertfünfundachtzigtausend Mann.
+Als man am frühen Morgen aufstand,
+siehe, da waren sie alle Leichen.
+<sup>37</sup>Da brach Sanherib, der König von Assyrien, auf,
+zog weg und kehrte nach Ninive zurück und blieb dort.
+<sup>38</sup>Als er im Haus seines Gottes Nisroch anbetete,
+erschlugen ihn seine Söhne Adrammelech und Sarezer mit dem Schwert.
+Sie flohen in das Land Ararat.
+Und sein Sohn Asarhaddon wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Vers 36: In einer einzigen Nacht stirbt ein großer Teil des assyrischen Heeres. Die Bibel sagt: Der Engel des HERRN hat sie geschlagen. Manche denken an eine Seuche im Lager. Der griechische Geschichtsschreiber Herodot erzählt von einem plötzlichen Unglück im assyrischen Heer in Ägypten. Die Bibel sieht darin Gottes Eingreifen.
+> Die assyrischen Inschriften berichten, dass Sanherib Hiskia „wie einen Vogel im Käfig“ in Jerusalem eingeschlossen habe. Von einer Eroberung Jerusalems berichten sie nicht. Jerusalem wurde nicht eingenommen.
+> Vers 38: Etwa 20 Jahre später wurde Sanherib von zwei seiner Söhne ermordet, ausgerechnet beim Gebet zu seinem Gott. Das berichten auch assyrische Quellen. Jesajas Ankündigung (Vers 7) hat sich erfüllt.
+> Die Geschichte zeigt: Gott hält, was er verspricht. Wer ihm vertraut, wird nicht enttäuscht.
+
+## Jesaja – Kapitel 38
+#### Hiskias Krankheit und Heilung
+
+---
+
+### Bestelle dein Haus (Vers 1–8)
+
+<sup>1</sup>In jenen Tagen wurde Hiskia todkrank.
+Der Prophet Jesaja, der Sohn von Amoz, kam zu ihm
+und sagte zu ihm:
+„So spricht der HERR:
+‚Bestelle dein Haus, denn du wirst sterben und nicht leben bleiben.‘“
+<sup>2</sup>Da wandte Hiskia sein Gesicht zur Wand
+und betete zum HERRN
+<sup>3</sup>und sagte:
+„Ach, HERR, denk doch daran,
+wie ich vor dir in Treue und mit ungeteiltem Herzen gelebt habe
+und getan habe, was gut ist in deinen Augen.“
+Und Hiskia weinte bitterlich.
+<sup>4</sup>Da kam das Wort des HERRN zu Jesaja und sagte:
+<sup>5</sup>„Geh und sag zu Hiskia:
+‚So spricht der HERR, der Gott deines Vaters David:
+„Ich habe dein Gebet gehört.
+Ich habe deine Tränen gesehen.
+Siehe, ich füge deinem Leben fünfzehn Jahre hinzu.
+<sup>6</sup>Ich werde dich und diese Stadt aus der Hand des Königs von Assyrien retten,
+und ich werde diese Stadt beschützen.
+<sup>7</sup>Und das soll dir ein Zeichen vom HERRN sein,
+dass der HERR tun wird, was er gesagt hat:
+<sup>8</sup>Siehe, ich lasse den Schatten auf der Sonnenuhr des Ahas,
+der mit der Sonne hinabgegangen ist,
+zehn Stufen zurückgehen.“‘“
+Da ging die Sonne zehn Stufen auf der Sonnenuhr zurück,
+die sie hinabgegangen war.
+
+> **Was bedeutet das?**
+> Hiskia wird schwer krank. Jesaja sagt ihm: Du wirst sterben. „Bestelle dein Haus“ heißt: Ordne deine Angelegenheiten, regle dein Erbe.
+> Vers 2–3: Hiskia dreht sich zur Wand, um allein mit Gott zu sein, und weint und betet.
+> Vers 5: Gott antwortet: „Ich habe dein Gebet gehört. Ich habe deine Tränen gesehen.“ Ein Satz voller Trost. Gott sieht jede Träne.
+> Vers 8: Die „Sonnenuhr“ war wohl eine Treppe, auf der der Schatten Stufe für Stufe weiterwanderte. Gott lässt den Schatten zurückgehen, als Zeichen, dass er Hiskia mehr Lebenszeit schenkt.
+> Nicht jedes Gebet um Heilung wird so erhört. Das ist eine schwere Erfahrung. Aber diese Geschichte zeigt: Gott hört zu, und Beten ist nicht sinnlos.
+
+---
+
+### Das Danklied Hiskias (Vers 9–20)
+
+<sup>9</sup>Die Aufzeichnung Hiskias, des Königs von Juda,
+als er krank gewesen und von seiner Krankheit genesen war:
+<sup>10</sup>Ich sagte: „In der Mitte meines Lebens
+muss ich durch die Tore des Totenreichs gehen.
+Mir wird der Rest meiner Jahre genommen.“
+<sup>11</sup>Ich sagte: „Ich werde Jah nicht mehr sehen,
+Jah im Land der Lebenden.
+Ich werde keinen Menschen mehr sehen
+bei den Bewohnern der Welt.
+<sup>12</sup>Meine Wohnung ist abgebrochen
+und von mir weggetragen wie ein Hirtenzelt.
+Ich habe mein Leben aufgerollt wie ein Weber.
+Er wird mich vom Webstuhl abschneiden.
+Vom Tag bis zur Nacht wirst du mit mir ein Ende machen.
+<sup>13</sup>Ich wartete geduldig bis zum Morgen.
+Wie ein Löwe zerbricht er alle meine Knochen.
+Vom Tag bis zur Nacht wirst du mit mir ein Ende machen.
+<sup>14</sup>Ich zwitscherte wie eine Schwalbe oder ein Kranich.
+Ich gurrte wie eine Taube.
+Meine Augen werden schwach vom Aufblicken.
+Herr, ich bin bedrängt. Sei du meine Sicherheit!“
+<sup>15</sup>Was soll ich sagen?
+Er hat zu mir gesprochen, und er hat es selbst getan.
+Ich will behutsam gehen alle meine Jahre
+wegen der Bitterkeit meiner Seele.
+<sup>16</sup>Herr, davon leben die Menschen,
+und in all dem findet mein Geist Leben.
+Du stellst mich wieder her und lässt mich leben.
+<sup>17</sup>Siehe, statt Frieden hatte ich große Bitterkeit,
+aber du hast in Liebe meine Seele
+aus der Grube des Verderbens gerettet,
+denn du hast alle meine Sünden hinter deinen Rücken geworfen.
+<sup>18</sup>Denn das Totenreich kann dich nicht loben.
+Der Tod kann dich nicht feiern.
+Die in die Grube hinabfahren,
+können nicht auf deine Treue hoffen.
+<sup>19</sup>Der Lebende, der Lebende, der lobt dich,
+wie ich es heute tue.
+Der Vater macht den Kindern deine Treue bekannt.
+<sup>20</sup>Der HERR wird mich retten.
+Darum wollen wir meine Lieder auf Saiteninstrumenten spielen
+alle Tage unseres Lebens im Haus des HERRN.
+
+> **Was bedeutet das?**
+> Nach seiner Heilung schreibt Hiskia ein Lied. Es beschreibt ehrlich seine Angst vor dem Tod:
+> Vers 10–12: Mitten im Leben muss ich sterben. Mein Leben wird abgebaut wie ein Zelt, abgeschnitten wie ein Stoff vom Webstuhl.
+> Vers 14: In seiner Schwäche konnte er nur noch leise piepsen wie ein kleiner Vogel.
+> Vers 17: „Du hast alle meine Sünden hinter deinen Rücken geworfen“: ein wunderschönes Bild für Vergebung. Gott schaut sie nicht mehr an.
+> Vers 18–19: Hiskia sagt: Nur die Lebenden können Gott loben. Darum ist er so froh, dass er weiterleben darf. Und er will seinen Kindern von Gottes Treue erzählen.
+
+---
+
+### Das Feigenpflaster (Vers 21–22)
+
+<sup>21</sup>Jesaja hatte nämlich gesagt:
+„Man soll einen Feigenkuchen nehmen
+und ihn als Pflaster auf das Geschwür legen,
+dann wird er gesund werden.“
+<sup>22</sup>Und Hiskia hatte gesagt:
+„Was ist das Zeichen dafür, dass ich in das Haus des HERRN hinaufgehen werde?“
+
+> **Was bedeutet das?**
+> Diese zwei Verse stehen etwas nachgetragen am Ende. In 2. Könige 20,7–8 stehen sie mitten in der Geschichte.
+> Interessant: Gott heilt durch das Gebet, aber Jesaja verordnet auch ein Heilmittel, ein Pflaster aus Feigen. Glaube und Medizin gehören zusammen. Wer krank ist, darf beten und zum Arzt gehen.
+
+## Jesaja – Kapitel 39
+#### Die Gesandten aus Babylon
+
+---
+
+### Hiskia zeigt alles (Vers 1–8)
+
+<sup>1</sup>Zu dieser Zeit sandte Merodach-Baladan, der Sohn Baladans, der König von Babel,
+Briefe und ein Geschenk an Hiskia,
+denn er hatte gehört, dass er krank gewesen und wieder gesund geworden war.
+<sup>2</sup>Hiskia freute sich über sie
+und zeigte ihnen sein Schatzhaus:
+das Silber, das Gold, die Gewürze und das kostbare Öl,
+sein ganzes Waffenhaus
+und alles, was sich in seinen Schätzen befand.
+Es gab nichts in seinem Haus und in seinem ganzen Herrschaftsbereich,
+was Hiskia ihnen nicht zeigte.
+<sup>3</sup>Da kam der Prophet Jesaja zum König Hiskia und fragte ihn:
+„Was haben diese Männer gesagt?
+Woher sind sie zu dir gekommen?“
+Hiskia sagte:
+„Sie sind aus einem fernen Land zu mir gekommen, aus Babel.“
+<sup>4</sup>Da fragte er:
+„Was haben sie in deinem Haus gesehen?“
+Hiskia antwortete:
+„Sie haben alles gesehen, was in meinem Haus ist.
+Es gibt nichts unter meinen Schätzen, das ich ihnen nicht gezeigt habe.“
+<sup>5</sup>Da sagte Jesaja zu Hiskia:
+„Höre das Wort des HERRN der Heere:
+<sup>6</sup>‚Siehe, es kommen Tage,
+da wird alles, was in deinem Haus ist,
+und was deine Väter bis heute gesammelt haben,
+nach Babel weggetragen werden.
+Nichts wird übrig bleiben‘, spricht der HERR.
+<sup>7</sup>‚Sie werden deine Söhne nehmen, die von dir abstammen werden,
+die du zeugen wirst,
+und sie werden Eunuchen im Palast des Königs von Babel sein.‘“
+<sup>8</sup>Da sagte Hiskia zu Jesaja:
+„Das Wort des HERRN, das du gesagt hast, ist gut.“
+Und er sagte weiter:
+„Denn in meinen Tagen wird Friede und Treue sein.“
+
+> **Was bedeutet das?**
+> Der König von Babel schickt eine Delegation zu Hiskia, angeblich um ihm zur Genesung zu gratulieren. In Wirklichkeit suchte Babel wohl Verbündete gegen Assyrien.
+> Vers 2: Hiskia ist geschmeichelt und zeigt den Fremden stolz seine ganzen Schätze und Waffen. Das war unklug. Er vertraute auf Bündnisse statt auf Gott, und er zeigte einer fremden Macht alle seine Reichtümer.
+> Vers 6–7: Jesaja kündigt an: Eines Tages wird Babel all das wegnehmen, und Nachkommen Hiskias werden als Eunuchen am Hof in Babel dienen. Das geschah etwa 100 Jahre später, als Nebukadnezar Jerusalem eroberte (2. Könige 24–25; Daniel 1,3).
+> „Eunuchen“: Das waren Diener und Beamte am Königshof, die oft entmannt wurden. Manchmal bezeichnet das Wort auch einfach hohe Hofbeamte.
+> Vers 8: Hiskias Antwort ist erschreckend: Er ist erleichtert, dass es erst nach seiner Zeit passiert. Hauptsache, zu meinen Lebzeiten ist Frieden. Eine sehr menschliche, aber egoistische Haltung.
+> Mit diesem Ausblick auf Babel endet der erste Teil des Buches Jesaja. Ab Kapitel 40 spricht Jesaja zu den Menschen, die im Exil in Babel leben: „Tröstet, tröstet mein Volk!“
