@@ -70298,3 +70298,306 @@ bevor ich gehe und nicht mehr bin.“
 > Vers 13: Ein erschütternder Schluss. Im Hebräischen steht wörtlich: „Schau weg von mir.“ Der Beter fühlt Gottes Blick wie eine Last, unter der er leidet. Er bittet um eine Atempause.
 > Psalm 39 gehört zu den dunkelsten Psalmen. Er zeigt: Auch solche Gebete haben Platz in der Bibel.
 > Wenn du dich gerade so fühlst, als ob du keine Kraft mehr hast und nicht mehr da sein willst: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
+
+## Psalm 40
+#### Er zog mich aus der Grube
+
+---
+
+### Ich wartete geduldig (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Ich habe geduldig auf den HERRN gewartet.
+Er wandte sich mir zu und hörte mein Schreien.
+<sup>2</sup>Er zog mich auch herauf aus der grausigen Grube,
+aus dem schlammigen Lehm.
+Er stellte meine Füße auf einen Felsen
+und gab mir einen festen Stand.
+<sup>3</sup>Er hat mir ein neues Lied in den Mund gelegt,
+ein Lob für unseren Gott.
+Viele werden es sehen und sich fürchten
+und auf den HERRN vertrauen.
+<sup>4</sup>Glücklich ist der Mann, der den HERRN zu seiner Zuversicht macht
+und sich nicht den Stolzen zuwendet
+und nicht denen, die sich der Lüge zuwenden.
+<sup>5</sup>Viele sind, HERR, mein Gott, die wunderbaren Werke, die du getan hast,
+und deine Gedanken, die du für uns hast.
+Man kann sie dir nicht aufzählen.
+Wenn ich davon erzählen und reden wollte,
+wären es mehr, als man zählen kann.
+
+> **Was bedeutet das?**
+> Der Beter erzählt von seiner Rettung. Er war wie in einer tiefen Grube voller Schlamm gefangen, aus der man allein nicht herauskommt. Damals benutzte man leere Zisternen manchmal als Gefängnis (vgl. Jeremia 38,6).
+> Gott zog ihn heraus und stellte ihn auf festen Felsen.
+> Das irische Lied „40“ der Band U2 beruht auf diesem Psalm.
+> Vers 5: Gottes gute Taten sind so viele, dass man sie gar nicht alle aufzählen kann.
+
+---
+
+### Deinen Willen tue ich gern (Vers 6–10)
+
+<sup>6</sup>Schlachtopfer und Speisopfer wolltest du nicht.
+Du hast mir die Ohren geöffnet.
+Brandopfer und Sündopfer hast du nicht verlangt.
+<sup>7</sup>Da sagte ich: „Schau, ich komme.
+In der Buchrolle steht über mich geschrieben.
+<sup>8</sup>Ich habe Freude daran, deinen Willen zu tun, mein Gott.
+Ja, dein Gesetz ist in meinem Herzen.“
+<sup>9</sup>Ich habe die frohe Botschaft von der Gerechtigkeit
+in der großen Versammlung verkündet.
+Schau, ich verschließe meine Lippen nicht, HERR, du weißt es.
+<sup>10</sup>Deine Gerechtigkeit habe ich nicht in meinem Herzen verborgen.
+Ich habe von deiner Treue und deiner Rettung erzählt.
+Ich habe deine Güte und deine Wahrheit
+vor der großen Versammlung nicht verschwiegen.
+
+> **Was bedeutet das?**
+> Vers 6–8: Gott will nicht in erster Linie Tieropfer. Er will ein Herz, das auf ihn hört und gerne seinen Willen tut (vgl. 1. Samuel 15,22; Hosea 6,6).
+> „Du hast mir die Ohren geöffnet“: wörtlich „gegraben“. Gott hat ihm Ohren gegeben, die hören und gehorchen. Die alte griechische Übersetzung hat hier: „einen Leib hast du mir bereitet“.
+> Der Hebräerbrief zitiert Vers 6–8 nach der griechischen Übersetzung und bezieht ihn auf Jesus: Jesus kam, um Gottes Willen zu tun und sich selbst zu opfern (Hebräer 10,5–10).
+> Vers 9–10: Wer Gottes Hilfe erfahren hat, soll nicht schweigen, sondern davon erzählen.
+
+---
+
+### Ich bin arm und elend (Vers 11–17)
+
+<sup>11</sup>Halte dein Erbarmen nicht von mir zurück, HERR!
+Deine Güte und deine Wahrheit sollen mich immer behüten.
+<sup>12</sup>Denn unzählige Übel haben mich umgeben.
+Meine Sünden haben mich eingeholt,
+sodass ich nicht aufsehen kann.
+Sie sind zahlreicher als die Haare auf meinem Kopf.
+Mein Herz hat mich verlassen.
+<sup>13</sup>Lass es dir gefallen, HERR, mich zu retten!
+Eile mir zu Hilfe, HERR!
+<sup>14</sup>Enttäuscht und beschämt sollen alle zusammen werden,
+die nach meinem Leben trachten, um es zu vernichten.
+Zurückweichen und zuschanden werden sollen,
+die sich an meinem Unglück freuen.
+<sup>15</sup>Erstarren sollen vor Scham,
+die zu mir sagen: „Haha! Haha!“
+<sup>16</sup>Alle, die dich suchen, sollen jubeln und sich freuen in dir.
+Die deine Rettung lieben, sollen immer sagen:
+„Groß ist der HERR!“
+<sup>17</sup>Ich aber bin arm und bedürftig.
+Der Herr möge an mich denken.
+Du bist meine Hilfe und mein Retter.
+Zögere nicht, mein Gott!
+
+> **Was bedeutet das?**
+> Nach dem Dank kommt eine neue Not. Das ist ehrlich: Das Leben besteht nicht nur aus einer einzigen Rettung. Es gibt immer wieder neue Schwierigkeiten.
+> Vers 12: Der Beter sieht seine eigene Schuld. Sie ist „zahlreicher als die Haare auf meinem Kopf“.
+> Vers 13–17 kommen fast genauso noch einmal als Psalm 70 vor.
+> Vers 17: „Ich bin arm und bedürftig“, aber „der Herr denkt an mich“. Auch wenn ich klein bin, vergisst Gott mich nicht.
+
+## Psalm 41
+#### Glücklich, wer an die Schwachen denkt
+
+---
+
+### Wer an die Armen denkt (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Glücklich ist, wer an den Armen denkt.
+Der HERR wird ihn retten am Tag des Unglücks.
+<sup>2</sup>Der HERR wird ihn bewahren und am Leben erhalten.
+Er wird glücklich gepriesen auf der Erde,
+und er wird ihn nicht dem Willen seiner Feinde ausliefern.
+<sup>3</sup>Der HERR wird ihn auf seinem Krankenbett stützen
+und ihn von seinem Krankenlager aufrichten.
+
+> **Was bedeutet das?**
+> Wer sich um Arme und Schwache kümmert, um den kümmert sich Gott, wenn er selbst in Not kommt.
+> Vers 3: Gott ist wie ein Krankenpfleger, der das Bett des Kranken bereitet und ihn wieder aufrichtet.
+> Jesus sagt: „Selig sind die Barmherzigen, denn sie werden Barmherzigkeit erlangen“ (Matthäus 5,7).
+
+---
+
+### Die Feinde warten auf meinen Tod (Vers 4–9)
+
+<sup>4</sup>Ich sagte: „HERR, sei mir gnädig!
+Heile meine Seele, denn ich habe gegen dich gesündigt.“
+<sup>5</sup>Meine Feinde reden Böses über mich:
+„Wann wird er sterben, und wann wird sein Name vergehen?“
+<sup>6</sup>Wenn einer kommt, um mich zu besuchen, redet er Falsches.
+Sein Herz sammelt Unheil.
+Wenn er hinausgeht, erzählt er es weiter.
+<sup>7</sup>Alle, die mich hassen, tuscheln miteinander gegen mich.
+Sie denken sich das Schlimmste für mich aus.
+<sup>8</sup>„Eine böse Krankheit“, sagen sie, „hat ihn befallen.
+Jetzt, wo er daliegt, wird er nicht mehr aufstehen.“
+<sup>9</sup>Ja, sogar mein vertrauter Freund, auf den ich mich verlassen habe,
+der mein Brot mit mir aß,
+hat seine Ferse gegen mich erhoben.
+
+> **Was bedeutet das?**
+> Der Beter ist schwer krank. Die Leute, die ihn besuchen, tun so, als hätten sie Mitleid. Aber draußen reden sie schlecht über ihn und warten auf seinen Tod.
+> Vers 9 ist besonders schmerzhaft: Sogar sein bester Freund hat ihn verraten. „Die Ferse erheben“: wie ein Pferd, das ausschlägt, oder wie jemand, der einen anderen tritt.
+> Jesus zitiert diesen Vers beim letzten Abendmahl über Judas, der ihn verraten wird (Johannes 13,18).
+
+---
+
+### Richte mich auf (Vers 10–12)
+
+<sup>10</sup>Du aber, HERR, sei mir gnädig und richte mich auf,
+damit ich es ihnen vergelte.
+<sup>11</sup>Daran erkenne ich, dass du Gefallen an mir hast:
+dass mein Feind nicht über mich triumphiert.
+<sup>12</sup>Mich aber hältst du fest in meiner Lauterkeit
+und stellst mich vor dein Angesicht für immer.
+
+> **Was bedeutet das?**
+> Vers 10: „Damit ich es ihnen vergelte“: Das klingt nach Rache. Wenn der Beter ein König ist, kann es auch heißen: damit ich als König für Recht sorge. Später lehrt die Bibel deutlich, Böses nicht mit Bösem zu vergelten (Römer 12,17–21).
+> Vers 12: Das Wichtigste ist, für immer vor Gottes Angesicht zu sein, in seiner Nähe.
+
+---
+
+### Lob zum Abschluss des ersten Buches (Vers 13)
+
+<sup>13</sup>Gepriesen sei der HERR, der Gott Israels,
+von Ewigkeit zu Ewigkeit!
+Amen und Amen.
+
+> **Was bedeutet das?**
+> Dieser Vers gehört nicht mehr zu Psalm 41 selbst. Er ist der Abschluss des ersten Buches der Psalmen (Psalm 1–41).
+> Jedes der fünf Psalmenbücher endet mit einem solchen Lobpreis (vgl. Psalm 72,18–19; 89,52; 106,48; 150).
+> „Amen“ heißt: „So ist es! So soll es sein!“ Es ist ein Wort der Zustimmung und des Vertrauens.
+
+## Psalm 42
+#### Wie der Hirsch nach frischem Wasser
+
+---
+
+### Zweites Buch der Psalmen
+
+> **Was bedeutet das?**
+> Mit Psalm 42 beginnt das zweite Buch der Psalmen (Psalm 42–72).
+> In diesem Teil wird Gott meistens „Gott“ (hebräisch „Elohim“) genannt und seltener „HERR“ (JHWH). Man nennt Psalm 42–83 deshalb auch den „elohistischen Psalter“.
+> Viele Psalmen dieses Teils stammen von den „Söhnen Korachs“. Das waren Leviten, die im Tempel als Sänger und Torhüter dienten (1. Chronik 9,19; 2. Chronik 20,19).
+
+---
+
+### Meine Seele dürstet nach Gott (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Lehrgedicht von den Söhnen Korachs.
+Wie der Hirsch lechzt nach Wasserbächen,
+so lechzt meine Seele nach dir, Gott.
+<sup>2</sup>Meine Seele dürstet nach Gott, nach dem lebendigen Gott.
+Wann darf ich kommen und vor Gottes Angesicht erscheinen?
+<sup>3</sup>Meine Tränen sind meine Speise geworden bei Tag und bei Nacht,
+während man mich ständig fragt: „Wo ist dein Gott?“
+<sup>4</sup>Daran denke ich und schütte meine Seele in mir aus:
+wie ich mit der Menge zog
+und sie zum Haus Gottes führte,
+mit lautem Jubel und Lob,
+eine feiernde Menge am Festtag.
+
+> **Was bedeutet das?**
+> Psalm 42 und 43 gehören zusammen. Sie haben denselben Kehrvers (42,5; 42,11; 43,5).
+> Vers 1 ist ein bekanntes Bild: Ein Hirsch in der Trockenzeit sucht verzweifelt nach Wasser. So sehnt sich der Beter nach Gott.
+> Er ist weit weg vom Tempel in Jerusalem, vielleicht im Exil oder in Gefangenschaft. Er kann nicht mehr zu den Festen gehen.
+> Vers 3: Er weint Tag und Nacht. Und die Leute spotten: „Wo ist denn dein Gott?“
+> Vers 4: Er erinnert sich an früher, als er fröhlich mit der Menge zum Tempel zog. Diese Erinnerung tut weh.
+
+---
+
+### Was bist du so bedrückt, meine Seele? (Vers 5)
+
+<sup>5</sup>Warum bist du so verzweifelt, meine Seele?
+Warum bist du so unruhig in mir?
+Hoffe auf Gott!
+Denn ich werde ihn noch loben
+für die rettende Hilfe seines Angesichts.
+
+> **Was bedeutet das?**
+> Das ist der Kehrvers. Der Beter redet mit sich selbst, mit seiner eigenen Seele. Er fragt: Warum bist du so niedergeschlagen?
+> Und dann ermutigt er sich selbst: Hoffe auf Gott! Es wird eine Zeit kommen, in der ich wieder loben kann.
+> Das ist eine wichtige Hilfe in der Traurigkeit: nicht nur auf die Gefühle hören, sondern zu sich selbst sprechen und sich an Gottes Treue erinnern.
+
+---
+
+### Alle deine Wellen gehen über mich (Vers 6–10)
+
+<sup>6</sup>Mein Gott, meine Seele ist verzweifelt in mir.
+Darum denke ich an dich vom Land des Jordan her,
+von den Höhen des Hermon, vom Berg Mizar.
+<sup>7</sup>Eine Tiefe ruft der anderen zu beim Tosen deiner Wasserfälle.
+Alle deine Wogen und Wellen sind über mich hinweggegangen.
+<sup>8</sup>Am Tag wird der HERR seine Güte entbieten,
+und in der Nacht wird sein Lied bei mir sein,
+ein Gebet zu dem Gott meines Lebens.
+<sup>9</sup>Ich will zu Gott, meinem Felsen, sagen:
+„Warum hast du mich vergessen?
+Warum muss ich trauernd umhergehen wegen der Bedrängnis durch den Feind?“
+<sup>10</sup>Wie ein Schwert in meinen Knochen verhöhnen mich meine Gegner,
+während sie mich ständig fragen: „Wo ist dein Gott?“
+
+> **Was bedeutet das?**
+> Vers 6: Der Beter ist im Norden des Landes, an den Quellen des Jordan am Berg Hermon. Dort gibt es viele Wasserfälle. Der Berg Mizar ist unbekannt.
+> Vers 7: Das Rauschen der Wasserfälle wird zum Bild für seine Not: Wie Wellen schlagen die Sorgen über ihm zusammen. Er fühlt sich wie am Ertrinken.
+> Vers 8: Mitten darin ein Lichtblick: Gott schenkt Güte am Tag und ein Lied in der Nacht.
+> Vers 9: Wieder die ehrliche Frage: „Warum hast du mich vergessen?“
+
+---
+
+### Noch einmal: Hoffe auf Gott (Vers 11)
+
+<sup>11</sup>Warum bist du so verzweifelt, meine Seele?
+Warum bist du so unruhig in mir?
+Hoffe auf Gott!
+Denn ich werde ihn noch loben,
+die rettende Hilfe meines Angesichts und meinen Gott.
+
+> **Was bedeutet das?**
+> Der Kehrvers kommt wieder. Der Beter kämpft mit seiner Traurigkeit, immer wieder. Es ist kein einmaliger Sieg, sondern ein Ringen.
+> Psalm 42 hilft vielen Menschen, die an Depressionen oder tiefer Traurigkeit leiden. Er zeigt: Auch gläubige Menschen kennen solche Zeiten. Man darf sie Gott sagen.
+> Wenn du dich so fühlst und keinen Ausweg siehst: Hol dir Hilfe. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Auch ein Arzt oder eine Ärztin kann helfen. Bei akuter Gefahr: Notruf 112.
+
+## Psalm 43
+#### Sende dein Licht und deine Wahrheit
+
+---
+
+### Verschaff mir Recht, Gott (Vers 1–2)
+
+<sup>1</sup>Verschaff mir Recht, Gott,
+und führe meine Sache gegen ein gottloses Volk!
+Ach, rette mich vor betrügerischen und bösen Menschen!
+<sup>2</sup>Denn du bist der Gott meiner Stärke.
+Warum hast du mich verstoßen?
+Warum muss ich trauernd umhergehen wegen der Bedrängnis durch den Feind?
+
+> **Was bedeutet das?**
+> Psalm 43 ist die Fortsetzung von Psalm 42. Er hat keine eigene Überschrift. In vielen alten Handschriften sind beide Psalmen ein einziger Psalm.
+> Der Beter wird von einem „gottlosen Volk“ bedrängt, vielleicht im fremden Land.
+> Vers 2 wiederholt fast genau Psalm 42,9.
+
+---
+
+### Sende dein Licht (Vers 3–4)
+
+<sup>3</sup>Ach, sende dein Licht und deine Wahrheit!
+Sie sollen mich leiten.
+Sie sollen mich zu deinem heiligen Berg bringen,
+zu deinen Wohnungen.
+<sup>4</sup>Dann will ich zum Altar Gottes gehen,
+zu Gott, meiner überströmenden Freude.
+Ich will dich loben mit der Harfe, Gott, mein Gott.
+
+> **Was bedeutet das?**
+> Jetzt kommt eine neue Bitte: Gott soll sein Licht und seine Wahrheit schicken, wie zwei Begleiter, die den Beter an der Hand nehmen und nach Hause zum Tempel führen.
+> Vers 4: „Gott, meine überströmende Freude“: Das ist das Ziel der Sehnsucht. Nicht nur der Tempel, sondern Gott selbst ist die größte Freude.
+
+---
+
+### Hoffe auf Gott (Vers 5)
+
+<sup>5</sup>Warum bist du so verzweifelt, meine Seele?
+Warum bist du so unruhig in mir?
+Hoffe auf Gott!
+Denn ich werde ihn noch loben:
+meinen Retter, meinen Helfer und meinen Gott.
+
+> **Was bedeutet das?**
+> Zum dritten Mal der Kehrvers. Psalm 42 und 43 enden nicht mit einer Lösung der Not, sondern mit der Hoffnung.
+> Die Traurigkeit ist noch da. Aber die Hoffnung ist stärker geworden. Am Anfang war es nur Sehnsucht. Jetzt ist es ein festes Vertrauen: Ich werde ihn noch loben.
