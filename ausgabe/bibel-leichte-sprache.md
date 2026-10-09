@@ -77663,7 +77663,7 @@ HERR, denk an David
 und an all seine Mühe,
 <sup>2</sup>wie er dem HERRN geschworen hat
 und dem Mächtigen Jakobs gelobt hat:
-<sup>3</sup>„Wirklich, ich will nicht in das Zelt meines Hauses gehen
+<sup>3</sup>„Wirklich, ich will nicht in das Gebäude meines Hauses gehen
 und nicht auf mein Bett steigen.
 <sup>4</sup>Ich will meinen Augen keinen Schlaf gönnen
 und meinen Augenlidern keinen Schlummer,
@@ -77693,11 +77693,11 @@ weise deinen Gesalbten nicht ab!
 
 <sup>11</sup>Der HERR hat David in Wahrheit geschworen.
 Er wird nicht davon abweichen:
-„Einen von deinen leiblichen Nachkommen
+„Die Frucht deines Leibes, einen deiner Nachkommen,
 will ich auf deinen Thron setzen.
-<sup>12</sup>Wenn deine Söhne meinen Bund halten
+<sup>12</sup>Wenn deine Kinder meinen Bund halten
 und mein Zeugnis, das ich sie lehren werde,
-dann sollen auch ihre Söhne
+dann sollen auch ihre Kinder
 für immer auf deinem Thron sitzen.“
 <sup>13</sup>Denn der HERR hat Zion erwählt.
 Er wollte es als seine Wohnung haben.
