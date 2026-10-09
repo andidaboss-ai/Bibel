@@ -70601,3 +70601,300 @@ meinen Retter, meinen Helfer und meinen Gott.
 > **Was bedeutet das?**
 > Zum dritten Mal der Kehrvers. Psalm 42 und 43 enden nicht mit einer Lösung der Not, sondern mit der Hoffnung.
 > Die Traurigkeit ist noch da. Aber die Hoffnung ist stärker geworden. Am Anfang war es nur Sehnsucht. Jetzt ist es ein festes Vertrauen: Ich werde ihn noch loben.
+
+## Psalm 44
+#### Warum schläfst du, Herr?
+
+---
+
+### Was du früher getan hast (Vers 1–8)
+
+<sup>1</sup>Für den Chorleiter. Von den Söhnen Korachs. Ein Lehrgedicht.
+Gott, wir haben es mit unseren Ohren gehört,
+unsere Väter haben uns erzählt,
+welches Werk du in ihren Tagen getan hast, in den alten Tagen.
+<sup>2</sup>Du hast mit deiner Hand Völker vertrieben,
+sie aber hast du eingepflanzt.
+Du hast Völker geplagt,
+sie aber hast du ausgebreitet.
+<sup>3</sup>Denn nicht mit ihrem eigenen Schwert haben sie das Land in Besitz genommen,
+und nicht ihr eigener Arm hat sie gerettet,
+sondern deine rechte Hand, dein Arm und das Licht deines Angesichts,
+weil du Gefallen an ihnen hattest.
+<sup>4</sup>Gott, du bist mein König.
+Befiehl Siege für Jakob!
+<sup>5</sup>Durch dich stoßen wir unsere Gegner nieder.
+Durch deinen Namen zertreten wir die, die sich gegen uns erheben.
+<sup>6</sup>Denn ich vertraue nicht auf meinen Bogen,
+und mein Schwert wird mich nicht retten.
+<sup>7</sup>Sondern du hast uns vor unseren Gegnern gerettet
+und die beschämt, die uns hassen.
+<sup>8</sup>Gottes rühmen wir uns den ganzen Tag.
+Deinem Namen wollen wir für immer danken.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 44 ist ein Klagelied des ganzen Volkes nach einer schweren Niederlage.
+> Er beginnt mit der Erinnerung: Früher hat Gott Israel geholfen. Er hat ihm das Land gegeben, nicht durch eigene Stärke, sondern durch seine Gnade.
+> Vers 6: Das Volk vertraut nicht auf Waffen, sondern auf Gott.
+> Der Ausdruck „Völker vertreiben“ beschreibt die Landnahme aus der Sicht Israels. Er ist kein Auftrag für heute, andere Völker zu vertreiben.
+
+---
+
+### Aber jetzt hast du uns verstoßen (Vers 9–16)
+
+<sup>9</sup>Aber jetzt hast du uns verstoßen und in Schande gebracht.
+Du ziehst nicht mehr mit unseren Heeren aus.
+<sup>10</sup>Du lässt uns vor dem Gegner zurückweichen.
+Die uns hassen, rauben für sich Beute.
+<sup>11</sup>Du hast uns wie Schafe zum Essen gemacht
+und hast uns unter die Völker zerstreut.
+<sup>12</sup>Du verkaufst dein Volk um nichts
+und hast an seinem Verkauf nichts gewonnen.
+<sup>13</sup>Du machst uns zum Spott bei unseren Nachbarn,
+zum Hohn und Gelächter für die um uns herum.
+<sup>14</sup>Du machst uns zum Sprichwort unter den Völkern,
+zum Kopfschütteln unter den Nationen.
+<sup>15</sup>Den ganzen Tag steht meine Schande vor mir,
+und Scham bedeckt mein Gesicht
+<sup>16</sup>wegen der Stimme dessen, der verhöhnt und lästert,
+wegen des Feindes und des Rachsüchtigen.
+
+> **Was bedeutet das?**
+> Plötzlich die Wende: „Aber jetzt“. Gott scheint sein Volk verlassen zu haben. Es hat eine schwere Niederlage erlitten, viele wurden getötet oder verschleppt.
+> Die Vorwürfe an Gott sind sehr direkt: Du hast uns verkauft wie Ware, und nicht einmal für einen guten Preis!
+> Die Bibel erlaubt solche ehrlichen, sogar anklagenden Worte an Gott.
+
+---
+
+### Wir haben dich nicht vergessen (Vers 17–22)
+
+<sup>17</sup>Das alles ist über uns gekommen,
+und doch haben wir dich nicht vergessen.
+Wir sind deinem Bund nicht untreu geworden.
+<sup>18</sup>Unser Herz ist nicht zurückgewichen,
+und unsere Schritte sind nicht von deinem Weg abgebogen,
+<sup>19</sup>obwohl du uns zermalmt hast am Ort der Schakale
+und uns mit Todesschatten bedeckt hast.
+<sup>20</sup>Wenn wir den Namen unseres Gottes vergessen hätten
+oder unsere Hände zu einem fremden Gott ausgestreckt hätten,
+<sup>21</sup>würde Gott das nicht erforschen?
+Denn er kennt die Geheimnisse des Herzens.
+<sup>22</sup>Ja, um deinetwillen werden wir den ganzen Tag getötet.
+Wir werden angesehen wie Schafe zum Schlachten.
+
+> **Was bedeutet das?**
+> Das ist das Besondere an Psalm 44: Das Volk sagt, wir sind unschuldig. Wir haben nicht gesündigt. Und trotzdem leiden wir. Es ist wie Hiob, aber für ein ganzes Volk.
+> Vers 22: „Um deinetwillen werden wir getötet“: Sie leiden gerade, weil sie zu Gott gehören.
+> Paulus zitiert Vers 22 in Römer 8,36 und antwortet: „Nichts kann uns trennen von der Liebe Gottes.“
+> Viele Juden haben diesen Vers in Zeiten der Verfolgung gebetet, bis hin zur Schoa (dem Holocaust).
+
+---
+
+### Wach auf, Herr! (Vers 23–26)
+
+<sup>23</sup>Wach auf! Warum schläfst du, Herr?
+Steh auf! Verstoß uns nicht für immer!
+<sup>24</sup>Warum verbirgst du dein Angesicht
+und vergisst unser Elend und unsere Bedrängnis?
+<sup>25</sup>Denn unsere Seele ist in den Staub gebeugt.
+Unser Leib klebt an der Erde.
+<sup>26</sup>Steh auf, um uns zu helfen!
+Erlöse uns um deiner Güte willen!
+
+> **Was bedeutet das?**
+> „Warum schläfst du?“: Ein kühner Schrei. Natürlich weiß der Beter, dass Gott nicht schläft (Psalm 121,4). Aber so fühlt es sich an.
+> Der Psalm endet ohne Antwort, nur mit der Bitte: Hilf uns, „um deiner Güte willen“. Nicht, weil wir es verdient haben, sondern weil du gut bist.
+
+## Psalm 45
+#### Ein Lied zur Hochzeit des Königs
+
+---
+
+### Das Lob des Königs (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilien“. Ein Lehrgedicht von den Söhnen Korachs. Ein Liebeslied.
+Mein Herz fließt über von einem schönen Wort.
+Ich trage meine Verse dem König vor.
+Meine Zunge ist wie der Griffel eines geübten Schreibers.
+<sup>2</sup>Du bist der Schönste unter den Menschenkindern.
+Anmut ist über deine Lippen ausgegossen,
+darum hat Gott dich für immer gesegnet.
+<sup>3</sup>Gürte dein Schwert um deine Hüfte, du Held,
+in deiner Pracht und deiner Majestät!
+<sup>4</sup>In deiner Majestät zieh siegreich aus
+für Wahrheit, Demut und Gerechtigkeit!
+Deine rechte Hand soll furchterregende Taten zeigen.
+<sup>5</sup>Deine Pfeile sind scharf.
+Völker fallen unter dir,
+mit Pfeilen im Herzen der Feinde des Königs.
+
+> **Was bedeutet das?**
+> Psalm 45 ist einzigartig: ein Lied zur Hochzeit eines Königs. Die englische Vorlage nennt es „Hochzeitslied“, wörtlich „Lied der Liebe“.
+> Der Dichter ist begeistert. Er beschreibt den König: schön, redegewandt, von Gott gesegnet.
+> Vers 4: Der König kämpft nicht für Macht, sondern „für Wahrheit, Demut und Gerechtigkeit“. Das ist das Ideal eines guten Herrschers.
+
+---
+
+### Dein Thron, Gott, bleibt für immer (Vers 6–9)
+
+<sup>6</sup>Dein Thron, Gott, ist für immer und ewig.
+Ein Zepter der Gerechtigkeit ist das Zepter deines Reiches.
+<sup>7</sup>Du hast Gerechtigkeit geliebt und Gottlosigkeit gehasst.
+Darum hat Gott, dein Gott, dich gesalbt
+mit Freudenöl, mehr als deine Gefährten.
+<sup>8</sup>Alle deine Kleider duften nach Myrrhe, Aloe und Kassia.
+Aus Elfenbeinpalästen erfreuen dich Saitenspiele.
+<sup>9</sup>Königstöchter sind unter deinen Geehrten.
+An deiner rechten Seite steht die Königin in Gold aus Ofir.
+
+> **Was bedeutet das?**
+> Vers 6 ist erstaunlich: Der König wird direkt mit „Gott“ angeredet. Im alten Orient wurden Könige manchmal in sehr hohen Worten gepriesen. Man kann den Vers auch übersetzen: „Dein Thron ist wie Gottes Thron“ oder „Dein göttlicher Thron“.
+> Der Hebräerbrief zitiert Vers 6–7 und bezieht ihn auf Jesus, den Sohn Gottes (Hebräer 1,8–9).
+> Vers 8: Myrrhe, Aloe und Kassia sind kostbare Duftstoffe. Elfenbeinpaläste waren Paläste mit Elfenbein-Schmuck, ein Zeichen großen Reichtums.
+> Ofir war ein Land, das für sein feines Gold berühmt war (1. Könige 9,28).
+
+---
+
+### An die Braut (Vers 10–15)
+
+<sup>10</sup>Hör, Tochter, sieh und neige dein Ohr!
+Vergiss dein Volk und das Haus deines Vaters!
+<sup>11</sup>Dann wird der König deine Schönheit begehren.
+Ehre ihn, denn er ist dein Herr.
+<sup>12</sup>Die Tochter Tyrus kommt mit einem Geschenk.
+Die Reichen des Volkes suchen deine Gunst.
+<sup>13</sup>Die Königstochter drinnen ist ganz herrlich.
+Ihr Kleid ist mit Gold durchwirkt.
+<sup>14</sup>In bunt gestickten Gewändern wird sie zum König geführt.
+Die Jungfrauen, ihre Freundinnen, die ihr folgen, werden zu dir gebracht.
+<sup>15</sup>Mit Freude und Jubel werden sie geführt.
+Sie ziehen in den Palast des Königs ein.
+
+> **Was bedeutet das?**
+> Jetzt wendet sich der Dichter an die Braut. Sie kommt wohl aus einem fremden Land und soll nun eine neue Heimat finden.
+> „Vergiss dein Volk“: Für eine junge Frau war das damals ein großer Schritt. Sie verließ ihre Familie für immer.
+> „Er ist dein Herr“: So sprach man damals über die Ehe. Die Bibel sagt an anderen Stellen aber auch, dass Mann und Frau einander lieben und ehren sollen (vgl. 1. Mose 2,24; Epheser 5,21–33).
+> „Tochter Tyrus“: die reiche Handelsstadt Tyrus, die Geschenke schickt.
+> Juden haben den Psalm auch auf den Messias und Israel bezogen, Christen auf Christus und die Kirche als seine Braut.
+
+---
+
+### Deine Söhne (Vers 16–17)
+
+<sup>16</sup>Deine Söhne werden an die Stelle deiner Väter treten.
+Du wirst sie zu Fürsten machen auf der ganzen Erde.
+<sup>17</sup>Ich will deinen Namen in Erinnerung halten bei allen Generationen.
+Darum werden die Völker dir danken für immer und ewig.
+
+> **Was bedeutet das?**
+> Zum Schluss ein Segen für die Zukunft: Der König soll Söhne haben, die nach ihm regieren.
+> Der Dichter verspricht: Dein Name wird nie vergessen werden.
+
+## Psalm 46
+#### Eine feste Burg ist unser Gott
+
+---
+
+### Gott ist unsere Zuflucht (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Von den Söhnen Korachs. Nach Alamot.
+Gott ist unsere Zuflucht und Stärke,
+eine Hilfe in Nöten, sehr bewährt.
+<sup>2</sup>Darum fürchten wir uns nicht, auch wenn die Erde sich verändert,
+auch wenn die Berge mitten ins Meer stürzen,
+<sup>3</sup>auch wenn seine Wasser tosen und schäumen,
+auch wenn die Berge zittern vor seinem Toben.
+Sela.
+
+> **Was bedeutet das?**
+> „Nach Alamot“: wahrscheinlich ein musikalischer Hinweis, vielleicht für hohe Stimmen (Frauen- oder Knabenstimmen).
+> Psalm 46 hat Martin Luther zu seinem berühmten Lied inspiriert: „Ein feste Burg ist unser Gott“.
+> Selbst wenn die ganze Welt zusammenbricht, die Berge ins Meer stürzen, ein Erdbeben oder eine Flut alles zerstört: Wer bei Gott Schutz sucht, braucht keine Angst zu haben.
+
+---
+
+### Die Stadt Gottes (Vers 4–7)
+
+<sup>4</sup>Es gibt einen Strom, dessen Arme die Stadt Gottes erfreuen,
+den heiligen Ort der Wohnungen des Höchsten.
+<sup>5</sup>Gott ist in ihrer Mitte. Sie wird nicht wanken.
+Gott hilft ihr, wenn der Morgen anbricht.
+<sup>6</sup>Die Völker tobten. Die Königreiche wankten.
+Er ließ seine Stimme erschallen, und die Erde schmolz.
+<sup>7</sup>Der HERR der Heere ist mit uns.
+Der Gott Jakobs ist unsere Burg.
+Sela.
+
+> **Was bedeutet das?**
+> Draußen tobt das Meer (Vers 3), aber in der Stadt Gottes fließt ein ruhiger Strom, der Freude bringt. Jerusalem hatte eigentlich keinen großen Fluss, nur eine Quelle. Der Strom ist ein Bild für Gottes Segen (vgl. Hesekiel 47; Offenbarung 22,1).
+> Vers 5: Gott wohnt mitten in der Stadt. Darum ist sie sicher. „Wenn der Morgen anbricht“: Die Nacht der Angst geht vorbei.
+> Vers 7 ist ein Kehrvers: „Der HERR der Heere ist mit uns“. Das erinnert an den Namen „Immanuel“, das heißt „Gott mit uns“ (Jesaja 7,14).
+
+---
+
+### Seid still und erkennt (Vers 8–11)
+
+<sup>8</sup>Kommt, seht die Werke des HERRN,
+der Verwüstungen auf der Erde angerichtet hat!
+<sup>9</sup>Er macht den Kriegen ein Ende bis an das Ende der Erde.
+Er zerbricht den Bogen und zerschlägt den Speer.
+Er verbrennt die Wagen im Feuer.
+<sup>10</sup>„Seid still und erkennt, dass ich Gott bin!
+Ich werde erhoben sein unter den Völkern.
+Ich werde erhoben sein auf der Erde.“
+<sup>11</sup>Der HERR der Heere ist mit uns.
+Der Gott Jakobs ist unsere Burg.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 9 ist eine große Friedensvision: Gott beendet alle Kriege und zerstört alle Waffen (vgl. Jesaja 2,4: „Schwerter zu Pflugscharen“).
+> Vers 10: Gott selbst spricht: „Seid still!“ Das heißt: Hört auf zu kämpfen, hört auf mit eurer Panik und Unruhe. Erkennt, dass ich Gott bin.
+> Dieser Vers ist für viele Menschen ein Ruhepunkt mitten im Lärm und in der Hektik des Lebens.
+
+## Psalm 47
+#### Gott ist König über die ganze Erde
+
+---
+
+### Klatscht in die Hände, alle Völker! (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von den Söhnen Korachs.
+Ach, klatscht in die Hände, alle Völker!
+Jubelt Gott zu mit lauter Freude!
+<sup>2</sup>Denn der HERR, der Höchste, ist furchterregend.
+Er ist ein großer König über die ganze Erde.
+<sup>3</sup>Er unterwirft uns Völker
+und Nationen unter unsere Füße.
+<sup>4</sup>Er wählt für uns unser Erbe,
+den Stolz Jakobs, den er liebt.
+Sela.
+
+> **Was bedeutet das?**
+> Ein fröhlicher Psalm. Alle Völker, nicht nur Israel, werden aufgefordert, in die Hände zu klatschen und Gott zuzujubeln.
+> Gott ist nicht nur der Gott eines Volkes, sondern König über die ganze Erde.
+> Vers 3 spricht in der Sprache der damaligen Zeit von Sieg über andere Völker. Aber der ganze Psalm lädt alle Völker ein, Gott zu loben (Vers 1 und 9).
+> „Der Stolz Jakobs“: das Land, das Gott Israel gegeben hat.
+
+---
+
+### Gott ist hinaufgestiegen (Vers 5–9)
+
+<sup>5</sup>Gott ist hinaufgestiegen unter Jubel,
+der HERR beim Klang der Posaune.
+<sup>6</sup>Singt Gott Lob, singt Lob!
+Singt unserem König Lob, singt Lob!
+<sup>7</sup>Denn Gott ist König der ganzen Erde.
+Singt Lob mit Verstand!
+<sup>8</sup>Gott herrscht über die Völker.
+Gott sitzt auf seinem heiligen Thron.
+<sup>9</sup>Die Fürsten der Völker haben sich versammelt
+als Volk des Gottes Abrahams.
+Denn die Schilde der Erde gehören Gott.
+Er ist hoch erhaben!
+
+> **Was bedeutet das?**
+> Vers 5: „Gott ist hinaufgestiegen“: Wie ein König, der unter Jubel und Trompetenklang seinen Thron besteigt. Vielleicht wurde die Bundeslade in einer Prozession zum Tempel hinaufgetragen.
+> Christen lesen diesen Psalm am Fest Christi Himmelfahrt, weil Jesus „hinaufgestiegen“ ist zu Gott.
+> Vers 9 ist erstaunlich: Die Fürsten aller Völker versammeln sich als „Volk des Gottes Abrahams“. Gott hatte Abraham versprochen: „In dir sollen alle Völker gesegnet werden“ (1. Mose 12,3). Hier wird das Wirklichkeit.
+> „Die Schilde der Erde“: die Mächtigen und Herrscher der Welt. Auch sie gehören Gott.
