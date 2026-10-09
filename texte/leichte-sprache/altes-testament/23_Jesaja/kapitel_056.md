@@ -41,7 +41,7 @@ zu denen, die schon gesammelt sind.“
 
 > **Was bedeutet das?**
 > Mit Kapitel 56 beginnt der dritte Teil des Jesajabuches (Kapitel 56–66). Viele Forscher meinen, er stammt aus der Zeit nach der Heimkehr aus dem Exil, als Jerusalem wieder aufgebaut wurde.
-> Vers 3: Zwei Gruppen hatten Angst, nicht dazuzugehören: Fremde, die an den Gott Israels glauben, und Eunuchen, also Männer, die keine Kinder zeugen konnten, oft weil man sie als Hofbeamte verstümmelt hatte. Nach dem Gesetz in 5. Mose 23,2 durften Eunuchen nicht zur Gemeinde kommen. Ein Eunuch fühlte sich wie ein „dürrer Baum“ ohne Zukunft, weil er keine Kinder hatte.
+> Vers 3: Zwei Gruppen hatten Angst, nicht dazuzugehören: Fremde, die an den Gott Israels glauben, und Eunuchen, also Männer, die keine Kinder zeugen konnten, oft weil man sie als Hofbeamte verstümmelt hatte. Nach dem Gesetz in 5. Mose 23,1 (in manchen deutschen Bibeln 23,2) durften Eunuchen nicht zur Gemeinde kommen. Ein Eunuch fühlte sich wie ein „dürrer Baum“ ohne Zukunft, weil er keine Kinder hatte.
 > Vers 4–5: Gott antwortet überraschend: Wer treu ist, bekommt in meinem Haus einen Namen, der besser ist als Söhne und Töchter. Niemand ist ausgeschlossen, nur weil sein Körper anders ist oder weil er keine Familie gründen kann.
 > Vers 6–7: Auch Fremde, die Gott lieben, sind im Tempel willkommen. „Mein Haus wird ein Bethaus für alle Völker genannt werden.“ Jesus zitiert diesen Vers, als er die Händler aus dem Tempel treibt (Markus 11,17).
 > In der Apostelgeschichte (8,27–39) wird ein Eunuch aus Äthiopien getauft. Er ist Fremder und Eunuch zugleich, und er gehört dazu.

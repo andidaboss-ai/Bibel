@@ -52,7 +52,7 @@ spricht der HERR, der sich über dich erbarmt.
 > Vers 5: Gott selbst ist wie ein liebender Ehemann für sein Volk.
 > Vers 7–8: Gott gibt zu: Für einen Augenblick habe ich mich abgewandt. Aber meine Liebe ist ewig. Der Zorn dauert einen Moment, das Erbarmen für immer.
 > Vers 9: Wie Gott nach der Sintflut versprochen hat, dass er die Erde nie wieder überfluten wird (1. Mose 9,11), so verspricht er jetzt: Ich werde nie mehr so zornig auf dich sein.
-> Vers 10 ist ein sehr geliebter Trostvers: „Die Berge mögen weichen und die Hügel wanken, aber meine Gnade wird nicht von dir weichen.“ Selbst wenn das Festeste zusammenbricht, Gottes Liebe bleibt. Viele Paare wählen diesen Vers als Trauspruch.
+> Vers 10 ist ein sehr geliebter Trostvers: „Die Berge mögen weichen und die Hügel wanken, aber meine Gnade wird nicht von dir weichen.“ Selbst wenn das Festeste zusammenbricht, Gottes Liebe bleibt.
 > Ein Hinweis: In der Bibel wird Gott mit einem Ehemann verglichen, der seine Frau wieder aufnimmt. Das sagt etwas über Gottes Treue. Es heißt nicht, dass Menschen in einer Ehe Ablehnung, Kälte oder Gewalt einfach ertragen müssen.
 
 ---
