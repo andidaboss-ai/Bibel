@@ -71555,3 +71555,329 @@ damit ich vor Gott wandle im Licht der Lebenden.
 > Vers 10–11 wiederholen den Kehrvers von Vers 4.
 > Vers 12: David hatte Gott in der Not etwas versprochen. Jetzt will er sein Versprechen halten und Gott danken.
 > „Im Licht der Lebenden“: Gott hat David vor dem Tod bewahrt, damit er leben und Gott dienen kann.
+
+## Psalm 57
+#### Im Schatten deiner Flügel
+
+---
+
+### Bis das Unheil vorüber ist (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Verdirb nicht“.
+Ein Gedicht von David, als er vor Saul in die Höhle floh.
+Sei mir gnädig, Gott, sei mir gnädig,
+denn meine Seele sucht Zuflucht bei dir.
+Ja, im Schatten deiner Flügel will ich Zuflucht suchen,
+bis das Unheil vorüber ist.
+<sup>2</sup>Ich rufe zu Gott, dem Höchsten,
+zu Gott, der meine Bitten für mich erfüllt.
+<sup>3</sup>Er wird vom Himmel senden und mich retten.
+Er weist den zurecht, der mich verfolgt.
+Sela.
+Gott wird seine Güte und seine Treue senden.
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an Davids Flucht vor Saul. David versteckte sich in einer Höhle, und Saul kam ausgerechnet in diese Höhle. David hätte ihn töten können, aber er verschonte ihn (1. Samuel 24; vgl. 1. Samuel 22,1).
+> „Verdirb nicht“: der Name einer Melodie. Er passt zu David, der Saul nicht verderben wollte.
+> „Im Schatten deiner Flügel“: In der dunklen Höhle fühlt sich David wie ein Küken unter den Flügeln der Mutter. Er wartet, „bis das Unheil vorüber ist“.
+
+---
+
+### Mitten unter Löwen (Vers 4–6)
+
+<sup>4</sup>Meine Seele ist mitten unter Löwen.
+Ich liege unter denen, die Feuer speien,
+unter den Menschenkindern, deren Zähne Speere und Pfeile sind
+und deren Zunge ein scharfes Schwert ist.
+<sup>5</sup>Erhebe dich, Gott, über die Himmel!
+Deine Herrlichkeit sei über der ganzen Erde!
+<sup>6</sup>Sie haben meinen Schritten ein Netz gestellt.
+Meine Seele ist gebeugt.
+Sie graben vor mir eine Grube.
+Sie fallen selbst mitten hinein.
+Sela.
+
+> **Was bedeutet das?**
+> Die Feinde sind wie Raubtiere, ihre Worte wie Waffen.
+> Vers 5 ist ein Kehrvers. Mitten in der Gefahr lobt David Gott. Er schaut weg von den Feinden und hin zu Gottes Größe.
+> Vers 6: Wieder das Bild von der Grube: Die Feinde fallen in ihre eigene Falle.
+
+---
+
+### Ich will das Morgenrot wecken (Vers 7–11)
+
+<sup>7</sup>Mein Herz ist fest, Gott, mein Herz ist fest.
+Ich will singen, ja, ich will Lob singen.
+<sup>8</sup>Wach auf, meine Ehre!
+Wacht auf, Laute und Harfe!
+Ich will das Morgenrot wecken.
+<sup>9</sup>Ich will dir danken, Herr, unter den Völkern.
+Ich will dir Lob singen unter den Nationen.
+<sup>10</sup>Denn deine große Güte reicht bis zum Himmel
+und deine Treue bis zu den Wolken.
+<sup>11</sup>Erhebe dich, Gott, über die Himmel!
+Deine Herrlichkeit sei über der ganzen Erde!
+
+> **Was bedeutet das?**
+> Vers 7: „Mein Herz ist fest“: Die Angst ist einem festen Vertrauen gewichen.
+> Vers 8: Ein wunderschönes Bild: David will so früh singen, dass er die Morgenröte aufweckt. Er wartet nicht, bis es hell wird. Sein Lob kommt vor dem Licht.
+> Vers 7–11 kommen fast genauso noch einmal in Psalm 108,1–5 vor.
+
+## Psalm 58
+#### Es gibt einen Gott, der richtet
+
+---
+
+### Ungerechte Richter (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Verdirb nicht“. Ein Gedicht von David.
+Redet ihr wirklich Gerechtigkeit, ihr Stummen?
+Richtet ihr untadelig, ihr Menschenkinder?
+<sup>2</sup>Nein, in eurem Herzen plant ihr Unrecht.
+Ihr teilt auf der Erde die Gewalt eurer Hände zu.
+<sup>3</sup>Die Gottlosen sind vom Mutterleib an abgewichen.
+Von Geburt an irren sie umher und reden Lügen.
+<sup>4</sup>Ihr Gift ist wie das Gift einer Schlange,
+wie eine taube Kobra, die ihr Ohr verschließt,
+<sup>5</sup>die nicht auf die Stimme der Beschwörer hört,
+wie geschickt der Beschwörer auch ist.
+
+> **Was bedeutet das?**
+> Psalm 58 klagt ungerechte Richter und Herrscher an. Sie sollten für Recht sorgen, aber sie schweigen zum Unrecht und üben selbst Gewalt aus.
+> Vers 1: „Ihr Stummen“: Das hebräische Wort ist unsicher. Andere übersetzen „ihr Götter“ oder „ihr Mächtigen“. Gemeint sind die, die Macht über andere haben.
+> Vers 4–5: Sie sind wie eine giftige Schlange, die sich taub stellt. Kein noch so guter Rat erreicht sie.
+
+---
+
+### Zerbrich ihre Zähne (Vers 6–9)
+
+<sup>6</sup>Zerbrich ihnen die Zähne in ihrem Mund, Gott!
+Brich die großen Zähne der jungen Löwen aus, HERR!
+<sup>7</sup>Sie sollen vergehen wie Wasser, das abfließt.
+Wenn sie den Bogen spannen, sollen ihre Pfeile stumpf werden.
+<sup>8</sup>Sie sollen sein wie eine Schnecke, die zerfließt und vergeht,
+wie eine Fehlgeburt, die die Sonne nicht gesehen hat.
+<sup>9</sup>Bevor eure Töpfe die Hitze der Dornen spüren,
+wird er das Grüne und das Brennende zusammen wegfegen.
+
+> **Was bedeutet das?**
+> Das ist einer der härtesten Psalmen. Der Beter bittet Gott, die Macht der ungerechten Herrscher zu zerbrechen. „Die Zähne zerbrechen“: ihnen die Möglichkeit nehmen, andere zu „zerfleischen“.
+> Die Bilder sind drastisch: Die Bösen sollen vergehen wie Wasser im Sand, wie eine Schnecke in der Sonne (man glaubte damals, dass Schnecken in der Hitze zerfließen).
+> Vers 8: Das Bild der Fehlgeburt ist für heutige Leser sehr schmerzhaft. Es ist kein Urteil über Kinder, die nicht leben durften, oder über ihre Eltern. Es ist ein dichterisches Bild für etwas, das vergeht, bevor es wirksam wird. Wenn du selbst ein Kind verloren hast: Die Telefonseelsorge hört zu, 0800 111 0 111 oder 0800 111 0 222.
+> Vers 9 ist im Hebräischen sehr schwer zu verstehen. Gemeint ist wohl: Gottes Gericht kommt so schnell wie ein Sturm, bevor das Feuer unter dem Kochtopf richtig brennt.
+
+---
+
+### Es gibt einen Gott, der richtet (Vers 10–11)
+
+<sup>10</sup>Der Gerechte wird sich freuen, wenn er die Vergeltung sieht.
+Er wird seine Füße im Blut des Gottlosen waschen,
+<sup>11</sup>sodass die Menschen sagen werden:
+„Ganz gewiss gibt es einen Lohn für den Gerechten.
+Ganz gewiss gibt es einen Gott, der auf der Erde richtet.“
+
+> **Was bedeutet das?**
+> Vers 10 ist sehr schwer zu ertragen. Das Bild vom Waschen der Füße im Blut ist ein Bild aus der Sprache des Krieges im alten Orient. Es zeigt den Wunsch, dass das Unrecht endgültig besiegt wird.
+> Wichtig ist: Der Beter nimmt nicht selbst Rache. Er überlässt das Gericht Gott. Und das Ziel ist Vers 11: Alle sollen erkennen, dass es Gerechtigkeit gibt, dass Unrecht nicht das letzte Wort hat.
+> Für Menschen, die unter brutaler Ungerechtigkeit leiden, ist dieser Psalm ein Schrei nach Gerechtigkeit.
+> Aber: Dieser Psalm ist keine Erlaubnis, sich über das Leid oder den Tod anderer Menschen zu freuen oder Gewalt auszuüben. Die Bibel sagt auch: „Freu dich nicht über den Fall deines Feindes“ (Sprüche 24,17). Jesus lehrt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44).
+
+## Psalm 59
+#### Gott ist meine Burg
+
+---
+
+### Rette mich vor meinen Feinden (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Verdirb nicht“.
+Ein Gedicht von David, als Saul Leute schickte, die das Haus bewachten, um ihn zu töten.
+Rette mich vor meinen Feinden, mein Gott!
+Bring mich in Sicherheit vor denen, die sich gegen mich erheben!
+<sup>2</sup>Rette mich vor denen, die Unrecht tun!
+Hilf mir gegen die blutgierigen Männer!
+<sup>3</sup>Denn schau, sie lauern mir auf.
+Die Mächtigen rotten sich gegen mich zusammen,
+nicht wegen meines Ungehorsams und nicht wegen meiner Sünde, HERR.
+<sup>4</sup>Ich habe nichts Unrechtes getan, und doch stehen sie bereit, mich anzugreifen.
+Wach auf, schau her und hilf mir!
+<sup>5</sup>Du, HERR, Gott der Heere, Gott Israels,
+erwache, um alle Völker heimzusuchen!
+Sei keinem der bösen Verräter gnädig!
+Sela.
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an eine Nacht, in der Sauls Leute Davids Haus umstellten. Seine Frau Michal half ihm, durch ein Fenster zu fliehen (1. Samuel 19,11–17).
+> David ist unschuldig. Er hat nichts getan, und trotzdem wird er verfolgt.
+> „Die Völker“: Der Psalm weitet den Blick über Davids persönliche Feinde hinaus auf alle, die gegen Gottes Volk kämpfen.
+
+---
+
+### Wie Hunde in der Nacht (Vers 6–10)
+
+<sup>6</sup>Sie kommen am Abend zurück,
+heulen wie Hunde
+und streifen durch die Stadt.
+<sup>7</sup>Schau, sie geifern mit ihrem Mund.
+Schwerter sind auf ihren Lippen.
+„Denn“, sagen sie, „wer hört uns?“
+<sup>8</sup>Du aber, HERR, lachst über sie.
+Du spottest über alle Völker.
+<sup>9</sup>Meine Stärke, auf dich warte ich,
+denn Gott ist meine hohe Burg.
+<sup>10</sup>Mein Gott kommt mir mit seiner Güte entgegen.
+Gott lässt mich auf meine Feinde herabsehen.
+
+> **Was bedeutet das?**
+> Die Verfolger sind wie streunende Hunde, die nachts heulend durch die Straßen ziehen. Damals waren Straßenhunde gefährlich und verachtet.
+> Sie denken: „Wer hört uns schon?“ Sie glauben, niemand sieht ihr Unrecht. Aber Gott hört und sieht alles.
+> Vers 9: Wie ein Wächter in der Nacht wartet David auf Gott.
+
+---
+
+### Töte sie nicht (Vers 11–13)
+
+<sup>11</sup>Töte sie nicht, damit mein Volk es nicht vergisst!
+Zerstreue sie durch deine Macht und stürze sie, Herr, unser Schild!
+<sup>12</sup>Wegen der Sünde ihres Mundes und der Worte ihrer Lippen
+sollen sie sich in ihrem Hochmut fangen,
+wegen der Flüche und Lügen, die sie aussprechen.
+<sup>13</sup>Vernichte sie im Zorn, vernichte sie, dass sie nicht mehr sind!
+Lass sie erkennen, dass Gott in Jakob herrscht
+bis an die Enden der Erde.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 11 ist überraschend: „Töte sie nicht!“ David will nicht, dass Gott die Feinde sofort vernichtet. Sie sollen als Warnung bleiben, damit das Volk nicht vergisst, wie Gott rettet.
+> Vers 13 klingt dann doch hart. Aber das Ziel ist: Alle sollen erkennen, dass Gott herrscht. Gemeint ist wohl: Gott soll ihre Macht vernichten, nicht unbedingt ihr Leben.
+
+---
+
+### Am Morgen will ich singen (Vers 14–17)
+
+<sup>14</sup>Am Abend sollen sie zurückkommen,
+heulen wie ein Hund
+und durch die Stadt streifen.
+<sup>15</sup>Sie sollen umherirren nach Nahrung
+und die ganze Nacht warten, wenn sie nicht satt werden.
+<sup>16</sup>Ich aber will von deiner Stärke singen.
+Ja, am Morgen will ich laut von deiner Güte singen.
+Denn du bist meine hohe Burg gewesen,
+eine Zuflucht am Tag meiner Not.
+<sup>17</sup>Dir, meine Stärke, will ich Lob singen.
+Denn Gott ist meine hohe Burg,
+der Gott, der mir gnädig ist.
+
+> **Was bedeutet das?**
+> Die Feinde heulen in der Nacht, hungrig und unzufrieden.
+> David dagegen singt am Morgen. Die Nacht der Angst ist vorbei.
+> Vers 17: „Der Gott, der mir gnädig ist“: wörtlich „mein Gott der Güte“. Gott ist nicht nur stark, sondern auch liebevoll.
+
+## Psalm 60
+#### Mit Gott wollen wir Taten tun
+
+---
+
+### Du hast uns verstoßen (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilie des Zeugnisses“. Ein Lehrgedicht von David,
+als er gegen Aram-Naharajim und Aram-Zoba kämpfte
+und Joab zurückkehrte und zwölftausend Edomiter im Salztal schlug.
+Gott, du hast uns verstoßen.
+Du hast uns zerbrochen. Du bist zornig gewesen.
+Stell uns wieder her!
+<sup>2</sup>Du hast das Land erbeben lassen. Du hast es zerrissen.
+Heile seine Risse, denn es wankt.
+<sup>3</sup>Du hast dein Volk Hartes sehen lassen.
+Du hast uns Taumelwein zu trinken gegeben.
+<sup>4</sup>Du hast denen, die dich fürchten, ein Banner gegeben,
+damit sie es um der Wahrheit willen erheben.
+Sela.
+<sup>5</sup>Damit deine Geliebten gerettet werden,
+hilf mit deiner rechten Hand und antworte uns!
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an Davids Kriege gegen die Aramäer und Edomiter (2. Samuel 8; 1. Chronik 18). In 2. Samuel 8,13 und 1. Chronik 18,12 werden 18.000 Gefallene genannt. Die Zahlen in alten Überlieferungen weichen manchmal voneinander ab.
+> Hinweis: In deutschen Bibeln umfasst die Überschrift zwei Verse. Darum ist dort jeder Vers um 2 höher.
+> Mitten im Krieg hat Israel eine schwere Niederlage erlitten. Es fühlt sich an wie ein Erdbeben, das das Land zerreißt.
+> „Taumelwein“: Wein, der betrunken macht, sodass man schwankt. Ein Bild für Verwirrung und Hilflosigkeit.
+
+---
+
+### Gott hat gesprochen (Vers 6–8)
+
+<sup>6</sup>Gott hat in seinem Heiligtum gesprochen:
+„Ich will triumphieren.
+Ich will Sichem verteilen
+und das Tal von Sukkot vermessen.
+<sup>7</sup>Mir gehört Gilead, und mir gehört Manasse.
+Ephraim ist auch der Schutz meines Kopfes.
+Juda ist mein Zepter.
+<sup>8</sup>Moab ist mein Waschbecken.
+Auf Edom werfe ich meine Sandale.
+Über Philistäa juble ich im Triumph.“
+
+> **Was bedeutet das?**
+> Gott antwortet mit einer Zusage: Das ganze Land gehört mir.
+> Sichem, Sukkot, Gilead, Manasse, Ephraim und Juda: Das sind Gebiete Israels. Sie sind wie Gottes Ausrüstung: Ephraim ist sein Helm, Juda sein Herrscherstab.
+> Die Nachbarvölker werden mit Haushaltsgegenständen verglichen: Moab ist das „Waschbecken“, in dem man sich die Füße wäscht. „Die Sandale auf Edom werfen“ war ein Zeichen für Besitzanspruch (vgl. Rut 4,7).
+> Das ist die bildhafte Sprache der damaligen Zeit. Sie drückt aus: Gott ist der Herr über alle Völker.
+
+---
+
+### Menschenhilfe ist nichts wert (Vers 9–12)
+
+<sup>9</sup>Wer bringt mich in die feste Stadt?
+Wer führt mich nach Edom?
+<sup>10</sup>Hast du, Gott, uns nicht verstoßen?
+Du ziehst nicht aus mit unseren Heeren, Gott.
+<sup>11</sup>Gib uns Hilfe gegen den Feind,
+denn Menschenhilfe ist nichts wert.
+<sup>12</sup>Mit Gott werden wir tapfere Taten tun,
+denn er ist es, der unsere Feinde niedertreten wird.
+
+> **Was bedeutet das?**
+> „Die feste Stadt“: wahrscheinlich Petra oder Bozra, die stark befestigte Hauptstadt Edoms.
+> Vers 11: „Menschenhilfe ist nichts wert“: Ohne Gott hilft auch die beste Armee nichts.
+> Vers 12: Mit Gott ist Mut möglich. Vers 5–12 kommen fast genauso noch einmal in Psalm 108,6–13 vor.
+
+## Psalm 61
+#### Führe mich auf den Felsen
+
+---
+
+### Vom Ende der Erde rufe ich (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrument. Von David.
+Hör mein Schreien, Gott!
+Achte auf mein Gebet!
+<sup>2</sup>Vom Ende der Erde rufe ich zu dir,
+wenn mein Herz verzagt ist.
+Führe mich auf den Felsen, der zu hoch für mich ist.
+<sup>3</sup>Denn du bist eine Zuflucht für mich gewesen,
+ein starker Turm gegen den Feind.
+<sup>4</sup>Ich will in deinem Zelt wohnen für immer.
+Ich will Zuflucht suchen im Schutz deiner Flügel.
+Sela.
+
+> **Was bedeutet das?**
+> Der Beter ist weit weg, „am Ende der Erde“. Er fühlt sich fern von Gott und erschöpft.
+> „Führe mich auf den Felsen, der zu hoch für mich ist“: Allein schafft er es nicht hinauf an den sicheren Ort. Gott muss ihn führen.
+> „In deinem Zelt wohnen“: in Gottes Nähe sein, wie ein Gast, der bei Gott Schutz findet.
+
+---
+
+### Für den König (Vers 5–8)
+
+<sup>5</sup>Denn du, Gott, hast meine Gelübde gehört.
+Du hast mir das Erbe derer gegeben, die deinen Namen fürchten.
+<sup>6</sup>Du wirst dem König das Leben verlängern.
+Seine Jahre werden für Generationen sein.
+<sup>7</sup>Er wird für immer vor Gottes Angesicht thronen.
+Bestimme Güte und Treue, damit sie ihn behüten.
+<sup>8</sup>So will ich deinem Namen für immer Lob singen,
+damit ich meine Gelübde täglich erfülle.
+
+> **Was bedeutet das?**
+> Vers 6–7: Ein Gebet für den König. Gott soll ihm ein langes Leben schenken.
+> „Für Generationen“ und „für immer“: Das geht über ein einzelnes Menschenleben hinaus. Juden und Christen haben das auf den Messias bezogen, den ewigen König aus Davids Familie.
+> „Güte und Treue“ sind wie zwei Leibwächter, die den König beschützen.
