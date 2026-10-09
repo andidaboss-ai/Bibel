@@ -62102,14 +62102,14 @@ Er setzte ihr die königliche Krone auf
 und machte sie an Waschtis Stelle zur Königin.
 <sup>18</sup>Dann machte der König ein großes Festmahl für alle seine Fürsten und Diener,
 das Festmahl Esters.
-Er gewährte den Provinzen einen Steuererlass
+Er rief in den Provinzen einen Feiertag aus
 und gab Geschenke nach der Freigebigkeit des Königs.
 
 > **Was bedeutet das?**
 > Ester ist bescheiden. Sie verlangt nichts Besonderes, sondern hört auf den Rat Hegais.
 > Der Monat Tebet ist Dezember/Januar. Das siebte Jahr des Königs ist etwa 479 vor Christus. Zwischen Kapitel 1 und Kapitel 2 lagen also vier Jahre. In dieser Zeit führte Xerxes seinen Krieg gegen Griechenland.
 > Ester wird Königin. Eine jüdische Waise sitzt jetzt auf dem Thron des größten Reiches der Welt. Noch weiß niemand, warum das so wichtig ist.
-> „Steuererlass“: In der englischen Vorlage steht „Feiertag“. Das hebräische Wort kann beides bedeuten: eine Befreiung von Steuern oder von Arbeit.
+> „Feiertag“: Das hebräische Wort kann auch „Steuererlass“ bedeuten. Gemeint ist eine Befreiung von Arbeit oder von Steuern.
 
 ---
 
@@ -62232,7 +62232,7 @@ Mach mit ihnen, was dir gut erscheint.“
 <sup>12</sup>Da wurden die Schreiber des Königs gerufen,
 im ersten Monat, am 13. Tag des Monats.
 Und es wurde alles so geschrieben, wie Haman befahl,
-an die Satrapen des Königs,
+an die örtlichen Statthalter des Königs,
 an die Statthalter über jede Provinz
 und an die Fürsten jedes Volkes,
 an jede Provinz in ihrer Schrift
@@ -62255,7 +62255,7 @@ Aber die Stadt Susa war bestürzt.
 
 > **Was bedeutet das?**
 > Der Befehl wird am 13. Nisan geschrieben, einen Tag vor dem Passafest. Am Passafest feiern Juden die Befreiung aus Ägypten. Jetzt droht ihnen die Vernichtung.
-> „Satrapen“: In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+> „Die örtlichen Statthalter“: Im Hebräischen steht das persische Wort „Satrapen“, die Statthalter der großen Provinzen.
 > Der Befehl ist ein Aufruf zum Völkermord: Alle Juden sollen getötet werden, auch Kinder und Frauen. Wer mitmacht, darf ihren Besitz rauben.
 > Vers 15 zeigt einen schrecklichen Gegensatz: Der König und Haman trinken gemütlich, während ein ganzes Volk zum Tod verurteilt ist. Aber die Stadt Susa ist bestürzt. Nicht alle Menschen sind mit dem Hass einverstanden.
 

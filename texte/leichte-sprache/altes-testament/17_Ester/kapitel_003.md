@@ -92,7 +92,7 @@ Mach mit ihnen, was dir gut erscheint.“
 [12] Da wurden die Schreiber des Königs gerufen,
 im ersten Monat, am 13. Tag des Monats.
 Und es wurde alles so geschrieben, wie Haman befahl,
-an die Satrapen des Königs,
+an die örtlichen Statthalter des Königs,
 an die Statthalter über jede Provinz
 und an die Fürsten jedes Volkes,
 an jede Provinz in ihrer Schrift
@@ -115,6 +115,6 @@ Aber die Stadt Susa war bestürzt.
 
 > **Was bedeutet das?**
 > Der Befehl wird am 13. Nisan geschrieben, einen Tag vor dem Passafest. Am Passafest feiern Juden die Befreiung aus Ägypten. Jetzt droht ihnen die Vernichtung.
-> „Satrapen“: In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+> „Die örtlichen Statthalter“: Im Hebräischen steht das persische Wort „Satrapen“, die Statthalter der großen Provinzen.
 > Der Befehl ist ein Aufruf zum Völkermord: Alle Juden sollen getötet werden, auch Kinder und Frauen. Wer mitmacht, darf ihren Besitz rauben.
 > Vers 15 zeigt einen schrecklichen Gegensatz: Der König und Haman trinken gemütlich, während ein ganzes Volk zum Tod verurteilt ist. Aber die Stadt Susa ist bestürzt. Nicht alle Menschen sind mit dem Hass einverstanden.

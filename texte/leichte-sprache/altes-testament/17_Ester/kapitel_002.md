@@ -116,14 +116,14 @@ Er setzte ihr die königliche Krone auf
 und machte sie an Waschtis Stelle zur Königin.
 [18] Dann machte der König ein großes Festmahl für alle seine Fürsten und Diener,
 das Festmahl Esters.
-Er gewährte den Provinzen einen Steuererlass
+Er rief in den Provinzen einen Feiertag aus
 und gab Geschenke nach der Freigebigkeit des Königs.
 
 > **Was bedeutet das?**
 > Ester ist bescheiden. Sie verlangt nichts Besonderes, sondern hört auf den Rat Hegais.
 > Der Monat Tebet ist Dezember/Januar. Das siebte Jahr des Königs ist etwa 479 vor Christus. Zwischen Kapitel 1 und Kapitel 2 lagen also vier Jahre. In dieser Zeit führte Xerxes seinen Krieg gegen Griechenland.
 > Ester wird Königin. Eine jüdische Waise sitzt jetzt auf dem Thron des größten Reiches der Welt. Noch weiß niemand, warum das so wichtig ist.
-> „Steuererlass“: In der englischen Vorlage steht „Feiertag“. Das hebräische Wort kann beides bedeuten: eine Befreiung von Steuern oder von Arbeit.
+> „Feiertag“: Das hebräische Wort kann auch „Steuererlass“ bedeuten. Gemeint ist eine Befreiung von Arbeit oder von Steuern.
 
 ---
 
