@@ -89185,7 +89185,7 @@ und dein Erlöser, der Starke Jakobs.“
 > **Was bedeutet das?**
 > Vers 22–23: Die Völker selbst werden die Kinder Israels nach Hause tragen. Könige und Königinnen werden für sie sorgen wie Pflegeeltern. Das „Staub lecken“ ist ein altes Bild für völlige Unterwerfung. Gemeint ist: Die Verhältnisse kehren sich um, das verachtete Volk wird geehrt.
 > Vers 24–25: Kann man einem Starken seine Gefangenen wieder abnehmen? Ja, Gott kann es. Er kämpft für sein Volk und rettet die Kinder.
-> Vers 26: Ein hartes Bild: Die Unterdrücker zerstören sich am Ende selbst, sie bekämpfen sich gegenseitig. Das ist keine Aufforderung zu Gewalt. Es beschreibt, dass Gewalt sich gegen die richtet, die sie ausüben. Gott ist es, der Gerechtigkeit schafft.
+> Vers 26: Ein hartes Bild: Viele Ausleger verstehen es so: Die Unterdrücker zerstören sich am Ende selbst, zum Beispiel indem sie sich gegenseitig bekämpfen. Das ist keine Aufforderung zu Gewalt. Es beschreibt, dass Gewalt sich gegen die richtet, die sie ausüben. Gott ist es, der Gerechtigkeit schafft.
 
 ## Jesaja – Kapitel 50
 #### Das dritte Lied vom Knecht Gottes
