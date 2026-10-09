@@ -90,8 +90,8 @@ vom 20. Jahr bis zum 32. Jahr des Königs Artahsasta,
 also zwölf Jahre lang,
 haben ich und meine Brüder nicht das Brot des Statthalters gegessen.
 [15] Aber die früheren Statthalter, die vor mir waren,
-hatten das Volk belastet
-und hatten von ihnen Brot und Wein genommen,
+ließen sich vom Volk versorgen
+und nahmen von ihnen Brot und Wein,
 dazu 440 Gramm Silber.
 Ja, sogar ihre Diener herrschten über das Volk.
 Ich aber habe das nicht getan,

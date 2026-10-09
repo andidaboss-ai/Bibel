@@ -60079,14 +60079,14 @@ und setzten seine Türflügel, seine Riegel und seine Querbalken ein.
 Neben ihnen besserte Meschullam aus, der Sohn Berechjas, des Sohnes Meschesabels.
 Neben ihnen besserte Zadok aus, der Sohn Baanas.
 <sup>5</sup>Neben ihnen besserten die Leute von Tekoa aus.
-Aber ihre Vornehmen beugten ihren Nacken nicht zum Werk ihres Herrn.
+Aber ihre Vornehmen beugten ihren Nacken nicht zum Werk des Herrn.
 
 > **Was bedeutet das?**
 > Dieses Kapitel ist eine Liste: Wer hat welches Stück der Mauer gebaut? Sie beginnt im Norden beim Schaftor und geht gegen den Uhrzeigersinn einmal rund um die Stadt.
 > Der Hohepriester fängt an. Die Führer gehen mit gutem Beispiel voran.
 > Das Schaftor lag nahe beim Tempel. Dort wurden wohl die Schafe für die Opfer hereingebracht. Am Schaftor lag später auch der Teich Betesda, an dem Jesus einen Kranken heilte (Johannes 5,2).
 > Vers 5 ist ehrlich: Die Vornehmen von Tekoa waren sich zu fein für die Arbeit. Aber die einfachen Leute von Tekoa bauten sogar zwei Abschnitte (Vers 27).
-> „Ihres Herrn“: Gemeint ist entweder Gott oder Nehemia als Statthalter.
+> „Des Herrn“: Im Hebräischen steht „ihrer Herren“. Gemeint ist entweder Gott oder Nehemia als Statthalter.
 
 ---
 
@@ -60446,8 +60446,8 @@ vom 20. Jahr bis zum 32. Jahr des Königs Artahsasta,
 also zwölf Jahre lang,
 haben ich und meine Brüder nicht das Brot des Statthalters gegessen.
 <sup>15</sup>Aber die früheren Statthalter, die vor mir waren,
-hatten das Volk belastet
-und hatten von ihnen Brot und Wein genommen,
+ließen sich vom Volk versorgen
+und nahmen von ihnen Brot und Wein,
 dazu 440 Gramm Silber.
 Ja, sogar ihre Diener herrschten über das Volk.
 Ich aber habe das nicht getan,
