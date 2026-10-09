@@ -45,7 +45,7 @@ Wenn ihr nicht glaubt, dann werdet ihr gewiss nicht bestehen.‘“
 
 ---
 
-## Die junge Frau wird einen Sohn gebären (Vers 10–17)
+## Das Zeichen: Gott mit uns (Vers 10–17)
 
 [10] Der HERR sprach wieder zu Ahas und sagte:
 [11] „Erbitte dir ein Zeichen vom HERRN, deinem Gott!
