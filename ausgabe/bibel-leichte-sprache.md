@@ -63895,3 +63895,267 @@ Denn so bin ich nicht in mir selbst.“
 > Christen sehen in diesem Wunsch einen Hinweis auf Jesus: „Es ist ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus“ (1. Timotheus 2,5). Jesus ist Gott und Mensch zugleich.
 > Hiob wird diesen Gedanken später weiterführen (Kapitel 16,19–21; 19,25).
 > „So bin ich nicht in mir selbst“: Gemeint ist wohl: Ich habe in mir nichts, wovor ich mich fürchten müsste. Ich bin mir keiner Schuld bewusst.
+
+## Hiob – Kapitel 10
+#### „Deine Hände haben mich gemacht“
+
+---
+
+### Warum streitest du mit mir? (Vers 1–7)
+
+<sup>1</sup>„Meine Seele ist meines Lebens überdrüssig.
+Ich will meiner Klage freien Lauf lassen.
+Ich will reden in der Bitterkeit meiner Seele.
+<sup>2</sup>Ich will zu Gott sagen:
+‚Verurteile mich nicht!
+Lass mich wissen, warum du mit mir streitest.
+<sup>3</sup>Gefällt es dir, zu unterdrücken,
+das Werk deiner Hände zu verachten
+und zum Plan der Gottlosen zu lächeln?
+<sup>4</sup>Hast du Augen aus Fleisch?
+Oder siehst du, wie ein Mensch sieht?
+<sup>5</sup>Sind deine Tage wie die Tage eines Sterblichen
+oder deine Jahre wie die Jahre eines Mannes,
+<sup>6</sup>dass du nach meiner Schuld forschst
+und nach meiner Sünde suchst?
+<sup>7</sup>Obwohl du weißt, dass ich nicht gottlos bin,
+und es niemanden gibt, der aus deiner Hand retten kann.
+
+> **Was bedeutet das?**
+> Hiob will vor Gott seine Klage aussprechen. Er möchte wenigstens wissen, warum er leidet.
+> „Das Werk deiner Hände“: Hiob erinnert Gott daran, dass er ihn selbst geschaffen hat. Wie kann Gott sein eigenes Werk zerstören?
+> Vers 4–6: Hiob fragt: Bist du wie ein Mensch, der Fehler sucht, weil er nicht alles weiß? Du weißt doch alles! Du weißt, dass ich nicht gottlos bin!
+> Das ist ein großes Vertrauen mitten in der Klage: Gott weiß, dass ich unschuldig bin.
+
+---
+
+### Du hast mich so liebevoll gemacht (Vers 8–12)
+
+<sup>8</sup>Deine Hände haben mich gebildet und ganz und gar gestaltet,
+und doch vernichtest du mich.
+<sup>9</sup>Denk doch daran, dass du mich wie Ton gestaltet hast.
+Willst du mich wieder zu Staub machen?
+<sup>10</sup>Hast du mich nicht wie Milch ausgegossen
+und wie Käse gerinnen lassen?
+<sup>11</sup>Mit Haut und Fleisch hast du mich bekleidet
+und mit Knochen und Sehnen mich durchwoben.
+<sup>12</sup>Leben und Güte hast du mir geschenkt,
+und deine Fürsorge hat meinen Geist bewahrt.
+
+> **Was bedeutet das?**
+> Das ist ein wunderschönes Bild dafür, wie Gott einen Menschen im Mutterleib bildet. Wie ein Töpfer formt er den Ton. Wie ein Weber verwebt er Knochen und Sehnen (vgl. Psalm 139,13–16).
+> „Wie Milch ausgegossen und wie Käse gerinnen lassen“: So stellte man sich damals vor, wie ein Kind im Mutterleib entsteht.
+> Hiob weiß: Gott hat mich mit Liebe gemacht. Er hat mir Leben und Güte geschenkt. Gerade darum versteht er nicht, warum Gott ihn jetzt zerstört.
+> Diese Verse zeigen: Jeder Mensch ist von Gott liebevoll gestaltet.
+
+---
+
+### Du hast es in deinem Herzen verborgen (Vers 13–17)
+
+<sup>13</sup>Doch das hast du in deinem Herzen verborgen.
+Ich weiß, dass du das im Sinn hattest:
+<sup>14</sup>Wenn ich sündige, dann beobachtest du mich
+und sprichst mich von meiner Schuld nicht frei.
+<sup>15</sup>Wenn ich gottlos bin, dann wehe mir!
+Und wenn ich gerecht bin, kann ich doch mein Haupt nicht erheben,
+voller Schande und mein Elend vor Augen.
+<sup>16</sup>Wenn ich mein Haupt erhebe, jagst du mich wie ein Löwe
+und zeigst dich wieder wunderbar mächtig an mir.
+<sup>17</sup>Du bringst immer neue Zeugen gegen mich
+und vermehrst deinen Zorn über mich.
+Ein Heer nach dem anderen zieht gegen mich.
+
+> **Was bedeutet das?**
+> Hiob vermutet: Gott hatte von Anfang an im Sinn, ihn zu quälen. Das ist ein schrecklicher Gedanke, der aus seinem Schmerz kommt.
+> Egal, was er tut, er fühlt sich verloren: Wenn er sündigt, wird er bestraft. Wenn er gerecht ist, wird er trotzdem gedemütigt.
+> „Neue Zeugen“: Seine Krankheiten und Verluste sind wie Zeugen in einem Gerichtsprozess, die gegen ihn aussagen.
+
+---
+
+### Warum hast du mich geboren werden lassen? (Vers 18–22)
+
+<sup>18</sup>Warum hast du mich aus dem Mutterleib hervorgebracht?
+Wäre ich doch gestorben, und kein Auge hätte mich gesehen!
+<sup>19</sup>Ich wäre, als wäre ich nie gewesen.
+Ich wäre vom Mutterleib ins Grab getragen worden.
+<sup>20</sup>Sind meine Tage nicht wenige? Hör auf!
+Lass von mir ab, damit ich ein wenig Trost finde,
+<sup>21</sup>bevor ich dorthin gehe, von wo ich nicht zurückkehre,
+in das Land der Finsternis und des Todesschattens,
+<sup>22</sup>in das Land, finster wie Mitternacht,
+des Todesschattens, ohne jede Ordnung,
+wo das Licht wie Mitternacht ist.‘“
+
+> **Was bedeutet das?**
+> Hiob kehrt zu seiner Klage aus Kapitel 3 zurück: Warum musste ich geboren werden?
+> Er bittet Gott nur um eins: Lass mich ein wenig in Ruhe, damit ich etwas Trost finde, bevor ich sterbe.
+> Das Totenreich beschreibt er als dunkles, ungeordnetes Land. Sogar das Licht dort ist dunkel.
+> Wer selbst so fühlt: Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222.
+
+## Hiob – Kapitel 11
+#### Zofar: „Gott verlangt weniger von dir, als du verdienst“
+
+---
+
+### Zofar greift Hiob an (Vers 1–6)
+
+<sup>1</sup>Da antwortete Zofar, der Naamatiter:
+<sup>2</sup>„Soll die Menge der Worte nicht beantwortet werden?
+Soll ein Schwätzer recht behalten?
+<sup>3</sup>Sollen deine Prahlereien die Leute zum Schweigen bringen?
+Wenn du spottest, soll dich niemand beschämen?
+<sup>4</sup>Denn du sagst: ‚Meine Lehre ist rein,
+und ich bin rein in deinen Augen.‘
+<sup>5</sup>Aber ach, dass Gott doch reden
+und seine Lippen gegen dich öffnen würde
+<sup>6</sup>und dir die Geheimnisse der Weisheit zeigen würde!
+Denn die wahre Weisheit hat zwei Seiten.
+So erkenne, dass Gott von dir weniger fordert,
+als deine Schuld verdient.
+
+> **Was bedeutet das?**
+> Zofar ist der schärfste der drei Freunde. Er nennt Hiob einen Schwätzer und Prahler.
+> Er wünscht sich, dass Gott reden würde, um Hiob zurechtzuweisen. Ironie: Am Ende redet Gott wirklich. Aber er weist nicht Hiob zurecht, sondern die Freunde (Kapitel 42,7)!
+> Vers 6 ist grausam: „Gott fordert weniger von dir, als du verdienst.“ Zofar sagt einem Mann, der alle Kinder und seine Gesundheit verloren hat: Eigentlich hättest du noch mehr verdient.
+> Zofar kennt Hiobs Leben gar nicht. Er urteilt, ohne zu wissen.
+
+---
+
+### Gottes Weisheit ist unergründlich (Vers 7–12)
+
+<sup>7</sup>Kannst du das Geheimnis Gottes ergründen?
+Oder kannst du die Grenzen des Allmächtigen erforschen?
+<sup>8</sup>Sie sind hoch wie der Himmel – was kannst du tun?
+Sie sind tiefer als das Totenreich – was kannst du wissen?
+<sup>9</sup>Ihr Maß ist länger als die Erde
+und breiter als das Meer.
+<sup>10</sup>Wenn er vorüberzieht oder gefangen setzt oder Gericht hält,
+wer kann ihn hindern?
+<sup>11</sup>Denn er kennt die falschen Menschen.
+Er sieht auch das Unrecht, auch wenn er es nicht zu beachten scheint.
+<sup>12</sup>Ein hohlköpfiger Mensch wird erst dann weise,
+wenn ein Mensch als junger Wildesel geboren wird.
+
+> **Was bedeutet das?**
+> Zofar sagt etwas Wahres: Gottes Weisheit ist unendlich groß. Kein Mensch kann sie ganz verstehen (vgl. Römer 11,33).
+> Aber er benutzt diese Wahrheit gegen Hiob. Wenn Gottes Wege so unergründlich sind, dann könnte auch Zofar sie nicht verstehen. Und doch tut er so, als wüsste er genau, warum Hiob leidet.
+> Vers 12 ist ein Sprichwort mit Spott: Ein Dummkopf wird so wenig weise, wie ein Wildesel als Mensch geboren wird. Also nie. Zofar meint damit Hiob.
+
+---
+
+### Kehr um, dann wird alles gut (Vers 13–20)
+
+<sup>13</sup>Wenn du dein Herz recht ausrichtest
+und deine Hände zu ihm ausbreitest,
+<sup>14</sup>wenn Unrecht in deiner Hand ist, dann entferne es weit,
+und lass keine Ungerechtigkeit in deinen Zelten wohnen.
+<sup>15</sup>Dann wirst du gewiss dein Gesicht ohne Makel erheben.
+Ja, du wirst fest stehen und dich nicht fürchten.
+<sup>16</sup>Denn du wirst dein Elend vergessen.
+Du wirst daran denken wie an Wasser, das vorübergeflossen ist.
+<sup>17</sup>Dein Leben wird heller sein als der Mittag.
+Auch wenn es dunkel ist, wird es wie der Morgen sein.
+<sup>18</sup>Du wirst sicher sein, denn es gibt Hoffnung.
+Ja, du wirst dich umsehen und in Sicherheit ruhen.
+<sup>19</sup>Auch wirst du dich niederlegen, und niemand wird dich aufschrecken.
+Ja, viele werden um deine Gunst werben.
+<sup>20</sup>Aber die Augen der Gottlosen werden verschmachten.
+Sie werden keine Zuflucht haben,
+und ihre Hoffnung wird das Aushauchen der Seele sein.“
+
+> **Was bedeutet das?**
+> Wie Elifas und Bildad endet auch Zofar mit einem schönen Versprechen: Wenn du umkehrst, wird alles gut.
+> Das klingt gut. Und vieles davon ist wahr. Gott kann Elend in Freude verwandeln.
+> Aber es setzt voraus, dass Hiob gesündigt hat. Das ist das Problem. Die Freunde sagen: Gib zu, dass du schuldig bist, dann wird alles gut. Aber Hiob ist nicht schuldig. Er kann nichts zugeben, was nicht stimmt.
+> Der letzte Vers ist eine Warnung: Wenn du nicht umkehrst, bist du wie die Gottlosen. Deren einzige Hoffnung ist der Tod.
+
+## Hiob – Kapitel 12
+#### „Ihr seid ja die Leute, mit euch stirbt die Weisheit!“
+
+---
+
+### Hiobs Spott (Vers 1–6)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Ganz gewiss, ihr seid die Leute,
+und mit euch wird die Weisheit sterben!
+<sup>3</sup>Aber auch ich habe Verstand wie ihr.
+Ich stehe nicht hinter euch zurück.
+Ja, wer weiß so etwas nicht?
+<sup>4</sup>Ich bin zum Gespött meines Nächsten geworden,
+ich, der Gott anrief, und er antwortete ihm.
+Der Gerechte, der Untadelige ist zum Gespött geworden.
+<sup>5</sup>Im Denken dessen, der sorglos lebt, gibt es Verachtung für das Unglück.
+Sie ist bereit für die, deren Fuß wankt.
+<sup>6</sup>Die Zelte der Räuber haben Ruhe,
+und die Gott reizen, leben sicher,
+die ihren Gott in ihrer Hand tragen.
+
+> **Was bedeutet das?**
+> Hiob antwortet mit beißendem Spott: „Ihr seid die einzig Weisen! Wenn ihr sterbt, gibt es keine Weisheit mehr auf der Welt!“
+> Er sagt: Was ihr mir erzählt, weiß ich auch. Das sind keine neuen Erkenntnisse.
+> Vers 5 ist eine kluge Beobachtung: Wer selbst sorglos lebt, verachtet leicht die, denen es schlecht geht. Wer nie gelitten hat, versteht Leidende oft nicht.
+> Vers 6: In Wirklichkeit geht es oft den Räubern gut. Die einfache Rechnung der Freunde stimmt nicht.
+> „Die ihren Gott in ihrer Hand tragen“: Vielleicht sind Götzenbilder gemeint. Oder: Ihr Gott ist ihre eigene Hand, ihre Gewalt.
+
+---
+
+### Fragt die Tiere! (Vers 7–12)
+
+<sup>7</sup>Aber frag doch die Tiere, und sie werden dich lehren,
+die Vögel des Himmels, und sie werden es dir sagen.
+<sup>8</sup>Oder rede zur Erde, und sie wird dich lehren.
+Die Fische des Meeres werden es dir erzählen.
+<sup>9</sup>Wer weiß nicht durch all diese,
+dass die Hand des HERRN das getan hat,
+<sup>10</sup>in dessen Hand das Leben alles Lebendigen ist
+und der Atem aller Menschen?
+<sup>11</sup>Prüft nicht das Ohr die Worte,
+so wie der Gaumen die Speise schmeckt?
+<sup>12</sup>Bei den Alten ist Weisheit,
+und bei hohem Alter ist Einsicht.
+
+> **Was bedeutet das?**
+> Hiob sagt: Dass Gott mächtig ist, weiß jedes Tier! Dazu braucht man keine klugen Freunde.
+> Vers 9 ist bemerkenswert: Es ist die einzige Stelle in den Reden (Kapitel 3–37), wo der Gottesname „HERR“ (Jahwe) vorkommt. Sonst sagen Hiob und die Freunde „Gott“ oder „der Allmächtige“.
+> Vers 10 ist ein schöner Satz: In Gottes Hand ist das Leben aller Lebewesen und der Atem aller Menschen.
+> Vers 11: Wie man Essen mit dem Gaumen prüft, so soll man Worte mit dem Ohr prüfen. Nicht alles, was gesagt wird, ist wahr.
+> Vers 12 ist vielleicht ironisch gemeint: „Bei den Alten ist Weisheit“, sagt man. Aber Hiobs alte Freunde zeigen gerade keine Weisheit.
+
+---
+
+### Gottes Macht über alle (Vers 13–25)
+
+<sup>13</sup>Bei Gott ist Weisheit und Stärke.
+Er hat Rat und Einsicht.
+<sup>14</sup>Schau, er reißt nieder, und es kann nicht wieder aufgebaut werden.
+Er schließt einen Menschen ein, und es gibt keine Befreiung.
+<sup>15</sup>Schau, er hält das Wasser zurück, und es trocknet aus.
+Dann lässt er es los, und es verwüstet die Erde.
+<sup>16</sup>Bei ihm ist Kraft und Weisheit.
+Der Betrogene und der Betrüger gehören ihm.
+<sup>17</sup>Er führt Ratgeber entblößt weg
+und macht Richter zu Narren.
+<sup>18</sup>Er löst die Fesseln der Könige
+und bindet einen Gürtel um ihre Hüften.
+<sup>19</sup>Er führt Priester entblößt weg
+und stürzt die Mächtigen.
+<sup>20</sup>Er nimmt den Zuverlässigen die Sprache weg
+und raubt den Alten den Verstand.
+<sup>21</sup>Er gießt Verachtung über Fürsten aus
+und lockert den Gürtel der Starken.
+<sup>22</sup>Er deckt tiefe Dinge aus der Finsternis auf
+und bringt den Todesschatten ans Licht.
+<sup>23</sup>Er macht Völker groß und vernichtet sie.
+Er breitet Völker aus und führt sie weg.
+<sup>24</sup>Er nimmt den Häuptern des Volkes der Erde den Verstand weg
+und lässt sie in einer Wüste umherirren, wo kein Weg ist.
+<sup>25</sup>Sie tappen im Dunkeln ohne Licht.
+Er lässt sie taumeln wie einen Betrunkenen.
+
+> **Was bedeutet das?**
+> Hiob zeigt, dass er Gottes Macht besser kennt als seine Freunde. Aber er sieht sie anders: Gottes Macht ist nicht immer erklärbar. Gott stürzt Könige, Richter, Priester und ganze Völker. Niemand ist sicher.
+> „Er löst die Fesseln der Könige und bindet einen Gürtel um ihre Hüften“: Könige werden gefangen und müssen wie Sklaven einen Gürtel tragen.
+> Vers 16: „Der Betrogene und der Betrüger gehören ihm.“ Gott steht über allem, auch über Gut und Böse unter den Menschen.
+> Hiob sagt damit: Ihr könnt Gottes Handeln nicht in eure einfache Rechnung pressen. Gott ist größer, als eure Theorien.
+> Bemerkenswert: Diese Worte über Könige, die gestürzt werden, und Mächtige, die erniedrigt werden, erinnern an den Lobgesang der Hanna (1. Samuel 2,6–8) und an Marias Lobgesang (Lukas 1,52).
