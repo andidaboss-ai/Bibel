@@ -75088,7 +75088,7 @@ und seine Treue von Generation zu Generation.
 > **Was bedeutet das?**
 > Die Pilger ziehen durch die Tore in den Tempel ein, mit Dankliedern auf den Lippen.
 > Vers 5: Der Grund für allen Dank: „Der HERR ist gut. Seine Güte bleibt für immer.“ Dieser Satz kommt in der Bibel sehr oft vor (z. B. Psalm 106,1; 107,1; 136).
-> Viele kennen den Psalm als Lied, zum Beispiel „Jauchzet, ihr Himmel“ oder das englische „All People That on Earth Do Dwell“.
+> Viele kennen den Psalm als Lied, zum Beispiel „Nun jauchzt dem Herren, alle Welt“ oder das englische „All People That on Earth Do Dwell“.
 
 ## Psalm 101
 #### Der Vorsatz eines Königs
