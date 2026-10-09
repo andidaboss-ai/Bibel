@@ -74409,3 +74409,273 @@ Amen und Amen.
 > Dieser Vers schließt das dritte Psalmenbuch (Psalm 73–89) ab.
 > Bemerkenswert: Nach all der Klage und den offenen Fragen endet das Buch trotzdem mit Lob. Der Glaube hält an Gott fest, auch wenn die Antworten fehlen.
 > Ab Psalm 90 beginnt das vierte Psalmenbuch.
+
+## Psalm 90
+#### Lehre uns, unsere Tage zu zählen
+
+---
+
+### Viertes Buch der Psalmen
+
+> **Was bedeutet das?**
+> Mit Psalm 90 beginnt das vierte Buch der Psalmen (Psalm 90–106).
+> Nach dem Ende des Königtums (Psalm 89) richtet sich der Blick in diesem Buch neu auf Gott selbst als König. Viele Psalmen rufen: „Der HERR ist König!“ (Psalm 93; 96–99).
+> Das Buch beginnt mit dem einzigen Psalm, der Mose zugeschrieben wird. Das erinnert an die Zeit vor den Königen, als Gott sein Volk durch die Wüste führte.
+
+---
+
+### Von Ewigkeit zu Ewigkeit bist du Gott (Vers 1–6)
+
+<sup>1</sup>Ein Gebet von Mose, dem Mann Gottes.
+Herr, du bist unsere Wohnung gewesen von Generation zu Generation.
+<sup>2</sup>Bevor die Berge geboren wurden,
+bevor du die Erde und die Welt geformt hast,
+von Ewigkeit zu Ewigkeit bist du Gott.
+<sup>3</sup>Du lässt den Menschen zum Staub zurückkehren
+und sagst: „Kehrt zurück, ihr Menschenkinder!“
+<sup>4</sup>Denn tausend Jahre sind vor dir
+wie der gestrige Tag, wenn er vergangen ist,
+wie eine Nachtwache.
+<sup>5</sup>Du schwemmst sie fort, sie sind wie ein Schlaf.
+Am Morgen sprossen sie wie frisches Gras.
+<sup>6</sup>Am Morgen sprosst es und wächst auf.
+Am Abend ist es welk und verdorrt.
+
+> **Was bedeutet das?**
+> Gott ist ewig. Er war schon da, bevor die Berge entstanden. Für den Menschen ist er wie ein Zuhause, eine „Wohnung“, in der man geborgen ist.
+> Vers 3: „Kehrt zurück“: zurück zum Staub, aus dem der Mensch gemacht ist (1. Mose 3,19). Das englische „destruction“ (Zerstörung) meint hier: Der Mensch zerfällt wieder zu Staub.
+> Vers 4: Für Gott sind tausend Jahre wie ein Tag. Petrus zitiert das in 2. Petrus 3,8.
+> Vers 5–6: Das menschliche Leben ist wie Gras: am Morgen frisch, am Abend verwelkt.
+
+---
+
+### Unser Leben ist wie ein Seufzer (Vers 7–11)
+
+<sup>7</sup>Denn wir vergehen durch deinen Zorn.
+Durch deinen Grimm werden wir erschreckt.
+<sup>8</sup>Du hast unsere Sünden vor dich gestellt,
+unsere verborgenen Sünden in das Licht deines Angesichts.
+<sup>9</sup>Denn alle unsere Tage sind vergangen unter deinem Zorn.
+Wir bringen unsere Jahre zu Ende wie einen Seufzer.
+<sup>10</sup>Die Tage unserer Jahre sind siebzig
+oder, wenn es hochkommt, achtzig Jahre.
+Und ihr Stolz ist doch nur Mühe und Leid,
+denn es geht schnell vorüber, und wir fliegen davon.
+<sup>11</sup>Wer kennt die Macht deines Zorns
+und deinen Grimm, so wie man dich fürchten muss?
+
+> **Was bedeutet das?**
+> Der Psalm ist ehrlich: Das Leben ist kurz, und es ist oft voller Mühe. Die Schuld des Menschen trägt dazu bei.
+> Vers 10 ist sehr bekannt: Ein Menschenleben dauert etwa 70 oder 80 Jahre. Selbst die besten Jahre sind voller Arbeit und Sorgen. Und dann geht es schnell vorbei.
+> Dieser Psalm wird oft bei Beerdigungen gelesen.
+
+---
+
+### Lehre uns, unsere Tage zu zählen (Vers 12)
+
+<sup>12</sup>So lehre uns, unsere Tage zu zählen,
+damit wir ein weises Herz gewinnen.
+
+> **Was bedeutet das?**
+> Das ist der Kernvers des Psalms. Wer weiß, dass das Leben kurz ist, lebt bewusster und klüger.
+> Luther übersetzte: „Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug werden.“
+> Es geht nicht darum, Angst vor dem Tod zu haben. Es geht darum, die Zeit, die man hat, gut zu nutzen und das Wichtige vom Unwichtigen zu unterscheiden.
+
+---
+
+### Fördere das Werk unserer Hände (Vers 13–17)
+
+<sup>13</sup>Kehr um, HERR! Wie lange noch?
+Hab Erbarmen mit deinen Knechten!
+<sup>14</sup>Sättige uns am Morgen mit deiner Güte,
+damit wir jubeln und uns freuen alle unsere Tage!
+<sup>15</sup>Erfreue uns so viele Tage, wie du uns gedemütigt hast,
+so viele Jahre, wie wir Unglück gesehen haben!
+<sup>16</sup>Lass deine Taten an deinen Knechten sichtbar werden
+und deine Herrlichkeit an ihren Kindern!
+<sup>17</sup>Die Freundlichkeit des Herrn, unseres Gottes, sei über uns!
+Festige für uns das Werk unserer Hände!
+Ja, das Werk unserer Hände, festige es!
+
+> **Was bedeutet das?**
+> Nach dem Nachdenken über die Kürze des Lebens kommt die Bitte: Gott, gib uns trotzdem Freude! Lass uns die Tage genießen, die wir haben.
+> Vers 15: Eine mutige Bitte: Gib uns so viele gute Tage, wie wir schlechte hatten.
+> Vers 17: Das Leben ist kurz, aber das, was wir tun, soll nicht umsonst sein. Gott soll unserer Arbeit Bestand geben. Ein schönes Gebet vor jeder Arbeit.
+
+## Psalm 91
+#### Unter dem Schutz des Höchsten
+
+---
+
+### Wer unter dem Schirm des Höchsten wohnt (Vers 1–4)
+
+<sup>1</sup>Wer im Schutz des Höchsten wohnt,
+der ruht im Schatten des Allmächtigen.
+<sup>2</sup>Ich sage zum HERRN: „Er ist meine Zuflucht und meine Burg,
+mein Gott, auf den ich vertraue.“
+<sup>3</sup>Denn er wird dich retten aus der Schlinge des Vogelfängers
+und vor der tödlichen Pest.
+<sup>4</sup>Er wird dich mit seinen Federn bedecken.
+Unter seinen Flügeln findest du Zuflucht.
+Seine Treue ist Schild und Schutzwall.
+
+> **Was bedeutet das?**
+> Psalm 91 ist einer der bekanntesten Schutzpsalmen. Viele Menschen beten ihn in Gefahr, vor Reisen oder in Krankheit. Soldaten haben ihn in Kriegen bei sich getragen.
+> „Im Schutz des Höchsten“: wörtlich „im Versteck“. Bei Gott ist man sicher wie in einem geheimen Versteck.
+> Vers 3: Ein Vogelfänger stellte Netze und Schlingen. Gott befreit aus Fallen.
+> Vers 4: Wieder das zärtliche Bild der Vogelmutter, die ihre Küken unter die Flügel nimmt.
+
+---
+
+### Du musst dich nicht fürchten (Vers 5–8)
+
+<sup>5</sup>Du musst dich nicht fürchten vor dem Schrecken der Nacht,
+nicht vor dem Pfeil, der am Tag fliegt,
+<sup>6</sup>nicht vor der Pest, die im Dunkeln umgeht,
+nicht vor der Seuche, die am Mittag verwüstet.
+<sup>7</sup>Wenn auch tausend fallen an deiner Seite
+und zehntausend zu deiner Rechten,
+so wird es dich doch nicht treffen.
+<sup>8</sup>Du wirst es nur mit deinen Augen sehen
+und zusehen, wie den Gottlosen vergolten wird.
+
+> **Was bedeutet das?**
+> Gefahren zu jeder Tageszeit: nachts, am Tag, in der Dunkelheit, am Mittag. Bei Gott ist man immer sicher.
+> Vers 7: Ein starkes Bild: Um einen herum fallen viele, aber man selbst bleibt bewahrt.
+> Wichtig: Das ist kein Versprechen, dass gläubige Menschen nie krank werden oder nie sterben. Viele treue Menschen sind an Seuchen gestorben. Der Psalm sagt: Nichts kann uns von Gottes Schutz trennen, auch nicht der Tod (vgl. Römer 8,38–39).
+
+---
+
+### Er wird seinen Engeln befehlen (Vers 9–13)
+
+<sup>9</sup>Denn du hast den HERRN zu deiner Zuflucht gemacht,
+den Höchsten zu deiner Wohnung.
+<sup>10</sup>Kein Unheil wird dir zustoßen,
+und keine Plage wird sich deinem Zelt nähern.
+<sup>11</sup>Denn er wird seinen Engeln befehlen,
+dich zu behüten auf allen deinen Wegen.
+<sup>12</sup>Sie werden dich auf ihren Händen tragen,
+damit dein Fuß nicht an einen Stein stößt.
+<sup>13</sup>Du wirst auf Löwen und Kobras treten.
+Den jungen Löwen und die Schlange wirst du niedertreten.
+
+> **Was bedeutet das?**
+> Vers 11–12 sind sehr bekannt: Gott schickt Engel, die uns beschützen. Daraus kommt die Vorstellung vom „Schutzengel“.
+> Diese Verse kommen in der Versuchung von Jesus vor: Der Teufel zitiert sie und fordert Jesus auf, sich vom Tempel zu stürzen. Jesus antwortet: „Du sollst Gott nicht auf die Probe stellen“ (Matthäus 4,5–7).
+> Das zeigt: Man darf Gottes Versprechen nicht missbrauchen, indem man sich absichtlich in Gefahr bringt.
+
+---
+
+### Ich will ihn retten (Vers 14–16)
+
+<sup>14</sup>„Weil er mich liebt, darum will ich ihn retten.
+Ich will ihn in Sicherheit bringen, denn er kennt meinen Namen.
+<sup>15</sup>Er wird mich anrufen, und ich will ihm antworten.
+Ich bin bei ihm in der Not.
+Ich will ihn befreien und ihn ehren.
+<sup>16</sup>Ich will ihn mit langem Leben sättigen
+und ihn mein Heil sehen lassen.“
+
+> **Was bedeutet das?**
+> Am Ende spricht Gott selbst. Er gibt sieben Versprechen: retten, in Sicherheit bringen, antworten, bei ihm sein, befreien, ehren, sättigen mit Leben.
+> Vers 15 ist besonders tröstlich: „Ich bin bei ihm in der Not.“ Gott verspricht nicht, dass es keine Not gibt. Aber er verspricht, in der Not dabei zu sein.
+
+## Psalm 92
+#### Ein Lied für den Sabbat
+
+---
+
+### Es ist gut, dem HERRN zu danken (Vers 1–5)
+
+<sup>1</sup>Ein Psalm. Ein Lied für den Sabbattag.
+Es ist gut, dem HERRN zu danken
+und deinem Namen Lob zu singen, du Höchster,
+<sup>2</sup>am Morgen deine Güte zu verkünden
+und deine Treue in jeder Nacht,
+<sup>3</sup>mit der zehnsaitigen Laute, mit der Harfe
+und mit dem Klang der Leier.
+<sup>4</sup>Denn du, HERR, hast mich fröhlich gemacht durch dein Werk.
+Ich will jubeln über die Werke deiner Hände.
+<sup>5</sup>Wie groß sind deine Werke, HERR!
+Deine Gedanken sind sehr tief.
+
+> **Was bedeutet das?**
+> Psalm 92 ist der einzige Psalm, der ausdrücklich für den Sabbat bestimmt ist. Der Sabbat ist der siebte Tag der Woche, der Ruhetag (2. Mose 20,8–11). Juden beten diesen Psalm bis heute am Sabbat.
+> Am Ruhetag hat man Zeit, Gott zu danken: am Morgen für seine Güte, am Abend für seine Treue.
+> Vers 5: Gottes Gedanken sind so tief, dass wir sie nie ganz verstehen.
+
+---
+
+### Die Gottlosen blühen wie Gras (Vers 6–9)
+
+<sup>6</sup>Ein unvernünftiger Mensch erkennt das nicht,
+und ein Tor versteht es nicht:
+<sup>7</sup>Auch wenn die Gottlosen sprossen wie Gras
+und alle Übeltäter blühen,
+werden sie doch für immer vernichtet.
+<sup>8</sup>Du aber, HERR, bist erhaben für immer.
+<sup>9</sup>Denn schau, deine Feinde, HERR,
+denn schau, deine Feinde werden umkommen.
+Alle Übeltäter werden zerstreut.
+
+> **Was bedeutet das?**
+> Wieder die Frage: Warum geht es den Bösen gut? Die Antwort: Ihr Erfolg ist wie Gras. Er blüht schnell, aber er verwelkt auch schnell.
+> Vers 8 steht genau in der Mitte des Psalms: „Du aber, HERR, bist erhaben für immer.“ Das ist das Zentrum.
+
+---
+
+### Wie eine Palme (Vers 10–15)
+
+<sup>10</sup>Aber du hast mein Horn erhoben wie das eines Wildstiers.
+Ich bin mit frischem Öl gesalbt.
+<sup>11</sup>Mein Auge hat auch meine Feinde gesehen.
+Meine Ohren haben von den bösen Feinden gehört, die sich gegen mich erheben.
+<sup>12</sup>Der Gerechte wird blühen wie eine Palme.
+Er wird wachsen wie eine Zeder im Libanon.
+<sup>13</sup>Sie sind im Haus des HERRN gepflanzt.
+Sie werden blühen in den Vorhöfen unseres Gottes.
+<sup>14</sup>Sie bringen auch im Alter noch Frucht.
+Sie sind voller Saft und grün,
+<sup>15</sup>um zu zeigen, dass der HERR aufrichtig ist.
+Er ist mein Fels, und es gibt kein Unrecht in ihm.
+
+> **Was bedeutet das?**
+> Die Gottlosen sind wie Gras (Vers 7), die Gerechten wie Palmen und Zedern (Vers 12). Gras verwelkt schnell. Palmen und Zedern werden sehr alt und bleiben grün.
+> Vers 14 ist eine schöne Verheißung für alte Menschen: Sie können auch im Alter noch Frucht bringen, voller Leben sein. Alter ist kein Ende, sondern kann eine fruchtbare Zeit sein.
+
+## Psalm 93
+#### Der HERR ist König
+
+---
+
+### Der HERR ist König (Vers 1–2)
+
+<sup>1</sup>Der HERR ist König!
+Er ist mit Majestät bekleidet!
+Der HERR hat sich mit Stärke gegürtet.
+Auch die Welt steht fest. Sie kann nicht wanken.
+<sup>2</sup>Dein Thron steht fest von alters her.
+Du bist von Ewigkeit her.
+
+> **Was bedeutet das?**
+> Psalm 93 ist der erste der sogenannten „Königspsalmen“ (Psalm 93; 95–99). Sie rufen: „Der HERR ist König!“
+> Nach dem Ende des Königtums in Israel (Psalm 89) richtet sich die Hoffnung auf Gott selbst als den wahren König.
+> Gott ist wie ein König gekleidet: mit Majestät und Stärke statt mit Purpur und Gold.
+
+---
+
+### Mächtiger als das Brausen des Meeres (Vers 3–5)
+
+<sup>3</sup>Die Fluten erheben, HERR,
+die Fluten erheben ihre Stimme.
+Die Fluten erheben ihre Wellen.
+<sup>4</sup>Mächtiger als das Brausen vieler Wasser,
+als die gewaltigen Brandungswellen des Meeres,
+ist der HERR in der Höhe.
+<sup>5</sup>Deine Zeugnisse sind sehr zuverlässig.
+Heiligkeit ist die Zierde deines Hauses, HERR, für immer.
+
+> **Was bedeutet das?**
+> Das Meer mit seinen tosenden Wellen war für die Menschen damals ein Bild für Chaos und Bedrohung. Man hört die Wellen dreimal anrollen: „Die Fluten erheben …“
+> Aber Gott ist mächtiger als das tobende Meer. Auch die bedrohlichsten Mächte der Welt sind kleiner als er.
+> Vers 5: Gottes Worte sind zuverlässig, und sein Haus ist heilig.
