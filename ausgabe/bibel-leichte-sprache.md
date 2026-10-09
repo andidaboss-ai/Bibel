@@ -62638,3 +62638,327 @@ Da legte sich der Zorn des Königs.
 > Der Kämmerer Harbona weist auf den Galgen hin (er wurde schon in Kapitel 1,10 genannt).
 > Die große Ironie: Haman stirbt an dem Galgen, den er für Mordechai gebaut hat. „Wer eine Grube gräbt, fällt selbst hinein“ (Sprüche 26,27; Psalm 7,16).
 > Aber die Gefahr ist noch nicht vorbei. Der Befehl zur Vernichtung der Juden gilt noch. Und ein persisches Gesetz kann nicht zurückgenommen werden (Kapitel 8).
+
+## Ester – Kapitel 8
+#### Der Gegenerlass
+
+---
+
+### Mordechai bekommt den Ring (Vers 1–2)
+
+<sup>1</sup>An diesem Tag gab der König Ahasveros der Königin Ester das Haus Hamans,
+des Feindes der Juden.
+Und Mordechai kam vor den König,
+denn Ester hatte erzählt, was er für sie war.
+<sup>2</sup>Der König zog seinen Ring ab,
+den er Haman weggenommen hatte,
+und gab ihn Mordechai.
+Und Ester setzte Mordechai über das Haus Hamans.
+
+> **Was bedeutet das?**
+> Jetzt erfährt der König, dass Mordechai Esters Pflegevater ist.
+> Der Siegelring, mit dem Haman den Mordbefehl gesiegelt hatte, gehört jetzt Mordechai. Und Hamans ganzer Besitz geht an Ester. Alles hat sich umgedreht.
+
+---
+
+### Ester bittet ein zweites Mal (Vers 3–8)
+
+<sup>3</sup>Ester redete noch einmal vor dem König.
+Sie fiel ihm zu Füßen, weinte und flehte ihn an,
+das Unheil Hamans, des Agagiters, abzuwenden,
+und seinen Plan, den er gegen die Juden geplant hatte.
+<sup>4</sup>Da streckte der König Ester das goldene Zepter entgegen.
+Da stand Ester auf und trat vor den König.
+<sup>5</sup>Sie sagte:
+„Wenn es dem König gefällt,
+und wenn ich Gunst vor ihm gefunden habe,
+und wenn die Sache dem König recht erscheint
+und ich in seinen Augen gefalle,
+dann soll man schreiben,
+um die Briefe zu widerrufen, die Haman, der Sohn Hammedatas, der Agagiter, ausgedacht hat
+und die er geschrieben hat, um die Juden in allen Provinzen des Königs zu vernichten.
+<sup>6</sup>Denn wie kann ich es ertragen, das Unglück zu sehen, das mein Volk treffen würde?
+Wie kann ich es ertragen, den Untergang meiner Verwandten zu sehen?“
+<sup>7</sup>Da sagte der König Ahasveros zur Königin Ester und zu Mordechai, dem Juden:
+„Schaut, ich habe Ester das Haus Hamans gegeben,
+und man hat ihn an den Galgen gehängt,
+weil er seine Hand an die Juden gelegt hat.
+<sup>8</sup>Schreibt ihr nun im Namen des Königs an die Juden, wie es euch gefällt,
+und siegelt es mit dem Ring des Königs.
+Denn ein Schreiben, das im Namen des Königs geschrieben
+und mit dem Ring des Königs gesiegelt ist,
+kann niemand widerrufen.“
+
+> **Was bedeutet das?**
+> Haman ist tot, aber sein Befehl gilt noch. Am 13. Adar dürfen alle Feinde die Juden angreifen.
+> Ester geht noch einmal unter Lebensgefahr zum König. Sie weint und fleht. Sie denkt nicht nur an sich, sondern an ihr ganzes Volk.
+> Das Problem: Ein persisches Gesetz kann nicht zurückgenommen werden (Kapitel 1,19; Daniel 6,9). Selbst der König kann seinen eigenen Befehl nicht aufheben.
+> Die Lösung: Ein neuer Befehl, der dem alten entgegenwirkt.
+
+---
+
+### Der neue Erlass (Vers 9–14)
+
+<sup>9</sup>Da wurden die Schreiber des Königs zu dieser Zeit gerufen,
+im dritten Monat, das ist der Monat Siwan, am 23. Tag des Monats.
+Und es wurde alles so geschrieben, wie Mordechai befahl,
+an die Juden
+und an die örtlichen Statthalter, die Statthalter und die Fürsten der Provinzen,
+von Indien bis Kusch, 127 Provinzen,
+an jede Provinz in ihrer Schrift
+und an jedes Volk in seiner Sprache,
+und an die Juden in ihrer Schrift und in ihrer Sprache.
+<sup>10</sup>Er schrieb im Namen des Königs Ahasveros
+und siegelte mit dem Ring des Königs.
+Und er schickte die Briefe durch berittene Boten,
+die auf königlichen Pferden ritten, aus schnellen Gestüten gezüchtet.
+<sup>11</sup>In diesen Briefen erlaubte der König den Juden in jeder Stadt,
+sich zu versammeln und ihr Leben zu verteidigen,
+und die ganze Macht jedes Volkes und jeder Provinz,
+die sie angreifen würde,
+samt Kindern und Frauen,
+zu vertilgen, zu töten und umzubringen
+und ihren Besitz zu plündern,
+<sup>12</sup>an einem einzigen Tag in allen Provinzen des Königs Ahasveros,
+am 13. Tag des zwölften Monats, das ist der Monat Adar.
+<sup>13</sup>Eine Abschrift des Schreibens sollte in jeder Provinz als Gesetz bekannt gemacht werden
+und allen Völkern veröffentlicht werden,
+damit die Juden an diesem Tag bereit wären,
+sich an ihren Feinden zu rächen.
+<sup>14</sup>Da zogen die Boten aus, die auf den königlichen Pferden ritten,
+eilig und angetrieben durch den Befehl des Königs.
+Und der Erlass wurde in der Burg Susa bekannt gegeben.
+
+> **Was bedeutet das?**
+> Der neue Erlass kommt zwei Monate nach dem ersten. Bis zum 13. Adar sind es noch neun Monate.
+> Der neue Erlass ist fast wortgleich mit dem Mordbefehl Hamans (Kapitel 3,12–14), nur umgekehrt. Die Juden dürfen sich jetzt verteidigen.
+> Wichtig: Es geht um Verteidigung. Die Juden dürfen nur gegen die vorgehen, „die sie angreifen würden“.
+> Die Formulierung „samt Kindern und Frauen“ ist schwer zu lesen. Sie wiederholt Hamans Worte aus Kapitel 3,13. Ob das wirklich so umgesetzt wurde, sagt Kapitel 9 nicht. Dort ist nur von getöteten Männern die Rede. Und die Juden nahmen keine Beute (Kapitel 9,10.15.16), obwohl es erlaubt war.
+> „Rächen“ meint hier: sich gegen die Angreifer wehren und sich Recht verschaffen.
+
+---
+
+### Freude statt Trauer (Vers 15–17)
+
+<sup>15</sup>Mordechai ging vom König hinaus,
+in königlicher Kleidung aus Blau und Weiß,
+mit einer großen goldenen Krone
+und einem Mantel aus feinem Leinen und Purpur.
+Und die Stadt Susa jubelte und freute sich.
+<sup>16</sup>Für die Juden gab es Licht, Freude, Jubel und Ehre.
+<sup>17</sup>In jeder Provinz und in jeder Stadt,
+wohin das Wort des Königs und sein Erlass kamen,
+hatten die Juden Freude und Jubel,
+Festmahl und Feiertag.
+Und viele von den Völkern des Landes wurden Juden,
+denn die Furcht vor den Juden war über sie gekommen.
+
+> **Was bedeutet das?**
+> Was für ein Gegensatz zu Kapitel 4: Dort trug Mordechai Sacktuch und Asche. Jetzt trägt er königliche Kleider. Dort war in allen Provinzen Trauer. Jetzt ist überall Freude.
+> „Licht, Freude, Jubel und Ehre“: Dieser Vers wird bis heute in jüdischen Familien am Ende des Sabbats gesprochen.
+> Am Ende von Kapitel 3 war die Stadt Susa bestürzt. Jetzt jubelt sie. Viele Menschen in Susa waren also froh, dass die Juden gerettet wurden.
+> „Viele wurden Juden“: Manche schlossen sich dem jüdischen Volk an. Ob aus Angst oder aus Überzeugung, sagt der Text nicht genau.
+
+## Ester – Kapitel 9
+#### Der 13. Adar und das Purimfest
+
+---
+
+### Der Tag der Entscheidung (Vers 1–4)
+
+<sup>1</sup>Im zwölften Monat, das ist der Monat Adar, am 13. Tag des Monats,
+als der Befehl des Königs und sein Erlass ausgeführt werden sollten,
+an dem Tag, an dem die Feinde der Juden gehofft hatten, sie zu überwältigen
+– es wendete sich aber, sodass die Juden die überwältigten, die sie hassten –,
+<sup>2</sup>da versammelten sich die Juden in ihren Städten,
+in allen Provinzen des Königs Ahasveros,
+um Hand an die zu legen, die ihnen Böses tun wollten.
+Niemand konnte vor ihnen bestehen,
+denn die Furcht vor ihnen war über alle Völker gekommen.
+<sup>3</sup>Alle Fürsten der Provinzen,
+die örtlichen Statthalter, die Statthalter und die Beamten des Königs
+unterstützten die Juden,
+denn die Furcht vor Mordechai war über sie gekommen.
+<sup>4</sup>Denn Mordechai war groß im Haus des Königs,
+und sein Ruf ging durch alle Provinzen.
+Denn der Mann Mordechai wurde immer größer.
+
+> **Was bedeutet das?**
+> Der Tag kommt. Der Tag, an dem die Juden vernichtet werden sollten. Aber „es wendete sich“. Das ist das Schlüsselwort des ganzen Buches: Alles wendet sich ins Gegenteil.
+> Wichtig: Die Juden greifen nur die an, „die ihnen Böses tun wollten“. Es ging um Notwehr gegen Menschen, die sie töten wollten. Denn Hamans Befehl galt ja immer noch.
+
+---
+
+### Die Kämpfe in Susa (Vers 5–15)
+
+<sup>5</sup>Die Juden schlugen alle ihre Feinde mit dem Schwert,
+mit Töten und Vernichten,
+und taten mit denen, die sie hassten, was sie wollten.
+<sup>6</sup>In der Burg Susa töteten und vernichteten die Juden 500 Männer.
+<sup>7</sup>Sie töteten Parschandata, Dalfon, Aspata,
+<sup>8</sup>Porata, Adalja, Aridata,
+<sup>9</sup>Parmaschta, Arisai, Aridai und Wajesata,
+<sup>10</sup>die zehn Söhne Hamans, des Sohnes Hammedatas, des Feindes der Juden.
+Aber an die Beute legten sie ihre Hand nicht.
+<sup>11</sup>An diesem Tag kam die Zahl der Getöteten in der Burg Susa vor den König.
+<sup>12</sup>Der König sagte zur Königin Ester:
+„In der Burg Susa haben die Juden 500 Männer getötet und vernichtet,
+dazu die zehn Söhne Hamans.
+Was mögen sie in den übrigen Provinzen des Königs getan haben!
+Was ist nun dein Wunsch? Er soll dir gewährt werden.
+Was ist noch deine Bitte? Sie soll erfüllt werden.“
+<sup>13</sup>Da sagte Ester:
+„Wenn es dem König gefällt,
+soll den Juden in Susa erlaubt werden,
+auch morgen nach dem heutigen Erlass zu handeln.
+Und die zehn Söhne Hamans soll man an den Galgen hängen.“
+<sup>14</sup>Der König befahl, dass es so geschehen sollte.
+Ein Erlass wurde in Susa bekannt gegeben,
+und man hängte die zehn Söhne Hamans auf.
+<sup>15</sup>Die Juden in Susa versammelten sich auch am 14. Tag des Monats Adar
+und töteten in Susa 300 Männer.
+Aber an die Beute legten sie ihre Hand nicht.
+
+> **Was bedeutet das?**
+> Diese Verse sind schwer zu lesen. Viele Menschen sterben.
+> Man muss den Zusammenhang sehen: Es gab noch viele Feinde, die den ersten Befehl ausführen und die Juden töten wollten. Die Juden verteidigen ihr Leben.
+> Dreimal wird betont: „An die Beute legten sie ihre Hand nicht.“ Das war ihnen erlaubt (Kapitel 8,11). Aber sie wollten zeigen: Es ging ihnen nicht um Bereicherung, sondern ums Überleben. Das erinnert an Saul, der damals Beute von den Amalekitern nahm und dafür getadelt wurde (1. Samuel 15).
+> Die zehn Söhne Hamans waren wohl schon tot (Vers 10). Sie wurden zur Abschreckung öffentlich aufgehängt.
+> Warum bittet Ester um einen zweiten Tag in Susa? Der Text sagt es nicht. Vielleicht gab es in der Hauptstadt noch besonders viele Feinde. Diese Stelle ist schwer zu verstehen, und viele Leser tun sich bis heute schwer damit.
+> Juden und Christen lesen diese Geschichte nicht als Aufruf zu Rache oder Gewalt. Sie lesen sie als Geschichte einer Rettung vor einem geplanten Völkermord.
+
+---
+
+### In den Provinzen (Vers 16–19)
+
+<sup>16</sup>Auch die übrigen Juden in den Provinzen des Königs versammelten sich,
+verteidigten ihr Leben
+und hatten Ruhe vor ihren Feinden.
+Sie töteten 75 000 von denen, die sie hassten.
+Aber an die Beute legten sie ihre Hand nicht.
+<sup>17</sup>Das geschah am 13. Tag des Monats Adar.
+Und am 14. Tag dieses Monats ruhten sie
+und machten ihn zu einem Tag des Festmahls und der Freude.
+<sup>18</sup>Die Juden in Susa aber versammelten sich am 13. und am 14. Tag des Monats.
+Und am 15. Tag dieses Monats ruhten sie
+und machten ihn zu einem Tag des Festmahls und der Freude.
+<sup>19</sup>Darum machen die Juden auf dem Land,
+die in den offenen Dörfern wohnen,
+den 14. Tag des Monats Adar zu einem Tag der Freude und des Festmahls,
+zu einem Feiertag,
+an dem man einander Speisen schickt.
+
+> **Was bedeutet das?**
+> Die Zahl 75 000 ist sehr hoch. Die griechische Fassung des Buches hat 15 000. Wie bei vielen großen Zahlen in der Bibel ist unsicher, wie genau sie gemeint ist.
+> „Sie verteidigten ihr Leben“: Wieder wird betont, dass es um Notwehr ging.
+> Weil in Susa zwei Tage gekämpft wurde, feiern die Juden in befestigten Städten Purim einen Tag später. Bis heute feiern Juden in Jerusalem Purim am 15. Adar („Schuschan Purim“) und an anderen Orten am 14. Adar.
+
+---
+
+### Mordechai setzt das Purimfest ein (Vers 20–28)
+
+<sup>20</sup>Mordechai schrieb diese Ereignisse auf
+und schickte Briefe an alle Juden in allen Provinzen des Königs Ahasveros,
+nah und fern,
+<sup>21</sup>um ihnen aufzutragen, dass sie jedes Jahr den 14. und den 15. Tag des Monats Adar feiern sollten,
+<sup>22</sup>als die Tage, an denen die Juden Ruhe vor ihren Feinden bekamen,
+und als den Monat, in dem sich für sie Kummer in Freude verwandelte
+und Trauer in einen Feiertag.
+Sie sollten sie zu Tagen des Festmahls und der Freude machen,
+an denen man einander Speisen schickt
+und den Armen Geschenke gibt.
+<sup>23</sup>Die Juden nahmen als Brauch an, was sie angefangen hatten
+und was Mordechai ihnen geschrieben hatte.
+<sup>24</sup>Denn Haman, der Sohn Hammedatas, der Agagiter, der Feind aller Juden,
+hatte gegen die Juden geplant, sie zu vernichten.
+Und er hatte das Pur, das ist das Los, geworfen,
+um sie zu vertilgen und zu vernichten.
+<sup>25</sup>Aber als die Sache vor den König kam,
+befahl er durch Briefe,
+dass sein böser Plan, den er gegen die Juden geplant hatte,
+auf seinen eigenen Kopf zurückfallen sollte,
+und dass man ihn und seine Söhne an den Galgen hängen sollte.
+<sup>26</sup>Darum nannte man diese Tage „Purim“, nach dem Wort „Pur“.
+Darum, wegen aller Worte dieses Briefes
+und wegen dessen, was sie selbst darüber gesehen hatten
+und was ihnen widerfahren war,
+<sup>27</sup>setzten die Juden fest und nahmen auf sich,
+auf ihre Nachkommen
+und auf alle, die sich ihnen anschlossen,
+dass es nicht aufhören sollte,
+dass sie diese zwei Tage feiern,
+wie es geschrieben steht und zu ihrer festgesetzten Zeit, jedes Jahr,
+<sup>28</sup>und dass man an diese Tage denken und sie feiern sollte,
+in jeder Generation, in jeder Familie, in jeder Provinz und in jeder Stadt.
+Diese Purimtage sollen unter den Juden nicht aufhören,
+und die Erinnerung an sie soll bei ihren Nachkommen nicht vergehen.
+
+> **Was bedeutet das?**
+> So entsteht das Purimfest. „Purim“ ist die Mehrzahl von „Pur“, Los. Haman hatte das Los geworfen, um einen Tag für die Vernichtung zu finden. Jetzt ist dieser Tag ein Freudentag.
+> Wie wird Purim gefeiert? Bis heute so, wie es hier steht:
+> – mit einem Festmahl und viel Freude,
+> – man schickt einander Speisen („Mischloach Manot“),
+> – man gibt den Armen Geschenke („Matanot la-Evjonim“).
+> Dazu wird in der Synagoge das Buch Ester vorgelesen. Immer wenn der Name Haman fällt, machen die Kinder Lärm mit Rasseln, um seinen Namen zu übertönen. Viele verkleiden sich.
+> Wichtig: Zum Fest gehört, an die Armen zu denken. Wer gerettet wurde, soll andere beschenken.
+> Purim feiert nicht den Tod der Feinde. Es feiert die Rettung, die Ruhe und die Verwandlung von Trauer in Freude.
+
+---
+
+### Der zweite Purimbrief (Vers 29–32)
+
+<sup>29</sup>Dann schrieben die Königin Ester, die Tochter Abihajils,
+und Mordechai, der Jude,
+mit aller Vollmacht,
+um diesen zweiten Brief über Purim zu bestätigen.
+<sup>30</sup>Er schickte Briefe an alle Juden in den 127 Provinzen des Königreichs des Ahasveros,
+mit Worten des Friedens und der Wahrheit,
+<sup>31</sup>um diese Purimtage zu ihren festgesetzten Zeiten zu bestätigen,
+wie Mordechai, der Jude, und die Königin Ester sie angeordnet hatten
+und wie sie es für sich und ihre Nachkommen festgesetzt hatten,
+in Bezug auf das Fasten und ihr Klagen.
+<sup>32</sup>Das Gebot Esters bestätigte diese Sachen über Purim,
+und es wurde in das Buch geschrieben.
+
+> **Was bedeutet das?**
+> Ester selbst bestätigt das Fest mit ihrer königlichen Autorität. Sie ist jetzt nicht mehr nur die junge Waise, die tut, was man ihr sagt. Sie ist eine Anführerin ihres Volkes.
+> „Worte des Friedens und der Wahrheit“: Das Fest soll Frieden bringen.
+> „Fasten und Klagen“: Am Tag vor Purim fasten Juden bis heute, zur Erinnerung an Esters Fasten (das „Ester-Fasten“, Kapitel 4,16).
+
+## Ester – Kapitel 10
+#### Mordechais Größe
+
+---
+
+### Mordechai sucht das Wohl seines Volkes (Vers 1–3)
+
+<sup>1</sup>Der König Ahasveros legte dem Land und den Inseln des Meeres eine Abgabe auf.
+<sup>2</sup>Alle Taten seiner Macht und seiner Stärke
+und der genaue Bericht über die Größe Mordechais,
+zu der der König ihn erhoben hatte,
+steht das nicht geschrieben im Buch der Chroniken der Könige von Medien und Persien?
+<sup>3</sup>Denn Mordechai, der Jude, war der Zweite nach dem König Ahasveros,
+groß bei den Juden
+und beliebt bei der Menge seiner Brüder.
+Er suchte das Wohl seines Volkes
+und redete zum Frieden für alle seine Nachkommen.
+
+> **Was bedeutet das?**
+> Das Buch endet kurz. Mordechai ist jetzt der zweitmächtigste Mann im Reich, genau dort, wo vorher Haman stand.
+> Aber Mordechai ist ganz anders als Haman. Haman suchte seine eigene Ehre und den Tod anderer. Mordechai „suchte das Wohl seines Volkes und redete zum Frieden“.
+> Das erinnert an Josef in Ägypten, der auch als Fremder zum zweiten Mann nach dem König wurde und sein Volk rettete (1. Mose 41,40).
+> Mordechai wird „beliebt bei der Menge seiner Brüder“ genannt. Wörtlich heißt es „bei der Mehrheit“. Ein ehrlicher Hinweis: Nicht alle waren mit ihm einverstanden. Auch ein guter Anführer kann es nicht allen recht machen.
+
+---
+
+### Rückblick: Was haben wir im Buch Ester gelesen?
+
+> **Was bedeutet das?**
+> **Die Geschichte:** Eine jüdische Waise, Ester, wird Königin von Persien. Haman, der mächtigste Beamte, plant, alle Juden zu töten. Ester setzt ihr Leben aufs Spiel, um ihr Volk zu retten. Haman wird entlarvt und fällt in die Grube, die er selbst gegraben hat. Die Juden werden gerettet.
+> **Der verborgene Gott:** Im hebräischen Buch Ester wird Gott nicht ein einziges Mal genannt. Und doch ist er überall: in den „Zufällen“, im Zeitpunkt der schlaflosen Nacht, in der Verzögerung des Festmahls, in dem Los, das auf einen Tag elf Monate später fällt. Das Buch zeigt: Auch wenn wir Gott nicht sehen, ist er am Werk.
+> **Alles wendet sich:** Das ist das große Thema: Trauer wird zu Freude, Fasten zu Festmahl, der Galgen trifft den, der ihn gebaut hat, der Feind wird erniedrigt, der Verachtete wird geehrt.
+> **Mut:** Ester ist ein Vorbild für Mut. Sie hat Angst, aber sie handelt: „Wenn ich umkomme, dann komme ich um.“ Und Mordechais Frage gilt bis heute jedem Menschen: „Wer weiß, ob du nicht gerade für eine Zeit wie diese an deinem Platz bist?“
+> **Warnung vor Hass:** Das Buch zeigt, wie Judenhass entsteht: aus gekränktem Stolz, aus Lügen und aus der Gleichgültigkeit der Mächtigen. Leider ist diese Warnung durch die ganze Geschichte bis heute wichtig geblieben.
+> **Purim:** Das Buch erklärt, warum Juden bis heute Purim feiern, mit Freude, Geschenken für Freunde und Gaben für die Armen.
+> **Schwere Stellen:** Die Kämpfe in Kapitel 9 sind schwer zu lesen. Sie werden als Selbstverteidigung gegen einen geplanten Völkermord erzählt. Sie sind keine Erlaubnis für Rache.
+> **Wie geht es weiter?** Mit dem Buch Ester enden die Geschichtsbücher des Alten Testaments. Es folgen die Bücher der Weisheit und der Dichtung. Das erste ist das Buch Hiob, das die Frage stellt: Warum müssen gute Menschen leiden?
