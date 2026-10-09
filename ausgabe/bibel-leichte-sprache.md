@@ -81132,3 +81132,330 @@ Ich kann es noch einmal tun. Ich will noch mehr suchen.“
 > Vers 33–34: Betrunkene sehen Dinge, die nicht da sind. Ihnen ist schwindlig wie auf einem schaukelnden Schiff.
 > Vers 35: Das Traurigste: Der Betrunkene merkt nicht einmal, dass er verletzt wurde. Und sobald er aufwacht, will er wieder trinken. Das ist Sucht.
 > Wer selbst oder in der Familie mit Alkohol kämpft: Sucht ist eine Krankheit, und es gibt Hilfe. Die Sucht- und Drogen-Hotline ist erreichbar unter 01806 313 031. Auch die Anonymen Alkoholiker und örtliche Suchtberatungsstellen helfen.
+
+## Sprüche – Kapitel 24
+#### Rette die, die zum Tod geschleppt werden
+
+---
+
+### Durch Weisheit wird ein Haus gebaut (Vers 1–10)
+
+<sup>1</sup>Beneide böse Menschen nicht,
+und wünsche dir nicht, bei ihnen zu sein,
+<sup>2</sup>denn ihr Herz plant Gewalt,
+und ihre Lippen reden von Unheil.
+<sup>3</sup>Durch Weisheit wird ein Haus gebaut,
+durch Einsicht wird es gefestigt,
+<sup>4</sup>durch Erkenntnis werden die Zimmer gefüllt
+mit allerlei seltenen und schönen Schätzen.
+<sup>5</sup>Ein weiser Mann hat große Macht.
+Ein Mann mit Erkenntnis vermehrt seine Kraft,
+<sup>6</sup>denn mit weiser Führung führst du deinen Krieg,
+und der Sieg liegt bei vielen Ratgebern.
+<sup>7</sup>Weisheit ist zu hoch für einen Toren.
+Im Tor öffnet er seinen Mund nicht.
+<sup>8</sup>Wer plant, Böses zu tun,
+wird ein Ränkeschmied genannt.
+<sup>9</sup>Die Pläne der Torheit sind Sünde.
+Der Spötter ist den Menschen ein Gräuel.
+<sup>10</sup>Wenn du in der Zeit der Not schlapp machst,
+dann ist deine Kraft gering.
+
+> **Was bedeutet das?**
+> Vers 3–4: Ein Haus, eine Familie, ein Leben wird nicht nur mit Steinen gebaut, sondern mit Weisheit. Und die schönsten Schätze darin sind nicht Möbel, sondern Wissen und Liebe.
+> Vers 7: Im Stadttor wurden Gerichtsverhandlungen geführt und Entscheidungen getroffen. Dort hat der Tor nichts Kluges zu sagen.
+> Vers 10: Wahre Stärke zeigt sich erst in schweren Zeiten.
+
+---
+
+### Schau nicht weg (Vers 11–12)
+
+<sup>11</sup>Rette die, die zum Tod weggeführt werden!
+Ja, halte die zurück, die zur Schlachtung wanken!
+<sup>12</sup>Wenn du sagst: „Siehe, wir haben das nicht gewusst“,
+merkt es dann nicht der, der die Herzen prüft?
+Weiß es nicht der, der dein Leben behütet?
+Wird er nicht jedem nach seinem Tun vergelten?
+
+> **Was bedeutet das?**
+> Das ist einer der eindringlichsten Aufrufe der Bibel: Wenn Menschen in Lebensgefahr sind, dann greif ein! Schau nicht weg!
+> Vers 12: Die Ausrede „Das haben wir nicht gewusst“ zählt vor Gott nicht. Er weiß, was wir wussten.
+> Nach dem Holocaust haben viele Menschen in Deutschland gesagt: „Wir haben nichts gewusst.“ Dieser Vers ist eine bleibende Mahnung, Unrecht nicht zu übersehen. Er gilt bis heute, überall, wo Menschen verfolgt, misshandelt oder getötet werden.
+
+---
+
+### Freu dich nicht, wenn dein Feind fällt (Vers 13–22)
+
+<sup>13</sup>Mein Sohn, iss Honig, denn er ist gut,
+Wabenhonig, der süß ist für deinen Gaumen.
+<sup>14</sup>So sollst du erkennen, dass die Weisheit für deine Seele ist.
+Wenn du sie gefunden hast, dann gibt es einen Lohn:
+Deine Hoffnung wird nicht zerstört werden.
+<sup>15</sup>Lauere nicht, du Gottloser, der Wohnung des Gerechten auf!
+Zerstöre seinen Ruheplatz nicht!
+<sup>16</sup>Denn ein Gerechter fällt siebenmal und steht wieder auf,
+aber die Gottlosen werden vom Unglück gestürzt.
+<sup>17</sup>Freu dich nicht, wenn dein Feind fällt!
+Dein Herz soll nicht jubeln, wenn er stürzt,
+<sup>18</sup>damit der HERR es nicht sieht und es ihm missfällt
+und er seinen Zorn von ihm abwendet.
+<sup>19</sup>Ärgere dich nicht über die Übeltäter,
+und beneide die Gottlosen nicht,
+<sup>20</sup>denn der Böse hat keine Zukunft.
+Die Lampe der Gottlosen wird erlöschen.
+<sup>21</sup>Mein Sohn, fürchte den HERRN und den König!
+Schließe dich nicht den Aufrührern an,
+<sup>22</sup>denn ihr Unglück wird plötzlich kommen.
+Wer weiß, welches Verderben von beiden kommen kann?
+
+> **Was bedeutet das?**
+> Vers 13–14: Weisheit ist süß wie Honig. Sie tut der Seele gut.
+> Vers 16: Ein Mut machender Satz: Auch gute Menschen fallen, sogar oft, „siebenmal“. Aber sie stehen wieder auf. Hinfallen ist keine Schande. Liegen bleiben schon.
+> Vers 17–18: Freu dich nicht über das Unglück deines Feindes! Schadenfreude gefällt Gott nicht. Das passt zu Jesu Gebot der Feindesliebe.
+> Vers 19–20: Ärgere dich nicht über erfolgreiche Böse. Ihr Erfolg ist nicht von Dauer (vgl. Psalm 37).
+
+---
+
+### Weitere Worte der Weisen (Vers 23–29)
+
+<sup>23</sup>Auch diese Sprüche sind von den Weisen:
+Parteilichkeit im Gericht ist nicht gut.
+<sup>24</sup>Wer zum Gottlosen sagt: „Du bist gerecht“,
+den verfluchen die Völker, und die Nationen verabscheuen ihn.
+<sup>25</sup>Aber denen, die den Schuldigen überführen, wird es gut gehen,
+und reicher Segen wird über sie kommen.
+<sup>26</sup>Eine ehrliche Antwort
+ist wie ein Kuss auf die Lippen.
+<sup>27</sup>Bereite deine Arbeit draußen vor
+und mach deine Felder bereit.
+Danach baue dein Haus.
+<sup>28</sup>Sei nicht ohne Grund Zeuge gegen deinen Nächsten!
+Betrüge nicht mit deinen Lippen!
+<sup>29</sup>Sag nicht: „Wie er mir getan hat, so will ich ihm tun.
+Ich will jedem nach seinem Tun vergelten.“
+
+> **Was bedeutet das?**
+> Vers 23–25: Ein Richter muss gerecht sein und darf niemanden bevorzugen. Wer Schuldige freispricht, verliert das Vertrauen aller.
+> Vers 26: Ein schönes Bild: Eine ehrliche Antwort ist ein Zeichen von Freundschaft, wie ein Kuss.
+> Vers 27: Erst die Grundlage schaffen, dann bauen. Erst für das Einkommen sorgen, dann ein Haus bauen oder eine Familie gründen.
+> Vers 29: „Wie du mir, so ich dir“ ist kein guter Grundsatz. Rache ist nicht unsere Sache (vgl. Kapitel 20,22).
+
+---
+
+### Der Weinberg des Faulen (Vers 30–34)
+
+<sup>30</sup>Ich ging am Feld des Faulen vorbei,
+am Weinberg des Menschen ohne Verstand.
+<sup>31</sup>Siehe, er war ganz mit Dornen überwachsen.
+Seine Oberfläche war mit Brennnesseln bedeckt,
+und seine Steinmauer war eingestürzt.
+<sup>32</sup>Da sah ich es und dachte gut darüber nach.
+Ich sah es und nahm eine Lehre an:
+<sup>33</sup>Ein wenig schlafen, ein wenig schlummern,
+ein wenig die Hände falten, um zu schlafen,
+<sup>34</sup>so wird deine Armut kommen wie ein Räuber
+und dein Mangel wie ein bewaffneter Mann.
+
+> **Was bedeutet das?**
+> Der Weise erzählt, was er beobachtet hat: Ein Weinberg, um den sich niemand kümmert, verwildert. Unkraut wächst, die Mauer fällt zusammen.
+> Er lernt daraus: Verfall kommt nicht plötzlich, sondern langsam, durch viele kleine Versäumnisse. Das gilt auch für Freundschaften, Ehen und den Glauben.
+> Vers 33–34 wiederholen Kapitel 6,10–11.
+> Damit endet der Teil „Worte der Weisen“.
+
+## Sprüche – Kapitel 25
+#### Goldene Äpfel in silbernen Schalen
+
+---
+
+### Die Männer Hiskias (Vers 1–7)
+
+<sup>1</sup>Auch dies sind Sprüche Salomos,
+die die Männer Hiskias, des Königs von Juda, abgeschrieben haben.
+<sup>2</sup>Es ist die Ehre Gottes, eine Sache zu verbergen,
+aber die Ehre der Könige ist es, eine Sache zu erforschen.
+<sup>3</sup>Wie der Himmel an Höhe und die Erde an Tiefe,
+so sind die Herzen der Könige unerforschlich.
+<sup>4</sup>Entferne die Schlacke vom Silber,
+dann kommt für den Schmied ein Gefäß heraus.
+<sup>5</sup>Entferne den Gottlosen aus der Nähe des Königs,
+dann wird sein Thron durch Gerechtigkeit gefestigt.
+<sup>6</sup>Mach dich nicht groß vor dem König,
+und beanspruche keinen Platz unter den Großen,
+<sup>7</sup>denn es ist besser, dass man zu dir sagt: „Komm hier herauf!“,
+als dass man dich vor dem Fürsten erniedrigt,
+den deine Augen gesehen haben.
+
+> **Was bedeutet das?**
+> Vers 1: Hier beginnt ein neuer Teil (Kapitel 25–29). König Hiskia lebte etwa 250 Jahre nach Salomo. Seine Schreiber haben alte Sprüche Salomos gesammelt und abgeschrieben. So sind sie uns erhalten geblieben.
+> Vers 2: Gott hat vieles in der Welt verborgen. Menschen dürfen und sollen forschen. Viele Wissenschaftler haben diesen Vers als Ermutigung verstanden.
+> Vers 6–7: Setz dich nicht von selbst auf den Ehrenplatz. Es ist besser, wenn man dich nach vorne bittet, als wenn man dich wegschickt. Jesus erzählt fast genau dieses Gleichnis (Lukas 14,7–11).
+
+---
+
+### Ein Wort zur rechten Zeit (Vers 8–15)
+
+<sup>8</sup>Sei nicht vorschnell damit, vor Gericht Anklage zu erheben.
+Was willst du am Ende tun, wenn dein Nächster dich beschämt?
+<sup>9</sup>Trag deinen Streit mit deinem Nächsten aus,
+aber verrate nicht das Geheimnis eines anderen,
+<sup>10</sup>damit der, der es hört, dich nicht beschämt
+und dein schlechter Ruf nie mehr weggeht.
+<sup>11</sup>Ein Wort, das zur rechten Zeit gesagt wird,
+ist wie goldene Äpfel in silbernen Fassungen.
+<sup>12</sup>Wie ein goldener Ohrring und ein Schmuck aus feinem Gold,
+so ist ein weiser Mahner für ein Ohr, das hört.
+<sup>13</sup>Wie die Kühle von Schnee in der Erntezeit,
+so ist ein treuer Bote für die, die ihn senden,
+denn er erfrischt die Seele seiner Herren.
+<sup>14</sup>Wie Wolken und Wind ohne Regen,
+so ist einer, der mit Geschenken prahlt, die er nicht gibt.
+<sup>15</sup>Durch Geduld lässt sich ein Herrscher überzeugen.
+Eine sanfte Zunge bricht Knochen.
+
+> **Was bedeutet das?**
+> Vers 8–10: Streit soll man direkt mit dem anderen klären, nicht gleich vor Gericht und nicht hinter seinem Rücken. Jesus gibt einen ähnlichen Rat (Matthäus 18,15).
+> Vers 11: Ein wunderschönes Bild: Das richtige Wort zur richtigen Zeit ist so wertvoll und schön wie ein Kunstwerk aus Gold und Silber.
+> Vers 13: In der heißen Erntezeit tut etwas Kühles gut. So erfrischend ist ein zuverlässiger Mensch.
+> Vers 14: Wer viel verspricht und nichts hält, ist wie Wolken, die keinen Regen bringen. Enttäuschend.
+> Vers 15: „Eine sanfte Zunge bricht Knochen“: Geduld und freundliche Worte erreichen oft mehr als Gewalt.
+
+---
+
+### Maß halten (Vers 16–20)
+
+<sup>16</sup>Hast du Honig gefunden? Iss nur so viel, wie dir genügt,
+damit du nicht zu viel davon isst und ihn erbrichst.
+<sup>17</sup>Setz deinen Fuß selten in das Haus deines Nächsten,
+damit er deiner nicht überdrüssig wird und dich hasst.
+<sup>18</sup>Ein Mensch, der falsches Zeugnis gegen seinen Nächsten ablegt,
+ist wie eine Keule, ein Schwert oder ein scharfer Pfeil.
+<sup>19</sup>Vertrauen auf einen Treulosen in der Zeit der Not
+ist wie ein schlechter Zahn oder ein lahmer Fuß.
+<sup>20</sup>Wie einer, der an einem kalten Tag ein Kleid wegnimmt,
+oder wie Essig auf Natron,
+so ist einer, der einem traurigen Herzen Lieder singt.
+
+> **Was bedeutet das?**
+> Vers 16–17: Auch gute Dinge soll man in Maßen genießen: Honig und Besuche bei Nachbarn. Zu viel des Guten verdirbt alles.
+> Vers 19: Wer sich in der Not auf einen unzuverlässigen Menschen verlässt, ist wie jemand mit Zahnschmerzen, der zubeißen will.
+> Vers 20: Ein feinfühliger Spruch: Wer traurig ist, dem helfen fröhliche Lieder nicht. Wenn Essig auf Natron kommt, schäumt es auf. So reagiert ein trauriger Mensch auf aufgesetzte Fröhlichkeit. Besser ist es, mit den Traurigen zu weinen (Römer 12,15).
+
+---
+
+### Wenn dein Feind hungert (Vers 21–28)
+
+<sup>21</sup>Wenn dein Feind hungrig ist, gib ihm Brot zu essen.
+Wenn er durstig ist, gib ihm Wasser zu trinken,
+<sup>22</sup>denn so wirst du glühende Kohlen auf seinen Kopf häufen,
+und der HERR wird es dir vergelten.
+<sup>23</sup>Der Nordwind bringt Regen,
+so bringt eine verleumderische Zunge ein zorniges Gesicht.
+<sup>24</sup>Es ist besser, in einer Ecke auf dem Dach zu wohnen,
+als mit einer zänkischen Frau ein Haus zu teilen.
+<sup>25</sup>Wie kaltes Wasser für eine durstige Seele,
+so ist eine gute Nachricht aus einem fernen Land.
+<sup>26</sup>Wie eine schlammige Quelle und ein verschmutzter Brunnen,
+so ist ein Gerechter, der vor dem Gottlosen nachgibt.
+<sup>27</sup>Es ist nicht gut, viel Honig zu essen,
+und es ist nicht ehrenvoll, die eigene Ehre zu suchen.
+<sup>28</sup>Wie eine Stadt, die eingerissen ist und keine Mauern hat,
+so ist ein Mensch, der seinen Geist nicht beherrscht.
+
+> **Was bedeutet das?**
+> Vers 21–22 gehört zu den größten Sätzen des Alten Testaments: Sei gut zu deinem Feind! Gib ihm zu essen und zu trinken. Die „glühenden Kohlen“ meinen wahrscheinlich: Er wird sich schämen und vielleicht umkehren. Güte kann einen Feind zum Freund machen. Paulus zitiert diese Verse (Römer 12,20–21): „Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit dem Guten.“
+> Vers 24 wiederholt Kapitel 21,9.
+> Vers 25: Eine gute Nachricht von weit weg, etwa von einem Menschen, den man liebt, ist so erfrischend wie kaltes Wasser.
+> Vers 26: Wenn gute Menschen vor dem Bösen einknicken, ist das wie ein verschmutzter Brunnen: Man kann sich nicht mehr auf sie verlassen.
+> Vers 28: Wer sich selbst nicht beherrschen kann, ist schutzlos wie eine Stadt ohne Mauern.
+
+## Sprüche – Kapitel 26
+#### Über Toren, Faule und Lügner
+
+---
+
+### Wie man mit Toren umgeht (Vers 1–12)
+
+<sup>1</sup>Wie Schnee im Sommer und wie Regen in der Ernte,
+so passt Ehre nicht zu einem Toren.
+<sup>2</sup>Wie ein flatternder Spatz, wie eine schnell fliegende Schwalbe,
+so lässt sich ein unverdienter Fluch nicht nieder.
+<sup>3</sup>Eine Peitsche für das Pferd, ein Zaum für den Esel
+und ein Stock für den Rücken der Toren!
+<sup>4</sup>Antworte dem Toren nicht nach seiner Torheit,
+damit du ihm nicht auch gleich wirst.
+<sup>5</sup>Antworte dem Toren nach seiner Torheit,
+damit er sich nicht für weise hält.
+<sup>6</sup>Wer eine Botschaft durch die Hand eines Toren sendet,
+schneidet sich die Füße ab und trinkt Gewalt.
+<sup>7</sup>Wie die Beine des Lahmen, die schlaff herabhängen,
+so ist ein Spruch im Mund der Toren.
+<sup>8</sup>Wie einer, der einen Stein in die Schleuder bindet,
+so ist der, der einem Toren Ehre gibt.
+<sup>9</sup>Wie ein Dornbusch, der in die Hand eines Betrunkenen gerät,
+so ist ein Spruch im Mund der Toren.
+<sup>10</sup>Wie ein Bogenschütze, der alle verwundet,
+so ist der, der einen Toren anstellt oder die, die gerade vorbeikommen.
+<sup>11</sup>Wie ein Hund, der zu seinem Erbrochenen zurückkehrt,
+so ist ein Tor, der seine Torheit wiederholt.
+<sup>12</sup>Siehst du einen Menschen, der in seinen eigenen Augen weise ist?
+Für einen Toren gibt es mehr Hoffnung als für ihn.
+
+> **Was bedeutet das?**
+> Vers 2: Ein tröstlicher Satz: Wenn dich jemand ohne Grund verflucht, hat das keine Macht über dich. Der Fluch fliegt vorbei wie ein Vogel.
+> Vers 3: Ein Vergleich aus der damaligen Zeit. Es heißt: Wer nicht auf Worte hört, muss die Folgen spüren. Es ist keine Aufforderung zur Gewalt.
+> Vers 4–5 widersprechen sich scheinbar. Das ist Absicht! Manchmal ist es besser, auf dummes Gerede gar nicht einzugehen, damit man nicht selbst dumm wird. Manchmal muss man widersprechen, damit der andere nicht denkt, er habe recht. Weisheit heißt: erkennen, was in welcher Situation richtig ist.
+> Vers 7 und 9: Ein Tor kann zwar kluge Sprüche aufsagen, aber er versteht sie nicht und benutzt sie falsch.
+> Vers 11: Ein drastisches Bild: Der Tor macht immer wieder dieselben Fehler. Petrus zitiert diesen Vers (2. Petrus 2,22).
+> Vers 12: Wer sich für klug hält und nichts mehr lernen will, ist noch schlimmer dran als ein Tor.
+
+---
+
+### Der Faule und seine Ausreden (Vers 13–16)
+
+<sup>13</sup>Der Faule sagt: „Ein Löwe ist auf dem Weg!
+Ein wilder Löwe läuft auf den Straßen herum!“
+<sup>14</sup>Wie die Tür sich in ihren Angeln dreht,
+so dreht sich der Faule auf seinem Bett.
+<sup>15</sup>Der Faule steckt seine Hand in die Schüssel.
+Er ist zu faul, sie wieder zum Mund zu führen.
+<sup>16</sup>Der Faule ist in seinen eigenen Augen weiser
+als sieben, die verständig antworten.
+
+> **Was bedeutet das?**
+> Vier lustige Sprüche über den Faulen:
+> Er erfindet Ausreden (Vers 13). Er dreht sich im Bett hin und her wie eine Tür in den Angeln, aber er kommt nicht vom Fleck (Vers 14). Er ist sogar zu faul zum Essen (Vers 15). Und trotzdem hält er sich für klüger als alle anderen (Vers 16).
+
+---
+
+### Streit, Klatsch und Lügen (Vers 17–28)
+
+<sup>17</sup>Wie einer, der einen Hund an den Ohren packt,
+ist einer, der vorbeigeht und sich in einen Streit einmischt, der ihn nichts angeht.
+<sup>18</sup>Wie ein Wahnsinniger, der Brandpfeile, Pfeile und Tod schießt,
+<sup>19</sup>so ist der Mann, der seinen Nächsten betrügt
+und sagt: „Habe ich nicht nur Spaß gemacht?“
+<sup>20</sup>Wenn das Holz fehlt, geht das Feuer aus.
+Ohne Klatsch legt sich der Streit.
+<sup>21</sup>Wie Kohlen zur Glut und Holz zum Feuer,
+so ist ein streitsüchtiger Mensch, um Streit zu entfachen.
+<sup>22</sup>Die Worte eines Ohrenbläsers sind wie Leckerbissen.
+Sie gehen hinab bis ins Innerste.
+<sup>23</sup>Wie Silberschlacke auf einem Tongefäß,
+so sind glühende Lippen mit einem bösen Herzen.
+<sup>24</sup>Ein boshafter Mensch verstellt sich mit seinen Lippen,
+aber in seinem Herzen trägt er Betrug.
+<sup>25</sup>Wenn seine Rede freundlich ist, glaube ihm nicht,
+denn sieben Gräuel sind in seinem Herzen.
+<sup>26</sup>Seine Bosheit mag durch Täuschung verborgen sein,
+aber seine Schlechtigkeit wird vor der Gemeinde aufgedeckt.
+<sup>27</sup>Wer eine Grube gräbt, fällt selbst hinein.
+Wer einen Stein wälzt, auf den rollt er zurück.
+<sup>28</sup>Eine lügnerische Zunge hasst die, die sie verletzt,
+und ein schmeichelnder Mund richtet Verderben an.
+
+> **Was bedeutet das?**
+> Vers 17: Wer einen fremden Hund an den Ohren packt, wird gebissen. Wer sich in fremden Streit einmischt, bekommt selbst Ärger.
+> Vers 18–19: Wer andere verletzt und dann sagt „War doch nur ein Witz!“, ist gefährlich wie jemand, der wild mit Pfeilen herumschießt. Das gilt auch für Mobbing, das als Spaß getarnt wird.
+> Vers 20–21: Klatsch ist wie Holz für ein Feuer. Ohne Klatsch geht der Streit aus.
+> Vers 23: Ein billiger Tontopf, der mit Silberglanz überzogen ist, sieht wertvoll aus, ist es aber nicht. So sind schöne Worte aus einem bösen Herzen.
+> Vers 27: „Wer anderen eine Grube gräbt, fällt selbst hinein“: Das deutsche Sprichwort kommt von hier.
