@@ -105,8 +105,8 @@ und die Pläne, mit denen ihr mir Unrecht tun wollt.
 Und wo ist das Zelt, in dem die Gottlosen wohnten?‘
 [29] Habt ihr nicht die Reisenden gefragt?
 Kennt ihr nicht ihre Berichte,
-[30] dass der Böse verschont wird am Tag des Unglücks
-und dass sie weggeführt werden am Tag des Zorns?
+[30] dass der Böse für den Tag des Unglücks aufbewahrt wird
+und dass sie zum Tag des Zorns hinausgeführt werden?
 [31] Wer wird ihm seinen Weg ins Gesicht vorhalten?
 Und wer wird ihm vergelten, was er getan hat?
 [32] Er wird zum Grab getragen,
@@ -119,7 +119,7 @@ Denn von euren Antworten bleibt nur Betrug übrig.“
 
 > **Was bedeutet das?**
 > Hiob durchschaut seine Freunde: Wenn ihr fragt „Wo ist das Haus des Gottlosen?“, dann meint ihr mein zerstörtes Haus.
-> Er sagt: Fragt doch die Reisenden, die viel von der Welt gesehen haben. Sie wissen: Oft wird der Böse verschont. Er bekommt sogar ein schönes Begräbnis mit einem Ehrengrab. Viele folgen seinem Trauerzug.
-> „Vers 30“ ist im Hebräischen nicht ganz eindeutig. Die englische Vorlage versteht es so: Der Böse wird für den Tag des Unglücks aufbewahrt. Viele übersetzen aber so, wie es der Zusammenhang nahelegt: Er wird am Tag des Unglücks verschont.
+> Er sagt: Fragt doch die Reisenden, die viel von der Welt gesehen haben. Sie wissen: Der Böse bekommt oft sogar ein schönes Begräbnis mit einem Ehrengrab. Viele folgen seinem Trauerzug. Niemand hält ihm zu Lebzeiten seine Taten vor.
+> Vers 30 ist im Hebräischen nicht ganz eindeutig. Die englische Vorlage versteht es so: Der Böse wird für den Tag des Unglücks aufbewahrt. Dann wäre das die Meinung der Freunde, die Hiob hier wiedergibt. Viele deutsche Bibeln übersetzen aber so, wie es der Zusammenhang nahelegt: Der Böse wird am Tag des Unglücks verschont.
 > Vers 34 ist Hiobs Urteil über die ganze zweite Runde: Eure Antworten sind Betrug. Sie passen nicht zur Wirklichkeit.
 > Hiob leugnet nicht, dass Gott gerecht ist. Aber er weigert sich, eine einfache Erklärung zu akzeptieren, die nicht stimmt. Das ist ehrlicher Glaube.
