@@ -97,7 +97,7 @@ und die Erde wird die Geister der Toten herausgeben.
 > Vers 17–18: Ein ehrliches Bild: Das Volk hat gelitten wie eine Frau in den Wehen. Aber am Ende kam nichts heraus, „nur Wind“. Alle Mühe war scheinbar umsonst.
 > Vers 19 ist einer der wichtigsten Verse des Alten Testaments: „Deine Toten werden leben. Ihre Leichname werden auferstehen.“ Im Gegensatz zu den toten Tyrannen (Vers 14) werden Gottes Tote wieder lebendig.
 > Wie der Morgentau die Pflanzen wieder aufblühen lässt, so wird Gottes Tau die Toten wieder lebendig machen.
-> Hier spricht die Bibel zum ersten Mal deutlich von der Auferstehung der Toten. Später tut es Daniel (Daniel 12,2). Juden und Christen glauben an die Auferstehung der Toten.
+> Das ist eine der ersten Stellen, an denen die Bibel deutlich von der Auferstehung der Toten spricht. Später tut es Daniel (Daniel 12,2). Juden und Christen glauben an die Auferstehung der Toten.
 
 ---
 
