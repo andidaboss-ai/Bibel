@@ -30,7 +30,7 @@ Gott hilft ihr, wenn der Morgen anbricht.
 [6] Die Völker tobten. Die Königreiche wankten.
 Er ließ seine Stimme erschallen, und die Erde schmolz.
 [7] Der HERR der Heere ist mit uns.
-Der Gott Jakobs ist unsere Burg.
+Der Gott Jakobs ist unsere Zuflucht.
 Sela.
 
 > **Was bedeutet das?**
@@ -51,7 +51,7 @@ Er verbrennt die Wagen im Feuer.
 Ich werde erhoben sein unter den Völkern.
 Ich werde erhoben sein auf der Erde.“
 [11] Der HERR der Heere ist mit uns.
-Der Gott Jakobs ist unsere Burg.
+Der Gott Jakobs ist unsere Zuflucht.
 Sela.
 
 > **Was bedeutet das?**
