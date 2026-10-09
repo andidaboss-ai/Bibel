@@ -85427,3 +85427,369 @@ und dass die Elenden seines Volkes darin Zuflucht finden.
 > Die Philister freuen sich, weil ein Feind gestorben ist. Aber Jesaja warnt: Freut euch nicht zu früh! Ein noch gefährlicherer Feind wird kommen.
 > Vers 29: „Eine Otter“ und „ein fliegender Feuerdrache“ sind Bilder für immer gefährlichere Feinde.
 > Vers 30 und 32: Mitten im Gericht eine Hoffnung: Die Armen werden sicher sein. In Zion, bei Gott, finden die Elenden Zuflucht.
+
+## Jesaja – Kapitel 15
+#### Klage über Moab
+
+---
+
+### Moab weint (Vers 1–9)
+
+<sup>1</sup>Die Last über Moab.
+Denn in einer Nacht ist Ar-Moab verwüstet und vernichtet.
+Denn in einer Nacht ist Kir-Moab verwüstet und vernichtet.
+<sup>2</sup>Sie sind hinaufgegangen nach Bajit und nach Dibon,
+auf die Kulthöhen, um zu weinen.
+Moab heult über Nebo und über Medeba.
+Auf allen Köpfen ist eine Glatze.
+Jeder Bart ist abgeschnitten.
+<sup>3</sup>Auf ihren Straßen ziehen sie Sackkleider an.
+Auf ihren Straßen und auf ihren Dächern heult jeder
+und zerfließt in Tränen.
+<sup>4</sup>Heschbon schreit mit Elale.
+Ihre Stimme ist bis Jahaz zu hören.
+Darum schreien die Krieger Moabs laut.
+Ihre Seele zittert in ihnen.
+<sup>5</sup>Mein Herz schreit um Moab!
+Seine Flüchtlinge fliehen bis Zoar, bis Eglat-Schelischija.
+Denn sie gehen weinend den Aufstieg von Luhit hinauf.
+Denn auf dem Weg nach Horonajim
+erheben sie ein Geschrei über den Untergang.
+<sup>6</sup>Denn die Wasser von Nimrim werden zur Wüste.
+Denn das Gras ist verdorrt, das junge Grün vergeht,
+es gibt nichts Grünes mehr.
+<sup>7</sup>Darum tragen sie den Überfluss, den sie erworben haben,
+und das, was sie aufbewahrt haben,
+über den Weidenbach.
+<sup>8</sup>Denn das Geschrei geht rings um die Grenzen Moabs.
+Sein Heulen reicht bis Eglajim,
+und sein Heulen bis Beer-Elim.
+<sup>9</sup>Denn die Wasser von Dimon sind voll Blut.
+Denn ich bringe noch mehr über Dimon:
+einen Löwen über die Entronnenen von Moab
+und über den Rest des Landes.
+
+> **Was bedeutet das?**
+> Moab war ein Nachbarvolk Israels, östlich vom Toten Meer, im heutigen Jordanien. Die Moabiter waren mit Israel verwandt (1. Mose 19,37). Die Urgroßmutter Davids, Rut, war eine Moabiterin.
+> Eine Stadt nach der anderen wird in einer einzigen Nacht zerstört. Die Menschen trauern: Sie scheren sich die Haare, schneiden die Bärte ab, ziehen Trauerkleider an.
+> Vers 5: Das Besondere: Der Prophet weint mit! „Mein Herz schreit um Moab!“ Auch wenn Moab oft ein Feind war, fühlt Jesaja mit den leidenden Menschen. Gottes Prophet freut sich nicht über das Unglück anderer Völker.
+> Vers 9: „Die Wasser von Dimon“: Dimon klingt im Hebräischen wie „Dam“, Blut. Ein Wortspiel.
+
+## Jesaja – Kapitel 16
+#### Moab sucht Zuflucht
+
+---
+
+### Nehmt die Flüchtlinge auf (Vers 1–5)
+
+<sup>1</sup>Schickt die Lämmer für den Herrscher des Landes
+von Sela durch die Wüste
+zum Berg der Tochter Zion.
+<sup>2</sup>Denn es wird sein: Wie umherflatternde Vögel,
+wie ein aufgescheuchtes Nest,
+so werden die Töchter Moabs an den Furten des Arnon sein.
+<sup>3</sup>Gib Rat! Schaffe Recht!
+Mach deinen Schatten wie die Nacht mitten am Mittag!
+Verstecke die Vertriebenen!
+Verrate den Flüchtling nicht!
+<sup>4</sup>Lass meine Vertriebenen bei dir wohnen!
+Was Moab betrifft: Sei ihm ein Versteck vor dem Verwüster!
+Denn der Erpresser hat ein Ende.
+Die Verwüstung hört auf.
+Die Unterdrücker sind aus dem Land verschwunden.
+<sup>5</sup>Ein Thron wird in Güte gegründet werden.
+Einer wird darauf in Treue sitzen,
+im Zelt Davids,
+der richtet und das Recht sucht
+und schnell Gerechtigkeit übt.
+
+> **Was bedeutet das?**
+> Die Moabiter fliehen. Sie sind wie aufgescheuchte Vögel am Fluss Arnon, der Grenze ihres Landes.
+> Vers 1: Moab soll Geschenke nach Jerusalem schicken und um Schutz bitten.
+> Vers 3–4: Ein bewegender Aufruf: Nehmt die Flüchtlinge auf! Gebt ihnen Schatten wie in der Nacht! Versteckt sie! Verratet sie nicht! Dieser Text ist eine der stärksten Bitten der Bibel um Schutz für Flüchtlinge.
+> Vers 5: Ein zukünftiger König aus der Familie Davids wird mit Güte, Treue und Gerechtigkeit regieren. Bei ihm finden auch Fremde Zuflucht.
+
+---
+
+### Klage über Moabs Stolz (Vers 6–14)
+
+<sup>6</sup>Wir haben vom Stolz Moabs gehört, dass er sehr stolz ist,
+von seinem Hochmut, seinem Stolz und seinem Zorn.
+Sein Prahlen ist nichts.
+<sup>7</sup>Darum wird Moab um Moab heulen.
+Alle werden heulen.
+Um die Rosinenkuchen von Kir-Hareset werdet ihr klagen,
+ganz niedergeschlagen.
+<sup>8</sup>Denn die Felder von Heschbon sind verwelkt
+und der Weinstock von Sibma.
+Die Herren der Völker haben seine besten Reben zerschlagen,
+die bis Jaser reichten,
+die in die Wüste wucherten.
+Seine Ranken breiteten sich aus.
+Sie zogen über das Meer.
+<sup>9</sup>Darum will ich weinen mit dem Weinen Jasers
+um den Weinstock von Sibma.
+Ich will dich mit meinen Tränen tränken, Heschbon und Elale,
+denn über deine Sommerfrüchte und über deine Ernte
+ist das Kriegsgeschrei hereingebrochen.
+<sup>10</sup>Freude und Jubel sind aus dem fruchtbaren Feld weggenommen.
+In den Weinbergen wird nicht mehr gesungen und nicht gejubelt.
+Niemand tritt mehr Wein in den Keltern.
+Ich habe dem Jubelruf ein Ende gemacht.
+<sup>11</sup>Darum klingt mein Innerstes wie eine Harfe um Moab
+und mein Inneres um Kir-Heres.
+<sup>12</sup>Es wird geschehen: Wenn Moab erscheint,
+wenn es sich auf der Kulthöhe abmüht
+und zu seinem Heiligtum kommt, um zu beten,
+dann wird es nichts ausrichten.
+<sup>13</sup>Das ist das Wort, das der HERR früher über Moab gesprochen hat.
+<sup>14</sup>Aber jetzt hat der HERR gesprochen und gesagt:
+„Innerhalb von drei Jahren, wie ein Tagelöhner sie zählt,
+wird die Pracht Moabs verächtlich werden
+mit all seiner großen Menge,
+und der Rest wird sehr klein und schwach sein.“
+
+> **Was bedeutet das?**
+> Vers 6: Moabs Problem war sein Stolz.
+> Vers 7–10: Moab war berühmt für seine Weinberge. Jetzt ist alles zerstört. Keine fröhlichen Lieder mehr bei der Weinlese.
+> Vers 9 und 11: Wieder weint der Prophet mit. Sein Inneres klingt traurig wie eine Harfe. Gottes Mitgefühl gilt auch fremden Völkern.
+> Vers 14: „Wie ein Tagelöhner sie zählt“: Ein Arbeiter zählt die Tage seines Vertrags genau, keinen Tag mehr und keinen weniger. So genau wird Gottes Wort eintreffen.
+
+## Jesaja – Kapitel 17
+#### Damaskus und die tobenden Völker
+
+---
+
+### Damaskus wird zum Trümmerhaufen (Vers 1–6)
+
+<sup>1</sup>Die Last über Damaskus.
+„Siehe, Damaskus hört auf, eine Stadt zu sein,
+und wird ein Trümmerhaufen werden.
+<sup>2</sup>Die Städte von Aroer sind verlassen.
+Sie werden den Herden gehören,
+die dort lagern, und niemand wird sie aufschrecken.
+<sup>3</sup>Die Festung wird aus Ephraim verschwinden
+und das Königreich aus Damaskus
+und der Rest von Syrien.
+Sie werden wie die Pracht der Kinder Israels sein“,
+spricht der HERR der Heere.
+<sup>4</sup>„An jenem Tag wird es geschehen,
+dass die Pracht Jakobs dünn wird
+und das Fett seines Fleisches mager wird.
+<sup>5</sup>Es wird sein wie bei einem Schnitter, der den Weizen sammelt
+und mit seinem Arm die Ähren schneidet.
+Ja, es wird sein wie bei einem, der im Tal Refaim Ähren nachliest.
+<sup>6</sup>Doch es wird eine Nachlese dort übrig bleiben,
+wie beim Abschlagen eines Ölbaums:
+zwei, drei Oliven oben im höchsten Wipfel,
+vier, fünf an den äußersten Zweigen des fruchtbaren Baumes“,
+spricht der HERR, der Gott Israels.
+
+> **Was bedeutet das?**
+> Damaskus war die Hauptstadt von Syrien. Zusammen mit dem Nordreich Israel (Ephraim) hatte es Jerusalem angegriffen (Kapitel 7). Jetzt kündigt Jesaja an: Beide werden fallen. Das geschah, als Assyrien Damaskus im Jahr 732 und Samaria im Jahr 722 vor Christus eroberte.
+> Vers 5–6: Ein Bild aus der Ernte: Nach der Ernte bleiben nur ein paar Ähren auf dem Feld und ein paar Oliven ganz oben im Baum. So wird nur ein kleiner Rest übrig bleiben. Aber es bleibt ein Rest.
+
+---
+
+### Sie werden auf ihren Schöpfer schauen (Vers 7–11)
+
+<sup>7</sup>An jenem Tag werden die Menschen auf ihren Schöpfer schauen,
+und ihre Augen werden auf den Heiligen Israels sehen.
+<sup>8</sup>Sie werden nicht auf die Altäre schauen, das Werk ihrer Hände,
+und nicht auf das achten, was ihre Finger gemacht haben,
+weder auf die Aschera-Pfähle noch auf die Räucheraltäre.
+<sup>9</sup>An jenem Tag werden ihre festen Städte sein
+wie die verlassenen Orte im Wald und auf dem Berggipfel,
+die vor den Kindern Israels verlassen wurden,
+und es wird eine Wüste sein.
+<sup>10</sup>Denn du hast den Gott deines Heils vergessen
+und hast nicht an den Felsen deiner Stärke gedacht.
+Darum pflanzt du liebliche Pflanzungen
+und setzt fremde Setzlinge.
+<sup>11</sup>Am Tag deines Pflanzens umzäunst du sie.
+Am Morgen lässt du deine Saat blühen,
+aber die Ernte flieht am Tag der Krankheit
+und des unheilbaren Schmerzes.
+
+> **Was bedeutet das?**
+> Vers 7–8: In der Not werden die Menschen sich wieder ihrem Schöpfer zuwenden statt den selbst gemachten Götzen. Aschera war eine Göttin, deren Zeichen ein Holzpfahl war.
+> Vers 10–11: „Liebliche Pflanzungen“ und „fremde Setzlinge“: Vermutlich sind kleine Gärten für fremde Fruchtbarkeitsgötter gemeint. Sie wachsen schnell, aber bringen keine Ernte. Wer Gott vergisst, sät auf Sand.
+
+---
+
+### Das Tosen der Völker (Vers 12–14)
+
+<sup>12</sup>Ach, das Tosen vieler Völker,
+die tosen wie das Tosen der Meere,
+und das Brausen der Nationen,
+die brausen wie das Brausen gewaltiger Wasser!
+<sup>13</sup>Die Nationen brausen wie das Brausen vieler Wasser,
+aber er wird sie bedrohen, und sie werden weit fliehen
+und gejagt werden wie die Spreu auf den Bergen vor dem Wind
+und wie Staubwirbel vor dem Sturm.
+<sup>14</sup>Am Abend, siehe, Schrecken!
+Vor dem Morgen sind sie nicht mehr da.
+Das ist das Teil derer, die uns plündern,
+und das Los derer, die uns berauben.
+
+> **Was bedeutet das?**
+> Die feindlichen Völker toben wie ein wildes Meer gegen Jerusalem. Aber ein Wort Gottes genügt, und sie verwehen wie Spreu im Wind.
+> Vers 14: Am Abend Angst, am Morgen ist der Feind verschwunden. Genau das geschah später, als das assyrische Heer vor Jerusalem über Nacht abzog (Kapitel 37,36).
+
+## Jesaja – Kapitel 18
+#### Ein Wort an Kusch
+
+---
+
+### Das Land der schwirrenden Flügel (Vers 1–7)
+
+<sup>1</sup>Ach, du Land des Flügelschwirrens,
+das jenseits der Ströme von Kusch liegt,
+<sup>2</sup>das Gesandte über das Meer schickt,
+in Schiffen aus Papyrus über die Wasser, und sagt:
+„Geht, ihr schnellen Boten,
+zu einem Volk, das hochgewachsen ist und glatte Haut hat,
+zu einem Volk, das gefürchtet ist von seinem Anfang an,
+zu einer Nation, die misst und niedertritt,
+deren Land die Ströme durchschneiden!“
+<sup>3</sup>Ihr alle, Bewohner der Welt und die ihr auf der Erde wohnt:
+Wenn auf den Bergen ein Banner aufgerichtet wird, dann schaut hin!
+Wenn die Posaune geblasen wird, dann hört zu!
+<sup>4</sup>Denn so sprach der HERR zu mir:
+„Ich will still sein und von meiner Wohnung aus zuschauen,
+wie flimmernde Hitze im Sonnenschein,
+wie eine Tauwolke in der Hitze der Ernte.“
+<sup>5</sup>Denn vor der Ernte, wenn die Blüte vorbei ist
+und die Blume zur reifenden Traube wird,
+wird er die Ranken mit Winzermessern abschneiden
+und die ausgebreiteten Zweige abhauen und wegnehmen.
+<sup>6</sup>Sie werden zusammen den Raubvögeln der Berge überlassen
+und den Tieren der Erde.
+Die Raubvögel werden im Sommer davon fressen
+und alle Tiere der Erde im Winter.
+<sup>7</sup>In jener Zeit wird dem HERRN der Heere ein Geschenk gebracht werden
+von einem Volk, das hochgewachsen ist und glatte Haut hat,
+von einem Volk, das gefürchtet ist von seinem Anfang an,
+von einer Nation, die misst und niedertritt,
+deren Land die Ströme durchschneiden,
+zum Ort des Namens des HERRN der Heere, zum Berg Zion.
+
+> **Was bedeutet das?**
+> Kusch lag südlich von Ägypten, im heutigen Sudan. Die englische Vorlage schreibt hier „Äthiopien“. Damals regierten Könige aus Kusch auch über Ägypten.
+> „Das Land des Flügelschwirrens“: Vielleicht sind die vielen Insekten am Nil gemeint. Die Menschen dort waren groß gewachsen, stolz und für ihre Stärke berühmt.
+> Vers 2: Die Kuschiten schicken Boten in leichten Papyrusbooten, um ein Bündnis gegen Assyrien zu schmieden. Aber Jesaja sagt: Verlasst euch nicht auf Bündnisse.
+> Vers 4: Gott schaut zuerst ruhig zu, wie die Sonne in der Mittagshitze. Er hat Zeit. Aber zur richtigen Zeit greift er ein, wie ein Winzer, der die Reben schneidet (Vers 5).
+> Vers 7: Am Ende kommt sogar dieses ferne, stolze Volk nach Jerusalem und bringt Gott Geschenke. Alle Völker werden zu Gott kommen. In Apostelgeschichte 8,26–39 wird erzählt, wie ein Mann aus Kusch (Äthiopien) nach Jerusalem pilgert und getauft wird.
+
+## Jesaja – Kapitel 19
+#### Gesegnet sei Ägypten, mein Volk
+
+---
+
+### Gericht über Ägypten (Vers 1–15)
+
+<sup>1</sup>Die Last über Ägypten.
+„Siehe, der HERR reitet auf einer schnellen Wolke
+und kommt nach Ägypten.
+Die Götzen Ägyptens werden vor ihm zittern,
+und das Herz Ägyptens wird in seinem Inneren verzagen.
+<sup>2</sup>Ich werde Ägypter gegen Ägypter aufhetzen,
+und sie werden kämpfen, jeder gegen seinen Bruder
+und jeder gegen seinen Nächsten,
+Stadt gegen Stadt und Königreich gegen Königreich.
+<sup>3</sup>Der Geist der Ägypter wird in ihnen vergehen.
+Ich werde ihren Rat zunichtemachen.
+Sie werden die Götzen befragen, die Beschwörer,
+die Totengeister und die Wahrsager.
+<sup>4</sup>Ich werde die Ägypter in die Hand eines harten Herrn geben.
+Ein grausamer König wird über sie herrschen“,
+spricht der Herr, der HERR der Heere.
+<sup>5</sup>Die Wasser werden aus dem Meer schwinden,
+und der Strom wird versiegen und austrocknen.
+<sup>6</sup>Die Flüsse werden stinken.
+Die Ströme Ägyptens werden abnehmen und austrocknen.
+Schilf und Binsen werden verwelken.
+<sup>7</sup>Die Wiesen am Nil, am Ufer des Nils,
+und alle Saatfelder am Nil werden vertrocknen,
+verweht werden und nicht mehr sein.
+<sup>8</sup>Die Fischer werden klagen,
+und alle, die im Nil die Angel auswerfen, werden trauern,
+und die, die Netze auf dem Wasser ausbreiten, werden verschmachten.
+<sup>9</sup>Auch die, die gehechelten Flachs bearbeiten
+und weißes Tuch weben, werden zuschanden.
+<sup>10</sup>Ihre Grundpfeiler werden zerschlagen.
+Alle, die um Lohn arbeiten, werden betrübt sein.
+<sup>11</sup>Die Fürsten von Zoan sind ganz töricht.
+Der Rat der weisesten Ratgeber des Pharao ist dumm geworden.
+Wie könnt ihr zum Pharao sagen:
+„Ich bin ein Sohn der Weisen, ein Sohn uralter Könige“?
+<sup>12</sup>Wo sind denn deine Weisen?
+Sie sollen es dir jetzt sagen,
+und sie sollen erkennen, was der HERR der Heere über Ägypten beschlossen hat.
+<sup>13</sup>Die Fürsten von Zoan sind zu Toren geworden.
+Die Fürsten von Memfis sind betrogen.
+Sie haben Ägypten in die Irre geführt,
+die doch der Eckstein seiner Stämme sind.
+<sup>14</sup>Der HERR hat einen Geist der Verwirrung in seine Mitte gemischt,
+und sie haben Ägypten in all seinem Tun in die Irre geführt,
+wie ein Betrunkener in seinem Erbrochenen taumelt.
+<sup>15</sup>Es wird für Ägypten keine Arbeit mehr geben,
+die Kopf oder Schwanz, Palmzweig oder Binse tun könnte.
+
+> **Was bedeutet das?**
+> Ägypten war eine Großmacht und für Juda immer wieder ein verlockender Bündnispartner. Jesaja sagt: Ägypten wird selbst ins Chaos stürzen.
+> Vers 1: Gott „reitet auf einer Wolke“. Die Götter Ägyptens zittern vor ihm.
+> Vers 2: Bürgerkrieg zerreißt das Land.
+> Vers 5–10: Der Nil war die Lebensader Ägyptens. Wenn er austrocknet, ist alles verloren: Landwirtschaft, Fischerei, Webereien. Die Wirtschaft bricht zusammen.
+> Vers 11–14: Die berühmten Weisen Ägyptens wissen keinen Rat mehr. Ihre Weisheit taugt nichts ohne Gott.
+
+---
+
+### Ägypten wird den HERRN kennenlernen (Vers 16–25)
+
+<sup>16</sup>An jenem Tag werden die Ägypter wie Frauen sein.
+Sie werden zittern und sich fürchten
+vor dem Schwingen der Hand des HERRN der Heere,
+die er über sie schwingt.
+<sup>17</sup>Das Land Juda wird für Ägypten ein Schrecken sein.
+Jeder, dem man davon erzählt, wird sich fürchten
+wegen des Plans, den der HERR der Heere gegen es beschlossen hat.
+<sup>18</sup>An jenem Tag wird es im Land Ägypten fünf Städte geben,
+die die Sprache Kanaans sprechen
+und beim HERRN der Heere schwören.
+Eine wird „Stadt der Zerstörung“ genannt werden.
+<sup>19</sup>An jenem Tag wird es einen Altar für den HERRN
+mitten im Land Ägypten geben
+und eine Säule für den HERRN an seiner Grenze.
+<sup>20</sup>Sie wird ein Zeichen und ein Zeuge für den HERRN der Heere
+im Land Ägypten sein.
+Denn sie werden zum HERRN schreien wegen ihrer Unterdrücker,
+und er wird ihnen einen Retter und Verteidiger senden,
+und er wird sie befreien.
+<sup>21</sup>Der HERR wird sich Ägypten zu erkennen geben,
+und die Ägypter werden den HERRN an jenem Tag erkennen.
+Ja, sie werden ihn verehren mit Schlachtopfern und Speiseopfern,
+und sie werden dem HERRN Gelübde ablegen und sie erfüllen.
+<sup>22</sup>Der HERR wird Ägypten schlagen, schlagen und heilen.
+Sie werden zum HERRN umkehren,
+und er wird sich von ihnen erbitten lassen und sie heilen.
+<sup>23</sup>An jenem Tag wird es eine Straße von Ägypten nach Assyrien geben.
+Der Assyrer wird nach Ägypten kommen
+und der Ägypter nach Assyrien,
+und die Ägypter werden zusammen mit den Assyrern Gott verehren.
+<sup>24</sup>An jenem Tag wird Israel der Dritte sein
+mit Ägypten und mit Assyrien,
+ein Segen mitten auf der Erde,
+<sup>25</sup>weil der HERR der Heere sie gesegnet hat und gesagt hat:
+„Gesegnet sei Ägypten, mein Volk,
+Assyrien, das Werk meiner Hände,
+und Israel, mein Erbteil.“
+
+> **Was bedeutet das?**
+> Vers 16: „Wie Frauen“: Damals galten Frauen als schwach und ängstlich. Das ist ein Vorurteil der damaligen Zeit, kein Urteil der Bibel über Frauen. Die Bibel erzählt von vielen mutigen Frauen.
+> Vers 18–25 gehören zu den erstaunlichsten Versen des ganzen Alten Testaments.
+> Ausgerechnet Ägypten, wo Israel als Sklaven gelebt hat, und Assyrien, der brutalste Feind, werden Gott kennenlernen und ihn verehren.
+> Vers 20: Wie Israel damals in Ägypten zu Gott schrie, so werden jetzt die Ägypter selbst zu Gott schreien, und er wird auch ihnen einen Retter schicken.
+> Vers 22: Gott „schlägt und heilt“. Sein Gericht hat das Ziel der Heilung.
+> Vers 23: Eine Straße verbindet die alten Erzfeinde. Sie reisen zueinander und beten gemeinsam.
+> Vers 25: Gott nennt Ägypten „mein Volk“ und Assyrien „das Werk meiner Hände“, Titel, die sonst nur Israel trägt. Gottes Segen gilt allen Völkern. Eine Vision von Frieden und Versöhnung zwischen verfeindeten Nationen, die bis heute Hoffnung gibt.
