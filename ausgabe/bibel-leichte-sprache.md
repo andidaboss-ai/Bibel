@@ -86122,3 +86122,412 @@ damit sie sich satt essen und dauerhafte Kleidung haben.
 > Vers 15–17: Der Handel von Tyrus wird mit einer Prostituierten verglichen, die sich jedem anbietet. Gemeint ist: Tyrus macht mit allen Geschäfte, nur um reich zu werden, ohne nach Gerechtigkeit zu fragen. Das ist ein Bild aus der damaligen Sprache, das harten Handel ohne Moral kritisiert.
 > Vers 18: Eine überraschende Wende: Am Ende wird der Reichtum von Tyrus nicht mehr gehortet, sondern Gott geweiht. Er wird dafür verwendet, dass Menschen satt werden und Kleidung haben. Ein schönes Bild dafür, wie Reichtum richtig eingesetzt werden kann.
 > Damit enden die Worte über die einzelnen Völker (Kapitel 13–23).
+
+## Jesaja – Kapitel 24
+#### Die Erde wankt
+
+---
+
+### Die ganze Erde wird verwüstet (Vers 1–13)
+
+<sup>1</sup>Siehe, der HERR macht die Erde leer und verwüstet sie.
+Er stellt sie auf den Kopf und zerstreut ihre Bewohner.
+<sup>2</sup>Es wird dem Volk gehen wie dem Priester,
+dem Knecht wie seinem Herrn,
+der Magd wie ihrer Herrin,
+dem Käufer wie dem Verkäufer,
+dem Gläubiger wie dem Schuldner,
+dem, der Zinsen nimmt, wie dem, der Zinsen zahlt.
+<sup>3</sup>Die Erde wird völlig geleert und völlig verwüstet werden,
+denn der HERR hat dieses Wort gesprochen.
+<sup>4</sup>Die Erde trauert und welkt dahin.
+Die Welt verschmachtet und welkt dahin.
+Die Hohen des Volkes der Erde verschmachten.
+<sup>5</sup>Auch ist die Erde entweiht unter ihren Bewohnern,
+denn sie haben die Gesetze übertreten,
+die Ordnungen verletzt
+und den ewigen Bund gebrochen.
+<sup>6</sup>Darum hat der Fluch die Erde gefressen,
+und die darauf wohnen, werden schuldig befunden.
+Darum werden die Bewohner der Erde verbrannt,
+und nur wenige Menschen bleiben übrig.
+<sup>7</sup>Der Most trauert.
+Der Weinstock verschmachtet.
+Alle, die fröhlichen Herzens waren, seufzen.
+<sup>8</sup>Die Freude der Tamburine hört auf.
+Der Lärm der Fröhlichen endet.
+Die Freude der Harfe hört auf.
+<sup>9</sup>Sie trinken keinen Wein mehr mit Gesang.
+Starkes Getränk wird bitter für die, die es trinken.
+<sup>10</sup>Die Stadt der Verwirrung ist zerbrochen.
+Jedes Haus ist verschlossen, sodass niemand hineinkommen kann.
+<sup>11</sup>Auf den Straßen ist ein Klagen wegen des Weins.
+Alle Freude ist verdunkelt.
+Die Fröhlichkeit des Landes ist fort.
+<sup>12</sup>Die Stadt ist in Verwüstung zurückgelassen,
+und das Tor ist in Trümmer geschlagen.
+<sup>13</sup>Denn so wird es mitten auf der Erde unter den Völkern sein
+wie beim Abschlagen eines Ölbaums,
+wie bei der Nachlese, wenn die Weinlese vorbei ist.
+
+> **Was bedeutet das?**
+> Mit Kapitel 24 beginnt ein Teil, den man oft „Jesaja-Apokalypse“ nennt (Kapitel 24–27). Hier geht es nicht mehr um einzelne Völker, sondern um die ganze Welt.
+> Vers 2: Das Gericht trifft alle gleich: Arme und Reiche, Herren und Knechte. Niemand kann sich freikaufen.
+> Vers 5: Der Grund: Die Menschen haben „den ewigen Bund gebrochen“. Das erinnert an den Bund mit Noah, der für alle Menschen gilt (1. Mose 9). Wenn Menschen Unrecht tun, leidet die ganze Erde mit. Das kann man heute auch auf die Zerstörung der Umwelt beziehen.
+> Vers 7–11: Alle Freude verschwindet: keine Musik, kein Fest, kein Wein mehr.
+> Vers 13: Aber wie bei der Ernte bleibt ein Rest übrig.
+
+---
+
+### Lob vom Ende der Erde (Vers 14–16)
+
+<sup>14</sup>Diese werden ihre Stimme erheben.
+Sie werden jubeln über die Majestät des HERRN.
+Sie rufen laut vom Meer her.
+<sup>15</sup>Darum ehrt den HERRN im Osten,
+den Namen des HERRN, des Gottes Israels, auf den Inseln des Meeres!
+<sup>16</sup>Vom äußersten Ende der Erde haben wir Lieder gehört:
+„Herrlichkeit dem Gerechten!“
+Aber ich sagte: „Ich vergehe! Ich vergehe! Weh mir!“
+Die Treulosen handeln treulos.
+Ja, die Treulosen handeln sehr treulos.
+
+> **Was bedeutet das?**
+> Mitten im Gericht hört man Lieder des Lobes, von Osten bis Westen, von den Inseln, vom Ende der Erde. Der Rest, der überlebt hat, lobt Gott.
+> Vers 16: Aber der Prophet kann noch nicht mitjubeln. Er sieht noch zu viel Treulosigkeit und Unrecht.
+
+---
+
+### Grauen, Grube und Schlinge (Vers 17–23)
+
+<sup>17</sup>Grauen, Grube und Schlinge
+sind über euch, Bewohner der Erde.
+<sup>18</sup>Es wird geschehen: Wer vor dem Lärm des Grauens flieht,
+wird in die Grube fallen,
+und wer aus der Grube heraufsteigt,
+wird in der Schlinge gefangen,
+denn die Fenster in der Höhe sind geöffnet,
+und die Grundfesten der Erde beben.
+<sup>19</sup>Die Erde zerbricht völlig.
+Die Erde wird zerrissen.
+Die Erde wird gewaltig erschüttert.
+<sup>20</sup>Die Erde wird taumeln wie ein Betrunkener
+und hin und her schwanken wie eine Hängematte.
+Ihr Ungehorsam lastet schwer auf ihr,
+und sie wird fallen und nicht wieder aufstehen.
+<sup>21</sup>An jenem Tag wird es geschehen,
+dass der HERR das Heer der Höhe in der Höhe heimsucht
+und die Könige der Erde auf der Erde.
+<sup>22</sup>Sie werden zusammengetrieben werden,
+wie man Gefangene in der Grube sammelt,
+und sie werden ins Gefängnis eingeschlossen,
+und nach vielen Tagen werden sie heimgesucht werden.
+<sup>23</sup>Dann wird der Mond beschämt sein und die Sonne zuschanden,
+denn der HERR der Heere wird als König herrschen
+auf dem Berg Zion und in Jerusalem,
+und vor seinen Ältesten wird Herrlichkeit sein.
+
+> **Was bedeutet das?**
+> Vers 17–18: Es gibt kein Entkommen: Wer dem einen Unglück entflieht, fällt ins nächste. Im Hebräischen klingen die drei Wörter ähnlich: „Pachad, Pachat, Pach“ (Grauen, Grube, Schlinge).
+> Vers 18: „Die Fenster in der Höhe sind geöffnet“: wie bei der Sintflut (1. Mose 7,11).
+> Vers 20: Die Erde schwankt wie ein Betrunkener, wie eine Hütte im Sturm.
+> Vers 21: Gott richtet nicht nur die Könige auf der Erde, sondern auch die Mächte „in der Höhe“, also unsichtbare Mächte, die gegen Gott stehen.
+> Vers 23: Am Ende herrscht Gott selbst als König. Sein Licht ist so hell, dass Sonne und Mond daneben verblassen (vgl. Offenbarung 21,23).
+
+## Jesaja – Kapitel 25
+#### Gott wird den Tod für immer verschlingen
+
+---
+
+### Ein Lob für Gottes Treue (Vers 1–5)
+
+<sup>1</sup>HERR, du bist mein Gott.
+Ich will dich erheben!
+Ich will deinen Namen loben,
+denn du hast Wunder getan,
+Pläne, die vor langer Zeit gefasst wurden,
+in vollkommener Treue und Wahrheit.
+<sup>2</sup>Denn du hast eine Stadt zu einem Steinhaufen gemacht,
+eine befestigte Stadt zu einer Ruine,
+einen Palast der Fremden, sodass er keine Stadt mehr ist.
+Er wird nie wieder aufgebaut werden.
+<sup>3</sup>Darum wird ein starkes Volk dich ehren.
+Eine Stadt gewaltiger Nationen wird dich fürchten.
+<sup>4</sup>Denn du bist eine Festung für den Armen gewesen,
+eine Festung für den Bedürftigen in seiner Not,
+eine Zuflucht vor dem Sturm,
+ein Schatten vor der Hitze,
+wenn das Schnauben der Gewalttätigen wie ein Sturm gegen eine Mauer ist.
+<sup>5</sup>Wie Hitze in dürrem Land
+dämpfst du den Lärm der Fremden.
+Wie Hitze durch den Schatten einer Wolke
+wird das Siegeslied der Gewalttätigen zum Schweigen gebracht.
+
+> **Was bedeutet das?**
+> Nach dem Gericht kommt ein Loblied. Gott hat seine Pläne treu ausgeführt.
+> Vers 2: „Eine Stadt“: Gemeint ist eine Stadt der Gewalt und der Unterdrückung, ohne Namen. Sie steht für alle Mächte, die gegen Gott und die Schwachen stehen.
+> Vers 4: Ein wunderschöner Vers: Gott ist eine Festung für die Armen, eine Zuflucht im Sturm, ein Schatten in der Hitze. Wer schwach ist, findet bei Gott Schutz.
+
+---
+
+### Das große Festmahl für alle Völker (Vers 6–9)
+
+<sup>6</sup>Auf diesem Berg wird der HERR der Heere
+allen Völkern ein Festmahl bereiten,
+ein Festmahl mit feinen Speisen,
+ein Festmahl mit erlesenen Weinen,
+mit feinen Speisen voller Mark,
+mit gut geklärten, erlesenen Weinen.
+<sup>7</sup>Er wird auf diesem Berg die Hülle vernichten,
+die alle Völker verhüllt,
+und den Schleier, der über alle Nationen gebreitet ist.
+<sup>8</sup>Er hat den Tod für immer verschlungen!
+Der Herr, der HERR, wird die Tränen von allen Gesichtern abwischen.
+Er wird die Schmach seines Volkes von der ganzen Erde wegnehmen,
+denn der HERR hat es gesagt.
+<sup>9</sup>An jenem Tag wird man sagen:
+„Siehe, das ist unser Gott!
+Wir haben auf ihn gewartet, und er wird uns retten!
+Das ist der HERR!
+Wir haben auf ihn gewartet.
+Wir wollen jubeln und uns freuen über seine Rettung!“
+
+> **Was bedeutet das?**
+> Das ist einer der schönsten Texte der ganzen Bibel.
+> Vers 6: Gott lädt alle Völker zu einem großen Fest auf dem Berg Zion ein. Das beste Essen, der beste Wein. Niemand ist ausgeschlossen. Jesus spricht oft vom Reich Gottes als einem Festmahl (Matthäus 8,11; Lukas 14,15–24).
+> Vers 7: Die „Hülle“ und der „Schleier“ sind vielleicht Trauerschleier. Gott nimmt die Trauer von allen Menschen weg.
+> Vers 8: „Er hat den Tod für immer verschlungen!“ Der Tod, der alles verschlingt, wird selbst verschlungen. Und Gott wischt selbst jede Träne ab, so zärtlich wie eine Mutter.
+> Paulus zitiert diesen Vers, wenn er von der Auferstehung spricht (1. Korinther 15,54). Und die Offenbarung nimmt ihn auf: „Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein“ (Offenbarung 21,4). Dieser Vers wird oft bei Beerdigungen gelesen.
+> Vers 9: „Das ist unser Gott! Wir haben auf ihn gewartet.“ Das lange Warten hat sich gelohnt.
+
+---
+
+### Moab wird erniedrigt (Vers 10–12)
+
+<sup>10</sup>Denn die Hand des HERRN wird auf diesem Berg ruhen.
+Moab wird an seinem Ort zertreten werden,
+so wie Stroh in der Mistlache zertreten wird.
+<sup>11</sup>Er wird seine Hände mitten darin ausbreiten,
+wie ein Schwimmer seine Hände ausbreitet, um zu schwimmen,
+aber sein Stolz wird gedemütigt werden
+samt den Kunstgriffen seiner Hände.
+<sup>12</sup>Er hat die hohe Festung deiner Mauern niedergerissen,
+erniedrigt und zu Boden gebracht,
+bis in den Staub.
+
+> **Was bedeutet das?**
+> Moab steht hier als Beispiel für alle Hochmütigen. Während die Völker auf dem Berg feiern, versinkt der Hochmut im Mist.
+> Vers 11: Ein fast komisches Bild: Moab versucht verzweifelt zu schwimmen, aber es geht unter.
+> Die Botschaft: Gottes Festmahl steht allen offen, aber nicht dem Hochmut. Wer sich über Gott erhebt, schließt sich selbst aus.
+
+## Jesaja – Kapitel 26
+#### Deine Toten werden leben
+
+---
+
+### Ein Lied von der starken Stadt (Vers 1–6)
+
+<sup>1</sup>An jenem Tag wird man dieses Lied im Land Juda singen:
+„Wir haben eine starke Stadt.
+Gott setzt Rettung als Mauern und Bollwerke.
+<sup>2</sup>Öffnet die Tore,
+damit das gerechte Volk einziehen kann,
+das Treue bewahrt.
+<sup>3</sup>Du wirst den in vollkommenem Frieden bewahren,
+dessen Sinn fest ist,
+denn er vertraut auf dich.
+<sup>4</sup>Vertraut auf den HERRN für immer,
+denn in Jah, dem HERRN, ist ein ewiger Fels.
+<sup>5</sup>Denn er hat die gestürzt, die in der Höhe wohnen,
+die hohe Stadt.
+Er erniedrigt sie.
+Er erniedrigt sie bis zur Erde.
+Er bringt sie bis in den Staub.
+<sup>6</sup>Der Fuß wird sie zertreten,
+die Füße der Armen
+und die Schritte der Bedürftigen.“
+
+> **Was bedeutet das?**
+> Im Gegensatz zur zerstörten Stadt der Gewalt (Kapitel 25,2) steht hier die starke Stadt Gottes. Ihre Mauern sind nicht aus Stein, sondern Gottes Rettung.
+> Vers 2: Die Tore öffnen sich für alle, die treu sind.
+> Vers 3 ist ein bekannter Trostvers: Wer Gott vertraut, findet „vollkommenen Frieden“. Im Hebräischen steht „Schalom, Schalom“, doppelter Friede.
+> Vers 4: Gott ist ein Fels, auf den man sich für immer verlassen kann.
+> Vers 6: Die Armen, die früher zertreten wurden, gehen jetzt über die Trümmer der hochmütigen Stadt. Die Verhältnisse werden umgekehrt.
+
+---
+
+### Nachts sehne ich mich nach dir (Vers 7–15)
+
+<sup>7</sup>Der Weg des Gerechten ist gerade.
+Du, Gerechter, ebnest den Pfad des Gerechten.
+<sup>8</sup>Ja, auf dem Weg deiner Gerichte, HERR,
+haben wir auf dich gewartet.
+Dein Name und dein Andenken
+sind die Sehnsucht unserer Seele.
+<sup>9</sup>Mit meiner Seele habe ich mich in der Nacht nach dir gesehnt.
+Ja, mit meinem Geist in mir will ich dich eifrig suchen,
+denn wenn deine Gerichte auf der Erde sind,
+lernen die Bewohner der Welt Gerechtigkeit.
+<sup>10</sup>Wenn man dem Gottlosen Gnade erweist,
+lernt er doch keine Gerechtigkeit.
+Im Land der Aufrichtigkeit handelt er verkehrt
+und sieht die Majestät des HERRN nicht.
+<sup>11</sup>HERR, deine Hand ist erhoben,
+aber sie sehen es nicht.
+Doch sie werden deinen Eifer für das Volk sehen und beschämt werden.
+Ja, Feuer wird deine Gegner verzehren.
+<sup>12</sup>HERR, du wirst uns Frieden verschaffen,
+denn auch alle unsere Werke hast du für uns getan.
+<sup>13</sup>HERR, unser Gott,
+andere Herren außer dir haben über uns geherrscht,
+aber wir wollen nur deinen Namen bekennen.
+<sup>14</sup>Die Toten werden nicht leben.
+Die Geister der Verstorbenen werden nicht aufstehen.
+Darum hast du sie heimgesucht und vernichtet
+und jede Erinnerung an sie ausgelöscht.
+<sup>15</sup>Du hast das Volk vermehrt, HERR.
+Du hast das Volk vermehrt!
+Du bist verherrlicht!
+Du hast alle Grenzen des Landes erweitert.
+
+> **Was bedeutet das?**
+> Vers 8–9: Eine tiefe Sehnsucht nach Gott, die man sogar nachts spürt.
+> Vers 12: Ein schöner Gedanke: Alles Gute, was wir tun, hat eigentlich Gott in uns getan.
+> Vers 13–14: Andere Herren, also fremde Herrscher, haben über das Volk geherrscht. Aber sie sind tot und vergessen. Sie werden nicht wiederkommen.
+
+---
+
+### Wie eine Frau in den Wehen (Vers 16–19)
+
+<sup>16</sup>HERR, in der Not haben sie dich gesucht.
+Sie haben ein Gebet ausgeschüttet,
+als deine Züchtigung auf ihnen lag.
+<sup>17</sup>So wie eine schwangere Frau, die der Geburt nahe ist,
+Schmerzen hat und in ihren Wehen schreit,
+so sind wir vor dir gewesen, HERR.
+<sup>18</sup>Wir sind schwanger gewesen. Wir haben Schmerzen gehabt.
+Wir haben geboren, so scheint es, nur Wind.
+Wir haben keine Rettung auf der Erde bewirkt,
+und die Bewohner der Welt sind nicht gefallen.
+<sup>19</sup>Deine Toten werden leben.
+Ihre Leichname werden auferstehen.
+Wacht auf und jubelt, die ihr im Staub wohnt!
+Denn dein Tau ist wie der Tau der Kräuter,
+und die Erde wird die Geister der Toten herausgeben.
+
+> **Was bedeutet das?**
+> Vers 17–18: Ein ehrliches Bild: Das Volk hat gelitten wie eine Frau in den Wehen. Aber am Ende kam nichts heraus, „nur Wind“. Alle Mühe war scheinbar umsonst.
+> Vers 19 ist einer der wichtigsten Verse des Alten Testaments: „Deine Toten werden leben. Ihre Leichname werden auferstehen.“ Im Gegensatz zu den toten Tyrannen (Vers 14) werden Gottes Tote wieder lebendig.
+> Wie der Morgentau die Pflanzen wieder aufblühen lässt, so wird Gottes Tau die Toten wieder lebendig machen.
+> Hier spricht die Bibel zum ersten Mal deutlich von der Auferstehung der Toten. Später tut es Daniel (Daniel 12,2). Juden und Christen glauben an die Auferstehung der Toten.
+
+---
+
+### Versteck dich einen Augenblick (Vers 20–21)
+
+<sup>20</sup>Komm, mein Volk, geh in deine Kammern
+und schließ deine Türen hinter dir!
+Versteck dich einen kleinen Augenblick,
+bis der Zorn vorübergegangen ist.
+<sup>21</sup>Denn siehe, der HERR kommt aus seiner Wohnung,
+um die Bewohner der Erde für ihre Schuld heimzusuchen.
+Auch die Erde wird ihr Blut aufdecken
+und ihre Erschlagenen nicht mehr verbergen.
+
+> **Was bedeutet das?**
+> Vers 20: Wie in der Nacht des Pessach in Ägypten, als Israel in den Häusern blieb, bis das Unheil vorüber war (2. Mose 12,22–23): Versteckt euch nur einen kurzen Moment. Dann ist es vorbei.
+> Vers 21: Die Erde wird alle Morde aufdecken, die auf ihr geschehen sind. Kein Unrecht bleibt verborgen. Das unschuldig vergossene Blut schreit zu Gott (vgl. 1. Mose 4,10).
+
+## Jesaja – Kapitel 27
+#### Ein schöner Weinberg
+
+---
+
+### Gott besiegt den Drachen (Vers 1)
+
+<sup>1</sup>An jenem Tag wird der HERR mit seinem harten, großen und starken Schwert
+den Leviatan heimsuchen, die flüchtige Schlange,
+den Leviatan, die gewundene Schlange,
+und er wird den Drachen töten, der im Meer ist.
+
+> **Was bedeutet das?**
+> Der Leviatan ist ein mythisches Seeungeheuer (vgl. Hiob 41; Psalm 74,14). In den Geschichten der Nachbarvölker kämpften Götter gegen solche Drachen des Chaos.
+> Hier sagt Jesaja: Gott besiegt alle Mächte des Chaos und des Bösen endgültig. Die Offenbarung nimmt dieses Bild auf: Der Drache, die alte Schlange, wird besiegt (Offenbarung 12,9; 20,2).
+
+---
+
+### Das neue Weinberglied (Vers 2–6)
+
+<sup>2</sup>An jenem Tag singt von ihr:
+„Ein lieblicher Weinberg!
+<sup>3</sup>Ich, der HERR, bin sein Hüter.
+Ich bewässere ihn jeden Augenblick.
+Damit niemand ihm schadet,
+behüte ich ihn Tag und Nacht.
+<sup>4</sup>Zorn ist nicht in mir.
+Aber wenn ich Dornen und Disteln fände,
+dann würde ich gegen sie kämpfen!
+Ich würde gegen sie losziehen
+und sie zusammen verbrennen.
+<sup>5</sup>Oder man soll meine Kraft ergreifen,
+damit man mit mir Frieden schließt.
+Man soll Frieden mit mir schließen.“
+<sup>6</sup>In künftigen Tagen wird Jakob Wurzeln schlagen.
+Israel wird blühen und sprossen.
+Sie werden die Oberfläche der Welt mit Frucht füllen.
+
+> **Was bedeutet das?**
+> Erinnerst du dich an das traurige Weinberglied in Kapitel 5? Damals brachte der Weinberg nur saure Beeren, und Gott ließ ihn verwildern.
+> Jetzt singt Gott ein neues, fröhliches Weinberglied. Gott selbst ist der Gärtner. Er bewässert den Weinberg ständig und bewacht ihn Tag und Nacht.
+> Vers 4: „Zorn ist nicht in mir.“ Gott ist nicht mehr zornig auf sein Volk.
+> Vers 5: Selbst die Feinde, die „Dornen und Disteln“, sind eingeladen, Frieden mit Gott zu schließen. Gottes Ziel ist Frieden, nicht Vernichtung.
+> Vers 6: Israel wird blühen, und seine Früchte werden die ganze Welt füllen. Das Volk Gottes soll ein Segen für die Welt sein.
+
+---
+
+### Wie Gott sein Volk zurechtbringt (Vers 7–11)
+
+<sup>7</sup>Hat er es geschlagen, wie er die geschlagen hat, die es schlugen?
+Oder ist es getötet worden, wie die getötet wurden, die es töteten?
+<sup>8</sup>Mit Maß, als du sie fortschicktest, hast du mit ihnen gestritten.
+Er hat sie mit seinem rauen Sturm weggefegt
+am Tag des Ostwinds.
+<sup>9</sup>Darum wird dadurch die Schuld Jakobs vergeben werden,
+und das ist die ganze Frucht der Wegnahme seiner Sünde:
+dass er alle Steine des Altars zu zerschlagenen Kalksteinen macht,
+sodass die Aschera-Pfähle und die Räucheraltäre nicht mehr aufstehen.
+<sup>10</sup>Denn die befestigte Stadt ist einsam,
+eine verlassene und aufgegebene Wohnstätte wie die Wüste.
+Dort wird das Kalb weiden,
+dort wird es lagern und ihre Zweige abfressen.
+<sup>11</sup>Wenn ihre Zweige verdorrt sind, werden sie abgebrochen.
+Die Frauen werden kommen und sie anzünden,
+denn es ist ein Volk ohne Einsicht.
+Darum wird der, der sie gemacht hat, sich nicht über sie erbarmen,
+und der, der sie geformt hat, wird ihnen keine Gnade erweisen.
+
+> **Was bedeutet das?**
+> Vers 7–8: Gott hat sein Volk zwar bestraft, aber „mit Maß“, nicht so hart wie seine Feinde. Die Verbannung war wie ein starker Ostwind, der sie weggeweht hat.
+> Vers 9: Die Strafe hat ein Ziel: Die Schuld wird vergeben, wenn das Volk die Götzenaltäre zerstört und sich ganz Gott zuwendet.
+> Vers 10–11: Die „befestigte Stadt“ ist wieder die Stadt, die gegen Gott steht. Sie wird so leer, dass dort Kälber weiden und Frauen Brennholz sammeln.
+
+---
+
+### Die große Posaune (Vers 12–13)
+
+<sup>12</sup>An jenem Tag wird es geschehen,
+dass der HERR vom Strom des Euphrat bis zum Bach Ägyptens dreschen wird,
+und ihr werdet einer nach dem anderen aufgelesen werden,
+ihr Kinder Israels.
+<sup>13</sup>An jenem Tag wird es geschehen,
+dass eine große Posaune geblasen wird,
+und es werden kommen die, die im Land Assyrien verloren waren,
+und die Verstoßenen im Land Ägypten,
+und sie werden den HERRN anbeten
+auf dem heiligen Berg in Jerusalem.
+
+> **Was bedeutet das?**
+> Vers 12: Wie man beim Dreschen jedes einzelne Korn sammelt, so wird Gott jeden Einzelnen aus seinem Volk sammeln. Keiner geht verloren.
+> Vers 13: Eine große Posaune ruft alle Zerstreuten heim, aus Assyrien und aus Ägypten, zum Gottesdienst nach Jerusalem.
+> Diese „große Posaune“ wird im jüdischen Gebet bis heute erwähnt: „Blase die große Posaune zu unserer Befreiung.“ Auch im Neuen Testament ist von der Posaune die Rede, wenn Gott seine Menschen sammelt (Matthäus 24,31; 1. Thessalonicher 4,16).
+> Damit endet die „Jesaja-Apokalypse“: mit einer großen Heimkehr.
