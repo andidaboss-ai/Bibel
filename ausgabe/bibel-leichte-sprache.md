@@ -68623,3 +68623,302 @@ dir wohlgefallen, HERR, mein Fels und mein Erlöser!
 > „Vermessene Sünden“: Sünden, die man bewusst und mit Absicht tut. Der Beter bittet Gott, ihn davor zu bewahren.
 > Vers 14 ist ein bekanntes Gebet. Viele Prediger sprechen es vor der Predigt, und Juden beten es am Ende des Hauptgebets: „Lass die Worte meines Mundes und das Nachsinnen meines Herzens dir gefallen.“
 > „Mein Erlöser“: Im Hebräischen „Goël“, wie bei Hiob (Hiob 19,25). Gott ist der, der mich freikauft und für mich eintritt.
+
+## Psalm 20
+#### Ein Segen für den König
+
+---
+
+### Der HERR erhöre dich (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Der HERR erhöre dich am Tag der Not.
+Der Name des Gottes Jakobs schütze dich in der Höhe.
+<sup>2</sup>Er sende dir Hilfe aus dem Heiligtum
+und stütze dich vom Zion aus.
+<sup>3</sup>Er denke an alle deine Opfergaben
+und nehme dein Brandopfer an.
+Sela.
+<sup>4</sup>Er gebe dir, was dein Herz wünscht,
+und erfülle alle deine Pläne.
+<sup>5</sup>Wir wollen jubeln über deine Rettung.
+Im Namen unseres Gottes wollen wir unsere Fahnen aufrichten.
+Der HERR erfülle alle deine Bitten.
+
+> **Was bedeutet das?**
+> Psalm 20 ist ein Segensgebet für den König, bevor er in eine schwere Schlacht zieht. Das Volk betet für ihn im Tempel.
+> „Der Name Gottes“: Im Namen steckt Gottes Wesen und seine Gegenwart. Wer Gottes Namen anruft, ruft Gott selbst.
+> Auch heute beten viele Menschen diesen Psalm für andere, etwa vor einer Operation, einer Prüfung oder einem schweren Weg.
+
+---
+
+### Die einen vertrauen auf Wagen (Vers 6–9)
+
+<sup>6</sup>Jetzt weiß ich, dass der HERR seinen Gesalbten rettet.
+Er wird ihm antworten von seinem heiligen Himmel
+mit der rettenden Kraft seiner rechten Hand.
+<sup>7</sup>Die einen vertrauen auf Wagen und die anderen auf Pferde,
+wir aber vertrauen auf den Namen des HERRN, unseres Gottes.
+<sup>8</sup>Sie sind gebeugt und gefallen,
+wir aber stehen auf und bleiben aufrecht.
+<sup>9</sup>Rette, HERR!
+Der König möge uns antworten, wenn wir rufen!
+
+> **Was bedeutet das?**
+> Vers 6: Plötzlich spricht ein Einzelner, vielleicht ein Priester oder Prophet: „Jetzt weiß ich!“ Er ist gewiss, dass Gott helfen wird.
+> Vers 7 ist berühmt: Streitwagen und Pferde waren damals die stärksten Waffen, wie heute Panzer. Aber Israel vertraut nicht auf Waffen, sondern auf Gott.
+> Vers 9: „Der König“ kann der irdische König sein oder Gott selbst, der wahre König. Manche Übersetzungen lesen: „HERR, rette den König! Erhöre uns, wenn wir rufen!“
+
+## Psalm 21
+#### Dank für den Sieg des Königs
+
+---
+
+### Der König freut sich (Vers 1–7)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Der König freut sich über deine Kraft, HERR!
+Wie sehr jubelt er über deine Rettung!
+<sup>2</sup>Du hast ihm gegeben, was sein Herz wünscht,
+und hast ihm die Bitte seiner Lippen nicht verweigert.
+Sela.
+<sup>3</sup>Denn du kommst ihm mit Segen des Guten entgegen.
+Du setzt ihm eine Krone aus feinem Gold auf den Kopf.
+<sup>4</sup>Er bat dich um Leben, und du hast es ihm gegeben,
+lange Tage für immer und ewig.
+<sup>5</sup>Groß ist seine Herrlichkeit durch deine Rettung.
+Du legst Ehre und Majestät auf ihn.
+<sup>6</sup>Denn du machst ihn für immer zum Gesegneten.
+Du erfreust ihn mit Freude vor deinem Angesicht.
+<sup>7</sup>Denn der König vertraut auf den HERRN.
+Durch die Güte des Höchsten wird er nicht wanken.
+
+> **Was bedeutet das?**
+> Psalm 21 gehört zu Psalm 20. In Psalm 20 bat das Volk für den König. In Psalm 21 dankt es, weil Gott die Bitte erfüllt hat.
+> Vers 2 antwortet direkt auf Psalm 20,4: „Er gebe dir, was dein Herz wünscht.“ Jetzt heißt es: „Du hast ihm gegeben, was sein Herz wünscht.“
+> Vers 7 ist die Mitte des Psalms: Der König ist stark, weil er auf Gott vertraut, nicht auf sich selbst.
+> Juden haben den Psalm auch auf den Messias bezogen, Christen auf Jesus, den König, der „Leben für immer“ hat.
+
+---
+
+### Gottes Macht gegen die Feinde (Vers 8–13)
+
+<sup>8</sup>Deine Hand wird alle deine Feinde finden.
+Deine rechte Hand wird die finden, die dich hassen.
+<sup>9</sup>Du wirst sie wie einen feurigen Ofen machen zur Zeit deines Zorns.
+Der HERR wird sie in seinem Grimm verschlingen.
+Das Feuer wird sie verzehren.
+<sup>10</sup>Du wirst ihre Nachkommen von der Erde vertilgen,
+ihre Kinder aus den Menschenkindern.
+<sup>11</sup>Denn sie haben Böses gegen dich geplant.
+Sie haben einen bösen Plan gegen dich ersonnen, der nicht gelingen kann.
+<sup>12</sup>Denn du wirst sie dazu bringen, den Rücken zu kehren,
+wenn du mit gespannten Bogen auf ihr Gesicht zielst.
+<sup>13</sup>Erhebe dich, HERR, in deiner Kraft!
+Dann wollen wir singen und deine Macht loben.
+
+> **Was bedeutet das?**
+> Jetzt geht es um die Feinde, die gegen Gott und den König Böses planen.
+> Die Bilder sind sehr hart: Feuer, Vernichtung, sogar die Nachkommen. Das ist die Sprache der Kriege im alten Orient.
+> Wichtig: Nicht der König oder das Volk sollen hier Rache nehmen. Das Gericht wird Gott überlassen. Und es trifft die, die „Böses gegen Gott planen“.
+> Für heutige Leser gilt: Diese Verse sind keine Erlaubnis, Feinde oder ihre Kinder zu verfolgen. Kinder sind nicht für die Taten ihrer Eltern verantwortlich (Hesekiel 18,20). Jesus lehrt, die Feinde zu lieben.
+> Der Psalm endet nicht mit den Feinden, sondern mit dem Lob Gottes.
+
+## Psalm 22
+#### Mein Gott, warum hast du mich verlassen?
+
+---
+
+### Warum hast du mich verlassen? (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Hirschkuh der Morgenröte“. Ein Psalm von David.
+Mein Gott, mein Gott, warum hast du mich verlassen?
+Warum bist du so fern von meiner Rettung
+und von den Worten meines Stöhnens?
+<sup>2</sup>Mein Gott, ich rufe am Tag, aber du antwortest nicht,
+und in der Nacht, und ich finde keine Ruhe.
+<sup>3</sup>Aber du bist heilig,
+du, der über den Lobgesängen Israels thront.
+<sup>4</sup>Unsere Väter haben dir vertraut.
+Sie haben vertraut, und du hast sie gerettet.
+<sup>5</sup>Sie haben zu dir geschrien und wurden gerettet.
+Sie haben dir vertraut und wurden nicht enttäuscht.
+
+> **Was bedeutet das?**
+> Psalm 22 ist einer der wichtigsten Psalmen der ganzen Bibel. Er beginnt mit dem verzweifeltsten Schrei, den es gibt: „Mein Gott, mein Gott, warum hast du mich verlassen?“
+> Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lema sabachtani?“ (Matthäus 27,46; Markus 15,34).
+> Der Beter fühlt sich von Gott völlig verlassen. Aber er spricht Gott trotzdem an: „Mein Gott“. Er hält an Gott fest, auch wenn er ihn nicht spürt.
+> Vers 2: Die englische Vorlage sagt wörtlich „und ich bin nicht still“, also: Ich höre nicht auf zu rufen, ich finde keine Ruhe.
+> Vers 4–5: Er erinnert sich: Früher hat Gott unseren Vorfahren geholfen. Warum nicht mir?
+
+---
+
+### Ich bin ein Wurm (Vers 6–11)
+
+<sup>6</sup>Ich aber bin ein Wurm und kein Mensch,
+ein Spott der Menschen und verachtet vom Volk.
+<sup>7</sup>Alle, die mich sehen, verspotten mich.
+Sie beleidigen mich mit ihren Lippen.
+Sie schütteln den Kopf und sagen:
+<sup>8</sup>„Er vertraut auf den HERRN. Der soll ihn befreien!
+Er soll ihn retten, wenn er doch Gefallen an ihm hat!“
+<sup>9</sup>Aber du hast mich aus dem Mutterleib gezogen.
+Du hast mich vertrauen lassen an der Brust meiner Mutter.
+<sup>10</sup>Von Mutterleib an bin ich auf dich geworfen.
+Du bist mein Gott, seit meine Mutter mich geboren hat.
+<sup>11</sup>Sei nicht fern von mir, denn die Not ist nah,
+denn da ist niemand, der hilft.
+
+> **Was bedeutet das?**
+> Der Beter fühlt sich wertlos, „wie ein Wurm“, der zertreten wird. Die Menschen spotten über ihn und seinen Glauben.
+> Vers 7–8: Die Evangelien berichten, dass Menschen unter dem Kreuz genau so über Jesus spotteten: „Er hat auf Gott vertraut; der soll ihn jetzt retten“ (Matthäus 27,39–43).
+> Vers 9–10: Wieder hält sich der Beter an Gott fest: Du kennst mich schon seit meiner Geburt. Du warst immer mein Gott.
+
+---
+
+### Umzingelt (Vers 12–18)
+
+<sup>12</sup>Viele Stiere haben mich umringt.
+Starke Stiere aus Baschan haben mich umzingelt.
+<sup>13</sup>Sie reißen ihr Maul gegen mich auf,
+wie Löwen, die Beute zerreißen und brüllen.
+<sup>14</sup>Ich bin ausgeschüttet wie Wasser.
+Alle meine Knochen sind ausgerenkt.
+Mein Herz ist wie Wachs.
+Es ist in meinem Inneren geschmolzen.
+<sup>15</sup>Meine Kraft ist vertrocknet wie eine Tonscherbe.
+Meine Zunge klebt an meinem Gaumen.
+Du hast mich in den Staub des Todes gelegt.
+<sup>16</sup>Denn Hunde haben mich umringt.
+Eine Rotte von Übeltätern hat mich eingeschlossen.
+Sie haben meine Hände und Füße durchbohrt.
+<sup>17</sup>Ich kann alle meine Knochen zählen.
+Sie schauen und starren mich an.
+<sup>18</sup>Sie teilen meine Kleider unter sich auf.
+Sie werfen das Los um mein Gewand.
+
+> **Was bedeutet das?**
+> Die Feinde werden mit wilden Tieren verglichen: Stiere, Löwen, Hunde. Baschan war eine Gegend mit besonders starken, gut genährten Rindern.
+> Der Beter beschreibt furchtbare körperliche Qualen: ausgerenkte Knochen, Durst, Schwäche, Todesnähe.
+> Vers 16: „Sie haben meine Hände und Füße durchbohrt.“ So steht es in der englischen Vorlage und in der alten griechischen Übersetzung. Im heutigen hebräischen Text steht ein Wort, das man auch lesen kann als: „wie ein Löwe (sind sie an) meinen Händen und Füßen“. Jüdische Übersetzungen folgen meist dieser Lesart. Unter den Schriftrollen vom Toten Meer gibt es eine Handschrift, die eher ein Verb liest.
+> Vers 18: Die Evangelien berichten, dass die Soldaten unter dem Kreuz die Kleider von Jesus verteilten und um sein Gewand losten (Johannes 19,23–24).
+> Für Christen ist Psalm 22 deshalb eine erstaunliche Vorausschau auf das Leiden von Jesus. Für Juden ist er das Gebet eines leidenden Gerechten, ja des ganzen leidenden Volkes Israel. Beide Lesarten nehmen den Schmerz des Beters ernst.
+
+---
+
+### Eile mir zu Hilfe! (Vers 19–21)
+
+<sup>19</sup>Aber du, HERR, sei nicht fern!
+Du bist meine Hilfe. Eile mir zu Hilfe!
+<sup>20</sup>Rette meine Seele vor dem Schwert,
+mein kostbares Leben aus der Gewalt des Hundes!
+<sup>21</sup>Rette mich aus dem Rachen des Löwen!
+Ja, von den Hörnern der Wildstiere hast du mich gerettet.
+
+> **Was bedeutet das?**
+> Ein letzter, dringender Hilferuf.
+> Und dann, am Ende von Vers 21, ganz plötzlich: „Du hast mich gerettet!“ Im Hebräischen ist das nur ein einziges Wort: „Du hast mir geantwortet!“ Das ist der Wendepunkt des ganzen Psalms.
+
+---
+
+### Lob in der großen Gemeinde (Vers 22–26)
+
+<sup>22</sup>Ich will meinen Brüdern deinen Namen verkünden.
+Mitten in der Versammlung will ich dich loben.
+<sup>23</sup>Ihr, die ihr den HERRN fürchtet, lobt ihn!
+Alle Nachkommen Jakobs, ehrt ihn!
+Habt Ehrfurcht vor ihm, alle Nachkommen Israels!
+<sup>24</sup>Denn er hat das Elend des Elenden nicht verachtet und nicht verabscheut,
+und er hat sein Angesicht nicht vor ihm verborgen,
+sondern als er zu ihm schrie, hat er gehört.
+<sup>25</sup>Von dir kommt mein Lob in der großen Gemeinde.
+Ich will meine Gelübde erfüllen vor denen, die ihn fürchten.
+<sup>26</sup>Die Demütigen werden essen und satt werden.
+Die ihn suchen, werden den HERRN loben.
+Euer Herz soll für immer leben!
+
+> **Was bedeutet das?**
+> Jetzt ist alles anders. Aus der Klage wird Lob. Der Beter, der sich verlassen fühlte, erzählt nun allen: Gott hat mich gehört!
+> Vers 24 ist die Antwort auf Vers 1: Gott hat sein Angesicht nicht verborgen. Er hat gehört.
+> Vers 22 wird im Neuen Testament auf Jesus bezogen, der die Menschen seine „Brüder“ nennt (Hebräer 2,11–12).
+> Vers 26: Bei einem Dankopfer gab es ein Festmahl. Die Armen wurden eingeladen und durften sich satt essen.
+
+---
+
+### Alle Völker werden den HERRN anbeten (Vers 27–31)
+
+<sup>27</sup>Alle Enden der Erde werden daran denken und zum HERRN umkehren.
+Alle Familien der Völker werden vor dir anbeten.
+<sup>28</sup>Denn das Königreich gehört dem HERRN.
+Er ist der Herrscher über die Völker.
+<sup>29</sup>Alle Reichen der Erde werden essen und anbeten.
+Alle, die in den Staub hinabsteigen, werden sich vor ihm beugen,
+auch der, der seine Seele nicht am Leben erhalten kann.
+<sup>30</sup>Nachkommen werden ihm dienen.
+Künftigen Generationen wird man vom Herrn erzählen.
+<sup>31</sup>Sie werden kommen und seine Gerechtigkeit verkünden
+einem Volk, das noch geboren wird,
+denn er hat es getan.
+
+> **Was bedeutet das?**
+> Das Lob wird immer größer: Zuerst die Brüder, dann ganz Israel, dann alle Völker der Erde, dann sogar die Toten und die, die noch nicht geboren sind.
+> Die Rettung eines Einzelnen wird zu einer Botschaft für die ganze Welt.
+> Der letzte Satz: „Er hat es getan.“ Manche Ausleger verbinden das mit dem letzten Wort von Jesus am Kreuz: „Es ist vollbracht“ (Johannes 19,30).
+> Psalm 22 zeigt: Man darf Gott fragen „Warum hast du mich verlassen?“. Und der Weg kann aus der tiefsten Verlassenheit zum Lob führen.
+> Wenn du dich gerade von Gott und allen Menschen verlassen fühlst: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
+
+## Psalm 23
+#### Der HERR ist mein Hirte
+
+---
+
+### Der gute Hirte (Vers 1–3)
+
+<sup>1</sup>Ein Psalm von David.
+Der HERR ist mein Hirte.
+Mir wird nichts fehlen.
+<sup>2</sup>Er lässt mich auf grünen Weiden lagern.
+Er führt mich zu stillen Wassern.
+<sup>3</sup>Er erquickt meine Seele.
+Er führt mich auf Pfaden der Gerechtigkeit um seines Namens willen.
+
+> **Was bedeutet das?**
+> Psalm 23 ist der bekannteste Psalm der Bibel. Viele Menschen kennen ihn auswendig. Er wird bei Taufen, Hochzeiten und Beerdigungen gebetet.
+> David war selbst Hirte, bevor er König wurde (1. Samuel 16,11). Er wusste, was ein guter Hirte für seine Schafe tut.
+> Ein Hirte sorgt für alles: Er findet frisches Gras und ruhiges Wasser, aus dem die Schafe trinken können. Er führt sie auf sicheren Wegen.
+> „Mir wird nichts fehlen“: Nicht, dass ich alles bekomme, was ich will, sondern dass ich alles habe, was ich wirklich brauche.
+> „Er erquickt meine Seele“: Er gibt mir neue Kraft und neuen Mut.
+> „Um seines Namens willen“: Gott führt mich gut, weil er treu ist. Sein guter Ruf hängt daran.
+> Jesus sagt später: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11).
+
+---
+
+### Im dunklen Tal (Vers 4)
+
+<sup>4</sup>Auch wenn ich durch das Tal des Todesschattens gehe,
+fürchte ich kein Unglück, denn du bist bei mir.
+Dein Stock und dein Stab, sie trösten mich.
+
+> **Was bedeutet das?**
+> Das Leben besteht nicht nur aus grünen Weiden. Es gibt auch dunkle Täler: Krankheit, Trauer, Angst, Todesnähe.
+> Aber der Hirte geht mit. Darum: „Ich fürchte kein Unglück, denn du bist bei mir.“
+> Bemerkenswert: Bis hier hat David über Gott gesprochen („Er“). Jetzt, im dunklen Tal, spricht er direkt zu Gott: „Du bist bei mir.“ In der Not wird die Beziehung persönlich.
+> Der Stock war eine Keule zur Abwehr von wilden Tieren. Der Stab war ein langer Hirtenstab, mit dem man die Schafe lenkt und zurückholt. Beides zeigt: Der Hirte schützt und führt.
+
+---
+
+### Der gedeckte Tisch (Vers 5–6)
+
+<sup>5</sup>Du deckst mir einen Tisch vor den Augen meiner Feinde.
+Du salbst meinen Kopf mit Öl.
+Mein Becher fließt über.
+<sup>6</sup>Gewiss, Güte und Gnade werden mir folgen alle Tage meines Lebens,
+und ich werde im Haus des HERRN wohnen für immer.
+
+> **Was bedeutet das?**
+> Jetzt wechselt das Bild: Gott ist nicht mehr nur der Hirte, sondern ein großzügiger Gastgeber.
+> „Vor den Augen meiner Feinde“: Die Feinde sind noch da, aber sie können nichts tun. Ich bin bei Gott zu Gast und in Sicherheit.
+> „Den Kopf mit Öl salben“: So ehrte man damals einen Gast. Das Öl duftete und erfrischte.
+> „Mein Becher fließt über“: Gott gibt mehr als genug.
+> Vers 6: „Güte und Gnade werden mir folgen“: Wörtlich heißt es „sie werden mir nachjagen“. Nicht die Feinde verfolgen mich, sondern Gottes Güte.
+> „Im Haus des HERRN wohnen für immer“: Für David war das der Tempel. Christen und viele Juden verstehen es auch als Hoffnung auf ein Leben bei Gott über den Tod hinaus.
