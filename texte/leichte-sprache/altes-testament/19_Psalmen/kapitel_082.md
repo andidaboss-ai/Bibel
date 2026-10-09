@@ -3,10 +3,10 @@
 
 ---
 
-## Gott steht in der Versammlung (Vers 1–4)
+## Gott führt den Vorsitz (Vers 1–4)
 
 [1] Ein Psalm von Asaf.
-Gott steht in der großen Versammlung.
+Gott führt den Vorsitz in der großen Versammlung.
 Er richtet inmitten der Götter.
 [2] „Wie lange wollt ihr ungerecht richten
 und die Gottlosen bevorzugen?“

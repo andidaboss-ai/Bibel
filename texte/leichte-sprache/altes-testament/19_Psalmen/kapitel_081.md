@@ -10,7 +10,7 @@ Singt laut zu Gott, unserer Stärke!
 Jubelt dem Gott Jakobs zu!
 [2] Stimmt ein Lied an und bringt das Tamburin,
 die liebliche Leier mit der Harfe!
-[3] Blast das Horn am Neumond,
+[3] Blast die Trompete am Neumond,
 am Vollmond, an unserem Festtag!
 [4] Denn das ist eine Ordnung für Israel,
 ein Gebot des Gottes Jakobs.
@@ -21,7 +21,7 @@ Ich hörte eine Sprache, die ich nicht kannte:
 > **Was bedeutet das?**
 > Psalm 81 beginnt als fröhliches Festlied. Man feiert mit Musik und Gesang.
 > Vers 3: Am Neumond und Vollmond wurden Feste gefeiert. Gemeint ist wohl das Laubhüttenfest im Herbst, das am Vollmond gefeiert wird (3. Mose 23,34).
-> Das Horn (hebräisch „Schofar“) ist ein Widderhorn, das man wie eine Trompete bläst. Juden blasen es bis heute an hohen Feiertagen.
+> „Trompete“: Im Hebräischen steht „Schofar“. Das ist ein Widderhorn, das man wie eine Trompete bläst. Juden blasen es bis heute an hohen Feiertagen.
 > Vers 5: „Eine Sprache, die ich nicht kannte“: Plötzlich hört der Sänger eine unbekannte Stimme. Es ist Gottes Stimme, die nun spricht.
 
 ---

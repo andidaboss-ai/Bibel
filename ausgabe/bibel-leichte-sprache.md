@@ -73711,7 +73711,7 @@ Singt laut zu Gott, unserer Stärke!
 Jubelt dem Gott Jakobs zu!
 <sup>2</sup>Stimmt ein Lied an und bringt das Tamburin,
 die liebliche Leier mit der Harfe!
-<sup>3</sup>Blast das Horn am Neumond,
+<sup>3</sup>Blast die Trompete am Neumond,
 am Vollmond, an unserem Festtag!
 <sup>4</sup>Denn das ist eine Ordnung für Israel,
 ein Gebot des Gottes Jakobs.
@@ -73722,7 +73722,7 @@ Ich hörte eine Sprache, die ich nicht kannte:
 > **Was bedeutet das?**
 > Psalm 81 beginnt als fröhliches Festlied. Man feiert mit Musik und Gesang.
 > Vers 3: Am Neumond und Vollmond wurden Feste gefeiert. Gemeint ist wohl das Laubhüttenfest im Herbst, das am Vollmond gefeiert wird (3. Mose 23,34).
-> Das Horn (hebräisch „Schofar“) ist ein Widderhorn, das man wie eine Trompete bläst. Juden blasen es bis heute an hohen Feiertagen.
+> „Trompete“: Im Hebräischen steht „Schofar“. Das ist ein Widderhorn, das man wie eine Trompete bläst. Juden blasen es bis heute an hohen Feiertagen.
 > Vers 5: „Eine Sprache, die ich nicht kannte“: Plötzlich hört der Sänger eine unbekannte Stimme. Es ist Gottes Stimme, die nun spricht.
 
 ---
@@ -73777,10 +73777,10 @@ Mit Honig aus dem Felsen will ich dich sättigen.“
 
 ---
 
-### Gott steht in der Versammlung (Vers 1–4)
+### Gott führt den Vorsitz (Vers 1–4)
 
 <sup>1</sup>Ein Psalm von Asaf.
-Gott steht in der großen Versammlung.
+Gott führt den Vorsitz in der großen Versammlung.
 Er richtet inmitten der Götter.
 <sup>2</sup>„Wie lange wollt ihr ungerecht richten
 und die Gottlosen bevorzugen?“
