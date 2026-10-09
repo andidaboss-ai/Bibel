@@ -88612,3 +88612,308 @@ und vom Tempel: ‚Dein Fundament wird gelegt werden.‘“
 > Vers 26–28: Gott aber hält sein Wort. Jerusalem und der Tempel werden wieder aufgebaut.
 > Vers 28: Hier wird zum ersten Mal der Name genannt: Kyrus, der König der Perser. Gott nennt ihn „mein Hirte“, obwohl er ein fremder König ist, der Gott nicht kennt. Kyrus erlaubte tatsächlich im Jahr 538 vor Christus den Juden, heimzukehren und den Tempel wieder aufzubauen (Esra 1,1–4).
 > Viele Forscher meinen, dass dieser Teil des Jesajabuches zur Zeit des Kyrus von einem späteren Propheten in der Tradition Jesajas geschrieben wurde. Andere, besonders in der jüdischen und christlichen Tradition, sehen hier eine Vorhersage Jesajas lange vor Kyrus' Zeit.
+
+## Jesaja – Kapitel 45
+#### Kyrus, der Gesalbte des HERRN
+
+---
+
+### Ich habe dich bei deinem Namen gerufen, Kyrus (Vers 1–8)
+
+<sup>1</sup>So spricht der HERR zu seinem Gesalbten, zu Kyrus,
+dessen rechte Hand ich gehalten habe,
+um Nationen vor ihm zu unterwerfen
+und Königen die Rüstung abzunehmen,
+um die Türen vor ihm zu öffnen,
+und die Tore sollen nicht verschlossen bleiben:
+<sup>2</sup>„Ich werde vor dir hergehen
+und das Holprige eben machen.
+Ich werde die Türen aus Bronze zerbrechen
+und die Riegel aus Eisen zerschlagen.
+<sup>3</sup>Ich werde dir die Schätze der Finsternis geben
+und verborgene Reichtümer aus geheimen Orten,
+damit du erkennst, dass ich, der HERR, es bin,
+der dich bei deinem Namen ruft, der Gott Israels.
+<sup>4</sup>Um Jakobs willen, meines Knechtes,
+und um Israels willen, meines Erwählten,
+habe ich dich bei deinem Namen gerufen.
+Ich habe dir einen Ehrennamen gegeben,
+obwohl du mich nicht gekannt hast.
+<sup>5</sup>Ich bin der HERR, und sonst ist keiner.
+Außer mir gibt es keinen Gott.
+Ich werde dich stärken,
+obwohl du mich nicht gekannt hast,
+<sup>6</sup>damit man erkennt vom Aufgang der Sonne
+und vom Westen her, dass es außer mir keinen gibt.
+Ich bin der HERR, und sonst ist keiner.
+<sup>7</sup>Ich bilde das Licht und schaffe die Finsternis.
+Ich mache Frieden und schaffe Unheil.
+Ich bin der HERR, der all das tut.
+<sup>8</sup>Träufelt, ihr Himmel, von oben,
+und die Wolken sollen Gerechtigkeit herabgießen.
+Die Erde soll sich öffnen, damit sie Heil hervorbringt,
+und sie soll Gerechtigkeit mit aufsprossen lassen.
+Ich, der HERR, habe es geschaffen.
+
+> **Was bedeutet das?**
+> Vers 1: Etwas ganz Erstaunliches: Gott nennt den persischen König Kyrus seinen „Gesalbten“. Auf Hebräisch heißt das „Maschiach“, das Wort, von dem „Messias“ kommt. Sonst wurden nur Könige und Priester Israels so genannt. Ein fremder König, der Gott nicht kennt (Vers 4–5), wird zu Gottes Werkzeug, um Israel zu befreien.
+> Vers 3: „Schätze der Finsternis“ sind verborgene Schätze in Schatzkammern. Kyrus eroberte reiche Städte wie Sardes und Babylon.
+> Vers 7: Ein schwieriger Vers: Gott schafft Licht und Finsternis, Frieden und Unheil. Jesaja will sagen: Es gibt keinen zweiten Gott, keinen Gott der Dunkelheit neben dem Gott des Lichts, wie es die Perser glaubten. Alles liegt in der Hand des einen Gottes. Das heißt nicht, dass Gott Freude am Unglück hat. Im jüdischen Morgengebet wird dieser Vers abgewandelt gebetet: „… der Frieden macht und alles erschafft“.
+> Vers 8: Ein schönes Bild: Gerechtigkeit fällt vom Himmel wie Regen und wächst aus der Erde wie Pflanzen. Die alte lateinische Fassung dieses Verses („Rorate caeli“, „Tauet, Himmel“) wird in der Adventszeit gesungen.
+
+---
+
+### Der Ton und der Töpfer (Vers 9–13)
+
+<sup>9</sup>Wehe dem, der mit seinem Schöpfer streitet,
+ein Tontopf unter den Tontöpfen der Erde!
+Soll der Ton zu dem, der ihn formt, sagen: „Was machst du?“
+oder dein Werk: „Er hat keine Hände“?
+<sup>10</sup>Wehe dem, der zu einem Vater sagt: „Was zeugst du?“
+oder zu einer Mutter: „Was bringst du zur Welt?“
+<sup>11</sup>Der HERR, der Heilige Israels und sein Schöpfer, sagt:
+„Ihr fragt mich nach den Dingen, die kommen werden,
+über meine Söhne,
+und ihr wollt mir befehlen über das Werk meiner Hände!
+<sup>12</sup>Ich habe die Erde gemacht
+und den Menschen auf ihr geschaffen.
+Ich, meine Hände haben den Himmel ausgespannt.
+Ich habe ihrem ganzen Heer befohlen.
+<sup>13</sup>Ich habe ihn in Gerechtigkeit erweckt,
+und ich werde alle seine Wege ebnen.
+Er wird meine Stadt bauen,
+und er wird meine Verbannten freilassen,
+nicht für Geld und nicht für Belohnung“,
+spricht der HERR der Heere.
+
+> **Was bedeutet das?**
+> Manche im Volk waren wohl empört: Ein fremder König soll unser Retter sein? Das kann nicht Gottes Plan sein!
+> Vers 9–10: Jesaja antwortet mit einem Bild: Ein Tontopf kann dem Töpfer nicht vorschreiben, was er tun soll. Ein Kind kann seinen Eltern nicht vorwerfen, dass sie es geboren haben.
+> Vers 13: Kyrus wird Jerusalem wieder aufbauen lassen und die Verbannten freilassen, ohne Lösegeld. So kam es tatsächlich (Esra 1).
+
+---
+
+### Alle Enden der Erde, wendet euch zu mir (Vers 14–25)
+
+<sup>14</sup>So spricht der HERR:
+„Der Ertrag Ägyptens und die Handelsware von Kusch
+und die Sabäer, hochgewachsene Männer,
+werden zu dir hinüberkommen, und sie werden dir gehören.
+Sie werden hinter dir hergehen.
+In Ketten werden sie herüberkommen.
+Sie werden sich vor dir niederbeugen.
+Sie werden zu dir flehen:
+‚Gewiss, Gott ist bei dir, und sonst ist keiner.
+Es gibt keinen anderen Gott.
+<sup>15</sup>Wahrlich, du bist ein Gott, der sich verborgen hält,
+Gott Israels, der Retter.‘“
+<sup>16</sup>Sie werden enttäuscht, ja beschämt werden, sie alle.
+Die Hersteller von Götzen werden zusammen in Schande gehen.
+<sup>17</sup>Israel wird vom HERRN gerettet
+mit einer ewigen Rettung.
+Ihr werdet nicht enttäuscht und nicht beschämt werden
+in alle Ewigkeit.
+<sup>18</sup>Denn so spricht der HERR, der den Himmel geschaffen hat,
+der Gott, der die Erde geformt und gemacht hat,
+der sie gegründet hat
+und sie nicht als Leere geschaffen hat,
+der sie geformt hat, damit man auf ihr wohnt:
+„Ich bin der HERR. Es gibt keinen anderen.
+<sup>19</sup>Ich habe nicht im Verborgenen geredet,
+an einem Ort im Land der Finsternis.
+Ich habe nicht zu den Nachkommen Jakobs gesagt:
+‚Sucht mich vergeblich!‘
+Ich, der HERR, rede Gerechtigkeit.
+Ich verkünde, was richtig ist.
+<sup>20</sup>Versammelt euch und kommt!
+Tretet zusammen heran, ihr Entronnenen der Nationen!
+Keine Erkenntnis haben die, die das Holz ihres geschnitzten Bildes tragen
+und zu einem Gott beten, der nicht retten kann.
+<sup>21</sup>Verkündet es und bringt es vor!
+Ja, sie sollen sich miteinander beraten.
+Wer hat das seit alter Zeit hören lassen?
+Wer hat es seit langem verkündet?
+War ich es nicht, der HERR?
+Es gibt keinen anderen Gott außer mir,
+einen gerechten Gott und Retter.
+Es gibt keinen außer mir.
+<sup>22</sup>Wendet euch zu mir und lasst euch retten,
+alle Enden der Erde!
+Denn ich bin Gott, und es gibt keinen anderen.
+<sup>23</sup>Ich habe bei mir selbst geschworen.
+Das Wort ist in Gerechtigkeit aus meinem Mund gegangen
+und wird nicht zurückgenommen:
+Vor mir wird sich jedes Knie beugen,
+jede Zunge wird schwören.
+<sup>24</sup>Sie werden von mir sagen:
+‚Nur im HERRN ist Gerechtigkeit und Stärke.‘“
+Zu ihm werden die Menschen kommen.
+Alle, die gegen ihn gewütet haben, werden enttäuscht werden.
+<sup>25</sup>Alle Nachkommen Israels werden im HERRN gerecht gesprochen werden
+und werden sich freuen!
+
+> **Was bedeutet das?**
+> Vers 14: Völker aus dem Süden (Ägypten, Kusch, das WEB hat hier „Ethiopia“, und Saba) kommen zu Israel und erkennen: Bei euch ist der wahre Gott. Das Bild mit den Ketten stammt aus der Sprache der damaligen Zeit, in der besiegte Völker Gefangene stellten. Der Ton des Abschnitts ist aber nicht Gewalt, sondern dass alle Völker den einen Gott erkennen. Die Bibel rechtfertigt keine Unterdrückung von Menschen.
+> Vers 15: „Du bist ein Gott, der sich verborgen hält.“ Gott ist nicht einfach zu sehen oder zu begreifen. Viele Menschen kennen diese Erfahrung.
+> Vers 18: Gott hat die Erde nicht als leere Wüste geschaffen, sondern damit Menschen dort wohnen.
+> Vers 22: Eine Einladung an die ganze Welt: „Wendet euch zu mir und lasst euch retten, alle Enden der Erde!“ Gottes Rettung gilt nicht nur Israel, sondern allen Völkern.
+> Vers 23: „Jedes Knie wird sich beugen.“ Paulus nimmt dieses Wort im Brief an die Philipper (2,10–11) auf und bezieht es auf Jesus. Im Judentum gehört der Gedanke, dass einmal alle Völker den einen Gott anerkennen, zum Gebet „Alenu“.
+
+## Jesaja – Kapitel 46
+#### Ich trage euch bis ins Alter
+
+---
+
+### Die Götter Babylons müssen getragen werden (Vers 1–7)
+
+<sup>1</sup>Bel beugt sich nieder. Nebo krümmt sich.
+Ihre Götzenbilder sind auf die Tiere geladen und auf das Vieh.
+Die Dinge, die ihr herumgetragen habt, sind schwere Lasten,
+eine Bürde für das müde Tier.
+<sup>2</sup>Sie krümmen sich und beugen sich zusammen nieder.
+Sie konnten die Last nicht retten,
+sondern sie selbst sind in die Gefangenschaft gegangen.
+<sup>3</sup>„Hört auf mich, Haus Jakob,
+und der ganze Rest des Hauses Israel,
+die ihr von Geburt an getragen worden seid,
+die ihr vom Mutterleib an getragen worden seid.
+<sup>4</sup>Auch bis ins Alter bin ich es,
+und bis zu den grauen Haaren will ich euch tragen.
+Ich habe es gemacht, und ich will heben.
+Ja, ich will tragen und will retten.
+<sup>5</sup>Mit wem wollt ihr mich vergleichen und mich gleichstellen
+und mich messen, als wären wir gleich?
+<sup>6</sup>Manche schütten Gold aus dem Beutel
+und wiegen Silber auf der Waage.
+Sie bezahlen einen Goldschmied, und er macht einen Gott daraus.
+Sie fallen nieder, ja, sie beten an.
+<sup>7</sup>Sie tragen ihn auf der Schulter.
+Sie tragen ihn und stellen ihn an seinen Platz, und da steht er.
+Er kann sich nicht von seinem Platz bewegen.
+Ja, man kann zu ihm schreien, aber er kann nicht antworten.
+Er kann niemanden aus seiner Not retten.
+
+> **Was bedeutet das?**
+> Vers 1–2: Bel (ein anderer Name für Marduk) war der Hauptgott Babylons, Nebo (Nabu) sein Sohn. Ihre Statuen wurden bei großen Festen in Prozessionen herumgetragen. Jesaja sieht eine andere Szene: Die Götterbilder liegen als schwere Last auf erschöpften Lasttieren, auf der Flucht oder als Beute. Die Götter können nicht einmal sich selbst retten.
+> Vers 3–4: Der Gegensatz: Die Götzen müssen von Menschen getragen werden. Aber Israels Gott trägt sein Volk, von der Geburt bis ins hohe Alter, „bis zu den grauen Haaren“. Ein wunderbarer Trost für alte Menschen: Gott trägt dich auch dann noch, wenn deine Kräfte nachlassen.
+> Vers 7: Ein Götze steht nur da. Man schreit zu ihm, aber er antwortet nicht.
+
+---
+
+### Mein Plan wird bestehen (Vers 8–13)
+
+<sup>8</sup>Denkt daran und zeigt euch als Männer!
+Nehmt es euch wieder zu Herzen, ihr Abtrünnigen.
+<sup>9</sup>Denkt an das Frühere aus alter Zeit,
+denn ich bin Gott, und sonst ist keiner.
+Ich bin Gott, und keiner ist wie ich.
+<sup>10</sup>Ich verkünde von Anfang an das Ende
+und von alters her, was noch nicht getan ist.
+Ich sage: Mein Plan wird bestehen,
+und ich werde alles tun, was mir gefällt.
+<sup>11</sup>Ich rufe einen Raubvogel vom Osten,
+den Mann meines Plans aus fernem Land.
+Ja, ich habe geredet, ich werde es auch geschehen lassen.
+Ich habe es geplant, ich werde es auch tun.
+<sup>12</sup>Hört auf mich, ihr mit dem harten Herzen,
+die ihr fern seid von der Gerechtigkeit!
+<sup>13</sup>Ich bringe meine Gerechtigkeit nahe.
+Sie ist nicht fern, und meine Rettung wird nicht zögern.
+Ich werde Zion Rettung geben,
+Israel meine Herrlichkeit.“
+
+> **Was bedeutet das?**
+> Vers 10: Gott kennt das Ende von Anfang an. Er hat einen Plan für die Geschichte, und dieser Plan wird gelingen.
+> Vers 11: Der „Raubvogel vom Osten“ ist wieder Kyrus. Er stürzt sich schnell auf seine Beute wie ein Adler.
+> Vers 12–13: Auch an die, die nicht glauben wollen, ergeht die Botschaft: Gottes Rettung ist ganz nah. Sie kommt nicht irgendwann, sondern bald.
+
+## Jesaja – Kapitel 47
+#### Ein Klagelied über Babel
+
+---
+
+### Steig herab, Tochter Babel (Vers 1–7)
+
+<sup>1</sup>„Steig herab und setz dich in den Staub,
+Jungfrau, Tochter Babel!
+Setz dich ohne Thron auf die Erde,
+Tochter der Chaldäer!
+Denn man wird dich nicht mehr die Zarte und Verwöhnte nennen.
+<sup>2</sup>Nimm die Mühlsteine und mahle Mehl!
+Nimm deinen Schleier ab, heb deinen Rock hoch,
+entblöße die Beine und wate durch die Flüsse!
+<sup>3</sup>Deine Blöße wird aufgedeckt werden.
+Ja, deine Schande wird gesehen werden.
+Ich werde Rache nehmen und niemanden verschonen.“
+<sup>4</sup>Unser Erlöser, HERR der Heere ist sein Name,
+ist der Heilige Israels.
+<sup>5</sup>„Setz dich schweigend hin und geh in die Finsternis,
+Tochter der Chaldäer!
+Denn man wird dich nicht mehr die Herrin der Königreiche nennen.
+<sup>6</sup>Ich war zornig auf mein Volk.
+Ich habe mein Erbe entweiht
+und es in deine Hand gegeben.
+Du hast ihnen kein Erbarmen gezeigt.
+Auf die Alten hast du ein sehr schweres Joch gelegt.
+<sup>7</sup>Du hast gesagt: ‚Ich werde für immer eine Herrin sein‘,
+sodass du dir diese Dinge nicht zu Herzen genommen hast
+und nicht an die Folgen gedacht hast.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist ein Spottlied über die Stadt Babylon. Die Stadt wird als vornehme junge Frau dargestellt, die „Tochter Babel“. So sprach man damals oft von Städten.
+> Vers 1–3: Die stolze Herrin muss vom Thron herunter und wird zur Sklavin: Sie muss Mehl mahlen und ohne Schleier durch Flüsse waten. So erging es damals Gefangenen. Die Bilder von Bloßstellung beschreiben, wie die mächtige Stadt gedemütigt wird. Sie sind ein Bild für eine Stadt und ihre Macht. Sie rechtfertigen niemals, Frauen bloßzustellen, zu demütigen oder ihnen Gewalt anzutun. Wer Gewalt erlebt, findet Hilfe beim Hilfetelefon Gewalt gegen Frauen: 116 016.
+> Vers 3: „Rache“ meint hier, dass Gott das Recht wiederherstellt. Babylon hatte viele Völker grausam behandelt.
+> Vers 6: Gott hat sein Volk zur Strafe in Babylons Hand gegeben. Aber Babylon hat jedes Maß überschritten: Es hatte kein Erbarmen, nicht einmal mit den Alten. Dafür wird es zur Verantwortung gezogen.
+
+---
+
+### Ich bin es, und sonst niemand? (Vers 8–15)
+
+<sup>8</sup>Jetzt aber höre dies, du Genießerin,
+die du sorglos dasitzt,
+die du in deinem Herzen sagst:
+‚Ich bin es, und sonst ist niemand außer mir.
+Ich werde nicht als Witwe sitzen,
+und ich werde den Verlust von Kindern nicht kennen.‘
+<sup>9</sup>Aber diese beiden Dinge werden über dich kommen,
+in einem Augenblick, an einem Tag:
+der Verlust von Kindern und die Witwenschaft.
+In vollem Maß werden sie über dich kommen,
+trotz der Menge deiner Zaubereien
+und der großen Fülle deiner Beschwörungen.
+<sup>10</sup>Denn du hast auf deine Bosheit vertraut.
+Du hast gesagt: ‚Niemand sieht mich.‘
+Deine Weisheit und dein Wissen haben dich verführt.
+Du hast in deinem Herzen gesagt:
+‚Ich bin es, und sonst ist niemand außer mir.‘
+<sup>11</sup>Darum wird Unheil über dich kommen.
+Du wirst nicht wissen, wann es anbricht.
+Verderben wird über dich fallen.
+Du wirst es nicht abwenden können.
+Verwüstung wird plötzlich über dich kommen,
+die du nicht verstehst.
+<sup>12</sup>Tritt doch auf mit deinen Beschwörungen
+und mit der Menge deiner Zaubereien,
+mit denen du dich von deiner Jugend an abgemüht hast,
+ob du vielleicht Nutzen davon hast,
+ob du vielleicht Schrecken einjagen kannst.
+<sup>13</sup>Du bist müde geworden von der Menge deiner Ratschläge.
+Jetzt sollen die Astrologen auftreten,
+die Sterngucker und die, die jeden Monat Vorhersagen machen,
+und dich retten vor dem, was über dich kommen wird.
+<sup>14</sup>Siehe, sie sind wie Stoppeln.
+Das Feuer wird sie verbrennen.
+Sie werden sich selbst nicht aus der Gewalt der Flamme retten.
+Es wird keine Kohle sein, an der man sich wärmt,
+und kein Feuer, an dem man sitzt.
+<sup>15</sup>So wird es dir gehen mit denen, um die du dich gemüht hast:
+Die mit dir gehandelt haben von deiner Jugend an,
+werden jeder seinen eigenen Weg umherirren.
+Niemand wird dich retten.“
+
+> **Was bedeutet das?**
+> Vers 8 und 10: Babylon sagt: „Ich bin es, und sonst ist niemand außer mir.“ Das ist genau das, was Gott über sich selbst sagt (Kapitel 45,5–6). Babylon hat sich an die Stelle Gottes gesetzt. Das ist der tiefste Grund für seinen Fall.
+> Vers 9: Witwe und kinderlos zu werden war für eine Frau damals das schlimmste Unglück. Für die Stadt heißt das: Sie verliert ihren König und ihre Bewohner.
+> Vers 12–13: Babylon war berühmt für Sterndeutung und Beschwörungen. Jesaja spottet: Sollen doch die Astrologen dich jetzt retten!
+> Vers 14: Ihre Weisheit verbrennt wie Stroh. Es bleibt nicht einmal ein gemütliches Feuer zum Wärmen.
+> Für uns heute: Kein Mensch, keine Firma und kein Staat soll denken: „Ich bin der Größte, und niemand sieht, was ich tue.“ Macht ohne Verantwortung führt ins Verderben. Im Buch der Offenbarung (Kapitel 18) wird „Babylon“ zum Bild für jede gottlose, überhebliche Macht.
