@@ -94097,32 +94097,32 @@ Sie nützen diesem Volk ganz und gar nicht“, spricht der HERR.
 
 ---
 
-### Die „Last“ des HERRN (Vers 33–40)
+### Die „Botschaft“ des HERRN (Vers 33–40)
 
 <sup>33</sup>„Wenn dieses Volk oder ein Prophet oder ein Priester dich fragt:
-‚Was ist die Last des HERRN?‘,
+‚Was ist die Botschaft des HERRN?‘,
 dann sollst du zu ihnen sagen:
-‚Was für eine Last?
+‚Was für eine Botschaft?
 Ich werde euch abwerfen‘, spricht der HERR.
 <sup>34</sup>Und der Prophet, der Priester und das Volk,
-wer sagt: ‚Last des HERRN‘,
+wer sagt: ‚Botschaft des HERRN‘,
 den Mann und sein Haus werde ich heimsuchen.
 <sup>35</sup>So sollt ihr sagen, jeder zu seinem Nächsten
 und jeder zu seinem Bruder:
 ‚Was hat der HERR geantwortet?‘
 und: ‚Was hat der HERR geredet?‘
-<sup>36</sup>Von der ‚Last des HERRN‘ sollt ihr nicht mehr reden,
-denn jedem wird sein eigenes Wort zur Last,
+<sup>36</sup>Von der ‚Botschaft des HERRN‘ sollt ihr nicht mehr reden,
+denn jedem ist sein eigenes Wort zur Botschaft geworden,
 weil ihr die Worte des lebendigen Gottes verdreht habt,
 des HERRN der Heere, unseres Gottes.
 <sup>37</sup>So sollst du zum Propheten sagen:
 ‚Was hat der HERR dir geantwortet?‘
 und: ‚Was hat der HERR geredet?‘
-<sup>38</sup>Wenn ihr aber sagt: ‚Last des HERRN‘,
+<sup>38</sup>Wenn ihr aber sagt: ‚Botschaft des HERRN‘,
 darum spricht der HERR so:
-‚Weil ihr dieses Wort sagt: „Last des HERRN“,
+‚Weil ihr dieses Wort sagt: „Botschaft des HERRN“,
 obwohl ich zu euch gesandt und gesagt habe:
-Ihr sollt nicht sagen: „Last des HERRN“,
+Ihr sollt nicht sagen: „Botschaft des HERRN“,
 <sup>39</sup>darum siehe, werde ich euch ganz und gar vergessen
 und euch und die Stadt, die ich euch und euren Vätern gegeben habe,
 von meinem Angesicht verstoßen.
@@ -94130,9 +94130,9 @@ von meinem Angesicht verstoßen.
 und ewige Schande, die nicht vergessen wird.‘“
 
 > **Was bedeutet das?**
-> Hier steckt ein Wortspiel im Hebräischen: Das Wort „massa“ bedeutet sowohl „Botschaft, Ausspruch“ als auch „Last“. Das WEB übersetzt mit „message“ (Botschaft). Wir verwenden „Last“, damit man das Wortspiel versteht.
-> Die Leute fragten Jeremia spöttisch: „Was ist denn heute die ‚Last‘ des HERRN?“ Sie machten sich über seine Botschaften lustig.
-> Gott antwortet mit dem Wortspiel: „Ihr seid selbst die Last! Ich werde euch abwerfen.“
+> Hier steckt ein Wortspiel im Hebräischen: Das Wort „massa“ bedeutet sowohl „Botschaft, Ausspruch“ als auch „Last“. Das WEB übersetzt mit „message“ (Botschaft). Viele deutsche Bibeln übersetzen mit „Last“, damit man das Wortspiel versteht.
+> Die Leute fragten Jeremia spöttisch: „Was ist denn heute die ‚Botschaft‘ (oder ‚Last‘) des HERRN?“ Sie machten sich über seine Botschaften lustig.
+> Gott antwortet mit dem Wortspiel: Ihr fragt nach der „Last“? Ihr seid selbst die Last! „Ich werde euch abwerfen.“
 > Vers 35–36: Statt spöttisch von der „Last“ zu reden, sollen die Menschen ernsthaft fragen: „Was hat der HERR geantwortet? Was hat er gesagt?“ Gottes Wort soll man mit Respekt behandeln, nicht als Witz.
 
 ## Jeremia – Kapitel 24
