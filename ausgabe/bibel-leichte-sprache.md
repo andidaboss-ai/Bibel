@@ -65025,3 +65025,290 @@ Denn von euren Antworten bleibt nur Betrug übrig.“
 > Vers 30 ist im Hebräischen nicht ganz eindeutig. Die englische Vorlage versteht es so: Der Böse wird für den Tag des Unglücks aufbewahrt. Dann wäre das die Meinung der Freunde, die Hiob hier wiedergibt. Viele deutsche Bibeln übersetzen aber so, wie es der Zusammenhang nahelegt: Der Böse wird am Tag des Unglücks verschont.
 > Vers 34 ist Hiobs Urteil über die ganze zweite Runde: Eure Antworten sind Betrug. Sie passen nicht zur Wirklichkeit.
 > Hiob leugnet nicht, dass Gott gerecht ist. Aber er weigert sich, eine einfache Erklärung zu akzeptieren, die nicht stimmt. Das ist ehrlicher Glaube.
+
+## Hiob – Kapitel 22
+#### Elifas' dritte Rede: Offene Anklage
+
+---
+
+### Hat Gott etwas davon, wenn du gerecht bist? (Vers 1–4)
+
+<sup>1</sup>Da antwortete Elifas, der Temaniter:
+<sup>2</sup>„Kann ein Mensch Gott nützen?
+Gewiss, wer weise ist, nützt sich selbst.
+<sup>3</sup>Hat der Allmächtige Freude daran, dass du gerecht bist?
+Oder hat er Gewinn davon, wenn du deine Wege vollkommen machst?
+<sup>4</sup>Weist er dich etwa wegen deiner Gottesfurcht zurecht?
+Geht er deswegen mit dir ins Gericht?
+
+> **Was bedeutet das?**
+> Elifas sagt: Gott ist so groß, dass er nichts von uns braucht. Ob du gut oder böse bist, ändert für Gott nichts.
+> Vers 4 ist ironisch: Gott straft dich doch nicht, weil du fromm bist! Also muss es einen anderen Grund geben.
+> Ironie für den Leser: Genau das ist ja passiert! Gott hat Hiob gerade wegen seiner Frömmigkeit vor dem Satan gelobt (Kapitel 1,8). Und deshalb wurde Hiob geprüft. Elifas hat keine Ahnung, wie recht er unabsichtlich hat.
+> Und: Gott hat sehr wohl Freude an einem gerechten Menschen. Das zeigt die ganze Bibel.
+
+---
+
+### Die konkreten Vorwürfe (Vers 5–11)
+
+<sup>5</sup>Ist nicht deine Bosheit groß
+und deine Schuld ohne Ende?
+<sup>6</sup>Denn du hast deinen Brüdern grundlos Pfänder abgenommen
+und den Nackten ihre Kleider ausgezogen.
+<sup>7</sup>Dem Erschöpften hast du kein Wasser zu trinken gegeben,
+und dem Hungrigen hast du das Brot verweigert.
+<sup>8</sup>Der Mächtige aber, dem gehörte das Land,
+und der Angesehene wohnte darin.
+<sup>9</sup>Witwen hast du mit leeren Händen weggeschickt,
+und die Arme der Waisen wurden zerbrochen.
+<sup>10</sup>Darum sind Schlingen rings um dich,
+und plötzlicher Schrecken ängstigt dich,
+<sup>11</sup>oder Finsternis, sodass du nicht sehen kannst,
+und Wasserfluten bedecken dich.
+
+> **Was bedeutet das?**
+> Jetzt wird Elifas konkret. Er wirft Hiob schwere Sünden vor: Er habe Arme ausgebeutet, Hungrigen kein Brot gegeben, Witwen und Waisen im Stich gelassen.
+> Aber Elifas hat keine Beweise. Er erfindet diese Vorwürfe, weil seine Theorie sie verlangt. Er denkt: Hiob leidet schwer, also muss er schwer gesündigt haben. Und weil ein reicher Mann wie Hiob am ehesten an Armen sündigen könnte, unterstellt er ihm das.
+> Das ist Verleumdung. Hiob wird in Kapitel 29 und 31 zeigen, dass er genau das Gegenteil getan hat: Er war ein Vater der Armen und half Witwen und Waisen.
+> Hier sieht man, wohin eine falsche Theorie führen kann: Man beschuldigt Unschuldige, damit die Theorie stimmt.
+
+---
+
+### Gott sieht alles (Vers 12–20)
+
+<sup>12</sup>Ist Gott nicht in der Höhe des Himmels?
+Sieh die Höhe der Sterne, wie hoch sie sind!
+<sup>13</sup>Und du sagst: ‚Was weiß Gott?
+Kann er durch das dunkle Gewölk hindurch richten?
+<sup>14</sup>Dichte Wolken sind seine Hülle, sodass er nicht sieht.
+Er wandelt auf dem Kreis des Himmels.‘
+<sup>15</sup>Willst du den alten Weg einhalten,
+den die bösen Menschen gegangen sind,
+<sup>16</sup>die weggerafft wurden vor ihrer Zeit,
+deren Fundament wie ein Strom weggespült wurde,
+<sup>17</sup>die zu Gott sagten: ‚Weich von uns!‘
+und: ‚Was kann der Allmächtige für uns tun?‘
+<sup>18</sup>Und doch hat er ihre Häuser mit Gutem gefüllt.
+Aber der Rat der Gottlosen ist fern von mir.
+<sup>19</sup>Die Gerechten sehen es und freuen sich,
+und der Unschuldige verspottet sie:
+<sup>20</sup>‚Gewiss, unsere Gegner sind vertilgt,
+und das Feuer hat ihren Rest verzehrt.‘
+
+> **Was bedeutet das?**
+> Elifas legt Hiob Worte in den Mund, die Hiob nie gesagt hat: „Was weiß Gott? Er sieht doch nichts.“ Hiob hat im Gegenteil immer gesagt, dass Gott alles sieht.
+> „Der alte Weg der Bösen“: Vielleicht denkt Elifas an die Menschen zur Zeit der Sintflut, die von Wasserfluten weggespült wurden.
+> Vers 17–18 wiederholt fast wörtlich Hiobs Worte aus Kapitel 21,14–16. Elifas dreht sie gegen Hiob.
+
+---
+
+### Kehr um zum Allmächtigen! (Vers 21–30)
+
+<sup>21</sup>Freunde dich doch mit ihm an und habe Frieden.
+Dadurch wird Gutes zu dir kommen.
+<sup>22</sup>Nimm doch Belehrung aus seinem Mund an
+und bewahre seine Worte in deinem Herzen.
+<sup>23</sup>Wenn du zum Allmächtigen umkehrst, wirst du aufgebaut,
+wenn du Unrecht weit weg aus deinen Zelten entfernst.
+<sup>24</sup>Wirf dein Gold in den Staub
+und das Gold aus Ofir zu den Steinen der Bäche,
+<sup>25</sup>dann wird der Allmächtige dein Gold sein
+und dein kostbares Silber.
+<sup>26</sup>Denn dann wirst du Freude am Allmächtigen haben
+und dein Gesicht zu Gott erheben.
+<sup>27</sup>Du wirst zu ihm beten, und er wird dich hören.
+Und du wirst deine Gelübde erfüllen.
+<sup>28</sup>Du wirst auch etwas beschließen, und es wird dir gelingen.
+Licht wird auf deinen Wegen leuchten.
+<sup>29</sup>Wenn sie erniedrigt werden, wirst du sagen: ‚Erhebe dich!‘
+Er wird den Demütigen retten.
+<sup>30</sup>Er wird sogar den retten, der nicht unschuldig ist.
+Ja, er wird gerettet durch die Reinheit deiner Hände.“
+
+> **Was bedeutet das?**
+> Am Ende wird Elifas wieder freundlich. Er lädt Hiob ein, umzukehren. Viele dieser Worte sind wunderschön: „Der Allmächtige wird dein Gold sein.“ „Du wirst beten, und er wird dich hören.“
+> Gott selbst ist der größte Schatz. Das ist eine wahre und tiefe Einsicht.
+> Ofir war ein Land, das für sein feines Gold berühmt war.
+> Vers 30 ist erstaunlich: Elifas sagt, dass sogar Schuldige durch die Fürbitte eines Gerechten gerettet werden können. Genau das wird am Ende passieren, aber umgekehrt: Hiob wird für Elifas beten, und Gott wird Elifas um Hiobs willen vergeben (Kapitel 42,8). Elifas sagt hier, ohne es zu wissen, seine eigene Zukunft voraus.
+
+## Hiob – Kapitel 23
+#### „Ach, wüsste ich doch, wo ich ihn finden könnte!“
+
+---
+
+### Ich suche Gott (Vers 1–7)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Auch heute ist meine Klage aufrührerisch.
+Seine Hand liegt schwer auf mir, trotz meines Stöhnens.
+<sup>3</sup>Ach, wüsste ich doch, wo ich ihn finden könnte!
+Dass ich bis zu seinem Thron kommen könnte!
+<sup>4</sup>Ich würde meine Sache vor ihm darlegen
+und meinen Mund mit Beweisen füllen.
+<sup>5</sup>Ich würde die Worte erfahren, die er mir antworten würde,
+und verstehen, was er mir sagen würde.
+<sup>6</sup>Würde er mit mir streiten in der Größe seiner Macht?
+Nein, er würde auf mich hören.
+<sup>7</sup>Dort könnte ein Aufrichtiger mit ihm rechten.
+So würde ich für immer frei sein von meinem Richter.
+
+> **Was bedeutet das?**
+> Hiob antwortet nicht mehr auf Elifas' Vorwürfe. Er hat genug von den Freunden. Er wendet sich wieder Gott zu.
+> Vers 3 ist einer der bewegendsten Sätze im Buch: „Ach, wüsste ich doch, wo ich ihn finden könnte!“ Hiob sehnt sich nach Gott. Er will ihn nicht loswerden, er will ihn finden.
+> Vers 6 zeigt Hiobs tiefes Vertrauen: Gott würde mich nicht mit seiner Macht erschlagen. Er würde mir zuhören. Hiob glaubt an einen gerechten Gott, auch wenn er ihn gerade nicht versteht.
+
+---
+
+### Ich finde ihn nicht – aber er kennt meinen Weg (Vers 8–12)
+
+<sup>8</sup>Gehe ich nach Osten, so ist er nicht da.
+Gehe ich nach Westen, so finde ich ihn nicht.
+<sup>9</sup>Wirkt er im Norden, so sehe ich ihn nicht.
+Wendet er sich nach Süden, so erblicke ich ihn nicht.
+<sup>10</sup>Aber er kennt den Weg, den ich gehe.
+Wenn er mich geprüft hat, werde ich wie Gold hervorgehen.
+<sup>11</sup>Mein Fuß hat an seinen Schritten festgehalten.
+Ich habe seinen Weg bewahrt und bin nicht abgewichen.
+<sup>12</sup>Vom Gebot seiner Lippen bin ich nicht zurückgewichen.
+Die Worte seines Mundes habe ich mehr bewahrt als mein tägliches Brot.
+
+> **Was bedeutet das?**
+> Hiob sucht Gott in alle Himmelsrichtungen und findet ihn nicht. Viele Menschen kennen das Gefühl: Gott scheint abwesend.
+> Aber dann kommt Vers 10, ein wunderbarer Satz des Vertrauens: „Er kennt den Weg, den ich gehe. Wenn er mich geprüft hat, werde ich wie Gold hervorgehen.“
+> Gold wird im Feuer gereinigt. Hiob ahnt: Mein Leid ist vielleicht eine Prüfung. Und am Ende werde ich nicht zerstört, sondern gereinigt sein. Der Leser weiß aus Kapitel 1–2, dass es tatsächlich eine Prüfung ist.
+> Auch wenn ich Gott nicht finde: Er findet mich. Er kennt meinen Weg (vgl. Psalm 139; 1. Petrus 1,7).
+> Vers 12: Gottes Worte waren für Hiob wichtiger als Essen. Jesus sagt Ähnliches: „Der Mensch lebt nicht vom Brot allein, sondern von jedem Wort, das aus dem Mund Gottes kommt“ (Matthäus 4,4).
+
+---
+
+### Gott tut, was er will (Vers 13–17)
+
+<sup>13</sup>Aber er ist der Eine, und wer kann ihn umstimmen?
+Was seine Seele begehrt, das tut er.
+<sup>14</sup>Denn er vollendet, was mir bestimmt ist,
+und solcher Dinge hat er viele vor.
+<sup>15</sup>Darum erschrecke ich vor seinem Angesicht.
+Wenn ich daran denke, fürchte ich mich vor ihm.
+<sup>16</sup>Denn Gott hat mein Herz verzagt gemacht,
+und der Allmächtige hat mich erschreckt,
+<sup>17</sup>weil ich nicht vor der Finsternis vernichtet wurde
+und er die dichte Dunkelheit nicht vor meinem Gesicht verborgen hat.
+
+> **Was bedeutet das?**
+> Hiob schwankt wieder: Gerade noch war er voller Vertrauen. Jetzt hat er Angst. Gott ist so mächtig, niemand kann ihn aufhalten.
+> Das ist ehrlich. Glaube ist nicht immer gleich stark. Vertrauen und Angst wechseln sich ab.
+> Vers 17 ist im Hebräischen schwer zu verstehen. Gemeint ist wohl: Gott hat mich in die Finsternis geführt und sie nicht von mir ferngehalten.
+
+## Hiob – Kapitel 24
+#### Das Leid der Armen
+
+---
+
+### Warum greift Gott nicht ein? (Vers 1–4)
+
+<sup>1</sup>„Warum sind beim Allmächtigen keine Zeiten festgesetzt?
+Warum sehen die, die ihn kennen, seine Tage nicht?
+<sup>2</sup>Es gibt Leute, die Grenzsteine verrücken.
+Sie rauben Herden mit Gewalt und weiden sie.
+<sup>3</sup>Sie treiben den Esel der Waisen weg
+und nehmen das Rind der Witwe als Pfand.
+<sup>4</sup>Sie stoßen die Bedürftigen vom Weg.
+Die Armen des Landes müssen sich alle verstecken.
+
+> **Was bedeutet das?**
+> Hiob fragt: Warum hält Gott keinen Gerichtstag? Warum sehen die Frommen nicht, dass Gott eingreift?
+> Dann beschreibt er, was in der Welt passiert: Die Starken beuten die Schwachen aus.
+> „Grenzsteine verrücken“ heißt: Land stehlen, indem man die Grenze heimlich verschiebt. Das Gesetz verbot das streng (5. Mose 19,14; 27,17).
+> Der Esel der Waise und das Rind der Witwe waren oft ihr einziger Besitz. Ohne sie konnten sie nicht überleben.
+
+---
+
+### Wie die Armen leben (Vers 5–12)
+
+<sup>5</sup>Schaut, wie Wildesel in der Wüste
+gehen sie hinaus an ihre Arbeit
+und suchen eifrig nach Nahrung.
+Die Wüste gibt ihnen Brot für ihre Kinder.
+<sup>6</sup>Sie schneiden ihr Futter auf dem Feld.
+Sie lesen die Nachlese im Weinberg des Gottlosen.
+<sup>7</sup>Sie liegen die ganze Nacht nackt, ohne Kleidung,
+und haben keine Decke in der Kälte.
+<sup>8</sup>Sie werden nass vom Regen der Berge
+und umarmen den Felsen, weil sie keinen Schutz haben.
+<sup>9</sup>Es gibt Leute, die reißen die Waise von der Mutterbrust
+und nehmen von den Armen ein Pfand,
+<sup>10</sup>sodass sie nackt umhergehen, ohne Kleidung.
+Hungrig tragen sie die Garben.
+<sup>11</sup>Sie pressen Öl innerhalb der Mauern dieser Leute.
+Sie treten die Keltern und leiden Durst.
+<sup>12</sup>Aus der volkreichen Stadt stöhnen die Menschen,
+und die Seele der Verwundeten schreit.
+Doch Gott achtet nicht auf das Unrecht.
+
+> **Was bedeutet das?**
+> Hiob beschreibt das Elend der Armen sehr genau und mit viel Mitgefühl:
+> – Sie suchen in der Wüste nach Essen wie wilde Tiere.
+> – Sie haben keine Kleidung und frieren nachts.
+> – Sie suchen Schutz unter Felsen.
+> – Ihre Kinder werden ihnen weggenommen, als Pfand für Schulden.
+> – Sie tragen hungrig das Getreide der Reichen und haben Durst, während sie Wein pressen.
+> Das ist eine der eindrücklichsten Beschreibungen von Armut in der Bibel. Leider gibt es solche Zustände bis heute.
+> Vers 12 ist eine bittere Anklage: „Doch Gott achtet nicht auf das Unrecht.“ Hiob versteht nicht, warum Gott nicht eingreift.
+> Hiob sieht nicht nur sein eigenes Leid. Er sieht das Leid vieler Menschen. Sein Schmerz hat ihn mitfühlend gemacht.
+
+---
+
+### Die Menschen, die das Licht hassen (Vers 13–17)
+
+<sup>13</sup>Das sind die, die sich gegen das Licht auflehnen.
+Sie kennen seine Wege nicht
+und bleiben nicht auf seinen Pfaden.
+<sup>14</sup>Der Mörder steht auf, wenn es hell wird.
+Er tötet den Armen und den Bedürftigen.
+In der Nacht ist er wie ein Dieb.
+<sup>15</sup>Auch das Auge des Ehebrechers wartet auf die Dämmerung.
+Er sagt: ‚Kein Auge wird mich sehen.‘
+Und er verhüllt sein Gesicht.
+<sup>16</sup>Im Dunkeln brechen sie in Häuser ein.
+Am Tag schließen sie sich ein.
+Sie kennen das Licht nicht.
+<sup>17</sup>Denn für sie alle ist der Morgen wie tiefe Finsternis,
+denn sie kennen die Schrecken der tiefen Finsternis.
+
+> **Was bedeutet das?**
+> Hiob beschreibt Verbrecher, die im Dunkeln arbeiten: Mörder, Ehebrecher, Einbrecher. Sie lieben die Nacht, weil niemand sie sieht.
+> „Für sie ist der Morgen wie tiefe Finsternis“: Das Licht ist ihr Feind, weil es ihre Taten aufdeckt.
+> Jesus sagt Ähnliches: „Wer Böses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden“ (Johannes 3,20).
+
+---
+
+### Was mit den Gottlosen geschieht (Vers 18–25)
+
+<sup>18</sup>Sie sind Schaum auf der Oberfläche des Wassers.
+Ihr Anteil ist verflucht auf der Erde.
+Sie wenden sich nicht mehr dem Weg zu den Weinbergen zu.
+<sup>19</sup>Dürre und Hitze verzehren das Schneewasser.
+So tut es das Totenreich mit denen, die gesündigt haben.
+<sup>20</sup>Der Mutterschoß vergisst ihn.
+Der Wurm labt sich an ihm.
+Man erinnert sich nicht mehr an ihn.
+Die Ungerechtigkeit wird zerbrochen wie ein Baum.
+<sup>21</sup>Er beraubt die Unfruchtbare, die nicht gebiert,
+und der Witwe tut er nichts Gutes.
+<sup>22</sup>Doch Gott erhält die Mächtigen durch seine Kraft.
+Er steht auf, auch wenn er seines Lebens nicht sicher ist.
+<sup>23</sup>Gott gibt ihnen Sicherheit, und sie verlassen sich darauf.
+Seine Augen sind auf ihren Wegen.
+<sup>24</sup>Sie sind erhöht – noch eine kleine Weile, und sie sind fort.
+Ja, sie werden erniedrigt, sie werden weggenommen wie alle anderen
+und abgeschnitten wie die Spitzen der Ähren.
+<sup>25</sup>Wenn es nicht so ist, wer will mich der Lüge strafen
+und meine Rede zunichte machen?“
+
+> **Was bedeutet das?**
+> Dieser Abschnitt ist im Hebräischen sehr schwer zu verstehen. Die Übersetzungen unterscheiden sich stark.
+> Manche Verse (18–20) klingen wie die Reden der Freunde: Die Gottlosen vergehen schnell. Vielleicht zitiert Hiob hier die Meinung der Freunde. Oder er sagt: Ja, am Ende sterben auch die Gottlosen, aber oft erst nach einem langen, guten Leben (Vers 22–24).
+> Vers 22–23: Gott scheint die Mächtigen sogar zu schützen und ihnen Sicherheit zu geben.
+> Vers 24: Am Ende sterben sie „wie alle anderen“. Der Tod macht keinen Unterschied. Aber eine besondere Strafe für sie sieht Hiob nicht.
+> Vers 25 ist eine Herausforderung: Wenn ich nicht recht habe, dann beweist es mir!
+> Manche Ausleger vermuten, dass in den Kapiteln 24–27 beim Abschreiben die Reihenfolge der Reden durcheinandergeraten ist. Denn in der dritten Runde ist Bildads Rede sehr kurz, und Zofar spricht gar nicht mehr. Diese Übertragung folgt dem Text, wie er überliefert ist.
