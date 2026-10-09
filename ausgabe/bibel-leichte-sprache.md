@@ -80479,3 +80479,315 @@ Wenn er seine Lippen schließt, hält man ihn für verständig.
 > Vers 24: Der Kluge schaut auf das, was vor ihm liegt. Der Tor träumt von fernen Dingen und sieht das Naheliegende nicht.
 > Vers 26: Wer ehrlich ist, darf dafür nicht bestraft werden. Das gilt auch für Menschen, die Missstände aufdecken.
 > Vers 28: Ein humorvoller Schluss: Wer schweigt, wirkt klug, auch wenn er es vielleicht nicht ist. Manchmal ist es besser, nichts zu sagen.
+
+## Sprüche – Kapitel 18
+#### Der Name des HERRN ist ein starker Turm
+
+---
+
+### Erst hören, dann reden (Vers 1–9)
+
+<sup>1</sup>Wer sich absondert, sucht nur sich selbst
+und widersetzt sich jedem vernünftigen Urteil.
+<sup>2</sup>Ein Tor hat keine Freude an Einsicht,
+sondern nur daran, seine eigene Meinung kundzutun.
+<sup>3</sup>Wenn Gottlosigkeit kommt, kommt auch Verachtung,
+und mit der Schande kommt Schmach.
+<sup>4</sup>Die Worte aus dem Mund eines Menschen sind wie tiefe Wasser.
+Die Quelle der Weisheit ist wie ein fließender Bach.
+<sup>5</sup>Es ist nicht gut, den Gottlosen zu bevorzugen
+und dem Unschuldigen sein Recht zu nehmen.
+<sup>6</sup>Die Lippen des Toren geraten in Streit,
+und sein Mund ruft nach Schlägen.
+<sup>7</sup>Der Mund des Toren ist sein Verderben,
+und seine Lippen sind eine Falle für sein Leben.
+<sup>8</sup>Die Worte eines Klatschmauls sind wie Leckerbissen.
+Sie gehen hinab bis ins Innerste eines Menschen.
+<sup>9</sup>Wer nachlässig bei seiner Arbeit ist,
+ist ein Bruder dessen, der zerstört.
+
+> **Was bedeutet das?**
+> Vers 1: Wer sich von allen zurückzieht, um nur an sich selbst zu denken, verliert den Blick für das Richtige. Wir brauchen andere Menschen.
+> Wer sich aber aus Traurigkeit oder Angst zurückzieht, ist nicht egoistisch, sondern braucht Hilfe und Zuwendung.
+> Vers 2: Ein Tor will nicht verstehen, sondern nur seine Meinung sagen. Das kennt man auch aus vielen Diskussionen im Internet.
+> Vers 8: Klatsch schmeckt wie ein Leckerbissen. Man hört ihn gern, und er bleibt hängen. Aber er vergiftet das Herz.
+> Vers 9: Wer schlampig arbeitet, richtet am Ende genauso viel Schaden an wie jemand, der absichtlich zerstört.
+
+---
+
+### Der starke Turm (Vers 10–15)
+
+<sup>10</sup>Der Name des HERRN ist ein starker Turm.
+Der Gerechte läuft zu ihm und ist in Sicherheit.
+<sup>11</sup>Der Besitz des Reichen ist seine feste Stadt,
+wie eine unüberwindliche Mauer in seiner Einbildung.
+<sup>12</sup>Vor dem Zusammenbruch ist das Herz des Menschen hochmütig,
+aber vor der Ehre kommt die Demut.
+<sup>13</sup>Wer antwortet, bevor er zugehört hat,
+dem ist es Torheit und Schande.
+<sup>14</sup>Der Geist eines Menschen hält ihn in der Krankheit aufrecht,
+aber einen zerschlagenen Geist, wer kann den ertragen?
+<sup>15</sup>Das Herz des Verständigen erwirbt Erkenntnis.
+Das Ohr der Weisen sucht Erkenntnis.
+
+> **Was bedeutet das?**
+> Vers 10–11: Ein Vergleich: Der Gerechte findet Schutz bei Gott, wie in einem starken Turm. Der Reiche glaubt, sein Geld sei eine sichere Mauer. Aber das ist nur Einbildung.
+> Vers 13: Wer jemanden unterbricht und antwortet, bevor er richtig zugehört hat, macht sich lächerlich. Erst zuhören, dann reden!
+> Vers 14: Ein starker Lebenswille hilft, Krankheit zu ertragen. Aber wenn die Seele zerbrochen ist, ist das schwerer als jede Krankheit. Seelische Not ist ernst und braucht Hilfe. Die Telefonseelsorge ist erreichbar: 0800 111 0 111.
+
+---
+
+### Zwei Seiten hören (Vers 16–21)
+
+<sup>16</sup>Das Geschenk eines Menschen schafft ihm Raum
+und bringt ihn vor große Leute.
+<sup>17</sup>Wer zuerst seine Sache vorträgt, scheint recht zu haben,
+bis ein anderer kommt und ihn befragt.
+<sup>18</sup>Das Los beendet Streitigkeiten
+und hält Starke auseinander.
+<sup>19</sup>Ein gekränkter Bruder ist schwerer zu gewinnen als eine befestigte Stadt.
+Streitigkeiten sind wie die Riegel einer Festung.
+<sup>20</sup>Der Bauch eines Menschen wird gefüllt von der Frucht seines Mundes.
+Von der Ernte seiner Lippen wird er satt.
+<sup>21</sup>Tod und Leben stehen in der Macht der Zunge.
+Die sie lieben, werden ihre Frucht essen.
+
+> **Was bedeutet das?**
+> Vers 16: Ein Geschenk kann Türen öffnen. Das ist eine Beobachtung, keine Empfehlung zur Bestechung.
+> Vers 17: Ein sehr kluger Satz: Wer nur eine Seite hört, glaubt ihr sofort. Aber man muss immer beide Seiten hören, bevor man urteilt. Das gilt vor Gericht, im Streit unter Freunden und bei Nachrichten.
+> Vers 19: Ein verletzter Bruder ist schwerer zu gewinnen als eine Festung. Streit in der Familie sitzt tief. Darum: Verletze nicht leichtfertig!
+> Vers 21: Worte haben Macht über Leben und Tod. Mit Worten kann man aufbauen oder zerstören, ermutigen oder vernichten. Das gilt besonders für Mobbing.
+
+---
+
+### Ein Freund, der fester steht als ein Bruder (Vers 22–24)
+
+<sup>22</sup>Wer eine Frau findet, findet etwas Gutes
+und erlangt Wohlgefallen vom HERRN.
+<sup>23</sup>Der Arme bittet flehentlich,
+aber der Reiche antwortet hart.
+<sup>24</sup>Ein Mann mit vielen Gefährten kann zugrunde gehen,
+aber es gibt einen Freund, der fester zu einem hält als ein Bruder.
+
+> **Was bedeutet das?**
+> Vers 22: Eine gute Ehe ist ein Geschenk Gottes.
+> Vers 23: Eine traurige Beobachtung: Arme müssen bitten, Reiche antworten oft hart. Das soll nicht so sein.
+> Vers 24: Viele Bekannte zu haben, heißt nicht, echte Freunde zu haben. Ein einziger treuer Freund ist mehr wert. Christen sehen in Jesus diesen Freund, der „fester hält als ein Bruder“ (vgl. Johannes 15,13–15).
+
+## Sprüche – Kapitel 19
+#### Wer sich über den Armen erbarmt, leiht dem HERRN
+
+---
+
+### Arm, aber ehrlich (Vers 1–7)
+
+<sup>1</sup>Besser ist ein Armer, der redlich lebt,
+als einer mit verdrehten Lippen, der ein Tor ist.
+<sup>2</sup>Es ist nicht gut, Eifer ohne Erkenntnis zu haben,
+oder mit eiligen Füßen den Weg zu verfehlen.
+<sup>3</sup>Die Torheit des Menschen verdreht seinen Weg,
+und sein Herz wütet gegen den HERRN.
+<sup>4</sup>Reichtum bringt viele Freunde,
+aber der Arme wird von seinem Freund getrennt.
+<sup>5</sup>Ein falscher Zeuge wird nicht ungestraft bleiben.
+Wer Lügen ausschüttet, wird nicht davonkommen.
+<sup>6</sup>Viele suchen die Gunst eines Herrschers,
+und jeder ist Freund dessen, der Geschenke gibt.
+<sup>7</sup>Alle Verwandten des Armen meiden ihn.
+Wie viel mehr halten sich seine Freunde von ihm fern!
+Er läuft ihnen mit Bitten nach, aber sie sind weg.
+
+> **Was bedeutet das?**
+> Vers 1: Ehrlichkeit ist mehr wert als Geld.
+> Vers 2: Eifer allein reicht nicht. Wer ohne nachzudenken losrennt, verläuft sich.
+> Vers 3: Ein Mensch macht durch eigene Dummheit Fehler, und dann gibt er Gott die Schuld. Das kennt man.
+> Vers 4–7: Eine bittere Wahrheit: Wer reich ist, hat viele „Freunde“. Wer arm wird, wird von allen verlassen, sogar von der eigenen Familie. Die Bibel beschreibt das ehrlich, damit wir es besser machen und Arme nicht allein lassen.
+
+---
+
+### Langmut und Vergebung (Vers 8–14)
+
+<sup>8</sup>Wer Weisheit erwirbt, liebt sein eigenes Leben.
+Wer Einsicht bewahrt, wird Gutes finden.
+<sup>9</sup>Ein falscher Zeuge wird nicht ungestraft bleiben.
+Wer Lügen ausspricht, wird umkommen.
+<sup>10</sup>Ein Leben in Luxus passt nicht zu einem Toren,
+noch viel weniger, dass ein Diener über Fürsten herrscht.
+<sup>11</sup>Die Klugheit eines Menschen macht ihn langsam zum Zorn.
+Es ist seine Ehre, über ein Vergehen hinwegzusehen.
+<sup>12</sup>Der Zorn des Königs ist wie das Brüllen eines Löwen,
+aber seine Gunst ist wie Tau auf dem Gras.
+<sup>13</sup>Ein törichter Sohn ist ein Unglück für seinen Vater.
+Die Streitereien einer Frau sind wie ein ständiges Tropfen.
+<sup>14</sup>Haus und Reichtum sind ein Erbe von den Vätern,
+aber eine kluge Frau kommt vom HERRN.
+
+> **Was bedeutet das?**
+> Vers 11: Wer klug ist, regt sich nicht gleich auf. Es ist eine Ehre, einem anderen etwas zu verzeihen, statt es ihm vorzuhalten.
+> Vers 13: Ständiger Streit in einer Ehe ist wie ein tropfender Wasserhahn, der einen verrückt macht. Das gilt natürlich auch für streitsüchtige Männer.
+> Vers 14: Ein Haus kann man erben. Aber einen guten, klugen Ehepartner kann man nicht kaufen. Er ist ein Geschenk Gottes.
+
+---
+
+### Gott leihen (Vers 15–21)
+
+<sup>15</sup>Faulheit lässt in tiefen Schlaf fallen.
+Die träge Seele wird Hunger leiden.
+<sup>16</sup>Wer das Gebot hält, bewahrt sein Leben,
+aber wer seine Wege verachtet, wird sterben.
+<sup>17</sup>Wer sich über den Armen erbarmt, leiht dem HERRN.
+Er wird es ihm vergelten.
+<sup>18</sup>Erziehe deinen Sohn, solange es noch Hoffnung gibt.
+Mach dich nicht mitschuldig an seinem Tod.
+<sup>19</sup>Ein jähzorniger Mann muss die Strafe tragen.
+Denn wenn du ihn rettest, musst du es wieder tun.
+<sup>20</sup>Hör auf Rat und nimm Erziehung an,
+damit du am Ende weise bist.
+<sup>21</sup>Viele Pläne sind im Herzen eines Menschen,
+aber der Rat des HERRN wird bestehen.
+
+> **Was bedeutet das?**
+> Vers 17 ist ein wunderbarer Gedanke: Wer einem Armen hilft, gibt es eigentlich Gott. Und Gott bleibt niemandem etwas schuldig. Jesus sagt Ähnliches (Matthäus 25,40).
+> Vers 18: Eltern sollen ihre Kinder rechtzeitig erziehen, solange sie noch formbar sind. Wer gar keine Grenzen setzt, lässt das Kind ins Unglück laufen. Erziehung heißt dabei nicht Gewalt.
+> Vers 19: Wer jähzornig ist, gerät immer wieder in Schwierigkeiten. Wenn man ihn immer herausholt, lernt er nichts.
+> Vers 21: Wieder der Gedanke: Der Mensch denkt, Gott lenkt (vgl. Kapitel 16,9).
+
+---
+
+### Was einen Menschen liebenswert macht (Vers 22–29)
+
+<sup>22</sup>Was einen Menschen begehrenswert macht, ist seine Güte.
+Ein Armer ist besser als ein Lügner.
+<sup>23</sup>Die Ehrfurcht vor dem HERRN führt zum Leben, dann zur Zufriedenheit.
+Man ruht und wird nicht von Unheil berührt.
+<sup>24</sup>Der Faule steckt seine Hand in die Schüssel
+und bringt sie nicht einmal wieder zum Mund.
+<sup>25</sup>Schlage den Spötter, dann wird der Einfältige klug.
+Weise den Verständigen zurecht, dann gewinnt er Erkenntnis.
+<sup>26</sup>Wer seinen Vater beraubt und seine Mutter vertreibt,
+ist ein Sohn, der Schande und Schmach bringt.
+<sup>27</sup>Wenn du aufhörst, auf Erziehung zu hören, mein Sohn,
+dann wirst du dich von den Worten der Erkenntnis entfernen.
+<sup>28</sup>Ein bestechlicher Zeuge verspottet das Recht,
+und der Mund der Gottlosen verschlingt Unrecht.
+<sup>29</sup>Für die Spötter sind Strafen bereit
+und Schläge für den Rücken der Toren.
+
+> **Was bedeutet das?**
+> Vers 22: Was macht einen Menschen wirklich liebenswert? Nicht Geld oder Aussehen, sondern Güte.
+> Vers 24: Ein komisches Bild: Der Faule ist sogar zu faul, um seine Hand vom Teller zum Mund zu führen.
+> Vers 25 und 29: Damals waren Prügelstrafen üblich. Der Spruch will sagen: Wer nicht hören will, muss die Folgen spüren, und andere lernen daraus. Heute gibt es keine Prügelstrafen mehr, und das ist gut so. Der Kern bleibt: Ein Kluger lernt schon aus einem Wort.
+> Vers 26: Eltern im Alter schlecht zu behandeln, ist eine große Schande. Das Gebot „Ehre Vater und Mutter“ gilt auch für erwachsene Kinder.
+
+## Sprüche – Kapitel 20
+#### Wer kann sagen: Mein Herz ist rein?
+
+---
+
+### Wein und Streit (Vers 1–7)
+
+<sup>1</sup>Wein ist ein Spötter, und Bier ist ein Raufbold.
+Wer sich davon verführen lässt, ist nicht weise.
+<sup>2</sup>Der Schrecken eines Königs ist wie das Brüllen eines Löwen.
+Wer ihn zum Zorn reizt, setzt sein Leben aufs Spiel.
+<sup>3</sup>Es ist eine Ehre für einen Menschen, sich vom Streit fernzuhalten,
+aber jeder Tor fängt Streit an.
+<sup>4</sup>Der Faule pflügt nicht wegen des Winters.
+Darum bettelt er in der Erntezeit und hat nichts.
+<sup>5</sup>Der Plan im Herzen eines Menschen ist wie tiefes Wasser,
+aber ein verständiger Mann schöpft ihn heraus.
+<sup>6</sup>Viele Menschen behaupten, voll unerschütterlicher Liebe zu sein,
+aber wer findet einen treuen Menschen?
+<sup>7</sup>Ein Gerechter lebt in Redlichkeit.
+Glücklich sind seine Kinder nach ihm.
+
+> **Was bedeutet das?**
+> Vers 1: Alkohol macht Menschen zu Spöttern und Schlägern. Wer sich vom Alkohol beherrschen lässt, ist nicht klug. Wer ein Problem mit Alkohol hat, findet Hilfe zum Beispiel bei der Suchtberatung oder bei den Anonymen Alkoholikern.
+> Vers 3: Es ist keine Schwäche, einem Streit aus dem Weg zu gehen. Es ist eine Ehre.
+> Vers 4: In Israel pflügte man im Herbst und Winter. Wer da zu faul ist, hat im Sommer keine Ernte.
+> Vers 5: Was ein Mensch wirklich denkt, liegt oft tief verborgen. Ein kluger Mensch kann durch gute Fragen helfen, es ans Licht zu bringen.
+> Vers 6: Viele reden von Liebe und Treue. Aber wirklich treue Menschen sind selten.
+
+---
+
+### Niemand ist ohne Sünde (Vers 8–15)
+
+<sup>8</sup>Ein König, der auf dem Richterstuhl sitzt,
+zerstreut alles Böse mit seinen Augen.
+<sup>9</sup>Wer kann sagen: „Ich habe mein Herz rein gemacht.
+Ich bin rein und ohne Sünde“?
+<sup>10</sup>Zweierlei Gewichte und zweierlei Maße,
+beide sind dem HERRN ein Gräuel.
+<sup>11</sup>Sogar ein Kind zeigt sich durch seine Taten,
+ob sein Tun rein ist und ob es richtig ist.
+<sup>12</sup>Das hörende Ohr und das sehende Auge,
+der HERR hat sie beide gemacht.
+<sup>13</sup>Liebe den Schlaf nicht, sonst wirst du arm.
+Öffne deine Augen, dann wirst du dich an Brot sättigen.
+<sup>14</sup>„Schlecht, schlecht!“, sagt der Käufer.
+Aber wenn er weggeht, dann prahlt er.
+<sup>15</sup>Es gibt Gold und viele Rubine,
+aber Lippen voll Erkenntnis sind ein seltenes Juwel.
+
+> **Was bedeutet das?**
+> Vers 9: Eine ehrliche Frage: Niemand kann von sich sagen, dass er ohne Sünde ist (vgl. 1. Johannes 1,8). Alle brauchen Gottes Vergebung.
+> Vers 10: „Zweierlei Maß“: mit einem Gewicht kaufen und mit einem anderen verkaufen. Gott hasst Betrug. Der Ausdruck „mit zweierlei Maß messen“ kommt von hier.
+> Vers 11: Schon bei Kindern sieht man an ihrem Verhalten, wie sie sind.
+> Vers 14: Ein lustiger Spruch über das Handeln auf dem Markt: Der Käufer sagt „Das ist ja schlecht!“, um den Preis zu drücken. Später erzählt er stolz, was für ein gutes Geschäft er gemacht hat.
+> Vers 15: Gold gibt es viel. Aber kluge Worte sind selten und kostbar.
+
+---
+
+### Warte auf den HERRN (Vers 16–23)
+
+<sup>16</sup>Nimm das Kleid dessen, der für einen Fremden bürgt.
+Pfände ihn für eine fremde Frau.
+<sup>17</sup>Betrügerisch erworbenes Brot schmeckt einem Menschen süß,
+aber hinterher ist sein Mund voll Kies.
+<sup>18</sup>Pläne werden durch Rat gefestigt.
+Durch weise Führung führe Krieg!
+<sup>19</sup>Wer als Klatschmaul herumläuft, verrät Geheimnisse.
+Darum lass dich nicht ein mit dem, der seine Lippen weit aufreißt.
+<sup>20</sup>Wer seinen Vater oder seine Mutter verflucht,
+dessen Lampe wird erlöschen in tiefster Finsternis.
+<sup>21</sup>Ein Erbe, das am Anfang schnell erworben wurde,
+wird am Ende nicht gesegnet sein.
+<sup>22</sup>Sag nicht: „Ich will Böses vergelten!“
+Warte auf den HERRN, dann wird er dich retten.
+<sup>23</sup>Der HERR verabscheut zweierlei Gewichte,
+und falsche Waagen gefallen ihm nicht.
+
+> **Was bedeutet das?**
+> Vers 16: Wer leichtfertig für Fremde bürgt, ist selbst schuld, wenn er gepfändet wird. Ein harter Rat zur Vorsicht (vgl. Kapitel 6,1–5).
+> Vers 17: Was man durch Betrug bekommt, schmeckt zuerst süß. Aber später ist es wie Kies im Mund.
+> Vers 18: Selbst im Krieg braucht man guten Rat. Wer große Entscheidungen trifft, sollte sie gut überlegen.
+> Vers 21: Wer ein Erbe vorzeitig an sich reißt (vgl. Lukas 15,12), wird damit nicht glücklich.
+> Vers 22: Ein wichtiger Satz: Räche dich nicht selbst! Überlass es Gott. Paulus sagt das Gleiche (Römer 12,17–19).
+
+---
+
+### Die Lampe des HERRN (Vers 24–30)
+
+<sup>24</sup>Die Schritte eines Mannes kommen vom HERRN.
+Wie kann dann ein Mensch seinen Weg verstehen?
+<sup>25</sup>Es ist eine Falle für einen Menschen, vorschnell etwas zu weihen
+und erst danach über seine Gelübde nachzudenken.
+<sup>26</sup>Ein weiser König siebt die Gottlosen aus
+und lässt das Dreschrad über sie gehen.
+<sup>27</sup>Der Geist des Menschen ist die Lampe des HERRN,
+die alle seine innersten Teile durchsucht.
+<sup>28</sup>Liebe und Treue behüten den König.
+Sein Thron wird durch Liebe gestützt.
+<sup>29</sup>Der Stolz der jungen Männer ist ihre Kraft.
+Die Zierde der Alten ist ihr graues Haar.
+<sup>30</sup>Verletzende Schläge reinigen vom Bösen,
+und Schläge reinigen das Innerste.
+
+> **Was bedeutet das?**
+> Vers 24: Wir verstehen unseren Lebensweg oft nicht. Aber Gott führt unsere Schritte.
+> Vers 25: Vorsicht mit vorschnellen Versprechen an Gott. Erst denken, dann versprechen (vgl. Prediger 5,3–4).
+> Vers 26: Beim Dreschen fuhr man mit einem Rad über das Getreide, um die Körner von der Spreu zu trennen. Ein gerechter König trennt die Bösen von den Guten.
+> Vers 27: Ein schöner Gedanke: Unser Gewissen ist wie eine Lampe Gottes, die in unser Inneres leuchtet.
+> Vers 28: Ein guter Herrscher regiert nicht mit Gewalt, sondern mit Liebe und Treue.
+> Vers 29: Jung und Alt haben jeweils ihre eigene Schönheit: die Jungen ihre Kraft, die Alten ihre Erfahrung.
+> Vers 30: Damals glaubte man, körperliche Strafe könne einen Menschen bessern. Heute wissen wir: Gewalt bessert nicht, sie verletzt. Gemeint ist im Kern: Schmerzhafte Erfahrungen können einen Menschen zum Nachdenken bringen.
