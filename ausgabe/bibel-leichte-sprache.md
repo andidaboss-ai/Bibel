@@ -68251,3 +68251,375 @@ In deiner rechten Hand sind Freuden für immer.
 > Vers 11 ist einer der schönsten Verse der Bibel: Bei Gott ist „Freude in Fülle“ und „Freude für immer“.
 > Im Neuen Testament wird Vers 8–11 auf die Auferstehung von Jesus bezogen. Petrus zitiert ihn in seiner Pfingstpredigt (Apostelgeschichte 2,25–31), Paulus in Apostelgeschichte 13,35. Sie sagen: David ist gestorben und verwest. Aber Jesus ist auferstanden. Er ist „der Heilige“, der die Verwesung nicht gesehen hat.
 > Jüdische Ausleger verstehen den Psalm als Ausdruck des Vertrauens, dass Gott den Frommen vor dem Tod bewahrt und ihm das Leben schenkt.
+
+## Psalm 17
+#### Behüte mich wie deinen Augapfel
+
+---
+
+### Hör mein gerechtes Anliegen (Vers 1–5)
+
+<sup>1</sup>Ein Gebet von David.
+Hör, HERR, mein gerechtes Anliegen!
+Achte auf mein Gebet, das nicht von falschen Lippen kommt!
+<sup>2</sup>Mein Urteil soll von deinem Angesicht ausgehen.
+Deine Augen sollen sehen, was recht ist.
+<sup>3</sup>Du hast mein Herz geprüft.
+Du hast mich in der Nacht besucht.
+Du hast mich erprobt und nichts gefunden.
+Ich habe mir vorgenommen, dass mein Mund nicht ungehorsam sein soll.
+<sup>4</sup>Was die Taten der Menschen angeht:
+Durch das Wort deiner Lippen
+habe ich mich von den Wegen der Gewalttätigen ferngehalten.
+<sup>5</sup>Meine Schritte haben sich an deine Pfade gehalten.
+Meine Füße sind nicht ausgeglitten.
+
+> **Was bedeutet das?**
+> David wird zu Unrecht angeklagt. Er bittet Gott, als Richter zu entscheiden.
+> Er ist sich sicher: Gott hat mich geprüft, sogar nachts, wenn man ganz ehrlich mit sich selbst ist. Und er hat nichts Böses gefunden.
+> Das ist kein Hochmut. David sagt nicht, dass er nie gesündigt hat. Er sagt: In dieser Sache bin ich unschuldig.
+> Vers 4: Gottes Wort hat ihn davor bewahrt, Gewalt anzuwenden.
+
+---
+
+### Unter dem Schatten deiner Flügel (Vers 6–12)
+
+<sup>6</sup>Ich habe zu dir gerufen, denn du wirst mir antworten, Gott.
+Neige dein Ohr zu mir! Hör meine Rede!
+<sup>7</sup>Zeig deine wunderbare Güte,
+du, der die rettet, die bei deiner rechten Hand Zuflucht suchen vor ihren Feinden.
+<sup>8</sup>Behüte mich wie deinen Augapfel!
+Verbirg mich im Schatten deiner Flügel
+<sup>9</sup>vor den Gottlosen, die mich unterdrücken,
+vor meinen Todfeinden, die mich umringen.
+<sup>10</sup>Sie verschließen ihr gefühlloses Herz.
+Mit ihrem Mund reden sie hochmütig.
+<sup>11</sup>Sie haben uns jetzt auf unseren Schritten umzingelt.
+Sie richten ihre Augen darauf, uns zu Boden zu werfen.
+<sup>12</sup>Er ist wie ein Löwe, der gierig nach Beute ist,
+wie ein junger Löwe, der im Versteck lauert.
+
+> **Was bedeutet das?**
+> Vers 8 enthält zwei wunderschöne Bilder:
+> – „Augapfel“: Das ist das Empfindlichste am Körper. Man schützt ihn sofort mit dem Lid. So schützt Gott die, die er liebt (vgl. 5. Mose 32,10).
+> – „Schatten deiner Flügel“: Wie ein Vogel seine Küken unter die Flügel nimmt, so beschützt Gott (vgl. Rut 2,12; Matthäus 23,37).
+> „Gefühlloses Herz“: Wörtlich „Fett“. Ihr Herz ist wie von Fett verschlossen, sie spüren kein Mitleid.
+
+---
+
+### Ich werde dein Angesicht sehen (Vers 13–15)
+
+<sup>13</sup>Steh auf, HERR, tritt ihm entgegen! Wirf ihn nieder!
+Rette meine Seele vor dem Gottlosen durch dein Schwert,
+<sup>14</sup>vor den Menschen durch deine Hand, HERR,
+vor den Menschen dieser Welt, deren Anteil in diesem Leben ist.
+Du füllst den Bauch derer, die dir lieb sind.
+Deine Söhne haben genug,
+und sie legen Reichtum für ihre Kinder zurück.
+<sup>15</sup>Ich aber werde dein Angesicht in Gerechtigkeit sehen.
+Ich werde satt werden, wenn ich erwache, vom Anblick deiner Gestalt.
+
+> **Was bedeutet das?**
+> Vers 14 ist im Hebräischen schwer zu verstehen. Man kann ihn verschieden deuten. Die englische Vorlage versteht ihn so: Gott versorgt die, die ihm lieb sind, reichlich. Andere übersetzen: Gott füllt den Bauch der Gottlosen mit Strafe.
+> „Menschen dieser Welt, deren Anteil in diesem Leben ist“: Menschen, für die nur das Hier und Jetzt zählt.
+> Vers 15 ist der Höhepunkt: Der Beter will nicht nur einen vollen Bauch. Er will Gott sehen. Das macht ihn wirklich satt.
+> „Wenn ich erwache“: Vielleicht am nächsten Morgen. Viele Ausleger, jüdische und christliche, sehen hier auch eine Hoffnung über den Tod hinaus: das Erwachen zum ewigen Leben bei Gott.
+
+## Psalm 18
+#### Davids Danklied für die Rettung
+
+---
+
+### Ich liebe dich, HERR (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Von David, dem Knecht des HERRN,
+der die Worte dieses Liedes zum HERRN sprach an dem Tag,
+an dem der HERR ihn aus der Hand aller seiner Feinde und aus der Hand Sauls gerettet hatte.
+Er sagte:
+Ich liebe dich, HERR, meine Stärke.
+<sup>2</sup>Der HERR ist mein Fels, meine Burg und mein Retter,
+mein Gott, mein Fels, bei dem ich Zuflucht suche,
+mein Schild und das Horn meiner Rettung, meine hohe Burg.
+<sup>3</sup>Ich rufe zum HERRN, der zu loben ist,
+und ich werde vor meinen Feinden gerettet.
+
+> **Was bedeutet das?**
+> Psalm 18 ist eines der längsten Danklieder. Er steht fast wortgleich auch in 2. Samuel 22. David hat ihn am Ende seines Lebens gesungen, als er auf alle Rettungen zurückblickte.
+> Er beginnt mit einem Liebesbekenntnis: „Ich liebe dich, HERR.“ Das hebräische Wort ist sehr innig und zärtlich. Es kommt nur hier mit Gott als Gegenstand vor.
+> Dann folgen viele Bilder für Gott: Fels, Burg, Schild, hohe Burg. Alles Bilder für Schutz und Sicherheit.
+> „Horn“ ist ein Bild für Stärke, wie die Hörner eines Stieres.
+
+---
+
+### In meiner Not rief ich (Vers 4–6)
+
+<sup>4</sup>Die Stricke des Todes umgaben mich.
+Die Fluten der Gottlosigkeit erschreckten mich.
+<sup>5</sup>Die Stricke des Totenreichs umringten mich.
+Die Fallen des Todes kamen über mich.
+<sup>6</sup>In meiner Not rief ich den HERRN an
+und schrie zu meinem Gott.
+Er hörte meine Stimme aus seinem Tempel.
+Mein Schreien vor ihm kam an seine Ohren.
+
+> **Was bedeutet das?**
+> David beschreibt Todesgefahr: Wie in Stricken gefangen, wie von Fluten überschwemmt.
+> Aber er rief zu Gott, und Gott hörte ihn. Von seinem himmlischen „Tempel“ aus hörte er den Schrei eines einzelnen Menschen.
+
+---
+
+### Gott kommt zur Rettung (Vers 7–15)
+
+<sup>7</sup>Da bebte und zitterte die Erde.
+Auch die Fundamente der Berge wankten und wurden erschüttert,
+denn er war zornig.
+<sup>8</sup>Rauch stieg aus seiner Nase.
+Verzehrendes Feuer kam aus seinem Mund.
+Kohlen wurden davon entzündet.
+<sup>9</sup>Er neigte auch den Himmel und kam herab.
+Dichtes Dunkel war unter seinen Füßen.
+<sup>10</sup>Er ritt auf einem Kerub und flog.
+Ja, er schwebte auf den Flügeln des Windes.
+<sup>11</sup>Er machte Finsternis zu seinem Versteck,
+zu seinem Zelt um sich herum:
+dunkles Wasser, dichte Wolken des Himmels.
+<sup>12</sup>Vor dem Glanz vor ihm zogen seine dichten Wolken vorüber,
+Hagelsteine und Feuerkohlen.
+<sup>13</sup>Der HERR donnerte auch am Himmel.
+Der Höchste ließ seine Stimme erschallen:
+Hagelsteine und Feuerkohlen.
+<sup>14</sup>Er schoss seine Pfeile ab und zerstreute sie.
+Er jagte sie mit gewaltigen Blitzen in die Flucht.
+<sup>15</sup>Da wurden die Betten der Gewässer sichtbar.
+Die Fundamente der Welt wurden aufgedeckt
+durch dein Schelten, HERR,
+durch das Schnauben des Atems deiner Nase.
+
+> **Was bedeutet das?**
+> Jetzt beschreibt David, wie Gott ihm zu Hilfe kommt, in gewaltigen dichterischen Bildern: Erdbeben, Feuer, Gewitter, Hagel, Blitze.
+> Das ist eine „Theophanie“: eine Beschreibung, wie Gott erscheint. Sie erinnert an Gottes Erscheinen am Berg Sinai (2. Mose 19,16–18) und an den Durchzug durch das Schilfmeer (Vers 15).
+> „Kerub“: ein Engelwesen, das in der Bibel oft Gottes Thron trägt (vgl. Hesekiel 1 und 10).
+> David will sagen: Als Gott mich rettete, war das, als hätte der ganze Himmel eingegriffen. So groß war Gottes Hilfe.
+
+---
+
+### Er zog mich aus großen Wassern (Vers 16–19)
+
+<sup>16</sup>Er griff aus der Höhe herab. Er nahm mich.
+Er zog mich aus großen Wassern.
+<sup>17</sup>Er rettete mich vor meinem starken Feind,
+vor denen, die mich hassten,
+denn sie waren mir zu mächtig.
+<sup>18</sup>Sie überfielen mich am Tag meines Unglücks,
+aber der HERR wurde meine Stütze.
+<sup>19</sup>Er führte mich auch hinaus in die Weite.
+Er rettete mich, denn er hatte Gefallen an mir.
+
+> **Was bedeutet das?**
+> Nach all dem Donner kommt etwas sehr Persönliches: Gott greift herab und zieht David aus dem Wasser, wie man einen Ertrinkenden rettet.
+> „Er führte mich in die Weite“: Aus der Enge der Not in die Freiheit.
+> Vers 19: Der Grund der Rettung: „Er hatte Gefallen an mir.“ Gott liebt David.
+
+---
+
+### Gott hat mir vergolten (Vers 20–24)
+
+<sup>20</sup>Der HERR hat mir vergolten nach meiner Gerechtigkeit.
+Nach der Reinheit meiner Hände hat er mir zurückgezahlt.
+<sup>21</sup>Denn ich habe die Wege des HERRN eingehalten
+und bin nicht gottlos von meinem Gott abgefallen.
+<sup>22</sup>Denn alle seine Rechtsbestimmungen waren vor mir.
+Seine Ordnungen habe ich nicht von mir weggetan.
+<sup>23</sup>Ich war auch untadelig vor ihm.
+Ich habe mich vor meiner Schuld gehütet.
+<sup>24</sup>Darum hat der HERR mir vergolten nach meiner Gerechtigkeit,
+nach der Reinheit meiner Hände vor seinen Augen.
+
+> **Was bedeutet das?**
+> Das klingt zuerst seltsam: David, der mit Batseba Ehebruch beging und Urija töten ließ (2. Samuel 11), nennt sich „untadelig“?
+> Gemeint ist wohl: In seinem Kampf gegen Saul und seine Feinde hat David sich ans Recht gehalten. Er hat Saul nicht getötet, obwohl er es hätte tun können (1. Samuel 24 und 26).
+> Außerdem: „Untadelig“ heißt in der Bibel nicht „ohne Sünde“, sondern „mit ganzem Herzen auf Gottes Seite“. David hat seine Schuld bekannt und Vergebung empfangen (Psalm 51).
+
+---
+
+### Mit dem Treuen bist du treu (Vers 25–30)
+
+<sup>25</sup>Mit dem Barmherzigen zeigst du dich barmherzig.
+Mit dem Vollkommenen zeigst du dich vollkommen.
+<sup>26</sup>Mit dem Reinen zeigst du dich rein.
+Mit dem Verdrehten zeigst du dich klug.
+<sup>27</sup>Denn du rettest das elende Volk,
+aber die hochmütigen Augen erniedrigst du.
+<sup>28</sup>Denn du zündest meine Lampe an, HERR.
+Mein Gott erhellt meine Finsternis.
+<sup>29</sup>Denn mit dir stürme ich gegen eine Truppe an.
+Mit meinem Gott springe ich über eine Mauer.
+<sup>30</sup>Was Gott angeht: Sein Weg ist vollkommen.
+Das Wort des HERRN ist erprobt.
+Er ist ein Schild für alle, die bei ihm Zuflucht suchen.
+
+> **Was bedeutet das?**
+> Vers 25–26: Gott begegnet jedem Menschen so, wie dieser ist. Wer barmherzig ist, erfährt Gottes Barmherzigkeit. Wer andere betrügt, merkt, dass Gott klüger ist (vgl. Matthäus 5,7).
+> Vers 28: „Mein Gott erhellt meine Finsternis“: ein Satz, an dem sich Menschen in dunklen Zeiten festhalten.
+> Vers 29: Mit Gottes Hilfe wird Unmögliches möglich, sogar über Mauern springen.
+> Vers 30: Gottes Wort ist wie geprüftes Metall: echt und zuverlässig.
+
+---
+
+### Gott rüstet mich mit Kraft (Vers 31–36)
+
+<sup>31</sup>Denn wer ist Gott außer dem HERRN?
+Wer ist ein Fels außer unserem Gott,
+<sup>32</sup>der Gott, der mich mit Kraft ausrüstet
+und meinen Weg vollkommen macht?
+<sup>33</sup>Er macht meine Füße wie die Füße von Hirschen
+und stellt mich auf meine Höhen.
+<sup>34</sup>Er lehrt meine Hände den Kampf,
+sodass meine Arme einen Bogen aus Bronze spannen.
+<sup>35</sup>Du hast mir auch den Schild deiner Rettung gegeben.
+Deine rechte Hand stützt mich.
+Deine Sanftmut hat mich groß gemacht.
+<sup>36</sup>Du hast meinen Schritten weiten Raum gegeben.
+Meine Füße sind nicht ausgeglitten.
+
+> **Was bedeutet das?**
+> Vers 31: Es gibt keinen anderen Gott, keinen anderen festen Fels.
+> Vers 33: Hirsche und Gämsen klettern sicher über steile Felsen. So sicher lässt Gott David gehen.
+> Vers 35: „Deine Sanftmut hat mich groß gemacht“: Ein wunderschöner Satz. Nicht Gottes Macht allein, sondern seine Freundlichkeit und Zuwendung haben David groß gemacht. Andere übersetzen: „Deine Demut“ oder „deine Hilfe“.
+
+---
+
+### Der Sieg über die Feinde (Vers 37–45)
+
+<sup>37</sup>Ich verfolge meine Feinde und hole sie ein.
+Ich kehre nicht um, bis sie vernichtet sind.
+<sup>38</sup>Ich durchbohre sie, sodass sie nicht aufstehen können.
+Sie fallen unter meine Füße.
+<sup>39</sup>Denn du hast mich mit Kraft zum Kampf gerüstet.
+Du hast unter mich gebeugt, die sich gegen mich erhoben.
+<sup>40</sup>Du hast auch meine Feinde dazu gebracht, mir den Rücken zuzukehren,
+damit ich die vernichte, die mich hassen.
+<sup>41</sup>Sie schrien, aber da war niemand, der rettete,
+sogar zum HERRN, aber er antwortete ihnen nicht.
+<sup>42</sup>Da zerrieb ich sie wie Staub vor dem Wind.
+Ich warf sie hinaus wie den Schmutz der Straßen.
+<sup>43</sup>Du hast mich aus den Streitigkeiten des Volkes gerettet.
+Du hast mich zum Haupt der Völker gemacht.
+Ein Volk, das ich nicht kannte, wird mir dienen.
+<sup>44</sup>Sobald sie von mir hören, werden sie mir gehorchen.
+Die Fremden werden sich mir unterwerfen.
+<sup>45</sup>Die Fremden werden verwelken
+und zitternd aus ihren Festungen hervorkommen.
+
+> **Was bedeutet das?**
+> Hier beschreibt David seine Kriege und Siege. Das ist die Sprache eines Königs in einer Zeit, in der Kriege üblich waren.
+> Für heutige Leser ist das schwer. Man muss wissen: David kämpfte gegen Feinde, die Israel angriffen und vernichten wollten. Der Psalm feiert Gottes Rettung, nicht die Gewalt selbst.
+> Diese Verse sind kein Auftrag für heutige Kriege oder Gewalt. Jesus lehrt: „Liebt eure Feinde“ (Matthäus 5,44). Christen lesen diese Verse oft als Bild für den Kampf gegen das Böse.
+
+---
+
+### Der HERR lebt! (Vers 46–50)
+
+<sup>46</sup>Der HERR lebt! Gepriesen sei mein Fels!
+Erhoben sei der Gott meiner Rettung,
+<sup>47</sup>der Gott, der mir Vergeltung verschafft
+und Völker unter mich beugt.
+<sup>48</sup>Er rettet mich vor meinen Feinden.
+Ja, du erhebst mich über die, die gegen mich aufstehen.
+Du befreist mich von dem gewalttätigen Mann.
+<sup>49</sup>Darum will ich dir danken, HERR, unter den Völkern,
+und deinem Namen Lob singen.
+<sup>50</sup>Er gibt seinem König große Rettung
+und erweist seinem Gesalbten Güte,
+David und seinen Nachkommen für immer.
+
+> **Was bedeutet das?**
+> „Der HERR lebt!“: Ein Jubelruf. Gott ist kein totes Götzenbild, sondern lebendig und handelt.
+> Vers 47: David nimmt nicht selbst Rache. Gott verschafft ihm Recht.
+> Vers 49: David will Gott „unter den Völkern“ loben. Paulus zitiert das in Römer 15,9: Auch die Völker sollen Gott loben.
+> Vers 50: Gottes Treue gilt nicht nur David, sondern seinen Nachkommen „für immer“. Das ist die Verheißung an das Haus David (2. Samuel 7). Juden erwarten den Messias aus Davids Familie. Christen glauben, dass Jesus, der Nachkomme Davids, diese Verheißung erfüllt.
+
+## Psalm 19
+#### Die Himmel erzählen Gottes Ehre
+
+---
+
+### Die Sprache der Schöpfung (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Die Himmel erzählen die Herrlichkeit Gottes.
+Das Firmament verkündet das Werk seiner Hände.
+<sup>2</sup>Ein Tag sagt es dem anderen,
+und eine Nacht macht es der anderen bekannt.
+<sup>3</sup>Es gibt keine Rede und keine Sprache,
+in der ihre Stimme nicht gehört wird.
+<sup>4</sup>Ihre Stimme ist hinausgegangen über die ganze Erde,
+ihre Worte bis an das Ende der Welt.
+In ihnen hat er der Sonne ein Zelt aufgeschlagen,
+
+> **Was bedeutet das?**
+> Psalm 19 ist einer der schönsten Psalmen. Er hat zwei Teile: Gott spricht durch die Schöpfung (Vers 1–6) und durch sein Wort (Vers 7–14).
+> Der Himmel ist wie ein Prediger ohne Worte. Jeden Tag und jede Nacht erzählt er von Gottes Größe.
+> Vers 3 kann man auf zwei Weisen lesen: In jeder Sprache der Welt versteht man diese Botschaft. Oder: Es ist eine Rede ohne Worte, und doch hört man sie überall.
+> Vers 4: Paulus zitiert diesen Vers in Römer 10,18.
+
+---
+
+### Die Sonne (Vers 5–6)
+
+<sup>5</sup>die wie ein Bräutigam aus seiner Kammer hervorkommt,
+wie ein Held, der sich freut, seine Bahn zu laufen.
+<sup>6</sup>Ihr Aufgang ist vom Ende des Himmels,
+und ihr Lauf bis zu seinen Enden.
+Nichts ist vor ihrer Hitze verborgen.
+
+> **Was bedeutet das?**
+> Viele Völker damals beteten die Sonne als Göttin an. Der Psalm sagt: Die Sonne ist ein Geschöpf Gottes. Gott hat ihr ein „Zelt“ gebaut.
+> Die Sonne geht jeden Morgen auf wie ein strahlender Bräutigam am Hochzeitstag oder wie ein Läufer, der voller Freude losrennt.
+> Vers 6: Nichts ist vor der Sonne verborgen. Das leitet über zum zweiten Teil: Auch vor Gottes Wort bleibt nichts verborgen.
+
+---
+
+### Gottes Weisung ist vollkommen (Vers 7–11)
+
+<sup>7</sup>Die Weisung des HERRN ist vollkommen,
+sie erquickt die Seele.
+Der Bund des HERRN ist zuverlässig,
+er macht den Einfältigen weise.
+<sup>8</sup>Die Vorschriften des HERRN sind richtig,
+sie erfreuen das Herz.
+Das Gebot des HERRN ist rein,
+es erleuchtet die Augen.
+<sup>9</sup>Die Furcht des HERRN ist rein,
+sie bleibt für immer.
+Die Rechtsbestimmungen des HERRN sind wahr,
+sie sind alle zusammen gerecht.
+<sup>10</sup>Sie sind begehrenswerter als Gold,
+ja, als viel feines Gold,
+und süßer als Honig und das, was aus den Waben tropft.
+<sup>11</sup>Außerdem wird dein Knecht durch sie gewarnt.
+Wer sie hält, hat großen Lohn.
+
+> **Was bedeutet das?**
+> Jetzt wechselt der Psalm von „Gott“ zu „HERR“, von der Schöpfung zu Gottes Wort. Durch die Schöpfung erkennt man, dass es Gott gibt. Durch sein Wort erkennt man, wer er ist und wie man mit ihm leben kann.
+> Sechs Namen für Gottes Wort: Weisung, Bund (wörtlich „Zeugnis“), Vorschriften, Gebot, Furcht, Rechtsbestimmungen. Und jedes Mal wird gesagt, was es bewirkt: Es erquickt, macht weise, erfreut, erleuchtet.
+> Gottes Gebote sind keine Last, sondern ein Geschenk: wertvoller als Gold, süßer als Honig.
+
+---
+
+### Vergib mir die verborgenen Fehler (Vers 12–14)
+
+<sup>12</sup>Wer kann seine Verirrungen erkennen?
+Sprich mich frei von verborgenen Fehlern!
+<sup>13</sup>Bewahre deinen Knecht auch vor vermessenen Sünden!
+Lass sie nicht über mich herrschen!
+Dann werde ich aufrichtig sein.
+Ich werde untadelig und frei von großer Übertretung sein.
+<sup>14</sup>Lass die Worte meines Mundes und das Nachsinnen meines Herzens
+dir wohlgefallen, HERR, mein Fels und mein Erlöser!
+
+> **Was bedeutet das?**
+> Wer Gottes Wort liest, merkt: Ich habe Fehler, die ich selbst nicht einmal sehe. Darum bittet der Beter um Vergebung auch für die „verborgenen“ Fehler.
+> „Vermessene Sünden“: Sünden, die man bewusst und mit Absicht tut. Der Beter bittet Gott, ihn davor zu bewahren.
+> Vers 14 ist ein bekanntes Gebet. Viele Prediger sprechen es vor der Predigt, und Juden beten es am Ende des Hauptgebets: „Lass die Worte meines Mundes und das Nachsinnen meines Herzens dir gefallen.“
+> „Mein Erlöser“: Im Hebräischen „Goël“, wie bei Hiob (Hiob 19,25). Gott ist der, der mich freikauft und für mich eintritt.
