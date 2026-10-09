@@ -1,0 +1,162 @@
+{
+ "nr": 17,
+ "code": "EST",
+ "kuerzel": "Est",
+ "name": "Ester",
+ "name_englisch": "Esther",
+ "testament": "altes-testament",
+ "kapitel": 10,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die Königin Waschti sagt Nein",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch Ester?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Ester erzählt eine spannende Geschichte am Hof des persischen Königs in Susa.\nEs spielt etwa um 480 vor Christus, zwischen der Einweihung des Tempels (Esra 6) und der Ankunft Esras in Jerusalem (Esra 7). Viele Juden lebten damals nicht in Jerusalem, sondern verstreut im ganzen Perserreich.\nDie Hauptpersonen:\n– Ester, eine junge jüdische Frau, die Königin wird.\n– Mordechai, ihr Cousin, der sie aufgezogen hat.\n– Haman, ein mächtiger Beamter, der alle Juden töten will.\n– König Ahasveros (Xerxes I.).\nDas Besondere: Im hebräischen Buch Ester kommt der Name Gottes kein einziges Mal vor. Und doch merkt man, dass Gott im Hintergrund alles lenkt. Viele „Zufälle“ führen zur Rettung des Volkes.\nEs gibt auch eine griechische Fassung des Buches mit zusätzlichen Teilen, in denen gebetet und Gott genannt wird. Diese Zusätze stehen in katholischen Bibeln, in evangelischen Bibeln bei den Apokryphen. Diese Übertragung folgt dem hebräischen Text.\nDas Buch erklärt den Ursprung des jüdischen Purimfestes, das bis heute fröhlich gefeiert wird.\nManche Teile der Geschichte sind übertrieben erzählt, fast wie eine Satire. Der mächtige König erscheint oft eitel und leicht zu beeinflussen. Das gehört zum Stil des Buches.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Ein riesiges Fest",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "In den Tagen des Ahasveros\n– das ist der Ahasveros, der von Indien bis Kusch regierte,\nüber 127 Provinzen –,",
+       "englisch_web": "Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "in jenen Tagen,\nals der König Ahasveros auf dem Thron seines Königreichs saß,\nder in der Burg Susa war,",
+       "englisch_web": "in those days, when the King Ahasuerus sat on the throne of his kingdom, which was in Susa the palace,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "im dritten Jahr seiner Regierung,\nmachte er ein Festmahl für alle seine Fürsten und seine Diener.\nDas Heer von Persien und Medien,\ndie Vornehmen und die Fürsten der Provinzen waren bei ihm.",
+       "englisch_web": "in the third year of his reign, he made a feast for all his princes and his servants; the army of Persia and Media, the nobles and princes of the provinces being before him."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er zeigte den Reichtum seines herrlichen Königreichs\nund die prächtige Ehre seiner Größe\nviele Tage lang, 180 Tage.",
+       "englisch_web": "He displayed the riches of his glorious kingdom and the honor of his excellent majesty many days, even one hundred eighty days."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Als diese Tage vorüber waren,\nmachte der König für das ganze Volk, das in der Burg Susa war,\ngroß und klein,\nein Festmahl von sieben Tagen\nim Hof des Gartens des königlichen Palastes.",
+       "englisch_web": "When these days were fulfilled, the king made a seven day feast for all the people who were present in Susa the palace, both great and small, in the court of the garden of the king’s palace."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da gab es Vorhänge aus weißem und blauem Stoff,\nbefestigt mit Schnüren aus feinem Leinen und Purpur\nan silbernen Ringen und Marmorsäulen.\nDie Liegen waren aus Gold und Silber,\nauf einem Boden aus rotem, weißem, gelbem und schwarzem Marmor.",
+       "englisch_web": "There were hangings of white and blue material, fastened with cords of fine linen and purple to silver rings and marble pillars. The couches were of gold and silver, on a pavement of red, white, yellow, and black marble."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Man gab ihnen zu trinken aus goldenen Gefäßen,\neines anders als das andere,\nund königlichen Wein in Fülle,\nnach der Freigebigkeit des Königs.",
+       "englisch_web": "They gave them drinks in golden vessels of various kinds, including royal wine in abundance, according to the bounty of the king."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Nach der Vorschrift war das Trinken ohne Zwang.\nDenn so hatte der König allen Beamten seines Hauses befohlen,\ndass sie jeden nach seinem Wunsch handeln lassen sollten.",
+       "englisch_web": "In accordance with the law, the drinking was not compulsory; for so the king had instructed all the officials of his house, that they should do according to every man’s pleasure."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Auch die Königin Waschti machte ein Festmahl für die Frauen\nim königlichen Haus, das dem König Ahasveros gehörte.",
+       "englisch_web": "Also Vashti the queen made a feast for the women in the royal house which belonged to King Ahasuerus."
+      }
+     ],
+     "erklaerung": "Ahasveros ist der hebräische Name für den Perserkönig Xerxes I. (486–465 vor Christus). Sein Reich war riesig: von Indien im Osten bis Kusch (südlich von Ägypten) im Westen.\nIn der englischen Vorlage steht „Äthiopien“. Gemeint ist das Gebiet Kusch.\nDas „dritte Jahr“ ist etwa 483 vor Christus. Vielleicht plante der König bei diesem Fest den großen Krieg gegen Griechenland, den er dann verlor.\nEin Fest von 180 Tagen! Und dann noch eine Woche für die ganze Stadt. Der König will zeigen, wie reich und mächtig er ist.\nDie Beschreibung des Palastes ist sehr genau. Archäologen haben den Palast in Susa ausgegraben. Er war tatsächlich sehr prächtig.\n„Ohne Zwang“: Niemand musste mehr trinken, als er wollte. Bei persischen Festen war es manchmal üblich, dass alle mittrinken mussten, wenn der König trank."
+    },
+    {
+     "ueberschrift": "Waschti weigert sich",
+     "vers_von": 10,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Am siebten Tag, als das Herz des Königs vom Wein fröhlich war,\nbefahl er Mehuman, Biseta, Harbona, Bigta, Abagta, Setar und Karkas,\nden sieben Kämmerern, die vor dem König Ahasveros dienten,",
+       "englisch_web": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcass, the seven eunuchs who served in the presence of Ahasuerus the king,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "die Königin Waschti mit der königlichen Krone vor den König zu bringen,\num dem Volk und den Fürsten ihre Schönheit zu zeigen.\nDenn sie war schön.",
+       "englisch_web": "to bring Vashti the queen before the king wearing the royal crown, to show the people and the princes her beauty; for she was beautiful."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Aber die Königin Waschti weigerte sich,\nauf den Befehl des Königs durch die Kämmerer zu kommen.\nDa wurde der König sehr zornig,\nund sein Zorn brannte in ihm.",
+       "englisch_web": "But the queen Vashti refused to come at the king’s commandment by the eunuchs. Therefore the king was very angry, and his anger burned in him."
+      }
+     ],
+     "erklaerung": "Nach sieben Tagen Feiern ist der König betrunken. Er will seine Frau vorführen wie einen Schatz, vor lauter betrunkenen Männern.\nWaschti sagt Nein. Warum, sagt der Text nicht. Vielleicht wollte sie ihre Würde bewahren. Viele Leser bewundern ihren Mut. Sie lässt sich nicht wie einen Gegenstand behandeln.\nDer mächtigste Mann der Welt kann seine eigene Frau nicht zwingen. Das ist schon fast komisch erzählt.\n„Kämmerer“: Im Hebräischen steht ein Wort, das oft „Eunuch“ bedeutet, also ein Mann, der entmannt wurde. Solche Männer dienten oft im Frauenbereich der Paläste. Das Wort kann aber auch allgemein einen Hofbeamten meinen."
+    },
+    {
+     "ueberschrift": "Der Rat der Weisen",
+     "vers_von": 13,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Da sagte der König zu den Weisen, die sich auf die Zeiten verstanden\n– denn so war es Brauch beim König,\nsich mit allen zu beraten, die Gesetz und Recht kannten;",
+       "englisch_web": "Then the king said to the wise men, who knew the times (for it was the king’s custom to consult those who knew law and judgment;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "und die ihm am nächsten standen, waren\nKarschena, Schetar, Admata, Tarschisch, Meres, Marsena und Memuchan,\ndie sieben Fürsten von Persien und Medien,\ndie das Gesicht des Königs sahen\nund die ersten Plätze im Königreich hatten –:",
+       "englisch_web": "and next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face, and sat first in the kingdom),"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "„Was soll man nach dem Gesetz mit der Königin Waschti tun,\nweil sie den Befehl des Königs Ahasveros durch die Kämmerer nicht befolgt hat?“",
+       "englisch_web": "“What shall we do to Queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the eunuchs?”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Memuchan antwortete vor dem König und den Fürsten:\n„Die Königin Waschti hat sich nicht nur gegen den König vergangen,\nsondern auch gegen alle Fürsten\nund gegen alle Völker in allen Provinzen des Königs Ahasveros.",
+       "englisch_web": "Memucan answered before the king and the princes, “Vashti the queen has not done wrong to just the king, but also to all the princes, and to all the people who are in all the provinces of the King Ahasuerus."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn diese Tat der Königin wird allen Frauen bekannt werden,\nsodass sie ihre Männer verachten,\nwenn man erzählt:\n‚Der König Ahasveros befahl, die Königin Waschti vor ihn zu bringen,\naber sie kam nicht.‘",
+       "englisch_web": "For this deed of the queen will become known to all women, causing them to show contempt for their husbands when it is reported, ‘King Ahasuerus commanded Vashti the queen to be brought in before him, but she didn’t come.’"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Heute schon werden die Fürstinnen von Persien und Medien,\ndie von der Tat der Königin gehört haben,\nes allen Fürsten des Königs erzählen.\nUnd es wird viel Verachtung und Zorn geben.",
+       "englisch_web": "Today, the princesses of Persia and Media who have heard of the queen’s deed will tell all the king’s princes. This will cause much contempt and wrath."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wenn es dem König gefällt,\nsoll ein königlicher Befehl von ihm ausgehen\nund unter die Gesetze der Perser und Meder geschrieben werden,\nsodass er nicht geändert werden kann:\ndass Waschti nie mehr vor den König Ahasveros kommen darf.\nUnd der König soll ihre königliche Würde einer anderen geben,\ndie besser ist als sie.",
+       "englisch_web": "“If it pleases the king, let a royal commandment go from him, and let it be written among the laws of the Persians and the Medes, so that it cannot be altered, that Vashti may never again come before King Ahasuerus; and let the king give her royal estate to another who is better than she."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wenn der Erlass des Königs, den er machen wird,\nin seinem ganzen Königreich bekannt wird\n– denn es ist groß –,\ndann werden alle Frauen ihren Männern Ehre erweisen,\ngroß und klein.“",
+       "englisch_web": "When the king’s decree which he shall make is published throughout all his kingdom (for it is great), all the wives will give their husbands honor, both great and small.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Der Rat gefiel dem König und den Fürsten,\nund der König handelte nach dem Wort Memuchans.",
+       "englisch_web": "This advice pleased the king and the princes, and the king did according to the word of Memucan:"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Er schickte Briefe in alle Provinzen des Königs,\nin jede Provinz in ihrer Schrift\nund an jedes Volk in seiner Sprache,\ndass jeder Mann Herr in seinem Haus sein\nund in der Sprache seines Volkes reden solle.",
+       "englisch_web": "for he sent letters into all the king’s provinces, into every province according to its writing, and to every people in their language, that every man should rule his own house, speaking in the language of his own people."
+      }
+     ],
+     "erklaerung": "Der König weiß nicht, was er tun soll. Er fragt seine Berater. Aus einem Familienstreit wird eine Staatsaffäre.\nMemuchan übertreibt maßlos: Wenn die Königin nicht gehorcht, werden alle Frauen im Reich ihre Männer verachten!\nDie „Gesetze der Perser und Meder“ konnten nicht geändert werden. Das wird später in der Geschichte sehr wichtig (Kapitel 8,8; vgl. Daniel 6,9).\nDas Ergebnis ist lächerlich: Ein Gesetz für das ganze Weltreich, dass jeder Mann „Herr in seinem Haus“ sein soll. Als ob man Respekt mit einem Gesetz befehlen könnte! Die Bibel erzählt das mit feinem Humor. Sie lobt dieses Gesetz nicht.\nDie Bibel lehrt an anderen Stellen, dass Mann und Frau einander achten und lieben sollen (zum Beispiel 1. Mose 2,24; Epheser 5,21–33).\nDurch Waschtis Absetzung wird der Platz frei für Ester. So beginnt Gottes verborgener Plan."
+    }
+   ]
+  }
+ ]
+}

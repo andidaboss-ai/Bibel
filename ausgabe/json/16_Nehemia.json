@@ -2197,6 +2197,542 @@
      "erklaerung": "Kirjat-Arba ist der alte Name von Hebron (Josua 14,15).\n„Tochterstädte“ sind kleinere Orte, die zu einer größeren Stadt gehörten.\n„Von Beerscheba bis zum Tal Hinnom“: vom Süden bis direkt vor Jerusalem.\nViele dieser Orte kennen wir aus früheren Büchern der Bibel. Die Heimkehrer leben wieder an den Orten ihrer Vorfahren. Gottes Versprechen, sie zurückzubringen, hat sich erfüllt."
     }
    ]
+  },
+  {
+   "kapitel": 12,
+   "titel": "Die Einweihung der Mauer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Priester und Leviten der ersten Heimkehr",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Priester und die Leviten,\ndie mit Serubbabel, dem Sohn Schealtiëls, und mit Jeschua heraufzogen:\nSeraja, Jeremia, Esra,",
+       "englisch_web": "Now these are the priests and the Levites who went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Amarja, Malluch, Hattusch,",
+       "englisch_web": "Amariah, Malluch, Hattush,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Schechanja, Rehum, Meremot,",
+       "englisch_web": "Shecaniah, Rehum, Meremoth,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Iddo, Ginnetoi, Abija,",
+       "englisch_web": "Iddo, Ginnethoi, Abijah,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Mijamin, Maadja, Bilga,",
+       "englisch_web": "Mijamin, Maadiah, Bilgah,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Schemaja, Jojarib, Jedaja,",
+       "englisch_web": "Shemaiah, Joiarib, Jedaiah,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sallu, Amok, Hilkija und Jedaja.\nDas waren die Obersten der Priester und ihrer Brüder in den Tagen Jeschuas.",
+       "englisch_web": "Sallu, Amok, Hilkiah, and Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Und die Leviten waren:\nJeschua, Binnui, Kadmiël, Scherebja, Juda\nund Mattanja, der mit seinen Brüdern für die Danklieder zuständig war.",
+       "englisch_web": "Moreover the Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was over the thanksgiving songs, he and his brothers."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Auch Bakbukja und Unni, ihre Brüder,\nstanden ihnen gegenüber nach ihren Diensten.",
+       "englisch_web": "Also Bakbukiah and Unno, their brothers, were close to them according to their offices."
+      }
+     ],
+     "erklaerung": "Hier springt das Buch zurück zur ersten Heimkehr, fast 100 Jahre früher (Esra 2).\nDer Esra in Vers 1 ist nicht der Esra aus Esra 7. Es ist ein Priester mit demselben Namen.\n„Gegenüber“: Die Sänger standen sich in zwei Chören gegenüber und sangen im Wechsel."
+    },
+    {
+     "ueberschrift": "Die Hohenpriester",
+     "vers_von": 10,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Jeschua zeugte Jojakim,\nund Jojakim zeugte Eljaschib,\nund Eljaschib zeugte Jojada,",
+       "englisch_web": "Jeshua became the father of Joiakim, and Joiakim became the father of Eliashib, and Eliashib became the father of Joiada,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "und Jojada zeugte Jonatan,\nund Jonatan zeugte Jaddua.",
+       "englisch_web": "and Joiada became the father of Jonathan, and Jonathan became the father of Jaddua."
+      }
+     ],
+     "erklaerung": "Das ist die Liste der Hohenpriester über sechs Generationen, von etwa 538 bis über 400 vor Christus hinaus.\nEljaschib war Hohepriester zur Zeit Nehemias (Kapitel 3,1; 13,4). „Jonatan“ heißt in Vers 22 „Johanan“. Sein Name ist auch in einem Brief aus Elephantine in Ägypten belegt."
+    },
+    {
+     "ueberschrift": "Die Priesterfamilien unter Jojakim",
+     "vers_von": 12,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "In den Tagen Jojakims waren Priester, Familienoberhäupter:\nvon Seraja: Meraja; von Jeremia: Hananja;",
+       "englisch_web": "In the days of Joiakim were priests, heads of fathers’ households: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "von Esra: Meschullam; von Amarja: Johanan;",
+       "englisch_web": "of Ezra, Meshullam; of Amariah, Jehohanan;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "von Malluchi: Jonatan; von Schebanja: Josef;",
+       "englisch_web": "of Malluchi, Jonathan; of Shebaniah, Joseph;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "von Harim: Adna; von Merajot: Helkai;",
+       "englisch_web": "of Harim, Adna; of Meraioth, Helkai;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "von Iddo: Secharja; von Ginneton: Meschullam;",
+       "englisch_web": "of Iddo, Zechariah; of Ginnethon, Meshullam;"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "von Abija: Sichri; von Minjamin, von Moadja: Piltai;",
+       "englisch_web": "of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "von Bilga: Schammua; von Schemaja: Jonatan;",
+       "englisch_web": "of Bilgah, Shammua; of Shemaiah, Jehonathan;"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "von Jojarib: Mattenai; von Jedaja: Usi;",
+       "englisch_web": "of Joiarib, Mattenai; of Jedaiah, Uzzi;"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "von Sallai: Kallai; von Amok: Eber;",
+       "englisch_web": "of Sallai, Kallai; of Amok, Eber;"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "von Hilkija: Haschabja; von Jedaja: Netanel.",
+       "englisch_web": "of Hilkiah, Hashabiah; of Jedaiah, Nethanel."
+      }
+     ],
+     "erklaerung": "In der nächsten Generation hatte jede Priesterfamilie ein neues Oberhaupt. Die Liste zeigt: Der Dienst ging weiter, von Generation zu Generation.\nBei „Minjamin“ fehlt im hebräischen Text der Name des Oberhaupts."
+    },
+    {
+     "ueberschrift": "Die Aufzeichnungen und die Leviten",
+     "vers_von": 22,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Was die Leviten betrifft:\nIn den Tagen Eljaschibs, Jojadas, Johanans und Jadduas\nwurden die Familienoberhäupter aufgeschrieben,\nund auch die Priester, unter der Regierung des Persers Darius.",
+       "englisch_web": "As for the Levites, in the days of Eliashib, Joiada, Johanan, and Jaddua, there were recorded the heads of fathers’ households; also the priests, in the reign of Darius the Persian."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Söhne Levis, Familienoberhäupter,\nwurden im Buch der Chroniken aufgeschrieben,\nbis zu den Tagen Johanans, des Sohnes Eljaschibs.",
+       "englisch_web": "The sons of Levi, heads of fathers’ households, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Obersten der Leviten waren:\nHaschabja, Scherebja und Jeschua, der Sohn Kadmiëls,\nmit ihren Brüdern ihnen gegenüber,\num zu loben und zu danken,\nnach dem Gebot Davids, des Mannes Gottes,\nAbteilung neben Abteilung.",
+       "englisch_web": "The chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers close to them, to praise and give thanks according to the commandment of David the man of God, section next to section."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Mattanja, Bakbukja, Obadja, Meschullam, Talmon und Akkub\nwaren Torhüter,\ndie Wache hielten bei den Vorratskammern an den Toren.",
+       "englisch_web": "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers keeping the watch at the storehouses of the gates."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Diese lebten in den Tagen Jojakims, des Sohnes Jeschuas, des Sohnes Jozadaks,\nund in den Tagen Nehemias, des Statthalters,\nund Esras, des Priesters und Schriftgelehrten.",
+       "englisch_web": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest and scribe."
+      }
+     ],
+     "erklaerung": "„Der Perser Darius“ ist wohl Darius II. (423–404 vor Christus). Diese Notiz wurde also etwas später ergänzt.\n„Abteilung neben Abteilung“: Die Chöre standen nebeneinander oder gegenüber und sangen im Wechsel, wie David es angeordnet hatte (1. Chronik 25)."
+    },
+    {
+     "ueberschrift": "Vorbereitung der Einweihung",
+     "vers_von": 27,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Bei der Einweihung der Mauer Jerusalems\nsuchte man die Leviten an allen ihren Orten,\num sie nach Jerusalem zu bringen,\ndamit sie die Einweihung mit Freude feierten,\nmit Dank und mit Gesang,\nmit Zimbeln, Saiteninstrumenten und Harfen.",
+       "englisch_web": "At the dedication of the wall of Jerusalem, they sought the Levites out of all their places, to bring them to Jerusalem to keep the dedication with gladness, both with giving thanks and with singing, with cymbals, stringed instruments, and with harps."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Sänger versammelten sich\naus der Ebene rings um Jerusalem\nund aus den Dörfern der Netofatiter,",
+       "englisch_web": "The sons of the singers gathered themselves together, both out of the plain around Jerusalem and from the villages of the Netophathites;"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "auch aus Bet-Gilgal und von den Feldern von Geba und Asmawet.\nDenn die Sänger hatten sich Dörfer rings um Jerusalem gebaut.",
+       "englisch_web": "also from Beth Gilgal and out of the fields of Geba and Azmaveth, for the singers had built themselves villages around Jerusalem."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Die Priester und die Leviten reinigten sich.\nUnd sie reinigten das Volk, die Tore und die Mauer.",
+       "englisch_web": "The priests and the Levites purified themselves; and they purified the people, the gates, and the wall."
+      }
+     ],
+     "erklaerung": "Die Mauer ist nicht nur ein Bauwerk. Sie wird Gott geweiht. Darum wird gereinigt: zuerst die Priester selbst, dann das Volk, dann die Tore und die Mauer."
+    },
+    {
+     "ueberschrift": "Zwei Chöre auf der Mauer",
+     "vers_von": 31,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 31,
+       "leichte_sprache": "Dann ließ ich die Fürsten Judas auf die Mauer hinaufsteigen\nund stellte zwei große Dankchöre auf, die in einem Festzug gingen.\nDer eine zog rechts auf der Mauer in Richtung Misttor.",
+       "englisch_web": "Then I brought the princes of Judah up on the wall, and appointed two great companies who gave thanks and went in procession. One went on the right hand on the wall toward the dung gate;"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Hinter ihnen gingen Hoschaja und die Hälfte der Fürsten Judas,",
+       "englisch_web": "and after them went Hoshaiah, with half of the princes of Judah,"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "und Asarja, Esra und Meschullam,",
+       "englisch_web": "and Azariah, Ezra, and Meshullam,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Juda, Benjamin, Schemaja und Jeremia,",
+       "englisch_web": "Judah, Benjamin, Shemaiah, Jeremiah,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "und einige von den Söhnen der Priester mit Trompeten:\nSecharja, der Sohn Jonatans, des Sohnes Schemajas, des Sohnes Mattanjas,\ndes Sohnes Michajas, des Sohnes Sakkurs, des Sohnes Asafs,",
+       "englisch_web": "and some of the priests’ sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph;"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "und seine Brüder Schemaja, Asarel, Milalai, Gilalai, Maai, Netanel, Juda und Hanani,\nmit den Musikinstrumenten Davids, des Mannes Gottes.\nUnd Esra, der Schriftgelehrte, ging vor ihnen her.",
+       "englisch_web": "and his brothers, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the musical instruments of David the man of God; and Ezra the scribe was before them."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Beim Quelltor zogen sie geradeaus hinauf,\nüber die Stufen der Stadt Davids,\nden Aufgang der Mauer,\noberhalb des Hauses Davids,\nbis zum Wassertor im Osten.",
+       "englisch_web": "By the spring gate, and straight before them, they went up by the stairs of David’s city, at the ascent of the wall, above David’s house, even to the water gate eastward."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Der andere Dankchor zog ihnen entgegen,\nund ich hinter ihm,\nmit der Hälfte des Volkes, auf der Mauer,\noberhalb des Ofenturms bis zur Breiten Mauer,",
+       "englisch_web": "The other company of those who gave thanks went to meet them, and I after them, with the half of the people on the wall above the tower of the furnaces, even to the wide wall,"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "oberhalb des Tores Efraim,\nam Alten Tor, am Fischtor,\nam Turm Hananel und am Turm Hammea vorbei,\nbis zum Schaftor.\nUnd sie blieben am Wachtor stehen.",
+       "englisch_web": "and above the gate of Ephraim, and by the old gate, and by the fish gate, the tower of Hananel, and the tower of Hammeah, even to the sheep gate; and they stood still in the gate of the guard."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "So standen die beiden Dankchöre im Haus Gottes,\nund ich und die Hälfte der Vorsteher mit mir,",
+       "englisch_web": "So the two companies of those who gave thanks in God’s house stood, and I and the half of the rulers with me;"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "und die Priester Eljakim, Maaseja, Minjamin, Michaja, Eljoënai, Secharja und Hananja\nmit Trompeten,",
+       "englisch_web": "and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets;"
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "und Maaseja, Schemaja, Eleasar, Usi, Johanan, Malkija, Elam und Eser.\nUnd die Sänger sangen laut,\nmit Jisrachja, ihrem Leiter.",
+       "englisch_web": "and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang loud, with Jezrahiah their overseer."
+      }
+     ],
+     "erklaerung": "Was für ein Bild: Zwei große Chöre gehen auf der Mauer in entgegengesetzte Richtungen um die Stadt. Der eine wird von Esra angeführt, der andere von Nehemia. Sie treffen sich am Tempel.\nDie Mauer, über die Tobija spottete, „ein Fuchs würde sie einreißen“ (Kapitel 4,3), trägt jetzt eine ganze Prozession.\nDer Weg der Chöre folgt der Liste in Kapitel 3, nur in umgekehrter Richtung."
+    },
+    {
+     "ueberschrift": "Große Freude",
+     "vers_von": 43,
+     "vers_bis": 43,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 43,
+       "leichte_sprache": "Sie brachten an diesem Tag große Opfer dar\nund freuten sich,\ndenn Gott hatte ihnen große Freude geschenkt.\nAuch die Frauen und die Kinder freuten sich,\nsodass man die Freude Jerusalems weithin hörte.",
+       "englisch_web": "They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy; and the women and the children also rejoiced, so that the joy of Jerusalem was heard even far away."
+      }
+     ],
+     "erklaerung": "Das Wort „Freude“ kommt in diesem Vers fünfmal vor (im Hebräischen). Es ist der Höhepunkt des Buches.\nAlle freuen sich: Männer, Frauen und Kinder. Und die Freude ist so laut, dass man sie weit weg hört (vgl. Esra 3,13)."
+    },
+    {
+     "ueberschrift": "Die Versorgung des Tempeldienstes",
+     "vers_von": 44,
+     "vers_bis": 47,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 44,
+       "leichte_sprache": "An diesem Tag wurden Männer über die Kammern für die Vorräte eingesetzt,\nfür die Hebeopfer, für die Erstlinge und für die Zehnten,\num darin von den Feldern der Städte die Anteile zu sammeln,\ndie das Gesetz für die Priester und die Leviten bestimmt hatte.\nDenn Juda freute sich über die Priester und die Leviten, die Dienst taten.",
+       "englisch_web": "On that day, men were appointed over the rooms for the treasures, for the wave offerings, for the first fruits, and for the tithes, to gather into them according to the fields of the cities the portions appointed by the law for the priests and Levites; for Judah rejoiced for the priests and for the Levites who served."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Sie taten den Dienst ihres Gottes und den Dienst der Reinigung,\nebenso die Sänger und die Torhüter,\nnach dem Gebot Davids und seines Sohnes Salomo.",
+       "englisch_web": "They performed the duty of their God and the duty of the purification, and so did the singers and the gatekeepers, according to the commandment of David and of Solomon his son."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Denn schon in den Tagen Davids und Asafs, vor alters,\ngab es einen Leiter der Sänger\nund Lieder des Lobes und des Dankes für Gott.",
+       "englisch_web": "For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving to God."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Ganz Israel gab in den Tagen Serubbabels und in den Tagen Nehemias\ndie Anteile der Sänger und der Torhüter,\nwie es jeder Tag erforderte.\nUnd sie gaben den Leviten ihren heiligen Anteil,\nund die Leviten gaben den Söhnen Aarons ihren heiligen Anteil.",
+       "englisch_web": "All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron."
+      }
+     ],
+     "erklaerung": "Das Volk sorgt gern für die, die im Tempel dienen. „Juda freute sich über die Priester und Leviten.“\nDie Ordnung des Gottesdienstes knüpft an David und Salomo an. Das alte Erbe lebt weiter."
+    }
+   ]
+  },
+  {
+   "kapitel": 13,
+   "titel": "Nehemias zweite Amtszeit",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Gesetz über Ammoniter und Moabiter",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "An diesem Tag las man vor den Ohren des Volkes aus dem Buch des Mose vor.\nUnd man fand darin geschrieben,\ndass kein Ammoniter und kein Moabiter jemals in die Gemeinde Gottes kommen dürfe,",
+       "englisch_web": "On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "weil sie den Kindern Israels nicht mit Brot und Wasser entgegengekommen waren,\nsondern Bileam gegen sie angeworben hatten, um sie zu verfluchen.\nUnser Gott aber verwandelte den Fluch in Segen.",
+       "englisch_web": "because they didn’t meet the children of Israel with bread and with water, but hired Balaam against them to curse them; however, our God turned the curse into a blessing."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Als sie das Gesetz gehört hatten,\ntrennten sie alles fremde Mischvolk von Israel ab.",
+       "englisch_web": "It came to pass, when they had heard the law, that they separated all the mixed multitude from Israel."
+      }
+     ],
+     "erklaerung": "Das Gesetz steht in 5. Mose 23,4–6. Die Geschichte von Bileam steht in 4. Mose 22–24.\n„Gott verwandelte den Fluch in Segen“: Bileam sollte Israel verfluchen, aber er musste es segnen. Gott kann auch das Böse ins Gute wenden.\nWie passt dieses Gesetz zu Rut, der Moabiterin, die die Urgroßmutter Davids wurde? Die jüdische Auslegung sagte später: Das Gesetz gilt für Männer aus Moab und Ammon, nicht für Frauen. Andere sagen: Wer sich ganz dem Gott Israels zuwendet, wie Rut, gehört dazu. Die Bibel selbst hält beides nebeneinander fest.\nDer Prophet Jesaja sagt später: Auch Fremde, die sich an den HERRN halten, sind willkommen in Gottes Haus, „denn mein Haus soll ein Bethaus für alle Völker heißen“ (Jesaja 56,3–7)."
+    },
+    {
+     "ueberschrift": "Tobija im Tempel",
+     "vers_von": 4,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Schon vorher hatte der Priester Eljaschib,\nder über die Kammern des Hauses unseres Gottes gesetzt war\nund mit Tobija verwandt war,",
+       "englisch_web": "Now before this, Eliashib the priest, who was appointed over the rooms of the house of our God, being allied to Tobiah,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "ihm eine große Kammer hergerichtet.\nDort hatte man früher die Speiseopfer, den Weihrauch und die Geräte hingelegt\nund den Zehnten vom Getreide, vom Most und vom Öl,\nder nach dem Gebot den Leviten, den Sängern und den Torhütern zustand,\nund die Hebeopfer für die Priester.",
+       "englisch_web": "had prepared for him a great room, where previously they laid the meal offerings, the frankincense, the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, the singers, and the gatekeepers; and the wave offerings for the priests."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Aber bei all dem war ich nicht in Jerusalem.\nDenn im 32. Jahr des Artahsasta, des Königs von Babel,\nwar ich zum König gegangen.\nUnd nach einiger Zeit erbat ich mir vom König Urlaub",
+       "englisch_web": "But in all this, I was not at Jerusalem; for in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "und kam nach Jerusalem.\nDa erkannte ich das Böse, das Eljaschib für Tobija getan hatte,\nals er ihm eine Kammer in den Vorhöfen des Hauses Gottes hergerichtet hatte.",
+       "englisch_web": "and I came to Jerusalem, and understood the evil that Eliashib had done for Tobiah, in preparing him a room in the courts of God’s house."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Das ärgerte mich sehr.\nDarum warf ich den ganzen Hausrat Tobijas aus der Kammer hinaus.",
+       "englisch_web": "It grieved me severely. Therefore I threw all Tobiah’s household stuff out of the room."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Dann befahl ich, und man reinigte die Kammern.\nUnd ich brachte die Geräte des Hauses Gottes wieder hinein,\nmit den Speiseopfern und dem Weihrauch.",
+       "englisch_web": "Then I commanded, and they cleansed the rooms. I brought into them the vessels of God’s house, with the meal offerings and the frankincense again."
+      }
+     ],
+     "erklaerung": "Nehemia war nach zwölf Jahren (433 vor Christus) zum König zurückgekehrt. Später kam er ein zweites Mal nach Jerusalem.\nIn seiner Abwesenheit war viel schiefgegangen. Das Schlimmste: Der Hohepriester Eljaschib hatte Nehemias Feind Tobija eine Wohnung im Tempel gegeben!\nNehemia handelt entschlossen: Er wirft Tobijas Möbel hinaus. Das erinnert an Jesus, der die Händler aus dem Tempel trieb (Johannes 2,13–17).\nArtahsasta wird hier „König von Babel“ genannt, weil er auch über Babylon herrschte."
+    },
+    {
+     "ueberschrift": "Die Leviten werden wieder versorgt",
+     "vers_von": 10,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich erfuhr, dass die Anteile der Leviten ihnen nicht gegeben worden waren,\nsodass die Leviten und die Sänger, die den Dienst taten,\njeder auf sein Feld geflohen waren.",
+       "englisch_web": "I perceived that the portions of the Levites had not been given them, so that the Levites and the singers, who did the work, had each fled to his field."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Da stritt ich mit den Vorstehern und sagte:\n„Warum ist das Haus Gottes verlassen?“\nUnd ich versammelte sie\nund stellte sie wieder an ihren Platz.",
+       "englisch_web": "Then I contended with the rulers, and said, “Why is God’s house forsaken?” I gathered them together, and set them in their place."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da brachte ganz Juda den Zehnten vom Getreide, vom Most und vom Öl in die Vorratskammern.",
+       "englisch_web": "Then all Judah brought the tithe of the grain, the new wine, and the oil to the treasuries."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Und ich setzte Schatzmeister über die Vorratskammern ein:\nden Priester Schelemja, den Schreiber Zadok\nund von den Leviten Pedaja,\nund ihnen zur Seite Hanan, den Sohn Sakkurs, des Sohnes Mattanjas.\nDenn sie galten als treu.\nUnd ihre Aufgabe war es, ihren Brüdern auszuteilen.",
+       "englisch_web": "I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah; for they were counted faithful, and their business was to distribute to their brothers."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Gedenke mir das, mein Gott,\nund lösche meine guten Taten nicht aus,\ndie ich für das Haus meines Gottes und für seinen Dienst getan habe!",
+       "englisch_web": "Remember me, my God, concerning this, and don’t wipe out my good deeds that I have done for the house of my God, and for its observances."
+      }
+     ],
+     "erklaerung": "Das Volk hatte versprochen: „Wir wollen das Haus unseres Gottes nicht im Stich lassen“ (Kapitel 10,39). Aber sie hatten aufgehört, den Zehnten zu geben. Die Leviten mussten auf ihre Felder zurück, um zu überleben.\nNehemias Frage ist bis heute wichtig: „Warum ist das Haus Gottes verlassen?“\nEr setzt wieder treue Männer ein. Treue ist das Wichtigste, wenn man mit fremdem Gut umgeht."
+    },
+    {
+     "ueberschrift": "Der Sabbat",
+     "vers_von": 15,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "In diesen Tagen sah ich in Juda Leute,\ndie am Sabbat die Keltern traten,\nGarben einbrachten\nund Esel beluden mit Wein, Trauben, Feigen und allerlei Lasten,\ndie sie am Sabbattag nach Jerusalem brachten.\nUnd ich warnte sie an dem Tag, an dem sie Lebensmittel verkauften.",
+       "englisch_web": "In those days I saw some men treading wine presses on the Sabbath in Judah, bringing in sheaves, and loading donkeys with wine, grapes, figs, and all kinds of burdens which they brought into Jerusalem on the Sabbath day; and I testified against them in the day in which they sold food."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Auch Leute aus Tyrus wohnten dort.\nDie brachten Fische und allerlei Waren\nund verkauften sie am Sabbat an die Leute von Juda, und das in Jerusalem.",
+       "englisch_web": "Some men of Tyre also lived there, who brought in fish and all kinds of wares, and sold on the Sabbath to the children of Judah, and in Jerusalem."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Da stritt ich mit den Vornehmen Judas und sagte zu ihnen:\n„Was ist das für eine böse Sache, die ihr tut,\ndass ihr den Sabbattag entweiht?",
+       "englisch_web": "Then I contended with the nobles of Judah, and said to them, “What evil thing is this that you do, and profane the Sabbath day?"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Haben nicht eure Väter so gehandelt,\nund hat nicht unser Gott all dieses Unheil über uns und über diese Stadt gebracht?\nUnd ihr bringt noch mehr Zorn über Israel,\nindem ihr den Sabbat entweiht!“",
+       "englisch_web": "Didn’t your fathers do this, and didn’t our God bring all this evil on us and on this city? Yet you bring more wrath on Israel by profaning the Sabbath.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Als es an den Toren Jerusalems vor dem Sabbat dunkel wurde,\nbefahl ich, die Türflügel zu schließen.\nUnd ich befahl, sie erst nach dem Sabbat wieder zu öffnen.\nIch stellte einige meiner Diener an die Tore,\ndamit keine Last am Sabbattag hereinkam.",
+       "englisch_web": "It came to pass that when the gates of Jerusalem began to be dark before the Sabbath, I commanded that the doors should be shut, and commanded that they should not be opened until after the Sabbath. I set some of my servants over the gates, so that no burden should be brought in on the Sabbath day."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Da übernachteten die Händler und Verkäufer von allerlei Waren\nein- oder zweimal draußen vor Jerusalem.",
+       "englisch_web": "So the merchants and sellers of all kinds of wares camped outside of Jerusalem once or twice."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Da warnte ich sie und sagte zu ihnen:\n„Warum übernachtet ihr vor der Mauer?\nWenn ihr das noch einmal tut, lege ich Hand an euch!“\nVon da an kamen sie nicht mehr am Sabbat.",
+       "englisch_web": "Then I testified against them, and said to them, “Why do you stay around the wall? If you do so again, I will lay hands on you.” From that time on, they didn’t come on the Sabbath."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Und ich befahl den Leviten, sich zu reinigen\nund zu kommen und die Tore zu bewachen,\num den Sabbattag zu heiligen.\nAuch das gedenke mir, mein Gott,\nund hab Erbarmen mit mir nach deiner großen Güte!",
+       "englisch_web": "I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness."
+      }
+     ],
+     "erklaerung": "Auch das Versprechen über den Sabbat (Kapitel 10,31) war gebrochen worden. Am Ruhetag wurde gearbeitet und gehandelt wie an jedem anderen Tag.\nDer Sabbat ist ein Geschenk Gottes: ein Tag der Ruhe für alle, auch für Knechte, Fremde und Tiere (5. Mose 5,12–15). Wenn der Handel alles bestimmt, geht diese Ruhe verloren.\nDer Sabbat beginnt am Freitagabend, wenn es dunkel wird. Darum schließt Nehemia die Tore bei Einbruch der Dunkelheit.\nNehemia betet am Ende nicht nur „Gedenke mir“, sondern auch: „Hab Erbarmen mit mir.“ Er weiß, dass er selbst Gottes Gnade braucht."
+    },
+    {
+     "ueberschrift": "Die Mischehen",
+     "vers_von": 23,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "In diesen Tagen sah ich auch Juden,\ndie Frauen aus Aschdod, Ammon und Moab geheiratet hatten.",
+       "englisch_web": "In those days I also saw the Jews who had married women of Ashdod, of Ammon, and of Moab;"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Und ihre Kinder redeten zur Hälfte die Sprache von Aschdod\nund konnten kein Jüdisch mehr sprechen,\nsondern nur die Sprache des einen oder anderen Volkes.",
+       "englisch_web": "and their children spoke half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ich stritt mit ihnen,\nverfluchte sie,\nschlug einige von ihnen,\nraufte ihnen die Haare\nund ließ sie bei Gott schwören:\n„Ihr sollt eure Töchter nicht ihren Söhnen geben\nund ihre Töchter nicht für eure Söhne oder für euch nehmen!",
+       "englisch_web": "I contended with them, cursed them, struck certain of them, plucked off their hair, and made them swear by God, “You shall not give your daughters to their sons, nor take their daughters for your sons, or for yourselves."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Hat nicht Salomo, der König von Israel, deswegen gesündigt?\nUnter vielen Völkern gab es keinen König wie ihn.\nEr wurde von seinem Gott geliebt,\nund Gott machte ihn zum König über ganz Israel.\nDoch auch ihn haben die fremden Frauen zur Sünde verführt.",
+       "englisch_web": "Didn’t Solomon king of Israel sin by these things? Yet among many nations there was no king like him, and he was loved by his God, and God made him king over all Israel. Nevertheless foreign women caused even him to sin."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sollen wir nun auf euch hören,\ndass ihr all dieses große Unrecht tut\nund unserem Gott untreu werdet,\nindem ihr fremde Frauen heiratet?“",
+       "englisch_web": "Shall we then listen to you to do all this great evil, to trespass against our God in marrying foreign women?”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Einer von den Söhnen Jojadas, des Sohnes Eljaschibs, des Hohenpriesters,\nwar Schwiegersohn Sanballats, des Horoniters.\nDarum jagte ich ihn von mir weg.",
+       "englisch_web": "One of the sons of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite; therefore I chased him from me."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Gedenke ihnen, mein Gott,\ndass sie das Priestertum befleckt haben\nund den Bund des Priestertums und der Leviten!",
+       "englisch_web": "Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites."
+      }
+     ],
+     "erklaerung": "Auch das dritte Versprechen aus Kapitel 10 war gebrochen worden.\nNehemias Sorge: Die Kinder konnten nicht mehr Hebräisch sprechen. Damit konnten sie auch Gottes Wort nicht mehr verstehen. Der Glaube drohte in einer Generation verloren zu gehen.\nEr erinnert an Salomo: Selbst der weiseste König wurde durch fremde Frauen zum Götzendienst verführt (1. Könige 11,1–8).\nNehemia reagiert sehr heftig. Er schlägt Menschen und rauft ihnen die Haare. Die Bibel berichtet das ehrlich, ohne es ausdrücklich zu loben. Heute sagen Juden und Christen: Gewalt ist kein Weg, um Glauben durchzusetzen. Auch Nehemia war ein Mensch mit Fehlern.\nEin Enkel des Hohenpriesters hatte die Tochter von Nehemias Erzfeind Sanballat geheiratet. Das war besonders schlimm, weil der Hohepriester nach dem Gesetz nur eine Frau aus Israel heiraten durfte (3. Mose 21,14).\nZur Frage der Mischehen siehe auch die ausführliche Erklärung zu Esra 10."
+    },
+    {
+     "ueberschrift": "Nehemias letztes Gebet",
+     "vers_von": 30,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 30,
+       "leichte_sprache": "So reinigte ich sie von allem Fremden\nund stellte die Dienste der Priester und der Leviten auf,\njeden in seiner Arbeit,",
+       "englisch_web": "Thus I cleansed them from all foreigners and appointed duties for the priests and for the Levites, everyone in his work;"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "und für die Holzspende zu festgesetzten Zeiten\nund für die Erstlinge.\nGedenke mir, mein Gott, zum Guten!",
+       "englisch_web": "and for the wood offering, at appointed times, and for the first fruits. Remember me, my God, for good."
+      }
+     ],
+     "erklaerung": "Das Buch endet mit einem kurzen Gebet: „Gedenke mir, mein Gott, zum Guten!“ Nehemia hat viel für Gott und das Volk getan. Aber am Ende vertraut er nicht auf seine Leistung, sondern auf Gottes Gedenken.\nDas Ende ist nicht triumphal. Das Volk hat seine Versprechen gebrochen. Nehemia musste wieder aufräumen. Das zeigt: Menschen allein können den Bund mit Gott nicht dauerhaft halten. Die Propheten sprechen deshalb von einem „neuen Bund“, bei dem Gott sein Gesetz ins Herz schreibt (Jeremia 31,31–34). Christen sehen diesen neuen Bund in Jesus erfüllt."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im Buch Nehemia gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Ein Mann, der betet und handelt:** Nehemia, der Mundschenk des Perserkönigs, hört vom Elend Jerusalems. Er weint, fastet und betet. Dann bittet er mutig den König und geht nach Jerusalem.\n**Die Mauer (Kapitel 1–7):** Alle bauen mit: Priester und Goldschmiede, Männer und Frauen. Trotz Spott, Drohungen, Erschöpfung und Fallen wird die Mauer in nur 52 Tagen fertig. „Mit der einen Hand am Werk, mit der anderen an der Waffe.“\n**Gerechtigkeit (Kapitel 5):** Nehemia kämpft für die Armen, die von reichen Brüdern ausgebeutet werden. Er selbst verzichtet auf seine Vorrechte.\n**Gottes Wort (Kapitel 8–10):** Esra liest das Gesetz vor. Das Volk weint, dann feiert es: „Die Freude des HERRN ist eure Stärke.“ Ein großes Bußgebet erzählt die ganze Geschichte von Gottes Treue. Das Volk unterschreibt einen Bund.\n**Die Einweihung (Kapitel 11–12):** Jerusalem wird wieder bewohnt. Zwei Chöre ziehen über die Mauer. Die Freude ist weithin zu hören.\n**Das Scheitern (Kapitel 13):** Als Nehemia weg ist, brechen die Menschen ihre Versprechen. Nehemia muss wieder aufräumen.\n**Was wir lernen:** Beten und Arbeiten gehören zusammen. Gott hilft bei großen Aufgaben. Aber Mauern und Versprechen allein verändern keine Herzen. Dafür braucht es Gottes Gnade.\n**Kurze Gebete:** Nehemia betet oft ganz kurz, mitten im Alltag: „Stärke meine Hände!“ „Gedenke mir, mein Gott, zum Guten!“ So kann man auch heute beten.\n**Wie geht es weiter?** Das Buch Ester erzählt eine Geschichte aus derselben Zeit, aber nicht in Jerusalem, sondern am Hof des Perserkönigs in Susa."
+    }
+   ]
   }
  ]
 }

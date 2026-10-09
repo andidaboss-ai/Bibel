@@ -61452,3 +61452,534 @@ in Michmas, Aja, Bethel und seinen Tochterstädten,
 > „Tochterstädte“ sind kleinere Orte, die zu einer größeren Stadt gehörten.
 > „Von Beerscheba bis zum Tal Hinnom“: vom Süden bis direkt vor Jerusalem.
 > Viele dieser Orte kennen wir aus früheren Büchern der Bibel. Die Heimkehrer leben wieder an den Orten ihrer Vorfahren. Gottes Versprechen, sie zurückzubringen, hat sich erfüllt.
+
+## Nehemia – Kapitel 12
+#### Die Einweihung der Mauer
+
+---
+
+### Die Priester und Leviten der ersten Heimkehr (Vers 1–9)
+
+<sup>1</sup>Das sind die Priester und die Leviten,
+die mit Serubbabel, dem Sohn Schealtiëls, und mit Jeschua heraufzogen:
+Seraja, Jeremia, Esra,
+<sup>2</sup>Amarja, Malluch, Hattusch,
+<sup>3</sup>Schechanja, Rehum, Meremot,
+<sup>4</sup>Iddo, Ginnetoi, Abija,
+<sup>5</sup>Mijamin, Maadja, Bilga,
+<sup>6</sup>Schemaja, Jojarib, Jedaja,
+<sup>7</sup>Sallu, Amok, Hilkija und Jedaja.
+Das waren die Obersten der Priester und ihrer Brüder in den Tagen Jeschuas.
+<sup>8</sup>Und die Leviten waren:
+Jeschua, Binnui, Kadmiël, Scherebja, Juda
+und Mattanja, der mit seinen Brüdern für die Danklieder zuständig war.
+<sup>9</sup>Auch Bakbukja und Unni, ihre Brüder,
+standen ihnen gegenüber nach ihren Diensten.
+
+> **Was bedeutet das?**
+> Hier springt das Buch zurück zur ersten Heimkehr, fast 100 Jahre früher (Esra 2).
+> Der Esra in Vers 1 ist nicht der Esra aus Esra 7. Es ist ein Priester mit demselben Namen.
+> „Gegenüber“: Die Sänger standen sich in zwei Chören gegenüber und sangen im Wechsel.
+
+---
+
+### Die Hohenpriester (Vers 10–11)
+
+<sup>10</sup>Jeschua zeugte Jojakim,
+und Jojakim zeugte Eljaschib,
+und Eljaschib zeugte Jojada,
+<sup>11</sup>und Jojada zeugte Jonatan,
+und Jonatan zeugte Jaddua.
+
+> **Was bedeutet das?**
+> Das ist die Liste der Hohenpriester über sechs Generationen, von etwa 538 bis über 400 vor Christus hinaus.
+> Eljaschib war Hohepriester zur Zeit Nehemias (Kapitel 3,1; 13,4). „Jonatan“ heißt in Vers 22 „Johanan“. Sein Name ist auch in einem Brief aus Elephantine in Ägypten belegt.
+
+---
+
+### Die Priesterfamilien unter Jojakim (Vers 12–21)
+
+<sup>12</sup>In den Tagen Jojakims waren Priester, Familienoberhäupter:
+von Seraja: Meraja; von Jeremia: Hananja;
+<sup>13</sup>von Esra: Meschullam; von Amarja: Johanan;
+<sup>14</sup>von Malluchi: Jonatan; von Schebanja: Josef;
+<sup>15</sup>von Harim: Adna; von Merajot: Helkai;
+<sup>16</sup>von Iddo: Secharja; von Ginneton: Meschullam;
+<sup>17</sup>von Abija: Sichri; von Minjamin, von Moadja: Piltai;
+<sup>18</sup>von Bilga: Schammua; von Schemaja: Jonatan;
+<sup>19</sup>von Jojarib: Mattenai; von Jedaja: Usi;
+<sup>20</sup>von Sallai: Kallai; von Amok: Eber;
+<sup>21</sup>von Hilkija: Haschabja; von Jedaja: Netanel.
+
+> **Was bedeutet das?**
+> In der nächsten Generation hatte jede Priesterfamilie ein neues Oberhaupt. Die Liste zeigt: Der Dienst ging weiter, von Generation zu Generation.
+> Bei „Minjamin“ fehlt im hebräischen Text der Name des Oberhaupts.
+
+---
+
+### Die Aufzeichnungen und die Leviten (Vers 22–26)
+
+<sup>22</sup>Was die Leviten betrifft:
+In den Tagen Eljaschibs, Jojadas, Johanans und Jadduas
+wurden die Familienoberhäupter aufgeschrieben,
+und auch die Priester, unter der Regierung des Persers Darius.
+<sup>23</sup>Die Söhne Levis, Familienoberhäupter,
+wurden im Buch der Chroniken aufgeschrieben,
+bis zu den Tagen Johanans, des Sohnes Eljaschibs.
+<sup>24</sup>Die Obersten der Leviten waren:
+Haschabja, Scherebja und Jeschua, der Sohn Kadmiëls,
+mit ihren Brüdern ihnen gegenüber,
+um zu loben und zu danken,
+nach dem Gebot Davids, des Mannes Gottes,
+Abteilung neben Abteilung.
+<sup>25</sup>Mattanja, Bakbukja, Obadja, Meschullam, Talmon und Akkub
+waren Torhüter,
+die Wache hielten bei den Vorratskammern an den Toren.
+<sup>26</sup>Diese lebten in den Tagen Jojakims, des Sohnes Jeschuas, des Sohnes Jozadaks,
+und in den Tagen Nehemias, des Statthalters,
+und Esras, des Priesters und Schriftgelehrten.
+
+> **Was bedeutet das?**
+> „Der Perser Darius“ ist wohl Darius II. (423–404 vor Christus). Diese Notiz wurde also etwas später ergänzt.
+> „Abteilung neben Abteilung“: Die Chöre standen nebeneinander oder gegenüber und sangen im Wechsel, wie David es angeordnet hatte (1. Chronik 25).
+
+---
+
+### Vorbereitung der Einweihung (Vers 27–30)
+
+<sup>27</sup>Bei der Einweihung der Mauer Jerusalems
+suchte man die Leviten an allen ihren Orten,
+um sie nach Jerusalem zu bringen,
+damit sie die Einweihung mit Freude feierten,
+mit Dank und mit Gesang,
+mit Zimbeln, Saiteninstrumenten und Harfen.
+<sup>28</sup>Die Sänger versammelten sich
+aus der Ebene rings um Jerusalem
+und aus den Dörfern der Netofatiter,
+<sup>29</sup>auch aus Bet-Gilgal und von den Feldern von Geba und Asmawet.
+Denn die Sänger hatten sich Dörfer rings um Jerusalem gebaut.
+<sup>30</sup>Die Priester und die Leviten reinigten sich.
+Und sie reinigten das Volk, die Tore und die Mauer.
+
+> **Was bedeutet das?**
+> Die Mauer ist nicht nur ein Bauwerk. Sie wird Gott geweiht. Darum wird gereinigt: zuerst die Priester selbst, dann das Volk, dann die Tore und die Mauer.
+
+---
+
+### Zwei Chöre auf der Mauer (Vers 31–42)
+
+<sup>31</sup>Dann ließ ich die Fürsten Judas auf die Mauer hinaufsteigen
+und stellte zwei große Dankchöre auf, die in einem Festzug gingen.
+Der eine zog rechts auf der Mauer in Richtung Misttor.
+<sup>32</sup>Hinter ihnen gingen Hoschaja und die Hälfte der Fürsten Judas,
+<sup>33</sup>und Asarja, Esra und Meschullam,
+<sup>34</sup>Juda, Benjamin, Schemaja und Jeremia,
+<sup>35</sup>und einige von den Söhnen der Priester mit Trompeten:
+Secharja, der Sohn Jonatans, des Sohnes Schemajas, des Sohnes Mattanjas,
+des Sohnes Michajas, des Sohnes Sakkurs, des Sohnes Asafs,
+<sup>36</sup>und seine Brüder Schemaja, Asarel, Milalai, Gilalai, Maai, Netanel, Juda und Hanani,
+mit den Musikinstrumenten Davids, des Mannes Gottes.
+Und Esra, der Schriftgelehrte, ging vor ihnen her.
+<sup>37</sup>Beim Quelltor zogen sie geradeaus hinauf,
+über die Stufen der Stadt Davids,
+den Aufgang der Mauer,
+oberhalb des Hauses Davids,
+bis zum Wassertor im Osten.
+<sup>38</sup>Der andere Dankchor zog ihnen entgegen,
+und ich hinter ihm,
+mit der Hälfte des Volkes, auf der Mauer,
+oberhalb des Ofenturms bis zur Breiten Mauer,
+<sup>39</sup>oberhalb des Tores Efraim,
+am Alten Tor, am Fischtor,
+am Turm Hananel und am Turm Hammea vorbei,
+bis zum Schaftor.
+Und sie blieben am Wachtor stehen.
+<sup>40</sup>So standen die beiden Dankchöre im Haus Gottes,
+und ich und die Hälfte der Vorsteher mit mir,
+<sup>41</sup>und die Priester Eljakim, Maaseja, Minjamin, Michaja, Eljoënai, Secharja und Hananja
+mit Trompeten,
+<sup>42</sup>und Maaseja, Schemaja, Eleasar, Usi, Johanan, Malkija, Elam und Eser.
+Und die Sänger sangen laut,
+mit Jisrachja, ihrem Leiter.
+
+> **Was bedeutet das?**
+> Was für ein Bild: Zwei große Chöre gehen auf der Mauer in entgegengesetzte Richtungen um die Stadt. Der eine wird von Esra angeführt, der andere von Nehemia. Sie treffen sich am Tempel.
+> Die Mauer, über die Tobija spottete, „ein Fuchs würde sie einreißen“ (Kapitel 4,3), trägt jetzt eine ganze Prozession.
+> Der Weg der Chöre folgt der Liste in Kapitel 3, nur in umgekehrter Richtung.
+
+---
+
+### Große Freude (Vers 43)
+
+<sup>43</sup>Sie brachten an diesem Tag große Opfer dar
+und freuten sich,
+denn Gott hatte ihnen große Freude geschenkt.
+Auch die Frauen und die Kinder freuten sich,
+sodass man die Freude Jerusalems weithin hörte.
+
+> **Was bedeutet das?**
+> Das Wort „Freude“ kommt in diesem Vers fünfmal vor (im Hebräischen). Es ist der Höhepunkt des Buches.
+> Alle freuen sich: Männer, Frauen und Kinder. Und die Freude ist so laut, dass man sie weit weg hört (vgl. Esra 3,13).
+
+---
+
+### Die Versorgung des Tempeldienstes (Vers 44–47)
+
+<sup>44</sup>An diesem Tag wurden Männer über die Kammern für die Vorräte eingesetzt,
+für die Hebeopfer, für die Erstlinge und für die Zehnten,
+um darin von den Feldern der Städte die Anteile zu sammeln,
+die das Gesetz für die Priester und die Leviten bestimmt hatte.
+Denn Juda freute sich über die Priester und die Leviten, die Dienst taten.
+<sup>45</sup>Sie taten den Dienst ihres Gottes und den Dienst der Reinigung,
+ebenso die Sänger und die Torhüter,
+nach dem Gebot Davids und seines Sohnes Salomo.
+<sup>46</sup>Denn schon in den Tagen Davids und Asafs, vor alters,
+gab es einen Leiter der Sänger
+und Lieder des Lobes und des Dankes für Gott.
+<sup>47</sup>Ganz Israel gab in den Tagen Serubbabels und in den Tagen Nehemias
+die Anteile der Sänger und der Torhüter,
+wie es jeder Tag erforderte.
+Und sie gaben den Leviten ihren heiligen Anteil,
+und die Leviten gaben den Söhnen Aarons ihren heiligen Anteil.
+
+> **Was bedeutet das?**
+> Das Volk sorgt gern für die, die im Tempel dienen. „Juda freute sich über die Priester und Leviten.“
+> Die Ordnung des Gottesdienstes knüpft an David und Salomo an. Das alte Erbe lebt weiter.
+
+## Nehemia – Kapitel 13
+#### Nehemias zweite Amtszeit
+
+---
+
+### Das Gesetz über Ammoniter und Moabiter (Vers 1–3)
+
+<sup>1</sup>An diesem Tag las man vor den Ohren des Volkes aus dem Buch des Mose vor.
+Und man fand darin geschrieben,
+dass kein Ammoniter und kein Moabiter jemals in die Gemeinde Gottes kommen dürfe,
+<sup>2</sup>weil sie den Kindern Israels nicht mit Brot und Wasser entgegengekommen waren,
+sondern Bileam gegen sie angeworben hatten, um sie zu verfluchen.
+Unser Gott aber verwandelte den Fluch in Segen.
+<sup>3</sup>Als sie das Gesetz gehört hatten,
+trennten sie alles fremde Mischvolk von Israel ab.
+
+> **Was bedeutet das?**
+> Das Gesetz steht in 5. Mose 23,4–6. Die Geschichte von Bileam steht in 4. Mose 22–24.
+> „Gott verwandelte den Fluch in Segen“: Bileam sollte Israel verfluchen, aber er musste es segnen. Gott kann auch das Böse ins Gute wenden.
+> Wie passt dieses Gesetz zu Rut, der Moabiterin, die die Urgroßmutter Davids wurde? Die jüdische Auslegung sagte später: Das Gesetz gilt für Männer aus Moab und Ammon, nicht für Frauen. Andere sagen: Wer sich ganz dem Gott Israels zuwendet, wie Rut, gehört dazu. Die Bibel selbst hält beides nebeneinander fest.
+> Der Prophet Jesaja sagt später: Auch Fremde, die sich an den HERRN halten, sind willkommen in Gottes Haus, „denn mein Haus soll ein Bethaus für alle Völker heißen“ (Jesaja 56,3–7).
+
+---
+
+### Tobija im Tempel (Vers 4–9)
+
+<sup>4</sup>Schon vorher hatte der Priester Eljaschib,
+der über die Kammern des Hauses unseres Gottes gesetzt war
+und mit Tobija verwandt war,
+<sup>5</sup>ihm eine große Kammer hergerichtet.
+Dort hatte man früher die Speiseopfer, den Weihrauch und die Geräte hingelegt
+und den Zehnten vom Getreide, vom Most und vom Öl,
+der nach dem Gebot den Leviten, den Sängern und den Torhütern zustand,
+und die Hebeopfer für die Priester.
+<sup>6</sup>Aber bei all dem war ich nicht in Jerusalem.
+Denn im 32. Jahr des Artahsasta, des Königs von Babel,
+war ich zum König gegangen.
+Und nach einiger Zeit erbat ich mir vom König Urlaub
+<sup>7</sup>und kam nach Jerusalem.
+Da erkannte ich das Böse, das Eljaschib für Tobija getan hatte,
+als er ihm eine Kammer in den Vorhöfen des Hauses Gottes hergerichtet hatte.
+<sup>8</sup>Das ärgerte mich sehr.
+Darum warf ich den ganzen Hausrat Tobijas aus der Kammer hinaus.
+<sup>9</sup>Dann befahl ich, und man reinigte die Kammern.
+Und ich brachte die Geräte des Hauses Gottes wieder hinein,
+mit den Speiseopfern und dem Weihrauch.
+
+> **Was bedeutet das?**
+> Nehemia war nach zwölf Jahren (433 vor Christus) zum König zurückgekehrt. Später kam er ein zweites Mal nach Jerusalem.
+> In seiner Abwesenheit war viel schiefgegangen. Das Schlimmste: Der Hohepriester Eljaschib hatte Nehemias Feind Tobija eine Wohnung im Tempel gegeben!
+> Nehemia handelt entschlossen: Er wirft Tobijas Möbel hinaus. Das erinnert an Jesus, der die Händler aus dem Tempel trieb (Johannes 2,13–17).
+> Artahsasta wird hier „König von Babel“ genannt, weil er auch über Babylon herrschte.
+
+---
+
+### Die Leviten werden wieder versorgt (Vers 10–14)
+
+<sup>10</sup>Ich erfuhr, dass die Anteile der Leviten ihnen nicht gegeben worden waren,
+sodass die Leviten und die Sänger, die den Dienst taten,
+jeder auf sein Feld geflohen waren.
+<sup>11</sup>Da stritt ich mit den Vorstehern und sagte:
+„Warum ist das Haus Gottes verlassen?“
+Und ich versammelte sie
+und stellte sie wieder an ihren Platz.
+<sup>12</sup>Da brachte ganz Juda den Zehnten vom Getreide, vom Most und vom Öl in die Vorratskammern.
+<sup>13</sup>Und ich setzte Schatzmeister über die Vorratskammern ein:
+den Priester Schelemja, den Schreiber Zadok
+und von den Leviten Pedaja,
+und ihnen zur Seite Hanan, den Sohn Sakkurs, des Sohnes Mattanjas.
+Denn sie galten als treu.
+Und ihre Aufgabe war es, ihren Brüdern auszuteilen.
+<sup>14</sup>Gedenke mir das, mein Gott,
+und lösche meine guten Taten nicht aus,
+die ich für das Haus meines Gottes und für seinen Dienst getan habe!
+
+> **Was bedeutet das?**
+> Das Volk hatte versprochen: „Wir wollen das Haus unseres Gottes nicht im Stich lassen“ (Kapitel 10,39). Aber sie hatten aufgehört, den Zehnten zu geben. Die Leviten mussten auf ihre Felder zurück, um zu überleben.
+> Nehemias Frage ist bis heute wichtig: „Warum ist das Haus Gottes verlassen?“
+> Er setzt wieder treue Männer ein. Treue ist das Wichtigste, wenn man mit fremdem Gut umgeht.
+
+---
+
+### Der Sabbat (Vers 15–22)
+
+<sup>15</sup>In diesen Tagen sah ich in Juda Leute,
+die am Sabbat die Keltern traten,
+Garben einbrachten
+und Esel beluden mit Wein, Trauben, Feigen und allerlei Lasten,
+die sie am Sabbattag nach Jerusalem brachten.
+Und ich warnte sie an dem Tag, an dem sie Lebensmittel verkauften.
+<sup>16</sup>Auch Leute aus Tyrus wohnten dort.
+Die brachten Fische und allerlei Waren
+und verkauften sie am Sabbat an die Leute von Juda, und das in Jerusalem.
+<sup>17</sup>Da stritt ich mit den Vornehmen Judas und sagte zu ihnen:
+„Was ist das für eine böse Sache, die ihr tut,
+dass ihr den Sabbattag entweiht?
+<sup>18</sup>Haben nicht eure Väter so gehandelt,
+und hat nicht unser Gott all dieses Unheil über uns und über diese Stadt gebracht?
+Und ihr bringt noch mehr Zorn über Israel,
+indem ihr den Sabbat entweiht!“
+<sup>19</sup>Als es an den Toren Jerusalems vor dem Sabbat dunkel wurde,
+befahl ich, die Türflügel zu schließen.
+Und ich befahl, sie erst nach dem Sabbat wieder zu öffnen.
+Ich stellte einige meiner Diener an die Tore,
+damit keine Last am Sabbattag hereinkam.
+<sup>20</sup>Da übernachteten die Händler und Verkäufer von allerlei Waren
+ein- oder zweimal draußen vor Jerusalem.
+<sup>21</sup>Da warnte ich sie und sagte zu ihnen:
+„Warum übernachtet ihr vor der Mauer?
+Wenn ihr das noch einmal tut, lege ich Hand an euch!“
+Von da an kamen sie nicht mehr am Sabbat.
+<sup>22</sup>Und ich befahl den Leviten, sich zu reinigen
+und zu kommen und die Tore zu bewachen,
+um den Sabbattag zu heiligen.
+Auch das gedenke mir, mein Gott,
+und hab Erbarmen mit mir nach deiner großen Güte!
+
+> **Was bedeutet das?**
+> Auch das Versprechen über den Sabbat (Kapitel 10,31) war gebrochen worden. Am Ruhetag wurde gearbeitet und gehandelt wie an jedem anderen Tag.
+> Der Sabbat ist ein Geschenk Gottes: ein Tag der Ruhe für alle, auch für Knechte, Fremde und Tiere (5. Mose 5,12–15). Wenn der Handel alles bestimmt, geht diese Ruhe verloren.
+> Der Sabbat beginnt am Freitagabend, wenn es dunkel wird. Darum schließt Nehemia die Tore bei Einbruch der Dunkelheit.
+> Nehemia betet am Ende nicht nur „Gedenke mir“, sondern auch: „Hab Erbarmen mit mir.“ Er weiß, dass er selbst Gottes Gnade braucht.
+
+---
+
+### Die Mischehen (Vers 23–29)
+
+<sup>23</sup>In diesen Tagen sah ich auch Juden,
+die Frauen aus Aschdod, Ammon und Moab geheiratet hatten.
+<sup>24</sup>Und ihre Kinder redeten zur Hälfte die Sprache von Aschdod
+und konnten kein Jüdisch mehr sprechen,
+sondern nur die Sprache des einen oder anderen Volkes.
+<sup>25</sup>Ich stritt mit ihnen,
+verfluchte sie,
+schlug einige von ihnen,
+raufte ihnen die Haare
+und ließ sie bei Gott schwören:
+„Ihr sollt eure Töchter nicht ihren Söhnen geben
+und ihre Töchter nicht für eure Söhne oder für euch nehmen!
+<sup>26</sup>Hat nicht Salomo, der König von Israel, deswegen gesündigt?
+Unter vielen Völkern gab es keinen König wie ihn.
+Er wurde von seinem Gott geliebt,
+und Gott machte ihn zum König über ganz Israel.
+Doch auch ihn haben die fremden Frauen zur Sünde verführt.
+<sup>27</sup>Sollen wir nun auf euch hören,
+dass ihr all dieses große Unrecht tut
+und unserem Gott untreu werdet,
+indem ihr fremde Frauen heiratet?“
+<sup>28</sup>Einer von den Söhnen Jojadas, des Sohnes Eljaschibs, des Hohenpriesters,
+war Schwiegersohn Sanballats, des Horoniters.
+Darum jagte ich ihn von mir weg.
+<sup>29</sup>Gedenke ihnen, mein Gott,
+dass sie das Priestertum befleckt haben
+und den Bund des Priestertums und der Leviten!
+
+> **Was bedeutet das?**
+> Auch das dritte Versprechen aus Kapitel 10 war gebrochen worden.
+> Nehemias Sorge: Die Kinder konnten nicht mehr Hebräisch sprechen. Damit konnten sie auch Gottes Wort nicht mehr verstehen. Der Glaube drohte in einer Generation verloren zu gehen.
+> Er erinnert an Salomo: Selbst der weiseste König wurde durch fremde Frauen zum Götzendienst verführt (1. Könige 11,1–8).
+> Nehemia reagiert sehr heftig. Er schlägt Menschen und rauft ihnen die Haare. Die Bibel berichtet das ehrlich, ohne es ausdrücklich zu loben. Heute sagen Juden und Christen: Gewalt ist kein Weg, um Glauben durchzusetzen. Auch Nehemia war ein Mensch mit Fehlern.
+> Ein Enkel des Hohenpriesters hatte die Tochter von Nehemias Erzfeind Sanballat geheiratet. Das war besonders schlimm, weil der Hohepriester nach dem Gesetz nur eine Frau aus Israel heiraten durfte (3. Mose 21,14).
+> Zur Frage der Mischehen siehe auch die ausführliche Erklärung zu Esra 10.
+
+---
+
+### Nehemias letztes Gebet (Vers 30–31)
+
+<sup>30</sup>So reinigte ich sie von allem Fremden
+und stellte die Dienste der Priester und der Leviten auf,
+jeden in seiner Arbeit,
+<sup>31</sup>und für die Holzspende zu festgesetzten Zeiten
+und für die Erstlinge.
+Gedenke mir, mein Gott, zum Guten!
+
+> **Was bedeutet das?**
+> Das Buch endet mit einem kurzen Gebet: „Gedenke mir, mein Gott, zum Guten!“ Nehemia hat viel für Gott und das Volk getan. Aber am Ende vertraut er nicht auf seine Leistung, sondern auf Gottes Gedenken.
+> Das Ende ist nicht triumphal. Das Volk hat seine Versprechen gebrochen. Nehemia musste wieder aufräumen. Das zeigt: Menschen allein können den Bund mit Gott nicht dauerhaft halten. Die Propheten sprechen deshalb von einem „neuen Bund“, bei dem Gott sein Gesetz ins Herz schreibt (Jeremia 31,31–34). Christen sehen diesen neuen Bund in Jesus erfüllt.
+
+---
+
+### Rückblick: Was haben wir im Buch Nehemia gelesen?
+
+> **Was bedeutet das?**
+> **Ein Mann, der betet und handelt:** Nehemia, der Mundschenk des Perserkönigs, hört vom Elend Jerusalems. Er weint, fastet und betet. Dann bittet er mutig den König und geht nach Jerusalem.
+> **Die Mauer (Kapitel 1–7):** Alle bauen mit: Priester und Goldschmiede, Männer und Frauen. Trotz Spott, Drohungen, Erschöpfung und Fallen wird die Mauer in nur 52 Tagen fertig. „Mit der einen Hand am Werk, mit der anderen an der Waffe.“
+> **Gerechtigkeit (Kapitel 5):** Nehemia kämpft für die Armen, die von reichen Brüdern ausgebeutet werden. Er selbst verzichtet auf seine Vorrechte.
+> **Gottes Wort (Kapitel 8–10):** Esra liest das Gesetz vor. Das Volk weint, dann feiert es: „Die Freude des HERRN ist eure Stärke.“ Ein großes Bußgebet erzählt die ganze Geschichte von Gottes Treue. Das Volk unterschreibt einen Bund.
+> **Die Einweihung (Kapitel 11–12):** Jerusalem wird wieder bewohnt. Zwei Chöre ziehen über die Mauer. Die Freude ist weithin zu hören.
+> **Das Scheitern (Kapitel 13):** Als Nehemia weg ist, brechen die Menschen ihre Versprechen. Nehemia muss wieder aufräumen.
+> **Was wir lernen:** Beten und Arbeiten gehören zusammen. Gott hilft bei großen Aufgaben. Aber Mauern und Versprechen allein verändern keine Herzen. Dafür braucht es Gottes Gnade.
+> **Kurze Gebete:** Nehemia betet oft ganz kurz, mitten im Alltag: „Stärke meine Hände!“ „Gedenke mir, mein Gott, zum Guten!“ So kann man auch heute beten.
+> **Wie geht es weiter?** Das Buch Ester erzählt eine Geschichte aus derselben Zeit, aber nicht in Jerusalem, sondern am Hof des Perserkönigs in Susa.
+
+
+---
+
+# Ester
+
+## Ester – Kapitel 1
+#### Die Königin Waschti sagt Nein
+
+---
+
+### Bevor es losgeht: Was ist das Buch Ester?
+
+Das Buch Ester erzählt eine spannende Geschichte am Hof des persischen Königs in Susa.
+Es spielt etwa um 480 vor Christus, zwischen der Einweihung des Tempels (Esra 6) und der Ankunft Esras in Jerusalem (Esra 7). Viele Juden lebten damals nicht in Jerusalem, sondern verstreut im ganzen Perserreich.
+Die Hauptpersonen:
+– Ester, eine junge jüdische Frau, die Königin wird.
+– Mordechai, ihr Cousin, der sie aufgezogen hat.
+– Haman, ein mächtiger Beamter, der alle Juden töten will.
+– König Ahasveros (Xerxes I.).
+Das Besondere: Im hebräischen Buch Ester kommt der Name Gottes kein einziges Mal vor. Und doch merkt man, dass Gott im Hintergrund alles lenkt. Viele „Zufälle“ führen zur Rettung des Volkes.
+Es gibt auch eine griechische Fassung des Buches mit zusätzlichen Teilen, in denen gebetet und Gott genannt wird. Diese Zusätze stehen in katholischen Bibeln, in evangelischen Bibeln bei den Apokryphen. Diese Übertragung folgt dem hebräischen Text.
+Das Buch erklärt den Ursprung des jüdischen Purimfestes, das bis heute fröhlich gefeiert wird.
+Manche Teile der Geschichte sind übertrieben erzählt, fast wie eine Satire. Der mächtige König erscheint oft eitel und leicht zu beeinflussen. Das gehört zum Stil des Buches.
+
+---
+
+### Ein riesiges Fest (Vers 1–9)
+
+<sup>1</sup>In den Tagen des Ahasveros
+– das ist der Ahasveros, der von Indien bis Kusch regierte,
+über 127 Provinzen –,
+<sup>2</sup>in jenen Tagen,
+als der König Ahasveros auf dem Thron seines Königreichs saß,
+der in der Burg Susa war,
+<sup>3</sup>im dritten Jahr seiner Regierung,
+machte er ein Festmahl für alle seine Fürsten und seine Diener.
+Das Heer von Persien und Medien,
+die Vornehmen und die Fürsten der Provinzen waren bei ihm.
+<sup>4</sup>Er zeigte den Reichtum seines herrlichen Königreichs
+und die prächtige Ehre seiner Größe
+viele Tage lang, 180 Tage.
+<sup>5</sup>Als diese Tage vorüber waren,
+machte der König für das ganze Volk, das in der Burg Susa war,
+groß und klein,
+ein Festmahl von sieben Tagen
+im Hof des Gartens des königlichen Palastes.
+<sup>6</sup>Da gab es Vorhänge aus weißem und blauem Stoff,
+befestigt mit Schnüren aus feinem Leinen und Purpur
+an silbernen Ringen und Marmorsäulen.
+Die Liegen waren aus Gold und Silber,
+auf einem Boden aus rotem, weißem, gelbem und schwarzem Marmor.
+<sup>7</sup>Man gab ihnen zu trinken aus goldenen Gefäßen,
+eines anders als das andere,
+und königlichen Wein in Fülle,
+nach der Freigebigkeit des Königs.
+<sup>8</sup>Nach der Vorschrift war das Trinken ohne Zwang.
+Denn so hatte der König allen Beamten seines Hauses befohlen,
+dass sie jeden nach seinem Wunsch handeln lassen sollten.
+<sup>9</sup>Auch die Königin Waschti machte ein Festmahl für die Frauen
+im königlichen Haus, das dem König Ahasveros gehörte.
+
+> **Was bedeutet das?**
+> Ahasveros ist der hebräische Name für den Perserkönig Xerxes I. (486–465 vor Christus). Sein Reich war riesig: von Indien im Osten bis Kusch (südlich von Ägypten) im Westen.
+> In der englischen Vorlage steht „Äthiopien“. Gemeint ist das Gebiet Kusch.
+> Das „dritte Jahr“ ist etwa 483 vor Christus. Vielleicht plante der König bei diesem Fest den großen Krieg gegen Griechenland, den er dann verlor.
+> Ein Fest von 180 Tagen! Und dann noch eine Woche für die ganze Stadt. Der König will zeigen, wie reich und mächtig er ist.
+> Die Beschreibung des Palastes ist sehr genau. Archäologen haben den Palast in Susa ausgegraben. Er war tatsächlich sehr prächtig.
+> „Ohne Zwang“: Niemand musste mehr trinken, als er wollte. Bei persischen Festen war es manchmal üblich, dass alle mittrinken mussten, wenn der König trank.
+
+---
+
+### Waschti weigert sich (Vers 10–12)
+
+<sup>10</sup>Am siebten Tag, als das Herz des Königs vom Wein fröhlich war,
+befahl er Mehuman, Biseta, Harbona, Bigta, Abagta, Setar und Karkas,
+den sieben Kämmerern, die vor dem König Ahasveros dienten,
+<sup>11</sup>die Königin Waschti mit der königlichen Krone vor den König zu bringen,
+um dem Volk und den Fürsten ihre Schönheit zu zeigen.
+Denn sie war schön.
+<sup>12</sup>Aber die Königin Waschti weigerte sich,
+auf den Befehl des Königs durch die Kämmerer zu kommen.
+Da wurde der König sehr zornig,
+und sein Zorn brannte in ihm.
+
+> **Was bedeutet das?**
+> Nach sieben Tagen Feiern ist der König betrunken. Er will seine Frau vorführen wie einen Schatz, vor lauter betrunkenen Männern.
+> Waschti sagt Nein. Warum, sagt der Text nicht. Vielleicht wollte sie ihre Würde bewahren. Viele Leser bewundern ihren Mut. Sie lässt sich nicht wie einen Gegenstand behandeln.
+> Der mächtigste Mann der Welt kann seine eigene Frau nicht zwingen. Das ist schon fast komisch erzählt.
+> „Kämmerer“: Im Hebräischen steht ein Wort, das oft „Eunuch“ bedeutet, also ein Mann, der entmannt wurde. Solche Männer dienten oft im Frauenbereich der Paläste. Das Wort kann aber auch allgemein einen Hofbeamten meinen.
+
+---
+
+### Der Rat der Weisen (Vers 13–22)
+
+<sup>13</sup>Da sagte der König zu den Weisen, die sich auf die Zeiten verstanden
+– denn so war es Brauch beim König,
+sich mit allen zu beraten, die Gesetz und Recht kannten;
+<sup>14</sup>und die ihm am nächsten standen, waren
+Karschena, Schetar, Admata, Tarschisch, Meres, Marsena und Memuchan,
+die sieben Fürsten von Persien und Medien,
+die das Gesicht des Königs sahen
+und die ersten Plätze im Königreich hatten –:
+<sup>15</sup>„Was soll man nach dem Gesetz mit der Königin Waschti tun,
+weil sie den Befehl des Königs Ahasveros durch die Kämmerer nicht befolgt hat?“
+<sup>16</sup>Memuchan antwortete vor dem König und den Fürsten:
+„Die Königin Waschti hat sich nicht nur gegen den König vergangen,
+sondern auch gegen alle Fürsten
+und gegen alle Völker in allen Provinzen des Königs Ahasveros.
+<sup>17</sup>Denn diese Tat der Königin wird allen Frauen bekannt werden,
+sodass sie ihre Männer verachten,
+wenn man erzählt:
+‚Der König Ahasveros befahl, die Königin Waschti vor ihn zu bringen,
+aber sie kam nicht.‘
+<sup>18</sup>Heute schon werden die Fürstinnen von Persien und Medien,
+die von der Tat der Königin gehört haben,
+es allen Fürsten des Königs erzählen.
+Und es wird viel Verachtung und Zorn geben.
+<sup>19</sup>Wenn es dem König gefällt,
+soll ein königlicher Befehl von ihm ausgehen
+und unter die Gesetze der Perser und Meder geschrieben werden,
+sodass er nicht geändert werden kann:
+dass Waschti nie mehr vor den König Ahasveros kommen darf.
+Und der König soll ihre königliche Würde einer anderen geben,
+die besser ist als sie.
+<sup>20</sup>Wenn der Erlass des Königs, den er machen wird,
+in seinem ganzen Königreich bekannt wird
+– denn es ist groß –,
+dann werden alle Frauen ihren Männern Ehre erweisen,
+groß und klein.“
+<sup>21</sup>Der Rat gefiel dem König und den Fürsten,
+und der König handelte nach dem Wort Memuchans.
+<sup>22</sup>Er schickte Briefe in alle Provinzen des Königs,
+in jede Provinz in ihrer Schrift
+und an jedes Volk in seiner Sprache,
+dass jeder Mann Herr in seinem Haus sein
+und in der Sprache seines Volkes reden solle.
+
+> **Was bedeutet das?**
+> Der König weiß nicht, was er tun soll. Er fragt seine Berater. Aus einem Familienstreit wird eine Staatsaffäre.
+> Memuchan übertreibt maßlos: Wenn die Königin nicht gehorcht, werden alle Frauen im Reich ihre Männer verachten!
+> Die „Gesetze der Perser und Meder“ konnten nicht geändert werden. Das wird später in der Geschichte sehr wichtig (Kapitel 8,8; vgl. Daniel 6,9).
+> Das Ergebnis ist lächerlich: Ein Gesetz für das ganze Weltreich, dass jeder Mann „Herr in seinem Haus“ sein soll. Als ob man Respekt mit einem Gesetz befehlen könnte! Die Bibel erzählt das mit feinem Humor. Sie lobt dieses Gesetz nicht.
+> Die Bibel lehrt an anderen Stellen, dass Mann und Frau einander achten und lieben sollen (zum Beispiel 1. Mose 2,24; Epheser 5,21–33).
+> Durch Waschtis Absetzung wird der Platz frei für Ester. So beginnt Gottes verborgener Plan.
