@@ -111,4 +111,4 @@ aber sein Zorn trifft den, der Schande bringt.
 > Vers 30: Ein moderner Gedanke: Innerer Friede ist gut für die Gesundheit. Neid macht krank.
 > Vers 31 ist einer der wichtigsten Sätze des Buches: Jeder Arme ist von Gott geschaffen. Wer einen Armen schlecht behandelt, beleidigt Gott selbst. Wer ihm hilft, ehrt Gott. Jesus sagt Ähnliches: „Was ihr einem meiner geringsten Geschwister getan habt, das habt ihr mir getan“ (Matthäus 25,40).
 > Vers 32: Der Gerechte hat sogar im Tod eine Zuflucht. Hier klingt Hoffnung über den Tod hinaus an.
-> Vers 34: „Gerechtigkeit erhöht ein Volk“: Ein Land ist nicht groß durch Macht oder Reichtum, sondern durch Gerechtigkeit. Dieser Satz steht an vielen öffentlichen Gebäuden.
+> Vers 34: „Gerechtigkeit erhöht ein Volk“: Ein Land ist nicht groß durch Macht oder Reichtum, sondern durch Gerechtigkeit.
