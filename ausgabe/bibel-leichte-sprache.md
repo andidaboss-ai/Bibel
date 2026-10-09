@@ -92677,3 +92677,407 @@ herausreißen und vernichten“, spricht der HERR.
 > Vers 15: Aber dann das Überraschende: Gott wird sich auch über sie erbarmen und sie in ihr Land zurückbringen! Gottes Barmherzigkeit gilt nicht nur Israel.
 > Vers 16: Wenn die anderen Völker lernen, den wahren Gott zu ehren, dann bekommen sie einen Platz mitten in Gottes Volk. Die Tür steht für alle offen.
 > Hier kehren die Worte aus Jeremias Berufung wieder: „ausreißen“ und „aufbauen“ (1,10).
+
+## Jeremia – Kapitel 13
+#### Der verdorbene Gürtel
+
+---
+
+### Eine Zeichenhandlung mit einem Gürtel (Vers 1–11)
+
+<sup>1</sup>Der HERR sagte zu mir:
+„Geh und kauf dir einen Gürtel aus Leinen
+und leg ihn um deine Hüften,
+aber bring ihn nicht ins Wasser.“
+<sup>2</sup>Da kaufte ich einen Gürtel nach dem Wort des HERRN
+und legte ihn um meine Hüften.
+<sup>3</sup>Das Wort des HERRN kam zum zweiten Mal zu mir:
+<sup>4</sup>„Nimm den Gürtel, den du gekauft hast und der um deine Hüften ist,
+mach dich auf, geh zum Euphrat
+und versteck ihn dort in einer Felsspalte.“
+<sup>5</sup>Da ging ich und versteckte ihn am Euphrat,
+wie der HERR mir geboten hatte.
+<sup>6</sup>Nach vielen Tagen sagte der HERR zu mir:
+„Mach dich auf, geh zum Euphrat
+und hol den Gürtel von dort,
+den ich dir befohlen habe, dort zu verstecken.“
+<sup>7</sup>Da ging ich zum Euphrat und grub
+und nahm den Gürtel von dem Ort, wo ich ihn versteckt hatte.
+Und siehe, der Gürtel war verdorben.
+Er taugte zu nichts mehr.
+<sup>8</sup>Da kam das Wort des HERRN zu mir:
+<sup>9</sup>„So spricht der HERR:
+‚Genauso werde ich den Hochmut Judas verderben
+und den großen Hochmut Jerusalems.
+<sup>10</sup>Dieses böse Volk, das sich weigert, auf meine Worte zu hören,
+das in der Verstocktheit seines Herzens lebt
+und anderen Göttern nachgelaufen ist, um ihnen zu dienen
+und sie anzubeten,
+wird wie dieser Gürtel sein, der zu nichts taugt.
+<sup>11</sup>Denn wie der Gürtel sich an die Hüften eines Mannes anschmiegt,
+so habe ich das ganze Haus Israel und das ganze Haus Juda
+sich an mich anschmiegen lassen‘, spricht der HERR,
+‚damit sie mir ein Volk seien, ein Name, ein Lob und eine Zierde.
+Aber sie wollten nicht hören.‘
+
+> **Was bedeutet das?**
+> Jeremia führt eine „Zeichenhandlung“ aus: Er spielt Gottes Botschaft vor, damit die Menschen sie sehen und nicht nur hören.
+> Er trägt einen neuen Leinengürtel, dann versteckt er ihn am Euphrat. Als er ihn wieder holt, ist er verrottet. (Manche Ausleger meinen, statt des weit entfernten Euphrat sei ein Ort namens Parat in der Nähe von Anatot gemeint. Im Hebräischen klingen beide Namen gleich.)
+> Vers 11: Die Bedeutung: Israel war so eng mit Gott verbunden wie ein Gürtel mit dem Körper. Ein Gürtel war damals ein schönes, wichtiges Kleidungsstück. Aber durch den Götzendienst ist das Volk „verrottet“. Der Euphrat weist auf Babylon hin: Dort wird das Volk im Exil sein.
+
+---
+
+### Die Weinkrüge (Vers 12–14)
+
+<sup>12</sup>Darum sollst du ihnen dieses Wort sagen:
+‚So spricht der HERR, der Gott Israels:
+„Jeder Krug soll mit Wein gefüllt werden.“‘
+Sie werden zu dir sagen:
+‚Wissen wir denn nicht genau, dass jeder Krug mit Wein gefüllt werden soll?‘
+<sup>13</sup>Dann sag zu ihnen:
+‚So spricht der HERR:
+„Siehe, ich werde alle Bewohner dieses Landes,
+auch die Könige, die auf dem Thron Davids sitzen,
+die Priester, die Propheten und alle Bewohner Jerusalems,
+mit Trunkenheit füllen.
+<sup>14</sup>Ich werde sie einen gegen den anderen schlagen,
+die Väter und die Söhne zusammen“, spricht der HERR.
+„Ich werde kein Mitleid haben, nicht schonen und mich nicht erbarmen,
+sodass ich sie nicht vernichte.“‘“
+
+> **Was bedeutet das?**
+> Jeremia sagt etwas, das wie ein Trinkspruch klingt: „Jeder Krug soll mit Wein gefüllt werden!“ Die Leute antworten: „Ja, klar, das wissen wir doch!“
+> Aber Jeremia meint es anders: Die Menschen selbst sind wie Krüge. Sie werden „betrunken“ gemacht, das heißt: verwirrt und ohne Orientierung. Dann zerschlagen sie sich gegenseitig wie Krüge, die aneinanderstoßen. Ein Bild für Streit und Chaos, das ein Volk von innen zerstört.
+
+---
+
+### Gebt Gott die Ehre, bevor es dunkel wird (Vers 15–27)
+
+<sup>15</sup>Hört und merkt auf!
+Seid nicht hochmütig, denn der HERR hat geredet.
+<sup>16</sup>Gebt dem HERRN, eurem Gott, die Ehre,
+bevor er Finsternis kommen lässt
+und bevor eure Füße an dunklen Bergen anstoßen,
+und während ihr auf Licht wartet,
+macht er es zum Todesschatten
+und verwandelt es in tiefe Dunkelheit.
+<sup>17</sup>Wenn ihr es aber nicht hört,
+wird meine Seele im Verborgenen weinen über euren Hochmut.
+Mein Auge wird bitterlich weinen und von Tränen fließen,
+weil die Herde des HERRN gefangen weggeführt wird.
+<sup>18</sup>Sag zum König und zur Königinmutter:
+„Setzt euch tief herab,
+denn eure Krone ist herabgefallen,
+die Krone eurer Herrlichkeit.
+<sup>19</sup>Die Städte im Süden sind verschlossen,
+und niemand ist da, der sie öffnet.
+Juda wird in die Gefangenschaft weggeführt, ganz Juda.
+Es wird vollständig weggeführt.
+<sup>20</sup>Hebt eure Augen auf und seht die, die von Norden kommen!
+Wo ist die Herde, die dir gegeben wurde,
+deine schöne Herde?
+<sup>21</sup>Was wirst du sagen, wenn er die über dich als Haupt setzt,
+die du selbst gelehrt hast, deine Freunde zu sein?
+Werden dich nicht Schmerzen packen
+wie eine Frau in Wehen?
+<sup>22</sup>Und wenn du in deinem Herzen fragst:
+‚Warum ist mir das widerfahren?‘
+Wegen der Größe deiner Schuld
+sind deine Säume aufgedeckt
+und deine Fersen erleiden Gewalt.
+<sup>23</sup>Kann ein Kuschit seine Haut ändern
+oder ein Leopard seine Flecken?
+Dann könnt auch ihr Gutes tun,
+die ihr gewohnt seid, Böses zu tun.
+<sup>24</sup>Darum werde ich sie zerstreuen
+wie Stoppeln, die vom Wind der Wüste weggeweht werden.
+<sup>25</sup>Das ist dein Los,
+der Anteil, den ich dir zugemessen habe“, spricht der HERR,
+„weil du mich vergessen
+und auf Lüge vertraut hast.
+<sup>26</sup>Darum werde auch ich deine Säume über dein Gesicht hochheben,
+und deine Schande wird sichtbar werden.
+<sup>27</sup>Ich habe deine Gräuel gesehen,
+deine Ehebrüche und dein Wiehern,
+die Schamlosigkeit deiner Hurerei
+auf den Hügeln im Feld.
+Wehe dir, Jerusalem!
+Du wirst nicht rein werden.
+Wie lange soll es noch dauern?“
+
+> **Was bedeutet das?**
+> Vers 16: Gebt Gott die Ehre, solange es noch hell ist! Wie ein Wanderer, der vor Einbruch der Dunkelheit aus den Bergen herunter sein muss.
+> Vers 17: Jeremia wird heimlich weinen, wenn das Volk nicht hört. Er ist kein schadenfroher Prophet.
+> Vers 18: Der König ist wahrscheinlich Jojachin, die Königinmutter seine Mutter Nehuschta. Beide wurden 597 vor Christus nach Babylon verschleppt (2. Könige 24,8–15).
+> Vers 21: Juda hatte Babylon früher als Verbündeten gesucht. Jetzt wird Babylon zum Herrscher über Juda.
+> Vers 22 und 26: Jerusalem wird als Frau dargestellt, die öffentlich bloßgestellt wird. So wurde damals über die Demütigung einer eroberten Stadt gesprochen. Diese Bilder sind ein Bild für eine Stadt, keine Rechtfertigung dafür, Frauen bloßzustellen oder ihnen Gewalt anzutun. Wer Gewalt erlebt: Hilfetelefon 116 016.
+> Vers 23: „Kann ein Kuschit seine Haut ändern oder ein Leopard seine Flecken?“ Das WEB hat hier „Ethiopian“. Kusch lag südlich von Ägypten, die Menschen dort hatten dunkle Haut. Gemeint ist nur: Etwas, das tief verwurzelt ist, ändert man nicht einfach. Das Volk ist so an das Böse gewöhnt, dass es sich nicht mehr selbst ändern kann. Der Vers sagt nichts Schlechtes über dunkle Haut. Die Bibel spricht an anderen Stellen sehr respektvoll von Menschen aus Kusch, zum Beispiel von Ebed-Melech, der Jeremia das Leben rettet (Kapitel 38).
+> Vers 27: „Wie lange noch?“ Gott wartet immer noch darauf, dass sein Volk rein wird.
+
+## Jeremia – Kapitel 14
+#### Die große Dürre
+
+---
+
+### Kein Regen im Land (Vers 1–6)
+
+<sup>1</sup>Das ist das Wort des HERRN, das an Jeremia kam wegen der Dürre:
+<sup>2</sup>„Juda trauert,
+und seine Tore verschmachten.
+Sie sitzen in Schwarz auf dem Boden.
+Das Geschrei Jerusalems steigt auf.
+<sup>3</sup>Ihre Vornehmen schicken ihre Diener nach Wasser.
+Sie kommen zu den Zisternen und finden kein Wasser.
+Sie kehren mit leeren Gefäßen zurück.
+Sie sind enttäuscht und beschämt und verhüllen ihr Haupt.
+<sup>4</sup>Wegen des Erdbodens, der rissig ist,
+weil kein Regen im Land gefallen ist,
+sind die Ackerbauern enttäuscht.
+Sie verhüllen ihr Haupt.
+<sup>5</sup>Ja, sogar die Hirschkuh auf dem Feld wirft ihr Junges
+und verlässt es, weil kein Gras da ist.
+<sup>6</sup>Die Wildesel stehen auf den kahlen Höhen.
+Sie schnappen nach Luft wie Schakale.
+Ihre Augen versagen, weil kein Grün da ist.
+
+> **Was bedeutet das?**
+> Eine schreckliche Dürre trifft das Land. Jeremia beschreibt sie genau:
+> Vers 3: Die Diener finden in den Zisternen kein Wasser und kommen mit leeren Krügen zurück.
+> Vers 4: Der Boden ist rissig, die Bauern können nichts säen.
+> Vers 5–6: Selbst die Tiere leiden: Eine Hirschkuh verlässt ihr Neugeborenes, weil sie kein Futter findet. Wildesel ringen nach Luft.
+> Auch heute leiden viele Menschen und Tiere unter Dürren. Die Bibel nimmt dieses Leid ernst.
+
+---
+
+### Ein Gebet in der Not (Vers 7–12)
+
+<sup>7</sup>Auch wenn unsere Missetaten gegen uns zeugen,
+handle um deines Namens willen, HERR!
+Denn zahlreich sind unsere Abtrünnigkeiten.
+Wir haben gegen dich gesündigt.
+<sup>8</sup>Du Hoffnung Israels,
+sein Retter in der Zeit der Not,
+warum bist du wie ein Fremder im Land
+und wie ein Reisender, der nur für eine Nacht einkehrt?
+<sup>9</sup>Warum bist du wie ein erschrockener Mann,
+wie ein Held, der nicht retten kann?
+Du bist doch in unserer Mitte, HERR,
+und wir sind nach deinem Namen genannt.
+Verlass uns nicht!
+<sup>10</sup>So spricht der HERR über dieses Volk:
+„So gern sind sie umhergeirrt.
+Sie haben ihre Füße nicht zurückgehalten.
+Darum hat der HERR kein Gefallen an ihnen.
+Jetzt wird er an ihre Schuld denken
+und ihre Sünden heimsuchen.“
+<sup>11</sup>Der HERR sagte zu mir:
+„Bete nicht für dieses Volk um Gutes!
+<sup>12</sup>Wenn sie fasten, werde ich ihr Schreien nicht hören.
+Und wenn sie Brandopfer und Speisopfer darbringen,
+werde ich sie nicht annehmen.
+Sondern ich werde sie durch Schwert, Hunger und Pest vernichten.“
+
+> **Was bedeutet das?**
+> Vers 7–9: Ein schönes Gebet des Volkes: „Du Hoffnung Israels! Warum bist du wie ein Fremder, der nur eine Nacht bleibt? Du bist doch in unserer Mitte. Verlass uns nicht!“ Solche Worte kann man auch heute in der Not beten.
+> Vers 10–12: Aber Gottes Antwort ist hart: Das Volk hat sich zu weit entfernt. Fasten und Opfer allein helfen jetzt nicht, wenn sich das Leben nicht ändert. Zum dritten Mal sagt Gott zu Jeremia: Bete nicht für dieses Volk.
+
+---
+
+### Die falschen Propheten (Vers 13–18)
+
+<sup>13</sup>Da sagte ich: „Ach, Herr, HERR!
+Siehe, die Propheten sagen zu ihnen:
+‚Ihr werdet kein Schwert sehen,
+und es wird keinen Hunger bei euch geben,
+sondern ich werde euch an diesem Ort beständigen Frieden geben.‘“
+<sup>14</sup>Da sagte der HERR zu mir:
+„Die Propheten weissagen Lüge in meinem Namen.
+Ich habe sie nicht gesandt.
+Ich habe ihnen nichts befohlen.
+Ich habe nicht zu ihnen geredet.
+Sie weissagen euch erlogene Visionen, Wahrsagerei, Nichtiges
+und den Betrug ihres eigenen Herzens.
+<sup>15</sup>Darum spricht der HERR über die Propheten,
+die in meinem Namen weissagen, obwohl ich sie nicht gesandt habe,
+und die doch sagen: ‚Schwert und Hunger wird es in diesem Land nicht geben‘:
+Durch Schwert und Hunger werden diese Propheten umkommen.
+<sup>16</sup>Und das Volk, dem sie weissagen,
+wird auf die Straßen Jerusalems hingeworfen werden
+wegen des Hungers und des Schwertes.
+Niemand wird da sein, der sie begräbt,
+sie, ihre Frauen, ihre Söhne und ihre Töchter.
+Denn ich werde ihre Bosheit über sie ausgießen.
+<sup>17</sup>Du sollst ihnen dieses Wort sagen:
+‚Meine Augen sollen von Tränen fließen Tag und Nacht
+und nicht aufhören,
+denn die Jungfrau, die Tochter meines Volkes, ist schwer zerbrochen,
+mit einer sehr schmerzhaften Wunde.
+<sup>18</sup>Wenn ich hinaus aufs Feld gehe,
+siehe, da sind die vom Schwert Erschlagenen!
+Wenn ich in die Stadt hineingehe,
+siehe, da sind die vom Hunger Kranken!
+Denn sowohl der Prophet als auch der Priester
+ziehen im Land umher und wissen nichts.‘“
+
+> **Was bedeutet das?**
+> Vers 13: Jeremia versucht, sein Volk zu entschuldigen: Die falschen Propheten haben sie getäuscht! Sie haben Frieden versprochen.
+> Vers 14: Gott sagt: Diese Propheten haben nicht in meinem Auftrag geredet. Sie haben sich ihre Botschaft selbst ausgedacht. Es ist wichtig zu prüfen, ob jemand wirklich in Gottes Namen spricht oder nur sagt, was die Leute hören wollen.
+> Vers 17–18: Jeremia weint Tag und Nacht. Auf dem Feld sieht er Gefallene, in der Stadt Verhungernde. Ein erschütterndes Bild vom Krieg.
+
+---
+
+### Verwirf uns nicht! (Vers 19–22)
+
+<sup>19</sup>Hast du Juda ganz verworfen?
+Ekelt sich deine Seele vor Zion?
+Warum hast du uns geschlagen,
+sodass es keine Heilung für uns gibt?
+Wir hofften auf Frieden, aber nichts Gutes kam,
+und auf eine Zeit der Heilung, aber siehe, Schrecken!
+<sup>20</sup>Wir erkennen, HERR, unsere Bosheit
+und die Schuld unserer Väter,
+denn wir haben gegen dich gesündigt.
+<sup>21</sup>Verabscheue uns nicht um deines Namens willen!
+Entehre nicht den Thron deiner Herrlichkeit!
+Denk daran und brich deinen Bund mit uns nicht!
+<sup>22</sup>Gibt es unter den nichtigen Götzen der Nationen welche,
+die Regen geben können?
+Oder kann der Himmel von selbst Regenschauer geben?
+Bist nicht du es, HERR, unser Gott?
+Darum hoffen wir auf dich,
+denn du hast all das gemacht.
+
+> **Was bedeutet das?**
+> Ein zweites Gebet, noch eindringlicher als das erste.
+> Vers 20: Das Volk bekennt ehrlich seine Schuld.
+> Vers 21: Es erinnert Gott an seinen eigenen Namen und an seinen Bund: Gott, du hast versprochen, treu zu sein!
+> Vers 22: Ein starkes Bekenntnis: Keiner der Götzen kann Regen machen. Nur du, Gott. „Darum hoffen wir auf dich.“ Selbst in der tiefsten Not gibt das Volk die Hoffnung auf Gott nicht auf.
+
+## Jeremia – Kapitel 15
+#### Deine Worte wurden meine Speise
+
+---
+
+### Selbst Mose und Samuel könnten nicht helfen (Vers 1–9)
+
+<sup>1</sup>Da sagte der HERR zu mir:
+„Selbst wenn Mose und Samuel vor mir stünden,
+würde sich mein Herz diesem Volk nicht zuwenden.
+Schick sie weg von meinem Angesicht, sie sollen hinausgehen!
+<sup>2</sup>Und wenn sie dich fragen: ‚Wohin sollen wir hinausgehen?‘,
+dann sag zu ihnen: ‚So spricht der HERR:
+„Wer für den Tod bestimmt ist, zum Tod,
+wer für das Schwert, zum Schwert,
+wer für den Hunger, zum Hunger,
+und wer für die Gefangenschaft, zur Gefangenschaft.“‘
+<sup>3</sup>Ich werde vier Arten über sie bestellen“, spricht der HERR:
+„das Schwert zum Töten,
+die Hunde zum Zerren,
+die Vögel des Himmels und die Tiere der Erde
+zum Fressen und zum Vernichten.
+<sup>4</sup>Ich werde sie zum Schrecken machen für alle Königreiche der Erde
+wegen Manasse, des Sohnes Hiskias, des Königs von Juda,
+wegen dessen, was er in Jerusalem getan hat.
+<sup>5</sup>Denn wer wird Mitleid mit dir haben, Jerusalem?
+Wer wird dich betrauern?
+Wer wird einkehren, um nach deinem Wohlergehen zu fragen?
+<sup>6</sup>Du hast mich verworfen“, spricht der HERR.
+„Du bist rückwärts gegangen.
+Darum habe ich meine Hand gegen dich ausgestreckt und dich vernichtet.
+Ich bin es müde, Mitleid zu haben.
+<sup>7</sup>Ich habe sie mit der Worfschaufel geworfelt in den Toren des Landes.
+Ich habe sie kinderlos gemacht.
+Ich habe mein Volk vernichtet.
+Sie sind von ihren Wegen nicht umgekehrt.
+<sup>8</sup>Ihre Witwen sind zahlreicher geworden als der Sand am Meer.
+Ich habe über die Mutter der jungen Männer
+am hellen Mittag einen Verwüster kommen lassen.
+Ich habe plötzlich Angst und Schrecken über sie fallen lassen.
+<sup>9</sup>Die sieben Kinder geboren hat, verschmachtet.
+Sie hat ihren Geist aufgegeben.
+Ihre Sonne ist untergegangen, als es noch Tag war.
+Sie ist enttäuscht und beschämt.
+Und ihren Rest werde ich dem Schwert preisgeben vor ihren Feinden“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 1: Mose und Samuel waren die großen Fürbitter Israels. Sie haben oft für das Volk gebetet, und Gott hat sie erhört (2. Mose 32; 1. Samuel 7). Aber jetzt, sagt Gott, würde nicht einmal ihr Gebet helfen. So schlimm ist die Lage.
+> Vers 4: König Manasse regierte etwa 50 Jahre vor Jeremia. Er war besonders schlimm: Er führte Götzendienst ein und ließ viel unschuldiges Blut vergießen (2. Könige 21). Die Folgen seiner Taten wirken noch lange nach.
+> Vers 8–9: Ein ergreifendes Bild: Eine Mutter, die sieben Kinder hatte, verliert sie alle. „Ihre Sonne ist untergegangen, als es noch Tag war.“ So fühlt sich unendliche Trauer an.
+> Wichtig: Der Text erklärt das Unglück Jerusalems als Folge von Schuld. Das heißt nicht, dass jeder Mensch, der leidet oder ein Kind verliert, daran selbst schuld ist. Die Bibel wehrt sich an anderen Stellen ausdrücklich gegen diesen Gedanken (Hiob; Johannes 9,1–3). Wer trauert, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111.
+
+---
+
+### Wehe mir, Mutter, dass du mich geboren hast! (Vers 10–14)
+
+<sup>10</sup>Wehe mir, meine Mutter, dass du mich geboren hast,
+einen Mann des Streits
+und einen Mann des Zanks für die ganze Erde!
+Ich habe nichts verliehen,
+und niemand hat mir etwas geliehen,
+und doch verfluchen mich alle.
+<sup>11</sup>Der HERR sagte:
+„Gewiss, ich werde dich stärken zum Guten.
+Gewiss, ich werde den Feind dazu bringen, dich anzuflehen
+in der Zeit des Unheils und in der Zeit der Not.
+<sup>12</sup>Kann man Eisen zerbrechen,
+Eisen aus dem Norden, und Bronze?
+<sup>13</sup>Deinen Besitz und deine Schätze werde ich zur Beute geben,
+ohne Kaufpreis,
+und zwar wegen all deiner Sünden in all deinen Grenzen.
+<sup>14</sup>Ich werde sie mit deinen Feinden
+in ein Land bringen, das du nicht kennst.
+Denn ein Feuer ist in meinem Zorn entbrannt,
+das wird gegen euch brennen.“
+
+> **Was bedeutet das?**
+> Vers 10: Jeremia ist am Ende. Er klagt: „Ach, Mutter, warum hast du mich geboren?“ Er ist ein Mann, mit dem alle streiten. Er hat niemandem Geld geliehen oder geschuldet (was oft zu Streit führte), und trotzdem verfluchen ihn alle. Er wird gehasst, nur weil er Gottes Wort sagt.
+> Vers 11–12: Gott tröstet ihn: Ich stärke dich. Das „Eisen aus dem Norden“ ist Babylon. Niemand kann es aufhalten.
+> Vers 13–14: Diese Verse richten sich an das Volk: Die Schätze werden geraubt, das Volk wird ins Exil geführt.
+> Wer sich so fühlt wie Jeremia hier, so allein und verzweifelt, dass er sich wünscht, nie geboren zu sein, der soll mit jemandem reden. Die Telefonseelsorge ist Tag und Nacht erreichbar: 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Deine Worte wurden meine Speise (Vers 15–21)
+
+<sup>15</sup>HERR, du weißt es.
+Denk an mich, sieh nach mir
+und verschaffe mir Recht an meinen Verfolgern!
+Du bist geduldig, raffe mich nicht weg!
+Erkenne, dass ich um deinetwillen Schmach trage.
+<sup>16</sup>Deine Worte fanden sich, und ich habe sie gegessen.
+Deine Worte wurden mir zur Freude
+und zur Wonne meines Herzens,
+denn ich bin nach deinem Namen genannt,
+HERR, Gott der Heere.
+<sup>17</sup>Ich saß nicht in der Runde der Fröhlichen
+und freute mich nicht.
+Ich saß allein wegen deiner Hand,
+denn du hast mich mit Zorn erfüllt.
+<sup>18</sup>Warum ist mein Schmerz dauernd
+und meine Wunde unheilbar,
+sodass sie sich nicht heilen lassen will?
+Willst du mir wirklich sein wie ein trügerischer Bach,
+wie Wasser, das versiegt?
+<sup>19</sup>Darum spricht der HERR:
+„Wenn du umkehrst, dann will ich dich zurückbringen,
+damit du vor mir stehst.
+Und wenn du das Wertvolle vom Gemeinen trennst,
+wirst du wie mein Mund sein.
+Sie sollen sich zu dir wenden,
+du aber sollst dich nicht zu ihnen wenden.
+<sup>20</sup>Ich mache dich für dieses Volk zu einer festen bronzenen Mauer.
+Sie werden gegen dich kämpfen,
+aber sie werden dich nicht überwältigen,
+denn ich bin bei dir, um dir zu helfen und dich zu retten“,
+spricht der HERR.
+<sup>21</sup>„Ich werde dich aus der Hand der Bösen retten,
+und ich werde dich aus der Faust der Gewalttätigen erlösen.“
+
+> **Was bedeutet das?**
+> Vers 15: Jeremia bittet Gott: Denk an mich! Ich leide doch für dich.
+> Vers 16 ist ein wunderschöner Vers: „Deine Worte fanden sich, und ich habe sie gegessen. Sie wurden mir zur Freude.“ Gottes Wort war für Jeremia wie Nahrung. Es hat ihn erfüllt und froh gemacht.
+> Vers 17: Aber seine Berufung macht ihn auch einsam. Er kann nicht mit den anderen fröhlich feiern.
+> Vers 18: Jeremias bitterster Vorwurf: Gott, bist du wie ein Bach, der im Sommer austrocknet, wenn man ihn braucht? Früher hatte Gott sich „die Quelle lebendigen Wassers“ genannt (2,13). Jetzt fühlt Jeremia sich von dieser Quelle im Stich gelassen. Die Bibel erlaubt so ehrliche Worte.
+> Vers 19: Gott antwortet nicht mit Mitleid, sondern mit einer Einladung: Kehr um, Jeremia! Lass deine Verzweiflung los. Dann kannst du wieder mein Mund sein.
+> Vers 20–21: Gott wiederholt das Versprechen aus Jeremias Berufung (1,18–19): „Ich bin bei dir, um dich zu retten.“
