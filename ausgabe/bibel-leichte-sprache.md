@@ -72837,3 +72837,283 @@ Amen und Amen.
 > Vers 20: „Hier enden die Gebete Davids“: Das war wohl einmal das Ende einer älteren Sammlung von Davidpsalmen. Später kamen noch weitere Psalmen Davids dazu (z. B. Psalm 86, 101, 103, 108–110, 138–145).
 > „Isai“ war der Vater Davids. Die englische Vorlage schreibt „Jesse“.
 > Ab Psalm 73 beginnt das dritte Psalmenbuch.
+
+## Psalm 73
+#### Dennoch bleibe ich stets an dir
+
+---
+
+### Drittes Buch der Psalmen
+
+> **Was bedeutet das?**
+> Mit Psalm 73 beginnt das dritte Buch der Psalmen (Psalm 73–89).
+> Die ersten elf Psalmen dieses Buches (73–83) stammen von Asaf oder seiner Sängergruppe. Asaf war ein Musiker, den David im Tempeldienst eingesetzt hatte (1. Chronik 16,4–7). Auch Psalm 50 stammt von ihm.
+> Viele Psalmen in diesem Buch sind dunkel: Sie klagen über die Zerstörung Jerusalems und des Tempels und fragen, warum Gott das zugelassen hat.
+
+---
+
+### Ich war neidisch auf die Gottlosen (Vers 1–3)
+
+<sup>1</sup>Ein Psalm von Asaf.
+Gewiss, Gott ist gut zu Israel,
+zu denen, die ein reines Herz haben.
+<sup>2</sup>Ich aber – fast wären meine Füße gestrauchelt.
+Beinahe wären meine Schritte ausgeglitten.
+<sup>3</sup>Denn ich war neidisch auf die Überheblichen,
+als ich sah, wie gut es den Gottlosen geht.
+
+> **Was bedeutet das?**
+> Psalm 73 ist einer der wichtigsten Psalmen über die Frage: Warum geht es den Bösen gut und den Guten schlecht? Es ist dieselbe Frage wie bei Hiob.
+> Der Beter beginnt mit dem Bekenntnis: Gott ist gut. Aber dann gibt er ehrlich zu: Fast hätte ich meinen Glauben verloren.
+
+---
+
+### Wie gut es den Gottlosen geht (Vers 4–12)
+
+<sup>4</sup>Denn sie haben keine Qualen im Tod,
+sondern ihre Kraft ist fest.
+<sup>5</sup>Sie sind frei von den Mühen der Menschen,
+und sie werden nicht geplagt wie andere Menschen.
+<sup>6</sup>Darum ist der Hochmut wie eine Kette um ihren Hals.
+Gewalt bedeckt sie wie ein Gewand.
+<sup>7</sup>Ihre Augen quellen hervor vor Fett.
+Ihre Gedanken überschreiten die Grenzen der Einbildung.
+<sup>8</sup>Sie spotten und reden voller Bosheit.
+In ihrem Hochmut drohen sie mit Unterdrückung.
+<sup>9</sup>Ihren Mund haben sie in den Himmel gesetzt,
+und ihre Zunge geht über die Erde.
+<sup>10</sup>Darum wendet sich ihr Volk ihnen zu,
+und sie trinken Wasser in Fülle.
+<sup>11</sup>Sie sagen: „Wie soll Gott das wissen?
+Hat der Höchste etwa Kenntnis davon?“
+<sup>12</sup>Schau, das sind die Gottlosen.
+Immer sorglos, werden sie immer reicher.
+
+> **Was bedeutet das?**
+> Der Beter beschreibt die Gottlosen: Sie sind gesund, reich, stark. Sie haben keine Sorgen. Sie tragen ihren Stolz wie eine Halskette.
+> Vers 9: Sie reden, als ob sie über Himmel und Erde bestimmen könnten.
+> Vers 10: Viele Leute laufen ihnen nach und bewundern sie. Dieser Vers ist im Hebräischen schwer zu verstehen.
+> Vers 11: Sie denken: Gott merkt doch nichts.
+
+---
+
+### War alles umsonst? (Vers 13–16)
+
+<sup>13</sup>Gewiss, umsonst habe ich mein Herz rein gehalten
+und meine Hände in Unschuld gewaschen.
+<sup>14</sup>Denn den ganzen Tag bin ich geplagt
+und jeden Morgen gestraft.
+<sup>15</sup>Hätte ich gesagt: „So will ich reden“,
+schau, dann hätte ich die Generation deiner Kinder verraten.
+<sup>16</sup>Als ich versuchte, das zu verstehen,
+war es zu schmerzlich für mich –
+
+> **Was bedeutet das?**
+> Der Beter ist verbittert: Hat es sich überhaupt gelohnt, ehrlich zu leben? Mir geht es schlecht, obwohl ich alles richtig gemacht habe.
+> Vers 15: Aber er spricht diese Zweifel nicht laut aus. Er will andere Gläubige nicht in ihrem Glauben verunsichern.
+> Vers 16: Er kommt mit seinem Nachdenken nicht weiter. Es tut nur weh.
+
+---
+
+### Bis ich ins Heiligtum ging (Vers 17–20)
+
+<sup>17</sup>bis ich in das Heiligtum Gottes ging
+und auf ihr Ende achtete.
+<sup>18</sup>Gewiss, du stellst sie auf schlüpfrigen Boden.
+Du stürzt sie ins Verderben.
+<sup>19</sup>Wie plötzlich werden sie zerstört!
+Sie sind ganz hinweggerafft von Schrecken.
+<sup>20</sup>Wie einen Traum nach dem Erwachen,
+so verachtest du, Herr, wenn du aufwachst, ihr Trugbild.
+
+> **Was bedeutet das?**
+> Vers 17 ist der Wendepunkt des ganzen Psalms: „bis ich ins Heiligtum Gottes ging“. In der Nähe Gottes sieht der Beter die Dinge anders.
+> Er erkennt: Der Erfolg der Gottlosen ist nicht dauerhaft. Sie stehen auf rutschigem Boden. Ihr Glück ist wie ein Traum, der beim Aufwachen verschwindet.
+> Manchmal versteht man das Leben nicht durch Nachdenken allein, sondern erst in der Begegnung mit Gott.
+
+---
+
+### Ich war dumm wie ein Vieh (Vers 21–22)
+
+<sup>21</sup>Denn meine Seele war verbittert.
+Ich war in meinem Herzen gekränkt.
+<sup>22</sup>Ich war so unvernünftig und ohne Einsicht.
+Ich war wie ein Vieh vor dir.
+
+> **Was bedeutet das?**
+> Der Beter schämt sich für seine Verbitterung. Er sagt ehrlich: Ich war dumm wie ein Tier, das nur auf das Sichtbare schaut.
+
+---
+
+### Dennoch bleibe ich stets an dir (Vers 23–28)
+
+<sup>23</sup>Dennoch bin ich immer bei dir.
+Du hast meine rechte Hand gehalten.
+<sup>24</sup>Du wirst mich nach deinem Rat leiten
+und mich danach in Herrlichkeit aufnehmen.
+<sup>25</sup>Wen habe ich im Himmel außer dir?
+Neben dir begehre ich nichts auf der Erde.
+<sup>26</sup>Mein Leib und mein Herz vergehen,
+aber Gott ist die Stärke meines Herzens und mein Anteil für immer.
+<sup>27</sup>Denn schau, die sich von dir entfernen, werden umkommen.
+Du vernichtest alle, die dir untreu sind.
+<sup>28</sup>Für mich aber ist es gut, Gott nahe zu sein.
+Ich habe den Herrn, den HERRN, zu meiner Zuflucht gemacht,
+um alle deine Werke zu erzählen.
+
+> **Was bedeutet das?**
+> Vers 23 ist eines der schönsten Worte der Bibel. Martin Luther übersetzte: „Dennoch bleibe ich stets an dir.“ Trotz aller Zweifel, trotz der Verbitterung: Gott hat mich die ganze Zeit an der Hand gehalten.
+> Vers 24: „Und mich danach in Herrlichkeit aufnehmen“: Hier leuchtet die Hoffnung auf ein Leben bei Gott nach dem Tod auf.
+> Vers 25–26: Das ist die Antwort auf die Frage des Psalms. Die Gottlosen haben Reichtum. Ich habe Gott. Und das ist mehr wert als alles andere. Selbst wenn mein Körper und mein Herz vergehen, bleibt Gott.
+> Vers 28: „Gott nahe sein ist mein Glück.“ So übersetzen viele deutsche Bibeln. Das ist die Erkenntnis, die der Beter am Ende gewonnen hat.
+
+## Psalm 74
+#### Klage über den zerstörten Tempel
+
+---
+
+### Warum hast du uns verstoßen? (Vers 1–3)
+
+<sup>1</sup>Ein Lehrgedicht von Asaf.
+Gott, warum hast du uns für immer verstoßen?
+Warum raucht dein Zorn gegen die Schafe deiner Weide?
+<sup>2</sup>Denk an deine Gemeinde, die du vor langer Zeit erworben hast,
+die du erlöst hast als Stamm deines Erbes,
+an den Berg Zion, auf dem du gewohnt hast.
+<sup>3</sup>Erhebe deine Füße zu den ewigen Trümmern,
+zu all dem Bösen, das der Feind im Heiligtum getan hat.
+
+> **Was bedeutet das?**
+> Psalm 74 klagt über die Zerstörung des Tempels in Jerusalem. Wahrscheinlich ist die Zerstörung durch die Babylonier im Jahr 586 vor Christus gemeint (2. Könige 25,8–9).
+> Das Volk fühlt sich wie eine Herde, die ihr Hirte verlassen hat.
+> „Erhebe deine Füße“: Komm her und sieh dir die Trümmer an!
+
+---
+
+### Sie haben dein Heiligtum verbrannt (Vers 4–11)
+
+<sup>4</sup>Deine Gegner haben mitten in deiner Versammlungsstätte gebrüllt.
+Sie haben ihre Feldzeichen als Zeichen aufgestellt.
+<sup>5</sup>Sie benahmen sich wie Männer, die Äxte schwingen
+und ein Dickicht von Bäumen umhauen.
+<sup>6</sup>Jetzt zerschlagen sie all sein Schnitzwerk
+mit Beil und Hämmern.
+<sup>7</sup>Sie haben dein Heiligtum bis auf den Grund niedergebrannt.
+Sie haben die Wohnung deines Namens entweiht.
+<sup>8</sup>Sie sagten in ihrem Herzen: „Wir wollen sie ganz zerschmettern.“
+Sie haben alle Orte im Land verbrannt, an denen Gott angebetet wurde.
+<sup>9</sup>Wir sehen keine Wunderzeichen.
+Es gibt keinen Propheten mehr,
+und keiner unter uns weiß, wie lange.
+<sup>10</sup>Wie lange, Gott, soll der Gegner noch höhnen?
+Soll der Feind deinen Namen für immer lästern?
+<sup>11</sup>Warum ziehst du deine Hand zurück, deine rechte Hand?
+Zieh sie aus deinem Gewandbausch und vernichte sie!
+
+> **Was bedeutet das?**
+> Hier wird die Zerstörung genau beschrieben: Die Feinde brüllen im Tempel, stellen ihre Fahnen auf, zerschlagen die kunstvollen Holzschnitzereien mit Äxten und brennen alles nieder.
+> Vers 9: Das ist besonders schlimm: Es gibt keine Zeichen von Gott mehr, keinen Propheten, der sagt, wie lange es noch dauert. Gott schweigt.
+> Vers 11: Gott hält seine Hand „im Gewandbausch“ versteckt, als ob er nichts tun wolle. Der Beter bittet: Hol deine Hand heraus und greif ein!
+
+---
+
+### Du bist doch mein König von alters her (Vers 12–17)
+
+<sup>12</sup>Gott ist doch mein König von alters her,
+der Rettung schafft auf der ganzen Erde.
+<sup>13</sup>Du hast mit deiner Kraft das Meer geteilt.
+Du hast die Köpfe der Seeungeheuer im Wasser zerbrochen.
+<sup>14</sup>Du hast die Köpfe des Leviatan zerschmettert.
+Du hast ihn dem Volk der Wüstentiere zum Fraß gegeben.
+<sup>15</sup>Du hast Quelle und Bach hervorbrechen lassen.
+Du hast mächtige Ströme austrocknen lassen.
+<sup>16</sup>Dein ist der Tag, dein ist auch die Nacht.
+Du hast das Licht und die Sonne bereitet.
+<sup>17</sup>Du hast alle Grenzen der Erde festgesetzt.
+Sommer und Winter hast du gemacht.
+
+> **Was bedeutet das?**
+> Mitten in der Klage erinnert sich der Beter: Gott ist doch der König, der die Welt geschaffen und Israel gerettet hat.
+> Vers 13–14: Das Teilen des Meeres erinnert an den Auszug aus Ägypten. Die „Seeungeheuer“ und der „Leviatan“ sind Bilder für die Mächte des Chaos (vgl. Hiob 41). Manche Ausleger denken auch an Ägypten, das wie ein Ungeheuer war.
+> Vers 14: Die englische Vorlage sagt „dem Volk und den Wüstentieren“. Das hebräische Wort ist unsicher.
+> Vers 16–17: Tag und Nacht, Sommer und Winter: Gott hat die Ordnung der Welt geschaffen. Darum kann er auch jetzt wieder Ordnung schaffen.
+
+---
+
+### Vergiss deine Armen nicht (Vers 18–23)
+
+<sup>18</sup>Denk daran, HERR, dass der Feind dich verhöhnt hat,
+dass ein törichtes Volk deinen Namen gelästert hat.
+<sup>19</sup>Gib die Seele deiner Taube nicht den wilden Tieren preis!
+Vergiss das Leben deiner Armen nicht für immer!
+<sup>20</sup>Achte auf deinen Bund,
+denn die dunklen Orte der Erde sind voll von Stätten der Gewalt.
+<sup>21</sup>Lass den Unterdrückten nicht beschämt zurückkehren!
+Lass den Armen und Bedürftigen deinen Namen loben!
+<sup>22</sup>Steh auf, Gott! Führe deine eigene Sache!
+Denk daran, wie der Tor dich den ganzen Tag verhöhnt.
+<sup>23</sup>Vergiss nicht die Stimme deiner Gegner!
+Das Toben derer, die sich gegen dich erheben, steigt ständig auf.
+
+> **Was bedeutet das?**
+> Vers 19: Das Volk Israel ist wie eine wehrlose Taube unter wilden Tieren.
+> Vers 20: „Achte auf deinen Bund“: Gott hat sich an sein Volk gebunden. Der Beter erinnert Gott an sein Versprechen.
+> Vers 22: „Führe deine eigene Sache“: Es geht nicht nur um Israel, sondern um Gottes Ehre. Die Feinde verspotten Gott selbst.
+> Der Psalm endet ohne Antwort. Er lässt die Klage offen stehen. Juden beten diesen Psalm bis heute in Erinnerung an die Zerstörung des Tempels.
+
+## Psalm 75
+#### Gott ist Richter
+
+---
+
+### Wir danken dir (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Verdirb nicht“. Ein Psalm von Asaf. Ein Lied.
+Wir danken dir, Gott.
+Wir danken dir, denn dein Name ist nahe.
+Die Menschen erzählen von deinen Wundern.
+<sup>2</sup>„Wenn ich die festgesetzte Zeit wähle,
+werde ich gerecht richten.
+<sup>3</sup>Die Erde und alle ihre Bewohner wanken.
+Ich halte ihre Säulen fest.“
+Sela.
+
+> **Was bedeutet das?**
+> Nach der Klage in Psalm 74 kommt hier eine Antwort: Gott wird richten, aber zu seiner Zeit.
+> In Vers 2–3 spricht Gott selbst: Ich bestimme den Zeitpunkt. Auch wenn alles wankt, halte ich die Welt fest wie ein Haus, dessen Säulen ich stütze.
+
+---
+
+### Prahlt nicht! (Vers 4–8)
+
+<sup>4</sup>Ich sagte zu den Überheblichen: „Prahlt nicht!“
+Und zu den Gottlosen: „Erhebt das Horn nicht!
+<sup>5</sup>Erhebt euer Horn nicht so hoch!
+Redet nicht mit steifem Nacken!“
+<sup>6</sup>Denn weder vom Osten noch vom Westen
+noch aus der Wüste im Süden kommt die Erhöhung.
+<sup>7</sup>Sondern Gott ist Richter.
+Den einen erniedrigt er, den anderen erhöht er.
+<sup>8</sup>Denn in der Hand des HERRN ist ein Becher
+voll schäumendem Wein, mit Gewürzen gemischt.
+Er schenkt davon aus.
+Ja, die Gottlosen der Erde trinken und trinken ihn bis zur Hefe aus.
+
+> **Was bedeutet das?**
+> „Das Horn erheben“: wie ein Stier, der stolz und angriffslustig den Kopf hebt. Ein Bild für Hochmut und Macht.
+> „Mit steifem Nacken reden“: stur, überheblich.
+> Vers 6–7: Erfolg und Ansehen kommen nicht aus irgendeiner Himmelsrichtung, sondern von Gott. Er setzt Mächtige ab und erhöht Niedrige (vgl. 1. Samuel 2,7; Lukas 1,52).
+> Vers 8: Der Becher ist ein Bild für Gottes Gericht. Die Gottlosen müssen ihn bis auf den letzten Rest austrinken.
+
+---
+
+### Ich will singen (Vers 9–10)
+
+<sup>9</sup>Ich aber will es für immer verkünden.
+Ich will dem Gott Jakobs Lob singen.
+<sup>10</sup>Alle Hörner der Gottlosen will ich abhauen,
+aber die Hörner der Gerechten sollen erhoben werden.
+
+> **Was bedeutet das?**
+> Der Beter verspricht, Gott für immer zu loben.
+> Vers 10: Wer hier spricht, ist wohl wieder Gott selbst oder der König in seinem Auftrag. Die Macht der Gottlosen wird gebrochen, die der Gerechten wird gestärkt.
