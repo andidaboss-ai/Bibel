@@ -33,7 +33,7 @@ und in Sünde hat meine Mutter mich empfangen.
 
 [6] Schau, du hast Gefallen an Wahrheit im Innersten.
 Im Verborgenen lehrst du mich Weisheit.
-[7] Entsündige mich mit Ysop, dann werde ich rein.
+[7] Reinige mich mit Ysop, dann werde ich rein.
 Wasch mich, dann werde ich weißer als Schnee.
 [8] Lass mich Freude und Fröhlichkeit hören,
 damit die Knochen jubeln, die du zerschlagen hast.
@@ -51,7 +51,7 @@ und tilge alle meine Verschuldungen!
 ## Ein reines Herz (Vers 10–13)
 
 [10] Schaffe in mir ein reines Herz, Gott,
-und erneuere in mir einen beständigen Geist!
+und erneuere in mir einen aufrichtigen Geist!
 [11] Verstoß mich nicht von deinem Angesicht,
 und nimm deinen heiligen Geist nicht von mir!
 [12] Gib mir die Freude deines Heils wieder,
