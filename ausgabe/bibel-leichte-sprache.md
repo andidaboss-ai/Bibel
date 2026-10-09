@@ -85037,3 +85037,393 @@ und der Libanon wird durch den Mächtigen fallen.
 > Ein spannender Bericht wie eine Live-Reportage: Das feindliche Heer marschiert von Norden auf Jerusalem zu, Ort für Ort, immer näher. Die Dörfer fliehen in Panik. Schließlich steht der Feind in Nob, direkt vor Jerusalem, und droht mit der Faust.
 > Vers 33–34: Doch dann die Wende: Gott selbst fällt diesen mächtigen „Wald“ wie ein Holzfäller. Der stolze Feind stürzt.
 > Im nächsten Kapitel geht es weiter: Aus dem gefällten Baumstumpf Isais wächst ein neuer Spross (Kapitel 11,1).
+
+## Jesaja – Kapitel 11
+#### Der Spross aus dem Stamm Isais
+
+---
+
+### Ein neuer König (Vers 1–5)
+
+<sup>1</sup>Ein Reis wird hervorgehen aus dem Stumpf Isais,
+und ein Zweig aus seinen Wurzeln wird Frucht bringen.
+<sup>2</sup>Der Geist des HERRN wird auf ihm ruhen:
+der Geist der Weisheit und des Verstandes,
+der Geist des Rates und der Stärke,
+der Geist der Erkenntnis und der Ehrfurcht vor dem HERRN.
+<sup>3</sup>Seine Freude wird an der Ehrfurcht vor dem HERRN sein.
+Er wird nicht nach dem urteilen, was seine Augen sehen,
+und nicht entscheiden nach dem, was seine Ohren hören,
+<sup>4</sup>sondern er wird die Armen in Gerechtigkeit richten
+und für die Demütigen der Erde nach Recht entscheiden.
+Er wird die Erde schlagen mit dem Stab seines Mundes,
+und mit dem Hauch seiner Lippen wird er den Gottlosen töten.
+<sup>5</sup>Gerechtigkeit wird der Gürtel um seine Hüften sein
+und Treue der Gürtel um seine Lenden.
+
+> **Was bedeutet das?**
+> Vers 1: Isai war der Vater von König David. Die Königsfamilie Davids ist wie ein gefällter Baum, nur noch ein Stumpf ist übrig. Aber aus diesem Stumpf wächst ein neuer, frischer Trieb.
+> Das Lied „Es ist ein Ros entsprungen aus einer Wurzel zart … von Jesse kam die Art“ bezieht sich auf diesen Vers. „Jesse“ ist die lateinische Form von Isai.
+> Vers 2: Gottes Geist ruht auf diesem neuen König mit allen guten Gaben: Weisheit, Verstand, Rat, Stärke, Erkenntnis, Ehrfurcht. In der christlichen Tradition spricht man von den „Gaben des Heiligen Geistes“.
+> Vers 3–4: Er urteilt nicht nach dem äußeren Schein, sondern gerecht. Vor allem schafft er den Armen und Demütigen Recht.
+> „Mit dem Stab seines Mundes“: Er braucht keine Waffen. Sein Wort allein genügt, um das Böse zu besiegen.
+> Juden erwarten diesen König als den Messias. Christen sehen in Jesus diesen Spross aus der Familie Davids.
+
+---
+
+### Der Wolf wohnt beim Lamm (Vers 6–9)
+
+<sup>6</sup>Der Wolf wird beim Lamm wohnen,
+und der Leopard wird beim Böckchen liegen,
+das Kalb und der junge Löwe und das Mastvieh zusammen,
+und ein kleiner Junge wird sie führen.
+<sup>7</sup>Kuh und Bärin werden zusammen weiden.
+Ihre Jungen werden zusammen liegen.
+Der Löwe wird Stroh fressen wie das Rind.
+<sup>8</sup>Der Säugling wird am Loch der Kobra spielen,
+und das entwöhnte Kind wird seine Hand
+in die Höhle der Viper stecken.
+<sup>9</sup>Man wird nichts Böses tun und nichts zerstören
+auf meinem ganzen heiligen Berg,
+denn die Erde wird voll sein von der Erkenntnis des HERRN,
+so wie die Wasser das Meer bedecken.
+
+> **Was bedeutet das?**
+> Eines der schönsten Bilder der Bibel: das Paradies auf Erden. Raubtiere und ihre Beute leben friedlich zusammen. Ein kleines Kind kann ohne Angst mit Schlangen spielen.
+> Die Feindschaft, die seit dem Sündenfall zwischen Mensch und Schlange besteht (1. Mose 3,15), ist vorbei.
+> Vers 9: Der Grund für diesen Frieden: Alle Menschen kennen Gott. Seine Erkenntnis füllt die Erde so, wie Wasser das Meer füllt.
+> Dieses Bild steht für eine Welt ohne Gewalt, ohne Angst, ohne Krieg. Es ist eine Hoffnung, die uns heute schon anspornen kann, für Frieden einzutreten.
+
+---
+
+### Gott sammelt sein Volk (Vers 10–16)
+
+<sup>10</sup>An jenem Tag wird es geschehen,
+dass die Nationen die Wurzel Isais suchen werden,
+die als Banner für die Völker dasteht,
+und ihr Ruheort wird herrlich sein.
+<sup>11</sup>An jenem Tag wird es geschehen,
+dass der Herr ein zweites Mal seine Hand ausstreckt,
+um den Rest seines Volkes zurückzuholen, der übrig geblieben ist,
+aus Assyrien, aus Ägypten, aus Patros, aus Kusch,
+aus Elam, aus Schinar, aus Hamat und von den Inseln des Meeres.
+<sup>12</sup>Er wird ein Banner für die Nationen aufrichten
+und die Vertriebenen Israels versammeln
+und die Zerstreuten Judas sammeln
+von den vier Enden der Erde.
+<sup>13</sup>Auch der Neid Ephraims wird weichen,
+und die Feinde Judas werden ausgerottet.
+Ephraim wird Juda nicht beneiden,
+und Juda wird Ephraim nicht bedrängen.
+<sup>14</sup>Sie werden im Westen auf die Schultern der Philister herabstoßen.
+Zusammen werden sie die Söhne des Ostens ausplündern.
+Sie werden ihre Macht über Edom und Moab ausdehnen,
+und die Ammoniter werden ihnen gehorchen.
+<sup>15</sup>Der HERR wird die Zunge des ägyptischen Meeres völlig austrocknen.
+Mit seinem glühenden Wind wird er seine Hand über den Strom schwingen
+und ihn in sieben Bäche spalten,
+sodass man mit Sandalen hindurchgehen kann.
+<sup>16</sup>Es wird eine gebahnte Straße geben für den Rest seines Volkes,
+der übrig bleibt aus Assyrien,
+so wie es eine gab für Israel an dem Tag,
+an dem es aus dem Land Ägypten heraufzog.
+
+> **Was bedeutet das?**
+> Vers 10: Der neue König aus der „Wurzel Isais“ wird wie eine Fahne sein, die alle Völker anzieht. Paulus zitiert diesen Vers: Auch die Völker werden auf ihn hoffen (Römer 15,12).
+> Vers 11–12: Gott wird sein zerstreutes Volk aus allen Ländern zurückholen, aus allen „vier Ecken der Erde“. Patros ist Oberägypten, Kusch ist das heutige Sudan, Elam liegt im heutigen Iran, Schinar ist Babylonien.
+> Vers 13: Das zerstrittene Volk, das Nordreich (Ephraim) und das Südreich (Juda), wird wieder versöhnt.
+> Vers 14: Hier spricht die Sprache der damaligen Zeit von Sieg über die Nachbarvölker. Das ist keine Erlaubnis für Eroberungen heute. Im Zusammenhang des Kapitels geht es um Gottes Friedensreich (Vers 6–9).
+> Vers 15–16: Wie damals beim Auszug aus Ägypten wird Gott einen Weg bahnen, einen neuen Exodus.
+
+## Jesaja – Kapitel 12
+#### Ein Danklied
+
+---
+
+### Gott ist mein Heil (Vers 1–6)
+
+<sup>1</sup>An jenem Tag wirst du sagen:
+„Ich danke dir, HERR,
+denn obwohl du zornig auf mich warst,
+hat sich dein Zorn abgewendet, und du tröstest mich.
+<sup>2</sup>Siehe, Gott ist mein Heil.
+Ich vertraue und fürchte mich nicht,
+denn Jah, der HERR, ist meine Stärke und mein Lied,
+und er ist mein Heil geworden.“
+<sup>3</sup>Darum werdet ihr mit Freude Wasser schöpfen
+aus den Quellen des Heils.
+<sup>4</sup>An jenem Tag werdet ihr sagen:
+„Dankt dem HERRN! Ruft seinen Namen an!
+Macht seine Taten unter den Völkern bekannt!
+Verkündet, dass sein Name erhaben ist!
+<sup>5</sup>Singt dem HERRN, denn er hat Herrliches getan!
+Das soll auf der ganzen Erde bekannt werden!
+<sup>6</sup>Jauchze und juble, du Bewohnerin Zions,
+denn groß ist in deiner Mitte der Heilige Israels!“
+
+> **Was bedeutet das?**
+> Dieses kurze Danklied schließt den ersten großen Teil des Buches ab (Kapitel 1–12). Nach Gericht und Not kommt am Ende Lob und Freude.
+> Vers 1: Gottes Zorn ist nicht das letzte Wort. Er tröstet wieder.
+> Vers 2: „Der HERR ist meine Stärke und mein Lied“: Diese Worte kommen auch im Lied des Mose nach dem Durchzug durch das Meer vor (2. Mose 15,2).
+> Vers 3: „Wasser schöpfen aus den Quellen des Heils“: Ein schönes Bild für die Freude über Gottes Hilfe. Beim jüdischen Laubhüttenfest wurde früher Wasser geschöpft. Bis heute singt man in Israel ein fröhliches Lied mit diesem Vers: „U-sch'avtem majim be-sason“.
+> Vers 6: Das Schönste: Der heilige Gott wohnt mitten unter seinem Volk.
+
+## Jesaja – Kapitel 13
+#### Das Gericht über Babylon
+
+---
+
+### Der Tag des HERRN kommt (Vers 1–16)
+
+<sup>1</sup>Die Last über Babylon, die Jesaja, der Sohn von Amoz, sah.
+<sup>2</sup>Richtet ein Feldzeichen auf dem kahlen Berg auf!
+Erhebt eure Stimme zu ihnen!
+Winkt mit der Hand, damit sie durch die Tore der Fürsten einziehen!
+<sup>3</sup>Ich habe meinen Geweihten befohlen.
+Ja, ich habe meine Helden für meinen Zorn gerufen,
+meine stolz Jubelnden.
+<sup>4</sup>Der Lärm einer Menge ist auf den Bergen,
+wie von einem großen Volk.
+Der Lärm des Getöses der Königreiche,
+der versammelten Nationen!
+Der HERR der Heere mustert das Heer für den Kampf.
+<sup>5</sup>Sie kommen aus einem fernen Land,
+vom äußersten Ende des Himmels,
+der HERR und die Werkzeuge seines Grimms,
+um das ganze Land zu verderben.
+<sup>6</sup>Heult, denn der Tag des HERRN ist nahe!
+Er kommt wie eine Verwüstung vom Allmächtigen.
+<sup>7</sup>Darum werden alle Hände schlaff,
+und das Herz jedes Menschen wird verzagen.
+<sup>8</sup>Sie werden bestürzt sein.
+Krämpfe und Schmerzen werden sie ergreifen.
+Sie werden sich winden wie eine Frau in den Wehen.
+Sie werden einander entsetzt anstarren.
+Ihre Gesichter werden wie Flammen glühen.
+<sup>9</sup>Siehe, der Tag des HERRN kommt,
+grausam, mit Grimm und glühendem Zorn,
+um das Land zur Wüste zu machen
+und seine Sünder daraus zu vertilgen.
+<sup>10</sup>Denn die Sterne des Himmels und seine Sternbilder
+werden ihr Licht nicht leuchten lassen.
+Die Sonne wird bei ihrem Aufgang verfinstert sein,
+und der Mond wird sein Licht nicht scheinen lassen.
+<sup>11</sup>Ich werde die Welt für ihre Bosheit bestrafen
+und die Gottlosen für ihre Schuld.
+Ich werde den Hochmut der Stolzen beenden
+und die Überheblichkeit der Gewalttätigen erniedrigen.
+<sup>12</sup>Ich werde die Menschen seltener machen als Feingold,
+einen Menschen seltener als das reine Gold von Ofir.
+<sup>13</sup>Darum werde ich den Himmel erzittern lassen,
+und die Erde wird von ihrem Platz gerüttelt werden
+im Grimm des HERRN der Heere
+und am Tag seines glühenden Zorns.
+<sup>14</sup>Es wird geschehen: Wie eine gejagte Gazelle
+und wie Schafe, die niemand sammelt,
+so wird jeder sich zu seinem Volk wenden
+und jeder in sein Land fliehen.
+<sup>15</sup>Jeder, der gefunden wird, wird durchbohrt werden.
+Jeder, der gefangen wird, wird durch das Schwert fallen.
+<sup>16</sup>Auch ihre kleinen Kinder werden vor ihren Augen zerschmettert werden.
+Ihre Häuser werden geplündert und ihre Frauen vergewaltigt werden.
+
+> **Was bedeutet das?**
+> Ab Kapitel 13 beginnen Worte über fremde Völker (bis Kapitel 23). Das erste richtet sich gegen Babylon, das größte und stolzeste Reich.
+> „Die Last“: So heißen prophetische Worte über Völker. Eine schwere Botschaft, die der Prophet tragen muss.
+> Vers 6–13: Der „Tag des HERRN“ wird beschrieben wie ein Weltuntergang: Sonne, Mond und Sterne werden dunkel, die Erde bebt. Das ist Bildsprache für einen gewaltigen Umsturz. Jesus benutzt ähnliche Bilder (Matthäus 24,29).
+> Vers 15–16: Diese Verse sind entsetzlich. Sie beschreiben, was im Krieg damals mit den Besiegten geschah: Kinder wurden getötet, Frauen vergewaltigt. Der Prophet beschönigt nichts.
+> Wichtig: Diese Verse beschreiben die Grausamkeit des Krieges. Sie sind keine Erlaubnis und keine Billigung. Gewalt gegen Kinder und Vergewaltigung sind immer schwere Verbrechen, im Krieg wie im Frieden. Heute sind sie nach dem Völkerrecht Kriegsverbrechen.
+> Wer selbst sexuelle Gewalt erlebt hat: Das Hilfetelefon „Sexueller Missbrauch“ ist erreichbar unter 0800 22 55 530, das Hilfetelefon „Gewalt gegen Frauen“ unter 116 016.
+
+---
+
+### Die Meder kommen (Vers 17–22)
+
+<sup>17</sup>Siehe, ich werde die Meder gegen sie aufwecken,
+die das Silber nicht achten
+und am Gold keinen Gefallen haben.
+<sup>18</sup>Ihre Bogen werden die jungen Männer zerschmettern.
+Mit der Frucht des Mutterleibes werden sie kein Erbarmen haben.
+Ihr Auge wird die Kinder nicht verschonen.
+<sup>19</sup>Babylon, die Zierde der Königreiche,
+der stolze Schmuck der Chaldäer,
+wird sein wie damals, als Gott Sodom und Gomorra zerstörte.
+<sup>20</sup>Es wird nie mehr bewohnt werden,
+und niemand wird dort wohnen von Generation zu Generation.
+Der Araber wird dort kein Zelt aufschlagen,
+und die Hirten werden dort ihre Herden nicht lagern lassen.
+<sup>21</sup>Sondern Wüstentiere werden dort lagern,
+und ihre Häuser werden voll von Schakalen sein.
+Strauße werden dort wohnen,
+und wilde Ziegen werden dort herumspringen.
+<sup>22</sup>Hyänen werden in ihren Festungen heulen
+und Schakale in den prächtigen Palästen.
+Ihre Zeit ist nahe,
+und ihre Tage werden nicht verlängert werden.
+
+> **Was bedeutet das?**
+> Vers 17: Die Meder lebten im heutigen Iran. Zusammen mit den Persern eroberten sie im Jahr 539 vor Christus Babylon. Sie lassen sich nicht mit Geld bestechen.
+> Vers 18: Wieder eine Beschreibung schrecklicher Kriegsgewalt. Auch hier gilt: Das ist keine Billigung, sondern eine Schilderung, wie grausam Kriege sind.
+> Vers 19–22: Das prächtige Babylon wird zur Ruine, in der nur noch wilde Tiere hausen. Tatsächlich verfiel die Stadt im Lauf der Jahrhunderte. Heute sind nur noch Ruinen im Irak zu sehen.
+> Die Botschaft: Auch das mächtigste Reich der Welt vergeht, wenn es stolz und grausam ist.
+
+## Jesaja – Kapitel 14
+#### Wie bist du vom Himmel gefallen!
+
+---
+
+### Gott erbarmt sich Israels (Vers 1–4)
+
+<sup>1</sup>Denn der HERR wird sich über Jakob erbarmen,
+Israel wieder erwählen
+und sie in ihr eigenes Land setzen.
+Der Fremde wird sich ihnen anschließen,
+und sie werden sich dem Haus Jakob zugesellen.
+<sup>2</sup>Die Völker werden sie nehmen
+und an ihren Ort bringen.
+Das Haus Israel wird sie im Land des HERRN
+als Knechte und Mägde besitzen.
+Sie werden die gefangen nehmen, deren Gefangene sie waren,
+und sie werden über ihre Unterdrücker herrschen.
+<sup>3</sup>Es wird geschehen an dem Tag,
+an dem der HERR dir Ruhe gibt von deinem Schmerz,
+von deiner Unruhe und von dem harten Dienst,
+den man dich leisten ließ,
+<sup>4</sup>dass du dieses Spottlied gegen den König von Babel anstimmen wirst
+und sagen wirst:
+„Wie hat der Unterdrücker ein Ende gefunden!
+Die goldene Stadt hat ein Ende gefunden!“
+
+> **Was bedeutet das?**
+> Nach dem Gericht über Babylon kommt die Befreiung für Israel. Gott holt sein Volk zurück in sein Land.
+> Vers 1: Bemerkenswert: Auch Fremde werden sich Israel anschließen. Gottes Volk ist offen für andere.
+> Vers 2: Die Rollen werden umgedreht: Die früher Unterdrückten herrschen nun über ihre Unterdrücker. Das ist die Sprache der damaligen Zeit. Die Bibel zeigt aber auch, dass Gott kein neues Unrecht will (vgl. 3. Mose 19,33–34: Den Fremden sollst du lieben wie dich selbst).
+
+---
+
+### Spottlied auf den König von Babel (Vers 5–21)
+
+<sup>5</sup>Der HERR hat den Stock der Gottlosen zerbrochen,
+das Zepter der Herrscher,
+<sup>6</sup>die die Völker im Grimm schlugen
+mit unaufhörlichen Schlägen,
+die die Nationen im Zorn beherrschten
+mit einer Verfolgung, die niemand aufhielt.
+<sup>7</sup>Die ganze Erde hat Ruhe und ist still.
+Sie brechen in Jubel aus.
+<sup>8</sup>Ja, auch die Zypressen freuen sich über dich
+und die Zedern des Libanon und sagen:
+„Seit du niedergelegt bist,
+kommt kein Holzfäller mehr zu uns herauf.“
+<sup>9</sup>Das Totenreich unten gerät in Bewegung deinetwegen,
+um dir bei deiner Ankunft entgegenzugehen.
+Es weckt die Geister der Toten für dich,
+alle Gewaltigen der Erde.
+Es lässt alle Könige der Völker von ihren Thronen aufstehen.
+<sup>10</sup>Sie alle werden antworten und dich fragen:
+„Bist auch du so schwach geworden wie wir?
+Bist du uns gleich geworden?“
+<sup>11</sup>Deine Pracht ist ins Totenreich hinabgestürzt,
+mit dem Klang deiner Harfen.
+Maden sind unter dir ausgebreitet,
+und Würmer bedecken dich.
+<sup>12</sup>Wie bist du vom Himmel gefallen,
+du Glänzender, Sohn der Morgenröte!
+Wie bist du zu Boden geschmettert,
+der du die Völker niedergeworfen hast!
+<sup>13</sup>Du sagtest in deinem Herzen:
+„Ich will in den Himmel hinaufsteigen!
+Über die Sterne Gottes will ich meinen Thron erheben!
+Ich will mich auf den Berg der Versammlung setzen,
+im äußersten Norden!
+<sup>14</sup>Ich will über die Höhen der Wolken steigen!
+Ich will mich dem Höchsten gleichmachen!“
+<sup>15</sup>Doch du wirst ins Totenreich hinabgestürzt,
+in die Tiefen der Grube.
+<sup>16</sup>Die dich sehen, werden dich anstarren.
+Sie werden über dich nachdenken und sagen:
+„Ist das der Mann, der die Erde erzittern ließ,
+der Königreiche erschütterte,
+<sup>17</sup>der die Welt zur Wüste machte
+und ihre Städte zerstörte,
+der seine Gefangenen nicht nach Hause entließ?“
+<sup>18</sup>Alle Könige der Völker liegen in Ehren,
+jeder in seinem eigenen Grab.
+<sup>19</sup>Du aber bist von deinem Grab weggeworfen
+wie ein verabscheuter Zweig,
+bedeckt mit Erschlagenen, die vom Schwert durchbohrt sind,
+die zu den Steinen der Grube hinabfahren,
+wie eine zertretene Leiche.
+<sup>20</sup>Du wirst nicht mit ihnen im Grab vereint sein,
+denn du hast dein Land zerstört.
+Du hast dein Volk getötet.
+Die Nachkommen der Übeltäter werden nie mehr genannt werden.
+<sup>21</sup>Bereitet seinen Söhnen die Schlachtbank
+wegen der Schuld ihrer Väter,
+damit sie nicht aufstehen und die Erde in Besitz nehmen
+und die Oberfläche der Welt mit Städten füllen.
+
+> **Was bedeutet das?**
+> Ein bitterböses Spottlied auf den Tyrannen von Babel.
+> Vers 7–8: Als er stirbt, atmet die ganze Welt auf. Sogar die Bäume freuen sich, weil keiner mehr kommt, um sie für Kriegsmaschinen zu fällen.
+> Vers 9–11: Im Totenreich empfangen ihn die anderen toten Könige spöttisch: Jetzt bist du auch so schwach wie wir! Statt auf Seide liegt er auf Maden.
+> Vers 12: „Du Glänzender, Sohn der Morgenröte“: der Morgenstern, der hell leuchtet und dann verblasst. Die lateinische Bibel übersetzte das mit „Lucifer“ (Lichtträger). Später hat man diesen Vers auf den Sturz des Teufels bezogen. Im Text selbst geht es um den hochmütigen König von Babel.
+> Vers 13–14: Sein Hochmut kannte keine Grenzen: Er wollte sein wie Gott. Darum stürzt er so tief.
+> Vers 18–20: Andere Könige bekommen ein ehrenvolles Grab, er nicht. Weil er sein eigenes Volk getötet hat.
+> Vers 21: Ein harter Vers über die Söhne des Tyrannen. Er drückt aus: Seine Gewaltherrschaft soll nicht weitergehen. Das ist keine Erlaubnis, Kinder für die Taten ihrer Eltern zu bestrafen. Die Bibel sagt an anderer Stelle klar: Kinder sollen nicht für die Schuld ihrer Väter sterben (5. Mose 24,16; Hesekiel 18,20).
+
+---
+
+### Gottes Plan steht fest (Vers 22–27)
+
+<sup>22</sup>„Ich will mich gegen sie erheben“, spricht der HERR der Heere,
+„und von Babel Namen und Rest ausrotten,
+Sohn und Enkel“, spricht der HERR.
+<sup>23</sup>„Ich will es auch zum Besitz für den Igel machen
+und zu Wassertümpeln.
+Ich will es mit dem Besen der Vernichtung wegfegen“,
+spricht der HERR der Heere.
+<sup>24</sup>Der HERR der Heere hat geschworen und gesagt:
+„Gewiss, wie ich es mir gedacht habe, so wird es geschehen,
+und wie ich es beschlossen habe, so wird es bestehen:
+<sup>25</sup>Ich werde Assyrien in meinem Land zerbrechen
+und es auf meinen Bergen zertreten.
+Dann wird sein Joch von ihnen weichen
+und seine Last von ihren Schultern.
+<sup>26</sup>Das ist der Plan, der über die ganze Erde beschlossen ist.
+Das ist die Hand, die über alle Nationen ausgestreckt ist.
+<sup>27</sup>Denn der HERR der Heere hat es beschlossen,
+und wer kann es verhindern?
+Seine Hand ist ausgestreckt,
+und wer kann sie zurückwenden?“
+
+> **Was bedeutet das?**
+> Babylon wird zur Wildnis, nur noch Igel und Wassertümpel bleiben.
+> Vers 24–27: Auch Assyrien wird zerbrochen. Gott hat einen Plan für die ganze Welt. Kein Mensch und keine Macht kann ihn aufhalten.
+> Assyrien wurde tatsächlich im Jahr 701 vor Christus vor Jerusalem zurückgeschlagen (Kapitel 37) und brach etwa hundert Jahre später zusammen.
+
+---
+
+### Freu dich nicht zu früh, Philistäa (Vers 28–32)
+
+<sup>28</sup>Diese Last kam in dem Jahr, in dem König Ahas starb.
+<sup>29</sup>Freu dich nicht, ganz Philistäa,
+dass der Stock zerbrochen ist, der dich schlug,
+denn aus der Wurzel der Schlange wird eine Otter hervorkommen,
+und ihre Frucht wird ein fliegender Feuerdrache sein.
+<sup>30</sup>Die Erstgeborenen der Armen werden weiden,
+und die Bedürftigen werden sicher lagern.
+Aber deine Wurzel werde ich durch Hunger töten,
+und deinen Rest wird man erschlagen.
+<sup>31</sup>Heule, Tor! Schreie, Stadt!
+Verzagt, ganz Philistäa!
+Denn von Norden kommt Rauch,
+und in seinen Reihen gibt es keinen Nachzügler.
+<sup>32</sup>Was soll man den Boten des Volkes antworten?
+Dass der HERR Zion gegründet hat
+und dass die Elenden seines Volkes darin Zuflucht finden.
+
+> **Was bedeutet das?**
+> Die Philister freuen sich, weil ein Feind gestorben ist. Aber Jesaja warnt: Freut euch nicht zu früh! Ein noch gefährlicherer Feind wird kommen.
+> Vers 29: „Eine Otter“ und „ein fliegender Feuerdrache“ sind Bilder für immer gefährlichere Feinde.
+> Vers 30 und 32: Mitten im Gericht eine Hoffnung: Die Armen werden sicher sein. In Zion, bei Gott, finden die Elenden Zuflucht.
