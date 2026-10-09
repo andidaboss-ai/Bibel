@@ -76303,7 +76303,7 @@ An den Gerechten wird man für immer denken.
 <sup>7</sup>Er fürchtet sich nicht vor schlechten Nachrichten.
 Sein Herz ist fest. Er vertraut auf den HERRN.
 <sup>8</sup>Sein Herz ist gefestigt.
-Er wird sich nicht fürchten, bis er auf seine Gegner herabsieht.
+Er wird sich am Ende nicht fürchten, wenn er seine Gegner sieht.
 <sup>9</sup>Er hat ausgestreut, er hat den Armen gegeben.
 Seine Gerechtigkeit bleibt für immer.
 Sein Horn wird erhoben in Ehren.

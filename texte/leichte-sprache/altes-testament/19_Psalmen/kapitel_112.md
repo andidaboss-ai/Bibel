@@ -31,7 +31,7 @@ An den Gerechten wird man für immer denken.
 [7] Er fürchtet sich nicht vor schlechten Nachrichten.
 Sein Herz ist fest. Er vertraut auf den HERRN.
 [8] Sein Herz ist gefestigt.
-Er wird sich nicht fürchten, bis er auf seine Gegner herabsieht.
+Er wird sich am Ende nicht fürchten, wenn er seine Gegner sieht.
 [9] Er hat ausgestreut, er hat den Armen gegeben.
 Seine Gerechtigkeit bleibt für immer.
 Sein Horn wird erhoben in Ehren.
