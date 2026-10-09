@@ -94608,3 +94608,375 @@ spricht der HERR,
 > Vers 18: Jeremias Antwort: Wenn ihr echte Propheten seid, dann betet lieber dafür, dass nicht auch noch der Rest weggenommen wird!
 > Vers 19: Die „Säulen“ (Jachin und Boas), das „Meer“ (ein riesiges Wasserbecken aus Bronze) und die „Gestelle“ waren große Bronzegegenstände im Tempel (1. Könige 7).
 > Vers 22: Aber auch hier gibt es Hoffnung: Gott wird die Geräte eines Tages zurückbringen. Das geschah tatsächlich unter König Kyrus (Esra 1,7–11).
+
+## Jeremia – Kapitel 28
+#### Jeremia und der Prophet Hananja
+
+---
+
+### Hananja zerbricht das Joch (Vers 1–11)
+
+<sup>1</sup>In demselben Jahr, am Anfang der Herrschaft Zidkijas, des Königs von Juda,
+im vierten Jahr, im fünften Monat,
+sagte Hananja, der Sohn Asurs, der Prophet aus Gibeon,
+im Haus des HERRN zu mir,
+vor den Augen der Priester und des ganzen Volkes:
+<sup>2</sup>„So spricht der HERR der Heere, der Gott Israels:
+‚Ich habe das Joch des Königs von Babel zerbrochen.
+<sup>3</sup>Innerhalb von zwei Jahren
+werde ich alle Geräte des Hauses des HERRN an diesen Ort zurückbringen,
+die Nebukadnezar, der König von Babel, von diesem Ort weggenommen
+und nach Babel gebracht hat.
+<sup>4</sup>Und Jechonja, den Sohn Jojakims, den König von Juda,
+und alle Gefangenen aus Juda, die nach Babel gekommen sind,
+werde ich an diesen Ort zurückbringen‘, spricht der HERR,
+‚denn ich werde das Joch des Königs von Babel zerbrechen.‘“
+<sup>5</sup>Da sagte der Prophet Jeremia zum Propheten Hananja
+vor den Augen der Priester und des ganzen Volkes,
+das im Haus des HERRN stand,
+<sup>6</sup>ja, der Prophet Jeremia sagte:
+„Amen! So möge der HERR tun!
+Der HERR möge deine Worte erfüllen, die du geweissagt hast,
+dass er die Geräte des Hauses des HERRN
+und alle Gefangenen aus Babel an diesen Ort zurückbringt.
+<sup>7</sup>Doch höre jetzt dieses Wort, das ich vor deinen Ohren
+und vor den Ohren des ganzen Volkes rede:
+<sup>8</sup>Die Propheten, die vor mir und vor dir von alters her gewesen sind,
+haben gegen viele Länder und gegen große Königreiche geweissagt
+von Krieg, von Unheil und von Pest.
+<sup>9</sup>Der Prophet aber, der von Frieden weissagt,
+wird daran erkannt, dass das Wort des Propheten eintrifft.
+Dann weiß man, dass der HERR ihn wirklich gesandt hat.“
+<sup>10</sup>Da nahm der Prophet Hananja die Jochstange
+vom Nacken des Propheten Jeremia und zerbrach sie.
+<sup>11</sup>Und Hananja sagte vor den Augen des ganzen Volkes:
+„So spricht der HERR:
+‚Genauso werde ich innerhalb von zwei Jahren
+das Joch Nebukadnezars, des Königs von Babel,
+vom Nacken aller Nationen zerbrechen.‘“
+Da ging der Prophet Jeremia seines Weges.
+
+> **Was bedeutet das?**
+> Ein Prophet gegen einen Propheten: Hananja sagt im Namen Gottes das Gegenteil von Jeremia: In zwei Jahren ist alles vorbei!
+> Vers 6: Jeremias Antwort ist erstaunlich: „Amen! Ich wünschte, du hättest recht!“ Jeremia will das Unglück nicht. Er wäre froh, wenn Hananja recht hätte.
+> Vers 8–9: Aber Jeremia gibt zu bedenken: Die echten Propheten früher haben meistens vor Unheil gewarnt. Wer Frieden verspricht, muss erst beweisen, dass er recht hat. Ob ein Prophet wirklich von Gott kommt, zeigt sich daran, ob sein Wort eintrifft (vgl. 5. Mose 18,22).
+> Vers 10–11: Hananja zerbricht vor allen Leuten Jeremias Holzjoch. Eine starke Geste.
+> Vers 11: Jeremia streitet nicht weiter. Er geht still weg. Manchmal ist es klüger, nicht sofort zu antworten.
+
+---
+
+### Ein Joch aus Eisen (Vers 12–17)
+
+<sup>12</sup>Da kam das Wort des HERRN zu Jeremia,
+nachdem der Prophet Hananja die Jochstange
+vom Nacken des Propheten Jeremia zerbrochen hatte:
+<sup>13</sup>„Geh und sag zu Hananja:
+‚So spricht der HERR:
+„Jochstangen aus Holz hast du zerbrochen,
+aber an ihrer Stelle hast du Jochstangen aus Eisen gemacht.“
+<sup>14</sup>Denn so spricht der HERR der Heere, der Gott Israels:
+„Ein eisernes Joch habe ich auf den Nacken all dieser Nationen gelegt,
+damit sie Nebukadnezar, dem König von Babel, dienen,
+und sie werden ihm dienen.
+Auch die Tiere des Feldes habe ich ihm gegeben.“‘“
+<sup>15</sup>Da sagte der Prophet Jeremia zum Propheten Hananja:
+„Höre, Hananja!
+Der HERR hat dich nicht gesandt,
+sondern du bringst dieses Volk dazu, auf Lüge zu vertrauen.
+<sup>16</sup>Darum spricht der HERR:
+‚Siehe, ich schicke dich weg vom Erdboden.
+Noch in diesem Jahr wirst du sterben,
+weil du Aufruhr gegen den HERRN geredet hast.‘“
+<sup>17</sup>Und der Prophet Hananja starb in demselben Jahr im siebten Monat.
+
+> **Was bedeutet das?**
+> Vers 13–14: Später bekommt Jeremia eine Antwort von Gott: Das Holzjoch kann man zerbrechen, aber dadurch wird es nur schlimmer. Jetzt kommt ein eisernes Joch. Wer falsche Hoffnung macht, verschlimmert die Lage.
+> Vers 15: Jeremia sagt Hananja klar: Gott hat dich nicht gesandt. Du lässt das Volk auf eine Lüge vertrauen.
+> Vers 16–17: Hananja stirbt zwei Monate später. Das zeigt, wer der echte Prophet war.
+
+## Jeremia – Kapitel 29
+#### Ein Brief an die Verbannten
+
+---
+
+### Sucht das Wohl der Stadt (Vers 1–9)
+
+<sup>1</sup>Das sind die Worte des Briefes,
+den der Prophet Jeremia von Jerusalem aus sandte
+an den Rest der Ältesten der Verbannten,
+an die Priester, an die Propheten und an das ganze Volk,
+das Nebukadnezar von Jerusalem nach Babel weggeführt hatte
+<sup>2</sup>(nachdem König Jechonja, die Königinmutter, die Hofbeamten,
+die Fürsten von Juda und Jerusalem, die Handwerker und die Schmiede
+aus Jerusalem weggezogen waren),
+<sup>3</sup>durch Elasa, den Sohn Schafans, und Gemarja, den Sohn Hilkijas,
+die Zidkija, der König von Juda, nach Babel zu Nebukadnezar, dem König von Babel, sandte.
+Er lautete:
+<sup>4</sup>So spricht der HERR der Heere, der Gott Israels,
+zu allen Verbannten, die ich von Jerusalem nach Babel habe wegführen lassen:
+<sup>5</sup>„Baut Häuser und wohnt darin.
+Pflanzt Gärten und esst ihre Frucht.
+<sup>6</sup>Nehmt euch Frauen und zeugt Söhne und Töchter.
+Nehmt Frauen für eure Söhne
+und gebt eure Töchter Männern,
+damit sie Söhne und Töchter gebären.
+Vermehrt euch dort und werdet nicht weniger.
+<sup>7</sup>Sucht den Frieden der Stadt,
+in die ich euch habe wegführen lassen,
+und betet für sie zum HERRN,
+denn in ihrem Frieden werdet ihr Frieden haben.“
+<sup>8</sup>Denn so spricht der HERR der Heere, der Gott Israels:
+„Lasst euch nicht täuschen von euren Propheten, die unter euch sind,
+und von euren Wahrsagern.
+Hört nicht auf eure Träume, die ihr euch träumen lasst.
+<sup>9</sup>Denn sie weissagen euch falsch in meinem Namen.
+Ich habe sie nicht gesandt“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Jeremia schreibt einen Brief an die Menschen, die 597 vor Christus nach Babylon verschleppt worden waren. Der Brief wird von Boten mitgenommen, die der König nach Babylon schickt.
+> Vers 5–6: Jeremias Rat ist sehr praktisch: Richtet euch ein! Baut Häuser, pflanzt Gärten, heiratet, bekommt Kinder. Das Exil wird lange dauern. Lebt nicht im Wartezustand, sondern lebt euer Leben.
+> Vers 7 ist einer der wichtigsten Verse bei Jeremia: „Sucht den Frieden der Stadt und betet für sie, denn in ihrem Frieden werdet ihr Frieden haben.“ Die Verbannten sollen für Babylon beten, für die Stadt ihrer Feinde! Das ist revolutionär. Bis heute ist dieser Vers ein Leitwort für Menschen, die in der Fremde leben, für Migranten und Geflüchtete, und für alle, die sich für das Gemeinwohl einsetzen. Das hebräische Wort für Frieden, „Schalom“, meint auch Wohlergehen.
+> Vers 8–9: Auch in Babylon gibt es falsche Propheten, die sagen: Bald geht es nach Hause! Jeremia warnt: Glaubt ihnen nicht.
+
+---
+
+### Gedanken des Friedens (Vers 10–14)
+
+<sup>10</sup>Denn so spricht der HERR:
+„Wenn für Babel siebzig Jahre erfüllt sind,
+werde ich nach euch sehen
+und mein gutes Wort an euch erfüllen
+und euch an diesen Ort zurückbringen.
+<sup>11</sup>Denn ich weiß, was ich für Gedanken über euch habe“, spricht der HERR,
+„Gedanken des Friedens und nicht des Unheils,
+um euch Hoffnung und Zukunft zu geben.
+<sup>12</sup>Ihr werdet mich anrufen
+und werdet hingehen und zu mir beten,
+und ich werde euch hören.
+<sup>13</sup>Ihr werdet mich suchen und finden,
+wenn ihr mich von ganzem Herzen sucht.
+<sup>14</sup>Ich werde mich von euch finden lassen“, spricht der HERR,
+„und ich werde euer Geschick wenden
+und euch sammeln aus allen Nationen
+und aus allen Orten, wohin ich euch vertrieben habe“, spricht der HERR.
+„Ich werde euch an den Ort zurückbringen,
+von dem ich euch habe wegführen lassen.“
+
+> **Was bedeutet das?**
+> Vers 11 ist einer der beliebtesten Verse der ganzen Bibel: „Ich weiß, was ich für Gedanken über euch habe: Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben.“ Viele Menschen bekommen diesen Vers zur Konfirmation, Hochzeit oder in schweren Zeiten zugesprochen.
+> Er wurde zuerst zu Menschen gesagt, die alles verloren hatten und in der Fremde lebten. Gerade ihnen sagt Gott: Ich habe einen guten Plan für euch.
+> Vers 13: „Ihr werdet mich suchen und finden, wenn ihr mich von ganzem Herzen sucht.“ Gott ist auch in Babylon zu finden, auch ohne Tempel. Das war eine wichtige Erkenntnis: Man kann Gott überall anbeten.
+
+---
+
+### Über die, die in Jerusalem geblieben sind (Vers 15–19)
+
+<sup>15</sup>Weil ihr sagt:
+„Der HERR hat uns Propheten in Babel erweckt“,
+<sup>16</sup>darum spricht der HERR über den König, der auf dem Thron Davids sitzt,
+und über das ganze Volk, das in dieser Stadt wohnt,
+eure Brüder, die nicht mit euch in die Gefangenschaft gezogen sind –
+<sup>17</sup>so spricht der HERR der Heere:
+„Siehe, ich sende über sie das Schwert, den Hunger und die Pest
+und mache sie wie verdorbene Feigen,
+die man nicht essen kann, so schlecht sind sie.
+<sup>18</sup>Ich werde sie verfolgen mit dem Schwert, mit dem Hunger und mit der Pest
+und werde sie preisgeben, damit sie umhergetrieben werden
+unter allen Königreichen der Erde,
+zum Fluch, zum Entsetzen, zum Gezisch und zur Schmach
+unter allen Nationen, wohin ich sie vertrieben habe,
+<sup>19</sup>weil sie nicht auf meine Worte gehört haben“, spricht der HERR,
+„mit denen ich meine Knechte, die Propheten, zu ihnen gesandt habe,
+früh und unermüdlich.
+Aber ihr wolltet nicht hören“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Die Verbannten hofften, dass Jerusalem bestehen bleibt und sie bald zurückkehren können. Jeremia sagt: Gerade Jerusalem wird untergehen. Die dort Gebliebenen sind die „schlechten Feigen“ aus Kapitel 24.
+
+---
+
+### Falsche Propheten in Babylon (Vers 20–32)
+
+<sup>20</sup>Ihr aber, hört das Wort des HERRN,
+alle Verbannten, die ich von Jerusalem nach Babel weggeschickt habe!
+<sup>21</sup>So spricht der HERR der Heere, der Gott Israels,
+über Ahab, den Sohn Kolajas, und über Zidkija, den Sohn Maasejas,
+die euch in meinem Namen Lüge weissagen:
+„Siehe, ich gebe sie in die Hand Nebukadnezars, des Königs von Babel,
+und er wird sie vor euren Augen töten.
+<sup>22</sup>Man wird bei allen Verbannten aus Juda, die in Babel sind,
+von ihnen einen Fluch hernehmen und sagen:
+‚Der HERR mache dich wie Zidkija und wie Ahab,
+die der König von Babel im Feuer geröstet hat!‘,
+<sup>23</sup>weil sie Schändliches in Israel getan haben
+und mit den Frauen ihrer Nächsten die Ehe gebrochen
+und in meinem Namen Lügenworte geredet haben,
+die ich ihnen nicht geboten habe.
+Ich bin es, der es weiß, und ich bin Zeuge“, spricht der HERR.
+<sup>24</sup>Und über Schemaja aus Nehelam sollst du sagen:
+<sup>25</sup>„So spricht der HERR der Heere, der Gott Israels:
+‚Weil du in deinem eigenen Namen Briefe gesandt hast
+an das ganze Volk, das in Jerusalem ist,
+und an Zefanja, den Sohn Maasejas, den Priester,
+und an alle Priester, und gesagt hast:
+<sup>26</sup>„Der HERR hat dich an Stelle des Priesters Jojada zum Priester gemacht,
+damit es Aufseher im Haus des HERRN gibt
+für jeden Verrückten, der sich als Prophet aufspielt,
+damit du ihn in den Block und ins Halseisen legst.
+<sup>27</sup>Warum hast du nun Jeremia aus Anatot nicht zurechtgewiesen,
+der sich bei euch als Prophet aufspielt?
+<sup>28</sup>Denn er hat zu uns nach Babel geschickt und gesagt:
+Es dauert noch lange. Baut Häuser und wohnt darin.
+Pflanzt Gärten und esst ihre Frucht.“‘“
+<sup>29</sup>Der Priester Zefanja las diesen Brief dem Propheten Jeremia vor.
+<sup>30</sup>Da kam das Wort des HERRN zu Jeremia:
+<sup>31</sup>„Sende zu allen Verbannten und sag:
+‚So spricht der HERR über Schemaja aus Nehelam:
+„Weil Schemaja euch geweissagt hat,
+obwohl ich ihn nicht gesandt habe,
+und euch auf Lüge vertrauen ließ“,
+<sup>32</sup>darum spricht der HERR:
+„Siehe, ich werde Schemaja aus Nehelam und seine Nachkommen heimsuchen.
+Er wird niemanden haben, der unter diesem Volk wohnt.
+Er wird das Gute nicht sehen, das ich meinem Volk tun werde“,
+spricht der HERR,
+„weil er Aufruhr gegen den HERRN geredet hat.“‘“
+
+> **Was bedeutet das?**
+> Vers 21–23: Zwei falsche Propheten in Babylon, Ahab und Zidkija, haben Lügen erzählt und die Ehe gebrochen. Der babylonische König ließ sie hinrichten, vermutlich weil sie zum Aufstand aufriefen. Die Bibel erwähnt diese grausame Strafe als Teil der Geschichte, sie heißt sie damit nicht gut.
+> Vers 24–28: Ein anderer Mann in Babylon, Schemaja, war wütend über Jeremias Brief. Er schrieb an den Priester in Jerusalem: Warum lässt du Jeremia frei herumlaufen? Leg ihn in den Block!
+> Vers 29: Zefanja liest Jeremia diesen Brief vor. Vielleicht wollte er Jeremia warnen.
+> Vers 31–32: Gott sagt: Schemaja wird die Heimkehr nicht erleben.
+> Dieses Kapitel zeigt: Auch in der Fremde gab es Streit darüber, wer im Namen Gottes spricht. Die unbequeme Wahrheit war schwerer zu ertragen als die schöne Lüge.
+
+## Jeremia – Kapitel 30
+#### Ich will dich heilen
+
+---
+
+### Schreib alles in ein Buch (Vers 1–3)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam:
+<sup>2</sup>„So spricht der HERR, der Gott Israels:
+‚Schreib dir alle Worte, die ich zu dir geredet habe, in ein Buch.
+<sup>3</sup>Denn siehe, es kommen Tage‘, spricht der HERR,
+‚da werde ich das Geschick meines Volkes Israel und Juda wenden‘,
+spricht der HERR.
+‚Ich werde sie in das Land zurückbringen, das ich ihren Vätern gegeben habe,
+und sie werden es besitzen.‘“
+
+> **Was bedeutet das?**
+> Mit Kapitel 30 beginnt ein besonderer Teil des Buches Jeremia: das „Trostbüchlein“ (Kapitel 30–33). Nach so vielen Worten über Gericht kommen jetzt Worte der Hoffnung.
+> Vers 2: Jeremia soll diese Worte aufschreiben, damit spätere Generationen sie lesen können. Die Hoffnung gilt auch für die Zukunft.
+> Vers 3: Gott wird „das Geschick wenden“: Die Verbannten kehren heim, sowohl aus dem Nordreich Israel als auch aus Juda.
+
+---
+
+### Eine Zeit der Angst, aber Rettung (Vers 4–11)
+
+<sup>4</sup>Das sind die Worte, die der HERR über Israel und über Juda geredet hat.
+<sup>5</sup>Denn so spricht der HERR:
+„Wir haben eine Stimme des Zitterns gehört,
+eine Stimme der Angst und nicht des Friedens.
+<sup>6</sup>Fragt doch und seht, ob ein Mann ein Kind gebiert!
+Warum sehe ich jeden Mann mit den Händen an seinen Hüften
+wie eine Frau in Wehen,
+und alle Gesichter sind bleich geworden?
+<sup>7</sup>Wehe, denn dieser Tag ist groß, keiner ist wie er!
+Es ist eine Zeit der Not für Jakob,
+aber er wird daraus gerettet werden.
+<sup>8</sup>Und es wird an jenem Tag geschehen“, spricht der HERR der Heere,
+„dass ich sein Joch von deinem Nacken zerbrechen
+und deine Fesseln zerreißen werde.
+Fremde werden sie nicht mehr zu Knechten machen,
+<sup>9</sup>sondern sie werden dem HERRN, ihrem Gott, dienen
+und David, ihrem König, den ich ihnen erwecken werde.
+<sup>10</sup>Darum fürchte dich nicht, Jakob, mein Knecht“, spricht der HERR.
+„Erschrick nicht, Israel!
+Denn siehe, ich rette dich aus der Ferne
+und deine Nachkommen aus dem Land ihrer Gefangenschaft.
+Jakob wird zurückkehren und wird Ruhe und Frieden haben,
+und niemand wird ihn erschrecken.
+<sup>11</sup>Denn ich bin bei dir“, spricht der HERR, „um dich zu retten.
+Denn ich werde allen Nationen, unter die ich dich zerstreut habe,
+ein Ende machen,
+dir aber werde ich kein Ende machen.
+Doch ich werde dich mit Maß züchtigen
+und dich nicht ganz ungestraft lassen.“
+
+> **Was bedeutet das?**
+> Vers 5–6: Die Angst ist so groß, dass sogar starke Männer sich krümmen wie Frauen in den Wehen.
+> Vers 7: „Eine Zeit der Not für Jakob, aber er wird daraus gerettet werden.“ Das Leid ist groß, aber es ist nicht das Ende.
+> Vers 8–9: Gott wird das Joch zerbrechen, das Joch Babylons aus Kapitel 27–28. Und das Volk wird einem König aus der Familie Davids dienen. Im Judentum wird das auf den Messias bezogen, Christen sehen es in Jesus erfüllt.
+> Vers 10–11: „Fürchte dich nicht, Jakob, mein Knecht! Ich bin bei dir.“ Diese Worte erinnern an Jesaja 41 und 43. Gott straft „mit Maß“, nicht maßlos, und er lässt sein Volk nie ganz untergehen.
+
+---
+
+### Ich will dich heilen (Vers 12–17)
+
+<sup>12</sup>Denn so spricht der HERR:
+„Dein Bruch ist unheilbar,
+deine Wunde ist schwer.
+<sup>13</sup>Da ist niemand, der deine Sache führt,
+damit du verbunden wirst.
+Du hast keine heilenden Arzneien.
+<sup>14</sup>Alle deine Liebhaber haben dich vergessen.
+Sie fragen nicht nach dir.
+Denn ich habe dich geschlagen mit dem Schlag eines Feindes,
+mit der Züchtigung eines Grausamen,
+wegen der Größe deiner Schuld,
+weil deine Sünden zahlreich geworden sind.
+<sup>15</sup>Was schreist du über deinen Bruch?
+Dein Schmerz ist unheilbar.
+Wegen der Größe deiner Schuld,
+weil deine Sünden zahlreich geworden sind,
+habe ich dir das angetan.
+<sup>16</sup>Darum werden alle, die dich fressen, gefressen werden.
+Alle deine Gegner, sie alle, werden in die Gefangenschaft gehen.
+Die dich ausplündern, werden zur Plünderung werden.
+Alle, die dich berauben, werde ich zum Raub machen.
+<sup>17</sup>Denn ich werde dir Genesung bringen
+und dich von deinen Wunden heilen“, spricht der HERR,
+„weil sie dich eine Verstoßene genannt haben:
+‚Das ist Zion, nach der niemand fragt.‘“
+
+> **Was bedeutet das?**
+> Vers 12–15: Die Wunde des Volkes scheint unheilbar. Kein Arzt, keine Medizin, keine Freunde. Und Gott sagt ehrlich: Diese Wunde kommt von deiner Schuld.
+> Vers 16–17: Aber dann die überraschende Wende: „Darum“ – gerade weil die Wunde unheilbar ist und niemand sich kümmert – „werde ich dich heilen.“ Was für Menschen unmöglich ist, kann Gott tun.
+> Vers 17: Die anderen sagten über Zion: „Nach der fragt keiner mehr.“ Gerade darum fragt Gott nach ihr. Gott wendet sich denen zu, die von allen anderen aufgegeben wurden.
+
+---
+
+### Ihr sollt mein Volk sein (Vers 18–24)
+
+<sup>18</sup>So spricht der HERR:
+„Siehe, ich werde das Geschick der Zelte Jakobs wenden
+und mich über seine Wohnungen erbarmen.
+Die Stadt wird auf ihrem Schutthügel wieder aufgebaut werden,
+und der Palast wird an seinem rechten Platz bewohnt sein.
+<sup>19</sup>Aus ihnen wird Dank hervorgehen
+und die Stimme der Fröhlichen.
+Ich werde sie vermehren, und sie werden nicht weniger werden.
+Ich werde sie ehren, und sie werden nicht gering sein.
+<sup>20</sup>Ihre Kinder werden sein wie früher,
+und ihre Gemeinde wird vor mir fest bestehen.
+Ich werde alle heimsuchen, die sie unterdrücken.
+<sup>21</sup>Ihr Fürst wird einer von ihnen sein,
+und ihr Herrscher wird aus ihrer Mitte hervorgehen.
+Ich werde ihn herantreten lassen, und er wird sich mir nähern.
+Denn wer würde es sonst wagen, sich mir zu nähern?“, spricht der HERR.
+<sup>22</sup>„Ihr sollt mein Volk sein,
+und ich will euer Gott sein.
+<sup>23</sup>Siehe, der Sturm des HERRN, sein Grimm, ist losgebrochen,
+ein fegender Sturm.
+Er wird auf den Kopf der Gottlosen niederprasseln.
+<sup>24</sup>Der glühende Zorn des HERRN wird nicht umkehren,
+bis er die Pläne seines Herzens ausgeführt und vollbracht hat.
+In späteren Tagen werdet ihr es verstehen.“
+
+> **Was bedeutet das?**
+> Vers 18: Jerusalem wird auf seinem eigenen Schutthügel wieder aufgebaut. Alte Städte im Orient wurden oft auf den Trümmern der früheren Stadt neu gebaut.
+> Vers 19–20: Statt Klage wird man wieder Dank und Lachen hören. Kinder spielen wieder auf den Straßen.
+> Vers 21: Der neue Herrscher wird kein fremder König sein, sondern einer aus dem eigenen Volk. Und er darf Gott ganz nahe kommen, wie ein Priester.
+> Vers 22: „Ihr sollt mein Volk sein, und ich will euer Gott sein.“ Das ist die Bundesformel, das Herz der Beziehung zwischen Gott und Israel. Sie wird erneuert.
+> Vers 23–24: Diese Verse stehen fast gleich schon in 23,19–20. Gottes Gericht trifft die Gottlosen, nicht sein Volk, das er heilt.
