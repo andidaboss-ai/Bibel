@@ -156,11 +156,11 @@ brachten dem Gott Israels Brandopfer dar:
 und 12 Ziegenböcke als Sündopfer.
 Das alles war ein Brandopfer für den HERRN.
 [36] Sie übergaben die Befehle des Königs
-den Satrapen des Königs und den Statthaltern jenseits des Stroms.
+den örtlichen Statthaltern des Königs und den Statthaltern jenseits des Stroms.
 Und diese unterstützten das Volk und das Haus Gottes.
 
 > **Was bedeutet das?**
 > Gott hat das Gebet erhört. Sie kommen sicher an, ohne Soldaten.
 > Wieder werden Opfer „für ganz Israel“ gebracht: 12 Stiere und 12 Böcke, für die zwölf Stämme. 96 ist 8 mal 12.
 > Meremot, der Sohn Urijas, hilft später auch beim Bau der Mauer (Nehemia 3,4).
-> „Satrapen“ waren die Statthalter der großen Provinzen im Perserreich. In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+> „Die örtlichen Statthalter des Königs“: Im Hebräischen steht hier ein persisches Wort, „Satrapen“. So hießen die Statthalter der großen Provinzen im Perserreich.

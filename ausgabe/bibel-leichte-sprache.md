@@ -59559,14 +59559,14 @@ brachten dem Gott Israels Brandopfer dar:
 und 12 Ziegenböcke als Sündopfer.
 Das alles war ein Brandopfer für den HERRN.
 <sup>36</sup>Sie übergaben die Befehle des Königs
-den Satrapen des Königs und den Statthaltern jenseits des Stroms.
+den örtlichen Statthaltern des Königs und den Statthaltern jenseits des Stroms.
 Und diese unterstützten das Volk und das Haus Gottes.
 
 > **Was bedeutet das?**
 > Gott hat das Gebet erhört. Sie kommen sicher an, ohne Soldaten.
 > Wieder werden Opfer „für ganz Israel“ gebracht: 12 Stiere und 12 Böcke, für die zwölf Stämme. 96 ist 8 mal 12.
 > Meremot, der Sohn Urijas, hilft später auch beim Bau der Mauer (Nehemia 3,4).
-> „Satrapen“ waren die Statthalter der großen Provinzen im Perserreich. In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+> „Die örtlichen Statthalter des Königs“: Im Hebräischen steht hier ein persisches Wort, „Satrapen“. So hießen die Statthalter der großen Provinzen im Perserreich.
 
 ## Esra – Kapitel 9
 #### Esras Bußgebet
@@ -59622,7 +59622,7 @@ dem Schwert, der Gefangenschaft, der Plünderung und der Schande preisgegeben,
 wie es heute ist.
 <sup>8</sup>Und jetzt ist uns für einen kleinen Augenblick Gnade geschenkt worden vom HERRN, unserem Gott,
 dass er uns einen Rest übrig gelassen hat, der entkommen ist,
-und uns einen festen Platz an seinem heiligen Ort gegeben hat,
+und uns einen Pflock an seinem heiligen Ort gegeben hat,
 damit unser Gott unsere Augen hell macht
 und uns ein wenig aufleben lässt in unserer Knechtschaft.
 <sup>9</sup>Denn wir sind Knechte.
@@ -59660,7 +59660,7 @@ Denn wegen dieser Sache kann niemand vor dir bestehen.“
 
 > **Was bedeutet das?**
 > Esras Gebet ist ein Sündenbekenntnis für das ganze Volk. Bemerkenswert: Esra selbst hatte nichts falsch gemacht. Aber er sagt „wir“ und „unsere Schuld“. Er stellt sich solidarisch an die Seite seines Volkes (vgl. Daniel 9,4–19; Nehemia 1,6–7).
-> Er sieht Gottes Gnade: Gott hat das Volk nicht ganz vernichtet. Er hat einen „Rest“ übrig gelassen. Er hat ihnen „einen festen Platz“ gegeben, wörtlich „einen Pflock“, wie ein Zeltpflock, der fest im Boden steckt.
+> Er sieht Gottes Gnade: Gott hat das Volk nicht ganz vernichtet. Er hat einen „Rest“ übrig gelassen. Er hat ihnen „einen Pflock“ an seinem heiligen Ort gegeben. Das ist ein Bild für einen festen Platz, wie ein Zeltpflock, der fest im Boden steckt.
 > Die „Mauer“ in Vers 9 ist wohl ein Bild für Schutz. Die echte Stadtmauer wurde erst später unter Nehemia gebaut.
 > Vers 11–12 ist kein wörtliches Zitat, sondern eine Zusammenfassung mehrerer Stellen aus dem Gesetz (zum Beispiel 5. Mose 7,1–3; 23,7).
 > Esra bittet in diesem Gebet nicht einmal um Vergebung. Er bekennt nur die Schuld und sagt: „Du bist gerecht.“ Er überlässt alles Gott.

@@ -52,7 +52,7 @@ dem Schwert, der Gefangenschaft, der Plünderung und der Schande preisgegeben,
 wie es heute ist.
 [8] Und jetzt ist uns für einen kleinen Augenblick Gnade geschenkt worden vom HERRN, unserem Gott,
 dass er uns einen Rest übrig gelassen hat, der entkommen ist,
-und uns einen festen Platz an seinem heiligen Ort gegeben hat,
+und uns einen Pflock an seinem heiligen Ort gegeben hat,
 damit unser Gott unsere Augen hell macht
 und uns ein wenig aufleben lässt in unserer Knechtschaft.
 [9] Denn wir sind Knechte.
@@ -90,7 +90,7 @@ Denn wegen dieser Sache kann niemand vor dir bestehen.“
 
 > **Was bedeutet das?**
 > Esras Gebet ist ein Sündenbekenntnis für das ganze Volk. Bemerkenswert: Esra selbst hatte nichts falsch gemacht. Aber er sagt „wir“ und „unsere Schuld“. Er stellt sich solidarisch an die Seite seines Volkes (vgl. Daniel 9,4–19; Nehemia 1,6–7).
-> Er sieht Gottes Gnade: Gott hat das Volk nicht ganz vernichtet. Er hat einen „Rest“ übrig gelassen. Er hat ihnen „einen festen Platz“ gegeben, wörtlich „einen Pflock“, wie ein Zeltpflock, der fest im Boden steckt.
+> Er sieht Gottes Gnade: Gott hat das Volk nicht ganz vernichtet. Er hat einen „Rest“ übrig gelassen. Er hat ihnen „einen Pflock“ an seinem heiligen Ort gegeben. Das ist ein Bild für einen festen Platz, wie ein Zeltpflock, der fest im Boden steckt.
 > Die „Mauer“ in Vers 9 ist wohl ein Bild für Schutz. Die echte Stadtmauer wurde erst später unter Nehemia gebaut.
 > Vers 11–12 ist kein wörtliches Zitat, sondern eine Zusammenfassung mehrerer Stellen aus dem Gesetz (zum Beispiel 5. Mose 7,1–3; 23,7).
 > Esra bittet in diesem Gebet nicht einmal um Vergebung. Er bekennt nur die Schuld und sagt: „Du bist gerecht.“ Er überlässt alles Gott.
