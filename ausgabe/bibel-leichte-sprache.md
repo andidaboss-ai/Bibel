@@ -63307,3 +63307,292 @@ sondern es kommt Unruhe.“
 > Wichtig: Hiob wünscht sich den Tod, aber er nimmt sich nicht das Leben. Er bringt seinen Schmerz zu Gott, auch wenn er klagt und schreit. Er bleibt im Gespräch mit Gott. Das Buch zeigt: Man darf Gott alles sagen, auch die dunkelsten Gedanken.
 
 > Wenn du selbst denkst „Ich will nicht mehr leben“: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+## Hiob – Kapitel 4
+#### Elifas: „Wer ist je als Unschuldiger umgekommen?“
+
+---
+
+### Elifas beginnt freundlich (Vers 1–6)
+
+<sup>1</sup>Da antwortete Elifas, der Temaniter:
+<sup>2</sup>„Wenn jemand versucht, mit dir zu reden, wird es dich verdrießen?
+Aber wer kann sich zurückhalten, nicht zu reden?
+<sup>3</sup>Schau, du hast viele unterwiesen,
+und schlaffe Hände hast du gestärkt.
+<sup>4</sup>Deine Worte haben den aufgerichtet, der strauchelte,
+und wankende Knie hast du fest gemacht.
+<sup>5</sup>Aber jetzt kommt es über dich, und du wirst schwach.
+Es trifft dich, und du bist erschrocken.
+<sup>6</sup>Ist nicht deine Gottesfurcht deine Zuversicht?
+Ist nicht die Lauterkeit deiner Wege deine Hoffnung?
+
+> **Was bedeutet das?**
+> Elifas ist der älteste und wohl angesehenste der drei Freunde. Er beginnt höflich und vorsichtig.
+> Er erinnert Hiob daran, wie oft Hiob selbst andere getröstet hat. Aber dann kommt ein Stich: Jetzt, wo es dich selbst trifft, wirst du schwach.
+> Elifas meint es gut: Du bist doch fromm, also hast du Grund zur Hoffnung. Aber er versteht nicht, wie tief Hiobs Schmerz ist.
+
+---
+
+### Die Lehre des Elifas (Vers 7–11)
+
+<sup>7</sup>Denk doch daran:
+Wer ist je als Unschuldiger umgekommen?
+Und wo wurden Aufrichtige ausgerottet?
+<sup>8</sup>Soweit ich gesehen habe:
+Die Unrecht pflügen und Unheil säen,
+die ernten es auch.
+<sup>9</sup>Durch den Atem Gottes kommen sie um.
+Durch den Hauch seines Zorns werden sie vernichtet.
+<sup>10</sup>Das Brüllen des Löwen und die Stimme des wilden Löwen
+und die Zähne der jungen Löwen werden zerbrochen.
+<sup>11</sup>Der alte Löwe kommt um aus Mangel an Beute,
+und die Jungen der Löwin werden zerstreut.
+
+> **Was bedeutet das?**
+> Hier ist die Lehre, die alle drei Freunde vertreten: Wer gut ist, dem geht es gut. Wer böse ist, dem geht es schlecht. „Was man sät, das erntet man.“
+> Daraus folgt für Hiob unausgesprochen: Wenn es dir so schlecht geht, dann hast du wohl etwas Böses getan.
+> An dieser Lehre ist etwas Wahres. Oft hat Unrecht schlechte Folgen. Aber sie stimmt nicht immer. Der Leser weiß aus Kapitel 1–2: Hiob ist unschuldig. Gott selbst hat das gesagt.
+> Jesus hat diese einfache Rechnung später ausdrücklich zurückgewiesen (Johannes 9,1–3; Lukas 13,1–5).
+> Die Löwen sind ein Bild für mächtige, gewalttätige Menschen. Auch sie werden am Ende zerbrochen.
+
+---
+
+### Eine unheimliche Vision in der Nacht (Vers 12–21)
+
+<sup>12</sup>Ein Wort kam heimlich zu mir,
+und mein Ohr empfing ein Flüstern davon,
+<sup>13</sup>in Gedanken aus Nachtgesichten,
+wenn tiefer Schlaf auf die Menschen fällt.
+<sup>14</sup>Furcht kam über mich und Zittern,
+das alle meine Knochen erbeben ließ.
+<sup>15</sup>Da ging ein Geist an meinem Gesicht vorüber.
+Die Haare meines Körpers sträubten sich.
+<sup>16</sup>Er stand still, aber ich konnte seine Gestalt nicht erkennen.
+Eine Gestalt war vor meinen Augen.
+Stille – dann hörte ich eine Stimme sagen:
+<sup>17</sup>‚Kann ein sterblicher Mensch gerechter sein als Gott?
+Kann ein Mann reiner sein als sein Schöpfer?
+<sup>18</sup>Schau, seinen Dienern vertraut er nicht,
+und seinen Engeln wirft er Irrtum vor.
+<sup>19</sup>Wie viel mehr denen, die in Häusern aus Lehm wohnen,
+deren Fundament im Staub ist,
+die man zerdrückt wie eine Motte!
+<sup>20</sup>Zwischen Morgen und Abend werden sie zerschlagen.
+Sie gehen für immer zugrunde, ohne dass jemand darauf achtet.
+<sup>21</sup>Wird nicht ihr Zeltseil in ihnen herausgerissen?
+Sie sterben, und das ohne Weisheit.‘
+
+> **Was bedeutet das?**
+> Elifas beruft sich auf eine geheimnisvolle Erscheinung in der Nacht. Die Stimme sagte: Kein Mensch ist vor Gott wirklich gerecht.
+> Das ist an sich wahr. Kein Mensch ist vollkommen (vgl. Römer 3,23). Aber Elifas benutzt diese Wahrheit falsch: Er will damit sagen, dass Hiob sein Leid verdient hat.
+> „Häuser aus Lehm“ ist ein Bild für den menschlichen Körper. Der Mensch ist aus Erde gemacht (1. Mose 2,7) und so zerbrechlich wie eine Motte.
+> „Das Zeltseil herausgerissen“: Das Leben ist wie ein Zelt. Wenn das Seil herausgezogen wird, fällt es zusammen. Paulus benutzt ein ähnliches Bild (2. Korinther 5,1).
+> Am Ende des Buches wird Gott sagen, dass Elifas und seine Freunde nicht recht von ihm geredet haben (Kapitel 42,7).
+
+## Hiob – Kapitel 5
+#### Elifas: „Wende dich an Gott“
+
+---
+
+### Der Tor und sein Unglück (Vers 1–7)
+
+<sup>1</sup>Ruf doch! Gibt es einen, der dir antwortet?
+An welchen der Heiligen willst du dich wenden?
+<sup>2</sup>Denn den Toren tötet der Unmut,
+und den Einfältigen tötet der Eifer.
+<sup>3</sup>Ich habe den Toren Wurzeln schlagen sehen,
+aber plötzlich verfluchte ich seine Wohnung.
+<sup>4</sup>Seine Kinder sind fern von der Rettung.
+Sie werden im Tor zertreten,
+und niemand rettet sie.
+<sup>5</sup>Seine Ernte essen die Hungrigen auf,
+sie holen sie sogar aus den Dornen.
+Und die Schlinge schnappt nach ihrem Besitz.
+<sup>6</sup>Denn Unheil kommt nicht aus dem Staub,
+und Mühsal wächst nicht aus der Erde.
+<sup>7</sup>Sondern der Mensch ist zur Mühsal geboren,
+wie die Funken nach oben fliegen.
+
+> **Was bedeutet das?**
+> „Die Heiligen“ sind Engel. Elifas meint: Kein Engel wird dir helfen, wenn du gegen Gott aufbegehrst.
+> Elifas warnt Hiob: Wer sich ärgert und wütend wird, schadet sich selbst.
+> Vers 4 ist grausam, wenn man an Hiob denkt: Elifas spricht von einem Toren, dessen Kinder umkommen. Hiobs Kinder sind gerade gestorben! Elifas merkt nicht, wie sehr er Hiob verletzt.
+> „Das Tor“ war der Ort, wo Gericht gehalten wurde. Ohne Beschützer wurden die Kinder dort ungerecht behandelt.
+> Vers 7 ist ein bekannter Satz: „Der Mensch ist zur Mühsal geboren, wie die Funken nach oben fliegen.“ Leid gehört zum Menschsein, so natürlich, wie Funken aufsteigen.
+
+---
+
+### An deiner Stelle würde ich Gott suchen (Vers 8–16)
+
+<sup>8</sup>Ich aber, ich würde Gott suchen,
+und Gott würde ich meine Sache anvertrauen,
+<sup>9</sup>der große Dinge tut, die man nicht ergründen kann,
+Wunder ohne Zahl;
+<sup>10</sup>der Regen auf die Erde gibt
+und Wasser auf die Felder schickt;
+<sup>11</sup>sodass er die Niedrigen hoch hinstellt
+und die Trauernden emporhebt zur Rettung.
+<sup>12</sup>Er vereitelt die Pläne der Listigen,
+sodass ihre Hände nichts ausführen können.
+<sup>13</sup>Er fängt die Weisen in ihrer eigenen List,
+und der Rat der Verschlagenen wird übereilt.
+<sup>14</sup>Am Tag stoßen sie auf Finsternis,
+und am Mittag tappen sie wie in der Nacht.
+<sup>15</sup>Aber er rettet den Armen vor dem Schwert ihres Mundes
+und aus der Hand des Mächtigen.
+<sup>16</sup>So hat der Arme Hoffnung,
+und die Ungerechtigkeit verschließt ihren Mund.
+
+> **Was bedeutet das?**
+> Elifas sagt viel Wahres über Gott: Er ist groß, er tut Wunder, er hilft den Niedrigen und den Armen.
+> Vers 13 wird im Neuen Testament von Paulus zitiert: „Er fängt die Weisen in ihrer List“ (1. Korinther 3,19). Die Worte sind also nicht falsch.
+> Das Problem ist nicht, was Elifas sagt, sondern wie er es auf Hiob anwendet. Er gibt kluge Ratschläge, ohne wirklich zuzuhören.
+> „An deiner Stelle würde ich …“: Das sagen Menschen oft zu Leidenden. Aber niemand ist wirklich an der Stelle eines anderen.
+
+---
+
+### Glücklich ist, wen Gott zurechtweist (Vers 17–27)
+
+<sup>17</sup>Schau, glücklich ist der Mensch, den Gott zurechtweist.
+Darum verachte nicht die Erziehung des Allmächtigen!
+<sup>18</sup>Denn er verwundet, und er verbindet.
+Er schlägt, und seine Hände heilen.
+<sup>19</sup>In sechs Nöten wird er dich retten,
+ja, in sieben wird dich kein Unheil berühren.
+<sup>20</sup>In der Hungersnot erlöst er dich vom Tod,
+und im Krieg von der Gewalt des Schwertes.
+<sup>21</sup>Vor der Geißel der Zunge wirst du verborgen sein,
+und du wirst dich nicht fürchten vor der Verwüstung, wenn sie kommt.
+<sup>22</sup>Über Verwüstung und Hunger wirst du lachen,
+und vor den Tieren der Erde wirst du dich nicht fürchten.
+<sup>23</sup>Denn mit den Steinen des Feldes wirst du im Bund sein,
+und die Tiere des Feldes werden mit dir Frieden haben.
+<sup>24</sup>Du wirst erfahren, dass dein Zelt in Frieden ist.
+Du wirst nach deiner Weide sehen und nichts vermissen.
+<sup>25</sup>Du wirst auch erfahren, dass deine Nachkommen zahlreich werden,
+und deine Sprösslinge wie das Gras der Erde.
+<sup>26</sup>In hohem Alter wirst du ins Grab kommen,
+wie eine Garbe eingebracht wird zu ihrer Zeit.
+<sup>27</sup>Schau, das haben wir erforscht, so ist es.
+Hör es und merke es dir zu deinem Besten!“
+
+> **Was bedeutet das?**
+> Elifas sagt: Dein Leid ist eine Erziehung von Gott. Wenn du sie annimmst, wird alles wieder gut. Gott wird dich segnen.
+> Auch das steht an anderen Stellen der Bibel (Sprüche 3,11–12; Hebräer 12,5–11). Leid kann einen Menschen wachsen lassen.
+> Aber für Hiob ist das kein Trost. Gott hat ja gesagt, dass Hiob „ohne Grund“ leidet (Kapitel 2,3). Es ist keine Erziehung.
+> Vers 25 ist besonders schmerzhaft: Elifas verspricht Hiob viele Nachkommen. Aber Hiob hat gerade alle seine Kinder verloren. Neue Kinder können die verlorenen nicht ersetzen.
+> Vers 27 zeigt Elifas' Haltung: „Das haben wir erforscht, so ist es.“ Er ist sich ganz sicher. Er lässt keinen Raum für Fragen. Das ist das Problem von Menschen, die auf alles eine Antwort haben.
+
+## Hiob – Kapitel 6
+#### Hiob: „Meine Freunde sind wie ein ausgetrockneter Bach“
+
+---
+
+### Mein Schmerz ist schwerer als Sand (Vers 1–7)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Ach, würde mein Kummer doch gewogen
+und mein ganzes Unglück auf die Waage gelegt!
+<sup>3</sup>Denn jetzt wäre es schwerer als der Sand der Meere.
+Darum waren meine Worte unbedacht.
+<sup>4</sup>Denn die Pfeile des Allmächtigen stecken in mir.
+Mein Geist trinkt ihr Gift.
+Die Schrecken Gottes stellen sich gegen mich auf.
+<sup>5</sup>Schreit der Wildesel, wenn er Gras hat?
+Oder brüllt der Stier bei seinem Futter?
+<sup>6</sup>Kann man Fades ohne Salz essen?
+Oder hat das Eiweiß Geschmack?
+<sup>7</sup>Meine Seele weigert sich, es anzurühren.
+Es ist mir wie ekelhafte Speise.
+
+> **Was bedeutet das?**
+> Hiob antwortet Elifas. Er sagt: Wenn ihr wüsstet, wie schwer mein Schmerz ist! Schwerer als aller Sand am Meer!
+> Er entschuldigt sich sogar ein wenig: Darum habe ich so unbedacht geredet (in Kapitel 3).
+> Hiob fühlt sich von Gott angegriffen, wie von vergifteten Pfeilen.
+> Vers 5: Ein Tier schreit nur, wenn ihm etwas fehlt. Hiob meint: Ich schreie nicht ohne Grund!
+> Vers 6–7: Die Worte von Elifas schmecken ihm wie fades Essen ohne Salz. Sie sind ihm zuwider. Was Elifas sagt, hilft ihm überhaupt nicht.
+
+---
+
+### Ich will nicht mehr (Vers 8–13)
+
+<sup>8</sup>Ach, dass doch meine Bitte erfüllt würde
+und Gott mir gewährte, wonach ich mich sehne:
+<sup>9</sup>dass es Gott gefiele, mich zu zermalmen,
+dass er seine Hand losließe und mich abschneiden würde!
+<sup>10</sup>Dann wäre das noch mein Trost,
+ja, ich würde jubeln im Schmerz, der nicht schont,
+dass ich die Worte des Heiligen nicht verleugnet habe.
+<sup>11</sup>Was ist meine Kraft, dass ich noch warten sollte?
+Und was ist mein Ende, dass ich geduldig sein sollte?
+<sup>12</sup>Ist meine Kraft die Kraft von Steinen?
+Oder ist mein Fleisch aus Bronze?
+<sup>13</sup>Ist es nicht so, dass ich keine Hilfe in mir habe
+und dass die Weisheit von mir vertrieben ist?
+
+> **Was bedeutet das?**
+> Hiob wünscht sich wieder den Tod. Aber er bittet Gott darum. Er nimmt sein Leben nicht selbst in die Hand.
+> Sein einziger Trost: „Ich habe die Worte des Heiligen nicht verleugnet.“ Er ist Gott treu geblieben, trotz allem.
+> Vers 11–12 ist sehr ehrlich: Ich habe keine Kraft mehr. Ich bin nicht aus Stein oder Metall. Ich bin ein Mensch, und ich kann nicht mehr.
+> Die Bibel nimmt solche Gefühle ernst. Sie verurteilt Hiob nicht dafür.
+
+> Wenn du selbst denkst „Ich habe keine Kraft mehr, ich will nicht mehr leben“: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+---
+
+### Enttäuschende Freunde (Vers 14–23)
+
+<sup>14</sup>Wer am Verzagen ist, dem sollte sein Freund Güte erweisen,
+auch wenn er die Furcht des Allmächtigen verlässt.
+<sup>15</sup>Meine Brüder haben trügerisch gehandelt wie ein Bach,
+wie das Bett von Bächen, die vergehen,
+<sup>16</sup>die trüb sind vom Eis,
+in denen sich der Schnee verbirgt.
+<sup>17</sup>In der trockenen Zeit verschwinden sie.
+Wenn es heiß wird, sind sie von ihrem Ort verschwunden.
+<sup>18</sup>Die Karawanen, die an ihnen entlangziehen, biegen ab.
+Sie ziehen hinauf in die Öde und kommen um.
+<sup>19</sup>Die Karawanen von Tema hielten Ausschau,
+die Reisegruppen von Saba warteten auf sie.
+<sup>20</sup>Sie wurden enttäuscht, weil sie vertraut hatten.
+Sie kamen dorthin und wurden beschämt.
+<sup>21</sup>So seid jetzt auch ihr ein Nichts.
+Ihr seht etwas Schreckliches und fürchtet euch.
+<sup>22</sup>Habe ich etwa gesagt: ‚Gebt mir etwas!‘
+oder: ‚Macht mir ein Geschenk von eurem Besitz!‘
+<sup>23</sup>oder: ‚Rettet mich aus der Hand des Feindes!‘
+oder: ‚Kauft mich los aus der Hand der Gewalttätigen!‘?
+
+> **Was bedeutet das?**
+> Vers 14 ist ein wichtiger Satz: Ein echter Freund hält zu dir, auch wenn du am Verzweifeln bist, auch wenn du an Gott zweifelst.
+> Hiob vergleicht seine Freunde mit einem Wüstenbach (einem Wadi). Im Winter, wenn man kein Wasser braucht, ist er voll. Im Sommer, wenn man Wasser dringend braucht, ist er ausgetrocknet. Die Karawanen, die auf das Wasser gehofft haben, verdursten.
+> So sind seine Freunde: In guten Zeiten waren sie da. Jetzt, wo er sie wirklich braucht, versagen sie.
+> „Ihr seht etwas Schreckliches und fürchtet euch“: Vielleicht haben die Freunde Angst, dass so ein Unglück auch sie treffen könnte. Darum suchen sie die Schuld bei Hiob. Dann fühlen sie sich selbst sicher.
+> Hiob hat nichts von ihnen verlangt, kein Geld, keine Hilfe. Nur Mitgefühl.
+> Tema und Saba waren Orte in Arabien, von wo Handelskarawanen kamen.
+
+---
+
+### Zeigt mir meinen Fehler! (Vers 24–30)
+
+<sup>24</sup>Belehrt mich, dann will ich schweigen.
+Zeigt mir, worin ich mich geirrt habe.
+<sup>25</sup>Wie kraftvoll sind aufrichtige Worte!
+Aber was beweist euer Tadel?
+<sup>26</sup>Wollt ihr Worte tadeln,
+wo doch die Reden eines Verzweifelten wie Wind sind?
+<sup>27</sup>Ja, ihr würdet sogar über eine Waise das Los werfen
+und mit eurem Freund Handel treiben.
+<sup>28</sup>Und jetzt seid doch so gut und seht mich an.
+Ich werde euch doch nicht ins Gesicht lügen.
+<sup>29</sup>Kehrt doch um, es soll kein Unrecht geschehen!
+Ja, kehrt um, meine Sache ist gerecht.
+<sup>30</sup>Ist Unrecht auf meiner Zunge?
+Kann mein Gaumen nicht unterscheiden, was verderblich ist?“
+
+> **Was bedeutet das?**
+> Hiob fordert seine Freunde heraus: Wenn ich gesündigt habe, dann zeigt mir, wo! Sagt es konkret!
+> Vers 26 ist sehr menschlich: Die Worte eines Verzweifelten sind „wie Wind“. Man sollte sie nicht auf die Goldwaage legen. Wer in tiefer Not ist, sagt manchmal harte Dinge. Ein Freund sollte das verstehen.
+> „Seht mich an!“: Hiob bittet seine Freunde, ihn wirklich anzusehen, als Menschen, nicht als Fall für ihre Theorie.
+> Das ist eine wichtige Lehre für alle, die Leidende begleiten: Erst zuhören, erst hinsehen, bevor man Ratschläge gibt.
