@@ -90184,3 +90184,290 @@ und nicht vom Mund der Nachkommen deiner Nachkommen“, spricht der HERR,
 > Vers 18: Gott sorgt dafür, dass Unrecht nicht ungestraft bleibt. Das Gericht ist seine Sache, nicht die Sache von Menschen, die Rache üben wollen.
 > Vers 20: „Ein Erlöser wird nach Zion kommen“ zu denen, die umkehren. Paulus zitiert diesen Vers in Römer 11,26.
 > Vers 21: Gottes Geist und Gottes Wort sollen bei seinem Volk bleiben, von Generation zu Generation, für immer.
+
+## Jesaja – Kapitel 60
+#### Mache dich auf, werde licht!
+
+---
+
+### Dein Licht kommt (Vers 1–9)
+
+<sup>1</sup>„Steh auf, werde licht, denn dein Licht ist gekommen,
+und die Herrlichkeit des HERRN ist über dir aufgegangen!
+<sup>2</sup>Denn siehe, Finsternis bedeckt die Erde
+und Dunkelheit die Völker.
+Aber über dir wird der HERR aufgehen,
+und seine Herrlichkeit wird über dir sichtbar werden.
+<sup>3</sup>Nationen werden zu deinem Licht kommen
+und Könige zu dem Glanz, der über dir aufgeht.
+<sup>4</sup>Hebe deine Augen auf und sieh dich um:
+Sie alle versammeln sich, sie kommen zu dir.
+Deine Söhne werden von fern kommen,
+und deine Töchter werden auf den Armen getragen.
+<sup>5</sup>Dann wirst du es sehen und strahlen,
+und dein Herz wird beben und weit werden,
+weil der Reichtum des Meeres sich dir zuwendet.
+Der Reichtum der Nationen wird zu dir kommen.
+<sup>6</sup>Eine Menge Kamele wird dich bedecken,
+die jungen Kamele aus Midian und Efa.
+Alle aus Saba werden kommen.
+Sie werden Gold und Weihrauch bringen
+und das Lob des HERRN verkünden.
+<sup>7</sup>Alle Herden von Kedar werden sich bei dir versammeln.
+Die Widder von Nebajot werden dir dienen.
+Sie werden als Opfer auf meinem Altar angenommen,
+und ich werde mein herrliches Haus schmücken.
+<sup>8</sup>Wer sind diese, die wie eine Wolke heranfliegen
+und wie Tauben zu ihren Schlägen?
+<sup>9</sup>Gewiss, die Inseln warten auf mich,
+und die Schiffe von Tarschisch zuerst,
+um deine Söhne von fern zu bringen,
+ihr Silber und ihr Gold mit ihnen,
+für den Namen des HERRN, deines Gottes,
+und für den Heiligen Israels,
+weil er dich herrlich gemacht hat.
+
+> **Was bedeutet das?**
+> Vers 1–3: Ein strahlender Anfang: „Steh auf, werde licht!“ Die Welt liegt im Dunkeln, aber über Jerusalem geht Gottes Licht auf wie die Sonne. Und die Völker kommen zu diesem Licht. Dieser Text wird in vielen Kirchen am Fest der Erscheinung des Herrn (Epiphanias, 6. Januar) gelesen.
+> Vers 4: Die verstreuten Kinder kommen nach Hause, die kleinen werden getragen.
+> Vers 6: Völker aus Arabien bringen „Gold und Weihrauch“. Das erinnert Christen an die Weisen aus dem Morgenland, die dem Jesuskind Gold, Weihrauch und Myrrhe brachten (Matthäus 2,11). Von hier und aus Psalm 72 kommt auch die Tradition, dass die Weisen Könige waren und auf Kamelen kamen.
+> Vers 8: Ein schönes Bild: Die Schiffe mit den Heimkehrern sehen aus wie eine Wolke von Tauben, die zu ihrem Taubenschlag zurückfliegen.
+
+---
+
+### Deine Tore sind immer offen (Vers 10–16)
+
+<sup>10</sup>Fremde werden deine Mauern aufbauen,
+und ihre Könige werden dir dienen.
+Denn in meinem Zorn habe ich dich geschlagen,
+aber in meinem Wohlwollen habe ich mich über dich erbarmt.
+<sup>11</sup>Deine Tore werden ständig offen stehen.
+Weder bei Tag noch bei Nacht werden sie geschlossen werden,
+damit man den Reichtum der Nationen zu dir bringen kann
+und ihre Könige im Zug herbeigeführt werden.
+<sup>12</sup>Denn die Nation und das Königreich, die dir nicht dienen wollen,
+werden untergehen.
+Ja, diese Nationen werden völlig verwüstet werden.
+<sup>13</sup>Die Pracht des Libanon wird zu dir kommen,
+die Zypresse, die Pinie und der Buchsbaum zusammen,
+um den Ort meines Heiligtums zu schmücken.
+Und ich werde den Ort meiner Füße herrlich machen.
+<sup>14</sup>Die Söhne deiner Unterdrücker werden gebeugt zu dir kommen,
+und alle, die dich verachtet haben,
+werden sich zu deinen Fußsohlen niederwerfen.
+Sie werden dich nennen: „Stadt des HERRN,
+Zion des Heiligen Israels“.
+<sup>15</sup>Statt dass du verlassen und gehasst warst,
+sodass niemand durch dich hindurchzog,
+werde ich dich zu einer ewigen Pracht machen,
+zu einer Freude für viele Generationen.
+<sup>16</sup>Du wirst auch die Milch der Nationen trinken
+und an der Brust von Königen gestillt werden.
+Dann wirst du erkennen, dass ich, der HERR, dein Retter bin,
+dein Erlöser, der Starke Jakobs.
+
+> **Was bedeutet das?**
+> Vers 10: Gott sagt: Mein Zorn war kurz, mein Erbarmen ist groß.
+> Vers 11: Die Tore Jerusalems stehen Tag und Nacht offen. Niemand muss mehr Angst vor Feinden haben. Die Offenbarung nimmt dieses Bild für das neue Jerusalem auf (21,25–26).
+> Vers 12 und 14: Hier klingt die Sprache der damaligen Zeit an: Die Völker, die Israel unterdrückt haben, werden sich nun vor ihm verneigen. Die Verhältnisse kehren sich um. Das ist eine Hoffnung der Unterdrückten auf Gerechtigkeit, keine Rechtfertigung dafür, über andere Völker zu herrschen.
+> Vers 16: Ein liebevolles Bild: Jerusalem wird versorgt wie ein Baby, das von Königinnen gestillt wird.
+
+---
+
+### Der HERR ist dein ewiges Licht (Vers 17–22)
+
+<sup>17</sup>Statt Bronze werde ich Gold bringen,
+statt Eisen Silber,
+statt Holz Bronze
+und statt Steinen Eisen.
+Ich werde auch den Frieden zu deiner Obrigkeit machen
+und die Gerechtigkeit zu deinem Herrscher.
+<sup>18</sup>Man wird nicht mehr von Gewalt hören in deinem Land
+und nicht von Verwüstung und Zerstörung in deinen Grenzen.
+Sondern du wirst deine Mauern „Heil“ nennen
+und deine Tore „Lob“.
+<sup>19</sup>Die Sonne wird nicht mehr dein Licht sein am Tag,
+und der Glanz des Mondes wird dir nicht mehr leuchten.
+Sondern der HERR wird dein ewiges Licht sein
+und dein Gott deine Herrlichkeit.
+<sup>20</sup>Deine Sonne wird nicht mehr untergehen,
+und dein Mond wird nicht mehr abnehmen.
+Denn der HERR wird dein ewiges Licht sein,
+und die Tage deiner Trauer werden zu Ende sein.
+<sup>21</sup>Dann wird dein Volk ganz gerecht sein.
+Sie werden das Land für immer erben,
+der Spross meiner Pflanzung,
+das Werk meiner Hände, damit ich verherrlicht werde.
+<sup>22</sup>Der Kleinste wird zu tausend werden
+und der Geringste zu einem starken Volk.
+Ich, der HERR, werde es zu seiner Zeit schnell ausführen.
+
+> **Was bedeutet das?**
+> Vers 17: Alles wird besser und wertvoller. Und die Stadt wird nicht von Tyrannen regiert, sondern von „Frieden“ und „Gerechtigkeit“.
+> Vers 18: Eine Welt ohne Gewalt! Die Mauern heißen „Heil“ und die Tore „Lob“. Was für eine Hoffnung für alle, die unter Krieg und Gewalt leiden.
+> Vers 19–20: Gott selbst wird das Licht sein, ein Licht, das nie untergeht. „Die Tage deiner Trauer werden zu Ende sein.“ Auch dieses Bild greift die Offenbarung auf (21,23; 22,5).
+> Vers 22: Aus dem kleinen Rest wird ein großes Volk. Gott tut es, wenn die Zeit gekommen ist.
+
+## Jesaja – Kapitel 61
+#### Der Geist des Herrn ist auf mir
+
+---
+
+### Gute Nachricht für die Armen (Vers 1–3)
+
+<sup>1</sup>Der Geist des Herrn, des HERRN, ist auf mir,
+weil der HERR mich gesalbt hat,
+um den Demütigen eine gute Nachricht zu bringen.
+Er hat mich gesandt, um die zu verbinden, die ein gebrochenes Herz haben,
+um den Gefangenen Freiheit zu verkünden
+und den Gefesselten die Befreiung,
+<sup>2</sup>um das Gnadenjahr des HERRN zu verkünden
+und den Tag der Vergeltung unseres Gottes,
+um alle Trauernden zu trösten,
+<sup>3</sup>um für die Trauernden in Zion zu sorgen,
+um ihnen einen Kranz statt Asche zu geben,
+Freudenöl statt Trauer,
+ein Gewand des Lobes statt eines bedrückten Geistes,
+damit man sie „Bäume der Gerechtigkeit“ nennt,
+„Pflanzung des HERRN“, damit er verherrlicht wird.
+
+> **Was bedeutet das?**
+> Hier spricht jemand, auf dem Gottes Geist ruht. Er ist „gesalbt“, also beauftragt. Sein Auftrag:
+> – den Armen und Demütigen eine gute Nachricht bringen,
+> – Menschen mit gebrochenem Herzen verbinden, wie man eine Wunde verbindet,
+> – Gefangenen Freiheit verkünden,
+> – Trauernde trösten.
+> „Gnadenjahr“ erinnert an das Jubeljahr (3. Mose 25): Alle 50 Jahre sollten Schulden erlassen und Sklaven freigelassen werden. Ein Neuanfang für alle.
+> Vers 3: Statt Asche auf dem Kopf (ein Zeichen der Trauer) bekommen die Trauernden einen Festkranz. Statt Trauer Freudenöl.
+> In der Synagoge von Nazaret las Jesus diese Verse vor und sagte: „Heute ist dieses Schriftwort erfüllt, wie ihr es gehört habt“ (Lukas 4,16–21). Er hörte mitten in Vers 2 auf, beim „Gnadenjahr des HERRN“, und las den „Tag der Vergeltung“ nicht mehr vor. Im Judentum versteht man den Sprecher meist als den Propheten selbst, der Israel diese Botschaft bringt.
+
+---
+
+### Ihr werdet Priester des HERRN genannt (Vers 4–9)
+
+<sup>4</sup>Sie werden die alten Trümmer wieder aufbauen.
+Sie werden die früheren Verwüstungen wieder aufrichten.
+Sie werden die zerstörten Städte erneuern,
+die seit vielen Generationen verwüstet sind.
+<sup>5</sup>Fremde werden dastehen und eure Herden weiden.
+Ausländer werden eure Ackerbauern und Weingärtner sein.
+<sup>6</sup>Ihr aber werdet „Priester des HERRN“ genannt werden.
+Man wird euch „Diener unseres Gottes“ nennen.
+Ihr werdet den Reichtum der Nationen essen.
+Ihr werdet euch ihrer Herrlichkeit rühmen.
+<sup>7</sup>Statt eurer Schande werdet ihr doppelten Anteil haben.
+Statt der Schmach werden sie sich über ihren Anteil freuen.
+Darum werden sie in ihrem Land das Doppelte besitzen.
+Ewige Freude wird ihnen zuteil.
+<sup>8</sup>„Denn ich, der HERR, liebe das Recht.
+Ich hasse Raub und Unrecht.
+Ich werde ihnen ihren Lohn in Treue geben
+und einen ewigen Bund mit ihnen schließen.
+<sup>9</sup>Ihre Nachkommen werden unter den Nationen bekannt sein
+und ihre Kinder unter den Völkern.
+Alle, die sie sehen, werden sie anerkennen,
+dass sie die Nachkommen sind, die der HERR gesegnet hat.“
+
+> **Was bedeutet das?**
+> Vers 4: Die Heimkehrer bauen die zerstörten Städte wieder auf.
+> Vers 5–6: Ganz Israel wird zu „Priestern des HERRN“. So wie die Priester für das Volk da waren, soll Israel für die ganze Welt da sein und den Völkern Gott zeigen (vgl. 2. Mose 19,6). Die anderen Völker helfen ihm dabei.
+> Vers 7: Für die erlittene Schande gibt es doppelte Freude.
+> Vers 8: „Ich, der HERR, liebe das Recht. Ich hasse Raub und Unrecht.“ Das ist ein Grundsatz für alles, was Gott tut.
+
+---
+
+### Ich freue mich im HERRN (Vers 10–11)
+
+<sup>10</sup>Ich freue mich sehr im HERRN!
+Meine Seele jubelt in meinem Gott,
+denn er hat mir die Kleider des Heils angezogen.
+Er hat mich mit dem Mantel der Gerechtigkeit bedeckt,
+wie ein Bräutigam sich mit einem Kranz schmückt
+und wie eine Braut sich mit ihrem Schmuck ziert.
+<sup>11</sup>Denn wie die Erde ihre Sprossen hervorbringt
+und wie ein Garten das aufgehen lässt, was in ihn gesät ist,
+so wird der Herr, der HERR, Gerechtigkeit und Lob
+vor allen Nationen aufsprossen lassen.
+
+> **Was bedeutet das?**
+> Vers 10: Ein Freudenlied. Gott hat den Sprecher neu eingekleidet, mit Heil und Gerechtigkeit, schön wie Braut und Bräutigam am Hochzeitstag. Maria singt ähnlich: „Meine Seele preist den Herrn, und mein Geist jubelt über Gott, meinen Retter“ (Lukas 1,46–47).
+> Vers 11: Gerechtigkeit wächst wie eine Pflanze im Garten. Gott lässt sie aufgehen, langsam, aber sicher.
+
+## Jesaja – Kapitel 62
+#### Um Zions willen will ich nicht schweigen
+
+---
+
+### Ein neuer Name (Vers 1–5)
+
+<sup>1</sup>Um Zions willen will ich nicht schweigen,
+und um Jerusalems willen will ich nicht ruhen,
+bis ihre Gerechtigkeit hervorbricht wie die Morgenröte
+und ihr Heil wie eine brennende Fackel.
+<sup>2</sup>Die Nationen werden deine Gerechtigkeit sehen
+und alle Könige deine Herrlichkeit.
+Du wirst mit einem neuen Namen genannt werden,
+den der Mund des HERRN bestimmen wird.
+<sup>3</sup>Du wirst auch eine Krone der Schönheit sein in der Hand des HERRN
+und ein königliches Diadem in der Hand deines Gottes.
+<sup>4</sup>Man wird dich nicht mehr „Verlassene“ nennen,
+und dein Land wird nicht mehr „Verwüstete“ genannt werden.
+Sondern du wirst „Hefzi-Bah“ genannt werden
+und dein Land „Beula“,
+denn der HERR hat Gefallen an dir,
+und dein Land wird verheiratet sein.
+<sup>5</sup>Denn wie ein junger Mann eine junge Frau heiratet,
+so werden deine Söhne dich heiraten.
+Und wie sich ein Bräutigam über seine Braut freut,
+so wird sich dein Gott über dich freuen.
+
+> **Was bedeutet das?**
+> Vers 1: Der Prophet sagt: Ich höre nicht auf, für Jerusalem zu beten und zu rufen, bis die Rettung da ist.
+> Vers 2–4: Jerusalem bekommt einen neuen Namen. Früher hieß sie „Verlassene“ und „Verwüstete“. Jetzt heißt sie „Hefzi-Bah“, das bedeutet „Ich habe Gefallen an ihr“, und das Land heißt „Beula“, das bedeutet „Verheiratete“.
+> Vers 5: Gott freut sich über sein Volk wie ein Bräutigam über seine Braut. Ein sehr zärtliches Bild für Gottes Liebe. Dass die „Söhne“ die Stadt „heiraten“, meint: Die Bewohner werden wieder fest mit ihrer Stadt verbunden sein.
+
+---
+
+### Wächter auf den Mauern (Vers 6–9)
+
+<sup>6</sup>Ich habe Wächter auf deine Mauern gestellt, Jerusalem.
+Sie werden niemals schweigen, weder bei Tag noch bei Nacht.
+Ihr, die ihr den HERRN anruft, gönnt euch keine Ruhe
+<sup>7</sup>und gönnt ihm keine Ruhe,
+bis er Jerusalem wieder aufrichtet
+und bis er es zum Lob auf der Erde macht.
+<sup>8</sup>Der HERR hat bei seiner rechten Hand geschworen
+und bei seinem starken Arm:
+„Gewiss, ich werde dein Getreide nicht mehr deinen Feinden zu essen geben,
+und Fremde werden deinen Most nicht mehr trinken,
+für den du dich abgemüht hast.
+<sup>9</sup>Sondern die es geerntet haben, werden es essen
+und den HERRN loben.
+Und die ihn gesammelt haben, werden ihn trinken
+in den Vorhöfen meines Heiligtums.“
+
+> **Was bedeutet das?**
+> Vers 6–7: Die „Wächter“ sind hier Menschen, die beten. Sie sollen Gott Tag und Nacht in den Ohren liegen, bis er Jerusalem wieder aufbaut. Ein mutiges Bild: Wir dürfen Gott „keine Ruhe lassen“ mit unseren Bitten. Jesus erzählt ein ähnliches Gleichnis von einer Witwe, die nicht aufgibt (Lukas 18,1–8).
+> Vers 8–9: Früher haben Feinde die Ernte geraubt. Jetzt verspricht Gott: Wer arbeitet, soll auch die Früchte seiner Arbeit genießen. Das ist Gerechtigkeit.
+
+---
+
+### Bahnt den Weg! (Vers 10–12)
+
+<sup>10</sup>Zieht hindurch, zieht hindurch durch die Tore!
+Bereitet den Weg des Volkes!
+Baut auf, baut auf die Straße!
+Räumt die Steine weg!
+Richtet ein Banner auf für die Völker!
+<sup>11</sup>Siehe, der HERR hat es bis ans Ende der Erde verkündet:
+„Sagt der Tochter Zion:
+‚Siehe, dein Heil kommt!
+Siehe, sein Lohn ist bei ihm,
+und seine Vergeltung geht vor ihm her!‘“
+<sup>12</sup>Man wird sie nennen: „Das heilige Volk, die Erlösten des HERRN“.
+Und dich wird man nennen: „Gesuchte, Stadt, die nicht verlassen ist“.
+
+> **Was bedeutet das?**
+> Vers 10: Wie in Kapitel 40 soll eine Straße gebaut werden, auf der das Volk heimkehren kann. Alle Steine sollen aus dem Weg geräumt werden.
+> Vers 11: „Sagt der Tochter Zion: Siehe, dein Heil kommt!“ Das Matthäusevangelium verbindet diese Worte mit dem Einzug von Jesus in Jerusalem (Matthäus 21,5).
+> Vers 12: Wieder neue Namen: „Das heilige Volk“, „Die Erlösten des HERRN“, „Gesuchte“, „Stadt, die nicht verlassen ist“. Wer sich verlassen gefühlt hat, hört jetzt: Du bist gesucht und gewollt.
