@@ -66214,3 +66214,336 @@ Schweig, und ich will dich Weisheit lehren.“
 > **Was bedeutet das?**
 > Vers 32 ist bemerkenswert: „Ich möchte dich gerecht sprechen.“ Elihu will Hiob nicht verurteilen wie die Freunde. Er will ihm helfen.
 > Hiob antwortet nicht. Vielleicht hört er zu. Vielleicht ist er erschöpft. Die Bibel sagt es nicht.
+
+## Hiob – Kapitel 34
+#### Elihus zweite Rede: Gott tut kein Unrecht
+
+---
+
+### Prüft meine Worte (Vers 1–4)
+
+<sup>1</sup>Weiter antwortete Elihu und sagte:
+<sup>2</sup>„Hört meine Worte, ihr Weisen!
+Hört mir zu, ihr, die ihr Wissen habt!
+<sup>3</sup>Denn das Ohr prüft Worte,
+so wie der Gaumen das Essen schmeckt.
+<sup>4</sup>Lasst uns für uns wählen, was recht ist.
+Lasst uns untereinander erkennen, was gut ist.
+
+> **Was bedeutet das?**
+> Jetzt spricht Elihu die Weisen an, also die drei Freunde und alle, die zuhören.
+> Vers 3: So wie man mit dem Mund schmeckt, ob Essen gut ist, so soll man mit dem Ohr prüfen, ob Worte wahr sind. Elihu lädt ein, gemeinsam zu prüfen, was richtig ist. Hiob selbst hatte dasselbe Bild schon benutzt (Kapitel 12,11).
+
+---
+
+### Was Hiob gesagt hat (Vers 5–9)
+
+<sup>5</sup>Denn Hiob hat gesagt: ‚Ich bin gerecht,
+Gott hat mir mein Recht genommen.
+<sup>6</sup>Trotz meines Rechts gelte ich als Lügner.
+Meine Wunde ist unheilbar, obwohl ich ohne Ungehorsam bin.‘
+<sup>7</sup>Welcher Mann ist wie Hiob,
+der Spott trinkt wie Wasser,
+<sup>8</sup>der in Gemeinschaft mit Übeltätern geht
+und mit bösen Menschen wandert?
+<sup>9</sup>Denn er hat gesagt: ‚Es nützt einem Menschen nichts,
+wenn er an Gott Freude hat.‘
+
+> **Was bedeutet das?**
+> Elihu zitiert Hiob (vgl. Kapitel 27,2; 9,22). Dann wird er scharf: Hiob „trinkt Spott wie Wasser“, das heißt: Er redet abfällig über Gott, so selbstverständlich, wie man Wasser trinkt.
+> Vers 8 ist ein harter Vorwurf: Hiob rede wie die Gottlosen. Elihu meint wohl nicht, dass Hiob mit Verbrechern umgeht, sondern dass seine Worte klingen wie ihre.
+> Vers 9: Hiob hatte gesagt, dass es den Gottlosen oft gut geht (Kapitel 21). Elihu versteht das so: Hiob meint, es lohne sich nicht, Gott zu dienen. Hier ist Elihu zu hart: Hiob hat nie aufgehört, an Gott festzuhalten.
+
+---
+
+### Gott tut kein Unrecht (Vers 10–15)
+
+<sup>10</sup>Darum hört mir zu, ihr verständigen Männer:
+Fern sei es von Gott, dass er Böses tut,
+und vom Allmächtigen, dass er Unrecht begeht!
+<sup>11</sup>Denn das Werk eines Menschen vergilt er ihm,
+und jeden lässt er finden, was seinen Wegen entspricht.
+<sup>12</sup>Ja wirklich, Gott handelt nicht böse,
+und der Allmächtige verdreht das Recht nicht.
+<sup>13</sup>Wer hat ihm die Erde anvertraut?
+Oder wer hat ihn über die ganze Welt gesetzt?
+<sup>14</sup>Wenn er sein Herz nur auf sich selbst richten würde,
+wenn er seinen Geist und seinen Atem zu sich zurücknehmen würde,
+<sup>15</sup>dann würden alle Lebewesen zusammen umkommen,
+und der Mensch würde wieder zu Staub werden.
+
+> **Was bedeutet das?**
+> Das ist Elihus Hauptgedanke: Gott kann nicht ungerecht sein. Das wäre gegen sein Wesen.
+> Vers 13: Niemand hat Gott die Welt übergeben. Sie gehört ihm, weil er sie geschaffen hat. Er ist keinem Rechenschaft schuldig.
+> Vers 14–15: Alles Leben hängt an Gottes Atem. Wenn Gott nur an sich selbst denken würde und seinen Atem zurücknähme, wäre alles Leben sofort tot (vgl. Psalm 104,29; 1. Mose 2,7; 3,19). Dass wir leben, zeigt: Gott sorgt für seine Geschöpfe.
+
+---
+
+### Gott ist unparteiisch (Vers 16–20)
+
+<sup>16</sup>Wenn du nun Verstand hast, hör dies!
+Achte auf den Klang meiner Worte!
+<sup>17</sup>Sollte etwa einer herrschen, der das Recht hasst?
+Willst du den verurteilen, der gerecht und mächtig ist,
+<sup>18</sup>der zu einem König sagt: ‚Nichtswürdiger!‘
+oder zu Edlen: ‚Gottlose!‘?
+<sup>19</sup>Er nimmt keine Rücksicht auf die Person von Fürsten
+und achtet den Reichen nicht mehr als den Armen,
+denn sie alle sind das Werk seiner Hände.
+<sup>20</sup>In einem Augenblick sterben sie, sogar um Mitternacht.
+Die Menschen werden erschüttert und vergehen.
+Die Mächtigen werden weggenommen, ohne dass eine Hand es tut.
+
+> **Was bedeutet das?**
+> Elihu fragt: Kann jemand die Welt regieren, der das Recht hasst? Nein. Gott regiert die Welt, also muss er gerecht sein.
+> Gott hat keine Angst vor Mächtigen. Er kann auch einem König die Wahrheit sagen. Für ihn sind Reiche und Arme gleich, weil er alle gemacht hat (vgl. Hiob 31,15).
+> Vers 20: Auch die Mächtigsten können plötzlich sterben, ohne dass ein Mensch Hand an sie legt. Gott braucht keine Armee.
+
+---
+
+### Gott sieht alles (Vers 21–30)
+
+<sup>21</sup>Denn seine Augen sind auf die Wege eines Menschen gerichtet.
+Er sieht alle seine Schritte.
+<sup>22</sup>Es gibt keine Finsternis und kein tiefes Dunkel,
+wo sich die Übeltäter verstecken könnten.
+<sup>23</sup>Denn er muss einen Menschen nicht erst lange prüfen,
+damit er vor Gott ins Gericht geht.
+<sup>24</sup>Er zerbricht Mächtige auf unerforschliche Weise
+und setzt andere an ihre Stelle.
+<sup>25</sup>Darum kennt er ihre Werke.
+Er stürzt sie in der Nacht, sodass sie vernichtet werden.
+<sup>26</sup>Er schlägt sie als Gottlose
+vor den Augen der anderen,
+<sup>27</sup>weil sie davon abgewichen sind, ihm zu folgen,
+und auf keinen seiner Wege geachtet haben,
+<sup>28</sup>sodass sie das Schreien der Armen zu ihm kommen ließen.
+Er hörte das Schreien der Elenden.
+<sup>29</sup>Wenn er Ruhe gibt, wer kann dann verurteilen?
+Wenn er sein Angesicht verbirgt, wer kann ihn dann sehen?
+Er ist über einem Volk wie über einem Menschen gleich,
+<sup>30</sup>damit der gottlose Mensch nicht regiert
+und niemand da ist, der das Volk in eine Falle lockt.
+
+> **Was bedeutet das?**
+> Gott sieht alles. Niemand kann sich vor ihm verstecken (vgl. Psalm 139,11–12).
+> Vers 23: Gott braucht keinen langen Gerichtsprozess wie Menschen. Er weiß schon alles. Hiob hatte sich einen Gerichtstermin mit Gott gewünscht. Elihu sagt: Das ist nicht nötig.
+> Vers 28: Gott hört das Schreien der Armen. Wenn Mächtige die Armen unterdrücken, greift Gott ein (vgl. 2. Mose 3,7).
+> Vers 29: Manchmal schweigt Gott, „er verbirgt sein Angesicht“. Aber auch dann regiert er. Er sorgt dafür, dass Gottlose nicht für immer herrschen.
+
+---
+
+### Hiob redet ohne Einsicht (Vers 31–37)
+
+<sup>31</sup>Denn hat jemals einer zu Gott gesagt:
+‚Ich bin schuldig, aber ich will nicht mehr Böses tun.
+<sup>32</sup>Lehre mich, was ich nicht sehe.
+Wenn ich Unrecht getan habe, will ich es nicht mehr tun‘?
+<sup>33</sup>Soll seine Vergeltung so sein, wie du willst, weil du sie ablehnst?
+Denn du musst wählen, nicht ich.
+Darum sag, was du weißt.
+<sup>34</sup>Verständige Menschen werden mir sagen,
+ja, jeder weise Mann, der mich hört:
+<sup>35</sup>‚Hiob redet ohne Wissen.
+Seine Worte sind ohne Weisheit.‘
+<sup>36</sup>Ich wünschte, Hiob würde bis zum Ende geprüft,
+weil er antwortet wie böse Menschen.
+<sup>37</sup>Denn er fügt zu seiner Sünde noch Auflehnung hinzu.
+Er klatscht unter uns in die Hände
+und macht viele Worte gegen Gott.“
+
+> **Was bedeutet das?**
+> Vers 31–32 ist ein Vorschlag, wie man richtig mit Gott redet: „Lehre mich, was ich nicht sehe.“ Das ist ein demütiges Gebet. Elihu meint: So sollte Hiob beten, statt Gott anzuklagen.
+> Vers 33 ist im Hebräischen schwer zu verstehen. Gemeint ist wohl: Gott richtet sich nicht nach deinen Wünschen, Hiob. Wenn du es besser weißt, sag es.
+> Vers 36–37 sind sehr hart. Elihu wünscht, dass Hiob „bis zum Ende geprüft“ wird. Er sagt, Hiob füge Auflehnung zu seiner Sünde hinzu. Hier klingt Elihu wieder fast wie die drei Freunde.
+> Am Ende des Buches sagt Gott selbst, dass Hiob „recht von mir geredet“ hat (Kapitel 42,7). Elihus scharfes Urteil ist also nicht das letzte Wort.
+
+## Hiob – Kapitel 35
+#### Elihus dritte Rede: Gott ist erhaben
+
+---
+
+### Was nützt Gott unser Tun? (Vers 1–8)
+
+<sup>1</sup>Weiter antwortete Elihu und sagte:
+<sup>2</sup>„Hältst du das für dein Recht,
+oder sagst du: ‚Meine Gerechtigkeit ist größer als die von Gott‘,
+<sup>3</sup>wenn du fragst: ‚Was für einen Vorteil wird es dir bringen?
+Was habe ich davon, mehr als wenn ich gesündigt hätte?‘
+<sup>4</sup>Ich will dir antworten
+und deinen Gefährten mit dir.
+<sup>5</sup>Schau zum Himmel und sieh!
+Sieh die Wolken an, die höher sind als du!
+<sup>6</sup>Wenn du gesündigt hast, was bewirkst du gegen ihn?
+Wenn deine Übertretungen viele sind, was tust du ihm an?
+<sup>7</sup>Wenn du gerecht bist, was gibst du ihm?
+Oder was empfängt er aus deiner Hand?
+<sup>8</sup>Deine Bosheit kann einem Menschen schaden, wie du einer bist,
+und deine Gerechtigkeit kann einem Menschenkind nützen.
+
+> **Was bedeutet das?**
+> Hiob hatte gefragt: Was nützt es mir, nicht zu sündigen? (vgl. Kapitel 7,20; 10,14–15). Elihu antwortet mit einem Blick nach oben: Der Himmel ist so hoch über dir. Gott ist noch viel höher.
+> Gott ist nicht abhängig von uns. Unsere Sünde kann ihm nicht schaden, unsere Gerechtigkeit macht ihn nicht reicher.
+> Aber Vers 8 ist wichtig: Unser Tun betrifft andere Menschen. Böses verletzt Menschen, Gutes hilft ihnen. Deshalb ist es nicht egal, wie wir leben.
+
+---
+
+### Warum Gott manchmal nicht antwortet (Vers 9–16)
+
+<sup>9</sup>Wegen der vielen Unterdrückungen schreien sie.
+Sie rufen um Hilfe wegen des Arms der Mächtigen.
+<sup>10</sup>Aber niemand sagt: ‚Wo ist Gott, mein Schöpfer,
+der Lieder gibt in der Nacht,
+<sup>11</sup>der uns mehr lehrt als die Tiere der Erde
+und uns weiser macht als die Vögel des Himmels?‘
+<sup>12</sup>Dort schreien sie, aber niemand antwortet,
+wegen des Hochmuts der bösen Menschen.
+<sup>13</sup>Gewiss, Gott hört kein leeres Schreien,
+und der Allmächtige achtet nicht darauf.
+<sup>14</sup>Wie viel weniger, wenn du sagst, dass du ihn nicht siehst!
+Die Sache liegt vor ihm, und du wartest auf ihn!
+<sup>15</sup>Aber nun, weil er nicht in seinem Zorn heimgesucht hat
+und den Hochmut nicht besonders beachtet,
+<sup>16</sup>darum öffnet Hiob seinen Mund zu leerem Gerede
+und macht viele Worte ohne Wissen.“
+
+> **Was bedeutet das?**
+> Elihu sagt: Viele Menschen schreien in ihrer Not. Aber sie schreien nur wegen ihres Schmerzes, nicht nach Gott selbst. Sie fragen nicht: „Wo ist Gott, mein Schöpfer?“
+> „Der Lieder gibt in der Nacht“ ist ein wunderschönes Bild: Gott kann mitten in dunklen Zeiten Trost und sogar Freude schenken (vgl. Psalm 42,9; Apostelgeschichte 16,25).
+> Vers 14 kann man auch als Trost lesen: „Deine Sache liegt vor ihm, warte auf ihn!“ Gott hat Hiobs Fall nicht vergessen.
+> Vers 15–16: Elihu meint, Gott habe Hiob noch nicht im Zorn gestraft. Deshalb rede Hiob so viel. Auch hier ist Elihu sehr streng. Viele Menschen in Not haben nicht nur „leer geschrien“, sondern wirklich nach Gott gesucht, so wie Hiob.
+
+## Hiob – Kapitel 36
+#### Elihus vierte Rede: Gott erzieht durch Leid
+
+---
+
+### Ich rede für Gott (Vers 1–4)
+
+<sup>1</sup>Elihu fuhr fort und sagte:
+<sup>2</sup>„Hab noch ein wenig Geduld mit mir, und ich will es dir zeigen,
+denn ich habe noch etwas für Gott zu sagen.
+<sup>3</sup>Ich will mein Wissen von weit her holen
+und meinem Schöpfer Gerechtigkeit zusprechen.
+<sup>4</sup>Denn wirklich, meine Worte sind nicht falsch.
+Einer, der vollkommen im Wissen ist, ist bei dir.
+
+> **Was bedeutet das?**
+> Elihus vierte und letzte Rede beginnt. Er will „für Gott“ sprechen und zeigen, dass Gott gerecht ist.
+> Vers 4: „Einer, der vollkommen im Wissen ist“: Manche verstehen das als Selbstlob Elihus. Andere meinen, er spricht hier schon von Gott (so wird derselbe Ausdruck in Kapitel 37,16 für Gott gebraucht). Beides ist möglich.
+
+---
+
+### Gott verachtet niemanden (Vers 5–12)
+
+<sup>5</sup>Schau, Gott ist mächtig und verachtet niemanden.
+Er ist mächtig an Kraft des Verstandes.
+<sup>6</sup>Er erhält das Leben des Gottlosen nicht,
+sondern verschafft den Elenden Recht.
+<sup>7</sup>Er wendet seine Augen nicht von den Gerechten ab.
+Bei Königen auf dem Thron setzt er sie für immer ein,
+und sie werden erhöht.
+<sup>8</sup>Wenn sie mit Fesseln gebunden sind
+und in den Stricken des Elends gefangen,
+<sup>9</sup>dann zeigt er ihnen ihr Tun
+und ihre Übertretungen, dass sie hochmütig gehandelt haben.
+<sup>10</sup>Er öffnet auch ihr Ohr für die Zurechtweisung
+und befiehlt ihnen, vom Unrecht umzukehren.
+<sup>11</sup>Wenn sie hören und ihm dienen,
+werden sie ihre Tage im Glück verbringen
+und ihre Jahre in Freuden.
+<sup>12</sup>Wenn sie aber nicht hören, werden sie durch das Schwert umkommen.
+Sie werden sterben ohne Erkenntnis.
+
+> **Was bedeutet das?**
+> Gott ist mächtig, aber er verachtet niemanden. Seine Macht ist mit Verstand und Fürsorge verbunden.
+> Elihu erklärt seinen Hauptgedanken noch einmal: Wenn Gerechte ins Leid kommen („gefesselt“), will Gott ihnen etwas zeigen. Vielleicht gibt es Hochmut in ihrem Leben, den sie nicht sehen. Gott öffnet ihnen das Ohr.
+> Wer darauf hört, findet wieder ins Glück. Wer nicht hört, geht zugrunde.
+> Das ist ein Gedanke, den die Bibel auch an anderen Stellen kennt (vgl. Hebräer 12,5–11). Aber er erklärt nicht jedes Leid. Hiobs Leid hatte nach Kapitel 1–2 einen anderen Grund.
+
+---
+
+### Gott rettet durch das Leid (Vers 13–16)
+
+<sup>13</sup>Aber die, die im Herzen gottlos sind, sammeln Zorn an.
+Sie schreien nicht um Hilfe, wenn er sie bindet.
+<sup>14</sup>Sie sterben in der Jugend.
+Ihr Leben vergeht unter den Unreinen.
+<sup>15</sup>Er rettet den Elenden durch sein Elend
+und öffnet ihm das Ohr in der Bedrängnis.
+<sup>16</sup>Ja, er hätte auch dich aus der Not gelockt
+in einen weiten Raum, wo es keine Enge gibt.
+Was auf deinen Tisch gestellt würde, wäre voll von Fett.
+
+> **Was bedeutet das?**
+> Vers 14: „Unter den Unreinen“: Im Hebräischen steht ein Wort für Männer, die im Tempel fremder Götter dienten. Gemeint ist ein schändliches Ende.
+> Vers 15 ist der Kernsatz Elihus: Gott rettet den Leidenden „durch“ sein Leid. Das Leid kann ein Weg sein, auf dem Gott zu einem Menschen spricht.
+> Vers 16: Gott wollte Hiob aus der Enge herausführen in die Weite. „Ein Tisch voll Fett“ bedeutet: reiches, gutes Essen, ein Bild für Segen (vgl. Psalm 23,5).
+
+---
+
+### Eine Warnung an Hiob (Vers 17–21)
+
+<sup>17</sup>Aber du bist erfüllt vom Urteil über den Gottlosen.
+Urteil und Gericht halten dich fest.
+<sup>18</sup>Lass dich nicht vom Reichtum zum Zorn verleiten,
+und die Größe eines Bestechungsgeldes soll dich nicht abbringen.
+<sup>19</sup>Würde dein Reichtum dich in der Not erhalten
+oder alle Macht deiner Stärke?
+<sup>20</sup>Sehne dich nicht nach der Nacht,
+wenn Völker an ihrem Ort weggerafft werden.
+<sup>21</sup>Hüte dich, wende dich nicht dem Unrecht zu,
+denn das hast du lieber gewählt als das Elend.
+
+> **Was bedeutet das?**
+> Diese Verse sind im Hebräischen sehr schwer. Die Übersetzungen weichen stark voneinander ab.
+> Gemeint ist wohl: Hiob, du bist ganz damit beschäftigt, über Gerechtigkeit und Gericht zu streiten. Pass auf, dass dich das nicht verbittert.
+> Vers 20: „Sehne dich nicht nach der Nacht“: Hiob hatte sich oft den Tod gewünscht (Kapitel 3). Elihu warnt ihn davor.
+> Wenn du selbst gerade keinen Sinn mehr im Leben siehst: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr). Bei akuter Gefahr: Notruf 112.
+
+---
+
+### Wer ist ein Lehrer wie Gott? (Vers 22–26)
+
+<sup>22</sup>Schau, Gott ist erhaben in seiner Macht.
+Wer ist ein Lehrer wie er?
+<sup>23</sup>Wer hat ihm seinen Weg vorgeschrieben?
+Oder wer kann sagen: ‚Du hast Unrecht getan‘?
+<sup>24</sup>Denk daran, sein Werk zu preisen,
+von dem die Menschen gesungen haben.
+<sup>25</sup>Alle Menschen haben es angeschaut.
+Der Mensch sieht es von fern.
+<sup>26</sup>Schau, Gott ist groß, und wir erkennen ihn nicht.
+Die Zahl seiner Jahre ist unerforschlich.
+
+> **Was bedeutet das?**
+> Jetzt wechselt Elihu den Ton. Er streitet nicht mehr, sondern lobt Gott.
+> Gott ist der beste Lehrer. Niemand kann ihm vorschreiben, was er tun soll.
+> Statt Gott anzuklagen, soll Hiob Gottes Werke preisen, so wie die Menschen es seit jeher in Liedern tun.
+> Vers 26: „Gott ist groß, und wir erkennen ihn nicht.“ Unser Verstand reicht nicht aus, um Gott ganz zu verstehen. Er ist ewig.
+
+---
+
+### Gott im Regen und im Gewitter (Vers 27–33)
+
+<sup>27</sup>Denn er zieht die Wassertropfen herauf,
+die als Regen aus seinem Dunst herabträufeln,
+<sup>28</sup>die die Wolken herabgießen
+und reichlich auf die Menschen tropfen lassen.
+<sup>29</sup>Ja, kann jemand das Ausbreiten der Wolken verstehen
+und das Donnern seines Zeltes?
+<sup>30</sup>Schau, er breitet sein Licht um sich aus.
+Er bedeckt den Grund des Meeres.
+<sup>31</sup>Denn durch diese richtet er die Völker.
+Er gibt Nahrung in Fülle.
+<sup>32</sup>Er bedeckt seine Hände mit dem Blitz
+und befiehlt ihm, das Ziel zu treffen.
+<sup>33</sup>Sein Krachen kündigt ihn an,
+und auch das Vieh kündigt das aufziehende Unwetter an.
+
+> **Was bedeutet das?**
+> Elihu beschreibt den Kreislauf des Wassers: Gott zieht das Wasser als Dunst nach oben, und es fällt als Regen wieder herab. Darüber staunten die Menschen schon damals.
+> Die Wolken sind wie Gottes „Zelt“, der Donner ist sein Geräusch. Blitze hält Gott in seinen Händen.
+> Vers 31: Mit dem Wetter kann Gott strafen (Unwetter, Dürre) oder segnen (Regen, gute Ernte).
+> Vers 33: Sogar das Vieh spürt, wenn ein Gewitter kommt.
+> Es sieht so aus, als ob gerade ein Gewitter aufzieht, während Elihu redet. Das bereitet auf Kapitel 38 vor: Dort antwortet Gott „aus dem Sturm“.
