@@ -57533,3 +57533,476 @@ und ihr Gebet kam hinauf zu seiner heiligen Wohnung, in den Himmel.
 > Alle feiern zusammen: Juda und Israel, Priester und Volk, und auch die Fremden. Gottes Fest ist offen für alle, die kommen.
 > „Seit der Zeit Salomos“: Zum ersten Mal seit der Teilung des Reiches feiert das ganze Volk wieder gemeinsam.
 > Das Kapitel endet mit dem Segen und mit der Gewissheit: Das Gebet ist im Himmel angekommen. Gott hat gehört.
+
+## 2. Chronik – Kapitel 31
+#### Das Volk gibt mit offenen Händen
+
+---
+
+### Die Götzenaltäre werden entfernt (Vers 1)
+
+<sup>1</sup>Als das alles beendet war,
+zog ganz Israel, das dort war, hinaus in die Städte Judas.
+Sie zerbrachen die Steinsäulen,
+hieben die Aschera-Pfähle um
+und rissen die Opferhöhen und die Altäre nieder,
+in ganz Juda und Benjamin, auch in Efraim und Manasse,
+bis sie alle zerstört hatten.
+Dann kehrten alle Kinder Israels zurück,
+jeder zu seinem Besitz, in ihre eigenen Städte.
+
+> **Was bedeutet das?**
+> Nach dem Passafest räumt das Volk selbst auf. Das kommt nicht von oben befohlen, sondern aus dem eigenen Herzen. Und es geschieht auch im Norden, in Efraim und Manasse.
+
+---
+
+### Ordnung für die Priester und Leviten (Vers 2–4)
+
+<sup>2</sup>Hiskija stellte die Abteilungen der Priester und der Leviten auf,
+nach ihren Abteilungen,
+jeden nach seinem Dienst,
+die Priester und die Leviten,
+für Brandopfer und für Friedensopfer,
+um zu dienen, zu danken und zu loben
+in den Toren des Lagers des HERRN.
+<sup>3</sup>Er bestimmte auch den Anteil des Königs von seinem Besitz für die Brandopfer:
+für die Brandopfer am Morgen und am Abend
+und die Brandopfer für die Sabbate, für die Neumonde und für die Festtage,
+wie es im Gesetz des HERRN geschrieben steht.
+<sup>4</sup>Außerdem befahl er dem Volk, das in Jerusalem wohnte,
+den Anteil der Priester und der Leviten zu geben,
+damit sie sich ganz dem Gesetz des HERRN widmen konnten.
+
+> **Was bedeutet das?**
+> Der Tempel ist hier „das Lager des HERRN“ genannt. Das erinnert an die Zeit in der Wüste, als die Stiftshütte in der Mitte des Lagers stand.
+> Hiskija geht mit gutem Beispiel voran: Er gibt selbst aus seinem Besitz für die Opfer.
+> Die Priester und Leviten sollen sich nicht um ihren Lebensunterhalt sorgen müssen. Sie sollen Zeit haben, Gottes Gesetz zu lernen und zu lehren.
+
+---
+
+### Die großen Haufen (Vers 5–10)
+
+<sup>5</sup>Sobald der Befehl bekannt wurde,
+gaben die Kinder Israels reichlich die Erstlinge von Getreide, Most, Öl, Honig
+und von allem Ertrag des Feldes.
+Und sie brachten den Zehnten von allem reichlich.
+<sup>6</sup>Die Kinder Israels und Judas, die in den Städten Judas wohnten,
+brachten auch den Zehnten von Rindern und Schafen
+und den Zehnten von den geweihten Gaben,
+die dem HERRN, ihrem Gott, geweiht waren,
+und legten sie in Haufen hin.
+<sup>7</sup>Im dritten Monat fingen sie an, die Haufen anzulegen,
+und im siebten Monat waren sie fertig.
+<sup>8</sup>Als Hiskija und die Fürsten kamen und die Haufen sahen,
+lobten sie den HERRN und sein Volk Israel.
+<sup>9</sup>Dann fragte Hiskija die Priester und die Leviten nach den Haufen.
+<sup>10</sup>Asarja, der oberste Priester, aus dem Haus Zadoks, antwortete ihm:
+„Seit man angefangen hat, die Gaben in das Haus des HERRN zu bringen,
+haben wir gegessen und sind satt geworden,
+und es ist noch viel übrig geblieben.
+Denn der HERR hat sein Volk gesegnet.
+Und was übrig ist, ist dieser große Vorrat.“
+
+> **Was bedeutet das?**
+> „Erstlinge“ sind die ersten Früchte der Ernte. Der „Zehnte“ ist ein Zehntel des Ertrags. Beides gab man Gott, als Dank für die Ernte (vgl. 4. Mose 18; 5. Mose 14,22–29).
+> Vom dritten Monat (Getreideernte) bis zum siebten Monat (Obst- und Weinernte) wachsen die Haufen. Es ist mehr als genug.
+> Bemerkenswert in Vers 8: Hiskija lobt nicht nur Gott, sondern auch das Volk. Er sieht die Großzügigkeit der Menschen.
+> Vers 10 zeigt ein Prinzip: Wer großzügig gibt, wird nicht ärmer. Gott segnet. (Vgl. Maleachi 3,10.)
+
+---
+
+### Treue Verwalter (Vers 11–19)
+
+<sup>11</sup>Da befahl Hiskija, im Haus des HERRN Vorratsräume einzurichten,
+und sie richteten sie ein.
+<sup>12</sup>Sie brachten die Gaben, die Zehnten und die geweihten Dinge treu hinein.
+Der Levit Konanja war der Vorsteher darüber,
+und sein Bruder Schimi war der Zweite.
+<sup>13</sup>Jehiël, Asasja, Nahat, Asaël, Jerimot, Josabad, Eliël, Jismachja, Mahat und Benaja
+waren Aufseher unter der Leitung Konanjas und seines Bruders Schimi,
+nach der Anordnung des Königs Hiskija
+und Asarjas, des Vorstehers des Hauses Gottes.
+<sup>14</sup>Kore, der Sohn Jimnas, der Levit,
+der Torhüter am Osttor,
+war über die freiwilligen Gaben für Gott gesetzt,
+um die Gaben für den HERRN und das Hochheilige zu verteilen.
+<sup>15</sup>Unter ihm waren Eden, Minjamin, Jeschua, Schemaja, Amarja und Schechanja
+in den Städten der Priester,
+in ihrem Vertrauensamt,
+um ihren Brüdern nach den Abteilungen zu geben,
+dem Großen wie dem Kleinen;
+<sup>16</sup>außer denen, die im Stammbaum der Männer eingetragen waren,
+von drei Jahren an und darüber,
+nämlich allen, die in das Haus des HERRN kamen,
+wie es der Dienst jedes Tages erforderte,
+für ihren Dienst in ihren Ämtern nach ihren Abteilungen;
+<sup>17</sup>und denen, die im Stammbaum der Priester nach ihren Familien eingetragen waren,
+und den Leviten von 20 Jahren an und darüber,
+in ihren Ämtern nach ihren Abteilungen;
+<sup>18</sup>und denen, die im Stammbaum eingetragen waren mit allen ihren kleinen Kindern,
+ihren Frauen, ihren Söhnen und ihren Töchtern,
+in der ganzen Gemeinde.
+Denn in ihrem Vertrauensamt heiligten sie sich in Heiligkeit.
+<sup>19</sup>Auch für die Söhne Aarons, die Priester,
+die auf den Feldern der Weideflächen ihrer Städte wohnten,
+gab es in jeder Stadt Männer, die mit Namen genannt waren,
+um allen männlichen Priestern Anteile zu geben
+und allen, die im Stammbaum der Leviten eingetragen waren.
+
+> **Was bedeutet das?**
+> Es geht um viele Güter. Darum braucht es ehrliche und treue Verwalter. Die Chronik nennt sie alle mit Namen. Das Wort „treu“ oder „Vertrauensamt“ kommt mehrmals vor.
+> Die Gaben wurden gerecht verteilt: „dem Großen wie dem Kleinen“. Auch die Priester, die weit weg auf dem Land wohnten, bekamen ihren Anteil. Und auch die Familien, Frauen und Kinder wurden versorgt.
+> „Von drei Jahren an“: Schon die kleinen Jungen der Priesterfamilien bekamen einen Anteil. Manche Fachleute vermuten, dass es ursprünglich „dreißig Jahre“ hieß, wie in 1. Chronik 23,3.
+> Diese Verse sind im Hebräischen schwer zu verstehen. Der Sinn ist aber klar: Niemand wurde vergessen.
+
+---
+
+### Hiskija tat alles von ganzem Herzen (Vers 20–21)
+
+<sup>20</sup>So handelte Hiskija in ganz Juda.
+Er tat, was gut, recht und treu war vor dem HERRN, seinem Gott.
+<sup>21</sup>Bei jedem Werk, das er anfing,
+im Dienst für das Haus Gottes,
+im Gesetz und in den Geboten,
+um seinen Gott zu suchen,
+tat er es mit ganzem Herzen,
+und es gelang ihm.
+
+> **Was bedeutet das?**
+> Das ist das schönste Lob, das die Chronik einem König geben kann: Er suchte Gott „mit ganzem Herzen“. Und es gelang ihm.
+> Vergleiche Amazja, der das Richtige tat, „aber nicht mit ungeteiltem Herzen“ (Kapitel 25,2).
+
+## 2. Chronik – Kapitel 32
+#### Sanherib bedroht Jerusalem
+
+---
+
+### Hiskija bereitet sich vor (Vers 1–8)
+
+<sup>1</sup>Nach diesen Dingen und nach dieser Treue
+kam Sanherib, der König von Assyrien.
+Er drang in Juda ein,
+belagerte die befestigten Städte
+und wollte sie für sich erobern.
+<sup>2</sup>Als Hiskija sah, dass Sanherib gekommen war
+und vorhatte, gegen Jerusalem zu kämpfen,
+<sup>3</sup>beriet er sich mit seinen Fürsten und seinen Helden,
+die Wasser der Quellen zu verstopfen, die außerhalb der Stadt waren.
+Und sie halfen ihm.
+<sup>4</sup>Da versammelte sich viel Volk,
+und sie verstopften alle Quellen
+und den Bach, der mitten durch das Land floss,
+und sagten:
+„Warum sollen die Könige von Assyrien kommen und viel Wasser finden?“
+<sup>5</sup>Er fasste Mut,
+baute die ganze Mauer auf, wo sie eingerissen war,
+und erhöhte sie bis zu den Türmen,
+baute draußen noch eine zweite Mauer,
+befestigte den Millo in der Stadt Davids
+und machte Waffen und Schilde in Menge.
+<sup>6</sup>Er setzte Kriegsanführer über das Volk,
+versammelte sie bei sich auf dem freien Platz am Stadttor
+und redete ihnen zu Herzen:
+<sup>7</sup>„Seid stark und mutig!
+Fürchtet euch nicht und erschreckt nicht vor dem König von Assyrien
+und vor der ganzen Menge, die bei ihm ist.
+Denn mit uns ist ein Größerer als mit ihm.
+<sup>8</sup>Mit ihm ist ein Arm aus Fleisch.
+Aber mit uns ist der HERR, unser Gott,
+um uns zu helfen und unsere Kriege zu führen.“
+Und das Volk verließ sich auf die Worte Hiskijas, des Königs von Juda.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht ausführlicher in 2. Könige 18–19 und Jesaja 36–37. Sanherib zog im Jahr 701 vor Christus gegen Juda. Seine eigenen Inschriften berichten davon. Er prahlt dort, er habe Hiskija „wie einen Vogel im Käfig“ in Jerusalem eingeschlossen. Von einer Eroberung Jerusalems berichtet er aber nicht.
+> Vers 1 beginnt überraschend: „Nach dieser Treue“ kommt der Angriff. Treue zu Gott schützt nicht vor allen Schwierigkeiten. Aber Gott ist in den Schwierigkeiten dabei.
+> Hiskija handelt klug: Er sorgt dafür, dass die Feinde kein Wasser finden, und baut die Mauern aus. Glaube und kluges Handeln gehören zusammen.
+> Der „Millo“ war eine Befestigung in der Stadt Davids, vielleicht eine aufgeschüttete Terrasse.
+> Vers 7–8 ist ein großer Satz des Glaubens: „Mit uns ist ein Größerer.“ Ein „Arm aus Fleisch“ ist menschliche Macht, die vergänglich ist. Vgl. Jeremia 17,5–7 und 1. Johannes 4,4.
+
+---
+
+### Sanheribs Spott (Vers 9–19)
+
+<sup>9</sup>Danach schickte Sanherib, der König von Assyrien, seine Diener nach Jerusalem
+– er selbst lag vor Lachisch, und seine ganze Streitmacht war bei ihm –
+zu Hiskija, dem König von Juda,
+und zu ganz Juda, das in Jerusalem war,
+und ließ sagen:
+<sup>10</sup>„So spricht Sanherib, der König von Assyrien:
+Worauf vertraut ihr, dass ihr in der Belagerung in Jerusalem bleibt?
+<sup>11</sup>Verführt euch Hiskija nicht,
+damit ihr an Hunger und Durst sterbt,
+wenn er sagt:
+‚Der HERR, unser Gott, wird uns aus der Hand des Königs von Assyrien retten‘?
+<sup>12</sup>Hat nicht derselbe Hiskija seine Opferhöhen und seine Altäre entfernt
+und zu Juda und Jerusalem gesagt:
+‚Vor einem einzigen Altar sollt ihr anbeten und auf ihm sollt ihr räuchern‘?
+<sup>13</sup>Wisst ihr nicht, was ich und meine Väter allen Völkern der Länder getan haben?
+Konnten die Götter der Völker dieser Länder ihr Land irgendwie aus meiner Hand retten?
+<sup>14</sup>Wer war unter allen Göttern dieser Völker,
+die meine Väter vollständig vernichtet haben,
+der sein Volk aus meiner Hand retten konnte,
+dass euer Gott euch aus meiner Hand retten könnte?
+<sup>15</sup>Darum lasst euch jetzt nicht von Hiskija täuschen
+und lasst euch nicht so verführen.
+Glaubt ihm nicht!
+Denn kein Gott irgendeines Volkes oder Königreichs
+konnte sein Volk aus meiner Hand und aus der Hand meiner Väter retten.
+Wie viel weniger wird euer Gott euch aus meiner Hand retten!“
+<sup>16</sup>Seine Diener redeten noch mehr gegen den HERRN, Gott,
+und gegen seinen Diener Hiskija.
+<sup>17</sup>Er schrieb auch Briefe,
+um den HERRN, den Gott Israels, zu verhöhnen und gegen ihn zu reden.
+Er schrieb:
+„Wie die Götter der Völker der Länder ihr Volk nicht aus meiner Hand gerettet haben,
+so wird auch der Gott Hiskijas sein Volk nicht aus meiner Hand retten.“
+<sup>18</sup>Sie riefen mit lauter Stimme auf Jüdisch
+zu dem Volk von Jerusalem, das auf der Mauer stand,
+um ihnen Angst zu machen und sie zu erschrecken,
+damit sie die Stadt einnehmen könnten.
+<sup>19</sup>Sie redeten vom Gott Jerusalems
+wie von den Göttern der Völker der Erde,
+die von Menschenhänden gemacht sind.
+
+> **Was bedeutet das?**
+> Lachisch war die zweitwichtigste Stadt Judas. Sanherib ließ die Eroberung von Lachisch auf großen Steinbildern in seinem Palast in Ninive darstellen. Diese Bilder sind heute im Britischen Museum in London zu sehen.
+> Sanheribs Diener versuchen, das Volk zu verunsichern:
+> – Sie verdrehen Hiskijas Reform: Er habe die Altäre Gottes zerstört. Dabei hatte er Götzenaltäre entfernt und den Gottesdienst in Jerusalem gesammelt.
+> – Sie sagen: Kein Gott konnte bisher gegen uns helfen. Warum sollte euer Gott es können?
+> – Sie reden „auf Jüdisch“, also auf Hebräisch, damit alle auf der Mauer es verstehen und Angst bekommen.
+> Vers 19 zeigt ihren größten Fehler: Sie halten den lebendigen Gott für einen Götzen, den Menschen gemacht haben.
+
+---
+
+### Gott rettet Jerusalem (Vers 20–23)
+
+<sup>20</sup>Der König Hiskija und der Prophet Jesaja, der Sohn des Amoz,
+beteten deswegen
+und schrien zum Himmel.
+<sup>21</sup>Da sandte der HERR einen Engel,
+der alle tapferen Krieger, die Anführer und die Befehlshaber
+im Lager des Königs von Assyrien vernichtete.
+So kehrte er mit Schande im Gesicht in sein Land zurück.
+Als er in das Haus seines Gottes ging,
+töteten ihn dort einige von seinen eigenen Söhnen mit dem Schwert.
+<sup>22</sup>So rettete der HERR Hiskija und die Bewohner Jerusalems
+aus der Hand Sanheribs, des Königs von Assyrien,
+und aus der Hand aller anderen,
+und er leitete sie auf allen Seiten.
+<sup>23</sup>Viele brachten dem HERRN Gaben nach Jerusalem
+und Kostbarkeiten für Hiskija, den König von Juda.
+So wurde er von da an vor den Augen aller Völker hoch geehrt.
+
+> **Was bedeutet das?**
+> Hiskija und Jesaja beten. Und Gott greift ein. Die Chronik erzählt das sehr kurz. In 2. Könige 19,35 heißt es, dass in einer Nacht 185 000 Mann im Lager der Assyrer starben.
+> „Seine eigenen Söhne“: In der englischen Vorlage steht wörtlich „die aus seinem eigenen Leib kamen“. Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von Söhnen ermordet. Das berichten auch babylonische und assyrische Quellen. Die Chronik fasst zusammen, ohne zu sagen, wie viel Zeit dazwischen lag.
+> Die Ironie: Sanherib spottete, dass kein Gott seine Anhänger retten könne. Und dann wird er im Tempel seines eigenen Gottes getötet. Sein Gott konnte ihn nicht schützen.
+> „Er leitete sie“: Manche Handschriften haben „er gab ihnen Ruhe“.
+
+---
+
+### Hiskijas Krankheit und Hochmut (Vers 24–26)
+
+<sup>24</sup>In diesen Tagen wurde Hiskija todkrank.
+Er betete zum HERRN,
+und der HERR redete zu ihm und gab ihm ein Zeichen.
+<sup>25</sup>Aber Hiskija erwies sich nicht dankbar für das Gute, das ihm getan worden war,
+denn sein Herz wurde hochmütig.
+Darum kam Zorn über ihn und über Juda und Jerusalem.
+<sup>26</sup>Doch Hiskija demütigte sich wegen des Hochmuts seines Herzens,
+er und die Bewohner Jerusalems,
+sodass der Zorn des HERRN in den Tagen Hiskijas nicht über sie kam.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht ausführlicher in 2. Könige 20 und Jesaja 38. Gott schenkte Hiskija 15 weitere Lebensjahre. Das Zeichen war, dass der Schatten auf der Sonnenuhr zurückging.
+> Selbst ein so guter König wie Hiskija wird hochmütig. Niemand ist davor sicher.
+> Aber Hiskija demütigt sich. Und Gott verschont ihn. Das ist das große Thema der Chronik: Wer sich demütigt, findet Gnade (Kapitel 7,14).
+
+---
+
+### Hiskijas Reichtum und Werke (Vers 27–31)
+
+<sup>27</sup>Hiskija hatte sehr großen Reichtum und Ehre.
+Er legte sich Schatzkammern an für Silber, Gold, Edelsteine, Gewürze, Schilde
+und für alle Arten kostbarer Geräte;
+<sup>28</sup>auch Vorratshäuser für den Ertrag an Getreide, Most und Öl,
+Ställe für alle Arten von Tieren
+und Hürden für die Herden.
+<sup>29</sup>Außerdem legte er sich Städte an
+und hatte Besitz an Schafen und Rindern in Menge.
+Denn Gott hatte ihm sehr viel Besitz gegeben.
+<sup>30</sup>Derselbe Hiskija verstopfte auch den oberen Ausfluss der Wasser des Gihon
+und leitete sie gerade hinab auf die Westseite der Stadt Davids.
+Hiskija hatte Erfolg bei allen seinen Werken.
+<sup>31</sup>Doch bei den Gesandten der Fürsten von Babel,
+die zu ihm geschickt worden waren, um nach dem Wunder zu fragen, das im Land geschehen war,
+verließ ihn Gott, um ihn zu prüfen,
+damit er alles erkannte, was in seinem Herzen war.
+
+> **Was bedeutet das?**
+> Vers 30 beschreibt eine technische Meisterleistung: Hiskija ließ einen Tunnel durch den Felsen graben. Er leitete das Wasser der Gihon-Quelle von außerhalb in die Stadt. So hatte Jerusalem bei einer Belagerung Wasser. Dieser „Hiskija-Tunnel“ ist über 500 Meter lang und kann heute noch begangen werden. Im Jahr 1880 fand man darin eine alte Inschrift, die beschreibt, wie sich die zwei Arbeitertrupps in der Mitte trafen.
+> Vers 31 bezieht sich auf 2. Könige 20,12–19: Hiskija zeigte den Gesandten aus Babel stolz alle seine Schätze. Der Prophet Jesaja sagte daraufhin, dass alles einmal nach Babel gebracht werden würde.
+> „Gott verließ ihn, um ihn zu prüfen“: Gott ließ ihn eine Zeit lang allein entscheiden. So sollte sichtbar werden, was in seinem Herzen war. Manchmal zeigt sich erst in einer Prüfung, wie es wirklich um uns steht.
+> „Das Wunder“: Wohl die Heilung Hiskijas und das Zeichen mit dem Schatten.
+
+---
+
+### Hiskijas Tod (Vers 32–33)
+
+<sup>32</sup>Die übrige Geschichte Hiskijas und seine guten Taten,
+schau, sie sind aufgeschrieben in der Vision des Propheten Jesaja, des Sohnes des Amoz,
+im Buch der Könige von Juda und Israel.
+<sup>33</sup>Hiskija legte sich zu seinen Vätern,
+und man begrub ihn am Aufstieg zu den Gräbern der Söhne Davids.
+Ganz Juda und die Bewohner Jerusalems erwiesen ihm Ehre bei seinem Tod.
+Sein Sohn Manasse wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Hiskija wurde mit großen Ehren begraben, ganz anders als sein Vater Ahas.
+> Die „Vision Jesajas“ ist wohl das Buch des Propheten Jesaja, das mit diesen Worten beginnt (Jesaja 1,1).
+
+## 2. Chronik – Kapitel 33
+#### Manasse kehrt um
+
+---
+
+### Manasses böse Taten (Vers 1–10)
+
+<sup>1</sup>Manasse war zwölf Jahre alt, als er König wurde,
+und er regierte 55 Jahre in Jerusalem.
+<sup>2</sup>Er tat, was böse war in den Augen des HERRN,
+nach den Gräueln der Völker,
+die der HERR vor den Kindern Israels vertrieben hatte.
+<sup>3</sup>Denn er baute die Opferhöhen wieder auf,
+die sein Vater Hiskija niedergerissen hatte.
+Er errichtete Altäre für die Baale,
+machte Ascheren,
+betete das ganze Heer des Himmels an
+und diente ihm.
+<sup>4</sup>Er baute Altäre im Haus des HERRN,
+von dem der HERR gesagt hatte:
+„In Jerusalem soll mein Name sein für immer.“
+<sup>5</sup>Er baute Altäre für das ganze Heer des Himmels
+in den beiden Vorhöfen des Hauses des HERRN.
+<sup>6</sup>Er ließ auch seine Kinder durch das Feuer gehen
+im Tal Ben-Hinnom.
+Er trieb Zauberei, Wahrsagerei und Hexerei
+und gab sich mit Totenbeschwörern und Geisterbeschwörern ab.
+Er tat viel Böses in den Augen des HERRN, um ihn zum Zorn zu reizen.
+<sup>7</sup>Er stellte das geschnitzte Götzenbild, das er gemacht hatte,
+in das Haus Gottes,
+von dem Gott zu David und zu seinem Sohn Salomo gesagt hatte:
+„In diesem Haus und in Jerusalem,
+das ich aus allen Stämmen Israels erwählt habe,
+will ich meinen Namen wohnen lassen für immer.
+<sup>8</sup>Und ich will Israel nicht mehr aus dem Land vertreiben,
+das ich euren Vätern bestimmt habe,
+wenn sie nur darauf achten, alles zu tun, was ich ihnen geboten habe,
+das ganze Gesetz, die Satzungen und die Rechtsordnungen,
+die durch Mose gegeben worden sind.“
+<sup>9</sup>Manasse verführte Juda und die Bewohner Jerusalems,
+sodass sie noch mehr Böses taten als die Völker,
+die der HERR vor den Kindern Israels vernichtet hatte.
+<sup>10</sup>Der HERR redete zu Manasse und zu seinem Volk,
+aber sie hörten nicht.
+
+> **Was bedeutet das?**
+> Diese Verse stehen fast gleich in 2. Könige 21. Manasse regierte etwa von 697 bis 642 vor Christus, länger als jeder andere König Judas.
+> Manasse macht alles rückgängig, was sein Vater Hiskija aufgebaut hatte. Er tut alles, was Gott verboten hat: Götzendienst im Tempel, Sternanbetung („das Heer des Himmels“ sind Sonne, Mond und Sterne), Kinderopfer und Zauberei.
+> „Seine Kinder durch das Feuer gehen lassen“ bedeutet sehr wahrscheinlich, dass er sie als Opfer verbrannte. Das ist ein entsetzliches Verbrechen. Gott will keine Menschenopfer (5. Mose 18,10).
+> Er stellt sogar ein Götzenbild in den Tempel, an den Ort, wo Gottes Name wohnen soll.
+> Aber Vers 10 zeigt: Gott redet trotzdem weiter zu ihm. Er gibt nicht auf.
+
+---
+
+### Manasse in Gefangenschaft und seine Umkehr (Vers 11–13)
+
+<sup>11</sup>Darum ließ der HERR die Heerführer des Königs von Assyrien über sie kommen.
+Sie fingen Manasse mit Haken,
+banden ihn mit bronzenen Fesseln
+und brachten ihn nach Babel.
+<sup>12</sup>Als er in Not war,
+flehte er den HERRN, seinen Gott, an
+und demütigte sich sehr vor dem Gott seiner Väter.
+<sup>13</sup>Er betete zu ihm.
+Und Gott ließ sich von ihm erbitten,
+hörte sein Flehen
+und brachte ihn zurück nach Jerusalem in sein Königreich.
+Da erkannte Manasse, dass der HERR Gott ist.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht nur in der Chronik, nicht in 2. Könige.
+> „Mit Haken“: In der englischen Vorlage steht „in Ketten“. Im Hebräischen steht ein Wort, das auch „Haken“ oder „Dornen“ bedeutet. Die Assyrer führten Gefangene manchmal mit Haken durch Nase oder Lippe ab. Das war grausam und erniedrigend.
+> Dass Manasse nach Babel gebracht wurde, mag überraschen, weil die Hauptstadt Assyriens Ninive war. Aber Babel gehörte damals zum assyrischen Reich. In assyrischen Inschriften wird Manasse als Vasall genannt, der Abgaben zahlen musste.
+> Das ist eine der hoffnungsvollsten Geschichten der Bibel: Selbst der schlimmste König Judas kehrt um. Und Gott vergibt ihm. Kein Mensch ist zu weit weg, um zu Gott zurückzukommen.
+> „Da erkannte Manasse, dass der HERR Gott ist“: In der Not hat er Gott wirklich kennengelernt.
+> Es gibt ein altes Gebet, das „Gebet Manasses“ heißt. Es steht in manchen Bibeln bei den Apokryphen. Es wurde aber wohl erst viel später geschrieben.
+
+---
+
+### Manasse baut auf (Vers 14–17)
+
+<sup>14</sup>Danach baute er eine äußere Mauer für die Stadt Davids,
+westlich vom Gihon, im Tal,
+bis zum Eingang am Fischtor.
+Er umgab den Ofel damit
+und machte sie sehr hoch.
+Und er setzte tapfere Heerführer in alle befestigten Städte Judas.
+<sup>15</sup>Er entfernte die fremden Götter und das Götzenbild aus dem Haus des HERRN
+und alle Altäre, die er auf dem Berg des Hauses des HERRN und in Jerusalem gebaut hatte,
+und warf sie aus der Stadt hinaus.
+<sup>16</sup>Er baute den Altar des HERRN wieder auf,
+opferte darauf Friedensopfer und Dankopfer
+und befahl Juda, dem HERRN, dem Gott Israels, zu dienen.
+<sup>17</sup>Doch das Volk opferte noch auf den Opferhöhen,
+aber nur dem HERRN, ihrem Gott.
+
+> **Was bedeutet das?**
+> Manasses Umkehr ist echt. Er räumt auf, was er selbst angerichtet hat. Er opfert Dankopfer: Er ist Gott dankbar für die Rettung.
+> Aber Vers 17 zeigt: Es ist schwer, alles wieder gutzumachen. Das Volk opfert weiter auf den Höhen, wenn auch jetzt dem richtigen Gott. Der Schaden, den Manasse angerichtet hatte, war groß.
+> Umkehr ist immer möglich. Aber die Folgen von früheren Taten verschwinden nicht einfach.
+
+---
+
+### Manasses Tod (Vers 18–20)
+
+<sup>18</sup>Die übrige Geschichte Manasses,
+sein Gebet zu seinem Gott
+und die Worte der Seher, die im Namen des HERRN, des Gottes Israels, zu ihm redeten,
+schau, sie sind aufgeschrieben in der Geschichte der Könige von Israel.
+<sup>19</sup>Auch sein Gebet und wie Gott sich von ihm erbitten ließ,
+seine ganze Sünde und seine Untreue
+und die Orte, an denen er Opferhöhen gebaut
+und die Aschera-Pfähle und die geschnitzten Bilder aufgestellt hatte,
+bevor er sich demütigte,
+schau, das ist aufgeschrieben in der Geschichte Hosais.
+<sup>20</sup>So legte sich Manasse zu seinen Vätern,
+und man begrub ihn in seinem eigenen Haus.
+Sein Sohn Amon wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> „Hosai“: Manche übersetzen „der Seher“ statt eines Namens. Das Buch gibt es nicht mehr.
+> In 2. Könige 21,18 heißt es, dass er im Garten seines Hauses begraben wurde, im Garten Usas.
+
+---
+
+### Amon (Vers 21–25)
+
+<sup>21</sup>Amon war 22 Jahre alt, als er König wurde,
+und er regierte zwei Jahre in Jerusalem.
+<sup>22</sup>Er tat, was böse war in den Augen des HERRN,
+wie sein Vater Manasse.
+Amon opferte allen geschnitzten Bildern, die sein Vater Manasse gemacht hatte,
+und diente ihnen.
+<sup>23</sup>Er demütigte sich nicht vor dem HERRN,
+wie sein Vater Manasse sich gedemütigt hatte,
+sondern dieser Amon machte seine Schuld immer größer.
+<sup>24</sup>Seine Diener verschworen sich gegen ihn
+und töteten ihn in seinem eigenen Haus.
+<sup>25</sup>Aber das Volk des Landes tötete alle, die sich gegen den König Amon verschworen hatten.
+Und das Volk des Landes machte seinen Sohn Josia an seiner Stelle zum König.
+
+> **Was bedeutet das?**
+> Amon ahmte die bösen Taten seines Vaters nach, aber nicht seine Umkehr. Das ist traurig: Kinder lernen oft mehr aus den Fehlern der Eltern als aus ihrer Umkehr.
+> Amon regierte etwa von 642 bis 640 vor Christus.
+> Sein Sohn Josia wird einer der besten Könige Judas werden.
