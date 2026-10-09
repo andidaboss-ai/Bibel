@@ -67,7 +67,7 @@ und aus allen Orten, wohin ich euch vertrieben habe“, spricht der HERR.
 von dem ich euch habe wegführen lassen.“
 
 > **Was bedeutet das?**
-> Vers 11 ist einer der beliebtesten Verse der ganzen Bibel: „Ich weiß, was ich für Gedanken über euch habe: Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben.“ Viele Menschen bekommen diesen Vers zur Konfirmation, Hochzeit oder in schweren Zeiten zugesprochen.
+> Vers 11 ist einer der beliebtesten Verse der ganzen Bibel: „Ich weiß, was ich für Gedanken über euch habe: Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben.“ Er hat vielen Menschen in schweren Zeiten Mut gemacht.
 > Er wurde zuerst zu Menschen gesagt, die alles verloren hatten und in der Fremde lebten. Gerade ihnen sagt Gott: Ich habe einen guten Plan für euch.
 > Vers 13: „Ihr werdet mich suchen und finden, wenn ihr mich von ganzem Herzen sucht.“ Gott ist auch in Babylon zu finden, auch ohne Tempel. Das war eine wichtige Erkenntnis: Man kann Gott überall anbeten.
 
