@@ -78728,3 +78728,410 @@ Lobt Jah!
 > **Bekannte Worte:** „Der HERR ist mein Hirte“ (Psalm 23). „Befiehl dem HERRN deine Wege“ (Psalm 37). „Aus der Tiefe rufe ich“ (Psalm 130). „Ich hebe meine Augen auf zu den Bergen“ (Psalm 121). „Lobe den HERRN, meine Seele“ (Psalm 103). Diese Worte haben Menschen in allen Lebenslagen getröstet.
 > **Vom Seufzen zum Lob:** Der Weg des Psalmbuchs geht von „Glücklich ist der Mensch“ (Psalm 1) durch viel Leid hindurch bis zu „Alles, was Atem hat, lobe Jah!“ (Psalm 150).
 > **Wie geht es weiter?** Als Nächstes kommt das Buch der Sprüche. Es ist voller kurzer, kluger Sätze für den Alltag: über Arbeit, Freundschaft, Geld, Worte und Familie. Sein Leitsatz: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis“ (Sprüche 1,7).
+
+
+---
+
+# Sprüche
+
+## Sprüche – Kapitel 1
+#### Der Anfang der Weisheit
+
+---
+
+### Bevor es losgeht: Was ist das Buch der Sprüche?
+
+Das Buch der Sprüche ist ein Buch voller Lebensweisheit.
+Es enthält kurze, kluge Sätze für den Alltag: über Arbeit und Faulheit, Freundschaft und Streit, Geld und Armut, Worte und Schweigen, Familie und Nachbarn.
+Viele Sprüche werden König Salomo zugeschrieben. Er war berühmt für seine Weisheit (1. Könige 5,9–14). Aber auch andere Weise haben Sprüche beigetragen, zum Beispiel Agur und König Lemuël (Kapitel 30 und 31).
+Das Buch hat mehrere Teile:
+– Kapitel 1–9: längere Reden. Ein Vater (und eine Mutter) lehren ihren Sohn. Die Weisheit tritt auf wie eine Frau, die auf der Straße ruft.
+– Kapitel 10–29: viele einzelne, kurze Sprüche. Oft sind es zwei Zeilen, die einen Gegensatz zeigen: „Der Weise … aber der Tor …“.
+– Kapitel 30–31: Worte von Agur und Lemuël, und am Ende das Lob einer tüchtigen Frau.
+Der Leitsatz des ganzen Buches steht in Kapitel 1, Vers 7: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis.“
+Wichtig: Sprüche sind keine Versprechen, die immer und für jeden gelten. Sie beschreiben, wie das Leben meistens funktioniert. Das Buch Hiob und das Buch Prediger zeigen, dass es auch Ausnahmen gibt.
+Das Buch spricht oft „meinen Sohn“ an, weil es damals für junge Männer geschrieben wurde. Seine Weisheit gilt aber für alle Menschen, für Frauen und Männer, Junge und Alte.
+
+---
+
+### Wozu dieses Buch da ist (Vers 1–7)
+
+<sup>1</sup>Die Sprüche Salomos, des Sohnes Davids, des Königs von Israel:
+<sup>2</sup>um Weisheit und Erziehung zu kennen,
+um Worte der Einsicht zu verstehen,
+<sup>3</sup>um Erziehung zu klugem Handeln zu empfangen,
+zu Gerechtigkeit, Recht und Aufrichtigkeit,
+<sup>4</sup>um den Einfältigen Klugheit zu geben,
+dem jungen Mann Erkenntnis und Besonnenheit,
+<sup>5</sup>damit der Weise hört und an Lehre zunimmt
+und der Verständige guten Rat gewinnt,
+<sup>6</sup>um Sprüche und Gleichnisse zu verstehen,
+die Worte der Weisen und ihre Rätsel.
+<sup>7</sup>Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis.
+Aber die Toren verachten Weisheit und Erziehung.
+
+> **Was bedeutet das?**
+> Vers 2–6 nennen den Zweck des Buches: Es will Menschen klug machen für das Leben. Nicht nur die „Einfältigen“, also Unerfahrene, sondern auch die, die schon weise sind. Man lernt nie aus.
+> Vers 7 ist der wichtigste Satz des Buches. „Ehrfurcht vor dem HERRN“ heißt nicht Angst. Es heißt: Gott ernst nehmen, ihn achten, ihm vertrauen. Wer so lebt, hat das Fundament für alle Weisheit.
+> Der „Tor“ ist im Buch der Sprüche nicht einfach jemand, der wenig weiß. Es ist jemand, der nicht lernen will und Gott nicht ernst nimmt.
+
+---
+
+### Lass dich nicht verführen (Vers 8–19)
+
+<sup>8</sup>Mein Sohn, hör auf die Erziehung deines Vaters,
+und verlass nicht die Lehre deiner Mutter!
+<sup>9</sup>Denn sie sind ein schöner Kranz für deinen Kopf
+und eine Kette um deinen Hals.
+<sup>10</sup>Mein Sohn, wenn Sünder dich verlocken, dann willige nicht ein!
+<sup>11</sup>Wenn sie sagen: „Komm mit uns!
+Lass uns auf Blut lauern!
+Lass uns ohne Grund heimlich dem Unschuldigen auflauern!
+<sup>12</sup>Lass uns sie lebendig verschlingen wie das Totenreich,
+ganz, wie die, die in die Grube hinabfahren!
+<sup>13</sup>Wir werden allerlei wertvollen Reichtum finden.
+Wir werden unsere Häuser mit Beute füllen.
+<sup>14</sup>Du sollst dein Los mit uns werfen.
+Wir werden alle einen gemeinsamen Geldbeutel haben.“
+<sup>15</sup>Mein Sohn, geh nicht mit ihnen auf diesem Weg!
+Halte deinen Fuß fern von ihrem Pfad!
+<sup>16</sup>Denn ihre Füße laufen zum Bösen.
+Sie eilen, Blut zu vergießen.
+<sup>17</sup>Denn vergeblich wird das Netz ausgebreitet
+vor den Augen jedes Vogels.
+<sup>18</sup>Aber diese lauern auf ihr eigenes Blut.
+Sie stellen heimlich ihrem eigenen Leben nach.
+<sup>19</sup>So sind die Wege von jedem, der gierig nach Gewinn ist.
+Die Gier nimmt ihren Besitzern das Leben.
+
+> **Was bedeutet das?**
+> Vers 8: Vater und Mutter lehren beide. Die Mutter wird ausdrücklich genannt.
+> Vers 9: Gute Lehre ist wie Schmuck. Sie macht einen Menschen schön.
+> Vers 10–14: Eine Bande versucht, einen jungen Mann anzuwerben: „Mach mit, wir werden reich, wir teilen alles!“ Das klingt nach Gemeinschaft und schnellem Geld. Solche Verführung gibt es bis heute: Gangs, Kriminalität, Betrug.
+> Vers 17–18: Ein Vogel, der das Netz sieht, fliegt nicht hinein. Aber diese Männer sehen ihre eigene Falle nicht. Wer anderen schadet, schadet am Ende sich selbst.
+> Vers 19: Gier zerstört das Leben dessen, der gierig ist.
+
+---
+
+### Die Weisheit ruft auf der Straße (Vers 20–33)
+
+<sup>20</sup>Die Weisheit ruft laut auf der Straße.
+Sie erhebt ihre Stimme auf den Plätzen.
+<sup>21</sup>Sie ruft an den lautesten Orten.
+Am Eingang der Stadttore spricht sie ihre Worte:
+<sup>22</sup>„Wie lange, ihr Einfältigen, wollt ihr die Einfalt lieben?
+Wie lange haben die Spötter Freude am Spott,
+und wie lange hassen die Toren Erkenntnis?
+<sup>23</sup>Kehrt um bei meiner Zurechtweisung!
+Siehe, ich will meinen Geist über euch ausgießen.
+Ich will euch meine Worte bekannt machen.
+<sup>24</sup>Weil ich gerufen habe und ihr euch geweigert habt,
+weil ich meine Hand ausgestreckt habe und niemand aufgepasst hat,
+<sup>25</sup>sondern ihr allen meinen Rat missachtet habt
+und meine Zurechtweisung nicht wolltet,
+<sup>26</sup>darum werde auch ich über euer Unglück lachen.
+Ich werde spotten, wenn das Unheil über euch kommt,
+<sup>27</sup>wenn das Unheil über euch kommt wie ein Sturm,
+wenn euer Unglück kommt wie ein Wirbelwind,
+wenn Not und Angst über euch kommen.
+<sup>28</sup>Dann werden sie mich rufen, aber ich werde nicht antworten.
+Sie werden mich eifrig suchen, aber sie werden mich nicht finden,
+<sup>29</sup>weil sie Erkenntnis gehasst haben
+und die Ehrfurcht vor dem HERRN nicht gewählt haben.
+<sup>30</sup>Sie wollten meinen Rat nicht.
+Sie haben alle meine Zurechtweisung verachtet.
+<sup>31</sup>Darum werden sie die Frucht ihres eigenen Weges essen
+und von ihren eigenen Plänen satt werden.
+<sup>32</sup>Denn die Abtrünnigkeit der Einfältigen wird sie töten.
+Die Sorglosigkeit der Toren wird sie vernichten.
+<sup>33</sup>Aber wer auf mich hört, wird sicher wohnen.
+Er wird ruhig sein, ohne Angst vor Unheil.“
+
+> **Was bedeutet das?**
+> Die Weisheit wird hier wie eine Frau beschrieben, die mitten in der Stadt laut ruft: auf dem Marktplatz, am Stadttor, wo alle vorbeikommen. Weisheit ist nicht versteckt. Jeder kann sie hören.
+> Vers 23: Sie lädt ein: Kehrt um! Ich will euch meinen Geist schenken.
+> Vers 24–32: Harte Worte für die, die nicht hören wollen. Wer jede Warnung in den Wind schlägt, muss mit den Folgen leben. „Sie essen die Frucht ihres eigenen Weges“: Man erntet, was man sät.
+> Vers 26: „Ich werde lachen“: Das ist eine bildhafte, zugespitzte Sprache. Es heißt nicht, dass Gott sich über Leid freut. Es zeigt: Wer die Weisheit ablehnt, kann sich im Unglück nicht plötzlich auf sie berufen.
+> Vers 33: Das Ziel ist gut: Wer auf die Weisheit hört, lebt sicher und ohne Angst.
+
+## Sprüche – Kapitel 2
+#### Suche die Weisheit wie einen Schatz
+
+---
+
+### Wenn du die Weisheit suchst (Vers 1–11)
+
+<sup>1</sup>Mein Sohn, wenn du meine Worte annimmst
+und meine Gebote bei dir aufbewahrst,
+<sup>2</sup>sodass du dein Ohr der Weisheit zuneigst
+und dein Herz der Einsicht zuwendest,
+<sup>3</sup>ja, wenn du nach Verstand rufst
+und deine Stimme nach Einsicht erhebst,
+<sup>4</sup>wenn du sie suchst wie Silber
+und nach ihr forschst wie nach verborgenen Schätzen,
+<sup>5</sup>dann wirst du die Ehrfurcht vor dem HERRN verstehen
+und die Erkenntnis Gottes finden.
+<sup>6</sup>Denn der HERR gibt Weisheit.
+Aus seinem Mund kommen Erkenntnis und Einsicht.
+<sup>7</sup>Er bewahrt gesunde Weisheit für die Aufrichtigen auf.
+Er ist ein Schild für die, die untadelig leben,
+<sup>8</sup>damit er die Pfade des Rechts bewacht
+und den Weg seiner Heiligen behütet.
+<sup>9</sup>Dann wirst du Gerechtigkeit und Recht verstehen,
+Aufrichtigkeit und jeden guten Weg.
+<sup>10</sup>Denn Weisheit wird in dein Herz kommen.
+Erkenntnis wird deiner Seele angenehm sein.
+<sup>11</sup>Besonnenheit wird über dich wachen.
+Einsicht wird dich behüten.
+
+> **Was bedeutet das?**
+> Weisheit fällt nicht vom Himmel. Man muss sie suchen, wie ein Schatzsucher, der nach Silber gräbt. Man muss zuhören, rufen, forschen.
+> Aber gleichzeitig ist Weisheit ein Geschenk: „Der HERR gibt Weisheit“ (Vers 6). Beides gehört zusammen: unser Suchen und Gottes Geben.
+> Vers 11: Wer weise ist, hat einen inneren Wächter. Er merkt rechtzeitig, wenn etwas gefährlich wird.
+
+---
+
+### Die Weisheit bewahrt dich (Vers 12–22)
+
+<sup>12</sup>Sie wird dich retten vor dem Weg des Bösen,
+vor den Männern, die verdrehte Dinge reden,
+<sup>13</sup>die die Pfade der Aufrichtigkeit verlassen,
+um auf den Wegen der Finsternis zu gehen,
+<sup>14</sup>die sich freuen, Böses zu tun,
+und Gefallen haben an der Verdrehtheit des Bösen,
+<sup>15</sup>die krumm sind auf ihren Wegen
+und verkehrt auf ihren Pfaden.
+<sup>16</sup>Sie wird dich retten vor der fremden Frau,
+vor der Fremden, die mit ihren Worten schmeichelt,
+<sup>17</sup>die den Freund ihrer Jugend verlässt
+und den Bund ihres Gottes vergisst.
+<sup>18</sup>Denn ihr Haus führt hinab zum Tod,
+ihre Pfade zu den Geistern der Toten.
+<sup>19</sup>Keiner, der zu ihr geht, kehrt wieder zurück.
+Sie erreichen die Pfade des Lebens nicht.
+<sup>20</sup>Darum geh auf dem Weg der Guten
+und halte dich an die Pfade der Gerechten!
+<sup>21</sup>Denn die Aufrichtigen werden im Land wohnen.
+Die Untadeligen werden darin bleiben.
+<sup>22</sup>Aber die Gottlosen werden aus dem Land ausgerottet werden.
+Die Treulosen werden herausgerissen werden.
+
+> **Was bedeutet das?**
+> Die Weisheit schützt vor zwei Gefahren: vor bösen Männern (Vers 12–15) und vor der „fremden Frau“ (Vers 16–19).
+> Die „fremde Frau“ ist eine Frau, die ihren Ehemann („den Freund ihrer Jugend“) verlässt und einen anderen verführt. Es geht um Ehebruch. „Fremd“ heißt hier: sie gehört nicht zu dir, sie ist mit einem anderen verheiratet. Es ist keine Aussage gegen Ausländerinnen oder gegen Frauen allgemein.
+> Weil das Buch für junge Männer geschrieben wurde, spricht es von der verführerischen Frau. Die Warnung gilt aber genauso umgekehrt: für Frauen gegenüber verführerischen Männern. Untreue zerstört Beziehungen und Leben.
+> Vers 17: Die Ehe ist ein „Bund vor Gott“. Wer ihn bricht, bricht nicht nur ein Versprechen an einen Menschen.
+
+## Sprüche – Kapitel 3
+#### Vertraue auf den HERRN von ganzem Herzen
+
+---
+
+### Güte und Treue (Vers 1–4)
+
+<sup>1</sup>Mein Sohn, vergiss meine Lehre nicht,
+sondern dein Herz soll meine Gebote bewahren,
+<sup>2</sup>denn sie werden dir lange Tage geben,
+Lebensjahre und Frieden.
+<sup>3</sup>Lass Güte und Treue dich nicht verlassen!
+Binde sie um deinen Hals!
+Schreibe sie auf die Tafel deines Herzens!
+<sup>4</sup>So wirst du Gunst und gute Einsicht finden
+in den Augen Gottes und der Menschen.
+
+> **Was bedeutet das?**
+> Vers 3: Güte und Treue sollen so nah bei dir sein wie eine Kette um den Hals. Und sie sollen tief in dir sein, wie auf dein Herz geschrieben.
+> Vers 4: Wer gütig und treu ist, wird von Gott und Menschen geschätzt. Ähnliches wird später über Jesus als Kind gesagt (Lukas 2,52).
+
+---
+
+### Verlass dich nicht auf deinen Verstand (Vers 5–12)
+
+<sup>5</sup>Vertraue auf den HERRN von ganzem Herzen,
+und verlass dich nicht auf deinen eigenen Verstand!
+<sup>6</sup>Erkenne ihn auf allen deinen Wegen,
+dann wird er deine Pfade gerade machen.
+<sup>7</sup>Halte dich nicht selbst für weise!
+Fürchte den HERRN und weiche vom Bösen!
+<sup>8</sup>Das wird Gesundheit für deinen Körper sein
+und Stärkung für deine Knochen.
+<sup>9</sup>Ehre den HERRN mit deinem Besitz,
+mit den Erstlingen von deinem ganzen Ertrag!
+<sup>10</sup>So werden deine Scheunen reichlich gefüllt sein,
+und deine Kelterfässer werden von neuem Wein überlaufen.
+<sup>11</sup>Mein Sohn, verachte die Erziehung des HERRN nicht,
+und werde nicht müde von seiner Zurechtweisung!
+<sup>12</sup>Denn wen der HERR liebt, den weist er zurecht,
+so wie ein Vater den Sohn, an dem er Freude hat.
+
+> **Was bedeutet das?**
+> Vers 5–6 gehören zu den bekanntesten Versen der Bibel. Unser Verstand ist gut, aber er hat Grenzen. Wer Gott vertraut und ihn in alle Entscheidungen einbezieht, findet den richtigen Weg.
+> Vers 7: Wer meint, schon alles zu wissen, kann nichts mehr lernen.
+> Vers 9–10: Die „Erstlinge“ sind das Erste und Beste der Ernte. Man gab es Gott als Dank. Das Prinzip gilt bis heute: Gott zuerst, nicht zuletzt. Es ist aber kein Rechentrick, um reich zu werden.
+> Vers 11–12: Wenn Gott uns korrigiert, ist das ein Zeichen seiner Liebe, wie bei guten Eltern. Der Hebräerbrief zitiert diese Verse (Hebräer 12,5–6). „Zurechtweisung“ meint hier Erziehung, keine Gewalt.
+
+---
+
+### Weisheit ist wertvoller als Gold (Vers 13–20)
+
+<sup>13</sup>Glücklich ist der Mensch, der Weisheit findet,
+der Mensch, der Einsicht bekommt.
+<sup>14</sup>Denn ihr Gewinn ist besser als Gewinn an Silber,
+und ihr Ertrag ist besser als feines Gold.
+<sup>15</sup>Sie ist kostbarer als Rubine.
+Nichts, was du dir wünschen kannst, ist mit ihr zu vergleichen.
+<sup>16</sup>Langes Leben ist in ihrer rechten Hand.
+In ihrer linken Hand sind Reichtum und Ehre.
+<sup>17</sup>Ihre Wege sind angenehme Wege.
+Alle ihre Pfade sind Frieden.
+<sup>18</sup>Sie ist ein Baum des Lebens für die, die sie ergreifen.
+Glücklich ist jeder, der sie festhält.
+<sup>19</sup>Durch Weisheit hat der HERR die Erde gegründet.
+Durch Einsicht hat er den Himmel befestigt.
+<sup>20</sup>Durch seine Erkenntnis sind die Tiefen aufgebrochen,
+und die Wolken lassen Tau herabtropfen.
+
+> **Was bedeutet das?**
+> Weisheit ist mehr wert als Gold, Silber und Edelsteine. Denn mit Weisheit kann man gut leben. Geld kann das nicht garantieren.
+> Vers 18: „Ein Baum des Lebens“ erinnert an den Garten Eden (1. Mose 2,9). Wer die Weisheit festhält, findet echtes Leben. Im Judentum singt man diesen Vers, wenn die Tora-Rolle in den Schrank zurückgestellt wird.
+> Vers 19–20: Gott hat die ganze Welt mit Weisheit gemacht. Wer weise lebt, lebt im Einklang mit der Schöpfung.
+
+---
+
+### Dann kannst du ruhig schlafen (Vers 21–26)
+
+<sup>21</sup>Mein Sohn, lass sie nicht aus deinen Augen weichen!
+Bewahre gesunde Weisheit und Besonnenheit,
+<sup>22</sup>dann werden sie Leben für deine Seele sein
+und Schmuck für deinen Hals.
+<sup>23</sup>Dann wirst du sicher auf deinem Weg gehen.
+Dein Fuß wird nicht stolpern.
+<sup>24</sup>Wenn du dich hinlegst, wirst du dich nicht fürchten.
+Ja, du wirst dich hinlegen, und dein Schlaf wird süß sein.
+<sup>25</sup>Fürchte dich nicht vor plötzlichem Schrecken
+und nicht vor dem Verderben der Gottlosen, wenn es kommt,
+<sup>26</sup>denn der HERR wird deine Zuversicht sein
+und deinen Fuß davor bewahren, gefangen zu werden.
+
+> **Was bedeutet das?**
+> Wer weise lebt, hat ein gutes Gewissen und kann ruhig schlafen.
+> Vers 26: Der eigentliche Grund für die Ruhe ist nicht unsere Klugheit, sondern Gott: Er ist unsere Zuversicht.
+
+---
+
+### Tu Gutes, wenn du kannst (Vers 27–35)
+
+<sup>27</sup>Verweigere das Gute nicht denen, denen es zusteht,
+wenn es in der Macht deiner Hand liegt, es zu tun.
+<sup>28</sup>Sag nicht zu deinem Nächsten: „Geh und komm wieder,
+morgen will ich es dir geben“,
+wenn du es doch bei dir hast.
+<sup>29</sup>Plane nichts Böses gegen deinen Nächsten,
+während er vertrauensvoll neben dir wohnt.
+<sup>30</sup>Streite nicht ohne Grund mit einem Menschen,
+wenn er dir nichts Böses getan hat.
+<sup>31</sup>Beneide den gewalttätigen Mann nicht,
+und wähle keinen von seinen Wegen!
+<sup>32</sup>Denn der Verdrehte ist dem HERRN ein Gräuel,
+aber mit den Aufrichtigen ist er vertraut.
+<sup>33</sup>Der Fluch des HERRN ist im Haus des Gottlosen,
+aber die Wohnung der Gerechten segnet er.
+<sup>34</sup>Gewiss, er spottet über die Spötter,
+aber den Demütigen gibt er Gnade.
+<sup>35</sup>Die Weisen werden Ehre erben,
+aber Schande ist der Aufstieg der Toren.
+
+> **Was bedeutet das?**
+> Vers 27–28: Sehr praktisch: Wenn du jemandem helfen kannst und er es braucht, dann tu es jetzt. Schieb es nicht auf morgen. Das gilt besonders für Lohn, Schulden oder Hilfe für Arme.
+> Vers 29–30: Gute Nachbarschaft: Nutze das Vertrauen anderer nicht aus und fang keinen sinnlosen Streit an.
+> Vers 31: Gewalttätige Menschen scheinen manchmal erfolgreich. Aber beneide sie nicht.
+> Vers 34: Dieser Vers wird im Neuen Testament zitiert: „Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade“ (Jakobus 4,6; 1. Petrus 5,5).
+> Vers 35: „Schande ist der Aufstieg der Toren“: Wer töricht lebt, steigt nur scheinbar auf. In Wirklichkeit führt sein Weg in die Schande.
+
+## Sprüche – Kapitel 4
+#### Behüte dein Herz
+
+---
+
+### Was mein Vater mich lehrte (Vers 1–9)
+
+<sup>1</sup>Hört, ihr Söhne, auf die Erziehung eines Vaters!
+Passt auf, um Einsicht zu erkennen!
+<sup>2</sup>Denn ich gebe euch gute Lehre.
+Verlasst meine Weisung nicht!
+<sup>3</sup>Denn ich war auch ein Sohn für meinen Vater,
+zart und das einzige Kind vor den Augen meiner Mutter.
+<sup>4</sup>Er lehrte mich und sagte zu mir:
+„Dein Herz soll meine Worte festhalten.
+Halte meine Gebote, dann wirst du leben.
+<sup>5</sup>Erwirb Weisheit! Erwirb Einsicht!
+Vergiss nicht und weiche nicht ab von den Worten meines Mundes!
+<sup>6</sup>Verlass sie nicht, dann wird sie dich bewahren.
+Liebe sie, dann wird sie dich behüten.
+<sup>7</sup>Weisheit ist das Höchste. Erwirb Weisheit!
+Ja, auch wenn es deinen ganzen Besitz kostet, erwirb Einsicht!
+<sup>8</sup>Schätze sie hoch, dann wird sie dich erhöhen.
+Sie wird dich zu Ehren bringen, wenn du sie umarmst.
+<sup>9</sup>Sie wird deinem Kopf einen schönen Kranz geben.
+Sie wird dir eine prächtige Krone überreichen.“
+
+> **Was bedeutet das?**
+> Hier spricht ein Vater, der selbst von seinem Vater gelernt hat. Weisheit wird von Generation zu Generation weitergegeben: vom Großvater zum Vater zum Sohn.
+> Vers 3: Ein liebevoller Blick zurück: Der Vater erinnert sich, wie er selbst ein kleines, zartes Kind war, von der Mutter geliebt.
+> Vers 7: Weisheit ist das Wichtigste. Es lohnt sich, alles dafür zu geben. Jesus erzählt ein ähnliches Gleichnis von einem Mann, der alles verkauft, um eine kostbare Perle zu kaufen (Matthäus 13,45–46).
+
+---
+
+### Zwei Wege: Licht und Dunkelheit (Vers 10–19)
+
+<sup>10</sup>Hör zu, mein Sohn, und nimm meine Worte an!
+Dann werden die Jahre deines Lebens viele sein.
+<sup>11</sup>Ich habe dich auf dem Weg der Weisheit unterrichtet.
+Ich habe dich auf geraden Pfaden geführt.
+<sup>12</sup>Wenn du gehst, werden deine Schritte nicht behindert.
+Wenn du läufst, wirst du nicht stolpern.
+<sup>13</sup>Halte die Erziehung fest! Lass sie nicht los!
+Bewahre sie, denn sie ist dein Leben.
+<sup>14</sup>Betritt nicht den Pfad der Gottlosen!
+Geh nicht auf dem Weg der Bösen!
+<sup>15</sup>Meide ihn und geh nicht auf ihm!
+Wende dich von ihm ab und geh weiter!
+<sup>16</sup>Denn sie schlafen nicht, wenn sie nichts Böses getan haben.
+Ihr Schlaf ist ihnen geraubt, wenn sie niemanden zu Fall gebracht haben.
+<sup>17</sup>Denn sie essen das Brot der Gottlosigkeit
+und trinken den Wein der Gewalt.
+<sup>18</sup>Aber der Pfad der Gerechten ist wie das Licht der Morgendämmerung,
+das immer heller leuchtet bis zum vollen Tag.
+<sup>19</sup>Der Weg der Gottlosen ist wie Dunkelheit.
+Sie wissen nicht, worüber sie stolpern.
+
+> **Was bedeutet das?**
+> Vers 14–15: Ein kluger Rat: Geh gar nicht erst auf den falschen Weg. Mach einen Bogen darum.
+> Vers 16–17: Böse Menschen sind süchtig nach dem Bösen. Sie können nicht schlafen, bevor sie jemandem geschadet haben.
+> Vers 18–19: Ein schönes Bild: Der Weg der Gerechten ist wie der Sonnenaufgang. Es wird immer heller. Der Weg der Gottlosen ist dunkel. Sie stolpern und wissen nicht einmal, warum.
+
+---
+
+### Behüte dein Herz (Vers 20–27)
+
+<sup>20</sup>Mein Sohn, achte auf meine Worte!
+Neige dein Ohr zu meinen Reden!
+<sup>21</sup>Lass sie nicht aus deinen Augen weichen!
+Bewahre sie in der Mitte deines Herzens!
+<sup>22</sup>Denn sie sind Leben für die, die sie finden,
+und Gesundheit für ihren ganzen Körper.
+<sup>23</sup>Behüte dein Herz mit allem Fleiß,
+denn aus ihm ist die Quelle des Lebens.
+<sup>24</sup>Halte einen verdrehten Mund von dir fern!
+Halte falsche Lippen weit weg von dir!
+<sup>25</sup>Lass deine Augen geradeaus schauen!
+Richte deinen Blick direkt nach vorn!
+<sup>26</sup>Mach den Pfad deiner Füße eben!
+Alle deine Wege sollen fest sein.
+<sup>27</sup>Weiche nicht ab nach rechts oder nach links!
+Halte deinen Fuß vom Bösen fern!
+
+> **Was bedeutet das?**
+> Vers 23 ist einer der wichtigsten Sätze des Buches. Das Herz ist in der Bibel nicht nur das Gefühl, sondern die Mitte des Menschen: Denken, Wollen, Fühlen. Aus dem Herzen kommt alles, was wir tun. Darum: Pass gut auf dein Herz auf! Was lässt du hinein? Was denkst du? Was willst du?
+> Vers 24–27: Der ganze Mensch ist gefragt: der Mund (was ich sage), die Augen (wohin ich schaue), die Füße (wohin ich gehe).
+> Vers 25: Schau nach vorn auf dein Ziel und lass dich nicht ablenken.

@@ -1,0 +1,745 @@
+{
+ "nr": 20,
+ "code": "PRO",
+ "kuerzel": "Spr",
+ "name": "Sprüche",
+ "name_englisch": "Proverbs",
+ "testament": "altes-testament",
+ "kapitel": 31,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Der Anfang der Weisheit",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch der Sprüche?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch der Sprüche ist ein Buch voller Lebensweisheit.\nEs enthält kurze, kluge Sätze für den Alltag: über Arbeit und Faulheit, Freundschaft und Streit, Geld und Armut, Worte und Schweigen, Familie und Nachbarn.\nViele Sprüche werden König Salomo zugeschrieben. Er war berühmt für seine Weisheit (1. Könige 5,9–14). Aber auch andere Weise haben Sprüche beigetragen, zum Beispiel Agur und König Lemuël (Kapitel 30 und 31).\nDas Buch hat mehrere Teile:\n– Kapitel 1–9: längere Reden. Ein Vater (und eine Mutter) lehren ihren Sohn. Die Weisheit tritt auf wie eine Frau, die auf der Straße ruft.\n– Kapitel 10–29: viele einzelne, kurze Sprüche. Oft sind es zwei Zeilen, die einen Gegensatz zeigen: „Der Weise … aber der Tor …“.\n– Kapitel 30–31: Worte von Agur und Lemuël, und am Ende das Lob einer tüchtigen Frau.\nDer Leitsatz des ganzen Buches steht in Kapitel 1, Vers 7: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis.“\nWichtig: Sprüche sind keine Versprechen, die immer und für jeden gelten. Sie beschreiben, wie das Leben meistens funktioniert. Das Buch Hiob und das Buch Prediger zeigen, dass es auch Ausnahmen gibt.\nDas Buch spricht oft „meinen Sohn“ an, weil es damals für junge Männer geschrieben wurde. Seine Weisheit gilt aber für alle Menschen, für Frauen und Männer, Junge und Alte.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Wozu dieses Buch da ist",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Sprüche Salomos, des Sohnes Davids, des Königs von Israel:",
+       "englisch_web": "The proverbs of Solomon, the son of David, king of Israel:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "um Weisheit und Erziehung zu kennen,\num Worte der Einsicht zu verstehen,",
+       "englisch_web": "to know wisdom and instruction; to discern the words of understanding;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "um Erziehung zu klugem Handeln zu empfangen,\nzu Gerechtigkeit, Recht und Aufrichtigkeit,",
+       "englisch_web": "to receive instruction in wise dealing, in righteousness, justice, and equity;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "um den Einfältigen Klugheit zu geben,\ndem jungen Mann Erkenntnis und Besonnenheit,",
+       "englisch_web": "to give prudence to the simple, knowledge and discretion to the young man—"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "damit der Weise hört und an Lehre zunimmt\nund der Verständige guten Rat gewinnt,",
+       "englisch_web": "that the wise man may hear, and increase in learning; that the man of understanding may attain to sound counsel;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "um Sprüche und Gleichnisse zu verstehen,\ndie Worte der Weisen und ihre Rätsel.",
+       "englisch_web": "to understand a proverb and parables, the words and riddles of the wise."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis.\nAber die Toren verachten Weisheit und Erziehung.",
+       "englisch_web": "The fear of Yahweh is the beginning of knowledge, but the foolish despise wisdom and instruction."
+      }
+     ],
+     "erklaerung": "Vers 2–6 nennen den Zweck des Buches: Es will Menschen klug machen für das Leben. Nicht nur die „Einfältigen“, also Unerfahrene, sondern auch die, die schon weise sind. Man lernt nie aus.\nVers 7 ist der wichtigste Satz des Buches. „Ehrfurcht vor dem HERRN“ heißt nicht Angst. Es heißt: Gott ernst nehmen, ihn achten, ihm vertrauen. Wer so lebt, hat das Fundament für alle Weisheit.\nDer „Tor“ ist im Buch der Sprüche nicht einfach jemand, der wenig weiß. Es ist jemand, der nicht lernen will und Gott nicht ernst nimmt."
+    },
+    {
+     "ueberschrift": "Lass dich nicht verführen",
+     "vers_von": 8,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Mein Sohn, hör auf die Erziehung deines Vaters,\nund verlass nicht die Lehre deiner Mutter!",
+       "englisch_web": "My son, listen to your father’s instruction, and don’t forsake your mother’s teaching;"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn sie sind ein schöner Kranz für deinen Kopf\nund eine Kette um deinen Hals.",
+       "englisch_web": "for they will be a garland to grace your head, and chains around your neck."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Mein Sohn, wenn Sünder dich verlocken, dann willige nicht ein!",
+       "englisch_web": "My son, if sinners entice you, don’t consent."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Wenn sie sagen: „Komm mit uns!\nLass uns auf Blut lauern!\nLass uns ohne Grund heimlich dem Unschuldigen auflauern!",
+       "englisch_web": "If they say, “Come with us. Let’s lie in wait for blood. Let’s lurk secretly for the innocent without cause."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Lass uns sie lebendig verschlingen wie das Totenreich,\nganz, wie die, die in die Grube hinabfahren!",
+       "englisch_web": "Let’s swallow them up alive like Sheol, and whole, like those who go down into the pit."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Wir werden allerlei wertvollen Reichtum finden.\nWir werden unsere Häuser mit Beute füllen.",
+       "englisch_web": "We’ll find all valuable wealth. We’ll fill our houses with plunder."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Du sollst dein Los mit uns werfen.\nWir werden alle einen gemeinsamen Geldbeutel haben.“",
+       "englisch_web": "You shall cast your lot among us. We’ll all have one purse”—"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Mein Sohn, geh nicht mit ihnen auf diesem Weg!\nHalte deinen Fuß fern von ihrem Pfad!",
+       "englisch_web": "my son, don’t walk on the path with them. Keep your foot from their path,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn ihre Füße laufen zum Bösen.\nSie eilen, Blut zu vergießen.",
+       "englisch_web": "for their feet run to evil. They hurry to shed blood."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn vergeblich wird das Netz ausgebreitet\nvor den Augen jedes Vogels.",
+       "englisch_web": "For the net is spread in vain in the sight of any bird;"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Aber diese lauern auf ihr eigenes Blut.\nSie stellen heimlich ihrem eigenen Leben nach.",
+       "englisch_web": "but these lay in wait for their own blood. They lurk secretly for their own lives."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "So sind die Wege von jedem, der gierig nach Gewinn ist.\nDie Gier nimmt ihren Besitzern das Leben.",
+       "englisch_web": "So are the ways of everyone who is greedy for gain. It takes away the life of its owners."
+      }
+     ],
+     "erklaerung": "Vers 8: Vater und Mutter lehren beide. Die Mutter wird ausdrücklich genannt.\nVers 9: Gute Lehre ist wie Schmuck. Sie macht einen Menschen schön.\nVers 10–14: Eine Bande versucht, einen jungen Mann anzuwerben: „Mach mit, wir werden reich, wir teilen alles!“ Das klingt nach Gemeinschaft und schnellem Geld. Solche Verführung gibt es bis heute: Gangs, Kriminalität, Betrug.\nVers 17–18: Ein Vogel, der das Netz sieht, fliegt nicht hinein. Aber diese Männer sehen ihre eigene Falle nicht. Wer anderen schadet, schadet am Ende sich selbst.\nVers 19: Gier zerstört das Leben dessen, der gierig ist."
+    },
+    {
+     "ueberschrift": "Die Weisheit ruft auf der Straße",
+     "vers_von": 20,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Die Weisheit ruft laut auf der Straße.\nSie erhebt ihre Stimme auf den Plätzen.",
+       "englisch_web": "Wisdom calls aloud in the street. She utters her voice in the public squares."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie ruft an den lautesten Orten.\nAm Eingang der Stadttore spricht sie ihre Worte:",
+       "englisch_web": "She calls at the head of noisy places. At the entrance of the city gates, she utters her words:"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "„Wie lange, ihr Einfältigen, wollt ihr die Einfalt lieben?\nWie lange haben die Spötter Freude am Spott,\nund wie lange hassen die Toren Erkenntnis?",
+       "englisch_web": "“How long, you simple ones, will you love simplicity? How long will mockers delight themselves in mockery, and fools hate knowledge?"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Kehrt um bei meiner Zurechtweisung!\nSiehe, ich will meinen Geist über euch ausgießen.\nIch will euch meine Worte bekannt machen.",
+       "englisch_web": "Turn at my reproof. Behold, I will pour out my spirit on you. I will make known my words to you."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Weil ich gerufen habe und ihr euch geweigert habt,\nweil ich meine Hand ausgestreckt habe und niemand aufgepasst hat,",
+       "englisch_web": "Because I have called, and you have refused; I have stretched out my hand, and no one has paid attention;"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "sondern ihr allen meinen Rat missachtet habt\nund meine Zurechtweisung nicht wolltet,",
+       "englisch_web": "but you have ignored all my counsel, and wanted none of my reproof;"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "darum werde auch ich über euer Unglück lachen.\nIch werde spotten, wenn das Unheil über euch kommt,",
+       "englisch_web": "I also will laugh at your disaster. I will mock when calamity overtakes you,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "wenn das Unheil über euch kommt wie ein Sturm,\nwenn euer Unglück kommt wie ein Wirbelwind,\nwenn Not und Angst über euch kommen.",
+       "englisch_web": "when calamity overtakes you like a storm, when your disaster comes on like a whirlwind, when distress and anguish come on you."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Dann werden sie mich rufen, aber ich werde nicht antworten.\nSie werden mich eifrig suchen, aber sie werden mich nicht finden,",
+       "englisch_web": "Then they will call on me, but I will not answer. They will seek me diligently, but they will not find me,"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "weil sie Erkenntnis gehasst haben\nund die Ehrfurcht vor dem HERRN nicht gewählt haben.",
+       "englisch_web": "because they hated knowledge, and didn’t choose the fear of Yahweh."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Sie wollten meinen Rat nicht.\nSie haben alle meine Zurechtweisung verachtet.",
+       "englisch_web": "They wanted none of my counsel. They despised all my reproof."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Darum werden sie die Frucht ihres eigenen Weges essen\nund von ihren eigenen Plänen satt werden.",
+       "englisch_web": "Therefore they will eat of the fruit of their own way, and be filled with their own schemes."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Denn die Abtrünnigkeit der Einfältigen wird sie töten.\nDie Sorglosigkeit der Toren wird sie vernichten.",
+       "englisch_web": "For the backsliding of the simple will kill them. The careless ease of fools will destroy them."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Aber wer auf mich hört, wird sicher wohnen.\nEr wird ruhig sein, ohne Angst vor Unheil.“",
+       "englisch_web": "But whoever listens to me will dwell securely, and will be at ease, without fear of harm.”"
+      }
+     ],
+     "erklaerung": "Die Weisheit wird hier wie eine Frau beschrieben, die mitten in der Stadt laut ruft: auf dem Marktplatz, am Stadttor, wo alle vorbeikommen. Weisheit ist nicht versteckt. Jeder kann sie hören.\nVers 23: Sie lädt ein: Kehrt um! Ich will euch meinen Geist schenken.\nVers 24–32: Harte Worte für die, die nicht hören wollen. Wer jede Warnung in den Wind schlägt, muss mit den Folgen leben. „Sie essen die Frucht ihres eigenen Weges“: Man erntet, was man sät.\nVers 26: „Ich werde lachen“: Das ist eine bildhafte, zugespitzte Sprache. Es heißt nicht, dass Gott sich über Leid freut. Es zeigt: Wer die Weisheit ablehnt, kann sich im Unglück nicht plötzlich auf sie berufen.\nVers 33: Das Ziel ist gut: Wer auf die Weisheit hört, lebt sicher und ohne Angst."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Suche die Weisheit wie einen Schatz",
+   "abschnitte": [
+    {
+     "ueberschrift": "Wenn du die Weisheit suchst",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Mein Sohn, wenn du meine Worte annimmst\nund meine Gebote bei dir aufbewahrst,",
+       "englisch_web": "My son, if you will receive my words, and store up my commandments within you,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "sodass du dein Ohr der Weisheit zuneigst\nund dein Herz der Einsicht zuwendest,",
+       "englisch_web": "so as to turn your ear to wisdom, and apply your heart to understanding;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "ja, wenn du nach Verstand rufst\nund deine Stimme nach Einsicht erhebst,",
+       "englisch_web": "yes, if you call out for discernment, and lift up your voice for understanding;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "wenn du sie suchst wie Silber\nund nach ihr forschst wie nach verborgenen Schätzen,",
+       "englisch_web": "if you seek her as silver, and search for her as for hidden treasures;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "dann wirst du die Ehrfurcht vor dem HERRN verstehen\nund die Erkenntnis Gottes finden.",
+       "englisch_web": "then you will understand the fear of Yahweh, and find the knowledge of God."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn der HERR gibt Weisheit.\nAus seinem Mund kommen Erkenntnis und Einsicht.",
+       "englisch_web": "For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er bewahrt gesunde Weisheit für die Aufrichtigen auf.\nEr ist ein Schild für die, die untadelig leben,",
+       "englisch_web": "He lays up sound wisdom for the upright. He is a shield to those who walk in integrity,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "damit er die Pfade des Rechts bewacht\nund den Weg seiner Heiligen behütet.",
+       "englisch_web": "that he may guard the paths of justice, and preserve the way of his saints."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Dann wirst du Gerechtigkeit und Recht verstehen,\nAufrichtigkeit und jeden guten Weg.",
+       "englisch_web": "Then you will understand righteousness and justice, equity and every good path."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Denn Weisheit wird in dein Herz kommen.\nErkenntnis wird deiner Seele angenehm sein.",
+       "englisch_web": "For wisdom will enter into your heart. Knowledge will be pleasant to your soul."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Besonnenheit wird über dich wachen.\nEinsicht wird dich behüten.",
+       "englisch_web": "Discretion will watch over you. Understanding will keep you,"
+      }
+     ],
+     "erklaerung": "Weisheit fällt nicht vom Himmel. Man muss sie suchen, wie ein Schatzsucher, der nach Silber gräbt. Man muss zuhören, rufen, forschen.\nAber gleichzeitig ist Weisheit ein Geschenk: „Der HERR gibt Weisheit“ (Vers 6). Beides gehört zusammen: unser Suchen und Gottes Geben.\nVers 11: Wer weise ist, hat einen inneren Wächter. Er merkt rechtzeitig, wenn etwas gefährlich wird."
+    },
+    {
+     "ueberschrift": "Die Weisheit bewahrt dich",
+     "vers_von": 12,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie wird dich retten vor dem Weg des Bösen,\nvor den Männern, die verdrehte Dinge reden,",
+       "englisch_web": "to deliver you from the way of evil, from the men who speak perverse things,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "die die Pfade der Aufrichtigkeit verlassen,\num auf den Wegen der Finsternis zu gehen,",
+       "englisch_web": "who forsake the paths of uprightness, to walk in the ways of darkness,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "die sich freuen, Böses zu tun,\nund Gefallen haben an der Verdrehtheit des Bösen,",
+       "englisch_web": "who rejoice to do evil, and delight in the perverseness of evil,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "die krumm sind auf ihren Wegen\nund verkehrt auf ihren Pfaden.",
+       "englisch_web": "who are crooked in their ways, and wayward in their paths,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sie wird dich retten vor der fremden Frau,\nvor der Fremden, die mit ihren Worten schmeichelt,",
+       "englisch_web": "to deliver you from the strange woman, even from the foreigner who flatters with her words,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "die den Freund ihrer Jugend verlässt\nund den Bund ihres Gottes vergisst.",
+       "englisch_web": "who forsakes the friend of her youth, and forgets the covenant of her God;"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Denn ihr Haus führt hinab zum Tod,\nihre Pfade zu den Geistern der Toten.",
+       "englisch_web": "for her house leads down to death, her paths to the departed spirits."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Keiner, der zu ihr geht, kehrt wieder zurück.\nSie erreichen die Pfade des Lebens nicht.",
+       "englisch_web": "None who go to her return again, neither do they attain to the paths of life."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Darum geh auf dem Weg der Guten\nund halte dich an die Pfade der Gerechten!",
+       "englisch_web": "Therefore walk in the way of good men, and keep the paths of the righteous."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn die Aufrichtigen werden im Land wohnen.\nDie Untadeligen werden darin bleiben.",
+       "englisch_web": "For the upright will dwell in the land. The perfect will remain in it."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Aber die Gottlosen werden aus dem Land ausgerottet werden.\nDie Treulosen werden herausgerissen werden.",
+       "englisch_web": "But the wicked will be cut off from the land. The treacherous will be rooted out of it."
+      }
+     ],
+     "erklaerung": "Die Weisheit schützt vor zwei Gefahren: vor bösen Männern (Vers 12–15) und vor der „fremden Frau“ (Vers 16–19).\nDie „fremde Frau“ ist eine Frau, die ihren Ehemann („den Freund ihrer Jugend“) verlässt und einen anderen verführt. Es geht um Ehebruch. „Fremd“ heißt hier: sie gehört nicht zu dir, sie ist mit einem anderen verheiratet. Es ist keine Aussage gegen Ausländerinnen oder gegen Frauen allgemein.\nWeil das Buch für junge Männer geschrieben wurde, spricht es von der verführerischen Frau. Die Warnung gilt aber genauso umgekehrt: für Frauen gegenüber verführerischen Männern. Untreue zerstört Beziehungen und Leben.\nVers 17: Die Ehe ist ein „Bund vor Gott“. Wer ihn bricht, bricht nicht nur ein Versprechen an einen Menschen."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Vertraue auf den HERRN von ganzem Herzen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Güte und Treue",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Mein Sohn, vergiss meine Lehre nicht,\nsondern dein Herz soll meine Gebote bewahren,",
+       "englisch_web": "My son, don’t forget my teaching, but let your heart keep my commandments,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "denn sie werden dir lange Tage geben,\nLebensjahre und Frieden.",
+       "englisch_web": "for they will add to you length of days, years of life, and peace."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Lass Güte und Treue dich nicht verlassen!\nBinde sie um deinen Hals!\nSchreibe sie auf die Tafel deines Herzens!",
+       "englisch_web": "Don’t let kindness and truth forsake you. Bind them around your neck. Write them on the tablet of your heart."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "So wirst du Gunst und gute Einsicht finden\nin den Augen Gottes und der Menschen.",
+       "englisch_web": "So you will find favor, and good understanding in the sight of God and man."
+      }
+     ],
+     "erklaerung": "Vers 3: Güte und Treue sollen so nah bei dir sein wie eine Kette um den Hals. Und sie sollen tief in dir sein, wie auf dein Herz geschrieben.\nVers 4: Wer gütig und treu ist, wird von Gott und Menschen geschätzt. Ähnliches wird später über Jesus als Kind gesagt (Lukas 2,52)."
+    },
+    {
+     "ueberschrift": "Verlass dich nicht auf deinen Verstand",
+     "vers_von": 5,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Vertraue auf den HERRN von ganzem Herzen,\nund verlass dich nicht auf deinen eigenen Verstand!",
+       "englisch_web": "Trust in Yahweh with all your heart, and don’t lean on your own understanding."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Erkenne ihn auf allen deinen Wegen,\ndann wird er deine Pfade gerade machen.",
+       "englisch_web": "In all your ways acknowledge him, and he will make your paths straight."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Halte dich nicht selbst für weise!\nFürchte den HERRN und weiche vom Bösen!",
+       "englisch_web": "Don’t be wise in your own eyes. Fear Yahweh, and depart from evil."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Das wird Gesundheit für deinen Körper sein\nund Stärkung für deine Knochen.",
+       "englisch_web": "It will be health to your body, and nourishment to your bones."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ehre den HERRN mit deinem Besitz,\nmit den Erstlingen von deinem ganzen Ertrag!",
+       "englisch_web": "Honor Yahweh with your substance, with the first fruits of all your increase;"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "So werden deine Scheunen reichlich gefüllt sein,\nund deine Kelterfässer werden von neuem Wein überlaufen.",
+       "englisch_web": "so your barns will be filled with plenty, and your vats will overflow with new wine."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Mein Sohn, verachte die Erziehung des HERRN nicht,\nund werde nicht müde von seiner Zurechtweisung!",
+       "englisch_web": "My son, don’t despise Yahweh’s discipline, neither be weary of his correction;"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn wen der HERR liebt, den weist er zurecht,\nso wie ein Vater den Sohn, an dem er Freude hat.",
+       "englisch_web": "for whom Yahweh loves, he corrects, even as a father reproves the son in whom he delights."
+      }
+     ],
+     "erklaerung": "Vers 5–6 gehören zu den bekanntesten Versen der Bibel. Unser Verstand ist gut, aber er hat Grenzen. Wer Gott vertraut und ihn in alle Entscheidungen einbezieht, findet den richtigen Weg.\nVers 7: Wer meint, schon alles zu wissen, kann nichts mehr lernen.\nVers 9–10: Die „Erstlinge“ sind das Erste und Beste der Ernte. Man gab es Gott als Dank. Das Prinzip gilt bis heute: Gott zuerst, nicht zuletzt. Es ist aber kein Rechentrick, um reich zu werden.\nVers 11–12: Wenn Gott uns korrigiert, ist das ein Zeichen seiner Liebe, wie bei guten Eltern. Der Hebräerbrief zitiert diese Verse (Hebräer 12,5–6). „Zurechtweisung“ meint hier Erziehung, keine Gewalt."
+    },
+    {
+     "ueberschrift": "Weisheit ist wertvoller als Gold",
+     "vers_von": 13,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Glücklich ist der Mensch, der Weisheit findet,\nder Mensch, der Einsicht bekommt.",
+       "englisch_web": "Happy is the man who finds wisdom, the man who gets understanding."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Denn ihr Gewinn ist besser als Gewinn an Silber,\nund ihr Ertrag ist besser als feines Gold.",
+       "englisch_web": "For her good profit is better than getting silver, and her return is better than fine gold."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Sie ist kostbarer als Rubine.\nNichts, was du dir wünschen kannst, ist mit ihr zu vergleichen.",
+       "englisch_web": "She is more precious than rubies. None of the things you can desire are to be compared to her."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Langes Leben ist in ihrer rechten Hand.\nIn ihrer linken Hand sind Reichtum und Ehre.",
+       "englisch_web": "Length of days is in her right hand. In her left hand are riches and honor."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ihre Wege sind angenehme Wege.\nAlle ihre Pfade sind Frieden.",
+       "englisch_web": "Her ways are ways of pleasantness. All her paths are peace."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sie ist ein Baum des Lebens für die, die sie ergreifen.\nGlücklich ist jeder, der sie festhält.",
+       "englisch_web": "She is a tree of life to those who lay hold of her. Happy is everyone who retains her."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Durch Weisheit hat der HERR die Erde gegründet.\nDurch Einsicht hat er den Himmel befestigt.",
+       "englisch_web": "By wisdom Yahweh founded the earth. By understanding, he established the heavens."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Durch seine Erkenntnis sind die Tiefen aufgebrochen,\nund die Wolken lassen Tau herabtropfen.",
+       "englisch_web": "By his knowledge, the depths were broken up, and the skies drop down the dew."
+      }
+     ],
+     "erklaerung": "Weisheit ist mehr wert als Gold, Silber und Edelsteine. Denn mit Weisheit kann man gut leben. Geld kann das nicht garantieren.\nVers 18: „Ein Baum des Lebens“ erinnert an den Garten Eden (1. Mose 2,9). Wer die Weisheit festhält, findet echtes Leben. Im Judentum singt man diesen Vers, wenn die Tora-Rolle in den Schrank zurückgestellt wird.\nVers 19–20: Gott hat die ganze Welt mit Weisheit gemacht. Wer weise lebt, lebt im Einklang mit der Schöpfung."
+    },
+    {
+     "ueberschrift": "Dann kannst du ruhig schlafen",
+     "vers_von": 21,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Mein Sohn, lass sie nicht aus deinen Augen weichen!\nBewahre gesunde Weisheit und Besonnenheit,",
+       "englisch_web": "My son, let them not depart from your eyes. Keep sound wisdom and discretion,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "dann werden sie Leben für deine Seele sein\nund Schmuck für deinen Hals.",
+       "englisch_web": "so they will be life to your soul, and grace for your neck."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Dann wirst du sicher auf deinem Weg gehen.\nDein Fuß wird nicht stolpern.",
+       "englisch_web": "Then you shall walk in your way securely. Your foot won’t stumble."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Wenn du dich hinlegst, wirst du dich nicht fürchten.\nJa, du wirst dich hinlegen, und dein Schlaf wird süß sein.",
+       "englisch_web": "When you lie down, you will not be afraid. Yes, you will lie down, and your sleep will be sweet."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Fürchte dich nicht vor plötzlichem Schrecken\nund nicht vor dem Verderben der Gottlosen, wenn es kommt,",
+       "englisch_web": "Don’t be afraid of sudden fear, neither of the desolation of the wicked, when it comes;"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "denn der HERR wird deine Zuversicht sein\nund deinen Fuß davor bewahren, gefangen zu werden.",
+       "englisch_web": "for Yahweh will be your confidence, and will keep your foot from being taken."
+      }
+     ],
+     "erklaerung": "Wer weise lebt, hat ein gutes Gewissen und kann ruhig schlafen.\nVers 26: Der eigentliche Grund für die Ruhe ist nicht unsere Klugheit, sondern Gott: Er ist unsere Zuversicht."
+    },
+    {
+     "ueberschrift": "Tu Gutes, wenn du kannst",
+     "vers_von": 27,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Verweigere das Gute nicht denen, denen es zusteht,\nwenn es in der Macht deiner Hand liegt, es zu tun.",
+       "englisch_web": "Don’t withhold good from those to whom it is due, when it is in the power of your hand to do it."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Sag nicht zu deinem Nächsten: „Geh und komm wieder,\nmorgen will ich es dir geben“,\nwenn du es doch bei dir hast.",
+       "englisch_web": "Don’t say to your neighbor, “Go, and come again; tomorrow I will give it to you,” when you have it by you."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Plane nichts Böses gegen deinen Nächsten,\nwährend er vertrauensvoll neben dir wohnt.",
+       "englisch_web": "Don’t devise evil against your neighbor, since he dwells securely by you."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Streite nicht ohne Grund mit einem Menschen,\nwenn er dir nichts Böses getan hat.",
+       "englisch_web": "Don’t strive with a man without cause, if he has done you no harm."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Beneide den gewalttätigen Mann nicht,\nund wähle keinen von seinen Wegen!",
+       "englisch_web": "Don’t envy the man of violence. Choose none of his ways."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Denn der Verdrehte ist dem HERRN ein Gräuel,\naber mit den Aufrichtigen ist er vertraut.",
+       "englisch_web": "For the perverse is an abomination to Yahweh, but his friendship is with the upright."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Der Fluch des HERRN ist im Haus des Gottlosen,\naber die Wohnung der Gerechten segnet er.",
+       "englisch_web": "Yahweh’s curse is in the house of the wicked, but he blesses the habitation of the righteous."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Gewiss, er spottet über die Spötter,\naber den Demütigen gibt er Gnade.",
+       "englisch_web": "Surely he mocks the mockers, but he gives grace to the humble."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Weisen werden Ehre erben,\naber Schande ist der Aufstieg der Toren.",
+       "englisch_web": "The wise will inherit glory, but shame will be the promotion of fools."
+      }
+     ],
+     "erklaerung": "Vers 27–28: Sehr praktisch: Wenn du jemandem helfen kannst und er es braucht, dann tu es jetzt. Schieb es nicht auf morgen. Das gilt besonders für Lohn, Schulden oder Hilfe für Arme.\nVers 29–30: Gute Nachbarschaft: Nutze das Vertrauen anderer nicht aus und fang keinen sinnlosen Streit an.\nVers 31: Gewalttätige Menschen scheinen manchmal erfolgreich. Aber beneide sie nicht.\nVers 34: Dieser Vers wird im Neuen Testament zitiert: „Gott widersteht den Hochmütigen, aber den Demütigen gibt er Gnade“ (Jakobus 4,6; 1. Petrus 5,5).\nVers 35: „Schande ist der Aufstieg der Toren“: Wer töricht lebt, steigt nur scheinbar auf. In Wirklichkeit führt sein Weg in die Schande."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Behüte dein Herz",
+   "abschnitte": [
+    {
+     "ueberschrift": "Was mein Vater mich lehrte",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Hört, ihr Söhne, auf die Erziehung eines Vaters!\nPasst auf, um Einsicht zu erkennen!",
+       "englisch_web": "Listen, sons, to a father’s instruction. Pay attention and know understanding;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Denn ich gebe euch gute Lehre.\nVerlasst meine Weisung nicht!",
+       "englisch_web": "for I give you sound learning. Don’t forsake my law."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Denn ich war auch ein Sohn für meinen Vater,\nzart und das einzige Kind vor den Augen meiner Mutter.",
+       "englisch_web": "For I was a son to my father, tender and an only child in the sight of my mother."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er lehrte mich und sagte zu mir:\n„Dein Herz soll meine Worte festhalten.\nHalte meine Gebote, dann wirst du leben.",
+       "englisch_web": "He taught me, and said to me: “Let your heart retain my words. Keep my commandments, and live."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Erwirb Weisheit! Erwirb Einsicht!\nVergiss nicht und weiche nicht ab von den Worten meines Mundes!",
+       "englisch_web": "Get wisdom. Get understanding. Don’t forget, and don’t deviate from the words of my mouth."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Verlass sie nicht, dann wird sie dich bewahren.\nLiebe sie, dann wird sie dich behüten.",
+       "englisch_web": "Don’t forsake her, and she will preserve you. Love her, and she will keep you."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Weisheit ist das Höchste. Erwirb Weisheit!\nJa, auch wenn es deinen ganzen Besitz kostet, erwirb Einsicht!",
+       "englisch_web": "Wisdom is supreme. Get wisdom. Yes, though it costs all your possessions, get understanding."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Schätze sie hoch, dann wird sie dich erhöhen.\nSie wird dich zu Ehren bringen, wenn du sie umarmst.",
+       "englisch_web": "Esteem her, and she will exalt you. She will bring you to honor when you embrace her."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sie wird deinem Kopf einen schönen Kranz geben.\nSie wird dir eine prächtige Krone überreichen.“",
+       "englisch_web": "She will give to your head a garland of grace. She will deliver a crown of splendor to you.”"
+      }
+     ],
+     "erklaerung": "Hier spricht ein Vater, der selbst von seinem Vater gelernt hat. Weisheit wird von Generation zu Generation weitergegeben: vom Großvater zum Vater zum Sohn.\nVers 3: Ein liebevoller Blick zurück: Der Vater erinnert sich, wie er selbst ein kleines, zartes Kind war, von der Mutter geliebt.\nVers 7: Weisheit ist das Wichtigste. Es lohnt sich, alles dafür zu geben. Jesus erzählt ein ähnliches Gleichnis von einem Mann, der alles verkauft, um eine kostbare Perle zu kaufen (Matthäus 13,45–46)."
+    },
+    {
+     "ueberschrift": "Zwei Wege: Licht und Dunkelheit",
+     "vers_von": 10,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Hör zu, mein Sohn, und nimm meine Worte an!\nDann werden die Jahre deines Lebens viele sein.",
+       "englisch_web": "Listen, my son, and receive my sayings. The years of your life will be many."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ich habe dich auf dem Weg der Weisheit unterrichtet.\nIch habe dich auf geraden Pfaden geführt.",
+       "englisch_web": "I have taught you in the way of wisdom. I have led you in straight paths."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wenn du gehst, werden deine Schritte nicht behindert.\nWenn du läufst, wirst du nicht stolpern.",
+       "englisch_web": "When you go, your steps will not be hampered. When you run, you will not stumble."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Halte die Erziehung fest! Lass sie nicht los!\nBewahre sie, denn sie ist dein Leben.",
+       "englisch_web": "Take firm hold of instruction. Don’t let her go. Keep her, for she is your life."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Betritt nicht den Pfad der Gottlosen!\nGeh nicht auf dem Weg der Bösen!",
+       "englisch_web": "Don’t enter into the path of the wicked. Don’t walk in the way of evil men."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Meide ihn und geh nicht auf ihm!\nWende dich von ihm ab und geh weiter!",
+       "englisch_web": "Avoid it, and don’t pass by it. Turn from it, and pass on."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn sie schlafen nicht, wenn sie nichts Böses getan haben.\nIhr Schlaf ist ihnen geraubt, wenn sie niemanden zu Fall gebracht haben.",
+       "englisch_web": "For they don’t sleep unless they do evil. Their sleep is taken away, unless they make someone fall."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn sie essen das Brot der Gottlosigkeit\nund trinken den Wein der Gewalt.",
+       "englisch_web": "For they eat the bread of wickedness and drink the wine of violence."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Aber der Pfad der Gerechten ist wie das Licht der Morgendämmerung,\ndas immer heller leuchtet bis zum vollen Tag.",
+       "englisch_web": "But the path of the righteous is like the dawning light that shines more and more until the perfect day."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der Weg der Gottlosen ist wie Dunkelheit.\nSie wissen nicht, worüber sie stolpern.",
+       "englisch_web": "The way of the wicked is like darkness. They don’t know what they stumble over."
+      }
+     ],
+     "erklaerung": "Vers 14–15: Ein kluger Rat: Geh gar nicht erst auf den falschen Weg. Mach einen Bogen darum.\nVers 16–17: Böse Menschen sind süchtig nach dem Bösen. Sie können nicht schlafen, bevor sie jemandem geschadet haben.\nVers 18–19: Ein schönes Bild: Der Weg der Gerechten ist wie der Sonnenaufgang. Es wird immer heller. Der Weg der Gottlosen ist dunkel. Sie stolpern und wissen nicht einmal, warum."
+    },
+    {
+     "ueberschrift": "Behüte dein Herz",
+     "vers_von": 20,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Mein Sohn, achte auf meine Worte!\nNeige dein Ohr zu meinen Reden!",
+       "englisch_web": "My son, attend to my words. Turn your ear to my sayings."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Lass sie nicht aus deinen Augen weichen!\nBewahre sie in der Mitte deines Herzens!",
+       "englisch_web": "Let them not depart from your eyes. Keep them in the center of your heart."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Denn sie sind Leben für die, die sie finden,\nund Gesundheit für ihren ganzen Körper.",
+       "englisch_web": "For they are life to those who find them, and health to their whole body."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Behüte dein Herz mit allem Fleiß,\ndenn aus ihm ist die Quelle des Lebens.",
+       "englisch_web": "Keep your heart with all diligence, for out of it is the wellspring of life."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Halte einen verdrehten Mund von dir fern!\nHalte falsche Lippen weit weg von dir!",
+       "englisch_web": "Put away from yourself a perverse mouth. Put corrupt lips far from you."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Lass deine Augen geradeaus schauen!\nRichte deinen Blick direkt nach vorn!",
+       "englisch_web": "Let your eyes look straight ahead. Fix your gaze directly before you."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Mach den Pfad deiner Füße eben!\nAlle deine Wege sollen fest sein.",
+       "englisch_web": "Make the path of your feet level. Let all of your ways be established."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Weiche nicht ab nach rechts oder nach links!\nHalte deinen Fuß vom Bösen fern!",
+       "englisch_web": "Don’t turn to the right hand nor to the left. Remove your foot from evil."
+      }
+     ],
+     "erklaerung": "Vers 23 ist einer der wichtigsten Sätze des Buches. Das Herz ist in der Bibel nicht nur das Gefühl, sondern die Mitte des Menschen: Denken, Wollen, Fühlen. Aus dem Herzen kommt alles, was wir tun. Darum: Pass gut auf dein Herz auf! Was lässt du hinein? Was denkst du? Was willst du?\nVers 24–27: Der ganze Mensch ist gefragt: der Mund (was ich sage), die Augen (wohin ich schaue), die Füße (wohin ich gehe).\nVers 25: Schau nach vorn auf dein Ziel und lass dich nicht ablenken."
+    }
+   ]
+  }
+ ]
+}
