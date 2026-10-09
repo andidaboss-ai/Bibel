@@ -75820,3 +75820,344 @@ Lobt Jah!
 > Vers 47: Ein Gebet aus dem Exil: Sammle uns wieder, führe uns nach Hause!
 > Vers 48 ist der Abschluss des vierten Psalmenbuchs (Psalm 90–106). Hier wird das ganze Volk aufgefordert, mit „Amen“ zu antworten.
 > Ab Psalm 107 beginnt das fünfte und letzte Psalmenbuch.
+
+## Psalm 107
+#### Dankt dem HERRN, er rettet aus jeder Not
+
+---
+
+### Fünftes Buch der Psalmen
+
+> **Was bedeutet das?**
+> Mit Psalm 107 beginnt das fünfte und letzte Buch der Psalmen (Psalm 107–150).
+> Es enthält viele Lob- und Danklieder, die Wallfahrtslieder (Psalm 120–134), den langen Psalm 119 über Gottes Wort und am Ende die großen Halleluja-Psalmen (146–150).
+> Psalm 107 knüpft an das Ende von Psalm 106 an: Dort bat das Volk „Sammle uns aus den Völkern“. Hier dankt es: Gott hat uns gesammelt.
+
+---
+
+### Die Erlösten sollen es sagen (Vers 1–3)
+
+<sup>1</sup>Dankt dem HERRN, denn er ist gut,
+denn seine Güte bleibt für immer.
+<sup>2</sup>Das sollen die sagen, die der HERR erlöst hat,
+die er aus der Hand des Feindes erlöst
+<sup>3</sup>und aus den Ländern gesammelt hat,
+vom Osten und vom Westen,
+vom Norden und vom Süden.
+
+> **Was bedeutet das?**
+> Der Psalm lädt alle ein, die Gottes Rettung erlebt haben, davon zu erzählen.
+> Gott hat sein Volk aus allen Himmelsrichtungen zurückgebracht, aus dem Exil.
+
+---
+
+### In der Wüste verirrt (Vers 4–9)
+
+<sup>4</sup>Sie irrten in der Wüste umher auf einem öden Weg.
+Sie fanden keine Stadt, in der sie wohnen konnten.
+<sup>5</sup>Hungrig und durstig,
+ihre Seele verzagte in ihnen.
+<sup>6</sup>Da schrien sie zum HERRN in ihrer Not,
+und er rettete sie aus ihren Ängsten.
+<sup>7</sup>Er führte sie auch auf einem geraden Weg,
+damit sie zu einer Stadt kamen, in der sie wohnen konnten.
+<sup>8</sup>Sie sollen dem HERRN danken für seine Güte,
+für seine Wunder an den Menschenkindern!
+<sup>9</sup>Denn er sättigt die durstige Seele.
+Er füllt die hungrige Seele mit Gutem.
+
+> **Was bedeutet das?**
+> Der Psalm erzählt von vier Gruppen von Menschen in Not. Jede Geschichte hat dasselbe Muster: Not – Schreien zu Gott – Rettung – Dank.
+> Die erste Gruppe: Menschen, die sich in der Wüste verirrt haben. Sie haben Hunger und Durst und finden keinen Weg. Gott führt sie auf einen geraden Weg.
+> Der Kehrvers (Vers 6 und 8) kommt viermal vor.
+
+---
+
+### In Ketten und Dunkelheit (Vers 10–16)
+
+<sup>10</sup>Manche saßen in Finsternis und Todesschatten,
+gefangen in Elend und Eisen,
+<sup>11</sup>weil sie sich gegen die Worte Gottes aufgelehnt
+und den Rat des Höchsten verachtet hatten.
+<sup>12</sup>Darum beugte er ihr Herz durch Mühsal.
+Sie stürzten, und niemand half.
+<sup>13</sup>Da schrien sie zum HERRN in ihrer Not,
+und er rettete sie aus ihren Ängsten.
+<sup>14</sup>Er führte sie heraus aus Finsternis und Todesschatten
+und zerriss ihre Fesseln.
+<sup>15</sup>Sie sollen dem HERRN danken für seine Güte,
+für seine Wunder an den Menschenkindern!
+<sup>16</sup>Denn er hat bronzene Tore zerbrochen
+und eiserne Riegel zerschlagen.
+
+> **Was bedeutet das?**
+> Die zweite Gruppe: Gefangene im Kerker. Sie sind durch eigene Schuld dorthin gekommen.
+> Aber auch ihnen hilft Gott, als sie zu ihm schreien. Selbst eiserne Gefängnistüren können Gott nicht aufhalten.
+> Das zeigt: Auch wer durch eigene Fehler in Not gerät, darf zu Gott rufen.
+
+---
+
+### Krank durch Schuld (Vers 17–22)
+
+<sup>17</sup>Toren wurden geplagt wegen ihres Ungehorsams
+und wegen ihrer Sünden.
+<sup>18</sup>Ihre Seele ekelte sich vor jeder Speise.
+Sie kamen nahe an die Tore des Todes.
+<sup>19</sup>Da schreien sie zum HERRN in ihrer Not,
+und er rettet sie aus ihren Ängsten.
+<sup>20</sup>Er sendet sein Wort und heilt sie
+und rettet sie aus ihren Gräbern.
+<sup>21</sup>Sie sollen dem HERRN danken für seine Güte,
+für seine Wunder an den Menschenkindern!
+<sup>22</sup>Sie sollen Dankopfer darbringen
+und seine Taten mit Jubel erzählen.
+
+> **Was bedeutet das?**
+> Die dritte Gruppe: Kranke, die nicht mehr essen konnten und dem Tod nahe waren.
+> Vers 20: „Er sendet sein Wort und heilt sie“: Gottes Wort hat Heilkraft. Christen denken an Jesus, der Kranke durch sein Wort heilte (Matthäus 8,8).
+> Wichtig: Nicht jede Krankheit ist eine Strafe für Schuld (vgl. Johannes 9,1–3). Der Psalm erzählt von bestimmten Menschen, die es selbst so erlebt haben.
+
+---
+
+### Im Sturm auf dem Meer (Vers 23–32)
+
+<sup>23</sup>Die mit Schiffen aufs Meer hinausfuhren
+und auf großen Wassern Handel trieben,
+<sup>24</sup>die sahen die Werke des HERRN
+und seine Wunder in der Tiefe.
+<sup>25</sup>Denn er befiehlt und lässt einen Sturmwind aufkommen,
+der die Wellen hochtürmt.
+<sup>26</sup>Sie steigen hinauf zum Himmel, sie fahren hinab in die Tiefen.
+Ihre Seele vergeht vor Angst.
+<sup>27</sup>Sie taumeln hin und her und schwanken wie ein Betrunkener,
+und mit ihrer Weisheit ist es zu Ende.
+<sup>28</sup>Da schreien sie zum HERRN in ihrer Not,
+und er führt sie heraus aus ihren Ängsten.
+<sup>29</sup>Er macht den Sturm zur Stille,
+sodass die Wellen schweigen.
+<sup>30</sup>Da freuen sie sich, weil es ruhig ist,
+und er bringt sie in den ersehnten Hafen.
+<sup>31</sup>Sie sollen dem HERRN danken für seine Güte,
+für seine Wunder an den Menschenkindern!
+<sup>32</sup>Sie sollen ihn erheben in der Versammlung des Volkes
+und ihn loben im Kreis der Ältesten.
+
+> **Was bedeutet das?**
+> Die vierte Gruppe: Seeleute im Sturm. Das Schiff wird auf und ab geworfen, die Männer wissen nicht mehr weiter.
+> Gott stillt den Sturm und bringt sie sicher in den Hafen.
+> Die Jünger erlebten so etwas mit Jesus auf dem See Genezareth: Er stillte den Sturm mit einem Wort (Markus 4,35–41).
+> „Der ersehnte Hafen“: ein schönes Bild für das Ziel des Lebens.
+
+---
+
+### Gott verändert die Welt (Vers 33–43)
+
+<sup>33</sup>Er macht Ströme zur Wüste
+und Wasserquellen zu dürrem Land,
+<sup>34</sup>fruchtbares Land zur Salzsteppe
+wegen der Bosheit derer, die darin wohnen.
+<sup>35</sup>Er macht die Wüste zum Wasserteich
+und dürres Land zu Wasserquellen.
+<sup>36</sup>Dort lässt er die Hungrigen wohnen,
+damit sie eine Stadt gründen, in der sie wohnen können,
+<sup>37</sup>Felder säen, Weinberge pflanzen
+und reichen Ertrag ernten.
+<sup>38</sup>Er segnet sie, sodass sie sich sehr vermehren.
+Er lässt ihr Vieh nicht weniger werden.
+<sup>39</sup>Dann wieder werden sie vermindert und gebeugt
+durch Unterdrückung, Unglück und Kummer.
+<sup>40</sup>Er gießt Verachtung aus über die Fürsten
+und lässt sie in wegloser Öde umherirren.
+<sup>41</sup>Doch den Bedürftigen hebt er aus seinem Elend heraus
+und macht seine Familien zahlreich wie eine Herde.
+<sup>42</sup>Die Aufrichtigen sehen es und freuen sich.
+Alle Gottlosen müssen ihren Mund schließen.
+<sup>43</sup>Wer weise ist, soll darauf achten
+und die Gnadentaten des HERRN bedenken.
+
+> **Was bedeutet das?**
+> Gott kann alles verändern: fruchtbares Land in Wüste und Wüste in fruchtbares Land. Er erniedrigt die stolzen Mächtigen und erhöht die Armen (vgl. 1. Samuel 2,7–8; Lukas 1,52).
+> Vers 43: Der Psalm endet wie ein Weisheitsspruch: Wer klug ist, achtet auf Gottes Güte im eigenen Leben und in der Geschichte.
+
+## Psalm 108
+#### Mein Herz ist fest
+
+---
+
+### Ich will das Morgenrot wecken (Vers 1–6)
+
+<sup>1</sup>Ein Lied. Ein Psalm von David.
+Mein Herz ist fest, Gott.
+Ich will singen und musizieren mit meiner Seele.
+<sup>2</sup>Wacht auf, Harfe und Leier!
+Ich will das Morgenrot wecken.
+<sup>3</sup>Ich will dir danken, HERR, unter den Völkern.
+Ich will dir Lob singen unter den Nationen.
+<sup>4</sup>Denn deine Güte ist groß über den Himmel hinaus.
+Deine Treue reicht bis zu den Wolken.
+<sup>5</sup>Erhebe dich, Gott, über die Himmel!
+Deine Herrlichkeit sei über der ganzen Erde!
+<sup>6</sup>Damit deine Geliebten gerettet werden,
+hilf mit deiner rechten Hand und antworte uns!
+
+> **Was bedeutet das?**
+> Psalm 108 ist aus zwei anderen Psalmen zusammengesetzt: Vers 1–5 stammen aus Psalm 57,7–11, Vers 6–13 aus Psalm 60,5–12.
+> So wurden ältere Gebete für eine neue Situation neu zusammengestellt. Das Lob aus Psalm 57 und die Bitte aus Psalm 60 werden zu einem neuen Gebet.
+> „Ich will das Morgenrot wecken“: Das Lob kommt so früh, dass es die Morgenröte aufweckt.
+
+---
+
+### Gott hat gesprochen (Vers 7–9)
+
+<sup>7</sup>Gott hat in seinem Heiligtum gesprochen:
+„Im Triumph will ich Sichem verteilen
+und das Tal von Sukkot vermessen.
+<sup>8</sup>Mir gehört Gilead. Mir gehört Manasse.
+Ephraim ist mein Helm.
+Juda ist mein Zepter.
+<sup>9</sup>Moab ist mein Waschtopf.
+Auf Edom werfe ich meine Sandale.
+Über Philistäa will ich jubeln.“
+
+> **Was bedeutet das?**
+> Siehe Psalm 60,6–8. Gott erklärt: Das ganze Land gehört mir, und auch die Nachbarvölker sind in meiner Hand.
+> Die Bilder (Waschtopf, Sandale) sind die Sprache der damaligen Zeit für Herrschaft und Besitz.
+
+---
+
+### Mit Gott werden wir Taten tun (Vers 10–13)
+
+<sup>10</sup>Wer bringt mich in die befestigte Stadt?
+Wer führt mich nach Edom?
+<sup>11</sup>Hast du, Gott, uns nicht verstoßen?
+Du ziehst nicht aus, Gott, mit unseren Heeren.
+<sup>12</sup>Gib uns Hilfe gegen den Feind,
+denn Menschenhilfe ist nichts wert.
+<sup>13</sup>Mit Gott werden wir tapfere Taten tun,
+denn er ist es, der unsere Feinde niedertreten wird.
+
+> **Was bedeutet das?**
+> Siehe Psalm 60,9–12.
+> „Menschenhilfe ist nichts wert“: Ohne Gott helfen auch die besten menschlichen Mittel nicht.
+
+## Psalm 109
+#### Gott meines Lobes, schweige nicht
+
+---
+
+### Sie vergelten mir Liebe mit Hass (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Gott meines Lobes, schweige nicht!
+<sup>2</sup>Denn sie haben den Mund des Gottlosen und den Mund des Betrugs gegen mich geöffnet.
+Sie haben mit lügnerischer Zunge zu mir geredet.
+<sup>3</sup>Sie haben mich auch mit Worten des Hasses umgeben
+und mich ohne Grund bekämpft.
+<sup>4</sup>Als Dank für meine Liebe sind sie meine Gegner.
+Ich aber bete.
+<sup>5</sup>Sie haben mir Böses für Gutes vergolten
+und Hass für meine Liebe.
+
+> **Was bedeutet das?**
+> Psalm 109 ist einer der schwierigsten Psalmen. Er enthält die härtesten Flüche im ganzen Buch der Psalmen.
+> Am Anfang steht die Situation: Der Beter wird mit Lügen angegriffen, von Menschen, denen er Gutes getan und die er geliebt hat.
+> Vers 4: „Ich aber bete.“ Wörtlich: „Ich aber – Gebet.“ Seine Antwort auf den Hass ist nicht Gegengewalt, sondern Gebet.
+
+---
+
+### Ein schrecklicher Fluch (Vers 6–15)
+
+<sup>6</sup>Setz einen Gottlosen über ihn!
+Ein Ankläger soll zu seiner Rechten stehen.
+<sup>7</sup>Wenn er gerichtet wird, soll er schuldig gesprochen werden.
+Sein Gebet soll zur Sünde werden.
+<sup>8</sup>Seine Tage sollen wenige sein.
+Ein anderer soll sein Amt bekommen.
+<sup>9</sup>Seine Kinder sollen Waisen werden
+und seine Frau eine Witwe.
+<sup>10</sup>Seine Kinder sollen umherirrende Bettler werden.
+Sie sollen fern von ihren Trümmern ihr Brot suchen.
+<sup>11</sup>Der Gläubiger soll alles nehmen, was er hat.
+Fremde sollen die Frucht seiner Arbeit rauben.
+<sup>12</sup>Niemand soll ihm Güte erweisen,
+und niemand soll Mitleid mit seinen Waisen haben.
+<sup>13</sup>Seine Nachkommen sollen ausgerottet werden.
+In der nächsten Generation soll ihr Name ausgelöscht werden.
+<sup>14</sup>Der HERR soll an die Schuld seiner Väter denken.
+Die Sünde seiner Mutter soll nicht ausgelöscht werden.
+<sup>15</sup>Sie sollen immer vor dem HERRN stehen,
+damit er ihr Andenken von der Erde ausrottet.
+
+> **Was bedeutet das?**
+> Diese Verse sind erschreckend. Sie wünschen dem Gegner und sogar seiner Familie das Schlimmste.
+> Es gibt zwei Arten, diese Verse zu verstehen:
+> – Es ist der Fluch des Beters gegen seinen Feind, aus tiefster Verletzung heraus.
+> – Viele Ausleger meinen: Es ist ein Zitat. Der Beter gibt wieder, was seine Feinde gegen ihn sagen. Dafür spricht, dass vorher und nachher von „sie“ (Mehrzahl) die Rede ist, hier aber von „er“ (Einzahl). Dann hätten die Feinde diesen Fluch über den Beter gesprochen, und er bringt ihn vor Gott.
+> Wichtig ist: Kinder und Familie sind nicht schuld an den Taten ihrer Eltern (Hesekiel 18,20). Diese Verse sind keine Erlaubnis, anderen Böses zu wünschen oder zu tun.
+> Vers 8 („Ein anderer soll sein Amt bekommen“) zitiert Petrus, als ein Nachfolger für Judas gewählt wird (Apostelgeschichte 1,20).
+> Jesus lehrt einen anderen Weg: „Segnet, die euch verfluchen, betet für die, die euch beleidigen“ (Lukas 6,28).
+
+---
+
+### Er liebte den Fluch (Vers 16–20)
+
+<sup>16</sup>Denn er dachte nicht daran, Güte zu erweisen,
+sondern verfolgte den Armen und Bedürftigen
+und den, dessen Herz gebrochen ist, um sie zu töten.
+<sup>17</sup>Ja, er liebte den Fluch, und er kam über ihn.
+Er hatte keine Freude am Segen, und der blieb fern von ihm.
+<sup>18</sup>Er zog den Fluch an wie sein Gewand.
+Er drang in sein Inneres wie Wasser
+und wie Öl in seine Knochen.
+<sup>19</sup>Er soll ihm sein wie das Kleid, mit dem er sich bedeckt,
+wie der Gürtel, den er immer trägt.
+<sup>20</sup>Das ist der Lohn meiner Gegner vom HERRN,
+von denen, die Böses gegen meine Seele reden.
+
+> **Was bedeutet das?**
+> Der Gegner wird beschrieben: Er hat die Armen verfolgt und getötet. Er liebte das Fluchen.
+> Vers 17–19: Wer andere verflucht, wird selbst vom Fluch eingehüllt wie von einem Kleid. Das Böse fällt auf den zurück, der es tut.
+> Vers 20: Der Beter übergibt alles dem HERRN. Er nimmt nicht selbst Rache.
+
+---
+
+### Ich bin arm und elend (Vers 21–25)
+
+<sup>21</sup>Du aber, HERR, mein Herr, handle an mir um deines Namens willen!
+Weil deine Güte gut ist, rette mich!
+<sup>22</sup>Denn ich bin arm und bedürftig.
+Mein Herz ist verwundet in mir.
+<sup>23</sup>Ich vergehe wie ein Abendschatten.
+Ich werde abgeschüttelt wie eine Heuschrecke.
+<sup>24</sup>Meine Knie sind schwach vom Fasten.
+Mein Leib ist mager und ohne Fett.
+<sup>25</sup>Ich bin ihnen auch zum Spott geworden.
+Wenn sie mich sehen, schütteln sie den Kopf.
+
+> **Was bedeutet das?**
+> Jetzt wendet sich der Beter wieder Gott zu. Er ist schwach, krank, verletzt.
+> „Wie ein Abendschatten“: Er wird immer länger und blasser, bis er verschwindet. So fühlt sich der Beter.
+> „Wie eine Heuschrecke abgeschüttelt“: wertlos, einfach weggewischt.
+
+---
+
+### Sie mögen fluchen, du aber segne (Vers 26–31)
+
+<sup>26</sup>Hilf mir, HERR, mein Gott!
+Rette mich nach deiner Güte,
+<sup>27</sup>damit sie erkennen, dass das deine Hand ist,
+dass du, HERR, es getan hast.
+<sup>28</sup>Sie mögen fluchen, du aber segne.
+Wenn sie aufstehen, werden sie beschämt,
+aber dein Knecht wird sich freuen.
+<sup>29</sup>Meine Gegner sollen mit Schande bekleidet werden.
+Sie sollen sich mit ihrer eigenen Schmach bedecken wie mit einem Mantel.
+<sup>30</sup>Ich will dem HERRN mit meinem Mund sehr danken.
+Ja, ich will ihn loben inmitten der Menge.
+<sup>31</sup>Denn er steht zur Rechten des Armen,
+um ihn zu retten vor denen, die über sein Leben richten.
+
+> **Was bedeutet das?**
+> Vers 28 ist ein Wendepunkt: „Sie mögen fluchen, du aber segne.“ Der Fluch der Menschen hat keine Macht, wenn Gott segnet.
+> Vers 31 ist die Antwort auf Vers 6: Dort sollte ein Ankläger zur Rechten des Beters stehen. Jetzt steht Gott selbst zur Rechten des Armen, als sein Verteidiger.
+> Psalm 109 zeigt: Man darf Gott auch seinen tiefsten Zorn und Schmerz sagen. Gott hört auch das. Aber das Gericht bleibt bei Gott. Und Gott steht auf der Seite der Armen und Verletzten.

@@ -12966,6 +12966,593 @@
      "erklaerung": "Vers 47: Ein Gebet aus dem Exil: Sammle uns wieder, führe uns nach Hause!\nVers 48 ist der Abschluss des vierten Psalmenbuchs (Psalm 90–106). Hier wird das ganze Volk aufgefordert, mit „Amen“ zu antworten.\nAb Psalm 107 beginnt das fünfte und letzte Psalmenbuch."
     }
    ]
+  },
+  {
+   "kapitel": 107,
+   "titel": "Dankt dem HERRN, er rettet aus jeder Not",
+   "abschnitte": [
+    {
+     "ueberschrift": "Fünftes Buch der Psalmen",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "Mit Psalm 107 beginnt das fünfte und letzte Buch der Psalmen (Psalm 107–150).\nEs enthält viele Lob- und Danklieder, die Wallfahrtslieder (Psalm 120–134), den langen Psalm 119 über Gottes Wort und am Ende die großen Halleluja-Psalmen (146–150).\nPsalm 107 knüpft an das Ende von Psalm 106 an: Dort bat das Volk „Sammle uns aus den Völkern“. Hier dankt es: Gott hat uns gesammelt."
+    },
+    {
+     "ueberschrift": "Die Erlösten sollen es sagen",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Dankt dem HERRN, denn er ist gut,\ndenn seine Güte bleibt für immer.",
+       "englisch_web": "Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Das sollen die sagen, die der HERR erlöst hat,\ndie er aus der Hand des Feindes erlöst",
+       "englisch_web": "Let the redeemed by Yahweh say so, whom he has redeemed from the hand of the adversary,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "und aus den Ländern gesammelt hat,\nvom Osten und vom Westen,\nvom Norden und vom Süden.",
+       "englisch_web": "and gathered out of the lands, from the east and from the west, from the north and from the south."
+      }
+     ],
+     "erklaerung": "Der Psalm lädt alle ein, die Gottes Rettung erlebt haben, davon zu erzählen.\nGott hat sein Volk aus allen Himmelsrichtungen zurückgebracht, aus dem Exil."
+    },
+    {
+     "ueberschrift": "In der Wüste verirrt",
+     "vers_von": 4,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Sie irrten in der Wüste umher auf einem öden Weg.\nSie fanden keine Stadt, in der sie wohnen konnten.",
+       "englisch_web": "They wandered in the wilderness in a desert way. They found no city to live in."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Hungrig und durstig,\nihre Seele verzagte in ihnen.",
+       "englisch_web": "Hungry and thirsty, their soul fainted in them."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da schrien sie zum HERRN in ihrer Not,\nund er rettete sie aus ihren Ängsten.",
+       "englisch_web": "Then they cried to Yahweh in their trouble, and he delivered them out of their distresses."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er führte sie auch auf einem geraden Weg,\ndamit sie zu einer Stadt kamen, in der sie wohnen konnten.",
+       "englisch_web": "He led them also by a straight way, that they might go to a city to live in."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie sollen dem HERRN danken für seine Güte,\nfür seine Wunder an den Menschenkindern!",
+       "englisch_web": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn er sättigt die durstige Seele.\nEr füllt die hungrige Seele mit Gutem.",
+       "englisch_web": "For he satisfies the longing soul. He fills the hungry soul with good."
+      }
+     ],
+     "erklaerung": "Der Psalm erzählt von vier Gruppen von Menschen in Not. Jede Geschichte hat dasselbe Muster: Not – Schreien zu Gott – Rettung – Dank.\nDie erste Gruppe: Menschen, die sich in der Wüste verirrt haben. Sie haben Hunger und Durst und finden keinen Weg. Gott führt sie auf einen geraden Weg.\nDer Kehrvers (Vers 6 und 8) kommt viermal vor."
+    },
+    {
+     "ueberschrift": "In Ketten und Dunkelheit",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Manche saßen in Finsternis und Todesschatten,\ngefangen in Elend und Eisen,",
+       "englisch_web": "Some sat in darkness and in the shadow of death, being bound in affliction and iron,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "weil sie sich gegen die Worte Gottes aufgelehnt\nund den Rat des Höchsten verachtet hatten.",
+       "englisch_web": "because they rebelled against the words of God, and condemned the counsel of the Most High."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darum beugte er ihr Herz durch Mühsal.\nSie stürzten, und niemand half.",
+       "englisch_web": "Therefore he brought down their heart with labor. They fell down, and there was no one to help."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Da schrien sie zum HERRN in ihrer Not,\nund er rettete sie aus ihren Ängsten.",
+       "englisch_web": "Then they cried to Yahweh in their trouble, and he saved them out of their distresses."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er führte sie heraus aus Finsternis und Todesschatten\nund zerriss ihre Fesseln.",
+       "englisch_web": "He brought them out of darkness and the shadow of death, and broke away their chains."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Sie sollen dem HERRN danken für seine Güte,\nfür seine Wunder an den Menschenkindern!",
+       "englisch_web": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn er hat bronzene Tore zerbrochen\nund eiserne Riegel zerschlagen.",
+       "englisch_web": "For he has broken the gates of bronze, and cut through bars of iron."
+      }
+     ],
+     "erklaerung": "Die zweite Gruppe: Gefangene im Kerker. Sie sind durch eigene Schuld dorthin gekommen.\nAber auch ihnen hilft Gott, als sie zu ihm schreien. Selbst eiserne Gefängnistüren können Gott nicht aufhalten.\nDas zeigt: Auch wer durch eigene Fehler in Not gerät, darf zu Gott rufen."
+    },
+    {
+     "ueberschrift": "Krank durch Schuld",
+     "vers_von": 17,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Toren wurden geplagt wegen ihres Ungehorsams\nund wegen ihrer Sünden.",
+       "englisch_web": "Fools are afflicted because of their disobedience, and because of their iniquities."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Ihre Seele ekelte sich vor jeder Speise.\nSie kamen nahe an die Tore des Todes.",
+       "englisch_web": "Their soul abhors all kinds of food. They draw near to the gates of death."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Da schreien sie zum HERRN in ihrer Not,\nund er rettet sie aus ihren Ängsten.",
+       "englisch_web": "Then they cry to Yahweh in their trouble, and he saves them out of their distresses."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Er sendet sein Wort und heilt sie\nund rettet sie aus ihren Gräbern.",
+       "englisch_web": "He sends his word, and heals them, and delivers them from their graves."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie sollen dem HERRN danken für seine Güte,\nfür seine Wunder an den Menschenkindern!",
+       "englisch_web": "Let them praise Yahweh for his loving kindness, for his wonderful deeds to the children of men!"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Sie sollen Dankopfer darbringen\nund seine Taten mit Jubel erzählen.",
+       "englisch_web": "Let them offer the sacrifices of thanksgiving, and declare his deeds with singing."
+      }
+     ],
+     "erklaerung": "Die dritte Gruppe: Kranke, die nicht mehr essen konnten und dem Tod nahe waren.\nVers 20: „Er sendet sein Wort und heilt sie“: Gottes Wort hat Heilkraft. Christen denken an Jesus, der Kranke durch sein Wort heilte (Matthäus 8,8).\nWichtig: Nicht jede Krankheit ist eine Strafe für Schuld (vgl. Johannes 9,1–3). Der Psalm erzählt von bestimmten Menschen, die es selbst so erlebt haben."
+    },
+    {
+     "ueberschrift": "Im Sturm auf dem Meer",
+     "vers_von": 23,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Die mit Schiffen aufs Meer hinausfuhren\nund auf großen Wassern Handel trieben,",
+       "englisch_web": "Those who go down to the sea in ships, who do business in great waters,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "die sahen die Werke des HERRN\nund seine Wunder in der Tiefe.",
+       "englisch_web": "these see Yahweh’s deeds, and his wonders in the deep."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Denn er befiehlt und lässt einen Sturmwind aufkommen,\nder die Wellen hochtürmt.",
+       "englisch_web": "For he commands, and raises the stormy wind, which lifts up its waves."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Sie steigen hinauf zum Himmel, sie fahren hinab in die Tiefen.\nIhre Seele vergeht vor Angst.",
+       "englisch_web": "They mount up to the sky; they go down again to the depths. Their soul melts away because of trouble."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sie taumeln hin und her und schwanken wie ein Betrunkener,\nund mit ihrer Weisheit ist es zu Ende.",
+       "englisch_web": "They reel back and forth, and stagger like a drunken man, and are at their wits’ end."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Da schreien sie zum HERRN in ihrer Not,\nund er führt sie heraus aus ihren Ängsten.",
+       "englisch_web": "Then they cry to Yahweh in their trouble, and he brings them out of their distress."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Er macht den Sturm zur Stille,\nsodass die Wellen schweigen.",
+       "englisch_web": "He makes the storm a calm, so that its waves are still."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Da freuen sie sich, weil es ruhig ist,\nund er bringt sie in den ersehnten Hafen.",
+       "englisch_web": "Then they are glad because it is calm, so he brings them to their desired haven."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Sie sollen dem HERRN danken für seine Güte,\nfür seine Wunder an den Menschenkindern!",
+       "englisch_web": "Let them praise Yahweh for his loving kindness, for his wonderful deeds for the children of men!"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Sie sollen ihn erheben in der Versammlung des Volkes\nund ihn loben im Kreis der Ältesten.",
+       "englisch_web": "Let them exalt him also in the assembly of the people, and praise him in the seat of the elders."
+      }
+     ],
+     "erklaerung": "Die vierte Gruppe: Seeleute im Sturm. Das Schiff wird auf und ab geworfen, die Männer wissen nicht mehr weiter.\nGott stillt den Sturm und bringt sie sicher in den Hafen.\nDie Jünger erlebten so etwas mit Jesus auf dem See Genezareth: Er stillte den Sturm mit einem Wort (Markus 4,35–41).\n„Der ersehnte Hafen“: ein schönes Bild für das Ziel des Lebens."
+    },
+    {
+     "ueberschrift": "Gott verändert die Welt",
+     "vers_von": 33,
+     "vers_bis": 43,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 33,
+       "leichte_sprache": "Er macht Ströme zur Wüste\nund Wasserquellen zu dürrem Land,",
+       "englisch_web": "He turns rivers into a desert, water springs into a thirsty ground,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "fruchtbares Land zur Salzsteppe\nwegen der Bosheit derer, die darin wohnen.",
+       "englisch_web": "and a fruitful land into a salt waste, for the wickedness of those who dwell in it."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Er macht die Wüste zum Wasserteich\nund dürres Land zu Wasserquellen.",
+       "englisch_web": "He turns a desert into a pool of water, and a dry land into water springs."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Dort lässt er die Hungrigen wohnen,\ndamit sie eine Stadt gründen, in der sie wohnen können,",
+       "englisch_web": "There he makes the hungry live, that they may prepare a city to live in,"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Felder säen, Weinberge pflanzen\nund reichen Ertrag ernten.",
+       "englisch_web": "sow fields, plant vineyards, and reap the fruits of increase."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Er segnet sie, sodass sie sich sehr vermehren.\nEr lässt ihr Vieh nicht weniger werden.",
+       "englisch_web": "He blesses them also, so that they are multiplied greatly. He doesn’t allow their livestock to decrease."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Dann wieder werden sie vermindert und gebeugt\ndurch Unterdrückung, Unglück und Kummer.",
+       "englisch_web": "Again, they are diminished and bowed down through oppression, trouble, and sorrow."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Er gießt Verachtung aus über die Fürsten\nund lässt sie in wegloser Öde umherirren.",
+       "englisch_web": "He pours contempt on princes, and causes them to wander in a trackless waste."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Doch den Bedürftigen hebt er aus seinem Elend heraus\nund macht seine Familien zahlreich wie eine Herde.",
+       "englisch_web": "Yet he lifts the needy out of their affliction, and increases their families like a flock."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Die Aufrichtigen sehen es und freuen sich.\nAlle Gottlosen müssen ihren Mund schließen.",
+       "englisch_web": "The upright will see it, and be glad. All the wicked will shut their mouths."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Wer weise ist, soll darauf achten\nund die Gnadentaten des HERRN bedenken.",
+       "englisch_web": "Whoever is wise will pay attention to these things. They will consider the loving kindnesses of Yahweh."
+      }
+     ],
+     "erklaerung": "Gott kann alles verändern: fruchtbares Land in Wüste und Wüste in fruchtbares Land. Er erniedrigt die stolzen Mächtigen und erhöht die Armen (vgl. 1. Samuel 2,7–8; Lukas 1,52).\nVers 43: Der Psalm endet wie ein Weisheitsspruch: Wer klug ist, achtet auf Gottes Güte im eigenen Leben und in der Geschichte."
+    }
+   ]
+  },
+  {
+   "kapitel": 108,
+   "titel": "Mein Herz ist fest",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ich will das Morgenrot wecken",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Lied. Ein Psalm von David.\nMein Herz ist fest, Gott.\nIch will singen und musizieren mit meiner Seele.",
+       "englisch_web": "A Song. A Psalm by David. My heart is steadfast, God. I will sing and I will make music with my soul."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wacht auf, Harfe und Leier!\nIch will das Morgenrot wecken.",
+       "englisch_web": "Wake up, harp and lyre! I will wake up the dawn."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich will dir danken, HERR, unter den Völkern.\nIch will dir Lob singen unter den Nationen.",
+       "englisch_web": "I will give thanks to you, Yahweh, among the nations. I will sing praises to you among the peoples."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn deine Güte ist groß über den Himmel hinaus.\nDeine Treue reicht bis zu den Wolken.",
+       "englisch_web": "For your loving kindness is great above the heavens. Your faithfulness reaches to the skies."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Erhebe dich, Gott, über die Himmel!\nDeine Herrlichkeit sei über der ganzen Erde!",
+       "englisch_web": "Be exalted, God, above the heavens! Let your glory be over all the earth."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Damit deine Geliebten gerettet werden,\nhilf mit deiner rechten Hand und antworte uns!",
+       "englisch_web": "That your beloved may be delivered, save with your right hand, and answer us."
+      }
+     ],
+     "erklaerung": "Psalm 108 ist aus zwei anderen Psalmen zusammengesetzt: Vers 1–5 stammen aus Psalm 57,7–11, Vers 6–13 aus Psalm 60,5–12.\nSo wurden ältere Gebete für eine neue Situation neu zusammengestellt. Das Lob aus Psalm 57 und die Bitte aus Psalm 60 werden zu einem neuen Gebet.\n„Ich will das Morgenrot wecken“: Das Lob kommt so früh, dass es die Morgenröte aufweckt."
+    },
+    {
+     "ueberschrift": "Gott hat gesprochen",
+     "vers_von": 7,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Gott hat in seinem Heiligtum gesprochen:\n„Im Triumph will ich Sichem verteilen\nund das Tal von Sukkot vermessen.",
+       "englisch_web": "God has spoken from his sanctuary: “In triumph, I will divide Shechem, and measure out the valley of Succoth."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Mir gehört Gilead. Mir gehört Manasse.\nEphraim ist mein Helm.\nJuda ist mein Zepter.",
+       "englisch_web": "Gilead is mine. Manasseh is mine. Ephraim also is my helmet. Judah is my scepter."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Moab ist mein Waschtopf.\nAuf Edom werfe ich meine Sandale.\nÜber Philistäa will ich jubeln.“",
+       "englisch_web": "Moab is my wash pot. I will toss my sandal on Edom. I will shout over Philistia.”"
+      }
+     ],
+     "erklaerung": "Siehe Psalm 60,6–8. Gott erklärt: Das ganze Land gehört mir, und auch die Nachbarvölker sind in meiner Hand.\nDie Bilder (Waschtopf, Sandale) sind die Sprache der damaligen Zeit für Herrschaft und Besitz."
+    },
+    {
+     "ueberschrift": "Mit Gott werden wir Taten tun",
+     "vers_von": 10,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Wer bringt mich in die befestigte Stadt?\nWer führt mich nach Edom?",
+       "englisch_web": "Who will bring me into the fortified city? Who will lead me to Edom?"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Hast du, Gott, uns nicht verstoßen?\nDu ziehst nicht aus, Gott, mit unseren Heeren.",
+       "englisch_web": "Haven’t you rejected us, God? You don’t go out, God, with our armies."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Gib uns Hilfe gegen den Feind,\ndenn Menschenhilfe ist nichts wert.",
+       "englisch_web": "Give us help against the enemy, for the help of man is vain."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Mit Gott werden wir tapfere Taten tun,\ndenn er ist es, der unsere Feinde niedertreten wird.",
+       "englisch_web": "Through God, we will do valiantly, for it is he who will tread down our enemies."
+      }
+     ],
+     "erklaerung": "Siehe Psalm 60,9–12.\n„Menschenhilfe ist nichts wert“: Ohne Gott helfen auch die besten menschlichen Mittel nicht."
+    }
+   ]
+  },
+  {
+   "kapitel": 109,
+   "titel": "Gott meines Lobes, schweige nicht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Sie vergelten mir Liebe mit Hass",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Für den Chorleiter. Ein Psalm von David.\nGott meines Lobes, schweige nicht!",
+       "englisch_web": "For the Chief Musician. A Psalm by David. God of my praise, don’t remain silent,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Denn sie haben den Mund des Gottlosen und den Mund des Betrugs gegen mich geöffnet.\nSie haben mit lügnerischer Zunge zu mir geredet.",
+       "englisch_web": "for they have opened the mouth of the wicked and the mouth of deceit against me. They have spoken to me with a lying tongue."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie haben mich auch mit Worten des Hasses umgeben\nund mich ohne Grund bekämpft.",
+       "englisch_web": "They have also surrounded me with words of hatred, and fought against me without a cause."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Als Dank für meine Liebe sind sie meine Gegner.\nIch aber bete.",
+       "englisch_web": "In return for my love, they are my adversaries; but I am in prayer."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sie haben mir Böses für Gutes vergolten\nund Hass für meine Liebe.",
+       "englisch_web": "They have rewarded me evil for good, and hatred for my love."
+      }
+     ],
+     "erklaerung": "Psalm 109 ist einer der schwierigsten Psalmen. Er enthält die härtesten Flüche im ganzen Buch der Psalmen.\nAm Anfang steht die Situation: Der Beter wird mit Lügen angegriffen, von Menschen, denen er Gutes getan und die er geliebt hat.\nVers 4: „Ich aber bete.“ Wörtlich: „Ich aber – Gebet.“ Seine Antwort auf den Hass ist nicht Gegengewalt, sondern Gebet."
+    },
+    {
+     "ueberschrift": "Ein schrecklicher Fluch",
+     "vers_von": 6,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Setz einen Gottlosen über ihn!\nEin Ankläger soll zu seiner Rechten stehen.",
+       "englisch_web": "Set a wicked man over him. Let an adversary stand at his right hand."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn er gerichtet wird, soll er schuldig gesprochen werden.\nSein Gebet soll zur Sünde werden.",
+       "englisch_web": "When he is judged, let him come out guilty. Let his prayer be turned into sin."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Seine Tage sollen wenige sein.\nEin anderer soll sein Amt bekommen.",
+       "englisch_web": "Let his days be few. Let another take his office."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Seine Kinder sollen Waisen werden\nund seine Frau eine Witwe.",
+       "englisch_web": "Let his children be fatherless, and his wife a widow."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Seine Kinder sollen umherirrende Bettler werden.\nSie sollen fern von ihren Trümmern ihr Brot suchen.",
+       "englisch_web": "Let his children be wandering beggars. Let them be sought from their ruins."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der Gläubiger soll alles nehmen, was er hat.\nFremde sollen die Frucht seiner Arbeit rauben.",
+       "englisch_web": "Let the creditor seize all that he has. Let strangers plunder the fruit of his labor."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Niemand soll ihm Güte erweisen,\nund niemand soll Mitleid mit seinen Waisen haben.",
+       "englisch_web": "Let there be no one to extend kindness to him, neither let there be anyone to have pity on his fatherless children."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Seine Nachkommen sollen ausgerottet werden.\nIn der nächsten Generation soll ihr Name ausgelöscht werden.",
+       "englisch_web": "Let his posterity be cut off. In the generation following let their name be blotted out."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Der HERR soll an die Schuld seiner Väter denken.\nDie Sünde seiner Mutter soll nicht ausgelöscht werden.",
+       "englisch_web": "Let the iniquity of his fathers be remembered by Yahweh. Don’t let the sin of his mother be blotted out."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Sie sollen immer vor dem HERRN stehen,\ndamit er ihr Andenken von der Erde ausrottet.",
+       "englisch_web": "Let them be before Yahweh continually, that he may cut off their memory from the earth;"
+      }
+     ],
+     "erklaerung": "Diese Verse sind erschreckend. Sie wünschen dem Gegner und sogar seiner Familie das Schlimmste.\nEs gibt zwei Arten, diese Verse zu verstehen:\n– Es ist der Fluch des Beters gegen seinen Feind, aus tiefster Verletzung heraus.\n– Viele Ausleger meinen: Es ist ein Zitat. Der Beter gibt wieder, was seine Feinde gegen ihn sagen. Dafür spricht, dass vorher und nachher von „sie“ (Mehrzahl) die Rede ist, hier aber von „er“ (Einzahl). Dann hätten die Feinde diesen Fluch über den Beter gesprochen, und er bringt ihn vor Gott.\nWichtig ist: Kinder und Familie sind nicht schuld an den Taten ihrer Eltern (Hesekiel 18,20). Diese Verse sind keine Erlaubnis, anderen Böses zu wünschen oder zu tun.\nVers 8 („Ein anderer soll sein Amt bekommen“) zitiert Petrus, als ein Nachfolger für Judas gewählt wird (Apostelgeschichte 1,20).\nJesus lehrt einen anderen Weg: „Segnet, die euch verfluchen, betet für die, die euch beleidigen“ (Lukas 6,28)."
+    },
+    {
+     "ueberschrift": "Er liebte den Fluch",
+     "vers_von": 16,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn er dachte nicht daran, Güte zu erweisen,\nsondern verfolgte den Armen und Bedürftigen\nund den, dessen Herz gebrochen ist, um sie zu töten.",
+       "englisch_web": "because he didn’t remember to show kindness, but persecuted the poor and needy man, the broken in heart, to kill them."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ja, er liebte den Fluch, und er kam über ihn.\nEr hatte keine Freude am Segen, und der blieb fern von ihm.",
+       "englisch_web": "Yes, he loved cursing, and it came to him. He didn’t delight in blessing, and it was far from him."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Er zog den Fluch an wie sein Gewand.\nEr drang in sein Inneres wie Wasser\nund wie Öl in seine Knochen.",
+       "englisch_web": "He clothed himself also with cursing as with his garment. It came into his inward parts like water, like oil into his bones."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Er soll ihm sein wie das Kleid, mit dem er sich bedeckt,\nwie der Gürtel, den er immer trägt.",
+       "englisch_web": "Let it be to him as the clothing with which he covers himself, for the belt that is always around him."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Das ist der Lohn meiner Gegner vom HERRN,\nvon denen, die Böses gegen meine Seele reden.",
+       "englisch_web": "This is the reward of my adversaries from Yahweh, of those who speak evil against my soul."
+      }
+     ],
+     "erklaerung": "Der Gegner wird beschrieben: Er hat die Armen verfolgt und getötet. Er liebte das Fluchen.\nVers 17–19: Wer andere verflucht, wird selbst vom Fluch eingehüllt wie von einem Kleid. Das Böse fällt auf den zurück, der es tut.\nVers 20: Der Beter übergibt alles dem HERRN. Er nimmt nicht selbst Rache."
+    },
+    {
+     "ueberschrift": "Ich bin arm und elend",
+     "vers_von": 21,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Du aber, HERR, mein Herr, handle an mir um deines Namens willen!\nWeil deine Güte gut ist, rette mich!",
+       "englisch_web": "But deal with me, Yahweh the Lord, for your name’s sake, because your loving kindness is good, deliver me;"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Denn ich bin arm und bedürftig.\nMein Herz ist verwundet in mir.",
+       "englisch_web": "for I am poor and needy. My heart is wounded within me."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ich vergehe wie ein Abendschatten.\nIch werde abgeschüttelt wie eine Heuschrecke.",
+       "englisch_web": "I fade away like an evening shadow. I am shaken off like a locust."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Meine Knie sind schwach vom Fasten.\nMein Leib ist mager und ohne Fett.",
+       "englisch_web": "My knees are weak through fasting. My body is thin and lacks fat."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ich bin ihnen auch zum Spott geworden.\nWenn sie mich sehen, schütteln sie den Kopf.",
+       "englisch_web": "I have also become a reproach to them. When they see me, they shake their head."
+      }
+     ],
+     "erklaerung": "Jetzt wendet sich der Beter wieder Gott zu. Er ist schwach, krank, verletzt.\n„Wie ein Abendschatten“: Er wird immer länger und blasser, bis er verschwindet. So fühlt sich der Beter.\n„Wie eine Heuschrecke abgeschüttelt“: wertlos, einfach weggewischt."
+    },
+    {
+     "ueberschrift": "Sie mögen fluchen, du aber segne",
+     "vers_von": 26,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 26,
+       "leichte_sprache": "Hilf mir, HERR, mein Gott!\nRette mich nach deiner Güte,",
+       "englisch_web": "Help me, Yahweh, my God. Save me according to your loving kindness;"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "damit sie erkennen, dass das deine Hand ist,\ndass du, HERR, es getan hast.",
+       "englisch_web": "that they may know that this is your hand; that you, Yahweh, have done it."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Sie mögen fluchen, du aber segne.\nWenn sie aufstehen, werden sie beschämt,\naber dein Knecht wird sich freuen.",
+       "englisch_web": "They may curse, but you bless. When they arise, they will be shamed, but your servant shall rejoice."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Meine Gegner sollen mit Schande bekleidet werden.\nSie sollen sich mit ihrer eigenen Schmach bedecken wie mit einem Mantel.",
+       "englisch_web": "Let my adversaries be clothed with dishonor. Let them cover themselves with their own shame as with a robe."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Ich will dem HERRN mit meinem Mund sehr danken.\nJa, ich will ihn loben inmitten der Menge.",
+       "englisch_web": "I will give great thanks to Yahweh with my mouth. Yes, I will praise him among the multitude."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Denn er steht zur Rechten des Armen,\num ihn zu retten vor denen, die über sein Leben richten.",
+       "englisch_web": "For he will stand at the right hand of the needy, to save him from those who judge his soul."
+      }
+     ],
+     "erklaerung": "Vers 28 ist ein Wendepunkt: „Sie mögen fluchen, du aber segne.“ Der Fluch der Menschen hat keine Macht, wenn Gott segnet.\nVers 31 ist die Antwort auf Vers 6: Dort sollte ein Ankläger zur Rechten des Beters stehen. Jetzt steht Gott selbst zur Rechten des Armen, als sein Verteidiger.\nPsalm 109 zeigt: Man darf Gott auch seinen tiefsten Zorn und Schmerz sagen. Gott hört auch das. Aber das Gericht bleibt bei Gott. Und Gott steht auf der Seite der Armen und Verletzten."
+    }
+   ]
   }
  ]
 }
