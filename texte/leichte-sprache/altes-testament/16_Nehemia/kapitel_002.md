@@ -132,5 +132,5 @@ Ihr aber habt keinen Anteil, kein Recht und kein Andenken in Jerusalem.“
 > Nehemia sagt „wir“: „das Elend, in dem wir sind“. Obwohl er gerade erst gekommen ist, stellt er sich mit dem Volk auf eine Stufe.
 > Er macht Mut, indem er erzählt, wie Gott schon geholfen hat. Das Volk antwortet begeistert: „Lasst uns aufstehen und bauen!“
 > Sofort kommen Spott und Drohung. Sie unterstellen Aufstand gegen den König. Das ist dieselbe Taktik wie in Esra 4.
-> Geschem war ein mächtiger Araberfürst. Sein Name steht auf einer Silberschale, die in Ägypten gefunden wurde.
+> Geschem war ein mächtiger Araberfürst. Eine Silberschale, die in Ägypten gefunden wurde, nennt wohl denselben Mann: „Geschem, König von Kedar“.
 > Nehemia lässt sich nicht einschüchtern. Er antwortet klar: Gott wird uns gelingen lassen. Ihr habt hier nichts zu sagen.
