@@ -65800,3 +65800,417 @@ und meine Flöte zum Klang der Weinenden.
 > Vers 26 beschreibt eine bittere Erfahrung: „Als ich auf Gutes hoffte, kam Böses. Als ich auf Licht wartete, kam Finsternis.“
 > Schakale und Strauße leben in der Wüste und machen klagende Laute in der Nacht. Hiob fühlt sich wie sie: allein in der Wüste, klagend.
 > Vers 31 ist ein trauriges Bild: Die Instrumente, die früher fröhliche Musik spielten, spielen jetzt nur noch Klagelieder.
+
+## Hiob – Kapitel 31
+#### Hiobs Reinigungseid
+
+---
+
+### Ein Bund mit meinen Augen (Vers 1–4)
+
+<sup>1</sup>„Ich habe einen Bund mit meinen Augen geschlossen.
+Wie sollte ich da begehrlich nach einer jungen Frau schauen?
+<sup>2</sup>Denn was wäre dann der Anteil von Gott oben
+und das Erbe vom Allmächtigen in der Höhe?
+<sup>3</sup>Ist es nicht Unglück für den Ungerechten
+und Verderben für die, die Unrecht tun?
+<sup>4</sup>Sieht er nicht meine Wege
+und zählt alle meine Schritte?
+
+> **Was bedeutet das?**
+> In diesem Kapitel legt Hiob einen feierlichen Eid ab. Er geht viele mögliche Sünden durch und sagt jedes Mal: Wenn ich das getan habe, soll mich ein Fluch treffen. So beteuerte man damals vor Gericht seine Unschuld.
+> Hiob beginnt nicht mit Taten, sondern mit den Gedanken. „Ein Bund mit meinen Augen“: Er hat sich verpflichtet, nicht einmal begehrlich auf eine Frau zu schauen.
+> Das zeigt, wie ernst Hiob es mit Gottes Willen nimmt. Jesus sagt später Ähnliches: Schon der begehrliche Blick ist ein Bruch der Ehe im Herzen (Matthäus 5,28).
+> Vers 4: Hiob weiß, dass Gott alle seine Wege sieht. Darum lebt er ehrlich, auch wenn niemand zuschaut.
+
+---
+
+### Ehrlichkeit (Vers 5–8)
+
+<sup>5</sup>Wenn ich mit Lüge umgegangen bin
+und mein Fuß zum Betrug geeilt ist
+<sup>6</sup>– man wiege mich auf einer gerechten Waage,
+dann wird Gott meine Lauterkeit erkennen –,
+<sup>7</sup>wenn mein Schritt vom Weg abgewichen ist,
+wenn mein Herz meinen Augen gefolgt ist
+und wenn an meinen Händen ein Makel klebt,
+<sup>8</sup>dann will ich säen, und ein anderer soll es essen.
+Ja, meine Feldfrüchte sollen ausgerissen werden.
+
+> **Was bedeutet das?**
+> Hiob bittet: Gott soll mich auf einer gerechten Waage wiegen. Dann wird er sehen, dass ich ehrlich bin.
+> „Mein Herz ist meinen Augen gefolgt“: Wenn ich alles haben wollte, was ich gesehen habe.
+> Die Strafe, die Hiob sich selbst wünscht: Was er gesät hat, soll ein anderer ernten.
+
+---
+
+### Treue in der Ehe (Vers 9–12)
+
+<sup>9</sup>Wenn mein Herz sich zu einer Frau verleiten ließ
+und ich an der Tür meines Nächsten gelauert habe,
+<sup>10</sup>dann soll meine Frau für einen anderen mahlen,
+und andere sollen bei ihr liegen.
+<sup>11</sup>Denn das wäre eine Schandtat.
+Ja, es wäre eine Schuld, die von den Richtern bestraft werden muss.
+<sup>12</sup>Denn es ist ein Feuer, das bis zum Verderben frisst
+und all meinen Ertrag ausrotten würde.
+
+> **Was bedeutet das?**
+> Hiob war seiner Frau treu. Er hat nie die Frau eines anderen verführt.
+> Vers 10 ist für heutige Leser schwer: Hiob wünscht sich als Strafe, dass seine Frau einem anderen dienen muss. In der alten Welt galt das als die schlimmste Schande für einen Mann. Heute sehen wir: Die Frau würde dabei für die Schuld ihres Mannes bestraft. Das ist ungerecht. Die Bibel gibt hier Hiobs Worte und die Denkweise seiner Zeit wieder. Sie macht daraus kein Gesetz.
+> Vers 12: Ehebruch ist wie ein Feuer, das alles zerstört: Familie, Vertrauen, Besitz (vgl. Sprüche 6,27–29).
+
+---
+
+### Gerechtigkeit gegenüber Knechten und Mägden (Vers 13–15)
+
+<sup>13</sup>Wenn ich das Recht meines Knechtes oder meiner Magd verachtet habe,
+wenn sie einen Streit mit mir hatten,
+<sup>14</sup>was sollte ich dann tun, wenn Gott sich erhebt?
+Und wenn er nachfragt, was sollte ich ihm antworten?
+<sup>15</sup>Hat nicht der, der mich im Mutterleib gemacht hat, auch ihn gemacht?
+Hat nicht derselbe uns im Mutterleib gebildet?
+
+> **Was bedeutet das?**
+> Das ist ein erstaunlicher Abschnitt für die damalige Zeit. Hiob behandelte seine Knechte und Mägde als gleichwertige Menschen. Wenn sie sich bei ihm beschwerten, hörte er sie an.
+> Seine Begründung in Vers 15 ist großartig: Derselbe Gott hat mich und meinen Knecht im Mutterleib gemacht. Vor Gott sind wir gleich.
+> Hier zeigt sich ein Gedanke, der später sehr wichtig wurde: Alle Menschen haben dieselbe Würde, weil Gott sie alle geschaffen hat (vgl. Maleachi 2,10; Galater 3,28).
+
+---
+
+### Fürsorge für die Armen (Vers 16–23)
+
+<sup>16</sup>Wenn ich den Armen ihren Wunsch verweigert habe
+oder die Augen der Witwe verschmachten ließ,
+<sup>17</sup>oder wenn ich meinen Bissen allein gegessen habe
+und die Waise nicht davon essen durfte
+<sup>18</sup>– nein, von meiner Jugend an ist sie bei mir aufgewachsen wie bei einem Vater,
+und vom Mutterleib an habe ich sie geführt –,
+<sup>19</sup>wenn ich jemanden umkommen sah, weil er keine Kleidung hatte,
+oder einen Bedürftigen ohne Decke,
+<sup>20</sup>wenn sein Herz mich nicht gesegnet hat
+und er sich nicht mit der Wolle meiner Schafe gewärmt hat,
+<sup>21</sup>wenn ich meine Hand gegen die Waise erhoben habe,
+weil ich im Tor meine Helfer sah,
+<sup>22</sup>dann soll meine Schulter aus dem Schulterblatt fallen
+und mein Arm vom Knochen gebrochen werden.
+<sup>23</sup>Denn das Unglück von Gott ist mir ein Schrecken,
+und wegen seiner Hoheit kann ich nichts tun.
+
+> **Was bedeutet das?**
+> Hiob hat sein Essen mit Waisen geteilt. Er hat den Armen Kleidung gegeben. Er hat nie seine Macht vor Gericht („im Tor“) gegen Schwache benutzt.
+> Das ist die Antwort auf Elifas' Vorwürfe in Kapitel 22. Hiob hat genau das Gegenteil getan.
+> „Meinen Bissen allein essen“: Hiob hat nie gegessen, ohne an die Hungrigen zu denken.
+> Die Strafe, die er sich wünscht: Der Arm, der sich gegen die Waise erhoben hätte, soll brechen.
+
+---
+
+### Kein Vertrauen auf Geld und keine fremden Götter (Vers 24–28)
+
+<sup>24</sup>Wenn ich das Gold zu meiner Zuversicht gemacht habe
+und zum feinen Gold gesagt habe: ‚Du bist mein Vertrauen‘,
+<sup>25</sup>wenn ich mich gefreut habe, weil mein Reichtum groß war
+und weil meine Hand viel erworben hatte,
+<sup>26</sup>wenn ich die Sonne angesehen habe, wie sie leuchtete,
+oder den Mond, wie er prächtig dahinzog,
+<sup>27</sup>und mein Herz sich heimlich hat verleiten lassen,
+sodass meine Hand ihnen von meinem Mund einen Kuss zuwarf,
+<sup>28</sup>dann wäre auch das eine Schuld, die von den Richtern bestraft werden muss,
+denn ich hätte Gott in der Höhe verleugnet.
+
+> **Was bedeutet das?**
+> Hiob war sehr reich, aber er hat sein Vertrauen nicht auf Geld gesetzt. Geld war nicht sein Gott (vgl. Matthäus 6,24).
+> Viele Völker damals beteten Sonne und Mond an. Man warf ihnen eine Kusshand zu, als Zeichen der Verehrung. Hiob hat das nie getan. Er hat nur den einen Gott angebetet.
+> Geldgier und Götzendienst gehören zusammen: Beides heißt, etwas anderes als Gott an die erste Stelle zu setzen.
+
+---
+
+### Keine Schadenfreude, offene Türen (Vers 29–34)
+
+<sup>29</sup>Wenn ich mich über das Unglück meines Feindes gefreut habe
+oder mich erhob, als ihn das Böse traf
+<sup>30</sup>– nein, ich habe meinem Mund nicht erlaubt zu sündigen,
+indem ich mit einem Fluch sein Leben gefordert hätte –,
+<sup>31</sup>wenn die Männer meines Zeltes nicht gesagt haben:
+‚Wer findet einen, der nicht von seinem Fleisch satt geworden ist?‘
+<sup>32</sup>(Der Fremde musste nicht auf der Straße übernachten,
+sondern ich öffnete dem Wanderer meine Türen),
+<sup>33</sup>wenn ich wie Adam meine Übertretungen zugedeckt habe,
+indem ich meine Schuld in meinem Herzen verbarg,
+<sup>34</sup>weil ich die große Menge fürchtete
+und die Verachtung der Familien mich erschreckte,
+sodass ich schwieg und nicht zur Tür hinausging –
+
+> **Was bedeutet das?**
+> Hiob hat sich nicht gefreut, wenn es seinen Feinden schlecht ging. Er hat sie nicht einmal verflucht. Das ist sehr weit gehend. Jesus lehrt später: „Liebt eure Feinde“ (Matthäus 5,44).
+> Er war sehr gastfreundlich: Jeder bekam bei ihm zu essen, kein Fremder musste auf der Straße schlafen.
+> Vers 33: „Wie Adam“ (oder: „wie Menschen es tun“): Adam versteckte sich nach seiner Sünde (1. Mose 3,8–10). Hiob hat nichts versteckt. Er hat seine Fehler zugegeben, auch wenn er Angst vor der Meinung der Leute hatte.
+
+---
+
+### Hier ist meine Unterschrift! (Vers 35–37)
+
+<sup>35</sup>Ach, hätte ich doch einen, der mich anhört!
+Schaut, hier ist meine Unterschrift!
+Der Allmächtige soll mir antworten!
+Mein Ankläger soll seine Anklageschrift schreiben!
+<sup>36</sup>Gewiss, ich würde sie auf meiner Schulter tragen
+und sie mir wie eine Krone umbinden.
+<sup>37</sup>Ich würde ihm die Zahl meiner Schritte nennen.
+Wie ein Fürst würde ich ihm nahen.
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt von Hiobs Reden. Er hat seinen Eid abgelegt. Jetzt „unterschreibt“ er ihn, wie man eine Aussage vor Gericht unterschreibt.
+> Und er fordert Gott heraus: Antworte mir! Schreib deine Anklage auf!
+> Hiob ist so sicher, unschuldig zu sein, dass er die Anklageschrift stolz wie eine Krone tragen würde. Er würde vor Gott treten „wie ein Fürst“, nicht wie ein Verbrecher.
+> Jetzt kann nur noch Gott antworten. Und Gott wird antworten, aber anders, als Hiob es erwartet (Kapitel 38).
+
+---
+
+### Das Land klagt mich nicht an (Vers 38–40)
+
+<sup>38</sup>Wenn mein Land gegen mich schreit
+und seine Furchen miteinander weinen,
+<sup>39</sup>wenn ich seinen Ertrag gegessen habe, ohne zu bezahlen,
+oder seine Besitzer ums Leben gebracht habe,
+<sup>40</sup>dann sollen Dornen statt Weizen wachsen
+und Unkraut statt Gerste.“
+Die Worte Hiobs sind zu Ende.
+
+> **Was bedeutet das?**
+> Zum Schluss ein letzter Punkt: Hiob hat sein Land nicht unrecht erworben. Er hat die Arbeiter bezahlt und niemanden vertrieben.
+> „Das Land schreit“: Wie Abels Blut von der Erde schrie (1. Mose 4,10), so würde auch der Boden gegen Unrecht schreien.
+> „Die Worte Hiobs sind zu Ende“: Hiob hat alles gesagt. Er wird erst wieder sprechen, wenn Gott geredet hat (Kapitel 40,3–5; 42,1–6).
+
+## Hiob – Kapitel 32
+#### Ein junger Mann meldet sich: Elihu
+
+---
+
+### Elihu ist zornig (Vers 1–5)
+
+<sup>1</sup>Da hörten diese drei Männer auf, Hiob zu antworten,
+weil er in seinen eigenen Augen gerecht war.
+<sup>2</sup>Da entbrannte der Zorn Elihus, des Sohnes Barachels, des Busiters,
+aus der Familie Ram.
+Gegen Hiob entbrannte sein Zorn,
+weil er sich selbst für gerechter hielt als Gott.
+<sup>3</sup>Auch gegen seine drei Freunde entbrannte sein Zorn,
+weil sie keine Antwort gefunden
+und Hiob trotzdem verurteilt hatten.
+<sup>4</sup>Elihu hatte gewartet, mit Hiob zu reden,
+weil sie älter waren als er.
+<sup>5</sup>Als Elihu sah, dass im Mund dieser drei Männer keine Antwort war,
+entbrannte sein Zorn.
+
+> **Was bedeutet das?**
+> Überraschend tritt ein neuer Sprecher auf: Elihu. Er wurde vorher nie erwähnt. Er ist jünger als die anderen und hat die ganze Zeit zugehört.
+> Elihu ist zornig auf beide Seiten:
+> – auf Hiob, weil er sich gerechter gemacht hat als Gott,
+> – auf die Freunde, weil sie Hiob verurteilt haben, ohne eine überzeugende Antwort zu haben.
+> Elihu ist der einzige Sprecher im Buch mit einem hebräischen Namen. Er bedeutet: „Mein Gott ist er.“
+> Elihu redet von Kapitel 32 bis 37. Danach antwortet Gott selbst. Interessant: Am Ende des Buches wird Elihu von Gott weder gelobt noch getadelt. Darüber, wie seine Reden zu verstehen sind, sind sich die Ausleger nicht einig.
+
+---
+
+### Weisheit kommt nicht nur mit dem Alter (Vers 6–10)
+
+<sup>6</sup>Elihu, der Sohn Barachels, der Busiter, antwortete und sagte:
+„Ich bin jung, und ihr seid sehr alt.
+Darum hielt ich mich zurück
+und wagte nicht, euch meine Meinung zu sagen.
+<sup>7</sup>Ich sagte: ‚Die Tage sollen reden,
+und die Menge der Jahre soll Weisheit lehren.‘
+<sup>8</sup>Aber es ist der Geist im Menschen,
+und der Atem des Allmächtigen gibt ihnen Einsicht.
+<sup>9</sup>Nicht die Großen sind weise,
+und nicht die Alten verstehen, was recht ist.
+<sup>10</sup>Darum sage ich: ‚Hört mir zu!
+Auch ich will meine Meinung sagen.‘
+
+> **Was bedeutet das?**
+> Elihu ist höflich: Er hat gewartet, weil die anderen älter sind. Das war damals Sitte.
+> Aber dann sagt er etwas Wichtiges: Weisheit kommt nicht automatisch mit dem Alter. Sie kommt vom Geist Gottes. Auch ein junger Mensch kann weise sein, wenn Gottes Geist ihm Einsicht gibt (vgl. 1. Timotheus 4,12).
+> Das ist eine Kritik an den Freunden, die sich immer auf das Alter und die Tradition berufen haben (Kapitel 8,8; 15,10).
+
+---
+
+### Ihr habt Hiob nicht überzeugt (Vers 11–17)
+
+<sup>11</sup>Schaut, ich habe auf eure Worte gewartet,
+ich habe auf eure Begründungen gehört,
+während ihr nach Worten gesucht habt.
+<sup>12</sup>Ja, ich habe genau auf euch geachtet,
+aber da war keiner unter euch, der Hiob überführt
+oder seine Worte beantwortet hat.
+<sup>13</sup>Hütet euch zu sagen: ‚Wir haben Weisheit gefunden.
+Gott mag ihn widerlegen, nicht ein Mensch.‘
+<sup>14</sup>Denn er hat seine Worte nicht gegen mich gerichtet,
+und mit euren Reden werde ich ihm nicht antworten.
+<sup>15</sup>Sie sind verblüfft. Sie antworten nicht mehr.
+Sie haben kein Wort mehr zu sagen.
+<sup>16</sup>Soll ich warten, weil sie nicht reden,
+weil sie dastehen und nicht mehr antworten?
+<sup>17</sup>Auch ich will meinen Teil antworten,
+auch ich will meine Meinung sagen.
+
+> **Was bedeutet das?**
+> Elihu hat genau zugehört. Sein Urteil: Die Freunde haben Hiob nicht überzeugt. Sie haben keine Antwort auf seine Fragen gegeben.
+> Vers 13: Elihu warnt die Freunde, sich nicht herauszureden mit: „Nur Gott kann ihn widerlegen.“
+> Vers 14: Elihu will neue Argumente bringen, nicht die alten wiederholen.
+
+---
+
+### Ich bin voller Worte (Vers 18–22)
+
+<sup>18</sup>Denn ich bin voll von Worten.
+Der Geist in meinem Inneren drängt mich.
+<sup>19</sup>Schaut, mein Inneres ist wie Wein, der keine Öffnung hat.
+Wie neue Weinschläuche ist es kurz davor zu platzen.
+<sup>20</sup>Ich will reden, damit mir leichter wird.
+Ich will meine Lippen öffnen und antworten.
+<sup>21</sup>Ich will doch auf niemandes Person Rücksicht nehmen
+und keinem Menschen schmeicheln.
+<sup>22</sup>Denn ich verstehe nicht zu schmeicheln,
+sonst würde mich mein Schöpfer bald wegraffen.
+
+> **Was bedeutet das?**
+> Elihu kann nicht mehr schweigen. Er ist wie ein Weinschlauch, in dem der gärende Wein so viel Druck macht, dass er gleich platzt.
+> Manche Leser finden Elihu etwas überheblich: Er redet sehr lange darüber, dass er jetzt reden wird. Andere sehen in ihm einen jungen Mann mit echtem Eifer für Gott.
+> Vers 21–22: Elihu will ehrlich und unparteiisch sein. Er will niemandem schmeicheln, weder Hiob noch den Freunden.
+
+## Hiob – Kapitel 33
+#### Elihu: Gott redet auf viele Weisen
+
+---
+
+### Hör mir zu, Hiob (Vers 1–7)
+
+<sup>1</sup>„Doch nun, Hiob, hör meine Rede
+und achte auf alle meine Worte!
+<sup>2</sup>Schau, ich habe meinen Mund geöffnet.
+Meine Zunge redet in meinem Mund.
+<sup>3</sup>Meine Worte sprechen die Aufrichtigkeit meines Herzens aus,
+und was meine Lippen wissen, sagen sie ehrlich.
+<sup>4</sup>Der Geist Gottes hat mich gemacht,
+und der Atem des Allmächtigen gibt mir Leben.
+<sup>5</sup>Wenn du kannst, antworte mir!
+Leg deine Worte vor mir bereit und stell dich hin!
+<sup>6</sup>Schau, ich bin vor Gott wie du.
+Auch ich bin aus Lehm geformt.
+<sup>7</sup>Schau, mein Schrecken wird dich nicht ängstigen,
+und mein Druck wird nicht schwer auf dir liegen.
+
+> **Was bedeutet das?**
+> Elihu spricht Hiob direkt mit Namen an. Das haben die drei Freunde nie getan.
+> Er sagt: Ich bin ein Mensch wie du, aus Lehm gemacht. Du brauchst keine Angst vor mir zu haben.
+> Das ist eine Antwort auf Hiobs Wunsch: Hiob wollte einen Gesprächspartner, der nicht übermächtig ist (Kapitel 9,34; 13,21). Elihu sagt: Ich bin so einer. Mit mir kannst du reden.
+
+---
+
+### Was du gesagt hast (Vers 8–13)
+
+<sup>8</sup>Gewiss, du hast vor meinen Ohren geredet,
+und ich habe den Klang deiner Worte gehört:
+<sup>9</sup>‚Ich bin rein, ohne Übertretung.
+Ich bin unschuldig, und keine Schuld ist in mir.
+<sup>10</sup>Schau, er sucht Anlässe gegen mich.
+Er hält mich für seinen Feind.
+<sup>11</sup>Er legt meine Füße in den Block.
+Er beobachtet alle meine Wege.‘
+<sup>12</sup>Schau, ich will dir antworten:
+Darin hast du nicht recht,
+denn Gott ist größer als der Mensch.
+<sup>13</sup>Warum streitest du mit ihm,
+weil er keine Rechenschaft über seine Sachen gibt?
+
+> **Was bedeutet das?**
+> Elihu fasst zusammen, was Hiob gesagt hat. Er zitiert Hiob ziemlich genau (vgl. Kapitel 13,24.27).
+> Elihu wirft Hiob nicht vor, gesündigt zu haben wie die Freunde. Er kritisiert etwas anderes: Hiob hat Gott angeklagt, er sei sein Feind. Und er hat sich beschwert, dass Gott nicht antwortet.
+> Elihus Antwort: Gott ist größer als der Mensch. Er muss sich nicht vor uns rechtfertigen.
+
+---
+
+### Gott redet durch Träume (Vers 14–18)
+
+<sup>14</sup>Denn Gott redet einmal, ja zweimal,
+aber man achtet nicht darauf.
+<sup>15</sup>Im Traum, in einer Vision der Nacht,
+wenn tiefer Schlaf auf die Menschen fällt,
+wenn sie auf dem Lager schlummern,
+<sup>16</sup>dann öffnet er das Ohr der Menschen
+und besiegelt ihre Zurechtweisung,
+<sup>17</sup>um den Menschen von seinem Vorhaben abzubringen
+und den Hochmut vor dem Mann zu verbergen.
+<sup>18</sup>Er bewahrt seine Seele vor der Grube
+und sein Leben davor, durch das Schwert umzukommen.
+
+> **Was bedeutet das?**
+> Hiob hatte geklagt, dass Gott nicht antwortet. Elihu sagt: Gott redet sehr wohl, nur auf andere Weise, als du denkst.
+> Der erste Weg: Träume und nächtliche Visionen. Gott kann Menschen im Traum warnen, damit sie nicht in ihr Verderben laufen.
+> Gottes Ziel ist nicht Strafe, sondern Rettung: Er will den Menschen „vor der Grube“, also vor dem Tod, bewahren.
+
+---
+
+### Gott redet durch Leiden (Vers 19–22)
+
+<sup>19</sup>Er wird auch durch Schmerz auf seinem Lager zurechtgewiesen
+und durch ständigen Streit in seinen Knochen,
+<sup>20</sup>sodass ihm vor dem Brot ekelt
+und seiner Seele vor der Lieblingsspeise.
+<sup>21</sup>Sein Fleisch schwindet dahin, sodass man es nicht mehr sieht,
+und seine Knochen, die man nicht sah, stehen hervor.
+<sup>22</sup>Ja, seine Seele nähert sich der Grube
+und sein Leben den Todesboten.
+
+> **Was bedeutet das?**
+> Der zweite Weg, auf dem Gott redet: durch Krankheit und Schmerz.
+> Das ist ein neuer Gedanke. Die Freunde sagten: Leid ist Strafe für Sünde. Elihu sagt: Leid kann auch eine Warnung oder Erziehung sein. Gott will den Menschen dadurch zurückholen, bevor es zu spät ist.
+> Viele Menschen haben erlebt, dass sie in schwerer Krankheit über ihr Leben nachgedacht haben und Gott näher gekommen sind. Aber man darf daraus keine Regel machen, die man jedem Kranken vorhält.
+
+---
+
+### Ein Engel als Fürsprecher (Vers 23–30)
+
+<sup>23</sup>Wenn dann bei ihm ein Engel ist, ein Mittler,
+einer von tausend,
+um dem Menschen zu zeigen, was für ihn richtig ist,
+<sup>24</sup>dann ist Gott ihm gnädig und sagt:
+‚Erlöse ihn, dass er nicht in die Grube hinabfährt!
+Ich habe ein Lösegeld gefunden.‘
+<sup>25</sup>Sein Fleisch wird frischer als in der Kindheit.
+Er kehrt zurück zu den Tagen seiner Jugend.
+<sup>26</sup>Er betet zu Gott, und der ist ihm gnädig,
+sodass er sein Angesicht mit Jubel sieht.
+Er gibt dem Menschen seine Gerechtigkeit zurück.
+<sup>27</sup>Er singt vor den Menschen und sagt:
+‚Ich habe gesündigt und das Recht verdreht,
+und es hat mir nichts genützt.
+<sup>28</sup>Er hat meine Seele erlöst, dass sie nicht in die Grube fährt,
+und mein Leben wird das Licht sehen.‘
+<sup>29</sup>Schau, das alles tut Gott
+zweimal, ja dreimal mit einem Menschen,
+<sup>30</sup>um seine Seele aus der Grube zurückzuholen,
+damit er im Licht der Lebenden leuchtet.
+
+> **Was bedeutet das?**
+> Hier kommt Elihu auf Hiobs Wunsch nach einem Schiedsrichter, Zeugen und Erlöser zurück (Kapitel 9,33; 16,19; 19,25).
+> Er sagt: Es kann einen Engel geben, einen „Mittler“, der für den Menschen eintritt. Dann sagt Gott: „Ich habe ein Lösegeld gefunden.“ Der Mensch wird gerettet.
+> „Lösegeld“ ist ein Preis, der bezahlt wird, um jemanden freizukaufen. Christen sehen hier einen Hinweis auf Jesus, der sagt, er sei gekommen, „sein Leben als Lösegeld für viele zu geben“ (Markus 10,45).
+> Die Folge: Der Mensch wird gesund, betet zu Gott, sieht Gottes Angesicht mit Freude und singt von seiner Rettung. Er bekennt ehrlich seine Schuld.
+> Vers 29–30: Gott tut das immer wieder, „zweimal, dreimal“. Er gibt nicht auf. Er will den Menschen ins Licht zurückholen.
+
+---
+
+### Ich möchte dich gerecht sprechen (Vers 31–33)
+
+<sup>31</sup>Achte darauf, Hiob, hör mir zu!
+Schweig, und ich will reden.
+<sup>32</sup>Wenn du etwas zu sagen hast, antworte mir!
+Rede, denn ich möchte dich gerecht sprechen.
+<sup>33</sup>Wenn nicht, dann hör mir zu!
+Schweig, und ich will dich Weisheit lehren.“
+
+> **Was bedeutet das?**
+> Vers 32 ist bemerkenswert: „Ich möchte dich gerecht sprechen.“ Elihu will Hiob nicht verurteilen wie die Freunde. Er will ihm helfen.
+> Hiob antwortet nicht. Vielleicht hört er zu. Vielleicht ist er erschöpft. Die Bibel sagt es nicht.
