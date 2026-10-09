@@ -103,7 +103,7 @@ und die Zahl deiner Tage ist groß!
 oder hast du die Vorratskammern des Hagels gesehen,
 [23] die ich aufbewahrt habe für die Zeit der Not,
 für den Tag der Schlacht und des Krieges?
-[24] Auf welchem Weg wird das Licht verteilt,
+[24] Auf welchem Weg wird der Blitz verteilt,
 oder der Ostwind über die Erde verstreut?
 [25] Wer hat der Flut einen Kanal gegraben
 oder dem Gewitter einen Weg,
@@ -119,7 +119,7 @@ Wer hat den grauen Reif des Himmels geboren?
 wenn die Oberfläche der Tiefe gefriert.
 
 > **Was bedeutet das?**
-> Vers 24: Im englischen Text steht „lightning“ (Blitz). Das hebräische Wort heißt eigentlich „Licht“. Deshalb übersetzen viele deutsche Bibeln „Licht“.
+> Vers 24: „Blitz“: Das hebräische Wort bedeutet wörtlich „Licht“. Deshalb übersetzen viele deutsche Bibeln hier „das Licht“.
 > Vers 26–27 sind besonders schön: Gott lässt es auch dort regnen, wo kein Mensch wohnt. Er kümmert sich um die Wüste und das kleine Gras, auch wenn kein Mensch etwas davon hat.
 > Das heißt: Die Welt dreht sich nicht nur um den Menschen. Gott freut sich an seiner ganzen Schöpfung. Diese Sicht ist für Hiob neu.
 > Vers 28–29: Regen, Tau, Eis und Reif haben keine menschlichen Eltern. Gott allein bringt sie hervor.
