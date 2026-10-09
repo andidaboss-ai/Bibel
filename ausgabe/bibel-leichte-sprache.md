@@ -73538,3 +73538,282 @@ und führte sie mit geschickten Händen.
 > Vers 67–68: Gott wählte nicht Ephraim im Norden, sondern Juda im Süden. Jerusalem auf dem Zion wurde zum Ort des Tempels.
 > Vers 70–72: Am Ende steht David. Gott holte ihn von den Schafen weg und machte ihn zum Hirten seines Volkes. Die lange Geschichte der Untreue endet mit einem Zeichen der Gnade: einem König, der mit „lauterem Herzen“ führt.
 > Der Psalm zeigt: Die Geschichte des Volkes ist voller Versagen. Aber Gottes Treue ist größer.
+
+## Psalm 79
+#### Jerusalem liegt in Trümmern
+
+---
+
+### Die Völker sind in dein Erbe eingedrungen (Vers 1–4)
+
+<sup>1</sup>Ein Psalm von Asaf.
+Gott, die Völker sind in dein Erbe eingedrungen.
+Sie haben deinen heiligen Tempel entweiht.
+Sie haben Jerusalem zu Trümmerhaufen gemacht.
+<sup>2</sup>Sie haben die Leichen deiner Knechte
+den Vögeln des Himmels zum Fraß gegeben,
+das Fleisch deiner Frommen den Tieren der Erde.
+<sup>3</sup>Sie haben ihr Blut vergossen wie Wasser rings um Jerusalem,
+und niemand war da, der sie begrub.
+<sup>4</sup>Wir sind zum Spott geworden für unsere Nachbarn,
+zum Hohn und Gelächter für die um uns herum.
+
+> **Was bedeutet das?**
+> Psalm 79 ist wie Psalm 74 eine Klage über die Zerstörung Jerusalems, wahrscheinlich durch die Babylonier 586 vor Christus.
+> Die Beschreibung ist erschütternd: Der Tempel ist entweiht, die Stadt liegt in Trümmern, die Toten liegen unbegraben auf den Straßen. Das war für die Menschen damals das Schrecklichste.
+> Solche Klagen sind bis heute ein Gebet für Menschen, die Krieg und Zerstörung erleben.
+
+---
+
+### Wie lange, HERR? (Vers 5–7)
+
+<sup>5</sup>Wie lange, HERR?
+Willst du für immer zornig sein?
+Soll dein Eifer brennen wie Feuer?
+<sup>6</sup>Gieß deinen Zorn aus über die Völker, die dich nicht kennen,
+über die Königreiche, die deinen Namen nicht anrufen!
+<sup>7</sup>Denn sie haben Jakob gefressen
+und seine Heimat verwüstet.
+
+> **Was bedeutet das?**
+> Der Beter weiß: Die Zerstörung hat auch mit der Schuld des eigenen Volkes zu tun. Darum fragt er: Wie lange noch willst du zornig sein?
+> Vers 6–7 bitten Gott, die Zerstörer zu bestrafen. Jeremia 10,25 hat fast dieselben Worte.
+
+---
+
+### Vergib uns um deines Namens willen (Vers 8–10)
+
+<sup>8</sup>Rechne uns die Schuld unserer Vorfahren nicht an!
+Dein Erbarmen komme uns schnell entgegen,
+denn wir sind in großer Not.
+<sup>9</sup>Hilf uns, Gott unserer Rettung, um der Ehre deines Namens willen!
+Rette uns und vergib unsere Sünden um deines Namens willen!
+<sup>10</sup>Warum sollen die Völker sagen: „Wo ist ihr Gott?“
+Vor unseren Augen soll unter den Völkern bekannt werden,
+dass das vergossene Blut deiner Knechte gerächt wird.
+
+> **Was bedeutet das?**
+> Vers 8–9: Das Volk bekennt seine Schuld und bittet um Vergebung. Es beruft sich nicht auf eigene Verdienste, sondern auf Gottes Namen und Ehre.
+> Vers 10: Die Völker spotten: „Wo ist denn euer Gott?“ Es geht um Gottes Ruf in der Welt.
+> „Das Blut gerächt“: Der Beter überlässt die Gerechtigkeit Gott. Er nimmt nicht selbst Rache.
+
+---
+
+### Hör das Seufzen der Gefangenen (Vers 11–13)
+
+<sup>11</sup>Das Seufzen der Gefangenen komme vor dich!
+Nach der Größe deiner Macht erhalte die am Leben, die zum Tod verurteilt sind!
+<sup>12</sup>Vergilt unseren Nachbarn siebenfach in ihren Schoß
+den Hohn, mit dem sie dich verhöhnt haben, Herr!
+<sup>13</sup>Dann werden wir, dein Volk und die Schafe deiner Weide,
+dir für immer danken.
+Wir werden dein Lob verkünden von Generation zu Generation.
+
+> **Was bedeutet das?**
+> Vers 11: Ein Gebet für die Gefangenen und Verschleppten, die zum Tod verurteilt sind.
+> Vers 12: „Siebenfach in ihren Schoß“: vollständig, ganz und gar. Der Spott galt nicht nur Israel, sondern Gott selbst.
+> Vers 13: Trotz allem endet der Psalm mit einem Versprechen: Wir werden dich loben, auch für kommende Generationen.
+
+## Psalm 80
+#### Lass dein Angesicht leuchten
+
+---
+
+### Hirte Israels, hör uns! (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilien des Bundes“. Ein Psalm von Asaf.
+Hör uns, du Hirte Israels,
+der du Josef führst wie eine Herde,
+der du über den Keruben thronst, erscheine strahlend!
+<sup>2</sup>Vor Ephraim, Benjamin und Manasse
+weck deine Macht auf! Komm, uns zu retten!
+<sup>3</sup>Stell uns wieder her, Gott!
+Lass dein Angesicht leuchten, dann werden wir gerettet.
+
+> **Was bedeutet das?**
+> Psalm 80 ist ein Gebet für das Nordreich Israel (Josef, Ephraim, Manasse, Benjamin), vielleicht nach seiner Eroberung durch die Assyrer 722 vor Christus.
+> „Der über den Keruben thront“: Auf der Bundeslade waren zwei Keruben (Engelfiguren). Man stellte sich Gott als König vor, der darüber thront.
+> Vers 3 ist ein Kehrvers. Er kommt dreimal vor (Vers 3, 7 und 19) und wird jedes Mal stärker: Gott, Gott der Heere, HERR, Gott der Heere.
+> „Lass dein Angesicht leuchten“: Eine Bitte aus dem Priestersegen (4. Mose 6,25). Wenn Gott freundlich auf uns schaut, sind wir gerettet.
+
+---
+
+### Tränenbrot (Vers 4–7)
+
+<sup>4</sup>HERR, Gott der Heere,
+wie lange willst du zornig sein gegen das Gebet deines Volkes?
+<sup>5</sup>Du hast sie mit Tränenbrot gespeist
+und ihnen Tränen in großem Maß zu trinken gegeben.
+<sup>6</sup>Du machst uns zum Zankapfel für unsere Nachbarn.
+Unsere Feinde lachen über uns.
+<sup>7</sup>Stell uns wieder her, Gott der Heere!
+Lass dein Angesicht leuchten, dann werden wir gerettet.
+
+> **Was bedeutet das?**
+> Vers 5: Ein starkes Bild: Tränen sind das tägliche Brot des Volkes geworden.
+> Das Volk betet, aber es fühlt sich, als sei Gott sogar über das Gebet zornig.
+
+---
+
+### Der Weinstock aus Ägypten (Vers 8–13)
+
+<sup>8</sup>Du hast einen Weinstock aus Ägypten herausgeholt.
+Du hast Völker vertrieben und ihn eingepflanzt.
+<sup>9</sup>Du hast den Boden für ihn frei gemacht.
+Er schlug tiefe Wurzeln und erfüllte das Land.
+<sup>10</sup>Die Berge wurden von seinem Schatten bedeckt,
+seine Zweige waren wie Zedern Gottes.
+<sup>11</sup>Er streckte seine Ranken aus bis zum Meer
+und seine Triebe bis zum Strom.
+<sup>12</sup>Warum hast du seine Mauern eingerissen,
+sodass alle, die vorbeigehen, ihn plündern?
+<sup>13</sup>Der Eber aus dem Wald verwüstet ihn.
+Die wilden Tiere des Feldes fressen ihn ab.
+
+> **Was bedeutet das?**
+> Israel wird mit einem Weinstock verglichen. Gott hat ihn aus Ägypten geholt, eingepflanzt und gepflegt. Er wuchs und wurde groß, vom Mittelmeer bis zum Euphrat.
+> Aber jetzt ist die Schutzmauer eingerissen. Jeder kann kommen und die Trauben stehlen. Wilde Tiere zerstören den Weinberg.
+> Dieses Bild kommt in der Bibel oft vor (Jesaja 5,1–7; Hosea 10,1). Jesus sagt später: „Ich bin der wahre Weinstock“ (Johannes 15,1).
+
+---
+
+### Sieh nach diesem Weinstock (Vers 14–19)
+
+<sup>14</sup>Kehr doch zurück, Gott der Heere!
+Schau vom Himmel herab und sieh,
+und kümmere dich um diesen Weinstock,
+<sup>15</sup>um den Setzling, den deine rechte Hand gepflanzt hat,
+um den Zweig, den du dir stark gemacht hast.
+<sup>16</sup>Er ist mit Feuer verbrannt. Er ist abgehauen.
+Sie kommen um vor deinem Schelten.
+<sup>17</sup>Deine Hand sei über dem Mann deiner rechten Hand,
+über dem Menschensohn, den du dir stark gemacht hast.
+<sup>18</sup>Dann werden wir nicht von dir weichen.
+Belebe uns, und wir werden deinen Namen anrufen.
+<sup>19</sup>Stell uns wieder her, HERR, Gott der Heere!
+Lass dein Angesicht leuchten, dann werden wir gerettet.
+
+> **Was bedeutet das?**
+> Der Beter bittet Gott: Schau nach deinem Weinstock! Du hast ihn doch selbst gepflanzt.
+> Vers 17: „Der Mann deiner rechten Hand“ und „der Menschensohn“: Gemeint ist wohl der König, vielleicht auch das ganze Volk. „Benjamin“ (Vers 2) bedeutet übrigens „Sohn der rechten Hand“. Christen haben hier auch an Jesus gedacht, der sich „Menschensohn“ nennt und zur Rechten Gottes sitzt.
+> Vers 18: Das Volk verspricht: Wenn du uns neues Leben gibst, wollen wir dir treu bleiben.
+> Der Psalm endet mit dem Kehrvers in seiner stärksten Form: „HERR, Gott der Heere“.
+
+## Psalm 81
+#### Wenn mein Volk doch auf mich hören würde
+
+---
+
+### Ein Festlied (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Auf einem Instrument aus Gat. Von Asaf.
+Singt laut zu Gott, unserer Stärke!
+Jubelt dem Gott Jakobs zu!
+<sup>2</sup>Stimmt ein Lied an und bringt das Tamburin,
+die liebliche Leier mit der Harfe!
+<sup>3</sup>Blast das Horn am Neumond,
+am Vollmond, an unserem Festtag!
+<sup>4</sup>Denn das ist eine Ordnung für Israel,
+ein Gebot des Gottes Jakobs.
+<sup>5</sup>Er hat es als Bund in Josef eingesetzt,
+als er auszog über das Land Ägypten.
+Ich hörte eine Sprache, die ich nicht kannte:
+
+> **Was bedeutet das?**
+> Psalm 81 beginnt als fröhliches Festlied. Man feiert mit Musik und Gesang.
+> Vers 3: Am Neumond und Vollmond wurden Feste gefeiert. Gemeint ist wohl das Laubhüttenfest im Herbst, das am Vollmond gefeiert wird (3. Mose 23,34).
+> Das Horn (hebräisch „Schofar“) ist ein Widderhorn, das man wie eine Trompete bläst. Juden blasen es bis heute an hohen Feiertagen.
+> Vers 5: „Eine Sprache, die ich nicht kannte“: Plötzlich hört der Sänger eine unbekannte Stimme. Es ist Gottes Stimme, die nun spricht.
+
+---
+
+### Ich habe dich befreit (Vers 6–10)
+
+<sup>6</sup>„Ich habe seine Schulter von der Last befreit.
+Seine Hände wurden vom Tragkorb befreit.
+<sup>7</sup>Du hast in der Not gerufen, und ich habe dich gerettet.
+Ich habe dir aus dem Versteck des Donners geantwortet.
+Ich habe dich am Wasser von Meriba geprüft.“
+Sela.
+<sup>8</sup>„Hör, mein Volk, und ich will dich ermahnen!
+Israel, wenn du doch auf mich hören würdest!
+<sup>9</sup>Es soll bei dir keinen fremden Gott geben,
+und du sollst keinen ausländischen Gott anbeten.
+<sup>10</sup>Ich bin der HERR, dein Gott,
+der dich aus dem Land Ägypten heraufgeführt hat.
+Öffne deinen Mund weit, und ich will ihn füllen.
+
+> **Was bedeutet das?**
+> Gott erinnert an die Befreiung aus Ägypten. Dort mussten die Israeliten als Sklaven schwere Körbe mit Lehm und Ziegeln tragen (2. Mose 1,14).
+> „Meriba“ heißt „Streit“. Dort stritt das Volk mit Gott, weil es kein Wasser hatte (2. Mose 17,7).
+> Vers 9–10 erinnern an den Anfang der Zehn Gebote (2. Mose 20,2–3).
+> „Öffne deinen Mund weit, und ich will ihn füllen“: wie ein junger Vogel, der den Schnabel aufreißt und von der Mutter gefüttert wird. Gott will reichlich geben.
+
+---
+
+### Aber mein Volk hörte nicht (Vers 11–16)
+
+<sup>11</sup>Aber mein Volk hörte nicht auf meine Stimme.
+Israel wollte nichts von mir.
+<sup>12</sup>Da ließ ich sie gehen in der Verstocktheit ihres Herzens,
+damit sie nach ihren eigenen Plänen leben.
+<sup>13</sup>Ach, wenn mein Volk doch auf mich hören würde,
+wenn Israel doch auf meinen Wegen gehen würde!
+<sup>14</sup>Bald würde ich ihre Feinde beugen
+und meine Hand gegen ihre Gegner wenden.
+<sup>15</sup>Die den HERRN hassen, müssten sich vor ihm ducken,
+und ihre Strafe würde für immer dauern.
+<sup>16</sup>Ihn aber würde ich mit dem besten Weizen speisen.
+Mit Honig aus dem Felsen will ich dich sättigen.“
+
+> **Was bedeutet das?**
+> Gott ist enttäuscht: Mein Volk wollte nicht auf mich hören.
+> Vers 12: Gott zwingt niemanden. Er lässt die Menschen ihre eigenen Wege gehen, auch wenn diese ins Unglück führen (vgl. Römer 1,24).
+> Vers 13 ist ein sehnsüchtiger Seufzer Gottes: „Ach, wenn mein Volk doch auf mich hören würde!“ Gott ist kein kalter Richter. Er sehnt sich nach seinem Volk.
+> Vers 16: Gott würde sie mit dem Besten versorgen. „Honig aus dem Felsen“: wilde Bienen bauten ihre Waben in Felsspalten. Ein Bild für überraschenden Überfluss.
+
+## Psalm 82
+#### Gott richtet die Richter
+
+---
+
+### Gott steht in der Versammlung (Vers 1–4)
+
+<sup>1</sup>Ein Psalm von Asaf.
+Gott steht in der großen Versammlung.
+Er richtet inmitten der Götter.
+<sup>2</sup>„Wie lange wollt ihr ungerecht richten
+und die Gottlosen bevorzugen?“
+Sela.
+<sup>3</sup>„Verschafft dem Schwachen, dem Armen und der Waise Recht!
+Verteidigt das Recht des Armen und Unterdrückten!
+<sup>4</sup>Rettet den Schwachen und Bedürftigen!
+Befreit ihn aus der Hand der Gottlosen!“
+
+> **Was bedeutet das?**
+> Psalm 82 zeigt eine Gerichtsszene im Himmel. Gott steht in der Mitte einer Versammlung von „Göttern“.
+> Wer sind diese „Götter“? Es gibt verschiedene Deutungen:
+> – himmlische Mächte oder Engel, die über die Völker gesetzt sind,
+> – die Götter der anderen Völker,
+> – menschliche Richter und Herrscher, die im Namen Gottes Recht sprechen sollten (vgl. 2. Mose 21,6, wo „Gott“ auch „die Richter“ bedeuten kann).
+> Was Gott von ihnen verlangt, ist klar: Schützt die Schwachen, die Armen, die Waisen! Das ist der Maßstab für alle, die Macht haben.
+
+---
+
+### Ihr werdet sterben wie Menschen (Vers 5–8)
+
+<sup>5</sup>Sie wissen nichts und verstehen nichts.
+Sie gehen in der Finsternis umher.
+Alle Grundfesten der Erde wanken.
+<sup>6</sup>Ich sagte: „Ihr seid Götter,
+ihr alle seid Söhne des Höchsten.
+<sup>7</sup>Doch ihr werdet sterben wie Menschen
+und fallen wie einer der Fürsten.“
+<sup>8</sup>Steh auf, Gott, richte die Erde,
+denn alle Völker gehören dir als Erbe.
+
+> **Was bedeutet das?**
+> Vers 5: Weil die Mächtigen ungerecht sind, wankt die ganze Welt. Ungerechtigkeit zerstört die Grundlagen des Zusammenlebens.
+> Vers 6–7: Sie waren hoch geehrt, „Söhne des Höchsten“. Aber weil sie ihre Aufgabe nicht erfüllt haben, verlieren sie ihre Stellung. Sie werden sterben wie gewöhnliche Menschen.
+> Jesus zitiert Vers 6 in Johannes 10,34–36, als man ihm vorwirft, er mache sich selbst zu Gott.
+> Vers 8: Der Beter ruft Gott selbst als Richter an, weil die menschlichen Richter versagt haben. Am Ende wird Gott für Gerechtigkeit sorgen.
