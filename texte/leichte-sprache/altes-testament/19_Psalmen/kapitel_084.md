@@ -53,7 +53,7 @@ Sela.
 [9] Schau, Gott, unser Schild,
 sieh das Angesicht deines Gesalbten an!
 [10] Denn ein Tag in deinen Vorhöfen ist besser als tausend.
-Ich will lieber an der Schwelle im Haus meines Gottes stehen,
+Ich will lieber Türhüter sein im Haus meines Gottes,
 als in den Zelten der Gottlosigkeit wohnen.
 [11] Denn Gott der HERR ist Sonne und Schild.
 Der HERR gibt Gnade und Herrlichkeit.
