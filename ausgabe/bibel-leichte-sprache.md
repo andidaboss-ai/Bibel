@@ -73817,3 +73817,288 @@ denn alle Völker gehören dir als Erbe.
 > Vers 6–7: Sie waren hoch geehrt, „Söhne des Höchsten“. Aber weil sie ihre Aufgabe nicht erfüllt haben, verlieren sie ihre Stellung. Sie werden sterben wie gewöhnliche Menschen.
 > Jesus zitiert Vers 6 in Johannes 10,34–36, als man ihm vorwirft, er mache sich selbst zu Gott.
 > Vers 8: Der Beter ruft Gott selbst als Richter an, weil die menschlichen Richter versagt haben. Am Ende wird Gott für Gerechtigkeit sorgen.
+
+## Psalm 83
+#### Gott, schweige nicht!
+
+---
+
+### Sie verschwören sich gegen dein Volk (Vers 1–8)
+
+<sup>1</sup>Ein Lied. Ein Psalm von Asaf.
+Gott, schweige nicht!
+Schweig nicht und bleib nicht still, Gott!
+<sup>2</sup>Denn schau, deine Feinde toben.
+Die dich hassen, erheben den Kopf.
+<sup>3</sup>Sie schmieden listige Pläne gegen dein Volk.
+Sie beraten sich gegen die, die dir lieb sind.
+<sup>4</sup>„Kommt“, sagen sie, „lasst uns sie als Volk vernichten,
+damit an den Namen Israel nicht mehr gedacht wird!“
+<sup>5</sup>Denn sie haben sich einmütig verschworen.
+Sie schließen einen Bund gegen dich:
+<sup>6</sup>die Zelte Edoms und die Ismaeliter,
+Moab und die Hagariter,
+<sup>7</sup>Gebal, Ammon und Amalek,
+Philistäa mit den Bewohnern von Tyrus.
+<sup>8</sup>Auch Assur hat sich ihnen angeschlossen.
+Sie haben den Söhnen Lots geholfen.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 83 ist der letzte der Asaf-Psalmen. Viele Völker verbünden sich gegen Israel. Ihr Ziel ist, das ganze Volk auszulöschen.
+> Die Völker umgeben Israel von allen Seiten: Edom, Moab und Ammon im Osten (Moab und Ammon sind die „Söhne Lots“, 1. Mose 19,36–38), Philistäa und Tyrus im Westen, Assur im Norden.
+> Gebal ist wohl eine Gegend südlich des Toten Meeres. Die Hagariter waren ein Wüstenvolk.
+> Vers 4 ist leider bis heute aktuell: Immer wieder in der Geschichte haben Menschen versucht, das jüdische Volk zu vernichten. Der Psalm ist ein Hilferuf gegen solchen Hass.
+
+---
+
+### Mach es ihnen wie Midian (Vers 9–12)
+
+<sup>9</sup>Mach es ihnen wie Midian,
+wie Sisera, wie Jabin am Bach Kischon,
+<sup>10</sup>die bei En-Dor vernichtet wurden
+und zu Dünger für die Erde wurden.
+<sup>11</sup>Mach ihre Edlen wie Oreb und Seeb,
+ja, alle ihre Fürsten wie Sebach und Zalmunna,
+<sup>12</sup>die sagten: „Wir wollen die Weideplätze Gottes in Besitz nehmen.“
+
+> **Was bedeutet das?**
+> Der Beter erinnert an frühere Rettungen aus der Zeit der Richter:
+> – Gideon besiegte die Midianiter und ihre Anführer Oreb, Seeb, Sebach und Zalmunna (Richter 7–8).
+> – Debora und Barak besiegten Sisera, den Heerführer des Königs Jabin, am Bach Kischon (Richter 4–5).
+> So wie Gott damals half, soll er auch jetzt helfen.
+
+---
+
+### Damit sie deinen Namen suchen (Vers 13–18)
+
+<sup>13</sup>Mein Gott, mach sie wie Steppenläufer,
+wie Spreu vor dem Wind!
+<sup>14</sup>Wie das Feuer, das den Wald verbrennt,
+wie die Flamme, die die Berge in Brand setzt,
+<sup>15</sup>so verfolge sie mit deinem Sturm
+und erschrecke sie mit deinem Unwetter!
+<sup>16</sup>Fülle ihr Gesicht mit Schande,
+damit sie deinen Namen suchen, HERR!
+<sup>17</sup>Sie sollen enttäuscht und erschrocken sein für immer.
+Ja, sie sollen beschämt werden und umkommen,
+<sup>18</sup>damit sie erkennen, dass du allein, dessen Name HERR ist,
+der Höchste bist über die ganze Erde.
+
+> **Was bedeutet das?**
+> „Steppenläufer“: trockene Pflanzen, die sich vom Stängel lösen und vom Wind über das Land gerollt werden.
+> Die Bitte gegen die Feinde ist hart. Aber Vers 16 zeigt ein anderes Ziel: „damit sie deinen Namen suchen“. Die Feinde sollen nicht nur besiegt werden, sondern Gott erkennen.
+> Vers 18: Am Ende soll die ganze Welt wissen, dass der HERR allein Gott ist.
+> Wie bei anderen harten Psalmen gilt: Das Urteil wird Gott überlassen. Es ist keine Erlaubnis zu Gewalt oder Hass gegen andere Völker.
+
+## Psalm 84
+#### Wie lieblich sind deine Wohnungen
+
+---
+
+### Meine Seele sehnt sich (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Auf einem Instrument aus Gat. Ein Psalm von den Söhnen Korachs.
+Wie lieblich sind deine Wohnungen, HERR der Heere!
+<sup>2</sup>Meine Seele sehnt sich, ja, sie vergeht vor Sehnsucht nach den Vorhöfen des HERRN.
+Mein Herz und mein Leib jubeln dem lebendigen Gott zu.
+<sup>3</sup>Ja, auch der Sperling hat ein Haus gefunden
+und die Schwalbe ein Nest für sich,
+wo sie ihre Jungen hinlegen kann,
+bei deinen Altären, HERR der Heere,
+mein König und mein Gott.
+<sup>4</sup>Glücklich sind die, die in deinem Haus wohnen.
+Sie loben dich immerzu.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 84 ist ein Pilgerlied. Ein Mensch sehnt sich danach, zum Tempel in Jerusalem zu ziehen.
+> „Wie lieblich“: wie schön, wie geliebt.
+> Vers 3 ist ein zartes Bild: Sogar die kleinen Vögel haben am Tempel ein Zuhause gefunden. Sie bauen ihre Nester nah bei Gottes Altar. Der Beter beneidet sie fast.
+> Jesus sagt: Kein Sperling fällt zur Erde ohne euren Vater, und ihr seid mehr wert als viele Sperlinge (Matthäus 10,29–31).
+> Johannes Brahms hat Vers 1–2 im „Deutschen Requiem“ vertont: „Wie lieblich sind deine Wohnungen“.
+
+---
+
+### Durch das Tränental (Vers 5–7)
+
+<sup>5</sup>Glücklich sind die, deren Stärke in dir ist,
+die den Pilgerweg im Herzen haben.
+<sup>6</sup>Wenn sie durch das Tal des Weinens ziehen,
+machen sie es zu einem Ort voller Quellen.
+Ja, der Frühregen bedeckt es mit Segen.
+<sup>7</sup>Sie gehen von Kraft zu Kraft.
+Jeder von ihnen erscheint vor Gott in Zion.
+
+> **Was bedeutet das?**
+> „Den Pilgerweg im Herzen haben“: Sie sind innerlich schon unterwegs zu Gott.
+> Vers 6: Das „Tal des Weinens“ (hebräisch „Baka“, deutsch oft „Tränental“) war vielleicht ein trockenes Tal auf dem Weg nach Jerusalem. Aber wer zu Gott unterwegs ist, für den wird selbst das Tal der Tränen zu einem Ort voller Quellen.
+> Das ist ein schönes Bild für das Leben: Auch durch schwere Zeiten kann Gott Kraft und Segen schenken.
+> Vers 7: „Von Kraft zu Kraft“: Je näher sie dem Ziel kommen, desto stärker werden sie.
+
+---
+
+### Ein Tag in deinen Vorhöfen (Vers 8–12)
+
+<sup>8</sup>HERR, Gott der Heere, hör mein Gebet!
+Horch auf, Gott Jakobs!
+Sela.
+<sup>9</sup>Schau, Gott, unser Schild,
+sieh das Angesicht deines Gesalbten an!
+<sup>10</sup>Denn ein Tag in deinen Vorhöfen ist besser als tausend.
+Ich will lieber an der Schwelle im Haus meines Gottes stehen,
+als in den Zelten der Gottlosigkeit wohnen.
+<sup>11</sup>Denn Gott der HERR ist Sonne und Schild.
+Der HERR gibt Gnade und Herrlichkeit.
+Er versagt nichts Gutes denen, die untadelig leben.
+<sup>12</sup>HERR der Heere,
+glücklich ist der Mensch, der auf dich vertraut.
+
+> **Was bedeutet das?**
+> Vers 9: Ein Gebet für den König, den „Gesalbten“.
+> Vers 10 ist ein bekannter Satz: Ein einziger Tag bei Gott ist besser als tausend Tage woanders. Lieber ein einfacher Türhüter bei Gott sein als ein reicher Mann bei den Gottlosen.
+> Die „Söhne Korachs“ waren selbst Türhüter am Tempel (1. Chronik 9,19). Sie wussten, wovon sie sangen.
+> Vers 11: Gott ist „Sonne und Schild“: Er gibt Licht und Wärme, und er schützt.
+
+## Psalm 85
+#### Gerechtigkeit und Frieden küssen sich
+
+---
+
+### Du warst gnädig (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von den Söhnen Korachs.
+HERR, du bist deinem Land gnädig gewesen.
+Du hast das Geschick Jakobs gewendet.
+<sup>2</sup>Du hast die Schuld deines Volkes vergeben.
+Du hast alle ihre Sünde zugedeckt.
+Sela.
+<sup>3</sup>Du hast deinen ganzen Grimm weggenommen.
+Du hast dich von der Glut deines Zorns abgewandt.
+
+> **Was bedeutet das?**
+> Der Psalm beginnt mit einem Rückblick: Gott hat früher vergeben und sein Volk wiederhergestellt. Vielleicht ist die Rückkehr aus dem Exil in Babylon gemeint (um 538 vor Christus).
+> „Sünde zudecken“: Gott sieht die Schuld nicht mehr an, sie ist vergeben.
+
+---
+
+### Belebe uns wieder (Vers 4–7)
+
+<sup>4</sup>Stell uns wieder her, Gott unserer Rettung,
+und lass deinen Unmut gegen uns aufhören!
+<sup>5</sup>Willst du für immer zornig auf uns sein?
+Willst du deinen Zorn hinziehen über alle Generationen?
+<sup>6</sup>Willst du uns nicht wieder beleben,
+damit dein Volk sich an dir freut?
+<sup>7</sup>Zeig uns, HERR, deine Güte,
+und schenk uns deine Rettung!
+
+> **Was bedeutet das?**
+> Trotz der Rückkehr ist die Lage schwierig. Das Land ist arm, das Leben ist hart. Das Volk bittet: Belebe uns wieder!
+> „Damit dein Volk sich an dir freut“: Das Ziel der Rettung ist Freude an Gott.
+
+---
+
+### Gerechtigkeit und Frieden küssen sich (Vers 8–13)
+
+<sup>8</sup>Ich will hören, was Gott, der HERR, redet,
+denn er wird Frieden zusagen seinem Volk und seinen Frommen.
+Aber sie sollen nicht wieder zur Torheit zurückkehren.
+<sup>9</sup>Gewiss, seine Rettung ist denen nahe, die ihn fürchten,
+damit Herrlichkeit in unserem Land wohnt.
+<sup>10</sup>Güte und Wahrheit begegnen einander.
+Gerechtigkeit und Frieden küssen sich.
+<sup>11</sup>Wahrheit sprießt aus der Erde hervor.
+Gerechtigkeit schaut vom Himmel herab.
+<sup>12</sup>Ja, der HERR wird Gutes geben,
+und unser Land wird seinen Ertrag bringen.
+<sup>13</sup>Gerechtigkeit geht vor ihm her
+und bereitet den Weg für seine Schritte.
+
+> **Was bedeutet das?**
+> Vers 8: Der Beter wird still und hört auf Gott. Und Gott spricht von Frieden.
+> Vers 10–11 sind wunderschöne Bilder: Gottes Eigenschaften werden wie Personen beschrieben, die sich begegnen und umarmen. „Gerechtigkeit und Frieden küssen sich“: Echter Frieden gibt es nur mit Gerechtigkeit, und Gerechtigkeit führt zum Frieden.
+> Vers 11: Von unten wächst Wahrheit aus der Erde, von oben schaut Gerechtigkeit vom Himmel. Himmel und Erde kommen zusammen.
+> „Wahrheit“ (Vers 10 und 11): Das hebräische Wort „Emet“ bedeutet beides: Wahrheit und Treue, Verlässlichkeit. Darum übersetzen viele deutsche Bibeln hier „Treue“.
+> Christen lesen diesen Psalm oft im Advent: Gott kommt, und Gerechtigkeit geht vor ihm her.
+
+## Psalm 86
+#### Lehre mich deinen Weg
+
+---
+
+### Ich bin elend und arm (Vers 1–7)
+
+<sup>1</sup>Ein Gebet von David.
+Hör, HERR, und antworte mir,
+denn ich bin elend und arm.
+<sup>2</sup>Bewahre meine Seele, denn ich bin dir treu.
+Du, mein Gott, rette deinen Knecht, der auf dich vertraut.
+<sup>3</sup>Sei mir gnädig, Herr,
+denn ich rufe den ganzen Tag zu dir.
+<sup>4</sup>Erfreue die Seele deines Knechtes,
+denn zu dir, Herr, erhebe ich meine Seele.
+<sup>5</sup>Denn du, Herr, bist gut und bereit zu vergeben,
+reich an Güte für alle, die dich anrufen.
+<sup>6</sup>Hör, HERR, mein Gebet!
+Achte auf die Stimme meines Flehens!
+<sup>7</sup>Am Tag meiner Not rufe ich dich an,
+denn du wirst mir antworten.
+
+> **Was bedeutet das?**
+> Psalm 86 ist der einzige Psalm von David im dritten Psalmenbuch.
+> Er ist aus vielen Sätzen anderer Psalmen und Bibelstellen zusammengesetzt, wie ein Gebet, das aus bekannten Worten gewoben ist.
+> Vers 5: „Du bist gut und bereit zu vergeben“: Das ist der Grund, warum der Beter Gott vertraut.
+
+---
+
+### Keiner ist wie du (Vers 8–10)
+
+<sup>8</sup>Unter den Göttern ist keiner wie du, Herr,
+und keine Taten sind wie deine Taten.
+<sup>9</sup>Alle Völker, die du gemacht hast,
+werden kommen und vor dir anbeten, Herr.
+Sie werden deinen Namen ehren.
+<sup>10</sup>Denn du bist groß und tust Wunder.
+Du allein bist Gott.
+
+> **Was bedeutet das?**
+> Vers 9: Alle Völker hat Gott gemacht, und alle werden einmal zu ihm kommen (vgl. Offenbarung 15,4).
+> Vers 10: „Du allein bist Gott“: ein klares Bekenntnis zum einen Gott.
+
+---
+
+### Gib mir ein ungeteiltes Herz (Vers 11–13)
+
+<sup>11</sup>Lehre mich deinen Weg, HERR!
+Ich will in deiner Wahrheit gehen.
+Gib mir ein ungeteiltes Herz, damit ich deinen Namen fürchte.
+<sup>12</sup>Ich will dich loben, Herr, mein Gott, von ganzem Herzen.
+Ich will deinen Namen ehren für immer.
+<sup>13</sup>Denn deine Güte ist groß über mir.
+Du hast meine Seele aus der tiefsten Tiefe des Totenreichs gerettet.
+
+> **Was bedeutet das?**
+> Vers 11 ist ein schönes Gebet: „Gib mir ein ungeteiltes Herz.“ Ein geteiltes Herz will zwei Dinge gleichzeitig: Gott und etwas anderes. Der Beter bittet um ein Herz, das ganz bei Gott ist.
+> Vers 13: Gott hat ihn aus Todesgefahr gerettet.
+
+---
+
+### Barmherzig und gnädig (Vers 14–17)
+
+<sup>14</sup>Gott, die Hochmütigen haben sich gegen mich erhoben.
+Eine Rotte von Gewalttätigen trachtet mir nach dem Leben,
+und sie haben dich nicht vor Augen.
+<sup>15</sup>Du aber, Herr, bist ein barmherziger und gnädiger Gott,
+langsam zum Zorn und reich an Güte und Treue.
+<sup>16</sup>Wende dich mir zu und sei mir gnädig!
+Gib deinem Knecht deine Kraft!
+Rette den Sohn deines Knechtes!
+<sup>17</sup>Zeig mir ein Zeichen deiner Güte,
+damit die, die mich hassen, es sehen und beschämt werden,
+weil du, HERR, mir geholfen und mich getröstet hast.
+
+> **Was bedeutet das?**
+> Vers 15 zitiert eine der wichtigsten Aussagen über Gott in der ganzen Bibel. Gott selbst hat sie zu Mose gesagt: „barmherzig und gnädig, langsam zum Zorn und reich an Güte und Treue“ (2. Mose 34,6).
+> Vers 16: „Den Sohn deines Knechtes“: Im Hebräischen steht „Sohn deiner Magd“. Gemeint ist: Ich gehöre ganz zu dir, von Geburt an, wie ein Kind, das im Haus eines Herrn geboren wurde.
+> Vers 17: Der Beter bittet um ein sichtbares Zeichen, dass Gott auf seiner Seite steht.
