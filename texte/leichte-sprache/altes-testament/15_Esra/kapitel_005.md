@@ -8,8 +8,7 @@
 [1] Da weissagten die Propheten,
 der Prophet Haggai und Sacharja, der Sohn Iddos,
 den Juden, die in Juda und Jerusalem waren.
-Sie weissagten ihnen im Namen des Gottes Israels,
-der über ihnen war.
+Sie weissagten ihnen im Namen des Gottes Israels.
 [2] Da machten sich Serubbabel, der Sohn Schealtiëls, und Jeschua, der Sohn Jozadaks, auf
 und fingen an, das Haus Gottes in Jerusalem zu bauen.
 Und mit ihnen waren die Propheten Gottes und halfen ihnen.
@@ -18,7 +17,7 @@ Und mit ihnen waren die Propheten Gottes und halfen ihnen.
 > 16 Jahre lang hatte das Volk nicht mehr am Tempel gebaut. Sie hatten sich eingerichtet und ihre eigenen Häuser gebaut. Da schickt Gott zwei Propheten. Ihre Worte stehen in den Büchern Haggai und Sacharja.
 > Haggai sagt: „Ist es Zeit für euch, in getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (Haggai 1,4). Und Sacharja sagt: „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist, spricht der HERR“ (Sacharja 4,6).
 > Die Propheten predigen nicht nur, sie helfen auch mit. Gottes Wort und praktische Hilfe gehören zusammen.
-> „Der über ihnen war“: In der englischen Vorlage fehlt das. Wörtlich steht im Aramäischen „im Namen des Gottes Israels, der über ihnen war“. Viele verstehen es so: Gott wachte über sie.
+> Im Aramäischen steht wörtlich: „im Namen des Gottes Israels, der über ihnen war“. Viele verstehen es so: Gott wachte über sie.
 
 ---
 
