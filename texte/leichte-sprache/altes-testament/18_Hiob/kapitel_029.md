@@ -71,7 +71,7 @@ und riss die Beute aus seinen Zähnen.
 
 ## Ich dachte, es bleibt immer so (Vers 18–20)
 
-[18] Damals dachte ich: ‚In meinem Nest werde ich sterben,
+[18] Damals dachte ich: ‚In meinem eigenen Haus werde ich sterben,
 und meine Tage werden zahlreich sein wie der Sand.
 [19] Meine Wurzel ist offen zum Wasser hin,
 und der Tau liegt die ganze Nacht auf meinen Zweigen.
@@ -80,7 +80,7 @@ und mein Bogen erneuert sich in meiner Hand.‘
 
 > **Was bedeutet das?**
 > Hiob dachte, sein Glück würde ewig dauern. Er würde alt werden und friedlich in seinem eigenen Haus sterben.
-> „In meinem Nest“: In der englischen Vorlage steht „in meinem eigenen Haus“. Im Hebräischen steht wörtlich „bei meinem Nest“.
+> „In meinem eigenen Haus“: Im Hebräischen steht wörtlich „bei meinem Nest“.
 > Er sah sich wie einen Baum, der am Wasser steht und immer grün bleibt (vgl. Psalm 1,3).
 > Viele Menschen denken so, wenn es ihnen gut geht. Aber das Leben kann sich plötzlich ändern.
 

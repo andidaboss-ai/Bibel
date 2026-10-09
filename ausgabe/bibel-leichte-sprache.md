@@ -65653,7 +65653,7 @@ und riss die Beute aus seinen Zähnen.
 
 ### Ich dachte, es bleibt immer so (Vers 18–20)
 
-<sup>18</sup>Damals dachte ich: ‚In meinem Nest werde ich sterben,
+<sup>18</sup>Damals dachte ich: ‚In meinem eigenen Haus werde ich sterben,
 und meine Tage werden zahlreich sein wie der Sand.
 <sup>19</sup>Meine Wurzel ist offen zum Wasser hin,
 und der Tau liegt die ganze Nacht auf meinen Zweigen.
@@ -65662,7 +65662,7 @@ und mein Bogen erneuert sich in meiner Hand.‘
 
 > **Was bedeutet das?**
 > Hiob dachte, sein Glück würde ewig dauern. Er würde alt werden und friedlich in seinem eigenen Haus sterben.
-> „In meinem Nest“: In der englischen Vorlage steht „in meinem eigenen Haus“. Im Hebräischen steht wörtlich „bei meinem Nest“.
+> „In meinem eigenen Haus“: Im Hebräischen steht wörtlich „bei meinem Nest“.
 > Er sah sich wie einen Baum, der am Wasser steht und immer grün bleibt (vgl. Psalm 1,3).
 > Viele Menschen denken so, wenn es ihnen gut geht. Aber das Leben kann sich plötzlich ändern.
 
@@ -65711,7 +65711,7 @@ Man schreit hinter ihnen her wie hinter einem Dieb,
 in Löchern der Erde und der Felsen.
 <sup>7</sup>Zwischen den Büschen schreien sie.
 Unter den Nesseln drängen sie sich zusammen.
-<sup>8</sup>Sie sind Kinder von Toren, ja, Kinder von Namenlosen.
+<sup>8</sup>Sie sind Kinder von Toren, ja, Kinder von bösen Menschen.
 Man hat sie aus dem Land hinausgepeitscht.
 
 > **Was bedeutet das?**
@@ -65719,7 +65719,7 @@ Man hat sie aus dem Land hinausgepeitscht.
 > Und zwar von den Ärmsten der Armen, von Ausgestoßenen, die in Höhlen leben und Wurzeln essen.
 > Diese Verse sind schwer zu lesen, weil Hiob sehr abfällig über diese Menschen redet. Man muss bedenken: Hiob ist verbittert und verletzt. Und gerade die Menschen, die selbst am Rand stehen, treten jetzt auf ihn ein.
 > In Kapitel 24 hatte Hiob mit großem Mitgefühl über die Armen geredet. Hier spricht der Schmerz eines gedemütigten Mannes. Die Bibel zeigt Hiob ehrlich, mit allen seinen Gefühlen, auch den unschönen.
-> „Kinder von Namenlosen“: Menschen ohne Ansehen, ohne Familie, die etwas gilt. In der englischen Vorlage steht „Kinder von bösen Menschen“.
+> „Kinder von bösen Menschen“: Im Hebräischen steht wörtlich „Kinder ohne Namen“, also Menschen ohne Ansehen und ohne Familie, die etwas gilt.
 
 ---
 

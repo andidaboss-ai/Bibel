@@ -21,7 +21,7 @@ Man schreit hinter ihnen her wie hinter einem Dieb,
 in Löchern der Erde und der Felsen.
 [7] Zwischen den Büschen schreien sie.
 Unter den Nesseln drängen sie sich zusammen.
-[8] Sie sind Kinder von Toren, ja, Kinder von Namenlosen.
+[8] Sie sind Kinder von Toren, ja, Kinder von bösen Menschen.
 Man hat sie aus dem Land hinausgepeitscht.
 
 > **Was bedeutet das?**
@@ -29,7 +29,7 @@ Man hat sie aus dem Land hinausgepeitscht.
 > Und zwar von den Ärmsten der Armen, von Ausgestoßenen, die in Höhlen leben und Wurzeln essen.
 > Diese Verse sind schwer zu lesen, weil Hiob sehr abfällig über diese Menschen redet. Man muss bedenken: Hiob ist verbittert und verletzt. Und gerade die Menschen, die selbst am Rand stehen, treten jetzt auf ihn ein.
 > In Kapitel 24 hatte Hiob mit großem Mitgefühl über die Armen geredet. Hier spricht der Schmerz eines gedemütigten Mannes. Die Bibel zeigt Hiob ehrlich, mit allen seinen Gefühlen, auch den unschönen.
-> „Kinder von Namenlosen“: Menschen ohne Ansehen, ohne Familie, die etwas gilt. In der englischen Vorlage steht „Kinder von bösen Menschen“.
+> „Kinder von bösen Menschen“: Im Hebräischen steht wörtlich „Kinder ohne Namen“, also Menschen ohne Ansehen und ohne Familie, die etwas gilt.
 
 ---
 
