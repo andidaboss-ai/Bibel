@@ -71250,3 +71250,308 @@ Dann wird man Stiere auf deinem Altar darbringen.
 > Diese letzten Verse wurden wahrscheinlich später hinzugefügt, als Jerusalem zerstört war (nach 586 vor Christus). Die Gemeinde nahm Davids Gebet als ihr eigenes Gebet um Vergebung und Neuanfang.
 > Vers 19 steht nicht im Widerspruch zu Vers 16: Wenn das Herz in Ordnung ist, dann gefallen Gott auch die Opfer wieder.
 > Psalm 51 zeigt: Auch nach schwerster Schuld gibt es einen Weg zurück zu Gott. Nicht durch Ausreden, sondern durch ehrliches Bekenntnis und Vertrauen auf Gottes Erbarmen.
+
+## Psalm 52
+#### Wie ein grüner Ölbaum
+
+---
+
+### Warum rühmst du dich des Bösen? (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Lehrgedicht von David,
+als Doëg, der Edomiter, kam und Saul berichtete:
+„David ist in das Haus Ahimelechs gekommen.“
+Warum rühmst du dich der Bosheit, du Gewaltiger?
+Die Güte Gottes bleibt allezeit.
+<sup>2</sup>Deine Zunge plant Verderben
+wie ein scharfes Schermesser, du Betrüger.
+<sup>3</sup>Du liebst das Böse mehr als das Gute,
+die Lüge mehr als das Reden der Wahrheit.
+Sela.
+<sup>4</sup>Du liebst alle Worte, die verschlingen,
+du falsche Zunge.
+<sup>5</sup>So wird auch Gott dich für immer zerstören.
+Er wird dich packen und aus deinem Zelt reißen
+und dich aus dem Land der Lebenden entwurzeln.
+Sela.
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an eine schreckliche Geschichte: David war auf der Flucht vor Saul. Der Priester Ahimelech gab ihm Brot. Doëg, ein Mann aus Edom, verriet das an Saul. Daraufhin ließ Saul 85 Priester töten, und Doëg führte den Mord aus (1. Samuel 21–22).
+> Doëg ist ein Beispiel für einen Menschen, der mit seiner Zunge Unheil anrichtet. Seine Worte sind wie ein scharfes Rasiermesser.
+> Vers 1: Mitten in dieser Anklage steht ein starker Satz: „Die Güte Gottes bleibt allezeit.“ Die Bosheit ist mächtig, aber Gottes Güte ist stärker und hält länger.
+
+---
+
+### Wie ein grüner Ölbaum (Vers 6–9)
+
+<sup>6</sup>Auch die Gerechten werden es sehen und sich fürchten
+und über ihn lachen und sagen:
+<sup>7</sup>„Schau, das ist der Mann, der Gott nicht zu seiner Stärke machte,
+sondern auf die Fülle seines Reichtums vertraute
+und sich in seiner Bosheit stark machte.“
+<sup>8</sup>Ich aber bin wie ein grüner Ölbaum im Haus Gottes.
+Ich vertraue auf die Güte Gottes für immer und ewig.
+<sup>9</sup>Ich will dir danken für immer, denn du hast es getan.
+Ich will auf deinen Namen hoffen, denn er ist gut,
+vor deinen Frommen.
+
+> **Was bedeutet das?**
+> Der Böse wird „entwurzelt“ (Vers 5). Der Gerechte dagegen ist wie ein Ölbaum, der fest im Boden wurzelt und grün bleibt.
+> Ölbäume werden sehr alt, manche über tausend Jahre. Sie sind ein Bild für Beständigkeit und Segen.
+> „Im Haus Gottes“: Im Tempelbereich wuchsen vielleicht Bäume. Wer nah bei Gott lebt, bleibt lebendig und fruchtbar (vgl. Psalm 1,3).
+
+## Psalm 53
+#### Der Tor sagt: Es gibt keinen Gott
+
+---
+
+### Keiner tut Gutes (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Mahalat“. Ein Lehrgedicht von David.
+Der Tor sagt in seinem Herzen: „Es gibt keinen Gott.“
+Sie sind verdorben und haben abscheuliches Unrecht getan.
+Es gibt keinen, der Gutes tut.
+<sup>2</sup>Gott schaut vom Himmel herab auf die Menschenkinder,
+um zu sehen, ob einer verständig ist,
+ob einer nach Gott fragt.
+<sup>3</sup>Jeder von ihnen ist abgewichen.
+Sie sind alle zusammen verdorben.
+Es gibt keinen, der Gutes tut, auch nicht einen.
+
+> **Was bedeutet das?**
+> Psalm 53 ist fast gleich wie Psalm 14 (siehe dort). Der Unterschied: Hier steht immer „Gott“ (Elohim), in Psalm 14 meistens „HERR“. Das passt zum zweiten Psalmenbuch, das meistens „Gott“ sagt.
+> Dass derselbe Psalm zweimal vorkommt, zeigt: Das Buch der Psalmen ist aus verschiedenen älteren Sammlungen zusammengewachsen.
+> „Mahalat“: vielleicht eine Melodie oder ein Instrument. Die Bedeutung ist unsicher; manche denken an „Krankheit“ oder „Reigentanz“.
+
+---
+
+### Sie fürchteten sich, wo nichts zu fürchten war (Vers 4–6)
+
+<sup>4</sup>Haben alle, die Unrecht tun, keine Einsicht,
+die mein Volk fressen, wie man Brot isst,
+und Gott nicht anrufen?
+<sup>5</sup>Dort gerieten sie in große Furcht, wo nichts zu fürchten war,
+denn Gott hat die Knochen dessen zerstreut, der gegen dich lagert.
+Du hast sie beschämt, weil Gott sie verworfen hat.
+<sup>6</sup>Ach, käme doch aus Zion die Rettung für Israel!
+Wenn Gott sein Volk aus der Gefangenschaft zurückbringt,
+dann wird Jakob jubeln und Israel sich freuen.
+
+> **Was bedeutet das?**
+> Vers 5 ist anders als Psalm 14,5–6. Hier geht es um ein feindliches Heer, das Jerusalem belagert. Plötzlich bekommen die Feinde Angst, obwohl kein Grund dafür zu sehen ist. Gott hat sie in die Flucht geschlagen. Ihre Knochen liegen zerstreut auf dem Feld.
+> Vers 6: Die englische Vorlage sagt hier „aus der Gefangenschaft zurückbringt“. Das hebräische Wort kann auch heißen „das Geschick wenden“ (vgl. Psalm 14,7).
+
+## Psalm 54
+#### Gott ist mein Helfer
+
+---
+
+### Rette mich, Gott (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten. Ein Lehrgedicht von David,
+als die Sifiter kamen und zu Saul sagten:
+„Versteckt sich David nicht bei uns?“
+Rette mich, Gott, durch deinen Namen!
+Verschaff mir Recht durch deine Macht!
+<sup>2</sup>Hör mein Gebet, Gott!
+Achte auf die Worte meines Mundes!
+<sup>3</sup>Denn Fremde sind gegen mich aufgestanden.
+Gewalttätige trachten mir nach dem Leben.
+Sie haben Gott nicht vor Augen.
+Sela.
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert daran, wie die Leute aus der Stadt Sif David an Saul verrieten, als er sich bei ihnen versteckte (1. Samuel 23,19; 26,1).
+> David ist verraten, umzingelt und in Lebensgefahr. Er hat nur noch eine Hoffnung: Gott.
+> „Durch deinen Namen“: Gottes Name steht für Gott selbst, für seine Macht und Treue.
+
+---
+
+### Gott ist mein Helfer (Vers 4–7)
+
+<sup>4</sup>Schau, Gott ist mein Helfer.
+Der Herr ist es, der meine Seele erhält.
+<sup>5</sup>Er wird das Böse auf meine Feinde zurückfallen lassen.
+Vernichte sie in deiner Treue!
+<sup>6</sup>Mit einem freiwilligen Opfer will ich dir opfern.
+Ich will deinen Namen preisen, HERR, denn er ist gut.
+<sup>7</sup>Denn er hat mich aus aller Not gerettet.
+Mein Auge hat den Triumph über meine Feinde gesehen.
+
+> **Was bedeutet das?**
+> Vers 4 ist die Wende: „Schau, Gott ist mein Helfer!“ Mitten in der Gefahr erkennt David: Ich bin nicht allein.
+> Vers 5: David bittet, dass das Böse der Feinde auf sie selbst zurückfällt. Er nimmt nicht selbst Rache. Tatsächlich hat David Saul später zweimal verschont (1. Samuel 24 und 26).
+> Vers 6: Ein „freiwilliges Opfer“ ist ein Dankopfer, das man aus Freude bringt, nicht aus Pflicht.
+
+## Psalm 55
+#### Verraten von einem Freund
+
+---
+
+### Hätte ich Flügel wie eine Taube (Vers 1–8)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten. Ein Lehrgedicht von David.
+Hör mein Gebet, Gott!
+Verbirg dich nicht vor meinem Flehen!
+<sup>2</sup>Achte auf mich und antworte mir!
+Ich bin ruhelos in meiner Klage und stöhne
+<sup>3</sup>wegen der Stimme des Feindes,
+wegen der Unterdrückung durch den Gottlosen.
+Denn sie bringen Leid über mich.
+Im Zorn tragen sie mir etwas nach.
+<sup>4</sup>Mein Herz zittert in mir.
+Todesschrecken haben mich überfallen.
+<sup>5</sup>Furcht und Zittern sind über mich gekommen.
+Grauen hat mich überwältigt.
+<sup>6</sup>Ich sagte: „Ach, hätte ich Flügel wie eine Taube!
+Dann würde ich wegfliegen und Ruhe finden.
+<sup>7</sup>Schau, dann würde ich weit weg fliehen.
+Ich würde in der Wüste übernachten.“
+Sela.
+<sup>8</sup>„Ich würde schnell einen Zufluchtsort suchen
+vor dem Sturmwind und dem Unwetter.“
+
+> **Was bedeutet das?**
+> Der Beter hat Todesangst. Er ist so erschöpft, dass er nur noch weg will.
+> Vers 6: „Hätte ich Flügel wie eine Taube!“: Einfach wegfliegen, alles hinter sich lassen und Ruhe finden. Viele Menschen kennen diesen Wunsch in schweren Zeiten.
+> Der Komponist Felix Mendelssohn hat diesen Vers vertont: „O für Flügel einer Taube“.
+> Wenn dieser Wunsch zur Sehnsucht wird, gar nicht mehr da zu sein: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
+
+---
+
+### Gewalt in der Stadt (Vers 9–11)
+
+<sup>9</sup>Verwirre sie, Herr, und zerteile ihre Sprache,
+denn ich habe Gewalt und Streit in der Stadt gesehen.
+<sup>10</sup>Tag und Nacht ziehen sie auf ihren Mauern umher.
+Bosheit und Unheil sind auch in ihr.
+<sup>11</sup>Zerstörerische Mächte sind in ihr.
+Drohungen und Lügen weichen nicht von ihren Straßen.
+
+> **Was bedeutet das?**
+> Die Stadt, die eigentlich ein Ort der Sicherheit sein sollte, ist voller Gewalt, Unrecht und Lügen.
+> Vers 9: „Zerteile ihre Sprache“: Das erinnert an den Turmbau zu Babel (1. Mose 11). Wenn die Bösen sich nicht mehr verstehen, können sie ihre Pläne nicht ausführen.
+
+---
+
+### Es war mein Freund (Vers 12–15)
+
+<sup>12</sup>Denn nicht ein Feind war es, der mich beschimpfte,
+das hätte ich ertragen können.
+Und nicht einer, der mich hasste, hat sich gegen mich erhoben,
+vor dem hätte ich mich verstecken können.
+<sup>13</sup>Sondern du warst es, ein Mensch wie ich,
+mein Gefährte und mein vertrauter Freund.
+<sup>14</sup>Wir hatten süße Gemeinschaft miteinander.
+Wir gingen mit der Menge ins Haus Gottes.
+<sup>15</sup>Der Tod soll plötzlich über sie kommen.
+Sie sollen lebendig ins Totenreich hinabfahren.
+Denn Bosheit ist bei ihnen, in ihrer Wohnung.
+
+> **Was bedeutet das?**
+> Das ist der tiefste Schmerz in diesem Psalm: Der Verrat kommt nicht von einem Feind, sondern von einem engen Freund. Jemand, mit dem man gebetet und Gottesdienst gefeiert hat.
+> Manche denken an Ahitofel, Davids Berater, der zu Abschalom überlief (2. Samuel 15,12.31). Christen denken auch an Judas, der Jesus verriet.
+> Vers 15 ist ein Fluch aus tiefem Schmerz. Er erinnert an die Rotte Korach, die lebendig von der Erde verschlungen wurde (4. Mose 16,30–33). Der Beter sagt Gott seinen Zorn, statt selbst Rache zu nehmen. Jesus zeigt später einen anderen Weg: Er betet für seine Feinde (Lukas 23,34).
+
+---
+
+### Abends, morgens und mittags (Vers 16–21)
+
+<sup>16</sup>Ich aber rufe zu Gott,
+und der HERR wird mich retten.
+<sup>17</sup>Abends, morgens und mittags will ich klagen und stöhnen,
+und er wird meine Stimme hören.
+<sup>18</sup>Er hat meine Seele in Frieden erlöst aus dem Kampf, der gegen mich war,
+obwohl viele gegen mich sind.
+<sup>19</sup>Gott, der seit Ewigkeit thront, wird hören und ihnen antworten.
+Sela.
+Sie ändern sich nie und fürchten Gott nicht.
+<sup>20</sup>Er erhebt seine Hände gegen seine Freunde.
+Er hat seinen Bund gebrochen.
+<sup>21</sup>Sein Mund war glatt wie Butter,
+aber sein Herz war Krieg.
+Seine Worte waren weicher als Öl,
+und doch waren sie gezogene Schwerter.
+
+> **Was bedeutet das?**
+> Vers 17: Dreimal am Tag beten: abends, morgens und mittags. So betete später auch Daniel (Daniel 6,11). Juden beten bis heute dreimal am Tag. Im jüdischen Kalender beginnt der Tag am Abend.
+> Vers 21: Ein treffendes Bild für einen falschen Freund: Seine Worte sind weich wie Butter, aber dahinter verbirgt sich ein Schwert.
+
+---
+
+### Wirf dein Anliegen auf den HERRN (Vers 22–23)
+
+<sup>22</sup>Wirf deine Last auf den HERRN, und er wird dich versorgen.
+Er wird niemals zulassen, dass der Gerechte wankt.
+<sup>23</sup>Du aber, Gott, wirst sie in die Grube des Verderbens hinabstürzen.
+Blutgierige und betrügerische Menschen werden nicht die Hälfte ihrer Tage erleben.
+Ich aber vertraue auf dich.
+
+> **Was bedeutet das?**
+> Vers 22 ist einer der bekanntesten Trostverse der Bibel: „Wirf deine Last auf den HERRN.“ Petrus greift ihn auf: „Alle eure Sorge werft auf ihn, denn er sorgt für euch“ (1. Petrus 5,7).
+> Der Psalm endet mit einem einfachen Satz: „Ich aber vertraue auf dich.“ Trotz Verrat und Gewalt hält der Beter an Gott fest.
+
+## Psalm 56
+#### Wenn ich mich fürchte, vertraue ich auf dich
+
+---
+
+### Wenn ich Angst habe (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Stumme Taube in fernen Ländern“.
+Ein Gedicht von David, als die Philister ihn in Gat ergriffen.
+Sei mir gnädig, Gott, denn ein Mensch will mich verschlingen.
+Den ganzen Tag greift er mich an und bedrängt mich.
+<sup>2</sup>Meine Feinde wollen mich den ganzen Tag verschlingen,
+denn viele kämpfen hochmütig gegen mich.
+<sup>3</sup>Wenn ich Angst habe,
+setze ich mein Vertrauen auf dich.
+<sup>4</sup>In Gott lobe ich sein Wort.
+Auf Gott vertraue ich. Ich fürchte mich nicht.
+Was kann mir ein Mensch aus Fleisch tun?
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an Davids Flucht nach Gat zu den Philistern (1. Samuel 21,11–16; vgl. Psalm 34).
+> „Stumme Taube in fernen Ländern“: der Name einer Melodie. Er passt zu David: weit weg von zu Hause, schutzlos wie eine Taube.
+> Vers 3 ist ganz einfach und ehrlich: „Wenn ich Angst habe, vertraue ich auf dich.“ Glaube heißt nicht, nie Angst zu haben. Glaube heißt, mit der Angst zu Gott zu gehen.
+> Vers 4: „Was kann mir ein Mensch tun?“ Menschen können viel Schaden anrichten, aber sie haben nicht das letzte Wort.
+
+---
+
+### Du sammelst meine Tränen (Vers 5–9)
+
+<sup>5</sup>Den ganzen Tag verdrehen sie meine Worte.
+Alle ihre Gedanken sind gegen mich, zum Bösen.
+<sup>6</sup>Sie verschwören sich und lauern.
+Sie beobachten meine Schritte.
+Sie wollen mir das Leben nehmen.
+<sup>7</sup>Sollen sie durch Unrecht entkommen?
+Wirf die Völker im Zorn nieder, Gott!
+<sup>8</sup>Du zählst die Wege meiner Flucht.
+Du sammelst meine Tränen in deinem Krug.
+Stehen sie nicht in deinem Buch?
+<sup>9</sup>Dann werden meine Feinde zurückweichen an dem Tag, an dem ich rufe.
+Das weiß ich: Gott ist für mich.
+
+> **Was bedeutet das?**
+> Vers 8 ist eines der zärtlichsten Bilder in der Bibel: Gott sammelt jede Träne in einem Krug. Er schreibt sie in sein Buch. Keine Träne ist vergessen. Gott weiß genau, wie oft und wie sehr wir gelitten haben.
+> Vers 9: „Gott ist für mich.“ Paulus sagt später: „Ist Gott für uns, wer kann gegen uns sein?“ (Römer 8,31).
+
+---
+
+### Was kann mir ein Mensch tun? (Vers 10–13)
+
+<sup>10</sup>In Gott lobe ich sein Wort.
+Im HERRN lobe ich sein Wort.
+<sup>11</sup>Auf Gott habe ich mein Vertrauen gesetzt. Ich fürchte mich nicht.
+Was kann ein Mensch mir tun?
+<sup>12</sup>Deine Gelübde liegen auf mir, Gott.
+Ich will dir Dankopfer bringen.
+<sup>13</sup>Denn du hast meine Seele vom Tod gerettet
+und meine Füße vor dem Fallen bewahrt,
+damit ich vor Gott wandle im Licht der Lebenden.
+
+> **Was bedeutet das?**
+> Vers 10–11 wiederholen den Kehrvers von Vers 4.
+> Vers 12: David hatte Gott in der Not etwas versprochen. Jetzt will er sein Versprechen halten und Gott danken.
+> „Im Licht der Lebenden“: Gott hat David vor dem Tod bewahrt, damit er leben und Gott dienen kann.
