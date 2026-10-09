@@ -62373,3 +62373,268 @@ und tat alles, was Ester ihm geboten hatte.
 > Ester entscheidet sich. Aus der stillen jungen Frau, die immer auf andere gehört hat, wird eine mutige Anführerin. Jetzt gibt sie Mordechai Anweisungen.
 > Sie bittet alle, für sie zu fasten. Fasten bedeutet in der Bibel immer, Gott um Hilfe zu bitten. Auch wenn Gott nicht genannt wird, ist klar: Ester sucht Gottes Hilfe.
 > „Wenn ich umkomme, dann komme ich um.“ Ester setzt ihr Leben für ihr Volk ein. Das ist wahrer Mut: Man hat Angst und tut trotzdem das Richtige.
+
+## Ester – Kapitel 5
+#### Ester geht zum König
+
+---
+
+### Das goldene Zepter (Vers 1–4)
+
+<sup>1</sup>Am dritten Tag zog Ester ihre königlichen Kleider an
+und trat in den inneren Hof des Hauses des Königs,
+gegenüber dem Haus des Königs.
+Der König saß auf seinem königlichen Thron im königlichen Haus,
+gegenüber dem Eingang des Hauses.
+<sup>2</sup>Als der König die Königin Ester im Hof stehen sah,
+fand sie Gunst in seinen Augen.
+Und der König streckte Ester das goldene Zepter entgegen,
+das in seiner Hand war.
+Da trat Ester heran und berührte die Spitze des Zepters.
+<sup>3</sup>Dann fragte der König sie:
+„Was möchtest du, Königin Ester?
+Was ist deine Bitte?
+Bis zur Hälfte des Königreichs soll sie dir gewährt werden.“
+<sup>4</sup>Ester sagte:
+„Wenn es dem König gefällt,
+soll der König heute mit Haman zu dem Festmahl kommen,
+das ich für ihn vorbereitet habe.“
+
+> **Was bedeutet das?**
+> Nach drei Tagen Fasten wagt Ester den Schritt. Sie zieht ihre königlichen Kleider an und tritt vor den König, ungerufen, unter Lebensgefahr.
+> Der König streckt ihr das Zepter entgegen. Sie darf leben! Das Fasten und Beten ist erhört. Auch hier wird Gott nicht genannt, aber der Leser spürt, wer dahintersteht.
+> „Bis zur Hälfte des Königreichs“ war eine übliche Redensart. Sie bedeutet: Ich bin dir sehr wohlgesinnt (vgl. Markus 6,23).
+> Ester ist klug. Sie sagt ihre eigentliche Bitte nicht sofort. Sie lädt erst einmal zu einem Festmahl ein.
+
+---
+
+### Das erste Festmahl (Vers 5–8)
+
+<sup>5</sup>Da sagte der König:
+„Holt schnell Haman,
+damit wir tun, was Ester gesagt hat.“
+So kamen der König und Haman zu dem Festmahl, das Ester vorbereitet hatte.
+<sup>6</sup>Beim Weingelage sagte der König zu Ester:
+„Was ist dein Wunsch? Er soll dir gewährt werden.
+Was ist deine Bitte?
+Bis zur Hälfte des Königreichs soll sie erfüllt werden.“
+<sup>7</sup>Da antwortete Ester:
+„Mein Wunsch und meine Bitte ist dies:
+<sup>8</sup>Wenn ich Gunst gefunden habe in den Augen des Königs,
+und wenn es dem König gefällt, meinen Wunsch zu gewähren und meine Bitte zu erfüllen,
+dann soll der König mit Haman zu dem Festmahl kommen,
+das ich für sie vorbereiten werde.
+Und morgen will ich tun, was der König gesagt hat.“
+
+> **Was bedeutet das?**
+> Ester zögert ihre Bitte noch einmal hinaus. Warum? Vielleicht wartet sie auf den richtigen Moment. Vielleicht will sie den König neugierig machen.
+> Diese Verzögerung ist entscheidend. Denn in der Nacht dazwischen geschieht etwas Unerwartetes (Kapitel 6). Was wie Zögern aussieht, ist Teil eines größeren Plans.
+
+---
+
+### Hamans Stolz und Hass (Vers 9–14)
+
+<sup>9</sup>Haman ging an diesem Tag fröhlich und guter Dinge hinaus.
+Aber als Haman Mordechai im Tor des Königs sah,
+und dass er nicht aufstand und sich nicht vor ihm regte,
+wurde Haman voller Zorn gegen Mordechai.
+<sup>10</sup>Doch Haman beherrschte sich
+und ging nach Hause.
+Dort ließ er seine Freunde und seine Frau Seresch holen.
+<sup>11</sup>Haman erzählte ihnen von der Herrlichkeit seines Reichtums,
+von der Menge seiner Söhne
+und von allem, womit der König ihn groß gemacht hatte,
+und wie er ihn über die Fürsten und Diener des Königs erhoben hatte.
+<sup>12</sup>Und Haman sagte:
+„Auch die Königin Ester hat niemanden mit dem König zu dem Festmahl kommen lassen,
+das sie vorbereitet hatte, außer mich.
+Und auch morgen bin ich von ihr eingeladen, zusammen mit dem König.
+<sup>13</sup>Aber all das nützt mir nichts,
+solange ich Mordechai, den Juden, im Tor des Königs sitzen sehe.“
+<sup>14</sup>Da sagten seine Frau Seresch und alle seine Freunde zu ihm:
+„Man soll einen Galgen machen, 22,5 Meter hoch.
+Und am Morgen sprich mit dem König,
+dass man Mordechai daran aufhängt.
+Dann geh fröhlich mit dem König zum Festmahl.“
+Der Vorschlag gefiel Haman,
+und er ließ den Galgen machen.
+
+> **Was bedeutet das?**
+> Haman hat alles: Reichtum, viele Söhne, Macht, Ehre. Aber ein einziger Mann, der sich nicht vor ihm verneigt, macht ihm alles kaputt. Das ist das Wesen von Stolz und Hass: Sie lassen einen Menschen nie zufrieden sein.
+> „Hochmut kommt vor dem Fall“ (Sprüche 16,18). Haman ist auf dem Gipfel seines Stolzes. Gleich wird er fallen.
+> In der Bibel steht „50 Ellen“. Eine Elle sind etwa 45 Zentimeter. Das ist so hoch wie ein Haus mit sieben Stockwerken. Die ganze Stadt sollte sehen, wie Mordechai bestraft wird. Vielleicht ist die Zahl auch übertrieben erzählt, um Hamans maßlosen Hass zu zeigen.
+
+## Ester – Kapitel 6
+#### Eine schlaflose Nacht
+
+---
+
+### Der König kann nicht schlafen (Vers 1–3)
+
+<sup>1</sup>In dieser Nacht konnte der König nicht schlafen.
+Er ließ das Buch der Denkwürdigkeiten, die Chroniken, bringen,
+und man las sie dem König vor.
+<sup>2</sup>Da fand man geschrieben,
+dass Mordechai Bigtana und Teresch angezeigt hatte,
+die beiden Kämmerer des Königs, die die Tür bewachten
+und Hand an den König Ahasveros hatten legen wollen.
+<sup>3</sup>Der König sagte:
+„Welche Ehre und Auszeichnung hat Mordechai dafür bekommen?“
+Die Diener des Königs, die ihm dienten, sagten:
+„Es ist nichts für ihn getan worden.“
+
+> **Was bedeutet das?**
+> Das ist der Wendepunkt der ganzen Geschichte. Und er beginnt mit etwas ganz Kleinem: Der König kann nicht schlafen.
+> Warum gerade in dieser Nacht? Warum lässt er sich gerade dieses Buch vorlesen? Warum gerade diese Stelle? Die Bibel sagt es nicht. Aber der Leser merkt: Das ist kein Zufall. Hier lenkt Gott im Verborgenen.
+> Jüdische Ausleger sagen: Nicht nur der König konnte nicht schlafen, sondern „der König der Welt“, also Gott, „schläft und schlummert nicht“ (Psalm 121,4).
+> Mordechais gute Tat aus Kapitel 2 schien vergessen. Jetzt, genau im richtigen Moment, kommt sie ans Licht.
+
+---
+
+### Haman ehrt Mordechai (Vers 4–11)
+
+<sup>4</sup>Der König sagte:
+„Wer ist im Hof?“
+Haman war gerade in den äußeren Hof des Hauses des Königs gekommen,
+um mit dem König darüber zu reden,
+Mordechai an den Galgen zu hängen, den er für ihn vorbereitet hatte.
+<sup>5</sup>Die Diener des Königs sagten zu ihm:
+„Schau, Haman steht im Hof.“
+Der König sagte:
+„Er soll hereinkommen.“
+<sup>6</sup>Da kam Haman herein.
+Der König sagte zu ihm:
+„Was soll man mit dem Mann tun,
+den der König gern ehren möchte?“
+Haman dachte in seinem Herzen:
+„Wen würde der König lieber ehren wollen als mich?“
+<sup>7</sup>Haman sagte zum König:
+„Für den Mann, den der König gern ehren möchte,
+<sup>8</sup>soll man ein königliches Gewand bringen, das der König selbst getragen hat,
+und das Pferd, auf dem der König reitet
+und auf dessen Kopf eine königliche Krone gesetzt ist.
+<sup>9</sup>Das Gewand und das Pferd soll man einem der vornehmsten Fürsten des Königs übergeben.
+Man soll den Mann, den der König gern ehren möchte, damit bekleiden
+und ihn auf dem Pferd über den Platz der Stadt reiten lassen
+und vor ihm ausrufen:
+‚So geschieht es dem Mann, den der König gern ehren möchte!‘“
+<sup>10</sup>Da sagte der König zu Haman:
+„Beeil dich, nimm das Gewand und das Pferd, wie du gesagt hast,
+und tu das für Mordechai, den Juden, der im Tor des Königs sitzt!
+Lass nichts aus von allem, was du gesagt hast!“
+<sup>11</sup>Da nahm Haman das Gewand und das Pferd,
+bekleidete Mordechai
+und ließ ihn über den Platz der Stadt reiten
+und rief vor ihm aus:
+„So geschieht es dem Mann, den der König gern ehren möchte!“
+
+> **Was bedeutet das?**
+> Das ist eine der großartigsten Szenen der Bibel, voller Ironie.
+> Haman kommt mitten in der Nacht oder früh am Morgen, um Mordechais Tod zu fordern. Der König fragt ihn, wie man jemanden ehren soll. Haman denkt, er selbst ist gemeint, und denkt sich die größte Ehre aus.
+> Dann der Schock: Er muss diese Ehre selbst seinem Erzfeind erweisen! Er muss Mordechai durch die Stadt führen und rufen: „So geschieht es dem Mann, den der König ehren möchte!“
+> Hier zeigt sich, was Jesus später sagt: „Wer sich selbst erhöht, wird erniedrigt werden; und wer sich selbst erniedrigt, wird erhöht werden“ (Lukas 14,11).
+
+---
+
+### Hamans Fall beginnt (Vers 12–14)
+
+<sup>12</sup>Mordechai kehrte zum Tor des Königs zurück.
+Haman aber eilte nach Hause,
+trauernd und mit verhülltem Kopf.
+<sup>13</sup>Haman erzählte seiner Frau Seresch und allen seinen Freunden alles,
+was ihm begegnet war.
+Da sagten seine weisen Männer und seine Frau Seresch zu ihm:
+„Wenn Mordechai, vor dem du angefangen hast zu fallen,
+aus dem Volk der Juden stammt,
+dann wirst du nichts gegen ihn ausrichten,
+sondern du wirst ganz sicher vor ihm fallen.“
+<sup>14</sup>Während sie noch mit ihm redeten,
+kamen die Kämmerer des Königs
+und brachten Haman eilig zu dem Festmahl, das Ester vorbereitet hatte.
+
+> **Was bedeutet das?**
+> Mordechai geht still zurück an seine Arbeit. Er lässt sich nicht von der Ehre blenden.
+> Haman dagegen geht nach Hause wie ein Trauernder.
+> Erstaunlich: Selbst Hamans Frau und seine Berater erkennen jetzt, dass man gegen das jüdische Volk nicht gewinnen kann. Sie spüren, dass eine höhere Macht im Spiel ist.
+> Haman hat keine Zeit, sich zu sammeln. Er wird sofort zum Festmahl geholt.
+
+## Ester – Kapitel 7
+#### Haman wird entlarvt
+
+---
+
+### Esters Bitte (Vers 1–4)
+
+<sup>1</sup>So kamen der König und Haman, um mit der Königin Ester zu trinken.
+<sup>2</sup>Und der König sagte auch am zweiten Tag beim Weingelage zu Ester:
+„Was ist dein Wunsch, Königin Ester? Er soll dir gewährt werden.
+Was ist deine Bitte?
+Bis zur Hälfte des Königreichs soll sie erfüllt werden.“
+<sup>3</sup>Da antwortete die Königin Ester:
+„Wenn ich Gunst gefunden habe in deinen Augen, König,
+und wenn es dem König gefällt,
+dann soll mir mein Leben geschenkt werden – das ist mein Wunsch –
+und mein Volk – das ist meine Bitte.
+<sup>4</sup>Denn wir sind verkauft, ich und mein Volk,
+um vertilgt, getötet und umgebracht zu werden.
+Wenn wir nur als Sklaven und Sklavinnen verkauft worden wären,
+hätte ich geschwiegen.
+Obwohl der Feind den Schaden des Königs nicht hätte ersetzen können.“
+
+> **Was bedeutet das?**
+> Endlich spricht Ester. Und sie spricht sehr klug:
+> – Sie bittet zuerst um ihr eigenes Leben. Der König liebt sie. Das berührt ihn persönlich.
+> – Dann bittet sie um ihr Volk. Zum ersten Mal gibt sie zu erkennen, dass sie Jüdin ist.
+> – Sie benutzt genau die Worte aus dem Mordbefehl: „vertilgt, getötet, umgebracht“ (Kapitel 3,13).
+> – „Wir sind verkauft“: Sie erinnert an das Geld, das Haman angeboten hatte.
+> Der letzte Satz ist schwer zu verstehen. Gemeint ist wohl: Sklaverei wäre schlimm gewesen, aber dafür hätte ich den König nicht gestört. Aber hier geht es um Leben und Tod.
+
+---
+
+### „Dieser böse Haman!“ (Vers 5–6)
+
+<sup>5</sup>Da sagte der König Ahasveros zur Königin Ester:
+„Wer ist das, und wo ist der,
+der es gewagt hat, so etwas in seinem Herzen zu planen?“
+<sup>6</sup>Ester sagte:
+„Ein Feind und Gegner:
+dieser böse Haman!“
+Da erschrak Haman vor dem König und der Königin.
+
+> **Was bedeutet das?**
+> Der König hatte den Befehl selbst gesiegelt, aber er hatte nicht einmal gefragt, welches Volk gemeint war (Kapitel 3,10–11). Jetzt erfährt er: Es ist das Volk seiner eigenen Königin!
+> Ester zeigt auf Haman. Der Mächtige ist plötzlich entlarvt.
+
+---
+
+### Hamans Ende (Vers 7–10)
+
+<sup>7</sup>Der König stand in seinem Zorn vom Weingelage auf
+und ging in den Garten des Palastes.
+Haman aber stand auf, um bei der Königin Ester um sein Leben zu bitten.
+Denn er sah, dass der König beschlossen hatte, ihn unglücklich zu machen.
+<sup>8</sup>Als der König aus dem Garten des Palastes zurückkam,
+in den Raum des Weingelages,
+war Haman auf das Polster gefallen, auf dem Ester lag.
+Da sagte der König:
+„Will er auch noch der Königin Gewalt antun, vor meinen Augen, im Haus?“
+Als das Wort aus dem Mund des Königs kam,
+verhüllte man Hamans Gesicht.
+<sup>9</sup>Da sagte Harbona, einer der Kämmerer, die beim König waren:
+„Schau, der Galgen, 22,5 Meter hoch,
+den Haman für Mordechai gemacht hat,
+der doch zum Wohl des Königs geredet hat,
+steht beim Haus Hamans.“
+Der König sagte:
+„Hängt ihn daran!“
+<sup>10</sup>So hängte man Haman an den Galgen,
+den er für Mordechai vorbereitet hatte.
+Da legte sich der Zorn des Königs.
+
+> **Was bedeutet das?**
+> Der König geht hinaus. Vielleicht muss er nachdenken. Er hat ja selbst den Befehl gegeben.
+> Haman fällt vor Ester nieder und bittet um Gnade. Damals lag man beim Essen auf Polstern. Als der König zurückkommt, deutet er die Szene falsch, oder er will sie falsch deuten. So hat er einen Grund, Haman zu verurteilen.
+> „Man verhüllte sein Gesicht“: Das war wohl ein Zeichen, dass jemand zum Tod verurteilt war.
+> Der Kämmerer Harbona weist auf den Galgen hin (er wurde schon in Kapitel 1,10 genannt).
+> Die große Ironie: Haman stirbt an dem Galgen, den er für Mordechai gebaut hat. „Wer eine Grube gräbt, fällt selbst hinein“ (Sprüche 26,27; Psalm 7,16).
+> Aber die Gefahr ist noch nicht vorbei. Der Befehl zur Vernichtung der Juden gilt noch. Und ein persisches Gesetz kann nicht zurückgenommen werden (Kapitel 8).
