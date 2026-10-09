@@ -66955,3 +66955,323 @@ Wo Erschlagene sind, da ist er.“
 > Der Adler baut sein Nest hoch oben in den Felsen. Er sieht seine Beute aus großer Entfernung.
 > Vers 30 zeigt auch die harte Seite der Natur: Tiere fressen andere Tiere. Gott verschweigt das nicht. Auch das gehört zu seiner Schöpfung, die der Mensch nicht ganz versteht.
 > Jesus greift das Bild auf: „Wo das Aas ist, da sammeln sich die Geier“ (Matthäus 24,28).
+
+## Hiob – Kapitel 40
+#### Hiob verstummt – Gottes zweite Rede: der Behemot
+
+---
+
+### Hiob legt die Hand auf den Mund (Vers 1–5)
+
+<sup>1</sup>Weiter antwortete der HERR Hiob:
+<sup>2</sup>„Will der, der streitet, mit dem Allmächtigen rechten?
+Wer Gott anklagt, der soll darauf antworten!“
+<sup>3</sup>Da antwortete Hiob dem HERRN:
+<sup>4</sup>„Schau, ich bin zu gering.
+Was soll ich dir antworten?
+Ich lege meine Hand auf meinen Mund.
+<sup>5</sup>Einmal habe ich geredet, und ich will nicht mehr antworten,
+ja, zweimal, aber ich will nichts mehr hinzufügen.“
+
+> **Was bedeutet das?**
+> Gott fordert Hiob auf: Du wolltest mit mir streiten. Jetzt antworte!
+> Und Hiob, der so viel geredet hat, wird still. „Ich lege meine Hand auf meinen Mund“ ist eine Geste: Ich schweige. Ich habe nichts mehr zu sagen.
+> Hiob sagt nicht: Ich habe gesündigt. Er sagt: Ich bin zu klein. Er hat erkannt, wie groß Gott ist.
+> Aber das ist noch nicht das Ende. Gott redet ein zweites Mal.
+
+---
+
+### Willst du mein Recht brechen? (Vers 6–14)
+
+<sup>6</sup>Da antwortete der HERR Hiob aus dem Sturm:
+<sup>7</sup>„Gürte nun deine Lenden wie ein Mann!
+Ich will dich fragen, und du sollst mir antworten.
+<sup>8</sup>Willst du sogar mein Urteil aufheben?
+Willst du mich verurteilen, damit du gerecht dastehst?
+<sup>9</sup>Oder hast du einen Arm wie Gott?
+Kannst du mit einer Stimme donnern wie er?
+<sup>10</sup>Schmück dich doch mit Hoheit und Würde!
+Kleide dich mit Ehre und Majestät!
+<sup>11</sup>Gieß die Glut deines Zorns aus!
+Schau jeden Stolzen an und erniedrige ihn!
+<sup>12</sup>Schau jeden Stolzen an und demütige ihn!
+Zertritt die Gottlosen an ihrem Ort!
+<sup>13</sup>Verbirg sie alle zusammen im Staub!
+Binde ihre Gesichter im Verborgenen!
+<sup>14</sup>Dann will auch ich dir zugestehen,
+dass deine eigene rechte Hand dich retten kann.
+
+> **Was bedeutet das?**
+> Vers 8 ist der Kern von Gottes zweiter Rede: Hiob, um dich selbst gerecht zu sprechen, hast du mich ungerecht genannt. Das geht zu weit.
+> Gott sagt nicht, dass Hiob gesündigt hat und deshalb leidet. Aber er tadelt Hiob dafür, dass er Gott angeklagt hat.
+> Dann macht Gott ein Angebot mit Ironie: Setz dich doch auf meinen Thron! Mach du die Welt gerecht! Erniedrige alle Stolzen und Bösen!
+> Hiob hatte sich beklagt, dass Gott die Bösen nicht bestraft. Gott sagt: Versuch du es doch. Die Welt zu regieren ist schwerer, als du denkst.
+
+---
+
+### Der Behemot (Vers 15–24)
+
+<sup>15</sup>Sieh doch den Behemot an,
+den ich gemacht habe wie dich!
+Er frisst Gras wie ein Rind.
+<sup>16</sup>Schau doch, seine Kraft ist in seinen Hüften,
+seine Stärke in den Muskeln seines Bauches.
+<sup>17</sup>Er bewegt seinen Schwanz wie eine Zeder.
+Die Sehnen seiner Schenkel sind fest verflochten.
+<sup>18</sup>Seine Knochen sind wie Röhren aus Bronze.
+Seine Glieder sind wie Stangen aus Eisen.
+<sup>19</sup>Er ist der Erste der Wege Gottes.
+Der ihn gemacht hat, gibt ihm sein Schwert.
+<sup>20</sup>Gewiss, die Berge bringen ihm Futter hervor,
+wo alle Tiere des Feldes spielen.
+<sup>21</sup>Er liegt unter den Lotusbüschen,
+im Versteck des Schilfs und des Sumpfes.
+<sup>22</sup>Die Lotusbüsche bedecken ihn mit ihrem Schatten.
+Die Weiden am Bach umgeben ihn.
+<sup>23</sup>Schau, wenn ein Fluss über die Ufer tritt, zittert er nicht.
+Er ist zuversichtlich, auch wenn der Jordan bis an sein Maul anschwillt.
+<sup>24</sup>Kann ihn jemand fangen, wenn er wach ist,
+oder seine Nase mit einer Schlinge durchbohren?
+
+> **Was bedeutet das?**
+> „Behemot“ ist ein hebräisches Wort. Es ist die Mehrzahl von „Tier“, also so etwas wie „das Tier aller Tiere“, „das Riesentier“.
+> Welches Tier ist gemeint? Viele denken an das Nilpferd: Es frisst Gras, liegt im Sumpf unter Pflanzen und fürchtet keine Flut. Andere denken an den Elefanten. Wieder andere sehen darin ein mythisches Urwesen, ein Bild für die wilden, ungezähmten Kräfte der Welt.
+> Wichtig ist Vers 15: „den ich gemacht habe wie dich“. Der Behemot ist ein Geschöpf Gottes, genau wie Hiob. Auch das stärkste, wildeste Tier ist in Gottes Hand.
+> Vers 19: „Der Erste der Wege Gottes“: Ein Meisterwerk von Gottes Schöpfung.
+> Hinweis zur Zählung: In deutschen Bibeln (nach dem Hebräischen) hat Kapitel 40 insgesamt 32 Verse. Die Verse 25–32 dort entsprechen hier Kapitel 41,1–8.
+
+## Hiob – Kapitel 41
+#### Der Leviatan
+
+---
+
+### Kannst du den Leviatan fangen? (Vers 1–11)
+
+<sup>1</sup>„Kannst du den Leviatan mit einem Angelhaken herausziehen
+oder seine Zunge mit einer Schnur niederdrücken?
+<sup>2</sup>Kannst du ihm ein Seil durch die Nase ziehen
+oder seinen Kiefer mit einem Haken durchbohren?
+<sup>3</sup>Wird er dich lange anflehen
+oder sanfte Worte zu dir sprechen?
+<sup>4</sup>Wird er einen Bund mit dir schließen,
+dass du ihn für immer als Knecht nimmst?
+<sup>5</sup>Wirst du mit ihm spielen wie mit einem Vogel?
+Oder wirst du ihn für deine Mädchen anbinden?
+<sup>6</sup>Werden Händler um ihn feilschen?
+Werden sie ihn unter den Kaufleuten aufteilen?
+<sup>7</sup>Kannst du seine Haut mit Harpunen füllen
+oder seinen Kopf mit Fischspeeren?
+<sup>8</sup>Leg deine Hand an ihn!
+Denk an den Kampf, und du tust es nie wieder!
+<sup>9</sup>Schau, die Hoffnung auf ihn ist vergeblich.
+Wird man nicht schon bei seinem Anblick niedergeworfen?
+<sup>10</sup>Keiner ist so kühn, dass er ihn reizen würde.
+Wer ist es dann, der vor mir bestehen kann?
+<sup>11</sup>Wer hat mir zuerst etwas gegeben, dass ich es ihm vergelten müsste?
+Alles unter dem Himmel gehört mir.
+
+> **Was bedeutet das?**
+> Der Leviatan ist ein riesiges Seeungeheuer. Viele denken an das Krokodil (vgl. die Panzerschuppen in Vers 15–17). In alten Erzählungen des Orients steht der Leviatan aber auch für das Chaos, das Böse und die Mächte, die den Menschen bedrohen (vgl. Hiob 3,8; Psalm 74,14; Jesaja 27,1).
+> Gott fragt mit Humor: Kannst du den Leviatan angeln wie einen Fisch? Wird er dich um Gnade anflehen? Kannst du ihn als Haustier für deine Töchter an die Leine nehmen? Natürlich nicht!
+> Vers 8: Wer ihn einmal angreift, tut es nie wieder.
+> Vers 10–11 ist der Schluss: Wenn schon niemand vor dem Leviatan bestehen kann, wer kann dann vor Gott, seinem Schöpfer, bestehen? Gott ist niemandem etwas schuldig. Alles gehört ihm. Paulus zitiert diesen Gedanken in Römer 11,35.
+> Hinweis zur Zählung: In deutschen Bibeln stehen die Verse 1–8 dieses Kapitels als Kapitel 40,25–32. Danach sind die deutschen Versnummern um 8 kleiner (hier Vers 9 = deutsch 41,1).
+
+---
+
+### Sein Körper (Vers 12–17)
+
+<sup>12</sup>Ich will nicht schweigen über seine Glieder,
+noch über seine gewaltige Kraft, noch über seinen schönen Bau.
+<sup>13</sup>Wer kann ihm sein Oberkleid ausziehen?
+Wer kommt zwischen seine Kiefer?
+<sup>14</sup>Wer kann die Tore seines Gesichts öffnen?
+Rings um seine Zähne ist Schrecken.
+<sup>15</sup>Starke Schuppen sind sein Stolz,
+zusammengeschlossen mit festem Siegel.
+<sup>16</sup>Eine liegt so nah an der anderen,
+dass keine Luft dazwischen kommt.
+<sup>17</sup>Sie sind miteinander verbunden.
+Sie haften zusammen, sodass man sie nicht trennen kann.
+
+> **Was bedeutet das?**
+> Gott ist stolz auf sein Geschöpf. Er beschreibt den Leviatan wie ein Künstler sein Meisterwerk.
+> „Sein Oberkleid“ ist seine Haut, sein Panzer. „Die Tore seines Gesichts“ ist sein riesiges Maul.
+> Die Schuppen liegen so dicht, dass nichts durchkommt, keine Luft und keine Waffe.
+
+---
+
+### Feuer und Rauch (Vers 18–24)
+
+<sup>18</sup>Sein Niesen lässt Licht aufblitzen.
+Seine Augen sind wie die Wimpern der Morgenröte.
+<sup>19</sup>Aus seinem Maul fahren brennende Fackeln.
+Funken von Feuer springen heraus.
+<sup>20</sup>Aus seinen Nüstern geht Rauch hervor
+wie aus einem kochenden Topf über einem Feuer aus Schilf.
+<sup>21</sup>Sein Atem entzündet Kohlen.
+Eine Flamme geht aus seinem Maul.
+<sup>22</sup>In seinem Nacken wohnt Kraft.
+Schrecken tanzt vor ihm her.
+<sup>23</sup>Die Falten seines Fleisches haften zusammen.
+Sie sitzen fest an ihm. Sie lassen sich nicht bewegen.
+<sup>24</sup>Sein Herz ist fest wie ein Stein,
+ja, fest wie der untere Mühlstein.
+
+> **Was bedeutet das?**
+> Jetzt wird die Beschreibung immer gewaltiger: Feuer aus dem Maul, Rauch aus der Nase. Das ist dichterische Sprache, die das Furchterregende zeigen will. Man denkt an einen Drachen.
+> Vers 18: Wenn ein Krokodil im Sonnenlicht prustet, glitzert das Wasser. Seine Augen tauchen rötlich aus dem Wasser auf wie die Morgenröte.
+> Vers 24: Sein Herz ist hart wie Stein. Er kennt keine Angst und kein Mitleid.
+
+---
+
+### Keine Waffe hilft (Vers 25–34)
+
+<sup>25</sup>Wenn er sich erhebt, fürchten sich die Starken.
+Sie weichen zurück vor seinem Um-sich-Schlagen.
+<sup>26</sup>Wenn man ihn mit dem Schwert angreift, richtet es nichts aus,
+auch nicht der Speer, der Wurfpfeil oder der spitze Schaft.
+<sup>27</sup>Eisen hält er für Stroh
+und Bronze für morsches Holz.
+<sup>28</sup>Der Pfeil kann ihn nicht in die Flucht schlagen.
+Schleudersteine sind für ihn wie Spreu.
+<sup>29</sup>Keulen hält er für Stoppeln.
+Er lacht über das Sausen des Wurfspießes.
+<sup>30</sup>Seine Unterseite ist wie scharfe Tonscherben.
+Er hinterlässt eine Spur im Schlamm wie ein Dreschschlitten.
+<sup>31</sup>Er lässt die Tiefe kochen wie einen Topf.
+Er macht das Meer wie einen Topf mit Salbe.
+<sup>32</sup>Hinter sich lässt er einen leuchtenden Pfad.
+Man könnte meinen, die Tiefe hätte weißes Haar.
+<sup>33</sup>Auf der Erde gibt es nichts, was ihm gleicht,
+das ohne Furcht geschaffen ist.
+<sup>34</sup>Er sieht auf alles herab, was hoch ist.
+Er ist König über alle Söhne des Stolzes.“
+
+> **Was bedeutet das?**
+> Alle Waffen der Menschen sind gegen den Leviatan nutzlos: Schwert, Speer, Pfeil, Schleuder, Keule.
+> Vers 31–32: Wenn er durch das Meer schwimmt, schäumt das Wasser auf. Hinter ihm bleibt eine weiße Schaumspur, als hätte das Meer graue Haare bekommen.
+> Vers 34: Der Leviatan ist „König über alle Stolzen“. Das ist der Schlüssel: In Kapitel 40,11–12 hatte Gott Hiob herausgefordert, die Stolzen zu erniedrigen. Hiob kann nicht einmal den Leviatan bezwingen. Aber Gott hat ihn geschaffen und hat ihn in der Hand.
+> Die Botschaft der beiden Gottesreden: Die Welt ist voller wilder und gefährlicher Kräfte, die der Mensch nicht beherrscht. Aber Gott beherrscht sie. Hiob muss nicht alles verstehen. Er kann Gott vertrauen.
+> Gott hat Hiobs Frage nach dem Warum nicht beantwortet. Er hat ihm nichts von dem Gespräch im Himmel erzählt (Kapitel 1–2). Aber Gott hat sich ihm gezeigt. Und das genügt Hiob, wie das nächste Kapitel zeigt.
+
+## Hiob – Kapitel 42
+#### Hiobs Antwort und Gottes Segen
+
+---
+
+### Jetzt hat mein Auge dich gesehen (Vers 1–6)
+
+<sup>1</sup>Da antwortete Hiob dem HERRN:
+<sup>2</sup>„Ich weiß, dass du alles kannst
+und dass keiner deiner Pläne verhindert werden kann.
+<sup>3</sup>Du hast gefragt: ‚Wer ist das, der den Ratschluss verhüllt ohne Wissen?‘
+Darum habe ich geredet, was ich nicht verstanden habe,
+Dinge, die zu wunderbar für mich sind, die ich nicht kannte.
+<sup>4</sup>Du hast gesagt: ‚Hör doch, und ich will reden.
+Ich will dich fragen, und du sollst mir antworten.‘
+<sup>5</sup>Ich hatte von dir mit dem Hören des Ohres gehört,
+aber jetzt hat mein Auge dich gesehen.
+<sup>6</sup>Darum verabscheue ich mich
+und bereue in Staub und Asche.“
+
+> **Was bedeutet das?**
+> Das ist Hiobs letzte Antwort. Er erkennt: Gott kann alles. Gottes Pläne gehen weit über das hinaus, was ich verstehe.
+> In Vers 3 und 4 zitiert Hiob Gottes eigene Worte (Kapitel 38,2–3). Er gibt zu: Ich habe über Dinge geredet, die zu groß für mich waren.
+> Vers 5 ist einer der wichtigsten Sätze im ganzen Buch: „Ich hatte von dir gehört, aber jetzt hat mein Auge dich gesehen.“ Vorher kannte Hiob Gott vom Hörensagen. Jetzt hat er Gott selbst erlebt. Das verändert alles.
+> Vers 6 kann man im Hebräischen verschieden verstehen:
+> – „Ich verabscheue mich“ (so der englische Text), oder
+> – „Ich widerrufe (meine Worte)“, oder
+> – „Ich gebe meine Klage auf und lasse mich trösten, obwohl ich in Staub und Asche bin.“
+> Klar ist: Hiob bekennt nicht, dass er wegen einer Sünde gelitten hat. Er nimmt zurück, dass er Gott angeklagt hat. Und er findet Frieden, ohne die Antwort auf das Warum zu kennen.
+
+---
+
+### Gottes Zorn über die Freunde (Vers 7–9)
+
+<sup>7</sup>Und es geschah, nachdem der HERR diese Worte zu Hiob geredet hatte,
+da sagte der HERR zu Elifas, dem Temaniter:
+„Mein Zorn ist gegen dich und gegen deine beiden Freunde entbrannt.
+Denn ihr habt nicht recht von mir geredet,
+wie mein Knecht Hiob.
+<sup>8</sup>Darum nehmt euch nun sieben Stiere und sieben Widder,
+geht zu meinem Knecht Hiob
+und bringt für euch ein Brandopfer dar.
+Mein Knecht Hiob soll für euch beten,
+denn ihn will ich annehmen,
+damit ich nicht nach eurer Torheit mit euch handle.
+Denn ihr habt nicht recht von mir geredet
+wie mein Knecht Hiob.“
+<sup>9</sup>Da gingen Elifas, der Temaniter, Bildad, der Schuachiter, und Zofar, der Naamatiter,
+und taten, was der HERR ihnen befohlen hatte.
+Und der HERR nahm Hiob an.
+
+> **Was bedeutet das?**
+> Das ist die große Überraschung am Ende: Gott ist zornig auf die Freunde, nicht auf Hiob!
+> Die Freunde haben scheinbar Gott verteidigt. Sie haben gesagt: Gott ist gerecht, darum muss Hiob gesündigt haben. Aber das war falsch. Sie haben nicht „recht von Gott geredet“.
+> Hiob hat geklagt, gestritten, Gott angeklagt. Aber er hat ehrlich geredet. Er hat sich an Gott gewandt und nicht von ihm abgewandt. Gott nennt ihn zweimal „mein Knecht Hiob“, wie am Anfang (Kapitel 1,8).
+> Das heißt: Gott will lieber ehrliche Klage als fromme Lügen. Man darf Gott seinen Schmerz sagen.
+> Und Hiob soll für die Freunde beten, die ihn so verletzt haben. Er wird zum Fürsprecher für sie. Das ist Versöhnung.
+> Elihu wird hier nicht erwähnt, weder gelobt noch getadelt.
+
+---
+
+### Hiobs Glück wird wiederhergestellt (Vers 10–11)
+
+<sup>10</sup>Der HERR wendete Hiobs Geschick, als er für seine Freunde betete.
+Und der HERR gab Hiob doppelt so viel, wie er vorher gehabt hatte.
+<sup>11</sup>Da kamen alle seine Brüder, alle seine Schwestern
+und alle, die ihn früher gekannt hatten, zu ihm
+und aßen mit ihm Brot in seinem Haus.
+Sie trösteten ihn und sprachen ihm Mut zu
+wegen all des Unglücks, das der HERR über ihn gebracht hatte.
+Und jeder gab ihm ein Geldstück,
+und jeder einen goldenen Ring.
+
+> **Was bedeutet das?**
+> Die Wende kommt, „als er für seine Freunde betete“. Als Hiob vergab, wurde er selbst geheilt.
+> Hiob bekommt alles doppelt zurück.
+> Seine Familie und Bekannten kommen endlich. Vorher hatten sie ihn im Stich gelassen (Kapitel 19,13–19). Jetzt essen sie mit ihm und trösten ihn.
+> „Ein Geldstück“: Im Hebräischen steht „Kesita“, eine alte Gewichtseinheit für Silber. Sie wird sonst nur in den Geschichten von Jakob erwähnt (1. Mose 33,19). Ihr genauer Wert ist unbekannt.
+> Die Bibel sagt ehrlich: Das Unglück kam vom HERRN (vgl. Kapitel 2,10). Sie versucht nicht, das wegzuerklären.
+
+---
+
+### Ein neuer Anfang (Vers 12–17)
+
+<sup>12</sup>So segnete der HERR das spätere Leben Hiobs mehr als sein früheres.
+Er hatte vierzehntausend Schafe, sechstausend Kamele,
+tausend Gespanne Rinder und tausend Eselinnen.
+<sup>13</sup>Er hatte auch sieben Söhne und drei Töchter.
+<sup>14</sup>Die erste nannte er Jemima,
+die zweite Kezia
+und die dritte Keren-Happuch.
+<sup>15</sup>Im ganzen Land fand man keine so schönen Frauen wie die Töchter Hiobs.
+Ihr Vater gab ihnen ein Erbe unter ihren Brüdern.
+<sup>16</sup>Danach lebte Hiob noch hundertvierzig Jahre
+und sah seine Söhne und die Söhne seiner Söhne, vier Generationen.
+<sup>17</sup>Dann starb Hiob, alt und lebenssatt.
+
+> **Was bedeutet das?**
+> Hiobs Tiere werden genau verdoppelt (vgl. Kapitel 1,3).
+> Er bekommt wieder sieben Söhne und drei Töchter. Die Kinder werden nicht „verdoppelt“. Viele Ausleger sagen: Die verstorbenen Kinder sind nicht ersetzbar. Sie bleiben Hiobs Kinder, auch nach ihrem Tod. Ein neues Kind macht den Schmerz um ein verlorenes Kind nicht ungeschehen.
+> Wer selbst ein Kind verloren hat und Hilfe braucht: Die Telefonseelsorge ist rund um die Uhr erreichbar, 0800 111 0 111 oder 0800 111 0 222.
+> Die Töchter werden mit Namen genannt, die Söhne nicht. Die Namen sind schön: Jemima heißt „Täubchen“, Kezia „Zimtblüte“, Keren-Happuch „Schminkdöschen“ (ein Behälter für kostbare Augenschminke).
+> Vers 15: Hiob gibt seinen Töchtern ein Erbe wie den Söhnen. Das war damals ungewöhnlich. Normalerweise erbten nur Söhne (vgl. 4. Mose 27,1–8).
+> „Alt und lebenssatt“: So wird auch über Abraham, Isaak und David gesagt. Hiob stirbt nach einem erfüllten Leben in Frieden.
+
+---
+
+### Rückblick: Was haben wir im Buch Hiob gelesen?
+
+> **Was bedeutet das?**
+> **Die Frage:** Das Buch Hiob stellt eine der schwersten Fragen der Menschheit: Warum müssen gute Menschen leiden? Hiob ist fromm und gerecht, und doch verliert er alles: Besitz, Kinder, Gesundheit.
+> **Die falsche Antwort:** Die drei Freunde sagen: Wer leidet, muss gesündigt haben. Gott sagt am Ende klar: Das ist falsch. Leid ist nicht immer Strafe. Man darf Leidenden nicht vorwerfen, sie seien selbst schuld. Auch Jesus sagt das später (Johannes 9,1–3; Lukas 13,1–5).
+> **Ehrliche Klage:** Hiob verflucht Gott nicht, aber er klagt und schreit, er streitet mit Gott. Und Gott sagt, dass Hiob „recht von mir geredet“ hat. Das Buch erlaubt uns, Gott unseren Schmerz und unsere Fragen ehrlich zu sagen.
+> **Die Hoffnung:** Mitten in der Verzweiflung hat Hiob große Momente des Glaubens: „Ich weiß, dass mein Erlöser lebt“ (19,25). Er sehnt sich nach einem Schiedsrichter, einem Zeugen im Himmel, einem Fürsprecher. Christen sehen darin einen Hinweis auf Jesus Christus.
+> **Elihu:** Der junge Elihu bringt einen neuen Gedanken: Leid kann auch eine Erziehung oder Warnung sein, durch die Gott spricht. Das stimmt manchmal, aber nicht immer.
+> **Gottes Antwort:** Gott erklärt Hiob nicht, warum er gelitten hat. Er zeigt ihm die Größe und Schönheit der Schöpfung, vom Morgenstern bis zum Leviatan. Die Botschaft: Die Welt ist größer, als du verstehst. Aber ich habe sie in der Hand. Du kannst mir vertrauen.
+> **Gott begegnen:** Das Wichtigste für Hiob ist nicht die Antwort, sondern die Begegnung: „Jetzt hat mein Auge dich gesehen.“
+> **Was wir nicht wissen:** Der Leser weiß mehr als Hiob: Er kennt die Szene im Himmel (Kapitel 1–2). Das zeigt: Auch hinter unserem Leid kann es Zusammenhänge geben, die wir nicht sehen.
+> **Das Ende:** Hiob betet für seine Freunde, wird wiederhergestellt und stirbt „alt und lebenssatt“. Aber das gute Ende macht das Leid nicht ungeschehen. Nicht jedes Leid endet in diesem Leben gut. Das Buch Hiob verspricht das auch nicht. Es zeigt aber: Gott verlässt die Leidenden nicht.
+> **Wie geht es weiter?** Als Nächstes kommt das Buch der Psalmen, 150 Lieder und Gebete. Viele davon klingen wie Hiob: Klage, Fragen, Vertrauen und Lob.
