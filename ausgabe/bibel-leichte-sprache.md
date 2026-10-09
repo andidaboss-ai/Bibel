@@ -87042,3 +87042,392 @@ und dessen Ofen in Jerusalem.
 > Vers 5: Und gleichzeitig ist Gott wie eine Vogelmutter, die schützend über ihrem Nest schwebt. Zwei Bilder: Stärke und Zärtlichkeit. „Schonend vorübergehen“ erinnert im Hebräischen an „Pessach“, als Gott an den Häusern Israels vorüberging und sie verschonte.
 > Vers 6: Der eigentliche Aufruf: Kehrt um zu Gott!
 > Vers 8: Assyrien wird nicht durch Menschenhand fallen, sondern durch Gottes Eingreifen. So berichtet es Kapitel 37,36.
+
+## Jesaja – Kapitel 32
+#### Das Werk der Gerechtigkeit wird Frieden sein
+
+---
+
+### Ein gerechter König (Vers 1–8)
+
+<sup>1</sup>Siehe, ein König wird in Gerechtigkeit regieren,
+und Fürsten werden nach dem Recht herrschen.
+<sup>2</sup>Jeder von ihnen wird sein wie ein Versteck vor dem Wind
+und ein Schutz vor dem Sturm,
+wie Wasserbäche an einem trockenen Ort,
+wie der Schatten eines großen Felsens in einem erschöpften Land.
+<sup>3</sup>Die Augen der Sehenden werden nicht trüb sein,
+und die Ohren der Hörenden werden aufmerksam zuhören.
+<sup>4</sup>Das Herz der Unbesonnenen wird Erkenntnis verstehen,
+und die Zunge der Stotternden wird bereit sein, klar zu reden.
+<sup>5</sup>Der Tor wird nicht mehr edel genannt werden,
+und der Schurke wird nicht mehr hoch angesehen sein.
+<sup>6</sup>Denn der Tor redet Torheit,
+und sein Herz plant Unrecht,
+um gottlos zu handeln
+und Irriges gegen den HERRN zu reden,
+um die Seele des Hungrigen leer zu lassen
+und den Durstigen ohne Trinken zu lassen.
+<sup>7</sup>Die Wege des Schurken sind böse.
+Er schmiedet üble Pläne,
+um die Demütigen mit lügnerischen Worten zu verderben,
+auch wenn der Bedürftige im Recht ist.
+<sup>8</sup>Aber der Edle plant Edles,
+und er wird beim Edlen bleiben.
+
+> **Was bedeutet das?**
+> Vers 1–2: Ein Bild von guter Herrschaft: Ein König und seine Minister regieren gerecht. Für die Menschen sind sie wie ein Schutz vor dem Sturm, wie Wasser in der Wüste, wie Schatten an einem heißen Tag. Gute Politik schützt die Menschen.
+> Vers 3–4: Es wird Klarheit geben: Menschen sehen, hören und verstehen.
+> Vers 5–8: Man wird die Dinge wieder beim richtigen Namen nennen. Ein Schurke wird nicht mehr als „edel“ gefeiert. Den Schurken erkennt man daran, dass er Hungrige und Durstige leer ausgehen lässt und Arme mit Lügen betrügt. Den Edlen erkennt man an seinen guten Taten.
+
+---
+
+### Warnung an die sorglosen Frauen (Vers 9–14)
+
+<sup>9</sup>Steht auf, ihr Frauen, die ihr sorglos lebt!
+Hört meine Stimme!
+Ihr leichtfertigen Töchter, horcht auf meine Rede!
+<sup>10</sup>In etwas mehr als einem Jahr werdet ihr erzittern,
+ihr leichtfertigen Frauen,
+denn die Weinlese wird ausfallen.
+Die Ernte wird nicht kommen.
+<sup>11</sup>Zittert, ihr Frauen, die ihr sorglos lebt!
+Erschreckt, ihr Leichtfertigen!
+Zieht euch aus, entblößt euch
+und gürtet ein Sackgewand um eure Hüften!
+<sup>12</sup>Schlagt euch an die Brust um die lieblichen Felder,
+um den fruchtbaren Weinstock.
+<sup>13</sup>Dornen und Disteln werden auf dem Land meines Volkes wachsen,
+ja, auf allen Freudenhäusern in der fröhlichen Stadt.
+<sup>14</sup>Denn der Palast wird verlassen sein.
+Die volkreiche Stadt wird verödet sein.
+Der Hügel und der Wachturm werden für immer zu Höhlen werden,
+eine Freude für Wildesel, eine Weide für Herden,
+
+> **Was bedeutet das?**
+> Jesaja spricht die reichen Frauen Jerusalems an, die sorglos leben, als ob nichts passieren könnte.
+> Er warnt: Bald wird die Ernte ausfallen. Dann ist es mit dem sorglosen Leben vorbei.
+> Vers 11–12: Sackgewand und Schlagen an die Brust waren Zeichen der Trauer.
+> Wie in Kapitel 3 geht es nicht um eine Kritik an Frauen allgemein, sondern an einer Oberschicht, die die Not im Land nicht sieht. Jesaja kritisiert die Männer an vielen anderen Stellen genauso.
+> Vers 14 endet mitten im Satz. Er geht in Vers 15 weiter.
+
+---
+
+### Bis der Geist ausgegossen wird (Vers 15–20)
+
+<sup>15</sup>bis der Geist von oben über uns ausgegossen wird
+und die Wüste zum Fruchtgarten wird
+und der Fruchtgarten für einen Wald gehalten wird.
+<sup>16</sup>Dann wird das Recht in der Wüste wohnen
+und die Gerechtigkeit im Fruchtgarten bleiben.
+<sup>17</sup>Das Werk der Gerechtigkeit wird Frieden sein
+und die Wirkung der Gerechtigkeit Ruhe und Vertrauen für immer.
+<sup>18</sup>Mein Volk wird an einem friedlichen Wohnort wohnen,
+in sicheren Wohnungen
+und an ruhigen Ruheplätzen,
+<sup>19</sup>auch wenn Hagel den Wald niederschlägt
+und die Stadt völlig eingeebnet wird.
+<sup>20</sup>Glücklich seid ihr, die ihr an allen Wassern sät,
+die ihr Rind und Esel frei laufen lasst.
+
+> **Was bedeutet das?**
+> Vers 15: Die Wende kommt, wenn Gott seinen Geist ausgießt. Dann wird die Wüste zum Garten. Die Propheten Joel und Hesekiel sprechen auch davon (Joel 3,1; Hesekiel 36,26–27). Christen denken an das Pfingstfest (Apostelgeschichte 2).
+> Vers 17 ist ein wunderbarer Satz: „Das Werk der Gerechtigkeit wird Frieden sein.“ Echter Friede entsteht nur durch Gerechtigkeit. Ohne Gerechtigkeit kein Friede. Dieser Satz war das Motto von Papst Pius XII. und ist ein Leitwort vieler Friedensbewegungen.
+> Vers 18: Gottes Volk wird sicher und ruhig wohnen.
+> Vers 20: Ein Bild von Fülle: Überall gibt es genug Wasser zum Säen, und die Tiere können frei weiden.
+
+## Jesaja – Kapitel 33
+#### Wer kann beim verzehrenden Feuer wohnen?
+
+---
+
+### Ein Gebet in der Not (Vers 1–6)
+
+<sup>1</sup>Wehe dir, Verwüster, der du selbst nicht verwüstet wurdest,
+und Verräter, den niemand verraten hat!
+Wenn du mit dem Verwüsten fertig bist, wirst du verwüstet werden,
+und wenn du mit dem Verraten fertig bist, wirst du verraten werden.
+<sup>2</sup>HERR, sei uns gnädig!
+Wir haben auf dich gewartet.
+Sei unsere Stärke jeden Morgen,
+auch unsere Rettung in der Zeit der Not.
+<sup>3</sup>Beim Lärm des Donners sind die Völker geflohen.
+Wenn du dich erhebst, werden die Nationen zerstreut.
+<sup>4</sup>Eure Beute wird eingesammelt, wie die Raupe einsammelt.
+Man wird darüber herfallen, wie Heuschrecken herfallen.
+<sup>5</sup>Der HERR ist erhaben, denn er wohnt in der Höhe.
+Er hat Zion mit Recht und Gerechtigkeit erfüllt.
+<sup>6</sup>Es wird Beständigkeit in deinen Zeiten geben,
+eine Fülle von Rettung, Weisheit und Erkenntnis.
+Die Ehrfurcht vor dem HERRN ist dein Schatz.
+
+> **Was bedeutet das?**
+> Vers 1: Ein Wehe gegen den Verwüster, wohl Assyrien. Wer andere zerstört und betrügt, wird am Ende selbst zerstört und betrogen.
+> Vers 2: Ein schönes kurzes Gebet: „HERR, sei uns gnädig! Sei unsere Stärke jeden Morgen!“ Man kann es jeden Morgen beten.
+> Vers 6: Der größte Schatz ist die Ehrfurcht vor Gott.
+
+---
+
+### Das Land trauert (Vers 7–13)
+
+<sup>7</sup>Siehe, ihre Helden schreien draußen.
+Die Friedensboten weinen bitterlich.
+<sup>8</sup>Die Straßen sind verödet.
+Der Wanderer bleibt weg.
+Der Bund ist gebrochen.
+Er hat die Städte verachtet.
+Er achtet keinen Menschen.
+<sup>9</sup>Das Land trauert und welkt dahin.
+Der Libanon ist beschämt und verdorrt.
+Scharon ist wie eine Wüste,
+und Baschan und Karmel sind kahl.
+<sup>10</sup>„Jetzt will ich aufstehen“, spricht der HERR.
+„Jetzt will ich mich erheben.
+Jetzt will ich erhaben sein.
+<sup>11</sup>Ihr geht schwanger mit Spreu.
+Ihr werdet Stoppeln gebären.
+Euer Atem ist ein Feuer, das euch verzehren wird.
+<sup>12</sup>Die Völker werden sein wie Kalk, der gebrannt wird,
+wie abgehauene Dornen, die im Feuer verbrannt werden.
+<sup>13</sup>Hört, ihr in der Ferne, was ich getan habe,
+und ihr in der Nähe, erkennt meine Macht!“
+
+> **Was bedeutet das?**
+> Vers 7–8: Die Friedensverhandlungen sind gescheitert. Die Friedensboten weinen. Der Feind hält sich an keinen Vertrag. Hiskia hatte Assyrien Tribut gezahlt, doch der assyrische König griff trotzdem an (2. Könige 18,14–17).
+> Vers 9: Sogar die schönsten Landschaften (Libanon, Scharon, Baschan, Karmel) verdorren.
+> Vers 10: Jetzt greift Gott ein: „Jetzt stehe ich auf!“
+> Vers 11: Die Pläne der Feinde sind wie Spreu. Ihr eigener Atem, ihre Wut, wird sie verbrennen.
+
+---
+
+### Wer darf bei Gott wohnen? (Vers 14–16)
+
+<sup>14</sup>Die Sünder in Zion fürchten sich.
+Zittern hat die Gottlosen gepackt.
+„Wer von uns kann bei dem verzehrenden Feuer wohnen?
+Wer von uns kann bei der ewigen Glut wohnen?“
+<sup>15</sup>Wer gerecht lebt und aufrichtig redet,
+wer den Gewinn aus Unterdrückung verachtet,
+wer mit seinen Händen abwinkt und keine Bestechung annimmt,
+wer seine Ohren verschließt, um nicht von Blutvergießen zu hören,
+und seine Augen schließt, um nicht auf das Böse zu schauen,
+<sup>16</sup>der wird in der Höhe wohnen.
+Sein Zufluchtsort wird eine Felsenburg sein.
+Sein Brot wird ihm gegeben werden.
+Sein Wasser wird nie versiegen.
+
+> **Was bedeutet das?**
+> Vers 14: Gott ist heilig wie ein verzehrendes Feuer. Wer kann in seiner Nähe bestehen?
+> Vers 15: Die Antwort ist ganz praktisch: Wer ehrlich lebt, wer nicht von Unterdrückung profitiert, wer keine Bestechung annimmt, wer bei Gewaltplänen nicht mitmacht und nicht auf das Böse starrt.
+> Ähnliche Fragen und Antworten gibt es in Psalm 15 und Psalm 24.
+> Vers 16: So ein Mensch ist bei Gott sicher wie in einer Felsenburg und wird versorgt.
+
+---
+
+### Du wirst den König in seiner Schönheit sehen (Vers 17–24)
+
+<sup>17</sup>Deine Augen werden den König in seiner Schönheit sehen.
+Sie werden ein weites Land sehen.
+<sup>18</sup>Dein Herz wird an den Schrecken zurückdenken:
+„Wo ist der, der zählte?
+Wo ist der, der wog?
+Wo ist der, der die Türme zählte?“
+<sup>19</sup>Du wirst das wilde Volk nicht mehr sehen,
+ein Volk mit einer dunklen Sprache, die du nicht verstehen kannst,
+mit einer fremden Zunge, die du nicht begreifen kannst.
+<sup>20</sup>Schau auf Zion, die Stadt unserer Feste!
+Deine Augen werden Jerusalem sehen,
+einen ruhigen Wohnort,
+ein Zelt, das nicht abgebrochen wird.
+Seine Pflöcke werden nie herausgezogen,
+und keines seiner Seile wird zerreißen.
+<sup>21</sup>Sondern dort wird der HERR in Majestät bei uns sein,
+ein Ort mit breiten Flüssen und Strömen,
+auf denen keine Ruder-Galeere fahren
+und kein stolzes Schiff vorbeiziehen wird.
+<sup>22</sup>Denn der HERR ist unser Richter.
+Der HERR ist unser Gesetzgeber.
+Der HERR ist unser König.
+Er wird uns retten.
+<sup>23</sup>Deine Taue hängen schlaff.
+Sie konnten den Fuß ihres Mastes nicht festhalten.
+Sie konnten das Segel nicht ausbreiten.
+Dann wurde reiche Beute verteilt.
+Sogar die Lahmen nahmen Beute.
+<sup>24</sup>Kein Bewohner wird sagen: „Ich bin krank.“
+Dem Volk, das dort wohnt, wird die Schuld vergeben sein.
+
+> **Was bedeutet das?**
+> Vers 17: Statt der feindlichen Herrscher werden sie den wahren König in seiner Schönheit sehen.
+> Vers 18–19: Die Schreckenszeit ist vorbei: keine Steuereintreiber mehr, keine fremden Soldaten, deren Sprache man nicht versteht.
+> Vers 20: Jerusalem wird wie ein Zelt sein, das nie mehr abgebrochen wird. Ein Bild für bleibende Sicherheit.
+> Vers 21: Gott selbst ist für Jerusalem wie ein breiter Fluss, der die Stadt schützt. Aber auf diesem Fluss können keine feindlichen Kriegsschiffe fahren.
+> Vers 22: Gott vereint alle Ämter: Richter, Gesetzgeber, König.
+> Vers 23: Das Feindschiff liegt hilflos da, und sogar die Lahmen können Beute holen.
+> Vers 24: Das Schönste: Niemand ist mehr krank, und alle Schuld ist vergeben.
+
+## Jesaja – Kapitel 34
+#### Gericht über Edom
+
+---
+
+### Gericht über die Völker (Vers 1–4)
+
+<sup>1</sup>Kommt näher, ihr Nationen, um zu hören!
+Horcht auf, ihr Völker!
+Die Erde soll hören und alles, was sie erfüllt,
+die Welt und alles, was aus ihr hervorgeht.
+<sup>2</sup>Denn der HERR ist zornig über alle Nationen
+und grimmig über alle ihre Heere.
+Er hat sie völlig vernichtet.
+Er hat sie der Schlachtung übergeben.
+<sup>3</sup>Ihre Erschlagenen werden hinausgeworfen,
+und der Gestank ihrer Leichen steigt auf.
+Die Berge werden von ihrem Blut zerfließen.
+<sup>4</sup>Das ganze Heer des Himmels wird zergehen.
+Der Himmel wird zusammengerollt wie eine Schriftrolle,
+und sein ganzes Heer wird verwelken,
+wie ein Blatt vom Weinstock welkt
+oder vom Feigenbaum.
+
+> **Was bedeutet das?**
+> Kapitel 34 und 35 gehören zusammen. Sie zeigen zwei Seiten: Gericht über die Feinde (Kapitel 34) und Rettung für Gottes Volk (Kapitel 35).
+> Vers 2–3: Schreckliche Bilder von Krieg und Tod. Es ist die Sprache der Gerichtsprophetie, die zeigen will: Gott lässt Unrecht nicht ungestraft. Diese Bilder sind keine Aufforderung an Menschen, Krieg zu führen.
+> Vers 4: Sogar die Sterne fallen. Der Himmel wird zusammengerollt wie ein Buch, das man zumacht. Die Offenbarung nimmt dieses Bild auf (Offenbarung 6,13–14).
+
+---
+
+### Das Schwert über Edom (Vers 5–17)
+
+<sup>5</sup>Denn mein Schwert hat sich im Himmel satt getrunken.
+Siehe, es wird auf Edom herabfahren,
+auf das Volk, das ich mit dem Bann belegt habe, zum Gericht.
+<sup>6</sup>Das Schwert des HERRN ist voll Blut.
+Es ist mit Fett bedeckt,
+mit dem Blut von Lämmern und Böcken,
+mit dem Nierenfett von Widdern,
+denn der HERR hat ein Opfer in Bozra
+und ein großes Schlachten im Land Edom.
+<sup>7</sup>Die Wildstiere werden mit ihnen hinabstürzen
+und die jungen Stiere mit den starken Stieren.
+Ihr Land wird von Blut trunken sein
+und ihr Staub fett vom Fett.
+<sup>8</sup>Denn der HERR hat einen Tag der Rache,
+ein Jahr der Vergeltung für die Sache Zions.
+<sup>9</sup>Ihre Bäche werden in Pech verwandelt
+und ihr Staub in Schwefel,
+und ihr Land wird zu brennendem Pech werden.
+<sup>10</sup>Es wird weder Tag noch Nacht gelöscht werden.
+Sein Rauch wird für immer aufsteigen.
+Von Generation zu Generation wird es verwüstet liegen.
+Niemand wird es je hindurchziehen, für immer und ewig.
+<sup>11</sup>Aber der Pelikan und der Igel werden es besitzen.
+Die Eule und der Rabe werden darin wohnen.
+Er wird die Messschnur der Verwirrung darüber spannen
+und das Senkblei der Leere.
+<sup>12</sup>Man wird seine Edlen zum Königtum rufen,
+aber niemand wird da sein,
+und alle seine Fürsten werden nichts sein.
+<sup>13</sup>Dornen werden in seinen Palästen wachsen,
+Brennnesseln und Disteln in seinen Festungen.
+Es wird eine Wohnung der Schakale sein,
+ein Hof für die Strauße.
+<sup>14</sup>Die Wüstentiere werden mit den Wölfen zusammentreffen,
+und der Wildbock wird seinem Gefährten zurufen.
+Ja, das Nachtgespenst wird sich dort niederlassen
+und sich einen Ruheplatz finden.
+<sup>15</sup>Die Pfeilschlange wird dort ihr Nest bauen,
+legen, ausbrüten und unter ihrem Schatten sammeln.
+Ja, die Geier werden sich dort versammeln,
+jeder mit seinem Gefährten.
+<sup>16</sup>Sucht im Buch des HERRN und lest:
+Keines von diesen wird fehlen.
+Keines wird ohne seinen Gefährten sein.
+Denn mein Mund hat es befohlen,
+und sein Geist hat sie versammelt.
+<sup>17</sup>Er hat das Los für sie geworfen,
+und seine Hand hat es ihnen mit der Messschnur zugeteilt.
+Sie werden es für immer besitzen.
+Von Generation zu Generation werden sie darin wohnen.
+
+> **Was bedeutet das?**
+> Edom war ein Nachbarvolk südlich vom Toten Meer. Die Edomiter stammten von Esau ab, dem Bruder Jakobs. Als Jerusalem später zerstört wurde, haben sie sich gefreut und mitgeholfen (Obadja 10–14; Psalm 137,7). Darum steht Edom hier für alle Feinde Gottes und seines Volkes.
+> Vers 6: Das Gericht wird mit einem Opfer verglichen. Bozra war die Hauptstadt Edoms. Diese Bilder sind sehr hart. Sie gehören zur Sprache der damaligen Zeit und sollen zeigen: Gott wird für Gerechtigkeit sorgen. Das ist kein Auftrag an Menschen zur Rache.
+> Vers 9–10: Edom wird brennen wie Sodom und Gomorra.
+> Vers 11–15: Das Land wird zur Wildnis, in der nur noch Tiere wohnen. „Messschnur der Verwirrung“: Gott „vermisst“ das Land, aber nicht zum Aufbau, sondern zur Leere. „Nachtgespenst“ heißt im Hebräischen „Lilit“, ein Wesen aus alten Sagen.
+> Vers 16: „Sucht im Buch des HERRN“: Gottes Worte erfüllen sich genau.
+
+## Jesaja – Kapitel 35
+#### Die Wüste wird blühen
+
+---
+
+### Stärkt die müden Hände (Vers 1–4)
+
+<sup>1</sup>Die Wüste und das trockene Land werden sich freuen.
+Die Steppe wird jubeln und blühen wie eine Rose.
+<sup>2</sup>Sie wird reich blühen
+und jubeln, ja, mit Freude und Gesang.
+Die Herrlichkeit des Libanon wird ihr gegeben werden,
+die Pracht des Karmel und Scharon.
+Sie werden die Herrlichkeit des HERRN sehen,
+die Pracht unseres Gottes.
+<sup>3</sup>Stärkt die schwachen Hände
+und macht die wankenden Knie fest!
+<sup>4</sup>Sagt denen, die ein ängstliches Herz haben:
+„Seid stark! Fürchtet euch nicht!
+Siehe, euer Gott kommt mit Vergeltung,
+mit der Vergeltung Gottes.
+Er kommt und wird euch retten.“
+
+> **Was bedeutet das?**
+> Nach dem dunklen Kapitel 34 kommt eines der hoffnungsvollsten Kapitel der Bibel.
+> Vers 1–2: Die Wüste blüht wie ein Rosengarten. Wo vorher nur Sand war, wachsen jetzt Blumen. Die Wüste bekommt die Schönheit der grünsten Landschaften Israels.
+> Vers 3–4: Ein Auftrag an alle, die Gott vertrauen: Ermutigt die Müden und Ängstlichen! Sagt ihnen: Seid stark, fürchtet euch nicht! Gott kommt und rettet euch.
+> Der Hebräerbrief zitiert Vers 3 als Ermutigung (Hebräer 12,12).
+> Wer Angst hat oder nicht mehr kann, darf diese Worte für sich hören.
+
+---
+
+### Blinde sehen, Lahme springen (Vers 5–7)
+
+<sup>5</sup>Dann werden die Augen der Blinden geöffnet,
+und die Ohren der Tauben werden aufgetan.
+<sup>6</sup>Dann wird der Lahme springen wie ein Hirsch,
+und die Zunge des Stummen wird jubeln,
+denn in der Wüste brechen Wasser hervor
+und Bäche in der Steppe.
+<sup>7</sup>Der glühende Sand wird zum Teich
+und das durstige Land zu Wasserquellen.
+Wo die Schakale lagerten,
+wird Gras mit Schilf und Binsen wachsen.
+
+> **Was bedeutet das?**
+> Wenn Gott kommt, wird alles heil: Blinde sehen, Taube hören, Lahme springen, Stumme singen.
+> Als Johannes der Täufer fragen lässt, ob Jesus der erwartete Retter ist, antwortet Jesus mit diesen Worten: „Blinde sehen, Lahme gehen, Taube hören“ (Matthäus 11,4–5).
+> Wichtig: Diese Verse sind eine Hoffnung auf Heilung. Sie bedeuten nicht, dass Menschen mit Behinderung weniger wert sind. Jeder Mensch ist von Gott geliebt, so wie er ist.
+
+---
+
+### Der heilige Weg (Vers 8–10)
+
+<sup>8</sup>Dort wird eine gebahnte Straße sein, ein Weg,
+und er wird „der heilige Weg“ genannt werden.
+Kein Unreiner wird darauf gehen,
+sondern er wird für die sein, die auf dem Weg gehen.
+Gottlose Toren werden dort nicht hingehen.
+<sup>9</sup>Kein Löwe wird dort sein,
+und kein reißendes Tier wird hinaufkommen.
+Sie werden dort nicht zu finden sein,
+sondern die Erlösten werden dort gehen.
+<sup>10</sup>Dann werden die Befreiten des HERRN zurückkehren
+und mit Jubel nach Zion kommen,
+und ewige Freude wird auf ihrem Haupt sein.
+Wonne und Freude werden sie erlangen,
+und Kummer und Seufzen werden fliehen.
+
+> **Was bedeutet das?**
+> Durch die blühende Wüste führt eine Straße, „der heilige Weg“. Auf ihm kehren die Befreiten sicher nach Hause zurück. Keine wilden Tiere, keine Gefahr.
+> Vers 10: Einer der schönsten Verse der Bibel: Die Befreiten kommen singend nach Hause, mit ewiger Freude wie eine Krone auf dem Kopf. Kummer und Seufzen fliehen davon.
+> Johannes Brahms hat diesen Vers im „Deutschen Requiem“ vertont.
+> Damit endet der erste große Teil des Buches Jesaja. Es folgen vier Kapitel mit Geschichten über König Hiskia (Kapitel 36–39).
