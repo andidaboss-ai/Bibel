@@ -60472,3 +60472,441 @@ denn die Last lag schwer auf diesem Volk.
 > „Wir haben kein Land gekauft“: Er nutzte seine Stellung nicht aus, um billig Land von verschuldeten Armen zu kaufen.
 > Vers 19 ist ein Gebet, das Nehemia mehrmals spricht (Kapitel 13,14.22.31). Er bittet Gott, an das Gute zu denken, das er getan hat. Er sucht nicht Lob von Menschen, sondern von Gott.
 > Nehemia ist ein Vorbild für Führung: Er dient den Menschen, statt sich von ihnen bedienen zu lassen. Jesus sagt später: „Wer unter euch groß sein will, der soll euer Diener sein“ (Markus 10,43).
+
+## Nehemia – Kapitel 6
+#### Fallen für Nehemia – und die Mauer wird fertig
+
+---
+
+### Die Einladung nach Ono (Vers 1–4)
+
+<sup>1</sup>Als Sanballat, Tobija, Geschem, der Araber, und unsere übrigen Feinde hörten,
+dass ich die Mauer gebaut hatte
+und dass keine Lücke mehr darin war
+– allerdings hatte ich bis zu dieser Zeit die Türflügel in den Toren noch nicht eingesetzt –,
+<sup>2</sup>da schickten Sanballat und Geschem zu mir und ließen sagen:
+„Komm, wir wollen uns in einem der Dörfer in der Ebene von Ono treffen.“
+Aber sie hatten vor, mir Böses zu tun.
+<sup>3</sup>Ich schickte Boten zu ihnen und ließ sagen:
+„Ich arbeite an einem großen Werk,
+darum kann ich nicht hinabkommen.
+Warum sollte die Arbeit ruhen,
+wenn ich sie verlasse und zu euch hinabkomme?“
+<sup>4</sup>Viermal schickten sie so zu mir,
+und ich antwortete ihnen jedes Mal auf dieselbe Weise.
+
+> **Was bedeutet das?**
+> Jetzt versuchen die Gegner es mit List. Ono lag etwa 40 Kilometer nordwestlich von Jerusalem, weit weg vom Schutz der Stadt. Dort hätten sie Nehemia leicht gefangen nehmen oder töten können.
+> Nehemias Antwort ist berühmt: „Ich arbeite an einem großen Werk, darum kann ich nicht kommen.“ Er lässt sich nicht von seiner Aufgabe ablenken.
+> Er bleibt bei seiner Antwort, auch beim vierten Mal. Er lässt sich nicht weichklopfen.
+
+---
+
+### Der offene Brief (Vers 5–9)
+
+<sup>5</sup>Da schickte Sanballat zum fünften Mal seinen Diener auf dieselbe Weise zu mir,
+mit einem offenen Brief in der Hand.
+<sup>6</sup>Darin stand geschrieben:
+„Unter den Völkern hört man, und Gaschmu sagt es auch,
+dass du und die Juden vorhabt, euch aufzulehnen.
+Deswegen baust du die Mauer.
+Und du willst ihr König werden, nach diesen Gerüchten.
+<sup>7</sup>Du hast auch Propheten bestellt,
+die in Jerusalem über dich ausrufen sollen:
+‚Es gibt einen König in Juda!‘
+Und jetzt wird das dem König gemeldet werden, nach diesen Gerüchten.
+Darum komm jetzt, wir wollen uns miteinander beraten.“
+<sup>8</sup>Da schickte ich zu ihm und ließ sagen:
+„Nichts von dem, was du sagst, ist geschehen.
+Du erfindest es aus deinem eigenen Herzen.“
+<sup>9</sup>Denn sie alle wollten uns Angst machen und dachten:
+„Ihre Hände werden von der Arbeit ablassen, und sie wird nicht fertig.“
+Aber jetzt: Stärke meine Hände!
+
+> **Was bedeutet das?**
+> Ein „offener Brief“ war nicht versiegelt. Jeder konnte ihn lesen. So sollten die Gerüchte sich verbreiten.
+> Gaschmu ist eine andere Form des Namens Geschem.
+> Die Lüge ist gefährlich: Wer gegen den Perserkönig rebellierte, wurde hart bestraft.
+> Nehemia antwortet kurz und klar: Das ist erfunden. Er lässt sich auf keine lange Verteidigung ein.
+> Am Ende von Vers 9 betet er wieder mitten im Bericht: „Stärke meine Hände!“ Ein kurzes Stoßgebet in der Not.
+
+---
+
+### Der falsche Prophet (Vers 10–14)
+
+<sup>10</sup>Ich ging in das Haus Schemajas, des Sohnes Delajas, des Sohnes Mehetabels,
+der sich eingeschlossen hatte.
+Er sagte:
+„Lass uns im Haus Gottes zusammenkommen, mitten im Tempel,
+und lass uns die Türen des Tempels schließen!
+Denn sie kommen, um dich zu töten.
+Ja, in der Nacht kommen sie, um dich zu töten.“
+<sup>11</sup>Ich sagte:
+„Soll ein Mann wie ich fliehen?
+Und wer ist so wie ich, dass er in den Tempel geht, um sein Leben zu retten?
+Ich gehe nicht hinein!“
+<sup>12</sup>Ich erkannte, und schau,
+Gott hatte ihn nicht gesandt,
+sondern er hatte diese Weissagung gegen mich ausgesprochen,
+weil Tobija und Sanballat ihn bezahlt hatten.
+<sup>13</sup>Er war deswegen bezahlt worden,
+damit ich Angst bekäme, so handelte und sündigte,
+und damit sie etwas hätten, um mir einen schlechten Ruf zu machen
+und mich zu verhöhnen.
+<sup>14</sup>„Gedenke, mein Gott, Tobija und Sanballat nach diesen ihren Taten,
+und auch der Prophetin Noadja und den übrigen Propheten,
+die mir Angst machen wollten!“
+
+> **Was bedeutet das?**
+> Jetzt kommt die gefährlichste Falle: ein falscher Prophet aus dem eigenen Volk. Er tut so, als wolle er Nehemia retten.
+> Aber Nehemia durchschaut ihn aus zwei Gründen:
+> – Ein Anführer, der flieht, würde das Volk entmutigen.
+> – Nehemia war kein Priester. Er durfte nicht in das Innere des Tempels gehen (4. Mose 18,7). Hätte er es getan, hätte er gegen Gottes Gesetz gesündigt.
+> Ein echter Prophet Gottes würde niemanden zu einer Sünde auffordern. Daran erkennt Nehemia, dass Schemaja gekauft war.
+> Auch eine Prophetin, Noadja, gehörte zu den Gegnern. Es gab also mehrere falsche Propheten.
+> Nehemia rächt sich nicht selbst. Er überlässt seine Feinde Gott.
+
+---
+
+### Die Mauer ist fertig (Vers 15–16)
+
+<sup>15</sup>So wurde die Mauer am 25. Tag des Monats Elul fertig,
+in 52 Tagen.
+<sup>16</sup>Als alle unsere Feinde das hörten,
+fürchteten sich alle Völker, die um uns herum waren,
+und sie verloren allen Mut.
+Denn sie erkannten,
+dass dieses Werk von unserem Gott getan worden war.
+
+> **Was bedeutet das?**
+> Nur 52 Tage! Trotz Spott, Drohungen, Erschöpfung und Fallen. Der Monat Elul ist August/September. Die Mauer wurde also im Herbst 445 vor Christus fertig.
+> Die Feinde, die Angst machen wollten, bekommen jetzt selbst Angst. Denn sie sehen: Das kann nicht nur Menschenwerk sein. Hier hat Gott gewirkt.
+> Der jüdische Geschichtsschreiber Josephus schreibt später von zwei Jahren und vier Monaten. Vielleicht meinte er den gesamten Ausbau mit Türmen und Toren.
+
+---
+
+### Tobijas Verbindungen (Vers 17–19)
+
+<sup>17</sup>Außerdem schickten in diesen Tagen die Vornehmen von Juda viele Briefe an Tobija,
+und Tobijas Briefe kamen zu ihnen.
+<sup>18</sup>Denn viele in Juda waren ihm durch einen Eid verbunden,
+weil er der Schwiegersohn Schechanjas, des Sohnes Arachs, war.
+Und sein Sohn Johanan hatte die Tochter Meschullams, des Sohnes Berechjas, zur Frau genommen.
+<sup>19</sup>Auch redeten sie vor mir von seinen guten Taten
+und trugen meine Worte zu ihm.
+Und Tobija schickte Briefe, um mir Angst zu machen.
+
+> **Was bedeutet das?**
+> Tobija hatte durch Heiraten enge Verbindungen in Jerusalem. Meschullam, der Sohn Berechjas, hatte sogar beim Mauerbau mitgeholfen (Kapitel 3,4.30).
+> Manche in Jerusalem spielten ein doppeltes Spiel: Sie lobten Tobija bei Nehemia und verrieten Nehemias Worte an Tobija.
+> Auch nach dem Bau der Mauer geht der Kampf weiter. Diesmal mit Briefen und Einschüchterung.
+
+## Nehemia – Kapitel 7
+#### Wachen für die Stadt und die Liste der Heimkehrer
+
+---
+
+### Ordnung für Jerusalem (Vers 1–4)
+
+<sup>1</sup>Als die Mauer gebaut war
+und ich die Türflügel eingesetzt hatte
+und die Torhüter, die Sänger und die Leviten eingesetzt waren,
+<sup>2</sup>übertrug ich die Aufsicht über Jerusalem meinem Bruder Hanani
+und Hananja, dem Befehlshaber der Burg.
+Denn er war ein treuer Mann und fürchtete Gott mehr als viele andere.
+<sup>3</sup>Ich sagte zu ihnen:
+„Die Tore Jerusalems sollen nicht geöffnet werden,
+bis die Sonne heiß ist.
+Und während sie noch Wache stehen,
+soll man die Türflügel schließen, und ihr sollt sie verriegeln.
+Und stellt Wachen aus den Bewohnern Jerusalems auf,
+jeden auf seinem Posten,
+jeden gegenüber seinem Haus.“
+<sup>4</sup>Die Stadt war weit und groß,
+aber es waren wenige Menschen darin,
+und die Häuser waren nicht gebaut.
+
+> **Was bedeutet das?**
+> Nehemia setzt treue Männer als Verantwortliche ein. Das wichtigste Merkmal: Hananja „fürchtete Gott mehr als viele andere“.
+> Die Tore sollen erst geöffnet werden, wenn die Sonne hoch steht. Dann sind alle wach, und kein Feind kann im Morgengrauen überraschend eindringen.
+> Ein neues Problem: Die Stadt ist groß, aber fast leer. Eine Mauer allein macht noch keine lebendige Stadt. Es braucht Menschen. Die Lösung kommt in Kapitel 11.
+
+---
+
+### Das Verzeichnis wird gefunden (Vers 5–7)
+
+<sup>5</sup>Mein Gott gab mir ins Herz,
+die Vornehmen, die Vorsteher und das Volk zu versammeln,
+damit sie im Verzeichnis eingetragen würden.
+Da fand ich das Verzeichnis derer, die zuerst heraufgezogen waren,
+und fand darin geschrieben:
+<sup>6</sup>Das sind die Leute aus der Provinz,
+die aus der Gefangenschaft der Verschleppten heraufzogen,
+die Nebukadnezar, der König von Babel, weggeführt hatte,
+und die nach Jerusalem und Juda zurückkehrten, jeder in seine Stadt.
+<sup>7</sup>Sie kamen mit Serubbabel, Jeschua, Nehemia, Asarja, Raamja, Nahamani, Mordechai,
+Bilschan, Misperet, Bigwai, Nehum und Baana.
+Die Zahl der Männer des Volkes Israel:
+
+> **Was bedeutet das?**
+> Nehemia findet die alte Liste der ersten Heimkehrer, fast 100 Jahre alt. Sie steht fast genau gleich in Esra 2.
+> Die Liste hilft herauszufinden, welche Familien wo hingehören. So kann man später entscheiden, wer nach Jerusalem ziehen soll.
+> Hier werden zwölf Anführer genannt, in Esra 2,2 nur elf. Die Zwölf erinnert an die zwölf Stämme Israels.
+> In diesem Kapitel sind manche Zahlen und Namen etwas anders als in Esra 2. Beim Abschreiben langer Listen kam es leicht zu kleinen Unterschieden.
+
+---
+
+### Die Familien und Orte (Vers 8–38)
+
+<sup>8</sup>Die Nachkommen Parschs: 2172.
+<sup>9</sup>Die Nachkommen Schefatjas: 372.
+<sup>10</sup>Die Nachkommen Arachs: 652.
+<sup>11</sup>Die Nachkommen Pahat-Moabs, von den Nachkommen Jeschuas und Joabs: 2818.
+<sup>12</sup>Die Nachkommen Elams: 1254.
+<sup>13</sup>Die Nachkommen Sattus: 845.
+<sup>14</sup>Die Nachkommen Sakkais: 760.
+<sup>15</sup>Die Nachkommen Binnuis: 648.
+<sup>16</sup>Die Nachkommen Bebais: 628.
+<sup>17</sup>Die Nachkommen Asgads: 2322.
+<sup>18</sup>Die Nachkommen Adonikams: 667.
+<sup>19</sup>Die Nachkommen Bigwais: 2067.
+<sup>20</sup>Die Nachkommen Adins: 655.
+<sup>21</sup>Die Nachkommen Aters, von Hiskija: 98.
+<sup>22</sup>Die Nachkommen Haschums: 328.
+<sup>23</sup>Die Nachkommen Bezais: 324.
+<sup>24</sup>Die Nachkommen Harifs: 112.
+<sup>25</sup>Die Nachkommen Gibeons: 95.
+<sup>26</sup>Die Männer von Betlehem und Netofa: 188.
+<sup>27</sup>Die Männer von Anatot: 128.
+<sup>28</sup>Die Männer von Bet-Asmawet: 42.
+<sup>29</sup>Die Männer von Kirjat-Jearim, Kefira und Beerot: 743.
+<sup>30</sup>Die Männer von Rama und Geba: 621.
+<sup>31</sup>Die Männer von Michmas: 122.
+<sup>32</sup>Die Männer von Bethel und Ai: 123.
+<sup>33</sup>Die Männer vom anderen Nebo: 52.
+<sup>34</sup>Die Nachkommen des anderen Elam: 1254.
+<sup>35</sup>Die Nachkommen Harims: 320.
+<sup>36</sup>Die Nachkommen Jerichos: 345.
+<sup>37</sup>Die Nachkommen von Lod, Hadid und Ono: 721.
+<sup>38</sup>Die Nachkommen Senaas: 3930.
+
+> **Was bedeutet das?**
+> Viele Zahlen stimmen mit Esra 2 überein, manche nicht. Zum Beispiel hat Arach hier 652, in Esra 2,5 aber 775. Und Bethel und Ai haben hier 123, in Esra 2,28 aber 223.
+> Jora (Esra 2,18) heißt hier Harif. Gibbar (Esra 2,20) heißt hier Gibeon.
+> Die Unterschiede ändern nichts an der Botschaft: Gott kennt jede Familie, jeden Ort.
+
+---
+
+### Priester, Leviten, Sänger und Torhüter (Vers 39–45)
+
+<sup>39</sup>Die Priester:
+Die Nachkommen Jedajas, vom Haus Jeschua: 973.
+<sup>40</sup>Die Nachkommen Immers: 1052.
+<sup>41</sup>Die Nachkommen Paschhurs: 1247.
+<sup>42</sup>Die Nachkommen Harims: 1017.
+<sup>43</sup>Die Leviten:
+Die Nachkommen Jeschuas, von Kadmiël, von den Nachkommen Hodewas: 74.
+<sup>44</sup>Die Sänger:
+Die Nachkommen Asafs: 148.
+<sup>45</sup>Die Torhüter:
+die Nachkommen Schallums, die Nachkommen Aters, die Nachkommen Talmons,
+die Nachkommen Akkubs, die Nachkommen Hatitas, die Nachkommen Schobais: 138.
+
+---
+
+### Die Tempeldiener und die Diener Salomos (Vers 46–60)
+
+<sup>46</sup>Die Tempeldiener:
+die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
+<sup>47</sup>die Nachkommen Keros', die Nachkommen Sias, die Nachkommen Padons,
+<sup>48</sup>die Nachkommen Lebanas, die Nachkommen Hagabas, die Nachkommen Salmais,
+<sup>49</sup>die Nachkommen Hanans, die Nachkommen Giddels, die Nachkommen Gahars,
+<sup>50</sup>die Nachkommen Reajas, die Nachkommen Rezins, die Nachkommen Nekodas,
+<sup>51</sup>die Nachkommen Gassams, die Nachkommen Usas, die Nachkommen Paseachs,
+<sup>52</sup>die Nachkommen Besais, die Nachkommen der Mëuniter, die Nachkommen der Nefuschesiter,
+<sup>53</sup>die Nachkommen Bakbuks, die Nachkommen Hakufas, die Nachkommen Harhurs,
+<sup>54</sup>die Nachkommen Bazlits, die Nachkommen Mehidas, die Nachkommen Harschas,
+<sup>55</sup>die Nachkommen Barkos', die Nachkommen Siseras, die Nachkommen Temachs,
+<sup>56</sup>die Nachkommen Neziachs und die Nachkommen Hatifas.
+<sup>57</sup>Die Nachkommen der Diener Salomos:
+die Nachkommen Sotais, die Nachkommen Soferets, die Nachkommen Peridas,
+<sup>58</sup>die Nachkommen Jaalas, die Nachkommen Darkons, die Nachkommen Giddels,
+<sup>59</sup>die Nachkommen Schefatjas, die Nachkommen Hattils,
+die Nachkommen Pocheret-Hazzebajims und die Nachkommen Amons.
+<sup>60</sup>Alle Tempeldiener und die Nachkommen der Diener Salomos waren 392.
+
+> **Was bedeutet das?**
+> Auch die einfachen Diener am Tempel werden alle mit Namen genannt. Bei Gott ist niemand unwichtig.
+
+---
+
+### Die ohne Nachweis (Vers 61–65)
+
+<sup>61</sup>Das sind die, die aus Tel-Melach, Tel-Harscha, Kerub, Addon und Immer heraufzogen.
+Aber sie konnten ihre Familie und ihre Abstammung nicht nachweisen,
+ob sie aus Israel waren:
+<sup>62</sup>die Nachkommen Delajas, die Nachkommen Tobijas, die Nachkommen Nekodas: 642.
+<sup>63</sup>Und von den Priestern:
+die Nachkommen Hobajas, die Nachkommen des Hakkoz
+und die Nachkommen Barsillais,
+der eine Frau von den Töchtern Barsillais, des Gileaditers, genommen hatte
+und nach ihrem Namen genannt wurde.
+<sup>64</sup>Diese suchten ihre Verzeichnisse,
+aber sie fanden sie nicht.
+Darum galten sie als unrein und wurden vom Priesterdienst ausgeschlossen.
+<sup>65</sup>Der Statthalter sagte zu ihnen,
+dass sie nicht vom Hochheiligen essen sollten,
+bis ein Priester auftritt, der mit den Urim und Tummim dient.
+
+> **Was bedeutet das?**
+> Wie in Esra 2,59–63: Wer seine Abstammung nicht beweisen konnte, durfte trotzdem mitkommen. Nur der Priesterdienst wurde aufgeschoben, bis Gott selbst Klarheit gibt.
+> „Urim und Tummim“ waren Lose, mit denen der Hohepriester Gottes Willen erfragte.
+
+---
+
+### Die Gesamtzahl und die Gaben (Vers 66–73)
+
+<sup>66</sup>Die ganze Versammlung zusammen war 42 360,
+<sup>67</sup>außer ihren Knechten und Mägden, deren waren 7337.
+Und sie hatten 245 Sänger und Sängerinnen.
+<sup>68</sup>Ihre Pferde waren 736, ihre Maultiere 245,
+<sup>69</sup>ihre Kamele 435, ihre Esel 6720.
+<sup>70</sup>Einige von den Familienoberhäuptern gaben für das Werk.
+Der Statthalter gab für den Schatz
+1000 Goldmünzen, 50 Schalen und 530 Priestergewänder.
+<sup>71</sup>Einige von den Familienoberhäuptern gaben für den Schatz des Werkes
+20 000 Goldmünzen und 1254 Kilogramm Silber.
+<sup>72</sup>Was das übrige Volk gab, waren
+20 000 Goldmünzen, dazu 1140 Kilogramm Silber
+und 67 Priestergewänder.
+<sup>73</sup>So wohnten die Priester, die Leviten, die Torhüter, die Sänger,
+einige aus dem Volk, die Tempeldiener und ganz Israel in ihren Städten.
+Als der siebte Monat gekommen war,
+waren die Kinder Israels in ihren Städten.
+
+> **Was bedeutet das?**
+> „Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm. Silber: In der Bibel steht „2200 Minen“ und „2000 Minen“. Eine Mine sind etwa 570 Gramm.
+> Die Liste der Gaben ist hier ausführlicher als in Esra 2,68–69. Auch der Statthalter gab mit. Jeder gab nach seinen Möglichkeiten.
+> Das Ende von Vers 73 ist fast genau derselbe Satz wie Esra 3,1. Er leitet über zur großen Versammlung im siebten Monat (Kapitel 8).
+
+## Nehemia – Kapitel 8
+#### Esra liest das Gesetz vor
+
+---
+
+### Die große Versammlung am Wassertor (Vers 1–8)
+
+<sup>1</sup>Das ganze Volk versammelte sich wie ein Mann
+auf dem Platz vor dem Wassertor.
+Und sie sagten zu Esra, dem Schriftgelehrten,
+er solle das Buch des Gesetzes des Mose bringen,
+das der HERR Israel geboten hatte.
+<sup>2</sup>Der Priester Esra brachte das Gesetz vor die Versammlung,
+vor Männer und Frauen
+und alle, die verständig zuhören konnten,
+am ersten Tag des siebten Monats.
+<sup>3</sup>Er las daraus vor auf dem Platz vor dem Wassertor,
+vom frühen Morgen bis zum Mittag,
+vor den Männern und den Frauen und denen, die es verstehen konnten.
+Und die Ohren des ganzen Volkes waren auf das Buch des Gesetzes gerichtet.
+<sup>4</sup>Esra, der Schriftgelehrte, stand auf einem Podest aus Holz,
+das man dafür gemacht hatte.
+Neben ihm standen Mattitja, Schema, Anaja, Urija, Hilkija und Maaseja zu seiner Rechten,
+und zu seiner Linken Pedaja, Mischaël, Malkija, Haschum, Haschbaddana, Secharja und Meschullam.
+<sup>5</sup>Esra öffnete das Buch vor den Augen des ganzen Volkes
+– denn er stand höher als das ganze Volk –,
+und als er es öffnete, stand das ganze Volk auf.
+<sup>6</sup>Da lobte Esra den HERRN, den großen Gott.
+Und das ganze Volk antwortete: „Amen, Amen!“
+und hob die Hände hoch.
+Sie verneigten sich und beteten den HERRN an,
+mit dem Gesicht zur Erde.
+<sup>7</sup>Auch Jeschua, Bani, Scherebja, Jamin, Akkub, Schabbetai, Hodija, Maaseja,
+Kelita, Asarja, Josabad, Hanan, Pelaja und die Leviten
+erklärten dem Volk das Gesetz.
+Und das Volk blieb an seinem Platz.
+<sup>8</sup>Sie lasen im Buch, im Gesetz Gottes, deutlich vor
+und erklärten den Sinn,
+sodass man das Vorgelesene verstand.
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Momente im Buch Nehemia. Das Volk selbst bittet Esra, das Gesetz vorzulesen. Sie haben Hunger nach Gottes Wort.
+> Der erste Tag des siebten Monats ist ein Festtag (heute: Rosch ha-Schana, das jüdische Neujahr).
+> Männer und Frauen und alle Kinder, die es verstehen können, hören zu. Gottes Wort ist für alle.
+> Sechs Stunden lang hören sie zu, vom Morgen bis zum Mittag.
+> Als Esra das Buch öffnet, steht das Volk auf. Aus Ehrfurcht vor Gottes Wort. Bis heute stehen in Synagogen und Kirchen die Menschen auf, wenn aus der Bibel vorgelesen wird.
+> Vers 8 ist wichtig: Es reicht nicht, Gottes Wort nur vorzulesen. Man muss es auch erklären, damit die Menschen es verstehen. Vielleicht wurde der hebräische Text auch ins Aramäische übersetzt, weil viele nach der Verbannung kein Hebräisch mehr gut verstanden. Genau darum geht es auch in dieser Bibel in Leichter Sprache.
+
+---
+
+### „Die Freude am HERRN ist eure Stärke“ (Vers 9–12)
+
+<sup>9</sup>Nehemia, der der Statthalter war,
+und Esra, der Priester und Schriftgelehrte,
+und die Leviten, die das Volk lehrten,
+sagten zum ganzen Volk:
+„Dieser Tag ist dem HERRN, eurem Gott, heilig.
+Trauert nicht und weint nicht!“
+Denn das ganze Volk weinte,
+als sie die Worte des Gesetzes hörten.
+<sup>10</sup>Dann sagte er zu ihnen:
+„Geht hin, esst das Fette, trinkt das Süße,
+und schickt Anteile denen, für die nichts zubereitet ist!
+Denn dieser Tag ist unserem Herrn heilig.
+Seid nicht bekümmert,
+denn die Freude am HERRN ist eure Stärke.“
+<sup>11</sup>Und die Leviten beruhigten das ganze Volk und sagten:
+„Seid still, denn der Tag ist heilig.
+Seid nicht bekümmert!“
+<sup>12</sup>Da ging das ganze Volk hin, um zu essen und zu trinken,
+Anteile zu verschicken
+und ein großes Freudenfest zu feiern.
+Denn sie hatten die Worte verstanden, die man ihnen mitgeteilt hatte.
+
+> **Was bedeutet das?**
+> Als das Volk das Gesetz hört, weint es. Sie merken, wie weit sie von Gottes Willen entfernt sind.
+> Aber Nehemia und Esra sagen: Heute ist ein Festtag! Heute ist nicht der Tag zum Weinen, sondern zum Feiern.
+> „Die Freude am HERRN ist eure Stärke“: Das ist einer der bekanntesten Sätze der Bibel. Die Kraft für ein Leben mit Gott kommt nicht aus Schuldgefühlen, sondern aus der Freude über Gott. In der englischen Vorlage heißt es wörtlich „die Freude des HERRN“. Man kann es auch so verstehen: Gottes eigene Freude über sein Volk gibt Kraft.
+> Wichtig: „Schickt Anteile denen, für die nichts zubereitet ist.“ Zum Fest gehört, dass die Armen nicht vergessen werden. Niemand soll an einem Festtag hungern.
+> Vers 12: Sie feiern, „weil sie die Worte verstanden hatten“. Verstehen führt zur Freude.
+
+---
+
+### Das Laubhüttenfest (Vers 13–18)
+
+<sup>13</sup>Am zweiten Tag versammelten sich die Familienoberhäupter des ganzen Volkes,
+die Priester und die Leviten
+bei Esra, dem Schriftgelehrten,
+um die Worte des Gesetzes genauer zu verstehen.
+<sup>14</sup>Da fanden sie im Gesetz geschrieben,
+dass der HERR durch Mose geboten hatte,
+dass die Kinder Israels am Fest im siebten Monat in Laubhütten wohnen sollten,
+<sup>15</sup>und dass sie in allen ihren Städten und in Jerusalem bekannt machen und ausrufen sollten:
+„Geht hinaus auf das Gebirge
+und holt Zweige vom Ölbaum, Zweige vom wilden Ölbaum,
+Myrtenzweige, Palmzweige und Zweige von dicht belaubten Bäumen,
+um Laubhütten zu machen, wie es geschrieben steht.“
+<sup>16</sup>Da ging das Volk hinaus, holte sie
+und machte sich Laubhütten,
+jeder auf seinem Dach,
+in ihren Höfen,
+in den Vorhöfen des Hauses Gottes,
+auf dem Platz am Wassertor
+und auf dem Platz am Tor Efraim.
+<sup>17</sup>Die ganze Versammlung derer, die aus der Gefangenschaft zurückgekehrt waren,
+machte Laubhütten und wohnte in den Laubhütten.
+Denn seit den Tagen Josuas, des Sohnes Nuns, bis zu diesem Tag
+hatten die Kinder Israels das nicht so gemacht.
+Und es war eine sehr große Freude.
+<sup>18</sup>Und Tag für Tag, vom ersten bis zum letzten Tag,
+las er aus dem Buch des Gesetzes Gottes vor.
+Sie feierten das Fest sieben Tage lang,
+und am achten Tag war eine feierliche Versammlung,
+nach der Vorschrift.
+
+> **Was bedeutet das?**
+> Die Anführer wollen noch mehr lernen. Beim Lesen entdecken sie das Laubhüttenfest (3. Mose 23,33–43).
+> Das Laubhüttenfest erinnert an die 40 Jahre in der Wüste, als das Volk in Zelten wohnte und Gott sie versorgte. Für die Heimkehrer hatte es eine besondere Bedeutung: Auch sie waren durch eine Art Wüste gegangen und hatten Gottes Fürsorge erlebt.
+> „Seit Josua nicht mehr so“: Das Fest war schon gefeiert worden (Esra 3,4). Aber nicht so, mit dem ganzen Volk in Laubhütten. Diese Art zu feiern war ganz neu.
+> Bis heute feiern Juden das Laubhüttenfest (Sukkot) und bauen Hütten aus Zweigen.
+> Das Lesen der Bibel ist nicht langweilig, sondern führt zu „sehr großer Freude“.
