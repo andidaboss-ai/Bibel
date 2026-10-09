@@ -75576,7 +75576,7 @@ und tötete ihre Fische.
 <sup>30</sup>Ihr Land wimmelte von Fröschen,
 sogar in den Gemächern ihrer Könige.
 <sup>31</sup>Er sprach, und es kamen Fliegenschwärme
-und Mücken in ihr ganzes Gebiet.
+und Läuse in ihr ganzes Gebiet.
 <sup>32</sup>Er gab ihnen Hagel statt Regen,
 Blitze in ihrem Land.
 <sup>33</sup>Er schlug ihre Weinstöcke und ihre Feigenbäume
