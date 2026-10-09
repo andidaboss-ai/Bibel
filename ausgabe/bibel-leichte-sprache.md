@@ -60910,3 +60910,545 @@ nach der Vorschrift.
 > „Seit Josua nicht mehr so“: Das Fest war schon gefeiert worden (Esra 3,4). Aber nicht so, mit dem ganzen Volk in Laubhütten. Diese Art zu feiern war ganz neu.
 > Bis heute feiern Juden das Laubhüttenfest (Sukkot) und bauen Hütten aus Zweigen.
 > Das Lesen der Bibel ist nicht langweilig, sondern führt zu „sehr großer Freude“.
+
+## Nehemia – Kapitel 9
+#### Das große Bußgebet
+
+---
+
+### Ein Tag des Bekennens (Vers 1–5)
+
+<sup>1</sup>Am 24. Tag dieses Monats
+versammelten sich die Kinder Israels
+mit Fasten, in Sacktuch und mit Erde auf dem Kopf.
+<sup>2</sup>Die Nachkommen Israels trennten sich von allen Fremden.
+Sie traten hin und bekannten ihre Sünden und die Schuld ihrer Väter.
+<sup>3</sup>Sie standen an ihrem Platz
+und lasen ein Viertel des Tages aus dem Buch des Gesetzes des HERRN, ihres Gottes.
+Und ein Viertel des Tages bekannten sie
+und beteten den HERRN, ihren Gott, an.
+<sup>4</sup>Dann traten von den Leviten Jeschua, Bani, Kadmiël, Schebanja, Bunni, Scherebja, Bani und Kenani
+auf das Podest
+und schrien mit lauter Stimme zum HERRN, ihrem Gott.
+<sup>5</sup>Und die Leviten Jeschua, Kadmiël, Bani, Haschabneja, Scherebja, Hodija, Schebanja und Petachja sagten:
+„Steht auf und lobt den HERRN, euren Gott,
+von Ewigkeit zu Ewigkeit!
+Gepriesen sei dein herrlicher Name,
+der erhaben ist über allen Lobpreis und alles Lob!
+
+> **Was bedeutet das?**
+> Drei Wochen nach dem Freudenfest (Kapitel 8) kommt ein Tag der Buße. Beides hat seine Zeit: die Freude und das ehrliche Bekenntnis.
+> Sacktuch und Erde auf dem Kopf waren Zeichen der Trauer und Reue.
+> „Ein Viertel des Tages“ sind etwa drei Stunden. Drei Stunden lesen sie in Gottes Wort, drei Stunden bekennen und beten sie.
+> „Sie trennten sich von allen Fremden“: Dieser Tag war ein Bekenntnis der Schuld Israels. Darum blieben die Israeliten unter sich.
+> Das folgende Gebet ist eines der längsten Gebete der Bibel. Es erzählt die ganze Geschichte Israels als Geschichte von Gottes Treue und der Untreue des Volkes.
+
+---
+
+### Gott, der Schöpfer und Gott Abrahams (Vers 6–8)
+
+<sup>6</sup>Du bist der HERR, du allein.
+Du hast den Himmel gemacht, den Himmel der Himmel mit seinem ganzen Heer,
+die Erde und alles, was auf ihr ist,
+die Meere und alles, was in ihnen ist.
+Und du erhältst sie alle am Leben.
+Das Heer des Himmels betet dich an.
+<sup>7</sup>Du bist der HERR, der Gott,
+der Abram erwählt hat,
+ihn aus Ur in Chaldäa herausgeführt
+und ihm den Namen Abraham gegeben hat.
+<sup>8</sup>Du hast sein Herz treu vor dir gefunden
+und mit ihm einen Bund geschlossen,
+das Land der Kanaaniter, der Hetiter, der Amoriter, der Perisiter, der Jebusiter und der Girgaschiter
+seinen Nachkommen zu geben.
+Und du hast deine Worte gehalten,
+denn du bist gerecht.
+
+> **Was bedeutet das?**
+> Das Gebet beginnt ganz am Anfang: bei der Schöpfung. Gott hat alles gemacht und erhält alles. „Das Heer des Himmels“ sind hier die Engel.
+> Dann Abraham: Gott hat ihn erwählt und ihm ein Land versprochen. Und Gott hat sein Versprechen gehalten. „Du bist gerecht“: Gott ist treu.
+
+---
+
+### Gott rettet aus Ägypten (Vers 9–15)
+
+<sup>9</sup>Du hast das Elend unserer Väter in Ägypten gesehen
+und ihr Schreien am Schilfmeer gehört.
+<sup>10</sup>Du hast Zeichen und Wunder getan an Pharao,
+an allen seinen Dienern
+und an dem ganzen Volk seines Landes.
+Denn du wusstest, dass sie hochmütig gegen sie gehandelt hatten.
+Und du hast dir einen Namen gemacht, wie es heute ist.
+<sup>11</sup>Du hast das Meer vor ihnen geteilt,
+sodass sie mitten durch das Meer auf trockenem Boden gingen.
+Und ihre Verfolger hast du in die Tiefe geworfen,
+wie einen Stein in mächtige Wasser.
+<sup>12</sup>Du hast sie bei Tag in einer Wolkensäule geführt
+und bei Nacht in einer Feuersäule,
+um ihnen den Weg zu erleuchten, den sie gehen sollten.
+<sup>13</sup>Du bist auch auf den Berg Sinai herabgekommen
+und hast vom Himmel her mit ihnen geredet.
+Du hast ihnen gerechte Rechtsordnungen und wahre Gesetze gegeben,
+gute Satzungen und Gebote.
+<sup>14</sup>Du hast ihnen deinen heiligen Sabbat bekannt gemacht
+und ihnen Gebote, Satzungen und ein Gesetz geboten
+durch deinen Diener Mose.
+<sup>15</sup>Du hast ihnen Brot vom Himmel gegeben für ihren Hunger
+und Wasser aus dem Felsen hervorgebracht für ihren Durst.
+Und du hast ihnen gesagt, sie sollen hineingehen und das Land in Besitz nehmen,
+das du ihnen zu geben geschworen hattest.
+
+> **Was bedeutet das?**
+> Hier wird die Geschichte aus 2. Mose zusammengefasst: das Elend in Ägypten, die Wunder, der Durchzug durch das Meer, die Wolken- und Feuersäule, das Gesetz am Sinai, das Manna und das Wasser aus dem Felsen.
+> Gott sieht, hört, rettet, führt, lehrt und versorgt.
+> „Brot vom Himmel“: Jesus nennt sich später selbst „das Brot des Lebens, das vom Himmel gekommen ist“ (Johannes 6,32–35).
+
+---
+
+### Die Untreue in der Wüste und Gottes Geduld (Vers 16–21)
+
+<sup>16</sup>Aber sie und unsere Väter wurden hochmütig,
+machten ihren Nacken steif
+und hörten nicht auf deine Gebote.
+<sup>17</sup>Sie weigerten sich zu gehorchen
+und dachten nicht an deine Wunder, die du unter ihnen getan hattest,
+sondern machten ihren Nacken steif
+und setzten in ihrer Auflehnung einen Anführer ein,
+um in ihre Knechtschaft zurückzukehren.
+Aber du bist ein Gott, der bereit ist zu vergeben,
+gnädig und barmherzig,
+langsam zum Zorn und reich an Güte,
+und du hast sie nicht verlassen.
+<sup>18</sup>Ja, als sie sich ein gegossenes Kalb gemacht hatten
+und sagten: ‚Das ist dein Gott, der dich aus Ägypten heraufgeführt hat‘,
+und schreckliche Gotteslästerungen begangen hatten,
+<sup>19</sup>hast du sie doch in deinem großen Erbarmen in der Wüste nicht verlassen.
+Die Wolkensäule wich nicht von ihnen bei Tag, um sie auf dem Weg zu führen,
+und die Feuersäule nicht bei Nacht, um ihnen den Weg zu erleuchten, den sie gehen sollten.
+<sup>20</sup>Du hast ihnen auch deinen guten Geist gegeben, um sie zu unterweisen.
+Dein Manna hast du ihrem Mund nicht vorenthalten,
+und du hast ihnen Wasser gegeben für ihren Durst.
+<sup>21</sup>Ja, 40 Jahre lang hast du sie in der Wüste versorgt.
+Es fehlte ihnen an nichts.
+Ihre Kleider wurden nicht alt,
+und ihre Füße schwollen nicht an.
+
+> **Was bedeutet das?**
+> Jetzt kommt die dunkle Seite: Das Volk war undankbar. Sie wollten sogar zurück nach Ägypten in die Sklaverei (4. Mose 14,4). Sie beteten ein goldenes Kalb an (2. Mose 32).
+> Aber Vers 17 ist der Kern des ganzen Gebets: „Du bist ein Gott, der bereit ist zu vergeben, gnädig und barmherzig, langsam zum Zorn und reich an Güte.“ Diese Worte hat Gott selbst über sich gesagt (2. Mose 34,6). Sie kommen in der Bibel immer wieder vor.
+> Trotz allem hat Gott sie nicht verlassen. Er führte sie weiter, gab ihnen seinen Geist, Essen und Wasser. 40 Jahre lang.
+
+---
+
+### Das gute Land (Vers 22–25)
+
+<sup>22</sup>Außerdem hast du ihnen Königreiche und Völker gegeben
+und hast sie ihnen Stück für Stück zugeteilt.
+So nahmen sie das Land Sihons in Besitz,
+das Land des Königs von Heschbon,
+und das Land Ogs, des Königs von Baschan.
+<sup>23</sup>Du hast auch ihre Kinder zahlreich gemacht wie die Sterne am Himmel
+und hast sie in das Land gebracht,
+von dem du ihren Vätern gesagt hattest,
+dass sie hineingehen und es in Besitz nehmen sollten.
+<sup>24</sup>So gingen die Kinder hinein und nahmen das Land in Besitz.
+Du hast die Bewohner des Landes, die Kanaaniter, vor ihnen gedemütigt
+und hast sie in ihre Hände gegeben,
+mit ihren Königen und den Völkern des Landes,
+damit sie mit ihnen nach ihrem Willen verfahren konnten.
+<sup>25</sup>Sie nahmen befestigte Städte und ein fettes Land ein.
+Sie nahmen Häuser in Besitz, voll von allem Guten,
+ausgehauene Zisternen, Weinberge, Olivengärten und Obstbäume in Menge.
+Sie aßen und wurden satt und fett
+und genossen deine große Güte.
+
+> **Was bedeutet das?**
+> Hier wird die Zeit von Mose und Josua zusammengefasst (4. Mose 21; Josua). Gott hat das Versprechen an Abraham erfüllt.
+> Das Land war reich. Sie bekamen sogar Häuser und Weinberge, die sie nicht selbst gebaut hatten (vgl. 5. Mose 6,10–11).
+> Die Eroberung Kanaans gehört zu den schweren Themen der Bibel. Das Gebet erzählt sie aus der Sicht Israels als Geschenk Gottes. Siehe dazu die Erklärungen im Buch Josua.
+> „Satt und fett“: Das klingt gut. Aber es ist auch eine Warnung. Im Wohlstand vergaß das Volk Gott (vgl. 5. Mose 32,15).
+
+---
+
+### Der immer gleiche Kreislauf (Vers 26–31)
+
+<sup>26</sup>Trotzdem wurden sie ungehorsam und lehnten sich gegen dich auf.
+Sie warfen dein Gesetz hinter ihren Rücken.
+Sie töteten deine Propheten,
+die sie warnten, um sie wieder zu dir zurückzubringen.
+Und sie begingen schreckliche Gotteslästerungen.
+<sup>27</sup>Darum gabst du sie in die Hand ihrer Feinde,
+die sie bedrängten.
+Aber in der Zeit ihrer Not schrien sie zu dir,
+und du hörtest vom Himmel.
+Und nach deinem großen Erbarmen gabst du ihnen Retter,
+die sie aus der Hand ihrer Feinde retteten.
+<sup>28</sup>Aber wenn sie Ruhe hatten,
+taten sie wieder Böses vor dir.
+Darum überließt du sie der Hand ihrer Feinde,
+sodass diese über sie herrschten.
+Doch wenn sie umkehrten und zu dir schrien,
+hörtest du vom Himmel.
+Und viele Male hast du sie gerettet nach deinem Erbarmen.
+<sup>29</sup>Du hast sie gewarnt,
+um sie wieder zu deinem Gesetz zurückzubringen.
+Aber sie waren hochmütig
+und hörten nicht auf deine Gebote,
+sondern sündigten gegen deine Rechtsordnungen
+– durch die der Mensch lebt, wenn er sie tut –.
+Sie kehrten dir den Rücken zu,
+machten ihren Nacken steif
+und wollten nicht hören.
+<sup>30</sup>Viele Jahre lang hattest du Geduld mit ihnen
+und warntest sie durch deinen Geist, durch deine Propheten.
+Aber sie wollten nicht hören.
+Darum gabst du sie in die Hand der Völker der Länder.
+<sup>31</sup>Doch in deinem großen Erbarmen hast du ihnen nicht ganz ein Ende gemacht
+und hast sie nicht verlassen.
+Denn du bist ein gnädiger und barmherziger Gott.
+
+> **Was bedeutet das?**
+> Hier wird die Zeit der Richter und der Könige zusammengefasst. Es ist immer derselbe Kreislauf:
+> 1. Das Volk wendet sich von Gott ab.
+> 2. Feinde kommen und bedrängen sie.
+> 3. Das Volk schreit zu Gott.
+> 4. Gott hört und schickt Retter.
+> 5. Es gibt Ruhe – und dann beginnt alles von vorn.
+> „Viele Male“ hat Gott gerettet. Seine Geduld war riesig.
+> Vers 29: „durch die der Mensch lebt, wenn er sie tut“. Das zitiert 3. Mose 18,5. Gottes Gebote sind nicht dazu da, das Leben schwer zu machen, sondern um Leben zu schenken.
+> Vers 31: Selbst die Verbannung war nicht das Ende. Gott hat sein Volk nicht ganz aufgegeben.
+
+---
+
+### Die Bitte (Vers 32–37)
+
+<sup>32</sup>Und jetzt, unser Gott,
+du großer, mächtiger und furchtgebietender Gott,
+der den Bund und die Güte bewahrt:
+Lass nicht gering sein vor dir all die Mühsal,
+die uns getroffen hat,
+unsere Könige, unsere Fürsten, unsere Priester, unsere Propheten, unsere Väter und dein ganzes Volk,
+seit der Zeit der Könige von Assyrien bis zu diesem Tag.
+<sup>33</sup>Doch du bist gerecht in allem, was über uns gekommen ist.
+Denn du hast treu gehandelt,
+wir aber haben gottlos gehandelt.
+<sup>34</sup>Auch unsere Könige, unsere Fürsten, unsere Priester und unsere Väter
+haben dein Gesetz nicht gehalten
+und nicht auf deine Gebote und deine Zeugnisse gehört,
+mit denen du sie gewarnt hast.
+<sup>35</sup>Denn sie haben dir nicht gedient in ihrem Königreich
+und in deiner großen Güte, die du ihnen gegeben hast,
+und in dem weiten und fetten Land, das du vor sie hingelegt hast.
+Sie haben sich nicht von ihren bösen Taten abgewandt.
+<sup>36</sup>Schau, wir sind heute Knechte.
+Und in dem Land, das du unseren Vätern gegeben hast,
+um seine Früchte und sein Gutes zu essen,
+schau, in diesem Land sind wir Knechte.
+<sup>37</sup>Sein reicher Ertrag gehört den Königen,
+die du wegen unserer Sünden über uns gesetzt hast.
+Sie herrschen auch über unsere Körper und über unser Vieh, wie es ihnen gefällt,
+und wir sind in großer Not.
+
+> **Was bedeutet das?**
+> Erst jetzt, am Ende, kommt eine Bitte. Und sie ist sehr vorsichtig: „Lass unsere Not nicht gering sein vor dir.“ Sie bitten Gott, ihr Leid zu sehen.
+> Sie geben zu: Gott war gerecht. Die Schuld liegt bei uns.
+> Vers 36–37 beschreibt die Lage unter den Persern ehrlich: Sie sind zwar zurück im eigenen Land, aber sie sind nicht frei. Die Steuern gehen an den fremden König. Das ist die bittere Wirklichkeit.
+
+---
+
+### Ein fester Bund (Vers 38)
+
+<sup>38</sup>Trotz all dem schließen wir einen festen Bund
+und schreiben ihn auf.
+Und unsere Fürsten, unsere Leviten und unsere Priester setzen ihr Siegel darauf.“
+
+> **Was bedeutet das?**
+> In deutschen Bibeln ist dieser Vers schon Kapitel 10,1. Darum sind die Verse in Kapitel 10 dort um eins verschoben.
+> Nach dem Bekenntnis folgt die Entscheidung: Wir wollen es jetzt anders machen. Wir schließen einen Bund und unterschreiben ihn.
+> Echte Umkehr bleibt nicht bei Worten stehen. Sie führt zu Taten.
+
+## Nehemia – Kapitel 10
+#### Das Volk unterschreibt den Bund
+
+---
+
+### Die Priester (Vers 1–8)
+
+<sup>1</sup>Die ihr Siegel daraufsetzten, waren:
+Nehemia, der Statthalter, der Sohn Hachaljas, und Zidkija,
+<sup>2</sup>Seraja, Asarja, Jeremia,
+<sup>3</sup>Paschhur, Amarja, Malkija,
+<sup>4</sup>Hattusch, Schebanja, Malluch,
+<sup>5</sup>Harim, Meremot, Obadja,
+<sup>6</sup>Daniel, Ginneton, Baruch,
+<sup>7</sup>Meschullam, Abija, Mijamin,
+<sup>8</sup>Maasja, Bilgai und Schemaja.
+Das waren die Priester.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln sind diese Verse 10,2–9. Das ganze Kapitel ist dort um eins verschoben.
+> Nehemia unterschreibt als Erster. Der Anführer geht mit gutem Beispiel voran.
+> Die Namen der Priester sind wohl Namen von Priesterfamilien, nicht von Einzelpersonen. Viele davon kommen auch in Kapitel 12 vor.
+
+---
+
+### Die Leviten (Vers 9–13)
+
+<sup>9</sup>Die Leviten:
+Jeschua, der Sohn Asanjas,
+Binnui, von den Söhnen Henadads,
+Kadmiël,
+<sup>10</sup>und ihre Brüder:
+Schebanja, Hodija, Kelita, Pelaja, Hanan,
+<sup>11</sup>Micha, Rehob, Haschabja,
+<sup>12</sup>Sakkur, Scherebja, Schebanja,
+<sup>13</sup>Hodija, Bani und Beninu.
+
+---
+
+### Die Oberhäupter des Volkes (Vers 14–27)
+
+<sup>14</sup>Die Oberhäupter des Volkes:
+Parsch, Pahat-Moab, Elam, Sattu, Bani,
+<sup>15</sup>Bunni, Asgad, Bebai,
+<sup>16</sup>Adonija, Bigwai, Adin,
+<sup>17</sup>Ater, Hiskija, Assur,
+<sup>18</sup>Hodija, Haschum, Bezai,
+<sup>19</sup>Harif, Anatot, Nebai,
+<sup>20</sup>Magpiasch, Meschullam, Hesir,
+<sup>21</sup>Meschesabel, Zadok, Jaddua,
+<sup>22</sup>Pelatja, Hanan, Anaja,
+<sup>23</sup>Hoschea, Hananja, Haschub,
+<sup>24</sup>Hallohesch, Pilha, Schobek,
+<sup>25</sup>Rehum, Haschabna, Maaseja,
+<sup>26</sup>Ahija, Hanan, Anan,
+<sup>27</sup>Malluch, Harim und Baana.
+
+> **Was bedeutet das?**
+> Viele dieser Namen kennen wir aus den Listen der Heimkehrer (Esra 2; Nehemia 7). Es sind die Familien, die zurückgekehrt waren.
+> Insgesamt unterschreiben 84 Männer: Priester, Leviten und Oberhäupter. Sie stehen für das ganze Volk.
+
+---
+
+### Das Versprechen (Vers 28–29)
+
+<sup>28</sup>Und das übrige Volk,
+die Priester, die Leviten, die Torhüter, die Sänger, die Tempeldiener
+und alle, die sich von den Völkern der Länder getrennt hatten, hin zum Gesetz Gottes,
+ihre Frauen, ihre Söhne und ihre Töchter,
+alle, die Einsicht und Verstand hatten,
+<sup>29</sup>schlossen sich ihren Brüdern, den Vornehmen, an.
+Sie traten in einen Fluch und einen Schwur ein,
+im Gesetz Gottes zu leben,
+das durch Mose, den Diener Gottes, gegeben worden war,
+und alle Gebote des HERRN, unseres Herrn,
+seine Rechtsordnungen und seine Satzungen zu halten und zu tun.
+
+> **Was bedeutet das?**
+> Nicht nur die Anführer, sondern alle machen mit: Männer, Frauen und Kinder, die alt genug sind, um es zu verstehen.
+> Auch Menschen aus anderen Völkern konnten dazugehören, wenn sie sich „hin zum Gesetz Gottes“ getrennt hatten.
+> „Fluch und Schwur“: Sie versprechen feierlich. Und sie sagen: Wenn wir das Versprechen brechen, soll uns ein Fluch treffen. So ernst meinen sie es.
+
+---
+
+### Die einzelnen Versprechen (Vers 30–39)
+
+<sup>30</sup>Und dass wir unsere Töchter nicht den Völkern des Landes geben
+und ihre Töchter nicht für unsere Söhne nehmen;
+<sup>31</sup>und wenn die Völker des Landes am Sabbattag Waren oder irgendwelches Getreide zum Verkauf bringen,
+dass wir es am Sabbat oder an einem heiligen Tag nicht von ihnen kaufen;
+und dass wir im siebten Jahr auf den Ertrag verzichten
+und jede Schuld erlassen.
+<sup>32</sup>Wir legten uns auch Pflichten auf:
+Jedes Jahr geben wir für den Dienst im Haus unseres Gottes
+den dritten Teil eines Schekels, etwa 4 Gramm Silber,
+<sup>33</sup>für die Schaubrote,
+für das ständige Speiseopfer,
+für das ständige Brandopfer,
+für die Sabbate, für die Neumonde, für die Festzeiten,
+für die heiligen Gaben,
+für die Sündopfer, um Sühne für Israel zu erwirken,
+und für alle Arbeit am Haus unseres Gottes.
+<sup>34</sup>Wir, die Priester, die Leviten und das Volk, warfen Lose über die Holzspende,
+um sie in das Haus unseres Gottes zu bringen,
+nach unseren Familien,
+zu festgesetzten Zeiten, Jahr für Jahr,
+damit es auf dem Altar des HERRN, unseres Gottes, brennt,
+wie es im Gesetz geschrieben steht;
+<sup>35</sup>und dass wir die Erstlinge unseres Ackers
+und die Erstlinge aller Früchte von allen Bäumen
+Jahr für Jahr zum Haus des HERRN bringen;
+<sup>36</sup>auch die Erstgeborenen unserer Söhne und unseres Viehs,
+wie es im Gesetz geschrieben steht,
+und die Erstgeborenen unserer Rinder und unserer Schafe,
+um sie zum Haus unseres Gottes zu bringen,
+zu den Priestern, die im Haus unseres Gottes dienen;
+<sup>37</sup>und dass wir die Erstlinge unseres Teigs, unsere Hebeopfer,
+die Früchte von allen Bäumen, den Most und das Öl
+den Priestern in die Kammern des Hauses unseres Gottes bringen;
+und den Zehnten unseres Ackers den Leviten.
+Denn sie, die Leviten, nehmen den Zehnten in allen unseren Ackerbaustädten.
+<sup>38</sup>Der Priester, der Nachkomme Aarons, soll bei den Leviten sein,
+wenn die Leviten den Zehnten nehmen.
+Und die Leviten sollen den Zehnten vom Zehnten zum Haus unseres Gottes hinaufbringen,
+in die Kammern, in das Schatzhaus.
+<sup>39</sup>Denn die Kinder Israels und die Kinder Levis sollen das Hebeopfer
+vom Getreide, vom Most und vom Öl
+in die Kammern bringen,
+wo die Geräte des Heiligtums sind
+und die Priester, die Dienst tun, und die Torhüter und die Sänger.
+Wir wollen das Haus unseres Gottes nicht im Stich lassen.
+
+> **Was bedeutet das?**
+> Der Bund wird ganz konkret. Es geht um das Alltagsleben:
+> – Ehe: keine Ehen mit Menschen, die fremde Götter verehren (siehe dazu die Erklärung zu Esra 10).
+> – Sabbat: am Ruhetag nicht einkaufen, auch wenn die Händler kommen.
+> – Sabbatjahr: jedes siebte Jahr das Land ruhen lassen und Schulden erlassen. Das schützt die Armen (vgl. Kapitel 5).
+> – Tempel: Geld, Holz, Erstlinge und Zehnten für den Gottesdienst.
+> Ein Drittel Schekel war eine kleine Summe. Jeder konnte das geben.
+> Das Holz für den Altar musste jemand bringen. Das Feuer auf dem Altar sollte nie ausgehen (3. Mose 6,6). Die Familien wechselten sich ab.
+> „Die Erstgeborenen unserer Söhne“: Die erstgeborenen Söhne wurden Gott geweiht und dann mit Geld „ausgelöst“ (4. Mose 18,15–16). Es ging nie um Menschenopfer.
+> Der letzte Satz fasst alles zusammen: „Wir wollen das Haus unseres Gottes nicht im Stich lassen.“ Leider zeigt Kapitel 13, dass sie das Versprechen nicht lange hielten.
+
+## Nehemia – Kapitel 11
+#### Wer in Jerusalem wohnt
+
+---
+
+### Jeder Zehnte zieht nach Jerusalem (Vers 1–3)
+
+<sup>1</sup>Die Obersten des Volkes wohnten in Jerusalem.
+Das übrige Volk warf Lose,
+um jeden Zehnten nach Jerusalem, in die heilige Stadt, zu bringen, damit er dort wohnte,
+und neun Teile in den anderen Städten.
+<sup>2</sup>Und das Volk segnete alle Männer,
+die sich freiwillig bereit erklärten, in Jerusalem zu wohnen.
+<sup>3</sup>Das sind die Oberhäupter der Provinz, die in Jerusalem wohnten.
+In den Städten Judas aber wohnte jeder auf seinem Besitz in ihren Städten:
+Israel, die Priester, die Leviten, die Tempeldiener und die Nachkommen der Diener Salomos.
+
+> **Was bedeutet das?**
+> Hier wird das Problem aus Kapitel 7,4 gelöst: Jerusalem hatte eine Mauer, aber zu wenig Einwohner.
+> Ein Zehntel des Volkes zieht nach Jerusalem, wie ein „Zehnter“ für Gott.
+> Warum wollten nicht alle in Jerusalem wohnen? Die Stadt war noch zerstört und gefährlich. Die Menschen auf dem Land hatten ihre Felder und Häuser. Nach Jerusalem zu ziehen hieß, Opfer zu bringen.
+> Darum werden die Freiwilligen gesegnet. Das Volk ehrt die, die sich für die Gemeinschaft einsetzen.
+
+---
+
+### Aus Juda und Benjamin (Vers 4–9)
+
+<sup>4</sup>In Jerusalem wohnten einige von den Nachkommen Judas und von den Nachkommen Benjamins.
+Von den Nachkommen Judas:
+Ataja, der Sohn Usijas, des Sohnes Secharjas, des Sohnes Amarjas,
+des Sohnes Schefatjas, des Sohnes Mahalalels,
+von den Nachkommen des Perez;
+<sup>5</sup>und Maaseja, der Sohn Baruchs, des Sohnes Kol-Hoses, des Sohnes Hasajas,
+des Sohnes Adajas, des Sohnes Jojaribs, des Sohnes Secharjas, des Sohnes des Schiloniters.
+<sup>6</sup>Alle Nachkommen des Perez, die in Jerusalem wohnten,
+waren 468 tapfere Männer.
+<sup>7</sup>Das sind die Nachkommen Benjamins:
+Sallu, der Sohn Meschullams, des Sohnes Joëds, des Sohnes Pedajas,
+des Sohnes Kolajas, des Sohnes Maasejas, des Sohnes Itiëls, des Sohnes Jeschajas.
+<sup>8</sup>Und nach ihm Gabbai und Sallai: 928.
+<sup>9</sup>Joël, der Sohn Sichris, war ihr Vorsteher.
+Und Juda, der Sohn Hassenuas, war der Zweite über die Stadt.
+
+> **Was bedeutet das?**
+> Perez war ein Sohn Judas (1. Mose 38,29). Von ihm stammte auch David ab (Rut 4,18–22).
+> „Der Schiloniter“ ist hier wohl ein Nachkomme von Schela, einem anderen Sohn Judas.
+> Diese Liste ähnelt 1. Chronik 9, aber sie ist nicht ganz gleich.
+
+---
+
+### Die Priester (Vers 10–14)
+
+<sup>10</sup>Von den Priestern:
+Jedaja, der Sohn Jojaribs, Jachin,
+<sup>11</sup>Seraja, der Sohn Hilkijas, des Sohnes Meschullams, des Sohnes Zadoks,
+des Sohnes Merajots, des Sohnes Ahitubs,
+der Vorsteher des Hauses Gottes,
+<sup>12</sup>und ihre Brüder, die die Arbeit im Haus taten: 822;
+und Adaja, der Sohn Jerohams, des Sohnes Pelaljas, des Sohnes Amzis,
+des Sohnes Secharjas, des Sohnes Paschhurs, des Sohnes Malkijas,
+<sup>13</sup>und seine Brüder, Familienoberhäupter: 242;
+und Amaschsai, der Sohn Asarels, des Sohnes Achsais,
+des Sohnes Meschillemots, des Sohnes Immers,
+<sup>14</sup>und ihre Brüder, tapfere Krieger: 128.
+Ihr Vorsteher war Sabdiël, der Sohn Haggedolims.
+
+> **Was bedeutet das?**
+> Über 1100 Priester wohnten in Jerusalem, nahe beim Tempel.
+> „Haggedolim“ heißt „die Großen“. Vielleicht ist es kein Name, sondern ein Titel: „Sabdiël, aus einer der großen Familien“.
+
+---
+
+### Die Leviten, Sänger und Torhüter (Vers 15–21)
+
+<sup>15</sup>Von den Leviten:
+Schemaja, der Sohn Haschubs, des Sohnes Asrikams, des Sohnes Haschabjas, des Sohnes Bunnis;
+<sup>16</sup>und Schabbetai und Josabad, von den Obersten der Leviten,
+die die Aufsicht über die äußeren Arbeiten am Haus Gottes hatten;
+<sup>17</sup>und Mattanja, der Sohn Michas, des Sohnes Sabdis, des Sohnes Asafs,
+der Leiter, der beim Gebet den Lobgesang anstimmte,
+und Bakbukja, der Zweite unter seinen Brüdern;
+und Abda, der Sohn Schammuas, des Sohnes Galals, des Sohnes Jedutuns.
+<sup>18</sup>Alle Leviten in der heiligen Stadt waren 284.
+<sup>19</sup>Und die Torhüter Akkub, Talmon und ihre Brüder,
+die an den Toren Wache hielten: 172.
+<sup>20</sup>Der Rest von Israel, von den Priestern und den Leviten,
+wohnte in allen Städten Judas, jeder auf seinem Erbteil.
+<sup>21</sup>Die Tempeldiener aber wohnten auf dem Ofel.
+Und Ziha und Gischpa waren über die Tempeldiener gesetzt.
+
+> **Was bedeutet das?**
+> Mattanja stimmte beim Gebet den Lobgesang an. Er war ein Vorsänger, wie ein Kantor heute.
+> „Äußere Arbeiten“ waren wohl Aufgaben außerhalb des eigentlichen Tempeldienstes, zum Beispiel die Verwaltung der Gaben.
+
+---
+
+### Weitere Verantwortliche (Vers 22–24)
+
+<sup>22</sup>Der Vorsteher der Leviten in Jerusalem war Usi, der Sohn Banis,
+des Sohnes Haschabjas, des Sohnes Mattanjas, des Sohnes Michas,
+von den Nachkommen Asafs, den Sängern,
+die für den Dienst im Haus Gottes zuständig waren.
+<sup>23</sup>Denn es gab einen Befehl des Königs über sie,
+und eine feste Versorgung für die Sänger,
+wie es jeder Tag erforderte.
+<sup>24</sup>Petachja, der Sohn Meschesabels,
+von den Nachkommen Serachs, des Sohnes Judas,
+stand dem König in allen Angelegenheiten des Volkes zur Seite.
+
+> **Was bedeutet das?**
+> Der Perserkönig sorgte sogar für die Sänger im Tempel. Er unterstützte den Gottesdienst in Jerusalem (vgl. Esra 7,24).
+> Petachja war wohl ein Vertreter der Juden am persischen Hof, eine Art Botschafter.
+
+---
+
+### In den Dörfern Judas und Benjamins (Vers 25–36)
+
+<sup>25</sup>Was die Dörfer mit ihren Feldern betrifft:
+Einige von den Nachkommen Judas wohnten in Kirjat-Arba und seinen Tochterstädten,
+in Dibon und seinen Tochterstädten,
+in Jekabzeel und seinen Dörfern,
+<sup>26</sup>in Jeschua, in Molada, in Bet-Pelet,
+<sup>27</sup>in Hazar-Schual, in Beerscheba und seinen Tochterstädten,
+<sup>28</sup>in Ziklag, in Mechona und seinen Tochterstädten,
+<sup>29</sup>in En-Rimmon, in Zora, in Jarmut,
+<sup>30</sup>in Sanoach, Adullam und ihren Dörfern,
+in Lachisch und seinen Feldern,
+in Aseka und seinen Tochterstädten.
+So lagerten sie von Beerscheba bis zum Tal Hinnom.
+<sup>31</sup>Die Nachkommen Benjamins wohnten von Geba an,
+in Michmas, Aja, Bethel und seinen Tochterstädten,
+<sup>32</sup>in Anatot, Nob, Ananja,
+<sup>33</sup>Hazor, Rama, Gittajim,
+<sup>34</sup>Hadid, Zeboim, Neballat,
+<sup>35</sup>Lod und Ono, im Tal der Handwerker.
+<sup>36</sup>Von den Leviten wohnten einige Abteilungen aus Juda im Gebiet Benjamins.
+
+> **Was bedeutet das?**
+> Kirjat-Arba ist der alte Name von Hebron (Josua 14,15).
+> „Tochterstädte“ sind kleinere Orte, die zu einer größeren Stadt gehörten.
+> „Von Beerscheba bis zum Tal Hinnom“: vom Süden bis direkt vor Jerusalem.
+> Viele dieser Orte kennen wir aus früheren Büchern der Bibel. Die Heimkehrer leben wieder an den Orten ihrer Vorfahren. Gottes Versprechen, sie zurückzubringen, hat sich erfüllt.
