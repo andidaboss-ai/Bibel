@@ -94197,3 +94197,414 @@ das ich ihnen und ihren Vätern gegeben habe.‘“
 > Vers 7: Gott selbst schenkt das Herz, das ihn erkennt. Umkehr ist nicht nur Menschenwerk, sondern Gottes Geschenk.
 > Vers 8–10: Die in Jerusalem Gebliebenen, die sich sicher fühlen, sind die „schlechten Feigen“. Sie haben nichts gelernt.
 > Diese Botschaft war überraschend und tröstlich für die Verbannten: Gott hat euch nicht vergessen. Gerade in der Fremde wird etwas Neues entstehen. Tatsächlich hat das Judentum im babylonischen Exil wichtige Wurzeln geschlagen.
+
+## Jeremia – Kapitel 25
+#### Siebzig Jahre und der Becher des Zorns
+
+---
+
+### 23 Jahre lang habt ihr nicht gehört (Vers 1–7)
+
+<sup>1</sup>Das Wort, das an Jeremia kam über das ganze Volk von Juda
+im vierten Jahr Jojakims, des Sohnes Joschijas, des Königs von Juda
+(das war das erste Jahr Nebukadnezars, des Königs von Babel),
+<sup>2</sup>das der Prophet Jeremia zum ganzen Volk von Juda
+und zu allen Bewohnern Jerusalems redete:
+<sup>3</sup>Vom dreizehnten Jahr Joschijas, des Sohnes Amons, des Königs von Juda,
+bis zu diesem Tag, diese dreiundzwanzig Jahre,
+ist das Wort des HERRN zu mir gekommen,
+und ich habe zu euch geredet, früh und unermüdlich,
+aber ihr habt nicht gehört.
+<sup>4</sup>Der HERR hat alle seine Knechte, die Propheten, zu euch gesandt,
+früh und unermüdlich
+(aber ihr habt nicht gehört und euer Ohr nicht geneigt, um zu hören),
+<sup>5</sup>und hat gesagt:
+„Kehrt doch um, jeder von seinem bösen Weg
+und von der Bosheit eurer Taten,
+dann sollt ihr in dem Land wohnen,
+das der HERR euch und euren Vätern gegeben hat,
+von Ewigkeit zu Ewigkeit.
+<sup>6</sup>Lauft nicht anderen Göttern nach, um ihnen zu dienen
+und sie anzubeten,
+und kränkt mich nicht mit dem Werk eurer Hände,
+dann werde ich euch nichts Böses tun.“
+<sup>7</sup>„Aber ihr habt nicht auf mich gehört“, spricht der HERR,
+„um mich mit dem Werk eurer Hände zu kränken,
+zu eurem eigenen Schaden.“
+
+> **Was bedeutet das?**
+> Vers 1: Das vierte Jahr Jojakims ist 605 vor Christus. In diesem Jahr besiegte Nebukadnezar die Ägypter bei Karkemisch und wurde König von Babylon. Ein Wendepunkt der Weltgeschichte.
+> Vers 3: Jeremia predigt seit 23 Jahren, „früh und unermüdlich“, aber niemand hört. Was für eine Ausdauer!
+> Vers 5–6: Die Botschaft war immer dieselbe und ganz einfach: Kehrt um, dann dürft ihr im Land bleiben.
+
+---
+
+### Siebzig Jahre (Vers 8–14)
+
+<sup>8</sup>Darum spricht der HERR der Heere:
+„Weil ihr nicht auf meine Worte gehört habt,
+<sup>9</sup>siehe, so sende ich hin und hole alle Sippen des Nordens“,
+spricht der HERR,
+„und sende zu Nebukadnezar, dem König von Babel, meinem Knecht,
+und bringe sie über dieses Land und über seine Bewohner
+und über alle diese Nationen ringsum.
+Ich werde sie völlig vernichten
+und sie zu einem Entsetzen und zu einem Gezisch
+und zu ewigen Trümmern machen.
+<sup>10</sup>Ich werde unter ihnen verstummen lassen
+den Jubelruf und den Freudenruf,
+die Stimme des Bräutigams und die Stimme der Braut,
+das Geräusch der Mühlsteine und das Licht der Lampe.
+<sup>11</sup>Dieses ganze Land wird zu Trümmern und zu einem Entsetzen werden,
+und diese Nationen werden dem König von Babel dienen, siebzig Jahre lang.
+<sup>12</sup>Und es wird geschehen, wenn die siebzig Jahre erfüllt sind,
+werde ich am König von Babel und an diesem Volk heimsuchen“,
+spricht der HERR,
+„ihre Schuld,
+und das Land der Chaldäer werde ich für immer zu Wüsten machen.
+<sup>13</sup>Ich werde über dieses Land alle meine Worte bringen,
+die ich gegen es geredet habe,
+alles, was in diesem Buch geschrieben steht,
+was Jeremia gegen alle Nationen geweissagt hat.
+<sup>14</sup>Denn viele Nationen und große Könige
+werden auch sie zu Knechten machen.
+Ich werde ihnen vergelten nach ihren Taten
+und nach dem Werk ihrer Hände.“
+
+> **Was bedeutet das?**
+> Vers 9: Erstaunlich: Gott nennt Nebukadnezar, den feindlichen König, „meinen Knecht“. Er ist ein Werkzeug in Gottes Hand, ohne es zu wissen.
+> Vers 10: Ein sehr berührendes Bild für ein zerstörtes Land: Kein Lachen mehr, keine Hochzeiten, kein Geräusch der Handmühlen, mit denen jeden Morgen Mehl gemahlen wurde, kein Licht in den Häusern am Abend. Das ganz normale Leben hört auf.
+> Vers 11–12: Die „siebzig Jahre“ sind eine runde Zahl für ein Menschenleben. Von der ersten Wegführung (605 vor Christus) bis zur Heimkehr nach dem Erlass des Kyrus (538 vor Christus) vergingen ungefähr 70 Jahre. Später haben Daniel (Daniel 9,2) und die Chronik (2. Chronik 36,21) über diese Zahl nachgedacht.
+> Vers 12–14: Auch Babylon wird zur Rechenschaft gezogen. Keine Macht ist ewig.
+
+---
+
+### Der Becher des Zornweins (Vers 15–29)
+
+<sup>15</sup>Denn so spricht der HERR, der Gott Israels, zu mir:
+„Nimm diesen Becher mit dem Wein des Zorns aus meiner Hand
+und gib ihn allen Nationen zu trinken, zu denen ich dich sende.
+<sup>16</sup>Sie werden trinken und hin und her taumeln und wahnsinnig werden
+wegen des Schwertes, das ich unter sie sende.“
+<sup>17</sup>Da nahm ich den Becher aus der Hand des HERRN
+und gab ihn allen Nationen zu trinken,
+zu denen der HERR mich gesandt hatte:
+<sup>18</sup>Jerusalem und den Städten Judas,
+seinen Königen und seinen Fürsten,
+um sie zu Trümmern, zu einem Entsetzen, zu einem Gezisch
+und zu einem Fluch zu machen, wie es heute ist;
+<sup>19</sup>dem Pharao, dem König von Ägypten,
+und seinen Dienern, seinen Fürsten und seinem ganzen Volk;
+<sup>20</sup>und dem ganzen Völkergemisch,
+allen Königen des Landes Uz,
+allen Königen der Philister,
+Aschkelon, Gaza, Ekron und dem Rest von Aschdod;
+<sup>21</sup>Edom, Moab und den Kindern Ammon;
+<sup>22</sup>allen Königen von Tyrus, allen Königen von Sidon
+und den Königen der Insel jenseits des Meeres;
+<sup>23</sup>Dedan, Tema, Bus
+und allen mit gestutztem Bartrand;
+<sup>24</sup>allen Königen Arabiens
+und allen Königen des Völkergemischs, die in der Wüste wohnen;
+<sup>25</sup>allen Königen von Simri,
+allen Königen von Elam
+und allen Königen der Meder;
+<sup>26</sup>und allen Königen des Nordens, den nahen und den fernen,
+einem nach dem anderen,
+und allen Königreichen der Welt, die auf der Erde sind.
+Und der König von Scheschach wird nach ihnen trinken.
+<sup>27</sup>„Du sollst zu ihnen sagen:
+‚So spricht der HERR der Heere, der Gott Israels:
+„Trinkt und werdet betrunken und erbrecht euch
+und fallt und steht nicht mehr auf
+wegen des Schwertes, das ich unter euch sende.“‘
+<sup>28</sup>Und es wird geschehen, wenn sie sich weigern,
+den Becher aus deiner Hand zu nehmen und zu trinken,
+dann sollst du zu ihnen sagen:
+‚So spricht der HERR der Heere:
+„Ihr müsst trinken!
+<sup>29</sup>Denn siehe, bei der Stadt, die nach meinem Namen genannt ist,
+fange ich an, Unheil zu bringen,
+und ihr solltet ganz ungestraft bleiben?
+Ihr werdet nicht ungestraft bleiben,
+denn ich rufe das Schwert über alle Bewohner der Erde“,
+spricht der HERR der Heere.‘
+
+> **Was bedeutet das?**
+> Der „Becher des Zornweins“ ist ein Bild: Wer daraus trinkt, taumelt wie ein Betrunkener. Gemeint ist das Unheil des Krieges, das über viele Völker kommt.
+> Vers 18–26: Eine lange Liste von Völkern rund um Israel: Ägypten, die Philister, Edom, Moab, Ammon, Tyrus, Sidon, arabische Stämme, Elam und Medien im Osten. Alle werden die Macht Babylons zu spüren bekommen.
+> Vers 26: „Scheschach“ ist ein Geheimname für Babel. Man vertauschte dabei die Buchstaben des hebräischen Alphabets: den ersten mit dem letzten, den zweiten mit dem vorletzten und so weiter. So wird aus „Babel“ „Scheschach“. Babel kommt als letztes dran.
+> Vers 29: Wenn Gott schon bei seiner eigenen Stadt mit dem Gericht anfängt, dann werden die anderen Völker erst recht nicht verschont. (Vgl. 1. Petrus 4,17: „Das Gericht beginnt am Haus Gottes.“)
+
+---
+
+### Der HERR brüllt wie ein Löwe (Vers 30–38)
+
+<sup>30</sup>Darum weissage du gegen sie all diese Worte und sag zu ihnen:
+‚Der HERR wird von der Höhe brüllen
+und aus seiner heiligen Wohnung seine Stimme erschallen lassen.
+Er wird gewaltig brüllen über seine Weide.
+Er wird einen Ruf anstimmen wie die Keltertreter
+gegen alle Bewohner der Erde.
+<sup>31</sup>Ein Getöse wird bis ans Ende der Erde dringen,
+denn der HERR hat einen Rechtsstreit mit den Nationen.
+Er geht ins Gericht mit allem Fleisch.
+Die Gottlosen gibt er dem Schwert preis‘,
+spricht der HERR.“
+<sup>32</sup>So spricht der HERR der Heere:
+„Siehe, Unheil geht aus von Nation zu Nation,
+und ein großer Sturm erhebt sich von den äußersten Enden der Erde.“
+<sup>33</sup>Die vom HERRN Erschlagenen werden an jenem Tag liegen
+von einem Ende der Erde bis zum anderen Ende der Erde.
+Man wird nicht um sie klagen.
+Sie werden nicht gesammelt und nicht begraben werden.
+Sie werden zu Dünger auf dem Erdboden werden.
+<sup>34</sup>Heult, ihr Hirten, und schreit!
+Wälzt euch im Staub, ihr Anführer der Herde!
+Denn eure Tage sind gekommen, geschlachtet und zerstreut zu werden,
+und ihr werdet zerbrechen wie ein kostbares Gefäß.
+<sup>35</sup>Die Hirten werden keine Zuflucht finden,
+und die Anführer der Herde kein Entkommen.
+<sup>36</sup>Horch, das Geschrei der Hirten
+und das Heulen der Anführer der Herde,
+denn der HERR verwüstet ihre Weide.
+<sup>37</sup>Die friedlichen Weideplätze sind verstummt
+wegen des glühenden Zorns des HERRN.
+<sup>38</sup>Er hat sein Dickicht verlassen wie ein Löwe,
+denn ihr Land ist zu einem Entsetzen geworden
+wegen der Grausamkeit der Unterdrückung
+und wegen seines glühenden Zorns.
+
+> **Was bedeutet das?**
+> Vers 30–31: Gott „brüllt“ wie ein Löwe. Er führt einen Rechtsstreit mit allen Völkern. Das ganze Unrecht der Welt kommt vor Gott zur Sprache.
+> Vers 34–36: Die „Hirten“, die Könige und Mächtigen, die ihre Völker schlecht geführt haben, werden zur Verantwortung gezogen.
+> Diese Verse beschreiben das Gericht als Gottes Sache. Sie sind keine Aufforderung an Menschen, Krieg zu führen. Krieg wird hier als schreckliches Unheil beschrieben, nicht als etwas Gutes.
+
+## Jeremia – Kapitel 26
+#### Jeremia vor Gericht
+
+---
+
+### Jeremia soll sterben (Vers 1–9)
+
+<sup>1</sup>Am Anfang der Herrschaft Jojakims, des Sohnes Joschijas, des Königs von Juda,
+kam dieses Wort vom HERRN:
+<sup>2</sup>„So spricht der HERR:
+‚Stell dich in den Vorhof des Hauses des HERRN
+und rede zu allen Städten Judas,
+die kommen, um im Haus des HERRN anzubeten,
+alle Worte, die ich dir gebiete, zu ihnen zu reden.
+Lass kein Wort weg!
+<sup>3</sup>Vielleicht hören sie
+und kehren um, jeder von seinem bösen Weg,
+sodass mich das Unheil reut, das ich ihnen antun will
+wegen der Bosheit ihrer Taten.‘“
+<sup>4</sup>Du sollst zu ihnen sagen: „So spricht der HERR:
+‚Wenn ihr nicht auf mich hört,
+um in meinem Gesetz zu leben, das ich euch vorgelegt habe,
+<sup>5</sup>um auf die Worte meiner Knechte, der Propheten, zu hören,
+die ich zu euch sende, früh und unermüdlich
+– aber ihr habt nicht gehört –,
+<sup>6</sup>dann werde ich dieses Haus wie Schilo machen,
+und diese Stadt werde ich zum Fluch machen
+für alle Nationen der Erde.‘“
+<sup>7</sup>Die Priester und die Propheten und das ganze Volk
+hörten, wie Jeremia diese Worte im Haus des HERRN redete.
+<sup>8</sup>Als Jeremia alles zu Ende geredet hatte,
+was der HERR ihm geboten hatte, zum ganzen Volk zu reden,
+da packten ihn die Priester und die Propheten und das ganze Volk und sagten:
+„Du musst sterben!
+<sup>9</sup>Warum hast du im Namen des HERRN geweissagt und gesagt:
+‚Dieses Haus wird wie Schilo werden,
+und diese Stadt wird verwüstet sein, ohne Bewohner‘?“
+Und das ganze Volk drängte sich um Jeremia im Haus des HERRN.
+
+> **Was bedeutet das?**
+> Dieses Kapitel erzählt, was nach der Tempelrede aus Kapitel 7 geschah.
+> Vers 2: „Lass kein Wort weg!“ Jeremia soll Gottes Botschaft vollständig weitergeben, auch wenn sie unbequem ist. (Genau das wollen wir mit dieser Bibel auch: kein Wort weglassen.)
+> Vers 3: „Vielleicht hören sie.“ Gott hofft immer noch auf Umkehr. Die Drohung soll nicht vernichten, sondern zur Umkehr bewegen.
+> Vers 8: Die Reaktion ist heftig: „Du musst sterben!“ Für die Leute war es Gotteslästerung zu sagen, dass der Tempel zerstört werden könnte.
+
+---
+
+### Die Verhandlung (Vers 10–19)
+
+<sup>10</sup>Als die Fürsten von Juda diese Dinge hörten,
+kamen sie aus dem Haus des Königs herauf zum Haus des HERRN
+und setzten sich in den Eingang des Neuen Tores am Haus des HERRN.
+<sup>11</sup>Da sagten die Priester und die Propheten zu den Fürsten
+und zum ganzen Volk:
+„Dieser Mann hat den Tod verdient,
+denn er hat gegen diese Stadt geweissagt,
+wie ihr mit euren Ohren gehört habt.“
+<sup>12</sup>Da sagte Jeremia zu allen Fürsten und zum ganzen Volk:
+„Der HERR hat mich gesandt, gegen dieses Haus und gegen diese Stadt
+all die Worte zu weissagen, die ihr gehört habt.
+<sup>13</sup>So bessert nun eure Wege und eure Taten
+und hört auf die Stimme des HERRN, eures Gottes,
+dann wird den HERRN das Unheil reuen,
+das er gegen euch ausgesprochen hat.
+<sup>14</sup>Ich aber, siehe, ich bin in eurer Hand.
+Macht mit mir, was in euren Augen gut und recht ist.
+<sup>15</sup>Nur wisst genau:
+Wenn ihr mich tötet,
+dann bringt ihr unschuldiges Blut über euch,
+über diese Stadt und über ihre Bewohner.
+Denn der HERR hat mich in Wahrheit zu euch gesandt,
+um all diese Worte vor euren Ohren zu reden.“
+<sup>16</sup>Da sagten die Fürsten und das ganze Volk zu den Priestern und zu den Propheten:
+„Dieser Mann hat den Tod nicht verdient,
+denn er hat im Namen des HERRN, unseres Gottes, zu uns geredet.“
+<sup>17</sup>Da standen einige von den Ältesten des Landes auf
+und sagten zur ganzen Versammlung des Volkes:
+<sup>18</sup>„Micha aus Moreschet hat in den Tagen Hiskias, des Königs von Juda, geweissagt
+und hat zum ganzen Volk von Juda gesagt:
+‚So spricht der HERR der Heere:
+„Zion wird wie ein Feld umgepflügt werden,
+und Jerusalem wird zu Trümmerhaufen werden
+und der Berg des Hauses zu bewaldeten Höhen.“‘
+<sup>19</sup>Haben Hiskia, der König von Juda, und ganz Juda ihn etwa getötet?
+Hat er nicht den HERRN gefürchtet und den HERRN angefleht,
+sodass den HERRN das Unheil reute, das er gegen sie ausgesprochen hatte?
+Wir würden ein großes Unrecht gegen unsere eigenen Seelen begehen!“
+
+> **Was bedeutet das?**
+> Vers 10: Die Fürsten, also die Beamten des Königs, kommen als Richter zum Tempeltor.
+> Vers 12–15: Jeremias Verteidigung ist mutig: Er nimmt nichts zurück. Er wiederholt: Kehrt um! Und er sagt: Ich bin in eurer Hand. Aber wenn ihr mich tötet, vergießt ihr unschuldiges Blut.
+> Vers 16: Die Fürsten und das Volk entscheiden: Jeremia ist unschuldig.
+> Vers 17–19: Die Ältesten erinnern an den Propheten Micha (Micha 3,12). Er hatte etwa 100 Jahre früher Ähnliches gesagt. König Hiskia hat ihn nicht getötet, sondern ist umgekehrt, und Gott hat Jerusalem verschont. Ein schönes Beispiel dafür, wie man aus der Geschichte lernen kann.
+
+---
+
+### Der Prophet Urija wird getötet (Vers 20–24)
+
+<sup>20</sup>Es gab auch einen Mann, der im Namen des HERRN weissagte,
+Urija, den Sohn Schemajas, aus Kirjat-Jearim.
+Er weissagte gegen diese Stadt und gegen dieses Land
+ganz so wie Jeremia.
+<sup>21</sup>Als König Jojakim mit all seinen Helden und allen Fürsten seine Worte hörte,
+wollte der König ihn töten.
+Als Urija das hörte, fürchtete er sich,
+floh und ging nach Ägypten.
+<sup>22</sup>Da schickte König Jojakim Elnatan, den Sohn Achbors,
+und einige Männer mit ihm nach Ägypten.
+<sup>23</sup>Sie holten Urija aus Ägypten und brachten ihn zu König Jojakim.
+Der ließ ihn mit dem Schwert töten
+und seine Leiche auf die Gräber der einfachen Leute werfen.
+<sup>24</sup>Aber die Hand Ahikams, des Sohnes Schafans, war mit Jeremia,
+sodass man ihn nicht dem Volk auslieferte, um ihn zu töten.
+
+> **Was bedeutet das?**
+> Vers 20–23: Ein anderer Prophet, Urija, hatte dieselbe Botschaft wie Jeremia. Er floh nach Ägypten, aber König Jojakim ließ ihn zurückholen und töten. Das zeigt, wie gefährlich Jeremias Lage war. Propheten, die die Wahrheit sagen, wurden verfolgt, und das geschieht bis heute in vielen Ländern.
+> Vers 24: Jeremia überlebte, weil Ahikam ihn beschützte. Ahikam war ein hoher Beamter. Seine Familie (Schafan) half Jeremia immer wieder. Ahikams Sohn Gedalja wurde später Statthalter (Kapitel 40). Mut und Schutz durch einflussreiche Menschen können Leben retten.
+
+## Jeremia – Kapitel 27
+#### Das Joch auf dem Nacken
+
+---
+
+### Botschaft an die Nachbarkönige (Vers 1–11)
+
+<sup>1</sup>Am Anfang der Herrschaft Jojakims, des Sohnes Joschijas, des Königs von Juda,
+kam dieses Wort vom HERRN an Jeremia:
+<sup>2</sup>So sprach der HERR zu mir:
+„Mach dir Stricke und Jochstangen
+und lege sie dir auf den Nacken.
+<sup>3</sup>Dann sende sie zum König von Edom, zum König von Moab,
+zum König der Kinder Ammon, zum König von Tyrus und zum König von Sidon
+durch die Boten, die nach Jerusalem zu Zidkija, dem König von Juda, kommen.
+<sup>4</sup>Gib ihnen einen Auftrag an ihre Herren und sag:
+‚So spricht der HERR der Heere, der Gott Israels:
+„So sollt ihr zu euren Herren sagen:
+<sup>5</sup>‚Ich habe die Erde gemacht, die Menschen und die Tiere,
+die auf der Erde sind,
+durch meine große Kraft und durch meinen ausgestreckten Arm.
+Ich gebe sie dem, der mir recht erscheint.
+<sup>6</sup>Und jetzt habe ich all diese Länder
+in die Hand Nebukadnezars, des Königs von Babel, meines Knechtes, gegeben.
+Auch die Tiere des Feldes habe ich ihm gegeben, damit sie ihm dienen.
+<sup>7</sup>Alle Nationen werden ihm dienen
+und seinem Sohn und seinem Enkel,
+bis die Zeit auch für sein Land kommt.
+Dann werden viele Nationen und große Könige ihn zu ihrem Knecht machen.
+<sup>8</sup>Und es wird geschehen:
+Die Nation und das Königreich, die diesem Nebukadnezar, dem König von Babel,
+nicht dienen wollen
+und ihren Nacken nicht unter das Joch des Königs von Babel beugen,
+diese Nation werde ich heimsuchen‘, spricht der HERR,
+‚mit Schwert, mit Hunger und mit Pest,
+bis ich sie durch seine Hand vernichtet habe.
+<sup>9</sup>Ihr aber, hört nicht auf eure Propheten,
+auf eure Wahrsager, auf eure Träume,
+auf eure Zeichendeuter und auf eure Zauberer,
+die zu euch sagen:
+„Ihr werdet dem König von Babel nicht dienen.“
+<sup>10</sup>Denn sie weissagen euch Lüge,
+um euch weit weg aus eurem Land zu bringen,
+sodass ich euch vertreibe und ihr umkommt.
+<sup>11</sup>Aber die Nation, die ihren Nacken unter das Joch des Königs von Babel beugt
+und ihm dient,
+die werde ich in ihrem Land lassen‘, spricht der HERR,
+‚und sie werden es bebauen und darin wohnen.‘“’“
+
+> **Was bedeutet das?**
+> Vers 1: Das WEB nennt hier König Jojakim, wie der hebräische Text. Aus dem Rest des Kapitels (Vers 3 und 12) wird aber klar, dass es um die Zeit König Zidkijas geht. Viele Übersetzungen schreiben darum hier „Zidkija“.
+> Vers 2: Wieder eine Zeichenhandlung: Jeremia legt sich ein Joch auf den Nacken, wie man es Ochsen auflegt. Ein Joch bedeutet: Man muss jemandem dienen.
+> Vers 3: Gesandte aus den Nachbarländern waren in Jerusalem, um gemeinsam einen Aufstand gegen Babylon zu planen. Jeremia schickt ihnen eine Botschaft: Lasst das!
+> Vers 5–7: Gott ist der Schöpfer der ganzen Welt. Er gibt die Macht, wem er will. Jetzt hat er sie Nebukadnezar gegeben, aber nicht für immer: Nach drei Generationen ist auch Babylon an der Reihe.
+> Vers 9–11: Jeremias Rat ist politisch klug: Unterwerft euch Babylon, dann dürft ihr in eurem Land bleiben und leben. Ein Aufstand führt nur ins Verderben.
+
+---
+
+### Worte an König Zidkija und an die Priester (Vers 12–22)
+
+<sup>12</sup>Zu Zidkija, dem König von Juda, redete ich genau nach all diesen Worten und sagte:
+„Beugt eure Nacken unter das Joch des Königs von Babel
+und dient ihm und seinem Volk, dann werdet ihr leben.
+<sup>13</sup>Warum wollt ihr sterben, du und dein Volk,
+durch Schwert, Hunger und Pest,
+wie der HERR es über die Nation gesagt hat,
+die dem König von Babel nicht dienen will?
+<sup>14</sup>Hört nicht auf die Worte der Propheten, die zu euch sagen:
+‚Ihr werdet dem König von Babel nicht dienen‘,
+denn sie weissagen euch Lüge.
+<sup>15</sup>Denn ich habe sie nicht gesandt“, spricht der HERR,
+„sondern sie weissagen falsch in meinem Namen,
+damit ich euch vertreibe und ihr umkommt,
+ihr und die Propheten, die euch weissagen.“
+<sup>16</sup>Auch zu den Priestern und zu diesem ganzen Volk redete ich und sagte:
+So spricht der HERR:
+„Hört nicht auf die Worte eurer Propheten, die euch weissagen und sagen:
+‚Siehe, die Geräte des Hauses des HERRN werden jetzt bald
+aus Babel zurückgebracht werden‘,
+denn sie weissagen euch Lüge.
+<sup>17</sup>Hört nicht auf sie!
+Dient dem König von Babel, dann werdet ihr leben.
+Warum soll diese Stadt zu Trümmern werden?
+<sup>18</sup>Wenn sie aber Propheten sind
+und wenn das Wort des HERRN bei ihnen ist,
+dann sollen sie doch beim HERRN der Heere Fürbitte einlegen,
+dass die Geräte, die im Haus des HERRN,
+im Haus des Königs von Juda und in Jerusalem übrig geblieben sind,
+nicht auch noch nach Babel kommen.
+<sup>19</sup>Denn so spricht der HERR der Heere
+über die Säulen, über das Meer, über die Gestelle
+und über die übrigen Geräte, die in dieser Stadt übrig geblieben sind,
+<sup>20</sup>die Nebukadnezar, der König von Babel, nicht mitgenommen hat,
+als er Jechonja, den Sohn Jojakims, den König von Juda,
+aus Jerusalem nach Babel in die Gefangenschaft führte
+und alle Vornehmen von Juda und Jerusalem –
+<sup>21</sup>ja, so spricht der HERR der Heere, der Gott Israels,
+über die Geräte, die im Haus des HERRN
+und im Haus des Königs von Juda und in Jerusalem übrig geblieben sind:
+<sup>22</sup>‚Sie werden nach Babel gebracht werden,
+und dort werden sie bleiben bis zu dem Tag, an dem ich nach ihnen sehe‘,
+spricht der HERR,
+‚dann werde ich sie heraufbringen und an diesen Ort zurückbringen.‘“
+
+> **Was bedeutet das?**
+> Vers 12–15: Jeremia sagt dasselbe auch seinem eigenen König Zidkija: Unterwirf dich, dann lebst du. Die falschen Propheten, die Widerstand predigen, lügen.
+> Vers 16: Bei der ersten Wegführung 597 vor Christus hatten die Babylonier viele kostbare Geräte aus dem Tempel mitgenommen. Falsche Propheten sagten: Die kommen bald zurück!
+> Vers 18: Jeremias Antwort: Wenn ihr echte Propheten seid, dann betet lieber dafür, dass nicht auch noch der Rest weggenommen wird!
+> Vers 19: Die „Säulen“ (Jachin und Boas), das „Meer“ (ein riesiges Wasserbecken aus Bronze) und die „Gestelle“ waren große Bronzegegenstände im Tempel (1. Könige 7).
+> Vers 22: Aber auch hier gibt es Hoffnung: Gott wird die Geräte eines Tages zurückbringen. Das geschah tatsächlich unter König Kyrus (Esra 1,7–11).
