@@ -1,0 +1,432 @@
+{
+ "nr": 18,
+ "code": "JOB",
+ "kuerzel": "Hiob",
+ "name": "Hiob",
+ "name_englisch": "Job",
+ "testament": "altes-testament",
+ "kapitel": 42,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Hiob verliert alles",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch Hiob?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Hiob stellt eine der schwersten Fragen der Menschheit:\nWarum müssen gute Menschen leiden?\nHiob ist ein frommer, guter Mann. Trotzdem verliert er alles: seinen Besitz, seine Kinder, seine Gesundheit.\nDas Buch hat drei Teile:\n– Am Anfang (Kapitel 1–2) und am Ende (Kapitel 42) steht eine Erzählung. Sie ist in einfacher Sprache geschrieben, fast wie ein Märchen: „Es war einmal ein Mann …“\n– In der Mitte (Kapitel 3–42) stehen lange Reden in Gedichtform. Hiob streitet mit seinen Freunden. Die Freunde sagen: Du musst gesündigt haben, sonst würdest du nicht leiden. Hiob sagt: Ich bin unschuldig! Und er klagt Gott an.\n– Am Ende antwortet Gott selbst aus einem Sturm.\nDas Buch gibt keine einfache Antwort auf die Frage nach dem Leid. Aber es zeigt: Man darf vor Gott klagen, schreien und fragen. Gott hält das aus. Und die einfache Rechnung „Wer leidet, ist selbst schuld“ ist falsch.\nHiob lebte wohl außerhalb Israels, im Land Uz. Wann das Buch geschrieben wurde, weiß man nicht genau.\nDie Reden sind große Dichtung. Manche Verse sind im Hebräischen sehr schwer zu verstehen. Diese Übertragung hält sich an die englische Vorlage und erklärt schwierige Stellen.\nDas Buch Hiob kann Menschen helfen, die selbst leiden. Es zeigt: Du bist mit deinen Fragen nicht allein.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Hiob, ein frommer Mann",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Es war ein Mann im Land Uz, der hieß Hiob.\nDieser Mann war untadelig und aufrichtig.\nEr fürchtete Gott und mied das Böse.",
+       "englisch_web": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ihm wurden sieben Söhne und drei Töchter geboren.",
+       "englisch_web": "There were born to him seven sons and three daughters."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sein Besitz war:\n7000 Schafe, 3000 Kamele,\n500 Gespanne Rinder und 500 Eselinnen,\nund sehr viele Knechte und Mägde.\nSo war dieser Mann der größte von allen Menschen im Osten.",
+       "englisch_web": "His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Seine Söhne gingen hin und machten ein Festmahl,\njeder in seinem Haus an seinem Tag.\nUnd sie schickten hin und luden ihre drei Schwestern ein,\nmit ihnen zu essen und zu trinken.",
+       "englisch_web": "His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn die Tage des Festmahls vorüber waren,\nschickte Hiob hin und heiligte sie.\nEr stand früh am Morgen auf\nund brachte Brandopfer dar, nach der Zahl von ihnen allen.\nDenn Hiob sagte:\n„Vielleicht haben meine Söhne gesündigt\nund sich in ihrem Herzen von Gott losgesagt.“\nSo machte Hiob es immer.",
+       "englisch_web": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually."
+      }
+     ],
+     "erklaerung": "Hiob wird als vollkommen guter Mensch beschrieben. Das ist wichtig für die ganze Geschichte: Er leidet nicht wegen eigener Schuld.\nWo das Land Uz lag, weiß man nicht genau. Vielleicht im Gebiet von Edom, südöstlich von Israel. Hiob war also wohl kein Israelit.\nSieben Söhne und drei Töchter, 7000 Schafe und 3000 Kamele: Die Zahlen 7, 3 und 10 stehen in der Bibel für Vollständigkeit. Hiob hatte ein vollkommenes Glück.\n„An seinem Tag“: Wohl an ihren Geburtstagen. Die Geschwister verstanden sich gut und feierten zusammen.\nHiob ist so fromm, dass er sogar für mögliche Sünden seiner Kinder Opfer bringt. Er sorgt sich um ihre Beziehung zu Gott."
+    },
+    {
+     "ueberschrift": "Im Himmel: Der Satan stellt eine Frage",
+     "vers_von": 6,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Eines Tages kamen die Söhne Gottes,\num vor den HERRN zu treten.\nUnd auch der Satan kam unter ihnen.",
+       "englisch_web": "Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Woher kommst du?“\nDer Satan antwortete dem HERRN:\n„Vom Umherstreifen auf der Erde\nund vom Hin- und Hergehen auf ihr.“",
+       "englisch_web": "Yahweh said to Satan, “Where have you come from?” Then Satan answered Yahweh, and said, “From going back and forth on the earth, and from walking up and down in it.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Hast du auf meinen Diener Hiob geachtet?\nDenn es gibt keinen wie ihn auf der Erde,\neinen untadeligen und aufrichtigen Mann,\nder Gott fürchtet und das Böse meidet.“",
+       "englisch_web": "Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil.”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Da antwortete der Satan dem HERRN:\n„Fürchtet Hiob Gott etwa umsonst?",
+       "englisch_web": "Then Satan answered Yahweh, and said, “Does Job fear God for nothing?"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Hast du nicht einen Zaun um ihn gemacht,\num sein Haus und um alles, was er hat, ringsum?\nDu hast die Arbeit seiner Hände gesegnet,\nund sein Besitz hat sich im Land ausgebreitet.",
+       "englisch_web": "Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Aber streck doch deine Hand aus\nund taste alles an, was er hat –\ndann wird er sich ins Gesicht von dir lossagen!“",
+       "englisch_web": "But stretch out your hand now, and touch all that he has, and he will renounce you to your face.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Schau, alles, was er hat, ist in deiner Macht.\nNur an ihn selbst leg deine Hand nicht.“\nDa ging der Satan vom HERRN hinaus.",
+       "englisch_web": "Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh."
+      }
+     ],
+     "erklaerung": "Jetzt wechselt die Szene in den Himmel. Gott hält eine Art Ratsversammlung mit den „Söhnen Gottes“, also Engeln (vgl. 1. Könige 22,19).\n„Der Satan“ heißt im Hebräischen „der Ankläger“ oder „der Gegner“. Hier ist er wie ein Ankläger im himmlischen Gericht. Im Neuen Testament wird der Satan als der Feind Gottes und der Menschen beschrieben.\nDie Frage des Satans ist die große Frage des Buches: „Fürchtet Hiob Gott umsonst?“ Liebt Hiob Gott nur, weil es ihm gut geht? Ist Glaube nur ein Geschäft?\nWichtig: Gott bleibt der Herr. Der Satan darf nur so weit gehen, wie Gott es erlaubt.\nDiese Szene ist schwer zu verstehen. Warum lässt Gott das zu? Das Buch gibt darauf keine einfache Antwort. Hiob selbst erfährt nie etwas von dieser Szene im Himmel. Viele Ausleger meinen: Diese Erzählung ist nicht als genauer Bericht gemeint, sondern als Bild, das die große Frage stellt: Gibt es Glauben, der nicht nur auf Belohnung aus ist?"
+    },
+    {
+     "ueberschrift": "Vier schreckliche Nachrichten",
+     "vers_von": 13,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Eines Tages,\nals seine Söhne und seine Töchter im Haus ihres ältesten Bruders aßen und Wein tranken,",
+       "englisch_web": "It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "kam ein Bote zu Hiob und sagte:\n„Die Rinder pflügten,\nund die Eselinnen weideten neben ihnen.",
+       "englisch_web": "that a messenger came to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da fielen die Sabäer ein und nahmen sie weg.\nUnd die Knechte haben sie mit der Schärfe des Schwertes erschlagen.\nNur ich allein bin entkommen, um es dir zu sagen.“",
+       "englisch_web": "and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Während er noch redete, kam ein anderer und sagte:\n„Das Feuer Gottes ist vom Himmel gefallen\nund hat die Schafe und die Knechte verbrannt und verzehrt.\nNur ich allein bin entkommen, um es dir zu sagen.“",
+       "englisch_web": "While he was still speaking, another also came and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Während er noch redete, kam ein anderer und sagte:\n„Die Chaldäer haben drei Gruppen gebildet,\nsind über die Kamele hergefallen und haben sie weggenommen.\nUnd die Knechte haben sie mit der Schärfe des Schwertes erschlagen.\nNur ich allein bin entkommen, um es dir zu sagen.“",
+       "englisch_web": "While he was still speaking, another also came and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Während er noch redete, kam noch ein anderer und sagte:\n„Deine Söhne und deine Töchter aßen und tranken Wein\nim Haus ihres ältesten Bruders.",
+       "englisch_web": "While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Und schau, da kam ein großer Sturm von der Wüste her\nund packte die vier Ecken des Hauses.\nEs stürzte auf die jungen Leute,\nund sie sind tot.\nNur ich allein bin entkommen, um es dir zu sagen.“",
+       "englisch_web": "and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”"
+      }
+     ],
+     "erklaerung": "Schlag auf Schlag kommen die Nachrichten. Jedes Mal: „Während er noch redete …“ Hiob hat keine Zeit, Luft zu holen.\nDas Unglück kommt von Menschen (Sabäer, Chaldäer) und aus der Natur (Feuer vom Himmel, wohl ein Blitz, und ein Sturm). Von allen Seiten.\nDas Schlimmste kommt zuletzt: Alle zehn Kinder sind tot.\n„Feuer Gottes“ ist ein alter Ausdruck für einen Blitz.\nWer selbst ein Kind oder einen geliebten Menschen verloren hat, kann in diesen Versen den eigenen Schmerz wiederfinden. Die Bibel verschweigt solches Leid nicht."
+    },
+    {
+     "ueberschrift": "Hiobs Antwort",
+     "vers_von": 20,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Da stand Hiob auf,\nzerriss sein Gewand,\nschor sein Haupt,\nfiel auf die Erde\nund betete an.",
+       "englisch_web": "Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er sagte:\n„Nackt bin ich aus dem Leib meiner Mutter gekommen,\nund nackt werde ich dorthin zurückkehren.\nDer HERR hat gegeben,\nund der HERR hat genommen.\nGepriesen sei der Name des HERRN.“",
+       "englisch_web": "He said, “Naked I came out of my mother’s womb, and naked will I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Bei all dem sündigte Hiob nicht\nund warf Gott nichts Unrechtes vor.",
+       "englisch_web": "In all this, Job didn’t sin, nor charge God with wrongdoing."
+      }
+     ],
+     "erklaerung": "Hiob trauert, und das offen: Er zerreißt seine Kleider und schert seinen Kopf. Das waren damals Zeichen tiefer Trauer. Trauer ist erlaubt und wichtig.\nUnd doch betet er an. Seine Worte gehören zu den bekanntesten der Bibel: „Der HERR hat gegeben, der HERR hat genommen, gepriesen sei der Name des HERRN.“ Viele Menschen sprechen diese Worte bei Beerdigungen.\n„Nackt dorthin zurückkehren“: Gemeint ist die Erde, aus der der Mensch genommen ist (vgl. 1. Mose 3,19). Wir bringen nichts mit in die Welt und können nichts mitnehmen (1. Timotheus 6,7).\nDer Satan hatte gesagt: Hiob wird sich von Gott lossagen. Aber Hiob hält fest an Gott.\nWichtig: Das Buch zeigt später auch einen ganz anderen Hiob, der klagt und schreit. Beides gehört zum Glauben: das Vertrauen und die Klage.\nWer heute ein Kind oder einen geliebten Menschen verloren hat, ist mit seiner Trauer nicht allein. Hilfe gibt es zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr)."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Hiob wird krank – und seine Freunde kommen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die zweite Prüfung",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wieder kamen eines Tages die Söhne Gottes,\num vor den HERRN zu treten.\nUnd auch der Satan kam unter ihnen,\num vor den HERRN zu treten.",
+       "englisch_web": "Again, on the day when God’s sons came to present themselves before Yahweh, Satan came also among them to present himself before Yahweh."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Woher kommst du?“\nDer Satan antwortete dem HERRN:\n„Vom Umherstreifen auf der Erde\nund vom Hin- und Hergehen auf ihr.“",
+       "englisch_web": "Yahweh said to Satan, “Where have you come from?” Satan answered Yahweh, and said, “From going back and forth on the earth, and from walking up and down in it.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Hast du auf meinen Diener Hiob geachtet?\nDenn es gibt keinen wie ihn auf der Erde,\neinen untadeligen und aufrichtigen Mann,\nder Gott fürchtet und das Böse meidet.\nEr hält noch immer fest an seiner Lauterkeit,\nobwohl du mich gegen ihn aufgereizt hast,\nihn ohne Grund zu verderben.“",
+       "englisch_web": "Yahweh said to Satan, “Have you considered my servant Job? For there is no one like him on the earth, a blameless and an upright man, one who fears God, and turns away from evil. He still maintains his integrity, although you incited me against him, to ruin him without cause.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Der Satan antwortete dem HERRN:\n„Haut für Haut!\nJa, alles, was ein Mensch hat, gibt er für sein Leben.",
+       "englisch_web": "Satan answered Yahweh, and said, “Skin for skin. Yes, all that a man has he will give for his life."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Aber streck doch deine Hand aus\nund taste seine Knochen und sein Fleisch an –\ndann wird er sich ins Gesicht von dir lossagen!“",
+       "englisch_web": "But stretch out your hand now, and touch his bone and his flesh, and he will renounce you to your face.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Der HERR sagte zum Satan:\n„Schau, er ist in deiner Hand.\nNur schone sein Leben.“",
+       "englisch_web": "Yahweh said to Satan, “Behold, he is in your hand. Only spare his life.”"
+      }
+     ],
+     "erklaerung": "Gott sagt selbst: Hiob leidet „ohne Grund“. Das ist der Schlüssel zum ganzen Buch. Hiobs Freunde werden später behaupten, Hiob müsse gesündigt haben. Aber der Leser weiß es besser: Hiob ist unschuldig.\n„Haut für Haut“ war wohl ein Sprichwort. Gemeint ist: Ein Mensch gibt alles, um seine eigene Haut zu retten. Solange es Hiob selbst nicht trifft, bleibt er fromm.\nWieder setzt Gott eine Grenze: „Schone sein Leben.“"
+    },
+    {
+     "ueberschrift": "Hiob wird krank",
+     "vers_von": 7,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Da ging der Satan vom HERRN hinaus\nund schlug Hiob mit bösen Geschwüren,\nvon der Fußsohle bis zum Scheitel.",
+       "englisch_web": "So Satan went out from the presence of Yahweh, and struck Job with painful sores from the sole of his foot to his head."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Hiob nahm sich eine Tonscherbe, um sich damit zu kratzen,\nund er saß mitten in der Asche.",
+       "englisch_web": "He took for himself a potsherd to scrape himself with, and he sat among the ashes."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Da sagte seine Frau zu ihm:\n„Hältst du noch immer fest an deiner Lauterkeit?\nSag dich los von Gott und stirb!“",
+       "englisch_web": "Then his wife said to him, “Do you still maintain your integrity? Renounce God, and die.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Aber er sagte zu ihr:\n„Du redest, wie eine der törichten Frauen redet.\nDas Gute nehmen wir von Gott an,\nund das Böse sollten wir nicht annehmen?“\nBei all dem sündigte Hiob nicht mit seinen Lippen.",
+       "englisch_web": "But he said to her, “You speak as one of the foolish women would speak. What? Shall we receive good at the hand of God, and shall we not receive evil?” In all this Job didn’t sin with his lips."
+      }
+     ],
+     "erklaerung": "Hiob wird schwer krank. Sein ganzer Körper ist mit schmerzenden Geschwüren bedeckt. Er sitzt in der Asche, wohl auf dem Aschenhaufen vor der Stadt, wo man Müll verbrannte. Dort saßen die Ausgestoßenen.\nHiobs Frau wird oft hart beurteilt. Aber man muss bedenken: Auch sie hat alle ihre zehn Kinder verloren. Auch sie leidet unendlich. Vielleicht meint sie: Mach ein Ende, dann hast du keine Schmerzen mehr. Ihre Worte kommen aus tiefer Verzweiflung.\nHiob antwortet: Wir können nicht nur das Gute von Gott annehmen. Er hält weiter an Gott fest.\n„Er sündigte nicht mit seinen Lippen“: Jüdische Ausleger haben bemerkt: Hier steht „mit seinen Lippen“, in Kapitel 1,22 nicht. Vielleicht begann in seinem Herzen schon der Zweifel. Ab Kapitel 3 wird er ihn aussprechen."
+    },
+    {
+     "ueberschrift": "Drei Freunde kommen",
+     "vers_von": 11,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Als die drei Freunde Hiobs von all dem Unglück hörten, das über ihn gekommen war,\nkamen sie, jeder aus seinem Ort:\nElifas, der Temaniter,\nBildad, der Schuachiter,\nund Zofar, der Naamatiter.\nSie verabredeten sich miteinander,\nzu kommen, um mit ihm zu trauern und ihn zu trösten.",
+       "englisch_web": "Now when Job’s three friends heard of all this evil that had come on him, they each came from his own place: Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite; and they made an appointment together to come to sympathize with him and to comfort him."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Als sie von Weitem ihre Augen erhoben,\nerkannten sie ihn nicht.\nDa erhoben sie ihre Stimme und weinten.\nJeder zerriss sein Gewand,\nund sie streuten Staub über ihre Köpfe zum Himmel hin.",
+       "englisch_web": "When they lifted up their eyes from a distance, and didn’t recognize him, they raised their voices, and wept; and they each tore his robe, and sprinkled dust on their heads toward the sky."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So saßen sie mit ihm auf der Erde\nsieben Tage und sieben Nächte lang.\nUnd keiner sagte ein Wort zu ihm,\ndenn sie sahen, dass sein Schmerz sehr groß war.",
+       "englisch_web": "So they sat down with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his grief was very great."
+      }
+     ],
+     "erklaerung": "Hiobs Freunde sind gute Freunde. Sie kommen von weit her. Sie verabreden sich, um ihn gemeinsam zu trösten.\nHiob ist so entstellt, dass sie ihn nicht erkennen.\nDas Beste, was sie tun: Sie sitzen sieben Tage schweigend bei ihm. Sie sagen nichts, sie sind einfach da. Das ist oft der beste Trost für einen Trauernden. In der jüdischen Tradition gibt es bis heute die „Schiwa“, sieben Tage der Trauer, in denen Freunde die Trauernden besuchen.\nLeider beginnen sie später zu reden. Und dann machen sie alles schlimmer.\nTeman lag in Edom. Woher Bildad und Zofar kamen, weiß man nicht genau."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Hiob verflucht den Tag seiner Geburt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Hiob bricht sein Schweigen",
+     "vers_von": 1,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Danach öffnete Hiob seinen Mund\nund verfluchte den Tag seiner Geburt.",
+       "englisch_web": "After this Job opened his mouth, and cursed the day of his birth."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Hiob sagte:",
+       "englisch_web": "Job answered:"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "„Der Tag soll untergehen, an dem ich geboren wurde,\nund die Nacht, die sagte: ‚Ein Junge ist empfangen!‘",
+       "englisch_web": "“Let the day perish in which I was born, the night which said, ‘There is a boy conceived.’"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Dieser Tag soll Finsternis sein.\nGott soll oben nicht nach ihm fragen,\nund kein Licht soll über ihm scheinen.",
+       "englisch_web": "Let that day be darkness. Don’t let God from above seek for it, neither let the light shine on it."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Finsternis und Todesschatten sollen ihn für sich beanspruchen.\nEine Wolke soll über ihm lagern.\nAlles, was den Tag verdunkelt, soll ihn erschrecken.",
+       "englisch_web": "Let darkness and the shadow of death claim it for their own. Let a cloud dwell on it. Let all that makes the day black terrify it."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Jene Nacht soll dichte Dunkelheit packen.\nSie soll sich nicht freuen unter den Tagen des Jahres.\nSie soll nicht in die Zahl der Monate kommen.",
+       "englisch_web": "As for that night, let thick darkness seize on it. Let it not rejoice among the days of the year. Let it not come into the number of the months."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Schau, jene Nacht soll unfruchtbar sein.\nKein Jubel soll in sie hineinkommen.",
+       "englisch_web": "Behold, let that night be barren. Let no joyful voice come therein."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Verfluchen sollen sie die, die den Tag verfluchen,\ndie bereit sind, den Leviatan aufzuwecken.",
+       "englisch_web": "Let them curse it who curse the day, who are ready to rouse up leviathan."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Sterne ihrer Dämmerung sollen dunkel sein.\nSie soll auf Licht hoffen, aber keines bekommen,\nund sie soll die Wimpern der Morgenröte nicht sehen,",
+       "englisch_web": "Let the stars of its twilight be dark. Let it look for light, but have none, neither let it see the eyelids of the morning,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "weil sie die Tür des Mutterleibes nicht verschlossen hat\nund das Leid nicht vor meinen Augen verborgen hat.",
+       "englisch_web": "because it didn’t shut up the doors of my mother’s womb, nor did it hide trouble from my eyes."
+      }
+     ],
+     "erklaerung": "Nach sieben Tagen Schweigen bricht es aus Hiob heraus. Jetzt beginnt der Teil in Gedichtform.\nHiob verflucht nicht Gott. Er verflucht den Tag seiner Geburt. Er wünscht, er wäre nie geboren worden. Der Prophet Jeremia hat ähnlich geklagt (Jeremia 20,14–18).\n„Es werde Licht“, hatte Gott am ersten Schöpfungstag gesagt (1. Mose 1,3). Hiob sagt das Gegenteil: „Dieser Tag soll Finsternis sein!“ Er wünscht sich, die Schöpfung würde für ihn rückgängig gemacht.\nDer „Leviatan“ ist ein Seeungeheuer aus alten Erzählungen. Es steht für das Chaos. Manche glaubten, Zauberer könnten es aufwecken, um einen Tag zu verfluchen.\n„Die Wimpern der Morgenröte“ ist ein schönes Bild für die ersten Strahlen der Sonne."
+    },
+    {
+     "ueberschrift": "Warum bin ich nicht gestorben?",
+     "vers_von": 11,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Warum bin ich nicht gestorben im Mutterleib?\nWarum habe ich nicht meinen Geist aufgegeben, als meine Mutter mich gebar?",
+       "englisch_web": "“Why didn’t I die from the womb? Why didn’t I give up the spirit when my mother bore me?"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Warum haben mich Knie empfangen?\nOder warum Brüste, damit ich trinken sollte?",
+       "englisch_web": "Why did the knees receive me? Or why the breast, that I should nurse?"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn dann würde ich jetzt liegen und still sein.\nIch würde schlafen, dann hätte ich Ruhe,",
+       "englisch_web": "For now I should have lain down and been quiet. I should have slept, then I would have been at rest,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "bei Königen und Ratgebern der Erde,\ndie sich Ruinen wieder aufbauten,",
+       "englisch_web": "with kings and counselors of the earth, who built up waste places for themselves;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "oder bei Fürsten, die Gold hatten\nund ihre Häuser mit Silber füllten.",
+       "englisch_web": "or with princes who had gold, who filled their houses with silver;"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Oder ich wäre wie eine verborgene Fehlgeburt nicht da,\nwie Kinder, die das Licht nie gesehen haben.",
+       "englisch_web": "or as a hidden untimely birth I had not been, as infants who never saw light."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Dort hören die Gottlosen auf zu toben,\ndort ruhen die Erschöpften aus.",
+       "englisch_web": "There the wicked cease from troubling. There the weary are at rest."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Dort haben die Gefangenen alle miteinander Ruhe.\nSie hören nicht die Stimme des Antreibers.",
+       "englisch_web": "There the prisoners are at ease together. They don’t hear the voice of the taskmaster."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Klein und Groß sind dort.\nUnd der Knecht ist frei von seinem Herrn.",
+       "englisch_web": "The small and the great are there. The servant is free from his master."
+      }
+     ],
+     "erklaerung": "Hiob fragt immer wieder: Warum? Warum musste ich leben?\n„Knie empfangen“: Bei der Geburt nahm der Vater oder die Großeltern das Kind auf die Knie. Das war ein Zeichen der Annahme.\nHiob stellt sich den Tod als Ort der Ruhe vor. Dort sind alle gleich: Könige und Knechte, Reiche und Arme. Dort gibt es keine Schmerzen mehr.\nMan muss diese Worte verstehen als Schrei eines Menschen in unerträglichem Schmerz. Die Bibel nimmt diesen Schrei ernst. Sie streicht ihn nicht heraus."
+    },
+    {
+     "ueberschrift": "Warum gibt Gott dem Leidenden Leben?",
+     "vers_von": 20,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Warum gibt er dem Elenden Licht\nund Leben denen, die bitter in der Seele sind,",
+       "englisch_web": "“Why is light given to him who is in misery, life to the bitter in soul,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "die sich nach dem Tod sehnen, aber er kommt nicht,\ndie nach ihm graben mehr als nach verborgenen Schätzen,",
+       "englisch_web": "who long for death, but it doesn’t come; and dig for it more than for hidden treasures,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "die sich sehr freuen und jubeln würden,\nwenn sie das Grab finden?",
+       "englisch_web": "who rejoice exceedingly, and are glad, when they can find the grave?"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Warum gibt er Licht einem Mann, dessen Weg verborgen ist,\nden Gott eingezäunt hat?",
+       "englisch_web": "Why is light given to a man whose way is hidden, whom God has hedged in?"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Denn mein Seufzen kommt vor meinem Brot,\nund mein Stöhnen ergießt sich wie Wasser.",
+       "englisch_web": "For my sighing comes before I eat. My groanings are poured out like water."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Denn was ich fürchte, das kommt über mich,\nund wovor mir graut, das trifft mich.",
+       "englisch_web": "For the thing which I fear comes on me, that which I am afraid of comes to me."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ich habe keinen Frieden, ich habe keine Ruhe,\nich habe keine Rast,\nsondern es kommt Unruhe.“",
+       "englisch_web": "I am not at ease, neither am I quiet, neither do I have rest; but trouble comes.”"
+      }
+     ],
+     "erklaerung": "Hiob fragt nicht mehr nur nach sich selbst, sondern nach allen Leidenden: Warum lässt Gott Menschen leben, die so sehr leiden?\nVers 23 ist bitter: Der Satan hatte gesagt, Gott habe einen schützenden Zaun um Hiob gemacht (Kapitel 1,10). Jetzt fühlt Hiob sich von Gott eingezäunt wie in einem Gefängnis. Derselbe Zaun, aber ganz anders erlebt.\n„Mein Seufzen kommt vor meinem Brot“: Er kann nicht einmal essen, ohne zu stöhnen.\nWichtig: Hiob wünscht sich den Tod, aber er nimmt sich nicht das Leben. Er bringt seinen Schmerz zu Gott, auch wenn er klagt und schreit. Er bleibt im Gespräch mit Gott. Das Buch zeigt: Man darf Gott alles sagen, auch die dunkelsten Gedanken.\nWenn du selbst denkst „Ich will nicht mehr leben“: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112."
+    }
+   ]
+  }
+ ]
+}
