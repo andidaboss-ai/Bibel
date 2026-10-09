@@ -69230,3 +69230,387 @@ Ja, warte auf den HERRN!
 > „Im Land der Lebenden“: Nicht erst nach dem Tod, sondern hier und jetzt wird der Beter Gottes Güte erleben.
 > Vers 14: Am Ende spricht der Beter zu sich selbst oder zu anderen: Warte auf Gott! Sei mutig!
 > „Warten“ heißt hier nicht, untätig herumzusitzen. Es heißt: voller Hoffnung durchhalten und Gott vertrauen.
+
+## Psalm 28
+#### Der HERR ist meine Stärke und mein Schild
+
+---
+
+### Schweig nicht, mein Fels (Vers 1–5)
+
+<sup>1</sup>Von David.
+Zu dir, HERR, rufe ich.
+Mein Fels, sei nicht taub für mich,
+damit ich nicht, wenn du zu mir schweigst,
+denen gleich werde, die in die Grube hinabfahren.
+<sup>2</sup>Hör die Stimme meines Flehens,
+wenn ich zu dir schreie,
+wenn ich meine Hände zu deinem Allerheiligsten erhebe.
+<sup>3</sup>Reiß mich nicht weg mit den Gottlosen,
+mit den Übeltätern,
+die mit ihren Nächsten von Frieden reden,
+aber Böses ist in ihrem Herzen.
+<sup>4</sup>Gib ihnen nach ihrem Tun
+und nach der Bosheit ihrer Taten!
+Gib ihnen nach dem Werk ihrer Hände!
+Bring auf sie zurück, was sie verdienen!
+<sup>5</sup>Weil sie nicht auf die Taten des HERRN achten
+und nicht auf das Werk seiner Hände,
+wird er sie niederreißen und nicht aufbauen.
+
+> **Was bedeutet das?**
+> Das Schlimmste für den Beter ist, wenn Gott schweigt. Dann fühlt er sich, als wäre er schon tot („in der Grube“).
+> „Die Hände zum Allerheiligsten erheben“: So betete man damals, mit erhobenen Händen in Richtung Tempel.
+> Vers 3: Heuchler reden freundlich, aber planen Böses.
+> Vers 4 ist eine Bitte um Gerechtigkeit: Gott soll ihnen geben, was ihre eigenen Taten verdienen. Der Beter nimmt nicht selbst Rache.
+
+---
+
+### Gelobt sei der HERR (Vers 6–9)
+
+<sup>6</sup>Gepriesen sei der HERR,
+denn er hat die Stimme meines Flehens gehört.
+<sup>7</sup>Der HERR ist meine Stärke und mein Schild.
+Mein Herz hat ihm vertraut, und mir ist geholfen.
+Darum jubelt mein Herz sehr.
+Mit meinem Lied will ich ihm danken.
+<sup>8</sup>Der HERR ist ihre Stärke.
+Er ist eine rettende Festung für seinen Gesalbten.
+<sup>9</sup>Rette dein Volk und segne dein Erbe!
+Sei auch ihr Hirte und trag sie für immer!
+
+> **Was bedeutet das?**
+> Wieder die plötzliche Wende: Gott hat gehört! Der Beter jubelt.
+> Vers 9 ist ein schönes Gebet für das ganze Volk: Gott soll wie ein Hirte sein, der seine Schafe trägt (vgl. Psalm 23; Jesaja 40,11).
+> Christen beten Vers 9 bis heute im Gottesdienst, zum Beispiel im „Te Deum“: „Rette dein Volk, o Herr, und segne dein Erbe.“
+
+## Psalm 29
+#### Die Stimme des HERRN im Gewitter
+
+---
+
+### Gebt dem HERRN die Ehre (Vers 1–2)
+
+<sup>1</sup>Ein Psalm von David.
+Gebt dem HERRN, ihr Söhne der Mächtigen,
+gebt dem HERRN Herrlichkeit und Stärke!
+<sup>2</sup>Gebt dem HERRN die Herrlichkeit, die seinem Namen gebührt!
+Betet den HERRN an in heiligem Schmuck!
+
+> **Was bedeutet das?**
+> „Söhne der Mächtigen“: Gemeint sind wohl himmlische Wesen, Engel. Selbst sie sollen Gott die Ehre geben.
+> „In heiligem Schmuck“: in festlicher Kleidung, wie die Priester im Tempel. Andere übersetzen: „in der Pracht seiner Heiligkeit“.
+
+---
+
+### Die Stimme des HERRN (Vers 3–9)
+
+<sup>3</sup>Die Stimme des HERRN ist über den Wassern.
+Der Gott der Herrlichkeit donnert,
+der HERR über vielen Wassern.
+<sup>4</sup>Die Stimme des HERRN ist gewaltig.
+Die Stimme des HERRN ist voller Majestät.
+<sup>5</sup>Die Stimme des HERRN zerbricht die Zedern.
+Ja, der HERR zerschmettert die Zedern des Libanon.
+<sup>6</sup>Er lässt sie hüpfen wie ein Kalb,
+den Libanon und den Sirjon wie einen jungen Wildstier.
+<sup>7</sup>Die Stimme des HERRN schlägt mit Feuerflammen.
+<sup>8</sup>Die Stimme des HERRN erschüttert die Wüste.
+Der HERR erschüttert die Wüste Kadesch.
+<sup>9</sup>Die Stimme des HERRN lässt die Hirschkühe kalben
+und entblättert die Wälder.
+In seinem Tempel ruft alles: „Herrlichkeit!“
+
+> **Was bedeutet das?**
+> Siebenmal heißt es: „Die Stimme des HERRN“. Man hört den Donner rollen.
+> Ein Gewitter zieht über das Land: vom Meer (Vers 3) über die Berge des Libanon im Norden (Vers 5–6) bis in die Wüste Kadesch im Süden (Vers 8).
+> „Sirjon“ ist ein anderer Name für den Berg Hermon.
+> Die Nachbarvölker Israels glaubten, der Gott Baal schicke Donner und Regen. Dieser Psalm sagt klar: Nicht Baal, sondern der HERR ist der Herr über das Gewitter.
+> Vers 9: Während draußen der Sturm tobt, rufen alle im Tempel „Herrlichkeit!“. Sie erkennen im Gewitter Gottes Größe.
+
+---
+
+### Der HERR ist König (Vers 10–11)
+
+<sup>10</sup>Der HERR thronte über der Flut.
+Ja, der HERR thront als König für immer.
+<sup>11</sup>Der HERR wird seinem Volk Kraft geben.
+Der HERR wird sein Volk mit Frieden segnen.
+
+> **Was bedeutet das?**
+> „Die Flut“: Hier steht dasselbe Wort wie bei der Sintflut (1. Mose 6–9). Gott war schon König über die größte Flut. Er bleibt König für immer.
+> Der Psalm beginnt mit Gottes gewaltiger Stimme im Gewitter und endet mit einem stillen Wort: „Frieden“. Der mächtige Gott schenkt seinem Volk Ruhe und Frieden (hebräisch „Schalom“).
+
+## Psalm 30
+#### Du hast meine Klage in Tanz verwandelt
+
+---
+
+### Du hast mich geheilt (Vers 1–3)
+
+<sup>1</sup>Ein Psalm. Ein Lied zur Einweihung des Tempels. Von David.
+Ich will dich erheben, HERR, denn du hast mich heraufgezogen
+und meine Feinde sich nicht über mich freuen lassen.
+<sup>2</sup>HERR, mein Gott, ich schrie zu dir,
+und du hast mich geheilt.
+<sup>3</sup>HERR, du hast meine Seele aus dem Totenreich heraufgeholt.
+Du hast mich am Leben erhalten,
+damit ich nicht in die Grube hinabfahre.
+
+> **Was bedeutet das?**
+> Die Überschrift spricht von der „Einweihung des Tempels“. Im Hebräischen steht einfach „des Hauses“. Es kann der Tempel sein oder Davids Palast. Juden beten diesen Psalm bis heute zum Lichterfest Chanukka, das an die Wiedereinweihung des Tempels erinnert.
+> Der Beter war schwer krank, dem Tode nahe. Gott hat ihn geheilt. „Heraufgezogen“: wie man jemanden mit einem Eimer aus einem tiefen Brunnen zieht.
+
+---
+
+### Am Abend Weinen, am Morgen Jubel (Vers 4–5)
+
+<sup>4</sup>Singt dem HERRN Lob, ihr seine Frommen!
+Dankt seinem heiligen Namen!
+<sup>5</sup>Denn sein Zorn dauert nur einen Augenblick,
+seine Gunst ein ganzes Leben lang.
+Am Abend mag das Weinen einkehren,
+aber am Morgen kommt der Jubel.
+
+> **Was bedeutet das?**
+> Vers 5 ist einer der tröstlichsten Verse der Bibel. Leid und Trauer sind wie eine Nacht. Sie sind schwer, aber sie dauern nicht ewig. Der Morgen kommt.
+> Gottes Zorn ist kurz, seine Liebe lang.
+> Das heißt nicht, dass jede Trauer nach einer Nacht vorbei ist. Aber es heißt: Das Weinen hat nicht das letzte Wort.
+
+---
+
+### Ich dachte, ich bin sicher (Vers 6–10)
+
+<sup>6</sup>Ich aber sagte in meinem Glück:
+„Ich werde niemals wanken.“
+<sup>7</sup>HERR, als du mir gnädig warst,
+hast du meinen Berg fest stehen lassen.
+Aber als du dein Angesicht verbargst,
+da erschrak ich.
+<sup>8</sup>Zu dir, HERR, rief ich.
+Zum Herrn flehte ich:
+<sup>9</sup>„Was für einen Gewinn hast du von meinem Untergang,
+wenn ich in die Grube hinabfahre?
+Wird der Staub dich loben?
+Wird er deine Treue verkünden?
+<sup>10</sup>Hör, HERR, und sei mir gnädig!
+HERR, sei mein Helfer!“
+
+> **Was bedeutet das?**
+> Der Beter erzählt ehrlich: Als es mir gut ging, wurde ich überheblich. Ich dachte, ich bin unerschütterlich, aus eigener Kraft.
+> Dann hat Gott sich verborgen, und plötzlich war alles anders. Er merkte: Meine Sicherheit kam von Gott, nicht von mir.
+> Vers 9: Ein kühnes Argument im Gebet: Gott, was hast du davon, wenn ich sterbe? Tote können dich nicht mehr loben. Lass mich leben, damit ich dich lobe!
+
+---
+
+### Aus Klage wird Tanz (Vers 11–12)
+
+<sup>11</sup>Du hast meine Klage in Tanz verwandelt.
+Du hast mir das Trauerkleid ausgezogen
+und mich mit Freude umgürtet,
+<sup>12</sup>damit mein Herz dir Lob singt und nicht schweigt.
+HERR, mein Gott, ich will dir danken für immer!
+
+> **Was bedeutet das?**
+> Ein wunderschönes Bild: Gott zieht dem Trauernden das grobe Trauergewand (Sack) aus und zieht ihm Festkleider der Freude an. Aus Klagen wird Tanzen.
+> Der Psalm endet mit einem Versprechen: Ich will nicht schweigen, sondern Gott für immer danken.
+
+## Psalm 31
+#### In deine Hände befehle ich meinen Geist
+
+---
+
+### Sei mir ein starker Fels (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Bei dir, HERR, suche ich Zuflucht.
+Lass mich niemals enttäuscht werden!
+Rette mich in deiner Gerechtigkeit!
+<sup>2</sup>Neige dein Ohr zu mir!
+Rette mich schnell!
+Sei mir ein starker Fels,
+ein festes Haus, um mich zu retten!
+<sup>3</sup>Denn du bist mein Fels und meine Burg.
+Darum führe und leite mich um deines Namens willen!
+<sup>4</sup>Zieh mich aus dem Netz, das sie mir heimlich gelegt haben,
+denn du bist meine Festung.
+<sup>5</sup>In deine Hand befehle ich meinen Geist.
+Du erlöst mich, HERR, du Gott der Treue.
+
+> **Was bedeutet das?**
+> Vers 5 ist sehr bekannt: „In deine Hand befehle ich meinen Geist.“ „Befehlen“ heißt hier: anvertrauen, übergeben.
+> Jesus hat diese Worte am Kreuz als letzte Worte gebetet: „Vater, in deine Hände befehle ich meinen Geist“ (Lukas 23,46). Stephanus betete ähnlich bei seinem Tod (Apostelgeschichte 7,59).
+> Juden beten diesen Vers traditionell vor dem Schlafengehen. Viele Christen beten ihn am Abend und in der Sterbestunde.
+
+---
+
+### Du hast meine Not gesehen (Vers 6–8)
+
+<sup>6</sup>Ich hasse die, die sich an nichtige Götzen halten,
+ich aber vertraue auf den HERRN.
+<sup>7</sup>Ich will mich freuen und fröhlich sein über deine Güte,
+denn du hast mein Elend gesehen.
+Du hast meine Seele in den Nöten gekannt.
+<sup>8</sup>Du hast mich nicht in die Hand des Feindes ausgeliefert.
+Du hast meine Füße in die Weite gestellt.
+
+> **Was bedeutet das?**
+> „Nichtige Götzen“: Götter, die nichts tun können. Der Beter lehnt sie entschieden ab.
+> Vers 7: „Du hast meine Seele in den Nöten gekannt“: Gott weiß genau, wie es mir geht. Er kennt meinen Schmerz.
+
+---
+
+### Ich bin wie ein zerbrochenes Gefäß (Vers 9–13)
+
+<sup>9</sup>Sei mir gnädig, HERR, denn ich bin in Not.
+Mein Auge, meine Seele und mein Leib vergehen vor Kummer.
+<sup>10</sup>Denn mein Leben schwindet in Kummer dahin
+und meine Jahre in Seufzen.
+Meine Kraft versagt wegen meiner Schuld.
+Meine Knochen sind verfallen.
+<sup>11</sup>Wegen all meiner Gegner bin ich meinen Nachbarn völlig verächtlich geworden,
+ein Schrecken für meine Bekannten.
+Die mich auf der Straße sahen, flohen vor mir.
+<sup>12</sup>Ich bin aus ihren Herzen vergessen wie ein Toter.
+Ich bin wie ein zerbrochenes Gefäß.
+<sup>13</sup>Denn ich habe das Gerede vieler gehört,
+Schrecken ringsum,
+während sie sich gemeinsam gegen mich verschwören.
+Sie planen, mir das Leben zu nehmen.
+
+> **Was bedeutet das?**
+> Der Beter ist krank, ausgestoßen, vergessen. Die Leute gehen ihm auf der Straße aus dem Weg.
+> „Wie ein zerbrochenes Gefäß“: wertlos, weggeworfen. So fühlt er sich.
+> „Schrecken ringsum“: Dieser Ausdruck kommt oft beim Propheten Jeremia vor (z. B. Jeremia 20,10).
+> Viele Menschen kennen dieses Gefühl, vergessen und abgeschrieben zu sein. Gott sieht sie trotzdem.
+
+---
+
+### Meine Zeit steht in deinen Händen (Vers 14–18)
+
+<sup>14</sup>Ich aber vertraue auf dich, HERR.
+Ich sage: „Du bist mein Gott.“
+<sup>15</sup>Meine Zeiten sind in deiner Hand.
+Rette mich aus der Hand meiner Feinde
+und vor denen, die mich verfolgen!
+<sup>16</sup>Lass dein Angesicht über deinem Knecht leuchten!
+Rette mich in deiner Güte!
+<sup>17</sup>Lass mich nicht enttäuscht werden, HERR, denn ich habe dich angerufen.
+Lass die Gottlosen enttäuscht werden!
+Lass sie im Totenreich verstummen!
+<sup>18</sup>Die lügnerischen Lippen sollen verstummen,
+die frech gegen den Gerechten reden,
+mit Stolz und Verachtung.
+
+> **Was bedeutet das?**
+> Vers 14–15: „Ich aber“: Wieder die Wende zum Vertrauen.
+> „Meine Zeiten sind in deiner Hand“: Mein ganzes Leben, gute und schlechte Zeiten, Anfang und Ende, liegt bei Gott. Ein Satz, der vielen Menschen in schweren Stunden Halt gibt.
+> Das Lied „Meine Zeit steht in deinen Händen“ greift diesen Vers auf.
+
+---
+
+### Wie groß ist deine Güte! (Vers 19–24)
+
+<sup>19</sup>Ach, wie groß ist deine Güte,
+die du bereithältst für die, die dich fürchten,
+die du denen erweist, die bei dir Zuflucht suchen,
+vor den Augen der Menschenkinder!
+<sup>20</sup>Im Schutz deines Angesichts verbirgst du sie
+vor den Ränken der Menschen.
+Du bewahrst sie heimlich in einer Hütte
+vor dem Gezänk der Zungen.
+<sup>21</sup>Gepriesen sei der HERR,
+denn er hat mir seine wunderbare Güte erwiesen in einer festen Stadt.
+<sup>22</sup>Ich aber sagte in meiner Bestürzung:
+„Ich bin abgeschnitten von deinen Augen.“
+Dennoch hast du die Stimme meines Flehens gehört,
+als ich zu dir schrie.
+<sup>23</sup>Ach, liebt den HERRN, alle seine Frommen!
+Der HERR behütet die Treuen
+und vergilt reichlich dem, der hochmütig handelt.
+<sup>24</sup>Seid stark, und euer Herz fasse Mut,
+alle, die ihr auf den HERRN hofft!
+
+> **Was bedeutet das?**
+> Vers 19: Gott hat einen großen Vorrat an Güte für die, die ihm vertrauen.
+> Vers 20: „Das Gezänk der Zungen“: Gerüchte, Verleumdung, böses Gerede. Gott schützt davor.
+> Vers 22 ist sehr ehrlich: Der Beter hatte in Panik gedacht, Gott hat mich vergessen. Aber Gott hat ihn doch gehört. Auch wenn wir zweifeln, bleibt Gott treu.
+> Vers 24: Eine Ermutigung für alle: Seid stark und mutig!
+> Wenn du dich gerade vergessen und abgeschrieben fühlst: Die Telefonseelsorge hört zu, 0800 111 0 111 oder 0800 111 0 222.
+
+## Psalm 32
+#### Die Befreiung der Vergebung
+
+---
+
+### Glücklich, wem vergeben ist (Vers 1–2)
+
+<sup>1</sup>Von David. Ein Lehrgedicht.
+Glücklich ist der, dem die Übertretung vergeben ist,
+dessen Sünde bedeckt ist.
+<sup>2</sup>Glücklich ist der Mensch, dem der HERR die Schuld nicht anrechnet
+und in dessen Geist kein Betrug ist.
+
+> **Was bedeutet das?**
+> Psalm 32 ist einer der sieben Bußpsalmen. Er handelt vom Glück der Vergebung.
+> „Lehrgedicht“: Im Hebräischen steht „Maskil“. Es bedeutet vielleicht „Lied, das Einsicht gibt“ oder „kunstvolles Lied“.
+> Drei Wörter für Schuld: Übertretung (bewusst eine Grenze überschreiten), Sünde (das Ziel verfehlen), Schuld (das Verkehrte, Krumme). Und drei Wörter für Vergebung: vergeben (wegnehmen), bedecken, nicht anrechnen. Gott vergibt ganz und gar.
+> Paulus zitiert Vers 1–2 in Römer 4,7–8: Vergebung ist ein Geschenk, nicht ein Lohn für gute Taten.
+
+---
+
+### Als ich schwieg (Vers 3–5)
+
+<sup>3</sup>Als ich schwieg, verfielen meine Knochen
+durch mein Stöhnen den ganzen Tag.
+<sup>4</sup>Denn Tag und Nacht lag deine Hand schwer auf mir.
+Meine Kraft vertrocknete wie in der Sommerhitze.
+Sela.
+<sup>5</sup>Ich bekannte dir meine Sünde.
+Meine Schuld verbarg ich nicht.
+Ich sagte: „Ich will dem HERRN meine Übertretungen bekennen.“
+Und du hast mir die Schuld meiner Sünde vergeben.
+Sela.
+
+> **Was bedeutet das?**
+> David erzählt seine Erfahrung: Solange er seine Schuld verschwieg, ging es ihm schlecht, auch körperlich. Das schlechte Gewissen nagte an ihm.
+> Viele denken dabei an die Zeit nach Davids Ehebruch mit Batseba (2. Samuel 11–12).
+> Vers 5: Als er seine Schuld endlich zugab, kam die Befreiung. Gott vergab ihm sofort.
+> Das gilt bis heute: Wer seine Schuld ehrlich zugibt, findet bei Gott Vergebung (vgl. 1. Johannes 1,9).
+
+---
+
+### Du bist mein Versteck (Vers 6–7)
+
+<sup>6</sup>Darum soll jeder Fromme zu dir beten
+zu einer Zeit, in der du zu finden bist.
+Gewiss, wenn große Wasser überfluten,
+werden sie ihn nicht erreichen.
+<sup>7</sup>Du bist mein Versteck.
+Du wirst mich vor Not bewahren.
+Du wirst mich mit Liedern der Rettung umgeben.
+Sela.
+
+> **Was bedeutet das?**
+> David lädt alle ein: Wartet nicht zu lange! Betet, solange Gott zu finden ist.
+> Gott ist ein sicheres Versteck. Wenn die Fluten der Not kommen, ist man bei ihm sicher.
+> „Lieder der Rettung“: Rundherum klingen Jubellieder, weil Gott gerettet hat.
+
+---
+
+### Ich will dich unterweisen (Vers 8–11)
+
+<sup>8</sup>Ich will dich unterweisen und dich den Weg lehren, den du gehen sollst.
+Ich will dir raten, mein Auge ist auf dich gerichtet.
+<sup>9</sup>Seid nicht wie das Pferd oder das Maultier, die keinen Verstand haben,
+die man mit Gebiss und Zaum lenken muss,
+sonst kommen sie nicht zu dir.
+<sup>10</sup>Viele Schmerzen hat der Gottlose,
+aber wer auf den HERRN vertraut, den wird Güte umgeben.
+<sup>11</sup>Freut euch im HERRN und jubelt, ihr Gerechten!
+Jubelt, alle, die ihr aufrichtigen Herzens seid!
+
+> **Was bedeutet das?**
+> In Vers 8 spricht Gott selbst: Ich will dich führen. Ich behalte dich im Auge, wie ein guter Lehrer.
+> Vers 9: Gott will uns nicht wie ein Tier mit Zaumzeug zwingen. Er will, dass wir freiwillig und mit Verstand zu ihm kommen.
+> Vers 10–11: Wer Gott vertraut, ist von Güte umgeben. Der Psalm endet mit Freude.
