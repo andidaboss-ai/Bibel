@@ -55,8 +55,8 @@ aber sie hörten nicht.
 ## Manasse in Gefangenschaft und seine Umkehr (Vers 11–13)
 
 [11] Darum ließ der HERR die Heerführer des Königs von Assyrien über sie kommen.
-Sie fingen Manasse mit Haken,
-banden ihn mit bronzenen Fesseln
+Sie nahmen Manasse in Ketten gefangen,
+banden ihn mit Fesseln
 und brachten ihn nach Babel.
 [12] Als er in Not war,
 flehte er den HERRN, seinen Gott, an
@@ -69,7 +69,7 @@ Da erkannte Manasse, dass der HERR Gott ist.
 
 > **Was bedeutet das?**
 > Diese Geschichte steht nur in der Chronik, nicht in 2. Könige.
-> „Mit Haken“: In der englischen Vorlage steht „in Ketten“. Im Hebräischen steht ein Wort, das auch „Haken“ oder „Dornen“ bedeutet. Die Assyrer führten Gefangene manchmal mit Haken durch Nase oder Lippe ab. Das war grausam und erniedrigend.
+> „In Ketten“: Im Hebräischen steht ein Wort, das auch „Haken“ oder „Dornen“ bedeuten kann. Die Assyrer führten Gefangene manchmal mit Haken durch Nase oder Lippe ab. Das war grausam und erniedrigend.
 > Dass Manasse nach Babel gebracht wurde, mag überraschen, weil die Hauptstadt Assyriens Ninive war. Aber Babel gehörte damals zum assyrischen Reich. In assyrischen Inschriften wird Manasse als Vasall genannt, der Abgaben zahlen musste.
 > Das ist eine der hoffnungsvollsten Geschichten der Bibel: Selbst der schlimmste König Judas kehrt um. Und Gott vergibt ihm. Kein Mensch ist zu weit weg, um zu Gott zurückzukommen.
 > „Da erkannte Manasse, dass der HERR Gott ist“: In der Not hat er Gott wirklich kennengelernt.

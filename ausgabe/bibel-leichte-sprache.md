@@ -57784,7 +57784,7 @@ der alle tapferen Krieger, die Anführer und die Befehlshaber
 im Lager des Königs von Assyrien vernichtete.
 So kehrte er mit Schande im Gesicht in sein Land zurück.
 Als er in das Haus seines Gottes ging,
-töteten ihn dort einige von seinen eigenen Söhnen mit dem Schwert.
+töteten ihn dort mit dem Schwert einige, die aus seinem eigenen Leib hervorgegangen waren.
 <sup>22</sup>So rettete der HERR Hiskija und die Bewohner Jerusalems
 aus der Hand Sanheribs, des Königs von Assyrien,
 und aus der Hand aller anderen,
@@ -57795,7 +57795,7 @@ So wurde er von da an vor den Augen aller Völker hoch geehrt.
 
 > **Was bedeutet das?**
 > Hiskija und Jesaja beten. Und Gott greift ein. Die Chronik erzählt das sehr kurz. In 2. Könige 19,35 heißt es, dass in einer Nacht 185 000 Mann im Lager der Assyrer starben.
-> „Seine eigenen Söhne“: In der englischen Vorlage steht wörtlich „die aus seinem eigenen Leib kamen“. Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von Söhnen ermordet. Das berichten auch babylonische und assyrische Quellen. Die Chronik fasst zusammen, ohne zu sagen, wie viel Zeit dazwischen lag.
+> „Die aus seinem eigenen Leib hervorgegangen waren“ heißt: seine eigenen Söhne. Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von Söhnen ermordet. Das berichten auch babylonische und assyrische Quellen. Die Chronik fasst zusammen, ohne zu sagen, wie viel Zeit dazwischen lag.
 > Die Ironie: Sanherib spottete, dass kein Gott seine Anhänger retten könne. Und dann wird er im Tempel seines eigenen Gottes getötet. Sein Gott konnte ihn nicht schützen.
 > „Er leitete sie“: Manche Handschriften haben „er gab ihnen Ruhe“.
 
@@ -57918,8 +57918,8 @@ aber sie hörten nicht.
 ### Manasse in Gefangenschaft und seine Umkehr (Vers 11–13)
 
 <sup>11</sup>Darum ließ der HERR die Heerführer des Königs von Assyrien über sie kommen.
-Sie fingen Manasse mit Haken,
-banden ihn mit bronzenen Fesseln
+Sie nahmen Manasse in Ketten gefangen,
+banden ihn mit Fesseln
 und brachten ihn nach Babel.
 <sup>12</sup>Als er in Not war,
 flehte er den HERRN, seinen Gott, an
@@ -57932,7 +57932,7 @@ Da erkannte Manasse, dass der HERR Gott ist.
 
 > **Was bedeutet das?**
 > Diese Geschichte steht nur in der Chronik, nicht in 2. Könige.
-> „Mit Haken“: In der englischen Vorlage steht „in Ketten“. Im Hebräischen steht ein Wort, das auch „Haken“ oder „Dornen“ bedeutet. Die Assyrer führten Gefangene manchmal mit Haken durch Nase oder Lippe ab. Das war grausam und erniedrigend.
+> „In Ketten“: Im Hebräischen steht ein Wort, das auch „Haken“ oder „Dornen“ bedeuten kann. Die Assyrer führten Gefangene manchmal mit Haken durch Nase oder Lippe ab. Das war grausam und erniedrigend.
 > Dass Manasse nach Babel gebracht wurde, mag überraschen, weil die Hauptstadt Assyriens Ninive war. Aber Babel gehörte damals zum assyrischen Reich. In assyrischen Inschriften wird Manasse als Vasall genannt, der Abgaben zahlen musste.
 > Das ist eine der hoffnungsvollsten Geschichten der Bibel: Selbst der schlimmste König Judas kehrt um. Und Gott vergibt ihm. Kein Mensch ist zu weit weg, um zu Gott zurückzukommen.
 > „Da erkannte Manasse, dass der HERR Gott ist“: In der Not hat er Gott wirklich kennengelernt.
