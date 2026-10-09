@@ -65312,3 +65312,172 @@ und meine Rede zunichte machen?“
 > Vers 24: Am Ende sterben sie „wie alle anderen“. Der Tod macht keinen Unterschied. Aber eine besondere Strafe für sie sieht Hiob nicht.
 > Vers 25 ist eine Herausforderung: Wenn ich nicht recht habe, dann beweist es mir!
 > Manche Ausleger vermuten, dass in den Kapiteln 24–27 beim Abschreiben die Reihenfolge der Reden durcheinandergeraten ist. Denn in der dritten Runde ist Bildads Rede sehr kurz, und Zofar spricht gar nicht mehr. Diese Übertragung folgt dem Text, wie er überliefert ist.
+
+## Hiob – Kapitel 25
+#### Bildads letzte Rede: Der Mensch ist ein Wurm
+
+---
+
+### Wie kann ein Mensch gerecht sein? (Vers 1–6)
+
+<sup>1</sup>Da antwortete Bildad, der Schuachiter:
+<sup>2</sup>„Herrschaft und Furcht sind bei ihm.
+Er schafft Frieden in seinen Höhen.
+<sup>3</sup>Kann man seine Heere zählen?
+Über wem geht sein Licht nicht auf?
+<sup>4</sup>Wie kann dann ein Mensch gerecht sein vor Gott?
+Oder wie kann der rein sein, der von einer Frau geboren ist?
+<sup>5</sup>Schau, selbst der Mond hat keinen Glanz,
+und die Sterne sind nicht rein in seinen Augen.
+<sup>6</sup>Wie viel weniger der Mensch, der eine Made ist,
+und das Menschenkind, das ein Wurm ist!“
+
+> **Was bedeutet das?**
+> Das ist die kürzeste Rede im ganzen Buch, nur fünf Verse. Den Freunden gehen die Argumente aus.
+> Bildad lobt Gottes Größe: Er herrscht über alles, er schafft Frieden im Himmel, seine Engelheere sind unzählbar.
+> Dann wiederholt er, was schon Elifas gesagt hat (Kapitel 4,17; 15,14): Kein Mensch ist rein vor Gott.
+> Sein letztes Wort ist hart: Der Mensch ist „eine Made“ und „ein Wurm“. Das ist Bildads Bild vom Menschen: klein, schmutzig, wertlos.
+> Die Bibel sieht das an anderer Stelle anders: Der Mensch ist zwar klein vor Gott, aber er ist Gottes Ebenbild (1. Mose 1,27), „wenig niedriger als Gott“ geschaffen (Psalm 8,6). Gott liebt den Menschen.
+> Zofar spricht in dieser dritten Runde gar nicht mehr. Die Freunde haben nichts mehr zu sagen.
+
+## Hiob – Kapitel 26
+#### „Das sind nur die Ränder seiner Wege“
+
+---
+
+### Wie gut hast du geholfen! (Vers 1–4)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Wie hast du doch dem geholfen, der keine Kraft hat!
+Wie hast du den Arm gerettet, der keine Stärke hat!
+<sup>3</sup>Wie hast du den beraten, der keine Weisheit hat,
+und reichlich gesunde Erkenntnis kundgetan!
+<sup>4</sup>Wem hast du deine Worte gesagt?
+Und wessen Geist ist aus dir hervorgegangen?
+
+> **Was bedeutet das?**
+> Hiob antwortet mit beißendem Spott: Wie toll du mir geholfen hast! Wie weise deine Ratschläge waren!
+> Vers 4: „Wessen Geist ist aus dir gekommen?“ Hiob fragt: Woher hast du das? Das ist doch nicht von Gott. Du wiederholst nur, was andere gesagt haben.
+
+---
+
+### Gottes unfassbare Größe (Vers 5–14)
+
+<sup>5</sup>Die Schatten der Toten zittern,
+die unter den Wassern und ihre Bewohner.
+<sup>6</sup>Das Totenreich liegt nackt vor Gott,
+und der Abgrund hat keine Decke.
+<sup>7</sup>Er spannt den Norden über die Leere aus
+und hängt die Erde über dem Nichts auf.
+<sup>8</sup>Er bindet das Wasser in seine dichten Wolken,
+und die Wolke zerreißt nicht unter ihm.
+<sup>9</sup>Er verhüllt den Anblick seines Throns
+und breitet seine Wolke darüber aus.
+<sup>10</sup>Er hat eine Grenze auf der Oberfläche des Wassers gezogen,
+bis dorthin, wo Licht und Finsternis sich berühren.
+<sup>11</sup>Die Säulen des Himmels zittern
+und erstaunen vor seinem Drohen.
+<sup>12</sup>Er erregt das Meer mit seiner Kraft,
+und mit seiner Einsicht zerschmettert er Rahab.
+<sup>13</sup>Durch seinen Geist wird der Himmel heiter.
+Seine Hand hat die flüchtige Schlange durchbohrt.
+<sup>14</sup>Schaut, das sind nur die Ränder seiner Wege!
+Wie leise ist das Flüstern, das wir von ihm hören!
+Aber den Donner seiner Macht – wer kann ihn verstehen?“
+
+> **Was bedeutet das?**
+> Hiob zeigt, dass er Gottes Größe viel besser kennt als Bildad. Seine Beschreibung ist großartig:
+> – Selbst das Totenreich ist vor Gott offen. Nichts ist vor ihm verborgen.
+> – „Er hängt die Erde über dem Nichts auf“: Ein erstaunlicher Satz. Viele alte Völker glaubten, die Erde ruhe auf Säulen oder auf dem Rücken eines Tieres. Hiob sagt: Die Erde hängt frei im Raum.
+> – Gott bindet Wasser in die Wolken, und sie platzen nicht.
+> – Der Horizont ist die Grenze zwischen Licht und Finsternis.
+> „Abgrund“ heißt hier im Hebräischen „Abaddon“, ein anderer Name für das Totenreich (vgl. Offenbarung 9,11).
+> „Rahab“ und „die flüchtige Schlange“ sind Bilder aus alten Geschichten für das Chaos. Gott besiegt alle Mächte des Chaos.
+> Vers 14 ist einer der schönsten Verse des Buches: Alles, was wir von Gott sehen, sind nur „die Ränder seiner Wege“. Wir hören nur ein leises Flüstern von ihm. Seine ganze Macht, den „Donner“, können wir gar nicht verstehen.
+> Das ist echte Demut: Wir wissen nur ein bisschen von Gott. Darum sollte niemand so tun, als hätte er ihn ganz verstanden, wie es die Freunde tun.
+
+## Hiob – Kapitel 27
+#### „Ich halte fest an meiner Gerechtigkeit“
+
+---
+
+### Hiobs Schwur (Vers 1–6)
+
+<sup>1</sup>Hiob fuhr fort mit seinem Spruch und sagte:
+<sup>2</sup>„So wahr Gott lebt, der mir mein Recht genommen hat,
+der Allmächtige, der meine Seele bitter gemacht hat
+<sup>3</sup>– denn solange mein Atem noch in mir ist
+und der Geist Gottes in meiner Nase –,
+<sup>4</sup>gewiss, meine Lippen werden kein Unrecht reden,
+und meine Zunge wird keinen Betrug aussprechen.
+<sup>5</sup>Fern sei es von mir, dass ich euch recht gebe!
+Bis ich sterbe, lasse ich meine Lauterkeit nicht von mir.
+<sup>6</sup>Ich halte fest an meiner Gerechtigkeit und lasse sie nicht los.
+Mein Herz wirft mir nichts vor, solange ich lebe.
+
+> **Was bedeutet das?**
+> Hiob schwört bei Gott, dem Gott, der ihm sein Recht genommen hat. Das ist ein Widerspruch: Er klagt Gott an und schwört gleichzeitig bei ihm. Hiob hält an Gott fest, auch wenn er ihn nicht versteht.
+> „Der Geist Gottes in meiner Nase“: Gott hat dem Menschen den Lebensatem eingehaucht (1. Mose 2,7).
+> Vers 5–6: Hiob wird nicht lügen, um seine Freunde zufriedenzustellen. Er wird nicht zugeben, dass er schuldig ist, wenn er es nicht ist. „Mein Herz wirft mir nichts vor.“ Er hat ein reines Gewissen.
+> „Lauterkeit“ ist dasselbe Wort, das Gott im Himmel benutzt hat: „Er hält noch immer fest an seiner Lauterkeit“ (Kapitel 2,3). Und genau das wollte der Satan zerstören. Es ist ihm nicht gelungen.
+
+---
+
+### Was ist die Hoffnung des Gottlosen? (Vers 7–12)
+
+<sup>7</sup>Mein Feind soll sein wie der Gottlose,
+und wer sich gegen mich erhebt, wie der Ungerechte.
+<sup>8</sup>Denn was ist die Hoffnung des Gottlosen,
+wenn er abgeschnitten wird,
+wenn Gott sein Leben wegnimmt?
+<sup>9</sup>Wird Gott sein Schreien hören,
+wenn Not über ihn kommt?
+<sup>10</sup>Wird er sich am Allmächtigen freuen
+und Gott jederzeit anrufen?
+<sup>11</sup>Ich will euch über die Hand Gottes belehren.
+Was beim Allmächtigen ist, will ich nicht verbergen.
+<sup>12</sup>Schaut, ihr alle habt es selbst gesehen.
+Warum seid ihr dann so ganz nichtig geworden?
+
+> **Was bedeutet das?**
+> Hiob unterscheidet sich klar vom Gottlosen: Der Gottlose hat keine Hoffnung. Er kann sich nicht an Gott freuen. Er ruft Gott nicht an.
+> Hiob dagegen ruft Gott die ganze Zeit an, auch wenn er klagt. Gerade das zeigt, dass er kein Gottloser ist.
+> Vers 9: Ob Gott das Schreien des Gottlosen hört? Hiob weiß: Gott hört auch sein Schreien, auch wenn er noch keine Antwort bekommen hat.
+
+---
+
+### Das Ende des Gottlosen (Vers 13–23)
+
+<sup>13</sup>Das ist das Teil eines gottlosen Menschen bei Gott,
+das Erbe der Gewalttätigen, das sie vom Allmächtigen bekommen:
+<sup>14</sup>Wenn seine Kinder zahlreich werden, dann für das Schwert.
+Und seine Nachkommen werden nicht satt von Brot.
+<sup>15</sup>Die von ihm übrig bleiben, werden durch Seuche begraben,
+und seine Witwen werden nicht klagen.
+<sup>16</sup>Auch wenn er Silber aufhäuft wie Staub
+und Kleider bereitlegt wie Lehm,
+<sup>17</sup>so mag er sie bereitlegen, aber der Gerechte wird sie anziehen,
+und der Unschuldige wird das Silber verteilen.
+<sup>18</sup>Er baut sein Haus wie die Motte,
+wie eine Hütte, die ein Wächter macht.
+<sup>19</sup>Reich legt er sich hin, aber er tut es nicht wieder.
+Er öffnet seine Augen, und er ist nicht mehr.
+<sup>20</sup>Schrecken überfallen ihn wie Wasser.
+Ein Sturm entführt ihn in der Nacht.
+<sup>21</sup>Der Ostwind trägt ihn fort, und er geht dahin.
+Er fegt ihn von seinem Ort weg.
+<sup>22</sup>Denn er schleudert auf ihn und schont nicht,
+während er vor seiner Hand flieht.
+<sup>23</sup>Man klatscht über ihn in die Hände
+und zischt ihn von seinem Ort weg.
+
+> **Was bedeutet das?**
+> Diese Verse klingen überraschend wie die Reden der Freunde: Der Gottlose verliert alles, seine Kinder sterben, sein Reichtum geht an die Gerechten.
+> Wie passt das zu Hiob, der doch gerade gesagt hat, dass es den Gottlosen oft gut geht (Kapitel 21)?
+> Es gibt verschiedene Erklärungen:
+> – Vielleicht sagt Hiob: Ich weiß auch, dass Gott am Ende den Gottlosen richten wird. Ich leugne das nicht. Aber das bedeutet nicht, dass jeder Leidende ein Gottloser ist.
+> – Vielleicht zitiert Hiob hier spöttisch, was die Freunde immer sagen.
+> – Viele Ausleger vermuten, dass diese Verse ursprünglich zu Zofars dritter Rede gehörten, die sonst ganz fehlt. Beim Abschreiben könnte die Reihenfolge durcheinandergeraten sein.
+> Diese Übertragung folgt dem Text, wie er überliefert ist. Hier wird er Hiob zugeordnet.
+> „Eine Hütte, die ein Wächter macht“: eine einfache Hütte aus Zweigen im Weinberg, die schnell wieder zerfällt.
+> „Man klatscht in die Hände und zischt“: Zeichen von Spott und Verachtung.
