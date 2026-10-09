@@ -87890,3 +87890,421 @@ Und er sagte weiter:
 > „Eunuchen“: Das waren Diener und Beamte am Königshof, die oft entmannt wurden. Manchmal bezeichnet das Wort auch einfach hohe Hofbeamte.
 > Vers 8: Hiskias Antwort ist erschreckend: Er ist erleichtert, dass es erst nach seiner Zeit passiert. Hauptsache, zu meinen Lebzeiten ist Frieden. Eine sehr menschliche, aber egoistische Haltung.
 > Mit diesem Ausblick auf Babel endet der erste Teil des Buches Jesaja. Ab Kapitel 40 spricht Jesaja zu den Menschen, die im Exil in Babel leben: „Tröstet, tröstet mein Volk!“
+
+## Jesaja – Kapitel 40
+#### Tröstet, tröstet mein Volk!
+
+---
+
+### Tröstet mein Volk (Vers 1–11)
+
+<sup>1</sup>„Tröstet, tröstet mein Volk“, spricht euer Gott.
+<sup>2</sup>„Redet freundlich zu Jerusalem
+und ruft ihr zu, dass ihr Frondienst vollendet ist,
+dass ihre Schuld vergeben ist,
+dass sie aus der Hand des HERRN Doppeltes empfangen hat
+für alle ihre Sünden.“
+<sup>3</sup>Eine Stimme ruft:
+„Bereitet in der Wüste den Weg des HERRN!
+Macht in der Steppe eine ebene Straße für unseren Gott!
+<sup>4</sup>Jedes Tal soll erhöht werden,
+und jeder Berg und Hügel soll erniedrigt werden.
+Das Unebene soll eben werden
+und das Holprige zu einer Ebene.
+<sup>5</sup>Die Herrlichkeit des HERRN wird offenbart werden,
+und alle Menschen zusammen werden sie sehen,
+denn der Mund des HERRN hat es gesagt.“
+<sup>6</sup>Eine Stimme sagt: „Rufe!“
+Einer sagte: „Was soll ich rufen?“
+„Alle Menschen sind wie Gras,
+und all ihre Schönheit ist wie die Blume des Feldes.
+<sup>7</sup>Das Gras verdorrt, die Blume verwelkt,
+denn der Hauch des HERRN weht darüber.
+Gewiss, das Volk ist wie Gras.
+<sup>8</sup>Das Gras verdorrt, die Blume verwelkt,
+aber das Wort unseres Gottes bleibt für immer.“
+<sup>9</sup>Du, die du Zion eine gute Nachricht bringst,
+steig auf einen hohen Berg!
+Du, die du Jerusalem eine gute Nachricht bringst,
+erhebe deine Stimme mit Kraft!
+Erhebe sie! Fürchte dich nicht!
+Sag zu den Städten Judas: „Seht, da ist euer Gott!“
+<sup>10</sup>Siehe, der Herr, der HERR, kommt als ein Mächtiger,
+und sein Arm herrscht für ihn.
+Siehe, sein Lohn ist bei ihm,
+und seine Vergeltung geht vor ihm her.
+<sup>11</sup>Er wird seine Herde weiden wie ein Hirte.
+Er wird die Lämmer in seinen Arm nehmen
+und sie an seiner Brust tragen.
+Die Mutterschafe wird er sanft führen.
+
+> **Was bedeutet das?**
+> Mit Kapitel 40 beginnt ein neuer Teil des Buches Jesaja, das „Trostbuch“ (Kapitel 40–55). Es spricht zu den Menschen, die etwa 150 Jahre nach Jesaja im Exil in Babylon leben. Jerusalem ist zerstört, der Tempel verbrannt. Viele denken: Gott hat uns vergessen.
+> Vers 1–2: Die ersten Worte sind: „Tröstet, tröstet mein Volk!“ Die Strafe ist vorbei. Die Schuld ist vergeben. Gott spricht wieder „freundlich“, wörtlich: „zum Herzen“ Jerusalems.
+> Vers 3–5: Eine Straße durch die Wüste wird gebaut, auf der Gott sein Volk nach Hause führt. Alle Hindernisse werden beseitigt. Die Evangelien beziehen diese Stimme auf Johannes den Täufer, der den Weg für Jesus bereitet (Markus 1,2–3).
+> Vers 6–8: Menschen sind vergänglich wie Gras. Aber Gottes Wort bleibt für immer. Das ist der Grund für die Hoffnung. Petrus zitiert diese Verse (1. Petrus 1,24–25).
+> Vers 9: Eine Freudenbotin soll auf einen Berg steigen und laut rufen: „Seht, da ist euer Gott!“
+> Vers 11: Ein zärtliches Bild: Gott ist wie ein Hirte, der die kleinen Lämmer auf den Arm nimmt und die Muttertiere sanft führt. Händel hat diesen Vers im „Messias“ vertont.
+
+---
+
+### Wer ist wie Gott? (Vers 12–26)
+
+<sup>12</sup>Wer hat die Wasser mit seiner hohlen Hand gemessen
+und den Himmel mit der Spanne abgemessen
+und den Staub der Erde in einem Messkorb erfasst
+und die Berge mit der Waage gewogen
+und die Hügel mit der Waagschale?
+<sup>13</sup>Wer hat den Geist des HERRN gelenkt
+oder ihn als sein Ratgeber unterwiesen?
+<sup>14</sup>Mit wem hat er sich beraten,
+und wer hat ihn belehrt
+und ihn den Pfad des Rechts gelehrt
+und ihn Erkenntnis gelehrt
+und ihm den Weg der Einsicht gezeigt?
+<sup>15</sup>Siehe, die Nationen sind wie ein Tropfen am Eimer
+und gelten wie ein Stäubchen auf der Waagschale.
+Siehe, er hebt die Inseln hoch wie ein winziges Ding.
+<sup>16</sup>Der Libanon reicht nicht zum Brennholz,
+und seine Tiere reichen nicht für ein Brandopfer.
+<sup>17</sup>Alle Nationen sind vor ihm wie nichts.
+Sie gelten ihm weniger als nichts und als Leere.
+<sup>18</sup>Mit wem wollt ihr also Gott vergleichen?
+Oder welches Bild wollt ihr ihm gegenüberstellen?
+<sup>19</sup>Ein Handwerker gießt ein Bild,
+und der Goldschmied überzieht es mit Gold
+und gießt silberne Ketten dafür.
+<sup>20</sup>Wer zu arm ist für eine solche Gabe,
+wählt ein Holz, das nicht verfault.
+Er sucht sich einen geschickten Handwerker,
+um ein geschnitztes Bild aufzustellen, das nicht wackelt.
+<sup>21</sup>Wisst ihr es nicht? Hört ihr es nicht?
+Ist es euch nicht von Anfang an verkündet worden?
+Habt ihr es nicht seit der Gründung der Erde verstanden?
+<sup>22</sup>Er ist es, der über dem Kreis der Erde thront,
+und ihre Bewohner sind wie Heuschrecken.
+Er spannt den Himmel aus wie einen Vorhang
+und breitet ihn aus wie ein Zelt zum Wohnen.
+<sup>23</sup>Er macht die Fürsten zunichte.
+Er macht die Richter der Erde bedeutungslos.
+<sup>24</sup>Kaum sind sie gepflanzt,
+kaum sind sie gesät,
+kaum hat ihr Stamm in der Erde Wurzeln geschlagen,
+da bläst er sie nur an, und sie verdorren,
+und der Sturm trägt sie fort wie Stoppeln.
+<sup>25</sup>„Mit wem wollt ihr mich also vergleichen?
+Wer ist mir gleich?“, spricht der Heilige.
+<sup>26</sup>Hebt eure Augen in die Höhe und seht:
+Wer hat diese geschaffen?
+Er führt ihr Heer nach der Zahl heraus.
+Er ruft sie alle mit Namen.
+Wegen seiner großen Macht und weil er stark an Kraft ist,
+fehlt nicht ein einziger.
+
+> **Was bedeutet das?**
+> Die Menschen im Exil fragen: Ist unser Gott nicht schwächer als die Götter Babylons? Jesaja antwortet mit gewaltigen Bildern:
+> Vers 12: Gott misst die Ozeane mit seiner hohlen Hand und wiegt die Berge auf einer Waage.
+> Vers 15: Die großen Weltreiche, auch Babylon, sind für ihn wie ein Tropfen am Eimer.
+> Vers 18–20: Die Götter Babylons sind von Handwerkern gemacht. Man muss sie festnageln, damit sie nicht umfallen. Wie kann man den lebendigen Gott mit so etwas vergleichen?
+> Vers 22: Von oben gesehen sind die Menschen klein wie Heuschrecken.
+> Vers 26: Schaut in den Sternenhimmel! Die Babylonier verehrten die Sterne als Götter. Jesaja sagt: Gott hat sie alle geschaffen. Er kennt jeden Stern mit Namen.
+
+---
+
+### Neue Kraft für die Müden (Vers 27–31)
+
+<sup>27</sup>Warum sagst du, Jakob, und warum sprichst du, Israel:
+„Mein Weg ist vor dem HERRN verborgen,
+und mein Recht wird von meinem Gott übergangen“?
+<sup>28</sup>Weißt du es nicht? Hast du es nicht gehört?
+Der ewige Gott, der HERR,
+der Schöpfer der Enden der Erde,
+wird nicht müde und nicht matt.
+Sein Verstand ist unergründlich.
+<sup>29</sup>Er gibt dem Müden Kraft,
+und dem, der keine Stärke hat, vermehrt er die Kraft.
+<sup>30</sup>Sogar junge Leute werden müde und matt,
+und junge Männer stolpern und fallen.
+<sup>31</sup>Aber die auf den HERRN warten, bekommen neue Kraft.
+Sie steigen auf mit Flügeln wie Adler.
+Sie laufen und werden nicht müde.
+Sie gehen und werden nicht matt.
+
+> **Was bedeutet das?**
+> Vers 27: Die Menschen klagen: Gott sieht uns nicht mehr. Wir sind ihm egal.
+> Vers 28–29: Jesajas Antwort: Gott wird niemals müde. Und er gibt den Müden Kraft.
+> Vers 31 ist einer der beliebtesten Verse der Bibel. Wer auf Gott hofft, bekommt neue Kraft, wie ein Adler, der sich vom Wind nach oben tragen lässt. Viele Menschen haben in schweren Zeiten aus diesem Vers Mut geschöpft.
+> Wer gerade erschöpft ist und keine Kraft mehr hat: Du darfst Hilfe annehmen, von Gott und von Menschen. Die Telefonseelsorge ist erreichbar: 0800 111 0 111.
+
+## Jesaja – Kapitel 41
+#### Fürchte dich nicht, ich bin mit dir
+
+---
+
+### Wer hat den Mann aus dem Osten erweckt? (Vers 1–7)
+
+<sup>1</sup>„Seid still vor mir, ihr Inseln,
+und die Völker sollen neue Kraft schöpfen.
+Sie sollen herankommen, dann sollen sie reden.
+Lasst uns zusammen vor Gericht treten.
+<sup>2</sup>Wer hat einen aus dem Osten erweckt?
+Wer hat ihn in Gerechtigkeit zu seinen Füßen gerufen?
+Er gibt ihm Nationen preis
+und lässt ihn über Könige herrschen.
+Er macht sie wie Staub vor seinem Schwert,
+wie verwehte Stoppeln vor seinem Bogen.
+<sup>3</sup>Er verfolgt sie und zieht unversehrt weiter,
+auf einem Weg, den seine Füße noch nie gegangen sind.
+<sup>4</sup>Wer hat es gewirkt und getan,
+der die Generationen von Anfang an ruft?
+Ich, der HERR, der Erste,
+und bei den Letzten bin ich derselbe.“
+<sup>5</sup>Die Inseln haben es gesehen und fürchten sich.
+Die Enden der Erde zittern.
+Sie nähern sich und kommen.
+<sup>6</sup>Jeder hilft seinem Nächsten.
+Sie sagen zu ihren Brüdern: „Sei stark!“
+<sup>7</sup>So ermutigt der Handwerker den Goldschmied.
+Wer mit dem Hammer glättet, ermutigt den, der auf den Amboss schlägt,
+und sagt über das Löten: „Es ist gut.“
+Und er befestigt es mit Nägeln, damit es nicht wackelt.
+
+> **Was bedeutet das?**
+> Gott ruft die Völker wie zu einer Gerichtsverhandlung.
+> Vers 2–3: „Einer aus dem Osten“ ist Kyrus, der König von Persien. Er eroberte ein Land nach dem anderen und im Jahr 539 vor Christus auch Babylon. Jesaja sagt: Gott hat ihn gerufen.
+> Vers 4: Gott ist der Erste und der Letzte. Er lenkt die ganze Geschichte.
+> Vers 6–7: Die Völker bekommen Angst und machen sich gegenseitig Mut, indem sie schnell neue Götterbilder bauen und festnageln. Jesaja beschreibt das mit Spott.
+
+---
+
+### Fürchte dich nicht (Vers 8–16)
+
+<sup>8</sup>„Du aber, Israel, mein Knecht,
+Jakob, den ich erwählt habe,
+Nachkomme Abrahams, meines Freundes,
+<sup>9</sup>du, den ich von den Enden der Erde ergriffen
+und aus ihren Winkeln gerufen habe,
+zu dem ich gesagt habe:
+‚Du bist mein Knecht.
+Ich habe dich erwählt und dich nicht verworfen‘:
+<sup>10</sup>Fürchte dich nicht, denn ich bin mit dir.
+Sei nicht ängstlich, denn ich bin dein Gott.
+Ich stärke dich.
+Ja, ich helfe dir.
+Ja, ich halte dich mit der rechten Hand meiner Gerechtigkeit.
+<sup>11</sup>Siehe, alle, die gegen dich wüten,
+werden enttäuscht und beschämt werden.
+Die mit dir streiten, werden wie nichts sein und umkommen.
+<sup>12</sup>Du wirst sie suchen und nicht finden,
+die mit dir streiten.
+Die gegen dich Krieg führen, werden wie nichts sein,
+wie etwas, das es nicht gibt.
+<sup>13</sup>Denn ich, der HERR, dein Gott,
+halte deine rechte Hand
+und sage zu dir: ‚Fürchte dich nicht! Ich helfe dir.‘
+<sup>14</sup>Fürchte dich nicht, du Wurm Jakob,
+und ihr Männer Israels.
+Ich helfe dir“, spricht der HERR.
+„Dein Erlöser ist der Heilige Israels.
+<sup>15</sup>Siehe, ich mache dich zu einem neuen, scharfen Dreschschlitten mit Zähnen.
+Du wirst die Berge dreschen und sie zermalmen
+und die Hügel wie Spreu machen.
+<sup>16</sup>Du wirst sie worfeln, und der Wind wird sie forttragen,
+und der Sturm wird sie zerstreuen.
+Du wirst dich über den HERRN freuen.
+Du wirst dich des Heiligen Israels rühmen.
+
+> **Was bedeutet das?**
+> Vers 8: Gott nennt Abraham „meinen Freund“. Was für eine Ehre! Und Israel ist sein „Knecht“, sein Diener, den er erwählt hat.
+> Vers 10 ist einer der tröstlichsten Verse der Bibel: „Fürchte dich nicht, denn ich bin mit dir. Ich stärke dich, ich helfe dir, ich halte dich.“
+> Vers 13: Gott hält die Hand seines Volkes, wie ein Vater oder eine Mutter ein Kind an der Hand hält.
+> Vers 14: „Du Wurm Jakob“: Israel fühlt sich im Exil klein und schwach wie ein Wurm. Gott sagt: Gerade dir helfe ich. „Erlöser“ heißt auf Hebräisch „Go'el“: ein Verwandter, der für einen Angehörigen in Not eintritt und ihn freikauft. So tritt Gott für sein Volk ein.
+> Vers 15–16: Das schwache Volk wird mit Gottes Hilfe stark wie ein Dreschschlitten, der Berge zermalmt. Das ist ein Bild dafür, dass Gott alle Hindernisse beseitigt.
+
+---
+
+### Wasser in der Wüste (Vers 17–20)
+
+<sup>17</sup>Die Armen und Bedürftigen suchen Wasser, und es ist keins da.
+Ihre Zunge vertrocknet vor Durst.
+Ich, der HERR, werde sie erhören.
+Ich, der Gott Israels, werde sie nicht verlassen.
+<sup>18</sup>Ich werde Flüsse auf den kahlen Höhen öffnen
+und Quellen mitten in den Tälern.
+Ich werde die Wüste zu einem Wasserteich machen
+und das trockene Land zu Wasserquellen.
+<sup>19</sup>Ich werde Zedern, Akazien, Myrten und Ölbäume in die Wüste setzen.
+Ich werde Zypressen, Pinien und Buchsbäume zusammen in die Steppe pflanzen,
+<sup>20</sup>damit sie sehen, erkennen, bedenken und zusammen verstehen,
+dass die Hand des HERRN das getan hat
+und der Heilige Israels es geschaffen hat.
+
+> **Was bedeutet das?**
+> Gott sorgt für die Armen und Durstigen. Die Wüste, durch die die Heimkehrer ziehen, wird zu einem Garten mit Wasser und Bäumen.
+> Das erinnert an die Wüstenwanderung nach dem Auszug aus Ägypten, als Gott Wasser aus dem Felsen gab.
+> Vers 20: Alle sollen daran erkennen, dass Gott der Schöpfer ist.
+
+---
+
+### Die Götzen können nichts (Vers 21–29)
+
+<sup>21</sup>„Bringt eure Sache vor“, spricht der HERR.
+„Bringt eure starken Gründe vor!“, spricht der König Jakobs.
+<sup>22</sup>„Sie sollen uns ankündigen und erklären, was geschehen wird!
+Erklärt das Frühere, was es ist,
+damit wir es bedenken und sein Ende erkennen.
+Oder lasst uns das Kommende hören.
+<sup>23</sup>Erklärt, was künftig kommen wird,
+damit wir erkennen, dass ihr Götter seid.
+Ja, tut Gutes oder tut Böses,
+damit wir erschrecken und es zusammen sehen.
+<sup>24</sup>Siehe, ihr seid nichts, und euer Werk ist nichts.
+Wer euch erwählt, ist ein Gräuel.
+<sup>25</sup>Ich habe einen aus dem Norden erweckt, und er ist gekommen,
+vom Aufgang der Sonne, einen, der meinen Namen anruft.
+Er wird über Herrscher kommen wie über Lehm,
+wie der Töpfer den Ton tritt.
+<sup>26</sup>Wer hat es von Anfang an verkündet, damit wir es wissen,
+und im Voraus, damit wir sagen: ‚Er hat recht‘?
+Gewiss, da ist keiner, der es verkündet.
+Gewiss, da ist keiner, der es zeigt.
+Gewiss, da ist keiner, der eure Worte hört.
+<sup>27</sup>Ich bin der Erste, der zu Zion sagt: ‚Siehe, da sind sie!‘
+Und ich gebe Jerusalem einen Freudenboten.
+<sup>28</sup>Wenn ich hinschaue, ist da niemand,
+auch unter ihnen ist kein Ratgeber,
+der ein Wort antworten kann, wenn ich ihn frage.
+<sup>29</sup>Siehe, alle ihre Taten sind nichtig und nichts.
+Ihre gegossenen Bilder sind Wind und Leere.“
+
+> **Was bedeutet das?**
+> Wieder eine Gerichtsverhandlung: Gott fordert die Götter Babylons heraus. Wenn ihr Götter seid, dann sagt doch, was kommen wird! Oder tut wenigstens irgendetwas, Gutes oder Böses!
+> Aber die Götzen schweigen. Sie können nichts.
+> Vers 25: Kyrus kommt „aus dem Norden“ und „vom Sonnenaufgang“, also aus dem Nordosten. Persien lag östlich, aber Kyrus eroberte zuerst Gebiete im Norden.
+> Vers 27: Nur der lebendige Gott kann vorhersagen und erfüllen, was er verspricht.
+
+## Jesaja – Kapitel 42
+#### Das erste Lied vom Knecht Gottes
+
+---
+
+### Mein Knecht bringt Recht (Vers 1–9)
+
+<sup>1</sup>„Siehe, mein Knecht, den ich halte,
+mein Erwählter, an dem meine Seele Gefallen hat:
+Ich habe meinen Geist auf ihn gelegt.
+Er wird den Nationen das Recht bringen.
+<sup>2</sup>Er wird nicht schreien und seine Stimme nicht erheben
+und sie nicht auf der Straße hören lassen.
+<sup>3</sup>Ein geknicktes Rohr wird er nicht zerbrechen,
+und einen glimmenden Docht wird er nicht auslöschen.
+In Treue wird er das Recht bringen.
+<sup>4</sup>Er wird nicht ermatten und nicht entmutigt werden,
+bis er das Recht auf der Erde aufgerichtet hat,
+und die Inseln warten auf seine Weisung.“
+<sup>5</sup>So spricht Gott, der HERR,
+der den Himmel geschaffen und ausgespannt hat,
+der die Erde ausgebreitet hat und was aus ihr hervorgeht,
+der dem Volk auf ihr den Atem gibt
+und den Geist denen, die auf ihr gehen:
+<sup>6</sup>„Ich, der HERR, habe dich in Gerechtigkeit gerufen.
+Ich halte deine Hand.
+Ich behüte dich
+und mache dich zum Bund für das Volk,
+zum Licht für die Nationen,
+<sup>7</sup>um die blinden Augen zu öffnen,
+um die Gefangenen aus dem Kerker zu holen
+und die, die in der Finsternis sitzen, aus dem Gefängnis.
+<sup>8</sup>Ich bin der HERR. Das ist mein Name.
+Ich werde meine Ehre keinem anderen geben
+und meinen Ruhm nicht den geschnitzten Bildern.
+<sup>9</sup>Siehe, das Frühere ist eingetroffen,
+und ich verkünde Neues.
+Bevor es aufsprosst, sage ich es euch.“
+
+> **Was bedeutet das?**
+> Hier beginnt das erste von vier Liedern über den „Knecht Gottes“ (die anderen stehen in Kapitel 49, 50 und 52–53).
+> Wer ist dieser Knecht? Er ist von Gott erwählt, Gottes Geist ruht auf ihm, und er bringt allen Völkern Gerechtigkeit.
+> Vers 2–3: Er tut es nicht mit Lärm und Gewalt, sondern ganz sanft. Ein „geknicktes Rohr“ bricht er nicht ab, einen fast erloschenen Docht pustet er nicht aus. Er geht behutsam mit den Schwachen und Verletzten um. Ein wunderschönes Bild für Sanftmut.
+> Vers 6–7: Er wird ein „Licht für die Völker“: Er öffnet blinde Augen und befreit Gefangene.
+> Im Judentum versteht man den Knecht meist als das Volk Israel selbst (vgl. Kapitel 41,8), das ein Licht für die Völker sein soll, oder auch als den Propheten. Das Neue Testament bezieht diese Worte auf Jesus (Matthäus 12,18–21). Bei der Taufe Jesu klingt Vers 1 an: „Das ist mein geliebter Sohn, an dem ich Gefallen habe“ (Markus 1,11).
+
+---
+
+### Ein neues Lied (Vers 10–17)
+
+<sup>10</sup>Singt dem HERRN ein neues Lied,
+sein Lob vom Ende der Erde,
+ihr, die ihr aufs Meer hinabfahrt, und alles, was darin ist,
+ihr Inseln und ihre Bewohner.
+<sup>11</sup>Die Wüste und ihre Städte sollen ihre Stimme erheben,
+die Dörfer, in denen Kedar wohnt.
+Die Bewohner von Sela sollen singen.
+Sie sollen von den Gipfeln der Berge jubeln!
+<sup>12</sup>Sie sollen dem HERRN Ehre geben
+und sein Lob auf den Inseln verkünden.
+<sup>13</sup>Der HERR zieht aus wie ein Held.
+Er weckt den Eifer wie ein Kriegsmann.
+Er erhebt einen Kriegsruf.
+Ja, er ruft laut.
+Er siegt über seine Feinde.
+<sup>14</sup>„Ich habe lange geschwiegen.
+Ich war still und habe mich zurückgehalten.
+Jetzt will ich schreien wie eine Gebärende.
+Ich will keuchen und schnauben zugleich.
+<sup>15</sup>Ich werde Berge und Hügel verwüsten
+und all ihr Kraut verdorren lassen.
+Ich werde Flüsse zu Inseln machen
+und die Teiche austrocknen.
+<sup>16</sup>Ich werde die Blinden auf einem Weg führen, den sie nicht kennen.
+Ich werde sie auf Pfaden leiten, die sie nicht kennen.
+Ich werde die Finsternis vor ihnen zum Licht machen
+und das Krumme gerade.
+Diese Dinge werde ich tun,
+und ich werde sie nicht verlassen.
+<sup>17</sup>Die auf geschnitzte Bilder vertrauen,
+die zu gegossenen Bildern sagen: ‚Ihr seid unsere Götter‘,
+werden zurückweichen.
+Sie werden völlig beschämt werden.“
+
+> **Was bedeutet das?**
+> Vers 10–12: Die ganze Welt soll Gott ein neues Lied singen: vom Meer bis zur Wüste, von den Inseln bis zu den Bergen.
+> Vers 13–14: Zwei starke Bilder für Gott: ein Held, der in den Kampf zieht, und eine Frau in den Wehen, die schreit und keucht. Gott hat lange geschwiegen. Jetzt bricht etwas Neues hervor wie eine Geburt. Die Bibel spricht von Gott manchmal auch mit weiblichen Bildern.
+> Vers 16: Ein tröstlicher Vers: Gott führt die Blinden auf Wegen, die sie nicht kennen. Er macht die Dunkelheit hell. Er verlässt sie nicht. Das gilt für alle, die ihren Weg nicht sehen.
+
+---
+
+### Das blinde und taube Volk (Vers 18–25)
+
+<sup>18</sup>„Hört, ihr Tauben,
+und schaut, ihr Blinden, damit ihr seht!
+<sup>19</sup>Wer ist blind, wenn nicht mein Knecht?
+Oder wer ist so taub wie mein Bote, den ich sende?
+Wer ist so blind wie der, der in Frieden ist,
+und so blind wie der Knecht des HERRN?
+<sup>20</sup>Du siehst vieles, aber du beachtest es nicht.
+Seine Ohren sind offen, aber er hört nicht zu.
+<sup>21</sup>Es hat dem HERRN gefallen, um seiner Gerechtigkeit willen
+die Weisung groß und herrlich zu machen.
+<sup>22</sup>Aber dies ist ein beraubtes und ausgeplündertes Volk.
+Sie alle sind in Löchern gefangen
+und in Gefängnissen versteckt.
+Sie sind zur Beute geworden, und niemand rettet,
+zum Raub, und niemand sagt: ‚Gib sie zurück!‘
+<sup>23</sup>Wer unter euch wird darauf hören?
+Wer wird aufmerken und für die Zukunft hören?
+<sup>24</sup>Wer hat Jakob zur Plünderung gegeben
+und Israel den Räubern?
+War es nicht der HERR, gegen den wir gesündigt haben?
+Denn sie wollten nicht auf seinen Wegen gehen,
+und sie gehorchten seiner Weisung nicht.
+<sup>25</sup>Darum hat er die Glut seines Zorns über ihn ausgegossen
+und die Gewalt des Krieges.
+Sie hat ihn ringsum in Brand gesetzt, aber er merkte es nicht.
+Sie hat ihn verbrannt, aber er nahm es sich nicht zu Herzen.“
+
+> **Was bedeutet das?**
+> Jetzt wird Israel als Gottes „Knecht“ angesprochen, aber als ein blinder und tauber Knecht. Das Volk sollte ein Licht für die Völker sein, aber es hat selbst nicht gesehen und gehört.
+> Vers 22: Das Volk ist im Exil wie Gefangene in Löchern, ausgeraubt, und niemand hilft.
+> Vers 24–25: Das ist geschehen, weil das Volk nicht auf Gott gehört hat. Und selbst im Unglück hat es nicht verstanden, warum.
+> Diese Ehrlichkeit über die eigene Schuld gehört zum Trostbuch dazu. Aber im nächsten Kapitel sagt Gott: „Fürchte dich nicht, ich habe dich erlöst!“ (Kapitel 43,1).
