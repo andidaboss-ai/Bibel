@@ -77528,3 +77528,410 @@ wenn sie mit ihren Feinden im Tor reden.
 > Vers 2 sagt auch: Schlaf ist ein Geschenk Gottes. Wer sich vor lauter Sorgen und Arbeit keine Ruhe gönnt, darf das hören.
 > Vers 3–5: Kinder sind ein Geschenk Gottes, kein Besitz. Damals sicherten viele Kinder die Familie ab. Im „Tor“ wurden Streitfälle verhandelt. Erwachsene Kinder konnten ihre Eltern dort unterstützen.
 > Wer keine Kinder hat oder keine bekommen kann, ist deshalb nicht weniger von Gott gesegnet. Die Bibel erzählt von vielen Menschen ohne Kinder, die Gott liebt.
+
+## Psalm 128
+#### Segen für das Haus
+
+---
+
+### Glücklich, wer den HERRN fürchtet (Vers 1–6)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Glücklich ist jeder, der den HERRN fürchtet,
+der auf seinen Wegen geht.
+<sup>2</sup>Denn du wirst essen, was deine Hände erarbeitet haben.
+Du wirst glücklich sein, und es wird dir gut gehen.
+<sup>3</sup>Deine Frau wird wie ein fruchtbarer Weinstock sein
+im Inneren deines Hauses,
+deine Kinder wie junge Ölbaumtriebe
+rings um deinen Tisch.
+<sup>4</sup>Siehe, so wird der Mann gesegnet,
+der den HERRN fürchtet.
+<sup>5</sup>Der HERR segne dich von Zion aus!
+Mögest du das Glück Jerusalems sehen
+alle Tage deines Lebens!
+<sup>6</sup>Ja, mögest du die Kinder deiner Kinder sehen!
+Friede sei über Israel!
+
+> **Was bedeutet das?**
+> Ein Bild von Glück im Alltag: Arbeit, die sich lohnt, eine Familie am Tisch, Enkelkinder.
+> Vers 3: Der Weinstock und der Ölbaum waren die wichtigsten Pflanzen im Land. Sie stehen für Leben, Freude und Fruchtbarkeit. Junge Ölbaumtriebe wachsen rund um den alten Baum, so wie Kinder um den Tisch sitzen.
+> Der Psalm wird oft bei Hochzeiten gebetet. Segen zeigt sich nicht nur in großen Dingen, sondern auch im ganz normalen Leben zu Hause.
+> Wer allein lebt oder keine Familie hat, ist nicht vom Segen ausgeschlossen. Gottes Segen kommt „von Zion“, also von Gott selbst, nicht von den Lebensumständen.
+
+## Psalm 129
+#### Sie haben mich nicht besiegt
+
+---
+
+### Gepflügt auf meinem Rücken (Vers 1–8)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Oft haben sie mich bedrängt von meiner Jugend an,
+so soll Israel jetzt sagen,
+<sup>2</sup>oft haben sie mich bedrängt von meiner Jugend an,
+doch sie haben mich nicht besiegt.
+<sup>3</sup>Die Pflüger haben auf meinem Rücken gepflügt.
+Sie haben ihre Furchen lang gezogen.
+<sup>4</sup>Der HERR ist gerecht.
+Er hat die Stricke der Gottlosen zerschnitten.
+<sup>5</sup>Alle, die Zion hassen,
+sollen enttäuscht werden und zurückweichen.
+<sup>6</sup>Sie sollen sein wie das Gras auf den Dächern,
+das verdorrt, bevor es hochwächst,
+<sup>7</sup>mit dem der Schnitter seine Hand nicht füllt
+und der Garbenbinder nicht seinen Arm.
+<sup>8</sup>Und die vorbeigehen, sagen nicht:
+„Der Segen des HERRN sei auf euch!
+Wir segnen euch im Namen des HERRN.“
+
+> **Was bedeutet das?**
+> Israel blickt auf seine lange Geschichte zurück: Immer wieder wurde es unterdrückt, von Ägypten bis Babylon. Aber es wurde nicht vernichtet.
+> Vers 3: Ein schmerzhaftes Bild: Die Unterdrücker haben wie mit einem Pflug tiefe Wunden auf dem Rücken des Volkes hinterlassen, wie Peitschenhiebe.
+> Vers 4: Doch Gott hat die Stricke durchgeschnitten, mit denen der Pflug gezogen wurde.
+> Vers 6–8: Gras auf flachen Lehmdächern wächst schnell, aber vertrocknet sofort. Niemand kann es ernten. So soll die Macht der Feinde vergehen.
+> Leider hat das jüdische Volk auch später viel Verfolgung erlebt, bis hin zum Holocaust. Dieser Psalm bezeugt: Hass hat nicht das letzte Wort.
+
+## Psalm 130
+#### Aus der Tiefe rufe ich zu dir
+
+---
+
+### Bei dir ist Vergebung (Vers 1–8)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Aus der Tiefe habe ich zu dir gerufen, HERR.
+<sup>2</sup>Herr, hör meine Stimme!
+Lass deine Ohren aufmerksam sein
+auf die Stimme meines Flehens!
+<sup>3</sup>Wenn du, Jah, über Sünden Buch führen würdest,
+Herr, wer könnte bestehen?
+<sup>4</sup>Aber bei dir ist Vergebung,
+damit man dich fürchtet.
+<sup>5</sup>Ich warte auf den HERRN. Meine Seele wartet.
+Ich hoffe auf sein Wort.
+<sup>6</sup>Meine Seele sehnt sich nach dem Herrn
+mehr als die Wächter nach dem Morgen,
+mehr als die Wächter nach dem Morgen.
+<sup>7</sup>Israel, hoffe auf den HERRN,
+denn beim HERRN ist Güte.
+Reiche Erlösung ist bei ihm.
+<sup>8</sup>Er wird Israel erlösen
+von all seinen Sünden.
+
+> **Was bedeutet das?**
+> Psalm 130 ist einer der bekanntesten Bußpsalmen. Die Christen zählen sieben Bußpsalmen (Psalm 6, 32, 38, 51, 102, 130, 143).
+> „Aus der Tiefe“: Der Beter ist ganz unten, wie in tiefem Wasser. Vielleicht wegen seiner Schuld, vielleicht wegen großer Not.
+> Vers 3–4: Wenn Gott jede Schuld aufschreiben würde, hätte niemand eine Chance. Aber Gott vergibt. Und gerade weil er vergibt, achtet man ihn mit Ehrfurcht.
+> Vers 6: Ein Nachtwächter sehnt sich nach dem Morgen, wenn seine Wache vorbei ist. Er weiß: Der Morgen kommt bestimmt. So wartet der Beter auf Gott.
+> Martin Luther hat aus diesem Psalm das Lied „Aus tiefer Not schrei ich zu dir“ gemacht.
+> Wer selbst „in der Tiefe“ ist und nicht mehr weiterweiß: Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+## Psalm 131
+#### Wie ein gestilltes Kind
+
+---
+
+### Meine Seele ist still geworden (Vers 1–3)
+
+<sup>1</sup>Ein Wallfahrtslied. Von David.
+HERR, mein Herz ist nicht hochmütig,
+und meine Augen sind nicht stolz.
+Ich beschäftige mich nicht mit großen Dingen,
+mit Dingen, die zu wunderbar für mich sind.
+<sup>2</sup>Wahrhaftig, ich habe meine Seele beruhigt und still gemacht.
+Wie ein entwöhntes Kind bei seiner Mutter,
+wie ein entwöhntes Kind ist meine Seele in mir.
+<sup>3</sup>Israel, hoffe auf den HERRN
+von jetzt an bis in Ewigkeit.
+
+> **Was bedeutet das?**
+> Einer der kürzesten Psalmen, aber sehr innig.
+> Der Beter muss nicht alles verstehen und nicht alles können. Er ist zufrieden.
+> Vers 2: Ein „entwöhntes Kind“ wird nicht mehr gestillt. Es kommt nicht mehr zur Mutter, weil es Hunger hat, sondern einfach, weil es bei ihr sein will. So ruht der Beter bei Gott: still und geborgen.
+> Hier wird Gott mit einer Mutter verglichen. Die Bibel spricht oft auch mütterlich von Gott (vgl. Jesaja 66,13).
+
+## Psalm 132
+#### Eine Wohnung für den HERRN
+
+---
+
+### Davids Schwur (Vers 1–10)
+
+<sup>1</sup>Ein Wallfahrtslied.
+HERR, denk an David
+und an all seine Mühe,
+<sup>2</sup>wie er dem HERRN geschworen hat
+und dem Mächtigen Jakobs gelobt hat:
+<sup>3</sup>„Wirklich, ich will nicht in das Zelt meines Hauses gehen
+und nicht auf mein Bett steigen.
+<sup>4</sup>Ich will meinen Augen keinen Schlaf gönnen
+und meinen Augenlidern keinen Schlummer,
+<sup>5</sup>bis ich einen Ort für den HERRN finde,
+eine Wohnung für den Mächtigen Jakobs.“
+<sup>6</sup>Siehe, wir haben davon gehört in Efrata.
+Wir haben sie gefunden im Gebiet von Jaar.
+<sup>7</sup>„Wir wollen in seine Wohnung gehen.
+Wir wollen anbeten vor dem Schemel seiner Füße.“
+<sup>8</sup>Steh auf, HERR, zu deinem Ruheplatz,
+du und die Lade deiner Macht!
+<sup>9</sup>Deine Priester sollen sich mit Gerechtigkeit bekleiden.
+Deine Heiligen sollen jubeln!
+<sup>10</sup>Um deines Knechtes David willen
+weise deinen Gesalbten nicht ab!
+
+> **Was bedeutet das?**
+> Der Psalm erinnert daran, wie König David die Bundeslade nach Jerusalem brachte (2. Samuel 6). Die Bundeslade war eine Truhe mit den Gesetzestafeln. Sie war das Zeichen dafür, dass Gott bei seinem Volk ist.
+> David wollte keine Ruhe finden, bis Gott einen Ort in Jerusalem hat.
+> Vers 6: Efrata ist eine Gegend bei Betlehem. „Jaar“ meint wohl Kirjat-Jearim, wo die Lade lange stand (1. Samuel 7,1–2).
+> Vers 7: Der „Schemel seiner Füße“ ist die Bundeslade. Man stellte sich vor: Gott thront unsichtbar über ihr, und die Lade ist wie seine Fußbank.
+> Vers 8 sind fast dieselben Worte, die Salomo bei der Einweihung des Tempels betete (2. Chronik 6,41–42).
+
+---
+
+### Gottes Schwur für David und Zion (Vers 11–18)
+
+<sup>11</sup>Der HERR hat David in Wahrheit geschworen.
+Er wird nicht davon abweichen:
+„Einen von deinen leiblichen Nachkommen
+will ich auf deinen Thron setzen.
+<sup>12</sup>Wenn deine Söhne meinen Bund halten
+und mein Zeugnis, das ich sie lehren werde,
+dann sollen auch ihre Söhne
+für immer auf deinem Thron sitzen.“
+<sup>13</sup>Denn der HERR hat Zion erwählt.
+Er wollte es als seine Wohnung haben.
+<sup>14</sup>„Das ist mein Ruheplatz für immer.
+Hier will ich wohnen, denn das habe ich gewollt.
+<sup>15</sup>Ich will ihre Nahrung reichlich segnen.
+Ihre Armen will ich mit Brot sättigen.
+<sup>16</sup>Ich will auch ihre Priester mit Rettung bekleiden.
+Ihre Heiligen werden laut jubeln.
+<sup>17</sup>Dort will ich das Horn Davids sprossen lassen.
+Ich habe eine Lampe für meinen Gesalbten bereitgestellt.
+<sup>18</sup>Seine Feinde will ich mit Schande bekleiden,
+aber auf ihm wird seine Krone glänzen.“
+
+> **Was bedeutet das?**
+> Zuerst hat David geschworen (Vers 2). Jetzt schwört Gott (Vers 11). Gottes Versprechen ist noch größer: Davids Familie soll für immer regieren (vgl. 2. Samuel 7).
+> Vers 15: Gott sorgt besonders für die Armen. Sie sollen satt werden.
+> Vers 17: „Das Horn Davids sprossen lassen“: Aus Davids Familie soll ein neuer, starker König hervorwachsen. Die „Lampe“ ist ein Bild dafür, dass Davids Familie nicht erlöschen wird.
+> Juden erwarten bis heute den Messias aus der Familie Davids. Christen glauben, dass sich diese Verheißung in Jesus erfüllt hat, der „Sohn Davids“ genannt wird (Lukas 1,32–33).
+
+## Psalm 133
+#### Wie schön, wenn Geschwister in Eintracht leben
+
+---
+
+### Wie Öl und Tau (Vers 1–3)
+
+<sup>1</sup>Ein Wallfahrtslied. Von David.
+Seht, wie gut und wie schön ist es,
+wenn Brüder in Eintracht zusammenleben!
+<sup>2</sup>Es ist wie das kostbare Öl auf dem Kopf,
+das herabläuft auf den Bart, den Bart Aarons,
+das herabfließt auf den Saum seiner Gewänder.
+<sup>3</sup>Es ist wie der Tau vom Hermon,
+der herabkommt auf die Berge Zions.
+Denn dort gibt der HERR den Segen:
+Leben für immer.
+
+> **Was bedeutet das?**
+> Ein kurzer, fröhlicher Psalm über Gemeinschaft. „Brüder“ meint alle, die zusammengehören: Geschwister, Familien, das ganze Volk. Bei den Wallfahrten kamen Menschen aus allen Stämmen zusammen.
+> Vers 2: Aaron, der erste Hohepriester, wurde mit duftendem Öl gesalbt (2. Mose 29,7). Das Öl floss reichlich herab. So reich und wohltuend ist es, wenn Menschen in Frieden zusammenleben.
+> Vers 3: Der Hermon ist ein hoher Berg im Norden mit viel Tau. Zion liegt weiter im Süden und ist trockener. Eintracht ist wie frischer Tau, der Leben bringt.
+> Der Anfang dieses Psalms ist ein bekanntes jüdisches Lied: „Hine ma tov uma na'im“.
+
+## Psalm 134
+#### Lobt den HERRN in der Nacht
+
+---
+
+### Der Abschiedssegen (Vers 1–3)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Seht! Lobt den HERRN, all ihr Knechte des HERRN,
+die ihr in der Nacht im Haus des HERRN steht!
+<sup>2</sup>Hebt eure Hände auf zum Heiligtum
+und lobt den HERRN!
+<sup>3</sup>Der HERR segne dich von Zion aus,
+er, der Himmel und Erde gemacht hat!
+
+> **Was bedeutet das?**
+> Das ist das letzte der 15 Wallfahrtslieder.
+> Vers 1–2: Die Pilger rufen den Priestern und Leviten zu, die nachts im Tempel Dienst tun: Lobt Gott auch in der Nacht!
+> Vers 3: Die Priester antworten mit einem Segen für die Pilger, bevor diese wieder nach Hause gehen.
+> So endet die Reise: Man geht nicht mit leeren Händen heim, sondern mit Gottes Segen.
+
+## Psalm 135
+#### Lobt Jah, denn der HERR ist gut!
+
+---
+
+### Gott hat Jakob erwählt (Vers 1–7)
+
+<sup>1</sup>Lobt Jah!
+Lobt den Namen des HERRN!
+Lobt ihn, ihr Knechte des HERRN,
+<sup>2</sup>die ihr im Haus des HERRN steht,
+in den Vorhöfen des Hauses unseres Gottes!
+<sup>3</sup>Lobt Jah, denn der HERR ist gut!
+Singt seinem Namen Loblieder, denn das ist schön!
+<sup>4</sup>Denn Jah hat sich Jakob erwählt,
+Israel als sein Eigentum.
+<sup>5</sup>Denn ich weiß, dass der HERR groß ist,
+dass unser Herr über allen Göttern steht.
+<sup>6</sup>Alles, was dem HERRN gefiel, das hat er getan,
+im Himmel und auf der Erde,
+in den Meeren und in allen Tiefen.
+<sup>7</sup>Er lässt die Wolken aufsteigen vom Ende der Erde.
+Er macht Blitze für den Regen.
+Er holt den Wind aus seinen Vorratskammern.
+
+> **Was bedeutet das?**
+> Psalm 135 nimmt viele Worte aus anderen Psalmen und aus den Büchern Mose auf. Er ist wie ein Strauß aus bekannten Lobversen.
+> Vers 4: „Eigentum“: Israel ist Gottes besonderer Schatz (vgl. 2. Mose 19,5).
+> Vers 7: Gott lenkt das Wetter. Die Nachbarvölker glaubten an Wettergötter. Der Psalm sagt: Es gibt nur einen, der über Wolken, Blitz und Wind herrscht.
+
+---
+
+### Gott hat sein Volk befreit (Vers 8–14)
+
+<sup>8</sup>Er schlug die Erstgeborenen Ägyptens,
+bei Menschen und bei Tieren.
+<sup>9</sup>Er sandte Zeichen und Wunder mitten in dich hinein, Ägypten,
+gegen den Pharao und alle seine Diener.
+<sup>10</sup>Er schlug viele Völker
+und tötete mächtige Könige:
+<sup>11</sup>Sihon, den König der Amoriter,
+und Og, den König von Baschan,
+und alle Königreiche Kanaans.
+<sup>12</sup>Er gab ihr Land als Erbe,
+als Erbe für Israel, sein Volk.
+<sup>13</sup>Dein Name, HERR, bleibt für immer.
+Man denkt an dich, HERR, von Generation zu Generation.
+<sup>14</sup>Denn der HERR wird seinem Volk Recht verschaffen
+und sich über seine Knechte erbarmen.
+
+> **Was bedeutet das?**
+> Hier wird kurz die Geschichte erzählt: der Auszug aus Ägypten (2. Mose 12) und der Weg ins verheißene Land (4. Mose 21).
+> Die Kämpfe von damals sind Teil der Geschichte Israels. Sie sind keine Erlaubnis für Gewalt heute. Der Psalm will zeigen: Gott hat sein schwaches Volk gegen große Mächte beschützt.
+> Vers 14: Gott schafft seinem Volk Recht und hat Mitleid mit ihm.
+
+---
+
+### Götzen sind tot, der HERR lebt (Vers 15–21)
+
+<sup>15</sup>Die Götzen der Völker sind Silber und Gold,
+das Werk von Menschenhänden.
+<sup>16</sup>Sie haben einen Mund, aber sie können nicht reden.
+Sie haben Augen, aber sie können nicht sehen.
+<sup>17</sup>Sie haben Ohren, aber sie können nicht hören.
+Und es ist kein Atem in ihrem Mund.
+<sup>18</sup>Die sie machen, werden ihnen gleich sein,
+ja, jeder, der auf sie vertraut.
+<sup>19</sup>Haus Israel, lobt den HERRN!
+Haus Aaron, lobt den HERRN!
+<sup>20</sup>Haus Levi, lobt den HERRN!
+Die ihr den HERRN fürchtet, lobt den HERRN!
+<sup>21</sup>Gepriesen sei der HERR von Zion aus,
+der in Jerusalem wohnt!
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 15–18 sind fast wörtlich wie Psalm 115,4–8. Götzenbilder sind tot. Wer auf tote Dinge vertraut, wird innerlich selbst leer.
+> Heute kann ein „Götze“ alles sein, was uns wichtiger ist als Gott: Geld, Macht, Erfolg.
+> Vers 19–20: Alle werden zum Lob aufgerufen: das ganze Volk, die Priester (Aaron), die Tempeldiener (Levi) und alle, die Gott ehren.
+
+## Psalm 136
+#### Denn seine Güte bleibt für immer
+
+---
+
+### Dankt dem Gott der Götter (Vers 1–3)
+
+<sup>1</sup>Dankt dem HERRN, denn er ist gut,
+denn seine Güte bleibt für immer.
+<sup>2</sup>Dankt dem Gott der Götter,
+denn seine Güte bleibt für immer.
+<sup>3</sup>Dankt dem Herrn der Herren,
+denn seine Güte bleibt für immer.
+
+> **Was bedeutet das?**
+> Psalm 136 ist ein Wechselgesang. Ein Vorsänger singt die erste Zeile, und die ganze Gemeinde antwortet jedes Mal: „denn seine Güte bleibt für immer.“ Das geschieht 26-mal.
+> Das hebräische Wort für „Güte“ heißt „Chesed“. Es meint treue Liebe, die nicht aufhört.
+> Im Judentum heißt dieser Psalm „das große Hallel“. Er wird am Pessachfest gesungen.
+
+---
+
+### Der Schöpfer (Vers 4–9)
+
+<sup>4</sup>ihm, der allein große Wunder tut,
+denn seine Güte bleibt für immer.
+<sup>5</sup>ihm, der mit Einsicht die Himmel gemacht hat,
+denn seine Güte bleibt für immer.
+<sup>6</sup>ihm, der die Erde über den Wassern ausgebreitet hat,
+denn seine Güte bleibt für immer.
+<sup>7</sup>ihm, der die großen Lichter gemacht hat,
+denn seine Güte bleibt für immer.
+<sup>8</sup>die Sonne, um am Tag zu herrschen,
+denn seine Güte bleibt für immer.
+<sup>9</sup>den Mond und die Sterne, um in der Nacht zu herrschen,
+denn seine Güte bleibt für immer.
+
+> **Was bedeutet das?**
+> Zuerst wird Gott als Schöpfer gelobt: Himmel, Erde, Sonne, Mond und Sterne (vgl. 1. Mose 1).
+> Hinter jeder Tat Gottes steht dieselbe Ursache: seine Güte.
+
+---
+
+### Der Befreier (Vers 10–22)
+
+<sup>10</sup>ihm, der die Erstgeborenen Ägyptens schlug,
+denn seine Güte bleibt für immer.
+<sup>11</sup>und Israel aus ihrer Mitte herausführte,
+denn seine Güte bleibt für immer.
+<sup>12</sup>mit starker Hand und ausgestrecktem Arm,
+denn seine Güte bleibt für immer.
+<sup>13</sup>ihm, der das Rote Meer in zwei Teile teilte,
+denn seine Güte bleibt für immer.
+<sup>14</sup>und Israel mitten hindurchziehen ließ,
+denn seine Güte bleibt für immer.
+<sup>15</sup>aber den Pharao und sein Heer im Roten Meer umstürzte,
+denn seine Güte bleibt für immer.
+<sup>16</sup>ihm, der sein Volk durch die Wüste führte,
+denn seine Güte bleibt für immer.
+<sup>17</sup>ihm, der große Könige schlug,
+denn seine Güte bleibt für immer.
+<sup>18</sup>und mächtige Könige tötete,
+denn seine Güte bleibt für immer.
+<sup>19</sup>Sihon, den König der Amoriter,
+denn seine Güte bleibt für immer.
+<sup>20</sup>und Og, den König von Baschan,
+denn seine Güte bleibt für immer.
+<sup>21</sup>und ihr Land als Erbe gab,
+denn seine Güte bleibt für immer.
+<sup>22</sup>als Erbe für Israel, seinen Knecht,
+denn seine Güte bleibt für immer.
+
+> **Was bedeutet das?**
+> Jetzt wird die Geschichte Israels erzählt: der Auszug aus Ägypten, der Weg durch das Rote Meer, die Wüste und die Ankunft im Land.
+> Die Kämpfe von damals sind Teil der Geschichte. Sie sind keine Erlaubnis für Gewalt heute. Der Psalm feiert nicht das Töten, sondern die Rettung eines schwachen Volkes.
+
+---
+
+### Er denkt an uns (Vers 23–26)
+
+<sup>23</sup>der an uns dachte, als wir ganz unten waren,
+denn seine Güte bleibt für immer.
+<sup>24</sup>und uns von unseren Feinden befreit hat,
+denn seine Güte bleibt für immer.
+<sup>25</sup>der allen Geschöpfen Nahrung gibt,
+denn seine Güte bleibt für immer.
+<sup>26</sup>Ja, dankt dem Gott des Himmels,
+denn seine Güte bleibt für immer.
+
+> **Was bedeutet das?**
+> Am Ende wird es persönlich: Gott hat an „uns“ gedacht, als es uns schlecht ging.
+> Vers 25: Gottes Güte gilt nicht nur Israel. Er gibt allen Geschöpfen Nahrung, Menschen und Tieren auf der ganzen Welt.
+> Man kann diesen Psalm auch heute mit eigenen Erfahrungen weiterbeten: Für alles, was Gott in meinem Leben getan hat, gilt: „denn seine Güte bleibt für immer.“
