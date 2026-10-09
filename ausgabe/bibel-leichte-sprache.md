@@ -69975,3 +69975,326 @@ Sie sind niedergestoßen und können nicht mehr aufstehen.
 > **Was bedeutet das?**
 > Der Beter bittet: Lass mich in deiner Güte bleiben. Bewahre mich vor den stolzen und bösen Menschen.
 > Vers 12: Der Beter sieht schon das Ende der Übeltäter vor sich: Sie fallen und stehen nicht wieder auf.
+
+## Psalm 37
+#### Befiehl dem HERRN deine Wege
+
+---
+
+### Ärgere dich nicht über die Bösen (Vers 1–2)
+
+<sup>1</sup>Von David.
+Ärgere dich nicht über die Übeltäter,
+und sei nicht neidisch auf die, die Unrecht tun.
+<sup>2</sup>Denn wie Gras werden sie schnell abgemäht,
+und wie das grüne Kraut verwelken sie.
+
+> **Was bedeutet das?**
+> Psalm 37 ist ein Weisheitspsalm, ein Alphabet-Gedicht. Er klingt wie der Rat eines alten, erfahrenen Menschen an einen jungen (vgl. Vers 25).
+> Die große Frage: Warum geht es den Bösen oft so gut? Die Antwort: Ärgere dich nicht! Ihr Erfolg ist wie Gras, das schnell verwelkt.
+
+---
+
+### Vertraue auf den HERRN (Vers 3–8)
+
+<sup>3</sup>Vertraue auf den HERRN und tu Gutes!
+Wohne im Land und weide in Sicherheit!
+<sup>4</sup>Hab auch deine Lust am HERRN,
+und er wird dir geben, was dein Herz wünscht.
+<sup>5</sup>Befiehl dem HERRN deinen Weg!
+Vertraue auch auf ihn, und er wird es tun:
+<sup>6</sup>Er wird deine Gerechtigkeit hervorbringen wie das Licht
+und dein Recht wie die Mittagssonne.
+<sup>7</sup>Sei still vor dem HERRN und warte geduldig auf ihn!
+Ärgere dich nicht über den, dem sein Weg gelingt,
+über den Mann, der böse Pläne ausführt.
+<sup>8</sup>Lass ab vom Zorn und gib den Grimm auf!
+Ärgere dich nicht, es führt nur zum Bösen.
+
+> **Was bedeutet das?**
+> Vers 4: „Hab deine Lust am HERRN“: Wenn Gott meine größte Freude ist, dann werden auch meine Wünsche so, dass Gott sie gerne erfüllt.
+> Vers 5 ist sehr bekannt: „Befiehl dem HERRN deinen Weg.“ Wörtlich: „Wälze deinen Weg auf den HERRN“, wie man eine schwere Last auf jemanden anderen rollt. Das Lied „Befiehl du deine Wege“ von Paul Gerhardt beruht auf diesem Vers.
+> Vers 7–8: Ärger und Neid fressen einen innerlich auf und verleiten selbst zum Bösen. Besser ist es, still zu werden und Gott zu vertrauen.
+
+---
+
+### Die Sanftmütigen werden das Land erben (Vers 9–15)
+
+<sup>9</sup>Denn die Übeltäter werden ausgerottet,
+aber die auf den HERRN warten, werden das Land erben.
+<sup>10</sup>Denn noch eine kleine Weile, und der Gottlose ist nicht mehr.
+Ja, auch wenn du nach seinem Platz suchst, er ist nicht da.
+<sup>11</sup>Aber die Demütigen werden das Land erben
+und sich an der Fülle des Friedens freuen.
+<sup>12</sup>Der Gottlose plant Böses gegen den Gerechten
+und knirscht mit den Zähnen gegen ihn.
+<sup>13</sup>Der Herr lacht über ihn,
+denn er sieht, dass sein Tag kommt.
+<sup>14</sup>Die Gottlosen haben das Schwert gezogen
+und ihren Bogen gespannt,
+um den Armen und Bedürftigen zu Fall zu bringen,
+um die zu töten, die auf dem Weg aufrichtig sind.
+<sup>15</sup>Ihr Schwert wird in ihr eigenes Herz dringen.
+Ihre Bogen werden zerbrochen.
+
+> **Was bedeutet das?**
+> Vers 11: „Die Demütigen werden das Land erben“: Jesus greift das in der Bergpredigt auf: „Selig sind die Sanftmütigen, denn sie werden das Erdreich besitzen“ (Matthäus 5,5).
+> Die Gewalt der Bösen wendet sich am Ende gegen sie selbst (Vers 15).
+
+---
+
+### Lieber wenig mit Gott (Vers 16–22)
+
+<sup>16</sup>Besser ist das Wenige, das der Gerechte hat,
+als der Überfluss vieler Gottloser.
+<sup>17</sup>Denn die Arme der Gottlosen werden zerbrochen,
+aber der HERR stützt die Gerechten.
+<sup>18</sup>Der HERR kennt die Tage der Untadeligen.
+Ihr Erbe wird für immer bleiben.
+<sup>19</sup>Sie werden nicht enttäuscht in böser Zeit.
+In den Tagen der Hungersnot werden sie satt.
+<sup>20</sup>Aber die Gottlosen werden umkommen.
+Die Feinde des HERRN werden wie die Pracht der Wiesen sein.
+Sie verschwinden, verschwinden wie Rauch.
+<sup>21</sup>Der Gottlose leiht und zahlt nicht zurück,
+aber der Gerechte gibt großzügig.
+<sup>22</sup>Denn die von ihm gesegnet sind, werden das Land erben.
+Die von ihm verflucht sind, werden ausgerottet.
+
+> **Was bedeutet das?**
+> Vers 16: Wenig Besitz mit einem guten Gewissen ist besser als großer Reichtum mit Unrecht (vgl. Sprüche 15,16).
+> Vers 20: Die Pracht der Bösen ist wie Blumen auf der Wiese: schön, aber schnell verblüht. Wie Rauch, der verweht.
+> Vers 21: Ein Unterschied zwischen Gottlosen und Gerechten: Die einen nehmen und geben nicht zurück, die anderen geben großzügig.
+
+---
+
+### Wenn er fällt, stürzt er nicht (Vers 23–29)
+
+<sup>23</sup>Die Schritte eines Mannes werden vom HERRN gefestigt.
+Er hat Gefallen an seinem Weg.
+<sup>24</sup>Wenn er auch stolpert, so stürzt er doch nicht,
+denn der HERR hält ihn mit seiner Hand.
+<sup>25</sup>Ich bin jung gewesen und jetzt alt geworden,
+doch ich habe den Gerechten nicht verlassen gesehen
+und seine Kinder nicht um Brot betteln.
+<sup>26</sup>Den ganzen Tag ist er gnädig und leiht.
+Seine Nachkommen sind gesegnet.
+<sup>27</sup>Weiche vom Bösen und tu Gutes!
+Dann wirst du für immer sicher wohnen.
+<sup>28</sup>Denn der HERR liebt das Recht
+und verlässt seine Frommen nicht.
+Sie werden für immer bewahrt,
+aber die Kinder der Gottlosen werden ausgerottet.
+<sup>29</sup>Die Gerechten werden das Land erben
+und für immer darin wohnen.
+
+> **Was bedeutet das?**
+> Vers 24: Auch ein Gerechter stolpert manchmal, macht Fehler, erlebt Rückschläge. Aber Gott hält ihn an der Hand, damit er nicht ganz hinfällt.
+> Vers 25: Der alte Sprecher erzählt von seiner Lebenserfahrung. Das ist ehrlich gemeint, aber es ist keine Garantie für jeden Einzelfall. Es gibt auch Gerechte, die arm sind und leiden (wie Hiob). Der Vers ermutigt, er ist kein Vorwurf an Arme.
+> Vers 28: „Die Kinder der Gottlosen“: gemeint sind die, die den bösen Weg ihrer Eltern weitergehen. Die Bibel sagt auch: Jeder ist für seine eigene Schuld verantwortlich (Hesekiel 18,20).
+
+---
+
+### Das Gesetz Gottes im Herzen (Vers 30–34)
+
+<sup>30</sup>Der Mund des Gerechten redet Weisheit.
+Seine Zunge spricht, was recht ist.
+<sup>31</sup>Das Gesetz seines Gottes ist in seinem Herzen.
+Keiner seiner Schritte wird wanken.
+<sup>32</sup>Der Gottlose lauert dem Gerechten auf
+und sucht ihn zu töten.
+<sup>33</sup>Der HERR wird ihn nicht in seiner Hand lassen
+und ihn nicht verurteilen, wenn er gerichtet wird.
+<sup>34</sup>Warte auf den HERRN und halte dich an seinen Weg,
+und er wird dich erhöhen, damit du das Land erbst.
+Wenn die Gottlosen ausgerottet werden, wirst du es sehen.
+
+> **Was bedeutet das?**
+> Vers 31: Gottes Weisung ist nicht nur ein äußeres Gesetz, sondern im Herzen. Wer Gottes Willen liebt, geht sicher.
+> Vers 33: Auch wenn ein Gerechter vor einem menschlichen Gericht verurteilt wird, hält Gott zu ihm.
+
+---
+
+### Ein Mann des Friedens hat Zukunft (Vers 35–40)
+
+<sup>35</sup>Ich habe den Gottlosen gesehen in großer Macht,
+wie er sich ausbreitete wie ein grüner Baum auf seinem heimischen Boden.
+<sup>36</sup>Aber er ging vorüber, und schau, er war nicht mehr.
+Ja, ich suchte ihn, aber er war nicht zu finden.
+<sup>37</sup>Achte auf den Untadeligen und sieh auf den Aufrichtigen,
+denn es gibt eine Zukunft für den Mann des Friedens.
+<sup>38</sup>Die Übertreter aber werden alle zusammen vernichtet.
+Die Zukunft der Gottlosen wird abgeschnitten.
+<sup>39</sup>Aber die Rettung der Gerechten kommt vom HERRN.
+Er ist ihre Festung in der Zeit der Not.
+<sup>40</sup>Der HERR hilft ihnen und rettet sie.
+Er rettet sie vor den Gottlosen und hilft ihnen,
+weil sie bei ihm Zuflucht gesucht haben.
+
+> **Was bedeutet das?**
+> Vers 35–36: Der alte Sprecher hat mächtige Gewaltherrscher kommen und gehen sehen. Sie wirkten wie große Bäume, aber plötzlich waren sie verschwunden.
+> Vers 37: „Es gibt eine Zukunft für den Mann des Friedens“: Wer Frieden stiftet, hat eine Zukunft. Das ist eine große Ermutigung.
+> Der Psalm endet mit Vertrauen: Gott ist eine Festung in der Not.
+
+## Psalm 38
+#### Ein Kranker bekennt seine Schuld
+
+---
+
+### Deine Pfeile haben mich getroffen (Vers 1–8)
+
+<sup>1</sup>Ein Psalm von David, zum Gedenken.
+HERR, weise mich nicht in deinem Zorn zurecht,
+und züchtige mich nicht in deinem Grimm!
+<sup>2</sup>Denn deine Pfeile haben mich durchbohrt.
+Deine Hand drückt schwer auf mich.
+<sup>3</sup>Nichts ist gesund an meinem Fleisch wegen deines Zorns.
+Nichts ist heil an meinen Knochen wegen meiner Sünde.
+<sup>4</sup>Denn meine Schuld ist mir über den Kopf gewachsen.
+Wie eine schwere Last ist sie mir zu schwer.
+<sup>5</sup>Meine Wunden stinken und eitern
+wegen meiner Torheit.
+<sup>6</sup>Ich habe Schmerzen und bin tief gebeugt.
+Den ganzen Tag gehe ich trauernd umher.
+<sup>7</sup>Denn meine Hüften sind voller Brennen.
+Nichts ist gesund an meinem Fleisch.
+<sup>8</sup>Ich bin erschöpft und schwer zerschlagen.
+Ich stöhne wegen der Angst meines Herzens.
+
+> **Was bedeutet das?**
+> Psalm 38 ist einer der sieben Bußpsalmen. „Zum Gedenken“: Vielleicht wurde er beim „Gedenkopfer“ gesungen, oder er soll Gott an den Beter erinnern.
+> Der Beter ist schwer krank. Er versteht seine Krankheit als Folge seiner Schuld.
+> Wichtig: Die Bibel sagt nicht, dass jede Krankheit eine Strafe für Sünde ist. Das hat das Buch Hiob deutlich gezeigt, und Jesus sagt es auch (Johannes 9,1–3). Aber dieser Beter erlebt es für sich so, und er bringt es ehrlich vor Gott.
+> Vers 4: „Meine Schuld ist mir über den Kopf gewachsen“: wie Wasser, das einem über den Kopf steigt. Das kennen viele, die sich schuldig fühlen.
+
+---
+
+### Meine Freunde halten Abstand (Vers 9–14)
+
+<sup>9</sup>Herr, all mein Verlangen liegt vor dir.
+Mein Stöhnen ist dir nicht verborgen.
+<sup>10</sup>Mein Herz pocht. Meine Kraft verlässt mich.
+Auch das Licht meiner Augen ist nicht mehr bei mir.
+<sup>11</sup>Meine Liebsten und meine Freunde halten sich fern von meiner Plage.
+Meine Verwandten stehen weit weg.
+<sup>12</sup>Auch die nach meinem Leben trachten, legen Schlingen.
+Die mein Unglück suchen, reden Unheil
+und denken sich den ganzen Tag Betrug aus.
+<sup>13</sup>Ich aber bin wie ein Tauber, ich höre nicht.
+Ich bin wie ein Stummer, der seinen Mund nicht öffnet.
+<sup>14</sup>Ja, ich bin wie ein Mann, der nicht hört
+und in dessen Mund keine Widerrede ist.
+
+> **Was bedeutet das?**
+> Vers 9: Ein Trost: Gott weiß alles, auch das, was ich nicht in Worte fassen kann.
+> Vers 11: Das ist sehr schmerzhaft: Gerade wenn er krank ist, halten seine Freunde und seine Familie Abstand. Vielleicht aus Angst vor Ansteckung, vielleicht weil sie denken, er ist selbst schuld.
+> Vers 13–14: Der Beter wehrt sich nicht gegen die Angriffe. Er schweigt. Das erinnert an den leidenden Gottesknecht in Jesaja 53,7, und an Jesus, der vor seinen Anklägern schwieg.
+
+---
+
+### Ich hoffe auf dich (Vers 15–22)
+
+<sup>15</sup>Denn auf dich, HERR, hoffe ich.
+Du wirst antworten, Herr, mein Gott.
+<sup>16</sup>Denn ich sagte: „Lass sie sich nicht über mich freuen
+und sich nicht über mich erheben, wenn mein Fuß wankt.“
+<sup>17</sup>Denn ich bin nahe daran zu fallen.
+Mein Schmerz ist immer vor mir.
+<sup>18</sup>Denn ich bekenne meine Schuld.
+Ich bin betrübt über meine Sünde.
+<sup>19</sup>Aber meine Feinde sind lebendig und zahlreich.
+Viele sind es, die mich ohne Grund hassen.
+<sup>20</sup>Die Böses für Gutes vergelten, sind auch meine Gegner,
+weil ich dem Guten nachjage.
+<sup>21</sup>Verlass mich nicht, HERR!
+Mein Gott, sei nicht fern von mir!
+<sup>22</sup>Eile mir zu Hilfe, Herr, meine Rettung!
+
+> **Was bedeutet das?**
+> Vers 15: Er schweigt vor den Menschen, aber er redet mit Gott. Von Gott erwartet er eine Antwort.
+> Vers 18: Er bekennt ehrlich seine Schuld. Das ist der erste Schritt zur Heilung.
+> Der Psalm endet nicht mit einer Antwort, sondern mit einem dringenden Hilferuf. Nicht jedes Gebet endet mit einer Lösung. Manchmal bleibt nur der Schrei: „Verlass mich nicht!“
+
+## Psalm 39
+#### Wie vergänglich ist der Mensch
+
+---
+
+### Ich wollte schweigen (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Für Jedutun. Ein Psalm von David.
+Ich sagte: „Ich will auf meine Wege achten,
+damit ich nicht mit meiner Zunge sündige.
+Ich will meinem Mund einen Zaum anlegen,
+solange der Gottlose vor mir ist.“
+<sup>2</sup>Ich war stumm und schwieg.
+Ich hielt still, sogar vom Guten.
+Mein Schmerz wurde aufgewühlt.
+<sup>3</sup>Mein Herz wurde heiß in mir.
+Während ich nachdachte, brannte das Feuer.
+Da redete ich mit meiner Zunge:
+
+> **Was bedeutet das?**
+> Jedutun war einer der Leiter der Tempelmusik zur Zeit Davids (1. Chronik 16,41).
+> Der Beter wollte schweigen, um nicht vor gottlosen Menschen etwas Falsches über Gott zu sagen.
+> Aber das Schweigen machte es schlimmer. Der Schmerz brannte in ihm wie Feuer. Schließlich musste er reden, aber er redet nicht zu den Menschen, sondern zu Gott.
+
+---
+
+### Lass mich erkennen, wie vergänglich ich bin (Vers 4–6)
+
+<sup>4</sup>„HERR, zeig mir mein Ende
+und welches das Maß meiner Tage ist.
+Lass mich erkennen, wie vergänglich ich bin.
+<sup>5</sup>Schau, du hast meine Tage nur eine Handbreit lang gemacht.
+Meine Lebenszeit ist wie nichts vor dir.
+Gewiss, jeder Mensch steht da wie ein Hauch.“
+Sela.
+<sup>6</sup>„Gewiss, jeder Mensch geht umher wie ein Schatten.
+Gewiss, sie machen sich vergeblich viel Mühe.
+Er häuft an und weiß nicht, wer es einsammeln wird.
+
+> **Was bedeutet das?**
+> Der Beter denkt über die Kürze des Lebens nach. Im Vergleich zu Gott ist ein Menschenleben nur „eine Handbreit“, so kurz wie die Breite einer Hand.
+> „Ein Hauch“: Im Hebräischen steht „Hevel“. Dasselbe Wort steht oft im Buch Prediger: „Alles ist Hauch“, alles ist vergänglich.
+> Vers 6: Menschen sammeln Reichtum, aber sie wissen nicht, wer ihn nach ihrem Tod bekommt (vgl. Lukas 12,20).
+> Dieses Nachdenken über den Tod ist nicht hoffnungslos. Es hilft, das Wichtige vom Unwichtigen zu unterscheiden (vgl. Psalm 90,12).
+
+---
+
+### Meine Hoffnung ist bei dir (Vers 7–11)
+
+<sup>7</sup>Und nun, Herr, worauf soll ich warten?
+Meine Hoffnung ist bei dir.
+<sup>8</sup>Rette mich von allen meinen Übertretungen!
+Mach mich nicht zum Spott der Toren!
+<sup>9</sup>Ich war stumm. Ich öffnete meinen Mund nicht,
+denn du hast es getan.
+<sup>10</sup>Nimm deine Plage von mir weg!
+Ich vergehe unter dem Schlag deiner Hand.
+<sup>11</sup>Wenn du einen Menschen wegen seiner Schuld zurechtweist und züchtigst,
+verzehrst du seinen Reichtum wie eine Motte.
+Gewiss, jeder Mensch ist nur ein Hauch.“
+Sela.
+
+> **Was bedeutet das?**
+> Vers 7 ist die Wende: Wenn alles vergänglich ist, worauf soll ich dann hoffen? Die Antwort: auf Gott. Er allein bleibt.
+> Vers 11: „Seinen Reichtum“: Viele deutsche Bibeln übersetzen „seine Schönheit“ oder „was ihm lieb ist“. Wie eine Motte langsam ein Kleid zerfrisst, so vergeht alles, was der Mensch hat.
+
+---
+
+### Ich bin ein Gast bei dir (Vers 12–13)
+
+<sup>12</sup>„Hör mein Gebet, HERR,
+und achte auf mein Schreien!
+Schweig nicht zu meinen Tränen!
+Denn ich bin ein Fremder bei dir,
+ein Gast, wie alle meine Väter.
+<sup>13</sup>Ach, verschone mich, damit ich wieder Kraft bekomme,
+bevor ich gehe und nicht mehr bin.“
+
+> **Was bedeutet das?**
+> Vers 12: „Ich bin ein Fremder bei dir, ein Gast“: Der Mensch ist auf der Erde nur Gast. Er wohnt nur eine Zeit lang hier, wie Abraham, der als Fremder im Land lebte. Die Erde gehört Gott (Psalm 24,1).
+> Vers 13: Ein erschütternder Schluss. Im Hebräischen steht wörtlich: „Schau weg von mir.“ Der Beter fühlt Gottes Blick wie eine Last, unter der er leidet. Er bittet um eine Atempause.
+> Psalm 39 gehört zu den dunkelsten Psalmen. Er zeigt: Auch solche Gebete haben Platz in der Bibel.
+> Wenn du dich gerade so fühlst, als ob du keine Kraft mehr hast und nicht mehr da sein willst: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
