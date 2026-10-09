@@ -925,6 +925,513 @@
      "erklaerung": "Hiob fordert seine Freunde heraus: Wenn ich gesündigt habe, dann zeigt mir, wo! Sagt es konkret!\nVers 26 ist sehr menschlich: Die Worte eines Verzweifelten sind „wie Wind“. Man sollte sie nicht auf die Goldwaage legen. Wer in tiefer Not ist, sagt manchmal harte Dinge. Ein Freund sollte das verstehen.\n„Seht mich an!“: Hiob bittet seine Freunde, ihn wirklich anzusehen, als Menschen, nicht als Fall für ihre Theorie.\nDas ist eine wichtige Lehre für alle, die Leidende begleiten: Erst zuhören, erst hinsehen, bevor man Ratschläge gibt."
     }
    ]
+  },
+  {
+   "kapitel": 7,
+   "titel": "„Was ist der Mensch?“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Leben ist ein Hauch",
+     "vers_von": 1,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "„Hat der Mensch nicht harten Dienst auf der Erde?\nSind seine Tage nicht wie die Tage eines Tagelöhners?",
+       "englisch_web": "“Isn’t a man forced to labor on earth? Aren’t his days like the days of a hired hand?"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wie ein Knecht, der sich nach dem Schatten sehnt,\nwie ein Tagelöhner, der auf seinen Lohn wartet,",
+       "englisch_web": "As a servant who earnestly desires the shadow, as a hireling who looks for his wages,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "so sind mir Monate voller Elend zugeteilt worden,\nund mühselige Nächte sind mir bestimmt.",
+       "englisch_web": "so I am made to possess months of misery, wearisome nights are appointed to me."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Wenn ich mich hinlege, sage ich:\n‚Wann darf ich aufstehen, und wann ist die Nacht vorbei?‘\nIch wälze mich hin und her bis zum Morgengrauen.",
+       "englisch_web": "When I lie down, I say, ‘When will I arise, and the night be gone?’ I toss and turn until the dawning of the day."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Mein Fleisch ist bekleidet mit Würmern und Erdklumpen.\nMeine Haut schließt sich und bricht wieder auf.",
+       "englisch_web": "My flesh is clothed with worms and clods of dust. My skin closes up, and breaks out afresh."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Meine Tage sind schneller als ein Weberschiffchen,\nund sie vergehen ohne Hoffnung.",
+       "englisch_web": "My days are swifter than a weaver’s shuttle, and are spent without hope."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denk doch daran, dass mein Leben ein Hauch ist.\nMein Auge wird nichts Gutes mehr sehen.",
+       "englisch_web": "Oh remember that my life is a breath. My eye will no more see good."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Das Auge dessen, der mich sieht, wird mich nicht mehr sehen.\nDeine Augen werden auf mich gerichtet sein, aber ich werde nicht mehr sein.",
+       "englisch_web": "The eye of him who sees me will see me no more. Your eyes will be on me, but I will not be."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wie die Wolke vergeht und verschwindet,\nso kommt der, der ins Totenreich hinabsteigt, nicht mehr herauf.",
+       "englisch_web": "As the cloud is consumed and vanishes away, so he who goes down to Sheol will come up no more."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er kehrt nicht mehr in sein Haus zurück,\nund sein Ort kennt ihn nicht mehr.",
+       "englisch_web": "He will return no more to his house, neither will his place know him any more."
+      }
+     ],
+     "erklaerung": "Hiob spricht jetzt nicht mehr zu seinen Freunden, sondern zu Gott. „Denk doch daran …“\nEr beschreibt seine Not: Er kann nicht schlafen. Seine Haut ist voller Wunden, die nicht heilen. Die Zeit vergeht schnell, aber ohne Hoffnung.\nEin „Weberschiffchen“ fliegt beim Weben schnell hin und her. So schnell vergehen die Tage.\n„Totenreich“ heißt im Hebräischen „Scheol“. Man stellte es sich als einen dunklen Ort unter der Erde vor, wo die Toten sind. Hiob sieht darin keine Hoffnung auf Rückkehr. Erst später in der Bibel wächst die Hoffnung auf eine Auferstehung.\nVers 8 ist bitter: Gott wird nach Hiob suchen, aber Hiob wird nicht mehr da sein."
+    },
+    {
+     "ueberschrift": "Warum bewachst du mich?",
+     "vers_von": 11,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Darum will ich meinen Mund nicht zurückhalten.\nIch will reden in der Angst meines Geistes.\nIch will klagen in der Bitterkeit meiner Seele.",
+       "englisch_web": "“Therefore I will not keep silent. I will speak in the anguish of my spirit. I will complain in the bitterness of my soul."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Bin ich ein Meer oder ein Seeungeheuer,\ndass du eine Wache über mich stellst?",
+       "englisch_web": "Am I a sea, or a sea monster, that you put a guard over me?"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Wenn ich sage: ‚Mein Bett wird mich trösten,\nmein Lager wird meine Klage erleichtern‘,",
+       "englisch_web": "When I say, ‘My bed will comfort me. My couch will ease my complaint,’"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "dann erschreckst du mich mit Träumen\nund ängstigst mich durch Visionen,",
+       "englisch_web": "then you scare me with dreams and terrify me through visions,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "sodass meine Seele lieber erstickt würde,\nlieber den Tod als diese Knochen.",
+       "englisch_web": "so that my soul chooses strangling, death rather than my bones."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich verabscheue mein Leben. Ich will nicht ewig leben.\nLass mich in Ruhe, denn meine Tage sind nur ein Hauch.",
+       "englisch_web": "I loathe my life. I don’t want to live forever. Leave me alone, for my days are but a breath."
+      }
+     ],
+     "erklaerung": "„Ich will meinen Mund nicht zurückhalten“: Hiob entscheidet sich, ehrlich zu klagen. Er schluckt seinen Schmerz nicht herunter.\nDas Meer und das Seeungeheuer waren in alten Geschichten Bilder für das Chaos, das Gott bändigen musste. Hiob fragt: Bin ich so gefährlich, dass du mich so streng bewachst?\nNicht einmal im Schlaf findet er Ruhe. Albträume quälen ihn.\nVers 15–16 sind sehr dunkle Worte. Hiob will nicht mehr leben. Aber er sagt das zu Gott. Er bleibt im Gespräch mit ihm. Das ist wichtig: Auch in der tiefsten Verzweiflung kann man mit Gott reden.\nWenn du selbst so fühlst und nicht mehr leben willst: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112."
+    },
+    {
+     "ueberschrift": "Was ist der Mensch?",
+     "vers_von": 17,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Was ist der Mensch, dass du ihn so groß machst\nund dass du dein Herz auf ihn richtest,",
+       "englisch_web": "What is man, that you should magnify him, that you should set your mind on him,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "dass du ihn jeden Morgen heimsuchst\nund ihn jeden Augenblick prüfst?",
+       "englisch_web": "that you should visit him every morning, and test him every moment?"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wie lange willst du nicht von mir wegsehen\nund mich nicht in Ruhe lassen,\nnicht einmal so lange, bis ich meinen Speichel schlucke?",
+       "englisch_web": "How long will you not look away from me, nor leave me alone until I swallow down my spittle?"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wenn ich gesündigt habe, was tue ich dir damit an,\ndu Menschenwächter?\nWarum hast du mich zu deiner Zielscheibe gemacht,\nsodass ich mir selbst zur Last bin?",
+       "englisch_web": "If I have sinned, what do I do to you, you watcher of men? Why have you set me as a mark for you, so that I am a burden to myself?"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Und warum vergibst du mir meine Übertretung nicht\nund nimmst meine Schuld nicht weg?\nDenn jetzt werde ich mich in den Staub legen.\nDu wirst mich eifrig suchen, aber ich werde nicht mehr sein.“",
+       "englisch_web": "Why do you not pardon my disobedience, and take away my iniquity? For now will I lie down in the dust. You will seek me diligently, but I will not be.”"
+      }
+     ],
+     "erklaerung": "Vers 17 erinnert an Psalm 8,5: „Was ist der Mensch, dass du an ihn denkst?“ Im Psalm ist das ein staunendes Lob: Gott kümmert sich um den kleinen Menschen! Hiob dreht es um: Warum lässt du mich nicht in Ruhe? Deine Aufmerksamkeit ist für mich eine Qual.\n„Bis ich meinen Speichel schlucke“: Nicht einmal einen Augenblick lässt Gott ihn in Ruhe.\nHiob sagt nicht, dass er gesündigt hat. Er sagt: Selbst wenn ich gesündigt hätte, warum vergibst du mir nicht einfach?\nDer letzte Satz ist erstaunlich: „Du wirst mich suchen.“ Tief in seinem Herzen weiß Hiob, dass Gott ihn vermissen wird. Er glaubt immer noch, dass Gott ihn liebt, auch wenn er es gerade nicht spürt."
+    }
+   ]
+  },
+  {
+   "kapitel": 8,
+   "titel": "Bildad: „Gott beugt das Recht nicht“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Deine Kinder haben wohl gesündigt",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da antwortete Bildad, der Schuachiter:",
+       "englisch_web": "Then Bildad the Shuhite answered,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Wie lange willst du so reden?\nSollen die Worte deines Mundes ein heftiger Wind sein?",
+       "englisch_web": "“How long will you speak these things? Shall the words of your mouth be a mighty wind?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Beugt Gott etwa das Recht?\nOder beugt der Allmächtige die Gerechtigkeit?",
+       "englisch_web": "Does God pervert justice? Or does the Almighty pervert righteousness?"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Wenn deine Kinder gegen ihn gesündigt haben,\ndann hat er sie der Macht ihrer Übertretung übergeben.",
+       "englisch_web": "If your children have sinned against him, he has delivered them into the hand of their disobedience."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn du Gott eifrig suchst\nund zum Allmächtigen flehst,",
+       "englisch_web": "If you want to seek God diligently, make your supplication to the Almighty."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "wenn du rein und aufrichtig bist,\ndann wird er gewiss jetzt für dich aufwachen\nund die Wohnung deiner Gerechtigkeit wiederherstellen.",
+       "englisch_web": "If you were pure and upright, surely now he would awaken for you, and make the habitation of your righteousness prosperous."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Und war dein Anfang klein,\nso wird dein Ende sehr groß werden.",
+       "englisch_web": "Though your beginning was small, yet your latter end would greatly increase."
+      }
+     ],
+     "erklaerung": "Bildad ist weniger höflich als Elifas. Er nennt Hiobs Worte „heftigen Wind“, also leeres Gerede.\nSeine Frage in Vers 3 ist richtig: Gott beugt das Recht nicht. Aber seine Schlussfolgerung ist grausam:\nVers 4: „Wenn deine Kinder gesündigt haben, dann hat Gott sie bestraft.“ Er sagt einem Vater, der gerade alle Kinder verloren hat: Sie sind wohl selbst schuld an ihrem Tod. Das ist eine der härtesten Aussagen im ganzen Buch.\nNiemand darf einem trauernden Menschen so etwas sagen. Bildad meint, Gott zu verteidigen. Aber er verletzt einen Menschen zutiefst.\nVers 7 ist ironisch: Am Ende des Buches wird Hiob tatsächlich mehr bekommen als vorher (Kapitel 42,12). Aber nicht, weil Bildad recht hatte."
+    },
+    {
+     "ueberschrift": "Fragt die früheren Generationen",
+     "vers_von": 8,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Frag doch die früheren Generationen\nund achte auf das, was ihre Väter erforscht haben.",
+       "englisch_web": "“Please inquire of past generations. Find out about the learning of their fathers."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "(Denn wir sind erst von gestern und wissen nichts,\ndenn unsere Tage auf der Erde sind ein Schatten.)",
+       "englisch_web": "(For we are but of yesterday, and know nothing, because our days on earth are a shadow.)"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Werden sie dich nicht lehren und es dir sagen\nund Worte aus ihrem Herzen hervorbringen?",
+       "englisch_web": "Shall they not teach you, tell you, and utter words out of their heart?"
+      }
+     ],
+     "erklaerung": "Elifas berief sich auf eine Vision. Bildad beruft sich auf die Tradition, auf die Weisheit der Vorfahren.\nTradition ist wertvoll. Aber Bildad benutzt sie, um nicht selbst nachdenken zu müssen. Er hört nicht auf Hiobs wirkliche Erfahrung."
+    },
+    {
+     "ueberschrift": "Die Pflanze ohne Wasser",
+     "vers_von": 11,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Kann Papyrus wachsen ohne Sumpf?\nKann Schilf ohne Wasser groß werden?",
+       "englisch_web": "“Can the papyrus grow up without mire? Can the rushes grow without water?"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Noch ist es grün und nicht abgeschnitten,\nda verdorrt es vor allem anderen Gras.",
+       "englisch_web": "While it is yet in its greenness, not cut down, it withers before any other reed."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So sind die Wege aller, die Gott vergessen.\nDie Hoffnung des Gottlosen geht zugrunde.",
+       "englisch_web": "So are the paths of all who forget God. The hope of the godless man will perish,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Seine Zuversicht zerbricht,\nund sein Vertrauen ist ein Spinnennetz.",
+       "englisch_web": "whose confidence will break apart, whose trust is a spider’s web."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er stützt sich auf sein Haus, aber es hält nicht stand.\nEr hält sich daran fest, aber es bleibt nicht bestehen.",
+       "englisch_web": "He will lean on his house, but it will not stand. He will cling to it, but it will not endure."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er ist grün vor der Sonne,\nund seine Triebe breiten sich in seinem Garten aus.",
+       "englisch_web": "He is green before the sun. His shoots go out along his garden."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Seine Wurzeln schlingen sich um den Steinhaufen.\nEr sieht den Ort der Steine.",
+       "englisch_web": "His roots are wrapped around the rock pile. He sees the place of stones."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wenn er von seinem Ort vertilgt wird,\ndann verleugnet ihn dieser und sagt: ‚Ich habe dich nicht gesehen.‘",
+       "englisch_web": "If he is destroyed from his place, then it will deny him, saying, ‘I have not seen you.’"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Schau, das ist die Freude seines Weges:\nAus der Erde sprießen andere hervor.",
+       "englisch_web": "Behold, this is the joy of his way. Out of the earth, others will spring."
+      }
+     ],
+     "erklaerung": "Bildad benutzt Bilder aus der Natur. Papyrus und Schilf brauchen Wasser. Ohne Wasser verdorren sie schnell. So ist es auch mit Menschen, die Gott vergessen.\n„Sein Vertrauen ist ein Spinnennetz“: Es sieht fest aus, aber es hält nichts aus.\nDie zweite Pflanze (Vers 16–19) wächst kräftig, sogar auf Steinen. Aber wenn sie ausgerissen wird, ist es, als hätte es sie nie gegeben. Der Ort selbst „verleugnet“ sie.\nBildad meint: So geht es dem Gottlosen. Und unausgesprochen: Vielleicht auch dir, Hiob."
+    },
+    {
+     "ueberschrift": "Gott verwirft den Untadeligen nicht",
+     "vers_von": 20,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 20,
+       "leichte_sprache": "Schau, Gott verwirft den Untadeligen nicht,\nund er hält die Hand der Übeltäter nicht fest.",
+       "englisch_web": "“Behold, God will not cast away a blameless man, neither will he uphold the evildoers."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er wird deinen Mund noch mit Lachen füllen\nund deine Lippen mit Jubel.",
+       "englisch_web": "He will still fill your mouth with laughter, your lips with shouting."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Die dich hassen, werden mit Schande bekleidet sein,\nund das Zelt der Gottlosen wird nicht mehr sein.“",
+       "englisch_web": "Those who hate you will be clothed with shame. The tent of the wicked will be no more.”"
+      }
+     ],
+     "erklaerung": "Bildad endet mit einer Hoffnung: Wenn du untadelig bist, wird Gott dich wieder froh machen.\nIronie: Gott selbst hat Hiob „untadelig“ genannt (Kapitel 1,8). Aber nach Bildads Logik kann das nicht stimmen, weil Hiob leidet.\nDie Freunde haben eine fertige Theorie. Und weil die Wirklichkeit nicht in ihre Theorie passt, muss Hiob schuld sein."
+    }
+   ]
+  },
+  {
+   "kapitel": 9,
+   "titel": "„Wie kann ein Mensch vor Gott recht haben?“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Gottes überwältigende Macht",
+     "vers_von": 1,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Da antwortete Hiob:",
+       "englisch_web": "Then Job answered,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Wahrhaftig, ich weiß, dass es so ist.\nAber wie kann ein Mensch vor Gott recht haben?",
+       "englisch_web": "“Truly I know that it is so, but how can man be just with God?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Wenn er mit ihm streiten wollte,\nkönnte er ihm auf tausend Fragen nicht eine antworten.",
+       "englisch_web": "If he is pleased to contend with him, he can’t answer him one time in a thousand."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Gott ist weise im Herzen und gewaltig an Kraft.\nWer hat sich gegen ihn gestellt und ist heil davongekommen?",
+       "englisch_web": "God is wise in heart, and mighty in strength. Who has hardened himself against him and prospered?"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Er versetzt Berge, und sie merken es nicht,\nwenn er sie in seinem Zorn umstürzt.",
+       "englisch_web": "He removes the mountains, and they don’t know it, when he overturns them in his anger."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er erschüttert die Erde von ihrem Ort,\nund ihre Säulen zittern.",
+       "englisch_web": "He shakes the earth out of its place. Its pillars tremble."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er gebietet der Sonne, und sie geht nicht auf,\nund er versiegelt die Sterne.",
+       "englisch_web": "He commands the sun and it doesn’t rise, and seals up the stars."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er allein spannt den Himmel aus\nund schreitet über die Wellen des Meeres.",
+       "englisch_web": "He alone stretches out the heavens, and treads on the waves of the sea."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er macht den Großen Bären, den Orion und das Siebengestirn\nund die Kammern des Südens.",
+       "englisch_web": "He makes the Bear, Orion, and the Pleiades, and the rooms of the south."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er tut große Dinge, die man nicht ergründen kann,\nja, Wunder ohne Zahl.",
+       "englisch_web": "He does great things past finding out; yes, marvelous things without number."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Schau, er geht an mir vorüber, und ich sehe ihn nicht.\nEr zieht vorbei, aber ich bemerke ihn nicht.",
+       "englisch_web": "Behold, he goes by me, and I don’t see him. He passes on also, but I don’t perceive him."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Schau, er reißt weg – wer will ihn hindern?\nWer will zu ihm sagen: ‚Was tust du?‘",
+       "englisch_web": "Behold, he snatches away. Who can hinder him? Who will ask him, ‘What are you doing?’"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Gott hält seinen Zorn nicht zurück.\nDie Helfer Rahabs beugen sich unter ihm.",
+       "englisch_web": "“God will not withdraw his anger. The helpers of Rahab stoop under him."
+      }
+     ],
+     "erklaerung": "Hiob stimmt den Freunden zu: Ja, Gott ist gerecht und mächtig. Aber gerade das ist sein Problem: Wie soll ein kleiner Mensch gegen so einen mächtigen Gott sein Recht bekommen?\n„Recht haben“ ist hier wie vor Gericht gemeint. Hiob möchte einen Prozess mit Gott führen. Aber Gott ist zu groß.\nHiob beschreibt Gottes Macht in gewaltigen Bildern: Er versetzt Berge, erschüttert die Erde, gebietet der Sonne und hat die Sternbilder gemacht.\n„Er schreitet über die Wellen des Meeres“: Christen denken hier an Jesus, der auf dem Wasser ging (Markus 6,48–50).\n„Er geht an mir vorüber, und ich sehe ihn nicht“: Gott ist da, aber verborgen. Hiob kann ihn nicht greifen.\n„Rahab“ ist hier nicht die Frau aus Jericho, sondern ein Seeungeheuer aus alten Geschichten, ein Bild für das Chaos (vgl. Jesaja 51,9)."
+    },
+    {
+     "ueberschrift": "Ich kann nicht gegen ihn ankommen",
+     "vers_von": 14,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Wie viel weniger könnte ich ihm antworten\nund meine Worte gegen ihn wählen!",
+       "englisch_web": "How much less will I answer him, and choose my words to argue with him?"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Selbst wenn ich gerecht wäre, könnte ich ihm nicht antworten.\nIch müsste meinen Richter um Gnade anflehen.",
+       "englisch_web": "Though I were righteous, yet I wouldn’t answer him. I would make supplication to my judge."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Wenn ich riefe und er mir antwortete,\nwürde ich nicht glauben, dass er auf meine Stimme hört.",
+       "englisch_web": "If I had called, and he had answered me, yet I wouldn’t believe that he listened to my voice."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn er zermalmt mich mit einem Sturm\nund vermehrt meine Wunden ohne Grund.",
+       "englisch_web": "For he breaks me with a storm, and multiplies my wounds without cause."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Er lässt mich nicht Atem holen,\nsondern sättigt mich mit Bitterkeit.",
+       "englisch_web": "He will not allow me to catch my breath, but fills me with bitterness."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Geht es um Kraft – schau, er ist mächtig!\nGeht es um Recht – ‚Wer will mich vorladen?‘, sagt er.",
+       "englisch_web": "If it is a matter of strength, behold, he is mighty! If of justice, ‘Who,’ says he, ‘will summon me?’"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Selbst wenn ich gerecht bin, würde mich mein eigener Mund verurteilen.\nSelbst wenn ich untadelig bin, würde er mich als verkehrt erweisen.",
+       "englisch_web": "Though I am righteous, my own mouth will condemn me. Though I am blameless, it will prove me perverse."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ich bin untadelig.\nIch achte nicht auf mich selbst.\nIch verachte mein Leben.",
+       "englisch_web": "I am blameless. I don’t respect myself. I despise my life."
+      }
+     ],
+     "erklaerung": "Hiob fühlt sich völlig hilflos. Selbst wenn er recht hätte, würde er vor Gott nicht bestehen können. Gott ist Richter und Gegner zugleich.\nVers 17: „Er vermehrt meine Wunden ohne Grund.“ Genau dieses Wort hatte Gott selbst im Himmel benutzt: „ohne Grund“ (Kapitel 2,3). Hiob weiß nichts davon, aber er hat recht.\nVers 21: „Ich bin untadelig.“ Hiob hält fest an seiner Unschuld, obwohl alle anderen ihm das Gegenteil sagen."
+    },
+    {
+     "ueberschrift": "Gott macht keinen Unterschied",
+     "vers_von": 22,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Es ist alles eins. Darum sage ich:\nDen Untadeligen und den Gottlosen vernichtet er.",
+       "englisch_web": "“It is all the same. Therefore I say he destroys the blameless and the wicked."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Wenn die Geißel plötzlich tötet,\nspottet er über die Verzweiflung der Unschuldigen.",
+       "englisch_web": "If the scourge kills suddenly, he will mock at the trial of the innocent."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Erde ist in die Hand des Gottlosen gegeben.\nEr verhüllt das Gesicht ihrer Richter.\nWenn nicht er, wer ist es dann?",
+       "englisch_web": "The earth is given into the hand of the wicked. He covers the faces of its judges. If not he, then who is it?"
+      }
+     ],
+     "erklaerung": "Das sind Hiobs härteste Worte bisher. Er sagt: Gott macht keinen Unterschied zwischen Guten und Bösen. Er vernichtet beide.\nEr wirft Gott sogar vor, über das Leid der Unschuldigen zu spotten.\n„Er verhüllt das Gesicht ihrer Richter“: Die Richter auf der Erde sind blind für Gerechtigkeit.\n„Wenn nicht er, wer ist es dann?“ Hiob glaubt, dass alles von Gott kommt. Darum muss Gott auch für das Unrecht verantwortlich sein.\nDiese Worte sind sehr bitter. Aber die Bibel streicht sie nicht. Sie zeigt, wie ein Mensch im tiefsten Leid denken und reden kann. Am Ende wird Gott sagen, dass Hiob „recht von ihm geredet hat“, anders als seine Freunde (Kapitel 42,7). Ehrliche Klage ist Gott lieber als fromme Lügen."
+    },
+    {
+     "ueberschrift": "Wenn es doch einen Schiedsrichter gäbe!",
+     "vers_von": 25,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Meine Tage sind schneller als ein Läufer.\nSie fliehen dahin und sehen nichts Gutes.",
+       "englisch_web": "“Now my days are swifter than a runner. They flee away. They see no good."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Sie sind vorübergeglitten wie schnelle Schiffe,\nwie ein Adler, der auf die Beute herabstößt.",
+       "englisch_web": "They have passed away as the swift ships, as the eagle that swoops on the prey."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Wenn ich sage: ‚Ich will meine Klage vergessen,\nmein trauriges Gesicht ablegen und fröhlich sein‘,",
+       "englisch_web": "If I say, ‘I will forget my complaint, I will put off my sad face, and cheer up,’"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "dann graut mir vor all meinen Schmerzen.\nIch weiß, dass du mich nicht für unschuldig erklären wirst.",
+       "englisch_web": "I am afraid of all my sorrows. I know that you will not hold me innocent."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Ich werde verurteilt werden.\nWarum soll ich mich dann umsonst abmühen?",
+       "englisch_web": "I will be condemned. Why then do I labor in vain?"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Wenn ich mich mit Schnee wüsche\nund meine Hände mit Lauge reinigte,",
+       "englisch_web": "If I wash myself with snow, and cleanse my hands with lye,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "dann würdest du mich doch in die Grube tauchen,\nund meine eigenen Kleider würden sich vor mir ekeln.",
+       "englisch_web": "yet you will plunge me in the ditch. My own clothes will abhor me."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Denn er ist nicht ein Mensch wie ich, dass ich ihm antworten könnte,\ndass wir zusammen vor Gericht gehen könnten.",
+       "englisch_web": "For he is not a man, as I am, that I should answer him, that we should come together in judgment."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Es gibt keinen Schiedsrichter zwischen uns,\nder seine Hand auf uns beide legen könnte.",
+       "englisch_web": "There is no umpire between us, that might lay his hand on us both."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Er soll seine Rute von mir nehmen,\nund sein Schrecken soll mir keine Angst machen.",
+       "englisch_web": "Let him take his rod away from me. Let his terror not make me afraid;"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Dann würde ich reden und ihn nicht fürchten.\nDenn so bin ich nicht in mir selbst.“",
+       "englisch_web": "then I would speak, and not fear him, for I am not so in myself."
+      }
+     ],
+     "erklaerung": "Hiob versucht, positiv zu denken: „Ich will fröhlich sein.“ Aber es geht nicht. Der Schmerz ist zu groß. Wer leidet, kann nicht einfach „gut drauf sein“.\nVers 30–31: Egal wie sehr er sich reinigt, Gott würde ihn wieder schmutzig machen. Er fühlt sich ohnmächtig.\nVers 33 ist einer der wichtigsten Verse im Buch: Hiob wünscht sich einen „Schiedsrichter“, einen Vermittler zwischen Gott und Mensch, der „seine Hand auf beide legt“. Jemand, der Gott und den Menschen versteht und beide zusammenbringt.\nChristen sehen in diesem Wunsch einen Hinweis auf Jesus: „Es ist ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus“ (1. Timotheus 2,5). Jesus ist Gott und Mensch zugleich.\nHiob wird diesen Gedanken später weiterführen (Kapitel 16,19–21; 19,25).\n„So bin ich nicht in mir selbst“: Gemeint ist wohl: Ich habe in mir nichts, wovor ich mich fürchten müsste. Ich bin mir keiner Schuld bewusst."
+    }
+   ]
   }
  ]
 }

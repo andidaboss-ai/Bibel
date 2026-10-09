@@ -63596,3 +63596,302 @@ Kann mein Gaumen nicht unterscheiden, was verderblich ist?“
 > Vers 26 ist sehr menschlich: Die Worte eines Verzweifelten sind „wie Wind“. Man sollte sie nicht auf die Goldwaage legen. Wer in tiefer Not ist, sagt manchmal harte Dinge. Ein Freund sollte das verstehen.
 > „Seht mich an!“: Hiob bittet seine Freunde, ihn wirklich anzusehen, als Menschen, nicht als Fall für ihre Theorie.
 > Das ist eine wichtige Lehre für alle, die Leidende begleiten: Erst zuhören, erst hinsehen, bevor man Ratschläge gibt.
+
+## Hiob – Kapitel 7
+#### „Was ist der Mensch?“
+
+---
+
+### Das Leben ist ein Hauch (Vers 1–10)
+
+<sup>1</sup>„Hat der Mensch nicht harten Dienst auf der Erde?
+Sind seine Tage nicht wie die Tage eines Tagelöhners?
+<sup>2</sup>Wie ein Knecht, der sich nach dem Schatten sehnt,
+wie ein Tagelöhner, der auf seinen Lohn wartet,
+<sup>3</sup>so sind mir Monate voller Elend zugeteilt worden,
+und mühselige Nächte sind mir bestimmt.
+<sup>4</sup>Wenn ich mich hinlege, sage ich:
+‚Wann darf ich aufstehen, und wann ist die Nacht vorbei?‘
+Ich wälze mich hin und her bis zum Morgengrauen.
+<sup>5</sup>Mein Fleisch ist bekleidet mit Würmern und Erdklumpen.
+Meine Haut schließt sich und bricht wieder auf.
+<sup>6</sup>Meine Tage sind schneller als ein Weberschiffchen,
+und sie vergehen ohne Hoffnung.
+<sup>7</sup>Denk doch daran, dass mein Leben ein Hauch ist.
+Mein Auge wird nichts Gutes mehr sehen.
+<sup>8</sup>Das Auge dessen, der mich sieht, wird mich nicht mehr sehen.
+Deine Augen werden auf mich gerichtet sein, aber ich werde nicht mehr sein.
+<sup>9</sup>Wie die Wolke vergeht und verschwindet,
+so kommt der, der ins Totenreich hinabsteigt, nicht mehr herauf.
+<sup>10</sup>Er kehrt nicht mehr in sein Haus zurück,
+und sein Ort kennt ihn nicht mehr.
+
+> **Was bedeutet das?**
+> Hiob spricht jetzt nicht mehr zu seinen Freunden, sondern zu Gott. „Denk doch daran …“
+> Er beschreibt seine Not: Er kann nicht schlafen. Seine Haut ist voller Wunden, die nicht heilen. Die Zeit vergeht schnell, aber ohne Hoffnung.
+> Ein „Weberschiffchen“ fliegt beim Weben schnell hin und her. So schnell vergehen die Tage.
+> „Totenreich“ heißt im Hebräischen „Scheol“. Man stellte es sich als einen dunklen Ort unter der Erde vor, wo die Toten sind. Hiob sieht darin keine Hoffnung auf Rückkehr. Erst später in der Bibel wächst die Hoffnung auf eine Auferstehung.
+> Vers 8 ist bitter: Gott wird nach Hiob suchen, aber Hiob wird nicht mehr da sein.
+
+---
+
+### Warum bewachst du mich? (Vers 11–16)
+
+<sup>11</sup>Darum will ich meinen Mund nicht zurückhalten.
+Ich will reden in der Angst meines Geistes.
+Ich will klagen in der Bitterkeit meiner Seele.
+<sup>12</sup>Bin ich ein Meer oder ein Seeungeheuer,
+dass du eine Wache über mich stellst?
+<sup>13</sup>Wenn ich sage: ‚Mein Bett wird mich trösten,
+mein Lager wird meine Klage erleichtern‘,
+<sup>14</sup>dann erschreckst du mich mit Träumen
+und ängstigst mich durch Visionen,
+<sup>15</sup>sodass meine Seele lieber erstickt würde,
+lieber den Tod als diese Knochen.
+<sup>16</sup>Ich verabscheue mein Leben. Ich will nicht ewig leben.
+Lass mich in Ruhe, denn meine Tage sind nur ein Hauch.
+
+> **Was bedeutet das?**
+> „Ich will meinen Mund nicht zurückhalten“: Hiob entscheidet sich, ehrlich zu klagen. Er schluckt seinen Schmerz nicht herunter.
+> Das Meer und das Seeungeheuer waren in alten Geschichten Bilder für das Chaos, das Gott bändigen musste. Hiob fragt: Bin ich so gefährlich, dass du mich so streng bewachst?
+> Nicht einmal im Schlaf findet er Ruhe. Albträume quälen ihn.
+> Vers 15–16 sind sehr dunkle Worte. Hiob will nicht mehr leben. Aber er sagt das zu Gott. Er bleibt im Gespräch mit ihm. Das ist wichtig: Auch in der tiefsten Verzweiflung kann man mit Gott reden.
+
+> Wenn du selbst so fühlst und nicht mehr leben willst: Du bist nicht allein. Bitte sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+---
+
+### Was ist der Mensch? (Vers 17–21)
+
+<sup>17</sup>Was ist der Mensch, dass du ihn so groß machst
+und dass du dein Herz auf ihn richtest,
+<sup>18</sup>dass du ihn jeden Morgen heimsuchst
+und ihn jeden Augenblick prüfst?
+<sup>19</sup>Wie lange willst du nicht von mir wegsehen
+und mich nicht in Ruhe lassen,
+nicht einmal so lange, bis ich meinen Speichel schlucke?
+<sup>20</sup>Wenn ich gesündigt habe, was tue ich dir damit an,
+du Menschenwächter?
+Warum hast du mich zu deiner Zielscheibe gemacht,
+sodass ich mir selbst zur Last bin?
+<sup>21</sup>Und warum vergibst du mir meine Übertretung nicht
+und nimmst meine Schuld nicht weg?
+Denn jetzt werde ich mich in den Staub legen.
+Du wirst mich eifrig suchen, aber ich werde nicht mehr sein.“
+
+> **Was bedeutet das?**
+> Vers 17 erinnert an Psalm 8,5: „Was ist der Mensch, dass du an ihn denkst?“ Im Psalm ist das ein staunendes Lob: Gott kümmert sich um den kleinen Menschen! Hiob dreht es um: Warum lässt du mich nicht in Ruhe? Deine Aufmerksamkeit ist für mich eine Qual.
+> „Bis ich meinen Speichel schlucke“: Nicht einmal einen Augenblick lässt Gott ihn in Ruhe.
+> Hiob sagt nicht, dass er gesündigt hat. Er sagt: Selbst wenn ich gesündigt hätte, warum vergibst du mir nicht einfach?
+> Der letzte Satz ist erstaunlich: „Du wirst mich suchen.“ Tief in seinem Herzen weiß Hiob, dass Gott ihn vermissen wird. Er glaubt immer noch, dass Gott ihn liebt, auch wenn er es gerade nicht spürt.
+
+## Hiob – Kapitel 8
+#### Bildad: „Gott beugt das Recht nicht“
+
+---
+
+### Deine Kinder haben wohl gesündigt (Vers 1–7)
+
+<sup>1</sup>Da antwortete Bildad, der Schuachiter:
+<sup>2</sup>„Wie lange willst du so reden?
+Sollen die Worte deines Mundes ein heftiger Wind sein?
+<sup>3</sup>Beugt Gott etwa das Recht?
+Oder beugt der Allmächtige die Gerechtigkeit?
+<sup>4</sup>Wenn deine Kinder gegen ihn gesündigt haben,
+dann hat er sie der Macht ihrer Übertretung übergeben.
+<sup>5</sup>Wenn du Gott eifrig suchst
+und zum Allmächtigen flehst,
+<sup>6</sup>wenn du rein und aufrichtig bist,
+dann wird er gewiss jetzt für dich aufwachen
+und die Wohnung deiner Gerechtigkeit wiederherstellen.
+<sup>7</sup>Und war dein Anfang klein,
+so wird dein Ende sehr groß werden.
+
+> **Was bedeutet das?**
+> Bildad ist weniger höflich als Elifas. Er nennt Hiobs Worte „heftigen Wind“, also leeres Gerede.
+> Seine Frage in Vers 3 ist richtig: Gott beugt das Recht nicht. Aber seine Schlussfolgerung ist grausam:
+> Vers 4: „Wenn deine Kinder gesündigt haben, dann hat Gott sie bestraft.“ Er sagt einem Vater, der gerade alle Kinder verloren hat: Sie sind wohl selbst schuld an ihrem Tod. Das ist eine der härtesten Aussagen im ganzen Buch.
+> Niemand darf einem trauernden Menschen so etwas sagen. Bildad meint, Gott zu verteidigen. Aber er verletzt einen Menschen zutiefst.
+> Vers 7 ist ironisch: Am Ende des Buches wird Hiob tatsächlich mehr bekommen als vorher (Kapitel 42,12). Aber nicht, weil Bildad recht hatte.
+
+---
+
+### Fragt die früheren Generationen (Vers 8–10)
+
+<sup>8</sup>Frag doch die früheren Generationen
+und achte auf das, was ihre Väter erforscht haben.
+<sup>9</sup>(Denn wir sind erst von gestern und wissen nichts,
+denn unsere Tage auf der Erde sind ein Schatten.)
+<sup>10</sup>Werden sie dich nicht lehren und es dir sagen
+und Worte aus ihrem Herzen hervorbringen?
+
+> **Was bedeutet das?**
+> Elifas berief sich auf eine Vision. Bildad beruft sich auf die Tradition, auf die Weisheit der Vorfahren.
+> Tradition ist wertvoll. Aber Bildad benutzt sie, um nicht selbst nachdenken zu müssen. Er hört nicht auf Hiobs wirkliche Erfahrung.
+
+---
+
+### Die Pflanze ohne Wasser (Vers 11–19)
+
+<sup>11</sup>Kann Papyrus wachsen ohne Sumpf?
+Kann Schilf ohne Wasser groß werden?
+<sup>12</sup>Noch ist es grün und nicht abgeschnitten,
+da verdorrt es vor allem anderen Gras.
+<sup>13</sup>So sind die Wege aller, die Gott vergessen.
+Die Hoffnung des Gottlosen geht zugrunde.
+<sup>14</sup>Seine Zuversicht zerbricht,
+und sein Vertrauen ist ein Spinnennetz.
+<sup>15</sup>Er stützt sich auf sein Haus, aber es hält nicht stand.
+Er hält sich daran fest, aber es bleibt nicht bestehen.
+<sup>16</sup>Er ist grün vor der Sonne,
+und seine Triebe breiten sich in seinem Garten aus.
+<sup>17</sup>Seine Wurzeln schlingen sich um den Steinhaufen.
+Er sieht den Ort der Steine.
+<sup>18</sup>Wenn er von seinem Ort vertilgt wird,
+dann verleugnet ihn dieser und sagt: ‚Ich habe dich nicht gesehen.‘
+<sup>19</sup>Schau, das ist die Freude seines Weges:
+Aus der Erde sprießen andere hervor.
+
+> **Was bedeutet das?**
+> Bildad benutzt Bilder aus der Natur. Papyrus und Schilf brauchen Wasser. Ohne Wasser verdorren sie schnell. So ist es auch mit Menschen, die Gott vergessen.
+> „Sein Vertrauen ist ein Spinnennetz“: Es sieht fest aus, aber es hält nichts aus.
+> Die zweite Pflanze (Vers 16–19) wächst kräftig, sogar auf Steinen. Aber wenn sie ausgerissen wird, ist es, als hätte es sie nie gegeben. Der Ort selbst „verleugnet“ sie.
+> Bildad meint: So geht es dem Gottlosen. Und unausgesprochen: Vielleicht auch dir, Hiob.
+
+---
+
+### Gott verwirft den Untadeligen nicht (Vers 20–22)
+
+<sup>20</sup>Schau, Gott verwirft den Untadeligen nicht,
+und er hält die Hand der Übeltäter nicht fest.
+<sup>21</sup>Er wird deinen Mund noch mit Lachen füllen
+und deine Lippen mit Jubel.
+<sup>22</sup>Die dich hassen, werden mit Schande bekleidet sein,
+und das Zelt der Gottlosen wird nicht mehr sein.“
+
+> **Was bedeutet das?**
+> Bildad endet mit einer Hoffnung: Wenn du untadelig bist, wird Gott dich wieder froh machen.
+> Ironie: Gott selbst hat Hiob „untadelig“ genannt (Kapitel 1,8). Aber nach Bildads Logik kann das nicht stimmen, weil Hiob leidet.
+> Die Freunde haben eine fertige Theorie. Und weil die Wirklichkeit nicht in ihre Theorie passt, muss Hiob schuld sein.
+
+## Hiob – Kapitel 9
+#### „Wie kann ein Mensch vor Gott recht haben?“
+
+---
+
+### Gottes überwältigende Macht (Vers 1–13)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Wahrhaftig, ich weiß, dass es so ist.
+Aber wie kann ein Mensch vor Gott recht haben?
+<sup>3</sup>Wenn er mit ihm streiten wollte,
+könnte er ihm auf tausend Fragen nicht eine antworten.
+<sup>4</sup>Gott ist weise im Herzen und gewaltig an Kraft.
+Wer hat sich gegen ihn gestellt und ist heil davongekommen?
+<sup>5</sup>Er versetzt Berge, und sie merken es nicht,
+wenn er sie in seinem Zorn umstürzt.
+<sup>6</sup>Er erschüttert die Erde von ihrem Ort,
+und ihre Säulen zittern.
+<sup>7</sup>Er gebietet der Sonne, und sie geht nicht auf,
+und er versiegelt die Sterne.
+<sup>8</sup>Er allein spannt den Himmel aus
+und schreitet über die Wellen des Meeres.
+<sup>9</sup>Er macht den Großen Bären, den Orion und das Siebengestirn
+und die Kammern des Südens.
+<sup>10</sup>Er tut große Dinge, die man nicht ergründen kann,
+ja, Wunder ohne Zahl.
+<sup>11</sup>Schau, er geht an mir vorüber, und ich sehe ihn nicht.
+Er zieht vorbei, aber ich bemerke ihn nicht.
+<sup>12</sup>Schau, er reißt weg – wer will ihn hindern?
+Wer will zu ihm sagen: ‚Was tust du?‘
+<sup>13</sup>Gott hält seinen Zorn nicht zurück.
+Die Helfer Rahabs beugen sich unter ihm.
+
+> **Was bedeutet das?**
+> Hiob stimmt den Freunden zu: Ja, Gott ist gerecht und mächtig. Aber gerade das ist sein Problem: Wie soll ein kleiner Mensch gegen so einen mächtigen Gott sein Recht bekommen?
+> „Recht haben“ ist hier wie vor Gericht gemeint. Hiob möchte einen Prozess mit Gott führen. Aber Gott ist zu groß.
+> Hiob beschreibt Gottes Macht in gewaltigen Bildern: Er versetzt Berge, erschüttert die Erde, gebietet der Sonne und hat die Sternbilder gemacht.
+> „Er schreitet über die Wellen des Meeres“: Christen denken hier an Jesus, der auf dem Wasser ging (Markus 6,48–50).
+> „Er geht an mir vorüber, und ich sehe ihn nicht“: Gott ist da, aber verborgen. Hiob kann ihn nicht greifen.
+> „Rahab“ ist hier nicht die Frau aus Jericho, sondern ein Seeungeheuer aus alten Geschichten, ein Bild für das Chaos (vgl. Jesaja 51,9).
+
+---
+
+### Ich kann nicht gegen ihn ankommen (Vers 14–21)
+
+<sup>14</sup>Wie viel weniger könnte ich ihm antworten
+und meine Worte gegen ihn wählen!
+<sup>15</sup>Selbst wenn ich gerecht wäre, könnte ich ihm nicht antworten.
+Ich müsste meinen Richter um Gnade anflehen.
+<sup>16</sup>Wenn ich riefe und er mir antwortete,
+würde ich nicht glauben, dass er auf meine Stimme hört.
+<sup>17</sup>Denn er zermalmt mich mit einem Sturm
+und vermehrt meine Wunden ohne Grund.
+<sup>18</sup>Er lässt mich nicht Atem holen,
+sondern sättigt mich mit Bitterkeit.
+<sup>19</sup>Geht es um Kraft – schau, er ist mächtig!
+Geht es um Recht – ‚Wer will mich vorladen?‘, sagt er.
+<sup>20</sup>Selbst wenn ich gerecht bin, würde mich mein eigener Mund verurteilen.
+Selbst wenn ich untadelig bin, würde er mich als verkehrt erweisen.
+<sup>21</sup>Ich bin untadelig.
+Ich achte nicht auf mich selbst.
+Ich verachte mein Leben.
+
+> **Was bedeutet das?**
+> Hiob fühlt sich völlig hilflos. Selbst wenn er recht hätte, würde er vor Gott nicht bestehen können. Gott ist Richter und Gegner zugleich.
+> Vers 17: „Er vermehrt meine Wunden ohne Grund.“ Genau dieses Wort hatte Gott selbst im Himmel benutzt: „ohne Grund“ (Kapitel 2,3). Hiob weiß nichts davon, aber er hat recht.
+> Vers 21: „Ich bin untadelig.“ Hiob hält fest an seiner Unschuld, obwohl alle anderen ihm das Gegenteil sagen.
+
+---
+
+### Gott macht keinen Unterschied (Vers 22–24)
+
+<sup>22</sup>Es ist alles eins. Darum sage ich:
+Den Untadeligen und den Gottlosen vernichtet er.
+<sup>23</sup>Wenn die Geißel plötzlich tötet,
+spottet er über die Verzweiflung der Unschuldigen.
+<sup>24</sup>Die Erde ist in die Hand des Gottlosen gegeben.
+Er verhüllt das Gesicht ihrer Richter.
+Wenn nicht er, wer ist es dann?
+
+> **Was bedeutet das?**
+> Das sind Hiobs härteste Worte bisher. Er sagt: Gott macht keinen Unterschied zwischen Guten und Bösen. Er vernichtet beide.
+> Er wirft Gott sogar vor, über das Leid der Unschuldigen zu spotten.
+> „Er verhüllt das Gesicht ihrer Richter“: Die Richter auf der Erde sind blind für Gerechtigkeit.
+> „Wenn nicht er, wer ist es dann?“ Hiob glaubt, dass alles von Gott kommt. Darum muss Gott auch für das Unrecht verantwortlich sein.
+> Diese Worte sind sehr bitter. Aber die Bibel streicht sie nicht. Sie zeigt, wie ein Mensch im tiefsten Leid denken und reden kann. Am Ende wird Gott sagen, dass Hiob „recht von ihm geredet hat“, anders als seine Freunde (Kapitel 42,7). Ehrliche Klage ist Gott lieber als fromme Lügen.
+
+---
+
+### Wenn es doch einen Schiedsrichter gäbe! (Vers 25–35)
+
+<sup>25</sup>Meine Tage sind schneller als ein Läufer.
+Sie fliehen dahin und sehen nichts Gutes.
+<sup>26</sup>Sie sind vorübergeglitten wie schnelle Schiffe,
+wie ein Adler, der auf die Beute herabstößt.
+<sup>27</sup>Wenn ich sage: ‚Ich will meine Klage vergessen,
+mein trauriges Gesicht ablegen und fröhlich sein‘,
+<sup>28</sup>dann graut mir vor all meinen Schmerzen.
+Ich weiß, dass du mich nicht für unschuldig erklären wirst.
+<sup>29</sup>Ich werde verurteilt werden.
+Warum soll ich mich dann umsonst abmühen?
+<sup>30</sup>Wenn ich mich mit Schnee wüsche
+und meine Hände mit Lauge reinigte,
+<sup>31</sup>dann würdest du mich doch in die Grube tauchen,
+und meine eigenen Kleider würden sich vor mir ekeln.
+<sup>32</sup>Denn er ist nicht ein Mensch wie ich, dass ich ihm antworten könnte,
+dass wir zusammen vor Gericht gehen könnten.
+<sup>33</sup>Es gibt keinen Schiedsrichter zwischen uns,
+der seine Hand auf uns beide legen könnte.
+<sup>34</sup>Er soll seine Rute von mir nehmen,
+und sein Schrecken soll mir keine Angst machen.
+<sup>35</sup>Dann würde ich reden und ihn nicht fürchten.
+Denn so bin ich nicht in mir selbst.“
+
+> **Was bedeutet das?**
+> Hiob versucht, positiv zu denken: „Ich will fröhlich sein.“ Aber es geht nicht. Der Schmerz ist zu groß. Wer leidet, kann nicht einfach „gut drauf sein“.
+> Vers 30–31: Egal wie sehr er sich reinigt, Gott würde ihn wieder schmutzig machen. Er fühlt sich ohnmächtig.
+> Vers 33 ist einer der wichtigsten Verse im Buch: Hiob wünscht sich einen „Schiedsrichter“, einen Vermittler zwischen Gott und Mensch, der „seine Hand auf beide legt“. Jemand, der Gott und den Menschen versteht und beide zusammenbringt.
+> Christen sehen in diesem Wunsch einen Hinweis auf Jesus: „Es ist ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus“ (1. Timotheus 2,5). Jesus ist Gott und Mensch zugleich.
+> Hiob wird diesen Gedanken später weiterführen (Kapitel 16,19–21; 19,25).
+> „So bin ich nicht in mir selbst“: Gemeint ist wohl: Ich habe in mir nichts, wovor ich mich fürchten müsste. Ich bin mir keiner Schuld bewusst.
