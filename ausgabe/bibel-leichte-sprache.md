@@ -80144,3 +80144,338 @@ aber sein Zorn trifft den, der Schande bringt.
 > Vers 31 ist einer der wichtigsten Sätze des Buches: Jeder Arme ist von Gott geschaffen. Wer einen Armen schlecht behandelt, beleidigt Gott selbst. Wer ihm hilft, ehrt Gott. Jesus sagt Ähnliches: „Was ihr einem meiner geringsten Geschwister getan habt, das habt ihr mir getan“ (Matthäus 25,40).
 > Vers 32: Der Gerechte hat sogar im Tod eine Zuflucht. Hier klingt Hoffnung über den Tod hinaus an.
 > Vers 34: „Gerechtigkeit erhöht ein Volk“: Ein Land ist nicht groß durch Macht oder Reichtum, sondern durch Gerechtigkeit.
+
+## Sprüche – Kapitel 15
+#### Eine sanfte Antwort
+
+---
+
+### Sanfte und harte Worte (Vers 1–7)
+
+<sup>1</sup>Eine sanfte Antwort wendet den Zorn ab,
+aber ein hartes Wort weckt Ärger.
+<sup>2</sup>Die Zunge der Weisen macht Erkenntnis beliebt,
+aber der Mund der Toren sprudelt Torheit hervor.
+<sup>3</sup>Die Augen des HERRN sind überall.
+Sie wachen über die Bösen und die Guten.
+<sup>4</sup>Eine sanfte Zunge ist ein Baum des Lebens,
+aber Falschheit darin zerbricht den Geist.
+<sup>5</sup>Ein Tor verachtet die Zurechtweisung seines Vaters,
+aber wer auf Tadel achtet, zeigt Klugheit.
+<sup>6</sup>Im Haus des Gerechten ist viel Schatz,
+aber das Einkommen des Gottlosen bringt Ärger.
+<sup>7</sup>Die Lippen der Weisen verbreiten Erkenntnis,
+nicht so das Herz der Toren.
+
+> **Was bedeutet das?**
+> Vers 1 ist einer der bekanntesten Sprüche: Wer ruhig und freundlich antwortet, kann einen Streit beenden. Wer hart zurückredet, gießt Öl ins Feuer. Das funktioniert in der Familie, bei der Arbeit und im Internet.
+> Vers 3: Gott sieht alles. Für die Bösen ist das eine Warnung, für die Guten ein Trost.
+> Vers 4: Freundliche Worte sind wie ein Baum, der Leben schenkt. Lügen und Gemeinheiten können einen Menschen innerlich zerbrechen.
+
+---
+
+### Was Gott gefällt (Vers 8–15)
+
+<sup>8</sup>Das Opfer der Gottlosen ist dem HERRN ein Gräuel,
+aber das Gebet der Aufrichtigen gefällt ihm.
+<sup>9</sup>Der Weg der Gottlosen ist dem HERRN ein Gräuel,
+aber er liebt den, der der Gerechtigkeit nachjagt.
+<sup>10</sup>Strenge Erziehung trifft den, der den Weg verlässt.
+Wer Tadel hasst, wird sterben.
+<sup>11</sup>Das Totenreich und der Abgrund liegen offen vor dem HERRN,
+wie viel mehr die Herzen der Menschenkinder!
+<sup>12</sup>Ein Spötter liebt es nicht, zurechtgewiesen zu werden.
+Er geht nicht zu den Weisen.
+<sup>13</sup>Ein fröhliches Herz macht ein heiteres Gesicht,
+aber ein schmerzendes Herz zerbricht den Geist.
+<sup>14</sup>Das Herz des Verständigen sucht Erkenntnis,
+aber der Mund der Toren ernährt sich von Torheit.
+<sup>15</sup>Alle Tage des Elenden sind schlimm,
+aber wer ein fröhliches Herz hat, hat ein ständiges Festmahl.
+
+> **Was bedeutet das?**
+> Vers 8: Gott lässt sich nicht mit Opfern bestechen, wenn das Leben böse ist. Aber das ehrliche Gebet eines aufrichtigen Menschen freut ihn, auch ohne Opfer.
+> Vers 11: „Abgrund“ heißt hebräisch „Abaddon“, ein anderes Wort für das Totenreich. Gott sieht sogar in die tiefsten Tiefen. Erst recht sieht er in unsere Herzen.
+> Vers 13 und 15: Die innere Stimmung zeigt sich im Gesicht und prägt das ganze Leben. Ein fröhliches Herz macht jeden Tag zum Fest.
+> Wenn jemand sehr lange traurig ist und nicht mehr froh werden kann, kann das eine Depression sein. Das ist eine Krankheit und keine Schwäche. Hausärzte, Psychotherapeuten und die Telefonseelsorge (0800 111 0 111) helfen weiter.
+
+---
+
+### Lieber wenig mit Liebe (Vers 16–23)
+
+<sup>16</sup>Besser wenig mit der Ehrfurcht vor dem HERRN
+als ein großer Schatz mit Unruhe.
+<sup>17</sup>Besser ein Gericht aus Gemüse, wo Liebe ist,
+als ein gemästetes Kalb mit Hass.
+<sup>18</sup>Ein zorniger Mann erregt Streit,
+aber wer langsam zum Zorn ist, beruhigt den Streit.
+<sup>19</sup>Der Weg des Faulen ist wie eine Dornenhecke,
+aber der Pfad der Aufrichtigen ist eine gebahnte Straße.
+<sup>20</sup>Ein weiser Sohn macht dem Vater Freude,
+aber ein törichter Mensch verachtet seine Mutter.
+<sup>21</sup>Torheit ist eine Freude für den, dem es an Weisheit fehlt,
+aber ein verständiger Mann hält seinen Weg gerade.
+<sup>22</sup>Wo kein Rat ist, scheitern die Pläne,
+aber wo viele Ratgeber sind, kommen sie zustande.
+<sup>23</sup>Ein Mensch hat Freude an der Antwort seines Mundes.
+Wie gut ist ein Wort zur rechten Zeit!
+
+> **Was bedeutet das?**
+> Vers 16–17: Was macht wirklich glücklich? Nicht teures Essen oder viel Geld. Ein einfaches Essen mit Menschen, die sich lieben, ist besser als ein Festmahl voller Streit.
+> Vers 19: Für den Faulen ist alles schwer, als ob Dornen im Weg wären. Wer aufrichtig lebt, kommt gut voran.
+> Vers 22: Große Entscheidungen sollte man nicht allein treffen. Hol dir guten Rat!
+> Vers 23: Das richtige Wort im richtigen Moment ist ein großes Geschenk.
+
+---
+
+### Gott hört das Gebet (Vers 24–33)
+
+<sup>24</sup>Der Pfad des Lebens führt den Weisen nach oben,
+damit er nicht hinab ins Totenreich geht.
+<sup>25</sup>Der HERR reißt das Haus der Hochmütigen nieder,
+aber die Grenze der Witwe erhält er.
+<sup>26</sup>Der HERR verabscheut die Gedanken der Gottlosen,
+aber die Gedanken der Reinen gefallen ihm.
+<sup>27</sup>Wer gierig nach Gewinn ist, bringt sein eigenes Haus in Unruhe,
+aber wer Bestechung hasst, wird leben.
+<sup>28</sup>Das Herz des Gerechten überlegt, was es antworten soll,
+aber der Mund der Gottlosen sprudelt Böses hervor.
+<sup>29</sup>Der HERR ist fern von den Gottlosen,
+aber er hört das Gebet der Gerechten.
+<sup>30</sup>Das Leuchten der Augen erfreut das Herz.
+Eine gute Nachricht gibt den Knochen Gesundheit.
+<sup>31</sup>Das Ohr, das auf Zurechtweisung hört, lebt
+und wird unter den Weisen zu Hause sein.
+<sup>32</sup>Wer Erziehung ablehnt, verachtet sein eigenes Leben,
+aber wer auf Tadel hört, gewinnt Verstand.
+<sup>33</sup>Die Ehrfurcht vor dem HERRN lehrt Weisheit.
+Vor der Ehre kommt die Demut.
+
+> **Was bedeutet das?**
+> Vers 25: Witwen hatten damals oft keinen Schutz. Mächtige versuchten, ihnen Land wegzunehmen, indem sie die Grenzsteine versetzten. Gott selbst schützt die Grenze der Witwe. Er steht auf der Seite der Schwachen.
+> Vers 27: Bestechung zerstört. Wer sie ablehnt, lebt gut.
+> Vers 28: Ein guter Rat: Erst denken, dann reden.
+> Vers 30: Ein strahlendes Gesicht und gute Nachrichten tun Leib und Seele gut.
+> Vers 33: „Vor der Ehre kommt die Demut“: Wer sich selbst nicht so wichtig nimmt, wird am Ende geehrt.
+
+## Sprüche – Kapitel 16
+#### Der Mensch denkt, Gott lenkt
+
+---
+
+### Befiehl dem HERRN deine Werke (Vers 1–9)
+
+<sup>1</sup>Die Pläne des Herzens gehören dem Menschen,
+aber die Antwort der Zunge kommt vom HERRN.
+<sup>2</sup>Alle Wege eines Menschen sind rein in seinen eigenen Augen,
+aber der HERR prüft die Beweggründe.
+<sup>3</sup>Befiehl dem HERRN deine Werke,
+dann werden deine Pläne gelingen.
+<sup>4</sup>Der HERR hat alles für seinen Zweck gemacht,
+ja, sogar den Gottlosen für den Tag des Unheils.
+<sup>5</sup>Jeder, der hochmütigen Herzens ist, ist dem HERRN ein Gräuel.
+Sie werden gewiss nicht ungestraft bleiben.
+<sup>6</sup>Durch Güte und Treue wird Schuld gesühnt.
+Durch die Ehrfurcht vor dem HERRN meidet man das Böse.
+<sup>7</sup>Wenn die Wege eines Menschen dem HERRN gefallen,
+dann lässt er sogar seine Feinde mit ihm Frieden schließen.
+<sup>8</sup>Besser wenig mit Gerechtigkeit
+als großes Einkommen mit Unrecht.
+<sup>9</sup>Das Herz des Menschen plant seinen Weg,
+aber der HERR lenkt seine Schritte.
+
+> **Was bedeutet das?**
+> Vers 1 und 9 sind die Grundlage des Sprichworts „Der Mensch denkt, Gott lenkt“. Wir dürfen planen. Aber am Ende hat Gott das letzte Wort.
+> Vers 2: Wir halten uns oft selbst für gut. Gott schaut tiefer, auf unsere wahren Beweggründe.
+> Vers 3: „Befiehl“ heißt: Leg es in Gottes Hände, vertrau es ihm an.
+> Vers 4: Dieser Vers ist schwierig. Er heißt nicht, dass Gott Menschen böse gemacht hat. Er sagt: Nichts liegt außerhalb von Gottes Plan. Auch das Böse wird am Ende seinem Gericht nicht entkommen.
+> Vers 6: Schuld wird nicht durch Opfer allein weggenommen, sondern durch Güte und Treue, durch Gottes Gnade und durch ein verändertes Leben.
+
+---
+
+### Der gerechte König (Vers 10–15)
+
+<sup>10</sup>Göttliche Entscheidungen sind auf den Lippen des Königs.
+Sein Mund soll beim Urteil nicht treulos sein.
+<sup>11</sup>Ehrliche Waagen und Waagschalen gehören dem HERRN.
+Alle Gewichte im Beutel sind sein Werk.
+<sup>12</sup>Es ist für Könige ein Gräuel, Unrecht zu tun,
+denn der Thron wird durch Gerechtigkeit gefestigt.
+<sup>13</sup>Gerechte Lippen gefallen den Königen.
+Sie schätzen den, der die Wahrheit sagt.
+<sup>14</sup>Der Zorn des Königs ist ein Bote des Todes,
+aber ein weiser Mann wird ihn besänftigen.
+<sup>15</sup>Im Licht des Angesichts des Königs ist Leben.
+Seine Gunst ist wie eine Wolke mit Frühlingsregen.
+
+> **Was bedeutet das?**
+> Diese Sprüche handeln vom König, von denen, die Macht haben. Ein guter Herrscher soll gerecht urteilen und ehrliche Menschen schätzen.
+> Vers 11: Auch ehrliche Maße und Gewichte sind Gottes Sache. Gerechtigkeit im Handel ist ihm wichtig.
+> Vers 12: Macht hat nur Bestand, wenn sie gerecht ist. Das ist bis heute ein Maßstab für jede Regierung.
+> Vers 15: Der Frühlingsregen war im Land Israel wichtig für die Ernte. So lebenswichtig ist ein gerechter Herrscher.
+
+---
+
+### Hochmut kommt vor dem Fall (Vers 16–24)
+
+<sup>16</sup>Wie viel besser ist es, Weisheit zu erwerben als Gold!
+Ja, Einsicht zu erwerben ist besser als Silber.
+<sup>17</sup>Die gebahnte Straße der Aufrichtigen ist, das Böse zu meiden.
+Wer auf seinen Weg achtet, bewahrt sein Leben.
+<sup>18</sup>Hochmut kommt vor dem Zusammenbruch
+und ein stolzer Geist vor dem Fall.
+<sup>19</sup>Es ist besser, demütig zu sein mit den Armen,
+als Beute zu teilen mit den Hochmütigen.
+<sup>20</sup>Wer auf das Wort achtet, findet Glück.
+Glücklich ist, wer auf den HERRN vertraut.
+<sup>21</sup>Wer ein weises Herz hat, wird verständig genannt.
+Freundliche Lippen fördern die Lehre.
+<sup>22</sup>Einsicht ist eine Quelle des Lebens für den, der sie hat,
+aber die Strafe der Toren ist ihre Torheit.
+<sup>23</sup>Das Herz des Weisen lehrt seinen Mund
+und fügt seinen Lippen Lehre hinzu.
+<sup>24</sup>Freundliche Worte sind eine Honigwabe,
+süß für die Seele und Gesundheit für die Knochen.
+
+> **Was bedeutet das?**
+> Vers 18: Daher kommt das deutsche Sprichwort „Hochmut kommt vor dem Fall“.
+> Vers 19: Lieber bescheiden bei den Armen als reich bei den Angebern.
+> Vers 21: Wer freundlich lehrt, wird gern gehört.
+> Vers 24: Freundliche Worte sind süß wie Honig. Sie tun der Seele gut und sogar dem Körper.
+
+---
+
+### Der Langmütige ist besser als ein Held (Vers 25–33)
+
+<sup>25</sup>Es gibt einen Weg, der einem Menschen richtig erscheint,
+aber am Ende führt er zum Tod.
+<sup>26</sup>Der Hunger des Arbeiters arbeitet für ihn,
+denn sein Mund treibt ihn an.
+<sup>27</sup>Ein nichtsnutziger Mensch gräbt Unheil aus.
+Seine Rede ist wie ein brennendes Feuer.
+<sup>28</sup>Ein verdrehter Mensch erregt Streit.
+Ein Verleumder trennt enge Freunde.
+<sup>29</sup>Ein gewalttätiger Mensch verführt seinen Nächsten
+und führt ihn auf einen Weg, der nicht gut ist.
+<sup>30</sup>Wer mit den Augen zwinkert, um Verkehrtes zu planen,
+wer die Lippen zusammenpresst, ist auf Böses aus.
+<sup>31</sup>Graues Haar ist eine herrliche Krone.
+Man erlangt sie durch ein Leben in Gerechtigkeit.
+<sup>32</sup>Wer langsam zum Zorn ist, ist besser als ein Held,
+wer sich selbst beherrscht, besser als einer, der eine Stadt erobert.
+<sup>33</sup>Das Los wird in den Schoß geworfen,
+aber jede Entscheidung kommt vom HERRN.
+
+> **Was bedeutet das?**
+> Vers 25 ist eine Wiederholung von Kapitel 14,12. Manche Sprüche kommen zweimal vor, weil sie besonders wichtig sind.
+> Vers 26: Hunger treibt einen Menschen zur Arbeit an.
+> Vers 28: Wer Gerüchte und Klatsch verbreitet, kann sogar beste Freunde auseinanderbringen.
+> Vers 31: Alte Menschen verdienen Respekt. Ihre grauen Haare sind wie eine Krone.
+> Vers 32: Wahre Stärke ist Selbstbeherrschung. Wer seinen Zorn im Griff hat, ist stärker als ein Kriegsheld.
+> Vers 33: Damals traf man manche Entscheidungen durch das Los, eine Art Würfeln. Der Spruch sagt: Auch was wie Zufall aussieht, liegt in Gottes Hand.
+
+## Sprüche – Kapitel 17
+#### Ein Freund liebt zu jeder Zeit
+
+---
+
+### Lieber trockenes Brot in Frieden (Vers 1–6)
+
+<sup>1</sup>Besser ein trockener Bissen mit Ruhe
+als ein Haus voller Festessen mit Streit.
+<sup>2</sup>Ein Diener, der klug handelt, wird über einen Sohn herrschen, der Schande bringt,
+und wird unter den Brüdern einen Anteil am Erbe bekommen.
+<sup>3</sup>Der Schmelztiegel ist für Silber und der Ofen für Gold,
+aber der HERR prüft die Herzen.
+<sup>4</sup>Ein Übeltäter hört auf böse Lippen.
+Ein Lügner leiht einer verderblichen Zunge sein Ohr.
+<sup>5</sup>Wer den Armen verspottet, verhöhnt seinen Schöpfer.
+Wer sich über Unglück freut, wird nicht ungestraft bleiben.
+<sup>6</sup>Kindeskinder sind die Krone der Alten,
+und der Stolz der Kinder sind ihre Eltern.
+
+> **Was bedeutet das?**
+> Vers 1: Frieden ist wichtiger als Luxus (vgl. Kapitel 15,17).
+> Vers 2: Klugheit zählt mehr als Herkunft. Ein kluger Diener kann es weiter bringen als ein Sohn, der nichts taugt.
+> Vers 3: Metall wird im Feuer geprüft, ob es echt ist. So prüft Gott, was in unseren Herzen ist.
+> Vers 5: Wer über Arme lacht oder sich freut, wenn es anderen schlecht geht, beleidigt Gott, der jeden Menschen geschaffen hat.
+> Vers 6: Großeltern freuen sich an ihren Enkeln, und Kinder sind stolz auf ihre Eltern. Ein schönes Bild von mehreren Generationen.
+
+---
+
+### Liebe deckt Vergehen zu (Vers 7–14)
+
+<sup>7</sup>Edle Rede passt nicht zu einem Toren,
+noch viel weniger lügnerische Lippen zu einem Fürsten.
+<sup>8</sup>Ein Bestechungsgeschenk ist ein Edelstein in den Augen dessen, der es gibt.
+Wohin er sich wendet, hat er Erfolg.
+<sup>9</sup>Wer ein Vergehen zudeckt, fördert die Liebe,
+aber wer eine Sache immer wieder aufrührt, trennt die besten Freunde.
+<sup>10</sup>Ein Tadel dringt tiefer in einen Verständigen ein
+als hundert Schläge in einen Toren.
+<sup>11</sup>Ein böser Mensch sucht nur Aufruhr.
+Darum wird ein grausamer Bote gegen ihn gesandt.
+<sup>12</sup>Lieber einer Bärin begegnen, der man die Jungen geraubt hat,
+als einem Toren in seiner Torheit.
+<sup>13</sup>Wer Gutes mit Bösem vergilt,
+von dessen Haus wird das Böse nicht weichen.
+<sup>14</sup>Der Anfang eines Streits ist wie ein Dammbruch.
+Darum hör mit dem Zank auf, bevor der Streit ausbricht.
+
+> **Was bedeutet das?**
+> Vers 8: Eine nüchterne Beobachtung: Wer besticht, glaubt, mit Geld alles erreichen zu können. Der Spruch lobt das nicht. An anderen Stellen wird Bestechung klar verurteilt (Vers 23).
+> Vers 9: Wer einem Freund einen Fehler verzeiht und nicht immer wieder davon anfängt, bewahrt die Freundschaft.
+> Vers 10: Ein kluger Mensch lernt schon aus einem Wort. Ein Tor lernt nicht einmal aus harten Folgen.
+> Vers 12: Ein lustiger, drastischer Vergleich: Eine wütende Bärenmutter ist weniger gefährlich als ein Dummkopf, der Unsinn macht.
+> Vers 14: Ein Streit ist wie ein kleines Loch in einem Damm. Am Anfang kann man es noch stopfen. Später bricht alles durch. Darum: Hör früh auf zu streiten!
+
+---
+
+### Ein Freund liebt zu jeder Zeit (Vers 15–22)
+
+<sup>15</sup>Wer den Schuldigen freispricht und wer den Gerechten verurteilt,
+beide sind dem HERRN ein Gräuel.
+<sup>16</sup>Wozu hat ein Tor Geld in der Hand, um Weisheit zu kaufen,
+wenn er doch keinen Verstand hat?
+<sup>17</sup>Ein Freund liebt zu jeder Zeit,
+und ein Bruder ist für die Not geboren.
+<sup>18</sup>Ein Mensch ohne Verstand schlägt mit Handschlag ein
+und wird Bürge vor seinem Nächsten.
+<sup>19</sup>Wer Ungehorsam liebt, liebt Streit.
+Wer sein Tor hoch baut, sucht den Einsturz.
+<sup>20</sup>Wer ein verdrehtes Herz hat, findet kein Glück,
+und wer eine falsche Zunge hat, gerät ins Unglück.
+<sup>21</sup>Wer einen Toren zum Sohn hat, hat Kummer.
+Der Vater eines Toren hat keine Freude.
+<sup>22</sup>Ein fröhliches Herz ist eine gute Medizin,
+aber ein zerschlagener Geist trocknet die Knochen aus.
+
+> **Was bedeutet das?**
+> Vers 15: Ein Satz für jede Justiz: Unschuldige verurteilen und Schuldige freisprechen ist vor Gott gleich schlimm.
+> Vers 16: Weisheit kann man nicht kaufen, wenn man nicht lernen will.
+> Vers 17 ist ein wunderbarer Satz über Freundschaft: Ein echter Freund ist immer da, nicht nur in guten Zeiten. Und Geschwister sind besonders in der Not füreinander da.
+> Vers 19: „Sein Tor hoch bauen“: angeben, sich über andere erheben. Das führt zum Absturz.
+> Vers 22: „Ein fröhliches Herz ist eine gute Medizin“: Die Medizin weiß heute, dass Freude und Lachen gut für die Gesundheit sind.
+
+---
+
+### Schweigen ist klug (Vers 23–28)
+
+<sup>23</sup>Ein Gottloser nimmt heimlich Bestechung an,
+um die Wege des Rechts zu verbiegen.
+<sup>24</sup>Der Verständige hat die Weisheit vor Augen,
+aber die Augen des Toren schweifen bis ans Ende der Erde.
+<sup>25</sup>Ein törichter Sohn bringt seinem Vater Kummer
+und Bitterkeit der Mutter, die ihn geboren hat.
+<sup>26</sup>Auch den Gerechten zu bestrafen ist nicht gut,
+noch Beamte wegen ihrer Redlichkeit auszupeitschen.
+<sup>27</sup>Wer seine Worte zurückhält, hat Erkenntnis.
+Wer einen ruhigen Geist hat, ist ein verständiger Mann.
+<sup>28</sup>Sogar ein Tor gilt als weise, wenn er schweigt.
+Wenn er seine Lippen schließt, hält man ihn für verständig.
+
+> **Was bedeutet das?**
+> Vers 23: Bestechung verbiegt das Recht. Das ist Korruption.
+> Vers 24: Der Kluge schaut auf das, was vor ihm liegt. Der Tor träumt von fernen Dingen und sieht das Naheliegende nicht.
+> Vers 26: Wer ehrlich ist, darf dafür nicht bestraft werden. Das gilt auch für Menschen, die Missstände aufdecken.
+> Vers 28: Ein humorvoller Schluss: Wer schweigt, wirkt klug, auch wenn er es vielleicht nicht ist. Manchmal ist es besser, nichts zu sagen.
