@@ -29,7 +29,7 @@ Macht Bahn dem, der auf den Wolken fährt:
 Jah ist sein Name! Freut euch vor ihm!
 [5] Ein Vater der Waisen und ein Anwalt der Witwen
 ist Gott in seiner heiligen Wohnung.
-[6] Gott gibt den Einsamen ein Zuhause.
+[6] Gott lässt die Einsamen in Familien wohnen.
 Er führt die Gefangenen mit Gesang hinaus.
 Aber die Widerspenstigen wohnen im dürren Land.
 
@@ -37,7 +37,7 @@ Aber die Widerspenstigen wohnen im dürren Land.
 > „Der auf den Wolken fährt“: Die Nachbarvölker nannten ihren Gott Baal so. Der Psalm sagt: Nicht Baal, sondern unser Gott fährt auf den Wolken.
 > „Jah“ ist eine Kurzform des Gottesnamens JHWH. Man kennt sie aus dem Wort „Halleluja“ (= „Lobt Jah“).
 > Vers 5–6 ist ein wunderschönes Bild: Der große Gott kümmert sich besonders um die Schwächsten: Waisen, Witwen, Einsame, Gefangene. Er ist ihr Vater und Anwalt.
-> „Er gibt den Einsamen ein Zuhause“: wörtlich „ein Haus“, eine Familie.
+> „Er lässt die Einsamen in Familien wohnen“: wörtlich „er lässt sie in einem Haus wohnen“. Gott gibt ihnen ein Zuhause.
 > Vers 6: „Mit Gesang“: Viele deutsche Bibeln übersetzen hier „ins Glück“ oder „in die Freiheit“.
 
 ---
