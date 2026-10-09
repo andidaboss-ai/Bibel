@@ -64464,3 +64464,238 @@ Ihr Herz bereitet Betrug vor.“
 > „Fett“ war in der Bibel oft ein Bild für Wohlstand und Selbstzufriedenheit.
 > Manches davon ist wahr: Wer Böses tut, lebt oft in Angst. Aber Elifas macht daraus eine Regel, die immer gelten soll. Und er wendet sie auf einen Unschuldigen an.
 > Vers 35 ist ein starkes Bild: Die Bösen „gehen schwanger mit Unheil“. Das Böse wächst in ihnen wie ein Kind, bis es zur Welt kommt.
+
+## Hiob – Kapitel 16
+#### „Mein Zeuge ist im Himmel“
+
+---
+
+### Ihr seid leidige Tröster (Vers 1–5)
+
+<sup>1</sup>Da antwortete Hiob:
+<sup>2</sup>„Ich habe so etwas schon oft gehört.
+Ihr seid alle elende Tröster!
+<sup>3</sup>Sollen die leeren Worte ein Ende haben?
+Oder was reizt dich, dass du antwortest?
+<sup>4</sup>Auch ich könnte reden wie ihr,
+wenn eure Seele an der Stelle meiner Seele wäre.
+Ich könnte Worte gegen euch zusammenfügen
+und den Kopf über euch schütteln.
+<sup>5</sup>Aber ich würde euch mit meinem Mund stärken,
+und der Trost meiner Lippen würde euch erleichtern.
+
+> **Was bedeutet das?**
+> „Elende Tröster“ oder „leidige Tröster“: Dieser Ausdruck ist sprichwörtlich geworden. Er beschreibt Menschen, die trösten wollen, aber mit ihren Worten alles schlimmer machen.
+> Hiob sagt: Wenn ihr an meiner Stelle wärt, könnte ich auch so reden wie ihr. Aber ich würde es nicht tun. Ich würde euch trösten und stärken.
+> Das ist ein wichtiger Gedanke: Wie würde ich mich fühlen, wenn ich an der Stelle des Leidenden wäre? Diese Frage hilft, richtig zu trösten (vgl. Matthäus 7,12).
+
+---
+
+### Gott hat mich angegriffen (Vers 6–17)
+
+<sup>6</sup>Wenn ich rede, wird mein Schmerz nicht gelindert.
+Und wenn ich schweige, was geht dann von mir weg?
+<sup>7</sup>Aber jetzt, Gott, hast du mich gewiss erschöpft.
+Du hast meine ganze Gemeinschaft verwüstet.
+<sup>8</sup>Du hast mich zusammenschrumpfen lassen. Das ist ein Zeuge gegen mich.
+Meine Magerkeit steht gegen mich auf.
+Sie bezeugt es mir ins Gesicht.
+<sup>9</sup>Er hat mich zerrissen in seinem Zorn und mich verfolgt.
+Er hat mit seinen Zähnen gegen mich geknirscht.
+Mein Gegner schärft seine Augen gegen mich.
+<sup>10</sup>Sie haben ihren Mund gegen mich aufgerissen.
+Sie haben mich verächtlich auf die Wange geschlagen.
+Sie rotten sich gegen mich zusammen.
+<sup>11</sup>Gott liefert mich den Ungerechten aus
+und wirft mich in die Hände der Gottlosen.
+<sup>12</sup>Ich lebte in Ruhe, und er hat mich zerschmettert.
+Ja, er hat mich beim Nacken gepackt und mich zerschlagen.
+Er hat mich auch als seine Zielscheibe aufgestellt.
+<sup>13</sup>Seine Bogenschützen umringen mich.
+Er spaltet meine Nieren und schont nicht.
+Er schüttet meine Galle auf die Erde.
+<sup>14</sup>Er bricht in mich ein, Bresche um Bresche.
+Er rennt gegen mich an wie ein Kriegsheld.
+<sup>15</sup>Ich habe Sacktuch auf meine Haut genäht
+und mein Horn in den Staub gestoßen.
+<sup>16</sup>Mein Gesicht ist rot vom Weinen,
+und tiefe Finsternis liegt auf meinen Augenlidern,
+<sup>17</sup>obwohl keine Gewalt in meinen Händen ist
+und mein Gebet rein ist.
+
+> **Was bedeutet das?**
+> Hiob beschreibt sein Leid in starken Bildern: Gott ist wie ein wildes Tier, das ihn zerreißt. Wie ein Krieger, der ihn angreift. Wie ein Bogenschütze, der ihn als Zielscheibe benutzt. Wie ein Heer, das eine Stadtmauer durchbricht.
+> Auch die Menschen verspotten ihn und schlagen ihn auf die Wange.
+> „Das Horn in den Staub stoßen“: Das Horn ist ein Bild für Kraft und Ehre. Hiob hat alle Würde verloren.
+> Vers 17 ist der Kern: „Keine Gewalt ist in meinen Händen, mein Gebet ist rein.“ Hiob bleibt dabei: Ich bin unschuldig.
+> Manche Worte in Vers 10 erinnern Christen an die Leiden Jesu, der auch verspottet und geschlagen wurde, obwohl er unschuldig war (Matthäus 26,67).
+
+---
+
+### Mein Zeuge ist im Himmel (Vers 18–22)
+
+<sup>18</sup>Erde, bedecke mein Blut nicht,
+und mein Schrei soll keinen Ruheplatz finden!
+<sup>19</sup>Schon jetzt, schaut, ist mein Zeuge im Himmel,
+und der für mich bürgt, ist in der Höhe.
+<sup>20</sup>Meine Freunde spotten über mich.
+Meine Augen vergießen Tränen zu Gott,
+<sup>21</sup>dass er das Recht eines Mannes bei Gott verteidige,
+wie ein Mensch für seinen Nächsten.
+<sup>22</sup>Denn nur noch wenige Jahre,
+dann gehe ich den Weg, von dem ich nicht zurückkehre.
+
+> **Was bedeutet das?**
+> „Erde, bedecke mein Blut nicht“: Unschuldig vergossenes Blut schreit zum Himmel (vgl. Abel in 1. Mose 4,10). Hiob will, dass sein Schrei nicht verstummt, auch wenn er stirbt.
+> Vers 19 ist ein großer Glaubenssatz: „Mein Zeuge ist im Himmel.“ Mitten in der tiefsten Verzweiflung glaubt Hiob: Im Himmel ist jemand, der für mich eintritt. In Kapitel 9,33 hatte er sich einen Schiedsrichter gewünscht. Jetzt sagt er: Es gibt ihn!
+> Wer ist dieser Zeuge? Vielleicht Gott selbst. Dann würde Hiob an Gott gegen Gott appellieren: an den Gott, der gerecht ist, gegen den Gott, der ihn scheinbar quält.
+> Vers 21: Er soll „das Recht eines Mannes bei Gott verteidigen“, wie ein Anwalt.
+> Christen sehen hier einen Hinweis auf Jesus, der „für uns eintritt“ bei Gott (Römer 8,34; Hebräer 7,25; 1. Johannes 2,1).
+
+## Hiob – Kapitel 17
+#### „Wo ist dann meine Hoffnung?“
+
+---
+
+### Bürge du für mich! (Vers 1–5)
+
+<sup>1</sup>„Mein Geist ist verzehrt,
+meine Tage sind erloschen,
+das Grab ist für mich bereit.
+<sup>2</sup>Gewiss, Spötter sind bei mir,
+und mein Auge muss ihre Kränkungen ansehen.
+<sup>3</sup>Gib doch ein Pfand! Bürge du selbst für mich bei dir!
+Wer sonst wird mir die Hand darauf geben?
+<sup>4</sup>Denn du hast ihr Herz vor der Einsicht verschlossen.
+Darum wirst du sie nicht erhöhen.
+<sup>5</sup>Wer seine Freunde um eines Vorteils willen anzeigt,
+dessen Kinder werden die Augen verschmachten.
+
+> **Was bedeutet das?**
+> Hiob fühlt den Tod nahe.
+> Vers 3 ist erstaunlich: Hiob bittet Gott, selbst für ihn zu bürgen, bei Gott! Er hat niemand anderen, der für ihn einsteht. Seine Freunde helfen ihm nicht. Also wendet er sich an Gott selbst.
+> „Die Hand darauf geben“ war eine Geste, mit der man eine Bürgschaft besiegelte.
+> Vers 5 ist wohl ein Sprichwort: Wer seine Freunde verrät, um selbst einen Vorteil zu haben, wird bestraft. Hiob meint damit wohl seine Freunde.
+
+---
+
+### Zum Gespött geworden (Vers 6–10)
+
+<sup>6</sup>Aber er hat mich zum Gespött der Leute gemacht.
+Man spuckt mir ins Gesicht.
+<sup>7</sup>Mein Auge ist trüb geworden vor Kummer,
+und alle meine Glieder sind wie ein Schatten.
+<sup>8</sup>Aufrichtige werden darüber entsetzt sein,
+und der Unschuldige wird sich gegen den Gottlosen erheben.
+<sup>9</sup>Doch der Gerechte wird an seinem Weg festhalten,
+und wer reine Hände hat, wird immer stärker werden.
+<sup>10</sup>Aber ihr alle, kommt nur wieder her!
+Ich werde keinen Weisen unter euch finden.
+
+> **Was bedeutet das?**
+> Hiob ist so abgemagert, dass er nur noch ein Schatten seiner selbst ist. Die Leute spucken ihm ins Gesicht.
+> Vers 9 ist ein Lichtblick: „Der Gerechte wird an seinem Weg festhalten, und wer reine Hände hat, wird immer stärker.“ Das ist ein Bekenntnis, das Hiob auch für sich selbst gilt. Er gibt nicht auf.
+> Vers 10: Hiob fordert seine Freunde heraus: Kommt nur, redet weiter, aber Weisheit habt ihr keine.
+
+---
+
+### Wo ist meine Hoffnung? (Vers 11–16)
+
+<sup>11</sup>Meine Tage sind vorbei.
+Meine Pläne sind zerrissen,
+auch die Wünsche meines Herzens.
+<sup>12</sup>Sie machen die Nacht zum Tag.
+‚Das Licht ist nahe‘, sagen sie angesichts der Finsternis.
+<sup>13</sup>Wenn ich auf das Totenreich als mein Haus hoffe,
+wenn ich mein Lager in der Finsternis ausgebreitet habe,
+<sup>14</sup>wenn ich zur Verwesung gesagt habe: ‚Du bist mein Vater‘,
+und zum Wurm: ‚Meine Mutter‘ und ‚Meine Schwester‘,
+<sup>15</sup>wo ist dann meine Hoffnung?
+Und meine Hoffnung – wer wird sie sehen?
+<sup>16</sup>Wird sie mit mir zu den Toren des Totenreichs hinabsteigen,
+oder werden wir zusammen in den Staub hinabfahren?“
+
+> **Was bedeutet das?**
+> Vers 12: Die Freunde wollen Hiob einreden, alles würde bald gut. „Das Licht ist nahe!“ Aber Hiob sieht nur Finsternis. Falscher Optimismus hilft Leidenden nicht.
+> Vers 13–14 ist sehr dunkel: Das Grab ist sein Haus, die Verwesung sein Vater, der Wurm seine Mutter und Schwester. Er hat keine andere Familie mehr.
+> Vers 15: „Wo ist dann meine Hoffnung?“ Das ist die Frage des ganzen Buches. Wird die Hoffnung mit ihm ins Grab gehen?
+> Das Kapitel endet ohne Antwort. Aber gerade das ist ehrlich. Manchmal hat man keine Antwort. Und trotzdem stellt Hiob die Frage, und er stellt sie Gott.
+> Wer selbst so verzweifelt ist: Die Telefonseelsorge ist rund um die Uhr kostenlos erreichbar: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+## Hiob – Kapitel 18
+#### Bildads zweite Rede: Das Ende des Gottlosen
+
+---
+
+### Hör auf, nach Worten zu jagen (Vers 1–4)
+
+<sup>1</sup>Da antwortete Bildad, der Schuachiter:
+<sup>2</sup>„Wie lange wollt ihr noch Jagd auf Worte machen?
+Denkt nach, und danach wollen wir reden.
+<sup>3</sup>Warum werden wir wie Vieh angesehen,
+das in euren Augen unrein geworden ist?
+<sup>4</sup>Du, der sich selbst zerreißt in seinem Zorn:
+Soll deinetwegen die Erde verlassen werden?
+Oder soll der Fels von seiner Stelle gerückt werden?
+
+> **Was bedeutet das?**
+> Bildad ist beleidigt. Hiob hatte gesagt, unter ihnen sei kein Weiser. Bildad fragt: Hältst du uns für dumme Tiere?
+> Vers 4 ist spöttisch: Glaubst du, die ganze Weltordnung wird sich deinetwegen ändern? Die Regel „Wer leidet, ist schuldig“ ist so fest wie ein Fels. Die wird nicht wegen dir umgestoßen.
+
+---
+
+### Die Fallen des Gottlosen (Vers 5–10)
+
+<sup>5</sup>Ja, das Licht des Gottlosen wird ausgelöscht,
+und der Funke seines Feuers wird nicht leuchten.
+<sup>6</sup>Das Licht in seinem Zelt wird dunkel,
+und seine Lampe über ihm erlischt.
+<sup>7</sup>Seine kräftigen Schritte werden verkürzt,
+und sein eigener Rat bringt ihn zu Fall.
+<sup>8</sup>Denn durch seine eigenen Füße gerät er ins Netz,
+und er läuft in die Maschen.
+<sup>9</sup>Eine Schlinge packt ihn an der Ferse.
+Eine Falle hält ihn fest.
+<sup>10</sup>Ein Strick ist für ihn im Boden versteckt
+und eine Falle für ihn auf dem Weg.
+
+> **Was bedeutet das?**
+> Bildad beschreibt, wie es dem Gottlosen ergeht. Sein Licht erlischt, er gerät in Fallen.
+> Sechs verschiedene Wörter für Fallen und Netze: Der Gottlose ist überall von Gefahren umgeben, die er sich selbst gestellt hat.
+> Das ist eine bekannte Weisheit: Wer Böses plant, fällt oft selbst hinein (vgl. Psalm 7,16; Sprüche 26,27). Aber Bildad wendet sie wieder auf Hiob an.
+
+---
+
+### Der König der Schrecken (Vers 11–21)
+
+<sup>11</sup>Schrecken werden ihn ringsum ängstigen
+und ihn auf Schritt und Tritt verfolgen.
+<sup>12</sup>Seine Kraft wird hungern,
+und das Unglück steht bereit an seiner Seite.
+<sup>13</sup>Die Glieder seines Körpers werden verzehrt.
+Der Erstgeborene des Todes wird seine Glieder fressen.
+<sup>14</sup>Er wird aus der Sicherheit seines Zeltes herausgerissen
+und zum König der Schrecken gebracht.
+<sup>15</sup>In seinem Zelt wird wohnen, was ihm nicht gehört.
+Schwefel wird über seine Wohnung gestreut.
+<sup>16</sup>Unten verdorren seine Wurzeln,
+und oben wird sein Zweig abgeschnitten.
+<sup>17</sup>Die Erinnerung an ihn verschwindet von der Erde,
+und er hat keinen Namen mehr auf der Straße.
+<sup>18</sup>Er wird aus dem Licht in die Finsternis gestoßen
+und aus der Welt verjagt.
+<sup>19</sup>Er wird weder Sohn noch Enkel unter seinem Volk haben,
+und niemand bleibt übrig, wo er gewohnt hat.
+<sup>20</sup>Die nach ihm kommen, werden sich über seinen Tag entsetzen,
+wie die vor ihm erschrocken waren.
+<sup>21</sup>So geht es gewiss den Wohnungen der Ungerechten,
+und das ist der Ort dessen, der Gott nicht kennt.“
+
+> **Was bedeutet das?**
+> Bildads Rede ist grausam, wenn man an Hiob denkt:
+> – „Die Glieder seines Körpers werden verzehrt“: Genau das erlebt Hiob mit seiner Krankheit.
+> – „Er wird weder Sohn noch Enkel haben“: Hiob hat alle seine Kinder verloren.
+> – „Schwefel über seine Wohnung“: Wie bei Hiob, als „Feuer Gottes vom Himmel fiel“ (Kapitel 1,16).
+> Bildad sagt es nicht direkt, aber jeder Satz zielt auf Hiob. Am Ende schließt er: So geht es dem, „der Gott nicht kennt“. Das ist eine ungeheure Anklage gegen einen Mann, den Gott selbst als untadelig bezeichnet hat.
+> „Der Erstgeborene des Todes“ ist wohl eine tödliche Krankheit. „Der König der Schrecken“ ist der Tod selbst.
+> Diese Rede zeigt, wie gefährlich es ist, eine richtige Lehre falsch anzuwenden. Bildad redet von Gott und verletzt dabei einen Menschen zutiefst.
