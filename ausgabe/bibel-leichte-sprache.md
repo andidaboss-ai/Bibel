@@ -72225,3 +72225,389 @@ und seine Güte nicht von mir abgewandt hat!
 > Wer Gottes Hilfe erfahren hat, möchte anderen davon erzählen.
 > Vers 18: Wer bewusst an einer Sünde festhält und nicht davon lassen will, dessen Gebet ist nicht ehrlich. Das heißt nicht, dass nur perfekte Menschen beten dürfen. Es heißt: Man soll vor Gott ehrlich sein.
 > Vers 20: Der Psalm endet mit Dank: Gott hat mein Gebet nicht abgewiesen.
+
+## Psalm 67
+#### Alle Völker sollen dich loben
+
+---
+
+### Gott sei uns gnädig (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten. Ein Psalm. Ein Lied.
+Gott sei uns gnädig und segne uns!
+Er lasse sein Angesicht über uns leuchten.
+Sela.
+<sup>2</sup>Damit man auf der Erde deinen Weg erkennt
+und unter allen Völkern deine Rettung.
+<sup>3</sup>Die Völker sollen dich loben, Gott.
+Alle Völker sollen dich loben.
+
+> **Was bedeutet das?**
+> Vers 1 greift den Segen auf, den die Priester über Israel sprachen: „Der HERR segne dich … er lasse sein Angesicht leuchten über dir“ (4. Mose 6,24–26).
+> Aber der Psalm geht weiter: Israel wird nicht nur für sich selbst gesegnet, sondern damit alle Völker Gott kennenlernen. Der Segen soll weitergegeben werden (vgl. 1. Mose 12,2–3).
+
+---
+
+### Freuen sollen sich die Völker (Vers 4–5)
+
+<sup>4</sup>Ach, die Nationen sollen sich freuen und jubeln,
+denn du richtest die Völker gerecht
+und leitest die Nationen auf der Erde.
+Sela.
+<sup>5</sup>Die Völker sollen dich loben, Gott.
+Alle Völker sollen dich loben.
+
+> **Was bedeutet das?**
+> Gott ist ein gerechter Richter und guter Hirte für alle Völker. Das ist ein Grund zur Freude für die ganze Welt.
+> Vers 5 wiederholt Vers 3 als Kehrvers.
+
+---
+
+### Die Erde gibt ihren Ertrag (Vers 6–7)
+
+<sup>6</sup>Die Erde hat ihren Ertrag gegeben.
+Gott, unser Gott, wird uns segnen.
+<sup>7</sup>Gott wird uns segnen.
+Alle Enden der Erde sollen ihn fürchten.
+
+> **Was bedeutet das?**
+> Psalm 67 ist ein Erntedanklied. Die Ernte ist ein sichtbares Zeichen für Gottes Segen.
+> Am Ende steht wieder die ganze Welt: „Alle Enden der Erde“ sollen Gott ehren.
+> Dieser kurze Psalm wird in vielen Gottesdiensten als Segensgebet gesprochen.
+
+## Psalm 68
+#### Gott zieht ein in sein Heiligtum
+
+---
+
+### Gott steht auf (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David. Ein Lied.
+Gott steht auf! Seine Feinde werden zerstreut!
+Die ihn hassen, fliehen vor ihm.
+<sup>2</sup>Wie Rauch verweht wird, so vertreibst du sie.
+Wie Wachs vor dem Feuer schmilzt,
+so kommen die Gottlosen vor Gottes Angesicht um.
+<sup>3</sup>Aber die Gerechten sollen sich freuen.
+Sie sollen jubeln vor Gott.
+Ja, sie sollen sich freuen in Fröhlichkeit.
+
+> **Was bedeutet das?**
+> Psalm 68 ist einer der schwierigsten Psalmen. Viele Verse sind im Hebräischen schwer zu verstehen. Die Übersetzungen weichen oft voneinander ab.
+> Er beschreibt einen großen Festzug: Gott zieht vom Sinai durch die Wüste bis in sein Heiligtum in Jerusalem.
+> Vers 1 greift den Ruf auf, mit dem die Bundeslade aufbrach: „Steh auf, HERR, deine Feinde sollen zerstreut werden!“ (4. Mose 10,35).
+
+---
+
+### Vater der Waisen (Vers 4–6)
+
+<sup>4</sup>Singt Gott! Singt seinem Namen Lob!
+Macht Bahn dem, der auf den Wolken fährt:
+Jah ist sein Name! Freut euch vor ihm!
+<sup>5</sup>Ein Vater der Waisen und ein Anwalt der Witwen
+ist Gott in seiner heiligen Wohnung.
+<sup>6</sup>Gott gibt den Einsamen ein Zuhause.
+Er führt die Gefangenen mit Gesang hinaus.
+Aber die Widerspenstigen wohnen im dürren Land.
+
+> **Was bedeutet das?**
+> „Der auf den Wolken fährt“: Die Nachbarvölker nannten ihren Gott Baal so. Der Psalm sagt: Nicht Baal, sondern unser Gott fährt auf den Wolken.
+> „Jah“ ist eine Kurzform des Gottesnamens JHWH. Man kennt sie aus dem Wort „Halleluja“ (= „Lobt Jah“).
+> Vers 5–6 ist ein wunderschönes Bild: Der große Gott kümmert sich besonders um die Schwächsten: Waisen, Witwen, Einsame, Gefangene. Er ist ihr Vater und Anwalt.
+> „Er gibt den Einsamen ein Zuhause“: wörtlich „ein Haus“, eine Familie.
+> Vers 6: „Mit Gesang“: Viele deutsche Bibeln übersetzen hier „ins Glück“ oder „in die Freiheit“.
+
+---
+
+### Als du durch die Wüste zogst (Vers 7–10)
+
+<sup>7</sup>Gott, als du vor deinem Volk auszogst,
+als du durch die Wüste schrittest …
+Sela.
+<sup>8</sup>… da bebte die Erde.
+Auch der Himmel goss Regen herab vor dem Angesicht des Gottes vom Sinai,
+vor dem Angesicht Gottes, des Gottes Israels.
+<sup>9</sup>Du, Gott, hast reichlich Regen geschickt.
+Du hast dein Erbe gestärkt, als es erschöpft war.
+<sup>10</sup>Deine Gemeinde wohnte darin.
+Du, Gott, hast in deiner Güte für den Armen vorgesorgt.
+
+> **Was bedeutet das?**
+> Der Psalm erinnert an den Zug Israels durch die Wüste nach dem Auszug aus Ägypten und an die Gotteserscheinung am Berg Sinai, als die Erde bebte (2. Mose 19,18).
+> Vers 9–10: Im verheißenen Land schenkte Gott Regen und sorgte für die Armen.
+
+---
+
+### Könige fliehen (Vers 11–14)
+
+<sup>11</sup>Der Herr gab das Wort.
+Die es verkündeten, waren eine große Schar.
+<sup>12</sup>„Die Könige der Heere fliehen, sie fliehen!“
+Und die Frau, die zu Hause bleibt, verteilt die Beute,
+<sup>13</sup>während ihr zwischen den Lagerfeuern schlaft:
+Flügel einer Taube, mit Silber überzogen,
+und ihre Federn mit glänzendem Gold.
+<sup>14</sup>Als der Allmächtige dort Könige zerstreute,
+schneite es auf dem Zalmon.
+
+> **Was bedeutet das?**
+> Diese Verse sind besonders schwer zu verstehen.
+> Vers 11: „Die es verkündeten“: Im Hebräischen steht eine weibliche Form. Gemeint sind wohl Frauen, die die Siegesbotschaft verbreiteten, wie Mirjam (2. Mose 15,20) oder Debora (Richter 5).
+> Vers 12–13: Die Feinde fliehen. Die Frauen zu Hause verteilen die Beute. Die „Taube mit silbernen Flügeln“ ist vielleicht ein kostbares Beutestück oder ein Bild für Israel.
+> Vers 13: „Zwischen den Lagerfeuern“: Das hebräische Wort ist unsicher. Andere übersetzen „zwischen den Hürden“ oder „in den Viehställen“ (vgl. Richter 5,16).
+> Vers 14: Der Zalmon ist ein Berg. Vielleicht lagen die Waffen der Gefallenen weiß wie Schnee auf dem Berg. Oder es geht um ein wirkliches Schneewetter, das die Feinde verwirrte.
+
+---
+
+### Der Berg, den Gott erwählt hat (Vers 15–18)
+
+<sup>15</sup>Ein gewaltiges Gebirge ist das Gebirge Baschan.
+Ein zackiges Gebirge ist das Gebirge Baschan.
+<sup>16</sup>Warum schaut ihr neidisch, ihr zackigen Berge,
+auf den Berg, auf dem Gott regieren will?
+Ja, der HERR wird dort für immer wohnen.
+<sup>17</sup>Die Wagen Gottes sind zehntausendmal tausend und tausendmal tausend.
+Der Herr ist unter ihnen, vom Sinai in das Heiligtum.
+<sup>18</sup>Du bist in die Höhe hinaufgestiegen.
+Du hast Gefangene weggeführt.
+Du hast Gaben unter den Menschen empfangen,
+ja, auch unter den Widerspenstigen,
+damit Jah, Gott, dort wohnt.
+
+> **Was bedeutet das?**
+> Baschan ist ein hohes, beeindruckendes Gebirge im Nordosten (mit dem Hermon). Der Zion in Jerusalem ist viel kleiner. Aber Gott hat den kleinen Zion gewählt. Die großen Berge sind „neidisch“. Gott wählt oft das Kleine (vgl. 1. Korinther 1,27).
+> Vers 17: Gott kommt mit einem riesigen himmlischen Heer vom Sinai in sein Heiligtum.
+> Vers 18: Wie ein siegreicher König steigt Gott auf seinen Thron hinauf, mit Gefangenen und Geschenken.
+> Paulus zitiert Vers 18 in Epheser 4,8 und bezieht ihn auf die Himmelfahrt von Jesus. Er sagt dort aber „er gab den Menschen Gaben“ statt „er empfing Gaben“. So verstanden es auch alte jüdische Übersetzungen.
+
+---
+
+### Er trägt unsere Last (Vers 19–23)
+
+<sup>19</sup>Gepriesen sei der Herr, der täglich unsere Last trägt,
+der Gott, der unsere Rettung ist.
+Sela.
+<sup>20</sup>Gott ist für uns ein Gott der Rettung.
+Beim HERRN, dem Herrn, gibt es Entrinnen vor dem Tod.
+<sup>21</sup>Aber Gott wird den Kopf seiner Feinde zerschmettern,
+den haarigen Scheitel dessen, der in seiner Schuld weitergeht.
+<sup>22</sup>Der Herr sprach: „Ich will sie aus Baschan zurückbringen,
+ich will sie aus den Tiefen des Meeres zurückbringen,
+<sup>23</sup>damit du sie zermalmst und deinen Fuß in Blut tauchst
+und die Zungen deiner Hunde ihren Anteil an deinen Feinden bekommen.“
+
+> **Was bedeutet das?**
+> Vers 19 ist einer der schönsten Verse des Psalms: „Gepriesen sei der Herr, der täglich unsere Last trägt.“ Gott hilft uns jeden Tag.
+> Vers 20: Gott kann sogar vor dem Tod retten.
+> Vers 21–23 sind sehr hart. Es geht um Feinde, die nicht von ihrer Schuld lassen. Gott sagt: Sie können sich nirgends verstecken, nicht in den Bergen und nicht im Meer (vgl. Amos 9,2–3).
+> Die Bilder von Blut und Hunden sind die Kriegssprache der damaligen Zeit. Sie sind keine Erlaubnis zur Gewalt. Es geht darum, dass das Böse am Ende vollständig besiegt wird. Das Urteil liegt bei Gott.
+
+---
+
+### Der Festzug (Vers 24–27)
+
+<sup>24</sup>Sie haben deine Festzüge gesehen, Gott,
+die Festzüge meines Gottes, meines Königs, ins Heiligtum.
+<sup>25</sup>Die Sänger gingen voran, die Spielleute folgten,
+mitten unter den Frauen, die Tamburine schlugen:
+<sup>26</sup>„Preist Gott in den Versammlungen,
+den Herrn, in der Versammlung Israels!“
+<sup>27</sup>Da ist der kleine Benjamin, ihr Anführer,
+die Fürsten Judas, ihre Schar,
+die Fürsten Sebulons und die Fürsten Naftalis.
+
+> **Was bedeutet das?**
+> Jetzt sieht man den Festzug vor sich: vorn die Sänger, hinten die Musiker, dazwischen Frauen mit Tamburinen (Handtrommeln).
+> Die Stämme Israels ziehen mit: der kleinste Stamm Benjamin vorneweg, dann Juda aus dem Süden, Sebulon und Naftali aus dem Norden. Ganz Israel ist vereint.
+
+---
+
+### Die Könige bringen Geschenke (Vers 28–31)
+
+<sup>28</sup>Dein Gott hat deine Stärke befohlen.
+Stärke, Gott, was du für uns getan hast!
+<sup>29</sup>Wegen deines Tempels in Jerusalem
+werden Könige dir Geschenke bringen.
+<sup>30</sup>Weise das wilde Tier im Schilf zurecht,
+die Herde der Stiere mit den Kälbern der Völker!
+Tritt die Silberbarren unter die Füße!
+Zerstreue die Völker, die Gefallen am Krieg haben!
+<sup>31</sup>Fürsten werden aus Ägypten kommen.
+Kusch wird eilen, seine Hände zu Gott auszustrecken.
+
+> **Was bedeutet das?**
+> Vers 30: „Das wilde Tier im Schilf“: wahrscheinlich ein Bild für Ägypten (Krokodil oder Nilpferd im Schilf des Nils). Die „Stiere“ sind die mächtigen Herrscher.
+> „Zerstreue die Völker, die Gefallen am Krieg haben!“: Gott ist gegen Kriegstreiber.
+> Vers 31: Kusch ist das Land südlich von Ägypten (heute etwa der Sudan). Selbst die fernsten Völker werden zu Gott kommen. In der englischen Vorlage steht hier „Äthiopien“.
+
+---
+
+### Ihr Königreiche der Erde, singt Gott! (Vers 32–35)
+
+<sup>32</sup>Singt Gott, ihr Königreiche der Erde!
+Singt dem Herrn Lob!
+Sela.
+<sup>33</sup>Ihm, der auf dem Himmel der Himmel fährt, die von Urzeit her sind.
+Schau, er lässt seine Stimme erschallen, eine mächtige Stimme.
+<sup>34</sup>Gebt Gott die Stärke!
+Seine Hoheit ist über Israel,
+und seine Stärke ist in den Wolken.
+<sup>35</sup>Furchterregend bist du, Gott, in deinen Heiligtümern.
+Der Gott Israels gibt seinem Volk Stärke und Kraft.
+Gepriesen sei Gott!
+
+> **Was bedeutet das?**
+> Am Ende werden alle Königreiche der Erde eingeladen, Gott zu loben.
+> Gott ist mächtig im Himmel, aber er gibt seine Kraft an sein Volk weiter.
+> Der Psalm endet mit einem einfachen Lob: „Gepriesen sei Gott!“
+
+## Psalm 69
+#### Das Wasser steht mir bis zum Hals
+
+---
+
+### Ich versinke (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilien“. Von David.
+Rette mich, Gott,
+denn das Wasser ist mir bis zum Hals gestiegen!
+<sup>2</sup>Ich versinke in tiefem Schlamm, wo es keinen Halt gibt.
+Ich bin in tiefe Wasser geraten,
+wo die Flut mich überspült.
+<sup>3</sup>Ich bin müde vom Schreien.
+Meine Kehle ist ausgetrocknet.
+Meine Augen versagen, während ich auf meinen Gott warte.
+<sup>4</sup>Die mich ohne Grund hassen, sind zahlreicher als die Haare auf meinem Kopf.
+Die mich vernichten wollen, die zu Unrecht meine Feinde sind, sind mächtig.
+Ich muss zurückgeben, was ich nicht geraubt habe.
+
+> **Was bedeutet das?**
+> „Das Wasser steht mir bis zum Hals“: Diese Redewendung kommt aus diesem Psalm. Der Beter fühlt sich, als würde er ertrinken. Er findet keinen Halt mehr.
+> Er hat geschrien, bis seine Stimme versagt. Er hat gewartet, bis seine Augen müde wurden.
+> Vers 4: Er wird ohne Grund gehasst. Er soll etwas zurückgeben, was er nie gestohlen hat. Jesus zitiert „Sie hassen mich ohne Grund“ (Johannes 15,25).
+> Wenn dir gerade das Wasser bis zum Hals steht und du keinen Ausweg siehst: Hol dir Hilfe. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
+
+---
+
+### Um deinetwillen trage ich Schmach (Vers 5–12)
+
+<sup>5</sup>Gott, du kennst meine Torheit.
+Meine Sünden sind dir nicht verborgen.
+<sup>6</sup>Lass die, die auf dich warten, nicht durch mich beschämt werden,
+Herr, HERR der Heere!
+Lass die, die dich suchen, nicht durch mich in Schande geraten,
+Gott Israels!
+<sup>7</sup>Denn um deinetwillen trage ich Schmach.
+Scham bedeckt mein Gesicht.
+<sup>8</sup>Ich bin meinen Brüdern fremd geworden,
+ein Fremder für die Kinder meiner Mutter.
+<sup>9</sup>Denn der Eifer für dein Haus verzehrt mich.
+Die Beschimpfungen derer, die dich beschimpfen, sind auf mich gefallen.
+<sup>10</sup>Als ich weinte und fastete,
+wurde es mir zur Schande.
+<sup>11</sup>Als ich ein Trauergewand anzog,
+wurde ich ihnen zum Gespött.
+<sup>12</sup>Die im Tor sitzen, reden über mich.
+Ich bin das Spottlied der Betrunkenen.
+
+> **Was bedeutet das?**
+> Vers 5: Der Beter ist ehrlich: Ich bin nicht ohne Fehler. Aber das ist nicht der Grund für den Hass.
+> Vers 7–9: Er leidet, weil er Gott treu ist. Sogar seine eigene Familie wendet sich von ihm ab.
+> Vers 9: „Der Eifer für dein Haus verzehrt mich“: Die Jünger erinnerten sich an diesen Vers, als Jesus die Händler aus dem Tempel trieb (Johannes 2,17). Paulus zitiert den zweiten Teil in Römer 15,3.
+> Vers 12: „Die im Tor sitzen“: die angesehenen Leute der Stadt. Sogar die Betrunkenen machen Spottlieder über ihn.
+
+---
+
+### Zieh mich aus dem Schlamm (Vers 13–18)
+
+<sup>13</sup>Ich aber bete zu dir, HERR, zur Zeit der Gnade.
+Gott, in der Fülle deiner Güte
+antworte mir mit der Treue deiner Rettung!
+<sup>14</sup>Rette mich aus dem Schlamm und lass mich nicht versinken!
+Lass mich gerettet werden vor denen, die mich hassen,
+und aus den tiefen Wassern!
+<sup>15</sup>Lass die Wasserflut mich nicht überschwemmen,
+und lass die Tiefe mich nicht verschlingen!
+Lass die Grube ihren Mund nicht über mir schließen!
+<sup>16</sup>Antworte mir, HERR, denn deine Güte ist gut.
+Nach der Fülle deines Erbarmens wende dich mir zu!
+<sup>17</sup>Verbirg dein Angesicht nicht vor deinem Knecht,
+denn ich bin in Not. Antworte mir schnell!
+<sup>18</sup>Komm meiner Seele nahe und erlöse sie!
+Kauf mich frei wegen meiner Feinde!
+
+> **Was bedeutet das?**
+> Der Beter wendet sich ganz Gott zu. Er bittet immer wieder: Antworte mir! Rette mich! Verbirg dich nicht!
+> „Die Grube soll ihren Mund nicht schließen“: wie ein Brunnen, der zugedeckt wird, sodass man nie mehr herauskommt.
+
+---
+
+### Ich suchte Tröster und fand keine (Vers 19–21)
+
+<sup>19</sup>Du kennst meine Schmach, meine Schande und meine Beschämung.
+Alle meine Gegner sind vor dir.
+<sup>20</sup>Die Schmach hat mir das Herz gebrochen,
+und ich bin voller Schwermut.
+Ich habe nach jemandem gesucht, der Mitleid hat, aber da war keiner,
+nach Tröstern, aber ich fand keine.
+<sup>21</sup>Sie gaben mir auch Gift zum Essen,
+und in meinem Durst gaben sie mir Essig zu trinken.
+
+> **Was bedeutet das?**
+> Vers 20: Das Schlimmste ist die Einsamkeit: Niemand hat Mitleid, niemand tröstet.
+> Vers 21: Statt Hilfe bekommt er Gift und Essig. Das Wort für „Gift“ meint wohl ein bitteres Kraut.
+> Die Evangelien berichten, dass man Jesus am Kreuz Essig zu trinken gab (Matthäus 27,34.48; Johannes 19,28–29). Psalm 69 gehört mit Psalm 22 zu den Psalmen, die im Neuen Testament am häufigsten auf die Passion von Jesus bezogen werden.
+
+---
+
+### Ein Fluch über die Feinde (Vers 22–28)
+
+<sup>22</sup>Ihr Tisch vor ihnen soll zur Schlinge werden,
+zur Vergeltung und zur Falle.
+<sup>23</sup>Ihre Augen sollen dunkel werden, damit sie nicht sehen.
+Ihr Rücken soll immer gebeugt sein.
+<sup>24</sup>Gieß deinen Zorn über sie aus!
+Die Glut deines Zorns soll sie erreichen.
+<sup>25</sup>Ihr Wohnort soll verwüstet werden.
+Niemand soll in ihren Zelten wohnen.
+<sup>26</sup>Denn sie verfolgen den, den du geschlagen hast.
+Sie erzählen vom Schmerz derer, die du verwundet hast.
+<sup>27</sup>Rechne ihnen Schuld auf Schuld an!
+Lass sie nicht zu deiner Gerechtigkeit kommen!
+<sup>28</sup>Sie sollen aus dem Buch des Lebens gelöscht werden
+und nicht mit den Gerechten aufgeschrieben werden.
+
+> **Was bedeutet das?**
+> Das ist einer der härtesten Flüche in den Psalmen. Der Beter ist so verletzt, dass er Gott bittet, seine Feinde zu bestrafen.
+> Vers 26 zeigt die Grausamkeit der Feinde: Statt mit dem Leidenden Mitleid zu haben, treten sie noch nach.
+> Paulus zitiert Vers 22–23 in Römer 11,9–10. Petrus bezieht Vers 25 auf Judas (Apostelgeschichte 1,20).
+> Wichtig: Der Beter sagt Gott seinen Zorn. Er nimmt nicht selbst Rache. Die Bibel erlaubt, Zorn und Schmerz ehrlich vor Gott auszusprechen. Aber Jesus, der viele Verse dieses Psalms auf sich bezog, betete am Kreuz für seine Feinde: „Vater, vergib ihnen“ (Lukas 23,34).
+> „Das Buch des Lebens“: Ein Bild für die Liste derer, die zu Gott gehören und leben (vgl. 2. Mose 32,32; Offenbarung 20,12).
+
+---
+
+### Lob ist besser als ein Stier (Vers 29–36)
+
+<sup>29</sup>Ich aber bin elend und voller Schmerzen.
+Deine Rettung, Gott, soll mich schützen.
+<sup>30</sup>Ich will den Namen Gottes mit einem Lied loben
+und ihn mit Dank erheben.
+<sup>31</sup>Das wird dem HERRN besser gefallen als ein Stier,
+ein Rind mit Hörnern und Klauen.
+<sup>32</sup>Die Demütigen haben es gesehen und freuen sich.
+Ihr, die ihr Gott sucht, euer Herz soll leben!
+<sup>33</sup>Denn der HERR hört die Bedürftigen
+und verachtet seine Gefangenen nicht.
+<sup>34</sup>Himmel und Erde sollen ihn loben,
+die Meere und alles, was sich darin regt!
+<sup>35</sup>Denn Gott wird Zion retten
+und die Städte Judas bauen.
+Sie werden dort wohnen und es besitzen.
+<sup>36</sup>Auch die Kinder seiner Knechte werden es erben.
+Die seinen Namen lieben, werden darin wohnen.
+
+> **Was bedeutet das?**
+> Am Ende kommt die Wende: Aus dem Schrei wird Lob.
+> Vers 31: Ein Dankeslied gefällt Gott besser als das teuerste Tieropfer (vgl. Psalm 50,14; 51,16–17).
+> Vers 33: „Der HERR hört die Bedürftigen.“ Das ist die Hoffnung aller Armen und Gefangenen.
+> Vers 35–36: Der Blick weitet sich auf das ganze Volk. Vielleicht wurde der Psalm im Exil gebetet, als Jerusalem zerstört war, mit der Hoffnung auf den Wiederaufbau.
