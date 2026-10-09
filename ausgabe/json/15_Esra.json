@@ -1,0 +1,651 @@
+{
+ "nr": 15,
+ "code": "EZR",
+ "kuerzel": "Esr",
+ "name": "Esra",
+ "name_englisch": "Ezra",
+ "testament": "altes-testament",
+ "kapitel": 10,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Kyrus erlaubt die Heimkehr",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Buch Esra?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Esra erzählt, wie die Juden nach der Verbannung in Babylon in ihre Heimat zurückkehren.\nIm Jahr 586 vor Christus hatten die Babylonier Jerusalem und den Tempel zerstört. Viele Menschen wurden nach Babylon verschleppt. Etwa 50 Jahre später eroberte der Perserkönig Kyrus Babylon. Er erlaubte den Juden, nach Hause zurückzukehren und ihren Tempel wieder aufzubauen.\nDas Buch hat zwei Teile:\n– Kapitel 1–6: Die erste Gruppe kehrt zurück, unter der Leitung von Serubbabel und dem Priester Jeschua. Sie bauen den Tempel wieder auf, trotz vieler Widerstände. Im Jahr 515 vor Christus wird der neue Tempel eingeweiht.\n– Kapitel 7–10: Etwa 60 Jahre später kommt Esra nach Jerusalem. Er ist Priester und Schriftgelehrter. Er lehrt das Volk Gottes Gesetz und ruft zur Erneuerung auf.\nDas Buch zeigt: Gott hält seine Versprechen. Er hat das Volk nicht vergessen. Er kann sogar fremde Könige gebrauchen, um seinem Volk zu helfen.\nEin Teil des Buches (Kapitel 4,8 bis 6,18 und 7,12–26) ist nicht auf Hebräisch, sondern auf Aramäisch geschrieben. Das war damals die Amtssprache im Perserreich. Darum sind dort Briefe und Erlasse der Könige wörtlich abgeschrieben.\nDas Buch Esra und das Buch Nehemia gehörten ursprünglich zusammen.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Das Edikt des Kyrus",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Im ersten Jahr des Kyrus, des Königs von Persien,\ndamit sich das Wort des HERRN durch den Mund Jeremias erfüllte,\nerweckte der HERR den Geist des Kyrus, des Königs von Persien,\nsodass er in seinem ganzen Königreich ausrufen ließ\nund es auch schriftlich bekannt gab:",
+       "englisch_web": "Now in the first year of Cyrus king of Persia, that Yahweh’s word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„So spricht Kyrus, der König von Persien:\n‚Der HERR, der Gott des Himmels,\nhat mir alle Königreiche der Erde gegeben.\nUnd er hat mir befohlen, ihm ein Haus in Jerusalem zu bauen, das in Juda liegt.",
+       "englisch_web": "“Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Wer unter euch zu seinem ganzen Volk gehört,\nmit dem sei sein Gott,\nund er ziehe hinauf nach Jerusalem, das in Juda liegt,\nund baue das Haus des HERRN, des Gottes Israels\n– er ist der Gott –,\ndas in Jerusalem ist.",
+       "englisch_web": "Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Und jeder, der übrig bleibt, an jedem Ort, wo er wohnt,\ndem sollen die Leute seines Ortes helfen\nmit Silber, mit Gold, mit Gütern und mit Tieren,\nzusätzlich zu den freiwilligen Gaben für das Haus Gottes, das in Jerusalem ist.‘“",
+       "englisch_web": "Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’”"
+      }
+     ],
+     "erklaerung": "Das Buch beginnt genau mit den Worten, mit denen die Chronik endet (2. Chronik 36,22–23). Die Geschichte geht nahtlos weiter.\nDas „erste Jahr des Kyrus“ ist das erste Jahr seiner Herrschaft über Babylon, also 538 vor Christus.\nJeremia hatte angekündigt, dass die Verbannung nach etwa 70 Jahren zu Ende geht (Jeremia 25,11–12; 29,10). Und der Prophet Jesaja hatte Kyrus sogar mit Namen genannt (Jesaja 44,28; 45,1).\n„Gott erweckte den Geist des Kyrus“: Gott wirkt auch durch einen König, der ihn nicht kennt.\nKyrus verehrte selbst viele Götter. Auf dem „Kyros-Zylinder“ dankt er dem babylonischen Gott Marduk. Wahrscheinlich hat er in seinem Erlass für jedes Volk den Namen von dessen Gott verwendet.\n„Der übrig bleibt“: Gemeint sind wohl die Juden, die in Babylon bleiben. Sie und ihre Nachbarn sollen die Heimkehrer unterstützen."
+    },
+    {
+     "ueberschrift": "Die Heimkehrer machen sich auf",
+     "vers_von": 5,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Da machten sich die Familienoberhäupter von Juda und Benjamin auf,\ndie Priester und die Leviten,\nalle, deren Geist Gott erweckt hatte,\nhinaufzuziehen,\num das Haus des HERRN zu bauen, das in Jerusalem ist.",
+       "englisch_web": "Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Alle, die um sie herum wohnten, stärkten ihre Hände\nmit silbernen Geräten, mit Gold, mit Gütern, mit Tieren und mit Kostbarkeiten,\nzusätzlich zu allem, was freiwillig gegeben wurde.",
+       "englisch_web": "All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered."
+      }
+     ],
+     "erklaerung": "Gott hat den Geist des Kyrus erweckt. Und jetzt erweckt er auch den Geist der Menschen, die zurückkehren. Nicht alle Juden kehren zurück. Viele hatten sich in Babylon ein neues Leben aufgebaut. Es gehörte Mut dazu, in ein zerstörtes Land zurückzukehren.\nDie Nachbarn geben Geschenke mit. Das erinnert an den Auszug aus Ägypten, als die Ägypter den Israeliten Silber und Gold mitgaben (2. Mose 12,35–36). Die Heimkehr ist wie ein zweiter Auszug."
+    },
+    {
+     "ueberschrift": "Die Tempelgeräte kehren zurück",
+     "vers_von": 7,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Auch der König Kyrus gab die Geräte des Hauses des HERRN heraus,\ndie Nebukadnezar aus Jerusalem weggebracht\nund in das Haus seiner Götter gestellt hatte.",
+       "englisch_web": "Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Kyrus, der König von Persien, gab sie heraus\ndurch die Hand des Schatzmeisters Mitredat,\nund er zählte sie Scheschbazzar, dem Fürsten von Juda, zu.",
+       "englisch_web": "even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Das ist ihre Zahl:\n30 goldene Schüsseln,\n1000 silberne Schüsseln,\n29 Messer,",
+       "englisch_web": "This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "30 goldene Becher,\n410 silberne Becher einer zweiten Art\nund 1000 andere Geräte.",
+       "englisch_web": "thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Alle Geräte aus Gold und Silber waren 5400.\nDas alles brachte Scheschbazzar mit,\nals die Verbannten aus Babel nach Jerusalem hinaufgebracht wurden.",
+       "englisch_web": "All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem."
+      }
+     ],
+     "erklaerung": "Die heiligen Geräte, die Nebukadnezar geraubt hatte, kommen zurück (2. Chronik 36,7.18). Das ist ein Zeichen: Der Gottesdienst kann wieder beginnen.\nWer Scheschbazzar war, ist nicht ganz klar. Er war der erste Statthalter von Juda (Kapitel 5,14). Manche meinen, er sei derselbe wie Serubbabel, andere halten ihn für einen Onkel Serubbabels.\nDie Zahlen in Vers 9–10 ergeben zusammen nur 2499, nicht 5400. Vielleicht wurden nur die wichtigsten Geräte einzeln aufgezählt. Oder beim Abschreiben sind Zahlen verändert worden. Ein ähnlicher Bericht in einem anderen alten Buch (1. Esdras 2,13–14) hat andere Zahlen.\nDas genaue Zählen zeigt: Jedes Stück war wertvoll und wurde sorgfältig übergeben."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Die Liste der Heimkehrer",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Anführer",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das sind die Leute aus der Provinz,\ndie aus der Gefangenschaft der Verschleppten heraufzogen,\ndie Nebukadnezar, der König von Babel, nach Babel weggeführt hatte,\nund die nach Jerusalem und Juda zurückkehrten, jeder in seine Stadt.",
+       "englisch_web": "Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Sie kamen mit Serubbabel, Jeschua, Nehemia, Seraja, Reelaja, Mordechai,\nBilschan, Mispar, Bigwai, Rehum und Baana.\nDie Zahl der Männer des Volkes Israel:",
+       "englisch_web": "who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel:"
+      }
+     ],
+     "erklaerung": "Diese lange Liste steht fast gleich noch einmal in Nehemia 7. Sie zeigt: Jeder Einzelne war wichtig. Gott kennt die Namen.\n„Die Provinz“ ist Juda, jetzt eine kleine Provinz im großen Perserreich.\nSerubbabel war ein Enkel des Königs Jojachin, also ein Nachkomme Davids (1. Chronik 3,17–19). Jeschua war der Hohepriester. Beide leiten die Rückkehr.\nDer Nehemia und der Mordechai in dieser Liste sind wohl nicht dieselben wie die bekannten Männer aus den Büchern Nehemia und Ester. Diese Namen waren häufig.\nEs werden elf Anführer genannt. In Nehemia 7,7 sind es zwölf, wie die zwölf Stämme Israels."
+    },
+    {
+     "ueberschrift": "Die Familien des Volkes",
+     "vers_von": 3,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Nachkommen Parschs: 2172.",
+       "englisch_web": "The children of Parosh, two thousand one hundred seventy-two."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Nachkommen Schefatjas: 372.",
+       "englisch_web": "The children of Shephatiah, three hundred seventy-two."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Nachkommen Arachs: 775.",
+       "englisch_web": "The children of Arah, seven hundred seventy-five."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Nachkommen Pahat-Moabs, von den Nachkommen Jeschuas und Joabs: 2812.",
+       "englisch_web": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Die Nachkommen Elams: 1254.",
+       "englisch_web": "The children of Elam, one thousand two hundred fifty-four."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Nachkommen Sattus: 945.",
+       "englisch_web": "The children of Zattu, nine hundred forty-five."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Die Nachkommen Sakkais: 760.",
+       "englisch_web": "The children of Zaccai, seven hundred sixty."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die Nachkommen Banis: 642.",
+       "englisch_web": "The children of Bani, six hundred forty-two."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Die Nachkommen Bebais: 623.",
+       "englisch_web": "The children of Bebai, six hundred twenty-three."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Die Nachkommen Asgads: 1222.",
+       "englisch_web": "The children of Azgad, one thousand two hundred twenty-two."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Die Nachkommen Adonikams: 666.",
+       "englisch_web": "The children of Adonikam, six hundred sixty-six."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Die Nachkommen Bigwais: 2056.",
+       "englisch_web": "The children of Bigvai, two thousand fifty-six."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Die Nachkommen Adins: 454.",
+       "englisch_web": "The children of Adin, four hundred fifty-four."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Nachkommen Aters, von Hiskija: 98.",
+       "englisch_web": "The children of Ater, of Hezekiah, ninety-eight."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Nachkommen Bezais: 323.",
+       "englisch_web": "The children of Bezai, three hundred twenty-three."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Die Nachkommen Joras: 112.",
+       "englisch_web": "The children of Jorah, one hundred twelve."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Nachkommen Haschums: 223.",
+       "englisch_web": "The children of Hashum, two hundred twenty-three."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Die Nachkommen Gibbars: 95.",
+       "englisch_web": "The children of Gibbar, ninety-five."
+      }
+     ],
+     "erklaerung": "Diese Familien werden nach ihren Ahnherren benannt. „Pahat-Moab“ bedeutet „Statthalter von Moab“. Vielleicht hatte ein Vorfahre einmal dieses Amt.\nDie Zahl 666 in Vers 13 hat hier keine besondere Bedeutung. Es ist einfach die Zahl der Menschen dieser Familie."
+    },
+    {
+     "ueberschrift": "Die Leute aus den Orten",
+     "vers_von": 21,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Die Leute aus Betlehem: 123.",
+       "englisch_web": "The children of Bethlehem, one hundred twenty-three."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Die Männer von Netofa: 56.",
+       "englisch_web": "The men of Netophah, fifty-six."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Männer von Anatot: 128.",
+       "englisch_web": "The men of Anathoth, one hundred twenty-eight."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Leute aus Asmawet: 42.",
+       "englisch_web": "The children of Azmaveth, forty-two."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Leute aus Kirjat-Arim, Kefira und Beerot: 743.",
+       "englisch_web": "The children of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Die Leute aus Rama und Geba: 621.",
+       "englisch_web": "The children of Ramah and Geba, six hundred twenty-one."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Die Männer von Michmas: 122.",
+       "englisch_web": "The men of Michmas, one hundred twenty-two."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Die Männer von Bethel und Ai: 223.",
+       "englisch_web": "The men of Bethel and Ai, two hundred twenty-three."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Die Leute aus Nebo: 52.",
+       "englisch_web": "The children of Nebo, fifty-two."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Die Leute aus Magbisch: 156.",
+       "englisch_web": "The children of Magbish, one hundred fifty-six."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Die Nachkommen des anderen Elam: 1254.",
+       "englisch_web": "The children of the other Elam, one thousand two hundred fifty-four."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Die Nachkommen Harims: 320.",
+       "englisch_web": "The children of Harim, three hundred twenty."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die Leute aus Lod, Hadid und Ono: 725.",
+       "englisch_web": "The children of Lod, Hadid, and Ono, seven hundred twenty-five."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Die Leute aus Jericho: 345.",
+       "englisch_web": "The children of Jericho, three hundred forty-five."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Leute aus Senaa: 3630.",
+       "englisch_web": "The children of Senaah, three thousand six hundred thirty."
+      }
+     ],
+     "erklaerung": "Jetzt werden die Menschen nach ihren Heimatorten aufgezählt. Sie kehren in die Orte zurück, aus denen ihre Familien stammten.\nBetlehem ist die Stadt Davids. Anatot ist der Heimatort des Propheten Jeremia. Er hatte dort vor der Zerstörung ein Feld gekauft, als Zeichen der Hoffnung, dass man wieder zurückkehren würde (Jeremia 32). Jetzt kehren 128 Männer aus Anatot zurück.\nKirjat-Arim ist wohl Kirjat-Jearim, wo die Bundeslade 20 Jahre lang stand.\nElam, Harim und vielleicht auch Senaa sind hier wohl Familiennamen, keine Orte."
+    },
+    {
+     "ueberschrift": "Die Priester",
+     "vers_von": 36,
+     "vers_bis": 39,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 36,
+       "leichte_sprache": "Die Priester:\nDie Nachkommen Jedajas, vom Haus Jeschua: 973.",
+       "englisch_web": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die Nachkommen Immers: 1052.",
+       "englisch_web": "The children of Immer, one thousand fifty-two."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Die Nachkommen Paschhurs: 1247.",
+       "englisch_web": "The children of Pashhur, one thousand two hundred forty-seven."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Die Nachkommen Harims: 1017.",
+       "englisch_web": "The children of Harim, one thousand seventeen."
+      }
+     ],
+     "erklaerung": "Über 4000 Priester kehren zurück. Das ist etwa ein Zehntel aller Heimkehrer. Der Gottesdienst war den Heimkehrern sehr wichtig."
+    },
+    {
+     "ueberschrift": "Die Leviten, Sänger und Torhüter",
+     "vers_von": 40,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 40,
+       "leichte_sprache": "Die Leviten:\nDie Nachkommen Jeschuas und Kadmiëls, von den Nachkommen Hodawjas: 74.",
+       "englisch_web": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Die Sänger:\nDie Nachkommen Asafs: 128.",
+       "englisch_web": "The singers: the children of Asaph, one hundred twenty-eight."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Die Nachkommen der Torhüter:\ndie Nachkommen Schallums, die Nachkommen Aters, die Nachkommen Talmons,\ndie Nachkommen Akkubs, die Nachkommen Hatitas, die Nachkommen Schobais,\nzusammen 139.",
+       "englisch_web": "The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine."
+      }
+     ],
+     "erklaerung": "Nur wenige Leviten kehren zurück, viel weniger als Priester. Vielleicht hatten sie in Babylon wenig Grund zu hoffen, dass sie in Jerusalem eine gute Aufgabe finden würden. Später musste Esra extra nach Leviten suchen (Kapitel 8,15–20)."
+    },
+    {
+     "ueberschrift": "Die Tempeldiener",
+     "vers_von": 43,
+     "vers_bis": 54,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 43,
+       "leichte_sprache": "Die Tempeldiener:\ndie Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,",
+       "englisch_web": "The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "die Nachkommen Keros', die Nachkommen Siahas, die Nachkommen Padons,",
+       "englisch_web": "the children of Keros, the children of Siaha, the children of Padon,"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "die Nachkommen Lebanas, die Nachkommen Hagabas, die Nachkommen Akkubs,",
+       "englisch_web": "the children of Lebanah, the children of Hagabah, the children of Akkub,"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "die Nachkommen Hagabs, die Nachkommen Schamlais, die Nachkommen Hanans,",
+       "englisch_web": "the children of Hagab, the children of Shamlai, the children of Hanan,"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "die Nachkommen Giddels, die Nachkommen Gahars, die Nachkommen Reajas,",
+       "englisch_web": "the children of Giddel, the children of Gahar, the children of Reaiah,"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "die Nachkommen Rezins, die Nachkommen Nekodas, die Nachkommen Gassams,",
+       "englisch_web": "the children of Rezin, the children of Nekoda, the children of Gazzam,"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "die Nachkommen Usas, die Nachkommen Paseachs, die Nachkommen Besais,",
+       "englisch_web": "the children of Uzza, the children of Paseah, the children of Besai,"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "die Nachkommen Asnas, die Nachkommen der Mëuniter, die Nachkommen der Nefusiter,",
+       "englisch_web": "the children of Asnah, the children of Meunim, the children of Nephisim,"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "die Nachkommen Bakbuks, die Nachkommen Hakufas, die Nachkommen Harhurs,",
+       "englisch_web": "the children of Bakbuk, the children of Hakupha, the children of Harhur,"
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "die Nachkommen Bazluts, die Nachkommen Mehidas, die Nachkommen Harschas,",
+       "englisch_web": "the children of Bazluth, the children of Mehida, the children of Harsha,"
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "die Nachkommen Barkos', die Nachkommen Siseras, die Nachkommen Temachs,",
+       "englisch_web": "the children of Barkos, the children of Sisera, the children of Temah,"
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "die Nachkommen Neziachs, die Nachkommen Hatifas.",
+       "englisch_web": "the children of Neziah, the children of Hatipha."
+      }
+     ],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Die Nachkommen der Diener Salomos",
+     "vers_von": 55,
+     "vers_bis": 58,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 55,
+       "leichte_sprache": "Die Nachkommen der Diener Salomos:\ndie Nachkommen Sotais, die Nachkommen Soferets, die Nachkommen Perudas,",
+       "englisch_web": "The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda,"
+      },
+      {
+       "vers": 56,
+       "leichte_sprache": "die Nachkommen Jaalas, die Nachkommen Darkons, die Nachkommen Giddels,",
+       "englisch_web": "the children of Jaalah, the children of Darkon, the children of Giddel,"
+      },
+      {
+       "vers": 57,
+       "leichte_sprache": "die Nachkommen Schefatjas, die Nachkommen Hattils,\ndie Nachkommen Pocheret-Hazzebajims, die Nachkommen Amis.",
+       "englisch_web": "the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, the children of Ami."
+      },
+      {
+       "vers": 58,
+       "leichte_sprache": "Alle Tempeldiener und die Nachkommen der Diener Salomos waren 392.",
+       "englisch_web": "All the temple servants, and the children of Solomon’s servants, were three hundred ninety-two."
+      }
+     ],
+     "erklaerung": "Die „Tempeldiener“ halfen bei einfachen Arbeiten im Tempel, zum Beispiel beim Holzholen und Wassertragen. Manche ihrer Namen klingen nicht hebräisch. Vielleicht stammten ihre Vorfahren aus anderen Völkern, zum Beispiel aus Gibeon (Josua 9,27).\nAuch die „Diener Salomos“ waren wohl Nachkommen von Arbeitern aus fremden Völkern (1. Könige 9,20–21).\nAuch sie gehören jetzt fest zum Volk Gottes und kehren mit zurück. Jeder Name wird genannt. Niemand ist zu gering.\nDer Name Sisera in Vers 53 ist derselbe wie der des Feldherrn in Richter 4. Hier ist aber eine Familie von Tempeldienern gemeint."
+    },
+    {
+     "ueberschrift": "Die ohne Nachweis",
+     "vers_von": 59,
+     "vers_bis": 63,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 59,
+       "leichte_sprache": "Das sind die, die aus Tel-Melach, Tel-Harscha, Kerub, Addan und Immer heraufzogen.\nAber sie konnten ihre Familie und ihre Abstammung nicht nachweisen,\nob sie aus Israel waren:",
+       "englisch_web": "These were those who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses and their offspring, whether they were of Israel:"
+      },
+      {
+       "vers": 60,
+       "leichte_sprache": "die Nachkommen Delajas, die Nachkommen Tobijas, die Nachkommen Nekodas: 652.",
+       "englisch_web": "the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two."
+      },
+      {
+       "vers": 61,
+       "leichte_sprache": "Und von den Nachkommen der Priester:\ndie Nachkommen Habajas, die Nachkommen Hakkoz'\nund die Nachkommen Barsillais,\nder eine Frau von den Töchtern Barsillais, des Gileaditers, genommen hatte\nund nach ihrem Namen genannt wurde.",
+       "englisch_web": "Of the children of the priests: the children of Habaiah, the children of Hakkoz, and the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name."
+      },
+      {
+       "vers": 62,
+       "leichte_sprache": "Diese suchten ihr Verzeichnis unter denen, die im Stammbaum eingetragen waren,\naber sie wurden nicht gefunden.\nDarum galten sie als unrein und wurden vom Priesterdienst ausgeschlossen.",
+       "englisch_web": "These sought their place among those who were registered by genealogy, but they were not found; therefore they were deemed disqualified and removed from the priesthood."
+      },
+      {
+       "vers": 63,
+       "leichte_sprache": "Der Statthalter sagte zu ihnen,\ndass sie nicht vom Hochheiligen essen sollten,\nbis ein Priester auftritt, der mit den Urim und Tummim dient.",
+       "englisch_web": "The governor told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim."
+      }
+     ],
+     "erklaerung": "Manche konnten nicht beweisen, dass sie zu Israel gehörten. Ihre Papiere waren in der Verbannung verloren gegangen. Trotzdem kehrten sie mit zurück. Sie wurden nicht weggeschickt.\nBei den Priestern war es strenger: Nur wer von Aaron abstammte, durfte Priester sein. Wer das nicht beweisen konnte, durfte vorerst nicht dienen.\nBarsillai, der Gileaditer, war ein Freund Davids, der ihm in schwerer Zeit geholfen hatte (2. Samuel 19,32–40). Ein Priester hatte seine Tochter geheiratet und ihren Familiennamen angenommen.\n„Urim und Tummim“ waren Lose, mit denen der Hohepriester früher Gottes Willen erfragte (2. Mose 28,30). Sie waren wohl verloren gegangen. Die Entscheidung wurde aufgeschoben, bis Gott selbst Klarheit schenkt. Das ist eine weise und faire Lösung.\nDer „Statthalter“ ist wohl Serubbabel oder Scheschbazzar. Hier steht ein persisches Wort: „Tirschata“."
+    },
+    {
+     "ueberschrift": "Die Gesamtzahl und die Gaben",
+     "vers_von": 64,
+     "vers_bis": 70,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 64,
+       "leichte_sprache": "Die ganze Versammlung zusammen war 42 360,",
+       "englisch_web": "The whole assembly together was forty-two thousand three hundred sixty,"
+      },
+      {
+       "vers": 65,
+       "leichte_sprache": "außer ihren Knechten und Mägden, deren waren 7337.\nUnd sie hatten 200 Sänger und Sängerinnen.",
+       "englisch_web": "in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women."
+      },
+      {
+       "vers": 66,
+       "leichte_sprache": "Ihre Pferde waren 736, ihre Maultiere 245,",
+       "englisch_web": "Their horses were seven hundred thirty-six; their mules, two hundred forty-five;"
+      },
+      {
+       "vers": 67,
+       "leichte_sprache": "ihre Kamele 435, ihre Esel 6720.",
+       "englisch_web": "their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty."
+      },
+      {
+       "vers": 68,
+       "leichte_sprache": "Einige von den Familienoberhäuptern gaben,\nals sie zum Haus des HERRN kamen, das in Jerusalem ist,\nfreiwillig Gaben für das Haus Gottes,\num es an seiner Stelle wieder aufzurichten.",
+       "englisch_web": "Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place."
+      },
+      {
+       "vers": 69,
+       "leichte_sprache": "Sie gaben nach ihrem Vermögen für den Schatz des Werkes\n61 000 Goldmünzen,\n2850 Kilogramm Silber\nund 100 Priestergewänder.",
+       "englisch_web": "They gave according to their ability into the treasury of the work sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priests’ garments."
+      },
+      {
+       "vers": 70,
+       "leichte_sprache": "So wohnten die Priester und die Leviten und einige vom Volk,\ndie Sänger, die Torhüter und die Tempeldiener in ihren Städten,\nund ganz Israel in seinen Städten.",
+       "englisch_web": "So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities."
+      }
+     ],
+     "erklaerung": "Zählt man die einzelnen Zahlen der Liste zusammen, kommt man nur auf etwa 29 800. Die Gesamtzahl ist 42 360. Vielleicht wurden in der Gesamtzahl auch Frauen oder andere Gruppen mitgezählt, die in der Liste nicht einzeln vorkommen. Genau weiß man es nicht.\nInsgesamt kehren also fast 50 000 Menschen zurück. Das ist nur ein kleiner Teil des Volkes. Die meisten blieben in Babylon.\n„Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm. 61 000 Dariken sind über 500 Kilogramm Gold. Silber: In der Bibel steht „5000 Minen“. Eine Mine sind etwa 570 Gramm.\nDie Menschen gaben „nach ihrem Vermögen“: jeder so viel, wie er konnte (vgl. 2. Korinther 8,12).\nDie Zahlen hier sind etwas anders als in Nehemia 7,70–72. Beim Abschreiben solcher Listen kam es oft zu kleinen Abweichungen."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der Altar und das Fundament des Tempels",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Altar wird gebaut",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als der siebte Monat gekommen war\nund die Kinder Israels in ihren Städten waren,\nversammelte sich das Volk wie ein Mann in Jerusalem.",
+       "englisch_web": "When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da machte sich Jeschua, der Sohn Jozadaks, auf\nmit seinen Brüdern, den Priestern,\nund Serubbabel, der Sohn Schealtiëls, mit seinen Verwandten,\nund sie bauten den Altar des Gottes Israels,\num darauf Brandopfer darzubringen,\nwie es im Gesetz des Mose, des Mannes Gottes, geschrieben steht.",
+       "englisch_web": "Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Trotz ihrer Angst vor den Völkern der umliegenden Länder\nstellten sie den Altar auf seine Grundlage\nund brachten dem HERRN darauf Brandopfer dar,\nBrandopfer am Morgen und am Abend.",
+       "englisch_web": "In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sie feierten das Laubhüttenfest, wie es geschrieben steht,\nund brachten die täglichen Brandopfer dar,\nnach der Zahl, nach der Vorschrift,\nwie es für jeden Tag nötig war;",
+       "englisch_web": "They kept the feast of booths, as it is written, and offered the daily burnt offerings by number, according to the ordinance, as the duty of every day required;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "und danach das ständige Brandopfer\nund die Opfer für die Neumonde\nund für alle heiligen Festzeiten des HERRN\nund für jeden, der dem HERRN eine freiwillige Gabe brachte.",
+       "englisch_web": "and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Vom ersten Tag des siebten Monats an\nfingen sie an, dem HERRN Brandopfer darzubringen.\nAber das Fundament des Tempels des HERRN war noch nicht gelegt.",
+       "englisch_web": "From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid."
+      }
+     ],
+     "erklaerung": "Der siebte Monat (September/Oktober) ist der Monat der großen Feste: Neujahr, Versöhnungstag und Laubhüttenfest.\nDas Erste, was die Heimkehrer bauen, ist nicht ein Haus für sich, sondern ein Altar für Gott. Bevor der Tempel steht, beginnt schon der Gottesdienst.\nSie haben Angst vor den Nachbarvölkern. Aber sie bauen trotzdem. Der Altar und die Opfer sind für sie ein Zeichen: Gott ist mit uns.\nJeschua (auch Josua genannt) war der Hohepriester, ein Enkel des letzten Hohenpriesters vor der Zerstörung (1. Chronik 5,40–41).\nDas Laubhüttenfest erinnert an die Wanderung durch die Wüste. Für die Heimkehrer, die selbst eine lange Reise hinter sich hatten, war das besonders bedeutungsvoll."
+    },
+    {
+     "ueberschrift": "Die Vorbereitungen",
+     "vers_von": 7,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie gaben den Steinmetzen und den Zimmerleuten Geld.\nUnd sie gaben den Leuten aus Sidon und Tyrus Essen, Trinken und Öl,\ndamit sie Zedernholz vom Libanon zum Meer nach Jafo brachten,\nnach der Erlaubnis, die sie von Kyrus, dem König von Persien, hatten.",
+       "englisch_web": "They also gave money to the masons and to the carpenters. They also gave food, drink, and oil to the people of Sidon and Tyre to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from Cyrus King of Persia."
+      }
+     ],
+     "erklaerung": "Wie beim Bau des ersten Tempels unter Salomo kommt das Holz wieder aus dem Libanon, über das Meer nach Jafo (2. Chronik 2,15). Der neue Tempel soll an den alten anknüpfen.\nJafo ist das heutige Jaffa, ein Teil von Tel Aviv."
+    },
+    {
+     "ueberschrift": "Das Fundament wird gelegt",
+     "vers_von": 8,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Im zweiten Jahr nach ihrer Ankunft beim Haus Gottes in Jerusalem,\nim zweiten Monat,\nfingen Serubbabel, der Sohn Schealtiëls, und Jeschua, der Sohn Jozadaks,\nund ihre übrigen Brüder, die Priester und die Leviten,\nund alle, die aus der Gefangenschaft nach Jerusalem gekommen waren,\nmit der Arbeit an.\nSie stellten die Leviten von 20 Jahren an und darüber an,\num die Arbeit am Haus des HERRN zu beaufsichtigen.",
+       "englisch_web": "Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Da standen Jeschua mit seinen Söhnen und seinen Brüdern,\nKadmiël und seine Söhne, die Söhne Judas,\ngemeinsam bereit, um die Aufsicht über die Arbeiter am Haus Gottes zu führen,\ndazu die Söhne Henadads mit ihren Söhnen und ihren Brüdern, den Leviten.",
+       "englisch_web": "Then Jeshua stood with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together to have the oversight of the workmen in God’s house: the sons of Henadad, with their sons and their brothers the Levites."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Als die Bauleute das Fundament des Tempels des HERRN legten,\nstellten sie die Priester in ihren Gewändern mit Trompeten auf\nund die Leviten, die Söhne Asafs, mit Zimbeln,\num den HERRN zu loben,\nnach den Anweisungen Davids, des Königs von Israel.",
+       "englisch_web": "When the builders laid the foundation of Yahweh’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the directions of David king of Israel."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie sangen einander im Wechsel zu, lobten und dankten dem HERRN:\n„Denn er ist gut,\ndenn seine Güte bleibt für immer über Israel.“\nUnd das ganze Volk jubelte mit großem Jubel,\nals sie den HERRN lobten,\nweil das Fundament des Hauses des HERRN gelegt war.",
+       "englisch_web": "They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh’s house had been laid."
+      }
+     ],
+     "erklaerung": "Der zweite Monat ist derselbe Monat, in dem Salomo mit dem Bau des ersten Tempels begann (1. Könige 6,1). Wieder eine Verbindung zum alten Tempel.\n„Söhne Judas“ in Vers 9: Gemeint ist wohl „Hodawja“, die Levitenfamilie aus Kapitel 2,40. Die beiden Namen sehen im Hebräischen ähnlich aus.\nAls das Fundament gelegt ist, wird gefeiert. Sie singen dieselben Worte wie bei der Einweihung des ersten Tempels: „Denn er ist gut, denn seine Güte bleibt für immer“ (2. Chronik 5,13; 7,3; Psalm 136).\n„Im Wechsel“: Zwei Chöre singen sich gegenseitig zu, wie es bei vielen Psalmen üblich war."
+    },
+    {
+     "ueberschrift": "Jubel und Weinen",
+     "vers_von": 12,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Aber viele von den Priestern, den Leviten und den Familienoberhäuptern,\ndie Alten, die das erste Haus noch gesehen hatten,\nweinten mit lauter Stimme,\nals vor ihren Augen das Fundament dieses Hauses gelegt wurde.\nViele aber jubelten laut vor Freude,",
+       "englisch_web": "But many of the priests and Levites and heads of fathers’ households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "sodass das Volk das Geräusch des Freudenjubels\nnicht vom Geräusch des Weinens des Volkes unterscheiden konnte.\nDenn das Volk jubelte mit lautem Jubel,\nund den Lärm hörte man weithin.",
+       "englisch_web": "so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away."
+      }
+     ],
+     "erklaerung": "Ein bewegender Moment: Die Jungen jubeln, weil endlich der Tempel gebaut wird. Die Alten weinen, weil sie sich noch an den prächtigen Tempel Salomos erinnern, der 50 Jahre vorher zerstört wurde.\nVielleicht weinten sie, weil der neue Tempel viel kleiner und ärmer war (vgl. Haggai 2,3). Vielleicht weinten sie auch vor Freude und Rührung, dass sie das noch erleben durften.\nFreude und Trauer liegen nah beieinander und klingen manchmal gleich. Beides hat seinen Platz vor Gott. Ein Neuanfang ist oft beides: Freude über das Neue und Trauer über das, was verloren ist."
+    }
+   ]
+  }
+ ]
+}

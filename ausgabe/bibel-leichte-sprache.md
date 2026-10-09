@@ -58506,3 +58506,399 @@ und er ziehe hinauf!‘“
 > **Das Ende und der neue Anfang:** Weil das Volk die Propheten verspottet, wird Jerusalem zerstört. Aber das Buch endet mit Hoffnung: Der Perserkönig Kyrus erlaubt die Rückkehr und den Bau eines neuen Tempels. Das letzte Wort heißt: „Er ziehe hinauf!“
 > **Die Lehre des Buches:** Gott sieht auf das Herz. Es kommt nicht darauf an, wie stark ein Heer ist oder wie reich ein König, sondern ob man Gott „mit ganzem Herzen“ sucht. Und es ist nie zu spät, umzukehren.
 > **Wie geht es weiter?** Das Buch Esra erzählt, wie die Verbannten nach Jerusalem zurückkehren und den Tempel wieder aufbauen.
+
+
+---
+
+# Esra
+
+## Esra – Kapitel 1
+#### Kyrus erlaubt die Heimkehr
+
+---
+
+### Bevor es losgeht: Was ist das Buch Esra?
+
+Das Buch Esra erzählt, wie die Juden nach der Verbannung in Babylon in ihre Heimat zurückkehren.
+Im Jahr 586 vor Christus hatten die Babylonier Jerusalem und den Tempel zerstört. Viele Menschen wurden nach Babylon verschleppt. Etwa 50 Jahre später eroberte der Perserkönig Kyrus Babylon. Er erlaubte den Juden, nach Hause zurückzukehren und ihren Tempel wieder aufzubauen.
+Das Buch hat zwei Teile:
+– Kapitel 1–6: Die erste Gruppe kehrt zurück, unter der Leitung von Serubbabel und dem Priester Jeschua. Sie bauen den Tempel wieder auf, trotz vieler Widerstände. Im Jahr 515 vor Christus wird der neue Tempel eingeweiht.
+– Kapitel 7–10: Etwa 60 Jahre später kommt Esra nach Jerusalem. Er ist Priester und Schriftgelehrter. Er lehrt das Volk Gottes Gesetz und ruft zur Erneuerung auf.
+Das Buch zeigt: Gott hält seine Versprechen. Er hat das Volk nicht vergessen. Er kann sogar fremde Könige gebrauchen, um seinem Volk zu helfen.
+Ein Teil des Buches (Kapitel 4,8 bis 6,18 und 7,12–26) ist nicht auf Hebräisch, sondern auf Aramäisch geschrieben. Das war damals die Amtssprache im Perserreich. Darum sind dort Briefe und Erlasse der Könige wörtlich abgeschrieben.
+Das Buch Esra und das Buch Nehemia gehörten ursprünglich zusammen.
+
+---
+
+### Das Edikt des Kyrus (Vers 1–4)
+
+<sup>1</sup>Im ersten Jahr des Kyrus, des Königs von Persien,
+damit sich das Wort des HERRN durch den Mund Jeremias erfüllte,
+erweckte der HERR den Geist des Kyrus, des Königs von Persien,
+sodass er in seinem ganzen Königreich ausrufen ließ
+und es auch schriftlich bekannt gab:
+<sup>2</sup>„So spricht Kyrus, der König von Persien:
+‚Der HERR, der Gott des Himmels,
+hat mir alle Königreiche der Erde gegeben.
+Und er hat mir befohlen, ihm ein Haus in Jerusalem zu bauen, das in Juda liegt.
+<sup>3</sup>Wer unter euch zu seinem ganzen Volk gehört,
+mit dem sei sein Gott,
+und er ziehe hinauf nach Jerusalem, das in Juda liegt,
+und baue das Haus des HERRN, des Gottes Israels
+– er ist der Gott –,
+das in Jerusalem ist.
+<sup>4</sup>Und jeder, der übrig bleibt, an jedem Ort, wo er wohnt,
+dem sollen die Leute seines Ortes helfen
+mit Silber, mit Gold, mit Gütern und mit Tieren,
+zusätzlich zu den freiwilligen Gaben für das Haus Gottes, das in Jerusalem ist.‘“
+
+> **Was bedeutet das?**
+> Das Buch beginnt genau mit den Worten, mit denen die Chronik endet (2. Chronik 36,22–23). Die Geschichte geht nahtlos weiter.
+> Das „erste Jahr des Kyrus“ ist das erste Jahr seiner Herrschaft über Babylon, also 538 vor Christus.
+> Jeremia hatte angekündigt, dass die Verbannung nach etwa 70 Jahren zu Ende geht (Jeremia 25,11–12; 29,10). Und der Prophet Jesaja hatte Kyrus sogar mit Namen genannt (Jesaja 44,28; 45,1).
+> „Gott erweckte den Geist des Kyrus“: Gott wirkt auch durch einen König, der ihn nicht kennt.
+> Kyrus verehrte selbst viele Götter. Auf dem „Kyros-Zylinder“ dankt er dem babylonischen Gott Marduk. Wahrscheinlich hat er in seinem Erlass für jedes Volk den Namen von dessen Gott verwendet.
+> „Der übrig bleibt“: Gemeint sind wohl die Juden, die in Babylon bleiben. Sie und ihre Nachbarn sollen die Heimkehrer unterstützen.
+
+---
+
+### Die Heimkehrer machen sich auf (Vers 5–6)
+
+<sup>5</sup>Da machten sich die Familienoberhäupter von Juda und Benjamin auf,
+die Priester und die Leviten,
+alle, deren Geist Gott erweckt hatte,
+hinaufzuziehen,
+um das Haus des HERRN zu bauen, das in Jerusalem ist.
+<sup>6</sup>Alle, die um sie herum wohnten, stärkten ihre Hände
+mit silbernen Geräten, mit Gold, mit Gütern, mit Tieren und mit Kostbarkeiten,
+zusätzlich zu allem, was freiwillig gegeben wurde.
+
+> **Was bedeutet das?**
+> Gott hat den Geist des Kyrus erweckt. Und jetzt erweckt er auch den Geist der Menschen, die zurückkehren. Nicht alle Juden kehren zurück. Viele hatten sich in Babylon ein neues Leben aufgebaut. Es gehörte Mut dazu, in ein zerstörtes Land zurückzukehren.
+> Die Nachbarn geben Geschenke mit. Das erinnert an den Auszug aus Ägypten, als die Ägypter den Israeliten Silber und Gold mitgaben (2. Mose 12,35–36). Die Heimkehr ist wie ein zweiter Auszug.
+
+---
+
+### Die Tempelgeräte kehren zurück (Vers 7–11)
+
+<sup>7</sup>Auch der König Kyrus gab die Geräte des Hauses des HERRN heraus,
+die Nebukadnezar aus Jerusalem weggebracht
+und in das Haus seiner Götter gestellt hatte.
+<sup>8</sup>Kyrus, der König von Persien, gab sie heraus
+durch die Hand des Schatzmeisters Mitredat,
+und er zählte sie Scheschbazzar, dem Fürsten von Juda, zu.
+<sup>9</sup>Das ist ihre Zahl:
+30 goldene Schüsseln,
+1000 silberne Schüsseln,
+29 Messer,
+<sup>10</sup>30 goldene Becher,
+410 silberne Becher einer zweiten Art
+und 1000 andere Geräte.
+<sup>11</sup>Alle Geräte aus Gold und Silber waren 5400.
+Das alles brachte Scheschbazzar mit,
+als die Verbannten aus Babel nach Jerusalem hinaufgebracht wurden.
+
+> **Was bedeutet das?**
+> Die heiligen Geräte, die Nebukadnezar geraubt hatte, kommen zurück (2. Chronik 36,7.18). Das ist ein Zeichen: Der Gottesdienst kann wieder beginnen.
+> Wer Scheschbazzar war, ist nicht ganz klar. Er war der erste Statthalter von Juda (Kapitel 5,14). Manche meinen, er sei derselbe wie Serubbabel, andere halten ihn für einen Onkel Serubbabels.
+> Die Zahlen in Vers 9–10 ergeben zusammen nur 2499, nicht 5400. Vielleicht wurden nur die wichtigsten Geräte einzeln aufgezählt. Oder beim Abschreiben sind Zahlen verändert worden. Ein ähnlicher Bericht in einem anderen alten Buch (1. Esdras 2,13–14) hat andere Zahlen.
+> Das genaue Zählen zeigt: Jedes Stück war wertvoll und wurde sorgfältig übergeben.
+
+## Esra – Kapitel 2
+#### Die Liste der Heimkehrer
+
+---
+
+### Die Anführer (Vers 1–2)
+
+<sup>1</sup>Das sind die Leute aus der Provinz,
+die aus der Gefangenschaft der Verschleppten heraufzogen,
+die Nebukadnezar, der König von Babel, nach Babel weggeführt hatte,
+und die nach Jerusalem und Juda zurückkehrten, jeder in seine Stadt.
+<sup>2</sup>Sie kamen mit Serubbabel, Jeschua, Nehemia, Seraja, Reelaja, Mordechai,
+Bilschan, Mispar, Bigwai, Rehum und Baana.
+Die Zahl der Männer des Volkes Israel:
+
+> **Was bedeutet das?**
+> Diese lange Liste steht fast gleich noch einmal in Nehemia 7. Sie zeigt: Jeder Einzelne war wichtig. Gott kennt die Namen.
+> „Die Provinz“ ist Juda, jetzt eine kleine Provinz im großen Perserreich.
+> Serubbabel war ein Enkel des Königs Jojachin, also ein Nachkomme Davids (1. Chronik 3,17–19). Jeschua war der Hohepriester. Beide leiten die Rückkehr.
+> Der Nehemia und der Mordechai in dieser Liste sind wohl nicht dieselben wie die bekannten Männer aus den Büchern Nehemia und Ester. Diese Namen waren häufig.
+> Es werden elf Anführer genannt. In Nehemia 7,7 sind es zwölf, wie die zwölf Stämme Israels.
+
+---
+
+### Die Familien des Volkes (Vers 3–20)
+
+<sup>3</sup>Die Nachkommen Parschs: 2172.
+<sup>4</sup>Die Nachkommen Schefatjas: 372.
+<sup>5</sup>Die Nachkommen Arachs: 775.
+<sup>6</sup>Die Nachkommen Pahat-Moabs, von den Nachkommen Jeschuas und Joabs: 2812.
+<sup>7</sup>Die Nachkommen Elams: 1254.
+<sup>8</sup>Die Nachkommen Sattus: 945.
+<sup>9</sup>Die Nachkommen Sakkais: 760.
+<sup>10</sup>Die Nachkommen Banis: 642.
+<sup>11</sup>Die Nachkommen Bebais: 623.
+<sup>12</sup>Die Nachkommen Asgads: 1222.
+<sup>13</sup>Die Nachkommen Adonikams: 666.
+<sup>14</sup>Die Nachkommen Bigwais: 2056.
+<sup>15</sup>Die Nachkommen Adins: 454.
+<sup>16</sup>Die Nachkommen Aters, von Hiskija: 98.
+<sup>17</sup>Die Nachkommen Bezais: 323.
+<sup>18</sup>Die Nachkommen Joras: 112.
+<sup>19</sup>Die Nachkommen Haschums: 223.
+<sup>20</sup>Die Nachkommen Gibbars: 95.
+
+> **Was bedeutet das?**
+> Diese Familien werden nach ihren Ahnherren benannt. „Pahat-Moab“ bedeutet „Statthalter von Moab“. Vielleicht hatte ein Vorfahre einmal dieses Amt.
+> Die Zahl 666 in Vers 13 hat hier keine besondere Bedeutung. Es ist einfach die Zahl der Menschen dieser Familie.
+
+---
+
+### Die Leute aus den Orten (Vers 21–35)
+
+<sup>21</sup>Die Leute aus Betlehem: 123.
+<sup>22</sup>Die Männer von Netofa: 56.
+<sup>23</sup>Die Männer von Anatot: 128.
+<sup>24</sup>Die Leute aus Asmawet: 42.
+<sup>25</sup>Die Leute aus Kirjat-Arim, Kefira und Beerot: 743.
+<sup>26</sup>Die Leute aus Rama und Geba: 621.
+<sup>27</sup>Die Männer von Michmas: 122.
+<sup>28</sup>Die Männer von Bethel und Ai: 223.
+<sup>29</sup>Die Leute aus Nebo: 52.
+<sup>30</sup>Die Leute aus Magbisch: 156.
+<sup>31</sup>Die Nachkommen des anderen Elam: 1254.
+<sup>32</sup>Die Nachkommen Harims: 320.
+<sup>33</sup>Die Leute aus Lod, Hadid und Ono: 725.
+<sup>34</sup>Die Leute aus Jericho: 345.
+<sup>35</sup>Die Leute aus Senaa: 3630.
+
+> **Was bedeutet das?**
+> Jetzt werden die Menschen nach ihren Heimatorten aufgezählt. Sie kehren in die Orte zurück, aus denen ihre Familien stammten.
+> Betlehem ist die Stadt Davids. Anatot ist der Heimatort des Propheten Jeremia. Er hatte dort vor der Zerstörung ein Feld gekauft, als Zeichen der Hoffnung, dass man wieder zurückkehren würde (Jeremia 32). Jetzt kehren 128 Männer aus Anatot zurück.
+> Kirjat-Arim ist wohl Kirjat-Jearim, wo die Bundeslade 20 Jahre lang stand.
+> Elam, Harim und vielleicht auch Senaa sind hier wohl Familiennamen, keine Orte.
+
+---
+
+### Die Priester (Vers 36–39)
+
+<sup>36</sup>Die Priester:
+Die Nachkommen Jedajas, vom Haus Jeschua: 973.
+<sup>37</sup>Die Nachkommen Immers: 1052.
+<sup>38</sup>Die Nachkommen Paschhurs: 1247.
+<sup>39</sup>Die Nachkommen Harims: 1017.
+
+> **Was bedeutet das?**
+> Über 4000 Priester kehren zurück. Das ist etwa ein Zehntel aller Heimkehrer. Der Gottesdienst war den Heimkehrern sehr wichtig.
+
+---
+
+### Die Leviten, Sänger und Torhüter (Vers 40–42)
+
+<sup>40</sup>Die Leviten:
+Die Nachkommen Jeschuas und Kadmiëls, von den Nachkommen Hodawjas: 74.
+<sup>41</sup>Die Sänger:
+Die Nachkommen Asafs: 128.
+<sup>42</sup>Die Nachkommen der Torhüter:
+die Nachkommen Schallums, die Nachkommen Aters, die Nachkommen Talmons,
+die Nachkommen Akkubs, die Nachkommen Hatitas, die Nachkommen Schobais,
+zusammen 139.
+
+> **Was bedeutet das?**
+> Nur wenige Leviten kehren zurück, viel weniger als Priester. Vielleicht hatten sie in Babylon wenig Grund zu hoffen, dass sie in Jerusalem eine gute Aufgabe finden würden. Später musste Esra extra nach Leviten suchen (Kapitel 8,15–20).
+
+---
+
+### Die Tempeldiener (Vers 43–54)
+
+<sup>43</sup>Die Tempeldiener:
+die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
+<sup>44</sup>die Nachkommen Keros', die Nachkommen Siahas, die Nachkommen Padons,
+<sup>45</sup>die Nachkommen Lebanas, die Nachkommen Hagabas, die Nachkommen Akkubs,
+<sup>46</sup>die Nachkommen Hagabs, die Nachkommen Schamlais, die Nachkommen Hanans,
+<sup>47</sup>die Nachkommen Giddels, die Nachkommen Gahars, die Nachkommen Reajas,
+<sup>48</sup>die Nachkommen Rezins, die Nachkommen Nekodas, die Nachkommen Gassams,
+<sup>49</sup>die Nachkommen Usas, die Nachkommen Paseachs, die Nachkommen Besais,
+<sup>50</sup>die Nachkommen Asnas, die Nachkommen der Mëuniter, die Nachkommen der Nefusiter,
+<sup>51</sup>die Nachkommen Bakbuks, die Nachkommen Hakufas, die Nachkommen Harhurs,
+<sup>52</sup>die Nachkommen Bazluts, die Nachkommen Mehidas, die Nachkommen Harschas,
+<sup>53</sup>die Nachkommen Barkos', die Nachkommen Siseras, die Nachkommen Temachs,
+<sup>54</sup>die Nachkommen Neziachs, die Nachkommen Hatifas.
+
+---
+
+### Die Nachkommen der Diener Salomos (Vers 55–58)
+
+<sup>55</sup>Die Nachkommen der Diener Salomos:
+die Nachkommen Sotais, die Nachkommen Soferets, die Nachkommen Perudas,
+<sup>56</sup>die Nachkommen Jaalas, die Nachkommen Darkons, die Nachkommen Giddels,
+<sup>57</sup>die Nachkommen Schefatjas, die Nachkommen Hattils,
+die Nachkommen Pocheret-Hazzebajims, die Nachkommen Amis.
+<sup>58</sup>Alle Tempeldiener und die Nachkommen der Diener Salomos waren 392.
+
+> **Was bedeutet das?**
+> Die „Tempeldiener“ halfen bei einfachen Arbeiten im Tempel, zum Beispiel beim Holzholen und Wassertragen. Manche ihrer Namen klingen nicht hebräisch. Vielleicht stammten ihre Vorfahren aus anderen Völkern, zum Beispiel aus Gibeon (Josua 9,27).
+> Auch die „Diener Salomos“ waren wohl Nachkommen von Arbeitern aus fremden Völkern (1. Könige 9,20–21).
+> Auch sie gehören jetzt fest zum Volk Gottes und kehren mit zurück. Jeder Name wird genannt. Niemand ist zu gering.
+> Der Name Sisera in Vers 53 ist derselbe wie der des Feldherrn in Richter 4. Hier ist aber eine Familie von Tempeldienern gemeint.
+
+---
+
+### Die ohne Nachweis (Vers 59–63)
+
+<sup>59</sup>Das sind die, die aus Tel-Melach, Tel-Harscha, Kerub, Addan und Immer heraufzogen.
+Aber sie konnten ihre Familie und ihre Abstammung nicht nachweisen,
+ob sie aus Israel waren:
+<sup>60</sup>die Nachkommen Delajas, die Nachkommen Tobijas, die Nachkommen Nekodas: 652.
+<sup>61</sup>Und von den Nachkommen der Priester:
+die Nachkommen Habajas, die Nachkommen Hakkoz'
+und die Nachkommen Barsillais,
+der eine Frau von den Töchtern Barsillais, des Gileaditers, genommen hatte
+und nach ihrem Namen genannt wurde.
+<sup>62</sup>Diese suchten ihr Verzeichnis unter denen, die im Stammbaum eingetragen waren,
+aber sie wurden nicht gefunden.
+Darum galten sie als unrein und wurden vom Priesterdienst ausgeschlossen.
+<sup>63</sup>Der Statthalter sagte zu ihnen,
+dass sie nicht vom Hochheiligen essen sollten,
+bis ein Priester auftritt, der mit den Urim und Tummim dient.
+
+> **Was bedeutet das?**
+> Manche konnten nicht beweisen, dass sie zu Israel gehörten. Ihre Papiere waren in der Verbannung verloren gegangen. Trotzdem kehrten sie mit zurück. Sie wurden nicht weggeschickt.
+> Bei den Priestern war es strenger: Nur wer von Aaron abstammte, durfte Priester sein. Wer das nicht beweisen konnte, durfte vorerst nicht dienen.
+> Barsillai, der Gileaditer, war ein Freund Davids, der ihm in schwerer Zeit geholfen hatte (2. Samuel 19,32–40). Ein Priester hatte seine Tochter geheiratet und ihren Familiennamen angenommen.
+> „Urim und Tummim“ waren Lose, mit denen der Hohepriester früher Gottes Willen erfragte (2. Mose 28,30). Sie waren wohl verloren gegangen. Die Entscheidung wurde aufgeschoben, bis Gott selbst Klarheit schenkt. Das ist eine weise und faire Lösung.
+> Der „Statthalter“ ist wohl Serubbabel oder Scheschbazzar. Hier steht ein persisches Wort: „Tirschata“.
+
+---
+
+### Die Gesamtzahl und die Gaben (Vers 64–70)
+
+<sup>64</sup>Die ganze Versammlung zusammen war 42 360,
+<sup>65</sup>außer ihren Knechten und Mägden, deren waren 7337.
+Und sie hatten 200 Sänger und Sängerinnen.
+<sup>66</sup>Ihre Pferde waren 736, ihre Maultiere 245,
+<sup>67</sup>ihre Kamele 435, ihre Esel 6720.
+<sup>68</sup>Einige von den Familienoberhäuptern gaben,
+als sie zum Haus des HERRN kamen, das in Jerusalem ist,
+freiwillig Gaben für das Haus Gottes,
+um es an seiner Stelle wieder aufzurichten.
+<sup>69</sup>Sie gaben nach ihrem Vermögen für den Schatz des Werkes
+61 000 Goldmünzen,
+2850 Kilogramm Silber
+und 100 Priestergewänder.
+<sup>70</sup>So wohnten die Priester und die Leviten und einige vom Volk,
+die Sänger, die Torhüter und die Tempeldiener in ihren Städten,
+und ganz Israel in seinen Städten.
+
+> **Was bedeutet das?**
+> Zählt man die einzelnen Zahlen der Liste zusammen, kommt man nur auf etwa 29 800. Die Gesamtzahl ist 42 360. Vielleicht wurden in der Gesamtzahl auch Frauen oder andere Gruppen mitgezählt, die in der Liste nicht einzeln vorkommen. Genau weiß man es nicht.
+> Insgesamt kehren also fast 50 000 Menschen zurück. Das ist nur ein kleiner Teil des Volkes. Die meisten blieben in Babylon.
+> „Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm. 61 000 Dariken sind über 500 Kilogramm Gold. Silber: In der Bibel steht „5000 Minen“. Eine Mine sind etwa 570 Gramm.
+> Die Menschen gaben „nach ihrem Vermögen“: jeder so viel, wie er konnte (vgl. 2. Korinther 8,12).
+> Die Zahlen hier sind etwas anders als in Nehemia 7,70–72. Beim Abschreiben solcher Listen kam es oft zu kleinen Abweichungen.
+
+## Esra – Kapitel 3
+#### Der Altar und das Fundament des Tempels
+
+---
+
+### Der Altar wird gebaut (Vers 1–6)
+
+<sup>1</sup>Als der siebte Monat gekommen war
+und die Kinder Israels in ihren Städten waren,
+versammelte sich das Volk wie ein Mann in Jerusalem.
+<sup>2</sup>Da machte sich Jeschua, der Sohn Jozadaks, auf
+mit seinen Brüdern, den Priestern,
+und Serubbabel, der Sohn Schealtiëls, mit seinen Verwandten,
+und sie bauten den Altar des Gottes Israels,
+um darauf Brandopfer darzubringen,
+wie es im Gesetz des Mose, des Mannes Gottes, geschrieben steht.
+<sup>3</sup>Trotz ihrer Angst vor den Völkern der umliegenden Länder
+stellten sie den Altar auf seine Grundlage
+und brachten dem HERRN darauf Brandopfer dar,
+Brandopfer am Morgen und am Abend.
+<sup>4</sup>Sie feierten das Laubhüttenfest, wie es geschrieben steht,
+und brachten die täglichen Brandopfer dar,
+nach der Zahl, nach der Vorschrift,
+wie es für jeden Tag nötig war;
+<sup>5</sup>und danach das ständige Brandopfer
+und die Opfer für die Neumonde
+und für alle heiligen Festzeiten des HERRN
+und für jeden, der dem HERRN eine freiwillige Gabe brachte.
+<sup>6</sup>Vom ersten Tag des siebten Monats an
+fingen sie an, dem HERRN Brandopfer darzubringen.
+Aber das Fundament des Tempels des HERRN war noch nicht gelegt.
+
+> **Was bedeutet das?**
+> Der siebte Monat (September/Oktober) ist der Monat der großen Feste: Neujahr, Versöhnungstag und Laubhüttenfest.
+> Das Erste, was die Heimkehrer bauen, ist nicht ein Haus für sich, sondern ein Altar für Gott. Bevor der Tempel steht, beginnt schon der Gottesdienst.
+> Sie haben Angst vor den Nachbarvölkern. Aber sie bauen trotzdem. Der Altar und die Opfer sind für sie ein Zeichen: Gott ist mit uns.
+> Jeschua (auch Josua genannt) war der Hohepriester, ein Enkel des letzten Hohenpriesters vor der Zerstörung (1. Chronik 5,40–41).
+> Das Laubhüttenfest erinnert an die Wanderung durch die Wüste. Für die Heimkehrer, die selbst eine lange Reise hinter sich hatten, war das besonders bedeutungsvoll.
+
+---
+
+### Die Vorbereitungen (Vers 7)
+
+<sup>7</sup>Sie gaben den Steinmetzen und den Zimmerleuten Geld.
+Und sie gaben den Leuten aus Sidon und Tyrus Essen, Trinken und Öl,
+damit sie Zedernholz vom Libanon zum Meer nach Jafo brachten,
+nach der Erlaubnis, die sie von Kyrus, dem König von Persien, hatten.
+
+> **Was bedeutet das?**
+> Wie beim Bau des ersten Tempels unter Salomo kommt das Holz wieder aus dem Libanon, über das Meer nach Jafo (2. Chronik 2,15). Der neue Tempel soll an den alten anknüpfen.
+> Jafo ist das heutige Jaffa, ein Teil von Tel Aviv.
+
+---
+
+### Das Fundament wird gelegt (Vers 8–11)
+
+<sup>8</sup>Im zweiten Jahr nach ihrer Ankunft beim Haus Gottes in Jerusalem,
+im zweiten Monat,
+fingen Serubbabel, der Sohn Schealtiëls, und Jeschua, der Sohn Jozadaks,
+und ihre übrigen Brüder, die Priester und die Leviten,
+und alle, die aus der Gefangenschaft nach Jerusalem gekommen waren,
+mit der Arbeit an.
+Sie stellten die Leviten von 20 Jahren an und darüber an,
+um die Arbeit am Haus des HERRN zu beaufsichtigen.
+<sup>9</sup>Da standen Jeschua mit seinen Söhnen und seinen Brüdern,
+Kadmiël und seine Söhne, die Söhne Judas,
+gemeinsam bereit, um die Aufsicht über die Arbeiter am Haus Gottes zu führen,
+dazu die Söhne Henadads mit ihren Söhnen und ihren Brüdern, den Leviten.
+<sup>10</sup>Als die Bauleute das Fundament des Tempels des HERRN legten,
+stellten sie die Priester in ihren Gewändern mit Trompeten auf
+und die Leviten, die Söhne Asafs, mit Zimbeln,
+um den HERRN zu loben,
+nach den Anweisungen Davids, des Königs von Israel.
+<sup>11</sup>Sie sangen einander im Wechsel zu, lobten und dankten dem HERRN:
+„Denn er ist gut,
+denn seine Güte bleibt für immer über Israel.“
+Und das ganze Volk jubelte mit großem Jubel,
+als sie den HERRN lobten,
+weil das Fundament des Hauses des HERRN gelegt war.
+
+> **Was bedeutet das?**
+> Der zweite Monat ist derselbe Monat, in dem Salomo mit dem Bau des ersten Tempels begann (1. Könige 6,1). Wieder eine Verbindung zum alten Tempel.
+> „Söhne Judas“ in Vers 9: Gemeint ist wohl „Hodawja“, die Levitenfamilie aus Kapitel 2,40. Die beiden Namen sehen im Hebräischen ähnlich aus.
+> Als das Fundament gelegt ist, wird gefeiert. Sie singen dieselben Worte wie bei der Einweihung des ersten Tempels: „Denn er ist gut, denn seine Güte bleibt für immer“ (2. Chronik 5,13; 7,3; Psalm 136).
+> „Im Wechsel“: Zwei Chöre singen sich gegenseitig zu, wie es bei vielen Psalmen üblich war.
+
+---
+
+### Jubel und Weinen (Vers 12–13)
+
+<sup>12</sup>Aber viele von den Priestern, den Leviten und den Familienoberhäuptern,
+die Alten, die das erste Haus noch gesehen hatten,
+weinten mit lauter Stimme,
+als vor ihren Augen das Fundament dieses Hauses gelegt wurde.
+Viele aber jubelten laut vor Freude,
+<sup>13</sup>sodass das Volk das Geräusch des Freudenjubels
+nicht vom Geräusch des Weinens des Volkes unterscheiden konnte.
+Denn das Volk jubelte mit lautem Jubel,
+und den Lärm hörte man weithin.
+
+> **Was bedeutet das?**
+> Ein bewegender Moment: Die Jungen jubeln, weil endlich der Tempel gebaut wird. Die Alten weinen, weil sie sich noch an den prächtigen Tempel Salomos erinnern, der 50 Jahre vorher zerstört wurde.
+> Vielleicht weinten sie, weil der neue Tempel viel kleiner und ärmer war (vgl. Haggai 2,3). Vielleicht weinten sie auch vor Freude und Rührung, dass sie das noch erleben durften.
+> Freude und Trauer liegen nah beieinander und klingen manchmal gleich. Beides hat seinen Platz vor Gott. Ein Neuanfang ist oft beides: Freude über das Neue und Trauer über das, was verloren ist.
