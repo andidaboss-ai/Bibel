@@ -79135,3 +79135,487 @@ Halte deinen Fuß vom Bösen fern!
 > Vers 23 ist einer der wichtigsten Sätze des Buches. Das Herz ist in der Bibel nicht nur das Gefühl, sondern die Mitte des Menschen: Denken, Wollen, Fühlen. Aus dem Herzen kommt alles, was wir tun. Darum: Pass gut auf dein Herz auf! Was lässt du hinein? Was denkst du? Was willst du?
 > Vers 24–27: Der ganze Mensch ist gefragt: der Mund (was ich sage), die Augen (wohin ich schaue), die Füße (wohin ich gehe).
 > Vers 25: Schau nach vorn auf dein Ziel und lass dich nicht ablenken.
+
+## Sprüche – Kapitel 5
+#### Bleib deiner Frau treu
+
+---
+
+### Süß wie Honig, bitter wie Wermut (Vers 1–14)
+
+<sup>1</sup>Mein Sohn, achte auf meine Weisheit!
+Neige dein Ohr zu meiner Einsicht,
+<sup>2</sup>damit du Besonnenheit bewahrst
+und deine Lippen Erkenntnis behüten.
+<sup>3</sup>Denn die Lippen einer Ehebrecherin tropfen von Honig.
+Ihr Mund ist glatter als Öl.
+<sup>4</sup>Aber am Ende ist sie bitter wie Wermut
+und scharf wie ein zweischneidiges Schwert.
+<sup>5</sup>Ihre Füße gehen hinab zum Tod.
+Ihre Schritte führen geradewegs ins Totenreich.
+<sup>6</sup>Sie denkt nicht über den Weg des Lebens nach.
+Ihre Wege sind krumm, und sie weiß es nicht.
+<sup>7</sup>Darum, meine Söhne, hört jetzt auf mich!
+Weicht nicht ab von den Worten meines Mundes!
+<sup>8</sup>Halte deinen Weg fern von ihr!
+Komm der Tür ihres Hauses nicht nahe,
+<sup>9</sup>damit du nicht anderen deine Ehre gibst
+und deine Jahre dem Grausamen,
+<sup>10</sup>damit sich nicht Fremde an deinem Vermögen sättigen
+und deine Mühen nicht das Haus eines anderen reich machen.
+<sup>11</sup>Du wirst am Ende stöhnen,
+wenn dein Fleisch und dein Körper verzehrt sind,
+<sup>12</sup>und du wirst sagen: „Wie habe ich die Erziehung gehasst,
+und mein Herz hat die Zurechtweisung verachtet!
+<sup>13</sup>Ich habe nicht auf die Stimme meiner Lehrer gehört
+und mein Ohr nicht denen zugeneigt, die mich unterrichtet haben!
+<sup>14</sup>Ich bin fast ganz ins Verderben geraten,
+mitten in der versammelten Gemeinde.“
+
+> **Was bedeutet das?**
+> Der Vater warnt seinen Sohn vor Ehebruch. Am Anfang wirkt die Verführung süß wie Honig. Aber am Ende ist sie bitter wie Wermut, eine sehr bittere Pflanze.
+> Vers 9–10: Wer fremdgeht, verliert viel: Ehre, Lebenszeit, Geld. Damals konnte Ehebruch hohe Strafen und Entschädigungen kosten.
+> Vers 12–14: Am Ende bereut der Mann: Hätte ich doch auf meine Lehrer gehört!
+> Wie in Kapitel 2 gilt: Das Buch spricht zu jungen Männern. Die Warnung vor Untreue gilt für alle, für Männer wie für Frauen.
+
+---
+
+### Trink aus deinem eigenen Brunnen (Vers 15–23)
+
+<sup>15</sup>Trink Wasser aus deiner eigenen Zisterne,
+fließendes Wasser aus deinem eigenen Brunnen!
+<sup>16</sup>Sollen deine Quellen sich auf die Straßen ergießen,
+Wasserbäche auf die öffentlichen Plätze?
+<sup>17</sup>Sie sollen dir allein gehören
+und nicht Fremden neben dir.
+<sup>18</sup>Deine Quelle sei gesegnet!
+Freu dich an der Frau deiner Jugend,
+<sup>19</sup>einer liebevollen Hirschkuh, einer anmutigen Gazelle!
+Ihre Brüste sollen dich zu jeder Zeit sättigen.
+Lass dich immer von ihrer Liebe bezaubern!
+<sup>20</sup>Denn warum, mein Sohn, solltest du dich von einer Ehebrecherin bezaubern lassen?
+Warum solltest du die Brust einer anderen umarmen?
+<sup>21</sup>Denn die Wege des Menschen liegen vor den Augen des HERRN.
+Er prüft alle seine Pfade.
+<sup>22</sup>Die bösen Taten des Gottlosen fangen ihn.
+Die Stricke seiner Sünde halten ihn fest.
+<sup>23</sup>Er wird sterben, weil ihm Erziehung fehlt.
+In der Größe seiner Torheit wird er in die Irre gehen.
+
+> **Was bedeutet das?**
+> Hier spricht die Bibel offen und positiv über Liebe und Sexualität in der Ehe.
+> Vers 15–17: Der „eigene Brunnen“ ist ein Bild für die eigene Ehefrau. In einem trockenen Land war ein eigener Brunnen ein großer Schatz. Man teilt ihn nicht mit Fremden.
+> Vers 18–19: Freu dich an deiner Frau! Lass dich immer wieder von ihrer Liebe bezaubern, auch nach vielen Jahren. Die Bibel sieht körperliche Liebe in der Ehe als etwas Schönes und Gutes (vgl. das Hohelied).
+> Vers 21: Gott sieht alles, auch was im Verborgenen geschieht.
+> Vers 22: Sünde ist wie ein Strick, in dem man sich selbst verfängt.
+
+## Sprüche – Kapitel 6
+#### Geh zur Ameise!
+
+---
+
+### Bürgschaft: Befreie dich schnell (Vers 1–5)
+
+<sup>1</sup>Mein Sohn, wenn du für deinen Nächsten gebürgt hast,
+wenn du für einen Fremden mit Handschlag eingestanden bist,
+<sup>2</sup>dann bist du gefangen durch die Worte deines Mundes.
+Du bist verstrickt durch die Worte deines Mundes.
+<sup>3</sup>Tu jetzt dies, mein Sohn, und rette dich,
+da du in die Hand deines Nächsten geraten bist:
+Geh, demütige dich!
+Bedränge deinen Nächsten mit deiner Bitte!
+<sup>4</sup>Gönne deinen Augen keinen Schlaf
+und deinen Augenlidern keinen Schlummer!
+<sup>5</sup>Befreie dich wie eine Gazelle aus der Hand des Jägers,
+wie ein Vogel aus der Schlinge des Vogelfängers!
+
+> **Was bedeutet das?**
+> Eine „Bürgschaft“ heißt: Ich verspreche, die Schulden eines anderen zu bezahlen, wenn er es nicht kann. Damals besiegelte man das mit Handschlag.
+> Der Rat: Wenn du unüberlegt gebürgt hast, versuche schnell, wieder herauszukommen. Sonst kannst du alles verlieren.
+> Dieser Rat ist bis heute aktuell. Viele Menschen geraten durch Bürgschaften für Freunde oder Verwandte in große Schulden. Das heißt nicht, dass man nicht helfen soll. Aber man soll nichts versprechen, was man nicht tragen kann.
+> Wer Schulden hat und Hilfe braucht: Schuldnerberatungsstellen (zum Beispiel bei Caritas, Diakonie oder Verbraucherzentralen) helfen kostenlos.
+
+---
+
+### Lerne von der Ameise (Vers 6–11)
+
+<sup>6</sup>Geh zur Ameise, du Fauler!
+Schau dir ihre Wege an und werde weise!
+<sup>7</sup>Sie hat keinen Anführer,
+keinen Aufseher und keinen Herrscher.
+<sup>8</sup>Trotzdem sorgt sie im Sommer für ihr Brot
+und sammelt ihre Nahrung in der Erntezeit.
+<sup>9</sup>Wie lange willst du schlafen, du Fauler?
+Wann willst du aus deinem Schlaf aufstehen?
+<sup>10</sup>Ein wenig schlafen, ein wenig schlummern,
+ein wenig die Hände falten, um zu schlafen,
+<sup>11</sup>so wird deine Armut kommen wie ein Räuber
+und dein Mangel wie ein bewaffneter Mann.
+
+> **Was bedeutet das?**
+> Die kleine Ameise ist ein Vorbild: Niemand muss sie antreiben. Trotzdem arbeitet sie fleißig und sorgt vor für den Winter.
+> Vers 10–11: Faulheit kommt in kleinen Schritten: „Nur noch fünf Minuten …“ Und plötzlich ist die Not da, wie ein Räuber, der überraschend kommt.
+> Wichtig: Hier geht es um Faulheit, nicht um Menschen, die krank, erschöpft oder arbeitslos sind. Armut hat oft ganz andere Gründe. Die Bibel fordert viele Male, den Armen zu helfen.
+
+---
+
+### Der Unruhestifter (Vers 12–15)
+
+<sup>12</sup>Ein nichtsnutziger Mensch, ein Mann des Unrechts,
+ist der, der mit einem verdrehten Mund umhergeht,
+<sup>13</sup>der mit den Augen zwinkert,
+der mit den Füßen Zeichen gibt,
+der mit den Fingern deutet,
+<sup>14</sup>in dessen Herz Verdrehtheit ist,
+der ständig Böses plant,
+der immer Streit sät.
+<sup>15</sup>Darum wird sein Unglück plötzlich kommen.
+Er wird plötzlich zerbrochen werden, und es gibt keine Heilung.
+
+> **Was bedeutet das?**
+> Ein Bild von einem hinterhältigen Menschen: Er redet falsch und gibt heimliche Zeichen mit Augen, Füßen und Fingern. So verabredet er sich mit anderen gegen jemanden.
+> Er stiftet ständig Streit. Aber am Ende fällt sein Verhalten auf ihn selbst zurück.
+
+---
+
+### Sieben Dinge, die Gott hasst (Vers 16–19)
+
+<sup>16</sup>Sechs Dinge gibt es, die der HERR hasst,
+ja, sieben sind ihm ein Gräuel:
+<sup>17</sup>hochmütige Augen, eine lügnerische Zunge,
+Hände, die unschuldiges Blut vergießen,
+<sup>18</sup>ein Herz, das böse Pläne schmiedet,
+Füße, die schnell zum Unheil laufen,
+<sup>19</sup>ein falscher Zeuge, der Lügen ausspricht,
+und wer Streit sät unter Brüdern.
+
+> **Was bedeutet das?**
+> „Sechs, ja sieben“: eine typische Art zu zählen, die das Letzte besonders betont. Das siebte ist das Schlimmste: Streit säen zwischen Menschen, die zusammengehören.
+> Die Liste geht durch den ganzen Körper: Augen, Zunge, Hände, Herz, Füße. Böses kann mit allem getan werden, was wir haben.
+> Gott hasst nicht die Menschen, sondern diese Taten, weil sie andere verletzen und Gemeinschaft zerstören.
+
+---
+
+### Das Gebot ist eine Lampe (Vers 20–35)
+
+<sup>20</sup>Mein Sohn, halte das Gebot deines Vaters,
+und verlass nicht die Lehre deiner Mutter!
+<sup>21</sup>Binde sie immer auf dein Herz!
+Knüpfe sie um deinen Hals!
+<sup>22</sup>Wenn du gehst, wird sie dich führen.
+Wenn du schläfst, wird sie über dich wachen.
+Wenn du aufwachst, wird sie mit dir reden.
+<sup>23</sup>Denn das Gebot ist eine Lampe, und die Weisung ist Licht.
+Die Zurechtweisungen der Erziehung sind der Weg des Lebens,
+<sup>24</sup>um dich zu bewahren vor der unmoralischen Frau,
+vor der schmeichelnden Zunge der untreuen Ehefrau.
+<sup>25</sup>Begehre ihre Schönheit nicht in deinem Herzen,
+und lass dich nicht von ihren Augenlidern fangen!
+<sup>26</sup>Denn eine Prostituierte bringt dich bis auf ein Stück Brot herunter.
+Die Ehebrecherin jagt nach deinem kostbaren Leben.
+<sup>27</sup>Kann ein Mann Feuer in seinen Schoß nehmen,
+ohne dass seine Kleider verbrennen?
+<sup>28</sup>Oder kann jemand über glühende Kohlen gehen,
+ohne dass seine Füße verbrannt werden?
+<sup>29</sup>So ist es mit dem, der zur Frau seines Nächsten geht.
+Wer sie berührt, wird nicht ungestraft bleiben.
+<sup>30</sup>Man verachtet einen Dieb nicht,
+wenn er stiehlt, um sich satt zu machen, weil er Hunger hat.
+<sup>31</sup>Aber wenn er erwischt wird, muss er es siebenfach erstatten.
+Er muss den ganzen Besitz seines Hauses hergeben.
+<sup>32</sup>Wer mit einer Frau Ehebruch begeht, hat keinen Verstand.
+Wer das tut, zerstört sein eigenes Leben.
+<sup>33</sup>Er bekommt Wunden und Schande.
+Seine Schmach wird nicht ausgelöscht werden.
+<sup>34</sup>Denn Eifersucht weckt die Wut des Ehemanns.
+Er wird nicht schonen am Tag der Rache.
+<sup>35</sup>Er wird kein Lösegeld annehmen.
+Er wird nicht zufrieden sein, auch wenn du viele Geschenke gibst.
+
+> **Was bedeutet das?**
+> Vers 22: Die guten Lehren der Eltern begleiten einen das ganze Leben: tagsüber, nachts und am Morgen.
+> Vers 23: „Das Gebot ist eine Lampe“: wie Psalm 119,105.
+> Vers 27–28: Wer fremdgeht, spielt mit dem Feuer. Man kann nicht über glühende Kohlen gehen, ohne sich zu verbrennen.
+> Vers 30–35: Ein Vergleich: Einen Dieb, der aus Hunger stiehlt, versteht man noch. Er kann den Schaden ersetzen. Aber Ehebruch kann man nicht mit Geld wiedergutmachen. Der verletzte Ehemann lässt sich nicht kaufen.
+> Vers 34: Hier wird beschrieben, wie ein betrogener Mann reagieren kann. Es ist keine Erlaubnis für Rache oder Gewalt. Es zeigt nur, wie tief die Verletzung durch Untreue geht.
+
+## Sprüche – Kapitel 7
+#### Der junge Mann und die Verführerin
+
+---
+
+### Nenne die Weisheit deine Schwester (Vers 1–5)
+
+<sup>1</sup>Mein Sohn, halte meine Worte!
+Bewahre meine Gebote bei dir auf!
+<sup>2</sup>Halte meine Gebote, dann wirst du leben!
+Hüte meine Lehre wie deinen Augapfel!
+<sup>3</sup>Binde sie an deine Finger!
+Schreibe sie auf die Tafel deines Herzens!
+<sup>4</sup>Sag zur Weisheit: „Du bist meine Schwester!“
+Nenne die Einsicht deine Verwandte,
+<sup>5</sup>damit sie dich bewahren vor der fremden Frau,
+vor der Fremden, die mit ihren Worten schmeichelt.
+
+> **Was bedeutet das?**
+> Vers 2: „Wie deinen Augapfel“: so sorgfältig, wie man sein Auge schützt.
+> Vers 3: „Binde sie an deine Finger“: Im Judentum bindet man beim Gebet kleine Kapseln mit Bibelworten an Arm und Kopf (Tefillin). Das erinnert an solche Verse (vgl. 5. Mose 6,8).
+> Vers 4: Die Weisheit soll dir so vertraut sein wie eine Schwester.
+
+---
+
+### Eine Geschichte am Fenster (Vers 6–23)
+
+<sup>6</sup>Denn am Fenster meines Hauses
+schaute ich durch mein Gitter hinaus.
+<sup>7</sup>Ich sah unter den Einfältigen,
+ich bemerkte unter den Jugendlichen
+einen jungen Mann ohne Verstand.
+<sup>8</sup>Er ging auf der Straße an ihrer Ecke vorbei.
+Er nahm den Weg zu ihrem Haus,
+<sup>9</sup>in der Dämmerung, am Abend des Tages,
+mitten in der Nacht und in der Dunkelheit.
+<sup>10</sup>Siehe, da kam ihm eine Frau entgegen,
+gekleidet wie eine Prostituierte und mit listiger Absicht.
+<sup>11</sup>Sie ist laut und trotzig.
+Ihre Füße bleiben nicht in ihrem Haus.
+<sup>12</sup>Mal ist sie auf den Straßen, mal auf den Plätzen,
+und an jeder Ecke lauert sie.
+<sup>13</sup>Sie packte ihn und küsste ihn.
+Mit frechem Gesicht sagte sie zu ihm:
+<sup>14</sup>„Ich hatte Friedensopfer zu bringen.
+Heute habe ich meine Gelübde erfüllt.
+<sup>15</sup>Darum bin ich herausgekommen, dir entgegen,
+um eifrig dein Gesicht zu suchen, und ich habe dich gefunden.
+<sup>16</sup>Ich habe mein Bett mit Decken aus Wandteppich ausgelegt,
+mit bunt gestreiften Tüchern aus ägyptischem Garn.
+<sup>17</sup>Ich habe mein Bett parfümiert
+mit Myrrhe, Aloe und Zimt.
+<sup>18</sup>Komm, lass uns uns an Liebe sättigen bis zum Morgen!
+Lass uns uns an Liebe erfreuen!
+<sup>19</sup>Denn mein Mann ist nicht zu Hause.
+Er ist auf eine lange Reise gegangen.
+<sup>20</sup>Er hat einen Beutel Geld mitgenommen.
+Er wird erst zum Vollmond nach Hause kommen.“
+<sup>21</sup>Mit überredenden Worten verführte sie ihn.
+Mit dem Schmeicheln ihrer Lippen verleitete sie ihn.
+<sup>22</sup>Er folgte ihr sofort,
+wie ein Ochse zur Schlachtbank geht,
+wie ein Tor, der in eine Schlinge tritt,
+<sup>23</sup>bis ein Pfeil seine Leber durchbohrt,
+wie ein Vogel, der in die Schlinge eilt
+und nicht weiß, dass es ihn das Leben kostet.
+
+> **Was bedeutet das?**
+> Der Vater erzählt eine Geschichte, die er vom Fenster aus beobachtet hat. Ein junger, unerfahrener Mann geht abends absichtlich in die Gegend, wo die Frau wohnt. Er sucht die Versuchung.
+> Vers 14: Bei einem Friedensopfer bekam man Fleisch zurück, das man zu Hause essen musste. Die Frau sagt also: Ich habe ein gutes Essen zu Hause. Sie benutzt sogar Religiöses für ihre Verführung.
+> Vers 19–20: Ihr Mann ist weg, niemand wird es merken. So klingt Versuchung oft: „Es merkt ja keiner.“
+> Vers 22–23: Der junge Mann merkt nicht, dass er in eine Falle läuft, wie ein Tier zum Schlachter.
+> Die Geschichte warnt vor Untreue und vor dem Denken „nur dieses eine Mal“.
+
+---
+
+### Ihr Haus ist der Weg zum Tod (Vers 24–27)
+
+<sup>24</sup>Darum, ihr Söhne, hört jetzt auf mich!
+Achtet auf die Worte meines Mundes!
+<sup>25</sup>Dein Herz soll sich nicht zu ihren Wegen hinwenden.
+Geh nicht in die Irre auf ihren Pfaden,
+<sup>26</sup>denn sie hat viele Verwundete zu Fall gebracht.
+Ja, alle, die sie getötet hat, sind ein gewaltiges Heer.
+<sup>27</sup>Ihr Haus ist der Weg ins Totenreich,
+der hinabführt zu den Kammern des Todes.
+
+> **Was bedeutet das?**
+> Untreue hat schon viele Leben zerstört: Ehen, Familien, Kinder, Vertrauen.
+> Der Rat des Vaters: Lass dein Herz gar nicht erst in diese Richtung gehen. Die Entscheidung fällt im Herzen, lange bevor etwas passiert (vgl. Sprüche 4,23).
+
+## Sprüche – Kapitel 8
+#### Die Weisheit spricht
+
+---
+
+### Die Weisheit ruft alle Menschen (Vers 1–11)
+
+<sup>1</sup>Ruft nicht die Weisheit?
+Erhebt nicht die Einsicht ihre Stimme?
+<sup>2</sup>Oben auf den Höhen am Weg,
+wo die Pfade sich treffen, da steht sie.
+<sup>3</sup>Neben den Toren, am Eingang der Stadt,
+an den Eingangstüren ruft sie laut:
+<sup>4</sup>„Euch Männer rufe ich!
+Meine Stimme gilt den Menschenkindern.
+<sup>5</sup>Ihr Einfältigen, versteht Klugheit!
+Ihr Toren, bekommt ein verständiges Herz!
+<sup>6</sup>Hört, denn ich werde vortreffliche Dinge sagen.
+Was meine Lippen öffnen, ist richtig.
+<sup>7</sup>Denn mein Mund spricht Wahrheit.
+Gottlosigkeit ist meinen Lippen ein Gräuel.
+<sup>8</sup>Alle Worte meines Mundes sind gerecht.
+Nichts Krummes oder Verdrehtes ist in ihnen.
+<sup>9</sup>Sie sind alle klar für den, der versteht,
+richtig für die, die Erkenntnis finden.
+<sup>10</sup>Nehmt meine Erziehung an statt Silber,
+Erkenntnis lieber als erlesenes Gold!
+<sup>11</sup>Denn Weisheit ist besser als Rubine.
+Alles, was man sich wünschen kann, ist nicht mit ihr zu vergleichen.
+
+> **Was bedeutet das?**
+> Wie in Kapitel 1 ruft die Weisheit öffentlich, wo alle vorbeikommen: an Kreuzungen und an den Stadttoren. Ihre Einladung gilt allen Menschen.
+> Ihre Worte sind wahr, gerecht und klar. Sie sind mehr wert als Gold und Edelsteine.
+
+---
+
+### Durch mich regieren Könige (Vers 12–21)
+
+<sup>12</sup>Ich, die Weisheit, wohne bei der Klugheit.
+Findet Erkenntnis und Besonnenheit!
+<sup>13</sup>Die Ehrfurcht vor dem HERRN heißt: das Böse hassen.
+Ich hasse Stolz, Hochmut, den bösen Weg und den verdrehten Mund.
+<sup>14</sup>Rat und gesunde Erkenntnis gehören mir.
+Ich habe Einsicht und Kraft.
+<sup>15</sup>Durch mich regieren Könige,
+und Fürsten bestimmen, was gerecht ist.
+<sup>16</sup>Durch mich herrschen Fürsten und Edle,
+alle gerechten Herrscher der Erde.
+<sup>17</sup>Ich liebe die, die mich lieben.
+Die mich eifrig suchen, werden mich finden.
+<sup>18</sup>Bei mir sind Reichtum und Ehre,
+bleibender Wohlstand und Gedeihen.
+<sup>19</sup>Meine Frucht ist besser als Gold, ja als feines Gold,
+mein Ertrag besser als erlesenes Silber.
+<sup>20</sup>Ich gehe auf dem Weg der Gerechtigkeit,
+mitten auf den Pfaden des Rechts,
+<sup>21</sup>damit ich denen, die mich lieben, Besitz gebe.
+Ich fülle ihre Schatzkammern.
+
+> **Was bedeutet das?**
+> Vers 13: Ehrfurcht vor Gott zeigt sich ganz praktisch: Man hasst das Böse, besonders Hochmut und Lügen.
+> Vers 15–16: Gute Politik braucht Weisheit. Herrscher sollen gerecht regieren. Das gilt bis heute für alle, die Verantwortung tragen.
+> Vers 17: Ein schönes Versprechen: Wer die Weisheit sucht, wird sie finden.
+
+---
+
+### Ich war dabei, als Gott die Welt schuf (Vers 22–31)
+
+<sup>22</sup>Der HERR besaß mich am Anfang seines Werkes,
+vor seinen Taten in der Urzeit.
+<sup>23</sup>Ich wurde eingesetzt von Ewigkeit her,
+vom Anfang an, bevor die Erde war.
+<sup>24</sup>Als es noch keine Tiefen gab, wurde ich geboren,
+als es noch keine Quellen voll Wasser gab.
+<sup>25</sup>Bevor die Berge an ihren Ort gesetzt waren,
+vor den Hügeln wurde ich geboren,
+<sup>26</sup>als er die Erde noch nicht gemacht hatte,
+auch nicht die Felder
+und nicht den ersten Staub der Welt.
+<sup>27</sup>Als er den Himmel festsetzte, war ich da.
+Als er einen Kreis auf die Oberfläche der Tiefe zog,
+<sup>28</sup>als er die Wolken oben festigte,
+als die Quellen der Tiefe stark wurden,
+<sup>29</sup>als er dem Meer seine Grenze setzte,
+damit die Wasser sein Gebot nicht übertreten,
+als er die Fundamente der Erde abmaß,
+<sup>30</sup>da war ich der Werkmeister an seiner Seite.
+Ich war Tag für Tag seine Freude
+und freute mich immer vor ihm.
+<sup>31</sup>Ich freute mich an seiner ganzen Welt.
+Meine Freude war bei den Menschenkindern.
+
+> **Was bedeutet das?**
+> Das ist einer der schönsten Texte des Buches. Die Weisheit erzählt: Bevor es Berge, Meere und Erde gab, war ich schon bei Gott. Ich war dabei, als er alles erschuf.
+> Vers 30: Die Weisheit war wie ein Baumeister an Gottes Seite. Oder, wie man das hebräische Wort auch übersetzen kann: wie ein Kind, das vor Gott spielt und sich freut. Die Schöpfung ist voller Freude.
+> Vers 31: Besonders gern ist die Weisheit bei den Menschen.
+> Juden sehen in der Weisheit oft die Tora, Gottes Weisung, die schon vor der Welt bei Gott war. Christen sehen in diesem Text einen Hinweis auf Christus. Das Johannesevangelium sagt: „Im Anfang war das Wort, und das Wort war bei Gott … Alles ist durch dasselbe gemacht“ (Johannes 1,1–3). Paulus nennt Christus „Gottes Weisheit“ (1. Korinther 1,24).
+
+---
+
+### Wer mich findet, findet Leben (Vers 32–36)
+
+<sup>32</sup>„Darum, meine Söhne, hört jetzt auf mich,
+denn glücklich sind die, die meine Wege bewahren.
+<sup>33</sup>Hört auf die Erziehung und werdet weise!
+Lehnt sie nicht ab!
+<sup>34</sup>Glücklich ist der Mensch, der auf mich hört,
+der täglich an meinen Toren wacht
+und an den Pfosten meiner Tür wartet.
+<sup>35</sup>Denn wer mich findet, findet Leben
+und bekommt Wohlgefallen vom HERRN.
+<sup>36</sup>Aber wer gegen mich sündigt, schadet seiner eigenen Seele.
+Alle, die mich hassen, lieben den Tod.“
+
+> **Was bedeutet das?**
+> Vers 34: Ein Bild wie bei einem verliebten Menschen, der jeden Tag vor der Tür des geliebten Menschen wartet. So sehnsüchtig soll man die Weisheit suchen.
+> Vers 35–36: Es geht um Leben oder Tod. Wer die Weisheit findet, findet das Leben. Wer sie ablehnt, schadet sich selbst.
+
+## Sprüche – Kapitel 9
+#### Zwei Einladungen
+
+---
+
+### Frau Weisheit lädt ein (Vers 1–6)
+
+<sup>1</sup>Die Weisheit hat ihr Haus gebaut.
+Sie hat ihre sieben Säulen behauen.
+<sup>2</sup>Sie hat ihr Fleisch zubereitet.
+Sie hat ihren Wein gemischt.
+Sie hat auch ihren Tisch gedeckt.
+<sup>3</sup>Sie hat ihre Mägde ausgesandt.
+Sie ruft von den höchsten Plätzen der Stadt:
+<sup>4</sup>„Wer einfältig ist, der komme hierher!“
+Zu dem, der keinen Verstand hat, sagt sie:
+<sup>5</sup>„Kommt, esst von meinem Brot
+und trinkt von dem Wein, den ich gemischt habe!
+<sup>6</sup>Lasst eure Einfalt hinter euch, dann werdet ihr leben!
+Geht auf dem Weg der Einsicht!“
+
+> **Was bedeutet das?**
+> Die Weisheit ist wie eine großzügige Gastgeberin. Sie hat ein schönes Haus gebaut und ein Festmahl vorbereitet. Sie lädt alle ein, besonders die, die noch nicht viel wissen.
+> „Sieben Säulen“: Die Zahl sieben steht für Vollkommenheit. Ihr Haus ist vollkommen.
+> Jesus erzählt ein ähnliches Gleichnis vom großen Festmahl, zu dem alle eingeladen sind (Lukas 14,15–24).
+
+---
+
+### Wer lässt sich belehren? (Vers 7–12)
+
+<sup>7</sup>Wer einen Spötter zurechtweist, erntet Beleidigung.
+Wer einen Gottlosen tadelt, erntet Beschimpfung.
+<sup>8</sup>Weise einen Spötter nicht zurecht, sonst hasst er dich!
+Weise einen Weisen zurecht, dann wird er dich lieben.
+<sup>9</sup>Unterrichte einen Weisen, dann wird er noch weiser.
+Lehre einen Gerechten, dann wird er an Lehre zunehmen.
+<sup>10</sup>Die Ehrfurcht vor dem HERRN ist der Anfang der Weisheit.
+Die Erkenntnis des Heiligen ist Einsicht.
+<sup>11</sup>Denn durch mich werden deine Tage zahlreich werden.
+Die Jahre deines Lebens werden sich vermehren.
+<sup>12</sup>Wenn du weise bist, bist du es zu deinem eigenen Nutzen.
+Wenn du spottest, musst du es allein tragen.
+
+> **Was bedeutet das?**
+> Vers 7–9: Ein Test: Wie reagiert jemand auf Kritik? Der Spötter wird wütend. Der Weise ist dankbar und lernt daraus. Weise Menschen lassen sich gern korrigieren.
+> Vers 10: Hier wiederholt sich der Leitsatz aus Kapitel 1,7. Damit endet der erste große Teil des Buches so, wie er angefangen hat.
+> Vers 12: Jeder ist für sich selbst verantwortlich. Weisheit nützt dir selbst. Spott schadet dir selbst.
+
+---
+
+### Frau Torheit lädt auch ein (Vers 13–18)
+
+<sup>13</sup>Die törichte Frau ist laut,
+zügellos und weiß nichts.
+<sup>14</sup>Sie sitzt an der Tür ihres Hauses,
+auf einem Sitz an den hohen Plätzen der Stadt,
+<sup>15</sup>um denen zuzurufen, die vorbeigehen,
+die geradeaus ihre Wege gehen:
+<sup>16</sup>„Wer einfältig ist, der komme hierher!“
+Zu dem, der keinen Verstand hat, sagt sie:
+<sup>17</sup>„Gestohlenes Wasser ist süß.
+Heimlich gegessenes Brot schmeckt gut.“
+<sup>18</sup>Aber er weiß nicht, dass dort die Geister der Toten sind,
+dass ihre Gäste in den Tiefen des Totenreichs sind.
+
+> **Was bedeutet das?**
+> Jetzt kommt das Gegenbild: Frau Torheit. Auch sie lädt ein, mit genau denselben Worten wie die Weisheit (Vers 4 und Vers 16). Beide rufen die Unerfahrenen.
+> Aber die Torheit hat nichts vorbereitet. Sie bietet nur „gestohlenes Wasser“ und „heimliches Brot“: das Verbotene, das besonders reizvoll scheint.
+> Vers 18: Ihre Gäste merken nicht, dass sie in Wirklichkeit im Totenreich sitzen.
+> Jeder Mensch steht vor dieser Wahl: Welcher Einladung folge ich? Der Weisheit, die zum Leben führt, oder der Torheit, die verlockend klingt, aber in den Tod führt?
+> Damit endet der erste Teil des Buches (Kapitel 1–9). Ab Kapitel 10 folgen die einzelnen kurzen Sprüche Salomos.
