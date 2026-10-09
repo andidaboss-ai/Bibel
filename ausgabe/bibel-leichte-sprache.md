@@ -93478,3 +93478,299 @@ Handle mit ihnen zur Zeit deines Zorns!
 > Vers 21–23: Jeremia betet ein hartes Fluchgebet gegen seine Feinde und ihre Familien. Diese Worte erschrecken. Sie zeigen, wie verzweifelt und verletzt Jeremia war. Die Bibel verschweigt solche Gefühle nicht. Sie zeigt einen Menschen, der seinen ganzen Zorn vor Gott bringt, statt selbst Gewalt anzuwenden.
 > Wichtig: Diese Worte sind keine Anweisung, anderen Böses zu wünschen oder zu tun. Jesus hat einen anderen Weg gezeigt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44). Am Kreuz betete er: „Vater, vergib ihnen“ (Lukas 23,34).
 > Wer von anderen gemobbt oder bedroht wird, darf sich Hilfe holen: Nummer gegen Kummer 116 111, Telefonseelsorge 0800 111 0 111.
+
+## Jeremia – Kapitel 19
+#### Der zerbrochene Krug
+
+---
+
+### Botschaft im Tal Ben-Hinnom (Vers 1–9)
+
+<sup>1</sup>So sprach der HERR:
+„Geh und kauf einen Tonkrug vom Töpfer
+und nimm einige von den Ältesten des Volkes
+und von den Ältesten der Priester mit dir
+<sup>2</sup>und geh hinaus in das Tal Ben-Hinnom,
+das am Eingang des Scherbentores liegt,
+und rufe dort die Worte aus, die ich dir sagen werde.
+<sup>3</sup>Sag: ‚Hört das Wort des HERRN, ihr Könige von Juda
+und ihr Bewohner Jerusalems!
+So spricht der HERR der Heere, der Gott Israels:
+„Siehe, ich bringe Unheil über diesen Ort,
+sodass jedem, der davon hört, die Ohren gellen werden.
+<sup>4</sup>Denn sie haben mich verlassen
+und diesen Ort fremd gemacht
+und an ihm anderen Göttern Räucherwerk verbrannt,
+die sie nicht kannten,
+sie, ihre Väter und die Könige von Juda,
+und sie haben diesen Ort mit dem Blut Unschuldiger gefüllt
+<sup>5</sup>und haben die Opferhöhen des Baal gebaut,
+um ihre Kinder im Feuer zu verbrennen als Brandopfer für Baal,
+was ich nicht geboten und nicht gesagt habe
+und was mir nicht einmal in den Sinn gekommen ist.
+<sup>6</sup>Darum siehe, es kommen Tage“, spricht der HERR,
+„da wird man diesen Ort nicht mehr ‚Tofet‘ nennen
+und nicht mehr ‚Tal Ben-Hinnom‘,
+sondern ‚Tal des Mordens‘.
+<sup>7</sup>Ich werde den Plan Judas und Jerusalems an diesem Ort zunichtemachen.
+Ich werde sie durch das Schwert fallen lassen vor ihren Feinden
+und durch die Hand derer, die ihnen nach dem Leben trachten.
+Ich werde ihre Leichen den Vögeln des Himmels
+und den Tieren der Erde zum Fraß geben.
+<sup>8</sup>Ich werde diese Stadt zu einem Entsetzen und zu einem Gezisch machen.
+Jeder, der an ihr vorbeigeht, wird sich entsetzen und zischen
+wegen all ihrer Plagen.
+<sup>9</sup>Ich werde sie das Fleisch ihrer Söhne
+und das Fleisch ihrer Töchter essen lassen.
+Sie werden einer das Fleisch des anderen essen
+in der Belagerung und in der Not,
+mit der ihre Feinde und die, die ihnen nach dem Leben trachten,
+sie bedrängen werden.“‘
+
+> **Was bedeutet das?**
+> Jeremia geht mit den Ältesten ins Tal Ben-Hinnom. Dort wurden Kinder geopfert (vgl. 7,31). Gott sagt wieder ganz deutlich: Das habe ich nie gewollt, „es ist mir nicht einmal in den Sinn gekommen“. Kinder zu töten oder zu quälen ist ein schreckliches Verbrechen.
+> Vers 3: Die Nachricht wird so schrecklich sein, dass „die Ohren gellen“.
+> Vers 9: Ein furchtbares Bild: In einer langen Belagerung wird der Hunger so groß, dass Menschen in ihrer Verzweiflung sogar Menschenfleisch essen. So etwas ist in Belagerungen tatsächlich geschehen (vgl. Klagelieder 4,10). Jeremia beschreibt das nicht, weil Gott es will, sondern um zu zeigen, wohin der Weg des Volkes führt.
+
+---
+
+### Der Krug wird zerbrochen (Vers 10–15)
+
+<sup>10</sup>Dann sollst du den Krug zerbrechen
+vor den Augen der Männer, die mit dir gehen,
+<sup>11</sup>und sollst zu ihnen sagen:
+‚So spricht der HERR der Heere:
+„Genauso werde ich dieses Volk und diese Stadt zerbrechen,
+wie man ein Töpfergefäß zerbricht,
+das nicht wieder ganz gemacht werden kann.
+Man wird im Tofet begraben, bis kein Platz mehr zum Begraben ist.
+<sup>12</sup>So werde ich mit diesem Ort verfahren“, spricht der HERR,
+„und mit seinen Bewohnern,
+und ich werde diese Stadt dem Tofet gleich machen.
+<sup>13</sup>Die Häuser Jerusalems und die Häuser der Könige von Juda,
+die unrein sind, werden wie der Ort Tofet sein,
+alle Häuser, auf deren Dächern sie dem ganzen Heer des Himmels
+Räucherwerk verbrannt
+und anderen Göttern Trankopfer ausgegossen haben.“‘“
+<sup>14</sup>Dann kam Jeremia vom Tofet zurück,
+wohin der HERR ihn gesandt hatte, um zu weissagen.
+Er stellte sich in den Vorhof des Hauses des HERRN
+und sagte zum ganzen Volk:
+<sup>15</sup>„So spricht der HERR der Heere, der Gott Israels:
+‚Siehe, ich bringe über diese Stadt und über alle ihre Ortschaften
+all das Unheil, das ich gegen sie ausgesprochen habe,
+weil sie ihren Nacken hart gemacht haben,
+um meine Worte nicht zu hören.‘“
+
+> **Was bedeutet das?**
+> Wieder eine Zeichenhandlung: Jeremia zerbricht vor den Ältesten einen Tonkrug.
+> Im Kapitel davor (Kapitel 18) war der Ton noch weich, und der Töpfer konnte ihn neu formen. Jetzt ist der Krug gebrannt und hart. Wenn er zerbricht, kann man ihn nicht wieder heil machen. Das zeigt: Das Volk hat so lange nicht gehört, dass das Gericht nun unvermeidlich ist.
+> Vers 13: Auf den flachen Dächern der Häuser verehrte man die Sterne als Götter.
+> Vers 14–15: Jeremia wiederholt die Botschaft im Tempel vor allen Menschen. Das hat Folgen, wie das nächste Kapitel zeigt.
+
+## Jeremia – Kapitel 20
+#### Wie ein brennendes Feuer
+
+---
+
+### Jeremia im Block (Vers 1–6)
+
+<sup>1</sup>Paschhur aber, der Sohn Immers, der Priester,
+der Oberaufseher im Haus des HERRN war,
+hörte, wie Jeremia diese Worte weissagte.
+<sup>2</sup>Da schlug Paschhur den Propheten Jeremia
+und legte ihn in den Block
+am oberen Benjamintor, das im Haus des HERRN war.
+<sup>3</sup>Am nächsten Tag ließ Paschhur Jeremia aus dem Block frei.
+Da sagte Jeremia zu ihm:
+„Der HERR nennt deinen Namen nicht Paschhur,
+sondern Magor-Missabib.
+<sup>4</sup>Denn so spricht der HERR:
+‚Siehe, ich mache dich zum Schrecken für dich selbst
+und für alle deine Freunde.
+Sie werden durch das Schwert ihrer Feinde fallen,
+und deine Augen werden es sehen.
+Ganz Juda werde ich in die Hand des Königs von Babel geben.
+Er wird sie gefangen nach Babel wegführen
+und sie mit dem Schwert töten.
+<sup>5</sup>Auch allen Reichtum dieser Stadt, all ihren Erwerb
+und alle ihre Kostbarkeiten,
+ja, alle Schätze der Könige von Juda
+werde ich in die Hand ihrer Feinde geben.
+Sie werden sie erbeuten, wegnehmen und nach Babel bringen.
+<sup>6</sup>Und du, Paschhur, und alle, die in deinem Haus wohnen,
+ihr werdet in die Gefangenschaft gehen.
+Du wirst nach Babel kommen,
+und dort wirst du sterben, und dort wirst du begraben werden,
+du und alle deine Freunde,
+denen du Lüge geweissagt hast.‘“
+
+> **Was bedeutet das?**
+> Vers 1–2: Paschhur, ein hoher Priester im Tempel, lässt Jeremia schlagen und eine Nacht lang in den „Block“ legen. Das war ein Holzgestell, in das man Füße, Hände oder den Hals einspannte. Es war schmerzhaft und demütigend, und alle konnten den Gefangenen sehen.
+> Vers 3: Jeremia gibt Paschhur einen neuen Namen: „Magor-Missabib“, das bedeutet „Schrecken ringsum“. Paschhur wird selbst erleben, was er Jeremia angetan hat.
+> Vers 6: Paschhur hatte selbst als Prophet aufgetreten und Lügen erzählt, wahrscheinlich, dass alles gut wird.
+> Hier wird Babel zum ersten Mal ausdrücklich als der Feind genannt.
+
+---
+
+### Jeremias Klage: Du hast mich überredet (Vers 7–13)
+
+<sup>7</sup>HERR, du hast mich überredet, und ich habe mich überreden lassen.
+Du bist stärker als ich und hast gewonnen.
+Ich bin zum Gespött geworden den ganzen Tag.
+Jeder verspottet mich.
+<sup>8</sup>Denn so oft ich rede, muss ich schreien,
+ich rufe: „Gewalt und Zerstörung!“
+Denn das Wort des HERRN ist mir zum Hohn
+und zum Spott geworden den ganzen Tag.
+<sup>9</sup>Wenn ich sage: „Ich will nicht mehr an ihn denken
+und nicht mehr in seinem Namen reden“,
+dann ist es in meinem Herzen wie ein brennendes Feuer,
+eingeschlossen in meinen Knochen.
+Ich mühe mich ab, es auszuhalten,
+aber ich kann es nicht.
+<sup>10</sup>Denn ich habe das Gerede von vielen gehört:
+„Schrecken ringsum!
+Zeigt ihn an, wir wollen ihn anzeigen!“
+So sagen alle meine Vertrauten,
+die auf meinen Sturz lauern:
+„Vielleicht lässt er sich betören,
+dann können wir ihn überwältigen
+und uns an ihm rächen.“
+<sup>11</sup>Aber der HERR ist bei mir wie ein gewaltiger Held.
+Darum werden meine Verfolger stolpern
+und nicht siegen.
+Sie werden sehr beschämt werden,
+weil sie nicht klug gehandelt haben,
+mit einer ewigen Schmach, die nie vergessen wird.
+<sup>12</sup>Aber du, HERR der Heere, der du den Gerechten prüfst,
+der du Herz und Nieren siehst,
+lass mich deine Vergeltung an ihnen sehen,
+denn dir habe ich meine Sache anvertraut.
+<sup>13</sup>Singt dem HERRN!
+Lobt den HERRN!
+Denn er hat die Seele des Armen
+aus der Hand der Übeltäter gerettet.
+
+> **Was bedeutet das?**
+> Das ist eine der ehrlichsten und bewegendsten Klagen der Bibel.
+> Vers 7: Jeremia wirft Gott vor: Du hast mich überredet, Prophet zu werden. Du warst stärker als ich. Und jetzt lachen mich alle aus.
+> Vers 8: Seine Botschaft ist immer nur „Gewalt und Zerstörung!“. Er hat keine frohe Botschaft, und deshalb wird er verspottet.
+> Vers 9 ist berühmt: Jeremia will aufhören, Gottes Wort zu sagen. Aber er kann nicht. Es brennt in ihm wie ein Feuer, das in seinen Knochen eingeschlossen ist. Gottes Wort lässt ihn nicht los.
+> Vers 10: Sogar seine Freunde lauern darauf, dass er einen Fehler macht. Sie spotten mit seinen eigenen Worten: „Schrecken ringsum!“
+> Vers 11–13: Und dann plötzlich eine Wende: „Der HERR ist bei mir wie ein gewaltiger Held!“ Jeremia vertraut wieder und singt sogar ein Loblied. Gott rettet den Armen.
+
+---
+
+### Verflucht der Tag meiner Geburt (Vers 14–18)
+
+<sup>14</sup>Verflucht ist der Tag, an dem ich geboren wurde.
+Der Tag, an dem meine Mutter mich gebar, soll nicht gesegnet sein.
+<sup>15</sup>Verflucht ist der Mann, der meinem Vater die Nachricht brachte
+und sagte: „Dir ist ein Junge geboren!“
+und ihn damit sehr froh machte.
+<sup>16</sup>Dieser Mann soll sein wie die Städte,
+die der HERR zerstört hat, ohne dass es ihn reute.
+Er soll am Morgen Geschrei hören
+und am Mittag Kriegslärm,
+<sup>17</sup>weil er mich nicht schon im Mutterleib getötet hat,
+sodass meine Mutter mein Grab geworden wäre
+und ihr Leib für immer schwanger geblieben wäre.
+<sup>18</sup>Warum bin ich aus dem Mutterleib hervorgekommen,
+um Mühsal und Kummer zu sehen,
+und dass meine Tage in Schande vergehen?
+
+> **Was bedeutet das?**
+> Direkt nach dem Loblied stürzt Jeremia wieder in tiefste Verzweiflung. Er verflucht den Tag seiner Geburt. Er wünscht sich, nie geboren worden zu sein.
+> Das zeigt, wie es Menschen in Krisen geht: Hoffnung und Verzweiflung wechseln sich ab, manchmal sehr schnell. Auch Hiob hat so geklagt (Hiob 3).
+> Die Bibel verschweigt solche Gefühle nicht. Sie zeigt: Auch ein großer Prophet, ein Mann Gottes, kann so verzweifelt sein. Und Gott lässt ihn nicht fallen. Jeremia hat nach dieser Klage noch viele Jahre gelebt und gewirkt.
+> Wenn du dich so fühlst wie Jeremia hier, wenn du dir wünschst, nicht mehr zu leben oder nie geboren zu sein, dann sprich bitte mit jemandem. Die Telefonseelsorge ist Tag und Nacht für dich da, anonym und kostenlos: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+## Jeremia – Kapitel 21
+#### Der Weg des Lebens und der Weg des Todes
+
+---
+
+### König Zidkija fragt Jeremia (Vers 1–7)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam,
+als König Zidkija Paschhur, den Sohn Malkijas,
+und Zefanja, den Sohn Maasejas, den Priester, zu ihm sandte und sagen ließ:
+<sup>2</sup>„Befrage doch den HERRN für uns,
+denn Nebukadnezar, der König von Babel, führt Krieg gegen uns.
+Vielleicht wird der HERR an uns handeln nach all seinen Wundertaten,
+sodass er von uns abzieht.“
+<sup>3</sup>Da sagte Jeremia zu ihnen: „So sollt ihr zu Zidkija sagen:
+<sup>4</sup>‚So spricht der HERR, der Gott Israels:
+„Siehe, ich werde die Kriegswaffen umkehren, die in euren Händen sind,
+mit denen ihr gegen den König von Babel kämpft
+und gegen die Chaldäer, die euch außerhalb der Mauern belagern,
+und ich werde sie mitten in diese Stadt sammeln.
+<sup>5</sup>Ich selbst werde gegen euch kämpfen
+mit ausgestreckter Hand und mit starkem Arm,
+im Zorn, im Grimm und in großer Wut.
+<sup>6</sup>Ich werde die Bewohner dieser Stadt schlagen,
+Menschen und Tiere.
+Sie werden an einer großen Pest sterben.
+<sup>7</sup>Danach“, spricht der HERR,
+„werde ich Zidkija, den König von Juda, seine Diener und das Volk,
+die in dieser Stadt übrig bleiben von der Pest, vom Schwert und vom Hunger,
+in die Hand Nebukadnezars, des Königs von Babel, geben
+und in die Hand ihrer Feinde
+und in die Hand derer, die ihnen nach dem Leben trachten.
+Er wird sie mit der Schärfe des Schwertes schlagen.
+Er wird sie nicht schonen, kein Mitleid haben und sich nicht erbarmen.“‘
+
+> **Was bedeutet das?**
+> Jetzt springt die Erzählung etwa 20 Jahre weiter: Es ist die Zeit der letzten Belagerung Jerusalems (588–587 vor Christus). Zidkija ist der letzte König von Juda.
+> Dieser Paschhur ist ein anderer Mann als der Paschhur aus Kapitel 20.
+> Vers 2: Zidkija hofft auf ein Wunder, wie damals, als Gott Jerusalem vor den Assyrern rettete (2. Könige 19).
+> Vers 4–7: Aber Jeremias Antwort ist hart: Diesmal wird Gott nicht helfen. Die Stadt wird fallen.
+
+---
+
+### Wählt zwischen Leben und Tod (Vers 8–10)
+
+<sup>8</sup>Und zu diesem Volk sollst du sagen:
+‚So spricht der HERR:
+„Siehe, ich lege euch den Weg des Lebens
+und den Weg des Todes vor.
+<sup>9</sup>Wer in dieser Stadt bleibt, wird durch das Schwert, den Hunger und die Pest sterben.
+Wer aber hinausgeht und zu den Chaldäern überläuft, die euch belagern,
+der wird leben,
+und sein Leben wird ihm als Beute bleiben.
+<sup>10</sup>Denn ich habe mein Angesicht gegen diese Stadt gerichtet,
+zum Unheil und nicht zum Guten“, spricht der HERR.
+„Sie wird in die Hand des Königs von Babel gegeben werden,
+und er wird sie mit Feuer verbrennen.“‘
+
+> **Was bedeutet das?**
+> Vers 8: „Ich lege euch den Weg des Lebens und den Weg des Todes vor.“ Das erinnert an Mose (5. Mose 30,15–19). Aber hier ist es ganz konkret.
+> Vers 9: Jeremias Rat ist schockierend: Wer leben will, soll sich den Feinden ergeben. Für viele klang das wie Verrat. Aber Jeremia wollte Leben retten. Er sah, dass Widerstand nur noch mehr Tote bringen würde.
+> „Sein Leben wird ihm als Beute bleiben“ heißt: Er wird zwar alles verlieren, aber er kommt mit dem Leben davon.
+
+---
+
+### Ein Wort an das Königshaus (Vers 11–14)
+
+<sup>11</sup>Und zum Haus des Königs von Juda:
+„Hört das Wort des HERRN!
+<sup>12</sup>Haus David, so spricht der HERR:
+‚Haltet jeden Morgen Gericht
+und rettet den Beraubten aus der Hand des Unterdrückers,
+damit mein Zorn nicht ausbricht wie Feuer
+und brennt, sodass niemand löschen kann,
+wegen der Bosheit eurer Taten.
+<sup>13</sup>Siehe, ich bin gegen dich,
+die du im Tal wohnst, auf dem Felsen der Ebene‘, spricht der HERR,
+‚gegen euch, die ihr sagt: „Wer will gegen uns herabkommen?
+Wer will in unsere Wohnungen eindringen?“
+<sup>14</sup>Ich werde euch heimsuchen nach der Frucht eurer Taten‘,
+spricht der HERR,
+‚und ich werde ein Feuer an ihren Wald legen,
+und es wird alles ringsum verzehren.‘“
+
+> **Was bedeutet das?**
+> Vers 12: Die wichtigste Aufgabe eines Königs: jeden Morgen für Gerechtigkeit sorgen und die Beraubten vor den Unterdrückern schützen. Das gilt bis heute für alle, die Macht haben.
+> Vers 13: Jerusalem fühlte sich sicher auf seinen Felsen und Hügeln: „Wer soll uns schon angreifen?“ Aber Gott sagt: Diese falsche Sicherheit wird euch nicht schützen.
+> Vers 14: Der „Wald“ ist wahrscheinlich der Königspalast, der aus viel Zedernholz gebaut war (er hieß „Libanonwaldhaus“, 1. Könige 7,2).
