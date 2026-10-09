@@ -77935,3 +77935,392 @@ denn seine Güte bleibt für immer.
 > Am Ende wird es persönlich: Gott hat an „uns“ gedacht, als es uns schlecht ging.
 > Vers 25: Gottes Güte gilt nicht nur Israel. Er gibt allen Geschöpfen Nahrung, Menschen und Tieren auf der ganzen Welt.
 > Man kann diesen Psalm auch heute mit eigenen Erfahrungen weiterbeten: Für alles, was Gott in meinem Leben getan hat, gilt: „denn seine Güte bleibt für immer.“
+
+## Psalm 137
+#### An den Flüssen Babylons
+
+---
+
+### Wie können wir im fremden Land singen? (Vers 1–6)
+
+<sup>1</sup>An den Flüssen Babylons, dort saßen wir.
+Ja, wir weinten, als wir an Zion dachten.
+<sup>2</sup>An die Weiden in jenem Land
+hängten wir unsere Harfen.
+<sup>3</sup>Denn dort verlangten die, die uns gefangen weggeführt hatten, Lieder von uns.
+Die uns quälten, forderten fröhliche Lieder:
+„Singt uns eins von den Liedern Zions!“
+<sup>4</sup>Wie können wir das Lied des HERRN singen
+in einem fremden Land?
+<sup>5</sup>Wenn ich dich vergesse, Jerusalem,
+dann soll meine rechte Hand ihr Können vergessen.
+<sup>6</sup>Meine Zunge soll an meinem Gaumen kleben,
+wenn ich nicht an dich denke,
+wenn ich Jerusalem nicht über meine höchste Freude stelle.
+
+> **Was bedeutet das?**
+> Im Jahr 587 vor Christus zerstörten die Babylonier Jerusalem und den Tempel. Viele Menschen wurden nach Babylon verschleppt (2. Könige 25).
+> Dort sitzen sie an den Flüssen und Kanälen, weit weg von zu Hause. Sie können nicht singen. Ihre Harfen hängen stumm an den Bäumen.
+> Vers 3: Die Sieger verspotten sie: „Singt doch mal ein Lied von eurem Gott!“
+> Vers 5–6: Ein Schwur: Lieber will ich nicht mehr spielen und nicht mehr sprechen können, als Jerusalem zu vergessen. Bis heute zerbricht man bei jüdischen Hochzeiten ein Glas, um an die Zerstörung Jerusalems zu erinnern.
+> Dieser Psalm ist ein Lied für alle Menschen, die ihre Heimat verloren haben: Flüchtlinge, Vertriebene, Verschleppte.
+
+---
+
+### Der Schrei nach Vergeltung (Vers 7–9)
+
+<sup>7</sup>Denk, HERR, an die Söhne Edoms
+am Tag Jerusalems,
+die sagten: „Reißt sie nieder! Reißt sie nieder bis auf den Grund!“
+<sup>8</sup>Tochter Babylon, du wirst zerstört werden!
+Glücklich wird sein, wer dir vergilt,
+was du uns angetan hast.
+<sup>9</sup>Glücklich wird sein,
+wer deine kleinen Kinder packt und am Felsen zerschmettert.
+
+> **Was bedeutet das?**
+> Diese Verse sind die schwersten im ganzen Psalmbuch. Sie sind erschreckend.
+> Wir lassen sie nicht weg, denn sie gehören zur Bibel. Aber man muss verstehen, was hier geschieht:
+> Die Menschen haben selbst erlebt, wie die Soldaten Babylons ihre Kinder getötet haben. Die Edomiter, ein Nachbarvolk, haben dabei gejubelt (vgl. Obadja 10–14). Vers 9 ist der Schrei von Menschen, die unvorstellbares Grauen erlebt haben. Ihr Schmerz und ihre Wut sind so groß, dass sie sich das Gleiche für ihre Feinde wünschen.
+> Wichtig: Der Beter tut es nicht selbst. Er sagt seinen Hass zu Gott und überlässt Gott die Gerechtigkeit (vgl. 5. Mose 32,35: „Die Rache ist mein“).
+> Dieser Vers ist keine Erlaubnis und kein Auftrag. Gewalt gegen Kinder ist immer ein schweres Verbrechen. Jesus sagt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44). Und er stellt Kinder in die Mitte und segnet sie (Markus 10,13–16).
+> Die Bibel zeigt hier ehrlich, wie tief Menschen verletzt sein können. Auch diese dunklen Gefühle darf man vor Gott aussprechen, damit sie nicht zur Tat werden.
+
+## Psalm 138
+#### Du hast mir Kraft gegeben
+
+---
+
+### Ich danke dir von ganzem Herzen (Vers 1–8)
+
+<sup>1</sup>Von David.
+Ich will dir danken von ganzem Herzen.
+Vor den Göttern will ich dir Loblieder singen.
+<sup>2</sup>Ich will mich niederbeugen zu deinem heiligen Tempel hin
+und deinem Namen danken für deine Güte und für deine Treue.
+Denn du hast deinen Namen und dein Wort über alles erhoben.
+<sup>3</sup>An dem Tag, an dem ich rief, hast du mir geantwortet.
+Du hast mir Mut gemacht und meiner Seele Kraft gegeben.
+<sup>4</sup>Alle Könige der Erde werden dir danken, HERR,
+denn sie haben die Worte deines Mundes gehört.
+<sup>5</sup>Ja, sie werden von den Wegen des HERRN singen,
+denn die Herrlichkeit des HERRN ist groß!
+<sup>6</sup>Denn obwohl der HERR hoch ist, sieht er auf die Niedrigen.
+Aber die Hochmütigen kennt er von fern.
+<sup>7</sup>Auch wenn ich mitten durch Not gehe, wirst du mich beleben.
+Du wirst deine Hand ausstrecken gegen den Zorn meiner Feinde.
+Deine rechte Hand wird mich retten.
+<sup>8</sup>Der HERR wird es für mich vollenden.
+Deine Güte, HERR, bleibt für immer.
+Lass die Werke deiner Hände nicht im Stich!
+
+> **Was bedeutet das?**
+> Ein Dankpsalm. Gott hat ein Gebet erhört.
+> Vers 1: „Vor den Göttern“: Andere Völker verehrten viele Götter. David singt mitten unter ihnen mutig für den einen Gott.
+> Vers 6: Gott ist ganz oben, aber er schaut nach ganz unten, auf die Kleinen und Schwachen. Den Hochmütigen dagegen bleibt er fern.
+> Vers 8: „Der HERR wird es vollenden“: Was Gott angefangen hat, bringt er auch zu Ende. Ich bin ein Werk seiner Hände. Er lässt mich nicht halbfertig liegen.
+
+## Psalm 139
+#### Du kennst mich
+
+---
+
+### Gott weiß alles von mir (Vers 1–6)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+HERR, du hast mich erforscht, und du kennst mich.
+<sup>2</sup>Du weißt, wann ich sitze und wann ich aufstehe.
+Du verstehst meine Gedanken von fern.
+<sup>3</sup>Du prüfst meinen Weg und mein Liegen,
+und alle meine Wege sind dir vertraut.
+<sup>4</sup>Denn es ist kein Wort auf meiner Zunge,
+siehe, HERR, das du nicht schon ganz kennst.
+<sup>5</sup>Von hinten und von vorn umschließt du mich.
+Du hast deine Hand auf mich gelegt.
+<sup>6</sup>Dieses Wissen ist mir zu wunderbar.
+Es ist zu hoch. Ich kann es nicht begreifen.
+
+> **Was bedeutet das?**
+> Psalm 139 ist einer der tiefsten Psalmen über die Beziehung zwischen Gott und einem Menschen.
+> Gott kennt mich ganz und gar: was ich tue, was ich denke, was ich sagen will. Das kann Angst machen. Aber hier ist es vor allem tröstlich: Ich bin nicht unbekannt, nicht vergessen.
+> Vers 5: „Du hast deine Hand auf mich gelegt“: wie eine Mutter oder ein Vater, die schützend die Hand auf das Kind legen.
+
+---
+
+### Gott ist überall (Vers 7–12)
+
+<sup>7</sup>Wohin könnte ich gehen vor deinem Geist?
+Oder wohin könnte ich fliehen vor deinem Angesicht?
+<sup>8</sup>Steige ich hinauf in den Himmel, so bist du dort.
+Lege ich mich ins Totenreich, siehe, so bist du dort!
+<sup>9</sup>Nehme ich die Flügel der Morgenröte
+und lasse mich nieder am äußersten Ende des Meeres,
+<sup>10</sup>so wird auch dort deine Hand mich führen,
+und deine rechte Hand wird mich halten.
+<sup>11</sup>Wenn ich sage: „Finsternis soll mich gewiss überwältigen,
+und das Licht um mich soll Nacht werden“,
+<sup>12</sup>so ist auch die Finsternis nicht finster vor dir,
+sondern die Nacht leuchtet wie der Tag.
+Die Finsternis ist für dich wie Licht.
+
+> **Was bedeutet das?**
+> Es gibt keinen Ort, an dem Gott nicht ist: nicht im Himmel, nicht im Totenreich, nicht am Ende der Welt.
+> Vers 9: „Die Flügel der Morgenröte“: so schnell wie das Licht der aufgehenden Sonne fliegen, bis ans Ende der Welt.
+> Vers 11–12: Auch in der dunkelsten Zeit, in Depression, Trauer oder Angst, ist Gott da. Für ihn ist die Dunkelheit nicht dunkel.
+> Wer selbst gerade in tiefer Dunkelheit ist: Die Telefonseelsorge hilft rund um die Uhr: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+
+---
+
+### Wunderbar gemacht (Vers 13–18)
+
+<sup>13</sup>Denn du hast mein Innerstes gebildet.
+Du hast mich gewoben im Leib meiner Mutter.
+<sup>14</sup>Ich will dir danken, denn ich bin erstaunlich und wunderbar gemacht.
+Deine Werke sind wunderbar.
+Das weiß meine Seele sehr gut.
+<sup>15</sup>Mein Körper war dir nicht verborgen,
+als ich im Verborgenen gemacht wurde,
+kunstvoll gewirkt in den Tiefen der Erde.
+<sup>16</sup>Deine Augen sahen meinen Körper.
+In deinem Buch waren sie alle aufgeschrieben,
+die Tage, die für mich bestimmt waren,
+als noch keiner von ihnen da war.
+<sup>17</sup>Wie kostbar sind mir deine Gedanken, Gott!
+Wie gewaltig ist ihre Summe!
+<sup>18</sup>Wollte ich sie zählen, so sind sie mehr als der Sand.
+Wenn ich aufwache, bin ich immer noch bei dir.
+
+> **Was bedeutet das?**
+> Gott hat mich schon gekannt, bevor ich geboren wurde. Er hat mich im Mutterleib geformt, so kunstvoll, wie man einen Teppich webt.
+> Vers 14: „Ich bin wunderbar gemacht“: Jeder Mensch ist ein Wunder, egal wie er aussieht, was er kann oder was andere über ihn sagen. Das gilt auch für Menschen mit Behinderung.
+> Vers 15: „In den Tiefen der Erde“: ein poetisches Bild für den verborgenen Ort, an dem ein Kind heranwächst.
+> Vers 16: Gott kennt mein ganzes Leben, jeden Tag.
+> Vers 18: Gottes Gedanken über mich sind zahllos. Er denkt viel mehr an mich, als ich zählen kann.
+
+---
+
+### Erforsche mich, Gott (Vers 19–24)
+
+<sup>19</sup>Wenn du doch, Gott, die Gottlosen töten würdest!
+Weicht von mir, ihr blutrünstigen Männer!
+<sup>20</sup>Denn sie reden boshaft gegen dich.
+Deine Feinde missbrauchen deinen Namen.
+<sup>21</sup>HERR, sollte ich nicht die hassen, die dich hassen?
+Sollte ich nicht betrübt sein über die, die sich gegen dich erheben?
+<sup>22</sup>Ich hasse sie mit vollkommenem Hass.
+Sie sind meine Feinde geworden.
+<sup>23</sup>Erforsche mich, Gott, und erkenne mein Herz!
+Prüfe mich und erkenne meine Gedanken!
+<sup>24</sup>Sieh, ob ein böser Weg in mir ist,
+und führe mich auf dem ewigen Weg!
+
+> **Was bedeutet das?**
+> Vers 19–22 überraschen nach so schönen Worten. Der Beter ist voller Zorn über Menschen, die Gewalt üben und über Gott lästern. Er sagt Gott ehrlich, was er fühlt.
+> Aber dann geschieht etwas Wichtiges: Er richtet den Blick auf sich selbst. „Erforsche mich! Sieh, ob ein böser Weg in mir ist!“ Er weiß: Auch in mir kann Böses sein, auch Hass.
+> Der Psalm beginnt mit „Du hast mich erforscht“ und endet mit der Bitte „Erforsche mich“. Der Beter öffnet sich Gott ganz.
+> Hass ist kein Weg für heute. Jesus lehrt, auch die Feinde zu lieben (Matthäus 5,44).
+
+## Psalm 140
+#### Bewahre mich vor gewalttätigen Menschen
+
+---
+
+### Zungen wie Schlangen (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Rette mich, HERR, vor bösen Menschen!
+Bewahre mich vor gewalttätigen Männern,
+<sup>2</sup>die in ihrem Herzen Böses planen.
+Ständig rotten sie sich zusammen zum Krieg.
+<sup>3</sup>Sie haben ihre Zungen geschärft wie eine Schlange.
+Giftnattern-Gift ist unter ihren Lippen.
+Sela.
+<sup>4</sup>HERR, bewahre mich vor den Händen der Gottlosen!
+Behüte mich vor den gewalttätigen Männern,
+die beschlossen haben, mich zu Fall zu bringen.
+<sup>5</sup>Die Hochmütigen haben mir eine Schlinge versteckt.
+Sie haben Stricke wie ein Netz am Weg ausgebreitet.
+Sie haben mir Fallen gestellt.
+Sela.
+
+> **Was bedeutet das?**
+> Der Beter ist von Feinden umgeben. Sie verletzen mit Worten wie mit Schlangengift und stellen ihm Fallen.
+> Paulus zitiert Vers 3 im Römerbrief, um zu zeigen, wie böse Worte sein können (Römer 3,13).
+> „Sela“: wahrscheinlich ein musikalisches Zeichen für eine Pause (siehe Psalm 3).
+
+---
+
+### Gott schafft dem Elenden Recht (Vers 6–13)
+
+<sup>6</sup>Ich sagte zum HERRN: „Du bist mein Gott.“
+Höre auf mein lautes Flehen, HERR!
+<sup>7</sup>HERR, Herr, du starke Hilfe meiner Rettung,
+du hast meinen Kopf beschützt am Tag des Kampfes.
+<sup>8</sup>HERR, erfülle nicht die Wünsche der Gottlosen!
+Lass ihre bösen Pläne nicht gelingen,
+sonst werden sie hochmütig.
+Sela.
+<sup>9</sup>Was die Köpfe derer angeht, die mich umzingeln:
+Das Unheil ihrer eigenen Lippen soll sie bedecken.
+<sup>10</sup>Glühende Kohlen sollen auf sie fallen.
+Sie sollen ins Feuer geworfen werden,
+in schlammige Gruben, aus denen sie nie wieder aufstehen.
+<sup>11</sup>Ein böser Redner wird auf der Erde keinen Bestand haben.
+Das Böse wird den gewalttätigen Mann jagen, um ihn zu stürzen.
+<sup>12</sup>Ich weiß, dass der HERR die Sache des Elenden führen wird
+und den Armen Recht verschafft.
+<sup>13</sup>Ja, die Gerechten werden deinem Namen danken.
+Die Aufrichtigen werden vor deinem Angesicht wohnen.
+
+> **Was bedeutet das?**
+> Vers 7: Gott ist wie ein Helm im Kampf.
+> Vers 9–11: Der Beter wünscht, dass das Böse auf die Täter selbst zurückfällt. Das sind harte Worte. Er legt sie Gott in die Hände und tut selbst keine Gewalt. Für uns heute gilt: Böses nicht mit Bösem vergelten (Römer 12,17–21).
+> Vers 12 ist der Kern: Gott steht auf der Seite der Armen und Schwachen. Er sorgt für Gerechtigkeit.
+
+## Psalm 141
+#### Mein Gebet sei wie Weihrauch
+
+---
+
+### Bewahre meinen Mund (Vers 1–5)
+
+<sup>1</sup>Ein Psalm von David.
+HERR, ich habe zu dir gerufen. Komm schnell zu mir!
+Hör auf meine Stimme, wenn ich zu dir rufe!
+<sup>2</sup>Mein Gebet soll vor dir stehen wie Weihrauch,
+das Erheben meiner Hände wie das Abendopfer.
+<sup>3</sup>Stell eine Wache vor meinen Mund, HERR!
+Behüte die Tür meiner Lippen!
+<sup>4</sup>Neige mein Herz nicht zu etwas Bösem,
+damit ich keine bösen Taten tue
+mit Menschen, die Unrecht tun.
+Lass mich nicht von ihren Leckerbissen essen!
+<sup>5</sup>Wenn der Gerechte mich schlägt, ist es Güte.
+Wenn er mich zurechtweist, ist es wie Öl auf dem Kopf.
+Mein Kopf soll es nicht ablehnen.
+Doch mein Gebet richtet sich immer gegen böse Taten.
+
+> **Was bedeutet das?**
+> Vers 2: Im Tempel wurde jeden Abend Weihrauch verbrannt und ein Opfer gebracht. Der Duft stieg zum Himmel. So soll mein Gebet zu Gott aufsteigen. Dieser Vers wird bis heute in Abendgebeten gesungen.
+> Vers 3: Eine gute Bitte für jeden Tag: Gott, pass auf, was aus meinem Mund kommt!
+> Vers 4: Die „Leckerbissen“ der Bösen: Vorteile und Genüsse, die man bekommt, wenn man bei Unrecht mitmacht.
+> Vers 5: Ehrliche Kritik von einem guten Menschen ist ein Geschenk, auch wenn sie wehtut. „Schlagen“ ist hier ein Bild für eine harte Zurechtweisung, keine Erlaubnis für Gewalt.
+
+---
+
+### Meine Augen sind auf dich gerichtet (Vers 6–10)
+
+<sup>6</sup>Ihre Richter werden an den Seiten des Felsens hinabgestürzt.
+Dann werden sie meine Worte hören, denn sie sind gut gesprochen.
+<sup>7</sup>„Wie wenn einer pflügt und die Erde aufbricht,
+so sind unsere Knochen verstreut am Eingang des Totenreichs.“
+<sup>8</sup>Denn meine Augen sind auf dich gerichtet, HERR, Herr.
+Bei dir suche ich Zuflucht.
+Lass meine Seele nicht schutzlos!
+<sup>9</sup>Bewahre mich vor der Schlinge, die sie mir gelegt haben,
+vor den Fallen derer, die Unrecht tun!
+<sup>10</sup>Die Gottlosen sollen zusammen in ihre eigenen Netze fallen,
+während ich vorübergehe.
+
+> **Was bedeutet das?**
+> Vers 6–7 sind im Hebräischen sehr schwer zu verstehen. Die Übersetzungen unterscheiden sich stark. Gemeint ist wohl: Die ungerechten Anführer werden stürzen. Das Volk leidet so sehr, dass es sich fühlt wie Knochen, die am Rand des Grabes verstreut liegen.
+> Vers 8: Trotzdem schaut der Beter auf Gott.
+> Vers 10: Die Bösen sollen in ihre eigenen Fallen tappen, und der Beter geht unversehrt weiter.
+
+## Psalm 142
+#### Gebet in der Höhle
+
+---
+
+### Niemand kümmert sich um mich (Vers 1–7)
+
+<sup>1</sup>Ein Lehrgedicht von David, als er in der Höhle war. Ein Gebet.
+Mit meiner Stimme schreie ich zum HERRN.
+Mit meiner Stimme bitte ich den HERRN um Erbarmen.
+<sup>2</sup>Ich schütte meine Klage vor ihm aus.
+Ich erzähle ihm meine Not.
+<sup>3</sup>Als mein Geist in mir verzagte,
+kanntest du meinen Weg.
+Auf dem Pfad, auf dem ich gehe,
+haben sie mir eine Schlinge versteckt.
+<sup>4</sup>Schau nach rechts und sieh:
+Da ist niemand, der sich um mich kümmert.
+Die Zuflucht ist mir verloren gegangen.
+Niemand fragt nach meiner Seele.
+<sup>5</sup>Ich schrie zu dir, HERR.
+Ich sagte: „Du bist meine Zuflucht,
+mein Anteil im Land der Lebenden.“
+<sup>6</sup>Hör auf mein Schreien, denn ich bin in großer Not!
+Rette mich vor meinen Verfolgern,
+denn sie sind mir zu stark.
+<sup>7</sup>Führe meine Seele aus dem Gefängnis heraus,
+damit ich deinem Namen danke!
+Die Gerechten werden mich umringen,
+denn du wirst mir Gutes tun.
+
+> **Was bedeutet das?**
+> David versteckte sich vor König Saul in einer Höhle (1. Samuel 22,1; 24,1–4). Er war ein Flüchtling, gejagt und allein.
+> Vers 4: „Schau nach rechts“: Rechts stand im Gericht der Verteidiger. Aber da ist niemand. Keiner hilft.
+> Vers 5: Doch einer bleibt: Gott ist meine Zuflucht.
+> Vers 7: Die Höhle fühlt sich an wie ein Gefängnis. Aber am Ende wird David nicht mehr allein sein. Die Gerechten werden um ihn herum sein.
+> Wer sich einsam fühlt und niemanden hat: Die Telefonseelsorge hört zu, rund um die Uhr: 0800 111 0 111 oder 0800 111 0 222.
+
+## Psalm 143
+#### Lehre mich, deinen Willen zu tun
+
+---
+
+### Kein Mensch ist gerecht vor dir (Vers 1–6)
+
+<sup>1</sup>Ein Psalm von David.
+Hör mein Gebet, HERR!
+Hör auf mein Flehen!
+In deiner Treue und Gerechtigkeit hilf mir!
+<sup>2</sup>Geh nicht ins Gericht mit deinem Knecht,
+denn vor dir ist kein lebender Mensch gerecht.
+<sup>3</sup>Denn der Feind verfolgt meine Seele.
+Er hat mein Leben zu Boden geschlagen.
+Er hat mich an dunklen Orten wohnen lassen
+wie die, die schon lange tot sind.
+<sup>4</sup>Darum verzagt mein Geist in mir.
+Mein Herz in mir ist starr vor Entsetzen.
+<sup>5</sup>Ich denke an die Tage von früher.
+Ich denke nach über alle deine Taten.
+Ich betrachte das Werk deiner Hände.
+<sup>6</sup>Ich breite meine Hände zu dir aus.
+Meine Seele dürstet nach dir wie ein ausgedörrtes Land.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 143 ist der letzte der sieben Bußpsalmen.
+> Vers 2: Ein wichtiger Satz: Vor Gott kann niemand sagen: „Ich bin ganz gerecht.“ Darum bittet der Beter nicht um Gerechtigkeit nach Leistung, sondern um Gnade. Paulus nimmt diesen Gedanken auf (Römer 3,20; Galater 2,16).
+> Vers 3–4: Der Beter fühlt sich wie lebendig begraben. Eine Beschreibung, die viele Menschen in schweren Depressionen kennen.
+> Vers 5–6: Was hilft? Sich erinnern, was Gott früher getan hat. Und sich nach ihm ausstrecken wie trockene Erde nach Regen.
+
+---
+
+### Lass mich am Morgen deine Güte hören (Vers 7–12)
+
+<sup>7</sup>Antworte mir schnell, HERR! Mein Geist vergeht.
+Verbirg dein Angesicht nicht vor mir,
+damit ich nicht werde wie die, die in die Grube hinabfahren.
+<sup>8</sup>Lass mich am Morgen deine Güte hören,
+denn ich vertraue auf dich.
+Lass mich den Weg wissen, auf dem ich gehen soll,
+denn ich erhebe meine Seele zu dir.
+<sup>9</sup>Rette mich, HERR, vor meinen Feinden!
+Ich fliehe zu dir, damit du mich versteckst.
+<sup>10</sup>Lehre mich, deinen Willen zu tun,
+denn du bist mein Gott.
+Dein Geist ist gut.
+Führe mich im Land der Aufrichtigkeit!
+<sup>11</sup>Belebe mich, HERR, um deines Namens willen!
+In deiner Gerechtigkeit führe meine Seele aus der Not heraus!
+<sup>12</sup>In deiner Güte vernichte meine Feinde
+und lass alle umkommen, die meine Seele bedrängen,
+denn ich bin dein Knecht.
+
+> **Was bedeutet das?**
+> Vers 8: Nach einer dunklen Nacht hofft der Beter auf den Morgen. Er will Gottes Güte hören wie eine gute Nachricht am Morgen.
+> Vers 10: „Lehre mich, deinen Willen zu tun“: eines der schönsten kurzen Gebete der Bibel. „Führe mich im Land der Aufrichtigkeit“: Gott führt auf einen geraden, ehrlichen Weg.
+> Vers 12: Der Beter bittet Gott, ihn von seinen Feinden zu befreien. Er greift nicht selbst zur Gewalt, sondern überlässt es Gott. Für uns heute ist der Weg Jesu: Feinde lieben und für sie beten (Matthäus 5,44).
