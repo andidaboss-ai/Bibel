@@ -71779,7 +71779,7 @@ der Gott, der mir gnädig ist.
 
 ### Du hast uns verstoßen (Vers 1–5)
 
-<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilie des Zeugnisses“. Ein Lehrgedicht von David,
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Lilie des Bundes“. Ein Lehrgedicht von David,
 als er gegen Aram-Naharajim und Aram-Zoba kämpfte
 und Joab zurückkehrte und zwölftausend Edomiter im Salztal schlug.
 Gott, du hast uns verstoßen.
