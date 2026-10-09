@@ -80,7 +80,7 @@ Sie brachten alles Unreine, das sie im Tempel des HERRN fanden,
 in den Vorhof des Hauses des HERRN hinaus.
 Die Leviten nahmen es von dort
 und brachten es hinaus zum Bach Kidron.
-[17] Sie begannen am ersten Tag des ersten Monats mit dem Heiligen.
+[17] Sie begannen am ersten Tag des ersten Monats damit, zu heiligen.
 Am achten Tag des Monats kamen sie zur Vorhalle des HERRN.
 Sie heiligten das Haus des HERRN in acht Tagen,
 und am 16. Tag des ersten Monats waren sie fertig.

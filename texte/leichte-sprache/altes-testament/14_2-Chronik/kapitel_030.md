@@ -42,7 +42,7 @@ die dem HERRN, dem Gott ihrer Väter, untreu waren,
 sodass er sie der Verwüstung preisgab,
 wie ihr seht.
 [8] Seid jetzt nicht halsstarrig wie eure Väter,
-sondern reicht dem HERRN die Hand
+sondern gebt euch dem HERRN hin
 und kommt zu seinem Heiligtum,
 das er für immer geheiligt hat.
 Dient dem HERRN, eurem Gott,
@@ -58,7 +58,7 @@ wenn ihr zu ihm umkehrt.“
 > **Was bedeutet das?**
 > Der Brief ist eine Einladung zur Umkehr. Das hebräische Wort „schuw“ (umkehren) kommt mehrmals vor: Kehrt um zu Gott, dann kehrt Gott sich euch zu, und eure Gefangenen kehren zurück.
 > „Halsstarrig“ heißt stur, wie ein Tier, das den Hals steif macht und sich nicht führen lässt.
-> „Reicht dem HERRN die Hand“: In der englischen Vorlage steht „gebt euch dem HERRN hin“. Wörtlich: „Gebt dem HERRN die Hand“, als Zeichen der Unterwerfung und des Vertrauens.
+> „Gebt euch dem HERRN hin“: Im Hebräischen steht wörtlich „Gebt dem HERRN die Hand“, als Zeichen der Hingabe und des Vertrauens.
 > Vers 9 ist ein großes Versprechen: Gott ist gnädig und barmherzig (vgl. 2. Mose 34,6). Er wendet sich nicht ab von dem, der zu ihm umkehrt.
 
 ---
