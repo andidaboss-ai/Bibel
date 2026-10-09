@@ -74102,3 +74102,310 @@ weil du, HERR, mir geholfen und mich getröstet hast.
 > Vers 15 zitiert eine der wichtigsten Aussagen über Gott in der ganzen Bibel. Gott selbst hat sie zu Mose gesagt: „barmherzig und gnädig, langsam zum Zorn und reich an Güte und Treue“ (2. Mose 34,6).
 > Vers 16: „Den Sohn deines Knechtes“: Im Hebräischen steht „Sohn deiner Magd“. Gemeint ist: Ich gehöre ganz zu dir, von Geburt an, wie ein Kind, das im Haus eines Herrn geboren wurde.
 > Vers 17: Der Beter bittet um ein sichtbares Zeichen, dass Gott auf seiner Seite steht.
+
+## Psalm 87
+#### Zion, die Mutter aller Völker
+
+---
+
+### Herrliches wird von dir gesagt (Vers 1–3)
+
+<sup>1</sup>Ein Psalm von den Söhnen Korachs. Ein Lied.
+Sein Fundament ist auf den heiligen Bergen.
+<sup>2</sup>Der HERR liebt die Tore Zions
+mehr als alle Wohnungen Jakobs.
+<sup>3</sup>Herrliches wird von dir gesagt,
+du Stadt Gottes.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 87 ist ein kurzes Lied über Jerusalem (Zion). Gott hat diese Stadt gegründet und liebt sie besonders.
+> Vers 3 ist berühmt: „Herrliches wird von dir gesagt, du Stadt Gottes.“ Ein bekanntes englisches Kirchenlied („Glorious Things of Thee Are Spoken“) beruht darauf. Es wird zur Melodie von Joseph Haydn gesungen.
+
+---
+
+### Dort ist er geboren (Vers 4–7)
+
+<sup>4</sup>Ich will Rahab und Babel aufzählen unter denen, die mich kennen.
+Schau, Philistäa, Tyrus und auch Kusch:
+„Dieser ist dort geboren.“
+<sup>5</sup>Ja, von Zion wird man sagen:
+„Dieser und jener ist in ihr geboren.“
+Der Höchste selbst wird sie festigen.
+<sup>6</sup>Der HERR wird zählen, wenn er die Völker aufschreibt:
+„Dieser ist dort geboren.“
+Sela.
+<sup>7</sup>Die Sänger wie die Tänzer sagen:
+„Alle meine Quellen sind in dir.“
+
+> **Was bedeutet das?**
+> Das ist ein erstaunlicher Psalm! Die Feinde Israels werden aufgezählt: „Rahab“ (ein dichterischer Name für Ägypten), Babel (Babylon), Philistäa, Tyrus und Kusch (das Land südlich von Ägypten; die englische Vorlage sagt „Äthiopien“).
+> Und Gott sagt über sie: „Dieser ist in Zion geboren.“ Gott schreibt Menschen aus allen Völkern in sein Buch, als wären sie Bürger Jerusalems.
+> Zion wird so zur Mutter aller Völker. Das ist eine große Vision: Alle Menschen können zu Gott gehören, egal woher sie kommen (vgl. Jesaja 2,2–4; Galater 4,26).
+> Vers 7: Alle singen und tanzen: „Alle meine Quellen sind in dir.“ Gott ist die Quelle des Lebens für alle.
+
+## Psalm 88
+#### Das dunkelste Gebet
+
+---
+
+### Mein Leben ist nahe am Tod (Vers 1–9)
+
+<sup>1</sup>Ein Lied. Ein Psalm von den Söhnen Korachs. Für den Chorleiter.
+Nach der Weise „Das Leiden der Not“. Ein Lehrgedicht von Heman, dem Esrachiter.
+HERR, Gott meiner Rettung,
+Tag und Nacht habe ich vor dir geschrien.
+<sup>2</sup>Lass mein Gebet vor dein Angesicht kommen!
+Neige dein Ohr zu meinem Schreien!
+<sup>3</sup>Denn meine Seele ist voll von Leid.
+Mein Leben ist dem Totenreich nahe.
+<sup>4</sup>Ich werde zu denen gezählt, die in die Grube hinabfahren.
+Ich bin wie ein Mann, der keine Hilfe hat,
+<sup>5</sup>ausgesondert unter den Toten,
+wie die Erschlagenen, die im Grab liegen,
+an die du nicht mehr denkst.
+Sie sind von deiner Hand abgeschnitten.
+<sup>6</sup>Du hast mich in die tiefste Grube gelegt,
+in die dunkelsten Tiefen.
+<sup>7</sup>Dein Zorn liegt schwer auf mir.
+Mit all deinen Wellen hast du mich gebeugt.
+Sela.
+<sup>8</sup>Du hast meine Freunde von mir entfernt.
+Du hast mich ihnen zum Abscheu gemacht.
+Ich bin eingeschlossen und kann nicht hinaus.
+<sup>9</sup>Meine Augen sind trüb vor Kummer.
+Ich habe dich täglich angerufen, HERR.
+Ich habe meine Hände zu dir ausgestreckt.
+
+> **Was bedeutet das?**
+> Psalm 88 ist der dunkelste Psalm der Bibel. Er hat keine Wende zum Licht, kein Lob am Ende.
+> Heman war ein Sänger und weiser Mann zur Zeit Davids und Salomos (1. Könige 5,11; 1. Chronik 15,19).
+> Der Beter ist schwer krank, vielleicht schon von Jugend an (Vers 15). Er fühlt sich wie lebendig begraben. Seine Freunde meiden ihn, vielleicht weil seine Krankheit ansteckend oder abstoßend ist (wie Aussatz).
+> Und das Schlimmste: Er erlebt sein Leid als von Gott kommend.
+
+---
+
+### Tust du Wunder an den Toten? (Vers 10–12)
+
+<sup>10</sup>Tust du Wunder an den Toten?
+Stehen die Verstorbenen auf, um dich zu loben?
+Sela.
+<sup>11</sup>Wird deine Güte im Grab erzählt
+oder deine Treue im Abgrund?
+<sup>12</sup>Werden deine Wunder in der Finsternis bekannt
+oder deine Gerechtigkeit im Land des Vergessens?
+
+> **Was bedeutet das?**
+> Der Beter stellt Gott Fragen: Wenn ich sterbe, was hast du davon? Die Toten können dich nicht loben.
+> Im Alten Testament stellte man sich das Totenreich als dunklen Ort des Vergessens vor. „Abgrund“: Im Hebräischen steht „Abaddon“, Ort der Vernichtung.
+> Christen glauben: Gott hat in Jesus gerade an einem Toten das größte Wunder getan, die Auferstehung. Das ist eine Antwort auf diese Fragen, die der Beter damals noch nicht kannte.
+
+---
+
+### Warum verbirgst du dein Angesicht? (Vers 13–18)
+
+<sup>13</sup>Ich aber schreie zu dir, HERR.
+Am Morgen kommt mein Gebet vor dich.
+<sup>14</sup>HERR, warum verstößt du meine Seele?
+Warum verbirgst du dein Angesicht vor mir?
+<sup>15</sup>Ich bin elend und dem Tod nahe von Jugend an.
+Während ich deine Schrecken erleide, bin ich ganz verstört.
+<sup>16</sup>Deine Zornesglut ist über mich hinweggegangen.
+Deine Schrecken haben mich vernichtet.
+<sup>17</sup>Sie umgaben mich wie Wasser den ganzen Tag.
+Sie haben mich völlig eingeschlossen.
+<sup>18</sup>Du hast Liebsten und Freund von mir entfernt,
+und meine Vertrauten sind Finsternis.
+
+> **Was bedeutet das?**
+> Der Psalm endet mit dem Wort „Finsternis“. Im Hebräischen ist das wirklich das letzte Wort. Es gibt keinen Trost, keine Antwort.
+> Warum steht so ein Psalm in der Bibel? Weil es Zeiten gibt, in denen Menschen nur noch Dunkelheit sehen. Psalm 88 zeigt: Auch dann darf man beten. Auch dann gehört man zu Gott.
+> Und: Der Beter betet immer noch. Er nennt Gott in Vers 1 „Gott meiner Rettung“. Er gibt nicht auf, mit Gott zu reden. Das allein ist schon ein Zeichen von Glauben.
+> Wenn du dich so fühlst wie der Beter: Bitte bleib nicht allein. Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, anonym). Bei akuter Gefahr für dein Leben: Notruf 112. Auch Ärztinnen und Ärzte, Seelsorger und Beratungsstellen können helfen.
+
+## Psalm 89
+#### Gottes Bund mit David
+
+---
+
+### Ich will von der Güte des HERRN singen (Vers 1–4)
+
+<sup>1</sup>Ein Lehrgedicht von Etan, dem Esrachiter.
+Ich will von der Güte des HERRN für immer singen.
+Mit meinem Mund will ich deine Treue allen Generationen verkünden.
+<sup>2</sup>Ich sage: „Die Liebe steht für immer fest.
+Du hast den Himmel gegründet. Deine Treue ist in ihm.“
+<sup>3</sup>„Ich habe einen Bund mit meinem Erwählten geschlossen.
+Ich habe David, meinem Knecht, geschworen:
+<sup>4</sup>‚Ich will deine Nachkommen für immer festigen
+und deinen Thron für alle Generationen bauen.‘“
+Sela.
+
+> **Was bedeutet das?**
+> Etan war wie Heman ein bekannter weiser Mann (1. Könige 5,11).
+> Psalm 89 erinnert an Gottes Versprechen an David: Seine Familie soll für immer auf dem Thron sitzen (2. Samuel 7,12–16).
+> Zwei Worte kommen in diesem Psalm immer wieder vor: „Güte“ (oder Liebe) und „Treue“, je sieben Mal. Gottes Güte und Treue sind die Grundlage für alles.
+> Aber am Ende des Psalms wird eine schwere Frage gestellt: Was ist aus diesem Versprechen geworden?
+
+---
+
+### Wer ist wie der HERR? (Vers 5–18)
+
+<sup>5</sup>Die Himmel loben deine Wunder, HERR,
+und deine Treue in der Versammlung der Heiligen.
+<sup>6</sup>Denn wer im Himmel ist mit dem HERRN zu vergleichen?
+Wer unter den Söhnen der Himmelswesen ist wie der HERR,
+<sup>7</sup>ein sehr furchterregender Gott im Rat der Heiligen,
+gefürchtet über allen, die um ihn sind?
+<sup>8</sup>HERR, Gott der Heere, wer ist mächtig wie du?
+Jah, deine Treue ist rings um dich.
+<sup>9</sup>Du herrschst über das stolze Meer.
+Wenn seine Wellen sich erheben, beruhigst du sie.
+<sup>10</sup>Du hast Rahab zerschmettert wie einen Erschlagenen.
+Mit deinem starken Arm hast du deine Feinde zerstreut.
+<sup>11</sup>Dein ist der Himmel, dein ist auch die Erde,
+die Welt und alles, was sie erfüllt. Du hast sie gegründet.
+<sup>12</sup>Den Norden und den Süden hast du geschaffen.
+Tabor und Hermon jubeln über deinen Namen.
+<sup>13</sup>Du hast einen mächtigen Arm.
+Deine Hand ist stark, und deine rechte Hand ist erhoben.
+<sup>14</sup>Gerechtigkeit und Recht sind die Grundlage deines Thrones.
+Güte und Wahrheit gehen vor deinem Angesicht her.
+<sup>15</sup>Glücklich ist das Volk, das lernt, dir zuzujubeln.
+Sie gehen im Licht deines Angesichts, HERR.
+<sup>16</sup>In deinem Namen freuen sie sich den ganzen Tag.
+Durch deine Gerechtigkeit werden sie erhoben.
+<sup>17</sup>Denn du bist die Herrlichkeit ihrer Stärke.
+Durch deine Gunst wird unser Horn erhoben.
+<sup>18</sup>Denn unser Schild gehört dem HERRN,
+unser König dem Heiligen Israels.
+
+> **Was bedeutet das?**
+> Ein großes Loblied auf Gottes Macht. Im Himmel gibt es niemanden, der ihm gleich ist.
+> Vers 10: „Rahab“ ist hier ein Seeungeheuer, ein Bild für das Chaos (vgl. Hiob 26,12). Manchmal steht Rahab auch für Ägypten (Psalm 87,4).
+> Vers 12: Tabor und Hermon sind zwei bekannte Berge im Norden Israels.
+> Vers 14: Gottes Herrschaft ruht auf Gerechtigkeit und Recht. Güte und Wahrheit gehen vor ihm her wie Diener vor einem König.
+> Vers 18: Der König Israels gehört Gott. Er ist sein „Schild“, sein Beschützer im Auftrag Gottes.
+
+---
+
+### Ich habe David gefunden (Vers 19–29)
+
+<sup>19</sup>Damals hast du in einer Vision zu deinen Frommen geredet und gesagt:
+„Ich habe einem Helden Kraft verliehen.
+Ich habe einen jungen Mann aus dem Volk erhöht.
+<sup>20</sup>Ich habe David gefunden, meinen Knecht.
+Mit meinem heiligen Öl habe ich ihn gesalbt.
+<sup>21</sup>Meine Hand wird fest bei ihm bleiben.
+Mein Arm wird ihn stärken.
+<sup>22</sup>Kein Feind wird ihn bedrängen.
+Kein Gottloser wird ihn unterdrücken.
+<sup>23</sup>Ich will seine Gegner vor ihm zerschlagen
+und die schlagen, die ihn hassen.
+<sup>24</sup>Aber meine Treue und meine Güte werden bei ihm sein.
+In meinem Namen wird sein Horn erhoben werden.
+<sup>25</sup>Ich will seine Hand auch auf das Meer legen
+und seine rechte Hand auf die Ströme.
+<sup>26</sup>Er wird zu mir rufen: ‚Du bist mein Vater,
+mein Gott und der Fels meiner Rettung!‘
+<sup>27</sup>Ich will ihn auch zum Erstgeborenen machen,
+zum Höchsten unter den Königen der Erde.
+<sup>28</sup>Ich will meine Güte für ihn bewahren für immer.
+Mein Bund mit ihm wird fest bleiben.
+<sup>29</sup>Ich will auch seine Nachkommen für immer bestehen lassen
+und seinen Thron wie die Tage des Himmels.
+
+> **Was bedeutet das?**
+> Hier wird Gottes Versprechen an David ausführlich wiederholt. Die „Vision“ ist wohl die Botschaft des Propheten Natan (2. Samuel 7).
+> Gott hat David, einen einfachen jungen Mann, „gefunden“ und zum König gesalbt.
+> Vers 26–27: David darf Gott „Vater“ nennen, und Gott macht ihn zum „Erstgeborenen“, zum wichtigsten König der Welt.
+> Christen sehen in diesen Worten einen Hinweis auf Jesus, den Sohn Davids, den „Erstgeborenen“ (Kolosser 1,15; Offenbarung 1,5).
+
+---
+
+### Auch wenn sie untreu werden (Vers 30–37)
+
+<sup>30</sup>Wenn seine Kinder mein Gesetz verlassen
+und nicht nach meinen Rechtsbestimmungen leben,
+<sup>31</sup>wenn sie meine Ordnungen brechen
+und meine Gebote nicht halten,
+<sup>32</sup>dann will ich ihre Sünde mit der Rute strafen
+und ihre Schuld mit Schlägen.
+<sup>33</sup>Aber meine Güte will ich ihm nicht ganz entziehen
+und meine Treue nicht brechen.
+<sup>34</sup>Ich will meinen Bund nicht entweihen
+und nicht ändern, was über meine Lippen gekommen ist.
+<sup>35</sup>Einmal habe ich bei meiner Heiligkeit geschworen:
+David werde ich nicht belügen.
+<sup>36</sup>Seine Nachkommen werden für immer bestehen
+und sein Thron wie die Sonne vor mir.
+<sup>37</sup>Er wird fest stehen für immer wie der Mond,
+der treue Zeuge am Himmel.“
+Sela.
+
+> **Was bedeutet das?**
+> Gott verspricht: Auch wenn Davids Nachkommen ungehorsam sind, wird er sie zwar bestrafen, aber seinen Bund nicht aufheben.
+> „Rute und Schläge“: Das ist die Sprache der Erziehung damals. Heute wissen wir, dass Gewalt gegen Kinder Unrecht ist. Gemeint ist hier: Gott wird die Schuld nicht übersehen, aber er wird sein Volk nicht verstoßen.
+> Vers 37: Der Mond, der jede Nacht am Himmel steht, ist wie ein Zeuge für Gottes Treue.
+
+---
+
+### Aber jetzt hast du verstoßen (Vers 38–45)
+
+<sup>38</sup>Aber du hast verstoßen und verworfen.
+Du bist zornig auf deinen Gesalbten geworden.
+<sup>39</sup>Du hast den Bund mit deinem Knecht verabscheut.
+Du hast seine Krone in den Staub getreten.
+<sup>40</sup>Du hast alle seine Mauern eingerissen.
+Du hast seine Festungen in Trümmer gelegt.
+<sup>41</sup>Alle, die vorübergehen, plündern ihn.
+Er ist zum Spott für seine Nachbarn geworden.
+<sup>42</sup>Du hast die rechte Hand seiner Gegner erhoben.
+Du hast alle seine Feinde fröhlich gemacht.
+<sup>43</sup>Ja, du lässt die Schneide seines Schwertes zurückweichen
+und hast ihn im Kampf nicht gestützt.
+<sup>44</sup>Du hast seinem Glanz ein Ende gemacht
+und seinen Thron zu Boden geworfen.
+<sup>45</sup>Du hast die Tage seiner Jugend verkürzt.
+Du hast ihn mit Schande bedeckt.
+Sela.
+
+> **Was bedeutet das?**
+> Jetzt kommt der große Bruch: „Aber du hast verstoßen!“ Der König aus Davids Familie ist besiegt, seine Krone liegt im Staub, Jerusalem ist zerstört.
+> Wahrscheinlich ist das Ende des Königreichs Juda gemeint, als die Babylonier 586 vor Christus Jerusalem eroberten und den König Jojachin oder Zidkija gefangen nahmen (2. Könige 24–25).
+> Der Beter klagt Gott offen an: Du hast deinen Bund gebrochen! Das klingt hart, aber es zeigt, wie ernst er Gottes Versprechen nimmt.
+
+---
+
+### Wo ist deine frühere Güte? (Vers 46–51)
+
+<sup>46</sup>Wie lange, HERR? Willst du dich für immer verbergen?
+Soll dein Zorn brennen wie Feuer?
+<sup>47</sup>Denk daran, wie kurz meine Zeit ist!
+Zu welcher Vergänglichkeit hast du alle Menschenkinder geschaffen!
+<sup>48</sup>Welcher Mensch lebt und sieht den Tod nicht?
+Wer kann seine Seele aus der Gewalt des Totenreichs befreien?
+Sela.
+<sup>49</sup>Herr, wo ist deine frühere Güte,
+die du David in deiner Treue geschworen hast?
+<sup>50</sup>Denk, Herr, an die Schmach deiner Knechte,
+wie ich in meinem Herzen den Hohn aller mächtigen Völker trage,
+<sup>51</sup>mit dem deine Feinde gespottet haben, HERR,
+mit dem sie die Fußspuren deines Gesalbten verspottet haben.
+
+> **Was bedeutet das?**
+> Vers 49 ist die große Frage des Psalms: „Herr, wo ist deine Güte, die du David geschworen hast?“
+> Das ist eine Frage, die sich das jüdische Volk nach dem Exil lange gestellt hat. Es gab keinen König aus Davids Familie mehr.
+> Die Antwort der Bibel ist die Hoffnung auf den Messias, den kommenden König aus Davids Familie. Juden warten bis heute auf ihn. Christen glauben, dass Jesus, der „Sohn Davids“, dieser König ist (Lukas 1,32–33).
+
+---
+
+### Abschluss des dritten Psalmenbuchs (Vers 52)
+
+<sup>52</sup>Gepriesen sei der HERR für immer.
+Amen und Amen.
+
+> **Was bedeutet das?**
+> Dieser Vers schließt das dritte Psalmenbuch (Psalm 73–89) ab.
+> Bemerkenswert: Nach all der Klage und den offenen Fragen endet das Buch trotzdem mit Lob. Der Glaube hält an Gott fest, auch wenn die Antworten fehlen.
+> Ab Psalm 90 beginnt das vierte Psalmenbuch.
