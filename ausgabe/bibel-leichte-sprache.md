@@ -90939,3 +90939,469 @@ und sie werden ein Abscheu sein für alle Menschen.“
 > **Für alle Völker:** Gottes Haus ist ein „Bethaus für alle Völker“ (56,7). Am Ende kommen alle Menschen, um Gott anzubeten (66,23).
 > **Alles wird neu:** Gott schafft einen neuen Himmel und eine neue Erde, ohne Weinen und ohne Gewalt (65,17–25). Und er tröstet wie eine Mutter (66,13).
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Jeremia. Jeremia lebte etwa 100 Jahre nach Jesaja und erlebte selbst die Zerstörung Jerusalems.
+
+
+---
+
+# Jeremia
+
+## Jeremia – Kapitel 1
+#### Bevor ich dich im Mutterleib bildete
+
+---
+
+### Bevor es losgeht: Wer war Jeremia?
+
+Jeremia lebte etwa 100 Jahre nach Jesaja, ungefähr von 627 bis nach 587 vor Christus. Er stammte aus einer Priesterfamilie aus dem Dorf Anatot, nicht weit von Jerusalem.
+Jeremia erlebte eine sehr schwere Zeit: Das Reich Babylon wurde immer mächtiger. Jeremia warnte jahrzehntelang: Wenn ihr nicht zu Gott umkehrt, wird Jerusalem zerstört. Viele wollten das nicht hören. Jeremia wurde verspottet, geschlagen, ins Gefängnis geworfen und in eine Zisterne gesteckt. Im Jahr 587 vor Christus wurde Jerusalem tatsächlich von den Babyloniern zerstört.
+Jeremia ist der Prophet, von dem wir am meisten über seine Gefühle erfahren. Er klagt, weint und streitet mit Gott. Darum nennt man ihn manchmal den „weinenden Propheten“.
+Aber Jeremia bringt auch große Hoffnung: Gott verspricht einen „neuen Bund“, bei dem er sein Gesetz in die Herzen der Menschen schreibt (Kapitel 31).
+Das Buch hat 52 Kapitel. Es enthält Reden, Gebete, Klagen und Erzählungen aus Jeremias Leben. Jeremias Schreiber hieß Baruch. Er hat viele Worte Jeremias aufgeschrieben.
+Juden und Christen lesen Jeremia als Gottes Wort in einer Zeit des Zusammenbruchs. Seine Botschaft: Gott ist auch im Gericht nicht fern, und er schenkt einen neuen Anfang.
+
+---
+
+### Die Berufung Jeremias (Vers 1–10)
+
+<sup>1</sup>Die Worte Jeremias, des Sohnes Hilkijas,
+einer von den Priestern, die in Anatot im Land Benjamin wohnten.
+<sup>2</sup>Das Wort des HERRN kam zu ihm in den Tagen Joschijas,
+des Sohnes Amons, des Königs von Juda,
+im dreizehnten Jahr seiner Herrschaft.
+<sup>3</sup>Es kam auch in den Tagen Jojakims, des Sohnes Joschijas, des Königs von Juda,
+bis zum Ende des elften Jahres Zidkijas, des Sohnes Joschijas, des Königs von Juda,
+bis zur Wegführung Jerusalems in die Gefangenschaft im fünften Monat.
+<sup>4</sup>Das Wort des HERRN kam zu mir:
+<sup>5</sup>„Bevor ich dich im Mutterleib bildete, kannte ich dich.
+Bevor du geboren wurdest, habe ich dich geheiligt.
+Ich habe dich zum Propheten für die Nationen bestimmt.“
+<sup>6</sup>Da sagte ich: „Ach, Herr, HERR!
+Siehe, ich kann nicht reden, denn ich bin noch jung.“
+<sup>7</sup>Aber der HERR sagte zu mir:
+„Sag nicht: ‚Ich bin noch jung.‘
+Denn du sollst zu allen gehen, zu denen ich dich sende,
+und du sollst alles sagen, was ich dir befehle.
+<sup>8</sup>Fürchte dich nicht vor ihnen,
+denn ich bin bei dir, um dich zu retten“, spricht der HERR.
+<sup>9</sup>Dann streckte der HERR seine Hand aus und berührte meinen Mund.
+Und der HERR sagte zu mir:
+„Siehe, ich habe meine Worte in deinen Mund gelegt.
+<sup>10</sup>Siehe, ich setze dich heute über die Nationen und über die Königreiche,
+um auszureißen und niederzureißen,
+um zu zerstören und abzubrechen,
+um zu bauen und zu pflanzen.“
+
+> **Was bedeutet das?**
+> Vers 1–3: Jeremia wirkte etwa 40 Jahre lang: vom 13. Jahr des Königs Joschija (627 vor Christus) bis zur Zerstörung Jerusalems (587 vor Christus).
+> Vers 5: Ein wunderbarer Vers: Gott kannte Jeremia schon, bevor er geboren wurde. Jeder Mensch ist von Gott gewollt und gekannt, schon vor der Geburt.
+> Vers 6: Jeremia wehrt sich: „Ich bin noch zu jung! Ich kann nicht reden.“ Viele Menschen fühlen sich zu klein für eine große Aufgabe. Auch Mose hatte so gezögert (2. Mose 4,10).
+> Vers 7–8: Gottes Antwort: „Sag nicht: Ich bin zu jung. Fürchte dich nicht, ich bin bei dir.“ Gott traut auch jungen Menschen etwas zu.
+> Vers 9: Gott berührt Jeremias Mund und legt seine Worte hinein.
+> Vers 10: Sechs Verben beschreiben Jeremias Auftrag: Vier davon sind hart (ausreißen, niederreißen, zerstören, abbrechen), zwei sind hoffnungsvoll (bauen, pflanzen). So wird das ganze Buch sein: viel Gericht, aber am Ende ein Neuanfang.
+
+---
+
+### Zwei Bilder: Mandelzweig und kochender Topf (Vers 11–19)
+
+<sup>11</sup>Weiter kam das Wort des HERRN zu mir:
+„Jeremia, was siehst du?“
+Ich sagte: „Ich sehe einen Zweig von einem Mandelbaum.“
+<sup>12</sup>Da sagte der HERR zu mir:
+„Du hast gut gesehen, denn ich wache über meinem Wort, um es auszuführen.“
+<sup>13</sup>Das Wort des HERRN kam zum zweiten Mal zu mir:
+„Was siehst du?“
+Ich sagte: „Ich sehe einen kochenden Kessel,
+und er neigt sich von Norden her.“
+<sup>14</sup>Da sagte der HERR zu mir:
+„Von Norden her wird das Unheil losbrechen
+über alle Bewohner des Landes.
+<sup>15</sup>Denn siehe, ich rufe alle Sippen der Königreiche des Nordens“,
+spricht der HERR.
+„Sie werden kommen, und jeder wird seinen Thron
+am Eingang der Tore Jerusalems aufstellen
+und gegen alle ihre Mauern ringsum
+und gegen alle Städte Judas.
+<sup>16</sup>Ich werde meine Urteile gegen sie aussprechen
+wegen all ihrer Bosheit,
+weil sie mich verlassen haben
+und anderen Göttern Räucherwerk verbrannt
+und die Werke ihrer eigenen Hände angebetet haben.
+<sup>17</sup>Du aber, binde deinen Gürtel um deine Hüften,
+steh auf und sag ihnen alles, was ich dir befehle.
+Erschrick nicht vor ihnen,
+damit ich dich nicht vor ihnen erschrecke.
+<sup>18</sup>Denn siehe, ich mache dich heute zu einer befestigten Stadt,
+zu einer eisernen Säule und zu bronzenen Mauern
+gegen das ganze Land,
+gegen die Könige Judas, gegen seine Fürsten,
+gegen seine Priester und gegen das Volk des Landes.
+<sup>19</sup>Sie werden gegen dich kämpfen,
+aber sie werden dich nicht überwältigen,
+denn ich bin bei dir“, spricht der HERR, „um dich zu retten.“
+
+> **Was bedeutet das?**
+> Vers 11–12: Ein Wortspiel im Hebräischen: Der Mandelbaum heißt „schaqed“, das bedeutet „der Wache“, weil er im Frühling als erster Baum blüht, als würde er schon wach sein. Gott sagt: Ich bin „schoqed“, ich wache über meinem Wort. Was ich sage, geschieht.
+> Vers 13–15: Der kochende Kessel, der von Norden überkocht, ist ein Bild für die Feinde, die aus dem Norden kommen werden. Babylon lag zwar im Osten, aber die Heere kamen über den Norden nach Israel, weil sie die Wüste umgehen mussten.
+> Vers 16: Der Grund für das Unheil: Das Volk hat Gott verlassen und Götzen angebetet.
+> Vers 17–19: Jeremia wird viel Widerstand erleben: von Königen, Priestern und vom Volk. Aber Gott macht ihn stark wie eine Festung, eine eiserne Säule. „Ich bin bei dir, um dich zu retten.“ Das heißt nicht, dass Jeremia nicht leiden wird, aber er wird nicht untergehen.
+
+## Jeremia – Kapitel 2
+#### Die Quelle lebendigen Wassers
+
+---
+
+### Ich erinnere mich an deine Jugendliebe (Vers 1–3)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Geh und rufe in die Ohren Jerusalems:
+‚So spricht der HERR:
+Ich erinnere mich an die Treue deiner Jugend,
+an deine Liebe als Braut,
+wie du mir in der Wüste nachgegangen bist,
+in einem Land, das nicht besät ist.
+<sup>3</sup>Israel war dem HERRN heilig,
+die Erstlingsfrucht seiner Ernte.
+Alle, die davon essen, werden schuldig.
+Unheil wird über sie kommen‘, spricht der HERR.“
+
+> **Was bedeutet das?**
+> Gott erinnert sich an die Anfangszeit mit seinem Volk, an die Wüstenwanderung nach dem Auszug aus Ägypten. Damals war Israel wie eine junge Braut, die ihrem Bräutigam überallhin folgt, sogar in die Wüste.
+> Vers 3: Israel war Gott heilig wie die ersten Früchte der Ernte, die Gott gehörten. Wer Israel angriff, machte sich schuldig.
+> Diese liebevolle Erinnerung ist der Hintergrund für die folgende Klage: Was ist aus dieser Liebe geworden?
+
+---
+
+### Mein Volk hat mich verlassen (Vers 4–13)
+
+<sup>4</sup>Hört das Wort des HERRN, Haus Jakob
+und alle Sippen des Hauses Israel!
+<sup>5</sup>So spricht der HERR:
+„Welches Unrecht haben eure Väter an mir gefunden,
+dass sie sich von mir entfernt haben
+und dem Nichtigen nachgelaufen
+und selbst nichtig geworden sind?
+<sup>6</sup>Sie haben nicht gesagt:
+‚Wo ist der HERR, der uns aus dem Land Ägypten heraufgeführt hat,
+der uns durch die Wüste geführt hat,
+durch ein Land der Steppen und Gruben,
+durch ein Land der Dürre und der Todesschatten,
+durch ein Land, durch das niemand zieht
+und wo kein Mensch wohnt?‘
+<sup>7</sup>Ich habe euch in ein fruchtbares Land gebracht,
+um seine Frucht und seine Güter zu essen.
+Aber als ihr hineinkamt, habt ihr mein Land verunreinigt
+und mein Erbe zu einem Gräuel gemacht.
+<sup>8</sup>Die Priester sagten nicht: ‚Wo ist der HERR?‘
+Und die, die mit dem Gesetz umgehen, kannten mich nicht.
+Auch die Herrscher sind von mir abgefallen,
+und die Propheten haben im Namen Baals geweissagt
+und sind Dingen nachgelaufen, die nichts nützen.
+<sup>9</sup>Darum werde ich weiter mit euch streiten“, spricht der HERR,
+„und mit den Kindern eurer Kinder werde ich streiten.
+<sup>10</sup>Denn fahrt hinüber zu den Inseln der Kittäer und seht!
+Schickt nach Kedar und gebt genau acht
+und seht, ob so etwas schon einmal geschehen ist!
+<sup>11</sup>Hat ein Volk seine Götter gewechselt,
+die doch gar keine Götter sind?
+Aber mein Volk hat seine Herrlichkeit vertauscht
+gegen etwas, das nichts nützt.
+<sup>12</sup>Entsetzt euch darüber, ihr Himmel,
+und schaudert und erstarrt“, spricht der HERR.
+<sup>13</sup>„Denn mein Volk hat zweifach Böses getan:
+Mich haben sie verlassen, die Quelle lebendigen Wassers,
+und haben sich Zisternen gegraben,
+rissige Zisternen, die kein Wasser halten.
+
+> **Was bedeutet das?**
+> Vers 5: Gott fragt wie ein enttäuschter Liebender: Was habe ich euch denn getan, dass ihr mich verlassen habt?
+> Vers 6–8: Niemand hat nach Gott gefragt, weder das Volk noch die Priester, noch die Herrscher, noch die Propheten. Sie haben vergessen, wer sie aus Ägypten befreit hat.
+> Vers 10–11: Kittim ist Zypern im Westen, Kedar ein Volk in Arabien im Osten. Gott sagt: Schaut euch überall um! Kein Volk wechselt seine Götter, obwohl diese nicht einmal echte Götter sind. Aber Israel hat den wahren Gott verlassen.
+> Vers 13 ist das bekannteste Bild dieses Kapitels: Gott ist wie eine frische Quelle, die immer sprudelt. Das Volk hat diese Quelle verlassen und sich Zisternen gegraben, also Löcher im Felsen, in denen Regenwasser gesammelt wird. Aber diese Zisternen sind rissig und halten kein Wasser. Wer Gott verlässt, sucht sein Glück dort, wo es nicht zu finden ist.
+
+---
+
+### Was hast du davon? (Vers 14–19)
+
+<sup>14</sup>Ist Israel ein Sklave?
+Ist er als Sklave geboren?
+Warum ist er zur Beute geworden?
+<sup>15</sup>Die jungen Löwen haben gegen ihn gebrüllt
+und ihre Stimme erhoben.
+Sie haben sein Land zur Wüste gemacht.
+Seine Städte sind verbrannt, ohne Bewohner.
+<sup>16</sup>Auch die Leute von Memfis und Tachpanhes
+haben dir den Scheitel kahl geschoren.
+<sup>17</sup>Hast du dir das nicht selbst zugefügt,
+weil du den HERRN, deinen Gott, verlassen hast,
+als er dich auf dem Weg führte?
+<sup>18</sup>Und jetzt, was hast du davon, auf den Weg nach Ägypten zu gehen,
+um das Wasser des Schihor zu trinken?
+Oder was hast du davon, auf den Weg nach Assur zu gehen,
+um das Wasser des Stroms zu trinken?
+<sup>19</sup>Deine eigene Bosheit wird dich züchtigen,
+und deine Abtrünnigkeit wird dich zurechtweisen.
+So erkenne und sieh, wie böse und bitter es ist,
+dass du den HERRN, deinen Gott, verlassen hast
+und dass keine Ehrfurcht vor mir in dir ist“,
+spricht der Herr, der HERR der Heere.
+
+> **Was bedeutet das?**
+> Vers 14–16: Israel war frei, aber jetzt wird es von Feinden ausgeraubt, wie von Löwen. Memfis und Tachpanhes sind Städte in Ägypten.
+> Vers 18: Der Schihor ist ein Arm des Nils in Ägypten, „der Strom“ ist der Euphrat in Assur. Juda suchte mal bei Ägypten, mal bei Assur Hilfe, anstatt bei Gott. Das ist wie Wasser aus fremden Flüssen trinken, statt aus der eigenen Quelle.
+> Vers 19: Die Folgen der eigenen Fehler sind selbst die Strafe. Wer Gott verlässt, merkt irgendwann, wie bitter das ist.
+
+---
+
+### Wie ein wilder Weinstock (Vers 20–28)
+
+<sup>20</sup>„Denn vor langer Zeit habe ich dein Joch zerbrochen
+und deine Fesseln zerrissen.
+Aber du sagtest: ‚Ich will nicht dienen!‘
+Denn auf jedem hohen Hügel und unter jedem grünen Baum
+hast du dich hingelegt und Hurerei getrieben.
+<sup>21</sup>Dabei hatte ich dich als edlen Weinstock gepflanzt,
+einen ganz echten, treuen Samen.
+Wie hast du dich mir dann verwandelt
+in die verdorbenen Ranken eines fremden Weinstocks?
+<sup>22</sup>Denn auch wenn du dich mit Lauge wäschst
+und viel Seife nimmst,
+bleibt deine Schuld doch vor mir sichtbar“,
+spricht der Herr, der HERR.
+<sup>23</sup>„Wie kannst du sagen: ‚Ich bin nicht unrein.
+Ich bin den Baalen nicht nachgelaufen‘?
+Sieh deinen Weg im Tal an!
+Erkenne, was du getan hast!
+Du bist eine flinke junge Kamelstute,
+die kreuz und quer läuft,
+<sup>24</sup>eine Wildeselin, die an die Wüste gewöhnt ist,
+die in ihrer Gier nach dem Wind schnappt.
+Wenn sie brünstig ist, wer kann sie zurückhalten?
+Alle, die sie suchen, müssen sich nicht abmühen.
+In ihrem Monat finden sie sie.
+<sup>25</sup>Bewahre deine Füße davor, barfuß zu werden,
+und deine Kehle vor dem Durst!
+Aber du sagtest: ‚Es ist umsonst!
+Nein, denn ich liebe die Fremden,
+und ihnen will ich nachlaufen.‘
+<sup>26</sup>Wie der Dieb sich schämt, wenn er ertappt wird,
+so wird sich das Haus Israel schämen,
+sie, ihre Könige, ihre Fürsten,
+ihre Priester und ihre Propheten,
+<sup>27</sup>die zum Holz sagen: ‚Du bist mein Vater‘,
+und zum Stein: ‚Du hast mich geboren.‘
+Denn sie haben mir den Rücken zugekehrt und nicht das Gesicht.
+Aber in der Zeit ihrer Not werden sie sagen:
+‚Steh auf und rette uns!‘
+<sup>28</sup>Wo sind denn deine Götter, die du dir gemacht hast?
+Sie sollen aufstehen, wenn sie dich retten können
+in der Zeit deiner Not!
+Denn so viele Städte du hast,
+so viele Götter hast du, Juda.
+
+> **Was bedeutet das?**
+> Vers 20: Die Bibel beschreibt Götzendienst oft mit dem Bild von Untreue in der Ehe oder Prostitution. Gemeint ist: Das Volk ist Gott untreu geworden. Es ist ein Bild für die Beziehung zu Gott, kein Urteil über Frauen oder über Menschen in der Prostitution. Auf „hohen Hügeln und unter grünen Bäumen“ wurden fremde Götter verehrt.
+> Vers 21: Gott hatte Israel als edlen Weinstock gepflanzt (wie in Jesaja 5). Aber daraus ist ein wilder, verdorbener Weinstock geworden.
+> Vers 22: Schuld kann man nicht einfach mit Seife abwaschen.
+> Vers 23–24: Starke Bilder aus der Tierwelt: Das Volk rennt den fremden Göttern hinterher wie ein Tier, das von seinem Trieb gesteuert wird.
+> Vers 27: Ein bitterer Spott: Zu einem Stück Holz sagen sie „Vater“. Aber wenn sie in Not sind, rufen sie doch Gott um Hilfe.
+> Vers 28: Jede Stadt in Juda hatte ihren eigenen Gott. Aber keiner kann helfen.
+
+---
+
+### Ich habe nicht gesündigt? (Vers 29–37)
+
+<sup>29</sup>„Warum streitet ihr mit mir?
+Ihr alle habt euch gegen mich vergangen“, spricht der HERR.
+<sup>30</sup>„Umsonst habe ich eure Kinder geschlagen.
+Sie haben keine Zurechtweisung angenommen.
+Euer eigenes Schwert hat eure Propheten gefressen
+wie ein reißender Löwe.
+<sup>31</sup>Du Generation, achtet auf das Wort des HERRN!
+War ich für Israel eine Wüste
+oder ein Land der tiefen Finsternis?
+Warum sagt mein Volk:
+‚Wir sind frei, wir kommen nicht mehr zu dir‘?
+<sup>32</sup>Kann eine junge Frau ihren Schmuck vergessen
+oder eine Braut ihren Gürtel?
+Aber mein Volk hat mich vergessen
+seit unzähligen Tagen.
+<sup>33</sup>Wie gut verstehst du deinen Weg,
+um Liebe zu suchen!
+Darum hast du sogar die bösen Frauen deine Wege gelehrt.
+<sup>34</sup>Auch an deinen Säumen findet sich
+das Blut der Seelen unschuldiger Armer.
+Du hast sie nicht beim Einbruch ertappt,
+sondern es ist wegen all dieser Dinge.
+<sup>35</sup>Und doch sagst du: ‚Ich bin unschuldig.
+Gewiss hat sich sein Zorn von mir abgewandt.‘
+Siehe, ich werde dich richten,
+weil du sagst: ‚Ich habe nicht gesündigt.‘
+<sup>36</sup>Warum läufst du so viel herum, um deinen Weg zu ändern?
+Auch an Ägypten wirst du zuschanden werden,
+wie du an Assur zuschanden geworden bist.
+<sup>37</sup>Auch von dort wirst du hinausgehen
+mit den Händen auf dem Kopf.
+Denn der HERR hat die verworfen, auf die du vertraust,
+und du wirst mit ihnen kein Glück haben.
+
+> **Was bedeutet das?**
+> Vers 30: Das Volk hat sogar Propheten umgebracht, die zur Umkehr riefen.
+> Vers 31: Gott fragt: War ich denn so schlecht zu euch, wie eine Wüste? Warum wollt ihr nichts mehr von mir wissen?
+> Vers 32: Eine Braut vergisst ihren Hochzeitsschmuck nicht. Aber Gottes Volk hat Gott vergessen.
+> Vers 34: Ein schwerer Vorwurf: An der Kleidung klebt das Blut armer, unschuldiger Menschen, die getötet wurden, obwohl sie nichts getan hatten. Unrecht gegen Arme ist für Gott ein Verbrechen.
+> Vers 35: Das Schlimmste ist, wenn man sagt: „Ich habe nichts falsch gemacht.“ Wer seine Schuld nicht sieht, kann nicht umkehren.
+> Vers 37: „Die Hände auf dem Kopf“ ist ein Zeichen von Trauer und Schande.
+
+## Jeremia – Kapitel 3
+#### Kehrt um, ihr abtrünnigen Kinder!
+
+---
+
+### Kehre zu mir zurück (Vers 1–5)
+
+<sup>1</sup>„Man sagt: ‚Wenn ein Mann seine Frau entlässt,
+und sie geht von ihm weg und wird die Frau eines anderen Mannes,
+darf er wieder zu ihr zurückkehren?‘
+Würde dieses Land nicht völlig entweiht werden?
+Du aber hast mit vielen Liebhabern Hurerei getrieben,
+und doch: Kehre zu mir zurück!“, spricht der HERR.
+<sup>2</sup>„Hebe deine Augen zu den kahlen Höhen und sieh!
+Wo bist du nicht beschlafen worden?
+An den Wegen hast du auf sie gewartet
+wie ein Araber in der Wüste.
+Du hast das Land entweiht
+mit deiner Hurerei und mit deiner Bosheit.
+<sup>3</sup>Darum wurden die Regenschauer zurückgehalten,
+und der Spätregen ist ausgeblieben.
+Aber du hattest die Stirn einer Hure
+und wolltest dich nicht schämen.
+<sup>4</sup>Wirst du mich nicht von jetzt an anrufen:
+‚Mein Vater, du bist der Freund meiner Jugend!‘?
+<sup>5</sup>‚Wird er für immer zornig bleiben?
+Wird er es bis zum Ende festhalten?‘
+Siehe, so hast du geredet
+und hast Böses getan, so viel du konntest.“
+
+> **Was bedeutet das?**
+> Vers 1: Nach dem Gesetz (5. Mose 24,1–4) durfte ein Mann seine geschiedene Frau nicht wieder heiraten, wenn sie inzwischen mit einem anderen verheiratet war. Gott sagt: Nach diesem Gesetz wäre eine Rückkehr unmöglich. Und trotzdem lädt Gott sein untreues Volk ein: „Kehre zu mir zurück!“ Gottes Liebe ist größer als das Gesetz.
+> Vers 2–3: Wieder das Bild von Untreue und Prostitution für den Götzendienst. Es geht um die Untreue des Volkes gegenüber Gott, nicht um ein Urteil über einzelne Frauen. Die Dürre wird als Folge dieser Untreue gedeutet.
+> Vers 4–5: Das Volk ruft zwar „Mein Vater!“, aber es tut weiter Böses. Es denkt: Gott wird schon nicht ewig böse sein.
+
+---
+
+### Die zwei Schwestern Israel und Juda (Vers 6–11)
+
+<sup>6</sup>Der HERR sagte zu mir in den Tagen des Königs Joschija:
+„Hast du gesehen, was die abtrünnige Israel getan hat?
+Sie ist auf jeden hohen Berg gegangen
+und unter jeden grünen Baum
+und hat dort Hurerei getrieben.
+<sup>7</sup>Ich dachte, nachdem sie all das getan hatte:
+‚Sie wird zu mir zurückkehren.‘
+Aber sie kehrte nicht zurück.
+Und ihre treulose Schwester Juda sah es.
+<sup>8</sup>Ich sah, dass ich die abtrünnige Israel gerade deshalb,
+weil sie Ehebruch getrieben hatte,
+entlassen und ihr einen Scheidebrief gegeben hatte.
+Aber ihre treulose Schwester Juda fürchtete sich nicht,
+sondern ging hin und trieb auch Hurerei.
+<sup>9</sup>Weil sie ihre Hurerei so leichtnahm,
+wurde das Land entweiht,
+und sie trieb Ehebruch mit Stein und Holz.
+<sup>10</sup>Und trotz all dem ist ihre treulose Schwester Juda
+nicht von ganzem Herzen zu mir zurückgekehrt,
+sondern nur zum Schein“, spricht der HERR.
+<sup>11</sup>Der HERR sagte zu mir:
+„Die abtrünnige Israel hat sich als gerechter erwiesen
+als die treulose Juda.
+
+> **Was bedeutet das?**
+> Hier werden zwei Schwestern verglichen: Israel (das Nordreich) und Juda (das Südreich mit Jerusalem). Das Nordreich war schon etwa 100 Jahre vorher von Assur zerstört worden (722 vor Christus).
+> Vers 8: Der „Scheidebrief“ ist ein Bild für das Exil des Nordreichs.
+> Vers 9: „Ehebruch mit Stein und Holz“ meint das Anbeten von Götterbildern aus Stein und Holz.
+> Vers 10: Unter König Joschija gab es eine große Reform (2. Könige 22–23). Aber Jeremia sagt: Viele haben nur äußerlich mitgemacht, nicht von Herzen.
+> Vers 11: Überraschend: Juda ist schlimmer als Israel, weil Juda das Schicksal seiner Schwester gesehen hat und trotzdem nichts gelernt hat.
+
+---
+
+### Kehrt um, ihr abtrünnigen Kinder! (Vers 12–18)
+
+<sup>12</sup>Geh und rufe diese Worte nach Norden aus und sag:
+‚Kehre zurück, du abtrünnige Israel‘, spricht der HERR.
+‚Ich werde nicht mit Zorn auf dich blicken,
+denn ich bin barmherzig‘, spricht der HERR.
+‚Ich werde nicht für immer zornig bleiben.
+<sup>13</sup>Erkenne nur deine Schuld,
+dass du dich gegen den HERRN, deinen Gott, vergangen hast
+und deine Wege zu den Fremden unter jedem grünen Baum verstreut hast
+und nicht auf meine Stimme gehört hast‘“, spricht der HERR.
+<sup>14</sup>„Kehrt um, ihr abtrünnigen Kinder“, spricht der HERR,
+„denn ich bin euer Ehemann.
+Ich werde euch nehmen, einen aus einer Stadt
+und zwei aus einer Sippe,
+und ich werde euch nach Zion bringen.
+<sup>15</sup>Ich werde euch Hirten nach meinem Herzen geben,
+die euch mit Erkenntnis und Einsicht weiden werden.
+<sup>16</sup>Und es wird geschehen, wenn ihr euch in jenen Tagen
+im Land vermehrt und zahlreich werdet“, spricht der HERR,
+„dann wird man nicht mehr sagen: ‚Die Bundeslade des HERRN!‘
+Man wird nicht mehr an sie denken.
+Man wird sich nicht an sie erinnern.
+Man wird sie nicht vermissen,
+und es wird keine neue gemacht werden.
+<sup>17</sup>Zu jener Zeit wird man Jerusalem ‚Thron des HERRN‘ nennen,
+und alle Nationen werden sich dort versammeln,
+zum Namen des HERRN, nach Jerusalem.
+Sie werden nicht mehr der Verstocktheit ihres bösen Herzens folgen.
+<sup>18</sup>In jenen Tagen wird das Haus Juda mit dem Haus Israel gehen,
+und sie werden zusammen aus dem Land des Nordens kommen
+in das Land, das ich euren Vätern zum Erbe gegeben habe.
+
+> **Was bedeutet das?**
+> Vers 12–13: Gott ruft sogar das längst zerstörte Nordreich zurück: „Kehre zurück! Ich bin barmherzig.“ Nur eins ist nötig: die eigene Schuld zugeben.
+> Vers 14: „Kehrt um, ihr abtrünnigen Kinder!“ Gott ist bereit, auch die Wenigen heimzuholen, „einen aus einer Stadt, zwei aus einer Sippe“. Jeder Einzelne zählt.
+> Vers 15: Gott verspricht gute Hirten, also Anführer, die das Volk mit Wissen und Verstand leiten.
+> Vers 16: Erstaunlich: Die Bundeslade, das heiligste Ding im Tempel, wird man nicht mehr vermissen. Denn ganz Jerusalem wird Gottes Thron sein (Vers 17). Gottes Nähe ist dann nicht mehr an einen Gegenstand gebunden. Was später mit der Bundeslade geschah, wissen wir nicht. Nach der Zerstörung Jerusalems wird sie in der Bibel nicht mehr erwähnt.
+> Vers 17–18: Alle Völker kommen nach Jerusalem, und Israel und Juda sind wieder vereint.
+
+---
+
+### Ein Gebet der Umkehr (Vers 19–25)
+
+<sup>19</sup>Ich aber sagte:
+‚Wie gern würde ich dich unter die Kinder stellen
+und dir ein liebliches Land geben,
+das schönste Erbe unter den Heeren der Nationen!‘
+Und ich sagte: ‚Ihr werdet mich „Mein Vater“ nennen
+und euch nicht von mir abwenden.‘
+<sup>20</sup>Aber wie eine Frau treulos ihren Mann verlässt,
+so seid ihr mir treulos gewesen, Haus Israel“, spricht der HERR.
+<sup>21</sup>Eine Stimme hört man auf den kahlen Höhen,
+das Weinen und Flehen der Kinder Israel,
+weil sie ihren Weg verkehrt
+und den HERRN, ihren Gott, vergessen haben.
+<sup>22</sup>„Kehrt um, ihr abtrünnigen Kinder,
+ich will eure Abtrünnigkeit heilen.“
+„Siehe, wir kommen zu dir,
+denn du bist der HERR, unser Gott.
+<sup>23</sup>Wahrhaftig, die Hilfe von den Hügeln,
+der Lärm auf den Bergen ist umsonst.
+Wahrhaftig, im HERRN, unserem Gott, ist die Rettung Israels.
+<sup>24</sup>Aber das Schändliche hat den Ertrag unserer Väter gefressen
+von unserer Jugend an,
+ihre Schafe und ihre Rinder,
+ihre Söhne und ihre Töchter.
+<sup>25</sup>Wir wollen uns in unserer Schande hinlegen,
+und unsere Schmach soll uns bedecken.
+Denn wir haben gegen den HERRN, unseren Gott, gesündigt,
+wir und unsere Väter,
+von unserer Jugend an bis zu diesem Tag.
+Wir haben nicht auf die Stimme des HERRN, unseres Gottes, gehört.“
+
+> **Was bedeutet das?**
+> Vers 19: Gott hatte sich so sehr gewünscht, dass sein Volk ihn „Mein Vater“ nennt und bei ihm bleibt.
+> Vers 21: Auf den Hügeln, wo früher fremde Götter verehrt wurden, hört man jetzt Weinen und Beten.
+> Vers 22: Gott ruft: „Kehrt um, ich will euch heilen!“ Und das Volk antwortet: „Siehe, wir kommen zu dir!“ Ein schönes Beispiel dafür, wie Umkehr aussieht.
+> Vers 23: Das Volk erkennt: Die Götzen auf den Hügeln konnten nicht helfen. Nur Gott rettet.
+> Vers 24: „Das Schändliche“ ist ein verächtlicher Name für den Götzen Baal. Der Götzendienst hat alles gefressen, sogar Söhne und Töchter. Damit sind wohl auch die schrecklichen Kinderopfer gemeint (vgl. Jeremia 7,31).
+> Vers 25: Ein ehrliches Schuldbekenntnis. Es ist der erste Schritt zu einem neuen Anfang.
