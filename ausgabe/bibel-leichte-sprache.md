@@ -62979,9 +62979,9 @@ Das Buch Hiob stellt eine der schwersten Fragen der Menschheit:
 Warum müssen gute Menschen leiden?
 Hiob ist ein frommer, guter Mann. Trotzdem verliert er alles: seinen Besitz, seine Kinder, seine Gesundheit.
 Das Buch hat drei Teile:
-– Am Anfang (Kapitel 1–2) und am Ende (Kapitel 42) steht eine Erzählung. Sie ist in einfacher Sprache geschrieben, fast wie ein Märchen: „Es war einmal ein Mann …“
-– In der Mitte (Kapitel 3–42) stehen lange Reden in Gedichtform. Hiob streitet mit seinen Freunden. Die Freunde sagen: Du musst gesündigt haben, sonst würdest du nicht leiden. Hiob sagt: Ich bin unschuldig! Und er klagt Gott an.
-– Am Ende antwortet Gott selbst aus einem Sturm.
+– Am Anfang (Kapitel 1–2) und am Ende (Kapitel 42,7–17) steht eine Erzählung. Sie ist in einfacher Sprache geschrieben, fast wie ein Märchen: „Es war einmal ein Mann …“
+– In der Mitte (Kapitel 3 bis 42,6) stehen lange Reden in Gedichtform. Hiob streitet mit seinen Freunden. Die Freunde sagen: Du musst gesündigt haben, sonst würdest du nicht leiden. Hiob sagt: Ich bin unschuldig! Und er klagt Gott an.
+– Gegen Ende (Kapitel 38–41) antwortet Gott selbst aus einem Sturm.
 Das Buch gibt keine einfache Antwort auf die Frage nach dem Leid. Aber es zeigt: Man darf vor Gott klagen, schreien und fragen. Gott hält das aus. Und die einfache Rechnung „Wer leidet, ist selbst schuld“ ist falsch.
 Hiob lebte wohl außerhalb Israels, im Land Uz. Wann das Buch geschrieben wurde, weiß man nicht genau.
 Die Reden sind große Dichtung. Manche Verse sind im Hebräischen sehr schwer zu verstehen. Diese Übertragung hält sich an die englische Vorlage und erklärt schwierige Stellen.
