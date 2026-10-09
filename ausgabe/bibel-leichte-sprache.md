@@ -65482,3 +65482,321 @@ und zischt ihn von seinem Ort weg.
 > „Im Tod begraben“: Das hebräische Wort für „Tod“ kann hier auch „Seuche“ bedeuten.
 > „Eine Hütte, die ein Wächter macht“: eine einfache Hütte aus Zweigen im Weinberg, die schnell wieder zerfällt.
 > „Man klatscht in die Hände und zischt“: Zeichen von Spott und Verachtung.
+
+## Hiob – Kapitel 28
+#### Das Lied von der Weisheit
+
+---
+
+### Der Mensch findet Schätze in der Tiefe (Vers 1–11)
+
+<sup>1</sup>„Gewiss, es gibt einen Fundort für das Silber
+und einen Ort für das Gold, das man läutert.
+<sup>2</sup>Eisen wird aus der Erde geholt,
+und Kupfer wird aus dem Gestein geschmolzen.
+<sup>3</sup>Der Mensch setzt der Finsternis ein Ende
+und durchforscht bis zur äußersten Grenze
+das Gestein in Dunkel und tiefer Finsternis.
+<sup>4</sup>Er bricht einen Schacht auf, fern von den Wohnorten.
+Vom Fuß vergessen, hängen sie fern von den Menschen
+und schwingen hin und her.
+<sup>5</sup>Aus der Erde kommt das Brot,
+aber unter ihr wird sie umgewühlt wie von Feuer.
+<sup>6</sup>Saphire kommen aus ihren Felsen,
+und sie hat Goldstaub.
+<sup>7</sup>Diesen Pfad kennt kein Raubvogel,
+und das Auge des Falken hat ihn nicht gesehen.
+<sup>8</sup>Die stolzen Tiere haben ihn nicht betreten,
+und der wilde Löwe ist nicht darüber gegangen.
+<sup>9</sup>Er legt seine Hand an den harten Kiesel
+und wühlt die Berge von den Wurzeln her um.
+<sup>10</sup>Er haut Stollen in die Felsen,
+und sein Auge sieht alles Kostbare.
+<sup>11</sup>Er dämmt die Wasserläufe ein, dass sie nicht tropfen,
+und das Verborgene bringt er ans Licht.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist ein Gedicht über die Weisheit. Es unterbricht den Streit zwischen Hiob und seinen Freunden. Es ist ruhiger, wie eine Atempause. Viele Ausleger meinen, dass es nicht direkt zu Hiobs Rede gehört, sondern ein eigenes Lied ist, das hier eingefügt wurde.
+> Zuerst beschreibt das Gedicht den Bergbau. Schon in alter Zeit gruben Menschen tiefe Schächte in die Erde, um Silber, Gold, Eisen und Kupfer zu finden. Sie hingen an Seilen in den Schächten.
+> Der Mensch ist erstaunlich klug und mutig. Er kommt an Orte, die kein Vogel und kein Löwe je gesehen hat. Er findet die verborgensten Schätze.
+
+---
+
+### Aber wo ist die Weisheit? (Vers 12–22)
+
+<sup>12</sup>Aber die Weisheit, wo wird sie gefunden?
+Und wo ist der Ort der Einsicht?
+<sup>13</sup>Der Mensch kennt ihren Wert nicht,
+und sie wird nicht gefunden im Land der Lebenden.
+<sup>14</sup>Die Tiefe sagt: ‚Sie ist nicht in mir.‘
+Und das Meer sagt: ‚Sie ist nicht bei mir.‘
+<sup>15</sup>Man kann sie nicht für Gold bekommen,
+und Silber wird nicht als ihr Preis abgewogen.
+<sup>16</sup>Man kann sie nicht aufwiegen mit Gold aus Ofir,
+mit kostbarem Onyx oder Saphir.
+<sup>17</sup>Gold und Glas kommen ihr nicht gleich,
+und man kann sie nicht eintauschen gegen Geräte aus feinem Gold.
+<sup>18</sup>Korallen und Kristall sind nicht der Rede wert.
+Ja, der Preis der Weisheit ist höher als Rubine.
+<sup>19</sup>Der Topas aus Kusch kommt ihr nicht gleich.
+Mit reinem Gold kann man sie nicht aufwiegen.
+<sup>20</sup>Woher kommt dann die Weisheit?
+Und wo ist der Ort der Einsicht?
+<sup>21</sup>Sie ist ja verborgen vor den Augen aller Lebenden
+und verhüllt vor den Vögeln des Himmels.
+<sup>22</sup>Der Abgrund und der Tod sagen:
+‚Wir haben mit unseren Ohren ein Gerücht von ihr gehört.‘
+
+> **Was bedeutet das?**
+> Jetzt kommt die große Frage: Der Mensch findet Gold in der Tiefe der Erde. Aber wo findet er die Weisheit?
+> Die Antwort: Nirgends auf der Erde. Nicht in der Tiefe, nicht im Meer. Man kann sie auch nicht kaufen, nicht mit Gold, nicht mit Edelsteinen.
+> Weisheit ist wertvoller als alle Schätze der Welt (vgl. Sprüche 3,13–15; 8,11).
+> Der Mensch ist technisch sehr begabt. Aber die tiefste Wahrheit über das Leben kann er nicht ausgraben.
+> „Der Abgrund und der Tod“: Selbst sie haben nur ein Gerücht von der Weisheit gehört.
+> In der englischen Vorlage steht „Topas aus Äthiopien“. Gemeint ist das Land Kusch.
+
+---
+
+### Gott kennt den Weg zur Weisheit (Vers 23–28)
+
+<sup>23</sup>Gott versteht ihren Weg,
+und er kennt ihren Ort.
+<sup>24</sup>Denn er schaut bis an die Enden der Erde
+und sieht alles unter dem ganzen Himmel.
+<sup>25</sup>Als er dem Wind sein Gewicht gab
+und die Wasser mit einem Maß abmaß,
+<sup>26</sup>als er dem Regen ein Gesetz gab
+und einen Weg dem Blitz des Donners,
+<sup>27</sup>da sah er sie und machte sie bekannt.
+Er setzte sie ein, ja, er erforschte sie.
+<sup>28</sup>Und zum Menschen sagte er:
+‚Schau, die Furcht des Herrn, das ist Weisheit,
+und das Böse meiden, das ist Einsicht.‘“
+
+> **Was bedeutet das?**
+> Nur Gott weiß, wo die Weisheit ist. Er hat sie schon bei der Erschaffung der Welt gesehen, als er Wind, Wasser, Regen und Blitz ordnete.
+> Vers 28 ist der Höhepunkt des Kapitels und vielleicht des ganzen Buches: „Die Furcht des Herrn, das ist Weisheit, und das Böse meiden, das ist Einsicht.“
+> „Furcht des Herrn“ heißt nicht Angst vor Gott. Es heißt: Ehrfurcht, Respekt und Vertrauen. Gott ernst nehmen. Das ist der Anfang aller Weisheit (Sprüche 1,7; 9,10; Psalm 111,10).
+> Das Besondere: Genau so wurde Hiob am Anfang beschrieben: Er „fürchtete Gott und mied das Böse“ (Kapitel 1,1). Hiob hat diese Weisheit schon. Er versteht zwar nicht, warum er leidet. Aber er lebt die Weisheit, auf die es ankommt.
+> Der Mensch kann nicht alles verstehen. Aber er kann Gott vertrauen und das Gute tun.
+
+## Hiob – Kapitel 29
+#### Erinnerung an die guten alten Tage
+
+---
+
+### Als Gott mein Freund war (Vers 1–6)
+
+<sup>1</sup>Hiob fuhr fort mit seinem Spruch und sagte:
+<sup>2</sup>„Ach, wäre ich doch wie in den früheren Monaten,
+wie in den Tagen, als Gott über mich wachte,
+<sup>3</sup>als seine Lampe über meinem Kopf leuchtete
+und ich in seinem Licht durch die Finsternis ging,
+<sup>4</sup>wie ich war in der Blüte meines Lebens,
+als die Freundschaft Gottes über meinem Zelt war,
+<sup>5</sup>als der Allmächtige noch mit mir war
+und meine Kinder rings um mich waren,
+<sup>6</sup>als meine Schritte in Butter gebadet wurden
+und der Fels mir Bäche von Öl ergoss!
+
+> **Was bedeutet das?**
+> In den Kapiteln 29–31 hält Hiob seine Schlussrede. Er blickt zurück auf sein früheres Leben (Kapitel 29), beschreibt sein jetziges Elend (Kapitel 30) und beteuert ein letztes Mal seine Unschuld (Kapitel 31).
+> Am meisten vermisst Hiob nicht seinen Reichtum, sondern die Nähe Gottes: „als Gott über mich wachte“, „als die Freundschaft Gottes über meinem Zelt war“.
+> Und er vermisst seine Kinder: „als meine Kinder rings um mich waren“. Dieser kleine Satz ist voller Schmerz.
+> „Schritte in Butter gebadet“ und „Bäche von Öl“: Bilder für Überfluss und Wohlstand.
+
+---
+
+### Geachtet von allen (Vers 7–11)
+
+<sup>7</sup>Wenn ich hinausging zum Tor der Stadt
+und meinen Sitz auf dem Platz aufstellte,
+<sup>8</sup>dann sahen mich die jungen Männer und versteckten sich,
+und die Alten erhoben sich und blieben stehen.
+<sup>9</sup>Die Fürsten hörten auf zu reden
+und legten die Hand auf ihren Mund.
+<sup>10</sup>Die Stimme der Vornehmen verstummte,
+und ihre Zunge klebte an ihrem Gaumen.
+<sup>11</sup>Denn wenn ein Ohr mich hörte, pries es mich glücklich,
+und wenn ein Auge mich sah, gab es mir Zeugnis.
+
+> **Was bedeutet das?**
+> Das Stadttor war der Ort, wo die Ältesten Recht sprachen und wichtige Dinge besprachen. Hiob hatte dort einen Ehrenplatz.
+> Alle respektierten ihn: Die Jungen machten Platz, die Alten standen auf, selbst die Fürsten schwiegen, wenn er kam.
+
+---
+
+### Ein Vater der Armen (Vers 12–17)
+
+<sup>12</sup>Denn ich rettete den Armen, der schrie,
+und die Waise, die keinen Helfer hatte.
+<sup>13</sup>Der Segen dessen, der am Umkommen war, kam über mich,
+und das Herz der Witwe ließ ich jubeln.
+<sup>14</sup>Ich zog die Gerechtigkeit an, und sie bekleidete mich.
+Mein Recht war wie ein Mantel und ein Kopfbund.
+<sup>15</sup>Ich war Auge für den Blinden
+und Fuß für den Lahmen.
+<sup>16</sup>Ich war ein Vater für die Bedürftigen,
+und die Rechtssache dessen, den ich nicht kannte, erforschte ich.
+<sup>17</sup>Ich zerbrach die Kiefer des Ungerechten
+und riss die Beute aus seinen Zähnen.
+
+> **Was bedeutet das?**
+> Hier sieht man, warum Hiob geachtet wurde: nicht wegen seines Reichtums, sondern wegen seiner Güte.
+> Elifas hatte ihm vorgeworfen, er habe Witwen und Waisen im Stich gelassen (Kapitel 22,9). Hiob sagt hier das Gegenteil: Ich habe den Armen gerettet, die Waise beschützt und das Herz der Witwe froh gemacht.
+> Vers 15 ist ein wunderschönes Bild: „Ich war Auge für den Blinden und Fuß für den Lahmen.“ Hiob war für andere da, wo sie selbst nicht konnten.
+> Vers 16: Er setzte sich sogar für Fremde ein, die er nicht kannte. Er prüfte ihre Sache sorgfältig, damit ihnen Recht geschah.
+> Vers 17: Er stellte sich gegen die Ungerechten und befreite ihre Opfer.
+> So soll nach der Bibel ein gerechter Mensch leben (vgl. Jesaja 1,17; Jakobus 1,27).
+
+---
+
+### Ich dachte, es bleibt immer so (Vers 18–20)
+
+<sup>18</sup>Damals dachte ich: ‚In meinem Nest werde ich sterben,
+und meine Tage werden zahlreich sein wie der Sand.
+<sup>19</sup>Meine Wurzel ist offen zum Wasser hin,
+und der Tau liegt die ganze Nacht auf meinen Zweigen.
+<sup>20</sup>Meine Ehre bleibt frisch in mir,
+und mein Bogen erneuert sich in meiner Hand.‘
+
+> **Was bedeutet das?**
+> Hiob dachte, sein Glück würde ewig dauern. Er würde alt werden und friedlich in seinem eigenen Haus sterben.
+> „In meinem Nest“: In der englischen Vorlage steht „in meinem eigenen Haus“. Im Hebräischen steht wörtlich „bei meinem Nest“.
+> Er sah sich wie einen Baum, der am Wasser steht und immer grün bleibt (vgl. Psalm 1,3).
+> Viele Menschen denken so, wenn es ihnen gut geht. Aber das Leben kann sich plötzlich ändern.
+
+---
+
+### Ein König, der Trauernde tröstet (Vers 21–25)
+
+<sup>21</sup>Man hörte auf mich und wartete
+und schwieg, um meinen Rat zu hören.
+<sup>22</sup>Nach meinen Worten redete keiner mehr,
+und meine Rede tropfte auf sie herab.
+<sup>23</sup>Sie warteten auf mich wie auf den Regen,
+und sie öffneten ihren Mund wie für den Frühlingsregen.
+<sup>24</sup>Ich lächelte ihnen zu, wenn sie den Mut verloren hatten,
+und sie verwarfen das Licht meines Gesichts nicht.
+<sup>25</sup>Ich wählte ihren Weg und saß als Oberhaupt da.
+Ich wohnte wie ein König unter seinen Truppen,
+wie einer, der die Trauernden tröstet.
+
+> **Was bedeutet das?**
+> Hiobs Rat war wie Regen auf trockenes Land. Die Menschen warteten darauf.
+> Vers 24 ist berührend: Wenn andere den Mut verloren hatten, lächelte Hiob ihnen zu und machte ihnen Mut.
+> Vers 25: Er war wie ein König, aber ein König, „der die Trauernden tröstet“.
+> Die bittere Ironie: Hiob hat früher selbst Trauernde getröstet. Jetzt braucht er selbst Trost, und seine Freunde können ihn nicht trösten.
+
+## Hiob – Kapitel 30
+#### „Aber jetzt …“
+
+---
+
+### Jetzt verspotten mich die Verachteten (Vers 1–8)
+
+<sup>1</sup>„Aber jetzt lachen über mich, die jünger sind als ich,
+deren Väter ich nicht für würdig hielt,
+sie zu den Hunden meiner Herde zu stellen.
+<sup>2</sup>Wozu sollte mir die Kraft ihrer Hände nützen,
+Männer, bei denen die Reife verloren ist?
+<sup>3</sup>Sie sind ausgezehrt vor Mangel und Hunger.
+Sie nagen am trockenen Boden,
+in der Düsternis von Öde und Verwüstung.
+<sup>4</sup>Sie pflücken Salzkraut bei den Büschen,
+und die Wurzeln des Ginsters sind ihre Nahrung.
+<sup>5</sup>Sie werden aus der Mitte der Menschen vertrieben.
+Man schreit hinter ihnen her wie hinter einem Dieb,
+<sup>6</sup>sodass sie in schrecklichen Tälern wohnen müssen,
+in Löchern der Erde und der Felsen.
+<sup>7</sup>Zwischen den Büschen schreien sie.
+Unter den Nesseln drängen sie sich zusammen.
+<sup>8</sup>Sie sind Kinder von Toren, ja, Kinder von Namenlosen.
+Man hat sie aus dem Land hinausgepeitscht.
+
+> **Was bedeutet das?**
+> „Aber jetzt“: Mit diesen Worten beginnt der Gegensatz zu Kapitel 29. Früher wurde Hiob geehrt, jetzt wird er verspottet.
+> Und zwar von den Ärmsten der Armen, von Ausgestoßenen, die in Höhlen leben und Wurzeln essen.
+> Diese Verse sind schwer zu lesen, weil Hiob sehr abfällig über diese Menschen redet. Man muss bedenken: Hiob ist verbittert und verletzt. Und gerade die Menschen, die selbst am Rand stehen, treten jetzt auf ihn ein.
+> In Kapitel 24 hatte Hiob mit großem Mitgefühl über die Armen geredet. Hier spricht der Schmerz eines gedemütigten Mannes. Die Bibel zeigt Hiob ehrlich, mit allen seinen Gefühlen, auch den unschönen.
+> „Kinder von Namenlosen“: Menschen ohne Ansehen, ohne Familie, die etwas gilt. In der englischen Vorlage steht „Kinder von bösen Menschen“.
+
+---
+
+### Ich bin zum Spottlied geworden (Vers 9–15)
+
+<sup>9</sup>Und jetzt bin ich ihr Spottlied geworden.
+Ja, ich bin für sie ein Sprichwort.
+<sup>10</sup>Sie verabscheuen mich, sie halten sich fern von mir
+und scheuen sich nicht, mir ins Gesicht zu spucken.
+<sup>11</sup>Denn er hat seine Sehne gelöst und mich gedemütigt.
+Und sie haben vor mir alle Zurückhaltung abgeworfen.
+<sup>12</sup>Zu meiner Rechten erhebt sich das Gesindel.
+Sie stoßen meine Füße weg.
+Sie schütten ihre Verderbenswege gegen mich auf.
+<sup>13</sup>Sie zerstören meinen Pfad.
+Sie fördern meinen Untergang, ohne dass jemand ihnen hilft.
+<sup>14</sup>Wie durch eine breite Bresche kommen sie.
+Mitten durch die Trümmer wälzen sie sich heran.
+<sup>15</sup>Schrecken haben sich gegen mich gewandt.
+Sie jagen meine Ehre davon wie der Wind,
+und mein Wohl ist vorübergezogen wie eine Wolke.
+
+> **Was bedeutet das?**
+> Hiob wird verspottet, bespuckt und angegriffen. Er fühlt sich wie eine Stadt, deren Mauer durchbrochen ist und in die die Feinde eindringen.
+> „Er hat seine Sehne gelöst“: Gott hat Hiobs Bogen entspannt, also seine Kraft genommen. Als Gott Hiob demütigte, verloren die Menschen jeden Respekt vor ihm.
+> Bei Jesus geschah Ähnliches: Er wurde verspottet und angespuckt (Markus 14,65; 15,19).
+
+---
+
+### Gott antwortet mir nicht (Vers 16–23)
+
+<sup>16</sup>Und jetzt ergießt sich meine Seele in mir.
+Tage des Elends haben mich ergriffen.
+<sup>17</sup>In der Nacht werden meine Knochen in mir durchbohrt,
+und die nagenden Schmerzen ruhen nicht.
+<sup>18</sup>Mit großer Gewalt ist mein Gewand entstellt.
+Es umschließt mich wie der Kragen meines Hemdes.
+<sup>19</sup>Er hat mich in den Schlamm geworfen,
+und ich bin wie Staub und Asche geworden.
+<sup>20</sup>Ich schreie zu dir, und du antwortest mir nicht.
+Ich stehe da, und du starrst mich an.
+<sup>21</sup>Du bist grausam gegen mich geworden.
+Mit der Kraft deiner Hand verfolgst du mich.
+<sup>22</sup>Du hebst mich in den Wind und lässt mich davonfahren.
+Du lässt mich im Sturm zergehen.
+<sup>23</sup>Denn ich weiß, dass du mich zum Tod bringen wirst,
+in das Haus, das für alle Lebenden bestimmt ist.
+
+> **Was bedeutet das?**
+> Hiob beschreibt seine körperlichen Schmerzen: Nachts bohren sie in seinen Knochen. Sein Gewand klebt an seinem kranken Körper.
+> „Staub und Asche“: Hiob fühlt sich ganz klein und nichtig. Am Ende des Buches wird er dieselben Worte benutzen, aber in einem ganz anderen Sinn (Kapitel 42,6).
+> Vers 20 ist der tiefste Schmerz: „Ich schreie zu dir, und du antwortest mir nicht.“ Gottes Schweigen ist schlimmer als jede Krankheit. Viele Menschen kennen dieses Gefühl (vgl. Psalm 22,3).
+> Vers 21: Hiob nennt Gott sogar „grausam“. Das sind harte Worte. Aber er sagt sie zu Gott, nicht über Gott. Er bleibt im Gespräch.
+
+---
+
+### Hoffnung auf Gutes, aber es kam Böses (Vers 24–31)
+
+<sup>24</sup>Streckt man nicht die Hand aus, wenn man fällt?
+Oder schreit man nicht um Hilfe in seinem Unglück?
+<sup>25</sup>Habe ich nicht geweint um den, der es schwer hatte?
+War meine Seele nicht betrübt über den Bedürftigen?
+<sup>26</sup>Als ich auf Gutes hoffte, kam Böses.
+Als ich auf Licht wartete, kam Finsternis.
+<sup>27</sup>Mein Inneres kocht und kommt nicht zur Ruhe.
+Tage des Elends sind über mich gekommen.
+<sup>28</sup>Ich gehe traurig umher, ohne Sonne.
+Ich stehe auf in der Versammlung und schreie um Hilfe.
+<sup>29</sup>Ich bin ein Bruder der Schakale geworden
+und ein Gefährte der Strauße.
+<sup>30</sup>Meine Haut wird schwarz und schält sich von mir ab,
+und meine Knochen glühen vor Hitze.
+<sup>31</sup>Darum ist meine Harfe zur Trauerklage geworden
+und meine Flöte zum Klang der Weinenden.
+
+> **Was bedeutet das?**
+> Vers 25: Hiob hat selbst mit anderen mitgelitten. Er hat geweint, wenn andere es schwer hatten. Warum hat jetzt niemand Mitleid mit ihm?
+> Vers 26 beschreibt eine bittere Erfahrung: „Als ich auf Gutes hoffte, kam Böses. Als ich auf Licht wartete, kam Finsternis.“
+> Schakale und Strauße leben in der Wüste und machen klagende Laute in der Nacht. Hiob fühlt sich wie sie: allein in der Wüste, klagend.
+> Vers 31 ist ein trauriges Bild: Die Instrumente, die früher fröhliche Musik spielten, spielen jetzt nur noch Klagelieder.
