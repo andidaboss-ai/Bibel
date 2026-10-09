@@ -91886,3 +91886,451 @@ denn der HERR hat sie verworfen.“
 > Vers 24–26: Die Menschen sind gelähmt vor Angst. Niemand traut sich mehr hinaus. „Schrecken ringsum“ ist ein Ausdruck, der bei Jeremia noch öfter vorkommt. Die Trauer ist so tief wie die Trauer um ein einziges Kind.
 > Vers 27–30: Gott macht Jeremia zu einem „Prüfer“, wie jemand, der Metall im Feuer prüft. Beim Schmelzen soll das reine Silber vom Unreinen getrennt werden. Aber so sehr man auch schmilzt, es bleibt nichts Reines übrig. Ein trauriges Ergebnis.
 > Wer heute unter Krieg, Flucht oder Angst leidet, findet in Jeremias Worten jemanden, der diesen Schmerz kennt. Und niemand muss allein damit bleiben: Telefonseelsorge 0800 111 0 111.
+
+## Jeremia – Kapitel 7
+#### Die Tempelrede
+
+---
+
+### Verlasst euch nicht auf Lügenworte (Vers 1–15)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam:
+<sup>2</sup>„Stell dich in das Tor des Hauses des HERRN
+und rufe dort dieses Wort aus und sag:
+‚Hört das Wort des HERRN, ganz Juda,
+die ihr durch diese Tore hineingeht, um den HERRN anzubeten.‘“
+<sup>3</sup>So spricht der HERR der Heere, der Gott Israels:
+„Bessert eure Wege und eure Taten,
+dann will ich euch an diesem Ort wohnen lassen.
+<sup>4</sup>Verlasst euch nicht auf Lügenworte, wenn man sagt:
+‚Der Tempel des HERRN, der Tempel des HERRN,
+der Tempel des HERRN ist dies!‘
+<sup>5</sup>Denn wenn ihr eure Wege und eure Taten wirklich bessert,
+wenn ihr wirklich Recht übt zwischen einem Mann und seinem Nächsten,
+<sup>6</sup>wenn ihr den Fremden, die Waise und die Witwe nicht unterdrückt
+und an diesem Ort kein unschuldiges Blut vergießt
+und nicht anderen Göttern nachlauft zu eurem eigenen Schaden,
+<sup>7</sup>dann will ich euch an diesem Ort wohnen lassen,
+in dem Land, das ich euren Vätern gegeben habe,
+von Ewigkeit zu Ewigkeit.
+<sup>8</sup>Siehe, ihr verlasst euch auf Lügenworte, die nichts nützen.
+<sup>9</sup>Wie? Ihr stehlt, mordet, brecht die Ehe, schwört falsch,
+verbrennt dem Baal Räucherwerk
+und lauft anderen Göttern nach, die ihr nicht kennt,
+<sup>10</sup>und dann kommt ihr und tretet vor mich in diesem Haus,
+das nach meinem Namen genannt ist, und sagt:
+‚Wir sind gerettet!‘,
+um dann all diese Gräuel weiter zu tun?
+<sup>11</sup>Ist dieses Haus, das nach meinem Namen genannt ist,
+in euren Augen eine Räuberhöhle geworden?
+Siehe, ich selbst habe es gesehen“, spricht der HERR.
+<sup>12</sup>„Geht doch hin zu meinem Ort in Schilo,
+wo ich meinen Namen zuerst wohnen ließ,
+und seht, was ich ihm angetan habe
+wegen der Bosheit meines Volkes Israel.
+<sup>13</sup>Und jetzt, weil ihr all diese Taten getan habt“, spricht der HERR,
+„und ich zu euch geredet habe, früh und unermüdlich,
+ihr aber nicht gehört habt,
+und ich euch gerufen habe, ihr aber nicht geantwortet habt,
+<sup>14</sup>darum werde ich mit dem Haus, das nach meinem Namen genannt ist,
+auf das ihr vertraut,
+und mit dem Ort, den ich euch und euren Vätern gegeben habe,
+so verfahren, wie ich mit Schilo verfahren bin.
+<sup>15</sup>Ich werde euch von meinem Angesicht verstoßen,
+wie ich alle eure Brüder verstoßen habe,
+die ganze Nachkommenschaft Efraims.
+
+> **Was bedeutet das?**
+> Das ist Jeremias berühmte „Tempelrede“. Er stellt sich ans Tor des Tempels, wo alle hineingehen, und spricht dort.
+> Vers 4: Die Menschen dachten: Solange der Tempel steht, kann uns nichts passieren. Gott wohnt ja hier! Dreimal sagen sie „Tempel des HERRN“ wie eine Zauberformel. Jeremia sagt: Das sind Lügenworte. Ein Gebäude schützt euch nicht.
+> Vers 5–7: Worauf es ankommt: Gerechtigkeit üben, Fremde, Waisen und Witwen nicht unterdrücken, kein unschuldiges Blut vergießen.
+> Vers 9–10: Die Menschen brechen fast alle Zehn Gebote und kommen dann in den Tempel und sagen: „Wir sind gerettet!“
+> Vers 11: „Ist dieses Haus eine Räuberhöhle geworden?“ Räuber ziehen sich nach ihren Überfällen in ihre Höhle zurück, wo sie sicher sind. So benutzten die Leute den Tempel. Jesus zitiert diesen Vers, als er die Händler aus dem Tempel treibt (Markus 11,17).
+> Vers 12–14: Schilo war früher der Ort, wo die Bundeslade stand (1. Samuel 1–4). Schilo wurde später zerstört. Jeremia sagt: Genauso kann es dem Tempel in Jerusalem ergehen. Für diese Rede wäre Jeremia fast getötet worden (Kapitel 26).
+
+---
+
+### Bete nicht für dieses Volk (Vers 16–20)
+
+<sup>16</sup>Du aber, bete nicht für dieses Volk!
+Erhebe für sie weder Klage noch Gebet
+und dringe nicht in mich, denn ich werde dich nicht hören.
+<sup>17</sup>Siehst du nicht, was sie in den Städten Judas
+und auf den Straßen Jerusalems tun?
+<sup>18</sup>Die Kinder sammeln Holz,
+und die Väter zünden das Feuer an,
+und die Frauen kneten den Teig,
+um Kuchen für die Himmelskönigin zu backen
+und anderen Göttern Trankopfer auszugießen,
+um mich zu kränken.
+<sup>19</sup>Kränken sie denn mich?“, spricht der HERR.
+„Kränken sie nicht vielmehr sich selbst, zu ihrer eigenen Schande?“
+<sup>20</sup>Darum spricht der Herr, der HERR:
+„Siehe, mein Zorn und mein Grimm werden ausgegossen über diesen Ort,
+über Menschen und Tiere,
+über die Bäume des Feldes und über die Früchte des Ackers.
+Er wird brennen und nicht erlöschen.“
+
+> **Was bedeutet das?**
+> Vers 16: Ein erschütternder Satz: Gott sagt zu Jeremia: Bete nicht mehr für dieses Volk. Das zeigt, wie ernst die Lage ist. Trotzdem hat Jeremia später immer wieder für sein Volk gebetet und geklagt.
+> Vers 18: Ganze Familien machen mit beim Götzendienst: Kinder, Väter und Mütter. Die „Himmelskönigin“ war eine Göttin, die im Alten Orient verehrt wurde (wahrscheinlich Ischtar oder Astarte). Man backte ihr Kuchen.
+> Vers 19: Wer Gott verlässt, schadet am Ende vor allem sich selbst.
+
+---
+
+### Gehorsam statt Opfer (Vers 21–28)
+
+<sup>21</sup>So spricht der HERR der Heere, der Gott Israels:
+„Fügt eure Brandopfer zu euren Schlachtopfern hinzu
+und esst das Fleisch!
+<sup>22</sup>Denn ich habe mit euren Vätern nicht geredet
+und ihnen nichts geboten über Brandopfer und Schlachtopfer
+an dem Tag, als ich sie aus dem Land Ägypten herausführte.
+<sup>23</sup>Sondern dies habe ich ihnen geboten:
+‚Hört auf meine Stimme,
+dann will ich euer Gott sein,
+und ihr sollt mein Volk sein.
+Geht auf dem ganzen Weg, den ich euch gebiete,
+damit es euch gut geht.‘
+<sup>24</sup>Aber sie hörten nicht und neigten ihr Ohr nicht,
+sondern folgten ihren eigenen Plänen
+und der Verstocktheit ihres bösen Herzens
+und gingen rückwärts und nicht vorwärts.
+<sup>25</sup>Von dem Tag an, als eure Väter aus dem Land Ägypten auszogen,
+bis zu diesem Tag
+habe ich euch alle meine Knechte, die Propheten, gesandt,
+täglich früh und unermüdlich.
+<sup>26</sup>Aber sie hörten nicht auf mich
+und neigten ihr Ohr nicht,
+sondern machten ihren Nacken hart.
+Sie trieben es schlimmer als ihre Väter.
+<sup>27</sup>Du wirst ihnen all diese Worte sagen,
+aber sie werden nicht auf dich hören.
+Du wirst sie rufen,
+aber sie werden dir nicht antworten.
+<sup>28</sup>Du sollst zu ihnen sagen:
+‚Das ist das Volk, das nicht auf die Stimme des HERRN, seines Gottes, gehört
+und keine Zurechtweisung angenommen hat.
+Die Wahrheit ist verloren gegangen
+und aus ihrem Mund verschwunden.‘
+
+> **Was bedeutet das?**
+> Vers 21: Ein ironischer Satz: Ihr könnt eure Opfer gleich selbst essen, sie bedeuten mir nichts.
+> Vers 22–23: Gott sagt: Beim Auszug aus Ägypten ging es mir nicht zuerst um Opfer, sondern darum, dass ihr auf mich hört. „Ich will euer Gott sein, und ihr sollt mein Volk sein.“ Das ist das Herz des Bundes. Die Opfergesetze kamen erst später dazu und waren nicht das Wichtigste.
+> Vers 24: „Sie gingen rückwärts und nicht vorwärts.“ Ein starkes Bild.
+> Vers 28: „Die Wahrheit ist verloren gegangen.“ Ein trauriges Urteil über eine Gesellschaft.
+
+---
+
+### Das Tal des Mordens (Vers 29–34)
+
+<sup>29</sup>Schneide dein Haar ab und wirf es weg
+und stimme ein Klagelied auf den kahlen Höhen an!
+Denn der HERR hat das Geschlecht seines Zorns verworfen und verlassen.
+<sup>30</sup>„Denn die Kinder Judas haben getan, was in meinen Augen böse ist“,
+spricht der HERR.
+„Sie haben ihre Gräuel in das Haus gestellt,
+das nach meinem Namen genannt ist, um es zu entweihen.
+<sup>31</sup>Sie haben die Opferhöhen des Tofet gebaut,
+das im Tal Ben-Hinnom liegt,
+um ihre Söhne und ihre Töchter im Feuer zu verbrennen,
+was ich nicht geboten habe
+und was mir nie in den Sinn gekommen ist.
+<sup>32</sup>Darum siehe, es kommen Tage“, spricht der HERR,
+„da wird man es nicht mehr ‚Tofet‘ nennen
+und nicht mehr ‚Tal Ben-Hinnom‘,
+sondern ‚Tal des Mordens‘.
+Denn man wird im Tofet begraben, bis kein Platz mehr ist.
+<sup>33</sup>Die Leichen dieses Volkes werden den Vögeln des Himmels
+und den Tieren der Erde zum Fraß dienen,
+und niemand wird sie verscheuchen.
+<sup>34</sup>Dann werde ich in den Städten Judas
+und auf den Straßen Jerusalems verstummen lassen
+den Jubelruf und den Freudenruf,
+die Stimme des Bräutigams und die Stimme der Braut.
+Denn das Land wird zur Wüste werden.“
+
+> **Was bedeutet das?**
+> Vers 29: Das Abschneiden der Haare war ein Zeichen der Trauer.
+> Vers 31: Das Schrecklichste: Im Tal Ben-Hinnom bei Jerusalem verbrannten manche Menschen ihre eigenen Kinder als Opfer für fremde Götter. Gott sagt ganz klar: Das habe ich nie geboten, „es ist mir nie in den Sinn gekommen“. Kinder zu opfern oder ihnen Gewalt anzutun, ist ein Verbrechen, das Gott verabscheut.
+> Vers 32: Das Tal wird zum „Tal des Mordens“. Aus dem Namen „Ge-Hinnom“ (Tal Hinnom) wurde später das Wort „Gehenna“, das im Neuen Testament die Hölle bezeichnet.
+> Vers 34: Keine Hochzeiten mehr, keine Freude, kein Lachen. Das ist das Bild einer völlig zerstörten Stadt.
+> Wer von Gewalt gegen Kinder weiß oder sie selbst erlebt hat: Hilfe gibt es bei der Nummer gegen Kummer (116 111) und beim Hilfetelefon Sexueller Missbrauch (0800 22 55 530).
+
+## Jeremia – Kapitel 8
+#### Ist denn kein Balsam in Gilead?
+
+---
+
+### Die Gebeine werden ausgegraben (Vers 1–3)
+
+<sup>1</sup>„Zu jener Zeit“, spricht der HERR,
+„wird man die Gebeine der Könige von Juda,
+die Gebeine seiner Fürsten, die Gebeine der Priester,
+die Gebeine der Propheten
+und die Gebeine der Bewohner Jerusalems
+aus ihren Gräbern holen.
+<sup>2</sup>Man wird sie ausbreiten vor der Sonne, dem Mond
+und dem ganzen Heer des Himmels,
+die sie geliebt haben, denen sie gedient haben,
+denen sie nachgelaufen sind, die sie gesucht
+und die sie angebetet haben.
+Sie werden nicht gesammelt und nicht begraben werden.
+Sie werden zu Dünger auf dem Erdboden werden.
+<sup>3</sup>Und der Tod wird dem Leben vorgezogen werden
+von allen Übrigen, die von diesem bösen Geschlecht übrig bleiben,
+an allen Orten, wohin ich sie vertrieben habe“,
+spricht der HERR der Heere.
+
+> **Was bedeutet das?**
+> Ein grausiges Bild: Die Gräber werden geöffnet, und die Knochen liegen vor Sonne, Mond und Sternen, die die Menschen angebetet haben. Diese Himmelskörper können ihnen jetzt nicht helfen.
+> Im Alten Orient war es eine große Schande, nicht begraben zu werden.
+> Vers 3: Die Überlebenden im Exil werden so verzweifelt sein, dass sie lieber sterben würden. Das zeigt, wie tief das Leid ist. Wer heute solche Gedanken hat, soll nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
+
+---
+
+### Selbst der Storch kennt seine Zeit (Vers 4–13)
+
+<sup>4</sup>Weiter sollst du zu ihnen sagen:
+‚So spricht der HERR:
+Fällt man denn und steht nicht wieder auf?
+Wendet sich einer ab und kehrt nicht wieder um?
+<sup>5</sup>Warum hat sich denn dieses Volk Jerusalems abgewandt
+in dauernder Abtrünnigkeit?
+Sie halten am Betrug fest.
+Sie weigern sich umzukehren.
+<sup>6</sup>Ich habe aufgemerkt und zugehört,
+aber sie reden nicht, was recht ist.
+Niemand bereut seine Bosheit und sagt:
+„Was habe ich getan?“
+Jeder wendet sich seinem Lauf zu
+wie ein Pferd, das in die Schlacht stürmt.
+<sup>7</sup>Ja, sogar der Storch am Himmel kennt seine festen Zeiten.
+Die Turteltaube, die Schwalbe und der Kranich
+halten die Zeit ihrer Wiederkehr ein.
+Aber mein Volk kennt das Recht des HERRN nicht.
+<sup>8</sup>Wie könnt ihr sagen: „Wir sind weise,
+und die Weisung des HERRN ist bei uns“?
+Aber siehe, der lügnerische Griffel der Schreiber
+hat sie zur Lüge gemacht.
+<sup>9</sup>Die Weisen werden zuschanden.
+Sie sind erschrocken und gefangen.
+Siehe, sie haben das Wort des HERRN verworfen.
+Was für eine Weisheit haben sie denn?
+<sup>10</sup>Darum werde ich ihre Frauen anderen geben
+und ihre Felder neuen Besitzern.
+Denn vom Kleinsten bis zum Größten
+sind sie alle der Habgier ergeben.
+Vom Propheten bis zum Priester
+handeln alle betrügerisch.
+<sup>11</sup>Sie heilen die Wunde der Tochter meines Volkes nur oberflächlich
+und sagen: „Friede, Friede!“,
+wo doch kein Friede ist.
+<sup>12</sup>Haben sie sich geschämt, als sie Gräuel getan haben?
+Nein, sie haben sich gar nicht geschämt.
+Sie konnten nicht einmal rot werden.
+Darum werden sie fallen unter denen, die fallen.
+Zur Zeit ihrer Heimsuchung werden sie stürzen, spricht der HERR.
+<sup>13</sup>Ich will sie ganz und gar wegraffen, spricht der HERR.
+Keine Trauben werden am Weinstock sein,
+keine Feigen am Feigenbaum,
+und das Laub wird welken.
+Was ich ihnen gegeben habe, wird ihnen genommen.‘“
+
+> **Was bedeutet das?**
+> Vers 4: Eine einfache Frage: Wer hinfällt, steht doch wieder auf! Wer sich verirrt, kehrt doch um! Warum tut mein Volk das nicht?
+> Vers 6: Niemand fragt sich: „Was habe ich getan?“ Diese Frage ist der Anfang jeder Umkehr.
+> Vers 7: Ein schönes Bild aus der Natur: Zugvögel wie Störche, Schwalben und Kraniche wissen genau, wann sie wiederkommen müssen. Aber Gottes Volk weiß nicht, wann es Zeit ist, zu Gott zurückzukehren.
+> Vers 8: Die Schriftgelehrten sagen: Wir haben doch das Gesetz! Aber sie haben es so ausgelegt, dass es zur Lüge wurde.
+> Vers 10–12: Diese Verse wiederholen fast wörtlich Kapitel 6,12–15: „Friede, Friede! – wo doch kein Friede ist.“
+> Vers 13: Ein Feigenbaum ohne Früchte. Jesus verwendet ein ähnliches Bild (Markus 11,13–14; Lukas 13,6–9).
+
+---
+
+### Die Ernte ist vorbei (Vers 14–22)
+
+<sup>14</sup>„Warum sitzen wir still da?
+Versammelt euch!
+Lasst uns in die befestigten Städte gehen
+und dort umkommen!
+Denn der HERR, unser Gott, hat uns zum Schweigen gebracht
+und uns vergiftetes Wasser zu trinken gegeben,
+weil wir gegen den HERRN gesündigt haben.
+<sup>15</sup>Wir hofften auf Frieden, aber nichts Gutes kam,
+auf eine Zeit der Heilung, aber siehe, Schrecken!
+<sup>16</sup>Von Dan her hört man das Schnauben seiner Pferde.
+Das ganze Land bebt vom Wiehern seiner Hengste.
+Denn sie sind gekommen
+und haben das Land und alles, was darin ist, verzehrt,
+die Stadt und die darin wohnen.“
+<sup>17</sup>„Denn siehe, ich schicke Schlangen unter euch, Vipern,
+gegen die keine Beschwörung hilft,
+und sie werden euch beißen“, spricht der HERR.
+<sup>18</sup>Ach, könnte ich mich trösten in meinem Kummer!
+Mein Herz ist krank in mir.
+<sup>19</sup>Siehe, die Stimme des Schreiens der Tochter meines Volkes
+aus einem sehr fernen Land:
+„Ist der HERR nicht in Zion?
+Ist ihr König nicht in ihr?“
+„Warum haben sie mich gekränkt mit ihren geschnitzten Bildern,
+mit fremden Götzen?“
+<sup>20</sup>„Die Ernte ist vorbei.
+Der Sommer ist zu Ende,
+und wir sind nicht gerettet.“
+<sup>21</sup>Wegen des Zusammenbruchs der Tochter meines Volkes
+bin ich zerbrochen.
+Ich trauere.
+Entsetzen hat mich gepackt.
+<sup>22</sup>Ist denn kein Balsam in Gilead?
+Ist kein Arzt dort?
+Warum ist denn die Wunde der Tochter meines Volkes nicht geheilt?
+
+> **Was bedeutet das?**
+> Vers 14–16: Die Menschen merken jetzt, dass das Unglück kommt. Sie fliehen in die Festungen, aber ohne Hoffnung.
+> Vers 18: Jetzt spricht Jeremia selbst. Sein Herz ist krank vor Kummer.
+> Vers 19: Man hört schon die Stimmen aus dem Exil: „Ist Gott nicht mehr in Zion?“ Und Gott antwortet traurig: Warum haben sie mich mit Götzen gekränkt?
+> Vers 20: Ein berühmter Vers: „Die Ernte ist vorbei, der Sommer ist zu Ende, und wir sind nicht gerettet.“ Die Zeit, in der man noch hätte umkehren können, ist vorbei.
+> Vers 21: Jeremia leidet mit seinem Volk. Er ist „zerbrochen“, weil sein Volk zerbrochen ist.
+> Vers 22: Gilead (östlich des Jordan) war berühmt für sein heilendes Balsam-Harz. Jeremia fragt verzweifelt: Gibt es denn keine Medizin und keinen Arzt für mein Volk? Ein afroamerikanisches Spiritual antwortet darauf: „There is a balm in Gilead“, „Es gibt einen Balsam in Gilead, der die Verwundeten heilt“.
+
+## Jeremia – Kapitel 9
+#### Wer sich rühmen will
+
+---
+
+### Ach, dass mein Kopf voll Wasser wäre! (Vers 1–11)
+
+<sup>1</sup>Ach, dass mein Kopf Wasser wäre
+und meine Augen eine Tränenquelle,
+dann würde ich Tag und Nacht weinen
+über die Erschlagenen der Tochter meines Volkes!
+<sup>2</sup>Ach, hätte ich in der Wüste eine Herberge für Reisende,
+dann würde ich mein Volk verlassen und von ihm weggehen!
+Denn sie alle sind Ehebrecher,
+eine Bande von Treulosen.
+<sup>3</sup>„Sie spannen ihre Zunge wie einen Bogen für die Lüge.
+Sie sind stark geworden im Land, aber nicht für die Wahrheit.
+Denn sie gehen von Bosheit zu Bosheit,
+und mich kennen sie nicht“, spricht der HERR.
+<sup>4</sup>„Jeder hüte sich vor seinem Nächsten,
+und keiner vertraue irgendeinem Bruder.
+Denn jeder Bruder betrügt hinterlistig,
+und jeder Nächste geht als Verleumder umher.
+<sup>5</sup>Freunde betrügen einander
+und reden nicht die Wahrheit.
+Sie haben ihre Zunge gelehrt, Lügen zu reden.
+Sie mühen sich ab, Unrecht zu tun.
+<sup>6</sup>Deine Wohnung ist mitten im Betrug.
+Aus Betrug weigern sie sich, mich zu kennen“, spricht der HERR.
+<sup>7</sup>Darum spricht der HERR der Heere:
+„Siehe, ich werde sie schmelzen und prüfen.
+Denn wie sollte ich sonst mit der Tochter meines Volkes umgehen?
+<sup>8</sup>Ihre Zunge ist ein tödlicher Pfeil.
+Sie redet Betrug.
+Mit dem Mund redet man freundlich mit seinem Nächsten,
+aber im Herzen legt man ihm einen Hinterhalt.
+<sup>9</sup>Sollte ich sie dafür nicht bestrafen?“, spricht der HERR.
+„Sollte meine Seele sich nicht rächen an einem Volk wie diesem?
+<sup>10</sup>Über die Berge will ich weinen und klagen
+und über die Weiden der Wüste ein Klagelied anstimmen,
+weil sie verbrannt sind, sodass niemand mehr hindurchzieht.
+Man hört nicht mehr die Stimme des Viehs.
+Sowohl die Vögel des Himmels als auch die Tiere sind geflohen.
+Sie sind fort.
+<sup>11</sup>Ich werde Jerusalem zu Trümmerhaufen machen,
+zu einer Wohnung der Schakale.
+Ich werde die Städte Judas zu einer Wüste machen,
+ohne Bewohner.“
+
+> **Was bedeutet das?**
+> Hinweis: In vielen deutschen Bibeln ist Vers 1 dieses Kapitels der letzte Vers von Kapitel 8 (8,23). Darum sind dort alle Verse von Kapitel 9 um eins verschoben. Wir folgen hier der Zählung der englischen World English Bible.
+> Vers 1: Jeremia wünscht sich, sein Kopf wäre voll Wasser und seine Augen eine Quelle, damit er genug weinen kann über die vielen Toten. Darum nennt man ihn den „weinenden Propheten“.
+> Vers 2: Gleichzeitig möchte er am liebsten weglaufen, weit weg in die Wüste. Beides gleichzeitig zu fühlen, Mitleid und den Wunsch, wegzulaufen, kennen viele Menschen.
+> Vers 3–8: Niemand kann mehr jemandem vertrauen. Freunde und Geschwister belügen sich. Man redet freundlich, plant aber Böses. Lügen und Verleumdung zerstören eine Gemeinschaft von innen.
+> Vers 10: Auch Gott klagt. Er weint über die verbrannten Berge und die leeren Weiden.
+
+---
+
+### Warum ist das Land zerstört? (Vers 12–16)
+
+<sup>12</sup>Wer ist so weise, dass er dies versteht?
+Wer ist es, zu dem der Mund des HERRN geredet hat, damit er es verkünde?
+Warum ist das Land zugrunde gegangen
+und verbrannt wie eine Wüste, sodass niemand hindurchzieht?
+<sup>13</sup>Der HERR sagt:
+„Weil sie meine Weisung verlassen haben, die ich ihnen vorgelegt habe,
+und nicht auf meine Stimme gehört haben
+und nicht nach ihr gelebt haben,
+<sup>14</sup>sondern der Verstocktheit ihres eigenen Herzens nachgelaufen sind
+und den Baalen, wie es ihre Väter sie gelehrt haben.“
+<sup>15</sup>Darum spricht der HERR der Heere, der Gott Israels:
+„Siehe, ich werde sie, dieses Volk, mit Wermut speisen
+und ihnen vergiftetes Wasser zu trinken geben.
+<sup>16</sup>Ich werde sie unter die Nationen zerstreuen,
+die weder sie noch ihre Väter gekannt haben.
+Ich werde ihnen das Schwert nachschicken,
+bis ich sie vernichtet habe.“
+
+> **Was bedeutet das?**
+> Vers 12: Die große Frage: Warum ist das alles passiert?
+> Vers 13–14: Die Antwort: Weil das Volk Gottes Weisung verlassen hat und den Götzen gefolgt ist.
+> Vers 15: Wermut ist eine sehr bittere Pflanze. Das Leben wird bitter wie Wermut.
+> Vers 16: Das Exil wird angekündigt: Zerstreuung unter fremde Völker.
+
+---
+
+### Ruft die Klagefrauen! (Vers 17–22)
+
+<sup>17</sup>So spricht der HERR der Heere:
+„Achtet darauf und ruft die Klagefrauen, damit sie kommen!
+Schickt nach den kundigen Frauen, damit sie kommen!
+<sup>18</sup>Sie sollen sich beeilen und eine Klage über uns anstimmen,
+damit unsere Augen von Tränen fließen
+und unsere Wimpern von Wasser strömen.
+<sup>19</sup>Denn eine Stimme des Klagens hört man aus Zion:
+‚Wie sind wir verwüstet!
+Wir sind sehr beschämt,
+denn wir haben das Land verlassen müssen,
+denn sie haben unsere Wohnungen niedergerissen.‘“
+<sup>20</sup>Hört doch, ihr Frauen, das Wort des HERRN!
+Euer Ohr nehme das Wort seines Mundes auf!
+Lehrt eure Töchter die Klage,
+und eine lehre die andere das Klagelied!
+<sup>21</sup>Denn der Tod ist in unsere Fenster gestiegen.
+Er ist in unsere Paläste gekommen,
+um die Kinder von der Straße wegzuraffen
+und die jungen Männer von den Plätzen.
+<sup>22</sup>Sprich: „So spricht der HERR:
+‚Die Leichen der Menschen werden fallen
+wie Dünger auf dem offenen Feld
+und wie die Garbe hinter dem Schnitter,
+und niemand wird sie sammeln.‘“
+
+> **Was bedeutet das?**
+> Vers 17–18: Im Alten Orient gab es Klagefrauen. Sie waren Fachfrauen für Trauer und halfen anderen, ihren Schmerz auszudrücken. Gott selbst ruft sie: Ihr müsst jetzt klagen!
+> Vers 20: Die Frauen sollen ihre Töchter und Nachbarinnen das Klagen lehren. Trauer braucht Worte und Gemeinschaft.
+> Vers 21: „Der Tod ist durch unsere Fenster gestiegen“ wie ein Dieb. Er nimmt Kinder und junge Menschen weg.
+> Diese Verse zeigen: Es ist richtig, Trauer und Schmerz laut auszusprechen. Die Bibel hat ein ganzes Buch voller Klagelieder. Wer trauert, darf weinen. Und niemand muss damit allein sein: Telefonseelsorge 0800 111 0 111.
+
+---
+
+### Worauf man stolz sein soll (Vers 23–26)
+
+<sup>23</sup>So spricht der HERR:
+„Der Weise rühme sich nicht seiner Weisheit.
+Der Starke rühme sich nicht seiner Stärke.
+Der Reiche rühme sich nicht seines Reichtums.
+<sup>24</sup>Sondern wer sich rühmen will, der rühme sich dessen,
+dass er Einsicht hat und mich kennt,
+dass ich der HERR bin, der Gnade, Recht und Gerechtigkeit übt auf der Erde.
+Denn daran habe ich Gefallen“, spricht der HERR.
+<sup>25</sup>„Siehe, es kommen Tage“, spricht der HERR,
+„da werde ich alle heimsuchen, die nur am Fleisch beschnitten sind:
+<sup>26</sup>Ägypten, Juda, Edom, die Kinder Ammon, Moab
+und alle mit gestutztem Haarrand, die in der Wüste wohnen.
+Denn alle Nationen sind unbeschnitten,
+und das ganze Haus Israel ist unbeschnitten im Herzen.“
+
+> **Was bedeutet das?**
+> Vers 23–24 ist einer der wichtigsten Sätze bei Jeremia: Sei nicht stolz auf deine Klugheit, deine Kraft oder dein Geld. Wenn du schon stolz sein willst, dann darauf, dass du Gott kennst, den Gott, der Gnade, Recht und Gerechtigkeit liebt. Paulus nimmt das auf: „Wer sich rühmt, der rühme sich des Herrn“ (1. Korinther 1,31).
+> Vers 25–26: Viele Völker damals waren beschnitten, nicht nur Israel. Jeremia sagt: Das äußere Zeichen allein nützt nichts. Wer ein „unbeschnittenes Herz“ hat, also ein Herz, das für Gott verschlossen ist, dem hilft auch das Zeichen am Körper nicht. Das gilt für alle Völker und auch für Israel. „Gestutzter Haarrand“ war eine Haartracht bestimmter arabischer Stämme.
