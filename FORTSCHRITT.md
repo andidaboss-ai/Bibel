@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 621 von 1189 Kapiteln (52.2 %), 16306 von 31098 Versen.**
+**Gesamt: 628 von 1189 Kapiteln (52.8 %), 16401 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 16 | Nehemia | AT | 13 / 13 | fertig |
 | 17 | Ester | AT | 10 / 10 | fertig |
 | 18 | Hiob | AT | 42 / 42 | fertig |
-| 19 | Psalmen | AT | 143 / 150 | in Arbeit |
+| 19 | Psalmen | AT | 150 / 150 | fertig |
 | 20 | Sprüche | AT | 0 / 31 | – |
 | 21 | Prediger | AT | 0 / 12 | – |
 | 22 | Hoheslied | AT | 0 / 8 | – |

@@ -78324,3 +78324,407 @@ denn ich bin dein Knecht.
 > Vers 8: Nach einer dunklen Nacht hofft der Beter auf den Morgen. Er will Gottes Güte hören wie eine gute Nachricht am Morgen.
 > Vers 10: „Lehre mich, deinen Willen zu tun“: eines der schönsten kurzen Gebete der Bibel. „Führe mich im Land der Aufrichtigkeit“: Gott führt auf einen geraden, ehrlichen Weg.
 > Vers 12: Der Beter bittet Gott, ihn von seinen Feinden zu befreien. Er greift nicht selbst zur Gewalt, sondern überlässt es Gott. Für uns heute ist der Weg Jesu: Feinde lieben und für sie beten (Matthäus 5,44).
+
+## Psalm 144
+#### Was ist der Mensch?
+
+---
+
+### Gott, mein Fels (Vers 1–4)
+
+<sup>1</sup>Von David.
+Gepriesen sei der HERR, mein Fels,
+der meine Hände zum Krieg ausbildet
+und meine Finger zum Kampf,
+<sup>2</sup>meine Güte und meine Burg,
+meine Festung und mein Retter,
+mein Schild und der, bei dem ich Zuflucht finde,
+der mein Volk unter mich bringt.
+<sup>3</sup>HERR, was ist der Mensch, dass du dich um ihn kümmerst?
+Oder der Menschensohn, dass du an ihn denkst?
+<sup>4</sup>Der Mensch ist wie ein Hauch.
+Seine Tage sind wie ein Schatten, der vorüberzieht.
+
+> **Was bedeutet das?**
+> Psalm 144 nimmt viele Worte aus Psalm 18 und Psalm 8 auf.
+> Vers 1: David war Krieger und König. Er dankt Gott für Kraft und Geschick im Kampf. Das war seine Lebenswirklichkeit damals. Es ist keine Aufforderung zum Krieg heute.
+> Vers 3–4: Mitten im Lob staunt David: Der Mensch ist so klein und vergänglich, wie ein Atemhauch. Und trotzdem kümmert sich der große Gott um ihn (vgl. Psalm 8,5).
+
+---
+
+### Komm herab und rette mich (Vers 5–11)
+
+<sup>5</sup>Neige deinen Himmel, HERR, und komm herab!
+Berühre die Berge, dann werden sie rauchen.
+<sup>6</sup>Schleudere Blitze und zerstreue sie!
+Schick deine Pfeile und jag sie davon!
+<sup>7</sup>Streck deine Hand aus von oben!
+Befreie mich und rette mich aus großen Wassern,
+aus der Hand der Fremden,
+<sup>8</sup>deren Mund Lügen redet
+und deren rechte Hand eine Hand der Falschheit ist.
+<sup>9</sup>Ich will dir ein neues Lied singen, Gott.
+Auf einer zehnsaitigen Leier will ich dir Loblieder singen.
+<sup>10</sup>Du bist es, der Königen Rettung gibt,
+der David, seinen Knecht, vor dem tödlichen Schwert rettet.
+<sup>11</sup>Befreie mich und rette mich aus der Hand der Fremden,
+deren Mund Lügen redet
+und deren rechte Hand eine Hand der Falschheit ist.
+
+> **Was bedeutet das?**
+> Vers 5–6: Gott soll kommen wie in einem gewaltigen Gewitter, wie damals am Berg Sinai.
+> Vers 8: „Die rechte Hand“ hob man beim Schwören. Die Feinde schwören falsch. Ihr Versprechen ist nichts wert.
+> „Fremde“ meint hier feindliche Völker, die lügen und betrügen. Es ist keine Aussage gegen Ausländer allgemein. Die Bibel sagt oft: Gott beschützt die Fremden (z. B. Psalm 146,9).
+
+---
+
+### Glücklich das Volk, dessen Gott der HERR ist (Vers 12–15)
+
+<sup>12</sup>Dann werden unsere Söhne sein wie gut gepflegte Pflanzen,
+unsere Töchter wie geschnitzte Säulen, die einen Palast schmücken.
+<sup>13</sup>Unsere Scheunen sind voll,
+gefüllt mit Vorräten aller Art.
+Unsere Schafe bringen Tausende und Zehntausende hervor
+auf unseren Feldern.
+<sup>14</sup>Unsere Rinder werden schwere Lasten ziehen.
+Kein Einbruch, kein Wegziehen
+und kein Klagegeschrei auf unseren Straßen.
+<sup>15</sup>Glücklich ist das Volk, dem es so geht.
+Glücklich ist das Volk, dessen Gott der HERR ist.
+
+> **Was bedeutet das?**
+> Ein Bild vom Frieden: gesunde Kinder, volle Scheunen, viele Tiere. Keine Feinde brechen ein, niemand muss fliehen, niemand schreit vor Kummer.
+> Vers 14: „Kein Einbruch“: keine Bresche in der Stadtmauer. „Kein Wegziehen“: keine Verschleppung in die Gefangenschaft.
+> Vers 15: Das wahre Glück ist nicht der Wohlstand allein, sondern: Gott ist unser Gott.
+
+## Psalm 145
+#### Ich will dich erheben, mein Gott und König
+
+---
+
+### Gottes Größe ist unerforschlich (Vers 1–7)
+
+<sup>1</sup>Ein Lobpsalm von David.
+Ich will dich erheben, mein Gott, du König!
+Ich will deinen Namen loben für immer und ewig.
+<sup>2</sup>Jeden Tag will ich dich loben.
+Ich will deinen Namen rühmen für immer und ewig.
+<sup>3</sup>Groß ist der HERR und sehr zu loben!
+Seine Größe ist unerforschlich.
+<sup>4</sup>Eine Generation wird der anderen deine Werke rühmen
+und deine mächtigen Taten verkünden.
+<sup>5</sup>Ich will nachdenken über die herrliche Pracht deiner Hoheit,
+über deine wunderbaren Werke.
+<sup>6</sup>Die Menschen werden von der Macht deiner furchtbaren Taten reden.
+Ich will deine Größe erzählen.
+<sup>7</sup>Sie werden die Erinnerung an deine große Güte hervorsprudeln lassen
+und von deiner Gerechtigkeit singen.
+
+> **Was bedeutet das?**
+> Psalm 145 ist das letzte Alphabet-Gedicht im Psalmbuch: Im Hebräischen beginnt jeder Vers mit dem nächsten Buchstaben des Alphabets.
+> Er ist der einzige Psalm, der in der Überschrift „Lobpsalm“ (hebräisch „Tehilla“) heißt. Von diesem Wort kommt der hebräische Name des ganzen Psalmbuchs: „Tehillim“, Loblieder.
+> Im Judentum wird Psalm 145 dreimal am Tag gebetet. Der Talmud sagt: Wer ihn jeden Tag betet, gehört zur kommenden Welt.
+> Vers 4: Der Glaube wird von Generation zu Generation weitergegeben: von Eltern zu Kindern, von Großeltern zu Enkeln.
+
+---
+
+### Der HERR ist gut zu allen (Vers 8–13)
+
+<sup>8</sup>Der HERR ist gnädig und barmherzig,
+langsam zum Zorn und groß an Güte.
+<sup>9</sup>Der HERR ist gut zu allen.
+Sein Erbarmen gilt allen seinen Werken.
+<sup>10</sup>Alle deine Werke werden dir danken, HERR.
+Deine Heiligen werden dich rühmen.
+<sup>11</sup>Sie werden von der Herrlichkeit deines Reiches sprechen
+und von deiner Macht reden,
+<sup>12</sup>um den Menschen seine mächtigen Taten bekannt zu machen,
+die herrliche Pracht seines Reiches.
+<sup>13</sup>Dein Reich ist ein ewiges Reich.
+Deine Herrschaft bleibt durch alle Generationen.
+Der HERR ist treu in allen seinen Worten
+und liebevoll in allen seinen Taten.
+
+> **Was bedeutet das?**
+> Vers 8 ist das große Bekenntnis, das Gott selbst Mose gesagt hat (2. Mose 34,6). Es kommt in der Bibel immer wieder vor.
+> Vers 9: „Gut zu allen“: Gottes Güte gilt nicht nur einem Volk, sondern allen Menschen und der ganzen Schöpfung.
+> Vers 13: Im hebräischen Standardtext fehlt der Vers mit dem Buchstaben „Nun“. In einer alten Handschrift aus Qumran und in der griechischen Übersetzung ist er erhalten: „Der HERR ist treu in allen seinen Worten …“. Die englische Vorlage hat ihn in Vers 13 aufgenommen. So ist das Alphabet vollständig.
+
+---
+
+### Der HERR richtet die Gebeugten auf (Vers 14–21)
+
+<sup>14</sup>Der HERR stützt alle, die fallen,
+und richtet alle auf, die gebeugt sind.
+<sup>15</sup>Die Augen aller warten auf dich,
+und du gibst ihnen ihre Speise zur rechten Zeit.
+<sup>16</sup>Du öffnest deine Hand
+und sättigst den Wunsch von allem, was lebt.
+<sup>17</sup>Der HERR ist gerecht auf allen seinen Wegen
+und gnädig in allen seinen Werken.
+<sup>18</sup>Der HERR ist nahe allen, die ihn anrufen,
+allen, die ihn in Wahrheit anrufen.
+<sup>19</sup>Er erfüllt den Wunsch derer, die ihn fürchten.
+Er hört auch ihr Schreien und rettet sie.
+<sup>20</sup>Der HERR behütet alle, die ihn lieben,
+aber alle Gottlosen wird er vernichten.
+<sup>21</sup>Mein Mund soll das Lob des HERRN sagen.
+Alle Menschen sollen seinen heiligen Namen preisen
+für immer und ewig.
+
+> **Was bedeutet das?**
+> Vers 14: Gott ist für die da, die fallen und gebeugt sind. Er hilft wieder auf.
+> Vers 15–16 sind ein bekanntes Tischgebet: „Aller Augen warten auf dich, Herr, und du gibst ihnen ihre Speise zur rechten Zeit. Du tust deine Hand auf und sättigst alles, was lebt, mit Wohlgefallen.“
+> Vers 18: Gott ist nahe. Man muss ihn nicht weit suchen. Ein ehrliches Gebet genügt.
+> Vers 20: Gott wird das Böse beenden. Das ist ein Trost für die Opfer von Unrecht.
+> In diesem Psalm kommt das Wort „alle“ sehr oft vor. Gottes Güte ist weit.
+
+## Psalm 146
+#### Vertraut nicht auf Fürsten
+
+---
+
+### Der HERR befreit die Gefangenen (Vers 1–10)
+
+<sup>1</sup>Lobt Jah!
+Lobe den HERRN, meine Seele!
+<sup>2</sup>Solange ich lebe, will ich den HERRN loben.
+Ich will meinem Gott Loblieder singen, solange ich da bin.
+<sup>3</sup>Vertraut nicht auf Fürsten,
+auf einen Menschensohn, bei dem keine Hilfe ist.
+<sup>4</sup>Sein Geist geht weg, und er kehrt zur Erde zurück.
+An genau diesem Tag sind seine Pläne verloren.
+<sup>5</sup>Glücklich ist, wer den Gott Jakobs als Hilfe hat,
+wessen Hoffnung auf dem HERRN, seinem Gott, ruht,
+<sup>6</sup>der Himmel und Erde gemacht hat,
+das Meer und alles, was darin ist,
+der die Treue für immer bewahrt,
+<sup>7</sup>der den Unterdrückten Recht verschafft,
+der den Hungrigen Brot gibt.
+Der HERR befreit die Gefangenen.
+<sup>8</sup>Der HERR öffnet die Augen der Blinden.
+Der HERR richtet die Gebeugten auf.
+Der HERR liebt die Gerechten.
+<sup>9</sup>Der HERR behütet die Fremden.
+Er stützt die Waisen und die Witwen,
+aber den Weg der Gottlosen stellt er auf den Kopf.
+<sup>10</sup>Der HERR wird König sein für immer,
+dein Gott, Zion, von Generation zu Generation.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Mit Psalm 146 beginnt das Schluss-Halleluja des Psalmbuchs. Psalm 146 bis 150 beginnen und enden alle mit „Lobt Jah!“ (hebräisch „Halleluja“).
+> Vers 3–4: Auch die mächtigsten Politiker sind nur Menschen. Sie sterben, und ihre Pläne sterben mit ihnen. Darum soll man die letzte Hoffnung nicht auf sie setzen.
+> Vers 7–9 zeigen, wer Gott ist: Er steht auf der Seite der Unterdrückten, Hungrigen, Gefangenen, Blinden, Fremden, Waisen und Witwen. Genau so hat Jesus gehandelt (vgl. Lukas 4,18; 7,22).
+> Daraus folgt ein Auftrag auch für uns: Wer Gott lobt, soll sich auch um diese Menschen kümmern.
+
+## Psalm 147
+#### Er heilt, die zerbrochenen Herzens sind
+
+---
+
+### Er zählt die Sterne und heilt die Herzen (Vers 1–11)
+
+<sup>1</sup>Lobt Jah, denn es ist gut, unserem Gott Loblieder zu singen,
+denn es ist schön, und es gehört sich, ihn zu loben.
+<sup>2</sup>Der HERR baut Jerusalem auf.
+Er sammelt die Verstoßenen Israels.
+<sup>3</sup>Er heilt, die zerbrochenen Herzens sind,
+und verbindet ihre Wunden.
+<sup>4</sup>Er zählt die Zahl der Sterne.
+Er ruft sie alle mit Namen.
+<sup>5</sup>Groß ist unser Herr und gewaltig an Kraft.
+Sein Verstand ist unendlich.
+<sup>6</sup>Der HERR richtet die Demütigen auf.
+Die Gottlosen bringt er zu Boden.
+<sup>7</sup>Singt dem HERRN mit Dank!
+Spielt unserem Gott Loblieder auf der Harfe,
+<sup>8</sup>der den Himmel mit Wolken bedeckt,
+der Regen für die Erde bereitet,
+der Gras auf den Bergen wachsen lässt.
+<sup>9</sup>Er gibt dem Vieh sein Futter,
+den jungen Raben, wenn sie rufen.
+<sup>10</sup>Er hat keine Freude an der Stärke des Pferdes.
+Er hat kein Gefallen an den Beinen eines Mannes.
+<sup>11</sup>Der HERR hat Gefallen an denen, die ihn fürchten,
+an denen, die auf seine Güte hoffen.
+
+> **Was bedeutet das?**
+> Vers 2–3: Nach dem Exil baut Gott Jerusalem wieder auf und holt die Zerstreuten heim. Und er heilt die Herzen, die gebrochen sind, wie ein Arzt, der Wunden verbindet.
+> Vers 3–4: Ein wunderbarer Gegensatz: Der Gott, der die Milliarden Sterne kennt und ihnen Namen gibt, kümmert sich um ein einzelnes gebrochenes Herz.
+> Vers 9: Sogar die jungen Raben, die nach Futter schreien, hört Gott. Jesus sagt: „Seht die Raben an … Gott ernährt sie“ (Lukas 12,24).
+> Vers 10–11: Gott beeindrucken nicht Kriegspferde oder starke Muskeln, sondern Menschen, die ihm vertrauen.
+
+---
+
+### Er sendet sein Wort (Vers 12–20)
+
+<sup>12</sup>Lobe den HERRN, Jerusalem!
+Lobe deinen Gott, Zion!
+<sup>13</sup>Denn er hat die Riegel deiner Tore stark gemacht.
+Er hat deine Kinder in dir gesegnet.
+<sup>14</sup>Er schafft Frieden in deinen Grenzen.
+Er sättigt dich mit dem besten Weizen.
+<sup>15</sup>Er sendet sein Gebot auf die Erde.
+Sein Wort läuft sehr schnell.
+<sup>16</sup>Er gibt Schnee wie Wolle
+und streut Reif wie Asche.
+<sup>17</sup>Er wirft seinen Hagel wie Kieselsteine.
+Wer kann vor seiner Kälte bestehen?
+<sup>18</sup>Er sendet sein Wort und lässt sie schmelzen.
+Er lässt seinen Wind wehen, und die Wasser fließen.
+<sup>19</sup>Er zeigt Jakob sein Wort,
+Israel seine Ordnungen und seine Rechtsbestimmungen.
+<sup>20</sup>So hat er an keinem anderen Volk gehandelt.
+Sie kennen seine Rechtsbestimmungen nicht.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 15–18: Gottes Wort ist wie ein schneller Bote. Es bringt den Winter mit Schnee, Reif und Hagel. Und es bringt auch das Tauwetter, wenn das Eis schmilzt und die Bäche wieder fließen.
+> Vers 19–20: Gott hat Israel etwas Besonderes geschenkt: sein Wort, seine Weisung. Das ist ein Vorrecht und eine Verantwortung. Christen glauben, dass Gottes Wort durch Israel später zu allen Völkern gekommen ist.
+
+## Psalm 148
+#### Die ganze Schöpfung lobt Gott
+
+---
+
+### Lobt ihn vom Himmel her (Vers 1–6)
+
+<sup>1</sup>Lobt Jah!
+Lobt den HERRN vom Himmel her!
+Lobt ihn in den Höhen!
+<sup>2</sup>Lobt ihn, alle seine Engel!
+Lobt ihn, sein ganzes Heer!
+<sup>3</sup>Lobt ihn, Sonne und Mond!
+Lobt ihn, alle leuchtenden Sterne!
+<sup>4</sup>Lobt ihn, ihr Himmel der Himmel,
+und ihr Wasser über dem Himmel!
+<sup>5</sup>Sie sollen den Namen des HERRN loben,
+denn er gebot, und sie wurden erschaffen.
+<sup>6</sup>Er hat sie auch festgestellt für immer und ewig.
+Er hat eine Ordnung gegeben, die nicht vergeht.
+
+> **Was bedeutet das?**
+> Ein riesiger Chor: Alles, was im Himmel ist, soll Gott loben, die Engel, die Sonne, der Mond, die Sterne.
+> Vers 4: „Wasser über dem Himmel“: So stellte man sich damals die Welt vor (vgl. 1. Mose 1,7). Der Regen kam von dort oben.
+> Vers 5–6: Alles existiert, weil Gott es gerufen hat. Und er hält es in seiner Ordnung.
+
+---
+
+### Lobt ihn von der Erde her (Vers 7–14)
+
+<sup>7</sup>Lobt den HERRN von der Erde her,
+ihr großen Meerestiere und alle Tiefen,
+<sup>8</sup>Blitz und Hagel, Schnee und Wolken,
+du Sturmwind, der sein Wort ausführt,
+<sup>9</sup>ihr Berge und alle Hügel,
+ihr Obstbäume und alle Zedern,
+<sup>10</sup>ihr wilden Tiere und alles Vieh,
+ihr kleinen Tiere und ihr fliegenden Vögel,
+<sup>11</sup>ihr Könige der Erde und alle Völker,
+ihr Fürsten und alle Richter der Erde,
+<sup>12</sup>ihr jungen Männer und jungen Frauen,
+ihr Alten und ihr Kinder!
+<sup>13</sup>Sie sollen den Namen des HERRN loben,
+denn sein Name allein ist erhaben.
+Seine Herrlichkeit ist über der Erde und dem Himmel.
+<sup>14</sup>Er hat das Horn seines Volkes erhoben,
+zum Lob für alle seine Heiligen,
+für die Kinder Israels, das Volk, das ihm nahe ist.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Jetzt kommt die Erde dran: Meerestiere, Wetter, Berge, Bäume, Tiere und zuletzt die Menschen, alle Menschen: Könige und einfache Leute, Junge und Alte, Männer und Frauen, Kinder.
+> Die ganze Schöpfung bildet einen Chor. Jedes Geschöpf lobt Gott auf seine Weise, einfach dadurch, dass es da ist.
+> Franz von Assisi hat sich von diesem Psalm zu seinem „Sonnengesang“ anregen lassen.
+> Dieser Psalm erinnert auch daran: Die Schöpfung gehört Gott. Wir Menschen sollen gut mit ihr umgehen.
+> Vers 14: „Das Horn erheben“: Gott hat seinem Volk neue Kraft und Würde gegeben.
+
+## Psalm 149
+#### Singt dem HERRN ein neues Lied
+
+---
+
+### Freude und Tanz (Vers 1–5)
+
+<sup>1</sup>Lobt Jah!
+Singt dem HERRN ein neues Lied,
+sein Lob in der Versammlung der Heiligen!
+<sup>2</sup>Israel soll sich freuen über den, der es gemacht hat.
+Die Kinder Zions sollen jubeln über ihren König.
+<sup>3</sup>Sie sollen seinen Namen loben im Tanz!
+Mit Tamburin und Harfe sollen sie ihm Loblieder singen!
+<sup>4</sup>Denn der HERR hat Gefallen an seinem Volk.
+Er krönt die Demütigen mit Rettung.
+<sup>5</sup>Die Heiligen sollen sich freuen in Ehre.
+Sie sollen jubeln auf ihren Betten.
+
+> **Was bedeutet das?**
+> Ein fröhliches Fest mit Musik und Tanz. Gott freut sich an seinem Volk, und das Volk freut sich an Gott.
+> Vers 4: Gott „krönt die Demütigen“: Die Kleinen und Bescheidenen bekommen bei Gott eine Krone.
+> Vers 5: „Auf ihren Betten“: sogar nachts, beim Ausruhen, singen sie noch vor Freude.
+
+---
+
+### Das Schwert in der Hand (Vers 6–9)
+
+<sup>6</sup>Das hohe Lob Gottes soll in ihrem Mund sein
+und ein zweischneidiges Schwert in ihrer Hand,
+<sup>7</sup>um Rache an den Völkern zu üben
+und Strafen an den Nationen,
+<sup>8</sup>um ihre Könige mit Ketten zu binden
+und ihre Edlen mit eisernen Fesseln,
+<sup>9</sup>um an ihnen das geschriebene Urteil zu vollstrecken.
+Diese Ehre haben alle seine Heiligen.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Diese Verse sind schwierig. Nach Freude und Tanz ist plötzlich von Schwert und Rache die Rede.
+> Der Psalm stammt aus einer Zeit, in der Israel von großen Reichen unterdrückt wurde. Er drückt die Hoffnung aus: Gott wird die ungerechten Herrscher richten. Gemeint ist „das geschriebene Urteil“, also Gottes Gericht, nicht eigene Rachepläne.
+> Im Laufe der Geschichte wurden diese Verse leider missbraucht, um Krieg und Gewalt im Namen Gottes zu rechtfertigen. Das ist falsch.
+> Viele Juden und Christen verstehen das Schwert heute im übertragenen Sinn. Der Hebräerbrief nennt Gottes Wort „schärfer als ein zweischneidiges Schwert“ (Hebräer 4,12). Paulus spricht vom „Schwert des Geistes, das ist das Wort Gottes“ (Epheser 6,17).
+> Jesus sagt: „Steck dein Schwert weg! Denn alle, die das Schwert nehmen, werden durch das Schwert umkommen“ (Matthäus 26,52). Gewalt im Namen Gottes ist kein Weg.
+
+## Psalm 150
+#### Alles, was atmet, lobe Jah!
+
+---
+
+### Das große Halleluja (Vers 1–6)
+
+<sup>1</sup>Lobt Jah!
+Lobt Gott in seinem Heiligtum!
+Lobt ihn in seinem Himmel für seine mächtigen Taten!
+<sup>2</sup>Lobt ihn für seine gewaltigen Taten!
+Lobt ihn nach seiner überragenden Größe!
+<sup>3</sup>Lobt ihn mit dem Klang der Trompete!
+Lobt ihn mit Harfe und Leier!
+<sup>4</sup>Lobt ihn mit Tamburin und Tanz!
+Lobt ihn mit Saiteninstrumenten und Flöte!
+<sup>5</sup>Lobt ihn mit lauten Zimbeln!
+Lobt ihn mit klingenden Zimbeln!
+<sup>6</sup>Alles, was Atem hat, soll Jah loben!
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Der letzte Psalm ist ein einziger Jubelruf. In sechs Versen kommt dreizehnmal das Wort „loben“ vor.
+> Vers 1–2: Wo soll man Gott loben? Überall, im Tempel und im Himmel. Warum? Weil er Großes getan hat und weil er groß ist.
+> Vers 3–5: Womit? Mit allen Instrumenten: Trompeten, Harfen, Trommeln, Flöten, Becken. Und mit Tanz. Das ganze Orchester spielt.
+> Vers 6: Wer soll loben? Alles, was atmet. Nicht nur Israel, nicht nur Menschen, sondern alles Leben. Jeder Atemzug ist ein Geschenk Gottes und kann ein Lob für ihn sein.
+> So endet das Buch der Psalmen: nicht mit Klage, sondern mit Lob. Der Weg geht durch viele Tränen, aber am Ende steht das Halleluja.
+
+---
+
+### Rückblick: Was haben wir im Buch der Psalmen gelesen?
+
+> **Was bedeutet das?**
+> **Das Gebetbuch der Bibel:** Die Psalmen sind 150 Lieder und Gebete. Sie entstanden über viele Jahrhunderte, von David bis nach dem Exil. Sie waren das Gesangbuch des Tempels in Jerusalem. Bis heute beten Juden und Christen mit diesen Worten, jeden Tag, auf der ganzen Welt.
+> **Fünf Bücher:** Das Psalmbuch ist in fünf Bücher eingeteilt (Psalm 1–41, 42–72, 73–89, 90–106, 107–150), wie die fünf Bücher Mose. Jedes Buch endet mit einem Lobpreis. Am Ende des ganzen Buches steht Psalm 150 als großes Schluss-Halleluja.
+> **Alle Gefühle haben Platz:** In den Psalmen gibt es Freude und Trauer, Dank und Klage, Vertrauen und Verzweiflung, Liebe und sogar Wut und Hass. Die Psalmen zeigen: Man darf Gott alles sagen. Man muss vor ihm nicht fromm tun.
+> **Klage ist Gebet:** Fast ein Drittel der Psalmen sind Klagen. „Mein Gott, mein Gott, warum hast du mich verlassen?“ (Psalm 22) Wer klagt, glaubt noch, dass Gott zuhört. Viele Klagepsalmen enden mit neuem Vertrauen.
+> **Schwierige Verse:** Manche Psalmen wünschen den Feinden Böses (zum Beispiel Psalm 109 oder 137). Wir haben sie nicht weggelassen, denn sie gehören zur Bibel. Sie zeigen ehrlich, wie verletzt Menschen sein können. Aber sie sind keine Erlaubnis für Gewalt. Die Beter überlassen das Gericht Gott. Jesus zeigt den Weg der Feindesliebe.
+> **Gottes Wort:** Psalm 1 und Psalm 119 loben Gottes Weisung. Sie ist wie ein Licht auf dem Weg (Psalm 119,105).
+> **Der König:** Viele Psalmen sprechen vom König aus der Familie Davids, dem Gesalbten (hebräisch „Messias“). Juden warten auf den Messias. Christen glauben, dass Jesus dieser Gesalbte ist. Jesus selbst hat die Psalmen gebetet, auch am Kreuz (Psalm 22,1; 31,5).
+> **Bekannte Worte:** „Der HERR ist mein Hirte“ (Psalm 23). „Befiehl dem HERRN deine Wege“ (Psalm 37). „Aus der Tiefe rufe ich“ (Psalm 130). „Ich hebe meine Augen auf zu den Bergen“ (Psalm 121). „Lobe den HERRN, meine Seele“ (Psalm 103). Diese Worte haben Menschen in allen Lebenslagen getröstet.
+> **Vom Seufzen zum Lob:** Der Weg des Psalmbuchs geht von „Glücklich ist der Mensch“ (Psalm 1) durch viel Leid hindurch bis zu „Alles, was Atem hat, lobe Jah!“ (Psalm 150).
+> **Wie geht es weiter?** Als Nächstes kommt das Buch der Sprüche. Es ist voller kurzer, kluger Sätze für den Alltag: über Arbeit, Freundschaft, Geld, Worte und Familie. Sein Leitsatz: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis“ (Sprüche 1,7).
