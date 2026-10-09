@@ -75334,3 +75334,489 @@ Lobe den HERRN, meine Seele!
 > **Was bedeutet das?**
 > Am Ende weitet sich das Lob immer mehr: von der eigenen Seele zu den Engeln, zu allen himmlischen Heeren, zu allen Geschöpfen überall.
 > Und dann kehrt der Psalm zum Anfang zurück: „Lobe den HERRN, meine Seele!“ Das große Lob des ganzen Universums beginnt und endet im eigenen Herzen.
+
+## Psalm 104
+#### Wie zahlreich sind deine Werke!
+
+---
+
+### In Licht gehüllt (Vers 1–4)
+
+<sup>1</sup>Lobe den HERRN, meine Seele!
+HERR, mein Gott, du bist sehr groß.
+Du bist mit Ehre und Majestät bekleidet.
+<sup>2</sup>Er hüllt sich in Licht wie in ein Gewand.
+Er spannt den Himmel aus wie einen Vorhang.
+<sup>3</sup>Er legt die Balken seiner Gemächer auf die Wasser.
+Er macht die Wolken zu seinem Wagen.
+Er geht auf den Flügeln des Windes.
+<sup>4</sup>Er macht Winde zu seinen Boten
+und Feuerflammen zu seinen Dienern.
+
+> **Was bedeutet das?**
+> Psalm 104 ist ein großer Schöpfungspsalm. Er erzählt in Bildern, wie Gott die Welt geschaffen hat und erhält, ähnlich wie 1. Mose 1.
+> Er beginnt und endet wie Psalm 103: „Lobe den HERRN, meine Seele!“ Psalm 103 lobt Gott für seine Vergebung, Psalm 104 für seine Schöpfung.
+> Gott ist in Licht gekleidet. Den Himmel spannt er aus wie ein Zelttuch. Wolken und Wind sind wie sein Fahrzeug und seine Diener.
+> Der Hebräerbrief zitiert Vers 4 und bezieht ihn auf die Engel (Hebräer 1,7).
+
+---
+
+### Die Wasser und die Berge (Vers 5–9)
+
+<sup>5</sup>Er hat die Erde auf ihre Fundamente gegründet,
+damit sie für immer nicht wankt.
+<sup>6</sup>Du hast sie mit der Urflut bedeckt wie mit einem Mantel.
+Die Wasser standen über den Bergen.
+<sup>7</sup>Vor deinem Schelten flohen sie.
+Vor der Stimme deines Donners eilten sie davon.
+<sup>8</sup>Die Berge stiegen auf, die Täler sanken herab
+an den Ort, den du ihnen bestimmt hattest.
+<sup>9</sup>Du hast eine Grenze gesetzt, die sie nicht überschreiten dürfen,
+damit sie nicht wieder die Erde bedecken.
+
+> **Was bedeutet das?**
+> Am Anfang war alles mit Wasser bedeckt (vgl. 1. Mose 1,2.9). Auf Gottes Befehl zogen sich die Wasser zurück, und Land und Berge kamen hervor.
+> Vers 9: Gott hat dem Meer eine Grenze gesetzt (vgl. Hiob 38,8–11).
+
+---
+
+### Quellen für alle Tiere (Vers 10–18)
+
+<sup>10</sup>Er lässt Quellen in die Täler fließen.
+Sie laufen zwischen den Bergen.
+<sup>11</sup>Sie tränken alle Tiere des Feldes.
+Die Wildesel stillen ihren Durst.
+<sup>12</sup>Die Vögel des Himmels nisten an ihnen.
+Sie singen zwischen den Zweigen.
+<sup>13</sup>Er bewässert die Berge aus seinen Gemächern.
+Die Erde wird satt von der Frucht deiner Werke.
+<sup>14</sup>Er lässt Gras wachsen für das Vieh
+und Pflanzen, die der Mensch anbaut,
+damit er Nahrung aus der Erde hervorbringt:
+<sup>15</sup>Wein, der das Herz des Menschen erfreut,
+Öl, das sein Gesicht glänzen lässt,
+und Brot, das das Herz des Menschen stärkt.
+<sup>16</sup>Die Bäume des HERRN sind gut bewässert,
+die Zedern des Libanon, die er gepflanzt hat,
+<sup>17</sup>wo die Vögel ihre Nester bauen.
+Der Storch hat sein Zuhause in den Zypressen.
+<sup>18</sup>Die hohen Berge sind für die Steinböcke.
+Die Felsen sind eine Zuflucht für die Klippdachse.
+
+> **Was bedeutet das?**
+> Ein wunderschönes Bild: Gott sorgt für alle Lebewesen. Jedes hat seinen Platz: die Wildesel an den Quellen, die Vögel in den Zweigen, der Storch in den Bäumen, die Steinböcke auf den Bergen.
+> Klippdachse sind kleine Tiere, die in Felsspalten leben, etwa so groß wie Kaninchen.
+> Vers 15: Gott gibt nicht nur das Nötigste. Er schenkt auch Freude: Wein für das Herz, Öl für die Schönheit, Brot für die Kraft.
+
+---
+
+### Tag und Nacht (Vers 19–23)
+
+<sup>19</sup>Er hat den Mond gemacht für die Zeiten.
+Die Sonne weiß, wann sie untergehen soll.
+<sup>20</sup>Du machst Finsternis, und es wird Nacht.
+Dann streifen alle Tiere des Waldes umher.
+<sup>21</sup>Die jungen Löwen brüllen nach Beute
+und fordern ihre Nahrung von Gott.
+<sup>22</sup>Die Sonne geht auf, sie ziehen sich zurück
+und legen sich in ihre Höhlen.
+<sup>23</sup>Der Mensch geht hinaus an seine Arbeit,
+an sein Werk bis zum Abend.
+
+> **Was bedeutet das?**
+> Der Mond bestimmt den Kalender (Monate und Feste). Die Sonne bestimmt Tag und Nacht.
+> Ein schöner Rhythmus: In der Nacht jagen die Löwen, am Tag arbeitet der Mensch. Jeder hat seine Zeit.
+> Selbst das Brüllen der Löwen ist wie ein Gebet: Sie „fordern ihre Nahrung von Gott“.
+
+---
+
+### Wie zahlreich sind deine Werke! (Vers 24–30)
+
+<sup>24</sup>HERR, wie zahlreich sind deine Werke!
+Mit Weisheit hast du sie alle gemacht.
+Die Erde ist voll von deinen Gütern.
+<sup>25</sup>Da ist das Meer, groß und weit.
+Darin wimmelt es ohne Zahl,
+kleine und große Tiere.
+<sup>26</sup>Dort fahren die Schiffe,
+und der Leviatan, den du geformt hast, um darin zu spielen.
+<sup>27</sup>Sie alle warten auf dich,
+dass du ihnen ihre Nahrung gibst zur rechten Zeit.
+<sup>28</sup>Du gibst ihnen, sie sammeln ein.
+Du öffnest deine Hand, sie werden satt mit Gutem.
+<sup>29</sup>Verbirgst du dein Angesicht, so erschrecken sie.
+Nimmst du ihren Atem weg, so sterben sie und werden wieder zu Staub.
+<sup>30</sup>Sendest du deinen Geist aus, so werden sie geschaffen.
+Du erneuerst das Angesicht der Erde.
+
+> **Was bedeutet das?**
+> Vers 24 ist der Höhepunkt: „Wie zahlreich sind deine Werke! Mit Weisheit hast du sie alle gemacht.“ Die Vielfalt der Schöpfung zeigt Gottes Weisheit.
+> Vers 26: Der Leviatan, sonst ein Bild für das bedrohliche Chaos (Hiob 41), ist hier wie ein Haustier, das Gott zum Spielen gemacht hat. Manche denken an einen Wal.
+> Vers 27–30: Alles Leben hängt von Gott ab. Wenn er seinen Atem gibt, leben die Geschöpfe. Wenn er ihn nimmt, sterben sie.
+> Vers 30 wird an Pfingsten gebetet: „Sende aus deinen Geist, und das Angesicht der Erde wird neu.“
+
+---
+
+### Ich will dem HERRN singen mein Leben lang (Vers 31–35)
+
+<sup>31</sup>Die Herrlichkeit des HERRN bleibe für immer!
+Der HERR freue sich an seinen Werken!
+<sup>32</sup>Er schaut die Erde an, und sie bebt.
+Er berührt die Berge, und sie rauchen.
+<sup>33</sup>Ich will dem HERRN singen, solange ich lebe.
+Ich will meinem Gott Lob singen, solange ich bin.
+<sup>34</sup>Mein Nachsinnen möge ihm gefallen.
+Ich will mich im HERRN freuen.
+<sup>35</sup>Die Sünder sollen von der Erde verschwinden,
+und die Gottlosen sollen nicht mehr sein.
+Lobe den HERRN, meine Seele!
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 31: Gott freut sich selbst an seiner Schöpfung (vgl. 1. Mose 1,31: „Es war sehr gut“).
+> Vers 35: Ein überraschender Wunsch am Ende: Die Sünder sollen verschwinden. Denn sie verderben Gottes gute Schöpfung. Gemeint ist: Das Böse soll aus der schönen Welt verschwinden.
+> „Lobt Jah!“: Auf Hebräisch „Halleluja!“. Hier kommt dieses Wort zum ersten Mal im Buch der Psalmen vor.
+> Psalm 104 ist eine Einladung, die Natur mit offenen Augen zu sehen und darin Gottes Weisheit und Liebe zu entdecken. Er zeigt auch: Die Schöpfung gehört Gott. Wir sollen sie achten und bewahren.
+
+## Psalm 105
+#### Gott hält seinen Bund mit Abraham
+
+---
+
+### Denkt an seine Wunder (Vers 1–6)
+
+<sup>1</sup>Dankt dem HERRN! Ruft seinen Namen an!
+Macht seine Taten unter den Völkern bekannt!
+<sup>2</sup>Singt ihm, singt ihm Lob!
+Erzählt von allen seinen Wundern!
+<sup>3</sup>Rühmt euch seines heiligen Namens!
+Das Herz derer, die den HERRN suchen, soll sich freuen.
+<sup>4</sup>Sucht den HERRN und seine Stärke!
+Sucht sein Angesicht immerzu!
+<sup>5</sup>Denkt an seine Wunder, die er getan hat,
+an seine Zeichen und die Urteile seines Mundes,
+<sup>6</sup>ihr Nachkommen Abrahams, seines Knechtes,
+ihr Kinder Jakobs, seine Erwählten!
+
+> **Was bedeutet das?**
+> Psalm 105 erzählt die Geschichte Israels von Abraham bis zum Einzug ins verheißene Land. Im Unterschied zu Psalm 78 und 106 erzählt er nur von Gottes Treue, nicht von der Untreue des Volkes.
+> Vers 1–15 stehen fast gleich auch in 1. Chronik 16,8–22.
+> „Sucht sein Angesicht immerzu“: Die Beziehung zu Gott soll nie aufhören.
+
+---
+
+### Der ewige Bund (Vers 7–15)
+
+<sup>7</sup>Er ist der HERR, unser Gott.
+Seine Urteile gelten auf der ganzen Erde.
+<sup>8</sup>Er hat an seinen Bund für immer gedacht,
+an das Wort, das er für tausend Generationen geboten hat,
+<sup>9</sup>an den Bund, den er mit Abraham geschlossen hat,
+und an seinen Eid an Isaak.
+<sup>10</sup>Er hat ihn Jakob als Ordnung bestätigt,
+Israel als ewigen Bund,
+<sup>11</sup>und gesagt: „Dir will ich das Land Kanaan geben
+als euren Erbanteil“,
+<sup>12</sup>als sie nur wenige Menschen waren,
+ja, sehr wenige, und Fremde darin.
+<sup>13</sup>Sie zogen von Volk zu Volk,
+von einem Königreich zu einem anderen Volk.
+<sup>14</sup>Er ließ niemanden zu, der ihnen Unrecht tat.
+Ja, er wies Könige ihretwegen zurecht:
+<sup>15</sup>„Tastet meine Gesalbten nicht an!
+Tut meinen Propheten nichts zuleide!“
+
+> **Was bedeutet das?**
+> Gott hat Abraham, Isaak und Jakob versprochen, ihren Nachkommen das Land Kanaan zu geben (1. Mose 12,7; 26,3; 28,13).
+> Als die Familie noch klein war und als Fremde umherzog, hat Gott sie beschützt. Er hat sogar Könige gewarnt, zum Beispiel den Pharao und Abimelech (1. Mose 12,17; 20,3).
+> „Meine Gesalbten“ und „meine Propheten“: Hier sind Abraham, Isaak und Jakob gemeint. Abraham wird in 1. Mose 20,7 „Prophet“ genannt.
+
+---
+
+### Josef in Ägypten (Vers 16–22)
+
+<sup>16</sup>Er rief eine Hungersnot über das Land herbei.
+Er zerbrach allen Vorrat an Brot.
+<sup>17</sup>Er sandte einen Mann vor ihnen her:
+Josef wurde als Sklave verkauft.
+<sup>18</sup>Sie quälten seine Füße mit Fesseln.
+Sein Hals wurde in Eisen gelegt,
+<sup>19</sup>bis die Zeit kam, in der sein Wort eintraf
+und das Wort des HERRN ihn als wahr erwies.
+<sup>20</sup>Der König sandte hin und ließ ihn frei,
+der Herrscher über Völker ließ ihn frei.
+<sup>21</sup>Er setzte ihn zum Herrn über sein Haus
+und zum Verwalter über seinen ganzen Besitz,
+<sup>22</sup>damit er seine Fürsten nach seinem Willen unterweise
+und seine Ältesten Weisheit lehre.
+
+> **Was bedeutet das?**
+> Hier wird kurz die Geschichte von Josef erzählt (1. Mose 37–45). Er wurde von seinen Brüdern als Sklave verkauft und kam ins Gefängnis.
+> Aber Gott hatte einen Plan: Josef wurde der zweitmächtigste Mann in Ägypten und rettete seine Familie vor dem Hunger.
+> Vers 19: „Bis sein Wort eintraf“: Josef hatte Träume gedeutet. Als sie sich erfüllten, wurde er befreit.
+
+---
+
+### Israel in Ägypten (Vers 23–36)
+
+<sup>23</sup>Auch Israel kam nach Ägypten.
+Jakob lebte als Fremder im Land Hams.
+<sup>24</sup>Er ließ sein Volk sehr zahlreich werden
+und machte es stärker als seine Gegner.
+<sup>25</sup>Er wandte ihr Herz, sodass sie sein Volk hassten
+und sich gegen seine Knechte verschworen.
+<sup>26</sup>Er sandte Mose, seinen Knecht,
+und Aaron, den er erwählt hatte.
+<sup>27</sup>Sie taten seine Zeichen unter ihnen
+und Wunder im Land Hams.
+<sup>28</sup>Er sandte Finsternis und machte es dunkel.
+Sie lehnten sich nicht gegen seine Worte auf.
+<sup>29</sup>Er verwandelte ihre Wasser in Blut
+und tötete ihre Fische.
+<sup>30</sup>Ihr Land wimmelte von Fröschen,
+sogar in den Gemächern ihrer Könige.
+<sup>31</sup>Er sprach, und es kamen Fliegenschwärme
+und Mücken in ihr ganzes Gebiet.
+<sup>32</sup>Er gab ihnen Hagel statt Regen,
+Blitze in ihrem Land.
+<sup>33</sup>Er schlug ihre Weinstöcke und ihre Feigenbäume
+und zerbrach die Bäume ihres Landes.
+<sup>34</sup>Er sprach, und es kamen Heuschrecken
+und Grashüpfer ohne Zahl.
+<sup>35</sup>Sie fraßen alle Pflanzen in ihrem Land
+und fraßen die Frucht ihres Bodens.
+<sup>36</sup>Er schlug auch alle Erstgeborenen in ihrem Land,
+die Erstlinge all ihrer Kraft.
+
+> **Was bedeutet das?**
+> Die Familie Jakobs (Israel) zog nach Ägypten und wurde dort zu einem großen Volk. Dann wurden sie von den Ägyptern unterdrückt (2. Mose 1).
+> „Land Hams“: Ägypten (vgl. Psalm 78,51).
+> Vers 25: „Er wandte ihr Herz“: Die Bibel sieht auch hinter dem Hass der Ägypter Gottes Plan, ohne die Ägypter von ihrer Verantwortung freizusprechen.
+> Vers 28–36: Die Plagen werden aufgezählt, nicht in genau derselben Reihenfolge wie in 2. Mose 7–12. Die Finsternis steht hier am Anfang.
+> Vers 28: „Sie lehnten sich nicht gegen seine Worte auf“: Gemeint sind wohl Mose und Aaron, die Gottes Befehle treu ausführten.
+
+---
+
+### Er führte sie heraus mit Freude (Vers 37–45)
+
+<sup>37</sup>Er führte sie heraus mit Silber und Gold.
+Unter seinen Stämmen war kein Schwacher.
+<sup>38</sup>Ägypten freute sich, als sie auszogen,
+denn die Furcht vor ihnen war auf sie gefallen.
+<sup>39</sup>Er breitete eine Wolke als Decke aus
+und Feuer, um die Nacht zu erhellen.
+<sup>40</sup>Sie baten, und er brachte Wachteln
+und sättigte sie mit dem Brot vom Himmel.
+<sup>41</sup>Er öffnete den Felsen, und Wasser sprudelte hervor.
+Es floss wie ein Strom durch die Trockenheit.
+<sup>42</sup>Denn er dachte an sein heiliges Wort
+und an Abraham, seinen Knecht.
+<sup>43</sup>Er führte sein Volk heraus mit Freude,
+seine Erwählten mit Jubel.
+<sup>44</sup>Er gab ihnen die Länder der Völker.
+Sie nahmen den Ertrag der Arbeit der Nationen in Besitz,
+<sup>45</sup>damit sie seine Ordnungen halten
+und seine Gesetze befolgen.
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Der Auszug aus Ägypten wird als fröhliches Fest beschrieben. Die Israeliten bekamen beim Auszug sogar Silber und Gold von den Ägyptern (2. Mose 12,35–36).
+> In der Wüste sorgte Gott für alles: Wolke und Feuer, Wachteln, Manna und Wasser aus dem Felsen.
+> Vers 42: Der Grund für alles: Gott hat sein Versprechen an Abraham nicht vergessen.
+> Vers 45: Das Ziel: Das Volk soll in dem geschenkten Land nach Gottes Weisung leben. Das Land ist ein Geschenk mit Verantwortung.
+> Die Landnahme wird aus der Sicht Israels erzählt. Sie ist kein Auftrag für heute, andere Völker zu vertreiben.
+
+## Psalm 106
+#### Wir haben gesündigt, aber Gott blieb treu
+
+---
+
+### Seine Güte bleibt für immer (Vers 1–5)
+
+<sup>1</sup>Lobt Jah!
+Dankt dem HERRN, denn er ist gut,
+denn seine Güte bleibt für immer.
+<sup>2</sup>Wer kann die mächtigen Taten des HERRN aussprechen
+oder all sein Lob ganz verkünden?
+<sup>3</sup>Glücklich sind die, die das Recht bewahren.
+Glücklich ist, wer jederzeit tut, was recht ist.
+<sup>4</sup>Denk an mich, HERR, mit der Gunst, die du deinem Volk erweist!
+Besuche mich mit deiner Rettung,
+<sup>5</sup>damit ich das Glück deiner Erwählten sehe,
+mich an der Freude deines Volkes freue
+und mich mit deinem Erbe rühme.
+
+> **Was bedeutet das?**
+> Psalm 106 ist das Gegenstück zu Psalm 105. Psalm 105 erzählt von Gottes Treue. Psalm 106 erzählt ehrlich von der Untreue des Volkes und davon, dass Gott trotzdem treu blieb.
+> Vers 1: „Denn er ist gut, denn seine Güte bleibt für immer“: einer der häufigsten Lobrufe der Bibel.
+
+---
+
+### Am Roten Meer (Vers 6–12)
+
+<sup>6</sup>Wir haben gesündigt mit unseren Vätern.
+Wir haben Unrecht getan. Wir haben gottlos gehandelt.
+<sup>7</sup>Unsere Väter in Ägypten verstanden deine Wunder nicht.
+Sie dachten nicht an die Fülle deiner Güte,
+sondern lehnten sich am Meer auf, am Roten Meer.
+<sup>8</sup>Doch er rettete sie um seines Namens willen,
+um seine große Macht bekannt zu machen.
+<sup>9</sup>Er schalt das Rote Meer, und es trocknete aus.
+So führte er sie durch die Tiefen wie durch eine Wüste.
+<sup>10</sup>Er rettete sie aus der Hand dessen, der sie hasste,
+und erlöste sie aus der Hand des Feindes.
+<sup>11</sup>Das Wasser bedeckte ihre Gegner.
+Nicht einer von ihnen blieb übrig.
+<sup>12</sup>Da glaubten sie seinen Worten.
+Sie sangen sein Lob.
+
+> **Was bedeutet das?**
+> Vers 6 ist ein ehrliches Bekenntnis: „Wir haben gesündigt mit unseren Vätern.“ Die heutige Generation stellt sich in eine Reihe mit den Vorfahren und gibt zu: Wir sind nicht besser.
+> Schon am Roten Meer, kurz nach dem Auszug, zweifelte das Volk (2. Mose 14,11–12). Trotzdem rettete Gott sie.
+> Vers 12: Nach der Rettung glaubten sie und sangen das Lied des Mose (2. Mose 15).
+
+---
+
+### Gier und Neid in der Wüste (Vers 13–18)
+
+<sup>13</sup>Sie vergaßen schnell seine Werke.
+Sie warteten nicht auf seinen Rat,
+<sup>14</sup>sondern gaben in der Wüste ihrer Gier nach
+und stellten Gott in der Einöde auf die Probe.
+<sup>15</sup>Er gab ihnen, was sie verlangten,
+aber er schickte Magerkeit in ihre Seele.
+<sup>16</sup>Sie wurden im Lager auch neidisch auf Mose
+und auf Aaron, den Heiligen des HERRN.
+<sup>17</sup>Die Erde öffnete sich und verschlang Datan
+und bedeckte die Rotte Abirams.
+<sup>18</sup>Ein Feuer entbrannte in ihrer Rotte.
+Die Flamme verbrannte die Gottlosen.
+
+> **Was bedeutet das?**
+> Vers 15: Gott gab ihnen Fleisch, wie sie verlangten (4. Mose 11). Aber ihre Seele wurde dabei „mager“, leer. Wer nur nach seinen Wünschen lebt, wird innerlich arm.
+> Vers 16–18: Datan, Abiram und Korach lehnten sich gegen Mose und Aaron auf (4. Mose 16).
+
+---
+
+### Das goldene Kalb (Vers 19–23)
+
+<sup>19</sup>Sie machten ein Kalb am Horeb
+und beteten ein gegossenes Bild an.
+<sup>20</sup>So tauschten sie ihre Herrlichkeit
+gegen das Bild eines Stieres, der Gras frisst.
+<sup>21</sup>Sie vergaßen Gott, ihren Retter,
+der große Dinge in Ägypten getan hatte,
+<sup>22</sup>Wunder im Land Hams
+und furchterregende Taten am Roten Meer.
+<sup>23</sup>Darum sagte er, er wolle sie vernichten,
+wäre nicht Mose, sein Erwählter, vor ihm in die Bresche getreten,
+um seinen Zorn abzuwenden, damit er sie nicht vernichtete.
+
+> **Was bedeutet das?**
+> Am Berg Horeb (Sinai) machten sie das goldene Kalb (2. Mose 32).
+> Vers 20: Wie absurd: Sie tauschten den lebendigen Gott, ihre „Herrlichkeit“, gegen das Bild eines Tieres, das Gras frisst!
+> Vers 23: Mose trat für das Volk ein, wie ein Soldat, der sich in eine Lücke in der Mauer stellt. Ein Bild für fürbittendes Gebet (2. Mose 32,11–14).
+
+---
+
+### Sie verachteten das schöne Land (Vers 24–31)
+
+<sup>24</sup>Ja, sie verachteten das liebliche Land.
+Sie glaubten seinem Wort nicht,
+<sup>25</sup>sondern murrten in ihren Zelten
+und hörten nicht auf die Stimme des HERRN.
+<sup>26</sup>Darum schwor er ihnen, dass er sie in der Wüste niederstrecken werde
+<sup>27</sup>und ihre Nachkommen unter die Völker werfen
+und sie in die Länder zerstreuen werde.
+<sup>28</sup>Sie hängten sich auch an den Baal von Peor
+und aßen die Opfer für die Toten.
+<sup>29</sup>So reizten sie ihn zum Zorn mit ihren Taten.
+Die Plage brach über sie herein.
+<sup>30</sup>Da stand Pinhas auf und vollzog das Gericht,
+und die Plage wurde aufgehalten.
+<sup>31</sup>Das wurde ihm als Gerechtigkeit angerechnet
+für alle kommenden Generationen.
+
+> **Was bedeutet das?**
+> Vers 24–27: Das Volk weigerte sich, ins verheißene Land zu ziehen, weil es Angst hatte (4. Mose 13–14). Darum musste es 40 Jahre in der Wüste bleiben.
+> Vers 28: Bei Baal-Peor beteten Israeliten einen fremden Gott an (4. Mose 25). „Opfer für die Toten“: Opfer für tote Götzen oder bei Totenkulten.
+> Vers 30–31: Pinhas, ein Priester, griff damals mit Gewalt ein (4. Mose 25,7–13). Die Bibel erzählt das als Gericht in der Zeit Moses. Es ist keine Erlaubnis für heute, im Namen Gottes Gewalt auszuüben. Jesus hat Gewalt im Namen Gottes ausdrücklich abgelehnt (Lukas 9,54–55; Matthäus 26,52).
+
+---
+
+### Bei Meriba (Vers 32–33)
+
+<sup>32</sup>Sie erzürnten ihn auch am Wasser von Meriba,
+sodass es Mose ihretwegen schlecht erging,
+<sup>33</sup>weil sie sich gegen seinen Geist auflehnten
+und er unbedacht mit seinen Lippen redete.
+
+> **Was bedeutet das?**
+> In Meriba wurde sogar Mose ungeduldig. Er schlug wütend auf den Felsen, statt zu ihm zu reden, wie Gott es befohlen hatte. Deshalb durfte Mose nicht ins verheißene Land (4. Mose 20,1–13).
+
+---
+
+### Im Land: Götzendienst und Kinderopfer (Vers 34–39)
+
+<sup>34</sup>Sie vernichteten die Völker nicht,
+wie der HERR es ihnen befohlen hatte,
+<sup>35</sup>sondern vermischten sich mit den Völkern
+und lernten ihre Werke.
+<sup>36</sup>Sie dienten ihren Götzen,
+die ihnen zur Falle wurden.
+<sup>37</sup>Ja, sie opferten ihre Söhne und ihre Töchter den Dämonen.
+<sup>38</sup>Sie vergossen unschuldiges Blut,
+das Blut ihrer Söhne und ihrer Töchter,
+die sie den Götzen Kanaans opferten.
+Das Land wurde mit Blut entweiht.
+<sup>39</sup>So machten sie sich unrein mit ihren Werken
+und waren untreu in ihren Taten.
+
+> **Was bedeutet das?**
+> Im Land Kanaan übernahmen die Israeliten die religiösen Bräuche der Nachbarvölker. Das Schrecklichste: Sie opferten sogar ihre eigenen Kinder (vgl. 2. Könige 16,3; Jeremia 7,31).
+> Die Bibel verurteilt das aufs Schärfste. Gott will keine Kinderopfer (vgl. 1. Mose 22).
+> Vers 34: Der Befehl, die Völker zu vernichten, gehört zur Darstellung der Landnahme in alter Zeit. Er gilt nicht für heute. Er hatte damals vor allem das Ziel, Israel vor diesen grausamen Kulten zu bewahren.
+> „Untreu“: wörtlich „sie trieben Hurerei“. Die Bibel vergleicht Götzendienst oft mit Ehebruch an Gott.
+
+---
+
+### Er dachte an seinen Bund (Vers 40–46)
+
+<sup>40</sup>Da entbrannte der Zorn des HERRN gegen sein Volk.
+Er verabscheute sein Erbe.
+<sup>41</sup>Er gab sie in die Hand der Völker.
+Die sie hassten, herrschten über sie.
+<sup>42</sup>Auch ihre Feinde bedrängten sie.
+Sie wurden unter ihre Hand gebeugt.
+<sup>43</sup>Viele Male rettete er sie,
+aber sie waren widerspenstig in ihren Plänen
+und kamen herunter durch ihre Schuld.
+<sup>44</sup>Doch er sah ihre Not an,
+als er ihr Schreien hörte.
+<sup>45</sup>Er dachte für sie an seinen Bund,
+und es tat ihm leid nach der Fülle seiner Güte.
+<sup>46</sup>Er ließ sie auch Erbarmen finden
+bei allen, die sie gefangen weggeführt hatten.
+
+> **Was bedeutet das?**
+> Hier wird kurz die Zeit der Richter und Könige zusammengefasst: Immer wieder wandte sich das Volk ab, wurde unterdrückt, schrie zu Gott und wurde gerettet (vgl. Richter 2,11–19).
+> Vers 44–45: Trotz allem: Gott hörte ihr Schreien und dachte an seinen Bund. Seine Güte war größer als ihre Schuld.
+> Vers 46: Selbst in der Gefangenschaft (im Exil) ließ Gott sie Mitleid finden.
+
+---
+
+### Sammle uns aus den Völkern (Vers 47–48)
+
+<sup>47</sup>Rette uns, HERR, unser Gott,
+und sammle uns aus den Völkern,
+damit wir deinem heiligen Namen danken
+und uns deines Lobes rühmen!
+<sup>48</sup>Gepriesen sei der HERR, der Gott Israels,
+von Ewigkeit zu Ewigkeit!
+Und das ganze Volk soll sagen: „Amen.“
+Lobt Jah!
+
+> **Was bedeutet das?**
+> Vers 47: Ein Gebet aus dem Exil: Sammle uns wieder, führe uns nach Hause!
+> Vers 48 ist der Abschluss des vierten Psalmenbuchs (Psalm 90–106). Hier wird das ganze Volk aufgefordert, mit „Amen“ zu antworten.
+> Ab Psalm 107 beginnt das fünfte und letzte Psalmenbuch.

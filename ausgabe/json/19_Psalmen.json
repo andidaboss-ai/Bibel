@@ -12128,6 +12128,844 @@
      "erklaerung": "Am Ende weitet sich das Lob immer mehr: von der eigenen Seele zu den Engeln, zu allen himmlischen Heeren, zu allen Geschöpfen überall.\nUnd dann kehrt der Psalm zum Anfang zurück: „Lobe den HERRN, meine Seele!“ Das große Lob des ganzen Universums beginnt und endet im eigenen Herzen."
     }
    ]
+  },
+  {
+   "kapitel": 104,
+   "titel": "Wie zahlreich sind deine Werke!",
+   "abschnitte": [
+    {
+     "ueberschrift": "In Licht gehüllt",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Lobe den HERRN, meine Seele!\nHERR, mein Gott, du bist sehr groß.\nDu bist mit Ehre und Majestät bekleidet.",
+       "englisch_web": "Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er hüllt sich in Licht wie in ein Gewand.\nEr spannt den Himmel aus wie einen Vorhang.",
+       "englisch_web": "He covers himself with light as with a garment. He stretches out the heavens like a curtain."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er legt die Balken seiner Gemächer auf die Wasser.\nEr macht die Wolken zu seinem Wagen.\nEr geht auf den Flügeln des Windes.",
+       "englisch_web": "He lays the beams of his rooms in the waters. He makes the clouds his chariot. He walks on the wings of the wind."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er macht Winde zu seinen Boten\nund Feuerflammen zu seinen Dienern.",
+       "englisch_web": "He makes his messengers winds, and his servants flames of fire."
+      }
+     ],
+     "erklaerung": "Psalm 104 ist ein großer Schöpfungspsalm. Er erzählt in Bildern, wie Gott die Welt geschaffen hat und erhält, ähnlich wie 1. Mose 1.\nEr beginnt und endet wie Psalm 103: „Lobe den HERRN, meine Seele!“ Psalm 103 lobt Gott für seine Vergebung, Psalm 104 für seine Schöpfung.\nGott ist in Licht gekleidet. Den Himmel spannt er aus wie ein Zelttuch. Wolken und Wind sind wie sein Fahrzeug und seine Diener.\nDer Hebräerbrief zitiert Vers 4 und bezieht ihn auf die Engel (Hebräer 1,7)."
+    },
+    {
+     "ueberschrift": "Die Wasser und die Berge",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Er hat die Erde auf ihre Fundamente gegründet,\ndamit sie für immer nicht wankt.",
+       "englisch_web": "He laid the foundations of the earth, that it should not be moved forever."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Du hast sie mit der Urflut bedeckt wie mit einem Mantel.\nDie Wasser standen über den Bergen.",
+       "englisch_web": "You covered it with the deep as with a cloak. The waters stood above the mountains."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Vor deinem Schelten flohen sie.\nVor der Stimme deines Donners eilten sie davon.",
+       "englisch_web": "At your rebuke they fled. At the voice of your thunder they hurried away."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Berge stiegen auf, die Täler sanken herab\nan den Ort, den du ihnen bestimmt hattest.",
+       "englisch_web": "The mountains rose, the valleys sank down, to the place which you had assigned to them."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du hast eine Grenze gesetzt, die sie nicht überschreiten dürfen,\ndamit sie nicht wieder die Erde bedecken.",
+       "englisch_web": "You have set a boundary that they may not pass over, that they don’t turn again to cover the earth."
+      }
+     ],
+     "erklaerung": "Am Anfang war alles mit Wasser bedeckt (vgl. 1. Mose 1,2.9). Auf Gottes Befehl zogen sich die Wasser zurück, und Land und Berge kamen hervor.\nVers 9: Gott hat dem Meer eine Grenze gesetzt (vgl. Hiob 38,8–11)."
+    },
+    {
+     "ueberschrift": "Quellen für alle Tiere",
+     "vers_von": 10,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Er lässt Quellen in die Täler fließen.\nSie laufen zwischen den Bergen.",
+       "englisch_web": "He sends springs into the valleys. They run among the mountains."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie tränken alle Tiere des Feldes.\nDie Wildesel stillen ihren Durst.",
+       "englisch_web": "They give drink to every animal of the field. The wild donkeys quench their thirst."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Die Vögel des Himmels nisten an ihnen.\nSie singen zwischen den Zweigen.",
+       "englisch_web": "The birds of the sky nest by them. They sing among the branches."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er bewässert die Berge aus seinen Gemächern.\nDie Erde wird satt von der Frucht deiner Werke.",
+       "englisch_web": "He waters the mountains from his rooms. The earth is filled with the fruit of your works."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er lässt Gras wachsen für das Vieh\nund Pflanzen, die der Mensch anbaut,\ndamit er Nahrung aus der Erde hervorbringt:",
+       "englisch_web": "He causes the grass to grow for the livestock, and plants for man to cultivate, that he may produce food out of the earth:"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wein, der das Herz des Menschen erfreut,\nÖl, das sein Gesicht glänzen lässt,\nund Brot, das das Herz des Menschen stärkt.",
+       "englisch_web": "wine that makes the heart of man glad, oil to make his face to shine, and bread that strengthens man’s heart."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die Bäume des HERRN sind gut bewässert,\ndie Zedern des Libanon, die er gepflanzt hat,",
+       "englisch_web": "Yahweh’s trees are well watered, the cedars of Lebanon, which he has planted,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "wo die Vögel ihre Nester bauen.\nDer Storch hat sein Zuhause in den Zypressen.",
+       "englisch_web": "where the birds make their nests. The stork makes its home in the cypress trees."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Die hohen Berge sind für die Steinböcke.\nDie Felsen sind eine Zuflucht für die Klippdachse.",
+       "englisch_web": "The high mountains are for the wild goats. The rocks are a refuge for the rock badgers."
+      }
+     ],
+     "erklaerung": "Ein wunderschönes Bild: Gott sorgt für alle Lebewesen. Jedes hat seinen Platz: die Wildesel an den Quellen, die Vögel in den Zweigen, der Storch in den Bäumen, die Steinböcke auf den Bergen.\nKlippdachse sind kleine Tiere, die in Felsspalten leben, etwa so groß wie Kaninchen.\nVers 15: Gott gibt nicht nur das Nötigste. Er schenkt auch Freude: Wein für das Herz, Öl für die Schönheit, Brot für die Kraft."
+    },
+    {
+     "ueberschrift": "Tag und Nacht",
+     "vers_von": 19,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Er hat den Mond gemacht für die Zeiten.\nDie Sonne weiß, wann sie untergehen soll.",
+       "englisch_web": "He appointed the moon for seasons. The sun knows when to set."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Du machst Finsternis, und es wird Nacht.\nDann streifen alle Tiere des Waldes umher.",
+       "englisch_web": "You make darkness, and it is night, in which all the animals of the forest prowl."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Die jungen Löwen brüllen nach Beute\nund fordern ihre Nahrung von Gott.",
+       "englisch_web": "The young lions roar after their prey, and seek their food from God."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Die Sonne geht auf, sie ziehen sich zurück\nund legen sich in ihre Höhlen.",
+       "englisch_web": "The sun rises, and they steal away, and lie down in their dens."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Der Mensch geht hinaus an seine Arbeit,\nan sein Werk bis zum Abend.",
+       "englisch_web": "Man goes out to his work, to his labor until the evening."
+      }
+     ],
+     "erklaerung": "Der Mond bestimmt den Kalender (Monate und Feste). Die Sonne bestimmt Tag und Nacht.\nEin schöner Rhythmus: In der Nacht jagen die Löwen, am Tag arbeitet der Mensch. Jeder hat seine Zeit.\nSelbst das Brüllen der Löwen ist wie ein Gebet: Sie „fordern ihre Nahrung von Gott“."
+    },
+    {
+     "ueberschrift": "Wie zahlreich sind deine Werke!",
+     "vers_von": 24,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "HERR, wie zahlreich sind deine Werke!\nMit Weisheit hast du sie alle gemacht.\nDie Erde ist voll von deinen Gütern.",
+       "englisch_web": "Yahweh, how many are your works! In wisdom, you have made them all. The earth is full of your riches."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Da ist das Meer, groß und weit.\nDarin wimmelt es ohne Zahl,\nkleine und große Tiere.",
+       "englisch_web": "There is the sea, great and wide, in which are innumerable living things, both small and large animals."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Dort fahren die Schiffe,\nund der Leviatan, den du geformt hast, um darin zu spielen.",
+       "englisch_web": "There the ships go, and leviathan, whom you formed to play there."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sie alle warten auf dich,\ndass du ihnen ihre Nahrung gibst zur rechten Zeit.",
+       "englisch_web": "These all wait for you, that you may give them their food in due season."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Du gibst ihnen, sie sammeln ein.\nDu öffnest deine Hand, sie werden satt mit Gutem.",
+       "englisch_web": "You give to them; they gather. You open your hand; they are satisfied with good."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Verbirgst du dein Angesicht, so erschrecken sie.\nNimmst du ihren Atem weg, so sterben sie und werden wieder zu Staub.",
+       "englisch_web": "You hide your face; they are troubled. You take away their breath; they die and return to the dust."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Sendest du deinen Geist aus, so werden sie geschaffen.\nDu erneuerst das Angesicht der Erde.",
+       "englisch_web": "You send out your Spirit and they are created. You renew the face of the ground."
+      }
+     ],
+     "erklaerung": "Vers 24 ist der Höhepunkt: „Wie zahlreich sind deine Werke! Mit Weisheit hast du sie alle gemacht.“ Die Vielfalt der Schöpfung zeigt Gottes Weisheit.\nVers 26: Der Leviatan, sonst ein Bild für das bedrohliche Chaos (Hiob 41), ist hier wie ein Haustier, das Gott zum Spielen gemacht hat. Manche denken an einen Wal.\nVers 27–30: Alles Leben hängt von Gott ab. Wenn er seinen Atem gibt, leben die Geschöpfe. Wenn er ihn nimmt, sterben sie.\nVers 30 wird an Pfingsten gebetet: „Sende aus deinen Geist, und das Angesicht der Erde wird neu.“"
+    },
+    {
+     "ueberschrift": "Ich will dem HERRN singen mein Leben lang",
+     "vers_von": 31,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 31,
+       "leichte_sprache": "Die Herrlichkeit des HERRN bleibe für immer!\nDer HERR freue sich an seinen Werken!",
+       "englisch_web": "Let Yahweh’s glory endure forever. Let Yahweh rejoice in his works."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Er schaut die Erde an, und sie bebt.\nEr berührt die Berge, und sie rauchen.",
+       "englisch_web": "He looks at the earth, and it trembles. He touches the mountains, and they smoke."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Ich will dem HERRN singen, solange ich lebe.\nIch will meinem Gott Lob singen, solange ich bin.",
+       "englisch_web": "I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Mein Nachsinnen möge ihm gefallen.\nIch will mich im HERRN freuen.",
+       "englisch_web": "Let my meditation be sweet to him. I will rejoice in Yahweh."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Die Sünder sollen von der Erde verschwinden,\nund die Gottlosen sollen nicht mehr sein.\nLobe den HERRN, meine Seele!\nLobt Jah!",
+       "englisch_web": "Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!"
+      }
+     ],
+     "erklaerung": "Vers 31: Gott freut sich selbst an seiner Schöpfung (vgl. 1. Mose 1,31: „Es war sehr gut“).\nVers 35: Ein überraschender Wunsch am Ende: Die Sünder sollen verschwinden. Denn sie verderben Gottes gute Schöpfung. Gemeint ist: Das Böse soll aus der schönen Welt verschwinden.\n„Lobt Jah!“: Auf Hebräisch „Halleluja!“. Hier kommt dieses Wort zum ersten Mal im Buch der Psalmen vor.\nPsalm 104 ist eine Einladung, die Natur mit offenen Augen zu sehen und darin Gottes Weisheit und Liebe zu entdecken. Er zeigt auch: Die Schöpfung gehört Gott. Wir sollen sie achten und bewahren."
+    }
+   ]
+  },
+  {
+   "kapitel": 105,
+   "titel": "Gott hält seinen Bund mit Abraham",
+   "abschnitte": [
+    {
+     "ueberschrift": "Denkt an seine Wunder",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Dankt dem HERRN! Ruft seinen Namen an!\nMacht seine Taten unter den Völkern bekannt!",
+       "englisch_web": "Give thanks to Yahweh! Call on his name! Make his doings known among the peoples."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Singt ihm, singt ihm Lob!\nErzählt von allen seinen Wundern!",
+       "englisch_web": "Sing to him, sing praises to him! Tell of all his marvelous works."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Rühmt euch seines heiligen Namens!\nDas Herz derer, die den HERRN suchen, soll sich freuen.",
+       "englisch_web": "Glory in his holy name. Let the heart of those who seek Yahweh rejoice."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sucht den HERRN und seine Stärke!\nSucht sein Angesicht immerzu!",
+       "englisch_web": "Seek Yahweh and his strength. Seek his face forever more."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denkt an seine Wunder, die er getan hat,\nan seine Zeichen und die Urteile seines Mundes,",
+       "englisch_web": "Remember his marvelous works that he has done: his wonders, and the judgments of his mouth,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "ihr Nachkommen Abrahams, seines Knechtes,\nihr Kinder Jakobs, seine Erwählten!",
+       "englisch_web": "you offspring of Abraham, his servant, you children of Jacob, his chosen ones."
+      }
+     ],
+     "erklaerung": "Psalm 105 erzählt die Geschichte Israels von Abraham bis zum Einzug ins verheißene Land. Im Unterschied zu Psalm 78 und 106 erzählt er nur von Gottes Treue, nicht von der Untreue des Volkes.\nVers 1–15 stehen fast gleich auch in 1. Chronik 16,8–22.\n„Sucht sein Angesicht immerzu“: Die Beziehung zu Gott soll nie aufhören."
+    },
+    {
+     "ueberschrift": "Der ewige Bund",
+     "vers_von": 7,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Er ist der HERR, unser Gott.\nSeine Urteile gelten auf der ganzen Erde.",
+       "englisch_web": "He is Yahweh, our God. His judgments are in all the earth."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er hat an seinen Bund für immer gedacht,\nan das Wort, das er für tausend Generationen geboten hat,",
+       "englisch_web": "He has remembered his covenant forever, the word which he commanded to a thousand generations,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "an den Bund, den er mit Abraham geschlossen hat,\nund an seinen Eid an Isaak.",
+       "englisch_web": "the covenant which he made with Abraham, his oath to Isaac,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er hat ihn Jakob als Ordnung bestätigt,\nIsrael als ewigen Bund,",
+       "englisch_web": "and confirmed it to Jacob for a statute; to Israel for an everlasting covenant,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "und gesagt: „Dir will ich das Land Kanaan geben\nals euren Erbanteil“,",
+       "englisch_web": "saying, “To you I will give the land of Canaan, the lot of your inheritance,”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "als sie nur wenige Menschen waren,\nja, sehr wenige, und Fremde darin.",
+       "englisch_web": "when they were but a few men in number, yes, very few, and foreigners in it."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie zogen von Volk zu Volk,\nvon einem Königreich zu einem anderen Volk.",
+       "englisch_web": "They went about from nation to nation, from one kingdom to another people."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er ließ niemanden zu, der ihnen Unrecht tat.\nJa, er wies Könige ihretwegen zurecht:",
+       "englisch_web": "He allowed no one to do them wrong. Yes, he reproved kings for their sakes,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "„Tastet meine Gesalbten nicht an!\nTut meinen Propheten nichts zuleide!“",
+       "englisch_web": "“Don’t touch my anointed ones! Do my prophets no harm!”"
+      }
+     ],
+     "erklaerung": "Gott hat Abraham, Isaak und Jakob versprochen, ihren Nachkommen das Land Kanaan zu geben (1. Mose 12,7; 26,3; 28,13).\nAls die Familie noch klein war und als Fremde umherzog, hat Gott sie beschützt. Er hat sogar Könige gewarnt, zum Beispiel den Pharao und Abimelech (1. Mose 12,17; 20,3).\n„Meine Gesalbten“ und „meine Propheten“: Hier sind Abraham, Isaak und Jakob gemeint. Abraham wird in 1. Mose 20,7 „Prophet“ genannt."
+    },
+    {
+     "ueberschrift": "Josef in Ägypten",
+     "vers_von": 16,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Er rief eine Hungersnot über das Land herbei.\nEr zerbrach allen Vorrat an Brot.",
+       "englisch_web": "He called for a famine on the land. He destroyed the food supplies."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er sandte einen Mann vor ihnen her:\nJosef wurde als Sklave verkauft.",
+       "englisch_web": "He sent a man before them. Joseph was sold for a slave."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sie quälten seine Füße mit Fesseln.\nSein Hals wurde in Eisen gelegt,",
+       "englisch_web": "They bruised his feet with shackles. His neck was locked in irons,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "bis die Zeit kam, in der sein Wort eintraf\nund das Wort des HERRN ihn als wahr erwies.",
+       "englisch_web": "until the time that his word happened, and Yahweh’s word proved him true."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Der König sandte hin und ließ ihn frei,\nder Herrscher über Völker ließ ihn frei.",
+       "englisch_web": "The king sent and freed him, even the ruler of peoples, and let him go free."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er setzte ihn zum Herrn über sein Haus\nund zum Verwalter über seinen ganzen Besitz,",
+       "englisch_web": "He made him lord of his house, and ruler of all of his possessions,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "damit er seine Fürsten nach seinem Willen unterweise\nund seine Ältesten Weisheit lehre.",
+       "englisch_web": "to discipline his princes at his pleasure, and to teach his elders wisdom."
+      }
+     ],
+     "erklaerung": "Hier wird kurz die Geschichte von Josef erzählt (1. Mose 37–45). Er wurde von seinen Brüdern als Sklave verkauft und kam ins Gefängnis.\nAber Gott hatte einen Plan: Josef wurde der zweitmächtigste Mann in Ägypten und rettete seine Familie vor dem Hunger.\nVers 19: „Bis sein Wort eintraf“: Josef hatte Träume gedeutet. Als sie sich erfüllten, wurde er befreit."
+    },
+    {
+     "ueberschrift": "Israel in Ägypten",
+     "vers_von": 23,
+     "vers_bis": 36,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Auch Israel kam nach Ägypten.\nJakob lebte als Fremder im Land Hams.",
+       "englisch_web": "Israel also came into Egypt. Jacob lived in the land of Ham."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Er ließ sein Volk sehr zahlreich werden\nund machte es stärker als seine Gegner.",
+       "englisch_web": "He increased his people greatly, and made them stronger than their adversaries."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Er wandte ihr Herz, sodass sie sein Volk hassten\nund sich gegen seine Knechte verschworen.",
+       "englisch_web": "He turned their heart to hate his people, to conspire against his servants."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Er sandte Mose, seinen Knecht,\nund Aaron, den er erwählt hatte.",
+       "englisch_web": "He sent Moses, his servant, and Aaron, whom he had chosen."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sie taten seine Zeichen unter ihnen\nund Wunder im Land Hams.",
+       "englisch_web": "They performed miracles among them, and wonders in the land of Ham."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Er sandte Finsternis und machte es dunkel.\nSie lehnten sich nicht gegen seine Worte auf.",
+       "englisch_web": "He sent darkness, and made it dark. They didn’t rebel against his words."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Er verwandelte ihre Wasser in Blut\nund tötete ihre Fische.",
+       "englisch_web": "He turned their waters into blood, and killed their fish."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Ihr Land wimmelte von Fröschen,\nsogar in den Gemächern ihrer Könige.",
+       "englisch_web": "Their land swarmed with frogs, even in the rooms of their kings."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Er sprach, und es kamen Fliegenschwärme\nund Mücken in ihr ganzes Gebiet.",
+       "englisch_web": "He spoke, and swarms of flies came, and lice in all their borders."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Er gab ihnen Hagel statt Regen,\nBlitze in ihrem Land.",
+       "englisch_web": "He gave them hail for rain, with lightning in their land."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Er schlug ihre Weinstöcke und ihre Feigenbäume\nund zerbrach die Bäume ihres Landes.",
+       "englisch_web": "He struck their vines and also their fig trees, and shattered the trees of their country."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Er sprach, und es kamen Heuschrecken\nund Grashüpfer ohne Zahl.",
+       "englisch_web": "He spoke, and the locusts came with the grasshoppers, without number."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Sie fraßen alle Pflanzen in ihrem Land\nund fraßen die Frucht ihres Bodens.",
+       "englisch_web": "They ate up every plant in their land, and ate up the fruit of their ground."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Er schlug auch alle Erstgeborenen in ihrem Land,\ndie Erstlinge all ihrer Kraft.",
+       "englisch_web": "He struck also all the firstborn in their land, the first fruits of all their manhood."
+      }
+     ],
+     "erklaerung": "Die Familie Jakobs (Israel) zog nach Ägypten und wurde dort zu einem großen Volk. Dann wurden sie von den Ägyptern unterdrückt (2. Mose 1).\n„Land Hams“: Ägypten (vgl. Psalm 78,51).\nVers 25: „Er wandte ihr Herz“: Die Bibel sieht auch hinter dem Hass der Ägypter Gottes Plan, ohne die Ägypter von ihrer Verantwortung freizusprechen.\nVers 28–36: Die Plagen werden aufgezählt, nicht in genau derselben Reihenfolge wie in 2. Mose 7–12. Die Finsternis steht hier am Anfang.\nVers 28: „Sie lehnten sich nicht gegen seine Worte auf“: Gemeint sind wohl Mose und Aaron, die Gottes Befehle treu ausführten."
+    },
+    {
+     "ueberschrift": "Er führte sie heraus mit Freude",
+     "vers_von": 37,
+     "vers_bis": 45,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 37,
+       "leichte_sprache": "Er führte sie heraus mit Silber und Gold.\nUnter seinen Stämmen war kein Schwacher.",
+       "englisch_web": "He brought them out with silver and gold. There was not one feeble person among his tribes."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Ägypten freute sich, als sie auszogen,\ndenn die Furcht vor ihnen war auf sie gefallen.",
+       "englisch_web": "Egypt was glad when they departed, for the fear of them had fallen on them."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Er breitete eine Wolke als Decke aus\nund Feuer, um die Nacht zu erhellen.",
+       "englisch_web": "He spread a cloud for a covering, fire to give light in the night."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Sie baten, und er brachte Wachteln\nund sättigte sie mit dem Brot vom Himmel.",
+       "englisch_web": "They asked, and he brought quails, and satisfied them with the bread of the sky."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Er öffnete den Felsen, und Wasser sprudelte hervor.\nEs floss wie ein Strom durch die Trockenheit.",
+       "englisch_web": "He opened the rock, and waters gushed out. They ran as a river in the dry places."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Denn er dachte an sein heiliges Wort\nund an Abraham, seinen Knecht.",
+       "englisch_web": "For he remembered his holy word, and Abraham, his servant."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Er führte sein Volk heraus mit Freude,\nseine Erwählten mit Jubel.",
+       "englisch_web": "He brought his people out with joy, his chosen with singing."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Er gab ihnen die Länder der Völker.\nSie nahmen den Ertrag der Arbeit der Nationen in Besitz,",
+       "englisch_web": "He gave them the lands of the nations. They took the labor of the peoples in possession,"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "damit sie seine Ordnungen halten\nund seine Gesetze befolgen.\nLobt Jah!",
+       "englisch_web": "that they might keep his statutes, and observe his laws. Praise Yah!"
+      }
+     ],
+     "erklaerung": "Der Auszug aus Ägypten wird als fröhliches Fest beschrieben. Die Israeliten bekamen beim Auszug sogar Silber und Gold von den Ägyptern (2. Mose 12,35–36).\nIn der Wüste sorgte Gott für alles: Wolke und Feuer, Wachteln, Manna und Wasser aus dem Felsen.\nVers 42: Der Grund für alles: Gott hat sein Versprechen an Abraham nicht vergessen.\nVers 45: Das Ziel: Das Volk soll in dem geschenkten Land nach Gottes Weisung leben. Das Land ist ein Geschenk mit Verantwortung.\nDie Landnahme wird aus der Sicht Israels erzählt. Sie ist kein Auftrag für heute, andere Völker zu vertreiben."
+    }
+   ]
+  },
+  {
+   "kapitel": 106,
+   "titel": "Wir haben gesündigt, aber Gott blieb treu",
+   "abschnitte": [
+    {
+     "ueberschrift": "Seine Güte bleibt für immer",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Lobt Jah!\nDankt dem HERRN, denn er ist gut,\ndenn seine Güte bleibt für immer.",
+       "englisch_web": "Praise Yahweh! Give thanks to Yahweh, for he is good, for his loving kindness endures forever."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wer kann die mächtigen Taten des HERRN aussprechen\noder all sein Lob ganz verkünden?",
+       "englisch_web": "Who can utter the mighty acts of Yahweh, or fully declare all his praise?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Glücklich sind die, die das Recht bewahren.\nGlücklich ist, wer jederzeit tut, was recht ist.",
+       "englisch_web": "Blessed are those who keep justice. Blessed is one who does what is right at all times."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denk an mich, HERR, mit der Gunst, die du deinem Volk erweist!\nBesuche mich mit deiner Rettung,",
+       "englisch_web": "Remember me, Yahweh, with the favor that you show to your people. Visit me with your salvation,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "damit ich das Glück deiner Erwählten sehe,\nmich an der Freude deines Volkes freue\nund mich mit deinem Erbe rühme.",
+       "englisch_web": "that I may see the prosperity of your chosen, that I may rejoice in the gladness of your nation, that I may glory with your inheritance."
+      }
+     ],
+     "erklaerung": "Psalm 106 ist das Gegenstück zu Psalm 105. Psalm 105 erzählt von Gottes Treue. Psalm 106 erzählt ehrlich von der Untreue des Volkes und davon, dass Gott trotzdem treu blieb.\nVers 1: „Denn er ist gut, denn seine Güte bleibt für immer“: einer der häufigsten Lobrufe der Bibel."
+    },
+    {
+     "ueberschrift": "Am Roten Meer",
+     "vers_von": 6,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Wir haben gesündigt mit unseren Vätern.\nWir haben Unrecht getan. Wir haben gottlos gehandelt.",
+       "englisch_web": "We have sinned with our fathers. We have committed iniquity. We have done wickedly."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Unsere Väter in Ägypten verstanden deine Wunder nicht.\nSie dachten nicht an die Fülle deiner Güte,\nsondern lehnten sich am Meer auf, am Roten Meer.",
+       "englisch_web": "Our fathers didn’t understand your wonders in Egypt. They didn’t remember the multitude of your loving kindnesses, but were rebellious at the sea, even at the Red Sea."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Doch er rettete sie um seines Namens willen,\num seine große Macht bekannt zu machen.",
+       "englisch_web": "Nevertheless he saved them for his name’s sake, that he might make his mighty power known."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er schalt das Rote Meer, und es trocknete aus.\nSo führte er sie durch die Tiefen wie durch eine Wüste.",
+       "englisch_web": "He rebuked the Red Sea also, and it was dried up; so he led them through the depths, as through a desert."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er rettete sie aus der Hand dessen, der sie hasste,\nund erlöste sie aus der Hand des Feindes.",
+       "englisch_web": "He saved them from the hand of him who hated them, and redeemed them from the hand of the enemy."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Das Wasser bedeckte ihre Gegner.\nNicht einer von ihnen blieb übrig.",
+       "englisch_web": "The waters covered their adversaries. There was not one of them left."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da glaubten sie seinen Worten.\nSie sangen sein Lob.",
+       "englisch_web": "Then they believed his words. They sang his praise."
+      }
+     ],
+     "erklaerung": "Vers 6 ist ein ehrliches Bekenntnis: „Wir haben gesündigt mit unseren Vätern.“ Die heutige Generation stellt sich in eine Reihe mit den Vorfahren und gibt zu: Wir sind nicht besser.\nSchon am Roten Meer, kurz nach dem Auszug, zweifelte das Volk (2. Mose 14,11–12). Trotzdem rettete Gott sie.\nVers 12: Nach der Rettung glaubten sie und sangen das Lied des Mose (2. Mose 15)."
+    },
+    {
+     "ueberschrift": "Gier und Neid in der Wüste",
+     "vers_von": 13,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie vergaßen schnell seine Werke.\nSie warteten nicht auf seinen Rat,",
+       "englisch_web": "They soon forgot his works. They didn’t wait for his counsel,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "sondern gaben in der Wüste ihrer Gier nach\nund stellten Gott in der Einöde auf die Probe.",
+       "englisch_web": "but gave in to craving in the desert, and tested God in the wasteland."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er gab ihnen, was sie verlangten,\naber er schickte Magerkeit in ihre Seele.",
+       "englisch_web": "He gave them their request, but sent leanness into their soul."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sie wurden im Lager auch neidisch auf Mose\nund auf Aaron, den Heiligen des HERRN.",
+       "englisch_web": "They envied Moses also in the camp, and Aaron, Yahweh’s saint."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Erde öffnete sich und verschlang Datan\nund bedeckte die Rotte Abirams.",
+       "englisch_web": "The earth opened and swallowed up Dathan, and covered the company of Abiram."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Ein Feuer entbrannte in ihrer Rotte.\nDie Flamme verbrannte die Gottlosen.",
+       "englisch_web": "A fire was kindled in their company. The flame burned up the wicked."
+      }
+     ],
+     "erklaerung": "Vers 15: Gott gab ihnen Fleisch, wie sie verlangten (4. Mose 11). Aber ihre Seele wurde dabei „mager“, leer. Wer nur nach seinen Wünschen lebt, wird innerlich arm.\nVers 16–18: Datan, Abiram und Korach lehnten sich gegen Mose und Aaron auf (4. Mose 16)."
+    },
+    {
+     "ueberschrift": "Das goldene Kalb",
+     "vers_von": 19,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Sie machten ein Kalb am Horeb\nund beteten ein gegossenes Bild an.",
+       "englisch_web": "They made a calf in Horeb, and worshiped a molten image."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "So tauschten sie ihre Herrlichkeit\ngegen das Bild eines Stieres, der Gras frisst.",
+       "englisch_web": "Thus they exchanged their glory for an image of a bull that eats grass."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie vergaßen Gott, ihren Retter,\nder große Dinge in Ägypten getan hatte,",
+       "englisch_web": "They forgot God, their Savior, who had done great things in Egypt,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Wunder im Land Hams\nund furchterregende Taten am Roten Meer.",
+       "englisch_web": "wondrous works in the land of Ham, and awesome things by the Red Sea."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Darum sagte er, er wolle sie vernichten,\nwäre nicht Mose, sein Erwählter, vor ihm in die Bresche getreten,\num seinen Zorn abzuwenden, damit er sie nicht vernichtete.",
+       "englisch_web": "Therefore he said that he would destroy them, had Moses, his chosen, not stood before him in the breach, to turn away his wrath, so that he wouldn’t destroy them."
+      }
+     ],
+     "erklaerung": "Am Berg Horeb (Sinai) machten sie das goldene Kalb (2. Mose 32).\nVers 20: Wie absurd: Sie tauschten den lebendigen Gott, ihre „Herrlichkeit“, gegen das Bild eines Tieres, das Gras frisst!\nVers 23: Mose trat für das Volk ein, wie ein Soldat, der sich in eine Lücke in der Mauer stellt. Ein Bild für fürbittendes Gebet (2. Mose 32,11–14)."
+    },
+    {
+     "ueberschrift": "Sie verachteten das schöne Land",
+     "vers_von": 24,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Ja, sie verachteten das liebliche Land.\nSie glaubten seinem Wort nicht,",
+       "englisch_web": "Yes, they despised the pleasant land. They didn’t believe his word,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "sondern murrten in ihren Zelten\nund hörten nicht auf die Stimme des HERRN.",
+       "englisch_web": "but murmured in their tents, and didn’t listen to Yahweh’s voice."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Darum schwor er ihnen, dass er sie in der Wüste niederstrecken werde",
+       "englisch_web": "Therefore he swore to them that he would overthrow them in the wilderness,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "und ihre Nachkommen unter die Völker werfen\nund sie in die Länder zerstreuen werde.",
+       "englisch_web": "that he would overthrow their offspring among the nations, and scatter them in the lands."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Sie hängten sich auch an den Baal von Peor\nund aßen die Opfer für die Toten.",
+       "englisch_web": "They joined themselves also to Baal Peor, and ate the sacrifices of the dead."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "So reizten sie ihn zum Zorn mit ihren Taten.\nDie Plage brach über sie herein.",
+       "englisch_web": "Thus they provoked him to anger with their deeds. The plague broke in on them."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Da stand Pinhas auf und vollzog das Gericht,\nund die Plage wurde aufgehalten.",
+       "englisch_web": "Then Phinehas stood up and executed judgment, so the plague was stopped."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Das wurde ihm als Gerechtigkeit angerechnet\nfür alle kommenden Generationen.",
+       "englisch_web": "That was credited to him for righteousness, for all generations to come."
+      }
+     ],
+     "erklaerung": "Vers 24–27: Das Volk weigerte sich, ins verheißene Land zu ziehen, weil es Angst hatte (4. Mose 13–14). Darum musste es 40 Jahre in der Wüste bleiben.\nVers 28: Bei Baal-Peor beteten Israeliten einen fremden Gott an (4. Mose 25). „Opfer für die Toten“: Opfer für tote Götzen oder bei Totenkulten.\nVers 30–31: Pinhas, ein Priester, griff damals mit Gewalt ein (4. Mose 25,7–13). Die Bibel erzählt das als Gericht in der Zeit Moses. Es ist keine Erlaubnis für heute, im Namen Gottes Gewalt auszuüben. Jesus hat Gewalt im Namen Gottes ausdrücklich abgelehnt (Lukas 9,54–55; Matthäus 26,52)."
+    },
+    {
+     "ueberschrift": "Bei Meriba",
+     "vers_von": 32,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 32,
+       "leichte_sprache": "Sie erzürnten ihn auch am Wasser von Meriba,\nsodass es Mose ihretwegen schlecht erging,",
+       "englisch_web": "They angered him also at the waters of Meribah, so that Moses was troubled for their sakes;"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "weil sie sich gegen seinen Geist auflehnten\nund er unbedacht mit seinen Lippen redete.",
+       "englisch_web": "because they were rebellious against his spirit, he spoke rashly with his lips."
+      }
+     ],
+     "erklaerung": "In Meriba wurde sogar Mose ungeduldig. Er schlug wütend auf den Felsen, statt zu ihm zu reden, wie Gott es befohlen hatte. Deshalb durfte Mose nicht ins verheißene Land (4. Mose 20,1–13)."
+    },
+    {
+     "ueberschrift": "Im Land: Götzendienst und Kinderopfer",
+     "vers_von": 34,
+     "vers_bis": 39,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 34,
+       "leichte_sprache": "Sie vernichteten die Völker nicht,\nwie der HERR es ihnen befohlen hatte,",
+       "englisch_web": "They didn’t destroy the peoples, as Yahweh commanded them,"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "sondern vermischten sich mit den Völkern\nund lernten ihre Werke.",
+       "englisch_web": "but mixed themselves with the nations, and learned their works."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Sie dienten ihren Götzen,\ndie ihnen zur Falle wurden.",
+       "englisch_web": "They served their idols, which became a snare to them."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Ja, sie opferten ihre Söhne und ihre Töchter den Dämonen.",
+       "englisch_web": "Yes, they sacrificed their sons and their daughters to demons."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Sie vergossen unschuldiges Blut,\ndas Blut ihrer Söhne und ihrer Töchter,\ndie sie den Götzen Kanaans opferten.\nDas Land wurde mit Blut entweiht.",
+       "englisch_web": "They shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed to the idols of Canaan. The land was polluted with blood."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "So machten sie sich unrein mit ihren Werken\nund waren untreu in ihren Taten.",
+       "englisch_web": "Thus they were defiled with their works, and prostituted themselves in their deeds."
+      }
+     ],
+     "erklaerung": "Im Land Kanaan übernahmen die Israeliten die religiösen Bräuche der Nachbarvölker. Das Schrecklichste: Sie opferten sogar ihre eigenen Kinder (vgl. 2. Könige 16,3; Jeremia 7,31).\nDie Bibel verurteilt das aufs Schärfste. Gott will keine Kinderopfer (vgl. 1. Mose 22).\nVers 34: Der Befehl, die Völker zu vernichten, gehört zur Darstellung der Landnahme in alter Zeit. Er gilt nicht für heute. Er hatte damals vor allem das Ziel, Israel vor diesen grausamen Kulten zu bewahren.\n„Untreu“: wörtlich „sie trieben Hurerei“. Die Bibel vergleicht Götzendienst oft mit Ehebruch an Gott."
+    },
+    {
+     "ueberschrift": "Er dachte an seinen Bund",
+     "vers_von": 40,
+     "vers_bis": 46,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 40,
+       "leichte_sprache": "Da entbrannte der Zorn des HERRN gegen sein Volk.\nEr verabscheute sein Erbe.",
+       "englisch_web": "Therefore Yahweh burned with anger against his people. He abhorred his inheritance."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Er gab sie in die Hand der Völker.\nDie sie hassten, herrschten über sie.",
+       "englisch_web": "He gave them into the hand of the nations. Those who hated them ruled over them."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Auch ihre Feinde bedrängten sie.\nSie wurden unter ihre Hand gebeugt.",
+       "englisch_web": "Their enemies also oppressed them. They were brought into subjection under their hand."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Viele Male rettete er sie,\naber sie waren widerspenstig in ihren Plänen\nund kamen herunter durch ihre Schuld.",
+       "englisch_web": "He rescued them many times, but they were rebellious in their counsel, and were brought low in their iniquity."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Doch er sah ihre Not an,\nals er ihr Schreien hörte.",
+       "englisch_web": "Nevertheless he regarded their distress, when he heard their cry."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Er dachte für sie an seinen Bund,\nund es tat ihm leid nach der Fülle seiner Güte.",
+       "englisch_web": "He remembered for them his covenant, and repented according to the multitude of his loving kindnesses."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Er ließ sie auch Erbarmen finden\nbei allen, die sie gefangen weggeführt hatten.",
+       "englisch_web": "He made them also to be pitied by all those who carried them captive."
+      }
+     ],
+     "erklaerung": "Hier wird kurz die Zeit der Richter und Könige zusammengefasst: Immer wieder wandte sich das Volk ab, wurde unterdrückt, schrie zu Gott und wurde gerettet (vgl. Richter 2,11–19).\nVers 44–45: Trotz allem: Gott hörte ihr Schreien und dachte an seinen Bund. Seine Güte war größer als ihre Schuld.\nVers 46: Selbst in der Gefangenschaft (im Exil) ließ Gott sie Mitleid finden."
+    },
+    {
+     "ueberschrift": "Sammle uns aus den Völkern",
+     "vers_von": 47,
+     "vers_bis": 48,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 47,
+       "leichte_sprache": "Rette uns, HERR, unser Gott,\nund sammle uns aus den Völkern,\ndamit wir deinem heiligen Namen danken\nund uns deines Lobes rühmen!",
+       "englisch_web": "Save us, Yahweh, our God, gather us from among the nations, to give thanks to your holy name, to triumph in your praise!"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Gepriesen sei der HERR, der Gott Israels,\nvon Ewigkeit zu Ewigkeit!\nUnd das ganze Volk soll sagen: „Amen.“\nLobt Jah!",
+       "englisch_web": "Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!"
+      }
+     ],
+     "erklaerung": "Vers 47: Ein Gebet aus dem Exil: Sammle uns wieder, führe uns nach Hause!\nVers 48 ist der Abschluss des vierten Psalmenbuchs (Psalm 90–106). Hier wird das ganze Volk aufgefordert, mit „Amen“ zu antworten.\nAb Psalm 107 beginnt das fünfte und letzte Psalmenbuch."
+    }
+   ]
   }
  ]
 }
