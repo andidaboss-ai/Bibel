@@ -84248,3 +84248,398 @@ Sie wird verwüstet auf der Erde sitzen.
 > Vers 24: Wenn der Krieg kommt, verlieren sie alles. Statt Parfüm Gestank, statt Schmuck ein Strick. „Brandmal“: Kriegsgefangene wurden damals gebrandmarkt.
 > Wichtig: Die Kritik richtet sich nicht gegen Frauen oder gegen Schönheit, sondern gegen Hochmut und Luxus auf Kosten der Armen. Jesaja kritisiert genauso die Männer (Vers 14–15).
 > Vers 25–26: Der Krieg wird alle treffen. Jerusalem sitzt am Ende trauernd am Boden wie eine Witwe.
+
+## Jesaja – Kapitel 4
+#### Der Spross des HERRN
+
+---
+
+### Sieben Frauen und ein Mann (Vers 1)
+
+<sup>1</sup>Sieben Frauen werden an jenem Tag einen einzigen Mann ergreifen und sagen:
+„Wir wollen unser eigenes Brot essen
+und unsere eigene Kleidung tragen.
+Lass uns nur nach deinem Namen genannt werden.
+Nimm unsere Schande weg!“
+
+> **Was bedeutet das?**
+> Dieser Vers gehört noch zum Ende von Kapitel 3. Nach dem Krieg sind so viele Männer gefallen, dass sieben Frauen um einen Mann bitten.
+> Damals galt es als Schande, als Frau unverheiratet und kinderlos zu bleiben. Frauen waren ohne Mann oft schutzlos und ohne Rechte. Das zeigt, wie grausam der Krieg ist und wie schwer die Lage der Frauen damals war.
+> Heute wissen wir: Der Wert einer Frau hängt nicht davon ab, ob sie verheiratet ist.
+
+---
+
+### Neues Leben nach dem Gericht (Vers 2–6)
+
+<sup>2</sup>An jenem Tag wird der Spross des HERRN schön und herrlich sein,
+und die Frucht des Landes wird die Pracht und die Zierde
+für die Geretteten Israels sein.
+<sup>3</sup>Es wird geschehen:
+Wer in Zion übrig bleibt und wer in Jerusalem verbleibt,
+der wird heilig genannt werden,
+jeder, der in Jerusalem unter den Lebenden aufgeschrieben ist,
+<sup>4</sup>wenn der Herr den Schmutz der Töchter Zions abgewaschen hat
+und die Blutschuld Jerusalems aus ihrer Mitte weggespült hat
+durch den Geist des Gerichts und durch den Geist des Feuers.
+<sup>5</sup>Der HERR wird über der ganzen Wohnstätte des Berges Zion
+und über seinen Versammlungen
+eine Wolke und Rauch am Tag schaffen
+und den Glanz eines flammenden Feuers in der Nacht,
+denn über aller Herrlichkeit wird ein Schutzdach sein.
+<sup>6</sup>Es wird eine Hütte geben als Schatten am Tag vor der Hitze
+und als Zuflucht und Schutz vor Sturm und Regen.
+
+> **Was bedeutet das?**
+> Nach dem Gericht kommt Hoffnung. Gott macht einen neuen Anfang.
+> Vers 2: „Der Spross des HERRN“: ein junger Trieb, der aus dem Boden wächst. Ein Bild für neues Leben. Später wird der „Spross“ zum Namen für den kommenden König aus der Familie Davids (Jeremia 23,5; Sacharja 3,8). Christen sehen darin einen Hinweis auf Christus.
+> Vers 3: Die Übriggebliebenen werden „heilig“ genannt. Sie stehen in Gottes „Buch des Lebens“.
+> Vers 5: Wolke am Tag und Feuer in der Nacht erinnern an den Auszug aus Ägypten, als Gott sein Volk so durch die Wüste führte (2. Mose 13,21). Gott wird Jerusalem wieder so beschützen.
+> Vers 6: Gott ist wie ein Schutzdach gegen Hitze, Sturm und Regen.
+
+## Jesaja – Kapitel 5
+#### Das Lied vom Weinberg
+
+---
+
+### Das Weinberglied (Vers 1–7)
+
+<sup>1</sup>Ich will singen für meinen Freund,
+ein Lied meines Freundes über seinen Weinberg.
+Mein Freund hatte einen Weinberg
+auf einem sehr fruchtbaren Hügel.
+<sup>2</sup>Er grub ihn um, entfernte die Steine,
+bepflanzte ihn mit den besten Reben,
+baute einen Turm in seiner Mitte
+und hieb auch eine Kelter darin aus.
+Er erwartete, dass er Trauben bringen würde,
+aber er brachte saure Beeren.
+<sup>3</sup>„Nun, ihr Bewohner Jerusalems und ihr Männer von Juda,
+urteilt doch zwischen mir und meinem Weinberg!
+<sup>4</sup>Was hätte man noch mehr an meinem Weinberg tun können,
+das ich nicht an ihm getan habe?
+Warum brachte er saure Beeren,
+als ich erwartete, dass er Trauben bringen würde?
+<sup>5</sup>Nun will ich euch sagen, was ich mit meinem Weinberg tun werde:
+Ich werde seine Hecke wegnehmen, und er wird abgefressen werden.
+Ich werde seine Mauer einreißen, und er wird zertrampelt werden.
+<sup>6</sup>Ich werde ihn zur Wüste machen.
+Er wird nicht beschnitten und nicht gehackt werden,
+sondern Dornen und Disteln werden darauf wachsen.
+Ich werde auch den Wolken befehlen,
+dass sie keinen Regen auf ihn regnen lassen.“
+<sup>7</sup>Denn der Weinberg des HERRN der Heere ist das Haus Israel,
+und die Männer von Juda sind seine liebste Pflanzung.
+Er wartete auf Recht, aber siehe: Rechtsbruch.
+Auf Gerechtigkeit, aber siehe: ein Schrei der Not.
+
+> **Was bedeutet das?**
+> Jesaja beginnt wie ein Sänger auf einem Fest: Ich singe euch ein Liebeslied über den Weinberg meines Freundes. Die Zuhörer denken zuerst an eine Liebesgeschichte.
+> Der Freund hat alles für seinen Weinberg getan: umgegraben, Steine entfernt, die besten Reben gepflanzt, einen Wachturm gebaut. Aber es wachsen nur saure, wilde Beeren.
+> Vers 3–4: Dann fragt er die Zuhörer: Was hätte ich noch tun sollen? Urteilt selbst!
+> Vers 7: Die Überraschung: Der Weinberg ist Israel, der Freund ist Gott. Gott hat alles für sein Volk getan. Er wartete auf Gerechtigkeit, aber er fand Unrecht.
+> Im Hebräischen ein starkes Wortspiel: Er wartete auf „Mischpat“ (Recht), aber da war „Mispach“ (Rechtsbruch). Auf „Zedaka“ (Gerechtigkeit), aber da war „Ze'aka“ (Hilfeschrei).
+> Jesus erzählt ein ähnliches Gleichnis von den bösen Weingärtnern (Markus 12,1–12).
+
+---
+
+### Wehe den Gierigen und den Trinkern (Vers 8–17)
+
+<sup>8</sup>Wehe denen, die Haus an Haus reihen
+und Feld an Feld fügen,
+bis kein Platz mehr ist
+und ihr allein mitten im Land wohnt!
+<sup>9</sup>In meinen Ohren spricht der HERR der Heere:
+„Gewiss, viele Häuser werden verwüstet werden,
+ja, große und schöne, ohne Bewohner.
+<sup>10</sup>Denn zehn Morgen Weinberg werden nur ein Bat bringen,
+und ein Homer Saatgut wird nur ein Efa bringen.“
+<sup>11</sup>Wehe denen, die früh am Morgen aufstehen,
+um starkem Getränk nachzulaufen,
+die bis spät in die Nacht aufbleiben,
+bis der Wein sie erhitzt!
+<sup>12</sup>Harfe, Leier, Tamburin und Flöte
+und Wein sind bei ihren Festen,
+aber auf das Werk des HERRN achten sie nicht,
+und das Tun seiner Hände sehen sie nicht.
+<sup>13</sup>Darum geht mein Volk in die Gefangenschaft,
+weil es keine Erkenntnis hat.
+Seine Vornehmen hungern,
+und seine Menge ist ausgedörrt vor Durst.
+<sup>14</sup>Darum hat das Totenreich seinen Rachen aufgesperrt
+und sein Maul ohne Maß geöffnet.
+Und ihre Pracht, ihre Menge, ihr Prunk
+und wer unter ihnen fröhlich ist, fährt dort hinab.
+<sup>15</sup>So wird der Mensch erniedrigt, die Menschheit gedemütigt,
+und die Augen der Hochmütigen werden gesenkt.
+<sup>16</sup>Aber der HERR der Heere ist erhaben im Gericht,
+und Gott, der Heilige, erweist sich als heilig in Gerechtigkeit.
+<sup>17</sup>Dann werden die Lämmer weiden wie auf ihrer Weide,
+und Fremde werden in den Trümmern der Reichen essen.
+
+> **Was bedeutet das?**
+> Jetzt folgen sechs „Wehe“-Rufe gegen das Unrecht im Volk.
+> Vers 8: Das erste Wehe gilt den Reichen, die immer mehr Häuser und Land aufkaufen, bis die kleinen Bauern nichts mehr haben. Am Ende wohnen sie allein in ihren Palästen. Das ist eine Kritik an Gier und an der Verdrängung der Armen, die bis heute aktuell ist.
+> Vers 10: Die Ernte wird winzig sein. Ein „Bat“ ist etwa 22 Liter, ein „Homer“ etwa 220 Liter, ein „Efa“ nur ein Zehntel davon. Man erntet weniger, als man gesät hat.
+> Vers 11–12: Das zweite Wehe gilt denen, die von morgens bis abends feiern und trinken und Gott dabei vergessen.
+> Vers 16: Gott zeigt seine Heiligkeit dadurch, dass er gerecht ist.
+
+---
+
+### Wer Böses gut nennt (Vers 18–25)
+
+<sup>18</sup>Wehe denen, die die Schuld mit Stricken der Lüge herbeiziehen
+und die Sünde wie mit Wagenseilen,
+<sup>19</sup>die sagen: „Er soll sich beeilen,
+er soll sein Werk beschleunigen, damit wir es sehen!
+Der Plan des Heiligen Israels soll näherkommen und eintreffen,
+damit wir ihn kennenlernen!“
+<sup>20</sup>Wehe denen, die Böses gut nennen und Gutes böse,
+die Finsternis zu Licht machen und Licht zu Finsternis,
+die Bitteres zu Süßem machen und Süßes zu Bitterem!
+<sup>21</sup>Wehe denen, die in ihren eigenen Augen weise sind
+und sich selbst für klug halten!
+<sup>22</sup>Wehe denen, die Helden im Weintrinken sind
+und tapfere Männer im Mischen von starkem Getränk,
+<sup>23</sup>die den Schuldigen für Bestechungsgeld freisprechen,
+dem Unschuldigen aber sein Recht verweigern!
+<sup>24</sup>Darum, wie die Feuerzunge die Stoppeln frisst
+und das trockene Gras in der Flamme zusammensinkt,
+so wird ihre Wurzel wie Fäulnis sein,
+und ihre Blüte wird wie Staub aufsteigen,
+weil sie die Weisung des HERRN der Heere verworfen
+und das Wort des Heiligen Israels verachtet haben.
+<sup>25</sup>Darum entbrennt der Zorn des HERRN gegen sein Volk,
+und er hat seine Hand gegen sie ausgestreckt und sie geschlagen.
+Die Berge beben,
+und ihre Leichen liegen wie Unrat mitten auf den Straßen.
+Bei alledem hat sich sein Zorn nicht abgewendet,
+sondern seine Hand ist noch ausgestreckt.
+
+> **Was bedeutet das?**
+> Vers 18–19: Wer Böses tut, zieht die Schuld hinter sich her wie einen schweren Wagen. Und er spottet: „Soll Gott doch kommen, wenn es ihn gibt!“
+> Vers 20 ist einer der bekanntesten Sätze des Buches: Wehe denen, die Böses gut nennen und Gutes böse! Wenn eine Gesellschaft die Werte umdreht und Unrecht als Recht bezeichnet, geht sie zugrunde. Das hat man in Diktaturen immer wieder erlebt.
+> Vers 22–23: Sie sind „Helden“, aber nur beim Trinken. Und vor Gericht lassen sie sich bestechen.
+> Vers 25: „Seine Hand ist noch ausgestreckt“: Diese Formel kommt mehrmals bei Jesaja vor (Kapitel 9 und 10). Das Gericht ist noch nicht vorbei. Es sind schreckliche Bilder vom Krieg. Die Propheten deuten solches Unglück als Folge der Abkehr von Gott. Das bedeutet nicht, dass jedes Unglück heute eine Strafe Gottes ist.
+
+---
+
+### Ein Volk aus der Ferne (Vers 26–30)
+
+<sup>26</sup>Er wird ein Feldzeichen aufrichten für die Völker in der Ferne,
+und er wird sie herbeipfeifen vom Ende der Erde.
+Siehe, sie werden eilig und schnell kommen.
+<sup>27</sup>Keiner unter ihnen ist müde oder stolpert.
+Keiner schlummert oder schläft.
+Der Gürtel um ihre Hüften löst sich nicht,
+und der Riemen ihrer Sandalen reißt nicht.
+<sup>28</sup>Ihre Pfeile sind scharf
+und alle ihre Bogen gespannt.
+Die Hufe ihrer Pferde sind wie Feuerstein,
+und ihre Räder wie ein Wirbelsturm.
+<sup>29</sup>Ihr Brüllen ist wie das einer Löwin.
+Sie brüllen wie junge Löwen.
+Ja, sie knurren, packen die Beute,
+tragen sie fort, und niemand rettet.
+<sup>30</sup>Sie werden an jenem Tag gegen es brüllen
+wie das Brausen des Meeres.
+Wenn man auf das Land schaut,
+siehe, Finsternis und Not.
+Das Licht wird von seinen Wolken verdunkelt.
+
+> **Was bedeutet das?**
+> Gott ruft ein fremdes Volk herbei wie ein Hirte, der pfeift. Gemeint sind die Assyrer, die damals gefürchtetste Armee der Welt.
+> Ihre Soldaten werden nie müde. Ihre Pferde und Wagen sind schnell wie ein Sturm. Sie brüllen wie Löwen.
+> Jesaja sagt: Selbst diese gewaltige Macht ist nur ein Werkzeug in Gottes Hand. Später wird er sagen, dass auch Assyrien gerichtet wird (Kapitel 10).
+
+## Jesaja – Kapitel 6
+#### Hier bin ich, sende mich!
+
+---
+
+### Heilig, heilig, heilig (Vers 1–7)
+
+<sup>1</sup>Im Todesjahr des Königs Usija
+sah ich den Herrn auf einem Thron sitzen,
+hoch und erhaben,
+und der Saum seines Gewandes füllte den Tempel.
+<sup>2</sup>Über ihm standen die Serafim.
+Jeder hatte sechs Flügel.
+Mit zweien bedeckte er sein Gesicht.
+Mit zweien bedeckte er seine Füße.
+Und mit zweien flog er.
+<sup>3</sup>Einer rief dem anderen zu und sagte:
+„Heilig, heilig, heilig ist der HERR der Heere!
+Die ganze Erde ist voll von seiner Herrlichkeit!“
+<sup>4</sup>Die Fundamente der Schwellen bebten von der Stimme dessen, der rief,
+und das Haus füllte sich mit Rauch.
+<sup>5</sup>Da sagte ich: „Weh mir! Denn ich bin verloren,
+weil ich ein Mensch mit unreinen Lippen bin
+und mitten in einem Volk mit unreinen Lippen wohne,
+denn meine Augen haben den König gesehen, den HERRN der Heere!“
+<sup>6</sup>Da flog einer der Serafim zu mir.
+Er hatte eine glühende Kohle in seiner Hand,
+die er mit einer Zange vom Altar genommen hatte.
+<sup>7</sup>Er berührte meinen Mund damit und sagte:
+„Siehe, dies hat deine Lippen berührt.
+Deine Schuld ist weggenommen,
+und deine Sünde ist vergeben.“
+
+> **Was bedeutet das?**
+> Das ist die Berufung Jesajas zum Propheten, im Jahr 740 vor Christus, als König Usija starb.
+> Jesaja sieht Gott im Tempel auf einem riesigen Thron. Schon der Saum seines Gewandes füllt den ganzen Tempel.
+> Vers 2: „Serafim“ heißt „die Brennenden“. Es sind himmlische Wesen. Sie bedecken ihr Gesicht, weil selbst sie Gott nicht direkt ansehen können.
+> Vers 3: „Heilig, heilig, heilig“: Dreimal heilig heißt: vollkommen heilig, ganz anders als alles andere. Dieser Gesang wird bis heute in jüdischen Gebeten (die „Keduscha“) und in christlichen Gottesdiensten gesungen (das „Sanctus“).
+> Vers 5: Jesaja erschrickt. Vor Gottes Heiligkeit merkt er, wie unrein er selbst ist.
+> Vers 6–7: Aber Gott reinigt ihn. Die glühende Kohle berührt seine Lippen: Seine Schuld ist vergeben. Erst dann kann er Gottes Wort weitersagen.
+
+---
+
+### Wen soll ich senden? (Vers 8–13)
+
+<sup>8</sup>Ich hörte die Stimme des Herrn, der sagte:
+„Wen soll ich senden, und wer wird für uns gehen?“
+Da sagte ich: „Hier bin ich. Sende mich!“
+<sup>9</sup>Er sagte: „Geh und sag diesem Volk:
+‚Ihr hört zwar, aber ihr versteht nicht.
+Ihr seht zwar, aber ihr erkennt nicht.‘
+<sup>10</sup>Mach das Herz dieses Volkes fett.
+Mach seine Ohren schwer und verschließ seine Augen,
+damit sie nicht mit ihren Augen sehen,
+mit ihren Ohren hören,
+mit ihrem Herzen verstehen,
+umkehren und geheilt werden.“
+<sup>11</sup>Da sagte ich: „Herr, wie lange?“
+Er antwortete: „Bis die Städte verwüstet sind, ohne Bewohner,
+die Häuser ohne Menschen,
+und das Land ganz verwüstet ist,
+<sup>12</sup>und der HERR die Menschen weit weggeschickt hat
+und die verlassenen Orte im Land zahlreich sind.
+<sup>13</sup>Wenn noch ein Zehntel darin übrig ist,
+wird auch das wiederum verzehrt werden,
+wie eine Terebinthe und wie eine Eiche,
+von denen ein Stumpf bleibt, wenn man sie fällt.
+Der heilige Same ist sein Stumpf.“
+
+> **Was bedeutet das?**
+> Vers 8: „Hier bin ich. Sende mich!“ Ein berühmter Satz. Jesaja meldet sich freiwillig. Viele Menschen haben diesen Satz zu ihrem eigenen Gebet gemacht.
+> Vers 9–10: Ein sehr schwieriger Auftrag: Jesaja soll predigen, aber die Menschen werden nicht hören. Es klingt so, als wolle Gott, dass sie nicht umkehren.
+> Viele Ausleger verstehen das so: Gott sagt Jesaja im Voraus, wie die Menschen reagieren werden. Seine Predigt wird ihre Herzen nicht erweichen, sondern sie werden sich noch mehr verhärten. Jesus zitiert diese Worte, als viele ihn nicht verstehen wollen (Matthäus 13,13–15).
+> Vers 11: „Wie lange, Herr?“ Die Antwort ist hart: bis das Land zerstört und das Volk verschleppt ist.
+> Vers 13: Aber am Ende ein Hoffnungszeichen: Wenn ein Baum gefällt wird, bleibt ein Stumpf. Und aus einem Stumpf kann wieder etwas wachsen. Dieser „heilige Same“ ist der Rest, aus dem Gott neu anfangen wird (vgl. Kapitel 11,1).
+
+## Jesaja – Kapitel 7
+#### Das Zeichen Immanuel
+
+---
+
+### Fürchte dich nicht! (Vers 1–9)
+
+<sup>1</sup>In den Tagen von Ahas, dem Sohn Jotams, des Sohnes Usijas, des Königs von Juda,
+zogen Rezin, der König von Syrien, und Pekach, der Sohn Remaljas, der König von Israel,
+hinauf nach Jerusalem, um Krieg gegen die Stadt zu führen,
+aber sie konnten sie nicht besiegen.
+<sup>2</sup>Dem Haus David wurde gemeldet: „Syrien hat sich mit Ephraim verbündet.“
+Da zitterte sein Herz und das Herz seines Volkes,
+wie die Bäume des Waldes vor dem Wind zittern.
+<sup>3</sup>Da sagte der HERR zu Jesaja:
+„Geh jetzt hinaus, Ahas entgegen,
+du und dein Sohn Schear-Jaschub,
+an das Ende der Wasserleitung des oberen Teiches,
+an der Straße zum Feld des Walkers.
+<sup>4</sup>Sag zu ihm: ‚Hüte dich und bleib ruhig!
+Fürchte dich nicht, und dein Herz soll nicht verzagen
+wegen dieser beiden rauchenden Fackelstummel,
+wegen des glühenden Zorns von Rezin und Syrien
+und des Sohnes Remaljas.
+<sup>5</sup>Weil Syrien, Ephraim und der Sohn Remaljas Böses gegen dich geplant haben
+und sagen:
+<sup>6</sup>„Lasst uns gegen Juda hinaufziehen, es zerreißen
+und es unter uns aufteilen
+und einen König darin einsetzen, nämlich den Sohn Tabeels“,
+<sup>7</sup>darum spricht der Herr, der HERR:
+„Es wird nicht bestehen, und es wird nicht geschehen.“
+<sup>8</sup>Denn das Haupt Syriens ist Damaskus,
+und das Haupt von Damaskus ist Rezin.
+Innerhalb von fünfundsechzig Jahren wird Ephraim zerbrochen werden,
+sodass es kein Volk mehr ist.
+<sup>9</sup>Das Haupt Ephraims ist Samaria,
+und das Haupt Samarias ist der Sohn Remaljas.
+Wenn ihr nicht glaubt, dann werdet ihr gewiss nicht bestehen.‘“
+
+> **Was bedeutet das?**
+> Die Lage: Im Jahr 734 vor Christus greifen zwei Nachbarkönige Jerusalem an, der König von Syrien und der König des Nordreichs Israel (auch „Ephraim“ genannt). Sie wollen König Ahas absetzen. Ahas und sein Volk zittern vor Angst.
+> Vers 3: Jesaja nimmt seinen Sohn mit. Sein Name „Schear-Jaschub“ bedeutet „Ein Rest kehrt um“. Schon der Name ist eine Botschaft.
+> Vers 4: „Bleib ruhig! Fürchte dich nicht!“ Die beiden Feinde sind nur „rauchende Fackelstummel“: Sie qualmen noch, aber ihr Feuer ist bald aus.
+> Vers 9: „Wenn ihr nicht glaubt, dann bleibt ihr nicht.“ Im Hebräischen ein Wortspiel: „glauben“ und „bestehen“ kommen vom selben Wort, von dem auch „Amen“ kommt. Wer sich an Gott festmacht, hat festen Halt.
+
+---
+
+### Die junge Frau wird einen Sohn gebären (Vers 10–17)
+
+<sup>10</sup>Der HERR sprach wieder zu Ahas und sagte:
+<sup>11</sup>„Erbitte dir ein Zeichen vom HERRN, deinem Gott!
+Erbitte es aus der Tiefe oder aus der Höhe oben.“
+<sup>12</sup>Aber Ahas sagte: „Ich will nicht bitten.
+Ich will den HERRN nicht versuchen.“
+<sup>13</sup>Da sagte er: „Hört doch, ihr vom Haus David!
+Ist es euch nicht genug, die Geduld der Menschen auf die Probe zu stellen,
+dass ihr auch die Geduld meines Gottes auf die Probe stellt?
+<sup>14</sup>Darum wird der Herr selbst euch ein Zeichen geben:
+Siehe, die Jungfrau wird schwanger werden
+und einen Sohn gebären,
+und sie wird ihn Immanuel nennen.
+<sup>15</sup>Er wird Butter und Honig essen,
+wenn er weiß, das Böse zu verwerfen und das Gute zu wählen.
+<sup>16</sup>Denn bevor das Kind weiß, das Böse zu verwerfen und das Gute zu wählen,
+wird das Land verlassen sein,
+vor dessen beiden Königen dir graut.
+<sup>17</sup>Der HERR wird über dich, über dein Volk und über das Haus deines Vaters
+Tage kommen lassen, wie sie nicht gekommen sind
+seit dem Tag, an dem Ephraim sich von Juda getrennt hat:
+den König von Assyrien.“
+
+> **Was bedeutet das?**
+> Vers 11–12: Gott bietet Ahas ein Zeichen an. Ahas lehnt ab, mit einer frommen Ausrede. In Wirklichkeit hat er schon beschlossen, sich Hilfe beim König von Assyrien zu holen statt bei Gott (2. Könige 16,7).
+> Vers 14 ist einer der bekanntesten Verse der Bibel. „Immanuel“ heißt: „Gott ist mit uns.“
+> Im Hebräischen steht das Wort „alma“. Es bedeutet „junge Frau“, eine junge Frau im heiratsfähigen Alter. Die alte griechische Übersetzung hat es mit „parthenos“ übersetzt, „Jungfrau“. Die englische Vorlage schreibt „virgin“, Jungfrau.
+> Im Judentum versteht man den Vers meist so: Eine junge Frau zur Zeit Jesajas, vielleicht die Frau des Königs oder Jesajas Frau, bekommt ein Kind. Noch bevor dieses Kind groß ist, sind die beiden feindlichen Könige besiegt. Das Kind ist ein Zeichen: Gott ist mit uns.
+> Das Matthäusevangelium zitiert diesen Vers bei der Geburt Jesu (Matthäus 1,22–23). Christen sehen darin eine Ankündigung, dass Gott in Jesus wirklich „mit uns“ ist.
+> Vers 15–16: „Butter und Honig“ ist die Nahrung von Menschen in einem verwüsteten Land, in dem kein Ackerbau mehr möglich ist, nur noch Viehzucht. Bevor das Kind alt genug ist, Gut und Böse zu unterscheiden, sind die Feinde weg.
+> Vers 17: Aber dann kommt eine noch größere Bedrohung: Assyrien, genau die Macht, bei der Ahas Hilfe sucht.
+
+---
+
+### Das Land wird verwüstet (Vers 18–25)
+
+<sup>18</sup>An jenem Tag wird der HERR die Fliege herbeipfeifen,
+die am äußersten Ende der Ströme Ägyptens ist,
+und die Biene, die im Land Assyrien ist.
+<sup>19</sup>Sie werden kommen und sich alle niederlassen
+in den verwüsteten Tälern, in den Felsspalten,
+auf allen Dornhecken und auf allen Weiden.
+<sup>20</sup>An jenem Tag wird der Herr mit einem Schermesser rasieren,
+das jenseits des Stromes gemietet ist,
+nämlich mit dem König von Assyrien:
+den Kopf und die Haare der Füße,
+und auch den Bart wird es wegnehmen.
+<sup>21</sup>Es wird geschehen an jenem Tag,
+dass ein Mann eine junge Kuh und zwei Schafe am Leben erhält.
+<sup>22</sup>Und es wird geschehen, dass er wegen der Menge an Milch, die sie geben,
+Butter essen wird,
+denn jeder, der im Land übrig bleibt, wird Butter und Honig essen.
+<sup>23</sup>Es wird geschehen an jenem Tag,
+dass jeder Ort, an dem tausend Weinstöcke waren,
+tausend Silberstücke wert,
+zu Dornen und Disteln werden wird.
+<sup>24</sup>Man wird mit Pfeilen und Bogen dorthin gehen,
+denn das ganze Land wird voller Dornen und Disteln sein.
+<sup>25</sup>Und auf alle Hügel, die man mit der Hacke bearbeitet hat,
+wirst du nicht mehr gehen aus Furcht vor Dornen und Disteln,
+sondern sie werden dazu dienen, die Rinder hinzutreiben,
+und die Schafe werden darauf herumtrampeln.
+
+> **Was bedeutet das?**
+> Vers 18: Die Heere Ägyptens und Assyriens werden kommen wie Schwärme von Fliegen und Bienen.
+> Vers 20: Ein demütigendes Bild: Der König von Assyrien, den Ahas selbst „gemietet“ hat, wird Juda kahl rasieren wie ein Rasiermesser. Kriegsgefangene wurden damals geschoren, um sie zu demütigen.
+> Vers 21–25: Das fruchtbare Land wird zur Wildnis. Statt Weinbergen wachsen Dornen. Die wenigen Überlebenden halten nur noch ein paar Tiere. Dort, wo früher Felder waren, geht man nur noch mit Pfeil und Bogen zur Jagd.
+> Die Botschaft an Ahas: Wer auf Menschen statt auf Gott vertraut, holt sich am Ende das Unglück selbst ins Haus.
