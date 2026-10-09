@@ -43,12 +43,12 @@ als sich auf Fürsten zu verlassen.
 ## Im Namen des HERRN (Vers 10–14)
 
 [10] Alle Völker umringten mich,
-aber im Namen des HERRN schlug ich sie zurück.
+aber im Namen des HERRN vernichtete ich sie.
 [11] Sie umringten mich, ja, sie umringten mich.
-Im Namen des HERRN schlug ich sie zurück.
+Im Namen des HERRN vernichtete ich sie.
 [12] Sie umringten mich wie Bienen.
 Sie erloschen wie brennende Dornen.
-Im Namen des HERRN schlug ich sie zurück.
+Im Namen des HERRN vernichtete ich sie.
 [13] Du hast mich hart gestoßen, damit ich falle,
 aber der HERR hat mir geholfen.
 [14] Jah ist meine Stärke und mein Lied.
@@ -56,7 +56,7 @@ Er ist meine Rettung geworden.
 
 > **Was bedeutet das?**
 > Der König oder das Volk wurde von allen Seiten bedrängt, wie von einem Bienenschwarm. Aber die Feinde verloschen schnell wie ein Feuer aus trockenen Dornen.
-> „Im Namen des HERRN“: nicht aus eigener Kraft, sondern mit Gottes Hilfe.
+> „Im Namen des HERRN“: nicht aus eigener Kraft, sondern mit Gottes Hilfe. Die Kriegssprache beschreibt die Rettung aus der Not. Sie ist keine Aufforderung, im Namen Gottes Gewalt auszuüben.
 > Vers 14 zitiert das Lied des Mose nach der Rettung am Roten Meer (2. Mose 15,2).
 
 ---
