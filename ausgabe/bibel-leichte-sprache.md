@@ -86580,8 +86580,8 @@ Sie stolpern beim Urteilen.
 Wem will er die Botschaft erklären?
 Denen, die gerade von der Milch entwöhnt sind,
 die eben erst von der Brust genommen wurden?
-<sup>10</sup>Denn es heißt: Zaw la-zaw, zaw la-zaw,
-kaw la-kaw, kaw la-kaw,
+<sup>10</sup>Denn es heißt: Gebot auf Gebot, Gebot auf Gebot,
+Zeile auf Zeile, Zeile auf Zeile,
 hier ein wenig, da ein wenig.
 <sup>11</sup>Aber er wird zu diesem Volk mit stammelnden Lippen
 und in einer fremden Sprache reden,
@@ -86590,15 +86590,15 @@ und in einer fremden Sprache reden,
 und: „Das ist die Erfrischung!“
 Aber sie wollten nicht hören.
 <sup>13</sup>Darum wird das Wort des HERRN für sie sein:
-Zaw la-zaw, zaw la-zaw,
-kaw la-kaw, kaw la-kaw,
+Gebot auf Gebot, Gebot auf Gebot,
+Zeile auf Zeile, Zeile auf Zeile,
 hier ein wenig, da ein wenig,
 damit sie gehen, rückwärts fallen,
 zerbrochen, verstrickt und gefangen werden.
 
 > **Was bedeutet das?**
 > Vers 7–8: Sogar die Priester und Propheten in Jerusalem sind betrunken. Ihre Tische sind voller Erbrochenem. Wie sollen sie da Gottes Willen erkennen?
-> Vers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: „Zaw la-zaw, kaw la-kaw“. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.
+> Vers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: „Zaw la-zaw, kaw la-kaw“. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“, so steht es auch hier im Text. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.
 > Vers 11–13: Jesajas Antwort: Wenn ihr nicht auf mich hört, dann wird Gott zu euch in einer fremden Sprache reden, nämlich durch die assyrischen Soldaten. Dann versteht ihr nur noch Kauderwelsch.
 > Vers 12: Dabei hatte Gott ihnen eigentlich Ruhe angeboten: „Gebt den Müden Ruhe!“ Gottes Weg wäre einfach gewesen.
 
@@ -86662,7 +86662,7 @@ pflanzt er dann nicht den Dill
 und streut den Kreuzkümmel aus
 und setzt den Weizen in Reihen,
 die Gerste an ihren bestimmten Platz
-und den Dinkel an seinen Rand?
+und den Dinkel an seinen Platz?
 <sup>26</sup>Denn sein Gott unterweist ihn zum rechten Verfahren
 und lehrt ihn.
 <sup>27</sup>Denn der Dill wird nicht mit einem scharfen Dreschschlitten gedroschen,
