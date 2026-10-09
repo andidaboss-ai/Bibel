@@ -75,7 +75,7 @@ Es wird seine Dornen und Disteln
 an einem einzigen Tag verbrennen und verzehren.
 [18] Er wird die Pracht seines Waldes und seines fruchtbaren Feldes vernichten,
 Seele und Leib.
-Es wird sein, wie wenn ein Kranker dahinsiecht.
+Es wird sein, wie wenn ein Fahnenträger zusammenbricht.
 [19] Der Rest der Bäume seines Waldes wird so gering sein,
 dass ein Kind sie aufschreiben könnte.
 

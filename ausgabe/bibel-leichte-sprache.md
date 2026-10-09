@@ -84782,7 +84782,7 @@ wie man jubelt, wenn man die Beute verteilt.
 den Stab auf ihrer Schulter,
 den Stock ihres Unterdrückers,
 hast du zerbrochen wie am Tag Midians.
-<sup>5</sup>Denn jeder Stiefel des Kriegers im Getümmel der Schlacht
+<sup>5</sup>Denn die ganze Rüstung des Bewaffneten im Getümmel der Schlacht
 und jeder Mantel, der in Blut gewälzt ist,
 wird verbrannt werden, ein Fraß des Feuers.
 <sup>6</sup>Denn ein Kind ist uns geboren,
@@ -84803,7 +84803,7 @@ Der Eifer des HERRN der Heere wird das tun.
 > Vers 1: Sebulon und Naftali liegen im Norden, in Galiläa. Diese Gegend wurde als erste von Assyrien erobert (2. Könige 15,29). Gerade dort soll das Licht zuerst aufleuchten.
 > Vers 2: Wer in tiefer Dunkelheit lebt, sieht plötzlich ein großes Licht. Ein Bild für Befreiung und Hoffnung.
 > Vers 4: „Wie am Tag Midians“: Damals hat Gott sein Volk durch Gideon mit nur 300 Männern befreit (Richter 7).
-> Vers 5: Alle Kriegsstiefel und blutigen Mäntel werden verbrannt. Der Krieg ist vorbei. Es gibt keine Waffen mehr.
+> Vers 5: Alle Rüstungen und blutigen Mäntel werden verbrannt. Der Krieg ist vorbei. Es gibt keine Waffen mehr.
 > Vers 6: Wie wird das geschehen? Nicht durch ein Heer, sondern durch ein Kind. Seine Namen sind gewaltig: Wunderbarer Ratgeber, Starker Gott, Ewiger Vater, Friedefürst.
 > Im Judentum wird dieser Text oft auf König Hiskia bezogen oder auf den kommenden Messias. Die Namen werden dann als Lob Gottes gelesen, der durch dieses Kind handelt. Christen sehen in diesem Kind Jesus Christus (vgl. Matthäus 4,13–16, wo Vers 1–2 zitiert werden). Georg Friedrich Händel hat diese Worte im „Messias“ vertont.
 > Vers 7: Seine Herrschaft bringt Frieden ohne Ende, gegründet auf Recht und Gerechtigkeit.
@@ -84956,7 +84956,7 @@ Es wird seine Dornen und Disteln
 an einem einzigen Tag verbrennen und verzehren.
 <sup>18</sup>Er wird die Pracht seines Waldes und seines fruchtbaren Feldes vernichten,
 Seele und Leib.
-Es wird sein, wie wenn ein Kranker dahinsiecht.
+Es wird sein, wie wenn ein Fahnenträger zusammenbricht.
 <sup>19</sup>Der Rest der Bäume seines Waldes wird so gering sein,
 dass ein Kind sie aufschreiben könnte.
 
