@@ -91405,3 +91405,484 @@ Wir haben nicht auf die Stimme des HERRN, unseres Gottes, gehört.“
 > Vers 23: Das Volk erkennt: Die Götzen auf den Hügeln konnten nicht helfen. Nur Gott rettet.
 > Vers 24: „Das Schändliche“ ist ein verächtlicher Name für den Götzen Baal. Der Götzendienst hat alles gefressen, sogar Söhne und Töchter. Damit sind wohl auch die schrecklichen Kinderopfer gemeint (vgl. Jeremia 7,31).
 > Vers 25: Ein ehrliches Schuldbekenntnis. Es ist der erste Schritt zu einem neuen Anfang.
+
+## Jeremia – Kapitel 4
+#### Unheil kommt von Norden
+
+---
+
+### Pflügt Neuland! (Vers 1–4)
+
+<sup>1</sup>„Wenn du umkehrst, Israel“, spricht der HERR,
+„wenn du zu mir umkehrst
+und deine Gräuel aus meinen Augen wegschaffst,
+dann wirst du nicht vertrieben werden.
+<sup>2</sup>Und du wirst schwören: ‚So wahr der HERR lebt‘,
+in Wahrheit, im Recht und in Gerechtigkeit.
+Die Nationen werden sich in ihm segnen
+und sich seiner rühmen.“
+<sup>3</sup>Denn so spricht der HERR zu den Männern von Juda und zu Jerusalem:
+„Pflügt euch Neuland
+und sät nicht unter die Dornen!
+<sup>4</sup>Beschneidet euch für den HERRN
+und entfernt die Vorhaut eurer Herzen,
+ihr Männer von Juda und Bewohner Jerusalems,
+damit mein Zorn nicht ausbricht wie Feuer
+und brennt, sodass niemand löschen kann,
+wegen der Bosheit eurer Taten.
+
+> **Was bedeutet das?**
+> Vers 1–2: Gott lädt noch einmal ein: Wenn ihr umkehrt, könnt ihr bleiben. Und dann werden sogar die anderen Völker durch euch gesegnet, wie es Abraham versprochen war (1. Mose 12,3).
+> Vers 3: Ein Bild aus der Landwirtschaft: Ein Feld, das lange brach lag, ist hart und voller Dornen. Man muss es erst umpflügen, bevor man sät. So muss auch das Herz erst „umgepflügt“ werden, damit Gottes Wort wachsen kann.
+> Vers 4: Die Beschneidung war das Zeichen des Bundes mit Gott. Aber Jeremia sagt: Es kommt nicht nur auf das äußere Zeichen an, sondern auf das Herz. Das Herz soll offen sein für Gott (vgl. 5. Mose 10,16; Römer 2,29).
+
+---
+
+### Der Löwe ist aufgebrochen (Vers 5–18)
+
+<sup>5</sup>Verkündet es in Juda und lasst es hören in Jerusalem und sagt:
+‚Stoßt ins Horn im Land!‘
+Ruft laut und sagt:
+‚Versammelt euch! Lasst uns in die befestigten Städte gehen!‘
+<sup>6</sup>Richtet ein Zeichen auf nach Zion hin!
+Flieht in Sicherheit! Bleibt nicht stehen!
+Denn ich bringe Unheil von Norden
+und einen großen Zusammenbruch.“
+<sup>7</sup>Ein Löwe ist aus seinem Dickicht heraufgestiegen,
+ein Verderber der Nationen.
+Er ist unterwegs. Er ist aus seinem Ort aufgebrochen,
+um dein Land zur Wüste zu machen,
+damit deine Städte zerstört werden, ohne Bewohner.
+<sup>8</sup>Darum zieht Sacktuch an,
+klagt und heult!
+Denn der glühende Zorn des HERRN hat sich nicht von uns abgewendet.
+<sup>9</sup>„An jenem Tag wird es geschehen“, spricht der HERR,
+„dass dem König und den Fürsten der Mut sinkt.
+Die Priester werden entsetzt sein,
+und die Propheten werden erstarren.“
+<sup>10</sup>Da sagte ich: „Ach, Herr, HERR!
+Gewiss, du hast dieses Volk und Jerusalem schwer getäuscht,
+als du sagtest: ‚Ihr werdet Frieden haben‘,
+während doch das Schwert bis an die Seele geht.“
+<sup>11</sup>Zu jener Zeit wird man zu diesem Volk und zu Jerusalem sagen:
+„Ein glühender Wind weht von den kahlen Höhen in der Wüste
+auf die Tochter meines Volkes zu,
+nicht zum Worfeln und nicht zum Reinigen.
+<sup>12</sup>Ein Wind, zu stark dafür, wird für mich kommen.
+Jetzt werde auch ich Urteile gegen sie aussprechen.“
+<sup>13</sup>Siehe, er zieht herauf wie Wolken,
+und seine Wagen sind wie der Sturmwind.
+Seine Pferde sind schneller als Adler.
+Wehe uns! Denn wir sind verloren.
+<sup>14</sup>Jerusalem, wasche dein Herz von der Bosheit,
+damit du gerettet wirst!
+Wie lange sollen deine bösen Gedanken in dir wohnen?
+<sup>15</sup>Denn eine Stimme verkündet es von Dan her
+und lässt Unheil hören vom Gebirge Efraim:
+<sup>16</sup>„Sagt es den Nationen, siehe, lasst es gegen Jerusalem hören:
+‚Belagerer kommen aus einem fernen Land
+und erheben ihre Stimme gegen die Städte Judas.
+<sup>17</sup>Wie Feldhüter umstellen sie sie ringsum,
+weil sie widerspenstig gegen mich gewesen ist‘“, spricht der HERR.
+<sup>18</sup>„Dein Weg und deine Taten haben dir das gebracht.
+Das ist deine Bosheit. Ja, sie ist bitter.
+Ja, sie reicht bis an dein Herz.“
+
+> **Was bedeutet das?**
+> Vers 5–6: Das Horn (Schofar) wird geblasen, ein Alarmsignal. Alle sollen in die befestigten Städte fliehen.
+> Vers 7: Der „Löwe“ ist das Heer Babylons, das ganze Völker verschlingt.
+> Vers 10: Jeremia klagt Gott an: Hast du das Volk getäuscht? Es gab Propheten, die im Namen Gottes Frieden versprochen hatten. Jeremia ist verzweifelt, weil diese Versprechen falsch waren. Er wagt es, seine Verzweiflung offen vor Gott auszusprechen.
+> Vers 11–13: Der Feind kommt wie ein glühender Wüstenwind, wie ein Sturm, schneller als Adler.
+> Vers 14: Mitten in der Warnung noch einmal eine Einladung: „Wasche dein Herz, damit du gerettet wirst!“
+> Vers 15: Dan liegt im äußersten Norden des Landes, Efraim in der Mitte. Die Nachricht vom Feind kommt immer näher.
+> Vers 18: Das Unglück ist die Folge der eigenen Taten.
+
+---
+
+### Meine Angst, meine Angst! (Vers 19–31)
+
+<sup>19</sup>Meine Angst, meine Angst!
+Mir tut das Herz weh!
+Mein Herz bebt in mir.
+Ich kann nicht schweigen,
+denn du, meine Seele, hast den Klang des Horns gehört,
+das Kriegsgeschrei.
+<sup>20</sup>Zusammenbruch auf Zusammenbruch wird gemeldet,
+denn das ganze Land ist verwüstet.
+Plötzlich sind meine Zelte zerstört,
+meine Zeltdecken in einem Augenblick.
+<sup>21</sup>Wie lange soll ich das Kriegszeichen sehen
+und den Klang des Horns hören?
+<sup>22</sup>„Denn mein Volk ist töricht.
+Sie kennen mich nicht.
+Sie sind törichte Kinder
+und haben keinen Verstand.
+Sie sind geschickt darin, Böses zu tun,
+aber Gutes zu tun, verstehen sie nicht.“
+<sup>23</sup>Ich sah die Erde an, und siehe,
+sie war wüst und leer,
+und den Himmel, und er hatte kein Licht.
+<sup>24</sup>Ich sah die Berge an, und siehe, sie bebten,
+und alle Hügel schwankten hin und her.
+<sup>25</sup>Ich sah, und siehe, da war kein Mensch,
+und alle Vögel des Himmels waren geflohen.
+<sup>26</sup>Ich sah, und siehe, das fruchtbare Land war eine Wüste,
+und alle seine Städte waren niedergerissen
+vor dem HERRN, vor seinem glühenden Zorn.
+<sup>27</sup>Denn so spricht der HERR:
+„Das ganze Land wird eine Wüste werden.
+Doch ich werde nicht völlig ein Ende machen.
+<sup>28</sup>Darum wird die Erde trauern
+und der Himmel oben schwarz werden,
+weil ich es gesagt habe.
+Ich habe es beschlossen, und es reut mich nicht,
+und ich werde nicht davon abgehen.“
+<sup>29</sup>Vor dem Lärm der Reiter und Bogenschützen
+flieht jede Stadt.
+Sie gehen ins Dickicht und klettern auf die Felsen.
+Jede Stadt ist verlassen,
+und kein Mensch wohnt darin.
+<sup>30</sup>Und du, wenn du verwüstet bist, was wirst du tun?
+Auch wenn du dich in Scharlach kleidest,
+auch wenn du dich mit goldenem Schmuck schmückst,
+auch wenn du deine Augen mit Schminke vergrößerst,
+machst du dich umsonst schön.
+Deine Liebhaber verachten dich.
+Sie trachten dir nach dem Leben.
+<sup>31</sup>Denn ich höre eine Stimme wie von einer Frau in Wehen,
+die Angst wie von einer, die ihr erstes Kind gebiert,
+die Stimme der Tochter Zion,
+die nach Luft ringt, die ihre Hände ausbreitet und sagt:
+„Wehe mir jetzt!
+Denn meine Seele erliegt den Mördern.“
+
+> **Was bedeutet das?**
+> Vers 19–21: Jeremia ist kein kalter Gerichtsprophet. Er leidet mit seinem Volk. Er hört das Kriegshorn und sein Herz tut weh. Er kann nicht schweigen. Wer schon einmal große Angst hatte, versteht diese Worte.
+> Vers 22: Gott klagt: Mein Volk ist geschickt im Bösen, aber Gutes zu tun, haben sie verlernt.
+> Vers 23–26: Eine erschütternde Vision: Jeremia sieht die Erde „wüst und leer“, dieselben Worte wie in 1. Mose 1,2 vor der Schöpfung. Kein Licht, kein Mensch, keine Vögel. Es ist, als würde die Schöpfung rückgängig gemacht. So schrecklich ist der Krieg.
+> Vers 27: Und doch: „Ich werde nicht völlig ein Ende machen.“ Ein kleiner Funke Hoffnung.
+> Vers 30: Jerusalem wird wie eine Frau beschrieben, die sich schön macht, um fremde Liebhaber (fremde Mächte wie Ägypten) zu gewinnen. Aber diese wenden sich gegen sie.
+> Vers 31: Die Tochter Zion schreit wie eine Frau in schweren Wehen, ohne Hoffnung. Ein Bild für die Not der Menschen im Krieg. Leider gibt es solche Schreie bis heute in vielen Kriegen. Wer durch Krieg oder Gewalt belastet ist, kann bei der Telefonseelsorge anrufen: 0800 111 0 111.
+
+## Jeremia – Kapitel 5
+#### Gibt es einen, der Recht tut?
+
+---
+
+### Sucht einen Gerechten! (Vers 1–9)
+
+<sup>1</sup>„Lauft hin und her durch die Gassen Jerusalems
+und seht doch und erkennt
+und sucht auf ihren Plätzen,
+ob ihr einen Menschen findet,
+ob da einer ist, der Recht tut,
+der nach Wahrheit fragt,
+dann will ich ihr vergeben.
+<sup>2</sup>Auch wenn sie sagen: ‚So wahr der HERR lebt‘,
+schwören sie doch gewiss falsch.“
+<sup>3</sup>HERR, sehen deine Augen nicht auf die Wahrheit?
+Du hast sie geschlagen, aber es tat ihnen nicht weh.
+Du hast sie aufgerieben, aber sie wollten keine Zurechtweisung annehmen.
+Sie haben ihre Gesichter härter gemacht als einen Felsen.
+Sie wollten nicht umkehren.
+<sup>4</sup>Da sagte ich: „Das sind doch nur die Armen.
+Sie sind töricht,
+denn sie kennen den Weg des HERRN nicht,
+das Recht ihres Gottes.
+<sup>5</sup>Ich will zu den Großen gehen und mit ihnen reden,
+denn sie kennen den Weg des HERRN,
+das Recht ihres Gottes.“
+Aber gerade diese haben alle zusammen das Joch zerbrochen
+und die Fesseln zerrissen.
+<sup>6</sup>Darum wird ein Löwe aus dem Wald sie töten.
+Ein Wolf der Steppe wird sie verderben.
+Ein Leopard lauert vor ihren Städten.
+Jeder, der hinausgeht, wird zerrissen werden,
+weil ihre Übertretungen zahlreich sind
+und ihre Abtrünnigkeit groß geworden ist.
+<sup>7</sup>„Wie soll ich dir vergeben?
+Deine Kinder haben mich verlassen
+und bei dem geschworen, was keine Götter sind.
+Als ich sie satt gemacht hatte, brachen sie die Ehe
+und liefen scharenweise ins Haus der Hure.
+<sup>8</sup>Sie waren wie gut gefütterte Hengste, die umherstreifen.
+Jeder wieherte nach der Frau seines Nächsten.
+<sup>9</sup>Sollte ich das nicht bestrafen?“, spricht der HERR.
+„Sollte meine Seele sich nicht rächen an einem solchen Volk?
+
+> **Was bedeutet das?**
+> Vers 1: Ein berühmter Vers: Gott sagt: Sucht in ganz Jerusalem einen einzigen Menschen, der gerecht ist und nach Wahrheit fragt, dann vergebe ich der ganzen Stadt. Das erinnert an Abraham, der für Sodom verhandelte (1. Mose 18).
+> Vers 4–5: Jeremia denkt zuerst: Die einfachen Leute wissen es nicht besser. Ich gehe zu den Gebildeten und Mächtigen. Aber gerade die haben Gottes Gebote am meisten missachtet.
+> Vers 6: Löwe, Wolf und Leopard sind Bilder für die Feinde, die kommen werden.
+> Vers 7–8: Es gibt Untreue gegenüber Gott und auch ganz echte Untreue in den Ehen. Gott sieht beides. Treue in der Ehe ist ein hoher Wert. Wer in der Ehe Gewalt oder Missbrauch erlebt, darf sich Hilfe holen: Hilfetelefon Gewalt gegen Frauen 116 016.
+> Vers 9: „Rache“ meint hier, dass Gott das Recht wiederherstellt. Es ist keine Erlaubnis für Menschen, Rache zu üben.
+
+---
+
+### Sie verleugnen den HERRN (Vers 10–19)
+
+<sup>10</sup>Steigt auf ihre Mauern und zerstört,
+aber macht kein völliges Ende!
+Nehmt ihre Ranken weg,
+denn sie gehören nicht dem HERRN.
+<sup>11</sup>Denn das Haus Israel und das Haus Juda
+sind mir sehr treulos gewesen“, spricht der HERR.
+<sup>12</sup>Sie haben den HERRN verleugnet und gesagt:
+„Er ist es nicht.
+Kein Unheil wird über uns kommen.
+Wir werden weder Schwert noch Hunger sehen.
+<sup>13</sup>Die Propheten werden zu Wind,
+und das Wort ist nicht in ihnen.
+So soll es ihnen selbst ergehen.“
+<sup>14</sup>Darum spricht der HERR, der Gott der Heere:
+„Weil ihr dieses Wort redet,
+siehe, so mache ich meine Worte in deinem Mund zu Feuer
+und dieses Volk zu Holz,
+und es wird sie verzehren.
+<sup>15</sup>Siehe, ich bringe über euch ein Volk von fern, Haus Israel“,
+spricht der HERR.
+„Es ist ein mächtiges Volk.
+Es ist ein uraltes Volk,
+ein Volk, dessen Sprache du nicht kennst
+und dessen Reden du nicht verstehst.
+<sup>16</sup>Ihr Köcher ist wie ein offenes Grab.
+Sie alle sind Helden.
+<sup>17</sup>Sie werden deine Ernte und dein Brot verzehren,
+das deine Söhne und deine Töchter essen sollten.
+Sie werden deine Schafe und deine Rinder verzehren.
+Sie werden deine Weinstöcke und deine Feigenbäume verzehren.
+Deine befestigten Städte, auf die du vertraust,
+werden sie mit dem Schwert zerschlagen.
+<sup>18</sup>Aber auch in jenen Tagen“, spricht der HERR,
+„werde ich mit euch kein völliges Ende machen.
+<sup>19</sup>Und es wird geschehen, wenn ihr fragt:
+‚Warum hat der HERR, unser Gott, uns all das angetan?‘,
+dann sollst du ihnen sagen:
+‚Wie ihr mich verlassen und fremden Göttern in eurem Land gedient habt,
+so werdet ihr Fremden dienen in einem Land, das nicht euch gehört.‘
+
+> **Was bedeutet das?**
+> Vers 10: Die Feinde werden kommen, aber Gott setzt eine Grenze: „Macht kein völliges Ende.“
+> Vers 12–13: Das Volk sagt: Gott tut uns nichts. Die Propheten reden nur heiße Luft.
+> Vers 14: Gott antwortet: Jeremias Worte werden wie Feuer sein, und das Volk wie Holz.
+> Vers 15–17: Das fremde Volk mit der unbekannten Sprache sind die Babylonier. Sie werden alles wegnehmen, was die Menschen zum Leben brauchen.
+> Vers 18: Wieder die Hoffnung: „Kein völliges Ende.“ Gott lässt einen Rest übrig.
+> Vers 19: Wer fremden Göttern dient, wird Fremden dienen müssen. Die Strafe passt zur Schuld: Das Exil in Babylon.
+
+---
+
+### Ein Volk mit Augen, das nicht sieht (Vers 20–31)
+
+<sup>20</sup>Verkündet dies im Haus Jakob
+und lasst es hören in Juda und sagt:
+<sup>21</sup>‚Hört doch dies, du törichtes Volk ohne Verstand,
+die Augen haben und nicht sehen,
+die Ohren haben und nicht hören:
+<sup>22</sup>Fürchtet ihr mich nicht?‘, spricht der HERR.
+‚Wollt ihr nicht vor mir zittern,
+der ich dem Meer den Sand als Grenze gesetzt habe,
+eine ewige Ordnung, die es nicht überschreiten kann?
+Auch wenn seine Wellen toben, können sie nichts ausrichten.
+Auch wenn sie brausen, können sie nicht darüber hinweg.‘
+<sup>23</sup>Aber dieses Volk hat ein trotziges und widerspenstiges Herz.
+Sie sind abgewichen und weggegangen.
+<sup>24</sup>Sie sagen nicht in ihrem Herzen:
+‚Lasst uns doch den HERRN, unseren Gott, fürchten,
+der Regen gibt, Frühregen und Spätregen zu seiner Zeit,
+der uns die festgesetzten Wochen der Ernte bewahrt.‘
+<sup>25</sup>Eure Missetaten haben diese Dinge abgewendet,
+und eure Sünden haben euch das Gute vorenthalten.
+<sup>26</sup>Denn unter meinem Volk findet man Gottlose.
+Sie lauern, wie Vogelfänger sich ducken.
+Sie stellen eine Falle.
+Sie fangen Menschen.
+<sup>27</sup>Wie ein Käfig voller Vögel ist,
+so sind ihre Häuser voller Betrug.
+Darum sind sie groß und reich geworden.
+<sup>28</sup>Sie sind fett geworden. Sie glänzen.
+Ja, sie übertreffen sich in bösen Taten.
+Sie führen nicht die Sache,
+die Sache der Waisen, damit es ihnen gut geht,
+und sie verschaffen den Bedürftigen kein Recht.
+<sup>29</sup>Sollte ich das nicht bestrafen?“, spricht der HERR.
+„Sollte meine Seele sich nicht rächen an einem solchen Volk?
+<sup>30</sup>Etwas Entsetzliches und Schauderhaftes
+ist im Land geschehen:
+<sup>31</sup>Die Propheten weissagen Lüge,
+und die Priester herrschen nach ihrem eigenen Gutdünken,
+und mein Volk liebt es so.
+Aber was werdet ihr tun, wenn das Ende kommt?“
+
+> **Was bedeutet das?**
+> Vers 21: Das Volk hat Augen und Ohren, aber es will nicht sehen und nicht hören.
+> Vers 22: Selbst das wilde Meer hält sich an die Grenze, die Gott ihm gesetzt hat. Aber Gottes Volk hält sich an keine Grenze.
+> Vers 24: Niemand dankt Gott für den Regen und die Ernte.
+> Vers 26–28: Eine scharfe Sozialkritik: Reiche Menschen stellen anderen Fallen wie Vogelfänger. Sie werden durch Betrug reich und fett. Aber sie helfen nicht den Waisen und Armen. Gott sieht das. Ungerechtigkeit gegenüber den Schwachen ist ihm nicht egal.
+> Vers 31: Das Schlimmste: Propheten lügen, Priester machen, was sie wollen, „und mein Volk liebt es so“. Die Menschen wollen lieber angenehme Lügen hören als unbequeme Wahrheit.
+
+## Jeremia – Kapitel 6
+#### Friede, Friede – und ist doch kein Friede
+
+---
+
+### Jerusalem wird belagert (Vers 1–8)
+
+<sup>1</sup>„Flieht in Sicherheit, ihr Kinder Benjamin,
+aus der Mitte Jerusalems!
+Stoßt ins Horn in Tekoa
+und richtet ein Signal auf über Bet-Kerem!
+Denn Unheil schaut von Norden herab
+und ein großer Zusammenbruch.
+<sup>2</sup>Die Schöne und Verwöhnte,
+die Tochter Zion, werde ich vernichten.
+<sup>3</sup>Hirten mit ihren Herden werden zu ihr kommen.
+Sie werden ihre Zelte ringsum gegen sie aufschlagen.
+Jeder wird an seinem Platz weiden.“
+<sup>4</sup>„Rüstet den Krieg gegen sie!
+Auf! Lasst uns am Mittag hinaufziehen!
+Wehe uns! Denn der Tag neigt sich,
+denn die Abendschatten werden lang.
+<sup>5</sup>Auf! Lasst uns in der Nacht hinaufziehen
+und ihre Paläste zerstören!“
+<sup>6</sup>Denn so sprach der HERR der Heere:
+„Fällt Bäume und schüttet einen Wall gegen Jerusalem auf!
+Das ist die Stadt, die heimgesucht werden soll.
+Sie ist innen voller Unterdrückung.
+<sup>7</sup>Wie ein Brunnen sein Wasser sprudeln lässt,
+so lässt sie ihre Bosheit sprudeln.
+Gewalt und Zerstörung hört man in ihr.
+Krankheit und Wunden sind ständig vor mir.
+<sup>8</sup>Lass dich warnen, Jerusalem,
+damit meine Seele sich nicht von dir abwendet,
+damit ich dich nicht zur Wüste mache,
+zu einem unbewohnten Land.“
+
+> **Was bedeutet das?**
+> Vers 1: Tekoa und Bet-Kerem sind Orte südlich von Jerusalem. Die Menschen sollen nach Süden fliehen, weil der Feind von Norden kommt.
+> Vers 3: Die „Hirten mit ihren Herden“ sind die feindlichen Heerführer mit ihren Soldaten.
+> Vers 4–5: Man hört die Feinde reden: Sie sind so eifrig, dass sie sogar am Mittag und in der Nacht angreifen wollen.
+> Vers 6–7: Gott sagt: Jerusalem ist innen voller Unterdrückung und Gewalt. Die Bosheit sprudelt aus der Stadt wie Wasser aus einem Brunnen.
+> Vers 8: Auch hier noch eine letzte Warnung: Lass dich warnen, bevor es zu spät ist!
+
+---
+
+### Sie sagen „Friede“, aber es ist kein Friede (Vers 9–15)
+
+<sup>9</sup>So spricht der HERR der Heere:
+„Wie an einem Weinstock wird man den Rest Israels gründlich nachlesen.
+Lege deine Hand noch einmal an wie ein Winzer an die Ranken.“
+<sup>10</sup>Zu wem soll ich reden und wen warnen, damit sie hören?
+Siehe, ihr Ohr ist unbeschnitten, und sie können nicht zuhören.
+Siehe, das Wort des HERRN ist ihnen zum Spott geworden.
+Sie haben keine Freude daran.
+<sup>11</sup>Darum bin ich voll vom Zorn des HERRN.
+Ich bin müde davon, ihn zurückzuhalten.
+„Gieß ihn aus über die Kinder auf der Straße
+und über die Versammlung der jungen Männer zusammen.
+Denn auch Mann und Frau werden gefangen genommen werden,
+der Alte mit dem Hochbetagten.
+<sup>12</sup>Ihre Häuser werden anderen gehören,
+ihre Felder und ihre Frauen zusammen.
+Denn ich werde meine Hand ausstrecken
+gegen die Bewohner des Landes“, spricht der HERR.
+<sup>13</sup>„Denn vom Kleinsten bis zum Größten
+sind sie alle der Habgier ergeben.
+Vom Propheten bis zum Priester
+handeln alle betrügerisch.
+<sup>14</sup>Sie heilen die Wunde meines Volkes nur oberflächlich
+und sagen: ‚Friede, Friede!‘,
+wo doch kein Friede ist.
+<sup>15</sup>Haben sie sich geschämt, als sie Gräuel getan haben?
+Nein, sie haben sich gar nicht geschämt,
+und sie konnten nicht einmal rot werden.
+Darum werden sie fallen unter denen, die fallen.
+Wenn ich sie heimsuche, werden sie stürzen“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 10: Jeremia ist verzweifelt: Niemand hört zu. Ihre Ohren sind „unbeschnitten“, also verschlossen.
+> Vers 11: Jeremia kann Gottes Botschaft nicht länger zurückhalten. Die Katastrophe wird alle treffen, Kinder, Junge und Alte. Das ist kein Wunsch Jeremias, sondern eine schmerzhafte Ankündigung.
+> Vers 13: Vom Kleinsten bis zum Größten denken alle nur an ihren Gewinn.
+> Vers 14 ist ein berühmter Vers: Die falschen Propheten sagen „Friede, Friede!“, obwohl kein Friede ist. Sie verbinden eine schwere Wunde nur mit einem Pflaster. Sie sagen den Leuten, was sie hören wollen. Echter Friede braucht Ehrlichkeit und Gerechtigkeit.
+> Vers 15: Sie schämen sich nicht einmal mehr für das Böse, das sie tun.
+
+---
+
+### Fragt nach den alten Wegen (Vers 16–21)
+
+<sup>16</sup>So spricht der HERR:
+„Tretet auf die Wege und schaut
+und fragt nach den alten Pfaden,
+welches der gute Weg ist,
+und geht auf ihm,
+so werdet ihr Ruhe finden für eure Seelen.
+Aber sie sagten: ‚Wir wollen nicht darauf gehen.‘
+<sup>17</sup>Ich habe Wächter über euch gesetzt:
+‚Achtet auf den Klang des Horns!‘
+Aber sie sagten: ‚Wir wollen nicht darauf achten!‘
+<sup>18</sup>Darum hört, ihr Nationen,
+und erkenne, du Gemeinde, was unter ihnen geschieht!
+<sup>19</sup>Höre, Erde!
+Siehe, ich bringe Unheil über dieses Volk,
+die Frucht ihrer Gedanken,
+weil sie nicht auf meine Worte geachtet haben,
+und meine Weisung, die haben sie verworfen.
+<sup>20</sup>Wozu kommt mir Weihrauch aus Saba
+und das süße Würzrohr aus fernem Land?
+Eure Brandopfer gefallen mir nicht,
+und eure Schlachtopfer sind mir nicht angenehm.“
+<sup>21</sup>Darum spricht der HERR:
+„Siehe, ich lege diesem Volk Hindernisse in den Weg.
+Väter und Söhne zusammen werden darüber stolpern.
+Der Nachbar und sein Freund werden umkommen.“
+
+> **Was bedeutet das?**
+> Vers 16 ist ein schöner, oft zitierter Vers: Wenn du nicht weißt, wohin, dann bleib stehen, schau dich um und frag nach den bewährten Wegen. Geh den guten Weg, dann findest du Ruhe für deine Seele. Jesus sagt Ähnliches: „Ihr werdet Ruhe finden für eure Seelen“ (Matthäus 11,29).
+> Aber das Volk antwortet: „Wir wollen nicht!“
+> Vers 17: Die „Wächter“ sind die Propheten, die warnen. Aber niemand hört auf sie.
+> Vers 20: Teure Opfergaben aus fernen Ländern nützen nichts, wenn das Herz nicht bei Gott ist.
+
+---
+
+### Ein grausames Volk von Norden (Vers 22–30)
+
+<sup>22</sup>So spricht der HERR:
+„Siehe, ein Volk kommt aus dem Land des Nordens.
+Ein großes Volk wird aufgeweckt von den äußersten Enden der Erde.
+<sup>23</sup>Sie greifen nach Bogen und Speer.
+Sie sind grausam und haben kein Erbarmen.
+Ihre Stimme braust wie das Meer,
+und sie reiten auf Pferden,
+jeder gerüstet wie ein Mann zum Kampf,
+gegen dich, Tochter Zion.“
+<sup>24</sup>Wir haben die Nachricht davon gehört.
+Unsere Hände sind schlaff geworden.
+Angst hat uns gepackt,
+Schmerzen wie bei einer Frau in Wehen.
+<sup>25</sup>Geht nicht hinaus aufs Feld
+und geht nicht auf dem Weg,
+denn das Schwert des Feindes ist da,
+Schrecken ringsum.
+<sup>26</sup>Tochter meines Volkes,
+zieh Sacktuch an und wälze dich in der Asche!
+Trauere wie um einen einzigen Sohn,
+mit bitterster Klage,
+denn plötzlich wird der Verwüster über uns kommen.
+<sup>27</sup>„Ich habe dich zum Prüfer gemacht unter meinem Volk,
+zu einer Festung,
+damit du ihren Weg erkennst und prüfst.
+<sup>28</sup>Sie alle sind schlimme Abtrünnige,
+die herumgehen, um zu verleumden.
+Sie sind Bronze und Eisen.
+Sie alle handeln verderblich.
+<sup>29</sup>Der Blasebalg schnaubt.
+Das Blei wird vom Feuer verzehrt.
+Umsonst schmilzt man und schmilzt,
+denn die Bösen werden nicht ausgeschieden.
+<sup>30</sup>Man wird sie verworfenes Silber nennen,
+denn der HERR hat sie verworfen.“
+
+> **Was bedeutet das?**
+> Vers 22–23: Das Heer aus dem Norden ist grausam und ohne Erbarmen. Jeremia beschreibt ehrlich, wie schrecklich Krieg ist.
+> Vers 24–26: Die Menschen sind gelähmt vor Angst. Niemand traut sich mehr hinaus. „Schrecken ringsum“ ist ein Ausdruck, der bei Jeremia noch öfter vorkommt. Die Trauer ist so tief wie die Trauer um ein einziges Kind.
+> Vers 27–30: Gott macht Jeremia zu einem „Prüfer“, wie jemand, der Metall im Feuer prüft. Beim Schmelzen soll das reine Silber vom Unreinen getrennt werden. Aber so sehr man auch schmilzt, es bleibt nichts Reines übrig. Ein trauriges Ergebnis.
+> Wer heute unter Krieg, Flucht oder Angst leidet, findet in Jeremias Worten jemanden, der diesen Schmerz kennt. Und niemand muss allein damit bleiben: Telefonseelsorge 0800 111 0 111.
