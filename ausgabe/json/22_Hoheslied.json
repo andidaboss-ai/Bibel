@@ -1,0 +1,438 @@
+{
+ "nr": 22,
+ "code": "SNG",
+ "kuerzel": "Hld",
+ "name": "Hoheslied",
+ "name_englisch": "Song of Songs",
+ "testament": "altes-testament",
+ "kapitel": 8,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Deine Liebe ist besser als Wein",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Was ist das Hohelied?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Hohelied heißt auf Hebräisch „Schir ha-Schirim“, „das Lied der Lieder“. Das bedeutet: das schönste aller Lieder.\nEs ist eine Sammlung von Liebesgedichten. Eine junge Frau und ein junger Mann sprechen voller Sehnsucht zueinander. Sie loben die Schönheit des anderen, sie suchen sich, sie finden sich. Manchmal spricht auch ein Chor, die „Töchter Jerusalems“ oder die „Freunde“.\nDie Sprache ist sehr bildreich: Gärten, Weinberge, Gazellen, Tauben, Gewürze, Früchte. Die Liebe wird auch körperlich beschrieben, zart und poetisch.\nIm ganzen Buch kommt der Name Gottes nicht ausdrücklich vor. Trotzdem gehört es zur Bibel.\nEs gibt zwei große Arten, das Hohelied zu verstehen:\n– Wörtlich: Es ist ein Lob der Liebe zwischen Frau und Mann. Die Liebe ist ein Geschenk Gottes, schön und stark.\n– Als Bild: Im Judentum sieht man darin die Liebe zwischen Gott und seinem Volk Israel. Man liest es am Pessachfest. Christen haben darin auch die Liebe zwischen Christus und der Kirche oder der einzelnen Seele gesehen.\nBeide Deutungen schließen sich nicht aus.\nDie englische Vorlage hat kleine Hinweise, wer gerade spricht: „Geliebte“, „Geliebter“, „Freunde“. Diese Übertragung übernimmt sie.\nDas Buch wird Salomo zugeschrieben. Ob er es selbst geschrieben hat, ist unsicher.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Sehnsucht nach dem Geliebten",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Lied der Lieder, das von Salomo ist.",
+       "englisch_web": "The Song of songs, which is Solomon’s."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er soll mich küssen mit den Küssen seines Mundes,\ndenn deine Liebe ist besser als Wein.",
+       "englisch_web": "Let him kiss me with the kisses of his mouth; for your love is better than wine."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Deine Öle haben einen angenehmen Duft.\nDein Name ist wie ausgegossenes Öl,\ndarum lieben dich die jungen Frauen.",
+       "englisch_web": "Your oils have a pleasing fragrance. Your name is oil poured out, therefore the virgins love you."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Nimm mich mit dir! Lass uns eilen!\nDer König hat mich in seine Gemächer gebracht.\nFreunde: Wir wollen jubeln und uns über dich freuen.\nWir wollen deine Liebe mehr preisen als Wein!\nGeliebte: Zu Recht lieben sie dich.",
+       "englisch_web": "Take me away with you. Let’s hurry. The king has brought me into his rooms. Friends We will be glad and rejoice in you. We will praise your love more than wine! Beloved They are right to love you."
+      }
+     ],
+     "erklaerung": "Das Buch beginnt mitten in der Sehnsucht: Die junge Frau wünscht sich die Küsse ihres Geliebten.\nVers 3: Duftendes Öl war kostbar. Der „Name“ steht für den ganzen Menschen. Schon sein Name ist für sie wie ein wunderbarer Duft.\nVers 4: Hier sprechen verschiedene Stimmen: die Frau, dann die Freunde, dann wieder die Frau. Die englische Vorlage kennzeichnet das.\n„Der König“: In Liebesgedichten nennt man den Geliebten oft „König“. Für sie ist er der Wichtigste."
+    },
+    {
+     "ueberschrift": "Dunkel, aber schön",
+     "vers_von": 5,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich bin dunkel, aber schön, ihr Töchter Jerusalems,\nwie die Zelte von Kedar, wie die Vorhänge Salomos.",
+       "englisch_web": "I am dark, but lovely, you daughters of Jerusalem, like Kedar’s tents, like Solomon’s curtains."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Starrt mich nicht an, weil ich dunkel bin,\nweil die Sonne mich verbrannt hat.\nDie Söhne meiner Mutter waren zornig auf mich.\nSie machten mich zur Hüterin der Weinberge.\nMeinen eigenen Weinberg habe ich nicht gehütet.",
+       "englisch_web": "Don’t stare at me because I am dark, because the sun has scorched me. My mother’s sons were angry with me. They made me keeper of the vineyards. I haven’t kept my own vineyard."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sag mir, du, den meine Seele liebt,\nwo du deine Herde weidest,\nwo du sie am Mittag ruhen lässt.\nDenn warum soll ich wie eine Verschleierte sein\nbei den Herden deiner Gefährten?",
+       "englisch_web": "Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions?"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wenn du es nicht weißt, du Schönste unter den Frauen,\ndann folge den Spuren der Schafe\nund weide deine jungen Ziegen bei den Zelten der Hirten.",
+       "englisch_web": "If you don’t know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds’ tents."
+      }
+     ],
+     "erklaerung": "Vers 5–6: Die Frau ist von der Sonne braun gebrannt, weil sie draußen im Weinberg arbeiten musste. Damals galt helle Haut bei vornehmen Frauen als schön. Aber sie sagt selbstbewusst: „Ich bin dunkel und schön!“ Die Zelte von Kedar waren aus schwarzem Ziegenhaar gewebt.\nDas ist ein starker Satz gegen Vorurteile: Schönheit hängt nicht von der Hautfarbe ab.\n„Meinen eigenen Weinberg habe ich nicht gehütet“: Sie hatte keine Zeit für sich selbst. Der „Weinberg“ steht im Hohelied oft für die Frau selbst.\nVers 7–8: Sie sucht ihren Geliebten, einen Hirten. „Wie eine Verschleierte“: Sie will nicht suchend zwischen fremden Hirten umherirren."
+    },
+    {
+     "ueberschrift": "Wie schön du bist",
+     "vers_von": 9,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Ich vergleiche dich, meine Liebste,\nmit einer Stute an den Wagen des Pharao.",
+       "englisch_web": "I have compared you, my love, to a steed in Pharaoh’s chariots."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Deine Wangen sind schön mit Ohrringen,\ndein Hals mit Ketten aus Edelsteinen.",
+       "englisch_web": "Your cheeks are beautiful with earrings, your neck with strings of jewels."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Wir wollen dir goldene Ohrringe machen\nmit Silberperlen.",
+       "englisch_web": "We will make you earrings of gold, with studs of silver."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Während der König an seinem Tisch saß,\nverbreitete mein Parfüm seinen Duft.",
+       "englisch_web": "While the king sat at his table, my perfume spread its fragrance."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Mein Geliebter ist für mich ein Beutel mit Myrrhe,\nder zwischen meinen Brüsten liegt.",
+       "englisch_web": "My beloved is to me a sachet of myrrh, that lies between my breasts."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Mein Geliebter ist für mich eine Traube von Hennablüten\naus den Weinbergen von En-Gedi.",
+       "englisch_web": "My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Siehe, du bist schön, meine Liebste.\nSiehe, du bist schön.\nDeine Augen sind wie Tauben.",
+       "englisch_web": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Siehe, du bist schön, mein Geliebter, ja, lieblich.\nUnd unser Lager ist grün.",
+       "englisch_web": "Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Balken unseres Hauses sind Zedern,\nunsere Sparren sind Zypressen.",
+       "englisch_web": "The beams of our house are cedars. Our rafters are firs."
+      }
+     ],
+     "erklaerung": "Vers 9: Ein Vergleich, der uns fremd ist: Die Pferde des Pharao waren die schönsten und prächtigsten, mit Schmuck behangen. Er meint: Du bist wunderschön und auffallend.\nVers 13: Frauen trugen kleine Duftbeutel mit Myrrhe um den Hals. So nah und so kostbar ist ihr der Geliebte.\nVers 14: En-Gedi ist eine grüne Oase am Toten Meer, mitten in der Wüste.\nVers 15–16: Beide sagen zueinander: „Du bist schön!“ Die Liebe ist gegenseitig.\nVers 16–17: Ihr „Haus“ ist die Natur: Das grüne Gras ist ihr Bett, die Bäume sind ihr Dach."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Der Winter ist vorbei",
+   "abschnitte": [
+    {
+     "ueberschrift": "Eine Lilie unter Dornen",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ich bin eine Rose von Scharon,\neine Lilie der Täler.",
+       "englisch_web": "I am a rose of Sharon, a lily of the valleys."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wie eine Lilie unter Dornen,\nso ist meine Liebste unter den jungen Frauen.",
+       "englisch_web": "As a lily among thorns, so is my love among the daughters."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Wie ein Apfelbaum unter den Bäumen des Waldes,\nso ist mein Geliebter unter den jungen Männern.\nIch saß mit großer Freude in seinem Schatten,\nund seine Frucht war süß für meinen Gaumen.",
+       "englisch_web": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, his fruit was sweet to my taste."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er führte mich in das Festhaus,\nund sein Banner über mir ist die Liebe.",
+       "englisch_web": "He brought me to the banquet hall. His banner over me is love."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Stärkt mich mit Rosinen,\nerfrischt mich mit Äpfeln,\ndenn ich bin krank vor Liebe.",
+       "englisch_web": "Strengthen me with raisins, refresh me with apples; for I am faint with love."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Seine linke Hand liegt unter meinem Kopf,\nund seine rechte Hand umarmt mich.",
+       "englisch_web": "His left hand is under my head. His right hand embraces me."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich beschwöre euch, ihr Töchter Jerusalems,\nbei den Gazellen oder bei den Hirschkühen des Feldes,\ndass ihr die Liebe nicht weckt und nicht aufstört,\nbis es ihr selbst gefällt.",
+       "englisch_web": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires."
+      }
+     ],
+     "erklaerung": "Vers 1: Die Frau nennt sich bescheiden eine einfache Blume, eine von vielen in der Ebene Scharon.\nVers 2: Er antwortet: Für mich bist du wie eine Lilie zwischen lauter Dornen. Keine ist wie du.\nVers 3: Sie antwortet: Und du bist wie ein Apfelbaum mitten im Wald, der Schatten und süße Früchte gibt.\nVers 4: „Sein Banner über mir ist die Liebe“: Ein Banner zeigt, wem man gehört. Seine Liebe ist wie eine Fahne über ihr.\nVers 5: „Krank vor Liebe“: Wer verliebt ist, kennt das Gefühl.\nVers 7: Ein Satz, der im Buch dreimal vorkommt: Weckt die Liebe nicht zu früh! Liebe braucht ihre Zeit. Man soll sie nicht erzwingen."
+    },
+    {
+     "ueberschrift": "Steh auf, meine Liebste",
+     "vers_von": 8,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Stimme meines Geliebten!\nSiehe, er kommt,\nspringt über die Berge, hüpft über die Hügel.",
+       "englisch_web": "The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Mein Geliebter ist wie eine Gazelle oder ein junger Hirsch.\nSiehe, er steht hinter unserer Mauer!\nEr schaut durch die Fenster herein.\nEr blickt durch das Gitter.",
+       "englisch_web": "My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Mein Geliebter sprach und sagte zu mir:\n„Steh auf, meine Liebste, meine Schöne, und komm!",
+       "englisch_web": "My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn siehe, der Winter ist vorbei.\nDer Regen ist vorüber und vergangen.",
+       "englisch_web": "For behold, the winter is past. The rain is over and gone."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Die Blumen erscheinen auf der Erde.\nDie Zeit des Singens ist gekommen,\nund die Stimme der Turteltaube ist in unserem Land zu hören.",
+       "englisch_web": "The flowers appear on the earth. The time of the singing has come, and the voice of the turtledove is heard in our land."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Der Feigenbaum lässt seine grünen Feigen reifen.\nDie Weinstöcke blühen.\nSie verbreiten ihren Duft.\nSteh auf, meine Liebste, meine Schöne, und komm!“",
+       "englisch_web": "The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Meine Taube in den Felsspalten,\nim Versteck am Berghang,\nlass mich dein Gesicht sehen,\nlass mich deine Stimme hören,\ndenn deine Stimme ist süß, und dein Gesicht ist lieblich.",
+       "englisch_web": "My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Fangt uns die Füchse,\ndie kleinen Füchse, die die Weinberge verwüsten,\ndenn unsere Weinberge blühen.",
+       "englisch_web": "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Mein Geliebter ist mein, und ich bin sein.\nEr weidet unter den Lilien.",
+       "englisch_web": "My beloved is mine, and I am his. He browses among the lilies."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Bis der Tag kühl wird und die Schatten fliehen,\nwende dich, mein Geliebter, und sei wie eine Gazelle\noder ein junger Hirsch auf den Bergen von Beter.",
+       "englisch_web": "Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether."
+      }
+     ],
+     "erklaerung": "Vers 8–9: Der Geliebte kommt voller Freude angesprungen wie eine junge Gazelle. Ungeduldig schaut er durchs Fenster.\nVers 10–13: Eines der schönsten Frühlingsgedichte der Welt: Der Winter ist vorbei, die Blumen blühen, die Vögel singen. Komm mit mir! Liebe ist wie ein neuer Frühling.\nVers 15: Kleine Füchse fressen die jungen Trauben. Vielleicht ist gemeint: Kleine Störungen können eine junge Liebe kaputt machen. Passt darauf auf!\nVers 16: „Mein Geliebter ist mein, und ich bin sein“: Dieser Satz wird oft in Eheringe graviert. Er drückt gegenseitige Zugehörigkeit aus.\nVers 17: „Die Berge von Beter“: Der Name ist unsicher, vielleicht „zerklüftete Berge“."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Ich suchte ihn, den meine Seele liebt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Nächtliche Suche",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Nachts auf meinem Bett\nsuchte ich den, den meine Seele liebt.\nIch suchte ihn, aber ich fand ihn nicht.",
+       "englisch_web": "By night on my bed, I sought him whom my soul loves. I sought him, but I didn’t find him."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Ich will jetzt aufstehen und in der Stadt umhergehen.\nAuf den Straßen und auf den Plätzen will ich den suchen,\nden meine Seele liebt.\nIch suchte ihn, aber ich fand ihn nicht.",
+       "englisch_web": "I will get up now, and go about the city; in the streets and in the squares I will seek him whom my soul loves. I sought him, but I didn’t find him."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Die Wächter, die in der Stadt umhergehen, fanden mich.\n„Habt ihr den gesehen, den meine Seele liebt?“",
+       "englisch_web": "The watchmen who go about the city found me; “Have you seen him whom my soul loves?”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Kaum war ich an ihnen vorbei,\nda fand ich den, den meine Seele liebt.\nIch hielt ihn fest und ließ ihn nicht los,\nbis ich ihn in das Haus meiner Mutter gebracht hatte,\nin das Zimmer der Frau, die mich empfangen hat.",
+       "englisch_web": "I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother’s house, into the room of her who conceived me."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich beschwöre euch, ihr Töchter Jerusalems,\nbei den Gazellen oder bei den Hirschkühen des Feldes,\ndass ihr die Liebe nicht weckt und nicht aufstört,\nbis es ihr selbst gefällt.",
+       "englisch_web": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires."
+      }
+     ],
+     "erklaerung": "Die junge Frau kann nicht schlafen. Sie sehnt sich nach ihrem Geliebten. Mitten in der Nacht sucht sie ihn in der ganzen Stadt.\nViermal sagt sie: „den meine Seele liebt“. Ihre Liebe ist ganz tief.\nVers 4: Als sie ihn findet, hält sie ihn fest und lässt ihn nicht mehr los.\nViele Menschen haben diese Verse auch als Bild für die Suche nach Gott gelesen: Man sucht und sucht, und dann findet man ihn und will ihn nicht mehr loslassen."
+    },
+    {
+     "ueberschrift": "Der Hochzeitszug Salomos",
+     "vers_von": 6,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Wer ist es, die da heraufkommt aus der Wüste\nwie Rauchsäulen,\nduftend nach Myrrhe und Weihrauch,\nnach allen Gewürzen des Händlers?",
+       "englisch_web": "Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Siehe, es ist die Sänfte Salomos!\nSechzig Helden sind um sie herum,\nvon den Helden Israels.",
+       "englisch_web": "Behold, it is Solomon’s carriage! Sixty mighty men are around it, of the mighty men of Israel."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sie alle tragen das Schwert\nund sind erfahren im Kampf.\nJeder hat sein Schwert an der Hüfte\nwegen der Schrecken der Nacht.",
+       "englisch_web": "They all handle the sword, and are expert in war. Every man has his sword on his thigh, because of fear in the night."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "König Salomo hat sich eine Sänfte gemacht\naus dem Holz des Libanon.",
+       "englisch_web": "King Solomon made himself a carriage of the wood of Lebanon."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ihre Säulen machte er aus Silber,\nihren Boden aus Gold,\nihren Sitz aus Purpur.\nIhr Inneres ist mit Liebe ausgelegt,\nvon den Töchtern Jerusalems.",
+       "englisch_web": "He made its pillars of silver, its bottom of gold, its seat of purple, the middle of it being paved with love, from the daughters of Jerusalem."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Geht hinaus, ihr Töchter Zions,\nund seht den König Salomo\nmit der Krone, mit der ihn seine Mutter gekrönt hat\nam Tag seiner Hochzeit,\nam Tag der Freude seines Herzens.",
+       "englisch_web": "Go out, you daughters of Zion, and see King Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart."
+      }
+     ],
+     "erklaerung": "Ein prächtiger Hochzeitszug kommt heran: Salomos Sänfte, ein getragener Sitz, aus kostbarem Holz, Silber, Gold und Purpur, umgeben von 60 Leibwächtern. Eine Duftwolke aus Weihrauch und Myrrhe zieht voraus.\nVers 10: „Mit Liebe ausgelegt“: Die Frauen Jerusalems haben das Innere liebevoll geschmückt.\nVers 11: Am Hochzeitstag trägt der Bräutigam eine Krone. Das ist bis heute ein Brauch bei manchen Hochzeiten im Orient. Der Hochzeitstag ist „der Tag der Freude seines Herzens“."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Du bist ganz schön, meine Freundin",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ein Lied auf ihre Schönheit",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Siehe, du bist schön, meine Liebste.\nSiehe, du bist schön.\nDeine Augen sind wie Tauben hinter deinem Schleier.\nDein Haar ist wie eine Herde Ziegen,\ndie vom Berg Gilead herabsteigen.",
+       "englisch_web": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Deine Zähne sind wie eine frisch geschorene Herde,\ndie aus der Schwemme heraufkommt.\nJedes von ihnen hat Zwillinge,\nund keines ist ohne Junge.",
+       "englisch_web": "Your teeth are like a newly shorn flock, which have come up from the washing, where every one of them has twins. None is bereaved among them."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Deine Lippen sind wie ein scharlachroter Faden.\nDein Mund ist lieblich.\nDeine Schläfen sind wie ein Stück Granatapfel\nhinter deinem Schleier.",
+       "englisch_web": "Your lips are like scarlet thread. Your mouth is lovely. Your temples are like a piece of a pomegranate behind your veil."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Dein Hals ist wie der Turm Davids,\ngebaut als Waffenlager,\nan dem tausend Schilde hängen,\nalle Schilde der Helden.",
+       "englisch_web": "Your neck is like David’s tower built for an armory, on which a thousand shields hang, all the shields of the mighty men."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Deine beiden Brüste sind wie zwei junge Rehe,\nZwillinge einer Gazelle,\ndie unter den Lilien weiden.",
+       "englisch_web": "Your two breasts are like two fawns that are twins of a roe, which feed among the lilies."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Bis der Tag kühl wird und die Schatten fliehen,\nwill ich zum Myrrhenberg gehen,\nzum Weihrauchhügel.",
+       "englisch_web": "Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Du bist ganz schön, meine Liebste.\nKein Makel ist an dir.",
+       "englisch_web": "You are all beautiful, my love. There is no spot in you."
+      }
+     ],
+     "erklaerung": "Der Mann beschreibt die Schönheit seiner Geliebten von Kopf bis Fuß. Solche Lieder heißen auf Arabisch „Wasf“, Beschreibungslied. Die Bilder klingen für uns ungewohnt, aber damals waren sie wunderschön:\nIhr schwarzes Haar wallt wie eine Herde schwarzer Ziegen, die einen Berg hinabzieht. Ihre Zähne sind weiß wie frisch gewaschene Schafe und vollständig, keiner fehlt. Ihr Hals ist schlank und stolz wie ein Turm, geschmückt mit Ketten wie mit Schilden.\nVers 7: „Du bist ganz schön, kein Makel ist an dir.“ So sieht Liebe den anderen. Christen haben diesen Vers auch auf die Kirche bezogen, die Christus liebt (Epheser 5,27)."
+    },
+    {
+     "ueberschrift": "Meine Schwester, meine Braut",
+     "vers_von": 8,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Komm mit mir vom Libanon, meine Braut,\nmit mir vom Libanon!\nSchau herab vom Gipfel des Amana,\nvom Gipfel des Senir und des Hermon,\nvon den Höhlen der Löwen,\nvon den Bergen der Leoparden.",
+       "englisch_web": "Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions’ dens, from the mountains of the leopards."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du hast mir das Herz geraubt, meine Schwester, meine Braut.\nDu hast mir das Herz geraubt mit einem einzigen Blick deiner Augen,\nmit einer einzigen Kette deines Halses.",
+       "englisch_web": "You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Wie schön ist deine Liebe, meine Schwester, meine Braut!\nWie viel besser ist deine Liebe als Wein,\nund der Duft deiner Salben als alle Gewürze!",
+       "englisch_web": "How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices!"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Deine Lippen, meine Braut, tropfen wie Wabenhonig.\nHonig und Milch sind unter deiner Zunge.\nDer Duft deiner Kleider ist wie der Duft des Libanon.",
+       "englisch_web": "Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon."
+      }
+     ],
+     "erklaerung": "Vers 8: Die hohen Berge im Norden mit wilden Tieren sind ein Bild dafür, dass sie ihm fern und unerreichbar scheint. Er ruft sie zu sich.\nVers 9: „Meine Schwester, meine Braut“: „Schwester“ war im alten Orient ein zärtlicher Kosename für die Geliebte. Es bedeutet nicht, dass sie verwandt sind. Es drückt große Nähe und Vertrautheit aus.\nEin einziger Blick von ihr hat ihm das Herz geraubt.\nVers 11: „Honig und Milch“ erinnern an das verheißene Land, „wo Milch und Honig fließen“. Sie ist für ihn wie ein Paradies."
+    },
+    {
+     "ueberschrift": "Ein verschlossener Garten",
+     "vers_von": 12,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Meine Schwester, meine Braut, ist ein verschlossener Garten,\neine verschlossene Quelle, ein versiegelter Brunnen.",
+       "englisch_web": "My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Deine Triebe sind ein Garten voller Granatäpfel\nmit köstlichen Früchten,\nHenna mit Narden,",
+       "englisch_web": "Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Narde und Safran,\nKalmus und Zimt\nmit allerlei Weihrauchbäumen,\nMyrrhe und Aloe\nmit allen besten Gewürzen,",
+       "englisch_web": "spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "eine Gartenquelle,\nein Brunnen lebendigen Wassers,\nfließende Bäche vom Libanon.",
+       "englisch_web": "a fountain of gardens, a well of living waters, flowing streams from Lebanon."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Wach auf, Nordwind, und komm, Südwind!\nWeht durch meinen Garten,\ndamit seine Düfte strömen.\nMein Geliebter soll in seinen Garten kommen\nund seine köstlichen Früchte essen.",
+       "englisch_web": "Awake, north wind, and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits."
+      }
+     ],
+     "erklaerung": "Vers 12: Die Geliebte ist wie ein Garten mit einer Mauer drumherum. Nicht jeder darf hinein. Das ist ein zartes Bild dafür, dass sie sich für ihren Geliebten aufbewahrt.\nVers 13–15: Der Garten ist voller kostbarer Pflanzen und Gewürze aus aller Welt. Er hat sogar eine eigene Quelle. Ein Paradies.\nVers 16: Jetzt antwortet die Frau: Sie lädt ihren Geliebten ein, in „seinen“ Garten zu kommen. Sie öffnet sich ihm aus freiem Willen. Liebe ist gegenseitig und freiwillig.\nDas Hohelied spricht zart und offen über körperliche Liebe als etwas Schönes, das Gott geschenkt hat."
+    }
+   ]
+  }
+ ]
+}

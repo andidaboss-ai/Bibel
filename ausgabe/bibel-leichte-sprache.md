@@ -83174,3 +83174,341 @@ es sei gut oder böse.
 > **Der Schluss:** „Fürchte Gott und halte seine Gebote“ (12,13). Wenn alles vergeht, bleibt Gott.
 > **Für wen ist das Buch?** Für alle, die zweifeln, fragen und suchen. Es zeigt: Auch diese Gedanken haben Platz in der Bibel. Im Judentum liest man es am Laubhüttenfest, dem fröhlichsten Fest des Jahres.
 > **Wie geht es weiter?** Als Nächstes kommt das Hohelied, ein Buch voller Liebesgedichte zwischen einer Frau und einem Mann. Es feiert die Liebe als Geschenk Gottes.
+
+
+---
+
+# Hoheslied
+
+## Hoheslied – Kapitel 1
+#### Deine Liebe ist besser als Wein
+
+---
+
+### Bevor es losgeht: Was ist das Hohelied?
+
+Das Hohelied heißt auf Hebräisch „Schir ha-Schirim“, „das Lied der Lieder“. Das bedeutet: das schönste aller Lieder.
+Es ist eine Sammlung von Liebesgedichten. Eine junge Frau und ein junger Mann sprechen voller Sehnsucht zueinander. Sie loben die Schönheit des anderen, sie suchen sich, sie finden sich. Manchmal spricht auch ein Chor, die „Töchter Jerusalems“ oder die „Freunde“.
+Die Sprache ist sehr bildreich: Gärten, Weinberge, Gazellen, Tauben, Gewürze, Früchte. Die Liebe wird auch körperlich beschrieben, zart und poetisch.
+Im ganzen Buch kommt der Name Gottes nicht ausdrücklich vor. Trotzdem gehört es zur Bibel.
+Es gibt zwei große Arten, das Hohelied zu verstehen:
+– Wörtlich: Es ist ein Lob der Liebe zwischen Frau und Mann. Die Liebe ist ein Geschenk Gottes, schön und stark.
+– Als Bild: Im Judentum sieht man darin die Liebe zwischen Gott und seinem Volk Israel. Man liest es am Pessachfest. Christen haben darin auch die Liebe zwischen Christus und der Kirche oder der einzelnen Seele gesehen.
+Beide Deutungen schließen sich nicht aus.
+Die englische Vorlage hat kleine Hinweise, wer gerade spricht: „Geliebte“, „Geliebter“, „Freunde“. Diese Übertragung übernimmt sie.
+Das Buch wird Salomo zugeschrieben. Ob er es selbst geschrieben hat, ist unsicher.
+
+---
+
+### Sehnsucht nach dem Geliebten (Vers 1–4)
+
+<sup>1</sup>Das Lied der Lieder, das von Salomo ist.
+<sup>2</sup>Er soll mich küssen mit den Küssen seines Mundes,
+denn deine Liebe ist besser als Wein.
+<sup>3</sup>Deine Öle haben einen angenehmen Duft.
+Dein Name ist wie ausgegossenes Öl,
+darum lieben dich die jungen Frauen.
+<sup>4</sup>Nimm mich mit dir! Lass uns eilen!
+Der König hat mich in seine Gemächer gebracht.
+Freunde: Wir wollen jubeln und uns über dich freuen.
+Wir wollen deine Liebe mehr preisen als Wein!
+Geliebte: Zu Recht lieben sie dich.
+
+> **Was bedeutet das?**
+> Das Buch beginnt mitten in der Sehnsucht: Die junge Frau wünscht sich die Küsse ihres Geliebten.
+> Vers 3: Duftendes Öl war kostbar. Der „Name“ steht für den ganzen Menschen. Schon sein Name ist für sie wie ein wunderbarer Duft.
+> Vers 4: Hier sprechen verschiedene Stimmen: die Frau, dann die Freunde, dann wieder die Frau. Die englische Vorlage kennzeichnet das.
+> „Der König“: In Liebesgedichten nennt man den Geliebten oft „König“. Für sie ist er der Wichtigste.
+
+---
+
+### Dunkel, aber schön (Vers 5–8)
+
+<sup>5</sup>Ich bin dunkel, aber schön, ihr Töchter Jerusalems,
+wie die Zelte von Kedar, wie die Vorhänge Salomos.
+<sup>6</sup>Starrt mich nicht an, weil ich dunkel bin,
+weil die Sonne mich verbrannt hat.
+Die Söhne meiner Mutter waren zornig auf mich.
+Sie machten mich zur Hüterin der Weinberge.
+Meinen eigenen Weinberg habe ich nicht gehütet.
+<sup>7</sup>Sag mir, du, den meine Seele liebt,
+wo du deine Herde weidest,
+wo du sie am Mittag ruhen lässt.
+Denn warum soll ich wie eine Verschleierte sein
+bei den Herden deiner Gefährten?
+<sup>8</sup>Wenn du es nicht weißt, du Schönste unter den Frauen,
+dann folge den Spuren der Schafe
+und weide deine jungen Ziegen bei den Zelten der Hirten.
+
+> **Was bedeutet das?**
+> Vers 5–6: Die Frau ist von der Sonne braun gebrannt, weil sie draußen im Weinberg arbeiten musste. Damals galt helle Haut bei vornehmen Frauen als schön. Aber sie sagt selbstbewusst: „Ich bin dunkel und schön!“ Die Zelte von Kedar waren aus schwarzem Ziegenhaar gewebt.
+> Das ist ein starker Satz gegen Vorurteile: Schönheit hängt nicht von der Hautfarbe ab.
+> „Meinen eigenen Weinberg habe ich nicht gehütet“: Sie hatte keine Zeit für sich selbst. Der „Weinberg“ steht im Hohelied oft für die Frau selbst.
+> Vers 7–8: Sie sucht ihren Geliebten, einen Hirten. „Wie eine Verschleierte“: Sie will nicht suchend zwischen fremden Hirten umherirren.
+
+---
+
+### Wie schön du bist (Vers 9–17)
+
+<sup>9</sup>Ich vergleiche dich, meine Liebste,
+mit einer Stute an den Wagen des Pharao.
+<sup>10</sup>Deine Wangen sind schön mit Ohrringen,
+dein Hals mit Ketten aus Edelsteinen.
+<sup>11</sup>Wir wollen dir goldene Ohrringe machen
+mit Silberperlen.
+<sup>12</sup>Während der König an seinem Tisch saß,
+verbreitete mein Parfüm seinen Duft.
+<sup>13</sup>Mein Geliebter ist für mich ein Beutel mit Myrrhe,
+der zwischen meinen Brüsten liegt.
+<sup>14</sup>Mein Geliebter ist für mich eine Traube von Hennablüten
+aus den Weinbergen von En-Gedi.
+<sup>15</sup>Siehe, du bist schön, meine Liebste.
+Siehe, du bist schön.
+Deine Augen sind wie Tauben.
+<sup>16</sup>Siehe, du bist schön, mein Geliebter, ja, lieblich.
+Und unser Lager ist grün.
+<sup>17</sup>Die Balken unseres Hauses sind Zedern,
+unsere Sparren sind Zypressen.
+
+> **Was bedeutet das?**
+> Vers 9: Ein Vergleich, der uns fremd ist: Die Pferde des Pharao waren die schönsten und prächtigsten, mit Schmuck behangen. Er meint: Du bist wunderschön und auffallend.
+> Vers 13: Frauen trugen kleine Duftbeutel mit Myrrhe um den Hals. So nah und so kostbar ist ihr der Geliebte.
+> Vers 14: En-Gedi ist eine grüne Oase am Toten Meer, mitten in der Wüste.
+> Vers 15–16: Beide sagen zueinander: „Du bist schön!“ Die Liebe ist gegenseitig.
+> Vers 16–17: Ihr „Haus“ ist die Natur: Das grüne Gras ist ihr Bett, die Bäume sind ihr Dach.
+
+## Hoheslied – Kapitel 2
+#### Der Winter ist vorbei
+
+---
+
+### Eine Lilie unter Dornen (Vers 1–7)
+
+<sup>1</sup>Ich bin eine Rose von Scharon,
+eine Lilie der Täler.
+<sup>2</sup>Wie eine Lilie unter Dornen,
+so ist meine Liebste unter den jungen Frauen.
+<sup>3</sup>Wie ein Apfelbaum unter den Bäumen des Waldes,
+so ist mein Geliebter unter den jungen Männern.
+Ich saß mit großer Freude in seinem Schatten,
+und seine Frucht war süß für meinen Gaumen.
+<sup>4</sup>Er führte mich in das Festhaus,
+und sein Banner über mir ist die Liebe.
+<sup>5</sup>Stärkt mich mit Rosinen,
+erfrischt mich mit Äpfeln,
+denn ich bin krank vor Liebe.
+<sup>6</sup>Seine linke Hand liegt unter meinem Kopf,
+und seine rechte Hand umarmt mich.
+<sup>7</sup>Ich beschwöre euch, ihr Töchter Jerusalems,
+bei den Gazellen oder bei den Hirschkühen des Feldes,
+dass ihr die Liebe nicht weckt und nicht aufstört,
+bis es ihr selbst gefällt.
+
+> **Was bedeutet das?**
+> Vers 1: Die Frau nennt sich bescheiden eine einfache Blume, eine von vielen in der Ebene Scharon.
+> Vers 2: Er antwortet: Für mich bist du wie eine Lilie zwischen lauter Dornen. Keine ist wie du.
+> Vers 3: Sie antwortet: Und du bist wie ein Apfelbaum mitten im Wald, der Schatten und süße Früchte gibt.
+> Vers 4: „Sein Banner über mir ist die Liebe“: Ein Banner zeigt, wem man gehört. Seine Liebe ist wie eine Fahne über ihr.
+> Vers 5: „Krank vor Liebe“: Wer verliebt ist, kennt das Gefühl.
+> Vers 7: Ein Satz, der im Buch dreimal vorkommt: Weckt die Liebe nicht zu früh! Liebe braucht ihre Zeit. Man soll sie nicht erzwingen.
+
+---
+
+### Steh auf, meine Liebste (Vers 8–17)
+
+<sup>8</sup>Die Stimme meines Geliebten!
+Siehe, er kommt,
+springt über die Berge, hüpft über die Hügel.
+<sup>9</sup>Mein Geliebter ist wie eine Gazelle oder ein junger Hirsch.
+Siehe, er steht hinter unserer Mauer!
+Er schaut durch die Fenster herein.
+Er blickt durch das Gitter.
+<sup>10</sup>Mein Geliebter sprach und sagte zu mir:
+„Steh auf, meine Liebste, meine Schöne, und komm!
+<sup>11</sup>Denn siehe, der Winter ist vorbei.
+Der Regen ist vorüber und vergangen.
+<sup>12</sup>Die Blumen erscheinen auf der Erde.
+Die Zeit des Singens ist gekommen,
+und die Stimme der Turteltaube ist in unserem Land zu hören.
+<sup>13</sup>Der Feigenbaum lässt seine grünen Feigen reifen.
+Die Weinstöcke blühen.
+Sie verbreiten ihren Duft.
+Steh auf, meine Liebste, meine Schöne, und komm!“
+<sup>14</sup>Meine Taube in den Felsspalten,
+im Versteck am Berghang,
+lass mich dein Gesicht sehen,
+lass mich deine Stimme hören,
+denn deine Stimme ist süß, und dein Gesicht ist lieblich.
+<sup>15</sup>Fangt uns die Füchse,
+die kleinen Füchse, die die Weinberge verwüsten,
+denn unsere Weinberge blühen.
+<sup>16</sup>Mein Geliebter ist mein, und ich bin sein.
+Er weidet unter den Lilien.
+<sup>17</sup>Bis der Tag kühl wird und die Schatten fliehen,
+wende dich, mein Geliebter, und sei wie eine Gazelle
+oder ein junger Hirsch auf den Bergen von Beter.
+
+> **Was bedeutet das?**
+> Vers 8–9: Der Geliebte kommt voller Freude angesprungen wie eine junge Gazelle. Ungeduldig schaut er durchs Fenster.
+> Vers 10–13: Eines der schönsten Frühlingsgedichte der Welt: Der Winter ist vorbei, die Blumen blühen, die Vögel singen. Komm mit mir! Liebe ist wie ein neuer Frühling.
+> Vers 15: Kleine Füchse fressen die jungen Trauben. Vielleicht ist gemeint: Kleine Störungen können eine junge Liebe kaputt machen. Passt darauf auf!
+> Vers 16: „Mein Geliebter ist mein, und ich bin sein“: Dieser Satz wird oft in Eheringe graviert. Er drückt gegenseitige Zugehörigkeit aus.
+> Vers 17: „Die Berge von Beter“: Der Name ist unsicher, vielleicht „zerklüftete Berge“.
+
+## Hoheslied – Kapitel 3
+#### Ich suchte ihn, den meine Seele liebt
+
+---
+
+### Nächtliche Suche (Vers 1–5)
+
+<sup>1</sup>Nachts auf meinem Bett
+suchte ich den, den meine Seele liebt.
+Ich suchte ihn, aber ich fand ihn nicht.
+<sup>2</sup>Ich will jetzt aufstehen und in der Stadt umhergehen.
+Auf den Straßen und auf den Plätzen will ich den suchen,
+den meine Seele liebt.
+Ich suchte ihn, aber ich fand ihn nicht.
+<sup>3</sup>Die Wächter, die in der Stadt umhergehen, fanden mich.
+„Habt ihr den gesehen, den meine Seele liebt?“
+<sup>4</sup>Kaum war ich an ihnen vorbei,
+da fand ich den, den meine Seele liebt.
+Ich hielt ihn fest und ließ ihn nicht los,
+bis ich ihn in das Haus meiner Mutter gebracht hatte,
+in das Zimmer der Frau, die mich empfangen hat.
+<sup>5</sup>Ich beschwöre euch, ihr Töchter Jerusalems,
+bei den Gazellen oder bei den Hirschkühen des Feldes,
+dass ihr die Liebe nicht weckt und nicht aufstört,
+bis es ihr selbst gefällt.
+
+> **Was bedeutet das?**
+> Die junge Frau kann nicht schlafen. Sie sehnt sich nach ihrem Geliebten. Mitten in der Nacht sucht sie ihn in der ganzen Stadt.
+> Viermal sagt sie: „den meine Seele liebt“. Ihre Liebe ist ganz tief.
+> Vers 4: Als sie ihn findet, hält sie ihn fest und lässt ihn nicht mehr los.
+> Viele Menschen haben diese Verse auch als Bild für die Suche nach Gott gelesen: Man sucht und sucht, und dann findet man ihn und will ihn nicht mehr loslassen.
+
+---
+
+### Der Hochzeitszug Salomos (Vers 6–11)
+
+<sup>6</sup>Wer ist es, die da heraufkommt aus der Wüste
+wie Rauchsäulen,
+duftend nach Myrrhe und Weihrauch,
+nach allen Gewürzen des Händlers?
+<sup>7</sup>Siehe, es ist die Sänfte Salomos!
+Sechzig Helden sind um sie herum,
+von den Helden Israels.
+<sup>8</sup>Sie alle tragen das Schwert
+und sind erfahren im Kampf.
+Jeder hat sein Schwert an der Hüfte
+wegen der Schrecken der Nacht.
+<sup>9</sup>König Salomo hat sich eine Sänfte gemacht
+aus dem Holz des Libanon.
+<sup>10</sup>Ihre Säulen machte er aus Silber,
+ihren Boden aus Gold,
+ihren Sitz aus Purpur.
+Ihr Inneres ist mit Liebe ausgelegt,
+von den Töchtern Jerusalems.
+<sup>11</sup>Geht hinaus, ihr Töchter Zions,
+und seht den König Salomo
+mit der Krone, mit der ihn seine Mutter gekrönt hat
+am Tag seiner Hochzeit,
+am Tag der Freude seines Herzens.
+
+> **Was bedeutet das?**
+> Ein prächtiger Hochzeitszug kommt heran: Salomos Sänfte, ein getragener Sitz, aus kostbarem Holz, Silber, Gold und Purpur, umgeben von 60 Leibwächtern. Eine Duftwolke aus Weihrauch und Myrrhe zieht voraus.
+> Vers 10: „Mit Liebe ausgelegt“: Die Frauen Jerusalems haben das Innere liebevoll geschmückt.
+> Vers 11: Am Hochzeitstag trägt der Bräutigam eine Krone. Das ist bis heute ein Brauch bei manchen Hochzeiten im Orient. Der Hochzeitstag ist „der Tag der Freude seines Herzens“.
+
+## Hoheslied – Kapitel 4
+#### Du bist ganz schön, meine Freundin
+
+---
+
+### Ein Lied auf ihre Schönheit (Vers 1–7)
+
+<sup>1</sup>Siehe, du bist schön, meine Liebste.
+Siehe, du bist schön.
+Deine Augen sind wie Tauben hinter deinem Schleier.
+Dein Haar ist wie eine Herde Ziegen,
+die vom Berg Gilead herabsteigen.
+<sup>2</sup>Deine Zähne sind wie eine frisch geschorene Herde,
+die aus der Schwemme heraufkommt.
+Jedes von ihnen hat Zwillinge,
+und keines ist ohne Junge.
+<sup>3</sup>Deine Lippen sind wie ein scharlachroter Faden.
+Dein Mund ist lieblich.
+Deine Schläfen sind wie ein Stück Granatapfel
+hinter deinem Schleier.
+<sup>4</sup>Dein Hals ist wie der Turm Davids,
+gebaut als Waffenlager,
+an dem tausend Schilde hängen,
+alle Schilde der Helden.
+<sup>5</sup>Deine beiden Brüste sind wie zwei junge Rehe,
+Zwillinge einer Gazelle,
+die unter den Lilien weiden.
+<sup>6</sup>Bis der Tag kühl wird und die Schatten fliehen,
+will ich zum Myrrhenberg gehen,
+zum Weihrauchhügel.
+<sup>7</sup>Du bist ganz schön, meine Liebste.
+Kein Makel ist an dir.
+
+> **Was bedeutet das?**
+> Der Mann beschreibt die Schönheit seiner Geliebten von Kopf bis Fuß. Solche Lieder heißen auf Arabisch „Wasf“, Beschreibungslied. Die Bilder klingen für uns ungewohnt, aber damals waren sie wunderschön:
+> Ihr schwarzes Haar wallt wie eine Herde schwarzer Ziegen, die einen Berg hinabzieht. Ihre Zähne sind weiß wie frisch gewaschene Schafe und vollständig, keiner fehlt. Ihr Hals ist schlank und stolz wie ein Turm, geschmückt mit Ketten wie mit Schilden.
+> Vers 7: „Du bist ganz schön, kein Makel ist an dir.“ So sieht Liebe den anderen. Christen haben diesen Vers auch auf die Kirche bezogen, die Christus liebt (Epheser 5,27).
+
+---
+
+### Meine Schwester, meine Braut (Vers 8–11)
+
+<sup>8</sup>Komm mit mir vom Libanon, meine Braut,
+mit mir vom Libanon!
+Schau herab vom Gipfel des Amana,
+vom Gipfel des Senir und des Hermon,
+von den Höhlen der Löwen,
+von den Bergen der Leoparden.
+<sup>9</sup>Du hast mir das Herz geraubt, meine Schwester, meine Braut.
+Du hast mir das Herz geraubt mit einem einzigen Blick deiner Augen,
+mit einer einzigen Kette deines Halses.
+<sup>10</sup>Wie schön ist deine Liebe, meine Schwester, meine Braut!
+Wie viel besser ist deine Liebe als Wein,
+und der Duft deiner Salben als alle Gewürze!
+<sup>11</sup>Deine Lippen, meine Braut, tropfen wie Wabenhonig.
+Honig und Milch sind unter deiner Zunge.
+Der Duft deiner Kleider ist wie der Duft des Libanon.
+
+> **Was bedeutet das?**
+> Vers 8: Die hohen Berge im Norden mit wilden Tieren sind ein Bild dafür, dass sie ihm fern und unerreichbar scheint. Er ruft sie zu sich.
+> Vers 9: „Meine Schwester, meine Braut“: „Schwester“ war im alten Orient ein zärtlicher Kosename für die Geliebte. Es bedeutet nicht, dass sie verwandt sind. Es drückt große Nähe und Vertrautheit aus.
+> Ein einziger Blick von ihr hat ihm das Herz geraubt.
+> Vers 11: „Honig und Milch“ erinnern an das verheißene Land, „wo Milch und Honig fließen“. Sie ist für ihn wie ein Paradies.
+
+---
+
+### Ein verschlossener Garten (Vers 12–16)
+
+<sup>12</sup>Meine Schwester, meine Braut, ist ein verschlossener Garten,
+eine verschlossene Quelle, ein versiegelter Brunnen.
+<sup>13</sup>Deine Triebe sind ein Garten voller Granatäpfel
+mit köstlichen Früchten,
+Henna mit Narden,
+<sup>14</sup>Narde und Safran,
+Kalmus und Zimt
+mit allerlei Weihrauchbäumen,
+Myrrhe und Aloe
+mit allen besten Gewürzen,
+<sup>15</sup>eine Gartenquelle,
+ein Brunnen lebendigen Wassers,
+fließende Bäche vom Libanon.
+<sup>16</sup>Wach auf, Nordwind, und komm, Südwind!
+Weht durch meinen Garten,
+damit seine Düfte strömen.
+Mein Geliebter soll in seinen Garten kommen
+und seine köstlichen Früchte essen.
+
+> **Was bedeutet das?**
+> Vers 12: Die Geliebte ist wie ein Garten mit einer Mauer drumherum. Nicht jeder darf hinein. Das ist ein zartes Bild dafür, dass sie sich für ihren Geliebten aufbewahrt.
+> Vers 13–15: Der Garten ist voller kostbarer Pflanzen und Gewürze aus aller Welt. Er hat sogar eine eigene Quelle. Ein Paradies.
+> Vers 16: Jetzt antwortet die Frau: Sie lädt ihren Geliebten ein, in „seinen“ Garten zu kommen. Sie öffnet sich ihm aus freiem Willen. Liebe ist gegenseitig und freiwillig.
+> Das Hohelied spricht zart und offen über körperliche Liebe als etwas Schönes, das Gott geschenkt hat.
