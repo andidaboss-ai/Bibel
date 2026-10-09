@@ -54,7 +54,7 @@ Warum seid ihr dann so ganz nichtig geworden?
 das Erbe der Gewalttätigen, das sie vom Allmächtigen bekommen:
 [14] Wenn seine Kinder zahlreich werden, dann für das Schwert.
 Und seine Nachkommen werden nicht satt von Brot.
-[15] Die von ihm übrig bleiben, werden durch Seuche begraben,
+[15] Die von ihm übrig bleiben, werden im Tod begraben,
 und seine Witwen werden nicht klagen.
 [16] Auch wenn er Silber aufhäuft wie Staub
 und Kleider bereitlegt wie Lehm,
@@ -81,5 +81,6 @@ und zischt ihn von seinem Ort weg.
 > – Vielleicht zitiert Hiob hier spöttisch, was die Freunde immer sagen.
 > – Viele Ausleger vermuten, dass diese Verse ursprünglich zu Zofars dritter Rede gehörten, die sonst ganz fehlt. Beim Abschreiben könnte die Reihenfolge durcheinandergeraten sein.
 > Diese Übertragung folgt dem Text, wie er überliefert ist. Hier wird er Hiob zugeordnet.
+> „Im Tod begraben“: Das hebräische Wort für „Tod“ kann hier auch „Seuche“ bedeuten.
 > „Eine Hütte, die ein Wächter macht“: eine einfache Hütte aus Zweigen im Weinberg, die schnell wieder zerfällt.
 > „Man klatscht in die Hände und zischt“: Zeichen von Spott und Verachtung.
