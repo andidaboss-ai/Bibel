@@ -69644,7 +69644,7 @@ Die Erde ist voll von der Güte des HERRN.
 
 <sup>6</sup>Durch das Wort des HERRN sind die Himmel gemacht,
 und ihr ganzes Heer durch den Hauch seines Mundes.
-<sup>7</sup>Er sammelt das Wasser des Meeres wie einen Damm.
+<sup>7</sup>Er sammelt das Wasser des Meeres wie einen Haufen.
 Er legt die Fluten in Vorratskammern.
 <sup>8</sup>Die ganze Erde soll den HERRN fürchten.
 Alle Bewohner der Welt sollen Ehrfurcht vor ihm haben.

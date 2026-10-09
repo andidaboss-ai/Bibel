@@ -27,7 +27,7 @@ Die Erde ist voll von der Güte des HERRN.
 
 [6] Durch das Wort des HERRN sind die Himmel gemacht,
 und ihr ganzes Heer durch den Hauch seines Mundes.
-[7] Er sammelt das Wasser des Meeres wie einen Damm.
+[7] Er sammelt das Wasser des Meeres wie einen Haufen.
 Er legt die Fluten in Vorratskammern.
 [8] Die ganze Erde soll den HERRN fürchten.
 Alle Bewohner der Welt sollen Ehrfurcht vor ihm haben.
