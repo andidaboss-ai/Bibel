@@ -93774,3 +93774,426 @@ und es wird alles ringsum verzehren.‘“
 > Vers 12: Die wichtigste Aufgabe eines Königs: jeden Morgen für Gerechtigkeit sorgen und die Beraubten vor den Unterdrückern schützen. Das gilt bis heute für alle, die Macht haben.
 > Vers 13: Jerusalem fühlte sich sicher auf seinen Felsen und Hügeln: „Wer soll uns schon angreifen?“ Aber Gott sagt: Diese falsche Sicherheit wird euch nicht schützen.
 > Vers 14: Der „Wald“ ist wahrscheinlich der Königspalast, der aus viel Zedernholz gebaut war (er hieß „Libanonwaldhaus“, 1. Könige 7,2).
+
+## Jeremia – Kapitel 22
+#### Worte an die Könige von Juda
+
+---
+
+### Übt Recht und Gerechtigkeit (Vers 1–9)
+
+<sup>1</sup>So sprach der HERR:
+„Geh hinab in das Haus des Königs von Juda
+und rede dort dieses Wort:
+<sup>2</sup>‚Höre das Wort des HERRN, König von Juda,
+der du auf dem Thron Davids sitzt,
+du und deine Diener und dein Volk,
+die ihr durch diese Tore hineingeht!
+<sup>3</sup>So spricht der HERR:
+„Übt Recht und Gerechtigkeit
+und rettet den Beraubten aus der Hand des Unterdrückers!
+Tut dem Fremden, der Waise und der Witwe kein Unrecht
+und keine Gewalt an,
+und vergießt an diesem Ort kein unschuldiges Blut!
+<sup>4</sup>Denn wenn ihr dieses Wort wirklich tut,
+dann werden durch die Tore dieses Hauses Könige hineinziehen,
+die auf dem Thron Davids sitzen,
+auf Wagen und Pferden fahren,
+sie, ihre Diener und ihr Volk.
+<sup>5</sup>Wenn ihr aber nicht auf diese Worte hört,
+dann schwöre ich bei mir selbst“, spricht der HERR,
+„dass dieses Haus zu einer Trümmerstätte wird.“‘“
+<sup>6</sup>Denn so spricht der HERR über das Haus des Königs von Juda:
+„Du bist für mich wie Gilead,
+wie der Gipfel des Libanon.
+Und doch werde ich dich gewiss zur Wüste machen,
+zu Städten, die nicht bewohnt sind.
+<sup>7</sup>Ich werde Verwüster gegen dich bereitstellen,
+jeden mit seinen Waffen,
+und sie werden deine auserlesenen Zedern fällen
+und ins Feuer werfen.
+<sup>8</sup>Viele Nationen werden an dieser Stadt vorbeiziehen,
+und einer wird den anderen fragen:
+‚Warum hat der HERR dieser großen Stadt das angetan?‘
+<sup>9</sup>Dann wird man antworten:
+‚Weil sie den Bund des HERRN, ihres Gottes, verlassen
+und andere Götter angebetet und ihnen gedient haben.‘“
+
+> **Was bedeutet das?**
+> Jeremia geht direkt in den Königspalast und sagt dem König, was Gott von ihm erwartet.
+> Vers 3: Das ist das Programm für jeden guten Herrscher: Recht und Gerechtigkeit üben, Beraubte schützen, Fremde, Waisen und Witwen nicht unterdrücken, kein unschuldiges Blut vergießen. Diese Gruppen hatten damals keinen Schutz. Gott stellt sich auf ihre Seite.
+> Vers 6–7: Der Palast war aus Zedernholz gebaut und so prächtig wie die Wälder von Gilead und Libanon. Aber die Feinde werden ihn verbrennen.
+> Vers 8–9: Fremde werden fragen: Warum ist diese große Stadt zerstört? Die Antwort: Weil sie Gottes Bund verlassen haben.
+
+---
+
+### Weint um den, der weggeht (Vers 10–12)
+
+<sup>10</sup>Weint nicht um den Toten
+und klagt nicht um ihn,
+sondern weint bitterlich um den, der weggeht,
+denn er wird nicht mehr zurückkehren
+und sein Heimatland nicht mehr sehen.
+<sup>11</sup>Denn so spricht der HERR über Schallum,
+den Sohn Joschijas, den König von Juda,
+der an Stelle seines Vaters Joschija König wurde
+und der von diesem Ort weggezogen ist:
+„Er wird nicht mehr hierher zurückkehren,
+<sup>12</sup>sondern er wird an dem Ort sterben,
+wohin man ihn gefangen geführt hat,
+und dieses Land wird er nicht mehr sehen.“
+
+> **Was bedeutet das?**
+> Der „Tote“ ist der gute König Joschija, der 609 vor Christus in einer Schlacht gegen Ägypten fiel. Das ganze Volk trauerte um ihn.
+> Schallum ist ein anderer Name für König Joahas, seinen Sohn. Er regierte nur drei Monate. Dann nahm ihn der Pharao gefangen und brachte ihn nach Ägypten, wo er starb (2. Könige 23,31–34).
+> Jeremia sagt: Weint mehr um den, der lebend in die Fremde muss und nie wiederkommt. Das Leben in der Verbannung ist schlimmer als der Tod.
+
+---
+
+### Wehe dem, der mit Unrecht baut (Vers 13–19)
+
+<sup>13</sup>„Wehe dem, der sein Haus mit Ungerechtigkeit baut
+und seine Obergemächer mit Unrecht,
+der seinen Nächsten umsonst arbeiten lässt
+und ihm seinen Lohn nicht gibt,
+<sup>14</sup>der sagt: ‚Ich will mir ein weites Haus bauen
+und geräumige Obergemächer‘,
+und sich Fenster ausbricht,
+mit Zedernholz täfelt und rot bemalt.
+<sup>15</sup>Bist du etwa König, weil du mit Zedern wetteiferst?
+Hat nicht dein Vater gegessen und getrunken
+und Recht und Gerechtigkeit geübt?
+Da ging es ihm gut.
+<sup>16</sup>Er hat dem Armen und Bedürftigen Recht verschafft.
+Da ging es gut.
+Heißt nicht das, mich zu erkennen?“, spricht der HERR.
+<sup>17</sup>„Aber deine Augen und dein Herz sind nur auf deinen Gewinn aus,
+auf das Vergießen von unschuldigem Blut,
+auf Unterdrückung und Gewalttat.“
+<sup>18</sup>Darum spricht der HERR über Jojakim, den Sohn Joschijas, den König von Juda:
+„Man wird nicht um ihn klagen:
+‚Ach, mein Bruder!‘ oder ‚Ach, Schwester!‘
+Man wird nicht um ihn klagen:
+‚Ach, Herr!‘ oder ‚Ach, seine Herrlichkeit!‘
+<sup>19</sup>Mit einem Eselsbegräbnis wird er begraben werden,
+weggeschleift und hingeworfen
+draußen vor den Toren Jerusalems.“
+
+> **Was bedeutet das?**
+> König Jojakim (609–598 vor Christus) baute sich einen prächtigen Palast mit Zedernholz und roter Farbe. Aber er ließ die Arbeiter ohne Lohn arbeiten.
+> Vers 13: „Wehe dem, der seinen Nächsten umsonst arbeiten lässt und ihm seinen Lohn nicht gibt!“ Das ist einer der deutlichsten Sätze der Bibel gegen Ausbeutung. Gerechter Lohn ist Gottes Wille (vgl. 5. Mose 24,14–15; Jakobus 5,4).
+> Vers 15–16: Ein wunderbarer Gedanke: Jojakims Vater Joschija hat gut gelebt, gegessen und getrunken, aber er hat auch für die Armen gesorgt. Und Gott sagt: „Heißt nicht das, mich zu erkennen?“ Gott zu kennen heißt nicht nur, etwas über Gott zu wissen, sondern gerecht zu handeln.
+> Vers 18–19: Jojakim wird ohne Trauer und ohne ehrenvolles Begräbnis bleiben, wie ein toter Esel, den man vor die Stadt wirft.
+
+---
+
+### Klage über Jerusalem und Konja (Vers 20–30)
+
+<sup>20</sup>„Steig auf den Libanon und schrei!
+Erhebe deine Stimme in Baschan
+und schrei vom Abarim herab!
+Denn alle deine Liebhaber sind zerschlagen.
+<sup>21</sup>Ich habe zu dir geredet, als es dir gut ging,
+aber du sagtest: ‚Ich will nicht hören.‘
+Das war dein Weg von deiner Jugend an,
+dass du nicht auf meine Stimme gehört hast.
+<sup>22</sup>Der Wind wird alle deine Hirten weiden,
+und deine Liebhaber werden in die Gefangenschaft gehen.
+Gewiss, dann wirst du beschämt und zuschanden werden
+wegen all deiner Bosheit.
+<sup>23</sup>Du, die du auf dem Libanon wohnst,
+die du dein Nest in den Zedern baust,
+wie wirst du stöhnen, wenn Wehen über dich kommen,
+Schmerzen wie bei einer Frau in Kindesnöten!
+<sup>24</sup>So wahr ich lebe“, spricht der HERR,
+„selbst wenn Konja, der Sohn Jojakims, der König von Juda,
+der Siegelring an meiner rechten Hand wäre,
+so würde ich dich doch von dort abreißen.
+<sup>25</sup>Ich werde dich in die Hand derer geben, die dir nach dem Leben trachten,
+und in die Hand derer, vor denen du dich fürchtest,
+in die Hand Nebukadnezars, des Königs von Babel,
+und in die Hand der Chaldäer.
+<sup>26</sup>Ich werde dich und deine Mutter, die dich geboren hat,
+in ein anderes Land schleudern, in dem ihr nicht geboren seid,
+und dort werdet ihr sterben.
+<sup>27</sup>Aber in das Land, nach dem sie sich sehnen, um dorthin zurückzukehren,
+dorthin werden sie nicht zurückkehren.“
+<sup>28</sup>Ist denn dieser Mann Konja ein verachtetes, zerbrochenes Gefäß?
+Ist er ein Gefäß, an dem niemand Gefallen hat?
+Warum sind sie weggeworfen, er und seine Nachkommen,
+und in ein Land geschleudert, das sie nicht kennen?
+<sup>29</sup>Land, Land, Land,
+höre das Wort des HERRN!
+<sup>30</sup>So spricht der HERR:
+„Schreibt diesen Mann als kinderlos auf,
+als einen Mann, der in seinen Tagen kein Glück hat.
+Denn keiner von seinen Nachkommen wird Glück haben,
+auf dem Thron Davids zu sitzen und wieder über Juda zu herrschen.“
+
+> **Was bedeutet das?**
+> Vers 20: Libanon, Baschan und Abarim sind Berge im Norden und Osten. Jerusalem soll von dort klagen, weil alle seine Verbündeten („Liebhaber“) besiegt sind.
+> Vers 22: Ein Wortspiel: Die „Hirten“ (Anführer) werden vom Wind „geweidet“, also davongeweht.
+> Vers 24: Konja (auch Jojachin oder Jechonja genannt) war Jojakims Sohn. Er regierte nur drei Monate und wurde 597 vor Christus mit seiner Mutter nach Babylon verschleppt. Ein Siegelring war ein sehr wertvoller persönlicher Besitz. Selbst wenn Konja so wertvoll für Gott wäre, würde Gott ihn wegwerfen.
+> Vers 28: Eine traurige Frage: Ist er denn nur ein zerbrochener Krug, den keiner mehr will?
+> Vers 30: „Kinderlos“ heißt hier: Keiner seiner Nachkommen wird König werden. Konja hatte tatsächlich Kinder (1. Chronik 3,17), aber keiner von ihnen saß auf dem Thron Davids. Sein Enkel Serubbabel wurde später Statthalter, aber nicht König. In Haggai 2,23 nennt Gott Serubbabel wieder seinen „Siegelring“, ein Zeichen, dass Gott seine Treue zur Familie Davids nicht ganz aufgegeben hat.
+
+## Jeremia – Kapitel 23
+#### Der HERR ist unsere Gerechtigkeit
+
+---
+
+### Die schlechten Hirten und der gerechte Spross (Vers 1–8)
+
+<sup>1</sup>„Wehe den Hirten, die die Schafe meiner Weide umkommen lassen und zerstreuen!“,
+spricht der HERR.
+<sup>2</sup>Darum spricht der HERR, der Gott Israels,
+über die Hirten, die mein Volk weiden:
+„Ihr habt meine Herde zerstreut und vertrieben
+und habt nicht nach ihnen gesehen.
+Siehe, ich werde an euch heimsuchen die Bosheit eurer Taten“,
+spricht der HERR.
+<sup>3</sup>„Ich selbst werde den Rest meiner Herde sammeln
+aus allen Ländern, wohin ich sie vertrieben habe,
+und ich werde sie zurückbringen zu ihren Weideplätzen,
+und sie werden fruchtbar sein und sich vermehren.
+<sup>4</sup>Ich werde Hirten über sie setzen, die sie weiden werden.
+Sie werden sich nicht mehr fürchten und nicht mehr erschrecken,
+und keines wird mehr fehlen“, spricht der HERR.
+<sup>5</sup>„Siehe, es kommen Tage“, spricht der HERR,
+„da werde ich dem David einen gerechten Spross erwecken.
+Er wird als König herrschen und weise handeln
+und wird Recht und Gerechtigkeit im Land üben.
+<sup>6</sup>In seinen Tagen wird Juda gerettet werden,
+und Israel wird sicher wohnen.
+Und das ist sein Name, mit dem man ihn nennen wird:
+‚Der HERR ist unsere Gerechtigkeit.‘
+<sup>7</sup>Darum siehe, es kommen Tage“, spricht der HERR,
+„da wird man nicht mehr sagen:
+‚So wahr der HERR lebt, der die Kinder Israel
+aus dem Land Ägypten heraufgeführt hat‘,
+<sup>8</sup>sondern:
+‚So wahr der HERR lebt, der die Nachkommen des Hauses Israel
+heraufgeführt und hergebracht hat
+aus dem Land des Nordens und aus allen Ländern,
+wohin ich sie vertrieben hatte.‘
+Dann werden sie in ihrem eigenen Land wohnen.“
+
+> **Was bedeutet das?**
+> Vers 1–2: Die „Hirten“ sind die Könige und Anführer. Sie haben sich nicht um das Volk gekümmert, sondern es ins Unglück geführt.
+> Vers 3–4: Gott selbst wird der gute Hirte sein. Er sammelt die verstreuten Schafe und gibt ihnen gute Hirten, sodass keines mehr fehlt.
+> Vers 5–6: Eine große Verheißung: Aus der Familie Davids wird ein „gerechter Spross“ kommen, ein König, der weise und gerecht regiert. Sein Name: „Der HERR ist unsere Gerechtigkeit“ (hebräisch: „Jahwe Zidkenu“). Interessant: Der letzte König hieß Zidkija, das bedeutet „Meine Gerechtigkeit ist der HERR“. Aber er wurde seinem Namen nicht gerecht. Der kommende König wird es sein.
+> Im Judentum wird diese Verheißung auf den Messias bezogen, der noch kommen wird. Christen sehen sie in Jesus erfüllt, dem Nachkommen Davids.
+> Vers 7–8: Die Heimkehr aus dem Exil wird ein neuer Auszug sein, größer als der aus Ägypten (wie schon in 16,14–15).
+
+---
+
+### Gegen die falschen Propheten (Vers 9–22)
+
+<sup>9</sup>Über die Propheten:
+Mein Herz in mir ist gebrochen.
+Alle meine Knochen zittern.
+Ich bin wie ein Betrunkener,
+wie ein Mann, den der Wein überwältigt hat,
+wegen des HERRN
+und wegen seiner heiligen Worte.
+<sup>10</sup>„Denn das Land ist voll von Ehebrechern.
+Denn wegen des Fluchs trauert das Land.
+Die Weiden der Wüste sind vertrocknet.
+Ihr Lauf ist böse,
+und ihre Stärke ist nicht recht.
+<sup>11</sup>Denn sowohl der Prophet als auch der Priester sind gottlos.
+Ja, sogar in meinem Haus habe ich ihre Bosheit gefunden“,
+spricht der HERR.
+<sup>12</sup>„Darum wird ihr Weg für sie sein wie glatte Stellen in der Finsternis.
+Sie werden gestoßen werden und darauf fallen.
+Denn ich bringe Unheil über sie,
+das Jahr ihrer Heimsuchung“, spricht der HERR.
+<sup>13</sup>„Bei den Propheten Samarias habe ich Anstößiges gesehen.
+Sie weissagten im Namen Baals
+und führten mein Volk Israel in die Irre.
+<sup>14</sup>Bei den Propheten Jerusalems habe ich auch etwas Schauderhaftes gesehen:
+Sie brechen die Ehe und gehen mit Lügen um.
+Sie stärken die Hände der Übeltäter,
+sodass keiner von seiner Bosheit umkehrt.
+Sie alle sind für mich wie Sodom geworden
+und ihre Bewohner wie Gomorra.“
+<sup>15</sup>Darum spricht der HERR der Heere über die Propheten:
+„Siehe, ich werde sie mit Wermut speisen
+und sie vergiftetes Wasser trinken lassen.
+Denn von den Propheten Jerusalems
+ist die Gottlosigkeit ausgegangen ins ganze Land.“
+<sup>16</sup>So spricht der HERR der Heere:
+„Hört nicht auf die Worte der Propheten, die euch weissagen!
+Sie täuschen euch mit Nichtigem.
+Sie reden eine Vision aus ihrem eigenen Herzen
+und nicht aus dem Mund des HERRN.
+<sup>17</sup>Sie sagen ständig zu denen, die mich verachten:
+‚Der HERR hat gesagt: „Ihr werdet Frieden haben.“‘
+Und zu jedem, der in der Verstocktheit seines eigenen Herzens lebt, sagen sie:
+‚Kein Unheil wird über euch kommen.‘
+<sup>18</sup>Denn wer hat im Rat des HERRN gestanden,
+dass er sein Wort gesehen und gehört hätte?
+Wer hat auf mein Wort geachtet und es gehört?
+<sup>19</sup>Siehe, der Sturm des HERRN, sein Grimm, ist losgebrochen.
+Ja, ein wirbelnder Sturm!
+Er wird auf den Kopf der Gottlosen niederprasseln.
+<sup>20</sup>Der Zorn des HERRN wird nicht umkehren,
+bis er die Pläne seines Herzens ausgeführt und vollbracht hat.
+In späteren Tagen werdet ihr es vollständig verstehen.
+<sup>21</sup>Ich habe diese Propheten nicht gesandt,
+und doch sind sie gelaufen.
+Ich habe nicht zu ihnen geredet,
+und doch haben sie geweissagt.
+<sup>22</sup>Wenn sie aber in meinem Rat gestanden hätten,
+dann hätten sie mein Volk meine Worte hören lassen
+und sie von ihrem bösen Weg abgebracht
+und von der Bosheit ihrer Taten.
+
+> **Was bedeutet das?**
+> Vers 9: Jeremia ist erschüttert. Gottes Worte wühlen ihn so auf, dass er zittert wie ein Betrunkener.
+> Vers 14: Die Propheten in Jerusalem leben selbst unmoralisch und ermutigen andere zum Bösen. Sie sind schlimmer als die Propheten des Baal im Norden.
+> Vers 16–17: Wie erkennt man falsche Propheten? Sie sagen Menschen, die Gott verachten: „Alles wird gut! Kein Unheil kommt.“ Sie bestätigen die Menschen in ihrem falschen Weg.
+> Vers 18 und 22: Ein echter Prophet hat im „Rat des HERRN“ gestanden, das heißt, er hat wirklich auf Gott gehört. Ein echter Prophet ruft zur Umkehr. Ein falscher Prophet beruhigt nur.
+> Vers 21: „Ich habe sie nicht gesandt, und doch sind sie gelaufen.“ Nicht jeder, der im Namen Gottes spricht, ist auch von Gott beauftragt.
+
+---
+
+### Gottes Wort ist wie ein Hammer (Vers 23–32)
+
+<sup>23</sup>„Bin ich nur ein Gott in der Nähe“, spricht der HERR,
+„und nicht auch ein Gott in der Ferne?
+<sup>24</sup>Kann sich jemand an verborgenen Orten verstecken,
+sodass ich ihn nicht sehe?“, spricht der HERR.
+„Erfülle ich nicht Himmel und Erde?“, spricht der HERR.
+<sup>25</sup>„Ich habe gehört, was die Propheten sagen,
+die in meinem Namen Lüge weissagen und sagen:
+‚Ich habe geträumt! Ich habe geträumt!‘
+<sup>26</sup>Wie lange soll das noch so sein im Herzen der Propheten,
+die Lüge weissagen,
+der Propheten, die den Betrug ihres eigenen Herzens weissagen?
+<sup>27</sup>Sie haben vor, mein Volk meinen Namen vergessen zu lassen
+durch ihre Träume, die sie einander erzählen,
+so wie ihre Väter meinen Namen über dem Baal vergessen haben.
+<sup>28</sup>Der Prophet, der einen Traum hat, der erzähle einen Traum.
+Und wer mein Wort hat, der rede mein Wort in Treue.
+Was hat das Stroh mit dem Weizen zu tun?“, spricht der HERR.
+<sup>29</sup>„Ist mein Wort nicht wie Feuer?“, spricht der HERR,
+„und wie ein Hammer, der Felsen zerschmettert?
+<sup>30</sup>Darum siehe, ich bin gegen die Propheten“, spricht der HERR,
+„die einer dem anderen meine Worte stehlen.
+<sup>31</sup>Siehe, ich bin gegen die Propheten“, spricht der HERR,
+„die ihre Zunge gebrauchen und sagen: ‚Er spricht.‘
+<sup>32</sup>Siehe, ich bin gegen die, die Lügenträume weissagen“, spricht der HERR,
+„die sie erzählen und mein Volk in die Irre führen
+mit ihren Lügen und mit ihrer Prahlerei.
+Ich aber habe sie nicht gesandt und ihnen nichts befohlen.
+Sie nützen diesem Volk ganz und gar nicht“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 23–24: Gott ist nicht nur ein „Gott in der Nähe“, den man sich zurechtlegen kann. Er ist auch fern, groß und erfüllt Himmel und Erde. Niemand kann sich vor ihm verstecken.
+> Vers 25–28: Die falschen Propheten erzählen ihre Träume und behaupten, sie kämen von Gott. Gott sagt: Ein Traum ist ein Traum. Aber mein Wort ist etwas anderes. Der Unterschied ist wie zwischen Stroh und Weizen: Stroh sieht ähnlich aus, aber es nährt nicht.
+> Vers 29 ist ein berühmter Vers: Gottes Wort ist wie Feuer, das brennt, und wie ein Hammer, der Felsen zerschlägt. Es ist nicht bequem, sondern kraftvoll. Es kann harte Herzen aufbrechen.
+> Vers 30: Manche Propheten haben einfach die Worte anderer „gestohlen“ und als eigene Botschaft ausgegeben.
+
+---
+
+### Die „Last“ des HERRN (Vers 33–40)
+
+<sup>33</sup>„Wenn dieses Volk oder ein Prophet oder ein Priester dich fragt:
+‚Was ist die Last des HERRN?‘,
+dann sollst du zu ihnen sagen:
+‚Was für eine Last?
+Ich werde euch abwerfen‘, spricht der HERR.
+<sup>34</sup>Und der Prophet, der Priester und das Volk,
+wer sagt: ‚Last des HERRN‘,
+den Mann und sein Haus werde ich heimsuchen.
+<sup>35</sup>So sollt ihr sagen, jeder zu seinem Nächsten
+und jeder zu seinem Bruder:
+‚Was hat der HERR geantwortet?‘
+und: ‚Was hat der HERR geredet?‘
+<sup>36</sup>Von der ‚Last des HERRN‘ sollt ihr nicht mehr reden,
+denn jedem wird sein eigenes Wort zur Last,
+weil ihr die Worte des lebendigen Gottes verdreht habt,
+des HERRN der Heere, unseres Gottes.
+<sup>37</sup>So sollst du zum Propheten sagen:
+‚Was hat der HERR dir geantwortet?‘
+und: ‚Was hat der HERR geredet?‘
+<sup>38</sup>Wenn ihr aber sagt: ‚Last des HERRN‘,
+darum spricht der HERR so:
+‚Weil ihr dieses Wort sagt: „Last des HERRN“,
+obwohl ich zu euch gesandt und gesagt habe:
+Ihr sollt nicht sagen: „Last des HERRN“,
+<sup>39</sup>darum siehe, werde ich euch ganz und gar vergessen
+und euch und die Stadt, die ich euch und euren Vätern gegeben habe,
+von meinem Angesicht verstoßen.
+<sup>40</sup>Ich werde ewige Schmach über euch bringen
+und ewige Schande, die nicht vergessen wird.‘“
+
+> **Was bedeutet das?**
+> Hier steckt ein Wortspiel im Hebräischen: Das Wort „massa“ bedeutet sowohl „Botschaft, Ausspruch“ als auch „Last“. Das WEB übersetzt mit „message“ (Botschaft). Wir verwenden „Last“, damit man das Wortspiel versteht.
+> Die Leute fragten Jeremia spöttisch: „Was ist denn heute die ‚Last‘ des HERRN?“ Sie machten sich über seine Botschaften lustig.
+> Gott antwortet mit dem Wortspiel: „Ihr seid selbst die Last! Ich werde euch abwerfen.“
+> Vers 35–36: Statt spöttisch von der „Last“ zu reden, sollen die Menschen ernsthaft fragen: „Was hat der HERR geantwortet? Was hat er gesagt?“ Gottes Wort soll man mit Respekt behandeln, nicht als Witz.
+
+## Jeremia – Kapitel 24
+#### Zwei Körbe mit Feigen
+
+---
+
+### Gute und schlechte Feigen (Vers 1–10)
+
+<sup>1</sup>Der HERR ließ mich sehen:
+Siehe, zwei Körbe mit Feigen waren vor dem Tempel des HERRN aufgestellt,
+nachdem Nebukadnezar, der König von Babel,
+Jechonja, den Sohn Jojakims, den König von Juda,
+und die Fürsten von Juda
+mit den Handwerkern und Schmieden
+aus Jerusalem weggeführt und nach Babel gebracht hatte.
+<sup>2</sup>In einem Korb waren sehr gute Feigen,
+wie die Frühfeigen.
+Im anderen Korb waren sehr schlechte Feigen,
+die man nicht essen konnte, so schlecht waren sie.
+<sup>3</sup>Da fragte mich der HERR:
+„Was siehst du, Jeremia?“
+Ich sagte: „Feigen.
+Die guten Feigen sind sehr gut,
+und die schlechten sind sehr schlecht,
+so schlecht, dass man sie nicht essen kann.“
+<sup>4</sup>Da kam das Wort des HERRN zu mir:
+<sup>5</sup>„So spricht der HERR, der Gott Israels:
+‚Wie diese guten Feigen,
+so will ich die Verbannten aus Juda,
+die ich von diesem Ort weggeschickt habe in das Land der Chaldäer,
+als gut ansehen.
+<sup>6</sup>Denn ich werde meine Augen zum Guten auf sie richten
+und werde sie wieder in dieses Land bringen.
+Ich werde sie bauen und nicht niederreißen.
+Ich werde sie pflanzen und nicht ausreißen.
+<sup>7</sup>Ich werde ihnen ein Herz geben, mich zu erkennen,
+dass ich der HERR bin.
+Sie werden mein Volk sein,
+und ich werde ihr Gott sein,
+denn sie werden von ganzem Herzen zu mir umkehren.
+<sup>8</sup>Aber wie die schlechten Feigen,
+die man nicht essen kann, so schlecht sind sie‘,
+gewiss, so spricht der HERR,
+‚so werde ich Zidkija, den König von Juda, preisgeben
+und seine Fürsten und den Rest Jerusalems,
+die in diesem Land übrig geblieben sind,
+und die im Land Ägypten wohnen.
+<sup>9</sup>Ich werde sie preisgeben, damit sie umhergetrieben werden
+unter allen Königreichen der Erde zum Unheil,
+zur Schmach und zum Sprichwort,
+zum Spott und zum Fluch an allen Orten,
+wohin ich sie vertreiben werde.
+<sup>10</sup>Ich werde Schwert, Hunger und Pest unter sie senden,
+bis sie ausgerottet sind aus dem Land,
+das ich ihnen und ihren Vätern gegeben habe.‘“
+
+> **Was bedeutet das?**
+> Vers 1: Im Jahr 597 vor Christus wurde König Jechonja (Jojachin) mit vielen Fürsten und Handwerkern nach Babylon verschleppt. Die Zurückgebliebenen in Jerusalem dachten: Wir sind die Guten, die Verschleppten sind bestraft worden.
+> Vers 2–7: Gott dreht diese Meinung um: Die Verbannten in Babylon sind die „guten Feigen“. Gott wird auf sie achten, sie zurückbringen und ihnen ein neues Herz geben. „Sie werden mein Volk sein, und ich werde ihr Gott sein.“
+> Vers 6: Die Worte aus Jeremias Berufung kehren wieder: „bauen und nicht niederreißen, pflanzen und nicht ausreißen“ (1,10).
+> Vers 7: Gott selbst schenkt das Herz, das ihn erkennt. Umkehr ist nicht nur Menschenwerk, sondern Gottes Geschenk.
+> Vers 8–10: Die in Jerusalem Gebliebenen, die sich sicher fühlen, sind die „schlechten Feigen“. Sie haben nichts gelernt.
+> Diese Botschaft war überraschend und tröstlich für die Verbannten: Gott hat euch nicht vergessen. Gerade in der Fremde wird etwas Neues entstehen. Tatsächlich hat das Judentum im babylonischen Exil wichtige Wurzeln geschlagen.
