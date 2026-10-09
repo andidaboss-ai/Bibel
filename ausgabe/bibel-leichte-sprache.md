@@ -88308,3 +88308,307 @@ Sie hat ihn verbrannt, aber er nahm es sich nicht zu Herzen.“
 > Vers 22: Das Volk ist im Exil wie Gefangene in Löchern, ausgeraubt, und niemand hilft.
 > Vers 24–25: Das ist geschehen, weil das Volk nicht auf Gott gehört hat. Und selbst im Unglück hat es nicht verstanden, warum.
 > Diese Ehrlichkeit über die eigene Schuld gehört zum Trostbuch dazu. Aber im nächsten Kapitel sagt Gott: „Fürchte dich nicht, ich habe dich erlöst!“ (Kapitel 43,1).
+
+## Jesaja – Kapitel 43
+#### Ich habe dich bei deinem Namen gerufen
+
+---
+
+### Du bist mein (Vers 1–7)
+
+<sup>1</sup>Aber jetzt sagt der HERR, der dich geschaffen hat, Jakob,
+und der dich geformt hat, Israel:
+„Fürchte dich nicht, denn ich habe dich erlöst.
+Ich habe dich bei deinem Namen gerufen.
+Du bist mein.
+<sup>2</sup>Wenn du durch das Wasser gehst, bin ich bei dir,
+und durch die Flüsse, sie werden dich nicht überfluten.
+Wenn du durch das Feuer gehst, wirst du nicht verbrannt,
+und die Flamme wird dich nicht versengen.
+<sup>3</sup>Denn ich bin der HERR, dein Gott,
+der Heilige Israels, dein Retter.
+Ich habe Ägypten als Lösegeld für dich gegeben,
+Kusch und Seba an deiner Stelle.
+<sup>4</sup>Weil du in meinen Augen kostbar und wertvoll bist
+und ich dich lieb habe,
+darum gebe ich Menschen an deiner Stelle
+und Nationen für dein Leben.
+<sup>5</sup>Fürchte dich nicht, denn ich bin bei dir.
+Ich werde deine Nachkommen vom Osten bringen
+und dich vom Westen sammeln.
+<sup>6</sup>Ich werde zum Norden sagen: ‚Gib sie heraus!‘
+und zum Süden: ‚Halte sie nicht zurück!
+Bring meine Söhne von fern
+und meine Töchter vom Ende der Erde,
+<sup>7</sup>jeden, der nach meinem Namen genannt ist
+und den ich zu meiner Ehre geschaffen habe,
+den ich geformt habe, ja, den ich gemacht habe.‘“
+
+> **Was bedeutet das?**
+> Vers 1 gehört zu den bekanntesten Versen der Bibel: „Fürchte dich nicht, denn ich habe dich erlöst. Ich habe dich bei deinem Namen gerufen. Du bist mein.“ Viele Menschen bekommen ihn bei der Taufe oder Konfirmation als Bibelvers mit auf den Weg. Gott kennt jeden Menschen beim Namen.
+> Vers 2: Gott verspricht nicht, dass es keine Gefahren gibt, kein Wasser und kein Feuer. Aber er verspricht: Ich bin bei dir, mitten darin.
+> Vers 3–4: Gott sagt zu seinem Volk: Du bist mir so kostbar, dass ich ganze Länder für dich hergeben würde. Das ist die Sprache der Liebe. Das WEB hat hier „Ethiopia“. Gemeint ist Kusch, das Land südlich von Ägypten. Später eroberten die Perser tatsächlich Ägypten, nachdem sie Israel freigelassen hatten. Es geht hier nicht darum, dass andere Völker weniger wert sind, sondern darum, wie wertvoll Israel für Gott ist.
+> Vers 5–7: Gott wird seine Kinder aus allen Himmelsrichtungen nach Hause holen, ausdrücklich Söhne und Töchter.
+
+---
+
+### Ihr seid meine Zeugen (Vers 8–13)
+
+<sup>8</sup>Führt das blinde Volk heraus, das doch Augen hat,
+und die Tauben, die doch Ohren haben.
+<sup>9</sup>Alle Nationen sollen sich versammeln,
+und die Völker sollen zusammenkommen.
+Wer unter ihnen kann dies verkünden
+und uns das Frühere zeigen?
+Sie sollen ihre Zeugen bringen, damit sie recht bekommen,
+oder sie sollen hören und sagen: „Das ist wahr.“
+<sup>10</sup>„Ihr seid meine Zeugen“, spricht der HERR,
+„zusammen mit meinem Knecht, den ich erwählt habe,
+damit ihr erkennt und mir glaubt
+und versteht, dass ich es bin.
+Vor mir wurde kein Gott gebildet,
+und nach mir wird keiner sein.
+<sup>11</sup>Ich, ich bin der HERR.
+Außer mir gibt es keinen Retter.
+<sup>12</sup>Ich habe es angekündigt, ich habe gerettet, und ich habe es gezeigt,
+und es war kein fremder Gott unter euch.
+Darum seid ihr meine Zeugen“, spricht der HERR,
+„und ich bin Gott.
+<sup>13</sup>Ja, seit es Tage gibt, bin ich es.
+Da ist niemand, der aus meiner Hand retten kann.
+Ich wirke, und wer kann es verhindern?“
+
+> **Was bedeutet das?**
+> Wieder eine Gerichtsverhandlung. Die Völker sollen Zeugen für ihre Götter bringen. Gott hat auch Zeugen: sein Volk Israel. Obwohl es „blind“ und „taub“ ist (Vers 8), kann es bezeugen, was Gott getan hat.
+> Vers 10–11: „Vor mir wurde kein Gott gebildet, und nach mir wird keiner sein. Außer mir gibt es keinen Retter.“ Hier wird ganz klar gesagt: Es gibt nur einen einzigen Gott.
+
+---
+
+### Ich schaffe Neues (Vers 14–21)
+
+<sup>14</sup>Der HERR, euer Erlöser, der Heilige Israels, sagt:
+„Um euretwillen habe ich nach Babel gesandt,
+und ich werde sie alle als Flüchtlinge hinunterbringen,
+auch die Chaldäer, in den Schiffen ihres Jubels.
+<sup>15</sup>Ich bin der HERR, euer Heiliger,
+der Schöpfer Israels, euer König.“
+<sup>16</sup>Der HERR, der einen Weg im Meer bahnt
+und einen Pfad in mächtigen Wassern,
+<sup>17</sup>der Wagen und Pferd herausführt,
+das Heer und den Starken
+(sie liegen zusammen da, sie werden nicht aufstehen;
+sie sind erloschen, ausgelöscht wie ein Docht), sagt:
+<sup>18</sup>„Denkt nicht an das Frühere,
+und achtet nicht auf das Vergangene.
+<sup>19</sup>Siehe, ich mache etwas Neues.
+Jetzt sprosst es auf. Merkt ihr es nicht?
+Ich mache einen Weg in der Wüste
+und Flüsse in der Steppe.
+<sup>20</sup>Die Tiere des Feldes werden mich ehren,
+die Schakale und die Strauße,
+weil ich Wasser in der Wüste gebe
+und Flüsse in der Steppe,
+um mein Volk zu tränken, meine Erwählten,
+<sup>21</sup>das Volk, das ich für mich geformt habe,
+damit sie mein Lob verkünden.
+
+> **Was bedeutet das?**
+> Vers 14: Babel wird fallen. Die Chaldäer sind die Babylonier. Die Schiffe, mit denen sie früher stolz und fröhlich auf dem Euphrat fuhren, werden zu Fluchtbooten.
+> Vers 16–17: Das erinnert an den Auszug aus Ägypten: Gott bahnte einen Weg durch das Meer, und die Streitwagen des Pharao gingen unter.
+> Vers 18–19: Und doch sagt Gott: Denkt nicht nur an das Alte! „Siehe, ich mache etwas Neues.“ Die Heimkehr aus Babylon wird ein neuer Auszug sein, mit einem Weg durch die Wüste. Diese Verse machen bis heute Mut: Gott kann auch in einer ausweglosen Lage einen neuen Weg öffnen.
+
+---
+
+### Ich tilge deine Sünden (Vers 22–28)
+
+<sup>22</sup>Aber du hast mich nicht angerufen, Jakob,
+sondern du bist meiner müde geworden, Israel.
+<sup>23</sup>Du hast mir keine Schafe als Brandopfer gebracht,
+und du hast mich nicht mit deinen Schlachtopfern geehrt.
+Ich habe dich nicht mit Opfergaben belastet
+und dich nicht mit Weihrauch ermüdet.
+<sup>24</sup>Du hast mir für Geld kein Würzrohr gekauft,
+und du hast mich nicht mit dem Fett deiner Schlachtopfer gesättigt,
+sondern du hast mich mit deinen Sünden belastet.
+Du hast mich mit deinen Missetaten ermüdet.
+<sup>25</sup>Ich, ich bin es, der deine Übertretungen tilgt um meinetwillen,
+und an deine Sünden will ich nicht mehr denken.
+<sup>26</sup>Erinnere mich! Lass uns miteinander rechten!
+Trag deine Sache vor, damit du recht bekommst.
+<sup>27</sup>Dein erster Vater hat gesündigt,
+und deine Lehrer haben sich gegen mich vergangen.
+<sup>28</sup>Darum werde ich die Fürsten des Heiligtums entweihen,
+und ich werde Jakob dem Fluch übergeben und Israel dem Hohn.“
+
+> **Was bedeutet das?**
+> Vers 22–24: Gott klagt: Ihr habt mich nicht ehrlich gesucht. Ihr habt mich nicht mit Opfern ermüdet, sondern mit euren Sünden. Gott verlangt gar nicht viel, aber das Volk hat ihm Lasten aufgeladen.
+> Vers 25: Trotzdem ist das der Kern: Gott selbst löscht die Schuld aus, „um meinetwillen“. Nicht weil das Volk es verdient hat, sondern weil Gott so ist. Und er will nicht mehr an die Sünden denken.
+> Vers 27: Mit dem „ersten Vater“ ist wahrscheinlich Jakob gemeint. Schon von Anfang an gab es Schuld.
+> Vers 28: Darum kam das Exil: Der Tempel wurde entweiht, das Volk verspottet. Aber Vers 25 ist stärker: Die Vergebung hat das letzte Wort.
+
+## Jesaja – Kapitel 44
+#### Ich bin der Erste und der Letzte
+
+---
+
+### Mein Geist für deine Kinder (Vers 1–8)
+
+<sup>1</sup>Aber höre jetzt, Jakob, mein Knecht,
+und Israel, den ich erwählt habe.
+<sup>2</sup>So spricht der HERR, der dich gemacht hat
+und dich vom Mutterleib an geformt hat, der dir helfen wird:
+„Fürchte dich nicht, Jakob, mein Knecht,
+und du, Jeschurun, den ich erwählt habe.
+<sup>3</sup>Denn ich werde Wasser auf den Durstigen gießen
+und Ströme auf das trockene Land.
+Ich werde meinen Geist auf deine Nachkommen gießen
+und meinen Segen auf deine Kinder.
+<sup>4</sup>Sie werden aufsprossen zwischen dem Gras
+wie Weiden an den Wasserläufen.
+<sup>5</sup>Einer wird sagen: ‚Ich gehöre dem HERRN.‘
+Ein anderer wird sich mit dem Namen Jakob nennen.
+Und ein anderer wird auf seine Hand schreiben: ‚Dem HERRN‘
+und den Namen Israel ehren.“
+<sup>6</sup>So spricht der HERR, der König Israels,
+und sein Erlöser, der HERR der Heere:
+„Ich bin der Erste, und ich bin der Letzte,
+und außer mir gibt es keinen Gott.
+<sup>7</sup>Wer ist wie ich? Wer ruft es aus
+und verkündet es und legt es mir dar,
+seit ich das Volk der Vorzeit eingesetzt habe?
+Sie sollen verkünden, was kommt
+und was geschehen wird.
+<sup>8</sup>Fürchtet euch nicht und erschreckt nicht.
+Habe ich es dir nicht längst verkündet und gezeigt?
+Ihr seid meine Zeugen.
+Gibt es einen Gott außer mir?
+Nein, es gibt keinen.
+Ich kenne keinen anderen Felsen.“
+
+> **Was bedeutet das?**
+> Vers 2: „Jeschurun“ ist ein liebevoller Name für Israel. Er bedeutet etwa „der Aufrichtige“ oder „der Liebling“ (wie in 5. Mose 32,15 und 33,5).
+> Vers 3–4: Gott gießt seinen Geist aus wie Wasser auf trockenes Land. Die Kinder werden wachsen wie Bäume am Bach.
+> Vers 5: Menschen bekennen sich freudig zu Gott: „Ich gehöre dem HERRN.“ Manche schreiben es sogar auf ihre Hand, wie ein Zeichen der Zugehörigkeit.
+> Vers 6: „Ich bin der Erste und der Letzte.“ Gott war vor allem da und wird nach allem da sein. In der Offenbarung (Kapitel 1,17 und 22,13) wird dieses Wort aufgegriffen.
+> Vers 8: Gott ist der einzige „Fels“, auf den man sich verlassen kann.
+
+---
+
+### Wie dumm ist es, ein Götzenbild zu machen! (Vers 9–20)
+
+<sup>9</sup>Alle, die ein geschnitztes Bild machen, sind nichtig.
+Die Dinge, an denen sie Gefallen haben, nützen nichts.
+Ihre eigenen Zeugen sehen nicht und erkennen nicht,
+sodass sie beschämt werden.
+<sup>10</sup>Wer hat einen Gott gebildet
+oder ein Bild gegossen, das zu nichts nütze ist?
+<sup>11</sup>Siehe, alle seine Gefährten werden beschämt werden,
+und die Handwerker sind ja nur Menschen.
+Sie sollen sich alle versammeln. Sie sollen aufstehen.
+Sie werden sich fürchten.
+Sie werden zusammen beschämt werden.
+<sup>12</sup>Der Schmied nimmt eine Axt,
+arbeitet in der Kohlenglut,
+formt sie mit Hämmern
+und bearbeitet sie mit seinem starken Arm.
+Er wird hungrig, und seine Kraft lässt nach.
+Er trinkt kein Wasser und wird matt.
+<sup>13</sup>Der Zimmermann spannt eine Messschnur.
+Er zeichnet es mit einem Stift vor.
+Er formt es mit Hobeln.
+Er zeichnet es mit dem Zirkel vor
+und formt es nach der Gestalt eines Mannes,
+nach der Schönheit eines Menschen,
+damit es in einem Haus wohnt.
+<sup>14</sup>Er haut sich Zedern ab
+und nimmt die Zypresse und die Eiche
+und zieht sich einen unter den Bäumen des Waldes groß.
+Er pflanzt eine Zypresse, und der Regen lässt sie wachsen.
+<sup>15</sup>Dann dient sie dem Menschen zum Verbrennen.
+Er nimmt etwas davon und wärmt sich.
+Ja, er zündet es an und bäckt Brot.
+Ja, er macht einen Gott daraus und betet ihn an.
+Er macht ein geschnitztes Bild daraus und fällt davor nieder.
+<sup>16</sup>Einen Teil davon verbrennt er im Feuer.
+Mit einem Teil davon isst er Fleisch.
+Er brät einen Braten und wird satt.
+Ja, er wärmt sich und sagt: „Aha! Mir ist warm. Ich habe das Feuer gesehen.“
+<sup>17</sup>Den Rest davon macht er zu einem Gott, zu seinem geschnitzten Bild.
+Er beugt sich davor und betet es an
+und betet zu ihm und sagt:
+„Rette mich, denn du bist mein Gott!“
+<sup>18</sup>Sie erkennen nicht und verstehen nicht,
+denn er hat ihre Augen verklebt, sodass sie nicht sehen können,
+und ihre Herzen, sodass sie nicht verstehen können.
+<sup>19</sup>Niemand denkt nach,
+und da ist weder Erkenntnis noch Verstand, um zu sagen:
+„Einen Teil davon habe ich im Feuer verbrannt.
+Ja, ich habe auch Brot auf seinen Kohlen gebacken.
+Ich habe Fleisch gebraten und gegessen.
+Soll ich den Rest zu einem Gräuel machen?
+Soll ich mich vor einem Holzklotz niederbeugen?“
+<sup>20</sup>Er weidet sich an Asche.
+Ein betrogenes Herz hat ihn abgelenkt.
+Er kann seine Seele nicht retten
+und nicht sagen: „Ist nicht eine Lüge in meiner rechten Hand?“
+
+> **Was bedeutet das?**
+> Das ist eine der spöttischsten Stellen der Bibel. Jesaja beschreibt ganz genau, wie ein Götterbild entsteht:
+> Vers 12: Der Schmied arbeitet so hart, dass er hungrig und durstig wird. Ein Gott, dessen Hersteller müde wird!
+> Vers 14–17: Ein Mann fällt einen Baum. Mit der einen Hälfte heizt er und brät sein Fleisch. Aus der anderen Hälfte schnitzt er einen Gott und betet: „Rette mich!“
+> Vers 19–20: Merkt er denn nicht, dass er sich vor einem Holzklotz verbeugt? Er hält eine Lüge in der Hand.
+> Für uns heute: Wir schnitzen vielleicht keine Götter aus Holz. Aber auch heute können Menschen Dinge, die sie selbst gemacht haben, zu ihrem „Gott“ machen, zum Beispiel Geld, Erfolg oder Ansehen, und von ihnen Rettung erwarten.
+
+---
+
+### Ich habe dich erlöst (Vers 21–23)
+
+<sup>21</sup>Denk daran, Jakob und Israel,
+denn du bist mein Knecht.
+Ich habe dich geformt. Du bist mein Knecht.
+Israel, ich werde dich nicht vergessen.
+<sup>22</sup>Ich habe deine Übertretungen getilgt wie eine dichte Wolke
+und deine Sünden wie eine Wolke.
+Kehre zu mir zurück, denn ich habe dich erlöst.
+<sup>23</sup>Singt, ihr Himmel, denn der HERR hat es getan!
+Jubelt, ihr Tiefen der Erde!
+Brecht in Jubel aus, ihr Berge,
+du Wald und alle deine Bäume,
+denn der HERR hat Jakob erlöst
+und wird sich an Israel verherrlichen.
+
+> **Was bedeutet das?**
+> Vers 21: „Ich werde dich nicht vergessen.“ Die Götzen müssen von Menschen gemacht werden. Aber Israel ist von Gott gemacht, und er vergisst es nicht.
+> Vers 22: Die Sünden sind weg wie eine Wolke, die sich auflöst. Erst kommt die Vergebung, dann die Einladung: „Kehre zu mir zurück!“ Gott wartet nicht, bis das Volk sich bessert.
+> Vers 23: Darüber soll die ganze Schöpfung jubeln: Himmel, Erde, Berge und Bäume.
+
+---
+
+### Kyrus, mein Hirte (Vers 24–28)
+
+<sup>24</sup>Der HERR, dein Erlöser,
+der dich vom Mutterleib an geformt hat, sagt:
+„Ich bin der HERR, der alles macht,
+der allein den Himmel ausspannt,
+der die Erde ausbreitet ganz allein,
+<sup>25</sup>der die Zeichen der Lügner zunichtemacht
+und die Wahrsager zu Narren macht,
+der die Weisen zurückweichen lässt
+und ihr Wissen zur Torheit macht,
+<sup>26</sup>der das Wort seines Knechtes bestätigt
+und den Rat seiner Boten ausführt,
+der von Jerusalem sagt: ‚Sie wird bewohnt werden‘,
+und von den Städten Judas: ‚Sie werden aufgebaut werden‘,
+und: ‚Ich werde ihre Trümmer wieder aufrichten‘,
+<sup>27</sup>der zur Tiefe sagt: ‚Trockne aus!‘
+und: ‚Ich werde deine Flüsse austrocknen‘,
+<sup>28</sup>der von Kyrus sagt: ‚Er ist mein Hirte,
+und er wird alles ausführen, was mir gefällt‘,
+und von Jerusalem sagt: ‚Sie wird gebaut werden‘,
+und vom Tempel: ‚Dein Fundament wird gelegt werden.‘“
+
+> **Was bedeutet das?**
+> Vers 25: Babylon war berühmt für seine Sterndeuter und Wahrsager. Gott sagt: Ihre Vorhersagen werden sich als falsch erweisen.
+> Vers 26–28: Gott aber hält sein Wort. Jerusalem und der Tempel werden wieder aufgebaut.
+> Vers 28: Hier wird zum ersten Mal der Name genannt: Kyrus, der König der Perser. Gott nennt ihn „mein Hirte“, obwohl er ein fremder König ist, der Gott nicht kennt. Kyrus erlaubte tatsächlich im Jahr 538 vor Christus den Juden, heimzukehren und den Tempel wieder aufzubauen (Esra 1,1–4).
+> Viele Forscher meinen, dass dieser Teil des Jesajabuches zur Zeit des Kyrus von einem späteren Propheten in der Tradition Jesajas geschrieben wurde. Andere, besonders in der jüdischen und christlichen Tradition, sehen hier eine Vorhersage Jesajas lange vor Kyrus' Zeit.
