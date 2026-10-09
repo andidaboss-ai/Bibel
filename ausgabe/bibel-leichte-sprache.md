@@ -82438,3 +82438,386 @@ Gewiss, auch das ist nichtig und ein Haschen nach Wind.
 > Eine kleine Geschichte: Ein alter König hört auf niemanden mehr. Ein armer junger Mann, der sogar im Gefängnis war, wird an seiner Stelle König. Alle jubeln ihm zu.
 > Aber auch seine Beliebtheit hält nicht ewig. Die nächste Generation hat ihn schon vergessen.
 > Ruhm und Beliebtheit sind flüchtig. Auch das ist „ein Haschen nach Wind“.
+
+## Prediger – Kapitel 5
+#### Wer Geld liebt, wird nicht satt
+
+---
+
+### Wenige Worte vor Gott (Vers 1–7)
+
+<sup>1</sup>Achte auf deine Schritte, wenn du zum Haus Gottes gehst.
+Denn hinzugehen, um zuzuhören, ist besser,
+als das Opfer der Toren zu bringen,
+denn sie wissen nicht, dass sie Böses tun.
+<sup>2</sup>Sei nicht vorschnell mit deinem Mund,
+und dein Herz soll nicht eilig etwas vor Gott aussprechen,
+denn Gott ist im Himmel, und du bist auf der Erde.
+Darum sollen deine Worte wenige sein.
+<sup>3</sup>Denn wie ein Traum mit vielen Sorgen kommt,
+so kommt die Rede des Toren mit vielen Worten.
+<sup>4</sup>Wenn du Gott ein Gelübde ablegst, dann zögere nicht, es zu erfüllen,
+denn er hat kein Gefallen an Toren.
+Erfülle, was du gelobst.
+<sup>5</sup>Es ist besser, dass du nichts gelobst,
+als dass du gelobst und es nicht erfüllst.
+<sup>6</sup>Lass nicht zu, dass dein Mund dich zur Sünde verführt.
+Sag nicht vor dem Boten, das sei ein Versehen gewesen.
+Warum sollte Gott über deine Stimme zornig werden
+und das Werk deiner Hände zerstören?
+<sup>7</sup>Denn wo viele Träume sind, da ist Nichtiges,
+ebenso wo viele Worte sind.
+Du aber sollst Gott fürchten.
+
+> **Was bedeutet das?**
+> Vers 1: Im Gottesdienst ist Zuhören wichtiger als religiöse Rituale ohne Herz.
+> Vers 2: „Gott ist im Himmel, und du bist auf der Erde. Darum sollen deine Worte wenige sein.“ Gott braucht keine langen, schönen Gebete. Jesus sagt Ähnliches (Matthäus 6,7–8).
+> Vers 4–5: Halte, was du Gott versprichst. Besser gar nichts versprechen als ein Versprechen brechen.
+> Vers 6: „Der Bote“ ist vermutlich der Priester, vor dem man ein Gelübde ablegte. Man soll sich nicht herausreden: „Das war nur ein Versehen.“
+
+---
+
+### Ungerechtigkeit im Staat (Vers 8–9)
+
+<sup>8</sup>Wenn du siehst, dass in einer Provinz der Arme unterdrückt wird
+und Recht und Gerechtigkeit mit Gewalt weggenommen werden,
+dann wundere dich nicht über die Sache,
+denn ein Beamter wird von einem höheren beobachtet,
+und über ihnen gibt es noch höhere Beamte.
+<sup>9</sup>Außerdem ist der Ertrag des Landes für alle.
+Der König zieht Gewinn aus dem Feld.
+
+> **Was bedeutet das?**
+> Der Prediger beschreibt nüchtern, wie es in einem großen Staat zugeht: Ein Beamter steht über dem anderen. Jeder will etwas abhaben. Am Ende leiden die Armen.
+> „Wundere dich nicht“ heißt nicht „finde dich damit ab“. Es heißt: Sei nicht überrascht. So ist die Welt. Andere Teile der Bibel fordern deutlich, gegen solche Ungerechtigkeit aufzustehen (zum Beispiel Amos 5,24).
+> Vers 9 ist im Hebräischen schwer zu verstehen. Gemeint ist vielleicht: Alle leben vom Ertrag des Landes, auch der König.
+
+---
+
+### Reichtum macht nicht satt (Vers 10–17)
+
+<sup>10</sup>Wer Silber liebt, wird vom Silber nicht satt,
+und wer den Überfluss liebt, nicht vom Ertrag.
+Auch das ist nichtig.
+<sup>11</sup>Wenn der Besitz zunimmt, nehmen auch die zu, die davon essen.
+Und welchen Vorteil hat der Besitzer davon,
+außer dass seine Augen sich daran weiden?
+<sup>12</sup>Süß ist der Schlaf des Arbeiters,
+ob er wenig oder viel isst,
+aber der Überfluss des Reichen lässt ihn nicht schlafen.
+<sup>13</sup>Es gibt ein schlimmes Übel, das ich unter der Sonne gesehen habe:
+Reichtum, den sein Besitzer zu seinem eigenen Schaden aufbewahrt.
+<sup>14</sup>Dieser Reichtum geht durch ein Unglück verloren,
+und wenn er einen Sohn gezeugt hat,
+dann ist nichts in seiner Hand.
+<sup>15</sup>Wie er aus dem Leib seiner Mutter herausgekommen ist,
+so wird er nackt wieder gehen, wie er gekommen ist,
+und er wird nichts von seiner Mühe mitnehmen,
+was er in seiner Hand forttragen könnte.
+<sup>16</sup>Auch das ist ein schlimmes Übel:
+Genau so, wie er gekommen ist, so wird er gehen.
+Und welchen Gewinn hat er, der sich für den Wind abmüht?
+<sup>17</sup>Auch isst er alle seine Tage in Finsternis,
+er ist voller Ärger und hat Krankheit und Zorn.
+
+> **Was bedeutet das?**
+> Vers 10: Ein zeitloser Satz: Wer Geld liebt, hat nie genug. Es ist wie Salzwasser trinken: Je mehr man trinkt, desto durstiger wird man.
+> Vers 11: Wer mehr hat, hat auch mehr Menschen um sich, die davon leben wollen.
+> Vers 12: Ein einfacher Arbeiter schläft gut. Ein Reicher liegt wach und sorgt sich um sein Geld.
+> Vers 15: „Nackt kommen wir, nackt gehen wir“: Wir können nichts mitnehmen. Ähnlich sagt es Hiob (Hiob 1,21) und Paulus (1. Timotheus 6,7). Man sagt auch: „Das letzte Hemd hat keine Taschen.“
+
+---
+
+### Freude als Geschenk Gottes (Vers 18–20)
+
+<sup>18</sup>Siehe, was ich als gut und schön erkannt habe:
+dass man isst und trinkt
+und Gutes genießt bei all seiner Mühe,
+mit der man sich abmüht unter der Sonne,
+alle Tage seines Lebens, die Gott ihm gegeben hat,
+denn das ist sein Anteil.
+<sup>19</sup>Und jeder Mensch, dem Gott Reichtum und Besitz gegeben hat
+und dem er die Fähigkeit gegeben hat, davon zu essen,
+seinen Anteil zu nehmen und sich an seiner Mühe zu freuen,
+das ist ein Geschenk Gottes.
+<sup>20</sup>Denn er wird nicht oft über die Tage seines Lebens nachgrübeln,
+weil Gott ihn mit der Freude seines Herzens beschäftigt.
+
+> **Was bedeutet das?**
+> Wieder die Antwort des Predigers: Genieße, was Gott dir gibt. Nicht das Geld an sich macht glücklich, sondern die Fähigkeit, es dankbar zu genießen. Auch diese Fähigkeit ist ein Geschenk Gottes.
+> Vers 20: Wer sich am Leben freut, grübelt nicht ständig darüber nach, wie kurz es ist. Gott füllt sein Herz mit Freude.
+
+## Prediger – Kapitel 6
+#### Wer weiß, was gut ist für den Menschen?
+
+---
+
+### Reich, aber nicht glücklich (Vers 1–6)
+
+<sup>1</sup>Es gibt ein Übel, das ich unter der Sonne gesehen habe,
+und es lastet schwer auf den Menschen:
+<sup>2</sup>Ein Mensch, dem Gott Reichtum, Besitz und Ehre gibt,
+sodass ihm nichts fehlt von allem, was seine Seele begehrt,
+und doch gibt Gott ihm nicht die Fähigkeit, davon zu essen,
+sondern ein Fremder isst es.
+Das ist nichtig, und es ist eine böse Krankheit.
+<sup>3</sup>Wenn ein Mensch hundert Kinder zeugt
+und viele Jahre lebt, sodass die Tage seiner Jahre viele sind,
+aber seine Seele wird nicht mit Gutem satt,
+und er bekommt nicht einmal ein Begräbnis,
+dann sage ich: Eine Fehlgeburt ist besser dran als er.
+<sup>4</sup>Denn sie kommt in Nichtigkeit
+und geht in Finsternis,
+und ihr Name ist mit Finsternis bedeckt.
+<sup>5</sup>Außerdem hat sie die Sonne nicht gesehen und nicht gekannt.
+Sie hat mehr Ruhe als der andere.
+<sup>6</sup>Ja, selbst wenn er zweimal tausend Jahre lebte
+und doch das Gute nicht genießen könnte,
+gehen nicht alle an einen Ort?
+
+> **Was bedeutet das?**
+> Ein trauriges Bild: Jemand hat alles, Geld, Ehre, viele Kinder, ein langes Leben. Aber er kann nichts davon genießen. Er stirbt unglücklich und wird nicht einmal ordentlich begraben.
+> Vers 3–5: Der Prediger sagt: Ein Kind, das tot geboren wird, ist besser dran. Es hat wenigstens Ruhe. Das ist eine sehr harte Aussage, die zeigen soll, wie schrecklich ein freudloses Leben ist. Sie ist kein Urteil über Kinder, die vor oder bei der Geburt sterben.
+> Eltern, die ein Kind verloren haben, finden Hilfe zum Beispiel bei Selbsthilfegruppen für verwaiste Eltern oder bei der Telefonseelsorge (0800 111 0 111).
+
+---
+
+### Der Mensch ist wie ein Schatten (Vers 7–12)
+
+<sup>7</sup>Alle Mühe des Menschen ist für seinen Mund,
+und doch wird der Hunger nicht gestillt.
+<sup>8</sup>Denn welchen Vorteil hat der Weise vor dem Toren?
+Was hat der Arme davon, dass er weiß,
+wie man sich vor den Lebenden verhält?
+<sup>9</sup>Besser ist, was die Augen sehen,
+als das Umherschweifen der Begierde.
+Auch das ist nichtig und ein Haschen nach Wind.
+<sup>10</sup>Was auch immer gewesen ist, sein Name wurde längst gegeben,
+und man weiß, was der Mensch ist.
+Er kann nicht mit dem streiten, der stärker ist als er.
+<sup>11</sup>Denn es gibt viele Worte, die Nichtigkeit vermehren.
+Was nützt das dem Menschen?
+<sup>12</sup>Denn wer weiß, was gut ist für den Menschen im Leben,
+alle Tage seines nichtigen Lebens, die er verbringt wie ein Schatten?
+Denn wer kann dem Menschen sagen,
+was nach ihm sein wird unter der Sonne?
+
+> **Was bedeutet das?**
+> Vers 7: Wir arbeiten, um zu essen. Aber der Hunger kommt immer wieder. Und die Sehnsucht nach mehr hört nie auf.
+> Vers 9: „Besser ist, was die Augen sehen“: Freu dich an dem, was du hast, statt immer von mehr zu träumen. Das ist Zufriedenheit.
+> Vers 10: „Der Stärkere“ ist Gott. Mit ihm kann der Mensch nicht streiten.
+> Vers 12: Unser Leben ist kurz wie ein Schatten. Niemand kann uns sagen, was danach kommt. Diese Fragen bleiben offen. Das Buch Prediger hält diese Spannung aus.
+
+## Prediger – Kapitel 7
+#### Besser als …
+
+---
+
+### Was ist besser? (Vers 1–6)
+
+<sup>1</sup>Ein guter Name ist besser als feines Parfüm,
+und der Tag des Todes besser als der Tag der Geburt.
+<sup>2</sup>Es ist besser, in ein Haus der Trauer zu gehen,
+als in ein Haus des Festmahls zu gehen,
+denn das ist das Ende aller Menschen,
+und der Lebende soll es sich zu Herzen nehmen.
+<sup>3</sup>Kummer ist besser als Lachen,
+denn durch ein trauriges Gesicht wird das Herz gut.
+<sup>4</sup>Das Herz der Weisen ist im Haus der Trauer,
+aber das Herz der Toren ist im Haus der Fröhlichkeit.
+<sup>5</sup>Es ist besser, den Tadel des Weisen zu hören,
+als dass jemand das Lied der Toren hört.
+<sup>6</sup>Denn wie das Prasseln der Dornen unter dem Topf,
+so ist das Lachen des Toren.
+Auch das ist nichtig.
+
+> **Was bedeutet das?**
+> Hier beginnt eine Reihe von „Besser-als“-Sprüchen.
+> Vers 1: Im Hebräischen ein Wortspiel: „Schem“ (Name) und „Schemen“ (Öl). Ein guter Ruf ist mehr wert als teures Parfüm.
+> Vers 1–4: Überraschend: Der Tod und die Trauer sollen besser sein als Geburt und Feier? Der Prediger meint: Wer zu einer Beerdigung geht, denkt über das Leben nach. Er wird ernster und weiser. Auf einer Party denkt man darüber nicht nach.
+> Das heißt nicht, dass man nicht feiern soll. An anderen Stellen lobt der Prediger die Freude. Aber wer nie über den Tod nachdenkt, lebt oberflächlich.
+> Vers 6: Dornen brennen laut und schnell, aber sie geben wenig Wärme. So ist das laute Lachen der Toren: viel Lärm um nichts.
+
+---
+
+### Geduld und Weisheit (Vers 7–14)
+
+<sup>7</sup>Gewiss, Erpressung macht den Weisen töricht,
+und Bestechung verdirbt das Verständnis.
+<sup>8</sup>Besser ist das Ende einer Sache als ihr Anfang.
+Der Geduldige ist besser als der Hochmütige.
+<sup>9</sup>Sei nicht schnell in deinem Geist, zornig zu werden,
+denn der Zorn ruht im Schoß der Toren.
+<sup>10</sup>Sag nicht: „Warum waren die früheren Tage besser als diese?“
+Denn das fragst du nicht aus Weisheit.
+<sup>11</sup>Weisheit ist so gut wie ein Erbe.
+Ja, sie ist ein Vorteil für die, die die Sonne sehen.
+<sup>12</sup>Denn Weisheit ist ein Schutz, so wie Geld ein Schutz ist,
+aber der Vorzug der Erkenntnis ist,
+dass die Weisheit dem, der sie hat, das Leben erhält.
+<sup>13</sup>Betrachte das Werk Gottes,
+denn wer kann gerade machen, was er krumm gemacht hat?
+<sup>14</sup>Am Tag des Glücks sei fröhlich,
+und am Tag des Unglücks bedenke:
+Ja, Gott hat das eine neben das andere gestellt,
+damit der Mensch nichts herausfinden kann, was nach ihm kommt.
+
+> **Was bedeutet das?**
+> Vers 8: Man soll eine Sache nicht vor dem Ende beurteilen. Geduld zahlt sich aus.
+> Vers 9: Zorn wohnt bei den Toren. Wer weise ist, wird nicht schnell wütend.
+> Vers 10: „Früher war alles besser!“ Das sagen Menschen in jeder Generation. Der Prediger sagt: Das ist keine kluge Frage. Jede Zeit hat ihr Gutes und Schlechtes.
+> Vers 14: Ein weiser Rat: Wenn es dir gut geht, freu dich! Wenn es dir schlecht geht, denk nach! Beides, gute und schwere Tage, gehört zum Leben, und beides kommt aus Gottes Hand.
+
+---
+
+### Nicht zu gerecht, nicht zu gottlos (Vers 15–22)
+
+<sup>15</sup>Dies alles habe ich gesehen in meinen nichtigen Tagen:
+Da ist ein Gerechter, der umkommt in seiner Gerechtigkeit,
+und da ist ein Gottloser, der lange lebt in seiner Bosheit.
+<sup>16</sup>Sei nicht übermäßig gerecht,
+und mach dich nicht übermäßig weise.
+Warum willst du dich selbst zugrunde richten?
+<sup>17</sup>Sei nicht zu gottlos und sei kein Tor.
+Warum willst du vor deiner Zeit sterben?
+<sup>18</sup>Es ist gut, dass du das eine festhältst.
+Ja, und zieh auch deine Hand vom anderen nicht ab,
+denn wer Gott fürchtet, wird allem entgehen.
+<sup>19</sup>Die Weisheit macht den Weisen stärker
+als zehn Herrscher, die in einer Stadt sind.
+<sup>20</sup>Gewiss, es gibt keinen gerechten Menschen auf der Erde,
+der Gutes tut und nicht sündigt.
+<sup>21</sup>Achte auch nicht auf alle Worte, die gesprochen werden,
+damit du nicht hörst, wie dein Diener dich verflucht,
+<sup>22</sup>denn dein eigenes Herz weiß oft,
+dass auch du andere verflucht hast.
+
+> **Was bedeutet das?**
+> Vers 15: Der Prediger sieht ehrlich hin: Manchmal sterben gute Menschen jung, und böse Menschen leben lange. Das passt nicht zur einfachen Regel „Wer gut ist, dem geht es gut“.
+> Vers 16–17: Ein ungewöhnlicher Rat: Sei nicht „übermäßig gerecht“. Gemeint ist wohl: Sei nicht selbstgerecht und streng mit dir und anderen, als könntest du dir mit Frömmigkeit alles verdienen. Und sei natürlich auch nicht böse.
+> Vers 18: Wer Gott fürchtet, findet den richtigen Weg zwischen den Extremen.
+> Vers 20: „Es gibt keinen Menschen, der nur Gutes tut und nie sündigt.“ Paulus zitiert diesen Gedanken (Römer 3,10–12).
+> Vers 21–22: Ein kluger Rat: Hör nicht auf jedes Gerede über dich. Und denk daran: Du hast auch schon schlecht über andere geredet.
+
+---
+
+### Was ich gesucht und nicht gefunden habe (Vers 23–29)
+
+<sup>23</sup>Dies alles habe ich mit Weisheit geprüft.
+Ich sagte: „Ich will weise werden“,
+aber sie war fern von mir.
+<sup>24</sup>Was da ist, ist fern und überaus tief.
+Wer kann es ergründen?
+<sup>25</sup>Ich wandte mich um, und mein Herz suchte zu erkennen und zu erforschen
+und nach Weisheit und dem Sinn der Dinge zu suchen
+und zu erkennen, dass Gottlosigkeit Dummheit ist
+und Torheit Wahnsinn.
+<sup>26</sup>Ich finde bitterer als den Tod die Frau,
+deren Herz Schlingen und Fallen ist
+und deren Hände Fesseln sind.
+Wer Gott gefällt, wird ihr entkommen,
+aber der Sünder wird von ihr gefangen.
+<sup>27</sup>„Siehe, das habe ich gefunden“, sagt der Prediger,
+„indem ich eins zum anderen fügte, um eine Erklärung zu finden,
+<sup>28</sup>die meine Seele immer noch sucht, aber ich habe sie nicht gefunden.
+Einen Mann unter tausend habe ich gefunden,
+aber eine Frau unter all diesen habe ich nicht gefunden.
+<sup>29</sup>Siehe, nur das habe ich gefunden:
+dass Gott den Menschen aufrichtig gemacht hat,
+aber sie suchen viele Ausflüchte.“
+
+> **Was bedeutet das?**
+> Vers 23–24: Der Prediger gibt zu: Ich wollte weise werden, aber die Wahrheit ist zu tief für mich.
+> Vers 26: Hier warnt er vor einer verführerischen Frau, wie die Sprüche (Sprüche 5 und 7). Es geht um eine bestimmte Art von Frau, nicht um alle Frauen.
+> Vers 28: Dieser Vers klingt frauenfeindlich und wurde oft so missbraucht. Viele Ausleger verstehen ihn so: Der Prediger hat auch unter Männern fast niemanden gefunden, der wirklich weise und aufrichtig ist, „einen unter tausend“. Er beschreibt seine persönliche, begrenzte Erfahrung, wohl aus einem Königshof mit vielen Frauen, die keine freien Partnerinnen waren. Es ist kein Urteil Gottes über Frauen.
+> Andere Teile der Bibel loben viele weise und gute Frauen, zum Beispiel Rut, Abigajil, Debora und die tüchtige Frau in Sprüche 31.
+> Vers 29: Das wichtigste Ergebnis: Gott hat den Menschen, Mann und Frau, gut und aufrichtig geschaffen. Aber die Menschen haben sich viele Ausflüchte und Abwege ausgedacht. Das gilt für alle gleich.
+
+## Prediger – Kapitel 8
+#### Niemand kann Gottes Werk ergründen
+
+---
+
+### Der Mensch und der König (Vers 1–9)
+
+<sup>1</sup>Wer ist wie der Weise?
+Und wer weiß die Deutung einer Sache?
+Die Weisheit eines Menschen lässt sein Gesicht leuchten,
+und die Härte seines Gesichts wird verwandelt.
+<sup>2</sup>Ich sage: „Halte das Gebot des Königs!“,
+und zwar wegen des Eides vor Gott.
+<sup>3</sup>Geh nicht vorschnell aus seiner Gegenwart weg.
+Bleib nicht bei einer bösen Sache,
+denn er tut, was ihm gefällt,
+<sup>4</sup>denn das Wort des Königs hat Macht.
+Wer kann zu ihm sagen: „Was tust du?“
+<sup>5</sup>Wer das Gebot hält, wird keinen Schaden erleiden,
+und ein weises Herz wird die Zeit und das rechte Verfahren kennen.
+<sup>6</sup>Denn für jedes Vorhaben gibt es eine Zeit und ein Verfahren,
+obwohl das Elend des Menschen schwer auf ihm lastet.
+<sup>7</sup>Denn er weiß nicht, was sein wird.
+Denn wer kann ihm sagen, wie es sein wird?
+<sup>8</sup>Kein Mensch hat Macht über den Wind, um den Wind festzuhalten.
+Er hat auch keine Macht über den Tag des Todes.
+Im Krieg gibt es keine Entlassung,
+und die Gottlosigkeit wird die nicht retten, die sie tun.
+<sup>9</sup>Dies alles habe ich gesehen,
+und ich richtete meinen Sinn auf jedes Werk, das unter der Sonne getan wird.
+Es gibt eine Zeit, in der ein Mensch Macht hat über einen anderen, zu dessen Schaden.
+
+> **Was bedeutet das?**
+> Vers 1: Weisheit macht ein Gesicht freundlich. Ein weiser Mensch wirkt nicht hart, sondern strahlt.
+> Vers 2–5: Ein kluger Umgang mit Mächtigen: vorsichtig sein, keine voreiligen Aktionen. Das heißt nicht, dass man jedem Befehl gehorchen muss, auch nicht, wenn er Unrecht verlangt. Die Bibel erzählt von Menschen, die Gott mehr gehorcht haben als Königen (Daniel 3; Apostelgeschichte 5,29).
+> Vers 8: Ein Satz voller Demut: Kein Mensch kann den Wind festhalten, und niemand kann den Tag seines Todes bestimmen. Das hebräische Wort für „Wind“ kann auch „Geist“ oder „Atem“ heißen.
+> Vers 9: Macht wird oft missbraucht, um anderen zu schaden.
+
+---
+
+### Wenn die Strafe auf sich warten lässt (Vers 10–15)
+
+<sup>10</sup>So sah ich die Gottlosen begraben.
+Ja, sie kamen sogar aus dem Heiligtum.
+Sie gingen fort und wurden vergessen in der Stadt, in der sie das getan hatten.
+Auch das ist nichtig.
+<sup>11</sup>Weil das Urteil über eine böse Tat nicht schnell vollstreckt wird,
+darum ist das Herz der Menschenkinder ganz darauf aus, Böses zu tun.
+<sup>12</sup>Auch wenn ein Sünder hundertmal Verbrechen begeht und lange lebt,
+so weiß ich doch gewiss, dass es denen gut gehen wird, die Gott fürchten,
+die Ehrfurcht vor ihm haben.
+<sup>13</sup>Aber dem Gottlosen wird es nicht gut gehen,
+und er wird seine Tage nicht verlängern wie ein Schatten,
+weil er Gott nicht fürchtet.
+<sup>14</sup>Es gibt etwas Nichtiges, das auf der Erde geschieht:
+Es gibt Gerechte, denen es ergeht, als hätten sie wie Gottlose gehandelt.
+Und es gibt Gottlose, denen es ergeht, als hätten sie wie Gerechte gehandelt.
+Ich sagte, dass auch das nichtig ist.
+<sup>15</sup>Da lobte ich die Freude,
+denn der Mensch hat nichts Besseres unter der Sonne,
+als zu essen, zu trinken und fröhlich zu sein.
+Denn das wird ihn begleiten bei seiner Mühe
+alle Tage seines Lebens, die Gott ihm gegeben hat unter der Sonne.
+
+> **Was bedeutet das?**
+> Vers 10: Der Satz ist im Hebräischen schwer zu verstehen. Gemeint ist wohl: Böse Menschen, die sogar im Tempel ein und aus gingen, bekamen ein ehrenvolles Begräbnis. Dann vergaß man ihre Taten.
+> Vers 11: Wenn Verbrechen nicht schnell bestraft werden, fühlen sich die Menschen ermutigt, weiter Böses zu tun. Das gilt bis heute für Justiz und Gesellschaft.
+> Vers 12–13: Trotzdem glaubt der Prediger: Am Ende geht es denen gut, die Gott fürchten.
+> Vers 14: Aber er sieht auch das Gegenteil: Guten geht es schlecht, Bösen gut. Er hält beides nebeneinander aus, ohne eine einfache Lösung.
+> Vers 15: Seine Antwort ist wieder: Freu dich am Leben, das Gott dir schenkt.
+
+---
+
+### Das Werk Gottes ist unergründlich (Vers 16–17)
+
+<sup>16</sup>Als ich mein Herz darauf richtete, Weisheit zu erkennen
+und das Treiben zu sehen, das auf der Erde geschieht,
+(auch wenn die Augen weder Tag noch Nacht Schlaf sehen),
+<sup>17</sup>da sah ich all das Werk Gottes:
+dass der Mensch das Werk, das unter der Sonne geschieht, nicht ergründen kann.
+Denn wie sehr sich ein Mensch auch abmüht, es zu erforschen,
+er wird es nicht finden.
+Ja, selbst wenn ein Weiser meint, er könne es begreifen,
+er wird es nicht finden können.
+
+> **Was bedeutet das?**
+> Der Prediger hat Tag und Nacht nachgedacht. Sein Ergebnis: Niemand kann Gottes Handeln ganz verstehen, auch der klügste Mensch nicht.
+> Das ist keine Verzweiflung, sondern Demut. Wir müssen nicht alles verstehen, um Gott zu vertrauen. Paulus sagt: „Wie unergründlich sind seine Gerichte und unerforschlich seine Wege!“ (Römer 11,33).
