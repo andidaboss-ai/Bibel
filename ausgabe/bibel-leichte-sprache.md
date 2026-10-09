@@ -73024,7 +73024,7 @@ der Rettung schafft auf der ganzen Erde.
 <sup>13</sup>Du hast mit deiner Kraft das Meer geteilt.
 Du hast die Köpfe der Seeungeheuer im Wasser zerbrochen.
 <sup>14</sup>Du hast die Köpfe des Leviatan zerschmettert.
-Du hast ihn dem Volk der Wüstentiere zum Fraß gegeben.
+Du hast ihn den Menschen und den Wüstentieren zum Fraß gegeben.
 <sup>15</sup>Du hast Quelle und Bach hervorbrechen lassen.
 Du hast mächtige Ströme austrocknen lassen.
 <sup>16</sup>Dein ist der Tag, dein ist auch die Nacht.
@@ -73035,7 +73035,7 @@ Sommer und Winter hast du gemacht.
 > **Was bedeutet das?**
 > Mitten in der Klage erinnert sich der Beter: Gott ist doch der König, der die Welt geschaffen und Israel gerettet hat.
 > Vers 13–14: Das Teilen des Meeres erinnert an den Auszug aus Ägypten. Die „Seeungeheuer“ und der „Leviatan“ sind Bilder für die Mächte des Chaos (vgl. Hiob 41). Manche Ausleger denken auch an Ägypten, das wie ein Ungeheuer war.
-> Vers 14: Die englische Vorlage sagt „dem Volk und den Wüstentieren“. Das hebräische Wort ist unsicher.
+> Vers 14: Das hebräische Wort ist unsicher. Viele deutsche Bibeln übersetzen: „dem Volk der Wüstentiere“.
 > Vers 16–17: Tag und Nacht, Sommer und Winter: Gott hat die Ordnung der Welt geschaffen. Darum kann er auch jetzt wieder Ordnung schaffen.
 
 ---
@@ -73091,7 +73091,7 @@ Und zu den Gottlosen: „Erhebt das Horn nicht!
 <sup>5</sup>Erhebt euer Horn nicht so hoch!
 Redet nicht mit steifem Nacken!“
 <sup>6</sup>Denn weder vom Osten noch vom Westen
-noch aus der Wüste im Süden kommt die Erhöhung.
+noch vom Süden kommt die Erhöhung.
 <sup>7</sup>Sondern Gott ist Richter.
 Den einen erniedrigt er, den anderen erhöht er.
 <sup>8</sup>Denn in der Hand des HERRN ist ein Becher

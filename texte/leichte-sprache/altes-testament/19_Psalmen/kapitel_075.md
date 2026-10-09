@@ -28,7 +28,7 @@ Und zu den Gottlosen: „Erhebt das Horn nicht!
 [5] Erhebt euer Horn nicht so hoch!
 Redet nicht mit steifem Nacken!“
 [6] Denn weder vom Osten noch vom Westen
-noch aus der Wüste im Süden kommt die Erhöhung.
+noch vom Süden kommt die Erhöhung.
 [7] Sondern Gott ist Richter.
 Den einen erniedrigt er, den anderen erhöht er.
 [8] Denn in der Hand des HERRN ist ein Becher

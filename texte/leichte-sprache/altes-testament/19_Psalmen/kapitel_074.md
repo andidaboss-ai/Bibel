@@ -55,7 +55,7 @@ der Rettung schafft auf der ganzen Erde.
 [13] Du hast mit deiner Kraft das Meer geteilt.
 Du hast die Köpfe der Seeungeheuer im Wasser zerbrochen.
 [14] Du hast die Köpfe des Leviatan zerschmettert.
-Du hast ihn dem Volk der Wüstentiere zum Fraß gegeben.
+Du hast ihn den Menschen und den Wüstentieren zum Fraß gegeben.
 [15] Du hast Quelle und Bach hervorbrechen lassen.
 Du hast mächtige Ströme austrocknen lassen.
 [16] Dein ist der Tag, dein ist auch die Nacht.
@@ -66,7 +66,7 @@ Sommer und Winter hast du gemacht.
 > **Was bedeutet das?**
 > Mitten in der Klage erinnert sich der Beter: Gott ist doch der König, der die Welt geschaffen und Israel gerettet hat.
 > Vers 13–14: Das Teilen des Meeres erinnert an den Auszug aus Ägypten. Die „Seeungeheuer“ und der „Leviatan“ sind Bilder für die Mächte des Chaos (vgl. Hiob 41). Manche Ausleger denken auch an Ägypten, das wie ein Ungeheuer war.
-> Vers 14: Die englische Vorlage sagt „dem Volk und den Wüstentieren“. Das hebräische Wort ist unsicher.
+> Vers 14: Das hebräische Wort ist unsicher. Viele deutsche Bibeln übersetzen: „dem Volk der Wüstentiere“.
 > Vers 16–17: Tag und Nacht, Sommer und Winter: Gott hat die Ordnung der Welt geschaffen. Darum kann er auch jetzt wieder Ordnung schaffen.
 
 ---
