@@ -60058,3 +60058,417 @@ Ihr aber habt keinen Anteil, kein Recht und kein Andenken in Jerusalem.“
 > Sofort kommen Spott und Drohung. Sie unterstellen Aufstand gegen den König. Das ist dieselbe Taktik wie in Esra 4.
 > Geschem war ein mächtiger Araberfürst. Eine Silberschale, die in Ägypten gefunden wurde, nennt wohl denselben Mann: „Geschem, König von Kedar“.
 > Nehemia lässt sich nicht einschüchtern. Er antwortet klar: Gott wird uns gelingen lassen. Ihr habt hier nichts zu sagen.
+
+## Nehemia – Kapitel 3
+#### Alle bauen mit
+
+---
+
+### Vom Schaftor zum Alten Tor (Vers 1–5)
+
+<sup>1</sup>Da machte sich Eljaschib, der Hohepriester, mit seinen Brüdern, den Priestern, auf,
+und sie bauten das Schaftor.
+Sie weihten es und setzten seine Türflügel ein.
+Sie weihten es bis zum Turm Hammea, bis zum Turm Hananel.
+<sup>2</sup>Neben ihm bauten die Männer von Jericho.
+Neben ihnen baute Sakkur, der Sohn Imris.
+<sup>3</sup>Die Söhne Senaas bauten das Fischtor.
+Sie legten seine Balken
+und setzten seine Türflügel, seine Riegel und seine Querbalken ein.
+<sup>4</sup>Neben ihnen besserte Meremot aus, der Sohn Urijas, des Sohnes des Hakkoz.
+Neben ihnen besserte Meschullam aus, der Sohn Berechjas, des Sohnes Meschesabels.
+Neben ihnen besserte Zadok aus, der Sohn Baanas.
+<sup>5</sup>Neben ihnen besserten die Leute von Tekoa aus.
+Aber ihre Vornehmen beugten ihren Nacken nicht zum Werk ihres Herrn.
+
+> **Was bedeutet das?**
+> Dieses Kapitel ist eine Liste: Wer hat welches Stück der Mauer gebaut? Sie beginnt im Norden beim Schaftor und geht gegen den Uhrzeigersinn einmal rund um die Stadt.
+> Der Hohepriester fängt an. Die Führer gehen mit gutem Beispiel voran.
+> Das Schaftor lag nahe beim Tempel. Dort wurden wohl die Schafe für die Opfer hereingebracht. Am Schaftor lag später auch der Teich Betesda, an dem Jesus einen Kranken heilte (Johannes 5,2).
+> Vers 5 ist ehrlich: Die Vornehmen von Tekoa waren sich zu fein für die Arbeit. Aber die einfachen Leute von Tekoa bauten sogar zwei Abschnitte (Vers 27).
+> „Ihres Herrn“: Gemeint ist entweder Gott oder Nehemia als Statthalter.
+
+---
+
+### Vom Alten Tor zum Taltor (Vers 6–13)
+
+<sup>6</sup>Das Alte Tor besserten Jojada, der Sohn Paseachs, und Meschullam, der Sohn Besodjas, aus.
+Sie legten seine Balken
+und setzten seine Türflügel, seine Riegel und seine Querbalken ein.
+<sup>7</sup>Neben ihnen besserten Melatja, der Gibeoniter, und Jadon, der Meronotiter, aus,
+die Männer von Gibeon und von Mizpa,
+bis zum Amtssitz des Statthalters jenseits des Stroms.
+<sup>8</sup>Neben ihm besserte Usiël aus, der Sohn Harhajas, einer der Goldschmiede.
+Neben ihm besserte Hananja aus, einer der Salbenmischer.
+Und sie befestigten Jerusalem bis zur Breiten Mauer.
+<sup>9</sup>Neben ihnen besserte Refaja aus, der Sohn Hurs,
+der Vorsteher des halben Bezirks von Jerusalem.
+<sup>10</sup>Neben ihnen besserte Jedaja aus, der Sohn Harumafs, gegenüber seinem Haus.
+Neben ihm besserte Hattusch aus, der Sohn Haschabnejas.
+<sup>11</sup>Malkija, der Sohn Harims, und Haschub, der Sohn Pahat-Moabs,
+besserten einen zweiten Abschnitt aus und den Ofenturm.
+<sup>12</sup>Neben ihm besserte Schallum aus, der Sohn des Hallohesch,
+der Vorsteher des anderen halben Bezirks von Jerusalem,
+er und seine Töchter.
+<sup>13</sup>Das Taltor besserten Hanun und die Bewohner von Sanoach aus.
+Sie bauten es
+und setzten seine Türflügel, seine Riegel und seine Querbalken ein.
+Dazu 450 Meter Mauer bis zum Misttor.
+
+> **Was bedeutet das?**
+> Menschen aus allen Berufen bauen mit: Goldschmiede, Salbenmischer (Parfümhersteller), Vorsteher. Jeder hilft mit, auch wenn er kein Bauarbeiter ist.
+> Vers 12 ist bemerkenswert: Schallum baut zusammen mit seinen Töchtern. Frauen arbeiteten mit beim Bau der Mauer.
+> Viele bauen „gegenüber ihrem Haus“. Jeder kümmert sich um das Stück, das ihm am nächsten liegt. So wird die Arbeit gut verteilt, und jeder hat einen Grund, sorgfältig zu sein.
+> In der Bibel steht „1000 Ellen“. Eine Elle sind etwa 45 Zentimeter. Hier war die Mauer wohl weniger beschädigt.
+
+---
+
+### Vom Misttor bis zum Wasser (Vers 14–16)
+
+<sup>14</sup>Das Misttor besserte Malkija aus, der Sohn Rechabs,
+der Vorsteher des Bezirks Bet-Kerem.
+Er baute es
+und setzte seine Türflügel, seine Riegel und seine Querbalken ein.
+<sup>15</sup>Das Quelltor besserte Schallun aus, der Sohn Kol-Hoses,
+der Vorsteher des Bezirks Mizpa.
+Er baute es, überdachte es
+und setzte seine Türflügel, seine Riegel und seine Querbalken ein.
+Außerdem besserte er die Mauer am Teich Schelach beim Garten des Königs aus,
+bis zu den Stufen, die von der Stadt Davids hinabführen.
+<sup>16</sup>Nach ihm besserte Nehemia aus, der Sohn Asbuks,
+der Vorsteher des halben Bezirks Bet-Zur,
+bis gegenüber den Gräbern Davids,
+bis zu dem angelegten Teich
+und bis zum Haus der Helden.
+
+> **Was bedeutet das?**
+> Das Misttor führte zum Tal Hinnom, wo der Abfall der Stadt hingebracht wurde.
+> Der Teich Schelach ist wohl der Teich Siloah. Dorthin schickte Jesus später einen blinden Mann, um sich zu waschen (Johannes 9,7).
+> Dieser Nehemia, Sohn Asbuks, ist nicht derselbe wie Nehemia, der Statthalter.
+> Die „Gräber Davids“ lagen in der alten Stadt Davids. Wo genau, weiß man heute nicht.
+
+---
+
+### Die Leviten und Priester (Vers 17–22)
+
+<sup>17</sup>Nach ihm besserten die Leviten aus: Rehum, der Sohn Banis.
+Neben ihm besserte Haschabja aus,
+der Vorsteher des halben Bezirks Keïla, für seinen Bezirk.
+<sup>18</sup>Nach ihm besserten ihre Brüder aus:
+Bawwai, der Sohn Henadads,
+der Vorsteher des anderen halben Bezirks Keïla.
+<sup>19</sup>Neben ihm besserte Eser aus, der Sohn Jeschuas, der Vorsteher von Mizpa,
+einen zweiten Abschnitt,
+gegenüber dem Aufgang zum Zeughaus am Winkel.
+<sup>20</sup>Nach ihm besserte Baruch, der Sohn Sabbais, mit Eifer einen zweiten Abschnitt aus,
+vom Winkel bis zur Tür des Hauses Eljaschibs, des Hohenpriesters.
+<sup>21</sup>Nach ihm besserte Meremot aus, der Sohn Urijas, des Sohnes des Hakkoz,
+einen zweiten Abschnitt,
+von der Tür des Hauses Eljaschibs bis zum Ende des Hauses Eljaschibs.
+<sup>22</sup>Nach ihm besserten die Priester aus,
+die Männer aus der Umgebung.
+
+> **Was bedeutet das?**
+> Baruch arbeitet „mit Eifer“. Er ist der Einzige, bei dem das ausdrücklich gesagt wird. Gott sieht, wer sich besonders einsetzt.
+> Meremot baut gleich zwei Abschnitte (Vers 4 und 21). Er war der Priester, dem Esra die Schätze übergeben hatte (Esra 8,33).
+> „Bawwai“: In manchen Handschriften steht „Binnui“ wie in Vers 24.
+
+---
+
+### Bis zum Ofel (Vers 23–27)
+
+<sup>23</sup>Nach ihnen besserten Benjamin und Haschub aus, gegenüber ihrem Haus.
+Nach ihnen besserte Asarja aus, der Sohn Maasejas, des Sohnes Ananjas,
+neben seinem eigenen Haus.
+<sup>24</sup>Nach ihm besserte Binnui aus, der Sohn Henadads, einen zweiten Abschnitt,
+vom Haus Asarjas bis zum Winkel und bis zur Ecke.
+<sup>25</sup>Palal, der Sohn Usais, besserte aus gegenüber dem Winkel
+und dem Turm, der vom oberen Haus des Königs vorspringt,
+der beim Hof des Wachhauses ist.
+Nach ihm besserte Pedaja aus, der Sohn Parschs.
+<sup>26</sup>(Die Tempeldiener wohnten auf dem Ofel,
+bis gegenüber dem Wassertor im Osten
+und dem vorspringenden Turm.)
+<sup>27</sup>Nach ihm besserten die Leute von Tekoa einen zweiten Abschnitt aus,
+gegenüber dem großen vorspringenden Turm
+und bis zur Mauer des Ofel.
+
+> **Was bedeutet das?**
+> Der Ofel ist der Hügel zwischen der alten Stadt Davids und dem Tempelberg.
+> Das „Wassertor“ hieß wohl so, weil von dort der Weg zur Gihon-Quelle führte. Auf dem Platz vor dem Wassertor las Esra später dem Volk das Gesetz vor (Kapitel 8,1).
+> Die Leute von Tekoa bauen einen zweiten Abschnitt, obwohl ihre Vornehmen nicht mithalfen (Vers 5).
+
+---
+
+### Vom Rosstor zurück zum Schaftor (Vers 28–32)
+
+<sup>28</sup>Oberhalb des Rosstors besserten die Priester aus,
+jeder gegenüber seinem Haus.
+<sup>29</sup>Nach ihnen besserte Zadok aus, der Sohn Immers, gegenüber seinem Haus.
+Nach ihm besserte Schemaja aus, der Sohn Schechanjas, der Hüter des Osttors.
+<sup>30</sup>Nach ihm besserten Hananja, der Sohn Schelemjas,
+und Hanun, der sechste Sohn Salafs, einen zweiten Abschnitt aus.
+Nach ihm besserte Meschullam aus, der Sohn Berechjas, gegenüber seiner Kammer.
+<sup>31</sup>Nach ihm besserte Malkija aus, einer der Goldschmiede,
+bis zum Haus der Tempeldiener und der Händler,
+gegenüber dem Tor Hammifkad
+und bis zum Aufgang der Ecke.
+<sup>32</sup>Zwischen dem Aufgang der Ecke und dem Schaftor
+besserten die Goldschmiede und die Händler aus.
+
+> **Was bedeutet das?**
+> Der Kreis schließt sich: Die Liste endet wieder am Schaftor, wo sie begonnen hat.
+> „Tor Hammifkad“ heißt etwa „Musterungstor“. Vielleicht wurden dort Soldaten gemustert oder Waren geprüft.
+> „Aufgang der Ecke“: Das hebräische Wort kann auch „Obergemach“ bedeuten, also ein Raum oben an der Ecke der Mauer.
+> Die Botschaft dieses Kapitels: Ein großes Werk gelingt, wenn alle zusammen anpacken. Priester und Händler, Männer und Frauen, Städter und Landleute. Jeder an seinem Platz. Und jeder Name ist bei Gott bekannt.
+
+## Nehemia – Kapitel 4
+#### Bauen mit dem Schwert an der Seite
+
+---
+
+### Spott und Gebet (Vers 1–6)
+
+<sup>1</sup>Als Sanballat hörte, dass wir die Mauer bauten,
+wurde er zornig und sehr wütend
+und verspottete die Juden.
+<sup>2</sup>Er redete vor seinen Brüdern und vor dem Heer von Samaria und sagte:
+„Was machen diese schwachen Juden da?
+Wollen sie sich befestigen?
+Wollen sie opfern?
+Wollen sie an einem Tag fertig werden?
+Wollen sie die Steine aus den Schutthaufen wieder lebendig machen,
+wo sie doch verbrannt sind?“
+<sup>3</sup>Tobija, der Ammoniter, stand neben ihm und sagte:
+„Was sie da bauen –
+wenn ein Fuchs hinaufsteigt, reißt er ihre Steinmauer ein!“
+<sup>4</sup>„Hör, unser Gott, denn wir werden verachtet!
+Lass ihren Hohn auf ihren eigenen Kopf zurückfallen!
+Gib sie der Plünderung preis in einem Land der Gefangenschaft!
+<sup>5</sup>Deck ihre Schuld nicht zu,
+und lass ihre Sünde nicht vor dir ausgelöscht werden!
+Denn sie haben die Bauleute beleidigt.“
+<sup>6</sup>So bauten wir die Mauer.
+Die ganze Mauer wurde bis zur halben Höhe geschlossen,
+denn das Volk hatte Lust zur Arbeit.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln stehen die Verse 1–6 dieses Kapitels am Ende von Kapitel 3 (Vers 33–38). Darum sind die Verse in Kapitel 4 dort um sechs verschoben: Vers 7 hier ist dort Vers 1 und so weiter.
+> Die Gegner versuchen es zuerst mit Spott. Spott kann sehr entmutigend sein.
+> Nehemia antwortet nicht mit Gegen-Spott. Er betet. Sein Gebet ist hart: Er bittet Gott, die Spötter zu bestrafen. Solche Gebete gibt es auch in den Psalmen. Man darf Gott ehrlich sagen, wie wütend und verletzt man ist. Nehemia überlässt die Strafe Gott und rächt sich nicht selbst. Jesus geht noch weiter: „Betet für die, die euch verfolgen“ (Matthäus 5,44).
+> Vers 6: „Das Volk hatte Lust zur Arbeit“, wörtlich „ein Herz zur Arbeit“. Trotz des Spotts arbeiten sie mit ganzem Herzen weiter.
+
+---
+
+### Drohungen und Erschöpfung (Vers 7–12)
+
+<sup>7</sup>Als Sanballat, Tobija, die Araber, die Ammoniter und die Aschdoditer hörten,
+dass die Ausbesserung der Mauern Jerusalems voranging
+und dass die Lücken anfingen, sich zu schließen,
+wurden sie sehr zornig.
+<sup>8</sup>Sie verschworen sich alle miteinander,
+zu kommen und gegen Jerusalem zu kämpfen
+und Verwirrung unter uns zu stiften.
+<sup>9</sup>Aber wir beteten zu unserem Gott
+und stellten Wachen gegen sie auf, Tag und Nacht, wegen ihnen.
+<sup>10</sup>Juda sagte:
+„Die Kraft der Lastträger lässt nach,
+und es ist viel Schutt da,
+sodass wir die Mauer nicht bauen können.“
+<sup>11</sup>Unsere Gegner sagten:
+„Sie sollen nichts merken und nichts sehen,
+bis wir mitten unter sie kommen und sie töten
+und die Arbeit aufhören lassen.“
+<sup>12</sup>Als die Juden, die in ihrer Nähe wohnten, kamen,
+sagten sie uns zehnmal, von allen Orten:
+„Wohin ihr euch auch wendet, sie werden uns angreifen.“
+
+> **Was bedeutet das?**
+> Jetzt kommen die Feinde von allen Seiten: Samaria im Norden, die Araber im Süden, die Ammoniter im Osten und Aschdod (Philister) im Westen. Jerusalem ist umzingelt.
+> Vers 9 zeigt Nehemias Weg: Beten UND Wachen aufstellen. Glaube und Vorsicht gehören zusammen.
+> Dann kommt die Erschöpfung von innen: „Wir können nicht mehr.“ Der Schutt scheint endlos. Und die Juden aus den umliegenden Orten verbreiten Angst, „zehnmal“, also immer wieder.
+> Entmutigung kommt von außen und von innen. Beides ist gefährlich.
+
+---
+
+### Nehemia ermutigt das Volk (Vers 13–15)
+
+<sup>13</sup>Darum stellte ich an den niedrigsten Stellen hinter der Mauer,
+an den offenen Plätzen, Wachen auf.
+Ich stellte das Volk nach Familien auf,
+mit ihren Schwertern, ihren Speeren und ihren Bogen.
+<sup>14</sup>Ich sah mir alles an,
+stand auf
+und sagte zu den Vornehmen, zu den Vorstehern und zum übrigen Volk:
+„Fürchtet euch nicht vor ihnen!
+Denkt an den Herrn, der groß und furchtgebietend ist,
+und kämpft für eure Brüder, eure Söhne und eure Töchter,
+eure Frauen und eure Häuser!“
+<sup>15</sup>Als unsere Feinde hörten, dass wir es wussten
+und dass Gott ihren Plan zunichte gemacht hatte,
+kehrten wir alle zur Mauer zurück,
+jeder zu seiner Arbeit.
+
+> **Was bedeutet das?**
+> Nehemia stellt die Menschen nach Familien auf. Jeder verteidigt die, die er liebt.
+> Seine Worte sind eine starke Ermutigung: Denkt an Gott, der größer ist als eure Feinde. Und denkt an eure Familien.
+> Es ging hier um Verteidigung, nicht um Angriff. Die Menschen schützten ihre Familien und ihre Stadt.
+> Der Angriff fand gar nicht statt. Als die Feinde merkten, dass ihr Plan bekannt war, gaben sie auf.
+
+---
+
+### Mit der einen Hand bauen, mit der anderen wachen (Vers 16–23)
+
+<sup>16</sup>Von da an arbeitete die Hälfte meiner Diener am Werk,
+und die andere Hälfte hielt die Speere, die Schilde, die Bogen und die Panzer.
+Und die Vorsteher standen hinter dem ganzen Haus Juda.
+<sup>17</sup>Die an der Mauer bauten und die Lasten trugen, beluden sich so:
+Jeder arbeitete mit der einen Hand am Werk
+und hielt mit der anderen die Waffe.
+<sup>18</sup>Von den Bauleuten hatte jeder sein Schwert an der Seite umgegürtet
+und baute so.
+Und der die Trompete blies, war bei mir.
+<sup>19</sup>Ich sagte zu den Vornehmen, zu den Vorstehern und zum übrigen Volk:
+„Das Werk ist groß und weit ausgedehnt,
+und wir sind auf der Mauer weit voneinander getrennt.
+<sup>20</sup>Wo ihr den Klang der Trompete hört,
+dort sammelt euch bei uns.
+Unser Gott wird für uns kämpfen.“
+<sup>21</sup>So arbeiteten wir am Werk.
+Die Hälfte von ihnen hielt die Speere,
+vom Aufgang der Morgenröte bis die Sterne hervorkamen.
+<sup>22</sup>Auch sagte ich zu der Zeit zum Volk:
+„Jeder soll mit seinem Diener in Jerusalem übernachten,
+damit sie uns in der Nacht als Wache dienen
+und am Tag arbeiten.“
+<sup>23</sup>So zogen weder ich noch meine Brüder,
+noch meine Diener, noch die Männer der Wache, die mir folgten,
+unsere Kleider aus.
+Jeder hatte seine Waffe bei sich, auch beim Wasser.
+
+> **Was bedeutet das?**
+> Dieses Bild ist berühmt: Mit einer Hand bauen, mit der anderen die Waffe halten. Es steht für Menschen, die unter Bedrohung weiterarbeiten.
+> Christen haben das Bild oft auf das geistliche Leben übertragen: Wir bauen am Reich Gottes und bleiben zugleich wachsam (vgl. Epheser 6,10–18).
+> Nehemia hat einen guten Plan: Ein Trompeter ist immer bei ihm. Wenn irgendwo Gefahr ist, kommen alle dorthin. Niemand steht allein.
+> „Unser Gott wird für uns kämpfen“: Nehemia vertraut auf Gott, aber er tut auch selbst alles, was er kann.
+> Nehemia selbst geht mit gutem Beispiel voran. Er zieht nicht einmal nachts seine Kleider aus.
+> Vers 23 am Ende ist im Hebräischen schwer zu verstehen. Gemeint ist wohl: Jeder hatte seine Waffe immer griffbereit, sogar beim Wasserholen.
+
+## Nehemia – Kapitel 5
+#### Nehemia kämpft für die Armen
+
+---
+
+### Der Schrei der Armen (Vers 1–5)
+
+<sup>1</sup>Da erhob sich ein großes Geschrei des Volkes und ihrer Frauen
+gegen ihre jüdischen Brüder.
+<sup>2</sup>Denn es gab einige, die sagten:
+„Wir, unsere Söhne und unsere Töchter, wir sind viele.
+Lasst uns Getreide bekommen, damit wir essen und leben können.“
+<sup>3</sup>Und es gab einige, die sagten:
+„Wir verpfänden unsere Felder, unsere Weinberge und unsere Häuser.
+Lasst uns Getreide bekommen wegen der Hungersnot.“
+<sup>4</sup>Und es gab einige, die sagten:
+„Wir haben Geld geliehen für die Steuer des Königs
+und dafür unsere Felder und unsere Weinberge verpfändet.
+<sup>5</sup>Und doch ist unser Fleisch wie das Fleisch unserer Brüder,
+unsere Kinder sind wie ihre Kinder.
+Und schau, wir müssen unsere Söhne und unsere Töchter in die Knechtschaft geben,
+damit sie Diener werden.
+Und einige von unseren Töchtern sind schon in Knechtschaft gebracht worden.
+Und wir haben keine Macht, etwas dagegen zu tun,
+denn andere Männer haben unsere Felder und unsere Weinberge.“
+
+> **Was bedeutet das?**
+> Mitten im Mauerbau kommt ein Problem von innen. Die Armen schreien um Hilfe.
+> Es gab eine Hungersnot. Dazu kamen hohe Steuern an den Perserkönig. Die Armen mussten sich Geld leihen und ihre Felder verpfänden. Wenn sie nicht zurückzahlen konnten, verloren sie ihr Land. Und am Ende mussten sie sogar ihre Kinder als Schuldsklaven hergeben.
+> Das Schlimmste: Die Reichen, die sie ausbeuteten, waren ihre eigenen Brüder, Juden wie sie.
+> „Unser Fleisch ist wie ihr Fleisch“ heißt: Wir sind doch auch Menschen wie sie! Unsere Kinder sind genauso viel wert!
+> Dass auch die Frauen schreien, zeigt: Die ganzen Familien litten.
+
+---
+
+### Nehemia stellt die Reichen zur Rede (Vers 6–13)
+
+<sup>6</sup>Ich wurde sehr zornig,
+als ich ihr Geschrei und diese Worte hörte.
+<sup>7</sup>Ich überlegte bei mir
+und stritt mit den Vornehmen und den Vorstehern
+und sagte zu ihnen:
+„Ihr nehmt Wucherzinsen, jeder von seinem Bruder!“
+Und ich hielt eine große Versammlung gegen sie ab.
+<sup>8</sup>Ich sagte zu ihnen:
+„Wir haben nach unseren Möglichkeiten unsere jüdischen Brüder freigekauft,
+die an die Völker verkauft worden waren.
+Und ihr wollt eure Brüder verkaufen,
+damit sie an uns verkauft werden?“
+Da schwiegen sie und fanden kein Wort zu sagen.
+<sup>9</sup>Und ich sagte:
+„Was ihr tut, ist nicht gut.
+Solltet ihr nicht in der Furcht unseres Gottes leben,
+wegen des Spotts der Völker, unserer Feinde?
+<sup>10</sup>Auch ich, meine Brüder und meine Diener leihen ihnen Geld und Getreide.
+Lasst uns doch mit diesem Wucher aufhören!
+<sup>11</sup>Gebt ihnen doch noch heute ihre Felder, ihre Weinberge, ihre Olivengärten und ihre Häuser zurück,
+und auch den Hundertsten vom Geld, vom Getreide, vom Most und vom Öl,
+den ihr von ihnen fordert.“
+<sup>12</sup>Da sagten sie:
+„Wir wollen es zurückgeben
+und nichts mehr von ihnen fordern.
+Wir wollen es so machen, wie du sagst.“
+Da rief ich die Priester
+und ließ sie schwören, dass sie nach diesem Versprechen handeln würden.
+<sup>13</sup>Auch schüttelte ich meinen Gewandbausch aus und sagte:
+„So soll Gott jeden Mann aus seinem Haus und aus seinem Erwerb schütteln,
+der dieses Versprechen nicht hält.
+So soll er ausgeschüttelt und leer sein!“
+Die ganze Versammlung sagte: „Amen!“
+und lobte den HERRN.
+Und das Volk handelte nach diesem Versprechen.
+
+> **Was bedeutet das?**
+> Nehemia wird zornig, und das zu Recht. Ungerechtigkeit gegen Arme macht auch Gott zornig.
+> Aber er handelt nicht unüberlegt. Er „überlegte bei sich“, bevor er handelte.
+> Das Gesetz verbot, von armen Brüdern Zinsen zu nehmen (2. Mose 22,24; 3. Mose 25,35–37; 5. Mose 23,20).
+> Nehemias Argument ist stark: Wir haben Geld ausgegeben, um unsere Brüder aus der Sklaverei bei fremden Völkern freizukaufen. Und ihr macht sie wieder zu Sklaven!
+> „Der Hundertste“ war wohl ein Zins von einem Prozent im Monat, also zwölf Prozent im Jahr.
+> Nehemia gibt zu: Auch er und seine Leute haben Geld verliehen. Er schließt sich mit ein: „Lasst uns aufhören.“
+> Das Ausschütteln des Gewandes war ein Zeichen: Wer das Versprechen bricht, soll alles verlieren.
+> Diese Geschichte zeigt: Gott liegt soziale Gerechtigkeit am Herzen. Eine Gemeinschaft kann nicht stark sein, wenn die Reichen die Armen ausbeuten. Das ist bis heute wichtig.
+
+---
+
+### Nehemia als gerechter Statthalter (Vers 14–19)
+
+<sup>14</sup>Außerdem: Von der Zeit an, als ich zu ihrem Statthalter im Land Juda bestimmt wurde,
+vom 20. Jahr bis zum 32. Jahr des Königs Artahsasta,
+also zwölf Jahre lang,
+haben ich und meine Brüder nicht das Brot des Statthalters gegessen.
+<sup>15</sup>Aber die früheren Statthalter, die vor mir waren,
+hatten das Volk belastet
+und hatten von ihnen Brot und Wein genommen,
+dazu 440 Gramm Silber.
+Ja, sogar ihre Diener herrschten über das Volk.
+Ich aber habe das nicht getan,
+wegen der Furcht Gottes.
+<sup>16</sup>Ich habe auch bei der Arbeit an dieser Mauer mit angepackt.
+Wir haben kein Land gekauft.
+Und alle meine Diener waren dort zur Arbeit versammelt.
+<sup>17</sup>Außerdem waren an meinem Tisch 150 Juden und Vorsteher,
+dazu die, die von den Völkern ringsum zu uns kamen.
+<sup>18</sup>Was für einen Tag zubereitet wurde, war:
+ein Rind und sechs ausgewählte Schafe.
+Auch Geflügel wurde für mich zubereitet.
+Und alle zehn Tage ein Vorrat von allerlei Wein.
+Und trotz allem habe ich die Abgabe des Statthalters nicht gefordert,
+denn die Last lag schwer auf diesem Volk.
+<sup>19</sup>Gedenke mir, mein Gott, alles Gute, das ich für dieses Volk getan habe!
+
+> **Was bedeutet das?**
+> Hier blickt Nehemia auf seine ganze Amtszeit zurück: zwölf Jahre, von 445 bis 433 vor Christus.
+> Als Statthalter hätte er Abgaben vom Volk verlangen dürfen. Aber er tat es nicht, weil das Volk schon genug litt. Er bezahlte alles aus eigener Tasche, sogar die Gäste an seinem Tisch.
+> In der Bibel steht „40 Schekel Silber“. Ein Schekel sind etwa 11 Gramm.
+> „Wir haben kein Land gekauft“: Er nutzte seine Stellung nicht aus, um billig Land von verschuldeten Armen zu kaufen.
+> Vers 19 ist ein Gebet, das Nehemia mehrmals spricht (Kapitel 13,14.22.31). Er bittet Gott, an das Gute zu denken, das er getan hat. Er sucht nicht Lob von Menschen, sondern von Gott.
+> Nehemia ist ein Vorbild für Führung: Er dient den Menschen, statt sich von ihnen bedienen zu lassen. Jesus sagt später: „Wer unter euch groß sein will, der soll euer Diener sein“ (Markus 10,43).
