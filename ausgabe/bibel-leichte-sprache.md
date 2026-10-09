@@ -90471,3 +90471,471 @@ Und dich wird man nennen: „Gesuchte, Stadt, die nicht verlassen ist“.
 > Vers 10: Wie in Kapitel 40 soll eine Straße gebaut werden, auf der das Volk heimkehren kann. Alle Steine sollen aus dem Weg geräumt werden.
 > Vers 11: „Sagt der Tochter Zion: Siehe, dein Heil kommt!“ Das Matthäusevangelium verbindet diese Worte mit dem Einzug von Jesus in Jerusalem (Matthäus 21,5).
 > Vers 12: Wieder neue Namen: „Das heilige Volk“, „Die Erlösten des HERRN“, „Gesuchte“, „Stadt, die nicht verlassen ist“. Wer sich verlassen gefühlt hat, hört jetzt: Du bist gesucht und gewollt.
+
+## Jesaja – Kapitel 63
+#### Du, HERR, bist unser Vater
+
+---
+
+### Der Kelterer aus Edom (Vers 1–6)
+
+<sup>1</sup>Wer ist dieser, der von Edom kommt,
+mit gefärbten Kleidern aus Bozra?
+Wer ist dieser, der prächtig ist in seinem Gewand,
+der einherschreitet in der Größe seiner Kraft?
+„Ich bin es, der in Gerechtigkeit redet,
+mächtig zu retten.“
+<sup>2</sup>Warum ist dein Gewand rot
+und deine Kleider wie die eines Mannes, der in der Kelter tritt?
+<sup>3</sup>„Ich habe die Kelter allein getreten.
+Von den Völkern war niemand bei mir.
+Ja, ich habe sie in meinem Zorn getreten
+und in meinem Grimm zertrampelt.
+Ihr Lebenssaft ist auf meine Kleider gespritzt,
+und ich habe mein ganzes Gewand befleckt.
+<sup>4</sup>Denn der Tag der Vergeltung war in meinem Herzen,
+und das Jahr meiner Erlösten ist gekommen.
+<sup>5</sup>Ich schaute, und da war niemand, der half.
+Und ich staunte, dass niemand da war, der stützte.
+Darum half mir mein eigener Arm,
+und mein Grimm stützte mich.
+<sup>6</sup>Ich habe die Völker in meinem Zorn niedergetreten
+und sie in meinem Grimm trunken gemacht.
+Ich habe ihren Lebenssaft auf die Erde ausgegossen.“
+
+> **Was bedeutet das?**
+> Ein erschreckendes Bild: Gott kommt aus Edom (einem Nachbarvolk, das Israel oft feindlich war) wie ein Winzer, der Trauben in der Kelter tritt. Seine Kleider sind rot, nicht vom Traubensaft, sondern vom Blut der Feinde.
+> Das Bild beschreibt Gottes Gericht über die Mächte, die Israel unterdrückt haben. Gott handelt allein, weil kein Mensch eingegriffen hat (Vers 5, wie in Kapitel 59,16).
+> Wichtig: Hier handelt Gott, nicht Menschen. Der Text gibt niemandem das Recht, im Namen Gottes Gewalt anzuwenden oder Rache zu üben. Gericht und Vergeltung sind allein Gottes Sache (vgl. Römer 12,19). Im Mittelpunkt steht Vers 4: „Das Jahr meiner Erlösten ist gekommen.“ Es geht um die Befreiung der Unterdrückten.
+> Die Offenbarung nimmt dieses Bild auf (19,13–15). Das Lied „Mine eyes have seen the glory“ (Battle Hymn of the Republic) spielt ebenfalls darauf an.
+
+---
+
+### Gottes Güte in der Geschichte (Vers 7–14)
+
+<sup>7</sup>Ich will die Gnadentaten des HERRN verkünden,
+die Ruhmestaten des HERRN,
+nach allem, was der HERR uns getan hat,
+und die große Güte gegenüber dem Haus Israel,
+die er ihnen erwiesen hat nach seinem Erbarmen
+und nach der Fülle seiner Gnadentaten.
+<sup>8</sup>Denn er sagte: „Gewiss, sie sind mein Volk,
+Kinder, die nicht falsch handeln werden.“
+So wurde er ihr Retter.
+<sup>9</sup>In all ihrer Not war er auch in Not,
+und der Engel seines Angesichts hat sie gerettet.
+In seiner Liebe und in seinem Mitleid hat er sie erlöst.
+Er hat sie getragen und gehalten alle Tage der Vorzeit.
+<sup>10</sup>Aber sie wurden widerspenstig
+und betrübten seinen Heiligen Geist.
+Darum wandte er sich um und wurde ihr Feind,
+und er selbst kämpfte gegen sie.
+<sup>11</sup>Da dachte er an die Tage der Vorzeit,
+an Mose und sein Volk, und sagte:
+„Wo ist der, der sie aus dem Meer heraufgeführt hat
+mit den Hirten seiner Herde?
+Wo ist der, der seinen Heiligen Geist in ihre Mitte gegeben hat?“
+<sup>12</sup>Wer ließ seinen herrlichen Arm zur Rechten Moses gehen?
+Wer teilte die Wasser vor ihnen,
+um sich einen ewigen Namen zu machen?
+<sup>13</sup>Wer führte sie durch die Tiefen
+wie ein Pferd in der Steppe,
+sodass sie nicht stolperten?
+<sup>14</sup>Wie das Vieh, das ins Tal hinabsteigt,
+so brachte der Geist des HERRN sie zur Ruhe.
+So hast du dein Volk geführt,
+um dir einen herrlichen Namen zu machen.
+
+> **Was bedeutet das?**
+> Hier beginnt ein langes Gebet des Volkes. Es geht bis zum Ende von Kapitel 64.
+> Vers 7–9: Zuerst erinnert sich das Volk an Gottes Güte. Vers 9 ist besonders schön: „In all ihrer Not war er auch in Not.“ Gott leidet mit seinem Volk. Er ist nicht fern, sondern fühlt den Schmerz mit.
+> Vers 10: Aber das Volk hat Gottes Heiligen Geist „betrübt“, also traurig gemacht. Paulus greift dieses Wort auf (Epheser 4,30).
+> Vers 11–14: Das Volk erinnert sich an den Auszug aus Ägypten: Gott hat sie sicher durch das Meer geführt wie Pferde durch ebenes Land, und sein Geist brachte sie zur Ruhe.
+
+---
+
+### Schau vom Himmel herab! (Vers 15–19)
+
+<sup>15</sup>Schau vom Himmel herab und sieh
+aus der Wohnung deiner Heiligkeit und deiner Herrlichkeit!
+Wo sind dein Eifer und deine Machttaten?
+Die Sehnsucht deines Herzens und dein Erbarmen
+halten sich mir gegenüber zurück.
+<sup>16</sup>Denn du bist unser Vater,
+auch wenn Abraham uns nicht kennt
+und Israel uns nicht anerkennt.
+Du, HERR, bist unser Vater.
+„Unser Erlöser von Ewigkeit her“ ist dein Name.
+<sup>17</sup>HERR, warum lässt du uns von deinen Wegen abirren
+und verhärtest unser Herz, sodass wir dich nicht fürchten?
+Kehre zurück um deiner Knechte willen,
+um der Stämme deines Erbes willen.
+<sup>18</sup>Nur kurze Zeit hat dein heiliges Volk es besessen.
+Unsere Gegner haben dein Heiligtum zertreten.
+<sup>19</sup>Wir sind geworden wie solche, über die du nie geherrscht hast,
+wie solche, die nicht nach deinem Namen genannt wurden.
+
+> **Was bedeutet das?**
+> Vers 15: Das Volk ruft: Gott, schau doch herab! Wo ist deine Liebe geblieben?
+> Vers 16: „Du, HERR, bist unser Vater.“ Selbst wenn Abraham und Jakob, die großen Väter des Volkes, sie nicht mehr erkennen würden, Gott bleibt ihr Vater. Das ist eine der wenigen Stellen im Alten Testament, wo Gott im Gebet direkt „unser Vater“ genannt wird. Jesus lehrt seine Jünger beten: „Vater unser im Himmel“.
+> Vers 17: Eine ehrliche, verzweifelte Frage: Warum lässt du uns in die Irre gehen? Die Bibel erlaubt solche Fragen an Gott.
+> Vers 18–19: Der Tempel ist zerstört. Das Volk fühlt sich, als hätte es nie zu Gott gehört.
+
+## Jesaja – Kapitel 64
+#### Ach, dass du den Himmel zerrissest!
+
+---
+
+### Komm herab! (Vers 1–7)
+
+<sup>1</sup>Ach, dass du den Himmel zerrissest und herabkämst,
+dass die Berge vor deinem Angesicht erbebten,
+<sup>2</sup>wie wenn Feuer Reisig entzündet
+und das Feuer Wasser zum Kochen bringt!
+Mach deinen Gegnern deinen Namen bekannt,
+damit die Nationen vor deinem Angesicht zittern!
+<sup>3</sup>Als du furchterregende Dinge getan hast, die wir nicht erwartet hatten,
+bist du herabgekommen,
+und die Berge erbebten vor deinem Angesicht.
+<sup>4</sup>Denn seit Urzeiten hat man nicht gehört
+und nicht mit dem Ohr vernommen,
+und kein Auge hat einen Gott gesehen außer dir,
+der für den handelt, der auf ihn wartet.
+<sup>5</sup>Du kommst dem entgegen, der sich freut und Gerechtigkeit tut,
+denen, die auf deinen Wegen an dich denken.
+Siehe, du warst zornig, und wir haben gesündigt.
+Wir sind schon lange in der Sünde.
+Sollen wir gerettet werden?
+<sup>6</sup>Denn wir sind alle wie ein Unreiner geworden,
+und all unsere Gerechtigkeit ist wie ein beschmutztes Kleid.
+Wir alle welken wie ein Blatt,
+und unsere Missetaten tragen uns fort wie der Wind.
+<sup>7</sup>Da ist niemand, der deinen Namen anruft,
+der sich aufrafft, um dich festzuhalten.
+Denn du hast dein Gesicht vor uns verborgen
+und uns vergehen lassen durch unsere Missetaten.
+
+> **Was bedeutet das?**
+> Vers 1: Ein leidenschaftlicher Ruf: „Ach, dass du den Himmel zerrissest und herabkämst!“ Das Volk sehnt sich danach, dass Gott selbst eingreift. Das Adventslied „O Heiland, reiß die Himmel auf“ nimmt diesen Vers auf. Christen sehen in der Geburt von Jesus die Antwort auf diesen Ruf.
+> Vers 4: Kein anderer Gott handelt für die, die auf ihn warten. Paulus zitiert diesen Vers frei: „Was kein Auge gesehen hat … was Gott denen bereitet hat, die ihn lieben“ (1. Korinther 2,9).
+> Vers 6: Ein ehrliches Bekenntnis: Selbst unsere besten Taten sind wie ein schmutziges Kleid. Wir verwelken wie ein Blatt im Herbst.
+> Vers 7: Niemand hält sich mehr an Gott fest. Das Volk fühlt sich, als hätte Gott sich abgewendet.
+
+---
+
+### Wir sind der Ton, du bist der Töpfer (Vers 8–12)
+
+<sup>8</sup>Aber jetzt, HERR, du bist unser Vater.
+Wir sind der Ton, und du bist unser Töpfer.
+Wir alle sind das Werk deiner Hand.
+<sup>9</sup>Sei nicht so sehr zornig, HERR,
+und denk nicht für immer an die Schuld.
+Schau doch her, wir bitten dich: Wir alle sind dein Volk.
+<sup>10</sup>Deine heiligen Städte sind zur Wüste geworden.
+Zion ist zur Wüste geworden, Jerusalem zur Verwüstung.
+<sup>11</sup>Unser heiliges und schönes Haus,
+in dem unsere Väter dich gelobt haben,
+ist mit Feuer verbrannt.
+Alles, was uns lieb war, ist verwüstet.
+<sup>12</sup>Willst du dich bei all dem zurückhalten, HERR?
+Willst du schweigen und uns so sehr strafen?
+
+> **Was bedeutet das?**
+> Vers 8: Trotz allem: „Du bist unser Vater. Wir sind der Ton, du bist der Töpfer.“ Das Volk legt sich ganz in Gottes Hände. Ein Töpfer kann einen missratenen Topf neu formen. So kann Gott sein Volk neu machen.
+> Vers 9: „Wir alle sind dein Volk.“ Ein Appell an Gottes Treue.
+> Vers 10–11: Die Klage über das zerstörte Jerusalem und den verbrannten Tempel, „unser schönes Haus, in dem unsere Väter dich gelobt haben“.
+> Vers 12: Das Gebet endet mit einer offenen Frage: Willst du schweigen? Im nächsten Kapitel antwortet Gott.
+
+## Jesaja – Kapitel 65
+#### Ein neuer Himmel und eine neue Erde
+
+---
+
+### Ich habe meine Hände ausgestreckt (Vers 1–7)
+
+<sup>1</sup>„Ich ließ mich befragen von denen, die nicht fragten.
+Ich ließ mich finden von denen, die mich nicht suchten.
+Ich sagte: ‚Hier bin ich, hier bin ich!‘
+zu einer Nation, die nicht nach meinem Namen genannt war.
+<sup>2</sup>Ich habe meine Hände den ganzen Tag ausgestreckt
+zu einem widerspenstigen Volk,
+das auf einem Weg geht, der nicht gut ist,
+seinen eigenen Gedanken nach,
+<sup>3</sup>einem Volk, das mich ständig ins Gesicht hinein kränkt,
+das in den Gärten opfert
+und auf Ziegelsteinen Räucherwerk verbrennt,
+<sup>4</sup>das zwischen den Gräbern sitzt
+und die Nächte an geheimen Orten verbringt,
+das Schweinefleisch isst,
+und Brühe von gräulichen Dingen ist in ihren Gefäßen,
+<sup>5</sup>das sagt: ‚Bleib für dich, komm mir nicht nahe,
+denn ich bin heiliger als du!‘
+Diese sind ein Rauch in meiner Nase,
+ein Feuer, das den ganzen Tag brennt.
+<sup>6</sup>Siehe, es steht vor mir geschrieben:
+Ich werde nicht schweigen, sondern vergelten,
+ja, ich werde in ihren Schoß vergelten
+<sup>7</sup>eure eigenen Missetaten und die Missetaten eurer Väter zusammen“,
+spricht der HERR,
+„die auf den Bergen Räucherwerk verbrannt
+und mich auf den Hügeln gelästert haben.
+Darum werde ich ihnen zuerst ihr Tun in ihren Schoß zumessen.“
+
+> **Was bedeutet das?**
+> Vers 1–2: Gott antwortet auf das Gebet aus Kapitel 63–64: Ich war doch immer da! Ich habe gerufen: „Hier bin ich!“ Den ganzen Tag habe ich meine Hände ausgestreckt, wie Eltern, die ihr Kind in die Arme schließen wollen. Aber das Volk hat nicht gehört.
+> Vers 3–4: Manche im Volk betrieben fremde Kulte: Opfer in heiligen Gärten, Totenbeschwörung an Gräbern, verbotene Speisen.
+> Vers 5: Und sie halten sich dabei auch noch für heiliger als andere: „Komm mir nicht nahe!“ Gott sagt: Diese Überheblichkeit ist mir wie Rauch in der Nase.
+> Paulus bezieht Vers 1–2 auf Menschen aus den Völkern, die Gott gefunden haben, ohne ihn zu suchen (Römer 10,20–21).
+
+---
+
+### Meine Knechte und die Abtrünnigen (Vers 8–16)
+
+<sup>8</sup>So spricht der HERR:
+„Wie man, wenn sich Most in der Traube findet, sagt:
+‚Verdirb sie nicht, denn es ist ein Segen darin‘,
+so will ich um meiner Knechte willen handeln,
+damit ich nicht alle vernichte.
+<sup>9</sup>Ich werde aus Jakob Nachkommen hervorgehen lassen
+und aus Juda einen Erben meiner Berge.
+Meine Erwählten werden es erben,
+und meine Knechte werden dort wohnen.
+<sup>10</sup>Scharon wird ein Weideplatz für Schafe werden
+und das Tal Achor ein Lagerplatz für Rinder
+für mein Volk, das mich gesucht hat.
+<sup>11</sup>Ihr aber, die ihr den HERRN verlasst,
+die ihr meinen heiligen Berg vergesst,
+die ihr dem Glück einen Tisch deckt
+und dem Schicksal Mischwein einschenkt:
+<sup>12</sup>Ich bestimme euch für das Schwert,
+und ihr alle werdet euch zur Schlachtung beugen.
+Denn als ich rief, habt ihr nicht geantwortet.
+Als ich redete, habt ihr nicht gehört,
+sondern ihr habt getan, was in meinen Augen böse ist,
+und habt gewählt, woran ich keinen Gefallen habe.“
+<sup>13</sup>Darum spricht der Herr, der HERR:
+„Siehe, meine Knechte werden essen,
+ihr aber werdet hungern.
+Siehe, meine Knechte werden trinken,
+ihr aber werdet dürsten.
+Siehe, meine Knechte werden sich freuen,
+ihr aber werdet enttäuscht werden.
+<sup>14</sup>Siehe, meine Knechte werden jubeln vor Freude des Herzens,
+ihr aber werdet schreien vor Kummer des Herzens
+und heulen vor Verzweiflung des Geistes.
+<sup>15</sup>Ihr werdet euren Namen meinen Erwählten als Fluchwort hinterlassen,
+und der Herr, der HERR, wird euch töten.
+Seine Knechte aber wird er mit einem anderen Namen nennen,
+<sup>16</sup>sodass, wer sich auf der Erde segnet,
+sich beim Gott der Treue segnen wird,
+und wer auf der Erde schwört,
+beim Gott der Treue schwören wird.
+Denn die früheren Nöte sind vergessen
+und vor meinen Augen verborgen.
+
+> **Was bedeutet das?**
+> Vers 8: Ein Bild aus dem Weinbau: Wenn in einer schlechten Traube noch etwas guter Saft ist, wirft man sie nicht weg. So wird Gott nicht das ganze Volk vernichten, um der Treuen willen.
+> Vers 10: Scharon im Westen und das Tal Achor im Osten werden wieder fruchtbares Weideland.
+> Vers 11: „Glück“ (Gad) und „Schicksal“ (Meni) waren Namen von Gottheiten, denen man Opfer brachte, um Glück zu haben. Heute würde man vielleicht an Aberglauben oder Glücksspiel denken. Wer mit Glücksspiel Probleme hat, findet Hilfe: 0800 137 27 00.
+> Vers 12–15: Die Wege trennen sich: Die Treuen essen, trinken und jubeln, die Abtrünnigen gehen leer aus. Das ist eine ernste Warnung, kein Auftrag an Menschen, andere zu richten oder zu bestrafen. Das Urteil liegt bei Gott.
+> Vers 16: Gott wird „Gott der Treue“ genannt, wörtlich „Gott des Amen“. Was er sagt, gilt.
+
+---
+
+### Alles wird neu (Vers 17–25)
+
+<sup>17</sup>„Denn siehe, ich schaffe einen neuen Himmel und eine neue Erde,
+und an das Frühere wird man nicht mehr denken,
+und es wird nicht mehr in den Sinn kommen.
+<sup>18</sup>Sondern freut euch und jubelt für immer
+über das, was ich schaffe.
+Denn siehe, ich schaffe Jerusalem zur Wonne
+und ihr Volk zur Freude.
+<sup>19</sup>Ich werde über Jerusalem jubeln
+und mich über mein Volk freuen.
+Man wird in ihr nicht mehr die Stimme des Weinens hören
+und nicht mehr die Stimme des Klagens.
+<sup>20</sup>Es wird dort keinen Säugling mehr geben, der nur wenige Tage lebt,
+und keinen Alten, der seine Tage nicht erfüllt.
+Denn wer hundertjährig stirbt, wird noch als Kind gelten,
+und der Sünder, der hundert Jahre alt ist, wird verflucht sein.
+<sup>21</sup>Sie werden Häuser bauen und darin wohnen.
+Sie werden Weinberge pflanzen und ihre Frucht essen.
+<sup>22</sup>Sie werden nicht bauen, damit ein anderer darin wohnt.
+Sie werden nicht pflanzen, damit ein anderer isst.
+Denn die Tage meines Volkes werden sein wie die Tage eines Baumes,
+und meine Erwählten werden das Werk ihrer Hände lange genießen.
+<sup>23</sup>Sie werden sich nicht umsonst mühen
+und nicht Kinder für ein Unglück gebären.
+Denn sie sind die Nachkommen der Gesegneten des HERRN
+und ihre Kinder mit ihnen.
+<sup>24</sup>Und es wird geschehen: Bevor sie rufen, werde ich antworten.
+Während sie noch reden, werde ich hören.
+<sup>25</sup>Der Wolf und das Lamm werden zusammen weiden.
+Der Löwe wird Stroh fressen wie das Rind.
+Und Staub wird die Speise der Schlange sein.
+Sie werden nichts Böses tun und nichts verderben
+auf meinem ganzen heiligen Berg“, spricht der HERR.
+
+> **Was bedeutet das?**
+> Das ist eine der größten Hoffnungen der Bibel: Gott schafft einen neuen Himmel und eine neue Erde.
+> Vers 19: Kein Weinen und kein Klagen mehr. Die Offenbarung nimmt das auf: „Gott wird alle Tränen abwischen“ (21,1–4).
+> Vers 20: Kein Baby stirbt mehr früh. Alle Menschen leben lange. Wer mit hundert Jahren stirbt, gilt noch als jung. Für alle Eltern, die ein Kind verloren haben, ist das eine tröstliche Hoffnung.
+> Vers 21–23: Keine Ausbeutung mehr: Wer ein Haus baut, wohnt auch darin. Wer pflanzt, isst auch die Früchte. Niemand arbeitet umsonst.
+> Vers 24: Gott antwortet schon, bevor man ruft.
+> Vers 25: Wie in Kapitel 11,6–9: Wolf und Lamm leben friedlich zusammen. Niemand tut mehr Böses. Ein Bild für vollkommenen Frieden in der ganzen Schöpfung.
+
+## Jesaja – Kapitel 66
+#### Wie einen seine Mutter tröstet
+
+---
+
+### Der Himmel ist mein Thron (Vers 1–6)
+
+<sup>1</sup>So spricht der HERR:
+„Der Himmel ist mein Thron,
+und die Erde ist der Schemel meiner Füße.
+Was für ein Haus wollt ihr mir bauen?
+Wo soll der Ort meiner Ruhe sein?
+<sup>2</sup>Denn meine Hand hat all dies gemacht,
+und so ist all dies entstanden“, spricht der HERR.
+„Aber auf diesen schaue ich:
+auf den, der arm ist und zerschlagenen Geistes
+und der vor meinem Wort zittert.
+<sup>3</sup>Wer einen Stier schlachtet, ist wie einer, der einen Menschen tötet.
+Wer ein Lamm opfert, ist wie einer, der einem Hund das Genick bricht.
+Wer ein Speisopfer darbringt, ist wie einer, der Schweineblut opfert.
+Wer Weihrauch verbrennt, ist wie einer, der einen Götzen segnet.
+Ja, sie haben ihre eigenen Wege gewählt,
+und ihre Seele hat Gefallen an ihren Gräueln.
+<sup>4</sup>So werde auch ich ihre Täuschungen wählen
+und ihre Schrecken über sie bringen,
+weil niemand antwortete, als ich rief,
+und sie nicht hörten, als ich redete,
+sondern taten, was in meinen Augen böse ist,
+und wählten, woran ich keinen Gefallen habe.“
+<sup>5</sup>Hört das Wort des HERRN,
+ihr, die ihr vor seinem Wort zittert:
+„Eure Brüder, die euch hassen,
+die euch um meines Namens willen ausstoßen,
+haben gesagt: ‚Der HERR soll sich doch verherrlichen,
+damit wir eure Freude sehen!‘
+Aber sie werden beschämt werden.
+<sup>6</sup>Eine Stimme des Getümmels aus der Stadt,
+eine Stimme aus dem Tempel,
+die Stimme des HERRN, der seinen Feinden vergilt, was sie verdienen.
+
+> **Was bedeutet das?**
+> Vers 1–2: Gott ist so groß, dass kein Gebäude ihn fassen kann. Der Himmel ist sein Thron. Aber Gott schaut auf die Armen und Demütigen, auf die, die sein Wort ernst nehmen. Stephanus zitiert diese Verse (Apostelgeschichte 7,49–50).
+> Vers 3: Ein harter Vers: Opfer ohne ehrliches Herz sind für Gott so schlimm wie Verbrechen. Wer Gottesdienst feiert, aber gleichzeitig seine eigenen bösen Wege geht, dessen Gottesdienst ist wertlos.
+> Vers 5: Treue Menschen werden von ihren eigenen „Brüdern“ ausgegrenzt und verspottet. Gott sagt: Am Ende werden die Spötter beschämt.
+
+---
+
+### Freut euch mit Jerusalem! (Vers 7–14)
+
+<sup>7</sup>Bevor sie Wehen hatte, hat sie geboren.
+Bevor ihr Schmerz kam, hat sie einen Sohn zur Welt gebracht.
+<sup>8</sup>Wer hat so etwas gehört?
+Wer hat so etwas gesehen?
+Wird ein Land an einem Tag geboren?
+Wird ein Volk auf einmal zur Welt gebracht?
+Denn kaum hatte Zion Wehen, hat sie schon ihre Kinder geboren.
+<sup>9</sup>„Sollte ich bis zur Geburt bringen und nicht gebären lassen?“, spricht der HERR.
+„Sollte ich, der gebären lässt, den Mutterschoß verschließen?“, spricht dein Gott.
+<sup>10</sup>„Freut euch mit Jerusalem und jubelt über sie,
+alle, die ihr sie liebt!
+Freut euch mit ihr in Freude,
+alle, die ihr über sie trauert,
+<sup>11</sup>damit ihr trinkt und satt werdet
+an der Brust ihres Trostes,
+damit ihr tief trinkt und euch erfreut
+an der Fülle ihrer Herrlichkeit.“
+<sup>12</sup>Denn so spricht der HERR:
+„Siehe, ich lenke den Frieden zu ihr wie einen Strom
+und die Herrlichkeit der Nationen wie einen überströmenden Bach,
+und ihr werdet trinken.
+Ihr werdet auf der Hüfte getragen
+und auf den Knien geschaukelt werden.
+<sup>13</sup>Wie einen seine Mutter tröstet,
+so will ich euch trösten.
+Ihr werdet in Jerusalem getröstet werden.“
+<sup>14</sup>Ihr werdet es sehen, und euer Herz wird sich freuen,
+und eure Knochen werden aufblühen wie junges Gras.
+Die Hand des HERRN wird an seinen Knechten erkannt werden,
+und er wird seinen Feinden zürnen.
+
+> **Was bedeutet das?**
+> Vers 7–9: Zion wird wie eine Mutter, die ganz plötzlich und ohne Schmerzen Kinder bekommt: ein ganzes Volk an einem Tag. Gott bringt zu Ende, was er angefangen hat.
+> Vers 10–12: Jerusalem ist wie eine Mutter, die ihre Kinder stillt, auf der Hüfte trägt und auf den Knien schaukelt.
+> Vers 13 ist einer der zärtlichsten Verse der Bibel: „Wie einen seine Mutter tröstet, so will ich euch trösten.“ Gott tröstet wie eine Mutter. Dieser Vers war die Jahreslosung für das Jahr 2016 in Deutschland.
+> Vers 14: Die Knochen „blühen auf wie junges Gras“: Neues Leben und neue Kraft für alle, die traurig waren.
+
+---
+
+### Alle Völker werden kommen (Vers 15–24)
+
+<sup>15</sup>Denn siehe, der HERR wird mit Feuer kommen,
+und seine Wagen werden wie der Sturmwind sein,
+um seinen Zorn mit Glut zu vergelten
+und sein Schelten mit Feuerflammen.
+<sup>16</sup>Denn der HERR wird mit Feuer und mit seinem Schwert
+an allem Fleisch Gericht üben,
+und die vom HERRN Erschlagenen werden viele sein.
+<sup>17</sup>„Die sich heiligen und reinigen, um in die Gärten zu gehen,
+einem in der Mitte nach,
+die Schweinefleisch essen, Gräuel und die Maus,
+die werden zusammen ein Ende nehmen“, spricht der HERR.
+<sup>18</sup>„Denn ich kenne ihre Werke und ihre Gedanken.
+Die Zeit kommt, da werde ich alle Nationen und Sprachen sammeln,
+und sie werden kommen und meine Herrlichkeit sehen.
+<sup>19</sup>Ich werde ein Zeichen unter ihnen aufrichten,
+und ich werde Entronnene von ihnen zu den Nationen senden,
+nach Tarschisch, Pul und Lud, die den Bogen spannen,
+nach Tubal und Jawan, zu den fernen Inseln,
+die nichts von mir gehört
+und meine Herrlichkeit nicht gesehen haben.
+Und sie werden meine Herrlichkeit unter den Nationen verkünden.
+<sup>20</sup>Sie werden alle eure Brüder aus allen Nationen
+als Opfergabe für den HERRN bringen,
+auf Pferden, in Wagen, in Sänften, auf Maultieren und auf Kamelen,
+zu meinem heiligen Berg Jerusalem“, spricht der HERR,
+„so wie die Kinder Israel ihre Opfergabe in einem reinen Gefäß
+in das Haus des HERRN bringen.
+<sup>21</sup>Auch von ihnen werde ich einige zu Priestern und Leviten nehmen“,
+spricht der HERR.
+<sup>22</sup>„Denn wie der neue Himmel und die neue Erde, die ich machen werde,
+vor mir bestehen bleiben“, spricht der HERR,
+„so werden eure Nachkommen und euer Name bestehen bleiben.
+<sup>23</sup>Und es wird geschehen: Von Neumond zu Neumond
+und von Sabbat zu Sabbat
+wird alles Fleisch kommen, um vor mir anzubeten“, spricht der HERR.
+<sup>24</sup>„Und sie werden hinausgehen und die Leichen der Menschen ansehen,
+die sich gegen mich vergangen haben.
+Denn ihr Wurm wird nicht sterben,
+und ihr Feuer wird nicht erlöschen,
+und sie werden ein Abscheu sein für alle Menschen.“
+
+> **Was bedeutet das?**
+> Vers 15–17: Noch einmal ein Bild vom Gericht: Gott kommt mit Feuer. Es trifft die, die fremden Kulten folgen. Gericht ist Gottes Sache, nicht die von Menschen, die andere bestrafen wollen.
+> Vers 18–19: Dann das große Ziel: Gott sammelt alle Völker und Sprachen. Boten gehen in die ganze Welt, bis zu den fernsten Ländern: Tarschisch (im Westen, vielleicht Spanien), Lud und Pul (wohl in Afrika oder Kleinasien), Tubal (am Schwarzen Meer) und Jawan (Griechenland).
+> Vers 20–21: Die Völker bringen die verstreuten Israeliten heim. Und das Erstaunliche: Gott nimmt sogar Menschen aus den Völkern zu Priestern und Leviten. Niemand ist ausgeschlossen.
+> Vers 22–23: Wie der neue Himmel und die neue Erde wird auch Gottes Volk für immer bestehen. Und alle Menschen werden Gott anbeten.
+> Vers 24: Das Buch endet mit einem düsteren Bild: Die, die sich gegen Gott gestellt haben, sind tot. Jesus nimmt dieses Bild auf, wenn er vor dem Verderben warnt (Markus 9,48). In der Synagoge liest man nach Vers 24 noch einmal Vers 23, damit die Lesung nicht mit dem Gericht endet, sondern mit der Hoffnung: Alle Menschen werden kommen, um Gott anzubeten.
+
+---
+
+### Rückblick: Was haben wir im Buch Jesaja gelesen?
+
+> **Was bedeutet das?**
+> **Der Prophet:** Jesaja lebte vor etwa 2700 Jahren in Jerusalem. Er war Prophet unter vier Königen von Juda. Sein Name bedeutet „Der HERR rettet“, und das ist das Thema des ganzen Buches.
+> **Drei Teile:** Kapitel 1–39 spielen zur Zeit Jesajas, als Assur die große Bedrohung war. Kapitel 40–55 sprechen zu den Verbannten in Babylon („Trostbuch“). Kapitel 56–66 sprechen zu den Heimkehrern in Jerusalem. Viele Forscher meinen, dass spätere Propheten in der Tradition Jesajas die Teile 2 und 3 geschrieben haben. Andere sehen das ganze Buch als Werk Jesajas.
+> **Heilig, heilig, heilig:** Jesaja sieht Gott als den „Heiligen Israels“ (Kapitel 6). Gott ist erhaben, aber er wohnt bei den Zerschlagenen (57,15).
+> **Gerechtigkeit:** Jesaja kritisiert scharf, wenn Menschen fromm tun, aber Arme unterdrücken (Kapitel 1 und 58). „Lernt, Gutes zu tun! Sucht das Recht!“ (1,17).
+> **Der Friedensfürst:** „Denn ein Kind ist uns geboren“ (9,6, in manchen deutschen Bibeln 9,5) und der Spross aus dem Stamm Isais (Kapitel 11). Wolf und Lamm werden zusammen wohnen. Christen sehen hier Jesus angekündigt, im Judentum erwartet man den Messias oder bezieht es auf König Hiskia.
+> **Schwerter zu Pflugscharen:** Alle Völker kommen zum Berg Gottes und lernen nicht mehr Krieg (2,4).
+> **Tröstet mein Volk:** Nach dem Gericht kommt der Trost (Kapitel 40). „Fürchte dich nicht, ich habe dich erlöst“ (43,1). „Ich vergesse dich nicht“ (49,15).
+> **Der Knecht Gottes:** Vier Lieder erzählen von einem Knecht, der still leidet und viele heil macht (42; 49; 50; 52–53). Juden sehen darin meist Israel, Christen vor allem Jesus.
+> **Für alle Völker:** Gottes Haus ist ein „Bethaus für alle Völker“ (56,7). Am Ende kommen alle Menschen, um Gott anzubeten (66,23).
+> **Alles wird neu:** Gott schafft einen neuen Himmel und eine neue Erde, ohne Weinen und ohne Gewalt (65,17–25). Und er tröstet wie eine Mutter (66,13).
+> **Wie geht es weiter?** Als Nächstes kommt das Buch Jeremia. Jeremia lebte etwa 100 Jahre nach Jesaja und erlebte selbst die Zerstörung Jerusalems.
