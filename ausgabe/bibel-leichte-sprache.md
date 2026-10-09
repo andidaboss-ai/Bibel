@@ -70898,3 +70898,355 @@ Er ist hoch erhaben!
 > Christen lesen diesen Psalm am Fest Christi Himmelfahrt, weil Jesus „hinaufgestiegen“ ist zu Gott.
 > Vers 9 ist erstaunlich: Die Fürsten aller Völker versammeln sich als „Volk des Gottes Abrahams“. Gott hatte Abraham versprochen: „In dir sollen alle Völker gesegnet werden“ (1. Mose 12,3). Hier wird das Wirklichkeit.
 > „Die Schilde der Erde“: die Mächtigen und Herrscher der Welt. Auch sie gehören Gott.
+
+## Psalm 48
+#### Die Stadt Gottes
+
+---
+
+### Groß ist der HERR (Vers 1–3)
+
+<sup>1</sup>Ein Lied. Ein Psalm von den Söhnen Korachs.
+Groß ist der HERR und sehr zu loben
+in der Stadt unseres Gottes, auf seinem heiligen Berg.
+<sup>2</sup>Schön in der Höhe, die Freude der ganzen Erde,
+ist der Berg Zion, an den Seiten des Nordens,
+die Stadt des großen Königs.
+<sup>3</sup>Gott hat sich in ihren Burgen
+als Zuflucht erwiesen.
+
+> **Was bedeutet das?**
+> Psalm 48 ist ein „Zionslied“, ein Lied über Jerusalem und den Tempelberg Zion.
+> „An den Seiten des Nordens“: In alten Erzählungen der Nachbarvölker wohnten die Götter auf einem Berg im Norden. Der Psalm sagt: Der wahre Gottesberg ist Zion.
+> „Die Stadt des großen Königs“: Jesus nennt Jerusalem so (Matthäus 5,35).
+> Die Stadt ist nicht wegen ihrer Mauern sicher, sondern weil Gott ihre Zuflucht ist.
+
+---
+
+### Die Könige flohen (Vers 4–8)
+
+<sup>4</sup>Denn schau, die Könige versammelten sich,
+sie zogen gemeinsam vorüber.
+<sup>5</sup>Sie sahen es, da staunten sie.
+Sie erschraken. Sie flohen eilig.
+<sup>6</sup>Zittern ergriff sie dort,
+Wehen wie bei einer Frau, die gebiert.
+<sup>7</sup>Mit dem Ostwind zerbrichst du die Tarsis-Schiffe.
+<sup>8</sup>Wie wir es gehört haben, so haben wir es gesehen
+in der Stadt des HERRN der Heere, in der Stadt unseres Gottes.
+Gott wird sie festigen für immer.
+Sela.
+
+> **Was bedeutet das?**
+> Feindliche Könige zogen gegen Jerusalem. Aber als sie die Stadt sahen, bekamen sie Angst und flohen. Man denkt dabei an die Assyrer unter Sanherib, die abziehen mussten (2. Könige 19,35–36).
+> Vers 7: „Tarsis-Schiffe“ waren große Handelsschiffe für weite Fahrten. Der heiße Ostwind aus der Wüste konnte sie zerstören. So schnell kann Gott menschliche Macht zerbrechen.
+> Vers 8: „Wie wir es gehört haben, so haben wir es gesehen“: Was die Vorfahren erzählt haben, haben wir jetzt selbst erlebt.
+
+---
+
+### Zieht um Zion herum (Vers 9–14)
+
+<sup>9</sup>Wir haben nachgedacht über deine Güte, Gott,
+mitten in deinem Tempel.
+<sup>10</sup>Wie dein Name, Gott, so reicht dein Lob bis an die Enden der Erde.
+Deine rechte Hand ist voll Gerechtigkeit.
+<sup>11</sup>Der Berg Zion soll sich freuen!
+Die Töchter Judas sollen jubeln wegen deiner Gerichte!
+<sup>12</sup>Geht um Zion herum, umkreist sie!
+Zählt ihre Türme!
+<sup>13</sup>Achtet auf ihre Bollwerke!
+Betrachtet ihre Paläste,
+damit ihr es der nächsten Generation erzählen könnt.
+<sup>14</sup>Denn dieser Gott ist unser Gott für immer und ewig.
+Er wird uns führen bis zum Tod.
+
+> **Was bedeutet das?**
+> Vers 9: Im Tempel denken die Menschen über Gottes Güte nach.
+> „Töchter Judas“: die Städte und Dörfer im Land Juda.
+> Vers 12–13: Ein Rundgang um die Stadt. Man soll sich alles gut anschauen und den Kindern davon erzählen. Glauben wird von Generation zu Generation weitergegeben.
+> Vers 14: „Er wird uns führen bis zum Tod“: Gott begleitet uns das ganze Leben lang. Im Hebräischen ist das Ende schwer zu lesen. Manche übersetzen: „für immer“ oder „über den Tod hinaus“.
+
+## Psalm 49
+#### Reichtum rettet nicht vor dem Tod
+
+---
+
+### Hört, alle Völker (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von den Söhnen Korachs.
+Hört dies, alle Völker!
+Horcht auf, alle Bewohner der Welt,
+<sup>2</sup>Niedrige und Hohe,
+Reiche und Arme miteinander!
+<sup>3</sup>Mein Mund soll Worte der Weisheit reden.
+Mein Herz soll Einsicht aussprechen.
+<sup>4</sup>Ich will mein Ohr einem Spruch zuneigen.
+Ich will mein Rätsel auflösen mit der Harfe.
+
+> **Was bedeutet das?**
+> Psalm 49 ist ein Weisheitspsalm. Er richtet sich an alle Menschen, egal ob arm oder reich, hoch oder niedrig.
+> Das Thema geht alle an: Was bedeutet Reichtum angesichts des Todes?
+
+---
+
+### Niemand kann sich freikaufen (Vers 5–12)
+
+<sup>5</sup>Warum sollte ich mich fürchten in bösen Tagen,
+wenn die Bosheit derer, die mir auf den Fersen sind, mich umgibt,
+<sup>6</sup>derer, die auf ihren Reichtum vertrauen
+und sich mit der Menge ihrer Schätze rühmen?
+<sup>7</sup>Keiner von ihnen kann auf irgendeine Weise seinen Bruder erlösen
+oder Gott ein Lösegeld für ihn geben.
+<sup>8</sup>Denn die Erlösung ihres Lebens ist zu teuer,
+keine Zahlung ist jemals genug,
+<sup>9</sup>damit er für immer weiterlebt
+und die Verwesung nicht sieht.
+<sup>10</sup>Denn er sieht, dass die Weisen sterben.
+Ebenso kommen der Tor und der Unvernünftige um
+und lassen ihren Reichtum anderen.
+<sup>11</sup>Ihr innerer Gedanke ist, dass ihre Häuser für immer bestehen
+und ihre Wohnungen von Generation zu Generation.
+Sie benennen ihre Ländereien nach sich selbst.
+<sup>12</sup>Aber der Mensch bleibt trotz seines Reichtums nicht bestehen.
+Er ist wie das Vieh, das umkommt.
+
+> **Was bedeutet das?**
+> Die Reichen denken, sie können sich alles kaufen. Aber eines können sie nicht kaufen: das Leben. Kein Geld der Welt kann den Tod verhindern.
+> Vers 10: Der Tod trifft alle, Weise und Dumme. Und der Reichtum bleibt zurück für andere.
+> Vers 11: Manche benennen Länder, Gebäude oder Firmen nach sich selbst, um unsterblich zu werden. Aber auch sie sterben.
+> Jesus erzählt dazu das Gleichnis vom reichen Kornbauern (Lukas 12,16–21).
+
+---
+
+### Der Tod ist ihr Hirte (Vers 13–15)
+
+<sup>13</sup>Das ist das Schicksal der Toren
+und derer, die ihren Reden zustimmen.
+Sela.
+<sup>14</sup>Wie eine Herde sind sie für das Totenreich bestimmt.
+Der Tod wird ihr Hirte sein.
+Die Aufrichtigen werden am Morgen über sie herrschen.
+Ihre Schönheit wird im Totenreich verfallen, fern von ihrem Prachthaus.
+<sup>15</sup>Aber Gott wird meine Seele erlösen aus der Gewalt des Totenreichs,
+denn er wird mich aufnehmen.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 14 ist ein schauriges Bild: Der Tod ist wie ein Hirte, der seine Herde ins Totenreich treibt. Das ist das Gegenbild zu Psalm 23, wo Gott der gute Hirte ist.
+> Vers 15 ist der Höhepunkt des Psalms: Kein Mensch kann sich freikaufen. Aber Gott kann es! „Er wird mich aufnehmen“: Das hebräische Wort ist dasselbe wie bei Henoch, den Gott „aufnahm“ (1. Mose 5,24). Hier zeigt sich eine Hoffnung über den Tod hinaus.
+
+---
+
+### Er nimmt nichts mit (Vers 16–20)
+
+<sup>16</sup>Fürchte dich nicht, wenn ein Mensch reich wird,
+wenn die Herrlichkeit seines Hauses größer wird.
+<sup>17</sup>Denn wenn er stirbt, nimmt er nichts mit.
+Seine Herrlichkeit fährt ihm nicht nach.
+<sup>18</sup>Auch wenn er sich zu Lebzeiten glücklich pries
+– und man lobt dich, wenn du es dir gut gehen lässt –,
+<sup>19</sup>er wird zu der Generation seiner Väter gehen.
+Sie werden das Licht niemals sehen.
+<sup>20</sup>Ein Mensch, der Reichtum hat, aber keine Einsicht,
+ist wie das Vieh, das umkommt.
+
+> **Was bedeutet das?**
+> „Das letzte Hemd hat keine Taschen“: So sagt ein deutsches Sprichwort. Der Psalm sagt dasselbe: Im Tod nimmt man nichts mit (vgl. 1. Timotheus 6,7).
+> Vers 20 wiederholt Vers 12, aber mit einem wichtigen Unterschied: „ohne Einsicht“. Reichtum an sich ist nicht schlecht. Schlimm ist Reichtum ohne Einsicht, wenn man vergisst, dass man sterblich ist und Gott braucht.
+
+## Psalm 50
+#### Gott hält Gericht über sein Volk
+
+---
+
+### Gott kommt (Vers 1–6)
+
+<sup>1</sup>Ein Psalm von Asaf.
+Der Mächtige, Gott, der HERR, redet
+und ruft die Erde vom Aufgang der Sonne bis zu ihrem Untergang.
+<sup>2</sup>Aus Zion, der Vollendung der Schönheit,
+strahlt Gott hervor.
+<sup>3</sup>Unser Gott kommt und schweigt nicht.
+Ein Feuer frisst vor ihm her.
+Um ihn her stürmt es sehr.
+<sup>4</sup>Er ruft den Himmel droben und die Erde,
+um sein Volk zu richten:
+<sup>5</sup>„Versammelt mir meine Frommen,
+die mit mir einen Bund geschlossen haben beim Opfer.“
+<sup>6</sup>Die Himmel verkünden seine Gerechtigkeit,
+denn Gott selbst ist Richter.
+Sela.
+
+> **Was bedeutet das?**
+> Asaf war ein Musiker und Sänger zur Zeit Davids (1. Chronik 16,4–7). Zwölf Psalmen tragen seinen Namen (Psalm 50 und 73–83).
+> Gott erscheint wie bei einer großen Gerichtsverhandlung. Himmel und Erde sind die Zeugen.
+> Es geht nicht um die anderen Völker, sondern um Gottes eigenes Volk. Gott prüft, ob sie den Bund ernst nehmen.
+
+---
+
+### Ich brauche eure Opfer nicht (Vers 7–15)
+
+<sup>7</sup>„Hör, mein Volk, und ich will reden.
+Israel, ich will gegen dich aussagen.
+Ich bin Gott, dein Gott.
+<sup>8</sup>Ich tadle dich nicht wegen deiner Schlachtopfer.
+Deine Brandopfer sind ständig vor mir.
+<sup>9</sup>Ich brauche keinen Stier aus deinem Stall,
+keine Ziegenböcke aus deinen Pferchen.
+<sup>10</sup>Denn mir gehören alle Tiere des Waldes,
+das Vieh auf tausend Bergen.
+<sup>11</sup>Ich kenne alle Vögel der Berge.
+Die wilden Tiere des Feldes gehören mir.
+<sup>12</sup>Wenn ich hungrig wäre, würde ich es dir nicht sagen,
+denn mir gehört die Welt und alles, was sie erfüllt.
+<sup>13</sup>Esse ich etwa das Fleisch von Stieren
+oder trinke das Blut von Böcken?
+<sup>14</sup>Bring Gott Dank als Opfer dar,
+und erfülle dem Höchsten deine Gelübde!
+<sup>15</sup>Ruf mich an am Tag der Not!
+Ich will dich retten, und du wirst mich ehren.“
+
+> **Was bedeutet das?**
+> Gott tadelt sein Volk nicht dafür, dass es keine Opfer bringt. Sie bringen genug. Aber sie denken falsch über die Opfer: als ob Gott sie bräuchte, als ob man ihn damit füttern müsste.
+> Gott braucht nichts. Ihm gehört ohnehin die ganze Welt.
+> Was Gott wirklich will: Dankbarkeit, Treue zu den eigenen Versprechen und Vertrauen in der Not.
+> Vers 15 ist ein bekanntes Versprechen: „Ruf mich an in der Not, ich will dich retten.“
+
+---
+
+### Ein Wort an die Heuchler (Vers 16–21)
+
+<sup>16</sup>Zum Gottlosen aber sagt Gott:
+„Was hast du davon, meine Gebote aufzuzählen
+und meinen Bund in deinen Mund zu nehmen,
+<sup>17</sup>da du doch Zurechtweisung hasst
+und meine Worte hinter dich wirfst?
+<sup>18</sup>Wenn du einen Dieb sahst, warst du mit ihm einverstanden,
+und mit Ehebrechern hattest du Gemeinschaft.
+<sup>19</sup>Deinen Mund lässt du Böses reden,
+und deine Zunge ersinnt Betrug.
+<sup>20</sup>Du sitzt da und redest gegen deinen Bruder.
+Du verleumdest den Sohn deiner eigenen Mutter.
+<sup>21</sup>Das hast du getan, und ich habe geschwiegen.
+Du dachtest, ich wäre genau wie du.
+Ich will dich zurechtweisen und es dir vor Augen stellen.
+
+> **Was bedeutet das?**
+> Jetzt spricht Gott die Heuchler an: Sie reden von Gottes Geboten, aber sie leben nicht danach. Sie stehlen, brechen die Ehe, lügen und reden schlecht über ihre eigenen Geschwister.
+> Vers 21: Weil Gott geschwiegen hat, dachten sie, er sei wie sie: gleichgültig gegenüber dem Bösen. Aber das ist ein Irrtum. Gottes Geduld ist keine Gleichgültigkeit (vgl. 2. Petrus 3,9).
+
+---
+
+### Wer Dank opfert, ehrt mich (Vers 22–23)
+
+<sup>22</sup>Bedenkt das doch, ihr, die ihr Gott vergesst,
+damit ich euch nicht in Stücke reiße und keiner da ist, der rettet!
+<sup>23</sup>Wer Dank als Opfer darbringt, der ehrt mich
+und bereitet den Weg, auf dem ich ihn das Heil Gottes sehen lasse.“
+
+> **Was bedeutet das?**
+> Eine ernste Warnung, aber auch eine Einladung zur Umkehr.
+> Der Psalm endet mit einem Versprechen: Wer Gott dankt und den richtigen Weg geht, wird Gottes Rettung erleben.
+
+## Psalm 51
+#### Schaffe in mir, Gott, ein reines Herz
+
+---
+
+### Sei mir gnädig (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David,
+als der Prophet Natan zu ihm kam, nachdem er zu Batseba gegangen war.
+Sei mir gnädig, Gott, nach deiner Güte!
+Nach deinem großen Erbarmen tilge meine Übertretungen!
+<sup>2</sup>Wasch mich gründlich von meiner Schuld,
+und reinige mich von meiner Sünde!
+<sup>3</sup>Denn ich erkenne meine Übertretungen.
+Meine Sünde steht mir immer vor Augen.
+<sup>4</sup>Gegen dich, gegen dich allein habe ich gesündigt
+und getan, was böse ist in deinen Augen,
+damit du recht behältst, wenn du sprichst,
+und gerecht dastehst, wenn du richtest.
+<sup>5</sup>Schau, in Schuld bin ich geboren,
+und in Sünde hat meine Mutter mich empfangen.
+
+> **Was bedeutet das?**
+> Psalm 51 ist der bekannteste Bußpsalm. Die Überschrift erinnert an den schlimmsten Moment in Davids Leben: Er hatte Ehebruch mit Batseba begangen und ihren Mann Urija töten lassen. Der Prophet Natan hielt ihm seine Schuld vor (2. Samuel 11–12).
+> Hinweis: In deutschen Bibeln umfasst die Überschrift zwei Verse. Darum ist dort jeder Vers um 2 höher (z. B. Vers 10 hier = Vers 12 dort).
+> David entschuldigt nichts. Er bittet nur um Gnade, nicht weil er sie verdient, sondern wegen Gottes Güte und Erbarmen.
+> Vers 4: „Gegen dich allein habe ich gesündigt“: David hat natürlich auch Batseba und Urija großes Unrecht getan. Aber er erkennt: Jede Sünde ist letztlich auch Sünde gegen Gott.
+> Vers 5: Das bedeutet nicht, dass Sex oder Geburt sündhaft sind. David sagt: Schon von Anfang an bin ich ein Mensch, der zur Sünde neigt. Christen sprechen hier von „Erbsünde“. Jüdische Ausleger verstehen den Vers eher als starken Ausdruck tiefer Reue.
+
+---
+
+### Wasch mich, dann werde ich weißer als Schnee (Vers 6–9)
+
+<sup>6</sup>Schau, du hast Gefallen an Wahrheit im Innersten.
+Im Verborgenen lehrst du mich Weisheit.
+<sup>7</sup>Entsündige mich mit Ysop, dann werde ich rein.
+Wasch mich, dann werde ich weißer als Schnee.
+<sup>8</sup>Lass mich Freude und Fröhlichkeit hören,
+damit die Knochen jubeln, die du zerschlagen hast.
+<sup>9</sup>Verbirg dein Angesicht vor meinen Sünden,
+und tilge alle meine Verschuldungen!
+
+> **Was bedeutet das?**
+> Gott will Ehrlichkeit bis ins Innerste. Man kann ihm nichts vormachen.
+> Ysop ist eine kleine Pflanze. Mit einem Ysopbüschel sprengten die Priester Wasser oder Blut, um Menschen kultisch zu reinigen (z. B. 3. Mose 14,4–7; 4. Mose 19,18).
+> „Weißer als Schnee“: So vollständig kann Gott vergeben (vgl. Jesaja 1,18).
+> Vers 8: Die Schuld hat David innerlich zerbrochen. Er bittet: Lass mich wieder Freude erleben.
+
+---
+
+### Ein reines Herz (Vers 10–13)
+
+<sup>10</sup>Schaffe in mir ein reines Herz, Gott,
+und erneuere in mir einen beständigen Geist!
+<sup>11</sup>Verstoß mich nicht von deinem Angesicht,
+und nimm deinen heiligen Geist nicht von mir!
+<sup>12</sup>Gib mir die Freude deines Heils wieder,
+und stütze mich mit einem willigen Geist!
+<sup>13</sup>Dann will ich die Übertreter deine Wege lehren,
+und die Sünder werden zu dir umkehren.
+
+> **Was bedeutet das?**
+> Vers 10 ist einer der bekanntesten Verse der Bibel. Viele singen ihn als Lied: „Schaffe in mir, Gott, ein reines Herz.“
+> „Schaffe“: Im Hebräischen steht dasselbe Wort wie in 1. Mose 1,1 („Gott schuf“). Nur Gott kann ein neues Herz erschaffen. Der Mensch kann sich nicht selbst neu machen.
+> Vers 11: David hatte gesehen, wie Gottes Geist von Saul gewichen war (1. Samuel 16,14). Er fürchtet, dass ihm dasselbe passiert.
+> Vers 13: Wer selbst Vergebung erfahren hat, kann anderen den Weg zu Gott zeigen.
+
+---
+
+### Ein zerbrochenes Herz (Vers 14–17)
+
+<sup>14</sup>Rette mich vor Blutschuld, Gott,
+du Gott meiner Rettung!
+Meine Zunge soll laut von deiner Gerechtigkeit singen.
+<sup>15</sup>Herr, öffne meine Lippen,
+und mein Mund wird dein Lob verkünden.
+<sup>16</sup>Denn an Schlachtopfern hast du keinen Gefallen,
+sonst würde ich sie geben.
+An Brandopfern hast du kein Wohlgefallen.
+<sup>17</sup>Die Opfer für Gott sind ein zerbrochener Geist.
+Ein zerbrochenes und zerschlagenes Herz
+wirst du, Gott, nicht verachten.
+
+> **Was bedeutet das?**
+> Vers 14: „Blutschuld“: David hat den Tod Urijas verschuldet. Er bittet Gott, ihn von dieser schweren Schuld zu befreien.
+> Vers 15: „Herr, öffne meine Lippen“: Mit diesem Satz beginnen bis heute viele Christen und Juden ihr Gebet.
+> Vers 16–17: Für Mord und Ehebruch gab es im Gesetz kein Opfer, das die Schuld wiedergutmachen konnte. David kann nur sich selbst bringen: ein zerbrochenes, reuiges Herz. Und Gott verachtet es nicht.
+
+---
+
+### Bau die Mauern Jerusalems (Vers 18–19)
+
+<sup>18</sup>Tu Zion Gutes nach deinem Wohlgefallen!
+Bau die Mauern Jerusalems!
+<sup>19</sup>Dann wirst du Gefallen haben an Opfern der Gerechtigkeit,
+an Brandopfern und Ganzopfern.
+Dann wird man Stiere auf deinem Altar darbringen.
+
+> **Was bedeutet das?**
+> Diese letzten Verse wurden wahrscheinlich später hinzugefügt, als Jerusalem zerstört war (nach 586 vor Christus). Die Gemeinde nahm Davids Gebet als ihr eigenes Gebet um Vergebung und Neuanfang.
+> Vers 19 steht nicht im Widerspruch zu Vers 16: Wenn das Herz in Ordnung ist, dann gefallen Gott auch die Opfer wieder.
+> Psalm 51 zeigt: Auch nach schwerster Schuld gibt es einen Weg zurück zu Gott. Nicht durch Ausreden, sondern durch ehrliches Bekenntnis und Vertrauen auf Gottes Erbarmen.
