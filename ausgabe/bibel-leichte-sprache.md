@@ -81459,3 +81459,314 @@ und ein schmeichelnder Mund richtet Verderben an.
 > Vers 20–21: Klatsch ist wie Holz für ein Feuer. Ohne Klatsch geht der Streit aus.
 > Vers 23: Ein billiger Tontopf, der mit Silberglanz überzogen ist, sieht wertvoll aus, ist es aber nicht. So sind schöne Worte aus einem bösen Herzen.
 > Vers 27: „Wer anderen eine Grube gräbt, fällt selbst hinein“: Das deutsche Sprichwort kommt von hier.
+
+## Sprüche – Kapitel 27
+#### Eisen schärft Eisen
+
+---
+
+### Rühme dich nicht des morgigen Tages (Vers 1–6)
+
+<sup>1</sup>Rühme dich nicht des morgigen Tages,
+denn du weißt nicht, was ein Tag bringt.
+<sup>2</sup>Lass einen anderen dich loben und nicht deinen eigenen Mund,
+einen Fremden und nicht deine eigenen Lippen.
+<sup>3</sup>Ein Stein ist schwer, und Sand ist eine Last,
+aber der Ärger, den ein Tor verursacht, ist schwerer als beide.
+<sup>4</sup>Zorn ist grausam, und Wut ist überwältigend,
+aber wer kann vor der Eifersucht bestehen?
+<sup>5</sup>Besser offener Tadel
+als verborgene Liebe.
+<sup>6</sup>Die Wunden, die ein Freund schlägt, meinen es treu,
+aber die Küsse eines Feindes sind reichlich.
+
+> **Was bedeutet das?**
+> Vers 1: Niemand weiß, was morgen kommt. Darum soll man nicht prahlen mit dem, was man morgen tun wird. Jakobus sagt das Gleiche (Jakobus 4,13–15).
+> Vers 2: Eigenlob stinkt. Es ist besser, wenn andere dich loben.
+> Vers 4: Eifersucht ist noch zerstörerischer als Wut.
+> Vers 5–6: Ein echter Freund sagt dir auch unangenehme Wahrheiten, selbst wenn es wehtut. Ein falscher Freund schmeichelt dir nur. Judas verriet Jesus mit einem Kuss (Matthäus 26,48–49).
+
+---
+
+### Ein Nachbar in der Nähe (Vers 7–14)
+
+<sup>7</sup>Eine satte Seele verschmäht sogar Honig,
+aber einer hungrigen Seele ist alles Bittere süß.
+<sup>8</sup>Wie ein Vogel, der von seinem Nest fortflattert,
+so ist ein Mensch, der von seinem Zuhause fortirrt.
+<sup>9</sup>Parfüm und Weihrauch erfreuen das Herz,
+so auch der ernsthafte Rat eines Freundes.
+<sup>10</sup>Verlass deinen Freund und den Freund deines Vaters nicht!
+Geh nicht in das Haus deines Bruders am Tag deines Unglücks.
+Ein Nachbar, der nahe ist, ist besser als ein Bruder, der fern ist.
+<sup>11</sup>Sei weise, mein Sohn, und erfreue mein Herz,
+dann kann ich dem antworten, der mich verhöhnt.
+<sup>12</sup>Ein kluger Mensch sieht die Gefahr und sucht Zuflucht,
+aber die Einfältigen gehen weiter und müssen dafür büßen.
+<sup>13</sup>Nimm sein Kleid, wenn er für einen Fremden bürgt!
+Pfände ihn für eine fremde Frau!
+<sup>14</sup>Wer seinen Nächsten frühmorgens mit lauter Stimme segnet,
+dem wird es als Fluch angerechnet.
+
+> **Was bedeutet das?**
+> Vers 7: Wer satt ist, schätzt nicht einmal das Beste. Wer Hunger hat, freut sich über alles. Dankbarkeit hängt oft davon ab, ob man Mangel kennt.
+> Vers 8: Wer seine Heimat verlassen muss, ist wie ein Vogel ohne Nest. Viele Flüchtlinge kennen dieses Gefühl.
+> Vers 10: Alte Freundschaften sind kostbar. Und in der Not hilft oft der Nachbar schneller als die Verwandtschaft, die weit weg wohnt.
+> Vers 12–13 wiederholen Kapitel 22,3 und 20,16.
+> Vers 14: Ein lustiger Spruch: Wer frühmorgens laut „Guten Morgen! Gott segne dich!“ ruft, während der Nachbar noch schlafen will, macht sich nicht beliebt. Es kommt auf den richtigen Zeitpunkt an.
+
+---
+
+### Eisen schärft Eisen (Vers 15–22)
+
+<sup>15</sup>Ein ständiges Tropfen an einem Regentag
+und eine zänkische Frau sind gleich:
+<sup>16</sup>Sie zurückzuhalten ist, wie den Wind zurückzuhalten
+oder wie Öl mit der rechten Hand zu greifen.
+<sup>17</sup>Eisen schärft Eisen,
+so schärft ein Mensch das Gesicht seines Freundes.
+<sup>18</sup>Wer den Feigenbaum pflegt, wird seine Frucht essen.
+Wer auf seinen Herrn achtet, wird geehrt.
+<sup>19</sup>Wie das Wasser ein Gesicht widerspiegelt,
+so spiegelt das Herz eines Menschen den Menschen wider.
+<sup>20</sup>Totenreich und Abgrund werden nie satt,
+und die Augen eines Menschen werden nie satt.
+<sup>21</sup>Der Schmelztiegel ist für das Silber und der Ofen für das Gold,
+aber ein Mensch wird durch das Lob geprüft, das er bekommt.
+<sup>22</sup>Auch wenn du einen Toren im Mörser mit dem Stößel
+zusammen mit dem Getreide zerstampfst,
+weicht seine Torheit doch nicht von ihm.
+
+> **Was bedeutet das?**
+> Vers 15–16: Wie ein undichtes Dach an einem Regentag. Das gilt für streitsüchtige Partner beiderlei Geschlechts.
+> Vers 17 ist ein berühmter Spruch: Wie zwei Eisenstücke sich gegenseitig schärfen, so machen gute Freunde einander besser, durch Gespräche, Diskussionen und auch Widerspruch.
+> Vers 19: Wenn du ins Wasser schaust, siehst du dein Gesicht. Wenn du in dein Herz schaust, siehst du, wer du wirklich bist.
+> Vers 20: Der Mensch will immer mehr. Seine Augen werden nie satt. Das ist eine treffende Beschreibung von Gier und Konsum.
+> Vers 21: Wie jemand mit Lob umgeht, zeigt seinen Charakter. Wird er hochmütig oder bleibt er bescheiden?
+> Vers 22: Manche Menschen ändern sich nie, egal was passiert.
+
+---
+
+### Sorge gut für deine Herde (Vers 23–27)
+
+<sup>23</sup>Kenne genau den Zustand deiner Schafe,
+und achte auf deine Herden,
+<sup>24</sup>denn Reichtum bleibt nicht für immer,
+und die Krone besteht nicht von Generation zu Generation.
+<sup>25</sup>Das Heu wird eingebracht, und das junge Gras erscheint,
+und die Kräuter der Berge werden gesammelt.
+<sup>26</sup>Die Lämmer sind für deine Kleidung,
+und die Ziegen sind der Preis für ein Feld.
+<sup>27</sup>Es wird reichlich Ziegenmilch geben als Nahrung für dich,
+als Nahrung für deine Familie
+und zum Unterhalt deiner Mägde.
+
+> **Was bedeutet das?**
+> Ein kleines Lied über gute Landwirtschaft: Kümmere dich gut um das, was dir anvertraut ist. Dann wirst du versorgt sein.
+> Vers 24: Geld und Macht sind vergänglich. Aber wer sorgfältig arbeitet und für das Lebendige sorgt, hat jedes Jahr eine neue Ernte.
+> Heute kann man das auf alles übertragen, was einem anvertraut ist: Arbeit, Familie, Mitarbeiter, die Schöpfung.
+
+## Sprüche – Kapitel 28
+#### Wer seine Sünden bekennt, findet Erbarmen
+
+---
+
+### Mutig wie ein Löwe (Vers 1–7)
+
+<sup>1</sup>Die Gottlosen fliehen, auch wenn niemand sie verfolgt,
+aber die Gerechten sind mutig wie ein Löwe.
+<sup>2</sup>Wenn ein Land abtrünnig ist, hat es viele Herrscher,
+aber durch einen verständigen und einsichtigen Mann bleibt die Ordnung erhalten.
+<sup>3</sup>Ein Bedürftiger, der die Armen unterdrückt,
+ist wie ein reißender Regen, der keine Ernte übrig lässt.
+<sup>4</sup>Die das Gesetz verlassen, loben den Gottlosen,
+aber die das Gesetz halten, kämpfen gegen sie.
+<sup>5</sup>Böse Menschen verstehen das Recht nicht,
+aber die den HERRN suchen, verstehen es ganz.
+<sup>6</sup>Besser ist ein Armer, der redlich lebt,
+als einer, der krumme Wege geht und reich ist.
+<sup>7</sup>Wer das Gesetz hält, ist ein verständiger Sohn,
+aber wer sich mit Schlemmern abgibt, beschämt seinen Vater.
+
+> **Was bedeutet das?**
+> Vers 1: Wer ein schlechtes Gewissen hat, hat ständig Angst, auch ohne Grund. Wer ein gutes Gewissen hat, kann mutig sein.
+> Vers 2: Wenn ein Land von Gott abfällt, gibt es Chaos und ständig neue Machthaber.
+> Vers 3: Besonders schlimm ist es, wenn jemand, der selbst arm war, andere Arme ausbeutet.
+> Vers 5: Wer Gott sucht, bekommt ein Gespür für Gerechtigkeit.
+
+---
+
+### Wucherzinsen und ehrliches Bekennen (Vers 8–14)
+
+<sup>8</sup>Wer seinen Reichtum durch Wucherzinsen vermehrt,
+sammelt ihn für den, der sich über die Armen erbarmt.
+<sup>9</sup>Wer sein Ohr abwendet, um das Gesetz nicht zu hören,
+dessen Gebet ist sogar ein Gräuel.
+<sup>10</sup>Wer die Aufrichtigen auf einen bösen Weg führt,
+der fällt in seine eigene Grube,
+aber die Untadeligen erben Gutes.
+<sup>11</sup>Der Reiche ist weise in seinen eigenen Augen,
+aber der Arme, der Verstand hat, durchschaut ihn.
+<sup>12</sup>Wenn die Gerechten triumphieren, gibt es große Herrlichkeit,
+aber wenn die Gottlosen aufsteigen, verstecken sich die Menschen.
+<sup>13</sup>Wer seine Sünden verheimlicht, dem wird es nicht gelingen,
+aber wer sie bekennt und lässt, findet Erbarmen.
+<sup>14</sup>Glücklich ist der Mensch, der immer Ehrfurcht hat,
+aber wer sein Herz verhärtet, gerät ins Unglück.
+
+> **Was bedeutet das?**
+> Vers 8: Wer mit Wucherzinsen reich wird, behält das Geld am Ende nicht. Gott sorgt dafür, dass es zu denen kommt, die den Armen helfen. Das Gesetz Mose verbot Zinsen von armen Israeliten (2. Mose 22,24).
+> Vers 9: Wer nicht auf Gott hören will, dessen Gebete sind leer.
+> Vers 12: Wenn gute Menschen regieren, freut sich das Land. Wenn böse an die Macht kommen, verstecken sich die Menschen aus Angst. Das hat man in Diktaturen immer wieder erlebt.
+> Vers 13 ist einer der tröstlichsten Verse des Buches: Wer seine Schuld versteckt, wird nicht froh. Aber wer sie ehrlich zugibt und damit aufhört, findet Gottes Erbarmen. Vgl. Psalm 32,5 und 1. Johannes 1,9.
+
+---
+
+### Der grausame Herrscher (Vers 15–22)
+
+<sup>15</sup>Wie ein brüllender Löwe und ein angreifender Bär,
+so ist ein gottloser Herrscher über ein hilfloses Volk.
+<sup>16</sup>Ein tyrannischer Herrscher hat keinen Verstand.
+Wer unrechten Gewinn hasst, wird lange leben.
+<sup>17</sup>Ein Mensch, der von Blutschuld gequält wird,
+wird bis zum Tod ein Flüchtling sein. Niemand wird ihn stützen.
+<sup>18</sup>Wer untadelig lebt, wird bewahrt,
+aber wer krumme Wege geht, wird plötzlich fallen.
+<sup>19</sup>Wer sein Land bebaut, wird Nahrung im Überfluss haben,
+aber wer Hirngespinsten nachjagt, wird Armut im Überfluss haben.
+<sup>20</sup>Ein treuer Mensch ist reich an Segen,
+aber wer schnell reich werden will, wird nicht ungestraft bleiben.
+<sup>21</sup>Parteilichkeit ist nicht gut,
+und doch tut ein Mensch Unrecht für ein Stück Brot.
+<sup>22</sup>Ein geiziger Mensch jagt dem Reichtum nach
+und weiß nicht, dass Armut auf ihn wartet.
+
+> **Was bedeutet das?**
+> Vers 15–16: Ein grausamer Herrscher ist für sein Volk wie ein wildes Tier. Tyrannei ist nicht Stärke, sondern Dummheit.
+> Vers 17: Wer einen Menschen getötet hat, findet keine Ruhe. Das Gewissen quält ihn.
+> Vers 20: „Schnell reich werden“ ist gefährlich. Das gilt auch für Glücksspiel und unseriöse Geldanlagen. Wer spielsüchtig ist, findet Hilfe zum Beispiel bei der Infohotline Glücksspielsucht der BZgA: 0800 137 27 00.
+> Vers 21: Manche lassen sich schon für eine Kleinigkeit bestechen.
+
+---
+
+### Wer dem Armen gibt (Vers 23–28)
+
+<sup>23</sup>Wer einen Menschen zurechtweist, wird später mehr Gunst finden
+als der, der mit der Zunge schmeichelt.
+<sup>24</sup>Wer seinen Vater oder seine Mutter beraubt und sagt: „Das ist kein Unrecht“,
+der ist ein Gefährte des Zerstörers.
+<sup>25</sup>Wer gierig ist, erregt Streit,
+aber wer auf den HERRN vertraut, wird gedeihen.
+<sup>26</sup>Wer auf sich selbst vertraut, ist ein Tor,
+aber wer in Weisheit lebt, wird bewahrt.
+<sup>27</sup>Wer dem Armen gibt, wird keinen Mangel haben,
+aber wer seine Augen verschließt, wird viele Flüche ernten.
+<sup>28</sup>Wenn die Gottlosen aufsteigen, verstecken sich die Menschen,
+aber wenn sie umkommen, gedeihen die Gerechten.
+
+> **Was bedeutet das?**
+> Vers 23: Ehrliche Kritik wird am Ende mehr geschätzt als Schmeichelei.
+> Vers 24: Auch erwachsene Kinder dürfen ihre Eltern nicht ausnutzen, etwa ihr Geld nehmen oder ihr Erbe vorzeitig an sich reißen. Das ist Unrecht, auch wenn man es sich schönredet.
+> Vers 26: Wer nur auf sich selbst vertraut, verlässt sich auf einen wackligen Grund.
+> Vers 27: Wer den Armen gibt, wird nicht ärmer. Wer wegschaut, macht sich schuldig.
+
+## Sprüche – Kapitel 29
+#### Menschenfurcht ist eine Falle
+
+---
+
+### Gerechte Herrscher (Vers 1–7)
+
+<sup>1</sup>Wer oft zurechtgewiesen wird und doch den Nacken steif macht,
+wird plötzlich zerbrochen werden, und es gibt keine Heilung.
+<sup>2</sup>Wenn die Gerechten zahlreich werden, freut sich das Volk,
+aber wenn die Gottlosen herrschen, stöhnt das Volk.
+<sup>3</sup>Wer die Weisheit liebt, erfreut seinen Vater,
+aber wer sich mit Prostituierten abgibt, verschleudert seinen Besitz.
+<sup>4</sup>Der König gibt dem Land durch Recht Bestand,
+aber wer Bestechung annimmt, reißt es nieder.
+<sup>5</sup>Ein Mensch, der seinem Nächsten schmeichelt,
+spannt ein Netz vor seine Füße.
+<sup>6</sup>Ein böser Mensch wird von seiner Sünde gefangen,
+aber der Gerechte kann singen und sich freuen.
+<sup>7</sup>Die Gerechten kümmern sich um das Recht der Armen.
+Die Gottlosen kümmern sich nicht um Erkenntnis.
+
+> **Was bedeutet das?**
+> Vers 1: Wer immer wieder gewarnt wird und trotzdem stur bleibt, fällt irgendwann tief.
+> Vers 2: Gute Regierungen machen ein Volk froh. Schlechte Regierungen lassen es stöhnen.
+> Vers 4: Korruption zerstört ein Land. Gerechtigkeit gibt ihm Stabilität.
+> Vers 7: Ein Kennzeichen von gerechten Menschen: Sie setzen sich dafür ein, dass Arme zu ihrem Recht kommen.
+
+---
+
+### Der Weise beherrscht sich (Vers 8–14)
+
+<sup>8</sup>Spötter bringen eine Stadt in Aufruhr,
+aber Weise wenden den Zorn ab.
+<sup>9</sup>Wenn ein Weiser mit einem Toren vor Gericht geht,
+dann tobt der Tor oder spottet, und es gibt keine Ruhe.
+<sup>10</sup>Die Blutdürstigen hassen den redlichen Menschen,
+und sie trachten den Aufrichtigen nach dem Leben.
+<sup>11</sup>Ein Tor lässt seinem ganzen Zorn freien Lauf,
+aber ein Weiser beherrscht sich.
+<sup>12</sup>Wenn ein Herrscher auf Lügen hört,
+werden alle seine Beamten gottlos.
+<sup>13</sup>Der Arme und der Unterdrücker haben dies gemeinsam:
+Der HERR gibt den Augen beider das Licht.
+<sup>14</sup>Der König, der die Armen gerecht richtet,
+dessen Thron wird für immer bestehen.
+
+> **Was bedeutet das?**
+> Vers 8: Wer Hetze verbreitet, bringt eine ganze Stadt in Aufruhr. Kluge Menschen beruhigen und versöhnen.
+> Vers 11: Seine Wut einfach rauszulassen ist nicht klug. Wer sich beherrscht, ist weise.
+> Vers 12: Wenn ein Chef oder Herrscher gern Lügen hört, werden alle um ihn herum zu Lügnern.
+> Vers 13: Auch der Unterdrücker und der Unterdrückte haben dasselbe Augenlicht von Gott. Beide sind Gottes Geschöpfe. Das gibt dem Armen seine Würde und erinnert den Mächtigen an seine Verantwortung.
+
+---
+
+### Erziehung und Offenbarung (Vers 15–21)
+
+<sup>15</sup>Die Rute der Zurechtweisung gibt Weisheit,
+aber ein Kind, das sich selbst überlassen wird, macht seiner Mutter Schande.
+<sup>16</sup>Wenn die Gottlosen zunehmen, nimmt die Sünde zu,
+aber die Gerechten werden ihren Untergang sehen.
+<sup>17</sup>Erziehe deinen Sohn, dann wird er dir Ruhe geben.
+Ja, er wird deiner Seele Freude bereiten.
+<sup>18</sup>Wo keine Offenbarung ist, wird das Volk zügellos,
+aber glücklich ist, wer das Gesetz hält.
+<sup>19</sup>Ein Diener lässt sich nicht durch Worte zurechtweisen.
+Auch wenn er versteht, wird er nicht reagieren.
+<sup>20</sup>Siehst du einen Menschen, der vorschnell mit seinen Worten ist?
+Für einen Toren gibt es mehr Hoffnung als für ihn.
+<sup>21</sup>Wer seinen Diener von Jugend an verwöhnt,
+bei dem wird er am Ende wie ein Sohn sein.
+
+> **Was bedeutet das?**
+> Vers 15 und 17: Kinder brauchen Erziehung und Grenzen. Ein Kind, das sich ganz selbst überlassen wird, ist verloren. Die „Rute“ war damals üblich. Heute wissen wir: Gute Erziehung geht ohne Schläge. Liebevolle Konsequenz ist das, worum es geht.
+> Vers 18: Ein bekannter Vers: Wenn ein Volk Gottes Wort nicht mehr hört, verliert es Maß und Richtung. Wo Gottes Weisung gilt, gibt es Halt.
+> Vers 19 und 21 beschreiben das Verhältnis zu Dienern, wie es damals üblich war. Sklaverei und Unterdrückung sind Unrecht. Die Bibel erzählt an vielen Stellen, wie Gott Menschen aus der Sklaverei befreit.
+> Vers 20: Wer redet, bevor er denkt, ist noch schlimmer dran als ein Tor.
+
+---
+
+### Wer auf den HERRN vertraut, ist sicher (Vers 22–27)
+
+<sup>22</sup>Ein zorniger Mensch erregt Streit,
+und ein wütender Mensch begeht viele Sünden.
+<sup>23</sup>Der Hochmut eines Menschen erniedrigt ihn,
+aber wer demütig ist, erlangt Ehre.
+<sup>24</sup>Wer Komplize eines Diebes ist, ist ein Feind seines eigenen Lebens.
+Er hört den Schwur, aber wagt nicht auszusagen.
+<sup>25</sup>Die Furcht vor Menschen ist eine Falle,
+aber wer auf den HERRN vertraut, ist in Sicherheit.
+<sup>26</sup>Viele suchen die Gunst des Herrschers,
+aber das Recht eines Menschen kommt vom HERRN.
+<sup>27</sup>Ein unehrlicher Mensch ist den Gerechten ein Gräuel,
+und wer aufrichtig lebt, ist den Gottlosen ein Gräuel.
+
+> **Was bedeutet das?**
+> Vers 24: Wer bei einem Diebstahl mitmacht und dann vor Gericht schweigt, obwohl er unter Eid aussagen müsste, schadet sich selbst.
+> Vers 25 ist ein befreiender Satz: Wer immer Angst hat, was andere denken, ist wie in einer Falle gefangen. Wer auf Gott vertraut, wird frei.
+> Vers 26: Viele versuchen, bei den Mächtigen gut dazustehen. Aber Gerechtigkeit kommt letztlich von Gott.
+> Damit enden die Sprüche, die die Männer Hiskias gesammelt haben. Es folgen die Worte Agurs (Kapitel 30) und Lemuëls (Kapitel 31).
