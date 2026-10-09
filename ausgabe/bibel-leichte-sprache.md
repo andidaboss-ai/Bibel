@@ -77289,3 +77289,242 @@ denn deine Gebote vergesse ich nicht.
 > Vers 176 ist ein erstaunlicher Schluss: Nach 175 Versen voller Liebe zu Gottes Wort bekennt der Beter: „Ich bin umhergeirrt wie ein verlorenes Schaf. Suche mich!“
 > Das zeigt: Auch wer Gottes Wort liebt, ist nicht vollkommen. Am Ende sind wir alle darauf angewiesen, dass Gott uns sucht und findet.
 > Jesus erzählt das Gleichnis vom guten Hirten, der das verlorene Schaf sucht, bis er es findet (Lukas 15,4–7).
+
+## Psalm 120
+#### Ich bin für Frieden
+
+---
+
+### Ein Fremder unter streitlustigen Menschen (Vers 1–7)
+
+<sup>1</sup>Ein Wallfahrtslied.
+In meiner Not rief ich zum HERRN.
+Er hat mir geantwortet.
+<sup>2</sup>Rette mein Leben, HERR, vor lügnerischen Lippen,
+vor einer falschen Zunge!
+<sup>3</sup>Was wird man dir geben, und was wird man dir noch antun,
+du falsche Zunge?
+<sup>4</sup>Scharfe Pfeile eines Kriegers,
+dazu glühende Kohlen vom Ginsterstrauch!
+<sup>5</sup>Weh mir, dass ich in Meschech lebe,
+dass ich wohne bei den Zelten von Kedar!
+<sup>6</sup>Zu lange hat meine Seele gewohnt
+bei dem, der den Frieden hasst.
+<sup>7</sup>Ich bin für Frieden.
+Aber wenn ich rede, sind sie für Krieg.
+
+> **Was bedeutet das?**
+> Mit Psalm 120 beginnen die 15 „Wallfahrtslieder“ (Psalm 120–134). Wörtlich heißen sie „Lieder des Hinaufsteigens“. Pilger sangen sie, wenn sie zu den großen Festen nach Jerusalem hinaufzogen. Jerusalem liegt auf einem Berg, darum geht man „hinauf“.
+> Die Reise beginnt weit weg: Meschech lag im Norden (in der heutigen Türkei), Kedar war ein Volk in der arabischen Wüste. Beide Orte stehen für „ganz weit weg, in einer feindlichen Umgebung“.
+> Vers 3–4: Lügen verletzen wie Pfeile und brennen wie Glut. Der Beter sagt: Wer mit Lügen verletzt, wird selbst getroffen werden. Er überlässt das Gericht Gott.
+> Vers 7: Ein Satz, der bis heute passt: „Ich bin für Frieden, aber sie sind für Krieg.“ Der Beter hält trotzdem am Frieden fest.
+
+## Psalm 121
+#### Der Hüter Israels schläft nicht
+
+---
+
+### Woher kommt meine Hilfe? (Vers 1–8)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Ich hebe meine Augen auf zu den Bergen.
+Woher kommt meine Hilfe?
+<sup>2</sup>Meine Hilfe kommt vom HERRN,
+der Himmel und Erde gemacht hat.
+<sup>3</sup>Er wird deinen Fuß nicht wanken lassen.
+Der dich behütet, schläft nicht ein.
+<sup>4</sup>Siehe, der Israel behütet,
+schläft nicht und schlummert nicht.
+<sup>5</sup>Der HERR ist dein Hüter.
+Der HERR ist dein Schatten an deiner rechten Seite.
+<sup>6</sup>Die Sonne wird dir am Tag nicht schaden
+und der Mond nicht in der Nacht.
+<sup>7</sup>Der HERR wird dich vor allem Bösen behüten.
+Er wird dein Leben behüten.
+<sup>8</sup>Der HERR wird dein Weggehen und dein Heimkommen behüten,
+von jetzt an bis in Ewigkeit.
+
+> **Was bedeutet das?**
+> Psalm 121 ist einer der beliebtesten Psalmen. Er wird oft bei Abschieden, Reisen, Taufen und Beerdigungen gebetet.
+> Der Pilger sieht die Berge vor sich. Dort ist der Weg gefährlich: steile Pfade, Räuber, Hitze. Er fragt: Wer hilft mir? Die Antwort: Nicht die Berge, sondern der Gott, der die Berge gemacht hat.
+> Sechsmal kommt das Wort „behüten“ vor. Gott passt auf, wie ein Wächter, der niemals einschläft.
+> Vers 6: Die Sonne konnte einen Hitzschlag bringen. Vom Mond glaubte man damals, dass er krank machen kann. Gott schützt bei Tag und bei Nacht.
+> Vers 8: „Dein Weggehen und Heimkommen“: das ganze Leben, jeder Weg, jeder Tag.
+
+## Psalm 122
+#### Wünscht Jerusalem Frieden!
+
+---
+
+### Ich freute mich, als man zu mir sagte (Vers 1–9)
+
+<sup>1</sup>Ein Wallfahrtslied. Von David.
+Ich freute mich, als man zu mir sagte:
+„Lasst uns zum Haus des HERRN gehen!“
+<sup>2</sup>Unsere Füße stehen in deinen Toren, Jerusalem!
+<sup>3</sup>Jerusalem ist gebaut als eine Stadt,
+die fest zusammengefügt ist.
+<sup>4</sup>Dorthin ziehen die Stämme hinauf, die Stämme Jahs,
+nach einer Ordnung für Israel,
+um dem Namen des HERRN zu danken.
+<sup>5</sup>Denn dort stehen Throne für das Gericht,
+die Throne des Hauses David.
+<sup>6</sup>Betet um Frieden für Jerusalem!
+Denen, die dich lieben, soll es gut gehen.
+<sup>7</sup>Friede sei in deinen Mauern
+und Wohlergehen in deinen Palästen!
+<sup>8</sup>Wegen meiner Brüder und Freunde
+will ich jetzt sagen: „Friede sei in dir!“
+<sup>9</sup>Wegen des Hauses des HERRN, unseres Gottes,
+will ich dein Bestes suchen.
+
+> **Was bedeutet das?**
+> Jetzt sind die Pilger angekommen. Sie stehen in den Toren Jerusalems. Die Freude ist groß.
+> Vers 3: Jerusalem ist dicht gebaut, Haus an Haus. Das ist auch ein Bild für ein Volk, das zusammenhält.
+> Vers 6: Im Hebräischen klingt hier ein Wortspiel: „Jeruschalajim“ (Jerusalem) und „Schalom“ (Frieden). Die Stadt trägt den Frieden in ihrem Namen.
+> „Betet um Frieden für Jerusalem“: Diese Bitte ist bis heute aktuell. Juden, Christen und Muslime haben heilige Orte in Jerusalem. Für den Frieden dieser Stadt und aller Menschen dort zu beten, ist ein guter Auftrag.
+
+## Psalm 123
+#### Unsere Augen schauen auf den HERRN
+
+---
+
+### Wie die Augen der Diener (Vers 1–4)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Ich hebe meine Augen auf zu dir,
+der du im Himmel thronst.
+<sup>2</sup>Siehe, wie die Augen der Diener auf die Hand ihres Herrn schauen,
+wie die Augen einer Magd auf die Hand ihrer Herrin,
+so schauen unsere Augen auf den HERRN, unseren Gott,
+bis er uns gnädig ist.
+<sup>3</sup>Sei uns gnädig, HERR, sei uns gnädig,
+denn wir haben viel Verachtung ertragen.
+<sup>4</sup>Unsere Seele ist übervoll
+vom Spott der Sorglosen,
+von der Verachtung der Hochmütigen.
+
+> **Was bedeutet das?**
+> Ein kurzes Gebet von Menschen, die verachtet werden.
+> Vers 2: Diener achteten damals genau auf die Hand ihres Herrn. Ein kleines Zeichen genügte. So schaut das Volk auf Gott: aufmerksam und voller Erwartung.
+> Vers 4: „Die Sorglosen“: Menschen, denen es gut geht und die auf andere herabsehen. Wer Spott erlebt, darf Gott das sagen.
+
+## Psalm 124
+#### Wäre der HERR nicht für uns gewesen
+
+---
+
+### Der Strick ist zerrissen (Vers 1–8)
+
+<sup>1</sup>Ein Wallfahrtslied. Von David.
+Wäre es nicht der HERR gewesen, der für uns war,
+so soll Israel jetzt sagen,
+<sup>2</sup>wäre es nicht der HERR gewesen, der für uns war,
+als Menschen gegen uns aufstanden,
+<sup>3</sup>dann hätten sie uns lebendig verschlungen,
+als ihr Zorn gegen uns entbrannte.
+<sup>4</sup>Dann hätten die Wasser uns überflutet,
+der Strom wäre über unsere Seele gegangen.
+<sup>5</sup>Dann wären die stolzen Wasser
+über unsere Seele gegangen.
+<sup>6</sup>Gepriesen sei der HERR,
+der uns nicht ihren Zähnen zur Beute gegeben hat.
+<sup>7</sup>Unsere Seele ist entkommen wie ein Vogel
+aus der Schlinge des Vogelfängers.
+Die Schlinge ist zerrissen, und wir sind entkommen.
+<sup>8</sup>Unsere Hilfe ist im Namen des HERRN,
+der Himmel und Erde gemacht hat.
+
+> **Was bedeutet das?**
+> Das Volk blickt zurück: Ohne Gott wären wir verloren gewesen. Die Feinde waren wie wilde Tiere, wie eine Flut.
+> Vers 7: Ein schönes Bild: Ein Vogel sitzt in einer Falle. Plötzlich reißt die Schlinge, und er fliegt frei davon. So hat Gott sein Volk befreit.
+> Vers 8 wird bis heute in vielen Gottesdiensten am Anfang gesprochen: „Unsere Hilfe ist im Namen des HERRN, der Himmel und Erde gemacht hat.“
+
+## Psalm 125
+#### Wie Berge um Jerusalem
+
+---
+
+### Wer dem HERRN vertraut, steht fest (Vers 1–5)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Die auf den HERRN vertrauen, sind wie der Berg Zion.
+Er wankt nicht, sondern bleibt für immer.
+<sup>2</sup>Wie Berge Jerusalem umgeben,
+so umgibt der HERR sein Volk
+von jetzt an bis in Ewigkeit.
+<sup>3</sup>Denn das Zepter der Gottlosigkeit wird nicht bleiben
+über dem Erbland der Gerechten,
+damit die Gerechten ihre Hände nicht ausstrecken, um Böses zu tun.
+<sup>4</sup>Tu Gutes, HERR, den Guten,
+denen, die ein aufrichtiges Herz haben!
+<sup>5</sup>Aber die abbiegen auf ihre krummen Wege,
+die wird der HERR wegführen mit den Übeltätern.
+Friede sei über Israel!
+
+> **Was bedeutet das?**
+> Jerusalem ist ringsum von Bergen umgeben. Die Pilger sehen das mit eigenen Augen. So, sagt der Psalm, umgibt Gott sein Volk: von allen Seiten.
+> Vers 3: Die Herrschaft der Bösen wird nicht ewig dauern. Sonst kämen auch gute Menschen in Versuchung, Böses zu tun.
+> Der Psalm endet mit einem Segen: „Friede sei über Israel!“
+
+## Psalm 126
+#### Die mit Tränen säen
+
+---
+
+### Wir waren wie Träumende (Vers 1–6)
+
+<sup>1</sup>Ein Wallfahrtslied.
+Als der HERR die Heimkehrer nach Zion zurückbrachte,
+waren wir wie Träumende.
+<sup>2</sup>Da war unser Mund voll Lachen
+und unsere Zunge voll Jubel.
+Da sagte man unter den Völkern:
+„Der HERR hat Großes an ihnen getan.“
+<sup>3</sup>Der HERR hat Großes an uns getan.
+Darüber sind wir froh.
+<sup>4</sup>Wende unser Geschick noch einmal, HERR,
+wie die Bäche im Negev!
+<sup>5</sup>Die mit Tränen säen,
+werden mit Jubel ernten.
+<sup>6</sup>Wer weinend hinausgeht und den Samen zum Säen trägt,
+wird gewiss mit Jubel zurückkommen
+und seine Garben tragen.
+
+> **Was bedeutet das?**
+> Der Psalm erinnert an die Heimkehr aus dem Exil in Babylon. Das war so unglaublich schön, dass es sich anfühlte wie ein Traum.
+> Vers 4: Der Negev ist eine Wüste im Süden. Dort sind die Bachbetten meistens trocken. Aber wenn Regen kommt, füllen sie sich plötzlich mit Wasser, und alles wird grün. So soll Gott wieder Leben bringen.
+> Vers 5–6 sind ein großer Trost: Wer jetzt weint, wird wieder lachen. Tränen sind wie Saat. Die Ernte kommt.
+> Johannes Brahms hat diese Verse im „Deutschen Requiem“ vertont: „Die mit Tränen säen, werden mit Freuden ernten.“
+
+## Psalm 127
+#### Wenn der HERR nicht das Haus baut
+
+---
+
+### Alles kommt aus Gottes Hand (Vers 1–5)
+
+<sup>1</sup>Ein Wallfahrtslied. Von Salomo.
+Wenn der HERR nicht das Haus baut,
+dann arbeiten die Bauleute vergeblich daran.
+Wenn der HERR nicht die Stadt bewacht,
+dann wacht der Wächter vergeblich.
+<sup>2</sup>Es ist vergeblich, dass ihr früh aufsteht
+und spät aufbleibt
+und das Brot der Mühe esst.
+Denn seinen Geliebten gibt er Schlaf.
+<sup>3</sup>Siehe, Kinder sind ein Erbe vom HERRN.
+Die Frucht des Leibes ist sein Lohn.
+<sup>4</sup>Wie Pfeile in der Hand eines Kriegers,
+so sind die Kinder der Jugend.
+<sup>5</sup>Glücklich ist der Mann,
+der seinen Köcher mit ihnen gefüllt hat.
+Sie werden nicht beschämt,
+wenn sie mit ihren Feinden im Tor reden.
+
+> **Was bedeutet das?**
+> Dieser Psalm ist Salomo zugeschrieben, dem König, der den Tempel baute.
+> Vers 1–2: Man kann sich abmühen von früh bis spät. Aber ohne Gottes Segen bringt alle Arbeit nichts. Das ist keine Aufforderung zur Faulheit, sondern zur Gelassenheit. Gott schenkt Ruhe und Schlaf.
+> Vers 2 sagt auch: Schlaf ist ein Geschenk Gottes. Wer sich vor lauter Sorgen und Arbeit keine Ruhe gönnt, darf das hören.
+> Vers 3–5: Kinder sind ein Geschenk Gottes, kein Besitz. Damals sicherten viele Kinder die Familie ab. Im „Tor“ wurden Streitfälle verhandelt. Erwachsene Kinder konnten ihre Eltern dort unterstützen.
+> Wer keine Kinder hat oder keine bekommen kann, ist deshalb nicht weniger von Gott gesegnet. Die Bibel erzählt von vielen Menschen ohne Kinder, die Gott liebt.
