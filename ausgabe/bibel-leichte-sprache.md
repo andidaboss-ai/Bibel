@@ -74808,12 +74808,12 @@ Seine Hände haben das trockene Land geformt.
 <sup>6</sup>Ach kommt, lasst uns anbeten und uns beugen!
 Lasst uns niederknien vor dem HERRN, unserem Schöpfer!
 <sup>7</sup>Denn er ist unser Gott,
-und wir sind das Volk seiner Weide und die Schafe seiner Hand.
+und wir sind das Volk seiner Weide und die Schafe in seiner Obhut.
 Heute, ach wenn ihr doch auf seine Stimme hören würdet!
 
 > **Was bedeutet das?**
 > Zuerst kam der laute Jubel (Vers 1–2). Jetzt kommt die stille Anbetung: niederknien vor dem Schöpfer.
-> „Die Schafe seiner Hand“: Gott sorgt für uns wie ein Hirte.
+> „Die Schafe in seiner Obhut“: Gott sorgt für uns wie ein Hirte. Wörtlich heißt es „die Schafe seiner Hand“.
 > „Heute“: Der Ruf ist dringend. Nicht irgendwann, sondern heute sollen wir auf Gott hören.
 
 ---
