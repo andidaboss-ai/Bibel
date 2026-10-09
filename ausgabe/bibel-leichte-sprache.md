@@ -72611,3 +72611,229 @@ Die seinen Namen lieben, werden darin wohnen.
 > Vers 31: Ein Dankeslied gefällt Gott besser als das teuerste Tieropfer (vgl. Psalm 50,14; 51,16–17).
 > Vers 33: „Der HERR hört die Bedürftigen.“ Das ist die Hoffnung aller Armen und Gefangenen.
 > Vers 35–36: Der Blick weitet sich auf das ganze Volk. Vielleicht wurde der Psalm im Exil gebetet, als Jerusalem zerstört war, mit der Hoffnung auf den Wiederaufbau.
+
+## Psalm 70
+#### Eile mir zu helfen
+
+---
+
+### Komm schnell, Gott (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Von David. Zur Erinnerung.
+Eile, Gott, mich zu retten!
+Komm schnell, mir zu helfen, HERR!
+<sup>2</sup>Enttäuscht und beschämt sollen werden, die mir nach dem Leben trachten.
+Zurückweichen und zuschanden werden sollen, die mein Unglück wünschen.
+<sup>3</sup>Umkehren sollen wegen ihrer Schande,
+die sagen: „Haha! Haha!“
+<sup>4</sup>Alle, die dich suchen, sollen jubeln und sich in dir freuen.
+Die deine Rettung lieben, sollen immer sagen:
+„Gott sei hoch gelobt!“
+<sup>5</sup>Ich aber bin arm und bedürftig.
+Komm schnell zu mir, Gott!
+Du bist meine Hilfe und mein Retter.
+HERR, zögere nicht!
+
+> **Was bedeutet das?**
+> Psalm 70 ist fast genau derselbe Text wie Psalm 40,13–17. Er wurde als eigenes, kurzes Gebet überliefert.
+> „Zur Erinnerung“: Vielleicht wurde der Psalm bei einem bestimmten Opfer gesungen, oder er soll Gott an den Beter „erinnern“.
+> Es ist ein kurzer, dringender Hilferuf: „Komm schnell!“ Er beginnt und endet mit der Bitte, dass Gott sich beeilt.
+> Mönche beten seit vielen Jahrhunderten den ersten Vers zu Beginn ihrer Gebetszeiten: „O Gott, komm mir zu Hilfe! Herr, eile, mir zu helfen!“
+
+## Psalm 71
+#### Verlass mich nicht im Alter
+
+---
+
+### Du bist meine Hoffnung von Jugend an (Vers 1–8)
+
+<sup>1</sup>Bei dir, HERR, suche ich Zuflucht.
+Lass mich niemals enttäuscht werden!
+<sup>2</sup>Rette mich in deiner Gerechtigkeit und befreie mich!
+Neige dein Ohr zu mir und hilf mir!
+<sup>3</sup>Sei mir ein Fels der Zuflucht, zu dem ich immer kommen kann!
+Gib den Befehl, mich zu retten,
+denn du bist mein Fels und meine Burg.
+<sup>4</sup>Rette mich, mein Gott, aus der Hand des Gottlosen,
+aus der Hand des Ungerechten und Grausamen!
+<sup>5</sup>Denn du bist meine Hoffnung, Herr, HERR,
+meine Zuversicht von meiner Jugend an.
+<sup>6</sup>Vom Mutterleib an habe ich mich auf dich verlassen.
+Du bist es, der mich aus dem Leib meiner Mutter gezogen hat.
+Ich will dich immer loben.
+<sup>7</sup>Für viele bin ich wie ein Wunder,
+aber du bist meine starke Zuflucht.
+<sup>8</sup>Mein Mund soll von deinem Lob erfüllt sein,
+von deiner Herrlichkeit den ganzen Tag.
+
+> **Was bedeutet das?**
+> Psalm 71 ist das Gebet eines alten Menschen. Er schaut auf sein ganzes Leben zurück: Schon als Baby, schon als junger Mensch hat er Gott vertraut.
+> Vers 1–3 erinnern an Psalm 31,1–3.
+> Vers 7: „Für viele bin ich wie ein Wunder“: Die Leute staunen über ihn, vielleicht weil er so viel durchgemacht hat. Das Wort kann auch „abschreckendes Beispiel“ heißen. Aber er weiß: Gott ist meine Zuflucht.
+
+---
+
+### Verlass mich nicht, wenn meine Kraft schwindet (Vers 9–13)
+
+<sup>9</sup>Verstoß mich nicht im Alter!
+Verlass mich nicht, wenn meine Kraft schwindet!
+<sup>10</sup>Denn meine Feinde reden über mich.
+Die auf mein Leben lauern, beraten sich miteinander
+<sup>11</sup>und sagen: „Gott hat ihn verlassen.
+Verfolgt ihn und packt ihn, denn niemand wird ihn retten.“
+<sup>12</sup>Gott, sei nicht fern von mir!
+Mein Gott, eile mir zu helfen!
+<sup>13</sup>Meine Ankläger sollen enttäuscht werden und vergehen.
+Mit Schande und Spott sollen bedeckt werden, die mir schaden wollen.
+
+> **Was bedeutet das?**
+> Vers 9 ist ein bewegendes Gebet für alte Menschen: „Verlass mich nicht, wenn meine Kraft schwindet!“ Im Alter wird man schwächer und braucht mehr Hilfe.
+> Die Feinde denken: Er ist alt und schwach, Gott hat ihn verlassen. Jetzt können wir ihm alles nehmen.
+> Die Bibel sagt: Alte Menschen haben eine besondere Würde (3. Mose 19,32). Gott verlässt sie nicht (Jesaja 46,4: „Bis ins Alter bin ich derselbe, bis ihr grau werdet, will ich euch tragen“).
+
+---
+
+### Ich will immer hoffen (Vers 14–18)
+
+<sup>14</sup>Ich aber will immer hoffen
+und all dein Lob noch vermehren.
+<sup>15</sup>Mein Mund soll von deiner Gerechtigkeit erzählen
+und von deiner Rettung den ganzen Tag,
+obwohl ich ihr volles Maß nicht kenne.
+<sup>16</sup>Ich will kommen mit den mächtigen Taten des Herrn, des HERRN.
+Ich will deine Gerechtigkeit verkünden, deine allein.
+<sup>17</sup>Gott, du hast mich von meiner Jugend an gelehrt.
+Bis heute verkünde ich deine Wunder.
+<sup>18</sup>Ja, auch wenn ich alt und grau bin, Gott, verlass mich nicht,
+bis ich deine Stärke der nächsten Generation verkündet habe,
+deine Macht allen, die noch kommen werden.
+
+> **Was bedeutet das?**
+> Vers 15: Gottes gute Taten sind so viele, dass man sie nicht alle zählen kann.
+> Vers 18: Der alte Mensch hat noch eine Aufgabe: Er will der jungen Generation erzählen, was Gott getan hat. Alte Menschen sind wichtig, weil sie ihre Erfahrungen weitergeben können.
+
+---
+
+### Du wirst mich wieder heraufholen (Vers 19–24)
+
+<sup>19</sup>Gott, auch deine Gerechtigkeit reicht bis zum Himmel.
+Du hast große Dinge getan.
+Gott, wer ist wie du?
+<sup>20</sup>Du, der uns viele und bittere Nöte hat sehen lassen,
+du wirst mich wieder beleben.
+Du wirst uns wieder heraufholen aus den Tiefen der Erde.
+<sup>21</sup>Vermehre meine Ehre
+und tröste mich wieder!
+<sup>22</sup>Ich will dich auch mit der Harfe loben für deine Treue, mein Gott.
+Ich will dir Lob singen mit der Leier, du Heiliger Israels.
+<sup>23</sup>Meine Lippen sollen jubeln!
+Meine Seele, die du erlöst hast, singt dir Lob!
+<sup>24</sup>Auch meine Zunge soll den ganzen Tag von deiner Gerechtigkeit reden,
+denn enttäuscht und beschämt sind, die mir schaden wollen.
+
+> **Was bedeutet das?**
+> Vers 20: Der Beter hat viel Schweres erlebt. Aber er vertraut darauf, dass Gott ihn wieder aufrichtet, sogar „aus den Tiefen der Erde“. Viele sehen darin eine Hoffnung über den Tod hinaus.
+> „Der Heilige Israels“: Dieser Gottesname kommt besonders oft im Buch Jesaja vor.
+> Der Psalm endet mit Freude und Gesang: Ein alter Mensch, der Gott sein Leben lang vertraut hat, lobt ihn auch jetzt noch.
+
+## Psalm 72
+#### Ein Gebet für den König
+
+---
+
+### Gib dem König dein Recht (Vers 1–7)
+
+<sup>1</sup>Von Salomo.
+Gott, gib dem König dein Recht
+und deine Gerechtigkeit dem Königssohn!
+<sup>2</sup>Er wird dein Volk mit Gerechtigkeit richten
+und deine Armen mit Recht.
+<sup>3</sup>Die Berge sollen dem Volk Wohlergehen bringen
+und die Hügel Gerechtigkeit.
+<sup>4</sup>Er wird den Armen im Volk Recht verschaffen.
+Er wird den Kindern der Bedürftigen helfen
+und den Unterdrücker zerschlagen.
+<sup>5</sup>Man wird dich fürchten, solange die Sonne besteht
+und solange der Mond scheint, von Generation zu Generation.
+<sup>6</sup>Er wird herabkommen wie Regen auf die gemähte Wiese,
+wie Regenschauer, die die Erde befeuchten.
+<sup>7</sup>In seinen Tagen werden die Gerechten aufblühen,
+und es wird Frieden in Fülle geben, bis kein Mond mehr ist.
+
+> **Was bedeutet das?**
+> Psalm 72 ist ein Gebet für den König, vielleicht zur Krönung. Die Überschrift nennt Salomo, den Sohn Davids.
+> Was ist ein guter König? Er sorgt für Gerechtigkeit, besonders für die Armen und Schwachen. Er schützt sie vor den Unterdrückern.
+> „Wohlergehen“ (Vers 3) und „Frieden“ (Vers 7): Im Hebräischen steht beide Male „Schalom“. Das heißt mehr als „kein Krieg“: Es bedeutet Wohlergehen, Gerechtigkeit, Ganzheit für alle.
+> Vers 6: Ein guter König ist wie Regen nach der Ernte: Er bringt neues Leben.
+
+---
+
+### Von Meer zu Meer (Vers 8–11)
+
+<sup>8</sup>Er wird auch herrschen von Meer zu Meer,
+vom Strom bis an die Enden der Erde.
+<sup>9</sup>Die in der Wüste wohnen, werden sich vor ihm beugen.
+Seine Feinde werden Staub lecken.
+<sup>10</sup>Die Könige von Tarsis und von den Inseln werden Abgaben bringen.
+Die Könige von Saba und Seba werden Geschenke darbringen.
+<sup>11</sup>Ja, alle Könige werden vor ihm niederfallen.
+Alle Völker werden ihm dienen.
+
+> **Was bedeutet das?**
+> Der Psalm wünscht dem König eine weltweite Herrschaft. „Der Strom“ ist der Euphrat.
+> Tarsis lag weit im Westen (vielleicht Spanien), Saba und Seba im Süden (Arabien und Afrika). Die Königin von Saba besuchte Salomo (1. Könige 10).
+> Das ging weit über das hinaus, was ein König in Israel wirklich erreichte. Darum haben Juden und Christen den Psalm auf den Messias bezogen.
+> Christen denken bei Vers 10–11 an die Weisen aus dem Morgenland, die dem Jesuskind Geschenke brachten (Matthäus 2,11).
+
+---
+
+### Er rettet den Armen (Vers 12–14)
+
+<sup>12</sup>Denn er wird den Bedürftigen retten, wenn er schreit,
+den Armen, der keinen Helfer hat.
+<sup>13</sup>Er wird Mitleid haben mit dem Armen und Bedürftigen.
+Er wird das Leben der Bedürftigen retten.
+<sup>14</sup>Er wird ihr Leben aus Unterdrückung und Gewalt erlösen.
+Ihr Blut wird kostbar sein in seinen Augen.
+
+> **Was bedeutet das?**
+> Das ist der eigentliche Grund für die Größe dieses Königs: nicht seine Macht, sondern seine Fürsorge für die Armen.
+> Vers 14: „Ihr Blut ist kostbar in seinen Augen“: Für einen guten Herrscher ist das Leben jedes armen Menschen wertvoll. Kein Mensch ist zu unwichtig.
+> Das ist ein Maßstab für alle, die Macht haben, bis heute.
+
+---
+
+### Sein Name bleibt für immer (Vers 15–17)
+
+<sup>15</sup>Er wird leben, und man wird ihm Gold aus Saba geben.
+Man wird ständig für ihn beten.
+Man wird ihn den ganzen Tag segnen.
+<sup>16</sup>Es wird Korn in Fülle im Land geben.
+Seine Frucht wogt wie der Libanon.
+Es soll blühen und gedeihen wie das Gras auf dem Feld.
+<sup>17</sup>Sein Name bleibt für immer.
+Sein Name besteht, solange die Sonne scheint.
+Die Menschen werden durch ihn gesegnet sein.
+Alle Völker werden ihn glücklich preisen.
+
+> **Was bedeutet das?**
+> Unter einem gerechten König gedeiht alles: die Ernte, die Menschen, das Land.
+> „Wie der Libanon“: Die Ähren wogen im Wind wie die großen Zedernwälder des Libanon.
+> Vers 17 erinnert an die Verheißung an Abraham: „In dir sollen alle Völker gesegnet werden“ (1. Mose 12,3).
+
+---
+
+### Abschluss des zweiten Psalmenbuchs (Vers 18–20)
+
+<sup>18</sup>Gepriesen sei der HERR, Gott, der Gott Israels,
+der allein Wunder tut!
+<sup>19</sup>Gepriesen sei sein herrlicher Name für immer!
+Die ganze Erde soll von seiner Herrlichkeit erfüllt sein!
+Amen und Amen.
+<sup>20</sup>Hier enden die Gebete Davids, des Sohnes Isais.
+
+> **Was bedeutet das?**
+> Vers 18–19 sind der Lobpreis am Ende des zweiten Psalmenbuchs (Psalm 42–72), so wie Psalm 41,13 das erste Buch abschließt.
+> Vers 20: „Hier enden die Gebete Davids“: Das war wohl einmal das Ende einer älteren Sammlung von Davidpsalmen. Später kamen noch weitere Psalmen Davids dazu (z. B. Psalm 86, 101, 103, 108–110, 138–145).
+> „Isai“ war der Vater Davids. Die englische Vorlage schreibt „Jesse“.
+> Ab Psalm 73 beginnt das dritte Psalmenbuch.
