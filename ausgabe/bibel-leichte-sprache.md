@@ -58006,3 +58006,503 @@ Und das Volk des Landes machte seinen Sohn Josia an seiner Stelle zum König.
 > Amon ahmte die bösen Taten seines Vaters nach, aber nicht seine Umkehr. Das ist traurig: Kinder lernen oft mehr aus den Fehlern der Eltern als aus ihrer Umkehr.
 > Amon regierte etwa von 642 bis 640 vor Christus.
 > Sein Sohn Josia wird einer der besten Könige Judas werden.
+
+## 2. Chronik – Kapitel 34
+#### Josia und das gefundene Gesetzbuch
+
+---
+
+### Josia sucht Gott schon als Junge (Vers 1–7)
+
+<sup>1</sup>Josia war acht Jahre alt, als er König wurde,
+und er regierte 31 Jahre in Jerusalem.
+<sup>2</sup>Er tat, was recht war in den Augen des HERRN,
+und ging auf den Wegen seines Vaters David
+und wich weder nach rechts noch nach links ab.
+<sup>3</sup>Denn im achten Jahr seiner Regierung, als er noch jung war,
+fing er an, den Gott seines Vaters David zu suchen.
+Und im zwölften Jahr fing er an, Juda und Jerusalem zu reinigen
+von den Opferhöhen, den Aschera-Pfählen,
+den geschnitzten Bildern und den gegossenen Bildern.
+<sup>4</sup>Man riss in seiner Gegenwart die Altäre der Baale nieder.
+Er hieb die Räucheraltäre um, die oben auf ihnen standen.
+Er zerbrach die Aschera-Pfähle, die geschnitzten und die gegossenen Bilder,
+zermalmte sie zu Staub
+und streute ihn auf die Gräber derer, die ihnen geopfert hatten.
+<sup>5</sup>Er verbrannte die Gebeine der Priester auf ihren Altären
+und reinigte Juda und Jerusalem.
+<sup>6</sup>Das tat er auch in den Städten von Manasse, Efraim und Simeon bis nach Naftali,
+ringsum in ihren Trümmern.
+<sup>7</sup>Er riss die Altäre nieder,
+zerschlug die Aschera-Pfähle und die geschnitzten Bilder zu Pulver
+und hieb alle Räucheraltäre im ganzen Land Israel um.
+Dann kehrte er nach Jerusalem zurück.
+
+> **Was bedeutet das?**
+> Diese Geschichte steht auch in 2. Könige 22–23. Josia regierte etwa von 640 bis 609 vor Christus.
+> Mit 16 Jahren (im achten Jahr seiner Regierung) fängt Josia an, Gott zu suchen. Mit 20 Jahren (im zwölften Jahr) beginnt er, das Land von den Götzen zu reinigen. Sein Großvater Manasse und sein Vater Amon hatten das Land mit Götzen gefüllt.
+> „Weder nach rechts noch nach links“: Er ging geradeaus auf Gottes Weg (vgl. 5. Mose 5,32).
+> Josia reinigt auch das Gebiet des ehemaligen Nordreichs. Das assyrische Reich wurde damals schwächer. So konnte Josia auch dort handeln.
+> Die Gebeine der Götzenpriester auf ihren Altären zu verbrennen, machte diese Altäre für immer unrein. So konnte dort niemand mehr opfern. Ein Prophet hatte das schon 300 Jahre vorher angekündigt (1. Könige 13,2).
+
+---
+
+### Die Reparatur des Tempels (Vers 8–13)
+
+<sup>8</sup>Im 18. Jahr seiner Regierung,
+als er das Land und das Haus gereinigt hatte,
+schickte er Schafan, den Sohn Azaljas,
+Maaseja, den Obersten der Stadt,
+und Joach, den Sohn des Joahas, den Kanzler,
+um das Haus des HERRN, seines Gottes, auszubessern.
+<sup>9</sup>Sie kamen zum Hohenpriester Hilkija
+und übergaben das Geld, das in das Haus Gottes gebracht worden war.
+Die Leviten, die Hüter der Schwelle, hatten es gesammelt
+aus der Hand von Manasse und Efraim, von dem ganzen Rest Israels,
+von ganz Juda und Benjamin und von den Bewohnern Jerusalems.
+<sup>10</sup>Sie übergaben es den Werkmeistern, die die Aufsicht über das Haus des HERRN hatten.
+Und die Werkmeister, die im Haus des HERRN arbeiteten,
+gaben es aus, um das Haus auszubessern und herzurichten.
+<sup>11</sup>Sie gaben es den Zimmerleuten und den Bauleuten,
+um behauene Steine und Holz für die Verbindungen zu kaufen
+und Balken zu machen für die Gebäude,
+die die Könige von Juda hatten verfallen lassen.
+<sup>12</sup>Die Männer taten die Arbeit treu.
+Ihre Aufseher waren Jahat und Obadja, die Leviten, von den Söhnen Meraris,
+und Secharja und Meschullam, von den Söhnen der Kehatiter, um die Arbeit zu leiten,
+und andere von den Leviten, die alle geschickt mit Musikinstrumenten waren.
+<sup>13</sup>Sie waren auch über die Lastträger gesetzt
+und leiteten alle, die die Arbeit in jeder Art von Dienst taten.
+Von den Leviten waren auch Schreiber, Beamte und Torhüter.
+
+> **Was bedeutet das?**
+> Josia ist jetzt 26 Jahre alt. Nachdem er das Land gereinigt hat, lässt er den Tempel reparieren.
+> Das Geld kommt auch aus dem Norden, „vom ganzen Rest Israels“. Josia sieht das ganze Volk als Einheit.
+> Schön ist das Detail in Vers 12: Die Aufseher waren Musiker. Vielleicht haben sie mit Musik die Arbeit begleitet.
+
+---
+
+### Das Buch des Gesetzes wird gefunden (Vers 14–21)
+
+<sup>14</sup>Als sie das Geld herausholten, das in das Haus des HERRN gebracht worden war,
+fand der Priester Hilkija das Buch des Gesetzes des HERRN, das durch Mose gegeben worden war.
+<sup>15</sup>Hilkija sagte zu Schafan, dem Schreiber:
+„Ich habe das Buch des Gesetzes im Haus des HERRN gefunden.“
+Und Hilkija gab Schafan das Buch.
+<sup>16</sup>Schafan brachte das Buch zum König
+und berichtete dem König außerdem:
+„Alles, was deinen Dienern aufgetragen wurde, das tun sie.
+<sup>17</sup>Sie haben das Geld ausgeschüttet, das im Haus des HERRN gefunden wurde,
+und es den Aufsehern und den Werkleuten übergeben.“
+<sup>18</sup>Und Schafan, der Schreiber, erzählte dem König:
+„Der Priester Hilkija hat mir ein Buch gegeben.“
+Und Schafan las daraus dem König vor.
+<sup>19</sup>Als der König die Worte des Gesetzes hörte,
+zerriss er seine Kleider.
+<sup>20</sup>Der König befahl Hilkija,
+Ahikam, dem Sohn Schafans,
+Abdon, dem Sohn Michas,
+Schafan, dem Schreiber,
+und Asaja, dem Diener des Königs:
+<sup>21</sup>„Geht und fragt den HERRN für mich
+und für die, die in Israel und in Juda übrig geblieben sind,
+wegen der Worte des Buches, das gefunden worden ist.
+Denn groß ist der Zorn des HERRN, der sich über uns ergossen hat,
+weil unsere Väter das Wort des HERRN nicht gehalten haben,
+um alles zu tun, was in diesem Buch geschrieben steht.“
+
+> **Was bedeutet das?**
+> Bei den Arbeiten im Tempel wird ein Buch gefunden: das Gesetz des Mose. Unter Manasse war es wohl vergessen oder versteckt worden.
+> Viele Fachleute meinen, dass es sich um das 5. Buch Mose (Deuteronomium) handelte, oder um einen großen Teil davon. Denn Josias Reformen passen sehr genau zu dem, was dort steht.
+> Josia zerreißt seine Kleider. Das ist ein Zeichen tiefer Trauer und Erschütterung. Er merkt: Wir haben Gottes Wort nicht gehalten. Er nimmt Gottes Wort ernst.
+> Er fragt auch für „die, die in Israel übrig geblieben sind“. Er denkt an das ganze Volk.
+
+---
+
+### Die Prophetin Hulda (Vers 22–28)
+
+<sup>22</sup>Da gingen Hilkija und die, die der König bestimmt hatte, zur Prophetin Hulda,
+der Frau Schallums, des Sohnes Tokhats, des Sohnes Hasras,
+des Hüters der Kleiderkammer.
+Sie wohnte in Jerusalem im zweiten Stadtteil.
+Und sie redeten in diesem Sinn mit ihr.
+<sup>23</sup>Sie sagte zu ihnen:
+„So spricht der HERR, der Gott Israels:
+‚Sagt dem Mann, der euch zu mir geschickt hat:
+<sup>24</sup>So spricht der HERR:
+Schau, ich bringe Unheil über diesen Ort und über seine Bewohner,
+alle Flüche, die in dem Buch geschrieben stehen,
+das man vor dem König von Juda gelesen hat.
+<sup>25</sup>Weil sie mich verlassen haben
+und anderen Göttern geräuchert haben,
+um mich mit allen Werken ihrer Hände zum Zorn zu reizen,
+darum hat sich mein Zorn über diesen Ort ergossen,
+und er wird nicht erlöschen.‘
+<sup>26</sup>Aber zum König von Juda, der euch geschickt hat, um den HERRN zu fragen,
+sollt ihr sagen:
+‚So spricht der HERR, der Gott Israels,
+über die Worte, die du gehört hast:
+<sup>27</sup>Weil dein Herz weich geworden ist
+und du dich vor Gott gedemütigt hast,
+als du seine Worte gegen diesen Ort und gegen seine Bewohner gehört hast,
+und weil du dich vor mir gedemütigt hast,
+deine Kleider zerrissen und vor mir geweint hast,
+darum habe auch ich dich gehört, spricht der HERR.
+<sup>28</sup>Schau, ich will dich zu deinen Vätern versammeln,
+und du wirst in Frieden in dein Grab gebracht werden.
+Deine Augen sollen all das Unheil nicht sehen,
+das ich über diesen Ort und über seine Bewohner bringen werde.‘“
+Sie brachten dem König diese Antwort.
+
+> **Was bedeutet das?**
+> Der König schickt seine wichtigsten Männer zu einer Frau: der Prophetin Hulda. Sie war damals eine anerkannte Prophetin. Das zeigt: Gott spricht auch durch Frauen. Zur selben Zeit lebten die Propheten Jeremia und Zefanja.
+> Hulda sagt zwei Dinge: Das Gericht über Jerusalem wird kommen, weil das Volk Gott so lange verlassen hat. Aber Josia wird es nicht erleben, weil sein Herz weich geworden ist und er sich gedemütigt hat.
+> „In Frieden in dein Grab“: Josia stirbt später in einer Schlacht (Kapitel 35). Gemeint ist wohl: Er stirbt, bevor Jerusalem zerstört wird. Er muss den Untergang nicht mehr sehen.
+> „Der zweite Stadtteil“ war wohl ein neuer Stadtteil im Nordwesten Jerusalems.
+
+---
+
+### Der Bund (Vers 29–33)
+
+<sup>29</sup>Da schickte der König hin
+und versammelte alle Ältesten von Juda und Jerusalem.
+<sup>30</sup>Der König ging hinauf in das Haus des HERRN
+mit allen Männern Judas und den Bewohnern Jerusalems,
+den Priestern, den Leviten und dem ganzen Volk, groß und klein.
+Und er las ihnen alle Worte des Bundesbuches vor,
+das im Haus des HERRN gefunden worden war.
+<sup>31</sup>Der König stand an seinem Platz
+und schloss einen Bund vor dem HERRN:
+dem HERRN nachzufolgen
+und seine Gebote, seine Zeugnisse und seine Satzungen zu halten,
+mit ganzem Herzen und mit ganzer Seele,
+um die Worte des Bundes zu tun, die in diesem Buch geschrieben stehen.
+<sup>32</sup>Er ließ alle, die in Jerusalem und Benjamin waren, in den Bund eintreten.
+Und die Bewohner Jerusalems handelten nach dem Bund Gottes, des Gottes ihrer Väter.
+<sup>33</sup>Josia entfernte alle Gräuel aus allen Gebieten, die den Kindern Israels gehörten,
+und brachte alle, die in Israel waren, dazu, zu dienen,
+dem HERRN, ihrem Gott, zu dienen.
+Alle seine Tage wichen sie nicht davon ab, dem HERRN, dem Gott ihrer Väter, nachzufolgen.
+
+> **Was bedeutet das?**
+> Josia behält das Gesetzbuch nicht für sich. Er liest es dem ganzen Volk vor, „groß und klein“. Jeder soll Gottes Wort hören.
+> Dann verspricht er feierlich, nach Gottes Wort zu leben, „mit ganzem Herzen und mit ganzer Seele“ (vgl. 5. Mose 6,5).
+> Obwohl Hulda gesagt hatte, dass das Gericht kommt, tut Josia das Richtige. Er gehorcht Gott, nicht um eine Belohnung zu bekommen, sondern weil es richtig ist.
+> „Er ließ alle in den Bund eintreten“: Wörtlich „er ließ sie stehen“, also feierlich aufstehen und zustimmen.
+> „Alle seine Tage“: Solange Josia lebte, blieb das Volk Gott treu. Nach seinem Tod fiel es wieder ab.
+
+## 2. Chronik – Kapitel 35
+#### Josias Passa und sein Tod
+
+---
+
+### Vorbereitung des Passafests (Vers 1–6)
+
+<sup>1</sup>Josia feierte dem HERRN ein Passa in Jerusalem.
+Sie schlachteten das Passa am 14. Tag des ersten Monats.
+<sup>2</sup>Er stellte die Priester an ihren Dienst
+und ermutigte sie zum Dienst im Haus des HERRN.
+<sup>3</sup>Er sagte zu den Leviten, die ganz Israel lehrten
+und die dem HERRN geheiligt waren:
+„Stellt die heilige Lade in das Haus,
+das Salomo, der Sohn Davids, der König von Israel, gebaut hat.
+Ihr sollt sie nicht mehr auf euren Schultern tragen.
+Dient jetzt dem HERRN, eurem Gott, und seinem Volk Israel.
+<sup>4</sup>Bereitet euch vor nach euren Familien, nach euren Abteilungen,
+nach der Schrift Davids, des Königs von Israel,
+und nach der Schrift seines Sohnes Salomo.
+<sup>5</sup>Stellt euch im Heiligtum auf,
+nach den Abteilungen der Familien eurer Brüder, der Leute aus dem Volk,
+und für jede Familie soll es einen Teil einer Levitenfamilie geben.
+<sup>6</sup>Schlachtet das Passalamm,
+heiligt euch
+und bereitet es für eure Brüder vor,
+um nach dem Wort des HERRN durch Mose zu handeln.“
+
+> **Was bedeutet das?**
+> Diese Geschichte steht kürzer in 2. Könige 23,21–23. Das Passa fand im 18. Jahr Josias statt, im selben Jahr, in dem das Gesetzbuch gefunden wurde (Vers 19).
+> Vers 3 ist rätselhaft. Die Lade gehörte doch schon seit Salomo in den Tempel. Vielleicht wurde sie unter Manasse oder Amon entfernt und jetzt zurückgebracht. Oder Josia meint: Ihr müsst die Lade nicht mehr tragen wie in der Wüste. Darum habt ihr jetzt Zeit für einen anderen Dienst: dem Volk zu dienen.
+> Die Leviten werden hier als Lehrer bezeichnet, „die ganz Israel lehrten“. Das war eine wichtige Aufgabe.
+> Was später mit der Bundeslade geschah, erzählt die Bibel nicht. Sie wird hier zum letzten Mal in den Geschichtsbüchern erwähnt.
+
+---
+
+### Großzügige Gaben (Vers 7–9)
+
+<sup>7</sup>Josia gab den Leuten aus dem Volk Kleinvieh,
+Lämmer und junge Ziegen,
+alles für die Passaopfer,
+für alle, die da waren,
+30 000 Stück und 3000 Rinder.
+Das war aus dem Besitz des Königs.
+<sup>8</sup>Seine Fürsten gaben freiwillig für das Volk, für die Priester und für die Leviten.
+Hilkija, Secharja und Jehiël, die Vorsteher des Hauses Gottes,
+gaben den Priestern für die Passaopfer
+2600 Stück Kleinvieh und 300 Rinder.
+<sup>9</sup>Auch Konanja und seine Brüder Schemaja und Netanel,
+und Haschabja, Jëiël und Josabad, die Obersten der Leviten,
+gaben den Leviten für die Passaopfer
+5000 Stück Kleinvieh und 500 Rinder.
+
+> **Was bedeutet das?**
+> Der König gibt aus seinem eigenen Besitz, damit auch die Armen das Fest feiern können. Die Fürsten und die Obersten folgen seinem Beispiel.
+> „Kleinvieh“ sind Schafe und Ziegen.
+
+---
+
+### Das Fest wird gefeiert (Vers 10–19)
+
+<sup>10</sup>So wurde der Dienst vorbereitet.
+Die Priester standen an ihrem Platz
+und die Leviten nach ihren Abteilungen,
+nach dem Befehl des Königs.
+<sup>11</sup>Sie schlachteten die Passalämmer,
+und die Priester sprengten das Blut, das sie aus ihrer Hand empfingen,
+und die Leviten zogen ihnen die Haut ab.
+<sup>12</sup>Sie legten die Brandopfer beiseite,
+um sie den Abteilungen der Familien des Volkes zu geben,
+damit sie sie dem HERRN darbrachten,
+wie es im Buch des Mose geschrieben steht.
+Ebenso machten sie es mit den Rindern.
+<sup>13</sup>Sie brieten das Passa am Feuer nach der Vorschrift.
+Die heiligen Gaben kochten sie in Töpfen, Kesseln und Pfannen
+und brachten sie schnell zu allen Leuten aus dem Volk.
+<sup>14</sup>Danach bereiteten sie es für sich selbst und für die Priester vor.
+Denn die Priester, die Söhne Aarons, waren bis zur Nacht damit beschäftigt,
+die Brandopfer und die Fettstücke darzubringen.
+Darum bereiteten die Leviten es für sich selbst und für die Priester, die Söhne Aarons, vor.
+<sup>15</sup>Die Sänger, die Söhne Asafs, waren an ihrem Platz,
+nach dem Gebot Davids, Asafs, Hemans und Jedutuns, des Sehers des Königs.
+Und die Torhüter waren an jedem Tor.
+Sie brauchten ihren Dienst nicht zu verlassen,
+denn ihre Brüder, die Leviten, bereiteten es für sie vor.
+<sup>16</sup>So wurde der ganze Dienst des HERRN an diesem Tag vorbereitet,
+um das Passa zu feiern
+und Brandopfer auf dem Altar des HERRN darzubringen,
+nach dem Befehl des Königs Josia.
+<sup>17</sup>Die Kinder Israels, die da waren,
+feierten zu dieser Zeit das Passa
+und sieben Tage lang das Fest der ungesäuerten Brote.
+<sup>18</sup>Seit den Tagen des Propheten Samuel
+war in Israel kein solches Passa gefeiert worden.
+Keiner der Könige von Israel hatte ein solches Passa gefeiert wie Josia,
+mit den Priestern, den Leviten, ganz Juda und Israel, das da war,
+und den Bewohnern Jerusalems.
+<sup>19</sup>Dieses Passa wurde im 18. Jahr der Regierung Josias gefeiert.
+
+> **Was bedeutet das?**
+> Alles ist gut organisiert. Jeder hat seine Aufgabe. Die Leviten sorgen dafür, dass alle ihr Essen bekommen: das Volk, die Priester, die Sänger und die Torhüter. Niemand wird vergessen.
+> Das Passalamm wurde gebraten, wie es in 2. Mose 12,8–9 steht. Die anderen Opfer wurden gekocht.
+> Vers 18: „Seit Samuel“ kein solches Passa. Auch Hiskijas Passa (Kapitel 30) war groß, aber es fand im zweiten Monat statt, und viele waren nicht gereinigt. Josias Passa war genau nach dem Gesetz.
+
+---
+
+### Josias Tod bei Megiddo (Vers 20–27)
+
+<sup>20</sup>Nach all dem, als Josia den Tempel hergerichtet hatte,
+zog Necho, der König von Ägypten, herauf,
+um bei Karkemisch am Euphrat zu kämpfen.
+Und Josia zog ihm entgegen.
+<sup>21</sup>Aber Necho schickte Boten zu ihm und ließ ihm sagen:
+„Was habe ich mit dir zu tun, König von Juda?
+Ich komme heute nicht gegen dich,
+sondern gegen das Haus, mit dem ich Krieg habe.
+Gott hat mir befohlen, mich zu beeilen.
+Hüte dich vor Gott, der mit mir ist,
+damit er dich nicht vernichtet.“
+<sup>22</sup>Doch Josia wandte sein Gesicht nicht von ihm ab,
+sondern verkleidete sich, um mit ihm zu kämpfen.
+Er hörte nicht auf die Worte Nechos, die aus dem Mund Gottes kamen,
+und kam, um im Tal von Megiddo zu kämpfen.
+<sup>23</sup>Die Bogenschützen schossen auf den König Josia.
+Da sagte der König zu seinen Dienern:
+„Bringt mich weg, denn ich bin schwer verwundet!“
+<sup>24</sup>Da hoben ihn seine Diener aus dem Wagen,
+setzten ihn in seinen zweiten Wagen
+und brachten ihn nach Jerusalem.
+Dort starb er
+und wurde in den Gräbern seiner Väter begraben.
+Ganz Juda und Jerusalem trauerten um Josia.
+<sup>25</sup>Jeremia stimmte ein Klagelied über Josia an.
+Und alle Sänger und Sängerinnen sprechen in ihren Klageliedern von Josia bis heute.
+Man machte es zu einem festen Brauch in Israel.
+Schau, sie sind in den Klageliedern aufgeschrieben.
+<sup>26</sup>Die übrige Geschichte Josias und seine guten Taten,
+wie es im Gesetz des HERRN geschrieben steht,
+<sup>27</sup>und seine Geschichte, die frühere und die spätere,
+schau, sie ist aufgeschrieben im Buch der Könige von Israel und Juda.
+
+> **Was bedeutet das?**
+> Im Jahr 609 vor Christus zog Pharao Necho II. nach Norden, um den Assyrern gegen die Babylonier zu helfen. Josia wollte ihn aufhalten.
+> Das Erstaunliche: Gott sprach diesmal durch einen fremden König. Necho warnte Josia. Aber Josia hörte nicht. Er hielt es wohl nicht für möglich, dass Gott durch einen Ägypter spricht.
+> Wie Ahab (Kapitel 18,29) verkleidet sich Josia. Und wie Ahab wird er von Bogenschützen getroffen. Selbst ein so guter König kann einen tödlichen Fehler machen, wenn er nicht hinhört.
+> Die Trauer um Josia war riesig. Er war der letzte gute König Judas. Der Prophet Sacharja erwähnt noch viel später die große Klage „im Tal von Megiddo“ (Sacharja 12,11).
+> Die „Klagelieder“ in Vers 25 sind nicht dasselbe wie das biblische Buch „Klagelieder“, das über die Zerstörung Jerusalems klagt. Diese Sammlung gibt es nicht mehr.
+> Vom Namen Megiddo kommt das Wort „Harmagedon“ (Berg von Megiddo) in Offenbarung 16,16.
+
+## 2. Chronik – Kapitel 36
+#### Der Untergang Jerusalems und ein neuer Anfang
+
+---
+
+### Joahas (Vers 1–4)
+
+<sup>1</sup>Dann nahm das Volk des Landes Joahas, den Sohn Josias,
+und machte ihn an der Stelle seines Vaters in Jerusalem zum König.
+<sup>2</sup>Joahas war 23 Jahre alt, als er König wurde,
+und er regierte drei Monate in Jerusalem.
+<sup>3</sup>Der König von Ägypten setzte ihn in Jerusalem ab
+und legte dem Land eine Strafe auf:
+3400 Kilogramm Silber und 34 Kilogramm Gold.
+<sup>4</sup>Der König von Ägypten machte Eljakim, seinen Bruder, zum König über Juda und Jerusalem
+und änderte seinen Namen in Jojakim.
+Necho nahm Joahas, seinen Bruder, und brachte ihn nach Ägypten.
+
+> **Was bedeutet das?**
+> Jetzt geht es sehr schnell bergab. Die Chronik erzählt die letzten vier Könige Judas in nur wenigen Versen. Ausführlicher steht es in 2. Könige 23,31–25,30.
+> In der Bibel steht „100 Talente Silber und ein Talent Gold“. Ein Talent sind etwa 34 Kilogramm.
+> Juda ist nicht mehr frei. Der Pharao setzt Könige ab und ein, wie er will. Und er gibt ihnen neue Namen. Das zeigt: Der König ist jetzt sein Diener.
+
+---
+
+### Jojakim (Vers 5–8)
+
+<sup>5</sup>Jojakim war 25 Jahre alt, als er König wurde,
+und er regierte elf Jahre in Jerusalem.
+Er tat, was böse war in den Augen des HERRN, seines Gottes.
+<sup>6</sup>Nebukadnezar, der König von Babel, zog gegen ihn herauf
+und band ihn mit Fesseln, um ihn nach Babel zu bringen.
+<sup>7</sup>Nebukadnezar brachte auch einige von den Geräten des Hauses des HERRN nach Babel
+und stellte sie in seinen Tempel in Babel.
+<sup>8</sup>Die übrige Geschichte Jojakims und seine Gräuel, die er tat,
+und was an ihm gefunden wurde,
+schau, das ist aufgeschrieben im Buch der Könige von Israel und Juda.
+Und sein Sohn Jojachin wurde an seiner Stelle König.
+
+> **Was bedeutet das?**
+> Jojakim regierte etwa von 609 bis 598 vor Christus. Der Prophet Jeremia hat ihn scharf kritisiert. Jojakim verbrannte sogar eine Schriftrolle mit Jeremias Worten (Jeremia 36).
+> Nebukadnezar II. war der mächtigste König seiner Zeit. Er regierte etwa von 605 bis 562 vor Christus. Er hatte die Ägypter bei Karkemisch geschlagen (605 vor Christus).
+> Ob Jojakim wirklich nach Babel gebracht wurde, sagt der Text nicht genau. Nach 2. Könige 24,6 starb er in Jerusalem. Vielleicht wurde er nur bedroht, oder er wurde wieder freigelassen.
+> Die Geräte des Tempels kommen später zurück (Esra 1,7–11). Sie spielen auch im Buch Daniel eine Rolle (Daniel 5).
+
+---
+
+### Jojachin (Vers 9–10)
+
+<sup>9</sup>Jojachin war acht Jahre alt, als er König wurde,
+und er regierte drei Monate und zehn Tage in Jerusalem.
+Er tat, was böse war in den Augen des HERRN.
+<sup>10</sup>Um die Jahreswende schickte der König Nebukadnezar hin
+und ließ ihn nach Babel bringen,
+mit den kostbaren Geräten des Hauses des HERRN.
+Und er machte Zidkija, seinen Bruder, zum König über Juda und Jerusalem.
+
+> **Was bedeutet das?**
+> In 2. Könige 24,8 steht „18 Jahre“. Das passt besser, denn er hatte schon Frauen (2. Könige 24,15). Beim Abschreiben ist hier wohl die „Zehn“ verloren gegangen.
+> Jojachin wurde 597 vor Christus nach Babel gebracht. Mit ihm wurden viele Menschen weggeführt, auch der Prophet Hesekiel.
+> Zidkija war eigentlich sein Onkel, ein Sohn Josias (2. Könige 24,17). „Bruder“ kann im Hebräischen auch „Verwandter“ heißen.
+> In Babel fand man Tontafeln, auf denen Lebensmittelrationen für „Jojachin, den König von Juda“ und seine Söhne aufgeschrieben sind.
+
+---
+
+### Zidkija und die Schuld des Volkes (Vers 11–16)
+
+<sup>11</sup>Zidkija war 21 Jahre alt, als er König wurde,
+und er regierte elf Jahre in Jerusalem.
+<sup>12</sup>Er tat, was böse war in den Augen des HERRN, seines Gottes.
+Er demütigte sich nicht vor dem Propheten Jeremia,
+der aus dem Mund des HERRN redete.
+<sup>13</sup>Er lehnte sich auch gegen den König Nebukadnezar auf,
+der ihn bei Gott hatte schwören lassen.
+Er machte seinen Nacken steif
+und verhärtete sein Herz,
+sodass er nicht zum HERRN, dem Gott Israels, umkehrte.
+<sup>14</sup>Auch alle Obersten der Priester und das Volk wurden sehr untreu,
+nach allen Gräueln der Völker.
+Sie verunreinigten das Haus des HERRN,
+das er in Jerusalem geheiligt hatte.
+<sup>15</sup>Der HERR, der Gott ihrer Väter, schickte immer wieder seine Boten zu ihnen,
+früh und unermüdlich,
+denn er hatte Mitleid mit seinem Volk und mit seiner Wohnung.
+<sup>16</sup>Aber sie verspotteten die Boten Gottes,
+verachteten seine Worte
+und verhöhnten seine Propheten,
+bis der Zorn des HERRN gegen sein Volk so groß wurde,
+dass es keine Heilung mehr gab.
+
+> **Was bedeutet das?**
+> Zidkija regierte etwa von 597 bis 586 vor Christus. Er war schwach und unentschlossen. Jeremia warnte ihn immer wieder, aber er hörte nicht.
+> Er brach auch seinen Eid gegenüber Nebukadnezar, den er bei Gott geschworen hatte (vgl. Hesekiel 17,13–19).
+> Vers 15 ist einer der berührendsten Verse der Bibel: Gott schickte „früh und unermüdlich“ seine Boten, „denn er hatte Mitleid mit seinem Volk“. Gott hat nicht schnell bestraft. Er hat jahrhundertelang gewartet und gewarnt.
+> Aber das Volk verspottete die Propheten. Am Ende gab es „keine Heilung mehr“. Das Gericht war nicht Gottes erster Wunsch, sondern die Folge davon, dass das Volk jede Hilfe ablehnte.
+> Jesus klagt ähnlich über Jerusalem: „Wie oft wollte ich deine Kinder sammeln … und ihr habt nicht gewollt“ (Matthäus 23,37).
+
+---
+
+### Die Zerstörung Jerusalems (Vers 17–21)
+
+<sup>17</sup>Darum ließ er den König der Chaldäer gegen sie heraufziehen.
+Der tötete ihre jungen Männer mit dem Schwert im Haus ihres Heiligtums
+und hatte kein Mitleid mit jungem Mann oder junger Frau,
+mit Alten oder Gebrechlichen.
+Er gab sie alle in seine Hand.
+<sup>18</sup>Alle Geräte des Hauses Gottes, große und kleine,
+die Schätze des Hauses des HERRN
+und die Schätze des Königs und seiner Fürsten,
+das alles brachte er nach Babel.
+<sup>19</sup>Sie verbrannten das Haus Gottes,
+rissen die Mauer Jerusalems nieder,
+verbrannten alle ihre Paläste mit Feuer
+und zerstörten alle ihre kostbaren Geräte.
+<sup>20</sup>Die dem Schwert entkommen waren, führte er nach Babel weg.
+Sie wurden ihm und seinen Söhnen Diener,
+bis das Königreich Persien zur Herrschaft kam.
+<sup>21</sup>So erfüllte sich das Wort des HERRN durch den Mund Jeremias:
+bis das Land seine Sabbate nachgeholt hatte.
+Solange es verwüstet lag, hielt es Sabbat,
+bis 70 Jahre voll waren.
+
+> **Was bedeutet das?**
+> Im Jahr 586 vor Christus eroberten die Babylonier („Chaldäer“) Jerusalem. Sie verbrannten den Tempel, den Salomo gebaut hatte. Das war die größte Katastrophe in der Geschichte des alten Israel.
+> Vers 17 beschreibt furchtbares Leid: Junge und Alte, Männer und Frauen werden getötet. Die Bibel verschweigt das Leid nicht. Das Buch der Klagelieder und Psalm 137 zeigen, wie tief der Schmerz war.
+> Vers 21 erklärt die Zeit der Verbannung auf besondere Weise: Nach dem Gesetz sollte das Land alle sieben Jahre ein Ruhejahr haben, ein „Sabbatjahr“ (3. Mose 25,1–7). Das Volk hatte das nicht eingehalten. Jetzt bekommt das Land seine Ruhe zurück (vgl. 3. Mose 26,34–35).
+> Jeremia hatte 70 Jahre angekündigt (Jeremia 25,11–12; 29,10). Die Zahl 70 ist eine runde Zahl für eine lange Zeit, etwa ein Menschenleben.
+
+---
+
+### Das Edikt des Kyrus: ein neuer Anfang (Vers 22–23)
+
+<sup>22</sup>Im ersten Jahr des Kyrus, des Königs von Persien,
+damit sich das Wort des HERRN durch den Mund Jeremias erfüllte,
+erweckte der HERR den Geist des Kyrus, des Königs von Persien,
+sodass er in seinem ganzen Königreich ausrufen ließ
+und es auch schriftlich bekannt gab:
+<sup>23</sup>„So spricht Kyrus, der König von Persien:
+‚Der HERR, der Gott des Himmels,
+hat mir alle Königreiche der Erde gegeben.
+Und er hat mir befohlen, ihm ein Haus in Jerusalem zu bauen, das in Juda liegt.
+Wer unter euch zu seinem ganzen Volk gehört,
+mit dem sei der HERR, sein Gott,
+und er ziehe hinauf!‘“
+
+> **Was bedeutet das?**
+> Im Jahr 539 vor Christus eroberte der Perserkönig Kyrus Babel. Ein Jahr später erlaubte er den verbannten Völkern, in ihre Heimat zurückzukehren und ihre Tempel wieder aufzubauen. Auf dem sogenannten „Kyros-Zylinder“, einer Tonwalze im Britischen Museum, berichtet Kyrus selbst von dieser Politik.
+> Das Buch endet nicht mit der Zerstörung, sondern mit einem neuen Anfang. Das letzte Wort heißt: „Er ziehe hinauf!“ Im Hebräischen ist das ein einziges Wort: „weja'al“.
+> In der hebräischen Bibel ist die Chronik das letzte Buch. Die ganze hebräische Bibel endet also mit diesem Satz: einer Einladung, nach Hause zurückzukehren und neu mit Gott anzufangen.
+> Dieselben Worte stehen am Anfang des Buches Esra (Esra 1,1–3). Dort geht die Geschichte weiter.
+
+---
+
+### Rückblick: Was haben wir im 2. Buch der Chronik gelesen?
+
+> **Was bedeutet das?**
+> **Salomo und der Tempel (Kapitel 1–9):** Salomo bittet Gott um Weisheit und baut den Tempel. Bei der Einweihung kommt Gottes Herrlichkeit in einer Wolke in das Haus. Gott verspricht: „Wenn mein Volk sich demütigt, betet und mein Angesicht sucht, will ich vom Himmel her hören und vergeben“ (Kapitel 7,14). Dieser Vers ist der Schlüssel zum ganzen Buch.
+> **Das geteilte Reich (Kapitel 10):** Weil Rehabeam nicht auf das Volk hört, zerfällt das Reich in Norden und Süden. Die Chronik erzählt von da an von den Königen Judas in Jerusalem.
+> **Gute und schlechte Könige (Kapitel 11–36):** Immer wieder dasselbe Muster: Wer Gott sucht, dem gelingt es. Wer Gott verlässt, den verlässt auch Gott. Aber wer sich demütigt, findet Gnade.
+> – **Gute Könige** wie Asa, Joschafat, Hiskija und Josia suchen Gott, beten in der Not und erneuern den Gottesdienst. Doch auch sie machen Fehler.
+> – **Schlechte Könige** wie Ahas und Manasse dienen fremden Göttern. Aber selbst Manasse, der schlimmste von allen, darf umkehren, und Gott vergibt ihm.
+> **Die Propheten:** Gott schickt immer wieder Boten: Schemaja, Asarja, Hanani, Micha, Jahasiël, Elija, Secharja, Oded, Jesaja, Hulda, Jeremia und viele andere. Gott warnt, bevor er straft, weil er „Mitleid mit seinem Volk“ hat (Kapitel 36,15).
+> **Gebet und Lob:** Die Könige beten in großer Not, und Gott hilft. Unter Joschafat ziehen die Sänger vor dem Heer her und loben Gott, und Gott rettet. „Der Kampf ist nicht eure Sache, sondern Gottes“ (Kapitel 20,15).
+> **Das Ende und der neue Anfang:** Weil das Volk die Propheten verspottet, wird Jerusalem zerstört. Aber das Buch endet mit Hoffnung: Der Perserkönig Kyrus erlaubt die Rückkehr und den Bau eines neuen Tempels. Das letzte Wort heißt: „Er ziehe hinauf!“
+> **Die Lehre des Buches:** Gott sieht auf das Herz. Es kommt nicht darauf an, wie stark ein Heer ist oder wie reich ein König, sondern ob man Gott „mit ganzem Herzen“ sucht. Und es ist nie zu spät, umzukehren.
+> **Wie geht es weiter?** Das Buch Esra erzählt, wie die Verbannten nach Jerusalem zurückkehren und den Tempel wieder aufbauen.
