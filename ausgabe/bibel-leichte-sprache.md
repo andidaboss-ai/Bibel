@@ -61983,3 +61983,393 @@ und in der Sprache seines Volkes reden solle.
 > Das Ergebnis ist lächerlich: Ein Gesetz für das ganze Weltreich, dass jeder Mann „Herr in seinem Haus“ sein soll. Als ob man Respekt mit einem Gesetz befehlen könnte! Die Bibel erzählt das mit feinem Humor. Sie lobt dieses Gesetz nicht.
 > Die Bibel lehrt an anderen Stellen, dass Mann und Frau einander achten und lieben sollen (zum Beispiel 1. Mose 2,24; Epheser 5,21–33).
 > Durch Waschtis Absetzung wird der Platz frei für Ester. So beginnt Gottes verborgener Plan.
+
+## Ester – Kapitel 2
+#### Ester wird Königin
+
+---
+
+### Die Suche nach einer neuen Königin (Vers 1–4)
+
+<sup>1</sup>Nach diesen Ereignissen,
+als sich der Zorn des Königs Ahasveros gelegt hatte,
+dachte er an Waschti,
+an das, was sie getan hatte,
+und an das, was über sie beschlossen worden war.
+<sup>2</sup>Da sagten die Diener des Königs, die ihm dienten:
+„Man soll für den König schöne junge Mädchen suchen, die noch Jungfrauen sind.
+<sup>3</sup>Der König soll in allen Provinzen seines Königreichs Beamte einsetzen,
+damit sie alle schönen jungen Jungfrauen in der Burg Susa versammeln,
+im Frauenhaus,
+unter der Aufsicht Hegais, des Kämmerers des Königs, des Hüters der Frauen.
+Man soll ihnen Schönheitsmittel geben.
+<sup>4</sup>Und das Mädchen, das dem König gefällt,
+soll an Waschtis Stelle Königin werden.“
+Der Vorschlag gefiel dem König, und er machte es so.
+
+> **Was bedeutet das?**
+> Der Zorn des Königs hat sich gelegt. Vielleicht vermisst er Waschti sogar. Aber das Gesetz kann nicht geändert werden (Kapitel 1,19).
+> Die Diener schlagen eine Art „Schönheitswettbewerb“ vor. Für die jungen Frauen war das kein Spiel. Sie wurden aus ihren Familien geholt und hatten keine Wahl. Sie kamen in den Harem des Königs. Die meisten sahen den König nur einmal und lebten danach abgeschieden im Frauenhaus.
+> Die Bibel beschreibt diese Zustände, ohne sie gut zu heißen.
+
+---
+
+### Mordechai und Ester (Vers 5–7)
+
+<sup>5</sup>In der Burg Susa lebte ein Jude namens Mordechai,
+der Sohn Jaïrs, des Sohnes Schimis, des Sohnes des Kisch, ein Benjaminiter.
+<sup>6</sup>Er war aus Jerusalem weggeführt worden mit den Gefangenen,
+die mit Jechonja, dem König von Juda, weggeführt worden waren,
+die Nebukadnezar, der König von Babel, weggeführt hatte.
+<sup>7</sup>Er zog Hadassa auf, das ist Ester,
+die Tochter seines Onkels.
+Denn sie hatte weder Vater noch Mutter.
+Das Mädchen war schön und von schöner Gestalt.
+Als ihr Vater und ihre Mutter gestorben waren,
+nahm Mordechai sie als seine Tochter an.
+
+> **Was bedeutet das?**
+> Mordechai stammt aus dem Stamm Benjamin, wie König Saul, dessen Vater auch Kisch hieß. Das wird später wichtig (Kapitel 3,1).
+> Vers 6 meint wohl: Seine Familie (vielleicht sein Urgroßvater Kisch) war 597 vor Christus mit König Jechonja (Jojachin) verschleppt worden. Mordechai selbst wäre sonst über 100 Jahre alt gewesen.
+> Ester hat zwei Namen: Hadassa ist hebräisch und bedeutet „Myrte“. Ester ist persisch und bedeutet wohl „Stern“.
+> Ester ist eine Waise. Ihr Cousin Mordechai hat sie wie eine Tochter aufgezogen. Er ist ein liebevoller Pflegevater.
+
+---
+
+### Ester im Frauenhaus (Vers 8–11)
+
+<sup>8</sup>Als nun der Befehl des Königs und sein Erlass bekannt wurden
+und viele Mädchen in der Burg Susa unter der Aufsicht Hegais versammelt wurden,
+wurde auch Ester in das Haus des Königs gebracht,
+unter die Aufsicht Hegais, des Hüters der Frauen.
+<sup>9</sup>Das Mädchen gefiel ihm,
+und sie fand Gunst bei ihm.
+Er gab ihr schnell ihre Schönheitsmittel und ihre Speiseanteile
+und die sieben ausgewählten Mädchen, die ihr aus dem Haus des Königs zustanden.
+Und er brachte sie und ihre Mädchen in den besten Teil des Frauenhauses.
+<sup>10</sup>Ester hatte nicht verraten, zu welchem Volk und zu welcher Familie sie gehörte,
+denn Mordechai hatte ihr befohlen, es nicht bekannt zu machen.
+<sup>11</sup>Mordechai ging jeden Tag vor dem Hof des Frauenhauses auf und ab,
+um zu erfahren, wie es Ester ging
+und was mit ihr geschehen würde.
+
+> **Was bedeutet das?**
+> Ester „wurde gebracht“. Sie hatte keine Wahl.
+> Ester gewinnt die Gunst Hegais. Das wird im Buch immer wieder gesagt: Ester findet Gunst bei allen. Das erinnert an Josef, der auch in einem fremden Land Gunst fand (1. Mose 39,4.21).
+> Warum sollte Ester verschweigen, dass sie Jüdin war? Vielleicht gab es schon damals Vorurteile gegen Juden. Mordechai wollte sie schützen.
+> Mordechai sorgt sich jeden Tag um seine Pflegetochter. Er kann sie nicht sehen, aber er kommt jeden Tag, um nachzufragen.
+
+---
+
+### Ein Jahr Vorbereitung (Vers 12–14)
+
+<sup>12</sup>Wenn die Reihe an jedes Mädchen kam,
+zum König Ahasveros hineinzugehen,
+nachdem sie zwölf Monate lang nach der Vorschrift für die Frauen behandelt worden war
+– denn so lange dauerte ihre Schönheitspflege:
+sechs Monate mit Myrrhenöl
+und sechs Monate mit Duftstoffen und Schönheitsmitteln für Frauen –,
+<sup>13</sup>dann ging das Mädchen so zum König:
+Alles, was sie wünschte, wurde ihr gegeben,
+um es aus dem Frauenhaus in das Haus des Königs mitzunehmen.
+<sup>14</sup>Am Abend ging sie hinein,
+und am Morgen kehrte sie in das zweite Frauenhaus zurück,
+unter die Aufsicht Schaaschgas', des Kämmerers des Königs, des Hüters der Nebenfrauen.
+Sie kam nicht mehr zum König,
+außer wenn der König Gefallen an ihr hatte
+und sie mit Namen gerufen wurde.
+
+> **Was bedeutet das?**
+> Ein ganzes Jahr Schönheitspflege für eine einzige Nacht. Danach wurde jede Frau eine „Nebenfrau“ des Königs und musste im zweiten Frauenhaus leben. Wenn der König sie nicht noch einmal rief, sah sie ihn nie wieder.
+> Das war ein trauriges Schicksal für viele junge Frauen. Die Bibel erzählt es nüchtern. Sie zeigt damit die Macht und die Willkür eines Königs, der Menschen wie Besitz behandelt.
+
+---
+
+### Ester wird Königin (Vers 15–18)
+
+<sup>15</sup>Als nun die Reihe an Ester kam,
+die Tochter Abihajils, des Onkels Mordechais,
+der sie als Tochter angenommen hatte,
+zum König hineinzugehen,
+verlangte sie nichts außer dem, was Hegai, der Kämmerer des Königs, der Hüter der Frauen, ihr riet.
+Und Ester fand Gunst in den Augen aller, die sie sahen.
+<sup>16</sup>So wurde Ester zum König Ahasveros in sein königliches Haus gebracht,
+im zehnten Monat, das ist der Monat Tebet,
+im siebten Jahr seiner Regierung.
+<sup>17</sup>Der König liebte Ester mehr als alle anderen Frauen,
+und sie fand Gunst und Güte bei ihm, mehr als alle anderen Jungfrauen.
+Er setzte ihr die königliche Krone auf
+und machte sie an Waschtis Stelle zur Königin.
+<sup>18</sup>Dann machte der König ein großes Festmahl für alle seine Fürsten und Diener,
+das Festmahl Esters.
+Er gewährte den Provinzen einen Steuererlass
+und gab Geschenke nach der Freigebigkeit des Königs.
+
+> **Was bedeutet das?**
+> Ester ist bescheiden. Sie verlangt nichts Besonderes, sondern hört auf den Rat Hegais.
+> Der Monat Tebet ist Dezember/Januar. Das siebte Jahr des Königs ist etwa 479 vor Christus. Zwischen Kapitel 1 und Kapitel 2 lagen also vier Jahre. In dieser Zeit führte Xerxes seinen Krieg gegen Griechenland.
+> Ester wird Königin. Eine jüdische Waise sitzt jetzt auf dem Thron des größten Reiches der Welt. Noch weiß niemand, warum das so wichtig ist.
+> „Steuererlass“: In der englischen Vorlage steht „Feiertag“. Das hebräische Wort kann beides bedeuten: eine Befreiung von Steuern oder von Arbeit.
+
+---
+
+### Mordechai rettet den König (Vers 19–23)
+
+<sup>19</sup>Als die Jungfrauen zum zweiten Mal versammelt wurden,
+saß Mordechai im Tor des Königs.
+<sup>20</sup>Ester hatte ihre Familie und ihr Volk noch nicht bekannt gemacht,
+wie Mordechai es ihr befohlen hatte.
+Denn Ester tat, was Mordechai sagte,
+so wie damals, als sie bei ihm aufwuchs.
+<sup>21</sup>In jenen Tagen, als Mordechai im Tor des Königs saß,
+wurden Bigtan und Teresch, zwei Kämmerer des Königs, die die Tür bewachten,
+zornig und wollten Hand an den König Ahasveros legen.
+<sup>22</sup>Mordechai erfuhr davon
+und sagte es der Königin Ester.
+Und Ester sagte es dem König im Namen Mordechais.
+<sup>23</sup>Die Sache wurde untersucht und als wahr befunden.
+Da wurden die beiden an einen Galgen gehängt.
+Und es wurde vor dem König im Buch der Chroniken aufgeschrieben.
+
+> **Was bedeutet das?**
+> „Im Tor des Königs sitzen“ heißt wohl: Mordechai hatte ein Amt am Hof. Das Tor war der Ort, wo Beamte arbeiteten und Recht gesprochen wurde.
+> Ester ist jetzt Königin, aber sie hört immer noch auf ihren Pflegevater. Sie ist ihm treu.
+> Mordechai rettet dem König das Leben. Aber er bekommt keine Belohnung. Die Sache wird nur in ein Buch geschrieben und scheint vergessen. Doch in Kapitel 6 wird genau dieses Buch eine große Rolle spielen. In der Geschichte von Ester ist nichts zufällig.
+> „Galgen“: Wörtlich steht „Holz“ oder „Pfahl“. Bei den Persern wurden Verurteilte oft auf einen Pfahl gespießt oder daran aufgehängt.
+> Xerxes wurde tatsächlich später, im Jahr 465 vor Christus, von Hofbeamten ermordet.
+
+## Ester – Kapitel 3
+#### Haman will alle Juden töten
+
+---
+
+### Mordechai verneigt sich nicht (Vers 1–6)
+
+<sup>1</sup>Nach diesen Ereignissen machte der König Ahasveros
+Haman, den Sohn Hammedatas, den Agagiter, groß.
+Er erhob ihn
+und setzte seinen Stuhl über alle Fürsten, die bei ihm waren.
+<sup>2</sup>Alle Diener des Königs, die im Tor des Königs waren,
+verneigten sich und warfen sich vor Haman nieder.
+Denn so hatte der König es über ihn befohlen.
+Aber Mordechai verneigte sich nicht
+und warf sich nicht vor ihm nieder.
+<sup>3</sup>Da sagten die Diener des Königs, die im Tor des Königs waren, zu Mordechai:
+„Warum übertrittst du das Gebot des Königs?“
+<sup>4</sup>Als sie es ihm Tag für Tag sagten
+und er nicht auf sie hörte,
+erzählten sie es Haman,
+um zu sehen, ob Mordechais Begründung Bestand haben würde.
+Denn er hatte ihnen gesagt, dass er ein Jude war.
+<sup>5</sup>Als Haman sah, dass Mordechai sich nicht verneigte
+und sich nicht vor ihm niederwarf,
+wurde Haman voller Zorn.
+<sup>6</sup>Aber er hielt es für zu gering, nur an Mordechai Hand anzulegen.
+Denn man hatte ihm gesagt, zu welchem Volk Mordechai gehörte.
+Darum suchte Haman, alle Juden im ganzen Königreich des Ahasveros zu vernichten,
+das Volk Mordechais.
+
+> **Was bedeutet das?**
+> Haman wird der zweitmächtigste Mann im Reich.
+> „Agagiter“ ist ein wichtiger Hinweis: Agag war ein König der Amalekiter, ein alter Feind Israels. König Saul, ein Benjaminiter, hatte gegen ihn gekämpft (1. Samuel 15). Jetzt stehen sich wieder ein Benjaminiter (Mordechai) und ein Agagiter (Haman) gegenüber. Der alte Konflikt lebt wieder auf.
+> Warum verneigt sich Mordechai nicht? Der Text sagt nur: „weil er Jude war“. Juden verneigten sich sonst durchaus vor Königen (zum Beispiel 2. Samuel 14,4). Vielleicht wurde Haman verehrt wie ein Gott. Oder Mordechai wollte sich nicht vor einem Amalekiter beugen.
+> Hamans Reaktion ist maßlos: Wegen eines einzigen Mannes will er ein ganzes Volk auslöschen. Das ist Hass gegen eine ganze Gruppe von Menschen.
+
+---
+
+### Das Los wird geworfen (Vers 7)
+
+<sup>7</sup>Im ersten Monat, das ist der Monat Nisan,
+im zwölften Jahr des Königs Ahasveros,
+warf man das Pur, das ist das Los, vor Haman,
+von Tag zu Tag und von Monat zu Monat.
+Und es fiel auf den zwölften Monat, das ist der Monat Adar.
+
+> **Was bedeutet das?**
+> „Pur“ ist ein altes Wort für „Los“. Haman lässt das Los werfen, um einen „glücklichen“ Tag für die Vernichtung zu finden. Vom Wort „Pur“ (Mehrzahl „Purim“) kommt der Name des Purimfestes (Kapitel 9,26).
+> Das Los fällt auf einen Tag elf Monate später. Haman muss also lange warten. Diese Zeit wird für die Rettung entscheidend sein. Die Bibel sagt: „Das Los wird in den Schoß geworfen, aber jede Entscheidung kommt vom HERRN“ (Sprüche 16,33).
+> Das zwölfte Jahr des Königs ist etwa 474 vor Christus. Ester ist schon fünf Jahre Königin.
+
+---
+
+### Haman überredet den König (Vers 8–11)
+
+<sup>8</sup>Haman sagte zum König Ahasveros:
+„Es gibt ein Volk,
+das zerstreut und abgesondert unter den Völkern lebt,
+in allen Provinzen deines Königreichs.
+Ihre Gesetze sind anders als die aller anderen Völker.
+Und die Gesetze des Königs halten sie nicht.
+Darum nützt es dem König nichts, sie gewähren zu lassen.
+<sup>9</sup>Wenn es dem König gefällt,
+soll man schreiben, dass sie vernichtet werden.
+Und ich will 340 000 Kilogramm Silber
+in die Hände der Beamten des Königs zahlen,
+damit sie es in die Schatzkammern des Königs bringen.“
+<sup>10</sup>Da nahm der König seinen Ring von seiner Hand
+und gab ihn Haman, dem Sohn Hammedatas, dem Agagiter,
+dem Feind der Juden.
+<sup>11</sup>Und der König sagte zu Haman:
+„Das Silber sei dir geschenkt,
+und auch das Volk.
+Mach mit ihnen, was dir gut erscheint.“
+
+> **Was bedeutet das?**
+> Hamans Rede ist ein Muster für Judenhass, wie er sich durch die Geschichte zieht:
+> – Er nennt das Volk nicht beim Namen.
+> – Er sagt: Sie sind anders als wir.
+> – Er mischt Wahrheit und Lüge: Die Juden hatten eigene Gesetze, ja. Aber dass sie die Gesetze des Königs nicht hielten, war gelogen. Mordechai hatte dem König sogar das Leben gerettet!
+> – Er macht daraus eine Gefahr für den Staat.
+> Solche Lügen haben in der Geschichte immer wieder zu Verfolgung und Mord geführt, bis hin zum Holocaust, in dem sechs Millionen Juden ermordet wurden. Das Buch Ester warnt: So fängt es an.
+> In der Bibel steht „10 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das war eine riesige Summe, vielleicht zwei Drittel der jährlichen Steuereinnahmen des ganzen Reiches. Haman wollte das Geld wohl aus dem Besitz der ermordeten Juden nehmen.
+> Der König fragt nicht einmal, welches Volk gemeint ist. Er gibt Haman seinen Siegelring, also volle Macht. Gleichgültigkeit kann genauso gefährlich sein wie Hass.
+> „Das Silber sei dir geschenkt“ war wohl eine höfliche Floskel. Später spricht Ester davon, dass ihr Volk „verkauft“ wurde (Kapitel 7,4).
+
+---
+
+### Der Mordbefehl (Vers 12–15)
+
+<sup>12</sup>Da wurden die Schreiber des Königs gerufen,
+im ersten Monat, am 13. Tag des Monats.
+Und es wurde alles so geschrieben, wie Haman befahl,
+an die Satrapen des Königs,
+an die Statthalter über jede Provinz
+und an die Fürsten jedes Volkes,
+an jede Provinz in ihrer Schrift
+und an jedes Volk in seiner Sprache.
+Es wurde im Namen des Königs Ahasveros geschrieben
+und mit dem Ring des Königs versiegelt.
+<sup>13</sup>Die Briefe wurden durch Läufer in alle Provinzen des Königs geschickt:
+alle Juden zu vertilgen, zu töten und umzubringen,
+Jung und Alt, Kinder und Frauen,
+an einem einzigen Tag,
+am 13. Tag des zwölften Monats, das ist der Monat Adar,
+und ihren Besitz zu plündern.
+<sup>14</sup>Eine Abschrift des Schreibens sollte in jeder Provinz als Gesetz bekannt gemacht werden
+und allen Völkern veröffentlicht werden,
+damit sie für diesen Tag bereit wären.
+<sup>15</sup>Die Läufer zogen eilig aus nach dem Befehl des Königs.
+Und der Erlass wurde in der Burg Susa bekannt gegeben.
+Der König und Haman setzten sich hin, um zu trinken.
+Aber die Stadt Susa war bestürzt.
+
+> **Was bedeutet das?**
+> Der Befehl wird am 13. Nisan geschrieben, einen Tag vor dem Passafest. Am Passafest feiern Juden die Befreiung aus Ägypten. Jetzt droht ihnen die Vernichtung.
+> „Satrapen“: In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+> Der Befehl ist ein Aufruf zum Völkermord: Alle Juden sollen getötet werden, auch Kinder und Frauen. Wer mitmacht, darf ihren Besitz rauben.
+> Vers 15 zeigt einen schrecklichen Gegensatz: Der König und Haman trinken gemütlich, während ein ganzes Volk zum Tod verurteilt ist. Aber die Stadt Susa ist bestürzt. Nicht alle Menschen sind mit dem Hass einverstanden.
+
+## Ester – Kapitel 4
+#### „Für eine Zeit wie diese“
+
+---
+
+### Trauer und Klage (Vers 1–3)
+
+<sup>1</sup>Als Mordechai alles erfuhr, was geschehen war,
+zerriss Mordechai seine Kleider,
+zog Sacktuch an und streute Asche auf sich,
+ging hinaus mitten in die Stadt
+und schrie laut und bitter.
+<sup>2</sup>Er kam bis vor das Tor des Königs.
+Denn niemand durfte in Sacktuch gekleidet durch das Tor des Königs hineingehen.
+<sup>3</sup>Und in jeder Provinz, wohin das Wort des Königs und sein Erlass kamen,
+war große Trauer bei den Juden,
+Fasten, Weinen und Klagen.
+Viele lagen in Sacktuch und Asche.
+
+> **Was bedeutet das?**
+> Mordechai trauert öffentlich. Sacktuch und Asche waren Zeichen tiefster Trauer und Buße.
+> Vor dem König durfte niemand traurig erscheinen (vgl. Nehemia 2,2). Darum bleibt Mordechai vor dem Tor.
+> Im ganzen Reich fasten und weinen die Juden. Fasten war in der Bibel immer mit Gebet verbunden. Auch wenn der Name Gottes nicht genannt wird: Das Volk wendet sich an Gott.
+
+---
+
+### Ester erfährt davon (Vers 4–9)
+
+<sup>4</sup>Esters Mädchen und ihre Kämmerer kamen und erzählten es ihr.
+Da wurde die Königin sehr erschrocken.
+Sie schickte Kleider für Mordechai,
+damit er sie anziehen und sein Sacktuch ablegen sollte.
+Aber er nahm sie nicht an.
+<sup>5</sup>Da rief Ester Hatach, einen der Kämmerer des Königs,
+den er ihr zur Bedienung gegeben hatte,
+und befahl ihm, zu Mordechai zu gehen,
+um zu erfahren, was das sei und warum.
+<sup>6</sup>Da ging Hatach hinaus zu Mordechai,
+auf den Platz der Stadt vor dem Tor des Königs.
+<sup>7</sup>Mordechai erzählte ihm alles, was ihm begegnet war,
+und den genauen Betrag des Silbers,
+den Haman versprochen hatte, in die Schatzkammern des Königs zu zahlen,
+für die Vernichtung der Juden.
+<sup>8</sup>Er gab ihm auch eine Abschrift des Erlasses,
+der in Susa zu ihrer Vernichtung bekannt gemacht worden war,
+damit er sie Ester zeige und es ihr erkläre
+und ihr auftrage, zum König hineinzugehen,
+ihn um Gnade anzuflehen
+und vor ihm für ihr Volk zu bitten.
+<sup>9</sup>Hatach kam und erzählte Ester die Worte Mordechais.
+
+> **Was bedeutet das?**
+> Ester wusste noch nichts von dem Befehl. Im Palast war sie von der Außenwelt abgeschnitten.
+> Zuerst will sie Mordechai nur trösten, mit neuen Kleidern. Aber Mordechai will keinen Trost. Er will, dass sie handelt.
+> Mordechai gibt ihr den Beweis: die Abschrift des Erlasses. Und er bittet sie: Geh zum König und bitte für dein Volk!
+
+---
+
+### Esters Angst (Vers 10–12)
+
+<sup>10</sup>Da sprach Ester zu Hatach
+und gab ihm eine Botschaft an Mordechai:
+<sup>11</sup>„Alle Diener des Königs und das Volk in den Provinzen des Königs wissen:
+Wer, ob Mann oder Frau, zum König in den inneren Hof kommt, ohne gerufen zu sein,
+für den gilt ein einziges Gesetz: Er muss sterben.
+Nur wem der König das goldene Zepter entgegenstreckt, der bleibt am Leben.
+Und ich bin seit 30 Tagen nicht gerufen worden,
+zum König hineinzukommen.“
+<sup>12</sup>Sie erzählten Mordechai die Worte Esters.
+
+> **Was bedeutet das?**
+> Ester hat Angst, und das zu Recht. Ungerufen zum König zu gehen, konnte den Tod bedeuten.
+> Seit 30 Tagen hat der König sie nicht gerufen. Vielleicht hat er das Interesse an ihr verloren. Das macht die Lage noch gefährlicher.
+
+---
+
+### Mordechais berühmte Antwort (Vers 13–14)
+
+<sup>13</sup>Da ließ Mordechai Ester antworten:
+„Denk nicht, dass du im Haus des Königs
+als Einzige von allen Juden davonkommen wirst.
+<sup>14</sup>Denn wenn du jetzt schweigst,
+dann wird den Juden Hilfe und Rettung von einem anderen Ort her kommen.
+Du aber und das Haus deines Vaters, ihr werdet umkommen.
+Und wer weiß, ob du nicht gerade für eine Zeit wie diese
+zum Königtum gekommen bist?“
+
+> **Was bedeutet das?**
+> Mordechais Antwort ist einer der bekanntesten Sätze der Bibel.
+> Er sagt drei Dinge:
+> – Auch im Palast bist du nicht sicher. Du bist auch Jüdin.
+> – Wenn du schweigst, wird Rettung „von einem anderen Ort“ kommen. Viele Ausleger sehen darin einen versteckten Hinweis auf Gott. Mordechai ist sicher: Gott lässt sein Volk nicht untergehen.
+> – „Wer weiß, ob du nicht gerade für eine Zeit wie diese Königin geworden bist?“ Vielleicht hatte alles, was Ester erlebt hat, einen Sinn. Vielleicht ist sie genau dafür an diesem Platz.
+> Dieser Satz ermutigt bis heute Menschen: Wo du gerade stehst, kannst du etwas Gutes bewirken. Vielleicht bist du genau dafür da.
+
+---
+
+### Esters Entscheidung (Vers 15–17)
+
+<sup>15</sup>Da ließ Ester Mordechai antworten:
+<sup>16</sup>„Geh hin und versammle alle Juden, die in Susa zu finden sind,
+und fastet für mich.
+Esst und trinkt drei Tage lang nichts, weder bei Nacht noch bei Tag.
+Auch ich und meine Mädchen wollen so fasten.
+Dann will ich zum König hineingehen,
+obwohl es gegen das Gesetz ist.
+Und wenn ich umkomme, dann komme ich um.“
+<sup>17</sup>Da ging Mordechai hin
+und tat alles, was Ester ihm geboten hatte.
+
+> **Was bedeutet das?**
+> Ester entscheidet sich. Aus der stillen jungen Frau, die immer auf andere gehört hat, wird eine mutige Anführerin. Jetzt gibt sie Mordechai Anweisungen.
+> Sie bittet alle, für sie zu fasten. Fasten bedeutet in der Bibel immer, Gott um Hilfe zu bitten. Auch wenn Gott nicht genannt wird, ist klar: Ester sucht Gottes Hilfe.
+> „Wenn ich umkomme, dann komme ich um.“ Ester setzt ihr Leben für ihr Volk ein. Das ist wahrer Mut: Man hat Angst und tut trotzdem das Richtige.
