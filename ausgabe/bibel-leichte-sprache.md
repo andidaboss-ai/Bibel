@@ -83512,3 +83512,350 @@ und seine köstlichen Früchte essen.
 > Vers 13–15: Der Garten ist voller kostbarer Pflanzen und Gewürze aus aller Welt. Er hat sogar eine eigene Quelle. Ein Paradies.
 > Vers 16: Jetzt antwortet die Frau: Sie lädt ihren Geliebten ein, in „seinen“ Garten zu kommen. Sie öffnet sich ihm aus freiem Willen. Liebe ist gegenseitig und freiwillig.
 > Das Hohelied spricht zart und offen über körperliche Liebe als etwas Schönes, das Gott geschenkt hat.
+
+## Hoheslied – Kapitel 5
+#### Das ist mein Geliebter
+
+---
+
+### Im Garten (Vers 1)
+
+<sup>1</sup>Ich bin in meinen Garten gekommen, meine Schwester, meine Braut.
+Ich habe meine Myrrhe mit meinem Gewürz gesammelt.
+Ich habe meine Wabe mit meinem Honig gegessen.
+Ich habe meinen Wein mit meiner Milch getrunken.
+Freunde: Esst, Freunde! Trinkt, ja, trinkt reichlich, ihr Geliebten!
+
+> **Was bedeutet das?**
+> Der Geliebte hat die Einladung aus Kapitel 4,16 angenommen. Er ist in „seinen Garten“ gekommen. Das ist ein zartes Bild für die Erfüllung ihrer Liebe.
+> Die Freunde freuen sich mit dem Paar und wünschen ihnen, dass sie die Liebe in vollen Zügen genießen.
+
+---
+
+### Er klopft an, und dann ist er fort (Vers 2–8)
+
+<sup>2</sup>Ich schlief, aber mein Herz war wach.
+Da ist die Stimme meines Geliebten, der anklopft:
+„Mach mir auf, meine Schwester, meine Liebste,
+meine Taube, meine Makellose!
+Denn mein Kopf ist voll Tau,
+mein Haar voll von der Feuchtigkeit der Nacht.“
+<sup>3</sup>Ich habe mein Gewand ausgezogen.
+Soll ich es wirklich wieder anziehen?
+Ich habe meine Füße gewaschen.
+Soll ich sie wirklich wieder schmutzig machen?
+<sup>4</sup>Mein Geliebter steckte seine Hand durch die Öffnung am Riegel.
+Mein Herz schlug heftig für ihn.
+<sup>5</sup>Ich stand auf, um meinem Geliebten zu öffnen.
+Meine Hände tropften von Myrrhe,
+meine Finger von flüssiger Myrrhe
+an den Griffen des Riegels.
+<sup>6</sup>Ich öffnete meinem Geliebten,
+aber mein Geliebter war fortgegangen, er war weg.
+Mein Herz verging, als er sprach.
+Ich suchte ihn, aber ich fand ihn nicht.
+Ich rief ihn, aber er antwortete nicht.
+<sup>7</sup>Die Wächter, die in der Stadt umhergehen, fanden mich.
+Sie schlugen mich. Sie verletzten mich.
+Die Wächter der Mauern nahmen mir meinen Umhang weg.
+<sup>8</sup>Ich beschwöre euch, ihr Töchter Jerusalems:
+Wenn ihr meinen Geliebten findet,
+dann sagt ihm, dass ich krank bin vor Liebe.
+
+> **Was bedeutet das?**
+> Eine Szene wie ein Traum: Sie schläft schon, da klopft er an. Sie zögert kurz: „Ich bin doch schon im Bett!“ Als sie dann öffnet, ist er weg.
+> Das kennen viele: Man zögert einen Moment zu lang und verpasst eine Gelegenheit. Danach ist die Sehnsucht umso größer.
+> Vers 7: Die Wächter behandeln sie brutal, als sie nachts allein unterwegs ist. Das ist Unrecht. Niemand darf Gewalt gegen eine Frau anwenden, egal wann und wo sie unterwegs ist.
+> Wer Gewalt erlebt: Hilfetelefon „Gewalt gegen Frauen“ 116 016, rund um die Uhr. In akuter Gefahr: Notruf 110.
+
+---
+
+### Wie ist dein Geliebter? (Vers 9–16)
+
+<sup>9</sup>Was hat dein Geliebter einem anderen Geliebten voraus,
+du Schönste unter den Frauen?
+Was hat dein Geliebter einem anderen Geliebten voraus,
+dass du uns so beschwörst?
+<sup>10</sup>Mein Geliebter ist strahlend und rötlich,
+der Beste unter Zehntausend.
+<sup>11</sup>Sein Kopf ist wie reinstes Gold.
+Sein Haar ist lockig, schwarz wie ein Rabe.
+<sup>12</sup>Seine Augen sind wie Tauben an Wasserbächen,
+in Milch gebadet, wie gefasste Edelsteine.
+<sup>13</sup>Seine Wangen sind wie ein Beet voller Gewürze,
+wie Türme von Wohlgerüchen.
+Seine Lippen sind wie Lilien,
+sie tropfen von flüssiger Myrrhe.
+<sup>14</sup>Seine Hände sind wie goldene Ringe,
+besetzt mit Beryll.
+Sein Leib ist wie ein Kunstwerk aus Elfenbein,
+mit Saphiren bedeckt.
+<sup>15</sup>Seine Beine sind wie Säulen aus Marmor
+auf Sockeln aus feinem Gold.
+Sein Aussehen ist wie der Libanon,
+herrlich wie die Zedern.
+<sup>16</sup>Sein Mund ist lauter Süße.
+Ja, alles an ihm ist lieblich.
+Das ist mein Geliebter, und das ist mein Freund,
+ihr Töchter Jerusalems.
+
+> **Was bedeutet das?**
+> Die Frauen fragen: Was ist an deinem Geliebten so besonders?
+> Jetzt beschreibt die Frau ihren Geliebten von Kopf bis Fuß, so wie er sie in Kapitel 4 beschrieben hat. Für sie ist er wie eine kostbare Statue aus Gold, Elfenbein und Edelsteinen.
+> Vers 14: Beryll ist ein leuchtender Edelstein. Welche Steine im Hebräischen genau gemeint sind, weiß man nicht sicher.
+> Vers 16: Das Schönste: „Das ist mein Geliebter, und das ist mein Freund.“ Er ist nicht nur ihr Liebhaber, sondern auch ihr Freund. Liebe und Freundschaft gehören zusammen.
+
+## Hoheslied – Kapitel 6
+#### Ich bin meines Geliebten
+
+---
+
+### Wo ist dein Geliebter? (Vers 1–3)
+
+<sup>1</sup>Wohin ist dein Geliebter gegangen,
+du Schönste unter den Frauen?
+Wohin hat sich dein Geliebter gewandt,
+damit wir ihn mit dir suchen?
+<sup>2</sup>Mein Geliebter ist hinabgegangen in seinen Garten,
+zu den Gewürzbeeten,
+um in den Gärten zu weiden
+und Lilien zu sammeln.
+<sup>3</sup>Ich gehöre meinem Geliebten, und mein Geliebter gehört mir.
+Er weidet unter den Lilien.
+
+> **Was bedeutet das?**
+> Die Frauen bieten an, beim Suchen zu helfen. Aber die Frau weiß jetzt, wo er ist: in „seinem Garten“, also bei ihr.
+> Vers 3: Wie in Kapitel 2,16, aber umgekehrt: „Ich gehöre meinem Geliebten, und er gehört mir.“ Dieser Satz steht oft in Eheringen, auf Hebräisch „Ani le-dodi ve-dodi li“.
+
+---
+
+### Einzigartig (Vers 4–10)
+
+<sup>4</sup>Du bist schön, meine Liebste, wie Tirza,
+lieblich wie Jerusalem,
+Ehrfurcht gebietend wie ein Heer mit Bannern.
+<sup>5</sup>Wende deine Augen von mir ab,
+denn sie haben mich überwältigt.
+Dein Haar ist wie eine Herde Ziegen,
+die am Hang von Gilead lagern.
+<sup>6</sup>Deine Zähne sind wie eine Herde Mutterschafe,
+die aus der Schwemme heraufkommen.
+Jedes von ihnen hat Zwillinge,
+und keines ist ohne Junge.
+<sup>7</sup>Deine Schläfen sind wie ein Stück Granatapfel
+hinter deinem Schleier.
+<sup>8</sup>Es gibt sechzig Königinnen, achtzig Nebenfrauen
+und junge Frauen ohne Zahl.
+<sup>9</sup>Meine Taube, meine Vollkommene, ist einzigartig.
+Sie ist die einzige Tochter ihrer Mutter.
+Sie ist die Liebste der Frau, die sie geboren hat.
+Die Töchter sahen sie und priesen sie glücklich.
+Die Königinnen und Nebenfrauen sahen sie und lobten sie.
+<sup>10</sup>Wer ist sie, die herabschaut wie der Morgen,
+schön wie der Mond, klar wie die Sonne,
+Ehrfurcht gebietend wie ein Heer mit Bannern?
+
+> **Was bedeutet das?**
+> Vers 4: Tirza und Jerusalem waren zwei prächtige Hauptstädte. So schön ist sie. Und so beeindruckend wie ein Heer mit Fahnen: Ihre Schönheit hat Kraft.
+> Vers 5: Ein Augenblick von ihr überwältigt ihn.
+> Vers 5–7 wiederholen fast wörtlich Kapitel 4,1–3. Seine Liebe ist beständig.
+> Vers 8–9: Ein König mag viele Frauen haben. Aber für ihn gibt es nur eine einzige: sie. Echte Liebe sieht im anderen etwas Einzigartiges.
+> Vers 10: Sie strahlt wie Morgenröte, Mond und Sonne.
+
+---
+
+### Im Nussgarten (Vers 11–13)
+
+<sup>11</sup>Ich ging hinab in den Nussgarten,
+um die grünen Pflanzen im Tal zu sehen,
+um zu sehen, ob der Weinstock knospt
+und ob die Granatäpfel blühen.
+<sup>12</sup>Ohne dass ich es merkte,
+setzte mich mein Verlangen auf die Wagen meines edlen Volkes.
+<sup>13</sup>Kehr um, kehr um, Schulammit!
+Kehr um, kehr um, damit wir dich ansehen!
+Geliebter: Warum wollt ihr die Schulammit ansehen
+wie beim Tanz von Mahanajim?
+
+> **Was bedeutet das?**
+> Vers 11: Im Frühling geht sie in den Garten, um zu sehen, ob alles blüht. Ein Bild für die erwachende Liebe.
+> Vers 12 ist einer der schwierigsten Verse im Hebräischen. Niemand weiß genau, was er bedeutet. Vielleicht: Ihre Sehnsucht trägt sie davon wie ein schneller Wagen.
+> Vers 13: Hier wird die Frau zum ersten Mal mit Namen genannt: „Schulammit“. Vielleicht heißt das „die aus Schunem“ oder „die Friedvolle“, ähnlich wie der Name Salomo (beide hängen mit „Schalom“, Frieden, zusammen).
+> Die Leute rufen: Dreh dich um, wir wollen dich sehen! Der Geliebte fragt: Warum starrt ihr sie an wie bei einem Tanz? „Mahanajim“ ist ein Ortsname und bedeutet „zwei Heerlager“. Was genau dieser Tanz war, ist unbekannt.
+> In vielen deutschen Bibeln ist Vers 13 der erste Vers von Kapitel 7.
+
+## Hoheslied – Kapitel 7
+#### Komm, mein Geliebter
+
+---
+
+### Wie schön du bist (Vers 1–9)
+
+<sup>1</sup>Wie schön sind deine Füße in den Sandalen, du Fürstentochter!
+Die Rundungen deiner Hüften sind wie Schmuckstücke,
+das Werk der Hände eines Künstlers.
+<sup>2</sup>Dein Leib ist wie eine runde Schale,
+in der der Mischwein nicht fehlt.
+Deine Taille ist wie ein Weizenhaufen,
+mit Lilien umgeben.
+<sup>3</sup>Deine beiden Brüste sind wie zwei junge Rehe,
+Zwillinge einer Gazelle.
+<sup>4</sup>Dein Hals ist wie ein Turm aus Elfenbein.
+Deine Augen sind wie die Teiche in Heschbon
+beim Tor von Bat-Rabbim.
+Deine Nase ist wie der Turm des Libanon,
+der nach Damaskus schaut.
+<sup>5</sup>Dein Kopf auf dir ist wie der Karmel.
+Das Haar deines Kopfes ist wie Purpur.
+Der König ist in seinen Locken gefangen.
+<sup>6</sup>Wie schön und wie lieblich bist du,
+Liebe, voller Wonnen!
+<sup>7</sup>Dein Wuchs ist wie eine Palme,
+und deine Brüste sind wie ihre Früchte.
+<sup>8</sup>Ich sagte: „Ich will auf die Palme steigen.
+Ich will ihre Früchte ergreifen.“
+Deine Brüste sollen sein wie Trauben am Weinstock,
+und der Duft deines Atems wie Äpfel.
+<sup>9</sup>Dein Mund ist wie der beste Wein,
+der meinem Geliebten sanft hinuntergleitet,
+der über die Lippen der Schlafenden fließt.
+
+> **Was bedeutet das?**
+> Wieder ein Beschreibungslied, diesmal von den Füßen bis zum Kopf. Vielleicht tanzt die Frau, und der Mann bewundert sie.
+> Die Bilder kommen aus der Natur und aus der Landschaft: Teiche, Türme, der Berg Karmel, eine Palme. Für uns klingt „deine Nase ist wie ein Turm“ seltsam. Damals meinte man damit: stolz, edel, aufrecht.
+> Vers 5: „Der König ist in deinen Locken gefangen“: Ein liebevoller Satz. Er ist ganz von ihr bezaubert.
+> Das Hohelied spricht offen und zart über die Schönheit des Körpers und über körperliche Liebe. Die Bibel sieht den Körper nicht als schmutzig, sondern als Gottes gute Schöpfung.
+
+---
+
+### Lass uns aufs Feld gehen (Vers 10–13)
+
+<sup>10</sup>Ich gehöre meinem Geliebten,
+und sein Verlangen ist nach mir.
+<sup>11</sup>Komm, mein Geliebter!
+Lass uns hinausgehen aufs Feld.
+Lass uns in den Dörfern übernachten.
+<sup>12</sup>Lass uns früh zu den Weinbergen hinaufgehen.
+Lass uns sehen, ob der Weinstock knospt,
+ob seine Blüte sich geöffnet hat
+und ob die Granatäpfel blühen.
+Dort will ich dir meine Liebe schenken.
+<sup>13</sup>Die Liebesäpfel verbreiten ihren Duft.
+An unseren Türen sind allerlei köstliche Früchte,
+neue und alte,
+die ich für dich aufbewahrt habe, mein Geliebter.
+
+> **Was bedeutet das?**
+> Vers 10: „Sein Verlangen ist nach mir.“ Ein bemerkenswerter Satz: In 1. Mose 3,16 heißt es nach dem Sündenfall, dass das Verlangen der Frau nach dem Mann sein wird und er über sie herrschen wird. Hier ist es umgekehrt, und von Herrschaft ist keine Rede. Im Hohelied ist die Liebe gleichberechtigt und gegenseitig, wie im Paradies.
+> Vers 11–12: Die Frau ergreift die Initiative. Sie lädt ihn ein, mit ihr in die Natur zu gehen.
+> Vers 13: „Liebesäpfel“ (Alraunen) galten als Pflanzen, die die Liebe fördern (vgl. 1. Mose 30,14–16).
+> In vielen deutschen Bibeln sind die Verse dieses Kapitels um eins verschoben, weil 6,13 dort 7,1 ist.
+
+## Hoheslied – Kapitel 8
+#### Stark wie der Tod ist die Liebe
+
+---
+
+### Wärst du doch mein Bruder (Vers 1–4)
+
+<sup>1</sup>Ach, wärst du doch wie mein Bruder,
+der an den Brüsten meiner Mutter gestillt wurde!
+Wenn ich dich draußen fände, würde ich dich küssen,
+ja, und niemand würde mich verachten.
+<sup>2</sup>Ich würde dich führen und in das Haus meiner Mutter bringen,
+die mich unterweisen würde.
+Ich würde dir gewürzten Wein zu trinken geben,
+vom Saft meines Granatapfels.
+<sup>3</sup>Seine linke Hand läge unter meinem Kopf,
+und seine rechte Hand würde mich umarmen.
+<sup>4</sup>Ich beschwöre euch, ihr Töchter Jerusalems,
+dass ihr die Liebe nicht weckt und nicht aufstört,
+bis es ihr selbst gefällt.
+
+> **Was bedeutet das?**
+> Vers 1: Damals durfte ein Paar seine Liebe nicht öffentlich zeigen. Aber Geschwister durften sich auf der Straße küssen. Darum wünscht sie sich: Wärst du doch mein Bruder, dann könnte ich dich überall küssen!
+> Vers 4: Zum dritten und letzten Mal die Mahnung: Weckt die Liebe nicht, bevor sie selbst bereit ist.
+
+---
+
+### Die Liebe ist stark wie der Tod (Vers 5–7)
+
+<sup>5</sup>Wer ist es, die da heraufkommt aus der Wüste,
+gestützt auf ihren Geliebten?
+Geliebte: Unter dem Apfelbaum habe ich dich geweckt.
+Dort hat deine Mutter dich empfangen.
+Dort lag sie in Wehen und hat dich geboren.
+<sup>6</sup>Leg mich wie ein Siegel auf dein Herz,
+wie ein Siegel auf deinen Arm,
+denn die Liebe ist stark wie der Tod.
+Die Leidenschaft ist unerbittlich wie das Totenreich.
+Ihre Gluten sind Feuergluten,
+eine Flamme Jahs.
+<sup>7</sup>Viele Wasser können die Liebe nicht auslöschen,
+und Ströme können sie nicht ertränken.
+Wenn einer allen Reichtum seines Hauses für die Liebe gäbe,
+man würde ihn nur verachten.
+
+> **Was bedeutet das?**
+> Vers 5: Das Paar kommt gemeinsam aus der Wüste. Sie stützt sich auf ihn. Unter dem Apfelbaum, wo das Leben beginnt, hat sie seine Liebe geweckt.
+> Vers 6–7 sind der Höhepunkt des ganzen Buches und einer der schönsten Texte über die Liebe, die es gibt. Er wird oft bei Hochzeiten gelesen.
+> „Leg mich wie ein Siegel auf dein Herz“: Ein Siegel trug man an einer Kette am Herzen oder als Ring. Es war sehr persönlich und kostbar. Sie möchte für immer zu ihm gehören.
+> „Die Liebe ist stark wie der Tod“: Der Tod besiegt alle. Aber die Liebe ist genauso stark.
+> „Eine Flamme Jahs“: Hier steht die Kurzform des Gottesnamens, das einzige Mal im ganzen Buch. Die Liebe ist ein Feuer, das von Gott kommt.
+> Vers 7: Kein Wasser kann dieses Feuer löschen. Und Liebe kann man nicht kaufen. Wer es versucht, macht sich lächerlich.
+> Christen denken hier auch an Gottes Liebe, die stärker ist als der Tod (Römer 8,38–39; 1. Korinther 13).
+
+---
+
+### Unsere kleine Schwester (Vers 8–10)
+
+<sup>8</sup>Wir haben eine kleine Schwester.
+Sie hat noch keine Brüste.
+Was sollen wir mit unserer Schwester machen
+an dem Tag, an dem man um sie wirbt?
+<sup>9</sup>Wenn sie eine Mauer ist,
+dann bauen wir auf ihr eine silberne Zinne.
+Wenn sie eine Tür ist,
+dann verschließen wir sie mit Zedernbrettern.
+<sup>10</sup>Ich bin eine Mauer, und meine Brüste sind wie Türme.
+Da wurde ich in seinen Augen wie eine, die Frieden findet.
+
+> **Was bedeutet das?**
+> Vers 8–9: Die Brüder sprechen über ihre kleine Schwester. Sie wollen sie beschützen, bis sie alt genug ist zum Heiraten. „Mauer“ und „Tür“ sind Bilder dafür, ob sie sich verschließt oder öffnet.
+> Vers 10: Die Frau antwortet selbstbewusst: Ich bin jetzt erwachsen. Ich entscheide selbst. Und bei meinem Geliebten habe ich Frieden gefunden. Im Hebräischen ein Wortspiel: „Schalom“ (Frieden), „Schulammit“ und „Salomo“.
+> Junge Menschen brauchen Schutz. Aber erwachsene Menschen dürfen selbst über ihre Liebe entscheiden.
+
+---
+
+### Mein eigener Weinberg (Vers 11–14)
+
+<sup>11</sup>Salomo hatte einen Weinberg in Baal-Hamon.
+Er verpachtete den Weinberg an Hüter.
+Jeder sollte für seine Frucht tausend Silberstücke bringen.
+<sup>12</sup>Mein eigener Weinberg liegt vor mir.
+Die tausend sind für dich, Salomo,
+und zweihundert für die, die seine Frucht hüten.
+<sup>13</sup>Du, die in den Gärten wohnt,
+die Freunde horchen auf.
+Lass mich deine Stimme hören!
+<sup>14</sup>Eile, mein Geliebter,
+und sei wie eine Gazelle oder ein junger Hirsch
+auf den Bergen der Gewürze!
+
+> **Was bedeutet das?**
+> Vers 11–12: Salomo hat einen riesigen Weinberg, der viel Geld bringt. Aber die Frau sagt: Mein Weinberg, also ich selbst, gehört mir. Ich verschenke mich, wem ich will. Er kann seinen Reichtum behalten. Liebe kann man nicht kaufen (vgl. Vers 7).
+> Vers 13–14: Das Buch endet offen: Er bittet, ihre Stimme zu hören. Sie ruft ihn zu sich. Die Sehnsucht geht weiter. Liebe ist nie ganz „fertig“.
+
+---
+
+### Rückblick: Was haben wir im Hohelied gelesen?
+
+> **Was bedeutet das?**
+> **Das schönste Lied:** Das Hohelied ist eine Sammlung von Liebesgedichten. Eine Frau und ein Mann loben einander, suchen einander und finden einander.
+> **Die Frau spricht am meisten:** Erstaunlich für ein so altes Buch: Die Frau hat die meisten Worte. Sie ist selbstbewusst, ergreift die Initiative und entscheidet selbst über ihre Liebe.
+> **Gegenseitige Liebe:** „Mein Geliebter ist mein, und ich bin sein“ (2,16; 6,3; 7,10). Keiner herrscht über den anderen. Die Liebe ist gleichberechtigt.
+> **Der Körper ist gut:** Das Buch spricht offen und zart über Schönheit und körperliche Liebe. Die Bibel sieht die Liebe zwischen Mann und Frau als Gottes gutes Geschenk.
+> **Weckt die Liebe nicht zu früh:** Dreimal kommt diese Mahnung (2,7; 3,5; 8,4). Liebe braucht Zeit und Freiheit. Man kann sie nicht erzwingen und nicht kaufen.
+> **Stark wie der Tod:** Der Höhepunkt: „Die Liebe ist stark wie der Tod. Viele Wasser können sie nicht löschen“ (8,6–7).
+> **Ein Bild für Gottes Liebe:** Juden lesen das Hohelied am Pessachfest als Lied der Liebe zwischen Gott und Israel. Christen haben darin die Liebe zwischen Christus und seiner Gemeinde gesehen. Beide Deutungen ergänzen die wörtliche Lesart.
+> **Wie geht es weiter?** Als Nächstes kommt das Buch Jesaja, das erste der großen Prophetenbücher. Es spricht von Gericht und Hoffnung, vom Friedensfürsten und vom leidenden Gottesknecht.
