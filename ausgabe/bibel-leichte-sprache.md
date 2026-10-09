@@ -76076,7 +76076,7 @@ Ein anderer soll sein Amt bekommen.
 <sup>9</sup>Seine Kinder sollen Waisen werden
 und seine Frau eine Witwe.
 <sup>10</sup>Seine Kinder sollen umherirrende Bettler werden.
-Sie sollen fern von ihren Trümmern ihr Brot suchen.
+Man soll sie in ihren Trümmern suchen.
 <sup>11</sup>Der Gläubiger soll alles nehmen, was er hat.
 Fremde sollen die Frucht seiner Arbeit rauben.
 <sup>12</sup>Niemand soll ihm Güte erweisen,
