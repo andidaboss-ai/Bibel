@@ -1,0 +1,513 @@
+{
+ "nr": 23,
+ "code": "ISA",
+ "kuerzel": "Jes",
+ "name": "Jesaja",
+ "name_englisch": "Isaiah",
+ "testament": "altes-testament",
+ "kapitel": 66,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Kommt, lasst uns miteinander rechten",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer waren die Propheten? Was ist das Buch Jesaja?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Mit Jesaja beginnen die Bücher der Propheten.\nEin Prophet ist ein Mensch, durch den Gott spricht. Propheten sagen nicht in erster Linie die Zukunft voraus. Sie sagen den Menschen in ihrer Zeit, was Gott von ihnen will. Sie kritisieren Ungerechtigkeit, Unterdrückung der Armen und falschen Gottesdienst. Und sie machen Hoffnung, wenn alles verloren scheint.\nJesaja lebte vor etwa 2700 Jahren in Jerusalem, ungefähr von 740 bis 700 vor Christus. Damals war das mächtige Assyrien eine große Bedrohung. Jesaja beriet mehrere Könige von Juda.\nDas Buch Jesaja hat 66 Kapitel und wird oft in drei Teile eingeteilt:\n– Kapitel 1–39: Gericht und Hoffnung zur Zeit Jesajas. Hier steht auch die Verheißung vom „Immanuel“ und vom „Friedefürsten“.\n– Kapitel 40–55: Trost für das Volk im Exil in Babylon, etwa 150 Jahre später. „Tröstet, tröstet mein Volk!“ Hier stehen die Lieder vom „Knecht Gottes“, der für andere leidet.\n– Kapitel 56–66: Hoffnung für die Zeit nach der Rückkehr. Ein neuer Himmel und eine neue Erde.\nViele Forscher meinen, dass die späteren Teile von Schülern Jesajas stammen, die in seinem Geist weitergeschrieben haben. Andere halten Jesaja für den Verfasser des ganzen Buches.\nKein Prophetenbuch wird im Neuen Testament so oft zitiert wie Jesaja. Juden lesen Jesaja als Wort Gottes an Israel, voller Hoffnung auf Erlösung. Christen sehen in vielen Texten Hinweise auf Jesus Christus.\nEin Gottesname, der bei Jesaja oft vorkommt: „der Heilige Israels“.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Mein Volk versteht nicht",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Vision Jesajas, des Sohnes von Amoz,\ndie er über Juda und Jerusalem sah\nin den Tagen von Usija, Jotam, Ahas und Hiskia, den Königen von Juda.",
+       "englisch_web": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Hört, ihr Himmel, und horch auf, du Erde,\ndenn der HERR hat gesprochen:\n„Ich habe Kinder großgezogen und aufgezogen,\naber sie haben sich gegen mich aufgelehnt.",
+       "englisch_web": "Hear, heavens, and listen, earth; for Yahweh has spoken: “I have nourished and brought up children and they have rebelled against me."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der Ochse kennt seinen Besitzer\nund der Esel die Krippe seines Herrn,\naber Israel kennt mich nicht.\nMein Volk versteht nicht.“",
+       "englisch_web": "The ox knows his owner, and the donkey his master’s crib; but Israel doesn’t know. My people don’t consider.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ach, sündiges Volk,\nein Volk, beladen mit Schuld,\nNachkommen von Übeltätern,\nKinder, die verdorben handeln!\nSie haben den HERRN verlassen.\nSie haben den Heiligen Israels verachtet.\nSie haben sich entfremdet und sind rückwärtsgegangen.",
+       "englisch_web": "Ah sinful nation, a people loaded with iniquity, offspring of evildoers, children who deal corruptly! They have forsaken Yahweh. They have despised the Holy One of Israel. They are estranged and backward."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Warum wollt ihr noch mehr geschlagen werden,\ndass ihr euch immer mehr auflehnt?\nDer ganze Kopf ist krank,\nund das ganze Herz ist schwach.",
+       "englisch_web": "Why should you be beaten more, that you revolt more and more? The whole head is sick, and the whole heart faint."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Von der Fußsohle bis zum Kopf ist nichts Gesundes an ihm,\nsondern Wunden, Striemen und offene Geschwüre.\nSie sind nicht ausgedrückt, nicht verbunden\nund nicht mit Öl gelindert worden.",
+       "englisch_web": "From the sole of the foot even to the head there is no soundness in it, but wounds, welts, and open sores. They haven’t been closed, bandaged, or soothed with oil."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Euer Land ist verwüstet.\nEure Städte sind mit Feuer verbrannt.\nFremde verzehren euer Land vor euren Augen,\nund es ist verwüstet, wie von Fremden zerstört.",
+       "englisch_web": "Your country is desolate. Your cities are burned with fire. Strangers devour your land in your presence and it is desolate, as overthrown by strangers."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Tochter Zion ist übrig geblieben\nwie eine Hütte im Weinberg,\nwie ein Unterstand im Gurkenfeld,\nwie eine belagerte Stadt.",
+       "englisch_web": "The daughter of Zion is left like a shelter in a vineyard, like a hut in a field of melons, like a besieged city."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Hätte der HERR der Heere uns nicht einen ganz kleinen Rest übrig gelassen,\ndann wären wir wie Sodom geworden.\nWir wären wie Gomorra gewesen.",
+       "englisch_web": "Unless Yahweh of Armies had left to us a very small remnant, we would have been as Sodom. We would have been like Gomorrah."
+      }
+     ],
+     "erklaerung": "Vers 1: Jesaja wirkte unter vier Königen. Das sind etwa 40 Jahre.\nVers 2–3: Gott klagt wie ein enttäuschter Vater: Ich habe meine Kinder großgezogen, und sie wenden sich ab. Sogar Ochse und Esel wissen, wohin sie gehören. Aber mein Volk weiß es nicht. Von diesem Vers kommen Ochs und Esel an der Krippe in vielen Weihnachtsdarstellungen.\nVers 5–6: Das Volk ist wie ein Körper voller Wunden, von Kopf bis Fuß. Es ist durch Krieg und eigene Schuld schwer verletzt.\nVers 8: Die „Tochter Zion“ ist Jerusalem. Rings um die Stadt ist alles verwüstet. Sie steht allein da wie eine kleine Hütte auf einem leeren Feld. Das geschah, als die Assyrer im Jahr 701 vor Christus das Land verwüsteten.\nVers 9: Gott hat einen „Rest“ übrig gelassen. Der Gedanke vom „Rest“, der gerettet wird, ist bei Jesaja sehr wichtig."
+    },
+    {
+     "ueberschrift": "Gott will Gerechtigkeit, keine leeren Opfer",
+     "vers_von": 10,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Hört das Wort des HERRN, ihr Herrscher von Sodom!\nHorcht auf die Weisung unseres Gottes, du Volk von Gomorra!",
+       "englisch_web": "Hear Yahweh’s word, you rulers of Sodom! Listen to the law of our God, you people of Gomorrah!"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "„Was soll mir die Menge eurer Opfer?“, sagt der HERR.\n„Ich habe genug von den Brandopfern der Widder\nund vom Fett der Mastkälber.\nIch habe kein Gefallen am Blut der Stiere,\nder Lämmer und der Ziegenböcke.",
+       "englisch_web": "“What are the multitude of your sacrifices to me?”, says Yahweh. “I have had enough of the burnt offerings of rams and the fat of fed animals. I don’t delight in the blood of bulls, or of lambs, or of male goats."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wenn ihr kommt, um vor mir zu erscheinen,\nwer hat das von euch verlangt,\ndass ihr meine Vorhöfe zertrampelt?",
+       "englisch_web": "When you come to appear before me, who has required this at your hand, to trample my courts?"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Bringt keine nichtigen Opfergaben mehr!\nRäucherwerk ist mir ein Gräuel.\nNeumonde, Sabbate und Versammlungen:\nIch ertrage keine bösen Versammlungen.",
+       "englisch_web": "Bring no more vain offerings. Incense is an abomination to me. New moons, Sabbaths, and convocations— I can’t stand evil assemblies."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Meine Seele hasst eure Neumonde und eure Feste.\nSie sind mir eine Last.\nIch bin es müde, sie zu tragen.",
+       "englisch_web": "My soul hates your New Moons and your appointed feasts. They are a burden to me. I am weary of bearing them."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wenn ihr eure Hände ausbreitet,\ndann verberge ich meine Augen vor euch.\nJa, wenn ihr viel betet, höre ich nicht.\nEure Hände sind voll Blut.",
+       "englisch_web": "When you spread out your hands, I will hide my eyes from you. Yes, when you make many prayers, I will not hear. Your hands are full of blood."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Wascht euch! Macht euch rein!\nSchafft eure bösen Taten weg aus meinen Augen!\nHört auf, Böses zu tun!",
+       "englisch_web": "Wash yourselves. Make yourself clean. Put away the evil of your doings from before my eyes. Cease to do evil."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Lernt, Gutes zu tun!\nSucht das Recht!\nHelft den Unterdrückten!\nVerschafft den Waisen Recht!\nFührt die Sache der Witwe!“",
+       "englisch_web": "Learn to do well. Seek justice. Relieve the oppressed. Defend the fatherless. Plead for the widow.”"
+      }
+     ],
+     "erklaerung": "Vers 10: Jesaja nennt die Herrscher Jerusalems „Herrscher von Sodom“. Das ist eine schockierende Provokation. Sodom war das Sinnbild für eine böse Stadt.\nVers 11–15: Die Menschen feiern viele Gottesdienste, bringen Opfer und beten viel. Aber Gott will das nicht! Warum? Weil ihre Hände „voll Blut“ sind. Sie unterdrücken andere und tun Unrecht.\nGott lehnt nicht den Gottesdienst an sich ab. Er lehnt Gottesdienst ab, der mit Ungerechtigkeit im Alltag verbunden ist. Frömmigkeit ohne Gerechtigkeit ist wertlos.\nVers 16–17: Was Gott wirklich will: Hört auf mit dem Bösen. Tut Gutes. Sorgt für Gerechtigkeit. Helft den Schwächsten: Unterdrückten, Waisen und Witwen. Diese Botschaft gilt bis heute für alle, die an Gott glauben."
+    },
+    {
+     "ueberschrift": "Wenn eure Sünden blutrot sind",
+     "vers_von": 18,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "„Kommt doch, und lasst uns miteinander rechten“, sagt der HERR.\n„Wenn eure Sünden wie Scharlach sind,\nsollen sie weiß werden wie Schnee.\nWenn sie rot sind wie Purpur,\nsollen sie wie Wolle werden.",
+       "englisch_web": "“Come now, and let’s reason together,” says Yahweh: “Though your sins are as scarlet, they shall be as white as snow. Though they are red like crimson, they shall be as wool."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wenn ihr willig seid und gehorcht,\ndann werdet ihr das Gute des Landes essen.",
+       "englisch_web": "If you are willing and obedient, you will eat the good of the land;"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wenn ihr euch aber weigert und widerspenstig seid,\ndann werdet ihr vom Schwert gefressen werden,\ndenn der Mund des HERRN hat es gesagt.“",
+       "englisch_web": "but if you refuse and rebel, you will be devoured with the sword; for Yahweh’s mouth has spoken it.”"
+      }
+     ],
+     "erklaerung": "Vers 18 ist eines der schönsten Angebote der Bibel. Gott lädt ein: Kommt, lasst uns die Sache klären! Selbst wenn eure Schuld so rot ist wie Blut, kann ich sie weiß machen wie Schnee. Es gibt Vergebung und einen Neuanfang.\nVers 19–20: Aber der Mensch muss sich entscheiden: Will ich umkehren oder nicht?"
+    },
+    {
+     "ueberschrift": "Die treue Stadt ist untreu geworden",
+     "vers_von": 21,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Wie ist die treue Stadt zur Hure geworden!\nSie war voller Recht.\nGerechtigkeit wohnte in ihr,\naber jetzt wohnen Mörder darin.",
+       "englisch_web": "How the faithful city has become a prostitute! She was full of justice. Righteousness lodged in her, but now there are murderers."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Dein Silber ist zu Schlacke geworden,\ndein Wein mit Wasser verdünnt.",
+       "englisch_web": "Your silver has become dross, your wine mixed with water."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Deine Fürsten sind Aufrührer und Gefährten von Dieben.\nJeder liebt Bestechung und jagt nach Geschenken.\nSie verschaffen den Waisen kein Recht,\nund die Sache der Witwe kommt nicht vor sie.",
+       "englisch_web": "Your princes are rebellious and companions of thieves. Everyone loves bribes and follows after rewards. They don’t defend the fatherless, neither does the cause of the widow come to them."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Darum spricht der Herr, der HERR der Heere, der Mächtige Israels:\n„Ach, ich will mir Erleichterung verschaffen an meinen Gegnern\nund mich an meinen Feinden rächen.",
+       "englisch_web": "Therefore the Lord, Yahweh of Armies, the Mighty One of Israel, says: “Ah, I will get relief from my adversaries, and avenge myself on my enemies."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ich will meine Hand gegen dich wenden,\ndeine Schlacke gründlich ausschmelzen\nund all dein Blei entfernen.",
+       "englisch_web": "I will turn my hand on you, thoroughly purge away your dross, and will take away all your tin."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ich will deine Richter wiederherstellen wie am Anfang\nund deine Ratgeber wie zu Beginn.\nDanach wirst du genannt werden:\n‚Die Stadt der Gerechtigkeit, eine treue Stadt.‘",
+       "englisch_web": "I will restore your judges as at the first, and your counselors as at the beginning. Afterward you shall be called ‘The city of righteousness, a faithful town.’"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Zion wird durch Recht erlöst werden\nund ihre Umkehrenden durch Gerechtigkeit.",
+       "englisch_web": "Zion shall be redeemed with justice, and her converts with righteousness."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Aber die Übertreter und Sünder werden zusammen zerbrochen werden,\nund die den HERRN verlassen, werden umkommen.",
+       "englisch_web": "But the destruction of transgressors and sinners shall be together, and those who forsake Yahweh shall be consumed."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Denn sie werden sich schämen wegen der Eichen, die ihr begehrt habt,\nund ihr werdet zuschanden werden wegen der Gärten, die ihr erwählt habt.",
+       "englisch_web": "For they shall be ashamed of the oaks which you have desired, and you shall be confounded for the gardens that you have chosen."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Denn ihr werdet sein wie eine Eiche, deren Laub verwelkt,\nund wie ein Garten, der kein Wasser hat.",
+       "englisch_web": "For you shall be as an oak whose leaf fades, and as a garden that has no water."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Der Starke wird wie Zunder sein und sein Werk wie ein Funke.\nBeide werden zusammen brennen,\nund niemand wird löschen.“",
+       "englisch_web": "The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them.”"
+      }
+     ],
+     "erklaerung": "Vers 21: Jerusalem war einmal eine Stadt der Gerechtigkeit. Jetzt ist sie Gott untreu geworden, wie eine Frau, die ihren Mann betrügt. Dieses Bild benutzen die Propheten oft für die Untreue gegenüber Gott.\nVers 22–23: Alles ist verdorben: Das Silber ist wertlos, der Wein verdünnt, die Anführer sind bestechlich. Und wieder: Waisen und Witwen bekommen kein Recht.\nVers 25–26: Gott will die Stadt reinigen wie ein Schmied, der Silber im Feuer von Schlacke befreit. Danach wird sie wieder „Stadt der Gerechtigkeit“ heißen. Gottes Gericht hat ein Ziel: Erneuerung.\nVers 29: „Eichen“ und „Gärten“ waren Orte, an denen man fremde Götter verehrte.\nVers 31: Wer sich auf seine eigene Stärke verlässt, verbrennt wie Zunder."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Schwerter zu Pflugscharen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Berg des HERRN",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Dies ist es, was Jesaja, der Sohn von Amoz, über Juda und Jerusalem sah.",
+       "englisch_web": "This is what Isaiah the son of Amoz saw concerning Judah and Jerusalem."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Es wird geschehen in den letzten Tagen,\ndass der Berg des Hauses des HERRN fest stehen wird\nals der höchste der Berge\nund erhaben über die Hügel.\nUnd alle Nationen werden zu ihm strömen.",
+       "englisch_web": "It shall happen in the latter days, that the mountain of Yahweh’s house shall be established on the top of the mountains, and shall be raised above the hills; and all nations shall flow to it."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Viele Völker werden hingehen und sagen:\n„Kommt, lasst uns hinaufgehen zum Berg des HERRN,\nzum Haus des Gottes Jakobs!\nEr wird uns seine Wege lehren,\nund wir wollen auf seinen Pfaden gehen.“\nDenn von Zion wird die Weisung ausgehen\nund das Wort des HERRN von Jerusalem.",
+       "englisch_web": "Many peoples shall go and say, “Come, let’s go up to the mountain of Yahweh, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For the law shall go out of Zion, and Yahweh’s word from Jerusalem."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er wird zwischen den Nationen richten\nund vielen Völkern Recht sprechen.\nSie werden ihre Schwerter zu Pflugscharen schmieden\nund ihre Speere zu Winzermessern.\nKein Volk wird gegen ein anderes das Schwert erheben,\nund sie werden den Krieg nicht mehr lernen.",
+       "englisch_web": "He will judge between the nations, and will decide concerning many peoples. They shall beat their swords into plowshares, and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Haus Jakob, kommt,\nund lasst uns im Licht des HERRN gehen!",
+       "englisch_web": "House of Jacob, come, and let’s walk in the light of Yahweh."
+      }
+     ],
+     "erklaerung": "Das ist eine der größten Friedensvisionen der Welt.\nVers 2–3: In der Zukunft werden alle Völker nach Jerusalem kommen, nicht um zu erobern, sondern um von Gott zu lernen.\nVers 4: Weil Gott gerecht zwischen den Völkern richtet, braucht niemand mehr Waffen. Aus Schwertern werden Pflüge, aus Speeren Werkzeuge für den Weinberg. Niemand lernt mehr Krieg.\n„Schwerter zu Pflugscharen“ wurde in der DDR zum Zeichen der Friedensbewegung in den Kirchen. Eine Statue mit diesem Motiv steht vor dem Gebäude der Vereinten Nationen in New York.\nFast derselbe Text steht auch beim Propheten Micha (Micha 4,1–3).\nVers 5: Jesaja lädt sein Volk ein: Lasst uns schon jetzt so leben, im Licht Gottes."
+    },
+    {
+     "ueberschrift": "Der Tag des HERRN gegen allen Hochmut",
+     "vers_von": 6,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn du hast dein Volk verlassen, das Haus Jakob,\nweil sie voll sind mit dem, was vom Osten kommt,\nmit Wahrsagern wie die Philister,\nund sie schlagen ein mit den Kindern der Fremden.",
+       "englisch_web": "For you have forsaken your people, the house of Jacob, because they are filled from the east, with those who practice divination like the Philistines, and they clasp hands with the children of foreigners."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ihr Land ist voll Silber und Gold,\nund ihre Schätze haben kein Ende.\nIhr Land ist auch voll Pferde,\nund ihre Streitwagen haben kein Ende.",
+       "englisch_web": "Their land is full of silver and gold, neither is there any end of their treasures. Their land also is full of horses, neither is there any end of their chariots."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ihr Land ist auch voll Götzen.\nSie beten das Werk ihrer eigenen Hände an,\ndas, was ihre eigenen Finger gemacht haben.",
+       "englisch_web": "Their land also is full of idols. They worship the work of their own hands, that which their own fingers have made."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Der Mensch wird erniedrigt,\nund die Menschheit wird gedemütigt.\nDarum vergib ihnen nicht.",
+       "englisch_web": "Man is brought low, and mankind is humbled; therefore don’t forgive them."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Geh in den Felsen hinein\nund versteck dich im Staub\nvor dem Schrecken des HERRN\nund vor der Herrlichkeit seiner Majestät.",
+       "englisch_web": "Enter into the rock, and hide in the dust, from before the terror of Yahweh, and from the glory of his majesty."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Die hochmütigen Blicke des Menschen werden erniedrigt werden,\nund der Stolz der Menschen wird gebeugt werden,\nund der HERR allein wird an jenem Tag erhaben sein.",
+       "englisch_web": "The lofty looks of man will be brought low, the arrogance of men will be bowed down, and Yahweh alone will be exalted in that day."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn es wird einen Tag des HERRN der Heere geben\nüber alles Stolze und Hochmütige\nund über alles Erhabene,\nund es wird erniedrigt werden,",
+       "englisch_web": "For there will be a day of Yahweh of Armies for all that is proud and arrogant, and for all that is lifted up, and it shall be brought low—"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "über alle Zedern des Libanon, die hoch und erhaben sind,\nüber alle Eichen von Baschan,",
+       "englisch_web": "for all the cedars of Lebanon, that are high and lifted up, for all the oaks of Bashan,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "über alle hohen Berge,\nüber alle Hügel, die sich erheben,",
+       "englisch_web": "for all the high mountains, for all the hills that are lifted up,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "über jeden hohen Turm,\nüber jede befestigte Mauer,",
+       "englisch_web": "for every lofty tower, for every fortified wall,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "über alle Schiffe von Tarschisch\nund über alle prächtigen Bilder.",
+       "englisch_web": "for all the ships of Tarshish, and for all pleasant imagery."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Der Stolz des Menschen wird gebeugt werden,\nund der Hochmut der Menschen wird erniedrigt werden,\nund der HERR allein wird an jenem Tag erhaben sein.",
+       "englisch_web": "The loftiness of man shall be bowed down, and the arrogance of men shall be brought low; and Yahweh alone shall be exalted in that day."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Die Götzen werden völlig verschwinden.",
+       "englisch_web": "The idols shall utterly pass away."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Die Menschen werden in die Höhlen der Felsen gehen\nund in die Löcher der Erde\nvor dem Schrecken des HERRN\nund vor der Herrlichkeit seiner Majestät,\nwenn er sich erhebt, um die Erde gewaltig zu erschüttern.",
+       "englisch_web": "Men shall go into the caves of the rocks, and into the holes of the earth, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "An jenem Tag werden die Menschen ihre Götzen aus Silber\nund ihre Götzen aus Gold,\ndie sie sich gemacht haben, um sie anzubeten,\nden Maulwürfen und den Fledermäusen hinwerfen,",
+       "englisch_web": "In that day, men shall cast away their idols of silver and their idols of gold, which have been made for themselves to worship, to the moles and to the bats,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "um in die Felsenhöhlen\nund in die Spalten der zerklüfteten Felsen zu gehen\nvor dem Schrecken des HERRN\nund vor der Herrlichkeit seiner Majestät,\nwenn er sich erhebt, um die Erde gewaltig zu erschüttern.",
+       "englisch_web": "to go into the caverns of the rocks, and into the clefts of the ragged rocks, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Hört auf, auf den Menschen zu vertrauen,\nin dessen Nase nur ein Hauch ist!\nDenn was ist er schon wert?",
+       "englisch_web": "Stop trusting in man, whose breath is in his nostrils; for of what account is he?"
+      }
+     ],
+     "erklaerung": "Vers 6–8: Das Volk ist reich geworden: Silber, Gold, Pferde, Streitwagen. Aber es hat Gott vergessen. Es glaubt an Wahrsager und betet selbst gemachte Götzen an.\nVers 9: „Vergib ihnen nicht“ ist ein harter Satz. Jesaja ist so erschüttert über den Abfall seines Volkes, dass er Gott bittet, nicht einfach darüber hinwegzusehen.\nVers 12–17: Der „Tag des HERRN“ ist der Tag, an dem Gott eingreift und alles Hohe und Stolze niedrig macht: hohe Bäume, hohe Berge, hohe Türme, große Handelsschiffe. Alles, worauf Menschen stolz sind, verliert seinen Glanz. Nur Gott bleibt erhaben.\nVers 20: Ein fast komisches Bild: Die Menschen werfen ihre goldenen Götzen weg, zu den Maulwürfen und Fledermäusen, in die dunklen Löcher.\nVers 22: Vertraue nicht auf Menschen. Ihr Leben ist nur ein Atemzug."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Gericht über Jerusalem",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Chaos in der Führung",
+     "vers_von": 1,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Denn siehe, der Herr, der HERR der Heere,\nnimmt aus Jerusalem und aus Juda\nVorrat und Stütze weg,\nden ganzen Vorrat an Brot und den ganzen Vorrat an Wasser,",
+       "englisch_web": "For, behold, the Lord, Yahweh of Armies, takes away from Jerusalem and from Judah supply and support, the whole supply of bread, and the whole supply of water;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "den Helden und den Krieger,\nden Richter und den Propheten,\nden Wahrsager und den Ältesten,",
+       "englisch_web": "the mighty man, the man of war, the judge, the prophet, the diviner, the elder,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "den Hauptmann über fünfzig und den Angesehenen,\nden Ratgeber, den geschickten Handwerker\nund den klugen Beschwörer.",
+       "englisch_web": "the captain of fifty, the honorable man, the counselor, the skilled craftsman, and the clever enchanter."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "„Ich werde ihnen Knaben zu Fürsten geben,\nund Kinder werden über sie herrschen.",
+       "englisch_web": "I will give boys to be their princes, and children shall rule over them."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Das Volk wird unterdrückt werden, einer vom anderen\nund jeder von seinem Nächsten.\nDer Junge wird sich gegen den Alten auflehnen\nund der Gemeine gegen den Angesehenen.",
+       "englisch_web": "The people will be oppressed, everyone by another, and everyone by his neighbor. The child will behave himself proudly against the old man, and the wicked against the honorable."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ja, einer wird seinen Bruder im Haus seines Vaters packen und sagen:\n‚Du hast noch einen Mantel, du sollst unser Anführer sein,\nund dieser Trümmerhaufen soll unter deiner Hand sein!‘",
+       "englisch_web": "Indeed a man shall take hold of his brother in the house of his father, saying, “You have clothing, you be our ruler, and let this ruin be under your hand.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "An jenem Tag wird er ausrufen:\n‚Ich will kein Heiler sein,\ndenn in meinem Haus ist weder Brot noch Kleidung.\nIhr sollt mich nicht zum Anführer des Volkes machen!‘“",
+       "englisch_web": "In that day he will cry out, saying, “I will not be a healer; for in my house is neither bread nor clothing. You shall not make me ruler of the people.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denn Jerusalem ist zerstört, und Juda ist gefallen,\nweil ihre Zunge und ihre Taten gegen den HERRN sind,\num die Augen seiner Herrlichkeit herauszufordern.",
+       "englisch_web": "For Jerusalem is ruined, and Judah is fallen; because their tongue and their doings are against Yahweh, to provoke the eyes of his glory."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ihr Gesichtsausdruck zeugt gegen sie.\nSie stellen ihre Sünde zur Schau wie Sodom.\nSie verbergen sie nicht.\nWehe ihrer Seele!\nDenn sie haben selbst Unheil über sich gebracht.",
+       "englisch_web": "The look of their faces testify against them. They parade their sin like Sodom. They don’t hide it. Woe to their soul! For they have brought disaster upon themselves."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sagt dem Gerechten, dass es ihm gut gehen wird,\ndenn er wird die Frucht seiner Taten essen.",
+       "englisch_web": "Tell the righteous that it will be well with them, for they will eat the fruit of their deeds."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Wehe dem Gottlosen!\nUnheil kommt über ihn,\ndenn die Taten seiner Hände werden ihm vergolten werden.",
+       "englisch_web": "Woe to the wicked! Disaster is upon them, for the deeds of their hands will be paid back to them."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Was mein Volk angeht: Kinder sind seine Unterdrücker,\nund Frauen herrschen über es.\nMein Volk, deine Führer führen dich in die Irre\nund zerstören den Weg deiner Pfade.",
+       "englisch_web": "As for my people, children are their oppressors, and women rule over them. My people, those who lead you cause you to err, and destroy the way of your paths."
+      }
+     ],
+     "erklaerung": "Vers 1–3: Gott nimmt dem Land alles weg, worauf es sich verlässt: Nahrung, Wasser, Soldaten, Richter, Ratgeber, Handwerker.\nVers 4–7: Ohne gute Anführer bricht Chaos aus. Unerfahrene, unreife Menschen kommen an die Macht. Niemand will mehr Verantwortung übernehmen: „Ich habe selbst nichts, macht mich nicht zum Anführer!“\nVers 10–11: Mitten im Gericht ein Trost: Den Gerechten wird es gut gehen.\nVers 12: „Kinder“ und „Frauen herrschen“: Damals galt das als Zeichen für eine verkehrte Ordnung, weil Frauen meist keine öffentlichen Ämter hatten. Es ist eine Beschreibung der damaligen Vorstellungen, kein Urteil darüber, ob Frauen gut führen können. Die Bibel erzählt auch von starken Anführerinnen wie Debora (Richter 4–5).\nDer eigentliche Vorwurf steht am Schluss: „Deine Führer führen dich in die Irre.“"
+    },
+    {
+     "ueberschrift": "Gott klagt die Mächtigen an",
+     "vers_von": 13,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Der HERR steht auf, um zu streiten,\nund er steht da, um die Völker zu richten.",
+       "englisch_web": "Yahweh stands up to contend, and stands to judge the peoples."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Der HERR geht ins Gericht mit den Ältesten seines Volkes und mit seinen Fürsten:\n„Ihr seid es, die den Weinberg abgefressen haben.\nDer Raub von den Armen ist in euren Häusern.",
+       "englisch_web": "Yahweh will enter into judgment with the elders of his people and their leaders: “It is you who have eaten up the vineyard. The plunder of the poor is in your houses."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Was fällt euch ein, mein Volk zu zertreten\nund das Gesicht der Armen zu zermalmen?“,\nspricht der Herr, der HERR der Heere.",
+       "englisch_web": "What do you mean that you crush my people, and grind the face of the poor?” says the Lord, Yahweh of Armies."
+      }
+     ],
+     "erklaerung": "Gott tritt auf wie ein Ankläger vor Gericht. Angeklagt sind die Mächtigen, die Ältesten und Fürsten.\nIhr Verbrechen: Sie haben die Armen ausgeplündert. Was den Armen gehört, liegt jetzt in ihren Häusern.\n„Das Gesicht der Armen zermalmen“: ein drastisches Bild für brutale Unterdrückung. Gott nennt die Armen „mein Volk“. Er steht auf ihrer Seite."
+    },
+    {
+     "ueberschrift": "Gegen den Hochmut der Töchter Zions",
+     "vers_von": 16,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Außerdem sagte der HERR:\n„Weil die Töchter Zions hochmütig sind\nund mit hochgerecktem Hals einhergehen,\nmit kokettierenden Blicken,\nund mit trippelnden Schritten gehen\nund mit den Kettchen an ihren Füßen klirren,",
+       "englisch_web": "Moreover Yahweh said, “Because the daughters of Zion are arrogant, and walk with outstretched necks and flirting eyes, walking daintily as they go, jingling ornaments on their feet;"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "darum wird der Herr den Scheitel der Frauen Zions mit Schorf bedecken,\nund der HERR wird ihre Köpfe kahl machen.“",
+       "englisch_web": "therefore the Lord brings sores on the crown of the head of the women of Zion, and Yahweh will make their scalps bald.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "An jenem Tag wird der Herr wegnehmen\ndie Pracht der Fußkettchen, die Stirnbänder, die Halbmond-Halsketten,",
+       "englisch_web": "In that day the Lord will take away the beauty of their anklets, the headbands, the crescent necklaces,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "die Ohrgehänge, die Armreifen, die Schleier,",
+       "englisch_web": "the earrings, the bracelets, the veils,"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "die Kopfbunde, die Schrittkettchen, die Gürtel,\ndie Parfümfläschchen, die Amulette,",
+       "englisch_web": "the headdresses, the ankle chains, the sashes, the perfume containers, the charms,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "die Siegelringe, die Nasenringe,",
+       "englisch_web": "the signet rings, the nose rings,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "die Festkleider, die Umhänge, die Mäntel, die Taschen,",
+       "englisch_web": "the fine robes, the capes, the cloaks, the purses,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "die Handspiegel, die feinen Leinenkleider,\ndie Diademe und die Tücher.",
+       "englisch_web": "the hand mirrors, the fine linen garments, the tiaras, and the shawls."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Und es wird geschehen:\nStatt Wohlgeruch wird Fäulnis sein,\nstatt eines Gürtels ein Strick,\nstatt einer schönen Frisur eine Glatze,\nstatt eines Festgewandes ein Sack,\nund statt Schönheit ein Brandmal.",
+       "englisch_web": "It shall happen that instead of sweet spices, there shall be rottenness; instead of a belt, a rope; instead of well set hair, baldness; instead of a robe, a wearing of sackcloth; and branding instead of beauty."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Deine Männer werden durch das Schwert fallen\nund deine Helden im Krieg.",
+       "englisch_web": "Your men shall fall by the sword, and your mighty in the war."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ihre Tore werden klagen und trauern.\nSie wird verwüstet auf der Erde sitzen.",
+       "englisch_web": "Her gates shall lament and mourn. She shall be desolate and sit on the ground."
+      }
+     ],
+     "erklaerung": "Jesaja kritisiert die reichen Frauen von Jerusalem. Sie stolzieren mit teurem Schmuck und Kleidung durch die Stadt, während die Armen leiden (Vers 15). Ihr Luxus ist mit dem Elend der Armen bezahlt.\nVers 18–23: Eine lange Liste von Schmuck und Kleidern, fast wie ein Katalog. Das zeigt, wie viel Reichtum es gab.\nVers 24: Wenn der Krieg kommt, verlieren sie alles. Statt Parfüm Gestank, statt Schmuck ein Strick. „Brandmal“: Kriegsgefangene wurden damals gebrandmarkt.\nWichtig: Die Kritik richtet sich nicht gegen Frauen oder gegen Schönheit, sondern gegen Hochmut und Luxus auf Kosten der Armen. Jesaja kritisiert genauso die Männer (Vers 14–15).\nVers 25–26: Der Krieg wird alle treffen. Jerusalem sitzt am Ende trauernd am Boden wie eine Witwe."
+    }
+   ]
+  }
+ ]
+}

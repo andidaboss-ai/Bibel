@@ -83859,3 +83859,392 @@ auf den Bergen der Gewürze!
 > **Stark wie der Tod:** Der Höhepunkt: „Die Liebe ist stark wie der Tod. Viele Wasser können sie nicht löschen“ (8,6–7).
 > **Ein Bild für Gottes Liebe:** Juden lesen das Hohelied am Pessachfest als Lied der Liebe zwischen Gott und Israel. Christen haben darin die Liebe zwischen Christus und seiner Gemeinde gesehen. Beide Deutungen ergänzen die wörtliche Lesart.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Jesaja, das erste der großen Prophetenbücher. Es spricht von Gericht und Hoffnung, vom Friedensfürsten und vom leidenden Gottesknecht.
+
+
+---
+
+# Jesaja
+
+## Jesaja – Kapitel 1
+#### Kommt, lasst uns miteinander rechten
+
+---
+
+### Bevor es losgeht: Wer waren die Propheten? Was ist das Buch Jesaja?
+
+Mit Jesaja beginnen die Bücher der Propheten.
+Ein Prophet ist ein Mensch, durch den Gott spricht. Propheten sagen nicht in erster Linie die Zukunft voraus. Sie sagen den Menschen in ihrer Zeit, was Gott von ihnen will. Sie kritisieren Ungerechtigkeit, Unterdrückung der Armen und falschen Gottesdienst. Und sie machen Hoffnung, wenn alles verloren scheint.
+Jesaja lebte vor etwa 2700 Jahren in Jerusalem, ungefähr von 740 bis 700 vor Christus. Damals war das mächtige Assyrien eine große Bedrohung. Jesaja beriet mehrere Könige von Juda.
+Das Buch Jesaja hat 66 Kapitel und wird oft in drei Teile eingeteilt:
+– Kapitel 1–39: Gericht und Hoffnung zur Zeit Jesajas. Hier steht auch die Verheißung vom „Immanuel“ und vom „Friedefürsten“.
+– Kapitel 40–55: Trost für das Volk im Exil in Babylon, etwa 150 Jahre später. „Tröstet, tröstet mein Volk!“ Hier stehen die Lieder vom „Knecht Gottes“, der für andere leidet.
+– Kapitel 56–66: Hoffnung für die Zeit nach der Rückkehr. Ein neuer Himmel und eine neue Erde.
+Viele Forscher meinen, dass die späteren Teile von Schülern Jesajas stammen, die in seinem Geist weitergeschrieben haben. Andere halten Jesaja für den Verfasser des ganzen Buches.
+Kein Prophetenbuch wird im Neuen Testament so oft zitiert wie Jesaja. Juden lesen Jesaja als Wort Gottes an Israel, voller Hoffnung auf Erlösung. Christen sehen in vielen Texten Hinweise auf Jesus Christus.
+Ein Gottesname, der bei Jesaja oft vorkommt: „der Heilige Israels“.
+
+---
+
+### Mein Volk versteht nicht (Vers 1–9)
+
+<sup>1</sup>Die Vision Jesajas, des Sohnes von Amoz,
+die er über Juda und Jerusalem sah
+in den Tagen von Usija, Jotam, Ahas und Hiskia, den Königen von Juda.
+<sup>2</sup>Hört, ihr Himmel, und horch auf, du Erde,
+denn der HERR hat gesprochen:
+„Ich habe Kinder großgezogen und aufgezogen,
+aber sie haben sich gegen mich aufgelehnt.
+<sup>3</sup>Der Ochse kennt seinen Besitzer
+und der Esel die Krippe seines Herrn,
+aber Israel kennt mich nicht.
+Mein Volk versteht nicht.“
+<sup>4</sup>Ach, sündiges Volk,
+ein Volk, beladen mit Schuld,
+Nachkommen von Übeltätern,
+Kinder, die verdorben handeln!
+Sie haben den HERRN verlassen.
+Sie haben den Heiligen Israels verachtet.
+Sie haben sich entfremdet und sind rückwärtsgegangen.
+<sup>5</sup>Warum wollt ihr noch mehr geschlagen werden,
+dass ihr euch immer mehr auflehnt?
+Der ganze Kopf ist krank,
+und das ganze Herz ist schwach.
+<sup>6</sup>Von der Fußsohle bis zum Kopf ist nichts Gesundes an ihm,
+sondern Wunden, Striemen und offene Geschwüre.
+Sie sind nicht ausgedrückt, nicht verbunden
+und nicht mit Öl gelindert worden.
+<sup>7</sup>Euer Land ist verwüstet.
+Eure Städte sind mit Feuer verbrannt.
+Fremde verzehren euer Land vor euren Augen,
+und es ist verwüstet, wie von Fremden zerstört.
+<sup>8</sup>Die Tochter Zion ist übrig geblieben
+wie eine Hütte im Weinberg,
+wie ein Unterstand im Gurkenfeld,
+wie eine belagerte Stadt.
+<sup>9</sup>Hätte der HERR der Heere uns nicht einen ganz kleinen Rest übrig gelassen,
+dann wären wir wie Sodom geworden.
+Wir wären wie Gomorra gewesen.
+
+> **Was bedeutet das?**
+> Vers 1: Jesaja wirkte unter vier Königen. Das sind etwa 40 Jahre.
+> Vers 2–3: Gott klagt wie ein enttäuschter Vater: Ich habe meine Kinder großgezogen, und sie wenden sich ab. Sogar Ochse und Esel wissen, wohin sie gehören. Aber mein Volk weiß es nicht. Von diesem Vers kommen Ochs und Esel an der Krippe in vielen Weihnachtsdarstellungen.
+> Vers 5–6: Das Volk ist wie ein Körper voller Wunden, von Kopf bis Fuß. Es ist durch Krieg und eigene Schuld schwer verletzt.
+> Vers 8: Die „Tochter Zion“ ist Jerusalem. Rings um die Stadt ist alles verwüstet. Sie steht allein da wie eine kleine Hütte auf einem leeren Feld. Das geschah, als die Assyrer im Jahr 701 vor Christus das Land verwüsteten.
+> Vers 9: Gott hat einen „Rest“ übrig gelassen. Der Gedanke vom „Rest“, der gerettet wird, ist bei Jesaja sehr wichtig.
+
+---
+
+### Gott will Gerechtigkeit, keine leeren Opfer (Vers 10–17)
+
+<sup>10</sup>Hört das Wort des HERRN, ihr Herrscher von Sodom!
+Horcht auf die Weisung unseres Gottes, du Volk von Gomorra!
+<sup>11</sup>„Was soll mir die Menge eurer Opfer?“, sagt der HERR.
+„Ich habe genug von den Brandopfern der Widder
+und vom Fett der Mastkälber.
+Ich habe kein Gefallen am Blut der Stiere,
+der Lämmer und der Ziegenböcke.
+<sup>12</sup>Wenn ihr kommt, um vor mir zu erscheinen,
+wer hat das von euch verlangt,
+dass ihr meine Vorhöfe zertrampelt?
+<sup>13</sup>Bringt keine nichtigen Opfergaben mehr!
+Räucherwerk ist mir ein Gräuel.
+Neumonde, Sabbate und Versammlungen:
+Ich ertrage keine bösen Versammlungen.
+<sup>14</sup>Meine Seele hasst eure Neumonde und eure Feste.
+Sie sind mir eine Last.
+Ich bin es müde, sie zu tragen.
+<sup>15</sup>Wenn ihr eure Hände ausbreitet,
+dann verberge ich meine Augen vor euch.
+Ja, wenn ihr viel betet, höre ich nicht.
+Eure Hände sind voll Blut.
+<sup>16</sup>Wascht euch! Macht euch rein!
+Schafft eure bösen Taten weg aus meinen Augen!
+Hört auf, Böses zu tun!
+<sup>17</sup>Lernt, Gutes zu tun!
+Sucht das Recht!
+Helft den Unterdrückten!
+Verschafft den Waisen Recht!
+Führt die Sache der Witwe!“
+
+> **Was bedeutet das?**
+> Vers 10: Jesaja nennt die Herrscher Jerusalems „Herrscher von Sodom“. Das ist eine schockierende Provokation. Sodom war das Sinnbild für eine böse Stadt.
+> Vers 11–15: Die Menschen feiern viele Gottesdienste, bringen Opfer und beten viel. Aber Gott will das nicht! Warum? Weil ihre Hände „voll Blut“ sind. Sie unterdrücken andere und tun Unrecht.
+> Gott lehnt nicht den Gottesdienst an sich ab. Er lehnt Gottesdienst ab, der mit Ungerechtigkeit im Alltag verbunden ist. Frömmigkeit ohne Gerechtigkeit ist wertlos.
+> Vers 16–17: Was Gott wirklich will: Hört auf mit dem Bösen. Tut Gutes. Sorgt für Gerechtigkeit. Helft den Schwächsten: Unterdrückten, Waisen und Witwen. Diese Botschaft gilt bis heute für alle, die an Gott glauben.
+
+---
+
+### Wenn eure Sünden blutrot sind (Vers 18–20)
+
+<sup>18</sup>„Kommt doch, und lasst uns miteinander rechten“, sagt der HERR.
+„Wenn eure Sünden wie Scharlach sind,
+sollen sie weiß werden wie Schnee.
+Wenn sie rot sind wie Purpur,
+sollen sie wie Wolle werden.
+<sup>19</sup>Wenn ihr willig seid und gehorcht,
+dann werdet ihr das Gute des Landes essen.
+<sup>20</sup>Wenn ihr euch aber weigert und widerspenstig seid,
+dann werdet ihr vom Schwert gefressen werden,
+denn der Mund des HERRN hat es gesagt.“
+
+> **Was bedeutet das?**
+> Vers 18 ist eines der schönsten Angebote der Bibel. Gott lädt ein: Kommt, lasst uns die Sache klären! Selbst wenn eure Schuld so rot ist wie Blut, kann ich sie weiß machen wie Schnee. Es gibt Vergebung und einen Neuanfang.
+> Vers 19–20: Aber der Mensch muss sich entscheiden: Will ich umkehren oder nicht?
+
+---
+
+### Die treue Stadt ist untreu geworden (Vers 21–31)
+
+<sup>21</sup>Wie ist die treue Stadt zur Hure geworden!
+Sie war voller Recht.
+Gerechtigkeit wohnte in ihr,
+aber jetzt wohnen Mörder darin.
+<sup>22</sup>Dein Silber ist zu Schlacke geworden,
+dein Wein mit Wasser verdünnt.
+<sup>23</sup>Deine Fürsten sind Aufrührer und Gefährten von Dieben.
+Jeder liebt Bestechung und jagt nach Geschenken.
+Sie verschaffen den Waisen kein Recht,
+und die Sache der Witwe kommt nicht vor sie.
+<sup>24</sup>Darum spricht der Herr, der HERR der Heere, der Mächtige Israels:
+„Ach, ich will mir Erleichterung verschaffen an meinen Gegnern
+und mich an meinen Feinden rächen.
+<sup>25</sup>Ich will meine Hand gegen dich wenden,
+deine Schlacke gründlich ausschmelzen
+und all dein Blei entfernen.
+<sup>26</sup>Ich will deine Richter wiederherstellen wie am Anfang
+und deine Ratgeber wie zu Beginn.
+Danach wirst du genannt werden:
+‚Die Stadt der Gerechtigkeit, eine treue Stadt.‘
+<sup>27</sup>Zion wird durch Recht erlöst werden
+und ihre Umkehrenden durch Gerechtigkeit.
+<sup>28</sup>Aber die Übertreter und Sünder werden zusammen zerbrochen werden,
+und die den HERRN verlassen, werden umkommen.
+<sup>29</sup>Denn sie werden sich schämen wegen der Eichen, die ihr begehrt habt,
+und ihr werdet zuschanden werden wegen der Gärten, die ihr erwählt habt.
+<sup>30</sup>Denn ihr werdet sein wie eine Eiche, deren Laub verwelkt,
+und wie ein Garten, der kein Wasser hat.
+<sup>31</sup>Der Starke wird wie Zunder sein und sein Werk wie ein Funke.
+Beide werden zusammen brennen,
+und niemand wird löschen.“
+
+> **Was bedeutet das?**
+> Vers 21: Jerusalem war einmal eine Stadt der Gerechtigkeit. Jetzt ist sie Gott untreu geworden, wie eine Frau, die ihren Mann betrügt. Dieses Bild benutzen die Propheten oft für die Untreue gegenüber Gott.
+> Vers 22–23: Alles ist verdorben: Das Silber ist wertlos, der Wein verdünnt, die Anführer sind bestechlich. Und wieder: Waisen und Witwen bekommen kein Recht.
+> Vers 25–26: Gott will die Stadt reinigen wie ein Schmied, der Silber im Feuer von Schlacke befreit. Danach wird sie wieder „Stadt der Gerechtigkeit“ heißen. Gottes Gericht hat ein Ziel: Erneuerung.
+> Vers 29: „Eichen“ und „Gärten“ waren Orte, an denen man fremde Götter verehrte.
+> Vers 31: Wer sich auf seine eigene Stärke verlässt, verbrennt wie Zunder.
+
+## Jesaja – Kapitel 2
+#### Schwerter zu Pflugscharen
+
+---
+
+### Der Berg des HERRN (Vers 1–5)
+
+<sup>1</sup>Dies ist es, was Jesaja, der Sohn von Amoz, über Juda und Jerusalem sah.
+<sup>2</sup>Es wird geschehen in den letzten Tagen,
+dass der Berg des Hauses des HERRN fest stehen wird
+als der höchste der Berge
+und erhaben über die Hügel.
+Und alle Nationen werden zu ihm strömen.
+<sup>3</sup>Viele Völker werden hingehen und sagen:
+„Kommt, lasst uns hinaufgehen zum Berg des HERRN,
+zum Haus des Gottes Jakobs!
+Er wird uns seine Wege lehren,
+und wir wollen auf seinen Pfaden gehen.“
+Denn von Zion wird die Weisung ausgehen
+und das Wort des HERRN von Jerusalem.
+<sup>4</sup>Er wird zwischen den Nationen richten
+und vielen Völkern Recht sprechen.
+Sie werden ihre Schwerter zu Pflugscharen schmieden
+und ihre Speere zu Winzermessern.
+Kein Volk wird gegen ein anderes das Schwert erheben,
+und sie werden den Krieg nicht mehr lernen.
+<sup>5</sup>Haus Jakob, kommt,
+und lasst uns im Licht des HERRN gehen!
+
+> **Was bedeutet das?**
+> Das ist eine der größten Friedensvisionen der Welt.
+> Vers 2–3: In der Zukunft werden alle Völker nach Jerusalem kommen, nicht um zu erobern, sondern um von Gott zu lernen.
+> Vers 4: Weil Gott gerecht zwischen den Völkern richtet, braucht niemand mehr Waffen. Aus Schwertern werden Pflüge, aus Speeren Werkzeuge für den Weinberg. Niemand lernt mehr Krieg.
+> „Schwerter zu Pflugscharen“ wurde in der DDR zum Zeichen der Friedensbewegung in den Kirchen. Eine Statue mit diesem Motiv steht vor dem Gebäude der Vereinten Nationen in New York.
+> Fast derselbe Text steht auch beim Propheten Micha (Micha 4,1–3).
+> Vers 5: Jesaja lädt sein Volk ein: Lasst uns schon jetzt so leben, im Licht Gottes.
+
+---
+
+### Der Tag des HERRN gegen allen Hochmut (Vers 6–22)
+
+<sup>6</sup>Denn du hast dein Volk verlassen, das Haus Jakob,
+weil sie voll sind mit dem, was vom Osten kommt,
+mit Wahrsagern wie die Philister,
+und sie schlagen ein mit den Kindern der Fremden.
+<sup>7</sup>Ihr Land ist voll Silber und Gold,
+und ihre Schätze haben kein Ende.
+Ihr Land ist auch voll Pferde,
+und ihre Streitwagen haben kein Ende.
+<sup>8</sup>Ihr Land ist auch voll Götzen.
+Sie beten das Werk ihrer eigenen Hände an,
+das, was ihre eigenen Finger gemacht haben.
+<sup>9</sup>Der Mensch wird erniedrigt,
+und die Menschheit wird gedemütigt.
+Darum vergib ihnen nicht.
+<sup>10</sup>Geh in den Felsen hinein
+und versteck dich im Staub
+vor dem Schrecken des HERRN
+und vor der Herrlichkeit seiner Majestät.
+<sup>11</sup>Die hochmütigen Blicke des Menschen werden erniedrigt werden,
+und der Stolz der Menschen wird gebeugt werden,
+und der HERR allein wird an jenem Tag erhaben sein.
+<sup>12</sup>Denn es wird einen Tag des HERRN der Heere geben
+über alles Stolze und Hochmütige
+und über alles Erhabene,
+und es wird erniedrigt werden,
+<sup>13</sup>über alle Zedern des Libanon, die hoch und erhaben sind,
+über alle Eichen von Baschan,
+<sup>14</sup>über alle hohen Berge,
+über alle Hügel, die sich erheben,
+<sup>15</sup>über jeden hohen Turm,
+über jede befestigte Mauer,
+<sup>16</sup>über alle Schiffe von Tarschisch
+und über alle prächtigen Bilder.
+<sup>17</sup>Der Stolz des Menschen wird gebeugt werden,
+und der Hochmut der Menschen wird erniedrigt werden,
+und der HERR allein wird an jenem Tag erhaben sein.
+<sup>18</sup>Die Götzen werden völlig verschwinden.
+<sup>19</sup>Die Menschen werden in die Höhlen der Felsen gehen
+und in die Löcher der Erde
+vor dem Schrecken des HERRN
+und vor der Herrlichkeit seiner Majestät,
+wenn er sich erhebt, um die Erde gewaltig zu erschüttern.
+<sup>20</sup>An jenem Tag werden die Menschen ihre Götzen aus Silber
+und ihre Götzen aus Gold,
+die sie sich gemacht haben, um sie anzubeten,
+den Maulwürfen und den Fledermäusen hinwerfen,
+<sup>21</sup>um in die Felsenhöhlen
+und in die Spalten der zerklüfteten Felsen zu gehen
+vor dem Schrecken des HERRN
+und vor der Herrlichkeit seiner Majestät,
+wenn er sich erhebt, um die Erde gewaltig zu erschüttern.
+<sup>22</sup>Hört auf, auf den Menschen zu vertrauen,
+in dessen Nase nur ein Hauch ist!
+Denn was ist er schon wert?
+
+> **Was bedeutet das?**
+> Vers 6–8: Das Volk ist reich geworden: Silber, Gold, Pferde, Streitwagen. Aber es hat Gott vergessen. Es glaubt an Wahrsager und betet selbst gemachte Götzen an.
+> Vers 9: „Vergib ihnen nicht“ ist ein harter Satz. Jesaja ist so erschüttert über den Abfall seines Volkes, dass er Gott bittet, nicht einfach darüber hinwegzusehen.
+> Vers 12–17: Der „Tag des HERRN“ ist der Tag, an dem Gott eingreift und alles Hohe und Stolze niedrig macht: hohe Bäume, hohe Berge, hohe Türme, große Handelsschiffe. Alles, worauf Menschen stolz sind, verliert seinen Glanz. Nur Gott bleibt erhaben.
+> Vers 20: Ein fast komisches Bild: Die Menschen werfen ihre goldenen Götzen weg, zu den Maulwürfen und Fledermäusen, in die dunklen Löcher.
+> Vers 22: Vertraue nicht auf Menschen. Ihr Leben ist nur ein Atemzug.
+
+## Jesaja – Kapitel 3
+#### Gericht über Jerusalem
+
+---
+
+### Das Chaos in der Führung (Vers 1–12)
+
+<sup>1</sup>Denn siehe, der Herr, der HERR der Heere,
+nimmt aus Jerusalem und aus Juda
+Vorrat und Stütze weg,
+den ganzen Vorrat an Brot und den ganzen Vorrat an Wasser,
+<sup>2</sup>den Helden und den Krieger,
+den Richter und den Propheten,
+den Wahrsager und den Ältesten,
+<sup>3</sup>den Hauptmann über fünfzig und den Angesehenen,
+den Ratgeber, den geschickten Handwerker
+und den klugen Beschwörer.
+<sup>4</sup>„Ich werde ihnen Knaben zu Fürsten geben,
+und Kinder werden über sie herrschen.
+<sup>5</sup>Das Volk wird unterdrückt werden, einer vom anderen
+und jeder von seinem Nächsten.
+Der Junge wird sich gegen den Alten auflehnen
+und der Gemeine gegen den Angesehenen.
+<sup>6</sup>Ja, einer wird seinen Bruder im Haus seines Vaters packen und sagen:
+‚Du hast noch einen Mantel, du sollst unser Anführer sein,
+und dieser Trümmerhaufen soll unter deiner Hand sein!‘
+<sup>7</sup>An jenem Tag wird er ausrufen:
+‚Ich will kein Heiler sein,
+denn in meinem Haus ist weder Brot noch Kleidung.
+Ihr sollt mich nicht zum Anführer des Volkes machen!‘“
+<sup>8</sup>Denn Jerusalem ist zerstört, und Juda ist gefallen,
+weil ihre Zunge und ihre Taten gegen den HERRN sind,
+um die Augen seiner Herrlichkeit herauszufordern.
+<sup>9</sup>Ihr Gesichtsausdruck zeugt gegen sie.
+Sie stellen ihre Sünde zur Schau wie Sodom.
+Sie verbergen sie nicht.
+Wehe ihrer Seele!
+Denn sie haben selbst Unheil über sich gebracht.
+<sup>10</sup>Sagt dem Gerechten, dass es ihm gut gehen wird,
+denn er wird die Frucht seiner Taten essen.
+<sup>11</sup>Wehe dem Gottlosen!
+Unheil kommt über ihn,
+denn die Taten seiner Hände werden ihm vergolten werden.
+<sup>12</sup>Was mein Volk angeht: Kinder sind seine Unterdrücker,
+und Frauen herrschen über es.
+Mein Volk, deine Führer führen dich in die Irre
+und zerstören den Weg deiner Pfade.
+
+> **Was bedeutet das?**
+> Vers 1–3: Gott nimmt dem Land alles weg, worauf es sich verlässt: Nahrung, Wasser, Soldaten, Richter, Ratgeber, Handwerker.
+> Vers 4–7: Ohne gute Anführer bricht Chaos aus. Unerfahrene, unreife Menschen kommen an die Macht. Niemand will mehr Verantwortung übernehmen: „Ich habe selbst nichts, macht mich nicht zum Anführer!“
+> Vers 10–11: Mitten im Gericht ein Trost: Den Gerechten wird es gut gehen.
+> Vers 12: „Kinder“ und „Frauen herrschen“: Damals galt das als Zeichen für eine verkehrte Ordnung, weil Frauen meist keine öffentlichen Ämter hatten. Es ist eine Beschreibung der damaligen Vorstellungen, kein Urteil darüber, ob Frauen gut führen können. Die Bibel erzählt auch von starken Anführerinnen wie Debora (Richter 4–5).
+> Der eigentliche Vorwurf steht am Schluss: „Deine Führer führen dich in die Irre.“
+
+---
+
+### Gott klagt die Mächtigen an (Vers 13–15)
+
+<sup>13</sup>Der HERR steht auf, um zu streiten,
+und er steht da, um die Völker zu richten.
+<sup>14</sup>Der HERR geht ins Gericht mit den Ältesten seines Volkes und mit seinen Fürsten:
+„Ihr seid es, die den Weinberg abgefressen haben.
+Der Raub von den Armen ist in euren Häusern.
+<sup>15</sup>Was fällt euch ein, mein Volk zu zertreten
+und das Gesicht der Armen zu zermalmen?“,
+spricht der Herr, der HERR der Heere.
+
+> **Was bedeutet das?**
+> Gott tritt auf wie ein Ankläger vor Gericht. Angeklagt sind die Mächtigen, die Ältesten und Fürsten.
+> Ihr Verbrechen: Sie haben die Armen ausgeplündert. Was den Armen gehört, liegt jetzt in ihren Häusern.
+> „Das Gesicht der Armen zermalmen“: ein drastisches Bild für brutale Unterdrückung. Gott nennt die Armen „mein Volk“. Er steht auf ihrer Seite.
+
+---
+
+### Gegen den Hochmut der Töchter Zions (Vers 16–26)
+
+<sup>16</sup>Außerdem sagte der HERR:
+„Weil die Töchter Zions hochmütig sind
+und mit hochgerecktem Hals einhergehen,
+mit kokettierenden Blicken,
+und mit trippelnden Schritten gehen
+und mit den Kettchen an ihren Füßen klirren,
+<sup>17</sup>darum wird der Herr den Scheitel der Frauen Zions mit Schorf bedecken,
+und der HERR wird ihre Köpfe kahl machen.“
+<sup>18</sup>An jenem Tag wird der Herr wegnehmen
+die Pracht der Fußkettchen, die Stirnbänder, die Halbmond-Halsketten,
+<sup>19</sup>die Ohrgehänge, die Armreifen, die Schleier,
+<sup>20</sup>die Kopfbunde, die Schrittkettchen, die Gürtel,
+die Parfümfläschchen, die Amulette,
+<sup>21</sup>die Siegelringe, die Nasenringe,
+<sup>22</sup>die Festkleider, die Umhänge, die Mäntel, die Taschen,
+<sup>23</sup>die Handspiegel, die feinen Leinenkleider,
+die Diademe und die Tücher.
+<sup>24</sup>Und es wird geschehen:
+Statt Wohlgeruch wird Fäulnis sein,
+statt eines Gürtels ein Strick,
+statt einer schönen Frisur eine Glatze,
+statt eines Festgewandes ein Sack,
+und statt Schönheit ein Brandmal.
+<sup>25</sup>Deine Männer werden durch das Schwert fallen
+und deine Helden im Krieg.
+<sup>26</sup>Ihre Tore werden klagen und trauern.
+Sie wird verwüstet auf der Erde sitzen.
+
+> **Was bedeutet das?**
+> Jesaja kritisiert die reichen Frauen von Jerusalem. Sie stolzieren mit teurem Schmuck und Kleidung durch die Stadt, während die Armen leiden (Vers 15). Ihr Luxus ist mit dem Elend der Armen bezahlt.
+> Vers 18–23: Eine lange Liste von Schmuck und Kleidern, fast wie ein Katalog. Das zeigt, wie viel Reichtum es gab.
+> Vers 24: Wenn der Krieg kommt, verlieren sie alles. Statt Parfüm Gestank, statt Schmuck ein Strick. „Brandmal“: Kriegsgefangene wurden damals gebrandmarkt.
+> Wichtig: Die Kritik richtet sich nicht gegen Frauen oder gegen Schönheit, sondern gegen Hochmut und Luxus auf Kosten der Armen. Jesaja kritisiert genauso die Männer (Vers 14–15).
+> Vers 25–26: Der Krieg wird alle treffen. Jerusalem sitzt am Ende trauernd am Boden wie eine Witwe.
