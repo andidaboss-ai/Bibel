@@ -68922,3 +68922,311 @@ und ich werde im Haus des HERRN wohnen für immer.
 > „Mein Becher fließt über“: Gott gibt mehr als genug.
 > Vers 6: „Güte und Gnade werden mir folgen“: Wörtlich heißt es „sie werden mir nachjagen“. Nicht die Feinde verfolgen mich, sondern Gottes Güte.
 > „Im Haus des HERRN wohnen für immer“: Für David war das der Tempel. Christen und viele Juden verstehen es auch als Hoffnung auf ein Leben bei Gott über den Tod hinaus.
+
+## Psalm 24
+#### Der König der Herrlichkeit zieht ein
+
+---
+
+### Die Erde gehört dem HERRN (Vers 1–2)
+
+<sup>1</sup>Ein Psalm von David.
+Die Erde gehört dem HERRN und alles, was sie erfüllt,
+die Welt und alle, die darauf wohnen.
+<sup>2</sup>Denn er hat sie über den Meeren gegründet
+und über den Fluten fest hingestellt.
+
+> **Was bedeutet das?**
+> Alles gehört Gott: die Erde, alles, was darauf ist, und alle Menschen. Wir sind nicht Besitzer der Welt, sondern Gäste und Verwalter.
+> Damals stellte man sich vor, dass die Erde wie auf Wasser gebaut ist. Gott hat sie fest gegründet, das Chaos des Wassers kann sie nicht wegspülen.
+> Paulus zitiert Vers 1 in 1. Korinther 10,26.
+
+---
+
+### Wer darf auf Gottes Berg? (Vers 3–6)
+
+<sup>3</sup>Wer darf auf den Berg des HERRN hinaufsteigen?
+Wer darf an seinem heiligen Ort stehen?
+<sup>4</sup>Wer reine Hände hat und ein lauteres Herz,
+wer seine Seele nicht auf Lüge richtet
+und nicht falsch geschworen hat.
+<sup>5</sup>Er wird Segen vom HERRN empfangen
+und Gerechtigkeit von dem Gott seiner Rettung.
+<sup>6</sup>Das ist die Generation derer, die nach ihm fragen,
+die dein Angesicht suchen – Jakob.
+Sela.
+
+> **Was bedeutet das?**
+> Dieselbe Frage wie in Psalm 15: Wer darf in Gottes Nähe kommen?
+> Die Antwort: „Reine Hände“ (gute Taten) und „ein lauteres Herz“ (gute Absichten). Das Äußere und das Innere gehören zusammen.
+> Vers 6: Im Hebräischen ist das Ende schwer zu verstehen. Manche übersetzen: „die dein Angesicht suchen, Gott Jakobs“.
+> Jesus sagt: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen“ (Matthäus 5,8).
+
+---
+
+### Macht die Tore weit! (Vers 7–10)
+
+<sup>7</sup>Hebt eure Köpfe hoch, ihr Tore!
+Erhebt euch, ihr uralten Pforten,
+und der König der Herrlichkeit wird einziehen!
+<sup>8</sup>Wer ist der König der Herrlichkeit?
+Der HERR, stark und mächtig,
+der HERR, mächtig im Kampf.
+<sup>9</sup>Hebt eure Köpfe hoch, ihr Tore!
+Ja, hebt sie hoch, ihr uralten Pforten,
+und der König der Herrlichkeit wird einziehen!
+<sup>10</sup>Wer ist dieser König der Herrlichkeit?
+Der HERR der Heere ist der König der Herrlichkeit!
+Sela.
+
+> **Was bedeutet das?**
+> Hier hört man eine feierliche Prozession zum Tempel. Vielleicht wurde der Psalm gesungen, als die Bundeslade nach Jerusalem gebracht wurde (2. Samuel 6).
+> Ein Chor ruft den Toren zu: Öffnet euch! Hebt euch hoch! Die Torwächter fragen zurück: Wer ist dieser König? Und der Chor antwortet: Der HERR!
+> Die Tore sind so klein für so einen großen König, dass sie „ihre Köpfe heben“ sollen, also größer werden.
+> „HERR der Heere“: Gott ist der Herr über alle Mächte im Himmel und auf der Erde, über Engel und Sterne.
+> Das bekannte Adventslied „Macht hoch die Tür, die Tor macht weit“ ist von diesem Psalm inspiriert. Christen singen es in der Zeit vor Weihnachten, wenn sie das Kommen von Jesus erwarten.
+
+## Psalm 25
+#### Zeig mir deine Wege
+
+---
+
+### Zu dir erhebe ich meine Seele (Vers 1–3)
+
+<sup>1</sup>Von David.
+Zu dir, HERR, erhebe ich meine Seele.
+<sup>2</sup>Mein Gott, ich habe dir vertraut.
+Lass mich nicht zuschanden werden!
+Lass meine Feinde nicht über mich triumphieren!
+<sup>3</sup>Ja, keiner, der auf dich wartet, wird zuschanden.
+Zuschanden werden die, die ohne Grund treulos handeln.
+
+> **Was bedeutet das?**
+> Psalm 25 ist im Hebräischen ein Alphabet-Gedicht: Jeder Vers beginnt mit dem nächsten Buchstaben des hebräischen Alphabets. So konnte man ihn leichter auswendig lernen.
+> „Ich erhebe meine Seele zu dir“: Ich richte mich ganz auf dich aus, wie man die Hände zum Gebet erhebt.
+> „Zuschanden werden“: blamiert und enttäuscht dastehen. Wer auf Gott wartet, wird nicht enttäuscht.
+
+---
+
+### Lehre mich (Vers 4–7)
+
+<sup>4</sup>Zeig mir deine Wege, HERR!
+Lehre mich deine Pfade!
+<sup>5</sup>Führe mich in deiner Wahrheit und lehre mich,
+denn du bist der Gott meiner Rettung.
+Auf dich warte ich den ganzen Tag.
+<sup>6</sup>HERR, denk an dein Erbarmen und an deine Güte,
+denn sie sind von Ewigkeit her.
+<sup>7</sup>Denk nicht an die Sünden meiner Jugend und an meine Übertretungen!
+Denk an mich nach deiner Güte,
+um deiner Güte willen, HERR!
+
+> **Was bedeutet das?**
+> Der Beter will von Gott lernen, wie man richtig lebt.
+> Vers 6–7 ist ein schönes Wortspiel: Gott soll sich „erinnern“ an seine Güte, aber „nicht erinnern“ an meine Sünden. Gottes Gedächtnis soll voller Liebe sein, nicht voller Vorwürfe.
+> „Sünden meiner Jugend“: Fehler, die man als junger Mensch gemacht hat und die einen später noch belasten.
+
+---
+
+### Der HERR ist gut (Vers 8–11)
+
+<sup>8</sup>Gut und aufrichtig ist der HERR,
+darum zeigt er den Sündern den Weg.
+<sup>9</sup>Er leitet die Demütigen im Recht.
+Er lehrt die Demütigen seinen Weg.
+<sup>10</sup>Alle Pfade des HERRN sind Güte und Wahrheit
+für die, die seinen Bund und seine Zeugnisse halten.
+<sup>11</sup>Um deines Namens willen, HERR,
+vergib meine Schuld, denn sie ist groß.
+
+> **Was bedeutet das?**
+> Vers 8: Weil Gott gut ist, gibt er Sünder nicht auf. Er zeigt ihnen den Weg zurück.
+> Gott lehrt die „Demütigen“, die zugeben, dass sie nicht alles wissen.
+> Vers 11: Der Beter bittet um Vergebung, nicht weil er sie verdient hat, sondern „um deines Namens willen“: weil Gott barmherzig ist.
+
+---
+
+### Die Freundschaft des HERRN (Vers 12–15)
+
+<sup>12</sup>Wer ist der Mensch, der den HERRN fürchtet?
+Er wird ihn den Weg lehren, den er wählen soll.
+<sup>13</sup>Seine Seele wird im Guten wohnen.
+Seine Nachkommen werden das Land erben.
+<sup>14</sup>Die Freundschaft des HERRN ist mit denen, die ihn fürchten.
+Er wird ihnen seinen Bund zeigen.
+<sup>15</sup>Meine Augen sind immer auf den HERRN gerichtet,
+denn er wird meine Füße aus dem Netz ziehen.
+
+> **Was bedeutet das?**
+> Vers 14 ist wunderschön: Gott ist ein Freund für die, die ihn ehren. Das hebräische Wort meint einen engen, vertrauten Kreis, in dem man Geheimnisse teilt.
+> Jesus sagt: „Ich nenne euch nicht mehr Knechte, sondern Freunde“ (Johannes 15,15).
+> Vers 15: Wie ein Tier, das sich im Netz verfangen hat, braucht der Beter Gottes Hilfe, um frei zu werden.
+
+---
+
+### Wende dich mir zu (Vers 16–22)
+
+<sup>16</sup>Wende dich mir zu und sei mir gnädig,
+denn ich bin einsam und elend.
+<sup>17</sup>Die Nöte meines Herzens sind groß geworden.
+Ach, führe mich heraus aus meinen Ängsten!
+<sup>18</sup>Sieh mein Elend und meine Mühe an!
+Vergib alle meine Sünden!
+<sup>19</sup>Sieh meine Feinde an, denn sie sind viele.
+Sie hassen mich mit grausamem Hass.
+<sup>20</sup>Ach, bewahre meine Seele und rette mich!
+Lass mich nicht enttäuscht werden, denn bei dir suche ich Zuflucht.
+<sup>21</sup>Lauterkeit und Aufrichtigkeit sollen mich behüten,
+denn ich warte auf dich.
+<sup>22</sup>Gott, erlöse Israel aus allen seinen Nöten!
+
+> **Was bedeutet das?**
+> „Einsam und elend“: Der Beter fühlt sich allein gelassen. Er bittet Gott, sich ihm zuzuwenden.
+> Er bringt alles vor Gott: seine Ängste, seine Mühe, seine Sünden, seine Feinde.
+> Vers 22: Am Ende weitet sich das Gebet auf das ganze Volk. Dieser Vers steht außerhalb des Alphabets, wie ein Nachwort. Der Einzelne betet nicht nur für sich, sondern für alle.
+
+## Psalm 26
+#### Ich gehe meinen Weg in Lauterkeit
+
+---
+
+### Prüfe mich, HERR (Vers 1–5)
+
+<sup>1</sup>Von David.
+Richte mich, HERR, denn ich bin in meiner Lauterkeit gegangen.
+Ich habe auch auf den HERRN vertraut, ohne zu wanken.
+<sup>2</sup>Prüfe mich, HERR, und erprobe mich!
+Erforsche mein Herz und meinen Verstand!
+<sup>3</sup>Denn deine Güte ist vor meinen Augen.
+Ich bin in deiner Wahrheit gegangen.
+<sup>4</sup>Ich habe nicht mit falschen Menschen zusammengesessen,
+und ich gehe nicht mit Heuchlern.
+<sup>5</sup>Ich hasse die Versammlung der Übeltäter
+und will nicht bei den Gottlosen sitzen.
+
+> **Was bedeutet das?**
+> Der Beter wird zu Unrecht beschuldigt. Er bittet Gott, ihn zu prüfen. Er hat nichts zu verbergen.
+> Das ist kein Stolz. Er sagt nicht: Ich bin ohne Sünde. Er sagt: Ich habe ehrlich versucht, mit dir zu leben.
+> Vers 4–5 erinnern an Psalm 1: Er sitzt nicht im Kreis derer, die Böses planen.
+> „Ich hasse die Versammlung der Übeltäter“: Er lehnt das Böse entschieden ab. Gemeint ist nicht Hass auf Menschen, sondern ein klares Nein zu ihren bösen Plänen.
+
+---
+
+### Ich wasche meine Hände in Unschuld (Vers 6–8)
+
+<sup>6</sup>Ich will meine Hände in Unschuld waschen,
+so will ich um deinen Altar gehen, HERR,
+<sup>7</sup>um die Stimme des Dankes hören zu lassen
+und von allen deinen Wundern zu erzählen.
+<sup>8</sup>HERR, ich liebe die Wohnung deines Hauses,
+den Ort, an dem deine Herrlichkeit wohnt.
+
+> **Was bedeutet das?**
+> „Die Hände in Unschuld waschen“: Bevor die Priester zum Altar gingen, wuschen sie sich die Hände (2. Mose 30,19–21). Der Beter sagt: Ich komme mit reinem Gewissen.
+> Die Redewendung „seine Hände in Unschuld waschen“ kennen wir bis heute. Sie kommt aus diesem Psalm. Pilatus wusch sich die Hände, als er Jesus verurteilte (Matthäus 27,24), aber bei ihm war es eine Ausrede.
+> Vers 8: Der Beter liebt den Tempel, weil dort Gottes Herrlichkeit wohnt.
+
+---
+
+### Raffe mich nicht mit den Sündern weg (Vers 9–12)
+
+<sup>9</sup>Raffe meine Seele nicht mit den Sündern weg,
+und mein Leben nicht mit den blutgierigen Männern,
+<sup>10</sup>an deren Händen Bosheit ist
+und deren rechte Hand voll Bestechung ist.
+<sup>11</sup>Ich aber gehe meinen Weg in meiner Lauterkeit.
+Erlöse mich und sei mir gnädig!
+<sup>12</sup>Mein Fuß steht auf ebenem Boden.
+In den Versammlungen will ich den HERRN loben.
+
+> **Was bedeutet das?**
+> Der Beter bittet: Lass mich nicht dasselbe Schicksal haben wie die Gewalttäter und Bestechlichen.
+> Vers 11: Obwohl er ehrlich lebt, bittet er trotzdem um Gnade. Er weiß: Am Ende bin ich auf Gottes Erbarmen angewiesen.
+> Vers 12: „Ebener Boden“: Er steht sicher und fest. Er wird nicht stolpern.
+
+## Psalm 27
+#### Der HERR ist mein Licht
+
+---
+
+### Wen sollte ich fürchten? (Vers 1–3)
+
+<sup>1</sup>Von David.
+Der HERR ist mein Licht und meine Rettung.
+Wen sollte ich fürchten?
+Der HERR ist die Kraft meines Lebens.
+Vor wem sollte ich mich fürchten?
+<sup>2</sup>Als Übeltäter auf mich losgingen, um mein Fleisch zu fressen,
+meine Gegner und Feinde,
+da stolperten sie und fielen.
+<sup>3</sup>Auch wenn ein Heer sich gegen mich lagert,
+fürchtet sich mein Herz nicht.
+Auch wenn Krieg gegen mich aufsteht,
+bleibe ich auch dann zuversichtlich.
+
+> **Was bedeutet das?**
+> Psalm 27 beginnt mit großem Vertrauen: Gott ist mein Licht im Dunkeln, meine Rettung in der Gefahr, die Kraft meines Lebens.
+> Wer Gott an seiner Seite hat, braucht keine Angst zu haben, nicht einmal vor einem ganzen Heer.
+> „Um mein Fleisch zu fressen“: Die Feinde sind wie Raubtiere.
+
+---
+
+### Nur eines erbitte ich (Vers 4–6)
+
+<sup>4</sup>Eines habe ich vom HERRN erbeten, danach will ich streben:
+dass ich im Haus des HERRN wohnen darf alle Tage meines Lebens,
+um die Schönheit des HERRN zu schauen
+und in seinem Tempel nachzusinnen.
+<sup>5</sup>Denn am Tag des Unglücks wird er mich in seiner Hütte verbergen.
+Im Versteck seines Zeltes wird er mich verstecken.
+Er wird mich auf einen Felsen heben.
+<sup>6</sup>Jetzt wird mein Kopf erhoben über meine Feinde rings um mich.
+Ich will in seinem Zelt Freudenopfer darbringen.
+Ich will singen, ja, ich will dem HERRN Lob singen.
+
+> **Was bedeutet das?**
+> Vers 4 ist das Herz des Psalms. Der Beter hat nur einen einzigen Wunsch: bei Gott sein und seine Schönheit sehen.
+> „Die Schönheit des HERRN“: Gott ist nicht nur mächtig und gerecht, sondern auch schön, liebenswert, freundlich.
+> Vers 5: Gottes Haus ist wie ein Versteck in Gefahr. Damals durfte jemand, der verfolgt wurde, im Heiligtum Schutz suchen.
+
+---
+
+### Verlass mich nicht (Vers 7–12)
+
+<sup>7</sup>Hör, HERR, wenn ich mit meiner Stimme rufe!
+Sei mir auch gnädig und antworte mir!
+<sup>8</sup>Als du sagtest: „Sucht mein Angesicht!“,
+da sagte mein Herz zu dir: „Ich will dein Angesicht suchen, HERR.“
+<sup>9</sup>Verbirg dein Angesicht nicht vor mir!
+Stoß deinen Knecht nicht im Zorn weg!
+Du bist meine Hilfe gewesen.
+Gib mich nicht auf und verlass mich nicht,
+Gott meiner Rettung!
+<sup>10</sup>Wenn mein Vater und meine Mutter mich verlassen,
+dann nimmt der HERR mich auf.
+<sup>11</sup>Lehre mich deinen Weg, HERR!
+Führe mich auf ebener Bahn wegen meiner Feinde!
+<sup>12</sup>Gib mich nicht dem Willen meiner Gegner preis,
+denn falsche Zeugen sind gegen mich aufgestanden,
+solche, die Grausamkeit schnauben.
+
+> **Was bedeutet das?**
+> Jetzt ändert sich der Ton. Aus Vertrauen wird Bitte. Der Beter hat Angst, dass Gott sich abwendet.
+> Vers 8: Gott selbst lädt ein: „Sucht mein Angesicht!“ Der Beter antwortet: Ja, das will ich!
+> Vers 10 ist ein großer Trost: Selbst wenn die eigenen Eltern einen im Stich lassen, nimmt Gott einen auf. Für Menschen, die Ablehnung durch ihre Familie erlebt haben, ist das ein sehr wichtiger Satz.
+> Vers 12: Falsche Zeugen sagen gegen ihn aus. Er braucht Gottes Schutz vor Gericht.
+
+---
+
+### Warte auf den HERRN (Vers 13–14)
+
+<sup>13</sup>Ich bin dennoch zuversichtlich:
+Ich werde die Güte des HERRN sehen im Land der Lebenden.
+<sup>14</sup>Warte auf den HERRN!
+Sei stark, und dein Herz fasse Mut!
+Ja, warte auf den HERRN!
+
+> **Was bedeutet das?**
+> „Im Land der Lebenden“: Nicht erst nach dem Tod, sondern hier und jetzt wird der Beter Gottes Güte erleben.
+> Vers 14: Am Ende spricht der Beter zu sich selbst oder zu anderen: Warte auf Gott! Sei mutig!
+> „Warten“ heißt hier nicht, untätig herumzusitzen. Es heißt: voller Hoffnung durchhalten und Gott vertrauen.
