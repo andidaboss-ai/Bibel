@@ -67592,3 +67592,376 @@ HERR, du umgibst ihn mit Gunst wie mit einem Schild.
 > Vers 9: Die Worte der Feinde sind tödlich wie ein offenes Grab. Paulus zitiert das in Römer 3,13, um zu zeigen: Alle Menschen brauchen Gottes Gnade.
 > Vers 10 ist eine Bitte um Gerechtigkeit. David bittet Gott, die Bösen an ihren eigenen Plänen scheitern zu lassen. Er nimmt nicht selbst Rache, sondern überlässt das Urteil Gott. Solche Gebete nennt man „Fluchpsalmen“ oder „Rachepsalmen“. Sie zeigen ehrlich den Schmerz von Menschen, denen Unrecht geschieht. Jesus lehrt später, sogar für die Feinde zu beten (Matthäus 5,44).
 > Vers 11–12: Der Psalm endet mit Freude. Gott beschützt alle, die bei ihm Zuflucht suchen, wie mit einem großen Schild.
+
+## Psalm 6
+#### Ein Gebet in tiefer Not
+
+---
+
+### HERR, wie lange? (Vers 1–5)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten, auf der achtsaitigen Leier. Ein Psalm von David.
+HERR, weise mich nicht in deinem Zorn zurecht,
+und erziehe mich nicht in deinem Grimm!
+<sup>2</sup>Sei mir gnädig, HERR, denn ich bin schwach.
+HERR, heile mich, denn meine Knochen sind erschüttert.
+<sup>3</sup>Auch meine Seele ist in großer Angst.
+Aber du, HERR – wie lange?
+<sup>4</sup>Kehr um, HERR, rette meine Seele!
+Hilf mir um deiner Güte willen!
+<sup>5</sup>Denn im Tod denkt man nicht mehr an dich.
+Wer wird dir im Totenreich danken?
+
+> **Was bedeutet das?**
+> Psalm 6 ist der erste der sieben „Bußpsalmen“ (6, 32, 38, 51, 102, 130, 143). Christen beten sie besonders, wenn sie Gott um Vergebung bitten.
+> Der Beter ist krank, an Leib und Seele. „Meine Knochen sind erschüttert“: Der ganze Körper leidet.
+> „Wie lange?“: Der Satz bricht ab. Der Beter hat keine Worte mehr. Diese Frage hören wir in den Psalmen oft.
+> „Um deiner Güte willen“: Der Beter beruft sich nicht auf seine eigenen Verdienste, sondern auf Gottes treue Liebe.
+> Vers 5: Im Alten Testament stellte man sich das Totenreich („Scheol“) als einen stillen, dunklen Ort vor. Die Hoffnung auf Auferstehung wurde erst später deutlicher (vgl. Daniel 12,2).
+
+---
+
+### Ich bin müde vom Seufzen (Vers 6–7)
+
+<sup>6</sup>Ich bin müde von meinem Seufzen.
+Jede Nacht überschwemme ich mein Bett.
+Mit meinen Tränen durchnässe ich mein Lager.
+<sup>7</sup>Mein Auge verfällt vor Kummer.
+Es ist alt geworden wegen all meiner Gegner.
+
+> **Was bedeutet das?**
+> Ein sehr ehrliches Bild: Der Beter weint jede Nacht so viel, dass sein Bett nass ist. Er ist erschöpft.
+> Die Bibel versteckt solche Gefühle nicht. Man darf vor Gott weinen.
+> Wenn es dir gerade so geht und du nicht mehr weiterweißt: Du bist nicht allein. Die Telefonseelsorge hilft rund um die Uhr: 0800 111 0 111 oder 0800 111 0 222 (kostenlos). Wenn du daran denkst, dir etwas anzutun: Notruf 112.
+
+---
+
+### Der HERR hat mein Weinen gehört (Vers 8–10)
+
+<sup>8</sup>Weicht von mir, alle, die ihr Unrecht tut,
+denn der HERR hat die Stimme meines Weinens gehört.
+<sup>9</sup>Der HERR hat mein Flehen gehört.
+Der HERR nimmt mein Gebet an.
+<sup>10</sup>Alle meine Feinde sollen beschämt und erschreckt werden.
+Sie sollen umkehren und plötzlich zuschanden werden.
+
+> **Was bedeutet das?**
+> Plötzlich kommt die Wende. Der Beter ist gewiss: Gott hat mein Weinen gehört!
+> Dreimal sagt er: Der HERR hat gehört, der HERR hat gehört, der HERR nimmt an. Es ist, als ob er es sich selbst immer wieder sagt, um es ganz zu glauben.
+> Viele Klagepsalmen haben diese Wende: Am Anfang steht die Not, am Ende das Vertrauen. Nicht weil sich die Lage schon geändert hat, sondern weil der Beter weiß: Gott hat mich gehört.
+
+## Psalm 7
+#### Gott ist ein gerechter Richter
+
+---
+
+### Rette mich vor meinen Verfolgern (Vers 1–2)
+
+<sup>1</sup>Ein Klagelied von David, das er dem HERRN sang wegen der Worte des Kusch, des Benjaminiters.
+HERR, mein Gott, bei dir suche ich Zuflucht.
+Rette mich vor allen, die mich verfolgen, und befreie mich,
+<sup>2</sup>damit sie meine Seele nicht zerreißen wie ein Löwe,
+der sie in Stücke reißt, während niemand da ist, der rettet.
+
+> **Was bedeutet das?**
+> „Klagelied“: Im Hebräischen steht „Schiggajon“. Die genaue Bedeutung ist unbekannt. Es ist vielleicht eine besondere Art von Lied oder ein aufgewühltes, leidenschaftliches Lied.
+> Wer Kusch aus dem Stamm Benjamin war, wissen wir nicht. Er wird sonst nirgends erwähnt. Saul kam aus dem Stamm Benjamin. Vielleicht war Kusch einer seiner Leute, der David verleumdet hat.
+
+---
+
+### Wenn ich Unrecht getan habe (Vers 3–5)
+
+<sup>3</sup>HERR, mein Gott, wenn ich das getan habe,
+wenn Unrecht an meinen Händen ist,
+<sup>4</sup>wenn ich dem Böses vergolten habe, der mit mir in Frieden lebte
+(ja, ich habe den ausgeplündert, der ohne Grund mein Gegner war),
+<sup>5</sup>dann soll der Feind meine Seele verfolgen und einholen.
+Ja, er soll mein Leben zu Boden treten
+und meine Ehre in den Staub legen.
+Sela.
+
+> **Was bedeutet das?**
+> David legt einen Eid ab, ähnlich wie Hiob (Kapitel 31): Wenn ich schuldig bin, soll mich das Unglück treffen.
+> Vers 4: Die Klammer ist schwer zu verstehen. Die englische Vorlage übersetzt: „ich habe den ausgeplündert, der ohne Grund mein Gegner war“. Viele deutsche Bibeln verstehen das hebräische Wort aber als „befreien“ oder „verschonen“: „ja, ich habe sogar den gerettet, der ohne Grund mein Gegner war“. Das würde zu David passen, der Saul zweimal verschont hat (1. Samuel 24 und 26). Beide Lesarten sind möglich.
+
+---
+
+### Steh auf, HERR, und richte! (Vers 6–10)
+
+<sup>6</sup>Steh auf, HERR, in deinem Zorn!
+Erheb dich gegen die Wut meiner Gegner!
+Wach auf für mich! Du hast Gericht angeordnet.
+<sup>7</sup>Die Versammlung der Völker soll dich umgeben.
+Herrsche über sie von der Höhe aus!
+<sup>8</sup>Der HERR richtet die Völker.
+Richte mich, HERR, nach meiner Gerechtigkeit
+und nach meiner Lauterkeit, die in mir ist.
+<sup>9</sup>Ach, lass die Bosheit der Gottlosen ein Ende nehmen,
+aber festige den Gerechten!
+Ihr Verstand und ihr Herz werden vom gerechten Gott geprüft.
+<sup>10</sup>Mein Schild ist bei Gott,
+der die rettet, die aufrichtigen Herzens sind.
+
+> **Was bedeutet das?**
+> David bittet Gott, als Richter aufzutreten. Er will nicht selbst Rache nehmen, sondern überlässt das Urteil Gott.
+> Vers 9: Gott prüft „Verstand und Herz“. Wörtlich steht dort „Nieren und Herz“. Damals galten die Nieren als Sitz der Gefühle und das Herz als Sitz der Gedanken. Gott sieht also ins Innerste.
+
+---
+
+### Wer eine Grube gräbt (Vers 11–17)
+
+<sup>11</sup>Gott ist ein gerechter Richter,
+ja, ein Gott, der jeden Tag zürnt.
+<sup>12</sup>Wenn ein Mensch nicht umkehrt, wird er sein Schwert schärfen.
+Er hat seinen Bogen gespannt und bereitgemacht.
+<sup>13</sup>Er hat sich auch tödliche Waffen bereitgestellt.
+Er macht seine Brandpfeile fertig.
+<sup>14</sup>Schau, er ist schwanger mit Unrecht.
+Ja, er hat Unheil empfangen und Lüge geboren.
+<sup>15</sup>Er hat ein Loch gegraben
+und ist in die Grube gefallen, die er gemacht hat.
+<sup>16</sup>Das Unheil, das er anrichtet, wird auf seinen eigenen Kopf zurückkommen.
+Seine Gewalt wird auf seinen eigenen Scheitel herabfallen.
+<sup>17</sup>Ich will dem HERRN danken nach seiner Gerechtigkeit
+und dem Namen des HERRN, des Höchsten, Lob singen.
+
+> **Was bedeutet das?**
+> Gott „zürnt jeden Tag“: Gott ist nicht gleichgültig gegenüber dem Bösen. Unrecht berührt ihn.
+> Vers 12–13: Wer ist „er“? Man kann es auf Gott beziehen: Gott hält sich bereit, wenn der Böse nicht umkehrt. Oder auf den Bösen: Er bereitet Waffen gegen andere vor. Beides ist möglich.
+> Vers 14: Ein Bild aus der Geburt: Der Böse „wird schwanger“ mit bösen Plänen und „gebiert“ Lüge.
+> Vers 15–16: Das bekannte Sprichwort „Wer andern eine Grube gräbt, fällt selbst hinein“ kommt aus der Bibel (vgl. Sprüche 26,27). Das Böse fällt auf den zurück, der es tut.
+> Der Psalm endet mit Dank und Lob.
+
+## Psalm 8
+#### Was ist der Mensch?
+
+---
+
+### Wie herrlich ist dein Name (Vers 1–2)
+
+<sup>1</sup>Für den Chorleiter. Auf einem Instrument aus Gat. Ein Psalm von David.
+HERR, unser Herr,
+wie herrlich ist dein Name auf der ganzen Erde!
+Du hast deine Herrlichkeit über die Himmel gesetzt!
+<sup>2</sup>Aus dem Mund von Babys und kleinen Kindern hast du eine Macht gegründet
+wegen deiner Gegner,
+um den Feind und den Rachsüchtigen zum Schweigen zu bringen.
+
+> **Was bedeutet das?**
+> Psalm 8 ist ein Lobpsalm über die Schöpfung und den Menschen.
+> „Instrument aus Gat“ (hebräisch: „Gittit“): Gat war eine Stadt der Philister. Vielleicht ist ein Instrument oder eine Melodie aus Gat gemeint. Genau weiß man es nicht.
+> Vers 2: Ein überraschender Gedanke: Gott braucht keine starken Krieger. Schon das Lallen und Lachen kleiner Kinder ist ein Lob Gottes, das die Feinde beschämt. Jesus zitiert diesen Vers, als Kinder ihn im Tempel loben (Matthäus 21,16).
+
+---
+
+### Was ist der Mensch? (Vers 3–8)
+
+<sup>3</sup>Wenn ich deinen Himmel betrachte, das Werk deiner Finger,
+den Mond und die Sterne, die du hingesetzt hast:
+<sup>4</sup>Was ist der Mensch, dass du an ihn denkst,
+und das Menschenkind, dass du dich um es kümmerst?
+<sup>5</sup>Denn du hast ihn nur wenig niedriger gemacht als die Engel
+und hast ihn mit Herrlichkeit und Ehre gekrönt.
+<sup>6</sup>Du lässt ihn herrschen über die Werke deiner Hände.
+Alles hast du unter seine Füße gelegt:
+<sup>7</sup>alle Schafe und Rinder,
+ja, auch die Tiere des Feldes,
+<sup>8</sup>die Vögel des Himmels, die Fische des Meeres
+und alles, was die Pfade der Meere durchzieht.
+
+> **Was bedeutet das?**
+> David schaut nachts in den Sternenhimmel. Er fühlt sich winzig klein. Und doch staunt er: Der große Gott denkt an den kleinen Menschen und kümmert sich um ihn!
+> Vers 5: „Wenig niedriger als die Engel“: Im Hebräischen steht „Elohim“. Das kann „Gott“ oder „himmlische Wesen“ heißen. Viele deutsche Bibeln übersetzen: „wenig niedriger als Gott“. Der Mensch hat eine hohe Würde.
+> Vers 6–8: Gott hat dem Menschen die Verantwortung für die Tiere und die Erde gegeben (vgl. 1. Mose 1,26–28). „Herrschen“ heißt hier nicht ausbeuten, sondern verantwortlich verwalten wie ein guter König.
+> Hiob hatte dieselbe Frage bitter gestellt: „Was ist der Mensch, dass du ihn so wichtig nimmst“ und ihn ständig prüfst? (Hiob 7,17). Psalm 8 stellt sie voller Staunen.
+> Das Neue Testament bezieht diese Verse auf Jesus, den „Menschensohn“, dem alles unterworfen wird (Hebräer 2,6–9).
+
+---
+
+### Wie herrlich ist dein Name (Vers 9)
+
+<sup>9</sup>HERR, unser Herr,
+wie herrlich ist dein Name auf der ganzen Erde!
+
+> **Was bedeutet das?**
+> Der Psalm endet mit denselben Worten, mit denen er begann. Wie ein Rahmen umgibt das Lob Gottes die Aussage über den Menschen.
+> Das zeigt: Der Mensch ist groß, aber Gott ist größer. Die Würde des Menschen kommt von Gott.
+
+## Psalm 9
+#### Gott richtet gerecht
+
+---
+
+### Ich will dir danken (Vers 1–6)
+
+<sup>1</sup>Für den Chorleiter. Nach der Weise „Tod des Sohnes“. Ein Psalm von David.
+Ich will dem HERRN danken von ganzem Herzen.
+Ich will von allen deinen Wundern erzählen.
+<sup>2</sup>Ich will mich freuen und fröhlich sein in dir.
+Ich will deinem Namen Lob singen, du Höchster.
+<sup>3</sup>Wenn meine Feinde zurückweichen,
+straucheln sie und kommen um vor deinem Angesicht.
+<sup>4</sup>Denn du hast mein Recht und meine Sache geführt.
+Du sitzt auf dem Thron und richtest gerecht.
+<sup>5</sup>Du hast die Völker zurechtgewiesen.
+Du hast den Gottlosen vernichtet.
+Du hast ihren Namen ausgelöscht für immer und ewig.
+<sup>6</sup>Der Feind ist in endlose Trümmer gefallen.
+Sogar die Erinnerung an die Städte, die du zerstört hast, ist vergangen.
+
+> **Was bedeutet das?**
+> „Nach der Weise ‚Tod des Sohnes‘“: Das ist wahrscheinlich der Name einer bekannten Melodie, nach der der Psalm gesungen wurde. Man kennt sie heute nicht mehr.
+> Psalm 9 und 10 gehören zusammen. Im Hebräischen bilden sie zusammen ein Gedicht nach dem Alphabet (ein „Akrostichon“): Jeder zweite Vers beginnt mit dem nächsten Buchstaben des hebräischen Alphabets. In der alten griechischen und lateinischen Bibel sind sie ein einziger Psalm. Deshalb ist die Psalmnummer in älteren katholischen und in orthodoxen Bibeln ab hier oft um 1 kleiner (bis Psalm 147).
+> David dankt Gott von ganzem Herzen, weil Gott ihm gegen seine Feinde geholfen hat.
+
+---
+
+### Der HERR regiert für immer (Vers 7–12)
+
+<sup>7</sup>Aber der HERR regiert für immer.
+Er hat seinen Thron zum Gericht aufgestellt.
+<sup>8</sup>Er wird die Welt in Gerechtigkeit richten.
+Er wird den Völkern in Aufrichtigkeit Recht sprechen.
+<sup>9</sup>Der HERR wird auch eine hohe Burg sein für die Unterdrückten,
+eine hohe Burg in Zeiten der Not.
+<sup>10</sup>Die deinen Namen kennen, vertrauen auf dich,
+denn du, HERR, hast die nicht verlassen, die dich suchen.
+<sup>11</sup>Singt dem HERRN Lob, der auf dem Zion wohnt!
+Verkündet unter den Völkern, was er getan hat!
+<sup>12</sup>Denn der, der Blutschuld rächt, denkt an sie.
+Er vergisst das Schreien der Elenden nicht.
+
+> **Was bedeutet das?**
+> Mächtige Reiche kommen und gehen. Aber Gott regiert für immer.
+> Gott ist wie eine „hohe Burg“ für Unterdrückte: ein sicherer Ort, an dem sie Schutz finden.
+> Vers 12: „Der Blutschuld rächt“: Gott sorgt dafür, dass Mord und Gewalt nicht vergessen werden. Er vergisst die Opfer nicht.
+
+---
+
+### Sei mir gnädig (Vers 13–16)
+
+<sup>13</sup>Sei mir gnädig, HERR!
+Sieh mein Elend an, das ich von denen erleide, die mich hassen,
+und heb mich auf aus den Toren des Todes,
+<sup>14</sup>damit ich all dein Lob verkünde.
+Ich will mich über deine Rettung freuen in den Toren der Tochter Zion.
+<sup>15</sup>Die Völker sind in die Grube gesunken, die sie gemacht haben.
+In dem Netz, das sie versteckt haben, hat sich ihr eigener Fuß gefangen.
+<sup>16</sup>Der HERR hat sich zu erkennen gegeben.
+Er hat Gericht gehalten.
+Der Gottlose ist im Werk seiner eigenen Hände gefangen.
+Zwischenspiel. Sela.
+
+> **Was bedeutet das?**
+> „Tore des Todes“ und „Tore der Tochter Zion“ stehen sich gegenüber: Gott holt mich vom Rand des Todes zurück, damit ich in Jerusalem (Zion) sein Lob singe.
+> „Tochter Zion“ ist ein dichterischer Name für Jerusalem und seine Bewohner.
+> Vers 15–16: Wieder der Gedanke: Die Bösen fangen sich in ihrer eigenen Falle (vgl. Psalm 7,15–16).
+> „Zwischenspiel“ (hebräisch „Higgajon“): wahrscheinlich ein musikalischer Hinweis, vielleicht ein leises Spiel zum Nachdenken.
+
+---
+
+### Die Armen werden nicht vergessen (Vers 17–20)
+
+<sup>17</sup>Die Gottlosen werden ins Totenreich zurückkehren,
+alle Völker, die Gott vergessen.
+<sup>18</sup>Denn der Bedürftige wird nicht für immer vergessen sein,
+und die Hoffnung der Armen wird nicht für immer verloren gehen.
+<sup>19</sup>Steh auf, HERR! Lass den Menschen nicht die Oberhand gewinnen!
+Lass die Völker vor deinem Angesicht gerichtet werden!
+<sup>20</sup>Leg Furcht auf sie, HERR!
+Lass die Völker erkennen, dass sie nur Menschen sind.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 18 ist ein großes Versprechen: Die Armen werden nicht für immer vergessen. Ihre Hoffnung wird nicht enttäuscht.
+> Vers 20: Mächtige Völker vergessen oft, dass sie „nur Menschen“ sind. Sie halten sich selbst für Götter. Der Psalm bittet Gott, ihnen ihre Grenzen zu zeigen.
+
+## Psalm 10
+#### Warum bist du so fern, HERR?
+
+---
+
+### Warum versteckst du dich? (Vers 1–2)
+
+<sup>1</sup>Warum stehst du so fern, HERR?
+Warum verbirgst du dich in Zeiten der Not?
+<sup>2</sup>In ihrem Hochmut jagen die Gottlosen die Schwachen.
+Sie werden in den Plänen gefangen, die sie sich ausdenken.
+
+> **Was bedeutet das?**
+> Psalm 10 hat keine Überschrift. Er ist die Fortsetzung von Psalm 9 (siehe dort).
+> Der Psalm beginnt mit einer ehrlichen, schmerzhaften Frage: Warum ist Gott so weit weg, wenn man ihn am meisten braucht? Diese Frage stellen Menschen bis heute.
+> Vers 2b kann auch als Bitte gelesen werden: „Lass sie sich in ihren eigenen Plänen fangen!“
+
+---
+
+### So denkt der Gottlose (Vers 3–11)
+
+<sup>3</sup>Denn der Gottlose prahlt mit den Wünschen seines Herzens.
+Er segnet den Habgierigen und verachtet den HERRN.
+<sup>4</sup>Der Gottlose hat in seinem Hochmut
+in seinen Gedanken keinen Platz für Gott.
+<sup>5</sup>Seine Wege gelingen zu jeder Zeit.
+Er ist überheblich, und deine Gesetze sind weit weg von seinen Augen.
+Über alle seine Gegner spottet er.
+<sup>6</sup>Er sagt in seinem Herzen: „Ich werde nicht wanken.
+Generationen lang werde ich keine Not haben.“
+<sup>7</sup>Sein Mund ist voll Fluch, Betrug und Unterdrückung.
+Unter seiner Zunge sind Unheil und Unrecht.
+<sup>8</sup>Er lauert in der Nähe der Dörfer.
+Aus dem Hinterhalt ermordet er den Unschuldigen.
+Seine Augen spähen heimlich nach dem Hilflosen.
+<sup>9</sup>Er lauert im Verborgenen wie ein Löwe in seinem Versteck.
+Er liegt auf der Lauer, um den Hilflosen zu fangen.
+Er fängt den Hilflosen, wenn er ihn in sein Netz zieht.
+<sup>10</sup>Die Hilflosen werden zermalmt. Sie brechen zusammen.
+Sie fallen unter seiner Stärke.
+<sup>11</sup>Er sagt in seinem Herzen: „Gott hat es vergessen.
+Er verbirgt sein Angesicht. Er wird es niemals sehen.“
+
+> **Was bedeutet das?**
+> Hier wird genau beschrieben, wie ein gottloser Mensch denkt und handelt:
+> – Er ist stolz und hat „keinen Platz für Gott“ in seinen Gedanken.
+> – Er ist erfolgreich und fühlt sich sicher: „Mir kann nichts passieren.“
+> – Er lügt und betrügt.
+> – Er lauert den Schwachen auf wie ein Raubtier.
+> – Er denkt: „Gott sieht das nicht.“
+> Vers 7 zitiert Paulus in Römer 3,14.
+> Das ist eine Beschreibung von Unterdrückung, wie es sie zu allen Zeiten gibt: Starke nutzen Schwache aus, und es scheint, als ob niemand eingreift.
+
+---
+
+### Steh auf, HERR! (Vers 12–15)
+
+<sup>12</sup>Steh auf, HERR! Gott, erheb deine Hand!
+Vergiss die Hilflosen nicht!
+<sup>13</sup>Warum verachtet der Gottlose Gott
+und sagt in seinem Herzen: „Gott wird mich nicht zur Rechenschaft ziehen“?
+<sup>14</sup>Aber du siehst Not und Kummer.
+Du schaust darauf, um es in deine Hand zu nehmen.
+Du hilfst dem Opfer und der Waise.
+<sup>15</sup>Zerbrich den Arm des Gottlosen!
+Und beim Bösen: Such seine Bosheit, bis du keine mehr findest.
+
+> **Was bedeutet das?**
+> Der Gottlose sagt: „Gott sieht es nicht.“ Der Beter widerspricht: „Doch, du siehst es!“ Gott sieht die Not und nimmt sie in seine Hand.
+> „Den Arm zerbrechen“ ist ein Bild: Nimm ihm die Macht, anderen zu schaden.
+> Vers 15b: Gott soll nach dem Bösen suchen, bis nichts Böses mehr zu finden ist. Das Ziel ist eine Welt ohne Unrecht.
+
+---
+
+### Der HERR ist König (Vers 16–18)
+
+<sup>16</sup>Der HERR ist König für immer und ewig!
+Die Völker werden aus seinem Land verschwinden.
+<sup>17</sup>HERR, du hast das Verlangen der Demütigen gehört.
+Du wirst ihr Herz stärken.
+Du wirst dein Ohr hören lassen,
+<sup>18</sup>um der Waise und dem Unterdrückten Recht zu verschaffen,
+damit der Mensch, der von der Erde ist, nicht mehr Schrecken verbreitet.
+
+> **Was bedeutet das?**
+> Am Ende steht das Vertrauen: Der HERR ist König, nicht die Gewalttäter.
+> Gott hört die Demütigen, die Waisen und die Unterdrückten.
+> „Der Mensch, der von der Erde ist“: Auch der mächtigste Unterdrücker ist nur ein Mensch aus Staub. Seine Macht hat ein Ende.
+> Psalm 9 und 10 zusammen zeigen: Der Glaube an Gottes Gerechtigkeit und die ehrliche Klage „Warum bist du so fern?“ gehören zusammen.
