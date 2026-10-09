@@ -79935,3 +79935,212 @@ Auf ihrem Pfad gibt es keinen Tod.
 > Vers 26: Wähle deine Freunde mit Bedacht. Schlechte Freunde können einen in die Irre führen.
 > Vers 27: Ein witziges Bild: Der Faule hat ein Tier gejagt, aber er ist zu faul, es zu braten. Er bringt nichts zu Ende.
 > Vers 28: Der Weg der Gerechtigkeit führt zum Leben. Manche jüdische und christliche Ausleger sehen hier schon eine Hoffnung über den Tod hinaus.
+
+## Sprüche – Kapitel 13
+#### Hoffnung und Erfüllung
+
+---
+
+### Hüte deinen Mund (Vers 1–6)
+
+<sup>1</sup>Ein weiser Sohn hört auf die Erziehung seines Vaters,
+aber ein Spötter hört nicht auf Tadel.
+<sup>2</sup>Durch die Frucht seiner Lippen genießt ein Mensch Gutes,
+aber die Treulosen gieren nach Gewalt.
+<sup>3</sup>Wer seinen Mund behütet, behütet sein Leben.
+Wer seine Lippen weit aufreißt, kommt ins Verderben.
+<sup>4</sup>Die Seele des Faulen begehrt und bekommt nichts,
+aber der Wunsch der Fleißigen wird reichlich erfüllt.
+<sup>5</sup>Ein Gerechter hasst Lügen,
+aber ein Gottloser bringt Schande und Schmach.
+<sup>6</sup>Gerechtigkeit behütet den Weg der Redlichkeit,
+aber Gottlosigkeit stürzt den Sünder.
+
+> **Was bedeutet das?**
+> Vers 3: Wer aufpasst, was er sagt, schützt sich selbst. Wer alles herausposaunt, gerät in Schwierigkeiten. Das gilt auch für das, was man im Internet schreibt.
+> Vers 4: Der Faule wünscht sich viel, aber er tut nichts dafür. Wünschen allein reicht nicht.
+
+---
+
+### Reichtum und Armut (Vers 7–11)
+
+<sup>7</sup>Manche tun so, als wären sie reich, und haben doch nichts.
+Manche tun so, als wären sie arm, und haben doch großen Reichtum.
+<sup>8</sup>Das Lösegeld für das Leben eines Mannes ist sein Reichtum,
+aber der Arme hört keine Drohungen.
+<sup>9</sup>Das Licht der Gerechten leuchtet hell,
+aber die Lampe der Gottlosen erlischt.
+<sup>10</sup>Hochmut bringt nur Streit hervor,
+aber Weisheit ist bei denen, die sich beraten lassen.
+<sup>11</sup>Reichtum, der unehrlich gewonnen wurde, schwindet dahin,
+aber wer mit seiner Hand sammelt, lässt ihn wachsen.
+
+> **Was bedeutet das?**
+> Vers 7: Der Schein trügt. Manche geben an, obwohl sie nichts haben. Andere sind bescheiden, obwohl sie viel haben.
+> Vers 8: Ein überraschender Gedanke: Reiche können erpresst oder entführt werden und müssen dann Lösegeld zahlen. Den Armen bedroht niemand deswegen. Reichtum bringt auch Sorgen.
+> Vers 11: Schnelles, unehrliches Geld verschwindet schnell. Ehrlich und langsam Erarbeitetes wächst.
+
+---
+
+### Hoffnung, die sich hinzieht (Vers 12–19)
+
+<sup>12</sup>Hoffnung, die sich hinzieht, macht das Herz krank,
+aber wenn die Sehnsucht erfüllt wird, ist sie ein Baum des Lebens.
+<sup>13</sup>Wer die Lehre verachtet, wird dafür bezahlen,
+aber wer das Gebot achtet, wird belohnt.
+<sup>14</sup>Die Lehre des Weisen ist eine Quelle des Lebens,
+um den Schlingen des Todes zu entgehen.
+<sup>15</sup>Gute Einsicht gewinnt Gunst,
+aber der Weg der Treulosen ist hart.
+<sup>16</sup>Jeder kluge Mensch handelt mit Erkenntnis,
+aber ein Tor stellt seine Torheit zur Schau.
+<sup>17</sup>Ein gottloser Bote gerät in Not,
+aber ein zuverlässiger Gesandter bringt Heilung.
+<sup>18</sup>Armut und Schande kommen über den, der Erziehung ablehnt,
+aber wer auf Zurechtweisung achtet, wird geehrt.
+<sup>19</sup>Erfüllte Sehnsucht ist süß für die Seele,
+aber den Toren ist es ein Gräuel, sich vom Bösen abzuwenden.
+
+> **Was bedeutet das?**
+> Vers 12 ist ein sehr menschlicher Satz. Wer lange auf etwas wartet und hofft, wird müde und traurig: auf eine Heilung, auf einen Partner, auf ein Kind, auf Arbeit, auf Frieden. Die Bibel versteht diesen Schmerz. Und wenn die Sehnsucht endlich erfüllt wird, ist das wie neues Leben.
+> Wer wegen enttäuschter Hoffnungen nicht mehr weiterweiß: Die Telefonseelsorge hört zu, rund um die Uhr: 0800 111 0 111 oder 0800 111 0 222.
+> Vers 17: Ein guter Bote bringt Heilung, weil er Nachrichten treu überbringt und Frieden stiftet.
+
+---
+
+### Gute Freunde und gutes Erbe (Vers 20–25)
+
+<sup>20</sup>Wer mit Weisen umgeht, wird weise,
+aber wer sich mit Toren befreundet, wird Schaden nehmen.
+<sup>21</sup>Unglück verfolgt die Sünder,
+aber Wohlergehen belohnt die Gerechten.
+<sup>22</sup>Ein guter Mensch hinterlässt seinen Enkeln ein Erbe,
+aber der Reichtum des Sünders wird für den Gerechten aufbewahrt.
+<sup>23</sup>Auf den Feldern der Armen wächst reichlich Nahrung,
+aber Ungerechtigkeit fegt sie weg.
+<sup>24</sup>Wer die Rute schont, hasst seinen Sohn,
+aber wer ihn liebt, erzieht ihn sorgfältig.
+<sup>25</sup>Der Gerechte isst, bis seine Seele satt ist,
+aber der Bauch der Gottlosen leidet Hunger.
+
+> **Was bedeutet das?**
+> Vers 20: Sag mir, wer deine Freunde sind, und ich sage dir, wer du bist. Freunde prägen uns.
+> Vers 22: Ein gutes Erbe ist nicht nur Geld, sondern auch ein gutes Vorbild, Werte und Glauben.
+> Vers 23: Ein wichtiger Satz über Gerechtigkeit: Armut kommt oft nicht von Faulheit, sondern von Ungerechtigkeit. Die Armen arbeiten und ernten, aber andere nehmen es ihnen weg. Das gibt es bis heute.
+> Vers 24: Dieser Vers wurde lange benutzt, um Kinder zu schlagen. Damals war das üblich. Die Botschaft des Verses ist: Liebe zeigt sich darin, dass Eltern ihre Kinder erziehen und ihnen Grenzen setzen, statt alles laufen zu lassen. Heute wissen wir: Schläge schaden Kindern und sind in Deutschland verboten. Gute Erziehung geht ohne Gewalt.
+> Wer selbst Gewalt in der Familie erlebt: Die „Nummer gegen Kummer“ für Kinder und Jugendliche ist kostenlos erreichbar: 116 111. Eltern finden Hilfe beim Elterntelefon: 0800 111 0 550.
+
+## Sprüche – Kapitel 14
+#### Gerechtigkeit erhöht ein Volk
+
+---
+
+### Die weise Frau baut ihr Haus (Vers 1–9)
+
+<sup>1</sup>Jede weise Frau baut ihr Haus,
+aber die törichte reißt es mit ihren eigenen Händen nieder.
+<sup>2</sup>Wer in seiner Aufrichtigkeit lebt, fürchtet den HERRN,
+aber wer auf krummen Wegen geht, verachtet ihn.
+<sup>3</sup>Das Gerede des Toren bringt einen Stock auf seinen Rücken,
+aber die Lippen der Weisen beschützen sie.
+<sup>4</sup>Wo keine Ochsen sind, ist die Krippe sauber,
+aber reicher Ertrag kommt durch die Kraft des Ochsen.
+<sup>5</sup>Ein wahrhaftiger Zeuge lügt nicht,
+aber ein falscher Zeuge sprudelt Lügen hervor.
+<sup>6</sup>Ein Spötter sucht Weisheit und findet sie nicht,
+aber dem Verständigen fällt Erkenntnis leicht.
+<sup>7</sup>Halte dich fern von einem törichten Menschen,
+denn auf seinen Lippen findest du keine Erkenntnis.
+<sup>8</sup>Die Weisheit des Klugen ist, über seinen Weg nachzudenken,
+aber die Torheit der Toren ist Betrug.
+<sup>9</sup>Toren spotten über die Sühne für Sünden,
+aber unter den Aufrichtigen herrscht Wohlwollen.
+
+> **Was bedeutet das?**
+> Vers 1: Eine weise Frau baut ihr Haus auf: ihre Familie, ihr Zuhause, ihre Gemeinschaft. Torheit dagegen zerstört, was man hat. Das gilt für jeden Menschen.
+> Vers 4: Ein Bild aus der Landwirtschaft: Ohne Ochsen bleibt der Stall sauber, aber man hat auch keine Ernte. Wer etwas erreichen will, muss auch Arbeit und Unordnung in Kauf nehmen.
+> Vers 6: Wer spottet, kann nicht lernen. Wer offen ist, lernt leicht.
+
+---
+
+### Das Herz kennt seinen eigenen Kummer (Vers 10–17)
+
+<sup>10</sup>Das Herz kennt seine eigene Bitterkeit und Freude.
+Ein Fremder kann sie nicht mit ihm teilen.
+<sup>11</sup>Das Haus der Gottlosen wird gestürzt,
+aber das Zelt der Aufrichtigen wird blühen.
+<sup>12</sup>Es gibt einen Weg, der einem Menschen richtig erscheint,
+aber am Ende führt er zum Tod.
+<sup>13</sup>Auch beim Lachen kann das Herz traurig sein,
+und die Freude kann in Kummer enden.
+<sup>14</sup>Der Treulose wird für seine Wege bezahlt,
+ebenso wird ein guter Mensch für seine Wege belohnt.
+<sup>15</sup>Ein Einfältiger glaubt alles,
+aber der Kluge prüft seine Schritte sorgfältig.
+<sup>16</sup>Ein Weiser fürchtet das Böse und meidet es,
+aber der Tor ist hitzköpfig und leichtsinnig.
+<sup>17</sup>Wer schnell zornig wird, begeht Torheit,
+und ein hinterlistiger Mensch wird gehasst.
+
+> **Was bedeutet das?**
+> Vers 10: Jeder Mensch hat Gefühle, die andere nicht ganz verstehen können. Nur Gott kennt unser Herz ganz.
+> Vers 12: Ein ernster Satz: Nicht alles, was sich richtig anfühlt, ist auch richtig. Darum braucht man Gottes Weisung und guten Rat.
+> Vers 13: Manche Menschen lachen nach außen, aber innen sind sie traurig. Man sieht es ihnen nicht an. Es lohnt sich, genau hinzuschauen und nachzufragen.
+> Vers 15: Wer alles glaubt, was er hört oder liest, wird leicht getäuscht. Das gilt heute besonders für Falschmeldungen im Internet. Prüfe, bevor du glaubst und weitererzählst!
+
+---
+
+### Arm und reich (Vers 18–24)
+
+<sup>18</sup>Die Einfältigen erben Torheit,
+aber die Klugen werden mit Erkenntnis gekrönt.
+<sup>19</sup>Die Bösen beugen sich vor den Guten
+und die Gottlosen an den Toren der Gerechten.
+<sup>20</sup>Der Arme wird sogar von seinem eigenen Nachbarn gemieden,
+aber der Reiche hat viele Freunde.
+<sup>21</sup>Wer seinen Nächsten verachtet, sündigt,
+aber glücklich ist, wer sich über die Armen erbarmt.
+<sup>22</sup>Gehen nicht die in die Irre, die Böses planen?
+Aber Liebe und Treue gehören denen, die Gutes planen.
+<sup>23</sup>In jeder harten Arbeit liegt Gewinn,
+aber bloßes Gerede führt nur zur Armut.
+<sup>24</sup>Die Krone der Weisen ist ihr Reichtum,
+aber die Torheit der Toren krönt sie mit Torheit.
+
+> **Was bedeutet das?**
+> Vers 20–21: Eine traurige Beobachtung: Reiche haben viele „Freunde“, Arme werden gemieden. Aber Gott sieht das anders: Wer Arme verachtet, sündigt. Wer ihnen hilft, ist glücklich.
+> Vers 23: Arbeiten bringt etwas. Nur reden und Pläne machen bringt nichts.
+
+---
+
+### Die Ehrfurcht vor dem HERRN ist eine Quelle des Lebens (Vers 25–35)
+
+<sup>25</sup>Ein wahrhaftiger Zeuge rettet Leben,
+aber ein falscher Zeuge ist betrügerisch.
+<sup>26</sup>In der Ehrfurcht vor dem HERRN ist eine sichere Festung,
+und er wird seinen Kindern eine Zuflucht sein.
+<sup>27</sup>Die Ehrfurcht vor dem HERRN ist eine Quelle des Lebens,
+sie bewahrt die Menschen vor den Schlingen des Todes.
+<sup>28</sup>In der Menge des Volkes liegt die Ehre des Königs,
+aber wenn das Volk fehlt, ist das der Untergang des Fürsten.
+<sup>29</sup>Wer langsam zum Zorn ist, hat großen Verstand,
+aber wer jähzornig ist, zeigt Torheit.
+<sup>30</sup>Ein Herz, das im Frieden ist, ist Leben für den Körper,
+aber Neid lässt die Knochen verfaulen.
+<sup>31</sup>Wer den Armen unterdrückt, verachtet seinen Schöpfer,
+aber wer gütig zum Bedürftigen ist, ehrt ihn.
+<sup>32</sup>Der Gottlose wird in seinem Unglück gestürzt,
+aber der Gerechte hat im Tod eine Zuflucht.
+<sup>33</sup>Weisheit ruht im Herzen des Verständigen,
+und sogar im Inneren der Toren wird sie bekannt.
+<sup>34</sup>Gerechtigkeit erhöht ein Volk,
+aber Sünde ist eine Schande für jedes Volk.
+<sup>35</sup>Der König ist einem Diener gnädig, der klug handelt,
+aber sein Zorn trifft den, der Schande bringt.
+
+> **Was bedeutet das?**
+> Vers 29: Geduld ist ein Zeichen von Weisheit. Jähzorn macht dumm.
+> Vers 30: Ein moderner Gedanke: Innerer Friede ist gut für die Gesundheit. Neid macht krank.
+> Vers 31 ist einer der wichtigsten Sätze des Buches: Jeder Arme ist von Gott geschaffen. Wer einen Armen schlecht behandelt, beleidigt Gott selbst. Wer ihm hilft, ehrt Gott. Jesus sagt Ähnliches: „Was ihr einem meiner geringsten Geschwister getan habt, das habt ihr mir getan“ (Matthäus 25,40).
+> Vers 32: Der Gerechte hat sogar im Tod eine Zuflucht. Hier klingt Hoffnung über den Tod hinaus an.
+> Vers 34: „Gerechtigkeit erhöht ein Volk“: Ein Land ist nicht groß durch Macht oder Reichtum, sondern durch Gerechtigkeit. Dieser Satz steht an vielen öffentlichen Gebäuden.
