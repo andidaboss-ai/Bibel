@@ -61474,12 +61474,12 @@ Das waren die Obersten der Priester und ihrer Brüder in den Tagen Jeschuas.
 Jeschua, Binnui, Kadmiël, Scherebja, Juda
 und Mattanja, der mit seinen Brüdern für die Danklieder zuständig war.
 <sup>9</sup>Auch Bakbukja und Unni, ihre Brüder,
-standen ihnen gegenüber nach ihren Diensten.
+standen nach ihren Diensten bei ihnen.
 
 > **Was bedeutet das?**
 > Hier springt das Buch zurück zur ersten Heimkehr, fast 100 Jahre früher (Esra 2).
 > Der Esra in Vers 1 ist nicht der Esra aus Esra 7. Es ist ein Priester mit demselben Namen.
-> „Gegenüber“: Die Sänger standen sich in zwei Chören gegenüber und sangen im Wechsel.
+> „Bei ihnen“: Im Hebräischen steht „ihnen gegenüber“. Die Sänger standen sich wohl in zwei Chören gegenüber und sangen im Wechsel.
 
 ---
 
@@ -61528,7 +61528,7 @@ wurden im Buch der Chroniken aufgeschrieben,
 bis zu den Tagen Johanans, des Sohnes Eljaschibs.
 <sup>24</sup>Die Obersten der Leviten waren:
 Haschabja, Scherebja und Jeschua, der Sohn Kadmiëls,
-mit ihren Brüdern ihnen gegenüber,
+mit ihren Brüdern bei ihnen,
 um zu loben und zu danken,
 nach dem Gebot Davids, des Mannes Gottes,
 Abteilung neben Abteilung.
