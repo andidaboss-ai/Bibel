@@ -64159,3 +64159,308 @@ Er lässt sie taumeln wie einen Betrunkenen.
 > Vers 16: „Der Betrogene und der Betrüger gehören ihm.“ Gott steht über allem, auch über Gut und Böse unter den Menschen.
 > Hiob sagt damit: Ihr könnt Gottes Handeln nicht in eure einfache Rechnung pressen. Gott ist größer, als eure Theorien.
 > Bemerkenswert: Diese Worte über Könige, die gestürzt werden, und Mächtige, die erniedrigt werden, erinnern an den Lobgesang der Hanna (1. Samuel 2,6–8) und an Marias Lobgesang (Lukas 1,52).
+
+## Hiob – Kapitel 13
+#### „Ihr seid Ärzte, die nichts taugen“
+
+---
+
+### Ihr verteidigt Gott mit Lügen (Vers 1–12)
+
+<sup>1</sup>„Schaut, das alles hat mein Auge gesehen,
+mein Ohr hat es gehört und verstanden.
+<sup>2</sup>Was ihr wisst, das weiß ich auch.
+Ich stehe nicht hinter euch zurück.
+<sup>3</sup>Aber ich möchte zum Allmächtigen reden.
+Ich will mit Gott rechten.
+<sup>4</sup>Ihr aber seid Lügenschmiede.
+Ihr seid alle Ärzte, die nichts taugen.
+<sup>5</sup>Ach, wenn ihr doch ganz schweigen würdet!
+Dann wärt ihr weise.
+<sup>6</sup>Hört doch meine Begründung,
+und achtet auf die Klagen meiner Lippen!
+<sup>7</sup>Wollt ihr für Gott Unrecht reden
+und für ihn Trug sprechen?
+<sup>8</sup>Wollt ihr für ihn Partei ergreifen?
+Wollt ihr für Gott streiten?
+<sup>9</sup>Wäre es gut, wenn er euch erforscht?
+Oder wollt ihr ihn täuschen, wie man einen Menschen täuscht?
+<sup>10</sup>Er wird euch gewiss zurechtweisen,
+wenn ihr heimlich Partei ergreift.
+<sup>11</sup>Wird nicht seine Hoheit euch erschrecken
+und seine Furcht auf euch fallen?
+<sup>12</sup>Eure Merksprüche sind Sprüche aus Asche.
+Eure Bollwerke sind Bollwerke aus Lehm.
+
+> **Was bedeutet das?**
+> Hiob will nicht mehr mit seinen Freunden reden. Er will direkt mit Gott reden.
+> Er nennt seine Freunde „Lügenschmiede“ und „Ärzte, die nichts taugen“. Sie wollten ihn heilen, aber ihre Medizin macht alles schlimmer.
+> Vers 5 ist berühmt: „Wenn ihr doch schweigen würdet, dann wärt ihr weise!“ Am Anfang hatten sie sieben Tage geschwiegen (Kapitel 2,13). Das war das Beste, was sie getan haben.
+> Vers 7–8 ist eine scharfe Kritik: Die Freunde wollen Gott verteidigen, indem sie Unwahres über Hiob sagen. Hiob sagt: Gott braucht keine Lügen zu seiner Verteidigung. Gott will die Wahrheit.
+> Am Ende des Buches wird Gott genau das bestätigen (Kapitel 42,7).
+> „Sprüche aus Asche“: Ihre klugen Sätze sind wertlos, sie zerfallen bei Berührung.
+
+---
+
+### Ich will vor Gott meinen Weg verteidigen (Vers 13–19)
+
+<sup>13</sup>Schweigt! Lasst mich in Ruhe, damit ich rede,
+was auch immer über mich kommen mag.
+<sup>14</sup>Warum soll ich mein Fleisch zwischen meine Zähne nehmen
+und mein Leben in meine Hand legen?
+<sup>15</sup>Schaut, er wird mich töten. Ich habe keine Hoffnung.
+Dennoch will ich meine Wege vor ihm verteidigen.
+<sup>16</sup>Auch das wird meine Rettung sein,
+dass kein Gottloser vor ihn treten darf.
+<sup>17</sup>Hört genau auf meine Rede,
+und lasst meine Erklärung in euren Ohren sein.
+<sup>18</sup>Seht doch, ich habe meine Rechtssache vorbereitet.
+Ich weiß, dass ich recht habe.
+<sup>19</sup>Wer ist es, der mit mir streiten will?
+Denn dann würde ich schweigen und sterben.
+
+> **Was bedeutet das?**
+> Hiob ist bereit, alles zu riskieren. Er will vor Gott treten, auch wenn es ihn das Leben kostet.
+> „Mein Fleisch zwischen die Zähne nehmen“ und „mein Leben in die Hand legen“ sind Redewendungen: Ich setze alles aufs Spiel.
+> Vers 15 ist sehr bekannt, aber im Hebräischen schwer zu verstehen. Die englische Vorlage folgt dem geschriebenen hebräischen Text: „Er wird mich töten, ich habe keine Hoffnung.“ Die jüdische Tradition liest an dieser Stelle ein Wort anders. Dann heißt es: „Selbst wenn er mich tötet, will ich auf ihn hoffen.“ So steht es in vielen deutschen Bibeln. Beide Lesarten zeigen: Hiob gibt Gott nicht auf. Er will ihm gegenübertreten.
+> Vers 16: Hiob ist sicher, dass ein Gottloser es nicht wagen würde, vor Gott zu treten. Dass er es wagt, zeigt seine Unschuld.
+
+---
+
+### Hiob redet zu Gott (Vers 20–28)
+
+<sup>20</sup>Nur zwei Dinge tu mir nicht,
+dann will ich mich nicht vor deinem Angesicht verstecken:
+<sup>21</sup>Nimm deine Hand weit von mir weg,
+und lass deinen Schrecken mich nicht ängstigen.
+<sup>22</sup>Dann ruf, und ich will antworten.
+Oder lass mich reden, und du antworte mir.
+<sup>23</sup>Wie viele sind meine Sünden und Vergehen?
+Lass mich meine Übertretung und meine Sünde wissen!
+<sup>24</sup>Warum verbirgst du dein Gesicht
+und hältst mich für deinen Feind?
+<sup>25</sup>Willst du ein verwehtes Blatt jagen?
+Willst du die trockene Stoppel verfolgen?
+<sup>26</sup>Denn du schreibst bittere Dinge gegen mich
+und lässt mich die Sünden meiner Jugend erben.
+<sup>27</sup>Du legst auch meine Füße in den Block
+und beobachtest alle meine Wege.
+Du ziehst eine Grenze um meine Fußsohlen,
+<sup>28</sup>obwohl ich zerfalle wie etwas Verfaultes,
+wie ein Kleid, das die Motten zerfressen haben.
+
+> **Was bedeutet das?**
+> Jetzt redet Hiob direkt zu Gott. Er bittet nur um zwei Dinge: Nimm den Schmerz weg, und lass mich keine Angst vor dir haben. Dann will er reden.
+> Vers 23: Hiob will wissen, was er falsch gemacht hat. Er ist bereit, seine Schuld einzusehen, wenn Gott sie ihm zeigt.
+> Vers 24 ist der tiefste Schmerz: „Warum verbirgst du dein Gesicht?“ Das Schlimmste für Hiob ist nicht die Krankheit, sondern dass Gott schweigt und fern scheint (vgl. Psalm 13,2; 22,2).
+> „Ein verwehtes Blatt“: Hiob fühlt sich so schwach und klein. Warum kämpft der allmächtige Gott gegen so etwas Kleines?
+> „Die Sünden meiner Jugend“: Vielleicht denkt er an kleine Fehler aus jungen Jahren. Sollen die der Grund für so viel Leid sein?
+> „Der Block“ war ein Holzbalken, in den man die Füße von Gefangenen einschloss.
+
+## Hiob – Kapitel 14
+#### „Wenn ein Mensch stirbt, wird er wieder leben?“
+
+---
+
+### Der Mensch lebt kurz (Vers 1–6)
+
+<sup>1</sup>Der Mensch, von einer Frau geboren,
+lebt kurze Zeit und ist voll Unruhe.
+<sup>2</sup>Er wächst auf wie eine Blume und wird abgeschnitten.
+Er flieht wie ein Schatten und bleibt nicht bestehen.
+<sup>3</sup>Und über so einen öffnest du deine Augen
+und bringst mich mit dir ins Gericht?
+<sup>4</sup>Wer kann etwas Reines aus Unreinem hervorbringen?
+Niemand.
+<sup>5</sup>Weil seine Tage bestimmt sind
+und die Zahl seiner Monate bei dir ist
+und du ihm Grenzen gesetzt hast, die er nicht überschreiten kann,
+<sup>6</sup>so schau weg von ihm, damit er Ruhe hat,
+bis er wie ein Tagelöhner seinen Tag beendet hat.
+
+> **Was bedeutet das?**
+> Diese Verse über die Kürze des Lebens sind sehr bekannt. Sie werden oft bei Beerdigungen gelesen.
+> Das Leben ist wie eine Blume: schön, aber schnell verwelkt (vgl. Psalm 90,5–6; 103,15–16; Jesaja 40,6–8).
+> Hiob bittet Gott: Wenn das Leben so kurz ist, dann lass den Menschen wenigstens in Ruhe, damit er seine kurze Zeit in Frieden leben kann.
+> Vers 4: Kein Mensch ist ganz rein. Hiob gibt zu, dass er nicht vollkommen ist. Aber er fragt: Warum wird ausgerechnet er so streng behandelt?
+
+---
+
+### Hoffnung für einen Baum, aber für den Menschen? (Vers 7–12)
+
+<sup>7</sup>Denn für einen Baum gibt es Hoffnung:
+Wenn er abgehauen wird, schlägt er wieder aus,
+und seine Triebe hören nicht auf.
+<sup>8</sup>Auch wenn seine Wurzel in der Erde alt wird
+und sein Stumpf im Boden abstirbt,
+<sup>9</sup>so sprosst er doch vom Duft des Wassers
+und treibt Zweige wie eine junge Pflanze.
+<sup>10</sup>Aber der Mensch stirbt und liegt da.
+Ja, der Mensch haucht seinen Geist aus – und wo ist er?
+<sup>11</sup>Wie das Wasser aus dem See verschwindet
+und der Fluss versiegt und austrocknet,
+<sup>12</sup>so legt sich der Mensch hin und steht nicht wieder auf.
+Bis der Himmel nicht mehr ist, wachen sie nicht auf
+und werden nicht aus ihrem Schlaf geweckt.
+
+> **Was bedeutet das?**
+> Ein schönes und trauriges Bild: Ein Baum, der gefällt wurde, kann wieder austreiben. Schon der Geruch von Wasser lässt ihn wieder sprießen.
+> Aber der Mensch? Wenn er stirbt, ist er weg. Wie ein ausgetrockneter Fluss.
+> „Bis der Himmel nicht mehr ist“: Hiob meint wohl: niemals. Aber spätere Teile der Bibel sprechen genau davon, dass Gott einen neuen Himmel schafft und die Toten auferweckt (Jesaja 65,17; Daniel 12,2; Offenbarung 21,1).
+> Jesaja benutzt später das Bild vom Baumstumpf als Hoffnungsbild: „Aus dem Stumpf Isais wird ein Reis hervorgehen“ (Jesaja 11,1).
+
+---
+
+### Eine leise Hoffnung (Vers 13–17)
+
+<sup>13</sup>Ach, dass du mich doch im Totenreich verstecken würdest,
+dass du mich verbergen würdest, bis dein Zorn vorüber ist,
+dass du mir eine Frist setzen und dich an mich erinnern würdest!
+<sup>14</sup>Wenn ein Mensch stirbt, wird er wieder leben?
+Alle Tage meines Dienstes würde ich warten,
+bis meine Ablösung käme.
+<sup>15</sup>Du würdest rufen, und ich würde dir antworten.
+Du würdest dich nach dem Werk deiner Hände sehnen.
+<sup>16</sup>Aber jetzt zählst du meine Schritte.
+Gibst du nicht acht auf meine Sünde?
+<sup>17</sup>Meine Übertretung ist in einem Beutel versiegelt,
+und du bindest meine Schuld zusammen.
+
+> **Was bedeutet das?**
+> Hier blitzt eine leise Hoffnung auf. Hiob stellt sich vor: Vielleicht versteckt Gott ihn im Totenreich, nur für eine Weile, bis sein Zorn vorbei ist. Und dann erinnert sich Gott an ihn.
+> Vers 14 stellt die große Frage: „Wenn ein Mensch stirbt, wird er wieder leben?“ Hiob kennt die Antwort nicht. Aber er wagt es, die Frage zu stellen.
+> Vers 15 ist wunderschön: „Du würdest dich nach dem Werk deiner Hände sehnen.“ Hiob glaubt im Tiefsten, dass Gott ihn liebt und vermisst.
+> Christen sehen in dieser Frage eine Vorahnung auf die Auferstehung, von der Jesus spricht: „Ich bin die Auferstehung und das Leben. Wer an mich glaubt, wird leben, auch wenn er stirbt“ (Johannes 11,25).
+> „In einem Beutel versiegelt“: Gott sammelt Hiobs Schuld wie in einem verschlossenen Beutel. Manche verstehen es auch so: Gott verschließt die Schuld und sieht sie nicht mehr an.
+
+---
+
+### Doch die Hoffnung zerrinnt (Vers 18–22)
+
+<sup>18</sup>Aber der Berg, der einstürzt, zerfällt,
+und der Fels wird von seiner Stelle gerückt.
+<sup>19</sup>Das Wasser höhlt die Steine aus,
+und seine Fluten schwemmen die Erde weg.
+So vernichtest du die Hoffnung des Menschen.
+<sup>20</sup>Du überwältigst ihn für immer, und er geht dahin.
+Du veränderst sein Gesicht und schickst ihn weg.
+<sup>21</sup>Seine Söhne kommen zu Ehren, und er weiß es nicht.
+Sie werden gering, aber er merkt es nicht.
+<sup>22</sup>Nur sein eigener Leib hat Schmerzen,
+und seine Seele trauert über ihn selbst.“
+
+> **Was bedeutet das?**
+> Die Hoffnung war nur kurz. Jetzt wird es wieder dunkel.
+> Wie Wasser langsam Steine aushöhlt, so zerstört Gott langsam die Hoffnung des Menschen.
+> Vers 21 ist für Hiob besonders schmerzhaft: Ein Toter erfährt nicht mehr, wie es seinen Kindern geht. Hiob hat keine Kinder mehr.
+> Hiob schwankt zwischen Hoffnung und Verzweiflung. Das ist sehr menschlich. Viele Trauernde kennen dieses Hin und Her.
+
+## Hiob – Kapitel 15
+#### Elifas' zweite Rede: „Dein eigener Mund verurteilt dich“
+
+---
+
+### Du redest gottlos (Vers 1–6)
+
+<sup>1</sup>Da antwortete Elifas, der Temaniter:
+<sup>2</sup>„Soll ein Weiser mit windigem Wissen antworten
+und seinen Bauch mit Ostwind füllen?
+<sup>3</sup>Soll er mit nutzlosem Gerede streiten
+oder mit Reden, mit denen er nichts Gutes bewirkt?
+<sup>4</sup>Ja, du zerstörst die Gottesfurcht
+und hinderst die Andacht vor Gott.
+<sup>5</sup>Denn deine Schuld lehrt deinen Mund,
+und du wählst die Sprache der Listigen.
+<sup>6</sup>Dein eigener Mund verurteilt dich, und nicht ich.
+Ja, deine eigenen Lippen zeugen gegen dich.
+
+> **Was bedeutet das?**
+> Jetzt beginnt die zweite Runde der Reden. Elifas ist nicht mehr so höflich wie beim ersten Mal.
+> „Ostwind“ ist der heiße Wüstenwind, der nur Hitze und Staub bringt. Elifas meint: Deine Worte sind heiße Luft.
+> Er wirft Hiob vor: Mit deinen Klagen zerstörst du den Glauben. Andere könnten durch dich ihren Respekt vor Gott verlieren.
+> Vers 5–6: Elifas sagt: Deine Worte beweisen, dass du schuldig bist. Nur ein Schuldiger redet so.
+
+---
+
+### Hältst du dich für klüger als alle? (Vers 7–16)
+
+<sup>7</sup>Bist du als erster Mensch geboren?
+Oder wurdest du vor den Hügeln hervorgebracht?
+<sup>8</sup>Hast du im geheimen Rat Gottes zugehört?
+Hast du die Weisheit für dich allein?
+<sup>9</sup>Was weißt du, das wir nicht wissen?
+Was verstehst du, das nicht auch bei uns ist?
+<sup>10</sup>Bei uns sind Grauhaarige und sehr Alte,
+viel älter als dein Vater.
+<sup>11</sup>Sind dir die Tröstungen Gottes zu gering,
+auch das Wort, das sanft mit dir umgeht?
+<sup>12</sup>Warum reißt dich dein Herz fort?
+Und warum blitzen deine Augen,
+<sup>13</sup>dass du deinen Geist gegen Gott richtest
+und solche Worte aus deinem Mund gehen lässt?
+<sup>14</sup>Was ist der Mensch, dass er rein sein könnte?
+Was ist der, der von einer Frau geboren ist, dass er gerecht sein könnte?
+<sup>15</sup>Schau, seinen Heiligen vertraut er nicht,
+und selbst die Himmel sind nicht rein in seinen Augen.
+<sup>16</sup>Wie viel weniger der Abscheuliche und Verdorbene,
+der Mensch, der Unrecht trinkt wie Wasser!
+
+> **Was bedeutet das?**
+> Elifas spottet: Bist du etwa der erste Mensch, der je gelebt hat? Warst du dabei, als Gott die Welt gemacht hat? Hältst du dich für klüger als alle?
+> Ironie: Später wird Gott Hiob ähnliche Fragen stellen (Kapitel 38,4). Aber nicht, um ihn zu verurteilen.
+> Vers 10: Elifas beruft sich auf die Weisheit der Alten.
+> Vers 11: Elifas hält seine eigenen Worte für „Tröstungen Gottes“ und „sanfte Worte“. Er merkt nicht, wie sehr er Hiob verletzt.
+> Vers 14–16 wiederholt den Gedanken aus Kapitel 4,17–19. Aber jetzt wird er schärfer: Der Mensch „trinkt Unrecht wie Wasser“. Elifas meint damit wohl auch Hiob.
+
+---
+
+### Das Schicksal des Gottlosen (Vers 17–35)
+
+<sup>17</sup>Ich will es dir zeigen, hör mir zu.
+Was ich gesehen habe, will ich erzählen,
+<sup>18</sup>was die Weisen von ihren Vätern her verkündet
+und nicht verborgen haben,
+<sup>19</sup>denen allein das Land gegeben war,
+und kein Fremder zog unter ihnen umher:
+<sup>20</sup>Der Gottlose windet sich in Qualen alle seine Tage,
+die ganze Zahl der Jahre, die dem Gewalttätigen bestimmt sind.
+<sup>21</sup>Schreckensrufe sind in seinen Ohren.
+Mitten im Frieden kommt der Verwüster über ihn.
+<sup>22</sup>Er glaubt nicht, dass er aus der Finsternis zurückkehren wird.
+Das Schwert lauert auf ihn.
+<sup>23</sup>Er irrt umher nach Brot und fragt: ‚Wo ist es?‘
+Er weiß, dass der Tag der Finsternis für ihn bereit ist.
+<sup>24</sup>Not und Angst erschrecken ihn.
+Sie überwältigen ihn wie ein König, der zum Kampf bereit ist.
+<sup>25</sup>Denn er hat seine Hand gegen Gott ausgestreckt
+und sich gegen den Allmächtigen hochmütig benommen.
+<sup>26</sup>Er rennt gegen ihn an mit steifem Nacken,
+mit den dicken Buckeln seiner Schilde,
+<sup>27</sup>weil er sein Gesicht mit seinem Fett bedeckt
+und Fett an seinen Hüften angesetzt hat.
+<sup>28</sup>Er hat in zerstörten Städten gewohnt,
+in Häusern, die niemand bewohnte,
+die bestimmt waren, Schutthaufen zu werden.
+<sup>29</sup>Er wird nicht reich,
+und sein Besitz bleibt nicht bestehen,
+und ihr Besitz breitet sich nicht auf der Erde aus.
+<sup>30</sup>Er wird der Finsternis nicht entkommen.
+Die Flamme wird seine Zweige verdorren lassen.
+Er wird durch den Hauch von Gottes Mund weggehen.
+<sup>31</sup>Er soll nicht auf Nichtiges vertrauen und sich selbst betrügen,
+denn Nichtiges wird sein Lohn sein.
+<sup>32</sup>Es wird sich erfüllen, bevor seine Zeit kommt.
+Sein Zweig wird nicht grün sein.
+<sup>33</sup>Er wird seine unreifen Trauben abschütteln wie ein Weinstock
+und seine Blüten abwerfen wie ein Ölbaum.
+<sup>34</sup>Denn die Gemeinschaft der Gottlosen wird unfruchtbar sein,
+und Feuer wird die Zelte der Bestechung verzehren.
+<sup>35</sup>Sie gehen schwanger mit Unheil und gebären Unrecht.
+Ihr Herz bereitet Betrug vor.“
+
+> **Was bedeutet das?**
+> Elifas beschreibt ausführlich, wie es dem Gottlosen ergeht: Er lebt in ständiger Angst, verliert alles, stirbt früh.
+> Er sagt es nicht direkt, aber jeder versteht: Das ist ein Bild von Hiob. Hiob hat Angst, er hat alles verloren. Also muss er ein Gottloser sein.
+> „Fett“ war in der Bibel oft ein Bild für Wohlstand und Selbstzufriedenheit.
+> Manches davon ist wahr: Wer Böses tut, lebt oft in Angst. Aber Elifas macht daraus eine Regel, die immer gelten soll. Und er wendet sie auf einen Unschuldigen an.
+> Vers 35 ist ein starkes Bild: Die Bösen „gehen schwanger mit Unheil“. Das Böse wächst in ihnen wie ein Kind, bis es zur Welt kommt.
