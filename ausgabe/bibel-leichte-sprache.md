@@ -69614,3 +69614,364 @@ Jubelt, alle, die ihr aufrichtigen Herzens seid!
 > In Vers 8 spricht Gott selbst: Ich will dich führen. Ich behalte dich im Auge, wie ein guter Lehrer.
 > Vers 9: Gott will uns nicht wie ein Tier mit Zaumzeug zwingen. Er will, dass wir freiwillig und mit Verstand zu ihm kommen.
 > Vers 10–11: Wer Gott vertraut, ist von Güte umgeben. Der Psalm endet mit Freude.
+
+## Psalm 33
+#### Singt dem HERRN ein neues Lied
+
+---
+
+### Ein neues Lied (Vers 1–5)
+
+<sup>1</sup>Freut euch im HERRN, ihr Gerechten!
+Den Aufrichtigen steht das Loben gut an.
+<sup>2</sup>Dankt dem HERRN mit der Leier!
+Singt ihm Lob mit der zehnsaitigen Harfe!
+<sup>3</sup>Singt ihm ein neues Lied!
+Spielt gut und mit Jubel!
+<sup>4</sup>Denn das Wort des HERRN ist richtig.
+Alles, was er tut, geschieht in Treue.
+<sup>5</sup>Er liebt Gerechtigkeit und Recht.
+Die Erde ist voll von der Güte des HERRN.
+
+> **Was bedeutet das?**
+> Psalm 33 ist ein großer Lobgesang. Er hat keine Überschrift.
+> „Ein neues Lied“: Gottes Güte ist jeden Tag neu, darum soll auch das Lob immer wieder neu und frisch sein. Dieser Ausdruck kommt in der Bibel oft vor (vgl. Psalm 96,1; Offenbarung 5,9).
+> „Die Erde ist voll von der Güte des HERRN“: Überall in der Welt kann man Gottes Liebe entdecken.
+
+---
+
+### Er sprach, und es geschah (Vers 6–9)
+
+<sup>6</sup>Durch das Wort des HERRN sind die Himmel gemacht,
+und ihr ganzes Heer durch den Hauch seines Mundes.
+<sup>7</sup>Er sammelt das Wasser des Meeres wie einen Damm.
+Er legt die Fluten in Vorratskammern.
+<sup>8</sup>Die ganze Erde soll den HERRN fürchten.
+Alle Bewohner der Welt sollen Ehrfurcht vor ihm haben.
+<sup>9</sup>Denn er sprach, und es geschah.
+Er gebot, und es stand da.
+
+> **Was bedeutet das?**
+> Gott hat die Welt durch sein Wort geschaffen (vgl. 1. Mose 1: „Gott sprach: Es werde Licht“).
+> „Ihr ganzes Heer“: die Sterne.
+> Vers 9 fasst es ganz kurz zusammen: Gott braucht nur zu sprechen, und es geschieht. So mächtig ist sein Wort.
+
+---
+
+### Gottes Plan bleibt bestehen (Vers 10–15)
+
+<sup>10</sup>Der HERR macht den Rat der Völker zunichte.
+Er macht die Gedanken der Nationen wirkungslos.
+<sup>11</sup>Der Rat des HERRN bleibt ewig bestehen,
+die Gedanken seines Herzens von Generation zu Generation.
+<sup>12</sup>Glücklich ist das Volk, dessen Gott der HERR ist,
+das Volk, das er sich zum Erbe erwählt hat.
+<sup>13</sup>Der HERR schaut vom Himmel herab.
+Er sieht alle Menschenkinder.
+<sup>14</sup>Von dem Ort, an dem er wohnt,
+schaut er auf alle Bewohner der Erde,
+<sup>15</sup>er, der ihnen allen das Herz gebildet hat
+und auf alle ihre Werke achtet.
+
+> **Was bedeutet das?**
+> Menschen und Völker machen große Pläne. Aber am Ende geschieht, was Gott plant.
+> Gott sieht alle Menschen, nicht nur Israel. Er hat jedes Herz geformt und kennt es genau.
+
+---
+
+### Ein Pferd hilft nicht (Vers 16–22)
+
+<sup>16</sup>Kein König wird durch ein großes Heer gerettet.
+Ein Held wird nicht durch große Kraft befreit.
+<sup>17</sup>Ein Pferd ist vergeblich zur Rettung,
+und mit seiner großen Kraft rettet es niemanden.
+<sup>18</sup>Schau, das Auge des HERRN ruht auf denen, die ihn fürchten,
+auf denen, die auf seine Güte hoffen,
+<sup>19</sup>um ihre Seele vom Tod zu retten
+und sie in Hungersnot am Leben zu erhalten.
+<sup>20</sup>Unsere Seele hat auf den HERRN gewartet.
+Er ist unsere Hilfe und unser Schild.
+<sup>21</sup>Denn unser Herz freut sich über ihn,
+weil wir auf seinen heiligen Namen vertraut haben.
+<sup>22</sup>Deine Güte, HERR, sei über uns,
+so wie wir auf dich gehofft haben.
+
+> **Was bedeutet das?**
+> Weder große Armeen noch starke Kriegspferde können wirklich retten. Wahre Sicherheit kommt von Gott (vgl. Psalm 20,7).
+> Gottes Auge ruht liebevoll auf denen, die ihm vertrauen.
+> Vers 22 ist ein schönes Abschlussgebet. Es wird auch am Ende des alten Lobgesangs „Te Deum“ gebetet.
+
+## Psalm 34
+#### Schmeckt und seht, wie gut der HERR ist
+
+---
+
+### Ich will den HERRN loben allezeit (Vers 1–7)
+
+<sup>1</sup>Von David, als er sich vor Abimelech wahnsinnig stellte,
+der ihn wegjagte, und er ging fort.
+Ich will den HERRN loben zu jeder Zeit.
+Sein Lob soll immer in meinem Mund sein.
+<sup>2</sup>Meine Seele soll sich des HERRN rühmen.
+Die Demütigen sollen es hören und sich freuen.
+<sup>3</sup>Ach, preist den HERRN mit mir!
+Lasst uns gemeinsam seinen Namen erheben!
+<sup>4</sup>Ich suchte den HERRN, und er antwortete mir
+und rettete mich aus allen meinen Ängsten.
+<sup>5</sup>Die auf ihn sahen, strahlten.
+Ihre Gesichter werden niemals vor Scham bedeckt sein.
+<sup>6</sup>Dieser Arme rief, und der HERR hörte ihn
+und rettete ihn aus allen seinen Nöten.
+<sup>7</sup>Der Engel des HERRN lagert sich um die, die ihn fürchten,
+und rettet sie.
+
+> **Was bedeutet das?**
+> Die Überschrift erinnert an eine Geschichte: David floh vor Saul zum Philisterkönig in Gat. Aus Angst stellte er sich wahnsinnig, damit man ihn gehen ließ (1. Samuel 21,11–16). Dort heißt der König Achisch. „Abimelech“ war wahrscheinlich ein Titel der Philisterkönige, so wie „Pharao“ in Ägypten.
+> Psalm 34 ist ein Alphabet-Gedicht.
+> Vers 5: „Die auf ihn sahen, strahlten“: Wer auf Gott schaut, dessen Gesicht leuchtet vor Freude.
+> Vers 7: Gottes Engel lagert wie ein Heer rund um die, die ihm vertrauen, und beschützt sie.
+
+---
+
+### Schmeckt und seht (Vers 8–10)
+
+<sup>8</sup>Ach, schmeckt und seht, dass der HERR gut ist!
+Glücklich ist der Mann, der bei ihm Zuflucht sucht.
+<sup>9</sup>Ach, fürchtet den HERRN, ihr seine Heiligen,
+denn denen, die ihn fürchten, fehlt nichts.
+<sup>10</sup>Die jungen Löwen leiden Mangel und Hunger,
+aber denen, die den HERRN suchen, fehlt nichts Gutes.
+
+> **Was bedeutet das?**
+> Vers 8 ist eine Einladung: Probiere es aus! Wie man gutes Essen schmeckt, so kann man Gottes Güte erleben. Man muss es selbst erfahren.
+> Christen singen diesen Vers oft beim Abendmahl. Auch 1. Petrus 2,3 greift ihn auf.
+> Vers 10: Selbst starke junge Löwen müssen manchmal hungern. Aber wer Gott sucht, dem fehlt nichts wirklich Gutes.
+
+---
+
+### Wer das Leben liebt (Vers 11–16)
+
+<sup>11</sup>Kommt, ihr Kinder, hört mir zu!
+Ich will euch die Furcht des HERRN lehren.
+<sup>12</sup>Wer ist es, der das Leben begehrt
+und viele Tage liebt, um Gutes zu sehen?
+<sup>13</sup>Bewahre deine Zunge vor dem Bösen
+und deine Lippen davor, Lügen zu reden!
+<sup>14</sup>Weiche vom Bösen und tu Gutes!
+Suche Frieden und jage ihm nach!
+<sup>15</sup>Die Augen des HERRN sind auf die Gerechten gerichtet.
+Seine Ohren hören auf ihr Schreien.
+<sup>16</sup>Das Angesicht des HERRN ist gegen die, die Böses tun,
+um ihr Andenken von der Erde auszurotten.
+
+> **Was bedeutet das?**
+> David wird zum Lehrer. Er gibt praktische Ratschläge für ein gutes Leben:
+> – Achte auf deine Worte, lüge nicht.
+> – Lass das Böse und tu das Gute.
+> – „Suche Frieden und jage ihm nach“: Frieden kommt nicht von allein. Man muss sich aktiv darum bemühen.
+> Petrus zitiert Vers 12–16 in seinem Brief (1. Petrus 3,10–12).
+
+---
+
+### Nahe denen, die zerbrochenen Herzens sind (Vers 17–22)
+
+<sup>17</sup>Die Gerechten schreien, und der HERR hört
+und rettet sie aus allen ihren Nöten.
+<sup>18</sup>Der HERR ist nahe denen, die ein zerbrochenes Herz haben,
+und rettet die, deren Geist zerschlagen ist.
+<sup>19</sup>Viele Leiden hat der Gerechte,
+aber aus allen rettet ihn der HERR.
+<sup>20</sup>Er bewahrt alle seine Knochen.
+Nicht einer von ihnen wird zerbrochen.
+<sup>21</sup>Das Böse wird den Gottlosen töten.
+Die den Gerechten hassen, werden verurteilt.
+<sup>22</sup>Der HERR erlöst die Seele seiner Knechte.
+Keiner, der bei ihm Zuflucht sucht, wird verurteilt.
+
+> **Was bedeutet das?**
+> Vers 18 ist einer der tröstlichsten Verse der Bibel: Gott ist gerade denen nahe, deren Herz gebrochen ist. Wer traurig, verletzt oder verzweifelt ist, ist Gott nicht fern, sondern besonders nah.
+> Vers 19 ist ehrlich: Auch Gerechte haben „viele Leiden“. Glaube schützt nicht vor Leid. Aber Gott rettet heraus.
+> Vers 20: Johannes bezieht diesen Vers auf Jesus: Am Kreuz wurden ihm, anders als den anderen Gekreuzigten, die Beine nicht gebrochen (Johannes 19,36).
+> Vers 21: Das Böse fällt auf den zurück, der es tut.
+> Wenn dein Herz gerade gebrochen ist und du Hilfe brauchst: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222.
+
+## Psalm 35
+#### Streite für mich, HERR
+
+---
+
+### Kämpfe gegen die, die mich bekämpfen (Vers 1–8)
+
+<sup>1</sup>Von David.
+Streite, HERR, mit denen, die mit mir streiten!
+Kämpfe gegen die, die gegen mich kämpfen!
+<sup>2</sup>Ergreif Schild und Langschild
+und steh auf, um mir zu helfen!
+<sup>3</sup>Schwing den Speer und versperre denen den Weg, die mich verfolgen!
+Sag zu meiner Seele: „Ich bin deine Rettung.“
+<sup>4</sup>Die nach meinem Leben trachten, sollen enttäuscht und beschämt werden.
+Die mein Unglück planen, sollen zurückweichen und zuschanden werden.
+<sup>5</sup>Sie sollen sein wie Spreu vor dem Wind,
+und der Engel des HERRN soll sie forttreiben.
+<sup>6</sup>Ihr Weg soll dunkel und schlüpfrig sein,
+und der Engel des HERRN soll sie verfolgen.
+<sup>7</sup>Denn ohne Grund haben sie mir ihr Netz in einer Grube versteckt.
+Ohne Grund haben sie meiner Seele eine Grube gegraben.
+<sup>8</sup>Das Verderben soll ihn unerwartet treffen.
+Sein Netz, das er versteckt hat, soll ihn selbst fangen.
+Er soll in dieses Verderben fallen.
+
+> **Was bedeutet das?**
+> Der Beter wird ohne Grund verfolgt. Er bittet Gott, wie ein Krieger oder wie ein Anwalt vor Gericht für ihn einzutreten. Das hebräische Wort „streiten“ bedeutet auch „einen Rechtsstreit führen“.
+> Vers 3: Am meisten wünscht er sich ein Wort von Gott: „Ich bin deine Rettung.“
+> Vers 4–8 sind Bitten gegen die Feinde. Der Beter will nicht selbst zurückschlagen. Er bittet Gott, dass die Bösen in ihre eigene Falle tappen.
+
+---
+
+### Wer ist wie du? (Vers 9–10)
+
+<sup>9</sup>Meine Seele soll sich im HERRN freuen.
+Sie soll über seine Rettung jubeln.
+<sup>10</sup>Alle meine Knochen sollen sagen:
+„HERR, wer ist wie du,
+der den Armen rettet vor dem, der stärker ist als er,
+ja, den Armen und Bedürftigen vor dem, der ihn beraubt?“
+
+> **Was bedeutet das?**
+> Ein kurzer Moment des Vertrauens. „Alle meine Knochen“: mit meinem ganzen Körper, mit allem, was ich bin.
+> Gott steht auf der Seite der Schwachen gegen die Starken, die sie ausrauben.
+
+---
+
+### Sie vergelten Gutes mit Bösem (Vers 11–18)
+
+<sup>11</sup>Ungerechte Zeugen stehen auf.
+Sie fragen mich nach Dingen, von denen ich nichts weiß.
+<sup>12</sup>Sie vergelten mir Gutes mit Bösem,
+sodass meine Seele verlassen ist.
+<sup>13</sup>Ich aber, als sie krank waren, trug ein Trauergewand.
+Ich quälte meine Seele mit Fasten.
+Mein Gebet kehrte in meinen eigenen Schoß zurück.
+<sup>14</sup>Ich verhielt mich, als wäre es mein Freund oder mein Bruder.
+Ich ging gebeugt in Trauer wie einer, der um seine Mutter trauert.
+<sup>15</sup>Aber als ich ins Unglück kam, freuten sie sich und versammelten sich.
+Die Angreifer versammelten sich gegen mich, ohne dass ich es wusste.
+Sie zerrissen mich und hörten nicht auf.
+<sup>16</sup>Wie gottlose Spötter bei Festgelagen
+knirschten sie mit den Zähnen gegen mich.
+<sup>17</sup>Herr, wie lange willst du zusehen?
+Rette meine Seele vor ihrem Verderben,
+mein kostbares Leben vor den Löwen!
+<sup>18</sup>Ich will dir danken in der großen Versammlung.
+Ich will dich loben unter vielem Volk.
+
+> **Was bedeutet das?**
+> Das tut besonders weh: Die Menschen, für die der Beter gebetet und gefastet hat, als sie krank waren, wenden sich jetzt gegen ihn. Sie freuen sich über sein Unglück.
+> Vers 13: „Mein Gebet kehrte in meinen Schoß zurück“: Das ist schwer zu verstehen. Vielleicht: Ich betete mit gesenktem Kopf auf der Brust. Oder: Mein Gebet hat ihnen nicht geholfen, es kam zu mir zurück. Oder: Ich bete das Gleiche jetzt für mich selbst.
+> Vers 17: „Wie lange willst du zusehen?“: Eine ehrliche, verzweifelte Frage an Gott.
+
+---
+
+### Sie hassen mich ohne Grund (Vers 19–26)
+
+<sup>19</sup>Lass die nicht über mich jubeln, die zu Unrecht meine Feinde sind,
+und lass die nicht mit den Augen zwinkern, die mich ohne Grund hassen!
+<sup>20</sup>Denn sie reden nicht von Frieden,
+sondern denken sich betrügerische Worte aus gegen die Stillen im Land.
+<sup>21</sup>Ja, sie reißen ihr Maul gegen mich auf.
+Sie sagen: „Haha! Haha! Unser Auge hat es gesehen!“
+<sup>22</sup>Du hast es gesehen, HERR. Schweig nicht!
+Herr, sei nicht fern von mir!
+<sup>23</sup>Wach auf! Steh auf, um mich zu verteidigen,
+mein Gott! Mein Herr, streite für mich!
+<sup>24</sup>Verschaff mir Recht, HERR, mein Gott, nach deiner Gerechtigkeit!
+Lass sie nicht über mich triumphieren!
+<sup>25</sup>Lass sie nicht in ihrem Herzen sagen: „Haha! So wollten wir es haben!“
+Lass sie nicht sagen: „Wir haben ihn verschlungen!“
+<sup>26</sup>Enttäuscht und beschämt sollen alle zusammen werden,
+die sich über mein Unglück freuen.
+Mit Schande und Schmach sollen sich alle bekleiden,
+die sich gegen mich groß machen.
+
+> **Was bedeutet das?**
+> Vers 19: „Die mich ohne Grund hassen“: Jesus zitiert diese Worte für sich selbst (Johannes 15,25).
+> „Die Stillen im Land“: friedliche, unauffällige Menschen, die niemandem schaden. Gerade sie werden zur Zielscheibe von Lügen.
+> Vers 21: „Haha! Wir haben es gesehen!“: Die Feinde lachen schadenfroh, als hätten sie den Beter bei etwas ertappt.
+> Vers 22: Die Antwort: „Du hast es gesehen, HERR!“ Die Feinde sehen etwas, aber Gott sieht alles.
+
+---
+
+### Der HERR sei groß (Vers 27–28)
+
+<sup>27</sup>Die meine gerechte Sache unterstützen, sollen jubeln und sich freuen.
+Ja, sie sollen immer sagen: „Groß sei der HERR,
+der Gefallen hat am Wohlergehen seines Knechtes!“
+<sup>28</sup>Meine Zunge soll von deiner Gerechtigkeit reden
+und von deinem Lob den ganzen Tag.
+
+> **Was bedeutet das?**
+> Am Ende geht es nicht mehr um die Feinde, sondern um die Freunde und um Gott.
+> „Wohlergehen“: Im Hebräischen steht „Schalom“, Frieden. Gott hat Freude daran, wenn es seinen Kindern gut geht.
+> Psalm 35 ist ein Gebet für Menschen, die gemobbt, verleumdet oder ungerecht behandelt werden. Es erlaubt, Gott den ganzen Schmerz zu sagen und die Sache ihm zu übergeben, statt selbst Rache zu nehmen.
+
+## Psalm 36
+#### Bei dir ist die Quelle des Lebens
+
+---
+
+### Der Gottlose (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Von David, dem Knecht des HERRN.
+Eine Offenbarung ist in meinem Herzen über die Übertretung des Gottlosen:
+Es gibt keine Gottesfurcht vor seinen Augen.
+<sup>2</sup>Denn er schmeichelt sich selbst in seinen eigenen Augen
+zu sehr, als dass er seine Sünde entdecken und hassen würde.
+<sup>3</sup>Die Worte seines Mundes sind Unrecht und Betrug.
+Er hat aufgehört, klug zu sein und Gutes zu tun.
+<sup>4</sup>Auf seinem Bett plant er Unrecht.
+Er stellt sich auf einen Weg, der nicht gut ist.
+Er verabscheut das Böse nicht.
+
+> **Was bedeutet das?**
+> Der Psalm beschreibt, wie ein gottloser Mensch tickt: Er hat keine Ehrfurcht vor Gott. Er findet sich selbst so toll, dass er seine eigenen Fehler nicht sieht.
+> Paulus zitiert Vers 1 in Römer 3,18.
+> Vers 4: Sogar nachts im Bett denkt er sich Böses aus. Er hat keine Hemmung mehr vor dem Bösen.
+> Vers 1 ist im Hebräischen schwer zu übersetzen. Wörtlich etwa: „Ein Spruch der Übertretung an den Gottlosen in meinem Herzen.“
+
+---
+
+### Deine Güte reicht bis zum Himmel (Vers 5–9)
+
+<sup>5</sup>HERR, deine Güte reicht bis in den Himmel,
+deine Treue bis zu den Wolken.
+<sup>6</sup>Deine Gerechtigkeit ist wie die Berge Gottes.
+Deine Urteile sind wie die große Urflut.
+HERR, du hilfst Menschen und Tieren.
+<sup>7</sup>Wie kostbar ist deine Güte, Gott!
+Die Menschenkinder finden Zuflucht im Schatten deiner Flügel.
+<sup>8</sup>Sie werden reichlich satt von der Fülle deines Hauses.
+Du gibst ihnen zu trinken aus dem Strom deiner Wonnen.
+<sup>9</sup>Denn bei dir ist die Quelle des Lebens.
+In deinem Licht sehen wir das Licht.
+
+> **Was bedeutet das?**
+> Jetzt kommt ein starker Kontrast: Nach dem dunklen Bild des Gottlosen kommt ein strahlendes Lob von Gottes Güte.
+> Gottes Güte ist so groß wie der Himmel, seine Gerechtigkeit so fest wie die höchsten Berge, seine Urteile so tief wie das Meer.
+> „Du hilfst Menschen und Tieren“: Gott sorgt für die ganze Schöpfung.
+> Vers 9 ist einer der schönsten Verse der Bibel: „Bei dir ist die Quelle des Lebens. In deinem Licht sehen wir das Licht.“ Alles Leben kommt von Gott. Und nur in seinem Licht können wir wirklich sehen und verstehen.
+> Jesus sagt: „Ich bin das Licht der Welt“ (Johannes 8,12) und spricht vom „lebendigen Wasser“ (Johannes 4,10–14).
+
+---
+
+### Bewahre mich (Vers 10–12)
+
+<sup>10</sup>Ach, lass deine Güte bleiben bei denen, die dich kennen,
+und deine Gerechtigkeit bei denen, die aufrichtigen Herzens sind!
+<sup>11</sup>Lass den Fuß des Hochmuts nicht über mich kommen!
+Lass die Hand der Gottlosen mich nicht vertreiben!
+<sup>12</sup>Dort sind die Übeltäter gefallen.
+Sie sind niedergestoßen und können nicht mehr aufstehen.
+
+> **Was bedeutet das?**
+> Der Beter bittet: Lass mich in deiner Güte bleiben. Bewahre mich vor den stolzen und bösen Menschen.
+> Vers 12: Der Beter sieht schon das Ende der Übeltäter vor sich: Sie fallen und stehen nicht wieder auf.
