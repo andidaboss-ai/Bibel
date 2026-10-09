@@ -74679,3 +74679,330 @@ Heiligkeit ist die Zierde deines Hauses, HERR, für immer.
 > Das Meer mit seinen tosenden Wellen war für die Menschen damals ein Bild für Chaos und Bedrohung. Man hört die Wellen dreimal anrollen: „Die Fluten erheben …“
 > Aber Gott ist mächtiger als das tobende Meer. Auch die bedrohlichsten Mächte der Welt sind kleiner als er.
 > Vers 5: Gottes Ordnungen sind zuverlässig, und sein Haus ist heilig.
+
+## Psalm 94
+#### Gott der Vergeltung, erscheine!
+
+---
+
+### Wie lange noch? (Vers 1–7)
+
+<sup>1</sup>HERR, du Gott, dem die Vergeltung gehört,
+du Gott, dem die Vergeltung gehört, erscheine strahlend!
+<sup>2</sup>Erhebe dich, du Richter der Erde!
+Vergilt den Hochmütigen, was sie verdienen!
+<sup>3</sup>HERR, wie lange werden die Gottlosen,
+wie lange werden die Gottlosen triumphieren?
+<sup>4</sup>Sie sprudeln hochmütige Worte hervor.
+Alle Übeltäter prahlen.
+<sup>5</sup>Sie zertreten dein Volk, HERR,
+und unterdrücken dein Erbe.
+<sup>6</sup>Sie töten die Witwe und den Fremden
+und ermorden die Waisen.
+<sup>7</sup>Sie sagen: „Jah sieht es nicht,
+und der Gott Jakobs merkt es nicht.“
+
+> **Was bedeutet das?**
+> „Gott der Vergeltung“: Das klingt hart. Gemeint ist: Gott sorgt für Gerechtigkeit. Er lässt das Unrecht nicht ungestraft. Weil die Vergeltung Gott gehört, müssen Menschen nicht selbst Rache nehmen (vgl. 5. Mose 32,35; Römer 12,19).
+> Die Gottlosen tun das Schlimmste: Sie töten die Schwächsten der Gesellschaft, Witwen, Fremde, Waisen. Also gerade die, die Gott besonders schützen will.
+> Sie denken: Gott sieht nichts.
+
+---
+
+### Sollte er nicht sehen? (Vers 8–11)
+
+<sup>8</sup>Merkt auf, ihr Unvernünftigen im Volk!
+Ihr Toren, wann werdet ihr klug?
+<sup>9</sup>Der das Ohr gepflanzt hat, sollte der nicht hören?
+Der das Auge gebildet hat, sollte der nicht sehen?
+<sup>10</sup>Der die Völker erzieht, sollte der nicht strafen?
+Er, der den Menschen Erkenntnis lehrt, weiß es.
+<sup>11</sup>Der HERR kennt die Gedanken der Menschen,
+dass sie nichtig sind.
+
+> **Was bedeutet das?**
+> Ein kluges Argument: Gott hat dem Menschen Ohren und Augen gegeben. Wie könnte er selbst dann blind und taub sein? Natürlich sieht und hört er alles.
+> Vers 11: Paulus zitiert diesen Vers in 1. Korinther 3,20.
+
+---
+
+### Glücklich, wen du erziehst (Vers 12–15)
+
+<sup>12</sup>Glücklich ist der Mensch, den du erziehst, Jah,
+und den du aus deinem Gesetz lehrst,
+<sup>13</sup>damit du ihm Ruhe gibst vor den bösen Tagen,
+bis dem Gottlosen die Grube gegraben ist.
+<sup>14</sup>Denn der HERR wird sein Volk nicht verstoßen,
+und er wird sein Erbe nicht verlassen.
+<sup>15</sup>Denn das Recht wird zur Gerechtigkeit zurückkehren.
+Alle, die aufrichtigen Herzens sind, werden ihm folgen.
+
+> **Was bedeutet das?**
+> Gottes Erziehung ist ein Zeichen seiner Liebe. Wer Gottes Weisung kennt, findet innere Ruhe, auch in schlimmen Zeiten.
+> Vers 14 ist ein großes Versprechen: Gott verstößt sein Volk nicht.
+> Vers 15: Eines Tages wird das Recht wieder gerecht sein. Jetzt ist es oft verdreht, aber das bleibt nicht so.
+
+---
+
+### Als mein Fuß wankte (Vers 16–19)
+
+<sup>16</sup>Wer steht für mich auf gegen die Gottlosen?
+Wer tritt für mich ein gegen die Übeltäter?
+<sup>17</sup>Wäre der HERR nicht meine Hilfe gewesen,
+so würde meine Seele bald im Schweigen wohnen.
+<sup>18</sup>Als ich sagte: „Mein Fuß gleitet aus!“,
+da hat mich deine Güte, HERR, gehalten.
+<sup>19</sup>Als viele Sorgen in mir waren,
+haben deine Tröstungen meine Seele erfreut.
+
+> **Was bedeutet das?**
+> Der Beter erzählt von seiner eigenen Erfahrung: Niemand hat ihm geholfen. Ohne Gott wäre er gestorben („im Schweigen wohnen“: im Totenreich).
+> Vers 18: Ein schönes Bild: Gerade als er dachte, er rutscht aus und fällt, hat Gottes Güte ihn festgehalten.
+> Vers 19: Wenn die Sorgen im Kopf durcheinander kreisen, kann Gottes Trost die Seele fröhlich machen. Ein Vers für schlaflose Nächte voller Grübeln.
+
+---
+
+### Der HERR ist meine Burg (Vers 20–23)
+
+<sup>20</sup>Kann der Thron der Bosheit Gemeinschaft mit dir haben,
+der durch Gesetze Unheil schafft?
+<sup>21</sup>Sie rotten sich zusammen gegen das Leben des Gerechten
+und verurteilen unschuldiges Blut.
+<sup>22</sup>Aber der HERR ist meine hohe Burg geworden,
+mein Gott der Fels meiner Zuflucht.
+<sup>23</sup>Er hat ihre eigene Schuld auf sie zurückgebracht
+und wird sie in ihrer eigenen Bosheit vernichten.
+Der HERR, unser Gott, wird sie vernichten.
+
+> **Was bedeutet das?**
+> Vers 20: Ein erschreckender Gedanke: Böse Herrscher können Unrecht sogar durch Gesetze legal machen. Das ist leider in der Geschichte oft passiert. Aber Gott hat damit nichts zu tun.
+> Vers 21: Unschuldige werden von Gerichten verurteilt.
+> Vers 22–23: Doch Gott ist die sichere Burg. Das Böse fällt auf die zurück, die es tun.
+
+## Psalm 95
+#### Kommt, lasst uns jubeln!
+
+---
+
+### Lasst uns dem HERRN singen (Vers 1–5)
+
+<sup>1</sup>Ach kommt, lasst uns dem HERRN singen!
+Lasst uns laut jubeln dem Fels unserer Rettung!
+<sup>2</sup>Lasst uns mit Dank vor sein Angesicht kommen!
+Lasst uns ihn mit Liedern preisen!
+<sup>3</sup>Denn der HERR ist ein großer Gott,
+ein großer König über allen Göttern.
+<sup>4</sup>In seiner Hand sind die Tiefen der Erde.
+Auch die Gipfel der Berge gehören ihm.
+<sup>5</sup>Das Meer gehört ihm, denn er hat es gemacht.
+Seine Hände haben das trockene Land geformt.
+
+> **Was bedeutet das?**
+> Psalm 95 ist eine Einladung zum Gottesdienst. In vielen Kirchen wird er am Anfang des Morgengebets gebetet (lateinisch „Venite“, „Kommt“).
+> Gott ist der König über alles: die Tiefen und die Höhen, das Meer und das Land.
+
+---
+
+### Lasst uns niederknien (Vers 6–7)
+
+<sup>6</sup>Ach kommt, lasst uns anbeten und uns beugen!
+Lasst uns niederknien vor dem HERRN, unserem Schöpfer!
+<sup>7</sup>Denn er ist unser Gott,
+und wir sind das Volk seiner Weide und die Schafe seiner Hand.
+Heute, ach wenn ihr doch auf seine Stimme hören würdet!
+
+> **Was bedeutet das?**
+> Zuerst kam der laute Jubel (Vers 1–2). Jetzt kommt die stille Anbetung: niederknien vor dem Schöpfer.
+> „Die Schafe seiner Hand“: Gott sorgt für uns wie ein Hirte.
+> „Heute“: Der Ruf ist dringend. Nicht irgendwann, sondern heute sollen wir auf Gott hören.
+
+---
+
+### Verhärtet euer Herz nicht (Vers 8–11)
+
+<sup>8</sup>Verhärtet euer Herz nicht wie bei Meriba,
+wie am Tag von Massa in der Wüste,
+<sup>9</sup>als eure Väter mich versuchten,
+mich prüften und doch mein Werk gesehen hatten.
+<sup>10</sup>Vierzig lange Jahre war ich bekümmert über diese Generation
+und sagte: „Sie sind ein Volk, das in seinem Herzen irrt.
+Sie haben meine Wege nicht erkannt.“
+<sup>11</sup>Darum schwor ich in meinem Zorn:
+„Sie werden nicht zu meiner Ruhe kommen.“
+
+> **Was bedeutet das?**
+> Jetzt spricht Gott selbst. Er erinnert an die Wüstenzeit: In Meriba („Streit“) und Massa („Versuchung“) murrte das Volk gegen Gott, weil es kein Wasser hatte (2. Mose 17,1–7).
+> Vierzig Jahre lang war das Volk in der Wüste ungehorsam. Darum durfte diese Generation nicht ins verheißene Land, in Gottes „Ruhe“ (4. Mose 14).
+> Der Hebräerbrief zitiert Vers 7–11 ausführlich und ruft die Leser auf: „Heute, wenn ihr seine Stimme hört, verhärtet eure Herzen nicht!“ (Hebräer 3,7–4,11).
+
+## Psalm 96
+#### Singt dem HERRN ein neues Lied
+
+---
+
+### Alle Länder, singt dem HERRN! (Vers 1–6)
+
+<sup>1</sup>Singt dem HERRN ein neues Lied!
+Singt dem HERRN, alle Länder!
+<sup>2</sup>Singt dem HERRN! Preist seinen Namen!
+Verkündet von Tag zu Tag seine Rettung!
+<sup>3</sup>Erzählt unter den Völkern von seiner Herrlichkeit,
+unter allen Völkern von seinen Wundern!
+<sup>4</sup>Denn groß ist der HERR und sehr zu loben.
+Er ist zu fürchten über allen Göttern.
+<sup>5</sup>Denn alle Götter der Völker sind Götzen,
+aber der HERR hat den Himmel gemacht.
+<sup>6</sup>Ehre und Majestät sind vor ihm.
+Stärke und Schönheit sind in seinem Heiligtum.
+
+> **Was bedeutet das?**
+> Psalm 96 ist ein Missionslied: Alle Völker sollen von Gott erfahren und ihn loben.
+> Vers 5: Die Götter der anderen Völker sind „Götzen“, wörtlich „Nichtse“. Sie können nichts. Der HERR aber hat den Himmel gemacht.
+> Der Psalm steht fast gleich auch in 1. Chronik 16,23–33. Dort wird er gesungen, als die Bundeslade nach Jerusalem gebracht wird.
+
+---
+
+### Bringt dem HERRN Ehre (Vers 7–10)
+
+<sup>7</sup>Bringt dem HERRN, ihr Familien der Völker,
+bringt dem HERRN Ehre und Stärke!
+<sup>8</sup>Bringt dem HERRN die Ehre, die seinem Namen gebührt!
+Bringt eine Opfergabe und kommt in seine Vorhöfe!
+<sup>9</sup>Betet den HERRN an in heiligem Schmuck!
+Zittert vor ihm, alle Länder!
+<sup>10</sup>Sagt unter den Völkern: „Der HERR ist König!“
+Auch die Welt steht fest. Sie kann nicht wanken.
+Er wird die Völker gerecht richten.
+
+> **Was bedeutet das?**
+> Vers 7–9 erinnern an Psalm 29,1–2. Aber dort waren es die himmlischen Wesen, hier sind es „die Familien der Völker“, also alle Menschen.
+> Vers 10: Die gute Nachricht für die Welt: „Der HERR ist König!“ Er wird gerecht richten.
+
+---
+
+### Die ganze Schöpfung jubelt (Vers 11–13)
+
+<sup>11</sup>Der Himmel soll sich freuen, und die Erde soll jubeln!
+Das Meer soll brausen und alles, was es erfüllt!
+<sup>12</sup>Das Feld soll jauchzen und alles, was darauf ist!
+Dann werden alle Bäume des Waldes jubeln
+<sup>13</sup>vor dem HERRN, denn er kommt,
+denn er kommt, um die Erde zu richten.
+Er wird die Welt in Gerechtigkeit richten
+und die Völker in seiner Wahrheit.
+
+> **Was bedeutet das?**
+> Nicht nur die Menschen, die ganze Schöpfung jubelt: Himmel, Erde, Meer, Felder und Bäume.
+> Warum? Weil Gott kommt, um die Welt gerecht zu richten. Für die Unterdrückten ist das eine gute Nachricht: Endlich kommt Gerechtigkeit!
+> „Er kommt“: Christen lesen diesen Psalm im Advent und an Weihnachten.
+
+## Psalm 97
+#### Der HERR ist König, die Erde freue sich
+
+---
+
+### Wolken und Dunkel um ihn (Vers 1–6)
+
+<sup>1</sup>Der HERR ist König! Die Erde soll sich freuen!
+Die vielen Inseln sollen fröhlich sein!
+<sup>2</sup>Wolken und Dunkel sind rings um ihn.
+Gerechtigkeit und Recht sind die Grundlage seines Thrones.
+<sup>3</sup>Ein Feuer geht vor ihm her
+und verbrennt seine Gegner ringsum.
+<sup>4</sup>Seine Blitze erleuchten die Welt.
+Die Erde sieht es und zittert.
+<sup>5</sup>Die Berge schmelzen wie Wachs vor dem HERRN,
+vor dem Herrn der ganzen Erde.
+<sup>6</sup>Die Himmel verkünden seine Gerechtigkeit.
+Alle Völker haben seine Herrlichkeit gesehen.
+
+> **Was bedeutet das?**
+> Gott erscheint wie am Berg Sinai: mit Wolken, Dunkelheit, Feuer und Blitzen (2. Mose 19,16–18).
+> „Die Inseln“: die fernen Länder am Meer, also die ganze Welt.
+> Vers 2: Gott ist geheimnisvoll („Wolken und Dunkel“). Aber eines ist sicher: Seine Herrschaft beruht auf Gerechtigkeit.
+
+---
+
+### Schämen sollen sich die Götzendiener (Vers 7–9)
+
+<sup>7</sup>Beschämt sollen alle werden, die geschnitzten Bildern dienen
+und sich ihrer Götzen rühmen.
+Betet ihn an, alle Götter!
+<sup>8</sup>Zion hörte es und freute sich.
+Die Töchter Judas jubelten wegen deiner Gerichte, HERR.
+<sup>9</sup>Denn du, HERR, bist der Höchste über der ganzen Erde.
+Du bist hoch erhaben über alle Götter.
+
+> **Was bedeutet das?**
+> Wer selbstgemachte Götterbilder anbetet, wird enttäuscht.
+> „Betet ihn an, alle Götter!“: Alle Mächte, die Menschen verehren, müssen sich vor dem wahren Gott beugen. Der Hebräerbrief bezieht eine ähnliche Aussage auf die Engel (Hebräer 1,6).
+
+---
+
+### Licht ist gesät für den Gerechten (Vers 10–12)
+
+<sup>10</sup>Ihr, die ihr den HERRN liebt, hasst das Böse!
+Er bewahrt das Leben seiner Frommen.
+Er rettet sie aus der Hand der Gottlosen.
+<sup>11</sup>Licht ist gesät für den Gerechten
+und Freude für die, die aufrichtigen Herzens sind.
+<sup>12</sup>Freut euch im HERRN, ihr Gerechten!
+Dankt seinem heiligen Namen!
+
+> **Was bedeutet das?**
+> Vers 10: Wer Gott liebt, lehnt das Böse ab. Liebe zu Gott und Abscheu vor dem Bösen gehören zusammen.
+> Vers 11 ist ein schönes Bild: Licht ist wie Saat „gesät“. Es wächst langsam, aber es wird aufgehen. Auch wenn man es jetzt noch nicht sieht.
+
+## Psalm 98
+#### Die Ströme sollen in die Hände klatschen
+
+---
+
+### Er hat Wunder getan (Vers 1–3)
+
+<sup>1</sup>Ein Psalm.
+Singt dem HERRN ein neues Lied,
+denn er hat Wunder getan!
+Seine rechte Hand und sein heiliger Arm haben ihm Rettung gebracht.
+<sup>2</sup>Der HERR hat seine Rettung bekannt gemacht.
+Vor den Augen der Völker hat er seine Gerechtigkeit offenbart.
+<sup>3</sup>Er hat an seine Güte und seine Treue
+für das Haus Israel gedacht.
+Alle Enden der Erde haben die Rettung unseres Gottes gesehen.
+
+> **Was bedeutet das?**
+> Psalm 98 ähnelt Psalm 96. Er feiert Gottes Rettung, die die ganze Welt gesehen hat.
+> Gott hat seinem Volk Israel die Treue gehalten. Und das sehen alle Völker.
+> Maria greift in ihrem Lobgesang (dem „Magnificat“) Gedanken aus diesem Psalm auf (Lukas 1,54).
+
+---
+
+### Jubelt dem König zu (Vers 4–6)
+
+<sup>4</sup>Jubelt dem HERRN zu, alle Länder!
+Brecht in Jubel aus und singt, ja, singt Lob!
+<sup>5</sup>Singt dem HERRN Lob mit der Harfe,
+mit der Harfe und mit dem Klang des Gesangs!
+<sup>6</sup>Mit Trompeten und dem Klang des Widderhorns
+jubelt vor dem König, dem HERRN!
+
+> **Was bedeutet das?**
+> Ein großes, lautes Fest: Gesang, Harfen, Trompeten und Widderhörner (Schofar).
+> Gott wird gefeiert wie ein König bei seiner Krönung.
+
+---
+
+### Die ganze Schöpfung jubelt (Vers 7–9)
+
+<sup>7</sup>Das Meer soll brausen und alles, was es erfüllt,
+die Welt und die, die darauf wohnen.
+<sup>8</sup>Die Ströme sollen in die Hände klatschen.
+Die Berge sollen miteinander jubeln
+<sup>9</sup>vor dem HERRN, denn er kommt, um die Erde zu richten.
+Er wird die Welt in Gerechtigkeit richten
+und die Völker in Aufrichtigkeit.
+
+> **Was bedeutet das?**
+> Ein fröhliches Bild: Die Flüsse klatschen in die Hände, die Berge singen. Die ganze Natur feiert Gott.
+> Das bekannte Weihnachtslied „Joy to the World“ (Freue dich, Welt) beruht auf diesem Psalm.
+> Wie Psalm 96 endet auch dieser Psalm mit der Hoffnung: Gott kommt und bringt Gerechtigkeit für alle.
