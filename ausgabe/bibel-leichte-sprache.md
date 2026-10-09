@@ -80791,3 +80791,344 @@ und Schläge reinigen das Innerste.
 > Vers 28: Ein guter Herrscher regiert nicht mit Gewalt, sondern mit Liebe und Treue.
 > Vers 29: Jung und Alt haben jeweils ihre eigene Schönheit: die Jungen ihre Kraft, die Alten ihre Erfahrung.
 > Vers 30: Damals glaubte man, körperliche Strafe könne einen Menschen bessern. Heute wissen wir: Gewalt bessert nicht, sie verletzt. Gemeint ist im Kern: Schmerzhafte Erfahrungen können einen Menschen zum Nachdenken bringen.
+
+## Sprüche – Kapitel 21
+#### Das Herz des Königs in Gottes Hand
+
+---
+
+### Recht tun ist besser als Opfer (Vers 1–8)
+
+<sup>1</sup>Das Herz des Königs ist in der Hand des HERRN wie Wasserbäche.
+Er lenkt es, wohin er will.
+<sup>2</sup>Jeder Weg eines Menschen ist richtig in seinen eigenen Augen,
+aber der HERR prüft die Herzen.
+<sup>3</sup>Gerechtigkeit und Recht zu tun
+gefällt dem HERRN mehr als Opfer.
+<sup>4</sup>Hochmütige Augen und ein stolzes Herz,
+die Lampe der Gottlosen, sind Sünde.
+<sup>5</sup>Die Pläne des Fleißigen führen sicher zum Gewinn,
+aber jeder, der hastig ist, rennt sicher in die Armut.
+<sup>6</sup>Schätze mit lügnerischer Zunge zu erwerben
+ist ein flüchtiger Hauch für die, die den Tod suchen.
+<sup>7</sup>Die Gewalt der Gottlosen reißt sie selbst fort,
+weil sie sich weigern, das Rechte zu tun.
+<sup>8</sup>Der Weg des Schuldigen ist krumm,
+aber das Verhalten des Unschuldigen ist aufrichtig.
+
+> **Was bedeutet das?**
+> Vers 1: Ein Bauer leitet Wasser durch kleine Kanäle auf sein Feld, wohin er will. So lenkt Gott sogar das Herz der Mächtigen. Auch Könige und Präsidenten sind nicht außerhalb von Gottes Macht.
+> Vers 3: Gott will lieber, dass wir gerecht handeln, als dass wir religiöse Rituale vollziehen. Das sagen auch die Propheten (Hosea 6,6; Micha 6,8). Jesus zitiert diesen Gedanken (Matthäus 9,13).
+> Vers 5: Wer gut plant und fleißig arbeitet, kommt weiter als jemand, der alles schnell-schnell machen will.
+
+---
+
+### Lieber auf dem Dach wohnen (Vers 9–19)
+
+<sup>9</sup>Es ist besser, in einer Ecke auf dem Dach zu wohnen,
+als mit einer zänkischen Frau ein Haus zu teilen.
+<sup>10</sup>Die Seele des Gottlosen begehrt das Böse.
+Sein Nächster findet kein Erbarmen in seinen Augen.
+<sup>11</sup>Wenn der Spötter bestraft wird, wird der Einfältige weise.
+Wenn der Weise belehrt wird, nimmt er Erkenntnis an.
+<sup>12</sup>Der Gerechte betrachtet das Haus des Gottlosen
+und stürzt die Gottlosen ins Verderben.
+<sup>13</sup>Wer sein Ohr vor dem Schreien des Armen verschließt,
+der wird auch selbst schreien und nicht erhört werden.
+<sup>14</sup>Ein heimliches Geschenk besänftigt den Zorn
+und ein Bestechungsgeschenk im Gewand den heftigen Grimm.
+<sup>15</sup>Für den Gerechten ist es eine Freude, Recht zu tun,
+aber für die Übeltäter ist es ein Schrecken.
+<sup>16</sup>Ein Mensch, der vom Weg der Einsicht abirrt,
+wird in der Versammlung der Toten ruhen.
+<sup>17</sup>Wer das Vergnügen liebt, wird arm sein.
+Wer Wein und Öl liebt, wird nicht reich.
+<sup>18</sup>Der Gottlose ist ein Lösegeld für den Gerechten,
+der Treulose für die Aufrichtigen.
+<sup>19</sup>Es ist besser, in einem Wüstenland zu wohnen,
+als mit einer zänkischen und reizbaren Frau.
+
+> **Was bedeutet das?**
+> Vers 9 und 19: Mit Humor gesagt: Lieber allein in einer kleinen Ecke auf dem Flachdach wohnen oder sogar in der Wüste, als in einem Haus voller Streit. Die Sprüche sind für Männer geschrieben. Für Frauen mit einem streitsüchtigen Mann gilt das Gleiche.
+> Wer in der eigenen Beziehung Gewalt erlebt, findet rund um die Uhr Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016. Männer finden Hilfe beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00.
+> Vers 12: „Der Gerechte“ kann hier auch Gott selbst meinen, den „Gerechten“ schlechthin. Die englische Vorlage schreibt es groß („the Righteous One“) und versteht es so.
+> Vers 13: Wer die Not der Armen ignoriert, wird selbst einmal ohne Hilfe dastehen.
+> Vers 14: Eine Beobachtung, wie Bestechung funktioniert. Es ist keine Empfehlung.
+> Vers 18: Ein schwieriger Vers: Das Unglück, das eigentlich die Gerechten treffen würde, trifft am Ende die Gottlosen.
+
+---
+
+### Der Sieg kommt vom HERRN (Vers 20–31)
+
+<sup>20</sup>Kostbarer Schatz und Öl sind in der Wohnung des Weisen,
+aber ein törichter Mensch verschlingt es.
+<sup>21</sup>Wer der Gerechtigkeit und Güte nachjagt,
+findet Leben, Gerechtigkeit und Ehre.
+<sup>22</sup>Ein Weiser ersteigt die Stadt der Starken
+und reißt die Festung nieder, auf die sie vertraut.
+<sup>23</sup>Wer seinen Mund und seine Zunge behütet,
+bewahrt sein Leben vor Nöten.
+<sup>24</sup>Der Stolze und Hochmütige, „Spötter“ ist sein Name,
+er handelt im Übermut des Stolzes.
+<sup>25</sup>Das Verlangen des Faulen bringt ihn um,
+denn seine Hände weigern sich zu arbeiten.
+<sup>26</sup>Manche begehren gierig den ganzen Tag,
+aber die Gerechten geben und halten nicht zurück.
+<sup>27</sup>Das Opfer der Gottlosen ist ein Gräuel,
+wie viel mehr, wenn er es mit böser Absicht bringt!
+<sup>28</sup>Ein falscher Zeuge wird umkommen.
+Ein Mensch, der zuhört, redet für immer.
+<sup>29</sup>Ein gottloser Mensch macht sein Gesicht hart,
+aber der Aufrichtige festigt seine Wege.
+<sup>30</sup>Es gibt keine Weisheit, keine Einsicht und keinen Rat
+gegen den HERRN.
+<sup>31</sup>Das Pferd wird für den Tag des Kampfes gerüstet,
+aber der Sieg kommt vom HERRN.
+
+> **Was bedeutet das?**
+> Vers 20: Der Weise spart und sorgt vor. Der Tor verbraucht alles sofort.
+> Vers 22: Weisheit ist stärker als Mauern und Waffen.
+> Vers 26: Der Gierige will immer mehr haben. Der Gerechte gibt gern.
+> Vers 28: Wer gut zuhört, dessen Wort hat Bestand.
+> Vers 30–31: Menschen können sich gut vorbereiten und sollen das auch tun. Aber das Ergebnis liegt in Gottes Hand. Kein menschlicher Plan kann gegen Gott bestehen.
+
+## Sprüche – Kapitel 22
+#### Ein guter Name ist besser als Reichtum
+
+---
+
+### Reich und Arm hat Gott gemacht (Vers 1–9)
+
+<sup>1</sup>Ein guter Name ist begehrenswerter als großer Reichtum,
+und Gunst ist besser als Silber und Gold.
+<sup>2</sup>Der Reiche und der Arme haben dies gemeinsam:
+Der HERR hat sie alle gemacht.
+<sup>3</sup>Ein kluger Mensch sieht die Gefahr und versteckt sich,
+aber die Einfältigen gehen weiter und müssen dafür büßen.
+<sup>4</sup>Der Lohn der Demut und der Ehrfurcht vor dem HERRN
+ist Reichtum, Ehre und Leben.
+<sup>5</sup>Dornen und Schlingen sind auf dem Weg der Gottlosen.
+Wer sein Leben behütet, hält sich von ihnen fern.
+<sup>6</sup>Erziehe ein Kind für den Weg, den es gehen soll,
+dann wird es auch im Alter nicht davon abweichen.
+<sup>7</sup>Der Reiche herrscht über die Armen.
+Wer etwas leiht, wird Diener dessen, der ihm leiht.
+<sup>8</sup>Wer Unrecht sät, erntet Unheil,
+und die Rute seines Zorns wird zerbrochen.
+<sup>9</sup>Wer ein großzügiges Auge hat, wird gesegnet,
+denn er teilt sein Brot mit dem Armen.
+
+> **Was bedeutet das?**
+> Vers 1: Ein guter Ruf und das Vertrauen anderer sind mehr wert als Geld.
+> Vers 2: Ein wichtiger Satz: Vor Gott sind Reiche und Arme gleich. Er hat beide geschaffen. Keiner ist mehr wert als der andere.
+> Vers 3: Ein kluger Mensch erkennt Gefahren früh und weicht aus.
+> Vers 6 ist ein bekannter Erziehungsspruch: Was Kinder früh lernen, prägt sie ein Leben lang. Darum ist gute Erziehung so wichtig. Aber es ist keine Garantie: Auch gut erzogene Kinder können eigene Wege gehen. Eltern sind nicht an allem schuld.
+> Vers 7: Schulden machen abhängig. Wer sich Geld leiht, ist nicht mehr frei. Ein guter Rat: Vorsicht mit Krediten.
+> Vers 9: „Ein großzügiges Auge“: Wer die Not anderer sieht und teilt, wird gesegnet.
+
+---
+
+### Der Faule und der Löwe (Vers 10–16)
+
+<sup>10</sup>Vertreibe den Spötter, dann geht der Streit hinaus.
+Ja, Zank und Beleidigungen hören auf.
+<sup>11</sup>Wer ein reines Herz liebt und freundlich redet,
+ist ein Freund des Königs.
+<sup>12</sup>Die Augen des HERRN wachen über die Erkenntnis,
+aber die Worte der Treulosen vereitelt er.
+<sup>13</sup>Der Faule sagt: „Draußen ist ein Löwe!
+Ich werde auf den Straßen getötet werden!“
+<sup>14</sup>Der Mund einer Ehebrecherin ist eine tiefe Grube.
+Wer unter dem Zorn des HERRN steht, fällt hinein.
+<sup>15</sup>Torheit steckt im Herzen eines Kindes.
+Die Rute der Erziehung vertreibt sie weit von ihm.
+<sup>16</sup>Wer den Armen unterdrückt, um sich zu bereichern,
+und wer dem Reichen gibt, beide kommen in Armut.
+
+> **Was bedeutet das?**
+> Vers 13: Ein lustiger Spruch: Der Faule erfindet die verrücktesten Ausreden, um nicht zur Arbeit zu gehen: „Draußen ist ein Löwe!“
+> Vers 15: Kinder müssen vieles erst lernen. Damals glaubte man, dass dazu auch Schläge gehören. Heute wissen wir: Schläge schaden Kindern und sind in Deutschland verboten. Kinder brauchen Liebe, klare Regeln und Geduld. Wer Hilfe bei der Erziehung braucht: Elterntelefon 0800 111 0 550.
+> Vers 16: Wer Arme ausbeutet oder Reichen schmeichelt, um selbst reich zu werden, verliert am Ende.
+
+---
+
+### Die Worte der Weisen beginnen (Vers 17–21)
+
+<sup>17</sup>Neige dein Ohr und höre die Worte der Weisen!
+Richte dein Herz auf meine Lehre!
+<sup>18</sup>Denn es ist schön, wenn du sie in dir bewahrst,
+wenn sie alle bereit sind auf deinen Lippen.
+<sup>19</sup>Ich lehre dich heute, ja dich,
+damit dein Vertrauen auf dem HERRN ruht.
+<sup>20</sup>Habe ich dir nicht dreißig vortreffliche Sprüche geschrieben,
+voll Rat und Erkenntnis,
+<sup>21</sup>um dich Wahrheit zu lehren, zuverlässige Worte,
+damit du denen, die dich gesandt haben, gute Antworten gibst?
+
+> **Was bedeutet das?**
+> Hier beginnt ein neuer Teil des Buches: „Die Worte der Weisen“ (22,17 bis 24,22).
+> Vers 20: „Dreißig Sprüche“: Diese Sammlung hat dreißig Abschnitte. Sie ähnelt stark einem alten ägyptischen Weisheitsbuch, der „Lehre des Amenemope“, das auch dreißig Kapitel hat. Israel hat also Weisheit auch von Nachbarvölkern übernommen und mit dem Glauben an den HERRN verbunden.
+> Vers 19: Das Ziel aller Weisheit: dass du auf Gott vertraust.
+
+---
+
+### Beute den Armen nicht aus (Vers 22–29)
+
+<sup>22</sup>Beute den Armen nicht aus, weil er arm ist,
+und zertritt den Bedürftigen nicht vor Gericht!
+<sup>23</sup>Denn der HERR wird ihre Sache führen
+und denen das Leben rauben, die sie berauben.
+<sup>24</sup>Freunde dich nicht mit einem jähzornigen Menschen an!
+Geh nicht mit einem um, der Zorn in sich trägt,
+<sup>25</sup>damit du nicht seine Wege lernst
+und dein Leben in eine Falle bringst.
+<sup>26</sup>Sei nicht einer von denen, die mit Handschlag einschlagen,
+von denen, die für Schulden bürgen!
+<sup>27</sup>Wenn du nichts hast, um zu bezahlen,
+warum soll man dir dein Bett unter dir wegnehmen?
+<sup>28</sup>Versetze nicht die alte Grenze,
+die deine Väter gesetzt haben!
+<sup>29</sup>Siehst du einen Menschen, der geschickt ist in seiner Arbeit?
+Er wird Königen dienen.
+Er wird nicht unbekannten Leuten dienen.
+
+> **Was bedeutet das?**
+> Vers 22–23: Wer Arme ausnutzt, weil sie sich nicht wehren können, bekommt es mit Gott zu tun. Gott selbst ist der Anwalt der Armen.
+> Vers 24–25: Wut ist ansteckend. Wer viel mit jähzornigen Menschen zusammen ist, wird leicht selbst so.
+> Vers 27: Wer bürgt und nicht zahlen kann, verliert sogar sein Bett.
+> Vers 28: Grenzsteine markierten, welches Land wem gehörte. Wer sie heimlich versetzte, stahl Land. Das traf meist die Schwachen.
+> Vers 29: Wer seine Arbeit gut macht, wird geschätzt und kommt weit.
+
+## Sprüche – Kapitel 23
+#### Gib mir dein Herz
+
+---
+
+### Am Tisch eines Mächtigen (Vers 1–8)
+
+<sup>1</sup>Wenn du dich setzt, um mit einem Herrscher zu essen,
+dann achte genau auf das, was vor dir ist,
+<sup>2</sup>und setz dir ein Messer an die Kehle,
+wenn du ein gieriger Mensch bist!
+<sup>3</sup>Begehre seine Leckerbissen nicht,
+denn sie sind trügerische Speise.
+<sup>4</sup>Mühe dich nicht ab, um reich zu werden.
+Sei so klug, dich zurückzuhalten!
+<sup>5</sup>Warum richtest du deine Augen auf etwas, das nicht bleibt?
+Denn gewiss wachsen ihm Flügel wie einem Adler,
+und es fliegt zum Himmel davon.
+<sup>6</sup>Iss nicht das Brot dessen, der ein geiziges Auge hat,
+und begehre seine Leckerbissen nicht,
+<sup>7</sup>denn wie er über die Kosten nachdenkt, so ist er.
+„Iss und trink!“, sagt er zu dir,
+aber sein Herz ist nicht bei dir.
+<sup>8</sup>Den Bissen, den du gegessen hast, wirst du ausspucken,
+und deine freundlichen Worte hast du verschwendet.
+
+> **Was bedeutet das?**
+> Vers 1–3: Wenn ein Mächtiger dich einlädt, sei vorsichtig. Vielleicht will er dich mit gutem Essen bestechen oder aushorchen. „Ein Messer an die Kehle setzen“ ist ein drastisches Bild für: Beherrsche dich!
+> Vers 4–5: Ein kluger Rat: Reichtum ist vergänglich. Er kann fortfliegen wie ein Adler. Darum soll man nicht sein ganzes Leben dafür einsetzen.
+> Vers 6–8: Ein Geizhals lädt dich ein und sagt freundlich „Iss nur!“. Aber in Gedanken zählt er jeden Bissen. Bei so jemandem schmeckt kein Essen.
+
+---
+
+### Der starke Anwalt der Waisen (Vers 9–14)
+
+<sup>9</sup>Rede nicht vor den Ohren eines Toren,
+denn er wird die Weisheit deiner Worte verachten.
+<sup>10</sup>Versetze nicht die alte Grenze!
+Dringe nicht in die Felder der Waisen ein,
+<sup>11</sup>denn ihr Anwalt ist stark.
+Er wird ihre Sache gegen dich führen.
+<sup>12</sup>Richte dein Herz auf die Erziehung
+und deine Ohren auf die Worte der Erkenntnis!
+<sup>13</sup>Enthalte einem Kind die Zurechtweisung nicht vor.
+Wenn du es mit der Rute bestrafst, wird es nicht sterben.
+<sup>14</sup>Bestrafe es mit der Rute
+und rette sein Leben vor dem Totenreich.
+
+> **Was bedeutet das?**
+> Vers 10–11: Waisen hatten niemanden, der sie verteidigte. Aber Gott selbst ist ihr starker Anwalt. Wer ihnen etwas wegnimmt, bekommt es mit ihm zu tun.
+> Vers 13–14: Diese Verse spiegeln die Erziehung von damals, als Schläge üblich waren. Ihre Botschaft ist: Eltern sollen Kinder nicht sich selbst überlassen, sondern sie liebevoll und klar erziehen, damit sie nicht auf einen Weg geraten, der ins Verderben führt.
+> Heute wissen wir, dass Schläge Kindern seelisch und körperlich schaden. In Deutschland haben Kinder seit dem Jahr 2000 ein Recht auf gewaltfreie Erziehung. Dieser Vers ist keine Erlaubnis, Kinder zu schlagen.
+> Hilfe für Kinder und Jugendliche: Nummer gegen Kummer 116 111. Für Eltern: Elterntelefon 0800 111 0 550.
+
+---
+
+### Mein Sohn, wenn dein Herz weise ist (Vers 15–25)
+
+<sup>15</sup>Mein Sohn, wenn dein Herz weise ist,
+dann wird sich auch mein Herz freuen.
+<sup>16</sup>Ja, mein Innerstes wird jubeln,
+wenn deine Lippen reden, was richtig ist.
+<sup>17</sup>Dein Herz soll die Sünder nicht beneiden,
+sondern fürchte den HERRN den ganzen Tag!
+<sup>18</sup>Denn gewiss gibt es eine Zukunft,
+und deine Hoffnung wird nicht zerstört werden.
+<sup>19</sup>Hör zu, mein Sohn, und sei weise,
+und lenke dein Herz auf den rechten Weg!
+<sup>20</sup>Sei nicht unter denen, die zu viel Wein trinken,
+oder unter denen, die sich mit Fleisch vollstopfen!
+<sup>21</sup>Denn der Säufer und der Schlemmer werden arm,
+und Schläfrigkeit kleidet sie in Lumpen.
+<sup>22</sup>Hör auf deinen Vater, der dir das Leben gegeben hat,
+und verachte deine Mutter nicht, wenn sie alt ist!
+<sup>23</sup>Kaufe die Wahrheit und verkaufe sie nicht!
+Erwirb Weisheit, Erziehung und Einsicht!
+<sup>24</sup>Der Vater des Gerechten hat große Freude.
+Wer ein weises Kind gezeugt hat, freut sich an ihm.
+<sup>25</sup>Dein Vater und deine Mutter sollen sich freuen!
+Die dich geboren hat, soll jubeln!
+
+> **Was bedeutet das?**
+> Vers 17–18: Manchmal scheint es Menschen, die Böses tun, gut zu gehen. Beneide sie nicht! Wer Gott vertraut, hat eine Zukunft und eine Hoffnung.
+> Vers 20–21: Zu viel Alkohol und zu viel Essen machen arm und träge.
+> Vers 22: Ein schöner Vers: Verachte deine Mutter nicht, wenn sie alt ist. Alte Eltern verdienen Respekt und Fürsorge.
+> Vers 23: „Kaufe die Wahrheit und verkaufe sie nicht“: Wahrheit ist so wertvoll, dass man alles dafür geben soll. Und man soll sie für nichts in der Welt hergeben.
+
+---
+
+### Gib mir dein Herz (Vers 26–28)
+
+<sup>26</sup>Mein Sohn, gib mir dein Herz,
+und deine Augen sollen auf meine Wege achten!
+<sup>27</sup>Denn eine Prostituierte ist eine tiefe Grube,
+und eine untreue Ehefrau ist ein enger Brunnen.
+<sup>28</sup>Ja, sie lauert wie ein Räuber
+und vermehrt die Treulosen unter den Männern.
+
+> **Was bedeutet das?**
+> Vers 26: „Gib mir dein Herz“: Der Vater wünscht sich nicht nur Gehorsam, sondern Vertrauen und Liebe. Viele hören in diesem Satz auch die Stimme Gottes.
+> Vers 27–28: Wieder die Warnung vor Untreue. Wer in diese „Grube“ fällt, kommt schwer wieder heraus.
+
+---
+
+### Wer hat Weh? (Vers 29–35)
+
+<sup>29</sup>Wer hat Weh? Wer hat Kummer?
+Wer hat Streit? Wer hat Klagen?
+Wer hat Wunden ohne Grund?
+Wer hat blutunterlaufene Augen?
+<sup>30</sup>Die lange beim Wein sitzen,
+die gehen, um gemischten Wein zu probieren.
+<sup>31</sup>Schau nicht auf den Wein, wenn er rot ist,
+wenn er im Becher funkelt,
+wenn er glatt hinuntergeht.
+<sup>32</sup>Am Ende beißt er wie eine Schlange
+und vergiftet wie eine Giftnatter.
+<sup>33</sup>Deine Augen werden seltsame Dinge sehen,
+und dein Verstand wird sich verwirrende Dinge ausdenken.
+<sup>34</sup>Ja, du wirst sein wie einer, der mitten im Meer liegt,
+oder wie einer, der oben auf dem Mast liegt.
+<sup>35</sup>„Sie haben mich geschlagen, und es hat mir nicht wehgetan!
+Sie haben mich verprügelt, und ich spüre es nicht!
+Wann werde ich aufwachen?
+Ich kann es noch einmal tun. Ich will noch mehr suchen.“
+
+> **Was bedeutet das?**
+> Das ist eine erstaunlich genaue Beschreibung von Alkoholsucht, fast 3000 Jahre alt.
+> Vers 29–30: Wer zu viel trinkt, hat Streit, Verletzungen, die er sich nicht erklären kann, und rote Augen.
+> Vers 31–32: Am Anfang wirkt der Wein schön und angenehm. Aber am Ende beißt er wie eine Schlange.
+> Vers 33–34: Betrunkene sehen Dinge, die nicht da sind. Ihnen ist schwindlig wie auf einem schaukelnden Schiff.
+> Vers 35: Das Traurigste: Der Betrunkene merkt nicht einmal, dass er verletzt wurde. Und sobald er aufwacht, will er wieder trinken. Das ist Sucht.
+> Wer selbst oder in der Familie mit Alkohol kämpft: Sucht ist eine Krankheit, und es gibt Hilfe. Die Sucht- und Drogen-Hotline ist erreichbar unter 01806 313 031. Auch die Anonymen Alkoholiker und örtliche Suchtberatungsstellen helfen.
