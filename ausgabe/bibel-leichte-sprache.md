@@ -71881,3 +71881,347 @@ damit ich meine Gelübde täglich erfülle.
 > Vers 6–7: Ein Gebet für den König. Gott soll ihm ein langes Leben schenken.
 > „Für Generationen“ und „für immer“: Das geht über ein einzelnes Menschenleben hinaus. Juden und Christen haben das auf den Messias bezogen, den ewigen König aus Davids Familie.
 > „Güte und Treue“ sind wie zwei Leibwächter, die den König beschützen.
+
+## Psalm 62
+#### Meine Seele ist still zu Gott
+
+---
+
+### Gott allein (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Für Jedutun. Ein Psalm von David.
+Meine Seele ruht still in Gott allein.
+Von ihm kommt meine Rettung.
+<sup>2</sup>Er allein ist mein Fels, meine Rettung und meine Burg.
+Ich werde nicht sehr wanken.
+<sup>3</sup>Wie lange stürmt ihr auf einen Menschen ein?
+Wollt ihr ihn alle niederwerfen
+wie eine sich neigende Wand, wie einen wackelnden Zaun?
+<sup>4</sup>Sie planen ganz, ihn von seiner Höhe zu stoßen.
+Sie haben Gefallen an Lügen.
+Mit ihrem Mund segnen sie, aber innerlich fluchen sie.
+Sela.
+
+> **Was bedeutet das?**
+> Psalm 62 ist ein Psalm des tiefen Vertrauens. Das Wort „allein“ (oder „nur“) kommt im Hebräischen sechsmal vor. Nur bei Gott findet der Beter Ruhe.
+> „Meine Seele ruht still“: Wörtlich „ist Schweigen“. Die innere Unruhe hört auf, wenn man sich ganz auf Gott verlässt.
+> Vers 3: Die Feinde wollen den Beter umstoßen wie eine Mauer, die schon schief steht. Aber er steht fest, weil Gott sein Fels ist.
+> Vers 4: Heuchler: freundliche Worte, böse Gedanken.
+
+---
+
+### Schüttet euer Herz vor ihm aus (Vers 5–8)
+
+<sup>5</sup>Meine Seele, warte still auf Gott allein,
+denn von ihm kommt meine Hoffnung.
+<sup>6</sup>Er allein ist mein Fels und meine Rettung, meine Burg.
+Ich werde nicht wanken.
+<sup>7</sup>Bei Gott ist meine Rettung und meine Ehre.
+Der Fels meiner Stärke und meine Zuflucht ist in Gott.
+<sup>8</sup>Vertraut auf ihn zu jeder Zeit, ihr Leute!
+Schüttet euer Herz vor ihm aus!
+Gott ist eine Zuflucht für uns.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 5–6 wiederholen Vers 1–2, aber mit einem kleinen Unterschied: In Vers 2 hieß es „nicht sehr wanken“, jetzt „nicht wanken“. Das Vertrauen ist gewachsen.
+> Vers 8 ist eine schöne Einladung an alle: „Schüttet euer Herz vor ihm aus!“ Man darf Gott alles sagen, was einen bewegt, so wie man einen Krug ganz ausleert.
+
+---
+
+### Macht gehört Gott (Vers 9–12)
+
+<sup>9</sup>Gewiss, einfache Menschen sind nur ein Hauch,
+und vornehme Menschen sind eine Täuschung.
+Auf der Waage gehen sie nach oben.
+Sie sind alle zusammen leichter als ein Hauch.
+<sup>10</sup>Vertraut nicht auf Unterdrückung!
+Setzt keine leere Hoffnung auf Raub!
+Wenn der Reichtum wächst, hängt euer Herz nicht daran!
+<sup>11</sup>Einmal hat Gott geredet,
+zweimal habe ich es gehört:
+dass die Macht bei Gott ist.
+<sup>12</sup>Auch dir, Herr, gehört die Güte,
+denn du vergiltst jedem nach seinem Werk.
+
+> **Was bedeutet das?**
+> Vers 9: Alle Menschen, ob arm oder reich, sind vor Gott nur ein „Hauch“. Auf einer Waage wären sie leichter als Luft.
+> Vers 10: Eine Warnung: Vertraut nicht auf Gewalt und Reichtum. „Wenn der Reichtum wächst, hängt euer Herz nicht daran.“ Das gilt bis heute.
+> Vers 11–12: Zwei Dinge gehören zu Gott: Macht und Güte. Gott ist stark, aber auch liebevoll. Beides zusammen macht ihn vertrauenswürdig.
+> Paulus zitiert Vers 12 in Römer 2,6.
+
+## Psalm 63
+#### Meine Seele dürstet nach dir
+
+---
+
+### In einem trockenen Land (Vers 1–4)
+
+<sup>1</sup>Ein Psalm von David, als er in der Wüste Juda war.
+Gott, du bist mein Gott. Ich suche dich eifrig.
+Meine Seele dürstet nach dir.
+Mein Leib sehnt sich nach dir
+in einem trockenen und erschöpften Land, wo kein Wasser ist.
+<sup>2</sup>So habe ich dich im Heiligtum geschaut,
+um deine Macht und deine Herrlichkeit zu sehen.
+<sup>3</sup>Denn deine Güte ist besser als das Leben.
+Meine Lippen sollen dich loben.
+<sup>4</sup>So will ich dich preisen, solange ich lebe.
+In deinem Namen will ich meine Hände erheben.
+
+> **Was bedeutet das?**
+> David ist in der Wüste Juda, vielleicht auf der Flucht vor Saul oder vor Abschalom. Es ist heiß und trocken.
+> Wie ein Mensch in der Wüste nach Wasser dürstet, so sehnt sich David nach Gott, mit Leib und Seele.
+> Vers 3 ist ein tiefer Satz: „Deine Güte ist besser als das Leben.“ Gottes Liebe ist das Wertvollste, was es gibt, wertvoller als das Leben selbst.
+> In der alten Kirche wurde Psalm 63 jeden Morgen gebetet.
+
+---
+
+### Im Schatten deiner Flügel (Vers 5–8)
+
+<sup>5</sup>Meine Seele wird satt wie von fettem Essen.
+Mein Mund wird dich mit jubelnden Lippen loben,
+<sup>6</sup>wenn ich auf meinem Lager an dich denke
+und in den Nachtwachen über dich nachsinne.
+<sup>7</sup>Denn du bist meine Hilfe gewesen.
+Im Schatten deiner Flügel will ich jubeln.
+<sup>8</sup>Meine Seele hängt an dir.
+Deine rechte Hand hält mich fest.
+
+> **Was bedeutet das?**
+> Mitten in der Wüste wird David satt, nicht vom Essen, sondern von Gott.
+> Vers 6: Auch nachts, wenn er nicht schlafen kann, denkt er an Gott. „Nachtwachen“: Die Nacht war in drei Wachen eingeteilt.
+> Vers 8: Ein schönes Bild für die Beziehung zu Gott: „Meine Seele hängt an dir, deine rechte Hand hält mich.“ Der Mensch hält sich an Gott fest, und Gott hält ihn fest.
+
+---
+
+### Der König freut sich (Vers 9–11)
+
+<sup>9</sup>Aber die, die nach meinem Leben trachten, um es zu vernichten,
+werden in die Tiefen der Erde fahren.
+<sup>10</sup>Sie werden der Gewalt des Schwertes übergeben.
+Sie werden ein Fraß für die Schakale.
+<sup>11</sup>Der König aber wird sich in Gott freuen.
+Jeder, der bei ihm schwört, wird ihn loben,
+denn der Mund derer, die Lügen reden, wird verstummen.
+
+> **Was bedeutet das?**
+> Die Feinde, die David töten wollen, werden selbst umkommen. Das war damals ein schreckliches Schicksal: nicht begraben zu werden.
+> Der Beter nimmt nicht selbst Rache, er vertraut darauf, dass Gott für Gerechtigkeit sorgt.
+> Vers 11: Am Ende freut sich der König in Gott, und die Lügner müssen schweigen.
+
+## Psalm 64
+#### Gegen die Pfeile der bösen Worte
+
+---
+
+### Ihre Zunge ist wie ein Schwert (Vers 1–6)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David.
+Hör meine Stimme, Gott, in meiner Klage!
+Bewahre mein Leben vor der Angst vor dem Feind!
+<sup>2</sup>Verbirg mich vor der Verschwörung der Gottlosen,
+vor der lärmenden Rotte der Übeltäter,
+<sup>3</sup>die ihre Zunge schärfen wie ein Schwert
+und ihre Pfeile anlegen, tödliche Worte,
+<sup>4</sup>um aus dem Hinterhalt auf Unschuldige zu schießen.
+Plötzlich und ohne Furcht schießen sie auf ihn.
+<sup>5</sup>Sie bestärken sich gegenseitig in bösen Plänen.
+Sie reden davon, heimlich Fallen zu stellen.
+Sie sagen: „Wer wird sie sehen?“
+<sup>6</sup>Sie planen Unrecht und sagen: „Wir haben einen perfekten Plan!“
+Gewiss, der Verstand und das Herz des Menschen sind listig.
+
+> **Was bedeutet das?**
+> Hier geht es um Angriffe mit Worten: Verleumdung, Lügen, Gerüchte, heimliche Intrigen. Worte können töten wie Pfeile.
+> Das kennen wir heute auch, zum Beispiel durch Mobbing oder Hetze im Internet.
+> Die Täter fühlen sich sicher: „Wer sieht uns schon?“ Sie halten ihren Plan für perfekt.
+
+---
+
+### Gott schießt zurück (Vers 7–10)
+
+<sup>7</sup>Aber Gott wird auf sie schießen.
+Plötzlich werden sie von einem Pfeil getroffen.
+<sup>8</sup>Ihre eigene Zunge wird sie zu Fall bringen.
+Alle, die sie sehen, werden den Kopf schütteln.
+<sup>9</sup>Alle Menschen werden sich fürchten.
+Sie werden Gottes Werk verkünden
+und klug bedenken, was er getan hat.
+<sup>10</sup>Der Gerechte wird sich im HERRN freuen
+und bei ihm Zuflucht suchen.
+Alle, die aufrichtigen Herzens sind, werden ihn loben!
+
+> **Was bedeutet das?**
+> Die Wende: Die Täter schossen „plötzlich“ (Vers 4), aber jetzt werden sie selbst „plötzlich“ getroffen (Vers 7). Ihre eigenen Worte bringen sie zu Fall.
+> Gott sorgt dafür, dass das Böse auf den zurückfällt, der es tut. Der Beter muss nicht selbst zurückschlagen.
+> Am Ende erkennen alle Menschen, dass Gott gerecht ist.
+
+## Psalm 65
+#### Du krönst das Jahr mit deinem Segen
+
+---
+
+### Gott hört Gebet und vergibt (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Psalm von David. Ein Lied.
+Das Lob wartet auf dich, Gott, in Zion.
+Gelübde werden dir erfüllt.
+<sup>2</sup>Du, der Gebet erhört,
+zu dir werden alle Menschen kommen.
+<sup>3</sup>Sünden haben mich überwältigt,
+aber du hast unsere Übertretungen gesühnt.
+<sup>4</sup>Glücklich ist der, den du erwählst und nahe kommen lässt,
+damit er in deinen Vorhöfen wohnt.
+Wir werden satt werden von den Gütern deines Hauses,
+deines heiligen Tempels.
+
+> **Was bedeutet das?**
+> Psalm 65 ist ein Danklied, vielleicht zum Erntefest.
+> „Das Lob wartet auf dich“: Im Tempel steht das Lob schon bereit für Gott. Andere übersetzen: „Dir gebührt Stille und Lob“.
+> „Du, der Gebet erhört“: Das ist ein schöner Name für Gott.
+> Vers 3: Gott vergibt Sünden, die einen überwältigen. Das ist die Grundlage für alles andere.
+
+---
+
+### Die Hoffnung aller Enden der Erde (Vers 5–8)
+
+<sup>5</sup>Durch furchterregende Taten in Gerechtigkeit antwortest du uns,
+Gott unserer Rettung,
+du Hoffnung aller Enden der Erde
+und derer, die fern auf dem Meer sind.
+<sup>6</sup>Durch deine Kraft bildest du die Berge,
+umgürtet mit Stärke.
+<sup>7</sup>Du stillst das Brausen der Meere,
+das Brausen ihrer Wellen
+und das Toben der Völker.
+<sup>8</sup>Auch die an den fernsten Orten wohnen, fürchten sich vor deinen Wundern.
+Du lässt den Aufgang des Morgens und den Abend jubeln.
+
+> **Was bedeutet das?**
+> Gott ist nicht nur der Gott Israels, sondern „die Hoffnung aller Enden der Erde“.
+> Er hat die Berge gemacht und beruhigt das tobende Meer. Auch die tobenden Völker bringt er zur Ruhe. Jesus hat später den Sturm auf dem See gestillt (Markus 4,39).
+> Vers 8: Vom Sonnenaufgang im Osten bis zum Sonnenuntergang im Westen jubelt die ganze Welt.
+
+---
+
+### Du krönst das Jahr (Vers 9–13)
+
+<sup>9</sup>Du suchst die Erde heim und bewässerst sie.
+Du machst sie sehr reich.
+Der Strom Gottes ist voll Wasser.
+Du lässt ihr Korn wachsen, denn so hast du es bestimmt.
+<sup>10</sup>Du tränkst ihre Furchen.
+Du ebnest ihre Schollen.
+Du machst sie weich mit Regenschauern.
+Du segnest ihr Gewächs.
+<sup>11</sup>Du krönst das Jahr mit deiner Güte.
+Deine Wagenspuren triefen von Fülle.
+<sup>12</sup>Die Weiden der Steppe fließen über.
+Die Hügel umgürten sich mit Jubel.
+<sup>13</sup>Die Weiden sind mit Herden bedeckt.
+Die Täler sind mit Korn bekleidet.
+Sie jubeln vor Freude! Ja, sie singen.
+
+> **Was bedeutet das?**
+> Ein wunderschönes Bild vom Frühling und der Ernte. Gott ist wie ein Bauer, der seine Felder pflegt: Er bewässert, ebnet, weicht den Boden auf und segnet die Saat.
+> Vers 11: „Du krönst das Jahr mit deiner Güte“: Die Ernte ist wie eine Krone für das ganze Jahr.
+> „Deine Wagenspuren triefen von Fülle“: Wo Gott mit seinem Wagen entlangfährt, wächst alles. Die englische Vorlage sagt: „Deine Wagen fließen über vor Fülle.“
+> Am Ende singt die ganze Natur: Die Hügel, Weiden und Täler jubeln. Die Schöpfung lobt ihren Schöpfer.
+
+## Psalm 66
+#### Kommt und seht die Werke Gottes
+
+---
+
+### Jauchzt Gott, alle Länder! (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Ein Lied. Ein Psalm.
+Jubelt Gott zu, alle Länder!
+<sup>2</sup>Singt zur Ehre seines Namens!
+Gebt ihm Ehre und Lob!
+<sup>3</sup>Sagt zu Gott: „Wie furchterregend sind deine Taten!
+Durch die Größe deiner Macht unterwerfen sich dir deine Feinde.
+<sup>4</sup>Die ganze Erde wird dich anbeten und dir singen.
+Sie werden deinem Namen singen.“
+Sela.
+
+> **Was bedeutet das?**
+> Ein fröhlicher Lobpsalm. Die ganze Welt wird eingeladen, Gott zu loben.
+
+---
+
+### Er machte das Meer zu trockenem Land (Vers 5–7)
+
+<sup>5</sup>Kommt und seht die Taten Gottes,
+sein furchterregendes Werk an den Menschenkindern!
+<sup>6</sup>Er verwandelte das Meer in trockenes Land.
+Sie gingen zu Fuß durch den Strom.
+Dort freuten wir uns über ihn.
+<sup>7</sup>Er herrscht durch seine Macht für immer.
+Seine Augen beobachten die Völker.
+Die Widerspenstigen sollen sich nicht gegen ihn erheben!
+Sela.
+
+> **Was bedeutet das?**
+> Vers 6 erinnert an zwei große Rettungen: den Durchzug durch das Schilfmeer (2. Mose 14) und den Durchzug durch den Jordan (Josua 3).
+> „Dort freuten wir uns“: Obwohl es lange her ist, sagt der Psalm „wir“. Wer heute glaubt, gehört zu dieser Geschichte dazu.
+
+---
+
+### Durch Feuer und Wasser (Vers 8–12)
+
+<sup>8</sup>Lobt unseren Gott, ihr Völker!
+Lasst den Klang seines Lobes hören,
+<sup>9</sup>der unser Leben unter den Lebenden erhält
+und unsere Füße nicht wanken lässt.
+<sup>10</sup>Denn du, Gott, hast uns geprüft.
+Du hast uns geläutert, wie man Silber läutert.
+<sup>11</sup>Du hast uns ins Gefängnis gebracht.
+Du hast uns eine Last auf den Rücken gelegt.
+<sup>12</sup>Du hast Menschen über unsere Köpfe reiten lassen.
+Wir sind durch Feuer und durch Wasser gegangen,
+aber du hast uns herausgeführt an einen Ort der Fülle.
+
+> **Was bedeutet das?**
+> Das Volk hat schwere Zeiten erlebt: Gefangenschaft, Unterdrückung, Demütigung.
+> Vers 10: Diese Zeiten waren wie Feuer, in dem Silber gereinigt wird. Das Leid hat das Volk geläutert.
+> Vers 12: „Durch Feuer und Wasser“: durch alle Gefahren. Aber am Ende führt Gott in die Fülle (vgl. Jesaja 43,2).
+
+---
+
+### Ich will meine Gelübde erfüllen (Vers 13–15)
+
+<sup>13</sup>Ich will mit Brandopfern in dein Haus kommen.
+Ich will dir meine Gelübde erfüllen,
+<sup>14</sup>die meine Lippen versprochen haben
+und die mein Mund in der Not ausgesprochen hat.
+<sup>15</sup>Brandopfer von fetten Tieren will ich dir darbringen,
+mit dem Rauch von Widdern.
+Ich will Stiere mit Böcken opfern.
+Sela.
+
+> **Was bedeutet das?**
+> Jetzt spricht ein Einzelner. In der Not hat er Gott etwas versprochen. Jetzt will er sein Versprechen halten.
+> Er bringt große, teure Opfer, um seine Dankbarkeit zu zeigen.
+
+---
+
+### Gott hat mein Gebet gehört (Vers 16–20)
+
+<sup>16</sup>Kommt und hört, alle, die ihr Gott fürchtet!
+Ich will erzählen, was er für meine Seele getan hat.
+<sup>17</sup>Ich rief mit meinem Mund zu ihm,
+und Lob war auf meiner Zunge.
+<sup>18</sup>Hätte ich Unrecht in meinem Herzen gehegt,
+hätte der Herr nicht gehört.
+<sup>19</sup>Aber ganz gewiss hat Gott gehört.
+Er hat auf die Stimme meines Gebets geachtet.
+<sup>20</sup>Gepriesen sei Gott,
+der mein Gebet nicht abgewiesen
+und seine Güte nicht von mir abgewandt hat!
+
+> **Was bedeutet das?**
+> Wer Gottes Hilfe erfahren hat, möchte anderen davon erzählen.
+> Vers 18: Wer bewusst an einer Sünde festhält und nicht davon lassen will, dessen Gebet ist nicht ehrlich. Das heißt nicht, dass nur perfekte Menschen beten dürfen. Es heißt: Man soll vor Gott ehrlich sein.
+> Vers 20: Der Psalm endet mit Dank: Gott hat mein Gebet nicht abgewiesen.
