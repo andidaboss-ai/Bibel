@@ -75006,3 +75006,331 @@ und die Völker in Aufrichtigkeit.
 > Ein fröhliches Bild: Die Flüsse klatschen in die Hände, die Berge singen. Die ganze Natur feiert Gott.
 > Das bekannte Weihnachtslied „Joy to the World“ (Freue dich, Welt) beruht auf diesem Psalm.
 > Wie Psalm 96 endet auch dieser Psalm mit der Hoffnung: Gott kommt und bringt Gerechtigkeit für alle.
+
+## Psalm 99
+#### Heilig ist er!
+
+---
+
+### Der HERR ist König in Zion (Vers 1–5)
+
+<sup>1</sup>Der HERR ist König! Die Völker sollen zittern.
+Er thront über den Keruben. Die Erde soll beben.
+<sup>2</sup>Der HERR ist groß in Zion.
+Er ist erhaben über alle Völker.
+<sup>3</sup>Sie sollen deinen großen und furchterregenden Namen loben.
+Heilig ist er!
+<sup>4</sup>Die Stärke des Königs liebt das Recht.
+Du hast Gerechtigkeit festgesetzt.
+Du übst Recht und Gerechtigkeit in Jakob.
+<sup>5</sup>Erhebt den HERRN, unseren Gott!
+Betet an vor dem Schemel seiner Füße!
+Heilig ist er!
+
+> **Was bedeutet das?**
+> Psalm 99 ist der letzte der Königspsalmen (93–99). Dreimal kommt der Ruf: „Heilig ist er!“ (Vers 3, 5 und 9). Das erinnert an die Engel in Jesaja 6,3: „Heilig, heilig, heilig ist der HERR.“
+> „Heilig“ heißt: ganz anders, rein, erhaben über alles.
+> „Der Schemel seiner Füße“: Gemeint ist die Bundeslade im Tempel. Man stellte sich vor, dass Gott unsichtbar auf den Keruben thront und seine Füße auf die Lade stellt.
+> Vers 4: Gottes Stärke ist nicht Willkür. Sie liebt das Recht.
+
+---
+
+### Mose, Aaron und Samuel (Vers 6–9)
+
+<sup>6</sup>Mose und Aaron waren unter seinen Priestern,
+Samuel unter denen, die seinen Namen anriefen.
+Sie riefen den HERRN an, und er antwortete ihnen.
+<sup>7</sup>Er redete zu ihnen in der Wolkensäule.
+Sie hielten seine Zeugnisse und die Ordnung, die er ihnen gab.
+<sup>8</sup>Du hast ihnen geantwortet, HERR, unser Gott.
+Du warst ihnen ein Gott, der vergab,
+obwohl du ihre Taten bestraft hast.
+<sup>9</sup>Erhebt den HERRN, unseren Gott!
+Betet an auf seinem heiligen Berg,
+denn heilig ist der HERR, unser Gott!
+
+> **Was bedeutet das?**
+> Drei große Beter werden genannt: Mose, Aaron und Samuel. Sie haben für das Volk gebetet, und Gott hat geantwortet (vgl. 2. Mose 32,11–14; 1. Samuel 7,9).
+> Vers 8: Gott ist heilig, darum nimmt er Schuld ernst und bestraft sie. Aber er vergibt auch. Beides gehört zusammen: Gerechtigkeit und Gnade.
+
+## Psalm 100
+#### Jauchzt dem HERRN, alle Länder!
+
+---
+
+### Dient dem HERRN mit Freude (Vers 1–3)
+
+<sup>1</sup>Ein Psalm zum Dankopfer.
+Jauchzt dem HERRN, alle Länder!
+<sup>2</sup>Dient dem HERRN mit Freude!
+Kommt vor sein Angesicht mit Jubel!
+<sup>3</sup>Erkennt, dass der HERR Gott ist!
+Er hat uns gemacht, und wir gehören ihm.
+Wir sind sein Volk und die Schafe seiner Weide.
+
+> **Was bedeutet das?**
+> Psalm 100 ist einer der bekanntesten Lobpsalmen. Er wurde wohl gesungen, wenn Menschen mit einem Dankopfer zum Tempel kamen.
+> „Dient dem HERRN mit Freude“: Gottesdienst ist keine traurige Pflicht, sondern ein Fest.
+> Vers 3: Drei Gründe zur Freude: Der HERR ist Gott. Er hat uns gemacht. Wir gehören zu ihm wie Schafe zu ihrem Hirten.
+> Im Hebräischen kann man Vers 3 auch lesen: „und nicht wir selbst“ (Er hat uns gemacht, nicht wir selbst). Die englische Vorlage folgt der Lesart „und wir gehören ihm“.
+
+---
+
+### Geht durch seine Tore mit Dank (Vers 4–5)
+
+<sup>4</sup>Geht durch seine Tore mit Dank,
+in seine Vorhöfe mit Lob!
+Dankt ihm und preist seinen Namen!
+<sup>5</sup>Denn der HERR ist gut.
+Seine Güte bleibt für immer
+und seine Treue von Generation zu Generation.
+
+> **Was bedeutet das?**
+> Die Pilger ziehen durch die Tore in den Tempel ein, mit Dankliedern auf den Lippen.
+> Vers 5: Der Grund für allen Dank: „Der HERR ist gut. Seine Güte bleibt für immer.“ Dieser Satz kommt in der Bibel sehr oft vor (z. B. Psalm 106,1; 107,1; 136).
+> Viele kennen den Psalm als Lied, zum Beispiel „Jauchzet, ihr Himmel“ oder das englische „All People That on Earth Do Dwell“.
+
+## Psalm 101
+#### Der Vorsatz eines Königs
+
+---
+
+### Ich will untadelig leben (Vers 1–4)
+
+<sup>1</sup>Ein Psalm von David.
+Ich will von Güte und Recht singen.
+Dir, HERR, will ich Lob singen.
+<sup>2</sup>Ich will darauf achten, untadelig zu leben.
+Wann kommst du zu mir?
+Ich will mit lauterem Herzen in meinem Haus wandeln.
+<sup>3</sup>Ich will nichts Gemeines vor meine Augen stellen.
+Ich hasse die Taten der Treulosen.
+Sie sollen nicht an mir haften.
+<sup>4</sup>Ein verdrehtes Herz soll fern von mir sein.
+Mit dem Bösen will ich nichts zu tun haben.
+
+> **Was bedeutet das?**
+> Psalm 101 ist wie ein Regierungsprogramm eines Königs. Er nimmt sich vor, gerecht zu regieren, und zwar zuerst in seinem eigenen Leben.
+> „In meinem Haus“: Ehrlichkeit beginnt zu Hause, nicht erst in der Öffentlichkeit.
+> Vers 3: „Nichts Gemeines vor meine Augen stellen“: Er will sich nicht von schlechten Dingen beeinflussen lassen. Das gilt auch heute, zum Beispiel bei dem, was wir uns ansehen.
+> „Wann kommst du zu mir?“: Der König sehnt sich nach Gottes Nähe.
+
+---
+
+### Wer bei mir wohnen darf (Vers 5–8)
+
+<sup>5</sup>Wer heimlich seinen Nächsten verleumdet, den will ich zum Schweigen bringen.
+Wer überheblich und hochmütig ist, den will ich nicht dulden.
+<sup>6</sup>Meine Augen sehen auf die Treuen im Land,
+damit sie bei mir wohnen.
+Wer auf einem untadeligen Weg geht, der soll mir dienen.
+<sup>7</sup>Wer Betrug übt, wird nicht in meinem Haus wohnen.
+Wer Lügen redet, wird vor meinen Augen nicht bestehen.
+<sup>8</sup>Morgen für Morgen will ich alle Gottlosen im Land vernichten,
+um alle Übeltäter aus der Stadt des HERRN auszurotten.
+
+> **Was bedeutet das?**
+> Der König will keine Verleumder, Lügner und Betrüger in seiner Regierung. Er sucht treue und ehrliche Mitarbeiter.
+> Vers 8: „Morgen für Morgen“: Am Morgen hielten Könige damals Gericht. Der König verspricht, jeden Tag für Recht zu sorgen und Verbrechen zu bestrafen.
+> Das ist die Aufgabe eines Herrschers mit rechtmäßiger Gerichtsbarkeit, nach gerechten Gesetzen. Es ist keine Erlaubnis für Einzelne, selbst Gewalt gegen andere auszuüben.
+
+## Psalm 102
+#### Das Gebet eines Elenden
+
+---
+
+### Meine Tage vergehen wie Rauch (Vers 1–11)
+
+<sup>1</sup>Ein Gebet eines Elenden, wenn er verzagt ist und seine Klage vor dem HERRN ausschüttet.
+Hör mein Gebet, HERR!
+Mein Schreien soll zu dir kommen!
+<sup>2</sup>Verbirg dein Angesicht nicht vor mir am Tag meiner Not!
+Neige dein Ohr zu mir!
+Antworte mir schnell am Tag, an dem ich rufe!
+<sup>3</sup>Denn meine Tage vergehen wie Rauch.
+Meine Knochen glühen wie eine Fackel.
+<sup>4</sup>Mein Herz ist versengt wie Gras und verdorrt,
+denn ich vergesse, mein Brot zu essen.
+<sup>5</sup>Wegen meines lauten Stöhnens
+klebt mein Gebein an meiner Haut.
+<sup>6</sup>Ich bin wie ein Pelikan in der Wüste.
+Ich bin geworden wie eine Eule in den Trümmern.
+<sup>7</sup>Ich wache und bin geworden wie ein Sperling,
+der allein auf dem Dach sitzt.
+<sup>8</sup>Meine Feinde verhöhnen mich den ganzen Tag.
+Die gegen mich toben, benutzen meinen Namen als Fluch.
+<sup>9</sup>Denn ich esse Asche wie Brot
+und mische meinen Trank mit Tränen
+<sup>10</sup>wegen deines Grimms und deines Zorns,
+denn du hast mich hochgehoben und weggeworfen.
+<sup>11</sup>Meine Tage sind wie ein langer Schatten.
+Ich bin verdorrt wie Gras.
+
+> **Was bedeutet das?**
+> Psalm 102 hat eine besondere Überschrift: Er ist für jeden Menschen, der „elend“ und „verzagt“ ist. Jeder darf ihn als eigenes Gebet benutzen.
+> Er ist einer der sieben Bußpsalmen.
+> Der Beter beschreibt tiefe Einsamkeit und Krankheit: Er vergisst zu essen, er ist nur noch Haut und Knochen, er kann nicht schlafen.
+> Vers 6–7: Drei Bilder für Einsamkeit: ein Vogel in der Wüste, eine Eule in Ruinen, ein Sperling allein auf dem Dach.
+> Wenn du dich so einsam und verzweifelt fühlst: Bitte rede mit jemandem. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, rund um die Uhr. Bei akuter Gefahr: Notruf 112.
+
+---
+
+### Du aber bleibst (Vers 12–17)
+
+<sup>12</sup>Du aber, HERR, bleibst für immer,
+und dein Ruhm besteht von Generation zu Generation.
+<sup>13</sup>Du wirst aufstehen und dich über Zion erbarmen,
+denn es ist Zeit, ihr gnädig zu sein.
+Ja, die festgesetzte Zeit ist gekommen.
+<sup>14</sup>Denn deine Knechte lieben ihre Steine
+und haben Mitleid mit ihrem Staub.
+<sup>15</sup>Dann werden die Völker den Namen des HERRN fürchten
+und alle Könige der Erde deine Herrlichkeit.
+<sup>16</sup>Denn der HERR hat Zion aufgebaut.
+Er ist in seiner Herrlichkeit erschienen.
+<sup>17</sup>Er hat sich dem Gebet der Verlassenen zugewandt
+und ihr Gebet nicht verachtet.
+
+> **Was bedeutet das?**
+> Vers 12 ist die Wende: „Du aber, HERR, bleibst.“ Der Mensch vergeht, aber Gott bleibt.
+> Jetzt denkt der Beter an Jerusalem (Zion), das in Trümmern liegt. Die Menschen lieben sogar die Steine und den Staub der zerstörten Stadt.
+> Vers 17: Gott hört das Gebet der Verlassenen und Armen. Er verachtet es nicht.
+
+---
+
+### Für die kommende Generation (Vers 18–22)
+
+<sup>18</sup>Das soll für die kommende Generation aufgeschrieben werden.
+Ein Volk, das noch geschaffen wird, wird Jah loben,
+<sup>19</sup>denn er hat von der Höhe seines Heiligtums herabgeschaut.
+Vom Himmel hat der HERR auf die Erde gesehen,
+<sup>20</sup>um das Seufzen der Gefangenen zu hören
+und die zu befreien, die zum Tod verurteilt sind,
+<sup>21</sup>damit man in Zion den Namen des HERRN verkündet
+und sein Lob in Jerusalem,
+<sup>22</sup>wenn die Völker sich versammeln
+und die Königreiche, um dem HERRN zu dienen.
+
+> **Was bedeutet das?**
+> Die Rettung soll aufgeschrieben werden, damit spätere Generationen davon erfahren. Das ist ein Grund, warum die Bibel geschrieben wurde.
+> Gott schaut vom Himmel auf die Gefangenen und die zum Tod Verurteilten.
+> Am Ende versammeln sich alle Völker, um Gott zu dienen.
+
+---
+
+### Du bleibst derselbe (Vers 23–28)
+
+<sup>23</sup>Er hat meine Kraft auf dem Weg geschwächt.
+Er hat meine Tage verkürzt.
+<sup>24</sup>Ich sagte: „Mein Gott, nimm mich nicht weg in der Mitte meiner Tage!
+Deine Jahre reichen durch alle Generationen.
+<sup>25</sup>Vor langer Zeit hast du die Erde gegründet.
+Der Himmel ist das Werk deiner Hände.
+<sup>26</sup>Sie werden vergehen, du aber bleibst.
+Ja, sie alle werden alt wie ein Kleid.
+Wie ein Gewand wirst du sie wechseln, und sie werden verwandelt.
+<sup>27</sup>Du aber bleibst derselbe.
+Deine Jahre haben kein Ende.
+<sup>28</sup>Die Kinder deiner Knechte werden bleiben.
+Ihre Nachkommen werden vor dir bestehen.“
+
+> **Was bedeutet das?**
+> Der Beter bittet: Lass mich nicht in der Mitte meines Lebens sterben!
+> Vers 25–27: Sogar Himmel und Erde werden alt wie ein Kleidungsstück und werden einmal ausgetauscht. Nur Gott bleibt immer derselbe.
+> Der Hebräerbrief zitiert Vers 25–27 und bezieht ihn auf Jesus (Hebräer 1,10–12).
+> Vers 28: Der Psalm endet mit Hoffnung für die kommenden Generationen.
+
+## Psalm 103
+#### Lobe den HERRN, meine Seele
+
+---
+
+### Vergiss nicht, was er dir Gutes getan hat (Vers 1–5)
+
+<sup>1</sup>Von David.
+Lobe den HERRN, meine Seele!
+Alles, was in mir ist, lobe seinen heiligen Namen!
+<sup>2</sup>Lobe den HERRN, meine Seele,
+und vergiss nicht all seine Wohltaten,
+<sup>3</sup>der dir alle deine Sünden vergibt,
+der alle deine Krankheiten heilt,
+<sup>4</sup>der dein Leben vom Verderben erlöst,
+der dich krönt mit Güte und Erbarmen,
+<sup>5</sup>der dein Verlangen mit Gutem sättigt,
+sodass deine Jugend erneuert wird wie die eines Adlers.
+
+> **Was bedeutet das?**
+> Psalm 103 ist einer der schönsten Lobpsalmen der Bibel. Der Beter spricht mit seiner eigenen Seele und fordert sie auf, Gott zu loben.
+> „Vergiss nicht“: Man vergisst leicht, wie viel Gutes man bekommen hat. Der Psalm erinnert daran.
+> Fünf Wohltaten: Vergebung, Heilung, Rettung, Krönung mit Liebe, Sättigung mit Gutem.
+> Vers 5: Der Adler mausert sich und bekommt neue Federn. Er sieht dann wieder jung und kräftig aus. So erneuert Gott die Kraft (vgl. Jesaja 40,31).
+> Das bekannte Kirchenlied „Lobe den Herren, den mächtigen König der Ehren“ ist von diesem Psalm angeregt.
+
+---
+
+### Barmherzig und gnädig ist der HERR (Vers 6–12)
+
+<sup>6</sup>Der HERR übt Gerechtigkeit
+und schafft Recht für alle, die unterdrückt werden.
+<sup>7</sup>Er hat Mose seine Wege wissen lassen,
+den Kindern Israels seine Taten.
+<sup>8</sup>Barmherzig und gnädig ist der HERR,
+langsam zum Zorn und reich an Güte.
+<sup>9</sup>Er wird nicht für immer anklagen
+und nicht ewig zornig bleiben.
+<sup>10</sup>Er hat nicht mit uns gehandelt nach unseren Sünden
+und uns nicht vergolten nach unserer Schuld.
+<sup>11</sup>Denn so hoch der Himmel über der Erde ist,
+so groß ist seine Güte über denen, die ihn fürchten.
+<sup>12</sup>So fern der Osten vom Westen ist,
+so fern hat er unsere Übertretungen von uns entfernt.
+
+> **Was bedeutet das?**
+> Vers 8 zitiert wieder Gottes Selbstbeschreibung aus 2. Mose 34,6.
+> Vers 10: Gott gibt uns nicht, was wir verdient hätten. Er ist gnädiger, als wir es verdienen.
+> Vers 11–12: Zwei wunderschöne Bilder für Gottes Liebe und Vergebung:
+> – So hoch wie der Himmel ist seine Güte.
+> – So weit wie Osten von Westen entfernt ist, so weit wirft Gott unsere Schuld weg. Osten und Westen treffen sich nie. Die vergebene Schuld kommt nie zurück.
+
+---
+
+### Wie ein Vater sich über Kinder erbarmt (Vers 13–18)
+
+<sup>13</sup>Wie ein Vater sich über seine Kinder erbarmt,
+so erbarmt sich der HERR über die, die ihn fürchten.
+<sup>14</sup>Denn er weiß, wie wir gemacht sind.
+Er denkt daran, dass wir Staub sind.
+<sup>15</sup>Der Mensch – seine Tage sind wie Gras.
+Wie eine Blume auf dem Feld, so blüht er.
+<sup>16</sup>Denn der Wind geht darüber, und sie ist nicht mehr da.
+Ihr Ort weiß nichts mehr von ihr.
+<sup>17</sup>Aber die Güte des HERRN währt von Ewigkeit zu Ewigkeit
+über denen, die ihn fürchten,
+und seine Gerechtigkeit bis zu den Kindeskindern,
+<sup>18</sup>bei denen, die seinen Bund halten,
+und bei denen, die daran denken, seine Gebote zu tun.
+
+> **Was bedeutet das?**
+> Vers 13: Gott ist wie ein liebevoller Vater. Er hat Mitgefühl mit seinen Kindern.
+> Vers 14: Gott kennt unsere Schwäche. Er weiß, dass wir aus Staub gemacht sind. Darum verlangt er nicht Unmögliches von uns.
+> Vers 15–16: Das menschliche Leben ist kurz wie das einer Blume.
+> Vers 17: Aber Gottes Liebe ist ewig. Sie reicht bis zu den Enkeln und Urenkeln.
+
+---
+
+### Lobt den HERRN, ihr Engel! (Vers 19–22)
+
+<sup>19</sup>Der HERR hat seinen Thron im Himmel aufgestellt.
+Sein Königreich herrscht über alles.
+<sup>20</sup>Lobt den HERRN, ihr seine Engel,
+ihr starken Helden, die ihr sein Wort ausführt
+und auf die Stimme seines Wortes hört!
+<sup>21</sup>Lobt den HERRN, alle seine Heere,
+ihr seine Diener, die ihr seinen Willen tut!
+<sup>22</sup>Lobt den HERRN, alle seine Werke,
+an allen Orten seiner Herrschaft!
+Lobe den HERRN, meine Seele!
+
+> **Was bedeutet das?**
+> Am Ende weitet sich das Lob immer mehr: von der eigenen Seele zu den Engeln, zu allen himmlischen Heeren, zu allen Geschöpfen überall.
+> Und dann kehrt der Psalm zum Anfang zurück: „Lobe den HERRN, meine Seele!“ Das große Lob des ganzen Universums beginnt und endet im eigenen Herzen.
