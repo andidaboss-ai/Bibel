@@ -57,7 +57,7 @@ Du ebnest ihre Schollen.
 Du machst sie weich mit Regenschauern.
 Du segnest ihr Gewächs.
 [11] Du krönst das Jahr mit deiner Güte.
-Deine Wagenspuren triefen von Fülle.
+Deine Wagen fließen über vor Fülle.
 [12] Die Weiden der Steppe fließen über.
 Die Hügel umgürten sich mit Jubel.
 [13] Die Weiden sind mit Herden bedeckt.
@@ -67,5 +67,5 @@ Sie jubeln vor Freude! Ja, sie singen.
 > **Was bedeutet das?**
 > Ein wunderschönes Bild vom Frühling und der Ernte. Gott ist wie ein Bauer, der seine Felder pflegt: Er bewässert, ebnet, weicht den Boden auf und segnet die Saat.
 > Vers 11: „Du krönst das Jahr mit deiner Güte“: Die Ernte ist wie eine Krone für das ganze Jahr.
-> „Deine Wagenspuren triefen von Fülle“: Wo Gott mit seinem Wagen entlangfährt, wächst alles. Die englische Vorlage sagt: „Deine Wagen fließen über vor Fülle.“
+> „Deine Wagen fließen über vor Fülle“: Wo Gott mit seinem Wagen entlangfährt, wächst alles. Im Hebräischen steht wörtlich „deine Spuren“ oder „deine Wagenspuren triefen von Fett“.
 > Am Ende singt die ganze Natur: Die Hügel, Weiden und Täler jubeln. Die Schöpfung lobt ihren Schöpfer.

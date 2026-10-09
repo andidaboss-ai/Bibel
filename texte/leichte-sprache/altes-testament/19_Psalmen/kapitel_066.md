@@ -66,7 +66,7 @@ Ich will dir meine Gelübde erfüllen,
 [14] die meine Lippen versprochen haben
 und die mein Mund in der Not ausgesprochen hat.
 [15] Brandopfer von fetten Tieren will ich dir darbringen,
-mit dem Rauch von Widdern.
+mit dem Opfer von Widdern.
 Ich will Stiere mit Böcken opfern.
 Sela.
 
