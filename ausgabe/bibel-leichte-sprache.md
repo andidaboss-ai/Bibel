@@ -59271,3 +59271,397 @@ um ihre Hände bei der Arbeit am Haus Gottes, des Gottes Israels, zu stärken.
 > Einen Monat nach der Einweihung feiern sie das Passa, das Fest der Befreiung aus Ägypten. Jetzt feiern sie es als Menschen, die ein zweites Mal befreit wurden, diesmal aus Babylon.
 > Vers 21 ist wichtig: Auch Menschen, die nicht in der Verbannung waren, durften mitfeiern, wenn sie sich von den Götzen abwandten und den HERRN suchten. Die Tür ist offen für alle, die Gott suchen.
 > „König von Assyrien“: Gemeint ist der Perserkönig Darius. Er herrschte jetzt über das Gebiet des alten Assyrien. Vielleicht wird der Titel bewusst gewählt: Die Assyrer hatten das Volk einst zerstreut, jetzt hilft ein König auf ihrem Thron beim Wiederaufbau.
+
+## Esra – Kapitel 7
+#### Esra kommt nach Jerusalem
+
+---
+
+### Wer war Esra? (Vers 1–10)
+
+<sup>1</sup>Nach diesen Ereignissen,
+in der Regierungszeit des Artahsasta, des Königs von Persien,
+kam Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkijas,
+<sup>2</sup>des Sohnes Schallums, des Sohnes Zadoks, des Sohnes Ahitubs,
+<sup>3</sup>des Sohnes Amarjas, des Sohnes Asarjas, des Sohnes Merajots,
+<sup>4</sup>des Sohnes Serachjas, des Sohnes Usis, des Sohnes Bukkis,
+<sup>5</sup>des Sohnes Abischuas, des Sohnes Pinhas', des Sohnes Eleasars,
+des Sohnes Aarons, des obersten Priesters.
+<sup>6</sup>Dieser Esra zog aus Babel herauf.
+Er war ein kundiger Schriftgelehrter im Gesetz des Mose,
+das der HERR, der Gott Israels, gegeben hatte.
+Und der König gab ihm alles, worum er bat,
+weil die Hand des HERRN, seines Gottes, über ihm war.
+<sup>7</sup>Mit ihm zogen einige von den Kindern Israels nach Jerusalem hinauf,
+auch einige von den Priestern, den Leviten, den Sängern, den Torhütern und den Tempeldienern,
+im siebten Jahr des Königs Artahsasta.
+<sup>8</sup>Er kam im fünften Monat nach Jerusalem,
+im siebten Jahr des Königs.
+<sup>9</sup>Denn am ersten Tag des ersten Monats begann er den Aufbruch aus Babel,
+und am ersten Tag des fünften Monats kam er nach Jerusalem,
+weil die gute Hand seines Gottes über ihm war.
+<sup>10</sup>Denn Esra hatte sein Herz darauf gerichtet,
+das Gesetz des HERRN zu erforschen und danach zu tun
+und in Israel Satzungen und Rechtsordnungen zu lehren.
+
+> **Was bedeutet das?**
+> Zwischen Kapitel 6 und 7 liegen fast 60 Jahre. Esra kam im siebten Jahr des Artahsasta (Artaxerxes I.) nach Jerusalem, also 458 vor Christus. In der Zwischenzeit spielt die Geschichte von Ester.
+> Der Stammbaum zeigt: Esra stammt direkt von Aaron ab, dem ersten Hohenpriester. Seraja war der letzte Hohepriester vor der Zerstörung Jerusalems (2. Könige 25,18). „Sohn“ heißt hier auch „Nachkomme“. Einige Generationen sind übersprungen.
+> Esra war „Schriftgelehrter“. Er kannte Gottes Gesetz sehr genau. In der jüdischen Tradition gilt er als zweiter Mose, weil er das Gesetz wieder ins Zentrum stellte.
+> Die Reise dauerte vier Monate. Die Strecke von Babylon nach Jerusalem ist über 1000 Kilometer lang.
+> Vers 10 ist ein Vorbild: Esra wollte Gottes Wort erstens erforschen, zweitens selbst danach leben, und drittens andere lehren. In dieser Reihenfolge.
+> „Die gute Hand Gottes war über ihm“: Dieser Satz kommt im Buch Esra mehrmals vor. Esra wusste, dass sein Erfolg von Gott kam.
+
+---
+
+### Der Brief des Königs (Vers 11–26)
+
+<sup>11</sup>Das ist die Abschrift des Briefes,
+den der König Artahsasta Esra gab,
+dem Priester, dem Schriftgelehrten,
+dem Schriftgelehrten in den Worten der Gebote des HERRN
+und seiner Satzungen für Israel:
+<sup>12</sup>„Artahsasta, König der Könige,
+an Esra, den Priester, den Schriftgelehrten im Gesetz des vollkommenen Gottes des Himmels.
+Nun:
+<sup>13</sup>Ich gebe den Befehl,
+dass alle aus dem Volk Israel und seinen Priestern und Leviten in meinem Reich,
+die freiwillig nach Jerusalem gehen wollen,
+mit dir gehen dürfen.
+<sup>14</sup>Denn du wirst vom König und seinen sieben Ratgebern gesandt,
+um nach Juda und Jerusalem zu sehen,
+nach dem Gesetz deines Gottes, das in deiner Hand ist,
+<sup>15</sup>und um das Silber und Gold hinzubringen,
+das der König und seine Ratgeber freiwillig dem Gott Israels gegeben haben,
+dessen Wohnung in Jerusalem ist,
+<sup>16</sup>und alles Silber und Gold, das du in der ganzen Provinz Babel bekommst,
+mit den freiwilligen Gaben des Volkes und der Priester,
+die sie freiwillig für das Haus ihres Gottes in Jerusalem geben.
+<sup>17</sup>Darum sollst du mit diesem Geld sorgfältig
+Stiere, Widder und Lämmer kaufen,
+mit ihren Speiseopfern und ihren Trankopfern,
+und sie auf dem Altar des Hauses eures Gottes in Jerusalem darbringen.
+<sup>18</sup>Was dir und deinen Brüdern gut erscheint,
+mit dem übrigen Silber und Gold zu tun,
+das tut nach dem Willen eures Gottes.
+<sup>19</sup>Die Geräte, die dir für den Dienst im Haus deines Gottes gegeben werden,
+liefere vollständig vor dem Gott Jerusalems ab.
+<sup>20</sup>Was sonst noch für das Haus deines Gottes nötig ist
+und was du ausgeben musst,
+das gib aus dem Schatzhaus des Königs.
+<sup>21</sup>Ich, der König Artahsasta, ich gebe allen Schatzmeistern jenseits des Stroms den Befehl:
+Alles, was Esra, der Priester, der Schriftgelehrte im Gesetz des Gottes des Himmels, von euch verlangt,
+das soll mit Eifer getan werden,
+<sup>22</sup>bis zu 3400 Kilogramm Silber,
+bis zu 22 000 Liter Weizen,
+bis zu 2200 Liter Wein,
+bis zu 2200 Liter Öl
+und Salz ohne Grenze.
+<sup>23</sup>Alles, was der Gott des Himmels befiehlt,
+soll genau so für das Haus des Gottes des Himmels getan werden.
+Denn warum sollte Zorn über das Reich des Königs und seiner Söhne kommen?
+<sup>24</sup>Auch geben wir euch bekannt:
+Es ist nicht erlaubt, irgendeinem von den Priestern, Leviten, Sängern, Torhütern, Tempeldienern
+oder Arbeitern an diesem Haus Gottes
+Steuern, Abgaben oder Zoll aufzuerlegen.
+<sup>25</sup>Und du, Esra, nach der Weisheit deines Gottes, die in deiner Hand ist,
+setze Richter und Rechtsprecher ein,
+die dem ganzen Volk jenseits des Stroms Recht sprechen sollen,
+allen, die die Gesetze deines Gottes kennen.
+Und wer sie nicht kennt, den sollt ihr lehren.
+<sup>26</sup>Wer aber das Gesetz deines Gottes und das Gesetz des Königs nicht befolgt,
+an dem soll mit Eifer das Urteil vollstreckt werden,
+sei es zum Tod
+oder zur Verbannung
+oder zur Beschlagnahme des Besitzes
+oder zum Gefängnis.“
+
+> **Was bedeutet das?**
+> Dieser Brief ist wieder auf Aramäisch geschrieben, der Amtssprache des Perserreichs (Vers 12–26).
+> „König der Könige“ war der Titel der persischen Großkönige. Die „sieben Ratgeber“ waren der oberste Rat des Königs (vgl. Ester 1,14).
+> In der Bibel steht „100 Talente Silber“, „100 Kor Weizen“ und „100 Bat Wein und Öl“. Ein Talent sind etwa 34 Kilogramm, ein Kor etwa 220 Liter, ein Bat etwa 22 Liter.
+> Der König ist sehr großzügig. Warum? Vers 23 gibt einen Grund: Er will nicht, dass der Gott Israels zornig auf sein Reich wird. Die Perserkönige wollten, dass alle Götter in ihrem Reich zufrieden sind.
+> Esra bekommt einen großen Auftrag: Er soll das Gesetz Gottes in der Provinz zur Geltung bringen und die Menschen lehren.
+> Vers 26 nennt harte Strafen. Das war das Recht des persischen Staates. Es zeigt die Macht, die der König Esra gab. Heute sagen Juden und Christen: Glaube darf nicht mit staatlicher Gewalt erzwungen werden.
+
+---
+
+### Esras Lob (Vers 27–28)
+
+<sup>27</sup>Gepriesen sei der HERR, der Gott unserer Väter,
+der so etwas dem König ins Herz gegeben hat,
+das Haus des HERRN in Jerusalem zu verschönern,
+<sup>28</sup>und der mir Güte erwiesen hat vor dem König und seinen Ratgebern
+und vor allen mächtigen Fürsten des Königs!
+Ich wurde stark, weil die Hand des HERRN, meines Gottes, über mir war,
+und ich versammelte Oberhäupter aus Israel,
+damit sie mit mir hinaufzogen.
+
+> **Was bedeutet das?**
+> Hier beginnt Esra, selbst in der Ich-Form zu erzählen. Das geht bis Kapitel 9. Man nennt diese Teile die „Esra-Denkschrift“.
+> Esra ist dankbar. Er weiß: Nicht seine Klugheit hat den König überzeugt, sondern Gott hat dem König das ins Herz gegeben (vgl. Sprüche 21,1).
+
+## Esra – Kapitel 8
+#### Die Reise nach Jerusalem
+
+---
+
+### Wer mit Esra zog (Vers 1–14)
+
+<sup>1</sup>Das sind die Oberhäupter ihrer Familien
+und das Verzeichnis derer, die mit mir aus Babel heraufzogen,
+in der Regierungszeit des Königs Artahsasta:
+<sup>2</sup>Von den Söhnen des Pinhas: Gerschom.
+Von den Söhnen Itamars: Daniel.
+Von den Söhnen Davids: Hattusch.
+<sup>3</sup>Von den Söhnen Schechanjas, von den Söhnen Parschs: Secharja,
+und mit ihm wurden im Verzeichnis 150 Männer eingetragen.
+<sup>4</sup>Von den Söhnen Pahat-Moabs: Eljoënai, der Sohn Serachjas,
+und mit ihm 200 Männer.
+<sup>5</sup>Von den Söhnen Schechanjas: der Sohn Jahasiëls,
+und mit ihm 300 Männer.
+<sup>6</sup>Von den Söhnen Adins: Ebed, der Sohn Jonatans,
+und mit ihm 50 Männer.
+<sup>7</sup>Von den Söhnen Elams: Jeschaja, der Sohn Ataljas,
+und mit ihm 70 Männer.
+<sup>8</sup>Von den Söhnen Schefatjas: Sebadja, der Sohn Michaels,
+und mit ihm 80 Männer.
+<sup>9</sup>Von den Söhnen Joabs: Obadja, der Sohn Jehiëls,
+und mit ihm 218 Männer.
+<sup>10</sup>Von den Söhnen Schelomits: der Sohn Josifjas,
+und mit ihm 160 Männer.
+<sup>11</sup>Von den Söhnen Bebais: Secharja, der Sohn Bebais,
+und mit ihm 28 Männer.
+<sup>12</sup>Von den Söhnen Asgads: Johanan, der Sohn Hakkatans,
+und mit ihm 110 Männer.
+<sup>13</sup>Von den Söhnen Adonikams, die die Letzten waren,
+das sind ihre Namen: Elifelet, Jëuël und Schemaja,
+und mit ihnen 60 Männer.
+<sup>14</sup>Von den Söhnen Bigwais: Utai und Sabbud,
+und mit ihnen 70 Männer.
+
+> **Was bedeutet das?**
+> Zusammen sind es etwa 1500 Männer, dazu kamen Frauen und Kinder (Vers 21).
+> Viele dieser Familien kennen wir schon aus Kapitel 2. Ein Teil der Familie war damals schon zurückgekehrt. Jetzt kommt der Rest. „Die Letzten“ in Vers 13 heißt wohl: Die letzten Mitglieder dieser Familie kehren jetzt heim.
+> Hattusch war ein Nachkomme Davids (1. Chronik 3,22).
+> In Vers 5 und 10 fehlt im hebräischen Text wohl ein Familienname. Alte griechische Übersetzungen haben dort „von den Söhnen Sattus“ und „von den Söhnen Banis“.
+
+---
+
+### Esra sucht Leviten (Vers 15–20)
+
+<sup>15</sup>Ich versammelte sie an dem Fluss, der nach Ahawa fließt.
+Dort lagerten wir drei Tage.
+Ich sah mir das Volk und die Priester an
+und fand dort keinen von den Söhnen Levis.
+<sup>16</sup>Da schickte ich nach Eliëser, Ariël, Schemaja, Elnatan, Jarib, Elnatan, Natan, Secharja und Meschullam,
+den Oberhäuptern,
+und nach Jojarib und Elnatan, den Lehrern.
+<sup>17</sup>Ich schickte sie zu Iddo, dem Oberhaupt in dem Ort Kasifja.
+Und ich sagte ihnen, was sie Iddo und seinen Brüdern, den Tempeldienern, in dem Ort Kasifja sagen sollten:
+dass sie uns Diener für das Haus unseres Gottes bringen sollten.
+<sup>18</sup>Weil die gute Hand unseres Gottes über uns war,
+brachten sie uns einen verständigen Mann
+von den Söhnen Machlis, des Sohnes Levis, des Sohnes Israels,
+nämlich Scherebja mit seinen Söhnen und seinen Brüdern, 18;
+<sup>19</sup>und Haschabja und mit ihm Jeschaja von den Söhnen Meraris,
+seine Brüder und ihre Söhne, 20;
+<sup>20</sup>und von den Tempeldienern, die David und die Fürsten für den Dienst der Leviten gegeben hatten,
+220 Tempeldiener.
+Sie alle wurden mit Namen genannt.
+
+> **Was bedeutet das?**
+> Wieder fehlen Leviten (vgl. Kapitel 2,40). Viele hatten sich in Babylon eingelebt und wollten nicht zurück.
+> Esra handelt klug: Er schickt angesehene Männer und Lehrer, um die Leviten zu überzeugen. Kasifja war wohl ein Ort in Babylonien, an dem viele Leviten und Tempeldiener lebten.
+> Am Ende kommen 38 Leviten und 220 Tempeldiener mit. Esra sieht darin Gottes gute Hand.
+
+---
+
+### Fasten und Gebet (Vers 21–23)
+
+<sup>21</sup>Dann rief ich dort am Fluss Ahawa ein Fasten aus,
+damit wir uns vor unserem Gott demütigten,
+um von ihm einen geraden Weg zu erbitten,
+für uns, für unsere Kinder und für unseren ganzen Besitz.
+<sup>22</sup>Denn ich schämte mich, den König um eine Truppe von Soldaten und Reitern zu bitten,
+die uns auf dem Weg gegen den Feind helfen sollte.
+Denn wir hatten zum König gesagt:
+„Die Hand unseres Gottes ist über allen, die ihn suchen, zum Guten.
+Aber seine Macht und sein Zorn sind gegen alle, die ihn verlassen.“
+<sup>23</sup>So fasteten wir und baten unseren Gott darum,
+und er ließ sich von uns erbitten.
+
+> **Was bedeutet das?**
+> Die Reise war gefährlich. Sie trugen viel Gold und Silber bei sich, und es gab Räuber.
+> Esra hatte dem König von Gottes Schutz erzählt. Jetzt will er nicht um Soldaten bitten. Das wäre ihm vorgekommen, als ob er selbst nicht glaubt, was er gesagt hat.
+> Esra fastet und betet mit allen. Er nimmt die Gefahr ernst, aber er vertraut auf Gott.
+> Später ließ Nehemia sich vom König Soldaten mitgeben (Nehemia 2,9). Beides kann richtig sein. Gott kann durch Wunder schützen und durch menschliche Hilfe.
+
+---
+
+### Die Schätze werden anvertraut (Vers 24–30)
+
+<sup>24</sup>Dann sonderte ich zwölf von den Obersten der Priester aus,
+dazu Scherebja, Haschabja und zehn von ihren Brüdern mit ihnen.
+<sup>25</sup>Ich wog ihnen das Silber, das Gold und die Geräte ab,
+die Gabe für das Haus unseres Gottes,
+die der König, seine Ratgeber, seine Fürsten und ganz Israel, das dort war,
+gegeben hatten.
+<sup>26</sup>Ich wog in ihre Hand ab:
+22 100 Kilogramm Silber,
+silberne Geräte im Gewicht von 3400 Kilogramm,
+3400 Kilogramm Gold,
+<sup>27</sup>20 goldene Schalen im Wert von 1000 Goldmünzen
+und zwei Geräte aus feiner, glänzender Bronze, kostbar wie Gold.
+<sup>28</sup>Ich sagte zu ihnen:
+„Ihr seid dem HERRN heilig,
+und die Geräte sind heilig.
+Das Silber und das Gold sind eine freiwillige Gabe für den HERRN, den Gott eurer Väter.
+<sup>29</sup>Bewacht sie und hütet sie,
+bis ihr sie in Jerusalem vor den Obersten der Priester, der Leviten
+und den Familienoberhäuptern Israels abwiegt,
+in den Kammern des Hauses des HERRN.“
+<sup>30</sup>So übernahmen die Priester und die Leviten
+das abgewogene Silber, das Gold und die Geräte,
+um sie nach Jerusalem zum Haus unseres Gottes zu bringen.
+
+> **Was bedeutet das?**
+> In der Bibel steht „650 Talente Silber, 100 Talente silberne Geräte, 100 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. Das sind riesige Mengen. Manche Fachleute meinen, dass die Zahlen beim Abschreiben größer geworden sind. Wichtig ist: Es war ein großer Schatz.
+> „1000 Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm.
+> Esra wiegt alles genau ab und übergibt es vertrauenswürdigen Männern. In Jerusalem wird wieder alles nachgewogen. Wer mit Geld für Gott umgeht, soll ehrlich und genau sein (vgl. 2. Korinther 8,20–21).
+> „Ihr seid heilig, und die Geräte sind heilig“: Die Männer sind für Gott ausgesondert, genau wie die Schätze.
+
+---
+
+### Ankunft in Jerusalem (Vers 31–36)
+
+<sup>31</sup>Dann brachen wir vom Fluss Ahawa auf,
+am zwölften Tag des ersten Monats,
+um nach Jerusalem zu ziehen.
+Die Hand unseres Gottes war über uns,
+und er rettete uns aus der Hand des Feindes und der Wegelagerer.
+<sup>32</sup>Wir kamen nach Jerusalem
+und blieben dort drei Tage.
+<sup>33</sup>Am vierten Tag wurden das Silber, das Gold und die Geräte
+im Haus unseres Gottes abgewogen
+in die Hand Meremots, des Sohnes Urijas, des Priesters.
+Bei ihm war Eleasar, der Sohn des Pinhas,
+und bei ihnen waren Josabad, der Sohn Jeschuas,
+und Noadja, der Sohn Binnuis, die Leviten.
+<sup>34</sup>Alles wurde gezählt und gewogen,
+und das ganze Gewicht wurde damals aufgeschrieben.
+<sup>35</sup>Die Heimkehrer aus der Gefangenschaft,
+die aus der Verbannung gekommen waren,
+brachten dem Gott Israels Brandopfer dar:
+12 Stiere für ganz Israel,
+96 Widder,
+77 Lämmer
+und 12 Ziegenböcke als Sündopfer.
+Das alles war ein Brandopfer für den HERRN.
+<sup>36</sup>Sie übergaben die Befehle des Königs
+den Satrapen des Königs und den Statthaltern jenseits des Stroms.
+Und diese unterstützten das Volk und das Haus Gottes.
+
+> **Was bedeutet das?**
+> Gott hat das Gebet erhört. Sie kommen sicher an, ohne Soldaten.
+> Wieder werden Opfer „für ganz Israel“ gebracht: 12 Stiere und 12 Böcke, für die zwölf Stämme. 96 ist 8 mal 12.
+> Meremot, der Sohn Urijas, hilft später auch beim Bau der Mauer (Nehemia 3,4).
+> „Satrapen“ waren die Statthalter der großen Provinzen im Perserreich. In der englischen Vorlage steht „die örtlichen Statthalter des Königs“.
+
+## Esra – Kapitel 9
+#### Esras Bußgebet
+
+---
+
+### Eine erschütternde Nachricht (Vers 1–4)
+
+<sup>1</sup>Als das alles geschehen war,
+kamen die Fürsten zu mir und sagten:
+„Das Volk Israel, die Priester und die Leviten
+haben sich nicht von den Völkern der Länder getrennt,
+sondern folgen ihren Gräueln,
+den Gräueln der Kanaaniter, der Hetiter, der Perisiter, der Jebusiter,
+der Ammoniter, der Moabiter, der Ägypter und der Amoriter.
+<sup>2</sup>Denn sie haben von ihren Töchtern Frauen genommen,
+für sich und für ihre Söhne,
+sodass sich der heilige Same mit den Völkern der Länder vermischt hat.
+Ja, die Hand der Fürsten und Vorsteher war die erste bei dieser Untreue.“
+<sup>3</sup>Als ich das hörte,
+zerriss ich mein Gewand und meinen Mantel,
+raufte mir das Haar von Kopf und Bart
+und setzte mich fassungslos hin.
+<sup>4</sup>Da versammelten sich bei mir alle, die vor den Worten des Gottes Israels zitterten,
+wegen der Untreue der Heimkehrer.
+Und ich saß fassungslos da bis zum Abendopfer.
+
+> **Was bedeutet das?**
+> Dieses und das nächste Kapitel gehören zu den schwierigsten Teilen des Buches.
+> Worum geht es? Viele Männer, auch Priester und Anführer, hatten Frauen aus den umliegenden Völkern geheiratet, die andere Götter verehrten. Esra sah darin eine große Gefahr: Das kleine Volk könnte seinen Glauben verlieren, wie damals Salomo, dessen fremde Frauen ihn zu fremden Göttern verführten (1. Könige 11,1–8). Genau das hatte zur Verbannung geführt.
+> Es ging nicht um Hautfarbe oder Herkunft an sich, sondern um den Glauben. Rut, eine Frau aus Moab, wurde ein Teil des Volkes, weil sie sich zum Gott Israels bekannte (Rut 1,16). Sie wurde sogar die Urgroßmutter Davids.
+> Die Liste der Völker in Vers 1 erinnert an 5. Mose 7,1–4. Manche dieser Völker gab es damals gar nicht mehr. Esra benutzt die alten Namen, um zu sagen: Es ist dieselbe Gefahr wie früher.
+> „Heiliger Same“ heißt: das Volk, das Gott für sich ausgesondert hat.
+> Esra reagiert mit tiefer Trauer. Das Haareraufen war ein Zeichen äußerster Verzweiflung.
+
+---
+
+### Esras Gebet (Vers 5–15)
+
+<sup>5</sup>Zur Zeit des Abendopfers stand ich von meiner Demütigung auf,
+mit zerrissenem Gewand und Mantel,
+fiel auf meine Knie,
+breitete meine Hände zum HERRN, meinem Gott, aus
+<sup>6</sup>und sagte:
+„Mein Gott, ich schäme mich und erröte,
+mein Gesicht zu dir zu erheben, mein Gott.
+Denn unsere Sünden sind uns über den Kopf gewachsen,
+und unsere Schuld ist bis zum Himmel gewachsen.
+<sup>7</sup>Seit den Tagen unserer Väter sind wir in großer Schuld bis zu diesem Tag.
+Wegen unserer Sünden sind wir, unsere Könige und unsere Priester
+in die Hand der Könige der Länder gegeben worden,
+dem Schwert, der Gefangenschaft, der Plünderung und der Schande preisgegeben,
+wie es heute ist.
+<sup>8</sup>Und jetzt ist uns für einen kleinen Augenblick Gnade geschenkt worden vom HERRN, unserem Gott,
+dass er uns einen Rest übrig gelassen hat, der entkommen ist,
+und uns einen festen Platz an seinem heiligen Ort gegeben hat,
+damit unser Gott unsere Augen hell macht
+und uns ein wenig aufleben lässt in unserer Knechtschaft.
+<sup>9</sup>Denn wir sind Knechte.
+Aber in unserer Knechtschaft hat uns unser Gott nicht verlassen,
+sondern hat uns Güte erwiesen vor den Königen von Persien,
+um uns aufleben zu lassen,
+das Haus unseres Gottes aufzurichten,
+seine Trümmer wieder herzustellen
+und uns eine Mauer in Juda und Jerusalem zu geben.
+<sup>10</sup>Und jetzt, unser Gott, was sollen wir danach sagen?
+Denn wir haben deine Gebote verlassen,
+<sup>11</sup>die du durch deine Diener, die Propheten, geboten hast:
+‚Das Land, in das ihr kommt, um es in Besitz zu nehmen,
+ist ein unreines Land
+durch die Unreinheit der Völker der Länder,
+durch ihre Gräuel,
+mit denen sie es von einem Ende bis zum anderen mit ihrer Unreinheit gefüllt haben.
+<sup>12</sup>Darum gebt eure Töchter nicht ihren Söhnen,
+und nehmt ihre Töchter nicht für eure Söhne.
+Und sucht niemals ihren Frieden und ihr Glück,
+damit ihr stark werdet und das Gute des Landes esst
+und es euren Kindern für immer als Erbe hinterlasst.‘
+<sup>13</sup>Nach allem, was über uns gekommen ist
+wegen unserer bösen Taten und wegen unserer großen Schuld
+– und du, unser Gott, hast uns weniger bestraft, als unsere Sünden verdient hätten,
+und hast uns einen solchen Rest gegeben –,
+<sup>14</sup>sollen wir wieder deine Gebote brechen
+und uns mit den Völkern verschwägern, die diese Gräuel tun?
+Würdest du dann nicht über uns zornig werden, bis du uns vernichtet hättest,
+sodass kein Rest und niemand mehr übrig bliebe, der entkommt?
+<sup>15</sup>HERR, Gott Israels, du bist gerecht.
+Denn wir sind als ein Rest übrig geblieben, der entkommen ist, wie es heute ist.
+Schau, wir stehen vor dir in unserer Schuld.
+Denn wegen dieser Sache kann niemand vor dir bestehen.“
+
+> **Was bedeutet das?**
+> Esras Gebet ist ein Sündenbekenntnis für das ganze Volk. Bemerkenswert: Esra selbst hatte nichts falsch gemacht. Aber er sagt „wir“ und „unsere Schuld“. Er stellt sich solidarisch an die Seite seines Volkes (vgl. Daniel 9,4–19; Nehemia 1,6–7).
+> Er sieht Gottes Gnade: Gott hat das Volk nicht ganz vernichtet. Er hat einen „Rest“ übrig gelassen. Er hat ihnen „einen festen Platz“ gegeben, wörtlich „einen Pflock“, wie ein Zeltpflock, der fest im Boden steckt.
+> Die „Mauer“ in Vers 9 ist wohl ein Bild für Schutz. Die echte Stadtmauer wurde erst später unter Nehemia gebaut.
+> Vers 11–12 ist kein wörtliches Zitat, sondern eine Zusammenfassung mehrerer Stellen aus dem Gesetz (zum Beispiel 5. Mose 7,1–3; 23,7).
+> Esra bittet in diesem Gebet nicht einmal um Vergebung. Er bekennt nur die Schuld und sagt: „Du bist gerecht.“ Er überlässt alles Gott.
+> Wie es weitergeht und wie man diese Geschichte heute verstehen kann, erklärt Kapitel 10.
