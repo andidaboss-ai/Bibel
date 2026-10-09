@@ -82821,3 +82821,356 @@ er wird es nicht finden können.
 > **Was bedeutet das?**
 > Der Prediger hat Tag und Nacht nachgedacht. Sein Ergebnis: Niemand kann Gottes Handeln ganz verstehen, auch der klügste Mensch nicht.
 > Das ist keine Verzweiflung, sondern Demut. Wir müssen nicht alles verstehen, um Gott zu vertrauen. Paulus sagt: „Wie unergründlich sind seine Gerichte und unerforschlich seine Wege!“ (Römer 11,33).
+
+## Prediger – Kapitel 9
+#### Iss dein Brot mit Freude
+
+---
+
+### Alle trifft das gleiche Schicksal (Vers 1–6)
+
+<sup>1</sup>Denn all das nahm ich mir zu Herzen, um all das zu erforschen:
+dass die Gerechten und die Weisen und ihre Werke in Gottes Hand sind.
+Ob es Liebe oder Hass ist, der Mensch weiß es nicht.
+Alles liegt vor ihnen.
+<sup>2</sup>Allen widerfährt alles gleich.
+Es gibt ein Schicksal für den Gerechten und den Gottlosen,
+für den Guten, für den Reinen und den Unreinen,
+für den, der opfert, und für den, der nicht opfert.
+Wie dem Guten, so geht es dem Sünder,
+dem, der schwört, wie dem, der den Schwur fürchtet.
+<sup>3</sup>Das ist ein Übel bei allem, was unter der Sonne getan wird,
+dass alle das gleiche Schicksal trifft.
+Ja, auch das Herz der Menschenkinder ist voll Bosheit,
+und Wahnsinn ist in ihrem Herzen, solange sie leben,
+und danach gehen sie zu den Toten.
+<sup>4</sup>Denn wer mit allen Lebenden verbunden ist, für den gibt es Hoffnung,
+denn ein lebendiger Hund ist besser als ein toter Löwe.
+<sup>5</sup>Denn die Lebenden wissen, dass sie sterben werden,
+aber die Toten wissen gar nichts,
+und sie haben auch keinen Lohn mehr,
+denn die Erinnerung an sie ist vergessen.
+<sup>6</sup>Auch ihre Liebe, ihr Hass und ihr Neid sind längst vergangen,
+und sie haben für immer keinen Anteil mehr
+an allem, was unter der Sonne getan wird.
+
+> **Was bedeutet das?**
+> Vers 1: Alle Menschen sind in Gottes Hand. Aber was die Zukunft bringt, Liebe oder Hass, weiß niemand.
+> Vers 2–3: Ein harter Gedanke: Der Tod trifft alle gleich, gute und böse Menschen.
+> Vers 4: „Ein lebendiger Hund ist besser als ein toter Löwe.“ Hunde waren damals verachtet, Löwen bewundert. Aber das Leben selbst ist kostbar. Solange man lebt, gibt es Hoffnung.
+> Vers 5–6: Der Prediger sieht den Tod nüchtern. Er weiß noch nichts von einer Auferstehung. Später in der Bibel wächst diese Hoffnung (Daniel 12,2; 1. Korinther 15). Christen glauben, dass Jesus den Tod besiegt hat.
+
+---
+
+### Genieße das Leben (Vers 7–10)
+
+<sup>7</sup>Geh, iss dein Brot mit Freude
+und trink deinen Wein mit fröhlichem Herzen,
+denn Gott hat deine Werke schon längst angenommen.
+<sup>8</sup>Deine Kleider sollen immer weiß sein,
+und deinem Kopf soll es nicht an Öl fehlen.
+<sup>9</sup>Genieße das Leben mit der Frau, die du liebst,
+alle Tage deines nichtigen Lebens,
+die er dir unter der Sonne gegeben hat,
+alle deine nichtigen Tage,
+denn das ist dein Anteil im Leben
+und bei deiner Mühe, mit der du dich abmühst unter der Sonne.
+<sup>10</sup>Alles, was deine Hand zu tun findet, das tu mit deiner ganzen Kraft,
+denn im Totenreich, wohin du gehst,
+gibt es kein Werk, keinen Plan, keine Erkenntnis und keine Weisheit.
+
+> **Was bedeutet das?**
+> Einer der schönsten Abschnitte des Buches: Weil das Leben kurz ist, lebe es mit Freude!
+> Vers 7: „Gott hat deine Werke schon angenommen“: Du musst dir Gottes Wohlwollen nicht erst verdienen. Freu dich am Leben.
+> Vers 8: Weiße Kleider und Öl auf dem Kopf waren Zeichen für Feste und Freude. Mach jeden Tag ein bisschen zum Fest.
+> Vers 9: Genieße das Leben mit dem Menschen, den du liebst.
+> Vers 10: Was du tust, tu mit ganzem Herzen. Schieb nichts auf. Die Zeit ist begrenzt.
+
+---
+
+### Zeit und Zufall (Vers 11–12)
+
+<sup>11</sup>Ich sah wieder unter der Sonne,
+dass nicht die Schnellen den Lauf gewinnen
+und nicht die Starken den Kampf,
+auch nicht die Weisen das Brot,
+und nicht die Verständigen den Reichtum,
+und nicht die Geschickten die Gunst,
+sondern Zeit und Zufall treffen sie alle.
+<sup>12</sup>Denn auch der Mensch kennt seine Zeit nicht.
+Wie die Fische, die in einem bösen Netz gefangen werden,
+und wie die Vögel, die in der Schlinge gefangen werden,
+so werden die Menschenkinder gefangen zu einer bösen Zeit,
+wenn sie plötzlich über sie hereinbricht.
+
+> **Was bedeutet das?**
+> Ein sehr ehrlicher Blick: Nicht immer gewinnt der Beste. Manchmal entscheiden Glück und Zufall. Der Schnellste kann stolpern, der Klügste arm bleiben.
+> Vers 12: Unglück kommt oft plötzlich, wie ein Netz über einen Fisch. Niemand kann sich ganz davor schützen.
+> Das ist kein Grund zur Verzweiflung, aber zur Demut. Wir haben nicht alles in der Hand.
+
+---
+
+### Der arme Weise, den niemand kennt (Vers 13–18)
+
+<sup>13</sup>Ich habe auch diese Weisheit unter der Sonne gesehen,
+und sie erschien mir groß:
+<sup>14</sup>Es gab eine kleine Stadt, und wenige Männer waren darin.
+Ein großer König zog gegen sie heran,
+belagerte sie und baute große Belagerungswerke gegen sie.
+<sup>15</sup>In ihr fand sich ein armer, weiser Mann,
+und er rettete die Stadt durch seine Weisheit.
+Doch niemand erinnerte sich an diesen armen Mann.
+<sup>16</sup>Da sagte ich: „Weisheit ist besser als Stärke.“
+Doch die Weisheit des Armen wird verachtet,
+und auf seine Worte hört man nicht.
+<sup>17</sup>Die Worte der Weisen, in Ruhe gehört,
+sind besser als das Geschrei dessen, der unter Toren herrscht.
+<sup>18</sup>Weisheit ist besser als Kriegswaffen,
+aber ein einziger Sünder verdirbt viel Gutes.
+
+> **Was bedeutet das?**
+> Eine kleine Geschichte: Ein armer, weiser Mann rettet seine Stadt vor einem mächtigen Feind. Aber danach vergessen ihn alle.
+> Vers 16: Weisheit ist stärker als Gewalt. Aber leider hört man oft nicht auf die Armen, auch wenn sie klug sind.
+> Vers 17: Leise, kluge Worte sind besser als das laute Geschrei eines Anführers.
+> Vers 18: Weisheit ist besser als Waffen. Aber ein Einziger, der Böses tut, kann viel Gutes zerstören.
+
+## Prediger – Kapitel 10
+#### Ein wenig Torheit
+
+---
+
+### Tote Fliegen im Parfüm (Vers 1–7)
+
+<sup>1</sup>Tote Fliegen lassen das Öl des Salbenmischers stinken.
+So wiegt ein wenig Torheit schwerer als Weisheit und Ehre.
+<sup>2</sup>Das Herz des Weisen ist zu seiner Rechten,
+aber das Herz des Toren zu seiner Linken.
+<sup>3</sup>Ja, auch wenn der Tor auf dem Weg geht,
+versagt sein Verstand,
+und er sagt jedem, dass er ein Tor ist.
+<sup>4</sup>Wenn der Zorn des Herrschers gegen dich aufsteigt,
+dann verlass deinen Platz nicht,
+denn Gelassenheit lässt große Vergehen zur Ruhe kommen.
+<sup>5</sup>Es gibt ein Übel, das ich unter der Sonne gesehen habe,
+eine Art Irrtum, der vom Herrscher ausgeht:
+<sup>6</sup>Torheit wird auf hohe Ehrenplätze gesetzt,
+und die Reichen sitzen auf niedrigen Plätzen.
+<sup>7</sup>Ich habe Diener auf Pferden gesehen
+und Fürsten, die wie Diener zu Fuß auf der Erde gehen.
+
+> **Was bedeutet das?**
+> Vers 1: Ein bekanntes Bild: Schon eine tote Fliege kann ein teures Parfüm verderben. So kann schon eine kleine Dummheit einen guten Ruf zerstören.
+> Vers 2: „Rechts“ stand damals für das Gute und Geschickte, „links“ für das Ungeschickte. Das ist ein Bild aus der Sprache, kein Urteil über Linkshänder.
+> Vers 3: Ein Tor verrät sich selbst, sobald er auf die Straße geht.
+> Vers 4: Wenn dein Chef wütend auf dich ist, lauf nicht weg. Bleib ruhig. Gelassenheit kann viel Ärger beruhigen.
+> Vers 6–7: Manchmal steht die Welt auf dem Kopf: Unfähige bekommen hohe Posten, und Fähige werden übergangen.
+
+---
+
+### Jede Arbeit hat ihre Gefahr (Vers 8–11)
+
+<sup>8</sup>Wer eine Grube gräbt, kann hineinfallen,
+und wer eine Mauer durchbricht, den kann eine Schlange beißen.
+<sup>9</sup>Wer Steine bricht, kann sich an ihnen verletzen.
+Wer Holz spaltet, kann sich dabei in Gefahr bringen.
+<sup>10</sup>Wenn die Axt stumpf ist und man die Schneide nicht schärft,
+dann muss man mehr Kraft aufwenden,
+aber Geschick bringt Erfolg.
+<sup>11</sup>Wenn die Schlange beißt, bevor sie beschworen ist,
+dann nützt dem Beschwörer seine Zunge nichts.
+
+> **Was bedeutet das?**
+> Jede Arbeit hat ihre Risiken. Man muss vorsichtig sein.
+> Vers 10: Ein praktischer Rat: Schärfe zuerst die Axt! Wer klug vorbereitet, spart viel Kraft. Weisheit macht die Arbeit leichter.
+> Vers 11: Wer zu spät kommt, dem nützt sein Können nichts. Es kommt auf den richtigen Zeitpunkt an.
+
+---
+
+### Die Worte des Toren (Vers 12–15)
+
+<sup>12</sup>Die Worte aus dem Mund des Weisen sind voller Anmut,
+aber den Toren verschlingen seine eigenen Lippen.
+<sup>13</sup>Der Anfang der Worte seines Mundes ist Torheit,
+und das Ende seiner Rede ist schlimmer Wahnsinn.
+<sup>14</sup>Auch macht der Tor viele Worte.
+Der Mensch weiß nicht, was sein wird.
+Und was nach ihm sein wird, wer kann es ihm sagen?
+<sup>15</sup>Die Mühe der Toren macht jeden von ihnen müde,
+denn er weiß nicht einmal, wie man in die Stadt geht.
+
+> **Was bedeutet das?**
+> Der Tor redet viel, aber es kommt nichts Gutes dabei heraus. Er redet über die Zukunft, als ob er sie kennen würde.
+> Vers 15: Ein humorvoller Satz: Der Tor ist so unfähig, dass er nicht einmal den Weg in die Stadt findet. Er müht sich ab und kommt nirgends an.
+
+---
+
+### Gute und schlechte Herrscher (Vers 16–20)
+
+<sup>16</sup>Weh dir, Land, wenn dein König ein Kind ist
+und deine Fürsten schon am Morgen schlemmen!
+<sup>17</sup>Glücklich bist du, Land, wenn dein König ein Sohn von Edlen ist
+und deine Fürsten zur rechten Zeit essen,
+um Kraft zu gewinnen und nicht, um sich zu betrinken!
+<sup>18</sup>Durch Faulheit senkt sich das Dachgebälk,
+und durch untätige Hände tropft es ins Haus.
+<sup>19</sup>Ein Festmahl wird zum Lachen gemacht,
+und Wein erfreut das Leben,
+und das Geld ist die Antwort auf alles.
+<sup>20</sup>Verfluche den König nicht, auch nicht in deinen Gedanken,
+und verfluche den Reichen nicht in deinem Schlafzimmer,
+denn ein Vogel des Himmels könnte deine Stimme forttragen,
+und was Flügel hat, könnte die Sache weitersagen.
+
+> **Was bedeutet das?**
+> Vers 16–17: Ein Land leidet, wenn seine Anführer unreif sind und nur feiern. Ein Land ist glücklich, wenn seine Anführer verantwortungsvoll handeln.
+> Vers 18: Wer sich nicht um sein Haus kümmert, dem regnet es bald durchs Dach. Das gilt auch für einen Staat.
+> Vers 19: Ein ironischer Satz: Manche denken, Geld löst alle Probleme. Der Prediger beschreibt diese Haltung, er lobt sie nicht.
+> Vers 20: „Ein Vögelchen hat es mir gezwitschert“: Diese Redewendung kommt von hier. Sei vorsichtig mit dem, was du über Mächtige sagst. Es kann herauskommen. Das gilt heute besonders für Nachrichten und Beiträge im Internet.
+
+## Prediger – Kapitel 11
+#### Wirf dein Brot über das Wasser
+
+---
+
+### Wage etwas! (Vers 1–6)
+
+<sup>1</sup>Wirf dein Brot über das Wasser,
+denn nach vielen Tagen wirst du es wiederfinden.
+<sup>2</sup>Gib einen Anteil an sieben, ja sogar an acht,
+denn du weißt nicht, welches Unglück über die Erde kommen wird.
+<sup>3</sup>Wenn die Wolken voll Regen sind,
+dann entleeren sie sich auf die Erde.
+Und wenn ein Baum nach Süden oder nach Norden fällt,
+dann bleibt er an dem Ort liegen, wo der Baum hingefallen ist.
+<sup>4</sup>Wer auf den Wind achtet, wird nicht säen,
+und wer auf die Wolken schaut, wird nicht ernten.
+<sup>5</sup>So wie du nicht weißt, welchen Weg der Wind nimmt
+und wie die Knochen im Leib der Schwangeren wachsen,
+so kennst du auch nicht das Werk Gottes, der alles tut.
+<sup>6</sup>Am Morgen säe deinen Samen,
+und am Abend lass deine Hand nicht ruhen,
+denn du weißt nicht, was gelingen wird, ob dies oder das,
+oder ob beides gleich gut wird.
+
+> **Was bedeutet das?**
+> Vers 1: „Wirf dein Brot über das Wasser“: Ein rätselhaftes Bild. Viele verstehen es als Aufforderung zur Großzügigkeit: Gib, ohne gleich etwas zurückzuerwarten. Es wird später zu dir zurückkommen. Andere denken an den Seehandel: Wage etwas, schick deine Waren übers Meer.
+> Vers 2: Teile mit vielen, denn du weißt nicht, wann du selbst Hilfe brauchst. Oder: Verteile dein Risiko.
+> Vers 4: Wer immer auf das perfekte Wetter wartet, sät nie und erntet nie. Wer alles absichern will, tut am Ende nichts.
+> Vers 5: Wir verstehen nicht einmal, wie ein Kind im Mutterleib wächst. Wie sollten wir Gottes ganzes Handeln verstehen?
+> Vers 6: Darum: Tu, was du kannst, morgens und abends. Was daraus wird, liegt in Gottes Hand.
+
+---
+
+### Freu dich an deiner Jugend (Vers 7–10)
+
+<sup>7</sup>Wahrhaftig, das Licht ist süß,
+und es ist angenehm für die Augen, die Sonne zu sehen.
+<sup>8</sup>Ja, wenn ein Mensch viele Jahre lebt,
+dann soll er sich an allen freuen,
+aber er soll an die Tage der Finsternis denken,
+denn es werden viele sein.
+Alles, was kommt, ist nichtig.
+<sup>9</sup>Freu dich, junger Mann, in deiner Jugend,
+und dein Herz soll dich fröhlich machen in den Tagen deiner Jugend.
+Geh auf den Wegen deines Herzens
+und nach dem, was deine Augen sehen.
+Aber wisse, dass Gott dich für all das vor Gericht bringen wird.
+<sup>10</sup>Darum entferne den Kummer aus deinem Herzen
+und halte das Böse von deinem Leib fern,
+denn Jugend und Morgenröte des Lebens sind nichtig.
+
+> **Was bedeutet das?**
+> Vers 7: Ein schöner, einfacher Satz: Das Licht ist süß. Es ist schön, die Sonne zu sehen. Das Leben ist ein Geschenk.
+> Vers 8: Freu dich an jedem Jahr. Aber vergiss nicht: Es kommen auch dunkle Tage, Alter und Tod.
+> Vers 9: Eine Ermutigung an junge Menschen: Genieße deine Jugend! Folge deinem Herzen! Aber denk daran: Du bist Gott verantwortlich für das, was du tust. Freiheit und Verantwortung gehören zusammen.
+> Vers 10: Die Jugend vergeht schnell wie die Morgenröte. Darum: Lass dir die Freude nicht von Sorgen rauben.
+
+## Prediger – Kapitel 12
+#### Denk an deinen Schöpfer
+
+---
+
+### Bevor die bösen Tage kommen (Vers 1–8)
+
+<sup>1</sup>Denk auch an deinen Schöpfer in den Tagen deiner Jugend,
+bevor die bösen Tage kommen
+und die Jahre sich nähern, von denen du sagen wirst:
+„Ich habe keine Freude an ihnen.“
+<sup>2</sup>Bevor die Sonne, das Licht, der Mond und die Sterne dunkel werden
+und die Wolken nach dem Regen wiederkommen,
+<sup>3</sup>an dem Tag, an dem die Wächter des Hauses zittern
+und die starken Männer sich krümmen
+und die Müllerinnen aufhören, weil sie wenige geworden sind,
+und die, die aus den Fenstern schauen, dunkel werden,
+<sup>4</sup>und die Türen zur Straße geschlossen werden,
+wenn das Geräusch der Mühle leise wird
+und man beim Ruf eines Vogels aufsteht
+und alle Töchter des Gesangs leise werden.
+<sup>5</sup>Ja, sie werden sich vor der Höhe fürchten,
+und Schrecken werden auf dem Weg sein.
+Und der Mandelbaum wird blühen,
+und die Heuschrecke wird zur Last,
+und die Lust vergeht,
+denn der Mensch geht in sein ewiges Haus,
+und die Trauernden gehen auf der Straße umher.
+<sup>6</sup>Bevor der silberne Strick zerreißt
+oder die goldene Schale zerbricht
+oder der Krug an der Quelle zerbricht
+oder das Rad am Brunnen zerbricht
+<sup>7</sup>und der Staub zur Erde zurückkehrt, wie er gewesen ist,
+und der Geist zu Gott zurückkehrt, der ihn gegeben hat.
+<sup>8</sup>„Nichtigkeit der Nichtigkeiten“, sagt der Prediger.
+„Alles ist nichtig!“
+
+> **Was bedeutet das?**
+> Vers 1: „Denk an deinen Schöpfer, solange du jung bist.“ Warte nicht, bis du alt und krank bist.
+> Vers 2–6 sind ein großes Gedicht über das Altwerden. Die Bilder sind sehr poetisch. Viele Ausleger deuten sie so:
+> Die „Wächter des Hauses“, die zittern, sind die Hände. Die „starken Männer“, die sich krümmen, sind die Beine. Die „Müllerinnen“, die wenige werden, sind die Zähne. Die, „die aus den Fenstern schauen“ und dunkel werden, sind die Augen. Das leise Geräusch der Mühle ist das schlechte Hören. Man wacht früh auf, schon wenn ein Vogel singt. Man fürchtet sich vor Höhen und vor dem Fallen. Der weiß blühende Mandelbaum sind die weißen Haare. Selbst eine kleine Heuschrecke wird zur Last.
+> Vers 6: Dann zerreißt der „silberne Strick“, an dem die goldene Lampe hängt. Der Krug am Brunnen zerbricht. Das sind Bilder für den Tod: Das Leben zerbricht wie ein kostbares Gefäß.
+> Vers 7: Der Körper wird wieder zu Staub, und der Geist, der Lebensatem, kehrt zu Gott zurück, der ihn gegeben hat (vgl. 1. Mose 2,7).
+> Vers 8: Das Buch endet, wie es begonnen hat: „Alles ist nichtig“, alles ist ein Hauch.
+> Das Alter hat auch seine Würde und Schönheit. Dieser Text will nicht das Alter schlecht machen, sondern dazu ermutigen, die Zeit gut zu nutzen und Gott früh zu suchen.
+
+---
+
+### Das Schlusswort (Vers 9–14)
+
+<sup>9</sup>Außerdem, weil der Prediger weise war,
+lehrte er das Volk weiterhin Erkenntnis.
+Ja, er dachte nach, forschte und ordnete viele Sprüche.
+<sup>10</sup>Der Prediger suchte gefällige Worte zu finden
+und das, was aufrichtig geschrieben war, Worte der Wahrheit.
+<sup>11</sup>Die Worte der Weisen sind wie Stacheln,
+und wie fest eingeschlagene Nägel sind die Worte der Sammlungsmeister,
+die von einem einzigen Hirten gegeben sind.
+<sup>12</sup>Außerdem, mein Sohn, lass dich warnen:
+Des vielen Büchermachens ist kein Ende,
+und viel Studieren ermüdet den Leib.
+<sup>13</sup>Das ist das Ende der Sache. Alles ist gehört.
+Fürchte Gott und halte seine Gebote,
+denn das gilt für jeden Menschen.
+<sup>14</sup>Denn Gott wird jedes Werk vor Gericht bringen,
+mit allem, was verborgen ist,
+es sei gut oder böse.
+
+> **Was bedeutet das?**
+> Vers 9–12: Hier spricht jemand über den Prediger, vielleicht ein Schüler. Er lobt ihn: Er war weise, hat geforscht und Sprüche gesammelt.
+> Vers 11: Die Worte der Weisen sind wie Stacheln, mit denen man Rinder antreibt. Sie piksen und bringen uns in Bewegung. Und sie halten fest wie Nägel. Der „eine Hirte“ ist wohl Gott selbst, von dem alle wahre Weisheit kommt.
+> Vers 12: Ein Satz, über den viele Studenten schmunzeln: „Des vielen Büchermachens ist kein Ende, und viel Studieren ermüdet.“
+> Vers 13–14 sind der Schluss des ganzen Buches: „Fürchte Gott und halte seine Gebote.“ Nach allen Fragen und Zweifeln bleibt das Wichtigste: Gott ernst nehmen und nach seinem Willen leben. Und: Gott sieht alles, auch das Verborgene.
+
+---
+
+### Rückblick: Was haben wir im Buch Prediger gelesen?
+
+> **Was bedeutet das?**
+> **Ein ehrliches Buch:** Der Prediger schaut sich das Leben „unter der Sonne“ ganz genau an. Er beschönigt nichts. Er sieht Ungerechtigkeit, Tod, Vergänglichkeit und Zufall.
+> **Alles ist ein Hauch:** Sein Leitwort „Hevel“ heißt Hauch oder Windhauch. Reichtum, Erfolg, Weisheit, Vergnügen: Nichts davon bleibt. Alles verschwindet wie Atem an einem kalten Tag.
+> **Der große Versuch:** Er hat alles ausprobiert: Wissen, Vergnügen, Besitz, Arbeit. Nichts hat ihm den Sinn des Lebens gegeben.
+> **Und doch: Freude!** Immer wieder sagt er: Iss dein Brot mit Freude, trink deinen Wein, genieße das Leben mit den Menschen, die du liebst. Das ist ein Geschenk Gottes (2,24; 3,13; 5,18; 9,7–9).
+> **Alles hat seine Zeit:** Das Leben hat Rhythmen. Weisheit heißt, zu erkennen, was jetzt dran ist (Kapitel 3).
+> **Die Ewigkeit im Herzen:** Gott hat uns eine Sehnsucht nach Ewigkeit ins Herz gelegt. Darum stellt uns nichts Vergängliches ganz zufrieden (3,11).
+> **Fragen ohne Antwort:** Der Prediger fragt, was nach dem Tod kommt, und findet keine sichere Antwort. Die Bibel lässt diese Fragen stehen. Spätere Bücher geben mehr Hoffnung. Christen glauben an die Auferstehung durch Jesus Christus.
+> **Der Schluss:** „Fürchte Gott und halte seine Gebote“ (12,13). Wenn alles vergeht, bleibt Gott.
+> **Für wen ist das Buch?** Für alle, die zweifeln, fragen und suchen. Es zeigt: Auch diese Gedanken haben Platz in der Bibel. Im Judentum liest man es am Laubhüttenfest, dem fröhlichsten Fest des Jahres.
+> **Wie geht es weiter?** Als Nächstes kommt das Hohelied, ein Buch voller Liebesgedichte zwischen einer Frau und einem Mann. Es feiert die Liebe als Geschenk Gottes.
