@@ -73117,3 +73117,424 @@ aber die Hörner der Gerechten sollen erhoben werden.
 > **Was bedeutet das?**
 > Der Beter verspricht, Gott für immer zu loben.
 > Vers 10: Wer hier spricht, ist wohl wieder Gott selbst oder der König in seinem Auftrag. Die Macht der Gottlosen wird gebrochen, die der Gerechten wird gestärkt.
+
+## Psalm 76
+#### Gott zerbricht die Waffen
+
+---
+
+### Gott ist bekannt in Juda (Vers 1–3)
+
+<sup>1</sup>Für den Chorleiter. Mit Saiteninstrumenten. Ein Psalm von Asaf. Ein Lied.
+In Juda ist Gott bekannt.
+Sein Name ist groß in Israel.
+<sup>2</sup>Auch in Salem ist sein Zelt,
+seine Wohnung in Zion.
+<sup>3</sup>Dort zerbrach er die feurigen Pfeile des Bogens,
+den Schild und das Schwert und die Kriegswaffen.
+Sela.
+
+> **Was bedeutet das?**
+> „Salem“ ist ein alter Name für Jerusalem (vgl. 1. Mose 14,18). Er erinnert an das Wort „Schalom“, Frieden.
+> In der Stadt des Friedens zerbricht Gott die Waffen. Ein Bild, das auch heute Hoffnung gibt.
+> Viele denken bei diesem Psalm an die Rettung Jerusalems vor den Assyrern (2. Könige 19,35).
+
+---
+
+### Die Krieger schlafen (Vers 4–6)
+
+<sup>4</sup>Herrlich bist du und prächtig,
+mehr als die Berge voller Beute.
+<sup>5</sup>Die tapferen Männer sind ausgeplündert.
+Sie sind in ihren letzten Schlaf gesunken.
+Keiner der Krieger kann seine Hände heben.
+<sup>6</sup>Vor deinem Schelten, Gott Jakobs,
+sinken Wagen und Pferd in tiefen Schlaf.
+
+> **Was bedeutet das?**
+> Die Feinde, die gegen Jerusalem zogen, sind besiegt. Sie liegen da wie Schlafende, die nie mehr aufwachen.
+> Gott braucht keine Waffen. Ein Wort von ihm genügt.
+
+---
+
+### Gott steht auf zum Gericht (Vers 7–10)
+
+<sup>7</sup>Du, ja du, bist furchterregend.
+Wer kann vor dir bestehen, wenn du zornig bist?
+<sup>8</sup>Vom Himmel hast du das Urteil verkündet.
+Die Erde fürchtete sich und wurde still,
+<sup>9</sup>als Gott aufstand zum Gericht,
+um alle Elenden der Erde zu retten.
+Sela.
+<sup>10</sup>Gewiss, der Zorn der Menschen muss dich loben.
+Die, die deinem Zorn entkommen, werden zurückgehalten.
+
+> **Was bedeutet das?**
+> Vers 9 zeigt das Ziel von Gottes Gericht: „um alle Elenden der Erde zu retten“. Gott richtet nicht aus Lust an Strafe, sondern um die Schwachen zu schützen.
+> Vers 10 ist im Hebräischen schwer zu verstehen. Gemeint ist wohl: Selbst der Zorn der Feinde dient am Ende dazu, Gottes Größe zu zeigen.
+
+---
+
+### Bringt ihm Geschenke (Vers 11–12)
+
+<sup>11</sup>Legt dem HERRN, eurem Gott, Gelübde ab und erfüllt sie!
+Alle um ihn herum sollen dem Furchterregenden Geschenke bringen.
+<sup>12</sup>Er bricht den Hochmut der Fürsten.
+Er ist furchterregend für die Könige der Erde.
+
+> **Was bedeutet das?**
+> Wer Gottes Hilfe erfahren hat, soll ihm danken und seine Versprechen halten.
+> „Er bricht den Hochmut der Fürsten“: wörtlich „schneidet den Geist ab“. Auch die Mächtigsten der Welt müssen sich vor Gott verantworten.
+
+## Psalm 77
+#### Ich denke an die alten Zeiten
+
+---
+
+### In der Nacht ohne Trost (Vers 1–4)
+
+<sup>1</sup>Für den Chorleiter. Für Jedutun. Ein Psalm von Asaf.
+Mein Schrei steigt zu Gott auf!
+Ja, ich schreie zu Gott um Hilfe, damit er mich hört.
+<sup>2</sup>Am Tag meiner Not suchte ich den Herrn.
+In der Nacht war meine Hand ausgestreckt und wurde nicht müde.
+Meine Seele wollte sich nicht trösten lassen.
+<sup>3</sup>Ich denke an Gott und stöhne.
+Ich klage, und mein Geist verzagt.
+Sela.
+<sup>4</sup>Du hältst meine Augenlider offen.
+Ich bin so verstört, dass ich nicht reden kann.
+
+> **Was bedeutet das?**
+> Der Beter ist in tiefer Not. Er betet die ganze Nacht mit ausgestreckten Händen. Er kann nicht schlafen.
+> „Meine Seele wollte sich nicht trösten lassen“: Manchmal ist der Schmerz so groß, dass kein Trost hilft. Die Bibel nimmt das ernst.
+> Vers 3: Sogar der Gedanke an Gott tut weh, weil Gott so fern scheint.
+> Wenn du solche Nächte kennst: Du bist nicht allein. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, rund um die Uhr.
+
+---
+
+### Hat Gott vergessen, gnädig zu sein? (Vers 5–9)
+
+<sup>5</sup>Ich habe an die Tage der Vorzeit gedacht,
+an die Jahre längst vergangener Zeiten.
+<sup>6</sup>Ich erinnere mich an mein Lied in der Nacht.
+Ich denke in meinem Herzen nach,
+und mein Geist forscht eifrig:
+<sup>7</sup>„Wird der Herr uns für immer verstoßen?
+Wird er nie mehr gnädig sein?
+<sup>8</sup>Ist seine Güte für immer vorbei?
+Hat seine Zusage ein Ende für alle Generationen?
+<sup>9</sup>Hat Gott vergessen, gnädig zu sein?
+Hat er im Zorn sein Erbarmen verschlossen?“
+Sela.
+
+> **Was bedeutet das?**
+> Der Beter erinnert sich an früher, als er nachts noch Lieder für Gott sang. Damals war alles gut.
+> Dann stellt er sechs schwere Fragen: Hat Gott uns für immer verlassen? Ist seine Liebe vorbei? Hat er vergessen, gnädig zu sein?
+> Das sind Fragen, die viele Menschen in Krisen stellen. Die Bibel erlaubt diese Fragen.
+
+---
+
+### Ich will an deine Wunder denken (Vers 10–15)
+
+<sup>10</sup>Da dachte ich: „Darauf will ich mich berufen:
+auf die Jahre der rechten Hand des Höchsten.“
+<sup>11</sup>Ich will an die Taten Jahs denken.
+Ja, ich will an deine Wunder von früher denken.
+<sup>12</sup>Ich will auch über all dein Werk nachsinnen
+und über deine Taten nachdenken.
+<sup>13</sup>Gott, dein Weg ist im Heiligtum.
+Welcher Gott ist so groß wie Gott?
+<sup>14</sup>Du bist der Gott, der Wunder tut.
+Du hast deine Stärke unter den Völkern bekannt gemacht.
+<sup>15</sup>Du hast dein Volk mit deinem Arm erlöst,
+die Kinder Jakobs und Josefs.
+Sela.
+
+> **Was bedeutet das?**
+> Vers 10 ist die Wende. Der Beter hört auf, nur um sich selbst und seinen Schmerz zu kreisen. Er erinnert sich bewusst an das, was Gott früher getan hat.
+> Vers 10 ist im Hebräischen schwer zu übersetzen. Andere übersetzen: „Das ist mein Schmerz, dass die rechte Hand des Höchsten sich geändert hat.“ Die englische Vorlage versteht ihn als Wende zum Vertrauen.
+> „Jah“ ist eine Kurzform des Gottesnamens.
+> Die Erinnerung an Gottes Taten gibt Kraft für die Gegenwart.
+
+---
+
+### Dein Weg ging durch das Meer (Vers 16–20)
+
+<sup>16</sup>Die Wasser sahen dich, Gott.
+Die Wasser sahen dich und bebten.
+Auch die Tiefen zitterten.
+<sup>17</sup>Die Wolken gossen Wasser aus.
+Der Himmel ließ den Donner erschallen.
+Auch deine Pfeile blitzten umher.
+<sup>18</sup>Die Stimme deines Donners war im Wirbelsturm.
+Die Blitze erleuchteten die Welt.
+Die Erde zitterte und bebte.
+<sup>19</sup>Dein Weg ging durch das Meer,
+deine Pfade durch große Wasser.
+Deine Fußspuren waren nicht zu erkennen.
+<sup>20</sup>Du hast dein Volk geführt wie eine Herde
+durch die Hand von Mose und Aaron.
+
+> **Was bedeutet das?**
+> Der Beter erinnert sich an die größte Rettung: den Durchzug durch das Schilfmeer (2. Mose 14–15).
+> Vers 19 ist ein tiefer Gedanke: „Deine Fußspuren waren nicht zu erkennen.“ Gott hat sein Volk durch das Meer geführt, aber man sah seine Spuren nicht. Auch heute ist Gottes Weg oft verborgen. Man sieht ihn nicht, aber er führt trotzdem.
+> Vers 20: Der Psalm endet still und tröstlich: Gott führt sein Volk wie ein Hirte seine Herde.
+
+## Psalm 78
+#### Erzählt es euren Kindern
+
+---
+
+### Die Geschichte weitergeben (Vers 1–8)
+
+<sup>1</sup>Ein Lehrgedicht von Asaf.
+Hör auf meine Lehre, mein Volk!
+Neigt euer Ohr zu den Worten meines Mundes!
+<sup>2</sup>Ich will meinen Mund zu einem Gleichnis öffnen.
+Ich will Rätsel aus alter Zeit aussprechen,
+<sup>3</sup>die wir gehört und gekannt haben
+und die unsere Väter uns erzählt haben.
+<sup>4</sup>Wir wollen sie ihren Kindern nicht verbergen,
+sondern der kommenden Generation erzählen
+von den Ruhmestaten des HERRN, seiner Stärke
+und seinen Wundern, die er getan hat.
+<sup>5</sup>Denn er hat ein Zeugnis in Jakob aufgerichtet
+und eine Weisung in Israel festgesetzt,
+die er unseren Vätern geboten hat,
+damit sie sie ihren Kindern bekannt machen,
+<sup>6</sup>damit die kommende Generation es weiß,
+die Kinder, die noch geboren werden,
+und sie aufstehen und es ihren Kindern erzählen,
+<sup>7</sup>damit sie ihre Hoffnung auf Gott setzen
+und die Taten Gottes nicht vergessen,
+sondern seine Gebote halten
+<sup>8</sup>und nicht werden wie ihre Väter,
+eine störrische und widerspenstige Generation,
+eine Generation, deren Herz nicht treu war
+und deren Geist nicht fest bei Gott blieb.
+
+> **Was bedeutet das?**
+> Psalm 78 ist der zweitlängste Psalm (nach Psalm 119). Er erzählt die Geschichte Israels vom Auszug aus Ägypten bis zu König David.
+> Das Ziel steht am Anfang: Die Geschichte soll an die Kinder weitergegeben werden, damit sie aus den Fehlern der Vorfahren lernen und Gott vertrauen.
+> Vers 2: Matthäus zitiert diesen Vers und bezieht ihn auf die Gleichnisse von Jesus (Matthäus 13,35).
+> Der Psalm ist ehrlich: Er erzählt nicht nur von Gottes Wundern, sondern auch von der Untreue des Volkes. Man lernt aus beidem.
+
+---
+
+### Sie vergaßen seine Taten (Vers 9–16)
+
+<sup>9</sup>Die Söhne Ephraims, bewaffnet und mit Bogen ausgerüstet,
+wandten sich um am Tag der Schlacht.
+<sup>10</sup>Sie hielten den Bund Gottes nicht
+und weigerten sich, nach seiner Weisung zu leben.
+<sup>11</sup>Sie vergaßen seine Taten,
+seine Wunder, die er sie hatte sehen lassen.
+<sup>12</sup>Er tat Wunder vor den Augen ihrer Väter
+im Land Ägypten, im Gebiet von Zoan.
+<sup>13</sup>Er teilte das Meer und ließ sie hindurchziehen.
+Er ließ das Wasser stehen wie einen Haufen.
+<sup>14</sup>Am Tag führte er sie mit einer Wolke
+und die ganze Nacht mit einem Feuerschein.
+<sup>15</sup>Er spaltete Felsen in der Wüste
+und gab ihnen reichlich zu trinken wie aus den Tiefen.
+<sup>16</sup>Er ließ auch Bäche aus dem Felsen hervorkommen
+und Wasser wie Ströme herabfließen.
+
+> **Was bedeutet das?**
+> Ephraim war der größte Stamm im Norden Israels. Wann genau die Ephraimiten in der Schlacht davonliefen, sagt der Psalm nicht. Ephraim steht hier für das Nordreich, das Gott untreu wurde.
+> Zoan (griechisch Tanis) war eine Stadt im Nildelta in Ägypten.
+> Vers 13–16 erzählen die Wunder beim Auszug: das geteilte Meer (2. Mose 14), die Wolken- und Feuersäule (2. Mose 13,21) und das Wasser aus dem Felsen (2. Mose 17; 4. Mose 20).
+> Vers 13: „Wie einen Haufen“: Das Wasser türmte sich auf und stand wie eine Mauer (vgl. 2. Mose 15,8).
+
+---
+
+### Kann Gott einen Tisch in der Wüste decken? (Vers 17–22)
+
+<sup>17</sup>Doch sie sündigten weiter gegen ihn
+und lehnten sich in der Wüste gegen den Höchsten auf.
+<sup>18</sup>Sie stellten Gott in ihrem Herzen auf die Probe,
+indem sie Speise nach ihrer Gier verlangten.
+<sup>19</sup>Ja, sie redeten gegen Gott.
+Sie sagten: „Kann Gott in der Wüste einen Tisch decken?
+<sup>20</sup>Schau, er hat den Felsen geschlagen, sodass Wasser hervorsprudelte
+und Bäche überflossen.
+Kann er auch Brot geben?
+Wird er seinem Volk Fleisch verschaffen?“
+<sup>21</sup>Darum hörte es der HERR und wurde zornig.
+Ein Feuer entbrannte gegen Jakob,
+und auch Zorn stieg gegen Israel auf,
+<sup>22</sup>weil sie Gott nicht glaubten
+und nicht auf seine Rettung vertrauten.
+
+> **Was bedeutet das?**
+> Obwohl Gott so viele Wunder getan hatte, zweifelte das Volk immer wieder. Sie fragten spöttisch: „Kann Gott in der Wüste einen Tisch decken?“
+> Das eigentliche Problem war nicht der Hunger, sondern der Unglaube: „Sie vertrauten nicht auf seine Rettung.“
+
+---
+
+### Brot der Engel (Vers 23–31)
+
+<sup>23</sup>Doch er gebot den Wolken droben
+und öffnete die Türen des Himmels.
+<sup>24</sup>Er ließ Manna auf sie regnen, damit sie zu essen hatten,
+und gab ihnen Speise vom Himmel.
+<sup>25</sup>Der Mensch aß das Brot der Engel.
+Er schickte ihnen Speise in Fülle.
+<sup>26</sup>Er ließ den Ostwind am Himmel wehen.
+Durch seine Macht führte er den Südwind herbei.
+<sup>27</sup>Er ließ auch Fleisch auf sie regnen wie Staub,
+geflügelte Vögel wie den Sand der Meere.
+<sup>28</sup>Er ließ sie mitten in ihr Lager fallen,
+rings um ihre Wohnungen.
+<sup>29</sup>So aßen sie und wurden reichlich satt.
+Er gab ihnen, was sie begehrten.
+<sup>30</sup>Sie ließen nicht von ihrer Gier ab.
+Ihre Speise war noch in ihrem Mund,
+<sup>31</sup>als der Zorn Gottes gegen sie aufstieg,
+einige ihrer Stärksten tötete
+und die jungen Männer Israels niederstreckte.
+
+> **Was bedeutet das?**
+> Trotz ihres Unglaubens gab Gott ihnen zu essen: Manna, das „Brot vom Himmel“ (2. Mose 16), und Wachteln (4. Mose 11).
+> „Brot der Engel“: Brot, das vom Himmel kommt. Jesus nennt sich später „das wahre Brot vom Himmel“ (Johannes 6,31–35).
+> Vers 30–31 erinnern an die Geschichte in 4. Mose 11,33: Die Gier des Volkes wurde bestraft. Der Ort hieß danach „Gräber der Gier“.
+
+---
+
+### Sie suchten Gott nur in der Not (Vers 32–39)
+
+<sup>32</sup>Trotz all dem sündigten sie weiter
+und glaubten nicht an seine Wunder.
+<sup>33</sup>Darum ließ er ihre Tage im Nichts vergehen
+und ihre Jahre in Schrecken.
+<sup>34</sup>Wenn er sie tötete, dann fragten sie nach ihm.
+Sie kehrten um und suchten Gott eifrig.
+<sup>35</sup>Sie erinnerten sich, dass Gott ihr Fels war,
+Gott, der Höchste, ihr Erlöser.
+<sup>36</sup>Aber sie schmeichelten ihm mit ihrem Mund
+und belogen ihn mit ihrer Zunge.
+<sup>37</sup>Denn ihr Herz war nicht fest bei ihm,
+und sie waren seinem Bund nicht treu.
+<sup>38</sup>Er aber war barmherzig, vergab die Schuld
+und vernichtete sie nicht.
+Ja, oft wandte er seinen Zorn ab
+und ließ nicht seinen ganzen Grimm erwachen.
+<sup>39</sup>Er dachte daran, dass sie nur Fleisch sind,
+ein Hauch, der vergeht und nicht wiederkommt.
+
+> **Was bedeutet das?**
+> Ein Muster wiederholt sich: Wenn es schlecht ging, suchten sie Gott. Wenn es wieder gut ging, vergaßen sie ihn. Ihre Reue war oft nur Gerede, nicht ehrlich gemeint.
+> Vers 38–39 ist der Kern des Psalms: Trotz aller Untreue blieb Gott barmherzig. Er vergab immer wieder. Er wusste, wie schwach Menschen sind: „nur Fleisch, ein Hauch“.
+
+---
+
+### Die Zeichen in Ägypten (Vers 40–51)
+
+<sup>40</sup>Wie oft lehnten sie sich in der Wüste gegen ihn auf
+und kränkten ihn in der Einöde!
+<sup>41</sup>Immer wieder stellten sie Gott auf die Probe
+und reizten den Heiligen Israels.
+<sup>42</sup>Sie dachten nicht an seine Hand,
+an den Tag, an dem er sie vom Feind erlöste,
+<sup>43</sup>wie er seine Zeichen in Ägypten tat,
+seine Wunder im Gebiet von Zoan.
+<sup>44</sup>Er verwandelte ihre Flüsse in Blut
+und ihre Bäche, sodass sie nicht trinken konnten.
+<sup>45</sup>Er schickte Schwärme von Fliegen unter sie, die sie fraßen,
+und Frösche, die sie verdarben.
+<sup>46</sup>Er gab auch ihren Ertrag der Raupe
+und ihre Arbeit der Heuschrecke.
+<sup>47</sup>Er zerstörte ihre Weinstöcke mit Hagel
+und ihre Maulbeerfeigenbäume mit Frost.
+<sup>48</sup>Er gab auch ihr Vieh dem Hagel preis
+und ihre Herden den glühenden Blitzen.
+<sup>49</sup>Er warf auf sie die Glut seines Zorns,
+Grimm, Wut und Bedrängnis,
+eine Schar von Unheilsengeln.
+<sup>50</sup>Er bahnte seinem Zorn einen Weg.
+Er verschonte ihre Seele nicht vor dem Tod,
+sondern gab ihr Leben der Pest preis
+<sup>51</sup>und schlug alle Erstgeborenen in Ägypten,
+die Erstlinge ihrer Kraft in den Zelten Hams.
+
+> **Was bedeutet das?**
+> Der Psalm erinnert an die Plagen in Ägypten (2. Mose 7–12): Blut, Frösche, Fliegen, Heuschrecken, Hagel, Viehpest und zuletzt der Tod der Erstgeborenen.
+> „Unheilsengel“: Engel, die Gottes Gericht ausführen.
+> „Die Zelte Hams“: Ägypten. Nach 1. Mose 10,6 stammte Ägypten (Mizrajim) von Ham ab, einem Sohn Noahs.
+> Diese Erzählung ist für heutige Leser schwer, besonders der Tod der Kinder. Die Bibel erzählt es als Gericht über den Pharao, der Israel nicht freilassen wollte und selbst die Kinder Israels töten ließ (2. Mose 1,22).
+
+---
+
+### Er führte sie wie Schafe (Vers 52–55)
+
+<sup>52</sup>Aber sein eigenes Volk ließ er ausziehen wie Schafe
+und führte sie in der Wüste wie eine Herde.
+<sup>53</sup>Er führte sie sicher, sodass sie sich nicht fürchteten,
+aber das Meer bedeckte ihre Feinde.
+<sup>54</sup>Er brachte sie bis an die Grenze seines Heiligtums,
+zu diesem Berg, den seine rechte Hand erworben hatte.
+<sup>55</sup>Er vertrieb auch die Völker vor ihnen,
+teilte ihnen das Land mit der Messschnur als Erbe zu
+und ließ die Stämme Israels in ihren Zelten wohnen.
+
+> **Was bedeutet das?**
+> Gott führte sein Volk wie ein guter Hirte durch die Wüste bis ins verheißene Land.
+> Vers 55: Die Landnahme wird aus der Sicht Israels erzählt. Sie ist kein Auftrag für heute, Völker zu vertreiben.
+
+---
+
+### Er verließ die Wohnung in Schilo (Vers 56–64)
+
+<sup>56</sup>Doch sie stellten den höchsten Gott auf die Probe und lehnten sich gegen ihn auf
+und hielten seine Zeugnisse nicht,
+<sup>57</sup>sondern wandten sich ab und wurden treulos wie ihre Väter.
+Sie versagten wie ein trügerischer Bogen.
+<sup>58</sup>Denn sie reizten ihn zum Zorn mit ihren Opferhöhen
+und machten ihn eifersüchtig mit ihren Götzenbildern.
+<sup>59</sup>Als Gott das hörte, wurde er zornig
+und verwarf Israel völlig,
+<sup>60</sup>sodass er die Wohnung in Schilo verließ,
+das Zelt, das er unter den Menschen aufgeschlagen hatte.
+<sup>61</sup>Er gab seine Stärke in die Gefangenschaft
+und seine Herrlichkeit in die Hand des Feindes.
+<sup>62</sup>Er gab auch sein Volk dem Schwert preis
+und war zornig über sein Erbe.
+<sup>63</sup>Feuer verzehrte ihre jungen Männer,
+und ihre jungen Frauen hatten kein Hochzeitslied.
+<sup>64</sup>Ihre Priester fielen durch das Schwert,
+und ihre Witwen konnten nicht weinen.
+
+> **Was bedeutet das?**
+> Im Land angekommen, wurde das Volk wieder untreu. Es betete fremde Götter auf den „Opferhöhen“ an.
+> „Ein trügerischer Bogen“: ein Bogen, der beim Schießen versagt. So unzuverlässig war das Volk.
+> Vers 60–64 erinnern an die Katastrophe in 1. Samuel 4: Die Philister besiegten Israel, eroberten die Bundeslade („seine Stärke“, „seine Herrlichkeit“) und töteten die Priester Hofni und Pinhas. Danach wurde das Heiligtum in Schilo wohl zerstört (vgl. Jeremia 7,12).
+> „Ihre Witwen konnten nicht weinen“: Es gab so viele Tote, dass keine Zeit für die übliche Trauer blieb.
+
+---
+
+### Gott erwählte David (Vers 65–72)
+
+<sup>65</sup>Da erwachte der Herr wie aus dem Schlaf,
+wie ein Held, der vom Wein jauchzt.
+<sup>66</sup>Er schlug seine Feinde zurück.
+Er gab ihnen ewige Schande.
+<sup>67</sup>Außerdem verwarf er das Zelt Josefs
+und erwählte nicht den Stamm Ephraim,
+<sup>68</sup>sondern erwählte den Stamm Juda,
+den Berg Zion, den er liebt.
+<sup>69</sup>Er baute sein Heiligtum wie die Höhen,
+wie die Erde, die er für immer gegründet hat.
+<sup>70</sup>Er erwählte auch David, seinen Knecht,
+und nahm ihn von den Schafhürden.
+<sup>71</sup>Hinter den säugenden Muttertieren holte er ihn weg,
+damit er Jakob weide, sein Volk,
+und Israel, sein Erbe.
+<sup>72</sup>So weidete er sie mit lauterem Herzen
+und führte sie mit geschickten Händen.
+
+> **Was bedeutet das?**
+> Vers 65: Ein sehr kühnes Bild: Gott „erwacht“ wie ein Krieger und greift wieder ein. Natürlich schläft Gott nicht (Psalm 121,4). Aber für das Volk sah es so aus.
+> Vers 67–68: Gott wählte nicht Ephraim im Norden, sondern Juda im Süden. Jerusalem auf dem Zion wurde zum Ort des Tempels.
+> Vers 70–72: Am Ende steht David. Gott holte ihn von den Schafen weg und machte ihn zum Hirten seines Volkes. Die lange Geschichte der Untreue endet mit einem Zeichen der Gnade: einem König, der mit „lauterem Herzen“ führt.
+> Der Psalm zeigt: Die Geschichte des Volkes ist voller Versagen. Aber Gottes Treue ist größer.
