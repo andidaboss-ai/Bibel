@@ -1,0 +1,152 @@
+{
+ "nr": 29,
+ "code": "JOL",
+ "kuerzel": "Joel",
+ "name": "Joel",
+ "name_englisch": "Joel",
+ "testament": "altes-testament",
+ "kapitel": 3,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die Heuschreckenplage",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Joel?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Über den Propheten Joel wissen wir sehr wenig. Sein Name bedeutet „Der HERR ist Gott“. Er war ein Sohn Petuëls und wirkte in Juda, wahrscheinlich in Jerusalem, denn er spricht oft vom Tempel und den Priestern.\nWann er lebte, wird im Buch nicht gesagt. Manche Forscher denken an die Zeit vor dem Exil, viele an die Zeit nach dem Exil (5. oder 4. Jahrhundert vor Christus), als der zweite Tempel schon stand.\nDen Anlass für das Buch gab eine furchtbare Heuschreckenplage mit Dürre. Joel sieht darin ein Zeichen für den kommenden „Tag des HERRN“ und ruft das Volk zur Umkehr.\nDann wendet sich alles zum Guten: Gott erbarmt sich, schenkt neuen Regen, und er verheißt: „Ich will meinen Geist ausgießen über alles Fleisch“ (im WEB 2,28). Am Pfingsttag zitiert Petrus genau diese Worte (Apostelgeschichte 2,16–21).\nHinweis zur Zählung: Das WEB teilt Joel in 3 Kapitel ein, wie die meisten englischen Bibeln. Deutsche Bibeln haben 4 Kapitel. WEB 2,28–32 entspricht in deutschen Bibeln Kapitel 3, und WEB Kapitel 3 entspricht dem deutschen Kapitel 4.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "So etwas hat es noch nie gegeben",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Wort des HERRN, das an Joel, den Sohn Petuëls, erging.",
+       "englisch_web": "Yahweh’s word that came to Joel, the son of Pethuel."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Hört dies, ihr Ältesten,\nund horcht auf, alle Bewohner des Landes!\nIst so etwas in euren Tagen geschehen\noder in den Tagen eurer Väter?",
+       "englisch_web": "Hear this, you elders, and listen, all you inhabitants of the land! Has this ever happened in your days, or in the days of your fathers?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Erzählt euren Kindern davon,\nund eure Kinder sollen es ihren Kindern erzählen,\nund deren Kinder der nächsten Generation.",
+       "englisch_web": "Tell your children about it, and have your children tell their children, and their children, another generation."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Was der Nager übrig ließ,\nhat die Heuschrecke gefressen.\nWas die Heuschrecke übrig ließ,\nhat der Hüpfer gefressen.\nWas der Hüpfer übrig ließ,\nhat der Vertilger gefressen.",
+       "englisch_web": "What the swarming locust has left, the great locust has eaten. What the great locust has left, the grasshopper has eaten. What the grasshopper has left, the caterpillar has eaten."
+      }
+     ],
+     "erklaerung": "Joel beschreibt eine Katastrophe, wie es sie noch nie gab: Eine Heuschreckenplage, Welle auf Welle. Vier Namen für Heuschrecken werden genannt. Vielleicht sind es verschiedene Arten oder Entwicklungsstufen der Tiere. Was die erste Welle übrig lässt, frisst die nächste.\nHeuschreckenschwärme können riesig sein, Millionen von Tieren. Sie fressen in kurzer Zeit alles Grün weg. Solche Plagen gibt es bis heute, zum Beispiel in Ostafrika, und sie bedeuten Hunger für viele Menschen.\nVers 3: Erzählt es weiter, Generation für Generation! Die Erinnerung an diese Katastrophe soll nicht vergessen werden."
+    },
+    {
+     "ueberschrift": "Klagt alle!",
+     "vers_von": 5,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Wacht auf, ihr Betrunkenen, und weint!\nHeult, alle ihr Weintrinker,\nwegen des süßen Weins,\ndenn er ist euch vom Mund weggenommen.",
+       "englisch_web": "Wake up, you drunkards, and weep! Wail, all you drinkers of wine, because of the sweet wine, for it is cut off from your mouth."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn ein Volk ist über mein Land heraufgezogen,\nstark und ohne Zahl.\nSeine Zähne sind Löwenzähne,\nund es hat die Reißzähne einer Löwin.",
+       "englisch_web": "For a nation has come up on my land, strong, and without number. His teeth are the teeth of a lion, and he has the fangs of a lioness."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Es hat meinen Weinstock verwüstet\nund meinen Feigenbaum kahl gemacht.\nEs hat seine Rinde ganz abgeschält\nund weggeworfen.\nSeine Zweige sind weiß geworden.",
+       "englisch_web": "He has laid my vine waste, and stripped my fig tree. He has stripped its bark, and thrown it away. Its branches are made white."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Klage wie eine junge Frau, in Sacktuch gekleidet,\num den Mann ihrer Jugend!",
+       "englisch_web": "Mourn like a virgin dressed in sackcloth for the husband of her youth!"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Speisopfer und Trankopfer sind dem Haus des HERRN entzogen.\nDie Priester, die Diener des HERRN, trauern.",
+       "englisch_web": "The meal offering and the drink offering are cut off from Yahweh’s house. The priests, Yahweh’s ministers, mourn."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Das Feld ist verwüstet.\nDas Land trauert,\ndenn das Korn ist vernichtet.\nDer Most ist vertrocknet,\nund das Öl verkümmert.",
+       "englisch_web": "The field is laid waste. The land mourns, for the grain is destroyed, The new wine has dried up, and the oil languishes."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Seid beschämt, ihr Bauern!\nHeult, ihr Winzer,\num den Weizen und um die Gerste,\ndenn die Ernte des Feldes ist verloren.",
+       "englisch_web": "Be confounded, you farmers! Wail, you vineyard keepers, for the wheat and for the barley; for the harvest of the field has perished."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Der Weinstock ist vertrocknet,\nund der Feigenbaum verwelkt,\nder Granatapfelbaum, die Palme und der Apfelbaum,\nalle Bäume des Feldes sind verdorrt.\nJa, die Freude ist von den Menschen gewichen.",
+       "englisch_web": "The vine has dried up, and the fig tree withered— the pomegranate tree, the palm tree also, and the apple tree, even all of the trees of the field are withered; for joy has withered away from the sons of men."
+      }
+     ],
+     "erklaerung": "Joel ruft alle zur Klage auf: die Weintrinker, die Bauern, die Winzer, die Priester.\nVers 6: Die Heuschrecken werden wie ein feindliches Heer beschrieben, mit Zähnen wie Löwen. Manche Ausleger denken, dass die Heuschrecken auch für ein wirkliches feindliches Heer stehen.\nVers 7: Die Heuschrecken fressen sogar die Rinde der Bäume ab, sodass die Äste weiß und kahl dastehen.\nVers 8: Die Klage soll so tief sein wie die einer jungen Frau, deren Verlobter gestorben ist.\nVers 9: Ohne Ernte gibt es auch keine Opfer mehr im Tempel. Der Gottesdienst kommt zum Erliegen.\nVers 12: „Die Freude ist von den Menschen gewichen.“ Die Katastrophe betrifft nicht nur das Essen, sondern das ganze Leben."
+    },
+    {
+     "ueberschrift": "Ruft ein Fasten aus!",
+     "vers_von": 13,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Legt Sacktuch an und klagt, ihr Priester!\nHeult, ihr Diener des Altars!\nKommt, verbringt die Nacht in Sacktuch,\nihr Diener meines Gottes,\ndenn Speisopfer und Trankopfer\nsind dem Haus eures Gottes vorenthalten.",
+       "englisch_web": "Put on sackcloth and mourn, you priests! Wail, you ministers of the altar. Come, lie all night in sackcloth, you ministers of my God, for the meal offering and the drink offering are withheld from your God’s house."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ruft ein heiliges Fasten aus!\nBeruft eine Festversammlung ein!\nVersammelt die Ältesten\nund alle Bewohner des Landes\nzum Haus des HERRN, eures Gottes,\nund schreit zum HERRN.",
+       "englisch_web": "Sanctify a fast. Call a solemn assembly. Gather the elders and all the inhabitants of the land to the house of Yahweh, your God, and cry to Yahweh."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ach, dieser Tag!\nDenn der Tag des HERRN ist nahe,\nund er kommt wie Verwüstung vom Allmächtigen.",
+       "englisch_web": "Alas for the day! For the day of Yahweh is at hand, and it will come as destruction from the Almighty."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ist nicht vor unseren Augen die Nahrung weggenommen,\nFreude und Jubel aus dem Haus unseres Gottes?",
+       "englisch_web": "Isn’t the food cut off before our eyes, joy and gladness from the house of our God?"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die Samenkörner verfaulen unter ihren Schollen.\nDie Speicher sind verödet.\nDie Scheunen sind zerfallen,\ndenn das Korn ist verdorrt.",
+       "englisch_web": "The seeds rot under their clods. The granaries are laid desolate. The barns are broken down, for the grain has withered."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wie stöhnt das Vieh!\nDie Rinderherden irren umher,\nweil sie keine Weide haben.\nJa, auch die Schafherden leiden.",
+       "englisch_web": "How the animals groan! The herds of livestock are perplexed, because they have no pasture. Yes, the flocks of sheep are made desolate."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "HERR, zu dir rufe ich,\ndenn Feuer hat die Weiden der Wüste verzehrt,\nund die Flamme hat alle Bäume des Feldes verbrannt.",
+       "englisch_web": "Yahweh, I cry to you, for the fire has devoured the pastures of the wilderness, and the flame has burned all the trees of the field."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Ja, auch die Tiere des Feldes lechzen nach dir,\ndenn die Wasserbäche sind ausgetrocknet,\nund Feuer hat die Weiden der Wüste verzehrt.",
+       "englisch_web": "Yes, the animals of the field pant to you, for the water brooks have dried up, and the fire has devoured the pastures of the wilderness."
+      }
+     ],
+     "erklaerung": "Vers 13–14: In der Not sollen alle zusammenkommen, fasten und zu Gott schreien. Die Not soll zum Gebet führen.\nVers 15: „Der Tag des HERRN ist nahe.“ Joel sieht in der Katastrophe ein Warnzeichen für den großen Tag, an dem Gott eingreift.\nVers 17–20: Zur Heuschreckenplage kommt eine schreckliche Dürre mit Bränden. Sogar die Tiere „lechzen nach Gott“ und leiden mit. Das erinnert an Psalm 42: „Wie der Hirsch lechzt nach Wasserbächen …“\nVers 19: Joel selbst betet: „HERR, zu dir rufe ich!“ Er wartet nicht, bis die anderen beten. Er fängt selbst an.\nFür heute: Dürren, Waldbrände und Ernteausfälle gibt es auch heute, oft verschärft durch den Klimawandel. Joel zeigt: In solchen Krisen sollen wir klagen, beten und gemeinsam handeln. Und er zeigt, dass Gott auch das Leiden der Tiere sieht.\nWichtig: Naturkatastrophen sind nicht einfach eine Strafe Gottes für die Menschen, die darunter leiden (vgl. Lukas 13,1–5). Joel benutzt die Katastrophe als Anlass, über das eigene Leben nachzudenken."
+    }
+   ]
+  }
+ ]
+}

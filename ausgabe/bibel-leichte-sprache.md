@@ -109506,3 +109506,331 @@ und sein Herr wird ihm seine Schmähung vergelten.
 > Vers 12: Jakob musste vor Esau fliehen und diente viele Jahre bei Laban als Hirte, um Rahel heiraten zu können (1. Mose 29). Ein Bild dafür, wie mühsam der Weg des Stammvaters war.
 > Vers 13: Der „Prophet“, durch den Gott Israel aus Ägypten führte, ist Mose. Gott hat sein Volk immer durch Propheten geführt und behütet. Hosea stellt sich in diese Reihe.
 > Vers 14: Ephraim hat Gott bitter enttäuscht. Es muss die Folgen seiner Taten tragen.
+
+## Hosea – Kapitel 13
+#### Tod, wo ist dein Stachel?
+
+---
+
+### Wie Morgennebel (Vers 1–3)
+
+<sup>1</sup>Wenn Ephraim redete, gab es Zittern.
+Er erhob sich in Israel.
+Aber als er durch Baal schuldig wurde,
+starb er.
+<sup>2</sup>Und jetzt sündigen sie immer mehr
+und machen sich gegossene Bilder aus ihrem Silber,
+Götzen nach ihrem eigenen Verstand,
+alles Werk von Handwerkern.
+Sie sagen von ihnen:
+‚Sie opfern Menschen und küssen die Kälber.‘
+<sup>3</sup>Darum werden sie sein wie der Morgennebel,
+wie der Tau, der früh vergeht,
+wie die Spreu, die vom Wirbelwind von der Tenne geweht wird,
+und wie der Rauch aus dem Fenster.
+
+> **Was bedeutet das?**
+> Vers 1: Ephraim (das Nordreich) war einmal mächtig und angesehen. Aber durch den Baalsdienst ist es innerlich „gestorben“.
+> Vers 2: Ein absurdes Bild: Menschen küssen Kälber aus Metall, die Handwerker gemacht haben. Die Wendung „Sie opfern Menschen“ ist im Hebräischen nicht eindeutig. Sie kann auch heißen: „Die Menschen, die opfern, küssen die Kälber.“
+> Vers 3: Vier Bilder für Vergänglichkeit: Nebel, Tau, Spreu, Rauch. Alles verschwindet schnell. So vergänglich ist ein Leben ohne Gott.
+
+---
+
+### Ich bin dein Gott seit Ägypten (Vers 4–8)
+
+<sup>4</sup>„Doch ich bin der HERR, dein Gott, seit dem Land Ägypten.
+Du sollst keinen Gott kennen außer mir,
+und es gibt keinen Retter außer mir.
+<sup>5</sup>Ich kannte dich in der Wüste,
+im Land großer Dürre.
+<sup>6</sup>Wie sie Weide hatten, so wurden sie satt.
+Sie wurden satt,
+und ihr Herz wurde hochmütig.
+Darum haben sie mich vergessen.
+<sup>7</sup>Darum bin ich für sie wie ein Löwe.
+Wie ein Leopard lauere ich am Weg.
+<sup>8</sup>Ich werde ihnen begegnen wie eine Bärin,
+der man ihre Jungen geraubt hat,
+und werde die Hülle ihres Herzens zerreißen.
+Dort werde ich sie fressen wie eine Löwin.
+Die wilden Tiere werden sie zerreißen.
+
+> **Was bedeutet das?**
+> Vers 4: „Es gibt keinen Retter außer mir.“ Das hebräische Wort für „Retter“ ist mit dem Namen Hosea (und Jesus) verwandt.
+> Vers 5–6: Ein Muster, das die Bibel immer wieder beschreibt: In der Not, in der Wüste, war das Volk nah bei Gott. Als es satt und reich wurde, vergaß es Gott (vgl. 5. Mose 8,11–14). Wohlstand kann gefährlich sein, wenn man den Geber vergisst.
+> Vers 7–8: Gott vergleicht sich mit gefährlichen Tieren: Löwe, Leopard, Bärin. Besonders eindrücklich ist die „Bärin, der man die Jungen geraubt hat“, ein Bild für verletzte, zornige Liebe. Gottes Zorn kommt aus seiner verletzten Liebe.
+
+---
+
+### Wo ist nun dein König? (Vers 9–13)
+
+<sup>9</sup>Du bist verloren, Israel,
+denn du bist gegen mich, gegen deinen Helfer.
+<sup>10</sup>Wo ist nun dein König,
+dass er dich in all deinen Städten rette?
+Und deine Richter, von denen du gesagt hast:
+‚Gib mir einen König und Fürsten‘?
+<sup>11</sup>Ich habe dir einen König gegeben in meinem Zorn,
+und ich habe ihn weggenommen in meinem Grimm.
+<sup>12</sup>Die Schuld Ephraims ist zusammengebunden.
+Seine Sünde ist aufbewahrt.
+<sup>13</sup>Wehen wie bei einer Gebärenden werden über ihn kommen.
+Er ist ein unverständiger Sohn,
+denn wenn es Zeit ist,
+tritt er nicht an den Muttermund.
+
+> **Was bedeutet das?**
+> Vers 10–11: Israel wollte einen König wie alle anderen Völker (1. Samuel 8,5). Aber die Könige konnten das Volk nicht retten. Im Nordreich wurde ein König nach dem anderen ermordet.
+> Vers 13: Ein ungewöhnliches Bild: Ein Baby, das bei der Geburt nicht herauskommen will, obwohl es Zeit ist. Israel hat die Chance zur Umkehr, zu einem neuen Leben, aber es bleibt einfach stecken. Ein Bild für verpasste Gelegenheiten.
+
+---
+
+### Tod, wo sind deine Plagen? (Vers 14–16)
+
+<sup>14</sup>Ich werde sie aus der Gewalt des Totenreichs loskaufen.
+Ich werde sie vom Tod erlösen!
+Tod, wo sind deine Plagen?
+Totenreich, wo ist dein Verderben?
+Mitleid bleibt vor meinen Augen verborgen.
+<sup>15</sup>Auch wenn er fruchtbar ist unter seinen Brüdern,
+wird ein Ostwind kommen,
+der Hauch des HERRN, der aus der Wüste heraufsteigt.
+Und seine Quelle wird versiegen,
+und sein Brunnen wird vertrocknen.
+Er wird die Schatzkammer mit allen kostbaren Geräten plündern.
+<sup>16</sup>Samaria wird seine Schuld tragen,
+denn es hat sich gegen seinen Gott aufgelehnt.
+Sie werden durch das Schwert fallen.
+Ihre kleinen Kinder werden zerschmettert werden,
+und ihre Schwangeren werden aufgeschlitzt werden.“
+
+> **Was bedeutet das?**
+> Vers 14: Ein rätselhafter und berühmter Vers. Man kann ihn auf zwei Arten verstehen:
+> – Als Frage der Drohung: „Soll ich sie etwa vom Tod loskaufen? Nein! Tod, komm mit deinen Plagen!“ Darauf weist der letzte Satz hin: „Mitleid bleibt verborgen.“
+> – Als Verheißung, wie das WEB übersetzt: „Ich werde sie vom Tod erlösen! Tod, wo sind deine Plagen?“
+> Der Apostel Paulus nimmt diesen Vers auf und jubelt über die Auferstehung Jesu: „Tod, wo ist dein Sieg? Tod, wo ist dein Stachel?“ (1. Korinther 15,55). Für Christen ist das eine Zusage: Der Tod hat nicht das letzte Wort.
+> Vers 15: Der „Ostwind“ ist ein heißer Wüstenwind und hier ein Bild für Assyrien.
+> Vers 16: Dieser Vers beschreibt die furchtbare Grausamkeit des assyrischen Krieges, die 722 vor Christus über Samaria kam. Solche Gräueltaten an Kindern und schwangeren Frauen sind schreckliche Kriegsverbrechen. Die Bibel verschweigt sie nicht, aber sie heißt sie nicht gut. Gewalt gegen Kinder und Schwangere ist immer Unrecht.
+> Hinweis zur Zählung: In deutschen Bibeln ist Vers 16 der erste Vers von Kapitel 14 (14,1). Darum sind die Versnummern in Kapitel 14 im WEB um eins niedriger.
+> Wer belastende Erfahrungen mit Krieg oder Gewalt hat: Telefonseelsorge 0800 111 0 111.
+
+## Hosea – Kapitel 14
+#### Ich will sie aus freien Stücken lieben
+
+---
+
+### Kehre um, Israel! (Vers 1–3)
+
+<sup>1</sup>Israel, kehre um zum HERRN, deinem Gott,
+denn du bist durch deine Schuld gefallen.
+<sup>2</sup>Nehmt Worte mit euch
+und kehrt um zum HERRN.
+Sagt zu ihm:
+„Vergib alle Schuld
+und nimm an, was gut ist,
+so bringen wir dir Stiere dar,
+wie wir es mit unseren Lippen gelobt haben.
+<sup>3</sup>Assyrien kann uns nicht retten.
+Wir wollen nicht mehr auf Pferden reiten,
+und wir wollen nicht mehr zum Werk unserer Hände sagen:
+‚Unser Gott!‘
+Denn bei dir findet die Waise Erbarmen.“
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln sind die Versnummern in diesem Kapitel um eins höher (14,2–10).
+> Nach allen Gerichtsworten endet das Buch mit einem großen Aufruf zur Umkehr.
+> Vers 2: „Nehmt Worte mit euch.“ Gott verlangt keine teuren Opfer. Er möchte ehrliche Worte, ein Gebet von Herzen. Hosea gibt dem Volk sogar das Gebet vor, das es sprechen soll.
+> Vers 3: Das Volk soll drei Dinge aufgeben: das Vertrauen auf Assyrien (politische Bündnisse), auf Pferde (militärische Macht) und auf selbstgemachte Götter.
+> „Bei dir findet die Waise Erbarmen.“ Ein schöner Satz: Israel ist wie ein Waisenkind, das niemanden mehr hat. Aber bei Gott findet es Erbarmen.
+> Im Judentum wird dieser Abschnitt am „Schabbat Schuva“ gelesen, dem Sabbat der Umkehr zwischen Neujahr und dem Versöhnungstag.
+
+---
+
+### Ich will wie der Tau sein (Vers 4–8)
+
+<sup>4</sup>„Ich will ihre Abtrünnigkeit heilen.
+Ich will sie aus freien Stücken lieben,
+denn mein Zorn hat sich von ihnen abgewandt.
+<sup>5</sup>Ich will für Israel sein wie der Tau.
+Er wird blühen wie die Lilie
+und seine Wurzeln schlagen wie der Libanon.
+<sup>6</sup>Seine Zweige werden sich ausbreiten,
+seine Pracht wird sein wie die des Ölbaums
+und sein Duft wie der des Libanon.
+<sup>7</sup>Die unter seinem Schatten wohnen, werden zurückkehren.
+Sie werden aufleben wie das Korn
+und blühen wie der Weinstock.
+Sein Ruhm wird sein wie der Wein des Libanon.
+<sup>8</sup>Ephraim, was habe ich noch mit den Götzen zu tun?
+Ich antworte ihm und sorge für ihn.
+Ich bin wie eine grüne Zypresse.
+Von mir kommt deine Frucht.“
+
+> **Was bedeutet das?**
+> Gottes Antwort ist wunderschön:
+> Vers 4: „Ich will ihre Untreue heilen. Ich will sie aus freien Stücken lieben.“ Gott liebt nicht, weil das Volk es verdient hätte, sondern freiwillig, aus reiner Gnade. Und er heilt die Untreue, so wie man eine Krankheit heilt.
+> Vers 5: „Ich will für Israel sein wie der Tau.“ In Kapitel 6,4 war die Liebe des Volkes „wie Tau, der schnell vergeht“. Jetzt ist Gott selbst der Tau, der jeden Morgen neu kommt und das Land erfrischt. Im trockenen Sommer Israels ist der Tau lebenswichtig.
+> Vers 5–7: Lauter Bilder von Leben und Schönheit: blühende Lilien, tiefe Wurzeln, ausgebreitete Zweige, Ölbaum, Duft, Korn, Weinstock.
+> Vers 8: Gott vergleicht sich selbst mit einem immergrünen Baum, der Frucht bringt. Das ist das einzige Mal in der Bibel, dass Gott sich mit einem Baum vergleicht. Die Fruchtbarkeit, die Israel bei Baal gesucht hat, kommt in Wahrheit von Gott: „Von mir kommt deine Frucht.“
+
+---
+
+### Wer weise ist, verstehe es (Vers 9)
+
+<sup>9</sup>Wer ist weise, dass er dies versteht?
+Wer ist verständig, dass er es erkennt?
+Denn die Wege des HERRN sind gerade,
+und die Gerechten gehen auf ihnen,
+aber die Abtrünnigen kommen auf ihnen zu Fall.
+
+> **Was bedeutet das?**
+> Der letzte Vers ist wie ein Nachwort für die Leser: Wer weise ist, soll über dieses Buch nachdenken. Gottes Wege sind gut und gerade. Die einen gehen darauf und finden das Leben. Die anderen stolpern darüber.
+> Das Buch ist ein Angebot. Jeder Leser muss selbst entscheiden, wie er darauf antwortet.
+
+---
+
+### Rückblick: Was haben wir im Buch Hosea gelesen?
+
+> **Was bedeutet das?**
+> **Ein Prophet, der Gottes Schmerz fühlt:** Hosea heiratete Gomer, die ihm untreu wurde. So erlebte er am eigenen Leib, was Gott fühlt, wenn sein Volk ihn verlässt (Kapitel 1–3).
+> **Kinder mit Botschaftsnamen:** „Kein Erbarmen“ und „Nicht mein Volk“, aber am Ende werden die Namen umgekehrt: „Erbarmen“ und „Mein Volk“ (1,10; 2,23).
+> **Gottes Werben:** „Ich will sie in die Wüste locken und ihr zu Herzen reden“ (2,14). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
+> **Die Anklage:** „Keine Wahrheit, keine Güte, keine Gotteserkenntnis im Land“ (4,1). Lügen, Gewalt, Götzendienst und falsches Vertrauen auf Großmächte.
+> **Barmherzigkeit statt Opfer:** „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer“ (6,6). Jesus zitierte diesen Satz zweimal.
+> **Wind und Sturm:** „Sie säen Wind und ernten Sturm“ (8,7).
+> **Gottes Mutterherz:** „Ich lehrte Ephraim laufen … mit Bändern der Liebe … ich beugte mich zu ihm hinab“ (Kapitel 11).
+> **Liebe, die nicht aufgibt:** „Wie könnte ich dich preisgeben? … Denn ich bin Gott und nicht ein Mensch“ (11,8–9).
+> **Heilung:** „Ich will ihre Untreue heilen, ich will sie aus freien Stücken lieben. Ich will für Israel sein wie der Tau“ (14,4–5).
+> **Schwere Bilder:** Die Bilder von der untreuen Frau stammen aus einer patriarchalen Zeit. Sie rechtfertigen niemals Gewalt in Beziehungen. Und die Grausamkeiten des Krieges, die das Buch beschreibt, sind Unrecht.
+> **Für heute:** Hosea zeigt, dass Gott nicht kalt und gleichgültig ist. Er liebt, er leidet, er ringt mit sich, und am Ende siegt seine Liebe. Es ist nie zu spät, umzukehren: „Nehmt Worte mit euch und kehrt um.“
+> **Wie geht es weiter?** Als Nächstes kommt der Prophet Joel. Eine schreckliche Heuschreckenplage wird für ihn zum Anlass, das Volk zur Umkehr zu rufen. Und er verheißt: „Ich will meinen Geist ausgießen über alles Fleisch.“
+
+
+---
+
+# Joel
+
+## Joel – Kapitel 1
+#### Die Heuschreckenplage
+
+---
+
+### Bevor es losgeht: Wer war Joel?
+
+Über den Propheten Joel wissen wir sehr wenig. Sein Name bedeutet „Der HERR ist Gott“. Er war ein Sohn Petuëls und wirkte in Juda, wahrscheinlich in Jerusalem, denn er spricht oft vom Tempel und den Priestern.
+Wann er lebte, wird im Buch nicht gesagt. Manche Forscher denken an die Zeit vor dem Exil, viele an die Zeit nach dem Exil (5. oder 4. Jahrhundert vor Christus), als der zweite Tempel schon stand.
+Den Anlass für das Buch gab eine furchtbare Heuschreckenplage mit Dürre. Joel sieht darin ein Zeichen für den kommenden „Tag des HERRN“ und ruft das Volk zur Umkehr.
+Dann wendet sich alles zum Guten: Gott erbarmt sich, schenkt neuen Regen, und er verheißt: „Ich will meinen Geist ausgießen über alles Fleisch“ (im WEB 2,28). Am Pfingsttag zitiert Petrus genau diese Worte (Apostelgeschichte 2,16–21).
+Hinweis zur Zählung: Das WEB teilt Joel in 3 Kapitel ein, wie die meisten englischen Bibeln. Deutsche Bibeln haben 4 Kapitel. WEB 2,28–32 entspricht in deutschen Bibeln Kapitel 3, und WEB Kapitel 3 entspricht dem deutschen Kapitel 4.
+
+---
+
+### So etwas hat es noch nie gegeben (Vers 1–4)
+
+<sup>1</sup>Das Wort des HERRN, das an Joel, den Sohn Petuëls, erging.
+<sup>2</sup>Hört dies, ihr Ältesten,
+und horcht auf, alle Bewohner des Landes!
+Ist so etwas in euren Tagen geschehen
+oder in den Tagen eurer Väter?
+<sup>3</sup>Erzählt euren Kindern davon,
+und eure Kinder sollen es ihren Kindern erzählen,
+und deren Kinder der nächsten Generation.
+<sup>4</sup>Was der Nager übrig ließ,
+hat die Heuschrecke gefressen.
+Was die Heuschrecke übrig ließ,
+hat der Hüpfer gefressen.
+Was der Hüpfer übrig ließ,
+hat der Vertilger gefressen.
+
+> **Was bedeutet das?**
+> Joel beschreibt eine Katastrophe, wie es sie noch nie gab: Eine Heuschreckenplage, Welle auf Welle. Vier Namen für Heuschrecken werden genannt. Vielleicht sind es verschiedene Arten oder Entwicklungsstufen der Tiere. Was die erste Welle übrig lässt, frisst die nächste.
+> Heuschreckenschwärme können riesig sein, Millionen von Tieren. Sie fressen in kurzer Zeit alles Grün weg. Solche Plagen gibt es bis heute, zum Beispiel in Ostafrika, und sie bedeuten Hunger für viele Menschen.
+> Vers 3: Erzählt es weiter, Generation für Generation! Die Erinnerung an diese Katastrophe soll nicht vergessen werden.
+
+---
+
+### Klagt alle! (Vers 5–12)
+
+<sup>5</sup>Wacht auf, ihr Betrunkenen, und weint!
+Heult, alle ihr Weintrinker,
+wegen des süßen Weins,
+denn er ist euch vom Mund weggenommen.
+<sup>6</sup>Denn ein Volk ist über mein Land heraufgezogen,
+stark und ohne Zahl.
+Seine Zähne sind Löwenzähne,
+und es hat die Reißzähne einer Löwin.
+<sup>7</sup>Es hat meinen Weinstock verwüstet
+und meinen Feigenbaum kahl gemacht.
+Es hat seine Rinde ganz abgeschält
+und weggeworfen.
+Seine Zweige sind weiß geworden.
+<sup>8</sup>Klage wie eine junge Frau, in Sacktuch gekleidet,
+um den Mann ihrer Jugend!
+<sup>9</sup>Speisopfer und Trankopfer sind dem Haus des HERRN entzogen.
+Die Priester, die Diener des HERRN, trauern.
+<sup>10</sup>Das Feld ist verwüstet.
+Das Land trauert,
+denn das Korn ist vernichtet.
+Der Most ist vertrocknet,
+und das Öl verkümmert.
+<sup>11</sup>Seid beschämt, ihr Bauern!
+Heult, ihr Winzer,
+um den Weizen und um die Gerste,
+denn die Ernte des Feldes ist verloren.
+<sup>12</sup>Der Weinstock ist vertrocknet,
+und der Feigenbaum verwelkt,
+der Granatapfelbaum, die Palme und der Apfelbaum,
+alle Bäume des Feldes sind verdorrt.
+Ja, die Freude ist von den Menschen gewichen.
+
+> **Was bedeutet das?**
+> Joel ruft alle zur Klage auf: die Weintrinker, die Bauern, die Winzer, die Priester.
+> Vers 6: Die Heuschrecken werden wie ein feindliches Heer beschrieben, mit Zähnen wie Löwen. Manche Ausleger denken, dass die Heuschrecken auch für ein wirkliches feindliches Heer stehen.
+> Vers 7: Die Heuschrecken fressen sogar die Rinde der Bäume ab, sodass die Äste weiß und kahl dastehen.
+> Vers 8: Die Klage soll so tief sein wie die einer jungen Frau, deren Verlobter gestorben ist.
+> Vers 9: Ohne Ernte gibt es auch keine Opfer mehr im Tempel. Der Gottesdienst kommt zum Erliegen.
+> Vers 12: „Die Freude ist von den Menschen gewichen.“ Die Katastrophe betrifft nicht nur das Essen, sondern das ganze Leben.
+
+---
+
+### Ruft ein Fasten aus! (Vers 13–20)
+
+<sup>13</sup>Legt Sacktuch an und klagt, ihr Priester!
+Heult, ihr Diener des Altars!
+Kommt, verbringt die Nacht in Sacktuch,
+ihr Diener meines Gottes,
+denn Speisopfer und Trankopfer
+sind dem Haus eures Gottes vorenthalten.
+<sup>14</sup>Ruft ein heiliges Fasten aus!
+Beruft eine Festversammlung ein!
+Versammelt die Ältesten
+und alle Bewohner des Landes
+zum Haus des HERRN, eures Gottes,
+und schreit zum HERRN.
+<sup>15</sup>Ach, dieser Tag!
+Denn der Tag des HERRN ist nahe,
+und er kommt wie Verwüstung vom Allmächtigen.
+<sup>16</sup>Ist nicht vor unseren Augen die Nahrung weggenommen,
+Freude und Jubel aus dem Haus unseres Gottes?
+<sup>17</sup>Die Samenkörner verfaulen unter ihren Schollen.
+Die Speicher sind verödet.
+Die Scheunen sind zerfallen,
+denn das Korn ist verdorrt.
+<sup>18</sup>Wie stöhnt das Vieh!
+Die Rinderherden irren umher,
+weil sie keine Weide haben.
+Ja, auch die Schafherden leiden.
+<sup>19</sup>HERR, zu dir rufe ich,
+denn Feuer hat die Weiden der Wüste verzehrt,
+und die Flamme hat alle Bäume des Feldes verbrannt.
+<sup>20</sup>Ja, auch die Tiere des Feldes lechzen nach dir,
+denn die Wasserbäche sind ausgetrocknet,
+und Feuer hat die Weiden der Wüste verzehrt.
+
+> **Was bedeutet das?**
+> Vers 13–14: In der Not sollen alle zusammenkommen, fasten und zu Gott schreien. Die Not soll zum Gebet führen.
+> Vers 15: „Der Tag des HERRN ist nahe.“ Joel sieht in der Katastrophe ein Warnzeichen für den großen Tag, an dem Gott eingreift.
+> Vers 17–20: Zur Heuschreckenplage kommt eine schreckliche Dürre mit Bränden. Sogar die Tiere „lechzen nach Gott“ und leiden mit. Das erinnert an Psalm 42: „Wie der Hirsch lechzt nach Wasserbächen …“
+> Vers 19: Joel selbst betet: „HERR, zu dir rufe ich!“ Er wartet nicht, bis die anderen beten. Er fängt selbst an.
+> Für heute: Dürren, Waldbrände und Ernteausfälle gibt es auch heute, oft verschärft durch den Klimawandel. Joel zeigt: In solchen Krisen sollen wir klagen, beten und gemeinsam handeln. Und er zeigt, dass Gott auch das Leiden der Tiere sieht.
+> Wichtig: Naturkatastrophen sind nicht einfach eine Strafe Gottes für die Menschen, die darunter leiden (vgl. Lukas 13,1–5). Joel benutzt die Katastrophe als Anlass, über das eigene Leben nachzudenken.
