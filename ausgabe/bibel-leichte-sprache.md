@@ -98439,7 +98439,7 @@ Die jungen Frauen Jerusalems senken ihre Köpfe zur Erde.
 
 <sup>11</sup>Meine Augen sind erschöpft vom Weinen.
 Mein Inneres ist aufgewühlt.
-Meine Leber ist auf die Erde ausgeschüttet
+Meine Galle ist auf die Erde ausgeschüttet
 wegen des Zusammenbruchs der Tochter meines Volkes,
 weil Kinder und Säuglinge auf den Straßen der Stadt verschmachten.
 <sup>12</sup>Sie fragen ihre Mütter:
