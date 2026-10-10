@@ -110171,3 +110171,340 @@ denn der HERR wohnt auf dem Zion.“
 > **Gericht und Heil:** Gott richtet die Völker, die Unrecht getan haben, besonders die Menschenhändler. Und am Ende wohnt er bei seinem Volk.
 > **Für heute:** Joel hilft, in Krisen (Naturkatastrophen, Hunger, Verlust) nicht zu verzweifeln, sondern gemeinsam zu klagen, zu beten und auf Gottes Erbarmen zu hoffen.
 > **Wie geht es weiter?** Als Nächstes kommt der Prophet Amos. Er war ein Viehzüchter und Maulbeerfeigenpflanzer, den Gott ins reiche Nordreich Israel schickte. Er kämpfte leidenschaftlich gegen soziale Ungerechtigkeit: „Es ströme aber das Recht wie Wasser und die Gerechtigkeit wie ein nie versiegender Bach!“ (Amos 5,24).
+
+
+---
+
+# Amos
+
+## Amos – Kapitel 1
+#### Der HERR brüllt vom Zion
+
+---
+
+### Bevor es losgeht: Wer war Amos?
+
+Amos war kein Berufsprophet. Er war ein Viehhirte aus Tekoa, einem kleinen Ort südlich von Betlehem in Juda. Er züchtete auch Maulbeerfeigen (Amos 7,14). Gott rief ihn von seinen Herden weg und schickte ihn ins Nordreich Israel.
+Er wirkte um 760 vor Christus, zur Zeit des Königs Jerobeam II. Es war eine Zeit des Wohlstands: Die Reichen bauten sich Sommer- und Winterhäuser mit Elfenbein, feierten große Feste und brachten viele Opfer. Gleichzeitig wurden die Armen ausgebeutet, betrogen und vor Gericht ungerecht behandelt.
+Amos ist der große Prophet der sozialen Gerechtigkeit. Sein berühmtester Satz: „Es ströme aber das Recht wie Wasser und die Gerechtigkeit wie ein nie versiegender Bach!“ (Amos 5,24). Martin Luther King zitierte diesen Satz in seiner berühmten Rede „I have a dream“ (1963).
+Das Buch hat 9 Kapitel:
+– Kapitel 1–2: Gerichtsworte über die Nachbarvölker und über Israel.
+– Kapitel 3–6: Reden gegen die Ungerechtigkeit in Israel.
+– Kapitel 7–9: Fünf Visionen und ein Ausblick auf Wiederherstellung.
+Sein Name bedeutet wahrscheinlich „getragen“ oder „Last“.
+
+---
+
+### Amos aus Tekoa (Vers 1–2)
+
+<sup>1</sup>Die Worte des Amos,
+der zu den Viehhirten von Tekoa gehörte,
+die er über Israel geschaut hat
+in den Tagen Usijas, des Königs von Juda,
+und in den Tagen Jerobeams, des Sohnes des Joasch, des Königs von Israel,
+zwei Jahre vor dem Erdbeben.
+<sup>2</sup>Er sagte:
+„Der HERR wird vom Zion her brüllen
+und von Jerusalem her seine Stimme erschallen lassen.
+Und die Weiden der Hirten werden trauern,
+und der Gipfel des Karmel wird verdorren.“
+
+> **Was bedeutet das?**
+> Vers 1: „Zwei Jahre vor dem Erdbeben“ – es gab damals ein so großes Erdbeben, dass man sich noch Jahrhunderte später daran erinnerte (vgl. Sacharja 14,5). Archäologen haben in mehreren Orten Spuren eines starken Erdbebens um 760 vor Christus gefunden.
+> Vers 2: Gott „brüllt“ wie ein Löwe. Amos war Hirte, er kannte das Brüllen von Löwen, die seine Herden bedrohten. Wenn ein Löwe brüllt, erschrickt alles. So erschütternd ist Gottes Stimme.
+> Der Karmel war ein besonders grünes, fruchtbares Gebirge. Wenn sogar er verdorrt, ist es eine Katastrophe.
+
+---
+
+### Gegen Damaskus (Vers 3–5)
+
+<sup>3</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Damaskus, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie Gilead mit eisernen Dreschschlitten gedroschen haben.
+<sup>4</sup>Darum werde ich Feuer in das Haus Hasaëls senden,
+und es wird die Paläste Ben-Hadads verzehren.
+<sup>5</sup>Ich werde den Riegel von Damaskus zerbrechen
+und den Bewohner aus dem Tal Awen ausrotten
+und den, der das Zepter hält, aus Bet-Eden.
+Und das Volk von Aram wird in die Gefangenschaft nach Kir ziehen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Jetzt beginnt eine Reihe von Gerichtsworten über sieben Nachbarvölker, und dann über Israel selbst.
+> „Wegen drei Verbrechen, ja wegen vier“ – das ist eine typische Redeweise. Sie bedeutet: Das Maß ist mehr als voll.
+> Damaskus war die Hauptstadt von Aram (Syrien). Hasaël und Ben-Hadad waren Könige von Aram.
+> Das Verbrechen: Sie haben Gilead (ein Gebiet östlich des Jordan) „mit eisernen Dreschschlitten gedroschen“. Ein Dreschschlitten war ein schweres Brett mit Eisenspitzen, mit dem man Getreide drosch. Ein Bild für unglaubliche Grausamkeit im Krieg gegen Menschen.
+
+---
+
+### Gegen Gaza und Tyrus (Vers 6–10)
+
+<sup>6</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Gaza, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie ganze Gemeinschaften in die Gefangenschaft weggeführt haben,
+um sie an Edom auszuliefern.
+<sup>7</sup>Darum werde ich Feuer auf die Mauer von Gaza senden,
+und es wird seine Paläste verzehren.
+<sup>8</sup>Ich werde den Bewohner aus Aschdod ausrotten
+und den, der das Zepter hält, aus Aschkelon.
+Und ich werde meine Hand gegen Ekron wenden,
+und der Rest der Philister wird umkommen“,
+spricht der Herr, der HERR.
+<sup>9</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Tyrus, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie ganze Gemeinschaften an Edom ausgeliefert
+und an den Bruderbund nicht gedacht haben.
+<sup>10</sup>Darum werde ich Feuer auf die Mauer von Tyrus senden,
+und es wird seine Paläste verzehren.“
+
+> **Was bedeutet das?**
+> Gaza und die anderen Philisterstädte und Tyrus haben ganze Dörfer verschleppt und als Sklaven an Edom verkauft. Menschenhandel in großem Stil.
+> Vers 9: Tyrus hat dabei einen „Bruderbund“ gebrochen, einen Vertrag mit Israel (vgl. 1. Könige 5,12, wo König Hiram von Tyrus und Salomo einen Bund schlossen).
+> Bemerkenswert: Gott richtet hier auch fremde Völker, die nicht an ihn glauben. Für Grausamkeit, Menschenhandel und Vertragsbruch sind alle Menschen verantwortlich. Es gibt ein Gewissen, das alle Menschen haben.
+
+---
+
+### Gegen Edom und Ammon (Vers 11–15)
+
+<sup>11</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Edom, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil er seinen Bruder mit dem Schwert verfolgt
+und jedes Mitleid erstickt hat,
+und weil sein Zorn ständig tobte
+und er seinen Grimm für immer bewahrte.
+<sup>12</sup>Darum werde ich Feuer nach Teman senden,
+und es wird die Paläste von Bozra verzehren.“
+<sup>13</sup>So spricht der HERR:
+„Wegen drei Verbrechen der Ammoniter, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie die Schwangeren in Gilead aufgeschlitzt haben,
+um ihr Gebiet zu erweitern.
+<sup>14</sup>Darum werde ich ein Feuer an die Mauer von Rabba legen,
+und es wird seine Paläste verzehren,
+unter Kriegsgeschrei am Tag der Schlacht,
+unter Sturm am Tag des Wirbelwinds.
+<sup>15</sup>Und ihr König wird in die Gefangenschaft ziehen,
+er und seine Fürsten zusammen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 11: Edom (die Nachkommen Esaus) hat seinen „Bruder“ Israel verfolgt, ohne Mitleid, mit ewigem Hass. Hass, der nie aufhört, zerstört.
+> Vers 13: Die Ammoniter haben schwangere Frauen grausam getötet, nur um ihr Land zu vergrößern. Das ist eines der schlimmsten Kriegsverbrechen. Gott sieht dieses Unrecht und wird es richten.
+> Die Bibel benennt hier klar: Gewalt gegen Wehrlose, besonders gegen Frauen und Kinder, ist ein schweres Unrecht, egal wer es tut. Wer belastende Erfahrungen mit Gewalt oder Krieg hat: Telefonseelsorge 0800 111 0 111.
+
+## Amos – Kapitel 2
+#### Gericht auch über Juda und Israel
+
+---
+
+### Gegen Moab (Vers 1–3)
+
+<sup>1</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Moab, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil er die Gebeine des Königs von Edom zu Kalk verbrannt hat.
+<sup>2</sup>Darum werde ich Feuer auf Moab senden,
+und es wird die Paläste von Kerijot verzehren.
+Und Moab wird im Getümmel sterben,
+unter Kriegsgeschrei und unter dem Klang des Horns.
+<sup>3</sup>Und ich werde den Richter aus seiner Mitte ausrotten
+und alle seine Fürsten mit ihm töten“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Moab hat die Gebeine eines toten Königs von Edom verbrannt. Das war eine schwere Schändung der Toten. Bemerkenswert: Edom war kein Freund Israels. Trotzdem nimmt Gott diese Tat ernst. Auch die Würde eines Toten, auch eines Feindes, muss geachtet werden.
+
+---
+
+### Gegen Juda (Vers 4–5)
+
+<sup>4</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Juda, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie das Gesetz des HERRN verworfen
+und seine Satzungen nicht gehalten haben,
+und ihre Lügen haben sie in die Irre geführt,
+denen schon ihre Väter nachgelaufen sind.
+<sup>5</sup>Darum werde ich Feuer auf Juda senden,
+und es wird die Paläste Jerusalems verzehren.“
+
+> **Was bedeutet das?**
+> Man kann sich vorstellen, wie die Zuhörer in Israel bei den bisherigen Worten zustimmend genickt haben: „Ja, die bösen Nachbarvölker!“ Jetzt kommt Juda dran, das Bruderreich im Süden. Auch hier nicken sie vielleicht noch.
+> Bei Juda ist der Vorwurf anders: Sie haben Gottes Gesetz verworfen. Wer Gottes Gebote kennt, hat eine größere Verantwortung.
+
+---
+
+### Gegen Israel (Vers 6–8)
+
+<sup>6</sup>So spricht der HERR:
+„Wegen drei Verbrechen von Israel, ja wegen vier,
+werde ich die Strafe nicht abwenden,
+weil sie den Gerechten für Silber verkaufen
+und den Armen für ein Paar Sandalen.
+<sup>7</sup>Sie treten den Kopf der Armen in den Staub der Erde
+und verweigern den Unterdrückten das Recht.
+Ein Mann und sein Vater gehen zu demselben Mädchen,
+um meinen heiligen Namen zu entweihen.
+<sup>8</sup>Neben jedem Altar legen sie sich auf gepfändete Kleider.
+Im Haus ihres Gottes trinken sie den Wein von denen,
+die eine Geldstrafe zahlen mussten.
+
+> **Was bedeutet das?**
+> Und jetzt, als achtes Volk, kommt Israel selbst dran, die Zuhörer! Die Falle schnappt zu. Und die Liste ist am längsten.
+> Die Verbrechen Israels sind keine Kriegsverbrechen gegen Fremde, sondern Unrecht im eigenen Volk, gegen die eigenen Armen:
+> – Vers 6: Wer seine Schulden nicht bezahlen kann, wird in die Sklaverei verkauft, manchmal schon wegen einer kleinen Summe, dem Preis eines Paars Sandalen.
+> – Vers 7: Die Armen werden in den Staub getreten. Vor Gericht bekommen sie kein Recht.
+> – Vers 7: „Ein Mann und sein Vater gehen zu demselben Mädchen“ – wahrscheinlich eine junge Magd oder Dienerin im Haus, die von Vater und Sohn sexuell ausgenutzt wird. Sie ist wehrlos und abhängig. Amos nennt das eine Entweihung von Gottes Namen. Das ist sexueller Missbrauch, und die Schuld liegt bei den Tätern.
+> – Vers 8: Arme mussten ihr Obergewand als Pfand geben. Das Gesetz sagte: Das Gewand muss vor der Nacht zurückgegeben werden, weil es die einzige Decke ist (2. Mose 22,26–27). Aber die Reichen behalten es und legen sich beim Gottesdienst darauf! Und sie trinken Wein, der mit unrechten Strafgeldern bezahlt wurde.
+> Für Amos ist klar: Gottesdienst und Ungerechtigkeit passen nicht zusammen.
+> Wer sexuelle Gewalt oder Ausbeutung erlebt hat: Hilfetelefon Sexueller Missbrauch 0800 22 55 530, Hilfetelefon Gewalt gegen Frauen 116 016.
+
+---
+
+### Was ich für euch getan habe (Vers 9–12)
+
+<sup>9</sup>Und doch habe ich den Amoriter vor ihnen vernichtet,
+der so hoch war wie die Zedern
+und so stark wie die Eichen.
+Ich habe seine Frucht oben vernichtet
+und seine Wurzeln unten.
+<sup>10</sup>Auch habe ich euch aus dem Land Ägypten heraufgeführt
+und euch vierzig Jahre lang durch die Wüste geleitet,
+damit ihr das Land des Amoriters in Besitz nehmt.
+<sup>11</sup>Ich habe einige eurer Söhne zu Propheten erweckt
+und einige eurer jungen Männer zu Nasiräern.
+Ist es nicht so, ihr Kinder Israel?“,
+spricht der HERR.
+<sup>12</sup>„Aber ihr habt den Nasiräern Wein zu trinken gegeben
+und den Propheten befohlen:
+‚Weissagt nicht!‘
+
+> **Was bedeutet das?**
+> Gott erinnert an alles, was er für Israel getan hat: die Befreiung aus Ägypten, die Führung durch die Wüste, das Land.
+> Vers 11–12: Gott hat ihnen auch Menschen geschenkt, die ein Vorbild sein sollten: Propheten und Nasiräer. Nasiräer waren Menschen, die sich Gott besonders geweiht hatten und keinen Wein tranken (4. Mose 6). Aber das Volk hat die Nasiräer zum Trinken verführt und den Propheten den Mund verboten. Sie wollten keine unbequemen Stimmen hören.
+
+---
+
+### Niemand wird entkommen (Vers 13–16)
+
+<sup>13</sup>Siehe, ich werde euch an eurem Ort niederdrücken,
+wie ein Wagen niederdrückt, der voll Garben ist.
+<sup>14</sup>Dem Schnellen wird die Flucht misslingen.
+Der Starke wird seine Kraft nicht festhalten.
+Der Held wird sein Leben nicht retten.
+<sup>15</sup>Wer den Bogen führt, wird nicht standhalten.
+Wer schnell zu Fuß ist, wird nicht entkommen.
+Wer auf dem Pferd reitet, wird sein Leben nicht retten.
+<sup>16</sup>Und wer unter den Helden mutig ist,
+wird an jenem Tag nackt fliehen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Wenn das Gericht kommt, hilft keine Stärke, keine Schnelligkeit, keine Waffe. Selbst der mutigste Krieger wird alles fallen lassen und nackt fliehen.
+> Das erfüllte sich, als die Assyrer im Jahr 722 vor Christus das Nordreich Israel eroberten.
+
+## Amos – Kapitel 3
+#### Der Löwe hat gebrüllt
+
+---
+
+### Gerade weil ihr erwählt seid (Vers 1–2)
+
+<sup>1</sup>Hört dieses Wort, das der HERR gegen euch geredet hat,
+ihr Kinder Israel,
+gegen die ganze Sippe, die ich aus dem Land Ägypten heraufgeführt habe:
+<sup>2</sup>„Nur euch habe ich erwählt
+von allen Sippen der Erde.
+Darum werde ich euch für alle eure Sünden heimsuchen.“
+
+> **Was bedeutet das?**
+> Ein überraschender Satz! Die Israeliten dachten wohl: „Wir sind Gottes erwähltes Volk. Darum sind wir sicher.“ Amos dreht das um: Gerade weil ihr erwählt seid, gerade weil ihr Gott so gut kennt, habt ihr eine größere Verantwortung.
+> Erwählung ist kein Privileg, sondern eine Aufgabe. Jesus sagt ähnlich: „Wem viel gegeben ist, von dem wird viel gefordert“ (Lukas 12,48).
+> Das hebräische Wort für „erwählt“ heißt eigentlich „erkannt“. Es beschreibt eine enge, persönliche Beziehung.
+
+---
+
+### Nichts geschieht ohne Grund (Vers 3–8)
+
+<sup>3</sup>Gehen zwei miteinander,
+ohne dass sie sich verabredet haben?
+<sup>4</sup>Brüllt ein Löwe im Dickicht,
+wenn er keine Beute hat?
+Lässt ein junger Löwe seine Stimme aus seiner Höhle erschallen,
+wenn er nichts gefangen hat?
+<sup>5</sup>Fällt ein Vogel in eine Falle auf der Erde,
+wenn keine Schlinge für ihn gelegt ist?
+Schnellt eine Falle vom Boden hoch,
+wenn sie nichts gefangen hat?
+<sup>6</sup>Wird in einer Stadt das Horn geblasen,
+ohne dass das Volk erschrickt?
+Geschieht ein Unglück in einer Stadt,
+und der HERR hat es nicht getan?
+<sup>7</sup>Gewiss, der Herr, der HERR, tut nichts,
+ohne dass er sein Geheimnis seinen Knechten, den Propheten, offenbart.
+<sup>8</sup>Der Löwe hat gebrüllt.
+Wer sollte sich nicht fürchten?
+Der Herr, der HERR, hat geredet.
+Wer sollte da nicht weissagen?
+
+> **Was bedeutet das?**
+> Amos stellt eine Reihe von Fragen aus dem Alltag eines Hirten und Bauern. Die Antwort ist immer: Nein! Alles hat eine Ursache.
+> – Zwei gehen zusammen, weil sie sich verabredet haben.
+> – Ein Löwe brüllt, weil er Beute hat.
+> – Eine Falle schnappt zu, weil etwas hineingetreten ist.
+> Und dann die Pointe (Vers 8): Ich, Amos, rede, weil Gott geredet hat. Ich kann nicht anders. Wie man erschrickt, wenn ein Löwe brüllt, so muss ich weissagen, wenn Gott spricht. Amos verteidigt damit seinen Auftrag.
+> Vers 6: „Geschieht ein Unglück, und der HERR hat es nicht getan?“ Ein schwieriger Satz. Amos meint hier das Unglück, das Gott als Gericht über Israel schickt. Er will sagen: Es ist kein Zufall, es hat einen Sinn. Man darf diesen Vers nicht so verstehen, dass jedes Unglück, das einem Menschen passiert, eine Strafe Gottes ist (vgl. Lukas 13,1–5; Johannes 9,2–3).
+> Vers 7: Gott handelt nicht im Geheimen. Er warnt vorher durch seine Propheten. Er gibt immer eine Chance zur Umkehr.
+
+---
+
+### Unrecht in den Palästen (Vers 9–12)
+
+<sup>9</sup>Ruft es aus in den Palästen von Aschdod
+und in den Palästen im Land Ägypten und sagt:
+„Versammelt euch auf den Bergen von Samaria
+und seht, welche Unruhe in der Stadt ist
+und welche Unterdrückung unter ihnen herrscht.“
+<sup>10</sup>„Ja, sie wissen nicht, was recht ist“,
+spricht der HERR,
+„sie, die Raub und Beute in ihren Palästen aufhäufen.“
+<sup>11</sup>Darum spricht der Herr, der HERR:
+„Ein Feind wird das Land überrennen.
+Er wird deine Bollwerke niederreißen,
+und deine Paläste werden geplündert werden.“
+<sup>12</sup>So spricht der HERR:
+„Wie ein Hirte aus dem Maul des Löwen zwei Beine
+oder ein Stück vom Ohr rettet,
+so werden die Kinder Israel gerettet werden,
+die in Samaria in der Ecke des Sofas sitzen
+und auf seidenen Kissen des Bettes.“
+
+> **Was bedeutet das?**
+> Vers 9: Ein ungewöhnlicher Aufruf: Die Heiden (Philister aus Aschdod, Ägypter) sollen kommen und zusehen, wie viel Unrecht in Samaria geschieht. Sogar die Heiden würden sich darüber wundern.
+> Vers 10: „Sie wissen nicht mehr, was recht ist.“ Die Reichen in ihren Palästen häufen Reichtum an, der durch Raub und Gewalt erworben wurde.
+> Vers 12: Ein bitteres Bild aus dem Hirtenleben: Wenn ein Löwe ein Schaf gerissen hatte, musste der Hirte Reste als Beweis vorzeigen, dass er es nicht gestohlen hatte (vgl. 2. Mose 22,13). So wird von den reichen Israeliten, die bequem auf ihren Sofas und Seidenkissen liegen, nur ein kläglicher Rest übrig bleiben.
+
+---
+
+### Häuser aus Elfenbein (Vers 13–15)
+
+<sup>13</sup>„Hört und bezeugt es gegen das Haus Jakob“,
+spricht der Herr, der HERR, der Gott der Heere.
+<sup>14</sup>„Denn an dem Tag, an dem ich die Verbrechen Israels an ihm heimsuche,
+werde ich auch die Altäre von Bethel heimsuchen.
+Die Hörner des Altars werden abgehauen werden
+und zu Boden fallen.
+<sup>15</sup>Ich werde das Winterhaus zusammen mit dem Sommerhaus schlagen.
+Die Elfenbeinhäuser werden zugrunde gehen,
+und die großen Häuser werden ein Ende haben“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 14: Bethel war das wichtigste Heiligtum im Nordreich. Die „Hörner des Altars“ waren ein Ort der Zuflucht (1. Könige 1,50). Wenn sie abgeschlagen werden, gibt es keine Zuflucht mehr.
+> Vers 15: Die Reichen hatten ein Winterhaus (im warmen Jordantal) und ein Sommerhaus (in den kühlen Bergen). Ihre Häuser waren mit Elfenbein verziert. Archäologen haben in Samaria tatsächlich viele kunstvolle Elfenbeinschnitzereien aus dieser Zeit gefunden.
+> Die Botschaft: Luxus, der auf Kosten der Armen erworben wurde, hat keinen Bestand.
+> Für heute: Amos fragt uns, wie unser Wohlstand mit der Not anderer zusammenhängt, auch weltweit.

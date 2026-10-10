@@ -1,0 +1,384 @@
+{
+ "nr": 30,
+ "code": "AMO",
+ "kuerzel": "Am",
+ "name": "Amos",
+ "name_englisch": "Amos",
+ "testament": "altes-testament",
+ "kapitel": 9,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Der HERR brüllt vom Zion",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Amos?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Amos war kein Berufsprophet. Er war ein Viehhirte aus Tekoa, einem kleinen Ort südlich von Betlehem in Juda. Er züchtete auch Maulbeerfeigen (Amos 7,14). Gott rief ihn von seinen Herden weg und schickte ihn ins Nordreich Israel.\nEr wirkte um 760 vor Christus, zur Zeit des Königs Jerobeam II. Es war eine Zeit des Wohlstands: Die Reichen bauten sich Sommer- und Winterhäuser mit Elfenbein, feierten große Feste und brachten viele Opfer. Gleichzeitig wurden die Armen ausgebeutet, betrogen und vor Gericht ungerecht behandelt.\nAmos ist der große Prophet der sozialen Gerechtigkeit. Sein berühmtester Satz: „Es ströme aber das Recht wie Wasser und die Gerechtigkeit wie ein nie versiegender Bach!“ (Amos 5,24). Martin Luther King zitierte diesen Satz in seiner berühmten Rede „I have a dream“ (1963).\nDas Buch hat 9 Kapitel:\n– Kapitel 1–2: Gerichtsworte über die Nachbarvölker und über Israel.\n– Kapitel 3–6: Reden gegen die Ungerechtigkeit in Israel.\n– Kapitel 7–9: Fünf Visionen und ein Ausblick auf Wiederherstellung.\nSein Name bedeutet wahrscheinlich „getragen“ oder „Last“.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Amos aus Tekoa",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Die Worte des Amos,\nder zu den Viehhirten von Tekoa gehörte,\ndie er über Israel geschaut hat\nin den Tagen Usijas, des Königs von Juda,\nund in den Tagen Jerobeams, des Sohnes des Joasch, des Königs von Israel,\nzwei Jahre vor dem Erdbeben.",
+       "englisch_web": "The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Er sagte:\n„Der HERR wird vom Zion her brüllen\nund von Jerusalem her seine Stimme erschallen lassen.\nUnd die Weiden der Hirten werden trauern,\nund der Gipfel des Karmel wird verdorren.“",
+       "englisch_web": "He said: “Yahweh will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.”"
+      }
+     ],
+     "erklaerung": "Vers 1: „Zwei Jahre vor dem Erdbeben“ – es gab damals ein so großes Erdbeben, dass man sich noch Jahrhunderte später daran erinnerte (vgl. Sacharja 14,5). Archäologen haben in mehreren Orten Spuren eines starken Erdbebens um 760 vor Christus gefunden.\nVers 2: Gott „brüllt“ wie ein Löwe. Amos war Hirte, er kannte das Brüllen von Löwen, die seine Herden bedrohten. Wenn ein Löwe brüllt, erschrickt alles. So erschütternd ist Gottes Stimme.\nDer Karmel war ein besonders grünes, fruchtbares Gebirge. Wenn sogar er verdorrt, ist es eine Katastrophe."
+    },
+    {
+     "ueberschrift": "Gegen Damaskus",
+     "vers_von": 3,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Damaskus, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie Gilead mit eisernen Dreschschlitten gedroschen haben.",
+       "englisch_web": "Yahweh says: “For three transgressions of Damascus, yes, for four, I will not turn away its punishment, because they have threshed Gilead with threshing instruments of iron;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Darum werde ich Feuer in das Haus Hasaëls senden,\nund es wird die Paläste Ben-Hadads verzehren.",
+       "englisch_web": "but I will send a fire into the house of Hazael, and it will devour the palaces of Ben Hadad."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich werde den Riegel von Damaskus zerbrechen\nund den Bewohner aus dem Tal Awen ausrotten\nund den, der das Zepter hält, aus Bet-Eden.\nUnd das Volk von Aram wird in die Gefangenschaft nach Kir ziehen“,\nspricht der HERR.",
+       "englisch_web": "I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,” says Yahweh."
+      }
+     ],
+     "erklaerung": "Jetzt beginnt eine Reihe von Gerichtsworten über sieben Nachbarvölker, und dann über Israel selbst.\n„Wegen drei Verbrechen, ja wegen vier“ – das ist eine typische Redeweise. Sie bedeutet: Das Maß ist mehr als voll.\nDamaskus war die Hauptstadt von Aram (Syrien). Hasaël und Ben-Hadad waren Könige von Aram.\nDas Verbrechen: Sie haben Gilead (ein Gebiet östlich des Jordan) „mit eisernen Dreschschlitten gedroschen“. Ein Dreschschlitten war ein schweres Brett mit Eisenspitzen, mit dem man Getreide drosch. Ein Bild für unglaubliche Grausamkeit im Krieg gegen Menschen."
+    },
+    {
+     "ueberschrift": "Gegen Gaza und Tyrus",
+     "vers_von": 6,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Gaza, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie ganze Gemeinschaften in die Gefangenschaft weggeführt haben,\num sie an Edom auszuliefern.",
+       "englisch_web": "Yahweh says: “For three transgressions of Gaza, yes, for four, I will not turn away its punishment, because they carried away captive the whole community, to deliver them up to Edom;"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Darum werde ich Feuer auf die Mauer von Gaza senden,\nund es wird seine Paläste verzehren.",
+       "englisch_web": "but I will send a fire on the wall of Gaza, and it will devour its palaces."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ich werde den Bewohner aus Aschdod ausrotten\nund den, der das Zepter hält, aus Aschkelon.\nUnd ich werde meine Hand gegen Ekron wenden,\nund der Rest der Philister wird umkommen“,\nspricht der Herr, der HERR.",
+       "englisch_web": "I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,” says the Lord Yahweh."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Tyrus, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie ganze Gemeinschaften an Edom ausgeliefert\nund an den Bruderbund nicht gedacht haben.",
+       "englisch_web": "Yahweh says: “For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn’t remember the brotherly covenant;"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Darum werde ich Feuer auf die Mauer von Tyrus senden,\nund es wird seine Paläste verzehren.“",
+       "englisch_web": "but I will send a fire on the wall of Tyre, and it will devour its palaces.”"
+      }
+     ],
+     "erklaerung": "Gaza und die anderen Philisterstädte und Tyrus haben ganze Dörfer verschleppt und als Sklaven an Edom verkauft. Menschenhandel in großem Stil.\nVers 9: Tyrus hat dabei einen „Bruderbund“ gebrochen, einen Vertrag mit Israel (vgl. 1. Könige 5,12, wo König Hiram von Tyrus und Salomo einen Bund schlossen).\nBemerkenswert: Gott richtet hier auch fremde Völker, die nicht an ihn glauben. Für Grausamkeit, Menschenhandel und Vertragsbruch sind alle Menschen verantwortlich. Es gibt ein Gewissen, das alle Menschen haben."
+    },
+    {
+     "ueberschrift": "Gegen Edom und Ammon",
+     "vers_von": 11,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Edom, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil er seinen Bruder mit dem Schwert verfolgt\nund jedes Mitleid erstickt hat,\nund weil sein Zorn ständig tobte\nund er seinen Grimm für immer bewahrte.",
+       "englisch_web": "Yahweh says: “For three transgressions of Edom, yes, for four, I will not turn away its punishment, because he pursued his brother with the sword and cast off all pity, and his anger raged continually, and he kept his wrath forever;"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darum werde ich Feuer nach Teman senden,\nund es wird die Paläste von Bozra verzehren.“",
+       "englisch_web": "but I will send a fire on Teman, and it will devour the palaces of Bozrah.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen der Ammoniter, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie die Schwangeren in Gilead aufgeschlitzt haben,\num ihr Gebiet zu erweitern.",
+       "englisch_web": "Yahweh says: “For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment, because they have ripped open the pregnant women of Gilead, that they may enlarge their border."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Darum werde ich ein Feuer an die Mauer von Rabba legen,\nund es wird seine Paläste verzehren,\nunter Kriegsgeschrei am Tag der Schlacht,\nunter Sturm am Tag des Wirbelwinds.",
+       "englisch_web": "But I will kindle a fire in the wall of Rabbah, and it will devour its palaces, with shouting in the day of battle, with a storm in the day of the whirlwind;"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Und ihr König wird in die Gefangenschaft ziehen,\ner und seine Fürsten zusammen“,\nspricht der HERR.",
+       "englisch_web": "and their king will go into captivity, he and his princes together,” says Yahweh."
+      }
+     ],
+     "erklaerung": "Vers 11: Edom (die Nachkommen Esaus) hat seinen „Bruder“ Israel verfolgt, ohne Mitleid, mit ewigem Hass. Hass, der nie aufhört, zerstört.\nVers 13: Die Ammoniter haben schwangere Frauen grausam getötet, nur um ihr Land zu vergrößern. Das ist eines der schlimmsten Kriegsverbrechen. Gott sieht dieses Unrecht und wird es richten.\nDie Bibel benennt hier klar: Gewalt gegen Wehrlose, besonders gegen Frauen und Kinder, ist ein schweres Unrecht, egal wer es tut. Wer belastende Erfahrungen mit Gewalt oder Krieg hat: Telefonseelsorge 0800 111 0 111."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Gericht auch über Juda und Israel",
+   "abschnitte": [
+    {
+     "ueberschrift": "Gegen Moab",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Moab, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil er die Gebeine des Königs von Edom zu Kalk verbrannt hat.",
+       "englisch_web": "Yahweh says: “For three transgressions of Moab, yes, for four, I will not turn away its punishment, because he burned the bones of the king of Edom into lime;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Darum werde ich Feuer auf Moab senden,\nund es wird die Paläste von Kerijot verzehren.\nUnd Moab wird im Getümmel sterben,\nunter Kriegsgeschrei und unter dem Klang des Horns.",
+       "englisch_web": "but I will send a fire on Moab, and it will devour the palaces of Kerioth; and Moab will die with tumult, with shouting, and with the sound of the trumpet;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Und ich werde den Richter aus seiner Mitte ausrotten\nund alle seine Fürsten mit ihm töten“,\nspricht der HERR.",
+       "englisch_web": "and I will cut off the judge from among them, and will kill all its princes with him,” says Yahweh."
+      }
+     ],
+     "erklaerung": "Moab hat die Gebeine eines toten Königs von Edom verbrannt. Das war eine schwere Schändung der Toten. Bemerkenswert: Edom war kein Freund Israels. Trotzdem nimmt Gott diese Tat ernst. Auch die Würde eines Toten, auch eines Feindes, muss geachtet werden."
+    },
+    {
+     "ueberschrift": "Gegen Juda",
+     "vers_von": 4,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Juda, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie das Gesetz des HERRN verworfen\nund seine Satzungen nicht gehalten haben,\nund ihre Lügen haben sie in die Irre geführt,\ndenen schon ihre Väter nachgelaufen sind.",
+       "englisch_web": "Yahweh says: “For three transgressions of Judah, yes, for four, I will not turn away its punishment, because they have rejected Yahweh’s law, and have not kept his statutes, and their lies have led them astray, after which their fathers walked;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Darum werde ich Feuer auf Juda senden,\nund es wird die Paläste Jerusalems verzehren.“",
+       "englisch_web": "but I will send a fire on Judah, and it will devour the palaces of Jerusalem.”"
+      }
+     ],
+     "erklaerung": "Man kann sich vorstellen, wie die Zuhörer in Israel bei den bisherigen Worten zustimmend genickt haben: „Ja, die bösen Nachbarvölker!“ Jetzt kommt Juda dran, das Bruderreich im Süden. Auch hier nicken sie vielleicht noch.\nBei Juda ist der Vorwurf anders: Sie haben Gottes Gesetz verworfen. Wer Gottes Gebote kennt, hat eine größere Verantwortung."
+    },
+    {
+     "ueberschrift": "Gegen Israel",
+     "vers_von": 6,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "So spricht der HERR:\n„Wegen drei Verbrechen von Israel, ja wegen vier,\nwerde ich die Strafe nicht abwenden,\nweil sie den Gerechten für Silber verkaufen\nund den Armen für ein Paar Sandalen.",
+       "englisch_web": "Yahweh says: “For three transgressions of Israel, yes, for four, I will not turn away its punishment, because they have sold the righteous for silver, and the needy for a pair of sandals;"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie treten den Kopf der Armen in den Staub der Erde\nund verweigern den Unterdrückten das Recht.\nEin Mann und sein Vater gehen zu demselben Mädchen,\num meinen heiligen Namen zu entweihen.",
+       "englisch_web": "They trample the heads of the poor into the dust of the earth and deny justice to the oppressed. A man and his father use the same maiden, to profane my holy name."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Neben jedem Altar legen sie sich auf gepfändete Kleider.\nIm Haus ihres Gottes trinken sie den Wein von denen,\ndie eine Geldstrafe zahlen mussten.",
+       "englisch_web": "They lay themselves down beside every altar on clothes taken in pledge. In the house of their God they drink the wine of those who have been fined."
+      }
+     ],
+     "erklaerung": "Und jetzt, als achtes Volk, kommt Israel selbst dran, die Zuhörer! Die Falle schnappt zu. Und die Liste ist am längsten.\nDie Verbrechen Israels sind keine Kriegsverbrechen gegen Fremde, sondern Unrecht im eigenen Volk, gegen die eigenen Armen:\n– Vers 6: Wer seine Schulden nicht bezahlen kann, wird in die Sklaverei verkauft, manchmal schon wegen einer kleinen Summe, dem Preis eines Paars Sandalen.\n– Vers 7: Die Armen werden in den Staub getreten. Vor Gericht bekommen sie kein Recht.\n– Vers 7: „Ein Mann und sein Vater gehen zu demselben Mädchen“ – wahrscheinlich eine junge Magd oder Dienerin im Haus, die von Vater und Sohn sexuell ausgenutzt wird. Sie ist wehrlos und abhängig. Amos nennt das eine Entweihung von Gottes Namen. Das ist sexueller Missbrauch, und die Schuld liegt bei den Tätern.\n– Vers 8: Arme mussten ihr Obergewand als Pfand geben. Das Gesetz sagte: Das Gewand muss vor der Nacht zurückgegeben werden, weil es die einzige Decke ist (2. Mose 22,26–27). Aber die Reichen behalten es und legen sich beim Gottesdienst darauf! Und sie trinken Wein, der mit unrechten Strafgeldern bezahlt wurde.\nFür Amos ist klar: Gottesdienst und Ungerechtigkeit passen nicht zusammen.\nWer sexuelle Gewalt oder Ausbeutung erlebt hat: Hilfetelefon Sexueller Missbrauch 0800 22 55 530, Hilfetelefon Gewalt gegen Frauen 116 016."
+    },
+    {
+     "ueberschrift": "Was ich für euch getan habe",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Und doch habe ich den Amoriter vor ihnen vernichtet,\nder so hoch war wie die Zedern\nund so stark wie die Eichen.\nIch habe seine Frucht oben vernichtet\nund seine Wurzeln unten.",
+       "englisch_web": "Yet I destroyed the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Auch habe ich euch aus dem Land Ägypten heraufgeführt\nund euch vierzig Jahre lang durch die Wüste geleitet,\ndamit ihr das Land des Amoriters in Besitz nehmt.",
+       "englisch_web": "Also I brought you up out of the land of Egypt and led you forty years in the wilderness, to possess the land of the Amorite."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ich habe einige eurer Söhne zu Propheten erweckt\nund einige eurer jungen Männer zu Nasiräern.\nIst es nicht so, ihr Kinder Israel?“,\nspricht der HERR.",
+       "englisch_web": "I raised up some of your sons for prophets, and some of your young men for Nazirites. Isn’t this true, you children of Israel?” says Yahweh."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Aber ihr habt den Nasiräern Wein zu trinken gegeben\nund den Propheten befohlen:\n‚Weissagt nicht!‘",
+       "englisch_web": "“But you gave the Nazirites wine to drink, and commanded the prophets, saying, ‘Don’t prophesy!’"
+      }
+     ],
+     "erklaerung": "Gott erinnert an alles, was er für Israel getan hat: die Befreiung aus Ägypten, die Führung durch die Wüste, das Land.\nVers 11–12: Gott hat ihnen auch Menschen geschenkt, die ein Vorbild sein sollten: Propheten und Nasiräer. Nasiräer waren Menschen, die sich Gott besonders geweiht hatten und keinen Wein tranken (4. Mose 6). Aber das Volk hat die Nasiräer zum Trinken verführt und den Propheten den Mund verboten. Sie wollten keine unbequemen Stimmen hören."
+    },
+    {
+     "ueberschrift": "Niemand wird entkommen",
+     "vers_von": 13,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Siehe, ich werde euch an eurem Ort niederdrücken,\nwie ein Wagen niederdrückt, der voll Garben ist.",
+       "englisch_web": "Behold, I will crush you in your place, as a cart crushes that is full of grain."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Dem Schnellen wird die Flucht misslingen.\nDer Starke wird seine Kraft nicht festhalten.\nDer Held wird sein Leben nicht retten.",
+       "englisch_web": "Flight will perish from the swift. The strong won’t strengthen his force. The mighty won’t deliver himself."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wer den Bogen führt, wird nicht standhalten.\nWer schnell zu Fuß ist, wird nicht entkommen.\nWer auf dem Pferd reitet, wird sein Leben nicht retten.",
+       "englisch_web": "He who handles the bow won’t stand. He who is swift of foot won’t escape. He who rides the horse won’t deliver himself."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Und wer unter den Helden mutig ist,\nwird an jenem Tag nackt fliehen“,\nspricht der HERR.",
+       "englisch_web": "He who is courageous among the mighty will flee away naked on that day,” says Yahweh."
+      }
+     ],
+     "erklaerung": "Wenn das Gericht kommt, hilft keine Stärke, keine Schnelligkeit, keine Waffe. Selbst der mutigste Krieger wird alles fallen lassen und nackt fliehen.\nDas erfüllte sich, als die Assyrer im Jahr 722 vor Christus das Nordreich Israel eroberten."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der Löwe hat gebrüllt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Gerade weil ihr erwählt seid",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Hört dieses Wort, das der HERR gegen euch geredet hat,\nihr Kinder Israel,\ngegen die ganze Sippe, die ich aus dem Land Ägypten heraufgeführt habe:",
+       "englisch_web": "Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Nur euch habe ich erwählt\nvon allen Sippen der Erde.\nDarum werde ich euch für alle eure Sünden heimsuchen.“",
+       "englisch_web": "“I have chosen only you of all the families of the earth. Therefore I will punish you for all of your sins.”"
+      }
+     ],
+     "erklaerung": "Ein überraschender Satz! Die Israeliten dachten wohl: „Wir sind Gottes erwähltes Volk. Darum sind wir sicher.“ Amos dreht das um: Gerade weil ihr erwählt seid, gerade weil ihr Gott so gut kennt, habt ihr eine größere Verantwortung.\nErwählung ist kein Privileg, sondern eine Aufgabe. Jesus sagt ähnlich: „Wem viel gegeben ist, von dem wird viel gefordert“ (Lukas 12,48).\nDas hebräische Wort für „erwählt“ heißt eigentlich „erkannt“. Es beschreibt eine enge, persönliche Beziehung."
+    },
+    {
+     "ueberschrift": "Nichts geschieht ohne Grund",
+     "vers_von": 3,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Gehen zwei miteinander,\nohne dass sie sich verabredet haben?",
+       "englisch_web": "Do two walk together, unless they have agreed?"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Brüllt ein Löwe im Dickicht,\nwenn er keine Beute hat?\nLässt ein junger Löwe seine Stimme aus seiner Höhle erschallen,\nwenn er nichts gefangen hat?",
+       "englisch_web": "Will a lion roar in the thicket, when he has no prey? Does a young lion cry out of his den, if he has caught nothing?"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Fällt ein Vogel in eine Falle auf der Erde,\nwenn keine Schlinge für ihn gelegt ist?\nSchnellt eine Falle vom Boden hoch,\nwenn sie nichts gefangen hat?",
+       "englisch_web": "Can a bird fall in a trap on the earth, where no snare is set for him? Does a snare spring up from the ground, when there is nothing to catch?"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wird in einer Stadt das Horn geblasen,\nohne dass das Volk erschrickt?\nGeschieht ein Unglück in einer Stadt,\nund der HERR hat es nicht getan?",
+       "englisch_web": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and Yahweh hasn’t done it?"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Gewiss, der Herr, der HERR, tut nichts,\nohne dass er sein Geheimnis seinen Knechten, den Propheten, offenbart.",
+       "englisch_web": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Der Löwe hat gebrüllt.\nWer sollte sich nicht fürchten?\nDer Herr, der HERR, hat geredet.\nWer sollte da nicht weissagen?",
+       "englisch_web": "The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy?"
+      }
+     ],
+     "erklaerung": "Amos stellt eine Reihe von Fragen aus dem Alltag eines Hirten und Bauern. Die Antwort ist immer: Nein! Alles hat eine Ursache.\n– Zwei gehen zusammen, weil sie sich verabredet haben.\n– Ein Löwe brüllt, weil er Beute hat.\n– Eine Falle schnappt zu, weil etwas hineingetreten ist.\nUnd dann die Pointe (Vers 8): Ich, Amos, rede, weil Gott geredet hat. Ich kann nicht anders. Wie man erschrickt, wenn ein Löwe brüllt, so muss ich weissagen, wenn Gott spricht. Amos verteidigt damit seinen Auftrag.\nVers 6: „Geschieht ein Unglück, und der HERR hat es nicht getan?“ Ein schwieriger Satz. Amos meint hier das Unglück, das Gott als Gericht über Israel schickt. Er will sagen: Es ist kein Zufall, es hat einen Sinn. Man darf diesen Vers nicht so verstehen, dass jedes Unglück, das einem Menschen passiert, eine Strafe Gottes ist (vgl. Lukas 13,1–5; Johannes 9,2–3).\nVers 7: Gott handelt nicht im Geheimen. Er warnt vorher durch seine Propheten. Er gibt immer eine Chance zur Umkehr."
+    },
+    {
+     "ueberschrift": "Unrecht in den Palästen",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Ruft es aus in den Palästen von Aschdod\nund in den Palästen im Land Ägypten und sagt:\n„Versammelt euch auf den Bergen von Samaria\nund seht, welche Unruhe in der Stadt ist\nund welche Unterdrückung unter ihnen herrscht.“",
+       "englisch_web": "Proclaim in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, “Assemble yourselves on the mountains of Samaria, and see what unrest is in her, and what oppression is among them.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "„Ja, sie wissen nicht, was recht ist“,\nspricht der HERR,\n„sie, die Raub und Beute in ihren Palästen aufhäufen.“",
+       "englisch_web": "“Indeed they don’t know to do right,” says Yahweh, “Who hoard plunder and loot in their palaces.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Darum spricht der Herr, der HERR:\n„Ein Feind wird das Land überrennen.\nEr wird deine Bollwerke niederreißen,\nund deine Paläste werden geplündert werden.“",
+       "englisch_web": "Therefore the Lord Yahweh says: “An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "So spricht der HERR:\n„Wie ein Hirte aus dem Maul des Löwen zwei Beine\noder ein Stück vom Ohr rettet,\nso werden die Kinder Israel gerettet werden,\ndie in Samaria in der Ecke des Sofas sitzen\nund auf seidenen Kissen des Bettes.“",
+       "englisch_web": "Yahweh says: “As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.”"
+      }
+     ],
+     "erklaerung": "Vers 9: Ein ungewöhnlicher Aufruf: Die Heiden (Philister aus Aschdod, Ägypter) sollen kommen und zusehen, wie viel Unrecht in Samaria geschieht. Sogar die Heiden würden sich darüber wundern.\nVers 10: „Sie wissen nicht mehr, was recht ist.“ Die Reichen in ihren Palästen häufen Reichtum an, der durch Raub und Gewalt erworben wurde.\nVers 12: Ein bitteres Bild aus dem Hirtenleben: Wenn ein Löwe ein Schaf gerissen hatte, musste der Hirte Reste als Beweis vorzeigen, dass er es nicht gestohlen hatte (vgl. 2. Mose 22,13). So wird von den reichen Israeliten, die bequem auf ihren Sofas und Seidenkissen liegen, nur ein kläglicher Rest übrig bleiben."
+    },
+    {
+     "ueberschrift": "Häuser aus Elfenbein",
+     "vers_von": 13,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "„Hört und bezeugt es gegen das Haus Jakob“,\nspricht der Herr, der HERR, der Gott der Heere.",
+       "englisch_web": "“Listen, and testify against the house of Jacob,” says the Lord Yahweh, the God of Armies."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "„Denn an dem Tag, an dem ich die Verbrechen Israels an ihm heimsuche,\nwerde ich auch die Altäre von Bethel heimsuchen.\nDie Hörner des Altars werden abgehauen werden\nund zu Boden fallen.",
+       "englisch_web": "“For in the day that I visit the transgressions of Israel on him, I will also visit the altars of Bethel; and the horns of the altar will be cut off, and fall to the ground."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ich werde das Winterhaus zusammen mit dem Sommerhaus schlagen.\nDie Elfenbeinhäuser werden zugrunde gehen,\nund die großen Häuser werden ein Ende haben“,\nspricht der HERR.",
+       "englisch_web": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says Yahweh."
+      }
+     ],
+     "erklaerung": "Vers 14: Bethel war das wichtigste Heiligtum im Nordreich. Die „Hörner des Altars“ waren ein Ort der Zuflucht (1. Könige 1,50). Wenn sie abgeschlagen werden, gibt es keine Zuflucht mehr.\nVers 15: Die Reichen hatten ein Winterhaus (im warmen Jordantal) und ein Sommerhaus (in den kühlen Bergen). Ihre Häuser waren mit Elfenbein verziert. Archäologen haben in Samaria tatsächlich viele kunstvolle Elfenbeinschnitzereien aus dieser Zeit gefunden.\nDie Botschaft: Luxus, der auf Kosten der Armen erworben wurde, hat keinen Bestand.\nFür heute: Amos fragt uns, wie unser Wohlstand mit der Not anderer zusammenhängt, auch weltweit."
+    }
+   ]
+  }
+ ]
+}
