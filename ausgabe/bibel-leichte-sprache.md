@@ -109222,11 +109222,11 @@ Selbst wenn sie gebären,
 werde ich die Lieblinge ihres Leibes töten.“
 <sup>17</sup>Mein Gott wird sie verwerfen,
 weil sie nicht auf ihn gehört haben.
-Und sie werden Flüchtlinge unter den Völkern sein.
+Und sie werden Umherirrende unter den Völkern sein.
 
 > **Was bedeutet das?**
 > Vers 15: In Gilgal hatte Israel einst seinen ersten König Saul eingesetzt (1. Samuel 11,15), obwohl Gott selbst ihr König sein wollte. Dort gab es später auch einen Götzenkult.
 > „Ich werde sie nicht mehr lieben.“ Das ist ein schrecklicher Satz. Aber man muss das ganze Buch lesen: In Kapitel 11 und 14 sagt Gott genau das Gegenteil: „Wie könnte ich dich preisgeben?“ und „Ich will sie aus freien Stücken lieben“ (14,4). Gottes Zorn ist echt, aber seine Liebe hat das letzte Wort.
 > Vers 16: Ein Wortspiel: „Ephraim“ klingt wie „fruchtbar“. Aber jetzt wird Ephraim keine Frucht mehr bringen.
-> Vers 17: „Flüchtlinge unter den Völkern“. Das traf ein: Nach 722 vor Christus wurden die Israeliten des Nordreichs von den Assyrern verschleppt und unter die Völker zerstreut.
+> Vers 17: „Umherirrende unter den Völkern“. Das traf ein: Nach 722 vor Christus wurden die Israeliten des Nordreichs von den Assyrern verschleppt und unter die Völker zerstreut.
 > Auch dieser Vers ist kein Freibrief für Gewalt gegen Kinder. Kinder sind in der Bibel immer schutzwürdig (vgl. Markus 10,14: „Lasst die Kinder zu mir kommen“).
