@@ -96432,7 +96432,7 @@ und ging zu den Kindern Ammon.
 den ganzen Rest des Volkes,
 den er Jischmael, dem Sohn Netanjas, aus Mizpa wieder abgenommen hatte,
 nachdem dieser Gedalja, den Sohn Ahikams, getötet hatte:
-die Kriegsleute, die Frauen, die Kinder und die Hofbeamten,
+die Kriegsleute, die Frauen, die Kinder und die Eunuchen,
 die er aus Gibeon zurückgebracht hatte.
 <sup>17</sup>Sie zogen fort und wohnten in Gerut-Kimham, das bei Betlehem liegt,
 um nach Ägypten zu ziehen,
@@ -96444,7 +96444,7 @@ den der König von Babel als Statthalter über das Land eingesetzt hatte.
 > **Was bedeutet das?**
 > Vers 11–15: Johanan verfolgt Jischmael und befreit die Gefangenen. Jischmael selbst entkommt.
 > Vers 16–18: Jetzt haben die Überlebenden große Angst: Die Babylonier könnten sie für den Mord an ihrem Statthalter bestrafen. Sie wollen nach Ägypten fliehen.
-> Vers 16: Das WEB hat hier „eunuchs“; gemeint sind Hofbeamte.
+> Vers 16: „Eunuchen“ waren Hofbeamte am Königshof.
 
 ## Jeremia – Kapitel 42
 #### Sollen wir nach Ägypten gehen?
