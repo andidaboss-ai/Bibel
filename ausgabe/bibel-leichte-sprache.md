@@ -96822,3 +96822,421 @@ an allen Orten, wohin du gehst.‘“
 > Vers 4: Gott antwortet: Auch mir tut es weh. Ich muss niederreißen, was ich selbst gebaut habe.
 > Vers 5: „Suchst du große Dinge für dich? Suche sie nicht!“ Vielleicht hatte Baruch auf Ansehen oder Karriere gehofft. Gott sagt: In dieser schweren Zeit ist das nicht wichtig. Aber ich verspreche dir: Du wirst überleben, wohin du auch gehst.
 > Ein tröstliches Wort für alle, die sich erschöpft fühlen: Nicht große Erfolge zählen, sondern dass Gott dein Leben bewahrt. Wer sich ausgebrannt fühlt, darf sich Hilfe holen, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111.
+
+## Jeremia – Kapitel 46
+#### Worte über Ägypten
+
+---
+
+### Die Schlacht bei Karkemisch (Vers 1–12)
+
+<sup>1</sup>Das Wort des HERRN, das an den Propheten Jeremia kam über die Nationen.
+<sup>2</sup>Über Ägypten:
+über das Heer des Pharao Necho, des Königs von Ägypten,
+das am Fluss Euphrat bei Karkemisch stand
+und das Nebukadnezar, der König von Babel, schlug
+im vierten Jahr Jojakims, des Sohnes Joschijas, des Königs von Juda.
+<sup>3</sup>„Rüstet Schild und Langschild
+und rückt zum Kampf heran!
+<sup>4</sup>Spannt die Pferde an
+und steigt auf, ihr Reiter,
+und stellt euch auf mit euren Helmen!
+Poliert die Speere,
+zieht die Panzer an!
+<sup>5</sup>Warum sehe ich es?
+Sie sind erschrocken und weichen zurück.
+Ihre Helden sind zerschlagen,
+sie fliehen in Eile
+und schauen sich nicht um.
+Schrecken ringsum!“, spricht der HERR.
+<sup>6</sup>„Der Schnelle soll nicht entfliehen
+und der Held nicht entkommen.
+Im Norden, am Fluss Euphrat,
+sind sie gestolpert und gefallen.
+<sup>7</sup>Wer ist es, der aufsteigt wie der Nil,
+wie Ströme, deren Wasser wogen?
+<sup>8</sup>Ägypten steigt auf wie der Nil,
+wie Ströme, deren Wasser wogen.
+Es sagt: ‚Ich will aufsteigen, ich will die Erde bedecken.
+Ich will Städte und ihre Bewohner vernichten.‘
+<sup>9</sup>Zieht hinauf, ihr Pferde!
+Rast, ihr Wagen!
+Die Helden sollen ausziehen:
+Kusch und Put, die den Schild tragen,
+und die Luditer, die den Bogen führen und spannen.
+<sup>10</sup>Denn dieser Tag gehört dem Herrn, dem HERRN der Heere,
+ein Tag der Vergeltung,
+um sich an seinen Gegnern zu rächen.
+Das Schwert wird fressen und satt werden
+und sich an ihrem Blut berauschen.
+Denn der Herr, der HERR der Heere, hält ein Opferfest
+im Land des Nordens, am Fluss Euphrat.
+<sup>11</sup>Zieh hinauf nach Gilead und hol Balsam,
+Jungfrau, Tochter Ägypten!
+Umsonst gebrauchst du viele Heilmittel.
+Es gibt keine Heilung für dich.
+<sup>12</sup>Die Nationen haben von deiner Schande gehört,
+und die Erde ist voll von deinem Geschrei.
+Denn ein Held ist über den anderen gestolpert,
+sie sind beide zusammen gefallen.“
+
+> **Was bedeutet das?**
+> Mit Kapitel 46 beginnen die „Worte über die Völker“ (Kapitel 46–51). Jeremia war ja berufen als „Prophet für die Völker“ (1,5). Gott ist nicht nur der Gott Israels, sondern Herr über die ganze Welt.
+> Vers 2: Die Schlacht bei Karkemisch am Euphrat im Jahr 605 vor Christus war eine der wichtigsten Schlachten der Antike. Der junge Nebukadnezar besiegte das ägyptische Heer. Danach war Babylon die größte Macht.
+> Vers 3–6: Ein lebendiges Bild: Erst rüsten sich die Ägypter stolz zum Kampf. Dann fliehen sie in Panik.
+> Vers 7–8: Ägypten wollte sich ausbreiten wie der Nil bei Hochwasser.
+> Vers 9: Kusch (das WEB hat „Cush“), Put und Lud waren Völker aus Afrika, die im ägyptischen Heer kämpften.
+> Vers 10: Die Sprache vom „Schwert, das sich an Blut berauscht“, ist die harte Kriegssprache der damaligen Zeit. Sie beschreibt Gottes Gericht über eine überhebliche Macht. Sie ist keine Aufforderung zu Gewalt und keine Rechtfertigung von Krieg.
+> Vers 11: Wie Juda (8,22) findet auch Ägypten keinen Balsam, der heilt.
+
+---
+
+### Nebukadnezar wird nach Ägypten kommen (Vers 13–26)
+
+<sup>13</sup>Das Wort, das der HERR zum Propheten Jeremia redete,
+dass Nebukadnezar, der König von Babel, kommen werde,
+um das Land Ägypten zu schlagen:
+<sup>14</sup>„Verkündet es in Ägypten
+und lasst es hören in Migdol,
+lasst es hören in Memfis und in Tachpanhes!
+Sagt: ‚Stell dich auf und rüste dich,
+denn das Schwert hat rings um dich gefressen!‘
+<sup>15</sup>Warum sind deine Starken hinweggerafft?
+Sie hielten nicht stand,
+denn der HERR hat sie umgestoßen.
+<sup>16</sup>Er hat viele stolpern lassen.
+Ja, sie fielen übereinander.
+Sie sagten: ‚Auf! Lasst uns zurückkehren zu unserem Volk
+und in das Land unserer Geburt,
+weg vor dem gewaltsamen Schwert!‘
+<sup>17</sup>Dort riefen sie:
+‚Der Pharao, der König von Ägypten, ist nur ein Lärm.
+Er hat die bestimmte Zeit verstreichen lassen.‘
+<sup>18</sup>So wahr ich lebe“, spricht der König, dessen Name HERR der Heere ist,
+„gewiss, wie der Tabor unter den Bergen
+und wie der Karmel am Meer,
+so wird er kommen.
+<sup>19</sup>Du Tochter, die in Ägypten wohnt,
+pack dir dein Gepäck für die Gefangenschaft!
+Denn Memfis wird zur Wüste werden
+und verbrannt werden, ohne Bewohner.
+<sup>20</sup>Ägypten ist eine sehr schöne junge Kuh,
+aber das Verderben von Norden ist gekommen.
+Es ist gekommen.
+<sup>21</sup>Auch ihre Söldner in ihrer Mitte sind wie Mastkälber,
+denn auch sie haben sich umgewandt.
+Sie sind zusammen geflohen.
+Sie hielten nicht stand,
+denn der Tag ihres Unglücks ist über sie gekommen,
+die Zeit ihrer Heimsuchung.
+<sup>22</sup>Ihr Geräusch geht wie das einer Schlange,
+denn sie ziehen mit einem Heer heran
+und kommen mit Äxten über sie wie Holzfäller.
+<sup>23</sup>Sie werden ihren Wald fällen“, spricht der HERR,
+„auch wenn er undurchdringlich ist,
+denn sie sind zahlreicher als die Heuschrecken
+und nicht zu zählen.
+<sup>24</sup>Die Tochter Ägypten wird zuschanden.
+Sie wird in die Hand des Volkes aus dem Norden gegeben.“
+<sup>25</sup>Der HERR der Heere, der Gott Israels, spricht:
+„Siehe, ich werde Amon von No heimsuchen
+und den Pharao und Ägypten mit seinen Göttern und seinen Königen,
+ja den Pharao und die, die auf ihn vertrauen.
+<sup>26</sup>Ich werde sie in die Hand derer geben, die ihnen nach dem Leben trachten,
+und in die Hand Nebukadnezars, des Königs von Babel,
+und in die Hand seiner Diener.
+Danach aber wird es wieder bewohnt sein wie in früheren Tagen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 14: Gerade die Städte, in die die Juden geflohen waren (Migdol, Tachpanhes, Memfis), werden genannt.
+> Vers 17: Ein Spottname für den Pharao: „Nur Lärm“, viel Gerede, aber nichts dahinter.
+> Vers 18: Nebukadnezar wird so sicher kommen, wie die Berge Tabor und Karmel aus der Ebene herausragen.
+> Vers 25: „Amon von No“: Amon war der Hauptgott der Stadt No, die heute Theben (Luxor) heißt.
+> Vers 26: Am Ende eine überraschende Hoffnung auch für Ägypten: „Danach wird es wieder bewohnt sein.“ Gottes Gericht ist nicht das letzte Wort, auch nicht für andere Völker.
+
+---
+
+### Fürchte dich nicht, Jakob (Vers 27–28)
+
+<sup>27</sup>„Du aber, fürchte dich nicht, Jakob, mein Knecht,
+und erschrick nicht, Israel!
+Denn siehe, ich rette dich aus der Ferne
+und deine Nachkommen aus dem Land ihrer Gefangenschaft.
+Jakob wird zurückkehren und wird Ruhe und Frieden haben,
+und niemand wird ihn erschrecken.
+<sup>28</sup>Fürchte dich nicht, Jakob, mein Knecht“, spricht der HERR,
+„denn ich bin bei dir.
+Denn ich werde allen Nationen, wohin ich dich vertrieben habe,
+ein Ende machen,
+dir aber werde ich kein Ende machen.
+Doch ich werde dich mit Maß züchtigen
+und dich nicht ganz ungestraft lassen.“
+
+> **Was bedeutet das?**
+> Diese Verse stehen fast gleich schon in Kapitel 30,10–11. Mitten in den Worten über die großen Weltmächte erinnert Gott sein kleines Volk: Fürchte dich nicht! Ich bin bei dir. Die Großmächte vergehen, aber Gottes Volk wird bleiben.
+
+## Jeremia – Kapitel 47
+#### Worte über die Philister
+
+---
+
+### Eine Flut aus dem Norden (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN, das an den Propheten Jeremia kam über die Philister,
+bevor der Pharao Gaza schlug.
+<sup>2</sup>So spricht der HERR:
+„Siehe, Wasser steigen auf von Norden
+und werden zu einem überflutenden Strom.
+Sie werden das Land überfluten und alles, was darin ist,
+die Stadt und die darin wohnen.
+Die Menschen werden schreien,
+und alle Bewohner des Landes werden heulen.
+<sup>3</sup>Vom Stampfen der Hufe seiner Hengste,
+vom Rasseln seiner Wagen, vom Dröhnen seiner Räder
+schauen die Väter sich nicht um nach ihren Kindern,
+so schlaff sind ihre Hände,
+<sup>4</sup>wegen des Tages, der kommt, um alle Philister zu vernichten,
+um Tyrus und Sidon jeden Helfer abzuschneiden, der noch übrig ist.
+Denn der HERR wird die Philister vernichten,
+den Rest der Insel Kaftor.
+<sup>5</sup>Kahlheit ist über Gaza gekommen.
+Aschkelon ist vernichtet.
+Du Rest ihres Tales,
+wie lange willst du dich ritzen?
+<sup>6</sup>‚Ach, du Schwert des HERRN,
+wie lange willst du nicht ruhen?
+Fahr zurück in deine Scheide!
+Ruhe und sei still!‘
+<sup>7</sup>Wie sollte es ruhen,
+da der HERR ihm doch Befehl gegeben hat?
+Gegen Aschkelon und gegen die Meeresküste,
+dort hat er es hinbestellt.“
+
+> **Was bedeutet das?**
+> Die Philister lebten an der Küste im Südwesten Israels, in Städten wie Gaza und Aschkelon. Sie waren oft Feinde Israels. Sie stammten ursprünglich von der Insel Kaftor, wahrscheinlich Kreta.
+> Vers 2: Das babylonische Heer kommt wie eine Flutwelle aus dem Norden.
+> Vers 3: Ein erschütterndes Detail: Die Väter sind so voller Angst, dass sie nicht einmal nach ihren Kindern schauen. Der Krieg zerstört sogar die Liebe zwischen Eltern und Kindern.
+> Vers 5: Kahl geschorene Köpfe und Ritzen der Haut waren Zeichen der Trauer.
+> Vers 6: Ein berührender Ruf: „Ach, du Schwert, wie lange willst du nicht ruhen? Fahr zurück in deine Scheide!“ Selbst mitten in der Gerichtsankündigung hört man die Sehnsucht, dass der Krieg endlich aufhört. Dieser Ruf ist bis heute aktuell, überall, wo Krieg herrscht.
+> Wer sich aus Verzweiflung selbst verletzt, soll sich Hilfe holen: Telefonseelsorge 0800 111 0 111.
+
+## Jeremia – Kapitel 48
+#### Worte über Moab
+
+---
+
+### Moab wird verwüstet (Vers 1–10)
+
+<sup>1</sup>Über Moab.
+So spricht der HERR der Heere, der Gott Israels:
+„Wehe über Nebo, denn es ist verwüstet!
+Kirjatajim ist zuschanden, es ist eingenommen.
+Die hohe Burg ist beschämt und niedergerissen.
+<sup>2</sup>Moabs Ruhm ist nicht mehr.
+In Heschbon haben sie Böses gegen es geplant:
+‚Kommt, lasst uns es ausrotten, sodass es kein Volk mehr ist!‘
+Auch du, Madmen, wirst zum Schweigen gebracht werden.
+Das Schwert wird dich verfolgen.
+<sup>3</sup>Horch, ein Geschrei aus Horonajim:
+Verwüstung und großer Zusammenbruch!
+<sup>4</sup>Moab ist zerschlagen.
+Seine Kleinen lassen ihr Geschrei hören.
+<sup>5</sup>Denn den Aufstieg nach Luhit
+steigt man mit ständigem Weinen hinauf.
+Denn am Abstieg von Horonajim
+hört man das Angstgeschrei über den Zusammenbruch.
+<sup>6</sup>Flieht! Rettet euer Leben!
+Seid wie ein Wacholderstrauch in der Wüste!
+<sup>7</sup>Denn weil du auf deine Werke und auf deine Schätze vertraut hast,
+wirst auch du eingenommen werden.
+Kemosch wird in die Gefangenschaft ziehen,
+seine Priester und seine Fürsten zusammen.
+<sup>8</sup>Der Verwüster wird über jede Stadt kommen,
+und keine Stadt wird entkommen.
+Auch das Tal wird zugrunde gehen
+und die Ebene verwüstet werden,
+wie der HERR gesagt hat.
+<sup>9</sup>Gebt Moab Flügel,
+damit es davonfliegen kann!
+Denn seine Städte werden zur Wüste werden,
+ohne dass jemand darin wohnt.
+<sup>10</sup>Verflucht ist, wer das Werk des HERRN nachlässig tut,
+und verflucht ist, wer sein Schwert vom Blut zurückhält.
+
+> **Was bedeutet das?**
+> Moab lag östlich vom Toten Meer, im heutigen Jordanien. Die Moabiter waren mit Israel verwandt (1. Mose 19,37). Ruth, die Urgroßmutter Davids, war eine Moabiterin. Trotzdem gab es oft Streit und Krieg zwischen beiden Völkern.
+> Viele Städte werden genannt, so wird deutlich: Das ganze Land ist betroffen.
+> Vers 7: Moab vertraute auf seine Schätze und auf seinen Gott Kemosch. Aber selbst Kemosch wird „in die Gefangenschaft ziehen“, also seine Statue wird weggeschleppt.
+> Vers 10: Ein sehr harter Vers. Er richtet sich an die Babylonier, die Gott als Werkzeug des Gerichts über Moab gebraucht: Sie sollen ihren Auftrag ausführen. Dieser Vers ist keine allgemeine Anweisung und gibt niemandem das Recht, Gewalt anzuwenden. Leider haben Menschen in der Geschichte solche Verse missbraucht, um Gewalt zu rechtfertigen. Das widerspricht dem Willen Gottes, der „Gnade, Recht und Gerechtigkeit“ liebt (9,24).
+
+---
+
+### Wein, der nie umgefüllt wurde (Vers 11–17)
+
+<sup>11</sup>Moab war sorglos von seiner Jugend an.
+Es hat ruhig auf seiner Hefe gelegen
+und ist nicht von Gefäß zu Gefäß umgegossen worden,
+und es ist nicht in die Gefangenschaft gezogen.
+Darum ist sein Geschmack in ihm geblieben,
+und sein Duft hat sich nicht verändert.
+<sup>12</sup>Darum siehe, es kommen Tage“, spricht der HERR,
+„da werde ich ihm Leute schicken, die ihn umgießen.
+Sie werden ihn umgießen
+und seine Gefäße leeren
+und seine Krüge zerschlagen.
+<sup>13</sup>Und Moab wird sich über Kemosch schämen,
+wie sich das Haus Israel über Bethel geschämt hat,
+auf das es vertraute.
+<sup>14</sup>Wie könnt ihr sagen:
+‚Wir sind Helden und tapfere Männer für den Krieg‘?
+<sup>15</sup>Moab ist verwüstet,
+und man ist in seine Städte hinaufgezogen,
+und seine auserlesenen jungen Männer sind zur Schlachtung hinabgestiegen“,
+spricht der König, dessen Name HERR der Heere ist.
+<sup>16</sup>„Moabs Unglück ist nahe,
+und sein Unheil eilt sehr schnell herbei.
+<sup>17</sup>Bemitleidet es, alle, die ihr rings um es wohnt,
+und alle, die ihr seinen Namen kennt!
+Sagt: ‚Wie ist der starke Stab zerbrochen,
+der prächtige Stab!‘
+
+> **Was bedeutet das?**
+> Vers 11–12: Ein Bild aus dem Weinbau: Wein, der lange auf der Hefe liegt und nie umgefüllt wird, behält seinen alten Geschmack. Moab hat nie Krieg oder Verschleppung erlebt. Es ist selbstzufrieden geworden und hat sich nie verändert. Jetzt wird es „umgegossen“, also aus seiner Ruhe gerissen.
+> Vers 13: Bethel war ein Heiligtum im Nordreich Israel mit einem goldenen Stierbild (1. Könige 12,28–29). Es konnte Israel nicht retten. So wird auch Kemosch Moab nicht retten.
+> Vers 17: Die Nachbarn sollen Mitleid haben. Selbst im Gericht klingt Mitgefühl an.
+
+---
+
+### Klage über die Städte Moabs (Vers 18–28)
+
+<sup>18</sup>Du Tochter, die in Dibon wohnt,
+steig herab von deiner Herrlichkeit
+und setz dich in die Dürre!
+Denn der Verwüster Moabs ist gegen dich heraufgezogen.
+Er hat deine Festungen zerstört.
+<sup>19</sup>Du Bewohnerin von Aroer,
+stell dich an den Weg und spähe aus!
+Frag den, der flieht, und die, die entkommt,
+sag: ‚Was ist geschehen?‘
+<sup>20</sup>Moab ist zuschanden, denn es ist zerschlagen.
+Heult und schreit!
+Verkündet es am Arnon, dass Moab verwüstet ist!
+<sup>21</sup>Das Gericht ist über das ebene Land gekommen,
+über Holon, über Jahza, über Mefaat,
+<sup>22</sup>über Dibon, über Nebo, über Bet-Diblatajim,
+<sup>23</sup>über Kirjatajim, über Bet-Gamul, über Bet-Meon,
+<sup>24</sup>über Kerijot, über Bozra
+und über alle Städte des Landes Moab, die fernen und die nahen.
+<sup>25</sup>Das Horn Moabs ist abgehauen,
+und sein Arm ist zerbrochen“, spricht der HERR.
+<sup>26</sup>„Macht es betrunken,
+denn es hat sich gegen den HERRN überhoben!
+Moab wird sich in seinem Erbrochenen wälzen
+und wird auch selbst zum Gespött werden.
+<sup>27</sup>Denn war nicht Israel dir zum Gespött?
+Wurde es etwa unter Dieben ertappt?
+Denn sooft du von ihm redest, schüttelst du den Kopf.
+<sup>28</sup>Ihr Bewohner Moabs, verlasst die Städte
+und wohnt in den Felsen!
+Seid wie die Taube,
+die ihr Nest am Rand der Schlucht baut.
+
+> **Was bedeutet das?**
+> Vers 21–24: Eine lange Liste von Städten: Jede einzelne wird vom Gericht getroffen. Dibon ist heute Dhiban in Jordanien. Dort wurde 1868 der berühmte „Mescha-Stein“ gefunden, eine Inschrift des Königs Mescha von Moab aus dem 9. Jahrhundert vor Christus.
+> Vers 25: Das „Horn“ ist ein Bild für Kraft und Macht.
+> Vers 26–27: Moab hatte sich über Israel lustig gemacht und den Kopf geschüttelt, als es Israel schlecht ging. Jetzt wird Moab selbst verspottet. Wer andere in ihrem Unglück verhöhnt, wird selbst zum Gespött.
+> Vers 28: Die Menschen sollen sich in den Felsen verstecken wie Tauben in den Felswänden.
+
+---
+
+### Moabs Hochmut (Vers 29–39)
+
+<sup>29</sup>Wir haben vom Hochmut Moabs gehört,
+er ist sehr hochmütig,
+von seinem Stolz, seinem Hochmut, seiner Überheblichkeit
+und der Überheblichkeit seines Herzens.
+<sup>30</sup>„Ich kenne seinen Zorn“, spricht der HERR,
+„dass er nichts ist.
+Seine Prahlereien haben nichts bewirkt.
+<sup>31</sup>Darum will ich über Moab heulen.
+Ja, über ganz Moab will ich schreien.
+Man wird um die Leute von Kir-Heres trauern.
+<sup>32</sup>Mehr als um Jaser weine ich um dich, Weinstock von Sibma.
+Deine Ranken zogen über das Meer.
+Sie reichten bis zum Meer von Jaser.
+Der Verwüster ist über deine Sommerfrüchte
+und über deine Weinlese hergefallen.
+<sup>33</sup>Freude und Jubel sind weggenommen
+vom fruchtbaren Feld und vom Land Moab.
+Ich habe den Wein aus den Keltern verschwinden lassen.
+Niemand wird mit Jubelruf keltern.
+Der Ruf wird kein Jubelruf sein.
+<sup>34</sup>Vom Geschrei Heschbons bis Elale,
+bis Jahaz haben sie ihre Stimme erhoben,
+von Zoar bis Horonajim, bis Eglat-Schelischija.
+Denn auch die Wasser von Nimrim werden zur Wüste.
+<sup>35</sup>Und ich werde in Moab ein Ende machen“, spricht der HERR,
+„mit dem, der auf der Opferhöhe opfert
+und seinen Göttern Räucherwerk verbrennt.
+<sup>36</sup>Darum klagt mein Herz um Moab wie Flöten,
+und mein Herz klagt wie Flöten um die Leute von Kir-Heres.
+Darum ist der Reichtum, den es erworben hat, verloren gegangen.
+<sup>37</sup>Denn jeder Kopf ist kahl
+und jeder Bart abgeschnitten.
+An allen Händen sind Schnittwunden
+und an den Hüften Sacktuch.
+<sup>38</sup>Auf allen Dächern Moabs und auf seinen Straßen
+ist überall Klage.
+Denn ich habe Moab zerbrochen wie ein Gefäß,
+an dem niemand Gefallen hat“, spricht der HERR.
+<sup>39</sup>„Wie ist es zerschlagen!
+Wie heulen sie!
+Wie hat Moab beschämt den Rücken gekehrt!
+So wird Moab zum Gespött und zum Schrecken
+für alle, die rings um es wohnen.“
+
+> **Was bedeutet das?**
+> Vers 29–30: Der Grund für das Gericht ist Moabs Hochmut, sechsmal wird er hier genannt. Moab war stolz und überheblich. Aber seine Prahlerei war leer.
+> Vers 31–32 und 36: Das Erstaunliche: Gott (oder der Prophet) weint um Moab! „Mein Herz klagt um Moab wie Flöten.“ Flöten wurden bei Trauerfeiern gespielt. Gott freut sich nicht über das Unglück eines Volkes, auch nicht eines feindlichen Volkes. Er trauert mit.
+> Vers 32–33: Moab war berühmt für seinen Wein. Jetzt gibt es keine fröhliche Weinlese mehr.
+> Vers 37: Kahl geschorene Köpfe, Schnittwunden, Trauerkleider: Zeichen tiefer Trauer.
+> Viele Verse in diesem Kapitel ähneln Jesaja 15–16.
+
+---
+
+### Grauen, Grube und Falle (Vers 40–47)
+
+<sup>40</sup>Denn so spricht der HERR:
+„Siehe, er wird fliegen wie ein Adler
+und seine Flügel über Moab ausbreiten.
+<sup>41</sup>Kerijot ist eingenommen,
+und die Festungen sind erobert.
+Das Herz der Helden Moabs wird an jenem Tag sein
+wie das Herz einer Frau in Wehen.
+<sup>42</sup>Moab wird vernichtet werden, sodass es kein Volk mehr ist,
+weil es sich gegen den HERRN überhoben hat.
+<sup>43</sup>Grauen, Grube und Falle sind über dir,
+du Bewohner Moabs“, spricht der HERR.
+<sup>44</sup>„Wer vor dem Grauen flieht, wird in die Grube fallen,
+und wer aus der Grube heraufsteigt, wird in der Falle gefangen werden.
+Denn ich bringe über es, über Moab, das Jahr seiner Heimsuchung“,
+spricht der HERR.
+<sup>45</sup>„Im Schatten Heschbons stehen die Flüchtlinge ohne Kraft.
+Denn ein Feuer ist von Heschbon ausgegangen
+und eine Flamme aus der Mitte Sihons,
+und es hat die Schläfe Moabs gefressen
+und den Scheitel der lärmenden Söhne.
+<sup>46</sup>Wehe dir, Moab!
+Das Volk des Kemosch ist verloren.
+Denn deine Söhne sind in die Gefangenschaft weggeführt
+und deine Töchter in die Verbannung.
+<sup>47</sup>Doch ich werde das Geschick Moabs wenden in den letzten Tagen“,
+spricht der HERR.
+Bis hierher reicht das Gericht über Moab.
+
+> **Was bedeutet das?**
+> Vers 40: Babylon kommt wie ein Adler, der sich auf seine Beute stürzt.
+> Vers 43–44: „Grauen, Grube und Falle“: Im Hebräischen klingen diese drei Wörter ähnlich (pachad, pachat, pach). Es gibt kein Entkommen: Wer dem einen entgeht, fällt ins nächste.
+> Vers 45: Heschbon war früher die Stadt des Amoriterkönigs Sihon (4. Mose 21,26–28). Dieses alte Lied wird hier aufgenommen.
+> Vers 47: Und am Ende, nach all dem Gericht, die überraschende Hoffnung: „Ich werde das Geschick Moabs wenden.“ Gott gibt auch das feindliche Nachbarvolk nicht auf. Seine Barmherzigkeit reicht über Israel hinaus.
