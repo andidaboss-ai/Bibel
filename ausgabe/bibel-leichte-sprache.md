@@ -103305,7 +103305,7 @@ in der Länge ihrer Zweige,
 denn ihre Wurzel war an vielen Wassern.
 <sup>8</sup>Die Zedern im Garten Gottes konnten sie nicht verdunkeln.
 Die Zypressen waren nicht wie ihre Äste.
-Die Platanen waren nicht wie ihre Zweige.
+Die Kiefern waren nicht wie ihre Zweige.
 Kein Baum im Garten Gottes war ihr gleich an Schönheit.
 <sup>9</sup>Ich habe sie schön gemacht durch die Menge ihrer Zweige,
 sodass alle Bäume Edens, die im Garten Gottes waren,
