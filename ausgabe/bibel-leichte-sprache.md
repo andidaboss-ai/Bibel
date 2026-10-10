@@ -110508,3 +110508,361 @@ spricht der HERR.
 > Vers 15: Die Reichen hatten ein Winterhaus (im warmen Jordantal) und ein Sommerhaus (in den kühlen Bergen). Ihre Häuser waren mit Elfenbein verziert. Archäologen haben in Samaria tatsächlich viele kunstvolle Elfenbeinschnitzereien aus dieser Zeit gefunden.
 > Die Botschaft: Luxus, der auf Kosten der Armen erworben wurde, hat keinen Bestand.
 > Für heute: Amos fragt uns, wie unser Wohlstand mit der Not anderer zusammenhängt, auch weltweit.
+
+## Amos – Kapitel 4
+#### Und doch seid ihr nicht umgekehrt
+
+---
+
+### Ihr Kühe von Baschan (Vers 1–3)
+
+<sup>1</sup>Hört dieses Wort, ihr Kühe von Baschan,
+die ihr auf dem Berg Samarias seid,
+die ihr die Armen unterdrückt,
+die ihr die Bedürftigen zermalmt,
+die ihr zu euren Männern sagt:
+„Bringt uns zu trinken!“
+<sup>2</sup>Der Herr, der HERR, hat bei seiner Heiligkeit geschworen:
+„Siehe, es kommen Tage über euch,
+da wird man euch mit Haken wegführen
+und die Letzten von euch mit Angelhaken.
+<sup>3</sup>Ihr werdet durch die Mauerlücken hinausgehen,
+jede geradeaus vor sich hin,
+und ihr werdet nach Harmon geworfen werden“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Baschan (östlich vom See Genezareth) war berühmt für seine gut genährten, kräftigen Rinder. Amos nennt die reichen Frauen von Samaria „Kühe von Baschan“: wohlgenährt und satt, während andere hungern. Sie verlangen von ihren Männern ständig Getränke für ihre Feste, und das Geld dafür kommt aus der Ausbeutung der Armen.
+> Wichtig: Amos kritisiert hier nicht Frauen allgemein, sondern reiche Menschen, die auf Kosten der Armen leben. Die Männer werden in anderen Kapiteln genauso hart kritisiert (zum Beispiel 6,1–6). Und das Bild ist kein Schimpfwort über das Aussehen, sondern es geht um Gier und Unrecht.
+> Vers 2–3: Wie Vieh an Haken werden sie durch Löcher in der zerstörten Stadtmauer weggeführt werden. Assyrische Bilder zeigen tatsächlich, wie Gefangene an Haken oder Seilen abgeführt wurden. Wo „Harmon“ lag, weiß man nicht.
+
+---
+
+### Fromm, aber ungerecht (Vers 4–5)
+
+<sup>4</sup>„Geht nach Bethel und sündigt!
+Nach Gilgal und sündigt noch mehr!
+Bringt jeden Morgen eure Schlachtopfer
+und alle drei Tage euren Zehnten.
+<sup>5</sup>Bringt ein Dankopfer von Gesäuertem dar
+und ruft freiwillige Gaben aus und prahlt damit,
+denn das gefällt euch, ihr Kinder Israel“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Bittere Ironie: Amos klingt wie ein Priester, der zum Gottesdienst einlädt, aber er sagt: „Kommt und sündigt!“ Der eifrige Gottesdienst in Bethel und Gilgal ist Sünde, weil er mit Unrecht im Alltag verbunden ist.
+> Vers 5: Sie geben Spenden, aber nur um damit zu prahlen. „Denn das gefällt EUCH.“ Es geht ihnen um ihr eigenes Ansehen, nicht um Gott. Jesus warnt später: „Wenn du Almosen gibst, lass es nicht vor dir her ausposaunen“ (Matthäus 6,2).
+
+---
+
+### Fünfmal: Und doch seid ihr nicht umgekehrt (Vers 6–11)
+
+<sup>6</sup>„Ich habe euch auch saubere Zähne gegeben in all euren Städten
+und Mangel an Brot in all euren Orten.
+Und doch seid ihr nicht zu mir umgekehrt“,
+spricht der HERR.
+<sup>7</sup>„Ich habe euch auch den Regen vorenthalten,
+als es noch drei Monate bis zur Ernte waren.
+Und ich ließ es über einer Stadt regnen
+und über einer anderen Stadt nicht regnen.
+Ein Feld wurde beregnet,
+und das Feld, auf das es nicht regnete, verdorrte.
+<sup>8</sup>Da wankten zwei oder drei Städte zu einer Stadt,
+um Wasser zu trinken,
+und wurden nicht satt.
+Und doch seid ihr nicht zu mir umgekehrt“,
+spricht der HERR.
+<sup>9</sup>„Ich habe euch oft mit Getreidebrand und Mehltau geschlagen
+in euren Gärten und euren Weinbergen,
+und die Heuschrecken haben eure Feigenbäume und eure Ölbäume gefressen.
+Und doch seid ihr nicht zu mir umgekehrt“,
+spricht der HERR.
+<sup>10</sup>„Ich habe Seuchen unter euch gesandt wie in Ägypten.
+Ich habe eure jungen Männer mit dem Schwert getötet
+und eure Pferde weggeführt.
+Ich habe den Gestank eures Lagers in eure Nase steigen lassen.
+Und doch seid ihr nicht zu mir umgekehrt“,
+spricht der HERR.
+<sup>11</sup>„Ich habe einige von euch umgestürzt,
+wie Gott Sodom und Gomorra umgestürzt hat,
+und ihr wart wie ein Holzscheit, das aus dem Feuer gerissen wurde.
+Und doch seid ihr nicht zu mir umgekehrt“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Fünfmal kommt derselbe traurige Satz: „Und doch seid ihr nicht zu mir umgekehrt.“ Man spürt Gottes Enttäuschung.
+> Vers 6: „Saubere Zähne“ – ein bitterer Ausdruck: Es gab nichts zu essen, also blieben die Zähne sauber. Hungersnot.
+> Vers 7–8: Der Regen fiel ungleich. Menschen mussten von Stadt zu Stadt wanken, um Wasser zu finden.
+> Vers 11: „Wie ein Holzscheit aus dem Feuer gerissen“ – sie sind knapp entkommen. Aber selbst das hat sie nicht zum Nachdenken gebracht.
+> Diese Liste deutet Katastrophen als Weckrufe Gottes. Wichtig: Das ist die prophetische Deutung einer bestimmten Zeit. Es heißt nicht, dass jede Dürre, jede Seuche oder jeder Krieg heute eine Strafe Gottes für die Betroffenen ist. Jesus widerspricht dieser Denkweise ausdrücklich (Lukas 13,1–5). Aber Krisen können ein Anlass sein, über das eigene Leben nachzudenken.
+
+---
+
+### Mach dich bereit, deinem Gott zu begegnen (Vers 12–13)
+
+<sup>12</sup>„Darum werde ich so mit dir verfahren, Israel.
+Weil ich so mit dir verfahren werde,
+mach dich bereit, deinem Gott zu begegnen, Israel!
+<sup>13</sup>Denn siehe, er, der die Berge bildet
+und den Wind erschafft,
+der dem Menschen sagt, was seine Gedanken sind,
+der die Morgenröte zur Finsternis macht
+und über die Höhen der Erde schreitet:
+HERR, Gott der Heere, ist sein Name.“
+
+> **Was bedeutet das?**
+> Vers 12: „Mach dich bereit, deinem Gott zu begegnen!“ Das klingt wie eine Drohung, und das ist es auch. Aber es ist auch eine letzte Einladung: Du wirst Gott begegnen, ob du willst oder nicht. Bereite dich vor!
+> Vers 13: Ein Lobpreis auf Gottes Größe: Er hat die Berge gemacht und den Wind, und er kennt sogar die Gedanken der Menschen. Solche kurzen Loblieder kommen bei Amos mehrmals vor (vgl. 5,8–9; 9,5–6).
+
+## Amos – Kapitel 5
+#### Es ströme das Recht wie Wasser
+
+---
+
+### Klagelied über Israel (Vers 1–3)
+
+<sup>1</sup>Hört dieses Wort,
+das ich als Klagelied über euch anstimme, Haus Israel:
+<sup>2</sup>„Gefallen ist die Jungfrau Israel.
+Sie wird nicht mehr aufstehen.
+Hingestreckt liegt sie auf ihrem Land.
+Niemand richtet sie auf.“
+<sup>3</sup>Denn so spricht der Herr, der HERR:
+„Die Stadt, aus der tausend auszogen,
+wird hundert übrig behalten,
+und die, aus der hundert auszogen,
+wird zehn übrig behalten
+für das Haus Israel.“
+
+> **Was bedeutet das?**
+> Amos singt ein Trauerlied, als wäre Israel schon gestorben. Das Volk ist noch mitten im Wohlstand, aber Amos sieht schon das Ende kommen.
+> Die „Jungfrau Israel“ ist ein Bild für das Volk wie eine junge Frau, die stirbt, bevor ihr Leben richtig begonnen hat.
+> Vers 3: Nur ein Zehntel wird überleben. So schrecklich wird der Krieg sein.
+
+---
+
+### Sucht mich, so werdet ihr leben (Vers 4–9)
+
+<sup>4</sup>Denn so spricht der HERR zum Haus Israel:
+„Sucht mich, so werdet ihr leben!
+<sup>5</sup>Aber sucht nicht Bethel,
+geht nicht nach Gilgal
+und zieht nicht nach Beerscheba hinüber.
+Denn Gilgal wird gewiss in die Gefangenschaft ziehen,
+und Bethel wird zunichte werden.
+<sup>6</sup>Sucht den HERRN, so werdet ihr leben,
+damit er nicht wie ein Feuer über das Haus Josef hereinbricht
+und es verzehrt
+und niemand in Bethel da ist, der löscht.
+<sup>7</sup>Ihr, die ihr das Recht in Wermut verwandelt
+und die Gerechtigkeit zu Boden werft!
+<sup>8</sup>Sucht ihn, der das Siebengestirn und den Orion gemacht hat,
+der die Todesschatten in Morgen verwandelt
+und den Tag zur Nacht verdunkelt,
+der die Wasser des Meeres ruft
+und sie über die Fläche der Erde ausgießt –
+HERR ist sein Name –,
+<sup>9</sup>der plötzliches Verderben über den Starken bringt,
+sodass Verderben über die Festung kommt.
+
+> **Was bedeutet das?**
+> Vers 4: „Sucht mich, so werdet ihr leben!“ Mitten in all den Gerichtsworten ein einfacher, klarer Weg: Wendet euch Gott zu!
+> Vers 5: Aber nicht in den Heiligtümern Bethel, Gilgal und Beerscheba. Dort wird zwar viel gebetet und geopfert, aber Gott ist dort nicht zu finden, weil der Gottesdienst mit Unrecht verbunden ist. Gott sucht man nicht an bestimmten Orten, sondern durch ein gerechtes Leben.
+> Vers 7: Wermut ist eine sehr bittere Pflanze. Das Recht, das süß und gut sein sollte, haben sie bitter gemacht.
+> Vers 8: Das Siebengestirn (die Plejaden) und der Orion sind Sternbilder. Gott hat die Sterne gemacht, er bestimmt Tag und Nacht. Und dieser große Gott will, dass ihr ihn sucht.
+
+---
+
+### Unrecht im Tor (Vers 10–13)
+
+<sup>10</sup>Sie hassen den, der im Tor zurechtweist,
+und sie verabscheuen den, der aufrichtig redet.
+<sup>11</sup>Darum, weil ihr den Armen zertretet
+und Abgaben an Weizen von ihm nehmt,
+habt ihr Häuser aus behauenen Steinen gebaut,
+aber ihr werdet nicht darin wohnen.
+Ihr habt liebliche Weinberge gepflanzt,
+aber ihr werdet ihren Wein nicht trinken.
+<sup>12</sup>Denn ich weiß, wie zahlreich eure Vergehen sind
+und wie groß eure Sünden:
+Ihr bedrängt den Gerechten,
+nehmt Bestechung an
+und weist die Bedürftigen im Gericht ab.
+<sup>13</sup>Darum schweigt der Kluge in dieser Zeit,
+denn es ist eine böse Zeit.
+
+> **Was bedeutet das?**
+> Das „Tor“ war der Ort, an dem in einer Stadt Gericht gehalten wurde. Dort saßen die Ältesten und sprachen Recht.
+> Vers 10: Wer dort die Wahrheit sagt und Unrecht anprangert, wird gehasst.
+> Vers 11: Die Reichen nehmen den armen Bauern Getreide als Abgabe weg und bauen sich davon prächtige Steinhäuser. Aber sie werden nicht lange darin wohnen.
+> Vers 12: Bestechung und ungerechte Urteile. Die Armen bekommen vor Gericht kein Recht.
+> Vers 13: „Der Kluge schweigt“ – in einer so bösen Zeit ist es gefährlich, die Wahrheit zu sagen. Manche verstehen den Satz auch als bittere Ironie: Viele schweigen lieber, obwohl sie reden müssten. Amos selbst schweigt nicht.
+
+---
+
+### Hasst das Böse, liebt das Gute (Vers 14–17)
+
+<sup>14</sup>Sucht das Gute und nicht das Böse,
+damit ihr lebt.
+Dann wird der HERR, der Gott der Heere, mit euch sein,
+wie ihr sagt.
+<sup>15</sup>Hasst das Böse,
+liebt das Gute
+und richtet das Recht im Tor auf.
+Vielleicht wird der HERR, der Gott der Heere,
+dem Rest Josefs gnädig sein.“
+<sup>16</sup>Darum spricht der HERR, der Gott der Heere, der Herr:
+„Auf allen Plätzen wird Wehklage sein.
+In allen Straßen wird man sagen: ‚Wehe! Wehe!‘
+Man wird den Bauern zur Trauer rufen
+und die Klagekundigen zum Wehklagen.
+<sup>17</sup>In allen Weinbergen wird Wehklage sein,
+denn ich werde mitten durch dich hindurchgehen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 14: „Sucht das Gute, damit ihr lebt.“ Die Leute sagten: „Gott ist mit uns.“ Amos sagt: Gott ist nur mit euch, wenn ihr das Gute sucht.
+> Vers 15: Ein klares Programm in drei Schritten: Hasst das Böse. Liebt das Gute. Sorgt für Gerechtigkeit vor Gericht. Und dann: „Vielleicht wird Gott gnädig sein.“ Amos verspricht nichts, aber er lässt Hoffnung offen.
+> Vers 17: „Ich werde mitten durch dich hindurchgehen.“ Das erinnert an die Nacht in Ägypten, als Gott durch das Land ging (2. Mose 12,12). Aber diesmal trifft es Israel selbst.
+
+---
+
+### Der Tag des HERRN ist Finsternis (Vers 18–20)
+
+<sup>18</sup>„Wehe euch, die ihr den Tag des HERRN herbeisehnt!
+Warum wünscht ihr euch den Tag des HERRN?
+Er ist Finsternis und nicht Licht.
+<sup>19</sup>Es ist, wie wenn einer vor einem Löwen flieht,
+und ein Bär begegnet ihm.
+Oder er kommt nach Hause
+und stützt seine Hand an die Wand,
+und eine Schlange beißt ihn.
+<sup>20</sup>Wird nicht der Tag des HERRN Finsternis sein und nicht Licht,
+ganz dunkel und ohne Glanz?
+
+> **Was bedeutet das?**
+> Die Israeliten freuten sich auf den „Tag des HERRN“. Sie dachten: An diesem Tag wird Gott unsere Feinde besiegen und uns groß machen.
+> Amos sagt: Vorsicht! Für euch wird dieser Tag dunkel sein, denn ihr seid selbst ungerecht.
+> Vers 19: Ein Bild mit schwarzem Humor: Jemand entkommt knapp einem Löwen, rennt einem Bären in die Arme, entkommt auch dem, rettet sich nach Hause, lehnt sich erschöpft an die Wand, und dann beißt ihn eine Schlange. Es gibt kein Entkommen.
+
+---
+
+### Ich hasse eure Feste (Vers 21–27)
+
+<sup>21</sup>Ich hasse, ich verachte eure Feste,
+und ich kann eure Festversammlungen nicht riechen.
+<sup>22</sup>Ja, wenn ihr mir Brandopfer und Speisopfer darbringt,
+werde ich sie nicht annehmen.
+Und das Friedensopfer eurer Mastkälber
+werde ich nicht ansehen.
+<sup>23</sup>Weg mit dem Lärm deiner Lieder!
+Ich will die Musik deiner Harfen nicht hören.
+<sup>24</sup>Aber das Recht soll strömen wie Wasser
+und die Gerechtigkeit wie ein mächtiger Strom.
+<sup>25</sup>Habt ihr mir Schlachtopfer und Speisopfer dargebracht
+in der Wüste, vierzig Jahre lang, Haus Israel?
+<sup>26</sup>Ihr habt auch das Zelt eures Königs getragen
+und das Gestell eurer Bilder,
+den Stern eures Gottes,
+den ihr euch gemacht habt.
+<sup>27</sup>Darum werde ich euch in die Gefangenschaft führen,
+über Damaskus hinaus“,
+spricht der HERR,
+dessen Name Gott der Heere ist.
+
+> **Was bedeutet das?**
+> Das ist einer der berühmtesten Texte der Bibel!
+> Vers 21–23: Gott sagt mit harten Worten: Ich hasse eure Gottesdienste! Eure Feste, eure Opfer, eure Lieder und Harfen, nichts davon will ich. Warum? Weil sie gefeiert werden von Menschen, die gleichzeitig die Armen unterdrücken. Ein schöner Gottesdienst kann Ungerechtigkeit nicht wiedergutmachen.
+> Vers 24: Was Gott stattdessen will: „Das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom.“ Nicht nur ein Tropfen ab und zu, sondern ein Strom, der nie versiegt. Gerechtigkeit soll das ganze Leben durchfließen.
+> Martin Luther King zitierte diesen Satz 1963 in seiner berühmten Rede „I have a dream“, im Kampf gegen die Rassentrennung in den USA. Er steht auch auf dem Civil Rights Memorial in Montgomery.
+> Vers 25: Eine Frage: In der Wüste, in der Zeit eurer ersten Liebe zu Gott, ging es da um Opfer? Nein, es ging um Treue.
+> Vers 26: Ein schwieriger Vers. Im Hebräischen stehen dort wohl Namen von Sterngöttern (Sakkut und Kewan, assyrische Gottheiten). Das WEB übersetzt sie als „das Zelt eures Königs“ und „den Stern eures Gottes“. Stephanus zitiert den Vers in Apostelgeschichte 7,42–43.
+
+## Amos – Kapitel 6
+#### Wehe den Sorglosen
+
+---
+
+### Wehe den Selbstsicheren (Vers 1–7)
+
+<sup>1</sup>Wehe den Sorglosen auf dem Zion
+und denen, die sich sicher fühlen auf dem Berg Samarias,
+den Vornehmen des ersten unter den Völkern,
+zu denen das Haus Israel kommt!
+<sup>2</sup>Geht hinüber nach Kalne und seht,
+und geht von dort nach dem großen Hamat,
+und steigt hinab nach Gat der Philister.
+Seid ihr besser als diese Königreiche?
+Ist ihr Gebiet größer als euer Gebiet?
+<sup>3</sup>Wehe euch, die ihr den bösen Tag weit wegschiebt
+und doch die Herrschaft der Gewalt herbeiholt,
+<sup>4</sup>die ihr auf Betten aus Elfenbein liegt
+und euch auf euren Sofas ausstreckt
+und die Lämmer aus der Herde esst
+und die Kälber mitten aus dem Stall,
+<sup>5</sup>die ihr zum Klang der Harfe grölt
+und euch Musikinstrumente ausdenkt wie David,
+<sup>6</sup>die ihr Wein aus Schalen trinkt
+und euch mit den besten Ölen salbt,
+aber euch nicht grämt über den Zusammenbruch Josefs!
+<sup>7</sup>Darum werden sie jetzt an der Spitze der Gefangenen in die Verbannung ziehen.
+Das Gelage der Faulenzer wird ein Ende haben.
+
+> **Was bedeutet das?**
+> Jetzt trifft es die reichen Männer, die Oberschicht in Jerusalem (Zion) und in Samaria.
+> Vers 1: Sie fühlen sich sicher und sorglos. Sie halten sich für „das erste unter den Völkern“.
+> Vers 2: Amos sagt: Schaut euch andere Städte an (Kalne, Hamat, Gat), die schon gefallen sind. Ihr seid nicht besser als sie.
+> Vers 4–6: Ein lebendiges Bild vom Luxus: Elfenbeinbetten, faul auf Sofas liegen, nur die zartesten Lämmer und Kälber essen, Musik machen, Wein aus großen Schalen trinken, sich mit teuren Ölen pflegen.
+> Vers 6: Das Schlimmste ist nicht der Luxus selbst, sondern: „Sie grämen sich nicht über den Zusammenbruch Josefs.“ Das Volk geht zugrunde, die Armen leiden, und es ist ihnen egal.
+> Vers 7: Wer jetzt am Tisch ganz vorne sitzt, wird bald als Erster in die Gefangenschaft ziehen.
+> Für heute: Amos fragt, ob wir das Leid anderer Menschen sehen, oder ob wir es uns bequem machen und wegschauen.
+
+---
+
+### Gott verabscheut den Hochmut (Vers 8–11)
+
+<sup>8</sup>„Der Herr, der HERR, hat bei sich selbst geschworen“,
+spricht der HERR, der Gott der Heere:
+„Ich verabscheue den Hochmut Jakobs
+und hasse seine Paläste.
+Darum werde ich die Stadt preisgeben
+mit allem, was darin ist.
+<sup>9</sup>Und es wird geschehen:
+Wenn zehn Männer in einem Haus übrig bleiben,
+werden sie sterben.
+<sup>10</sup>Wenn dann ein Verwandter einen Toten trägt,
+der, der ihn verbrennt,
+um die Gebeine aus dem Haus zu bringen,
+und er fragt den, der im innersten Teil des Hauses ist:
+‚Ist noch jemand bei dir?‘
+und der sagt: ‚Nein‘,
+dann wird er sagen: ‚Still!
+Wir dürfen den Namen des HERRN nicht nennen.‘
+<sup>11</sup>Denn siehe, der HERR befiehlt,
+und das große Haus wird in Trümmer geschlagen
+und das kleine Haus in Stücke.
+
+> **Was bedeutet das?**
+> Vers 9–10: Eine unheimliche Szene nach der Katastrophe (vielleicht Krieg oder Seuche): In einem Haus sind alle gestorben. Ein Verwandter kommt, um die Toten herauszuholen. Er findet einen letzten Überlebenden, der sich versteckt. Und dieser flüstert: „Still! Nenn bloß nicht den Namen Gottes!“ Aus Angst, Gott könnte noch mehr Unheil schicken.
+> Vers 11: Große Häuser und kleine Häuser, Reiche und Arme, alle sind betroffen.
+
+---
+
+### Recht in Gift verwandelt (Vers 12–14)
+
+<sup>12</sup>Rennen Pferde auf Felsen?
+Pflügt man dort mit Rindern?
+Ihr aber habt das Recht in Gift verwandelt
+und die Frucht der Gerechtigkeit in Wermut,
+<sup>13</sup>ihr, die ihr euch über ein Nichts freut,
+die ihr sagt:
+‚Haben wir uns nicht mit unserer eigenen Kraft Hörner verschafft?‘
+<sup>14</sup>Denn siehe, ich werde ein Volk gegen euch aufstehen lassen, Haus Israel“,
+spricht der HERR, der Gott der Heere,
+„und sie werden euch bedrängen
+vom Zugang nach Hamat bis zum Bach der Araba.“
+
+> **Was bedeutet das?**
+> Vers 12: Zwei absurde Fragen: Laufen Pferde über Felsen? Pflügt man Felsen? Nein, das ist verrückt. Genauso verrückt ist es, das Recht in Gift zu verwandeln. Und genau das tut ihr!
+> Vers 13: Ein Wortspiel: Israel freut sich über militärische Siege, zum Beispiel über die Eroberung von Lo-Dabar (was „Nichts“ bedeutet) und Karnajim (was „Hörner“ bedeutet). Sie sagen: „Das haben wir aus eigener Kraft geschafft!“ Amos spottet: Ihr freut euch über ein „Nichts“.
+> Vers 14: Gott wird ein Volk (Assyrien) schicken, das das ganze Land bedrängt, vom Norden (Hamat) bis zum Süden (Araba). Genau das Gebiet, das König Jerobeam II. erobert hatte (2. Könige 14,25).
