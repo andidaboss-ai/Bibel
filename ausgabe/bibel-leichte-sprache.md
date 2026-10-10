@@ -106185,3 +106185,577 @@ Und der Name der Stadt soll von diesem Tag an sein:
 > **Der letzte Satz:** „Der HERR ist hier“ (48,35). Darauf läuft das ganze Buch hinaus.
 > **Für heute:** Wer sich wie im Exil fühlt, fern von zu Hause, ohne Hoffnung, „vertrocknet“: Hesekiel sagt, dass Gott gerade dort zu finden ist und neues Leben schenken kann. Wer Hilfe braucht: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Daniel. Daniel lebte zur selben Zeit wie Hesekiel am Hof des Königs von Babylon. Es erzählt von Daniel und seinen Freunden, die Gott auch in der Fremde treu bleiben, vom Feuerofen und von der Löwengrube, und es enthält große Visionen von den Reichen der Welt und vom Reich Gottes.
+
+
+---
+
+# Daniel
+
+## Daniel – Kapitel 1
+#### Treu in der Fremde
+
+---
+
+### Bevor es losgeht: Wer war Daniel?
+
+Das Buch Daniel erzählt von einem jungen Mann aus Juda, der nach Babylon verschleppt wurde und dort am Hof des Königs lebte. Er lebte also zur selben Zeit wie Hesekiel und Jeremia.
+Sein Name bedeutet „Gott ist mein Richter“.
+Das Buch hat 12 Kapitel und zwei Teile:
+– Kapitel 1–6: Erzählungen über Daniel und seine drei Freunde. Sie bleiben Gott treu, auch wenn das gefährlich ist: im Feuerofen, in der Löwengrube.
+– Kapitel 7–12: Visionen über die Reiche der Welt und das kommende Reich Gottes.
+Eine Besonderheit: Ein Teil des Buches (Kapitel 2,4 bis 7,28) ist nicht auf Hebräisch geschrieben, sondern auf Aramäisch, der damaligen internationalen Sprache.
+Wann wurde das Buch geschrieben? Nach der Überlieferung stammt es von Daniel selbst, im 6. Jahrhundert vor Christus. Viele Forscher meinen, dass es seine heutige Form erst im 2. Jahrhundert vor Christus bekam, als der König Antiochus IV. die Juden verfolgte und ihren Glauben verbieten wollte. Damals machten die Geschichten von Daniel den Verfolgten Mut. Beide Sichtweisen werden von Gläubigen vertreten.
+In der jüdischen Bibel steht Daniel nicht bei den Propheten, sondern bei den „Schriften“. In christlichen Bibeln steht es bei den Propheten. Jesus nennt Daniel einen Propheten (Matthäus 24,15) und nennt sich selbst „Menschensohn“, nach Daniel 7,13.
+Die Grundbotschaft: Auch wenn die Mächtigen der Welt groß und bedrohlich wirken, Gott ist der wahre Herr der Geschichte. Sein Reich wird bleiben.
+
+---
+
+### Nach Babylon verschleppt (Vers 1–7)
+
+<sup>1</sup>Im dritten Jahr der Herrschaft Jojakims, des Königs von Juda,
+kam Nebukadnezar, der König von Babylon, nach Jerusalem
+und belagerte die Stadt.
+<sup>2</sup>Der Herr gab Jojakim, den König von Juda, in seine Hand,
+dazu einen Teil der Geräte aus dem Haus Gottes.
+Er brachte sie in das Land Schinar, in das Haus seines Gottes.
+Er brachte die Geräte in die Schatzkammer seines Gottes.
+<sup>3</sup>Der König befahl Aschpenas, dem Obersten seiner Eunuchen,
+er solle einige von den Kindern Israel bringen,
+aus der königlichen Familie und aus den Vornehmen:
+<sup>4</sup>junge Männer ohne jeden Makel,
+gut aussehend,
+geschickt in aller Weisheit,
+mit Wissen begabt,
+mit Verstand für die Wissenschaft,
+die fähig waren, im Palast des Königs zu dienen.
+Man sollte sie die Schrift und die Sprache der Chaldäer lehren.
+<sup>5</sup>Der König bestimmte für sie eine tägliche Portion
+von den feinen Speisen des Königs
+und von dem Wein, den er trank.
+Drei Jahre lang sollten sie erzogen werden,
+und danach sollten sie vor dem König dienen.
+<sup>6</sup>Unter ihnen waren von den Kindern Judas
+Daniel, Hananja, Mischaël und Asarja.
+<sup>7</sup>Der Oberste der Eunuchen gab ihnen neue Namen:
+Daniel nannte er Beltschazar,
+Hananja Schadrach,
+Mischaël Meschach
+und Asarja Abed-Nego.
+
+> **Was bedeutet das?**
+> Vers 1–2: Nebukadnezar erobert Jerusalem und nimmt Geräte aus dem Tempel mit. Er stellt sie in den Tempel seines eigenen Gottes. Das sollte zeigen: Der Gott Babylons ist stärker. Aber der Text sagt: „Der Herr gab Jojakim in seine Hand.“ Gott hat die Kontrolle, auch in der Niederlage.
+> Das „dritte Jahr Jojakims“ wäre etwa 606/605 vor Christus. Die genaue Datierung dieser ersten Verschleppung ist unter Forschern umstritten.
+> „Schinar“ ist ein alter Name für Babylonien (vgl. 1. Mose 11,2, der Turmbau zu Babel).
+> Vers 3–5: Die jungen Männer aus vornehmen Familien sollen zu babylonischen Beamten umerzogen werden: neue Sprache, neue Bildung, neues Essen. Das WEB nennt Aschpenas den „master of his eunuchs“. Eunuchen waren Hofbeamte, die oft entmannt waren. Ob auch Daniel und seine Freunde zu Eunuchen gemacht wurden, sagt der Text nicht.
+> Vers 7: Sogar ihre Namen werden geändert. Ihre hebräischen Namen erinnerten an Gott (zum Beispiel „Daniel“ = „Gott ist mein Richter“, „Hananja“ = „Der HERR ist gnädig“). Die neuen Namen erinnern an babylonische Götter. Man wollte ihre Identität auslöschen.
+
+---
+
+### Daniel will sich nicht verunreinigen (Vers 8–16)
+
+<sup>8</sup>Aber Daniel nahm sich in seinem Herzen vor,
+sich nicht mit den feinen Speisen des Königs
+und mit dem Wein, den er trank, zu verunreinigen.
+Darum bat er den Obersten der Eunuchen,
+dass er sich nicht verunreinigen müsse.
+<sup>9</sup>Gott ließ Daniel Gunst und Erbarmen finden
+vor dem Obersten der Eunuchen.
+<sup>10</sup>Der Oberste der Eunuchen sagte zu Daniel:
+„Ich fürchte meinen Herrn, den König,
+der eure Speise und euren Trank bestimmt hat.
+Denn warum sollte er eure Gesichter schlechter aussehend finden
+als die der jungen Männer in eurem Alter?
+Dann würdet ihr meinen Kopf beim König in Gefahr bringen.“
+<sup>11</sup>Da sagte Daniel zu dem Aufseher,
+den der Oberste der Eunuchen über Daniel, Hananja, Mischaël und Asarja gesetzt hatte:
+<sup>12</sup>„Prüfe deine Knechte doch zehn Tage lang.
+Man soll uns Gemüse zu essen und Wasser zu trinken geben.
+<sup>13</sup>Dann sollen unsere Gesichter vor dir angesehen werden
+und die Gesichter der jungen Männer,
+die von den feinen Speisen des Königs essen.
+Und wie du es dann siehst, so handle mit deinen Knechten.“
+<sup>14</sup>Er hörte in dieser Sache auf sie
+und prüfte sie zehn Tage lang.
+<sup>15</sup>Am Ende der zehn Tage sahen ihre Gesichter besser aus,
+und sie waren wohlgenährter
+als alle jungen Männer, die von den feinen Speisen des Königs aßen.
+<sup>16</sup>Da nahm der Aufseher ihre feinen Speisen
+und den Wein, den sie trinken sollten, weg
+und gab ihnen Gemüse.
+
+> **Was bedeutet das?**
+> Daniel will nicht vom Essen des Königs essen. Warum? Wahrscheinlich, weil das Fleisch nicht nach den jüdischen Speisegeboten zubereitet war oder vorher Götzen geopfert wurde. Daniel wollte auch in der Fremde Gott treu bleiben.
+> Bemerkenswert ist, wie Daniel das macht: Er rebelliert nicht laut. Er bittet höflich und schlägt einen fairen Test vor. Er sucht eine Lösung, die auch für den Aufseher gut ist.
+> Vers 9: „Gott ließ Daniel Gunst finden.“ Gott wirkt im Hintergrund.
+> Vers 15: Nach zehn Tagen mit Gemüse und Wasser sehen die vier gesünder aus als die anderen. Das ist kein allgemeines Ernährungsgesetz, sondern zeigt: Gott segnet die Treue.
+> Für heute: Auch wir können in einer Umgebung leben, die andere Werte hat. Daniel zeigt, wie man treu zu seinen Überzeugungen steht, ohne andere herabzusetzen.
+
+---
+
+### Zehnmal klüger (Vers 17–21)
+
+<sup>17</sup>Diesen vier jungen Männern gab Gott Wissen und Einsicht
+in aller Schrift und Weisheit.
+Und Daniel verstand sich auf alle Visionen und Träume.
+<sup>18</sup>Am Ende der Tage, die der König bestimmt hatte,
+um sie hereinzubringen,
+brachte der Oberste der Eunuchen sie vor Nebukadnezar.
+<sup>19</sup>Der König redete mit ihnen,
+und unter ihnen allen fand sich keiner wie Daniel, Hananja, Mischaël und Asarja.
+Darum traten sie in den Dienst des Königs.
+<sup>20</sup>In jeder Sache, die Weisheit und Verstand erforderte
+und nach der der König sie fragte,
+fand er sie zehnmal besser
+als alle Magier und Beschwörer in seinem ganzen Reich.
+<sup>21</sup>Daniel blieb bis zum ersten Jahr des Königs Kyrus.
+
+> **Was bedeutet das?**
+> Die vier lernen die ganze Wissenschaft Babylons und sind darin hervorragend. Sie verweigern sich nicht der fremden Kultur. Sie lernen und arbeiten mit, aber ihren Glauben geben sie nicht auf.
+> Vers 20: „Zehnmal besser“ – Gott schenkt ihnen Weisheit, die größer ist als die der babylonischen Magier.
+> Vers 21: Daniel überlebt das ganze Babylonische Reich. Er ist noch da, als der Perserkönig Kyrus Babylon erobert (539 vor Christus) und den Juden erlaubt, nach Hause zurückzukehren. Die Könige kommen und gehen, aber Gottes treuer Diener bleibt.
+
+## Daniel – Kapitel 2
+#### Der Traum von der großen Statue
+
+---
+
+### Der König verlangt das Unmögliche (Vers 1–13)
+
+<sup>1</sup>Im zweiten Jahr der Herrschaft Nebukadnezars
+hatte Nebukadnezar Träume.
+Sein Geist wurde unruhig,
+und sein Schlaf war dahin.
+<sup>2</sup>Da befahl der König,
+die Magier, die Beschwörer, die Zauberer und die Chaldäer zu rufen,
+damit sie dem König seine Träume sagten.
+Sie kamen und traten vor den König.
+<sup>3</sup>Der König sagte zu ihnen:
+„Ich habe einen Traum gehabt,
+und mein Geist ist unruhig, den Traum zu wissen.“
+<sup>4</sup>Da sagten die Chaldäer zum König auf Aramäisch:
+„O König, lebe ewig!
+Erzähle deinen Knechten den Traum,
+und wir werden die Deutung kundtun.“
+<sup>5</sup>Der König antwortete den Chaldäern:
+„Die Sache steht fest bei mir:
+Wenn ihr mir den Traum und seine Deutung nicht kundtut,
+werdet ihr in Stücke gehauen,
+und eure Häuser werden zu Misthaufen gemacht.
+<sup>6</sup>Wenn ihr aber den Traum und seine Deutung kundtut,
+werdet ihr von mir Geschenke, Belohnungen und große Ehre bekommen.
+Darum tut mir den Traum und seine Deutung kund.“
+<sup>7</sup>Sie antworteten zum zweiten Mal und sagten:
+„Der König möge seinen Knechten den Traum erzählen,
+dann werden wir die Deutung kundtun.“
+<sup>8</sup>Der König antwortete:
+„Ich weiß gewiss, dass ihr Zeit gewinnen wollt,
+weil ihr seht, dass die Sache bei mir feststeht.
+<sup>9</sup>Wenn ihr mir den Traum nicht kundtut,
+gibt es für euch nur ein Urteil.
+Denn ihr habt euch verabredet, lügnerische und verkehrte Worte vor mir zu reden,
+bis sich die Lage ändert.
+Darum sagt mir den Traum,
+dann weiß ich, dass ihr mir auch seine Deutung kundtun könnt.“
+<sup>10</sup>Die Chaldäer antworteten dem König und sagten:
+„Es gibt keinen Menschen auf der Erde,
+der die Sache des Königs kundtun kann.
+Denn kein König, Herr oder Herrscher
+hat so etwas von irgendeinem Magier, Beschwörer oder Chaldäer verlangt.
+<sup>11</sup>Es ist eine schwere Sache, die der König verlangt,
+und es gibt keinen anderen, der es vor dem König kundtun kann,
+außer den Göttern,
+deren Wohnung nicht bei den Menschen ist.“
+<sup>12</sup>Darüber wurde der König zornig und sehr wütend
+und befahl, alle Weisen Babylons umzubringen.
+<sup>13</sup>So ging der Befehl aus,
+und die Weisen sollten getötet werden.
+Man suchte auch Daniel und seine Gefährten, um sie zu töten.
+
+> **Was bedeutet das?**
+> Der König hat einen beunruhigenden Traum. Er stellt seine Traumdeuter auf die Probe: Sie sollen ihm nicht nur die Deutung sagen, sondern zuerst den Traum selbst. So kann er prüfen, ob sie wirklich übernatürliches Wissen haben oder nur etwas erfinden.
+> Vers 4: Ab hier bis Kapitel 7,28 ist das Buch auf Aramäisch geschrieben. Das WEB sagt „in the Syrian language“, gemeint ist Aramäisch.
+> Vers 11: Die Weisen geben selbst zu: Nur die Götter könnten das wissen, und die wohnen nicht bei den Menschen. Damit bereiten sie unbewusst Daniels Antwort vor: Es gibt einen Gott, der Geheimnisse offenbart (Vers 28).
+> Vers 12: Ein grausamer Befehl aus Wut. Der Text zeigt, wie willkürlich und gefährlich die Macht eines Tyrannen ist.
+
+---
+
+### Daniel betet mit seinen Freunden (Vers 14–23)
+
+<sup>14</sup>Da antwortete Daniel mit Klugheit und Verstand
+Arjoch, dem Obersten der Leibwache des Königs,
+der ausgezogen war, um die Weisen Babylons zu töten.
+<sup>15</sup>Er sagte zu Arjoch, dem Obersten des Königs:
+„Warum ist der Befehl vom König so dringend?“
+Da erklärte Arjoch Daniel die Sache.
+<sup>16</sup>Daniel ging hinein und bat den König,
+ihm eine Frist zu geben,
+dann werde er dem König die Deutung kundtun.
+<sup>17</sup>Dann ging Daniel in sein Haus
+und erzählte die Sache seinen Gefährten Hananja, Mischaël und Asarja,
+<sup>18</sup>damit sie den Gott des Himmels um Erbarmen bitten
+wegen dieses Geheimnisses,
+damit Daniel und seine Gefährten nicht mit den übrigen Weisen Babylons umkämen.
+<sup>19</sup>Da wurde Daniel das Geheimnis in einer Vision in der Nacht offenbart.
+Da pries Daniel den Gott des Himmels.
+<sup>20</sup>Daniel sagte:
+„Gepriesen sei der Name Gottes von Ewigkeit zu Ewigkeit,
+denn Weisheit und Macht gehören ihm.
+<sup>21</sup>Er ändert Zeiten und Fristen.
+Er setzt Könige ab und setzt Könige ein.
+Er gibt den Weisen Weisheit
+und Erkenntnis denen, die Verstand haben.
+<sup>22</sup>Er offenbart das Tiefe und Verborgene.
+Er weiß, was in der Finsternis ist,
+und das Licht wohnt bei ihm.
+<sup>23</sup>Dich, Gott meiner Väter, danke ich und lobe ich,
+der du mir Weisheit und Kraft gegeben hast
+und mir jetzt kundgetan hast, was wir von dir erbeten haben.
+Denn du hast uns die Sache des Königs kundgetan.“
+
+> **Was bedeutet das?**
+> Daniel bleibt ruhig. Er redet klug mit dem Wachoffizier, bittet den König um Zeit und betet dann mit seinen Freunden. Gemeinsam bitten sie Gott um Hilfe.
+> Vers 19–23: Als Gott ihm das Geheimnis zeigt, dankt Daniel zuerst. Er lobt Gott, bevor er zum König geht. Sein Gebet ist ein wunderschönes Loblied:
+> „Er setzt Könige ab und setzt Könige ein.“ Das ist das Thema des ganzen Buches: Nicht die Herrscher bestimmen die Geschichte, sondern Gott.
+> „Das Licht wohnt bei ihm.“ Gott sieht auch in die Dunkelheit hinein.
+
+---
+
+### Es gibt einen Gott im Himmel (Vers 24–30)
+
+<sup>24</sup>Darum ging Daniel zu Arjoch,
+den der König beauftragt hatte, die Weisen Babylons umzubringen.
+Er ging hin und sagte zu ihm:
+„Bring die Weisen Babylons nicht um.
+Führe mich vor den König,
+und ich werde dem König die Deutung kundtun.“
+<sup>25</sup>Da brachte Arjoch Daniel eilends vor den König
+und sagte zu ihm:
+„Ich habe einen Mann unter den Verschleppten aus Juda gefunden,
+der dem König die Deutung kundtun wird.“
+<sup>26</sup>Der König sagte zu Daniel, der Beltschazar hieß:
+„Bist du imstande, mir den Traum kundzutun, den ich gesehen habe,
+und seine Deutung?“
+<sup>27</sup>Daniel antwortete vor dem König und sagte:
+„Das Geheimnis, das der König verlangt,
+können Weise, Beschwörer, Magier und Wahrsager
+dem König nicht kundtun.
+<sup>28</sup>Aber es gibt einen Gott im Himmel, der Geheimnisse offenbart,
+und er hat dem König Nebukadnezar kundgetan,
+was in den letzten Tagen geschehen wird.
+Dein Traum und die Visionen deines Kopfes auf deinem Lager sind diese:
+<sup>29</sup>Dir, o König, kamen auf deinem Lager Gedanken,
+was in Zukunft geschehen würde.
+Und der Geheimnisse offenbart, hat dir kundgetan, was geschehen wird.
+<sup>30</sup>Mir aber ist dieses Geheimnis nicht offenbart worden
+wegen einer Weisheit, die ich mehr hätte als alle Lebenden,
+sondern damit dem König die Deutung kundgetan wird
+und du die Gedanken deines Herzens erkennst.“
+
+> **Was bedeutet das?**
+> Vers 24: Daniel denkt nicht nur an sich selbst. Er bittet zuerst, dass auch die anderen Weisen nicht getötet werden, obwohl sie Heiden sind.
+> Vers 27–28: Daniel nimmt die Ehre nicht für sich. Er sagt: Kein Mensch kann das. „Aber es gibt einen Gott im Himmel, der Geheimnisse offenbart.“
+> Vers 30: Daniel ist demütig: „Nicht weil ich klüger wäre als andere.“ Alles ist Gottes Geschenk.
+
+---
+
+### Der Traum (Vers 31–35)
+
+<sup>31</sup>Du, o König, schautest,
+und siehe, ein großes Standbild.
+Dieses Standbild war gewaltig,
+und sein Glanz war außergewöhnlich.
+Es stand vor dir,
+und sein Aussehen war furchterregend.
+<sup>32</sup>Der Kopf dieses Standbilds war aus feinem Gold,
+seine Brust und seine Arme aus Silber,
+sein Bauch und seine Hüften aus Bronze,
+<sup>33</sup>seine Beine aus Eisen,
+seine Füße teils aus Eisen und teils aus Ton.
+<sup>34</sup>Du schautest,
+bis ein Stein losbrach, ohne dass Hände ihn berührten.
+Er traf das Standbild an seinen Füßen aus Eisen und Ton
+und zermalmte sie.
+<sup>35</sup>Da wurden das Eisen, der Ton, die Bronze, das Silber und das Gold
+zusammen zermalmt
+und wurden wie Spreu auf den Dreschplätzen im Sommer.
+Der Wind trug sie fort,
+sodass keine Spur mehr von ihnen zu finden war.
+Der Stein aber, der das Standbild getroffen hatte,
+wurde zu einem großen Berg und füllte die ganze Erde.
+
+> **Was bedeutet das?**
+> Der König sah eine riesige Statue aus verschiedenen Metallen: von oben nach unten immer weniger wertvoll (Gold, Silber, Bronze, Eisen) und am Ende auf Füßen aus Eisen und Ton, also instabil.
+> Dann kommt ein Stein, „ohne dass Hände ihn berührten“, also nicht von Menschen gemacht. Er zerschlägt die ganze Statue. Und der Stein wird zu einem Berg, der die ganze Welt füllt.
+
+---
+
+### Die Deutung: vier Reiche und das Reich Gottes (Vers 36–45)
+
+<sup>36</sup>Das ist der Traum.
+Und seine Deutung wollen wir vor dem König sagen.
+<sup>37</sup>Du, o König, bist der König der Könige,
+dem der Gott des Himmels das Königreich gegeben hat,
+die Macht, die Stärke und die Ehre.
+<sup>38</sup>Und wo immer Menschen wohnen,
+hat er die Tiere des Feldes und die Vögel des Himmels in deine Hand gegeben
+und dich zum Herrscher über sie alle gemacht.
+Du bist der Kopf aus Gold.
+<sup>39</sup>Nach dir wird ein anderes Königreich aufstehen,
+geringer als du,
+und noch ein drittes Königreich aus Bronze,
+das über die ganze Erde herrschen wird.
+<sup>40</sup>Das vierte Königreich wird stark sein wie Eisen.
+Denn wie Eisen alles zermalmt und bezwingt,
+und wie Eisen, das alles zerschlägt,
+so wird es alles zermalmen und zerschlagen.
+<sup>41</sup>Dass du aber die Füße und Zehen gesehen hast,
+teils aus Töpferton und teils aus Eisen,
+das bedeutet: Es wird ein geteiltes Königreich sein.
+Aber es wird etwas von der Festigkeit des Eisens in ihm sein,
+weil du das Eisen mit lehmigem Ton vermischt gesehen hast.
+<sup>42</sup>Und wie die Zehen der Füße teils aus Eisen und teils aus Ton waren,
+so wird das Königreich teils stark und teils zerbrechlich sein.
+<sup>43</sup>Dass du das Eisen mit lehmigem Ton vermischt gesehen hast,
+das bedeutet: Sie werden sich durch Heiraten mit anderen Menschen vermischen,
+aber sie werden nicht aneinander haften,
+so wie sich Eisen nicht mit Ton vermischt.
+<sup>44</sup>In den Tagen dieser Könige
+wird der Gott des Himmels ein Königreich errichten,
+das in Ewigkeit nicht zerstört werden wird.
+Und seine Herrschaft wird keinem anderen Volk überlassen werden.
+Es wird alle diese Königreiche zermalmen und ihnen ein Ende machen,
+und es selbst wird in Ewigkeit bestehen.
+<sup>45</sup>Denn du hast gesehen,
+dass ein Stein ohne Hände vom Berg losbrach
+und das Eisen, die Bronze, den Ton, das Silber und das Gold zermalmte.
+Der große Gott hat dem König kundgetan,
+was in Zukunft geschehen wird.
+Der Traum ist gewiss,
+und seine Deutung ist zuverlässig.“
+
+> **Was bedeutet das?**
+> Die Statue steht für vier Weltreiche, die nacheinander kommen. Der Kopf aus Gold ist Babylon unter Nebukadnezar.
+> Welche Reiche sind die anderen? Es gibt zwei Hauptdeutungen:
+> – Viele Ausleger: Babylon, Medien, Persien, Griechenland (das Reich Alexanders des Großen und seiner Nachfolger, die sich durch Heiraten verbanden, aber zerstritten blieben, Vers 43).
+> – Eine alte, verbreitete Deutung (schon bei jüdischen und christlichen Auslegern der Antike): Babylon, Medo-Persien, Griechenland, Rom.
+> Vers 44: Die zentrale Botschaft: Alle Weltreiche, so mächtig sie sind, werden vergehen. Am Ende steht ein Reich, das Gott selbst aufrichtet und das ewig bleibt.
+> Juden erwarten dieses Reich mit dem Kommen des Messias. Christen sehen darin das Reich Gottes, das Jesus verkündet hat: „Das Reich Gottes ist nahe“ (Markus 1,15). Es beginnt klein wie ein Stein und wächst, bis es die ganze Welt erfüllt.
+> Für heute: Keine Macht der Welt ist für ewig. Diktatoren, Weltreiche und Supermächte kommen und gehen. Gottes Reich bleibt.
+
+---
+
+### Der König ehrt Daniels Gott (Vers 46–49)
+
+<sup>46</sup>Da fiel der König Nebukadnezar auf sein Gesicht,
+huldigte Daniel
+und befahl, ihm Speisopfer und Räucherwerk darzubringen.
+<sup>47</sup>Der König antwortete Daniel und sagte:
+„Wahrhaftig, euer Gott ist der Gott der Götter
+und der Herr der Könige
+und einer, der Geheimnisse offenbart,
+da du dieses Geheimnis offenbaren konntest.“
+<sup>48</sup>Dann machte der König Daniel groß
+und gab ihm viele große Geschenke.
+Er machte ihn zum Herrscher über die ganze Provinz Babylon
+und zum Obersten aller Weisen Babylons.
+<sup>49</sup>Daniel bat den König,
+und er setzte Schadrach, Meschach und Abed-Nego
+über die Verwaltung der Provinz Babylon.
+Daniel aber blieb am Hof des Königs.
+
+> **Was bedeutet das?**
+> Der mächtigste König der Welt fällt vor einem jungen Verschleppten auf die Knie. Und er bekennt: „Euer Gott ist der Gott der Götter und der Herr der Könige.“
+> Ob Daniel die Verehrung annahm, sagt der Text nicht. Aber der König versteht: Die Ehre gebührt eigentlich Daniels Gott.
+> Vers 49: Daniel vergisst seine Freunde nicht. Er sorgt dafür, dass auch sie wichtige Ämter bekommen.
+
+## Daniel – Kapitel 3
+#### Die drei Männer im Feuerofen
+
+---
+
+### Das goldene Standbild (Vers 1–7)
+
+<sup>1</sup>Der König Nebukadnezar machte ein Standbild aus Gold.
+Seine Höhe war sechzig Ellen
+und seine Breite sechs Ellen.
+Er stellte es in der Ebene Dura in der Provinz Babylon auf.
+<sup>2</sup>Dann sandte der König Nebukadnezar aus,
+um die Statthalter, die Vorsteher und die Gouverneure,
+die Richter, die Schatzmeister, die Ratgeber, die Amtleute
+und alle Herrscher der Provinzen zu versammeln,
+damit sie zur Einweihung des Standbilds kämen,
+das der König Nebukadnezar aufgestellt hatte.
+<sup>3</sup>Da versammelten sich die Statthalter, die Vorsteher und die Gouverneure,
+die Richter, die Schatzmeister, die Ratgeber, die Amtleute
+und alle Herrscher der Provinzen
+zur Einweihung des Standbilds, das der König Nebukadnezar aufgestellt hatte.
+Und sie stellten sich vor das Standbild,
+das Nebukadnezar aufgestellt hatte.
+<sup>4</sup>Da rief der Herold laut:
+„Euch wird befohlen, ihr Völker, Nationen und Sprachen:
+<sup>5</sup>Sobald ihr den Klang des Horns, der Flöte, der Zither, der Leier,
+der Harfe, des Dudelsacks und aller Arten von Musik hört,
+sollt ihr niederfallen und das goldene Standbild anbeten,
+das der König Nebukadnezar aufgestellt hat.
+<sup>6</sup>Wer nicht niederfällt und anbetet,
+der soll in derselben Stunde
+mitten in einen brennenden Feuerofen geworfen werden.“
+<sup>7</sup>Darum fielen zu dieser Zeit,
+als alle Völker den Klang des Horns, der Flöte, der Zither, der Leier,
+der Harfe, des Dudelsacks und aller Arten von Musik hörten,
+alle Völker, Nationen und Sprachen nieder
+und beteten das goldene Standbild an,
+das der König Nebukadnezar aufgestellt hatte.
+
+> **Was bedeutet das?**
+> Nebukadnezar lässt eine riesige goldene Statue bauen: 60 Ellen hoch (etwa 27 Meter) und nur 6 Ellen breit, also eher eine Säule oder ein Obelisk, vielleicht nur mit Gold überzogen.
+> Vielleicht hat der König seinen Traum aus Kapitel 2 falsch verstanden: Dort war nur der Kopf aus Gold. Jetzt macht er die ganze Statue aus Gold, als wollte er sagen: Mein Reich soll ewig bestehen.
+> Die vielen Wiederholungen (immer wieder die Liste der Beamten und der Instrumente) wirken fast komisch. Sie zeigen, wie großspurig und bürokratisch diese Macht ist.
+> Vers 6: Jeder, der nicht mitmacht, wird getötet. Eine Diktatur, die von allen die gleiche Anbetung verlangt.
+> Im 20. Jahrhundert haben Christen und Juden unter Diktaturen (zum Beispiel im Nationalsozialismus) dieses Kapitel als Ermutigung gelesen, sich nicht zu beugen.
+
+---
+
+### Die Anklage (Vers 8–12)
+
+<sup>8</sup>Darum traten zu dieser Zeit einige chaldäische Männer heran
+und verklagten die Juden.
+<sup>9</sup>Sie sagten zum König Nebukadnezar:
+„O König, lebe ewig!
+<sup>10</sup>Du, o König, hast einen Befehl erlassen,
+dass jeder Mensch, der den Klang des Horns, der Flöte, der Zither, der Leier,
+der Harfe, des Dudelsacks und aller Arten von Musik hört,
+niederfallen und das goldene Standbild anbeten soll,
+<sup>11</sup>und wer nicht niederfällt und anbetet,
+der soll mitten in einen brennenden Feuerofen geworfen werden.
+<sup>12</sup>Es gibt einige Juden, die du über die Verwaltung der Provinz Babylon gesetzt hast:
+Schadrach, Meschach und Abed-Nego.
+Diese Männer, o König, achten dich nicht.
+Deinen Göttern dienen sie nicht,
+und das goldene Standbild, das du aufgestellt hast,
+beten sie nicht an.“
+
+> **Was bedeutet das?**
+> Neidische Beamte nutzen die Gelegenheit, um die erfolgreichen jüdischen Kollegen loszuwerden. Sie betonen: „Diese Juden, die du selbst eingesetzt hast …“
+> Hier wird gezeigt, wie Hass gegen eine Minderheit oft aus Neid und Machtstreben entsteht. Leider ist Judenfeindschaft eine lange und schreckliche Geschichte bis heute. Dieser Text stellt sich klar auf die Seite der Verfolgten.
+
+---
+
+### „Auch wenn er es nicht tut …“ (Vers 13–18)
+
+<sup>13</sup>Da befahl Nebukadnezar in Zorn und Wut,
+Schadrach, Meschach und Abed-Nego herzubringen.
+Da wurden diese Männer vor den König gebracht.
+<sup>14</sup>Nebukadnezar sagte zu ihnen:
+„Ist es wahr, Schadrach, Meschach und Abed-Nego,
+dass ihr meinen Göttern nicht dient
+und das goldene Standbild, das ich aufgestellt habe, nicht anbetet?
+<sup>15</sup>Wenn ihr nun bereit seid,
+sobald ihr den Klang des Horns, der Flöte, der Zither, der Leier,
+der Harfe, des Dudelsacks und aller Arten von Musik hört,
+niederzufallen und das Standbild anzubeten, das ich gemacht habe, gut.
+Wenn ihr aber nicht anbetet,
+dann werdet ihr in derselben Stunde
+mitten in den brennenden Feuerofen geworfen.
+Und wer ist der Gott, der euch aus meinen Händen retten könnte?“
+<sup>16</sup>Schadrach, Meschach und Abed-Nego antworteten dem König:
+„Nebukadnezar, wir haben es nicht nötig,
+dir in dieser Sache zu antworten.
+<sup>17</sup>Wenn es so kommt:
+Unser Gott, dem wir dienen, kann uns aus dem brennenden Feuerofen retten,
+und er wird uns aus deiner Hand retten, o König.
+<sup>18</sup>Und wenn nicht,
+so sollst du wissen, o König,
+dass wir deinen Göttern nicht dienen
+und das goldene Standbild, das du aufgestellt hast, nicht anbeten werden.“
+
+> **Was bedeutet das?**
+> Vers 15: Der König gibt ihnen eine zweite Chance, und er fordert Gott heraus: „Wer ist der Gott, der euch retten könnte?“
+> Vers 17–18: Eine der mutigsten Antworten der Bibel: „Unser Gott kann uns retten. Und auch wenn er es nicht tut, beten wir dein Bild trotzdem nicht an.“
+> Das ist echter Glaube: Er hängt nicht davon ab, ob Gott das Problem löst. Die drei vertrauen Gott, auch wenn sie nicht wissen, wie es ausgeht. Sie sind bereit, für ihre Überzeugung zu sterben.
+> Viele Menschen haben aus diesem „Und wenn nicht …“ Kraft geschöpft, zum Beispiel im Widerstand gegen Unrecht.
+
+---
+
+### Im Feuerofen (Vers 19–23)
+
+<sup>19</sup>Da wurde Nebukadnezar voller Wut,
+und sein Gesichtsausdruck veränderte sich gegen Schadrach, Meschach und Abed-Nego.
+Er befahl,
+den Ofen siebenmal heißer zu heizen, als man ihn sonst heizte.
+<sup>20</sup>Er befahl einigen starken Männern aus seinem Heer,
+Schadrach, Meschach und Abed-Nego zu fesseln
+und sie in den brennenden Feuerofen zu werfen.
+<sup>21</sup>Da wurden diese Männer gefesselt,
+in ihren Hosen, ihren Röcken, ihren Mänteln und ihren übrigen Kleidern,
+und mitten in den brennenden Feuerofen geworfen.
+<sup>22</sup>Weil der Befehl des Königs so dringend
+und der Ofen überaus heiß war,
+tötete die Feuerflamme die Männer,
+die Schadrach, Meschach und Abed-Nego hinaufgetragen hatten.
+<sup>23</sup>Diese drei Männer, Schadrach, Meschach und Abed-Nego,
+fielen gefesselt mitten in den brennenden Feuerofen.
+
+> **Was bedeutet das?**
+> In seiner Wut verliert der König jede Vernunft. Er lässt den Ofen so stark heizen, dass sogar seine eigenen Soldaten dabei sterben. Blinde Wut zerstört auch die eigenen Leute.
+> Hinweis: In katholischen und orthodoxen Bibeln steht nach Vers 23 noch ein längerer Abschnitt: das Gebet Asarjas und der Lobgesang der drei Männer im Feuerofen. Er ist nur auf Griechisch überliefert und steht nicht in der hebräisch-aramäischen Bibel. Das WEB enthält ihn hier nicht.
+
+---
+
+### Der vierte Mann im Feuer (Vers 24–27)
+
+<sup>24</sup>Da erschrak der König Nebukadnezar
+und stand eilends auf.
+Er sagte zu seinen Ratgebern:
+„Haben wir nicht drei Männer gefesselt mitten ins Feuer geworfen?“
+Sie antworteten dem König:
+„Gewiss, o König.“
+<sup>25</sup>Er antwortete:
+„Seht, ich sehe vier Männer frei mitten im Feuer umhergehen,
+und sie sind unversehrt.
+Und das Aussehen des vierten ist wie das eines Sohnes der Götter.“
+<sup>26</sup>Da trat Nebukadnezar an die Öffnung des brennenden Feuerofens.
+Er sagte:
+„Schadrach, Meschach und Abed-Nego,
+ihr Diener des höchsten Gottes,
+kommt heraus und kommt her!“
+Da kamen Schadrach, Meschach und Abed-Nego mitten aus dem Feuer heraus.
+<sup>27</sup>Die Statthalter, die Vorsteher, die Gouverneure und die Ratgeber des Königs
+versammelten sich und sahen diese Männer an:
+Das Feuer hatte keine Macht über ihre Körper gehabt.
+Das Haar ihres Kopfes war nicht versengt.
+Ihre Hosen waren nicht verändert.
+Nicht einmal der Geruch von Feuer war an ihnen.
+
+> **Was bedeutet das?**
+> Der König sieht plötzlich vier Männer im Feuer, frei und unversehrt. Die Fesseln sind verbrannt, aber nicht die Männer.
+> Vers 25: Wer ist der vierte? Der König sagt: „wie ein Sohn der Götter“. Später nennt er ihn einen „Engel“ (Vers 28). Viele Christen haben in dem vierten Mann eine Erscheinung Christi gesehen. Im Judentum wird er meist als Engel Gottes verstanden.
+> Die wichtigste Botschaft: Gott war mit ihnen im Feuer. Er hat sie nicht vor dem Feuer bewahrt, aber im Feuer. Vgl. Jesaja 43,2: „Wenn du durchs Feuer gehst, sollst du nicht brennen.“
+> Vers 27: Nicht einmal Brandgeruch! Die Rettung ist vollständig.
+
+---
+
+### Der König lobt den Gott der drei Männer (Vers 28–30)
+
+<sup>28</sup>Nebukadnezar sagte:
+„Gepriesen sei der Gott Schadrachs, Meschachs und Abed-Negos,
+der seinen Engel gesandt
+und seine Diener gerettet hat,
+die ihm vertraut haben
+und das Wort des Königs übertreten
+und ihre Leiber hingegeben haben,
+um keinem Gott zu dienen und keinen anzubeten außer ihrem eigenen Gott.
+<sup>29</sup>Darum erlasse ich einen Befehl:
+Jedes Volk, jede Nation und jede Sprache,
+die etwas Böses gegen den Gott Schadrachs, Meschachs und Abed-Negos sagt,
+soll in Stücke gehauen werden,
+und ihre Häuser sollen zu Misthaufen gemacht werden,
+denn es gibt keinen anderen Gott, der so retten kann.“
+<sup>30</sup>Dann beförderte der König Schadrach, Meschach und Abed-Nego
+in der Provinz Babylon.
+
+> **Was bedeutet das?**
+> Der König lobt Gott. Er erkennt an: Diese Männer haben ihr Leben riskiert, um ihrem Gott treu zu bleiben.
+> Vers 29: Aber der König hat noch nicht wirklich etwas verstanden. Er droht jetzt mit derselben Gewalt, nur in die andere Richtung. Glaube lässt sich nicht durch Drohungen erzwingen. Gott braucht keine Gewalt zu seinem Schutz.
+> Hinweis zur Zählung: In deutschen Bibeln gehören die ersten drei Verse des nächsten Kapitels (im WEB 4,1–3) noch zu Kapitel 3 (als 3,31–33).
+> Für heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt. Dieses Kapitel ermutigt, treu zu bleiben, und erinnert uns, für die Glaubensfreiheit aller Menschen einzutreten.

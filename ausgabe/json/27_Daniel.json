@@ -1,0 +1,672 @@
+{
+ "nr": 27,
+ "code": "DAN",
+ "kuerzel": "Dan",
+ "name": "Daniel",
+ "name_englisch": "Daniel",
+ "testament": "altes-testament",
+ "kapitel": 12,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Treu in der Fremde",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Daniel?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Buch Daniel erzählt von einem jungen Mann aus Juda, der nach Babylon verschleppt wurde und dort am Hof des Königs lebte. Er lebte also zur selben Zeit wie Hesekiel und Jeremia.\nSein Name bedeutet „Gott ist mein Richter“.\nDas Buch hat 12 Kapitel und zwei Teile:\n– Kapitel 1–6: Erzählungen über Daniel und seine drei Freunde. Sie bleiben Gott treu, auch wenn das gefährlich ist: im Feuerofen, in der Löwengrube.\n– Kapitel 7–12: Visionen über die Reiche der Welt und das kommende Reich Gottes.\nEine Besonderheit: Ein Teil des Buches (Kapitel 2,4 bis 7,28) ist nicht auf Hebräisch geschrieben, sondern auf Aramäisch, der damaligen internationalen Sprache.\nWann wurde das Buch geschrieben? Nach der Überlieferung stammt es von Daniel selbst, im 6. Jahrhundert vor Christus. Viele Forscher meinen, dass es seine heutige Form erst im 2. Jahrhundert vor Christus bekam, als der König Antiochus IV. die Juden verfolgte und ihren Glauben verbieten wollte. Damals machten die Geschichten von Daniel den Verfolgten Mut. Beide Sichtweisen werden von Gläubigen vertreten.\nIn der jüdischen Bibel steht Daniel nicht bei den Propheten, sondern bei den „Schriften“. In christlichen Bibeln steht es bei den Propheten. Jesus nennt Daniel einen Propheten (Matthäus 24,15) und nennt sich selbst „Menschensohn“, nach Daniel 7,13.\nDie Grundbotschaft: Auch wenn die Mächtigen der Welt groß und bedrohlich wirken, Gott ist der wahre Herr der Geschichte. Sein Reich wird bleiben.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Nach Babylon verschleppt",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Im dritten Jahr der Herrschaft Jojakims, des Königs von Juda,\nkam Nebukadnezar, der König von Babylon, nach Jerusalem\nund belagerte die Stadt.",
+       "englisch_web": "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der Herr gab Jojakim, den König von Juda, in seine Hand,\ndazu einen Teil der Geräte aus dem Haus Gottes.\nEr brachte sie in das Land Schinar, in das Haus seines Gottes.\nEr brachte die Geräte in die Schatzkammer seines Gottes.",
+       "englisch_web": "The Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der König befahl Aschpenas, dem Obersten seiner Eunuchen,\ner solle einige von den Kindern Israel bringen,\naus der königlichen Familie und aus den Vornehmen:",
+       "englisch_web": "The king spoke to Ashpenaz, the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring and of the nobles:"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "junge Männer ohne jeden Makel,\ngut aussehend,\ngeschickt in aller Weisheit,\nmit Wissen begabt,\nmit Verstand für die Wissenschaft,\ndie fähig waren, im Palast des Königs zu dienen.\nMan sollte sie die Schrift und die Sprache der Chaldäer lehren.",
+       "englisch_web": "youths in whom was no defect, but well-favored, skillful in all wisdom, endowed with knowledge, understanding science, and who had the ability to stand in the king’s palace; and that he should teach them the learning and the language of the Chaldeans."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Der König bestimmte für sie eine tägliche Portion\nvon den feinen Speisen des Königs\nund von dem Wein, den er trank.\nDrei Jahre lang sollten sie erzogen werden,\nund danach sollten sie vor dem König dienen.",
+       "englisch_web": "The king appointed for them a daily portion of the king’s delicacies and of the wine which he drank, and that they should be nourished three years, that at its end they should stand before the king."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Unter ihnen waren von den Kindern Judas\nDaniel, Hananja, Mischaël und Asarja.",
+       "englisch_web": "Now among these of the children of Judah were Daniel, Hananiah, Mishael, and Azariah."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Der Oberste der Eunuchen gab ihnen neue Namen:\nDaniel nannte er Beltschazar,\nHananja Schadrach,\nMischaël Meschach\nund Asarja Abed-Nego.",
+       "englisch_web": "The prince of the eunuchs gave names to them: to Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego."
+      }
+     ],
+     "erklaerung": "Vers 1–2: Nebukadnezar erobert Jerusalem und nimmt Geräte aus dem Tempel mit. Er stellt sie in den Tempel seines eigenen Gottes. Das sollte zeigen: Der Gott Babylons ist stärker. Aber der Text sagt: „Der Herr gab Jojakim in seine Hand.“ Gott hat die Kontrolle, auch in der Niederlage.\nDas „dritte Jahr Jojakims“ wäre etwa 606/605 vor Christus. Die genaue Datierung dieser ersten Verschleppung ist unter Forschern umstritten.\n„Schinar“ ist ein alter Name für Babylonien (vgl. 1. Mose 11,2, der Turmbau zu Babel).\nVers 3–5: Die jungen Männer aus vornehmen Familien sollen zu babylonischen Beamten umerzogen werden: neue Sprache, neue Bildung, neues Essen. Das WEB nennt Aschpenas den „master of his eunuchs“. Eunuchen waren Hofbeamte, die oft entmannt waren. Ob auch Daniel und seine Freunde zu Eunuchen gemacht wurden, sagt der Text nicht.\nVers 7: Sogar ihre Namen werden geändert. Ihre hebräischen Namen erinnerten an Gott (zum Beispiel „Daniel“ = „Gott ist mein Richter“, „Hananja“ = „Der HERR ist gnädig“). Die neuen Namen erinnern an babylonische Götter. Man wollte ihre Identität auslöschen."
+    },
+    {
+     "ueberschrift": "Daniel will sich nicht verunreinigen",
+     "vers_von": 8,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber Daniel nahm sich in seinem Herzen vor,\nsich nicht mit den feinen Speisen des Königs\nund mit dem Wein, den er trank, zu verunreinigen.\nDarum bat er den Obersten der Eunuchen,\ndass er sich nicht verunreinigen müsse.",
+       "englisch_web": "But Daniel purposed in his heart that he would not defile himself with the king’s delicacies, nor with the wine which he drank. Therefore he requested of the prince of the eunuchs that he might not defile himself."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Gott ließ Daniel Gunst und Erbarmen finden\nvor dem Obersten der Eunuchen.",
+       "englisch_web": "Now God made Daniel find kindness and compassion in the sight of the prince of the eunuchs."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Der Oberste der Eunuchen sagte zu Daniel:\n„Ich fürchte meinen Herrn, den König,\nder eure Speise und euren Trank bestimmt hat.\nDenn warum sollte er eure Gesichter schlechter aussehend finden\nals die der jungen Männer in eurem Alter?\nDann würdet ihr meinen Kopf beim König in Gefahr bringen.“",
+       "englisch_web": "The prince of the eunuchs said to Daniel, “I fear my lord the king, who has appointed your food and your drink. For why should he see your faces worse looking than the youths who are of your own age? Then you would endanger my head with the king.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Da sagte Daniel zu dem Aufseher,\nden der Oberste der Eunuchen über Daniel, Hananja, Mischaël und Asarja gesetzt hatte:",
+       "englisch_web": "Then Daniel said to the steward whom the prince of the eunuchs had appointed over Daniel, Hananiah, Mishael, and Azariah:"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Prüfe deine Knechte doch zehn Tage lang.\nMan soll uns Gemüse zu essen und Wasser zu trinken geben.",
+       "englisch_web": "“Test your servants, I beg you, ten days; and let them give us vegetables to eat and water to drink."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Dann sollen unsere Gesichter vor dir angesehen werden\nund die Gesichter der jungen Männer,\ndie von den feinen Speisen des Königs essen.\nUnd wie du es dann siehst, so handle mit deinen Knechten.“",
+       "englisch_web": "Then let our faces be examined before you, and the face of the youths who eat of the king’s delicacies; and as you see, deal with your servants.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er hörte in dieser Sache auf sie\nund prüfte sie zehn Tage lang.",
+       "englisch_web": "So he listened to them in this matter, and tested them for ten days."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Am Ende der zehn Tage sahen ihre Gesichter besser aus,\nund sie waren wohlgenährter\nals alle jungen Männer, die von den feinen Speisen des Königs aßen.",
+       "englisch_web": "At the end of ten days, their faces appeared fairer and they were fatter in flesh than all the youths who ate of the king’s delicacies."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Da nahm der Aufseher ihre feinen Speisen\nund den Wein, den sie trinken sollten, weg\nund gab ihnen Gemüse.",
+       "englisch_web": "So the steward took away their delicacies and the wine that they were given to drink, and gave them vegetables."
+      }
+     ],
+     "erklaerung": "Daniel will nicht vom Essen des Königs essen. Warum? Wahrscheinlich, weil das Fleisch nicht nach den jüdischen Speisegeboten zubereitet war oder vorher Götzen geopfert wurde. Daniel wollte auch in der Fremde Gott treu bleiben.\nBemerkenswert ist, wie Daniel das macht: Er rebelliert nicht laut. Er bittet höflich und schlägt einen fairen Test vor. Er sucht eine Lösung, die auch für den Aufseher gut ist.\nVers 9: „Gott ließ Daniel Gunst finden.“ Gott wirkt im Hintergrund.\nVers 15: Nach zehn Tagen mit Gemüse und Wasser sehen die vier gesünder aus als die anderen. Das ist kein allgemeines Ernährungsgesetz, sondern zeigt: Gott segnet die Treue.\nFür heute: Auch wir können in einer Umgebung leben, die andere Werte hat. Daniel zeigt, wie man treu zu seinen Überzeugungen steht, ohne andere herabzusetzen."
+    },
+    {
+     "ueberschrift": "Zehnmal klüger",
+     "vers_von": 17,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Diesen vier jungen Männern gab Gott Wissen und Einsicht\nin aller Schrift und Weisheit.\nUnd Daniel verstand sich auf alle Visionen und Träume.",
+       "englisch_web": "Now as for these four youths, God gave them knowledge and skill in all learning and wisdom; and Daniel had understanding in all visions and dreams."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Am Ende der Tage, die der König bestimmt hatte,\num sie hereinzubringen,\nbrachte der Oberste der Eunuchen sie vor Nebukadnezar.",
+       "englisch_web": "At the end of the days which the king had appointed for bringing them in, the prince of the eunuchs brought them in before Nebuchadnezzar."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der König redete mit ihnen,\nund unter ihnen allen fand sich keiner wie Daniel, Hananja, Mischaël und Asarja.\nDarum traten sie in den Dienst des Königs.",
+       "englisch_web": "The king talked with them; and among them all was found no one like Daniel, Hananiah, Mishael, and Azariah. Therefore they stood before the king."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "In jeder Sache, die Weisheit und Verstand erforderte\nund nach der der König sie fragte,\nfand er sie zehnmal besser\nals alle Magier und Beschwörer in seinem ganzen Reich.",
+       "englisch_web": "In every matter of wisdom and understanding concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters who were in all his realm."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Daniel blieb bis zum ersten Jahr des Königs Kyrus.",
+       "englisch_web": "Daniel continued even to the first year of King Cyrus."
+      }
+     ],
+     "erklaerung": "Die vier lernen die ganze Wissenschaft Babylons und sind darin hervorragend. Sie verweigern sich nicht der fremden Kultur. Sie lernen und arbeiten mit, aber ihren Glauben geben sie nicht auf.\nVers 20: „Zehnmal besser“ – Gott schenkt ihnen Weisheit, die größer ist als die der babylonischen Magier.\nVers 21: Daniel überlebt das ganze Babylonische Reich. Er ist noch da, als der Perserkönig Kyrus Babylon erobert (539 vor Christus) und den Juden erlaubt, nach Hause zurückzukehren. Die Könige kommen und gehen, aber Gottes treuer Diener bleibt."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Der Traum von der großen Statue",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der König verlangt das Unmögliche",
+     "vers_von": 1,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Im zweiten Jahr der Herrschaft Nebukadnezars\nhatte Nebukadnezar Träume.\nSein Geist wurde unruhig,\nund sein Schlaf war dahin.",
+       "englisch_web": "In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da befahl der König,\ndie Magier, die Beschwörer, die Zauberer und die Chaldäer zu rufen,\ndamit sie dem König seine Träume sagten.\nSie kamen und traten vor den König.",
+       "englisch_web": "Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be called to tell the king his dreams. So they came in and stood before the king."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der König sagte zu ihnen:\n„Ich habe einen Traum gehabt,\nund mein Geist ist unruhig, den Traum zu wissen.“",
+       "englisch_web": "The king said to them, “I have dreamed a dream, and my spirit is troubled to know the dream.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da sagten die Chaldäer zum König auf Aramäisch:\n„O König, lebe ewig!\nErzähle deinen Knechten den Traum,\nund wir werden die Deutung kundtun.“",
+       "englisch_web": "Then the Chaldeans spoke to the king in the Syrian language, “O king, live forever! Tell your servants the dream, and we will show the interpretation.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Der König antwortete den Chaldäern:\n„Die Sache steht fest bei mir:\nWenn ihr mir den Traum und seine Deutung nicht kundtut,\nwerdet ihr in Stücke gehauen,\nund eure Häuser werden zu Misthaufen gemacht.",
+       "englisch_web": "The king answered the Chaldeans, “The thing has gone from me. If you don’t make known to me the dream and its interpretation, you will be cut in pieces, and your houses will be made a dunghill."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn ihr aber den Traum und seine Deutung kundtut,\nwerdet ihr von mir Geschenke, Belohnungen und große Ehre bekommen.\nDarum tut mir den Traum und seine Deutung kund.“",
+       "englisch_web": "But if you show the dream and its interpretation, you will receive from me gifts, rewards, and great honor. Therefore show me the dream and its interpretation.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sie antworteten zum zweiten Mal und sagten:\n„Der König möge seinen Knechten den Traum erzählen,\ndann werden wir die Deutung kundtun.“",
+       "englisch_web": "They answered the second time and said, “Let the king tell his servants the dream, and we will show the interpretation.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Der König antwortete:\n„Ich weiß gewiss, dass ihr Zeit gewinnen wollt,\nweil ihr seht, dass die Sache bei mir feststeht.",
+       "englisch_web": "The king answered, “I know of a certainty that you are trying to gain time, because you see the thing has gone from me."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wenn ihr mir den Traum nicht kundtut,\ngibt es für euch nur ein Urteil.\nDenn ihr habt euch verabredet, lügnerische und verkehrte Worte vor mir zu reden,\nbis sich die Lage ändert.\nDarum sagt mir den Traum,\ndann weiß ich, dass ihr mir auch seine Deutung kundtun könnt.“",
+       "englisch_web": "But if you don’t make known to me the dream, there is but one law for you; for you have prepared lying and corrupt words to speak before me, until the situation changes. Therefore tell me the dream, and I will know that you can show me its interpretation.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die Chaldäer antworteten dem König und sagten:\n„Es gibt keinen Menschen auf der Erde,\nder die Sache des Königs kundtun kann.\nDenn kein König, Herr oder Herrscher\nhat so etwas von irgendeinem Magier, Beschwörer oder Chaldäer verlangt.",
+       "englisch_web": "The Chaldeans answered the king and said, “There is not a man on the earth who can show the king’s matter, because no king, lord, or ruler has asked such a thing of any magician, enchanter, or Chaldean."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Es ist eine schwere Sache, die der König verlangt,\nund es gibt keinen anderen, der es vor dem König kundtun kann,\naußer den Göttern,\nderen Wohnung nicht bei den Menschen ist.“",
+       "englisch_web": "It is a rare thing that the king requires, and there is no other who can show it before the king except the gods, whose dwelling is not with flesh.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darüber wurde der König zornig und sehr wütend\nund befahl, alle Weisen Babylons umzubringen.",
+       "englisch_web": "Because of this, the king was angry and very furious, and commanded that all the wise men of Babylon be destroyed."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "So ging der Befehl aus,\nund die Weisen sollten getötet werden.\nMan suchte auch Daniel und seine Gefährten, um sie zu töten.",
+       "englisch_web": "So the decree went out, and the wise men were to be slain. They sought Daniel and his companions to be slain."
+      }
+     ],
+     "erklaerung": "Der König hat einen beunruhigenden Traum. Er stellt seine Traumdeuter auf die Probe: Sie sollen ihm nicht nur die Deutung sagen, sondern zuerst den Traum selbst. So kann er prüfen, ob sie wirklich übernatürliches Wissen haben oder nur etwas erfinden.\nVers 4: Ab hier bis Kapitel 7,28 ist das Buch auf Aramäisch geschrieben. Das WEB sagt „in the Syrian language“, gemeint ist Aramäisch.\nVers 11: Die Weisen geben selbst zu: Nur die Götter könnten das wissen, und die wohnen nicht bei den Menschen. Damit bereiten sie unbewusst Daniels Antwort vor: Es gibt einen Gott, der Geheimnisse offenbart (Vers 28).\nVers 12: Ein grausamer Befehl aus Wut. Der Text zeigt, wie willkürlich und gefährlich die Macht eines Tyrannen ist."
+    },
+    {
+     "ueberschrift": "Daniel betet mit seinen Freunden",
+     "vers_von": 14,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Da antwortete Daniel mit Klugheit und Verstand\nArjoch, dem Obersten der Leibwache des Königs,\nder ausgezogen war, um die Weisen Babylons zu töten.",
+       "englisch_web": "Then Daniel returned answer with counsel and prudence to Arioch the captain of the king’s guard, who had gone out to kill the wise men of Babylon."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er sagte zu Arjoch, dem Obersten des Königs:\n„Warum ist der Befehl vom König so dringend?“\nDa erklärte Arjoch Daniel die Sache.",
+       "englisch_web": "He answered Arioch the king’s captain, “Why is the decree so urgent from the king?” Then Arioch made the thing known to Daniel."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Daniel ging hinein und bat den König,\nihm eine Frist zu geben,\ndann werde er dem König die Deutung kundtun.",
+       "englisch_web": "Daniel went in, and desired of the king that he would appoint him a time, and he would show the king the interpretation."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Dann ging Daniel in sein Haus\nund erzählte die Sache seinen Gefährten Hananja, Mischaël und Asarja,",
+       "englisch_web": "Then Daniel went to his house and made the thing known to Hananiah, Mishael, and Azariah, his companions:"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "damit sie den Gott des Himmels um Erbarmen bitten\nwegen dieses Geheimnisses,\ndamit Daniel und seine Gefährten nicht mit den übrigen Weisen Babylons umkämen.",
+       "englisch_web": "that they would desire mercies of the God of heaven concerning this secret, that Daniel and his companions would not perish with the rest of the wise men of Babylon."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Da wurde Daniel das Geheimnis in einer Vision in der Nacht offenbart.\nDa pries Daniel den Gott des Himmels.",
+       "englisch_web": "Then the secret was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Daniel sagte:\n„Gepriesen sei der Name Gottes von Ewigkeit zu Ewigkeit,\ndenn Weisheit und Macht gehören ihm.",
+       "englisch_web": "Daniel answered, “Blessed be the name of God forever and ever; for wisdom and might are his."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er ändert Zeiten und Fristen.\nEr setzt Könige ab und setzt Könige ein.\nEr gibt den Weisen Weisheit\nund Erkenntnis denen, die Verstand haben.",
+       "englisch_web": "He changes the times and the seasons. He removes kings and sets up kings. He gives wisdom to the wise, and knowledge to those who have understanding."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Er offenbart das Tiefe und Verborgene.\nEr weiß, was in der Finsternis ist,\nund das Licht wohnt bei ihm.",
+       "englisch_web": "He reveals the deep and secret things. He knows what is in the darkness, and the light dwells with him."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Dich, Gott meiner Väter, danke ich und lobe ich,\nder du mir Weisheit und Kraft gegeben hast\nund mir jetzt kundgetan hast, was wir von dir erbeten haben.\nDenn du hast uns die Sache des Königs kundgetan.“",
+       "englisch_web": "I thank you and praise you, O God of my fathers, who have given me wisdom and might, and have now made known to me what we desired of you; for you have made known to us the king’s matter.”"
+      }
+     ],
+     "erklaerung": "Daniel bleibt ruhig. Er redet klug mit dem Wachoffizier, bittet den König um Zeit und betet dann mit seinen Freunden. Gemeinsam bitten sie Gott um Hilfe.\nVers 19–23: Als Gott ihm das Geheimnis zeigt, dankt Daniel zuerst. Er lobt Gott, bevor er zum König geht. Sein Gebet ist ein wunderschönes Loblied:\n„Er setzt Könige ab und setzt Könige ein.“ Das ist das Thema des ganzen Buches: Nicht die Herrscher bestimmen die Geschichte, sondern Gott.\n„Das Licht wohnt bei ihm.“ Gott sieht auch in die Dunkelheit hinein."
+    },
+    {
+     "ueberschrift": "Es gibt einen Gott im Himmel",
+     "vers_von": 24,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Darum ging Daniel zu Arjoch,\nden der König beauftragt hatte, die Weisen Babylons umzubringen.\nEr ging hin und sagte zu ihm:\n„Bring die Weisen Babylons nicht um.\nFühre mich vor den König,\nund ich werde dem König die Deutung kundtun.“",
+       "englisch_web": "Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said this to him: “Don’t destroy the wise men of Babylon. Bring me in before the king, and I will show to the king the interpretation.”"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Da brachte Arjoch Daniel eilends vor den König\nund sagte zu ihm:\n„Ich habe einen Mann unter den Verschleppten aus Juda gefunden,\nder dem König die Deutung kundtun wird.“",
+       "englisch_web": "Then Arioch brought in Daniel before the king in haste, and said this to him: “I have found a man of the children of the captivity of Judah who will make known to the king the interpretation.”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Der König sagte zu Daniel, der Beltschazar hieß:\n„Bist du imstande, mir den Traum kundzutun, den ich gesehen habe,\nund seine Deutung?“",
+       "englisch_web": "The king answered Daniel, whose name was Belteshazzar, “Are you able to make known to me the dream which I have seen, and its interpretation?”"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Daniel antwortete vor dem König und sagte:\n„Das Geheimnis, das der König verlangt,\nkönnen Weise, Beschwörer, Magier und Wahrsager\ndem König nicht kundtun.",
+       "englisch_web": "Daniel answered before the king, and said, “The secret which the king has demanded can’t be shown to the king by wise men, enchanters, magicians, or soothsayers;"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Aber es gibt einen Gott im Himmel, der Geheimnisse offenbart,\nund er hat dem König Nebukadnezar kundgetan,\nwas in den letzten Tagen geschehen wird.\nDein Traum und die Visionen deines Kopfes auf deinem Lager sind diese:",
+       "englisch_web": "but there is a God in heaven who reveals secrets, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head on your bed are these:"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Dir, o König, kamen auf deinem Lager Gedanken,\nwas in Zukunft geschehen würde.\nUnd der Geheimnisse offenbart, hat dir kundgetan, was geschehen wird.",
+       "englisch_web": "“As for you, O king, your thoughts came on your bed, what should happen hereafter; and he who reveals secrets has made known to you what will happen."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Mir aber ist dieses Geheimnis nicht offenbart worden\nwegen einer Weisheit, die ich mehr hätte als alle Lebenden,\nsondern damit dem König die Deutung kundgetan wird\nund du die Gedanken deines Herzens erkennst.“",
+       "englisch_web": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but to the intent that the interpretation may be made known to the king, and that you may know the thoughts of your heart."
+      }
+     ],
+     "erklaerung": "Vers 24: Daniel denkt nicht nur an sich selbst. Er bittet zuerst, dass auch die anderen Weisen nicht getötet werden, obwohl sie Heiden sind.\nVers 27–28: Daniel nimmt die Ehre nicht für sich. Er sagt: Kein Mensch kann das. „Aber es gibt einen Gott im Himmel, der Geheimnisse offenbart.“\nVers 30: Daniel ist demütig: „Nicht weil ich klüger wäre als andere.“ Alles ist Gottes Geschenk."
+    },
+    {
+     "ueberschrift": "Der Traum",
+     "vers_von": 31,
+     "vers_bis": 35,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 31,
+       "leichte_sprache": "Du, o König, schautest,\nund siehe, ein großes Standbild.\nDieses Standbild war gewaltig,\nund sein Glanz war außergewöhnlich.\nEs stand vor dir,\nund sein Aussehen war furchterregend.",
+       "englisch_web": "“You, O king, saw, and behold, a great image. This image, which was mighty, and whose brightness was excellent, stood before you; and its appearance was terrifying."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Der Kopf dieses Standbilds war aus feinem Gold,\nseine Brust und seine Arme aus Silber,\nsein Bauch und seine Hüften aus Bronze,",
+       "englisch_web": "As for this image, its head was of fine gold, its chest and its arms of silver, its belly and its thighs of bronze,"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "seine Beine aus Eisen,\nseine Füße teils aus Eisen und teils aus Ton.",
+       "englisch_web": "its legs of iron, its feet part of iron and part of clay."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Du schautest,\nbis ein Stein losbrach, ohne dass Hände ihn berührten.\nEr traf das Standbild an seinen Füßen aus Eisen und Ton\nund zermalmte sie.",
+       "englisch_web": "You saw until a stone was cut out without hands, which struck the image on its feet that were of iron and clay, and broke them in pieces."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Da wurden das Eisen, der Ton, die Bronze, das Silber und das Gold\nzusammen zermalmt\nund wurden wie Spreu auf den Dreschplätzen im Sommer.\nDer Wind trug sie fort,\nsodass keine Spur mehr von ihnen zu finden war.\nDer Stein aber, der das Standbild getroffen hatte,\nwurde zu einem großen Berg und füllte die ganze Erde.",
+       "englisch_web": "Then the iron, the clay, the bronze, the silver, and the gold were broken in pieces together, and became like the chaff of the summer threshing floors. The wind carried them away, so that no place was found for them. The stone that struck the image became a great mountain and filled the whole earth."
+      }
+     ],
+     "erklaerung": "Der König sah eine riesige Statue aus verschiedenen Metallen: von oben nach unten immer weniger wertvoll (Gold, Silber, Bronze, Eisen) und am Ende auf Füßen aus Eisen und Ton, also instabil.\nDann kommt ein Stein, „ohne dass Hände ihn berührten“, also nicht von Menschen gemacht. Er zerschlägt die ganze Statue. Und der Stein wird zu einem Berg, der die ganze Welt füllt."
+    },
+    {
+     "ueberschrift": "Die Deutung: vier Reiche und das Reich Gottes",
+     "vers_von": 36,
+     "vers_bis": 45,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 36,
+       "leichte_sprache": "Das ist der Traum.\nUnd seine Deutung wollen wir vor dem König sagen.",
+       "englisch_web": "“This is the dream; and we will tell its interpretation before the king."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Du, o König, bist der König der Könige,\ndem der Gott des Himmels das Königreich gegeben hat,\ndie Macht, die Stärke und die Ehre.",
+       "englisch_web": "You, O king, are king of kings, to whom the God of heaven has given the kingdom, the power, the strength, and the glory."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Und wo immer Menschen wohnen,\nhat er die Tiere des Feldes und die Vögel des Himmels in deine Hand gegeben\nund dich zum Herrscher über sie alle gemacht.\nDu bist der Kopf aus Gold.",
+       "englisch_web": "Wherever the children of men dwell, he has given the animals of the field and the birds of the sky into your hand, and has made you rule over them all. You are the head of gold."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Nach dir wird ein anderes Königreich aufstehen,\ngeringer als du,\nund noch ein drittes Königreich aus Bronze,\ndas über die ganze Erde herrschen wird.",
+       "englisch_web": "“After you, another kingdom will arise that is inferior to you; and another third kingdom of bronze, which will rule over all the earth."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Das vierte Königreich wird stark sein wie Eisen.\nDenn wie Eisen alles zermalmt und bezwingt,\nund wie Eisen, das alles zerschlägt,\nso wird es alles zermalmen und zerschlagen.",
+       "englisch_web": "The fourth kingdom will be strong as iron, because iron breaks in pieces and subdues all things; and as iron that crushes all these, it will break in pieces and crush."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Dass du aber die Füße und Zehen gesehen hast,\nteils aus Töpferton und teils aus Eisen,\ndas bedeutet: Es wird ein geteiltes Königreich sein.\nAber es wird etwas von der Festigkeit des Eisens in ihm sein,\nweil du das Eisen mit lehmigem Ton vermischt gesehen hast.",
+       "englisch_web": "Whereas you saw the feet and toes, part of potters’ clay and part of iron, it will be a divided kingdom; but there will be in it of the strength of the iron, because you saw the iron mixed with miry clay."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Und wie die Zehen der Füße teils aus Eisen und teils aus Ton waren,\nso wird das Königreich teils stark und teils zerbrechlich sein.",
+       "englisch_web": "As the toes of the feet were part of iron, and part of clay, so the kingdom will be partly strong and partly brittle."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Dass du das Eisen mit lehmigem Ton vermischt gesehen hast,\ndas bedeutet: Sie werden sich durch Heiraten mit anderen Menschen vermischen,\naber sie werden nicht aneinander haften,\nso wie sich Eisen nicht mit Ton vermischt.",
+       "englisch_web": "Whereas you saw the iron mixed with miry clay, they will mingle themselves with the seed of men; but they won’t cling to one another, even as iron does not mix with clay."
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "In den Tagen dieser Könige\nwird der Gott des Himmels ein Königreich errichten,\ndas in Ewigkeit nicht zerstört werden wird.\nUnd seine Herrschaft wird keinem anderen Volk überlassen werden.\nEs wird alle diese Königreiche zermalmen und ihnen ein Ende machen,\nund es selbst wird in Ewigkeit bestehen.",
+       "englisch_web": "“In the days of those kings the God of heaven will set up a kingdom which will never be destroyed, nor will its sovereignty be left to another people; but it will break in pieces and consume all these kingdoms, and it will stand forever."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Denn du hast gesehen,\ndass ein Stein ohne Hände vom Berg losbrach\nund das Eisen, die Bronze, den Ton, das Silber und das Gold zermalmte.\nDer große Gott hat dem König kundgetan,\nwas in Zukunft geschehen wird.\nDer Traum ist gewiss,\nund seine Deutung ist zuverlässig.“",
+       "englisch_web": "Because you saw that a stone was cut out of the mountain without hands, and that it broke in pieces the iron, the bronze, the clay, the silver, and the gold, the great God has made known to the king what will happen hereafter. The dream is certain, and its interpretation sure.”"
+      }
+     ],
+     "erklaerung": "Die Statue steht für vier Weltreiche, die nacheinander kommen. Der Kopf aus Gold ist Babylon unter Nebukadnezar.\nWelche Reiche sind die anderen? Es gibt zwei Hauptdeutungen:\n– Viele Ausleger: Babylon, Medien, Persien, Griechenland (das Reich Alexanders des Großen und seiner Nachfolger, die sich durch Heiraten verbanden, aber zerstritten blieben, Vers 43).\n– Eine alte, verbreitete Deutung (schon bei jüdischen und christlichen Auslegern der Antike): Babylon, Medo-Persien, Griechenland, Rom.\nVers 44: Die zentrale Botschaft: Alle Weltreiche, so mächtig sie sind, werden vergehen. Am Ende steht ein Reich, das Gott selbst aufrichtet und das ewig bleibt.\nJuden erwarten dieses Reich mit dem Kommen des Messias. Christen sehen darin das Reich Gottes, das Jesus verkündet hat: „Das Reich Gottes ist nahe“ (Markus 1,15). Es beginnt klein wie ein Stein und wächst, bis es die ganze Welt erfüllt.\nFür heute: Keine Macht der Welt ist für ewig. Diktatoren, Weltreiche und Supermächte kommen und gehen. Gottes Reich bleibt."
+    },
+    {
+     "ueberschrift": "Der König ehrt Daniels Gott",
+     "vers_von": 46,
+     "vers_bis": 49,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 46,
+       "leichte_sprache": "Da fiel der König Nebukadnezar auf sein Gesicht,\nhuldigte Daniel\nund befahl, ihm Speisopfer und Räucherwerk darzubringen.",
+       "englisch_web": "Then King Nebuchadnezzar fell on his face, worshiped Daniel, and commanded that they should offer an offering and sweet odors to him."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Der König antwortete Daniel und sagte:\n„Wahrhaftig, euer Gott ist der Gott der Götter\nund der Herr der Könige\nund einer, der Geheimnisse offenbart,\nda du dieses Geheimnis offenbaren konntest.“",
+       "englisch_web": "The king answered to Daniel, and said, “Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, since you have been able to reveal this secret.”"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Dann machte der König Daniel groß\nund gab ihm viele große Geschenke.\nEr machte ihn zum Herrscher über die ganze Provinz Babylon\nund zum Obersten aller Weisen Babylons.",
+       "englisch_web": "Then the king made Daniel great and gave him many great gifts, and made him rule over the whole province of Babylon and to be chief governor over all the wise men of Babylon."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Daniel bat den König,\nund er setzte Schadrach, Meschach und Abed-Nego\nüber die Verwaltung der Provinz Babylon.\nDaniel aber blieb am Hof des Königs.",
+       "englisch_web": "Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon, but Daniel was in the king’s gate."
+      }
+     ],
+     "erklaerung": "Der mächtigste König der Welt fällt vor einem jungen Verschleppten auf die Knie. Und er bekennt: „Euer Gott ist der Gott der Götter und der Herr der Könige.“\nOb Daniel die Verehrung annahm, sagt der Text nicht. Aber der König versteht: Die Ehre gebührt eigentlich Daniels Gott.\nVers 49: Daniel vergisst seine Freunde nicht. Er sorgt dafür, dass auch sie wichtige Ämter bekommen."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Die drei Männer im Feuerofen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das goldene Standbild",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der König Nebukadnezar machte ein Standbild aus Gold.\nSeine Höhe war sechzig Ellen\nund seine Breite sechs Ellen.\nEr stellte es in der Ebene Dura in der Provinz Babylon auf.",
+       "englisch_web": "Nebuchadnezzar the king made an image of gold, whose height was sixty cubits and its width six cubits. He set it up in the plain of Dura, in the province of Babylon."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Dann sandte der König Nebukadnezar aus,\num die Statthalter, die Vorsteher und die Gouverneure,\ndie Richter, die Schatzmeister, die Ratgeber, die Amtleute\nund alle Herrscher der Provinzen zu versammeln,\ndamit sie zur Einweihung des Standbilds kämen,\ndas der König Nebukadnezar aufgestellt hatte.",
+       "englisch_web": "Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Da versammelten sich die Statthalter, die Vorsteher und die Gouverneure,\ndie Richter, die Schatzmeister, die Ratgeber, die Amtleute\nund alle Herrscher der Provinzen\nzur Einweihung des Standbilds, das der König Nebukadnezar aufgestellt hatte.\nUnd sie stellten sich vor das Standbild,\ndas Nebukadnezar aufgestellt hatte.",
+       "englisch_web": "Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da rief der Herold laut:\n„Euch wird befohlen, ihr Völker, Nationen und Sprachen:",
+       "englisch_web": "Then the herald cried aloud, “To you it is commanded, peoples, nations, and languages,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sobald ihr den Klang des Horns, der Flöte, der Zither, der Leier,\nder Harfe, des Dudelsacks und aller Arten von Musik hört,\nsollt ihr niederfallen und das goldene Standbild anbeten,\ndas der König Nebukadnezar aufgestellt hat.",
+       "englisch_web": "that whenever you hear the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music, you fall down and worship the golden image that Nebuchadnezzar the king has set up."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wer nicht niederfällt und anbetet,\nder soll in derselben Stunde\nmitten in einen brennenden Feuerofen geworfen werden.“",
+       "englisch_web": "Whoever doesn’t fall down and worship shall be cast into the middle of a burning fiery furnace the same hour.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Darum fielen zu dieser Zeit,\nals alle Völker den Klang des Horns, der Flöte, der Zither, der Leier,\nder Harfe, des Dudelsacks und aller Arten von Musik hörten,\nalle Völker, Nationen und Sprachen nieder\nund beteten das goldene Standbild an,\ndas der König Nebukadnezar aufgestellt hatte.",
+       "englisch_web": "Therefore at that time, when all the peoples heard the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music, all the peoples, the nations, and the languages fell down and worshiped the golden image that Nebuchadnezzar the king had set up."
+      }
+     ],
+     "erklaerung": "Nebukadnezar lässt eine riesige goldene Statue bauen: 60 Ellen hoch (etwa 27 Meter) und nur 6 Ellen breit, also eher eine Säule oder ein Obelisk, vielleicht nur mit Gold überzogen.\nVielleicht hat der König seinen Traum aus Kapitel 2 falsch verstanden: Dort war nur der Kopf aus Gold. Jetzt macht er die ganze Statue aus Gold, als wollte er sagen: Mein Reich soll ewig bestehen.\nDie vielen Wiederholungen (immer wieder die Liste der Beamten und der Instrumente) wirken fast komisch. Sie zeigen, wie großspurig und bürokratisch diese Macht ist.\nVers 6: Jeder, der nicht mitmacht, wird getötet. Eine Diktatur, die von allen die gleiche Anbetung verlangt.\nIm 20. Jahrhundert haben Christen und Juden unter Diktaturen (zum Beispiel im Nationalsozialismus) dieses Kapitel als Ermutigung gelesen, sich nicht zu beugen."
+    },
+    {
+     "ueberschrift": "Die Anklage",
+     "vers_von": 8,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum traten zu dieser Zeit einige chaldäische Männer heran\nund verklagten die Juden.",
+       "englisch_web": "Therefore at that time certain Chaldeans came near and brought accusation against the Jews."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sie sagten zum König Nebukadnezar:\n„O König, lebe ewig!",
+       "englisch_web": "They answered Nebuchadnezzar the king, “O king, live for ever!"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Du, o König, hast einen Befehl erlassen,\ndass jeder Mensch, der den Klang des Horns, der Flöte, der Zither, der Leier,\nder Harfe, des Dudelsacks und aller Arten von Musik hört,\nniederfallen und das goldene Standbild anbeten soll,",
+       "englisch_web": "You, O king, have made a decree that every man who hears the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music shall fall down and worship the golden image;"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "und wer nicht niederfällt und anbetet,\nder soll mitten in einen brennenden Feuerofen geworfen werden.",
+       "englisch_web": "and whoever doesn’t fall down and worship shall be cast into the middle of a burning fiery furnace."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Es gibt einige Juden, die du über die Verwaltung der Provinz Babylon gesetzt hast:\nSchadrach, Meschach und Abed-Nego.\nDiese Männer, o König, achten dich nicht.\nDeinen Göttern dienen sie nicht,\nund das goldene Standbild, das du aufgestellt hast,\nbeten sie nicht an.“",
+       "englisch_web": "There are certain Jews whom you have appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abednego. These men, O king, have not respected you. They don’t serve your gods, and don’t worship the golden image which you have set up.”"
+      }
+     ],
+     "erklaerung": "Neidische Beamte nutzen die Gelegenheit, um die erfolgreichen jüdischen Kollegen loszuwerden. Sie betonen: „Diese Juden, die du selbst eingesetzt hast …“\nHier wird gezeigt, wie Hass gegen eine Minderheit oft aus Neid und Machtstreben entsteht. Leider ist Judenfeindschaft eine lange und schreckliche Geschichte bis heute. Dieser Text stellt sich klar auf die Seite der Verfolgten."
+    },
+    {
+     "ueberschrift": "„Auch wenn er es nicht tut …“",
+     "vers_von": 13,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Da befahl Nebukadnezar in Zorn und Wut,\nSchadrach, Meschach und Abed-Nego herzubringen.\nDa wurden diese Männer vor den König gebracht.",
+       "englisch_web": "Then Nebuchadnezzar in rage and fury commanded that Shadrach, Meshach, and Abednego be brought. Then these men were brought before the king."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Nebukadnezar sagte zu ihnen:\n„Ist es wahr, Schadrach, Meschach und Abed-Nego,\ndass ihr meinen Göttern nicht dient\nund das goldene Standbild, das ich aufgestellt habe, nicht anbetet?",
+       "englisch_web": "Nebuchadnezzar answered them, “Is it true, Shadrach, Meshach, and Abednego, that you don’t serve my gods and you don’t worship the golden image which I have set up?"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wenn ihr nun bereit seid,\nsobald ihr den Klang des Horns, der Flöte, der Zither, der Leier,\nder Harfe, des Dudelsacks und aller Arten von Musik hört,\nniederzufallen und das Standbild anzubeten, das ich gemacht habe, gut.\nWenn ihr aber nicht anbetet,\ndann werdet ihr in derselben Stunde\nmitten in den brennenden Feuerofen geworfen.\nUnd wer ist der Gott, der euch aus meinen Händen retten könnte?“",
+       "englisch_web": "Now if you are ready whenever you hear the sound of the horn, flute, zither, lyre, harp, pipe, and all kinds of music to fall down and worship the image which I have made, good; but if you don’t worship, you shall be cast the same hour into the middle of a burning fiery furnace. Who is that god who will deliver you out of my hands?”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Schadrach, Meschach und Abed-Nego antworteten dem König:\n„Nebukadnezar, wir haben es nicht nötig,\ndir in dieser Sache zu antworten.",
+       "englisch_web": "Shadrach, Meshach, and Abednego answered the king, “Nebuchadnezzar, we have no need to answer you in this matter."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Wenn es so kommt:\nUnser Gott, dem wir dienen, kann uns aus dem brennenden Feuerofen retten,\nund er wird uns aus deiner Hand retten, o König.",
+       "englisch_web": "If it happens, our God whom we serve is able to deliver us from the burning fiery furnace; and he will deliver us out of your hand, O king."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Und wenn nicht,\nso sollst du wissen, o König,\ndass wir deinen Göttern nicht dienen\nund das goldene Standbild, das du aufgestellt hast, nicht anbeten werden.“",
+       "englisch_web": "But if not, let it be known to you, O king, that we will not serve your gods or worship the golden image which you have set up.”"
+      }
+     ],
+     "erklaerung": "Vers 15: Der König gibt ihnen eine zweite Chance, und er fordert Gott heraus: „Wer ist der Gott, der euch retten könnte?“\nVers 17–18: Eine der mutigsten Antworten der Bibel: „Unser Gott kann uns retten. Und auch wenn er es nicht tut, beten wir dein Bild trotzdem nicht an.“\nDas ist echter Glaube: Er hängt nicht davon ab, ob Gott das Problem löst. Die drei vertrauen Gott, auch wenn sie nicht wissen, wie es ausgeht. Sie sind bereit, für ihre Überzeugung zu sterben.\nViele Menschen haben aus diesem „Und wenn nicht …“ Kraft geschöpft, zum Beispiel im Widerstand gegen Unrecht."
+    },
+    {
+     "ueberschrift": "Im Feuerofen",
+     "vers_von": 19,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Da wurde Nebukadnezar voller Wut,\nund sein Gesichtsausdruck veränderte sich gegen Schadrach, Meschach und Abed-Nego.\nEr befahl,\nden Ofen siebenmal heißer zu heizen, als man ihn sonst heizte.",
+       "englisch_web": "Then Nebuchadnezzar was full of fury, and the form of his appearance was changed against Shadrach, Meshach, and Abednego. He spoke, and commanded that they should heat the furnace seven times more than it was usually heated."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Er befahl einigen starken Männern aus seinem Heer,\nSchadrach, Meschach und Abed-Nego zu fesseln\nund sie in den brennenden Feuerofen zu werfen.",
+       "englisch_web": "He commanded certain mighty men who were in his army to bind Shadrach, Meshach, and Abednego, and to cast them into the burning fiery furnace."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Da wurden diese Männer gefesselt,\nin ihren Hosen, ihren Röcken, ihren Mänteln und ihren übrigen Kleidern,\nund mitten in den brennenden Feuerofen geworfen.",
+       "englisch_web": "Then these men were bound in their pants, their tunics, and their mantles, and their other clothes, and were cast into the middle of the burning fiery furnace."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Weil der Befehl des Königs so dringend\nund der Ofen überaus heiß war,\ntötete die Feuerflamme die Männer,\ndie Schadrach, Meschach und Abed-Nego hinaufgetragen hatten.",
+       "englisch_web": "Therefore because the king’s commandment was urgent and the furnace exceedingly hot, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Diese drei Männer, Schadrach, Meschach und Abed-Nego,\nfielen gefesselt mitten in den brennenden Feuerofen.",
+       "englisch_web": "These three men, Shadrach, Meshach, and Abednego, fell down bound into the middle of the burning fiery furnace."
+      }
+     ],
+     "erklaerung": "In seiner Wut verliert der König jede Vernunft. Er lässt den Ofen so stark heizen, dass sogar seine eigenen Soldaten dabei sterben. Blinde Wut zerstört auch die eigenen Leute.\nHinweis: In katholischen und orthodoxen Bibeln steht nach Vers 23 noch ein längerer Abschnitt: das Gebet Asarjas und der Lobgesang der drei Männer im Feuerofen. Er ist nur auf Griechisch überliefert und steht nicht in der hebräisch-aramäischen Bibel. Das WEB enthält ihn hier nicht."
+    },
+    {
+     "ueberschrift": "Der vierte Mann im Feuer",
+     "vers_von": 24,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Da erschrak der König Nebukadnezar\nund stand eilends auf.\nEr sagte zu seinen Ratgebern:\n„Haben wir nicht drei Männer gefesselt mitten ins Feuer geworfen?“\nSie antworteten dem König:\n„Gewiss, o König.“",
+       "englisch_web": "Then Nebuchadnezzar the king was astonished and rose up in haste. He spoke and said to his counselors, “Didn’t we cast three men bound into the middle of the fire?” They answered the king, “True, O king.”"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Er antwortete:\n„Seht, ich sehe vier Männer frei mitten im Feuer umhergehen,\nund sie sind unversehrt.\nUnd das Aussehen des vierten ist wie das eines Sohnes der Götter.“",
+       "englisch_web": "He answered, “Look, I see four men loose, walking in the middle of the fire, and they are unharmed. The appearance of the fourth is like a son of the gods.”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Da trat Nebukadnezar an die Öffnung des brennenden Feuerofens.\nEr sagte:\n„Schadrach, Meschach und Abed-Nego,\nihr Diener des höchsten Gottes,\nkommt heraus und kommt her!“\nDa kamen Schadrach, Meschach und Abed-Nego mitten aus dem Feuer heraus.",
+       "englisch_web": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace. He spoke and said, “Shadrach, Meshach, and Abednego, you servants of the Most High God, come out, and come here!” Then Shadrach, Meshach, and Abednego came out of the middle of the fire."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Die Statthalter, die Vorsteher, die Gouverneure und die Ratgeber des Königs\nversammelten sich und sahen diese Männer an:\nDas Feuer hatte keine Macht über ihre Körper gehabt.\nDas Haar ihres Kopfes war nicht versengt.\nIhre Hosen waren nicht verändert.\nNicht einmal der Geruch von Feuer war an ihnen.",
+       "englisch_web": "The local governors, the deputies, and the governors, and the king’s counselors, being gathered together, saw these men, that the fire had no power on their bodies. The hair of their head wasn’t singed. Their pants weren’t changed. The smell of fire wasn’t even on them."
+      }
+     ],
+     "erklaerung": "Der König sieht plötzlich vier Männer im Feuer, frei und unversehrt. Die Fesseln sind verbrannt, aber nicht die Männer.\nVers 25: Wer ist der vierte? Der König sagt: „wie ein Sohn der Götter“. Später nennt er ihn einen „Engel“ (Vers 28). Viele Christen haben in dem vierten Mann eine Erscheinung Christi gesehen. Im Judentum wird er meist als Engel Gottes verstanden.\nDie wichtigste Botschaft: Gott war mit ihnen im Feuer. Er hat sie nicht vor dem Feuer bewahrt, aber im Feuer. Vgl. Jesaja 43,2: „Wenn du durchs Feuer gehst, sollst du nicht brennen.“\nVers 27: Nicht einmal Brandgeruch! Die Rettung ist vollständig."
+    },
+    {
+     "ueberschrift": "Der König lobt den Gott der drei Männer",
+     "vers_von": 28,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 28,
+       "leichte_sprache": "Nebukadnezar sagte:\n„Gepriesen sei der Gott Schadrachs, Meschachs und Abed-Negos,\nder seinen Engel gesandt\nund seine Diener gerettet hat,\ndie ihm vertraut haben\nund das Wort des Königs übertreten\nund ihre Leiber hingegeben haben,\num keinem Gott zu dienen und keinen anzubeten außer ihrem eigenen Gott.",
+       "englisch_web": "Nebuchadnezzar spoke and said, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god except their own God."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Darum erlasse ich einen Befehl:\nJedes Volk, jede Nation und jede Sprache,\ndie etwas Böses gegen den Gott Schadrachs, Meschachs und Abed-Negos sagt,\nsoll in Stücke gehauen werden,\nund ihre Häuser sollen zu Misthaufen gemacht werden,\ndenn es gibt keinen anderen Gott, der so retten kann.“",
+       "englisch_web": "Therefore I make a decree that every people, nation, and language which speak anything evil against the God of Shadrach, Meshach, and Abednego shall be cut in pieces, and their houses shall be made a dunghill, because there is no other god who is able to deliver like this.”"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Dann beförderte der König Schadrach, Meschach und Abed-Nego\nin der Provinz Babylon.",
+       "englisch_web": "Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon."
+      }
+     ],
+     "erklaerung": "Der König lobt Gott. Er erkennt an: Diese Männer haben ihr Leben riskiert, um ihrem Gott treu zu bleiben.\nVers 29: Aber der König hat noch nicht wirklich etwas verstanden. Er droht jetzt mit derselben Gewalt, nur in die andere Richtung. Glaube lässt sich nicht durch Drohungen erzwingen. Gott braucht keine Gewalt zu seinem Schutz.\nHinweis zur Zählung: In deutschen Bibeln gehören die ersten drei Verse des nächsten Kapitels (im WEB 4,1–3) noch zu Kapitel 3 (als 3,31–33).\nFür heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt. Dieses Kapitel ermutigt, treu zu bleiben, und erinnert uns, für die Glaubensfreiheit aller Menschen einzutreten."
+    }
+   ]
+  }
+ ]
+}
