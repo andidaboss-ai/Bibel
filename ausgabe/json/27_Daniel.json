@@ -667,6 +667,639 @@
      "erklaerung": "Der König lobt Gott. Er erkennt an: Diese Männer haben ihr Leben riskiert, um ihrem Gott treu zu bleiben.\nVers 29: Aber der König hat noch nicht wirklich etwas verstanden. Er droht jetzt mit derselben Gewalt, nur in die andere Richtung. Glaube lässt sich nicht durch Drohungen erzwingen. Gott braucht keine Gewalt zu seinem Schutz.\nHinweis zur Zählung: In deutschen Bibeln gehören die ersten drei Verse des nächsten Kapitels (im WEB 4,1–3) noch zu Kapitel 3 (als 3,31–33).\nFür heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt. Dieses Kapitel ermutigt, treu zu bleiben, und erinnert uns, für die Glaubensfreiheit aller Menschen einzutreten."
     }
    ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Der Hochmut Nebukadnezars",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ein Brief des Königs",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der König Nebukadnezar\nan alle Völker, Nationen und Sprachen,\ndie auf der ganzen Erde wohnen:\nFriede sei euch in Fülle!",
+       "englisch_web": "Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Es hat mir gefallen,\ndie Zeichen und Wunder bekannt zu machen,\ndie der höchste Gott an mir getan hat.",
+       "englisch_web": "It has seemed good to me to show the signs and wonders that the Most High God has worked toward me."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Wie groß sind seine Zeichen!\nWie mächtig sind seine Wunder!\nSein Reich ist ein ewiges Reich,\nund seine Herrschaft währt von Generation zu Generation.",
+       "englisch_web": "How great are his signs! How mighty are his wonders! His kingdom is an everlasting kingdom. His dominion is from generation to generation."
+      }
+     ],
+     "erklaerung": "Hinweis zur Zählung: In deutschen Bibeln stehen diese drei Verse am Ende von Kapitel 3 (3,31–33). Darum sind die Versnummern in diesem Kapitel im WEB um drei höher als in vielen deutschen Bibeln. Wir folgen der Zählung des WEB.\nEin ungewöhnliches Kapitel: Es ist ein Brief, den der heidnische König Nebukadnezar selbst an die ganze Welt schreibt. Er erzählt, wie Gott ihn gedemütigt und wieder aufgerichtet hat. Am Anfang und am Ende lobt er Gott."
+    },
+    {
+     "ueberschrift": "Der Traum vom großen Baum",
+     "vers_von": 4,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich, Nebukadnezar, lebte ruhig in meinem Haus\nund es ging mir gut in meinem Palast.",
+       "englisch_web": "I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da sah ich einen Traum, der mir Angst machte.\nDie Gedanken auf meinem Lager\nund die Visionen meines Kopfes erschreckten mich.",
+       "englisch_web": "I saw a dream which made me afraid; and the thoughts on my bed and the visions of my head troubled me."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Darum erließ ich einen Befehl,\nalle Weisen Babylons vor mich zu bringen,\ndamit sie mir die Deutung des Traumes kundtun.",
+       "englisch_web": "Therefore I made a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Da kamen die Magier, die Beschwörer, die Chaldäer und die Wahrsager herein.\nIch erzählte ihnen den Traum,\naber sie taten mir seine Deutung nicht kund.",
+       "englisch_web": "Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told them the dream, but they didn’t make known to me its interpretation."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Zuletzt aber kam Daniel vor mich,\nder nach dem Namen meines Gottes Beltschazar heißt\nund in dem der Geist der heiligen Götter ist.\nIch erzählte ihm den Traum und sagte:",
+       "englisch_web": "But at last, Daniel came in before me, whose name was Belteshazzar according to the name of my god, and in whom is the spirit of the holy gods. I told the dream before him, saying,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "„Beltschazar, Oberster der Magier,\nweil ich weiß, dass der Geist der heiligen Götter in dir ist\nund kein Geheimnis dir zu schwer ist,\nsage mir die Visionen meines Traumes, den ich gesehen habe,\nund seine Deutung.",
+       "englisch_web": "“Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Das waren die Visionen meines Kopfes auf meinem Lager:\nIch schaute, und siehe, ein Baum stand mitten auf der Erde,\nund seine Höhe war gewaltig.",
+       "englisch_web": "These were the visions of my head on my bed: I saw, and behold, a tree in the middle of the earth; and its height was great."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Der Baum wurde groß und stark.\nSeine Höhe reichte bis an den Himmel,\nund man sah ihn bis ans Ende der ganzen Erde.",
+       "englisch_web": "The tree grew and was strong. Its height reached to the sky and its sight to the end of all the earth."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sein Laub war schön,\nund er hatte viele Früchte,\nund an ihm war Nahrung für alle.\nDie Tiere des Feldes fanden Schatten unter ihm,\nund die Vögel des Himmels wohnten in seinen Zweigen,\nund alles Fleisch nährte sich von ihm.",
+       "englisch_web": "Its leaves were beautiful, and it had much fruit, and in it was food for all. The animals of the field had shade under it, and the birds of the sky lived in its branches, and all flesh was fed from it."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich schaute in den Visionen meines Kopfes auf meinem Lager,\nund siehe, ein heiliger Wächter kam vom Himmel herab.",
+       "englisch_web": "“I saw in the visions of my head on my bed, and behold, a holy watcher came down from the sky."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er rief laut und sagte:\n‚Haut den Baum um\nund schlagt seine Zweige ab!\nStreift sein Laub ab\nund zerstreut seine Früchte!\nDie Tiere sollen unter ihm weglaufen\nund die Vögel aus seinen Zweigen.",
+       "englisch_web": "He cried aloud and said this: ‘Cut down the tree, and cut off its branches! Shake off its leaves and scatter its fruit! Let the animals get away from under it and the birds from its branches."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Doch den Wurzelstock lasst in der Erde,\nin einer Fessel aus Eisen und Bronze,\nim zarten Gras des Feldes.\nEr soll vom Tau des Himmels nass werden,\nund er soll seinen Anteil mit den Tieren im Gras der Erde haben.",
+       "englisch_web": "Nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field; and let it be wet with the dew of the sky. Let his portion be with the animals in the grass of the earth."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sein Herz soll verwandelt werden,\nweg von einem Menschenherzen,\nund ein Tierherz soll ihm gegeben werden.\nUnd sieben Zeiten sollen über ihn hingehen.",
+       "englisch_web": "Let his heart be changed from man’s, and let an animal’s heart be given to him. Then let seven times pass over him."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Das Urteil beruht auf dem Beschluss der Wächter,\nund die Entscheidung auf dem Wort der Heiligen,\ndamit die Lebenden erkennen,\ndass der Höchste Herr ist über das Königtum der Menschen\nund es gibt, wem er will,\nund den Niedrigsten unter den Menschen darüber setzt.‘",
+       "englisch_web": "“‘The sentence is by the decree of the watchers and the demand by the word of the holy ones, to the intent that the living may know that the Most High rules in the kingdom of men, and gives it to whomever he will, and sets up over it the lowest of men.’"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Diesen Traum habe ich, der König Nebukadnezar, gesehen.\nDu aber, Beltschazar, sag die Deutung,\ndenn alle Weisen meines Königreichs können mir die Deutung nicht kundtun.\nDu aber kannst es,\ndenn der Geist der heiligen Götter ist in dir.“",
+       "englisch_web": "“This dream I, King Nebuchadnezzar, have seen; and you, Belteshazzar, declare the interpretation, because all the wise men of my kingdom are not able to make known to me the interpretation; but you are able, for the spirit of the holy gods is in you.”"
+      }
+     ],
+     "erklaerung": "Der König sieht im Traum einen riesigen Baum, der bis zum Himmel reicht und allen Lebewesen Schatten und Nahrung gibt. Dann ruft ein „heiliger Wächter“, ein Engel, er soll umgehauen werden. Nur der Wurzelstock bleibt, mit einer Fessel aus Metall.\nVers 16: Plötzlich wird aus dem Baum ein „er“: Der Baum ist ein Mensch, und er soll ein Tierherz bekommen.\n„Sieben Zeiten“ sind wahrscheinlich sieben Jahre oder einfach eine vollständige, lange Zeit.\nVers 17: Das ist das Thema: „Der Höchste ist Herr über das Königtum der Menschen.“ Gott kann auch den Niedrigsten zum Herrscher machen.\nVers 8–9: Nebukadnezar spricht als Heide vom „Geist der heiligen Götter“. Er versteht Gott noch in seinem eigenen Weltbild."
+    },
+    {
+     "ueberschrift": "Daniel deutet den Traum",
+     "vers_von": 19,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Da war Daniel, der Beltschazar hieß, eine Weile wie erstarrt,\nund seine Gedanken erschreckten ihn.\nDer König sagte:\n„Beltschazar, lass dich vom Traum und von der Deutung nicht erschrecken.“\nBeltschazar antwortete:\n„Mein Herr, der Traum gelte denen, die dich hassen,\nund seine Deutung deinen Feinden.",
+       "englisch_web": "Then Daniel, whose name was Belteshazzar, was stricken mute for a while, and his thoughts troubled him. The king answered, “Belteshazzar, don’t let the dream or the interpretation trouble you.” Belteshazzar answered, “My lord, may the dream be for those who hate you, and its interpretation to your adversaries."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Der Baum, den du gesehen hast,\nder groß und stark wurde,\ndessen Höhe bis an den Himmel reichte\nund den man auf der ganzen Erde sah,",
+       "englisch_web": "The tree that you saw, which grew and was strong, whose height reached to the sky and its sight to all the earth;"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "dessen Laub schön war und dessen Früchte zahlreich waren,\nan dem Nahrung für alle war,\nunter dem die Tiere des Feldes wohnten\nund in dessen Zweigen die Vögel des Himmels ihre Wohnung hatten –",
+       "englisch_web": "whose leaves were beautiful and its fruit plentiful, and in it was food for all; under which the animals of the field lived, and on whose branches the birds of the sky had their habitation—"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "das bist du, o König,\nder du groß und stark geworden bist.\nDenn deine Größe ist gewachsen und reicht bis an den Himmel,\nund deine Herrschaft bis ans Ende der Erde.",
+       "englisch_web": "it is you, O king, that have grown and become strong; for your greatness has grown, and reaches to the sky, and your dominion to the end of the earth."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Und dass der König einen heiligen Wächter vom Himmel herabkommen sah,\nder sagte:\n‚Haut den Baum um und zerstört ihn,\ndoch den Wurzelstock lasst in der Erde,\nin einer Fessel aus Eisen und Bronze, im zarten Gras des Feldes,\nund er soll vom Tau des Himmels nass werden,\nund er soll seinen Anteil mit den Tieren des Feldes haben,\nbis sieben Zeiten über ihn hingegangen sind‘ –",
+       "englisch_web": "“Whereas the king saw a holy watcher coming down from the sky and saying, ‘Cut down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of the sky. Let his portion be with the animals of the field, until seven times pass over him.’"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "das ist die Deutung, o König,\nund es ist der Beschluss des Höchsten,\nder über meinen Herrn, den König, gekommen ist:",
+       "englisch_web": "“This is the interpretation, O king, and it is the decree of the Most High, which has come on my lord the king:"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Du wirst von den Menschen verstoßen werden,\nund deine Wohnung wird bei den Tieren des Feldes sein.\nMan wird dich Gras fressen lassen wie die Rinder,\nund du wirst vom Tau des Himmels nass werden,\nund sieben Zeiten werden über dich hingehen,\nbis du erkennst, dass der Höchste Herr ist über das Königtum der Menschen\nund es gibt, wem er will.",
+       "englisch_web": "You will be driven from men and your dwelling shall be with the animals of the field. You will be made to eat grass as oxen, and will be wet with the dew of the sky, and seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Und dass befohlen wurde, den Wurzelstock des Baumes übrig zu lassen,\nbedeutet: Dein Königtum wird dir wieder zurückgegeben werden,\nnachdem du erkannt hast, dass der Himmel herrscht.",
+       "englisch_web": "Whereas it was commanded to leave the stump of the roots of the tree, your kingdom will be restored to you after you learn that Heaven rules."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Darum, o König, lass dir meinen Rat gefallen:\nMach deinen Sünden ein Ende durch Gerechtigkeit\nund deinen Verfehlungen durch Barmherzigkeit gegenüber den Armen.\nVielleicht wird deine Ruhe dann verlängert.“",
+       "englisch_web": "Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor. Perhaps there may be a lengthening of your tranquility.”"
+      }
+     ],
+     "erklaerung": "Vers 19: Daniel erschrickt. Er mag den König und wünscht ihm nichts Böses. Er sagt ehrlich: „Ich wünschte, dieser Traum gälte deinen Feinden.“ Daniel ist kein kalter Unheilsprophet.\nVers 26: Der Wurzelstock bleibt. Das ist die Hoffnung: Nach der Demütigung wird der König sein Reich zurückbekommen.\nVers 27: Daniel gibt dem König einen mutigen Rat: „Hör auf mit dem Unrecht! Sei gerecht und barmherzig zu den Armen.“ Gerechtigkeit und Hilfe für die Armen sind der Weg der Umkehr, für jeden Menschen, auch für Mächtige.\n„Der Himmel herrscht“ (Vers 26) – „Himmel“ steht hier für Gott. So wie man im Judentum später oft aus Ehrfurcht „Himmel“ statt „Gott“ sagte (vgl. „Himmelreich“ bei Matthäus)."
+    },
+    {
+     "ueberschrift": "Die Erfüllung",
+     "vers_von": 28,
+     "vers_bis": 33,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 28,
+       "leichte_sprache": "All das kam über den König Nebukadnezar.",
+       "englisch_web": "All this came on the King Nebuchadnezzar."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Nach zwölf Monaten ging er auf dem königlichen Palast von Babylon umher.",
+       "englisch_web": "At the end of twelve months he was walking in the royal palace of Babylon."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Der König sagte:\n„Ist das nicht das große Babylon,\ndas ich zum königlichen Wohnsitz erbaut habe\ndurch die Kraft meiner Macht\nund zur Ehre meiner Herrlichkeit?“",
+       "englisch_web": "The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling place by the might of my power and for the glory of my majesty?”"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Noch war das Wort im Mund des Königs,\nda kam eine Stimme vom Himmel:\n„Dir, König Nebukadnezar, wird gesagt:\nDas Königtum ist von dir gewichen.",
+       "englisch_web": "While the word was in the king’s mouth, a voice came from the sky, saying, “O King Nebuchadnezzar, to you it is spoken: ‘The kingdom has departed from you."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Du wirst von den Menschen verstoßen werden,\nund deine Wohnung wird bei den Tieren des Feldes sein.\nMan wird dich Gras fressen lassen wie die Rinder.\nSieben Zeiten werden über dich hingehen,\nbis du erkennst, dass der Höchste Herr ist über das Königtum der Menschen\nund es gibt, wem er will.“",
+       "englisch_web": "You shall be driven from men, and your dwelling shall be with the animals of the field. You shall be made to eat grass like oxen. Seven times shall pass over you, until you know that the Most High rules in the kingdom of men, and gives it to whomever he will.’”"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "In derselben Stunde erfüllte sich das Wort an Nebukadnezar.\nEr wurde von den Menschen verstoßen\nund fraß Gras wie die Rinder,\nund sein Körper wurde vom Tau des Himmels nass,\nbis sein Haar so lang war wie Adlerfedern\nund seine Nägel wie Vogelkrallen.",
+       "englisch_web": "This was fulfilled the same hour on Nebuchadnezzar. He was driven from men and ate grass like oxen; and his body was wet with the dew of the sky until his hair had grown like eagles’ feathers, and his nails like birds’ claws."
+      }
+     ],
+     "erklaerung": "Gott gibt dem König ein ganzes Jahr Zeit zur Umkehr. Aber der König ändert nichts.\nVers 30: Der König steht auf dem Dach seines Palastes, schaut über seine prächtige Stadt und sagt: „Das habe ICH gebaut, durch MEINE Macht, zu MEINER Ehre.“ Babylon war wirklich prächtig, mit dem berühmten Ischtar-Tor und vielen Palästen.\nVers 31–33: Genau in diesem Moment des Stolzes fällt er tief. Er verliert den Verstand und lebt wie ein Tier.\nManche Ausleger denken an eine seltene psychische Krankheit, bei der Menschen sich für Tiere halten. Andere verbinden die Geschichte mit dem letzten babylonischen König Nabonid, der viele Jahre fern von Babylon in der Wüste lebte. Wie auch immer: Der Text zeigt, wie zerbrechlich menschliche Macht und auch der menschliche Verstand ist.\nWichtig: Psychische Krankheiten sind keine Strafe Gottes. Wer psychisch erkrankt ist, braucht Hilfe und Verständnis, keine Schuldzuweisung."
+    },
+    {
+     "ueberschrift": "Der König lobt den Höchsten",
+     "vers_von": 34,
+     "vers_bis": 37,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 34,
+       "leichte_sprache": "Am Ende der Tage hob ich, Nebukadnezar, meine Augen zum Himmel,\nund mein Verstand kehrte zu mir zurück.\nUnd ich pries den Höchsten\nund lobte und ehrte den, der ewig lebt,\ndenn seine Herrschaft ist eine ewige Herrschaft,\nund sein Reich währt von Generation zu Generation.",
+       "englisch_web": "At the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me; and I blessed the Most High, and I praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom from generation to generation."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Alle Bewohner der Erde sind wie nichts geachtet.\nEr handelt nach seinem Willen mit dem Heer des Himmels\nund mit den Bewohnern der Erde.\nUnd niemand kann seiner Hand wehren\noder zu ihm sagen: „Was tust du?“",
+       "englisch_web": "All the inhabitants of the earth are reputed as nothing; and he does according to his will in the army of heaven, and among the inhabitants of the earth; and no one can stop his hand, or ask him, “What are you doing?”"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Zur selben Zeit kehrte mein Verstand zu mir zurück,\nund zur Ehre meines Königreichs\nkehrten meine Herrlichkeit und mein Glanz zu mir zurück.\nMeine Ratgeber und meine Großen suchten mich auf,\nund ich wurde wieder in mein Königreich eingesetzt,\nund noch größere Macht wurde mir hinzugefügt.",
+       "englisch_web": "At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Nun lobe, erhebe und ehre ich, Nebukadnezar,\nden König des Himmels,\ndenn alle seine Werke sind Wahrheit\nund seine Wege sind Recht.\nUnd die in Hochmut wandeln, kann er erniedrigen.",
+       "englisch_web": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase."
+      }
+     ],
+     "erklaerung": "Vers 34: Der Wendepunkt: Der König „hebt seine Augen zum Himmel“. In dem Moment, in dem er nach oben schaut und Gott anerkennt, kehrt sein Verstand zurück.\nVers 37: Am Ende lobt der mächtigste König der Welt den „König des Himmels“. Und er hat gelernt: „Die in Hochmut wandeln, kann er erniedrigen.“\nDie Botschaft: Gott kann auch die Mächtigsten demütigen, aber er tut es, damit sie zur Einsicht kommen, nicht um sie zu vernichten. Gott gibt auch dem stolzen König eine zweite Chance.\nVgl. Sprüche 16,18: „Hochmut kommt vor dem Fall.“ Und Lukas 1,52: „Er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.“"
+    }
+   ]
+  },
+  {
+   "kapitel": 5,
+   "titel": "Die Schrift an der Wand",
+   "abschnitte": [
+    {
+     "ueberschrift": "Belsazars Gastmahl",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der König Belsazar gab ein großes Festmahl für tausend seiner Großen\nund trank vor den Tausend Wein.",
+       "englisch_web": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Als Belsazar vom Wein kostete,\nbefahl er, die goldenen und silbernen Gefäße herzubringen,\ndie sein Vater Nebukadnezar aus dem Tempel in Jerusalem weggenommen hatte,\ndamit der König und seine Großen,\nseine Frauen und seine Nebenfrauen daraus trinken könnten.",
+       "englisch_web": "Belshazzar, while he tasted the wine, commanded that the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem be brought to him, that the king and his lords, his wives and his concubines, might drink from them."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Da brachte man die goldenen Gefäße,\ndie aus dem Tempel, dem Haus Gottes in Jerusalem, weggenommen worden waren.\nUnd der König und seine Großen,\nseine Frauen und seine Nebenfrauen tranken daraus.",
+       "englisch_web": "Then they brought the golden vessels that were taken out of the temple of God’s house which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sie tranken Wein\nund lobten die Götter aus Gold und Silber,\naus Bronze, Eisen, Holz und Stein.",
+       "englisch_web": "They drank wine, and praised the gods of gold, and of silver, of bronze, of iron, of wood, and of stone."
+      }
+     ],
+     "erklaerung": "Belsazar war der letzte König von Babylon. Er feiert ein großes Fest, obwohl (wie wir aus anderen Quellen wissen) die Perser schon vor der Stadt standen.\nVers 2: Der Text nennt Nebukadnezar Belsazars „Vater“. Nach babylonischen Inschriften war Belsazar der Sohn des Königs Nabonid und regierte für ihn in Babylon. „Vater“ kann in der Bibel aber auch „Vorgänger“ oder „Vorfahr“ bedeuten.\nVers 3–4: Belsazar trinkt aus den heiligen Gefäßen des Tempels und lobt dabei Götzen. Das ist ein bewusster Spott über den Gott Israels."
+    },
+    {
+     "ueberschrift": "Die Hand schreibt an die Wand",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "In derselben Stunde kamen Finger einer Menschenhand hervor\nund schrieben gegenüber dem Leuchter\nauf den Kalk der Wand des königlichen Palastes.\nUnd der König sah die Hand, die schrieb.",
+       "englisch_web": "In the same hour, the fingers of a man’s hand came out and wrote near the lamp stand on the plaster of the wall of the king’s palace. The king saw the part of the hand that wrote."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da veränderte sich das Gesicht des Königs,\nund seine Gedanken erschreckten ihn.\nDie Gelenke seiner Hüften lockerten sich,\nund seine Knie schlugen aneinander.",
+       "englisch_web": "Then the king’s face was changed in him, and his thoughts troubled him; and the joints of his thighs were loosened, and his knees struck one against another."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Der König rief laut,\nman solle die Beschwörer, die Chaldäer und die Wahrsager hereinbringen.\nDer König sagte zu den Weisen Babylons:\n„Wer diese Schrift liest und mir ihre Deutung zeigt,\nder soll mit Purpur bekleidet werden\nund eine goldene Kette um seinen Hals tragen\nund der Dritte im Königreich sein.“",
+       "englisch_web": "The king cried aloud to bring in the enchanters, the Chaldeans, and the soothsayers. The king spoke and said to the wise men of Babylon, “Whoever reads this writing and shows me its interpretation shall be clothed with purple, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Da kamen alle Weisen des Königs herein.\nAber sie konnten die Schrift nicht lesen\nund dem König die Deutung nicht kundtun.",
+       "englisch_web": "Then all the king’s wise men came in; but they could not read the writing, and couldn’t make known to the king the interpretation."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Da erschrak der König Belsazar sehr,\nund sein Gesicht veränderte sich,\nund seine Großen waren ratlos.",
+       "englisch_web": "Then King Belshazzar was greatly troubled, and his face was changed in him, and his lords were perplexed."
+      }
+     ],
+     "erklaerung": "Mitten im Fest erscheint eine Hand und schreibt an die Wand. Der übermütige König wird plötzlich bleich und zittert.\nBis heute sagt man: „Die Schrift an der Wand sehen“ oder „ein Menetekel“, wenn man ein deutliches Warnzeichen meint.\nVers 7: „Der Dritte im Königreich“ – das passt genau zur Geschichte: Nabonid war der Erste, Belsazar der Zweite. Der Dritte war der höchste Platz, den Belsazar vergeben konnte."
+    },
+    {
+     "ueberschrift": "Die Königin erinnert an Daniel",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Wegen der Worte des Königs und seiner Großen\nkam die Königin in den Festsaal.\nDie Königin sagte:\n„O König, lebe ewig!\nLass dich von deinen Gedanken nicht erschrecken,\nund dein Gesicht soll sich nicht verändern.",
+       "englisch_web": "The queen by reason of the words of the king and his lords came into the banquet house. The queen spoke and said, “O king, live forever; don’t let your thoughts trouble you, nor let your face be changed."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Es gibt einen Mann in deinem Königreich,\nin dem der Geist der heiligen Götter ist.\nIn den Tagen deines Vaters fand man in ihm\nLicht, Einsicht und Weisheit wie die Weisheit der Götter.\nDer König Nebukadnezar, dein Vater,\nja, der König, dein Vater,\nmachte ihn zum Obersten der Magier, Beschwörer, Chaldäer und Wahrsager,",
+       "englisch_web": "There is a man in your kingdom in whom is the spirit of the holy gods; and in the days of your father, light and understanding and wisdom, like the wisdom of the gods, were found in him. The king, Nebuchadnezzar, your father—yes, the king, your father—made him master of the magicians, enchanters, Chaldeans, and soothsayers,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "weil man bei diesem Daniel,\ndem der König den Namen Beltschazar gab,\neinen hervorragenden Geist fand,\nWissen und Einsicht,\nTräume zu deuten,\nRätsel zu erklären\nund Knoten zu lösen.\nNun lass Daniel rufen,\nund er wird die Deutung zeigen.“",
+       "englisch_web": "because an excellent spirit, knowledge, understanding, interpreting of dreams, showing of dark sentences, and dissolving of doubts were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Da wurde Daniel vor den König gebracht.\nDer König sagte zu Daniel:\n„Bist du jener Daniel von den Verschleppten aus Juda,\ndie der König, mein Vater, aus Juda gebracht hat?",
+       "englisch_web": "Then Daniel was brought in before the king. The king spoke and said to Daniel, “Are you that Daniel of the children of the captivity of Judah, whom the king my father brought out of Judah?"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich habe von dir gehört,\ndass der Geist der Götter in dir ist\nund dass Licht, Einsicht und hervorragende Weisheit in dir gefunden werden.",
+       "englisch_web": "I have heard of you, that the spirit of the gods is in you and that light, understanding, and excellent wisdom are found in you."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Nun sind die Weisen, die Beschwörer, vor mich gebracht worden,\ndamit sie diese Schrift lesen und mir ihre Deutung kundtun.\nAber sie konnten die Deutung der Sache nicht zeigen.",
+       "englisch_web": "Now the wise men, the enchanters, have been brought in before me, that they should read this writing, and make known to me its interpretation; but they could not show the interpretation of the thing."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich habe aber von dir gehört,\ndass du Deutungen geben und Knoten lösen kannst.\nWenn du nun die Schrift lesen und mir ihre Deutung kundtun kannst,\nsollst du mit Purpur bekleidet werden\nund eine goldene Kette um deinen Hals tragen\nund der Dritte im Königreich sein.“",
+       "englisch_web": "But I have heard of you, that you can give interpretations and dissolve doubts. Now if you can read the writing and make known to me its interpretation, you shall be clothed with purple, and have a chain of gold around your neck, and shall be the third ruler in the kingdom.”"
+      }
+     ],
+     "erklaerung": "Die „Königin“ ist wahrscheinlich die Königinmutter. Sie erinnert sich an Daniel, den der junge König offenbar vergessen hatte. Daniel ist inzwischen ein alter Mann, über 80 Jahre alt.\nEine kluge Frau rettet die Situation. Sie behält einen klaren Kopf, während die Männer ratlos sind.\nVers 12: „Knoten lösen“ meint: schwierige Fragen und Rätsel lösen."
+    },
+    {
+     "ueberschrift": "Daniel hält dem König eine Predigt",
+     "vers_von": 17,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Da antwortete Daniel vor dem König:\n„Deine Geschenke mögen dir bleiben,\nund deine Belohnungen gib einem anderen.\nDennoch werde ich dem König die Schrift lesen\nund ihm die Deutung kundtun.",
+       "englisch_web": "Then Daniel answered before the king, “Let your gifts be to yourself, and give your rewards to another. Nevertheless, I will read the writing to the king, and make known to him the interpretation."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Du, o König –\nder höchste Gott gab Nebukadnezar, deinem Vater,\ndas Königtum und Größe, Ehre und Herrlichkeit.",
+       "englisch_web": "“To you, king, the Most High God gave Nebuchadnezzar your father the kingdom, and greatness, and glory, and majesty."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wegen der Größe, die er ihm gab,\nzitterten und fürchteten sich vor ihm alle Völker, Nationen und Sprachen.\nWen er wollte, tötete er,\nund wen er wollte, ließ er leben.\nWen er wollte, erhöhte er,\nund wen er wollte, erniedrigte er.",
+       "englisch_web": "Because of the greatness that he gave him, all the peoples, nations, and languages trembled and feared before him. He killed whom he wanted to, and he kept alive whom he wanted to. He raised up whom he wanted to, and he put down whom he wanted to."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Als aber sein Herz sich erhob\nund sein Geist sich verhärtete, sodass er hochmütig handelte,\nwurde er von seinem königlichen Thron gestürzt,\nund man nahm ihm seine Ehre.",
+       "englisch_web": "But when his heart was lifted up, and his spirit was hardened so that he dealt proudly, he was deposed from his kingly throne, and they took his glory from him."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Er wurde von den Menschen verstoßen,\nund sein Herz wurde den Tieren gleich gemacht,\nund seine Wohnung war bei den Wildeseln.\nMan gab ihm Gras zu fressen wie den Rindern,\nund sein Körper wurde vom Tau des Himmels nass,\nbis er erkannte, dass der höchste Gott Herr ist über das Königtum der Menschen\nund darüber setzt, wen er will.",
+       "englisch_web": "He was driven from the sons of men, and his heart was made like the animals’, and his dwelling was with the wild donkeys. He was fed with grass like oxen, and his body was wet with the dew of the sky, until he knew that the Most High God rules in the kingdom of men, and that he sets up over it whomever he will."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Du aber, sein Sohn Belsazar,\nhast dein Herz nicht gedemütigt,\nobwohl du das alles wusstest,",
+       "englisch_web": "“You, his son, Belshazzar, have not humbled your heart, though you knew all this,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "sondern du hast dich gegen den Herrn des Himmels erhoben.\nMan hat die Gefäße seines Hauses vor dich gebracht,\nund du und deine Großen, deine Frauen und deine Nebenfrauen,\nihr habt Wein daraus getrunken.\nDu hast die Götter aus Silber und Gold,\naus Bronze, Eisen, Holz und Stein gelobt,\ndie nicht sehen, nicht hören und nichts wissen.\nDen Gott aber, in dessen Hand dein Atem ist\nund dem alle deine Wege gehören,\nden hast du nicht geehrt.",
+       "englisch_web": "but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines, have drunk wine from them. You have praised the gods of silver and gold, of bronze, iron, wood, and stone, which don’t see, or hear, or know; and you have not glorified the God in whose hand your breath is, and whose are all your ways."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Darum wurde von ihm diese Hand gesandt\nund diese Schrift geschrieben.",
+       "englisch_web": "Then the part of the hand was sent from before him, and this writing was inscribed."
+      }
+     ],
+     "erklaerung": "Vers 17: Daniel will keine Geschenke. Er lässt sich nicht kaufen.\nVers 18–21: Daniel erinnert den König an die Geschichte von Nebukadnezar aus Kapitel 4: Auch der größte König wurde gedemütigt, bis er Gott anerkannte.\nVers 22: Der schwerste Vorwurf: „Du wusstest das alles!“ Belsazar kannte die Geschichte, aber er hat nichts daraus gelernt.\nVers 23: Ein starker Gegensatz: Belsazar lobt Götter, „die nicht sehen, nicht hören und nichts wissen“. Aber den Gott, „in dessen Hand dein Atem ist“, ehrt er nicht. Jeder Atemzug ist ein Geschenk Gottes."
+    },
+    {
+     "ueberschrift": "Mene, mene, tekel, u-parsin",
+     "vers_von": 25,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Das ist die Schrift, die geschrieben wurde:\n„MENE, MENE, TEKEL, U-PARSIN.“",
+       "englisch_web": "“This is the writing that was inscribed: ‘MENE, MENE, TEKEL, UPHARSIN.’"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Das ist die Deutung der Sache:\nMENE: Gott hat dein Königtum gezählt\nund ihm ein Ende gemacht.",
+       "englisch_web": "“This is the interpretation of the thing: MENE: God has counted your kingdom, and brought it to an end."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "TEKEL: Du bist auf der Waage gewogen\nund zu leicht befunden worden.",
+       "englisch_web": "TEKEL: you are weighed in the balances, and are found wanting."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "PERES: Dein Königreich ist geteilt\nund den Medern und Persern gegeben.“",
+       "englisch_web": "PERES: your kingdom is divided, and given to the Medes and Persians.”"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Da befahl Belsazar,\nund man bekleidete Daniel mit Purpur\nund legte ihm eine goldene Kette um den Hals\nund rief über ihn aus,\ndass er der Dritte im Königreich sein solle.",
+       "englisch_web": "Then Belshazzar commanded, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should be the third ruler in the kingdom."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "In derselben Nacht wurde Belsazar, der chaldäische König, getötet.",
+       "englisch_web": "In that night Belshazzar the Chaldean King was slain."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Und Darius, der Meder, empfing das Königreich,\nals er etwa zweiundsechzig Jahre alt war.",
+       "englisch_web": "Darius the Mede received the kingdom, being about sixty-two years old."
+      }
+     ],
+     "erklaerung": "Die vier Wörter sind aramäische Namen von Gewichten (Mine, Schekel, halbe Mine). Gleichzeitig klingen sie wie Verben:\n– MENE = „gezählt“: Deine Tage als König sind gezählt.\n– TEKEL = „gewogen“: Du bist gewogen und zu leicht befunden.\n– PERES (Einzahl von „Parsin“) = „geteilt“, und es klingt wie „Paras“ = Persien.\nVers 30: In derselben Nacht stirbt Belsazar. Im Jahr 539 vor Christus eroberten die Perser unter Kyrus Babylon. Griechische Geschichtsschreiber berichten, dass die Stadt während eines Festes eingenommen wurde.\nVers 31: Wer „Darius der Meder“ genau war, ist bis heute nicht geklärt. In anderen Quellen ist er unter diesem Namen nicht bekannt. Manche denken an einen Statthalter des Kyrus (zum Beispiel Gubaru), andere an einen anderen Namen für Kyrus selbst.\nHinweis zur Zählung: In deutschen Bibeln ist Vers 31 meist schon der erste Vers von Kapitel 6.\nDie Botschaft: Jeder Mensch, auch jeder Herrscher, wird einmal „gewogen“. Was zählt am Ende? Nicht Macht und Reichtum, sondern ob man Gott geehrt und gerecht gehandelt hat."
+    }
+   ]
+  },
+  {
+   "kapitel": 6,
+   "titel": "Daniel in der Löwengrube",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ein Komplott gegen Daniel",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Es gefiel Darius,\nüber das Königreich hundertzwanzig Statthalter einzusetzen,\ndie im ganzen Königreich sein sollten,",
+       "englisch_web": "It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom;"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "und über ihnen drei Minister,\nvon denen Daniel einer war,\ndamit diese Statthalter ihnen Rechenschaft gäben\nund der König keinen Schaden hätte.",
+       "englisch_web": "and over them three presidents, of whom Daniel was one, that these local governors might give account to them, and that the king should suffer no loss."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Da zeichnete sich dieser Daniel vor den Ministern und Statthaltern aus,\nweil ein hervorragender Geist in ihm war.\nUnd der König dachte daran, ihn über das ganze Reich zu setzen.",
+       "englisch_web": "Then this Daniel was distinguished above the presidents and the local governors, because an excellent spirit was in him; and the king thought to set him over the whole realm."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Da suchten die Minister und Statthalter einen Anlass gegen Daniel\nin seiner Amtsführung.\nAber sie konnten keinen Anlass und keinen Fehler finden,\ndenn er war treu.\nKein Versäumnis und kein Fehler wurde an ihm gefunden.",
+       "englisch_web": "Then the presidents and the local governors sought to find occasion against Daniel as touching the kingdom; but they could find no occasion or fault, because he was faithful. There wasn’t any error or fault found in him."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Da sagten diese Männer:\n„Wir werden gegen diesen Daniel keinen Anlass finden,\naußer wir finden ihn in Bezug auf das Gesetz seines Gottes.“",
+       "englisch_web": "Then these men said, “We won’t find any occasion against this Daniel, unless we find it against him concerning the law of his God.”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Da kamen diese Minister und Statthalter zusammen zum König\nund sagten zu ihm:\n„König Darius, lebe ewig!",
+       "englisch_web": "Then these presidents and local governors assembled together to the king, and said this to him, “King Darius, live forever!"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Alle Minister des Königreichs,\ndie Vorsteher und die Statthalter,\ndie Ratgeber und die Gouverneure\nhaben sich beraten,\ndass ein königlicher Erlass festgesetzt und ein strenges Verbot erlassen werde:\nWer dreißig Tage lang eine Bitte an irgendeinen Gott oder Menschen richtet,\naußer an dich, o König,\nder soll in die Löwengrube geworfen werden.",
+       "englisch_web": "All the presidents of the kingdom, the deputies and the local governors, the counselors and the governors, have consulted together to establish a royal statute and to make a strong decree, that whoever asks a petition of any god or man for thirty days, except of you, O king, he shall be cast into the den of lions."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Nun, o König, setze das Verbot fest\nund unterschreibe das Schriftstück,\ndamit es nicht geändert werden kann\nnach dem Gesetz der Meder und Perser,\ndas nicht aufgehoben wird.“",
+       "englisch_web": "Now, O king, establish the decree and sign the writing, that it not be changed, according to the law of the Medes and Persians, which doesn’t alter.”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Darum unterschrieb der König Darius das Schriftstück und das Verbot.",
+       "englisch_web": "Therefore King Darius signed the writing and the decree."
+      }
+     ],
+     "erklaerung": "Hinweis zur Zählung: In deutschen Bibeln sind die Versnummern in diesem Kapitel um eins höher (6,2–29), weil dort 5,31 schon als 6,1 gezählt wird.\nDaniel ist inzwischen ein alter Mann und wieder in einem hohen Amt, jetzt unter dem neuen persischen Reich. Er ist so gut und ehrlich, dass seine Kollegen neidisch werden.\nVers 4: Ein großes Lob: Sie finden keinen einzigen Fehler bei Daniel. Er ist nicht bestechlich, nicht faul, nicht unehrlich.\nVers 5: Darum suchen sie den einzigen „Schwachpunkt“: seinen Glauben. Sie wissen, dass Daniel Gott treu bleiben wird, egal was kommt.\nVers 7–8: Sie schmeicheln dem König und bringen ihn dazu, ein Gesetz zu erlassen, das nicht mehr geändert werden kann. Der König merkt nicht, dass er benutzt wird."
+    },
+    {
+     "ueberschrift": "Daniel betet weiter",
+     "vers_von": 10,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Als Daniel erfuhr, dass das Schriftstück unterschrieben war,\nging er in sein Haus.\nIn seinem Obergemach hatte er offene Fenster in Richtung Jerusalem.\nUnd er kniete dreimal am Tag auf seine Knie,\nbetete und dankte vor seinem Gott,\nso wie er es vorher getan hatte.",
+       "englisch_web": "When Daniel knew that the writing was signed, he went into his house (now his windows were open in his room toward Jerusalem) and he kneeled on his knees three times a day, and prayed, and gave thanks before his God, as he did before."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Da kamen diese Männer zusammen\nund fanden Daniel, wie er vor seinem Gott bat und flehte.",
+       "englisch_web": "Then these men assembled together, and found Daniel making petition and supplication before his God."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da traten sie heran und sagten vor dem König über das Verbot des Königs:\n„Hast du nicht ein Verbot unterschrieben,\ndass jeder Mensch, der dreißig Tage lang eine Bitte an irgendeinen Gott oder Menschen richtet,\naußer an dich, o König,\nin die Löwengrube geworfen werden soll?“\nDer König antwortete:\n„Die Sache steht fest,\nnach dem Gesetz der Meder und Perser,\ndas nicht aufgehoben wird.“",
+       "englisch_web": "Then they came near, and spoke before the king concerning the king’s decree: “Haven’t you signed a decree that every man who makes a petition to any god or man within thirty days, except to you, O king, shall be cast into the den of lions?” The king answered, “This thing is true, according to the law of the Medes and Persians, which doesn’t alter.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Da antworteten sie und sagten vor dem König:\n„Daniel, der zu den Verschleppten aus Juda gehört,\nachtet weder dich, o König,\nnoch das Verbot, das du unterschrieben hast,\nsondern verrichtet dreimal am Tag sein Gebet.“",
+       "englisch_web": "Then they answered and said before the king, “That Daniel, who is of the children of the captivity of Judah, doesn’t respect you, O king, nor the decree that you have signed, but makes his petition three times a day.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Als der König diese Worte hörte,\nwurde er sehr betrübt,\nund er setzte sein Herz daran, Daniel zu retten.\nBis zum Sonnenuntergang bemühte er sich, ihn zu befreien.",
+       "englisch_web": "Then the king, when he heard these words, was very displeased, and set his heart on Daniel to deliver him; and he labored until the going down of the sun to rescue him."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Da kamen diese Männer zusammen zum König\nund sagten zum König:\n„Wisse, o König,\ndass es ein Gesetz der Meder und Perser ist,\ndass kein Verbot und kein Erlass, den der König festsetzt,\ngeändert werden darf.“",
+       "englisch_web": "Then these men assembled together to the king, and said to the king, “Know, O king, that it is a law of the Medes and Persians, that no decree nor statute which the king establishes may be changed.”"
+      }
+     ],
+     "erklaerung": "Vers 10: Daniel ändert nichts an seiner Gewohnheit. Er betet weiter dreimal am Tag, mit offenen Fenstern in Richtung Jerusalem, „so wie er es vorher getan hatte“. Er macht keine Show daraus, aber er versteckt sich auch nicht.\nDas Beten in Richtung Jerusalem erinnert an das Gebet Salomos (1. Könige 8,48). Juden beten bis heute in Richtung Jerusalem, und das dreimalige tägliche Gebet ist bis heute Teil des jüdischen Lebens (vgl. Psalm 55,17).\nVers 14: Der König mag Daniel und versucht den ganzen Tag, ihn zu retten. Aber er ist gefangen in seinem eigenen Gesetz. Selbst der mächtigste Mann ist machtlos gegen ein ungerechtes Gesetz, das er selbst gemacht hat."
+    },
+    {
+     "ueberschrift": "In der Löwengrube",
+     "vers_von": 16,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Da befahl der König,\nund man brachte Daniel und warf ihn in die Löwengrube.\nDer König sagte zu Daniel:\n„Dein Gott, dem du beständig dienst,\nder wird dich retten.“",
+       "englisch_web": "Then the king commanded, and they brought Daniel and cast him into the den of lions. The king spoke and said to Daniel, “Your God whom you serve continually, he will deliver you.”"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ein Stein wurde gebracht\nund auf die Öffnung der Grube gelegt.\nDer König versiegelte ihn mit seinem eigenen Siegelring\nund mit dem Siegelring seiner Großen,\ndamit nichts an der Sache mit Daniel geändert werden könnte.",
+       "englisch_web": "A stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Dann ging der König in seinen Palast\nund verbrachte die Nacht mit Fasten.\nMan brachte keine Musikinstrumente vor ihn,\nund der Schlaf floh vor ihm.",
+       "englisch_web": "Then the king went to his palace, and passed the night fasting. No musical instruments were brought before him; and his sleep fled from him."
+      }
+     ],
+     "erklaerung": "Vers 16: Der heidnische König hofft, dass Daniels Gott ihn rettet.\nVers 17: Die Grube wird mit einem Stein verschlossen und versiegelt. Christen erinnert das an das Grab Jesu, das auch mit einem Stein verschlossen und versiegelt wurde (Matthäus 27,66).\nVers 18: Der König kann nicht schlafen. Er fastet und macht sich Sorgen."
+    },
+    {
+     "ueberschrift": "Gott hat den Löwen den Rachen verschlossen",
+     "vers_von": 19,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Da stand der König sehr früh am Morgen auf\nund ging eilends zur Löwengrube.",
+       "englisch_web": "Then the king arose very early in the morning, and went in haste to the den of lions."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Als er nahe an die Grube zu Daniel kam,\nrief er mit trauriger Stimme.\nDer König sagte zu Daniel:\n„Daniel, du Diener des lebendigen Gottes,\nhat dein Gott, dem du beständig dienst,\ndich von den Löwen retten können?“",
+       "englisch_web": "When he came near to Daniel in the den, he cried with a troubled voice. The king spoke and said to Daniel, “Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Da sagte Daniel zum König:\n„O König, lebe ewig!",
+       "englisch_web": "Then Daniel said to the king, “O king, live forever!"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Mein Gott hat seinen Engel gesandt\nund den Löwen den Rachen verschlossen,\nund sie haben mir nichts getan,\nweil vor ihm Unschuld an mir gefunden wurde.\nUnd auch vor dir, o König, habe ich nichts Böses getan.“",
+       "englisch_web": "My God has sent his angel, and has shut the lions’ mouths, and they have not hurt me, because innocence was found in me before him; and also before you, O king, I have done no harm.”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Da freute sich der König sehr\nund befahl, Daniel aus der Grube heraufzuholen.\nSo wurde Daniel aus der Grube heraufgeholt,\nund keinerlei Verletzung wurde an ihm gefunden,\nweil er seinem Gott vertraut hatte.",
+       "englisch_web": "Then the king was exceedingly glad, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no kind of harm was found on him, because he had trusted in his God."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Der König befahl,\nund man brachte jene Männer, die Daniel verklagt hatten,\nund warf sie in die Löwengrube,\nsie, ihre Kinder und ihre Frauen.\nUnd die Löwen überwältigten sie\nund zermalmten alle ihre Knochen,\nnoch bevor sie den Boden der Grube erreicht hatten.",
+       "englisch_web": "The king commanded, and they brought those men who had accused Daniel, and they cast them into the den of lions—them, their children, and their wives; and the lions mauled them, and broke all their bones in pieces before they came to the bottom of the den."
+      }
+     ],
+     "erklaerung": "Am Morgen ruft der König voller Angst. Und Daniel antwortet ruhig: „Mein Gott hat seinen Engel gesandt und den Löwen den Rachen verschlossen.“\nVers 23: Der Grund für die Rettung: „weil er seinem Gott vertraut hatte“. Vgl. Hebräer 11,33, wo von Menschen gesprochen wird, die „durch den Glauben den Löwen den Rachen verschlossen haben“.\nVers 24: Dieser Vers ist sehr erschreckend. Der König bestraft nicht nur die Ankläger, sondern auch ihre unschuldigen Frauen und Kinder. Das war die grausame Praxis mancher Herrscher damals. Die Bibel berichtet es, aber sie heißt es nicht gut. Das Gesetz Gottes sagt ausdrücklich: „Die Väter sollen nicht für die Kinder sterben, und die Kinder nicht für die Väter“ (5. Mose 24,16; vgl. Hesekiel 18,20). Kinder für die Taten ihrer Eltern zu bestrafen, ist Unrecht."
+    },
+    {
+     "ueberschrift": "Der König lobt Daniels Gott",
+     "vers_von": 25,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Da schrieb der König Darius\nan alle Völker, Nationen und Sprachen,\ndie auf der ganzen Erde wohnen:\n„Friede sei euch in Fülle!",
+       "englisch_web": "Then King Darius wrote to all the peoples, nations, and languages who dwell in all the earth: “Peace be multiplied to you."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ich erlasse einen Befehl,\ndass man im ganzen Gebiet meines Königreichs\nvor dem Gott Daniels zittern und sich fürchten soll.\nDenn er ist der lebendige Gott,\nder ewig bleibt.\nSein Reich ist ein Reich, das nicht zerstört wird,\nund seine Herrschaft hat kein Ende.",
+       "englisch_web": "“I make a decree that in all the dominion of my kingdom men tremble and fear before the God of Daniel. “For he is the living God, and steadfast forever. His kingdom is that which will not be destroyed. His dominion will be even to the end."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Er rettet und befreit.\nEr tut Zeichen und Wunder im Himmel und auf der Erde,\ner, der Daniel aus der Gewalt der Löwen gerettet hat.“",
+       "englisch_web": "He delivers and rescues. He works signs and wonders in heaven and in earth, who has delivered Daniel from the power of the lions.”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "So erging es diesem Daniel gut\nunter der Herrschaft des Darius\nund unter der Herrschaft des Kyrus, des Persers.",
+       "englisch_web": "So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian."
+      }
+     ],
+     "erklaerung": "Wie Nebukadnezar in Kapitel 3 und 4 lobt nun auch der persische König den Gott Israels: „Er ist der lebendige Gott. Er rettet und befreit.“\nHier endet der erste Teil des Buches mit den Erzählungen. Die Botschaft aller sechs Kapitel: Gott ist treu zu denen, die ihm treu sind, auch in einer fremden, feindlichen Umgebung. Und sein Reich ist größer als alle Reiche der Welt.\nFür heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt und in Gefängnisse geworfen. Daniels Geschichte ermutigt, treu zu bleiben. Und sie erinnert uns, uns für Religionsfreiheit für alle Menschen einzusetzen."
+    }
+   ]
   }
  ]
 }

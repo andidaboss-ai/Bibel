@@ -106759,3 +106759,591 @@ in der Provinz Babylon.
 > Vers 29: Aber der König hat noch nicht wirklich etwas verstanden. Er droht jetzt mit derselben Gewalt, nur in die andere Richtung. Glaube lässt sich nicht durch Drohungen erzwingen. Gott braucht keine Gewalt zu seinem Schutz.
 > Hinweis zur Zählung: In deutschen Bibeln gehören die ersten drei Verse des nächsten Kapitels (im WEB 4,1–3) noch zu Kapitel 3 (als 3,31–33).
 > Für heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt. Dieses Kapitel ermutigt, treu zu bleiben, und erinnert uns, für die Glaubensfreiheit aller Menschen einzutreten.
+
+## Daniel – Kapitel 4
+#### Der Hochmut Nebukadnezars
+
+---
+
+### Ein Brief des Königs (Vers 1–3)
+
+<sup>1</sup>Der König Nebukadnezar
+an alle Völker, Nationen und Sprachen,
+die auf der ganzen Erde wohnen:
+Friede sei euch in Fülle!
+<sup>2</sup>Es hat mir gefallen,
+die Zeichen und Wunder bekannt zu machen,
+die der höchste Gott an mir getan hat.
+<sup>3</sup>Wie groß sind seine Zeichen!
+Wie mächtig sind seine Wunder!
+Sein Reich ist ein ewiges Reich,
+und seine Herrschaft währt von Generation zu Generation.
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln stehen diese drei Verse am Ende von Kapitel 3 (3,31–33). Darum sind die Versnummern in diesem Kapitel im WEB um drei höher als in vielen deutschen Bibeln. Wir folgen der Zählung des WEB.
+> Ein ungewöhnliches Kapitel: Es ist ein Brief, den der heidnische König Nebukadnezar selbst an die ganze Welt schreibt. Er erzählt, wie Gott ihn gedemütigt und wieder aufgerichtet hat. Am Anfang und am Ende lobt er Gott.
+
+---
+
+### Der Traum vom großen Baum (Vers 4–18)
+
+<sup>4</sup>Ich, Nebukadnezar, lebte ruhig in meinem Haus
+und es ging mir gut in meinem Palast.
+<sup>5</sup>Da sah ich einen Traum, der mir Angst machte.
+Die Gedanken auf meinem Lager
+und die Visionen meines Kopfes erschreckten mich.
+<sup>6</sup>Darum erließ ich einen Befehl,
+alle Weisen Babylons vor mich zu bringen,
+damit sie mir die Deutung des Traumes kundtun.
+<sup>7</sup>Da kamen die Magier, die Beschwörer, die Chaldäer und die Wahrsager herein.
+Ich erzählte ihnen den Traum,
+aber sie taten mir seine Deutung nicht kund.
+<sup>8</sup>Zuletzt aber kam Daniel vor mich,
+der nach dem Namen meines Gottes Beltschazar heißt
+und in dem der Geist der heiligen Götter ist.
+Ich erzählte ihm den Traum und sagte:
+<sup>9</sup>„Beltschazar, Oberster der Magier,
+weil ich weiß, dass der Geist der heiligen Götter in dir ist
+und kein Geheimnis dir zu schwer ist,
+sage mir die Visionen meines Traumes, den ich gesehen habe,
+und seine Deutung.
+<sup>10</sup>Das waren die Visionen meines Kopfes auf meinem Lager:
+Ich schaute, und siehe, ein Baum stand mitten auf der Erde,
+und seine Höhe war gewaltig.
+<sup>11</sup>Der Baum wurde groß und stark.
+Seine Höhe reichte bis an den Himmel,
+und man sah ihn bis ans Ende der ganzen Erde.
+<sup>12</sup>Sein Laub war schön,
+und er hatte viele Früchte,
+und an ihm war Nahrung für alle.
+Die Tiere des Feldes fanden Schatten unter ihm,
+und die Vögel des Himmels wohnten in seinen Zweigen,
+und alles Fleisch nährte sich von ihm.
+<sup>13</sup>Ich schaute in den Visionen meines Kopfes auf meinem Lager,
+und siehe, ein heiliger Wächter kam vom Himmel herab.
+<sup>14</sup>Er rief laut und sagte:
+‚Haut den Baum um
+und schlagt seine Zweige ab!
+Streift sein Laub ab
+und zerstreut seine Früchte!
+Die Tiere sollen unter ihm weglaufen
+und die Vögel aus seinen Zweigen.
+<sup>15</sup>Doch den Wurzelstock lasst in der Erde,
+in einer Fessel aus Eisen und Bronze,
+im zarten Gras des Feldes.
+Er soll vom Tau des Himmels nass werden,
+und er soll seinen Anteil mit den Tieren im Gras der Erde haben.
+<sup>16</sup>Sein Herz soll verwandelt werden,
+weg von einem Menschenherzen,
+und ein Tierherz soll ihm gegeben werden.
+Und sieben Zeiten sollen über ihn hingehen.
+<sup>17</sup>Das Urteil beruht auf dem Beschluss der Wächter,
+und die Entscheidung auf dem Wort der Heiligen,
+damit die Lebenden erkennen,
+dass der Höchste Herr ist über das Königtum der Menschen
+und es gibt, wem er will,
+und den Niedrigsten unter den Menschen darüber setzt.‘
+<sup>18</sup>Diesen Traum habe ich, der König Nebukadnezar, gesehen.
+Du aber, Beltschazar, sag die Deutung,
+denn alle Weisen meines Königreichs können mir die Deutung nicht kundtun.
+Du aber kannst es,
+denn der Geist der heiligen Götter ist in dir.“
+
+> **Was bedeutet das?**
+> Der König sieht im Traum einen riesigen Baum, der bis zum Himmel reicht und allen Lebewesen Schatten und Nahrung gibt. Dann ruft ein „heiliger Wächter“, ein Engel, er soll umgehauen werden. Nur der Wurzelstock bleibt, mit einer Fessel aus Metall.
+> Vers 16: Plötzlich wird aus dem Baum ein „er“: Der Baum ist ein Mensch, und er soll ein Tierherz bekommen.
+> „Sieben Zeiten“ sind wahrscheinlich sieben Jahre oder einfach eine vollständige, lange Zeit.
+> Vers 17: Das ist das Thema: „Der Höchste ist Herr über das Königtum der Menschen.“ Gott kann auch den Niedrigsten zum Herrscher machen.
+> Vers 8–9: Nebukadnezar spricht als Heide vom „Geist der heiligen Götter“. Er versteht Gott noch in seinem eigenen Weltbild.
+
+---
+
+### Daniel deutet den Traum (Vers 19–27)
+
+<sup>19</sup>Da war Daniel, der Beltschazar hieß, eine Weile wie erstarrt,
+und seine Gedanken erschreckten ihn.
+Der König sagte:
+„Beltschazar, lass dich vom Traum und von der Deutung nicht erschrecken.“
+Beltschazar antwortete:
+„Mein Herr, der Traum gelte denen, die dich hassen,
+und seine Deutung deinen Feinden.
+<sup>20</sup>Der Baum, den du gesehen hast,
+der groß und stark wurde,
+dessen Höhe bis an den Himmel reichte
+und den man auf der ganzen Erde sah,
+<sup>21</sup>dessen Laub schön war und dessen Früchte zahlreich waren,
+an dem Nahrung für alle war,
+unter dem die Tiere des Feldes wohnten
+und in dessen Zweigen die Vögel des Himmels ihre Wohnung hatten –
+<sup>22</sup>das bist du, o König,
+der du groß und stark geworden bist.
+Denn deine Größe ist gewachsen und reicht bis an den Himmel,
+und deine Herrschaft bis ans Ende der Erde.
+<sup>23</sup>Und dass der König einen heiligen Wächter vom Himmel herabkommen sah,
+der sagte:
+‚Haut den Baum um und zerstört ihn,
+doch den Wurzelstock lasst in der Erde,
+in einer Fessel aus Eisen und Bronze, im zarten Gras des Feldes,
+und er soll vom Tau des Himmels nass werden,
+und er soll seinen Anteil mit den Tieren des Feldes haben,
+bis sieben Zeiten über ihn hingegangen sind‘ –
+<sup>24</sup>das ist die Deutung, o König,
+und es ist der Beschluss des Höchsten,
+der über meinen Herrn, den König, gekommen ist:
+<sup>25</sup>Du wirst von den Menschen verstoßen werden,
+und deine Wohnung wird bei den Tieren des Feldes sein.
+Man wird dich Gras fressen lassen wie die Rinder,
+und du wirst vom Tau des Himmels nass werden,
+und sieben Zeiten werden über dich hingehen,
+bis du erkennst, dass der Höchste Herr ist über das Königtum der Menschen
+und es gibt, wem er will.
+<sup>26</sup>Und dass befohlen wurde, den Wurzelstock des Baumes übrig zu lassen,
+bedeutet: Dein Königtum wird dir wieder zurückgegeben werden,
+nachdem du erkannt hast, dass der Himmel herrscht.
+<sup>27</sup>Darum, o König, lass dir meinen Rat gefallen:
+Mach deinen Sünden ein Ende durch Gerechtigkeit
+und deinen Verfehlungen durch Barmherzigkeit gegenüber den Armen.
+Vielleicht wird deine Ruhe dann verlängert.“
+
+> **Was bedeutet das?**
+> Vers 19: Daniel erschrickt. Er mag den König und wünscht ihm nichts Böses. Er sagt ehrlich: „Ich wünschte, dieser Traum gälte deinen Feinden.“ Daniel ist kein kalter Unheilsprophet.
+> Vers 26: Der Wurzelstock bleibt. Das ist die Hoffnung: Nach der Demütigung wird der König sein Reich zurückbekommen.
+> Vers 27: Daniel gibt dem König einen mutigen Rat: „Hör auf mit dem Unrecht! Sei gerecht und barmherzig zu den Armen.“ Gerechtigkeit und Hilfe für die Armen sind der Weg der Umkehr, für jeden Menschen, auch für Mächtige.
+> „Der Himmel herrscht“ (Vers 26) – „Himmel“ steht hier für Gott. So wie man im Judentum später oft aus Ehrfurcht „Himmel“ statt „Gott“ sagte (vgl. „Himmelreich“ bei Matthäus).
+
+---
+
+### Die Erfüllung (Vers 28–33)
+
+<sup>28</sup>All das kam über den König Nebukadnezar.
+<sup>29</sup>Nach zwölf Monaten ging er auf dem königlichen Palast von Babylon umher.
+<sup>30</sup>Der König sagte:
+„Ist das nicht das große Babylon,
+das ich zum königlichen Wohnsitz erbaut habe
+durch die Kraft meiner Macht
+und zur Ehre meiner Herrlichkeit?“
+<sup>31</sup>Noch war das Wort im Mund des Königs,
+da kam eine Stimme vom Himmel:
+„Dir, König Nebukadnezar, wird gesagt:
+Das Königtum ist von dir gewichen.
+<sup>32</sup>Du wirst von den Menschen verstoßen werden,
+und deine Wohnung wird bei den Tieren des Feldes sein.
+Man wird dich Gras fressen lassen wie die Rinder.
+Sieben Zeiten werden über dich hingehen,
+bis du erkennst, dass der Höchste Herr ist über das Königtum der Menschen
+und es gibt, wem er will.“
+<sup>33</sup>In derselben Stunde erfüllte sich das Wort an Nebukadnezar.
+Er wurde von den Menschen verstoßen
+und fraß Gras wie die Rinder,
+und sein Körper wurde vom Tau des Himmels nass,
+bis sein Haar so lang war wie Adlerfedern
+und seine Nägel wie Vogelkrallen.
+
+> **Was bedeutet das?**
+> Gott gibt dem König ein ganzes Jahr Zeit zur Umkehr. Aber der König ändert nichts.
+> Vers 30: Der König steht auf dem Dach seines Palastes, schaut über seine prächtige Stadt und sagt: „Das habe ICH gebaut, durch MEINE Macht, zu MEINER Ehre.“ Babylon war wirklich prächtig, mit dem berühmten Ischtar-Tor und vielen Palästen.
+> Vers 31–33: Genau in diesem Moment des Stolzes fällt er tief. Er verliert den Verstand und lebt wie ein Tier.
+> Manche Ausleger denken an eine seltene psychische Krankheit, bei der Menschen sich für Tiere halten. Andere verbinden die Geschichte mit dem letzten babylonischen König Nabonid, der viele Jahre fern von Babylon in der Wüste lebte. Wie auch immer: Der Text zeigt, wie zerbrechlich menschliche Macht und auch der menschliche Verstand ist.
+> Wichtig: Psychische Krankheiten sind keine Strafe Gottes. Wer psychisch erkrankt ist, braucht Hilfe und Verständnis, keine Schuldzuweisung.
+
+---
+
+### Der König lobt den Höchsten (Vers 34–37)
+
+<sup>34</sup>Am Ende der Tage hob ich, Nebukadnezar, meine Augen zum Himmel,
+und mein Verstand kehrte zu mir zurück.
+Und ich pries den Höchsten
+und lobte und ehrte den, der ewig lebt,
+denn seine Herrschaft ist eine ewige Herrschaft,
+und sein Reich währt von Generation zu Generation.
+<sup>35</sup>Alle Bewohner der Erde sind wie nichts geachtet.
+Er handelt nach seinem Willen mit dem Heer des Himmels
+und mit den Bewohnern der Erde.
+Und niemand kann seiner Hand wehren
+oder zu ihm sagen: „Was tust du?“
+<sup>36</sup>Zur selben Zeit kehrte mein Verstand zu mir zurück,
+und zur Ehre meines Königreichs
+kehrten meine Herrlichkeit und mein Glanz zu mir zurück.
+Meine Ratgeber und meine Großen suchten mich auf,
+und ich wurde wieder in mein Königreich eingesetzt,
+und noch größere Macht wurde mir hinzugefügt.
+<sup>37</sup>Nun lobe, erhebe und ehre ich, Nebukadnezar,
+den König des Himmels,
+denn alle seine Werke sind Wahrheit
+und seine Wege sind Recht.
+Und die in Hochmut wandeln, kann er erniedrigen.
+
+> **Was bedeutet das?**
+> Vers 34: Der Wendepunkt: Der König „hebt seine Augen zum Himmel“. In dem Moment, in dem er nach oben schaut und Gott anerkennt, kehrt sein Verstand zurück.
+> Vers 37: Am Ende lobt der mächtigste König der Welt den „König des Himmels“. Und er hat gelernt: „Die in Hochmut wandeln, kann er erniedrigen.“
+> Die Botschaft: Gott kann auch die Mächtigsten demütigen, aber er tut es, damit sie zur Einsicht kommen, nicht um sie zu vernichten. Gott gibt auch dem stolzen König eine zweite Chance.
+> Vgl. Sprüche 16,18: „Hochmut kommt vor dem Fall.“ Und Lukas 1,52: „Er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.“
+
+## Daniel – Kapitel 5
+#### Die Schrift an der Wand
+
+---
+
+### Belsazars Gastmahl (Vers 1–4)
+
+<sup>1</sup>Der König Belsazar gab ein großes Festmahl für tausend seiner Großen
+und trank vor den Tausend Wein.
+<sup>2</sup>Als Belsazar vom Wein kostete,
+befahl er, die goldenen und silbernen Gefäße herzubringen,
+die sein Vater Nebukadnezar aus dem Tempel in Jerusalem weggenommen hatte,
+damit der König und seine Großen,
+seine Frauen und seine Nebenfrauen daraus trinken könnten.
+<sup>3</sup>Da brachte man die goldenen Gefäße,
+die aus dem Tempel, dem Haus Gottes in Jerusalem, weggenommen worden waren.
+Und der König und seine Großen,
+seine Frauen und seine Nebenfrauen tranken daraus.
+<sup>4</sup>Sie tranken Wein
+und lobten die Götter aus Gold und Silber,
+aus Bronze, Eisen, Holz und Stein.
+
+> **Was bedeutet das?**
+> Belsazar war der letzte König von Babylon. Er feiert ein großes Fest, obwohl (wie wir aus anderen Quellen wissen) die Perser schon vor der Stadt standen.
+> Vers 2: Der Text nennt Nebukadnezar Belsazars „Vater“. Nach babylonischen Inschriften war Belsazar der Sohn des Königs Nabonid und regierte für ihn in Babylon. „Vater“ kann in der Bibel aber auch „Vorgänger“ oder „Vorfahr“ bedeuten.
+> Vers 3–4: Belsazar trinkt aus den heiligen Gefäßen des Tempels und lobt dabei Götzen. Das ist ein bewusster Spott über den Gott Israels.
+
+---
+
+### Die Hand schreibt an die Wand (Vers 5–9)
+
+<sup>5</sup>In derselben Stunde kamen Finger einer Menschenhand hervor
+und schrieben gegenüber dem Leuchter
+auf den Kalk der Wand des königlichen Palastes.
+Und der König sah die Hand, die schrieb.
+<sup>6</sup>Da veränderte sich das Gesicht des Königs,
+und seine Gedanken erschreckten ihn.
+Die Gelenke seiner Hüften lockerten sich,
+und seine Knie schlugen aneinander.
+<sup>7</sup>Der König rief laut,
+man solle die Beschwörer, die Chaldäer und die Wahrsager hereinbringen.
+Der König sagte zu den Weisen Babylons:
+„Wer diese Schrift liest und mir ihre Deutung zeigt,
+der soll mit Purpur bekleidet werden
+und eine goldene Kette um seinen Hals tragen
+und der Dritte im Königreich sein.“
+<sup>8</sup>Da kamen alle Weisen des Königs herein.
+Aber sie konnten die Schrift nicht lesen
+und dem König die Deutung nicht kundtun.
+<sup>9</sup>Da erschrak der König Belsazar sehr,
+und sein Gesicht veränderte sich,
+und seine Großen waren ratlos.
+
+> **Was bedeutet das?**
+> Mitten im Fest erscheint eine Hand und schreibt an die Wand. Der übermütige König wird plötzlich bleich und zittert.
+> Bis heute sagt man: „Die Schrift an der Wand sehen“ oder „ein Menetekel“, wenn man ein deutliches Warnzeichen meint.
+> Vers 7: „Der Dritte im Königreich“ – das passt genau zur Geschichte: Nabonid war der Erste, Belsazar der Zweite. Der Dritte war der höchste Platz, den Belsazar vergeben konnte.
+
+---
+
+### Die Königin erinnert an Daniel (Vers 10–16)
+
+<sup>10</sup>Wegen der Worte des Königs und seiner Großen
+kam die Königin in den Festsaal.
+Die Königin sagte:
+„O König, lebe ewig!
+Lass dich von deinen Gedanken nicht erschrecken,
+und dein Gesicht soll sich nicht verändern.
+<sup>11</sup>Es gibt einen Mann in deinem Königreich,
+in dem der Geist der heiligen Götter ist.
+In den Tagen deines Vaters fand man in ihm
+Licht, Einsicht und Weisheit wie die Weisheit der Götter.
+Der König Nebukadnezar, dein Vater,
+ja, der König, dein Vater,
+machte ihn zum Obersten der Magier, Beschwörer, Chaldäer und Wahrsager,
+<sup>12</sup>weil man bei diesem Daniel,
+dem der König den Namen Beltschazar gab,
+einen hervorragenden Geist fand,
+Wissen und Einsicht,
+Träume zu deuten,
+Rätsel zu erklären
+und Knoten zu lösen.
+Nun lass Daniel rufen,
+und er wird die Deutung zeigen.“
+<sup>13</sup>Da wurde Daniel vor den König gebracht.
+Der König sagte zu Daniel:
+„Bist du jener Daniel von den Verschleppten aus Juda,
+die der König, mein Vater, aus Juda gebracht hat?
+<sup>14</sup>Ich habe von dir gehört,
+dass der Geist der Götter in dir ist
+und dass Licht, Einsicht und hervorragende Weisheit in dir gefunden werden.
+<sup>15</sup>Nun sind die Weisen, die Beschwörer, vor mich gebracht worden,
+damit sie diese Schrift lesen und mir ihre Deutung kundtun.
+Aber sie konnten die Deutung der Sache nicht zeigen.
+<sup>16</sup>Ich habe aber von dir gehört,
+dass du Deutungen geben und Knoten lösen kannst.
+Wenn du nun die Schrift lesen und mir ihre Deutung kundtun kannst,
+sollst du mit Purpur bekleidet werden
+und eine goldene Kette um deinen Hals tragen
+und der Dritte im Königreich sein.“
+
+> **Was bedeutet das?**
+> Die „Königin“ ist wahrscheinlich die Königinmutter. Sie erinnert sich an Daniel, den der junge König offenbar vergessen hatte. Daniel ist inzwischen ein alter Mann, über 80 Jahre alt.
+> Eine kluge Frau rettet die Situation. Sie behält einen klaren Kopf, während die Männer ratlos sind.
+> Vers 12: „Knoten lösen“ meint: schwierige Fragen und Rätsel lösen.
+
+---
+
+### Daniel hält dem König eine Predigt (Vers 17–24)
+
+<sup>17</sup>Da antwortete Daniel vor dem König:
+„Deine Geschenke mögen dir bleiben,
+und deine Belohnungen gib einem anderen.
+Dennoch werde ich dem König die Schrift lesen
+und ihm die Deutung kundtun.
+<sup>18</sup>Du, o König –
+der höchste Gott gab Nebukadnezar, deinem Vater,
+das Königtum und Größe, Ehre und Herrlichkeit.
+<sup>19</sup>Wegen der Größe, die er ihm gab,
+zitterten und fürchteten sich vor ihm alle Völker, Nationen und Sprachen.
+Wen er wollte, tötete er,
+und wen er wollte, ließ er leben.
+Wen er wollte, erhöhte er,
+und wen er wollte, erniedrigte er.
+<sup>20</sup>Als aber sein Herz sich erhob
+und sein Geist sich verhärtete, sodass er hochmütig handelte,
+wurde er von seinem königlichen Thron gestürzt,
+und man nahm ihm seine Ehre.
+<sup>21</sup>Er wurde von den Menschen verstoßen,
+und sein Herz wurde den Tieren gleich gemacht,
+und seine Wohnung war bei den Wildeseln.
+Man gab ihm Gras zu fressen wie den Rindern,
+und sein Körper wurde vom Tau des Himmels nass,
+bis er erkannte, dass der höchste Gott Herr ist über das Königtum der Menschen
+und darüber setzt, wen er will.
+<sup>22</sup>Du aber, sein Sohn Belsazar,
+hast dein Herz nicht gedemütigt,
+obwohl du das alles wusstest,
+<sup>23</sup>sondern du hast dich gegen den Herrn des Himmels erhoben.
+Man hat die Gefäße seines Hauses vor dich gebracht,
+und du und deine Großen, deine Frauen und deine Nebenfrauen,
+ihr habt Wein daraus getrunken.
+Du hast die Götter aus Silber und Gold,
+aus Bronze, Eisen, Holz und Stein gelobt,
+die nicht sehen, nicht hören und nichts wissen.
+Den Gott aber, in dessen Hand dein Atem ist
+und dem alle deine Wege gehören,
+den hast du nicht geehrt.
+<sup>24</sup>Darum wurde von ihm diese Hand gesandt
+und diese Schrift geschrieben.
+
+> **Was bedeutet das?**
+> Vers 17: Daniel will keine Geschenke. Er lässt sich nicht kaufen.
+> Vers 18–21: Daniel erinnert den König an die Geschichte von Nebukadnezar aus Kapitel 4: Auch der größte König wurde gedemütigt, bis er Gott anerkannte.
+> Vers 22: Der schwerste Vorwurf: „Du wusstest das alles!“ Belsazar kannte die Geschichte, aber er hat nichts daraus gelernt.
+> Vers 23: Ein starker Gegensatz: Belsazar lobt Götter, „die nicht sehen, nicht hören und nichts wissen“. Aber den Gott, „in dessen Hand dein Atem ist“, ehrt er nicht. Jeder Atemzug ist ein Geschenk Gottes.
+
+---
+
+### Mene, mene, tekel, u-parsin (Vers 25–31)
+
+<sup>25</sup>Das ist die Schrift, die geschrieben wurde:
+„MENE, MENE, TEKEL, U-PARSIN.“
+<sup>26</sup>Das ist die Deutung der Sache:
+MENE: Gott hat dein Königtum gezählt
+und ihm ein Ende gemacht.
+<sup>27</sup>TEKEL: Du bist auf der Waage gewogen
+und zu leicht befunden worden.
+<sup>28</sup>PERES: Dein Königreich ist geteilt
+und den Medern und Persern gegeben.“
+<sup>29</sup>Da befahl Belsazar,
+und man bekleidete Daniel mit Purpur
+und legte ihm eine goldene Kette um den Hals
+und rief über ihn aus,
+dass er der Dritte im Königreich sein solle.
+<sup>30</sup>In derselben Nacht wurde Belsazar, der chaldäische König, getötet.
+<sup>31</sup>Und Darius, der Meder, empfing das Königreich,
+als er etwa zweiundsechzig Jahre alt war.
+
+> **Was bedeutet das?**
+> Die vier Wörter sind aramäische Namen von Gewichten (Mine, Schekel, halbe Mine). Gleichzeitig klingen sie wie Verben:
+> – MENE = „gezählt“: Deine Tage als König sind gezählt.
+> – TEKEL = „gewogen“: Du bist gewogen und zu leicht befunden.
+> – PERES (Einzahl von „Parsin“) = „geteilt“, und es klingt wie „Paras“ = Persien.
+> Vers 30: In derselben Nacht stirbt Belsazar. Im Jahr 539 vor Christus eroberten die Perser unter Kyrus Babylon. Griechische Geschichtsschreiber berichten, dass die Stadt während eines Festes eingenommen wurde.
+> Vers 31: Wer „Darius der Meder“ genau war, ist bis heute nicht geklärt. In anderen Quellen ist er unter diesem Namen nicht bekannt. Manche denken an einen Statthalter des Kyrus (zum Beispiel Gubaru), andere an einen anderen Namen für Kyrus selbst.
+> Hinweis zur Zählung: In deutschen Bibeln ist Vers 31 meist schon der erste Vers von Kapitel 6.
+> Die Botschaft: Jeder Mensch, auch jeder Herrscher, wird einmal „gewogen“. Was zählt am Ende? Nicht Macht und Reichtum, sondern ob man Gott geehrt und gerecht gehandelt hat.
+
+## Daniel – Kapitel 6
+#### Daniel in der Löwengrube
+
+---
+
+### Ein Komplott gegen Daniel (Vers 1–9)
+
+<sup>1</sup>Es gefiel Darius,
+über das Königreich hundertzwanzig Statthalter einzusetzen,
+die im ganzen Königreich sein sollten,
+<sup>2</sup>und über ihnen drei Minister,
+von denen Daniel einer war,
+damit diese Statthalter ihnen Rechenschaft gäben
+und der König keinen Schaden hätte.
+<sup>3</sup>Da zeichnete sich dieser Daniel vor den Ministern und Statthaltern aus,
+weil ein hervorragender Geist in ihm war.
+Und der König dachte daran, ihn über das ganze Reich zu setzen.
+<sup>4</sup>Da suchten die Minister und Statthalter einen Anlass gegen Daniel
+in seiner Amtsführung.
+Aber sie konnten keinen Anlass und keinen Fehler finden,
+denn er war treu.
+Kein Versäumnis und kein Fehler wurde an ihm gefunden.
+<sup>5</sup>Da sagten diese Männer:
+„Wir werden gegen diesen Daniel keinen Anlass finden,
+außer wir finden ihn in Bezug auf das Gesetz seines Gottes.“
+<sup>6</sup>Da kamen diese Minister und Statthalter zusammen zum König
+und sagten zu ihm:
+„König Darius, lebe ewig!
+<sup>7</sup>Alle Minister des Königreichs,
+die Vorsteher und die Statthalter,
+die Ratgeber und die Gouverneure
+haben sich beraten,
+dass ein königlicher Erlass festgesetzt und ein strenges Verbot erlassen werde:
+Wer dreißig Tage lang eine Bitte an irgendeinen Gott oder Menschen richtet,
+außer an dich, o König,
+der soll in die Löwengrube geworfen werden.
+<sup>8</sup>Nun, o König, setze das Verbot fest
+und unterschreibe das Schriftstück,
+damit es nicht geändert werden kann
+nach dem Gesetz der Meder und Perser,
+das nicht aufgehoben wird.“
+<sup>9</sup>Darum unterschrieb der König Darius das Schriftstück und das Verbot.
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln sind die Versnummern in diesem Kapitel um eins höher (6,2–29), weil dort 5,31 schon als 6,1 gezählt wird.
+> Daniel ist inzwischen ein alter Mann und wieder in einem hohen Amt, jetzt unter dem neuen persischen Reich. Er ist so gut und ehrlich, dass seine Kollegen neidisch werden.
+> Vers 4: Ein großes Lob: Sie finden keinen einzigen Fehler bei Daniel. Er ist nicht bestechlich, nicht faul, nicht unehrlich.
+> Vers 5: Darum suchen sie den einzigen „Schwachpunkt“: seinen Glauben. Sie wissen, dass Daniel Gott treu bleiben wird, egal was kommt.
+> Vers 7–8: Sie schmeicheln dem König und bringen ihn dazu, ein Gesetz zu erlassen, das nicht mehr geändert werden kann. Der König merkt nicht, dass er benutzt wird.
+
+---
+
+### Daniel betet weiter (Vers 10–15)
+
+<sup>10</sup>Als Daniel erfuhr, dass das Schriftstück unterschrieben war,
+ging er in sein Haus.
+In seinem Obergemach hatte er offene Fenster in Richtung Jerusalem.
+Und er kniete dreimal am Tag auf seine Knie,
+betete und dankte vor seinem Gott,
+so wie er es vorher getan hatte.
+<sup>11</sup>Da kamen diese Männer zusammen
+und fanden Daniel, wie er vor seinem Gott bat und flehte.
+<sup>12</sup>Da traten sie heran und sagten vor dem König über das Verbot des Königs:
+„Hast du nicht ein Verbot unterschrieben,
+dass jeder Mensch, der dreißig Tage lang eine Bitte an irgendeinen Gott oder Menschen richtet,
+außer an dich, o König,
+in die Löwengrube geworfen werden soll?“
+Der König antwortete:
+„Die Sache steht fest,
+nach dem Gesetz der Meder und Perser,
+das nicht aufgehoben wird.“
+<sup>13</sup>Da antworteten sie und sagten vor dem König:
+„Daniel, der zu den Verschleppten aus Juda gehört,
+achtet weder dich, o König,
+noch das Verbot, das du unterschrieben hast,
+sondern verrichtet dreimal am Tag sein Gebet.“
+<sup>14</sup>Als der König diese Worte hörte,
+wurde er sehr betrübt,
+und er setzte sein Herz daran, Daniel zu retten.
+Bis zum Sonnenuntergang bemühte er sich, ihn zu befreien.
+<sup>15</sup>Da kamen diese Männer zusammen zum König
+und sagten zum König:
+„Wisse, o König,
+dass es ein Gesetz der Meder und Perser ist,
+dass kein Verbot und kein Erlass, den der König festsetzt,
+geändert werden darf.“
+
+> **Was bedeutet das?**
+> Vers 10: Daniel ändert nichts an seiner Gewohnheit. Er betet weiter dreimal am Tag, mit offenen Fenstern in Richtung Jerusalem, „so wie er es vorher getan hatte“. Er macht keine Show daraus, aber er versteckt sich auch nicht.
+> Das Beten in Richtung Jerusalem erinnert an das Gebet Salomos (1. Könige 8,48). Juden beten bis heute in Richtung Jerusalem, und das dreimalige tägliche Gebet ist bis heute Teil des jüdischen Lebens (vgl. Psalm 55,17).
+> Vers 14: Der König mag Daniel und versucht den ganzen Tag, ihn zu retten. Aber er ist gefangen in seinem eigenen Gesetz. Selbst der mächtigste Mann ist machtlos gegen ein ungerechtes Gesetz, das er selbst gemacht hat.
+
+---
+
+### In der Löwengrube (Vers 16–18)
+
+<sup>16</sup>Da befahl der König,
+und man brachte Daniel und warf ihn in die Löwengrube.
+Der König sagte zu Daniel:
+„Dein Gott, dem du beständig dienst,
+der wird dich retten.“
+<sup>17</sup>Ein Stein wurde gebracht
+und auf die Öffnung der Grube gelegt.
+Der König versiegelte ihn mit seinem eigenen Siegelring
+und mit dem Siegelring seiner Großen,
+damit nichts an der Sache mit Daniel geändert werden könnte.
+<sup>18</sup>Dann ging der König in seinen Palast
+und verbrachte die Nacht mit Fasten.
+Man brachte keine Musikinstrumente vor ihn,
+und der Schlaf floh vor ihm.
+
+> **Was bedeutet das?**
+> Vers 16: Der heidnische König hofft, dass Daniels Gott ihn rettet.
+> Vers 17: Die Grube wird mit einem Stein verschlossen und versiegelt. Christen erinnert das an das Grab Jesu, das auch mit einem Stein verschlossen und versiegelt wurde (Matthäus 27,66).
+> Vers 18: Der König kann nicht schlafen. Er fastet und macht sich Sorgen.
+
+---
+
+### Gott hat den Löwen den Rachen verschlossen (Vers 19–24)
+
+<sup>19</sup>Da stand der König sehr früh am Morgen auf
+und ging eilends zur Löwengrube.
+<sup>20</sup>Als er nahe an die Grube zu Daniel kam,
+rief er mit trauriger Stimme.
+Der König sagte zu Daniel:
+„Daniel, du Diener des lebendigen Gottes,
+hat dein Gott, dem du beständig dienst,
+dich von den Löwen retten können?“
+<sup>21</sup>Da sagte Daniel zum König:
+„O König, lebe ewig!
+<sup>22</sup>Mein Gott hat seinen Engel gesandt
+und den Löwen den Rachen verschlossen,
+und sie haben mir nichts getan,
+weil vor ihm Unschuld an mir gefunden wurde.
+Und auch vor dir, o König, habe ich nichts Böses getan.“
+<sup>23</sup>Da freute sich der König sehr
+und befahl, Daniel aus der Grube heraufzuholen.
+So wurde Daniel aus der Grube heraufgeholt,
+und keinerlei Verletzung wurde an ihm gefunden,
+weil er seinem Gott vertraut hatte.
+<sup>24</sup>Der König befahl,
+und man brachte jene Männer, die Daniel verklagt hatten,
+und warf sie in die Löwengrube,
+sie, ihre Kinder und ihre Frauen.
+Und die Löwen überwältigten sie
+und zermalmten alle ihre Knochen,
+noch bevor sie den Boden der Grube erreicht hatten.
+
+> **Was bedeutet das?**
+> Am Morgen ruft der König voller Angst. Und Daniel antwortet ruhig: „Mein Gott hat seinen Engel gesandt und den Löwen den Rachen verschlossen.“
+> Vers 23: Der Grund für die Rettung: „weil er seinem Gott vertraut hatte“. Vgl. Hebräer 11,33, wo von Menschen gesprochen wird, die „durch den Glauben den Löwen den Rachen verschlossen haben“.
+> Vers 24: Dieser Vers ist sehr erschreckend. Der König bestraft nicht nur die Ankläger, sondern auch ihre unschuldigen Frauen und Kinder. Das war die grausame Praxis mancher Herrscher damals. Die Bibel berichtet es, aber sie heißt es nicht gut. Das Gesetz Gottes sagt ausdrücklich: „Die Väter sollen nicht für die Kinder sterben, und die Kinder nicht für die Väter“ (5. Mose 24,16; vgl. Hesekiel 18,20). Kinder für die Taten ihrer Eltern zu bestrafen, ist Unrecht.
+
+---
+
+### Der König lobt Daniels Gott (Vers 25–28)
+
+<sup>25</sup>Da schrieb der König Darius
+an alle Völker, Nationen und Sprachen,
+die auf der ganzen Erde wohnen:
+„Friede sei euch in Fülle!
+<sup>26</sup>Ich erlasse einen Befehl,
+dass man im ganzen Gebiet meines Königreichs
+vor dem Gott Daniels zittern und sich fürchten soll.
+Denn er ist der lebendige Gott,
+der ewig bleibt.
+Sein Reich ist ein Reich, das nicht zerstört wird,
+und seine Herrschaft hat kein Ende.
+<sup>27</sup>Er rettet und befreit.
+Er tut Zeichen und Wunder im Himmel und auf der Erde,
+er, der Daniel aus der Gewalt der Löwen gerettet hat.“
+<sup>28</sup>So erging es diesem Daniel gut
+unter der Herrschaft des Darius
+und unter der Herrschaft des Kyrus, des Persers.
+
+> **Was bedeutet das?**
+> Wie Nebukadnezar in Kapitel 3 und 4 lobt nun auch der persische König den Gott Israels: „Er ist der lebendige Gott. Er rettet und befreit.“
+> Hier endet der erste Teil des Buches mit den Erzählungen. Die Botschaft aller sechs Kapitel: Gott ist treu zu denen, die ihm treu sind, auch in einer fremden, feindlichen Umgebung. Und sein Reich ist größer als alle Reiche der Welt.
+> Für heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt und in Gefängnisse geworfen. Daniels Geschichte ermutigt, treu zu bleiben. Und sie erinnert uns, uns für Religionsfreiheit für alle Menschen einzusetzen.
