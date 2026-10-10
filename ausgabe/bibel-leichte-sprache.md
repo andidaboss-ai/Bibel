@@ -108929,3 +108929,304 @@ wenn ich das Geschick meines Volkes wende.“
 > Vers 7: „Wie Adam“ – das kann bedeuten: wie der erste Mensch im Paradies, der Gottes Gebot brach. Oder „Adam“ ist hier ein Ortsname (eine Stadt am Jordan, vgl. Josua 3,16); darauf deutet das Wort „dort“ hin. Beides ist möglich.
 > Vers 8–9: Schreckliche Zustände: Gewalt und Mord, sogar durch Priester. Die Menschen, die Gott dienen sollten, sind zu Räubern geworden.
 > Vers 11: Auch Juda wird seine „Ernte“ bekommen, also das Ergebnis seiner Taten. Aber der Vers endet mit Hoffnung: „wenn ich das Geschick meines Volkes wende“.
+
+## Hosea – Kapitel 7
+#### Ein Kuchen, der nicht gewendet wurde
+
+---
+
+### Glühend wie ein Backofen (Vers 1–7)
+
+<sup>1</sup>Wenn ich Israel heilen will,
+dann wird die Schuld Ephraims aufgedeckt
+und die Bosheit Samarias.
+Denn sie üben Betrug,
+der Dieb dringt ein,
+und die Räuberbande plündert draußen.
+<sup>2</sup>Sie bedenken nicht in ihrem Herzen,
+dass ich mich an all ihre Bosheit erinnere.
+Jetzt haben ihre eigenen Taten sie umzingelt.
+Sie stehen mir vor Augen.
+<sup>3</sup>Mit ihrer Bosheit erfreuen sie den König
+und mit ihren Lügen die Fürsten.
+<sup>4</sup>Sie sind alle Ehebrecher.
+Sie glühen wie ein Ofen,
+bei dem der Bäcker aufhört zu schüren,
+vom Kneten des Teiges an,
+bis er durchsäuert ist.
+<sup>5</sup>Am Tag unseres Königs
+machten sich die Fürsten krank von der Glut des Weins.
+Er reichte den Spöttern die Hand.
+<sup>6</sup>Denn sie haben ihr Herz bereitet wie einen Ofen,
+während sie auf der Lauer liegen.
+Ihr Zorn schwelt die ganze Nacht.
+Am Morgen brennt er wie loderndes Feuer.
+<sup>7</sup>Sie sind alle heiß wie ein Ofen
+und verzehren ihre Richter.
+Alle ihre Könige sind gefallen.
+Keiner unter ihnen ruft mich an.
+
+> **Was bedeutet das?**
+> Vers 1: Ein trauriger Satz: Gott will heilen, aber je mehr er hinschaut, desto mehr Bosheit kommt zum Vorschein.
+> Vers 3–7: Hosea beschreibt die politischen Zustände im Nordreich. In seiner Zeit wurden in kurzer Folge mehrere Könige ermordet (vgl. 2. Könige 15). Die Verschwörer schmeicheln dem König, betrinken sich mit ihm beim Fest, und dann schlagen sie zu.
+> Das Bild vom Backofen: Ihre Leidenschaft und ihre Mordlust glühen im Verborgenen wie ein Ofen über Nacht, und am Morgen brechen sie als Feuer aus.
+> Vers 7: „Keiner ruft mich an.“ In all dem Chaos fragt niemand nach Gott.
+
+---
+
+### Ephraim merkt es nicht (Vers 8–10)
+
+<sup>8</sup>Ephraim vermischt sich mit den Völkern.
+Ephraim ist ein Fladen, der nicht gewendet wurde.
+<sup>9</sup>Fremde haben seine Kraft verzehrt,
+und er merkt es nicht.
+Ja, graue Haare sind ihm gewachsen,
+und er merkt es nicht.
+<sup>10</sup>Der Hochmut Israels zeugt gegen ihn ins Gesicht.
+Doch sie sind trotz allem nicht zum HERRN, ihrem Gott, umgekehrt
+und haben ihn nicht gesucht.
+
+> **Was bedeutet das?**
+> Vers 8: Ein anschauliches Bild aus der Küche: ein Fladenbrot, das man auf dem heißen Stein vergessen hat zu wenden. Auf einer Seite verbrannt, auf der anderen roh. Halb so, halb so. Israel ist weder ganz bei Gott noch ganz bei den Völkern. Es ist unbrauchbar.
+> Vers 9: Ein trauriges Bild: Israel wird alt und schwach, ohne es zu merken. Graue Haare wachsen, aber es denkt, es sei noch jung und stark. Die fremden Mächte haben seine Kraft aufgezehrt.
+> Für heute: Manchmal merken wir nicht, wie uns Dinge langsam schwächen, bis es fast zu spät ist.
+
+---
+
+### Eine einfältige Taube (Vers 11–16)
+
+<sup>11</sup>„Ephraim ist wie eine einfältige Taube,
+ohne Verstand.
+Sie rufen nach Ägypten.
+Sie gehen nach Assyrien.
+<sup>12</sup>Wenn sie gehen,
+werde ich mein Netz über sie ausbreiten.
+Ich werde sie herunterholen wie die Vögel des Himmels.
+Ich werde sie züchtigen,
+wie es ihrer Gemeinde angekündigt wurde.
+<sup>13</sup>Wehe ihnen!
+Denn sie sind von mir weggeflohen.
+Verderben über sie!
+Denn sie haben sich gegen mich vergangen.
+Ich wollte sie erlösen,
+aber sie haben Lügen gegen mich geredet.
+<sup>14</sup>Sie haben nicht von Herzen zu mir geschrien,
+sondern sie heulen auf ihren Lagern.
+Um Korn und Most kommen sie zusammen.
+Sie wenden sich von mir ab.
+<sup>15</sup>Obwohl ich ihre Arme unterwiesen und gestärkt habe,
+ersinnen sie Böses gegen mich.
+<sup>16</sup>Sie kehren um, aber nicht zum Höchsten.
+Sie sind wie ein schlaffer Bogen.
+Ihre Fürsten werden durch das Schwert fallen
+wegen der Wut ihrer Zunge.
+Das wird ihr Spott im Land Ägypten sein.
+
+> **Was bedeutet das?**
+> Vers 11: Israel ist wie eine verwirrte Taube, die hin und her flattert: mal nach Ägypten, mal nach Assyrien. Es sucht Schutz bei den Großmächten, aber nicht bei Gott.
+> Vers 13: „Ich wollte sie erlösen.“ Gott war bereit zu helfen. Aber sie haben sich abgewandt.
+> Vers 14: Sie heulen und jammern auf ihren Lagern, aber nur weil sie Hunger haben (Korn und Most). Sie schreien nicht „von Herzen“ zu Gott. Es geht ihnen um das Essen, nicht um die Beziehung zu Gott.
+> Vers 16: „Sie kehren um, aber nicht zum Höchsten.“ Sie ändern die Richtung, aber zum Falschen. Wie ein schlaffer Bogen, der nicht trifft.
+
+## Hosea – Kapitel 8
+#### Wer Wind sät, wird Sturm ernten
+
+---
+
+### Ein Adler über dem Haus des HERRN (Vers 1–6)
+
+<sup>1</sup>„Setz die Trompete an deine Lippen!
+Etwas wie ein Adler ist über dem Haus des HERRN,
+weil sie meinen Bund übertreten
+und sich gegen mein Gesetz aufgelehnt haben.
+<sup>2</sup>Sie schreien zu mir:
+‚Mein Gott, wir, Israel, kennen dich!‘
+<sup>3</sup>Israel hat das Gute verworfen.
+Der Feind wird ihn verfolgen.
+<sup>4</sup>Sie haben Könige eingesetzt, aber nicht durch mich.
+Sie haben Fürsten gemacht, und ich habe es nicht gebilligt.
+Aus ihrem Silber und ihrem Gold
+haben sie sich Götzen gemacht,
+damit sie ausgerottet werden.
+<sup>5</sup>Samaria soll sein Kalb wegwerfen!
+Mein Zorn ist gegen sie entbrannt!
+Wie lange noch, bis sie zur Reinheit fähig sind?
+<sup>6</sup>Denn auch dieses stammt aus Israel!
+Ein Handwerker hat es gemacht,
+und es ist kein Gott.
+Ja, das Kalb Samarias wird in Stücke zerschlagen werden.
+
+> **Was bedeutet das?**
+> Vers 1: Alarm! Wie ein Raubvogel kreist der Feind (Assyrien) schon über dem Land.
+> Vers 2: Das Volk sagt fromm: „Wir kennen dich, Gott!“ Aber in Vers 3 sagt Gott: „Sie haben das Gute verworfen.“ Fromme Worte sind nicht dasselbe wie Gott wirklich kennen.
+> Vers 4: Die Könige im Nordreich kamen oft durch Mord an die Macht, nicht durch Gottes Willen.
+> Vers 5–6: Das „Kalb Samarias“: König Jerobeam I. hatte im Nordreich goldene Stierbilder aufgestellt (1. Könige 12,28–29). Hosea spottet: „Ein Handwerker hat es gemacht. Es ist kein Gott!“ Wie kann etwas, das ein Mensch gemacht hat, ein Gott sein?
+
+---
+
+### Wind säen, Sturm ernten (Vers 7–10)
+
+<sup>7</sup>Denn sie säen Wind,
+und sie werden Sturm ernten.
+Es gibt keinen Halm, der steht.
+Die Ähre bringt kein Mehl.
+Und wenn sie doch etwas bringt,
+werden Fremde es verschlingen.
+<sup>8</sup>Israel ist verschlungen.
+Jetzt sind sie unter den Völkern wie ein wertloses Gefäß.
+<sup>9</sup>Denn sie sind nach Assyrien hinaufgezogen,
+wie ein Wildesel, der allein umherstreift.
+Ephraim hat sich Liebhaber gemietet.
+<sup>10</sup>Aber auch wenn sie sich unter den Völkern verkaufen,
+werde ich sie jetzt sammeln.
+Und sie beginnen zu schwinden
+unter der Last des Königs der Fürsten.
+
+> **Was bedeutet das?**
+> Vers 7: Ein berühmtes Sprichwort, das bis heute benutzt wird: „Wer Wind sät, wird Sturm ernten.“ Das heißt: Wer Schlechtes tut, bekommt am Ende noch viel Schlimmeres zurück. Kleine falsche Entscheidungen können große, schlimme Folgen haben.
+> Vers 9: Ein Wildesel läuft allein umher. Israel ist allein und einsam, weil es sich von Gott getrennt hat. Und es muss seine „Liebhaber“ (Bündnispartner) sogar bezahlen, mit hohen Tributzahlungen an Assyrien (vgl. 2. Könige 15,19–20).
+> Vers 10: Der „König der Fürsten“ ist der König von Assyrien. Die Tributlast wird Israel erdrücken.
+
+---
+
+### Viele Altäre, viel Sünde (Vers 11–14)
+
+<sup>11</sup>Weil Ephraim viele Altäre zum Sündigen gebaut hat,
+sind sie ihm zu Altären zum Sündigen geworden.
+<sup>12</sup>Ich habe ihm die vielen Dinge meines Gesetzes aufgeschrieben,
+aber sie wurden wie etwas Fremdes angesehen.
+<sup>13</sup>Was die Schlachtopfer meiner Gaben betrifft,
+so opfern sie Fleisch und essen es.
+Aber der HERR nimmt sie nicht an.
+Jetzt wird er an ihre Schuld denken
+und ihre Sünden heimsuchen.
+Sie werden nach Ägypten zurückkehren.
+<sup>14</sup>Denn Israel hat seinen Schöpfer vergessen
+und Paläste gebaut.
+Und Juda hat viele befestigte Städte gebaut.
+Aber ich werde Feuer in seine Städte senden,
+und es wird ihre Festungen verzehren.“
+
+> **Was bedeutet das?**
+> Vers 11: Mehr Altäre bedeuten nicht mehr Frömmigkeit. Im Gegenteil: Sie wurden zu Orten der Sünde.
+> Vers 12: Gott hat seine Gebote aufgeschrieben, aber das Volk behandelt sie wie etwas Fremdes, das sie nichts angeht.
+> Vers 13: Die Opfer sind nur noch Grillfeste. Sie essen das Fleisch, aber Gott nimmt die Opfer nicht an, weil kein echter Glaube dahintersteht.
+> „Sie werden nach Ägypten zurückkehren“ – ein Bild dafür, dass sie wieder in die Unfreiheit geraten, aus der Gott sie einst befreit hat.
+> Vers 14: „Israel hat seinen Schöpfer vergessen und Paläste gebaut.“ Sie vertrauen auf Reichtum und Festungen statt auf Gott. Aber Mauern und Paläste schützen nicht, wenn man Gott vergisst.
+
+## Hosea – Kapitel 9
+#### Die Tage der Abrechnung
+
+---
+
+### Keine Freude mehr (Vers 1–6)
+
+<sup>1</sup>Freue dich nicht, Israel,
+und juble nicht wie die Völker,
+denn du bist deinem Gott untreu gewesen.
+Du liebst den Hurenlohn auf allen Dreschplätzen.
+<sup>2</sup>Dreschplatz und Kelter werden sie nicht ernähren,
+und der Most wird ihr versagen.
+<sup>3</sup>Sie werden nicht im Land des HERRN wohnen bleiben.
+Sondern Ephraim wird nach Ägypten zurückkehren,
+und in Assyrien werden sie Unreines essen.
+<sup>4</sup>Sie werden dem HERRN keinen Wein als Trankopfer ausgießen,
+und sie werden ihm nicht gefallen.
+Ihre Opfer werden für sie sein wie Trauerbrot.
+Alle, die davon essen, werden unrein.
+Denn ihr Brot wird nur für ihren Hunger sein.
+Es wird nicht in das Haus des HERRN kommen.
+<sup>5</sup>Was werdet ihr tun am Tag der Festversammlung
+und am Tag des Festes des HERRN?
+<sup>6</sup>Denn siehe, wenn sie vor der Verwüstung fliehen,
+wird Ägypten sie sammeln.
+Memphis wird sie begraben.
+Brennnesseln werden ihre kostbaren Silbersachen in Besitz nehmen.
+Dornen werden in ihren Zelten sein.
+
+> **Was bedeutet das?**
+> Vers 1: Das Erntefest wird gefeiert, aber Hosea ruft: „Freut euch nicht!“ Die Menschen dankten auf den Dreschplätzen dem Fruchtbarkeitsgott Baal für die Ernte. Das nennt Hosea „Hurenlohn“: Sie glauben, die Ernte sei der Lohn von Baal.
+> Vers 3–4: Im Exil (in Assyrien) werden sie keine Feste für Gott mehr feiern können. Sie werden unreines Essen essen müssen. Ihr Brot wird wie „Trauerbrot“ sein: Brot in einem Haus, in dem jemand gestorben ist, galt als unrein.
+> Vers 5: Eine traurige Frage: „Was werdet ihr an den Festtagen tun?“ Ohne Tempel und ohne Land gibt es keine Feste mehr.
+> Vers 6: Memphis in Ägypten war bekannt für seine großen Friedhöfe. Wer nach Ägypten flieht, wird dort begraben werden. Das verlassene Land wird von Nesseln und Dornen überwuchert.
+
+---
+
+### Der Prophet ist ein Narr? (Vers 7–9)
+
+<sup>7</sup>Die Tage der Heimsuchung sind gekommen.
+Die Tage der Abrechnung sind gekommen.
+Israel wird den Propheten für einen Narren halten
+und den Mann des Geistes für verrückt,
+wegen der Menge deiner Sünden
+und weil die Feindseligkeit groß ist.
+<sup>8</sup>Ein Prophet wacht über Ephraim mit meinem Gott.
+Doch auf all seinen Wegen ist das Netz eines Vogelfängers,
+und Feindseligkeit im Haus seines Gottes.
+<sup>9</sup>Sie haben sich tief verdorben
+wie in den Tagen von Gibea.
+Er wird an ihre Schuld denken.
+Er wird ihre Sünden heimsuchen.
+
+> **Was bedeutet das?**
+> Vers 7: Die Menschen sagen über Hosea: „Der Prophet ist ein Narr, verrückt!“ Wer unbequeme Wahrheiten sagt, wird oft lächerlich gemacht.
+> Vers 8: Der Prophet ist wie ein Wächter (vgl. Hesekiel 3,17). Aber man stellt ihm Fallen. Sogar im Tempel begegnet man ihm feindselig.
+> Vers 9: „Wie in den Tagen von Gibea“ erinnert an ein schreckliches Verbrechen in Gibea: An einer Frau wurde dort grausame sexuelle Gewalt verübt, die zu ihrem Tod führte (Richter 19–21). Hosea sagt: So tief ist das Volk gesunken.
+
+---
+
+### Wie Trauben in der Wüste (Vers 10–14)
+
+<sup>10</sup>Wie Trauben in der Wüste fand ich Israel.
+Wie die ersten Früchte am Feigenbaum in seiner ersten Zeit
+sah ich eure Väter.
+Aber sie kamen nach Baal-Peor
+und weihten sich der Schande
+und wurden abscheulich wie das, was sie liebten.
+<sup>11</sup>Ephraims Herrlichkeit wird wie ein Vogel davonfliegen.
+Es wird keine Geburt geben,
+keine Schwangerschaft
+und keine Empfängnis.
+<sup>12</sup>Selbst wenn sie ihre Kinder großziehen,
+werde ich sie doch kinderlos machen,
+sodass kein Mensch übrig bleibt.
+Ja, wehe auch ihnen, wenn ich mich von ihnen abwende!
+<sup>13</sup>Ich habe Ephraim gesehen wie Tyrus,
+an einem schönen Ort gepflanzt.
+Aber Ephraim wird seine Kinder zum Mörder hinausführen.
+<sup>14</sup>Gib ihnen, HERR – was sollst du ihnen geben?
+Gib ihnen einen Mutterleib, der fehlgebärt,
+und vertrocknete Brüste.
+
+> **Was bedeutet das?**
+> Vers 10: Gott erinnert sich zärtlich an den Anfang: Als er Israel fand, war es so kostbar wie Trauben in der Wüste oder wie die allerersten Feigen. Eine Liebe auf den ersten Blick!
+> Aber bei Baal-Peor betete Israel schon in der Wüste den Gott Baal an (4. Mose 25). „Sie wurden abscheulich wie das, was sie liebten“: Wir werden dem ähnlich, was wir lieben und verehren.
+> Vers 11–14: Diese Verse sind sehr hart. Der Fruchtbarkeitsgott Baal sollte Kinder schenken. Hosea sagt: Genau das Gegenteil wird geschehen. Der Götzendienst bringt Unfruchtbarkeit und Tod.
+> Vers 14: Hosea selbst bricht ab und stockt: „Gib ihnen, HERR … was sollst du ihnen geben?“ Man spürt seinen Schmerz. Er weiß nicht, was er beten soll.
+> Sehr wichtig: Diese Verse beschreiben ein Gericht über ein ganzes Volk in einer bestimmten Zeit. Sie bedeuten auf keinen Fall, dass eine Fehlgeburt, eine Totgeburt oder ungewollte Kinderlosigkeit eine Strafe Gottes für eine Person wäre. Wer ein Kind verloren hat, trägt keine Schuld. Wer darüber reden möchte: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Wanderer unter den Völkern (Vers 15–17)
+
+<sup>15</sup>„All ihre Bosheit ist in Gilgal,
+denn dort habe ich sie gehasst.
+Wegen der Bosheit ihrer Taten
+werde ich sie aus meinem Haus vertreiben.
+Ich werde sie nicht mehr lieben.
+Alle ihre Fürsten sind Abtrünnige.
+<sup>16</sup>Ephraim ist geschlagen.
+Ihre Wurzel ist vertrocknet.
+Sie werden keine Frucht bringen.
+Selbst wenn sie gebären,
+werde ich die Lieblinge ihres Leibes töten.“
+<sup>17</sup>Mein Gott wird sie verwerfen,
+weil sie nicht auf ihn gehört haben.
+Und sie werden Flüchtlinge unter den Völkern sein.
+
+> **Was bedeutet das?**
+> Vers 15: In Gilgal hatte Israel einst seinen ersten König Saul eingesetzt (1. Samuel 11,15), obwohl Gott selbst ihr König sein wollte. Dort gab es später auch einen Götzenkult.
+> „Ich werde sie nicht mehr lieben.“ Das ist ein schrecklicher Satz. Aber man muss das ganze Buch lesen: In Kapitel 11 und 14 sagt Gott genau das Gegenteil: „Wie könnte ich dich preisgeben?“ und „Ich will sie aus freien Stücken lieben“ (14,4). Gottes Zorn ist echt, aber seine Liebe hat das letzte Wort.
+> Vers 16: Ein Wortspiel: „Ephraim“ klingt wie „fruchtbar“. Aber jetzt wird Ephraim keine Frucht mehr bringen.
+> Vers 17: „Flüchtlinge unter den Völkern“. Das traf ein: Nach 722 vor Christus wurden die Israeliten des Nordreichs von den Assyrern verschleppt und unter die Völker zerstreut.
+> Auch dieser Vers ist kein Freibrief für Gewalt gegen Kinder. Kinder sind in der Bibel immer schutzwürdig (vgl. Markus 10,14: „Lasst die Kinder zu mir kommen“).
