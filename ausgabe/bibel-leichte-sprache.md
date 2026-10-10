@@ -108340,14 +108340,14 @@ sind es tausendzweihundertneunzig Tage.
 und tausenddreihundertfünfunddreißig Tage erreicht.
 <sup>13</sup>Du aber, geh hin bis zum Ende.
 Du wirst ruhen
-und am Ende der Tage zu deinem Erbteil auferstehen.“
+und am Ende der Tage in deinem Erbteil stehen.“
 
 > **Was bedeutet das?**
 > Vers 6–7: Die Frage aller Leidenden: „Wie lange noch?“ Die Antwort: „Eine Zeit, Zeiten und eine halbe Zeit“, also etwa dreieinhalb Jahre (vgl. 7,25). Eine begrenzte Zeit. Das Leiden hat ein Ende.
 > Vers 8: Ein ehrlicher Satz: „Ich hörte es, aber ich verstand es nicht.“ Sogar Daniel versteht nicht alles. Auch wir müssen nicht jede Zahl und jedes Bild der Bibel verstehen.
 > Vers 11–12: 1290 Tage und 1335 Tage. Was genau diese Zahlen bedeuten, ist unklar. Sie sind etwas länger als dreieinhalb Jahre. Vielleicht soll gesagt werden: Wenn es länger dauert als erwartet, gebt nicht auf. „Glückselig ist, wer ausharrt.“
 > Wichtig: Immer wieder haben Menschen versucht, mit diesen Zahlen das Datum des Weltendes auszurechnen. Alle diese Berechnungen sind gescheitert. Jesus sagt: „Von jenem Tag aber und jener Stunde weiß niemand“ (Markus 13,32).
-> Vers 13: Der letzte Vers des Buches ist ein persönliches Versprechen an Daniel: „Geh deinen Weg bis zum Ende. Du wirst ruhen, und am Ende der Tage wirst du auferstehen zu deinem Erbteil.“ Ein tröstliches Wort für jeden, der treu gelebt hat.
+> Vers 13: Der letzte Vers des Buches ist ein persönliches Versprechen an Daniel: „Geh deinen Weg bis zum Ende. Du wirst ruhen, und am Ende der Tage wirst du in deinem Erbteil stehen.“ Viele verstehen das als Zusage der Auferstehung: Daniel wird wieder aufstehen und seinen Platz bei Gott bekommen. Ein tröstliches Wort für jeden, der treu gelebt hat.
 
 ---
 
