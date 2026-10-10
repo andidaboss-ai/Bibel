@@ -40,7 +40,7 @@ und Jeremia sank in den Schlamm.
 
 ## Ebed-Melech rettet Jeremia (Vers 7–13)
 
-[7] Ebed-Melech aber, der Kuschit, ein Hofbeamter, der im Haus des Königs war,
+[7] Ebed-Melech aber, der Kuschit, ein Eunuch, der im Haus des Königs war,
 hörte, dass man Jeremia in die Zisterne geworfen hatte.
 Der König saß damals im Benjamintor.
 [8] Da ging Ebed-Melech aus dem Haus des Königs hinaus
@@ -67,7 +67,7 @@ und holten ihn aus der Zisterne heraus.
 Und Jeremia blieb im Wachhof.
 
 > **Was bedeutet das?**
-> Der Held dieser Geschichte ist Ebed-Melech. Sein Name bedeutet „Diener des Königs“. Er ist ein Kuschit, also ein Afrikaner aus dem Land südlich von Ägypten (das WEB hat „the Ethiopian“). Er ist ein Fremder, ein Hofbeamter (wörtlich „Eunuch“), und vielleicht sogar ein Sklave. Ausgerechnet er hat den Mut, den der König und die Fürsten nicht haben.
+> Der Held dieser Geschichte ist Ebed-Melech. Sein Name bedeutet „Diener des Königs“. Er ist ein Kuschit, also ein Afrikaner aus dem Land südlich von Ägypten (das WEB hat „the Ethiopian“). Er ist ein Fremder und ein Eunuch, also ein Hofbeamter, der oft wenig Ansehen hatte. Ausgerechnet er hat den Mut, den der König und die Fürsten nicht haben.
 > Vers 9: Er geht direkt zum König und sagt öffentlich: Was diese Männer getan haben, ist böse!
 > Vers 11–12: Ein schönes Detail: Ebed-Melech denkt an alles. Er besorgt alte Lumpen, damit die Stricke nicht in Jeremias Achseln schneiden. Er rettet nicht nur sein Leben, sondern ist auch fürsorglich und behutsam.
 > Ebed-Melech zeigt: Menschlichkeit und Mut hängen nicht von Herkunft, Hautfarbe oder Stellung ab. Gott belohnt ihn später dafür (39,15–18).

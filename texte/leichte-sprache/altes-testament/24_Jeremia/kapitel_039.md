@@ -12,8 +12,8 @@ gegen Jerusalem und belagerten es.
 wurde eine Bresche in die Stadt geschlagen.
 [3] Alle Fürsten des Königs von Babel kamen herein
 und setzten sich in das Mitteltor:
-Nergal-Sarezer, Samgar-Nebo, Sarsechim, der Oberkämmerer,
-Nergal-Sarezer, der Obermagier,
+Nergal-Sarezer, Samgar-Nebo, Sarsechim, der Rabsaris,
+Nergal-Sarezer, der Rabmag,
 und alle übrigen Fürsten des Königs von Babel.
 [4] Als Zidkija, der König von Juda, und alle Kriegsleute sie sahen,
 flohen sie und zogen bei Nacht aus der Stadt hinaus,
@@ -44,6 +44,7 @@ und gab ihnen zu jener Zeit Weinberge und Felder.
 > **Was bedeutet das?**
 > Jetzt geschieht, was Jeremia 40 Jahre lang angekündigt hatte.
 > Vers 1–2: Die Belagerung dauerte etwa eineinhalb Jahre (588–587 vor Christus). Dann brachen die Babylonier durch die Mauer.
+> Vers 3: „Rabsaris“ und „Rabmag“ sind babylonische Amtstitel, etwa „Oberster Hofbeamter“ und „Oberster der Magier“ (Berater).
 > Vers 4–5: König Zidkija flieht in der Nacht, wird aber bei Jericho gefangen.
 > Vers 6–7: Was dann geschieht, ist grausam: Zidkija muss mit ansehen, wie seine Söhne getötet werden. Danach werden ihm die Augen ausgestochen. Das Letzte, was er sah, war der Tod seiner Kinder. Die Bibel berichtet diese Grausamkeit nüchtern. Sie zeigt, wie schrecklich Krieg ist. Gewalt gegen Gefangene und Kinder ist ein Verbrechen.
 > Vers 8: Der Königspalast und die Häuser werden verbrannt, die Mauern niedergerissen. (Die Zerstörung des Tempels wird in Kapitel 52 erzählt.)
@@ -60,8 +61,8 @@ Nebusaradan, dem Obersten der Leibwache, Befehl gegeben und gesagt:
 Tu ihm nichts Böses,
 sondern tu mit ihm, was er dir sagt.“
 [13] Da sandten Nebusaradan, der Oberste der Leibwache,
-und Nebuschasban, der Oberkämmerer,
-und Nergal-Sarezer, der Obermagier,
+und Nebuschasban, der Rabsaris,
+und Nergal-Sarezer, der Rabmag,
 und alle Obersten des Königs von Babel hin
 [14] und ließen Jeremia aus dem Wachhof holen
 und übergaben ihn Gedalja, dem Sohn Ahikams, des Sohnes Schafans,
