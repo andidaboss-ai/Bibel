@@ -111881,3 +111881,275 @@ denn sie sind von dir weg in die Gefangenschaft gezogen!
 > Vers 15: Adullam ist eine Höhle, in der sich David einst versteckt hatte (1. Samuel 22,1). Die „Herrlichkeit Israels“, also die Führenden, müssen sich wieder verstecken wie damals David auf der Flucht.
 > Vers 16: Eltern trauern um ihre Kinder, die in die Gefangenschaft geführt werden. Sich die Haare abzuschneiden war ein Zeichen tiefer Trauer.
 > Viele der hier genannten Städte wurden im Jahr 701 vor Christus vom assyrischen König Sanherib erobert.
+
+## Micha – Kapitel 2
+#### Wehe denen, die Felder rauben
+
+---
+
+### Die Landräuber (Vers 1–5)
+
+<sup>1</sup>Wehe denen, die Unrecht ausdenken
+und auf ihren Betten Böses planen!
+Wenn es Morgen wird, führen sie es aus,
+weil es in der Macht ihrer Hand liegt.
+<sup>2</sup>Sie begehren Felder und reißen sie an sich,
+und Häuser, und nehmen sie weg.
+Sie unterdrücken einen Mann und sein Haus,
+einen Mann und sein Erbe.
+<sup>3</sup>Darum spricht der HERR:
+„Siehe, ich plane gegen diese Sippe ein Unheil,
+aus dem ihr eure Hälse nicht herausziehen werdet.
+Und ihr werdet nicht mehr stolz einhergehen,
+denn es ist eine böse Zeit.
+<sup>4</sup>An jenem Tag wird man ein Spottlied über euch anstimmen
+und eine bittere Klage anstimmen und sagen:
+‚Wir sind völlig verwüstet!
+Den Anteil meines Volkes teilt man auf.
+Ja, er nimmt ihn mir weg
+und teilt unsere Felder den Abtrünnigen zu!‘“
+<sup>5</sup>Darum wirst du niemanden haben,
+der in der Gemeinde des HERRN die Messschnur für ein Los wirft.
+
+> **Was bedeutet das?**
+> Vers 1: Diese Menschen liegen nachts wach und überlegen, wie sie andere übervorteilen können. Und am Morgen tun sie es, weil sie die Macht dazu haben.
+> Vers 2: Reiche Großgrundbesitzer nehmen den einfachen Bauern ihre Felder und Häuser weg, zum Beispiel durch Schulden, Wucher oder bestochene Richter. In Israel war das Land ein Erbe von Gott. Jede Familie sollte ihr eigenes Stück Land behalten (3. Mose 25,23). Wer einer Familie ihr Land nahm, nahm ihr die Lebensgrundlage.
+> Das erinnert an die Geschichte von Nabots Weinberg (1. Könige 21) und an das Gebot „Du sollst nicht begehren …“ (2. Mose 20,17).
+> Vers 3–5: Die Strafe passt zur Schuld: Wer anderen das Land nimmt, wird selbst sein Land verlieren. Bei einer neuen Landverteilung durch das Los werden sie keinen Anteil bekommen.
+
+---
+
+### „Predigt nicht so!“ (Vers 6–11)
+
+<sup>6</sup>„Predigt nicht!“, so predigen sie.
+„Man soll nicht über diese Dinge predigen.
+Die Schande wird uns nicht einholen.“
+<sup>7</sup>Darf man das sagen, Haus Jakob:
+„Ist der Geist des HERRN ungeduldig?
+Sind das seine Taten?“
+Tun meine Worte nicht dem Gutes,
+der aufrichtig lebt?
+<sup>8</sup>Aber seit Kurzem steht mein Volk auf wie ein Feind.
+Ihr reißt den Mantel samt dem Gewand
+denen weg, die ahnungslos vorübergehen,
+die aus dem Krieg zurückkehren.
+<sup>9</sup>Die Frauen meines Volkes vertreibt ihr
+aus ihren schönen Häusern.
+Ihren kleinen Kindern nehmt ihr meinen Segen für immer weg.
+<sup>10</sup>Steht auf und geht fort!
+Denn dies ist nicht euer Ruheplatz,
+wegen der Unreinheit, die zerstört,
+mit schlimmer Zerstörung.
+<sup>11</sup>Wenn ein Mann käme, der im Geist der Lüge wandelt, und lügt:
+„Ich will dir predigen von Wein und starkem Getränk“,
+der wäre der Prophet für dieses Volk.
+
+> **Was bedeutet das?**
+> Vers 6: Die Mächtigen wollen Michas Botschaft nicht hören: „Hör auf zu predigen! Uns wird schon nichts passieren.“ Das kennen wir schon von Amos (Amos 7,12–13).
+> Vers 7: Gott antwortet: Meine Worte sind gut für alle, die aufrichtig leben. Nur wer Unrecht tut, empfindet sie als Bedrohung.
+> Vers 8–9: Was die Reichen tun: Sie berauben ahnungslose Menschen, sogar heimkehrende Soldaten. Sie vertreiben Witwen und Frauen aus ihren Häusern. Den Kindern nehmen sie die Zukunft.
+> Vers 10: Ihnen wird gesagt: Ihr werdet selbst aus dem Land vertrieben werden.
+> Vers 11: Mit beißendem Spott: Das Volk will einen Prediger, der ihnen Wein und Bier verspricht, also angenehme Dinge. Die Wahrheit wollen sie nicht hören.
+> Für heute: Wer Menschen aus ihren Wohnungen vertreibt, Schwache ausnutzt und nur angenehme Botschaften hören will, sollte Michas Worte ernst nehmen.
+
+---
+
+### Der Hirte sammelt seine Herde (Vers 12–13)
+
+<sup>12</sup>Ich werde dich ganz gewiss sammeln, Jakob, dich ganz.
+Ich werde den Rest Israels gewiss zusammenbringen.
+Ich werde sie zusammenstellen wie Schafe von Bozra,
+wie eine Herde mitten auf ihrer Weide.
+Es wird von Menschen wimmeln.
+<sup>13</sup>Der Durchbrecher zieht vor ihnen hinauf.
+Sie brechen durch das Tor und ziehen hinaus.
+Ihr König zieht vor ihnen her,
+und der HERR an ihrer Spitze.
+
+> **Was bedeutet das?**
+> Mitten in den Gerichtsworten eine Verheißung: Gott wird den Rest seines Volkes sammeln, wie ein Hirte seine Schafe. Bozra war eine Stadt in Edom, bekannt für ihre Schafherden.
+> Vers 13: Gott selbst ist der „Durchbrecher“. Er bricht wie ein Anführer das Tor auf und führt sein Volk in die Freiheit. Wie beim Auszug aus Ägypten geht Gott an der Spitze.
+> Manche Ausleger lesen diese Verse auch als Worte der falschen Propheten, die billigen Trost versprechen. Die meisten verstehen sie als echte Verheißung Gottes.
+
+## Micha – Kapitel 3
+#### Gegen die Führer, Priester und Propheten
+
+---
+
+### Die Führer fressen das Volk (Vers 1–4)
+
+<sup>1</sup>Ich sagte:
+„Hört doch, ihr Häupter Jakobs
+und ihr Anführer des Hauses Israel!
+Ist es nicht eure Aufgabe, das Recht zu kennen?
+<sup>2</sup>Ihr hasst das Gute und liebt das Böse.
+Ihr reißt ihnen die Haut ab
+und das Fleisch von ihren Knochen.
+<sup>3</sup>Ihr esst das Fleisch meines Volkes,
+zieht ihnen die Haut ab,
+zerbrecht ihre Knochen
+und zerhackt sie wie für den Topf,
+wie Fleisch mitten im Kessel.
+<sup>4</sup>Dann werden sie zum HERRN schreien,
+aber er wird ihnen nicht antworten.
+Ja, er wird zu jener Zeit sein Angesicht vor ihnen verbergen,
+weil sie ihre Taten böse gemacht haben.“
+
+> **Was bedeutet das?**
+> Micha spricht die Mächtigen an: Richter, Beamte und Anführer. Ihre Aufgabe wäre es, für Recht zu sorgen.
+> Vers 2–3: Ein schockierendes Bild: Sie behandeln das Volk wie Schlachtvieh. Sie ziehen ihnen die Haut ab und kochen sie im Topf. Das ist natürlich bildlich gemeint. Es heißt: Sie beuten die Menschen bis aufs Letzte aus. Ihnen bleibt nichts mehr.
+> Vers 4: Wer selbst keine Ohren für die Schreie der Armen hat, dem wird Gott in der Not auch nicht antworten (vgl. Sprüche 21,13).
+
+---
+
+### Gegen die falschen Propheten (Vers 5–8)
+
+<sup>5</sup>So spricht der HERR über die Propheten,
+die mein Volk in die Irre führen:
+Wenn sie etwas zu beißen haben, rufen sie: „Friede!“
+Aber wer ihnen nichts in den Mund gibt,
+gegen den erklären sie einen heiligen Krieg.
+<sup>6</sup>„Darum wird es Nacht über euch werden, ohne Vision,
+und es wird dunkel für euch werden, ohne Wahrsagung.
+Die Sonne wird über den Propheten untergehen,
+und der Tag wird über ihnen schwarz werden.
+<sup>7</sup>Die Seher werden beschämt
+und die Wahrsager zuschanden werden.
+Ja, sie werden alle ihre Lippen verhüllen,
+denn es gibt keine Antwort von Gott.“
+<sup>8</sup>Ich aber bin voller Kraft durch den Geist des HERRN
+und voller Recht und Stärke,
+um Jakob seinen Ungehorsam zu verkünden
+und Israel seine Sünde.
+
+> **Was bedeutet das?**
+> Vers 5: Die falschen Propheten sind käuflich: Wer sie bezahlt, dem versprechen sie „Frieden“, also gute Zeiten. Wer nicht zahlt, dem drohen sie. Ihre Botschaft hängt vom Geld ab, nicht von Gott.
+> Vers 6–7: Die Strafe: Gott wird schweigen. Sie werden keine Visionen mehr haben. Die Lippen zu verhüllen war ein Zeichen von Scham und Trauer.
+> Vers 8: Micha stellt sich bewusst dagegen: Er ist nicht käuflich. Er ist erfüllt vom Geist Gottes und hat den Mut, die Wahrheit zu sagen, auch wenn sie unbequem ist.
+
+---
+
+### Zion wird wie ein Acker gepflügt (Vers 9–12)
+
+<sup>9</sup>Hört doch dies, ihr Häupter des Hauses Jakob
+und ihr Anführer des Hauses Israel,
+die ihr das Recht verabscheut
+und alles verdreht, was gerade ist,
+<sup>10</sup>die ihr Zion mit Blut baut
+und Jerusalem mit Unrecht!
+<sup>11</sup>Ihre Führer richten für Bestechungsgeld,
+ihre Priester lehren für Lohn,
+und ihre Propheten wahrsagen für Geld.
+Und doch stützen sie sich auf den HERRN und sagen:
+„Ist nicht der HERR mitten unter uns?
+Kein Unheil wird über uns kommen.“
+<sup>12</sup>Darum wird Zion euretwegen wie ein Acker gepflügt werden,
+und Jerusalem wird zu Trümmerhaufen werden
+und der Tempelberg zu Waldhöhen.
+
+> **Was bedeutet das?**
+> Vers 10: Jerusalem wurde prachtvoll ausgebaut, aber mit „Blut und Unrecht“: auf Kosten der Armen, durch Ausbeutung und vielleicht Zwangsarbeit.
+> Vers 11: Alle sind käuflich: Richter, Priester, Propheten. Und trotzdem fühlen sie sich sicher: „Gott ist doch bei uns! Der Tempel steht doch hier!“ Sie benutzen Gott als Versicherung, ohne nach seinem Willen zu leben.
+> Vers 12: Die Antwort: Zion wird umgepflügt wie ein Acker. Der Tempelberg wird zu einem überwucherten Hügel.
+> Diese Worte waren so berühmt, dass man sie hundert Jahre später noch zitierte. Als der Prophet Jeremia wegen ähnlicher Worte getötet werden sollte, erinnerten einige Älteste daran: Micha hat das auch gesagt, und König Hiskija hat ihn nicht getötet, sondern ist umgekehrt (Jeremia 26,17–19).
+
+## Micha – Kapitel 4
+#### Schwerter zu Pflugscharen
+
+---
+
+### Frieden für alle Völker (Vers 1–5)
+
+<sup>1</sup>Aber in den letzten Tagen wird es geschehen,
+dass der Berg mit dem Haus des HERRN
+fest stehen wird als höchster der Berge
+und erhaben über die Hügel.
+Und Völker werden zu ihm strömen.
+<sup>2</sup>Viele Nationen werden hingehen und sagen:
+„Kommt! Lasst uns hinaufgehen zum Berg des HERRN
+und zum Haus des Gottes Jakobs!
+Er wird uns seine Wege lehren,
+und wir werden auf seinen Pfaden gehen.“
+Denn von Zion wird das Gesetz ausgehen
+und das Wort des HERRN von Jerusalem.
+<sup>3</sup>Er wird zwischen vielen Völkern richten
+und Recht sprechen für starke Nationen in der Ferne.
+Sie werden ihre Schwerter zu Pflugscharen schmieden
+und ihre Speere zu Winzermessern.
+Kein Volk wird gegen ein anderes das Schwert erheben,
+und sie werden den Krieg nicht mehr lernen.
+<sup>4</sup>Sondern jeder wird unter seinem Weinstock
+und unter seinem Feigenbaum sitzen.
+Niemand wird sie aufschrecken,
+denn der Mund des HERRN der Heere hat es gesagt.
+<sup>5</sup>Denn alle Völker mögen gehen,
+jedes im Namen seines Gottes.
+Wir aber werden im Namen des HERRN, unseres Gottes, gehen
+für immer und ewig.
+
+> **Was bedeutet das?**
+> Direkt nach der Ankündigung „Zion wird wie ein Acker gepflügt“ (3,12) kommt eine der schönsten Friedensvisionen der Bibel.
+> Vers 1–2: Am Ende der Zeit wird der Tempelberg zum Mittelpunkt der Welt. Nicht weil er der höchste Berg ist, sondern weil alle Völker dorthin kommen, um von Gott zu lernen. Sie kommen freiwillig, nicht gezwungen.
+> Vers 3: Gott wird Streit zwischen den Völkern schlichten. Dann braucht man keine Waffen mehr. Aus Schwertern werden Pflugscharen (der Teil des Pfluges, der die Erde aufreißt), aus Speeren Winzermesser. Waffen werden zu Werkzeugen für das Leben.
+> „Sie werden den Krieg nicht mehr lernen“: Es gibt keine Kriegsausbildung mehr.
+> Fast die gleichen Worte stehen in Jesaja 2,2–4. Die beiden Propheten lebten zur selben Zeit.
+> „Schwerter zu Pflugscharen“ wurde zum Motto der Friedensbewegung, besonders in der DDR in den 1980er Jahren. Eine Skulptur mit diesem Motiv steht vor dem UNO-Gebäude in New York.
+> Vers 4: Jeder sitzt friedlich unter seinem eigenen Weinstock und Feigenbaum. Das ist ein Bild für Sicherheit, Wohlstand und Frieden für alle, auch für die einfachen Leute, denen im Kapitel 2 das Land weggenommen wurde.
+> Vers 5: Bis dahin gehen die Völker ihre eigenen Wege. Aber Israel bleibt seinem Gott treu.
+
+---
+
+### Gott sammelt die Schwachen (Vers 6–8)
+
+<sup>6</sup>„An jenem Tag“, spricht der HERR,
+„werde ich das Hinkende sammeln
+und das Versprengte zusammenbringen
+und das, dem ich Leid zugefügt habe.
+<sup>7</sup>Ich werde das Hinkende zu einem Rest machen
+und das weit Verstoßene zu einem starken Volk.
+Und der HERR wird über sie König sein auf dem Berg Zion
+von nun an bis in Ewigkeit.“
+<sup>8</sup>Und du, Herdenturm,
+Hügel der Tochter Zion,
+zu dir wird sie kommen,
+ja, die frühere Herrschaft wird kommen,
+das Königtum der Tochter Jerusalem.
+
+> **Was bedeutet das?**
+> Vers 6–7: Gott sammelt gerade die Schwachen: die Hinkenden, die Vertriebenen, die Verletzten. Aus ihnen macht er ein starkes Volk. Gott beginnt Neues mit denen, die am Rand stehen.
+> Vers 8: „Herdenturm“ war ein Wachturm, von dem aus Hirten ihre Herden beschützten. Hier ist es ein Bild für Jerusalem. Die alte Herrschaft Davids wird zurückkommen.
+
+---
+
+### Wehen der Tochter Zion (Vers 9–13)
+
+<sup>9</sup>Nun, warum schreist du so laut?
+Ist kein König in dir?
+Ist dein Ratgeber umgekommen,
+dass dich Schmerzen ergriffen haben wie eine Frau in den Wehen?
+<sup>10</sup>Krümme dich und stöhne, Tochter Zion,
+wie eine Frau in den Wehen.
+Denn jetzt wirst du aus der Stadt hinausziehen
+und auf dem Feld wohnen
+und bis nach Babel kommen.
+Dort wirst du gerettet werden.
+Dort wird der HERR dich erlösen
+aus der Hand deiner Feinde.
+<sup>11</sup>Jetzt haben sich viele Völker gegen dich versammelt,
+die sagen: „Sie soll entweiht werden,
+und unser Auge soll sich an Zion weiden!“
+<sup>12</sup>Aber sie kennen die Gedanken des HERRN nicht
+und verstehen seinen Plan nicht.
+Denn er hat sie gesammelt wie Garben auf der Tenne.
+<sup>13</sup>Steh auf und drisch, Tochter Zion!
+Denn ich werde dein Horn wie Eisen machen
+und deine Hufe wie Bronze.
+Du wirst viele Völker zermalmen.
+Ihren Gewinn werde ich dem HERRN weihen
+und ihren Reichtum dem Herrn der ganzen Erde.
+
+> **Was bedeutet das?**
+> Vers 9–10: Jerusalem wird mit einer Frau in den Wehen verglichen. Die Schmerzen sind groß: Das Volk wird bis nach Babel in die Verbannung ziehen. Aber Wehen führen zu neuem Leben. Und gerade in Babel wird Gott sein Volk retten. Das geschah, als die Verbannten nach etwa 50 Jahren zurückkehren durften.
+> Vers 11: Die Feinde wollen sich daran weiden, wie Zion „entweiht“ wird, also geschändet und gedemütigt. Diese Sprache erinnert an die Gewalt, die Frauen im Krieg angetan wird. Gott stellt sich auf die Seite der Gedemütigten. Wer Gewalt erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016.
+> Vers 12–13: Die Völker denken, sie seien die Sieger. Aber Gott hat einen anderen Plan. Das Bild vom Dreschen: Ein Rind trampelt auf der Tenne das Getreide aus. So wird Zion die Feinde besiegen. Das ist Bildsprache für Gottes Gericht über die Unterdrücker. Am Ende gehört alles „dem Herrn der ganzen Erde“, nicht den Siegern. Die Verse sind kein Aufruf an Menschen zur Gewalt; das Ziel bleibt der Frieden von Vers 3.
+> In deutschen Bibeln hat dieses Kapitel 14 Verse. Der Vers 4,14 dort ist im WEB der erste Vers von Kapitel 5.
