@@ -96248,3 +96248,308 @@ weil du auf mich vertraut hast“, spricht der HERR.‘“
 > **Was bedeutet das?**
 > Gott vergisst nicht, was Ebed-Melech für Jeremia getan hat. Der fremde Mann aus Kusch, der den Mut hatte, Jeremia aus dem Schlamm zu ziehen, wird gerettet.
 > Vers 18: Der Grund: „Weil du auf mich vertraut hast.“ Ebed-Melech war kein Israelit, aber er hat Gott vertraut. Gottes Rettung gilt allen, die ihm vertrauen, egal woher sie kommen.
+
+## Jeremia – Kapitel 40
+#### Gedalja, der Statthalter
+
+---
+
+### Jeremia darf wählen (Vers 1–6)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam,
+nachdem Nebusaradan, der Oberste der Leibwache, ihn in Rama freigelassen hatte.
+Er hatte ihn in Ketten gefesselt mitgenommen
+unter all den Gefangenen aus Jerusalem und Juda,
+die nach Babel weggeführt wurden.
+<sup>2</sup>Der Oberste der Leibwache nahm Jeremia und sagte zu ihm:
+„Der HERR, dein Gott, hat dieses Unheil über diesen Ort angekündigt,
+<sup>3</sup>und der HERR hat es kommen lassen
+und getan, wie er geredet hatte.
+Weil ihr gegen den HERRN gesündigt
+und nicht auf seine Stimme gehört habt,
+darum ist euch das widerfahren.
+<sup>4</sup>Und jetzt, siehe, ich löse dich heute von den Ketten an deinen Händen.
+Wenn es dir gut erscheint, mit mir nach Babel zu kommen,
+dann komm, und ich werde für dich sorgen.
+Wenn es dir aber nicht gut erscheint, mit mir nach Babel zu kommen,
+dann lass es.
+Siehe, das ganze Land liegt vor dir.
+Wohin es dir gut und recht erscheint zu gehen, dahin geh.“
+<sup>5</sup>Als Jeremia noch nicht zurückgekehrt war, sagte er:
+„Kehr zurück zu Gedalja, dem Sohn Ahikams, des Sohnes Schafans,
+den der König von Babel über die Städte Judas eingesetzt hat,
+und wohne bei ihm mitten unter dem Volk,
+oder geh, wohin es dir recht erscheint zu gehen.“
+Und der Oberste der Leibwache gab ihm Verpflegung und ein Geschenk
+und ließ ihn gehen.
+<sup>6</sup>Da ging Jeremia zu Gedalja, dem Sohn Ahikams, nach Mizpa
+und wohnte bei ihm mitten unter dem Volk, das im Land übrig geblieben war.
+
+> **Was bedeutet das?**
+> Vers 1: Jeremia war zuerst mit den anderen Gefangenen in Ketten gelegt worden und bis Rama gebracht. Rama war ein Sammelplatz für die Verschleppten (vgl. 31,15: Rahel weint in Rama).
+> Vers 2–3: Erstaunlich: Ein babylonischer Offizier sagt, was Jeremia immer gesagt hat: Das ist geschehen, weil das Volk nicht auf Gott gehört hat. Selbst ein Fremder erkennt es.
+> Vers 4: Jeremia darf wählen: nach Babylon mit Versorgung, oder im zerstörten Land bleiben. Jeremia entscheidet sich, bei seinem Volk zu bleiben, bei den Armen im Land.
+> (Kapitel 39,14 erzählt kürzer, dass Jeremia aus dem Wachhof geholt und Gedalja übergeben wurde. Wahrscheinlich geriet er danach in die Gefangenenzüge und wurde in Rama erneut freigelassen.)
+
+---
+
+### Gedalja sammelt das Volk (Vers 7–12)
+
+<sup>7</sup>Als alle Heerführer, die auf dem Feld waren, sie und ihre Männer, hörten,
+dass der König von Babel Gedalja, den Sohn Ahikams, als Statthalter im Land eingesetzt
+und ihm Männer, Frauen und Kinder
+und von den Ärmsten des Landes anvertraut hatte,
+von denen, die nicht nach Babel weggeführt worden waren,
+<sup>8</sup>da kamen Jischmael, der Sohn Netanjas,
+und Johanan und Jonatan, die Söhne Kareachs,
+und Seraja, der Sohn Tanhumets,
+und die Söhne Efais aus Netofa
+und Jesanja, der Sohn des Maachatiters,
+sie und ihre Männer, zu Gedalja nach Mizpa.
+<sup>9</sup>Gedalja, der Sohn Ahikams, des Sohnes Schafans,
+schwor ihnen und ihren Männern und sagte:
+„Fürchtet euch nicht, den Chaldäern zu dienen.
+Bleibt im Land und dient dem König von Babel,
+dann wird es euch gut gehen.
+<sup>10</sup>Ich, siehe, bleibe in Mizpa,
+um vor den Chaldäern zu stehen, die zu uns kommen werden.
+Ihr aber, erntet Wein, Sommerfrüchte und Öl,
+legt sie in eure Gefäße
+und wohnt in euren Städten, die ihr eingenommen habt.“
+<sup>11</sup>Ebenso hörten alle Juden, die in Moab, bei den Kindern Ammon, in Edom
+und in allen Ländern waren,
+dass der König von Babel einen Rest in Juda gelassen
+und Gedalja, den Sohn Ahikams, des Sohnes Schafans, über sie eingesetzt hatte.
+<sup>12</sup>Da kehrten alle Juden aus allen Orten zurück, wohin sie vertrieben worden waren,
+und kamen in das Land Juda zu Gedalja nach Mizpa
+und ernteten sehr viel Wein und Sommerfrüchte.
+
+> **Was bedeutet das?**
+> Vers 7–8: Nach dem Krieg sind noch Soldatentrupps im Land verstreut. Ihre Anführer kommen zu Gedalja.
+> Vers 9–10: Gedalja rät, was auch Jeremia geraten hat: Unterwerft euch Babylon und lebt in Frieden. Erntet, legt Vorräte an, baut euch ein Leben auf.
+> Vers 11–12: Viele Flüchtlinge kehren aus den Nachbarländern zurück. Es gibt eine reiche Ernte. Für kurze Zeit sieht es so aus, als könnte im zerstörten Land ein neuer Anfang gelingen.
+
+---
+
+### Eine Warnung, die nicht gehört wird (Vers 13–16)
+
+<sup>13</sup>Johanan aber, der Sohn Kareachs, und alle Heerführer, die auf dem Feld gewesen waren,
+kamen zu Gedalja nach Mizpa
+<sup>14</sup>und sagten zu ihm:
+„Weißt du, dass Baalis, der König der Kinder Ammon,
+Jischmael, den Sohn Netanjas, gesandt hat, um dich zu töten?“
+Aber Gedalja, der Sohn Ahikams, glaubte ihnen nicht.
+<sup>15</sup>Da sagte Johanan, der Sohn Kareachs, heimlich zu Gedalja in Mizpa:
+„Lass mich doch gehen, und ich werde Jischmael, den Sohn Netanjas, töten,
+und niemand wird es erfahren.
+Warum soll er dich töten,
+sodass alle Juden, die sich bei dir gesammelt haben, zerstreut werden
+und der Rest von Juda umkommt?“
+<sup>16</sup>Aber Gedalja, der Sohn Ahikams, sagte zu Johanan, dem Sohn Kareachs:
+„Tu das nicht,
+denn du redest Lüge über Jischmael.“
+
+> **Was bedeutet das?**
+> Gedalja wird vor einem Mordanschlag gewarnt. Johanan bietet an, Jischmael vorher heimlich zu töten.
+> Gedalja lehnt ab. Er will keinen Menschen auf einen Verdacht hin töten lassen, und er glaubt an das Gute in Jischmael. Das ist ehrenhaft, aber leider zu vertrauensselig, wie das nächste Kapitel zeigt.
+
+## Jeremia – Kapitel 41
+#### Der Mord an Gedalja
+
+---
+
+### Jischmael tötet Gedalja (Vers 1–10)
+
+<sup>1</sup>Im siebten Monat aber kam Jischmael, der Sohn Netanjas, des Sohnes Elischamas,
+aus königlichem Geschlecht und einer der Obersten des Königs,
+und zehn Männer mit ihm
+zu Gedalja, dem Sohn Ahikams, nach Mizpa,
+und sie aßen dort in Mizpa zusammen Brot.
+<sup>2</sup>Da stand Jischmael, der Sohn Netanjas, auf,
+mit den zehn Männern, die bei ihm waren,
+und sie erschlugen Gedalja, den Sohn Ahikams, des Sohnes Schafans, mit dem Schwert
+und töteten ihn,
+den der König von Babel als Statthalter über das Land eingesetzt hatte.
+<sup>3</sup>Jischmael tötete auch alle Juden, die bei Gedalja in Mizpa waren,
+und die chaldäischen Kriegsleute, die dort waren.
+<sup>4</sup>Am zweiten Tag, nachdem er Gedalja getötet hatte,
+als noch niemand davon wusste,
+<sup>5</sup>kamen Männer aus Sichem, aus Schilo und aus Samaria,
+achtzig Männer,
+mit geschorenen Bärten und zerrissenen Kleidern,
+die sich Schnitte gemacht hatten,
+mit Speisopfern und Weihrauch in ihrer Hand,
+um sie zum Haus des HERRN zu bringen.
+<sup>6</sup>Jischmael, der Sohn Netanjas, ging ihnen aus Mizpa entgegen
+und weinte die ganze Zeit, während er ging.
+Und als er ihnen begegnete, sagte er zu ihnen:
+„Kommt zu Gedalja, dem Sohn Ahikams!“
+<sup>7</sup>Als sie aber mitten in die Stadt kamen,
+tötete Jischmael, der Sohn Netanjas, sie
+und warf sie mitten in die Zisterne,
+er und die Männer, die bei ihm waren.
+<sup>8</sup>Aber unter ihnen fanden sich zehn Männer, die zu Jischmael sagten:
+„Töte uns nicht,
+denn wir haben Vorräte auf dem Feld versteckt,
+Weizen, Gerste, Öl und Honig.“
+Da hielt er inne und tötete sie nicht mit ihren Brüdern.
+<sup>9</sup>Die Zisterne aber, in die Jischmael alle Leichen der Männer warf,
+die er neben Gedalja erschlagen hatte,
+war die, die König Asa aus Furcht vor Bascha, dem König von Israel, gemacht hatte.
+Diese füllte Jischmael, der Sohn Netanjas, mit Erschlagenen.
+<sup>10</sup>Dann führte Jischmael das ganze Volk gefangen weg,
+das in Mizpa übrig geblieben war,
+auch die Königstöchter und das ganze Volk, das in Mizpa übrig geblieben war,
+das Nebusaradan, der Oberste der Leibwache, Gedalja, dem Sohn Ahikams, anvertraut hatte.
+Jischmael, der Sohn Netanjas, führte sie gefangen weg
+und zog los, um zu den Kindern Ammon hinüberzugehen.
+
+> **Was bedeutet das?**
+> Vers 1–2: Jischmael kommt als Gast, isst mit Gedalja zusammen Brot und ermordet ihn dann. Gastfreundschaft zu missbrauchen galt als besonders schändlich. Jischmael stammte aus der Königsfamilie. Vielleicht wollte er selbst herrschen oder sah in Gedalja einen Verräter, weil er mit Babylon zusammenarbeitete.
+> Vers 5: Achtzig Pilger aus dem Norden kommen in Trauer, um am zerstörten Tempel zu opfern. Jischmael lockt sie mit falschen Tränen in die Stadt und ermordet sie. Ein grausames, sinnloses Verbrechen.
+> Vers 8: Zehn retten ihr Leben, weil sie Vorräte anbieten. Gier ist stärker als Mordlust.
+> Bis heute erinnern Juden mit einem Fastentag, dem „Fasten Gedalja“, kurz nach dem jüdischen Neujahrsfest an diesen Mord. Er zerstörte die letzte Hoffnung auf ein Leben im Land nach der Zerstörung Jerusalems.
+> Gewalt erzeugt neue Gewalt. Kein politisches Ziel rechtfertigt Mord.
+
+---
+
+### Johanan befreit die Gefangenen (Vers 11–18)
+
+<sup>11</sup>Als aber Johanan, der Sohn Kareachs, und alle Heerführer, die bei ihm waren,
+von all dem Bösen hörten, das Jischmael, der Sohn Netanjas, getan hatte,
+<sup>12</sup>nahmen sie alle Männer
+und zogen los, um gegen Jischmael, den Sohn Netanjas, zu kämpfen,
+und fanden ihn am großen Wasser bei Gibeon.
+<sup>13</sup>Als nun das ganze Volk, das bei Jischmael war,
+Johanan, den Sohn Kareachs, und alle Heerführer, die bei ihm waren, sah,
+da freuten sie sich.
+<sup>14</sup>Und das ganze Volk, das Jischmael aus Mizpa gefangen weggeführt hatte,
+drehte um und kehrte zurück
+und ging zu Johanan, dem Sohn Kareachs.
+<sup>15</sup>Jischmael aber, der Sohn Netanjas, entkam vor Johanan mit acht Männern
+und ging zu den Kindern Ammon.
+<sup>16</sup>Da nahmen Johanan, der Sohn Kareachs, und alle Heerführer, die bei ihm waren,
+den ganzen Rest des Volkes,
+den er Jischmael, dem Sohn Netanjas, aus Mizpa wieder abgenommen hatte,
+nachdem dieser Gedalja, den Sohn Ahikams, getötet hatte:
+die Kriegsleute, die Frauen, die Kinder und die Hofbeamten,
+die er aus Gibeon zurückgebracht hatte.
+<sup>17</sup>Sie zogen fort und wohnten in Gerut-Kimham, das bei Betlehem liegt,
+um nach Ägypten zu ziehen,
+<sup>18</sup>wegen der Chaldäer.
+Denn sie fürchteten sich vor ihnen,
+weil Jischmael, der Sohn Netanjas, Gedalja, den Sohn Ahikams, getötet hatte,
+den der König von Babel als Statthalter über das Land eingesetzt hatte.
+
+> **Was bedeutet das?**
+> Vers 11–15: Johanan verfolgt Jischmael und befreit die Gefangenen. Jischmael selbst entkommt.
+> Vers 16–18: Jetzt haben die Überlebenden große Angst: Die Babylonier könnten sie für den Mord an ihrem Statthalter bestrafen. Sie wollen nach Ägypten fliehen.
+> Vers 16: Das WEB hat hier „eunuchs“; gemeint sind Hofbeamte.
+
+## Jeremia – Kapitel 42
+#### Sollen wir nach Ägypten gehen?
+
+---
+
+### Das Volk bittet Jeremia um Rat (Vers 1–6)
+
+<sup>1</sup>Da traten alle Heerführer und Johanan, der Sohn Kareachs,
+und Jesanja, der Sohn Hoschajas,
+und das ganze Volk, vom Kleinsten bis zum Größten, heran
+<sup>2</sup>und sagten zum Propheten Jeremia:
+„Lass doch unsere Bitte vor dich kommen
+und bete für uns zum HERRN, deinem Gott,
+für diesen ganzen Rest,
+denn wir sind nur wenige übrig geblieben von vielen,
+wie deine Augen uns sehen,
+<sup>3</sup>damit der HERR, dein Gott, uns den Weg zeigt, auf dem wir gehen sollen,
+und was wir tun sollen.“
+<sup>4</sup>Da sagte der Prophet Jeremia zu ihnen:
+„Ich habe es gehört.
+Siehe, ich werde zum HERRN, eurem Gott, beten nach euren Worten.
+Und alles, was der HERR euch antwortet, werde ich euch verkünden.
+Ich werde euch nichts vorenthalten.“
+<sup>5</sup>Da sagten sie zu Jeremia:
+„Der HERR sei ein wahrer und treuer Zeuge gegen uns,
+wenn wir nicht genau nach dem ganzen Wort handeln,
+mit dem der HERR, dein Gott, dich zu uns sendet.
+<sup>6</sup>Ob es gut ist oder schlecht,
+wir werden auf die Stimme des HERRN, unseres Gottes, hören,
+zu dem wir dich senden,
+damit es uns gut geht, wenn wir auf die Stimme des HERRN, unseres Gottes, hören.“
+
+> **Was bedeutet das?**
+> Die Überlebenden kommen zu Jeremia und bitten ihn: Frag Gott für uns, was wir tun sollen.
+> Vers 5–6: Sie versprechen feierlich: Was auch immer Gott sagt, ob es uns gefällt oder nicht, wir werden gehorchen.
+> Ein schönes Versprechen. Aber man merkt: Eigentlich haben sie sich schon entschieden, nach Ägypten zu gehen (41,17).
+
+---
+
+### Gottes Antwort: Bleibt im Land! (Vers 7–22)
+
+<sup>7</sup>Nach zehn Tagen kam das Wort des HERRN zu Jeremia.
+<sup>8</sup>Da rief er Johanan, den Sohn Kareachs, und alle Heerführer, die bei ihm waren,
+und das ganze Volk, vom Kleinsten bis zum Größten,
+<sup>9</sup>und sagte zu ihnen:
+„So spricht der HERR, der Gott Israels,
+zu dem ihr mich gesandt habt, um eure Bitte vor ihn zu bringen:
+<sup>10</sup>‚Wenn ihr in diesem Land bleibt,
+dann werde ich euch bauen und nicht niederreißen,
+und ich werde euch pflanzen und nicht ausreißen,
+denn es tut mir leid um das Unheil, das ich euch angetan habe.
+<sup>11</sup>Fürchtet euch nicht vor dem König von Babel, vor dem ihr euch fürchtet.
+Fürchtet euch nicht vor ihm‘, spricht der HERR,
+‚denn ich bin bei euch, um euch zu retten
+und euch aus seiner Hand zu befreien.
+<sup>12</sup>Ich werde euch Barmherzigkeit erweisen,
+damit er sich über euch erbarmt
+und euch in euer eigenes Land zurückkehren lässt.
+<sup>13</sup>Wenn ihr aber sagt: „Wir wollen nicht in diesem Land bleiben“,
+und so nicht auf die Stimme des HERRN, eures Gottes, hört,
+<sup>14</sup>und sagt: „Nein, sondern wir wollen in das Land Ägypten gehen,
+wo wir keinen Krieg sehen
+und keinen Klang des Horns hören
+und keinen Hunger nach Brot haben werden,
+und dort wollen wir wohnen“‘,
+<sup>15</sup>dann hört jetzt das Wort des HERRN, ihr Rest von Juda!
+So spricht der HERR der Heere, der Gott Israels:
+‚Wenn ihr wirklich euer Gesicht darauf richtet, nach Ägypten zu ziehen,
+und hingeht, um dort als Fremde zu leben,
+<sup>16</sup>dann wird das Schwert, vor dem ihr euch fürchtet,
+euch dort im Land Ägypten einholen,
+und der Hunger, vor dem ihr Angst habt,
+wird euch dort nach Ägypten auf den Fersen folgen,
+und dort werdet ihr sterben.
+<sup>17</sup>So wird es allen Männern gehen,
+die ihr Gesicht darauf richten, nach Ägypten zu ziehen, um dort zu leben.
+Sie werden durch das Schwert, durch den Hunger und durch die Pest sterben.
+Keiner von ihnen wird übrig bleiben oder dem Unheil entkommen,
+das ich über sie bringe.‘
+<sup>18</sup>Denn so spricht der HERR der Heere, der Gott Israels:
+‚Wie mein Zorn und mein Grimm über die Bewohner Jerusalems ausgegossen worden ist,
+so wird mein Grimm über euch ausgegossen werden,
+wenn ihr nach Ägypten kommt.
+Und ihr werdet zum Fluch, zum Entsetzen, zur Verwünschung und zur Schmach werden,
+und diesen Ort werdet ihr nicht mehr sehen.‘
+<sup>19</sup>Der HERR hat über euch geredet, ihr Rest von Juda:
+‚Geht nicht nach Ägypten!‘
+Wisst genau, dass ich euch heute gewarnt habe.
+<sup>20</sup>Denn ihr habt euch selbst betrogen,
+als ihr mich zum HERRN, eurem Gott, gesandt und gesagt habt:
+‚Bete für uns zum HERRN, unserem Gott,
+und alles, was der HERR, unser Gott, sagt, das verkünde uns,
+und wir werden es tun.‘
+<sup>21</sup>Ich habe es euch heute verkündet,
+aber ihr habt nicht auf die Stimme des HERRN, eures Gottes, gehört
+in allem, wofür er mich zu euch gesandt hat.
+<sup>22</sup>Und jetzt wisst genau,
+dass ihr durch das Schwert, den Hunger und die Pest sterben werdet
+an dem Ort, wohin ihr gehen wollt, um dort zu leben.“
+
+> **Was bedeutet das?**
+> Vers 7: Jeremia wartet zehn Tage auf Gottes Antwort. Er antwortet nicht aus eigener Meinung, sondern wartet geduldig auf Gott.
+> Vers 10: Gottes Antwort ist voller Güte: Bleibt im Land, dann werde ich euch aufbauen. „Es tut mir leid um das Unheil, das ich euch angetan habe.“ Gott zeigt Mitgefühl mit seinem leidenden Volk.
+> Vers 11–12: Fürchtet euch nicht vor Babylon! Ich bin bei euch.
+> Vers 14: Ägypten schien der sichere Ort zu sein: kein Krieg, kein Hunger. Aber Gott warnt: Was ihr fürchtet, wird euch dort einholen.
+> Vers 20–21: Jeremia merkt, dass sie gar nicht wirklich hören wollten. Sie hatten sich schon entschieden. Man kann Gott nicht um Rat fragen und dann nur das tun, was man ohnehin wollte.
+> Hinweis: Dieser Text ist keine allgemeine Aussage gegen Menschen, die vor Krieg und Not fliehen. Er handelt von einer bestimmten Situation, in der Gott dem Volk ausdrücklich gesagt hatte, im Land zu bleiben. Die Bibel erzählt an vielen Stellen von Flucht und Schutz in der Fremde, zum Beispiel von Jesus und seinen Eltern, die nach Ägypten fliehen (Matthäus 2,13–15).
