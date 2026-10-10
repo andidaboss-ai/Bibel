@@ -96553,3 +96553,272 @@ an dem Ort, wohin ihr gehen wollt, um dort zu leben.“
 > Vers 14: Ägypten schien der sichere Ort zu sein: kein Krieg, kein Hunger. Aber Gott warnt: Was ihr fürchtet, wird euch dort einholen.
 > Vers 20–21: Jeremia merkt, dass sie gar nicht wirklich hören wollten. Sie hatten sich schon entschieden. Man kann Gott nicht um Rat fragen und dann nur das tun, was man ohnehin wollte.
 > Hinweis: Dieser Text ist keine allgemeine Aussage gegen Menschen, die vor Krieg und Not fliehen. Er handelt von einer bestimmten Situation, in der Gott dem Volk ausdrücklich gesagt hatte, im Land zu bleiben. Die Bibel erzählt an vielen Stellen von Flucht und Schutz in der Fremde, zum Beispiel von Jesus und seinen Eltern, die nach Ägypten fliehen (Matthäus 2,13–15).
+
+## Jeremia – Kapitel 43
+#### Der Zug nach Ägypten
+
+---
+
+### Sie hören nicht und ziehen nach Ägypten (Vers 1–7)
+
+<sup>1</sup>Als Jeremia dem ganzen Volk alle Worte des HERRN, ihres Gottes, zu Ende gesagt hatte,
+mit denen der HERR, ihr Gott, ihn zu ihnen gesandt hatte, all diese Worte,
+<sup>2</sup>da sagten Asarja, der Sohn Hoschajas, Johanan, der Sohn Kareachs,
+und alle hochmütigen Männer zu Jeremia:
+„Du redest Lüge!
+Der HERR, unser Gott, hat dich nicht gesandt, um zu sagen:
+‚Ihr sollt nicht nach Ägypten gehen, um dort zu leben.‘
+<sup>3</sup>Sondern Baruch, der Sohn Nerijas, hat dich gegen uns aufgehetzt,
+um uns in die Hand der Chaldäer zu geben,
+damit sie uns töten oder gefangen nach Babel wegführen.“
+<sup>4</sup>So hörten Johanan, der Sohn Kareachs, und alle Heerführer und das ganze Volk
+nicht auf die Stimme des HERRN, im Land Juda zu bleiben.
+<sup>5</sup>Sondern Johanan, der Sohn Kareachs, und alle Heerführer
+nahmen den ganzen Rest von Juda,
+der aus allen Nationen, wohin sie vertrieben worden waren,
+zurückgekehrt war, um im Land Juda zu leben:
+<sup>6</sup>die Männer, die Frauen, die Kinder, die Königstöchter
+und jeden Menschen, den Nebusaradan, der Oberste der Leibwache,
+bei Gedalja, dem Sohn Ahikams, des Sohnes Schafans, gelassen hatte,
+auch den Propheten Jeremia und Baruch, den Sohn Nerijas.
+<sup>7</sup>Sie kamen in das Land Ägypten,
+denn sie hörten nicht auf die Stimme des HERRN,
+und sie kamen nach Tachpanhes.
+
+> **Was bedeutet das?**
+> Vers 2–3: Obwohl sie versprochen hatten, auf Gott zu hören, nennen sie Jeremia jetzt einen Lügner. Und sie geben Baruch die Schuld: Er habe Jeremia beeinflusst. Wenn man eine Botschaft nicht hören will, greift man oft den Boten an.
+> Vers 6: Jeremia und Baruch werden gegen ihren Willen mitgenommen. Jeremia, der alte Prophet, muss seine Heimat verlassen und stirbt wahrscheinlich in Ägypten.
+> Vers 7: Tachpanhes war eine ägyptische Grenzstadt im Nildelta.
+
+---
+
+### Steine vor dem Palast des Pharao (Vers 8–13)
+
+<sup>8</sup>Da kam das Wort des HERRN zu Jeremia in Tachpanhes:
+<sup>9</sup>„Nimm große Steine in deine Hand
+und vergrabe sie im Mörtel im Ziegelpflaster,
+das am Eingang zum Haus des Pharao in Tachpanhes ist,
+vor den Augen der Männer von Juda.
+<sup>10</sup>Und sag zu ihnen:
+So spricht der HERR der Heere, der Gott Israels:
+‚Siehe, ich sende hin und hole Nebukadnezar, den König von Babel, meinen Knecht,
+und ich werde seinen Thron auf diese Steine setzen, die ich vergraben habe,
+und er wird sein Prachtzelt über ihnen ausbreiten.
+<sup>11</sup>Er wird kommen und das Land Ägypten schlagen:
+Wer für den Tod bestimmt ist, zum Tod,
+wer für die Gefangenschaft, zur Gefangenschaft,
+und wer für das Schwert, zum Schwert.
+<sup>12</sup>Ich werde ein Feuer an die Tempel der Götter Ägyptens legen.
+Er wird sie verbrennen und sie gefangen wegführen.
+Er wird sich in das Land Ägypten hüllen,
+wie ein Hirte sich in sein Gewand hüllt,
+und er wird von dort in Frieden wegziehen.
+<sup>13</sup>Er wird auch die Säulen von Bet-Schemesch zerbrechen,
+das im Land Ägypten ist,
+und die Tempel der Götter Ägyptens mit Feuer verbrennen.‘“
+
+> **Was bedeutet das?**
+> Wieder eine Zeichenhandlung: Jeremia vergräbt große Steine vor dem Palast des Pharao. Dort wird eines Tages Nebukadnezar seinen Thron aufstellen.
+> Die Botschaft: Ägypten ist kein sicherer Ort. Auch hierher wird Babylon kommen. Die Menschen sind vor dem geflohen, was sie fürchteten, und es wird sie einholen.
+> Vers 13: Bet-Schemesch bedeutet „Haus der Sonne“. Gemeint ist die ägyptische Stadt Heliopolis mit ihrem Sonnentempel und ihren Obelisken (Steinsäulen).
+> Nebukadnezar griff Ägypten später tatsächlich an (um 568 vor Christus).
+
+## Jeremia – Kapitel 44
+#### Der Streit um die Himmelskönigin
+
+---
+
+### Habt ihr nichts gelernt? (Vers 1–14)
+
+<sup>1</sup>Das Wort, das an Jeremia kam über alle Juden, die im Land Ägypten wohnten,
+die in Migdol, in Tachpanhes, in Memfis und im Land Patros wohnten:
+<sup>2</sup>„So spricht der HERR der Heere, der Gott Israels:
+‚Ihr habt all das Unheil gesehen,
+das ich über Jerusalem und über alle Städte Judas gebracht habe.
+Siehe, sie sind heute Trümmer, und niemand wohnt darin,
+<sup>3</sup>wegen ihrer Bosheit, die sie getan haben, um mich zu kränken,
+indem sie hingingen, um anderen Göttern Räucherwerk zu verbrennen und ihnen zu dienen,
+die sie nicht kannten, weder sie noch ihr noch eure Väter.
+<sup>4</sup>Dabei habe ich alle meine Knechte, die Propheten, zu euch gesandt,
+früh und unermüdlich, und habe sagen lassen:
+„Ach, tut doch diesen Gräuel nicht, den ich hasse!“
+<sup>5</sup>Aber sie hörten nicht und neigten ihr Ohr nicht.
+Sie kehrten nicht um von ihrer Bosheit
+und hörten nicht auf, anderen Göttern Räucherwerk zu verbrennen.
+<sup>6</sup>Darum ergoss sich mein Grimm und mein Zorn
+und brannte in den Städten Judas und auf den Straßen Jerusalems,
+und sie wurden zu Trümmern und zur Wüste, wie es heute ist.‘
+<sup>7</sup>Und jetzt, so spricht der HERR, der Gott der Heere, der Gott Israels:
+‚Warum tut ihr so großes Unheil gegen eure eigenen Seelen,
+um euch Mann und Frau, Kind und Säugling
+aus der Mitte Judas auszurotten,
+sodass euch kein Rest übrig bleibt,
+<sup>8</sup>indem ihr mich kränkt mit den Werken eurer Hände
+und anderen Göttern Räucherwerk verbrennt im Land Ägypten,
+wohin ihr gekommen seid, um dort zu leben,
+damit ihr ausgerottet werdet
+und zum Fluch und zur Schmach werdet unter allen Nationen der Erde?
+<sup>9</sup>Habt ihr die Bosheit eurer Väter vergessen,
+die Bosheit der Könige von Juda,
+die Bosheit ihrer Frauen,
+eure eigene Bosheit und die Bosheit eurer Frauen,
+die sie im Land Juda und auf den Straßen Jerusalems begangen haben?
+<sup>10</sup>Bis zum heutigen Tag sind sie nicht demütig geworden.
+Sie haben sich nicht gefürchtet
+und sind nicht in meinem Gesetz und in meinen Ordnungen gegangen,
+die ich euch und euren Vätern vorgelegt habe.‘
+<sup>11</sup>Darum spricht der HERR der Heere, der Gott Israels:
+‚Siehe, ich richte mein Angesicht gegen euch zum Unheil,
+um ganz Juda auszurotten.
+<sup>12</sup>Ich werde den Rest von Juda nehmen,
+die ihr Gesicht darauf gerichtet haben, in das Land Ägypten zu gehen, um dort zu leben,
+und sie werden alle umkommen.
+Im Land Ägypten werden sie fallen.
+Durch das Schwert und durch den Hunger werden sie umkommen.
+Vom Kleinsten bis zum Größten werden sie durch das Schwert und durch den Hunger sterben.
+Sie werden zum Entsetzen, zum Erstaunen, zum Fluch und zur Schmach werden.
+<sup>13</sup>Denn ich werde die heimsuchen, die im Land Ägypten wohnen,
+wie ich Jerusalem heimgesucht habe,
+mit dem Schwert, mit dem Hunger und mit der Pest,
+<sup>14</sup>sodass vom Rest Judas, der in das Land Ägypten gekommen ist, um dort zu leben,
+keiner entkommen oder übrig bleiben wird,
+um in das Land Juda zurückzukehren,
+wohin sie sich sehnen, zurückzukehren, um dort zu wohnen.
+Denn keiner wird zurückkehren außer einigen Entronnenen.‘“
+
+> **Was bedeutet das?**
+> In Ägypten lebten inzwischen Juden an verschiedenen Orten: Migdol und Tachpanhes im Norden, Memfis in der Mitte und Patros, also Oberägypten im Süden.
+> Vers 2–6: Jeremia erinnert sie: Ihr habt doch gesehen, wie Jerusalem zerstört wurde. Und warum? Wegen des Götzendienstes.
+> Vers 4: Ein berührender Satz Gottes: „Ach, tut doch diesen Gräuel nicht, den ich hasse!“ Gott bittet fast flehend.
+> Vers 7–10: Und doch machen sie in Ägypten genauso weiter. Sie haben nichts gelernt.
+
+---
+
+### Die Antwort des Volkes (Vers 15–19)
+
+<sup>15</sup>Da antworteten alle Männer, die wussten, dass ihre Frauen anderen Göttern Räucherwerk verbrannten,
+und alle Frauen, die dabeistanden, eine große Versammlung,
+und das ganze Volk, das im Land Ägypten, in Patros, wohnte,
+Jeremia und sagten:
+<sup>16</sup>„Was das Wort angeht, das du im Namen des HERRN zu uns geredet hast,
+darauf werden wir nicht hören.
+<sup>17</sup>Sondern wir werden gewiss alles tun, was aus unserem Mund hervorgegangen ist:
+der Himmelskönigin Räucherwerk zu verbrennen
+und ihr Trankopfer auszugießen,
+wie wir es getan haben, wir und unsere Väter, unsere Könige und unsere Fürsten,
+in den Städten Judas und auf den Straßen Jerusalems.
+Denn damals hatten wir genug Brot, und es ging uns gut,
+und wir sahen kein Unheil.
+<sup>18</sup>Aber seit wir aufgehört haben, der Himmelskönigin Räucherwerk zu verbrennen
+und ihr Trankopfer auszugießen,
+hat es uns an allem gefehlt,
+und wir sind durch das Schwert und durch den Hunger umgekommen.“
+<sup>19</sup>Und die Frauen sagten:
+„Wenn wir der Himmelskönigin Räucherwerk verbrannten
+und ihr Trankopfer ausgossen,
+haben wir ihr etwa ohne unsere Männer Kuchen gebacken, um sie abzubilden,
+und ihr Trankopfer ausgegossen?“
+
+> **Was bedeutet das?**
+> Die Antwort des Volkes ist erschreckend offen: Wir hören nicht auf dich!
+> Vers 17–18: Sie haben eine ganz andere Erklärung für ihr Unglück: Früher, als wir die Himmelskönigin verehrt haben, ging es uns gut. Seit König Joschija diesen Kult verboten hat (2. Könige 23), geht es uns schlecht. Also war das Aufhören schuld!
+> Das zeigt: Man kann dieselben Ereignisse ganz verschieden deuten. Jeremia sagt: Das Unglück kam wegen des Götzendienstes. Das Volk sagt: Es kam, weil wir mit dem Götzendienst aufgehört haben.
+> Vers 19: Die Frauen betonen: Wir haben das nicht allein gemacht, unsere Männer waren einverstanden. Männer und Frauen tragen gemeinsam die Verantwortung. Der Text gibt nicht den Frauen allein die Schuld.
+
+---
+
+### Jeremias Antwort (Vers 20–30)
+
+<sup>20</sup>Da sagte Jeremia zum ganzen Volk,
+zu den Männern und zu den Frauen
+und zum ganzen Volk, das ihm so geantwortet hatte:
+<sup>21</sup>„Das Räucherwerk, das ihr in den Städten Judas
+und auf den Straßen Jerusalems verbrannt habt,
+ihr und eure Väter, eure Könige und eure Fürsten und das Volk des Landes,
+hat der HERR nicht daran gedacht,
+und ist es ihm nicht in den Sinn gekommen?
+<sup>22</sup>Der HERR konnte es nicht länger ertragen
+wegen der Bosheit eurer Taten
+und wegen der Gräuel, die ihr getan habt.
+Darum ist euer Land zu Trümmern, zum Entsetzen und zum Fluch geworden,
+ohne Bewohner, wie es heute ist.
+<sup>23</sup>Weil ihr Räucherwerk verbrannt
+und gegen den HERRN gesündigt habt
+und nicht auf die Stimme des HERRN gehört habt
+und nicht in seinem Gesetz, in seinen Ordnungen und in seinen Zeugnissen gegangen seid,
+darum ist dieses Unheil über euch gekommen, wie es heute ist.“
+<sup>24</sup>Weiter sagte Jeremia zum ganzen Volk und zu allen Frauen:
+„Hört das Wort des HERRN, ganz Juda, die ihr im Land Ägypten seid!
+<sup>25</sup>So spricht der HERR der Heere, der Gott Israels:
+‚Ihr und eure Frauen, ihr habt es mit eurem Mund gesagt
+und mit euren Händen erfüllt und gesagt:
+„Wir wollen gewiss unsere Gelübde erfüllen, die wir gelobt haben,
+der Himmelskönigin Räucherwerk zu verbrennen
+und ihr Trankopfer auszugießen.“
+So haltet nur eure Gelübde
+und erfüllt nur eure Gelübde!‘
+<sup>26</sup>Darum hört das Wort des HERRN, ganz Juda, die ihr im Land Ägypten wohnt:
+‚Siehe, ich habe bei meinem großen Namen geschworen‘, spricht der HERR,
+‚dass mein Name nicht mehr im Mund irgendeines Mannes von Juda
+im ganzen Land Ägypten genannt werden soll, der sagt:
+„So wahr der Herr, der HERR, lebt!“
+<sup>27</sup>Siehe, ich wache über sie zum Unheil und nicht zum Guten.
+Und alle Männer von Juda, die im Land Ägypten sind,
+werden durch das Schwert und durch den Hunger umkommen,
+bis es mit ihnen zu Ende ist.
+<sup>28</sup>Die dem Schwert entrinnen, werden aus dem Land Ägypten
+in das Land Juda zurückkehren, eine kleine Zahl.
+Und der ganze Rest von Juda, der in das Land Ägypten gekommen ist, um dort zu leben,
+wird erkennen, wessen Wort Bestand hat, meines oder ihres.
+<sup>29</sup>Und das soll euch das Zeichen sein‘, spricht der HERR,
+‚dass ich euch an diesem Ort heimsuchen werde,
+damit ihr erkennt, dass meine Worte gegen euch zum Unheil gewiss Bestand haben werden:
+<sup>30</sup>So spricht der HERR:
+„Siehe, ich gebe den Pharao Hofra, den König von Ägypten,
+in die Hand seiner Feinde
+und in die Hand derer, die ihm nach dem Leben trachten,
+so wie ich Zidkija, den König von Juda,
+in die Hand Nebukadnezars, des Königs von Babel, gegeben habe,
+der sein Feind war und ihm nach dem Leben trachtete.“‘“
+
+> **Was bedeutet das?**
+> Vers 21–23: Jeremia widerspricht: Nein, Gott hat sich an euren Götzendienst erinnert. Deshalb kam das Unglück.
+> Vers 25: Ein bitterer, ironischer Satz Gottes: „Dann haltet eben eure Gelübde!“ Wer nicht hören will, den lässt Gott seinen eigenen Weg gehen.
+> Vers 26: Die Juden in Ägypten werden Gottes Namen nicht mehr im Schwur gebrauchen, weil sie sich von ihm abgewandt haben.
+> Vers 28: „Wessen Wort hat Bestand, meines oder ihres?“ Die Zeit wird es zeigen.
+> Vers 30: Als Zeichen nennt Jeremia: Pharao Hofra wird gestürzt werden. Hofra (griechisch Apries) wurde tatsächlich um 570 vor Christus bei einem Aufstand gestürzt.
+> Dies sind die letzten überlieferten Worte Jeremias. Wie er gestorben ist, erzählt die Bibel nicht.
+
+## Jeremia – Kapitel 45
+#### Ein Wort für Baruch
+
+---
+
+### Du suchst große Dinge? (Vers 1–5)
+
+<sup>1</sup>Das Wort, das der Prophet Jeremia zu Baruch, dem Sohn Nerijas, redete,
+als er diese Worte aus dem Mund Jeremias in ein Buch schrieb,
+im vierten Jahr Jojakims, des Sohnes Joschijas, des Königs von Juda:
+<sup>2</sup>„So spricht der HERR, der Gott Israels, über dich, Baruch:
+<sup>3</sup>‚Du hast gesagt:
+„Wehe mir jetzt!
+Denn der HERR hat Kummer zu meinem Schmerz hinzugefügt.
+Ich bin müde von meinem Seufzen,
+und ich finde keine Ruhe.“‘
+<sup>4</sup>So sollst du zu ihm sagen:
+So spricht der HERR:
+‚Siehe, was ich gebaut habe, reiße ich nieder,
+und was ich gepflanzt habe, reiße ich aus,
+und zwar im ganzen Land.
+<sup>5</sup>Und du suchst für dich große Dinge?
+Suche sie nicht!
+Denn siehe, ich bringe Unheil über alles Fleisch‘, spricht der HERR,
+‚aber dir gebe ich dein Leben als Beute,
+an allen Orten, wohin du gehst.‘“
+
+> **Was bedeutet das?**
+> Dieses kurze Kapitel ist ein persönliches Wort an Baruch, den treuen Schreiber Jeremias. Es stammt aus der Zeit, als Baruch die erste Schriftrolle schrieb (Kapitel 36, im Jahr 605 vor Christus).
+> Vers 3: Baruch ist erschöpft: „Wehe mir! Ich bin müde vom Seufzen und finde keine Ruhe.“ Auch die Helfer der Propheten litten unter der schweren Botschaft. Wer anderen hilft, kann selbst müde und erschöpft werden.
+> Vers 4: Gott antwortet: Auch mir tut es weh. Ich muss niederreißen, was ich selbst gebaut habe.
+> Vers 5: „Suchst du große Dinge für dich? Suche sie nicht!“ Vielleicht hatte Baruch auf Ansehen oder Karriere gehofft. Gott sagt: In dieser schweren Zeit ist das nicht wichtig. Aber ich verspreche dir: Du wirst überleben, wohin du auch gehst.
+> Ein tröstliches Wort für alle, die sich erschöpft fühlen: Nicht große Erfolge zählen, sondern dass Gott dein Leben bewahrt. Wer sich ausgebrannt fühlt, darf sich Hilfe holen, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111.
