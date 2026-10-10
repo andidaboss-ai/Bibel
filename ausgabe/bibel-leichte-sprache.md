@@ -109230,3 +109230,279 @@ Und sie werden Umherirrende unter den Völkern sein.
 > Vers 16: Ein Wortspiel: „Ephraim“ klingt wie „fruchtbar“. Aber jetzt wird Ephraim keine Frucht mehr bringen.
 > Vers 17: „Umherirrende unter den Völkern“. Das traf ein: Nach 722 vor Christus wurden die Israeliten des Nordreichs von den Assyrern verschleppt und unter die Völker zerstreut.
 > Auch dieser Vers ist kein Freibrief für Gewalt gegen Kinder. Kinder sind in der Bibel immer schutzwürdig (vgl. Markus 10,14: „Lasst die Kinder zu mir kommen“).
+
+## Hosea – Kapitel 10
+#### Pflügt euch einen Neubruch!
+
+---
+
+### Ein üppiger Weinstock mit geteiltem Herzen (Vers 1–8)
+
+<sup>1</sup>Israel ist ein üppiger Weinstock,
+der seine Frucht bringt.
+Je mehr Frucht er hatte,
+desto mehr Altäre baute er.
+Je besser es seinem Land ging,
+desto schöner schmückten sie ihre Gedenksteine.
+<sup>2</sup>Ihr Herz ist geteilt.
+Jetzt werden sie schuldig befunden.
+Er wird ihre Altäre zerstören.
+Er wird ihre Gedenksteine verwüsten.
+<sup>3</sup>Gewiss, jetzt werden sie sagen:
+„Wir haben keinen König,
+denn wir fürchten den HERRN nicht.
+Und der König, was kann er für uns tun?“
+<sup>4</sup>Sie machen Versprechungen,
+schwören falsch, wenn sie Bündnisse schließen.
+Darum sprießt das Recht wie giftiges Unkraut
+in den Furchen des Feldes.
+<sup>5</sup>Die Bewohner Samarias werden zittern
+um die Kälber von Bet-Awen.
+Denn sein Volk wird um es trauern,
+zusammen mit seinen Priestern, die sich über es gefreut hatten,
+über seine Herrlichkeit,
+weil sie von ihm gewichen ist.
+<sup>6</sup>Auch es wird nach Assyrien gebracht werden
+als Geschenk für einen großen König.
+Ephraim wird Schande bekommen,
+und Israel wird sich seines eigenen Rates schämen.
+<sup>7</sup>Samaria und sein König treiben dahin
+wie ein Zweig auf dem Wasser.
+<sup>8</sup>Auch die Höhen von Awen, die Sünde Israels,
+werden zerstört werden.
+Dornen und Disteln werden auf ihren Altären wachsen.
+Sie werden zu den Bergen sagen: „Bedeckt uns!“
+und zu den Hügeln: „Fallt auf uns!“
+
+> **Was bedeutet das?**
+> Vers 1: Ein trauriges Paradox: Je reicher Israel wurde, desto mehr Altäre für fremde Götter baute es. Wohlstand führte nicht zu Dankbarkeit gegenüber Gott, sondern zu mehr Götzendienst.
+> Vers 2: „Ihr Herz ist geteilt.“ Sie wollen beides: ein bisschen Gott und ein bisschen Baal. Aber ein geteiltes Herz hält nicht.
+> Vers 5–6: Das goldene Kalb in Bethel (spöttisch „Bet-Awen“ = Haus des Unheils) wird von den Assyrern als Beute mitgenommen. Der Gott, auf den sie vertrauten, wird selbst weggeschleppt!
+> Vers 7: Ein starkes Bild: Der König treibt hilflos wie ein Zweig auf dem Wasser.
+> Vers 8: „Bedeckt uns! Fallt auf uns!“ So groß ist die Verzweiflung. Jesus sagt diese Worte auf dem Weg zum Kreuz (Lukas 23,30). Auch in der Offenbarung kommen sie vor (Offenbarung 6,16).
+
+---
+
+### Pflügt euch einen Neubruch (Vers 9–15)
+
+<sup>9</sup>„Israel, seit den Tagen von Gibea hast du gesündigt.
+Dort sind sie stehen geblieben.
+Hat sie nicht in Gibea der Krieg gegen die Kinder der Bosheit erreicht?
+<sup>10</sup>Wenn es mein Wille ist, werde ich sie züchtigen.
+Und Völker werden sich gegen sie versammeln,
+wenn sie an ihre zwei Vergehen gebunden sind.
+<sup>11</sup>Ephraim ist eine abgerichtete junge Kuh,
+die gern drischt.
+Darum werde ich ein Joch auf ihren schönen Nacken legen.
+Ich werde Ephraim einen Reiter aufsetzen.
+Juda wird pflügen.
+Jakob wird seine Schollen eggen.
+<sup>12</sup>Sät euch Gerechtigkeit,
+erntet nach dem Maß der Güte!
+Pflügt euch einen Neubruch,
+denn es ist Zeit, den HERRN zu suchen,
+bis er kommt und Gerechtigkeit über euch regnen lässt.
+<sup>13</sup>Ihr habt Gottlosigkeit gepflügt.
+Ihr habt Unrecht geerntet.
+Ihr habt die Frucht der Lüge gegessen,
+denn du hast auf deinen Weg vertraut,
+auf die Menge deiner Helden.
+<sup>14</sup>Darum wird sich Kriegslärm in deinem Volk erheben,
+und alle deine Festungen werden zerstört werden,
+so wie Schalman Bet-Arbel am Tag der Schlacht zerstörte.
+Die Mutter wurde mit ihren Kindern zerschmettert.
+<sup>15</sup>So wird Bethel euch tun
+wegen eurer großen Bosheit.
+Bei Tagesanbruch wird der König Israels völlig vernichtet werden.“
+
+> **Was bedeutet das?**
+> Vers 11: Israel war wie eine junge Kuh, die gern drischt. Beim Dreschen durfte die Kuh fressen (5. Mose 25,4); eine angenehme Arbeit. Jetzt muss sie das schwere Joch des Pfluges tragen.
+> Vers 12: Ein wunderschöner Aufruf: „Sät Gerechtigkeit, erntet Güte! Pflügt euch einen Neubruch!“ Ein Neubruch ist ein Feld, das lange brach lag und hart geworden ist. Man muss es aufbrechen, damit wieder etwas wachsen kann. So soll das Volk sein hartes Herz aufbrechen und neu anfangen. Vgl. Jeremia 4,3.
+> „Es ist Zeit, den HERRN zu suchen.“ Es ist nie zu spät für einen Neuanfang.
+> Vers 13: Das Gegenteil: Wer Böses pflügt, erntet Unrecht. Wer auf eigene Stärke und Soldaten vertraut, isst „die Frucht der Lüge“.
+> Vers 14: Bet-Arbel war eine Stadt, die grausam zerstört wurde. Wer „Schalman“ war, weiß man nicht sicher. Der Satz „Die Mutter wurde mit ihren Kindern zerschmettert“ beschreibt die Grausamkeit des Krieges. Die Bibel verschweigt nicht, was Krieg Frauen und Kindern antut. Solche Gewalt ist ein schreckliches Unrecht. Wer Kriegserfahrungen hat und darüber reden möchte: Telefonseelsorge 0800 111 0 111.
+
+## Hosea – Kapitel 11
+#### Wie könnte ich dich preisgeben?
+
+---
+
+### Als Israel jung war, liebte ich ihn (Vers 1–4)
+
+<sup>1</sup>„Als Israel ein Kind war, liebte ich ihn,
+und aus Ägypten rief ich meinen Sohn.
+<sup>2</sup>Je mehr man sie rief,
+desto mehr gingen sie von ihnen weg.
+Sie opferten den Baalen
+und räucherten den Götzenbildern.
+<sup>3</sup>Und doch habe ich Ephraim laufen gelehrt.
+Ich nahm sie auf meine Arme,
+aber sie erkannten nicht, dass ich sie heilte.
+<sup>4</sup>Ich zog sie mit menschlichen Seilen,
+mit Bändern der Liebe.
+Ich war für sie wie die, die das Joch von ihrem Nacken heben.
+Und ich beugte mich zu ihm hinab
+und gab ihm zu essen.
+
+> **Was bedeutet das?**
+> Das ist einer der zärtlichsten Texte der ganzen Bibel. Gott spricht wie ein Vater oder eine Mutter über ein Kind.
+> Vers 1: „Als Israel ein Kind war, liebte ich ihn.“ Gott erinnert sich an den Anfang, als er Israel aus Ägypten befreite.
+> Der Evangelist Matthäus zitiert diesen Vers über Jesus, der als Kind mit Maria und Josef nach Ägypten floh und zurückkam: „Aus Ägypten habe ich meinen Sohn gerufen“ (Matthäus 2,15).
+> Vers 3: „Ich habe Ephraim laufen gelehrt.“ Wie Eltern ein Kind an den Händen halten, wenn es die ersten Schritte macht. „Ich nahm sie auf meine Arme.“ Aber das Kind hat nicht gemerkt, wer ihm geholfen hat.
+> Vers 4: „Mit Bändern der Liebe.“ Gott hat nicht mit Gewalt gezogen, sondern mit Liebe. „Ich beugte mich zu ihm hinab und gab ihm zu essen.“ Wie eine Mutter, die sich zu ihrem kleinen Kind hinunterbeugt, um es zu füttern.
+> Dieses Bild zeigt: Gott hat auch mütterliche Seiten.
+
+---
+
+### Sie wollen nicht umkehren (Vers 5–7)
+
+<sup>5</sup>Sie werden nicht ins Land Ägypten zurückkehren,
+aber der Assyrer wird ihr König sein,
+weil sie sich geweigert haben umzukehren.
+<sup>6</sup>Das Schwert wird über ihre Städte fallen
+und die Riegel ihrer Tore vernichten
+und ihren Plänen ein Ende machen.
+<sup>7</sup>Mein Volk ist fest entschlossen, sich von mir abzuwenden.
+Obwohl sie zum Höchsten rufen,
+wird er sie gewiss nicht erhöhen.
+
+> **Was bedeutet das?**
+> Das geliebte Kind hat sich abgewandt. Und das hat Folgen: Assyrien wird über sie herrschen. Das Schwert wird kommen.
+> Hier spürt man den Schmerz Gottes: wie bei Eltern, deren Kind einen gefährlichen Weg geht und nicht mehr auf sie hört.
+
+---
+
+### Mein Herz kehrt sich um (Vers 8–11)
+
+<sup>8</sup>Wie könnte ich dich preisgeben, Ephraim?
+Wie könnte ich dich ausliefern, Israel?
+Wie könnte ich dich machen wie Adma?
+Wie könnte ich dich machen wie Zebojim?
+Mein Herz kehrt sich in mir um,
+mein Mitleid ist entbrannt.
+<sup>9</sup>Ich will die Glut meines Zornes nicht vollstrecken.
+Ich will nicht zurückkehren, um Ephraim zu vernichten.
+Denn ich bin Gott und nicht ein Mensch,
+der Heilige in deiner Mitte.
+Ich will nicht im Zorn kommen.
+<sup>10</sup>Sie werden dem HERRN nachfolgen,
+der brüllen wird wie ein Löwe.
+Denn er wird brüllen,
+und die Kinder werden zitternd vom Westen kommen.
+<sup>11</sup>Sie werden zitternd kommen wie ein Vogel aus Ägypten
+und wie eine Taube aus dem Land Assyrien.
+Und ich werde sie in ihren Häusern wohnen lassen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt des ganzen Buches!
+> Vers 8: Gott ringt mit sich selbst: „Wie könnte ich dich preisgeben?“ Adma und Zebojim waren Städte, die zusammen mit Sodom und Gomorra zerstört wurden (5. Mose 29,23). Gott sagt: Das kann ich meinem geliebten Kind nicht antun!
+> „Mein Herz kehrt sich in mir um.“ Gottes Liebe ist stärker als sein Zorn. Das Mitleid gewinnt.
+> Vers 9: Der wichtigste Grund: „Denn ich bin Gott und nicht ein Mensch.“ Ein Mensch würde vielleicht sagen: „Jetzt reicht es. Du hast es nicht anders verdient.“ Aber Gott ist anders. Gerade weil er heilig ist, gerade weil er Gott ist, kann er vergeben, wo Menschen aufgeben würden.
+> Vers 10–11: Gott brüllt wie ein Löwe, aber nicht um anzugreifen, sondern um seine Kinder zu rufen. Und sie kommen zitternd, wie Vögel, von überall her nach Hause.
+> Diese Verse zeigen das Herz Gottes. Jesus erzählt dieselbe Botschaft im Gleichnis vom verlorenen Sohn: Der Vater sieht den Sohn von weitem, hat Mitleid, läuft ihm entgegen und umarmt ihn (Lukas 15,20).
+
+---
+
+### Lüge und Betrug (Vers 12)
+
+<sup>12</sup>Ephraim umgibt mich mit Lüge
+und das Haus Israel mit Betrug.
+Und Juda geht noch immer seine eigenen Wege, weg von Gott,
+und ist dem Heiligen untreu.
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln ist dieser Vers der erste Vers von Kapitel 12 (12,1). Darum sind die Versnummern in Kapitel 12 im WEB um eins niedriger als in vielen deutschen Bibeln.
+> Nach dem wunderbaren Liebesbekenntnis Gottes kommt die Realität: Das Volk lügt und betrügt weiter. Gottes Liebe ist da, aber die Menschen müssen sie auch annehmen.
+> Die Bedeutung des zweiten Teils ist im Hebräischen nicht ganz klar. Manche Übersetzungen verstehen ihn positiv („Juda hält noch zu Gott“), das WEB versteht ihn negativ.
+
+## Hosea – Kapitel 12
+#### Jakob, der mit Gott rang
+
+---
+
+### Ephraim jagt dem Wind nach (Vers 1–2)
+
+<sup>1</sup>Ephraim weidet Wind
+und jagt dem Ostwind nach.
+Er vermehrt ständig Lüge und Verwüstung.
+Sie schließen einen Bund mit Assyrien,
+und Öl wird nach Ägypten gebracht.
+<sup>2</sup>Auch mit Juda hat der HERR einen Rechtsstreit,
+und er wird Jakob heimsuchen nach seinen Wegen.
+Nach seinen Taten wird er ihm vergelten.
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln sind die Versnummern in diesem Kapitel um eins höher (12,2–15).
+> Vers 1: „Wind weiden“ und „dem Ostwind nachjagen“ – das ist sinnlos. So sinnlos ist es, sich auf Assyrien und Ägypten zu verlassen. Israel schloss Bündnisse mit beiden Großmächten gleichzeitig und schickte Öl als Geschenk nach Ägypten. Ein gefährliches Doppelspiel.
+
+---
+
+### Jakob, der Kämpfer (Vers 3–6)
+
+<sup>3</sup>Im Mutterleib hielt er seinen Bruder an der Ferse,
+und in seiner Manneskraft kämpfte er mit Gott.
+<sup>4</sup>Ja, er kämpfte mit dem Engel und siegte.
+Er weinte und flehte ihn an.
+In Bethel fand er ihn,
+und dort redete er mit uns –
+<sup>5</sup>der HERR, der Gott der Heere.
+HERR ist sein Name, der gerühmt wird!
+<sup>6</sup>Darum kehre um zu deinem Gott!
+Halte fest an Güte und Recht
+und hoffe beständig auf deinen Gott.
+
+> **Was bedeutet das?**
+> Hosea erinnert an Jakob, den Stammvater Israels (Israel ist Jakobs zweiter Name):
+> – Schon im Mutterleib hielt er seinen Zwillingsbruder Esau an der Ferse fest (1. Mose 25,26). Der Name „Jakob“ klingt wie „Fersenhalter“, auch „Betrüger“.
+> – Später rang er eine ganze Nacht mit Gott am Fluss Jabbok und bekam den Namen „Israel“ („Gottesstreiter“, 1. Mose 32,22–30).
+> – In Bethel begegnete Gott ihm im Traum von der Himmelsleiter (1. Mose 28,10–22).
+> Vers 4: „Er weinte und flehte“ – das ist ein Detail, das im 1. Buch Mose nicht so steht. Jakob hat nicht nur gekämpft, er hat auch geweint und um Segen gebeten.
+> Die Botschaft: Auch Jakob war kein perfekter Mensch. Er war ein Betrüger. Aber er hat mit Gott gerungen und ist ihm begegnet. So soll auch das Volk zu Gott umkehren.
+> Vers 6: Der Weg zurück ist einfach zu sagen: „Halte fest an Güte und Recht und hoffe beständig auf deinen Gott.“ Das ist eine gute Zusammenfassung des Glaubens, auch für heute.
+
+---
+
+### Falsche Waagen und falscher Stolz (Vers 7–11)
+
+<sup>7</sup>Ein Händler hat eine falsche Waage in seiner Hand.
+Er liebt es zu betrügen.
+<sup>8</sup>Ephraim sagte:
+„Gewiss, ich bin reich geworden.
+Ich habe mir Vermögen erworben.
+In all meinem Erwerb wird man keine Schuld an mir finden,
+die Sünde wäre.“
+<sup>9</sup>„Aber ich bin der HERR, dein Gott,
+seit dem Land Ägypten.
+Ich werde dich noch einmal in Zelten wohnen lassen
+wie in den Tagen des Festes.
+<sup>10</sup>Ich habe auch zu den Propheten geredet,
+und ich habe die Visionen vermehrt,
+und durch den Dienst der Propheten habe ich in Gleichnissen geredet.
+<sup>11</sup>Wenn Gilead böse ist,
+dann sind sie gewiss nichtig.
+In Gilgal opfern sie Stiere.
+Ja, ihre Altäre sind wie Steinhaufen in den Furchen des Feldes.
+
+> **Was bedeutet das?**
+> Vers 7–8: Israel ist wie ein betrügerischer Händler mit falscher Waage. Und dann sagt er stolz: „Ich bin reich geworden, und niemand kann mir etwas vorwerfen!“ Reichtum durch Betrug, und dann noch selbstgerecht.
+> Vers 9: Gott erinnert: „Ich bin dein Gott seit Ägypten.“ Er wird sie wieder in Zelten wohnen lassen, wie beim Laubhüttenfest, als man sich an die Wüstenzeit erinnerte. Das kann Strafe bedeuten (Verlust der Häuser) oder auch einen Neuanfang wie damals in der Wüste (vgl. Hosea 2,14).
+> Vers 10: Gott hat immer wieder durch Propheten geredet, in Bildern und Gleichnissen. Er hat nicht geschwiegen.
+
+---
+
+### Durch einen Propheten (Vers 12–14)
+
+<sup>12</sup>Jakob floh in das Land Aram.
+Israel diente um eine Frau,
+und um eine Frau hütete er Schafe und Rinder.
+<sup>13</sup>Durch einen Propheten führte der HERR Israel aus Ägypten herauf,
+und durch einen Propheten wurde es behütet.
+<sup>14</sup>Ephraim hat bitter zum Zorn gereizt.
+Darum wird sein Blut auf ihm bleiben,
+und sein Herr wird ihm seine Schmähung vergelten.
+
+> **Was bedeutet das?**
+> Vers 12: Jakob musste vor Esau fliehen und diente viele Jahre bei Laban als Hirte, um Rahel heiraten zu können (1. Mose 29). Ein Bild dafür, wie mühsam der Weg des Stammvaters war.
+> Vers 13: Der „Prophet“, durch den Gott Israel aus Ägypten führte, ist Mose. Gott hat sein Volk immer durch Propheten geführt und behütet. Hosea stellt sich in diese Reihe.
+> Vers 14: Ephraim hat Gott bitter enttäuscht. Es muss die Folgen seiner Taten tragen.
