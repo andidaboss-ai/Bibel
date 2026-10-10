@@ -99947,7 +99947,7 @@ Der nahm es und ging hinaus.
 die Gestalt einer Menschenhand.
 
 > **Was bedeutet das?**
-> Hesekiel sieht wieder den Thronwagen aus Kapitel 1. Jetzt nennt er die lebendigen Wesen „Cherubim“ (Einzahl: Cherub). Cherubim sind himmliche Wesen, die Gottes Thron umgeben. Im Tempel gab es Figuren von Cherubim über der Bundeslade (2. Mose 25,18–22).
+> Hesekiel sieht wieder den Thronwagen aus Kapitel 1. Jetzt nennt er die lebendigen Wesen „Cherubim“ (Einzahl: Cherub). Cherubim sind himmlische Wesen, die Gottes Thron umgeben. Im Tempel gab es Figuren von Cherubim über der Bundeslade (2. Mose 25,18–22).
 > Vers 2: Der Mann in Leinen hatte vorher die Gerechten gezeichnet (Kapitel 9). Jetzt soll er glühende Kohlen über die Stadt streuen. Das ist ein Bild für das Feuer, das Jerusalem zerstören wird.
 > In Jesaja 6,6–7 berührt eine glühende Kohle vom Altar Jesajas Lippen und reinigt ihn. Hier ist das Feuer ein Feuer des Gerichts.
 
