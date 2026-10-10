@@ -113624,3 +113624,408 @@ spricht der HERR.
 > **Gottes Freude:** „Der HERR, dein Gott, ist in deiner Mitte … Er wird über dich jubeln mit Gesang“ (3,17).
 > **Für heute:** Gott ist nicht gleichgültig. Er nimmt Unrecht ernst. Aber sein letztes Wort ist Liebe und Freude, auch über dich.
 > **Wie geht es weiter?** Als Nächstes kommt Haggai. Er lebte nach der Rückkehr aus dem Exil und ermutigte die Menschen, den zerstörten Tempel wieder aufzubauen.
+
+
+---
+
+# Haggai
+
+## Haggai – Kapitel 1
+#### Baut das Haus des HERRN!
+
+---
+
+### Bevor es losgeht: Wer war Haggai?
+
+Mit Haggai beginnen die letzten drei Propheten des Alten Testaments: Haggai, Sacharja und Maleachi. Sie lebten nach dem Exil.
+Zur Vorgeschichte: Im Jahr 587/586 vor Christus hatten die Babylonier Jerusalem und den Tempel zerstört. Viele Menschen wurden nach Babylon verschleppt. Im Jahr 539 vor Christus eroberte der Perserkönig Kyrus Babylon und erlaubte den Juden, zurückzukehren und den Tempel wieder aufzubauen (Esra 1). Eine erste Gruppe kehrte zurück und legte das Fundament. Aber dann gab es Widerstand von den Nachbarn, Armut und Enttäuschung. Die Arbeiten wurden eingestellt (Esra 4).
+Fast 20 Jahre lang lag der Tempel in Trümmern. Im Jahr 520 vor Christus, im zweiten Jahr des Perserkönigs Darius, trat Haggai auf. Er rief die Menschen auf, endlich weiterzubauen. Und sie hörten auf ihn! Im Jahr 515 vor Christus wurde der zweite Tempel eingeweiht (Esra 6,15).
+Haggai und Sacharja werden zusammen im Buch Esra erwähnt (Esra 5,1; 6,14).
+Das Buch Haggai ist sehr genau datiert. Es enthält vier Botschaften innerhalb von nur vier Monaten. Das Buch hat 2 Kapitel.
+
+---
+
+### Die Leute sagen: Es ist noch nicht Zeit (Vers 1–4)
+
+<sup>1</sup>Im zweiten Jahr des Königs Darius,
+im sechsten Monat, am ersten Tag des Monats,
+erging das Wort des HERRN durch den Propheten Haggai
+an Serubbabel, den Sohn Schealtiëls, den Statthalter von Juda,
+und an Josua, den Sohn Jozadaks, den Hohenpriester:
+<sup>2</sup>„So spricht der HERR der Heere:
+Dieses Volk sagt:
+‚Die Zeit ist noch nicht gekommen,
+die Zeit, das Haus des HERRN zu bauen.‘“
+<sup>3</sup>Da erging das Wort des HERRN durch den Propheten Haggai:
+<sup>4</sup>„Ist es denn Zeit für euch selbst,
+in euren getäfelten Häusern zu wohnen,
+während dieses Haus in Trümmern liegt?
+
+> **Was bedeutet das?**
+> Vers 1: Das Datum entspricht etwa dem 29. August 520 vor Christus. Haggai spricht zu den beiden Anführern: Serubbabel, dem Statthalter (er war ein Enkel des Königs Jojachin, also aus dem Haus Davids), und Josua, dem Hohenpriester.
+> Vers 2: Die Ausrede der Leute: „Es ist noch nicht die richtige Zeit.“ Es gab ja viele Probleme: Armut, schlechte Ernten, Widerstand der Nachbarn.
+> Vers 4: Haggai antwortet scharf: Für eure eigenen Häuser habt ihr Zeit! Ihr habt sie sogar mit Holz getäfelt, also schön ausgebaut. Aber Gottes Haus liegt in Trümmern.
+> Für heute: Wir sagen auch manchmal „Jetzt ist nicht die richtige Zeit“, wenn es um Gott geht. Aber für unsere eigenen Dinge finden wir immer Zeit.
+
+---
+
+### Achtet darauf, wie es euch geht! (Vers 5–11)
+
+<sup>5</sup>Darum, so spricht der HERR der Heere:
+‚Achtet auf eure Wege!
+<sup>6</sup>Ihr habt viel gesät und wenig eingebracht.
+Ihr esst, aber ihr werdet nicht satt.
+Ihr trinkt, aber ihr bekommt nicht genug.
+Ihr kleidet euch, aber niemandem wird warm.
+Und wer Lohn verdient,
+verdient ihn für einen löchrigen Beutel.‘
+<sup>7</sup>So spricht der HERR der Heere:
+‚Achtet auf eure Wege!
+<sup>8</sup>Steigt auf das Gebirge,
+bringt Holz
+und baut das Haus.
+Dann werde ich Gefallen daran haben
+und werde verherrlicht werden‘,
+spricht der HERR.
+<sup>9</sup>‚Ihr habt nach viel ausgeschaut,
+und siehe, es wurde wenig.
+Und wenn ihr es nach Hause brachtet,
+blies ich es weg.
+Warum?‘, spricht der HERR der Heere.
+‚Wegen meines Hauses, das in Trümmern liegt,
+während jeder von euch mit seinem eigenen Haus beschäftigt ist.
+<sup>10</sup>Darum hält der Himmel über euch den Tau zurück,
+und die Erde hält ihren Ertrag zurück.
+<sup>11</sup>Ich habe eine Dürre gerufen über das Land
+und über die Berge,
+über das Getreide, über den Most, über das Öl
+und über alles, was der Boden hervorbringt,
+über Menschen und Vieh
+und über alle Arbeit der Hände.‘“
+
+> **Was bedeutet das?**
+> Vers 5 und 7: „Achtet auf eure Wege!“, also: Denkt einmal darüber nach, wie es euch geht und warum.
+> Vers 6: Ein sehr lebendiges Bild: Die Leute arbeiten hart, aber es reicht nie. Sie essen und werden nicht satt. Sie verdienen Geld, aber es ist, als hätten sie einen Geldbeutel mit Löchern. Das Geld rinnt einfach durch.
+> Das kennen viele Menschen auch heute: Man arbeitet viel, aber am Ende des Monats ist nichts übrig.
+> Vers 8: Gottes Aufforderung ist ganz praktisch: Holt Holz und baut!
+> Vers 9–11: Haggai deutet die Dürre und die schlechten Ernten als Zeichen: Ihr habt eure Prioritäten falsch gesetzt. Jeder kümmert sich nur um sein eigenes Haus.
+> Wichtig: Nicht jede Not im Leben ist eine Strafe Gottes. Die Bibel warnt auch davor, so zu denken (Hiob; Johannes 9,1–3). Hier sagt der Prophet es in einer bestimmten Situation zu bestimmten Menschen.
+
+---
+
+### Das Volk gehorcht (Vers 12–15)
+
+<sup>12</sup>Da gehorchten Serubbabel, der Sohn Schealtiëls,
+und Josua, der Sohn Jozadaks, der Hohepriester,
+und der ganze Rest des Volkes
+der Stimme des HERRN, ihres Gottes,
+und den Worten des Propheten Haggai,
+so wie der HERR, ihr Gott, ihn gesandt hatte.
+Und das Volk fürchtete den HERRN.
+<sup>13</sup>Da sprach Haggai, der Bote des HERRN,
+im Auftrag des HERRN zum Volk:
+„Ich bin mit euch“,
+spricht der HERR.
+<sup>14</sup>Und der HERR erweckte den Geist Serubbabels,
+des Sohnes Schealtiëls, des Statthalters von Juda,
+und den Geist Josuas, des Sohnes Jozadaks, des Hohenpriesters,
+und den Geist des ganzen Restes des Volkes.
+Und sie kamen und arbeiteten am Haus des HERRN der Heere, ihres Gottes,
+<sup>15</sup>am vierundzwanzigsten Tag des Monats,
+im sechsten Monat,
+im zweiten Jahr des Königs Darius.
+
+> **Was bedeutet das?**
+> Etwas Seltenes in der Bibel: Ein Prophet spricht, und das Volk hört sofort! Alle gehorchen, die Anführer und das ganze Volk.
+> Vers 13: Gottes Antwort ist kurz und kraftvoll: „Ich bin mit euch.“ Das ist die wichtigste Zusage, die Menschen bekommen können.
+> Vers 14: Gott „erweckt den Geist“ der Menschen. Er gibt ihnen neuen Mut und neue Begeisterung. Dann beginnen sie zu arbeiten.
+> Vers 15: Nur 23 Tage nach Haggais erster Predigt fangen sie an zu bauen.
+
+## Haggai – Kapitel 2
+#### Die Herrlichkeit dieses Hauses wird größer sein
+
+---
+
+### Seid stark und arbeitet! (Vers 1–9)
+
+<sup>1</sup>Im siebten Monat, am einundzwanzigsten Tag des Monats,
+erging das Wort des HERRN durch den Propheten Haggai:
+<sup>2</sup>„Sprich doch zu Serubbabel, dem Sohn Schealtiëls, dem Statthalter von Juda,
+und zu Josua, dem Sohn Jozadaks, dem Hohenpriester,
+und zum Rest des Volkes und sage:
+<sup>3</sup>‚Wer ist unter euch noch übrig,
+der dieses Haus in seiner früheren Herrlichkeit gesehen hat?
+Und wie seht ihr es jetzt?
+Ist es nicht wie nichts in euren Augen?
+<sup>4</sup>Aber nun sei stark, Serubbabel‘, spricht der HERR.
+‚Sei stark, Josua, Sohn Jozadaks, Hoherpriester!
+Seid stark, ihr ganzes Volk des Landes‘, spricht der HERR,
+‚und arbeitet!
+Denn ich bin mit euch‘, spricht der HERR der Heere.
+<sup>5</sup>‚Das ist das Wort, mit dem ich einen Bund mit euch schloss,
+als ihr aus Ägypten auszogt,
+und mein Geist wohnte in eurer Mitte.
+Fürchtet euch nicht!‘
+<sup>6</sup>Denn so spricht der HERR der Heere:
+‚Noch einmal, nur noch eine kleine Weile,
+dann werde ich den Himmel erschüttern und die Erde,
+das Meer und das trockene Land.
+<sup>7</sup>Und ich werde alle Völker erschüttern.
+Die Schätze aller Völker werden kommen,
+und ich werde dieses Haus mit Herrlichkeit füllen‘,
+spricht der HERR der Heere.
+<sup>8</sup>‚Mein ist das Silber, und mein ist das Gold‘,
+spricht der HERR der Heere.
+<sup>9</sup>‚Die spätere Herrlichkeit dieses Hauses
+wird größer sein als die frühere‘,
+spricht der HERR der Heere.
+‚Und an diesem Ort werde ich Frieden geben‘,
+spricht der HERR der Heere.“
+
+> **Was bedeutet das?**
+> Vers 1: Das war etwa Mitte Oktober 520 vor Christus, während des Laubhüttenfestes.
+> Vers 3: Einige alte Menschen hatten den ersten Tempel Salomos noch gesehen, bevor er 66 Jahre zuvor zerstört wurde. Im Vergleich zu dessen Pracht wirkte der neue Bau ärmlich. Viele waren enttäuscht (vgl. Esra 3,12).
+> Vers 4–5: Gott ermutigt sie dreimal: „Seid stark!“ Und: „Ich bin mit euch. Mein Geist ist in eurer Mitte. Fürchtet euch nicht!“ Es kommt nicht auf die Pracht des Gebäudes an, sondern darauf, dass Gott da ist.
+> Vers 6–7: Gott wird die ganze Welt erschüttern, und dann werden die Schätze der Völker zum Tempel kommen. Der Hebräerbrief zitiert Vers 6 (Hebräer 12,26–28).
+> „Die Schätze aller Völker“: So übersetzt das WEB. Andere ältere Übersetzungen verstehen den Vers als „das Ersehnte aller Völker“ und beziehen ihn auf den Messias. Der hebräische Text kann beides bedeuten.
+> Vers 8: Alles Silber und Gold gehört sowieso Gott. Er kann für Pracht sorgen, wenn er will.
+> Vers 9: Die Herrlichkeit des neuen Tempels wird größer sein als die des alten. Und: „An diesem Ort werde ich Frieden geben.“ Christen sehen hier einen Hinweis darauf, dass Jesus in diesen Tempel kam (er war später von Herodes prächtig ausgebaut worden).
+
+---
+
+### Was rein und was unrein macht (Vers 10–14)
+
+<sup>10</sup>Am vierundzwanzigsten Tag des neunten Monats,
+im zweiten Jahr des Darius,
+erging das Wort des HERRN durch den Propheten Haggai:
+<sup>11</sup>„So spricht der HERR der Heere:
+Frag doch die Priester nach dem Gesetz und sage:
+<sup>12</sup>‚Wenn jemand heiliges Fleisch im Zipfel seines Gewandes trägt
+und mit dem Zipfel Brot, Gekochtes, Wein, Öl oder irgendeine Speise berührt,
+wird es dann heilig?‘“
+Die Priester antworteten: „Nein.“
+<sup>13</sup>Da sagte Haggai:
+„Wenn jemand, der durch einen Toten unrein ist,
+eines von diesen Dingen berührt,
+wird es dann unrein?“
+Die Priester antworteten: „Es wird unrein.“
+<sup>14</sup>Da antwortete Haggai:
+„‚So ist dieses Volk,
+und so ist diese Nation vor mir‘, spricht der HERR,
+‚und so ist jedes Werk ihrer Hände.
+Und was sie dort opfern, ist unrein.
+
+> **Was bedeutet das?**
+> Haggai stellt den Priestern zwei Fragen aus den Reinheitsgesetzen:
+> Frage 1: Wird etwas heilig, wenn man es mit etwas Heiligem berührt? Antwort: Nein.
+> Frage 2: Wird etwas unrein, wenn man es mit etwas Unreinem berührt? Antwort: Ja.
+> Das heißt: Heiligkeit ist nicht ansteckend, aber Unreinheit schon.
+> Vers 14: Haggai wendet das auf das Volk an: Solange der Tempel in Trümmern lag und die Menschen Gott vernachlässigten, war alles, was sie taten, „unrein“, auch ihre Opfer auf dem Altar. Ein bisschen Religion macht ein Leben nicht heilig, wenn das Herz nicht dabei ist.
+
+---
+
+### Von heute an werde ich segnen (Vers 15–19)
+
+<sup>15</sup>Nun achtet doch darauf, von diesem Tag an und rückwärts,
+bevor ein Stein auf den anderen gelegt wurde im Tempel des HERRN:
+<sup>16</sup>Die ganze Zeit über,
+wenn man zu einem Garbenhaufen von zwanzig Maß kam,
+waren es nur zehn.
+Wenn man zur Kelter kam, um fünfzig Eimer zu schöpfen,
+waren es nur zwanzig.
+<sup>17</sup>Ich habe euch geschlagen mit Kornbrand, Mehltau und Hagel
+bei aller Arbeit eurer Hände.
+Und doch habt ihr euch nicht zu mir gewandt‘,
+spricht der HERR.
+<sup>18</sup>‚Achtet doch darauf, von diesem Tag an und rückwärts,
+vom vierundzwanzigsten Tag des neunten Monats an,
+seit dem Tag, an dem das Fundament des Tempels des HERRN gelegt wurde,
+achtet darauf:
+<sup>19</sup>Ist die Saat noch in der Scheune?
+Ja, der Weinstock, der Feigenbaum, der Granatapfelbaum und der Ölbaum
+haben noch nichts getragen.
+Von diesem Tag an werde ich segnen.‘“
+
+> **Was bedeutet das?**
+> Vers 15–17: Erinnert euch, wie es vorher war: Die Ernte war immer nur halb so groß wie erwartet. Krankheiten befielen das Getreide. Aber ihr habt nicht verstanden, was Gott euch sagen wollte.
+> Vers 18–19: Aber jetzt, seit dem Tag, an dem der Bau neu begonnen hat, wird alles anders. Noch ist nichts geerntet, noch ist die Saat nicht aufgegangen. Aber Gott verspricht: „Von diesem Tag an werde ich segnen.“
+> Das ist eine Zusage, die man im Glauben annehmen muss, bevor man sie sieht.
+> Das Datum (24. Tag des 9. Monats) entspricht etwa Mitte Dezember 520 vor Christus.
+
+---
+
+### Serubbabel, der Siegelring (Vers 20–23)
+
+<sup>20</sup>Das Wort des HERRN erging zum zweiten Mal an Haggai
+am vierundzwanzigsten Tag des Monats:
+<sup>21</sup>„Sprich zu Serubbabel, dem Statthalter von Juda, und sage:
+‚Ich werde den Himmel und die Erde erschüttern.
+<sup>22</sup>Ich werde den Thron der Königreiche umstürzen.
+Ich werde die Macht der Königreiche der Völker vernichten.
+Ich werde die Streitwagen und die darauf fahren umstürzen.
+Die Pferde und ihre Reiter werden fallen,
+jeder durch das Schwert seines Bruders.
+<sup>23</sup>An jenem Tag‘, spricht der HERR der Heere,
+‚werde ich dich nehmen, Serubbabel, Sohn Schealtiëls, mein Knecht‘,
+spricht der HERR,
+‚und werde dich wie einen Siegelring machen,
+denn ich habe dich erwählt‘,
+spricht der HERR der Heere.“
+
+> **Was bedeutet das?**
+> Die letzte Botschaft gilt Serubbabel persönlich.
+> Vers 21–22: Gott wird die Weltreiche erschüttern. Die mächtigen Armeen werden sich gegenseitig vernichten.
+> Vers 23: Serubbabel wird Gottes „Siegelring“ sein. Ein Siegelring war sehr wertvoll. Mit ihm unterschrieb ein König seine Briefe und Gesetze. Wer den Siegelring hatte, handelte im Auftrag des Königs.
+> Das ist bedeutsam: Serubbabels Großvater, König Jojachin, wurde von Gott einst verworfen. Damals sagte Gott: „Selbst wenn er ein Siegelring an meiner rechten Hand wäre, würde ich ihn abreißen“ (Jeremia 22,24). Jetzt nimmt Gott das Haus Davids wieder an.
+> Serubbabel selbst wurde nie König. Aber die Verheißung an das Haus Davids blieb bestehen. Im Stammbaum Jesu wird Serubbabel genannt (Matthäus 1,12–13; Lukas 3,27).
+
+---
+
+### Rückblick: Was haben wir im Buch Haggai gelesen?
+
+> **Was bedeutet das?**
+> **Nach dem Exil:** Die Juden waren aus Babylon zurückgekehrt, aber der Tempel lag fast 20 Jahre lang in Trümmern.
+> **Falsche Prioritäten:** „Ist es Zeit für euch, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (1,4).
+> **Achtet auf eure Wege:** Wer nur an sich denkt, hat einen „löchrigen Geldbeutel“ (1,6).
+> **Das Volk gehorcht:** Ein seltener Erfolg für einen Propheten. Und Gott sagt: „Ich bin mit euch“ (1,13).
+> **Seid stark und fürchtet euch nicht:** Auch wenn der neue Tempel klein und unscheinbar ist, Gottes Geist ist da (2,4–5).
+> **Größere Herrlichkeit:** „Die spätere Herrlichkeit dieses Hauses wird größer sein als die frühere“ (2,9).
+> **Von heute an segne ich:** Gott verspricht Segen, noch bevor man ihn sieht (2,19).
+> **Für heute:** Haggai fragt uns: Welchen Platz hat Gott in meinem Leben? Habe ich für alles Zeit, nur nicht für ihn?
+> **Wie geht es weiter?** Als Nächstes kommt Sacharja. Er lebte zur selben Zeit wie Haggai und hatte viele geheimnisvolle Visionen. Er kündigt einen König an, der „demütig auf einem Esel reitet“ (Sacharja 9,9).
+
+
+---
+
+# Sacharja
+
+## Sacharja – Kapitel 1
+#### Kehrt um zu mir!
+
+---
+
+### Bevor es losgeht: Wer war Sacharja?
+
+Sacharja lebte zur selben Zeit wie Haggai, ab dem Jahr 520 vor Christus, nach der Rückkehr aus dem Exil in Babylon. Beide ermutigten das Volk, den Tempel wieder aufzubauen (Esra 5,1; 6,14).
+Sacharja stammte wahrscheinlich aus einer Priesterfamilie (vgl. Nehemia 12,16). Sein Name bedeutet: „Der HERR hat sich erinnert.“
+Sacharja ist das längste Buch der zwölf kleinen Propheten. Es hat zwei Teile:
+Kapitel 1–8: Acht nächtliche Visionen mit Engeln, Pferden, Hörnern, einem Leuchter, einer fliegenden Schriftrolle und anderen rätselhaften Bildern. Ein Engel erklärt Sacharja, was sie bedeuten. Die Botschaft: Gott ist wieder bei seinem Volk. Jerusalem wird wieder aufgebaut.
+Kapitel 9–14: Worte über die Zukunft, über einen kommenden König, einen guten Hirten und den Tag, an dem Gott König über die ganze Erde sein wird. Viele Forscher meinen, dass dieser zweite Teil später entstanden ist.
+Kein anderes Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja: der König auf dem Esel (9,9), die dreißig Silberstücke (11,12–13), „Sie werden auf den sehen, den sie durchbohrt haben“ (12,10) und der geschlagene Hirte (13,7).
+Ein Hinweis: In deutschen Bibeln sind die Verse am Ende von Kapitel 1 (Vers 18–21) der Anfang von Kapitel 2 (dort 2,1–4). Das Buch hat 14 Kapitel.
+
+---
+
+### Kehrt um zu mir! (Vers 1–6)
+
+<sup>1</sup>Im achten Monat, im zweiten Jahr des Darius,
+erging das Wort des HERRN an den Propheten Sacharja,
+den Sohn Berechjas, des Sohnes Iddos:
+<sup>2</sup>„Der HERR war sehr zornig über eure Väter.
+<sup>3</sup>Darum sage zu ihnen:
+So spricht der HERR der Heere:
+‚Kehrt um zu mir‘, spricht der HERR der Heere,
+‚dann werde ich mich zu euch umkehren‘,
+spricht der HERR der Heere.
+<sup>4</sup>Seid nicht wie eure Väter,
+denen die früheren Propheten zuriefen:
+‚So spricht der HERR der Heere:
+Kehrt doch um von euren bösen Wegen und von euren bösen Taten!‘
+Aber sie hörten nicht und achteten nicht auf mich,
+spricht der HERR.
+<sup>5</sup>Eure Väter, wo sind sie?
+Und die Propheten, leben sie ewig?
+<sup>6</sup>Aber meine Worte und meine Beschlüsse,
+die ich meinen Knechten, den Propheten, befahl,
+haben sie eure Väter nicht eingeholt?
+Da kehrten sie um und sagten:
+‚Wie der HERR der Heere es uns tun wollte,
+nach unseren Wegen und nach unseren Taten,
+so hat er an uns gehandelt.‘“
+
+> **Was bedeutet das?**
+> Vers 1: Das war etwa im Oktober/November 520 vor Christus, also zwischen Haggais zweiter und dritter Botschaft.
+> Vers 3: Der Kern: „Kehrt um zu mir, dann kehre ich mich zu euch um.“ Gott wartet darauf, dass sein Volk zu ihm zurückkommt. Und dann ist er sofort da. Ähnlich heißt es im Jakobusbrief: „Naht euch zu Gott, so naht er sich zu euch“ (Jakobus 4,8).
+> Vers 4–6: Sacharja erinnert an die Geschichte: Die Väter haben nicht auf die Propheten gehört. Die Väter sind tot, und auch die Propheten sind gestorben. Aber Gottes Wort ist geblieben und hat sich erfüllt: Das Exil ist gekommen. Am Ende haben die Väter es eingesehen.
+> Die Botschaft: Lernt aus der Geschichte! Macht nicht dieselben Fehler.
+
+---
+
+### Die erste Vision: Reiter zwischen den Myrten (Vers 7–17)
+
+<sup>7</sup>Am vierundzwanzigsten Tag des elften Monats,
+das ist der Monat Schebat,
+im zweiten Jahr des Darius,
+erging das Wort des HERRN an den Propheten Sacharja,
+den Sohn Berechjas, des Sohnes Iddos:
+<sup>8</sup>„Ich sah in der Nacht,
+und siehe, ein Mann ritt auf einem roten Pferd.
+Er hielt zwischen den Myrten, die in einer Talschlucht standen.
+Und hinter ihm waren rote, braune und weiße Pferde.
+<sup>9</sup>Da fragte ich:
+‚Mein Herr, was sind diese?‘“
+Der Engel, der mit mir redete, sagte zu mir:
+„Ich will dir zeigen, was diese sind.“
+<sup>10</sup>Der Mann, der zwischen den Myrten hielt, antwortete:
+„Das sind die, die der HERR ausgesandt hat,
+um die Erde zu durchstreifen.“
+<sup>11</sup>Sie berichteten dem Engel des HERRN,
+der zwischen den Myrten hielt, und sagten:
+„Wir haben die Erde durchstreift,
+und siehe, die ganze Erde sitzt still und ist ruhig.“
+<sup>12</sup>Da antwortete der Engel des HERRN:
+„HERR der Heere, wie lange willst du dich nicht erbarmen
+über Jerusalem und über die Städte Judas,
+über die du nun siebzig Jahre lang zornig gewesen bist?“
+<sup>13</sup>Der HERR antwortete dem Engel, der mit mir redete,
+mit guten Worten, mit tröstlichen Worten.
+<sup>14</sup>Da sagte der Engel, der mit mir redete, zu mir:
+„Rufe aus und sage:
+‚So spricht der HERR der Heere:
+Ich eifere für Jerusalem und für Zion mit großem Eifer.
+<sup>15</sup>Und ich bin sehr zornig über die Völker, die sorglos sind.
+Denn ich war nur ein wenig zornig,
+aber sie haben zum Unheil noch beigetragen.
+<sup>16</sup>Darum spricht der HERR:
+Ich habe mich Jerusalem wieder zugewandt mit Erbarmen.
+Mein Haus soll darin gebaut werden‘,
+spricht der HERR der Heere,
+‚und die Messschnur soll über Jerusalem gespannt werden.‘
+<sup>17</sup>Rufe weiter aus und sage:
+‚So spricht der HERR der Heere:
+Meine Städte sollen wieder überfließen von Wohlstand,
+und der HERR wird Zion wieder trösten
+und Jerusalem wieder erwählen.‘“
+
+> **Was bedeutet das?**
+> Vers 7: Das war etwa Mitte Februar 519 vor Christus. In dieser Nacht hat Sacharja acht Visionen.
+> Vers 8–11: Reiter auf Pferden in verschiedenen Farben. Sie sind wie Kundschafter, die Gott in die ganze Welt geschickt hat. Ihr Bericht: „Die ganze Erde ist ruhig.“ Das persische Reich hatte nach einigen Aufständen gerade wieder Frieden.
+> Aber für Jerusalem ist dieser „Frieden“ keine gute Nachricht: Die Völker leben sorglos, während Jerusalem noch in Trümmern liegt.
+> Vers 12: Der Engel betet für Jerusalem: „Wie lange noch?“ Die „siebzig Jahre“ erinnern an die Prophezeiung Jeremias (Jeremia 25,11; 29,10). Vom ersten Tempelbrand bis zum Wiederaufbau waren es tatsächlich ungefähr siebzig Jahre (587/586 bis 515 vor Christus).
+> Vers 13–17: Gott antwortet mit tröstlichen Worten: Ich liebe Jerusalem leidenschaftlich. Ich bin zornig über die Völker, die beim Strafen zu weit gegangen sind. Ich kehre mit Erbarmen zurück. Mein Tempel wird gebaut, die Stadt wird vermessen und neu gebaut.
+
+---
+
+### Die zweite Vision: Vier Hörner und vier Schmiede (Vers 18–21)
+
+<sup>18</sup>Ich hob meine Augen auf und sah,
+und siehe, vier Hörner.
+<sup>19</sup>Ich fragte den Engel, der mit mir redete:
+„Was sind diese?“
+Er antwortete mir:
+„Das sind die Hörner, die Juda, Israel und Jerusalem zerstreut haben.“
+<sup>20</sup>Der HERR zeigte mir vier Schmiede.
+<sup>21</sup>Da fragte ich:
+„Was wollen diese tun?“
+Er sagte:
+„Das sind die Hörner, die Juda zerstreut haben,
+sodass niemand mehr sein Haupt erhob.
+Aber diese sind gekommen, um sie zu erschrecken,
+um die Hörner der Völker niederzuwerfen,
+die ihr Horn gegen das Land Juda erhoben haben, um es zu zerstreuen.“
+
+> **Was bedeutet das?**
+> In deutschen Bibeln stehen diese Verse meistens am Anfang von Kapitel 2 (dort Vers 1–4).
+> Ein Horn ist in der Bibel ein Bild für Macht und Stärke, wie die Hörner eines Stieres. Die vier Hörner sind die Weltmächte, die Israel und Juda zerstört und zerstreut haben. „Vier“ kann für alle vier Himmelsrichtungen stehen, also für alle Feinde ringsum.
+> Die vier „Schmiede“ (Handwerker) kommen, um die Hörner abzuschlagen. Gott hat für jede Macht, die sein Volk unterdrückt, eine Gegenmacht.
+> Die Botschaft: Die Unterdrücker werden nicht für immer herrschen.
