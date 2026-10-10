@@ -1,0 +1,433 @@
+{
+ "nr": 39,
+ "code": "MAL",
+ "kuerzel": "Mal",
+ "name": "Maleachi",
+ "name_englisch": "Malachi",
+ "testament": "altes-testament",
+ "kapitel": 4,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Ich habe euch geliebt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Maleachi?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Maleachi ist das letzte Buch des Alten Testaments in christlichen Bibeln. (In der jüdischen Bibel stehen die Propheten in einer anderen Reihenfolge, und die Bibel endet mit den Chronikbüchern.)\nDer Name Maleachi bedeutet „mein Bote“. Vielleicht ist es sein Name, vielleicht auch ein Titel (vgl. 3,1, wo Gott sagt: „Ich sende meinen Boten“). Über die Person wissen wir nichts.\nMaleachi lebte wahrscheinlich im 5. Jahrhundert vor Christus, einige Jahrzehnte nachdem der zweite Tempel wieder aufgebaut war (515 vor Christus), vielleicht zur Zeit von Esra und Nehemia. Die erste Begeisterung war vorbei. Die Priester waren nachlässig, die Menschen gleichgültig. Viele fragten: „Lohnt es sich überhaupt, Gott zu dienen?“\nDas Besondere an Maleachi: Das Buch ist wie ein Streitgespräch aufgebaut. Gott sagt etwas, das Volk widerspricht („Wieso? Womit denn?“), und Gott antwortet. Das passiert sechsmal.\nAm Ende kündigt Maleachi an, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt. Im Neuen Testament wird das auf Johannes den Täufer bezogen.\nEin Hinweis: Im WEB hat Maleachi 4 Kapitel. In deutschen Bibeln sind es meistens nur 3; das WEB-Kapitel 4 ist dort 3,19–24.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gottes Liebe zu Israel",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Ausspruch, das Wort des HERRN an Israel durch Maleachi.",
+       "englisch_web": "A revelation, Yahweh’s word to Israel by Malachi."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Ich habe euch geliebt“, spricht der HERR.\nAber ihr sagt: „Wie hast du uns geliebt?“\n„War nicht Esau Jakobs Bruder?“, spricht der HERR.\n„Doch ich habe Jakob geliebt,",
+       "englisch_web": "“I have loved you,” says Yahweh. Yet you say, “How have you loved us?” “Wasn’t Esau Jacob’s brother?” says Yahweh, “Yet I loved Jacob;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "aber Esau habe ich gehasst.\nIch habe seine Berge zur Wüste gemacht\nund sein Erbe den Schakalen der Wüste gegeben.“",
+       "englisch_web": "but Esau I hated, and made his mountains a desolation, and gave his heritage to the jackals of the wilderness.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Wenn Edom sagt:\n„Wir sind zerschlagen,\naber wir werden die Trümmer wieder aufbauen“,\nso spricht der HERR der Heere:\n„Sie mögen bauen, ich aber werde niederreißen.\nUnd man wird sie nennen: ‚Land der Gottlosigkeit‘\nund ‚das Volk, über das der HERR für immer zornig ist‘.“",
+       "englisch_web": "Whereas Edom says, “We are beaten down, but we will return and build the waste places,” Yahweh of Armies says, “They shall build, but I will throw down; and men will call them ‘The Wicked Land,’ even the people against whom Yahweh shows wrath forever.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Eure Augen werden es sehen, und ihr werdet sagen:\n„Groß ist der HERR,\nauch über die Grenze Israels hinaus!“",
+       "englisch_web": "Your eyes will see, and you will say, “Yahweh is great—even beyond the border of Israel!”"
+      }
+     ],
+     "erklaerung": "Vers 2: Das erste Wort des Buches ist ein Liebesbekenntnis Gottes: „Ich habe euch geliebt.“ Aber das Volk zweifelt: „Wie denn? Wir merken nichts davon!“\nVers 2–3: Gott erinnert an die Zwillinge Jakob und Esau (1. Mose 25). Gott hat Jakob erwählt, nicht Esau. „Lieben“ und „hassen“ ist hier eine hebräische Redeweise für „erwählen“ und „nicht erwählen“ oder „bevorzugen“ und „weniger bevorzugen“. Es heißt nicht, dass Gott Esau persönlich verabscheut hätte. Jesus benutzt dieselbe Redeweise, wenn er sagt, man müsse Vater und Mutter „hassen“, um ihm zu folgen (Lukas 14,26; vgl. Matthäus 10,37: „mehr lieben als mich“).\nPaulus zitiert diesen Vers im Römerbrief (Römer 9,13), wenn er über Gottes freie Erwählung spricht.\nVers 4: Edom (das Volk der Nachkommen Esaus) war inzwischen von anderen Völkern aus seinem Land vertrieben worden. Israel dagegen durfte zurückkehren. Daran sollen sie Gottes Liebe erkennen.\nVers 5: „Groß ist der HERR, auch über die Grenze Israels hinaus“: Gott ist nicht nur ein Gott für Israel, sondern für die ganze Welt."
+    },
+    {
+     "ueberschrift": "Die Priester verachten Gott",
+     "vers_von": 6,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "„Ein Sohn ehrt seinen Vater\nund ein Knecht seinen Herrn.\nWenn ich nun Vater bin, wo ist meine Ehre?\nUnd wenn ich Herr bin, wo ist die Ehrfurcht vor mir?“,\nspricht der HERR der Heere zu euch Priestern,\ndie ihr meinen Namen verachtet.\n„Ihr sagt: ‚Womit haben wir deinen Namen verachtet?‘",
+       "englisch_web": "“A son honors his father, and a servant his master. If I am a father, then where is my honor? And if I am a master, where is the respect due me?” says Yahweh of Armies to you priests who despise my name. “You say, ‘How have we despised your name?’"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ihr bringt unreines Brot auf meinen Altar.\nIhr sagt: ‚Womit haben wir dich verunreinigt?‘\nDamit, dass ihr sagt: ‚Der Tisch des HERRN ist verächtlich.‘",
+       "englisch_web": "You offer polluted bread on my altar. You say, ‘How have we polluted you?’ In that you say, ‘Yahweh’s table is contemptible.’"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wenn ihr ein blindes Tier zum Opfer bringt, ist das nicht böse?\nUnd wenn ihr ein lahmes und krankes bringt, ist das nicht böse?\nBring es doch einmal deinem Statthalter!\nWird er Gefallen an dir haben?\nOder wird er dich freundlich aufnehmen?“,\nspricht der HERR der Heere.",
+       "englisch_web": "When you offer the blind for sacrifice, isn’t that evil? And when you offer the lame and sick, isn’t that evil? Present it now to your governor! Will he be pleased with you? Or will he accept your person?” says Yahweh of Armies."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "„Und nun, bittet doch Gott, dass er uns gnädig sei!\nWird er mit so etwas einen von euch freundlich aufnehmen?“,\nspricht der HERR der Heere.",
+       "englisch_web": "“Now, please entreat the favor of God, that he may be gracious to us. With this, will he accept any of you?” says Yahweh of Armies."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "„Ach, wäre doch einer unter euch,\nder die Türen zuschließt,\ndamit ihr nicht umsonst Feuer auf meinem Altar anzündet!\nIch habe kein Gefallen an euch“,\nspricht der HERR der Heere,\n„und ich nehme kein Opfer aus eurer Hand an.",
+       "englisch_web": "“Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you,” says Yahweh of Armies, “neither will I accept an offering at your hand."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn vom Aufgang der Sonne bis zu ihrem Untergang\nist mein Name groß unter den Völkern,\nund an jedem Ort wird meinem Namen Weihrauch dargebracht\nund ein reines Opfer.\nDenn mein Name ist groß unter den Völkern“,\nspricht der HERR der Heere.",
+       "englisch_web": "For from the rising of the sun even to its going down, my name is great among the nations, and in every place incense will be offered to my name, and a pure offering; for my name is great among the nations,” says Yahweh of Armies."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Aber ihr entweiht ihn, wenn ihr sagt:\n‚Der Tisch des HERRN ist unrein,\nund seine Frucht, seine Speise, ist verächtlich.‘",
+       "englisch_web": "“But you profane it when you say, ‘Yahweh’s table is polluted, and its fruit, even its food, is contemptible.’"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ihr sagt auch:\n‚Siehe, was für eine Mühe!‘\nUnd ihr rümpft die Nase darüber“,\nspricht der HERR der Heere.\n„Und ihr bringt, was geraubt ist, das Lahme und das Kranke.\nSo bringt ihr das Opfer.\nSoll ich das aus eurer Hand annehmen?“,\nspricht der HERR.",
+       "englisch_web": "You say also, ‘Behold, what a weariness it is!’ And you have sniffed at it”, says Yahweh of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says Yahweh."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "„Verflucht ist aber der Betrüger,\nder in seiner Herde ein männliches Tier hat\nund es gelobt,\nund dann dem Herrn ein fehlerhaftes Tier opfert.\nDenn ich bin ein großer König“,\nspricht der HERR der Heere,\n„und mein Name ist furchtgebietend unter den Völkern.“",
+       "englisch_web": "“But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord a defective thing; for I am a great King,” says Yahweh of Armies, “and my name is awesome among the nations.”"
+      }
+     ],
+     "erklaerung": "Vers 6: Gott fragt die Priester: Ein Kind ehrt seine Eltern, ein Angestellter seinen Chef. Wenn ich euer Vater und euer Herr bin, wo ist dann der Respekt vor mir?\nVers 7–8: Die Priester opferten kranke, blinde und lahme Tiere, obwohl das Gesetz nur fehlerfreie Tiere erlaubte (3. Mose 22,20–22). Sie gaben Gott das, was sie selbst nicht mehr gebrauchen konnten.\nGott sagt mit Ironie: Versucht das doch mal bei eurem Statthalter! Würdet ihr dem persischen Statthalter ein krankes Tier schenken? Bestimmt nicht!\nVers 10: Gott sagt: Lieber soll jemand den Tempel zuschließen, als dass ihr so weitermacht. Ein Gottesdienst ohne Herz ist schlimmer als gar keiner.\nVers 11: Ein erstaunlicher Vers: Überall in der Welt, „vom Aufgang der Sonne bis zu ihrem Untergang“, wird Gottes Name geehrt und ein reines Opfer dargebracht, während die eigenen Priester ihn verachten. Ausleger deuten das unterschiedlich: auf die Juden in der Zerstreuung, auf Menschen anderer Völker, die Gott ehrlich suchen, oder als Blick in die Zukunft. In der frühen Kirche wurde der Vers auf das Abendmahl bezogen.\nVers 13: „Was für eine Mühe!“, die Priester langweilen sich bei ihrem Dienst. Es ist nur noch Routine.\nFür heute: Bekommt Gott bei mir das Beste oder nur die Reste, zum Beispiel meiner Zeit, meiner Kraft, meines Geldes?"
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Seid nicht treulos",
+   "abschnitte": [
+    {
+     "ueberschrift": "Mahnung an die Priester",
+     "vers_von": 1,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "„Und nun, ihr Priester, dieses Gebot gilt euch.",
+       "englisch_web": "“Now, you priests, this commandment is for you."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wenn ihr nicht hört\nund wenn ihr es euch nicht zu Herzen nehmt,\nmeinem Namen die Ehre zu geben“,\nspricht der HERR der Heere,\n„dann werde ich den Fluch über euch senden\nund eure Segnungen verfluchen.\nJa, ich habe sie schon verflucht,\nweil ihr es euch nicht zu Herzen nehmt.",
+       "englisch_web": "If you will not listen, and if you will not take it to heart, to give glory to my name,” says Yahweh of Armies, “then I will send the curse on you, and I will curse your blessings. Indeed, I have cursed them already, because you do not take it to heart."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Siehe, ich werde eure Nachkommen bedrohen\nund euch Mist ins Gesicht streuen,\nden Mist eurer Feste,\nund man wird euch mit ihm wegschaffen.",
+       "englisch_web": "Behold, I will rebuke your offspring, and will spread dung on your faces, even the dung of your feasts; and you will be taken away with it."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ihr werdet erkennen, dass ich euch dieses Gebot gesandt habe,\ndamit mein Bund mit Levi bestehen bleibt“,\nspricht der HERR der Heere.",
+       "englisch_web": "You will know that I have sent this commandment to you, that my covenant may be with Levi,” says Yahweh of Armies."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "„Mein Bund mit ihm war ein Bund des Lebens und des Friedens.\nIch gab sie ihm, damit er mich fürchte.\nUnd er fürchtete mich\nund hatte Ehrfurcht vor meinem Namen.",
+       "englisch_web": "“My covenant was with him of life and peace; and I gave them to him that he might be reverent toward me; and he was reverent toward me, and stood in awe of my name."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Die Weisung der Wahrheit war in seinem Mund,\nund kein Unrecht wurde auf seinen Lippen gefunden.\nEr wandelte mit mir in Frieden und Aufrichtigkeit\nund brachte viele von der Schuld zurück.",
+       "englisch_web": "The law of truth was in his mouth, and unrighteousness was not found in his lips. He walked with me in peace and uprightness, and turned many away from iniquity."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn die Lippen des Priesters sollen Erkenntnis bewahren,\nund aus seinem Mund soll man Weisung suchen,\ndenn er ist ein Bote des HERRN der Heere.",
+       "englisch_web": "For the priest’s lips should keep knowledge, and they should seek the law at his mouth; for he is the messenger of Yahweh of Armies."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ihr aber seid vom Weg abgewichen.\nIhr habt viele durch eure Weisung zu Fall gebracht.\nIhr habt den Bund Levis verdorben“,\nspricht der HERR der Heere.",
+       "englisch_web": "But you have turned away from the path. You have caused many to stumble in the law. You have corrupted the covenant of Levi,” says Yahweh of Armies."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "„Darum habe auch ich euch verächtlich und gering gemacht\nvor dem ganzen Volk,\nweil ihr meine Wege nicht gehalten habt,\nsondern bei der Weisung die Person angesehen habt.“",
+       "englisch_web": "“Therefore I have also made you contemptible and wicked before all the people, according to the way you have not kept my ways, but have had respect for persons in the law."
+      }
+     ],
+     "erklaerung": "Vers 2–3: Harte Worte an die Priester. Weil sie Gott nicht ehren, wird ihr Segen zum Fluch. Das Bild vom Mist im Gesicht ist bewusst drastisch: Die Abfälle der Opfertiere wurden außerhalb des Lagers verbrannt (2. Mose 29,14). So unrein sind die Priester geworden.\nVers 4–7: Gott erinnert an das Ideal: Levi, der Stammvater der Priester, war treu. Ein guter Priester redet die Wahrheit, lebt in Frieden mit Gott und hilft anderen, vom Unrecht umzukehren. Die Menschen sollen bei ihm Rat und Weisung finden. Er ist ein „Bote des HERRN“, im Hebräischen dasselbe Wort wie „Maleachi“.\nVers 8–9: Aber diese Priester haben versagt. Sie haben viele in die Irre geführt und waren parteiisch: Sie haben „die Person angesehen“, also Reiche und Mächtige bevorzugt.\nFür heute: Eine Mahnung an alle, die in Kirche und Gemeinde Verantwortung tragen: Redet die Wahrheit, seid ehrlich und behandelt alle gleich."
+    },
+    {
+     "ueberschrift": "Treulos gegenüber Gott und gegeneinander",
+     "vers_von": 10,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Haben wir nicht alle einen Vater?\nHat uns nicht ein Gott erschaffen?\nWarum handeln wir treulos, jeder gegen seinen Bruder,\nund entweihen den Bund unserer Väter?",
+       "englisch_web": "Don’t we all have one father? Hasn’t one God created us? Why do we deal treacherously every man against his brother, profaning the covenant of our fathers?"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Juda hat treulos gehandelt,\nund ein Gräuel ist in Israel und in Jerusalem verübt worden.\nDenn Juda hat das Heiligtum des HERRN entweiht, das er liebt,\nund hat die Tochter eines fremden Gottes geheiratet.",
+       "englisch_web": "Judah has dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah has profaned the holiness of Yahweh which he loves, and has married the daughter of a foreign god."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Der HERR wird den Mann, der das tut,\naus den Zelten Jakobs ausrotten,\nden Wachenden und den Antwortenden,\nund den, der dem HERRN der Heere eine Opfergabe darbringt.",
+       "englisch_web": "Yahweh will cut off the man who does this, him who wakes and him who answers, out of the tents of Jacob and him who offers an offering to Yahweh of Armies."
+      }
+     ],
+     "erklaerung": "Vers 10: „Haben wir nicht alle einen Vater? Hat uns nicht ein Gott erschaffen?“ Ein wichtiger Satz: Wir sind alle Geschwister, weil wir denselben Schöpfer haben. Darum sollen wir einander nicht betrügen.\nVers 11: „Die Tochter eines fremden Gottes heiraten“ heißt: Männer heirateten Frauen, die anderen Göttern dienten, und übernahmen deren Götterkult. Es geht hier um den Glauben, nicht um Herkunft oder Hautfarbe. Die Bibel erzählt ja auch von Frauen aus anderen Völkern, die zum Gott Israels fanden und hoch geachtet sind, wie Rut, die Moabiterin und Urgroßmutter Davids.\nVers 12: Ein ernstes Urteil. „Den Wachenden und den Antwortenden“ ist eine alte Redewendung, deren genaue Bedeutung unsicher ist; gemeint ist wohl: jeden, ohne Ausnahme."
+    },
+    {
+     "ueberschrift": "Treue in der Ehe",
+     "vers_von": 13,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Und dies tut ihr außerdem:\nIhr bedeckt den Altar des HERRN mit Tränen,\nmit Weinen und mit Seufzen,\nweil er die Opfergabe nicht mehr beachtet\nund sie nicht mehr mit Wohlgefallen aus eurer Hand annimmt.",
+       "englisch_web": "“This again you do: you cover Yahweh’s altar with tears, with weeping, and with sighing, because he doesn’t regard the offering any more, neither receives it with good will at your hand."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Und ihr sagt: „Warum?“\nWeil der HERR Zeuge gewesen ist\nzwischen dir und der Frau deiner Jugend,\nder du untreu geworden bist,\nobwohl sie deine Gefährtin ist\nund die Frau deines Bundes.",
+       "englisch_web": "Yet you say, ‘Why?’ Because Yahweh has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion and the wife of your covenant."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Hat er nicht einen Einzigen gemacht,\nobwohl er noch einen Rest des Geistes hatte?\nUnd warum den Einen?\nEr suchte göttliche Nachkommen.\nDarum hütet euch in eurem Geist,\nund keiner handle treulos gegen die Frau seiner Jugend.",
+       "englisch_web": "Did he not make you one, although he had the residue of the Spirit? Why one? He sought godly offspring. Therefore take heed to your spirit, and let no one deal treacherously against the wife of his youth."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "„Wer hasst und sich scheidet“,\nspricht der HERR, der Gott Israels,\n„der bedeckt sein Gewand mit Gewalt!“,\nspricht der HERR der Heere.\n„Darum hütet euch in eurem Geist,\ndass ihr nicht treulos werdet.“",
+       "englisch_web": "One who hates and divorces”, says Yahweh, the God of Israel, “covers his garment with violence!” says Yahweh of Armies. “Therefore pay attention to your spirit, that you don’t be unfaithful."
+      }
+     ],
+     "erklaerung": "Vers 13–14: Die Männer weinen am Altar, weil Gott ihre Gebete nicht mehr erhört. Gott sagt warum: Ihr seid euren Frauen untreu geworden. Offenbar verließen Männer ihre langjährigen Ehefrauen, um jüngere Frauen zu heiraten, vielleicht aus reichen, fremden Familien (vgl. Vers 11).\nDamals hatten Frauen kaum Rechte. Eine verstoßene Frau stand oft ohne Versorgung und Schutz da. Gott stellt sich hier auf die Seite der verlassenen Frauen.\nDie Ehe ist ein „Bund“, und Gott selbst ist Zeuge. Die Ehefrau ist „deine Gefährtin“, also ebenbürtige Partnerin.\nVers 15: Dieser Vers ist im Hebräischen einer der schwierigsten im ganzen Alten Testament. Die Übersetzungen weichen stark voneinander ab. Gemeint ist wahrscheinlich: Gott hat Mann und Frau in der Ehe zu einer Einheit gemacht.\nVers 16: „Wer hasst und sich scheidet, bedeckt sein Gewand mit Gewalt.“ Das heißt: Wer seine Frau aus Abneigung verstößt, tut ihr Gewalt an. Es geht um Männer, die ihre Frauen rücksichtslos im Stich lassen.\nWichtig: Dieser Vers will Schwache schützen. Er darf niemals dazu benutzt werden, jemanden in einer Ehe festzuhalten, in der er oder sie Gewalt erlebt. Gewalt in der Ehe zerstört selbst den Bund. Hilfe gibt es beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00."
+    },
+    {
+     "ueberschrift": "Wo ist der Gott des Rechts?",
+     "vers_von": 17,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Ihr habt den HERRN mit euren Worten ermüdet.\nUnd ihr sagt: „Womit haben wir ihn ermüdet?“\nDamit, dass ihr sagt:\n„Jeder, der Böses tut, ist gut in den Augen des HERRN,\nund an ihnen hat er Gefallen“,\noder: „Wo ist der Gott des Rechts?“",
+       "englisch_web": "You have wearied Yahweh with your words. Yet you say, ‘How have we wearied him?’ In that you say, ‘Everyone who does evil is good in Yahweh’s sight, and he delights in them;’ or ‘Where is the God of justice?’"
+      }
+     ],
+     "erklaerung": "Die Menschen sind zynisch geworden: „Den Bösen geht es gut. Offenbar gefällt Gott das Böse. Wo ist denn der gerechte Gott?“\nGott ist „müde“ von diesem Gerede. Die Antwort auf die Frage „Wo ist der Gott des Rechts?“ kommt im nächsten Kapitel: Er kommt!"
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Ich sende meinen Boten",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Bote und das Feuer des Schmelzers",
+     "vers_von": 1,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "„Siehe, ich sende meinen Boten,\nund er wird den Weg vor mir bereiten!\nUnd plötzlich wird zu seinem Tempel kommen der Herr, den ihr sucht.\nSiehe, der Bote des Bundes, den ihr begehrt, er kommt!“,\nspricht der HERR der Heere.",
+       "englisch_web": "“Behold, I send my messenger, and he will prepare the way before me! The Lord, whom you seek, will suddenly come to his temple. Behold, the messenger of the covenant, whom you desire, is coming!” says Yahweh of Armies."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Aber wer kann den Tag seines Kommens ertragen?\nUnd wer wird bestehen, wenn er erscheint?\nDenn er ist wie das Feuer des Schmelzers\nund wie die Lauge der Wäscher.",
+       "englisch_web": "“But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderers’ soap;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er wird sitzen wie einer, der Silber schmilzt und reinigt.\nEr wird die Söhne Levis reinigen\nund sie läutern wie Gold und Silber.\nDann werden sie dem HERRN Opfergaben in Gerechtigkeit darbringen.",
+       "englisch_web": "and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and refine them as gold and silver; and they shall offer to Yahweh offerings in righteousness."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Dann wird die Opfergabe Judas und Jerusalems\ndem HERRN angenehm sein\nwie in den Tagen der Vorzeit\nund wie in längst vergangenen Jahren.",
+       "englisch_web": "Then the offering of Judah and Jerusalem will be pleasant to Yahweh as in the days of old and as in ancient years."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich werde zu euch kommen zum Gericht.\nIch werde ein schneller Zeuge sein\ngegen die Zauberer, gegen die Ehebrecher,\ngegen die Meineidigen\nund gegen die, die den Tagelöhner um seinen Lohn bringen,\ndie Witwe und die Waise unterdrücken\nund den Fremden um sein Recht bringen\nund mich nicht fürchten“,\nspricht der HERR der Heere.",
+       "englisch_web": "I will come near to you to judgment. I will be a swift witness against the sorcerers, against the adulterers, against the perjurers, and against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice, and don’t fear me,” says Yahweh of Armies."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "„Denn ich, der HERR, ändere mich nicht.\nDarum seid ihr, Söhne Jakobs, nicht vernichtet worden.",
+       "englisch_web": "“For I, Yahweh, don’t change; therefore you, sons of Jacob, are not consumed."
+      }
+     ],
+     "erklaerung": "Vers 1: Die Antwort auf die Frage „Wo ist der Gott des Rechts?“ (2,17): Gott schickt einen Boten, der ihm den Weg bereitet. Dann kommt der Herr selbst plötzlich in seinen Tempel.\nIm Neuen Testament wird dieser Vers auf Johannes den Täufer bezogen, der Jesus den Weg bereitete (Markus 1,2; Matthäus 11,10; Lukas 7,27). Jesus selbst sagt das über Johannes.\nVers 2–3: Aber das Kommen Gottes ist nicht nur angenehm. Er ist wie das Feuer, mit dem man Silber und Gold reinigt, und wie scharfe Seife. Er wird alles Unreine entfernen, zuerst bei den Priestern.\nVers 5: Wen trifft das Gericht? Nicht nur religiöse Sünder (Zauberer), sondern auch die, die anderen Unrecht tun: Ehebrecher, Lügner vor Gericht, Arbeitgeber, die ihren Arbeitern den Lohn vorenthalten, und alle, die Witwen, Waisen und Fremde unterdrücken. Für Gott gehören Glaube und Gerechtigkeit zusammen.\nVers 6: „Ich, der HERR, ändere mich nicht.“ Gottes Treue ist der Grund, warum es Israel überhaupt noch gibt. Er bleibt bei seinen Versprechen, auch wenn sein Volk untreu ist."
+    },
+    {
+     "ueberschrift": "Kehrt um zu mir!",
+     "vers_von": 7,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 7,
+       "leichte_sprache": "Seit den Tagen eurer Väter\nseid ihr von meinen Ordnungen abgewichen\nund habt sie nicht gehalten.\nKehrt um zu mir,\ndann werde ich mich zu euch umkehren“,\nspricht der HERR der Heere.\n„Aber ihr sagt: ‚Wie sollen wir umkehren?‘",
+       "englisch_web": "From the days of your fathers you have turned away from my ordinances and have not kept them. Return to me, and I will return to you,” says Yahweh of Armies. “But you say, ‘How shall we return?’"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darf ein Mensch Gott berauben?\nDoch ihr beraubt mich!\nAber ihr sagt: ‚Womit haben wir dich beraubt?‘\nMit dem Zehnten und mit den Abgaben.",
+       "englisch_web": "Will a man rob God? Yet you rob me! But you say, ‘How have we robbed you?’ In tithes and offerings."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ihr seid mit dem Fluch verflucht,\ndenn ihr beraubt mich,\nja, das ganze Volk.",
+       "englisch_web": "You are cursed with the curse; for you rob me, even this whole nation."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Bringt den ganzen Zehnten in das Vorratshaus,\ndamit Speise in meinem Haus ist,\nund prüft mich doch damit“,\nspricht der HERR der Heere,\n„ob ich euch nicht die Fenster des Himmels öffne\nund euch Segen ausschütte,\nbis kein Raum mehr dafür da ist.",
+       "englisch_web": "Bring the whole tithe into the storehouse, that there may be food in my house, and test me now in this,” says Yahweh of Armies, “if I will not open you the windows of heaven, and pour you out a blessing, that there will not be enough room for."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ich werde um euretwillen den Fresser bedrohen,\ndamit er euch die Frucht eures Bodens nicht verdirbt.\nUnd euer Weinstock auf dem Feld wird nicht unfruchtbar sein“,\nspricht der HERR der Heere.",
+       "englisch_web": "I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast its fruit before its time in the field,” says Yahweh of Armies."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "„Alle Völker werden euch glücklich preisen,\ndenn ihr werdet ein Land des Wohlgefallens sein“,\nspricht der HERR der Heere.",
+       "englisch_web": "“All nations shall call you blessed, for you will be a delightful land,” says Yahweh of Armies."
+      }
+     ],
+     "erklaerung": "Vers 7: Wieder die Einladung: „Kehrt um zu mir, dann kehre ich mich zu euch um“ (wie Sacharja 1,3).\nVers 8–9: Die Menschen fragen: „Wie sollen wir umkehren?“ Gott nennt ein konkretes Beispiel: den Zehnten. Im Gesetz sollten die Israeliten den zehnten Teil ihrer Ernte abgeben. Davon lebten die Leviten, die kein eigenes Land hatten, und davon wurden auch Arme, Witwen, Waisen und Fremde versorgt (5. Mose 14,28–29). Wer den Zehnten nicht gab, nahm also auch den Armen etwas weg.\nVers 10: „Prüft mich doch!“ Eine der wenigen Stellen in der Bibel, wo Gott die Menschen auffordert, ihn auf die Probe zu stellen. Wer großzügig gibt, wird erleben, dass Gott großzügig segnet.\nWichtig: Dieser Vers wird manchmal missbraucht, um Menschen unter Druck zu setzen oder ihnen Geld abzunehmen, zum Beispiel mit dem Versprechen: „Wenn du spendest, wirst du reich.“ Das ist nicht der Sinn. Gottes Segen kann man nicht kaufen. Im Neuen Testament heißt es: „Jeder gebe, wie er es sich im Herzen vorgenommen hat, nicht mit Unwillen oder aus Zwang, denn einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).\nVers 11: Der „Fresser“ sind wahrscheinlich Heuschrecken oder andere Schädlinge."
+    },
+    {
+     "ueberschrift": "Lohnt es sich, Gott zu dienen?",
+     "vers_von": 13,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "„Eure Worte gegen mich waren hart“,\nspricht der HERR.\n„Aber ihr sagt: ‚Was haben wir gegen dich geredet?‘",
+       "englisch_web": "“Your words have been harsh against me,” says Yahweh. “Yet you say, ‘What have we spoken against you?’"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ihr habt gesagt:\n‚Es ist sinnlos, Gott zu dienen.\nWas nützt es uns, dass wir seine Anordnungen gehalten haben\nund dass wir in Trauer vor dem HERRN der Heere einhergegangen sind?",
+       "englisch_web": "You have said, ‘It is vain to serve God,’ and ‘What profit is it that we have followed his instructions and that we have walked mournfully before Yahweh of Armies?"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Und nun preisen wir die Hochmütigen glücklich.\nJa, die Gottloses tun, kommen voran.\nJa, sie versuchen Gott und kommen davon.‘“",
+       "englisch_web": "Now we call the proud happy; yes, those who work wickedness are built up; yes, they tempt God, and escape.’"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Da redeten die, die den HERRN fürchteten, miteinander.\nUnd der HERR achtete darauf und hörte es,\nund ein Buch der Erinnerung wurde vor ihm geschrieben\nfür die, die den HERRN fürchteten\nund seinen Namen ehrten.",
+       "englisch_web": "Then those who feared Yahweh spoke one with another; and Yahweh listened and heard, and a book of memory was written before him for those who feared Yahweh and who honored his name."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "„Sie werden mir gehören“,\nspricht der HERR der Heere,\n„als mein Eigentum an dem Tag, den ich mache.\nIch werde sie verschonen,\nwie ein Mann seinen Sohn verschont, der ihm dient.",
+       "englisch_web": "They shall be mine,” says Yahweh of Armies, “my own possession in the day that I make. I will spare them, as a man spares his own son who serves him."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Dann werdet ihr wieder den Unterschied sehen\nzwischen dem Gerechten und dem Gottlosen,\nzwischen dem, der Gott dient,\nund dem, der ihm nicht dient.“",
+       "englisch_web": "Then you shall return and discern between the righteous and the wicked, between him who serves God and him who doesn’t serve him."
+      }
+     ],
+     "erklaerung": "Vers 14–15: Eine Frage, die sich viele Menschen stellen: „Lohnt es sich überhaupt, an Gott zu glauben und richtig zu leben? Denen, die Böses tun, geht es doch viel besser!“ (vgl. Psalm 73).\nVers 16: Eine stille, schöne Szene: Die, die Gott treu sind, reden miteinander und ermutigen sich gegenseitig. Und Gott hört zu! Er schreibt ihre Namen in ein „Buch der Erinnerung“. Kein treuer Mensch wird vergessen.\nVers 17: Sie sind Gottes „Eigentum“, sein besonderer Schatz (vgl. 2. Mose 19,5). Er kümmert sich um sie wie ein Vater um sein Kind.\nVers 18: Am Ende wird sichtbar werden, dass es einen Unterschied macht, ob man Gott dient oder nicht."
+    }
+   ]
+  },
+  {
+   "kapitel": 4,
+   "titel": "Die Sonne der Gerechtigkeit",
+   "abschnitte": [
+    {
+     "ueberschrift": "Der Tag kommt",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "„Denn siehe, der Tag kommt,\nbrennend wie ein Ofen,\nan dem alle Hochmütigen und alle, die Gottloses tun,\nStoppeln sein werden.\nDer Tag, der kommt, wird sie verbrennen“,\nspricht der HERR der Heere,\n„sodass er ihnen weder Wurzel noch Zweig lässt.",
+       "englisch_web": "“For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Euch aber, die ihr meinen Namen fürchtet,\nwird die Sonne der Gerechtigkeit aufgehen,\nund Heilung ist unter ihren Flügeln.\nIhr werdet hinausgehen und springen\nwie Kälber aus dem Stall.",
+       "englisch_web": "But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ihr werdet die Gottlosen zertreten,\ndenn sie werden Asche sein unter euren Fußsohlen\nan dem Tag, den ich mache“,\nspricht der HERR der Heere.",
+       "englisch_web": "You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies."
+      }
+     ],
+     "erklaerung": "In deutschen Bibeln stehen diese Verse meistens als Maleachi 3,19–24.\nVers 1: Der Tag des Gerichts ist wie ein glühender Ofen. Alles Hochmütige und Böse verbrennt wie Stroh.\nVers 2: Aber für die, die Gott ehren, ist derselbe Tag ein Sonnenaufgang! „Die Sonne der Gerechtigkeit“ geht auf. Ihre Strahlen sind wie Flügel, die Heilung bringen. Und die Menschen springen vor Freude wie junge Kälber, die nach dem Winter endlich aus dem Stall auf die Weide dürfen.\nChristen haben die „Sonne der Gerechtigkeit“ auf Jesus bezogen. In vielen Weihnachtsliedern taucht dieses Bild auf. Zacharias, der Vater von Johannes dem Täufer, spricht vom „aufgehenden Licht aus der Höhe“ (Lukas 1,78).\nVers 3: Die Gerechten werden über das Böse siegen. Das ist ein Bild für den Sieg des Guten. Es ist kein Aufruf an Menschen zur Gewalt; das Gericht ist Gottes Sache."
+    },
+    {
+     "ueberschrift": "Gedenkt an Mose, und Elia wird kommen",
+     "vers_von": 4,
+     "vers_bis": 6,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "„Gedenkt an das Gesetz meines Knechtes Mose,\ndas ich ihm am Horeb für ganz Israel geboten habe,\nSatzungen und Rechte.",
+       "englisch_web": "“Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Siehe, ich werde euch den Propheten Elia senden,\nbevor der große und schreckliche Tag des HERRN kommt.",
+       "englisch_web": "Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er wird die Herzen der Väter den Kindern zuwenden\nund die Herzen der Kinder ihren Vätern,\ndamit ich nicht komme\nund das Land mit dem Bann schlage.“",
+       "englisch_web": "He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”"
+      }
+     ],
+     "erklaerung": "Die letzten Worte des Alten Testaments (in christlicher Reihenfolge):\nVers 4: Erinnert euch an das Gesetz des Mose! Der Horeb ist ein anderer Name für den Berg Sinai, wo Gott Mose die Gebote gab.\nVers 5: Gott wird den Propheten Elia senden. Elia war nicht gestorben, sondern in einem feurigen Wagen in den Himmel aufgenommen worden (2. Könige 2,11). Darum erwartete man, dass er wiederkommt.\nIm Judentum wird bis heute beim Pessachmahl ein Becher für Elia bereitgestellt und die Tür für ihn geöffnet, in der Hoffnung, dass er kommt und den Messias ankündigt.\nIm Neuen Testament sagt der Engel über Johannes den Täufer, er werde „im Geist und in der Kraft des Elia“ vorausgehen, „um die Herzen der Väter den Kindern zuzuwenden“ (Lukas 1,17). Jesus selbst sagt über Johannes: „Er ist Elia, der kommen soll“ (Matthäus 11,14; 17,10–13).\nVers 6: Elias Aufgabe: Versöhnung zwischen den Generationen. Eltern und Kinder sollen wieder zueinanderfinden. Wenn Familien und Generationen versöhnt sind, kann Gottes Segen kommen statt des Fluches.\nDas Alte Testament endet also mit einer Erwartung: Gott wird kommen. Es endet mit einer offenen Tür, und das Neue Testament beginnt mit Johannes dem Täufer, der genau durch diese Tür tritt."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im Buch Maleachi gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Ich habe euch geliebt:** Das erste Wort Gottes in diesem Buch ist eine Liebeserklärung (1,2).\n**Gott das Beste geben:** Die Priester opferten kranke und lahme Tiere. Gott will nicht die Reste, sondern das Herz (1,6–14).\n**Ein Gott für alle:** „Vom Aufgang der Sonne bis zu ihrem Untergang ist mein Name groß unter den Völkern“ (1,11). „Haben wir nicht alle einen Vater?“ (2,10).\n**Treue in der Ehe:** Gott ist Zeuge des Ehebundes und steht auf der Seite der verlassenen Frauen (2,14–16).\n**Der Bote kommt:** „Siehe, ich sende meinen Boten, und er wird den Weg vor mir bereiten“ (3,1).\n**Gott ändert sich nicht:** Seine Treue ist der Grund, warum es sein Volk noch gibt (3,6).\n**Kehrt um zu mir:** „Kehrt um zu mir, dann werde ich mich zu euch umkehren“ (3,7).\n**Ein Buch der Erinnerung:** Gott vergisst niemanden, der ihm treu ist (3,16).\n**Die Sonne der Gerechtigkeit:** Für die, die Gott ehren, geht eine Sonne auf, mit Heilung unter ihren Flügeln (4,2).\n**Elia wird kommen:** Er wird die Herzen der Eltern und Kinder einander zuwenden (4,5–6).\n**Für heute:** Bekommt Gott bei mir das Beste oder die Reste? Bin ich treu zu Gott und zu den Menschen, mit denen ich verbunden bin?"
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im ganzen Alten Testament gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Am Anfang:** Gott erschafft die Welt und den Menschen als sein Ebenbild, Mann und Frau (1. Mose 1–2). Doch die Menschen wenden sich von Gott ab, und Gewalt und Leid kommen in die Welt.\n**Abraham und die Väter:** Gott ruft Abraham und verspricht: „In dir sollen gesegnet werden alle Geschlechter der Erde“ (1. Mose 12,3). Er führt Isaak, Jakob und Josef.\n**Befreiung:** Gott befreit sein Volk aus der Sklaverei in Ägypten und gibt am Sinai die Zehn Gebote: Regeln für ein Leben in Freiheit mit Gott und miteinander.\n**Im verheißenen Land:** Unter Josua, den Richtern und den Königen Saul, David und Salomo lebt Israel im Land. Es gibt gute und schlechte Zeiten, Treue und Untreue.\n**Die Propheten:** Immer wieder schickt Gott Propheten, die zur Umkehr rufen, für die Armen eintreten und Hoffnung schenken: Elia, Jesaja, Jeremia, Hesekiel, Amos, Hosea, Micha und viele andere.\n**Exil und Rückkehr:** Weil das Volk nicht hört, werden Israel und Juda zerstört und ins Exil geführt. Aber Gott gibt sein Volk nicht auf. Es darf heimkehren und den Tempel wieder aufbauen.\n**Gebet und Weisheit:** Die Psalmen zeigen, wie Menschen mit Gott reden, in Freude, Klage und Zweifel. Die Sprüche, Hiob, Prediger und das Hohelied fragen nach dem Sinn des Lebens, nach Leid und Liebe.\n**Die große Hoffnung:** Die Propheten kündigen einen neuen Bund an, einen König aus dem Haus Davids, einen Knecht Gottes, der für andere leidet, und einen Tag, an dem Gott König über die ganze Erde sein wird und alle Völker in Frieden leben.\n**Für Juden und Christen:** Diese Schriften sind die Heilige Schrift des jüdischen Volkes, die „Tanach“. Für Christen sind sie das Alte Testament. Jesus selbst kannte, betete und lehrte diese Schriften. Wer das Neue Testament verstehen will, muss das Alte kennen.\n**Wie geht es weiter?** Als Nächstes beginnt das Neue Testament mit dem Evangelium nach Matthäus. Es erzählt von Jesus aus Nazaret, von seiner Geburt in Bethlehem, seinem Leben, seinem Tod und seiner Auferstehung. Und gleich am Anfang tritt Johannes der Täufer auf, der Bote, den Maleachi angekündigt hat."
+    }
+   ]
+  }
+ ]
+}

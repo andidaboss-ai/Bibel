@@ -115252,3 +115252,442 @@ An jenem Tag wird kein Kanaaniter mehr im Haus des HERRN der Heere sein.
 > **Sacharja und Jesus:** Kein Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja.
 > **Für heute:** Gott fängt mit kleinen Anfängen an, wirkt durch seinen Geist und hat ein großes Ziel: dass alle Menschen ihn erkennen und in Frieden leben.
 > **Wie geht es weiter?** Als Nächstes kommt Maleachi, das letzte Buch des Alten Testaments. Es endet mit der Ankündigung, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt.
+
+
+---
+
+# Maleachi
+
+## Maleachi – Kapitel 1
+#### Ich habe euch geliebt
+
+---
+
+### Bevor es losgeht: Wer war Maleachi?
+
+Maleachi ist das letzte Buch des Alten Testaments in christlichen Bibeln. (In der jüdischen Bibel stehen die Propheten in einer anderen Reihenfolge, und die Bibel endet mit den Chronikbüchern.)
+Der Name Maleachi bedeutet „mein Bote“. Vielleicht ist es sein Name, vielleicht auch ein Titel (vgl. 3,1, wo Gott sagt: „Ich sende meinen Boten“). Über die Person wissen wir nichts.
+Maleachi lebte wahrscheinlich im 5. Jahrhundert vor Christus, einige Jahrzehnte nachdem der zweite Tempel wieder aufgebaut war (515 vor Christus), vielleicht zur Zeit von Esra und Nehemia. Die erste Begeisterung war vorbei. Die Priester waren nachlässig, die Menschen gleichgültig. Viele fragten: „Lohnt es sich überhaupt, Gott zu dienen?“
+Das Besondere an Maleachi: Das Buch ist wie ein Streitgespräch aufgebaut. Gott sagt etwas, das Volk widerspricht („Wieso? Womit denn?“), und Gott antwortet. Das passiert sechsmal.
+Am Ende kündigt Maleachi an, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt. Im Neuen Testament wird das auf Johannes den Täufer bezogen.
+Ein Hinweis: Im WEB hat Maleachi 4 Kapitel. In deutschen Bibeln sind es meistens nur 3; das WEB-Kapitel 4 ist dort 3,19–24.
+
+---
+
+### Gottes Liebe zu Israel (Vers 1–5)
+
+<sup>1</sup>Ein Ausspruch, das Wort des HERRN an Israel durch Maleachi.
+<sup>2</sup>„Ich habe euch geliebt“, spricht der HERR.
+Aber ihr sagt: „Wie hast du uns geliebt?“
+„War nicht Esau Jakobs Bruder?“, spricht der HERR.
+„Doch ich habe Jakob geliebt,
+<sup>3</sup>aber Esau habe ich gehasst.
+Ich habe seine Berge zur Wüste gemacht
+und sein Erbe den Schakalen der Wüste gegeben.“
+<sup>4</sup>Wenn Edom sagt:
+„Wir sind zerschlagen,
+aber wir werden die Trümmer wieder aufbauen“,
+so spricht der HERR der Heere:
+„Sie mögen bauen, ich aber werde niederreißen.
+Und man wird sie nennen: ‚Land der Gottlosigkeit‘
+und ‚das Volk, über das der HERR für immer zornig ist‘.“
+<sup>5</sup>Eure Augen werden es sehen, und ihr werdet sagen:
+„Groß ist der HERR,
+auch über die Grenze Israels hinaus!“
+
+> **Was bedeutet das?**
+> Vers 2: Das erste Wort des Buches ist ein Liebesbekenntnis Gottes: „Ich habe euch geliebt.“ Aber das Volk zweifelt: „Wie denn? Wir merken nichts davon!“
+> Vers 2–3: Gott erinnert an die Zwillinge Jakob und Esau (1. Mose 25). Gott hat Jakob erwählt, nicht Esau. „Lieben“ und „hassen“ ist hier eine hebräische Redeweise für „erwählen“ und „nicht erwählen“ oder „bevorzugen“ und „weniger bevorzugen“. Es heißt nicht, dass Gott Esau persönlich verabscheut hätte. Jesus benutzt dieselbe Redeweise, wenn er sagt, man müsse Vater und Mutter „hassen“, um ihm zu folgen (Lukas 14,26; vgl. Matthäus 10,37: „mehr lieben als mich“).
+> Paulus zitiert diesen Vers im Römerbrief (Römer 9,13), wenn er über Gottes freie Erwählung spricht.
+> Vers 4: Edom (das Volk der Nachkommen Esaus) war inzwischen von anderen Völkern aus seinem Land vertrieben worden. Israel dagegen durfte zurückkehren. Daran sollen sie Gottes Liebe erkennen.
+> Vers 5: „Groß ist der HERR, auch über die Grenze Israels hinaus“: Gott ist nicht nur ein Gott für Israel, sondern für die ganze Welt.
+
+---
+
+### Die Priester verachten Gott (Vers 6–14)
+
+<sup>6</sup>„Ein Sohn ehrt seinen Vater
+und ein Knecht seinen Herrn.
+Wenn ich nun Vater bin, wo ist meine Ehre?
+Und wenn ich Herr bin, wo ist die Ehrfurcht vor mir?“,
+spricht der HERR der Heere zu euch Priestern,
+die ihr meinen Namen verachtet.
+„Ihr sagt: ‚Womit haben wir deinen Namen verachtet?‘
+<sup>7</sup>Ihr bringt unreines Brot auf meinen Altar.
+Ihr sagt: ‚Womit haben wir dich verunreinigt?‘
+Damit, dass ihr sagt: ‚Der Tisch des HERRN ist verächtlich.‘
+<sup>8</sup>Wenn ihr ein blindes Tier zum Opfer bringt, ist das nicht böse?
+Und wenn ihr ein lahmes und krankes bringt, ist das nicht böse?
+Bring es doch einmal deinem Statthalter!
+Wird er Gefallen an dir haben?
+Oder wird er dich freundlich aufnehmen?“,
+spricht der HERR der Heere.
+<sup>9</sup>„Und nun, bittet doch Gott, dass er uns gnädig sei!
+Wird er mit so etwas einen von euch freundlich aufnehmen?“,
+spricht der HERR der Heere.
+<sup>10</sup>„Ach, wäre doch einer unter euch,
+der die Türen zuschließt,
+damit ihr nicht umsonst Feuer auf meinem Altar anzündet!
+Ich habe kein Gefallen an euch“,
+spricht der HERR der Heere,
+„und ich nehme kein Opfer aus eurer Hand an.
+<sup>11</sup>Denn vom Aufgang der Sonne bis zu ihrem Untergang
+ist mein Name groß unter den Völkern,
+und an jedem Ort wird meinem Namen Weihrauch dargebracht
+und ein reines Opfer.
+Denn mein Name ist groß unter den Völkern“,
+spricht der HERR der Heere.
+<sup>12</sup>„Aber ihr entweiht ihn, wenn ihr sagt:
+‚Der Tisch des HERRN ist unrein,
+und seine Frucht, seine Speise, ist verächtlich.‘
+<sup>13</sup>Ihr sagt auch:
+‚Siehe, was für eine Mühe!‘
+Und ihr rümpft die Nase darüber“,
+spricht der HERR der Heere.
+„Und ihr bringt, was geraubt ist, das Lahme und das Kranke.
+So bringt ihr das Opfer.
+Soll ich das aus eurer Hand annehmen?“,
+spricht der HERR.
+<sup>14</sup>„Verflucht ist aber der Betrüger,
+der in seiner Herde ein männliches Tier hat
+und es gelobt,
+und dann dem Herrn ein fehlerhaftes Tier opfert.
+Denn ich bin ein großer König“,
+spricht der HERR der Heere,
+„und mein Name ist furchtgebietend unter den Völkern.“
+
+> **Was bedeutet das?**
+> Vers 6: Gott fragt die Priester: Ein Kind ehrt seine Eltern, ein Angestellter seinen Chef. Wenn ich euer Vater und euer Herr bin, wo ist dann der Respekt vor mir?
+> Vers 7–8: Die Priester opferten kranke, blinde und lahme Tiere, obwohl das Gesetz nur fehlerfreie Tiere erlaubte (3. Mose 22,20–22). Sie gaben Gott das, was sie selbst nicht mehr gebrauchen konnten.
+> Gott sagt mit Ironie: Versucht das doch mal bei eurem Statthalter! Würdet ihr dem persischen Statthalter ein krankes Tier schenken? Bestimmt nicht!
+> Vers 10: Gott sagt: Lieber soll jemand den Tempel zuschließen, als dass ihr so weitermacht. Ein Gottesdienst ohne Herz ist schlimmer als gar keiner.
+> Vers 11: Ein erstaunlicher Vers: Überall in der Welt, „vom Aufgang der Sonne bis zu ihrem Untergang“, wird Gottes Name geehrt und ein reines Opfer dargebracht, während die eigenen Priester ihn verachten. Ausleger deuten das unterschiedlich: auf die Juden in der Zerstreuung, auf Menschen anderer Völker, die Gott ehrlich suchen, oder als Blick in die Zukunft. In der frühen Kirche wurde der Vers auf das Abendmahl bezogen.
+> Vers 13: „Was für eine Mühe!“, die Priester langweilen sich bei ihrem Dienst. Es ist nur noch Routine.
+> Für heute: Bekommt Gott bei mir das Beste oder nur die Reste, zum Beispiel meiner Zeit, meiner Kraft, meines Geldes?
+
+## Maleachi – Kapitel 2
+#### Seid nicht treulos
+
+---
+
+### Mahnung an die Priester (Vers 1–9)
+
+<sup>1</sup>„Und nun, ihr Priester, dieses Gebot gilt euch.
+<sup>2</sup>Wenn ihr nicht hört
+und wenn ihr es euch nicht zu Herzen nehmt,
+meinem Namen die Ehre zu geben“,
+spricht der HERR der Heere,
+„dann werde ich den Fluch über euch senden
+und eure Segnungen verfluchen.
+Ja, ich habe sie schon verflucht,
+weil ihr es euch nicht zu Herzen nehmt.
+<sup>3</sup>Siehe, ich werde eure Nachkommen bedrohen
+und euch Mist ins Gesicht streuen,
+den Mist eurer Feste,
+und man wird euch mit ihm wegschaffen.
+<sup>4</sup>Ihr werdet erkennen, dass ich euch dieses Gebot gesandt habe,
+damit mein Bund mit Levi bestehen bleibt“,
+spricht der HERR der Heere.
+<sup>5</sup>„Mein Bund mit ihm war ein Bund des Lebens und des Friedens.
+Ich gab sie ihm, damit er mich fürchte.
+Und er fürchtete mich
+und hatte Ehrfurcht vor meinem Namen.
+<sup>6</sup>Die Weisung der Wahrheit war in seinem Mund,
+und kein Unrecht wurde auf seinen Lippen gefunden.
+Er wandelte mit mir in Frieden und Aufrichtigkeit
+und brachte viele von der Schuld zurück.
+<sup>7</sup>Denn die Lippen des Priesters sollen Erkenntnis bewahren,
+und aus seinem Mund soll man Weisung suchen,
+denn er ist ein Bote des HERRN der Heere.
+<sup>8</sup>Ihr aber seid vom Weg abgewichen.
+Ihr habt viele durch eure Weisung zu Fall gebracht.
+Ihr habt den Bund Levis verdorben“,
+spricht der HERR der Heere.
+<sup>9</sup>„Darum habe auch ich euch verächtlich und gering gemacht
+vor dem ganzen Volk,
+weil ihr meine Wege nicht gehalten habt,
+sondern bei der Weisung die Person angesehen habt.“
+
+> **Was bedeutet das?**
+> Vers 2–3: Harte Worte an die Priester. Weil sie Gott nicht ehren, wird ihr Segen zum Fluch. Das Bild vom Mist im Gesicht ist bewusst drastisch: Die Abfälle der Opfertiere wurden außerhalb des Lagers verbrannt (2. Mose 29,14). So unrein sind die Priester geworden.
+> Vers 4–7: Gott erinnert an das Ideal: Levi, der Stammvater der Priester, war treu. Ein guter Priester redet die Wahrheit, lebt in Frieden mit Gott und hilft anderen, vom Unrecht umzukehren. Die Menschen sollen bei ihm Rat und Weisung finden. Er ist ein „Bote des HERRN“, im Hebräischen dasselbe Wort wie „Maleachi“.
+> Vers 8–9: Aber diese Priester haben versagt. Sie haben viele in die Irre geführt und waren parteiisch: Sie haben „die Person angesehen“, also Reiche und Mächtige bevorzugt.
+> Für heute: Eine Mahnung an alle, die in Kirche und Gemeinde Verantwortung tragen: Redet die Wahrheit, seid ehrlich und behandelt alle gleich.
+
+---
+
+### Treulos gegenüber Gott und gegeneinander (Vers 10–12)
+
+<sup>10</sup>Haben wir nicht alle einen Vater?
+Hat uns nicht ein Gott erschaffen?
+Warum handeln wir treulos, jeder gegen seinen Bruder,
+und entweihen den Bund unserer Väter?
+<sup>11</sup>Juda hat treulos gehandelt,
+und ein Gräuel ist in Israel und in Jerusalem verübt worden.
+Denn Juda hat das Heiligtum des HERRN entweiht, das er liebt,
+und hat die Tochter eines fremden Gottes geheiratet.
+<sup>12</sup>Der HERR wird den Mann, der das tut,
+aus den Zelten Jakobs ausrotten,
+den Wachenden und den Antwortenden,
+und den, der dem HERRN der Heere eine Opfergabe darbringt.
+
+> **Was bedeutet das?**
+> Vers 10: „Haben wir nicht alle einen Vater? Hat uns nicht ein Gott erschaffen?“ Ein wichtiger Satz: Wir sind alle Geschwister, weil wir denselben Schöpfer haben. Darum sollen wir einander nicht betrügen.
+> Vers 11: „Die Tochter eines fremden Gottes heiraten“ heißt: Männer heirateten Frauen, die anderen Göttern dienten, und übernahmen deren Götterkult. Es geht hier um den Glauben, nicht um Herkunft oder Hautfarbe. Die Bibel erzählt ja auch von Frauen aus anderen Völkern, die zum Gott Israels fanden und hoch geachtet sind, wie Rut, die Moabiterin und Urgroßmutter Davids.
+> Vers 12: Ein ernstes Urteil. „Den Wachenden und den Antwortenden“ ist eine alte Redewendung, deren genaue Bedeutung unsicher ist; gemeint ist wohl: jeden, ohne Ausnahme.
+
+---
+
+### Treue in der Ehe (Vers 13–16)
+
+<sup>13</sup>Und dies tut ihr außerdem:
+Ihr bedeckt den Altar des HERRN mit Tränen,
+mit Weinen und mit Seufzen,
+weil er die Opfergabe nicht mehr beachtet
+und sie nicht mehr mit Wohlgefallen aus eurer Hand annimmt.
+<sup>14</sup>Und ihr sagt: „Warum?“
+Weil der HERR Zeuge gewesen ist
+zwischen dir und der Frau deiner Jugend,
+der du untreu geworden bist,
+obwohl sie deine Gefährtin ist
+und die Frau deines Bundes.
+<sup>15</sup>Hat er nicht einen Einzigen gemacht,
+obwohl er noch einen Rest des Geistes hatte?
+Und warum den Einen?
+Er suchte göttliche Nachkommen.
+Darum hütet euch in eurem Geist,
+und keiner handle treulos gegen die Frau seiner Jugend.
+<sup>16</sup>„Wer hasst und sich scheidet“,
+spricht der HERR, der Gott Israels,
+„der bedeckt sein Gewand mit Gewalt!“,
+spricht der HERR der Heere.
+„Darum hütet euch in eurem Geist,
+dass ihr nicht treulos werdet.“
+
+> **Was bedeutet das?**
+> Vers 13–14: Die Männer weinen am Altar, weil Gott ihre Gebete nicht mehr erhört. Gott sagt warum: Ihr seid euren Frauen untreu geworden. Offenbar verließen Männer ihre langjährigen Ehefrauen, um jüngere Frauen zu heiraten, vielleicht aus reichen, fremden Familien (vgl. Vers 11).
+> Damals hatten Frauen kaum Rechte. Eine verstoßene Frau stand oft ohne Versorgung und Schutz da. Gott stellt sich hier auf die Seite der verlassenen Frauen.
+> Die Ehe ist ein „Bund“, und Gott selbst ist Zeuge. Die Ehefrau ist „deine Gefährtin“, also ebenbürtige Partnerin.
+> Vers 15: Dieser Vers ist im Hebräischen einer der schwierigsten im ganzen Alten Testament. Die Übersetzungen weichen stark voneinander ab. Gemeint ist wahrscheinlich: Gott hat Mann und Frau in der Ehe zu einer Einheit gemacht.
+> Vers 16: „Wer hasst und sich scheidet, bedeckt sein Gewand mit Gewalt.“ Das heißt: Wer seine Frau aus Abneigung verstößt, tut ihr Gewalt an. Es geht um Männer, die ihre Frauen rücksichtslos im Stich lassen.
+> Wichtig: Dieser Vers will Schwache schützen. Er darf niemals dazu benutzt werden, jemanden in einer Ehe festzuhalten, in der er oder sie Gewalt erlebt. Gewalt in der Ehe zerstört selbst den Bund. Hilfe gibt es beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00.
+
+---
+
+### Wo ist der Gott des Rechts? (Vers 17)
+
+<sup>17</sup>Ihr habt den HERRN mit euren Worten ermüdet.
+Und ihr sagt: „Womit haben wir ihn ermüdet?“
+Damit, dass ihr sagt:
+„Jeder, der Böses tut, ist gut in den Augen des HERRN,
+und an ihnen hat er Gefallen“,
+oder: „Wo ist der Gott des Rechts?“
+
+> **Was bedeutet das?**
+> Die Menschen sind zynisch geworden: „Den Bösen geht es gut. Offenbar gefällt Gott das Böse. Wo ist denn der gerechte Gott?“
+> Gott ist „müde“ von diesem Gerede. Die Antwort auf die Frage „Wo ist der Gott des Rechts?“ kommt im nächsten Kapitel: Er kommt!
+
+## Maleachi – Kapitel 3
+#### Ich sende meinen Boten
+
+---
+
+### Der Bote und das Feuer des Schmelzers (Vers 1–6)
+
+<sup>1</sup>„Siehe, ich sende meinen Boten,
+und er wird den Weg vor mir bereiten!
+Und plötzlich wird zu seinem Tempel kommen der Herr, den ihr sucht.
+Siehe, der Bote des Bundes, den ihr begehrt, er kommt!“,
+spricht der HERR der Heere.
+<sup>2</sup>„Aber wer kann den Tag seines Kommens ertragen?
+Und wer wird bestehen, wenn er erscheint?
+Denn er ist wie das Feuer des Schmelzers
+und wie die Lauge der Wäscher.
+<sup>3</sup>Er wird sitzen wie einer, der Silber schmilzt und reinigt.
+Er wird die Söhne Levis reinigen
+und sie läutern wie Gold und Silber.
+Dann werden sie dem HERRN Opfergaben in Gerechtigkeit darbringen.
+<sup>4</sup>Dann wird die Opfergabe Judas und Jerusalems
+dem HERRN angenehm sein
+wie in den Tagen der Vorzeit
+und wie in längst vergangenen Jahren.
+<sup>5</sup>Ich werde zu euch kommen zum Gericht.
+Ich werde ein schneller Zeuge sein
+gegen die Zauberer, gegen die Ehebrecher,
+gegen die Meineidigen
+und gegen die, die den Tagelöhner um seinen Lohn bringen,
+die Witwe und die Waise unterdrücken
+und den Fremden um sein Recht bringen
+und mich nicht fürchten“,
+spricht der HERR der Heere.
+<sup>6</sup>„Denn ich, der HERR, ändere mich nicht.
+Darum seid ihr, Söhne Jakobs, nicht vernichtet worden.
+
+> **Was bedeutet das?**
+> Vers 1: Die Antwort auf die Frage „Wo ist der Gott des Rechts?“ (2,17): Gott schickt einen Boten, der ihm den Weg bereitet. Dann kommt der Herr selbst plötzlich in seinen Tempel.
+> Im Neuen Testament wird dieser Vers auf Johannes den Täufer bezogen, der Jesus den Weg bereitete (Markus 1,2; Matthäus 11,10; Lukas 7,27). Jesus selbst sagt das über Johannes.
+> Vers 2–3: Aber das Kommen Gottes ist nicht nur angenehm. Er ist wie das Feuer, mit dem man Silber und Gold reinigt, und wie scharfe Seife. Er wird alles Unreine entfernen, zuerst bei den Priestern.
+> Vers 5: Wen trifft das Gericht? Nicht nur religiöse Sünder (Zauberer), sondern auch die, die anderen Unrecht tun: Ehebrecher, Lügner vor Gericht, Arbeitgeber, die ihren Arbeitern den Lohn vorenthalten, und alle, die Witwen, Waisen und Fremde unterdrücken. Für Gott gehören Glaube und Gerechtigkeit zusammen.
+> Vers 6: „Ich, der HERR, ändere mich nicht.“ Gottes Treue ist der Grund, warum es Israel überhaupt noch gibt. Er bleibt bei seinen Versprechen, auch wenn sein Volk untreu ist.
+
+---
+
+### Kehrt um zu mir! (Vers 7–12)
+
+<sup>7</sup>Seit den Tagen eurer Väter
+seid ihr von meinen Ordnungen abgewichen
+und habt sie nicht gehalten.
+Kehrt um zu mir,
+dann werde ich mich zu euch umkehren“,
+spricht der HERR der Heere.
+„Aber ihr sagt: ‚Wie sollen wir umkehren?‘
+<sup>8</sup>Darf ein Mensch Gott berauben?
+Doch ihr beraubt mich!
+Aber ihr sagt: ‚Womit haben wir dich beraubt?‘
+Mit dem Zehnten und mit den Abgaben.
+<sup>9</sup>Ihr seid mit dem Fluch verflucht,
+denn ihr beraubt mich,
+ja, das ganze Volk.
+<sup>10</sup>Bringt den ganzen Zehnten in das Vorratshaus,
+damit Speise in meinem Haus ist,
+und prüft mich doch damit“,
+spricht der HERR der Heere,
+„ob ich euch nicht die Fenster des Himmels öffne
+und euch Segen ausschütte,
+bis kein Raum mehr dafür da ist.
+<sup>11</sup>Ich werde um euretwillen den Fresser bedrohen,
+damit er euch die Frucht eures Bodens nicht verdirbt.
+Und euer Weinstock auf dem Feld wird nicht unfruchtbar sein“,
+spricht der HERR der Heere.
+<sup>12</sup>„Alle Völker werden euch glücklich preisen,
+denn ihr werdet ein Land des Wohlgefallens sein“,
+spricht der HERR der Heere.
+
+> **Was bedeutet das?**
+> Vers 7: Wieder die Einladung: „Kehrt um zu mir, dann kehre ich mich zu euch um“ (wie Sacharja 1,3).
+> Vers 8–9: Die Menschen fragen: „Wie sollen wir umkehren?“ Gott nennt ein konkretes Beispiel: den Zehnten. Im Gesetz sollten die Israeliten den zehnten Teil ihrer Ernte abgeben. Davon lebten die Leviten, die kein eigenes Land hatten, und davon wurden auch Arme, Witwen, Waisen und Fremde versorgt (5. Mose 14,28–29). Wer den Zehnten nicht gab, nahm also auch den Armen etwas weg.
+> Vers 10: „Prüft mich doch!“ Eine der wenigen Stellen in der Bibel, wo Gott die Menschen auffordert, ihn auf die Probe zu stellen. Wer großzügig gibt, wird erleben, dass Gott großzügig segnet.
+> Wichtig: Dieser Vers wird manchmal missbraucht, um Menschen unter Druck zu setzen oder ihnen Geld abzunehmen, zum Beispiel mit dem Versprechen: „Wenn du spendest, wirst du reich.“ Das ist nicht der Sinn. Gottes Segen kann man nicht kaufen. Im Neuen Testament heißt es: „Jeder gebe, wie er es sich im Herzen vorgenommen hat, nicht mit Unwillen oder aus Zwang, denn einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).
+> Vers 11: Der „Fresser“ sind wahrscheinlich Heuschrecken oder andere Schädlinge.
+
+---
+
+### Lohnt es sich, Gott zu dienen? (Vers 13–18)
+
+<sup>13</sup>„Eure Worte gegen mich waren hart“,
+spricht der HERR.
+„Aber ihr sagt: ‚Was haben wir gegen dich geredet?‘
+<sup>14</sup>Ihr habt gesagt:
+‚Es ist sinnlos, Gott zu dienen.
+Was nützt es uns, dass wir seine Anordnungen gehalten haben
+und dass wir in Trauer vor dem HERRN der Heere einhergegangen sind?
+<sup>15</sup>Und nun preisen wir die Hochmütigen glücklich.
+Ja, die Gottloses tun, kommen voran.
+Ja, sie versuchen Gott und kommen davon.‘“
+<sup>16</sup>Da redeten die, die den HERRN fürchteten, miteinander.
+Und der HERR achtete darauf und hörte es,
+und ein Buch der Erinnerung wurde vor ihm geschrieben
+für die, die den HERRN fürchteten
+und seinen Namen ehrten.
+<sup>17</sup>„Sie werden mir gehören“,
+spricht der HERR der Heere,
+„als mein Eigentum an dem Tag, den ich mache.
+Ich werde sie verschonen,
+wie ein Mann seinen Sohn verschont, der ihm dient.
+<sup>18</sup>Dann werdet ihr wieder den Unterschied sehen
+zwischen dem Gerechten und dem Gottlosen,
+zwischen dem, der Gott dient,
+und dem, der ihm nicht dient.“
+
+> **Was bedeutet das?**
+> Vers 14–15: Eine Frage, die sich viele Menschen stellen: „Lohnt es sich überhaupt, an Gott zu glauben und richtig zu leben? Denen, die Böses tun, geht es doch viel besser!“ (vgl. Psalm 73).
+> Vers 16: Eine stille, schöne Szene: Die, die Gott treu sind, reden miteinander und ermutigen sich gegenseitig. Und Gott hört zu! Er schreibt ihre Namen in ein „Buch der Erinnerung“. Kein treuer Mensch wird vergessen.
+> Vers 17: Sie sind Gottes „Eigentum“, sein besonderer Schatz (vgl. 2. Mose 19,5). Er kümmert sich um sie wie ein Vater um sein Kind.
+> Vers 18: Am Ende wird sichtbar werden, dass es einen Unterschied macht, ob man Gott dient oder nicht.
+
+## Maleachi – Kapitel 4
+#### Die Sonne der Gerechtigkeit
+
+---
+
+### Der Tag kommt (Vers 1–3)
+
+<sup>1</sup>„Denn siehe, der Tag kommt,
+brennend wie ein Ofen,
+an dem alle Hochmütigen und alle, die Gottloses tun,
+Stoppeln sein werden.
+Der Tag, der kommt, wird sie verbrennen“,
+spricht der HERR der Heere,
+„sodass er ihnen weder Wurzel noch Zweig lässt.
+<sup>2</sup>Euch aber, die ihr meinen Namen fürchtet,
+wird die Sonne der Gerechtigkeit aufgehen,
+und Heilung ist unter ihren Flügeln.
+Ihr werdet hinausgehen und springen
+wie Kälber aus dem Stall.
+<sup>3</sup>Ihr werdet die Gottlosen zertreten,
+denn sie werden Asche sein unter euren Fußsohlen
+an dem Tag, den ich mache“,
+spricht der HERR der Heere.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln stehen diese Verse meistens als Maleachi 3,19–24.
+> Vers 1: Der Tag des Gerichts ist wie ein glühender Ofen. Alles Hochmütige und Böse verbrennt wie Stroh.
+> Vers 2: Aber für die, die Gott ehren, ist derselbe Tag ein Sonnenaufgang! „Die Sonne der Gerechtigkeit“ geht auf. Ihre Strahlen sind wie Flügel, die Heilung bringen. Und die Menschen springen vor Freude wie junge Kälber, die nach dem Winter endlich aus dem Stall auf die Weide dürfen.
+> Christen haben die „Sonne der Gerechtigkeit“ auf Jesus bezogen. In vielen Weihnachtsliedern taucht dieses Bild auf. Zacharias, der Vater von Johannes dem Täufer, spricht vom „aufgehenden Licht aus der Höhe“ (Lukas 1,78).
+> Vers 3: Die Gerechten werden über das Böse siegen. Das ist ein Bild für den Sieg des Guten. Es ist kein Aufruf an Menschen zur Gewalt; das Gericht ist Gottes Sache.
+
+---
+
+### Gedenkt an Mose, und Elia wird kommen (Vers 4–6)
+
+<sup>4</sup>„Gedenkt an das Gesetz meines Knechtes Mose,
+das ich ihm am Horeb für ganz Israel geboten habe,
+Satzungen und Rechte.
+<sup>5</sup>Siehe, ich werde euch den Propheten Elia senden,
+bevor der große und schreckliche Tag des HERRN kommt.
+<sup>6</sup>Er wird die Herzen der Väter den Kindern zuwenden
+und die Herzen der Kinder ihren Vätern,
+damit ich nicht komme
+und das Land mit dem Bann schlage.“
+
+> **Was bedeutet das?**
+> Die letzten Worte des Alten Testaments (in christlicher Reihenfolge):
+> Vers 4: Erinnert euch an das Gesetz des Mose! Der Horeb ist ein anderer Name für den Berg Sinai, wo Gott Mose die Gebote gab.
+> Vers 5: Gott wird den Propheten Elia senden. Elia war nicht gestorben, sondern in einem feurigen Wagen in den Himmel aufgenommen worden (2. Könige 2,11). Darum erwartete man, dass er wiederkommt.
+> Im Judentum wird bis heute beim Pessachmahl ein Becher für Elia bereitgestellt und die Tür für ihn geöffnet, in der Hoffnung, dass er kommt und den Messias ankündigt.
+> Im Neuen Testament sagt der Engel über Johannes den Täufer, er werde „im Geist und in der Kraft des Elia“ vorausgehen, „um die Herzen der Väter den Kindern zuzuwenden“ (Lukas 1,17). Jesus selbst sagt über Johannes: „Er ist Elia, der kommen soll“ (Matthäus 11,14; 17,10–13).
+> Vers 6: Elias Aufgabe: Versöhnung zwischen den Generationen. Eltern und Kinder sollen wieder zueinanderfinden. Wenn Familien und Generationen versöhnt sind, kann Gottes Segen kommen statt des Fluches.
+> Das Alte Testament endet also mit einer Erwartung: Gott wird kommen. Es endet mit einer offenen Tür, und das Neue Testament beginnt mit Johannes dem Täufer, der genau durch diese Tür tritt.
+
+---
+
+### Rückblick: Was haben wir im Buch Maleachi gelesen?
+
+> **Was bedeutet das?**
+> **Ich habe euch geliebt:** Das erste Wort Gottes in diesem Buch ist eine Liebeserklärung (1,2).
+> **Gott das Beste geben:** Die Priester opferten kranke und lahme Tiere. Gott will nicht die Reste, sondern das Herz (1,6–14).
+> **Ein Gott für alle:** „Vom Aufgang der Sonne bis zu ihrem Untergang ist mein Name groß unter den Völkern“ (1,11). „Haben wir nicht alle einen Vater?“ (2,10).
+> **Treue in der Ehe:** Gott ist Zeuge des Ehebundes und steht auf der Seite der verlassenen Frauen (2,14–16).
+> **Der Bote kommt:** „Siehe, ich sende meinen Boten, und er wird den Weg vor mir bereiten“ (3,1).
+> **Gott ändert sich nicht:** Seine Treue ist der Grund, warum es sein Volk noch gibt (3,6).
+> **Kehrt um zu mir:** „Kehrt um zu mir, dann werde ich mich zu euch umkehren“ (3,7).
+> **Ein Buch der Erinnerung:** Gott vergisst niemanden, der ihm treu ist (3,16).
+> **Die Sonne der Gerechtigkeit:** Für die, die Gott ehren, geht eine Sonne auf, mit Heilung unter ihren Flügeln (4,2).
+> **Elia wird kommen:** Er wird die Herzen der Eltern und Kinder einander zuwenden (4,5–6).
+> **Für heute:** Bekommt Gott bei mir das Beste oder die Reste? Bin ich treu zu Gott und zu den Menschen, mit denen ich verbunden bin?
+
+---
+
+### Rückblick: Was haben wir im ganzen Alten Testament gelesen?
+
+> **Was bedeutet das?**
+> **Am Anfang:** Gott erschafft die Welt und den Menschen als sein Ebenbild, Mann und Frau (1. Mose 1–2). Doch die Menschen wenden sich von Gott ab, und Gewalt und Leid kommen in die Welt.
+> **Abraham und die Väter:** Gott ruft Abraham und verspricht: „In dir sollen gesegnet werden alle Geschlechter der Erde“ (1. Mose 12,3). Er führt Isaak, Jakob und Josef.
+> **Befreiung:** Gott befreit sein Volk aus der Sklaverei in Ägypten und gibt am Sinai die Zehn Gebote: Regeln für ein Leben in Freiheit mit Gott und miteinander.
+> **Im verheißenen Land:** Unter Josua, den Richtern und den Königen Saul, David und Salomo lebt Israel im Land. Es gibt gute und schlechte Zeiten, Treue und Untreue.
+> **Die Propheten:** Immer wieder schickt Gott Propheten, die zur Umkehr rufen, für die Armen eintreten und Hoffnung schenken: Elia, Jesaja, Jeremia, Hesekiel, Amos, Hosea, Micha und viele andere.
+> **Exil und Rückkehr:** Weil das Volk nicht hört, werden Israel und Juda zerstört und ins Exil geführt. Aber Gott gibt sein Volk nicht auf. Es darf heimkehren und den Tempel wieder aufbauen.
+> **Gebet und Weisheit:** Die Psalmen zeigen, wie Menschen mit Gott reden, in Freude, Klage und Zweifel. Die Sprüche, Hiob, Prediger und das Hohelied fragen nach dem Sinn des Lebens, nach Leid und Liebe.
+> **Die große Hoffnung:** Die Propheten kündigen einen neuen Bund an, einen König aus dem Haus Davids, einen Knecht Gottes, der für andere leidet, und einen Tag, an dem Gott König über die ganze Erde sein wird und alle Völker in Frieden leben.
+> **Für Juden und Christen:** Diese Schriften sind die Heilige Schrift des jüdischen Volkes, die „Tanach“. Für Christen sind sie das Alte Testament. Jesus selbst kannte, betete und lehrte diese Schriften. Wer das Neue Testament verstehen will, muss das Alte kennen.
+> **Wie geht es weiter?** Als Nächstes beginnt das Neue Testament mit dem Evangelium nach Matthäus. Es erzählt von Jesus aus Nazaret, von seiner Geburt in Bethlehem, seinem Leben, seinem Tod und seiner Auferstehung. Und gleich am Anfang tritt Johannes der Täufer auf, der Bote, den Maleachi angekündigt hat.
