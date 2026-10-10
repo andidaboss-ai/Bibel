@@ -105190,3 +105190,502 @@ um das Heilige vom Gewöhnlichen zu trennen.
 > Vers 16–20: In Vers 16–19 schreibt das WEB „fünfhundert Ruten“, in Vers 20 aber „fünfhundert Ellen“. Das ist ein großer Unterschied (500 Ruten wären etwa 1,5 Kilometer, 500 Ellen etwa 260 Meter). Die griechische Übersetzung (Septuaginta) hat überall „Ellen“, und das passt auch zu den anderen Maßen des Tempels. Viele Ausleger halten darum 500 Ellen für richtig.
 > Vers 20: Der Zweck der Mauer: „das Heilige vom Gewöhnlichen zu trennen“. Die Heiligkeit Gottes soll geschützt und geachtet werden. Das war ein großes Anliegen Hesekiels, denn der alte Tempel war durch Götzendienst entweiht worden (Kapitel 8).
 > Juden und Christen lesen diese Tempelvision unterschiedlich: Manche Juden erwarten, dass ein solcher Tempel einmal gebaut wird. Viele Christen verstehen sie eher als Bild: Gott wohnt in Christus und in seiner Gemeinde mitten unter den Menschen (vgl. Johannes 2,19–21; 1. Korinther 3,16; Offenbarung 21–22).
+
+## Hesekiel – Kapitel 43
+#### Die Herrlichkeit kehrt zurück
+
+---
+
+### Gottes Herrlichkeit erfüllt das Haus (Vers 1–5)
+
+<sup>1</sup>Danach brachte er mich zum Tor,
+zu dem Tor, das nach Osten schaut.
+<sup>2</sup>Und siehe, die Herrlichkeit des Gottes Israels kam von Osten her.
+Ihre Stimme war wie das Rauschen vieler Wasser,
+und die Erde leuchtete von seiner Herrlichkeit.
+<sup>3</sup>Es sah aus wie die Vision, die ich gesehen hatte,
+wie die Vision, die ich sah, als ich kam, um die Stadt zu verderben.
+Und die Visionen waren wie die Vision,
+die ich am Fluss Kebar gesehen hatte.
+Und ich fiel auf mein Gesicht.
+<sup>4</sup>Die Herrlichkeit des HERRN kam in das Haus
+durch das Tor, das nach Osten schaut.
+<sup>5</sup>Der Geist hob mich empor
+und brachte mich in den inneren Vorhof.
+Und siehe, die Herrlichkeit des HERRN erfüllte das Haus.
+
+> **Was bedeutet das?**
+> Das ist der Höhepunkt des ganzen Buches!
+> In den Kapiteln 10–11 hatte Hesekiel gesehen, wie Gottes Herrlichkeit den Tempel durch das Osttor verließ und auf den Ölberg im Osten ging. Jetzt kommt sie auf demselben Weg zurück: von Osten durch das Osttor in den Tempel.
+> Vers 2: „Wie das Rauschen vieler Wasser“ – dieselben Worte wie in Kapitel 1,24. Die Offenbarung beschreibt den auferstandenen Christus mit diesen Worten (Offenbarung 1,15).
+> Vers 3: „Als ich kam, um die Stadt zu verderben“ meint: als ich die Zerstörung der Stadt verkündete (Kapitel 8–11).
+> Vers 5: Gottes Herrlichkeit erfüllt das Haus, wie damals bei der Einweihung der Stiftshütte (2. Mose 40,34) und des Tempels Salomos (1. Könige 8,10–11). Gott ist zurück. Er wohnt wieder bei seinem Volk.
+
+---
+
+### Der Ort meines Thrones (Vers 6–12)
+
+<sup>6</sup>Ich hörte einen, der aus dem Haus zu mir redete,
+und ein Mann stand neben mir.
+<sup>7</sup>Er sagte zu mir:
+„Menschensohn, das ist der Ort meines Thrones
+und der Ort meiner Fußsohlen,
+wo ich für immer mitten unter den Kindern Israel wohnen werde.
+Das Haus Israel wird meinen heiligen Namen nicht mehr verunreinigen,
+weder sie noch ihre Könige,
+durch ihre Hurerei
+und durch die Leichen ihrer Könige auf ihren Höhen,
+<sup>8</sup>indem sie ihre Schwelle neben meine Schwelle
+und ihren Türpfosten neben meinen Türpfosten gesetzt haben.
+Nur eine Wand war zwischen mir und ihnen.
+Und sie haben meinen heiligen Namen verunreinigt
+durch ihre Gräuel, die sie begangen haben.
+Darum habe ich sie in meinem Zorn vernichtet.
+<sup>9</sup>Jetzt sollen sie ihre Hurerei
+und die Leichen ihrer Könige weit von mir entfernen.
+Dann werde ich für immer mitten unter ihnen wohnen.
+<sup>10</sup>Du, Menschensohn, zeige dem Haus Israel das Haus,
+damit sie sich ihrer Sünden schämen.
+Und sie sollen den Bauplan ausmessen.
+<sup>11</sup>Wenn sie sich schämen über alles, was sie getan haben,
+dann mach ihnen die Gestalt des Hauses bekannt,
+seine Einrichtung, seine Ausgänge, seine Eingänge,
+seinen Aufbau, alle seine Ordnungen,
+alle seine Formen und alle seine Gesetze.
+Schreib es vor ihren Augen auf,
+damit sie seine ganze Gestalt
+und alle seine Ordnungen bewahren und sie tun.
+<sup>12</sup>Das ist das Gesetz des Hauses:
+Auf dem Gipfel des Berges
+soll sein ganzes Gebiet ringsum hochheilig sein.
+Siehe, das ist das Gesetz des Hauses.
+
+> **Was bedeutet das?**
+> Vers 7: „Hier will ich für immer wohnen.“ Der Tempel ist Gottes Thron und der Schemel seiner Füße auf der Erde.
+> Vers 7–8: Im alten Jerusalem lag der Königspalast direkt neben dem Tempel. Nur eine Wand trennte sie. Die Könige haben den Tempel mit ihren Götzen und vielleicht auch mit Gräbern oder Denkmälern für tote Könige entweiht. Im neuen Tempel soll das nicht mehr sein.
+> Vers 10–11: Wenn das Volk den schönen Plan des neuen Tempels sieht, sollen sie erkennen, wie weit sie sich von Gott entfernt hatten. Gottes Güte führt zur Umkehr (vgl. Römer 2,4).
+> Vers 12: Das „Gesetz des Hauses“ ist ganz einfach: Alles ist heilig.
+
+---
+
+### Der Altar (Vers 13–17)
+
+<sup>13</sup>Das sind die Maße des Altars in Ellen
+(die Elle ist eine Elle und eine Handbreite):
+Der Fuß soll eine Elle hoch sein
+und eine Elle breit,
+und seine Einfassung ringsum an seinem Rand eine Spanne.
+Das soll der Sockel des Altars sein.
+<sup>14</sup>Vom Fuß am Boden bis zum unteren Absatz sollen zwei Ellen sein
+und die Breite eine Elle.
+Und vom kleineren Absatz bis zum größeren Absatz sollen vier Ellen sein
+und die Breite eine Elle.
+<sup>15</sup>Der obere Altar soll vier Ellen hoch sein.
+Und von der Feuerstelle des Altars nach oben sollen vier Hörner sein.
+<sup>16</sup>Die Feuerstelle des Altars soll zwölf Ellen lang und zwölf breit sein,
+quadratisch an ihren vier Seiten.
+<sup>17</sup>Der Absatz soll vierzehn Ellen lang und vierzehn breit sein
+an seinen vier Seiten.
+Die Einfassung ringsum soll eine halbe Elle sein,
+und sein Fuß eine Elle ringsum.
+Und seine Stufen sollen nach Osten schauen.“
+
+> **Was bedeutet das?**
+> Der Altar ist wie ein Stufenturm gebaut, mit mehreren Absätzen übereinander. Ganz oben ist die Feuerstelle, 12 mal 12 Ellen (etwa 6 mal 6 Meter), mit vier „Hörnern“ an den Ecken.
+> Die Hörner des Altars waren besonders heilig. Wer Schutz suchte, konnte sich an ihnen festhalten (1. Könige 1,50).
+> Insgesamt ist der Altar etwa 11 Ellen hoch, über 5 Meter.
+
+---
+
+### Die Einweihung des Altars (Vers 18–27)
+
+<sup>18</sup>Er sagte zu mir:
+„Menschensohn, so spricht der Herr, der HERR:
+‚Das sind die Ordnungen für den Altar
+an dem Tag, an dem man ihn macht,
+um Brandopfer darauf darzubringen
+und Blut daran zu sprengen.
+<sup>19</sup>Du sollst den levitischen Priestern,
+die aus den Nachkommen Zadoks sind
+und mir nahen, um mir zu dienen‘,
+spricht der Herr, der HERR,
+‚einen jungen Stier zum Sündopfer geben.
+<sup>20</sup>Du sollst etwas von seinem Blut nehmen
+und es an seine vier Hörner streichen
+und an die vier Ecken des Absatzes
+und an die Einfassung ringsum.
+So sollst du ihn reinigen und Sühne für ihn erwirken.
+<sup>21</sup>Du sollst auch den Stier des Sündopfers nehmen,
+und man soll ihn am bestimmten Platz des Hauses verbrennen,
+außerhalb des Heiligtums.
+<sup>22</sup>Am zweiten Tag sollst du einen Ziegenbock ohne Fehler
+als Sündopfer darbringen.
+Und man soll den Altar reinigen,
+wie man ihn mit dem Stier gereinigt hat.
+<sup>23</sup>Wenn du mit dem Reinigen fertig bist,
+sollst du einen jungen Stier ohne Fehler
+und einen Widder ohne Fehler von der Herde darbringen.
+<sup>24</sup>Du sollst sie vor den HERRN bringen,
+und die Priester sollen Salz auf sie streuen
+und sie dem HERRN als Brandopfer darbringen.
+<sup>25</sup>Sieben Tage lang sollst du jeden Tag einen Bock als Sündopfer bereiten.
+Man soll auch einen jungen Stier und einen Widder von der Herde bereiten,
+ohne Fehler.
+<sup>26</sup>Sieben Tage lang soll man für den Altar Sühne erwirken
+und ihn reinigen.
+So soll man ihn weihen.
+<sup>27</sup>Wenn man die Tage vollendet hat,
+dann sollen die Priester am achten Tag und weiterhin
+eure Brandopfer und eure Friedensopfer auf dem Altar darbringen.
+Dann werde ich euch annehmen‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> Bevor der Altar benutzt werden darf, wird er sieben Tage lang gereinigt und geweiht. Das erinnert an die Weihe des ersten Altars durch Mose (2. Mose 29,36–37).
+> Vers 24: Das Salz war ein Zeichen für den dauerhaften Bund zwischen Gott und seinem Volk (vgl. 3. Mose 2,13: „das Salz des Bundes“).
+> Vers 27: Am Ende steht das Ziel: „Dann werde ich euch annehmen.“ Es geht nicht um das Ritual an sich, sondern um die wiederhergestellte Beziehung zu Gott.
+> Christen glauben, dass die Opfer des Tempels in Jesus Christus ihre Erfüllung gefunden haben (Hebräer 10,10–14). Im Judentum treten heute, ohne Tempel, Gebet, Torastudium und gute Taten an die Stelle der Opfer.
+
+## Hesekiel – Kapitel 44
+#### Das verschlossene Tor und die Priester
+
+---
+
+### Das Osttor bleibt verschlossen (Vers 1–3)
+
+<sup>1</sup>Dann brachte er mich zurück auf dem Weg zum äußeren Tor des Heiligtums,
+das nach Osten schaut.
+Und es war verschlossen.
+<sup>2</sup>Der HERR sagte zu mir:
+„Dieses Tor soll verschlossen sein.
+Es soll nicht geöffnet werden,
+und niemand soll durch es hineingehen,
+denn der HERR, der Gott Israels, ist durch es hineingegangen.
+Darum soll es verschlossen sein.
+<sup>3</sup>Was den Fürsten betrifft,
+er soll als Fürst darin sitzen,
+um Brot vor dem HERRN zu essen.
+Er soll durch die Vorhalle des Tores hineingehen
+und auf demselben Weg wieder hinausgehen.“
+
+> **Was bedeutet das?**
+> Weil Gott selbst durch das Osttor zurückgekehrt ist, wird es für immer verschlossen. Niemand anderes darf diesen Weg benutzen. Das zeigt auch: Gott wird den Tempel nie wieder verlassen.
+> In Jerusalem gibt es heute in der östlichen Stadtmauer ein zugemauertes Tor, das „Goldene Tor“ (Hebräisch „Schaar haRachamim“, Tor der Barmherzigkeit). Es wurde vor Jahrhunderten zugemauert. Viele Juden, Christen und Muslime verbinden damit Hoffnungen auf das Ende der Zeit.
+> In der christlichen Tradition wurde das verschlossene Tor später auch als Bild für Maria gedeutet, durch die Gott in die Welt kam.
+
+---
+
+### Fremde im Heiligtum (Vers 4–9)
+
+<sup>4</sup>Dann brachte er mich auf dem Weg zum Nordtor vor das Haus.
+Und ich schaute, und siehe,
+die Herrlichkeit des HERRN erfüllte das Haus des HERRN.
+Da fiel ich auf mein Gesicht.
+<sup>5</sup>Der HERR sagte zu mir:
+„Menschensohn, gib gut acht,
+sieh mit deinen Augen
+und höre mit deinen Ohren alles, was ich dir sage
+über alle Ordnungen des Hauses des HERRN und alle seine Gesetze.
+Und gib gut acht auf den Eingang des Hauses
+und auf alle Ausgänge des Heiligtums.
+<sup>6</sup>Du sollst zu den Widerspenstigen sagen, zum Haus Israel:
+‚So spricht der Herr, der HERR:
+„Ihr vom Haus Israel, genug mit all euren Gräueln,
+<sup>7</sup>dass ihr Fremde hereingebracht habt,
+unbeschnitten am Herzen und unbeschnitten am Fleisch,
+damit sie in meinem Heiligtum sind, um es zu entweihen, mein Haus,
+wenn ihr mein Brot darbringt, das Fett und das Blut.
+Und sie haben meinen Bund gebrochen,
+zusätzlich zu all euren Gräueln.
+<sup>8</sup>Ihr habt den Dienst an meinen heiligen Dingen nicht versehen,
+sondern ihr habt euch Leute eingesetzt,
+die meinen Dienst in meinem Heiligtum versehen.“
+<sup>9</sup>So spricht der Herr, der HERR:
+„Kein Fremder, unbeschnitten am Herzen und unbeschnitten am Fleisch,
+soll in mein Heiligtum kommen,
+von allen Fremden, die unter den Kindern Israel sind.
+
+> **Was bedeutet das?**
+> Im alten Tempel hatte man offenbar fremde Arbeiter oder Wachen eingesetzt, die Gott nicht kannten und nicht verehrten („unbeschnitten am Herzen“). Sie verrichteten heilige Dienste, die eigentlich die Priester und Leviten hätten tun sollen. Die Israeliten hatten ihre Verantwortung einfach abgegeben.
+> Wichtig: Hier geht es um den Dienst im innersten Heiligtum, nicht um Fremde im Allgemeinen. Die Bibel gebietet an vielen Stellen, Fremde zu lieben und zu schützen (3. Mose 19,33–34). Jesaja 56,6–7 sagt sogar, dass Fremde, die sich dem HERRN anschließen, in seinem Haus willkommen sind: „Mein Haus soll ein Bethaus für alle Völker heißen.“ Und Hesekiel selbst sagt in 47,22–23, dass Fremde ein Erbteil im Land bekommen sollen wie Einheimische.
+> Dieser Text darf darum nicht benutzt werden, um Ausländer oder Menschen anderer Herkunft auszugrenzen.
+
+---
+
+### Die Leviten (Vers 10–14)
+
+<sup>10</sup>Aber die Leviten,
+die sich weit von mir entfernt haben, als Israel in die Irre ging,
+die von mir abgeirrt sind, ihren Götzen nach,
+die werden ihre Schuld tragen.
+<sup>11</sup>Doch sie sollen Diener in meinem Heiligtum sein,
+mit der Aufsicht an den Toren des Hauses
+und mit dem Dienst im Haus.
+Sie sollen das Brandopfer und das Schlachtopfer für das Volk schlachten,
+und sie sollen vor ihnen stehen, um ihnen zu dienen.
+<sup>12</sup>Weil sie ihnen vor ihren Götzen gedient haben
+und für das Haus Israel ein Anstoß zur Schuld geworden sind,
+darum habe ich meine Hand gegen sie erhoben“,
+spricht der Herr, der HERR,
+„und sie werden ihre Schuld tragen.
+<sup>13</sup>Sie sollen nicht zu mir herantreten,
+um mir den Priesterdienst zu tun,
+und nicht zu allen meinen heiligen Dingen herantreten,
+zu den hochheiligen Dingen,
+sondern sie werden ihre Schande und ihre Gräuel tragen,
+die sie begangen haben.
+<sup>14</sup>Doch ich werde sie zu Dienern des Hauses machen,
+für seinen ganzen Dienst
+und für alles, was darin getan wird.
+
+> **Was bedeutet das?**
+> Die Leviten waren der Stamm, der für den Gottesdienst zuständig war. Viele von ihnen hatten an Götzenheiligtümern gedient. Darum dürfen sie keine Priester mehr sein, aber sie behalten eine Aufgabe: Sie bewachen die Tore, schlachten die Opfertiere und helfen dem Volk.
+> Das zeigt: Schuld hat Folgen. Aber Gott verstößt die Leviten nicht ganz. Sie bekommen trotzdem einen Platz im Dienst.
+
+---
+
+### Die Priester, die Söhne Zadoks (Vers 15–16)
+
+<sup>15</sup>Aber die levitischen Priester, die Söhne Zadoks,
+die den Dienst an meinem Heiligtum versehen haben,
+als die Kinder Israel von mir abirrten,
+die sollen zu mir herantreten, um mir zu dienen.
+Sie sollen vor mir stehen,
+um mir das Fett und das Blut darzubringen“,
+spricht der Herr, der HERR.
+<sup>16</sup>„Sie sollen in mein Heiligtum hineingehen,
+und sie sollen zu meinem Tisch herantreten, um mir zu dienen,
+und sie sollen meine Weisung bewahren.
+
+> **Was bedeutet das?**
+> Die Priester aus der Familie Zadoks waren treu geblieben, als andere abfielen. Darum dürfen sie den Priesterdienst tun. Hesekiel selbst stammte wahrscheinlich aus einer Priesterfamilie in Jerusalem, vielleicht aus dieser Linie.
+
+---
+
+### Regeln für die Priester (Vers 17–27)
+
+<sup>17</sup>Wenn sie durch die Tore des inneren Vorhofs hineingehen,
+sollen sie Gewänder aus Leinen anziehen.
+Keine Wolle soll an sie kommen,
+während sie in den Toren des inneren Vorhofs und drinnen Dienst tun.
+<sup>18</sup>Sie sollen Kopfbunde aus Leinen auf ihren Köpfen haben
+und Hosen aus Leinen um ihre Hüften.
+Sie sollen sich nicht mit etwas kleiden, das sie schwitzen lässt.
+<sup>19</sup>Wenn sie in den äußeren Vorhof hinausgehen,
+in den äußeren Vorhof zum Volk,
+sollen sie ihre Gewänder, in denen sie Dienst tun, ausziehen
+und sie in die heiligen Kammern legen.
+Sie sollen andere Gewänder anziehen,
+damit sie das Volk nicht mit ihren Gewändern heiligen.
+<sup>20</sup>Sie sollen ihren Kopf nicht kahl scheren
+und ihre Locken nicht lang wachsen lassen.
+Sie sollen ihr Kopfhaar nur schneiden.
+<sup>21</sup>Keiner der Priester soll Wein trinken,
+wenn er in den inneren Vorhof hineingeht.
+<sup>22</sup>Sie sollen keine Witwe und keine Verstoßene zur Frau nehmen,
+sondern sie sollen Jungfrauen aus den Nachkommen des Hauses Israel nehmen
+oder eine Witwe, die die Witwe eines Priesters ist.
+<sup>23</sup>Sie sollen mein Volk den Unterschied lehren
+zwischen dem Heiligen und dem Gewöhnlichen
+und sie unterscheiden lassen zwischen dem Unreinen und dem Reinen.
+<sup>24</sup>Bei einem Rechtsstreit sollen sie dastehen, um zu richten.
+Sie sollen nach meinen Rechtsordnungen richten.
+Sie sollen meine Gesetze und meine Satzungen
+an allen meinen Festen halten.
+Sie sollen meine Sabbate heiligen.
+<sup>25</sup>Sie sollen zu keinem toten Menschen hineingehen,
+um sich zu verunreinigen.
+Aber für Vater oder Mutter,
+für Sohn oder Tochter,
+für Bruder oder für Schwester, die keinen Mann gehabt hat,
+dürfen sie sich verunreinigen.
+<sup>26</sup>Nachdem er gereinigt ist,
+soll man ihm sieben Tage zählen.
+<sup>27</sup>An dem Tag, an dem er ins Heiligtum hineingeht,
+in den inneren Vorhof, um im Heiligtum zu dienen,
+soll er sein Sündopfer darbringen“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Diese Regeln ähneln den Priestergesetzen im 3. Buch Mose (Kapitel 10 und 21).
+> Vers 17–18: Leinen ist kühl und leicht. Die Priester sollen im Heiligtum nicht schwitzen. Schweiß galt als etwas Unreines.
+> Vers 21: Kein Alkohol im Dienst (vgl. 3. Mose 10,9). Wer vor Gott dient, soll einen klaren Kopf haben.
+> Vers 22: Diese Heiratsregeln für Priester entsprechen den alten Reinheitsvorschriften (3. Mose 21,7.14). Sie sind keine Abwertung von Witwen oder geschiedenen Frauen. An vielen Stellen schützt die Bibel gerade Witwen besonders (z. B. 5. Mose 24,17; Jakobus 1,27).
+> Vers 23–24: Die Priester sind nicht nur für Opfer zuständig, sondern auch Lehrer und Richter. Sie sollen dem Volk helfen, Gottes Willen zu verstehen.
+> Vers 25: Ausnahme beim Tod naher Angehöriger: Auch Priester dürfen trauern.
+
+---
+
+### Gott ist ihr Erbteil (Vers 28–31)
+
+<sup>28</sup>Sie sollen ein Erbteil haben:
+Ich bin ihr Erbteil.
+Ihr sollt ihnen keinen Besitz in Israel geben.
+Ich bin ihr Besitz.
+<sup>29</sup>Sie sollen das Speisopfer, das Sündopfer und das Schuldopfer essen,
+und alles Gebannte in Israel soll ihnen gehören.
+<sup>30</sup>Das Erste von allen Erstlingsfrüchten von allem
+und jede Abgabe von allem,
+von allen euren Abgaben,
+soll den Priestern gehören.
+Ihr sollt den Priestern auch das Erste von eurem Teig geben,
+damit ein Segen auf eurem Haus ruht.
+<sup>31</sup>Die Priester sollen nichts essen,
+was von selbst gestorben ist oder zerrissen wurde,
+weder von Vögeln noch von Tieren.
+
+> **Was bedeutet das?**
+> Vers 28: „Ich bin ihr Erbteil.“ Die Priester bekommen kein Land. Ihr Reichtum ist Gott selbst (vgl. 4. Mose 18,20; Psalm 16,5: „Der HERR ist mein Erbteil“).
+> Sie leben von den Gaben des Volkes. Das Volk sorgt für die Priester, und die Priester dienen dem Volk.
+> Vers 30: Wer gibt, wird gesegnet: „damit ein Segen auf eurem Haus ruht.“
+
+## Hesekiel – Kapitel 45
+#### Der heilige Bezirk und gerechte Maße
+
+---
+
+### Der heilige Anteil des Landes (Vers 1–8)
+
+<sup>1</sup>„Außerdem: Wenn ihr das Land durch das Los als Erbteil verteilt,
+sollt ihr dem HERRN eine Abgabe darbringen,
+einen heiligen Teil des Landes.
+Die Länge soll fünfundzwanzigtausend Ruten sein
+und die Breite zehntausend.
+Er soll in seinem ganzen Gebiet ringsum heilig sein.
+<sup>2</sup>Davon soll ein Quadrat von fünfhundert mal fünfhundert
+für das Heiligtum sein,
+und fünfzig Ellen ringsum für sein freies Umland.
+<sup>3</sup>Von diesem Maß sollst du eine Länge von fünfundzwanzigtausend
+und eine Breite von zehntausend abmessen.
+Darin soll das Heiligtum sein, das Hochheilige.
+<sup>4</sup>Es ist ein heiliger Teil des Landes.
+Er soll den Priestern gehören,
+den Dienern des Heiligtums,
+die herantreten, um dem HERRN zu dienen.
+Es soll ein Platz für ihre Häuser sein
+und ein heiliger Platz für das Heiligtum.
+<sup>5</sup>Fünfundzwanzigtausend Ellen in der Länge
+und zehntausend in der Breite
+sollen den Leviten gehören, den Dienern des Hauses,
+als Besitz für sie selbst, für zwanzig Kammern.
+<sup>6</sup>Als Besitz der Stadt sollt ihr fünftausend Ellen in der Breite
+und fünfundzwanzigtausend in der Länge bestimmen,
+neben der heiligen Abgabe.
+Er soll dem ganzen Haus Israel gehören.
+<sup>7</sup>Was dem Fürsten gehört,
+soll auf beiden Seiten der heiligen Abgabe
+und des Besitzes der Stadt liegen,
+vor der heiligen Abgabe und vor dem Besitz der Stadt,
+auf der Westseite nach Westen
+und auf der Ostseite nach Osten,
+und in der Länge entsprechend einem der Anteile,
+von der Westgrenze bis zur Ostgrenze.
+<sup>8</sup>Im Land soll es sein Besitz in Israel sein.
+Meine Fürsten sollen mein Volk nicht mehr unterdrücken,
+sondern sie sollen das Land dem Haus Israel
+nach ihren Stämmen geben.
+
+> **Was bedeutet das?**
+> In der Mitte des Landes wird ein heiliger Bezirk abgemessen. Darin liegen der Tempel, das Land der Priester, das Land der Leviten und die Stadt. Links und rechts davon liegt das Land des Fürsten.
+> Vers 1: Das WEB schreibt hier „Ruten“, in Vers 5 und 6 aber „Ellen“. Auch hier denken viele Ausleger, dass überall Ellen gemeint sind (vgl. 42,16–20). Bei Ellen wäre der Bezirk etwa 13 mal 5 Kilometer groß.
+> Vers 8: Ein wichtiger Satz: „Meine Fürsten sollen mein Volk nicht mehr unterdrücken.“ Der Fürst bekommt genug eigenes Land, damit er nicht in Versuchung kommt, den Leuten ihr Land wegzunehmen. Früher hatten Könige das getan (vgl. Nabots Weinberg, 1. Könige 21).
+
+---
+
+### Recht und Gerechtigkeit (Vers 9–12)
+
+<sup>9</sup>So spricht der Herr, der HERR:
+„Genug, ihr Fürsten Israels!
+Schafft Gewalt und Unterdrückung weg
+und übt Recht und Gerechtigkeit!
+Hört auf, mein Volk von seinem Besitz zu vertreiben!“,
+spricht der Herr, der HERR.
+<sup>10</sup>„Ihr sollt gerechte Waagen haben,
+ein gerechtes Efa und ein gerechtes Bat.
+<sup>11</sup>Das Efa und das Bat sollen ein einziges Maß haben,
+sodass das Bat ein Zehntel eines Homer fasst
+und das Efa ein Zehntel eines Homer.
+Ihr Maß soll sich nach dem Homer richten.
+<sup>12</sup>Der Schekel soll zwanzig Gera sein.
+Zwanzig Schekel und fünfundzwanzig Schekel und fünfzehn Schekel
+sollen eure Mine sein.
+
+> **Was bedeutet das?**
+> Vers 9: „Genug!“ Gott ruft die Mächtigen auf, mit Gewalt und Unterdrückung aufzuhören. Recht und Gerechtigkeit sind die Grundlage eines guten Zusammenlebens.
+> Vers 10–12: Gerechte Maße und Gewichte. Im Handel wurde oft betrogen, zum Beispiel mit falschen Gewichten (vgl. Amos 8,5; Micha 6,11). Gott will, dass auch im Geschäftsleben ehrlich gehandelt wird.
+> Die Maße: Ein Efa (für Getreide) und ein Bat (für Flüssigkeiten) sind gleich groß, etwa 22 Liter. Ein Homer ist zehnmal so viel. Ein Schekel ist ein Gewicht von etwa 11 bis 12 Gramm. 20 + 25 + 15 = 60 Schekel ergeben eine Mine.
+> Für heute: Ehrlichkeit im Beruf, faire Preise, gerechte Löhne, das gehört zu einem Leben nach Gottes Willen.
+
+---
+
+### Abgaben für den Fürsten (Vers 13–17)
+
+<sup>13</sup>Das ist die Abgabe, die ihr darbringen sollt:
+ein Sechstel Efa von einem Homer Weizen,
+und ihr sollt ein Sechstel Efa von einem Homer Gerste geben,
+<sup>14</sup>und der festgesetzte Anteil an Öl, vom Bat Öl:
+ein Zehntel Bat vom Kor,
+das sind zehn Bat, gleich einem Homer
+(denn zehn Bat sind ein Homer),
+<sup>15</sup>und ein Lamm von der Herde von zweihundert,
+von den gut bewässerten Weiden Israels,
+zum Speisopfer, zum Brandopfer und zu Friedensopfern,
+um Sühne für sie zu erwirken“,
+spricht der Herr, der HERR.
+<sup>16</sup>„Das ganze Volk des Landes soll zu dieser Abgabe beitragen
+für den Fürsten in Israel.
+<sup>17</sup>Es soll die Aufgabe des Fürsten sein,
+die Brandopfer, die Speisopfer und die Trankopfer zu geben
+an den Festen, an den Neumonden und an den Sabbaten,
+an allen Festzeiten des Hauses Israel.
+Er soll das Sündopfer, das Speisopfer, das Brandopfer
+und die Friedensopfer bereiten,
+um Sühne für das Haus Israel zu erwirken.“
+
+> **Was bedeutet das?**
+> Das Volk gibt eine Abgabe: von Getreide etwa 1/60, von Öl 1/100, von Schafen 1/200. Das ist bescheiden.
+> Diese Abgaben gehen an den Fürsten. Er ist dafür verantwortlich, die Opfer für das ganze Volk bei den Festen bereitzustellen.
+> Der Fürst ist hier vor allem ein Diener im Gottesdienst, nicht ein mächtiger Herrscher, der für sich selbst sammelt.
+
+---
+
+### Feste und Reinigung (Vers 18–25)
+
+<sup>18</sup>So spricht der Herr, der HERR:
+„Im ersten Monat, am ersten Tag des Monats,
+sollst du einen jungen Stier ohne Fehler nehmen,
+und du sollst das Heiligtum reinigen.
+<sup>19</sup>Der Priester soll etwas vom Blut des Sündopfers nehmen
+und es an die Türpfosten des Hauses streichen
+und an die vier Ecken des Absatzes des Altars
+und an die Pfosten des Tores des inneren Vorhofs.
+<sup>20</sup>So sollst du es am siebten Tag des Monats tun
+für jeden, der aus Versehen sündigt,
+und für den, der unwissend ist.
+So sollt ihr Sühne für das Haus erwirken.
+<sup>21</sup>Im ersten Monat, am vierzehnten Tag des Monats,
+sollt ihr das Passa feiern,
+ein Fest von sieben Tagen.
+Ungesäuertes Brot soll gegessen werden.
+<sup>22</sup>An diesem Tag soll der Fürst für sich selbst
+und für das ganze Volk des Landes
+einen Stier als Sündopfer bereiten.
+<sup>23</sup>An den sieben Tagen des Festes
+soll er dem HERRN ein Brandopfer bereiten:
+sieben Stiere und sieben Widder ohne Fehler,
+täglich an den sieben Tagen,
+und täglich einen Ziegenbock als Sündopfer.
+<sup>24</sup>Er soll ein Speisopfer bereiten:
+ein Efa für einen Stier,
+ein Efa für einen Widder
+und ein Hin Öl auf ein Efa.
+<sup>25</sup>Im siebten Monat, am fünfzehnten Tag des Monats,
+am Fest, soll er sieben Tage lang dasselbe tun.
+Er soll dieselbe Vorsorge treffen
+für das Sündopfer, das Brandopfer, das Speisopfer und das Öl.“
+
+> **Was bedeutet das?**
+> Vers 18–20: Zweimal im Jahr wird das Heiligtum gereinigt, besonders für die Menschen, die „aus Versehen“ oder „unwissend“ gesündigt haben. Gott hat Verständnis für menschliche Schwäche.
+> Vers 21: Das Passa (Pessach) erinnert an die Befreiung aus Ägypten (2. Mose 12). Es wird bis heute im Judentum gefeiert. Jesus feierte vor seinem Tod das Passamahl mit seinen Jüngern (Lukas 22,15).
+> Vers 25: Das Fest im siebten Monat am 15. Tag ist das Laubhüttenfest (Sukkot), ein fröhliches Erntefest (3. Mose 23,33–43).
+> Interessant: Manche Feste aus dem 3. Buch Mose, wie das Wochenfest (Schawuot) oder der Versöhnungstag (Jom Kippur), werden hier nicht erwähnt. Hesekiels Ordnung weicht an einigen Stellen von den Gesetzen Moses ab. Darüber haben jüdische Gelehrte schon früh diskutiert.
