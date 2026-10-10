@@ -108364,3 +108364,297 @@ und am Ende der Tage in deinem Erbteil stehen.“
 > **Vorsicht mit Berechnungen:** Die Zahlen und Bilder in Daniel sind oft schwer zu verstehen. Sie sollen Mut machen, nicht Angst. Niemand kann damit das Ende der Welt ausrechnen.
 > **Für heute:** Daniel zeigt, wie man in einer Welt mit anderen Werten treu bleiben kann: höflich, klug, fleißig, aber fest im Glauben. Und es macht Mut: Keine Macht der Welt hat das letzte Wort. Das hat Gott.
 > **Wie geht es weiter?** Jetzt kommen die zwölf „kleinen Propheten“. Sie heißen „klein“, weil ihre Bücher kürzer sind, nicht weil sie weniger wichtig wären. Der erste ist Hosea. Seine Ehe mit einer untreuen Frau wird zum Bild für Gottes Liebe zu seinem untreuen Volk: eine Liebe, die nicht aufgibt.
+
+
+---
+
+# Hosea
+
+## Hosea – Kapitel 1
+#### Hoseas Ehe und seine Kinder
+
+---
+
+### Bevor es losgeht: Die zwölf kleinen Propheten und Hosea
+
+Jetzt beginnen die zwölf „kleinen Propheten“: Hosea, Joel, Amos, Obadja, Jona, Micha, Nahum, Habakuk, Zefanja, Haggai, Sacharja und Maleachi. Sie heißen „klein“, weil ihre Bücher kürzer sind als die von Jesaja, Jeremia und Hesekiel, nicht weil sie weniger wichtig wären. Im Judentum bilden sie zusammen ein einziges Buch, das „Zwölfprophetenbuch“.
+Hosea lebte im 8. Jahrhundert vor Christus im Nordreich Israel, etwa zur selben Zeit wie Amos, Jesaja und Micha. Es war eine Zeit, in der es vielen gut ging, aber die Menschen den Gott Israels mit dem Fruchtbarkeitsgott Baal vermischten. Kurz danach, im Jahr 722 vor Christus, wurde das Nordreich von den Assyrern zerstört.
+Sein Name bedeutet „Der HERR rettet“, ganz ähnlich wie „Josua“ und „Jesus“.
+Das Besondere an Hosea: Er erlebt Gottes Schmerz am eigenen Leib. Seine eigene Ehe mit einer untreuen Frau wird zum Bild für Gottes Beziehung zu seinem untreuen Volk.
+Ein Wort vorweg: Hosea benutzt das Bild einer untreuen Ehefrau für das Volk. Dieses Bild stammt aus einer patriarchalen Zeit. Es ist ein Bild für Untreue gegenüber Gott, keine Aussage über Frauen. Und es rechtfertigt niemals Gewalt in einer Ehe.
+Die große Botschaft Hoseas: Gottes Liebe gibt nicht auf. „Wie könnte ich dich preisgeben?“ (Hosea 11,8). Das Buch hat 14 Kapitel.
+
+---
+
+### Hosea heiratet Gomer (Vers 1–3)
+
+<sup>1</sup>Das Wort des HERRN, das an Hosea, den Sohn Beeris, erging,
+in den Tagen Usijas, Jotams, Ahas’ und Hiskijas, der Könige von Juda,
+und in den Tagen Jerobeams, des Sohnes des Joasch, des Königs von Israel.
+<sup>2</sup>Als der HERR zuerst durch Hosea redete,
+sagte der HERR zu Hosea:
+„Geh, nimm dir eine Frau der Hurerei
+und Kinder der Untreue.
+Denn das Land begeht große Hurerei,
+indem es den HERRN verlässt.“
+<sup>3</sup>Da ging er hin und nahm Gomer, die Tochter Diblajims.
+Sie wurde schwanger und gebar ihm einen Sohn.
+
+> **Was bedeutet das?**
+> Gott verlangt von Hosea etwas Erschütterndes: Er soll eine Frau heiraten, die ihm untreu sein wird. So soll Hosea am eigenen Leib erfahren, was Gott fühlt, wenn sein Volk ihn verlässt und anderen Göttern nachläuft.
+> Ob Gomer schon vor der Ehe so gelebt hat oder erst später untreu wurde, ist unter Auslegern umstritten. Manche denken auch, sie habe zu einem heidnischen Kult gehört.
+> Wichtig: Gomer ist hier ein Bild für das ganze Volk, vor allem für die Männer, die das Land regierten und Götzen dienten. Der Text ist keine Aussage darüber, wie Frauen sind.
+
+---
+
+### Drei Kinder mit Zeichennamen (Vers 4–9)
+
+<sup>4</sup>Der HERR sagte zu ihm:
+„Nenne ihn Jesreel,
+denn nur noch eine kleine Weile,
+dann werde ich das Blut von Jesreel am Haus Jehu heimsuchen
+und dem Königtum des Hauses Israel ein Ende machen.
+<sup>5</sup>An jenem Tag wird es geschehen,
+dass ich den Bogen Israels im Tal Jesreel zerbreche.“
+<sup>6</sup>Sie wurde wieder schwanger und gebar eine Tochter.
+Da sagte er zu ihm:
+„Nenne sie Lo-Ruhama,
+denn ich werde mich nicht mehr über das Haus Israel erbarmen,
+dass ich ihnen irgendwie vergeben würde.
+<sup>7</sup>Aber über das Haus Juda werde ich mich erbarmen,
+und ich werde sie retten durch den HERRN, ihren Gott.
+Und ich werde sie nicht retten durch Bogen, Schwert, Krieg,
+Pferde oder Reiter.“
+<sup>8</sup>Als sie Lo-Ruhama entwöhnt hatte,
+wurde sie schwanger und gebar einen Sohn.
+<sup>9</sup>Er sagte:
+„Nenne ihn Lo-Ammi,
+denn ihr seid nicht mein Volk,
+und ich werde nicht euer Gott sein.“
+
+> **Was bedeutet das?**
+> Die drei Kinder bekommen Namen, die eine Botschaft sind, wie lebende Plakate:
+> – Jesreel („Gott sät“): Im Tal Jesreel hatte der König Jehu ein Blutbad angerichtet, als er an die Macht kam (2. Könige 9–10). Gott hat diese Gewalt nicht vergessen.
+> – Lo-Ruhama („Kein Erbarmen“): Gott wird sich nicht mehr erbarmen.
+> – Lo-Ammi („Nicht mein Volk“): Die Beziehung zwischen Gott und Israel ist zerbrochen. Gott hatte zu Mose gesagt: „Ich werde sein“ (2. Mose 3,14). Jetzt heißt es: „Ich werde nicht euer Gott sein.“ Ein erschütternder Satz.
+> Man stelle sich vor, was es für Kinder bedeutet, solche Namen zu tragen. Aber die Geschichte geht weiter: In Kapitel 2,1 und 2,23 werden die Namen umgekehrt!
+> Vers 7: Juda wird gerettet werden, aber nicht durch Waffen, sondern durch Gott selbst.
+
+---
+
+### Doch dann: Kinder des lebendigen Gottes (Vers 10–11)
+
+<sup>10</sup>Doch die Zahl der Kinder Israel wird sein wie der Sand am Meer,
+den man nicht messen und nicht zählen kann.
+Und es wird geschehen:
+An dem Ort, wo man zu ihnen sagte:
+‚Ihr seid nicht mein Volk‘,
+wird man sie nennen: ‚Kinder des lebendigen Gottes‘.
+<sup>11</sup>Die Kinder Juda und die Kinder Israel
+werden sich zusammen versammeln
+und sich ein einziges Haupt setzen
+und aus dem Land heraufziehen.
+Denn groß wird der Tag von Jesreel sein.
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln stehen diese beiden Verse als Kapitel 2,1–2. Darum sind die Versnummern in Kapitel 2 im WEB um zwei niedriger als in vielen deutschen Bibeln.
+> Mitten im Gericht kommt plötzlich eine große Hoffnung! Wo es hieß „Nicht mein Volk“, wird es heißen „Kinder des lebendigen Gottes“. Gottes letztes Wort ist nicht Trennung, sondern Liebe.
+> Vers 10: Das erinnert an die Verheißung an Abraham: Nachkommen wie Sand am Meer (1. Mose 22,17).
+> Vers 11: Das geteilte Volk (Nordreich und Südreich) wird wieder eins.
+> „Der Tag von Jesreel“: Jetzt bekommt der Name eine gute Bedeutung, „Gott sät“. Gott wird sein Volk neu aussäen, wie Saat, die aufgeht.
+> Paulus zitiert diesen Vers im Römerbrief (Römer 9,25–26): Auch Menschen aus den Völkern, die nicht Gottes Volk waren, dürfen jetzt „Kinder des lebendigen Gottes“ heißen.
+
+## Hosea – Kapitel 2
+#### Ich will ihr zu Herzen reden
+
+---
+
+### Die untreue Frau (Vers 1–5)
+
+<sup>1</sup>„Sagt zu euren Brüdern: ‚Mein Volk!‘
+und zu euren Schwestern: ‚Geliebte!‘
+<sup>2</sup>Klagt gegen eure Mutter!
+Klagt, denn sie ist nicht meine Frau,
+und ich bin nicht ihr Mann.
+Sie soll ihre Hurerei von ihrem Gesicht entfernen
+und ihren Ehebruch zwischen ihren Brüsten weg,
+<sup>3</sup>damit ich sie nicht nackt ausziehe
+und sie bloßstelle wie am Tag, als sie geboren wurde,
+und sie wie eine Wüste mache
+und sie wie ein dürres Land hinstelle
+und sie vor Durst sterben lasse.
+<sup>4</sup>Ja, über ihre Kinder werde ich mich nicht erbarmen,
+denn sie sind Kinder der Untreue.
+<sup>5</sup>Denn ihre Mutter hat Hurerei getrieben.
+Die sie empfangen hat, hat schändlich gehandelt.
+Denn sie sagte:
+‚Ich will meinen Liebhabern nachlaufen,
+die mir mein Brot und mein Wasser geben,
+meine Wolle und meinen Flachs,
+mein Öl und mein Getränk.‘
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln sind die Verse dieses Kapitels um zwei höher (2,3–25).
+> Vers 1: Die Namen der Kinder werden umgekehrt: Aus „Lo-Ammi“ (nicht mein Volk) wird „Ammi“ (mein Volk), aus „Lo-Ruhama“ (kein Erbarmen) wird „Ruhama“ (Geliebte, die Erbarmen findet).
+> Vers 2–5: Das „Mutter“ ist das Land Israel als Ganzes. Sie ist ihrem Mann (Gott) untreu. Ihre „Liebhaber“ sind die Baals-Götter. Die Menschen glaubten, dass Baal ihnen Regen, Brot, Wein und Wolle gibt. Sie hatten vergessen, dass alles von Gott kommt.
+> Vers 3: Die Drohung, die Frau „nackt auszuziehen“, war damals eine Strafe für Ehebruch. Hier ist es ein Bild für das, was dem Land geschehen wird: Es wird kahl und leer wie eine Wüste.
+> Sehr wichtig: Dieses Bild rechtfertigt niemals, dass ein Mann seine Frau demütigt, schlägt oder bloßstellt. Solches Verhalten ist Gewalt und Unrecht. Wer Gewalt in der Beziehung erlebt: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00 (kostenlos, anonym).
+
+---
+
+### Sie wusste nicht, dass ich es war (Vers 6–13)
+
+<sup>6</sup>Darum, siehe, ich verzäune ihren Weg mit Dornen,
+und ich ziehe eine Mauer gegen sie,
+sodass sie ihre Pfade nicht findet.
+<sup>7</sup>Sie wird ihren Liebhabern nachlaufen,
+aber sie wird sie nicht einholen.
+Sie wird sie suchen,
+aber nicht finden.
+Dann wird sie sagen:
+‚Ich will gehen und zu meinem ersten Mann zurückkehren,
+denn damals ging es mir besser als jetzt.‘
+<sup>8</sup>Denn sie wusste nicht,
+dass ich ihr das Korn, den Most und das Öl gab
+und ihr Silber und Gold vermehrte,
+das sie für Baal verwendet haben.
+<sup>9</sup>Darum werde ich mein Korn zu seiner Zeit zurücknehmen
+und meinen Most zu seiner Zeit
+und meine Wolle und meinen Flachs wegnehmen,
+die ihre Blöße bedecken sollten.
+<sup>10</sup>Jetzt werde ich ihre Schande aufdecken
+vor den Augen ihrer Liebhaber,
+und niemand wird sie aus meiner Hand retten.
+<sup>11</sup>Ich werde auch all ihren Festen ein Ende machen,
+ihren Feiertagen, ihren Neumonden, ihren Sabbaten
+und allen ihren Festversammlungen.
+<sup>12</sup>Ich werde ihre Weinstöcke und ihre Feigenbäume verwüsten,
+von denen sie gesagt hat:
+‚Das ist mein Lohn, den mir meine Liebhaber gegeben haben.‘
+Und ich werde sie zu einem Wald machen,
+und die Tiere des Feldes werden sie fressen.
+<sup>13</sup>Ich werde an ihr die Tage der Baale heimsuchen,
+an denen sie ihnen Räucheropfer brachte
+und sich mit ihren Ohrringen und ihrem Schmuck schmückte
+und ihren Liebhabern nachlief
+und mich vergaß“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 6–7: Gott „verzäunt den Weg“. Er lässt das Volk merken, dass die falschen Götter nicht helfen. Das klingt hart, aber es hat ein Ziel: Das Volk soll zurückkommen. „Damals ging es mir besser.“ Wie der verlorene Sohn, der sich an das Haus seines Vaters erinnert (Lukas 15,17).
+> Vers 8: Der Kern des Problems: „Sie wusste nicht, dass ICH es war, der ihr alles gegeben hat.“ Das Volk hat Gottes Gaben den falschen Göttern zugeschrieben.
+> Vers 13: „Und mich vergaß.“ Das ist der eigentliche Schmerz Gottes: vergessen werden von dem, den man liebt.
+> Für heute: Auch wir vergessen oft, woher die guten Dinge in unserem Leben kommen, und danken dem Falschen, zum Beispiel nur unserem eigenen Können oder dem Geld.
+
+---
+
+### Ich will sie in die Wüste locken (Vers 14–17)
+
+<sup>14</sup>„Darum, siehe, ich will sie locken
+und sie in die Wüste führen
+und ihr zu Herzen reden.
+<sup>15</sup>Ich will ihr von dort ihre Weinberge geben
+und das Tal Achor zu einer Tür der Hoffnung machen.
+Und sie wird dort antworten wie in den Tagen ihrer Jugend
+und wie an dem Tag, als sie aus dem Land Ägypten heraufzog.
+<sup>16</sup>An jenem Tag wird es geschehen“,
+spricht der HERR,
+„dass du mich ‚mein Mann‘ nennen wirst
+und mich nicht mehr ‚mein Baal‘ nennen wirst.
+<sup>17</sup>Denn ich werde die Namen der Baale aus ihrem Mund entfernen,
+und man wird ihrer Namen nicht mehr gedenken.
+
+> **Was bedeutet das?**
+> Das ist einer der zärtlichsten Texte der Bibel! Nach all den Drohungen kommt plötzlich ein „Darum“, das niemand erwartet: Nicht „darum strafe ich sie“, sondern „darum will ich sie locken und ihr zu Herzen reden“. Gott wirbt um sein Volk wie ein Liebender.
+> Die Wüste erinnert an die erste Liebe zwischen Gott und Israel, als sie aus Ägypten kamen (vgl. Jeremia 2,2). Dort, wo es nichts gibt, was ablenkt, kann die Beziehung neu beginnen.
+> Vers 15: Das Tal Achor („Tal des Unglücks“) war ein Ort des Unheils (Josua 7,24–26). Jetzt wird es zur „Tür der Hoffnung“. Gott kann aus Orten des Unglücks Türen der Hoffnung machen.
+> Vers 16: Ein Wortspiel: „Baal“ bedeutet auf Hebräisch auch „Herr“ oder „Besitzer“ und wurde für den Ehemann gebraucht. Gott möchte nicht „mein Baal“ (mein Besitzer) genannt werden, sondern „mein Mann“ (hebräisch „Ischi“). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
+
+---
+
+### Ich verlobe dich mir für immer (Vers 18–23)
+
+<sup>18</sup>An jenem Tag werde ich für sie einen Bund schließen
+mit den Tieren des Feldes,
+mit den Vögeln des Himmels
+und mit dem Gewürm der Erde.
+Bogen, Schwert und Krieg werde ich aus dem Land zerbrechen
+und sie sicher wohnen lassen.
+<sup>19</sup>Ich will dich mir verloben für immer.
+Ja, ich will dich mir verloben
+in Gerechtigkeit und Recht,
+in Güte und Erbarmen.
+<sup>20</sup>Ich will dich mir verloben in Treue,
+und du wirst den HERRN erkennen.
+<sup>21</sup>An jenem Tag wird es geschehen,
+dass ich antworten werde“,
+spricht der HERR.
+„Ich werde dem Himmel antworten,
+und er wird der Erde antworten.
+<sup>22</sup>Und die Erde wird dem Korn, dem Most und dem Öl antworten,
+und sie werden Jesreel antworten.
+<sup>23</sup>Ich will sie mir säen im Land,
+und ich will mich über Lo-Ruhama erbarmen.
+Und zu Lo-Ammi will ich sagen: ‚Du bist mein Volk‘,
+und es wird sagen: ‚Du bist mein Gott!‘“
+
+> **Was bedeutet das?**
+> Vers 18: Ein Bund des Friedens mit der ganzen Schöpfung. Kein Krieg mehr. Ein Bild für das Paradies.
+> Vers 19–20: Gott schließt eine neue Verlobung, und er bringt die „Brautgeschenke“ selbst mit: Gerechtigkeit, Recht, Güte, Erbarmen und Treue. Diese Worte werden im Judentum jeden Morgen gesprochen, wenn man die Gebetsriemen (Tefillin) um den Finger wickelt.
+> „Du wirst den HERRN erkennen.“ Erkennen meint im Hebräischen nicht nur Wissen, sondern tiefe, persönliche Beziehung.
+> Vers 21–22: Eine Kette des Segens: Gott antwortet dem Himmel, der Himmel der Erde (mit Regen), die Erde dem Korn, und alles zusammen dem Volk.
+> Vers 23: Die Namen der Kinder werden endgültig umgekehrt. Aus „Kein Erbarmen“ wird „Erbarmen“. Aus „Nicht mein Volk“ wird „Mein Volk“. Und das Volk antwortet: „Du bist mein Gott!“ Die Beziehung ist wiederhergestellt.
+> Auch 1. Petrus 2,10 zitiert diesen Vers: „Ihr, die ihr einst nicht ein Volk wart, seid jetzt Gottes Volk.“
+
+## Hosea – Kapitel 3
+#### Liebe, die nicht aufgibt
+
+---
+
+### Geh noch einmal hin und liebe sie (Vers 1–3)
+
+<sup>1</sup>Der HERR sagte zu mir:
+„Geh noch einmal hin,
+liebe eine Frau, die von einem anderen geliebt wird
+und Ehebruch treibt,
+so wie der HERR die Kinder Israel liebt,
+obwohl sie sich anderen Göttern zuwenden
+und Rosinenkuchen lieben.“
+<sup>2</sup>Da kaufte ich sie mir
+für fünfzehn Silberstücke
+und anderthalb Homer Gerste.
+<sup>3</sup>Ich sagte zu ihr:
+„Du sollst viele Tage bei mir bleiben.
+Du sollst keine Hurerei treiben
+und mit keinem anderen Mann zusammen sein.
+Und auch ich werde mich so zu dir verhalten.“
+
+> **Was bedeutet das?**
+> Gomer hat Hosea verlassen und lebt mit einem anderen Mann zusammen. Vielleicht ist sie sogar in Schulden oder in Abhängigkeit geraten. Gott sagt zu Hosea: „Geh noch einmal hin und liebe sie.“
+> Das ist unglaublich: Nach all der Verletzung soll Hosea seine Frau zurückholen, „so wie der HERR die Kinder Israel liebt, obwohl sie sich anderen Göttern zuwenden“.
+> Vers 1: „Rosinenkuchen“ wurden bei Festen für fremde Götter gegessen.
+> Vers 2: Hosea muss sie freikaufen. Der Preis (15 Silberstücke und Gerste) war etwa der Preis einer Sklavin. Vielleicht war Gomer in Schuldknechtschaft geraten.
+> Vers 3: Hosea verspricht ihr Treue: „Auch ich werde mich so zu dir verhalten.“ Es ist ein Neuanfang mit einer Zeit der Ruhe und Besinnung.
+> Christen sehen hier ein Bild für die Liebe Gottes in Jesus Christus: Gott „kauft frei“ (erlöst), die sich von ihm abgewandt haben.
+> Wichtig für heute: Dieses Kapitel ist kein Rat an Menschen, in einer Beziehung zu bleiben, in der sie verletzt, betrogen oder misshandelt werden. Es beschreibt Gottes Liebe. Wer in einer belastenden Beziehung lebt, darf sich Hilfe holen und sich schützen.
+
+---
+
+### Viele Tage ohne König (Vers 4–5)
+
+<sup>4</sup>Denn die Kinder Israel werden viele Tage bleiben
+ohne König und ohne Fürst,
+ohne Opfer und ohne Gedenkstein,
+ohne Efod und ohne Hausgötter.
+<sup>5</sup>Danach werden die Kinder Israel umkehren
+und den HERRN, ihren Gott, suchen
+und David, ihren König.
+Und sie werden zitternd zum HERRN kommen
+und zu seiner Güte
+in den letzten Tagen.
+
+> **Was bedeutet das?**
+> Wie Gomer eine Zeit lang zurückgezogen leben muss, so wird auch Israel eine lange Zeit ohne König, ohne Tempeldienst und ohne Götzen sein. Das geschah im Exil.
+> Aber danach kommt die Umkehr: Sie werden Gott suchen und „David, ihren König“, also einen König aus der Familie Davids. Juden erwarten den Messias aus Davids Familie. Christen sehen die Erfüllung in Jesus, dem „Sohn Davids“.
+> „Zitternd zu seiner Güte kommen“: nicht aus Angst vor Strafe, sondern voller Ehrfurcht vor der Güte, die sie nicht verdient haben.
+> Die Botschaft der ersten drei Kapitel: Gottes Liebe ist stärker als die Untreue der Menschen. Er gibt nicht auf.
