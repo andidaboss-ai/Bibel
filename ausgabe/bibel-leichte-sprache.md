@@ -108668,7 +108668,7 @@ in den letzten Tagen.
 
 <sup>1</sup>Hört das Wort des HERRN, ihr Kinder Israel,
 denn der HERR hat einen Rechtsstreit mit den Bewohnern des Landes:
-„Wahrlich, es gibt keine Treue,
+„Wahrlich, es gibt keine Wahrheit,
 keine Güte
 und keine Gotteserkenntnis im Land.
 <sup>2</sup>Es gibt Fluchen, Lügen, Morden, Stehlen und Ehebrechen.
@@ -108682,7 +108682,7 @@ Ja, auch die Fische im Meer sterben.
 
 > **Was bedeutet das?**
 > Gott führt einen „Rechtsstreit“ mit seinem Volk, wie vor Gericht.
-> Vers 1: Drei Dinge fehlen im Land: Treue (Wahrhaftigkeit), Güte (Liebe, Barmherzigkeit) und Gotteserkenntnis. Das sind die Grundlagen jeder guten Gemeinschaft.
+> Vers 1: Drei Dinge fehlen im Land: Wahrheit (Treue, Verlässlichkeit), Güte (Liebe, Barmherzigkeit) und Gotteserkenntnis. Das sind die Grundlagen jeder guten Gemeinschaft.
 > Vers 2: Stattdessen gibt es Fluchen, Lügen, Morden, Stehlen und Ehebruch. Das sind fast genau die Zehn Gebote, nur umgekehrt (vgl. 2. Mose 20,7.13–16). Wenn Menschen Gott vergessen, zerbricht auch das Zusammenleben.
 > Vers 3: Sogar die Natur leidet: Tiere, Vögel und Fische sterben. Das Unrecht der Menschen hat Folgen für die ganze Schöpfung. Ein Gedanke, der heute, angesichts von Umweltzerstörung und Artensterben, sehr aktuell ist.
 
@@ -108861,7 +108861,7 @@ In ihrer Not werden sie mich eifrig suchen.“
 > Vers 15: Aber das Ziel ist nicht Vernichtung. Gott zieht sich zurück und wartet, „bis sie ihre Schuld erkennen und mein Angesicht suchen“. Gott hofft, dass sein Volk in der Not zu ihm zurückfindet.
 
 ## Hosea – Kapitel 6
-#### Liebe will ich, nicht Opfer
+#### Barmherzigkeit will ich, nicht Opfer
 
 ---
 
@@ -108898,13 +108898,13 @@ und wie der Tau, der früh vergeht.
 <sup>5</sup>Darum habe ich sie durch die Propheten behauen.
 Ich habe sie durch die Worte meines Mundes getötet.
 Deine Gerichte sind wie ein Blitz.
-<sup>6</sup>Denn ich habe Gefallen an Liebe, nicht am Opfer,
+<sup>6</sup>Denn ich habe Gefallen an Barmherzigkeit, nicht am Opfer,
 und an der Erkenntnis Gottes mehr als an Brandopfern.
 
 > **Was bedeutet das?**
 > Vers 4: Gott klingt hier wie verzweifelte Eltern: „Was soll ich nur mit dir machen?“ Die Liebe des Volkes ist wie Morgentau: Am Morgen ist sie da, aber sobald die Sonne scheint, ist sie verschwunden. Sie hält nicht.
-> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Liebe (Barmherzigkeit), nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
-> Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
+> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
+> Das hebräische Wort „chesed“ bedeutet Güte, Treue und liebevolle Barmherzigkeit zugleich. Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
 > Jesus zitiert diesen Vers zweimal: als man ihm vorwirft, mit Sündern zu essen (Matthäus 9,13), und als man seine Jünger wegen des Sabbats kritisiert (Matthäus 12,7). „Geht hin und lernt, was das heißt: Barmherzigkeit will ich, nicht Opfer.“
 > Auch im Judentum ist dieser Vers sehr wichtig. Nach der Zerstörung des Tempels lehrte Rabbi Jochanan ben Sakkai mit diesem Vers: Liebestaten sühnen jetzt wie früher die Opfer.
 

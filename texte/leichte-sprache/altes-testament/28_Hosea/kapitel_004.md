@@ -7,7 +7,7 @@
 
 [1] Hört das Wort des HERRN, ihr Kinder Israel,
 denn der HERR hat einen Rechtsstreit mit den Bewohnern des Landes:
-„Wahrlich, es gibt keine Treue,
+„Wahrlich, es gibt keine Wahrheit,
 keine Güte
 und keine Gotteserkenntnis im Land.
 [2] Es gibt Fluchen, Lügen, Morden, Stehlen und Ehebrechen.
@@ -21,7 +21,7 @@ Ja, auch die Fische im Meer sterben.
 
 > **Was bedeutet das?**
 > Gott führt einen „Rechtsstreit“ mit seinem Volk, wie vor Gericht.
-> Vers 1: Drei Dinge fehlen im Land: Treue (Wahrhaftigkeit), Güte (Liebe, Barmherzigkeit) und Gotteserkenntnis. Das sind die Grundlagen jeder guten Gemeinschaft.
+> Vers 1: Drei Dinge fehlen im Land: Wahrheit (Treue, Verlässlichkeit), Güte (Liebe, Barmherzigkeit) und Gotteserkenntnis. Das sind die Grundlagen jeder guten Gemeinschaft.
 > Vers 2: Stattdessen gibt es Fluchen, Lügen, Morden, Stehlen und Ehebruch. Das sind fast genau die Zehn Gebote, nur umgekehrt (vgl. 2. Mose 20,7.13–16). Wenn Menschen Gott vergessen, zerbricht auch das Zusammenleben.
 > Vers 3: Sogar die Natur leidet: Tiere, Vögel und Fische sterben. Das Unrecht der Menschen hat Folgen für die ganze Schöpfung. Ein Gedanke, der heute, angesichts von Umweltzerstörung und Artensterben, sehr aktuell ist.
 

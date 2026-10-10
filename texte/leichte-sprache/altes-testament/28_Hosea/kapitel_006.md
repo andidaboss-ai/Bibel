@@ -1,5 +1,5 @@
 # Hosea – Kapitel 6
-### Liebe will ich, nicht Opfer
+### Barmherzigkeit will ich, nicht Opfer
 
 ---
 
@@ -36,13 +36,13 @@ und wie der Tau, der früh vergeht.
 [5] Darum habe ich sie durch die Propheten behauen.
 Ich habe sie durch die Worte meines Mundes getötet.
 Deine Gerichte sind wie ein Blitz.
-[6] Denn ich habe Gefallen an Liebe, nicht am Opfer,
+[6] Denn ich habe Gefallen an Barmherzigkeit, nicht am Opfer,
 und an der Erkenntnis Gottes mehr als an Brandopfern.
 
 > **Was bedeutet das?**
 > Vers 4: Gott klingt hier wie verzweifelte Eltern: „Was soll ich nur mit dir machen?“ Die Liebe des Volkes ist wie Morgentau: Am Morgen ist sie da, aber sobald die Sonne scheint, ist sie verschwunden. Sie hält nicht.
-> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Liebe (Barmherzigkeit), nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
-> Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
+> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
+> Das hebräische Wort „chesed“ bedeutet Güte, Treue und liebevolle Barmherzigkeit zugleich. Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
 > Jesus zitiert diesen Vers zweimal: als man ihm vorwirft, mit Sündern zu essen (Matthäus 9,13), und als man seine Jünger wegen des Sabbats kritisiert (Matthäus 12,7). „Geht hin und lernt, was das heißt: Barmherzigkeit will ich, nicht Opfer.“
 > Auch im Judentum ist dieser Vers sehr wichtig. Nach der Zerstörung des Tempels lehrte Rabbi Jochanan ben Sakkai mit diesem Vers: Liebestaten sühnen jetzt wie früher die Opfer.
 
