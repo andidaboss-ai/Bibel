@@ -107347,3 +107347,527 @@ und unter der Herrschaft des Kyrus, des Persers.
 > Wie Nebukadnezar in Kapitel 3 und 4 lobt nun auch der persische König den Gott Israels: „Er ist der lebendige Gott. Er rettet und befreit.“
 > Hier endet der erste Teil des Buches mit den Erzählungen. Die Botschaft aller sechs Kapitel: Gott ist treu zu denen, die ihm treu sind, auch in einer fremden, feindlichen Umgebung. Und sein Reich ist größer als alle Reiche der Welt.
 > Für heute: Weltweit werden Menschen wegen ihres Glaubens verfolgt und in Gefängnisse geworfen. Daniels Geschichte ermutigt, treu zu bleiben. Und sie erinnert uns, uns für Religionsfreiheit für alle Menschen einzusetzen.
+
+## Daniel – Kapitel 7
+#### Vier Tiere und der Menschensohn
+
+---
+
+### Vier Tiere steigen aus dem Meer (Vers 1–8)
+
+<sup>1</sup>Im ersten Jahr Belsazars, des Königs von Babylon,
+hatte Daniel einen Traum
+und Visionen seines Kopfes auf seinem Lager.
+Dann schrieb er den Traum auf
+und erzählte die Hauptsache davon.
+<sup>2</sup>Daniel sagte:
+„Ich schaute in meiner Vision in der Nacht,
+und siehe, die vier Winde des Himmels
+brachen über das große Meer herein.
+<sup>3</sup>Vier große Tiere stiegen aus dem Meer herauf,
+jedes anders als das andere.
+<sup>4</sup>Das erste war wie ein Löwe
+und hatte Adlerflügel.
+Ich schaute, bis seine Flügel ausgerissen wurden.
+Es wurde von der Erde aufgerichtet
+und wie ein Mensch auf zwei Füße gestellt,
+und ein Menschenherz wurde ihm gegeben.
+<sup>5</sup>Und siehe, da war ein anderes Tier, ein zweites,
+wie ein Bär.
+Es war auf einer Seite aufgerichtet
+und hatte drei Rippen in seinem Maul zwischen seinen Zähnen.
+Man sagte zu ihm:
+‚Steh auf! Friss viel Fleisch!‘
+<sup>6</sup>Danach schaute ich,
+und siehe, ein anderes, wie ein Leopard,
+das auf seinem Rücken vier Vogelflügel hatte.
+Das Tier hatte auch vier Köpfe,
+und ihm wurde Herrschaft gegeben.
+<sup>7</sup>Danach schaute ich in den Visionen der Nacht,
+und siehe, da war ein viertes Tier,
+furchterregend, mächtig und überaus stark.
+Es hatte große eiserne Zähne.
+Es fraß und zermalmte,
+und den Rest zertrat es mit seinen Füßen.
+Es war anders als alle Tiere vor ihm.
+Es hatte zehn Hörner.
+<sup>8</sup>Ich betrachtete die Hörner,
+und siehe, da kam ein anderes Horn zwischen ihnen herauf, ein kleines,
+vor dem drei der ersten Hörner mit der Wurzel ausgerissen wurden.
+Und siehe, an diesem Horn waren Augen wie Menschenaugen
+und ein Mund, der großspurig redete.
+
+> **Was bedeutet das?**
+> Mit Kapitel 7 beginnt der zweite Teil des Buches: Daniels eigene Visionen. Sie sind voller seltsamer Bilder, wie ein Albtraum. Solche Texte nennt man „Apokalyptik“ (Enthüllung): Sie zeigen in Bildern, was hinter der Geschichte steckt.
+> Das „große Meer“ steht für Chaos und Unruhe. Aus diesem Chaos steigen vier wilde Tiere auf: ein Löwe mit Flügeln, ein Bär, ein Leopard mit vier Köpfen und ein schreckliches viertes Tier mit eisernen Zähnen und zehn Hörnern.
+> Die Tiere sind wie die vier Metalle der Statue in Kapitel 2: vier Weltreiche. Weltreiche werden hier als Raubtiere dargestellt, gefährlich und gierig.
+> Hörner sind in der Bibel ein Bild für Macht und Könige.
+> Vers 8: Das kleine Horn mit Menschenaugen und großem Mundwerk ist ein besonders hochmütiger Herrscher.
+
+---
+
+### Der Hochbetagte auf dem Thron (Vers 9–12)
+
+<sup>9</sup>Ich schaute,
+bis Throne aufgestellt wurden
+und einer, der hochbetagt war, sich setzte.
+Sein Gewand war weiß wie Schnee
+und das Haar seines Kopfes wie reine Wolle.
+Sein Thron war Feuerflammen,
+und seine Räder brennendes Feuer.
+<sup>10</sup>Ein Feuerstrom floss und ging von ihm aus.
+Tausendmal Tausende dienten ihm,
+und zehntausendmal Zehntausende standen vor ihm.
+Das Gericht setzte sich,
+und die Bücher wurden geöffnet.
+<sup>11</sup>Ich schaute damals wegen des Lärms der großspurigen Worte,
+die das Horn redete.
+Ich schaute, bis das Tier getötet wurde
+und sein Körper vernichtet
+und dem Feuer zum Verbrennen übergeben wurde.
+<sup>12</sup>Den übrigen Tieren wurde ihre Herrschaft genommen,
+doch ihr Leben wurde ihnen verlängert
+bis zu einer bestimmten Zeit und Stunde.
+
+> **Was bedeutet das?**
+> Plötzlich wechselt die Szene: Ein himmlischer Gerichtssaal. Gott selbst sitzt auf dem Thron. Er heißt „der Hochbetagte“ (wörtlich „der Alte an Tagen“), weil er ewig ist. Sein weißes Haar und Gewand stehen für Weisheit und Reinheit.
+> Der Thron hat Räder aus Feuer, wie der Thronwagen bei Hesekiel (Hesekiel 1).
+> Vers 10: Unzählige Engel dienen ihm. „Die Bücher werden geöffnet“: Gott hält Gericht über die Taten der Mächtigen.
+> Vers 11: Das vierte Tier mit dem großspurigen Horn wird vernichtet. Das Gericht Gottes beendet die Herrschaft der Gewalt.
+
+---
+
+### Einer wie ein Menschensohn (Vers 13–14)
+
+<sup>13</sup>Ich schaute in den Visionen der Nacht,
+und siehe, mit den Wolken des Himmels kam einer
+wie ein Menschensohn.
+Er kam bis zu dem Hochbetagten,
+und man brachte ihn vor ihn.
+<sup>14</sup>Ihm wurden Herrschaft, Ehre und Königtum gegeben,
+damit alle Völker, Nationen und Sprachen ihm dienen.
+Seine Herrschaft ist eine ewige Herrschaft,
+die nicht vergeht,
+und sein Königtum wird nicht zerstört.
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Verse der ganzen Bibel!
+> Nach den wilden Tieren aus dem Meer kommt jetzt einer „wie ein Menschensohn“, also wie ein Mensch, und zwar nicht aus dem Meer, sondern mit den Wolken des Himmels. Die Tierreiche sind gewalttätig. Das Reich dieses „Menschen“ ist menschlich, und es kommt von Gott. Es wird nie vergehen.
+> Wer ist dieser „Menschensohn“?
+> – In Vers 18 und 27 wird gesagt, dass „die Heiligen des Höchsten“ das Reich bekommen. Darum verstehen viele jüdische Ausleger den Menschensohn als Bild für das treue Volk Gottes.
+> – Andere jüdische Ausleger, schon in der Antike, sahen in ihm den Messias.
+> – Im Neuen Testament nennt Jesus sich selbst immer wieder „Menschensohn“. Vor dem Hohen Rat sagt er: „Ihr werdet den Menschensohn sitzen sehen zur Rechten der Macht und kommen mit den Wolken des Himmels“ (Markus 14,62). Für Christen ist Jesus dieser Menschensohn.
+
+---
+
+### Die Deutung (Vers 15–28)
+
+<sup>15</sup>Ich, Daniel, war in meinem Geist bekümmert in meinem Leib,
+und die Visionen meines Kopfes erschreckten mich.
+<sup>16</sup>Ich trat zu einem von denen, die dastanden,
+und fragte ihn nach der Wahrheit über all dies.
+Da sagte er es mir
+und ließ mich die Deutung der Dinge wissen:
+<sup>17</sup>‚Diese großen Tiere, die vier sind,
+sind vier Könige, die aus der Erde aufstehen werden.
+<sup>18</sup>Aber die Heiligen des Höchsten werden das Königtum empfangen
+und das Königtum besitzen für immer,
+für immer und ewig.‘
+<sup>19</sup>Dann wollte ich die Wahrheit über das vierte Tier wissen,
+das anders war als alle anderen,
+überaus schrecklich,
+dessen Zähne aus Eisen und dessen Klauen aus Bronze waren,
+das fraß, zermalmte
+und den Rest mit seinen Füßen zertrat,
+<sup>20</sup>und über die zehn Hörner auf seinem Kopf
+und über das andere Horn, das heraufkam
+und vor dem drei fielen,
+jenes Horn, das Augen hatte
+und einen Mund, der großspurig redete,
+und das größer aussah als die anderen.
+<sup>21</sup>Ich schaute,
+und dieses Horn führte Krieg gegen die Heiligen
+und überwältigte sie,
+<sup>22</sup>bis der Hochbetagte kam
+und das Gericht den Heiligen des Höchsten gegeben wurde
+und die Zeit kam, dass die Heiligen das Königtum besaßen.
+<sup>23</sup>Er sagte:
+‚Das vierte Tier wird ein viertes Königreich auf der Erde sein,
+das anders sein wird als alle Königreiche.
+Es wird die ganze Erde fressen,
+sie zertreten und zermalmen.
+<sup>24</sup>Was die zehn Hörner betrifft:
+Aus diesem Königreich werden zehn Könige aufstehen.
+Und ein anderer wird nach ihnen aufstehen.
+Er wird anders sein als die früheren,
+und er wird drei Könige stürzen.
+<sup>25</sup>Er wird Worte gegen den Höchsten reden
+und die Heiligen des Höchsten aufreiben.
+Er wird planen, die Zeiten und das Gesetz zu ändern.
+Und sie werden in seine Hand gegeben werden
+für eine Zeit und Zeiten und eine halbe Zeit.
+<sup>26</sup>Aber das Gericht wird sich setzen,
+und man wird ihm seine Herrschaft wegnehmen,
+um sie bis zum Ende zu vertilgen und zu vernichten.
+<sup>27</sup>Das Königtum und die Herrschaft
+und die Größe der Königreiche unter dem ganzen Himmel
+werden dem Volk der Heiligen des Höchsten gegeben werden.
+Sein Königtum ist ein ewiges Königtum,
+und alle Mächte werden ihm dienen und gehorchen.‘
+<sup>28</sup>Hier ist das Ende der Sache.
+Mich, Daniel, erschreckten meine Gedanken sehr,
+und mein Gesicht veränderte sich.
+Aber ich bewahrte die Sache in meinem Herzen.“
+
+> **Was bedeutet das?**
+> Ein Engel erklärt: Die vier Tiere sind vier Königreiche. Am Ende aber bekommen „die Heiligen des Höchsten“ das ewige Reich.
+> Vers 25: Der hochmütige Herrscher (das kleine Horn) verfolgt die Gläubigen und will „die Zeiten und das Gesetz ändern“, also die Feste und Gebote Gottes abschaffen.
+> „Eine Zeit und Zeiten und eine halbe Zeit“ sind wahrscheinlich dreieinhalb Jahre (1 + 2 + ½), eine begrenzte Zeit des Leidens. Die Verfolgung hat ein Ende.
+> Wer ist das kleine Horn?
+> – Viele Ausleger denken an König Antiochus IV. Epiphanes (175–164 vor Christus). Er verbot den Juden, den Sabbat zu halten und die Beschneidung zu feiern, und entweihte den Tempel in Jerusalem. Nach etwa dreieinhalb Jahren wurde der Tempel wieder geweiht (das feiern Juden bis heute am Chanukka-Fest).
+> – Andere, vor allem in der christlichen Tradition, deuten das vierte Tier auf Rom und das kleine Horn auf einen Widersacher Gottes am Ende der Zeit.
+> Wichtig: Immer wieder haben Menschen versucht, diese Bilder auf Personen oder Länder ihrer eigenen Zeit anzuwenden, oft mit falschen Ergebnissen. Die Hauptbotschaft ist klar und tröstlich: Auch die schlimmsten Gewaltherrscher haben nur begrenzte Zeit. Gottes Reich wird kommen und bleiben.
+
+## Daniel – Kapitel 8
+#### Der Widder und der Ziegenbock
+
+---
+
+### Die Vision am Fluss Ulai (Vers 1–8)
+
+<sup>1</sup>Im dritten Jahr der Herrschaft des Königs Belsazar
+erschien mir, Daniel, eine Vision,
+nach der, die mir am Anfang erschienen war.
+<sup>2</sup>Ich sah in der Vision.
+Und als ich sah, war ich in der Burg Susa,
+die in der Provinz Elam liegt.
+Ich sah in der Vision,
+und ich war am Fluss Ulai.
+<sup>3</sup>Da hob ich meine Augen auf und sah,
+und siehe, ein Widder mit zwei Hörnern stand vor dem Fluss.
+Die zwei Hörner waren hoch,
+aber eines war höher als das andere,
+und das höhere wuchs zuletzt.
+<sup>4</sup>Ich sah den Widder nach Westen, nach Norden und nach Süden stoßen.
+Kein Tier konnte vor ihm bestehen,
+und es gab keinen, der aus seiner Hand retten konnte.
+Er tat, was er wollte,
+und machte sich groß.
+<sup>5</sup>Während ich darüber nachdachte,
+siehe, da kam ein Ziegenbock von Westen her
+über die ganze Erde,
+ohne den Boden zu berühren.
+Der Bock hatte ein auffallendes Horn zwischen seinen Augen.
+<sup>6</sup>Er kam zu dem Widder mit den zwei Hörnern,
+den ich vor dem Fluss hatte stehen sehen,
+und rannte in der Wut seiner Kraft auf ihn los.
+<sup>7</sup>Ich sah ihn nahe an den Widder herankommen.
+Er wurde zornig über ihn,
+stieß den Widder
+und zerbrach seine zwei Hörner.
+Der Widder hatte keine Kraft, vor ihm zu bestehen.
+Er warf ihn zu Boden
+und zertrat ihn.
+Und es gab keinen, der den Widder aus seiner Hand retten konnte.
+<sup>8</sup>Der Ziegenbock machte sich überaus groß.
+Als er stark war, zerbrach das große Horn,
+und an seiner Stelle wuchsen vier auffallende Hörner
+nach den vier Winden des Himmels.
+
+> **Was bedeutet das?**
+> Ab Kapitel 8 ist das Buch wieder auf Hebräisch geschrieben.
+> Daniel sieht sich in einer Vision in Susa, der späteren Hauptstadt des Perserreichs (im heutigen Iran).
+> Hier wird die Deutung im Text selbst gegeben (Vers 20–21): Der Widder mit zwei Hörnern ist das Reich der Meder und Perser. Das höhere, spätere Horn ist Persien, das stärker wurde als Medien.
+> Der Ziegenbock aus dem Westen ist Griechenland. Er ist so schnell, dass er den Boden nicht berührt. Das große Horn ist der erste König: Alexander der Große. Er eroberte das riesige Perserreich in nur wenigen Jahren (334–331 vor Christus).
+> Vers 8: Auf dem Höhepunkt seiner Macht „zerbrach das große Horn“: Alexander starb mit nur 32 Jahren (323 vor Christus). Sein Reich wurde unter seinen Generälen aufgeteilt, in vier Teile.
+
+---
+
+### Das kleine Horn (Vers 9–14)
+
+<sup>9</sup>Aus einem von ihnen ging ein kleines Horn hervor,
+das überaus groß wurde
+nach Süden, nach Osten
+und nach dem herrlichen Land hin.
+<sup>10</sup>Es wurde groß bis zum Heer des Himmels,
+und es warf einige vom Heer und von den Sternen auf die Erde
+und zertrat sie.
+<sup>11</sup>Ja, es machte sich groß bis zum Fürsten des Heeres.
+Es nahm ihm das tägliche Brandopfer weg,
+und die Stätte seines Heiligtums wurde niedergeworfen.
+<sup>12</sup>Das Heer wurde ihm preisgegeben
+zusammen mit dem täglichen Brandopfer
+wegen der Übertretung.
+Es warf die Wahrheit zu Boden,
+und es tat, was es wollte,
+und hatte Erfolg.
+<sup>13</sup>Da hörte ich einen Heiligen reden,
+und ein anderer Heiliger sagte zu dem, der redete:
+„Wie lange gilt die Vision
+vom täglichen Brandopfer
+und von der Übertretung, die verwüstet,
+dass das Heiligtum und das Heer zertreten werden?“
+<sup>14</sup>Er sagte zu mir:
+„Bis zu zweitausenddreihundert Abenden und Morgen.
+Dann wird das Heiligtum wieder in Ordnung gebracht.“
+
+> **Was bedeutet das?**
+> Aus einem der vier Reiche wächst ein kleines Horn, das sehr mächtig wird. Es greift das „herrliche Land“ (Israel) an, schafft das tägliche Opfer im Tempel ab und entweiht das Heiligtum.
+> Die meisten Ausleger, jüdische wie christliche, sehen darin König Antiochus IV. Epiphanes aus dem Reich der Seleukiden (einem der vier Nachfolgereiche Alexanders). Er verbot im Jahr 167 vor Christus den jüdischen Gottesdienst und stellte im Tempel einen Altar für den griechischen Gott Zeus auf.
+> Vers 10: Er greift sogar „die Sterne“ an, also er erhebt sich gegen Gott selbst. Ein Bild für maßlosen Hochmut.
+> Vers 14: 2300 „Abende und Morgen“ – das sind entweder 2300 Tage (gut sechs Jahre) oder, wenn man Abend- und Morgenopfer getrennt zählt, 1150 Tage (gut drei Jahre). Danach wird das Heiligtum gereinigt. Im Jahr 164 vor Christus eroberten die Makkabäer den Tempel zurück und weihten ihn neu. Daran erinnert das jüdische Chanukka-Fest.
+
+---
+
+### Der Engel Gabriel erklärt die Vision (Vers 15–27)
+
+<sup>15</sup>Als ich, Daniel, die Vision gesehen hatte,
+suchte ich sie zu verstehen.
+Und siehe, da stand vor mir einer,
+der aussah wie ein Mann.
+<sup>16</sup>Ich hörte eine Menschenstimme zwischen den Ufern des Ulai,
+die rief und sagte:
+„Gabriel, lass diesen da die Vision verstehen!“
+<sup>17</sup>Da kam er dahin, wo ich stand.
+Als er kam, erschrak ich und fiel auf mein Gesicht.
+Er aber sagte zu mir:
+„Verstehe, Menschensohn,
+denn die Vision gilt der Zeit des Endes.“
+<sup>18</sup>Als er mit mir redete,
+fiel ich in einen tiefen Schlaf,
+mit dem Gesicht zur Erde.
+Er aber berührte mich und stellte mich aufrecht hin.
+<sup>19</sup>Er sagte:
+„Siehe, ich lasse dich wissen,
+was in der letzten Zeit des Zorns geschehen wird,
+denn sie gehört zur bestimmten Zeit des Endes.
+<sup>20</sup>Der Widder mit den zwei Hörnern, den du gesehen hast,
+das sind die Könige von Medien und Persien.
+<sup>21</sup>Der zottige Ziegenbock ist der König von Griechenland.
+Das große Horn zwischen seinen Augen ist der erste König.
+<sup>22</sup>Und dass es zerbrach und vier an seiner Stelle aufstanden:
+Vier Königreiche werden aus dem Volk aufstehen,
+aber nicht mit seiner Kraft.
+<sup>23</sup>In der letzten Zeit ihrer Herrschaft,
+wenn die Übertreter das Maß voll gemacht haben,
+wird ein König aufstehen, frech im Gesicht
+und kundig in Rätseln.
+<sup>24</sup>Seine Macht wird groß sein,
+aber nicht durch seine eigene Kraft.
+Er wird furchtbar verderben
+und Erfolg haben bei dem, was er tut.
+Er wird die Mächtigen und das heilige Volk verderben.
+<sup>25</sup>Durch seine Schlauheit wird er Betrug in seiner Hand gelingen lassen.
+Er wird sich in seinem Herzen groß machen
+und viele in ihrer Sorglosigkeit verderben.
+Er wird sich auch gegen den Fürsten der Fürsten erheben,
+aber er wird zerbrochen werden,
+ohne Zutun von Menschenhand.
+<sup>26</sup>Die Vision von den Abenden und Morgen, die gesagt worden ist,
+ist wahr.
+Du aber versiegle die Vision,
+denn sie gehört zu vielen Tagen später.“
+<sup>27</sup>Ich, Daniel, wurde schwach
+und war einige Tage krank.
+Dann stand ich auf
+und erledigte die Geschäfte des Königs.
+Ich war entsetzt über die Vision,
+aber niemand verstand sie.
+
+> **Was bedeutet das?**
+> Vers 16: Hier wird zum ersten Mal in der Bibel ein Engel mit Namen genannt: Gabriel. Sein Name bedeutet „Gott ist stark“ oder „Mann Gottes“. Im Neuen Testament ist es Gabriel, der Maria die Geburt Jesu ankündigt (Lukas 1,26–38).
+> Vers 17: Gabriel nennt Daniel „Menschensohn“, so wie Gott Hesekiel nannte.
+> Vers 23–25: Der „freche König“ ist wieder der grausame Herrscher (Antiochus IV.). Er ist schlau, betrügerisch und gewalttätig. Er greift sogar Gott („den Fürsten der Fürsten“) an.
+> Vers 25: „Er wird zerbrochen werden, ohne Zutun von Menschenhand.“ Antiochus IV. starb im Jahr 164 vor Christus an einer Krankheit, nicht im Kampf.
+> Vers 27: Die Vision ist so belastend, dass Daniel krank wird. Aber dann steht er auf und geht wieder an seine Arbeit. Glaube heißt auch, trotz schwerer Gedanken den Alltag treu weiterzuführen.
+
+## Daniel – Kapitel 9
+#### Daniels Gebet und die siebzig Wochen
+
+---
+
+### Daniel liest bei Jeremia (Vers 1–3)
+
+<sup>1</sup>Im ersten Jahr des Darius, des Sohnes des Ahasveros,
+aus dem Geschlecht der Meder,
+der König über das Reich der Chaldäer geworden war,
+<sup>2</sup>im ersten Jahr seiner Herrschaft
+verstand ich, Daniel, aus den Büchern
+die Zahl der Jahre,
+von denen das Wort des HERRN zum Propheten Jeremia gekommen war,
+dass sich die Verwüstung Jerusalems erfüllen sollte,
+nämlich siebzig Jahre.
+<sup>3</sup>Ich richtete mein Gesicht auf Gott, den Herrn,
+um ihn mit Gebet und Flehen zu suchen,
+mit Fasten, in Sacktuch und Asche.
+
+> **Was bedeutet das?**
+> Das ist das Jahr 539/538 vor Christus, gleich nach dem Ende Babylons.
+> Daniel liest im Buch des Propheten Jeremia. Dort steht, dass das Exil 70 Jahre dauern wird (Jeremia 25,11–12; 29,10). Daniel merkt: Die Zeit ist fast um!
+> Interessant: Daniel liest die Bibel, nämlich die Schriften der Propheten vor ihm. Er nimmt Gottes Wort ernst und betet darüber.
+> Statt einfach zu warten, betet Daniel. Er fastet und trägt Sacktuch und Asche, Zeichen der Trauer und Reue.
+
+---
+
+### Wir haben gesündigt (Vers 4–14)
+
+<sup>4</sup>Ich betete zum HERRN, meinem Gott,
+legte ein Bekenntnis ab und sagte:
+„Ach, Herr, du großer und furchtgebietender Gott,
+der den Bund und die Gnade bewahrt
+denen, die ihn lieben und seine Gebote halten:
+<sup>5</sup>Wir haben gesündigt
+und Unrecht getan
+und gottlos gehandelt
+und uns aufgelehnt
+und sind von deinen Geboten und deinen Rechtsordnungen abgewichen.
+<sup>6</sup>Wir haben nicht auf deine Knechte, die Propheten, gehört,
+die in deinem Namen zu unseren Königen, unseren Fürsten und unseren Vätern
+und zu allem Volk des Landes geredet haben.
+<sup>7</sup>Herr, dir gehört die Gerechtigkeit,
+uns aber die Schamröte im Gesicht, wie es heute ist:
+den Männern von Juda und den Bewohnern Jerusalems
+und ganz Israel,
+denen, die nahe sind, und denen, die fern sind,
+in allen Ländern, wohin du sie vertrieben hast,
+wegen ihrer Untreue, die sie gegen dich begangen haben.
+<sup>8</sup>Herr, uns gehört die Schamröte im Gesicht,
+unseren Königen, unseren Fürsten und unseren Vätern,
+weil wir gegen dich gesündigt haben.
+<sup>9</sup>Dem Herrn, unserem Gott, gehören Erbarmen und Vergebung,
+denn wir haben uns gegen ihn aufgelehnt.
+<sup>10</sup>Wir haben nicht auf die Stimme des HERRN, unseres Gottes, gehört,
+um in seinen Gesetzen zu gehen,
+die er uns durch seine Knechte, die Propheten, vorgelegt hat.
+<sup>11</sup>Ja, ganz Israel hat dein Gesetz übertreten,
+ist abgewichen
+und hat nicht auf deine Stimme gehört.
+Darum hat sich der Fluch und der Schwur über uns ergossen,
+die im Gesetz des Mose, des Knechtes Gottes, geschrieben stehen,
+denn wir haben gegen ihn gesündigt.
+<sup>12</sup>Er hat seine Worte bestätigt,
+die er gegen uns und gegen unsere Richter, die uns richteten, geredet hat,
+indem er ein großes Unheil über uns brachte.
+Denn unter dem ganzen Himmel ist nicht so etwas geschehen,
+wie an Jerusalem geschehen ist.
+<sup>13</sup>Wie es im Gesetz des Mose geschrieben steht,
+so ist all dieses Unheil über uns gekommen.
+Doch wir haben den HERRN, unseren Gott, nicht besänftigt,
+indem wir von unseren Sünden umkehrten
+und auf deine Wahrheit achteten.
+<sup>14</sup>Darum hat der HERR über das Unheil gewacht
+und es über uns gebracht.
+Denn der HERR, unser Gott, ist gerecht in allen seinen Werken, die er tut,
+und wir haben nicht auf seine Stimme gehört.
+
+> **Was bedeutet das?**
+> Daniels Gebet ist ein großes Sündenbekenntnis. Bemerkenswert: Daniel selbst war treu. In den Erzählungen wird kein Fehler von ihm berichtet. Trotzdem sagt er nicht „sie haben gesündigt“, sondern „WIR haben gesündigt“. Er stellt sich in die Gemeinschaft seines Volkes und trägt die Schuld mit.
+> Vers 7 und 9: Ein starker Gegensatz: „Dir gehört die Gerechtigkeit, uns die Scham.“ Aber auch: „Dir gehören Erbarmen und Vergebung.“ Daniel weiß: Gott ist gerecht, aber er ist auch barmherzig.
+> Dieses Gebet ist zu einem Vorbild für Bußgebete geworden, im Judentum und im Christentum.
+
+---
+
+### Herr, höre! Herr, vergib! (Vers 15–19)
+
+<sup>15</sup>Und nun, Herr, unser Gott,
+der du dein Volk mit starker Hand aus dem Land Ägypten herausgeführt
+und dir einen Namen gemacht hast, wie es heute ist:
+Wir haben gesündigt.
+Wir haben gottlos gehandelt.
+<sup>16</sup>Herr, nach all deiner Gerechtigkeit
+wende doch deinen Zorn und deinen Grimm ab
+von deiner Stadt Jerusalem, deinem heiligen Berg.
+Denn wegen unserer Sünden und wegen der Schuld unserer Väter
+sind Jerusalem und dein Volk zum Spott geworden
+für alle, die rings um uns sind.
+<sup>17</sup>Und nun, unser Gott,
+höre auf das Gebet deines Knechtes und auf sein Flehen,
+und lass dein Angesicht leuchten
+über dein verwüstetes Heiligtum,
+um des Herrn willen.
+<sup>18</sup>Mein Gott, neige dein Ohr und höre.
+Öffne deine Augen und sieh unsere Verwüstungen
+und die Stadt, die nach deinem Namen genannt ist.
+Denn nicht im Vertrauen auf unsere Gerechtigkeit
+legen wir unser Flehen vor dir nieder,
+sondern im Vertrauen auf dein großes Erbarmen.
+<sup>19</sup>Herr, höre!
+Herr, vergib!
+Herr, merke auf und handle!
+Zögere nicht,
+um deinetwillen, mein Gott,
+denn deine Stadt und dein Volk sind nach deinem Namen genannt.“
+
+> **Was bedeutet das?**
+> Vers 18: Der Kern des Gebets: „Nicht weil wir gerecht sind, bitten wir dich, sondern wegen deines großen Erbarmens.“ Wir können vor Gott nichts vorweisen. Wir können nur auf seine Gnade vertrauen.
+> Vers 19: Ein kurzes, eindringliches Gebet: „Herr, höre! Herr, vergib! Herr, handle!“ Man kann es auch heute beten, wenn man nicht mehr weiterweiß.
+
+---
+
+### Gabriel kommt mit der Antwort (Vers 20–23)
+
+<sup>20</sup>Während ich noch redete und betete
+und meine Sünde und die Sünde meines Volkes Israel bekannte
+und mein Flehen vor den HERRN, meinen Gott, brachte
+für den heiligen Berg meines Gottes,
+<sup>21</sup>ja, während ich noch im Gebet redete,
+da kam der Mann Gabriel,
+den ich am Anfang in der Vision gesehen hatte,
+in schnellem Flug
+und berührte mich um die Zeit des Abendopfers.
+<sup>22</sup>Er belehrte mich, redete mit mir und sagte:
+„Daniel, ich bin jetzt ausgegangen,
+um dir Weisheit und Verständnis zu geben.
+<sup>23</sup>Am Anfang deines Flehens ging ein Wort aus,
+und ich bin gekommen, um es dir zu sagen,
+denn du bist sehr geliebt.
+So achte nun auf das Wort
+und verstehe die Vision.
+
+> **Was bedeutet das?**
+> Vers 21: Gabriel kommt „um die Zeit des Abendopfers“. Es gab keinen Tempel mehr, aber Daniel betete noch immer zu der Zeit, als früher im Tempel geopfert wurde. Das Gebet trat an die Stelle des Opfers.
+> Vers 23: Gott hat das Gebet schon am Anfang gehört, noch bevor Daniel fertig war. Und Gabriel sagt zu Daniel: „Du bist sehr geliebt.“ Was für ein schönes Wort von Gott!
+
+---
+
+### Siebzig Wochen (Vers 24–27)
+
+<sup>24</sup>Siebzig Wochen sind über dein Volk
+und über deine heilige Stadt bestimmt,
+um die Übertretung zu beenden,
+den Sünden ein Ende zu machen,
+die Schuld zu sühnen,
+ewige Gerechtigkeit herbeizuführen,
+Vision und Prophet zu versiegeln
+und ein Hochheiliges zu salben.
+<sup>25</sup>So wisse und verstehe:
+Vom Ausgehen des Wortes,
+Jerusalem wiederherzustellen und aufzubauen,
+bis zu einem Gesalbten, einem Fürsten,
+sind es sieben Wochen und zweiundsechzig Wochen.
+Es wird wieder aufgebaut werden,
+mit Platz und Graben,
+und zwar in bedrängten Zeiten.
+<sup>26</sup>Nach den zweiundsechzig Wochen
+wird ein Gesalbter ausgerottet werden
+und nichts haben.
+Und das Volk eines Fürsten, der kommt,
+wird die Stadt und das Heiligtum zerstören.
+Sein Ende wird mit einer Flut kommen,
+und bis zum Ende wird Krieg sein.
+Verwüstungen sind beschlossen.
+<sup>27</sup>Er wird mit vielen einen festen Bund schließen für eine Woche.
+In der Mitte der Woche wird er Schlachtopfer und Speisopfer aufhören lassen.
+Und auf dem Flügel der Gräuel wird einer kommen, der verwüstet,
+und zwar bis die beschlossene Vernichtung
+sich über den Verwüster ergießt.“
+
+> **Was bedeutet das?**
+> Daniel hatte über die 70 Jahre bei Jeremia nachgedacht. Gabriel antwortet mit „70 Wochen“. Gemeint sind wahrscheinlich „Jahrwochen“, also jeweils 7 Jahre. 70 mal 7 = 490 Jahre. Die Zeit bis zur endgültigen Erlösung ist also viel länger, als Daniel dachte.
+> Diese Verse gehören zu den am meisten diskutierten der ganzen Bibel. Der hebräische Text ist schwierig, und es gibt verschiedene Deutungen:
+> – Viele Ausleger beziehen sie auf die Zeit bis Antiochus IV.: Der „Gesalbte“, der „ausgerottet“ wird (Vers 26), wäre der rechtmäßige Hohepriester Onias III., der 171 vor Christus ermordet wurde. Der „Verwüster“ ist Antiochus, der den Tempelgottesdienst abschaffte (Vers 27).
+> – Viele Christen beziehen die Verse auf Jesus Christus, den „Gesalbten“ (Messias), der getötet wurde, und auf die Zerstörung Jerusalems durch die Römer im Jahr 70 nach Christus.
+> – Im Judentum wurden sie auch auf die Zerstörung des Zweiten Tempels bezogen.
+> Das WEB übersetzt in Vers 25–26 „the Anointed One“ (der Gesalbte) mit großem Anfangsbuchstaben, wie ein Name. Im Hebräischen steht kein Artikel; man kann auch „ein Gesalbter“ übersetzen.
+> Jesus spricht vom „Gräuel der Verwüstung, von dem der Prophet Daniel geredet hat“ (Matthäus 24,15).
+> Die wichtige Botschaft für alle: Gott hat einen Plan für die Geschichte. Die Not hat ein Ende. Am Ziel stehen Vergebung und „ewige Gerechtigkeit“ (Vers 24).
