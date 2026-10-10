@@ -55,7 +55,7 @@ Von mir kommt deine Frucht.“
 > Vers 4: „Ich will ihre Untreue heilen. Ich will sie aus freien Stücken lieben.“ Gott liebt nicht, weil das Volk es verdient hätte, sondern freiwillig, aus reiner Gnade. Und er heilt die Untreue, so wie man eine Krankheit heilt.
 > Vers 5: „Ich will für Israel sein wie der Tau.“ In Kapitel 6,4 war die Liebe des Volkes „wie Tau, der schnell vergeht“. Jetzt ist Gott selbst der Tau, der jeden Morgen neu kommt und das Land erfrischt. Im trockenen Sommer Israels ist der Tau lebenswichtig.
 > Vers 5–7: Lauter Bilder von Leben und Schönheit: blühende Lilien, tiefe Wurzeln, ausgebreitete Zweige, Ölbaum, Duft, Korn, Weinstock.
-> Vers 8: Gott vergleicht sich selbst mit einem immergrünen Baum, der Frucht bringt. Das ist das einzige Mal in der Bibel, dass Gott sich mit einem Baum vergleicht. Die Fruchtbarkeit, die Israel bei Baal gesucht hat, kommt in Wahrheit von Gott: „Von mir kommt deine Frucht.“
+> Vers 8: Gott vergleicht sich selbst mit einem immergrünen Baum, der Frucht bringt. Das ist ein sehr seltenes Bild in der Bibel. Die Fruchtbarkeit, die Israel bei Baal gesucht hat, kommt in Wahrheit von Gott: „Von mir kommt deine Frucht.“
 
 ---
 

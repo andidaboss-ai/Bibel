@@ -88,7 +88,7 @@ wird ein Ostwind kommen,
 der Hauch des HERRN, der aus der Wüste heraufsteigt.
 Und seine Quelle wird versiegen,
 und sein Brunnen wird vertrocknen.
-Er wird die Schatzkammer mit allen kostbaren Geräten plündern.
+Er wird die Schatzkammer plündern.
 [16] Samaria wird seine Schuld tragen,
 denn es hat sich gegen seinen Gott aufgelehnt.
 Sie werden durch das Schwert fallen.
