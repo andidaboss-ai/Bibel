@@ -114261,3 +114261,380 @@ die vor dem Herrn der ganzen Erde stehen.“
 > Die zwei Ölbäume sind „die zwei Gesalbten“. Wörtlich heißt es im Hebräischen „die zwei Söhne des Öls“. Gemeint sind wahrscheinlich die beiden Anführer des Volkes: Serubbabel, der Statthalter aus dem Königshaus, und Josua, der Hohepriester. Könige und Priester wurden mit Öl gesalbt, wenn sie ihr Amt antraten.
 > Durch sie lässt Gott sein „Öl“, also seinen Geist und Segen, zum Volk fließen. Der politische und der geistliche Leiter arbeiten zusammen.
 > In der Offenbarung des Johannes werden „zwei Zeugen“ mit diesen beiden Ölbäumen verglichen (Offenbarung 11,4).
+
+## Sacharja – Kapitel 5
+#### Die fliegende Schriftrolle und das Fass
+
+---
+
+### Die sechste Vision: die fliegende Schriftrolle (Vers 1–4)
+
+<sup>1</sup>Wieder hob ich meine Augen auf und sah,
+und siehe, eine fliegende Schriftrolle.
+<sup>2</sup>Er sagte zu mir:
+„Was siehst du?“
+Ich antwortete:
+„Ich sehe eine fliegende Schriftrolle.
+Sie ist zwanzig Ellen lang und zehn Ellen breit.“
+<sup>3</sup>Da sagte er zu mir:
+„Das ist der Fluch,
+der über die Fläche des ganzen Landes ausgeht.
+Denn jeder, der stiehlt,
+wird nach dem, was auf der einen Seite steht, ausgerottet werden,
+und jeder, der falsch schwört,
+wird nach dem, was auf der anderen Seite steht, ausgerottet werden.
+<sup>4</sup>Ich lasse ihn ausgehen“,
+spricht der HERR der Heere,
+„und er wird in das Haus des Diebes kommen
+und in das Haus dessen, der bei meinem Namen falsch schwört.
+Er wird mitten in seinem Haus bleiben
+und es vernichten, samt seinem Holz und seinen Steinen.“
+
+> **Was bedeutet das?**
+> Eine riesige Schriftrolle fliegt durch die Luft: zwanzig Ellen lang und zehn Ellen breit, also etwa 10 mal 5 Meter, so groß wie ein großes Plakat. Jeder kann sie sehen.
+> Auf der Rolle steht ein Fluch gegen zwei Arten von Unrecht: Diebstahl und Meineid (falsch schwören). Das erinnert an die Zehn Gebote: „Du sollst nicht stehlen“ und „Du sollst den Namen des HERRN nicht missbrauchen“.
+> Vers 4: Der Fluch dringt in die Häuser der Täter ein und zerstört sie von innen. Unrecht zerstört am Ende das Leben dessen, der es tut.
+> Die Botschaft: Im neuen Jerusalem, das Gott aufbaut, soll es kein Unrecht mehr geben. Gott räumt auf.
+
+---
+
+### Die siebte Vision: die Frau im Fass (Vers 5–11)
+
+<sup>5</sup>Da trat der Engel, der mit mir redete, hervor
+und sagte zu mir:
+„Hebe doch deine Augen auf
+und sieh, was da hervorkommt.“
+<sup>6</sup>Ich sagte:
+„Was ist das?“
+Er sagte:
+„Das ist ein Efa-Fass, das hervorkommt.“
+Und er sagte weiter:
+„So sieht ihre Schuld im ganzen Land aus.
+<sup>7</sup>Und siehe, ein Bleideckel, ein Talent schwer, wurde hochgehoben,
+und da saß eine Frau mitten in dem Efa-Fass.“
+<sup>8</sup>Er sagte:
+„Das ist die Bosheit.“
+Und er warf sie in das Efa-Fass zurück
+und warf das Bleigewicht auf seine Öffnung.
+<sup>9</sup>Dann hob ich meine Augen auf und sah,
+und siehe, da waren zwei Frauen,
+und Wind war in ihren Flügeln.
+Sie hatten Flügel wie die Flügel eines Storches,
+und sie hoben das Efa-Fass zwischen Erde und Himmel empor.
+<sup>10</sup>Da sagte ich zu dem Engel, der mit mir redete:
+„Wohin tragen diese das Efa-Fass?“
+<sup>11</sup>Er sagte zu mir:
+„Um ihr ein Haus zu bauen im Land Schinar.
+Wenn es fertig ist,
+wird sie dort an ihren eigenen Platz gestellt werden.“
+
+> **Was bedeutet das?**
+> Ein Efa war ein Hohlmaß für Getreide, etwa 20 bis 40 Liter. Hier ist es ein großer Korb oder ein Fass mit einem schweren Deckel aus Blei (ein Talent wog etwa 30 Kilogramm).
+> Vers 6: Im WEB heißt es „their appearance“ („ihr Aussehen“). Viele Übersetzungen folgen hier einer kleinen Änderung im Text und lesen „ihre Schuld“. Gemeint ist: Das Fass enthält die Schuld des ganzen Landes.
+> Vers 7–8: Im Fass sitzt eine Frau. Der Engel sagt: „Das ist die Bosheit.“ Im Hebräischen ist das Wort für „Bosheit“ weiblich, darum wird sie als Frau dargestellt. Das ist ein Bild, keine Aussage über Frauen. Bosheit gibt es bei Männern wie bei Frauen.
+> Vers 9: Auffällig: Zwei andere Frauen mit Flügeln wie Störche tragen das Fass weg. Sie stehen im Dienst Gottes. Frauen sind in dieser Vision also auch Gottes Helferinnen.
+> Vers 11: Das Fass wird nach „Schinar“ gebracht, das ist Babylonien (vgl. 1. Mose 11,2, der Turmbau zu Babel). Dort bekommt die Bosheit einen „Tempel“. Die Botschaft: Gott entfernt das Böse aus seinem Land und bringt es dorthin, wo es hingehört, weit weg.
+
+## Sacharja – Kapitel 6
+#### Die vier Wagen und die Krone
+
+---
+
+### Die achte Vision: vier Wagen (Vers 1–8)
+
+<sup>1</sup>Wieder hob ich meine Augen auf und sah,
+und siehe, vier Wagen kamen hervor
+zwischen zwei Bergen,
+und die Berge waren Berge aus Bronze.
+<sup>2</sup>Am ersten Wagen waren rote Pferde,
+am zweiten Wagen schwarze Pferde,
+<sup>3</sup>am dritten Wagen weiße Pferde
+und am vierten Wagen gescheckte Pferde,
+alle stark.
+<sup>4</sup>Da fragte ich den Engel, der mit mir redete:
+„Was sind diese, mein Herr?“
+<sup>5</sup>Der Engel antwortete mir:
+„Das sind die vier Winde des Himmels,
+die ausziehen, nachdem sie vor dem Herrn der ganzen Erde gestanden haben.
+<sup>6</sup>Der mit den schwarzen Pferden zieht aus ins Land des Nordens,
+und die weißen zogen hinter ihnen her,
+und die gescheckten zogen aus ins Land des Südens.“
+<sup>7</sup>Die Starken zogen aus
+und wollten hingehen, um die Erde zu durchstreifen.
+Er sagte: „Geht, durchstreift die Erde!“
+Da durchstreiften sie die Erde.
+<sup>8</sup>Dann rief er mich und redete zu mir:
+„Siehe, die ins Land des Nordens ziehen,
+haben meinem Geist im Land des Nordens Ruhe verschafft.“
+
+> **Was bedeutet das?**
+> Die letzte der acht Visionen erinnert an die erste (1,8–11): Wieder geht es um Pferde in verschiedenen Farben. Diesmal ziehen sie Wagen.
+> Die zwei Berge aus Bronze sind vielleicht das Tor zu Gottes himmlischer Wohnung.
+> Vers 5: Die Wagen sind „die vier Winde des Himmels“, also Gottes Boten, die in alle Himmelsrichtungen ausziehen. Gott regiert über die ganze Welt.
+> Vers 8: Im „Land des Nordens“, also in Babylon, wo Gottes Volk so lange gefangen war, hat Gott jetzt „seinem Geist Ruhe verschafft“. Das heißt: Sein Zorn über Babylon ist gestillt, das Gericht ist vollzogen.
+> Hier enden die acht Nachtgesichte. Sie haben gezeigt: Gott ist am Werk. Er bestraft die Feinde, reinigt sein Volk und baut Jerusalem wieder auf.
+
+---
+
+### Josua wird gekrönt (Vers 9–15)
+
+<sup>9</sup>Das Wort des HERRN erging an mich:
+<sup>10</sup>„Nimm von den Verbannten,
+von Heldai, von Tobija und von Jedaja,
+und geh noch am selben Tag
+in das Haus Josias, des Sohnes Zefanjas,
+wohin sie aus Babel gekommen sind.
+<sup>11</sup>Ja, nimm Silber und Gold,
+mach Kronen
+und setze sie auf das Haupt Josuas, des Sohnes Jozadaks, des Hohenpriesters.
+<sup>12</sup>Und sprich zu ihm:
+‚So spricht der HERR der Heere:
+Siehe, ein Mann, dessen Name Spross ist!
+Er wird aus seinem Ort hervorsprossen,
+und er wird den Tempel des HERRN bauen.
+<sup>13</sup>Er wird den Tempel des HERRN bauen.
+Er wird Hoheit tragen
+und wird auf seinem Thron sitzen und herrschen.
+Er wird Priester auf seinem Thron sein,
+und Rat des Friedens wird zwischen den beiden sein.
+<sup>14</sup>Die Kronen sollen für Helem, für Tobija, für Jedaja
+und für Hen, den Sohn Zefanjas,
+zur Erinnerung im Tempel des HERRN sein.
+<sup>15</sup>Die fern sind, werden kommen
+und am Tempel des HERRN bauen.
+Und ihr werdet erkennen, dass der HERR der Heere mich zu euch gesandt hat.
+Das wird geschehen,
+wenn ihr wirklich auf die Stimme des HERRN, eures Gottes, hört.‘“
+
+> **Was bedeutet das?**
+> Nach den Visionen eine symbolische Handlung in der echten Welt:
+> Vers 10–11: Drei Männer waren gerade aus Babylon gekommen und hatten Silber und Gold mitgebracht, wahrscheinlich als Spende für den Tempel. Sacharja soll daraus Kronen machen und sie dem Hohenpriester Josua aufsetzen.
+> Vers 12: „Ein Mann, dessen Name Spross ist“: Der „Spross“ ist der kommende König aus dem Haus Davids (vgl. 3,8). Er wird den Tempel bauen. Damals dachte man vielleicht an Serubbabel, der tatsächlich den Tempel baute.
+> Vers 13: Etwas Besonderes: Der Spross wird König und Priester zugleich sein. Und zwischen beiden Ämtern wird Frieden herrschen. In Israel waren König und Priester eigentlich getrennt. Im Neuen Testament wird Jesus als König und Hoherpriester zugleich beschrieben (Hebräer 7).
+> Warum wird Josua gekrönt und nicht Serubbabel? Das ist unter Auslegern umstritten. Vielleicht war es zu gefährlich, einen Davididen öffentlich zu krönen, weil die Perser das als Aufstand hätten verstehen können.
+> Vers 14: Die Kronen sollen im Tempel bleiben, als Erinnerung an diese Verheißung. Helem und Hen sind wahrscheinlich andere Namen für Heldai und Josia aus Vers 10.
+> Vers 15: Auch Menschen aus der Ferne werden kommen und helfen. Aber eine Bedingung gilt: „wenn ihr auf die Stimme des HERRN hört“.
+
+## Sacharja – Kapitel 7
+#### Fasten, das Gott gefällt
+
+---
+
+### Eine Frage zum Fasten (Vers 1–7)
+
+<sup>1</sup>Im vierten Jahr des Königs Darius
+erging das Wort des HERRN an Sacharja
+am vierten Tag des neunten Monats, des Monats Kislew.
+<sup>2</sup>Die Leute von Bethel hatten Sarezer und Regem-Melech und ihre Männer gesandt,
+um den HERRN gnädig zu stimmen
+<sup>3</sup>und um zu den Priestern am Haus des HERRN der Heere
+und zu den Propheten zu sagen:
+„Soll ich im fünften Monat weinen und mich enthalten,
+wie ich es schon so viele Jahre getan habe?“
+<sup>4</sup>Da erging das Wort des HERRN der Heere an mich:
+<sup>5</sup>„Sprich zum ganzen Volk des Landes und zu den Priestern:
+‚Als ihr im fünften und im siebten Monat gefastet und geklagt habt,
+diese siebzig Jahre lang,
+habt ihr da wirklich für mich gefastet, für mich?
+<sup>6</sup>Und wenn ihr esst und wenn ihr trinkt,
+esst ihr dann nicht für euch selbst
+und trinkt ihr nicht für euch selbst?
+<sup>7</sup>Sind das nicht die Worte,
+die der HERR durch die früheren Propheten verkündet hat,
+als Jerusalem bewohnt war und in Ruhe lebte,
+samt seinen Städten ringsum,
+und als der Süden und das Hügelland bewohnt waren?‘“
+
+> **Was bedeutet das?**
+> Vers 1: Etwa zwei Jahre nach den Nachtgesichten, im Dezember 518 vor Christus.
+> Vers 2–3: Eine Gesandtschaft aus Bethel stellt eine praktische Frage: Seit der Zerstörung des Tempels (im fünften Monat) fasten wir jedes Jahr und trauern. Jetzt wird der Tempel wieder aufgebaut. Sollen wir weiter fasten?
+> Vers 5: Gottes Antwort ist eine Gegenfrage: Habt ihr überhaupt für mich gefastet? Oder war es nur eine Gewohnheit, ein Ritual für euch selbst?
+> Im siebten Monat erinnerte man sich wahrscheinlich an die Ermordung des Statthalters Gedalja (2. Könige 25,25; Jeremia 41).
+> Vers 6: Beim Essen wie beim Fasten habt ihr nur an euch gedacht.
+> Vers 7: Die früheren Propheten haben schon gesagt, worauf es ankommt. Das kommt jetzt.
+
+---
+
+### Was Gott wirklich will (Vers 8–14)
+
+<sup>8</sup>Das Wort des HERRN erging an Sacharja:
+<sup>9</sup>„So hat der HERR der Heere gesprochen:
+‚Sprecht wahres Recht
+und erweist einander Güte und Erbarmen,
+jeder seinem Bruder.
+<sup>10</sup>Unterdrückt nicht die Witwe und die Waise,
+den Fremden und den Armen.
+Und keiner von euch soll in seinem Herzen Böses gegen seinen Bruder planen.‘
+<sup>11</sup>Aber sie weigerten sich, darauf zu achten,
+kehrten ihm trotzig den Rücken zu
+und verstopften ihre Ohren, um nicht zu hören.
+<sup>12</sup>Ja, sie machten ihre Herzen hart wie Diamant,
+um das Gesetz nicht zu hören
+und die Worte, die der HERR der Heere durch seinen Geist
+durch die früheren Propheten gesandt hatte.
+Darum kam großer Zorn vom HERRN der Heere.
+<sup>13</sup>Und es ist geschehen:
+Wie er rief und sie nicht hören wollten,
+so werden sie rufen, und ich werde nicht hören“,
+spricht der HERR der Heere,
+<sup>14</sup>„sondern ich werde sie wie mit einem Sturm
+unter alle Völker zerstreuen, die sie nicht kannten.
+So wurde das Land hinter ihnen verwüstet,
+sodass niemand mehr hindurchzog oder zurückkehrte.
+Denn sie haben das liebliche Land zur Wüste gemacht.“
+
+> **Was bedeutet das?**
+> Vers 9–10: Das ist es, was Gott wirklich will, wichtiger als Fasten:
+> Gerechte Urteile sprechen.
+> Güte und Erbarmen zeigen.
+> Die Schwächsten nicht unterdrücken: Witwen, Waisen, Fremde und Arme.
+> Nicht einmal im Herzen Böses gegen andere planen.
+> Das erinnert an Jesaja 58: „Ist nicht das ein Fasten, wie ich es liebe: dass du das Unrecht beendest … dem Hungrigen dein Brot brichst?“ und an Micha 6,8.
+> Vers 11–12: Die Vorfahren wollten das nicht hören. Sie machten ihre Herzen hart „wie Diamant“ (oder „Feuerstein“).
+> Vers 13–14: Darum kam das Exil. Wer nicht auf Gott hört, wenn er ruft, wird erleben, dass Gott schweigt, wenn er selbst ruft.
+> Für heute: Wie gehen wir mit Fremden, Armen und Alleinstehenden um? Für Gott ist das wichtiger als jede religiöse Übung.
+
+## Sacharja – Kapitel 8
+#### Kinder spielen auf den Straßen Jerusalems
+
+---
+
+### Gott kehrt nach Zion zurück (Vers 1–8)
+
+<sup>1</sup>Das Wort des HERRN der Heere erging an mich:
+<sup>2</sup>So spricht der HERR der Heere:
+„Ich eifere für Zion mit großem Eifer,
+und mit großem Grimm eifere ich für sie.“
+<sup>3</sup>So spricht der HERR:
+„Ich bin nach Zion zurückgekehrt
+und werde mitten in Jerusalem wohnen.
+Jerusalem wird ‚Stadt der Treue‘ heißen
+und der Berg des HERRN der Heere ‚Heiliger Berg‘.“
+<sup>4</sup>So spricht der HERR der Heere:
+„Es werden wieder alte Männer und alte Frauen
+auf den Plätzen Jerusalems sitzen,
+jeder mit seinem Stab in der Hand
+wegen seines hohen Alters.
+<sup>5</sup>Und die Plätze der Stadt werden voll sein von Jungen und Mädchen,
+die auf ihren Plätzen spielen.“
+<sup>6</sup>So spricht der HERR der Heere:
+„Wenn das in den Augen des Restes dieses Volkes in jenen Tagen zu wunderbar ist,
+sollte es dann auch in meinen Augen zu wunderbar sein?“,
+spricht der HERR der Heere.
+<sup>7</sup>So spricht der HERR der Heere:
+„Siehe, ich werde mein Volk retten
+aus dem Land des Sonnenaufgangs
+und aus dem Land des Sonnenuntergangs.
+<sup>8</sup>Ich werde sie heimbringen,
+und sie werden mitten in Jerusalem wohnen.
+Sie werden mein Volk sein,
+und ich werde ihr Gott sein,
+in Treue und in Gerechtigkeit.“
+
+> **Was bedeutet das?**
+> Kapitel 8 ist voller Verheißungen. Zehnmal heißt es „So spricht der HERR“.
+> Vers 3: Jerusalem bekommt einen neuen Namen: „Stadt der Treue“ (WEB: „City of Truth“, „Stadt der Wahrheit“). Das hebräische Wort bedeutet beides.
+> Vers 4–5: Eines der schönsten Bilder der Bibel: Alte Menschen sitzen in Ruhe auf den Plätzen, Kinder spielen auf den Straßen. Das ist ein Bild für Frieden und Sicherheit. Im Krieg sterben zuerst die Schwachen, die Alten und die Kinder. Wenn sie in Ruhe leben können, herrscht wirklich Frieden.
+> Vers 6: Für die kleine, arme Gemeinde in den Ruinen klingt das unglaublich. Aber Gott sagt: Für mich ist nichts unmöglich.
+> Vers 7–8: Gott wird sein Volk aus Osten und Westen, aus der ganzen Welt, heimholen. „Sie werden mein Volk sein, und ich werde ihr Gott sein“, das ist die Bundesformel (vgl. Jeremia 31,33).
+
+---
+
+### Seid stark! (Vers 9–17)
+
+<sup>9</sup>So spricht der HERR der Heere:
+„Eure Hände sollen stark sein,
+ihr, die ihr in diesen Tagen diese Worte hört
+aus dem Mund der Propheten,
+die da waren an dem Tag, als das Fundament des Hauses des HERRN der Heere gelegt wurde,
+des Tempels, damit er gebaut würde.
+<sup>10</sup>Denn vor diesen Tagen gab es keinen Lohn für die Menschen
+und keinen Lohn für das Vieh.
+Und wer aus- und einging,
+hatte keinen Frieden vor dem Feind.
+Denn ich ließ alle Menschen gegeneinander los,
+jeden gegen seinen Nächsten.
+<sup>11</sup>Aber jetzt will ich für den Rest dieses Volkes nicht sein wie in den früheren Tagen“,
+spricht der HERR der Heere.
+<sup>12</sup>„Denn die Saat des Friedens wird da sein:
+Der Weinstock wird seine Frucht geben,
+der Boden wird seinen Ertrag geben,
+und der Himmel wird seinen Tau geben.
+Ich werde den Rest dieses Volkes all das erben lassen.
+<sup>13</sup>Und es wird geschehen:
+Wie ihr ein Fluch unter den Völkern gewesen seid,
+Haus Juda und Haus Israel,
+so werde ich euch retten,
+und ihr werdet ein Segen sein.
+Fürchtet euch nicht!
+Eure Hände sollen stark sein!“
+<sup>14</sup>Denn so spricht der HERR der Heere:
+„Wie ich beschlossen hatte, euch Böses zu tun,
+als eure Väter mich zum Zorn reizten“,
+spricht der HERR der Heere,
+„und es mich nicht reute,
+<sup>15</sup>so habe ich wieder beschlossen in diesen Tagen,
+Jerusalem und dem Haus Juda Gutes zu tun.
+Fürchtet euch nicht!
+<sup>16</sup>Das sind die Dinge, die ihr tun sollt:
+Redet die Wahrheit, jeder mit seinem Nächsten.
+Sprecht in euren Toren Recht, das wahr ist und Frieden schafft.
+<sup>17</sup>Keiner von euch soll in seinem Herzen Böses gegen seinen Nächsten planen,
+und liebt keinen falschen Eid.
+Denn das alles hasse ich“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 9–12: Wie bei Haggai: Seit der Tempelbau wieder begonnen hat, wendet sich alles zum Guten. Vorher gab es keinen Lohn, keinen Frieden, nur Streit. Jetzt wächst „die Saat des Friedens“.
+> Vers 13: Eine große Wende: Bisher war Israel unter den Völkern ein Beispiel für Fluch und Unglück. Jetzt soll es ein Segen werden. Das erinnert an die Verheißung an Abraham: „Du sollst ein Segen sein“ (1. Mose 12,2).
+> „Fürchtet euch nicht! Eure Hände sollen stark sein!“, das ist die Ermutigung.
+> Vers 16–17: Und wieder die Gebote für das tägliche Leben: Wahrheit reden, gerechte Urteile, nichts Böses gegen den Nächsten planen, keine falschen Eide. Der Epheserbrief zitiert Vers 16: „Redet die Wahrheit, jeder mit seinem Nächsten“ (Epheser 4,25).
+
+---
+
+### Aus Fastentagen werden Freudenfeste (Vers 18–19)
+
+<sup>18</sup>Das Wort des HERRN der Heere erging an mich:
+<sup>19</sup>So spricht der HERR der Heere:
+„Das Fasten des vierten, des fünften, des siebten und des zehnten Monats
+soll für das Haus Juda zu Freude und Fröhlichkeit
+und zu fröhlichen Festen werden.
+Darum liebt die Wahrheit und den Frieden!“
+
+> **Was bedeutet das?**
+> Jetzt kommt endlich die Antwort auf die Frage der Leute aus Bethel (7,3): Die Fastentage werden zu Freudenfesten!
+> Die vier Fastentage erinnerten an die Katastrophe von Jerusalem:
+> Im vierten Monat: Die Mauer wurde durchbrochen (Jeremia 39,2).
+> Im fünften Monat: Der Tempel wurde verbrannt (2. Könige 25,8–9).
+> Im siebten Monat: Gedalja wurde ermordet (2. Könige 25,25).
+> Im zehnten Monat: Die Belagerung begann (2. Könige 25,1).
+> Im Judentum werden einige dieser Fastentage bis heute begangen, besonders Tischa be-Av (der 9. Av) zur Erinnerung an die Zerstörung des Tempels.
+> „Darum liebt die Wahrheit und den Frieden!“, das ist die Bedingung.
+
+---
+
+### Die Völker kommen nach Jerusalem (Vers 20–23)
+
+<sup>20</sup>So spricht der HERR der Heere:
+„Es werden noch Völker kommen
+und die Bewohner vieler Städte.
+<sup>21</sup>Die Bewohner der einen Stadt werden zur anderen gehen und sagen:
+‚Lasst uns eilends gehen,
+um den HERRN gnädig zu stimmen
+und den HERRN der Heere zu suchen!
+Auch ich will gehen.‘
+<sup>22</sup>Ja, viele Völker und mächtige Nationen werden kommen,
+um den HERRN der Heere in Jerusalem zu suchen
+und den HERRN gnädig zu stimmen.“
+<sup>23</sup>So spricht der HERR der Heere:
+„In jenen Tagen werden zehn Männer
+aus allen Sprachen der Völker
+den Gewandzipfel eines jüdischen Mannes ergreifen und sagen:
+‚Wir wollen mit euch gehen,
+denn wir haben gehört, dass Gott mit euch ist.‘“
+
+> **Was bedeutet das?**
+> Am Ende des ersten Teils des Buches ein großer Ausblick: Menschen aus vielen Völkern werden kommen, um Gott zu suchen. Sie laden sich gegenseitig ein: „Kommt, lasst uns gehen! Ich gehe auch!“
+> Vers 23: Ein starkes Bild: Zehn Menschen aus verschiedenen Völkern halten einen jüdischen Mann am Zipfel seines Gewandes fest und sagen: „Wir wollen mit euch gehen, denn Gott ist mit euch.“
+> Das jüdische Volk soll für die Welt zum Wegweiser zu Gott werden. Für Christen hat sich das darin erfüllt, dass durch den Juden Jesus und seine jüdischen Apostel viele Menschen aus allen Völkern zum Gott Israels gefunden haben.
+> Dieser Vers ist auch eine Mahnung gegen jede Form von Judenfeindlichkeit: Die Völker sollen mit Achtung und Liebe auf das jüdische Volk schauen.
