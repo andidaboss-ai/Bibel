@@ -109834,3 +109834,340 @@ und Feuer hat die Weiden der Wüste verzehrt.
 > Vers 19: Joel selbst betet: „HERR, zu dir rufe ich!“ Er wartet nicht, bis die anderen beten. Er fängt selbst an.
 > Für heute: Dürren, Waldbrände und Ernteausfälle gibt es auch heute, oft verschärft durch den Klimawandel. Joel zeigt: In solchen Krisen sollen wir klagen, beten und gemeinsam handeln. Und er zeigt, dass Gott auch das Leiden der Tiere sieht.
 > Wichtig: Naturkatastrophen sind nicht einfach eine Strafe Gottes für die Menschen, die darunter leiden (vgl. Lukas 13,1–5). Joel benutzt die Katastrophe als Anlass, über das eigene Leben nachzudenken.
+
+## Joel – Kapitel 2
+#### Zerreißt eure Herzen
+
+---
+
+### Der Tag des HERRN kommt (Vers 1–11)
+
+<sup>1</sup>Blast das Horn auf dem Zion
+und schlagt Alarm auf meinem heiligen Berg!
+Alle Bewohner des Landes sollen zittern,
+denn der Tag des HERRN kommt,
+denn er ist nahe:
+<sup>2</sup>ein Tag der Finsternis und des Dunkels,
+ein Tag der Wolken und der dichten Finsternis.
+Wie die Morgenröte, die sich über die Berge ausbreitet,
+kommt ein großes und starkes Volk.
+So etwas hat es noch nie gegeben,
+und es wird auch danach nicht mehr geben,
+bis in die Jahre vieler Generationen.
+<sup>3</sup>Vor ihm her frisst ein Feuer,
+und hinter ihm brennt eine Flamme.
+Vor ihm ist das Land wie der Garten Eden,
+und hinter ihm eine öde Wüste.
+Ja, und niemand ist ihm entkommen.
+<sup>4</sup>Sie sehen aus wie Pferde,
+und sie rennen wie Reiter.
+<sup>5</sup>Wie das Rasseln von Streitwagen auf den Gipfeln der Berge
+springen sie umher,
+wie das Prasseln einer Feuerflamme, die Stoppeln verzehrt,
+wie ein starkes Volk, zum Kampf aufgestellt.
+<sup>6</sup>Vor ihnen zittern die Völker.
+Alle Gesichter werden bleich.
+<sup>7</sup>Sie rennen wie Helden.
+Sie ersteigen die Mauer wie Krieger.
+Jeder marschiert in seiner Reihe,
+und sie weichen nicht von ihrer Bahn ab.
+<sup>8</sup>Keiner drängt den anderen.
+Jeder marschiert auf seinem eigenen Weg.
+Sie brechen durch die Abwehr
+und lösen ihre Reihen nicht auf.
+<sup>9</sup>Sie stürmen auf die Stadt.
+Sie rennen auf der Mauer.
+Sie steigen in die Häuser hinauf.
+Sie dringen durch die Fenster ein wie Diebe.
+<sup>10</sup>Vor ihnen bebt die Erde.
+Die Himmel zittern.
+Sonne und Mond verfinstern sich,
+und die Sterne verlieren ihren Schein.
+<sup>11</sup>Der HERR lässt vor seinem Heer seine Stimme donnern,
+denn sein Heerlager ist sehr groß.
+Denn stark ist der, der seinen Befehl ausführt.
+Denn groß ist der Tag des HERRN und sehr furchtbar,
+und wer kann ihn ertragen?
+
+> **Was bedeutet das?**
+> Joel beschreibt die Heuschrecken wie ein riesiges, perfekt organisiertes Heer. Wer einmal einen Heuschreckenschwarm erlebt hat, kennt das: Die Tiere verdunkeln den Himmel, sie fressen alles, sie dringen sogar durch die Fenster in die Häuser.
+> Vers 3: Vorher ist das Land wie das Paradies, nachher eine Wüste.
+> Vers 4: Ein Heuschreckenkopf sieht tatsächlich ein wenig aus wie ein Pferdekopf. Im Italienischen heißt die Heuschrecke sogar „cavalletta“, „kleines Pferd“.
+> Vers 11: Und das Erschreckende: Dieses Heer ist Gottes Heer. Der „Tag des HERRN“ ist ein Tag des Gerichts. „Wer kann ihn ertragen?“
+
+---
+
+### Kehrt um von ganzem Herzen (Vers 12–14)
+
+<sup>12</sup>„Doch auch jetzt noch“, spricht der HERR,
+„kehrt um zu mir von ganzem Herzen,
+mit Fasten, mit Weinen und mit Klagen.“
+<sup>13</sup>Zerreißt eure Herzen und nicht eure Kleider,
+und kehrt um zum HERRN, eurem Gott.
+Denn er ist gnädig und barmherzig,
+langsam zum Zorn und reich an Güte,
+und es reut ihn das Unheil.
+<sup>14</sup>Wer weiß?
+Vielleicht wendet er sich und es reut ihn,
+und er lässt einen Segen hinter sich zurück,
+ein Speisopfer und ein Trankopfer
+für den HERRN, euren Gott.
+
+> **Was bedeutet das?**
+> Vers 12: „Doch auch jetzt noch!“ Mitten in der Katastrophe ist es nicht zu spät. Gott lädt ein zur Umkehr.
+> Vers 13: Ein berühmter Satz: „Zerreißt eure Herzen und nicht eure Kleider!“ Damals zerriss man seine Kleider als Zeichen der Trauer. Aber Gott will keine äußeren Zeichen, sondern echte Veränderung im Herzen.
+> „Gnädig und barmherzig, langsam zum Zorn und reich an Güte“ – so hat Gott sich selbst Mose vorgestellt (2. Mose 34,6). Es ist eines der wichtigsten Bekenntnisse über Gott im Alten Testament.
+> Vers 14: „Wer weiß?“ Joel verspricht nichts. Gott ist frei. Aber man darf hoffen.
+> Dieser Abschnitt wird in vielen Kirchen am Aschermittwoch gelesen, zu Beginn der Fastenzeit.
+
+---
+
+### Versammelt alle! (Vers 15–17)
+
+<sup>15</sup>Blast das Horn auf dem Zion!
+Ruft ein heiliges Fasten aus!
+Beruft eine Festversammlung ein!
+<sup>16</sup>Versammelt das Volk!
+Heiligt die Gemeinde!
+Ruft die Ältesten zusammen!
+Versammelt die Kinder
+und die Säuglinge an der Brust!
+Der Bräutigam soll aus seiner Kammer gehen
+und die Braut aus ihrem Gemach.
+<sup>17</sup>Die Priester, die Diener des HERRN,
+sollen weinen zwischen der Vorhalle und dem Altar
+und sagen:
+„Verschone dein Volk, HERR,
+und gib dein Erbe nicht der Schmach preis,
+dass die Völker über sie herrschen.
+Warum soll man unter den Völkern sagen:
+‚Wo ist ihr Gott?‘“
+
+> **Was bedeutet das?**
+> Alle sollen kommen: Alte und Kinder, sogar die Babys, sogar das Brautpaar, das gerade heiratet. Niemand ist ausgenommen. In der Not steht die ganze Gemeinschaft zusammen vor Gott.
+> Vers 17: Die Priester beten: „Verschone dein Volk!“ Und sie haben ein starkes Argument: Was sollen die anderen Völker denken? „Wo ist denn ihr Gott?“ Es geht um Gottes Ehre.
+
+---
+
+### Gott antwortet (Vers 18–20)
+
+<sup>18</sup>Da eiferte der HERR für sein Land
+und hatte Mitleid mit seinem Volk.
+<sup>19</sup>Der HERR antwortete seinem Volk:
+„Siehe, ich sende euch Korn, Most und Öl,
+und ihr werdet davon satt werden.
+Und ich werde euch nicht mehr zur Schmach unter den Völkern machen.
+<sup>20</sup>Und ich werde das Heer aus dem Norden weit von euch entfernen
+und es in ein dürres und wüstes Land treiben,
+seine Vorhut ins östliche Meer
+und seine Nachhut ins westliche Meer.
+Und sein Gestank wird aufsteigen,
+und sein Verwesungsgeruch wird hochsteigen.“
+Ja, er hat Großes getan.
+
+> **Was bedeutet das?**
+> Hier ist der Wendepunkt des Buches: Gott hat Mitleid. Er antwortet auf das Gebet des Volkes.
+> Vers 20: Das „Heer aus dem Norden“ sind wahrscheinlich die Heuschrecken (oder ein Feind, für den sie stehen). Gott treibt sie ins Meer. Heuschreckenschwärme werden tatsächlich manchmal vom Wind ins Meer getrieben und sterben dort. Die toten Tiere stinken dann furchtbar an der Küste.
+> Das „östliche Meer“ ist das Tote Meer, das „westliche Meer“ das Mittelmeer.
+
+---
+
+### Freut euch! (Vers 21–27)
+
+<sup>21</sup>Land, fürchte dich nicht!
+Sei fröhlich und freue dich,
+denn der HERR hat Großes getan.
+<sup>22</sup>Fürchtet euch nicht, ihr Tiere des Feldes,
+denn die Weiden der Wüste grünen,
+denn der Baum trägt seine Frucht.
+Feigenbaum und Weinstock geben ihre Kraft.
+<sup>23</sup>„Seid fröhlich, ihr Kinder Zions,
+und freut euch über den HERRN, euren Gott!
+Denn er gibt euch den Frühregen in rechtem Maß,
+und er lässt euch Regen herabkommen,
+den Frühregen und den Spätregen wie früher.
+<sup>24</sup>Die Tennen werden voll Weizen sein,
+und die Kelterbecken werden überfließen von Most und Öl.
+<sup>25</sup>Ich werde euch die Jahre erstatten,
+die der Nager gefressen hat,
+die Heuschrecke, der Hüpfer und der Vertilger,
+mein großes Heer, das ich unter euch gesandt habe.
+<sup>26</sup>Ihr werdet reichlich zu essen haben und satt werden
+und den Namen des HERRN, eures Gottes, loben,
+der wunderbar an euch gehandelt hat.
+Und mein Volk wird nie mehr zuschanden werden.
+<sup>27</sup>Ihr werdet erkennen, dass ich mitten in Israel bin
+und dass ich, der HERR, euer Gott bin und keiner sonst.
+Und mein Volk wird nie mehr zuschanden werden.
+
+> **Was bedeutet das?**
+> Jetzt kommt die große Freude. Das Land, die Tiere und die Menschen sollen sich nicht mehr fürchten. Gott schickt Regen zur richtigen Zeit: den Frühregen im Herbst (für die Aussaat) und den Spätregen im Frühling (für die Reife).
+> Vers 25: Ein wunderbares Versprechen: „Ich werde euch die Jahre erstatten, die die Heuschrecken gefressen haben.“ Gott kann verlorene Zeit wiedergutmachen. Viele Menschen haben in diesem Vers Trost gefunden, wenn sie das Gefühl hatten, Jahre ihres Lebens durch Krankheit, Krieg, Sucht oder Schuld verloren zu haben.
+> Vers 27: „Ich bin mitten in Israel.“ Das ist die größte Gabe: nicht nur Korn und Wein, sondern Gottes Nähe.
+
+---
+
+### Ich will meinen Geist ausgießen (Vers 28–32)
+
+<sup>28</sup>„Und danach wird es geschehen,
+dass ich meinen Geist ausgießen werde über alles Fleisch.
+Und eure Söhne und eure Töchter werden weissagen.
+Eure Alten werden Träume haben.
+Eure jungen Männer werden Visionen sehen.
+<sup>29</sup>Und auch über die Knechte und über die Mägde
+werde ich in jenen Tagen meinen Geist ausgießen.
+<sup>30</sup>Ich werde Wunderzeichen geben am Himmel und auf der Erde:
+Blut, Feuer und Rauchsäulen.
+<sup>31</sup>Die Sonne wird sich in Finsternis verwandeln
+und der Mond in Blut,
+bevor der große und furchtbare Tag des HERRN kommt.
+<sup>32</sup>Und es wird geschehen:
+Jeder, der den Namen des HERRN anruft, wird gerettet werden.
+Denn auf dem Berg Zion und in Jerusalem
+wird es Gerettete geben,
+wie der HERR gesagt hat,
+und unter den Übriggebliebenen solche, die der HERR ruft.“
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln stehen diese Verse als eigenes Kapitel 3 (Joel 3,1–5).
+> Das ist eine der größten Verheißungen der Bibel. Früher kam Gottes Geist nur auf einzelne Menschen: Propheten, Könige, Richter. Jetzt sagt Gott: Ich gieße meinen Geist aus „über alles Fleisch“, über alle Menschen!
+> Und zwar über alle, ohne Unterschied:
+> – Söhne und Töchter (Männer und Frauen),
+> – Alte und Junge,
+> – sogar Knechte und Mägde (Sklaven und Sklavinnen, die ganz unten in der Gesellschaft standen).
+> Gottes Geist kennt keine Unterschiede nach Geschlecht, Alter oder sozialer Stellung. Schon Mose hatte sich das gewünscht: „Wenn doch das ganze Volk des HERRN Propheten wären!“ (4. Mose 11,29).
+> Am Pfingsttag, als der Heilige Geist auf die Jünger Jesu kam, zitiert Petrus genau diese Verse: „Das ist es, was durch den Propheten Joel gesagt worden ist“ (Apostelgeschichte 2,16–21).
+> Vers 32: „Jeder, der den Namen des HERRN anruft, wird gerettet werden.“ Auch Paulus zitiert diesen Satz (Römer 10,13). Rettung ist für jeden offen, der sich an Gott wendet.
+
+## Joel – Kapitel 3
+#### Das Tal der Entscheidung
+
+---
+
+### Gericht über die Völker (Vers 1–8)
+
+<sup>1</sup>„Denn siehe, in jenen Tagen und zu jener Zeit,
+wenn ich das Geschick Judas und Jerusalems wende,
+<sup>2</sup>werde ich alle Völker versammeln
+und sie in das Tal Joschafat hinabführen.
+Und dort werde ich mit ihnen ins Gericht gehen
+wegen meines Volkes und meines Erbes Israel,
+das sie unter die Völker zerstreut haben.
+Und mein Land haben sie aufgeteilt,
+<sup>3</sup>und über mein Volk haben sie das Los geworfen.
+Sie haben einen Jungen für eine Hure hergegeben
+und ein Mädchen für Wein verkauft,
+um zu trinken.
+<sup>4</sup>Ja, und was wollt ihr von mir,
+Tyrus und Sidon und alle Gebiete Philistäas?
+Wollt ihr mir etwas vergelten?
+Und wenn ihr mir etwas vergeltet,
+werde ich eure Vergeltung schnell und eilends auf euren eigenen Kopf zurückbringen.
+<sup>5</sup>Denn ihr habt mein Silber und mein Gold genommen
+und meine besten Kostbarkeiten in eure Tempel gebracht
+<sup>6</sup>und die Kinder Judas und die Kinder Jerusalems
+an die Söhne der Griechen verkauft,
+um sie weit weg von ihrer Grenze zu bringen.
+<sup>7</sup>Siehe, ich werde sie aufwecken von dem Ort,
+wohin ihr sie verkauft habt,
+und eure Vergeltung auf euren eigenen Kopf zurückbringen.
+<sup>8</sup>Und ich werde eure Söhne und eure Töchter
+in die Hand der Kinder Judas verkaufen,
+und sie werden sie an die Sabäer verkaufen,
+an ein fernes Volk,
+denn der HERR hat es gesagt.“
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln ist dies Kapitel 4.
+> Vers 2: Das „Tal Joschafat“ bedeutet „Der HERR richtet“. Es ist eher ein symbolischer Ort als ein bestimmtes Tal: der Ort, wo Gott die Völker richtet. Eine alte Tradition verbindet es mit dem Kidrontal bei Jerusalem.
+> Vers 3: Ein schreckliches Verbrechen: Die Feinde haben Kinder aus Juda als Sklaven verkauft, ein Junge für eine Prostituierte, ein Mädchen für einen Krug Wein. Menschen, besonders Kinder, wurden wie billige Ware behandelt. Gott sieht dieses Unrecht und wird es richten.
+> Vers 6: Tyrus und Sidon (phönizische Handelsstädte) verkauften Menschen aus Juda als Sklaven nach Griechenland.
+> Vers 8: Die Strafe entspricht dem Verbrechen: Wer andere als Sklaven verkauft hat, wird selbst verkauft. Dieser Vers beschreibt eine Vergeltung nach dem Denken der damaligen Zeit. Er ist keine Erlaubnis, Menschen zu versklaven. Sklaverei und Menschenhandel sind schweres Unrecht, damals wie heute. Die Bibel selbst verbietet Menschenraub (2. Mose 21,16).
+
+---
+
+### Schmiedet Pflugscharen zu Schwertern! (Vers 9–17)
+
+<sup>9</sup>Ruft dies unter den Völkern aus:
+„Rüstet euch zum Krieg!
+Weckt die Helden auf!
+Alle Krieger sollen herantreten.
+Sie sollen heraufziehen.
+<sup>10</sup>Schmiedet eure Pflugscharen zu Schwertern
+und eure Winzermesser zu Speeren.
+Der Schwache soll sagen: ‚Ich bin stark.‘
+<sup>11</sup>Eilt und kommt, alle Völker ringsum,
+und versammelt euch!“
+Lass deine Helden dorthin hinabsteigen, HERR!
+<sup>12</sup>„Die Völker sollen sich aufmachen
+und in das Tal Joschafat heraufkommen,
+denn dort will ich sitzen,
+um alle Völker ringsum zu richten.
+<sup>13</sup>Legt die Sichel an,
+denn die Ernte ist reif.
+Kommt, tretet,
+denn die Kelter ist voll,
+die Becken laufen über,
+denn ihre Bosheit ist groß.“
+<sup>14</sup>Scharen, Scharen im Tal der Entscheidung!
+Denn nahe ist der Tag des HERRN im Tal der Entscheidung.
+<sup>15</sup>Sonne und Mond verfinstern sich,
+und die Sterne verlieren ihren Schein.
+<sup>16</sup>Der HERR wird vom Zion her brüllen
+und von Jerusalem her seine Stimme donnern lassen,
+und Himmel und Erde werden beben.
+Aber der HERR wird eine Zuflucht für sein Volk sein
+und eine Festung für die Kinder Israel.
+<sup>17</sup>„So werdet ihr erkennen, dass ich der HERR, euer Gott, bin,
+der auf dem Zion wohnt, meinem heiligen Berg.
+Dann wird Jerusalem heilig sein,
+und Fremde werden nicht mehr durch die Stadt ziehen.
+
+> **Was bedeutet das?**
+> Vers 10: Ein bemerkenswerter Satz: „Schmiedet eure Pflugscharen zu Schwertern!“ Das ist genau das Gegenteil von Jesaja 2,4 und Micha 4,3: „Sie werden ihre Schwerter zu Pflugscharen schmieden.“ Joel benutzt das Bild ironisch: Die Völker sollen nur kommen mit all ihren Waffen. Es wird ihnen nichts nützen gegen Gott. Die Hoffnung der Bibel bleibt der Frieden ohne Waffen.
+> Vers 13: Die Bilder von Ernte und Weinkelter stehen für das Gericht. Die Offenbarung nimmt sie auf (Offenbarung 14,14–20).
+> Vers 14: „Scharen, Scharen im Tal der Entscheidung!“ Hier entscheidet sich das Schicksal der Völker.
+> Vers 16: Mitten im Beben ist Gott eine Zuflucht für sein Volk.
+> Vers 17: „Fremde werden nicht mehr durch die Stadt ziehen“ meint feindliche Eroberer, die Jerusalem immer wieder geplündert hatten, nicht Fremde, die friedlich kommen. Viele Propheten sagen, dass einmal alle Völker friedlich nach Jerusalem kommen werden (Jesaja 2,2–3).
+
+---
+
+### Die Berge triefen von Wein (Vers 18–21)
+
+<sup>18</sup>An jenem Tag wird es geschehen,
+dass die Berge von süßem Wein triefen
+und die Hügel von Milch fließen
+und alle Bäche Judas voll Wasser sein werden.
+Und eine Quelle wird aus dem Haus des HERRN hervorgehen
+und das Tal Schittim bewässern.
+<sup>19</sup>Ägypten wird zur Wüste werden
+und Edom zur öden Wüste,
+wegen der Gewalttat an den Kindern Judas,
+weil sie in ihrem Land unschuldiges Blut vergossen haben.
+<sup>20</sup>Aber Juda wird für immer bewohnt sein
+und Jerusalem von Generation zu Generation.
+<sup>21</sup>Ich werde ihr Blut, das ich noch nicht gesühnt habe, sühnen,
+denn der HERR wohnt auf dem Zion.“
+
+> **Was bedeutet das?**
+> Das Buch endet mit einem Bild des Paradieses: Berge, die von Wein triefen, Hügel voll Milch, Bäche voll Wasser. Nach der Dürre und der Heuschreckenplage aus Kapitel 1 ist das die vollständige Wende.
+> Vers 18: Aus dem Tempel fließt eine Quelle, wie bei Hesekiel (Hesekiel 47). Das Tal Schittim (Akaziental) war eine trockene Gegend. Jetzt wird auch sie bewässert.
+> Vers 19: Ägypten und Edom stehen für die Feinde, die unschuldiges Blut vergossen haben.
+> Vers 21: Der letzte Satz des Buches: „Denn der HERR wohnt auf dem Zion.“ Wie bei Hesekiel (48,35) ist das Ziel von allem Gottes Gegenwart bei seinem Volk.
+> Das WEB übersetzt Vers 21 mit „cleanse“ (reinigen). Andere Übersetzungen verstehen ihn als „Ich werde ihr Blut nicht ungestraft lassen“. Der hebräische Text ist hier nicht eindeutig.
+
+---
+
+### Rückblick: Was haben wir im Buch Joel gelesen?
+
+> **Was bedeutet das?**
+> **Eine Katastrophe:** Eine furchtbare Heuschreckenplage und eine Dürre vernichten alles (Kapitel 1). Sogar die Tiere leiden.
+> **Gemeinsam klagen:** Joel ruft alle zusammen, Alte und Kinder, Priester und Bauern, um zu fasten und zu beten.
+> **Der Tag des HERRN:** Die Plage wird zum Zeichen für den großen Tag, an dem Gott eingreift.
+> **Umkehr von Herzen:** „Zerreißt eure Herzen und nicht eure Kleider“ (2,13). Gott ist „gnädig und barmherzig, langsam zum Zorn und reich an Güte“.
+> **Verlorene Jahre zurück:** „Ich werde euch die Jahre erstatten, die die Heuschrecken gefressen haben“ (2,25).
+> **Gottes Geist für alle:** „Ich will meinen Geist ausgießen über alles Fleisch“: über Söhne und Töchter, Alte und Junge, Knechte und Mägde (2,28–29). Diese Verheißung erfüllte sich nach christlichem Verständnis an Pfingsten.
+> **Rettung für jeden:** „Jeder, der den Namen des HERRN anruft, wird gerettet werden“ (2,32).
+> **Gericht und Heil:** Gott richtet die Völker, die Unrecht getan haben, besonders die Menschenhändler. Und am Ende wohnt er bei seinem Volk.
+> **Für heute:** Joel hilft, in Krisen (Naturkatastrophen, Hunger, Verlust) nicht zu verzweifeln, sondern gemeinsam zu klagen, zu beten und auf Gottes Erbarmen zu hoffen.
+> **Wie geht es weiter?** Als Nächstes kommt der Prophet Amos. Er war ein Viehzüchter und Maulbeerfeigenpflanzer, den Gott ins reiche Nordreich Israel schickte. Er kämpfte leidenschaftlich gegen soziale Ungerechtigkeit: „Es ströme aber das Recht wie Wasser und die Gerechtigkeit wie ein nie versiegender Bach!“ (Amos 5,24).

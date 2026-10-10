@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 877 von 1189 Kapiteln (73.8 %), 22312 von 31098 Versen.**
+**Gesamt: 879 von 1189 Kapiteln (73.9 %), 22365 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 26 | Hesekiel | AT | 48 / 48 | fertig |
 | 27 | Daniel | AT | 12 / 12 | fertig |
 | 28 | Hosea | AT | 14 / 14 | fertig |
-| 29 | Joel | AT | 1 / 3 | in Arbeit |
+| 29 | Joel | AT | 3 / 3 | fertig |
 | 30 | Amos | AT | 0 / 9 | – |
 | 31 | Obadja | AT | 0 / 1 | – |
 | 32 | Jona | AT | 0 / 4 | – |

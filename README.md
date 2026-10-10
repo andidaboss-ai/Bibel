@@ -4,6 +4,13 @@ Die ganze Bibel, Kapitel für Kapitel, in einfachem Deutsch.
 Zu jedem Abschnitt gibt es eine kurze Erklärung: **„Was bedeutet das?“**
 Grundlage ist die gemeinfreie **World English Bible** (ebible.org).
 
+## Quelle und Urheberrecht
+
+- **Vorlage:** World English Bible (WEB) von ebible.org. Die Herausgeber haben den Text als gemeinfrei (Public Domain) freigegeben; nur der Name „World English Bible“ ist als Marke geschützt.
+- **Deutscher Text:** Er wurde eigens aus dieser englischen Vorlage neu übertragen und vereinfacht. Es wurde kein Text aus einer urheberrechtlich geschützten deutschen Bibelübersetzung (z. B. Lutherbibel 1984/2017, Einheitsübersetzung, Elberfelder, Gute Nachricht) übernommen.
+- Ähnlichkeiten einzelner kurzer Formulierungen mit anderen Übersetzungen ergeben sich daraus, dass alle denselben hebräischen und griechischen Grundtext wiedergeben.
+- Hinweis: Gemeinfrei ist von der Lutherbibel nur die Fassung von 1912 (und ältere), nicht die Fassungen 1984 und 2017.
+
 **Wichtigste Regel:** Kein Vers, kein Name, keine Zahl wird weggelassen.
 Ein Prüfprogramm kontrolliert das bei jedem Kapitel automatisch.
 
