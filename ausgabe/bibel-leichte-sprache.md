@@ -102297,7 +102297,7 @@ Genau an diesem Tag ist der König von Babylon
 nahe an Jerusalem herangerückt.
 
 > **Was bedeutet das?**
-> Das ist ein historisches Datum: Im Januar 588 vor Christus begann Nebukadnezar die Belagerung Jerusalems (vgl. 2. Könige 25,1; Jeremia 52,4). Hesekiel ist 900 Kilometer entfernt in Babylon und weiß es durch Gott am selben Tag.
+> Das ist ein historisches Datum: Im Winter 588/587 vor Christus (die genaue Jahreszahl ist unter Forschern umstritten) begann Nebukadnezar die Belagerung Jerusalems (vgl. 2. Könige 25,1; Jeremia 52,4). Hesekiel ist 900 Kilometer entfernt in Babylon und weiß es durch Gott am selben Tag.
 > Im Judentum ist der 10. Tewet bis heute ein Fastentag, der an den Beginn dieser Belagerung erinnert.
 
 ---
@@ -102377,7 +102377,7 @@ und deine Tränen sollen nicht fließen.
 Halte keine Totenklage.
 Binde deinen Kopfbund um
 und zieh deine Sandalen an deine Füße.
-Verhülle nicht deinen Bart,
+Verhülle nicht deine Lippen,
 und iss nicht das Trauerbrot.“
 <sup>18</sup>So redete ich am Morgen zum Volk,
 und am Abend starb meine Frau.
@@ -102385,7 +102385,7 @@ Und am Morgen tat ich, wie mir befohlen war.
 
 > **Was bedeutet das?**
 > Das ist einer der traurigsten Abschnitte im ganzen Buch. Hesekiels Frau, „die Freude seiner Augen“, stirbt plötzlich. Wir erfahren hier zum ersten und einzigen Mal etwas über sie, und man spürt, wie sehr er sie geliebt hat.
-> Gott verlangt von Hesekiel etwas sehr Schweres: Er soll nicht öffentlich trauern, keine Trauerkleidung tragen, nicht die üblichen Trauerbräuche halten. Er darf nur leise seufzen. Das ist eine Zeichenhandlung für das Volk (siehe Vers 19–24).
+> Gott verlangt von Hesekiel etwas sehr Schweres: Er soll nicht öffentlich trauern, keine Trauerkleidung tragen, nicht die üblichen Trauerbräuche halten. Zu diesen Bräuchen gehörte es zum Beispiel, den Kopfbund abzunehmen, barfuß zu gehen, den unteren Teil des Gesichts („die Lippen“) zu verhüllen und Trauerbrot zu essen, das Nachbarn brachten. Er darf nur leise seufzen. Das ist eine Zeichenhandlung für das Volk (siehe Vers 19–24).
 > Man darf diesen Text nicht so verstehen, dass Gott Menschen sterben lässt, um ein Zeichen zu setzen. Und er ist auch keine Regel, dass Gläubige nicht trauern dürften. Im Gegenteil: Die Bibel ist voller Klage und Tränen, und Jesus selbst weinte am Grab seines Freundes (Johannes 11,35). Trauer ist erlaubt und wichtig.
 > Wenn du gerade um einen Menschen trauerst und jemanden zum Reden brauchst: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr).
 
@@ -102407,7 +102407,7 @@ und das, woran eure Seele hängt.
 Und eure Söhne und eure Töchter, die ihr zurückgelassen habt,
 werden durch das Schwert fallen.
 <sup>22</sup>Ihr werdet tun, wie ich getan habe.
-Ihr werdet euren Bart nicht verhüllen
+Ihr werdet eure Lippen nicht verhüllen
 und kein Trauerbrot essen.
 <sup>23</sup>Eure Kopfbunde werden auf euren Köpfen sein
 und eure Sandalen an euren Füßen.
