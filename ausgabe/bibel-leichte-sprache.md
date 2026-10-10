@@ -98031,3 +98031,344 @@ Bis hierher reichen die Worte Jeremias.
 > Vers 60–64: Eine letzte Zeichenhandlung: Seraja soll die Worte über Babel in Babylon vorlesen, dann einen Stein an die Rolle binden und sie in den Euphrat werfen. Wie die Rolle versinkt, so wird Babel versinken.
 > Die Offenbarung greift auch dieses Bild auf: Ein Engel wirft einen großen Stein ins Meer und sagt: „So wird Babylon gestürzt werden“ (Offenbarung 18,21).
 > „Bis hierher reichen die Worte Jeremias.“ Das letzte Kapitel (52) ist ein geschichtlicher Anhang, der vom Fall Jerusalems erzählt.
+
+## Jeremia – Kapitel 52
+#### Der Fall Jerusalems
+
+---
+
+### Zidkija und die Belagerung (Vers 1–11)
+
+<sup>1</sup>Zidkija war einundzwanzig Jahre alt, als er König wurde,
+und er regierte elf Jahre in Jerusalem.
+Seine Mutter hieß Hamutal, die Tochter Jeremias aus Libna.
+<sup>2</sup>Er tat, was in den Augen des HERRN böse war,
+ganz so, wie Jojakim getan hatte.
+<sup>3</sup>Denn wegen des Zorns des HERRN geschah dies in Jerusalem und Juda,
+bis er sie von seinem Angesicht verstoßen hatte.
+Und Zidkija lehnte sich gegen den König von Babel auf.
+<sup>4</sup>Im neunten Jahr seiner Herrschaft, im zehnten Monat, am zehnten Tag des Monats,
+kam Nebukadnezar, der König von Babel, er und sein ganzes Heer, gegen Jerusalem,
+und sie lagerten sich gegen die Stadt
+und bauten ringsum Belagerungstürme gegen sie.
+<sup>5</sup>So wurde die Stadt belagert bis zum elften Jahr des Königs Zidkija.
+<sup>6</sup>Im vierten Monat, am neunten Tag des Monats,
+war der Hunger in der Stadt so stark,
+dass es kein Brot mehr für das Volk des Landes gab.
+<sup>7</sup>Da wurde eine Bresche in die Stadt geschlagen,
+und alle Kriegsleute flohen
+und zogen bei Nacht aus der Stadt hinaus
+auf dem Weg durch das Tor zwischen den beiden Mauern,
+das beim Garten des Königs lag.
+Die Chaldäer aber lagen rings um die Stadt.
+Die Kriegsleute zogen in Richtung der Araba.
+<sup>8</sup>Aber das Heer der Chaldäer verfolgte den König
+und holte Zidkija in den Ebenen von Jericho ein,
+und sein ganzes Heer zerstreute sich von ihm weg.
+<sup>9</sup>Da nahmen sie den König gefangen
+und brachten ihn hinauf zum König von Babel nach Ribla im Land Hamat,
+und er sprach das Urteil über ihn.
+<sup>10</sup>Der König von Babel ließ die Söhne Zidkijas vor dessen Augen töten.
+Auch alle Fürsten von Juda ließ er in Ribla töten.
+<sup>11</sup>Dann ließ er Zidkija die Augen ausstechen,
+und der König von Babel legte ihn in bronzene Fesseln
+und brachte ihn nach Babel
+und setzte ihn ins Gefängnis bis zum Tag seines Todes.
+
+> **Was bedeutet das?**
+> Das letzte Kapitel ist ein geschichtlicher Anhang. Es stimmt fast wörtlich mit 2. Könige 24,18–25,30 überein. Es zeigt: Alles, was Jeremia angekündigt hatte, ist eingetroffen.
+> Vers 4: Der zehnte Tag des zehnten Monats ist bis heute ein jüdischer Fastentag (Asara be-Tevet), an dem man an den Beginn der Belagerung erinnert.
+> Vers 6: In der Stadt herrschte schrecklicher Hunger.
+> Vers 10–11: Das grausame Schicksal Zidkijas wird noch einmal erzählt (vgl. 39,6–7). Gewalt gegen Gefangene und Kinder ist ein Verbrechen. Die Bibel berichtet sie, damit das Leid nicht vergessen wird.
+
+---
+
+### Der Tempel wird verbrannt (Vers 12–23)
+
+<sup>12</sup>Im fünften Monat, am zehnten Tag des Monats,
+das war das neunzehnte Jahr des Königs Nebukadnezar, des Königs von Babel,
+kam Nebusaradan, der Oberste der Leibwache,
+der vor dem König von Babel stand, nach Jerusalem.
+<sup>13</sup>Er verbrannte das Haus des HERRN und das Haus des Königs,
+und alle Häuser Jerusalems, jedes große Haus, verbrannte er mit Feuer.
+<sup>14</sup>Und das ganze Heer der Chaldäer, das beim Obersten der Leibwache war,
+riss alle Mauern Jerusalems ringsum nieder.
+<sup>15</sup>Dann führte Nebusaradan, der Oberste der Leibwache, gefangen weg
+einige von den Ärmsten des Volkes
+und den Rest des Volkes, der in der Stadt übrig geblieben war,
+und die Überläufer, die zum König von Babel übergelaufen waren,
+und den Rest der Menge.
+<sup>16</sup>Aber von den Ärmsten des Landes ließ Nebusaradan, der Oberste der Leibwache,
+einige als Weingärtner und Ackerbauern zurück.
+<sup>17</sup>Die Chaldäer zerschlugen die bronzenen Säulen, die im Haus des HERRN waren,
+und die Gestelle und das bronzene Meer, das im Haus des HERRN war,
+und brachten ihre ganze Bronze nach Babel.
+<sup>18</sup>Sie nahmen auch die Töpfe, die Schaufeln, die Lichtscheren,
+die Schalen, die Löffel und alle bronzenen Geräte weg,
+mit denen man den Dienst verrichtete.
+<sup>19</sup>Der Oberste der Leibwache nahm die Becken, die Feuerpfannen,
+die Schalen, die Töpfe, die Leuchter, die Löffel und die Kannen weg,
+was aus Gold war, als Gold,
+und was aus Silber war, als Silber.
+<sup>20</sup>Die zwei Säulen, das eine Meer
+und die zwölf bronzenen Rinder, die unter den Gestellen waren,
+die König Salomo für das Haus des HERRN gemacht hatte:
+Die Bronze all dieser Geräte war nicht zu wiegen.
+<sup>21</sup>Was die Säulen betrifft:
+Die eine Säule war achtzehn Ellen hoch,
+und eine Schnur von zwölf Ellen umspannte sie.
+Ihre Wand war vier Finger dick.
+Sie war hohl.
+<sup>22</sup>Ein Kapitell aus Bronze war darauf.
+Die Höhe des einen Kapitells war fünf Ellen,
+mit Flechtwerk und Granatäpfeln ringsum am Kapitell, alles aus Bronze.
+Die zweite Säule hatte dasselbe, mit Granatäpfeln.
+<sup>23</sup>Es waren sechsundneunzig Granatäpfel an den Seiten.
+Insgesamt waren es hundert Granatäpfel ringsum am Flechtwerk.
+
+> **Was bedeutet das?**
+> Vers 12–13: Im Jahr 587 vor Christus wurde der Tempel Salomos verbrannt, nach fast 400 Jahren. Juden erinnern bis heute am 9. Tag des Monats Av (Tischa be-Av) an die Zerstörung des ersten und des zweiten Tempels. (Hier steht der 10. Tag, in 2. Könige 25,8 der 7. Tag; die Überlieferungen nennen verschiedene Tage.)
+> Vers 16: Wieder werden die Ärmsten im Land gelassen, um die Felder zu bebauen.
+> Vers 17–23: Eine genaue Liste der Tempelgeräte. Die riesigen Bronzesäulen (über 8 Meter hoch), das große Wasserbecken („Meer“) und die zwölf Bronzerinder wurden zerschlagen. Die Bibel zählt sie liebevoll auf, wie man auflistet, was man bei einer Katastrophe verloren hat.
+
+---
+
+### Die Wegführungen (Vers 24–30)
+
+<sup>24</sup>Der Oberste der Leibwache nahm Seraja, den obersten Priester,
+und Zefanja, den zweiten Priester,
+und die drei Türhüter.
+<sup>25</sup>Und aus der Stadt nahm er einen Hofbeamten,
+der über die Kriegsleute gesetzt war,
+und sieben Männer von denen, die das Angesicht des Königs sahen,
+die in der Stadt gefunden wurden,
+und den Schreiber des Heerobersten,
+der das Volk des Landes zum Kriegsdienst aufbot,
+und sechzig Männer vom Volk des Landes,
+die mitten in der Stadt gefunden wurden.
+<sup>26</sup>Nebusaradan, der Oberste der Leibwache, nahm sie
+und brachte sie zum König von Babel nach Ribla.
+<sup>27</sup>Der König von Babel ließ sie in Ribla im Land Hamat erschlagen und töten.
+So wurde Juda aus seinem Land weggeführt.
+<sup>28</sup>Das ist die Zahl der Leute, die Nebukadnezar gefangen weggeführt hat:
+im siebten Jahr dreitausenddreiundzwanzig Juden;
+<sup>29</sup>im achtzehnten Jahr Nebukadnezars
+führte er aus Jerusalem achthundertzweiunddreißig Menschen gefangen weg;
+<sup>30</sup>im dreiundzwanzigsten Jahr Nebukadnezars
+führte Nebusaradan, der Oberste der Leibwache, von den Juden
+siebenhundertfünfundvierzig Menschen gefangen weg.
+Insgesamt waren es viertausendsechshundert Menschen.
+
+> **Was bedeutet das?**
+> Vers 24–27: Die führenden Männer der Stadt werden hingerichtet, darunter der oberste Priester Seraja.
+> Vers 28–30: Eine genaue Zählung der Verschleppten in drei Wellen (597, 587 und 582 vor Christus): zusammen 4600 Menschen. Wahrscheinlich sind nur die Männer gezählt, oder nur bestimmte Gruppen. In 2. Könige 24,14 werden für die erste Wegführung andere Zahlen genannt.
+> Hinter diesen Zahlen stehen Menschen und Familien, die ihre Heimat verloren haben.
+
+---
+
+### Ein Lichtblick: Jojachin wird begnadigt (Vers 31–34)
+
+<sup>31</sup>Im siebenunddreißigsten Jahr der Gefangenschaft Jojachins, des Königs von Juda,
+im zwölften Monat, am fünfundzwanzigsten Tag des Monats,
+erhob Ewil-Merodach, der König von Babel, im ersten Jahr seiner Herrschaft
+das Haupt Jojachins, des Königs von Juda,
+und holte ihn aus dem Gefängnis.
+<sup>32</sup>Er redete freundlich mit ihm
+und stellte seinen Thron über die Throne der Könige, die bei ihm in Babel waren.
+<sup>33</sup>Er durfte seine Gefängniskleider ablegen.
+Und Jojachin aß ständig vor ihm,
+alle Tage seines Lebens.
+<sup>34</sup>Und sein Unterhalt wurde ihm ständig vom König von Babel gegeben,
+jeden Tag eine Portion, bis zum Tag seines Todes,
+alle Tage seines Lebens.
+
+> **Was bedeutet das?**
+> Das Buch endet mit einem kleinen Lichtblick: Nach 37 Jahren im Gefängnis wird König Jojachin freigelassen und darf am Tisch des babylonischen Königs essen. Archäologen haben in Babylon Tontafeln gefunden, auf denen Essensrationen für „Jojachin, König von Juda“ verzeichnet sind.
+> Das zeigt: Die Familie Davids ist nicht ausgestorben. Gottes Verheißung lebt weiter, auch im Exil. Es gibt Hoffnung.
+
+---
+
+### Rückblick: Was haben wir im Buch Jeremia gelesen?
+
+> **Was bedeutet das?**
+> **Der Prophet:** Jeremia wirkte etwa 40 Jahre lang, von 627 bis nach 587 vor Christus. Er erlebte den Untergang Judas und die Zerstörung Jerusalems mit.
+> **Berufen von Mutterleib an:** „Bevor ich dich im Mutterleib bildete, kannte ich dich“ (1,5). Jeremia fühlte sich zu jung, aber Gott sagte: „Ich bin bei dir.“
+> **Ein leidender Prophet:** Kein anderer Prophet zeigt so offen seine Gefühle. Er klagt, weint, streitet mit Gott und wünscht sich sogar, nie geboren zu sein (Kapitel 20). Er wurde geschlagen, eingesperrt und in eine Schlammzisterne geworfen. Aber Gottes Wort war in ihm „wie ein brennendes Feuer“ (20,9).
+> **Ehrlichkeit statt falscher Beruhigung:** Jeremia stellte sich gegen falsche Propheten, die „Friede, Friede!“ riefen, wo kein Friede war (6,14). Er sagte die unbequeme Wahrheit.
+> **Echter Gottesdienst:** Ein Tempel allein schützt nicht (Kapitel 7). Gott will Recht und Gerechtigkeit, Schutz für Fremde, Waisen und Witwen (22,3).
+> **Der Töpfer:** Gott kann aus Missratenem etwas Neues formen (Kapitel 18).
+> **Sucht den Frieden der Stadt:** Der Brief an die Verbannten (Kapitel 29): Lebt, baut, betet für die Stadt, in der ihr seid. „Ich habe Gedanken des Friedens über euch, um euch Hoffnung und Zukunft zu geben“ (29,11).
+> **Der neue Bund:** „Ich werde mein Gesetz in ihr Herz schreiben“ (31,33). Juden sehen darin Gottes Treue zu Israel, Christen beziehen es auch auf den neuen Bund in Jesus. Gottes Treue zu Israel ist so sicher wie Sonne und Mond (31,35–37).
+> **Hoffnung mitten im Untergang:** Jeremia kaufte einen Acker, als alles verloren schien (Kapitel 32). Er glaubte an die Zukunft.
+> **Treue Helfer:** Baruch, der Schreiber, Ebed-Melech aus Kusch und die Familie Schafan standen Jeremia bei.
+> **Wie geht es weiter?** Als Nächstes kommen die Klagelieder. Sie trauern um das zerstörte Jerusalem. Die Tradition schreibt sie Jeremia zu.
+
+
+---
+
+# Klagelieder
+
+## Klagelieder – Kapitel 1
+#### Wie liegt die Stadt so verlassen
+
+---
+
+### Bevor es losgeht: Was sind die Klagelieder?
+
+Die Klagelieder sind fünf Gedichte über die Zerstörung Jerusalems im Jahr 587 vor Christus. Sie drücken den tiefen Schmerz der Menschen aus: Die Stadt ist zerstört, der Tempel verbrannt, viele Menschen sind tot oder verschleppt.
+Eine alte Überlieferung sagt, dass der Prophet Jeremia sie geschrieben hat. Darum stehen sie in vielen Bibeln direkt nach dem Buch Jeremia. Im Text selbst steht kein Name.
+Die ersten vier Lieder sind kunstvoll gebaut: Jeder Vers (oder jede Versgruppe) beginnt mit dem nächsten Buchstaben des hebräischen Alphabets, von Alef bis Taw. So wird der Schmerz „von A bis Z“ ausgesprochen.
+Im Judentum werden die Klagelieder am Trauertag Tischa be-Av gelesen, an dem man an die Zerstörung der Tempel erinnert. Auch in christlichen Gottesdiensten werden sie in der Karwoche gelesen.
+Die Klagelieder zeigen: Man darf vor Gott klagen, weinen und fragen. Trauer braucht Worte. Mitten in der Klage steht auch ein berühmter Satz der Hoffnung: „Die Gnade des HERRN ist nicht zu Ende, sein Erbarmen hört nicht auf. Es ist jeden Morgen neu“ (3,22–23).
+
+---
+
+### Jerusalem sitzt einsam wie eine Witwe (Vers 1–11)
+
+<sup>1</sup>Wie sitzt die Stadt so einsam da,
+die voller Menschen war!
+Sie ist wie eine Witwe geworden,
+die groß war unter den Nationen!
+Sie, die eine Fürstin unter den Ländern war,
+ist zur Zwangsarbeiterin geworden!
+<sup>2</sup>Sie weint bitterlich in der Nacht.
+Ihre Tränen sind auf ihren Wangen.
+Unter all ihren Liebhabern
+hat sie keinen, der sie tröstet.
+Alle ihre Freunde haben sie verraten.
+Sie sind ihre Feinde geworden.
+<sup>3</sup>Juda ist in die Gefangenschaft gezogen
+wegen Elend und harter Knechtschaft.
+Sie wohnt unter den Nationen.
+Sie findet keine Ruhe.
+Alle ihre Verfolger haben sie eingeholt
+mitten in ihrer Not.
+<sup>4</sup>Die Wege nach Zion trauern,
+weil niemand mehr zum Fest kommt.
+Alle ihre Tore sind verödet.
+Ihre Priester seufzen.
+Ihre jungen Frauen sind betrübt,
+und sie selbst ist voll Bitterkeit.
+<sup>5</sup>Ihre Gegner sind zum Haupt geworden.
+Ihre Feinde haben Erfolg.
+Denn der HERR hat sie betrübt
+wegen der Menge ihrer Übertretungen.
+Ihre kleinen Kinder sind in die Gefangenschaft gezogen
+vor dem Gegner her.
+<sup>6</sup>Alle Pracht ist von der Tochter Zion gewichen.
+Ihre Fürsten sind wie Hirsche geworden,
+die keine Weide finden.
+Sie sind kraftlos vor dem Verfolger hergegangen.
+<sup>7</sup>Jerusalem denkt in den Tagen ihres Elends und ihrer Not
+an all ihre Kostbarkeiten,
+die sie seit alten Tagen hatte,
+als ihr Volk in die Hand des Gegners fiel
+und niemand ihr half.
+Die Gegner sahen sie an.
+Sie spotteten über ihren Untergang.
+<sup>8</sup>Jerusalem hat schwer gesündigt.
+Darum ist sie unrein geworden.
+Alle, die sie ehrten, verachten sie,
+weil sie ihre Blöße gesehen haben.
+Ja, sie seufzt und wendet sich ab.
+<sup>9</sup>Ihre Unreinheit war an ihren Säumen.
+Sie dachte nicht an ihr Ende.
+Darum ist sie so erschreckend tief gefallen.
+Sie hat keinen Tröster.
+„Sieh, HERR, mein Elend,
+denn der Feind hat sich groß gemacht!“
+<sup>10</sup>Der Gegner hat seine Hand ausgestreckt
+nach all ihren Kostbarkeiten,
+denn sie hat gesehen, dass die Nationen in ihr Heiligtum gekommen sind,
+von denen du geboten hattest,
+dass sie nicht in deine Gemeinde kommen sollten.
+<sup>11</sup>Ihr ganzes Volk seufzt.
+Sie suchen Brot.
+Sie haben ihre Kostbarkeiten für Essen gegeben,
+um ihr Leben zu erhalten.
+„Schau, HERR, und sieh,
+denn ich bin verachtet geworden!“
+
+> **Was bedeutet das?**
+> Vers 1: Das erste Wort im Hebräischen heißt „Ekha“, das bedeutet „Wie …!“ – ein Ausruf des Entsetzens. Daher hat das Buch auf Hebräisch seinen Namen. Jerusalem, früher voller Menschen und eine „Fürstin“, sitzt jetzt einsam da wie eine Witwe.
+> Vers 2: Sie weint die ganze Nacht, und niemand tröstet sie. Fünfmal heißt es in diesem Kapitel: „Sie hat keinen Tröster“ (Vers 2, 9, 16, 17, 21). Das ist das große Thema dieses Liedes: die Einsamkeit im Leid.
+> Vers 4: Sogar die Straßen „trauern“, weil keine Pilger mehr zu den Festen kommen.
+> Vers 5 und 8: Die Lieder sagen ehrlich: Das Unglück hat mit der Schuld des Volkes zu tun. Aber der Schmerz wird nicht kleingeredet.
+> Vers 8–9: Die Stadt wird als Frau beschrieben, deren Schande sichtbar ist. Das ist ein Bild für die erniedrigte Stadt, kein Urteil über Frauen.
+> Vers 11: Der Hunger ist so groß, dass die Menschen ihre Wertsachen gegen Brot eintauschen.
+
+---
+
+### Ist kein Schmerz wie mein Schmerz? (Vers 12–22)
+
+<sup>12</sup>„Ist es euch nichts, die ihr alle vorübergeht?
+Schaut und seht,
+ob es einen Schmerz gibt wie meinen Schmerz,
+der mir angetan wurde,
+mit dem der HERR mich betrübt hat
+am Tag seines glühenden Zorns.
+<sup>13</sup>Aus der Höhe hat er Feuer in meine Knochen geschickt,
+und es hat sie überwältigt.
+Er hat ein Netz für meine Füße ausgebreitet.
+Er hat mich zurückgeworfen.
+Er hat mich verwüstet,
+und ich bin den ganzen Tag krank.
+<sup>14</sup>Das Joch meiner Übertretungen ist durch seine Hand gebunden.
+Sie sind zusammengeflochten.
+Sie sind auf meinen Hals gekommen.
+Er hat meine Kraft schwinden lassen.
+Der Herr hat mich in ihre Hände gegeben,
+gegen die ich nicht bestehen kann.
+<sup>15</sup>Der Herr hat alle meine Starken in meiner Mitte verworfen.
+Er hat ein Fest gegen mich ausgerufen,
+um meine jungen Männer zu zermalmen.
+Der Herr hat die Jungfrau, die Tochter Juda,
+getreten wie in einer Kelter.
+<sup>16</sup>Darüber weine ich.
+Mein Auge, mein Auge fließt von Wasser,
+denn der Tröster, der meine Seele erquicken sollte,
+ist fern von mir.
+Meine Kinder sind verwüstet,
+denn der Feind hat gesiegt.“
+<sup>17</sup>Zion breitet ihre Hände aus.
+Da ist niemand, der sie tröstet.
+Der HERR hat über Jakob geboten,
+dass die rings um ihn seine Gegner sein sollten.
+Jerusalem ist unter ihnen wie etwas Unreines geworden.
+<sup>18</sup>„Der HERR ist gerecht,
+denn ich habe mich gegen sein Gebot aufgelehnt.
+Hört doch, alle Völker,
+und seht meinen Schmerz!
+Meine jungen Frauen und meine jungen Männer
+sind in die Gefangenschaft gezogen.
+<sup>19</sup>Ich rief nach meinen Liebhabern,
+aber sie haben mich betrogen.
+Meine Priester und meine Ältesten
+sind in der Stadt umgekommen,
+während sie Essen für sich suchten,
+um ihr Leben zu erhalten.
+<sup>20</sup>Sieh, HERR, denn ich bin in Not!
+Mein Inneres ist aufgewühlt.
+Mein Herz dreht sich in mir um,
+denn ich bin schwer widerspenstig gewesen.
+Draußen raubt das Schwert die Kinder,
+drinnen ist es wie der Tod.
+<sup>21</sup>Sie haben gehört, dass ich seufze.
+Da ist niemand, der mich tröstet.
+Alle meine Feinde haben von meinem Unglück gehört.
+Sie freuen sich, dass du es getan hast.
+Du wirst den Tag bringen, den du angekündigt hast,
+und dann werden sie wie ich sein.
+<sup>22</sup>Lass all ihre Bosheit vor dich kommen
+und tu ihnen, wie du mir getan hast
+wegen all meiner Übertretungen.
+Denn meine Seufzer sind viele,
+und mein Herz ist krank.“
+
+> **Was bedeutet das?**
+> Vers 12 ist einer der bekanntesten Verse: „Ist es euch nichts, die ihr vorübergeht? Schaut, ob es einen Schmerz gibt wie meinen Schmerz!“ Die Stadt ruft den Vorbeigehenden zu: Seht ihr mein Leid nicht? Christen haben diesen Vers oft auf das Leiden von Jesus am Karfreitag bezogen.
+> Vers 16: „Mein Auge, mein Auge fließt von Wasser.“ Tränen ohne Ende.
+> Vers 18: Trotz allem: „Der HERR ist gerecht.“ Jerusalem gibt seine Schuld zu.
+> Vers 20: „Draußen raubt das Schwert die Kinder, drinnen ist es wie der Tod.“ Krieg draußen, Hunger und Krankheit drinnen. Es gibt keinen sicheren Ort mehr.
+> Vers 21–22: Die Stadt bittet Gott, auch die Feinde zur Rechenschaft zu ziehen, die sich über ihr Unglück freuen. Sie überlässt das Urteil Gott.
+> Dieses Lied zeigt: Es ist erlaubt, vor Gott zu klagen und den eigenen Schmerz laut auszusprechen. Wer trauert oder verzweifelt ist, soll nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
