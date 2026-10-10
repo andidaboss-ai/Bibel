@@ -62,14 +62,14 @@ und verlässt uns so lange Zeit?
 [21] Bring uns zurück, HERR, zu dir,
 so werden wir zurückkehren!
 Erneuere unsere Tage wie in alter Zeit!
-[22] Oder hast du uns ganz verworfen?
-Bist du so sehr zornig auf uns?
+[22] Aber du hast uns ganz verworfen.
+Du bist sehr zornig auf uns.
 
 > **Was bedeutet das?**
 > Vers 19: Mitten in all dem Leid ein festes Bekenntnis: „Du, HERR, bleibst für immer.“ Alles ist zerstört, aber Gott bleibt.
 > Vers 20: Und doch die ehrliche Frage: „Warum vergisst du uns so lange?“
 > Vers 21 ist ein berühmtes Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren! Erneuere unsere Tage wie in alter Zeit!“ Das Volk weiß: Selbst umkehren können wir nicht. Gott muss uns zurückbringen. Dieser Vers wird im jüdischen Gottesdienst gesungen, wenn die Tora-Rolle zurück in den Schrein gelegt wird.
-> Vers 22: Das Buch endet mit einer offenen Frage. Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
+> Vers 22: Das Buch endet mit einem bitteren Satz: „Du hast uns ganz verworfen.“ Manche Übersetzungen lesen ihn als Frage: „Oder hast du uns ganz verworfen?“ Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
 
 ---
 

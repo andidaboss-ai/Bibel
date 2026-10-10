@@ -30,7 +30,7 @@ das wie in einem Augenblick zerstört wurde,
 ohne dass Hände sich an ihm abmühten.
 [7] Ihre Vornehmen waren reiner als Schnee.
 Sie waren weißer als Milch.
-Ihr Körper war rötlicher als Korallen.
+Ihr Körper war rötlicher als Rubine.
 Ihr Aussehen war wie Saphir.
 [8] Jetzt ist ihr Aussehen schwärzer als Ruß.
 Man erkennt sie auf den Straßen nicht mehr.

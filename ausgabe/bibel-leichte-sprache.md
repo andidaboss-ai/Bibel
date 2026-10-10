@@ -98723,7 +98723,7 @@ das wie in einem Augenblick zerstört wurde,
 ohne dass Hände sich an ihm abmühten.
 <sup>7</sup>Ihre Vornehmen waren reiner als Schnee.
 Sie waren weißer als Milch.
-Ihr Körper war rötlicher als Korallen.
+Ihr Körper war rötlicher als Rubine.
 Ihr Aussehen war wie Saphir.
 <sup>8</sup>Jetzt ist ihr Aussehen schwärzer als Ruß.
 Man erkennt sie auf den Straßen nicht mehr.
@@ -98879,14 +98879,14 @@ und verlässt uns so lange Zeit?
 <sup>21</sup>Bring uns zurück, HERR, zu dir,
 so werden wir zurückkehren!
 Erneuere unsere Tage wie in alter Zeit!
-<sup>22</sup>Oder hast du uns ganz verworfen?
-Bist du so sehr zornig auf uns?
+<sup>22</sup>Aber du hast uns ganz verworfen.
+Du bist sehr zornig auf uns.
 
 > **Was bedeutet das?**
 > Vers 19: Mitten in all dem Leid ein festes Bekenntnis: „Du, HERR, bleibst für immer.“ Alles ist zerstört, aber Gott bleibt.
 > Vers 20: Und doch die ehrliche Frage: „Warum vergisst du uns so lange?“
 > Vers 21 ist ein berühmtes Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren! Erneuere unsere Tage wie in alter Zeit!“ Das Volk weiß: Selbst umkehren können wir nicht. Gott muss uns zurückbringen. Dieser Vers wird im jüdischen Gottesdienst gesungen, wenn die Tora-Rolle zurück in den Schrein gelegt wird.
-> Vers 22: Das Buch endet mit einer offenen Frage. Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
+> Vers 22: Das Buch endet mit einem bitteren Satz: „Du hast uns ganz verworfen.“ Manche Übersetzungen lesen ihn als Frage: „Oder hast du uns ganz verworfen?“ Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
 
 ---
 
