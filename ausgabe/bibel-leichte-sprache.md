@@ -100597,3 +100597,485 @@ spricht der Herr, der HERR.
 > Israel wurde in der Bibel oft mit einem Weinstock verglichen (Psalm 80,9–17; Jesaja 5,1–7). Ein Weinstock ist wertvoll, aber nur wegen seiner Früchte. Sein Holz ist krumm und weich. Man kann daraus nicht einmal einen Haken machen. Wenn ein Weinstock keine Trauben bringt, taugt er nur noch als Brennholz.
 > Vers 4–5: Jerusalem ist wie ein Stück Rebholz, das schon an beiden Enden verbrannt ist. Die Enden stehen wahrscheinlich für die schon erlebten Katastrophen (die Zerstörung des Nordreichs und die erste Verschleppung 597 vor Christus). Was übrig ist, wird auch noch verbrennen.
 > Jesus nimmt dieses Bild im Neuen Testament auf: „Ich bin der Weinstock, ihr seid die Reben … Wer in mir bleibt, der bringt viel Frucht“ (Johannes 15,1–8). Bei Jesus geht es vor allem um Einladung: Bleibt mit mir verbunden, dann wachst ihr und bringt Frucht.
+
+## Hesekiel – Kapitel 16
+#### Das Findelkind Jerusalem
+
+---
+
+### Vorweg: Wie liest man dieses Kapitel?
+
+Hesekiel 16 ist eines der längsten und härtesten Kapitel der Bibel. Jerusalem wird darin als Frau dargestellt: zuerst als ausgesetztes Baby, das Gott rettet, dann als Ehefrau, die ihm untreu wird.
+Dieses Bild ist eine Metapher für die Beziehung zwischen Gott und seinem Volk. Mit „Untreue“ und „Hurerei“ ist Götzendienst gemeint und das Vertrauen auf fremde Großmächte statt auf Gott. Angesprochen sind alle Bewohner Jerusalems, Männer wie Frauen, vor allem die Mächtigen.
+Manche Bilder in diesem Kapitel sind gewaltvoll und beschämend. Sie stammen aus einer Zeit und Kultur, in der Frauen wenig Rechte hatten. Viele Leserinnen und Leser heute empfinden sie als verletzend, und das ist verständlich.
+Ganz wichtig: Dieses Kapitel rechtfertigt niemals Gewalt gegen Frauen oder gegen irgendeinen Menschen. Wer Gewalt erlebt, verdient Schutz und Hilfe, keine Schuld.
+Am Ende des Kapitels steht nicht die Strafe, sondern Gottes Treue: ein ewiger Bund und Vergebung (Vers 60–63).
+
+---
+
+### Das ausgesetzte Kind (Vers 1–7)
+
+<sup>1</sup>Wieder kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, lass Jerusalem seine Gräuel erkennen
+<sup>3</sup>und sag:
+‚So spricht der Herr, der HERR, zu Jerusalem:
+„Deine Herkunft und deine Geburt sind aus dem Land der Kanaaniter.
+Ein Amoriter war dein Vater,
+und deine Mutter war eine Hetiterin.
+<sup>4</sup>Bei deiner Geburt, am Tag, als du geboren wurdest,
+wurde deine Nabelschnur nicht abgeschnitten.
+Du wurdest nicht mit Wasser gewaschen, um dich zu reinigen.
+Du wurdest überhaupt nicht mit Salz abgerieben
+und überhaupt nicht in Windeln gewickelt.
+<sup>5</sup>Kein Auge hatte Mitleid mit dir,
+um dir auch nur eines davon zu tun
+und sich über dich zu erbarmen.
+Sondern du wurdest auf das freie Feld geworfen,
+weil man dich verabscheute am Tag deiner Geburt.
+<sup>6</sup>Als ich an dir vorüberging
+und dich in deinem Blut strampeln sah,
+sagte ich zu dir:
+‚Auch wenn du in deinem Blut liegst: Lebe!‘
+Ja, ich sagte zu dir:
+‚Auch wenn du in deinem Blut liegst: Lebe!‘
+<sup>7</sup>Ich ließ dich wachsen wie die Pflanzen auf dem Feld,
+und du nahmst zu und wurdest groß
+und erreichtest höchste Schönheit.
+Deine Brüste bildeten sich,
+und dein Haar wuchs.
+Doch du warst nackt und bloß.
+
+> **Was bedeutet das?**
+> Vers 3: Jerusalem war ursprünglich eine kanaanitische Stadt, bevor David sie eroberte (2. Samuel 5,6–9). Die Botschaft: Jerusalem hat keinen Grund, stolz auf seine Herkunft zu sein. Alles, was es ist, verdankt es Gott.
+> Vers 4–5: Damals wurde ein neugeborenes Baby gewaschen, mit Salz eingerieben (man glaubte, das sei gesund für die Haut) und in Tücher gewickelt. Dieses Baby bekam nichts davon. Es wurde ausgesetzt, ungewollt und verachtet. Das Aussetzen von Kindern, oft von Mädchen, kam in der Antike leider vor.
+> Vers 6: Einer der berührendsten Verse der Bibel: Gott kommt vorbei, sieht das hilflose Kind und sagt: „Lebe!“ Zweimal! Gott rettet, wo niemand sonst hilft. Im Judentum wird dieser Vers bei der Beschneidung eines Jungen gesprochen und mit dem Pessachfest verbunden.
+
+---
+
+### Gott schließt einen Bund (Vers 8–14)
+
+<sup>8</sup>Als ich an dir vorüberging und dich ansah,
+siehe, da war deine Zeit die Zeit der Liebe.
+Ich breitete meinen Mantel über dich
+und bedeckte deine Blöße.
+Ja, ich schwor dir Treue
+und schloss einen Bund mit dir“,
+spricht der Herr, der HERR,
+„und du wurdest mein.
+<sup>9</sup>Dann wusch ich dich mit Wasser.
+Ja, ich wusch dein Blut gründlich von dir ab
+und salbte dich mit Öl.
+<sup>10</sup>Ich kleidete dich auch mit bunt gesticktem Stoff
+und zog dir Sandalen aus Leder an.
+Ich umhüllte dich mit feinem Leinen
+und bedeckte dich mit Seide.
+<sup>11</sup>Ich schmückte dich mit Schmuck,
+legte Armreifen an deine Hände
+und eine Kette um deinen Hals.
+<sup>12</sup>Ich legte einen Ring an deine Nase,
+Ohrringe an deine Ohren
+und eine prächtige Krone auf deinen Kopf.
+<sup>13</sup>So warst du mit Gold und Silber geschmückt.
+Deine Kleidung war aus feinem Leinen, Seide und bunt gesticktem Stoff.
+Du aßest Feinmehl, Honig und Öl.
+Du wurdest überaus schön,
+und du stiegst auf bis zum Königtum.
+<sup>14</sup>Dein Ruf ging hinaus unter die Völker wegen deiner Schönheit,
+denn sie war vollkommen
+durch meine Pracht, die ich auf dich gelegt hatte“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Vers 8: „Den Mantel über jemanden breiten“ war ein Zeichen dafür, dass man jemanden heiraten und beschützen wollte (vgl. Rut 3,9). Gott geht einen Bund ein, eine feste Bindung voller Treue. Gemeint ist der Bund am Sinai.
+> Vers 9–13: Gott tut alles, was die Eltern versäumt haben: waschen, salben, kleiden, schmücken, ernähren. Aus dem verachteten Findelkind wird eine Königin. Das erinnert an die große Zeit Jerusalems unter David und Salomo.
+> Vers 14: Die Schönheit kam nicht von Jerusalem selbst, sondern „durch meine Pracht“. Alles war Geschenk.
+
+---
+
+### Die Untreue (Vers 15–22)
+
+<sup>15</sup>Aber du hast auf deine Schönheit vertraut
+und hast wegen deines Rufes Hurerei getrieben
+und deine Hurerei über jeden ausgegossen, der vorüberging.
+Ihm gehörte sie.
+<sup>16</sup>Du nahmst einige von deinen Kleidern
+und machtest dir bunt geschmückte Höhenheiligtümer
+und triebst darauf Hurerei.
+So etwas sollte nicht geschehen und soll nicht sein.
+<sup>17</sup>Du nahmst auch deinen schönen Schmuck
+aus meinem Gold und aus meinem Silber, den ich dir gegeben hatte,
+und machtest dir Bilder von Männern
+und triebst Hurerei mit ihnen.
+<sup>18</sup>Du nahmst deine bunt gestickten Kleider und bedecktest sie damit,
+und mein Öl und meinen Weihrauch setztest du ihnen vor.
+<sup>19</sup>Auch mein Brot, das ich dir gab,
+Feinmehl, Öl und Honig, womit ich dich ernährte,
+das hast du ihnen als lieblichen Duft vorgesetzt.
+Und so geschah es“, spricht der Herr, der HERR.
+<sup>20</sup>„Außerdem hast du deine Söhne und deine Töchter genommen,
+die du mir geboren hattest,
+und hast sie ihnen geopfert, damit sie gefressen werden.
+War deine Hurerei denn eine Kleinigkeit,
+<sup>21</sup>dass du meine Kinder geschlachtet
+und sie hingegeben hast,
+indem du sie für sie durch das Feuer gehen ließest?
+<sup>22</sup>Bei all deinen Gräueln und deiner Hurerei
+hast du nicht an die Tage deiner Jugend gedacht,
+als du nackt und bloß warst
+und in deinem Blut strampeltest.
+
+> **Was bedeutet das?**
+> Jerusalem nimmt Gottes Geschenke, Kleider, Gold, Silber, Mehl, Öl und Honig, und gibt sie den Götzen. Das ist mit „Hurerei“ gemeint: Untreue gegenüber Gott, der alles geschenkt hat. Das Bild beschreibt die Beziehung zwischen Gott und seinem Volk. Es ist keine Aussage über Frauen und keine Abwertung von Menschen in der Prostitution.
+> Vers 20–21: Das Schlimmste: Kinderopfer. In Juda wurden zeitweise wirklich Kinder für fremde Götter verbrannt (vgl. 2. Könige 16,3; 21,6; Jeremia 7,31). Gott nennt sie „meine Kinder“. Er steht auf der Seite der Kinder.
+> Vers 22: Jerusalem hat vergessen, woher es kommt. Undankbarkeit und Vergessen sind oft der Anfang davon, sich von Gott zu entfernen.
+
+---
+
+### Bündnisse mit fremden Mächten (Vers 23–34)
+
+<sup>23</sup>Und nach all deiner Bosheit geschah es
+– wehe, wehe dir!, spricht der Herr, der HERR –,
+<sup>24</sup>dass du dir einen gewölbten Raum gebaut
+und dir auf jedem Platz eine Anhöhe gemacht hast.
+<sup>25</sup>An jedem Wegkopf hast du deine Anhöhe gebaut
+und deine Schönheit zu einem Gräuel gemacht.
+Du hast deine Füße für jeden gespreizt, der vorüberging,
+und hast deine Hurerei vermehrt.
+<sup>26</sup>Du hast auch Unzucht getrieben mit den Ägyptern,
+deinen Nachbarn mit dem großen Fleisch,
+und hast deine Hurerei vermehrt, um mich zum Zorn zu reizen.
+<sup>27</sup>Siehe, darum habe ich meine Hand gegen dich ausgestreckt
+und deinen Anteil gekürzt
+und dich der Willkür derer ausgeliefert, die dich hassen,
+den Töchtern der Philister,
+die sich über deinen schamlosen Weg schämen.
+<sup>28</sup>Du hast auch mit den Assyrern Hurerei getrieben,
+weil du nicht satt werden konntest.
+Ja, du hast mit ihnen Hurerei getrieben
+und wurdest doch nicht satt.
+<sup>29</sup>Außerdem hast du deine Hurerei vermehrt
+mit dem Land der Händler, mit Chaldäa,
+und wurdest auch davon nicht satt.
+<sup>30</sup>Wie schwach ist dein Herz“, spricht der Herr, der HERR,
+„dass du all das tust,
+das Werk einer schamlosen Hure,
+<sup>31</sup>indem du deinen gewölbten Raum an jedem Wegkopf baust
+und deine Anhöhe auf jedem Platz machst.
+Und du warst nicht wie eine Hure,
+denn du verschmähst den Lohn.
+<sup>32</sup>Du ehebrecherische Frau,
+die Fremde nimmt statt ihres Mannes!
+<sup>33</sup>Allen Huren gibt man Geschenke.
+Du aber gibst deine Geschenke allen deinen Liebhabern
+und bestichst sie,
+damit sie von allen Seiten zu dir kommen zu deiner Hurerei.
+<sup>34</sup>Bei dir ist es in deiner Hurerei anders als bei anderen Frauen:
+Niemand läuft dir nach, um Hurerei zu treiben.
+Und während du Lohn gibst und dir kein Lohn gegeben wird,
+darum bist du anders.“‘
+
+> **Was bedeutet das?**
+> Jetzt geht es um Politik: Jerusalem hat Bündnisse mit Ägypten, Assyrien und Babylon (Chaldäa) geschlossen. Statt Gott zu vertrauen, suchte es Schutz bei den Großmächten und übernahm dabei auch deren Götter.
+> Vers 26: „Mit großem Fleisch“ – so steht es wörtlich im WEB („great of flesh“). Es ist ein derbes Bild für die Anziehungskraft der Großmacht Ägypten.
+> Vers 27: Sogar die Philister, Israels alte Feinde, schämen sich über Jerusalems Verhalten.
+> Vers 31–34: Ein bitteres Paradox: Jerusalem bekommt nicht einmal etwas für seine Untreue, sondern bezahlt selbst dafür. Gemeint sind die hohen Tributzahlungen an fremde Könige (vgl. 2. Könige 16,8). Jerusalem verschenkt seinen Reichtum an die, die es am Ende ausbeuten.
+
+---
+
+### Das Gericht (Vers 35–43)
+
+<sup>35</sup>Darum, du Hure, höre das Wort des HERRN!
+<sup>36</sup>‚So spricht der Herr, der HERR:
+„Weil deine Unreinheit ausgegossen
+und deine Blöße aufgedeckt wurde
+durch deine Hurerei mit deinen Liebhabern,
+und wegen all der Götzen deiner Gräuel
+und wegen des Blutes deiner Kinder, das du ihnen gegeben hast,
+<sup>37</sup>darum, siehe, werde ich alle deine Liebhaber versammeln,
+mit denen du Lust hattest,
+und alle, die du geliebt hast,
+mit allen, die du gehasst hast.
+Ich werde sie von allen Seiten gegen dich versammeln
+und deine Blöße vor ihnen aufdecken,
+damit sie deine ganze Blöße sehen.
+<sup>38</sup>Ich werde dich richten,
+wie man Frauen richtet, die die Ehe brechen und Blut vergießen,
+und ich werde das Blut des Zorns und der Eifersucht über dich bringen.
+<sup>39</sup>Ich werde dich auch in ihre Hand geben,
+und sie werden deinen gewölbten Raum niederreißen
+und deine Anhöhen zerbrechen.
+Sie werden dir deine Kleider ausziehen
+und deinen schönen Schmuck nehmen.
+Sie werden dich nackt und bloß liegen lassen.
+<sup>40</sup>Sie werden auch eine Versammlung gegen dich heraufbringen,
+und sie werden dich mit Steinen steinigen
+und dich mit ihren Schwertern durchbohren.
+<sup>41</sup>Sie werden deine Häuser mit Feuer verbrennen
+und vor den Augen vieler Frauen Gericht an dir halten.
+Ich werde deiner Hurerei ein Ende machen,
+und du wirst auch keinen Lohn mehr geben.
+<sup>42</sup>So werde ich meinen Grimm an dir stillen,
+und meine Eifersucht wird von dir weichen.
+Ich werde ruhig sein
+und nicht mehr zürnen.
+<sup>43</sup>Weil du nicht an die Tage deiner Jugend gedacht hast,
+sondern gegen mich gewütet hast in all diesem,
+darum, siehe, bringe auch ich deinen Weg auf deinen Kopf“,
+spricht der Herr, der HERR,
+„und du sollst diese Schandtat nicht mehr begehen
+zusätzlich zu all deinen Gräueln.
+
+> **Was bedeutet das?**
+> Diese Verse sind besonders schwer. Sie beschreiben in Bildern, was Jerusalem 586 vor Christus wirklich geschah: Die früheren „Liebhaber“, also die Großmächte, wenden sich gegen die Stadt. Die Babylonier plündern sie, reißen die Mauern ein, verbrennen die Häuser und töten viele Menschen (2. Könige 25,8–10).
+> Hesekiel benutzt dafür die Sprache der Strafen, die damals für Ehebruch und Mord galten. Das ist ein Bild aus einer patriarchalen Welt, und die Gewalt darin ist erschreckend.
+> Sehr wichtig: Dieser Text ist keine Anleitung und keine Erlaubnis. Er rechtfertigt niemals, dass ein Mensch einen anderen schlägt, bloßstellt, demütigt oder tötet, auch nicht in der Ehe und auch nicht bei Untreue. Gewalt ist Unrecht. Jesus hat sich ausdrücklich vor eine Frau gestellt, die gesteinigt werden sollte (Johannes 8,1–11).
+> Wenn du Gewalt in deiner Beziehung oder Familie erlebst, bist du nicht schuld, und du bist nicht allein. Hilfe gibt es kostenlos, anonym und rund um die Uhr: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00, Telefonseelsorge 0800 111 0 111. Im Notfall: Polizei 110.
+
+---
+
+### Wie die Mutter, so die Tochter (Vers 44–52)
+
+<sup>44</sup>Siehe, jeder, der Sprichwörter gebraucht,
+wird dieses Sprichwort über dich sagen:
+‚Wie die Mutter, so die Tochter.‘
+<sup>45</sup>Du bist die Tochter deiner Mutter,
+die ihren Mann und ihre Kinder verabscheute,
+und du bist die Schwester deiner Schwestern,
+die ihre Männer und ihre Kinder verabscheuten.
+Eure Mutter war eine Hetiterin
+und euer Vater ein Amoriter.
+<sup>46</sup>Deine ältere Schwester ist Samaria,
+die zu deiner Linken wohnt, sie und ihre Töchter.
+Und deine jüngere Schwester, die zu deiner Rechten wohnt,
+ist Sodom mit ihren Töchtern.
+<sup>47</sup>Doch du bist nicht nur in ihren Wegen gegangen
+und hast nach ihren Gräueln getan,
+sondern bald warst du verdorbener als sie
+in all deinen Wegen.
+<sup>48</sup>So wahr ich lebe“, spricht der Herr, der HERR,
+„deine Schwester Sodom hat nicht so getan, sie und ihre Töchter,
+wie du getan hast, du und deine Töchter.
+<sup>49</sup>Siehe, das war die Schuld deiner Schwester Sodom:
+Hochmut, Überfluss an Brot und sorglose Ruhe
+hatten sie und ihre Töchter.
+Aber die Hand des Armen und Bedürftigen hat sie nicht gestärkt.
+<sup>50</sup>Sie waren hochmütig
+und taten Gräuel vor mir.
+Darum habe ich sie beseitigt, als ich es sah.
+<sup>51</sup>Samaria hat nicht die Hälfte deiner Sünden begangen.
+Du aber hast deine Gräuel mehr vermehrt als sie
+und hast deine Schwestern gerecht erscheinen lassen
+durch all deine Gräuel, die du getan hast.
+<sup>52</sup>Trage auch du deine eigene Schande,
+weil du für deine Schwestern ein Urteil gefällt hast.
+Durch deine Sünden, mit denen du abscheulicher gehandelt hast als sie,
+sind sie gerechter als du.
+Ja, schäme auch du dich und trage deine Schande,
+weil du deine Schwestern gerecht erscheinen ließest.
+
+> **Was bedeutet das?**
+> Jerusalem hielt sich für besser als Samaria (das untergegangene Nordreich) und Sodom (die Stadt, die Gott zerstört hatte, 1. Mose 19). Aber Gott sagt: Du bist schlimmer als beide!
+> Vers 49: Ein wichtiger Vers! Hier sagt die Bibel selbst, was die Sünde Sodoms war: Hochmut, Überfluss, Sorglosigkeit und dass sie den Armen und Bedürftigen nicht geholfen hat. Wer reich ist und satt und dabei die Armen vergisst, steht in Gefahr, wie Sodom zu werden.
+> Vers 52: „Du hast über deine Schwestern geurteilt.“ Wer schnell andere verurteilt, sollte zuerst auf sich selbst schauen (vgl. Matthäus 7,3–5).
+
+---
+
+### Alle werden wiederhergestellt (Vers 53–58)
+
+<sup>53</sup>Ich werde ihr Geschick wenden,
+das Geschick Sodoms und ihrer Töchter
+und das Geschick Samarias und ihrer Töchter,
+und das Geschick deiner Gefangenen mitten unter ihnen,
+<sup>54</sup>damit du deine eigene Schande trägst
+und dich schämst wegen allem, was du getan hast,
+indem du ihnen ein Trost bist.
+<sup>55</sup>Deine Schwestern, Sodom und ihre Töchter,
+werden in ihren früheren Stand zurückkehren,
+und Samaria und ihre Töchter
+werden in ihren früheren Stand zurückkehren,
+und du und deine Töchter
+werdet in euren früheren Stand zurückkehren.
+<sup>56</sup>Denn deine Schwester Sodom wurde von deinem Mund nicht erwähnt
+am Tag deines Hochmuts,
+<sup>57</sup>bevor deine Bosheit aufgedeckt wurde,
+wie zur Zeit der Schmähung durch die Töchter Syriens
+und all derer rings um sie,
+der Töchter der Philister,
+die dich ringsum verachten.
+<sup>58</sup>Du hast deine Schandtat und deine Gräuel getragen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Eine erstaunliche Verheißung: Gott wird nicht nur Jerusalem wiederherstellen, sondern auch Samaria und sogar Sodom! Gottes Erbarmen ist größer, als Jerusalem es sich vorstellen konnte.
+> Vers 54: Jerusalem wird für die anderen „ein Trost“ sein. Das heißt: Wenn sogar Jerusalem nach all dem Gnade findet, dann gibt es auch für die anderen Hoffnung.
+> Vers 56: In seinem Hochmut wollte Jerusalem den Namen Sodom nicht einmal in den Mund nehmen. Es hat auf die anderen herabgesehen.
+> Vers 57: Das WEB hat hier „Syria“ (Syrien, damals Aram). Manche hebräische Handschriften haben „Edom“; die beiden Wörter sehen im Hebräischen sehr ähnlich aus.
+
+---
+
+### Ein ewiger Bund (Vers 59–63)
+
+<sup>59</sup>Denn so spricht der Herr, der HERR:
+„Ich werde auch mit dir tun, wie du getan hast,
+die du den Eid verachtet hast, indem du den Bund gebrochen hast.
+<sup>60</sup>Dennoch werde ich an meinen Bund denken,
+den ich mit dir in den Tagen deiner Jugend geschlossen habe,
+und ich werde einen ewigen Bund mit dir aufrichten.
+<sup>61</sup>Dann wirst du an deine Wege denken und dich schämen,
+wenn du deine Schwestern aufnimmst,
+deine älteren und deine jüngeren.
+Und ich werde sie dir zu Töchtern geben,
+aber nicht aufgrund deines Bundes.
+<sup>62</sup>Ich werde meinen Bund mit dir aufrichten.
+Dann wirst du erkennen, dass ich der HERR bin,
+<sup>63</sup>damit du daran denkst und beschämt bist
+und deinen Mund nie mehr öffnest vor lauter Scham,
+wenn ich dir alles vergeben habe, was du getan hast“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Das ist das große „Dennoch“ Gottes! Jerusalem hat den Bund gebrochen. Aber Gott vergisst seinen Bund nicht. Er schließt sogar einen „ewigen Bund“, der nicht mehr zerbricht.
+> Vers 60: Jerusalem hat die „Tage seiner Jugend“ vergessen (Vers 22 und 43). Aber Gott erinnert sich daran. Gottes Treue ist stärker als die Untreue der Menschen (vgl. 2. Timotheus 2,13).
+> Vers 63: Am Ende steht Vergebung. Die Scham, von der hier die Rede ist, ist keine zerstörerische Scham. Sie ist das Staunen darüber, so viel Gnade zu bekommen, obwohl man sie nicht verdient hat. Man ist still vor Dankbarkeit.
+> Christen sehen hier eine Linie zum „neuen Bund“ (Jeremia 31,31–34; Lukas 22,20). Für Juden ist es Gottes bleibende Treue zu Israel.
+
+## Hesekiel – Kapitel 17
+#### Zwei Adler und ein Weinstock
+
+---
+
+### Das Rätsel (Vers 1–10)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, gib dem Haus Israel ein Rätsel auf
+und erzähle ihm ein Gleichnis
+<sup>3</sup>und sag:
+‚So spricht der Herr, der HERR:
+„Ein großer Adler mit großen Flügeln und langen Schwingen,
+voller Federn in vielen Farben,
+kam zum Libanon
+und nahm den Wipfel der Zeder.
+<sup>4</sup>Er brach die oberste ihrer jungen Triebe ab
+und brachte ihn in ein Land des Handels.
+Er setzte ihn in eine Stadt von Händlern.
+<sup>5</sup>Er nahm auch etwas vom Samen des Landes
+und pflanzte ihn in fruchtbaren Boden.
+Er setzte ihn an viele Wasser.
+Er setzte ihn wie eine Weide.
+<sup>6</sup>Er wuchs und wurde ein ausladender Weinstock von niedrigem Wuchs,
+dessen Ranken sich zu ihm hinwandten,
+und seine Wurzeln waren unter ihm.
+So wurde er ein Weinstock,
+trieb Ranken und ließ Zweige sprießen.
+<sup>7</sup>Es gab noch einen anderen großen Adler
+mit großen Flügeln und vielen Federn.
+Und siehe, dieser Weinstock streckte seine Wurzeln zu ihm hin
+und trieb seine Ranken zu ihm hin,
+weg von dem Beet, in das er gepflanzt war,
+damit jener ihn bewässere.
+<sup>8</sup>Er war doch in guten Boden an viele Wasser gepflanzt,
+damit er Ranken treibe und Frucht bringe
+und ein prächtiger Weinstock werde.“‘
+<sup>9</sup>Sag:
+‚So spricht der Herr, der HERR:
+„Wird er gedeihen?
+Wird jener nicht seine Wurzeln ausreißen
+und seine Frucht abschneiden, sodass er verdorrt,
+sodass alle seine frisch sprießenden Blätter verdorren?
+Man wird ihn nicht mit starkem Arm oder viel Volk
+von seinen Wurzeln her wieder aufrichten können.
+<sup>10</sup>Ja, siehe, er ist gepflanzt – wird er gedeihen?
+Wird er nicht völlig verdorren,
+wenn der Ostwind ihn berührt?
+Auf dem Beet, wo er gewachsen ist, wird er verdorren.“‘“
+
+> **Was bedeutet das?**
+> Hesekiel erzählt ein Rätsel in Bildern. Die Auflösung kommt ab Vers 11. Kurz gesagt:
+> Der erste große Adler ist Nebukadnezar, der König von Babylon.
+> Der Wipfel der Zeder ist König Jojachin, den er 597 vor Christus nach Babylon (das „Land des Handels“) brachte.
+> Der Same, den er pflanzt, ist Zedekia, den Nebukadnezar als König in Jerusalem einsetzte. Er ist ein „niedriger“ Weinstock, also ein abhängiger König, aber er hätte gut leben können.
+> Der zweite Adler ist der Pharao von Ägypten. Zedekia streckt seine „Wurzeln“ nach Ägypten aus und hofft auf Hilfe gegen Babylon.
+> Vers 10: Der „Ostwind“ ist ein heißer Wüstenwind, der Pflanzen verdorren lässt. Er steht für Babylon, das aus dem Osten kommt.
+
+---
+
+### Die Deutung: Zedekia bricht den Eid (Vers 11–21)
+
+<sup>11</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>12</sup>„Sag doch zum widerspenstigen Haus:
+‚Wisst ihr nicht, was das bedeutet?‘
+Sag ihnen:
+‚Siehe, der König von Babylon kam nach Jerusalem
+und nahm seinen König und seine Fürsten
+und brachte sie zu sich nach Babylon.
+<sup>13</sup>Er nahm einen aus der königlichen Familie
+und schloss einen Bund mit ihm.
+Er nahm ihm auch einen Eid ab
+und nahm die Mächtigen des Landes weg,
+<sup>14</sup>damit das Königreich niedrig bliebe
+und sich nicht erhebe,
+sondern bestehen bleibe, indem es seinen Bund hält.
+<sup>15</sup>Aber er lehnte sich gegen ihn auf,
+indem er seine Gesandten nach Ägypten schickte,
+damit man ihm Pferde und viel Volk gebe.
+Wird er Erfolg haben?
+Wird der entkommen, der so etwas tut?
+Wird er den Bund brechen und trotzdem entkommen?
+<sup>16</sup>So wahr ich lebe‘, spricht der Herr, der HERR,
+‚gewiss, an dem Ort, wo der König wohnt, der ihn zum König gemacht hat,
+dessen Eid er verachtet und dessen Bund er gebrochen hat,
+bei ihm, mitten in Babylon, wird er sterben.
+<sup>17</sup>Der Pharao mit seinem mächtigen Heer und seiner großen Schar
+wird ihm im Krieg nicht helfen,
+wenn man Wälle aufschüttet und Belagerungstürme baut,
+um viele Menschen auszurotten.
+<sup>18</sup>Denn er hat den Eid verachtet, indem er den Bund brach.
+Und siehe, er hatte seine Hand darauf gegeben
+und hat doch all das getan.
+Er wird nicht entkommen.‘
+<sup>19</sup>Darum spricht der Herr, der HERR:
+‚So wahr ich lebe,
+ich werde meinen Eid, den er verachtet hat,
+und meinen Bund, den er gebrochen hat,
+gewiss auf seinen eigenen Kopf bringen.
+<sup>20</sup>Ich werde mein Netz über ihn ausbreiten,
+und er wird in meiner Schlinge gefangen werden.
+Ich werde ihn nach Babylon bringen
+und dort mit ihm ins Gericht gehen
+wegen seiner Untreue, die er gegen mich begangen hat.
+<sup>21</sup>Alle seine Flüchtlinge in all seinen Truppen werden durch das Schwert fallen,
+und die übrig bleiben, werden in alle Winde zerstreut werden.
+Dann werdet ihr erkennen, dass ich, der HERR, es gesagt habe.‘“
+
+> **Was bedeutet das?**
+> Zedekia hatte Nebukadnezar einen Treueeid geschworen, und zwar im Namen Gottes (vgl. 2. Chronik 36,13). Dann brach er diesen Eid und verbündete sich mit Ägypten.
+> Vers 19: Gott nennt den Eid „meinen Eid“ und den Bund „meinen Bund“. Wer im Namen Gottes etwas verspricht und es bricht, beleidigt Gott selbst. Ein Versprechen ist auch dann wichtig, wenn man es einem Gegner gegeben hat.
+> Alles kam so: Ägypten half nicht wirklich (vgl. Jeremia 37,5–8), Jerusalem wurde erobert, und Zedekia starb gefangen in Babylon (vgl. Hesekiel 12,13).
+> Für heute: Ehrlichkeit und Zuverlässigkeit sind wichtig. „Euer Ja sei ein Ja, euer Nein ein Nein“ (Matthäus 5,37).
+
+---
+
+### Gott pflanzt einen neuen Zweig (Vers 22–24)
+
+<sup>22</sup>So spricht der Herr, der HERR:
+„Ich selbst werde etwas vom hohen Wipfel der Zeder nehmen
+und es einpflanzen.
+Von den obersten ihrer jungen Triebe
+werde ich einen zarten abbrechen
+und ihn auf einen hohen und erhabenen Berg pflanzen.
+<sup>23</sup>Auf den hohen Berg Israels werde ich ihn pflanzen,
+und er wird Zweige treiben und Frucht tragen
+und eine prächtige Zeder werden.
+Vögel aller Art werden im Schatten ihrer Zweige wohnen.
+<sup>24</sup>Alle Bäume des Feldes werden erkennen,
+dass ich, der HERR, den hohen Baum erniedrigt
+und den niedrigen Baum erhöht habe,
+den grünen Baum verdorren
+und den dürren Baum blühen ließ.
+Ich, der HERR, habe es gesagt und habe es getan.“
+
+> **Was bedeutet das?**
+> Nach dem Gericht kommt die Hoffnung. Jetzt handelt nicht mehr ein Adler, sondern Gott selbst. Er nimmt einen zarten Zweig vom Königshaus Davids und pflanzt ihn neu auf dem Berg Zion. Daraus wird eine große Zeder, in der alle Vögel Schutz finden.
+> Juden und Christen lesen dies als Verheißung eines kommenden Königs aus der Familie Davids, des Messias (vgl. Jesaja 11,1; Jeremia 23,5).
+> Jesus hat ein ähnliches Bild gebraucht: Das Reich Gottes ist wie ein winziges Senfkorn, das zu einem großen Baum wird, sodass die Vögel in seinen Zweigen wohnen (Markus 4,30–32).
+> Vers 24: Gott erniedrigt die Hohen und erhöht die Niedrigen. Das ist ein Grundthema der Bibel (vgl. 1. Samuel 2,7–8; Lukas 1,52).
