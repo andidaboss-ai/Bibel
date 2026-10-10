@@ -107871,3 +107871,496 @@ wird der Zorn über das Verwüstete ausgegossen werden.“
 > Das WEB übersetzt in Vers 25–26 „the Anointed One“ (der Gesalbte) mit großem Anfangsbuchstaben, wie ein Name. Im Hebräischen steht kein Artikel; man kann auch „ein Gesalbter“ übersetzen.
 > Jesus spricht vom „Gräuel der Verwüstung, von dem der Prophet Daniel geredet hat“ (Matthäus 24,15).
 > Die wichtige Botschaft für alle: Gott hat einen Plan für die Geschichte. Die Not hat ein Ende. Am Ziel stehen Vergebung und „ewige Gerechtigkeit“ (Vers 24).
+
+## Daniel – Kapitel 10
+#### Der Mann in Leinen
+
+---
+
+### Daniel trauert drei Wochen (Vers 1–3)
+
+<sup>1</sup>Im dritten Jahr des Kyrus, des Königs von Persien,
+wurde Daniel, der Beltschazar genannt wurde,
+eine Botschaft offenbart.
+Die Botschaft war wahr
+und handelte von einem großen Krieg.
+Er verstand die Botschaft
+und hatte Einsicht in die Vision.
+<sup>2</sup>In jenen Tagen trauerte ich, Daniel,
+drei volle Wochen lang.
+<sup>3</sup>Ich aß keine leckere Speise.
+Kein Fleisch und kein Wein kam in meinen Mund.
+Ich salbte mich überhaupt nicht,
+bis drei volle Wochen vorüber waren.
+
+> **Was bedeutet das?**
+> Die Kapitel 10–12 gehören zusammen. Sie sind Daniels letzte und längste Vision.
+> Das dritte Jahr des Kyrus ist etwa 536 vor Christus. Viele Juden waren inzwischen nach Jerusalem zurückgekehrt, aber Daniel, inzwischen sehr alt, blieb in Babylon.
+> Warum trauert Daniel? Der Text sagt es nicht genau. Vielleicht wegen der Schwierigkeiten beim Wiederaufbau in Jerusalem (vgl. Esra 4). Er fastet teilweise: keine leckeren Speisen, kein Fleisch, kein Wein, keine Körperpflege mit Öl.
+
+---
+
+### Die Vision am Tigris (Vers 4–9)
+
+<sup>4</sup>Am vierundzwanzigsten Tag des ersten Monats,
+als ich am Ufer des großen Flusses war, das ist der Hiddekel,
+<sup>5</sup>hob ich meine Augen auf und schaute,
+und siehe, da war ein Mann, in Leinen gekleidet,
+und um seine Hüften war ein Gürtel aus reinem Gold von Ufas.
+<sup>6</sup>Sein Körper war wie Türkis,
+sein Gesicht sah aus wie ein Blitz,
+und seine Augen wie brennende Fackeln.
+Seine Arme und seine Füße waren wie polierte Bronze.
+Und der Klang seiner Worte war wie der Lärm einer Menge.
+<sup>7</sup>Ich, Daniel, sah die Vision allein.
+Die Männer, die bei mir waren, sahen die Vision nicht,
+aber ein großes Zittern überfiel sie,
+und sie flohen, um sich zu verstecken.
+<sup>8</sup>So blieb ich allein zurück
+und sah diese große Vision.
+Keine Kraft blieb in mir,
+denn mein Gesicht wurde totenbleich,
+und ich behielt keine Kraft.
+<sup>9</sup>Doch ich hörte den Klang seiner Worte.
+Als ich den Klang seiner Worte hörte,
+fiel ich in einen tiefen Schlaf auf mein Gesicht,
+mit dem Gesicht zur Erde.
+
+> **Was bedeutet das?**
+> Hiddekel ist der hebräische Name für den Tigris.
+> Daniel sieht einen strahlenden himmlischen Mann in Leinen, mit Gold gegürtet, mit Augen wie Feuer und Armen wie Bronze.
+> Die Beschreibung ist ganz ähnlich wie bei der Erscheinung des auferstandenen Christus in Offenbarung 1,13–15. Wer der Mann bei Daniel ist, wird nicht gesagt; viele denken an einen hohen Engel, vielleicht Gabriel.
+> Vers 7: Die Begleiter sehen nichts, aber sie spüren etwas und fliehen. Ähnlich ging es den Begleitern von Paulus vor Damaskus (Apostelgeschichte 9,7).
+> Das WEB hat in Vers 6 „beryl“, einen schimmernden Edelstein.
+
+---
+
+### Fürchte dich nicht, du sehr Geliebter (Vers 10–14)
+
+<sup>10</sup>Und siehe, eine Hand berührte mich
+und brachte mich auf meine Knie und auf meine Handflächen.
+<sup>11</sup>Er sagte zu mir:
+„Daniel, du sehr geliebter Mann,
+achte auf die Worte, die ich zu dir rede,
+und stell dich aufrecht hin,
+denn ich bin jetzt zu dir gesandt.“
+Als er dieses Wort zu mir redete,
+stand ich zitternd da.
+<sup>12</sup>Dann sagte er zu mir:
+„Fürchte dich nicht, Daniel!
+Denn vom ersten Tag an,
+als du dein Herz darauf richtetest zu verstehen
+und dich vor deinem Gott zu demütigen,
+wurden deine Worte gehört.
+Und ich bin wegen deiner Worte gekommen.
+<sup>13</sup>Aber der Fürst des Königreichs Persien
+hat mir einundzwanzig Tage lang widerstanden.
+Doch siehe, Michael, einer der obersten Fürsten,
+kam mir zu Hilfe,
+weil ich dort bei den Königen von Persien geblieben war.
+<sup>14</sup>Jetzt bin ich gekommen,
+um dich verstehen zu lassen,
+was deinem Volk in den letzten Tagen geschehen wird.
+Denn die Vision gilt noch für viele Tage.“
+
+> **Was bedeutet das?**
+> Vers 12: Ein großer Trost: Gott hat Daniels Gebet vom ersten Tag an gehört! Die Antwort kam nur später an.
+> Vers 13: Ein geheimnisvoller Blick hinter die Kulissen: Der Bote wurde 21 Tage lang aufgehalten, genau die drei Wochen, die Daniel gefastet hat. Der „Fürst des Königreichs Persien“ ist eine unsichtbare Macht, die hinter dem Perserreich steht. Erst als Michael kam, konnte der Bote weiter.
+> Michael (der Name bedeutet „Wer ist wie Gott?“) ist ein Erzengel. Er wird hier als Beschützer Israels genannt. Im Neuen Testament kommt er im Judasbrief (Vers 9) und in der Offenbarung (12,7) vor.
+> Die Botschaft: Hinter den Ereignissen auf der Erde gibt es eine unsichtbare Wirklichkeit. Wenn eine Gebetserhörung lange dauert, heißt das nicht, dass Gott nicht gehört hat.
+
+---
+
+### Sei stark! (Vers 15–21)
+
+<sup>15</sup>Als er diese Worte zu mir geredet hatte,
+richtete ich mein Gesicht zur Erde
+und war stumm.
+<sup>16</sup>Und siehe, einer, der aussah wie ein Menschensohn,
+berührte meine Lippen.
+Da öffnete ich meinen Mund,
+redete und sagte zu dem, der vor mir stand:
+„Mein Herr, wegen der Vision haben mich Schmerzen überfallen,
+und ich behalte keine Kraft.
+<sup>17</sup>Wie kann denn der Knecht dieses meines Herrn
+mit diesem meinem Herrn reden?
+Denn mir ist sofort keine Kraft mehr geblieben,
+und kein Atem ist mehr in mir.“
+<sup>18</sup>Da berührte mich wieder einer, der aussah wie ein Mensch,
+und stärkte mich.
+<sup>19</sup>Er sagte:
+„Du sehr geliebter Mann, fürchte dich nicht!
+Friede sei mit dir!
+Sei stark, ja, sei stark!“
+Als er mit mir redete, wurde ich gestärkt
+und sagte:
+„Mein Herr soll reden, denn du hast mich gestärkt.“
+<sup>20</sup>Da sagte er:
+„Weißt du, warum ich zu dir gekommen bin?
+Jetzt werde ich zurückkehren,
+um mit dem Fürsten von Persien zu kämpfen.
+Und wenn ich weggehe,
+siehe, dann wird der Fürst von Griechenland kommen.
+<sup>21</sup>Doch ich will dir sagen,
+was im Buch der Wahrheit aufgeschrieben ist.
+Es gibt keinen, der mir gegen diese beisteht,
+außer Michael, eurem Fürsten.
+
+> **Was bedeutet das?**
+> Daniel ist völlig erschöpft. Dreimal wird er berührt und gestärkt: an seinem Körper (Vers 10), an seinen Lippen (Vers 16), und noch einmal (Vers 18).
+> Vers 19: Wunderschöne Worte: „Du sehr Geliebter, fürchte dich nicht! Friede sei mit dir! Sei stark!“ So spricht Gott auch zu uns, wenn wir schwach und erschöpft sind.
+> Vers 20: Die Weltreiche (Persien, Griechenland) haben ihre unsichtbaren „Fürsten“. Der Kampf geht weiter, aber Gott hat alles im Blick: Es steht im „Buch der Wahrheit“ (Vers 21).
+
+## Daniel – Kapitel 11
+#### Die Könige des Nordens und des Südens
+
+---
+
+### Von Persien bis Alexander (Vers 1–4)
+
+<sup>1</sup>Und ich, im ersten Jahr Darius’ des Meders,
+stand ich auf, um ihn zu stärken und zu schützen.
+<sup>2</sup>Nun will ich dir die Wahrheit zeigen.
+Siehe, noch drei Könige werden in Persien aufstehen.
+Der vierte wird viel reicher sein als sie alle.
+Wenn er durch seinen Reichtum stark geworden ist,
+wird er alle gegen das Reich Griechenland aufbieten.
+<sup>3</sup>Dann wird ein mächtiger König aufstehen,
+der mit großer Macht herrschen wird
+und tun wird, was er will.
+<sup>4</sup>Und sobald er aufgestanden ist,
+wird sein Königreich zerbrochen
+und in die vier Winde des Himmels geteilt werden,
+aber nicht an seine Nachkommen
+und nicht mit der Macht, mit der er geherrscht hat.
+Denn sein Königreich wird ausgerissen werden,
+und es wird anderen gehören als diesen.
+
+> **Was bedeutet das?**
+> Kapitel 11 ist das ausführlichste Zukunftsbild in der Bibel. Es beschreibt in verschlüsselter Sprache, aber erstaunlich genau, die Geschichte von etwa 530 bis 165 vor Christus.
+> Vers 2: Die persischen Könige. Der reiche vierte König ist wahrscheinlich Xerxes I., der 480 vor Christus gegen Griechenland zog.
+> Vers 3–4: Der mächtige König ist Alexander der Große. Nach seinem frühen Tod wurde sein Reich unter seinen Generälen aufgeteilt, nicht an seine Söhne.
+> Für Forscher, die das Buch ins 2. Jahrhundert vor Christus datieren, ist Kapitel 11 rückblickende Geschichtsschreibung im Stil einer Prophezeiung. Für Leser, die es ins 6. Jahrhundert datieren, ist es eine genaue Vorhersage. Beide Sichtweisen werden vertreten.
+
+---
+
+### Kriege zwischen Nord und Süd (Vers 5–20)
+
+<sup>5</sup>Der König des Südens wird stark werden.
+Aber einer seiner Fürsten wird stärker werden als er
+und herrschen.
+Seine Herrschaft wird eine große Herrschaft sein.
+<sup>6</sup>Nach einigen Jahren werden sie sich verbünden.
+Die Tochter des Königs des Südens wird zum König des Nordens kommen,
+um einen Vertrag zu schließen.
+Aber sie wird die Kraft ihres Armes nicht behalten.
+Auch er wird nicht bestehen, und auch nicht sein Arm.
+Sondern sie wird preisgegeben werden,
+mit denen, die sie gebracht haben,
+und mit dem, der ihr Vater war,
+und mit dem, der sie in jenen Zeiten gestärkt hat.
+<sup>7</sup>Aber aus einem Spross ihrer Wurzeln
+wird einer an seiner Stelle aufstehen.
+Er wird gegen das Heer ziehen
+und in die Festung des Königs des Nordens eindringen,
+und er wird gegen sie vorgehen und siegen.
+<sup>8</sup>Auch ihre Götter mit ihren gegossenen Bildern
+und mit ihren kostbaren Gefäßen aus Silber und Gold
+wird er als Beute nach Ägypten führen.
+Einige Jahre lang wird er vom König des Nordens ablassen.
+<sup>9</sup>Der wird in das Reich des Königs des Südens kommen,
+aber in sein eigenes Land zurückkehren.
+<sup>10</sup>Seine Söhne werden Krieg führen
+und eine Menge großer Heere versammeln.
+Sie werden kommen und überfluten und hindurchziehen.
+Sie werden zurückkehren und Krieg führen
+bis zu seiner Festung.
+<sup>11</sup>Der König des Südens wird erbittert werden
+und ausziehen und mit ihm kämpfen,
+mit dem König des Nordens.
+Er wird eine große Menge aufstellen,
+und die Menge wird in seine Hand gegeben werden.
+<sup>12</sup>Die Menge wird weggeführt werden,
+und sein Herz wird sich erheben.
+Er wird Zehntausende niederwerfen,
+aber er wird sich nicht durchsetzen.
+<sup>13</sup>Der König des Nordens wird zurückkehren
+und eine Menge aufstellen, größer als die frühere.
+Nach Ablauf der Zeiten, nach Jahren,
+wird er mit einem großen Heer und mit reichem Nachschub kommen.
+<sup>14</sup>In jenen Zeiten werden viele gegen den König des Südens aufstehen.
+Auch Gewalttätige aus deinem Volk werden sich erheben,
+um die Vision zu erfüllen,
+aber sie werden fallen.
+<sup>15</sup>So wird der König des Nordens kommen
+und einen Wall aufschütten
+und eine gut befestigte Stadt einnehmen.
+Die Streitkräfte des Südens werden nicht standhalten,
+auch nicht seine auserlesenen Truppen,
+und es wird keine Kraft zum Widerstehen geben.
+<sup>16</sup>Der aber, der gegen ihn kommt, wird tun, was er will,
+und niemand wird vor ihm bestehen.
+Er wird im herrlichen Land stehen,
+und Verderben wird in seiner Hand sein.
+<sup>17</sup>Er wird sein Gesicht darauf richten,
+mit der Kraft seines ganzen Königreichs zu kommen,
+und gerechte Bedingungen mit ihm.
+Er wird sie ausführen.
+Er wird ihm eine Tochter der Frauen geben,
+um das Königreich zu verderben.
+Aber sie wird nicht bestehen
+und wird nicht zu ihm halten.
+<sup>18</sup>Danach wird er sein Gesicht zu den Inseln wenden
+und viele einnehmen.
+Aber ein Feldherr wird seinem Hohn ein Ende machen.
+Ja, er wird seinen Hohn auf ihn zurückfallen lassen.
+<sup>19</sup>Dann wird er sein Gesicht zu den Festungen seines eigenen Landes wenden.
+Aber er wird straucheln und fallen
+und nicht mehr gefunden werden.
+<sup>20</sup>Dann wird an seiner Stelle einer aufstehen,
+der einen Steuereintreiber durch das Königreich ziehen lässt,
+um dessen Pracht zu erhalten.
+Aber nach wenigen Tagen wird er zugrunde gehen,
+nicht im Zorn und nicht im Kampf.
+
+> **Was bedeutet das?**
+> Nach Alexanders Tod kämpften zwei seiner Nachfolgereiche immer wieder gegeneinander:
+> – der „König des Südens“: die Ptolemäer in Ägypten,
+> – der „König des Nordens“: die Seleukiden in Syrien.
+> Israel lag genau dazwischen, im „herrlichen Land“ (Vers 16), und wurde immer wieder zum Schauplatz ihrer Kriege.
+> Viele Einzelheiten passen zu bekannten Ereignissen, zum Beispiel:
+> Vers 6: Die ägyptische Prinzessin Berenike heiratete um 250 vor Christus den syrischen König Antiochus II. Das Bündnis scheiterte, und sie wurde ermordet.
+> Vers 15–16: Antiochus III. eroberte um 200 vor Christus das Land Israel von den Ägyptern.
+> Vers 17: Antiochus III. gab seine Tochter Kleopatra I. dem ägyptischen König zur Frau, um Einfluss zu gewinnen. Aber sie hielt zu ihrem Mann und zu Ägypten.
+> Vers 18: Ein römischer Feldherr stoppte Antiochus III.
+> Vers 20: Seleukos IV. schickte einen Beamten (Heliodor), um den Tempelschatz in Jerusalem zu holen. Er wurde später ermordet.
+> Vers 14: „Gewalttätige aus deinem Volk“ – auch Menschen aus Israel versuchten, mit Gewalt die Vision zu „erfüllen“, und scheiterten. Gottes Pläne lassen sich nicht mit Gewalt erzwingen.
+
+---
+
+### Der verachtete König (Vers 21–35)
+
+<sup>21</sup>An seiner Stelle wird ein Verachteter aufstehen,
+dem man die königliche Würde nicht gegeben hatte.
+Aber er wird in einer Zeit der Sorglosigkeit kommen
+und das Königreich durch Schmeicheleien erlangen.
+<sup>22</sup>Die überflutenden Streitkräfte werden vor ihm überflutet
+und zerbrochen werden,
+ja, auch der Fürst des Bundes.
+<sup>23</sup>Nach dem Vertrag, der mit ihm geschlossen wurde,
+wird er betrügerisch handeln.
+Denn er wird heraufziehen
+und mit wenig Volk stark werden.
+<sup>24</sup>In einer Zeit der Sorglosigkeit wird er
+in die fettesten Gegenden der Provinz kommen.
+Er wird tun, was seine Väter nicht getan haben
+und auch nicht die Väter seiner Väter.
+Beute, Raub und Besitz wird er unter ihnen verteilen.
+Ja, er wird seine Pläne gegen die Festungen schmieden,
+aber nur für eine Zeit.
+<sup>25</sup>Er wird seine Macht und seinen Mut
+gegen den König des Südens aufbieten,
+mit einem großen Heer.
+Und der König des Südens wird in den Krieg ziehen
+mit einem überaus großen und mächtigen Heer,
+aber er wird nicht bestehen,
+denn man wird Pläne gegen ihn schmieden.
+<sup>26</sup>Ja, die von seinen feinen Speisen essen,
+werden ihn zugrunde richten,
+und sein Heer wird weggeschwemmt werden.
+Viele werden erschlagen fallen.
+<sup>27</sup>Und beide Könige
+– ihr Herz wird darauf aus sein, Böses zu tun –
+werden an einem Tisch Lügen reden.
+Aber es wird nicht gelingen,
+denn das Ende kommt erst zur bestimmten Zeit.
+<sup>28</sup>Dann wird er mit großem Reichtum in sein Land zurückkehren.
+Sein Herz wird gegen den heiligen Bund sein.
+Er wird handeln
+und in sein eigenes Land zurückkehren.
+<sup>29</sup>Zur bestimmten Zeit wird er zurückkehren
+und in den Süden kommen.
+Aber beim späteren Mal wird es nicht so sein wie beim ersten.
+<sup>30</sup>Denn Schiffe von Kittim werden gegen ihn kommen.
+Darum wird er verzagen
+und umkehren
+und gegen den heiligen Bund wüten
+und handeln.
+Ja, er wird umkehren
+und auf die achten, die den heiligen Bund verlassen.
+<sup>31</sup>Streitkräfte von ihm werden das Heiligtum, die Festung, entweihen
+und das tägliche Brandopfer abschaffen.
+Und sie werden den Gräuel aufstellen, der verwüstet.
+<sup>32</sup>Die gegen den Bund freveln,
+wird er durch Schmeicheleien verführen.
+Aber das Volk, das seinen Gott kennt,
+wird stark sein und handeln.
+<sup>33</sup>Die Verständigen im Volk werden viele belehren.
+Doch sie werden fallen durch Schwert und Flamme,
+durch Gefangenschaft und Plünderung,
+viele Tage lang.
+<sup>34</sup>Wenn sie fallen,
+wird ihnen mit einer kleinen Hilfe geholfen werden.
+Aber viele werden sich ihnen mit Heuchelei anschließen.
+<sup>35</sup>Einige von den Verständigen werden fallen,
+um sie zu läutern und zu reinigen und weiß zu machen
+bis zur Zeit des Endes,
+denn es geht noch bis zur bestimmten Zeit.
+
+> **Was bedeutet das?**
+> Jetzt kommt der „verachtete König“, der durch Schmeichelei an die Macht kommt. Fast alle Ausleger sehen darin Antiochus IV. Epiphanes (175–164 vor Christus), das „kleine Horn“ aus Kapitel 7 und 8.
+> Vers 22: Der „Fürst des Bundes“ ist wahrscheinlich der Hohepriester Onias III., der abgesetzt und später ermordet wurde.
+> Vers 30: Die „Schiffe von Kittim“ sind die Römer. Ein römischer Gesandter zwang Antiochus im Jahr 168 vor Christus, Ägypten zu verlassen. Gedemütigt ließ der König seine Wut an Jerusalem aus.
+> Vers 31: Er entweihte den Tempel, schaffte das tägliche Opfer ab und stellte den „Gräuel der Verwüstung“ auf, einen Altar für den Gott Zeus (167 vor Christus).
+> Vers 32: Aber: „Das Volk, das seinen Gott kennt, wird stark sein.“ Viele Juden blieben treu, auch unter Todesgefahr.
+> Vers 33–35: Die „Verständigen“ lehren das Volk, auch wenn sie dafür leiden und sterben. Ihr Leiden ist nicht sinnlos. Die Bibel sagt, es „läutert“ die Gemeinschaft. Das heißt nicht, dass Gott Leiden will, aber es hat in Gottes Augen Bedeutung.
+> Vers 34: „Eine kleine Hilfe“ – viele Ausleger denken an den Aufstand der Makkabäer.
+
+---
+
+### Der König, der sich über alles erhebt (Vers 36–45)
+
+<sup>36</sup>Der König wird tun, was er will.
+Er wird sich erheben und sich groß machen über jeden Gott,
+und er wird gegen den Gott der Götter unerhörte Dinge reden.
+Er wird Erfolg haben, bis der Zorn vollendet ist,
+denn was beschlossen ist, wird geschehen.
+<sup>37</sup>Er wird weder die Götter seiner Väter achten
+noch den Liebling der Frauen
+noch irgendeinen Gott achten,
+denn er wird sich über alles groß machen.
+<sup>38</sup>Stattdessen wird er den Gott der Festungen ehren.
+Einen Gott, den seine Väter nicht kannten,
+wird er ehren mit Gold und Silber,
+mit Edelsteinen und Kostbarkeiten.
+<sup>39</sup>Mit Hilfe eines fremden Gottes
+wird er gegen die stärksten Festungen vorgehen.
+Wer ihn anerkennt, den wird er mit Ehre überhäufen.
+Er wird sie über viele herrschen lassen
+und das Land als Lohn verteilen.
+<sup>40</sup>Zur Zeit des Endes wird der König des Südens mit ihm kämpfen.
+Und der König des Nordens wird wie ein Sturm über ihn kommen,
+mit Streitwagen, mit Reitern und mit vielen Schiffen.
+Er wird in die Länder eindringen,
+sie überfluten und hindurchziehen.
+<sup>41</sup>Er wird auch in das herrliche Land kommen,
+und viele Länder werden gestürzt werden.
+Aber diese werden aus seiner Hand gerettet werden:
+Edom, Moab und die Vornehmsten der Ammoniter.
+<sup>42</sup>Er wird seine Hand auch nach den Ländern ausstrecken,
+und das Land Ägypten wird nicht entkommen.
+<sup>43</sup>Er wird Macht haben über die Schätze an Gold und Silber
+und über alle Kostbarkeiten Ägyptens.
+Die Libyer und die Kuschiter werden ihm folgen.
+<sup>44</sup>Aber Nachrichten aus dem Osten und aus dem Norden
+werden ihn erschrecken.
+Und er wird mit großer Wut ausziehen,
+um viele zu vernichten und auszurotten.
+<sup>45</sup>Er wird die Zelte seines Palastes aufschlagen
+zwischen dem Meer und dem herrlichen heiligen Berg.
+Doch er wird an sein Ende kommen,
+und niemand wird ihm helfen.
+
+> **Was bedeutet das?**
+> Der König wird immer größenwahnsinniger. Er stellt sich über alle Götter, auch über den Gott der Götter. Antiochus IV. nannte sich selbst „Epiphanes“, das heißt „der erschienene Gott“.
+> Vers 37: „Der Liebling der Frauen“ war wahrscheinlich ein Gott, den besonders Frauen verehrten (vielleicht Tammus oder Adonis, vgl. Hesekiel 8,14).
+> Vers 38: Der „Gott der Festungen“ – vielleicht Zeus, oder einfach: Er verehrt nur Macht und Krieg.
+> Vers 43: „Kuschiter“ – das WEB hat „Ethiopians“, gemeint sind die Bewohner von Kusch, südlich von Ägypten.
+> Vers 40–45: Diese Verse passen nicht mehr genau zu dem, was über Antiochus IV. bekannt ist; er starb 164 vor Christus in Persien an einer Krankheit. Darum beziehen viele Ausleger diese Verse auf eine noch kommende Zeit des Endes. Andere sehen darin eine allgemeine Ankündigung seines Untergangs.
+> Die Botschaft ist klar: Auch der mächtigste und grausamste Herrscher wird „an sein Ende kommen, und niemand wird ihm helfen“.
+
+## Daniel – Kapitel 12
+#### Die Zeit des Endes
+
+---
+
+### Die Auferstehung (Vers 1–4)
+
+<sup>1</sup>Zu jener Zeit wird Michael aufstehen,
+der große Fürst, der für die Kinder deines Volkes eintritt.
+Und es wird eine Zeit der Not sein,
+wie es keine gegeben hat, seit es ein Volk gibt, bis zu jener Zeit.
+Aber zu jener Zeit wird dein Volk gerettet werden,
+jeder, der im Buch aufgeschrieben gefunden wird.
+<sup>2</sup>Viele von denen, die im Staub der Erde schlafen,
+werden aufwachen,
+die einen zum ewigen Leben,
+die anderen zur Schande und zu ewiger Abscheu.
+<sup>3</sup>Die Verständigen werden leuchten wie der Glanz der Himmelsfeste.
+Und die viele zur Gerechtigkeit geführt haben,
+werden leuchten wie die Sterne,
+für immer und ewig.
+<sup>4</sup>Du aber, Daniel, verschließe die Worte
+und versiegle das Buch
+bis zur Zeit des Endes.
+Viele werden umherirren,
+und die Erkenntnis wird sich mehren.“
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Texte des Alten Testaments!
+> Vers 1: Es wird eine schwere Zeit der Not kommen. Aber Michael, der Beschützer Israels, steht auf. Und alle, deren Namen „im Buch“ stehen, werden gerettet. Das „Buch des Lebens“ ist ein Bild dafür, dass Gott jeden kennt, der zu ihm gehört (vgl. Offenbarung 20,12).
+> Vers 2: Hier steht zum ersten Mal in der Bibel ganz deutlich: Die Toten werden auferstehen. Der Tod ist ein „Schlaf im Staub“, aus dem man aufwacht, zum ewigen Leben oder zur ewigen Schande.
+> Das war eine große Hoffnung, besonders für die Märtyrer, die für ihren Glauben gestorben waren (Kapitel 11,33–35). Ihr Tod ist nicht das Ende. Gott wird ihnen Gerechtigkeit verschaffen.
+> Der Glaube an die Auferstehung der Toten ist ein Grundbekenntnis im Judentum (im täglichen Gebet heißt es: „Gelobt seist du, der die Toten belebt“) und im Christentum (Jesus spricht in Johannes 5,28–29 ganz ähnlich).
+> Vers 3: Ein wunderschönes Bild: Wer weise ist und andere zum Guten führt, wird leuchten wie die Sterne. Das gilt für alle, die anderen helfen, Gott und das Gute zu finden: Eltern, Lehrer, Freunde.
+
+---
+
+### Wie lange noch? (Vers 5–13)
+
+<sup>5</sup>Da schaute ich, Daniel,
+und siehe, zwei andere standen da,
+einer am Ufer des Flusses auf dieser Seite
+und der andere am Ufer des Flusses auf jener Seite.
+<sup>6</sup>Einer sagte zu dem Mann, der in Leinen gekleidet war
+und über dem Wasser des Flusses stand:
+„Wie lange dauert es bis zum Ende dieser Wunder?“
+<sup>7</sup>Ich hörte den Mann, der in Leinen gekleidet war
+und über dem Wasser des Flusses stand.
+Er erhob seine rechte Hand und seine linke Hand zum Himmel
+und schwor bei dem, der ewig lebt:
+Es dauert eine Zeit, Zeiten und eine halbe Zeit.
+Und wenn die Zerschlagung der Kraft des heiligen Volkes zu Ende ist,
+wird all dies vollendet sein.
+<sup>8</sup>Ich hörte es, aber ich verstand es nicht.
+Da sagte ich:
+„Mein Herr, was wird das Ende von diesen Dingen sein?“
+<sup>9</sup>Er sagte:
+„Geh hin, Daniel,
+denn die Worte sind verschlossen und versiegelt
+bis zur Zeit des Endes.
+<sup>10</sup>Viele werden sich reinigen und weiß machen und läutern.
+Aber die Gottlosen werden gottlos handeln,
+und keiner der Gottlosen wird es verstehen.
+Aber die Verständigen werden es verstehen.
+<sup>11</sup>Von der Zeit an, in der das tägliche Brandopfer abgeschafft
+und der Gräuel, der verwüstet, aufgestellt wird,
+sind es tausendzweihundertneunzig Tage.
+<sup>12</sup>Glückselig ist, wer ausharrt
+und tausenddreihundertfünfunddreißig Tage erreicht.
+<sup>13</sup>Du aber, geh hin bis zum Ende.
+Du wirst ruhen
+und am Ende der Tage zu deinem Erbteil auferstehen.“
+
+> **Was bedeutet das?**
+> Vers 6–7: Die Frage aller Leidenden: „Wie lange noch?“ Die Antwort: „Eine Zeit, Zeiten und eine halbe Zeit“, also etwa dreieinhalb Jahre (vgl. 7,25). Eine begrenzte Zeit. Das Leiden hat ein Ende.
+> Vers 8: Ein ehrlicher Satz: „Ich hörte es, aber ich verstand es nicht.“ Sogar Daniel versteht nicht alles. Auch wir müssen nicht jede Zahl und jedes Bild der Bibel verstehen.
+> Vers 11–12: 1290 Tage und 1335 Tage. Was genau diese Zahlen bedeuten, ist unklar. Sie sind etwas länger als dreieinhalb Jahre. Vielleicht soll gesagt werden: Wenn es länger dauert als erwartet, gebt nicht auf. „Glückselig ist, wer ausharrt.“
+> Wichtig: Immer wieder haben Menschen versucht, mit diesen Zahlen das Datum des Weltendes auszurechnen. Alle diese Berechnungen sind gescheitert. Jesus sagt: „Von jenem Tag aber und jener Stunde weiß niemand“ (Markus 13,32).
+> Vers 13: Der letzte Vers des Buches ist ein persönliches Versprechen an Daniel: „Geh deinen Weg bis zum Ende. Du wirst ruhen, und am Ende der Tage wirst du auferstehen zu deinem Erbteil.“ Ein tröstliches Wort für jeden, der treu gelebt hat.
+
+---
+
+### Rückblick: Was haben wir im Buch Daniel gelesen?
+
+> **Was bedeutet das?**
+> **Treu in der Fremde:** Daniel und seine Freunde lebten verschleppt am Hof von Babylon. Sie lernten die fremde Kultur, arbeiteten treu für die Könige, aber sie gaben ihren Glauben nicht auf (Kapitel 1).
+> **Mut in der Gefahr:** Die drei Freunde gingen lieber in den Feuerofen, als ein Götzenbild anzubeten: „Und auch wenn Gott uns nicht rettet …“ (Kapitel 3). Daniel betete weiter, auch als es verboten war, und kam in die Löwengrube (Kapitel 6). Gott war bei ihnen im Feuer und bei den Löwen.
+> **Gott ist Herr über die Könige:** „Er setzt Könige ab und setzt Könige ein“ (2,21). Der stolze Nebukadnezar wurde gedemütigt und lernte, den König des Himmels zu loben (Kapitel 4). Belsazar wurde „gewogen und zu leicht befunden“ (Kapitel 5).
+> **Die Weltreiche vergehen:** Die Statue aus Metallen (Kapitel 2) und die vier Tiere (Kapitel 7) zeigen: Alle Weltreiche, so mächtig sie sind, gehen vorbei.
+> **Gottes Reich bleibt:** Ein Stein, nicht von Menschenhand, wird zu einem Berg (Kapitel 2). Einer „wie ein Menschensohn“ kommt mit den Wolken und bekommt ein ewiges Reich (Kapitel 7). Jesus nannte sich selbst „Menschensohn“.
+> **Gebet:** Daniel betete dreimal am Tag (Kapitel 6) und bekannte die Schuld seines Volkes als „wir“ (Kapitel 9). Gott hörte seine Gebete vom ersten Tag an (10,12).
+> **Hoffnung über den Tod hinaus:** „Viele, die im Staub schlafen, werden aufwachen“ (12,2). Die treuen Lehrer werden leuchten wie die Sterne.
+> **Vorsicht mit Berechnungen:** Die Zahlen und Bilder in Daniel sind oft schwer zu verstehen. Sie sollen Mut machen, nicht Angst. Niemand kann damit das Ende der Welt ausrechnen.
+> **Für heute:** Daniel zeigt, wie man in einer Welt mit anderen Werten treu bleiben kann: höflich, klug, fleißig, aber fest im Glauben. Und es macht Mut: Keine Macht der Welt hat das letzte Wort. Das hat Gott.
+> **Wie geht es weiter?** Jetzt kommen die zwölf „kleinen Propheten“. Sie heißen „klein“, weil ihre Bücher kürzer sind, nicht weil sie weniger wichtig wären. Der erste ist Hosea. Seine Ehe mit einer untreuen Frau wird zum Bild für Gottes Liebe zu seinem untreuen Volk: eine Liebe, die nicht aufgibt.
