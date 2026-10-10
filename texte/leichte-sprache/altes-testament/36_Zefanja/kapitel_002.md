@@ -46,7 +46,7 @@ und ihr Geschick wenden.
 
 > **Was bedeutet das?**
 > Jetzt geht der Blick auf die Nachbarvölker in alle vier Himmelsrichtungen: Westen (Philister), Osten (Moab und Ammon), Süden (Kusch) und Norden (Assyrien).
-> Vers 4: Im Hebräischen sind das Wortspiele: „Gaza“ (Asa) klingt wie „verlassen“ (asuwa), „Ekron“ klingt wie „entwurzelt“ (te’aker).
+> Vers 4: Im Hebräischen sind das Wortspiele: „Gaza“ klingt wie das Wort für „verlassen“, und „Ekron“ klingt wie das Wort für „entwurzelt“.
 > Vers 5: Die Philister wohnten an der Mittelmeerküste. Sie stammten ursprünglich wahrscheinlich aus dem Gebiet der Ägäis, vielleicht von Kreta. Darum werden sie hier „Kreter“ genannt (WEB: „Cherethites“).
 > Vers 7: Der Rest von Juda wird dort einmal in Frieden leben. Gott wird „ihr Geschick wenden“, also alles wieder gut machen.
 
