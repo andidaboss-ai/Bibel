@@ -102446,3 +102446,406 @@ Dann werden sie erkennen, dass ich der HERR bin.“
 > **Was bedeutet das?**
 > Seit seiner Berufung war Hesekiel weitgehend stumm (3,26). Er durfte nur reden, wenn Gott ihm etwas zu sagen gab. Jetzt kündigt Gott an: Wenn ein Flüchtling die Nachricht von der Zerstörung Jerusalems bringt, wird Hesekiels Mund geöffnet. Das geschieht in Kapitel 33,21–22.
 > Hier endet der erste große Teil des Buches (Kapitel 1–24), die Gerichtsworte über Jerusalem. Jetzt folgen Worte über die Nachbarvölker (Kapitel 25–32). Und danach, ab Kapitel 33, beginnt die Botschaft der Hoffnung.
+
+## Hesekiel – Kapitel 25
+#### Worte gegen die Nachbarvölker
+
+---
+
+### Gegen Ammon (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht gegen die Ammoniter
+und weissage gegen sie.
+<sup>3</sup>Sag zu den Ammonitern:
+‚Hört das Wort des Herrn, des HERRN!
+So spricht der Herr, der HERR:
+„Weil du ‚Haha!‘ gerufen hast über mein Heiligtum, als es entweiht wurde,
+und über das Land Israel, als es verwüstet wurde,
+und über das Haus Juda, als sie in die Gefangenschaft zogen,
+<sup>4</sup>darum, siehe, gebe ich dich den Söhnen des Ostens zum Besitz.
+Sie werden ihre Zeltlager in dir aufschlagen
+und ihre Wohnungen in dir machen.
+Sie werden deine Früchte essen
+und deine Milch trinken.
+<sup>5</sup>Ich werde Rabba zu einer Weide für Kamele machen
+und das Land der Ammoniter zu einem Lagerplatz für Schafe.
+Dann werdet ihr erkennen, dass ich der HERR bin.“
+<sup>6</sup>Denn so spricht der Herr, der HERR:
+„Weil du in die Hände geklatscht
+und mit den Füßen gestampft hast
+und dich mit aller Verachtung deiner Seele
+über das Land Israel gefreut hast,
+<sup>7</sup>darum, siehe, habe ich meine Hand gegen dich ausgestreckt
+und werde dich den Völkern zur Beute geben.
+Ich werde dich aus den Völkern ausrotten
+und dich aus den Ländern verschwinden lassen.
+Ich werde dich vernichten.
+Dann wirst du erkennen, dass ich der HERR bin.“
+
+> **Was bedeutet das?**
+> Hier beginnt der zweite Teil des Buches: Worte über die Nachbarvölker (Kapitel 25–32).
+> Die Ammoniter lebten östlich des Jordan (heute in Jordanien; ihre Hauptstadt Rabba ist das heutige Amman). Als Jerusalem zerstört wurde, freuten sie sich und riefen „Haha!“ Sie klatschten in die Hände.
+> Die Botschaft: Schadenfreude über das Leid anderer ist Unrecht. Gott sieht das. (Vgl. Sprüche 24,17: „Freu dich nicht über den Fall deines Feindes.“)
+> Die „Söhne des Ostens“ sind Nomadenstämme aus der Wüste.
+
+---
+
+### Gegen Moab (Vers 8–11)
+
+<sup>8</sup>So spricht der Herr, der HERR:
+„Weil Moab und Seïr sagen:
+‚Siehe, das Haus Juda ist wie alle anderen Völker‘,
+<sup>9</sup>darum, siehe, werde ich die Flanke Moabs öffnen,
+von den Städten an,
+von seinen Städten an seinen Grenzen,
+der Zierde des Landes:
+Bet-Jeschimot, Baal-Meon und Kirjatajim,
+<sup>10</sup>für die Söhne des Ostens,
+zusammen mit den Ammonitern,
+und ich werde es ihnen zum Besitz geben,
+damit man der Ammoniter unter den Völkern nicht mehr gedenkt.
+<sup>11</sup>Ich werde an Moab Gericht halten.
+Dann werden sie erkennen, dass ich der HERR bin.“
+
+> **Was bedeutet das?**
+> Moab lag östlich vom Toten Meer. Seïr ist ein anderer Name für das Gebirge von Edom.
+> Vers 8: Moab sagt: „Juda ist wie alle anderen Völker.“ Das heißt: Juda ist nichts Besonderes, und sein Gott auch nicht. Damit verspotten sie nicht nur das Volk, sondern auch Gott und seine Verheißungen.
+
+---
+
+### Gegen Edom (Vers 12–14)
+
+<sup>12</sup>So spricht der Herr, der HERR:
+„Weil Edom am Haus Juda Rache geübt hat
+und sich schwer schuldig gemacht hat,
+indem es sich an ihnen gerächt hat“,
+<sup>13</sup>darum spricht der Herr, der HERR:
+„Ich werde meine Hand gegen Edom ausstrecken
+und Mensch und Tier aus ihm ausrotten.
+Ich werde es zur Wüste machen von Teman an,
+und bis nach Dedan werden sie durch das Schwert fallen.
+<sup>14</sup>Ich werde meine Rache an Edom legen
+durch die Hand meines Volkes Israel.
+Sie werden an Edom handeln nach meinem Zorn und nach meinem Grimm.
+Dann werden sie meine Rache erkennen“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Edom lag südlich vom Toten Meer. Die Edomiter waren Nachkommen von Esau, dem Bruder Jakobs. Sie waren also eigentlich Verwandte Israels. Umso schlimmer war es, dass sie sich bei der Zerstörung Jerusalems an Juda rächten und mithalfen (vgl. Obadja 10–14; Psalm 137,7).
+> Vers 14: Hier steht, dass Gott seine Rache „durch die Hand Israels“ bringen wird. Das ist ein schwieriger Vers. Er gibt aber niemandem heute das Recht, im Namen Gottes Rache zu üben oder Gewalt gegen ein Volk zu rechtfertigen. Die Bibel sagt deutlich: „Die Rache ist mein, spricht der Herr“ (5. Mose 32,35; Römer 12,19). Rache ist Gottes Sache, nicht unsere.
+
+---
+
+### Gegen die Philister (Vers 15–17)
+
+<sup>15</sup>So spricht der Herr, der HERR:
+„Weil die Philister Rache geübt
+und mit Verachtung der Seele Rache genommen haben,
+um zu verderben in ewiger Feindschaft“,
+<sup>16</sup>darum spricht der Herr, der HERR:
+„Siehe, ich werde meine Hand gegen die Philister ausstrecken,
+und ich werde die Kreter ausrotten
+und den Rest an der Meeresküste vernichten.
+<sup>17</sup>Ich werde große Rache an ihnen üben
+mit grimmigen Strafen.
+Dann werden sie erkennen, dass ich der HERR bin,
+wenn ich meine Rache an ihnen übe.“
+
+> **Was bedeutet das?**
+> Die Philister lebten an der Küste im Westen. Sie waren seit Jahrhunderten Feinde Israels („ewige Feindschaft“).
+> Vers 16: Die „Kreter“ (im WEB „Cherethites“) waren eine Gruppe der Philister, die wahrscheinlich ursprünglich von der Insel Kreta kamen.
+> Alle vier Völker in diesem Kapitel haben etwas gemeinsam: Sie haben sich am Unglück Judas gefreut oder es ausgenutzt. Die Botschaft: Wer Schwache verspottet und tritt, wenn sie am Boden liegen, macht sich schuldig.
+> Diese alten Völkernamen sind heute keine lebenden Völker mehr. Die Texte dürfen nicht benutzt werden, um Feindschaft gegen heutige Menschen in dieser Region zu begründen.
+
+## Hesekiel – Kapitel 26
+#### Gegen Tyrus
+
+---
+
+### Tyrus freut sich über Jerusalems Fall (Vers 1–6)
+
+<sup>1</sup>Im elften Jahr, am ersten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, weil Tyrus über Jerusalem gesagt hat:
+‚Haha! Sie ist zerbrochen!
+Sie, die das Tor der Völker war,
+ist zu mir übergegangen.
+Ich werde reich werden, jetzt, wo sie verwüstet ist‘,
+<sup>3</sup>darum spricht der Herr, der HERR:
+‚Siehe, ich bin gegen dich, Tyrus,
+und ich werde viele Völker gegen dich heraufziehen lassen,
+wie das Meer seine Wellen heraufziehen lässt.
+<sup>4</sup>Sie werden die Mauern von Tyrus zerstören
+und seine Türme niederreißen.
+Ich werde auch seinen Schutt von ihm wegfegen
+und es zu einem nackten Felsen machen.
+<sup>5</sup>Es wird ein Platz zum Ausbreiten von Netzen sein
+mitten im Meer,
+denn ich habe es gesagt‘,
+spricht der Herr, der HERR.
+‚Es wird den Völkern zur Beute werden.
+<sup>6</sup>Seine Töchter, die auf dem Festland sind,
+werden mit dem Schwert getötet werden.
+Dann werden sie erkennen, dass ich der HERR bin.‘
+
+> **Was bedeutet das?**
+> Tyrus (heute Sur im Libanon) war eine reiche Handelsstadt der Phönizier. Der wichtigste Teil der Stadt lag auf einer Insel vor der Küste und war darum sehr schwer zu erobern. Die Phönizier waren die großen Seefahrer und Händler ihrer Zeit.
+> Vers 2: Tyrus freut sich über den Fall Jerusalems, aber aus Geschäftsgründen: Jerusalem war ein Konkurrent im Handel, das „Tor der Völker“. Jetzt hofft Tyrus auf mehr Gewinn. Hier geht es um Gier: Das Unglück der anderen ist mein Vorteil.
+> Vers 6: Die „Töchter auf dem Festland“ sind die kleineren Orte, die zu Tyrus gehörten.
+
+---
+
+### Nebukadnezar kommt (Vers 7–14)
+
+<sup>7</sup>Denn so spricht der Herr, der HERR:
+‚Siehe, ich bringe über Tyrus Nebukadnezar, den König von Babylon,
+den König der Könige, von Norden her,
+mit Pferden, mit Streitwagen, mit Reitern
+und einem Heer mit viel Volk.
+<sup>8</sup>Er wird deine Töchter auf dem Festland mit dem Schwert töten.
+Er wird Belagerungstürme gegen dich bauen,
+einen Wall gegen dich aufschütten
+und den Schild gegen dich erheben.
+<sup>9</sup>Er wird seine Sturmböcke gegen deine Mauern richten,
+und mit seinen Äxten wird er deine Türme niederreißen.
+<sup>10</sup>Wegen der Menge seiner Pferde
+wird ihr Staub dich bedecken.
+Deine Mauern werden beben vom Lärm der Reiter,
+der Wagen und der Streitwagen,
+wenn er in deine Tore einzieht,
+wie man in eine Stadt einzieht, die aufgebrochen ist.
+<sup>11</sup>Mit den Hufen seiner Pferde wird er alle deine Straßen zertreten.
+Er wird dein Volk mit dem Schwert töten.
+Die Säulen deiner Stärke werden zu Boden stürzen.
+<sup>12</sup>Sie werden deinen Reichtum rauben
+und deine Waren plündern.
+Sie werden deine Mauern niederreißen
+und deine schönen Häuser zerstören.
+Deine Steine, dein Holz und deinen Schutt
+werden sie mitten ins Wasser werfen.
+<sup>13</sup>Ich werde den Lärm deiner Lieder verstummen lassen.
+Der Klang deiner Harfen wird nicht mehr gehört werden.
+<sup>14</sup>Ich werde dich zu einem nackten Felsen machen.
+Du wirst ein Platz zum Ausbreiten von Netzen sein.
+Du wirst nicht mehr aufgebaut werden,
+denn ich, der HERR, habe es gesagt‘,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Nebukadnezar belagerte Tyrus tatsächlich, etwa 13 Jahre lang (ungefähr 586–573 vor Christus). Die Festlandsorte wurden erobert. Aber die Inselstadt konnte er nicht ganz zerstören; Tyrus unterwarf sich schließlich. Hesekiel selbst spricht später offen darüber, dass Nebukadnezar für diese Belagerung keinen Lohn bekam (Hesekiel 29,17–20).
+> Etwa 250 Jahre später, 332 vor Christus, eroberte Alexander der Große Tyrus. Er baute dafür einen Damm aus Schutt und Steinen vom Festland ins Meer bis zur Insel. Viele Ausleger sehen darin eine weitere Erfüllung von Vers 12: „Deine Steine, dein Holz und deinen Schutt werden sie mitten ins Wasser werfen.“
+> Vers 3: „Viele Völker … wie das Meer seine Wellen“ – das Gericht kommt in mehreren Wellen, nicht nur durch einen einzigen König.
+> Vers 13: Die fröhliche, reiche Stadt mit ihren Liedern und Harfen wird still werden.
+
+---
+
+### Die Fürsten des Meeres klagen (Vers 15–21)
+
+<sup>15</sup>So spricht der Herr, der HERR, zu Tyrus:
+‚Werden nicht die Inseln beben vom Lärm deines Falls,
+wenn die Verwundeten stöhnen,
+wenn das Morden in deiner Mitte geschieht?
+<sup>16</sup>Dann werden alle Fürsten des Meeres von ihren Thronen herabsteigen,
+ihre Mäntel ablegen
+und ihre bunt gestickten Gewänder ausziehen.
+Sie werden sich in Zittern kleiden.
+Sie werden auf der Erde sitzen
+und jeden Augenblick zittern
+und über dich entsetzt sein.
+<sup>17</sup>Sie werden ein Klagelied über dich anstimmen und zu dir sagen:
+„Wie bist du zerstört,
+du von Seefahrern bewohnte,
+du berühmte Stadt,
+die stark war auf dem Meer,
+sie und ihre Bewohner,
+die ihren Schrecken auf alle legten, die dort wohnten!“
+<sup>18</sup>Nun werden die Inseln beben am Tag deines Falls.
+Ja, die Inseln im Meer werden bestürzt sein über dein Ende.‘
+<sup>19</sup>Denn so spricht der Herr, der HERR:
+‚Wenn ich dich zu einer verwüsteten Stadt mache,
+wie die Städte, die nicht bewohnt sind,
+wenn ich die Urflut über dich heraufbringe
+und die großen Wasser dich bedecken,
+<sup>20</sup>dann werde ich dich hinabstoßen zu denen, die in die Grube hinabfahren,
+zu dem Volk der Vorzeit,
+und ich werde dich in den Tiefen der Erde wohnen lassen,
+in den Trümmern von uralten Zeiten,
+bei denen, die in die Grube hinabfahren,
+damit du nicht mehr bewohnt bist.
+Und ich werde Herrlichkeit geben im Land der Lebenden.
+<sup>21</sup>Ich werde dich zum Schrecken machen,
+und du wirst nicht mehr sein.
+Man wird dich suchen,
+aber man wird dich nie mehr finden‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> Vers 15–18: Tyrus hatte Handelsbeziehungen zu vielen Küsten und Inseln im Mittelmeer. Wenn Tyrus fällt, erschrecken alle seine Handelspartner. Ihr Wohlstand hing an Tyrus.
+> Vers 20: Die „Grube“ ist ein Bild für das Totenreich. Tyrus wird so tief fallen wie ein Toter ins Grab.
+> „Herrlichkeit im Land der Lebenden“ – während Tyrus untergeht, wird Gott seinem Volk wieder Ehre und Leben geben.
+> Die Botschaft für heute: Reichtum und Handelsmacht geben keine echte Sicherheit. Wer nur an Profit denkt und sich über das Unglück anderer freut, baut auf Sand.
+
+## Hesekiel – Kapitel 27
+#### Das Klagelied über das Schiff Tyrus
+
+---
+
+### Tyrus, das prächtige Schiff (Vers 1–11)
+
+<sup>1</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>2</sup>„Du, Menschensohn, stimme ein Klagelied über Tyrus an
+<sup>3</sup>und sag zu Tyrus:
+‚Du, die du am Zugang zum Meer wohnst,
+die Händlerin der Völker zu vielen Inseln,
+so spricht der Herr, der HERR:
+„Du, Tyrus, hast gesagt:
+‚Ich bin vollkommen an Schönheit.‘
+<sup>4</sup>Deine Grenzen sind im Herzen der Meere.
+Deine Erbauer haben deine Schönheit vollkommen gemacht.
+<sup>5</sup>Alle deine Planken haben sie aus Zypressen vom Senir gemacht.
+Eine Zeder vom Libanon haben sie genommen,
+um dir einen Mast zu machen.
+<sup>6</sup>Aus Eichen von Baschan haben sie deine Ruder gemacht.
+Deine Bänke haben sie aus Elfenbein gemacht,
+eingelegt in Zypressenholz von den Inseln der Kittäer.
+<sup>7</sup>Dein Segel war aus feinem Leinen mit Stickerei aus Ägypten,
+damit es dir als Flagge diente.
+Blau und Purpur von den Inseln Elischas war dein Sonnendach.
+<sup>8</sup>Die Bewohner von Sidon und Arwad waren deine Ruderer.
+Deine Weisen, Tyrus, waren in dir.
+Sie waren deine Steuerleute.
+<sup>9</sup>Die Ältesten von Gebal und seine Weisen
+waren in dir, um deine Lecks abzudichten.
+Alle Schiffe des Meeres mit ihren Seeleuten waren in dir,
+um mit deinen Waren zu handeln.
+<sup>10</sup>Persien, Lud und Put waren in deinem Heer,
+deine Kriegsleute.
+Sie hängten Schild und Helm in dir auf.
+Sie gaben dir Glanz.
+<sup>11</sup>Die Männer von Arwad waren mit deinem Heer
+ringsum auf deinen Mauern,
+und tapfere Männer waren in deinen Türmen.
+Sie hängten ihre Schilde ringsum an deine Mauern.
+Sie machten deine Schönheit vollkommen.
+
+> **Was bedeutet das?**
+> Hesekiel beschreibt Tyrus wie ein wunderschönes, stolzes Handelsschiff. Alles daran ist vom Feinsten, aus aller Welt zusammengetragen:
+> – Holz vom Senir (dem Hermon-Gebirge) und vom Libanon,
+> – Eichen aus Baschan (östlich vom See Genezareth),
+> – Elfenbein und Zypressenholz aus Kittim (Zypern),
+> – Leinen aus Ägypten,
+> – kostbare blaue und purpurne Stoffe aus Elischa (vielleicht Zypern oder Griechenland).
+> Purpur war übrigens die berühmteste Ware der Phönizier. Man gewann ihn aus Meeresschnecken, und er war sehr teuer.
+> Vers 8–11: Auch die Mannschaft kommt aus vielen Städten: Sidon, Arwad, Gebal (Byblos). Die Soldaten kommen sogar aus Persien, Lud (in Kleinasien oder Afrika) und Put (Libyen).
+> Vers 3: Das Problem ist der Stolz: „Ich bin vollkommen an Schönheit.“
+
+---
+
+### Die Handelspartner von Tyrus (Vers 12–25)
+
+<sup>12</sup>Tarsis war deine Händlerin
+wegen der Menge an Reichtum aller Art.
+Mit Silber, Eisen, Zinn und Blei handelten sie um deine Waren.
+<sup>13</sup>Jawan, Tubal und Meschech waren deine Händler.
+Mit Menschen und mit Gefäßen aus Bronze
+handelten sie um deine Waren.
+<sup>14</sup>Die vom Haus Togarma handelten um deine Waren
+mit Pferden, Streitrossen und Maultieren.
+<sup>15</sup>Die Männer von Dedan handelten mit dir.
+Viele Inseln waren der Markt deiner Hand.
+Elfenbeinzähne und Ebenholz brachten sie dir im Tausch.
+<sup>16</sup>Syrien war deine Händlerin
+wegen der Menge deiner Erzeugnisse.
+Mit Smaragden, Purpur, bunter Stickerei, feinem Leinen,
+Korallen und Rubinen handelten sie um deine Waren.
+<sup>17</sup>Juda und das Land Israel waren deine Händler.
+Mit Weizen aus Minnit, Süßigkeiten, Honig, Öl und Balsam
+handelten sie um deine Waren.
+<sup>18</sup>Damaskus war deine Händlerin
+wegen der Menge deiner Erzeugnisse,
+wegen der Menge an Reichtum aller Art,
+mit Wein aus Helbon und weißer Wolle.
+<sup>19</sup>Wedan und Jawan handelten mit Garn um deine Waren.
+Geschmiedetes Eisen, Kassia und Kalmus
+waren unter deinen Waren.
+<sup>20</sup>Dedan war deine Händlerin
+mit kostbaren Satteldecken zum Reiten.
+<sup>21</sup>Arabien und alle Fürsten von Kedar
+waren deine bevorzugten Händler
+mit Lämmern, Widdern und Ziegen.
+Damit handelten sie mit dir.
+<sup>22</sup>Die Händler von Saba und Ragma waren deine Händler.
+Mit den besten Gewürzen aller Art,
+mit allerlei Edelsteinen und Gold
+handelten sie um deine Waren.
+<sup>23</sup>Haran, Kanne, Eden,
+die Händler von Saba, Assur und Kilmad
+waren deine Händler.
+<sup>24</sup>Diese handelten mit dir in kostbaren Waren,
+in Mänteln aus blauem Stoff und bunter Stickerei
+und in Truhen aus Zedernholz mit prächtiger Kleidung,
+mit Schnüren gebunden,
+unter deinen Waren.
+<sup>25</sup>Die Schiffe von Tarsis waren deine Karawanen für deine Waren.
+Du wurdest reich gefüllt
+und sehr herrlich im Herzen der Meere.
+
+> **Was bedeutet das?**
+> Hier steht eine lange Liste der Handelspartner von Tyrus, fast wie eine Weltkarte der damaligen Zeit. Sie reicht von Tarsis (wahrscheinlich in Spanien) im Westen bis nach Arabien und Mesopotamien im Osten.
+> Jawan ist Griechenland (Ionien). Tubal und Meschech lagen in Kleinasien (heute Türkei). Togarma lag vermutlich in Armenien. Saba lag im Süden Arabiens (heute Jemen).
+> Vers 13: „Mit Menschen handelten sie“ – auch Sklavenhandel gehörte zum Reichtum von Tyrus (vgl. Joel 4,6; Amos 1,9). Die Bibel nennt das hier nüchtern. An anderer Stelle verurteilt sie Menschenraub und Menschenhandel klar (2. Mose 21,16; 1. Timotheus 1,10). Menschenhandel ist ein schweres Unrecht, damals wie heute.
+> Vers 17: Auch Juda und Israel lieferten an Tyrus, vor allem landwirtschaftliche Produkte: Weizen, Honig, Öl und Balsam.
+
+---
+
+### Das Schiff geht unter (Vers 26–36)
+
+<sup>26</sup>Deine Ruderer haben dich auf große Wasser geführt.
+Der Ostwind hat dich zerbrochen im Herzen der Meere.
+<sup>27</sup>Dein Reichtum, deine Waren, deine Handelsgüter,
+deine Seeleute, deine Steuerleute,
+die deine Lecks abdichteten,
+die Händler deiner Waren
+und alle deine Kriegsleute, die in dir sind,
+mit deiner ganzen Mannschaft, die in dir ist,
+werden ins Herz der Meere stürzen
+am Tag deines Untergangs.
+<sup>28</sup>Vom Schreien deiner Steuerleute
+werden die Weideplätze erbeben.
+<sup>29</sup>Alle, die das Ruder führen,
+die Seeleute und alle Steuerleute des Meeres,
+werden von ihren Schiffen herabsteigen.
+Sie werden auf dem Land stehen
+<sup>30</sup>und ihre Stimme über dich hören lassen
+und bitterlich schreien.
+Sie werden Staub auf ihre Köpfe werfen.
+Sie werden sich in der Asche wälzen.
+<sup>31</sup>Sie werden sich deinetwegen kahl scheren
+und sich in Sacktuch kleiden.
+Sie werden um dich weinen mit bitterer Seele,
+mit bitterer Klage.
+<sup>32</sup>In ihrem Jammern werden sie ein Klagelied über dich anstimmen
+und über dich klagen:
+‚Wer ist wie Tyrus,
+wie die, die mitten im Meer zum Schweigen gebracht wurde?‘
+<sup>33</sup>Als deine Waren von den Meeren kamen,
+hast du viele Völker gesättigt.
+Mit der Menge deines Reichtums und deiner Waren
+hast du die Könige der Erde reich gemacht.
+<sup>34</sup>Jetzt, da du von den Meeren zerbrochen bist,
+in den Tiefen der Wasser,
+sind deine Waren und deine ganze Mannschaft
+in dir untergegangen.
+<sup>35</sup>Alle Bewohner der Inseln sind entsetzt über dich,
+und ihren Königen sträuben sich die Haare.
+Ihre Gesichter sind verstört.
+<sup>36</sup>Die Händler unter den Völkern zischen über dich.
+Du bist zu einem schrecklichen Ende gekommen,
+und du wirst nicht mehr sein.“‘“
+
+> **Was bedeutet das?**
+> Das prächtige Schiff fährt auf das offene Meer hinaus, und dann kommt ein Sturm aus dem Osten und zerbricht es. Alles geht unter: Reichtum, Waren, Mannschaft. Der Ostwind steht für Babylon.
+> Vers 29–32: Alle Seeleute stehen am Ufer und klagen. Sie werfen Staub auf den Kopf und kleiden sich in Sacktuch, wie bei einer Beerdigung.
+> Die Botschaft: Auch das schönste, reichste und mächtigste „Schiff“ kann untergehen. Reichtum und Handel sind nicht schlecht, aber wer sein ganzes Vertrauen darauf setzt und stolz wird, baut auf ein Schiff, das sinken kann.
+> In Offenbarung 18 gibt es ein ganz ähnliches Klagelied über den Fall „Babylons“: Kaufleute und Seeleute stehen von fern und weinen über die reiche Stadt (Offenbarung 18,9–19). Der Text nimmt deutlich Hesekiel 27 auf.
