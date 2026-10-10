@@ -95544,3 +95544,369 @@ Denn ich werde ihr Geschick wenden und mich über sie erbarmen.“
 > Vers 17–18: Gott verspricht, dass es immer einen König aus Davids Familie und Priester aus dem Stamm Levi geben wird. Nach dem Exil gab es lange keinen König mehr, und der Tempel wurde später zerstört. Juden verstehen diese Verheißung darum als Hoffnung auf die Zukunft. Christen sehen sie in Jesus erfüllt, den das Neue Testament als König aus Davids Familie und als Hohenpriester beschreibt (Hebräer 7).
 > Vers 20–22: Gottes Bund ist so sicher wie Tag und Nacht. Niemand kann ihn brechen.
 > Vers 24–26: Manche sagten: Gott hat Israel und Juda verworfen. Gott antwortet: Niemals! So sicher, wie es Tag und Nacht gibt, werde ich mich über mein Volk erbarmen. Das ist eine klare Absage an alle, die meinen, Gott habe das jüdische Volk verstoßen.
+
+## Jeremia – Kapitel 34
+#### Die gebrochene Freilassung
+
+---
+
+### Ein Wort an König Zidkija (Vers 1–7)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam,
+als Nebukadnezar, der König von Babel, mit seinem ganzen Heer
+und allen Königreichen der Erde, die unter seiner Herrschaft standen,
+und allen Völkern gegen Jerusalem und gegen alle seine Städte kämpfte:
+<sup>2</sup>„So spricht der HERR, der Gott Israels:
+‚Geh und rede zu Zidkija, dem König von Juda, und sag ihm:
+So spricht der HERR:
+„Siehe, ich gebe diese Stadt in die Hand des Königs von Babel,
+und er wird sie mit Feuer verbrennen.
+<sup>3</sup>Du wirst seiner Hand nicht entkommen,
+sondern du wirst gewiss gefangen genommen und in seine Hand gegeben werden.
+Deine Augen werden die Augen des Königs von Babel sehen,
+und er wird von Mund zu Mund mit dir reden.
+Du wirst nach Babel kommen.“‘
+<sup>4</sup>Doch höre das Wort des HERRN, Zidkija, König von Juda!
+So spricht der HERR über dich:
+‚Du wirst nicht durch das Schwert sterben.
+<sup>5</sup>Du wirst in Frieden sterben.
+Und wie man für deine Väter, die früheren Könige, die vor dir waren,
+Räucherfeuer angezündet hat,
+so wird man auch für dich ein Feuer anzünden.
+Man wird um dich klagen: „Ach, Herr!“
+Denn ich habe das Wort geredet‘, spricht der HERR.“
+<sup>6</sup>Da redete der Prophet Jeremia all diese Worte zu Zidkija,
+dem König von Juda, in Jerusalem,
+<sup>7</sup>als das Heer des Königs von Babel gegen Jerusalem kämpfte
+und gegen alle Städte Judas, die noch übrig waren,
+gegen Lachisch und gegen Aseka.
+Denn diese allein waren von den Städten Judas als befestigte Städte übrig geblieben.
+
+> **Was bedeutet das?**
+> Vers 2–3: Wieder sagt Jeremia König Zidkija: Die Stadt wird fallen, und du wirst gefangen genommen.
+> Vers 4–5: Aber Jeremia hat auch ein mildes Wort für ihn: Wenn Zidkija sich ergibt, wird er nicht durch das Schwert sterben, sondern in Frieden, mit einem ehrenvollen Begräbnis. Die „Räucherfeuer“ waren ein Ehrenbrauch bei der Bestattung von Königen (2. Chronik 16,14).
+> Vers 7: Nur noch drei befestigte Städte hielten stand: Jerusalem, Lachisch und Aseka. Archäologen haben in Lachisch Tonscherben mit Briefen aus dieser Zeit gefunden. In einem davon schreibt ein Offizier, dass man die Feuerzeichen von Aseka nicht mehr sehen kann.
+
+---
+
+### Die Sklaven werden freigelassen – und wieder eingefangen (Vers 8–22)
+
+<sup>8</sup>Das Wort, das vom HERRN an Jeremia kam,
+nachdem König Zidkija mit dem ganzen Volk in Jerusalem einen Bund geschlossen hatte,
+um ihnen eine Freilassung auszurufen,
+<sup>9</sup>dass jeder seinen Knecht und jeder seine Magd,
+die Hebräer und Hebräerinnen waren, freilassen sollte,
+damit niemand mehr einen Juden, seinen Bruder, als Sklaven halten sollte.
+<sup>10</sup>Alle Fürsten und das ganze Volk, die den Bund eingegangen waren, gehorchten,
+dass jeder seinen Knecht und jeder seine Magd freilassen sollte,
+damit niemand sie mehr als Sklaven halten sollte.
+Sie gehorchten und ließen sie frei.
+<sup>11</sup>Aber danach änderten sie ihre Meinung
+und holten die Knechte und Mägde zurück, die sie freigelassen hatten,
+und zwangen sie wieder, Knechte und Mägde zu sein.
+<sup>12</sup>Da kam das Wort des HERRN vom HERRN an Jeremia:
+<sup>13</sup>„So spricht der HERR, der Gott Israels:
+‚Ich habe mit euren Vätern einen Bund geschlossen
+an dem Tag, als ich sie aus dem Land Ägypten herausführte,
+aus dem Sklavenhaus, und habe gesagt:
+<sup>14</sup>Am Ende von sieben Jahren soll jeder von euch seinen Bruder freilassen,
+der ein Hebräer ist und der sich dir verkauft hat
+und dir sechs Jahre gedient hat.
+Du sollst ihn frei von dir gehen lassen.
+Aber eure Väter haben nicht auf mich gehört
+und ihr Ohr nicht geneigt.
+<sup>15</sup>Ihr wart jetzt umgekehrt
+und hattet getan, was in meinen Augen recht ist,
+indem jeder seinem Nächsten die Freilassung ausrief.
+Ihr hattet einen Bund vor mir geschlossen
+in dem Haus, das nach meinem Namen genannt ist.
+<sup>16</sup>Aber ihr habt euch wieder umgedreht und meinen Namen entweiht.
+Jeder hat seinen Knecht und jeder seine Magd zurückgeholt,
+die ihr nach ihrem Wunsch freigelassen hattet.
+Ihr habt sie gezwungen, euch wieder Knechte und Mägde zu sein.‘“
+<sup>17</sup>Darum spricht der HERR:
+„Ihr habt nicht auf mich gehört,
+jeder seinem Bruder und jeder seinem Nächsten die Freilassung auszurufen.
+Siehe, so rufe ich euch eine Freilassung aus“, spricht der HERR,
+„für das Schwert, für die Pest und für den Hunger.
+Ich werde euch zum Schrecken machen für alle Königreiche der Erde.
+<sup>18</sup>Ich werde die Männer, die meinen Bund übertreten haben,
+die die Worte des Bundes nicht gehalten haben,
+den sie vor mir geschlossen haben,
+als sie das Kalb in zwei Teile zerschnitten
+und zwischen seinen Teilen hindurchgingen:
+<sup>19</sup>die Fürsten von Juda, die Fürsten von Jerusalem,
+die Hofbeamten, die Priester und das ganze Volk des Landes,
+die zwischen den Teilen des Kalbes hindurchgegangen sind,
+<sup>20</sup>die werde ich in die Hand ihrer Feinde geben
+und in die Hand derer, die ihnen nach dem Leben trachten.
+Ihre Leichen werden den Vögeln des Himmels
+und den Tieren der Erde zum Fraß dienen.
+<sup>21</sup>Und Zidkija, den König von Juda, und seine Fürsten
+werde ich in die Hand ihrer Feinde geben
+und in die Hand derer, die ihnen nach dem Leben trachten,
+und in die Hand des Heeres des Königs von Babel,
+das von euch abgezogen ist.
+<sup>22</sup>Siehe, ich gebe Befehl“, spricht der HERR,
+„und lasse sie zu dieser Stadt zurückkehren.
+Sie werden gegen sie kämpfen, sie einnehmen und mit Feuer verbrennen.
+Und die Städte Judas werde ich zur Wüste machen, ohne Bewohner.“
+
+> **Was bedeutet das?**
+> Vers 8–10: Während der Belagerung ließ König Zidkija alle hebräischen Sklaven freilassen. Damals konnte jemand, der seine Schulden nicht bezahlen konnte, sich selbst als Knecht verkaufen. Nach Gottes Gesetz musste er nach sechs Jahren freigelassen werden (2. Mose 21,2; 5. Mose 15,12).
+> Vers 11: Aber dann zogen die Babylonier für kurze Zeit ab (vgl. Vers 21; 37,5), und die Reichen holten ihre Sklaven einfach zurück. Ein gebrochenes Versprechen, sobald die Gefahr vorbei schien.
+> Vers 17: Gott antwortet mit einem bitteren Wortspiel: Ihr habt keine „Freilassung“ ausgerufen? Dann rufe ich euch eine „Freilassung“ aus, nämlich für Schwert, Pest und Hunger.
+> Vers 18: Bei einem feierlichen Bundesschluss zerschnitt man ein Tier und ging zwischen den Hälften hindurch. Das hieß: So soll es mir ergehen, wenn ich den Bund breche (vgl. 1. Mose 15,9–17).
+> Wichtig: Die Bibel zeigt hier, dass Gott auf der Seite der Unfreien steht und dass Menschen nicht ausgebeutet werden dürfen. Heute wissen wir: Kein Mensch darf einem anderen gehören. Auch heute gibt es noch Menschenhandel und Zwangsarbeit. Wer davon betroffen ist oder etwas beobachtet, kann sich an die Polizei wenden (Notruf 110).
+
+## Jeremia – Kapitel 35
+#### Die treuen Rechabiter
+
+---
+
+### Die Rechabiter trinken keinen Wein (Vers 1–11)
+
+<sup>1</sup>Das Wort, das vom HERRN an Jeremia kam
+in den Tagen Jojakims, des Sohnes Joschijas, des Königs von Juda:
+<sup>2</sup>„Geh zum Haus der Rechabiter und rede mit ihnen
+und bring sie in das Haus des HERRN, in einen der Räume,
+und gib ihnen Wein zu trinken.“
+<sup>3</sup>Da holte ich Jaasanja, den Sohn Jeremias, des Sohnes Habazzinjas,
+und seine Brüder und alle seine Söhne
+und das ganze Haus der Rechabiter
+<sup>4</sup>und brachte sie in das Haus des HERRN,
+in den Raum der Söhne Hanans, des Sohnes Jigdaljas, des Mannes Gottes,
+der neben dem Raum der Fürsten lag,
+über dem Raum Maasejas, des Sohnes Schallums, des Türhüters.
+<sup>5</sup>Ich stellte den Söhnen des Hauses der Rechabiter
+Krüge voll Wein und Becher hin
+und sagte zu ihnen: „Trinkt Wein!“
+<sup>6</sup>Aber sie sagten: „Wir trinken keinen Wein,
+denn Jonadab, der Sohn Rechabs, unser Vater, hat uns geboten:
+‚Ihr sollt keinen Wein trinken, weder ihr noch eure Kinder, für immer.
+<sup>7</sup>Ihr sollt kein Haus bauen, keinen Samen säen,
+keinen Weinberg pflanzen und keinen besitzen,
+sondern ihr sollt euer Leben lang in Zelten wohnen,
+damit ihr viele Tage in dem Land lebt, in dem ihr als Fremde umherzieht.‘
+<sup>8</sup>Wir haben auf die Stimme Jonadabs, des Sohnes Rechabs, unseres Vaters, gehört
+in allem, was er uns geboten hat:
+dass wir unser Leben lang keinen Wein trinken,
+wir, unsere Frauen, unsere Söhne und unsere Töchter,
+<sup>9</sup>und dass wir keine Häuser bauen, um darin zu wohnen.
+Wir haben keinen Weinberg, kein Feld und keinen Samen,
+<sup>10</sup>sondern wir haben in Zelten gewohnt
+und haben gehorcht und alles getan, was Jonadab, unser Vater, uns geboten hat.
+<sup>11</sup>Aber als Nebukadnezar, der König von Babel, in das Land heraufzog,
+sagten wir: ‚Kommt, lasst uns nach Jerusalem gehen
+aus Furcht vor dem Heer der Chaldäer
+und aus Furcht vor dem Heer der Syrer.‘
+So wohnen wir jetzt in Jerusalem.“
+
+> **Was bedeutet das?**
+> Die Rechabiter waren eine Gruppe, die nach den Regeln ihres Vorfahren Jonadab lebte (er wird in 2. Könige 10,15–23 erwähnt, etwa 250 Jahre vorher). Sie tranken keinen Wein, bauten keine Häuser und lebten in Zelten wie Nomaden. So wollten sie einfach und Gott treu leben, ohne sich an den Wohlstand des Landes zu binden.
+> Vers 5–6: Jeremia stellt sie auf die Probe: Er bietet ihnen im Tempel Wein an. Aber sie lehnen ab. Sie bleiben ihrem Versprechen treu, auch nach so vielen Generationen.
+> Vers 11: Nur wegen des Krieges sind sie in die Stadt gezogen, aus Not, nicht aus Untreue.
+> Wer mit Alkohol Probleme hat, findet Hilfe bei der Sucht- und Drogen-Hotline: 01806 313 031.
+
+---
+
+### Ein Vorbild für das Volk (Vers 12–19)
+
+<sup>12</sup>Da kam das Wort des HERRN zu Jeremia:
+<sup>13</sup>„So spricht der HERR der Heere, der Gott Israels:
+‚Geh und sag zu den Männern von Juda und zu den Bewohnern Jerusalems:
+„Wollt ihr keine Zurechtweisung annehmen und auf meine Worte hören?“,
+spricht der HERR.
+<sup>14</sup>„Die Worte Jonadabs, des Sohnes Rechabs,
+der seinen Söhnen geboten hat, keinen Wein zu trinken, werden befolgt.
+Bis zum heutigen Tag trinken sie keinen,
+denn sie gehorchen dem Gebot ihres Vaters.
+Ich aber habe zu euch geredet, früh und unermüdlich,
+und ihr habt nicht auf mich gehört.
+<sup>15</sup>Ich habe auch alle meine Knechte, die Propheten, zu euch gesandt,
+früh und unermüdlich, und habe sagen lassen:
+‚Kehrt doch um, jeder von seinem bösen Weg,
+bessert eure Taten und lauft nicht anderen Göttern nach, um ihnen zu dienen.
+Dann werdet ihr in dem Land wohnen,
+das ich euch und euren Vätern gegeben habe.‘
+Aber ihr habt euer Ohr nicht geneigt und nicht auf mich gehört.
+<sup>16</sup>Die Söhne Jonadabs, des Sohnes Rechabs, haben das Gebot ihres Vaters gehalten,
+das er ihnen geboten hat,
+aber dieses Volk hat nicht auf mich gehört.“‘
+<sup>17</sup>Darum spricht der HERR, der Gott der Heere, der Gott Israels:
+‚Siehe, ich bringe über Juda und über alle Bewohner Jerusalems
+all das Unheil, das ich gegen sie ausgesprochen habe,
+weil ich zu ihnen geredet habe, sie aber nicht gehört haben,
+und weil ich sie gerufen habe, sie aber nicht geantwortet haben.‘“
+<sup>18</sup>Und zum Haus der Rechabiter sagte Jeremia:
+„So spricht der HERR der Heere, der Gott Israels:
+‚Weil ihr dem Gebot Jonadabs, eures Vaters, gehorcht
+und alle seine Gebote gehalten
+und alles getan habt, was er euch geboten hat‘,
+<sup>19</sup>darum spricht der HERR der Heere, der Gott Israels:
+‚Es wird Jonadab, dem Sohn Rechabs, nie an einem Mann fehlen,
+der vor mir steht, für immer.‘“
+
+> **Was bedeutet das?**
+> Gott benutzt die Rechabiter als Vorbild: Sie halten seit Generationen treu das Gebot eines Menschen, ihres Vorfahren. Aber Gottes Volk hört nicht einmal auf Gott selbst, obwohl er immer wieder gerufen hat.
+> Vers 19: Die Rechabiter bekommen eine Verheißung: Ihre Familie wird nie aussterben und immer vor Gott stehen. Treue wird belohnt.
+> Die Botschaft ist nicht, dass alle Menschen keinen Wein trinken oder in Zelten leben sollen. Es geht um Treue zu dem, was man versprochen hat.
+
+## Jeremia – Kapitel 36
+#### Der König verbrennt die Schriftrolle
+
+---
+
+### Baruch schreibt und liest vor (Vers 1–10)
+
+<sup>1</sup>Im vierten Jahr Jojakims, des Sohnes Joschijas, des Königs von Juda,
+kam dieses Wort vom HERRN an Jeremia:
+<sup>2</sup>„Nimm dir eine Buchrolle
+und schreib darauf alle Worte, die ich zu dir geredet habe
+über Israel, über Juda und über alle Nationen,
+von dem Tag an, als ich zu dir geredet habe,
+von den Tagen Joschijas an bis zum heutigen Tag.
+<sup>3</sup>Vielleicht hört das Haus Juda all das Unheil,
+das ich ihnen antun will,
+sodass sie umkehren, jeder von seinem bösen Weg,
+damit ich ihre Schuld und ihre Sünde vergebe.“
+<sup>4</sup>Da rief Jeremia Baruch, den Sohn Nerijas,
+und Baruch schrieb aus dem Mund Jeremias
+alle Worte des HERRN, die er zu ihm geredet hatte, auf eine Buchrolle.
+<sup>5</sup>Und Jeremia befahl Baruch:
+„Ich bin verhindert.
+Ich kann nicht in das Haus des HERRN gehen.
+<sup>6</sup>Darum geh du hin und lies aus der Rolle,
+die du aus meinem Mund geschrieben hast,
+die Worte des HERRN vor den Ohren des Volkes im Haus des HERRN
+am Fastentag.
+Lies sie auch vor den Ohren von ganz Juda,
+die aus ihren Städten kommen.
+<sup>7</sup>Vielleicht bringen sie ihr Flehen vor den HERRN
+und kehren um, jeder von seinem bösen Weg,
+denn groß ist der Zorn und der Grimm,
+den der HERR gegen dieses Volk ausgesprochen hat.“
+<sup>8</sup>Baruch, der Sohn Nerijas, tat alles, was der Prophet Jeremia ihm befohlen hatte,
+und las aus dem Buch die Worte des HERRN im Haus des HERRN vor.
+<sup>9</sup>Im fünften Jahr Jojakims, des Sohnes Joschijas, des Königs von Juda,
+im neunten Monat,
+rief das ganze Volk in Jerusalem
+und das ganze Volk, das aus den Städten Judas nach Jerusalem kam,
+ein Fasten vor dem HERRN aus.
+<sup>10</sup>Da las Baruch aus dem Buch die Worte Jeremias vor
+im Haus des HERRN, im Raum Gemarjas, des Sohnes Schafans, des Schreibers,
+im oberen Vorhof, am Eingang des Neuen Tores des Hauses des HERRN,
+vor den Ohren des ganzen Volkes.
+
+> **Was bedeutet das?**
+> Vers 2–3: Jeremia soll alle Botschaften der letzten 23 Jahre aufschreiben. Der Grund: „Vielleicht hören sie und kehren um, damit ich vergeben kann.“ Gott will nicht strafen, er will vergeben.
+> Vers 4: Jeremia diktiert, Baruch schreibt. So ist wahrscheinlich ein Teil des Buches Jeremia entstanden.
+> Vers 5: Jeremia darf nicht mehr in den Tempel, wahrscheinlich nach der Tempelrede (Kapitel 7 und 26).
+> Vers 6 und 9: Baruch liest die Rolle an einem Fastentag vor, wenn viele Menschen im Tempel sind. Vielleicht war das Fasten wegen der Bedrohung durch Babylon ausgerufen worden.
+
+---
+
+### Die Beamten hören zu (Vers 11–19)
+
+<sup>11</sup>Als Michaja, der Sohn Gemarjas, des Sohnes Schafans,
+alle Worte des HERRN aus dem Buch gehört hatte,
+<sup>12</sup>ging er hinab in das Haus des Königs, in den Raum des Schreibers.
+Und siehe, dort saßen alle Fürsten:
+Elischama, der Schreiber, Delaja, der Sohn Schemajas,
+Elnatan, der Sohn Achbors, Gemarja, der Sohn Schafans,
+Zidkija, der Sohn Hananjas, und alle Fürsten.
+<sup>13</sup>Michaja berichtete ihnen alle Worte, die er gehört hatte,
+als Baruch das Buch vor den Ohren des Volkes vorlas.
+<sup>14</sup>Da sandten alle Fürsten Jehudi, den Sohn Netanjas,
+des Sohnes Schelemjas, des Sohnes Kuschis, zu Baruch und ließen ihm sagen:
+„Nimm die Rolle, aus der du dem Volk vorgelesen hast, in deine Hand und komm!“
+Da nahm Baruch, der Sohn Nerijas, die Rolle in seine Hand und kam zu ihnen.
+<sup>15</sup>Sie sagten zu ihm: „Setz dich doch und lies sie uns vor!“
+Da las Baruch sie ihnen vor.
+<sup>16</sup>Als sie alle Worte gehört hatten,
+sahen sie einander erschrocken an und sagten zu Baruch:
+„Wir müssen dem König all diese Worte berichten.“
+<sup>17</sup>Und sie fragten Baruch:
+„Sag uns doch, wie hast du all diese Worte aus seinem Mund aufgeschrieben?“
+<sup>18</sup>Da antwortete ihnen Baruch:
+„Er hat mir all diese Worte mit seinem Mund diktiert,
+und ich habe sie mit Tinte in das Buch geschrieben.“
+<sup>19</sup>Da sagten die Fürsten zu Baruch:
+„Geh, versteck dich, du und Jeremia!
+Niemand soll wissen, wo ihr seid.“
+
+> **Was bedeutet das?**
+> Die Beamten sind erschrocken über das, was sie hören. Sie nehmen die Worte ernst.
+> Vers 17–18: Sie wollen genau wissen, ob das wirklich Jeremias Worte sind. Baruch erklärt: Jeremia hat diktiert, ich habe mit Tinte geschrieben.
+> Vers 19: Die Beamten kennen ihren König. Sie wissen, dass er gefährlich ist (vgl. den Mord an Urija, 26,20–23). Darum warnen sie Baruch und Jeremia: Versteckt euch!
+
+---
+
+### Der König verbrennt die Rolle (Vers 20–26)
+
+<sup>20</sup>Dann gingen sie zum König in den Hof,
+die Rolle aber hatten sie im Raum Elischamas, des Schreibers, verwahrt.
+Und sie berichteten dem König alle Worte.
+<sup>21</sup>Da sandte der König Jehudi, um die Rolle zu holen,
+und er holte sie aus dem Raum Elischamas, des Schreibers.
+Und Jehudi las sie vor den Ohren des Königs vor
+und vor den Ohren aller Fürsten, die beim König standen.
+<sup>22</sup>Der König aber saß im Winterhaus, es war im neunten Monat,
+und vor ihm brannte ein Feuer im Kohlenbecken.
+<sup>23</sup>Immer wenn Jehudi drei oder vier Spalten vorgelesen hatte,
+schnitt der König sie mit dem Schreibermesser ab
+und warf sie ins Feuer im Kohlenbecken,
+bis die ganze Rolle im Feuer im Kohlenbecken verbrannt war.
+<sup>24</sup>Der König und seine Diener, die all diese Worte hörten,
+erschraken nicht und zerrissen ihre Kleider nicht.
+<sup>25</sup>Elnatan, Delaja und Gemarja hatten den König zwar angefleht,
+die Rolle nicht zu verbrennen,
+aber er hörte nicht auf sie.
+<sup>26</sup>Der König befahl Jerachmeel, dem Königssohn,
+und Seraja, dem Sohn Asriels, und Schelemja, dem Sohn Abdeels,
+Baruch, den Schreiber, und Jeremia, den Propheten, festzunehmen.
+Aber der HERR hatte sie verborgen.
+
+> **Was bedeutet das?**
+> Eine dramatische Szene: Es ist Winter, der König sitzt am warmen Kohlenbecken. Jehudi liest vor. Nach jedem Stück schneidet der König das Gelesene mit einem Messer ab und wirft es ins Feuer. Stück für Stück, bis die ganze Rolle verbrannt ist.
+> Vers 24: Niemand erschrickt, niemand zerreißt seine Kleider (ein Zeichen der Reue). Was für ein Gegensatz zu Jojakims Vater Joschija: Als ihm ein Buch des Gesetzes vorgelesen wurde, zerriss er erschrocken seine Kleider und kehrte um (2. Könige 22,11).
+> Vers 25: Nur drei Beamte haben den Mut, den König zu bitten, die Rolle nicht zu verbrennen.
+> Vers 26: Der König will Jeremia und Baruch verhaften lassen, aber Gott hat sie versteckt.
+
+---
+
+### Eine neue Rolle (Vers 27–32)
+
+<sup>27</sup>Da kam das Wort des HERRN zu Jeremia,
+nachdem der König die Rolle verbrannt hatte
+und die Worte, die Baruch aus dem Mund Jeremias geschrieben hatte:
+<sup>28</sup>„Nimm dir wieder eine andere Rolle
+und schreib darauf alle früheren Worte,
+die auf der ersten Rolle standen,
+die Jojakim, der König von Juda, verbrannt hat.
+<sup>29</sup>Und über Jojakim, den König von Juda, sollst du sagen:
+‚So spricht der HERR:
+„Du hast diese Rolle verbrannt und gesagt:
+‚Warum hast du darauf geschrieben:
+Der König von Babel wird gewiss kommen und dieses Land verwüsten
+und Mensch und Tier daraus verschwinden lassen?‘“
+<sup>30</sup>Darum spricht der HERR über Jojakim, den König von Juda:
+„Er wird niemanden haben, der auf dem Thron Davids sitzt.
+Seine Leiche wird hingeworfen werden,
+am Tag der Hitze und in der Nacht dem Frost.
+<sup>31</sup>Ich werde an ihm, an seinen Nachkommen und an seinen Dienern
+ihre Schuld heimsuchen.
+Ich werde über sie und über die Bewohner Jerusalems
+und über die Männer von Juda all das Unheil bringen,
+das ich gegen sie ausgesprochen habe,
+aber sie haben nicht gehört.“‘“
+<sup>32</sup>Da nahm Jeremia eine andere Rolle
+und gab sie Baruch, dem Schreiber, dem Sohn Nerijas.
+Der schrieb darauf aus dem Mund Jeremias
+alle Worte des Buches, das Jojakim, der König von Juda, im Feuer verbrannt hatte.
+Und es wurden noch viele ähnliche Worte hinzugefügt.
+
+> **Was bedeutet das?**
+> Vers 28: Gottes Wort lässt sich nicht verbrennen. Jeremia und Baruch schreiben alles noch einmal auf.
+> Vers 30: Jojakims Sohn Jojachin regierte nur drei Monate, dann wurde er verschleppt (vgl. 22,30). Und Jojakim selbst sollte kein ehrenvolles Begräbnis bekommen (vgl. 22,19).
+> Vers 32: Die neue Rolle wurde sogar noch länger als die erste. Man kann ein Buch verbrennen, aber nicht die Wahrheit, die darin steht. Im Lauf der Geschichte haben Mächtige immer wieder Bücher und Bibeln verbrannt, aber Gottes Wort ist geblieben.
