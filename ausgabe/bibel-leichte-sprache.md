@@ -112838,3 +112838,383 @@ Denn über wen ist deine Bosheit nicht ständig hergegangen?
 > **Jona und Nahum zusammen:** Jona zeigt Gottes Barmherzigkeit für Ninive, Nahum zeigt Gottes Gerechtigkeit. Beides gehört zusammen.
 > **Für heute:** Kein Gewaltherrscher bleibt für immer. Für Menschen, die unter Unterdrückung leiden, ist Nahum ein Trost: Gott sieht das Unrecht. Gleichzeitig mahnt das Buch: Rache ist Gottes Sache, nicht unsere.
 > **Wie geht es weiter?** Als Nächstes kommt Habakuk. Er stellt Gott die große Frage: Warum lässt du das Unrecht zu? Und er lernt: „Der Gerechte wird durch seinen Glauben leben“ (Habakuk 2,4).
+
+
+---
+
+# Habakuk
+
+## Habakuk – Kapitel 1
+#### Wie lange noch, HERR?
+
+---
+
+### Bevor es losgeht: Wer war Habakuk?
+
+Über Habakuk wissen wir fast nichts, außer dass er ein Prophet war. Er lebte wahrscheinlich kurz vor 600 vor Christus in Juda, zur Zeit Jeremias. Damals stiegen die Babylonier (in der Bibel auch „Chaldäer“ genannt) zur neuen Weltmacht auf. Ninive war gerade gefallen (612 vor Christus, siehe Nahum).
+Das Besondere an Habakuk: Er spricht nicht nur im Auftrag Gottes zu den Menschen. Er spricht zu Gott, und er stellt ihm unbequeme Fragen: Warum lässt du das Unrecht zu? Warum schweigst du, wenn Böse die Gerechten verschlingen?
+Das Buch ist wie ein Gespräch zwischen Habakuk und Gott:
+Kapitel 1: Habakuk klagt, Gott antwortet, Habakuk klagt wieder.
+Kapitel 2: Gottes Antwort: „Der Gerechte wird durch seinen Glauben leben“ und fünf „Wehe“-Rufe gegen den Unterdrücker.
+Kapitel 3: Ein Gebet und Lied. Es endet mit einem großen Vertrauen: „Auch wenn der Feigenbaum nicht blüht … will ich mich doch freuen im HERRN.“
+Habakuk zeigt: Man darf Gott Fragen stellen, auch zweifelnde und klagende. Das Buch hat 3 Kapitel.
+
+---
+
+### Habakuks erste Klage (Vers 1–4)
+
+<sup>1</sup>Der Ausspruch, den der Prophet Habakuk geschaut hat.
+<sup>2</sup>HERR, wie lange soll ich noch schreien,
+und du hörst nicht?
+Ich schreie zu dir: „Gewalt!“,
+und du rettest nicht?
+<sup>3</sup>Warum lässt du mich Unrecht sehen
+und schaust dem Elend zu?
+Denn Verwüstung und Gewalt sind vor mir.
+Es gibt Streit, und Zank erhebt sich.
+<sup>4</sup>Darum ist das Gesetz kraftlos,
+und das Recht setzt sich nie durch.
+Denn der Gottlose umzingelt den Gerechten.
+Darum kommt das Recht verdreht heraus.
+
+> **Was bedeutet das?**
+> Habakuk beginnt mit einer Klage, wie in vielen Psalmen: „Wie lange noch?“ Er sieht Gewalt, Streit und Unrecht in seinem eigenen Volk Juda. Die Gerichte funktionieren nicht mehr. Die Bösen setzen sich durch.
+> Und Gott scheint nichts zu tun. Habakuk wirft Gott vor: Du hörst nicht! Du rettest nicht!
+> Das ist erlaubt: In der Bibel dürfen Menschen ehrlich zu Gott sein, auch mit ihrer Enttäuschung, ihrem Zorn und ihren Zweifeln. Gott hält das aus.
+
+---
+
+### Gottes erste Antwort: Die Babylonier kommen (Vers 5–11)
+
+<sup>5</sup>„Schaut unter die Völker und seht hin
+und staunt, ja, staunt!
+Denn ich tue ein Werk in euren Tagen,
+das ihr nicht glauben würdet, wenn man es euch erzählte.
+<sup>6</sup>Denn siehe, ich lasse die Chaldäer aufstehen,
+das bittere und ungestüme Volk,
+das durch die Weite der Erde zieht,
+um Wohnungen in Besitz zu nehmen, die ihm nicht gehören.
+<sup>7</sup>Es ist gefürchtet und schrecklich.
+Sein Recht und seine Hoheit gehen von ihm selbst aus.
+<sup>8</sup>Seine Pferde sind schneller als Leoparden
+und wilder als die Wölfe am Abend.
+Seine Reiter sprengen stolz heran.
+Ja, seine Reiter kommen von fern.
+Sie fliegen wie ein Adler, der sich auf den Fraß stürzt.
+<sup>9</sup>Sie alle kommen zur Gewalt.
+Ihre Scharen drängen nach vorn.
+Sie sammeln Gefangene wie Sand.
+<sup>10</sup>Ja, sie spotten über Könige,
+und Fürsten sind ihnen ein Gelächter.
+Sie lachen über jede Festung,
+denn sie schütten einen Erdwall auf und nehmen sie ein.
+<sup>11</sup>Dann fahren sie dahin wie der Wind und ziehen weiter.
+Sie sind wirklich schuldig,
+sie, deren Kraft ihr Gott ist.“
+
+> **Was bedeutet das?**
+> Gott antwortet, aber ganz anders, als Habakuk erwartet hat: Ich schicke die Babylonier. Sie werden das ungerechte Juda bestrafen.
+> Vers 5: Das ist so unglaublich, dass niemand es glauben würde. Paulus zitiert diesen Vers in einer Predigt (Apostelgeschichte 13,41).
+> Vers 6–10: Eine eindrucksvolle Beschreibung der babylonischen Armee: schnell wie Leoparden, wild wie Wölfe, wie ein Adler auf der Jagd. Keine Festung kann sie aufhalten. Sie schütten einfach einen Erdwall auf und klettern über die Mauern.
+> Vers 7 und 11: Die Babylonier kennen kein Recht außer ihrem eigenen. „Ihre Kraft ist ihr Gott“: Sie verehren nur ihre eigene Macht. Darum sind auch sie schuldig.
+
+---
+
+### Habakuks zweite Klage (Vers 12–17)
+
+<sup>12</sup>Bist du nicht von Ewigkeit her, HERR,
+mein Gott, mein Heiliger?
+Wir werden nicht sterben.
+HERR, du hast sie zum Gericht bestimmt.
+Du, Fels, hast ihn eingesetzt, um zu strafen.
+<sup>13</sup>Du hast zu reine Augen, um Böses mit anzusehen,
+und du kannst dem Elend nicht zuschauen.
+Warum schaust du dann den Treulosen zu
+und schweigst, wenn der Gottlose den verschlingt,
+der gerechter ist als er?
+<sup>14</sup>Warum machst du die Menschen wie die Fische im Meer,
+wie das Gewürm, das keinen Herrscher hat?
+<sup>15</sup>Er holt sie alle mit der Angel herauf.
+Er fängt sie mit seinem Netz
+und sammelt sie in seinem Schleppnetz.
+Darum freut er sich und jubelt.
+<sup>16</sup>Darum opfert er seinem Netz
+und bringt seinem Schleppnetz Räucheropfer dar.
+Denn durch sie ist sein Anteil fett
+und seine Speise reichlich.
+<sup>17</sup>Soll er darum immerfort sein Netz ausleeren
+und die Völker ohne Erbarmen töten?
+
+> **Was bedeutet das?**
+> Habakuk ist mit Gottes Antwort nicht zufrieden. Er hat ein neues Problem:
+> Vers 12: Er vertraut Gott, dem ewigen „Fels“. Er glaubt: Unser Volk wird nicht ganz untergehen. Er versteht auch, dass Gott die Babylonier als Werkzeug der Strafe gebraucht.
+> Vers 13: Aber: Gott, du bist heilig und kannst Böses nicht ansehen. Wie kannst du dann zulassen, dass die noch Schlimmeren die weniger Schlimmen verschlingen? Juda ist schuldig, ja, aber Babylon ist doch viel schlimmer!
+> Vers 14–17: Ein Bild: Babylon fängt Menschen wie Fische mit Angel und Netz. Und dann betet es sein eigenes Netz an, also seine militärische Macht, durch die es reich wird. Wird das ewig so weitergehen?
+> Das ist eine Frage, die sich Menschen bis heute stellen: Warum haben Gewalttäter so oft Erfolg?
+
+## Habakuk – Kapitel 2
+#### Der Gerechte wird durch seinen Glauben leben
+
+---
+
+### Gottes Antwort: Schreib es auf! (Vers 1–5)
+
+<sup>1</sup>Ich will auf meinem Wachposten stehen
+und mich auf die Mauer stellen.
+Ich will Ausschau halten, um zu sehen, was er mir sagen wird
+und was ich auf meine Klage antworten soll.
+<sup>2</sup>Der HERR antwortete mir:
+„Schreib die Vision auf
+und mach sie deutlich auf Tafeln,
+damit man sie im Vorbeilaufen lesen kann.
+<sup>3</sup>Denn die Vision gilt noch für die bestimmte Zeit.
+Sie eilt dem Ende zu und wird nicht trügen.
+Auch wenn sie sich verzögert, warte auf sie,
+denn sie wird gewiss kommen.
+Sie wird nicht ausbleiben.
+<sup>4</sup>Siehe, aufgeblasen ist seine Seele,
+sie ist nicht aufrichtig in ihm.
+Aber der Gerechte wird durch seinen Glauben leben.
+<sup>5</sup>Ja, außerdem ist der Wein trügerisch.
+Ein hochmütiger Mann, der nicht zu Hause bleibt,
+der seinen Rachen weit aufsperrt wie das Totenreich,
+er ist wie der Tod und kann nicht satt werden.
+Er rafft alle Völker an sich
+und sammelt alle Nationen für sich.
+
+> **Was bedeutet das?**
+> Vers 1: Habakuk stellt sich wie ein Wächter auf die Mauer und wartet geduldig auf Gottes Antwort.
+> Vers 2: Gott sagt: Schreib es groß und deutlich auf, so wie auf einem Plakat. Jeder soll es lesen können, auch im Vorbeigehen.
+> Vers 3: Die Erfüllung kommt bestimmt, auch wenn es dauert. Warte geduldig!
+> Vers 4: Der Kernvers des Buches. Es gibt zwei Arten von Menschen: Die Hochmütigen, die aufgeblasen sind und nicht aufrichtig leben (gemeint ist besonders Babylon). Und die Gerechten, die durch ihren Glauben leben.
+> Das hebräische Wort für „Glaube“ heißt auch „Treue“ oder „Verlässlichkeit“. Der Gerechte vertraut Gott und bleibt ihm treu, auch wenn er noch nicht sieht, wie Gott eingreift.
+> Dieser Vers ist im Neuen Testament sehr wichtig. Paulus zitiert ihn im Römerbrief (1,17) und im Galaterbrief (3,11): Der Mensch wird vor Gott gerecht durch den Glauben. Auch im Hebräerbrief wird er zitiert (10,38). Für Martin Luther wurde er zum Schlüssel für die Reformation.
+> Vers 5: Der Hochmütige ist unersättlich wie der Tod. Er will immer mehr Völker unterwerfen.
+
+---
+
+### Erstes und zweites Wehe: Raub und unrechter Gewinn (Vers 6–11)
+
+<sup>6</sup>Werden nicht alle diese ein Spottlied über ihn anstimmen
+und ein Rätselwort über ihn und sagen:
+‚Wehe dem, der anhäuft, was nicht sein ist,
+und sich bereichert durch Erpressung!
+Wie lange noch?‘
+<sup>7</sup>Werden nicht plötzlich deine Gläubiger aufstehen
+und die erwachen, die dich zittern lassen,
+und du wirst ihre Beute werden?
+<sup>8</sup>Weil du viele Völker ausgeplündert hast,
+wird dich der ganze Rest der Völker ausplündern,
+wegen des Menschenblutes
+und wegen der Gewalt am Land,
+an der Stadt und an allen, die darin wohnen.
+<sup>9</sup>Wehe dem, der bösen Gewinn für sein Haus erwirbt,
+um sein Nest hoch oben zu bauen,
+um sich vor der Hand des Unheils zu retten!
+<sup>10</sup>Du hast Schande für dein Haus geplant,
+indem du viele Völker vernichtet hast,
+und hast gegen deine eigene Seele gesündigt.
+<sup>11</sup>Denn der Stein wird aus der Mauer schreien,
+und der Balken aus dem Holzwerk wird ihm antworten.
+
+> **Was bedeutet das?**
+> Jetzt folgen fünf „Wehe“-Rufe gegen den Unterdrücker (Babylon). Die unterdrückten Völker stimmen ein Spottlied an.
+> Erstes Wehe (Vers 6–8): Gegen den, der andere ausraubt. Was er anderen angetan hat, wird ihm selbst geschehen: Die Ausgeplünderten werden ihn ausplündern.
+> Zweites Wehe (Vers 9–11): Gegen den, der sich mit unrechtem Gewinn ein sicheres Haus baut, „hoch oben“, weit weg von allen Gefahren. Aber selbst die Steine in der Mauer werden schreien und ihn anklagen, weil sie mit gestohlenem Geld bezahlt wurden.
+> Für heute: Reichtum, der auf Ausbeutung beruht, ist nicht sicher.
+
+---
+
+### Drittes Wehe: Eine Stadt mit Blut gebaut (Vers 12–14)
+
+<sup>12</sup>Wehe dem, der eine Stadt mit Blut baut
+und eine Stadt mit Unrecht gründet!
+<sup>13</sup>Siehe, kommt es nicht vom HERRN der Heere,
+dass die Völker sich für das Feuer abmühen
+und die Nationen sich für nichts erschöpfen?
+<sup>14</sup>Denn die Erde wird voll werden von der Erkenntnis der Herrlichkeit des HERRN,
+wie die Wasser das Meer bedecken.
+
+> **Was bedeutet das?**
+> Vers 12: Babylon baute prachtvolle Städte, aber mit dem Blut und der Zwangsarbeit unterworfener Völker (vgl. Micha 3,10).
+> Vers 13: All diese Mühe ist umsonst. Was mit Unrecht gebaut wird, wird am Ende verbrennen.
+> Vers 14: Ein wunderbarer Ausblick mitten in den Wehe-Rufen: Am Ende werden nicht die Gewaltherrscher die Erde füllen, sondern die Erkenntnis von Gottes Herrlichkeit, so wie das Wasser das Meer füllt. Fast dieselben Worte stehen in Jesaja 11,9.
+
+---
+
+### Viertes Wehe: Erniedrigung anderer (Vers 15–17)
+
+<sup>15</sup>„Wehe dem, der seinem Nächsten zu trinken gibt,
+der deinen glühenden Wein einschenkt, bis sie betrunken sind,
+damit du ihre Nacktheit ansehen kannst!
+<sup>16</sup>Du bist voll von Schande statt von Ehre.
+Trink auch du und zeig deine Blöße!
+Der Becher in der rechten Hand des HERRN wird zu dir kommen,
+und Schande wird deine Herrlichkeit bedecken.
+<sup>17</sup>Denn die Gewalt am Libanon wird dich bedecken,
+und die Vernichtung der Tiere wird dich erschrecken,
+wegen des Menschenblutes
+und wegen der Gewalt am Land,
+an jeder Stadt und an allen, die darin wohnen.
+
+> **Was bedeutet das?**
+> Vers 15: Ein Bild für die Erniedrigung anderer: Jemand macht andere betrunken, um sie bloßzustellen und auszunutzen. So hat Babylon die Völker gedemütigt.
+> Das Bild beschreibt auch ein echtes Unrecht, das es bis heute gibt: Menschen werden mit Alkohol oder Drogen wehrlos gemacht und dann sexuell ausgenutzt. Gott verurteilt das klar. Wer so etwas erlebt hat, ist nicht schuld. Hilfe gibt es beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00, und beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530. Im Notfall: 110.
+> Vers 16: Die Strafe: Der Täter muss selbst den „Becher“ von Gottes Gericht trinken und wird selbst bloßgestellt.
+> Vers 17: Babylon hat die Wälder des Libanon abgeholzt und die Tiere vernichtet. Auch die Zerstörung der Natur ist ein Unrecht, das Gott sieht.
+
+---
+
+### Fünftes Wehe: Stumme Götzen (Vers 18–20)
+
+<sup>18</sup>„Was nützt das geschnitzte Bild,
+dass sein Bildner es geschnitzt hat,
+das gegossene Bild, der Lügenlehrer,
+dass sein Bildner auf es vertraut
+und stumme Götzen macht?
+<sup>19</sup>Wehe dem, der zum Holz sagt: ‚Wach auf!‘,
+und zum stummen Stein: ‚Steh auf!‘
+Soll das lehren?
+Siehe, es ist mit Gold und Silber überzogen,
+und es ist gar kein Atem darin.
+<sup>20</sup>Aber der HERR ist in seinem heiligen Tempel.
+Die ganze Erde schweige vor ihm!“
+
+> **Was bedeutet das?**
+> Vers 18–19: Babylon vertraute auf seine Götter, Statuen aus Holz und Stein, mit Gold überzogen. Aber sie sind tot, ohne Atem. Sie können nicht reden, nicht lehren, nicht helfen.
+> Vers 20: Der Gegensatz: Der lebendige Gott ist in seinem heiligen Tempel. Vor ihm soll die ganze Welt still werden. Die Götzen sind stumm, weil sie nichts sind. Die Menschen sollen still werden, weil Gott so groß ist.
+> Hier endet Habakuks Klage. Statt weiter zu fragen, wird er still vor Gott. Das führt zu seinem Gebet in Kapitel 3.
+
+## Habakuk – Kapitel 3
+#### Doch ich will mich freuen im HERRN
+
+---
+
+### Habakuks Gebet (Vers 1–2)
+
+<sup>1</sup>Ein Gebet des Propheten Habakuk, nach Art der Siegeslieder.
+<sup>2</sup>HERR, ich habe die Kunde von dir gehört.
+Ich stehe in Ehrfurcht vor deinen Taten, HERR.
+Erneuere dein Werk mitten in den Jahren.
+Mitten in den Jahren mach es bekannt.
+Im Zorn denke an Erbarmen.
+
+> **Was bedeutet das?**
+> Kapitel 3 ist ein Psalm, ein Lied für den Gottesdienst. Die Überschrift im Hebräischen („Schigjonot“) ist ein musikalischer Begriff, dessen genaue Bedeutung wir nicht kennen. Das WEB übersetzt „nach Art der Siegeslieder“.
+> Vers 2: Habakuk hat gehört, was Gott früher getan hat, zum Beispiel beim Auszug aus Ägypten. Er bittet: Tu es wieder, in unserer Zeit! Und eine wichtige Bitte: „Im Zorn denke an Erbarmen.“ Auch wenn Gott richten muss, soll er barmherzig bleiben.
+
+---
+
+### Gott erscheint (Vers 3–7)
+
+<sup>3</sup>Gott kam von Teman,
+der Heilige vom Berg Paran.
+Sela.
+Seine Herrlichkeit bedeckte den Himmel,
+und sein Lobpreis erfüllte die Erde.
+<sup>4</sup>Sein Glanz ist wie das Licht der Sonne.
+Strahlen gehen aus seiner Hand hervor,
+dort ist seine Macht verborgen.
+<sup>5</sup>Die Pest ging vor ihm her,
+und die Seuche folgte seinen Füßen.
+<sup>6</sup>Er stand und erschütterte die Erde.
+Er schaute und ließ die Völker erzittern.
+Die uralten Berge zerbarsten.
+Die ewigen Hügel sanken zusammen.
+Seine Wege sind ewig.
+<sup>7</sup>Ich sah die Zelte von Kuschan in Not.
+Die Zeltdecken im Land Midian zitterten.
+
+> **Was bedeutet das?**
+> Habakuk beschreibt, wie Gott in alter Zeit erschienen ist, wie ein gewaltiges Gewitter. Er kommt aus dem Süden: Teman (in Edom) und Paran (auf der Sinaihalbinsel). Das erinnert an Gottes Erscheinen am Berg Sinai (5. Mose 33,2; Richter 5,4–5).
+> „Sela“ ist wahrscheinlich ein Zeichen für die Musiker, vielleicht für eine Pause oder ein Zwischenspiel. Es steht auch oft in den Psalmen.
+> Vers 5: Pest und Seuche begleiten Gott wie Diener. Das erinnert an die Plagen in Ägypten.
+> Vers 7: Kuschan und Midian waren Wüstenvölker in der Gegend, durch die Israel nach dem Auszug aus Ägypten zog.
+
+---
+
+### Gott kämpft für sein Volk (Vers 8–15)
+
+<sup>8</sup>Warst du, HERR, über die Flüsse erzürnt?
+War dein Zorn gegen die Flüsse
+oder dein Grimm gegen das Meer,
+dass du auf deinen Pferden einherfuhrst,
+auf deinen Wagen der Rettung?
+<sup>9</sup>Du hast deinen Bogen entblößt.
+Du riefst nach deinen geschworenen Pfeilen.
+Sela.
+Du hast die Erde mit Flüssen gespalten.
+<sup>10</sup>Die Berge sahen dich und bebten.
+Die Wasserflut zog vorüber.
+Die Tiefe ließ ihre Stimme erschallen
+und hob ihre Hände in die Höhe.
+<sup>11</sup>Sonne und Mond blieben am Himmel stehen
+beim Licht deiner Pfeile, wie sie dahinflogen,
+beim Glanz deines blitzenden Speeres.
+<sup>12</sup>Du bist im Zorn durch das Land geschritten.
+Du hast die Völker im Grimm gedroschen.
+<sup>13</sup>Du bist ausgezogen zur Rettung deines Volkes,
+zur Rettung deines Gesalbten.
+Du hast den Kopf vom Haus des Gottlosen zerschmettert.
+Du hast ihn bloßgelegt von Kopf bis Fuß.
+Sela.
+<sup>14</sup>Du hast mit ihren eigenen Speeren
+die Köpfe seiner Krieger durchbohrt.
+Sie kamen wie ein Wirbelsturm, um mich zu zerstreuen.
+Sie frohlockten, als wollten sie den Elenden im Verborgenen verschlingen.
+<sup>15</sup>Du bist mit deinen Pferden durch das Meer gezogen,
+durch die schäumenden gewaltigen Wasser.
+
+> **Was bedeutet das?**
+> Habakuk beschreibt Gott wie einen Krieger mit Pferden, Wagen, Bogen und Speer. Das sind Bilder aus der Sprache der damaligen Zeit. Sie erinnern an Gottes große Rettungstaten:
+> Vers 8 und 15: Gott zieht durch das Meer, wie beim Auszug aus Ägypten durch das Schilfmeer (2. Mose 14–15).
+> Vers 11: Sonne und Mond stehen still, wie bei Josua (Josua 10,12–13).
+> Vers 13: Der wichtigste Satz: „Du bist ausgezogen zur Rettung deines Volkes.“ Gott kämpft nicht aus Lust an Gewalt, sondern um die Schwachen und Unterdrückten zu retten. „Dein Gesalbter“ ist der König oder das Volk.
+> Vers 14: Die Feinde wollten „den Elenden verschlingen“. Gott stellt sich auf die Seite der Elenden.
+> Diese Kampfbilder beschreiben Gottes Handeln. Sie sind kein Auftrag an Menschen, Krieg zu führen.
+
+---
+
+### Trotzdem will ich mich freuen (Vers 16–19)
+
+<sup>16</sup>Ich hörte es, und mein Leib bebte.
+Meine Lippen zitterten bei dem Klang.
+Fäulnis dringt in meine Knochen,
+und ich zittere an meinem Platz,
+weil ich ruhig warten muss auf den Tag der Not,
+bis das Volk heraufzieht, das uns überfällt.
+<sup>17</sup>Denn auch wenn der Feigenbaum nicht blüht
+und kein Ertrag an den Weinstöcken ist,
+der Ertrag des Ölbaums ausbleibt
+und die Felder keine Nahrung bringen,
+die Schafe aus dem Pferch verschwunden sind
+und keine Rinder in den Ställen stehen,
+<sup>18</sup>so will ich mich doch freuen im HERRN.
+Ich will jubeln über den Gott meines Heils!
+<sup>19</sup>Der HERR, der Herr, ist meine Kraft.
+Er macht meine Füße wie die der Hirsche
+und lässt mich über die Höhen schreiten.
+Für den Chorleiter, mit meinen Saiteninstrumenten.
+
+> **Was bedeutet das?**
+> Vers 16: Habakuk zittert am ganzen Körper. Er weiß: Die Babylonier werden kommen. Es wird eine schwere Zeit. Aber er hat gelernt, geduldig zu warten.
+> Vers 17–18: Einer der stärksten Glaubenssätze der Bibel. Habakuk zählt alles auf, was ein Bauer zum Leben braucht: Feigen, Wein, Oliven, Getreide, Schafe, Rinder. Und dann sagt er: Selbst wenn alles verloren ist, will ich mich trotzdem über Gott freuen.
+> Das ist keine oberflächliche Fröhlichkeit. Es ist ein tiefes Vertrauen: Auch wenn ich alles verliere, verliere ich Gott nicht.
+> Vers 19: Gott gibt Kraft. Wie ein Hirsch sicher über steile Felsen springt, so kann Habakuk mit Gottes Hilfe auch schwierige Wege gehen.
+> Der Weg des Buches: Am Anfang fragt Habakuk „Wie lange noch?“. Am Ende sagt er „Trotzdem will ich mich freuen“. Seine Lage hat sich nicht verändert, aber sein Vertrauen ist gewachsen.
+> Wenn du in einer schweren Zeit steckst und niemanden zum Reden hast: Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Rückblick: Was haben wir im Buch Habakuk gelesen?
+
+> **Was bedeutet das?**
+> **Ein Prophet fragt Gott:** „HERR, wie lange soll ich noch schreien, und du hörst nicht?“ (1,2). Habakuk bringt seine Zweifel und seine Klage ehrlich vor Gott.
+> **Gottes überraschende Antwort:** Gott schickt die Babylonier als Strafe. Das macht Habakuk noch mehr Fragen: Warum benutzt Gott ein noch schlimmeres Volk? (1,13).
+> **Warten auf Gott:** „Auch wenn sie sich verzögert, warte auf sie, denn sie wird gewiss kommen“ (2,3).
+> **Der Kernvers:** „Der Gerechte wird durch seinen Glauben leben“ (2,4). Paulus und Luther haben diesen Vers ins Zentrum gestellt.
+> **Fünf Wehe-Rufe:** Gegen Raub, unrechten Gewinn, Gewalt, die Erniedrigung anderer und die Götzen. Kein Gewaltherrscher hat Bestand.
+> **Hoffnung für die Welt:** „Die Erde wird voll werden von der Erkenntnis der Herrlichkeit des HERRN, wie die Wasser das Meer bedecken“ (2,14).
+> **Vertrauen trotz allem:** „Auch wenn der Feigenbaum nicht blüht … so will ich mich doch freuen im HERRN“ (3,17–18).
+> **Für heute:** Habakuk ermutigt uns, Gott ehrlich unsere Fragen zu stellen, und zeigt einen Weg vom Zweifel zum Vertrauen.
+> **Wie geht es weiter?** Als Nächstes kommt Zefanja. Er spricht vom „Tag des HERRN“, aber auch von Gottes Liebe: „Er wird sich über dich freuen mit Jubel“ (Zefanja 3,17).

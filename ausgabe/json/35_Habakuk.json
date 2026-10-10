@@ -1,0 +1,433 @@
+{
+ "nr": 35,
+ "code": "HAB",
+ "kuerzel": "Hab",
+ "name": "Habakuk",
+ "name_englisch": "Habakkuk",
+ "testament": "altes-testament",
+ "kapitel": 3,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Wie lange noch, HERR?",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Habakuk?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Über Habakuk wissen wir fast nichts, außer dass er ein Prophet war. Er lebte wahrscheinlich kurz vor 600 vor Christus in Juda, zur Zeit Jeremias. Damals stiegen die Babylonier (in der Bibel auch „Chaldäer“ genannt) zur neuen Weltmacht auf. Ninive war gerade gefallen (612 vor Christus, siehe Nahum).\nDas Besondere an Habakuk: Er spricht nicht nur im Auftrag Gottes zu den Menschen. Er spricht zu Gott, und er stellt ihm unbequeme Fragen: Warum lässt du das Unrecht zu? Warum schweigst du, wenn Böse die Gerechten verschlingen?\nDas Buch ist wie ein Gespräch zwischen Habakuk und Gott:\nKapitel 1: Habakuk klagt, Gott antwortet, Habakuk klagt wieder.\nKapitel 2: Gottes Antwort: „Der Gerechte wird durch seinen Glauben leben“ und fünf „Wehe“-Rufe gegen den Unterdrücker.\nKapitel 3: Ein Gebet und Lied. Es endet mit einem großen Vertrauen: „Auch wenn der Feigenbaum nicht blüht … will ich mich doch freuen im HERRN.“\nHabakuk zeigt: Man darf Gott Fragen stellen, auch zweifelnde und klagende. Das Buch hat 3 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Habakuks erste Klage",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der Ausspruch, den der Prophet Habakuk geschaut hat.",
+       "englisch_web": "The revelation which Habakkuk the prophet saw."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "HERR, wie lange soll ich noch schreien,\nund du hörst nicht?\nIch schreie zu dir: „Gewalt!“,\nund du rettest nicht?",
+       "englisch_web": "Yahweh, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Warum lässt du mich Unrecht sehen\nund schaust dem Elend zu?\nDenn Verwüstung und Gewalt sind vor mir.\nEs gibt Streit, und Zank erhebt sich.",
+       "englisch_web": "Why do you show me iniquity, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Darum ist das Gesetz kraftlos,\nund das Recht setzt sich nie durch.\nDenn der Gottlose umzingelt den Gerechten.\nDarum kommt das Recht verdreht heraus.",
+       "englisch_web": "Therefore the law is paralyzed, and justice never prevails; for the wicked surround the righteous; therefore justice comes out perverted."
+      }
+     ],
+     "erklaerung": "Habakuk beginnt mit einer Klage, wie in vielen Psalmen: „Wie lange noch?“ Er sieht Gewalt, Streit und Unrecht in seinem eigenen Volk Juda. Die Gerichte funktionieren nicht mehr. Die Bösen setzen sich durch.\nUnd Gott scheint nichts zu tun. Habakuk wirft Gott vor: Du hörst nicht! Du rettest nicht!\nDas ist erlaubt: In der Bibel dürfen Menschen ehrlich zu Gott sein, auch mit ihrer Enttäuschung, ihrem Zorn und ihren Zweifeln. Gott hält das aus."
+    },
+    {
+     "ueberschrift": "Gottes erste Antwort: Die Babylonier kommen",
+     "vers_von": 5,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "„Schaut unter die Völker und seht hin\nund staunt, ja, staunt!\nDenn ich tue ein Werk in euren Tagen,\ndas ihr nicht glauben würdet, wenn man es euch erzählte.",
+       "englisch_web": "“Look among the nations, watch, and wonder marvelously; for I am working a work in your days which you will not believe though it is told you."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Denn siehe, ich lasse die Chaldäer aufstehen,\ndas bittere und ungestüme Volk,\ndas durch die Weite der Erde zieht,\num Wohnungen in Besitz zu nehmen, die ihm nicht gehören.",
+       "englisch_web": "For, behold, I am raising up the Chaldeans, that bitter and hasty nation who march through the width of the earth, to possess dwelling places that are not theirs."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Es ist gefürchtet und schrecklich.\nSein Recht und seine Hoheit gehen von ihm selbst aus.",
+       "englisch_web": "They are feared and dreaded. Their judgment and their dignity proceed from themselves."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Seine Pferde sind schneller als Leoparden\nund wilder als die Wölfe am Abend.\nSeine Reiter sprengen stolz heran.\nJa, seine Reiter kommen von fern.\nSie fliegen wie ein Adler, der sich auf den Fraß stürzt.",
+       "englisch_web": "Their horses also are swifter than leopards, and are more fierce than the evening wolves. Their horsemen press proudly on. Yes, their horsemen come from afar. They fly as an eagle that hurries to devour."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Sie alle kommen zur Gewalt.\nIhre Scharen drängen nach vorn.\nSie sammeln Gefangene wie Sand.",
+       "englisch_web": "All of them come for violence. Their hordes face forward. They gather prisoners like sand."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ja, sie spotten über Könige,\nund Fürsten sind ihnen ein Gelächter.\nSie lachen über jede Festung,\ndenn sie schütten einen Erdwall auf und nehmen sie ein.",
+       "englisch_web": "Yes, they scoff at kings, and princes are a derision to them. They laugh at every stronghold, for they build up an earthen ramp and take it."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Dann fahren sie dahin wie der Wind und ziehen weiter.\nSie sind wirklich schuldig,\nsie, deren Kraft ihr Gott ist.“",
+       "englisch_web": "Then they sweep by like the wind and go on. They are indeed guilty, whose strength is their god.”"
+      }
+     ],
+     "erklaerung": "Gott antwortet, aber ganz anders, als Habakuk erwartet hat: Ich schicke die Babylonier. Sie werden das ungerechte Juda bestrafen.\nVers 5: Das ist so unglaublich, dass niemand es glauben würde. Paulus zitiert diesen Vers in einer Predigt (Apostelgeschichte 13,41).\nVers 6–10: Eine eindrucksvolle Beschreibung der babylonischen Armee: schnell wie Leoparden, wild wie Wölfe, wie ein Adler auf der Jagd. Keine Festung kann sie aufhalten. Sie schütten einfach einen Erdwall auf und klettern über die Mauern.\nVers 7 und 11: Die Babylonier kennen kein Recht außer ihrem eigenen. „Ihre Kraft ist ihr Gott“: Sie verehren nur ihre eigene Macht. Darum sind auch sie schuldig."
+    },
+    {
+     "ueberschrift": "Habakuks zweite Klage",
+     "vers_von": 12,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Bist du nicht von Ewigkeit her, HERR,\nmein Gott, mein Heiliger?\nWir werden nicht sterben.\nHERR, du hast sie zum Gericht bestimmt.\nDu, Fels, hast ihn eingesetzt, um zu strafen.",
+       "englisch_web": "Aren’t you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed them for judgment. You, Rock, have established him to punish."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Du hast zu reine Augen, um Böses mit anzusehen,\nund du kannst dem Elend nicht zuschauen.\nWarum schaust du dann den Treulosen zu\nund schweigst, wenn der Gottlose den verschlingt,\nder gerechter ist als er?",
+       "englisch_web": "You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously and keep silent when the wicked swallows up the man who is more righteous than he,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Warum machst du die Menschen wie die Fische im Meer,\nwie das Gewürm, das keinen Herrscher hat?",
+       "englisch_web": "and make men like the fish of the sea, like the creeping things that have no ruler over them?"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Er holt sie alle mit der Angel herauf.\nEr fängt sie mit seinem Netz\nund sammelt sie in seinem Schleppnetz.\nDarum freut er sich und jubelt.",
+       "englisch_web": "He takes up all of them with the hook. He catches them in his net and gathers them in his dragnet. Therefore he rejoices and is glad."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Darum opfert er seinem Netz\nund bringt seinem Schleppnetz Räucheropfer dar.\nDenn durch sie ist sein Anteil fett\nund seine Speise reichlich.",
+       "englisch_web": "Therefore he sacrifices to his net and burns incense to his dragnet, because by them his life is luxurious and his food is good."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Soll er darum immerfort sein Netz ausleeren\nund die Völker ohne Erbarmen töten?",
+       "englisch_web": "Will he therefore continually empty his net, and kill the nations without mercy?"
+      }
+     ],
+     "erklaerung": "Habakuk ist mit Gottes Antwort nicht zufrieden. Er hat ein neues Problem:\nVers 12: Er vertraut Gott, dem ewigen „Fels“. Er glaubt: Unser Volk wird nicht ganz untergehen. Er versteht auch, dass Gott die Babylonier als Werkzeug der Strafe gebraucht.\nVers 13: Aber: Gott, du bist heilig und kannst Böses nicht ansehen. Wie kannst du dann zulassen, dass die noch Schlimmeren die weniger Schlimmen verschlingen? Juda ist schuldig, ja, aber Babylon ist doch viel schlimmer!\nVers 14–17: Ein Bild: Babylon fängt Menschen wie Fische mit Angel und Netz. Und dann betet es sein eigenes Netz an, also seine militärische Macht, durch die es reich wird. Wird das ewig so weitergehen?\nDas ist eine Frage, die sich Menschen bis heute stellen: Warum haben Gewalttäter so oft Erfolg?"
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Der Gerechte wird durch seinen Glauben leben",
+   "abschnitte": [
+    {
+     "ueberschrift": "Gottes Antwort: Schreib es auf!",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ich will auf meinem Wachposten stehen\nund mich auf die Mauer stellen.\nIch will Ausschau halten, um zu sehen, was er mir sagen wird\nund was ich auf meine Klage antworten soll.",
+       "englisch_web": "I will stand at my watch and set myself on the ramparts, and will look out to see what he will say to me, and what I will answer concerning my complaint."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Der HERR antwortete mir:\n„Schreib die Vision auf\nund mach sie deutlich auf Tafeln,\ndamit man sie im Vorbeilaufen lesen kann.",
+       "englisch_web": "Yahweh answered me, “Write the vision, and make it plain on tablets, that he who runs may read it."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Denn die Vision gilt noch für die bestimmte Zeit.\nSie eilt dem Ende zu und wird nicht trügen.\nAuch wenn sie sich verzögert, warte auf sie,\ndenn sie wird gewiss kommen.\nSie wird nicht ausbleiben.",
+       "englisch_web": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it, because it will surely come. It won’t delay."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Siehe, aufgeblasen ist seine Seele,\nsie ist nicht aufrichtig in ihm.\nAber der Gerechte wird durch seinen Glauben leben.",
+       "englisch_web": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ja, außerdem ist der Wein trügerisch.\nEin hochmütiger Mann, der nicht zu Hause bleibt,\nder seinen Rachen weit aufsperrt wie das Totenreich,\ner ist wie der Tod und kann nicht satt werden.\nEr rafft alle Völker an sich\nund sammelt alle Nationen für sich.",
+       "englisch_web": "Yes, moreover, wine is treacherous: an arrogant man who doesn’t stay at home, who enlarges his desire as Sheol; he is like death and can’t be satisfied, but gathers to himself all nations and heaps to himself all peoples."
+      }
+     ],
+     "erklaerung": "Vers 1: Habakuk stellt sich wie ein Wächter auf die Mauer und wartet geduldig auf Gottes Antwort.\nVers 2: Gott sagt: Schreib es groß und deutlich auf, so wie auf einem Plakat. Jeder soll es lesen können, auch im Vorbeigehen.\nVers 3: Die Erfüllung kommt bestimmt, auch wenn es dauert. Warte geduldig!\nVers 4: Der Kernvers des Buches. Es gibt zwei Arten von Menschen: Die Hochmütigen, die aufgeblasen sind und nicht aufrichtig leben (gemeint ist besonders Babylon). Und die Gerechten, die durch ihren Glauben leben.\nDas hebräische Wort für „Glaube“ heißt auch „Treue“ oder „Verlässlichkeit“. Der Gerechte vertraut Gott und bleibt ihm treu, auch wenn er noch nicht sieht, wie Gott eingreift.\nDieser Vers ist im Neuen Testament sehr wichtig. Paulus zitiert ihn im Römerbrief (1,17) und im Galaterbrief (3,11): Der Mensch wird vor Gott gerecht durch den Glauben. Auch im Hebräerbrief wird er zitiert (10,38). Für Martin Luther wurde er zum Schlüssel für die Reformation.\nVers 5: Der Hochmütige ist unersättlich wie der Tod. Er will immer mehr Völker unterwerfen."
+    },
+    {
+     "ueberschrift": "Erstes und zweites Wehe: Raub und unrechter Gewinn",
+     "vers_von": 6,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Werden nicht alle diese ein Spottlied über ihn anstimmen\nund ein Rätselwort über ihn und sagen:\n‚Wehe dem, der anhäuft, was nicht sein ist,\nund sich bereichert durch Erpressung!\nWie lange noch?‘",
+       "englisch_web": "Won’t all these take up a parable against him, and a taunting proverb against him, and say, ‘Woe to him who increases that which is not his, and who enriches himself by extortion! How long?’"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Werden nicht plötzlich deine Gläubiger aufstehen\nund die erwachen, die dich zittern lassen,\nund du wirst ihre Beute werden?",
+       "englisch_web": "Won’t your debtors rise up suddenly, and wake up those who make you tremble, and you will be their victim?"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Weil du viele Völker ausgeplündert hast,\nwird dich der ganze Rest der Völker ausplündern,\nwegen des Menschenblutes\nund wegen der Gewalt am Land,\nan der Stadt und an allen, die darin wohnen.",
+       "englisch_web": "Because you have plundered many nations, all the remnant of the peoples will plunder you because of men’s blood, and for the violence done to the land, to the city and to all who dwell in it."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wehe dem, der bösen Gewinn für sein Haus erwirbt,\num sein Nest hoch oben zu bauen,\num sich vor der Hand des Unheils zu retten!",
+       "englisch_web": "Woe to him who gets an evil gain for his house, that he may set his nest on high, that he may be delivered from the hand of evil!"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Du hast Schande für dein Haus geplant,\nindem du viele Völker vernichtet hast,\nund hast gegen deine eigene Seele gesündigt.",
+       "englisch_web": "You have devised shame to your house by cutting off many peoples, and have sinned against your soul."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn der Stein wird aus der Mauer schreien,\nund der Balken aus dem Holzwerk wird ihm antworten.",
+       "englisch_web": "For the stone will cry out of the wall, and the beam out of the woodwork will answer it."
+      }
+     ],
+     "erklaerung": "Jetzt folgen fünf „Wehe“-Rufe gegen den Unterdrücker (Babylon). Die unterdrückten Völker stimmen ein Spottlied an.\nErstes Wehe (Vers 6–8): Gegen den, der andere ausraubt. Was er anderen angetan hat, wird ihm selbst geschehen: Die Ausgeplünderten werden ihn ausplündern.\nZweites Wehe (Vers 9–11): Gegen den, der sich mit unrechtem Gewinn ein sicheres Haus baut, „hoch oben“, weit weg von allen Gefahren. Aber selbst die Steine in der Mauer werden schreien und ihn anklagen, weil sie mit gestohlenem Geld bezahlt wurden.\nFür heute: Reichtum, der auf Ausbeutung beruht, ist nicht sicher."
+    },
+    {
+     "ueberschrift": "Drittes Wehe: Eine Stadt mit Blut gebaut",
+     "vers_von": 12,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Wehe dem, der eine Stadt mit Blut baut\nund eine Stadt mit Unrecht gründet!",
+       "englisch_web": "Woe to him who builds a town with blood, and establishes a city by iniquity!"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Siehe, kommt es nicht vom HERRN der Heere,\ndass die Völker sich für das Feuer abmühen\nund die Nationen sich für nichts erschöpfen?",
+       "englisch_web": "Behold, isn’t it from Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Denn die Erde wird voll werden von der Erkenntnis der Herrlichkeit des HERRN,\nwie die Wasser das Meer bedecken.",
+       "englisch_web": "For the earth will be filled with the knowledge of Yahweh’s glory, as the waters cover the sea."
+      }
+     ],
+     "erklaerung": "Vers 12: Babylon baute prachtvolle Städte, aber mit dem Blut und der Zwangsarbeit unterworfener Völker (vgl. Micha 3,10).\nVers 13: All diese Mühe ist umsonst. Was mit Unrecht gebaut wird, wird am Ende verbrennen.\nVers 14: Ein wunderbarer Ausblick mitten in den Wehe-Rufen: Am Ende werden nicht die Gewaltherrscher die Erde füllen, sondern die Erkenntnis von Gottes Herrlichkeit, so wie das Wasser das Meer füllt. Fast dieselben Worte stehen in Jesaja 11,9."
+    },
+    {
+     "ueberschrift": "Viertes Wehe: Erniedrigung anderer",
+     "vers_von": 15,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "„Wehe dem, der seinem Nächsten zu trinken gibt,\nder deinen glühenden Wein einschenkt, bis sie betrunken sind,\ndamit du ihre Nacktheit ansehen kannst!",
+       "englisch_web": "“Woe to him who gives his neighbor drink, pouring your inflaming wine until they are drunk, so that you may gaze at their naked bodies!"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Du bist voll von Schande statt von Ehre.\nTrink auch du und zeig deine Blöße!\nDer Becher in der rechten Hand des HERRN wird zu dir kommen,\nund Schande wird deine Herrlichkeit bedecken.",
+       "englisch_web": "You are filled with shame, and not glory. You will also drink and be exposed! The cup of Yahweh’s right hand will come around to you, and disgrace will cover your glory."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn die Gewalt am Libanon wird dich bedecken,\nund die Vernichtung der Tiere wird dich erschrecken,\nwegen des Menschenblutes\nund wegen der Gewalt am Land,\nan jeder Stadt und an allen, die darin wohnen.",
+       "englisch_web": "For the violence done to Lebanon will overwhelm you, and the destruction of the animals will terrify you, because of men’s blood and for the violence done to the land, to every city and to those who dwell in them."
+      }
+     ],
+     "erklaerung": "Vers 15: Ein Bild für die Erniedrigung anderer: Jemand macht andere betrunken, um sie bloßzustellen und auszunutzen. So hat Babylon die Völker gedemütigt.\nDas Bild beschreibt auch ein echtes Unrecht, das es bis heute gibt: Menschen werden mit Alkohol oder Drogen wehrlos gemacht und dann sexuell ausgenutzt. Gott verurteilt das klar. Wer so etwas erlebt hat, ist nicht schuld. Hilfe gibt es beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00, und beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530. Im Notfall: 110.\nVers 16: Die Strafe: Der Täter muss selbst den „Becher“ von Gottes Gericht trinken und wird selbst bloßgestellt.\nVers 17: Babylon hat die Wälder des Libanon abgeholzt und die Tiere vernichtet. Auch die Zerstörung der Natur ist ein Unrecht, das Gott sieht."
+    },
+    {
+     "ueberschrift": "Fünftes Wehe: Stumme Götzen",
+     "vers_von": 18,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "„Was nützt das geschnitzte Bild,\ndass sein Bildner es geschnitzt hat,\ndas gegossene Bild, der Lügenlehrer,\ndass sein Bildner auf es vertraut\nund stumme Götzen macht?",
+       "englisch_web": "“What value does the engraved image have, that its maker has engraved it; the molten image, even the teacher of lies, that he who fashions its form trusts in it, to make mute idols?"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wehe dem, der zum Holz sagt: ‚Wach auf!‘,\nund zum stummen Stein: ‚Steh auf!‘\nSoll das lehren?\nSiehe, es ist mit Gold und Silber überzogen,\nund es ist gar kein Atem darin.",
+       "englisch_web": "Woe to him who says to the wood, ‘Awake!’ or to the mute stone, ‘Arise!’ Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all within it."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Aber der HERR ist in seinem heiligen Tempel.\nDie ganze Erde schweige vor ihm!“",
+       "englisch_web": "But Yahweh is in his holy temple. Let all the earth be silent before him!”"
+      }
+     ],
+     "erklaerung": "Vers 18–19: Babylon vertraute auf seine Götter, Statuen aus Holz und Stein, mit Gold überzogen. Aber sie sind tot, ohne Atem. Sie können nicht reden, nicht lehren, nicht helfen.\nVers 20: Der Gegensatz: Der lebendige Gott ist in seinem heiligen Tempel. Vor ihm soll die ganze Welt still werden. Die Götzen sind stumm, weil sie nichts sind. Die Menschen sollen still werden, weil Gott so groß ist.\nHier endet Habakuks Klage. Statt weiter zu fragen, wird er still vor Gott. Das führt zu seinem Gebet in Kapitel 3."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Doch ich will mich freuen im HERRN",
+   "abschnitte": [
+    {
+     "ueberschrift": "Habakuks Gebet",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Gebet des Propheten Habakuk, nach Art der Siegeslieder.",
+       "englisch_web": "A prayer of Habakkuk, the prophet, set to victorious music."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "HERR, ich habe die Kunde von dir gehört.\nIch stehe in Ehrfurcht vor deinen Taten, HERR.\nErneuere dein Werk mitten in den Jahren.\nMitten in den Jahren mach es bekannt.\nIm Zorn denke an Erbarmen.",
+       "englisch_web": "Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy."
+      }
+     ],
+     "erklaerung": "Kapitel 3 ist ein Psalm, ein Lied für den Gottesdienst. Die Überschrift im Hebräischen („Schigjonot“) ist ein musikalischer Begriff, dessen genaue Bedeutung wir nicht kennen. Das WEB übersetzt „nach Art der Siegeslieder“.\nVers 2: Habakuk hat gehört, was Gott früher getan hat, zum Beispiel beim Auszug aus Ägypten. Er bittet: Tu es wieder, in unserer Zeit! Und eine wichtige Bitte: „Im Zorn denke an Erbarmen.“ Auch wenn Gott richten muss, soll er barmherzig bleiben."
+    },
+    {
+     "ueberschrift": "Gott erscheint",
+     "vers_von": 3,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Gott kam von Teman,\nder Heilige vom Berg Paran.\nSela.\nSeine Herrlichkeit bedeckte den Himmel,\nund sein Lobpreis erfüllte die Erde.",
+       "englisch_web": "God came from Teman, the Holy One from Mount Paran. Selah. His glory covered the heavens, and his praise filled the earth."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Sein Glanz ist wie das Licht der Sonne.\nStrahlen gehen aus seiner Hand hervor,\ndort ist seine Macht verborgen.",
+       "englisch_web": "His splendor is like the sunrise. Rays shine from his hand, where his power is hidden."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die Pest ging vor ihm her,\nund die Seuche folgte seinen Füßen.",
+       "englisch_web": "Plague went before him, and pestilence followed his feet."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er stand und erschütterte die Erde.\nEr schaute und ließ die Völker erzittern.\nDie uralten Berge zerbarsten.\nDie ewigen Hügel sanken zusammen.\nSeine Wege sind ewig.",
+       "englisch_web": "He stood, and shook the earth. He looked, and made the nations tremble. The ancient mountains were crumbled. The age-old hills collapsed. His ways are eternal."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ich sah die Zelte von Kuschan in Not.\nDie Zeltdecken im Land Midian zitterten.",
+       "englisch_web": "I saw the tents of Cushan in affliction. The dwellings of the land of Midian trembled."
+      }
+     ],
+     "erklaerung": "Habakuk beschreibt, wie Gott in alter Zeit erschienen ist, wie ein gewaltiges Gewitter. Er kommt aus dem Süden: Teman (in Edom) und Paran (auf der Sinaihalbinsel). Das erinnert an Gottes Erscheinen am Berg Sinai (5. Mose 33,2; Richter 5,4–5).\n„Sela“ ist wahrscheinlich ein Zeichen für die Musiker, vielleicht für eine Pause oder ein Zwischenspiel. Es steht auch oft in den Psalmen.\nVers 5: Pest und Seuche begleiten Gott wie Diener. Das erinnert an die Plagen in Ägypten.\nVers 7: Kuschan und Midian waren Wüstenvölker in der Gegend, durch die Israel nach dem Auszug aus Ägypten zog."
+    },
+    {
+     "ueberschrift": "Gott kämpft für sein Volk",
+     "vers_von": 8,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Warst du, HERR, über die Flüsse erzürnt?\nWar dein Zorn gegen die Flüsse\noder dein Grimm gegen das Meer,\ndass du auf deinen Pferden einherfuhrst,\nauf deinen Wagen der Rettung?",
+       "englisch_web": "Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du hast deinen Bogen entblößt.\nDu riefst nach deinen geschworenen Pfeilen.\nSela.\nDu hast die Erde mit Flüssen gespalten.",
+       "englisch_web": "You uncovered your bow. You called for your sworn arrows. Selah. You split the earth with rivers."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die Berge sahen dich und bebten.\nDie Wasserflut zog vorüber.\nDie Tiefe ließ ihre Stimme erschallen\nund hob ihre Hände in die Höhe.",
+       "englisch_web": "The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sonne und Mond blieben am Himmel stehen\nbeim Licht deiner Pfeile, wie sie dahinflogen,\nbeim Glanz deines blitzenden Speeres.",
+       "englisch_web": "The sun and moon stood still in the sky at the light of your arrows as they went, at the shining of your glittering spear."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Du bist im Zorn durch das Land geschritten.\nDu hast die Völker im Grimm gedroschen.",
+       "englisch_web": "You marched through the land in wrath. You threshed the nations in anger."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Du bist ausgezogen zur Rettung deines Volkes,\nzur Rettung deines Gesalbten.\nDu hast den Kopf vom Haus des Gottlosen zerschmettert.\nDu hast ihn bloßgelegt von Kopf bis Fuß.\nSela.",
+       "englisch_web": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot. Selah."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Du hast mit ihren eigenen Speeren\ndie Köpfe seiner Krieger durchbohrt.\nSie kamen wie ein Wirbelsturm, um mich zu zerstreuen.\nSie frohlockten, als wollten sie den Elenden im Verborgenen verschlingen.",
+       "englisch_web": "You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Du bist mit deinen Pferden durch das Meer gezogen,\ndurch die schäumenden gewaltigen Wasser.",
+       "englisch_web": "You trampled the sea with your horses, churning mighty waters."
+      }
+     ],
+     "erklaerung": "Habakuk beschreibt Gott wie einen Krieger mit Pferden, Wagen, Bogen und Speer. Das sind Bilder aus der Sprache der damaligen Zeit. Sie erinnern an Gottes große Rettungstaten:\nVers 8 und 15: Gott zieht durch das Meer, wie beim Auszug aus Ägypten durch das Schilfmeer (2. Mose 14–15).\nVers 11: Sonne und Mond stehen still, wie bei Josua (Josua 10,12–13).\nVers 13: Der wichtigste Satz: „Du bist ausgezogen zur Rettung deines Volkes.“ Gott kämpft nicht aus Lust an Gewalt, sondern um die Schwachen und Unterdrückten zu retten. „Dein Gesalbter“ ist der König oder das Volk.\nVers 14: Die Feinde wollten „den Elenden verschlingen“. Gott stellt sich auf die Seite der Elenden.\nDiese Kampfbilder beschreiben Gottes Handeln. Sie sind kein Auftrag an Menschen, Krieg zu führen."
+    },
+    {
+     "ueberschrift": "Trotzdem will ich mich freuen",
+     "vers_von": 16,
+     "vers_bis": 19,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich hörte es, und mein Leib bebte.\nMeine Lippen zitterten bei dem Klang.\nFäulnis dringt in meine Knochen,\nund ich zittere an meinem Platz,\nweil ich ruhig warten muss auf den Tag der Not,\nbis das Volk heraufzieht, das uns überfällt.",
+       "englisch_web": "I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place because I must wait quietly for the day of trouble, for the coming up of the people who invade us."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn auch wenn der Feigenbaum nicht blüht\nund kein Ertrag an den Weinstöcken ist,\nder Ertrag des Ölbaums ausbleibt\nund die Felder keine Nahrung bringen,\ndie Schafe aus dem Pferch verschwunden sind\nund keine Rinder in den Ställen stehen,",
+       "englisch_web": "For even though the fig tree doesn’t flourish, nor fruit be in the vines, the labor of the olive fails, the fields yield no food, the flocks are cut off from the fold, and there is no herd in the stalls,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "so will ich mich doch freuen im HERRN.\nIch will jubeln über den Gott meines Heils!",
+       "englisch_web": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der HERR, der Herr, ist meine Kraft.\nEr macht meine Füße wie die der Hirsche\nund lässt mich über die Höhen schreiten.\nFür den Chorleiter, mit meinen Saiteninstrumenten.",
+       "englisch_web": "Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments."
+      }
+     ],
+     "erklaerung": "Vers 16: Habakuk zittert am ganzen Körper. Er weiß: Die Babylonier werden kommen. Es wird eine schwere Zeit. Aber er hat gelernt, geduldig zu warten.\nVers 17–18: Einer der stärksten Glaubenssätze der Bibel. Habakuk zählt alles auf, was ein Bauer zum Leben braucht: Feigen, Wein, Oliven, Getreide, Schafe, Rinder. Und dann sagt er: Selbst wenn alles verloren ist, will ich mich trotzdem über Gott freuen.\nDas ist keine oberflächliche Fröhlichkeit. Es ist ein tiefes Vertrauen: Auch wenn ich alles verliere, verliere ich Gott nicht.\nVers 19: Gott gibt Kraft. Wie ein Hirsch sicher über steile Felsen springt, so kann Habakuk mit Gottes Hilfe auch schwierige Wege gehen.\nDer Weg des Buches: Am Anfang fragt Habakuk „Wie lange noch?“. Am Ende sagt er „Trotzdem will ich mich freuen“. Seine Lage hat sich nicht verändert, aber sein Vertrauen ist gewachsen.\nWenn du in einer schweren Zeit steckst und niemanden zum Reden hast: Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im Buch Habakuk gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Ein Prophet fragt Gott:** „HERR, wie lange soll ich noch schreien, und du hörst nicht?“ (1,2). Habakuk bringt seine Zweifel und seine Klage ehrlich vor Gott.\n**Gottes überraschende Antwort:** Gott schickt die Babylonier als Strafe. Das macht Habakuk noch mehr Fragen: Warum benutzt Gott ein noch schlimmeres Volk? (1,13).\n**Warten auf Gott:** „Auch wenn sie sich verzögert, warte auf sie, denn sie wird gewiss kommen“ (2,3).\n**Der Kernvers:** „Der Gerechte wird durch seinen Glauben leben“ (2,4). Paulus und Luther haben diesen Vers ins Zentrum gestellt.\n**Fünf Wehe-Rufe:** Gegen Raub, unrechten Gewinn, Gewalt, die Erniedrigung anderer und die Götzen. Kein Gewaltherrscher hat Bestand.\n**Hoffnung für die Welt:** „Die Erde wird voll werden von der Erkenntnis der Herrlichkeit des HERRN, wie die Wasser das Meer bedecken“ (2,14).\n**Vertrauen trotz allem:** „Auch wenn der Feigenbaum nicht blüht … so will ich mich doch freuen im HERRN“ (3,17–18).\n**Für heute:** Habakuk ermutigt uns, Gott ehrlich unsere Fragen zu stellen, und zeigt einen Weg vom Zweifel zum Vertrauen.\n**Wie geht es weiter?** Als Nächstes kommt Zefanja. Er spricht vom „Tag des HERRN“, aber auch von Gottes Liebe: „Er wird sich über dich freuen mit Jubel“ (Zefanja 3,17)."
+    }
+   ]
+  }
+ ]
+}
