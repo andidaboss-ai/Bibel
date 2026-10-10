@@ -73,6 +73,6 @@ denn er hat sich aufgemacht aus seiner heiligen Wohnung!“
 > **Was bedeutet das?**
 > Vers 10: Gott kommt selbst und wohnt mitten in seinem Volk. Im Johannesevangelium heißt es über Jesus: „Das Wort wurde Fleisch und wohnte unter uns“ (Johannes 1,14).
 > Vers 11: Ein großer Ausblick: Viele Völker werden sich Gott anschließen und „mein Volk“ sein. Gottes Volk wird größer als Israel allein. Andere Völker werden nicht ausgeschlossen, sondern eingeladen.
-> Vers 12: Hier kommt in der Bibel zum ersten Mal der Ausdruck „heiliges Land“ vor.
+> Vers 12: Der Ausdruck „heiliges Land“ ist im Alten Testament sehr selten. Viele Ausleger halten diese Stelle für die einzige.
 > Vers 13: „Alles Fleisch sei still“, also alle Menschen. Gott ist aufgestanden, um zu handeln (vgl. Habakuk 2,20).
 
