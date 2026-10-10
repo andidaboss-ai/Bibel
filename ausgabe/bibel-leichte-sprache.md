@@ -104701,3 +104701,492 @@ spricht der Herr, der HERR.“
 > Vers 25: „Jetzt werde ich mich erbarmen.“ Gott wendet das Schicksal.
 > Vers 29: „Ich werde mein Angesicht nicht mehr verbergen, denn ich habe meinen Geist ausgegossen.“ Gottes Nähe wird bleiben. Das erinnert an Joel 2,28 (in deutschen Bibeln Joel 3,1): „Ich will meinen Geist ausgießen über alles Fleisch.“ Christen sehen das zu Pfingsten erfüllt (Apostelgeschichte 2,17).
 > „Gottes Angesicht“ ist ein Bild für seine Zuwendung und Nähe. Im Aaronitischen Segen heißt es: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).
+
+## Hesekiel – Kapitel 40
+#### Die Vision vom neuen Tempel
+
+---
+
+### Der Mann mit der Messrute (Vers 1–4)
+
+<sup>1</sup>Im fünfundzwanzigsten Jahr unserer Gefangenschaft,
+am Anfang des Jahres, am zehnten Tag des Monats,
+im vierzehnten Jahr, nachdem die Stadt geschlagen worden war,
+genau an diesem Tag
+kam die Hand des HERRN über mich,
+und er brachte mich dorthin.
+<sup>2</sup>In Visionen Gottes brachte er mich in das Land Israel
+und setzte mich auf einen sehr hohen Berg.
+Darauf war im Süden etwas wie der Bau einer Stadt.
+<sup>3</sup>Er brachte mich dorthin.
+Und siehe, da war ein Mann,
+der aussah wie Bronze,
+mit einer Schnur aus Flachs in seiner Hand
+und einer Messrute.
+Er stand im Tor.
+<sup>4</sup>Der Mann sagte zu mir:
+„Menschensohn, sieh mit deinen Augen,
+höre mit deinen Ohren
+und richte dein Herz auf alles, was ich dir zeigen werde.
+Denn du bist hierher gebracht worden,
+damit ich es dir zeige.
+Verkünde dem Haus Israel alles, was du siehst.“
+
+> **Was bedeutet das?**
+> Jetzt beginnt der letzte große Teil des Buches (Kapitel 40–48): die Vision von einem neuen Tempel und einem neuen Land.
+> Vers 1: Das ist im Jahr 573 vor Christus, 25 Jahre nach Hesekiels Verschleppung und 14 Jahre nach der Zerstörung Jerusalems. Der alte Tempel liegt in Trümmern.
+> Vers 2–3: Wieder in einer Vision wird Hesekiel nach Israel gebracht. Ein himmlischer Mann, „der aussah wie Bronze“, hat eine Messschnur und eine Messrute. Er wird den ganzen neuen Tempel genau vermessen.
+> Warum so viele Maße? Für die Menschen im Exil war das eine Botschaft: Der Tempel wird nicht nur ein Traum sein. Gott hat einen genauen Plan. Es gibt eine Zukunft.
+> Hinweis: Die folgenden Kapitel enthalten sehr viele Maße und Baubeschreibungen. Sie sind nicht leicht zu lesen, und manche Einzelheiten sind auch für Fachleute schwer zu verstehen. Man muss nicht jedes Detail verstehen, um die Botschaft zu erfassen: Gott will wieder mitten unter seinem Volk wohnen.
+
+---
+
+### Das Osttor (Vers 5–16)
+
+<sup>5</sup>Und siehe, da war eine Mauer außen um das Haus herum.
+In der Hand des Mannes war eine Messrute, sechs Ellen lang,
+jede Elle eine Elle und eine Handbreite.
+Er maß die Dicke des Baus: eine Rute,
+und die Höhe: eine Rute.
+<sup>6</sup>Dann kam er zum Tor, das nach Osten schaut,
+und stieg seine Stufen hinauf.
+Er maß die Schwelle des Tores: eine Rute breit,
+und die andere Schwelle: eine Rute breit.
+<sup>7</sup>Jede Wachkammer war eine Rute lang und eine Rute breit.
+Zwischen den Wachkammern waren fünf Ellen.
+Die Schwelle des Tores bei der Vorhalle des Tores zum Haus hin war eine Rute.
+<sup>8</sup>Er maß auch die Vorhalle des Tores zum Haus hin: eine Rute.
+<sup>9</sup>Dann maß er die Vorhalle des Tores: acht Ellen,
+und ihre Pfeiler: zwei Ellen.
+Die Vorhalle des Tores war zum Haus hin.
+<sup>10</sup>Die Seitenkammern des Tores nach Osten waren drei auf dieser Seite
+und drei auf jener Seite.
+Alle drei hatten dasselbe Maß.
+Auch die Pfeiler hatten dasselbe Maß auf dieser und auf jener Seite.
+<sup>11</sup>Er maß die Breite der Toröffnung: zehn Ellen,
+und die Länge des Tores: dreizehn Ellen,
+<sup>12</sup>und eine Abgrenzung vor den Wachkammern:
+eine Elle auf dieser Seite
+und eine Abgrenzung von einer Elle auf jener Seite.
+Die Seitenkammern waren sechs Ellen auf dieser Seite
+und sechs Ellen auf jener Seite.
+<sup>13</sup>Er maß das Tor vom Dach der einen Seitenkammer
+bis zum Dach der anderen:
+eine Breite von fünfundzwanzig Ellen, Tür gegenüber Tür.
+<sup>14</sup>Er machte auch die Pfeiler: sechzig Ellen.
+Und der Vorhof reichte bis an die Pfeiler rings um das Tor.
+<sup>15</sup>Von der Vorderseite des Tores am Eingang
+bis zur Vorderseite der inneren Vorhalle des Tores
+waren es fünfzig Ellen.
+<sup>16</sup>Es gab vergitterte Fenster an den Seitenkammern
+und an ihren Pfeilern innerhalb des Tores ringsum,
+und ebenso an den Bögen.
+Fenster waren ringsum nach innen.
+Auf jedem Pfeiler waren Palmen.
+
+> **Was bedeutet das?**
+> Eine Elle ist die Länge vom Ellbogen bis zur Fingerspitze, etwa 45 Zentimeter. Die hier benutzte „große Elle“ (eine Elle und eine Handbreite) ist etwa 52 Zentimeter lang. Die Messrute ist sechs solcher Ellen lang, also etwa drei Meter.
+> Das Osttor ist ein großes Torgebäude mit je drei Wachkammern auf beiden Seiten, ähnlich wie bei alten Stadttoren in Israel (zum Beispiel in Megiddo, Hazor und Geser). Es ist etwa 25 Meter lang und 13 Meter breit.
+> Die Palmen (Vers 16) waren ein Zeichen für Leben, Fruchtbarkeit und Sieg. Schon im Tempel Salomos gab es Palmenschmuck (1. Könige 6,29).
+> Das Osttor ist besonders wichtig: Durch dieses Tor hatte Gottes Herrlichkeit den Tempel verlassen (Kapitel 10–11). Und durch dieses Tor wird sie zurückkehren (Kapitel 43).
+
+---
+
+### Der äußere Vorhof und die anderen Tore (Vers 17–27)
+
+<sup>17</sup>Dann brachte er mich in den äußeren Vorhof.
+Und siehe, da waren Kammern und ein Steinpflaster,
+das ringsum für den Vorhof gemacht war.
+Dreißig Kammern lagen auf dem Pflaster.
+<sup>18</sup>Das Pflaster lag an der Seite der Tore,
+entsprechend der Länge der Tore,
+das untere Pflaster.
+<sup>19</sup>Dann maß er die Breite
+von der Vorderseite des unteren Tores
+bis zur Vorderseite des inneren Vorhofs außen:
+hundert Ellen, im Osten und im Norden.
+<sup>20</sup>Er maß die Länge und die Breite des Tores des äußeren Vorhofs,
+das nach Norden schaut.
+<sup>21</sup>Seine Wachkammern waren drei auf dieser Seite
+und drei auf jener Seite.
+Seine Pfeiler und seine Bögen hatten dasselbe Maß wie das erste Tor:
+Seine Länge war fünfzig Ellen
+und die Breite fünfundzwanzig Ellen.
+<sup>22</sup>Seine Fenster, seine Bögen und seine Palmen
+hatten dasselbe Maß wie beim Tor, das nach Osten schaut.
+Man stieg auf sieben Stufen zu ihm hinauf.
+Seine Bögen lagen vor ihnen.
+<sup>23</sup>Es gab ein Tor zum inneren Vorhof,
+gegenüber dem anderen Tor, im Norden und im Osten.
+Er maß von Tor zu Tor hundert Ellen.
+<sup>24</sup>Er führte mich nach Süden,
+und siehe, da war ein Tor nach Süden.
+Er maß seine Pfeiler und seine Bögen nach diesen Maßen.
+<sup>25</sup>In ihm und in seinen Bögen waren ringsum Fenster
+wie die anderen Fenster.
+Die Länge war fünfzig Ellen
+und die Breite fünfundzwanzig Ellen.
+<sup>26</sup>Sieben Stufen führten zu ihm hinauf,
+und seine Bögen lagen vor ihnen.
+Es hatte Palmen an seinen Pfeilern,
+eine auf dieser Seite und eine auf jener Seite.
+<sup>27</sup>Es gab ein Tor zum inneren Vorhof nach Süden.
+Er maß von Tor zu Tor nach Süden hundert Ellen.
+
+> **Was bedeutet das?**
+> Der äußere Vorhof hat drei gleiche Tore: im Osten, im Norden und im Süden. Im Westen gibt es kein Tor, dort steht das Tempelhaus selbst.
+> Zu den äußeren Toren führen sieben Stufen hinauf. Der Tempel liegt also erhöht. Wer zu Gott kommt, geht nach oben.
+> Die dreißig Kammern am Rand dienten wahrscheinlich für Opfermahlzeiten des Volkes.
+> Die vielen gleichen Maße zeigen Ordnung, Harmonie und Vollkommenheit.
+
+---
+
+### Die Tore des inneren Vorhofs (Vers 28–37)
+
+<sup>28</sup>Dann brachte er mich durch das Südtor in den inneren Vorhof.
+Er maß das Südtor nach diesen Maßen,
+<sup>29</sup>mit seinen Wachkammern, seinen Pfeilern und seinen Bögen,
+nach diesen Maßen.
+In ihm und in seinen Bögen waren ringsum Fenster.
+Es war fünfzig Ellen lang und fünfundzwanzig Ellen breit.
+<sup>30</sup>Ringsum waren Bögen,
+fünfundzwanzig Ellen lang und fünf Ellen breit.
+<sup>31</sup>Seine Bögen lagen zum äußeren Vorhof hin.
+Palmen waren an seinen Pfeilern.
+Der Aufgang zu ihm hatte acht Stufen.
+<sup>32</sup>Er brachte mich in den inneren Vorhof nach Osten.
+Er maß das Tor nach diesen Maßen,
+<sup>33</sup>mit seinen Wachkammern, seinen Pfeilern und seinen Bögen,
+nach diesen Maßen.
+In ihm und in seinen Bögen waren ringsum Fenster.
+Es war fünfzig Ellen lang und fünfundzwanzig Ellen breit.
+<sup>34</sup>Seine Bögen lagen zum äußeren Vorhof hin.
+Palmen waren an seinen Pfeilern auf dieser und auf jener Seite.
+Der Aufgang zu ihm hatte acht Stufen.
+<sup>35</sup>Er brachte mich zum Nordtor,
+und er maß es nach diesen Maßen:
+<sup>36</sup>seine Wachkammern, seine Pfeiler und seine Bögen.
+In ihm waren ringsum Fenster.
+Die Länge war fünfzig Ellen und die Breite fünfundzwanzig Ellen.
+<sup>37</sup>Seine Pfeiler lagen zum äußeren Vorhof hin.
+Palmen waren an seinen Pfeilern auf dieser und auf jener Seite.
+Der Aufgang zu ihm hatte acht Stufen.
+
+> **Was bedeutet das?**
+> Auch der innere Vorhof hat drei Tore, genau gegenüber den äußeren Toren und genauso groß.
+> Zu den inneren Toren führen acht Stufen, also noch höher als zu den äußeren (sieben Stufen). Je näher man zum Heiligtum kommt, desto höher geht es hinauf. Insgesamt sind es bis zum Tempelhaus noch mehr Stufen (40,49).
+
+---
+
+### Die Opfertische und die Kammern der Priester (Vers 38–47)
+
+<sup>38</sup>Eine Kammer mit ihrer Tür war bei den Pfeilern an den Toren.
+Dort wusch man das Brandopfer.
+<sup>39</sup>In der Vorhalle des Tores standen zwei Tische auf dieser Seite
+und zwei Tische auf jener Seite,
+um darauf das Brandopfer, das Sündopfer und das Schuldopfer zu schlachten.
+<sup>40</sup>Auf der einen Seite außen,
+wenn man zum Eingang des Tores nach Norden hinaufgeht,
+standen zwei Tische,
+und auf der anderen Seite, die zur Vorhalle des Tores gehörte,
+standen zwei Tische.
+<sup>41</sup>Vier Tische standen auf dieser Seite
+und vier Tische auf jener Seite,
+an der Seite des Tores:
+acht Tische, auf denen man die Opfertiere schlachtete.
+<sup>42</sup>Für das Brandopfer gab es vier Tische aus behauenen Steinen,
+eineinhalb Ellen lang,
+eineinhalb Ellen breit
+und eine Elle hoch.
+Darauf legte man die Geräte,
+mit denen man das Brandopfer und das Schlachtopfer schlachtete.
+<sup>43</sup>Haken, eine Handbreite lang, waren innen ringsum befestigt.
+Das Fleisch der Opfergabe lag auf den Tischen.
+<sup>44</sup>Außerhalb des inneren Tores waren Kammern für die Sänger im inneren Vorhof,
+an der Seite des Nordtores.
+Sie schauten nach Süden.
+Eine lag an der Seite des Osttores und schaute nach Norden.
+<sup>45</sup>Er sagte zu mir:
+„Diese Kammer, die nach Süden schaut,
+ist für die Priester, die den Dienst am Haus versehen.
+<sup>46</sup>Die Kammer, die nach Norden schaut,
+ist für die Priester, die den Dienst am Altar versehen.
+Das sind die Söhne Zadoks,
+die von den Söhnen Levis dem HERRN nahen dürfen,
+um ihm zu dienen.“
+<sup>47</sup>Er maß den Vorhof:
+hundert Ellen lang und hundert Ellen breit, quadratisch.
+Der Altar stand vor dem Haus.
+
+> **Was bedeutet das?**
+> Hier wird beschrieben, wo die Opfer vorbereitet wurden: Kammern zum Waschen, Tische zum Schlachten, Haken zum Aufhängen.
+> Vers 44: Es gibt auch Kammern für die Sänger. Musik und Gesang gehörten zum Gottesdienst im Tempel (vgl. 1. Chronik 25).
+> Vers 46: Zadok war Hohepriester zur Zeit Davids und Salomos (1. Könige 1,32–39). Nur seine Nachkommen sollen den Altardienst tun. Hesekiel erklärt das in Kapitel 44 genauer.
+> Vers 47: Der innere Vorhof ist ein perfektes Quadrat. In seiner Mitte steht der Altar. Der Altar ist das Zentrum der ganzen Anlage.
+
+---
+
+### Die Vorhalle des Tempelhauses (Vers 48–49)
+
+<sup>48</sup>Dann brachte er mich zur Vorhalle des Hauses
+und maß jeden Pfeiler der Vorhalle:
+fünf Ellen auf dieser Seite und fünf Ellen auf jener Seite.
+Die Breite des Tores war drei Ellen auf dieser Seite
+und drei Ellen auf jener Seite.
+<sup>49</sup>Die Länge der Vorhalle war zwanzig Ellen
+und die Breite elf Ellen,
+auch bei den Stufen, auf denen man zu ihr hinaufging.
+Bei den Pfeilern standen Säulen,
+eine auf dieser Seite und eine auf jener Seite.
+
+> **Was bedeutet das?**
+> Jetzt kommt Hesekiel zum eigentlichen Tempelhaus. Zuerst die Vorhalle mit zwei Säulen. Das erinnert an die zwei berühmten Säulen „Jachin“ und „Boas“ vor dem Tempel Salomos (1. Könige 7,15–22).
+
+## Hesekiel – Kapitel 41
+#### Das Tempelhaus
+
+---
+
+### Das Heilige und das Allerheiligste (Vers 1–4)
+
+<sup>1</sup>Er brachte mich in den Hauptraum
+und maß die Pfeiler:
+sechs Ellen breit auf der einen Seite
+und sechs Ellen breit auf der anderen Seite.
+Das war die Breite des Zeltes.
+<sup>2</sup>Die Breite des Eingangs war zehn Ellen,
+und die Seiten des Eingangs waren fünf Ellen auf der einen Seite
+und fünf Ellen auf der anderen Seite.
+Er maß seine Länge: vierzig Ellen,
+und die Breite: zwanzig Ellen.
+<sup>3</sup>Dann ging er hinein
+und maß jeden Pfeiler des Eingangs: zwei Ellen,
+und den Eingang: sechs Ellen,
+und die Breite des Eingangs: sieben Ellen.
+<sup>4</sup>Er maß seine Länge: zwanzig Ellen,
+und die Breite: zwanzig Ellen,
+vor dem Hauptraum.
+Und er sagte zu mir:
+„Das ist das Allerheiligste.“
+
+> **Was bedeutet das?**
+> Das Tempelhaus hat drei Teile, wie der Tempel Salomos (1. Könige 6): die Vorhalle, den Hauptraum („das Heilige“) und ganz hinten das Allerheiligste.
+> Der Hauptraum ist 40 Ellen lang und 20 Ellen breit (etwa 21 mal 10 Meter).
+> Vers 3–4: Nur der himmlische Mann geht in das Allerheiligste hinein. Hesekiel, obwohl er Priester ist, bleibt draußen. Das Allerheiligste ist ein perfekter Würfel von 20 mal 20 Ellen, der heiligste Ort, wo Gott selbst gegenwärtig ist.
+> Vers 1: „Die Breite des Zeltes“ erinnert an das heilige Zelt in der Wüste, das Vorbild aller späteren Tempel.
+
+---
+
+### Die Seitenkammern und das Gebäude im Westen (Vers 5–15)
+
+<sup>5</sup>Dann maß er die Mauer des Hauses: sechs Ellen,
+und die Breite jeder Seitenkammer: vier Ellen,
+rings um das Haus auf allen Seiten.
+<sup>6</sup>Die Seitenkammern lagen in drei Stockwerken übereinander,
+dreißig in jedem Stockwerk.
+Sie griffen in die Mauer ein, die zum Haus gehörte,
+für die Seitenkammern ringsum,
+damit sie gestützt würden
+und nicht in die Mauer des Hauses eindringen mussten.
+<sup>7</sup>Die Seitenkammern waren in den höheren Stockwerken breiter,
+weil die Mauern in den höheren Stockwerken schmaler waren.
+Darum wurde das Haus nach oben hin breiter.
+So stieg man vom untersten Stockwerk
+durch das mittlere zum obersten hinauf.
+<sup>8</sup>Ich sah auch, dass das Haus ringsum einen erhöhten Sockel hatte.
+Die Fundamente der Seitenkammern waren eine volle Rute,
+sechs große Ellen.
+<sup>9</sup>Die Dicke der Außenmauer der Seitenkammern war fünf Ellen.
+Was übrig blieb, war der Platz für die Seitenkammern,
+die zum Haus gehörten.
+<sup>10</sup>Zwischen den Kammern war ringsum um das Haus
+auf allen Seiten eine Breite von zwanzig Ellen.
+<sup>11</sup>Die Türen der Seitenkammern gingen zu einem freien Platz hin,
+eine Tür nach Norden
+und eine andere Tür nach Süden.
+Die Breite des freien Platzes war ringsum fünf Ellen.
+<sup>12</sup>Das Gebäude vor dem abgesonderten Platz
+an der Seite nach Westen
+war siebzig Ellen breit,
+und die Mauer des Gebäudes war ringsum fünf Ellen dick
+und seine Länge neunzig Ellen.
+<sup>13</sup>So maß er den Tempel: hundert Ellen lang;
+und den abgesonderten Platz und das Gebäude mit seinen Mauern:
+hundert Ellen lang;
+<sup>14</sup>auch die Breite der Vorderseite des Tempels
+und des abgesonderten Platzes nach Osten:
+hundert Ellen.
+<sup>15</sup>Er maß die Länge des Gebäudes vor dem abgesonderten Platz,
+der hinter ihm lag,
+und seine Galerien auf der einen und auf der anderen Seite:
+hundert Ellen;
+und den inneren Tempel
+und die Vorhallen des Vorhofs,
+
+> **Was bedeutet das?**
+> Um das Tempelhaus herum liegen auf drei Stockwerken je dreißig Seitenkammern, also 90 Kammern. Sie dienten wahrscheinlich als Lagerräume für Tempelgeräte und Gaben. Auch der Tempel Salomos hatte solche Anbauten (1. Könige 6,5–10).
+> Vers 6: Die Balken der Kammern sollten nicht in die heilige Tempelmauer eingreifen. Die Mauer wurde nach oben stufenweise dünner, und darauf lagen die Balken. So blieb die Tempelmauer unverletzt.
+> Vers 12: Hinter dem Tempel, im Westen, steht ein großes Gebäude. Wozu es diente, wird nicht gesagt.
+> Vers 13–15: Alles ist genau 100 Ellen lang und breit (etwa 52 Meter). Die Zahlen zeigen: Der Tempel ist vollkommen ausgewogen und harmonisch.
+
+---
+
+### Die Ausstattung des Tempels (Vers 16–26)
+
+<sup>16</sup>die Schwellen und die vergitterten Fenster
+und die Galerien ringsum in ihren drei Stockwerken,
+gegenüber der Schwelle,
+mit Holzverkleidung ringsum,
+und vom Boden bis zu den Fenstern
+(die Fenster waren aber verhängt),
+<sup>17</sup>bis über die Tür,
+bis zum inneren Haus und draußen,
+und an der ganzen Mauer ringsum, innen und außen,
+alles nach Maß.
+<sup>18</sup>Es war gemacht mit Cherubim und Palmen.
+Eine Palme war zwischen Cherub und Cherub,
+und jeder Cherub hatte zwei Gesichter,
+<sup>19</sup>sodass das Gesicht eines Menschen zur Palme auf der einen Seite schaute
+und das Gesicht eines jungen Löwen zur Palme auf der anderen Seite.
+So war es im ganzen Haus ringsum gemacht.
+<sup>20</sup>Vom Boden bis über die Tür waren Cherubim und Palmen gemacht.
+So war die Mauer des Tempels.
+<sup>21</sup>Die Türpfosten des Hauptraums waren viereckig.
+Was die Vorderseite des Heiligtums betraf,
+so war ihr Aussehen wie das Aussehen des Tempels.
+<sup>22</sup>Der Altar war aus Holz,
+drei Ellen hoch und zwei Ellen lang.
+Seine Ecken, sein Sockel und seine Wände waren aus Holz.
+Er sagte zu mir:
+„Das ist der Tisch, der vor dem HERRN steht.“
+<sup>23</sup>Der Tempel und das Heiligtum hatten zwei Türen.
+<sup>24</sup>Die Türen hatten je zwei Flügel,
+zwei drehbare Flügel:
+zwei für die eine Tür
+und zwei Flügel für die andere.
+<sup>25</sup>An ihnen, an den Türen des Hauptraums,
+waren Cherubim und Palmen gemacht,
+wie sie an den Wänden gemacht waren.
+Außen vor der Vorhalle war eine Schwelle aus Holz.
+<sup>26</sup>Es gab vergitterte Fenster und Palmen
+auf der einen und auf der anderen Seite,
+an den Seiten der Vorhalle.
+So waren die Seitenkammern des Tempels und die Schwellen angeordnet.
+
+> **Was bedeutet das?**
+> Vers 16–17: Diese Verse sind im Hebräischen sehr schwer zu verstehen. Gemeint ist wohl: Die Wände innen waren ringsum mit Holz verkleidet, vom Boden bis über die Fenster.
+> Vers 18–20: Die Wände sind mit Cherubim und Palmen geschmückt. Die Cherubim haben hier zwei Gesichter (Mensch und Löwe). Palmen und Cherubim erinnern an den Garten Eden, wo Cherubim den Weg zum Baum des Lebens bewachten (1. Mose 3,24). Der Tempel ist wie ein neues Paradies, ein Ort, an dem Gott und Mensch sich begegnen.
+> Vers 22: Im Hauptraum steht ein Tisch aus Holz, „der Tisch, der vor dem HERRN steht“. Wahrscheinlich ist das der Tisch für die Schaubrote (vgl. 2. Mose 25,23–30), Brote, die als Zeichen der Gemeinschaft mit Gott vor ihm lagen.
+> Interessant: Viele Gegenstände aus dem alten Tempel, wie der große Leuchter oder die Bundeslade, werden hier nicht erwähnt.
+
+## Hesekiel – Kapitel 42
+#### Die heiligen Kammern und die Mauer
+
+---
+
+### Die Kammern im Norden (Vers 1–9)
+
+<sup>1</sup>Dann führte er mich hinaus in den äußeren Vorhof,
+den Weg nach Norden.
+Dann brachte er mich zu dem Kammergebäude,
+das gegenüber dem abgesonderten Platz lag
+und gegenüber dem Gebäude nach Norden.
+<sup>2</sup>Auf der Seite der Länge von hundert Ellen war die Nordtür,
+und die Breite war fünfzig Ellen.
+<sup>3</sup>Gegenüber den zwanzig Ellen, die zum inneren Vorhof gehörten,
+und gegenüber dem Pflaster, das zum äußeren Vorhof gehörte,
+lag Galerie gegenüber Galerie in den drei Stockwerken.
+<sup>4</sup>Vor den Kammern war ein Gang von zehn Ellen Breite nach innen,
+ein Weg von einer Elle,
+und ihre Türen lagen nach Norden.
+<sup>5</sup>Die oberen Kammern waren kürzer,
+denn die Galerien nahmen von ihnen mehr weg
+als von den unteren und den mittleren im Gebäude.
+<sup>6</sup>Denn sie lagen in drei Stockwerken
+und hatten keine Säulen wie die Säulen der Vorhöfe.
+Darum war das oberste Stockwerk weiter zurückgesetzt
+als das unterste und das mittlere, vom Boden aus gesehen.
+<sup>7</sup>Die Mauer, die außen an der Seite der Kammern lag,
+zum äußeren Vorhof hin, vor den Kammern,
+war fünfzig Ellen lang.
+<sup>8</sup>Denn die Länge der Kammern, die zum äußeren Vorhof lagen,
+war fünfzig Ellen.
+Und siehe, die dem Tempel gegenüberlagen,
+waren hundert Ellen.
+<sup>9</sup>Unterhalb dieser Kammern war der Eingang auf der Ostseite,
+wenn man vom äußeren Vorhof zu ihnen hineingeht.
+
+> **Was bedeutet das?**
+> Neben dem Tempel liegen große Kammergebäude mit drei Stockwerken, die nach oben hin stufenweise zurückgesetzt sind (wie Terrassen).
+> Die genauen Maße und die Anordnung sind auch für Fachleute schwer nachzuvollziehen. Wichtig ist, wozu die Kammern dienen. Das wird in Vers 13–14 erklärt.
+
+---
+
+### Die Kammern im Süden (Vers 10–12)
+
+<sup>10</sup>In der Dicke der Mauer des Vorhofs nach Osten,
+vor dem abgesonderten Platz und vor dem Gebäude,
+waren Kammern.
+<sup>11</sup>Der Weg vor ihnen sah aus wie bei den Kammern,
+die nach Norden lagen.
+Ihre Länge und ihre Breite waren gleich.
+Alle ihre Ausgänge hatten dieselbe Anordnung und dieselben Türen.
+<sup>12</sup>Wie die Türen der Kammern, die nach Süden lagen,
+war eine Tür am Anfang des Weges,
+des Weges direkt vor der Mauer nach Osten,
+wenn man zu ihnen hineingeht.
+
+> **Was bedeutet das?**
+> Auf der Südseite gibt es dieselben Kammern wie auf der Nordseite. Wieder zeigt sich: Der ganze Tempel ist symmetrisch und ausgewogen gebaut.
+
+---
+
+### Wozu die heiligen Kammern dienen (Vers 13–14)
+
+<sup>13</sup>Dann sagte er zu mir:
+„Die Nordkammern und die Südkammern,
+die gegenüber dem abgesonderten Platz liegen,
+sind die heiligen Kammern,
+wo die Priester, die dem HERRN nahen,
+die hochheiligen Gaben essen sollen.
+Dort sollen sie die hochheiligen Gaben hinlegen,
+das Speisopfer, das Sündopfer und das Schuldopfer,
+denn der Ort ist heilig.
+<sup>14</sup>Wenn die Priester hineingehen,
+dann sollen sie nicht aus dem Heiligtum in den äußeren Vorhof hinausgehen,
+bevor sie ihre Gewänder abgelegt haben,
+in denen sie dort Dienst tun,
+denn sie sind heilig.
+Dann sollen sie andere Gewänder anziehen
+und sich dem nähern, was für das Volk ist.“
+
+> **Was bedeutet das?**
+> In diesen Kammern essen die Priester ihren Anteil an den Opfern (vgl. 3. Mose 6,9–11.19). Dort bewahren sie auch die heiligen Gaben auf.
+> Vers 14: Die Priester tragen im Heiligtum besondere Kleidung. Bevor sie zum Volk hinausgehen, müssen sie sich umziehen. So wird deutlich unterschieden zwischen dem Heiligen und dem Alltäglichen.
+
+---
+
+### Die Mauer rings um den Tempel (Vers 15–20)
+
+<sup>15</sup>Als er nun das innere Haus fertig vermessen hatte,
+führte er mich hinaus auf dem Weg durch das Tor, das nach Osten schaut,
+und maß den Bezirk ringsum.
+<sup>16</sup>Er maß die Ostseite mit der Messrute:
+fünfhundert Ruten, mit der Messrute ringsum.
+<sup>17</sup>Er maß die Nordseite:
+fünfhundert Ruten mit der Messrute ringsum.
+<sup>18</sup>Er maß die Südseite:
+fünfhundert Ruten mit der Messrute.
+<sup>19</sup>Er wandte sich zur Westseite
+und maß fünfhundert Ruten mit der Messrute.
+<sup>20</sup>Er maß ihn an den vier Seiten.
+Er hatte eine Mauer ringsum,
+die Länge fünfhundert Ellen
+und die Breite fünfhundert Ellen,
+um das Heilige vom Gewöhnlichen zu trennen.
+
+> **Was bedeutet das?**
+> Zum Schluss wird der ganze Tempelbezirk vermessen: ein großes Quadrat mit einer Mauer ringsum.
+> Vers 16–20: In Vers 16–19 schreibt das WEB „fünfhundert Ruten“, in Vers 20 aber „fünfhundert Ellen“. Das ist ein großer Unterschied (500 Ruten wären etwa 1,5 Kilometer, 500 Ellen etwa 260 Meter). Die griechische Übersetzung (Septuaginta) hat überall „Ellen“, und das passt auch zu den anderen Maßen des Tempels. Viele Ausleger halten darum 500 Ellen für richtig.
+> Vers 20: Der Zweck der Mauer: „das Heilige vom Gewöhnlichen zu trennen“. Die Heiligkeit Gottes soll geschützt und geachtet werden. Das war ein großes Anliegen Hesekiels, denn der alte Tempel war durch Götzendienst entweiht worden (Kapitel 8).
+> Juden und Christen lesen diese Tempelvision unterschiedlich: Manche Juden erwarten, dass ein solcher Tempel einmal gebaut wird. Viele Christen verstehen sie eher als Bild: Gott wohnt in Christus und in seiner Gemeinde mitten unter den Menschen (vgl. Johannes 2,19–21; 1. Korinther 3,16; Offenbarung 21–22).
