@@ -102849,3 +102849,425 @@ und du wirst nicht mehr sein.“‘“
 > Vers 29–32: Alle Seeleute stehen am Ufer und klagen. Sie werfen Staub auf den Kopf und kleiden sich in Sacktuch, wie bei einer Beerdigung.
 > Die Botschaft: Auch das schönste, reichste und mächtigste „Schiff“ kann untergehen. Reichtum und Handel sind nicht schlecht, aber wer sein ganzes Vertrauen darauf setzt und stolz wird, baut auf ein Schiff, das sinken kann.
 > In Offenbarung 18 gibt es ein ganz ähnliches Klagelied über den Fall „Babylons“: Kaufleute und Seeleute stehen von fern und weinen über die reiche Stadt (Offenbarung 18,9–19). Der Text nimmt deutlich Hesekiel 27 auf.
+
+## Hesekiel – Kapitel 28
+#### Der König von Tyrus
+
+---
+
+### „Ich bin ein Gott“ (Vers 1–10)
+
+<sup>1</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>2</sup>„Menschensohn, sag zum Fürsten von Tyrus:
+‚So spricht der Herr, der HERR:
+„Weil dein Herz sich erhoben hat
+und du gesagt hast:
+‚Ich bin ein Gott,
+ich sitze auf dem Sitz Gottes, mitten im Meer‘,
+und doch bist du ein Mensch und kein Gott,
+auch wenn du dein Herz wie das Herz eines Gottes machst –
+<sup>3</sup>siehe, du bist weiser als Daniel.
+Kein Geheimnis ist vor dir verborgen.
+<sup>4</sup>Durch deine Weisheit und durch deine Einsicht
+hast du dir Reichtum erworben
+und Gold und Silber in deine Schatzkammern gebracht.
+<sup>5</sup>Durch deine große Weisheit und durch deinen Handel
+hast du deinen Reichtum vermehrt,
+und dein Herz hat sich wegen deines Reichtums erhoben –
+<sup>6</sup>darum spricht der Herr, der HERR:
+„Weil du dein Herz wie das Herz Gottes gemacht hast,
+<sup>7</sup>darum, siehe, bringe ich Fremde über dich,
+die Schrecklichsten unter den Völkern.
+Sie werden ihre Schwerter ziehen gegen die Schönheit deiner Weisheit.
+Sie werden deinen Glanz entweihen.
+<sup>8</sup>Sie werden dich in die Grube hinabstoßen.
+Du wirst den Tod der Erschlagenen sterben im Herzen der Meere.
+<sup>9</sup>Wirst du dann noch sagen vor dem, der dich tötet:
+‚Ich bin Gott‘?
+Du bist doch ein Mensch und nicht Gott
+in der Hand dessen, der dich verwundet.
+<sup>10</sup>Du wirst den Tod der Unbeschnittenen sterben
+durch die Hand von Fremden,
+denn ich habe es gesagt“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Der Fürst von Tyrus ist so reich und mächtig, dass er sich für einen Gott hält. Das ist der Kern aller Überheblichkeit: Der Mensch setzt sich an Gottes Stelle.
+> Vers 3: „Weiser als Daniel“ ist ironisch gemeint. Zu „Daniel“ siehe Kapitel 14,14.
+> Vers 9: Eine scharfe Frage: Wirst du immer noch sagen „Ich bin Gott“, wenn dich jemand umbringt? Spätestens im Tod zeigt sich: Jeder Mensch ist sterblich.
+> Vers 10: Den „Tod der Unbeschnittenen“ sterben heißt: einen schmählichen Tod sterben, ohne Ehre.
+> Diese Warnung gilt bis heute: Wer durch Reichtum, Erfolg oder Macht meint, über allem zu stehen, wird irgendwann merken, dass er nur ein Mensch ist.
+
+---
+
+### Klagelied: Im Garten Eden (Vers 11–19)
+
+<sup>11</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>12</sup>„Menschensohn, stimme ein Klagelied über den König von Tyrus an
+und sag zu ihm:
+‚So spricht der Herr, der HERR:
+„Du warst das Siegel der Vollkommenheit,
+voller Weisheit
+und vollkommen an Schönheit.
+<sup>13</sup>Du warst in Eden, dem Garten Gottes.
+Jeder Edelstein war dein Schmuck:
+Rubin, Topas, Smaragd, Chrysolith,
+Onyx, Jaspis, Saphir, Türkis und Beryll.
+Goldarbeit von Tamburinen und Flöten war an dir.
+Sie wurden bereitet am Tag, als du geschaffen wurdest.
+<sup>14</sup>Du warst der gesalbte Cherub, der schützend deckt.
+Ich setzte dich auf den heiligen Berg Gottes.
+Du bist mitten unter den feurigen Steinen umhergegangen.
+<sup>15</sup>Du warst vollkommen in deinen Wegen
+von dem Tag an, als du geschaffen wurdest,
+bis Unrecht an dir gefunden wurde.
+<sup>16</sup>Durch die Menge deines Handels
+wurde dein Inneres mit Gewalt erfüllt,
+und du hast gesündigt.
+Darum habe ich dich als unheilig vom Berg Gottes verstoßen.
+Ich habe dich vernichtet, du schützender Cherub,
+mitten aus den feurigen Steinen heraus.
+<sup>17</sup>Dein Herz hat sich erhoben wegen deiner Schönheit.
+Du hast deine Weisheit verdorben wegen deines Glanzes.
+Ich habe dich auf die Erde geworfen.
+Ich habe dich vor Könige hingelegt,
+damit sie dich ansehen.
+<sup>18</sup>Durch die Menge deiner Sünden,
+durch das Unrecht deines Handels
+hast du deine Heiligtümer entweiht.
+Darum habe ich ein Feuer aus deiner Mitte hervorgehen lassen.
+Es hat dich verzehrt.
+Ich habe dich zu Asche auf der Erde gemacht
+vor den Augen aller, die dich sehen.
+<sup>19</sup>Alle, die dich unter den Völkern kennen,
+sind entsetzt über dich.
+Du bist zum Schrecken geworden,
+und du wirst nicht mehr sein.“‘“
+
+> **Was bedeutet das?**
+> Dieses Klagelied ist eines der geheimnisvollsten Stücke der Bibel. Der König von Tyrus wird beschrieben wie ein wunderschönes Wesen im Garten Eden, geschmückt mit Edelsteinen, ein „Cherub“ auf Gottes heiligem Berg. Dann wird er stolz, Unrecht wird an ihm gefunden, und er wird verstoßen.
+> Das erinnert an die Geschichte von Adam im Paradies (1. Mose 2–3): vollkommen geschaffen, dann gefallen, dann hinausgeworfen.
+> Vers 13: Die Edelsteine erinnern an die Steine auf der Brusttasche des Hohenpriesters (2. Mose 28,17–20).
+> Wie liest man diesen Text?
+> – Viele jüdische und christliche Ausleger sagen: Hesekiel benutzt Bilder aus alten Erzählungen über das Paradies, um den tiefen Fall des stolzen Königs zu beschreiben. Gemeint ist der menschliche König von Tyrus.
+> – Viele Christen haben in diesem Text (zusammen mit Jesaja 14,12–15) später auch ein Bild für den Fall Satans gesehen, eines Engels, der aus Stolz von Gott abfiel. Der Text selbst sagt das nicht ausdrücklich, aber diese Deutung ist in der christlichen Tradition weit verbreitet.
+> Vers 16: Wieder werden Handel und Gewalt zusammen genannt. Gier führt oft zu Gewalt und Unrecht.
+
+---
+
+### Gegen Sidon (Vers 20–23)
+
+<sup>20</sup>Das Wort des HERRN kam zu mir:
+<sup>21</sup>„Menschensohn, richte dein Gesicht gegen Sidon
+und weissage gegen die Stadt
+<sup>22</sup>und sag:
+‚So spricht der Herr, der HERR:
+„Siehe, ich bin gegen dich, Sidon.
+Ich will mich in deiner Mitte verherrlichen.
+Dann werden sie erkennen, dass ich der HERR bin,
+wenn ich Gericht an ihr halte
+und mich an ihr als heilig erweise.
+<sup>23</sup>Denn ich werde die Pest in die Stadt senden
+und Blut in ihre Straßen.
+Die Verwundeten werden in ihrer Mitte fallen
+durch das Schwert, das ringsum über ihr ist.
+Dann werden sie erkennen, dass ich der HERR bin.
+
+> **Was bedeutet das?**
+> Sidon war die Nachbar- und Schwesterstadt von Tyrus, ebenfalls eine reiche phönizische Hafenstadt (heute Saida im Libanon). Von Sidon kam die Königin Isebel, die den Baalskult in Israel verbreitet hatte (1. Könige 16,31).
+
+---
+
+### Israel wird sicher wohnen (Vers 24–26)
+
+<sup>24</sup>Es wird für das Haus Israel keinen stechenden Dornstrauch mehr geben
+und keinen schmerzenden Dorn
+von allen, die rings um sie her sind und sie verachtet haben.
+Dann werden sie erkennen, dass ich der Herr, der HERR, bin.“
+<sup>25</sup>So spricht der Herr, der HERR:
+„Wenn ich das Haus Israel aus den Völkern gesammelt habe,
+unter die sie zerstreut sind,
+und mich an ihnen als heilig erwiesen habe vor den Augen der Völker,
+dann werden sie in ihrem eigenen Land wohnen,
+das ich meinem Knecht Jakob gegeben habe.
+<sup>26</sup>Sie werden sicher darin wohnen.
+Ja, sie werden Häuser bauen und Weinberge pflanzen
+und sicher wohnen,
+wenn ich Gericht gehalten habe an allen rings um sie her,
+die sie verachtet haben.
+Dann werden sie erkennen, dass ich der HERR, ihr Gott, bin.“‘“
+
+> **Was bedeutet das?**
+> Mitten in den Gerichtsworten über die Völker kommt ein Lichtblick für Israel: Gott wird sein Volk sammeln, und es wird sicher im Land wohnen. Häuser bauen und Weinberge pflanzen sind Zeichen von Frieden und einem normalen, guten Leben (vgl. Jeremia 29,5; Amos 9,14).
+
+## Hesekiel – Kapitel 29
+#### Gegen den Pharao von Ägypten
+
+---
+
+### Das große Ungeheuer im Nil (Vers 1–7)
+
+<sup>1</sup>Im zehnten Jahr, im zehnten Monat, am zwölften Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht gegen den Pharao, den König von Ägypten,
+und weissage gegen ihn und gegen ganz Ägypten.
+<sup>3</sup>Rede und sag:
+‚So spricht der Herr, der HERR:
+„Siehe, ich bin gegen dich, Pharao, König von Ägypten,
+du großes Ungeheuer, das mitten in seinen Strömen liegt,
+das gesagt hat:
+‚Mein Strom gehört mir,
+und ich habe ihn mir selbst gemacht.‘
+<sup>4</sup>Ich werde Haken in deine Kiefer legen
+und die Fische deiner Ströme an deinen Schuppen kleben lassen.
+Ich werde dich mitten aus deinen Strömen heraufziehen
+mit allen Fischen deiner Ströme,
+die an deinen Schuppen kleben.
+<sup>5</sup>Ich werde dich in die Wüste werfen,
+dich und alle Fische deiner Ströme.
+Du wirst auf das freie Feld fallen.
+Du wirst nicht zusammengelesen und nicht eingesammelt werden.
+Ich habe dich den Tieren der Erde und den Vögeln des Himmels
+zum Fraß gegeben.
+<sup>6</sup>Alle Bewohner Ägyptens werden erkennen, dass ich der HERR bin,
+weil sie für das Haus Israel ein Stab aus Schilfrohr gewesen sind.
+<sup>7</sup>Als sie dich mit der Hand ergriffen,
+bist du zerbrochen und hast ihnen die ganze Schulter aufgerissen.
+Als sie sich auf dich stützten,
+bist du zerbrochen und hast alle ihre Hüften zum Wanken gebracht.“
+
+> **Was bedeutet das?**
+> Ab hier folgen vier Kapitel gegen Ägypten (29–32). Das Datum entspricht etwa Januar 587 vor Christus, während der Belagerung Jerusalems. Jerusalem hoffte auf Hilfe aus Ägypten.
+> Vers 3: Der Pharao wird als „großes Ungeheuer“ im Nil beschrieben, wahrscheinlich ein Krokodil. Er sagt stolz: „Der Nil gehört mir, ich habe ihn gemacht.“ Wieder die Sünde des Hochmuts: Ein Mensch hält sich für den Schöpfer.
+> Vers 4–5: Gott wird das Krokodil mit Haken aus dem Wasser ziehen und in die Wüste werfen, wo es stirbt.
+> Vers 6–7: Ägypten war für Israel wie ein Stock aus Schilf: Wer sich darauf stützt, dem bricht er und verletzt ihn noch dazu (vgl. Jesaja 36,6). Die Botschaft: Wer auf Menschen und Großmächte vertraut statt auf Gott, wird enttäuscht.
+
+---
+
+### Ägypten wird verwüstet (Vers 8–12)
+
+<sup>8</sup>Darum spricht der Herr, der HERR:
+„Siehe, ich bringe ein Schwert über dich
+und rotte Mensch und Tier aus dir aus.
+<sup>9</sup>Das Land Ägypten wird zur Wüste und Einöde werden.
+Dann werden sie erkennen, dass ich der HERR bin.
+Weil er gesagt hat:
+‚Der Strom gehört mir, und ich habe ihn gemacht‘,
+<sup>10</sup>darum, siehe, bin ich gegen dich und gegen deine Ströme.
+Ich werde das Land Ägypten zu einer völligen Einöde und Wüste machen,
+vom Turm von Syene bis an die Grenze von Kusch.
+<sup>11</sup>Kein Fuß eines Menschen wird hindurchgehen,
+und kein Fuß eines Tieres wird hindurchgehen.
+Es wird vierzig Jahre lang nicht bewohnt sein.
+<sup>12</sup>Ich werde das Land Ägypten zur Wüste machen
+mitten unter den verwüsteten Ländern.
+Seine Städte werden unter den zerstörten Städten
+vierzig Jahre lang eine Wüste sein.
+Ich werde die Ägypter unter die Völker zerstreuen
+und sie in die Länder versprengen.“
+
+> **Was bedeutet das?**
+> Vers 10: Das WEB schreibt „from the tower of Seveneh even to the border of Ethiopia“. Syene ist das heutige Assuan im Süden Ägyptens. „Kusch“ (im WEB „Ethiopia“) ist das Land südlich von Ägypten, das heutige Sudan.
+> Vers 11–12: „Vierzig Jahre“ ist in der Bibel oft eine runde Zahl für eine lange Zeit, etwa eine Generation (vgl. die 40 Jahre in der Wüste). Eine vollständige Verwüstung Ägyptens für genau 40 Jahre ist aus anderen Quellen nicht bekannt. Nebukadnezar griff Ägypten aber später tatsächlich an (um 568 vor Christus), und Ägypten verlor seine frühere Großmachtstellung.
+
+---
+
+### Ein niedriges Königreich (Vers 13–16)
+
+<sup>13</sup>Denn so spricht der Herr, der HERR:
+„Am Ende von vierzig Jahren
+werde ich die Ägypter aus den Völkern sammeln,
+unter die sie zerstreut wurden.
+<sup>14</sup>Ich werde das Geschick Ägyptens wenden
+und sie in das Land Patros zurückkehren lassen,
+in das Land ihrer Herkunft.
+Dort werden sie ein niedriges Königreich sein.
+<sup>15</sup>Es wird das niedrigste unter den Königreichen sein.
+Es wird sich nicht mehr über die Völker erheben.
+Ich werde sie klein machen,
+damit sie nicht mehr über die Völker herrschen.
+<sup>16</sup>Es wird nicht mehr die Zuversicht des Hauses Israel sein
+und an die Schuld erinnern,
+wenn sie sich nach ihnen umwenden.
+Dann werden sie erkennen, dass ich der Herr, der HERR, bin.“‘“
+
+> **Was bedeutet das?**
+> Interessant: Auch für Ägypten gibt es nach dem Gericht eine Wiederherstellung. Gott sammelt die Ägypter wieder. Gott sorgt sich auch um andere Völker (vgl. Jesaja 19,19–25, wo Ägypten sogar „mein Volk“ genannt wird).
+> Patros ist Oberägypten, der Süden des Landes, wo das ägyptische Reich ursprünglich herkam.
+> Vers 16: Ägypten wird kein mächtiges Reich mehr sein. So kann Israel nicht mehr in Versuchung kommen, auf Ägypten statt auf Gott zu vertrauen.
+
+---
+
+### Ägypten als Lohn für Nebukadnezar (Vers 17–21)
+
+<sup>17</sup>Im siebenundzwanzigsten Jahr, im ersten Monat, am ersten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>18</sup>„Menschensohn, Nebukadnezar, der König von Babylon,
+hat sein Heer einen schweren Dienst gegen Tyrus leisten lassen.
+Jeder Kopf wurde kahl,
+und jede Schulter wurde wund gerieben.
+Doch er und sein Heer haben keinen Lohn von Tyrus bekommen
+für den Dienst, den er gegen die Stadt geleistet hat.
+<sup>19</sup>Darum spricht der Herr, der HERR:
+‚Siehe, ich gebe das Land Ägypten Nebukadnezar, dem König von Babylon.
+Er wird seine Menge wegführen,
+seine Beute nehmen
+und seinen Raub rauben.
+Das wird der Lohn für sein Heer sein.
+<sup>20</sup>Ich habe ihm das Land Ägypten als Bezahlung gegeben
+für den Dienst, den er geleistet hat,
+weil sie für mich gearbeitet haben‘,
+spricht der Herr, der HERR.
+<sup>21</sup>An jenem Tag werde ich dem Haus Israel ein Horn sprossen lassen,
+und ich werde dir deinen Mund unter ihnen öffnen.
+Dann werden sie erkennen, dass ich der HERR bin.“
+
+> **Was bedeutet das?**
+> Vers 17: Das ist das späteste Datum im ganzen Buch Hesekiel: etwa 571 vor Christus, 16 Jahre nach der Zerstörung Jerusalems. Dieses Wort wurde also später hier eingefügt, passend zum Thema Ägypten.
+> Vers 18: Ein bemerkenswert ehrlicher Text! Hesekiel hatte in Kapitel 26 die völlige Zerstörung von Tyrus durch Nebukadnezar angekündigt. Hier sagt er offen: Nebukadnezar hat Tyrus 13 Jahre lang belagert, seine Soldaten trugen so viel, dass ihre Köpfe kahl und ihre Schultern wund waren, aber er bekam keine Beute. Die Inselstadt hat sich gehalten.
+> Die Bibel versteckt das nicht. Prophetie ist nicht einfach eine Wahrsagung von Einzelheiten. Gott bleibt frei in der Art, wie er seine Worte erfüllt.
+> Vers 21: Ein „Horn sprossen lassen“ ist ein Bild für neue Kraft und Stärke (vgl. Psalm 132,17).
+
+## Hesekiel – Kapitel 30
+#### Der Tag des HERRN über Ägypten
+
+---
+
+### Wehe über den Tag! (Vers 1–9)
+
+<sup>1</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>2</sup>„Menschensohn, weissage und sag:
+‚So spricht der Herr, der HERR:
+„Heult: ‚Wehe über den Tag!‘
+<sup>3</sup>Denn der Tag ist nahe,
+ja, der Tag des HERRN ist nahe.
+Es wird ein Tag der Wolken sein,
+eine Zeit der Völker.
+<sup>4</sup>Ein Schwert wird über Ägypten kommen,
+und Angst wird in Kusch sein,
+wenn die Erschlagenen in Ägypten fallen.
+Man nimmt seine Menge weg,
+und seine Fundamente werden niedergerissen.
+<sup>5</sup>Kusch, Put, Lud, alles gemischte Volk, Kub
+und die Söhne des verbündeten Landes
+werden mit ihnen durch das Schwert fallen.“
+<sup>6</sup>So spricht der HERR:
+„Auch die, die Ägypten stützen, werden fallen.
+Der Stolz seiner Macht wird herunterkommen.
+Vom Turm von Syene an werden sie darin durch das Schwert fallen“,
+spricht der Herr, der HERR.
+<sup>7</sup>„Sie werden verwüstet sein mitten unter den verwüsteten Ländern.
+Seine Städte werden unter den zerstörten Städten sein.
+<sup>8</sup>Sie werden erkennen, dass ich der HERR bin,
+wenn ich Feuer an Ägypten lege
+und alle seine Helfer zerschmettert werden.
+<sup>9</sup>An jenem Tag werden Boten von mir auf Schiffen ausziehen,
+um das sorglose Kusch zu erschrecken.
+Angst wird über sie kommen wie am Tag Ägyptens,
+denn siehe, es kommt.“
+
+> **Was bedeutet das?**
+> „Der Tag des HERRN“ ist ein großes Thema bei den Propheten: ein Tag, an dem Gott eingreift und Gericht hält (vgl. Joel 2,1–2; Zefanja 1,14–16). Diesmal trifft er Ägypten.
+> Vers 4–5: „Kusch“ (im WEB „Ethiopia“) ist das Land südlich von Ägypten (heute Sudan). Put ist wahrscheinlich Libyen, Lud ein Volk in Afrika oder Kleinasien. Diese Völker waren Verbündete oder Söldner Ägyptens. Was „Kub“ war, weiß man nicht sicher; manche Handschriften lesen hier „Libyen“.
+> Wichtig: Diese Texte sprechen über damalige Staaten und Heere, nicht über Menschen mit einer bestimmten Hautfarbe oder Herkunft. Sie dürfen nicht für Vorurteile gegen Menschen aus Afrika benutzt werden.
+
+---
+
+### Durch die Hand Nebukadnezars (Vers 10–12)
+
+<sup>10</sup>So spricht der Herr, der HERR:
+„Ich werde auch der Menge Ägyptens ein Ende machen
+durch die Hand Nebukadnezars, des Königs von Babylon.
+<sup>11</sup>Er und sein Volk mit ihm,
+die Schrecklichsten unter den Völkern,
+werden herbeigebracht, um das Land zu verderben.
+Sie werden ihre Schwerter gegen Ägypten ziehen
+und das Land mit Erschlagenen füllen.
+<sup>12</sup>Ich werde die Ströme trocken machen
+und das Land in die Hand böser Menschen verkaufen.
+Ich werde das Land verwüsten und alles, was darin ist,
+durch die Hand von Fremden.
+Ich, der HERR, habe es gesagt.“
+
+> **Was bedeutet das?**
+> Ägypten lebte vom Nil. Wenn der Nil austrocknet, ist das Land verloren. Das Bild zeigt: Gott ist auch Herr über den Nil, den die Ägypter verehrten.
+
+---
+
+### Die Städte Ägyptens (Vers 13–19)
+
+<sup>13</sup>So spricht der Herr, der HERR:
+„Ich werde auch die Götzen vernichten
+und die Bilder aus Memphis verschwinden lassen.
+Es wird keinen Fürsten mehr aus dem Land Ägypten geben.
+Ich werde Furcht in das Land Ägypten legen.
+<sup>14</sup>Ich werde Patros verwüsten
+und Feuer an Zoan legen
+und an No Gericht halten.
+<sup>15</sup>Ich werde meinen Grimm über Sin ausgießen,
+die Festung Ägyptens.
+Ich werde die Menge von No ausrotten.
+<sup>16</sup>Ich werde Feuer an Ägypten legen.
+Sin wird sich in großer Angst winden.
+No wird aufgebrochen werden.
+Memphis wird am helllichten Tag Feinde haben.
+<sup>17</sup>Die jungen Männer von Awen und Pi-Beset
+werden durch das Schwert fallen.
+Sie werden in die Gefangenschaft gehen.
+<sup>18</sup>Auch in Tachpanhes wird sich der Tag verfinstern,
+wenn ich dort die Joche Ägyptens zerbreche.
+Der Stolz seiner Macht wird darin aufhören.
+Eine Wolke wird es bedecken,
+und seine Töchter werden in die Gefangenschaft gehen.
+<sup>19</sup>So werde ich an Ägypten Gericht halten.
+Dann werden sie erkennen, dass ich der HERR bin.“‘“
+
+> **Was bedeutet das?**
+> Hier werden die wichtigsten Städte Ägyptens aufgezählt:
+> – Memphis: die alte Hauptstadt, in der Nähe des heutigen Kairo.
+> – Patros: Oberägypten (der Süden).
+> – Zoan: Tanis, im Nildelta.
+> – No: Theben, die große Tempelstadt im Süden (heute Luxor).
+> – Sin: Pelusium, eine Grenzfestung im Nordosten.
+> – Awen: On, auch Heliopolis genannt, die Stadt des Sonnengottes.
+> – Pi-Beset: Bubastis, im Delta.
+> – Tachpanhes: eine Grenzstadt im Osten. Dorthin floh Jeremia mit anderen Judäern (Jeremia 43,7–9).
+> Vers 13: Die Götzen Ägyptens werden vernichtet. Die vielen Götter Ägyptens können das Land nicht retten.
+
+---
+
+### Der gebrochene Arm des Pharao (Vers 20–26)
+
+<sup>20</sup>Im elften Jahr, im ersten Monat, am siebten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>21</sup>„Menschensohn, ich habe den Arm des Pharao,
+des Königs von Ägypten, zerbrochen.
+Und siehe, er ist nicht verbunden worden,
+um Heilmittel aufzulegen,
+um einen Verband anzulegen, um ihn zu verbinden,
+damit er stark genug wird, das Schwert zu halten.
+<sup>22</sup>Darum spricht der Herr, der HERR:
+‚Siehe, ich bin gegen den Pharao, den König von Ägypten,
+und ich werde seine Arme zerbrechen,
+den starken und den, der schon gebrochen ist.
+Ich werde das Schwert aus seiner Hand fallen lassen.
+<sup>23</sup>Ich werde die Ägypter unter die Völker zerstreuen
+und sie in die Länder versprengen.
+<sup>24</sup>Ich werde die Arme des Königs von Babylon stärken
+und mein Schwert in seine Hand geben.
+Aber die Arme des Pharao werde ich zerbrechen,
+und er wird vor dem König von Babylon stöhnen
+mit dem Stöhnen eines tödlich Verwundeten.
+<sup>25</sup>Ich werde die Arme des Königs von Babylon stützen,
+aber die Arme des Pharao werden herabsinken.
+Dann werden sie erkennen, dass ich der HERR bin,
+wenn ich mein Schwert in die Hand des Königs von Babylon gebe
+und er es gegen das Land Ägypten ausstreckt.
+<sup>26</sup>Ich werde die Ägypter unter die Völker zerstreuen
+und sie in die Länder versprengen.
+Dann werden sie erkennen, dass ich der HERR bin.‘“
+
+> **Was bedeutet das?**
+> Vers 20: Das ist etwa April 587 vor Christus. Kurz vorher hatte ein ägyptisches Heer versucht, Jerusalem zu helfen, wurde aber von den Babyloniern zurückgeschlagen (vgl. Jeremia 37,5–11). Das ist der „gebrochene Arm“ des Pharao.
+> Der „Arm“ steht in der Bibel für Kraft und Macht. Ägypten wird geschwächt, Babylon gestärkt.
+> Hier steht, dass Gott sein Schwert in die Hand des Königs von Babylon legt. Das heißt nicht, dass Babylon gut oder gerecht war. Später wird Babylon selbst gerichtet (Jesaja 47; Jeremia 50–51). Gott kann sogar fremde Herrscher in seiner Geschichte gebrauchen, aber sie bleiben selbst verantwortlich für ihr Unrecht.
