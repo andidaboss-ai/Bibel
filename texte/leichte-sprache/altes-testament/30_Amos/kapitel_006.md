@@ -84,5 +84,5 @@ vom Zugang nach Hamat bis zum Bach der Araba.“
 
 > **Was bedeutet das?**
 > Vers 12: Zwei absurde Fragen: Laufen Pferde über Felsen? Pflügt man Felsen? Nein, das ist verrückt. Genauso verrückt ist es, das Recht in Gift zu verwandeln. Und genau das tut ihr!
-> Vers 13: Ein Wortspiel: Israel freut sich über militärische Siege, zum Beispiel über die Eroberung von Lo-Dabar (was „Nichts“ bedeutet) und Karnajim (was „Hörner“ bedeutet). Sie sagen: „Das haben wir aus eigener Kraft geschafft!“ Amos spottet: Ihr freut euch über ein „Nichts“.
+> Vers 13: Wahrscheinlich steckt hier ein Wortspiel: Israel freut sich über militärische Siege. Viele Ausleger denken an die Eroberung der Orte Lo-Dabar (das klingt wie „Nichts“) und Karnajim (das bedeutet „Hörner“). Sie sagen: „Das haben wir aus eigener Kraft geschafft!“ Amos spottet: Ihr freut euch über ein „Nichts“.
 > Vers 14: Gott wird ein Volk (Assyrien) schicken, das das ganze Land bedrängt, vom Norden (Hamat) bis zum Süden (Araba). Genau das Gebiet, das König Jerobeam II. erobert hatte (2. Könige 14,25).

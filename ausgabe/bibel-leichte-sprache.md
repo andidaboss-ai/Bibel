@@ -110864,5 +110864,339 @@ vom Zugang nach Hamat bis zum Bach der Araba.“
 
 > **Was bedeutet das?**
 > Vers 12: Zwei absurde Fragen: Laufen Pferde über Felsen? Pflügt man Felsen? Nein, das ist verrückt. Genauso verrückt ist es, das Recht in Gift zu verwandeln. Und genau das tut ihr!
-> Vers 13: Ein Wortspiel: Israel freut sich über militärische Siege, zum Beispiel über die Eroberung von Lo-Dabar (was „Nichts“ bedeutet) und Karnajim (was „Hörner“ bedeutet). Sie sagen: „Das haben wir aus eigener Kraft geschafft!“ Amos spottet: Ihr freut euch über ein „Nichts“.
+> Vers 13: Wahrscheinlich steckt hier ein Wortspiel: Israel freut sich über militärische Siege. Viele Ausleger denken an die Eroberung der Orte Lo-Dabar (das klingt wie „Nichts“) und Karnajim (das bedeutet „Hörner“). Sie sagen: „Das haben wir aus eigener Kraft geschafft!“ Amos spottet: Ihr freut euch über ein „Nichts“.
 > Vers 14: Gott wird ein Volk (Assyrien) schicken, das das ganze Land bedrängt, vom Norden (Hamat) bis zum Süden (Araba). Genau das Gebiet, das König Jerobeam II. erobert hatte (2. Könige 14,25).
+
+## Amos – Kapitel 7
+#### Visionen und ein Streit in Bethel
+
+---
+
+### Zwei Visionen: Heuschrecken und Feuer (Vers 1–6)
+
+<sup>1</sup>So ließ mich der Herr, der HERR, schauen:
+Siehe, er bildete Heuschrecken,
+als die Spätsaat anfing zu wachsen.
+Und siehe, es war die Spätsaat nach der Mahd für den König.
+<sup>2</sup>Als sie das Grün des Landes ganz abgefressen hatten,
+sagte ich:
+„Herr, HERR, vergib doch!
+Wie soll Jakob bestehen?
+Denn er ist klein.“
+<sup>3</sup>Da reute es den HERRN.
+„Es soll nicht geschehen“, sagte der HERR.
+<sup>4</sup>So ließ mich der Herr, der HERR, schauen:
+Siehe, der Herr, der HERR, rief zum Gericht durch Feuer.
+Es verzehrte die große Urflut
+und hätte auch das Land verzehrt.
+<sup>5</sup>Da sagte ich:
+„Herr, HERR, hör doch auf!
+Wie soll Jakob bestehen?
+Denn er ist klein.“
+<sup>6</sup>Da reute es den HERRN.
+„Auch das soll nicht geschehen“, sagte der Herr, der HERR.
+
+> **Was bedeutet das?**
+> In Kapitel 7–9 hat Amos fünf Visionen.
+> Vision 1: Heuschrecken fressen die Spätsaat. Das war besonders schlimm: Die erste Ernte ging als Steuer an den König („die Mahd für den König“). Die zweite Ernte war das, wovon die einfachen Leute leben mussten.
+> Vision 2: Ein gewaltiges Feuer trocknet sogar das Meer aus.
+> Beide Male tritt Amos für sein Volk ein: „Vergib doch! Hör auf! Wie soll Jakob bestehen? Er ist so klein!“ Und Gott hört auf ihn: „Es soll nicht geschehen.“
+> Das ist bemerkenswert: Der harte Gerichtsprophet Amos ist gleichzeitig ein Fürbitter. Er liebt sein Volk. Und Gott lässt sich durch das Gebet bewegen. Gebet verändert etwas.
+
+---
+
+### Die dritte Vision: das Senkblei (Vers 7–9)
+
+<sup>7</sup>So ließ er mich schauen:
+Siehe, der Herr stand neben einer Mauer,
+die mit dem Senkblei gebaut war,
+und er hatte ein Senkblei in seiner Hand.
+<sup>8</sup>Der HERR sagte zu mir:
+„Amos, was siehst du?“
+Ich sagte: „Ein Senkblei.“
+Da sagte der Herr:
+„Siehe, ich lege ein Senkblei mitten an mein Volk Israel.
+Ich werde nicht mehr an ihm vorübergehen.
+<sup>9</sup>Die Höhen Isaaks werden verwüstet
+und die Heiligtümer Israels zerstört werden.
+Und ich werde mich mit dem Schwert gegen das Haus Jerobeam erheben.“
+
+> **Was bedeutet das?**
+> Ein Senkblei ist ein Gewicht an einer Schnur. Bauleute benutzen es, um zu prüfen, ob eine Mauer gerade steht. Gott misst sein Volk mit dem Senkblei. Und es zeigt: Die Mauer ist schief. Israel steht nicht gerade vor Gott.
+> Diesmal betet Amos nicht mehr für das Volk. Gott sagt: „Ich werde nicht mehr vorübergehen“, also nicht mehr verschonen.
+> „Isaak“ ist hier ein anderer Name für das Volk Israel.
+
+---
+
+### Amazja gegen Amos (Vers 10–17)
+
+<sup>10</sup>Da sandte Amazja, der Priester von Bethel,
+zu Jerobeam, dem König von Israel, und ließ ihm sagen:
+„Amos hat eine Verschwörung gegen dich angezettelt
+mitten im Haus Israel.
+Das Land kann alle seine Worte nicht ertragen.
+<sup>11</sup>Denn so sagt Amos:
+‚Jerobeam wird durch das Schwert sterben,
+und Israel wird gewiss aus seinem Land in die Gefangenschaft geführt werden.‘“
+<sup>12</sup>Amazja sagte auch zu Amos:
+„Du Seher, geh, flieh ins Land Juda,
+iss dort dein Brot
+und weissage dort.
+<sup>13</sup>Aber in Bethel sollst du nicht mehr weissagen,
+denn es ist ein Heiligtum des Königs
+und ein Reichstempel!“
+<sup>14</sup>Da antwortete Amos dem Amazja:
+„Ich war kein Prophet
+und auch kein Prophetensohn,
+sondern ich war ein Viehhirte
+und züchtete Maulbeerfeigen.
+<sup>15</sup>Und der HERR hat mich hinter der Herde weggenommen,
+und der HERR sagte zu mir:
+‚Geh, weissage meinem Volk Israel!‘
+<sup>16</sup>Und nun höre das Wort des HERRN:
+Du sagst:
+‚Weissage nicht gegen Israel
+und predige nicht gegen das Haus Isaak.‘
+<sup>17</sup>Darum spricht der HERR:
+‚Deine Frau wird in der Stadt zur Hure werden,
+und deine Söhne und deine Töchter werden durch das Schwert fallen,
+und dein Land wird mit der Messschnur verteilt werden.
+Und du selbst wirst in einem unreinen Land sterben,
+und Israel wird gewiss aus seinem Land in die Gefangenschaft geführt werden.‘“
+
+> **Was bedeutet das?**
+> Amazja war der oberste Priester am Königsheiligtum in Bethel. Er zeigt Amos beim König an: „Der ist ein Verschwörer! Das Land kann seine Worte nicht ertragen.“
+> Vers 12–13: Dann sagt er zu Amos: „Geh nach Hause nach Juda und verdien dort dein Geld mit Prophezeien! Hier in Bethel ist das Heiligtum des Königs.“ Bezeichnend: Er nennt es nicht „Gottes Heiligtum“, sondern „des Königs Heiligtum“. Die Religion steht im Dienst der Politik.
+> Vers 14–15: Amos’ berühmte Antwort: „Ich bin kein Berufsprophet. Ich verdiene damit kein Geld. Ich war Hirte und Bauer. Gott hat mich von meiner Herde weggerufen.“ Amos redet nicht, weil er dafür bezahlt wird, sondern weil Gott ihn geschickt hat.
+> Vers 17: Ein hartes Wort an Amazja. Es beschreibt, was einer Priesterfamilie geschieht, wenn die Feinde das Land erobern: Die Männer werden getötet, die Frauen werden Opfer sexueller Gewalt und Ausbeutung, das Land wird verteilt, und er selbst stirbt in der Verbannung. Das ist schreckliches Kriegsunrecht. Die Frau ist hier Opfer, nicht schuldig.
+
+## Amos – Kapitel 8
+#### Ein Hunger nach Gottes Wort
+
+---
+
+### Die vierte Vision: ein Korb mit Sommerobst (Vers 1–3)
+
+<sup>1</sup>So ließ mich der Herr, der HERR, schauen:
+Siehe, ein Korb mit Sommerobst.
+<sup>2</sup>Er sagte:
+„Amos, was siehst du?“
+Ich sagte: „Einen Korb mit Sommerobst.“
+Da sagte der HERR zu mir:
+„Das Ende ist gekommen über mein Volk Israel.
+Ich werde nicht mehr an ihm vorübergehen.
+<sup>3</sup>Die Lieder des Tempels werden an jenem Tag zum Heulen werden“,
+spricht der Herr, der HERR.
+„Die Leichen werden zahlreich sein.
+Überall wird man sie hinauswerfen.
+Still!“
+
+> **Was bedeutet das?**
+> Ein Wortspiel im Hebräischen: „Sommerobst“ heißt „qajits“, und „Ende“ heißt „qets“. Die beiden Wörter klingen fast gleich. Das reife Obst am Ende des Sommers wird zum Zeichen: Israel ist reif für das Ende.
+> Vers 3: Die fröhlichen Lieder im Tempel werden zu Klageliedern. Und am Ende nur noch: „Still!“ Eine erschütternde Stille nach der Katastrophe.
+
+---
+
+### Die Betrüger auf dem Markt (Vers 4–8)
+
+<sup>4</sup>Hört dies, ihr, die ihr die Bedürftigen verschlingen
+und die Armen im Land zugrunde richten wollt,
+<sup>5</sup>die ihr sagt:
+‚Wann ist der Neumond vorüber,
+damit wir Getreide verkaufen können?
+Und der Sabbat,
+damit wir den Weizen auf den Markt bringen,
+das Efa klein machen
+und den Schekel groß
+und mit falschen Waagen betrügen,
+<sup>6</sup>damit wir die Armen für Silber kaufen
+und die Bedürftigen für ein Paar Sandalen
+und den Abfall des Weizens verkaufen?‘“
+<sup>7</sup>Der HERR hat beim Stolz Jakobs geschworen:
+„Gewiss, ich werde keine ihrer Taten jemals vergessen.
+<sup>8</sup>Soll nicht das Land darüber erbeben
+und jeder trauern, der darin wohnt?
+Ja, es wird sich ganz heben wie der Nil
+und aufwallen und wieder sinken
+wie der Strom Ägyptens.
+
+> **Was bedeutet das?**
+> Ein lebendiges Bild von unehrlichen Händlern:
+> Vers 5: Sie halten zwar den Sabbat und die Feiertage ein, aber nur widerwillig. Sie können es kaum erwarten, bis der Feiertag vorbei ist und sie wieder Geschäfte machen können.
+> Und wie sie Geschäfte machen: Das Efa (das Hohlmaß für das Getreide) machen sie kleiner, damit der Kunde weniger bekommt. Den Schekel (das Gewicht für das Geld) machen sie schwerer, damit der Kunde mehr bezahlt. Und die Waage ist gefälscht. Dreifacher Betrug!
+> Vers 6: Sie verkaufen sogar den Abfall des Getreides an die Armen. Und wer seine Schulden nicht bezahlen kann, wird als Sklave verkauft.
+> Vers 7: Gott vergisst das nicht.
+> Für heute: Betrug im Geschäftsleben, Ausbeutung von Arbeitern, Wucher und Übervorteilung der Schwächeren, all das sieht Gott.
+
+---
+
+### Die Sonne geht am Mittag unter (Vers 9–10)
+
+<sup>9</sup>An jenem Tag wird es geschehen“,
+spricht der Herr, der HERR,
+„dass ich die Sonne am Mittag untergehen lasse
+und die Erde am hellen Tag verfinstere.
+<sup>10</sup>Ich werde eure Feste in Trauer verwandeln
+und alle eure Lieder in Klagelieder.
+Ich werde um alle Hüften Sacktuch bringen
+und auf jeden Kopf eine Glatze.
+Ich werde es machen wie die Trauer um einen einzigen Sohn,
+und sein Ende wie einen bitteren Tag.
+
+> **Was bedeutet das?**
+> Vers 9: Die Sonne geht mitten am Tag unter. Vielleicht denkt Amos an eine Sonnenfinsternis; im Jahr 763 vor Christus gab es eine große Sonnenfinsternis, die in assyrischen Texten erwähnt wird.
+> Die Evangelien berichten, dass beim Tod Jesu am Mittag eine Finsternis über das Land kam (Markus 15,33).
+> Vers 10: Die Trauer wird so tief sein wie die Trauer von Eltern um ihr einziges Kind, der größte Schmerz, den man sich vorstellen kann.
+
+---
+
+### Ein Hunger nach dem Wort des HERRN (Vers 11–14)
+
+<sup>11</sup>Siehe, es kommen Tage“,
+spricht der Herr, der HERR,
+„da werde ich einen Hunger ins Land senden,
+nicht einen Hunger nach Brot
+und nicht einen Durst nach Wasser,
+sondern danach, die Worte des HERRN zu hören.
+<sup>12</sup>Sie werden umherirren von Meer zu Meer
+und vom Norden bis zum Osten.
+Sie werden hin und her laufen,
+um das Wort des HERRN zu suchen,
+und sie werden es nicht finden.
+<sup>13</sup>An jenem Tag werden die schönen jungen Frauen
+und die jungen Männer vor Durst verschmachten.
+<sup>14</sup>Die bei der Schuld Samarias schwören
+und sagen: ‚So wahr dein Gott lebt, Dan!‘
+und: ‚So wahr der Weg nach Beerscheba lebt!‘,
+die werden fallen und nie wieder aufstehen.“
+
+> **Was bedeutet das?**
+> Vers 11–12: Ein ungewöhnlicher Hunger: nicht nach Brot, sondern nach Gottes Wort. Die Menschen haben die Propheten nicht hören wollen (vgl. 2,12; 7,12–13). Jetzt wird Gott schweigen. Und dann werden sie merken, wie sehr sie Gottes Wort brauchen. Sie werden überall suchen und es nicht finden.
+> Jesus sagt: „Der Mensch lebt nicht vom Brot allein, sondern von jedem Wort, das aus dem Mund Gottes kommt“ (Matthäus 4,4; vgl. 5. Mose 8,3).
+> Vers 14: Dan und Beerscheba waren Heiligtümer im äußersten Norden und Süden. Die Leute schworen bei ihren Götzen und Pilgerwegen. Aber diese Götzen können nicht helfen.
+> Für heute: Viele Menschen spüren eine innere Leere, einen „Hunger“ nach Sinn und nach Gott, auch wenn sie materiell alles haben.
+
+## Amos – Kapitel 9
+#### Die zerfallene Hütte Davids
+
+---
+
+### Die fünfte Vision: Niemand entkommt (Vers 1–6)
+
+<sup>1</sup>Ich sah den Herrn neben dem Altar stehen,
+und er sagte:
+„Schlag auf die Säulenköpfe,
+dass die Schwellen erbeben!
+Zerschlage sie auf dem Kopf von ihnen allen!
+Den Letzten von ihnen werde ich mit dem Schwert töten.
+Keiner von ihnen wird fliehen.
+Keiner von ihnen wird entkommen.
+<sup>2</sup>Wenn sie ins Totenreich hinabgraben,
+wird meine Hand sie von dort holen.
+Und wenn sie zum Himmel hinaufsteigen,
+werde ich sie von dort herunterholen.
+<sup>3</sup>Wenn sie sich auf dem Gipfel des Karmel verstecken,
+werde ich sie dort aufspüren und herausholen.
+Und wenn sie sich vor meinen Augen auf dem Grund des Meeres verbergen,
+werde ich dort der Schlange befehlen,
+und sie wird sie beißen.
+<sup>4</sup>Wenn sie vor ihren Feinden in die Gefangenschaft ziehen,
+werde ich dort dem Schwert befehlen,
+und es wird sie töten.
+Ich werde meine Augen auf sie richten
+zum Bösen und nicht zum Guten.
+<sup>5</sup>Denn der Herr, der HERR der Heere,
+ist es, der die Erde anrührt, und sie schmilzt,
+und alle, die darauf wohnen, trauern.
+Und sie hebt sich ganz wie der Nil
+und sinkt wieder wie der Strom Ägyptens.
+<sup>6</sup>Er ist es, der seine Gemächer im Himmel baut
+und sein Gewölbe auf der Erde gründet,
+der die Wasser des Meeres ruft
+und sie über die Fläche der Erde ausgießt –
+HERR ist sein Name.
+
+> **Was bedeutet das?**
+> In der fünften Vision steht Gott selbst am Altar, wahrscheinlich in Bethel. Das Heiligtum, auf das die Menschen vertrauten, wird zerstört.
+> Vers 2–4: Es gibt keinen Ort, an dem man sich vor Gott verstecken kann: weder im Totenreich noch im Himmel, weder auf dem Berg noch auf dem Meeresgrund. Das erinnert an Psalm 139,7–10. Dort ist es ein Trost („Wohin ich auch gehe, du bist da“). Hier ist es eine Warnung.
+> Vers 5–6: Wieder ein Lobpreis auf Gottes Größe, wie in 4,13 und 5,8–9.
+
+---
+
+### Seid ihr nicht wie die Kuschiter? (Vers 7–10)
+
+<sup>7</sup>„Seid ihr für mich nicht wie die Kinder der Kuschiter,
+ihr Kinder Israel?“,
+spricht der HERR.
+„Habe ich nicht Israel aus dem Land Ägypten heraufgeführt
+und die Philister aus Kaftor
+und die Aramäer aus Kir?
+<sup>8</sup>Siehe, die Augen des Herrn, des HERRN,
+sind auf das sündige Königreich gerichtet,
+und ich werde es von der Fläche der Erde vertilgen.
+Nur werde ich das Haus Jakob nicht völlig vertilgen“,
+spricht der HERR.
+<sup>9</sup>„Denn siehe, ich gebe Befehl
+und werde das Haus Israel unter allen Völkern schütteln,
+wie man Getreide im Sieb schüttelt,
+und doch wird nicht das kleinste Körnchen zur Erde fallen.
+<sup>10</sup>Alle Sünder meines Volkes werden durch das Schwert sterben,
+die sagen:
+‚Das Unheil wird uns nicht erreichen und nicht treffen.‘
+
+> **Was bedeutet das?**
+> Vers 7: Einer der erstaunlichsten Verse der Bibel! Israel hielt sich für etwas Besonderes, weil Gott es aus Ägypten befreit hatte. Gott sagt: Ihr seid mir nicht wichtiger als die Kuschiter (das WEB schreibt „Ethiopians“; gemeint sind die Bewohner von Kusch, südlich von Ägypten, mit dunkler Hautfarbe). Und auch andere Völker habe ich geführt: die Philister aus Kaftor (wahrscheinlich Kreta) und die Aramäer aus Kir.
+> Die Botschaft: Gott ist der Gott aller Völker. Er liebt alle Menschen gleich, egal welcher Herkunft oder Hautfarbe. Er hat die Geschichte aller Völker in seiner Hand. Erwählung bedeutet nicht, dass man mehr wert ist als andere.
+> Vers 8: Aber Gott wird sein Volk nicht völlig vernichten.
+> Vers 9: Das Bild vom Sieb: Gott schüttelt das Volk, wie man Getreide siebt. Die Steine und der Schmutz fallen durch, aber kein einziges gutes Korn geht verloren. Gott kennt jeden Einzelnen.
+
+---
+
+### Die Hütte Davids wird wieder aufgerichtet (Vers 11–15)
+
+<sup>11</sup>An jenem Tag werde ich die zerfallene Hütte Davids aufrichten
+und ihre Risse vermauern,
+und ihre Trümmer werde ich aufrichten,
+und ich werde sie bauen wie in den Tagen der Vorzeit,
+<sup>12</sup>damit sie den Rest Edoms in Besitz nehmen
+und alle Völker, über denen mein Name ausgerufen ist“,
+spricht der HERR, der dies tut.
+<sup>13</sup>„Siehe, es kommen Tage“,
+spricht der HERR,
+„da wird der Pflüger den Schnitter einholen
+und der Traubentreter den, der den Samen streut.
+Und von den Bergen wird süßer Wein triefen,
+und alle Hügel werden davon fließen.
+<sup>14</sup>Ich werde das Geschick meines Volkes Israel wenden,
+und sie werden die verwüsteten Städte wieder aufbauen und darin wohnen.
+Sie werden Weinberge pflanzen und ihren Wein trinken.
+Sie werden Gärten anlegen und ihre Früchte essen.
+<sup>15</sup>Ich werde sie in ihr Land pflanzen,
+und sie werden nicht mehr ausgerissen werden aus ihrem Land,
+das ich ihnen gegeben habe“,
+spricht der HERR, dein Gott.
+
+> **Was bedeutet das?**
+> Nach so viel Gericht endet das Buch mit Hoffnung!
+> Vers 11: Die „Hütte Davids“ ist das Königshaus Davids. Es ist zerfallen wie eine Laubhütte. Aber Gott wird es wieder aufrichten.
+> Vers 12: Bemerkenswert: „alle Völker, über denen mein Name ausgerufen ist“. Auch andere Völker gehören zu Gott. Im Neuen Testament zitiert Jakobus diese Verse beim Apostelkonzil in Jerusalem, um zu begründen, dass auch Nichtjuden zur Gemeinde Jesu gehören dürfen (Apostelgeschichte 15,15–17).
+> Vers 13: Ein Bild von unglaublichem Überfluss: Die Ernte ist so groß, dass man noch nicht fertig ist mit Ernten, wenn schon wieder gepflügt werden muss.
+> Vers 14: Die Flüche aus 5,11 werden umgekehrt: Dort hieß es „Ihr werdet nicht darin wohnen, ihr werdet ihren Wein nicht trinken.“ Jetzt heißt es: „Sie werden darin wohnen und ihren Wein trinken.“
+> Vers 15: „Sie werden nie mehr ausgerissen werden.“ Gottes letztes Wort ist Heil.
+
+---
+
+### Rückblick: Was haben wir im Buch Amos gelesen?
+
+> **Was bedeutet das?**
+> **Ein Hirte als Prophet:** Amos war ein einfacher Viehhirte und Bauer aus Tekoa, kein Berufsprophet. Gott schickte ihn ins reiche Nordreich Israel (7,14–15).
+> **Gerechtigkeit für die Armen:** Das große Thema von Amos ist soziale Gerechtigkeit. Er klagt an: Die Reichen verkaufen „den Armen für ein Paar Sandalen“, betrügen mit falschen Waagen, beugen das Recht vor Gericht und leben im Luxus, während andere hungern.
+> **Keine Ausnahme für das eigene Volk:** Gott richtet nicht nur die Nachbarvölker, sondern gerade auch Israel. „Nur euch habe ich erwählt, darum werde ich euch heimsuchen“ (3,2).
+> **Gottesdienst ohne Gerechtigkeit:** „Ich hasse eure Feste … Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (5,21–24). Martin Luther King hat diese Worte zum Motto der Bürgerrechtsbewegung gemacht.
+> **Sucht mich und lebt:** „Sucht das Gute und nicht das Böse, damit ihr lebt“ (5,14).
+> **Ein Prophet, der betet:** Amos tritt für sein Volk ein: „Vergib doch! Wie soll Jakob bestehen? Er ist so klein“ (7,2).
+> **Gott aller Völker:** „Seid ihr mir nicht wie die Kuschiter?“ (9,7). Gott liebt alle Völker gleich.
+> **Hunger nach Gottes Wort:** Es wird ein Hunger kommen, „nicht nach Brot, sondern nach dem Wort des HERRN“ (8,11).
+> **Hoffnung am Ende:** Gott wird die zerfallene Hütte Davids wieder aufrichten (9,11).
+> **Für heute:** Amos fragt uns: Wie gehen wir mit armen und schwachen Menschen um? Passen unser Glaube und unser Alltag zusammen? Wo ist Gerechtigkeit nötig, in unserer Stadt, unserem Land, in der Welt?
+> **Wie geht es weiter?** Als Nächstes kommt Obadja, das kürzeste Buch des Alten Testaments, nur ein Kapitel lang. Es ist ein Wort gegen Edom, das sich am Unglück seines Brudervolkes gefreut hat.
