@@ -98690,3 +98690,216 @@ und sie unter dem Himmel des HERRN vertilgen.
 > Vers 53–55: Diese Worte erinnern an Jeremia, der in eine Zisterne geworfen wurde (Jeremia 38,6). „Aus der tiefsten Grube“ rief er zu Gott.
 > Vers 56–58: Und Gott hat gehört! „Du kamst nahe, als ich dich rief. Du sagtest: Fürchte dich nicht!“ Das ist die Erfahrung vieler Menschen: In der tiefsten Not ist Gott nahe.
 > Vers 59–66: Der Dichter bittet Gott, ihm Recht zu verschaffen und seine Verfolger zu bestrafen. Er bringt seine Wut zu Gott und überlässt Gott das Urteil, statt sich selbst zu rächen. Jesus zeigt später einen noch weiteren Weg: für die Feinde zu beten (Lukas 23,34).
+
+## Klagelieder – Kapitel 4
+#### Wie ist das Gold so trüb geworden!
+
+---
+
+### Die Kinder Zions (Vers 1–10)
+
+<sup>1</sup>Wie ist das Gold so trüb geworden!
+Das reinste Gold hat sich verändert!
+Die Steine des Heiligtums liegen verstreut
+an der Ecke jeder Straße.
+<sup>2</sup>Die kostbaren Söhne Zions,
+die so viel wert waren wie feines Gold,
+wie sind sie geachtet wie Tonkrüge,
+das Werk von Töpferhänden!
+<sup>3</sup>Sogar die Schakale reichen ihre Brust
+und säugen ihre Jungen.
+Aber die Tochter meines Volkes ist grausam geworden
+wie die Strauße in der Wüste.
+<sup>4</sup>Die Zunge des Säuglings klebt vor Durst an seinem Gaumen.
+Die kleinen Kinder bitten um Brot,
+und niemand bricht es ihnen.
+<sup>5</sup>Die Leckerbissen gegessen haben,
+verschmachten auf den Straßen.
+Die in Purpur aufgewachsen sind,
+umarmen Misthaufen.
+<sup>6</sup>Denn die Schuld der Tochter meines Volkes
+ist größer als die Sünde Sodoms,
+das wie in einem Augenblick zerstört wurde,
+ohne dass Hände sich an ihm abmühten.
+<sup>7</sup>Ihre Vornehmen waren reiner als Schnee.
+Sie waren weißer als Milch.
+Ihr Körper war rötlicher als Korallen.
+Ihr Aussehen war wie Saphir.
+<sup>8</sup>Jetzt ist ihr Aussehen schwärzer als Ruß.
+Man erkennt sie auf den Straßen nicht mehr.
+Ihre Haut klebt an ihren Knochen.
+Sie ist vertrocknet.
+Sie ist wie Holz geworden.
+<sup>9</sup>Die durch das Schwert getötet wurden, hatten es besser
+als die, die durch den Hunger getötet wurden.
+Denn diese siechen dahin, wie durchbohrt,
+aus Mangel an den Früchten des Feldes.
+<sup>10</sup>Die Hände mitleidiger Frauen
+haben ihre eigenen Kinder gekocht.
+Sie wurden ihnen zur Speise
+beim Zusammenbruch der Tochter meines Volkes.
+
+> **Was bedeutet das?**
+> Das vierte Lied beginnt wieder mit „Wie …!“ (hebräisch „Ekha“).
+> Vers 1–2: Das Gold hat seinen Glanz verloren. Die Menschen, die einmal so kostbar waren wie Gold, werden behandelt wie billige Tonkrüge.
+> Vers 3–4: Sogar wilde Tiere säugen ihre Jungen. Aber in der Hungersnot können Mütter ihren Kindern nichts mehr geben. Die Kinder bitten um Brot, und niemand hat welches. Der Strauß galt damals als ein Vogel, der sich nicht um seine Eier kümmert (vgl. Hiob 39,14–16).
+> Vers 5–8: Die Reichen, die früher in Purpur gekleidet waren und Leckerbissen aßen, sind jetzt abgemagert und schwarz vor Hunger. Hunger macht alle Menschen gleich.
+> Vers 9: Ein schrecklicher Satz: Wer durch das Schwert stirbt, hat es besser als wer langsam verhungert.
+> Vers 10: Wieder wird das Grauen beschrieben, dass verzweifelte Mütter in der Hungersnot ihre eigenen Kinder aßen (vgl. 2,20). Die Bibel verschweigt das nicht. Es ist eine Anklage gegen den Krieg und die Belagerung, die Menschen in solch eine Lage bringen.
+> Auch heute leiden Kinder in Kriegen und Hungersnöten. Diese Verse rufen dazu auf, hinzusehen und zu helfen.
+
+---
+
+### Die Schuld der Propheten und Priester (Vers 11–16)
+
+<sup>11</sup>Der HERR hat seinen Grimm vollendet.
+Er hat seinen glühenden Zorn ausgegossen.
+Er hat ein Feuer in Zion angezündet,
+das ihre Grundmauern gefressen hat.
+<sup>12</sup>Die Könige der Erde haben es nicht geglaubt,
+auch keiner der Bewohner der Welt,
+dass Gegner und Feind
+durch die Tore Jerusalems kommen würden.
+<sup>13</sup>Wegen der Sünden ihrer Propheten
+und der Missetaten ihrer Priester ist es geschehen,
+die in ihrer Mitte das Blut der Gerechten vergossen haben.
+<sup>14</sup>Sie irren wie Blinde auf den Straßen umher.
+Sie sind mit Blut befleckt,
+sodass man ihre Kleider nicht berühren kann.
+<sup>15</sup>„Weg da!“, rief man ihnen zu. „Unrein!
+Weg da! Weg da! Rührt nichts an!“
+Als sie flohen und umherirrten,
+sagte man unter den Nationen:
+„Sie dürfen nicht mehr hier wohnen.“
+<sup>16</sup>Der Zorn des HERRN hat sie zerstreut.
+Er wird nicht mehr auf sie achten.
+Man hat die Priester nicht geachtet.
+Man hat die Ältesten nicht verschont.
+
+> **Was bedeutet das?**
+> Vers 12: Niemand hatte gedacht, dass Jerusalem jemals fallen könnte. Die Stadt galt als uneinnehmbar.
+> Vers 13: Ein wichtiger Grund für den Untergang: Ausgerechnet die religiösen Führer, Propheten und Priester, haben Unschuldige getötet. Wenn die, die für Gott sprechen sollen, Unrecht tun, ist das besonders schlimm.
+> Vers 14–15: Jetzt sind sie selbst wie Aussätzige. Alle rufen: „Weg da! Unrein!“ Niemand will sie haben.
+
+---
+
+### Unsere Hoffnung war vergeblich (Vers 17–22)
+
+<sup>17</sup>Unsere Augen schauen noch immer vergeblich nach Hilfe aus.
+Auf unserer Warte haben wir gewartet
+auf ein Volk, das nicht retten konnte.
+<sup>18</sup>Sie haben unsere Schritte gejagt,
+sodass wir nicht auf unsere Straßen gehen konnten.
+Unser Ende ist nahe.
+Unsere Tage sind erfüllt,
+denn unser Ende ist gekommen.
+<sup>19</sup>Unsere Verfolger waren schneller als die Adler des Himmels.
+Sie haben uns auf den Bergen gejagt.
+Sie haben uns in der Wüste aufgelauert.
+<sup>20</sup>Der Atem unserer Nase, der Gesalbte des HERRN,
+wurde in ihren Gruben gefangen,
+von dem wir sagten:
+„In seinem Schatten werden wir unter den Nationen leben.“
+<sup>21</sup>Freue dich und sei fröhlich, Tochter Edom,
+die du im Land Uz wohnst!
+Auch zu dir wird der Becher kommen.
+Du wirst betrunken werden und dich entblößen.
+<sup>22</sup>Die Strafe für deine Schuld ist vollendet, Tochter Zion.
+Er wird dich nicht mehr in die Gefangenschaft führen.
+Er wird deine Schuld heimsuchen, Tochter Edom.
+Er wird deine Sünden aufdecken.
+
+> **Was bedeutet das?**
+> Vers 17: Jerusalem hatte auf Hilfe von Ägypten gehofft, aber vergeblich.
+> Vers 20: Der „Gesalbte des HERRN“ ist König Zidkija. Das Volk hatte gehofft, unter seinem Schutz zu leben, aber er wurde gefangen (Jeremia 39,5).
+> Vers 21: Edom, das sich über Jerusalems Fall freute, wird auch bald den „Becher“ trinken müssen.
+> Vers 22: Und dann der erste Lichtblick seit langem: „Deine Strafe ist vollendet, Tochter Zion.“ Das Schlimmste ist vorbei. Gott wird dich nicht mehr wegführen. Das erinnert an Jesaja 40,2: „Ihre Schuld ist vergeben.“
+
+## Klagelieder – Kapitel 5
+#### Bring uns zurück zu dir
+
+---
+
+### Denk daran, HERR, was uns geschehen ist (Vers 1–18)
+
+<sup>1</sup>Denk daran, HERR, was uns geschehen ist!
+Schau her und sieh unsere Schmach!
+<sup>2</sup>Unser Erbe ist Fremden zugefallen,
+unsere Häuser Ausländern.
+<sup>3</sup>Wir sind Waisen und vaterlos geworden.
+Unsere Mütter sind wie Witwen.
+<sup>4</sup>Unser Wasser müssen wir für Geld trinken.
+Unser Holz wird uns verkauft.
+<sup>5</sup>Unsere Verfolger sitzen uns im Nacken.
+Wir sind müde und haben keine Ruhe.
+<sup>6</sup>Wir haben Ägypten und Assur die Hand gereicht,
+um mit Brot satt zu werden.
+<sup>7</sup>Unsere Väter haben gesündigt und sind nicht mehr.
+Wir tragen ihre Schuld.
+<sup>8</sup>Knechte herrschen über uns.
+Niemand ist da, der uns aus ihrer Hand befreit.
+<sup>9</sup>Unter Lebensgefahr holen wir unser Brot,
+wegen des Schwertes in der Wüste.
+<sup>10</sup>Unsere Haut ist schwarz wie ein Ofen
+von der glühenden Hitze des Hungers.
+<sup>11</sup>Sie haben die Frauen in Zion vergewaltigt,
+die jungen Frauen in den Städten Judas.
+<sup>12</sup>Fürsten wurden an ihren Händen aufgehängt.
+Die Gesichter der Ältesten wurden nicht geehrt.
+<sup>13</sup>Die jungen Männer müssen Mühlsteine tragen.
+Die Kinder stolpern unter Holzlasten.
+<sup>14</sup>Die Ältesten sitzen nicht mehr im Tor,
+die jungen Männer spielen keine Musik mehr.
+<sup>15</sup>Die Freude unseres Herzens hat aufgehört.
+Unser Tanz ist in Trauer verwandelt.
+<sup>16</sup>Die Krone ist von unserem Kopf gefallen.
+Wehe uns, denn wir haben gesündigt!
+<sup>17</sup>Darum ist unser Herz krank.
+Darum sind unsere Augen trüb:
+<sup>18</sup>wegen des Berges Zion, der verwüstet ist.
+Füchse laufen darauf umher.
+
+> **Was bedeutet das?**
+> Das fünfte Lied ist ein gemeinsames Gebet des ganzen Volkes: „Denk daran, HERR! Schau her!“ Es ist nicht alphabetisch gebaut, hat aber 22 Verse, so viele wie das hebräische Alphabet Buchstaben hat.
+> Vers 2–4: Das Leben im besetzten Land: Häuser gehören Fremden, sogar Wasser und Brennholz muss man teuer kaufen.
+> Vers 7: „Unsere Väter haben gesündigt, und wir tragen ihre Schuld.“ Die Kinder leiden unter den Fehlern der vorigen Generation. Jeremia sagt dagegen, dass in Zukunft jeder nur für seine eigene Schuld einstehen wird (Jeremia 31,29–30).
+> Vers 11: Sexuelle Gewalt gegen Frauen ist ein Kriegsverbrechen, damals wie heute. Die Bibel benennt dieses Unrecht und klagt es vor Gott an. Wer sexuelle Gewalt erlebt hat, findet Hilfe: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Sexueller Missbrauch 0800 22 55 530.
+> Vers 13: Sogar Kinder müssen schwere Zwangsarbeit leisten.
+> Vers 14–15: Kein Gericht im Tor, keine Musik, kein Tanz mehr. Alles Leben ist erstorben.
+> Vers 18: Auf dem Tempelberg, wo früher Gott angebetet wurde, laufen jetzt Füchse herum.
+
+---
+
+### Du aber, HERR, bleibst für immer (Vers 19–22)
+
+<sup>19</sup>Du, HERR, bleibst für immer.
+Dein Thron bleibt von Generation zu Generation.
+<sup>20</sup>Warum vergisst du uns für immer
+und verlässt uns so lange Zeit?
+<sup>21</sup>Bring uns zurück, HERR, zu dir,
+so werden wir zurückkehren!
+Erneuere unsere Tage wie in alter Zeit!
+<sup>22</sup>Oder hast du uns ganz verworfen?
+Bist du so sehr zornig auf uns?
+
+> **Was bedeutet das?**
+> Vers 19: Mitten in all dem Leid ein festes Bekenntnis: „Du, HERR, bleibst für immer.“ Alles ist zerstört, aber Gott bleibt.
+> Vers 20: Und doch die ehrliche Frage: „Warum vergisst du uns so lange?“
+> Vers 21 ist ein berühmtes Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren! Erneuere unsere Tage wie in alter Zeit!“ Das Volk weiß: Selbst umkehren können wir nicht. Gott muss uns zurückbringen. Dieser Vers wird im jüdischen Gottesdienst gesungen, wenn die Tora-Rolle zurück in den Schrein gelegt wird.
+> Vers 22: Das Buch endet mit einer offenen Frage. Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
+
+---
+
+### Rückblick: Was haben wir in den Klageliedern gelesen?
+
+> **Was bedeutet das?**
+> **Fünf Lieder über eine Katastrophe:** Die Klagelieder trauern um Jerusalem, das im Jahr 587 vor Christus zerstört wurde. Sie beschreiben Hunger, Tod, Verschleppung und den verbrannten Tempel.
+> **Trauer von A bis Z:** Die ersten vier Lieder sind nach dem hebräischen Alphabet gebaut. Der Schmerz wird vollständig ausgesprochen, nichts wird ausgelassen.
+> **Ehrliche Klage:** Die Lieder sagen offen: „Der Herr ist wie ein Feind geworden“ (2,5). Die Bibel erlaubt, Gott alles zu sagen, auch Zorn und Verzweiflung.
+> **Niemand tröstet:** „Sie hat keinen Tröster“ (Kapitel 1). Das Leid ist auch eine tiefe Einsamkeit.
+> **Die Kinder:** Immer wieder geht es um das Leiden der Kinder in Krieg und Hunger. Die Lieder rufen dazu auf, hinzusehen.
+> **Schuld und Leid:** Die Lieder sagen ehrlich, dass das Volk gesündigt hat. Aber sie reden das Leid nicht klein.
+> **Hoffnung in der Mitte:** Genau im Herzen des Buches steht: „Sein Erbarmen ist jeden Morgen neu. Groß ist deine Treue“ (3,22–23).
+> **Bring uns zurück:** Am Ende steht das Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren“ (5,21).
+> **Für heute:** Die Klagelieder helfen allen, die trauern, Worte für ihren Schmerz zu finden. Wer trauert, muss nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
+> **Wie geht es weiter?** Als Nächstes kommt das Buch Hesekiel. Hesekiel war ein Priester, der in Babylon lebte und dort Visionen von Gottes Herrlichkeit hatte.
