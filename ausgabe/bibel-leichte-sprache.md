@@ -108658,3 +108658,274 @@ in den letzten Tagen.
 > Aber danach kommt die Umkehr: Sie werden Gott suchen und „David, ihren König“, also einen König aus der Familie Davids. Juden erwarten den Messias aus Davids Familie. Christen sehen die Erfüllung in Jesus, dem „Sohn Davids“.
 > „Zitternd zu seiner Güte kommen“: nicht aus Angst vor Strafe, sondern voller Ehrfurcht vor der Güte, die sie nicht verdient haben.
 > Die Botschaft der ersten drei Kapitel: Gottes Liebe ist stärker als die Untreue der Menschen. Er gibt nicht auf.
+
+## Hosea – Kapitel 4
+#### Keine Treue, keine Liebe, keine Gotteserkenntnis
+
+---
+
+### Gottes Rechtsstreit mit seinem Volk (Vers 1–3)
+
+<sup>1</sup>Hört das Wort des HERRN, ihr Kinder Israel,
+denn der HERR hat einen Rechtsstreit mit den Bewohnern des Landes:
+„Wahrlich, es gibt keine Treue,
+keine Güte
+und keine Gotteserkenntnis im Land.
+<sup>2</sup>Es gibt Fluchen, Lügen, Morden, Stehlen und Ehebrechen.
+Sie brechen alle Grenzen,
+und Bluttat folgt auf Bluttat.
+<sup>3</sup>Darum wird das Land trauern,
+und alle, die darin wohnen, werden dahinwelken,
+mit allen Lebewesen darin,
+mit den Tieren des Feldes und den Vögeln des Himmels.
+Ja, auch die Fische im Meer sterben.
+
+> **Was bedeutet das?**
+> Gott führt einen „Rechtsstreit“ mit seinem Volk, wie vor Gericht.
+> Vers 1: Drei Dinge fehlen im Land: Treue (Wahrhaftigkeit), Güte (Liebe, Barmherzigkeit) und Gotteserkenntnis. Das sind die Grundlagen jeder guten Gemeinschaft.
+> Vers 2: Stattdessen gibt es Fluchen, Lügen, Morden, Stehlen und Ehebruch. Das sind fast genau die Zehn Gebote, nur umgekehrt (vgl. 2. Mose 20,7.13–16). Wenn Menschen Gott vergessen, zerbricht auch das Zusammenleben.
+> Vers 3: Sogar die Natur leidet: Tiere, Vögel und Fische sterben. Das Unrecht der Menschen hat Folgen für die ganze Schöpfung. Ein Gedanke, der heute, angesichts von Umweltzerstörung und Artensterben, sehr aktuell ist.
+
+---
+
+### Die Schuld der Priester (Vers 4–10)
+
+<sup>4</sup>Doch niemand soll anklagen,
+und niemand soll Vorwürfe machen,
+denn dein Volk ist wie die, die gegen einen Priester klagen.
+<sup>5</sup>Du wirst am Tag straucheln,
+und auch der Prophet wird mit dir in der Nacht straucheln,
+und ich werde deine Mutter vernichten.
+<sup>6</sup>Mein Volk geht zugrunde aus Mangel an Erkenntnis.
+Weil du die Erkenntnis verworfen hast,
+verwerfe auch ich dich,
+dass du mir nicht mehr Priester sein sollst.
+Weil du das Gesetz deines Gottes vergessen hast,
+vergesse auch ich deine Kinder.
+<sup>7</sup>Je mehr sie wurden,
+desto mehr sündigten sie gegen mich.
+Ich werde ihre Ehre in Schande verwandeln.
+<sup>8</sup>Sie ernähren sich von der Sünde meines Volkes
+und richten ihr Verlangen auf seine Schuld.
+<sup>9</sup>Es wird gehen: wie das Volk, so der Priester.
+Ich werde sie für ihre Wege heimsuchen
+und ihnen ihre Taten vergelten.
+<sup>10</sup>Sie werden essen und nicht satt werden.
+Sie werden Hurerei treiben und sich nicht vermehren,
+weil sie aufgehört haben, auf den HERRN zu hören.
+
+> **Was bedeutet das?**
+> Jetzt spricht Gott die Priester direkt an. Sie hätten das Volk lehren sollen, wer Gott ist und was er will. Aber sie haben es nicht getan.
+> Vers 6: Ein berühmter Satz: „Mein Volk geht zugrunde aus Mangel an Erkenntnis.“ Das Volk kennt Gott nicht mehr, weil niemand es ihm beigebracht hat. Die Priester sind schuld.
+> Vers 8: Ein schwerer Vorwurf: Die Priester „ernähren sich von der Sünde“. Sie bekamen einen Anteil an den Sündopfern. Je mehr das Volk sündigte, desto mehr verdienten sie. Statt das Volk zur Umkehr zu rufen, profitierten sie von seiner Schuld.
+> Vers 9: „Wie das Volk, so der Priester.“ Die geistlichen Leiter sind nicht besser als die anderen.
+> Für heute: Wer Verantwortung für andere trägt (in Kirche, Schule oder Familie), soll Wissen und Werte weitergeben und darf andere nicht ausnutzen.
+
+---
+
+### Götzendienst unter den Bäumen (Vers 11–14)
+
+<sup>11</sup>Hurerei, Wein und Most rauben den Verstand.
+<sup>12</sup>Mein Volk befragt sein Holz,
+und sein Stab soll ihm Auskunft geben.
+Denn ein Geist der Hurerei hat sie in die Irre geführt,
+und sie sind ihrem Gott untreu geworden.
+<sup>13</sup>Auf den Gipfeln der Berge opfern sie,
+und auf den Hügeln bringen sie Räucheropfer dar,
+unter Eichen, Pappeln und Terebinthen,
+weil ihr Schatten gut ist.
+Darum treiben eure Töchter Hurerei,
+und eure Bräute brechen die Ehe.
+<sup>14</sup>Ich werde eure Töchter nicht bestrafen, wenn sie Hurerei treiben,
+und eure Bräute nicht, wenn sie die Ehe brechen.
+Denn die Männer selbst gehen mit Huren beiseite
+und opfern mit den Tempelhuren.
+So kommt das Volk ohne Verstand zu Fall.
+
+> **Was bedeutet das?**
+> Vers 12: Die Menschen befragen ein Stück Holz (ein Götzenbild oder einen Wahrsagestab), anstatt Gott zu fragen.
+> Vers 13: Unter schattigen Bäumen auf den Hügeln wurden Fruchtbarkeitskulte gefeiert, oft mit sexuellen Ritualen.
+> Vers 14: Ein bemerkenswerter Vers! Gott sagt: Ich bestrafe nicht die jungen Frauen. Denn die Männer selbst gehen zu den Prostituierten und machen bei den Kulten mit. Gott stellt sich gegen die Doppelmoral, bei der Frauen bestraft werden, während Männer dasselbe tun. Die Hauptverantwortung tragen die Männer, die das Vorbild geben und die Macht haben.
+> Das WEB spricht von „Tempelprostituierten“ (shrine prostitutes). Ob es in Israel wirklich „heilige Prostitution“ gab, ist unter Forschern umstritten. Sicher ist: Die Frauen in diesen Kulten wurden oft ausgebeutet.
+
+---
+
+### Ephraim hängt an Götzen (Vers 15–19)
+
+<sup>15</sup>Wenn du, Israel, Hurerei treibst,
+so soll sich doch Juda nicht schuldig machen!
+Geht nicht nach Gilgal
+und zieht nicht hinauf nach Bet-Awen
+und schwört nicht: ‚So wahr der HERR lebt!‘
+<sup>16</sup>Denn Israel ist störrisch gewesen wie eine störrische Kuh.
+Wie soll der HERR sie da weiden wie ein Lamm auf weitem Feld?
+<sup>17</sup>Ephraim hat sich mit Götzen verbunden.
+Lass ihn!
+<sup>18</sup>Ihr Trunk ist sauer geworden.
+Sie treiben ständig Hurerei.
+Ihre Herrscher lieben die Schande sehr.
+<sup>19</sup>Der Wind hat sie in seine Flügel gewickelt,
+und sie werden über ihre Opfer beschämt werden.“
+
+> **Was bedeutet das?**
+> Vers 15: Gilgal und Bet-Awen („Haus des Unheils“) waren Heiligtümer im Nordreich. „Bet-Awen“ ist ein Spottname für Bethel („Haus Gottes“). Das Haus Gottes ist zum Haus des Unheils geworden.
+> Juda (das Südreich) soll nicht dieselben Fehler machen.
+> Vers 16: Eine störrische Kuh, die nicht geführt werden will. Gott möchte sein Volk weiden wie ein Hirte seine Lämmer, aber es lässt sich nicht führen.
+> Vers 17: „Ephraim“ ist ein anderer Name für das Nordreich Israel (nach seinem größten Stamm). „Lass ihn!“ – ein trauriger Satz. Manchmal muss man Menschen ihren eigenen Weg gehen lassen.
+
+## Hosea – Kapitel 5
+#### Gott zieht sich zurück
+
+---
+
+### Ein Netz und eine Falle (Vers 1–7)
+
+<sup>1</sup>„Hört dies, ihr Priester!
+Achtet darauf, Haus Israel,
+und horcht auf, Haus des Königs!
+Denn euch gilt das Gericht.
+Denn ihr seid eine Falle gewesen in Mizpa
+und ein Netz, ausgebreitet auf dem Tabor.
+<sup>2</sup>Die Abtrünnigen stecken tief im Morden,
+aber ich züchtige sie alle.
+<sup>3</sup>Ich kenne Ephraim,
+und Israel ist mir nicht verborgen.
+Denn jetzt, Ephraim, hast du Hurerei getrieben.
+Israel ist verunreinigt.
+<sup>4</sup>Ihre Taten lassen sie nicht zu ihrem Gott umkehren,
+denn ein Geist der Hurerei ist in ihnen,
+und den HERRN kennen sie nicht.
+<sup>5</sup>Der Hochmut Israels zeugt gegen ihn ins Gesicht.
+Darum werden Israel und Ephraim in ihrer Schuld straucheln.
+Auch Juda wird mit ihnen straucheln.
+<sup>6</sup>Mit ihren Schafen und mit ihren Rindern
+werden sie gehen, um den HERRN zu suchen,
+aber sie werden ihn nicht finden.
+Er hat sich von ihnen zurückgezogen.
+<sup>7</sup>Sie sind dem HERRN untreu gewesen,
+denn sie haben fremde Kinder geboren.
+Jetzt wird der Neumond sie samt ihren Feldern fressen.
+
+> **Was bedeutet das?**
+> Vers 1: Priester, Volk und Königshaus sind alle angesprochen. Die Führer sind wie Fallen und Netze für das Volk: Statt es zu schützen, führen sie es ins Verderben. Mizpa und Tabor waren Orte mit Heiligtümern.
+> Vers 4: „Ihre Taten lassen sie nicht umkehren.“ Eine erschreckende Erkenntnis: Wer lange Unrecht tut, kommt immer schwerer davon los. Schlechte Gewohnheiten können gefangen nehmen.
+> Vers 6: Sie bringen viele Opfertiere und wollen Gott suchen, aber sie finden ihn nicht. Gott lässt sich nicht mit Opfern „kaufen“, wenn das Herz nicht dabei ist.
+> Vers 7: „Fremde Kinder“ – Kinder, die nicht mehr im Glauben an Gott erzogen werden. Eine ganze Generation ist Gott fremd geworden.
+
+---
+
+### Alarm in Benjamin (Vers 8–12)
+
+<sup>8</sup>Blast das Horn in Gibea
+und die Trompete in Rama!
+Erhebt Kriegsgeschrei in Bet-Awen:
+‚Hinter dir, Benjamin!‘
+<sup>9</sup>Ephraim wird zur Wüste werden am Tag der Strafe.
+Unter den Stämmen Israels habe ich verkündet,
+was gewiss geschehen wird.
+<sup>10</sup>Die Fürsten Judas sind wie solche, die Grenzsteine verrücken.
+Über sie werde ich meinen Zorn ausgießen wie Wasser.
+<sup>11</sup>Ephraim ist unterdrückt,
+zerschlagen im Gericht,
+weil er entschlossen war, den Götzen nachzulaufen.
+<sup>12</sup>Darum bin ich für Ephraim wie die Motte
+und für das Haus Juda wie die Fäulnis.
+
+> **Was bedeutet das?**
+> Vers 8: Alarm! Gibea, Rama und Bet-Awen liegen im Gebiet von Benjamin, an der Grenze zwischen Nord- und Südreich. Hier wird wahrscheinlich auf einen Krieg zwischen Israel und Juda angespielt (vgl. 2. Könige 16,5).
+> Vers 10: „Grenzsteine verrücken“ war ein schweres Verbrechen (5. Mose 19,14). Man stahl dabei Land von den Nachbarn. Die Fürsten Judas nutzen den Krieg, um sich Land anzueignen.
+> Vers 12: Gott vergleicht sich mit einer Motte und mit Fäulnis. Kein dramatisches Gericht, sondern ein langsames, stilles Zerfallen von innen.
+
+---
+
+### Falsche Hilfe aus Assyrien (Vers 13–15)
+
+<sup>13</sup>Als Ephraim seine Krankheit sah
+und Juda seine Wunde,
+da ging Ephraim nach Assyrien
+und sandte zum König Jareb.
+Aber der kann euch nicht heilen
+und eure Wunde nicht gesund machen.
+<sup>14</sup>Denn ich bin für Ephraim wie ein Löwe
+und für das Haus Juda wie ein junger Löwe.
+Ich, ich zerreiße und gehe davon.
+Ich trage weg, und niemand rettet.
+<sup>15</sup>Ich will gehen und an meinen Ort zurückkehren,
+bis sie ihre Schuld erkennen
+und mein Angesicht suchen.
+In ihrer Not werden sie mich eifrig suchen.“
+
+> **Was bedeutet das?**
+> Vers 13: Israel merkt, dass es „krank“ ist, also in großer Not. Aber statt zu Gott zu kommen, sucht es Hilfe beim König von Assyrien. „Jareb“ bedeutet „der Streitsüchtige“, wahrscheinlich ein Spottname für den assyrischen König. Er kann nicht heilen. Im Gegenteil: Assyrien zerstörte später das Nordreich.
+> Vers 14: Ein erschreckendes Bild: Gott wie ein Löwe. Er ist nicht harmlos.
+> Vers 15: Aber das Ziel ist nicht Vernichtung. Gott zieht sich zurück und wartet, „bis sie ihre Schuld erkennen und mein Angesicht suchen“. Gott hofft, dass sein Volk in der Not zu ihm zurückfindet.
+
+## Hosea – Kapitel 6
+#### Liebe will ich, nicht Opfer
+
+---
+
+### Kommt, lasst uns umkehren! (Vers 1–3)
+
+<sup>1</sup>„Kommt, lasst uns zum HERRN umkehren!
+Denn er hat uns zerrissen,
+und er wird uns heilen.
+Er hat uns verwundet,
+und er wird unsere Wunden verbinden.
+<sup>2</sup>Nach zwei Tagen wird er uns wieder beleben.
+Am dritten Tag wird er uns aufrichten,
+und wir werden vor ihm leben.
+<sup>3</sup>Lasst uns den HERRN erkennen!
+Lasst uns danach jagen, den HERRN zu erkennen!
+So sicher wie die Sonne aufgeht,
+wird der HERR erscheinen.
+Er wird zu uns kommen wie der Regen,
+wie der Frühlingsregen, der die Erde tränkt.“
+
+> **Was bedeutet das?**
+> Das klingt wie ein wunderschönes Umkehrlied. Das Volk sagt: „Kommt, lasst uns zu Gott zurückkehren. Er hat uns verwundet, aber er wird uns heilen.“
+> Vers 2: „Am dritten Tag wird er uns aufrichten.“ Christen haben diesen Vers oft auf die Auferstehung Jesu am dritten Tag bezogen (vgl. 1. Korinther 15,4: „auferstanden am dritten Tag nach der Schrift“). Im ursprünglichen Zusammenhang meint er: Gott wird sein Volk schnell wieder aufrichten.
+> Aber Vorsicht: Die folgenden Verse zeigen, dass Gott diesem Lied nicht ganz traut. Klingt die Umkehr vielleicht zu leicht, zu selbstverständlich? Als ob man nur ein paar fromme Worte sagen müsste, und Gott würde alles wieder gutmachen?
+
+---
+
+### Eure Liebe ist wie Morgentau (Vers 4–6)
+
+<sup>4</sup>„Was soll ich mit dir tun, Ephraim?
+Was soll ich mit dir tun, Juda?
+Denn eure Liebe ist wie eine Morgenwolke
+und wie der Tau, der früh vergeht.
+<sup>5</sup>Darum habe ich sie durch die Propheten behauen.
+Ich habe sie durch die Worte meines Mundes getötet.
+Deine Gerichte sind wie ein Blitz.
+<sup>6</sup>Denn ich habe Gefallen an Liebe, nicht am Opfer,
+und an der Erkenntnis Gottes mehr als an Brandopfern.
+
+> **Was bedeutet das?**
+> Vers 4: Gott klingt hier wie verzweifelte Eltern: „Was soll ich nur mit dir machen?“ Die Liebe des Volkes ist wie Morgentau: Am Morgen ist sie da, aber sobald die Sonne scheint, ist sie verschwunden. Sie hält nicht.
+> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Liebe (Barmherzigkeit), nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
+> Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
+> Jesus zitiert diesen Vers zweimal: als man ihm vorwirft, mit Sündern zu essen (Matthäus 9,13), und als man seine Jünger wegen des Sabbats kritisiert (Matthäus 12,7). „Geht hin und lernt, was das heißt: Barmherzigkeit will ich, nicht Opfer.“
+> Auch im Judentum ist dieser Vers sehr wichtig. Nach der Zerstörung des Tempels lehrte Rabbi Jochanan ben Sakkai mit diesem Vers: Liebestaten sühnen jetzt wie früher die Opfer.
+
+---
+
+### Sie haben den Bund gebrochen (Vers 7–11)
+
+<sup>7</sup>Sie aber haben wie Adam den Bund übertreten.
+Dort sind sie mir untreu gewesen.
+<sup>8</sup>Gilead ist eine Stadt von Übeltätern,
+voller Blutspuren.
+<sup>9</sup>Wie Räuberbanden, die einem Mann auflauern,
+so morden die Priester als Rotte auf dem Weg nach Sichem
+und begehen Schandtaten.
+<sup>10</sup>Im Haus Israel habe ich Schreckliches gesehen.
+Dort treibt Ephraim Hurerei.
+Israel ist verunreinigt.
+<sup>11</sup>Auch für dich, Juda, ist eine Ernte bestimmt,
+wenn ich das Geschick meines Volkes wende.“
+
+> **Was bedeutet das?**
+> Vers 7: „Wie Adam“ – das kann bedeuten: wie der erste Mensch im Paradies, der Gottes Gebot brach. Oder „Adam“ ist hier ein Ortsname (eine Stadt am Jordan, vgl. Josua 3,16); darauf deutet das Wort „dort“ hin. Beides ist möglich.
+> Vers 8–9: Schreckliche Zustände: Gewalt und Mord, sogar durch Priester. Die Menschen, die Gott dienen sollten, sind zu Räubern geworden.
+> Vers 11: Auch Juda wird seine „Ernte“ bekommen, also das Ergebnis seiner Taten. Aber der Vers endet mit Hoffnung: „wenn ich das Geschick meines Volkes wende“.
