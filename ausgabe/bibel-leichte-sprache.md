@@ -103271,3 +103271,489 @@ Dann werden sie erkennen, dass ich der HERR bin.‘“
 > Vers 20: Das ist etwa April 587 vor Christus. Kurz vorher hatte ein ägyptisches Heer versucht, Jerusalem zu helfen, wurde aber von den Babyloniern zurückgeschlagen (vgl. Jeremia 37,5–11). Das ist der „gebrochene Arm“ des Pharao.
 > Der „Arm“ steht in der Bibel für Kraft und Macht. Ägypten wird geschwächt, Babylon gestärkt.
 > Hier steht, dass Gott sein Schwert in die Hand des Königs von Babylon legt. Das heißt nicht, dass Babylon gut oder gerecht war. Später wird Babylon selbst gerichtet (Jesaja 47; Jeremia 50–51). Gott kann sogar fremde Herrscher in seiner Geschichte gebrauchen, aber sie bleiben selbst verantwortlich für ihr Unrecht.
+
+## Hesekiel – Kapitel 31
+#### Die gefällte Zeder
+
+---
+
+### Die prächtige Zeder (Vers 1–9)
+
+<sup>1</sup>Im elften Jahr, im dritten Monat, am ersten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, sag zum Pharao, dem König von Ägypten,
+und zu seiner Menge:
+‚Wem bist du gleich in deiner Größe?
+<sup>3</sup>Siehe, der Assyrer war eine Zeder auf dem Libanon
+mit schönen Zweigen
+und mit Schatten wie ein Wald,
+von hohem Wuchs,
+und ihr Wipfel ragte zwischen die dichten Zweige.
+<sup>4</sup>Die Wasser ließen sie groß werden.
+Die Urflut ließ sie in die Höhe wachsen.
+Ihre Ströme flossen rings um ihren Standort.
+Ihre Kanäle sandte sie zu allen Bäumen des Feldes.
+<sup>5</sup>Darum wurde ihr Wuchs höher als alle Bäume des Feldes,
+und ihre Äste wurden zahlreich.
+Ihre Zweige wurden lang wegen der vielen Wasser,
+als sie sie ausbreitete.
+<sup>6</sup>Alle Vögel des Himmels bauten ihre Nester in ihren Ästen.
+Unter ihren Zweigen brachten alle Tiere des Feldes ihre Jungen zur Welt.
+Alle großen Völker wohnten in ihrem Schatten.
+<sup>7</sup>So war sie schön in ihrer Größe,
+in der Länge ihrer Zweige,
+denn ihre Wurzel war an vielen Wassern.
+<sup>8</sup>Die Zedern im Garten Gottes konnten sie nicht verdunkeln.
+Die Zypressen waren nicht wie ihre Äste.
+Die Platanen waren nicht wie ihre Zweige.
+Kein Baum im Garten Gottes war ihr gleich an Schönheit.
+<sup>9</sup>Ich habe sie schön gemacht durch die Menge ihrer Zweige,
+sodass alle Bäume Edens, die im Garten Gottes waren,
+sie beneideten.‘
+
+> **Was bedeutet das?**
+> Hesekiel stellt dem Pharao eine Frage: „Wem bist du gleich?“ Dann erzählt er von einem gewaltigen Baum, einer Zeder, die höher ist als alle anderen. Alle Tiere und Völker finden in ihrem Schatten Schutz.
+> Vers 3: Das WEB sagt: „Der Assyrer war eine Zeder.“ Gemeint ist das Assyrische Reich, das einmal die größte Macht der Welt war und dann unterging (612 vor Christus fiel seine Hauptstadt Ninive). Manche Ausleger lesen das hebräische Wort anders, als einen Baumnamen („eine Zypresse“); dann geht es direkt um Ägypten als Baum.
+> Vers 8–9: Der Baum ist sogar schöner als die Bäume im Garten Eden. Ein Bild für die Pracht eines Weltreichs.
+> Das Bild vom großen Baum, in dem Vögel nisten, kommt auch in Daniel 4 und in Jesu Gleichnis vom Senfkorn vor (Markus 4,32).
+
+---
+
+### Der Fall der Zeder (Vers 10–14)
+
+<sup>10</sup>Darum hat der Herr, der HERR, so gesprochen:
+‚Weil er hoch gewachsen ist
+und seinen Wipfel zwischen die dichten Zweige gestreckt hat
+und sein Herz sich wegen seiner Höhe erhoben hat,
+<sup>11</sup>werde ich ihn in die Hand des Mächtigsten unter den Völkern geben.
+Der wird mit ihm verfahren.
+Ich habe ihn wegen seiner Bosheit verstoßen.
+<sup>12</sup>Fremde, die Gewalttätigsten unter den Völkern,
+haben ihn umgehauen und liegen gelassen.
+Seine Zweige sind auf die Berge und in alle Täler gefallen,
+und seine Äste liegen zerbrochen an allen Wasserläufen des Landes.
+Alle Völker der Erde sind aus seinem Schatten weggezogen
+und haben ihn verlassen.
+<sup>13</sup>Auf seinem gefallenen Stamm werden alle Vögel des Himmels wohnen,
+und alle Tiere des Feldes werden auf seinen Zweigen sein,
+<sup>14</sup>damit sich keiner von allen Bäumen am Wasser
+in seinem Wuchs erhebt
+und seinen Wipfel nicht zwischen die dichten Zweige streckt,
+und damit ihre Mächtigen sich nicht auf ihre Höhe stellen,
+alle, die Wasser trinken.
+Denn sie alle sind dem Tod übergeben,
+den Tiefen der Erde,
+mitten unter den Menschenkindern,
+bei denen, die in die Grube hinabfahren.‘
+
+> **Was bedeutet das?**
+> Vers 10: Der Fehler des Baumes: „Sein Herz hat sich erhoben.“ Wieder ist Hochmut das Problem.
+> Vers 11: Der „Mächtigste unter den Völkern“ ist Babylon.
+> Vers 14: Eine Lehre für alle Mächtigen: Niemand soll sich zu hoch erheben. Alle Menschen sind sterblich, auch die größten Könige und Reiche.
+
+---
+
+### Hinab ins Totenreich (Vers 15–18)
+
+<sup>15</sup>So spricht der Herr, der HERR:
+‚An dem Tag, als er ins Totenreich hinabfuhr,
+ließ ich Trauer halten.
+Ich bedeckte die Urflut um seinetwillen
+und hielt ihre Ströme zurück.
+Die großen Wasser wurden gestaut.
+Ich ließ den Libanon um ihn trauern,
+und alle Bäume des Feldes verschmachteten um ihn.
+<sup>16</sup>Ich ließ die Völker beben vom Lärm seines Falls,
+als ich ihn ins Totenreich hinabstieß
+mit denen, die in die Grube hinabfahren.
+Alle Bäume Edens,
+die erlesensten und besten des Libanon,
+alle, die Wasser trinken,
+wurden in den Tiefen der Erde getröstet.
+<sup>17</sup>Auch sie fuhren mit ihm ins Totenreich hinab,
+zu denen, die vom Schwert erschlagen sind,
+ja, die sein Arm waren,
+die in seinem Schatten mitten unter den Völkern wohnten.
+<sup>18</sup>Wem bist du so gleich an Herrlichkeit und Größe
+unter den Bäumen Edens?
+Doch du wirst mit den Bäumen Edens
+in die Tiefen der Erde hinabgestoßen werden.
+Du wirst mitten unter den Unbeschnittenen liegen,
+bei denen, die vom Schwert erschlagen sind.
+Das ist der Pharao und seine ganze Menge‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> „Totenreich“ (im WEB „Sheol“) ist im Alten Testament der Ort der Toten, eine dunkle Unterwelt.
+> Vers 16: Die anderen „Bäume“, also Könige und Reiche, die schon gestorben sind, werden „getröstet“, als der große Baum zu ihnen hinabkommt. Sie sehen: Auch der Größte endet wie wir.
+> Vers 18: Am Ende kommt die Pointe: „Das ist der Pharao!“ Die Antwort auf die Frage aus Vers 2. So wie Assyrien gefallen ist, so wird auch Ägypten fallen.
+
+## Hesekiel – Kapitel 32
+#### Klage über den Pharao
+
+---
+
+### Das Ungeheuer im Netz (Vers 1–10)
+
+<sup>1</sup>Im zwölften Jahr, im zwölften Monat, am ersten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, stimme ein Klagelied über den Pharao, den König von Ägypten, an
+und sag zu ihm:
+‚Du hieltest dich für einen jungen Löwen unter den Völkern,
+doch du bist wie ein Ungeheuer in den Meeren.
+Du bist hervorgebrochen mit deinen Strömen
+und hast die Wasser mit deinen Füßen aufgewühlt
+und ihre Ströme verschmutzt.‘“
+<sup>3</sup>So spricht der Herr, der HERR:
+„Ich werde mein Netz über dich ausbreiten
+mit einer Schar vieler Völker.
+Sie werden dich in meinem Netz heraufziehen.
+<sup>4</sup>Ich werde dich auf dem Land liegen lassen.
+Ich werde dich auf das freie Feld werfen
+und alle Vögel des Himmels sich auf dir niederlassen lassen.
+Ich werde die Tiere der ganzen Erde mit dir sättigen.
+<sup>5</sup>Ich werde dein Fleisch auf die Berge legen
+und die Täler mit deiner Größe füllen.
+<sup>6</sup>Ich werde auch das Land, in dem du schwimmst,
+mit deinem Blut tränken bis zu den Bergen.
+Die Wasserläufe werden von dir voll sein.
+<sup>7</sup>Wenn ich dich auslösche,
+werde ich den Himmel bedecken
+und seine Sterne verdunkeln.
+Ich werde die Sonne mit einer Wolke bedecken,
+und der Mond wird sein Licht nicht geben.
+<sup>8</sup>Alle hellen Lichter am Himmel werde ich über dir verdunkeln
+und Finsternis über dein Land bringen“,
+spricht der Herr, der HERR.
+<sup>9</sup>„Ich werde auch die Herzen vieler Völker erschrecken,
+wenn ich deinen Untergang unter die Völker bringe,
+in Länder, die du nicht gekannt hast.
+<sup>10</sup>Ja, ich werde viele Völker über dich entsetzen,
+und ihren Königen werden die Haare zu Berge stehen deinetwegen,
+wenn ich mein Schwert vor ihnen schwinge.
+Sie werden jeden Augenblick zittern,
+jeder um sein eigenes Leben,
+am Tag deines Falls.“
+
+> **Was bedeutet das?**
+> Der Pharao hält sich für einen Löwen, für einen König der Völker. Aber Gott sagt: Du bist eher wie ein Krokodil, das im Wasser herumwühlt und alles schmutzig macht.
+> Vers 3–6: Wie in Kapitel 29 wird das Ungeheuer mit einem Netz gefangen und auf das Land geworfen. Die Bilder sind drastisch: Sie zeigen das völlige Ende der Macht des Pharao.
+> Vers 7–8: Sonne, Mond und Sterne werden dunkel. In Ägypten wurde die Sonne als Gott verehrt (der Sonnengott Re). Wenn Gott die Sonne verdunkelt, zeigt er: Er ist mächtiger als die Götter Ägyptens. Ähnliche Bilder gibt es bei Jesus (Markus 13,24).
+
+---
+
+### Das Schwert des Königs von Babylon (Vers 11–16)
+
+<sup>11</sup>Denn so spricht der Herr, der HERR:
+„Das Schwert des Königs von Babylon wird über dich kommen.
+<sup>12</sup>Ich werde deine Menge fallen lassen
+durch die Schwerter der Helden.
+Sie alle sind die Gewalttätigsten unter den Völkern.
+Sie werden den Stolz Ägyptens zunichtemachen,
+und seine ganze Menge wird vernichtet werden.
+<sup>13</sup>Ich werde auch alle seine Tiere vernichten
+von den vielen Wassern weg.
+Kein Menschenfuß wird sie mehr trüben,
+und keine Hufe von Tieren werden sie trüben.
+<sup>14</sup>Dann werde ich ihre Wasser klar machen
+und ihre Ströme fließen lassen wie Öl“,
+spricht der Herr, der HERR.
+<sup>15</sup>„Wenn ich das Land Ägypten verwüste und zur Einöde mache,
+ein Land, leer von allem, wovon es voll war,
+wenn ich alle schlage, die darin wohnen,
+dann werden sie erkennen, dass ich der HERR bin.
+<sup>16</sup>Das ist das Klagelied, mit dem man klagen wird.
+Die Töchter der Völker werden damit klagen.
+Sie werden damit klagen über Ägypten
+und über seine ganze Menge“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Vers 13–14: Ein seltsam stilles Bild: Wenn keine Menschen und Tiere mehr da sind, wird das Wasser ganz klar und ruhig, „wie Öl“. Es ist die Stille nach der Katastrophe.
+> Vers 16: Klagelieder wurden oft von Frauen gesungen, die das Klagen als Beruf ausübten (vgl. Jeremia 9,16–19). Hier sollen „die Töchter der Völker“ über Ägypten klagen.
+
+---
+
+### Der Abstieg ins Totenreich (Vers 17–32)
+
+<sup>17</sup>Auch im zwölften Jahr, am fünfzehnten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>18</sup>„Menschensohn, klage über die Menge Ägyptens
+und stoße sie hinab,
+sie und die Töchter der berühmten Völker,
+in die Tiefen der Erde,
+zu denen, die in die Grube hinabfahren.
+<sup>19</sup>Wen übertriffst du an Schönheit?
+Fahr hinab
+und lass dich bei den Unbeschnittenen hinlegen.
+<sup>20</sup>Sie werden mitten unter die fallen,
+die vom Schwert erschlagen sind.
+Sie ist dem Schwert übergeben.
+Zieht sie weg mit all ihren Mengen.
+<sup>21</sup>Die Stärksten unter den Helden werden zu ihm reden,
+mitten aus dem Totenreich,
+mit denen, die ihm helfen:
+‚Sie sind hinabgefahren.
+Die Unbeschnittenen liegen still,
+vom Schwert erschlagen.‘
+<sup>22</sup>Dort ist Assur mit seiner ganzen Schar.
+Seine Gräber sind rings um es her.
+Sie alle sind erschlagen, durch das Schwert gefallen,
+<sup>23</sup>deren Gräber in den hintersten Winkeln der Grube liegen.
+Und seine Schar ist rings um sein Grab,
+sie alle erschlagen, durch das Schwert gefallen,
+die Schrecken verbreitet haben im Land der Lebenden.
+<sup>24</sup>Dort ist Elam mit seiner ganzen Menge rings um sein Grab,
+sie alle erschlagen, durch das Schwert gefallen,
+die unbeschnitten in die Tiefen der Erde hinabgefahren sind,
+die ihren Schrecken verbreitet haben im Land der Lebenden
+und ihre Schande tragen mit denen, die in die Grube hinabfahren.
+<sup>25</sup>Man hat Elam ein Lager gemacht mitten unter den Erschlagenen
+mit seiner ganzen Menge.
+Seine Gräber sind rings um es her,
+sie alle unbeschnitten, vom Schwert erschlagen,
+denn ihr Schrecken war verbreitet im Land der Lebenden,
+und sie tragen ihre Schande mit denen, die in die Grube hinabfahren.
+Es ist mitten unter die Erschlagenen gelegt.
+<sup>26</sup>Dort sind Meschech, Tubal und ihre ganze Menge.
+Ihre Gräber sind rings um sie her,
+sie alle unbeschnitten, vom Schwert erschlagen,
+denn sie haben ihren Schrecken verbreitet im Land der Lebenden.
+<sup>27</sup>Sie werden nicht bei den Helden liegen,
+die von den Unbeschnittenen gefallen sind,
+die mit ihren Kriegswaffen ins Totenreich hinabgefahren sind
+und denen man ihre Schwerter unter ihre Köpfe gelegt hat.
+Ihre Schuld liegt auf ihren Gebeinen,
+denn sie waren der Schrecken der Helden im Land der Lebenden.
+<sup>28</sup>Aber du wirst mitten unter den Unbeschnittenen zerbrochen werden
+und bei denen liegen, die vom Schwert erschlagen sind.
+<sup>29</sup>Dort ist Edom, seine Könige und alle seine Fürsten,
+die trotz ihrer Macht zu denen gelegt sind,
+die vom Schwert erschlagen sind.
+Sie werden bei den Unbeschnittenen liegen
+und bei denen, die in die Grube hinabfahren.
+<sup>30</sup>Dort sind die Fürsten des Nordens, sie alle,
+und alle Sidonier,
+die mit den Erschlagenen hinabgefahren sind.
+Sie sind zuschanden geworden
+trotz des Schreckens, den sie durch ihre Macht verbreitet haben.
+Sie liegen unbeschnitten bei denen, die vom Schwert erschlagen sind,
+und tragen ihre Schande mit denen, die in die Grube hinabfahren.
+<sup>31</sup>Der Pharao wird sie sehen
+und sich trösten über seine ganze Menge,
+der Pharao und sein ganzes Heer, vom Schwert erschlagen“,
+spricht der Herr, der HERR.
+<sup>32</sup>„Denn ich habe seinen Schrecken im Land der Lebenden verbreiten lassen.
+Er wird mitten unter die Unbeschnittenen gelegt werden,
+bei denen, die vom Schwert erschlagen sind,
+der Pharao und seine ganze Menge“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Das ist ein unheimliches Bild: Hesekiel beschreibt eine Art Rundgang durch das Totenreich. Dort liegen die großen Reiche, die einmal „Schrecken verbreitet haben im Land der Lebenden“: Assur, Elam (im heutigen Iran), Meschech und Tubal (in Kleinasien), Edom, die Fürsten des Nordens und Sidon. Jetzt liegen sie alle tot und still, jeder in seinem Grab.
+> Und nun kommt der Pharao dazu. Er wird sich „trösten“ (Vers 31), weil er sieht: Die anderen Großen sind auch hier.
+> Der wiederholte Satz „die Schrecken verbreitet haben im Land der Lebenden“ zeigt den Grund: Diese Reiche haben mit Gewalt und Terror geherrscht. Am Ende hat ihnen das nichts genützt.
+> Vers 27: Gefallene Helden wurden manchmal mit ihren Waffen begraben, als Ehre. Diesen hier wird diese Ehre verweigert.
+> Die Botschaft: Alle Gewaltherrscher und Weltreiche enden gleich, im Grab. Nur Gott bleibt (vgl. Psalm 146,3–4: „Verlasst euch nicht auf Fürsten …“).
+
+## Hesekiel – Kapitel 33
+#### Die Stadt ist gefallen
+
+---
+
+### Der Wächter (Vers 1–9)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, rede zu den Kindern deines Volkes und sag ihnen:
+‚Wenn ich das Schwert über ein Land bringe,
+und das Volk des Landes nimmt einen Mann aus seiner Mitte
+und setzt ihn als Wächter ein,
+<sup>3</sup>und wenn er das Schwert über das Land kommen sieht,
+in die Trompete bläst
+und das Volk warnt,
+<sup>4</sup>dann gilt: Wer den Klang der Trompete hört
+und die Warnung nicht beachtet,
+und das Schwert kommt und rafft ihn weg,
+dessen Blut wird auf seinem eigenen Kopf sein.
+<sup>5</sup>Er hat den Klang der Trompete gehört
+und sich nicht warnen lassen.
+Sein Blut wird auf ihm sein.
+Hätte er sich warnen lassen,
+dann hätte er sein Leben gerettet.
+<sup>6</sup>Wenn aber der Wächter das Schwert kommen sieht
+und nicht in die Trompete bläst,
+und das Volk wird nicht gewarnt,
+und das Schwert kommt und rafft einen Menschen aus ihrer Mitte weg,
+dann wird dieser in seiner Schuld weggerafft,
+aber sein Blut werde ich von der Hand des Wächters fordern.‘
+<sup>7</sup>Du nun, Menschensohn,
+ich habe dich zum Wächter für das Haus Israel gesetzt.
+Darum höre das Wort aus meinem Mund
+und warne sie in meinem Auftrag.
+<sup>8</sup>Wenn ich zum Gottlosen sage:
+‚Du Gottloser, du musst sterben!‘,
+und du redest nicht, um den Gottlosen vor seinem Weg zu warnen,
+dann wird dieser Gottlose in seiner Schuld sterben,
+aber sein Blut werde ich von deiner Hand fordern.
+<sup>9</sup>Wenn du aber den Gottlosen vor seinem Weg warnst,
+damit er davon umkehrt,
+und er kehrt nicht um von seinem Weg,
+dann wird er in seiner Schuld sterben,
+du aber hast dein Leben gerettet.
+
+> **Was bedeutet das?**
+> Hier beginnt der dritte Teil des Buches. Gott beruft Hesekiel noch einmal zum „Wächter“, wie schon in Kapitel 3,16–21.
+> Das Bild ist einfach: Ein Wächter auf der Stadtmauer soll Alarm schlagen, wenn Feinde kommen. Wenn er warnt und die Leute nicht hören, sind sie selbst schuld. Wenn er schweigt, ist er mitschuldig.
+> Die Wiederholung zeigt: Auch nach der Katastrophe bleibt Hesekiels Aufgabe dieselbe. Er soll die Menschen warnen und zur Umkehr rufen, jetzt aber mit dem Ziel, dass sie leben.
+
+---
+
+### Warum wollt ihr sterben? (Vers 10–20)
+
+<sup>10</sup>Du, Menschensohn, sag zum Haus Israel:
+‚So redet ihr:
+„Unsere Übertretungen und unsere Sünden liegen auf uns,
+und wir vergehen in ihnen.
+Wie können wir da leben?“‘
+<sup>11</sup>Sag ihnen:
+‚So wahr ich lebe‘, spricht der Herr, der HERR,
+‚ich habe keinen Gefallen am Tod des Gottlosen,
+sondern daran, dass der Gottlose umkehrt von seinem Weg und lebt.
+Kehrt um, kehrt um von euren bösen Wegen!
+Denn warum wollt ihr sterben, Haus Israel?‘
+<sup>12</sup>Du, Menschensohn, sag zu den Kindern deines Volkes:
+‚Die Gerechtigkeit des Gerechten wird ihn nicht retten
+am Tag seines Ungehorsams.
+Und was die Gottlosigkeit des Gottlosen betrifft:
+Er wird nicht dadurch fallen
+an dem Tag, an dem er umkehrt von seiner Gottlosigkeit.
+Und der Gerechte wird nicht durch seine Gerechtigkeit leben können
+an dem Tag, an dem er sündigt.
+<sup>13</sup>Wenn ich zum Gerechten sage, dass er gewiss leben soll,
+und er verlässt sich auf seine Gerechtigkeit und tut Unrecht,
+dann wird an keine seiner gerechten Taten gedacht werden,
+sondern er wird in seinem Unrecht sterben, das er getan hat.
+<sup>14</sup>Und wenn ich zum Gottlosen sage:
+„Du musst sterben!“,
+und er kehrt um von seiner Sünde
+und tut, was recht und gerecht ist,
+<sup>15</sup>wenn der Gottlose das Pfand zurückgibt,
+das Geraubte erstattet,
+in den Satzungen des Lebens geht
+und kein Unrecht tut,
+dann wird er gewiss leben.
+Er wird nicht sterben.
+<sup>16</sup>An keine seiner Sünden, die er begangen hat,
+wird man ihm gegenüber mehr denken.
+Er hat getan, was recht und gerecht ist.
+Er wird gewiss leben.
+<sup>17</sup>Doch die Kinder deines Volkes sagen:
+„Der Weg des Herrn ist nicht fair.“
+Aber ihr eigener Weg ist nicht fair.
+<sup>18</sup>Wenn der Gerechte sich abwendet von seiner Gerechtigkeit
+und Unrecht tut,
+dann wird er darin sterben.
+<sup>19</sup>Wenn der Gottlose sich abwendet von seiner Gottlosigkeit
+und tut, was recht und gerecht ist,
+dann wird er dadurch leben.
+<sup>20</sup>Doch ihr sagt:
+„Der Weg des Herrn ist nicht fair.“
+Haus Israel, ich werde jeden von euch nach seinen Wegen richten.‘“
+
+> **Was bedeutet das?**
+> Vers 10: Nach der Katastrophe sind die Menschen verzweifelt: „Unsere Schuld liegt auf uns, wir gehen daran zugrunde. Wie sollen wir da noch leben?“ Sie haben alle Hoffnung verloren.
+> Vers 11: Gottes Antwort ist einer der schönsten Sätze der Bibel: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern daran, dass er umkehrt und lebt. Kehrt um! Warum wollt ihr sterben?“ (vgl. Kapitel 18,23.32). Gott will Leben, nicht Tod.
+> Vers 12–20: Das wiederholt die Botschaft aus Kapitel 18: Jeder Mensch kann umkehren. Die Vergangenheit muss nicht über die Zukunft entscheiden.
+> Vers 15: Umkehr ist ganz praktisch: Gestohlenes zurückgeben, Unrecht wiedergutmachen (vgl. Zachäus in Lukas 19,8).
+> Wenn du dich selbst so fühlst, als würde dich deine Schuld oder deine Lage erdrücken, und du keinen Ausweg siehst: Sprich mit jemandem. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, kostenlos und rund um die Uhr.
+
+---
+
+### Die Nachricht kommt (Vers 21–22)
+
+<sup>21</sup>Im zwölften Jahr unserer Gefangenschaft,
+im zehnten Monat, am fünften Tag des Monats,
+kam einer, der aus Jerusalem entkommen war, zu mir
+und sagte:
+„Die Stadt ist geschlagen!“
+<sup>22</sup>Die Hand des HERRN war am Abend auf mir gewesen,
+bevor der Entkommene kam,
+und er hatte meinen Mund geöffnet,
+bis jener am Morgen zu mir kam.
+Und mein Mund war geöffnet,
+und ich war nicht mehr stumm.
+
+> **Was bedeutet das?**
+> Das ist der Wendepunkt im ganzen Buch! Ein Flüchtling bringt die schreckliche Nachricht: Jerusalem ist gefallen. (Die Stadt war im Sommer 586 vor Christus zerstört worden; der Bote brauchte für den langen Weg einige Monate.)
+> Genau wie Gott es in 24,25–27 angekündigt hatte, wird Hesekiels Mund jetzt geöffnet. Seine Stummheit ist vorbei. Von jetzt an spricht er vor allem Worte der Hoffnung.
+
+---
+
+### Die Übriggebliebenen im Land (Vers 23–29)
+
+<sup>23</sup>Das Wort des HERRN kam zu mir:
+<sup>24</sup>„Menschensohn, die in den Trümmern im Land Israel wohnen, reden und sagen:
+‚Abraham war ein Einzelner,
+und er hat das Land geerbt.
+Wir aber sind viele.
+Uns ist das Land zum Erbe gegeben.‘
+<sup>25</sup>Darum sag ihnen:
+‚So spricht der Herr, der HERR:
+„Ihr esst mit dem Blut,
+erhebt eure Augen zu euren Götzen
+und vergießt Blut.
+Und da wollt ihr das Land besitzen?
+<sup>26</sup>Ihr stützt euch auf euer Schwert,
+ihr verübt Gräuel,
+und jeder von euch entehrt die Frau seines Nächsten.
+Und da wollt ihr das Land besitzen?“‘
+<sup>27</sup>Sag ihnen:
+‚So spricht der Herr, der HERR:
+„So wahr ich lebe,
+gewiss, die in den Trümmern sind, werden durch das Schwert fallen.
+Wer auf dem freien Feld ist, den gebe ich den Tieren zum Fraß,
+und die in den Festungen und in den Höhlen sind,
+werden an der Pest sterben.
+<sup>28</sup>Ich werde das Land zur Wüste und zum Entsetzen machen.
+Der Stolz seiner Macht wird aufhören.
+Die Berge Israels werden verwüstet sein,
+sodass niemand hindurchzieht.
+<sup>29</sup>Dann werden sie erkennen, dass ich der HERR bin,
+wenn ich das Land zur Wüste und zum Entsetzen gemacht habe
+wegen all ihrer Gräuel, die sie begangen haben.“‘
+
+> **Was bedeutet das?**
+> Einige Menschen sind in den Trümmern Jerusalems zurückgeblieben. Sie sagen: „Abraham war allein und bekam das ganze Land. Wir sind viele, also gehört das Land erst recht uns.“
+> Gott antwortet: Ihr beruft euch auf Abraham, aber ihr lebt nicht wie Abraham. Ihr haltet euch nicht an Gottes Gebote, ihr vertraut auf Gewalt („ihr stützt euch auf euer Schwert“). Man kann sich nicht auf Gottes Verheißungen berufen und gleichzeitig Unrecht tun.
+> Vers 25: „Mit dem Blut essen“ war verboten (1. Mose 9,4; 3. Mose 17,10–14).
+
+---
+
+### Ein schönes Lied, aber niemand handelt (Vers 30–33)
+
+<sup>30</sup>Du aber, Menschensohn,
+die Kinder deines Volkes reden über dich
+an den Mauern und in den Türen der Häuser,
+und einer sagt zum anderen, jeder zu seinem Bruder:
+‚Kommt doch und hört,
+was das für ein Wort ist, das vom HERRN ausgeht!‘
+<sup>31</sup>Sie kommen zu dir, wie das Volk kommt,
+und sie sitzen vor dir als mein Volk
+und hören deine Worte,
+aber sie tun sie nicht.
+Denn mit ihrem Mund zeigen sie viel Liebe,
+aber ihr Herz läuft ihrem Gewinn nach.
+<sup>32</sup>Siehe, du bist für sie wie ein sehr schönes Lied
+von einem, der eine angenehme Stimme hat
+und gut auf einem Instrument spielen kann.
+Denn sie hören deine Worte,
+aber sie tun sie nicht.
+<sup>33</sup>Wenn es aber kommt
+– siehe, es kommt –,
+dann werden sie erkennen,
+dass ein Prophet unter ihnen gewesen ist.“
+
+> **Was bedeutet das?**
+> Jetzt, nachdem Hesekiels Vorhersagen eingetroffen sind, ist er plötzlich beliebt. Die Leute reden über ihn und kommen, um ihn zu hören.
+> Aber Gott sagt: Sie hören dich an wie einen guten Sänger mit einer schönen Stimme. Sie finden es unterhaltsam. Aber sie ändern nichts an ihrem Leben.
+> Das ist eine wichtige Warnung, auch für heute: Man kann eine Predigt schön finden, einen Gottesdienst genießen oder ein Bibelkapitel interessant finden und trotzdem nichts davon im Leben umsetzen. Jesus sagt: „Wer meine Worte hört und tut sie, der ist wie ein Mann, der sein Haus auf Fels baut“ (Matthäus 7,24). Vgl. auch Jakobus 1,22: „Seid Täter des Wortes und nicht Hörer allein.“
