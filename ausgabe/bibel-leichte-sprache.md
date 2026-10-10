@@ -114931,3 +114931,324 @@ und sein rechtes Auge soll völlig erblinden!“
 > Vers 17: Das Gericht über ihn: Sein Arm (seine Kraft) und sein Auge (seine Einsicht) werden zerstört.
 > Der Gegensatz zum guten Hirten: Jesus sagt: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11). Er sucht das Verlorene (Lukas 15,4–7).
 > Für heute: Eine Mahnung an alle, die Verantwortung für andere tragen, in Politik, Kirche, Familie oder Beruf: Gute Leitung heißt, sich um die Schwachen zu kümmern.
+
+## Sacharja – Kapitel 12
+#### Sie werden auf den sehen, den sie durchbohrt haben
+
+---
+
+### Jerusalem, ein schwerer Stein für die Völker (Vers 1–9)
+
+<sup>1</sup>Ein Ausspruch, das Wort des HERRN über Israel.
+So spricht der HERR,
+der den Himmel ausspannt
+und die Erde gründet
+und den Geist des Menschen in seinem Inneren bildet:
+<sup>2</sup>„Siehe, ich mache Jerusalem zu einem Taumelbecher
+für alle Völker ringsum.
+Und auch über Juda wird es kommen
+bei der Belagerung gegen Jerusalem.
+<sup>3</sup>An jenem Tag wird es geschehen,
+dass ich Jerusalem zu einem Laststein mache für alle Völker.
+Alle, die ihn heben wollen, werden sich schwer verletzen.
+Und alle Nationen der Erde werden sich gegen die Stadt versammeln.
+<sup>4</sup>An jenem Tag“, spricht der HERR,
+„werde ich jedes Pferd mit Schrecken schlagen
+und seinen Reiter mit Wahnsinn.
+Aber über dem Haus Juda werde ich meine Augen offen halten,
+und jedes Pferd der Völker werde ich mit Blindheit schlagen.
+<sup>5</sup>Die Stammesfürsten Judas werden in ihrem Herzen sagen:
+‚Die Bewohner Jerusalems sind meine Stärke
+durch den HERRN der Heere, ihren Gott.‘
+<sup>6</sup>An jenem Tag werde ich die Stammesfürsten Judas
+wie ein Feuerbecken unter Holz machen
+und wie eine brennende Fackel unter Garben.
+Sie werden alle Völker ringsum verzehren,
+zur Rechten und zur Linken.
+Und Jerusalem wird wieder an seinem Ort wohnen, in Jerusalem.
+<sup>7</sup>Der HERR wird zuerst die Zelte Judas retten,
+damit sich die Herrlichkeit des Hauses David
+und die Herrlichkeit der Bewohner Jerusalems
+nicht über Juda erhebt.
+<sup>8</sup>An jenem Tag wird der HERR die Bewohner Jerusalems beschützen.
+Wer unter ihnen an jenem Tag schwach ist,
+wird wie David sein,
+und das Haus David wird wie Gott sein,
+wie der Engel des HERRN vor ihnen her.
+<sup>9</sup>An jenem Tag wird es geschehen,
+dass ich danach trachte, alle Völker zu vernichten,
+die gegen Jerusalem kommen.
+
+> **Was bedeutet das?**
+> Die letzten drei Kapitel sprechen über die Endzeit, über „jenen Tag“. Dieser Ausdruck kommt in Kapitel 12–14 sehr oft vor.
+> Vers 1: Gott stellt sich vor als Schöpfer von Himmel, Erde und dem menschlichen Geist. Er hat die Macht, das Folgende zu tun.
+> Vers 2–3: Viele Völker greifen Jerusalem an. Aber die Stadt wird für sie wie ein „Taumelbecher“ (sie werden wie betrunken taumeln) und wie ein zu schwerer Stein, an dem man sich verhebt.
+> Vers 4–6: Gott kämpft für Jerusalem. Diese Bilder beschreiben Gottes Schutz für eine bedrohte Stadt. Sie sind kein Auftrag an Menschen, gegen andere Völker Krieg zu führen.
+> Vers 7: Interessant: Gott rettet zuerst die einfachen Leute auf dem Land („die Zelte Judas“), damit die Hauptstadt und das Königshaus sich nicht überheben. Bei Gott gibt es keine Bevorzugung der Mächtigen.
+> Vers 8: Selbst der Schwächste wird stark sein wie der Held David.
+
+---
+
+### Klage um den Durchbohrten (Vers 10–14)
+
+<sup>10</sup>Ich werde über das Haus David
+und über die Bewohner Jerusalems
+den Geist der Gnade und des Flehens ausgießen.
+Und sie werden auf mich sehen, den sie durchbohrt haben,
+und sie werden um ihn klagen,
+wie man um den einzigen Sohn klagt,
+und werden bitter um ihn weinen,
+wie man um den Erstgeborenen bitter weint.
+<sup>11</sup>An jenem Tag wird die Klage in Jerusalem groß sein
+wie die Klage von Hadad-Rimmon in der Ebene von Megiddo.
+<sup>12</sup>Das Land wird klagen,
+jede Sippe für sich:
+die Sippe des Hauses David für sich und ihre Frauen für sich,
+die Sippe des Hauses Nathan für sich und ihre Frauen für sich,
+<sup>13</sup>die Sippe des Hauses Levi für sich und ihre Frauen für sich,
+die Sippe der Schimeiter für sich und ihre Frauen für sich,
+<sup>14</sup>alle übrigen Sippen,
+jede Sippe für sich und ihre Frauen für sich.
+
+> **Was bedeutet das?**
+> Vers 10: Einer der geheimnisvollsten und wichtigsten Verse des Alten Testaments. Gott gießt einen „Geist der Gnade und des Flehens“ aus. Die Menschen erkennen ihre Schuld. Sie sehen auf „mich, den sie durchbohrt haben“ und klagen um ihn wie um ein einziges Kind.
+> Wer ist der Durchbohrte? Im hebräischen Text steht „auf mich“, also auf Gott selbst, und dann „um ihn“. Das ist schwer zu verstehen. Manche alte Handschriften und Übersetzungen lesen „auf den, den sie durchbohrt haben“.
+> Im Johannesevangelium wird dieser Vers zitiert, als ein Soldat Jesus am Kreuz mit einer Lanze in die Seite sticht: „Sie werden auf den sehen, den sie durchbohrt haben“ (Johannes 19,37; vgl. Offenbarung 1,7).
+> In der jüdischen Tradition wird der Vers unterschiedlich gedeutet, zum Beispiel auf einen Messias, der im Kampf fällt, oder auf einen Märtyrer.
+> Vers 11: Hadad-Rimmon ist wahrscheinlich ein Ort bei Megiddo. Vielleicht erinnert der Vers an die große Trauer um den guten König Josia, der bei Megiddo im Kampf getötet wurde (2. Chronik 35,22–25).
+> Vers 12–14: Das ganze Volk trauert, jede Familie für sich, die Männer und die Frauen getrennt, wie es bei Trauerfeiern damals üblich war. Alle sind betroffen: das Königshaus (David, Nathan) und die Priesterfamilien (Levi, Schimei).
+
+## Sacharja – Kapitel 13
+#### Eine Quelle gegen Sünde und Unreinheit
+
+---
+
+### Eine Quelle wird geöffnet (Vers 1–6)
+
+<sup>1</sup>„An jenem Tag wird eine Quelle geöffnet sein
+für das Haus David und für die Bewohner Jerusalems
+gegen Sünde und gegen Unreinheit.
+<sup>2</sup>An jenem Tag wird es geschehen“,
+spricht der HERR der Heere,
+„dass ich die Namen der Götzen aus dem Land ausrotte,
+und man wird sich nicht mehr an sie erinnern.
+Auch die Propheten und den Geist der Unreinheit
+werde ich aus dem Land entfernen.
+<sup>3</sup>Und es wird geschehen:
+Wenn jemand noch weissagt,
+dann werden sein Vater und seine Mutter, die ihn geboren haben, zu ihm sagen:
+‚Du musst sterben,
+weil du Lügen im Namen des HERRN redest.‘
+Und sein Vater und seine Mutter, die ihn geboren haben,
+werden ihn durchbohren, wenn er weissagt.
+<sup>4</sup>An jenem Tag wird es geschehen,
+dass sich die Propheten schämen,
+jeder für seine Vision, wenn er weissagt.
+Sie werden keinen haarigen Mantel mehr anziehen, um zu täuschen,
+<sup>5</sup>sondern er wird sagen:
+‚Ich bin kein Prophet,
+ich bin ein Ackerbauer,
+denn man hat mich von meiner Jugend an als Knecht gekauft.‘
+<sup>6</sup>Und man wird ihn fragen:
+‚Was sind das für Wunden zwischen deinen Armen?‘
+Dann wird er antworten:
+‚Die habe ich im Haus meiner Freunde bekommen.‘
+
+> **Was bedeutet das?**
+> Vers 1: Ein wunderbares Bild: Eine Quelle wird geöffnet, die von Sünde und Unreinheit reinwäscht. Es schließt an die Klage um den Durchbohrten an (12,10). Christen sehen darin ein Bild für die Vergebung durch Jesus. Ein bekanntes Kirchenlied (William Cowper) beginnt mit diesem Bild: „There is a fountain filled with blood“.
+> Vers 2: Gott wird alle Götzen und alle falschen Propheten aus dem Land entfernen. Hier geht es um Lügenpropheten, die im Namen Gottes Lügen erzählen (vgl. 10,2).
+> Vers 3: Ein sehr harter Vers. Er sagt mit drastischen Worten: Falsche Prophetie wird so ernst genommen werden, dass nicht einmal die eigenen Eltern sie dulden. Das greift das Gesetz in 5. Mose 13,6–10 und 18,20 auf.
+> Wichtig: Das ist eine Beschreibung einer Zukunft, in der Lüge über Gott nicht mehr geduldet wird. Es ist niemals ein Auftrag an Eltern, ihre Kinder zu verletzen oder zu töten. Gewalt in der Familie ist Unrecht. Wenn du zu Hause Gewalt erlebst: Die Nummer gegen Kummer für Kinder und Jugendliche ist erreichbar unter 116 111. Im Notfall: 110.
+> Vers 4–6: Die falschen Propheten werden sich schämen. Sie werden den „haarigen Mantel“, das Kennzeichen der Propheten wie Elia (2. Könige 1,8), nicht mehr tragen. Sie werden leugnen, jemals Propheten gewesen zu sein.
+> Die „Wunden zwischen den Armen“ (also an Brust oder Rücken) waren vielleicht Ritzwunden, wie sie sich Götzenpropheten zufügten (1. Könige 18,28). Der Mann redet sich heraus: „Das ist bei Freunden passiert.“
+> Manche Christen haben Vers 6 auf die Wunden Jesu bezogen. Im Zusammenhang geht es aber um einen falschen Propheten.
+
+---
+
+### Schlag den Hirten! (Vers 7–9)
+
+<sup>7</sup>„Schwert, erwache gegen meinen Hirten
+und gegen den Mann, der mir nahe steht“,
+spricht der HERR der Heere.
+„Schlag den Hirten,
+und die Schafe werden sich zerstreuen.
+Und ich werde meine Hand gegen die Kleinen wenden.
+<sup>8</sup>Und es wird geschehen im ganzen Land“,
+spricht der HERR,
+„zwei Teile darin werden ausgerottet werden und sterben,
+aber der dritte Teil wird darin übrig bleiben.
+<sup>9</sup>Und den dritten Teil werde ich ins Feuer bringen
+und ihn läutern, wie man Silber läutert,
+und ihn prüfen, wie man Gold prüft.
+Er wird meinen Namen anrufen,
+und ich werde ihn erhören.
+Ich werde sagen: ‚Das ist mein Volk.‘
+Und er wird sagen: ‚Der HERR ist mein Gott.‘“
+
+> **Was bedeutet das?**
+> Vers 7: Gott ruft das Schwert gegen „meinen Hirten“, den „Mann, der mir nahe steht“. Dieser Hirte ist offenbar ein guter Hirte, der Gott sehr nahe ist. Wenn er geschlagen wird, zerstreuen sich die Schafe.
+> Jesus zitiert diesen Vers in der Nacht vor seinem Tod: „Ihr werdet alle Anstoß nehmen, denn es steht geschrieben: Ich werde den Hirten schlagen, und die Schafe werden sich zerstreuen“ (Markus 14,27; Matthäus 26,31). Kurz danach fliehen alle Jünger.
+> Vers 8–9: Eine schwere Zeit der Prüfung. Nur ein Drittel bleibt übrig. Die Zahlen sind ein Bild, keine genaue Rechnung.
+> Aber das Ziel ist nicht Vernichtung, sondern Läuterung: Wie Silber im Feuer von Schlacke gereinigt wird, so wird Gott sein Volk reinigen.
+> Am Ende steht wieder die Bundesformel: „Das ist mein Volk.“ „Der HERR ist mein Gott.“ Gott und sein Volk gehören wieder ganz zusammen.
+
+## Sacharja – Kapitel 14
+#### Der HERR wird König sein über die ganze Erde
+
+---
+
+### Der Tag des HERRN kommt (Vers 1–5)
+
+<sup>1</sup>Siehe, ein Tag des HERRN kommt,
+an dem deine Beute in deiner Mitte verteilt wird.
+<sup>2</sup>Denn ich werde alle Völker gegen Jerusalem zum Kampf versammeln.
+Die Stadt wird eingenommen,
+die Häuser werden geplündert
+und die Frauen vergewaltigt.
+Die Hälfte der Stadt wird in die Gefangenschaft gehen,
+aber der Rest des Volkes wird nicht aus der Stadt ausgerottet werden.
+<sup>3</sup>Dann wird der HERR ausziehen
+und gegen diese Völker kämpfen,
+wie er kämpft am Tag der Schlacht.
+<sup>4</sup>Seine Füße werden an jenem Tag auf dem Ölberg stehen,
+der östlich vor Jerusalem liegt.
+Und der Ölberg wird sich in der Mitte spalten,
+von Osten nach Westen,
+sodass ein sehr großes Tal entsteht.
+Die eine Hälfte des Berges wird nach Norden weichen
+und die andere Hälfte nach Süden.
+<sup>5</sup>Ihr werdet durch das Tal meiner Berge fliehen,
+denn das Tal der Berge wird bis nach Azel reichen.
+Ja, ihr werdet fliehen,
+so wie ihr vor dem Erdbeben geflohen seid
+in den Tagen Usijas, des Königs von Juda.
+Und der HERR, mein Gott, wird kommen,
+und alle Heiligen mit dir.
+
+> **Was bedeutet das?**
+> Das letzte Kapitel beschreibt den großen „Tag des HERRN“, das Ende der Geschichte.
+> Vers 2: Zuerst geschieht Schreckliches: Jerusalem wird erobert, geplündert, und Frauen werden vergewaltigt. Die Bibel verschweigt nicht, was im Krieg geschieht, besonders was Frauen angetan wird. Das ist schweres Unrecht, und die Schuld liegt allein bei den Tätern. Wer sexuelle Gewalt erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530.
+> Vers 3: Aber dann greift Gott selbst ein und kämpft gegen die Angreifer.
+> Vers 4: Gott steht auf dem Ölberg, östlich von Jerusalem. Der Berg spaltet sich, und ein großes Tal entsteht, ein Fluchtweg für die Bewohner.
+> Der Ölberg spielt auch im Neuen Testament eine wichtige Rolle: Dort betete Jesus in der Nacht vor seinem Tod (im Garten Gethsemane am Fuß des Berges), und von dort fuhr er in den Himmel auf (Apostelgeschichte 1,9–12). Die Engel sagen dort: „Er wird so wiederkommen.“
+> Vers 5: Das Erdbeben zur Zeit König Usijas war so stark, dass man sich noch Jahrhunderte später daran erinnerte (vgl. Amos 1,1). Wo Azel lag, wissen wir nicht.
+> „Alle Heiligen“ sind wahrscheinlich die Engel, die mit Gott kommen.
+
+---
+
+### Lebendiges Wasser und ein einziger Gott (Vers 6–11)
+
+<sup>6</sup>An jenem Tag wird es geschehen,
+dass es kein Licht geben wird,
+keine Kälte und keinen Frost.
+<sup>7</sup>Es wird ein einzigartiger Tag sein,
+der dem HERRN bekannt ist,
+weder Tag noch Nacht.
+Aber es wird geschehen:
+Zur Abendzeit wird es Licht sein.
+<sup>8</sup>An jenem Tag wird es geschehen,
+dass lebendiges Wasser aus Jerusalem herausfließt,
+die Hälfte davon zum östlichen Meer
+und die Hälfte davon zum westlichen Meer.
+So wird es im Sommer und im Winter sein.
+<sup>9</sup>Und der HERR wird König sein über die ganze Erde.
+An jenem Tag wird der HERR einer sein
+und sein Name einer.
+<sup>10</sup>Das ganze Land wird verwandelt werden wie die Araba,
+von Geba bis Rimmon, südlich von Jerusalem.
+Und Jerusalem wird erhöht sein und an seinem Ort wohnen,
+vom Tor Benjamins bis zur Stelle des ersten Tores,
+bis zum Ecktor,
+und vom Turm Hananel bis zu den Keltern des Königs.
+<sup>11</sup>Menschen werden darin wohnen,
+und es wird keinen Bann mehr geben,
+sondern Jerusalem wird sicher wohnen.
+
+> **Was bedeutet das?**
+> Vers 6–7: Ein ganz neuer Tag, anders als alle Tage zuvor. Es gibt nicht mehr den Wechsel von Tag und Nacht. „Zur Abendzeit wird es Licht sein“: Wenn man erwartet, dass es dunkel wird, wird es hell. In der Offenbarung heißt es über das neue Jerusalem: „Es wird keine Nacht mehr geben“ (Offenbarung 22,5).
+> Vers 8: Aus Jerusalem fließt lebendiges, frisches Wasser, nach Osten zum Toten Meer und nach Westen zum Mittelmeer, das ganze Jahr über. Das erinnert an Hesekiels Tempelquelle (Hesekiel 47) und an den Strom des Lebens in Offenbarung 22,1. Jesus spricht vom „lebendigen Wasser“, das er gibt (Johannes 4,10–14; 7,37–38).
+> Vers 9: Der Höhepunkt des Buches: „Der HERR wird König sein über die ganze Erde. An jenem Tag wird der HERR einer sein und sein Name einer.“ Das erinnert an das jüdische Grundbekenntnis, das „Höre Israel“: „Der HERR, unser Gott, der HERR ist einer“ (5. Mose 6,4). Am Ende werden alle Menschen den einen Gott erkennen. Im jüdischen Gebet „Alenu“ wird dieser Vers bis heute täglich gebetet.
+> Vers 10–11: Das Land wird eben, nur Jerusalem ist erhöht. Die Stadt wird in ihren alten Grenzen wieder bewohnt. Und es gibt „keinen Bann mehr“, keinen Fluch und keine Zerstörung mehr. Jerusalem wird endlich sicher wohnen.
+
+---
+
+### Das Ende der Angreifer (Vers 12–15)
+
+<sup>12</sup>Und dies wird die Plage sein,
+mit der der HERR alle Völker schlagen wird,
+die gegen Jerusalem gekämpft haben:
+Ihr Fleisch wird verwesen, während sie noch auf ihren Füßen stehen,
+und ihre Augen werden in ihren Höhlen verwesen,
+und ihre Zunge wird in ihrem Mund verwesen.
+<sup>13</sup>An jenem Tag wird es geschehen,
+dass eine große Verwirrung vom HERRN unter ihnen sein wird.
+Sie werden einer die Hand des anderen packen,
+und die Hand des einen wird sich gegen die Hand des anderen erheben.
+<sup>14</sup>Auch Juda wird in Jerusalem kämpfen.
+Und der Reichtum aller Völker ringsum wird gesammelt werden:
+Gold, Silber und Kleider in großer Menge.
+<sup>15</sup>Und so wird auch die Plage sein
+über die Pferde, die Maultiere, die Kamele, die Esel
+und über alle Tiere, die in jenen Lagern sein werden.
+
+> **Was bedeutet das?**
+> Diese Verse sind schwer zu lesen. Sie beschreiben in drastischen Bildern Gottes Gericht über die Völker, die Jerusalem angegriffen und die Gräuel aus Vers 2 begangen haben.
+> Vers 13: Die Angreifer geraten in Verwirrung und kämpfen gegeneinander, wie es schon in früheren Geschichten der Bibel heißt (Richter 7,22; 2. Chronik 20,23).
+> Vers 14: Die Schätze, die die Völker geraubt haben, kommen zurück.
+> Wichtig: Es ist Gott, der hier richtet. Kein Mensch hat das Recht, mit solchen Bildern Gewalt gegen andere zu begründen. Und das Kapitel geht nicht mit Vernichtung zu Ende, sondern mit einer Einladung an die Völker. Die kommt jetzt.
+
+---
+
+### Alle Völker feiern das Laubhüttenfest (Vers 16–21)
+
+<sup>16</sup>Und es wird geschehen,
+dass alle Übriggebliebenen von allen Völkern,
+die gegen Jerusalem gekommen sind,
+Jahr für Jahr hinaufziehen werden,
+um den König, den HERRN der Heere, anzubeten
+und das Laubhüttenfest zu feiern.
+<sup>17</sup>Und es wird geschehen:
+Wer von den Sippen der Erde nicht nach Jerusalem hinaufzieht,
+um den König, den HERRN der Heere, anzubeten,
+über die wird kein Regen kommen.
+<sup>18</sup>Und wenn die Sippe Ägyptens nicht hinaufzieht und nicht kommt,
+dann wird auch auf sie kein Regen fallen.
+Das wird die Plage sein,
+mit der der HERR die Völker schlagen wird,
+die nicht hinaufziehen, um das Laubhüttenfest zu feiern.
+<sup>19</sup>Das wird die Strafe Ägyptens sein
+und die Strafe aller Völker,
+die nicht hinaufziehen, um das Laubhüttenfest zu feiern.
+<sup>20</sup>An jenem Tag wird auf den Glöckchen der Pferde stehen:
+„HEILIG DEM HERRN“.
+Und die Töpfe im Haus des HERRN
+werden wie die Schalen vor dem Altar sein.
+<sup>21</sup>Ja, jeder Topf in Jerusalem und in Juda
+wird dem HERRN der Heere heilig sein.
+Und alle, die opfern, werden kommen und davon nehmen und darin kochen.
+An jenem Tag wird kein Kanaaniter mehr im Haus des HERRN der Heere sein.
+
+> **Was bedeutet das?**
+> Vers 16: Eine erstaunliche Wende: Die Völker, die gegen Jerusalem gekämpft haben, werden jetzt jedes Jahr nach Jerusalem kommen, um Gott anzubeten. Aus Feinden werden Mitfeiernde.
+> Das Laubhüttenfest erinnerte an die Wüstenwanderung, als Gott sein Volk in Zelten versorgte, und es war ein Erntedankfest. Jetzt feiern alle Völker gemeinsam, dass Gott für sie sorgt.
+> Vers 17–19: Wer nicht kommt, bekommt keinen Regen. Das ist folgerichtig: Wer den Gott ablehnt, der den Regen schenkt, schneidet sich von der Quelle des Lebens ab. Ägypten wird besonders genannt, weil es vom Nil lebte und nicht vom Regen abhängig war. Auch dort wird es Folgen haben.
+> Vers 20–21: Am Ende ist alles heilig. Die Worte „HEILIG DEM HERRN“ standen sonst nur auf dem Stirnblatt des Hohenpriesters (2. Mose 28,36). Jetzt stehen sie sogar auf den Glöckchen der Pferde! Und jeder Kochtopf ist so heilig wie die Gefäße im Tempel. Es gibt keinen Unterschied mehr zwischen heilig und alltäglich. Das ganze Leben gehört Gott.
+> „Kein Kanaaniter mehr“: Das hebräische Wort kann auch „Händler“ bedeuten. Dann heißt es: Im Tempel werden keine Geschäfte mehr gemacht. Jesus vertrieb die Händler aus dem Tempel (Johannes 2,16).
+
+---
+
+### Rückblick: Was haben wir im Buch Sacharja gelesen?
+
+> **Was bedeutet das?**
+> **Kehrt um zu mir:** „Kehrt um zu mir, dann kehre ich mich zu euch um“ (1,3).
+> **Acht Nachtgesichte:** Reiter, Hörner, die Messschnur, Josua in neuen Kleidern, der goldene Leuchter, die fliegende Schriftrolle, das Fass und die vier Wagen. Alle zeigen: Gott ist wieder bei seinem Volk, vergibt Schuld und baut Jerusalem neu auf.
+> **Durch meinen Geist:** „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist“ (4,6). „Wer verachtet den Tag der kleinen Dinge?“ (4,10).
+> **Was Gott will:** „Unterdrückt nicht die Witwe und die Waise, den Fremden und den Armen“ (7,10).
+> **Frieden in der Stadt:** Alte Menschen auf den Plätzen, Kinder spielen auf den Straßen (8,4–5).
+> **Der König auf dem Esel:** „Siehe, dein König kommt zu dir … demütig und reitet auf einem Esel“ (9,9).
+> **Der gute Hirte:** Er wird abgelehnt und für dreißig Silberstücke abgespeist (11,12–13). „Schlag den Hirten, und die Schafe werden sich zerstreuen“ (13,7).
+> **Der Durchbohrte:** „Sie werden auf mich sehen, den sie durchbohrt haben“ (12,10).
+> **Gott ist König über alle:** „Der HERR wird König sein über die ganze Erde. An jenem Tag wird der HERR einer sein und sein Name einer“ (14,9).
+> **Sacharja und Jesus:** Kein Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja.
+> **Für heute:** Gott fängt mit kleinen Anfängen an, wirkt durch seinen Geist und hat ein großes Ziel: dass alle Menschen ihn erkennen und in Frieden leben.
+> **Wie geht es weiter?** Als Nächstes kommt Maleachi, das letzte Buch des Alten Testaments. Es endet mit der Ankündigung, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt.
