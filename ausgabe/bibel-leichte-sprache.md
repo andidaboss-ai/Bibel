@@ -99549,3 +99549,361 @@ Dann werden sie erkennen, dass ich der HERR bin.‘“
 > Vers 13: „Unter jedem grünen Baum“: Unter schattigen Bäumen auf Hügeln wurden oft fremde Götter verehrt (vgl. 5. Mose 12,2; Jeremia 2,20).
 > Vers 14: „Dibla“ ist ein unbekannter Ort. Viele Forscher vermuten, dass „Ribla“ gemeint ist, eine Stadt ganz im Norden. Die hebräischen Buchstaben für d und r sehen sehr ähnlich aus. Dann würde gemeint sein: von der Wüste im Süden bis Ribla im Norden, also das ganze Land.
 > Diese Kapitel sind schwer zu lesen. Sie zeigen die Katastrophe, die über Jerusalem kam. Wenn dich Bilder von Krieg und Gewalt belasten, kannst du mit jemandem darüber reden, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr).
+
+## Hesekiel – Kapitel 7
+#### Das Ende kommt
+
+---
+
+### Ein Ende! Das Ende kommt! (Vers 1–9)
+
+<sup>1</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>2</sup>„Du, Menschensohn, so spricht der Herr, der HERR, zum Land Israel:
+‚Ein Ende!
+Das Ende kommt über die vier Ecken des Landes.
+<sup>3</sup>Jetzt ist das Ende über dir,
+und ich sende meinen Zorn gegen dich
+und richte dich nach deinen Wegen.
+Ich bringe alle deine Gräuel über dich.
+<sup>4</sup>Mein Auge wird dich nicht schonen,
+und ich werde kein Mitleid haben,
+sondern ich bringe deine Wege über dich,
+und deine Gräuel werden mitten unter dir sein.
+Dann werdet ihr erkennen, dass ich der HERR bin.‘
+<sup>5</sup>So spricht der Herr, der HERR:
+‚Ein Unheil! Ein einzigartiges Unheil!
+Siehe, es kommt.
+<sup>6</sup>Ein Ende kommt.
+Das Ende kommt!
+Es erwacht gegen dich.
+Siehe, es kommt.
+<sup>7</sup>Dein Verhängnis ist über dich gekommen, du Bewohner des Landes!
+Die Zeit ist gekommen!
+Der Tag ist nahe,
+ein Tag des Getümmels und nicht des Jubelrufens auf den Bergen.
+<sup>8</sup>Jetzt werde ich bald meinen Grimm über dich ausgießen
+und meinen Zorn an dir vollenden
+und dich nach deinen Wegen richten.
+Ich bringe alle deine Gräuel über dich.
+<sup>9</sup>Mein Auge wird nicht schonen,
+und ich werde kein Mitleid haben.
+Ich werde dich nach deinen Wegen bestrafen.
+Deine Gräuel werden mitten unter dir sein.
+Dann werdet ihr erkennen, dass ich, der HERR, es bin, der schlägt.
+
+> **Was bedeutet das?**
+> Dieses Kapitel klingt wie Alarmglocken: „Ein Ende! Das Ende kommt!“ Die Worte werden immer wieder wiederholt, kurz und hart. Die Menschen sollen aufwachen.
+> Die „vier Ecken des Landes“ meinen: das ganze Land, von einem Ende zum anderen.
+> Vers 3–4: „Ich richte dich nach deinen Wegen.“ Gott bringt das Böse, das die Menschen getan haben, auf sie selbst zurück. Unrecht hat Folgen.
+> Vgl. auch Amos 8,2: „Das Ende ist gekommen über mein Volk Israel.“
+
+---
+
+### Der Tag ist da (Vers 10–13)
+
+<sup>10</sup>Siehe, der Tag!
+Siehe, er kommt!
+Dein Verhängnis ist hervorgegangen.
+Die Rute hat geblüht.
+Der Hochmut hat Knospen getrieben.
+<sup>11</sup>Die Gewalt hat sich zu einer Rute der Gottlosigkeit erhoben.
+Nichts von ihnen wird bleiben,
+nichts von ihrer Menge,
+nichts von ihrem Reichtum.
+Es wird nichts Wertvolles unter ihnen sein.
+<sup>12</sup>Die Zeit ist gekommen!
+Der Tag naht.
+Der Käufer soll sich nicht freuen,
+und der Verkäufer soll nicht trauern,
+denn der Zorn ist über ihrer ganzen Menge.
+<sup>13</sup>Denn der Verkäufer wird nicht zu dem zurückkehren, was verkauft ist,
+auch wenn sie noch am Leben sind,
+denn die Vision betrifft ihre ganze Menge.
+Keiner wird zurückkehren.
+Keiner wird sich in der Schuld seines Lebens stark machen.
+
+> **Was bedeutet das?**
+> Vers 10–11: Die „Rute“ hat geblüht. Das Bild bedeutet: Das Böse ist gewachsen wie eine Pflanze und hat Blüten getrieben: Hochmut und Gewalt. Jetzt wird es selbst zum Stock, der schlägt.
+> Vers 12–13: Normalerweise freut sich ein Käufer über einen guten Kauf, und ein Verkäufer ist traurig, wenn er sein Land verkaufen muss. Nach dem Gesetz konnte verkauftes Land im Erlassjahr zurückkommen (3. Mose 25). Aber jetzt ist das egal: Alle werden das Land verlieren. Geschäfte und Besitz verlieren ihren Wert, wenn die Katastrophe kommt.
+
+---
+
+### Niemand zieht in den Kampf (Vers 14–22)
+
+<sup>14</sup>Sie haben in die Trompete geblasen
+und alles bereit gemacht,
+aber niemand zieht in den Kampf,
+denn mein Zorn ist über ihrer ganzen Menge.
+<sup>15</sup>Draußen ist das Schwert,
+und drinnen sind Pest und Hunger.
+Wer auf dem Feld ist, wird durch das Schwert sterben.
+Wer in der Stadt ist, den werden Hunger und Pest verzehren.
+<sup>16</sup>Die aber von ihnen entkommen,
+die werden entkommen
+und auf den Bergen sein wie Tauben der Täler,
+sie alle klagend,
+jeder in seiner Schuld.
+<sup>17</sup>Alle Hände werden schlaff sein,
+und alle Knie werden schwach wie Wasser.
+<sup>18</sup>Sie werden sich auch in Sacktuch kleiden,
+und Schauder wird sie bedecken.
+Scham wird auf allen Gesichtern sein
+und Kahlheit auf allen ihren Köpfen.
+<sup>19</sup>Sie werden ihr Silber auf die Straßen werfen,
+und ihr Gold wird wie etwas Unreines sein.
+Ihr Silber und ihr Gold werden sie nicht retten können
+am Tag des Zorns des HERRN.
+Sie werden ihre Seele nicht sättigen
+und ihren Bauch nicht füllen,
+denn es ist ihnen zum Anstoß ihrer Schuld geworden.
+<sup>20</sup>Seinen schönen Schmuck hatte er in Herrlichkeit gesetzt,
+aber sie haben die Bilder ihrer Gräuel
+und ihrer Scheusale darin gemacht.
+Darum habe ich ihn für sie zu etwas Unreinem gemacht.
+<sup>21</sup>Ich werde ihn in die Hände der Fremden geben als Beute
+und den Gottlosen der Erde als Raub,
+und sie werden ihn entweihen.
+<sup>22</sup>Ich werde auch mein Gesicht von ihnen abwenden,
+und sie werden meinen verborgenen Ort entweihen.
+Räuber werden hineingehen und ihn entweihen.
+
+> **Was bedeutet das?**
+> Vers 14: Die Trompete ruft zum Kampf, aber niemand geht. Die Menschen haben keinen Mut mehr.
+> Vers 16: Die Flüchtlinge gurren auf den Bergen wie Tauben. Das Gurren der Tauben klang für die Menschen damals wie Klagen.
+> Vers 19: Die Menschen werfen ihr Geld weg. Silber und Gold können sie nicht retten, und man kann sie nicht essen. Reichtum war ihnen wichtiger als Gott, und jetzt ist er nichts mehr wert. (Vgl. Zefanja 1,18.)
+> Vers 20–22: Der „schöne Schmuck“ ist wahrscheinlich der Tempel oder das Gold und Silber, aus dem Götzenbilder gemacht wurden. Gottes „verborgener Ort“ ist wahrscheinlich das Allerheiligste im Tempel. Fremde werden ihn betreten und entweihen. Das geschah 586 vor Christus, als die Babylonier den Tempel zerstörten.
+
+---
+
+### Sie werden Frieden suchen (Vers 23–27)
+
+<sup>23</sup>Mach Ketten,
+denn das Land ist voll von Bluttaten,
+und die Stadt ist voll von Gewalt.
+<sup>24</sup>Darum werde ich die schlimmsten der Völker bringen,
+und sie werden ihre Häuser in Besitz nehmen.
+Ich werde auch den Stolz der Starken beenden.
+Ihre heiligen Stätten werden entweiht werden.
+<sup>25</sup>Verderben kommt!
+Sie werden Frieden suchen,
+aber es wird keinen geben.
+<sup>26</sup>Unglück wird auf Unglück kommen,
+und Gerücht wird auf Gerücht folgen.
+Sie werden beim Propheten eine Vision suchen,
+aber dem Priester wird die Weisung verloren gehen
+und den Ältesten der Rat.
+<sup>27</sup>Der König wird trauern,
+und der Fürst wird in Entsetzen gekleidet sein.
+Die Hände des Volkes im Land werden zittern.
+Ich werde mit ihnen nach ihrem Weg verfahren,
+und nach ihren eigenen Rechtssprüchen werde ich sie richten.
+Dann werden sie erkennen, dass ich der HERR bin.‘“
+
+> **Was bedeutet das?**
+> Vers 23: „Mach Ketten“ – die Menschen werden gefesselt in die Gefangenschaft geführt. Der Grund wird klar genannt: Gewalt und Bluttaten im Land.
+> Vers 26: In der Krise suchen die Menschen Rat bei Propheten, Priestern und Ältesten. Aber niemand weiß mehr weiter. Alle Führer sind ratlos.
+> Vers 27: „Nach ihren eigenen Rechtssprüchen werde ich sie richten.“ Gott misst sie mit dem Maß, mit dem sie andere gemessen haben. Jesus sagt etwas Ähnliches: „Mit dem Maß, mit dem ihr messt, wird euch gemessen werden“ (Matthäus 7,2).
+
+## Hesekiel – Kapitel 8
+#### Gräuel im Tempel
+
+---
+
+### Hesekiel wird nach Jerusalem gebracht (Vers 1–6)
+
+<sup>1</sup>Im sechsten Jahr, im sechsten Monat, am fünften Tag des Monats,
+als ich in meinem Haus saß
+und die Ältesten von Juda vor mir saßen,
+fiel dort die Hand des Herrn, des HERRN, auf mich.
+<sup>2</sup>Da sah ich, und siehe, eine Gestalt, die aussah wie Feuer:
+Von dem, was wie seine Hüften aussah, abwärts war Feuer,
+und von seinen Hüften aufwärts war es wie ein heller Glanz,
+wie glühendes Metall.
+<sup>3</sup>Er streckte etwas aus, das wie eine Hand aussah,
+und packte mich an einer Locke meines Kopfes.
+Und der Geist hob mich empor zwischen Erde und Himmel
+und brachte mich in Visionen Gottes nach Jerusalem,
+an den Eingang des Tores des inneren Vorhofs, das nach Norden schaut,
+wo der Standort des Bildes der Eifersucht war,
+das zur Eifersucht reizt.
+<sup>4</sup>Und siehe, die Herrlichkeit des Gottes Israels war dort,
+so wie ich sie in der Ebene gesehen hatte.
+<sup>5</sup>Da sagte er zu mir:
+„Menschensohn, hebe jetzt deine Augen auf in Richtung Norden.“
+Da hob ich meine Augen auf in Richtung Norden
+und sah nördlich vom Altartor
+dieses Bild der Eifersucht am Eingang.
+<sup>6</sup>Er sagte zu mir:
+„Menschensohn, siehst du, was sie tun?
+Die großen Gräuel, die das Haus Israel hier begeht,
+sodass ich mich weit von meinem Heiligtum entfernen muss?
+Aber du wirst noch andere große Gräuel sehen.“
+
+> **Was bedeutet das?**
+> Vers 1: Das ist im Jahr 592 vor Christus, gut ein Jahr nach Hesekiels Berufung. Die Ältesten der Verbannten sitzen bei ihm, vielleicht um Rat zu suchen.
+> Vers 3: In einer Vision wird Hesekiel nach Jerusalem gebracht. Sein Körper bleibt in Babylon, aber im Geist sieht er, was im Tempel geschieht.
+> Das „Bild der Eifersucht“ ist ein Götzenbild direkt am Tempel. Es reizt Gott zur Eifersucht. Gott will nicht, dass sein Volk anderen Göttern dient, so wie ein liebender Partner keine Untreue will (vgl. 2. Mose 20,5).
+> Vers 6: Wegen dieser Gräuel muss Gott sich von seinem Heiligtum entfernen. Das ist die große Botschaft der Kapitel 8–11: Gottes Herrlichkeit verlässt den Tempel.
+
+---
+
+### Heimliche Götzen im Dunkeln (Vers 7–13)
+
+<sup>7</sup>Er brachte mich an den Eingang des Vorhofs.
+Als ich hinsah, siehe, da war ein Loch in der Wand.
+<sup>8</sup>Da sagte er zu mir:
+„Menschensohn, grabe jetzt in die Wand.“
+Als ich in die Wand gegraben hatte,
+sah ich eine Tür.
+<sup>9</sup>Er sagte zu mir:
+„Geh hinein und sieh die bösen Gräuel, die sie hier tun.“
+<sup>10</sup>Da ging ich hinein und sah,
+und da waren alle möglichen Bilder von Kriechtieren
+und abscheulichen Tieren
+und alle Götzen des Hauses Israel
+ringsum an die Wand gezeichnet.
+<sup>11</sup>Siebzig Männer von den Ältesten des Hauses Israel standen davor.
+Mitten unter ihnen stand Jaasanja, der Sohn Schafans.
+Jeder hatte sein Räucherfass in der Hand,
+und der Duft der Weihrauchwolke stieg empor.
+<sup>12</sup>Da sagte er zu mir:
+„Menschensohn, hast du gesehen, was die Ältesten des Hauses Israel im Dunkeln tun,
+jeder in seinen Bilderkammern?
+Denn sie sagen:
+‚Der HERR sieht uns nicht.
+Der HERR hat das Land verlassen.‘“
+<sup>13</sup>Er sagte auch zu mir:
+„Du wirst noch mehr große Gräuel sehen, die sie tun.“
+
+> **Was bedeutet das?**
+> Hinter einer Wand, im Verborgenen, beten 70 Älteste Tierbilder und Götzen an. Diese Männer sollten das Volk eigentlich leiten.
+> Vers 11: Jaasanja ist ein Sohn Schafans. Ob dieser Schafan derselbe ist wie der Schreiber unter König Josia, dessen Familie Jeremia half, ist unsicher. Wenn ja, wäre das besonders traurig: ein Sohn aus einer treuen Familie unter den Götzendienern.
+> Vers 12: „Der HERR sieht uns nicht.“ Das ist die Ausrede vieler Menschen, die heimlich Unrecht tun. Aber die Vision zeigt: Gott sieht alles, auch was im Dunkeln geschieht (vgl. Psalm 139,11–12).
+
+---
+
+### Frauen weinen um Tammus (Vers 14–15)
+
+<sup>14</sup>Dann brachte er mich an den Eingang des Tores am Haus des HERRN,
+das nach Norden lag.
+Und ich sah, dort saßen die Frauen
+und weinten um Tammus.
+<sup>15</sup>Da sagte er zu mir:
+„Hast du das gesehen, Menschensohn?
+Du wirst noch größere Gräuel sehen als diese.“
+
+> **Was bedeutet das?**
+> Tammus war ein Gott aus Mesopotamien. Nach dem Mythos starb er und kam in die Unterwelt. Jedes Jahr gab es Rituale, bei denen man um ihn weinte. Man verband ihn mit dem Wachsen und Vergehen der Pflanzen.
+> Mitten am Tempel des HERRN wird ein fremder Gott beweint. Kritisiert wird hier der fremde Kult, nicht die Frauen als Frauen. In Kapitel 8 werden genauso Männer kritisiert (die 70 Ältesten und die 25 Männer).
+> Übrigens: Ein Monat im jüdischen Kalender heißt bis heute „Tammus“.
+
+---
+
+### Anbetung der Sonne (Vers 16–18)
+
+<sup>16</sup>Er brachte mich in den inneren Vorhof des Hauses des HERRN.
+Und siehe, am Eingang des Tempels des HERRN,
+zwischen der Vorhalle und dem Altar,
+waren etwa fünfundzwanzig Männer,
+mit dem Rücken zum Tempel des HERRN
+und mit dem Gesicht nach Osten.
+Sie beteten die Sonne an, nach Osten hin.
+<sup>17</sup>Da sagte er zu mir:
+„Hast du das gesehen, Menschensohn?
+Ist es dem Haus Juda zu wenig,
+die Gräuel zu begehen, die sie hier begehen?
+Denn sie haben das Land mit Gewalt gefüllt
+und reizen mich immer wieder zum Zorn.
+Siehe, sie halten den Zweig an ihre Nase.
+<sup>18</sup>Darum werde auch ich mit Grimm handeln.
+Mein Auge wird nicht schonen,
+und ich werde kein Mitleid haben.
+Auch wenn sie mit lauter Stimme in meine Ohren schreien,
+werde ich sie doch nicht hören.“
+
+> **Was bedeutet das?**
+> Vers 16: Der schlimmste Gräuel kommt zum Schluss: Mitten im innersten Vorhof, direkt vor dem Tempel, drehen 25 Männer Gott den Rücken zu und beten die Sonne an. Das ist ein starkes Bild: Sie kehren Gott wörtlich den Rücken.
+> Vers 17: Götzendienst und Gewalt gehören zusammen: „Sie haben das Land mit Gewalt gefüllt.“ Wer Gott verlässt, verliert oft auch die Achtung vor den Mitmenschen.
+> „Den Zweig an die Nase halten“ war wahrscheinlich ein Ritual der fremden Religion. Was es genau bedeutet, weiß man heute nicht mehr sicher.
+> Vers 18: Gott wird nicht mehr hören. Das ist erschreckend. Es zeigt: Es gibt einen Punkt, an dem es zu spät ist. Aber das Buch Hesekiel endet nicht mit dem Gericht, sondern mit einem neuen Anfang (Kapitel 36–48).
+
+## Hesekiel – Kapitel 9
+#### Das Zeichen auf der Stirn
+
+---
+
+### Ein Zeichen für die, die seufzen (Vers 1–4)
+
+<sup>1</sup>Dann rief er mit lauter Stimme in meine Ohren:
+„Lasst die herankommen, die über die Stadt gesetzt sind,
+jeder mit seiner Waffe zum Verderben in der Hand!“
+<sup>2</sup>Und siehe, sechs Männer kamen vom oberen Tor her,
+das nach Norden liegt,
+jeder mit seiner Waffe zum Zerschlagen in der Hand.
+Ein Mann mitten unter ihnen war in Leinen gekleidet
+und hatte ein Schreibzeug an seiner Seite.
+Sie gingen hinein und stellten sich neben den bronzenen Altar.
+<sup>3</sup>Die Herrlichkeit des Gottes Israels erhob sich
+von dem Cherub, auf dem sie war,
+zur Schwelle des Hauses.
+Und er rief den Mann, der in Leinen gekleidet war
+und das Schreibzeug an seiner Seite hatte.
+<sup>4</sup>Der HERR sagte zu ihm:
+„Geh mitten durch die Stadt, mitten durch Jerusalem,
+und mache ein Zeichen auf die Stirn der Männer,
+die seufzen und klagen
+über all die Gräuel, die in ihr geschehen.“
+
+> **Was bedeutet das?**
+> Das ist eine Vision, also ein Bild in Hesekiels Geist, keine Beschreibung von etwas, das Menschen tun sollen. Die sechs Männer sind himmlische Boten des Gerichts. Der siebte Mann in Leinen ist wie ein Schreiber Gottes. Leinen war die Kleidung der Priester und der Engel (vgl. Daniel 10,5).
+> Vers 3: Gottes Herrlichkeit verlässt ihren Platz über den Cherubim im Allerheiligsten und geht zur Schwelle des Tempels. Das ist der erste Schritt: Gott beginnt, den Tempel zu verlassen.
+> Vers 4: Bevor das Gericht kommt, sorgt Gott für die Gerechten. Wer über das Unrecht traurig ist, „seufzt und klagt“, bekommt ein Zeichen auf die Stirn und wird verschont. Gott sieht die Menschen, die nicht mitmachen.
+> Das hebräische Wort für „Zeichen“ ist „Taw“. So heißt auch der letzte Buchstabe des hebräischen Alphabets. In der alten Schrift sah er aus wie ein Kreuz oder ein X. Viele Christen haben darin später einen Hinweis auf das Kreuz gesehen. Vgl. auch 2. Mose 12,13 (das Blut an den Türen) und Offenbarung 7,3 (das Siegel auf der Stirn).
+
+---
+
+### Das Gericht beginnt am Heiligtum (Vers 5–11)
+
+<sup>5</sup>Zu den anderen sagte er, sodass ich es hörte:
+„Geht hinter ihm her durch die Stadt und schlagt zu.
+Euer Auge soll nicht schonen,
+und habt kein Mitleid.
+<sup>6</sup>Tötet völlig Alte, junge Männer, Jungfrauen,
+kleine Kinder und Frauen.
+Aber kommt keinem Menschen nahe, auf dem das Zeichen ist.
+Fangt bei meinem Heiligtum an.“
+Da fingen sie bei den Ältesten an, die vor dem Haus waren.
+<sup>7</sup>Er sagte zu ihnen:
+„Verunreinigt das Haus
+und füllt die Vorhöfe mit Erschlagenen.
+Geht hinaus!“
+Da gingen sie hinaus und schlugen in der Stadt.
+<sup>8</sup>Während sie töteten
+und ich übrig blieb,
+fiel ich auf mein Gesicht,
+schrie und sagte:
+„Ach, Herr, HERR!
+Willst du den ganzen Rest Israels vernichten,
+wenn du deinen Grimm über Jerusalem ausgießt?“
+<sup>9</sup>Da sagte er zu mir:
+„Die Schuld des Hauses Israel und Juda ist überaus groß,
+und das Land ist voll von Blut
+und die Stadt voll von Rechtsbeugung.
+Denn sie sagen:
+‚Der HERR hat das Land verlassen,
+und der HERR sieht nicht.‘
+<sup>10</sup>Auch ich – mein Auge wird nicht schonen,
+und ich werde kein Mitleid haben,
+sondern ich bringe ihren Weg auf ihren Kopf.“
+<sup>11</sup>Und siehe, der Mann, der in Leinen gekleidet war
+und das Schreibzeug an seiner Seite hatte,
+erstattete Bericht und sagte:
+„Ich habe getan, wie du mir befohlen hast.“
+
+> **Was bedeutet das?**
+> Dieser Text ist sehr schwer zu lesen. Er beschreibt in einer Vision die Zerstörung Jerusalems, die im Jahr 586 vor Christus durch die Babylonier wirklich geschah. Dabei starben auch Kinder, Frauen und Alte. Die Bibel verschweigt dieses Grauen nicht.
+> Ganz wichtig: Dieser Text ist kein Auftrag an Menschen. Niemand darf sich darauf berufen, um anderen Gewalt anzutun. Gericht ist allein Gottes Sache (vgl. Römer 12,19). Gewalt gegen Kinder und Wehrlose ist immer Unrecht.
+> Vers 6: „Fangt bei meinem Heiligtum an.“ Das Gericht beginnt bei denen, die es am besten hätten wissen müssen: bei den Ältesten am Tempel. Vgl. 1. Petrus 4,17: „Es ist Zeit, dass das Gericht anfängt beim Haus Gottes.“
+> Vers 8: Hesekiel wirft sich nieder und schreit: „Willst du alle vernichten?“ Er tritt für sein Volk ein, wie Abraham für Sodom (1. Mose 18) und Mose für Israel (2. Mose 32). Ein Prophet ist nicht kalt. Er leidet mit.
+> Vers 11: Am Ende meldet der Schreiber: „Ich habe getan, wie du befohlen hast.“ Das heißt: Die Menschen mit dem Zeichen wurden geschützt. Gott hat die nicht vergessen, die über das Unrecht geklagt haben.
+> Wenn dich solche Texte erschüttern oder an eigene Erfahrungen mit Gewalt erinnern, bist du nicht allein. Du kannst kostenlos und anonym mit jemandem sprechen: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222. Im Notfall: 112.
