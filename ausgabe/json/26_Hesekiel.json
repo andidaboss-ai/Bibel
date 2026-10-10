@@ -1,0 +1,443 @@
+{
+ "nr": 26,
+ "code": "EZK",
+ "kuerzel": "Hes",
+ "name": "Hesekiel",
+ "name_englisch": "Ezekiel",
+ "testament": "altes-testament",
+ "kapitel": 48,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die Herrlichkeit des HERRN",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Wer war Hesekiel?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Hesekiel war ein Priester aus Jerusalem. Im Jahr 597 vor Christus wurde er zusammen mit König Jojachin und vielen anderen nach Babylon verschleppt. Dort lebte er mit anderen Verbannten am Fluss Kebar.\nFünf Jahre später, um 593 vor Christus, berief Gott ihn zum Propheten. Hesekiel wirkte also gleichzeitig mit Jeremia, aber nicht in Jerusalem, sondern in Babylon.\nSein Name bedeutet „Gott macht stark“.\nHesekiel hatte gewaltige Visionen: Er sah Gottes Herrlichkeit auf einem Thronwagen, er sah, wie Gottes Herrlichkeit den Tempel verlässt, und er sah ein Feld voller trockener Knochen, die wieder lebendig werden. Er führte viele ungewöhnliche Zeichenhandlungen aus, um seine Botschaft sichtbar zu machen.\nDas Buch hat 48 Kapitel und drei Teile:\n– Kapitel 1–24: Gericht über Jerusalem, bevor die Stadt zerstört wird.\n– Kapitel 25–32: Worte über die Nachbarvölker.\n– Kapitel 33–48: Hoffnung nach der Zerstörung: ein neues Herz, ein neuer Geist, der gute Hirte, die lebendig gewordenen Knochen und ein neuer Tempel.\nGott nennt Hesekiel immer wieder „Menschensohn“. Das bedeutet einfach „Mensch“ und betont, wie klein der Mensch vor dem großen Gott ist.\nJuden und Christen lesen Hesekiel als Buch der Hoffnung: Gott ist auch im Exil bei seinem Volk, und er kann Totes lebendig machen.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Die Vision am Fluss Kebar",
+     "vers_von": 1,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Im dreißigsten Jahr, im vierten Monat, am fünften Tag des Monats,\nals ich unter den Verbannten am Fluss Kebar war,\nöffnete sich der Himmel, und ich sah Visionen von Gott.",
+       "englisch_web": "Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Am fünften Tag des Monats,\ndas war im fünften Jahr der Gefangenschaft des Königs Jojachin,",
+       "englisch_web": "In the fifth of the month, which was the fifth year of King Jehoiachin’s captivity,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "kam das Wort des HERRN zu Hesekiel, dem Priester, dem Sohn Busis,\nim Land der Chaldäer am Fluss Kebar,\nund die Hand des HERRN kam dort über ihn.",
+       "englisch_web": "Yahweh’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and Yahweh’s hand was there on him."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich schaute, und siehe, ein Sturmwind kam von Norden:\neine große Wolke mit zuckenden Blitzen\nund ein Glanz rings um sie her,\nund aus ihrer Mitte, mitten aus dem Feuer,\nleuchtete es wie glühendes Metall.",
+       "englisch_web": "I looked, and behold, a stormy wind came out of the north: a great cloud, with flashing lightning, and a brightness around it, and out of the middle of it as it were glowing metal, out of the middle of the fire."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Aus ihrer Mitte kam die Gestalt von vier lebendigen Wesen.\nSo sahen sie aus:\nSie hatten die Gestalt eines Menschen.",
+       "englisch_web": "Out of its center came the likeness of four living creatures. This was their appearance: They had the likeness of a man."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Jedes hatte vier Gesichter,\nund jedes von ihnen hatte vier Flügel.",
+       "englisch_web": "Everyone had four faces, and each one of them had four wings."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ihre Beine waren gerade Beine.\nIhre Fußsohlen waren wie die Fußsohle eines Kalbes,\nund sie funkelten wie polierte Bronze.",
+       "englisch_web": "Their feet were straight feet. The sole of their feet was like the sole of a calf’s foot; and they sparkled like burnished bronze."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Unter ihren Flügeln hatten sie auf ihren vier Seiten Menschenhände.\nAlle vier hatten ihre Gesichter und ihre Flügel so:",
+       "englisch_web": "They had the hands of a man under their wings on their four sides. The four of them had their faces and their wings like this:"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ihre Flügel berührten einander.\nSie drehten sich nicht, wenn sie gingen.\nJedes ging gerade vorwärts.",
+       "englisch_web": "Their wings were joined to one another. They didn’t turn when they went. Each one went straight forward."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ihre Gesichter sahen so aus:\nSie hatten das Gesicht eines Menschen.\nAlle vier hatten auf der rechten Seite das Gesicht eines Löwen.\nAlle vier hatten auf der linken Seite das Gesicht eines Stieres.\nAlle vier hatten auch das Gesicht eines Adlers.",
+       "englisch_web": "As for the likeness of their faces, they had the face of a man. The four of them had the face of a lion on the right side. The four of them had the face of an ox on the left side. The four of them also had the face of an eagle."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "So waren ihre Gesichter.\nIhre Flügel waren nach oben ausgebreitet.\nZwei Flügel von jedem berührten einander,\nund zwei bedeckten ihre Körper.",
+       "englisch_web": "Such were their faces. Their wings were spread out above. Two wings of each one touched another, and two covered their bodies."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Jedes ging gerade vorwärts.\nWohin der Geist gehen wollte, dahin gingen sie.\nSie drehten sich nicht, wenn sie gingen.",
+       "englisch_web": "Each one went straight forward. Where the spirit was to go, they went. They didn’t turn when they went."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Die lebendigen Wesen sahen aus wie brennende Feuerkohlen,\nwie Fackeln.\nDas Feuer ging zwischen den lebendigen Wesen hin und her.\nDas Feuer war hell, und aus dem Feuer zuckten Blitze.",
+       "englisch_web": "As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches. The fire went up and down among the living creatures. The fire was bright, and lightning went out of the fire."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Die lebendigen Wesen liefen hin und her\nwie das Aufleuchten eines Blitzes.",
+       "englisch_web": "The living creatures ran and returned as the appearance of a flash of lightning."
+      }
+     ],
+     "erklaerung": "Vers 1–3: Hesekiel ist 30 Jahre alt (das „dreißigste Jahr“ meint wahrscheinlich sein Alter). In diesem Alter begannen Priester normalerweise ihren Dienst im Tempel (4. Mose 4,3). Aber Hesekiel ist weit weg vom Tempel, im Exil. Und genau dort öffnet sich der Himmel! Gott ist nicht an Jerusalem gebunden. Er kommt auch zu den Verbannten.\nVers 4: Ein gewaltiger Sturm, eine Wolke, Feuer und Blitze: Zeichen dafür, dass Gott kommt (vgl. 2. Mose 19,16).\nVers 5–14: Hesekiel versucht, das Unbeschreibliche zu beschreiben. Er sagt oft „es sah aus wie …“. Die vier Wesen haben vier Gesichter: Mensch, Löwe, Stier und Adler, das Klügste, das Stärkste, das Kräftigste und das Schnellste unter den Lebewesen. Später nennt Hesekiel sie „Cherubim“ (Kapitel 10).\nIn der christlichen Tradition wurden die vier Gesichter zu Symbolen der vier Evangelisten: Matthäus (Mensch), Markus (Löwe), Lukas (Stier) und Johannes (Adler). Die Offenbarung beschreibt ähnliche Wesen (Offenbarung 4,6–8)."
+    },
+    {
+     "ueberschrift": "Räder voller Augen",
+     "vers_von": 15,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Als ich die lebendigen Wesen ansah,\nsiehe, da war ein Rad auf der Erde neben den lebendigen Wesen,\nbei jedem ihrer vier Gesichter.",
+       "englisch_web": "Now as I saw the living creatures, behold, there was one wheel on the earth beside the living creatures, for each of the four faces of it."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Das Aussehen der Räder und ihre Machart war wie Türkis.\nAlle vier sahen gleich aus.\nIhr Aussehen und ihre Machart war, als wäre ein Rad mitten in einem anderen Rad.",
+       "englisch_web": "The appearance of the wheels and their work was like a beryl. The four of them had one likeness. Their appearance and their work was as it were a wheel within a wheel."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Wenn sie gingen, gingen sie in ihre vier Richtungen.\nSie drehten sich nicht, wenn sie gingen.",
+       "englisch_web": "When they went, they went in their four directions. They didn’t turn when they went."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Ihre Felgen waren hoch und furchterregend,\nund die Felgen aller vier waren ringsum voller Augen.",
+       "englisch_web": "As for their rims, they were high and dreadful; and the four of them had their rims full of eyes all around."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wenn die lebendigen Wesen gingen, gingen die Räder neben ihnen.\nWenn die lebendigen Wesen sich von der Erde erhoben,\nerhoben sich auch die Räder.",
+       "englisch_web": "When the living creatures went, the wheels went beside them. When the living creatures were lifted up from the earth, the wheels were lifted up."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wohin der Geist gehen wollte, dahin gingen sie.\nDahin wollte der Geist gehen.\nUnd die Räder erhoben sich neben ihnen,\ndenn der Geist des lebendigen Wesens war in den Rädern.",
+       "englisch_web": "Wherever the spirit was to go, they went. The spirit was to go there. The wheels were lifted up beside them; for the spirit of the living creature was in the wheels."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Wenn jene gingen, gingen diese.\nWenn jene standen, standen diese.\nWenn jene sich von der Erde erhoben,\nerhoben sich die Räder neben ihnen,\ndenn der Geist des lebendigen Wesens war in den Rädern.",
+       "englisch_web": "When those went, these went. When those stood, these stood. When those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels."
+      }
+     ],
+     "erklaerung": "Neben jedem Wesen ist ein Rad, „ein Rad mitten in einem Rad“. So können sie in alle Richtungen fahren, ohne sich zu drehen. Die Räder sind voller Augen: Gott sieht alles.\nDas Ganze ist wie ein beweglicher Thronwagen. Die Botschaft: Gottes Thron ist nicht fest an einem Ort, nicht nur im Tempel in Jerusalem. Gott kann überall hingehen, auch zu seinem Volk ins Exil nach Babylon.\nIm Judentum heißt diese Vision „Merkawa“ (Thronwagen). Sie wurde später zur Grundlage für eine ganze Richtung jüdischer Mystik.\nVers 16: Das WEB hat „beryl“. Gemeint ist ein grünlich oder bläulich schimmernder Edelstein."
+    },
+    {
+     "ueberschrift": "Der Thron und die Herrlichkeit",
+     "vers_von": 22,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Über dem Kopf des lebendigen Wesens\nwar die Gestalt einer Himmelsfeste,\nwie ein ehrfurchtgebietender Kristall anzusehen,\noben über ihren Köpfen ausgebreitet.",
+       "englisch_web": "Over the head of the living creature there was the likeness of an expanse, like an awesome crystal to look at, stretched out over their heads above."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Unter der Himmelsfeste waren ihre Flügel gerade ausgestreckt,\neiner zum anderen hin.\nJedes hatte zwei, die auf dieser Seite bedeckten,\nund jedes hatte zwei, die ihre Körper auf jener Seite bedeckten.",
+       "englisch_web": "Under the expanse, their wings were straight, one toward the other. Each one had two which covered on this side, and each one had two which covered their bodies on that side."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Wenn sie gingen, hörte ich das Rauschen ihrer Flügel\nwie das Rauschen großer Wasser,\nwie die Stimme des Allmächtigen,\nein lautes Getöse wie das Lärmen eines Heerlagers.\nWenn sie standen, ließen sie ihre Flügel sinken.",
+       "englisch_web": "When they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an army. When they stood, they let down their wings."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Eine Stimme kam von oberhalb der Himmelsfeste, die über ihren Köpfen war.\nWenn sie standen, ließen sie ihre Flügel sinken.",
+       "englisch_web": "There was a voice above the expanse that was over their heads. When they stood, they let down their wings."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Oberhalb der Himmelsfeste, die über ihren Köpfen war,\nwar die Gestalt eines Thrones,\nanzusehen wie ein Saphirstein.\nUnd auf der Gestalt des Thrones,\noben darauf, war eine Gestalt, die aussah wie ein Mensch.",
+       "englisch_web": "Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire stone. On the likeness of the throne was a likeness as the appearance of a man on it above."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Ich sah es wie glühendes Metall,\nwie das Aussehen von Feuer, das es ringsum umgab,\nvon seinen Hüften an aufwärts.\nUnd von seinen Hüften an abwärts\nsah ich etwas wie das Aussehen von Feuer,\nund ringsum war ein Glanz.",
+       "englisch_web": "I saw as it were glowing metal, as the appearance of fire within it all around, from the appearance of his waist and upward; and from the appearance of his waist and downward I saw as it were the appearance of fire, and there was brightness around him."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Wie das Aussehen des Regenbogens,\nder an einem Regentag in den Wolken ist,\nso war das Aussehen des Glanzes ringsum.\nSo sah die Gestalt der Herrlichkeit des HERRN aus.\nAls ich es sah, fiel ich auf mein Gesicht,\nund ich hörte die Stimme von einem, der redete.",
+       "englisch_web": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke."
+      }
+     ],
+     "erklaerung": "Über den Wesen ist eine Art Kristalldecke, darüber ein Thron aus Saphir, und auf dem Thron eine Gestalt „wie ein Mensch“, umgeben von Feuer und Licht.\nVers 28: Hesekiel ist sehr vorsichtig mit seinen Worten. Er sagt nicht „Ich sah Gott“, sondern „So sah die Gestalt der Herrlichkeit des HERRN aus“. Gott ist zu groß, um ihn direkt zu beschreiben.\nDer Regenbogen erinnert an Gottes Bund mit Noah (1. Mose 9,13). Mitten in Feuer und Sturm leuchtet ein Zeichen der Treue.\nHesekiel fällt auf sein Gesicht. Die Begegnung mit Gottes Heiligkeit überwältigt ihn."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Hesekiel wird gesandt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Menschensohn, stell dich auf deine Füße",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Er sagte zu mir:\n„Menschensohn, stell dich auf deine Füße,\nund ich will mit dir reden.“",
+       "englisch_web": "He said to me, “Son of man, stand on your feet, and I will speak with you.”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da kam der Geist in mich, als er zu mir redete,\nund stellte mich auf meine Füße,\nund ich hörte den, der zu mir redete.",
+       "englisch_web": "The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er sagte zu mir:\n„Menschensohn, ich sende dich zu den Kindern Israel,\nzu einem Volk von Aufrührern, die sich gegen mich aufgelehnt haben.\nSie und ihre Väter haben sich gegen mich vergangen\nbis zu diesem Tag.",
+       "englisch_web": "He said to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Kinder sind frech und haben ein hartes Herz.\nIch sende dich zu ihnen,\nund du sollst zu ihnen sagen:\n‚So spricht der Herr, der HERR.‘",
+       "englisch_web": "The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord Yahweh says.’"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sie aber, ob sie hören oder es lassen\n– denn sie sind ein widerspenstiges Haus –,\nsie werden doch erkennen, dass ein Prophet unter ihnen gewesen ist.",
+       "englisch_web": "They, whether they will hear, or whether they will refuse—for they are a rebellious house—yet they will know that there has been a prophet among them."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Du aber, Menschensohn, fürchte dich nicht vor ihnen\nund fürchte dich nicht vor ihren Worten,\nauch wenn Disteln und Dornen bei dir sind\nund du unter Skorpionen wohnst.\nFürchte dich nicht vor ihren Worten\nund erschrick nicht vor ihren Blicken,\nauch wenn sie ein widerspenstiges Haus sind.",
+       "englisch_web": "You, son of man, don’t be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you dwell among scorpions. Don’t be afraid of their words, nor be dismayed at their looks, though they are a rebellious house."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Du sollst ihnen meine Worte sagen,\nob sie hören oder es lassen,\ndenn sie sind sehr widerspenstig.",
+       "englisch_web": "You shall speak my words to them, whether they will hear or whether they will refuse; for they are most rebellious."
+      }
+     ],
+     "erklaerung": "Vers 1: Gott nennt Hesekiel „Menschensohn“ (hebräisch „ben adam“). Das heißt einfach „Mensch“. Im Buch Hesekiel kommt diese Anrede über 90 Mal vor. Sie zeigt, wie klein der Mensch vor Gott ist, und gleichzeitig, dass Gott mit diesem Menschen reden will. (Jesus nennt sich später selbst oft „Menschensohn“, in Anlehnung an Daniel 7,13.)\nVers 2: Hesekiel liegt auf dem Gesicht. Gottes Geist stellt ihn wieder auf die Füße. Gott selbst gibt ihm die Kraft, zu stehen.\nVers 5: Ob die Leute hören oder nicht, sie werden wissen: „Ein Prophet war unter uns.“ Hesekiels Aufgabe ist nicht, erfolgreich zu sein, sondern treu Gottes Wort weiterzugeben.\nVers 6: Die Menschen werden für ihn wie Dornen und Skorpione sein, schmerzhaft und gefährlich. Aber Gott sagt dreimal: „Fürchte dich nicht!“"
+    },
+    {
+     "ueberschrift": "Die Schriftrolle",
+     "vers_von": 8,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Du aber, Menschensohn, höre, was ich dir sage.\nSei nicht widerspenstig wie dieses widerspenstige Haus!\nÖffne deinen Mund und iss, was ich dir gebe!“",
+       "englisch_web": "But you, son of man, hear what I tell you. Don’t be rebellious like that rebellious house. Open your mouth, and eat that which I give you.”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Als ich hinschaute, siehe, da war eine Hand zu mir ausgestreckt,\nund siehe, in ihr war eine Buchrolle.",
+       "englisch_web": "When I looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er breitete sie vor mir aus.\nSie war innen und außen beschrieben,\nund darauf waren Klagelieder, Seufzen und Wehrufe geschrieben.",
+       "englisch_web": "He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it."
+      }
+     ],
+     "erklaerung": "Gott gibt Hesekiel eine Schriftrolle. Normalerweise schrieb man nur auf eine Seite. Diese Rolle ist auf beiden Seiten beschrieben, so viel steht darauf. Und der Inhalt ist schwer: Klagen, Seufzen und Wehrufe. Das ist die Botschaft, die Hesekiel weitergeben soll: Gericht über Jerusalem."
+    }
+   ]
+  },
+  {
+   "kapitel": 3,
+   "titel": "Der Wächter",
+   "abschnitte": [
+    {
+     "ueberschrift": "Hesekiel isst die Schriftrolle",
+     "vers_von": 1,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Er sagte zu mir:\n„Menschensohn, iss, was du findest.\nIss diese Rolle,\nund geh, rede zum Haus Israel!“",
+       "englisch_web": "He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.”"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Da öffnete ich meinen Mund,\nund er gab mir die Rolle zu essen.",
+       "englisch_web": "So I opened my mouth, and he caused me to eat the scroll."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Er sagte zu mir:\n„Menschensohn, iss diese Rolle, die ich dir gebe,\nund fülle deinen Bauch und dein Inneres damit.“\nDa aß ich sie.\nUnd sie war in meinem Mund so süß wie Honig.",
+       "englisch_web": "He said to me, “Son of man, eat this scroll that I give you and fill your belly and your bowels with it.” Then I ate it. It was as sweet as honey in my mouth."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er sagte zu mir:\n„Menschensohn, geh zum Haus Israel\nund rede meine Worte zu ihnen.",
+       "englisch_web": "He said to me, “Son of man, go to the house of Israel, and speak my words to them."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn du bist nicht zu einem Volk mit fremder Sprache\nund schwerer Zunge gesandt,\nsondern zum Haus Israel,",
+       "englisch_web": "For you are not sent to a people of a strange speech and of a hard language, but to the house of Israel—"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "nicht zu vielen Völkern mit fremder Sprache und schwerer Zunge,\nderen Worte du nicht verstehen kannst.\nGewiss, wenn ich dich zu ihnen sendete,\nwürden sie auf dich hören.",
+       "englisch_web": "not to many peoples of a strange speech and of a hard language, whose words you can’t understand. Surely, if I sent you to them, they would listen to you."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Aber das Haus Israel wird nicht auf dich hören wollen,\ndenn sie wollen nicht auf mich hören.\nDenn das ganze Haus Israel hat eine harte Stirn und ein verstocktes Herz.",
+       "englisch_web": "But the house of Israel will not listen to you, for they will not listen to me; for all the house of Israel are obstinate and hard-hearted."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Siehe, ich habe dein Gesicht hart gemacht gegen ihre Gesichter\nund deine Stirn hart gegen ihre Stirn.",
+       "englisch_web": "Behold, I have made your face hard against their faces, and your forehead hard against their foreheads."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ich habe deine Stirn wie einen Diamanten gemacht,\nhärter als Kieselstein.\nFürchte dich nicht vor ihnen\nund erschrick nicht vor ihren Blicken,\nauch wenn sie ein widerspenstiges Haus sind.“",
+       "englisch_web": "I have made your forehead as a diamond, harder than flint. Don’t be afraid of them, neither be dismayed at their looks, though they are a rebellious house.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Weiter sagte er zu mir:\n„Menschensohn, nimm alle meine Worte, die ich zu dir rede, in dein Herz auf\nund höre sie mit deinen Ohren.",
+       "englisch_web": "Moreover he said to me, “Son of man, receive in your heart and hear with your ears all my words that I speak to you."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Und geh zu den Verbannten,\nzu den Kindern deines Volkes,\nund rede zu ihnen und sag ihnen:\n‚So spricht der Herr, der HERR‘,\nob sie hören oder es lassen.“",
+       "englisch_web": "Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘This is what the Lord Yahweh says,’ whether they will hear, or whether they will refuse.”"
+      }
+     ],
+     "erklaerung": "Vers 1–3: Hesekiel isst die Schriftrolle. Das ist ein Bild: Gottes Wort soll ganz in ihn hineingehen, ein Teil von ihm werden. Und obwohl der Inhalt bitter ist, schmeckt es „süß wie Honig“. Gottes Wort zu empfangen ist ein Geschenk, auch wenn die Botschaft schwer ist (vgl. Jeremia 15,16; Psalm 119,103; Offenbarung 10,9–10).\nVers 5–7: Eine traurige Ironie: Fremde Völker mit fremder Sprache würden auf Hesekiel hören. Aber sein eigenes Volk, das seine Sprache versteht, will nicht hören.\nVers 8–9: Weil das Volk eine „harte Stirn“ hat, macht Gott Hesekiels Stirn noch härter, „wie einen Diamanten“. Das ist ein Wortspiel mit seinem Namen: Hesekiel heißt „Gott macht stark“."
+    },
+    {
+     "ueberschrift": "Sieben Tage stumm",
+     "vers_von": 12,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Da hob mich der Geist empor,\nund ich hörte hinter mir das Getöse eines großen Brausens:\n„Gepriesen sei die Herrlichkeit des HERRN an ihrem Ort!“",
+       "englisch_web": "Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be Yahweh’s glory from his place.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich hörte das Rauschen der Flügel der lebendigen Wesen,\nwie sie einander berührten,\nund das Rauschen der Räder neben ihnen,\ndas Getöse eines großen Brausens.",
+       "englisch_web": "I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "So hob mich der Geist empor und nahm mich weg,\nund ich ging dahin, voller Bitterkeit, in der Glut meines Geistes,\nund die Hand des HERRN lag schwer auf mir.",
+       "englisch_web": "So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and Yahweh’s hand was strong on me."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Dann kam ich zu den Verbannten in Tel-Abib,\ndie am Fluss Kebar wohnten,\ndorthin, wo sie wohnten.\nUnd ich saß dort sieben Tage lang verstört unter ihnen.",
+       "englisch_web": "Then I came to them of the captivity at Tel Aviv who lived by the river Chebar, and to where they lived; and I sat there overwhelmed among them seven days."
+      }
+     ],
+     "erklaerung": "Vers 12: „Gepriesen sei die Herrlichkeit des HERRN an ihrem Ort!“ Dieser Satz ist Teil eines wichtigen jüdischen Gebets, der „Keduscha“, zusammen mit „Heilig, heilig, heilig“ aus Jesaja 6,3.\nVers 14: Hesekiel ist aufgewühlt und bitter. Die Begegnung mit Gott hat ihn erschüttert.\nVers 15: Tel-Abib (das WEB schreibt „Tel Aviv“) bedeutet „Ährenhügel“. Die heutige Stadt Tel Aviv in Israel (gegründet 1909) hat ihren Namen indirekt von hier: Die hebräische Übersetzung von Theodor Herzls Buch „Altneuland“ hieß „Tel Aviv“, und dieser Titel war aus diesem Vers genommen. Hesekiel sitzt sieben Tage stumm unter den Verbannten. Sieben Tage war die übliche Zeit der Trauer."
+    },
+    {
+     "ueberschrift": "Ich mache dich zum Wächter",
+     "vers_von": 16,
+     "vers_bis": 21,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Nach sieben Tagen kam das Wort des HERRN zu mir:",
+       "englisch_web": "At the end of seven days, Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "„Menschensohn, ich habe dich zum Wächter für das Haus Israel gemacht.\nDarum höre das Wort aus meinem Mund\nund warne sie in meinem Auftrag.",
+       "englisch_web": "“Son of man, I have made you a watchman to the house of Israel. Therefore hear the word from my mouth, and warn them from me."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wenn ich zum Gottlosen sage: ‚Du musst sterben!‘,\nund du warnst ihn nicht\nund redest nicht, um den Gottlosen vor seinem gottlosen Weg zu warnen,\num sein Leben zu retten,\ndann wird dieser Gottlose wegen seiner Schuld sterben,\naber sein Blut werde ich von deiner Hand fordern.",
+       "englisch_web": "When I tell the wicked, ‘You will surely die;’ and you give him no warning, nor speak to warn the wicked from his wicked way, to save his life, that wicked man will die in his iniquity; but I will require his blood at your hand."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Wenn du aber den Gottlosen warnst,\nund er kehrt nicht um von seiner Gottlosigkeit und von seinem gottlosen Weg,\ndann wird er wegen seiner Schuld sterben,\ndu aber hast deine Seele gerettet.“",
+       "englisch_web": "Yet if you warn the wicked, and he doesn’t turn from his wickedness, nor from his wicked way, he will die in his iniquity; but you have delivered your soul.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "„Und wenn ein Gerechter sich von seiner Gerechtigkeit abwendet\nund Unrecht tut,\nund ich lege ihm einen Anstoß in den Weg,\ndann wird er sterben.\nWeil du ihn nicht gewarnt hast,\nwird er in seiner Sünde sterben,\nund seiner gerechten Taten, die er getan hat, wird nicht gedacht werden,\naber sein Blut werde ich von deiner Hand fordern.",
+       "englisch_web": "“Again, when a righteous man turns from his righteousness and commits iniquity, and I lay a stumbling block before him, he will die. Because you have not given him warning, he will die in his sin, and his righteous deeds which he has done will not be remembered; but I will require his blood at your hand."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Wenn du aber den Gerechten warnst, dass der Gerechte nicht sündigt,\nund er sündigt nicht,\ndann wird er gewiss leben, weil er sich hat warnen lassen,\nund du hast deine Seele gerettet.“",
+       "englisch_web": "Nevertheless if you warn the righteous man, that the righteous not sin, and he does not sin, he will surely live, because he took warning; and you have delivered your soul.”"
+      }
+     ],
+     "erklaerung": "Ein Wächter stand früher auf der Stadtmauer. Wenn er eine Gefahr sah, musste er Alarm schlagen. Wenn er schwieg, war er schuld am Unglück.\nSo soll Hesekiel ein „Wächter“ für sein Volk sein: Er soll warnen. Ob die Menschen hören, ist ihre Verantwortung. Aber wenn er nicht warnt, ist er mitverantwortlich.\nDas ist auch eine Botschaft für heute: Wer Unrecht sieht und schweigt, trägt Mitverantwortung. Manchmal ist es unsere Aufgabe, Menschen ehrlich zu warnen, auch wenn es unbequem ist."
+    },
+    {
+     "ueberschrift": "Hesekiel wird stumm",
+     "vers_von": 22,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 22,
+       "leichte_sprache": "Die Hand des HERRN kam dort über mich,\nund er sagte zu mir:\n„Steh auf, geh hinaus in die Ebene,\nund dort will ich mit dir reden.“",
+       "englisch_web": "Yahweh’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Da stand ich auf und ging hinaus in die Ebene,\nund siehe, die Herrlichkeit des HERRN stand dort,\nwie die Herrlichkeit, die ich am Fluss Kebar gesehen hatte.\nDa fiel ich auf mein Gesicht.",
+       "englisch_web": "Then I arose, and went out into the plain, and behold, Yahweh’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Da kam der Geist in mich und stellte mich auf meine Füße.\nEr redete mit mir und sagte zu mir:\n„Geh, schließ dich in deinem Haus ein!",
+       "englisch_web": "Then the Spirit entered into me and set me on my feet. He spoke with me, and said to me, “Go, shut yourself inside your house."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Du aber, Menschensohn,\nsiehe, man wird dir Stricke anlegen und dich damit fesseln,\nund du wirst nicht unter sie hinausgehen können.",
+       "englisch_web": "But you, son of man, behold, they will put ropes on you, and will bind you with them, and you will not go out among them."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ich werde deine Zunge an deinem Gaumen kleben lassen,\nsodass du stumm sein wirst\nund sie nicht zurechtweisen kannst,\ndenn sie sind ein widerspenstiges Haus.",
+       "englisch_web": "I will make your tongue stick to the roof of your mouth so that you will be mute and will not be able to correct them, for they are a rebellious house."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Aber wenn ich mit dir rede,\nwerde ich deinen Mund öffnen,\nund du sollst zu ihnen sagen:\n‚So spricht der Herr, der HERR.‘\nWer hören will, der höre,\nund wer es lässt, der lasse es,\ndenn sie sind ein widerspenstiges Haus.“",
+       "englisch_web": "But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord Yahweh says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”"
+      }
+     ],
+     "erklaerung": "Hesekiel soll sich in seinem Haus einschließen und stumm sein. Er darf nur reden, wenn Gott ihm etwas zu sagen gibt. So wird deutlich: Hesekiel redet nicht seine eigenen Gedanken, sondern nur Gottes Wort.\nDiese Stummheit dauert bis zur Zerstörung Jerusalems (vgl. 24,27; 33,22).\nVers 27: „Wer hören will, der höre.“ Jesus sagt etwas Ähnliches: „Wer Ohren hat zu hören, der höre!“ (Matthäus 13,9)."
+    }
+   ]
+  }
+ ]
+}

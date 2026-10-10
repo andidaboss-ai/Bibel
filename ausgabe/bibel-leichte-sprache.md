@@ -98903,3 +98903,362 @@ Du bist sehr zornig auf uns.
 > **Bring uns zurück:** Am Ende steht das Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren“ (5,21).
 > **Für heute:** Die Klagelieder helfen allen, die trauern, Worte für ihren Schmerz zu finden. Wer trauert, muss nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Hesekiel. Hesekiel war ein Priester, der in Babylon lebte und dort Visionen von Gottes Herrlichkeit hatte.
+
+
+---
+
+# Hesekiel
+
+## Hesekiel – Kapitel 1
+#### Die Herrlichkeit des HERRN
+
+---
+
+### Bevor es losgeht: Wer war Hesekiel?
+
+Hesekiel war ein Priester aus Jerusalem. Im Jahr 597 vor Christus wurde er zusammen mit König Jojachin und vielen anderen nach Babylon verschleppt. Dort lebte er mit anderen Verbannten am Fluss Kebar.
+Fünf Jahre später, um 593 vor Christus, berief Gott ihn zum Propheten. Hesekiel wirkte also gleichzeitig mit Jeremia, aber nicht in Jerusalem, sondern in Babylon.
+Sein Name bedeutet „Gott macht stark“.
+Hesekiel hatte gewaltige Visionen: Er sah Gottes Herrlichkeit auf einem Thronwagen, er sah, wie Gottes Herrlichkeit den Tempel verlässt, und er sah ein Feld voller trockener Knochen, die wieder lebendig werden. Er führte viele ungewöhnliche Zeichenhandlungen aus, um seine Botschaft sichtbar zu machen.
+Das Buch hat 48 Kapitel und drei Teile:
+– Kapitel 1–24: Gericht über Jerusalem, bevor die Stadt zerstört wird.
+– Kapitel 25–32: Worte über die Nachbarvölker.
+– Kapitel 33–48: Hoffnung nach der Zerstörung: ein neues Herz, ein neuer Geist, der gute Hirte, die lebendig gewordenen Knochen und ein neuer Tempel.
+Gott nennt Hesekiel immer wieder „Menschensohn“. Das bedeutet einfach „Mensch“ und betont, wie klein der Mensch vor dem großen Gott ist.
+Juden und Christen lesen Hesekiel als Buch der Hoffnung: Gott ist auch im Exil bei seinem Volk, und er kann Totes lebendig machen.
+
+---
+
+### Die Vision am Fluss Kebar (Vers 1–14)
+
+<sup>1</sup>Im dreißigsten Jahr, im vierten Monat, am fünften Tag des Monats,
+als ich unter den Verbannten am Fluss Kebar war,
+öffnete sich der Himmel, und ich sah Visionen von Gott.
+<sup>2</sup>Am fünften Tag des Monats,
+das war im fünften Jahr der Gefangenschaft des Königs Jojachin,
+<sup>3</sup>kam das Wort des HERRN zu Hesekiel, dem Priester, dem Sohn Busis,
+im Land der Chaldäer am Fluss Kebar,
+und die Hand des HERRN kam dort über ihn.
+<sup>4</sup>Ich schaute, und siehe, ein Sturmwind kam von Norden:
+eine große Wolke mit zuckenden Blitzen
+und ein Glanz rings um sie her,
+und aus ihrer Mitte, mitten aus dem Feuer,
+leuchtete es wie glühendes Metall.
+<sup>5</sup>Aus ihrer Mitte kam die Gestalt von vier lebendigen Wesen.
+So sahen sie aus:
+Sie hatten die Gestalt eines Menschen.
+<sup>6</sup>Jedes hatte vier Gesichter,
+und jedes von ihnen hatte vier Flügel.
+<sup>7</sup>Ihre Beine waren gerade Beine.
+Ihre Fußsohlen waren wie die Fußsohle eines Kalbes,
+und sie funkelten wie polierte Bronze.
+<sup>8</sup>Unter ihren Flügeln hatten sie auf ihren vier Seiten Menschenhände.
+Alle vier hatten ihre Gesichter und ihre Flügel so:
+<sup>9</sup>Ihre Flügel berührten einander.
+Sie drehten sich nicht, wenn sie gingen.
+Jedes ging gerade vorwärts.
+<sup>10</sup>Ihre Gesichter sahen so aus:
+Sie hatten das Gesicht eines Menschen.
+Alle vier hatten auf der rechten Seite das Gesicht eines Löwen.
+Alle vier hatten auf der linken Seite das Gesicht eines Stieres.
+Alle vier hatten auch das Gesicht eines Adlers.
+<sup>11</sup>So waren ihre Gesichter.
+Ihre Flügel waren nach oben ausgebreitet.
+Zwei Flügel von jedem berührten einander,
+und zwei bedeckten ihre Körper.
+<sup>12</sup>Jedes ging gerade vorwärts.
+Wohin der Geist gehen wollte, dahin gingen sie.
+Sie drehten sich nicht, wenn sie gingen.
+<sup>13</sup>Die lebendigen Wesen sahen aus wie brennende Feuerkohlen,
+wie Fackeln.
+Das Feuer ging zwischen den lebendigen Wesen hin und her.
+Das Feuer war hell, und aus dem Feuer zuckten Blitze.
+<sup>14</sup>Die lebendigen Wesen liefen hin und her
+wie das Aufleuchten eines Blitzes.
+
+> **Was bedeutet das?**
+> Vers 1–3: Hesekiel ist 30 Jahre alt (das „dreißigste Jahr“ meint wahrscheinlich sein Alter). In diesem Alter begannen Priester normalerweise ihren Dienst im Tempel (4. Mose 4,3). Aber Hesekiel ist weit weg vom Tempel, im Exil. Und genau dort öffnet sich der Himmel! Gott ist nicht an Jerusalem gebunden. Er kommt auch zu den Verbannten.
+> Vers 4: Ein gewaltiger Sturm, eine Wolke, Feuer und Blitze: Zeichen dafür, dass Gott kommt (vgl. 2. Mose 19,16).
+> Vers 5–14: Hesekiel versucht, das Unbeschreibliche zu beschreiben. Er sagt oft „es sah aus wie …“. Die vier Wesen haben vier Gesichter: Mensch, Löwe, Stier und Adler, das Klügste, das Stärkste, das Kräftigste und das Schnellste unter den Lebewesen. Später nennt Hesekiel sie „Cherubim“ (Kapitel 10).
+> In der christlichen Tradition wurden die vier Gesichter zu Symbolen der vier Evangelisten: Matthäus (Mensch), Markus (Löwe), Lukas (Stier) und Johannes (Adler). Die Offenbarung beschreibt ähnliche Wesen (Offenbarung 4,6–8).
+
+---
+
+### Räder voller Augen (Vers 15–21)
+
+<sup>15</sup>Als ich die lebendigen Wesen ansah,
+siehe, da war ein Rad auf der Erde neben den lebendigen Wesen,
+bei jedem ihrer vier Gesichter.
+<sup>16</sup>Das Aussehen der Räder und ihre Machart war wie Türkis.
+Alle vier sahen gleich aus.
+Ihr Aussehen und ihre Machart war, als wäre ein Rad mitten in einem anderen Rad.
+<sup>17</sup>Wenn sie gingen, gingen sie in ihre vier Richtungen.
+Sie drehten sich nicht, wenn sie gingen.
+<sup>18</sup>Ihre Felgen waren hoch und furchterregend,
+und die Felgen aller vier waren ringsum voller Augen.
+<sup>19</sup>Wenn die lebendigen Wesen gingen, gingen die Räder neben ihnen.
+Wenn die lebendigen Wesen sich von der Erde erhoben,
+erhoben sich auch die Räder.
+<sup>20</sup>Wohin der Geist gehen wollte, dahin gingen sie.
+Dahin wollte der Geist gehen.
+Und die Räder erhoben sich neben ihnen,
+denn der Geist des lebendigen Wesens war in den Rädern.
+<sup>21</sup>Wenn jene gingen, gingen diese.
+Wenn jene standen, standen diese.
+Wenn jene sich von der Erde erhoben,
+erhoben sich die Räder neben ihnen,
+denn der Geist des lebendigen Wesens war in den Rädern.
+
+> **Was bedeutet das?**
+> Neben jedem Wesen ist ein Rad, „ein Rad mitten in einem Rad“. So können sie in alle Richtungen fahren, ohne sich zu drehen. Die Räder sind voller Augen: Gott sieht alles.
+> Das Ganze ist wie ein beweglicher Thronwagen. Die Botschaft: Gottes Thron ist nicht fest an einem Ort, nicht nur im Tempel in Jerusalem. Gott kann überall hingehen, auch zu seinem Volk ins Exil nach Babylon.
+> Im Judentum heißt diese Vision „Merkawa“ (Thronwagen). Sie wurde später zur Grundlage für eine ganze Richtung jüdischer Mystik.
+> Vers 16: Das WEB hat „beryl“. Gemeint ist ein grünlich oder bläulich schimmernder Edelstein.
+
+---
+
+### Der Thron und die Herrlichkeit (Vers 22–28)
+
+<sup>22</sup>Über dem Kopf des lebendigen Wesens
+war die Gestalt einer Himmelsfeste,
+wie ein ehrfurchtgebietender Kristall anzusehen,
+oben über ihren Köpfen ausgebreitet.
+<sup>23</sup>Unter der Himmelsfeste waren ihre Flügel gerade ausgestreckt,
+einer zum anderen hin.
+Jedes hatte zwei, die auf dieser Seite bedeckten,
+und jedes hatte zwei, die ihre Körper auf jener Seite bedeckten.
+<sup>24</sup>Wenn sie gingen, hörte ich das Rauschen ihrer Flügel
+wie das Rauschen großer Wasser,
+wie die Stimme des Allmächtigen,
+ein lautes Getöse wie das Lärmen eines Heerlagers.
+Wenn sie standen, ließen sie ihre Flügel sinken.
+<sup>25</sup>Eine Stimme kam von oberhalb der Himmelsfeste, die über ihren Köpfen war.
+Wenn sie standen, ließen sie ihre Flügel sinken.
+<sup>26</sup>Oberhalb der Himmelsfeste, die über ihren Köpfen war,
+war die Gestalt eines Thrones,
+anzusehen wie ein Saphirstein.
+Und auf der Gestalt des Thrones,
+oben darauf, war eine Gestalt, die aussah wie ein Mensch.
+<sup>27</sup>Ich sah es wie glühendes Metall,
+wie das Aussehen von Feuer, das es ringsum umgab,
+von seinen Hüften an aufwärts.
+Und von seinen Hüften an abwärts
+sah ich etwas wie das Aussehen von Feuer,
+und ringsum war ein Glanz.
+<sup>28</sup>Wie das Aussehen des Regenbogens,
+der an einem Regentag in den Wolken ist,
+so war das Aussehen des Glanzes ringsum.
+So sah die Gestalt der Herrlichkeit des HERRN aus.
+Als ich es sah, fiel ich auf mein Gesicht,
+und ich hörte die Stimme von einem, der redete.
+
+> **Was bedeutet das?**
+> Über den Wesen ist eine Art Kristalldecke, darüber ein Thron aus Saphir, und auf dem Thron eine Gestalt „wie ein Mensch“, umgeben von Feuer und Licht.
+> Vers 28: Hesekiel ist sehr vorsichtig mit seinen Worten. Er sagt nicht „Ich sah Gott“, sondern „So sah die Gestalt der Herrlichkeit des HERRN aus“. Gott ist zu groß, um ihn direkt zu beschreiben.
+> Der Regenbogen erinnert an Gottes Bund mit Noah (1. Mose 9,13). Mitten in Feuer und Sturm leuchtet ein Zeichen der Treue.
+> Hesekiel fällt auf sein Gesicht. Die Begegnung mit Gottes Heiligkeit überwältigt ihn.
+
+## Hesekiel – Kapitel 2
+#### Hesekiel wird gesandt
+
+---
+
+### Menschensohn, stell dich auf deine Füße (Vers 1–7)
+
+<sup>1</sup>Er sagte zu mir:
+„Menschensohn, stell dich auf deine Füße,
+und ich will mit dir reden.“
+<sup>2</sup>Da kam der Geist in mich, als er zu mir redete,
+und stellte mich auf meine Füße,
+und ich hörte den, der zu mir redete.
+<sup>3</sup>Er sagte zu mir:
+„Menschensohn, ich sende dich zu den Kindern Israel,
+zu einem Volk von Aufrührern, die sich gegen mich aufgelehnt haben.
+Sie und ihre Väter haben sich gegen mich vergangen
+bis zu diesem Tag.
+<sup>4</sup>Die Kinder sind frech und haben ein hartes Herz.
+Ich sende dich zu ihnen,
+und du sollst zu ihnen sagen:
+‚So spricht der Herr, der HERR.‘
+<sup>5</sup>Sie aber, ob sie hören oder es lassen
+– denn sie sind ein widerspenstiges Haus –,
+sie werden doch erkennen, dass ein Prophet unter ihnen gewesen ist.
+<sup>6</sup>Du aber, Menschensohn, fürchte dich nicht vor ihnen
+und fürchte dich nicht vor ihren Worten,
+auch wenn Disteln und Dornen bei dir sind
+und du unter Skorpionen wohnst.
+Fürchte dich nicht vor ihren Worten
+und erschrick nicht vor ihren Blicken,
+auch wenn sie ein widerspenstiges Haus sind.
+<sup>7</sup>Du sollst ihnen meine Worte sagen,
+ob sie hören oder es lassen,
+denn sie sind sehr widerspenstig.
+
+> **Was bedeutet das?**
+> Vers 1: Gott nennt Hesekiel „Menschensohn“ (hebräisch „ben adam“). Das heißt einfach „Mensch“. Im Buch Hesekiel kommt diese Anrede über 90 Mal vor. Sie zeigt, wie klein der Mensch vor Gott ist, und gleichzeitig, dass Gott mit diesem Menschen reden will. (Jesus nennt sich später selbst oft „Menschensohn“, in Anlehnung an Daniel 7,13.)
+> Vers 2: Hesekiel liegt auf dem Gesicht. Gottes Geist stellt ihn wieder auf die Füße. Gott selbst gibt ihm die Kraft, zu stehen.
+> Vers 5: Ob die Leute hören oder nicht, sie werden wissen: „Ein Prophet war unter uns.“ Hesekiels Aufgabe ist nicht, erfolgreich zu sein, sondern treu Gottes Wort weiterzugeben.
+> Vers 6: Die Menschen werden für ihn wie Dornen und Skorpione sein, schmerzhaft und gefährlich. Aber Gott sagt dreimal: „Fürchte dich nicht!“
+
+---
+
+### Die Schriftrolle (Vers 8–10)
+
+<sup>8</sup>Du aber, Menschensohn, höre, was ich dir sage.
+Sei nicht widerspenstig wie dieses widerspenstige Haus!
+Öffne deinen Mund und iss, was ich dir gebe!“
+<sup>9</sup>Als ich hinschaute, siehe, da war eine Hand zu mir ausgestreckt,
+und siehe, in ihr war eine Buchrolle.
+<sup>10</sup>Er breitete sie vor mir aus.
+Sie war innen und außen beschrieben,
+und darauf waren Klagelieder, Seufzen und Wehrufe geschrieben.
+
+> **Was bedeutet das?**
+> Gott gibt Hesekiel eine Schriftrolle. Normalerweise schrieb man nur auf eine Seite. Diese Rolle ist auf beiden Seiten beschrieben, so viel steht darauf. Und der Inhalt ist schwer: Klagen, Seufzen und Wehrufe. Das ist die Botschaft, die Hesekiel weitergeben soll: Gericht über Jerusalem.
+
+## Hesekiel – Kapitel 3
+#### Der Wächter
+
+---
+
+### Hesekiel isst die Schriftrolle (Vers 1–11)
+
+<sup>1</sup>Er sagte zu mir:
+„Menschensohn, iss, was du findest.
+Iss diese Rolle,
+und geh, rede zum Haus Israel!“
+<sup>2</sup>Da öffnete ich meinen Mund,
+und er gab mir die Rolle zu essen.
+<sup>3</sup>Er sagte zu mir:
+„Menschensohn, iss diese Rolle, die ich dir gebe,
+und fülle deinen Bauch und dein Inneres damit.“
+Da aß ich sie.
+Und sie war in meinem Mund so süß wie Honig.
+<sup>4</sup>Er sagte zu mir:
+„Menschensohn, geh zum Haus Israel
+und rede meine Worte zu ihnen.
+<sup>5</sup>Denn du bist nicht zu einem Volk mit fremder Sprache
+und schwerer Zunge gesandt,
+sondern zum Haus Israel,
+<sup>6</sup>nicht zu vielen Völkern mit fremder Sprache und schwerer Zunge,
+deren Worte du nicht verstehen kannst.
+Gewiss, wenn ich dich zu ihnen sendete,
+würden sie auf dich hören.
+<sup>7</sup>Aber das Haus Israel wird nicht auf dich hören wollen,
+denn sie wollen nicht auf mich hören.
+Denn das ganze Haus Israel hat eine harte Stirn und ein verstocktes Herz.
+<sup>8</sup>Siehe, ich habe dein Gesicht hart gemacht gegen ihre Gesichter
+und deine Stirn hart gegen ihre Stirn.
+<sup>9</sup>Ich habe deine Stirn wie einen Diamanten gemacht,
+härter als Kieselstein.
+Fürchte dich nicht vor ihnen
+und erschrick nicht vor ihren Blicken,
+auch wenn sie ein widerspenstiges Haus sind.“
+<sup>10</sup>Weiter sagte er zu mir:
+„Menschensohn, nimm alle meine Worte, die ich zu dir rede, in dein Herz auf
+und höre sie mit deinen Ohren.
+<sup>11</sup>Und geh zu den Verbannten,
+zu den Kindern deines Volkes,
+und rede zu ihnen und sag ihnen:
+‚So spricht der Herr, der HERR‘,
+ob sie hören oder es lassen.“
+
+> **Was bedeutet das?**
+> Vers 1–3: Hesekiel isst die Schriftrolle. Das ist ein Bild: Gottes Wort soll ganz in ihn hineingehen, ein Teil von ihm werden. Und obwohl der Inhalt bitter ist, schmeckt es „süß wie Honig“. Gottes Wort zu empfangen ist ein Geschenk, auch wenn die Botschaft schwer ist (vgl. Jeremia 15,16; Psalm 119,103; Offenbarung 10,9–10).
+> Vers 5–7: Eine traurige Ironie: Fremde Völker mit fremder Sprache würden auf Hesekiel hören. Aber sein eigenes Volk, das seine Sprache versteht, will nicht hören.
+> Vers 8–9: Weil das Volk eine „harte Stirn“ hat, macht Gott Hesekiels Stirn noch härter, „wie einen Diamanten“. Das ist ein Wortspiel mit seinem Namen: Hesekiel heißt „Gott macht stark“.
+
+---
+
+### Sieben Tage stumm (Vers 12–15)
+
+<sup>12</sup>Da hob mich der Geist empor,
+und ich hörte hinter mir das Getöse eines großen Brausens:
+„Gepriesen sei die Herrlichkeit des HERRN an ihrem Ort!“
+<sup>13</sup>Ich hörte das Rauschen der Flügel der lebendigen Wesen,
+wie sie einander berührten,
+und das Rauschen der Räder neben ihnen,
+das Getöse eines großen Brausens.
+<sup>14</sup>So hob mich der Geist empor und nahm mich weg,
+und ich ging dahin, voller Bitterkeit, in der Glut meines Geistes,
+und die Hand des HERRN lag schwer auf mir.
+<sup>15</sup>Dann kam ich zu den Verbannten in Tel-Abib,
+die am Fluss Kebar wohnten,
+dorthin, wo sie wohnten.
+Und ich saß dort sieben Tage lang verstört unter ihnen.
+
+> **Was bedeutet das?**
+> Vers 12: „Gepriesen sei die Herrlichkeit des HERRN an ihrem Ort!“ Dieser Satz ist Teil eines wichtigen jüdischen Gebets, der „Keduscha“, zusammen mit „Heilig, heilig, heilig“ aus Jesaja 6,3.
+> Vers 14: Hesekiel ist aufgewühlt und bitter. Die Begegnung mit Gott hat ihn erschüttert.
+> Vers 15: Tel-Abib (das WEB schreibt „Tel Aviv“) bedeutet „Ährenhügel“. Die heutige Stadt Tel Aviv in Israel (gegründet 1909) hat ihren Namen indirekt von hier: Die hebräische Übersetzung von Theodor Herzls Buch „Altneuland“ hieß „Tel Aviv“, und dieser Titel war aus diesem Vers genommen. Hesekiel sitzt sieben Tage stumm unter den Verbannten. Sieben Tage war die übliche Zeit der Trauer.
+
+---
+
+### Ich mache dich zum Wächter (Vers 16–21)
+
+<sup>16</sup>Nach sieben Tagen kam das Wort des HERRN zu mir:
+<sup>17</sup>„Menschensohn, ich habe dich zum Wächter für das Haus Israel gemacht.
+Darum höre das Wort aus meinem Mund
+und warne sie in meinem Auftrag.
+<sup>18</sup>Wenn ich zum Gottlosen sage: ‚Du musst sterben!‘,
+und du warnst ihn nicht
+und redest nicht, um den Gottlosen vor seinem gottlosen Weg zu warnen,
+um sein Leben zu retten,
+dann wird dieser Gottlose wegen seiner Schuld sterben,
+aber sein Blut werde ich von deiner Hand fordern.
+<sup>19</sup>Wenn du aber den Gottlosen warnst,
+und er kehrt nicht um von seiner Gottlosigkeit und von seinem gottlosen Weg,
+dann wird er wegen seiner Schuld sterben,
+du aber hast deine Seele gerettet.“
+<sup>20</sup>„Und wenn ein Gerechter sich von seiner Gerechtigkeit abwendet
+und Unrecht tut,
+und ich lege ihm einen Anstoß in den Weg,
+dann wird er sterben.
+Weil du ihn nicht gewarnt hast,
+wird er in seiner Sünde sterben,
+und seiner gerechten Taten, die er getan hat, wird nicht gedacht werden,
+aber sein Blut werde ich von deiner Hand fordern.
+<sup>21</sup>Wenn du aber den Gerechten warnst, dass der Gerechte nicht sündigt,
+und er sündigt nicht,
+dann wird er gewiss leben, weil er sich hat warnen lassen,
+und du hast deine Seele gerettet.“
+
+> **Was bedeutet das?**
+> Ein Wächter stand früher auf der Stadtmauer. Wenn er eine Gefahr sah, musste er Alarm schlagen. Wenn er schwieg, war er schuld am Unglück.
+> So soll Hesekiel ein „Wächter“ für sein Volk sein: Er soll warnen. Ob die Menschen hören, ist ihre Verantwortung. Aber wenn er nicht warnt, ist er mitverantwortlich.
+> Das ist auch eine Botschaft für heute: Wer Unrecht sieht und schweigt, trägt Mitverantwortung. Manchmal ist es unsere Aufgabe, Menschen ehrlich zu warnen, auch wenn es unbequem ist.
+
+---
+
+### Hesekiel wird stumm (Vers 22–27)
+
+<sup>22</sup>Die Hand des HERRN kam dort über mich,
+und er sagte zu mir:
+„Steh auf, geh hinaus in die Ebene,
+und dort will ich mit dir reden.“
+<sup>23</sup>Da stand ich auf und ging hinaus in die Ebene,
+und siehe, die Herrlichkeit des HERRN stand dort,
+wie die Herrlichkeit, die ich am Fluss Kebar gesehen hatte.
+Da fiel ich auf mein Gesicht.
+<sup>24</sup>Da kam der Geist in mich und stellte mich auf meine Füße.
+Er redete mit mir und sagte zu mir:
+„Geh, schließ dich in deinem Haus ein!
+<sup>25</sup>Du aber, Menschensohn,
+siehe, man wird dir Stricke anlegen und dich damit fesseln,
+und du wirst nicht unter sie hinausgehen können.
+<sup>26</sup>Ich werde deine Zunge an deinem Gaumen kleben lassen,
+sodass du stumm sein wirst
+und sie nicht zurechtweisen kannst,
+denn sie sind ein widerspenstiges Haus.
+<sup>27</sup>Aber wenn ich mit dir rede,
+werde ich deinen Mund öffnen,
+und du sollst zu ihnen sagen:
+‚So spricht der Herr, der HERR.‘
+Wer hören will, der höre,
+und wer es lässt, der lasse es,
+denn sie sind ein widerspenstiges Haus.“
+
+> **Was bedeutet das?**
+> Hesekiel soll sich in seinem Haus einschließen und stumm sein. Er darf nur reden, wenn Gott ihm etwas zu sagen gibt. So wird deutlich: Hesekiel redet nicht seine eigenen Gedanken, sondern nur Gottes Wort.
+> Diese Stummheit dauert bis zur Zerstörung Jerusalems (vgl. 24,27; 33,22).
+> Vers 27: „Wer hören will, der höre.“ Jesus sagt etwas Ähnliches: „Wer Ohren hat zu hören, der höre!“ (Matthäus 13,9).
