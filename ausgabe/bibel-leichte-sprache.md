@@ -111578,3 +111578,306 @@ und er spuckte Jona auf das trockene Land aus.
 > **Was bedeutet das?**
 > Der Fisch gehorcht Gott sofort. Im ganzen Buch gehorchen alle Gott: der Wind, das Meer, der Fisch, die Seeleute, später die Leute von Ninive. Nur einer tut sich schwer: der Prophet selbst.
 > Jona bekommt eine zweite Chance. Davon erzählt Kapitel 3.
+
+## Jona – Kapitel 3
+#### Ninive kehrt um
+
+---
+
+### Die zweite Chance (Vers 1–4)
+
+<sup>1</sup>Das Wort des HERRN erging zum zweiten Mal an Jona:
+<sup>2</sup>„Steh auf, geh nach Ninive, in die große Stadt,
+und predige ihr die Botschaft, die ich dir sage.“
+<sup>3</sup>Da stand Jona auf und ging nach Ninive,
+wie der HERR es gesagt hatte.
+Ninive war eine sehr große Stadt,
+drei Tagesreisen weit.
+<sup>4</sup>Jona fing an, in die Stadt hineinzugehen,
+eine Tagesreise weit,
+und er rief und sagte:
+„Noch vierzig Tage, dann wird Ninive zerstört!“
+
+> **Was bedeutet das?**
+> Vers 1: „Zum zweiten Mal.“ Gott gibt Jona eine zweite Chance. Er gibt Menschen nicht auf, auch nicht, wenn sie weggelaufen sind.
+> Diesmal gehorcht Jona.
+> Vers 3: „Drei Tagesreisen“: Ninive war riesig. Vielleicht ist damit die ganze Gegend mit den umliegenden Orten gemeint, oder die Zeit, die man brauchte, um alle Straßen und Plätze zu besuchen.
+> Vers 4: Jonas Predigt ist sehr kurz. Im Hebräischen sind es nur fünf Wörter. Kein Wort von Umkehr oder Gnade, nur die Ankündigung der Zerstörung.
+
+---
+
+### Die ganze Stadt kehrt um (Vers 5–9)
+
+<sup>5</sup>Die Leute von Ninive glaubten Gott.
+Sie riefen ein Fasten aus
+und zogen Sacktuch an,
+vom Größten bis zum Kleinsten.
+<sup>6</sup>Die Nachricht erreichte den König von Ninive.
+Er stand von seinem Thron auf,
+legte seinen Königsmantel ab,
+hüllte sich in Sacktuch
+und setzte sich in die Asche.
+<sup>7</sup>Er ließ in Ninive ausrufen und bekanntmachen,
+auf Befehl des Königs und seiner Großen:
+„Weder Mensch noch Tier, weder Rinder noch Schafe
+sollen irgendetwas kosten.
+Sie sollen nicht weiden
+und kein Wasser trinken.
+<sup>8</sup>Sondern sie sollen sich in Sacktuch hüllen,
+Mensch und Tier,
+und sie sollen mit aller Kraft zu Gott rufen.
+Ja, jeder soll umkehren von seinem bösen Weg
+und von der Gewalt, die an seinen Händen ist.
+<sup>9</sup>Wer weiß, vielleicht wendet sich Gott um
+und lässt es sich leid sein
+und wendet sich ab von seinem glühenden Zorn,
+sodass wir nicht umkommen?“
+
+> **Was bedeutet das?**
+> Etwas Unerwartetes geschieht: Die ganze Stadt glaubt Gott und kehrt um. Vom Ärmsten bis zum König.
+> Sacktuch und Asche waren Zeichen von Trauer und Reue.
+> Vers 7–8: Sogar die Tiere sollen fasten und Sacktuch tragen. Das klingt für uns ungewöhnlich, ja fast komisch. Es zeigt, wie ernst es der ganzen Stadt ist.
+> Vers 8: Der König nennt das eigentliche Problem: „die Gewalt, die an seinen Händen ist“. Umkehr bedeutet nicht nur fasten und beten, sondern auch: aufhören mit dem Unrecht.
+> Vers 9: „Wer weiß?“ Der König hat keine Garantie. Er hofft einfach auf Gottes Barmherzigkeit.
+> Jesus sagt später: Die Leute von Ninive haben auf die Predigt Jonas hin umgekehrt (Matthäus 12,41).
+
+---
+
+### Gott hat Erbarmen (Vers 10)
+
+<sup>10</sup>Gott sah ihre Taten,
+dass sie von ihrem bösen Weg umkehrten.
+Da reute Gott das Unheil, das er ihnen angekündigt hatte,
+und er tat es nicht.
+
+> **Was bedeutet das?**
+> Gott sieht die Umkehr der Menschen und verschont die Stadt.
+> Das zeigt: Gottes Gerichtsworte sind oft Warnungen. Sie sollen Menschen zur Umkehr bringen. Wenn Menschen umkehren, ist Gott bereit, das Unheil nicht kommen zu lassen (vgl. Jeremia 18,7–8).
+> Gott „ändert seine Meinung“ nicht aus Laune. Er bleibt sich treu: Er ist barmherzig und will, dass Menschen leben.
+> Bemerkenswert: Es sind die Feinde Israels, die hier umkehren. Gottes Barmherzigkeit gilt auch ihnen.
+
+## Jona – Kapitel 4
+#### Jona ist zornig, und Gott hat Mitleid
+
+---
+
+### Jona ärgert sich über Gottes Gnade (Vers 1–4)
+
+<sup>1</sup>Aber das missfiel Jona sehr,
+und er wurde zornig.
+<sup>2</sup>Er betete zum HERRN und sagte:
+„Ach, HERR, habe ich das nicht gesagt,
+als ich noch in meinem Land war?
+Darum bin ich ja schnell nach Tarschisch geflohen.
+Denn ich wusste, dass du ein gnädiger und barmherziger Gott bist,
+langsam zum Zorn und reich an Güte,
+und dass dich das Unheil reut.
+<sup>3</sup>Darum nimm doch jetzt, HERR, mein Leben von mir,
+denn es ist besser für mich zu sterben als zu leben.“
+<sup>4</sup>Der HERR sagte:
+„Ist es recht, dass du zornig bist?“
+
+> **Was bedeutet das?**
+> Jetzt erfahren wir endlich, warum Jona geflohen ist. Nicht aus Angst vor den Assyrern, sondern weil er wusste: Gott ist barmherzig. Er wird ihnen vergeben, wenn sie umkehren. Und das wollte Jona nicht. Die Feinde sollten bestraft werden!
+> Vers 2: Jona zitiert ein altes Bekenntnis über Gott (2. Mose 34,6; Joel 2,13). Das Schöne daran: Er beschwert sich über genau das, was an Gott am wunderbarsten ist.
+> Vers 3: Jona will lieber sterben, als zu sehen, dass Gott seine Feinde verschont. Er ist bitter und verzweifelt.
+> Vers 4: Gott schimpft nicht. Er stellt eine Frage: „Ist es recht, dass du zornig bist?“ Er lädt Jona ein, nachzudenken.
+> Wenn du selbst Gedanken hast, dass du lieber sterben willst: Du bist nicht allein. Sprich mit jemandem. Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222. Im Notfall: 112.
+
+---
+
+### Die Staude und der Wurm (Vers 5–9)
+
+<sup>5</sup>Da ging Jona aus der Stadt hinaus
+und setzte sich östlich der Stadt.
+Dort machte er sich eine Hütte
+und setzte sich darunter in den Schatten,
+bis er sähe, was mit der Stadt geschehen würde.
+<sup>6</sup>Der HERR, Gott, bestellte eine Staude
+und ließ sie über Jona emporwachsen,
+damit sie Schatten über seinem Kopf gäbe
+und ihn von seinem Unbehagen befreite.
+Und Jona freute sich sehr über die Staude.
+<sup>7</sup>Aber Gott bestellte einen Wurm,
+als die Morgenröte am nächsten Tag aufging.
+Der stach die Staude an,
+sodass sie verdorrte.
+<sup>8</sup>Als die Sonne aufging,
+bestellte Gott einen schwülen Ostwind,
+und die Sonne stach Jona auf den Kopf,
+sodass er ganz matt wurde.
+Er wünschte sich zu sterben
+und sagte: „Es ist besser für mich zu sterben als zu leben.“
+<sup>9</sup>Gott sagte zu Jona:
+„Ist es recht, dass du zornig bist wegen der Staude?“
+Er sagte:
+„Ich bin mit Recht zornig, bis zum Tod.“
+
+> **Was bedeutet das?**
+> Jona wartet vor der Stadt. Vielleicht hofft er immer noch, dass Gott die Stadt doch zerstört.
+> Gott „bestellt“ wieder etwas, wie den Fisch in Kapitel 1: diesmal eine Staude (eine schnell wachsende Pflanze; welche genau gemeint ist, ist unsicher, oft denkt man an den Rizinus), dann einen Wurm und einen heißen Wind.
+> Jona freut sich sehr über den Schatten. Das ist das einzige Mal im Buch, dass er sich freut. Dann verdorrt die Pflanze, und Jona ist wieder verzweifelt.
+> Gott benutzt die Pflanze als Lehrstück. Gleich kommt die Erklärung.
+
+---
+
+### Sollte ich nicht Mitleid haben? (Vers 10–11)
+
+<sup>10</sup>Der HERR sagte:
+„Dir tut es leid um die Staude,
+um die du dich nicht gemüht hast
+und die du nicht großgezogen hast,
+die in einer Nacht entstand
+und in einer Nacht verging.
+<sup>11</sup>Und mir sollte es nicht leidtun um Ninive, die große Stadt,
+in der mehr als hundertzwanzigtausend Menschen sind,
+die nicht zwischen ihrer rechten und ihrer linken Hand unterscheiden können,
+und dazu viele Tiere?“
+
+> **Was bedeutet das?**
+> Gottes Antwort ist ein Vergleich: Jona, dir tut eine Pflanze leid, für die du nichts getan hast. Sollte mir dann nicht eine ganze Stadt voller Menschen leidtun, die ich geschaffen habe?
+> „Die nicht zwischen rechts und links unterscheiden können“: Vielleicht sind damit Kinder gemeint, oder Menschen, die es nicht besser wissen. Gott sieht sie mit Erbarmen an.
+> „Und dazu viele Tiere“: Gott sorgt sich sogar um die Tiere.
+> Das Buch endet mit einer Frage. Wir erfahren nicht, was Jona geantwortet hat. Die Frage richtet sich an uns Leser: Gönnen wir Gottes Barmherzigkeit auch den Menschen, die wir nicht mögen, auch unseren Feinden?
+
+---
+
+### Rückblick: Was haben wir im Buch Jona gelesen?
+
+> **Was bedeutet das?**
+> **Ein Prophet läuft weg:** Jona soll nach Ninive, in die Hauptstadt der Feinde, und flieht in die andere Richtung (Kapitel 1).
+> **Man kann vor Gott nicht fliehen:** Sturm, Los, Meer, der große Fisch: Gott lässt Jona nicht los, aber er lässt ihn auch nicht untergehen.
+> **Gebet aus der Tiefe:** Im Bauch des Fisches betet Jona: „Die Rettung gehört dem HERRN“ (2,9).
+> **Eine zweite Chance:** Gott ruft Jona ein zweites Mal (3,1).
+> **Die Feinde kehren um:** Die heidnischen Seeleute und die ganze Stadt Ninive wenden sich Gott zu. Und Gott hat Erbarmen.
+> **Gottes Barmherzigkeit ärgert Jona:** „Ich wusste, dass du ein gnädiger und barmherziger Gott bist“ (4,2).
+> **Gott liebt alle Menschen:** „Sollte es mir nicht leidtun um Ninive, die große Stadt?“ (4,11). Gottes Liebe gilt allen Völkern, sogar den Feinden.
+> **Jona und Jesus:** Jesus spricht vom „Zeichen des Jona“: Wie Jona drei Tage im Fisch war, wird er drei Tage im Grab sein (Matthäus 12,39–41).
+> **Für heute:** Wem gönne ich Gottes Gnade nicht? Wo laufe ich vor dem davon, was Gott von mir will? Und: Gott gibt zweite Chancen, auch mir.
+> **Wie geht es weiter?** Als Nächstes kommt Micha. Er lebte zur Zeit Jesajas und trat für die Armen ein. Von ihm stammt der berühmte Satz: „Es ist dir gesagt, Mensch, was gut ist“ (Micha 6,8). Und er kündigt an, dass aus Bethlehem ein Herrscher kommen wird (Micha 5,2).
+
+
+---
+
+# Micha
+
+## Micha – Kapitel 1
+#### Gott kommt zum Gericht
+
+---
+
+### Bevor es losgeht: Wer war Micha?
+
+Micha kam aus Moreschet, einem kleinen Ort im Hügelland von Juda, südwestlich von Jerusalem. Er lebte im 8. Jahrhundert vor Christus, zur selben Zeit wie Jesaja, Hosea und Amos.
+Sein Name bedeutet: „Wer ist wie der HERR?“ Am Ende des Buches spielt er darauf an (7,18).
+Micha war ein Mann vom Land. Er sah, wie reiche Großgrundbesitzer den Bauern ihre Felder wegnahmen und wie Richter, Priester und Propheten sich bestechen ließen. Wie Amos kämpft er für soziale Gerechtigkeit.
+Er kündigt den Untergang von Samaria (der Hauptstadt des Nordreichs) und sogar von Jerusalem an. Hundert Jahre später erinnerte man sich noch an seine Worte (Jeremia 26,18).
+Aber Micha bringt auch große Hoffnung: Frieden für die Völker, wenn Schwerter zu Pflugscharen werden (4,3), und einen neuen Herrscher aus Bethlehem (5,2).
+Am bekanntesten ist sein Satz: „Es ist dir gesagt, Mensch, was gut ist … Recht tun, Güte lieben und demütig gehen mit deinem Gott“ (6,8). Das Buch hat 7 Kapitel.
+
+---
+
+### Der HERR kommt (Vers 1–4)
+
+<sup>1</sup>Das Wort des HERRN, das an Micha aus Moreschet erging
+in den Tagen Jotams, Ahas’ und Hiskijas, der Könige von Juda,
+das er schaute über Samaria und Jerusalem.
+<sup>2</sup>Hört, ihr Völker alle!
+Horch auf, Erde, und alles, was darin ist!
+Der Herr, der HERR, sei Zeuge gegen euch,
+der Herr aus seinem heiligen Tempel.
+<sup>3</sup>Denn siehe, der HERR kommt aus seinem Ort hervor.
+Er wird herabkommen
+und auf die Höhen der Erde treten.
+<sup>4</sup>Die Berge schmelzen unter ihm,
+und die Täler spalten sich
+wie Wachs vor dem Feuer,
+wie Wasser, das einen steilen Hang hinabstürzt.
+
+> **Was bedeutet das?**
+> Micha beginnt wie in einem Gerichtssaal: Alle Völker und die ganze Erde sollen zuhören. Gott selbst tritt als Zeuge auf.
+> Vers 3–4: Gott kommt aus seinem himmlischen Tempel herab. Die Berge schmelzen wie Wachs. Das ist bildhafte Sprache. Sie zeigt: Vor Gottes Macht kann nichts bestehen, auch nicht das, was am festesten scheint.
+
+---
+
+### Samaria und Jerusalem (Vers 5–7)
+
+<sup>5</sup>„Das alles geschieht wegen des Ungehorsams Jakobs
+und wegen der Sünden des Hauses Israel.
+Was ist der Ungehorsam Jakobs?
+Ist es nicht Samaria?
+Und was sind die Höhen Judas?
+Sind es nicht Jerusalem?
+<sup>6</sup>Darum werde ich Samaria zu einem Trümmerhaufen auf dem Feld machen,
+zu einem Ort, an dem man Weinberge pflanzt.
+Ich werde ihre Steine ins Tal hinabstürzen
+und ihre Fundamente freilegen.
+<sup>7</sup>Alle ihre Götzenbilder werden zerschlagen,
+alle ihre Tempelgaben mit Feuer verbrannt,
+und alle ihre Bilder werde ich verwüsten.
+Denn vom Lohn einer Hure hat sie sie gesammelt,
+und zum Lohn einer Hure sollen sie wieder werden.“
+
+> **Was bedeutet das?**
+> Vers 5: Die Schuld liegt in den Hauptstädten: in Samaria (Nordreich) und Jerusalem (Südreich). Dort wohnten die Mächtigen, die Könige und die Reichen. Von dort ging das Unrecht aus.
+> „Die Höhen“ waren Kultorte, an denen oft auch Götzen verehrt wurden.
+> Vers 6: Samaria wird so gründlich zerstört, dass dort nur noch Weinberge angelegt werden. Das geschah im Jahr 722 vor Christus durch die Assyrer.
+> Vers 7: Wie bei Hosea wird der Götzendienst mit Prostitution verglichen. Die Reichtümer der Götzentempel wurden durch Untreue gegenüber Gott gewonnen. Und sie werden wieder an Fremde gehen, wenn die Feinde sie erbeuten. Das ist ein Bild für religiöse Untreue, keine Aussage über Frauen.
+
+---
+
+### Micha klagt (Vers 8–9)
+
+<sup>8</sup>Darum will ich klagen und heulen.
+Ich will entblößt und nackt gehen.
+Ich will heulen wie die Schakale
+und trauern wie die Strauße.
+<sup>9</sup>Denn ihre Wunden sind unheilbar.
+Denn es ist bis nach Juda gekommen.
+Es reicht bis an das Tor meines Volkes,
+bis nach Jerusalem.
+
+> **Was bedeutet das?**
+> Micha verkündet das Gericht nicht kalt und hart. Er weint und klagt um sein Volk. Er zeigt seine Trauer öffentlich, indem er barfuß und ohne Obergewand geht, wie ein Gefangener (vgl. Jesaja 20,2–4).
+> Schakale und Strauße stoßen in der Nacht klagende Laute aus.
+> Vers 9: Das Unheil, das Samaria trifft, kommt auch bis vor die Tore Jerusalems. Im Jahr 701 vor Christus stand das assyrische Heer tatsächlich vor Jerusalem (2. Könige 18–19).
+
+---
+
+### Eine Klage über die Städte Judas (Vers 10–16)
+
+<sup>10</sup>Erzählt es nicht in Gat.
+Weint überhaupt nicht.
+In Bet-Afra habe ich mich im Staub gewälzt.
+<sup>11</sup>Zieh weiter, Bewohnerin von Schafir,
+in Nacktheit und Schande.
+Die Bewohnerin von Zaanan wird nicht herauskommen.
+Die Klage von Bet-Ezel wird euch seinen Schutz nehmen.
+<sup>12</sup>Denn die Bewohnerin von Marot wartet sehnsüchtig auf Gutes,
+denn Unheil ist vom HERRN herabgekommen
+bis an das Tor Jerusalems.
+<sup>13</sup>Spanne das Pferd vor den Wagen,
+Bewohnerin von Lachisch!
+Sie war der Anfang der Sünde für die Tochter Zion,
+denn bei dir wurden die Vergehen Israels gefunden.
+<sup>14</sup>Darum wirst du Moreschet-Gat ein Abschiedsgeschenk geben.
+Die Häuser von Achsib werden den Königen Israels zur Täuschung werden.
+<sup>15</sup>Ich werde wieder einen Eroberer über dich bringen,
+Bewohnerin von Marescha.
+Die Herrlichkeit Israels wird bis nach Adullam kommen.
+<sup>16</sup>Schere dir eine Glatze und schneide dir die Haare ab
+um der Kinder willen, an denen du Freude hattest.
+Mach deine Glatze so breit wie die des Geiers,
+denn sie sind von dir weg in die Gefangenschaft gezogen!
+
+> **Was bedeutet das?**
+> Hier zählt Micha viele kleine Städte in seiner Heimat auf, die vom Krieg getroffen werden. Im Hebräischen sind das Wortspiele mit den Ortsnamen, die man kaum übersetzen kann. Zum Beispiel:
+> „Bet-Afra“ klingt wie „Staubhausen“: Dort wälzt man sich im Staub.
+> „Schafir“ bedeutet „schön“: Die Schöne muss nackt und in Schande fortziehen.
+> „Marot“ klingt wie „bitter“: Dort wartet man auf Gutes, aber es kommt Bitteres.
+> „Lachisch“ klingt wie das Wort für „Pferdegespann“: Spannt die Pferde an, um zu fliehen! Lachisch war eine wichtige Festungsstadt, in der viele Streitwagen standen. Vielleicht ist das mit der „Sünde“ gemeint: das Vertrauen auf militärische Macht statt auf Gott.
+> „Achsib“ klingt wie „Täuschung“: Die Stadt wird die Könige enttäuschen.
+> Vers 10: „Erzählt es nicht in Gat“: Die Feinde (Gat war eine Philisterstadt) sollen sich nicht freuen. Ähnlich hatte David um Saul geklagt (2. Samuel 1,20).
+> Vers 15: Adullam ist eine Höhle, in der sich David einst versteckt hatte (1. Samuel 22,1). Die „Herrlichkeit Israels“, also die Führenden, müssen sich wieder verstecken wie damals David auf der Flucht.
+> Vers 16: Eltern trauern um ihre Kinder, die in die Gefangenschaft geführt werden. Sich die Haare abzuschneiden war ein Zeichen tiefer Trauer.
+> Viele der hier genannten Städte wurden im Jahr 701 vor Christus vom assyrischen König Sanherib erobert.
