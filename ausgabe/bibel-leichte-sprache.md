@@ -100293,3 +100293,307 @@ spricht der Herr, der HERR.‘“
 > Vers 27: „Vielleicht passiert es irgendwann, aber nicht zu unserer Zeit.“
 > Gott antwortet: Mein Wort wird sich erfüllen, und zwar bald, „in euren Tagen“. Tatsächlich wurde Jerusalem wenige Jahre später zerstört.
 > Auch heute schieben Menschen Warnungen gern weg: „Wird schon nicht so schlimm“ oder „Betrifft mich nicht“. Der Text erinnert: Es ist klug, Warnungen ernst zu nehmen und rechtzeitig umzukehren (vgl. 2. Petrus 3,9).
+
+## Hesekiel – Kapitel 13
+#### Falsche Propheten
+
+---
+
+### Wehe den törichten Propheten (Vers 1–9)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, weissage gegen die Propheten Israels, die weissagen,
+und sag zu denen, die aus ihrem eigenen Herzen weissagen:
+‚Hört das Wort des HERRN!
+<sup>3</sup>So spricht der Herr, der HERR:
+„Wehe den törichten Propheten,
+die ihrem eigenen Geist folgen
+und nichts gesehen haben!
+<sup>4</sup>Israel, deine Propheten sind wie Füchse in den Trümmern gewesen.
+<sup>5</sup>Ihr seid nicht in die Breschen getreten
+und habt keine Mauer um das Haus Israel gebaut,
+um im Kampf standzuhalten am Tag des HERRN.
+<sup>6</sup>Sie haben Falsches gesehen und lügnerische Wahrsagung,
+sie, die sagen: ‚So spricht der HERR‘,
+aber der HERR hat sie nicht gesandt.
+Und sie haben die Menschen hoffen lassen,
+dass das Wort sich erfüllen würde.
+<sup>7</sup>Habt ihr nicht eine falsche Vision gesehen
+und eine lügnerische Wahrsagung ausgesprochen,
+indem ihr sagt: ‚So spricht der HERR‘,
+obwohl ich nicht geredet habe?“
+<sup>8</sup>Darum spricht der Herr, der HERR:
+„Weil ihr Falsches geredet und Lügen gesehen habt,
+darum, siehe, bin ich gegen euch“,
+spricht der Herr, der HERR.
+<sup>9</sup>„Meine Hand wird gegen die Propheten sein,
+die falsche Visionen sehen und lügnerische Wahrsagungen aussprechen.
+Sie werden nicht im Rat meines Volkes sein,
+sie werden nicht in das Verzeichnis des Hauses Israel eingeschrieben werden,
+und sie werden nicht in das Land Israel kommen.
+Dann werdet ihr erkennen, dass ich der Herr, der HERR, bin.“
+
+> **Was bedeutet das?**
+> Es gab damals viele Propheten. Manche sagten nur, was die Leute hören wollten. Sie redeten „aus ihrem eigenen Herzen“, also ihre eigenen Wünsche und Ideen, und behaupteten dann: „So spricht der HERR.“
+> Vers 4: „Füchse in den Trümmern“ – Füchse suchen sich in Ruinen ein bequemes Plätzchen, aber sie bauen nichts auf. So sind die falschen Propheten: Sie nutzen die Krise für sich selbst.
+> Vers 5: Ein echter Prophet hätte sich „in die Bresche“ gestellt, also in die Lücke einer kaputten Mauer, um das Volk zu schützen. Er hätte die Menschen zur Umkehr gerufen.
+> Vers 9: Die falschen Propheten werden nicht im „Verzeichnis“ (wie einer Bürgerliste) des Volkes stehen. Sie gehören nicht mehr dazu.
+> Heute gilt: Nicht jeder, der „im Namen Gottes“ redet, sagt die Wahrheit. Es ist gut, kritisch zu prüfen (vgl. 1. Johannes 4,1).
+
+---
+
+### Die übertünchte Mauer (Vers 10–16)
+
+<sup>10</sup>Darum, ja darum, weil sie mein Volk verführt haben,
+indem sie sagen: „Friede!“,
+und es gibt keinen Frieden.
+Wenn einer eine Mauer baut,
+siehe, dann bestreichen sie sie mit Tünche.
+<sup>11</sup>Sag denen, die sie mit Tünche bestreichen,
+dass sie einstürzen wird.
+Es wird ein Platzregen kommen,
+und ihr, große Hagelsteine, werdet fallen,
+und ein Sturmwind wird sie zerreißen.
+<sup>12</sup>Siehe, wenn die Mauer eingestürzt ist,
+wird man euch dann nicht fragen:
+„Wo ist nun die Tünche, mit der ihr sie bestrichen habt?“
+<sup>13</sup>Darum spricht der Herr, der HERR:
+„Ich werde sie zerreißen mit einem Sturmwind in meinem Grimm.
+Es wird ein Platzregen in meinem Zorn kommen
+und große Hagelsteine im Grimm, um sie zu vernichten.
+<sup>14</sup>So werde ich die Mauer niederreißen, die ihr mit Tünche bestrichen habt,
+und sie bis auf den Boden niederwerfen,
+sodass ihr Fundament freigelegt wird.
+Sie wird einstürzen,
+und ihr werdet mitten darin umkommen.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+<sup>15</sup>So werde ich meinen Grimm vollenden an der Mauer
+und an denen, die sie mit Tünche bestrichen haben.
+Und ich werde euch sagen:
+‚Die Mauer ist nicht mehr,
+und die sie bestrichen haben, auch nicht mehr –
+<sup>16</sup>nämlich die Propheten Israels, die über Jerusalem weissagen
+und Visionen des Friedens für die Stadt sehen,
+und es gibt keinen Frieden‘“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Vers 10: „Friede, Friede!“, sagen die falschen Propheten, „alles wird gut“. Aber es gibt keinen Frieden. (Jeremia sagt dasselbe: Jeremia 6,14; 8,11.)
+> Das Bild: Das Volk baut eine wacklige Mauer, also eine unsichere Hoffnung. Die falschen Propheten streichen sie schön weiß an, damit sie stabil aussieht. Aber wenn der Sturm kommt, fällt sie trotzdem um. Schöne Farbe macht eine schlechte Mauer nicht stärker.
+> Heute würde man sagen: Probleme „schönreden“ oder „übertünchen“ löst sie nicht. Ehrlichkeit ist besser als falscher Trost.
+> Vgl. auch Jesus: das Haus auf Sand und das Haus auf Fels (Matthäus 7,24–27).
+
+---
+
+### Gegen die falschen Prophetinnen (Vers 17–23)
+
+<sup>17</sup>Du, Menschensohn, richte dein Gesicht gegen die Töchter deines Volkes,
+die aus ihrem eigenen Herzen weissagen,
+und weissage gegen sie
+<sup>18</sup>und sag:
+„So spricht der Herr, der HERR:
+‚Wehe den Frauen, die Zauberbinden nähen für alle Handgelenke
+und Schleier machen für den Kopf von Menschen jeder Größe,
+um Seelen zu jagen!
+Wollt ihr die Seelen meines Volkes jagen
+und Seelen für euch selbst am Leben erhalten?
+<sup>19</sup>Ihr habt mich unter meinem Volk entweiht
+für ein paar Handvoll Gerste und für Brocken Brot,
+um Seelen zu töten, die nicht sterben sollten,
+und Seelen am Leben zu erhalten, die nicht leben sollten,
+durch eure Lügen gegenüber meinem Volk, das auf Lügen hört.‘
+<sup>20</sup>Darum spricht der Herr, der HERR:
+‚Siehe, ich bin gegen eure Zauberbinden,
+mit denen ihr die Seelen jagt, als wären sie Vögel,
+und ich werde sie von euren Armen reißen.
+Ich werde die Seelen frei fliegen lassen,
+die Seelen, die ihr wie Vögel fangt.
+<sup>21</sup>Ich werde auch eure Schleier zerreißen
+und mein Volk aus eurer Hand retten,
+und sie werden nicht mehr in eurer Hand sein, um gefangen zu werden.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+<sup>22</sup>Denn mit Lügen habt ihr das Herz des Gerechten betrübt,
+den ich nicht betrübt habe,
+und ihr habt die Hände des Gottlosen gestärkt,
+sodass er nicht von seinem gottlosen Weg umkehrt
+und am Leben bleibt.
+<sup>23</sup>Darum sollt ihr keine falschen Visionen mehr sehen
+und keine Wahrsagerei mehr treiben.
+Ich werde mein Volk aus eurer Hand retten.
+Dann werdet ihr erkennen, dass ich der HERR bin.‘“
+
+> **Was bedeutet das?**
+> Neben falschen Propheten gab es auch Frauen, die mit Zauberei und Wahrsagerei arbeiteten. Mit Zauberbändern und Schleiern machten sie Menschen Angst oder falsche Hoffnung und ließen sich dafür bezahlen. Was genau die Bänder und Schleier waren, weiß man heute nicht mehr sicher.
+> Wichtig: Kritisiert werden sie nicht, weil sie Frauen sind, sondern weil sie lügen und Menschen manipulieren. Die Bibel kennt viele echte Prophetinnen, zum Beispiel Mirjam (2. Mose 15,20), Debora (Richter 4,4) und Hulda (2. Könige 22,14). Die männlichen falschen Propheten werden genauso hart kritisiert (Vers 1–16).
+> Vers 19: „Für ein paar Handvoll Gerste“ – sie verkaufen Gottes Namen für einen kleinen Gewinn.
+> Vers 22: Das Schlimmste: Sie machen gute Menschen traurig und ermutigen böse Menschen, weiterzumachen. Das ist genau das Gegenteil von dem, was Gott will.
+> Vers 20–21: Gott selbst befreit die Menschen aus diesen Fallen. Auch heute gibt es Menschen, die andere mit Angst, „Flüchen“ oder falschen Versprechen manipulieren und Geld damit verdienen. Gott will, dass Menschen frei sind.
+
+## Hesekiel – Kapitel 14
+#### Noah, Daniel und Hiob
+
+---
+
+### Götzen im Herzen (Vers 1–11)
+
+<sup>1</sup>Da kamen einige von den Ältesten Israels zu mir
+und setzten sich vor mich.
+<sup>2</sup>Das Wort des HERRN kam zu mir:
+<sup>3</sup>„Menschensohn, diese Männer haben ihre Götzen in ihr Herz geschlossen
+und den Anstoß zu ihrer Schuld vor ihr Gesicht gestellt.
+Sollte ich mich überhaupt von ihnen befragen lassen?
+<sup>4</sup>Darum rede zu ihnen und sag ihnen:
+‚So spricht der Herr, der HERR:
+„Jeder Mann aus dem Haus Israel,
+der seine Götzen in sein Herz schließt
+und den Anstoß zu seiner Schuld vor sein Gesicht stellt
+und dann zum Propheten kommt,
+dem werde ich, der HERR, dort selbst antworten,
+entsprechend der Menge seiner Götzen,
+<sup>5</sup>damit ich das Haus Israel bei ihrem eigenen Herzen packe,
+weil sie sich alle durch ihre Götzen von mir entfremdet haben.“‘
+<sup>6</sup>Darum sag zum Haus Israel:
+‚So spricht der Herr, der HERR:
+„Kehrt um und wendet euch ab von euren Götzen!
+Wendet eure Gesichter ab von all euren Gräueln!
+<sup>7</sup>Denn jeder aus dem Haus Israel
+oder von den Fremden, die in Israel wohnen,
+der sich von mir trennt,
+seine Götzen in sein Herz schließt,
+den Anstoß zu seiner Schuld vor sein Gesicht stellt
+und zum Propheten kommt, um mich für sich zu befragen,
+dem werde ich, der HERR, selbst antworten.
+<sup>8</sup>Ich werde mein Gesicht gegen diesen Mann richten
+und ihn zu einem Entsetzen machen,
+zu einem Zeichen und einem Sprichwort,
+und ich werde ihn aus meinem Volk ausrotten.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+<sup>9</sup>Wenn der Prophet sich täuschen lässt und ein Wort redet,
+dann habe ich, der HERR, diesen Propheten getäuscht,
+und ich werde meine Hand gegen ihn ausstrecken
+und ihn aus meinem Volk Israel vertilgen.
+<sup>10</sup>Sie werden ihre Schuld tragen.
+Die Schuld des Propheten wird sein wie die Schuld dessen, der ihn befragt,
+<sup>11</sup>damit das Haus Israel nicht mehr von mir abirrt
+und sich nicht mehr mit all seinen Übertretungen verunreinigt,
+sondern damit sie mein Volk sind
+und ich ihr Gott bin“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Die Ältesten kommen zu Hesekiel, um Gott zu befragen. Äußerlich wirken sie fromm. Aber in ihrem Herzen hängen sie an Götzen.
+> „Götzen im Herzen“ – das muss keine Figur aus Holz oder Stein sein. Ein Götze ist alles, was uns wichtiger ist als Gott: Geld, Macht, Erfolg, Ansehen. Man kann einen Götzen im Herzen haben, auch wenn man nach außen fromm aussieht.
+> Vers 6: Mitten in der harten Rede steht der Ruf: „Kehrt um!“ Gott will nicht strafen, sondern dass Menschen zurückkommen.
+> Vers 9: Ein schwieriger Satz: „Dann habe ich, der HERR, diesen Propheten getäuscht.“ In der Bibel wird oft alles auf Gott zurückgeführt, auch das Schwere (vgl. 1. Könige 22,19–23). Gemeint ist wohl: Wer selbst die Wahrheit nicht will, bekommt am Ende die Täuschung, die er sucht. Gott lässt es zu, dass die Lüge ihren Lauf nimmt.
+> Vers 11: Das Ziel ist nicht Vernichtung, sondern Beziehung: „Sie sollen mein Volk sein, und ich will ihr Gott sein.“
+
+---
+
+### Nur ihr eigenes Leben (Vers 12–20)
+
+<sup>12</sup>Das Wort des HERRN kam zu mir:
+<sup>13</sup>„Menschensohn, wenn ein Land gegen mich sündigt,
+indem es Untreue begeht,
+und ich meine Hand gegen es ausstrecke
+und ihm den Stab des Brotes zerbreche
+und Hunger darüber sende
+und Mensch und Tier darin ausrotte –
+<sup>14</sup>selbst wenn diese drei Männer, Noah, Daniel und Hiob, darin wären,
+würden sie durch ihre Gerechtigkeit nur ihr eigenes Leben retten“,
+spricht der Herr, der HERR.
+<sup>15</sup>„Wenn ich böse Tiere durch das Land ziehen lasse
+und sie es entvölkern
+und es zur Wüste wird,
+sodass niemand wegen der Tiere hindurchziehen kann –
+<sup>16</sup>selbst wenn diese drei Männer darin wären,
+so wahr ich lebe“, spricht der Herr, der HERR,
+„sie würden weder Söhne noch Töchter retten.
+Nur sie selbst würden gerettet,
+aber das Land würde zur Wüste.
+<sup>17</sup>Oder wenn ich ein Schwert über dieses Land bringe
+und sage: ‚Schwert, fahre durch das Land!‘,
+sodass ich Mensch und Tier darin ausrotte –
+<sup>18</sup>selbst wenn diese drei Männer darin wären,
+so wahr ich lebe“, spricht der Herr, der HERR,
+„sie würden weder Söhne noch Töchter retten,
+sondern nur sie selbst würden gerettet.
+<sup>19</sup>Oder wenn ich die Pest in dieses Land sende
+und meinen Grimm mit Blut darüber ausgieße,
+um Mensch und Tier daraus auszurotten –
+<sup>20</sup>selbst wenn Noah, Daniel und Hiob darin wären,
+so wahr ich lebe“, spricht der Herr, der HERR,
+„sie würden weder Sohn noch Tochter retten.
+Sie würden durch ihre Gerechtigkeit nur ihr eigenes Leben retten.“
+
+> **Was bedeutet das?**
+> Noah, Daniel und Hiob waren berühmt dafür, gerechte Menschen zu sein. Noah wurde aus der Flut gerettet, Hiob blieb im Leiden treu.
+> Bei „Daniel“ gibt es zwei Meinungen: Viele denken an den Propheten Daniel, der zur selben Zeit wie Hesekiel in Babylon lebte. Andere Forscher denken an einen sehr alten, berühmten gerechten Mann namens „Danel“, der in Texten aus der Nachbarschaft Israels vorkommt; die hebräische Schreibweise hier passt dazu. Beides ist möglich.
+> Die Botschaft: Die Leute in Jerusalem dachten vielleicht: „Es gibt ein paar gute Menschen unter uns. Wegen ihnen wird Gott die Stadt verschonen“ (vgl. Abraham und Sodom, 1. Mose 18,23–32). Aber Gott sagt: Diesmal nicht. Jeder ist für sich selbst verantwortlich. Man kann sich nicht hinter der Frömmigkeit anderer verstecken.
+> Das Thema der persönlichen Verantwortung wird in Kapitel 18 ausführlich erklärt.
+
+---
+
+### Ein Rest wird kommen (Vers 21–23)
+
+<sup>21</sup>Denn so spricht der Herr, der HERR:
+„Wie viel mehr,
+wenn ich meine vier schweren Strafgerichte über Jerusalem sende,
+das Schwert, den Hunger, die bösen Tiere und die Pest,
+um Mensch und Tier daraus auszurotten!
+<sup>22</sup>Doch siehe, es wird ein Rest darin übrig bleiben,
+der herausgeführt wird, Söhne und Töchter.
+Siehe, sie werden zu euch herauskommen,
+und ihr werdet ihren Weg und ihre Taten sehen.
+Dann werdet ihr getröstet sein über das Unheil,
+das ich über Jerusalem gebracht habe,
+über alles, was ich über die Stadt gebracht habe.
+<sup>23</sup>Sie werden euch trösten,
+wenn ihr ihren Weg und ihre Taten seht.
+Dann werdet ihr erkennen,
+dass ich nicht ohne Grund getan habe,
+was ich in ihr getan habe“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Einige Menschen aus Jerusalem werden überleben und zu den Verbannten nach Babylon kommen. Wenn die Verbannten dann sehen, wie diese Menschen gelebt haben, werden sie verstehen, warum die Katastrophe gekommen ist.
+> „Ihr werdet getröstet sein“ meint hier: Ihr werdet verstehen und euch damit abfinden können. Es heißt nicht, dass das Leid gut war. Aber es war nicht sinnlos und nicht willkürlich.
+> Wichtig: Dieser Text deutet eine bestimmte geschichtliche Katastrophe. Man darf ihn nicht benutzen, um heute zu behaupten, Menschen, die leiden, seien selbst schuld daran (vgl. Jesus in Johannes 9,2–3 und Lukas 13,1–5).
+
+## Hesekiel – Kapitel 15
+#### Das Holz des Weinstocks
+
+---
+
+### Wozu taugt das Holz des Weinstocks? (Vers 1–8)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, was hat das Holz des Weinstocks vor jedem anderen Holz voraus,
+die Weinranke, die unter den Bäumen des Waldes ist?
+<sup>3</sup>Nimmt man Holz von ihm, um etwas daraus zu machen?
+Nimmt man einen Pflock davon, um irgendein Gefäß daran aufzuhängen?
+<sup>4</sup>Siehe, man wirft es als Brennholz ins Feuer.
+Das Feuer hat seine beiden Enden verzehrt,
+und die Mitte ist angebrannt.
+Taugt es noch zu irgendeiner Arbeit?
+<sup>5</sup>Siehe, als es noch ganz war,
+taugte es zu keiner Arbeit.
+Wie viel weniger, wenn das Feuer es verzehrt hat
+und es angebrannt ist,
+wird es dann noch zu irgendeiner Arbeit taugen?“
+<sup>6</sup>Darum spricht der Herr, der HERR:
+„Wie das Holz des Weinstocks unter den Bäumen des Waldes,
+das ich dem Feuer als Brennholz gegeben habe,
+so gebe ich die Bewohner Jerusalems hin.
+<sup>7</sup>Ich werde mein Gesicht gegen sie richten.
+Sie werden aus dem Feuer herauskommen,
+aber das Feuer wird sie doch verzehren.
+Dann werdet ihr erkennen, dass ich der HERR bin,
+wenn ich mein Gesicht gegen sie richte.
+<sup>8</sup>Ich werde das Land zur Wüste machen,
+weil sie untreu gehandelt haben“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Israel wurde in der Bibel oft mit einem Weinstock verglichen (Psalm 80,9–17; Jesaja 5,1–7). Ein Weinstock ist wertvoll, aber nur wegen seiner Früchte. Sein Holz ist krumm und weich. Man kann daraus nicht einmal einen Haken machen. Wenn ein Weinstock keine Trauben bringt, taugt er nur noch als Brennholz.
+> Vers 4–5: Jerusalem ist wie ein Stück Rebholz, das schon an beiden Enden verbrannt ist. Die Enden stehen wahrscheinlich für die schon erlebten Katastrophen (die Zerstörung des Nordreichs und die erste Verschleppung 597 vor Christus). Was übrig ist, wird auch noch verbrennen.
+> Jesus nimmt dieses Bild im Neuen Testament auf: „Ich bin der Weinstock, ihr seid die Reben … Wer in mir bleibt, der bringt viel Frucht“ (Johannes 15,1–8). Bei Jesus geht es vor allem um Einladung: Bleibt mit mir verbunden, dann wachst ihr und bringt Frucht.
