@@ -103757,3 +103757,469 @@ dass ein Prophet unter ihnen gewesen ist.“
 > Jetzt, nachdem Hesekiels Vorhersagen eingetroffen sind, ist er plötzlich beliebt. Die Leute reden über ihn und kommen, um ihn zu hören.
 > Aber Gott sagt: Sie hören dich an wie einen guten Sänger mit einer schönen Stimme. Sie finden es unterhaltsam. Aber sie ändern nichts an ihrem Leben.
 > Das ist eine wichtige Warnung, auch für heute: Man kann eine Predigt schön finden, einen Gottesdienst genießen oder ein Bibelkapitel interessant finden und trotzdem nichts davon im Leben umsetzen. Jesus sagt: „Wer meine Worte hört und tut sie, der ist wie ein Mann, der sein Haus auf Fels baut“ (Matthäus 7,24). Vgl. auch Jakobus 1,22: „Seid Täter des Wortes und nicht Hörer allein.“
+
+## Hesekiel – Kapitel 34
+#### Der gute Hirte
+
+---
+
+### Wehe den Hirten, die sich selbst weiden (Vers 1–10)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, weissage gegen die Hirten Israels.
+Weissage und sag ihnen, den Hirten:
+‚So spricht der Herr, der HERR:
+„Wehe den Hirten Israels, die sich selbst weiden!
+Sollen nicht die Hirten die Schafe weiden?
+<sup>3</sup>Ihr esst das Fett.
+Ihr kleidet euch mit der Wolle.
+Ihr schlachtet die gemästeten Tiere,
+aber die Schafe weidet ihr nicht.
+<sup>4</sup>Das Schwache habt ihr nicht gestärkt.
+Das Kranke habt ihr nicht geheilt.
+Das Verletzte habt ihr nicht verbunden.
+Das Versprengte habt ihr nicht zurückgeholt.
+Das Verlorene habt ihr nicht gesucht.
+Sondern mit Gewalt und mit Härte habt ihr über sie geherrscht.
+<sup>5</sup>Sie wurden zerstreut, weil kein Hirte da war.
+Sie wurden allen Tieren des Feldes zum Fraß
+und wurden zerstreut.
+<sup>6</sup>Meine Schafe irrten umher auf allen Bergen
+und auf jedem hohen Hügel.
+Ja, meine Schafe wurden über die ganze Erde zerstreut.
+Da war niemand, der nach ihnen fragte oder sie suchte.“
+<sup>7</sup>Darum, ihr Hirten, hört das Wort des HERRN:
+<sup>8</sup>„So wahr ich lebe“, spricht der Herr, der HERR,
+„gewiss, weil meine Schafe zur Beute geworden sind
+und meine Schafe allen Tieren des Feldes zum Fraß geworden sind,
+weil kein Hirte da war,
+und weil meine Hirten nicht nach meinen Schafen gefragt haben,
+sondern die Hirten sich selbst geweidet
+und meine Schafe nicht geweidet haben,
+<sup>9</sup>darum, ihr Hirten, hört das Wort des HERRN!“
+<sup>10</sup>So spricht der Herr, der HERR:
+„Siehe, ich bin gegen die Hirten.
+Ich werde meine Schafe von ihrer Hand fordern
+und ihnen ein Ende machen, die Schafe zu weiden.
+Die Hirten sollen sich nicht mehr selbst weiden.
+Ich werde meine Schafe aus ihrem Maul retten,
+damit sie ihnen nicht mehr zum Fraß werden.“
+
+> **Was bedeutet das?**
+> Mit „Hirten“ sind die Könige und Führer Israels gemeint. Im Alten Orient nannte man Könige oft „Hirten ihres Volkes“.
+> Der Vorwurf: Diese Hirten haben nur an sich selbst gedacht. Sie haben das Fett gegessen und sich mit der Wolle gekleidet, also das Volk ausgebeutet. Aber für die Schwachen, Kranken und Verlorenen haben sie nichts getan. Stattdessen haben sie mit Härte und Gewalt geherrscht.
+> Vers 4 ist eine Art Stellenbeschreibung für gute Führung: Schwache stärken, Kranke heilen, Verletzte verbinden, Verirrte zurückholen, Verlorene suchen.
+> Das gilt bis heute für alle, die Verantwortung tragen: in Politik, Kirche, Schule, Firma oder Familie. Gute Leitung dient den Menschen, besonders den Schwächsten. Wer Macht nur für sich selbst nutzt, versagt vor Gott.
+
+---
+
+### Ich selbst will meine Schafe suchen (Vers 11–16)
+
+<sup>11</sup>Denn so spricht der Herr, der HERR:
+„Siehe, ich selbst, ja ich,
+will nach meinen Schafen fragen
+und sie suchen.
+<sup>12</sup>Wie ein Hirte seine Herde sucht
+an dem Tag, wenn er mitten unter seinen zerstreuten Schafen ist,
+so will ich meine Schafe suchen.
+Ich werde sie retten aus allen Orten,
+wohin sie zerstreut worden sind
+am Tag der Wolken und des Dunkels.
+<sup>13</sup>Ich werde sie aus den Völkern herausführen
+und sie aus den Ländern sammeln
+und sie in ihr eigenes Land bringen.
+Ich werde sie weiden auf den Bergen Israels,
+an den Wasserläufen
+und an allen bewohnten Orten des Landes.
+<sup>14</sup>Ich werde sie auf guter Weide weiden,
+und ihr Weideplatz wird auf den hohen Bergen Israels sein.
+Dort werden sie auf gutem Weideplatz lagern.
+Sie werden fette Weide finden auf den Bergen Israels.
+<sup>15</sup>Ich selbst will der Hirte meiner Schafe sein,
+und ich will sie lagern lassen“,
+spricht der Herr, der HERR.
+<sup>16</sup>„Das Verlorene will ich suchen
+und das Versprengte zurückholen,
+das Verletzte will ich verbinden
+und das Kranke stärken.
+Aber das Fette und das Starke werde ich vertilgen.
+Ich werde sie weiden, wie es recht ist.“
+
+> **Was bedeutet das?**
+> Weil die menschlichen Hirten versagt haben, sagt Gott: „Ich selbst will der Hirte sein!“ Und er tut genau das, was die schlechten Hirten nicht getan haben (Vers 16 ist die Antwort auf Vers 4).
+> Das erinnert an Psalm 23: „Der HERR ist mein Hirte, mir wird nichts mangeln.“
+> Jesus nimmt dieses Kapitel auf: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11). Und er erzählt das Gleichnis vom verlorenen Schaf, das der Hirte sucht, bis er es findet (Lukas 15,4–7). „Der Menschensohn ist gekommen, zu suchen und zu retten, was verloren ist“ (Lukas 19,10).
+> Vers 16: „Das Fette und das Starke werde ich vertilgen“ meint die, die auf Kosten der anderen fett und stark geworden sind (siehe Vers 17–21).
+> Für dich heißt das: Wenn du dich verloren, verletzt oder schwach fühlst, gerade dich sucht Gott.
+
+---
+
+### Gott richtet zwischen Schaf und Schaf (Vers 17–22)
+
+<sup>17</sup>Ihr aber, meine Herde,
+so spricht der Herr, der HERR:
+‚Siehe, ich richte zwischen Schaf und Schaf,
+zwischen den Widdern und den Ziegenböcken.
+<sup>18</sup>Ist es euch zu wenig, dass ihr die gute Weide abweidet?
+Müsst ihr auch noch den Rest eurer Weide mit euren Füßen zertreten?
+Und dass ihr das klare Wasser trinkt?
+Müsst ihr auch noch den Rest mit euren Füßen trüben?
+<sup>19</sup>Und meine Schafe müssen fressen, was ihr mit euren Füßen zertreten habt,
+und trinken, was ihr mit euren Füßen getrübt habt.‘
+<sup>20</sup>Darum spricht der Herr, der HERR, zu ihnen:
+‚Siehe, ich, ja ich, werde richten
+zwischen dem fetten Schaf und dem mageren Schaf.
+<sup>21</sup>Weil ihr mit Seite und Schulter drängt
+und alle Schwachen mit euren Hörnern stoßt,
+bis ihr sie hinausgetrieben habt,
+<sup>22</sup>darum werde ich meine Herde retten,
+und sie sollen nicht mehr zur Beute werden.
+Ich werde richten zwischen Schaf und Schaf.
+
+> **Was bedeutet das?**
+> Jetzt spricht Gott nicht mehr nur die Führer an, sondern das ganze Volk. Auch unter den „Schafen“ gibt es Ungerechtigkeit: Die Starken fressen das beste Gras und trinken das klare Wasser. Dann zertreten sie den Rest, sodass die Schwachen nur noch Schmutziges bekommen. Und sie stoßen die Schwachen mit Hörnern weg.
+> Das ist ein Bild für soziale Ungerechtigkeit: Die Reichen und Mächtigen nehmen sich das Beste und lassen den Armen nur die Reste, oft sogar zerstörte Reste.
+> Gott stellt sich auf die Seite der „mageren Schafe“, der Schwachen und Benachteiligten.
+> Jesus spricht in Matthäus 25,31–46 auch davon, dass der Menschensohn „die Schafe von den Böcken scheidet“. Entscheidend ist dort, wie man mit den Schwächsten umgegangen ist.
+
+---
+
+### Mein Knecht David (Vers 23–24)
+
+<sup>23</sup>Ich werde einen einzigen Hirten über sie einsetzen,
+und er wird sie weiden:
+meinen Knecht David.
+Er wird sie weiden,
+und er wird ihr Hirte sein.
+<sup>24</sup>Ich, der HERR, werde ihr Gott sein,
+und mein Knecht David wird Fürst unter ihnen sein.
+Ich, der HERR, habe es gesagt.
+
+> **Was bedeutet das?**
+> König David war zu dieser Zeit schon über 400 Jahre tot. Gemeint ist ein neuer König aus der Familie Davids, ein König, der wie David ist, nur besser: ein Hirte nach Gottes Herzen.
+> Juden erwarten diesen Messias aus dem Haus Davids. Christen sehen die Verheißung in Jesus erfüllt, der aus der Familie Davids stammt (Matthäus 1,1) und sich selbst den guten Hirten nennt.
+> Bemerkenswert: Gott ist der Hirte (Vers 15) und David ist der Hirte (Vers 23). Beides gehört zusammen: Durch den neuen David hütet Gott selbst sein Volk.
+
+---
+
+### Ein Bund des Friedens (Vers 25–31)
+
+<sup>25</sup>Ich werde einen Bund des Friedens mit ihnen schließen
+und die bösen Tiere aus dem Land verschwinden lassen.
+Sie werden sicher in der Wüste wohnen
+und in den Wäldern schlafen.
+<sup>26</sup>Ich werde sie und die Orte rings um meinen Hügel zum Segen machen.
+Ich werde den Regen zu seiner Zeit herabkommen lassen.
+Es werden Regen des Segens sein.
+<sup>27</sup>Der Baum des Feldes wird seine Frucht geben,
+und die Erde wird ihren Ertrag geben,
+und sie werden sicher in ihrem Land sein.
+Dann werden sie erkennen, dass ich der HERR bin,
+wenn ich die Stangen ihres Jochs zerbrochen
+und sie aus der Hand derer gerettet habe,
+die sie zu Sklaven gemacht hatten.
+<sup>28</sup>Sie werden den Völkern nicht mehr zur Beute werden,
+und die Tiere der Erde werden sie nicht mehr fressen.
+Sondern sie werden sicher wohnen,
+und niemand wird sie aufschrecken.
+<sup>29</sup>Ich werde ihnen eine Pflanzung erstehen lassen, die berühmt ist,
+und sie werden nicht mehr vom Hunger hinweggerafft werden im Land,
+und sie werden nicht mehr die Schmach der Völker tragen.
+<sup>30</sup>Sie werden erkennen, dass ich, der HERR, ihr Gott, mit ihnen bin
+und dass sie, das Haus Israel, mein Volk sind,
+spricht der Herr, der HERR.
+<sup>31</sup>Ihr, meine Schafe, die Schafe meiner Weide,
+ihr seid Menschen,
+und ich bin euer Gott‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> Ein wunderschönes Bild von Frieden: Keine wilden Tiere mehr, man kann sogar im Wald sicher schlafen. Regen zur richtigen Zeit, Bäume voller Früchte, keine Angst, kein Hunger, keine Sklaverei mehr.
+> Vers 27: Gott zerbricht das Joch der Unterdrückung. Er ist ein Gott, der befreit (vgl. 2. Mose 6,6).
+> Vers 26: „Regen des Segens“ (im Deutschen auch „Segensregen“) ist zu einem bekannten Ausdruck geworden, auch in Liedern.
+> Vers 31: Ein berührender Schluss: „Ihr seid meine Schafe … ihr seid Menschen, und ich bin euer Gott.“ Das Bild von den Schafen wird aufgelöst: Gott meint wirklich Menschen, und er will ihr Gott sein.
+
+## Hesekiel – Kapitel 35
+#### Gegen das Gebirge Seïr
+
+---
+
+### Ewige Feindschaft (Vers 1–9)
+
+<sup>1</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht gegen das Gebirge Seïr
+und weissage gegen es
+<sup>3</sup>und sag zu ihm:
+‚So spricht der Herr, der HERR:
+„Siehe, ich bin gegen dich, Gebirge Seïr,
+und ich werde meine Hand gegen dich ausstrecken.
+Ich werde dich zur Wüste und zum Entsetzen machen.
+<sup>4</sup>Ich werde deine Städte verwüsten,
+und du wirst eine Wüste sein.
+Dann wirst du erkennen, dass ich der HERR bin.
+<sup>5</sup>Weil du eine ewige Feindschaft hattest
+und die Kinder Israel der Gewalt des Schwertes ausgeliefert hast
+zur Zeit ihres Unglücks,
+zur Zeit der Schuld des Endes,
+<sup>6</sup>darum, so wahr ich lebe“, spricht der Herr, der HERR,
+„werde ich dich dem Blut preisgeben,
+und Blut wird dich verfolgen.
+Weil du das Blut nicht gehasst hast,
+darum wird Blut dich verfolgen.
+<sup>7</sup>So werde ich das Gebirge Seïr zum Entsetzen und zur Wüste machen.
+Ich werde den, der hindurchzieht und zurückkehrt, daraus ausrotten.
+<sup>8</sup>Ich werde seine Berge mit seinen Erschlagenen füllen.
+Die vom Schwert Erschlagenen werden auf deinen Hügeln fallen,
+in deinen Tälern und in allen deinen Wasserläufen.
+<sup>9</sup>Ich werde dich zu einer ewigen Wüste machen,
+und deine Städte werden nicht bewohnt sein.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+
+> **Was bedeutet das?**
+> Seïr ist das Gebirge von Edom, südlich vom Toten Meer. Die Edomiter waren Nachkommen Esaus, des Zwillingsbruders von Jakob (Israel). Die Feindschaft zwischen den beiden Völkern zog sich durch die ganze Geschichte, wie schon zwischen den Brüdern (1. Mose 27).
+> Vers 5: Als Jerusalem fiel, hat Edom die Flüchtlinge nicht geschützt, sondern dem Feind ausgeliefert (vgl. Obadja 14).
+> Vers 6: „Weil du das Blut nicht gehasst hast“ – wer Gewalt nicht ablehnt, wird selbst von Gewalt eingeholt. Gewalt erzeugt neue Gewalt.
+> Warum steht dieses Kapitel hier, mitten in den Hoffnungsworten? Weil Kapitel 36 die Berge Israels anspricht. Hier die Berge Edoms, die Israels Land besetzen wollten, und dort die Berge Israels, die wieder grünen werden. Beides gehört zusammen.
+
+---
+
+### Du wolltest das Land in Besitz nehmen (Vers 10–15)
+
+<sup>10</sup>Weil du gesagt hast:
+‚Diese beiden Völker und diese beiden Länder werden mir gehören,
+und wir werden es in Besitz nehmen‘,
+obwohl doch der HERR dort war,
+<sup>11</sup>darum, so wahr ich lebe“, spricht der Herr, der HERR,
+„werde ich nach deinem Zorn handeln
+und nach deinem Neid, den du aus deinem Hass gegen sie gezeigt hast.
+Und ich werde mich unter ihnen zu erkennen geben,
+wenn ich dich richte.
+<sup>12</sup>Du wirst erkennen, dass ich, der HERR, alle deine Schmähungen gehört habe,
+die du gegen die Berge Israels ausgesprochen hast,
+indem du sagtest:
+‚Sie sind verwüstet.
+Sie sind uns zum Fraß gegeben.‘
+<sup>13</sup>Ihr habt euch mit eurem Mund gegen mich groß gemacht
+und eure Worte gegen mich vermehrt.
+Ich habe es gehört.“
+<sup>14</sup>So spricht der Herr, der HERR:
+„Wenn die ganze Erde sich freut,
+werde ich dich zur Wüste machen.
+<sup>15</sup>So wie du dich über das Erbe des Hauses Israel gefreut hast,
+weil es verwüstet war,
+so werde ich mit dir tun.
+Du wirst eine Wüste sein, Gebirge Seïr,
+und ganz Edom, ja, alles davon.
+Dann werden sie erkennen, dass ich der HERR bin.“‘“
+
+> **Was bedeutet das?**
+> Vers 10: Edom wollte das leere Land von Israel und Juda („diese beiden Völker“) an sich reißen. Aber Edom hatte vergessen: „Der HERR war dort.“ Das Land gehört Gott, nicht dem, der es sich am schnellsten nimmt.
+> Vers 13: „Ich habe es gehört.“ Gott hört auch die spöttischen und hasserfüllten Worte.
+> Vers 15: Wieder geht es um Schadenfreude. Wie du anderen getan hast, so wird dir getan werden.
+> Wichtig: Edom als Volk gibt es heute nicht mehr. Dieses Kapitel ist kein Grund für Feindschaft gegen heutige Völker oder Menschen in dieser Region.
+
+## Hesekiel – Kapitel 36
+#### Ein neues Herz und ein neuer Geist
+
+---
+
+### Ihr Berge Israels, hört! (Vers 1–7)
+
+<sup>1</sup>Du, Menschensohn, weissage zu den Bergen Israels und sag:
+„Ihr Berge Israels, hört das Wort des HERRN!
+<sup>2</sup>So spricht der Herr, der HERR:
+‚Weil der Feind über euch gesagt hat: „Haha!“,
+und: „Die uralten Höhen gehören uns als Besitz!“‘,
+<sup>3</sup>darum weissage und sag:
+‚So spricht der Herr, der HERR:
+„Weil, ja weil man euch verwüstet
+und von allen Seiten verschlungen hat,
+damit ihr dem Rest der Völker zum Besitz würdet,
+und weil ihr ins Gerede der Schwätzer
+und in den bösen Ruf der Leute gekommen seid“,
+<sup>4</sup>darum, ihr Berge Israels, hört das Wort des Herrn, des HERRN!
+So spricht der Herr, der HERR,
+zu den Bergen und zu den Hügeln,
+zu den Wasserläufen und zu den Tälern,
+zu den verwüsteten Trümmern und zu den verlassenen Städten,
+die dem Rest der Völker ringsum zur Beute und zum Spott geworden sind,
+<sup>5</sup>darum spricht der Herr, der HERR:
+„Gewiss, im Feuer meines Eifers habe ich geredet
+gegen den Rest der Völker und gegen ganz Edom,
+die mein Land für sich zum Besitz bestimmt haben,
+mit Freude von ganzem Herzen
+und mit Verachtung der Seele,
+um es als Beute auszuplündern.“‘
+<sup>6</sup>Darum weissage über das Land Israel
+und sag zu den Bergen, den Hügeln, den Wasserläufen und den Tälern:
+‚So spricht der Herr, der HERR:
+„Siehe, ich habe in meinem Eifer und in meinem Grimm geredet,
+weil ihr die Schmach der Völker getragen habt.“
+<sup>7</sup>Darum spricht der Herr, der HERR:
+„Ich habe meine Hand zum Schwur erhoben:
+Gewiss, die Völker, die rings um euch her sind,
+sollen ihre eigene Schmach tragen.
+
+> **Was bedeutet das?**
+> In Kapitel 6 hatte Hesekiel gegen die Berge Israels geweissagt, weil dort Götzen verehrt wurden. Jetzt spricht er wieder zu den Bergen, aber diesmal mit einer Botschaft der Hoffnung!
+> Die Feinde haben gespottet und das verlassene Land an sich gerissen. Gott sagt: Ich stehe auf der Seite meines Landes. Die Spötter werden selbst beschämt werden.
+
+---
+
+### Die Berge werden wieder grünen (Vers 8–15)
+
+<sup>8</sup>Ihr aber, Berge Israels,
+ihr sollt eure Zweige treiben
+und eure Frucht tragen für mein Volk Israel,
+denn bald werden sie kommen.
+<sup>9</sup>Denn siehe, ich bin für euch,
+und ich wende mich euch zu,
+und ihr werdet bebaut und besät werden.
+<sup>10</sup>Ich werde Menschen auf euch zahlreich machen,
+das ganze Haus Israel, sie alle.
+Die Städte werden bewohnt sein,
+und die Trümmerstätten werden aufgebaut werden.
+<sup>11</sup>Ich werde Mensch und Tier auf euch zahlreich machen.
+Sie werden sich mehren und fruchtbar sein.
+Ich werde euch bewohnt sein lassen wie früher,
+und ich werde euch mehr Gutes tun als am Anfang.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+<sup>12</sup>Ja, ich werde Menschen auf euch gehen lassen,
+mein Volk Israel.
+Sie werden euch besitzen,
+und ihr werdet ihr Erbe sein,
+und ihr werdet sie nie mehr ihrer Kinder berauben.“
+<sup>13</sup>So spricht der Herr, der HERR:
+„Weil sie zu euch sagen:
+‚Du bist ein Land, das Menschen frisst,
+und du hast dein Volk kinderlos gemacht‘,
+<sup>14</sup>darum sollst du keine Menschen mehr fressen
+und dein Volk nicht mehr kinderlos machen“,
+spricht der Herr, der HERR.
+<sup>15</sup>„Ich werde dich die Schmähung der Völker nicht mehr hören lassen.
+Du sollst die Schmach der Völker nicht mehr tragen,
+und du sollst dein Volk nicht mehr zu Fall bringen“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Vers 9: „Ich bin für euch!“ Was für ein Satz nach all dem Gericht! (vgl. Römer 8,31: „Ist Gott für uns, wer kann gegen uns sein?“)
+> Das verwüstete Land wird wieder fruchtbar. Felder werden bestellt, Städte wieder aufgebaut, Menschen und Tiere werden zahlreich. Gott verspricht sogar: „Ich werde euch mehr Gutes tun als am Anfang.“
+> Vers 13–14: Die Leute sagten über das Land: „Es frisst seine Bewohner.“ So viel Krieg, Hunger und Tod hatte es dort gegeben. Gott verspricht: Das wird aufhören.
+
+---
+
+### Um meines heiligen Namens willen (Vers 16–23)
+
+<sup>16</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>17</sup>„Menschensohn, als das Haus Israel in seinem eigenen Land wohnte,
+verunreinigten sie es durch ihre Wege und durch ihre Taten.
+Ihr Weg war vor mir wie die Unreinheit einer Frau
+während ihrer Unreinheit.
+<sup>18</sup>Darum goss ich meinen Grimm über sie aus
+wegen des Blutes, das sie im Land vergossen hatten,
+und weil sie es mit ihren Götzen verunreinigt hatten.
+<sup>19</sup>Ich zerstreute sie unter die Völker,
+und sie wurden in die Länder versprengt.
+Ich richtete sie nach ihrem Weg und nach ihren Taten.
+<sup>20</sup>Als sie zu den Völkern kamen, wohin sie gingen,
+entweihten sie meinen heiligen Namen,
+indem man über sie sagte:
+‚Das ist das Volk des HERRN,
+und doch mussten sie aus seinem Land fortziehen.‘
+<sup>21</sup>Aber mir lag an meinem heiligen Namen,
+den das Haus Israel unter den Völkern entweiht hatte,
+wohin sie gekommen waren.
+<sup>22</sup>Darum sag zum Haus Israel:
+‚So spricht der Herr, der HERR:
+„Nicht um euretwillen tue ich das, Haus Israel,
+sondern um meines heiligen Namens willen,
+den ihr unter den Völkern entweiht habt,
+wohin ihr gekommen seid.
+<sup>23</sup>Ich werde meinen großen Namen heiligen,
+der unter den Völkern entweiht worden ist,
+den ihr unter ihnen entweiht habt.
+Dann werden die Völker erkennen, dass ich der HERR bin“,
+spricht der Herr, der HERR,
+„wenn ich mich an euch als heilig erweise vor ihren Augen.
+
+> **Was bedeutet das?**
+> Vers 17: Hier wird die Schuld Israels mit der „Unreinheit einer Frau“ während der Menstruation verglichen. Das bezieht sich auf die alten Reinheitsregeln (3. Mose 15,19–24). Wichtig: Die Menstruation ist etwas ganz Natürliches. Sie ist keine Sünde und nichts Schmutziges. Der Vergleich meint nur die rituelle (kultische) Unreinheit nach den damaligen Regeln. Heute würde man ein solches Bild nicht mehr benutzen.
+> Vers 20: Die anderen Völker sahen die Verbannten und spotteten: „Das soll Gottes Volk sein? Ihr Gott konnte sie nicht einmal in ihrem Land halten!“ So wurde Gottes Name lächerlich gemacht.
+> Vers 22: „Nicht um euretwillen.“ Gott rettet Israel nicht, weil es das verdient hätte, sondern weil Gott treu ist und seinen Namen, also sein Wesen und seinen Ruf, vor der Welt zeigen will. Das ist reine Gnade.
+> Vers 23: „Ich werde meinen Namen heiligen.“ Jesus lehrt uns beten: „Geheiligt werde dein Name“ (Matthäus 6,9).
+
+---
+
+### Ein neues Herz (Vers 24–32)
+
+<sup>24</sup>Denn ich werde euch aus den Völkern holen
+und euch aus allen Ländern sammeln
+und euch in euer eigenes Land bringen.
+<sup>25</sup>Ich werde reines Wasser auf euch sprengen,
+und ihr werdet rein werden.
+Von all eurer Unreinheit und von allen euren Götzen
+werde ich euch reinigen.
+<sup>26</sup>Ich werde euch ein neues Herz geben
+und einen neuen Geist in euer Inneres legen.
+Ich werde das steinerne Herz aus eurem Leib wegnehmen
+und euch ein Herz aus Fleisch geben.
+<sup>27</sup>Ich werde meinen Geist in euer Inneres legen
+und bewirken, dass ihr in meinen Satzungen geht.
+Ihr werdet meine Rechtsordnungen halten und sie tun.
+<sup>28</sup>Ihr werdet in dem Land wohnen, das ich euren Vätern gegeben habe.
+Ihr werdet mein Volk sein,
+und ich werde euer Gott sein.
+<sup>29</sup>Ich werde euch von all eurer Unreinheit retten.
+Ich werde das Getreide herbeirufen und es vermehren
+und keinen Hunger über euch bringen.
+<sup>30</sup>Ich werde die Frucht der Bäume und den Ertrag des Feldes vermehren,
+damit ihr nicht mehr die Schmach des Hungers unter den Völkern tragt.
+<sup>31</sup>Dann werdet ihr an eure bösen Wege denken
+und an eure Taten, die nicht gut waren,
+und ihr werdet euch vor euch selbst ekeln
+wegen eurer Sünden und wegen eurer Gräuel.
+<sup>32</sup>Nicht um euretwillen tue ich das“,
+spricht der Herr, der HERR.
+„Das sollt ihr wissen.
+Schämt euch und werdet rot über eure Wege, Haus Israel.“
+
+> **Was bedeutet das?**
+> Das ist einer der wichtigsten Abschnitte im ganzen Alten Testament!
+> Vers 25: Gott reinigt sein Volk mit reinem Wasser. Er wäscht alles Alte ab. (Christen denken dabei an die Taufe.)
+> Vers 26: Gott gibt ein neues Herz. Ein Herz aus Stein ist hart, kalt und unbeweglich. Ein Herz aus Fleisch ist lebendig, warm und kann fühlen. Gott verändert den Menschen von innen heraus. Was der Mensch selbst nicht schafft, das schenkt Gott.
+> Vers 27: Gott legt seinen eigenen Geist in die Menschen. Dann halten sie Gottes Gebote nicht mehr aus Zwang, sondern weil sie es von innen heraus wollen.
+> Diese Verheißung erinnert an den „neuen Bund“ in Jeremia 31,31–34. Jesus spricht davon, dass man „aus Wasser und Geist geboren“ werden muss (Johannes 3,5). Christen sehen die Erfüllung im Geschenk des Heiligen Geistes (Apostelgeschichte 2). Im Judentum wird dieser Text als Verheißung für die Erneuerung Israels gelesen.
+> Vers 31: Wenn Menschen Gottes Güte erleben, sehen sie ihre eigene Vergangenheit ehrlicher. Gemeint ist Reue, nicht Selbsthass.
+
+---
+
+### Wie der Garten Eden (Vers 33–38)
+
+<sup>33</sup>So spricht der Herr, der HERR:
+„An dem Tag, an dem ich euch von allen euren Sünden reinige,
+werde ich die Städte bewohnt sein lassen,
+und die Trümmerstätten werden aufgebaut werden.
+<sup>34</sup>Das verwüstete Land wird bebaut werden,
+statt eine Wüste zu sein vor den Augen aller, die vorüberziehen.
+<sup>35</sup>Sie werden sagen:
+‚Dieses Land, das verwüstet war,
+ist geworden wie der Garten Eden.
+Die zerstörten, verwüsteten und niedergerissenen Städte
+sind befestigt und bewohnt.‘
+<sup>36</sup>Dann werden die Völker, die rings um euch übrig bleiben, erkennen,
+dass ich, der HERR, das Zerstörte aufgebaut
+und das Verwüstete bepflanzt habe.
+Ich, der HERR, habe es gesagt, und ich werde es tun.“
+<sup>37</sup>So spricht der Herr, der HERR:
+„Auch darin werde ich mich vom Haus Israel bitten lassen,
+dass ich es für sie tue:
+Ich werde sie an Menschen zahlreich machen wie eine Herde.
+<sup>38</sup>Wie die Herde der Opfertiere,
+wie die Herde Jerusalems an seinen Festen,
+so werden die verwüsteten Städte voll von Menschenherden sein.
+Dann werden sie erkennen, dass ich der HERR bin.“‘“
+
+> **Was bedeutet das?**
+> Vers 35: Das zerstörte Land wird „wie der Garten Eden“. Nach dem Gericht kommt ein neuer Anfang, schöner als zuvor. Es ist, als ob Gott das Paradies neu schafft.
+> Vers 37: Früher hatte Gott gesagt: „Ich lasse mich von euch nicht befragen“ (20,3). Jetzt sagt er: „Ich lasse mich wieder bitten.“ Die Beziehung ist wiederhergestellt. Gebet ist wieder möglich.
+> Vers 38: Bei den großen Festen war Jerusalem voller Menschen und Opfertiere. So voll sollen die leeren Städte wieder werden, voller Leben.
