@@ -114638,3 +114638,296 @@ denn wir haben gehört, dass Gott mit euch ist.‘“
 > Vers 23: Ein starkes Bild: Zehn Menschen aus verschiedenen Völkern halten einen jüdischen Mann am Zipfel seines Gewandes fest und sagen: „Wir wollen mit euch gehen, denn Gott ist mit euch.“
 > Das jüdische Volk soll für die Welt zum Wegweiser zu Gott werden. Für Christen hat sich das darin erfüllt, dass durch den Juden Jesus und seine jüdischen Apostel viele Menschen aus allen Völkern zum Gott Israels gefunden haben.
 > Dieser Vers ist auch eine Mahnung gegen jede Form von Judenfeindlichkeit: Die Völker sollen mit Achtung und Liebe auf das jüdische Volk schauen.
+
+## Sacharja – Kapitel 9
+#### Dein König kommt zu dir
+
+---
+
+### Gericht über die Nachbarvölker (Vers 1–8)
+
+<sup>1</sup>Ein Ausspruch.
+Das Wort des HERRN ist gegen das Land Hadrach,
+und auf Damaskus lässt es sich nieder –
+denn auf den HERRN ist das Auge der Menschen
+und aller Stämme Israels gerichtet –
+<sup>2</sup>und auch gegen Hamat, das daran grenzt,
+gegen Tyrus und Sidon,
+weil sie sehr weise sind.
+<sup>3</sup>Tyrus hat sich eine Festung gebaut
+und Silber aufgehäuft wie Staub
+und feines Gold wie den Schlamm der Straßen.
+<sup>4</sup>Siehe, der Herr wird es in Besitz nehmen
+und seine Macht im Meer schlagen,
+und es wird vom Feuer verzehrt werden.
+<sup>5</sup>Aschkelon wird es sehen und sich fürchten,
+auch Gaza wird sich vor Schmerz winden,
+ebenso Ekron, denn seine Hoffnung wird enttäuscht.
+Der König wird aus Gaza verschwinden,
+und Aschkelon wird nicht bewohnt sein.
+<sup>6</sup>Fremde werden in Aschdod wohnen,
+und ich werde den Stolz der Philister ausrotten.
+<sup>7</sup>Ich werde sein Blut aus seinem Mund wegnehmen
+und seine Gräuel zwischen seinen Zähnen.
+Auch er wird ein Rest für unseren Gott sein.
+Er wird wie ein Stammesfürst in Juda sein,
+und Ekron wie ein Jebusiter.
+<sup>8</sup>Ich werde mich um mein Haus lagern gegen das Heer,
+damit niemand hindurchzieht oder zurückkehrt.
+Und kein Unterdrücker wird mehr durch sie hindurchziehen,
+denn jetzt habe ich es mit meinen Augen gesehen.
+
+> **Was bedeutet das?**
+> Hier beginnt der zweite Teil des Buches Sacharja (Kapitel 9–14). Er klingt anders als der erste Teil und spricht mehr über die ferne Zukunft.
+> Vers 1–6: Gericht über die Nachbarvölker im Norden (Hadrach, Damaskus, Hamat, Tyrus, Sidon) und im Westen (die Philisterstädte). Tyrus war eine reiche Handelsstadt auf einer Insel und galt als uneinnehmbar. Viele Ausleger denken bei diesen Versen an den Feldzug Alexanders des Großen (333–332 vor Christus), der Tyrus tatsächlich eroberte.
+> Vers 7: Eine überraschende Wende: Die Philister werden nicht nur bestraft, sie werden gereinigt. Sie müssen kein Blut mehr essen und keine unreinen Opfer („Gräuel“). Und dann gehören auch sie zu Gottes Volk, wie ein Stamm in Juda. Die Jebusiter waren die ursprünglichen Bewohner Jerusalems, die später in Israel aufgingen.
+> Vers 8: Gott selbst schützt seinen Tempel.
+
+---
+
+### Der König auf dem Esel (Vers 9–10)
+
+<sup>9</sup>Freue dich sehr, Tochter Zion!
+Jauchze, Tochter Jerusalem!
+Siehe, dein König kommt zu dir!
+Er ist gerecht und bringt Rettung,
+demütig und reitet auf einem Esel,
+auf einem Füllen, dem Jungen einer Eselin.
+<sup>10</sup>Ich werde die Streitwagen aus Ephraim ausrotten
+und die Pferde aus Jerusalem.
+Der Kriegsbogen wird ausgerottet werden.
+Und er wird den Völkern Frieden verkünden.
+Seine Herrschaft wird von Meer zu Meer reichen
+und vom Strom bis an die Enden der Erde.
+
+> **Was bedeutet das?**
+> Einer der berühmtesten Verse der Bibel.
+> Vers 9: Ein König kommt nach Jerusalem. Aber er kommt nicht auf einem Kriegspferd oder einem Streitwagen, wie andere Könige. Er reitet auf einem Esel, dem Reittier der einfachen Leute und des Friedens. Er ist gerecht, er bringt Rettung, und er ist demütig.
+> Vers 10: Dieser König schafft die Waffen ab: keine Streitwagen, keine Kriegspferde, keine Bögen mehr. Er bringt den Völkern Frieden. Sein Reich umfasst die ganze Welt. Das erinnert an Psalm 72,8.
+> Alle vier Evangelien berichten, wie Jesus auf einem Esel in Jerusalem einzog, und Matthäus und Johannes zitieren diesen Vers ausdrücklich (Matthäus 21,4–5; Johannes 12,14–15). Daran erinnern Christen am Palmsonntag.
+> Im Judentum wird der Vers auf den kommenden Messias bezogen.
+
+---
+
+### Gefangene der Hoffnung (Vers 11–17)
+
+<sup>11</sup>Auch dich betreffend:
+Wegen des Blutes deines Bundes
+habe ich deine Gefangenen aus der Grube befreit,
+in der kein Wasser ist.
+<sup>12</sup>Kehrt zurück zur Festung,
+ihr Gefangenen der Hoffnung!
+Auch heute verkünde ich:
+Doppelt will ich dir erstatten.
+<sup>13</sup>Denn ich spanne mir Juda als Bogen.
+Ich lege Ephraim als Pfeil darauf.
+Ich wecke deine Söhne, Zion,
+gegen deine Söhne, Griechenland,
+und mache dich wie das Schwert eines Helden.
+<sup>14</sup>Der HERR wird über ihnen erscheinen.
+Sein Pfeil wird ausfahren wie der Blitz.
+Der Herr, der HERR, wird in die Posaune stoßen
+und in den Stürmen des Südens einherziehen.
+<sup>15</sup>Der HERR der Heere wird sie beschützen.
+Sie werden verzehren und die Schleudersteine niedertreten.
+Sie werden trinken und lärmen wie vom Wein.
+Sie werden voll sein wie die Opferschalen,
+wie die Ecken des Altars.
+<sup>16</sup>Der HERR, ihr Gott, wird sie an jenem Tag retten
+wie die Herde seines Volkes.
+Denn sie sind wie die Edelsteine einer Krone,
+die über seinem Land funkeln.
+<sup>17</sup>Denn wie groß ist seine Güte
+und wie groß seine Schönheit!
+Korn lässt die jungen Männer gedeihen
+und Most die jungen Frauen.
+
+> **Was bedeutet das?**
+> Vers 11: „Das Blut deines Bundes“: Der Bund zwischen Gott und Israel wurde am Sinai mit Blut besiegelt (2. Mose 24,8). Wegen dieses Bundes befreit Gott die Gefangenen aus einer Zisterne ohne Wasser, ein Bild für ausweglose Not (vgl. Josef in 1. Mose 37,24; Jeremia in Jeremia 38,6). Jesus spricht beim letzten Abendmahl vom „Blut des Bundes“ (Markus 14,24).
+> Vers 12: „Gefangene der Hoffnung“, ein schöner Ausdruck. Sie sind noch gefangen, aber sie haben Hoffnung. Gott verspricht, ihnen doppelt zurückzugeben, was sie verloren haben.
+> Vers 13–15: Ein Kampfbild: Gott benutzt sein Volk wie Pfeil und Bogen gegen „Griechenland“ (im Hebräischen „Jawan“, das sind die Griechen). Vielleicht denkt der Text an die griechischen Herrscher nach Alexander dem Großen. Diese Bilder beschreiben Gottes Schutz für sein bedrohtes Volk. Sie sind kein Aufruf an Menschen, Krieg zu führen; der König aus Vers 10 bringt ja gerade den Frieden.
+> Vers 16–17: Gott rettet sein Volk wie ein Hirte seine Herde. Sie sind für ihn so wertvoll wie Edelsteine in einer Krone. Am Ende Überfluss: genug Korn und Wein für die jungen Menschen.
+
+## Sacharja – Kapitel 10
+#### Gott sammelt sein zerstreutes Volk
+
+---
+
+### Schafe ohne Hirten (Vers 1–5)
+
+<sup>1</sup>Bittet den HERRN um Regen zur Zeit des Spätregens,
+den HERRN, der die Gewitterwolken macht.
+Er gibt ihnen Regenschauer,
+jedem Gras auf dem Feld.
+<sup>2</sup>Denn die Hausgötter haben Nichtiges geredet,
+und die Wahrsager haben Lügen geschaut.
+Sie haben falsche Träume erzählt.
+Sie trösten mit leeren Worten.
+Darum ziehen sie umher wie Schafe.
+Sie sind im Elend, weil kein Hirte da ist.
+<sup>3</sup>„Mein Zorn ist gegen die Hirten entbrannt,
+und die Böcke werde ich heimsuchen.
+Denn der HERR der Heere hat sich seiner Herde angenommen,
+des Hauses Juda,
+und macht sie wie sein prächtiges Ross im Kampf.
+<sup>4</sup>Aus ihm wird der Eckstein kommen,
+aus ihm der Zeltpflock,
+aus ihm der Kriegsbogen,
+aus ihm alle Herrscher zusammen.
+<sup>5</sup>Sie werden wie Helden sein,
+die im Kampf den Schlamm der Straßen zertreten.
+Sie werden kämpfen, denn der HERR ist mit ihnen.
+Und die Reiter auf den Pferden werden zuschanden.
+
+> **Was bedeutet das?**
+> Vers 1: Bittet Gott um Regen! Er allein gibt, was zum Leben nötig ist, nicht die Götzen.
+> Vers 2: Die „Hausgötter“ (WEB: „teraphim“, kleine Götterfiguren) und Wahrsager haben das Volk mit Lügen getröstet. Darum irrt das Volk umher „wie Schafe ohne Hirten“. Jesus benutzt dasselbe Bild, als er Mitleid mit den Menschenmengen hat (Matthäus 9,36).
+> Vers 3: Gott ist zornig auf die schlechten „Hirten“, also die Anführer, die ihr Volk im Stich gelassen haben. Die „Böcke“ sind die Mächtigen, die sich auf Kosten der anderen durchsetzen (vgl. Hesekiel 34,17).
+> Vers 4: Aus Juda selbst werden neue, gute Anführer kommen. Der „Eckstein“ trägt das ganze Haus, der „Zeltpflock“ hält das Zelt fest. Christen beziehen den „Eckstein“ oft auf Jesus (vgl. Psalm 118,22; Epheser 2,20).
+
+---
+
+### Ich werde sie heimbringen (Vers 6–12)
+
+<sup>6</sup>Ich werde das Haus Juda stärken,
+und ich werde das Haus Josef retten.
+Ich werde sie zurückbringen,
+denn ich erbarme mich über sie.
+Sie werden sein, als hätte ich sie nie verstoßen,
+denn ich bin der HERR, ihr Gott,
+und ich werde sie erhören.
+<sup>7</sup>Ephraim wird wie ein Held sein,
+und ihr Herz wird fröhlich sein wie vom Wein.
+Ja, ihre Kinder werden es sehen und sich freuen.
+Ihr Herz wird jubeln über den HERRN.
+<sup>8</sup>Ich werde ihnen pfeifen und sie sammeln,
+denn ich habe sie erlöst.
+Sie werden so zahlreich werden, wie sie früher waren.
+<sup>9</sup>Ich werde sie unter die Völker säen.
+In fernen Ländern werden sie an mich denken.
+Sie werden mit ihren Kindern leben und zurückkehren.
+<sup>10</sup>Ich werde sie auch aus dem Land Ägypten zurückbringen
+und sie aus Assur sammeln.
+Ich werde sie in das Land Gilead und auf den Libanon bringen,
+und es wird nicht genug Platz für sie sein.
+<sup>11</sup>Er wird durch das Meer der Bedrängnis ziehen
+und die Wellen im Meer schlagen,
+und alle Tiefen des Nil werden austrocknen.
+Der Stolz Assurs wird gestürzt werden,
+und das Zepter Ägyptens wird weichen.
+<sup>12</sup>Ich werde sie stark machen im HERRN.
+Sie werden in seinem Namen umherziehen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Vers 6: Gott wird nicht nur Juda (das Südreich) retten, sondern auch „das Haus Josef“, also das Nordreich Israel, das schon 722 vor Christus untergegangen war. Ganz Israel soll wieder vereint werden.
+> „Als hätte ich sie nie verstoßen“: Gottes Vergebung ist vollständig. Er fängt neu an, als wäre nichts gewesen.
+> Vers 8: Gott „pfeift“ seinem Volk wie ein Hirte seiner Herde. Und sie kommen.
+> Vers 9: Ein schönes Bild: Gott hat sein Volk unter die Völker „gesät“ wie Samen. Auch in der Ferne werden sie an Gott denken und wachsen.
+> Vers 10–11: Wie beim Auszug aus Ägypten wird Gott sein Volk durch das Meer führen. Ägypten und Assur stehen für alle Länder, in die Israel zerstreut wurde.
+
+## Sacharja – Kapitel 11
+#### Der gute Hirte und die dreißig Silberstücke
+
+---
+
+### Klage über die gefallenen Bäume (Vers 1–3)
+
+<sup>1</sup>Öffne deine Tore, Libanon,
+damit das Feuer deine Zedern verzehrt!
+<sup>2</sup>Heule, Zypresse,
+denn die Zeder ist gefallen,
+denn die Prächtigen sind verwüstet.
+Heult, ihr Eichen von Baschan,
+denn der undurchdringliche Wald ist gefallen.
+<sup>3</sup>Horch, das Heulen der Hirten!
+Denn ihre Herrlichkeit ist verwüstet.
+Horch, das Brüllen der jungen Löwen!
+Denn die Pracht des Jordan ist verwüstet.
+
+> **Was bedeutet das?**
+> Ein Klagelied: Die prächtigen Zedern des Libanon und die Eichen von Baschan fallen. Bäume sind in der Bibel oft ein Bild für stolze Mächtige und Herrscher (vgl. Jesaja 2,13; Hesekiel 31). Gemeint ist wahrscheinlich: Die stolzen Herrscher werden gestürzt.
+> Auch die „Hirten“ (die Anführer) klagen, denn ihre Macht ist dahin. Die „Pracht des Jordan“ ist das Dickicht am Jordanufer, in dem früher Löwen lebten.
+
+---
+
+### Sacharja als Hirte (Vers 4–14)
+
+<sup>4</sup>So spricht der HERR, mein Gott:
+„Weide die Schlachtschafe!
+<sup>5</sup>Ihre Käufer schlachten sie und bleiben ungestraft.
+Die sie verkaufen, sagen:
+‚Gepriesen sei der HERR, denn ich bin reich geworden!‘
+Und ihre eigenen Hirten haben kein Mitleid mit ihnen.
+<sup>6</sup>Denn ich werde kein Mitleid mehr haben mit den Bewohnern des Landes“,
+spricht der HERR,
+„sondern siehe, ich gebe jeden Menschen in die Hand seines Nächsten
+und in die Hand seines Königs.
+Sie werden das Land verwüsten,
+und ich werde niemanden aus ihrer Hand retten.“
+<sup>7</sup>Da weidete ich die Schlachtschafe,
+besonders die Elenden der Herde.
+Ich nahm mir zwei Stäbe.
+Den einen nannte ich „Huld“
+und den anderen nannte ich „Einheit“.
+Und ich weidete die Herde.
+<sup>8</sup>Ich beseitigte die drei Hirten in einem Monat.
+Denn ich war ihrer überdrüssig,
+und auch sie verabscheuten mich.
+<sup>9</sup>Da sagte ich:
+„Ich will euch nicht mehr weiden.
+Was sterben will, soll sterben,
+und was vernichtet werden soll, soll vernichtet werden.
+Und die Übriggebliebenen sollen einer des anderen Fleisch fressen.“
+<sup>10</sup>Ich nahm meinen Stab „Huld“ und zerbrach ihn,
+um meinen Bund zu brechen, den ich mit allen Völkern geschlossen hatte.
+<sup>11</sup>Er wurde an jenem Tag gebrochen.
+Und so erkannten die Elenden der Herde, die auf mich achteten,
+dass es das Wort des HERRN war.
+<sup>12</sup>Ich sagte zu ihnen:
+„Wenn es euch recht ist, gebt mir meinen Lohn,
+und wenn nicht, dann lasst es.“
+Da wogen sie mir als Lohn dreißig Silberstücke ab.
+<sup>13</sup>Der HERR sagte zu mir:
+„Wirf ihn dem Töpfer hin,
+den herrlichen Preis, den sie mir wert waren!“
+Da nahm ich die dreißig Silberstücke
+und warf sie im Haus des HERRN dem Töpfer hin.
+<sup>14</sup>Dann zerbrach ich meinen anderen Stab, „Einheit“,
+um die Bruderschaft zwischen Juda und Israel zu zerbrechen.
+
+> **Was bedeutet das?**
+> Dieses Kapitel gehört zu den schwierigsten im Alten Testament. Die Ausleger verstehen es sehr unterschiedlich. Klar ist: Sacharja führt eine Art Gleichnis-Handlung auf. Er spielt einen Hirten, der Gottes Rolle übernimmt.
+> Vers 4–6: Die „Schlachtschafe“ sind das Volk, das von seinen eigenen Anführern ausgebeutet wird. Die Händler werden reich, verkaufen die Schafe und danken dafür auch noch Gott! Niemand hat Mitleid mit ihnen.
+> Vers 7: Der Hirte kümmert sich besonders um die Schwächsten. Er hat zwei Stäbe: „Huld“ (Freundlichkeit, Gnade) und „Einheit“ (Verbundenheit).
+> Vers 8: Wer die „drei Hirten“ sind, wissen wir nicht. Es gibt über 40 verschiedene Deutungen.
+> Vers 9: Das Volk lehnt den guten Hirten ab. Da gibt er auf. Die schreckliche Folge: Hunger und Elend, so schlimm, dass Menschen sich gegenseitig zerfleischen. Das beschreibt die Gräuel von Belagerung und Hungersnot (vgl. 2. Könige 6,28–29). Es ist eine Warnung, kein Wunsch.
+> Vers 10–11: Der Stab „Huld“ wird zerbrochen: Gottes schützende Gnade wird zurückgezogen. Nur die „Elenden der Herde“ verstehen, was geschieht.
+> Vers 12–13: Der Hirte fragt nach seinem Lohn. Man gibt ihm dreißig Silberstücke. Das war der Preis für einen Sklaven (2. Mose 21,32). Gott nennt es mit bitterer Ironie „den herrlichen Preis, den sie mir wert waren“. So wenig ist Gott seinem Volk wert! Der Hirte wirft das Geld dem Töpfer im Tempel hin.
+> Diese Verse werden im Neuen Testament aufgegriffen: Judas verrät Jesus für dreißig Silberstücke. Später wirft er das Geld in den Tempel, und davon wird ein Töpferacker gekauft (Matthäus 26,15; 27,3–10). Matthäus nennt dabei den Propheten Jeremia. Wahrscheinlich verbindet er Sacharja mit Worten Jeremias über einen Töpfer und einen Acker (Jeremia 18–19; 32).
+> Vers 14: Der zweite Stab „Einheit“ wird zerbrochen: Auch die Einheit des Volkes zerbricht.
+
+---
+
+### Der nichtsnutzige Hirte (Vers 15–17)
+
+<sup>15</sup>Der HERR sagte zu mir:
+„Nimm dir noch einmal die Ausrüstung eines törichten Hirten!
+<sup>16</sup>Denn siehe, ich lasse einen Hirten im Land aufstehen,
+der sich um die Verlorenen nicht kümmert,
+die Versprengten nicht sucht,
+das Gebrochene nicht heilt
+und das Gesunde nicht versorgt,
+sondern das Fleisch der fetten Schafe frisst
+und ihnen die Klauen abreißt.
+<sup>17</sup>Wehe dem nichtsnutzigen Hirten, der die Herde verlässt!
+Das Schwert soll seinen Arm treffen und sein rechtes Auge.
+Sein Arm soll ganz verdorren,
+und sein rechtes Auge soll völlig erblinden!“
+
+> **Was bedeutet das?**
+> Nachdem der gute Hirte abgelehnt wurde, kommt ein schlechter Hirte. Er ist das genaue Gegenteil: Er kümmert sich um niemanden, er sucht die Verlorenen nicht, er heilt die Verletzten nicht. Er beutet die Herde nur aus.
+> Wer dieser schlechte Hirte war, wissen wir nicht. Es ist ein Bild für alle Anführer, die ihre Macht missbrauchen.
+> Vers 17: Das Gericht über ihn: Sein Arm (seine Kraft) und sein Auge (seine Einsicht) werden zerstört.
+> Der Gegensatz zum guten Hirten: Jesus sagt: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11). Er sucht das Verlorene (Lukas 15,4–7).
+> Für heute: Eine Mahnung an alle, die Verantwortung für andere tragen, in Politik, Kirche, Familie oder Beruf: Gute Leitung heißt, sich um die Schwachen zu kümmern.
