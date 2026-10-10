@@ -30,7 +30,7 @@ mein Öl und mein Getränk.‘
 > **Was bedeutet das?**
 > Hinweis zur Zählung: In deutschen Bibeln sind die Verse dieses Kapitels um zwei höher (2,3–25).
 > Vers 1: Die Namen der Kinder werden umgekehrt: Aus „Lo-Ammi“ (nicht mein Volk) wird „Ammi“ (mein Volk), aus „Lo-Ruhama“ (kein Erbarmen) wird „Ruhama“ (Geliebte, die Erbarmen findet).
-> Vers 2–5: Das „Mutter“ ist das Land Israel als Ganzes. Sie ist ihrem Mann (Gott) untreu. Ihre „Liebhaber“ sind die Baals-Götter. Die Menschen glaubten, dass Baal ihnen Regen, Brot, Wein und Wolle gibt. Sie hatten vergessen, dass alles von Gott kommt.
+> Vers 2–5: Die „Mutter“ ist das Land Israel als Ganzes. Sie ist ihrem Mann (Gott) untreu. Ihre „Liebhaber“ sind die Baals-Götter. Die Menschen glaubten, dass Baal ihnen Regen, Brot, Wein und Wolle gibt. Sie hatten vergessen, dass alles von Gott kommt.
 > Vers 3: Die Drohung, die Frau „nackt auszuziehen“, war damals eine Strafe für Ehebruch. Hier ist es ein Bild für das, was dem Land geschehen wird: Es wird kahl und leer wie eine Wüste.
 > Sehr wichtig: Dieses Bild rechtfertigt niemals, dass ein Mann seine Frau demütigt, schlägt oder bloßstellt. Solches Verhalten ist Gewalt und Unrecht. Wer Gewalt in der Beziehung erlebt: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00 (kostenlos, anonym).
 
@@ -94,7 +94,7 @@ und wie an dem Tag, als sie aus dem Land Ägypten heraufzog.
 [16] An jenem Tag wird es geschehen“,
 spricht der HERR,
 „dass du mich ‚mein Mann‘ nennen wirst
-und mich nicht mehr ‚mein Baal‘ nennen wirst.
+und mich nicht mehr ‚mein Gebieter‘ nennen wirst.
 [17] Denn ich werde die Namen der Baale aus ihrem Mund entfernen,
 und man wird ihrer Namen nicht mehr gedenken.
 
@@ -102,7 +102,7 @@ und man wird ihrer Namen nicht mehr gedenken.
 > Das ist einer der zärtlichsten Texte der Bibel! Nach all den Drohungen kommt plötzlich ein „Darum“, das niemand erwartet: Nicht „darum strafe ich sie“, sondern „darum will ich sie locken und ihr zu Herzen reden“. Gott wirbt um sein Volk wie ein Liebender.
 > Die Wüste erinnert an die erste Liebe zwischen Gott und Israel, als sie aus Ägypten kamen (vgl. Jeremia 2,2). Dort, wo es nichts gibt, was ablenkt, kann die Beziehung neu beginnen.
 > Vers 15: Das Tal Achor („Tal des Unglücks“) war ein Ort des Unheils (Josua 7,24–26). Jetzt wird es zur „Tür der Hoffnung“. Gott kann aus Orten des Unglücks Türen der Hoffnung machen.
-> Vers 16: Ein Wortspiel: „Baal“ bedeutet auf Hebräisch auch „Herr“ oder „Besitzer“ und wurde für den Ehemann gebraucht. Gott möchte nicht „mein Baal“ (mein Besitzer) genannt werden, sondern „mein Mann“ (hebräisch „Ischi“). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
+> Vers 16: Ein Wortspiel: Das WEB übersetzt „my master“ (mein Gebieter). Im Hebräischen steht dort „Baali“, also „mein Baal“. „Baal“ bedeutet auf Hebräisch auch „Herr“ oder „Besitzer“ und wurde für den Ehemann gebraucht. Gott möchte nicht „mein Baal“ (mein Besitzer) genannt werden, sondern „mein Mann“ (hebräisch „Ischi“). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
 
 ---
 
