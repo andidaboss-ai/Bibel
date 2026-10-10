@@ -51,7 +51,7 @@ Und keiner von euch soll in seinem Herzen Böses gegen seinen Bruder planen.‘
 [11] Aber sie weigerten sich, darauf zu achten,
 kehrten ihm trotzig den Rücken zu
 und verstopften ihre Ohren, um nicht zu hören.
-[12] Ja, sie machten ihre Herzen hart wie Diamant,
+[12] Ja, sie machten ihre Herzen hart wie Feuerstein,
 um das Gesetz nicht zu hören
 und die Worte, die der HERR der Heere durch seinen Geist
 durch die früheren Propheten gesandt hatte.
@@ -73,7 +73,7 @@ Denn sie haben das liebliche Land zur Wüste gemacht.“
 > Die Schwächsten nicht unterdrücken: Witwen, Waisen, Fremde und Arme.
 > Nicht einmal im Herzen Böses gegen andere planen.
 > Das erinnert an Jesaja 58: „Ist nicht das ein Fasten, wie ich es liebe: dass du das Unrecht beendest … dem Hungrigen dein Brot brichst?“ und an Micha 6,8.
-> Vers 11–12: Die Vorfahren wollten das nicht hören. Sie machten ihre Herzen hart „wie Diamant“ (oder „Feuerstein“).
+> Vers 11–12: Die Vorfahren wollten das nicht hören. Sie machten ihre Herzen hart „wie Feuerstein“ (andere übersetzen „wie Diamant“).
 > Vers 13–14: Darum kam das Exil. Wer nicht auf Gott hört, wenn er ruft, wird erleben, dass Gott schweigt, wenn er selbst ruft.
 > Für heute: Wie gehen wir mit Fremden, Armen und Alleinstehenden um? Für Gott ist das wichtiger als jede religiöse Übung.
 

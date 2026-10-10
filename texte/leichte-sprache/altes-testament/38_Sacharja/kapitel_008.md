@@ -12,7 +12,7 @@ und mit großem Grimm eifere ich für sie.“
 [3] So spricht der HERR:
 „Ich bin nach Zion zurückgekehrt
 und werde mitten in Jerusalem wohnen.
-Jerusalem wird ‚Stadt der Treue‘ heißen
+Jerusalem wird ‚Stadt der Wahrheit‘ heißen
 und der Berg des HERRN der Heere ‚Heiliger Berg‘.“
 [4] So spricht der HERR der Heere:
 „Es werden wieder alte Männer und alte Frauen
@@ -37,7 +37,7 @@ in Treue und in Gerechtigkeit.“
 
 > **Was bedeutet das?**
 > Kapitel 8 ist voller Verheißungen. Zehnmal heißt es „So spricht der HERR“.
-> Vers 3: Jerusalem bekommt einen neuen Namen: „Stadt der Treue“ (WEB: „City of Truth“, „Stadt der Wahrheit“). Das hebräische Wort bedeutet beides.
+> Vers 3: Jerusalem bekommt einen neuen Namen: „Stadt der Wahrheit“. Das hebräische Wort bedeutet auch „Treue“: eine Stadt, in der man sich aufeinander verlassen kann.
 > Vers 4–5: Eines der schönsten Bilder der Bibel: Alte Menschen sitzen in Ruhe auf den Plätzen, Kinder spielen auf den Straßen. Das ist ein Bild für Frieden und Sicherheit. Im Krieg sterben zuerst die Schwachen, die Alten und die Kinder. Wenn sie in Ruhe leben können, herrscht wirklich Frieden.
 > Vers 6: Für die kleine, arme Gemeinde in den Ruinen klingt das unglaublich. Aber Gott sagt: Für mich ist nichts unmöglich.
 > Vers 7–8: Gott wird sein Volk aus Osten und Westen, aus der ganzen Welt, heimholen. „Sie werden mein Volk sein, und ich werde ihr Gott sein“, das ist die Bundesformel (vgl. Jeremia 31,33).

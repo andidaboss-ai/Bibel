@@ -45,7 +45,7 @@ und sieh, was da hervorkommt.“
 Er sagte:
 „Das ist ein Efa-Fass, das hervorkommt.“
 Und er sagte weiter:
-„So sieht ihre Schuld im ganzen Land aus.
+„So sieht es mit ihnen im ganzen Land aus.
 [7] Und siehe, ein Bleideckel, ein Talent schwer, wurde hochgehoben,
 und da saß eine Frau mitten in dem Efa-Fass.“
 [8] Er sagte:
@@ -66,7 +66,7 @@ wird sie dort an ihren eigenen Platz gestellt werden.“
 
 > **Was bedeutet das?**
 > Ein Efa war ein Hohlmaß für Getreide, etwa 20 bis 40 Liter. Hier ist es ein großer Korb oder ein Fass mit einem schweren Deckel aus Blei (ein Talent wog etwa 30 Kilogramm).
-> Vers 6: Im WEB heißt es „their appearance“ („ihr Aussehen“). Viele Übersetzungen folgen hier einer kleinen Änderung im Text und lesen „ihre Schuld“. Gemeint ist: Das Fass enthält die Schuld des ganzen Landes.
+> Vers 6: Wörtlich heißt es im WEB „ihr Aussehen“ („their appearance“). Viele Übersetzungen folgen hier einer kleinen Änderung im Text und lesen „ihre Schuld“. Gemeint ist wohl: Das Fass zeigt, wie es um die Schuld im ganzen Land steht.
 > Vers 7–8: Im Fass sitzt eine Frau. Der Engel sagt: „Das ist die Bosheit.“ Im Hebräischen ist das Wort für „Bosheit“ weiblich, darum wird sie als Frau dargestellt. Das ist ein Bild, keine Aussage über Frauen. Bosheit gibt es bei Männern wie bei Frauen.
 > Vers 9: Auffällig: Zwei andere Frauen mit Flügeln wie Störche tragen das Fass weg. Sie stehen im Dienst Gottes. Frauen sind in dieser Vision also auch Gottes Helferinnen.
 > Vers 11: Das Fass wird nach „Schinar“ gebracht, das ist Babylonien (vgl. 1. Mose 11,2, der Turmbau zu Babel). Dort bekommt die Bosheit einen „Tempel“. Die Botschaft: Gott entfernt das Böse aus seinem Land und bringt es dorthin, wo es hingehört, weit weg.
