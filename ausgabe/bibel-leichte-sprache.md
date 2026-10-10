@@ -111200,3 +111200,381 @@ spricht der HERR, dein Gott.
 > **Hoffnung am Ende:** Gott wird die zerfallene Hütte Davids wieder aufrichten (9,11).
 > **Für heute:** Amos fragt uns: Wie gehen wir mit armen und schwachen Menschen um? Passen unser Glaube und unser Alltag zusammen? Wo ist Gerechtigkeit nötig, in unserer Stadt, unserem Land, in der Welt?
 > **Wie geht es weiter?** Als Nächstes kommt Obadja, das kürzeste Buch des Alten Testaments, nur ein Kapitel lang. Es ist ein Wort gegen Edom, das sich am Unglück seines Brudervolkes gefreut hat.
+
+
+---
+
+# Obadja
+
+## Obadja – Kapitel 1
+#### Freu dich nicht über das Unglück deines Bruders
+
+---
+
+### Bevor es losgeht: Wer war Obadja?
+
+Obadja ist das kürzeste Buch des Alten Testaments. Es hat nur ein einziges Kapitel mit 21 Versen.
+Über den Propheten selbst wissen wir fast nichts. Sein Name bedeutet „Diener des HERRN“.
+Das Buch richtet sich gegen Edom. Edom war ein Nachbarvolk südöstlich vom Toten Meer, in einem felsigen Bergland. Die Edomiter galten als Nachkommen von Esau, dem Zwillingsbruder Jakobs (1. Mose 25–36). Israel und Edom waren also „Brudervölker“.
+Wahrscheinlich geht es um die Zeit, als die Babylonier im 6. Jahrhundert vor Christus Jerusalem eroberten (um 587/586 vor Christus). Die Edomiter haben damals nicht geholfen. Im Gegenteil: Sie haben sich gefreut, mitgeplündert und Flüchtlinge ausgeliefert (vgl. Psalm 137,7; Hesekiel 35).
+Die Botschaft: Wer sich über das Unglück anderer freut und Schwache ausnutzt, wird selbst gerichtet. „Wie du getan hast, so wird dir getan werden“ (Vers 15).
+
+---
+
+### Der Stolz Edoms (Vers 1–4)
+
+<sup>1</sup>Die Vision Obadjas.
+So spricht der Herr, der HERR, über Edom:
+Wir haben eine Nachricht vom HERRN gehört,
+und ein Bote ist unter die Völker gesandt worden, der sagt:
+„Auf, lasst uns gegen sie aufstehen zum Kampf!“
+<sup>2</sup>„Siehe, ich habe dich klein gemacht unter den Völkern.
+Du bist sehr verachtet.
+<sup>3</sup>Der Stolz deines Herzens hat dich betrogen,
+dich, der du in den Felsspalten wohnst,
+dessen Wohnung hoch oben ist,
+der in seinem Herzen sagt:
+‚Wer wird mich zu Boden stürzen?‘
+<sup>4</sup>Auch wenn du so hoch hinaufsteigst wie der Adler
+und auch wenn dein Nest zwischen den Sternen gebaut ist,
+werde ich dich von dort herunterstürzen“,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Edom lebte in einem Bergland mit steilen Felsen. Die Städte lagen hoch oben und galten als uneinnehmbar. (Die berühmte Felsenstadt Petra liegt in dieser Gegend, wurde aber erst später von den Nabatäern ausgebaut.)
+> Edom fühlte sich deshalb völlig sicher: „Wer kann mich schon herunterholen?“
+> Gott antwortet: Dein Stolz hat dich betrogen. Selbst wenn du dein Nest zwischen den Sternen baust, hole ich dich herunter.
+> Für heute: Wer sich für unangreifbar hält, wird leicht überheblich. Sicherheit gibt es nicht durch Mauern, Reichtum oder Macht.
+
+---
+
+### Ausgeplündert und von Freunden verraten (Vers 5–9)
+
+<sup>5</sup>„Wenn Diebe zu dir kämen,
+wenn Räuber in der Nacht kämen –
+oh, welches Unheil erwartet dich! –,
+würden sie nicht nur stehlen, bis sie genug hätten?
+Wenn Weinleser zu dir kämen,
+würden sie nicht eine Nachlese übrig lassen?
+<sup>6</sup>Wie wird Esau durchsucht werden!
+Wie werden seine versteckten Schätze aufgespürt!
+<sup>7</sup>Alle Männer deines Bündnisses
+haben dich bis an die Grenze gebracht.
+Die Männer, die mit dir in Frieden lebten,
+haben dich betrogen und überwältigt.
+Freunde, die dein Brot essen,
+legen dir eine Falle.
+Es ist kein Verstand in ihm.“
+<sup>8</sup>„Werde ich nicht an jenem Tag“, spricht der HERR,
+„die Weisen aus Edom vertilgen
+und den Verstand vom Gebirge Esaus?
+<sup>9</sup>Deine Helden, Teman, werden erschrecken,
+damit jeder vom Gebirge Esaus durch Morden ausgerottet wird.
+
+> **Was bedeutet das?**
+> Vers 5–6: Selbst Diebe nehmen nur so viel, wie sie tragen können. Und Weinleser lassen immer ein paar Trauben für die Armen hängen. Aber Edom wird vollständig ausgeplündert. Nichts bleibt übrig.
+> Vers 7: Ausgerechnet die Verbündeten und Freunde, mit denen Edom am Tisch saß, werden es verraten. Das erinnert an Psalm 41,10.
+> Vers 8: Edom war berühmt für seine Weisheit (vgl. Jeremia 49,7). Hiobs Freund Elifas kam aus Teman (Hiob 2,11). Aber diese Weisheit wird nicht helfen.
+> Teman ist ein Ort oder eine Gegend in Edom und steht hier für das ganze Land.
+
+---
+
+### Was Edom seinem Bruder angetan hat (Vers 10–14)
+
+<sup>10</sup>Wegen der Gewalt an deinem Bruder Jakob
+wird Schande dich bedecken,
+und du wirst für immer ausgerottet werden.
+<sup>11</sup>An dem Tag, als du danebenstandest,
+an dem Tag, als Fremde sein Hab und Gut wegschleppten
+und Ausländer in seine Tore eindrangen
+und das Los über Jerusalem warfen,
+da warst auch du wie einer von ihnen.
+<sup>12</sup>Aber schau nicht herab auf deinen Bruder
+am Tag seines Unglücks,
+und freu dich nicht über die Kinder Judas
+am Tag ihres Untergangs.
+Rede nicht großspurig
+am Tag der Not.
+<sup>13</sup>Dring nicht in das Tor meines Volkes ein
+am Tag ihres Unheils.
+Schau nicht herab auf ihr Elend
+am Tag ihres Unheils,
+und greif nicht nach ihrem Besitz
+am Tag ihres Unheils.
+<sup>14</sup>Stell dich nicht an die Wegkreuzungen,
+um seine Entkommenen umzubringen.
+Liefere seine Übriggebliebenen nicht aus
+am Tag der Not.
+
+> **Was bedeutet das?**
+> Das ist das Herz des Buches. Was hat Edom falsch gemacht?
+> Vers 11: Es hat zugeschaut, als die Feinde Jerusalem plünderten. Es stand „daneben“ und war damit „wie einer von ihnen“. Wer bei Unrecht zuschaut und nichts tut, macht sich mitschuldig.
+> Vers 12–14: Und es wurde immer schlimmer: Erst schaute Edom herab, dann freute es sich, dann prahlte es, dann plünderte es mit, und schließlich lauerte es Flüchtlingen an den Wegkreuzungen auf und lieferte sie an die Feinde aus.
+> Das Besondere: Edom war das „Brudervolk“. Hier zeigt sich der alte Streit zwischen den Zwillingen Jakob und Esau (1. Mose 27).
+> Für heute: Schadenfreude, wegschauen, Flüchtlinge abweisen oder ausliefern, aus dem Unglück anderer Gewinn schlagen. Obadja zeigt, wie ernst Gott das nimmt.
+
+---
+
+### Der Tag des HERRN für alle Völker (Vers 15–16)
+
+<sup>15</sup>Denn der Tag des HERRN ist nahe über allen Völkern!
+Wie du getan hast, so wird dir getan werden.
+Deine Taten werden auf deinen eigenen Kopf zurückfallen.
+<sup>16</sup>Denn wie ihr auf meinem heiligen Berg getrunken habt,
+so werden alle Völker immerzu trinken.
+Ja, sie werden trinken und hinunterschlucken
+und werden sein, als wären sie nie gewesen.
+
+> **Was bedeutet das?**
+> Vers 15: Ein Grundsatz der Gerechtigkeit Gottes: Was du anderen antust, kommt auf dich zurück. Jesus sagt etwas Ähnliches: „Mit dem Maß, mit dem ihr messt, wird euch gemessen werden“ (Matthäus 7,2). Und positiv gesagt: „Alles, was ihr wollt, dass euch die Menschen tun, das tut ihnen auch“ (Matthäus 7,12).
+> Vers 16: Ein Bild aus der Prophetie: der „Becher“ des Gerichts. Edom hat auf dem Zionsberg gefeiert und getrunken, als Jerusalem fiel. Jetzt müssen alle Völker den Becher des Gerichts trinken (vgl. Jeremia 25,15–29).
+
+---
+
+### Rettung auf dem Berg Zion (Vers 17–21)
+
+<sup>17</sup>Aber auf dem Berg Zion wird es Entkommene geben,
+und er wird heilig sein.
+Das Haus Jakob wird seinen Besitz wieder in Besitz nehmen.
+<sup>18</sup>Das Haus Jakob wird ein Feuer sein
+und das Haus Josef eine Flamme
+und das Haus Esau Stoppeln.
+Sie werden unter ihnen brennen und sie verzehren.
+Vom Haus Esau wird niemand übrig bleiben.“
+Ja, der HERR hat gesprochen.
+<sup>19</sup>Die aus dem Süden werden das Gebirge Esaus besitzen
+und die aus der Niederung die Philister.
+Sie werden das Gebiet Ephraims besitzen
+und das Gebiet Samarias.
+Benjamin wird Gilead besitzen.
+<sup>20</sup>Die Gefangenen dieses Heeres der Kinder Israel,
+die unter den Kanaanitern sind,
+werden das Land bis nach Zarpat besitzen.
+Und die Gefangenen Jerusalems, die in Sefarad sind,
+werden die Städte des Südlandes besitzen.
+<sup>21</sup>Retter werden auf den Berg Zion hinaufziehen,
+um das Gebirge Esaus zu richten,
+und das Königtum wird dem HERRN gehören.
+
+> **Was bedeutet das?**
+> Vers 17: Nach der Katastrophe gibt es Hoffnung: Auf dem Zion wird es Gerettete geben. Die Verbannten werden zurückkehren und ihr Land wiederbekommen.
+> Vers 18: Ein hartes Bild: Jakob wird ein Feuer, Esau wird Stoppeln. Diese Sprache ist in Kriegszeiten entstanden, nach großem erlittenen Unrecht. Es ist Gottes Gericht, das hier angekündigt wird, kein Auftrag an Menschen, ein Volk zu vernichten. Kein Volk darf heute mit solchen Versen Hass oder Gewalt gegen ein anderes Volk begründen.
+> Vers 19–20: Das Land wird wieder in Besitz genommen, in alle Himmelsrichtungen. Zarpat liegt an der Küste im Norden (bei Sidon). Wo „Sefarad“ lag, ist unsicher; oft denkt man an Sardes in Kleinasien. Später nannten die Juden Spanien „Sefarad“; daher kommt der Name „sephardische Juden“.
+> Vers 21: Das letzte Wort: „Das Königtum wird dem HERRN gehören.“ Nicht Edom, nicht Israel, nicht irgendeine Macht der Welt hat das letzte Wort, sondern Gott. Die „Retter“ sind Menschen, die Gott beruft, um Recht zu schaffen.
+
+---
+
+### Rückblick: Was haben wir im Buch Obadja gelesen?
+
+> **Was bedeutet das?**
+> **Das kürzeste Buch:** Obadja hat nur 21 Verse. Es ist ein Wort gegen Edom, das Brudervolk Israels.
+> **Hochmut kommt vor dem Fall:** Edom fühlte sich in seinen Felsen sicher. „Wer wird mich herunterholen?“ Gott sagt: „Ich“ (Vers 3–4).
+> **Wegschauen macht mitschuldig:** „Du standest daneben … und warst wie einer von ihnen“ (Vers 11).
+> **Keine Schadenfreude:** Freu dich nicht, wenn es deinem Bruder schlecht geht. Nutze seine Not nicht aus. Liefere Flüchtlinge nicht aus (Vers 12–14).
+> **Was du tust, kommt zurück:** „Wie du getan hast, so wird dir getan werden“ (Vers 15).
+> **Gott hat das letzte Wort:** „Das Königtum wird dem HERRN gehören“ (Vers 21).
+> **Für heute:** Wie reagiere ich, wenn es anderen schlecht geht, auch Menschen, mit denen ich im Streit bin? Schaue ich weg, freue ich mich heimlich, oder helfe ich?
+> **Wie geht es weiter?** Als Nächstes kommt Jona, der Prophet, der vor Gott weglief. Eine Geschichte über Gottes Barmherzigkeit, sogar für die Feinde Israels.
+
+
+---
+
+# Jona
+
+## Jona – Kapitel 1
+#### Jona läuft vor Gott davon
+
+---
+
+### Bevor es losgeht: Wer war Jona?
+
+Das Buch Jona ist anders als die anderen Prophetenbücher. Es enthält kaum Prophetenworte, sondern eine spannende Geschichte über einen Propheten.
+Ein Prophet Jona, Sohn Amittais, wird auch in 2. Könige 14,25 erwähnt. Er lebte im 8. Jahrhundert vor Christus im Nordreich Israel, zur Zeit von König Jerobeam II.
+Ninive war die Hauptstadt von Assyrien, dem gefährlichsten Feind Israels. Die Assyrer waren für ihre Grausamkeit gefürchtet. Sie zerstörten später das Nordreich Israel (722 vor Christus).
+Und ausgerechnet zu diesen Feinden soll Jona gehen!
+Viele Ausleger meinen, dass das Buch erst später aufgeschrieben wurde, und lesen es als lehrreiche Erzählung. Andere lesen es als Bericht über tatsächliche Ereignisse. Jesus selbst bezieht sich auf Jona (Matthäus 12,39–41).
+Im Judentum wird das Buch Jona am Versöhnungstag (Jom Kippur) gelesen, dem höchsten Feiertag. Denn es geht um Umkehr und Vergebung.
+Die große Frage des Buches: Darf Gott auch mit den Feinden barmherzig sein? Das Buch hat 4 Kapitel.
+
+---
+
+### Jona flieht (Vers 1–3)
+
+<sup>1</sup>Das Wort des HERRN erging an Jona, den Sohn Amittais:
+<sup>2</sup>„Steh auf, geh nach Ninive, in die große Stadt,
+und predige gegen sie,
+denn ihre Bosheit ist vor mich heraufgekommen.“
+<sup>3</sup>Aber Jona stand auf,
+um vor dem HERRN nach Tarschisch zu fliehen.
+Er ging hinab nach Jafo
+und fand ein Schiff, das nach Tarschisch fuhr.
+Er bezahlte das Fahrgeld und stieg hinab hinein,
+um mit ihnen nach Tarschisch zu fahren,
+weg vom HERRN.
+
+> **Was bedeutet das?**
+> Gott schickt Jona nach Ninive, das liegt im Osten (im heutigen Irak, bei Mossul). Jona steht auf und läuft genau in die entgegengesetzte Richtung: nach Tarschisch, ganz im Westen, wahrscheinlich in Spanien. Das war damals das Ende der bekannten Welt.
+> Warum flieht Jona? Das erfahren wir erst in Kapitel 4: Er wusste, dass Gott barmherzig ist, und wollte nicht, dass die Feinde gerettet werden.
+> Auffällig: Jona geht immer „hinab“: hinab nach Jafo, hinab ins Schiff, später hinab in den Bauch des Schiffes und hinab ins Meer. Wer vor Gott flieht, geht abwärts.
+> Jafo ist das heutige Jaffa, ein Teil von Tel Aviv.
+
+---
+
+### Der Sturm (Vers 4–6)
+
+<sup>4</sup>Aber der HERR schickte einen großen Wind auf das Meer,
+und es gab einen gewaltigen Sturm auf dem Meer,
+sodass das Schiff zu zerbrechen drohte.
+<sup>5</sup>Da bekamen die Seeleute Angst,
+und jeder schrie zu seinem Gott.
+Sie warfen die Ladung, die im Schiff war, ins Meer,
+um das Schiff leichter zu machen.
+Aber Jona war in den untersten Raum des Schiffes hinabgestiegen,
+hatte sich hingelegt und schlief fest.
+<sup>6</sup>Da kam der Kapitän zu ihm und sagte zu ihm:
+„Was ist mit dir, du Schläfer?
+Steh auf, ruf deinen Gott an!
+Vielleicht denkt dein Gott an uns,
+damit wir nicht umkommen.“
+
+> **Was bedeutet das?**
+> Man kann vor Gott nicht davonlaufen (vgl. Psalm 139,7–10). Gott schickt einen Sturm.
+> Die Seeleute kommen aus verschiedenen Völkern und beten zu verschiedenen Göttern. Sie tun alles, um das Schiff zu retten.
+> Und Jona? Er schläft. Ausgerechnet der Kapitän, ein Heide, muss den Propheten auffordern: „Steh auf, ruf deinen Gott an!“ Das sind fast dieselben Worte, mit denen Gott ihn gerufen hatte: „Steh auf, geh!“
+
+---
+
+### Das Los fällt auf Jona (Vers 7–10)
+
+<sup>7</sup>Sie sagten alle zueinander:
+„Kommt, lasst uns Lose werfen,
+damit wir erfahren, wer schuld ist an diesem Unheil, das uns trifft.“
+Da warfen sie Lose,
+und das Los fiel auf Jona.
+<sup>8</sup>Da fragten sie ihn:
+„Sag uns doch, um wessen willen trifft uns dieses Unheil?
+Was ist dein Beruf?
+Woher kommst du?
+Was ist dein Land?
+Aus welchem Volk bist du?“
+<sup>9</sup>Er sagte zu ihnen:
+„Ich bin ein Hebräer,
+und ich fürchte den HERRN, den Gott des Himmels,
+der das Meer und das trockene Land gemacht hat.“
+<sup>10</sup>Da fürchteten sich die Männer sehr
+und sagten zu ihm:
+„Was hast du getan?“
+Denn die Männer wussten, dass er vor dem HERRN floh,
+weil er es ihnen erzählt hatte.
+
+> **Was bedeutet das?**
+> Das Los zeigt auf Jona. Die Seeleute fragen ihn aus.
+> Vers 9: Jonas Bekenntnis klingt fromm: „Ich fürchte den HERRN, der das Meer gemacht hat.“ Aber es ist widersprüchlich: Er sagt, er fürchtet den Gott, der das Meer gemacht hat, und versucht gleichzeitig, vor ihm übers Meer zu fliehen.
+> Vers 10: Die Seeleute verstehen sofort, wie gefährlich das ist: „Was hast du getan?“
+
+---
+
+### Jona wird ins Meer geworfen (Vers 11–16)
+
+<sup>11</sup>Da sagten sie zu ihm:
+„Was sollen wir mit dir tun,
+damit das Meer sich für uns beruhigt?“
+Denn das Meer wurde immer stürmischer.
+<sup>12</sup>Er sagte zu ihnen:
+„Nehmt mich und werft mich ins Meer.
+Dann wird sich das Meer für euch beruhigen.
+Denn ich weiß, dass dieser große Sturm um meinetwillen über euch gekommen ist.“
+<sup>13</sup>Trotzdem ruderten die Männer mit aller Kraft,
+um das Land wieder zu erreichen.
+Aber sie konnten es nicht,
+denn das Meer wurde immer stürmischer gegen sie.
+<sup>14</sup>Da schrien sie zum HERRN und sagten:
+„Ach, HERR, wir bitten dich,
+lass uns nicht umkommen wegen des Lebens dieses Mannes,
+und lade nicht unschuldiges Blut auf uns,
+denn du, HERR, hast getan, wie es dir gefallen hat.“
+<sup>15</sup>Dann nahmen sie Jona und warfen ihn ins Meer,
+und das Meer hörte auf zu toben.
+<sup>16</sup>Da fürchteten die Männer den HERRN sehr.
+Sie brachten dem HERRN ein Opfer dar
+und legten Gelübde ab.
+
+> **Was bedeutet das?**
+> Jona weiß: Ich bin schuld. Er ist bereit, sich ins Meer werfen zu lassen. Aber er ist offenbar immer noch nicht bereit, umzukehren und zu beten.
+> Vers 13: Die Seeleute sind erstaunlich menschlich: Sie wollen Jona nicht opfern. Sie rudern mit aller Kraft, um ihn zu retten.
+> Vers 14: Dann beten sie zum HERRN, zum Gott Israels, und bitten um Vergebung.
+> Vers 16: Am Ende fürchten die heidnischen Seeleute den HERRN, opfern und legen Gelübde ab. Ironie der Geschichte: Der fliehende Prophet bringt Menschen aus anderen Völkern zu Gott, ganz ohne es zu wollen.
+> Die Seeleute zeigen mehr Mitgefühl und Gottesfurcht als der Prophet. Das Buch Jona zeigt immer wieder: Gott wirkt auch unter Menschen, von denen man es nicht erwartet.
+
+---
+
+### Der große Fisch (Vers 17)
+
+<sup>17</sup>Der HERR bestellte einen großen Fisch,
+der Jona verschlingen sollte.
+Und Jona war im Bauch des Fisches drei Tage und drei Nächte.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln ist dieser Vers meistens Kapitel 2, Vers 1. Deshalb sind die Verse in Kapitel 2 dort um eins verschoben.
+> Gott lässt Jona nicht untergehen. Er „bestellt“ einen großen Fisch, der ihn rettet. Die Bibel sagt „Fisch“, nicht „Wal“. Der Wal kommt aus späteren Übersetzungen und Bildern.
+> „Drei Tage und drei Nächte“: Jesus vergleicht das mit seinem Tod und seiner Auferstehung. „Wie Jona drei Tage und drei Nächte im Bauch des Fisches war, so wird der Menschensohn drei Tage und drei Nächte im Herzen der Erde sein“ (Matthäus 12,40).
+
+## Jona – Kapitel 2
+#### Jonas Gebet im Bauch des Fisches
+
+---
+
+### Jona betet (Vers 1–9)
+
+<sup>1</sup>Da betete Jona zum HERRN, seinem Gott,
+aus dem Bauch des Fisches.
+<sup>2</sup>Er sagte:
+„Ich rief in meiner Not zum HERRN,
+und er antwortete mir.
+Aus dem Bauch des Totenreichs schrie ich,
+und du hast meine Stimme gehört.
+<sup>3</sup>Denn du hast mich in die Tiefe geworfen,
+mitten ins Herz der Meere.
+Die Flut war rings um mich.
+Alle deine Wogen und deine Wellen gingen über mich hinweg.
+<sup>4</sup>Ich sagte:
+‚Ich bin von deinen Augen verstoßen.
+Und doch werde ich wieder auf deinen heiligen Tempel schauen.‘
+<sup>5</sup>Die Wasser umgaben mich bis an die Seele.
+Die Tiefe war um mich herum.
+Seetang war um meinen Kopf gewickelt.
+<sup>6</sup>Ich sank hinab bis zu den Gründen der Berge.
+Die Erde schloss ihre Riegel hinter mir für immer.
+Und doch hast du mein Leben aus der Grube heraufgeholt,
+HERR, mein Gott.
+<sup>7</sup>Als meine Seele in mir verzagte,
+dachte ich an den HERRN.
+Mein Gebet kam zu dir,
+in deinen heiligen Tempel.
+<sup>8</sup>Die nichtige Götzen verehren,
+verlassen ihre eigene Gnade.
+<sup>9</sup>Ich aber will dir opfern
+mit der Stimme des Dankes.
+Was ich gelobt habe, will ich bezahlen.
+Die Rettung gehört dem HERRN.“
+
+> **Was bedeutet das?**
+> In deutschen Bibeln sind diese Verse meistens um eins verschoben (dort Vers 2–10).
+> Jona betet endlich, ganz unten, im Bauch des Fisches. Sein Gebet ist ein Dankpsalm. Viele Worte erinnern an die Psalmen (zum Beispiel Psalm 18; 42,8; 69,2–3; 120,1).
+> Vers 2: „Totenreich“: Jona war dem Tod ganz nah. Er fühlte sich schon wie im Reich der Toten.
+> Vers 4: Selbst als er sich von Gott verstoßen fühlte, hat er die Hoffnung nicht aufgegeben: „Ich werde wieder auf deinen Tempel schauen.“
+> Vers 6: Tiefer geht es nicht. Aber: „Und doch hast du mein Leben heraufgeholt.“ Das ist der Wendepunkt.
+> Vers 8: Ein Satz, der zu denken gibt. Ausgerechnet über die Götzendiener urteilt Jona hart, obwohl die heidnischen Seeleute in Kapitel 1 gerade zum HERRN gebetet haben.
+> Vers 9: „Die Rettung gehört dem HERRN.“ Das ist der Kern des ganzen Buches. Gott allein rettet, wen er will, auch Jona und später auch Ninive.
+> Für heute: Manchmal betet man erst, wenn man ganz unten ist. Und auch dann hört Gott. Wenn du dich selbst „ganz unten“ fühlst und nicht weiterweißt: Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Jona wird an Land gespuckt (Vers 10)
+
+<sup>10</sup>Da sprach der HERR zu dem Fisch,
+und er spuckte Jona auf das trockene Land aus.
+
+> **Was bedeutet das?**
+> Der Fisch gehorcht Gott sofort. Im ganzen Buch gehorchen alle Gott: der Wind, das Meer, der Fisch, die Seeleute, später die Leute von Ninive. Nur einer tut sich schwer: der Prophet selbst.
+> Jona bekommt eine zweite Chance. Davon erzählt Kapitel 3.
