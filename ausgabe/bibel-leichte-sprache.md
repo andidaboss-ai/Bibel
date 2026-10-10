@@ -113218,3 +113218,409 @@ Für den Chorleiter, mit meinen Saiteninstrumenten.
 > **Vertrauen trotz allem:** „Auch wenn der Feigenbaum nicht blüht … so will ich mich doch freuen im HERRN“ (3,17–18).
 > **Für heute:** Habakuk ermutigt uns, Gott ehrlich unsere Fragen zu stellen, und zeigt einen Weg vom Zweifel zum Vertrauen.
 > **Wie geht es weiter?** Als Nächstes kommt Zefanja. Er spricht vom „Tag des HERRN“, aber auch von Gottes Liebe: „Er wird sich über dich freuen mit Jubel“ (Zefanja 3,17).
+
+
+---
+
+# Zefanja
+
+## Zefanja – Kapitel 1
+#### Der große Tag des HERRN ist nahe
+
+---
+
+### Bevor es losgeht: Wer war Zefanja?
+
+Zefanja lebte zur Zeit von König Josia von Juda (640–609 vor Christus). Sein Stammbaum wird ungewöhnlich lang angegeben, bis zu seinem Ururgroßvater Hiskija. Vielleicht war das der berühmte König Hiskija; dann wäre Zefanja mit dem Königshaus verwandt gewesen. Sicher ist das aber nicht.
+Sein Vater hieß Kuschi. Der Name kann „der Kuschiter“ bedeuten, also jemand aus Kusch, südlich von Ägypten. Manche Ausleger vermuten deshalb, dass Zefanja afrikanische Vorfahren hatte. Auch das ist nicht sicher.
+Sein Name bedeutet: „Der HERR hat verborgen“ oder „Der HERR schützt“. Das passt zu seiner Botschaft: Wer Gott sucht, wird am Tag des Gerichts „verborgen“, also geschützt (2,3).
+Vor König Josia hatten die Könige Manasse und Amon den Götzendienst in Juda gefördert. Zefanja prangert das an. Wahrscheinlich hat er vor oder während Josias großer Reform (ab etwa 622 vor Christus, 2. Könige 22–23) gewirkt.
+Das große Thema ist der „Tag des HERRN“: ein Tag des Gerichts über Juda und alle Völker. Aber am Ende steht eine der schönsten Verheißungen der Bibel: Gott freut sich über sein Volk mit Jubel (3,17). Das Buch hat 3 Kapitel.
+
+---
+
+### Gericht über die ganze Erde (Vers 1–3)
+
+<sup>1</sup>Das Wort des HERRN, das an Zefanja erging,
+den Sohn Kuschis, des Sohnes Gedaljas, des Sohnes Amarjas, des Sohnes Hiskijas,
+in den Tagen Josias, des Sohnes Amons, des Königs von Juda.
+<sup>2</sup>Ich werde alles gänzlich wegraffen
+von der Fläche der Erde,
+spricht der HERR.
+<sup>3</sup>Ich werde Mensch und Tier wegraffen.
+Ich werde die Vögel des Himmels wegraffen
+und die Fische des Meeres
+und die Trümmerhaufen mitsamt den Gottlosen.
+Ich werde den Menschen ausrotten
+von der Fläche der Erde,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Zefanja beginnt mit einem gewaltigen Bild: Gott wird alles wegraffen. Die Reihenfolge Mensch, Tier, Vögel, Fische ist genau umgekehrt wie bei der Schöpfung (1. Mose 1). Es ist, als würde die Schöpfung rückgängig gemacht, wie bei der Sintflut.
+> Das ist bildhafte, übersteigerte Sprache. Sie soll aufrütteln: Das Unrecht der Menschen ist so schlimm, dass es die ganze Schöpfung bedroht.
+> „Trümmerhaufen“: Im Hebräischen ist das Wort schwer zu verstehen. Manche übersetzen auch „Anstöße“ oder „Götzen“, also das, was die Menschen zu Fall bringt.
+
+---
+
+### Gericht über Juda und Jerusalem (Vers 4–6)
+
+<sup>4</sup>Ich werde meine Hand ausstrecken gegen Juda
+und gegen alle Bewohner Jerusalems.
+Ich werde den Rest des Baal von diesem Ort ausrotten,
+den Namen der Götzenpriester samt den heidnischen Priestern,
+<sup>5</sup>die, die auf den Dächern das Heer des Himmels anbeten,
+die, die anbeten und beim HERRN schwören
+und zugleich bei Malkam schwören,
+<sup>6</sup>die, die sich abgewandt haben, um dem HERRN nicht mehr zu folgen,
+und die, die den HERRN nicht gesucht
+und nicht nach ihm gefragt haben.
+
+> **Was bedeutet das?**
+> Vier Gruppen von Menschen werden genannt:
+> 1. Die Diener des Baal, des kanaanäischen Fruchtbarkeitsgottes.
+> 2. Die Menschen, die auf ihren flachen Dächern Sonne, Mond und Sterne („das Heer des Himmels“) anbeten.
+> 3. Die, die auf beiden Seiten stehen wollen: Sie schwören beim HERRN und gleichzeitig bei Malkam. Malkam (oder Milkom) war der Gott der Ammoniter. Sie wollen sich nicht entscheiden.
+> 4. Die Gleichgültigen: Sie haben sich einfach von Gott abgewandt und fragen nicht mehr nach ihm.
+> Auch die Gleichgültigkeit wird genannt. Gott ist es nicht egal, wenn Menschen ihn einfach vergessen.
+
+---
+
+### Der Tag des Opfers (Vers 7–13)
+
+<sup>7</sup>Seid still vor dem Herrn, dem HERRN,
+denn der Tag des HERRN ist nahe.
+Denn der HERR hat ein Opfer bereitet.
+Er hat seine Gäste geheiligt.
+<sup>8</sup>Am Tag des Opfers des HERRN wird es geschehen,
+dass ich die Fürsten heimsuche
+und die Königssöhne
+und alle, die sich in fremde Kleidung kleiden.
+<sup>9</sup>An jenem Tag werde ich alle heimsuchen,
+die über die Schwelle springen,
+die das Haus ihres Herrn mit Gewalt und Betrug füllen.
+<sup>10</sup>An jenem Tag, spricht der HERR,
+wird ein Geschrei vom Fischtor her zu hören sein
+und ein Heulen aus der Neustadt
+und ein großes Krachen von den Hügeln.
+<sup>11</sup>Heult, ihr Bewohner des Mörsers!
+Denn das ganze Krämervolk ist vernichtet.
+Alle, die mit Silber beladen waren, sind ausgerottet.
+<sup>12</sup>Zu jener Zeit wird es geschehen,
+dass ich Jerusalem mit Lampen durchsuche
+und die Männer heimsuche, die auf ihrer Hefe festsitzen,
+die in ihrem Herzen sagen:
+„Der HERR tut nichts Gutes und nichts Böses.“
+<sup>13</sup>Ihr Reichtum wird zur Beute
+und ihre Häuser zur Verwüstung werden.
+Ja, sie werden Häuser bauen und nicht darin wohnen.
+Sie werden Weinberge pflanzen und ihren Wein nicht trinken.
+
+> **Was bedeutet das?**
+> Vers 7: Ein unheimliches Bild: Gott bereitet ein Opfermahl vor und hat die Gäste schon eingeladen. Aber das „Opfer“ ist das schuldige Volk selbst, und die „Gäste“ sind die Feinde, die kommen werden.
+> Vers 8: Die Mächtigen am Königshof tragen „fremde Kleidung“: Sie ahmen die Mode und vielleicht auch die Religion fremder Völker nach.
+> Vers 9: „Über die Schwelle springen“ war vielleicht ein abergläubischer Brauch (vgl. 1. Samuel 5,5). Andere denken an Diener, die in fremde Häuser eindringen, um zu rauben.
+> Vers 10–11: Das Gericht trifft die ganze Stadt: das Fischtor, die Neustadt und den „Mörser“, ein Stadtteil, wahrscheinlich ein Markt- und Handelsviertel. Die reichen Händler werden alles verlieren. Das WEB lässt den Namen „Maktesch“ stehen.
+> Vers 12: Gott durchsucht Jerusalem mit Lampen, niemand kann sich verstecken. Er sucht besonders die Selbstzufriedenen, die „auf ihrer Hefe festsitzen“, wie Wein, der zu lange steht und dick und träge wird. Sie sagen: „Gott tut sowieso nichts, weder Gutes noch Böses.“ Sie leben, als gäbe es Gott nicht.
+> Vers 13: Wer andere ausgebeutet hat, wird selbst nichts von seinem Reichtum haben (vgl. Amos 5,11).
+
+---
+
+### Ein Tag des Zorns (Vers 14–18)
+
+<sup>14</sup>Der große Tag des HERRN ist nahe.
+Er ist nahe und eilt sehr.
+Horch, der Tag des HERRN!
+Bitter schreit dort der Held.
+<sup>15</sup>Ein Tag des Zorns ist dieser Tag,
+ein Tag der Not und der Bedrängnis,
+ein Tag der Verwüstung und Verödung,
+ein Tag der Finsternis und des Dunkels,
+ein Tag der Wolken und des Wolkendunkels,
+<sup>16</sup>ein Tag der Posaune und des Kriegsgeschreis
+gegen die befestigten Städte
+und gegen die hohen Zinnen.
+<sup>17</sup>Ich werde die Menschen so bedrängen,
+dass sie umhergehen wie Blinde,
+weil sie gegen den HERRN gesündigt haben.
+Ihr Blut wird ausgeschüttet werden wie Staub
+und ihr Fleisch wie Kot.
+<sup>18</sup>Weder ihr Silber noch ihr Gold
+wird sie retten können
+am Tag des Zorns des HERRN.
+Sondern durch das Feuer seines Eifers
+wird das ganze Land verzehrt werden.
+Denn er wird ein Ende machen, ja, ein schreckliches Ende,
+mit allen Bewohnern des Landes.
+
+> **Was bedeutet das?**
+> Vers 14–16: Eine der berühmtesten Beschreibungen des „Tages des HERRN“ in der Bibel. Fünfmal heißt es „ein Tag …“, wie Glockenschläge.
+> Aus Vers 15 entstand im Mittelalter der lateinische Hymnus „Dies irae, dies illa“ („Tag des Zorns, jener Tag“). Er wurde Teil der katholischen Totenmesse und von vielen Komponisten vertont, zum Beispiel von Mozart und Verdi in ihren Requiems.
+> Vers 18: Geld kann vor Gottes Gericht nicht retten. Die Reichen, die auf ihren Besitz vertraut haben, stehen mit leeren Händen da.
+> Das Gericht kam wenige Jahrzehnte später, als die Babylonier Jerusalem eroberten (587/586 vor Christus). Aber Zefanja hat auch eine Hoffnungsbotschaft. Die kommt in den nächsten Kapiteln.
+
+## Zefanja – Kapitel 2
+#### Sucht den HERRN!
+
+---
+
+### Ein Aufruf zur Umkehr (Vers 1–3)
+
+<sup>1</sup>Sammelt euch, ja, sammelt euch,
+du Volk, das sich nicht schämt,
+<sup>2</sup>bevor die bestimmte Zeit kommt,
+an der der Tag wie Spreu vorüberfliegt,
+bevor die Glut des Zorns des HERRN über euch kommt,
+bevor der Tag des Zorns des HERRN über euch kommt.
+<sup>3</sup>Sucht den HERRN, alle ihr Demütigen im Land,
+die ihr seine Ordnungen getan habt!
+Sucht Gerechtigkeit!
+Sucht Demut!
+Vielleicht werdet ihr verborgen
+am Tag des Zorns des HERRN.
+
+> **Was bedeutet das?**
+> Mitten in der Gerichtsankündigung ein Aufruf: Es ist noch nicht zu spät! Sammelt euch, kehrt um, bevor der Tag kommt.
+> Vers 3: Ein Kernvers des Buches. Er richtet sich an die „Demütigen“, die „Armen“ im Land. Sie werden aufgefordert: Sucht den HERRN, sucht Gerechtigkeit, sucht Demut.
+> „Vielleicht werdet ihr verborgen“: Das ist ein Wortspiel mit dem Namen Zefanja („Der HERR hat verborgen“). Gott schützt die, die ihn suchen. Das „vielleicht“ zeigt: Niemand kann über Gott verfügen. Aber es gibt Hoffnung.
+
+---
+
+### Gericht über die Philister im Westen (Vers 4–7)
+
+<sup>4</sup>Denn Gaza wird verlassen sein
+und Aschkelon eine Wüste.
+Aschdod wird man am hellen Mittag vertreiben,
+und Ekron wird entwurzelt werden.
+<sup>5</sup>Wehe den Bewohnern der Meeresküste,
+dem Volk der Kreter!
+Das Wort des HERRN ist gegen dich,
+Kanaan, Land der Philister.
+Ich werde dich vernichten, bis kein Bewohner mehr da ist.
+<sup>6</sup>Die Meeresküste wird zu Weideland werden,
+mit Hütten für Hirten und Pferchen für Schafe.
+<sup>7</sup>Die Küste wird dem Rest des Hauses Juda gehören.
+Sie werden dort weiden.
+In den Häusern von Aschkelon werden sie sich am Abend lagern,
+denn der HERR, ihr Gott, wird sich ihrer annehmen
+und ihr Geschick wenden.
+
+> **Was bedeutet das?**
+> Jetzt geht der Blick auf die Nachbarvölker in alle vier Himmelsrichtungen: Westen (Philister), Osten (Moab und Ammon), Süden (Kusch) und Norden (Assyrien).
+> Vers 4: Im Hebräischen sind das Wortspiele: „Gaza“ (Asa) klingt wie „verlassen“ (asuwa), „Ekron“ klingt wie „entwurzelt“ (te’aker).
+> Vers 5: Die Philister wohnten an der Mittelmeerküste. Sie stammten ursprünglich wahrscheinlich aus dem Gebiet der Ägäis, vielleicht von Kreta. Darum werden sie hier „Kreter“ genannt (WEB: „Cherethites“).
+> Vers 7: Der Rest von Juda wird dort einmal in Frieden leben. Gott wird „ihr Geschick wenden“, also alles wieder gut machen.
+
+---
+
+### Gericht über Moab und Ammon im Osten (Vers 8–11)
+
+<sup>8</sup>Ich habe die Schmähungen Moabs gehört
+und die Lästerungen der Kinder Ammon,
+mit denen sie mein Volk geschmäht
+und sich groß gemacht haben gegen sein Gebiet.
+<sup>9</sup>Darum, so wahr ich lebe,
+spricht der HERR der Heere, der Gott Israels:
+Gewiss, Moab wird wie Sodom werden
+und die Kinder Ammon wie Gomorra,
+ein Besitz von Brennnesseln und Salzgruben
+und eine ewige Wüste.
+Der Rest meines Volkes wird sie ausplündern,
+und die Übriggebliebenen meines Volkes werden sie beerben.
+<sup>10</sup>Das wird ihnen für ihren Hochmut geschehen,
+weil sie geschmäht und sich groß gemacht haben
+gegen das Volk des HERRN der Heere.
+<sup>11</sup>Der HERR wird furchtbar gegen sie sein,
+denn er wird alle Götter der Erde schwinden lassen.
+Und die Menschen werden ihn anbeten,
+jeder von seinem Ort aus,
+alle Inseln der Völker.
+
+> **Was bedeutet das?**
+> Vers 8–10: Moab und Ammon lagen östlich vom Jordan. Sie hatten Israel verspottet und sein Land bedroht. Ihr Hochmut wird bestraft. Sodom und Gomorra (1. Mose 19) waren Städte am Toten Meer, deren Zerstörung sprichwörtlich wurde.
+> Vers 11: Ein überraschender Ausblick: Gott wird die falschen Götter „schwinden lassen“, also ihnen alle Macht nehmen. Und dann werden die Menschen aller Völker Gott anbeten, „jeder von seinem Ort aus“. Man muss nicht nach Jerusalem kommen. Gott kann überall auf der Welt angebetet werden.
+
+---
+
+### Gericht über Kusch und Assyrien (Vers 12–15)
+
+<sup>12</sup>Auch ihr Kuschiter
+werdet durch mein Schwert erschlagen.
+<sup>13</sup>Er wird seine Hand nach Norden ausstrecken
+und Assur vernichten.
+Er wird Ninive zur Wüste machen,
+dürr wie die Steppe.
+<sup>14</sup>Herden werden sich in ihrer Mitte lagern,
+alle Arten von Tieren.
+Pelikan und Igel werden auf ihren Säulenköpfen übernachten.
+Ihr Ruf wird durch die Fenster hallen.
+Verwüstung wird auf den Schwellen sein,
+denn er hat das Zedernholz bloßgelegt.
+<sup>15</sup>Das ist die fröhliche Stadt, die sorglos lebte,
+die in ihrem Herzen sagte:
+„Ich bin es, und außer mir ist keiner.“
+Wie ist sie zur Wüste geworden,
+zum Lagerplatz für die Tiere!
+Jeder, der an ihr vorübergeht,
+wird zischen und die Faust schütteln.
+
+> **Was bedeutet das?**
+> Vers 12: Kusch lag südlich von Ägypten (WEB: „Cushites“). Eine Zeit lang herrschten kuschitische Könige auch über Ägypten. Hier geht es um das politische Reich, nicht um die Hautfarbe oder Herkunft von Menschen. In Kapitel 3,10 sagt Zefanja, dass Menschen aus Kusch Gott anbeten werden. Gott liebt alle Völker gleich (vgl. Amos 9,7).
+> Vers 13–15: Ninive, die Hauptstadt Assyriens, wird zur Ruine, in der wilde Tiere wohnen. Das geschah im Jahr 612 vor Christus (siehe Nahum).
+> Welche Tiere genau gemeint sind (Pelikan, Igel, Eule, Rohrdommel), ist unsicher. Gemeint ist: Wo früher Menschen feierten, wohnen jetzt nur noch wilde Tiere.
+> Vers 15: Ninive sagte: „Ich bin es, und außer mir ist keiner.“ Das ist Hochmut, sich selbst an die Stelle Gottes zu setzen (vgl. Jesaja 47,8). Solcher Hochmut führt zum Fall.
+
+## Zefanja – Kapitel 3
+#### Gott freut sich über dich mit Jubel
+
+---
+
+### Wehe der Stadt, die nicht hört (Vers 1–7)
+
+<sup>1</sup>Wehe der Widerspenstigen und Befleckten,
+der unterdrückenden Stadt!
+<sup>2</sup>Sie hat nicht auf die Stimme gehört.
+Sie hat keine Zurechtweisung angenommen.
+Sie hat nicht auf den HERRN vertraut.
+Sie ist ihrem Gott nicht nahe gekommen.
+<sup>3</sup>Ihre Fürsten in ihrer Mitte sind brüllende Löwen.
+Ihre Richter sind Wölfe am Abend.
+Sie lassen nichts übrig bis zum Morgen.
+<sup>4</sup>Ihre Propheten sind überheblich, treulose Leute.
+Ihre Priester haben das Heiligtum entweiht.
+Sie haben dem Gesetz Gewalt angetan.
+<sup>5</sup>Der HERR in ihrer Mitte ist gerecht.
+Er tut kein Unrecht.
+Jeden Morgen bringt er sein Recht ans Licht.
+Er versagt nicht.
+Aber der Ungerechte kennt keine Scham.
+<sup>6</sup>Ich habe Völker ausgerottet.
+Ihre Zinnen sind verwüstet.
+Ich habe ihre Straßen verödet,
+sodass niemand mehr hindurchgeht.
+Ihre Städte sind zerstört,
+sodass kein Mensch mehr da ist,
+kein Bewohner.
+<sup>7</sup>Ich sagte:
+„Fürchte mich doch!
+Nimm Zurechtweisung an!“,
+damit ihre Wohnung nicht ausgerottet würde,
+nach allem, was ich über sie bestimmt hatte.
+Aber sie standen früh auf
+und verdarben all ihre Taten.
+
+> **Was bedeutet das?**
+> Jetzt kommt Jerusalem selbst an die Reihe. Nach den Nachbarvölkern ist die eigene Stadt nicht besser.
+> Vers 2: Vierfach hat sie versagt: Sie hat nicht gehört, sich nicht korrigieren lassen, nicht vertraut und sich Gott nicht genähert.
+> Vers 3–4: Alle Führungsgruppen versagen: Fürsten wie Raubtiere, Richter wie hungrige Wölfe, Propheten überheblich, Priester entweihen das Heiligtum.
+> Vers 5: Der Gegensatz: Gott ist mitten in der Stadt und ist gerecht. Jeden Morgen, so treu wie die Sonne aufgeht, zeigt er sein Recht. Aber die Ungerechten schämen sich nicht.
+> Vers 7: Gott hoffte: Wenn sie sehen, was mit anderen Völkern geschieht, werden sie umkehren. Aber sie standen sogar „früh auf“, um Böses zu tun.
+
+---
+
+### Gott wird die Völker reinigen (Vers 8–10)
+
+<sup>8</sup>„Darum wartet auf mich“, spricht der HERR,
+„bis zu dem Tag, an dem ich mich aufmache zum Raub.
+Denn mein Beschluss ist, die Völker zu sammeln,
+die Königreiche zusammenzubringen,
+um meinen Grimm über sie auszugießen,
+die ganze Glut meines Zorns.
+Denn durch das Feuer meines Eifers
+wird die ganze Erde verzehrt werden.
+<sup>9</sup>Denn dann werde ich den Völkern reine Lippen geben,
+damit sie alle den Namen des HERRN anrufen
+und ihm Schulter an Schulter dienen.
+<sup>10</sup>Von jenseits der Ströme von Kusch
+werden meine Anbeter, die Tochter meiner Zerstreuten,
+mir meine Opfergabe bringen.
+
+> **Was bedeutet das?**
+> Vers 8: Noch einmal das Gericht über die ganze Erde.
+> Vers 9: Aber dann die große Wende! Das Ziel des Gerichts ist nicht Zerstörung, sondern Reinigung. Gott gibt den Völkern „reine Lippen“. Sie werden alle gemeinsam Gott anrufen, „Schulter an Schulter“, wie Menschen, die gemeinsam eine Last tragen.
+> Das erinnert an den Turmbau zu Babel (1. Mose 11): Dort wurden die Sprachen verwirrt und die Menschen zerstreut. Hier kommen die Völker wieder zusammen.
+> Vers 10: Selbst aus dem fernen Kusch (WEB: „Cush“, südlich von Ägypten) werden Menschen kommen, um Gott anzubeten. Im Neuen Testament wird ein Mann aus Kusch (Äthiopien), ein Hofbeamter, getauft (Apostelgeschichte 8,26–39).
+
+---
+
+### Ein demütiges Volk (Vers 11–13)
+
+<sup>11</sup>An jenem Tag wirst du dich nicht mehr schämen müssen
+wegen all deiner Taten,
+mit denen du gegen mich gesündigt hast.
+Denn dann werde ich aus deiner Mitte
+die stolz Prahlenden entfernen,
+und du wirst dich nicht mehr überheben
+auf meinem heiligen Berg.
+<sup>12</sup>Aber ich werde in deiner Mitte ein demütiges und armes Volk übrig lassen,
+und sie werden beim Namen des HERRN Zuflucht suchen.
+<sup>13</sup>Der Rest Israels wird kein Unrecht tun
+und keine Lügen reden,
+und in ihrem Mund wird keine betrügerische Zunge gefunden werden.
+Denn sie werden weiden und lagern,
+und niemand wird sie aufschrecken.“
+
+> **Was bedeutet das?**
+> Vers 11: Gott nimmt die Schande weg. Aber er entfernt die Hochmütigen.
+> Vers 12: Übrig bleibt ein „demütiges und armes Volk“. Es sind nicht die Mächtigen und Reichen, sondern die Kleinen, die bei Gott Zuflucht suchen. Mit ihnen fängt Gott neu an.
+> Das erinnert an Jesus: „Selig sind die Armen im Geist … Selig sind die Sanftmütigen“ (Matthäus 5,3.5).
+> Vers 13: Dieses neue Volk lebt ehrlich, ohne Lüge und Betrug. Und es lebt in Frieden wie eine Herde, die niemand erschreckt.
+
+---
+
+### Freu dich, Tochter Zion! (Vers 14–20)
+
+<sup>14</sup>Singe, Tochter Zion!
+Jauchze, Israel!
+Freu dich und frohlocke von ganzem Herzen,
+Tochter Jerusalem!
+<sup>15</sup>Der HERR hat deine Strafurteile weggenommen.
+Er hat deinen Feind hinausgeworfen.
+Der König Israels, der HERR, ist in deiner Mitte.
+Du wirst kein Unheil mehr fürchten.
+<sup>16</sup>An jenem Tag wird man zu Jerusalem sagen:
+„Fürchte dich nicht, Zion!
+Lass deine Hände nicht sinken!“
+<sup>17</sup>Der HERR, dein Gott, ist in deiner Mitte,
+ein Held, der rettet.
+Er wird sich über dich freuen mit Freude.
+Er wird dich zur Ruhe bringen in seiner Liebe.
+Er wird über dich jubeln mit Gesang.
+<sup>18</sup>Ich werde die von dir entfernen,
+die um die Festversammlungen trauern.
+Sie sind eine Last und eine Schmach für dich.
+<sup>19</sup>Siehe, zu jener Zeit werde ich mit allen abrechnen,
+die dich bedrücken.
+Und ich werde die Hinkenden retten
+und die Vertriebenen sammeln.
+Ich werde ihnen Lob und Ehre geben,
+deren Schande auf der ganzen Erde war.
+<sup>20</sup>Zu jener Zeit werde ich euch heimbringen,
+zu jener Zeit werde ich euch sammeln.
+Denn ich werde euch Ehre und Lob geben
+unter allen Völkern der Erde,
+wenn ich euer Geschick vor euren Augen wende,
+spricht der HERR.
+
+> **Was bedeutet das?**
+> Das Buch, das mit „Tag des Zorns“ begann, endet mit einem Freudenlied!
+> Vers 14–15: Jerusalem soll singen und jubeln. Die Strafe ist vorbei. Gott selbst ist als König in der Stadt.
+> Vers 16: „Fürchte dich nicht! Lass deine Hände nicht sinken!“ Ein Wort der Ermutigung.
+> Vers 17: Einer der schönsten Verse der Bibel. Nicht nur das Volk freut sich über Gott, sondern Gott freut sich über sein Volk! Er jubelt und singt über die Menschen, die er liebt. Wie Eltern, die über ihr Kind glücklich sind und ihm ein Lied singen.
+> „Er wird dich zur Ruhe bringen in seiner Liebe“: Andere übersetzen auch „er wird schweigen in seiner Liebe“, also so voller Liebe sein, dass er keine Worte mehr braucht.
+> Vers 18: Der Vers ist im Hebräischen schwer zu verstehen. Gemeint ist wahrscheinlich: Gott sammelt auch die, die traurig waren, weil sie in der Verbannung nicht die Feste in Jerusalem feiern konnten, und nimmt ihre Schmach weg.
+> Vers 19–20: Gott sammelt die Schwachen, die Hinkenden und Vertriebenen. Die, die überall verachtet waren, bekommen Ehre und Lob.
+
+---
+
+### Rückblick: Was haben wir im Buch Zefanja gelesen?
+
+> **Was bedeutet das?**
+> **Der Tag des HERRN:** Zefanja kündigt einen „Tag des Zorns“ an, über Juda und alle Völker (1,14–18). Daraus entstand das berühmte „Dies irae“.
+> **Gegen Götzendienst und Gleichgültigkeit:** Gericht über die, die Baal anbeten, die sich nicht entscheiden wollen und die sagen: „Gott tut sowieso nichts“ (1,4–6.12).
+> **Sucht den HERRN!** „Sucht Gerechtigkeit! Sucht Demut! Vielleicht werdet ihr verborgen am Tag des Zorns“ (2,3).
+> **Gericht über alle Völker:** In alle Himmelsrichtungen, und doch werden am Ende die Menschen aller Völker Gott anbeten (2,11).
+> **Reine Lippen für alle Völker:** „Damit sie alle den Namen des HERRN anrufen und ihm Schulter an Schulter dienen“ (3,9).
+> **Ein demütiges und armes Volk:** Gott fängt neu an mit den Kleinen, die bei ihm Zuflucht suchen (3,12).
+> **Gottes Freude:** „Der HERR, dein Gott, ist in deiner Mitte … Er wird über dich jubeln mit Gesang“ (3,17).
+> **Für heute:** Gott ist nicht gleichgültig. Er nimmt Unrecht ernst. Aber sein letztes Wort ist Liebe und Freude, auch über dich.
+> **Wie geht es weiter?** Als Nächstes kommt Haggai. Er lebte nach der Rückkehr aus dem Exil und ermutigte die Menschen, den zerstörten Tempel wieder aufzubauen.
