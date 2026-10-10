@@ -112153,3 +112153,351 @@ und ihren Reichtum dem Herrn der ganzen Erde.
 > Vers 11: Die Feinde wollen sich daran weiden, wie Zion „entweiht“ wird, also geschändet und gedemütigt. Diese Sprache erinnert an die Gewalt, die Frauen im Krieg angetan wird. Gott stellt sich auf die Seite der Gedemütigten. Wer Gewalt erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016.
 > Vers 12–13: Die Völker denken, sie seien die Sieger. Aber Gott hat einen anderen Plan. Das Bild vom Dreschen: Ein Rind trampelt auf der Tenne das Getreide aus. So wird Zion die Feinde besiegen. Das ist Bildsprache für Gottes Gericht über die Unterdrücker. Am Ende gehört alles „dem Herrn der ganzen Erde“, nicht den Siegern. Die Verse sind kein Aufruf an Menschen zur Gewalt; das Ziel bleibt der Frieden von Vers 3.
 > In deutschen Bibeln hat dieses Kapitel 14 Verse. Der Vers 4,14 dort ist im WEB der erste Vers von Kapitel 5.
+
+## Micha – Kapitel 5
+#### Der Herrscher aus Bethlehem
+
+---
+
+### Der Richter wird geschlagen (Vers 1)
+
+<sup>1</sup>Nun sammle dich in Scharen, du Tochter der Scharen!
+Man hat eine Belagerung gegen uns aufgestellt.
+Sie werden den Richter Israels mit dem Stab auf die Wange schlagen.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln ist dieser Vers meistens Micha 4,14. Darum sind auch die folgenden Verse dieses Kapitels in deutschen Bibeln um eins verschoben (WEB 5,2 = deutsch 5,1 und so weiter).
+> Jerusalem wird belagert. Der König („der Richter Israels“) wird gedemütigt: Man schlägt ihn ins Gesicht. Gerade in diese schwere Lage hinein kommt die folgende Verheißung.
+
+---
+
+### Aus Bethlehem kommt der Herrscher (Vers 2–6)
+
+<sup>2</sup>Aber du, Bethlehem Efrata,
+die du klein bist unter den Sippen Judas,
+aus dir wird mir einer hervorkommen,
+der Herrscher in Israel sein soll.
+Sein Hervorgehen ist von alters her,
+von den Tagen der Vorzeit.
+<sup>3</sup>Darum wird er sie preisgeben bis zu der Zeit,
+da die, die in Wehen liegt, geboren hat.
+Dann wird der Rest seiner Brüder
+zu den Kindern Israel zurückkehren.
+<sup>4</sup>Er wird auftreten und weiden
+in der Kraft des HERRN,
+in der Hoheit des Namens des HERRN, seines Gottes.
+Und sie werden sicher wohnen,
+denn dann wird er groß sein bis an die Enden der Erde.
+<sup>5</sup>Und er wird unser Friede sein.
+Wenn Assur in unser Land einfällt
+und wenn er durch unsere Festungen zieht,
+dann werden wir sieben Hirten gegen ihn aufstellen
+und acht Anführer der Menschen.
+<sup>6</sup>Sie werden das Land Assur mit dem Schwert weiden
+und das Land Nimrods in seinen Toren.
+Er wird uns vor Assur retten,
+wenn er in unser Land einfällt
+und wenn er in unser Gebiet eindringt.
+
+> **Was bedeutet das?**
+> Vers 2: Einer der bekanntesten Verse des Alten Testaments. Bethlehem war ein kleiner, unbedeutender Ort. Aber von dort stammte König David (1. Samuel 16). Und aus Bethlehem soll wieder ein Herrscher kommen, ein neuer David. Gott wählt das Kleine.
+> „Sein Hervorgehen ist von alters her“: Seine Herkunft reicht weit zurück, bis zu David oder sogar in die Urzeit.
+> Im Matthäusevangelium zitieren die Schriftgelehrten diesen Vers, als die Weisen aus dem Osten nach dem neugeborenen König fragen (Matthäus 2,5–6). Christen sehen darin einen Hinweis auf Jesus, der in Bethlehem geboren wurde. Im Judentum wird der Vers auf den kommenden Messias aus dem Haus Davids bezogen.
+> Vers 3: Erst muss eine schwere Zeit vergehen, bis „die, die in Wehen liegt“, geboren hat. Vielleicht ist die Mutter des Herrschers gemeint, vielleicht das ganze Volk in seinen „Wehen“ (vgl. 4,9–10). Vgl. auch Jesaja 7,14.
+> Vers 4: Er wird ein Hirte sein, nicht ein Tyrann. Er herrscht in Gottes Kraft.
+> Vers 5: „Er wird unser Friede sein.“ Im Neuen Testament heißt es über Jesus: „Er ist unser Friede“ (Epheser 2,14).
+> Vers 5–6: „Sieben … acht“ heißt: genug und mehr als genug. Assur war damals die Weltmacht. „Nimrod“ war ein sagenhafter Herrscher aus Mesopotamien (1. Mose 10,8–12); sein Land steht hier für Assur.
+
+---
+
+### Der Rest Jakobs unter den Völkern (Vers 7–9)
+
+<sup>7</sup>Der Rest Jakobs wird mitten unter vielen Völkern sein
+wie Tau vom HERRN,
+wie Regenschauer auf dem Gras,
+die auf keinen Menschen warten
+und auf keine Menschenkinder hoffen.
+<sup>8</sup>Der Rest Jakobs wird unter den Nationen sein,
+mitten unter vielen Völkern,
+wie ein Löwe unter den Tieren des Waldes,
+wie ein junger Löwe unter den Schafherden,
+der, wenn er hindurchgeht, niedertritt und zerreißt,
+und niemand kann retten.
+<sup>9</sup>Deine Hand soll sich erheben über deine Bedränger,
+und alle deine Feinde sollen ausgerottet werden.
+
+> **Was bedeutet das?**
+> Zwei ganz verschiedene Bilder für das kleine Volk Israel unter den Völkern:
+> Vers 7: Wie Tau: Tau kommt von Gott, nicht von Menschen. Er bringt Leben und Erfrischung. So kann Israel für andere Völker zum Segen werden.
+> Vers 8–9: Wie ein Löwe: stark und unbesiegbar. Dieses Bild spricht von der Hoffnung eines kleinen, unterdrückten Volkes, dass seine Unterdrücker es nicht mehr beherrschen werden. Es ist kein Freibrief für Gewalt gegen andere Völker.
+
+---
+
+### Gott nimmt weg, worauf das Volk falsch vertraut (Vers 10–15)
+
+<sup>10</sup>„An jenem Tag wird es geschehen“, spricht der HERR,
+„dass ich deine Pferde aus deiner Mitte ausrotten
+und deine Streitwagen vernichten werde.
+<sup>11</sup>Ich werde die Städte deines Landes ausrotten
+und alle deine Festungen niederreißen.
+<sup>12</sup>Ich werde die Zauberei aus deiner Hand ausrotten,
+und du wirst keine Wahrsager mehr haben.
+<sup>13</sup>Ich werde deine geschnitzten Bilder
+und deine Steinmale aus deiner Mitte ausrotten,
+und du wirst nicht mehr das Werk deiner Hände anbeten.
+<sup>14</sup>Ich werde deine Aschera-Pfähle aus deiner Mitte ausreißen
+und deine Städte zerstören.
+<sup>15</sup>Ich werde in Zorn und Grimm Rache üben
+an den Völkern, die nicht gehört haben.“
+
+> **Was bedeutet das?**
+> Gott räumt auf mit allem, worauf sein Volk sich falsch verlassen hat:
+> Militärische Macht: Pferde, Streitwagen, Festungen (Vers 10–11).
+> Aberglaube: Zauberei und Wahrsagerei (Vers 12).
+> Götzen: Bilder, Steinmale und Aschera-Pfähle (Holzpfähle für die Göttin Aschera) (Vers 13–14).
+> Am Ende soll Israel sich nur noch auf Gott verlassen. Das passt zur Friedensvision von 4,3: keine Waffen mehr, kein Krieg mehr.
+> Vers 15: Auch die Völker, die nicht auf Gott hören, werden zur Rechenschaft gezogen. Gott ist der Richter über alle.
+
+## Micha – Kapitel 6
+#### Es ist dir gesagt, Mensch, was gut ist
+
+---
+
+### Gott klagt sein Volk an (Vers 1–5)
+
+<sup>1</sup>Hört doch, was der HERR sagt:
+„Steh auf, führe deinen Rechtsstreit vor den Bergen,
+und lass die Hügel deine Stimme hören!
+<sup>2</sup>Hört, ihr Berge, die Anklage des HERRN,
+und ihr beständigen Grundfesten der Erde!
+Denn der HERR hat einen Rechtsstreit mit seinem Volk,
+und er will mit Israel rechten.
+<sup>3</sup>Mein Volk, was habe ich dir getan?
+Womit habe ich dich ermüdet?
+Antworte mir!
+<sup>4</sup>Denn ich habe dich aus dem Land Ägypten heraufgeführt
+und dich aus dem Sklavenhaus erlöst.
+Ich habe Mose, Aaron und Mirjam vor dir hergesandt.
+<sup>5</sup>Mein Volk, denk doch daran,
+was Balak, der König von Moab, plante
+und was Bileam, der Sohn Beors, ihm antwortete,
+von Schittim bis Gilgal,
+damit du die gerechten Taten des HERRN erkennst.“
+
+> **Was bedeutet das?**
+> Ein Gerichtsverfahren: Die Berge und die Grundfesten der Erde sind die Zeugen. Gott ist der Kläger, sein Volk der Angeklagte.
+> Vers 3: Aber Gott klagt nicht kalt an. Er fragt traurig: „Mein Volk, was habe ich dir getan? Womit habe ich dich ermüdet?“ Wie ein enttäuschter Vater oder eine enttäuschte Mutter. Diese Worte wurden später Teil der christlichen Karfreitagsliturgie (die „Improperien“).
+> Vers 4: Gott erinnert an das, was er getan hat: Er hat sein Volk aus der Sklaverei befreit. Und er hat ihm Anführer geschickt: Mose, Aaron und Mirjam. Bemerkenswert: Mit Mirjam wird hier eine Frau als Anführerin des Volkes genannt.
+> Vers 5: Der König Balak wollte Israel verfluchen lassen, aber der Seher Bileam musste es segnen (4. Mose 22–24). Von Schittim bis Gilgal: der letzte Wegabschnitt durch den Jordan ins verheißene Land (Josua 3–4).
+
+---
+
+### Was Gott wirklich will (Vers 6–8)
+
+<sup>6</sup>Womit soll ich vor den HERRN treten
+und mich beugen vor dem erhabenen Gott?
+Soll ich mit Brandopfern vor ihn treten,
+mit einjährigen Kälbern?
+<sup>7</sup>Hat der HERR Gefallen an Tausenden von Widdern,
+an Zehntausenden von Strömen Öl?
+Soll ich meinen Erstgeborenen geben für meinen Ungehorsam,
+die Frucht meines Leibes für die Sünde meiner Seele?
+<sup>8</sup>Er hat dir gezeigt, Mensch, was gut ist.
+Und was fordert der HERR von dir,
+als Recht zu tun,
+Barmherzigkeit zu lieben
+und demütig zu gehen mit deinem Gott?
+
+> **Was bedeutet das?**
+> Vers 6–7: Ein Mensch fragt: Wie kann ich Gott gefallen? Und er steigert sich immer mehr: Kälber? Tausende Widder? Ströme von Öl? Und schließlich sogar: mein eigenes Kind?
+> Das Kinderopfer war in den Religionen der Nachbarvölker bekannt und wurde auch in Israel manchmal praktiziert (2. Könige 16,3; 21,6). Die Bibel verurteilt es scharf (5. Mose 12,31; Jeremia 7,31). Gott will keine Kinderopfer! Hier zeigt die Frage nur, wie absurd die Steigerung ist.
+> Vers 8: Die Antwort ist überraschend einfach. Gott will keine teuren Opfer. Er will drei Dinge:
+> 1. Recht tun: gerecht handeln, besonders gegenüber Schwachen.
+> 2. Barmherzigkeit lieben: freundlich, treu und gütig sein. Das hebräische Wort „chesed“ bedeutet Treue, Liebe und Güte zugleich.
+> 3. Demütig gehen mit deinem Gott: sich nicht über andere stellen, sondern im Alltag mit Gott leben.
+> Dieser Vers gilt als eine der schönsten Zusammenfassungen dessen, was Gott von Menschen will. Jesus sagt etwas Ähnliches: Das Wichtigste im Gesetz sind „das Recht, die Barmherzigkeit und der Glaube“ (Matthäus 23,23).
+
+---
+
+### Betrug in der Stadt (Vers 9–16)
+
+<sup>9</sup>Die Stimme des HERRN ruft der Stadt zu –
+und es ist Weisheit, deinen Namen zu fürchten –:
+„Hört auf die Rute und auf den, der sie bestimmt hat!
+<sup>10</sup>Gibt es noch immer unrechte Schätze im Haus des Gottlosen
+und das zu kleine Efa, das verflucht ist?
+<sup>11</sup>Soll ich falsche Waagen dulden
+und einen Beutel mit betrügerischen Gewichten?
+<sup>12</sup>Ihre Reichen sind voller Gewalt,
+ihre Bewohner reden Lügen,
+und ihre Zunge ist trügerisch in ihrem Mund.
+<sup>13</sup>Darum habe ich auch dich mit einer schweren Wunde geschlagen.
+Ich habe dich verwüstet wegen deiner Sünden.
+<sup>14</sup>Du wirst essen und nicht satt werden.
+Dein Hunger wird in dir bleiben.
+Du wirst beiseitelegen, aber nicht retten,
+und was du rettest, werde ich dem Schwert preisgeben.
+<sup>15</sup>Du wirst säen und nicht ernten.
+Du wirst Oliven treten und dich nicht mit Öl salben,
+und Trauben keltern und keinen Wein trinken.
+<sup>16</sup>Denn man hält sich an die Satzungen Omris
+und an alle Taten des Hauses Ahab.
+Ihr lebt nach ihren Ratschlägen,
+damit ich dich zur Verwüstung mache
+und deine Bewohner zum Gespött.
+Ihr werdet die Schmach meines Volkes tragen.“
+
+> **Was bedeutet das?**
+> Gleich nach Vers 8 zeigt Micha, wie es in Wirklichkeit aussieht:
+> Vers 10–11: Falsche Maße, falsche Waagen, falsche Gewichte. Die Händler betrügen ihre Kunden (vgl. Amos 8,5).
+> Vers 12: Die Reichen sind voller Gewalt, und überall wird gelogen.
+> Vers 14–15: Die Strafe: Was sie unrechtmäßig erworben haben, wird ihnen nicht nützen. Sie arbeiten, aber haben nichts davon. Ähnliche Worte stehen im Gesetz des Mose (5. Mose 28,38–40).
+> Vers 16: Omri und sein Sohn Ahab waren Könige des Nordreichs. Ahab war bekannt für Götzendienst und Unrecht, zum Beispiel den Raub von Nabots Weinberg (1. Könige 21). Jerusalem macht es jetzt genauso.
+
+## Micha – Kapitel 7
+#### Wer ist ein Gott wie du?
+
+---
+
+### Kein Gerechter mehr (Vers 1–6)
+
+<sup>1</sup>Weh mir!
+Denn ich bin wie einer, der nach der Obsternte sammelt,
+wie bei der Nachlese im Weinberg.
+Es ist keine Traube mehr zu essen.
+Meine Seele sehnt sich nach der Frühfeige.
+<sup>2</sup>Der Fromme ist aus dem Land verschwunden,
+und es gibt keinen Aufrichtigen mehr unter den Menschen.
+Sie alle lauern auf Blut.
+Jeder jagt seinen Bruder mit dem Netz.
+<sup>3</sup>Ihre Hände sind eifrig dabei, Böses zu tun.
+Der Fürst und der Richter verlangen Bestechung.
+Der Mächtige spricht die böse Begierde seiner Seele aus.
+So flechten sie es zusammen.
+<sup>4</sup>Der Beste von ihnen ist wie ein Dornstrauch,
+der Redlichste schlimmer als eine Dornenhecke.
+Der Tag deiner Wächter, der Tag deiner Heimsuchung ist gekommen.
+Jetzt ist die Zeit ihrer Verwirrung.
+<sup>5</sup>Vertraut nicht auf einen Nachbarn.
+Verlasst euch nicht auf einen Freund.
+Selbst vor der, die in deinen Armen liegt,
+hüte die Worte deines Mundes!
+<sup>6</sup>Denn der Sohn verachtet den Vater,
+die Tochter steht auf gegen ihre Mutter,
+die Schwiegertochter gegen ihre Schwiegermutter.
+Die Feinde eines Menschen sind die Leute seines eigenen Hauses.
+
+> **Was bedeutet das?**
+> Vers 1: Micha fühlt sich wie jemand, der nach der Ernte in den Weinberg geht und keine einzige Traube mehr findet. So sucht er nach guten, ehrlichen Menschen und findet keine.
+> Vers 2–4: Alle sind korrupt. Sogar die Besten sind wie Dornen: Man verletzt sich an ihnen.
+> Vers 5–6: Das Vertrauen ist zerbrochen, sogar in den Familien. Man kann niemandem mehr trauen, nicht dem Freund, nicht dem eigenen Ehepartner, nicht den eigenen Kindern.
+> Jesus zitiert Vers 6, als er sagt, dass die Entscheidung für ihn manchmal sogar Familien entzweien kann (Matthäus 10,35–36).
+> Für heute: Wo Korruption und Misstrauen herrschen, zerbricht das Zusammenleben. Wenn du in deiner Familie Gewalt erlebst, hol dir Hilfe, zum Beispiel beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00, oder als Kind oder Jugendlicher bei der „Nummer gegen Kummer“: 116 111.
+
+---
+
+### Ich will auf den HERRN schauen (Vers 7–10)
+
+<sup>7</sup>Ich aber will nach dem HERRN ausschauen.
+Ich will auf den Gott meines Heils warten.
+Mein Gott wird mich hören.
+<sup>8</sup>Freu dich nicht über mich, meine Feindin!
+Wenn ich falle, stehe ich wieder auf.
+Wenn ich im Dunkeln sitze,
+ist der HERR mein Licht.
+<sup>9</sup>Ich will den Zorn des HERRN tragen,
+denn ich habe gegen ihn gesündigt,
+bis er meine Sache führt
+und mir Recht verschafft.
+Er wird mich ans Licht hinausführen.
+Ich werde seine Gerechtigkeit sehen.
+<sup>10</sup>Dann wird meine Feindin es sehen,
+und Schande wird die bedecken, die zu mir sagte:
+„Wo ist der HERR, dein Gott?“
+Meine Augen werden auf sie sehen.
+Nun wird sie zertreten werden wie der Schlamm auf den Straßen.
+
+> **Was bedeutet das?**
+> Vers 7: Ein Wendepunkt. Mitten in all dem Elend: „Ich aber will auf den HERRN schauen.“ Micha hält an Gott fest.
+> Vers 8: Ein wunderbarer Vers der Hoffnung: „Wenn ich falle, stehe ich wieder auf. Wenn ich im Dunkeln sitze, ist der HERR mein Licht.“ Diese Worte haben vielen Menschen in schweren Zeiten Mut gemacht.
+> Vers 9: Hier spricht das Volk (Jerusalem). Es gibt seine Schuld zu: „Ich habe gesündigt.“ Es nimmt die Folgen an, aber es hofft darauf, dass Gott ihm am Ende Recht verschafft.
+> Vers 10: Die „Feindin“ ist wahrscheinlich eine feindliche Stadt oder ein feindliches Volk, das Jerusalem verspottet hat: „Wo ist denn jetzt dein Gott?“ (vgl. Psalm 42,4; 79,10).
+
+---
+
+### Ein Tag zum Bauen (Vers 11–13)
+
+<sup>11</sup>Ein Tag, um deine Mauern zu bauen!
+An jenem Tag wird deine Grenze erweitert werden.
+<sup>12</sup>An jenem Tag wird man zu dir kommen
+von Assur und den Städten Ägyptens,
+von Ägypten bis zum Strom,
+von Meer zu Meer
+und von Berg zu Berg.
+<sup>13</sup>Doch das Land wird verwüstet sein
+wegen derer, die darin wohnen,
+wegen der Frucht ihrer Taten.
+
+> **Was bedeutet das?**
+> Vers 11: Die zerstörten Mauern Jerusalems werden wieder aufgebaut. Das geschah nach der Rückkehr aus dem Exil unter Nehemia.
+> Vers 12: Menschen werden von überall her kommen, von Assur bis Ägypten, von Meer zu Meer. Vielleicht sind die zurückkehrenden Verbannten gemeint, vielleicht auch die Völker, die zu Gott kommen (vgl. 4,1–2).
+> „Der Strom“ ist der Euphrat.
+> Vers 13: Aber zuerst muss die Zeit der Verwüstung durchgestanden werden.
+
+---
+
+### Wer ist ein Gott wie du? (Vers 14–20)
+
+<sup>14</sup>Weide dein Volk mit deinem Stab,
+die Herde deines Erbteils,
+die einsam im Wald wohnt.
+Lass sie mitten im fruchtbaren Weideland weiden,
+in Baschan und Gilead,
+wie in den Tagen der Vorzeit.
+<sup>15</sup>„Wie in den Tagen, als du aus dem Land Ägypten zogst,
+werde ich ihnen Wunder zeigen.“
+<sup>16</sup>Die Völker werden es sehen
+und sich all ihrer Macht schämen.
+Sie werden die Hand auf den Mund legen.
+Ihre Ohren werden taub sein.
+<sup>17</sup>Sie werden Staub lecken wie die Schlange,
+wie die Kriechtiere der Erde.
+Zitternd werden sie aus ihren Verstecken hervorkommen.
+Mit Furcht werden sie zum HERRN, unserem Gott, kommen
+und sich vor dir fürchten.
+<sup>18</sup>Wer ist ein Gott wie du,
+der Schuld vergibt
+und an der Übertretung des Restes seines Erbteils vorübergeht?
+Er hält nicht für immer an seinem Zorn fest,
+denn er hat Gefallen an Güte.
+<sup>19</sup>Er wird sich wieder über uns erbarmen.
+Er wird unsere Schuld unter seine Füße treten.
+Du wirst alle ihre Sünden in die Tiefen des Meeres werfen.
+<sup>20</sup>Du wirst Jakob Treue erweisen
+und Abraham Güte,
+wie du es unseren Vätern geschworen hast
+seit den Tagen der Vorzeit.
+
+> **Was bedeutet das?**
+> Vers 14: Micha betet: Gott, sei du der Hirte deines Volkes! Baschan und Gilead waren fruchtbare Weidegebiete östlich des Jordan.
+> Vers 15: Gott antwortet: Ich werde Wunder tun wie beim Auszug aus Ägypten.
+> Vers 16–17: Die mächtigen Völker werden staunen und verstummen. Am Ende kommen sie zitternd zu Gott.
+> Vers 18: „Wer ist ein Gott wie du?“ Das ist ein Wortspiel mit dem Namen Micha, der bedeutet: „Wer ist wie der HERR?“ Die Antwort: Niemand! Kein Gott ist wie er, denn er vergibt Schuld. Er hält nicht am Zorn fest, denn er liebt die Güte.
+> Vers 19: Ein starkes Bild: Gott wirft alle unsere Sünden in die Tiefe des Meeres. Weg sind sie, für immer.
+> Im Judentum gibt es am Neujahrsfest (Rosch ha-Schana) einen Brauch, der „Taschlich“ heißt (von „du wirst werfen“ aus diesem Vers). Man geht an ein Gewässer, betet diese Verse und wirft symbolisch seine Sünden ins Wasser.
+> Vers 20: Gott bleibt treu. Was er Abraham und Jakob versprochen hat, das hält er.
+
+---
+
+### Rückblick: Was haben wir im Buch Micha gelesen?
+
+> **Was bedeutet das?**
+> **Ein Prophet vom Land:** Micha aus Moreschet lebte zur Zeit Jesajas. Er sah, wie die Mächtigen den einfachen Leuten Felder und Häuser wegnahmen (2,1–2).
+> **Gegen korrupte Führer:** Richter, Priester und Propheten ließen sich bestechen. „Zion wird wie ein Acker gepflügt werden“ (3,11–12).
+> **Schwerter zu Pflugscharen:** Die große Friedensvision für alle Völker: „Sie werden den Krieg nicht mehr lernen“ (4,3).
+> **Der Herrscher aus Bethlehem:** Aus dem kleinen Bethlehem wird ein Hirte kommen. „Er wird unser Friede sein“ (5,2–5). Matthäus bezieht das auf die Geburt Jesu.
+> **Was Gott will:** „Es ist dir gesagt, Mensch, was gut ist: Recht tun, Barmherzigkeit lieben und demütig gehen mit deinem Gott“ (6,8).
+> **Hoffnung im Dunkeln:** „Wenn ich falle, stehe ich wieder auf. Wenn ich im Dunkeln sitze, ist der HERR mein Licht“ (7,8).
+> **Ein vergebender Gott:** „Wer ist ein Gott wie du, der Schuld vergibt? … Du wirst alle ihre Sünden in die Tiefen des Meeres werfen“ (7,18–19).
+> **Für heute:** Micha 6,8 ist ein Maßstab für jeden Tag: Handle ich gerecht? Bin ich barmherzig? Lebe ich demütig mit Gott?
+> **Wie geht es weiter?** Als Nächstes kommt Nahum. Er kündigt den Untergang von Ninive an, etwa 100 Jahre nach Jona. Diesmal kehrt die Stadt nicht um.
