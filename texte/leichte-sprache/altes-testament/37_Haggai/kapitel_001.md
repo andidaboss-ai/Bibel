@@ -30,7 +30,7 @@ in euren getäfelten Häusern zu wohnen,
 während dieses Haus in Trümmern liegt?
 
 > **Was bedeutet das?**
-> Vers 1: Das Datum entspricht etwa dem 29. August 520 vor Christus. Haggai spricht zu den beiden Anführern: Serubbabel, dem Statthalter (er war ein Enkel des Königs Jojachin, also aus dem Haus Davids), und Josua, dem Hohenpriester.
+> Vers 1: Das Datum entspricht etwa dem 29. August 520 vor Christus. Haggai spricht zu den beiden Anführern: Serubbabel, dem Statthalter (er war ein Nachkomme des Königs Jojachin, wahrscheinlich sein Enkel, also aus dem Haus Davids), und Josua, dem Hohenpriester.
 > Vers 2: Die Ausrede der Leute: „Es ist noch nicht die richtige Zeit.“ Es gab ja viele Probleme: Armut, schlechte Ernten, Widerstand der Nachbarn.
 > Vers 4: Haggai antwortet scharf: Für eure eigenen Häuser habt ihr Zeit! Ihr habt sie sogar mit Holz getäfelt, also schön ausgebaut. Aber Gottes Haus liegt in Trümmern.
 > Für heute: Wir sagen auch manchmal „Jetzt ist nicht die richtige Zeit“, wenn es um Gott geht. Aber für unsere eigenen Dinge finden wir immer Zeit.

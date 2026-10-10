@@ -113662,7 +113662,7 @@ in euren getäfelten Häusern zu wohnen,
 während dieses Haus in Trümmern liegt?
 
 > **Was bedeutet das?**
-> Vers 1: Das Datum entspricht etwa dem 29. August 520 vor Christus. Haggai spricht zu den beiden Anführern: Serubbabel, dem Statthalter (er war ein Enkel des Königs Jojachin, also aus dem Haus Davids), und Josua, dem Hohenpriester.
+> Vers 1: Das Datum entspricht etwa dem 29. August 520 vor Christus. Haggai spricht zu den beiden Anführern: Serubbabel, dem Statthalter (er war ein Nachkomme des Königs Jojachin, wahrscheinlich sein Enkel, also aus dem Haus Davids), und Josua, dem Hohenpriester.
 > Vers 2: Die Ausrede der Leute: „Es ist noch nicht die richtige Zeit.“ Es gab ja viele Probleme: Armut, schlechte Ernten, Widerstand der Nachbarn.
 > Vers 4: Haggai antwortet scharf: Für eure eigenen Häuser habt ihr Zeit! Ihr habt sie sogar mit Holz getäfelt, also schön ausgebaut. Aber Gottes Haus liegt in Trümmern.
 > Für heute: Wir sagen auch manchmal „Jetzt ist nicht die richtige Zeit“, wenn es um Gott geht. Aber für unsere eigenen Dinge finden wir immer Zeit.
@@ -113876,7 +113876,7 @@ spricht der HERR der Heere.“
 > Die letzte Botschaft gilt Serubbabel persönlich.
 > Vers 21–22: Gott wird die Weltreiche erschüttern. Die mächtigen Armeen werden sich gegenseitig vernichten.
 > Vers 23: Serubbabel wird Gottes „Siegelring“ sein. Ein Siegelring war sehr wertvoll. Mit ihm unterschrieb ein König seine Briefe und Gesetze. Wer den Siegelring hatte, handelte im Auftrag des Königs.
-> Das ist bedeutsam: Serubbabels Großvater, König Jojachin, wurde von Gott einst verworfen. Damals sagte Gott: „Selbst wenn er ein Siegelring an meiner rechten Hand wäre, würde ich ihn abreißen“ (Jeremia 22,24). Jetzt nimmt Gott das Haus Davids wieder an.
+> Das ist bedeutsam: Serubbabels Vorfahre, König Jojachin (in Jeremia „Konja“ genannt), wurde von Gott einst verworfen. Damals sagte Gott: „Selbst wenn er ein Siegelring an meiner rechten Hand wäre, würde ich ihn abreißen“ (Jeremia 22,24). Jetzt nimmt Gott das Haus Davids wieder an.
 > Serubbabel selbst wurde nie König. Aber die Verheißung an das Haus Davids blieb bestehen. Im Stammbaum Jesu wird Serubbabel genannt (Matthäus 1,12–13; Lukas 3,27).
 
 ---
