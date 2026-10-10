@@ -95910,3 +95910,340 @@ Und es wurden noch viele ähnliche Worte hinzugefügt.
 > Vers 28: Gottes Wort lässt sich nicht verbrennen. Jeremia und Baruch schreiben alles noch einmal auf.
 > Vers 30: Jojakims Sohn Jojachin regierte nur drei Monate, dann wurde er verschleppt (vgl. 22,30). Und Jojakim selbst sollte kein ehrenvolles Begräbnis bekommen (vgl. 22,19).
 > Vers 32: Die neue Rolle wurde sogar noch länger als die erste. Man kann ein Buch verbrennen, aber nicht die Wahrheit, die darin steht. Im Lauf der Geschichte haben Mächtige immer wieder Bücher und Bibeln verbrannt, aber Gottes Wort ist geblieben.
+
+## Jeremia – Kapitel 37
+#### Jeremia im Gefängnis
+
+---
+
+### Die Babylonier ziehen kurz ab (Vers 1–10)
+
+<sup>1</sup>Zidkija, der Sohn Joschijas, wurde König an Stelle Konjas, des Sohnes Jojakims.
+Nebukadnezar, der König von Babel, hatte ihn zum König im Land Juda gemacht.
+<sup>2</sup>Aber weder er noch seine Diener noch das Volk des Landes
+hörten auf die Worte des HERRN,
+die er durch den Propheten Jeremia redete.
+<sup>3</sup>König Zidkija sandte Juchal, den Sohn Schelemjas,
+und Zefanja, den Sohn Maasejas, den Priester, zum Propheten Jeremia
+und ließ ihm sagen:
+„Bete doch für uns zum HERRN, unserem Gott!“
+<sup>4</sup>Jeremia ging damals noch unter dem Volk ein und aus,
+denn man hatte ihn noch nicht ins Gefängnis geworfen.
+<sup>5</sup>Das Heer des Pharao war aus Ägypten ausgezogen.
+Als die Chaldäer, die Jerusalem belagerten, die Nachricht davon hörten,
+zogen sie von Jerusalem ab.
+<sup>6</sup>Da kam das Wort des HERRN zum Propheten Jeremia:
+<sup>7</sup>„So spricht der HERR, der Gott Israels:
+‚So sollt ihr zum König von Juda sagen, der euch zu mir gesandt hat, um mich zu befragen:
+„Siehe, das Heer des Pharao, das ausgezogen ist, um euch zu helfen,
+wird in sein Land, nach Ägypten, zurückkehren.
+<sup>8</sup>Und die Chaldäer werden zurückkommen und gegen diese Stadt kämpfen.
+Sie werden sie einnehmen und mit Feuer verbrennen.“‘
+<sup>9</sup>So spricht der HERR:
+‚Täuscht euch nicht selbst und sagt nicht:
+„Die Chaldäer werden gewiss von uns abziehen“,
+denn sie werden nicht abziehen.
+<sup>10</sup>Denn selbst wenn ihr das ganze Heer der Chaldäer schlagen würdet,
+die gegen euch kämpfen,
+und nur noch verwundete Männer unter ihnen übrig blieben,
+dann würde doch jeder in seinem Zelt aufstehen
+und diese Stadt mit Feuer verbrennen.‘“
+
+> **Was bedeutet das?**
+> Vers 3: Zidkija bittet Jeremia um Gebet. Er hat Respekt vor Jeremia, aber er hört trotzdem nicht auf ihn. Er ist ein schwacher, unentschlossener König.
+> Vers 5: Plötzlich kommt Hoffnung auf: Ägypten schickt ein Heer, und die Babylonier ziehen ab. Alle denken: Wir sind gerettet!
+> Vers 7–10: Aber Jeremia sagt: Täuscht euch nicht! Die Ägypter kehren um, die Babylonier kommen zurück. Selbst wenn nur Verwundete übrig wären, würden sie die Stadt einnehmen. Gottes Plan steht fest.
+
+---
+
+### Jeremia wird verhaftet (Vers 11–21)
+
+<sup>11</sup>Als das Heer der Chaldäer aus Furcht vor dem Heer des Pharao
+von Jerusalem abgezogen war,
+<sup>12</sup>da wollte Jeremia aus Jerusalem hinausgehen in das Land Benjamin,
+um dort seinen Anteil mitten unter dem Volk in Empfang zu nehmen.
+<sup>13</sup>Als er im Benjamintor war,
+war dort ein Wachhauptmann namens Jirija,
+der Sohn Schelemjas, des Sohnes Hananjas.
+Der ergriff den Propheten Jeremia und sagte:
+„Du willst zu den Chaldäern überlaufen!“
+<sup>14</sup>Da sagte Jeremia: „Das ist eine Lüge!
+Ich will nicht zu den Chaldäern überlaufen.“
+Aber er hörte nicht auf ihn,
+sondern Jirija ergriff Jeremia und brachte ihn zu den Fürsten.
+<sup>15</sup>Die Fürsten wurden zornig auf Jeremia,
+schlugen ihn und warfen ihn ins Gefängnis im Haus Jonatans, des Schreibers,
+denn das hatten sie zum Gefängnis gemacht.
+<sup>16</sup>Als Jeremia in das Kerkerhaus und in die Gewölbe gekommen war
+und Jeremia viele Tage dort geblieben war,
+<sup>17</sup>da sandte König Zidkija hin und ließ ihn holen.
+Und der König fragte ihn heimlich in seinem Haus:
+„Gibt es ein Wort vom HERRN?“
+Jeremia sagte: „Es gibt eins.“
+Und er sagte: „Du wirst in die Hand des Königs von Babel gegeben werden.“
+<sup>18</sup>Weiter sagte Jeremia zu König Zidkija:
+„Was habe ich gegen dich, gegen deine Diener oder gegen dieses Volk gesündigt,
+dass ihr mich ins Gefängnis geworfen habt?
+<sup>19</sup>Wo sind denn jetzt eure Propheten, die euch geweissagt und gesagt haben:
+‚Der König von Babel wird nicht über euch und über dieses Land kommen‘?
+<sup>20</sup>Und jetzt höre doch, mein Herr und König:
+Lass doch meine Bitte vor dich kommen
+und schick mich nicht in das Haus Jonatans, des Schreibers, zurück,
+damit ich dort nicht sterbe.“
+<sup>21</sup>Da befahl König Zidkija, und man brachte Jeremia in den Wachhof.
+Man gab ihm täglich einen Laib Brot aus der Bäckergasse,
+bis alles Brot in der Stadt aufgebraucht war.
+So blieb Jeremia im Wachhof.
+
+> **Was bedeutet das?**
+> Vers 12: Jeremia will die kurze Pause nutzen, um in seinem Heimatort Benjamin eine Familienangelegenheit zu regeln, vielleicht ein Erbe.
+> Vers 13–15: Aber er wird verdächtigt, zum Feind überzulaufen. Weil er immer gesagt hatte, man solle sich ergeben, glaubt ihm niemand. Er wird geschlagen und in ein Kellergefängnis geworfen.
+> Vers 17: Der König holt ihn heimlich und fragt: „Gibt es ein Wort vom HERRN?“ Jeremia bleibt ehrlich, auch wenn es gefährlich ist: „Ja. Du wirst in die Hand des Königs von Babel fallen.“
+> Vers 19: Jeremia fragt mit Recht: Wo sind denn jetzt die Propheten, die gesagt haben, Babylon würde nicht kommen?
+> Vers 20–21: Jeremia bittet darum, nicht in das schreckliche Kellergefängnis zurückzumüssen. Der König hat Mitleid und lässt ihn im Wachhof unterbringen, mit einem Brot pro Tag.
+> Wer heute unschuldig verfolgt oder eingesperrt wird, kann sich in Jeremia wiederfinden. Viele Menschen in vielen Ländern leiden bis heute wegen ihres Glaubens oder ihrer Meinung im Gefängnis.
+
+## Jeremia – Kapitel 38
+#### In der Zisterne
+
+---
+
+### Jeremia wird in die Zisterne geworfen (Vers 1–6)
+
+<sup>1</sup>Schefatja, der Sohn Mattans, Gedalja, der Sohn Paschhurs,
+Juchal, der Sohn Schelemjas, und Paschhur, der Sohn Malkijas,
+hörten die Worte, die Jeremia zum ganzen Volk redete und sagte:
+<sup>2</sup>„So spricht der HERR:
+‚Wer in dieser Stadt bleibt, wird durch das Schwert, den Hunger und die Pest sterben.
+Wer aber zu den Chaldäern hinausgeht, wird leben.
+Er wird sein Leben als Beute davontragen und wird leben.‘
+<sup>3</sup>So spricht der HERR:
+‚Diese Stadt wird gewiss in die Hand des Heeres des Königs von Babel gegeben werden,
+und er wird sie einnehmen.‘“
+<sup>4</sup>Da sagten die Fürsten zum König:
+„Lass doch diesen Mann töten,
+denn er macht die Hände der Kriegsleute schlaff,
+die in dieser Stadt übrig geblieben sind,
+und die Hände des ganzen Volkes,
+weil er solche Worte zu ihnen redet.
+Denn dieser Mann sucht nicht das Wohl dieses Volkes, sondern das Unheil.“
+<sup>5</sup>König Zidkija sagte:
+„Siehe, er ist in eurer Hand,
+denn der König kann nichts gegen euch tun.“
+<sup>6</sup>Da nahmen sie Jeremia und warfen ihn in die Zisterne Malkijas, des Königssohnes,
+die im Wachhof war.
+Sie ließen Jeremia an Stricken hinab.
+In der Zisterne war kein Wasser, sondern Schlamm,
+und Jeremia sank in den Schlamm.
+
+> **Was bedeutet das?**
+> Vers 4: Die Fürsten sagen: Jeremia schwächt die Moral der Soldaten. Er ist ein Verräter. In Kriegszeiten werden unbequeme Stimmen oft als Verräter beschimpft.
+> Vers 5: König Zidkija ist so schwach, dass er Jeremia einfach ausliefert: „Ich kann nichts gegen euch tun.“
+> Vers 6: Jeremia wird in eine leere Zisterne geworfen, ein tiefes Loch im Felsen, in dem Regenwasser gesammelt wurde. Unten ist nur Schlamm. Jeremia versinkt darin. Man lässt ihn dort sterben, ohne selbst Hand anzulegen.
+
+---
+
+### Ebed-Melech rettet Jeremia (Vers 7–13)
+
+<sup>7</sup>Ebed-Melech aber, der Kuschit, ein Hofbeamter, der im Haus des Königs war,
+hörte, dass man Jeremia in die Zisterne geworfen hatte.
+Der König saß damals im Benjamintor.
+<sup>8</sup>Da ging Ebed-Melech aus dem Haus des Königs hinaus
+und redete zum König und sagte:
+<sup>9</sup>„Mein Herr und König,
+diese Männer haben Böses getan in allem, was sie dem Propheten Jeremia angetan haben,
+den sie in die Zisterne geworfen haben.
+Er wird dort, wo er ist, vor Hunger sterben,
+denn es gibt kein Brot mehr in der Stadt.“
+<sup>10</sup>Da befahl der König Ebed-Melech, dem Kuschiten:
+„Nimm von hier dreißig Männer mit dir
+und hol den Propheten Jeremia aus der Zisterne herauf,
+bevor er stirbt.“
+<sup>11</sup>Da nahm Ebed-Melech die Männer mit sich
+und ging in das Haus des Königs unter die Schatzkammer
+und nahm von dort Lumpen und abgetragene Kleider
+und ließ sie an Stricken zu Jeremia in die Zisterne hinab.
+<sup>12</sup>Und Ebed-Melech, der Kuschit, sagte zu Jeremia:
+„Leg doch diese Lumpen und abgetragenen Kleider
+unter deine Achseln, unter die Stricke!“
+Und Jeremia tat es.
+<sup>13</sup>So zogen sie Jeremia an den Stricken hoch
+und holten ihn aus der Zisterne heraus.
+Und Jeremia blieb im Wachhof.
+
+> **Was bedeutet das?**
+> Der Held dieser Geschichte ist Ebed-Melech. Sein Name bedeutet „Diener des Königs“. Er ist ein Kuschit, also ein Afrikaner aus dem Land südlich von Ägypten (das WEB hat „the Ethiopian“). Er ist ein Fremder, ein Hofbeamter (wörtlich „Eunuch“), und vielleicht sogar ein Sklave. Ausgerechnet er hat den Mut, den der König und die Fürsten nicht haben.
+> Vers 9: Er geht direkt zum König und sagt öffentlich: Was diese Männer getan haben, ist böse!
+> Vers 11–12: Ein schönes Detail: Ebed-Melech denkt an alles. Er besorgt alte Lumpen, damit die Stricke nicht in Jeremias Achseln schneiden. Er rettet nicht nur sein Leben, sondern ist auch fürsorglich und behutsam.
+> Ebed-Melech zeigt: Menschlichkeit und Mut hängen nicht von Herkunft, Hautfarbe oder Stellung ab. Gott belohnt ihn später dafür (39,15–18).
+
+---
+
+### Ein geheimes Gespräch mit dem König (Vers 14–28)
+
+<sup>14</sup>Dann sandte König Zidkija hin
+und ließ den Propheten Jeremia zu sich holen,
+an den dritten Eingang, der im Haus des HERRN ist.
+Und der König sagte zu Jeremia:
+„Ich will dich etwas fragen.
+Verschweig mir nichts!“
+<sup>15</sup>Da sagte Jeremia zu Zidkija:
+„Wenn ich es dir sage, wirst du mich dann nicht töten?
+Und wenn ich dir einen Rat gebe, wirst du nicht auf mich hören.“
+<sup>16</sup>Da schwor König Zidkija Jeremia heimlich und sagte:
+„So wahr der HERR lebt, der uns diese Seele gemacht hat:
+Ich werde dich nicht töten
+und dich nicht in die Hand dieser Männer geben,
+die dir nach dem Leben trachten.“
+<sup>17</sup>Da sagte Jeremia zu Zidkija:
+„So spricht der HERR, der Gott der Heere, der Gott Israels:
+‚Wenn du hinausgehst zu den Fürsten des Königs von Babel,
+dann wird deine Seele leben,
+und diese Stadt wird nicht mit Feuer verbrannt werden.
+Du wirst leben, du und dein Haus.
+<sup>18</sup>Wenn du aber nicht zu den Fürsten des Königs von Babel hinausgehst,
+dann wird diese Stadt in die Hand der Chaldäer gegeben werden,
+und sie werden sie mit Feuer verbrennen,
+und du wirst ihrer Hand nicht entkommen.‘“
+<sup>19</sup>König Zidkija sagte zu Jeremia:
+„Ich habe Angst vor den Juden, die zu den Chaldäern übergelaufen sind,
+dass man mich in ihre Hand gibt
+und sie ihren Spott mit mir treiben.“
+<sup>20</sup>Aber Jeremia sagte:
+„Man wird dich ihnen nicht ausliefern.
+Höre doch auf die Stimme des HERRN in dem, was ich dir sage,
+dann wird es dir gut gehen, und deine Seele wird leben.
+<sup>21</sup>Wenn du dich aber weigerst hinauszugehen,
+dann ist das das Wort, das der HERR mir gezeigt hat:
+<sup>22</sup>‚Siehe, alle Frauen, die im Haus des Königs von Juda übrig geblieben sind,
+werden zu den Fürsten des Königs von Babel hinausgeführt werden,
+und diese Frauen werden sagen:
+„Deine vertrauten Freunde haben dich verführt
+und haben dich überwältigt.
+Deine Füße sind im Schlamm versunken,
+da haben sie sich von dir abgewandt.“
+<sup>23</sup>Man wird alle deine Frauen und deine Kinder zu den Chaldäern hinausführen.
+Du wirst ihrer Hand nicht entkommen,
+sondern du wirst von der Hand des Königs von Babel ergriffen werden.
+Und du wirst schuld sein, dass diese Stadt mit Feuer verbrannt wird.‘“
+<sup>24</sup>Da sagte Zidkija zu Jeremia:
+„Niemand soll von diesen Worten erfahren,
+dann wirst du nicht sterben.
+<sup>25</sup>Wenn aber die Fürsten hören, dass ich mit dir geredet habe,
+und zu dir kommen und zu dir sagen:
+‚Sag uns doch, was du zum König gesagt hast.
+Verschweig es uns nicht, dann werden wir dich nicht töten.
+Und was hat der König zu dir gesagt?‘,
+<sup>26</sup>dann sollst du zu ihnen sagen:
+‚Ich habe meine Bitte vor den König gebracht,
+dass er mich nicht in das Haus Jonatans zurückschickt, um dort zu sterben.‘“
+<sup>27</sup>Da kamen alle Fürsten zu Jeremia und fragten ihn.
+Und er antwortete ihnen genau mit den Worten, die der König ihm befohlen hatte.
+Da ließen sie von ihm ab,
+denn die Sache war nicht bekannt geworden.
+<sup>28</sup>So blieb Jeremia im Wachhof
+bis zu dem Tag, an dem Jerusalem eingenommen wurde.
+
+> **Was bedeutet das?**
+> Vers 14–16: Noch einmal ein geheimes Treffen. Der König will die Wahrheit hören, aber Jeremia ist vorsichtig: Wirst du mich töten? Wirst du überhaupt hören?
+> Vers 17–18: Jeremias Rat ist klar: Ergib dich, dann rettest du dein Leben, deine Familie und die Stadt.
+> Vers 19: Zidkijas eigentliches Problem ist Angst, Angst vor Spott und Demütigung. Er weiß, was richtig wäre, aber er hat nicht den Mut dazu.
+> Vers 22: Ein Spottlied: „Deine Füße sind im Schlamm versunken.“ Das ist bitter: Jeremia war wirklich im Schlamm versunken. Jetzt wird der König selbst „im Schlamm stecken“.
+> Vers 24–27: Der König hat mehr Angst vor seinen eigenen Fürsten als vor Gott. Jeremia sagt den Fürsten nur einen Teil der Wahrheit, um sein Leben zu schützen.
+
+## Jeremia – Kapitel 39
+#### Jerusalem fällt
+
+---
+
+### Die Stadt wird eingenommen (Vers 1–10)
+
+<sup>1</sup>Im neunten Jahr Zidkijas, des Königs von Juda, im zehnten Monat,
+kamen Nebukadnezar, der König von Babel, und sein ganzes Heer
+gegen Jerusalem und belagerten es.
+<sup>2</sup>Im elften Jahr Zidkijas, im vierten Monat, am neunten Tag des Monats,
+wurde eine Bresche in die Stadt geschlagen.
+<sup>3</sup>Alle Fürsten des Königs von Babel kamen herein
+und setzten sich in das Mitteltor:
+Nergal-Sarezer, Samgar-Nebo, Sarsechim, der Oberkämmerer,
+Nergal-Sarezer, der Obermagier,
+und alle übrigen Fürsten des Königs von Babel.
+<sup>4</sup>Als Zidkija, der König von Juda, und alle Kriegsleute sie sahen,
+flohen sie und zogen bei Nacht aus der Stadt hinaus,
+auf dem Weg zum Garten des Königs,
+durch das Tor zwischen den beiden Mauern,
+und er zog hinaus in Richtung der Araba.
+<sup>5</sup>Aber das Heer der Chaldäer verfolgte sie
+und holte Zidkija in den Ebenen von Jericho ein.
+Sie nahmen ihn gefangen und brachten ihn hinauf
+zu Nebukadnezar, dem König von Babel, nach Ribla im Land Hamat,
+und er sprach das Urteil über ihn.
+<sup>6</sup>Da ließ der König von Babel die Söhne Zidkijas in Ribla
+vor dessen Augen töten.
+Auch alle Vornehmen von Juda ließ der König von Babel töten.
+<sup>7</sup>Dann ließ er Zidkija die Augen ausstechen
+und ihn in bronzene Fesseln legen,
+um ihn nach Babel zu bringen.
+<sup>8</sup>Die Chaldäer verbrannten das Haus des Königs und die Häuser des Volkes mit Feuer
+und rissen die Mauern Jerusalems nieder.
+<sup>9</sup>Den Rest des Volkes, der in der Stadt übrig geblieben war,
+und die Überläufer, die zu ihm übergelaufen waren,
+und den Rest des Volkes, der übrig geblieben war,
+führte Nebusaradan, der Oberste der Leibwache, gefangen nach Babel.
+<sup>10</sup>Aber von den Armen des Volkes, die nichts hatten,
+ließ Nebusaradan, der Oberste der Leibwache, einige im Land Juda zurück
+und gab ihnen zu jener Zeit Weinberge und Felder.
+
+> **Was bedeutet das?**
+> Jetzt geschieht, was Jeremia 40 Jahre lang angekündigt hatte.
+> Vers 1–2: Die Belagerung dauerte etwa eineinhalb Jahre (588–587 vor Christus). Dann brachen die Babylonier durch die Mauer.
+> Vers 4–5: König Zidkija flieht in der Nacht, wird aber bei Jericho gefangen.
+> Vers 6–7: Was dann geschieht, ist grausam: Zidkija muss mit ansehen, wie seine Söhne getötet werden. Danach werden ihm die Augen ausgestochen. Das Letzte, was er sah, war der Tod seiner Kinder. Die Bibel berichtet diese Grausamkeit nüchtern. Sie zeigt, wie schrecklich Krieg ist. Gewalt gegen Gefangene und Kinder ist ein Verbrechen.
+> Vers 8: Der Königspalast und die Häuser werden verbrannt, die Mauern niedergerissen. (Die Zerstörung des Tempels wird in Kapitel 52 erzählt.)
+> Vers 10: Eine überraschende Wendung: Die Armen, die nichts hatten, bleiben im Land und bekommen sogar Weinberge und Felder. Die Verhältnisse kehren sich um.
+> Wer durch Krieg und Gewalt traumatisiert ist, braucht Hilfe. Die Telefonseelsorge ist erreichbar: 0800 111 0 111.
+
+---
+
+### Jeremia wird freigelassen (Vers 11–14)
+
+<sup>11</sup>Nebukadnezar, der König von Babel, hatte aber über Jeremia
+Nebusaradan, dem Obersten der Leibwache, Befehl gegeben und gesagt:
+<sup>12</sup>„Nimm ihn und achte auf ihn!
+Tu ihm nichts Böses,
+sondern tu mit ihm, was er dir sagt.“
+<sup>13</sup>Da sandten Nebusaradan, der Oberste der Leibwache,
+und Nebuschasban, der Oberkämmerer,
+und Nergal-Sarezer, der Obermagier,
+und alle Obersten des Königs von Babel hin
+<sup>14</sup>und ließen Jeremia aus dem Wachhof holen
+und übergaben ihn Gedalja, dem Sohn Ahikams, des Sohnes Schafans,
+damit er ihn nach Hause bringe.
+So blieb er mitten unter dem Volk.
+
+> **Was bedeutet das?**
+> Ausgerechnet der feindliche König behandelt Jeremia gut. Vielleicht hatte er gehört, dass Jeremia zur Unterwerfung geraten hatte.
+> Vers 14: Jeremia wird Gedalja anvertraut. Gedalja ist der Sohn Ahikams, der Jeremia schon früher gerettet hatte (26,24). Die Familie Schafan hält treu zu Jeremia. Gedalja wird bald Statthalter des Landes (Kapitel 40).
+> (Kapitel 40,1–6 erzählt diese Freilassung etwas anders und ausführlicher.)
+
+---
+
+### Eine Verheißung für Ebed-Melech (Vers 15–18)
+
+<sup>15</sup>Das Wort des HERRN war zu Jeremia gekommen,
+als er noch im Wachhof eingesperrt war:
+<sup>16</sup>„Geh und sag zu Ebed-Melech, dem Kuschiten:
+‚So spricht der HERR der Heere, der Gott Israels:
+„Siehe, ich bringe meine Worte über diese Stadt zum Unheil und nicht zum Guten,
+und sie werden an jenem Tag vor deinen Augen geschehen.
+<sup>17</sup>Aber dich werde ich an jenem Tag retten“, spricht der HERR,
+„und du wirst nicht in die Hand der Männer gegeben werden,
+vor denen du dich fürchtest.
+<sup>18</sup>Denn ich werde dich gewiss retten.
+Du wirst nicht durch das Schwert fallen,
+sondern du wirst dein Leben als Beute davontragen,
+weil du auf mich vertraut hast“, spricht der HERR.‘“
+
+> **Was bedeutet das?**
+> Gott vergisst nicht, was Ebed-Melech für Jeremia getan hat. Der fremde Mann aus Kusch, der den Mut hatte, Jeremia aus dem Schlamm zu ziehen, wird gerettet.
+> Vers 18: Der Grund: „Weil du auf mich vertraut hast.“ Ebed-Melech war kein Israelit, aber er hat Gott vertraut. Gottes Rettung gilt allen, die ihm vertrauen, egal woher sie kommen.
