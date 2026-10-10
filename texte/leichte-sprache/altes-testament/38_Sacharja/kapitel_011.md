@@ -72,7 +72,7 @@ um die Bruderschaft zwischen Juda und Israel zu zerbrechen.
 > Dieses Kapitel gehört zu den schwierigsten im Alten Testament. Die Ausleger verstehen es sehr unterschiedlich. Klar ist: Sacharja führt eine Art Gleichnis-Handlung auf. Er spielt einen Hirten, der Gottes Rolle übernimmt.
 > Vers 4–6: Die „Schlachtschafe“ sind das Volk, das von seinen eigenen Anführern ausgebeutet wird. Die Händler werden reich, verkaufen die Schafe und danken dafür auch noch Gott! Niemand hat Mitleid mit ihnen.
 > Vers 7: Der Hirte kümmert sich besonders um die Schwächsten. Er hat zwei Stäbe: „Huld“ (Freundlichkeit, Gnade) und „Einheit“ (Verbundenheit).
-> Vers 8: Wer die „drei Hirten“ sind, wissen wir nicht. Es gibt über 40 verschiedene Deutungen.
+> Vers 8: Wer die „drei Hirten“ sind, wissen wir nicht. Es gibt dazu sehr viele verschiedene Deutungen.
 > Vers 9: Das Volk lehnt den guten Hirten ab. Da gibt er auf. Die schreckliche Folge: Hunger und Elend, so schlimm, dass Menschen sich gegenseitig zerfleischen. Das beschreibt die Gräuel von Belagerung und Hungersnot (vgl. 2. Könige 6,28–29). Es ist eine Warnung, kein Wunsch.
 > Vers 10–11: Der Stab „Huld“ wird zerbrochen: Gottes schützende Gnade wird zurückgezogen. Nur die „Elenden der Herde“ verstehen, was geschieht.
 > Vers 12–13: Der Hirte fragt nach seinem Lohn. Man gibt ihm dreißig Silberstücke. Das war der Preis für einen Sklaven (2. Mose 21,32). Gott nennt es mit bitterer Ironie „den herrlichen Preis, den sie mir wert waren“. So wenig ist Gott seinem Volk wert! Der Hirte wirft das Geld dem Töpfer im Tempel hin.
