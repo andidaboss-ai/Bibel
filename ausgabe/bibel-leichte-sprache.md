@@ -102026,3 +102026,423 @@ spricht der Herr, der HERR.
 > – das Volk des Landes (Vers 29): Auch die einfachen Leute unterdrücken Arme und Fremde.
 > Vers 30: Ein bewegender Vers: Gott sucht einen einzigen Menschen, der „in die Bresche tritt“, der sich in die Lücke der kaputten Mauer stellt, für sein Volk eintritt und betet. So wie Mose es einmal getan hat (Psalm 106,23). Aber Gott findet niemanden.
 > Dieser Vers ist eine Frage an uns heute: Wo werden Menschen gebraucht, die für andere eintreten, die beten, helfen und sich für Gerechtigkeit einsetzen? Gott sucht solche Menschen.
+
+## Hesekiel – Kapitel 23
+#### Ohola und Oholiba
+
+---
+
+### Vorweg: Wie liest man dieses Kapitel?
+
+Hesekiel 23 ist, wie Kapitel 16, ein sehr hartes Bildkapitel. Zwei Schwestern stehen für zwei Städte: Ohola für Samaria (die Hauptstadt des Nordreichs Israel) und Oholiba für Jerusalem (die Hauptstadt des Südreichs Juda).
+Ihre „Untreue“ ist ein Bild für die Politik und den Glauben dieser Städte: Statt Gott zu vertrauen, haben sie sich an fremde Großmächte gehängt, Ägypten, Assyrien und Babylon, und deren Götter übernommen.
+Die Sprache ist an manchen Stellen sexuell sehr direkt und auch gewaltvoll. Sie war schon damals schockierend gemeint. Heute empfinden viele sie als verletzend und frauenfeindlich, und das darf man aussprechen.
+Ganz wichtig: Dieses Kapitel ist ein Bild für die Schuld zweier Städte und ihrer Führer, also vor allem von Männern. Es ist keine Aussage darüber, wie Frauen sind, und es rechtfertigt niemals Gewalt, Bloßstellung oder Bestrafung von Frauen oder irgendeinem Menschen.
+
+---
+
+### Zwei Schwestern (Vers 1–4)
+
+<sup>1</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>2</sup>„Menschensohn, es waren zwei Frauen,
+Töchter einer Mutter.
+<sup>3</sup>Sie trieben Hurerei in Ägypten.
+In ihrer Jugend trieben sie Hurerei.
+Dort wurden ihre Brüste betastet,
+und dort wurden ihre jugendlichen Brustwarzen gestreichelt.
+<sup>4</sup>Ihre Namen waren Ohola, die ältere,
+und Oholiba, ihre Schwester.
+Sie wurden mein,
+und sie gebaren Söhne und Töchter.
+Was ihre Namen betrifft:
+Samaria ist Ohola,
+und Jerusalem ist Oholiba.
+
+> **Was bedeutet das?**
+> Die Namen sind Wortspiele: „Ohola“ bedeutet etwa „ihr Zelt“, „Oholiba“ bedeutet „mein Zelt ist in ihr“. Das „Zelt“ erinnert an das Heiligtum. Vielleicht ist gemeint: Samaria hatte ein eigenes, selbstgemachtes Heiligtum, aber in Jerusalem stand Gottes eigener Tempel.
+> Vers 3: Schon in Ägypten, ganz am Anfang der Geschichte, hingen die Israeliten an fremden Göttern (vgl. 20,7–8). Das Bild beschreibt junge Mädchen, die in Ägypten sexuell benutzt wurden. Aus heutiger Sicht muss man klar sagen: Wenn Mädchen so behandelt werden, ist das Missbrauch, und die Schuld liegt nie bei den Mädchen.
+
+---
+
+### Ohola: Samaria und Assyrien (Vers 5–10)
+
+<sup>5</sup>Ohola trieb Hurerei, als sie mein war.
+Sie war verliebt in ihre Liebhaber,
+in die Assyrer, ihre Nachbarn,
+<sup>6</sup>die in Blau gekleidet waren,
+Statthalter und Herrscher,
+alle begehrenswerte junge Männer,
+Reiter, die auf Pferden ritten.
+<sup>7</sup>Sie gab sich ihnen hin als Hure,
+ihnen allen, den Erlesensten von Assyrien.
+Mit den Götzen aller, nach denen sie begehrte,
+verunreinigte sie sich.
+<sup>8</sup>Sie hat ihre Hurerei seit Ägypten nicht gelassen,
+denn in ihrer Jugend hatten sie bei ihr gelegen.
+Sie hatten ihre jugendlichen Brustwarzen gestreichelt
+und ihre Hurerei über sie ausgegossen.
+<sup>9</sup>Darum gab ich sie in die Hand ihrer Liebhaber,
+in die Hand der Assyrer, in die sie verliebt war.
+<sup>10</sup>Diese deckten ihre Blöße auf.
+Sie nahmen ihre Söhne und ihre Töchter,
+und sie töteten sie mit dem Schwert.
+Sie wurde zum Gerede unter den Frauen,
+denn man vollstreckte Gerichte an ihr.
+
+> **Was bedeutet das?**
+> Samaria, das Nordreich, war von der glänzenden Großmacht Assyrien beeindruckt: die prächtigen Uniformen, die Reiter, die Macht. Es suchte Bündnisse mit Assyrien und übernahm seine Götter (vgl. 2. Könige 17).
+> Vers 9–10: Am Ende wurden genau diese „Liebhaber“ zu Zerstörern. Im Jahr 722 vor Christus eroberte Assyrien Samaria und verschleppte die Bevölkerung (2. Könige 17,5–6). Die Söhne und Töchter, also die Bewohner, wurden getötet oder weggeführt.
+> Die Botschaft: Wer auf Macht und Glanz vertraut statt auf Gott, wird am Ende von genau dieser Macht zerstört.
+
+---
+
+### Oholiba: Jerusalem wird noch schlimmer (Vers 11–21)
+
+<sup>11</sup>Ihre Schwester Oholiba sah das,
+und doch war sie in ihrer Begierde noch verdorbener als jene,
+und in ihrer Hurerei,
+die schlimmer war als die Hurerei ihrer Schwester.
+<sup>12</sup>Sie begehrte die Assyrer,
+Statthalter und Herrscher, ihre Nachbarn,
+prächtig gekleidet,
+Reiter, die auf Pferden ritten,
+alle begehrenswerte junge Männer.
+<sup>13</sup>Ich sah, dass sie sich verunreinigt hatte.
+Beide gingen denselben Weg.
+<sup>14</sup>Sie vermehrte ihre Hurerei,
+denn sie sah Männer, an die Wand gezeichnet,
+Bilder von Chaldäern, mit Mennigrot gemalt,
+<sup>15</sup>mit Gürteln um ihre Hüften,
+mit wallenden Kopfbunden auf ihren Köpfen,
+alle anzusehen wie Fürsten,
+nach dem Bild der Babylonier in Chaldäa,
+dem Land ihrer Herkunft.
+<sup>16</sup>Sobald sie sie sah, begehrte sie sie
+und sandte Boten zu ihnen nach Chaldäa.
+<sup>17</sup>Die Babylonier kamen zu ihr ins Liebesbett
+und verunreinigten sie mit ihrer Hurerei.
+Sie wurde durch sie unrein,
+und ihre Seele wandte sich von ihnen ab.
+<sup>18</sup>So deckte sie ihre Hurerei auf
+und deckte ihre Blöße auf.
+Da wandte sich meine Seele von ihr ab,
+so wie sich meine Seele von ihrer Schwester abgewandt hatte.
+<sup>19</sup>Doch sie vermehrte ihre Hurerei,
+indem sie an die Tage ihrer Jugend dachte,
+als sie im Land Ägypten Hurerei getrieben hatte.
+<sup>20</sup>Sie begehrte deren Liebhaber,
+deren Fleisch wie das Fleisch von Eseln ist
+und deren Erguss wie der Erguss von Pferden ist.
+<sup>21</sup>So riefst du dir die Schamlosigkeit deiner Jugend in Erinnerung,
+als die Ägypter deine Brustwarzen streichelten
+wegen deiner jugendlichen Brüste.
+
+> **Was bedeutet das?**
+> Jerusalem hat aus dem Schicksal Samarias nichts gelernt. Es macht dieselben Fehler, nur schlimmer:
+> – Zuerst suchte Juda Schutz bei Assyrien (vgl. 2. Könige 16,7–8).
+> – Dann war es fasziniert von Babylon. Schon Bilder von babylonischen Offizieren reichten (Vers 14–16). Juda schickte Gesandte nach Babylon.
+> – Dann wandte es sich wieder von Babylon ab und suchte Hilfe bei Ägypten (Vers 19–21).
+> Vers 20: Diese Sprache ist absichtlich derb und schockierend. Sie soll zeigen, wie würdelos und abstoßend dieses Hin und Her zwischen den Großmächten ist. Ägypten war bekannt für seine Pferde (vgl. 1. Könige 10,28).
+> Vers 17–18: Ein wichtiges Detail: Jerusalem wendet sich von Babylon ab, und Gott wendet sich von Jerusalem ab. Untreue zerstört Beziehungen.
+
+---
+
+### Das Gericht über Oholiba (Vers 22–35)
+
+<sup>22</sup>Darum, Oholiba, so spricht der Herr, der HERR:
+‚Siehe, ich werde deine Liebhaber gegen dich aufbringen,
+von denen sich deine Seele abgewandt hat,
+und ich werde sie von allen Seiten gegen dich heranbringen:
+<sup>23</sup>die Babylonier und alle Chaldäer,
+Pekod, Schoa und Koa,
+und alle Assyrer mit ihnen,
+alle begehrenswerte junge Männer,
+Statthalter und Herrscher,
+Fürsten und berühmte Männer,
+sie alle reiten auf Pferden.
+<sup>24</sup>Sie werden gegen dich kommen mit Waffen, Streitwagen und Wagen
+und mit einer Menge von Völkern.
+Sie werden sich ringsum gegen dich aufstellen
+mit Langschild, Schild und Helm.
+Ich werde ihnen das Gericht übergeben,
+und sie werden dich nach ihren Rechtsbräuchen richten.
+<sup>25</sup>Ich werde meine Eifersucht gegen dich richten,
+und sie werden mit dir im Grimm verfahren.
+Sie werden dir Nase und Ohren abschneiden.
+Was von dir übrig bleibt, wird durch das Schwert fallen.
+Sie werden deine Söhne und deine Töchter nehmen,
+und der Rest von dir wird vom Feuer verzehrt werden.
+<sup>26</sup>Sie werden dir auch deine Kleider ausziehen
+und deinen schönen Schmuck wegnehmen.
+<sup>27</sup>So werde ich deiner Schamlosigkeit ein Ende machen
+und deiner Hurerei seit dem Land Ägypten,
+sodass du deine Augen nicht mehr zu ihnen erhebst
+und nicht mehr an Ägypten denkst.‘
+<sup>28</sup>Denn so spricht der Herr, der HERR:
+‚Siehe, ich gebe dich in die Hand derer, die du hasst,
+in die Hand derer, von denen sich deine Seele abgewandt hat.
+<sup>29</sup>Sie werden mit dir im Hass verfahren
+und dir allen Ertrag deiner Arbeit nehmen
+und dich nackt und bloß liegen lassen.
+Die Blöße deiner Hurerei wird aufgedeckt werden,
+deine Schamlosigkeit und deine Hurerei.
+<sup>30</sup>Das wird dir angetan werden,
+weil du den Völkern nachgehurt hast
+und weil du dich mit ihren Götzen verunreinigt hast.
+<sup>31</sup>Du bist auf dem Weg deiner Schwester gegangen.
+Darum gebe ich ihren Becher in deine Hand.‘
+<sup>32</sup>So spricht der Herr, der HERR:
+‚Du wirst den Becher deiner Schwester trinken,
+der tief und weit ist.
+Du wirst zum Gespött und zum Hohn werden.
+Er fasst viel.
+<sup>33</sup>Du wirst voll werden von Trunkenheit und Kummer,
+mit dem Becher des Entsetzens und der Verwüstung,
+mit dem Becher deiner Schwester Samaria.
+<sup>34</sup>Du wirst ihn trinken und ausleeren.
+Du wirst an seinen Scherben nagen
+und dir die Brüste zerreißen,
+denn ich habe es gesagt‘,
+spricht der Herr, der HERR.
+<sup>35</sup>Darum spricht der Herr, der HERR:
+‚Weil du mich vergessen
+und mich hinter deinen Rücken geworfen hast,
+darum trage auch du deine Schamlosigkeit und deine Hurerei.‘“
+
+> **Was bedeutet das?**
+> Vers 22–24: Die Großmächte, die Jerusalem „geliebt“ hat, kommen jetzt als Feinde. Pekod, Schoa und Koa waren Volksstämme im Gebiet Babylons.
+> Vers 25: Das Abschneiden von Nase und Ohren war eine grausame Kriegsstrafe der Großmächte damals. Hesekiel beschreibt, was die Eroberer tun werden. Das ist eine Beschreibung von Kriegsgräueln, keine Billigung.
+> Vers 31–34: Der „Becher“ ist ein bekanntes Bild in der Bibel für das Schicksal, das man „trinken“ muss (vgl. Jeremia 25,15–29). Jerusalem muss denselben bitteren Becher trinken wie Samaria.
+> Vers 35: Der eigentliche Grund: „Du hast mich vergessen und hinter deinen Rücken geworfen.“ Die Untreue gegen Gott ist das Kernproblem.
+> Noch einmal deutlich: Solche Bilder rechtfertigen niemals Gewalt gegen Frauen. Wer Gewalt erlebt, ist nicht schuld. Hilfetelefon Gewalt gegen Frauen: 116 016 (kostenlos, anonym, rund um die Uhr).
+
+---
+
+### Beide Schwestern vor Gericht (Vers 36–49)
+
+<sup>36</sup>Weiter sagte der HERR zu mir:
+„Menschensohn, willst du Ohola und Oholiba richten?
+Dann halte ihnen ihre Gräuel vor.
+<sup>37</sup>Denn sie haben die Ehe gebrochen,
+und Blut ist an ihren Händen.
+Mit ihren Götzen haben sie die Ehe gebrochen.
+Sie haben auch ihre Söhne, die sie mir geboren hatten,
+für sie durch das Feuer gehen lassen, um sie zu verzehren.
+<sup>38</sup>Außerdem haben sie mir dies angetan:
+Sie haben mein Heiligtum am selben Tag verunreinigt
+und meine Sabbate entweiht.
+<sup>39</sup>Denn als sie ihre Kinder für ihre Götzen geschlachtet hatten,
+kamen sie am selben Tag in mein Heiligtum, um es zu entweihen.
+Und siehe, das haben sie mitten in meinem Haus getan.
+<sup>40</sup>Außerdem habt ihr Schwestern nach Männern geschickt,
+die von weit her kommen,
+zu denen ein Bote gesandt wurde,
+und siehe, sie kamen.
+Für sie hast du dich gewaschen,
+deine Augen geschminkt
+und dich mit Schmuck geschmückt.
+<sup>41</sup>Du saßest auf einem prächtigen Bett,
+und ein Tisch war davor bereitet,
+auf den du meinen Weihrauch und mein Öl gestellt hast.
+<sup>42</sup>Der Lärm einer sorglosen Menge war bei ihr.
+Zu den Männern aus dem gewöhnlichen Volk
+wurden Trinker aus der Wüste gebracht.
+Sie legten ihnen Armreifen an die Hände
+und prächtige Kronen auf ihre Köpfe.
+<sup>43</sup>Da sagte ich über die, die in Ehebrüchen alt geworden war:
+‚Jetzt werden sie mit ihr Hurerei treiben, und sie mit ihnen.‘
+<sup>44</sup>Sie gingen zu ihr ein,
+wie man zu einer Hure eingeht.
+So gingen sie zu Ohola und zu Oholiba ein,
+den schamlosen Frauen.
+<sup>45</sup>Gerechte Männer werden sie richten
+nach dem Recht für Ehebrecherinnen
+und nach dem Recht für Frauen, die Blut vergießen,
+denn sie sind Ehebrecherinnen,
+und Blut ist an ihren Händen.
+<sup>46</sup>Denn so spricht der Herr, der HERR:
+‚Ich werde eine Volksmenge gegen sie heraufbringen
+und sie dem Hin- und Hergestoßenwerden und der Plünderung preisgeben.
+<sup>47</sup>Die Menge wird sie mit Steinen steinigen
+und sie mit ihren Schwertern niederhauen.
+Sie werden ihre Söhne und ihre Töchter töten
+und ihre Häuser mit Feuer verbrennen.
+<sup>48</sup>So werde ich der Schamlosigkeit im Land ein Ende machen,
+damit alle Frauen sich warnen lassen
+und nicht schamlos handeln wie ihr.
+<sup>49</sup>Man wird eure Schamlosigkeit auf euch bringen,
+und ihr werdet die Sünden eurer Götzen tragen.
+Dann werdet ihr erkennen, dass ich der Herr, der HERR, bin.‘“
+
+> **Was bedeutet das?**
+> Vers 37–39: Hier wird klar, worum es wirklich geht: Götzendienst und Kinderopfer. Am selben Tag, an dem sie Kinder für Götzen getötet hatten, gingen sie in Gottes Tempel, als wäre nichts gewesen. Diese Heuchelei ist für Gott unerträglich.
+> Vers 40–42: Jerusalem schmückt sich für fremde Gesandte. Gemeint sind wohl diplomatische Empfänge und Bündnisverhandlungen, bei denen man Gottes Gaben (Weihrauch und Öl) an Fremde verschwendete.
+> Vers 45–47: Wieder wird die Sprache der damaligen Strafen benutzt. Die „Volksmenge“ ist das Heer, das die Städte zerstören wird.
+> Vers 48: „Damit alle Frauen sich warnen lassen“ – im Bild sind die „Frauen“ wahrscheinlich die anderen Städte und Völker. Dieser Vers darf auf keinen Fall so verstanden werden, als sollten echte Frauen durch Gewalt eingeschüchtert oder kontrolliert werden. Gewalt gegen Frauen ist Unrecht, immer.
+> Die Bibel selbst zeigt an anderer Stelle einen ganz anderen Weg: Jesus verurteilt die Frau nicht, die gesteinigt werden sollte, sondern sagt zu den Männern: „Wer von euch ohne Sünde ist, werfe den ersten Stein“ (Johannes 8,7).
+> Wenn du Gewalt erlebst: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00, Polizei 110.
+
+## Hesekiel – Kapitel 24
+#### Der Kochtopf und der Tod von Hesekiels Frau
+
+---
+
+### Der Tag der Belagerung (Vers 1–2)
+
+<sup>1</sup>Wieder, im neunten Jahr, im zehnten Monat, am zehnten Tag des Monats,
+kam das Wort des HERRN zu mir:
+<sup>2</sup>„Menschensohn, schreib dir den Namen des Tages auf,
+genau dieses Tages.
+Genau an diesem Tag ist der König von Babylon
+nahe an Jerusalem herangerückt.
+
+> **Was bedeutet das?**
+> Das ist ein historisches Datum: Im Januar 588 vor Christus begann Nebukadnezar die Belagerung Jerusalems (vgl. 2. Könige 25,1; Jeremia 52,4). Hesekiel ist 900 Kilometer entfernt in Babylon und weiß es durch Gott am selben Tag.
+> Im Judentum ist der 10. Tewet bis heute ein Fastentag, der an den Beginn dieser Belagerung erinnert.
+
+---
+
+### Das Gleichnis vom Kochtopf (Vers 3–14)
+
+<sup>3</sup>Erzähl dem widerspenstigen Haus ein Gleichnis
+und sag ihnen:
+‚So spricht der Herr, der HERR:
+„Setz den Kochtopf aufs Feuer!
+Setz ihn auf und gieß auch Wasser hinein.
+<sup>4</sup>Sammle seine Stücke hinein,
+alle guten Stücke, Keule und Schulter.
+Fülle ihn mit den besten Knochen.
+<sup>5</sup>Nimm das Beste von der Herde
+und auch einen Stapel Holz für die Knochen unter dem Topf.
+Lass es gut kochen.
+Ja, lass auch seine Knochen darin kochen.“
+<sup>6</sup>Darum spricht der Herr, der HERR:
+„Wehe der Blutstadt,
+dem Topf, an dem der Rost ist
+und dessen Rost nicht von ihm abgegangen ist!
+Hol ein Stück nach dem anderen heraus,
+ohne das Los darüber zu werfen.
+<sup>7</sup>Denn das Blut, das sie vergossen hat, ist mitten in ihr.
+Sie hat es auf den nackten Felsen gegossen.
+Sie hat es nicht auf die Erde gegossen,
+um es mit Staub zu bedecken.
+<sup>8</sup>Damit der Zorn heraufkomme, um Vergeltung zu üben,
+habe ich ihr Blut auf den nackten Felsen gelegt,
+damit es nicht bedeckt werde.“
+<sup>9</sup>Darum spricht der Herr, der HERR:
+„Wehe der Blutstadt!
+Auch ich will den Holzstoß groß machen.
+<sup>10</sup>Häufe das Holz auf!
+Mach das Feuer heiß!
+Koch das Fleisch gut!
+Lass die Brühe dick werden,
+und lass die Knochen verbrennen.
+<sup>11</sup>Dann stell ihn leer auf seine Kohlen,
+damit er heiß wird
+und seine Bronze glüht
+und seine Unreinheit in ihm schmilzt
+und sein Rost verzehrt wird.
+<sup>12</sup>Sie hat sich mit Mühe abgearbeitet,
+doch ihr vieler Rost geht nicht von ihr ab,
+auch nicht durch Feuer.
+<sup>13</sup>In deiner Unreinheit ist Schamlosigkeit.
+Weil ich dich reinigen wollte und du nicht rein wurdest,
+wirst du von deiner Unreinheit nicht mehr rein werden,
+bis ich meinen Grimm an dir gestillt habe.
+<sup>14</sup>Ich, der HERR, habe es gesagt.
+Es wird geschehen, und ich werde es tun.
+Ich werde nicht zurückweichen.
+Ich werde nicht schonen.
+Ich werde es mich nicht gereuen lassen.
+Nach deinen Wegen und nach deinen Taten
+wird man dich richten“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Erinnerst du dich an Kapitel 11,3? Da sagten die Mächtigen in Jerusalem stolz: „Die Stadt ist der Topf, und wir sind das Fleisch“, also gut geschützt. Hesekiel nimmt das Bild auf und dreht es um: Ja, Jerusalem ist ein Topf. Aber er steht auf dem Feuer, und das Fleisch wird verkocht.
+> Vers 6: Der Topf ist rostig. Der Rost ist die Schuld der Stadt, die sich nicht abwaschen lässt.
+> Vers 7–8: Nach dem Gesetz musste Blut mit Erde bedeckt werden (3. Mose 17,13). Aber Jerusalem hat das Blut unschuldiger Menschen offen auf den Felsen vergossen. Es schreit zum Himmel wie das Blut Abels (1. Mose 4,10).
+> Vers 13: Gott hat immer wieder versucht, sein Volk zu reinigen, durch Propheten und Warnungen. Aber es wollte nicht.
+
+---
+
+### Hesekiels Frau stirbt (Vers 15–18)
+
+<sup>15</sup>Auch kam das Wort des HERRN zu mir:
+<sup>16</sup>„Menschensohn, siehe, ich nehme dir die Freude deiner Augen
+mit einem Schlag weg.
+Aber du sollst nicht klagen und nicht weinen,
+und deine Tränen sollen nicht fließen.
+<sup>17</sup>Seufze, aber nicht laut.
+Halte keine Totenklage.
+Binde deinen Kopfbund um
+und zieh deine Sandalen an deine Füße.
+Verhülle nicht deinen Bart,
+und iss nicht das Trauerbrot.“
+<sup>18</sup>So redete ich am Morgen zum Volk,
+und am Abend starb meine Frau.
+Und am Morgen tat ich, wie mir befohlen war.
+
+> **Was bedeutet das?**
+> Das ist einer der traurigsten Abschnitte im ganzen Buch. Hesekiels Frau, „die Freude seiner Augen“, stirbt plötzlich. Wir erfahren hier zum ersten und einzigen Mal etwas über sie, und man spürt, wie sehr er sie geliebt hat.
+> Gott verlangt von Hesekiel etwas sehr Schweres: Er soll nicht öffentlich trauern, keine Trauerkleidung tragen, nicht die üblichen Trauerbräuche halten. Er darf nur leise seufzen. Das ist eine Zeichenhandlung für das Volk (siehe Vers 19–24).
+> Man darf diesen Text nicht so verstehen, dass Gott Menschen sterben lässt, um ein Zeichen zu setzen. Und er ist auch keine Regel, dass Gläubige nicht trauern dürften. Im Gegenteil: Die Bibel ist voller Klage und Tränen, und Jesus selbst weinte am Grab seines Freundes (Johannes 11,35). Trauer ist erlaubt und wichtig.
+> Wenn du gerade um einen Menschen trauerst und jemanden zum Reden brauchst: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr).
+
+---
+
+### Ein Zeichen für das Volk (Vers 19–24)
+
+<sup>19</sup>Das Volk fragte mich:
+„Willst du uns nicht sagen, was das für uns bedeutet,
+dass du so handelst?“
+<sup>20</sup>Da sagte ich zu ihnen:
+„Das Wort des HERRN kam zu mir:
+<sup>21</sup>‚Sag zum Haus Israel:
+„So spricht der Herr, der HERR:
+‚Siehe, ich werde mein Heiligtum entweihen,
+den Stolz eurer Macht,
+die Freude eurer Augen
+und das, woran eure Seele hängt.
+Und eure Söhne und eure Töchter, die ihr zurückgelassen habt,
+werden durch das Schwert fallen.
+<sup>22</sup>Ihr werdet tun, wie ich getan habe.
+Ihr werdet euren Bart nicht verhüllen
+und kein Trauerbrot essen.
+<sup>23</sup>Eure Kopfbunde werden auf euren Köpfen sein
+und eure Sandalen an euren Füßen.
+Ihr werdet nicht klagen und nicht weinen,
+sondern ihr werdet in euren Sünden dahinschwinden
+und einer zum anderen stöhnen.
+<sup>24</sup>So wird Hesekiel euch ein Zeichen sein.
+Nach allem, was er getan hat, werdet ihr tun.
+Wenn es kommt,
+dann werdet ihr erkennen, dass ich der Herr, der HERR, bin.‘“‘“
+
+> **Was bedeutet das?**
+> Die Leute fragen: Warum trauerst du nicht? Hesekiel erklärt: So wird es euch gehen. Ihr werdet etwas verlieren, das euch genauso lieb ist: den Tempel, „die Freude eurer Augen“, und eure Kinder in Jerusalem.
+> Der Schmerz wird so groß sein, dass ihr nicht einmal mehr richtig trauern könnt. Ihr werdet erstarrt sein vor Schock.
+> Hesekiels persönliches Leid und das Leid des Volkes werden hier eins. Der Prophet trägt die Not seines Volkes am eigenen Leib.
+
+---
+
+### Der Bote wird kommen (Vers 25–27)
+
+<sup>25</sup>„Du aber, Menschensohn,
+wird es nicht an dem Tag sein,
+an dem ich ihnen ihre Stärke wegnehme,
+die Freude ihrer Pracht,
+die Freude ihrer Augen
+und das, woran ihr Herz hängt,
+ihre Söhne und ihre Töchter,
+<sup>26</sup>dass an jenem Tag einer, der entkommen ist, zu dir kommt,
+um es dich mit deinen Ohren hören zu lassen?
+<sup>27</sup>An jenem Tag wird dein Mund geöffnet werden
+gegenüber dem, der entkommen ist,
+und du wirst reden und nicht mehr stumm sein.
+So wirst du ihnen ein Zeichen sein.
+Dann werden sie erkennen, dass ich der HERR bin.“
+
+> **Was bedeutet das?**
+> Seit seiner Berufung war Hesekiel weitgehend stumm (3,26). Er durfte nur reden, wenn Gott ihm etwas zu sagen gab. Jetzt kündigt Gott an: Wenn ein Flüchtling die Nachricht von der Zerstörung Jerusalems bringt, wird Hesekiels Mund geöffnet. Das geschieht in Kapitel 33,21–22.
+> Hier endet der erste große Teil des Buches (Kapitel 1–24), die Gerichtsworte über Jerusalem. Jetzt folgen Worte über die Nachbarvölker (Kapitel 25–32). Und danach, ab Kapitel 33, beginnt die Botschaft der Hoffnung.
