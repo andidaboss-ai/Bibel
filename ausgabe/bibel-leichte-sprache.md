@@ -104223,3 +104223,481 @@ Dann werden sie erkennen, dass ich der HERR bin.“‘“
 > Vers 35: Das zerstörte Land wird „wie der Garten Eden“. Nach dem Gericht kommt ein neuer Anfang, schöner als zuvor. Es ist, als ob Gott das Paradies neu schafft.
 > Vers 37: Früher hatte Gott gesagt: „Ich lasse mich von euch nicht befragen“ (20,3). Jetzt sagt er: „Ich lasse mich wieder bitten.“ Die Beziehung ist wiederhergestellt. Gebet ist wieder möglich.
 > Vers 38: Bei den großen Festen war Jerusalem voller Menschen und Opfertiere. So voll sollen die leeren Städte wieder werden, voller Leben.
+
+## Hesekiel – Kapitel 37
+#### Die trockenen Knochen werden lebendig
+
+---
+
+### Das Tal voller Knochen (Vers 1–10)
+
+<sup>1</sup>Die Hand des HERRN kam über mich,
+und er führte mich hinaus im Geist des HERRN
+und setzte mich mitten in das Tal nieder.
+Und es war voller Knochen.
+<sup>2</sup>Er ließ mich ringsum an ihnen vorbeigehen.
+Und siehe, es waren sehr viele auf der Fläche des Tals,
+und siehe, sie waren sehr trocken.
+<sup>3</sup>Er sagte zu mir:
+„Menschensohn, können diese Knochen lebendig werden?“
+Ich antwortete:
+„Herr, HERR, du weißt es.“
+<sup>4</sup>Wieder sagte er zu mir:
+„Weissage über diese Knochen und sag ihnen:
+‚Ihr trockenen Knochen, hört das Wort des HERRN!
+<sup>5</sup>So spricht der Herr, der HERR, zu diesen Knochen:
+„Siehe, ich lasse Atem in euch kommen,
+und ihr werdet lebendig.
+<sup>6</sup>Ich werde Sehnen auf euch legen
+und Fleisch auf euch wachsen lassen
+und euch mit Haut überziehen
+und Atem in euch legen,
+und ihr werdet lebendig.
+Dann werdet ihr erkennen, dass ich der HERR bin.“‘“
+<sup>7</sup>Da weissagte ich, wie mir befohlen war.
+Während ich weissagte, gab es ein Geräusch,
+und siehe, ein Beben,
+und die Knochen rückten zusammen,
+Knochen an Knochen.
+<sup>8</sup>Ich sah, und siehe, Sehnen kamen auf sie,
+und Fleisch wuchs,
+und Haut überzog sie von oben.
+Aber es war noch kein Atem in ihnen.
+<sup>9</sup>Da sagte er zu mir:
+„Weissage zum Wind,
+weissage, Menschensohn, und sag zum Wind:
+‚So spricht der Herr, der HERR:
+„Komm von den vier Winden, Atem,
+und hauche diese Erschlagenen an,
+damit sie lebendig werden.“‘“
+<sup>10</sup>Da weissagte ich, wie er mir befohlen hatte,
+und der Atem kam in sie,
+und sie wurden lebendig
+und stellten sich auf ihre Füße,
+ein überaus großes Heer.
+
+> **Was bedeutet das?**
+> Das ist eine der berühmtesten Visionen der Bibel. Hesekiel steht in einem Tal voller Knochen, ganz trocken, also schon lange tot. Ein Bild völliger Hoffnungslosigkeit.
+> Vers 3: Gott fragt: „Können diese Knochen lebendig werden?“ Menschlich gesehen: unmöglich. Hesekiel antwortet klug und demütig: „Du weißt es.“
+> Vers 7–10: Es geschieht in zwei Schritten. Erst kommen die Knochen zusammen, Sehnen, Fleisch und Haut wachsen. Aber sie sind noch tot. Dann kommt der Atem, und sie leben.
+> Ein wichtiges Wortspiel: Das hebräische Wort „ruach“ bedeutet „Atem“, „Wind“ und „Geist“ zugleich. In diesem Kapitel kommt es immer wieder vor. Der Atem, der die Toten lebendig macht, ist Gottes eigener Geist. Das erinnert an die Schöpfung: Gott blies dem ersten Menschen den Lebensatem ein (1. Mose 2,7).
+
+---
+
+### Ich öffne eure Gräber (Vers 11–14)
+
+<sup>11</sup>Da sagte er zu mir:
+„Menschensohn, diese Knochen sind das ganze Haus Israel.
+Siehe, sie sagen:
+‚Unsere Knochen sind vertrocknet,
+und unsere Hoffnung ist verloren.
+Wir sind ganz abgeschnitten.‘
+<sup>12</sup>Darum weissage und sag ihnen:
+‚So spricht der Herr, der HERR:
+„Siehe, ich öffne eure Gräber
+und lasse euch aus euren Gräbern heraufkommen, mein Volk,
+und ich bringe euch in das Land Israel.
+<sup>13</sup>Ihr werdet erkennen, dass ich der HERR bin,
+wenn ich eure Gräber öffne
+und euch aus euren Gräbern heraufkommen lasse, mein Volk.
+<sup>14</sup>Ich werde meinen Geist in euch legen,
+und ihr werdet lebendig werden.
+Dann werde ich euch in euer eigenes Land setzen,
+und ihr werdet erkennen, dass ich, der HERR, es gesagt und getan habe“,
+spricht der HERR.‘“
+
+> **Was bedeutet das?**
+> Hier erklärt Gott die Vision: Die Knochen sind das Volk Israel im Exil. Die Menschen sagen: „Unsere Hoffnung ist verloren, wir sind wie tot.“ Nach der Zerstörung Jerusalems fühlten sie sich wie in einem Massengrab.
+> Gott antwortet: „Ich öffne eure Gräber!“ Gott kann ein totes Volk wieder lebendig machen. Er bringt sie zurück in ihr Land. Nichts ist für Gott hoffnungslos.
+> Im Judentum wird dieser Text am Sabbat während des Pessachfestes gelesen. Juden lesen ihn als Verheißung für die Wiederherstellung Israels und auch als Hinweis auf die Auferstehung der Toten. Viele Menschen haben nach dem Holocaust in diesem Text Trost gefunden.
+> Christen lesen ihn auch als Bild für die Auferstehung und für das Wirken des Heiligen Geistes, der Leben schenkt.
+> Wenn du selbst dich innerlich „vertrocknet“ und hoffnungslos fühlst: Dieser Text sagt, dass Gott auch dort neues Leben schenken kann. Und es ist gut, sich Hilfe zu holen: Telefonseelsorge 0800 111 0 111.
+
+---
+
+### Zwei Hölzer werden eins (Vers 15–28)
+
+<sup>15</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>16</sup>„Du, Menschensohn, nimm dir ein Holz
+und schreib darauf:
+‚Für Juda und für die Kinder Israel, seine Gefährten.‘
+Dann nimm ein anderes Holz
+und schreib darauf:
+‚Für Josef, das Holz Ephraims,
+und für das ganze Haus Israel, seine Gefährten.‘
+<sup>17</sup>Dann füge sie dir zusammen, eines an das andere, zu einem einzigen Holz,
+damit sie eins werden in deiner Hand.
+<sup>18</sup>Wenn die Kinder deines Volkes zu dir sagen:
+‚Willst du uns nicht zeigen, was du damit meinst?‘,
+<sup>19</sup>dann sag ihnen:
+‚So spricht der Herr, der HERR:
+„Siehe, ich nehme das Holz Josefs,
+das in der Hand Ephraims ist,
+und die Stämme Israels, seine Gefährten,
+und ich füge sie zum Holz Judas
+und mache sie zu einem einzigen Holz,
+und sie werden eins sein in meiner Hand.
+<sup>20</sup>Die Hölzer, auf die du schreibst,
+werden vor ihren Augen in deiner Hand sein.“‘
+<sup>21</sup>Sag ihnen:
+‚So spricht der Herr, der HERR:
+„Siehe, ich hole die Kinder Israel aus den Völkern,
+zu denen sie gegangen sind,
+und sammle sie von allen Seiten
+und bringe sie in ihr eigenes Land.
+<sup>22</sup>Ich mache sie zu einem einzigen Volk im Land,
+auf den Bergen Israels.
+Ein einziger König wird König über sie alle sein.
+Sie werden nicht mehr zwei Völker sein.
+Sie werden nie mehr in zwei Königreiche geteilt sein.
+<sup>23</sup>Sie werden sich nicht mehr verunreinigen
+mit ihren Götzen, mit ihren Scheusalen
+und mit allen ihren Übertretungen.
+Sondern ich werde sie retten aus allen ihren Wohnorten,
+in denen sie gesündigt haben,
+und werde sie reinigen.
+So werden sie mein Volk sein,
+und ich werde ihr Gott sein.
+<sup>24</sup>Mein Knecht David wird König über sie sein.
+Sie alle werden einen einzigen Hirten haben.
+Sie werden in meinen Rechtsordnungen gehen
+und meine Satzungen halten und sie tun.
+<sup>25</sup>Sie werden in dem Land wohnen,
+das ich meinem Knecht Jakob gegeben habe,
+in dem eure Väter gewohnt haben.
+Sie werden darin wohnen,
+sie und ihre Kinder und ihre Kindeskinder, für immer.
+Und David, mein Knecht, wird für immer ihr Fürst sein.
+<sup>26</sup>Außerdem werde ich einen Bund des Friedens mit ihnen schließen.
+Es wird ein ewiger Bund mit ihnen sein.
+Ich werde sie einsetzen und mehren
+und mein Heiligtum für immer in ihre Mitte setzen.
+<sup>27</sup>Auch meine Wohnung wird bei ihnen sein.
+Ich werde ihr Gott sein,
+und sie werden mein Volk sein.
+<sup>28</sup>Die Völker werden erkennen, dass ich der HERR bin,
+der Israel heiligt,
+wenn mein Heiligtum für immer in ihrer Mitte ist.“‘“
+
+> **Was bedeutet das?**
+> Nach dem Tod von König Salomo war das Volk in zwei Reiche geteilt: das Nordreich Israel (oft „Ephraim“ oder „Josef“ genannt) und das Südreich Juda (1. Könige 12). Diese Spaltung dauerte Jahrhunderte, mit viel Streit und sogar Kriegen.
+> Hesekiel nimmt zwei Holzstäbe und hält sie so in der Hand, dass sie wie einer aussehen. Gott verspricht: Ich mache aus den getrennten Teilen wieder ein Volk.
+> Vers 24–25: Wieder ist von „meinem Knecht David“ die Rede, dem kommenden König aus der Familie Davids (vgl. 34,23–24).
+> Vers 26–27: Ein ewiger Bund des Friedens, und Gott wohnt mitten unter seinem Volk. Das hebräische Wort für „Wohnung“ meint eigentlich ein „Zelt“, wie das Zelt Gottes in der Wüste. Im Neuen Testament heißt es: „Das Wort wurde Fleisch und wohnte (wörtlich: zeltete) unter uns“ (Johannes 1,14). Und am Ende der Bibel: „Siehe, die Wohnung Gottes bei den Menschen! Er wird bei ihnen wohnen, und sie werden sein Volk sein“ (Offenbarung 21,3).
+> Die Sehnsucht nach Einheit kennen wir auch heute: zwischen Völkern, Kirchen, Familien. Gott kann zusammenfügen, was zerbrochen ist.
+
+## Hesekiel – Kapitel 38
+#### Gog aus dem Land Magog
+
+---
+
+### Gog und seine Heere (Vers 1–9)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht gegen Gog im Land Magog,
+den Fürsten von Rosch, Meschech und Tubal,
+und weissage gegen ihn
+<sup>3</sup>und sag:
+‚So spricht der Herr, der HERR:
+„Siehe, ich bin gegen dich, Gog,
+Fürst von Rosch, Meschech und Tubal.
+<sup>4</sup>Ich werde dich herumdrehen
+und Haken in deine Kiefer legen,
+und ich werde dich herausführen mit deinem ganzen Heer,
+Pferden und Reitern,
+alle in voller Rüstung,
+eine große Schar mit Langschild und Schild,
+alle mit Schwertern in der Hand.
+<sup>5</sup>Persien, Kusch und Put sind mit ihnen,
+alle mit Schild und Helm,
+<sup>6</sup>Gomer und alle seine Scharen,
+das Haus Togarma vom äußersten Norden
+und alle seine Scharen,
+viele Völker mit dir.
+<sup>7</sup>Sei bereit, ja, mach dich bereit,
+du und alle deine Scharen, die sich bei dir versammelt haben,
+und sei ihr Anführer.
+<sup>8</sup>Nach vielen Tagen wirst du aufgeboten werden.
+In späteren Jahren wirst du in das Land kommen,
+das vom Schwert zurückgebracht ist,
+das aus vielen Völkern gesammelt ist,
+auf die Berge Israels,
+die lange Zeit verwüstet waren.
+Aber es ist aus den Völkern herausgeführt,
+und sie alle wohnen sicher.
+<sup>9</sup>Du wirst heraufziehen.
+Du wirst kommen wie ein Unwetter.
+Du wirst wie eine Wolke sein, die das Land bedeckt,
+du und alle deine Scharen
+und viele Völker mit dir.“
+
+> **Was bedeutet das?**
+> Kapitel 38–39 sind ganz anders als der Rest des Buches. Sie beschreiben in gewaltigen, fast unwirklichen Bildern einen letzten großen Angriff auf Israel, nachdem das Volk zurückgekehrt ist und in Frieden lebt.
+> Wer ist „Gog im Land Magog“? Das weiß man nicht sicher. Vielleicht erinnert der Name an einen König Gyges aus Lydien (in der heutigen Türkei). Wahrscheinlicher ist Gog eine symbolische Figur: der Inbegriff aller Feinde Gottes und seines Volkes, die aus dem fernen, unheimlichen Norden kommen.
+> „Rosch“ (Vers 2): Das WEB übersetzt „prince of Rosh“. Das hebräische Wort „rosch“ heißt einfach „Kopf“ oder „Haupt“; viele Übersetzungen schreiben darum „Oberfürst von Meschech und Tubal“. Manche haben „Rosch“ mit „Russland“ gleichgesetzt. Dafür gibt es aber keine sprachliche oder historische Grundlage.
+> Die genannten Völker kommen aus allen Himmelsrichtungen: Meschech, Tubal, Gomer und Togarma aus dem Norden (Kleinasien), Persien aus dem Osten, Kusch (im WEB „Cush“, das Gebiet südlich von Ägypten) und Put (Libyen) aus dem Süden. Das zeigt: Die ganze Welt scheint sich gegen Gottes Volk zu stellen.
+> Vers 4: „Haken in deine Kiefer“ – Gog meint, er handle aus eigenem Willen. Aber eigentlich lenkt Gott ihn wie ein Tier am Haken.
+
+---
+
+### Gogs böser Plan (Vers 10–16)
+
+<sup>10</sup>So spricht der Herr, der HERR:
+„An jenem Tag wird es geschehen,
+dass dir Gedanken in den Sinn kommen,
+und du wirst einen bösen Plan aushecken.
+<sup>11</sup>Du wirst sagen:
+‚Ich will hinaufziehen in das Land der offenen Dörfer.
+Ich will über die herfallen, die ruhig sind,
+die sicher wohnen,
+die alle ohne Mauern wohnen
+und weder Riegel noch Tore haben,
+<sup>12</sup>um Beute zu machen und Raub zu rauben,
+um meine Hand gegen die Trümmerstätten zu wenden, die wieder bewohnt sind,
+und gegen das Volk, das aus den Völkern gesammelt ist,
+das Vieh und Besitz erworben hat
+und in der Mitte der Erde wohnt.‘
+<sup>13</sup>Saba, Dedan und die Händler von Tarsis
+mit allen seinen jungen Löwen werden dich fragen:
+‚Bist du gekommen, um Beute zu machen?
+Hast du deine Schar versammelt, um Raub zu rauben,
+um Silber und Gold wegzutragen,
+um Vieh und Besitz wegzunehmen,
+um große Beute zu machen?‘“
+<sup>14</sup>Darum, Menschensohn, weissage und sag zu Gog:
+‚So spricht der Herr, der HERR:
+„An jenem Tag, wenn mein Volk Israel sicher wohnt,
+wirst du es nicht merken?
+<sup>15</sup>Du wirst von deinem Ort kommen,
+aus dem äußersten Norden,
+du und viele Völker mit dir,
+sie alle reiten auf Pferden,
+eine große Schar und ein mächtiges Heer.
+<sup>16</sup>Du wirst gegen mein Volk Israel heraufziehen
+wie eine Wolke, die das Land bedeckt.
+Es wird in den letzten Tagen geschehen,
+dass ich dich gegen mein Land heranführe,
+damit die Völker mich erkennen,
+wenn ich mich an dir, Gog, vor ihren Augen als heilig erweise.“
+
+> **Was bedeutet das?**
+> Gog plant einen Überfall auf ein friedliches Volk, das ohne Mauern lebt, nur um zu plündern. Das ist reine Gier und Gewalt gegen Wehrlose.
+> Vers 12: „Die Mitte der Erde“ (wörtlich „der Nabel der Erde“) – Jerusalem wurde als Mittelpunkt der Welt gesehen.
+> Vers 13: Die Handelsvölker fragen spöttisch oder neugierig: „Willst du Beute machen?“ Vielleicht wollen sie selbst daran verdienen.
+> Vers 16: „In den letzten Tagen“ – darum haben viele diese Kapitel auf das Ende der Zeit bezogen.
+
+---
+
+### Gott greift ein (Vers 17–23)
+
+<sup>17</sup>So spricht der Herr, der HERR:
+„Bist du der, von dem ich in früheren Tagen geredet habe
+durch meine Knechte, die Propheten Israels,
+die in jenen Tagen jahrelang geweissagt haben,
+dass ich dich gegen sie heranführen würde?
+<sup>18</sup>An jenem Tag, wenn Gog gegen das Land Israel kommt“,
+spricht der Herr, der HERR,
+„wird mein Grimm in meiner Nase aufsteigen.
+<sup>19</sup>Denn in meinem Eifer und im Feuer meines Zorns habe ich geredet.
+Gewiss, an jenem Tag wird ein großes Beben im Land Israel sein,
+<sup>20</sup>sodass vor meinem Angesicht beben werden
+die Fische des Meeres, die Vögel des Himmels,
+die Tiere des Feldes,
+alles Kriechende, das auf der Erde kriecht,
+und alle Menschen auf der Oberfläche der Erde.
+Die Berge werden niedergerissen werden,
+die steilen Hänge werden einstürzen,
+und jede Mauer wird zu Boden fallen.
+<sup>21</sup>Ich werde das Schwert gegen ihn herbeirufen auf allen meinen Bergen“,
+spricht der Herr, der HERR.
+„Jeder wird sein Schwert gegen seinen Bruder richten.
+<sup>22</sup>Ich werde mit ihm ins Gericht gehen
+mit Pest und mit Blut.
+Ich werde auf ihn regnen lassen,
+auf seine Scharen und auf die vielen Völker, die mit ihm sind,
+sintflutartigen Regen und große Hagelsteine,
+Feuer und Schwefel.
+<sup>23</sup>Ich werde mich groß und heilig erweisen
+und mich vor den Augen vieler Völker zu erkennen geben.
+Dann werden sie erkennen, dass ich der HERR bin.“‘
+
+> **Was bedeutet das?**
+> Wenn Gog angreift, kämpft nicht Israel, sondern Gott selbst. Er schickt Erdbeben, Regen, Hagel, Feuer und Schwefel. Und die Feinde bringen sich gegenseitig um (Vers 21).
+> Die Bilder erinnern an die Sintflut, an Sodom und Gomorra (1. Mose 19,24) und an die Plagen in Ägypten. Gott ist mächtiger als alle Heere der Welt.
+> Wie liest man diese Kapitel?
+> – Im Judentum wird der „Krieg von Gog und Magog“ oft mit der Zeit vor dem Kommen des Messias verbunden.
+> – In der Offenbarung tauchen „Gog und Magog“ als Bild für die letzten Feinde Gottes auf (Offenbarung 20,8).
+> – Immer wieder haben Menschen versucht, Gog mit einem bestimmten Land oder Herrscher ihrer eigenen Zeit gleichzusetzen. Diese Spekulationen haben sich immer als falsch erwiesen und haben manchmal Angst und Feindschaft geschürt. Die Bibel selbst nennt kein Datum und kein heutiges Land.
+> – Die eigentliche Botschaft ist ein Trost: Egal wie mächtig die Feinde sind, Gott beschützt sein Volk, und am Ende siegt Gott.
+
+## Hesekiel – Kapitel 39
+#### Gogs Untergang und Gottes Geist
+
+---
+
+### Gog fällt auf den Bergen Israels (Vers 1–8)
+
+<sup>1</sup>„Du, Menschensohn, weissage gegen Gog und sag:
+‚So spricht der Herr, der HERR:
+„Siehe, ich bin gegen dich, Gog,
+Fürst von Rosch, Meschech und Tubal.
+<sup>2</sup>Ich werde dich herumdrehen,
+dich heranführen
+und dich vom äußersten Norden heraufziehen lassen.
+Und ich werde dich auf die Berge Israels bringen.
+<sup>3</sup>Ich werde deinen Bogen aus deiner linken Hand schlagen
+und deine Pfeile aus deiner rechten Hand fallen lassen.
+<sup>4</sup>Auf den Bergen Israels wirst du fallen,
+du und alle deine Scharen und die Völker, die mit dir sind.
+Den Raubvögeln aller Art
+und den Tieren des Feldes gebe ich dich zum Fraß.
+<sup>5</sup>Auf das freie Feld wirst du fallen,
+denn ich habe es gesagt“,
+spricht der Herr, der HERR.
+<sup>6</sup>„Ich werde Feuer senden auf Magog
+und auf die, die sicher auf den Inseln wohnen.
+Dann werden sie erkennen, dass ich der HERR bin.
+<sup>7</sup>Meinen heiligen Namen werde ich bekannt machen
+mitten in meinem Volk Israel.
+Ich werde meinen heiligen Namen nicht mehr entweihen lassen.
+Dann werden die Völker erkennen, dass ich der HERR bin,
+der Heilige in Israel.
+<sup>8</sup>Siehe, es kommt, und es wird geschehen“,
+spricht der Herr, der HERR.
+„Das ist der Tag, von dem ich geredet habe.
+
+> **Was bedeutet das?**
+> Gog wird besiegt, ohne dass Israel kämpfen muss. Gott selbst schlägt ihm die Waffen aus der Hand.
+> Vers 7: Das Ziel von allem: Gottes heiliger Name soll bekannt werden. Alle Völker sollen erkennen, wer Gott ist.
+
+---
+
+### Sieben Jahre lang brennen die Waffen (Vers 9–10)
+
+<sup>9</sup>Die Bewohner der Städte Israels werden hinausgehen
+und Feuer machen mit den Waffen und sie verbrennen,
+die Langschilde und die Schilde,
+die Bogen und die Pfeile,
+die Keulen und die Speere.
+Sie werden sieben Jahre lang Feuer damit machen,
+<sup>10</sup>sodass sie kein Holz vom Feld holen
+und keines in den Wäldern fällen müssen,
+denn sie werden Feuer mit den Waffen machen.
+Sie werden die plündern, die sie geplündert haben,
+und die berauben, die sie beraubt haben“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Ein starkes Bild: Es gibt so viele Waffen, dass man sieben Jahre lang damit heizen kann. Die Waffen werden nicht mehr gebraucht, sie werden verbrannt.
+> Das erinnert an Jesaja 2,4: „Sie werden ihre Schwerter zu Pflugscharen schmieden.“ Und an Psalm 46,10: „Er zerbricht den Bogen, zerschlägt den Speer und verbrennt die Wagen mit Feuer.“
+> Die Hoffnung der Bibel ist eine Welt ohne Waffen und ohne Krieg.
+
+---
+
+### Das Begräbnis im Tal Hamon-Gog (Vers 11–16)
+
+<sup>11</sup>An jenem Tag wird es geschehen,
+dass ich Gog einen Begräbnisplatz in Israel gebe,
+das Tal der Durchziehenden, östlich vom Meer.
+Es wird den Durchziehenden den Weg versperren.
+Dort werden sie Gog und seine ganze Menge begraben,
+und man wird es nennen: ‚Tal Hamon-Gog‘.
+<sup>12</sup>Das Haus Israel wird sie sieben Monate lang begraben,
+um das Land zu reinigen.
+<sup>13</sup>Ja, das ganze Volk des Landes wird sie begraben,
+und es wird ihnen zum Ruhm gereichen
+an dem Tag, an dem ich mich verherrliche“,
+spricht der Herr, der HERR.
+<sup>14</sup>„Sie werden Männer bestimmen, die ständig beschäftigt sind,
+die durch das Land ziehen.
+Die Durchziehenden werden mit denen gehen,
+die die begraben, die auf der Oberfläche des Landes übrig geblieben sind,
+um es zu reinigen.
+Nach Ablauf von sieben Monaten werden sie suchen.
+<sup>15</sup>Die durch das Land suchen, werden hindurchziehen.
+Und wenn einer einen Menschenknochen sieht,
+wird er ein Zeichen daneben aufstellen,
+bis die Totengräber ihn im Tal Hamon-Gog begraben haben.
+<sup>16</sup>Auch eine Stadt wird ‚Hamona‘ heißen.
+So werden sie das Land reinigen.“‘
+
+> **Was bedeutet das?**
+> „Hamon-Gog“ bedeutet „Menge Gogs“. Es gibt so viele Tote, dass man sieben Monate braucht, um sie alle zu begraben.
+> Nach den Reinheitsgeboten machte ein toter Körper das Land unrein (4. Mose 19,11–16). Darum müssen alle Knochen gefunden und begraben werden.
+> Bemerkenswert: Auch die Feinde werden begraben. Sie bekommen ein Grab. Die Würde der Toten wird geachtet, auch die der Feinde.
+> Die Zahl Sieben (sieben Jahre, sieben Monate) steht in der Bibel oft für Vollständigkeit.
+
+---
+
+### Das große Opfermahl (Vers 17–20)
+
+<sup>17</sup>Du, Menschensohn,
+so spricht der Herr, der HERR:
+‚Sag zu den Vögeln aller Art
+und zu allen Tieren des Feldes:
+„Versammelt euch und kommt!
+Sammelt euch von allen Seiten
+zu meinem Opfer, das ich für euch schlachte,
+einem großen Opfer auf den Bergen Israels,
+damit ihr Fleisch esst und Blut trinkt.
+<sup>18</sup>Das Fleisch der Helden sollt ihr essen
+und das Blut der Fürsten der Erde trinken,
+von Widdern, Lämmern und Böcken,
+von Stieren, alle Mastvieh aus Baschan.
+<sup>19</sup>Ihr sollt Fett essen, bis ihr satt seid,
+und Blut trinken, bis ihr betrunken seid,
+von meinem Opfer, das ich für euch geschlachtet habe.
+<sup>20</sup>Ihr sollt satt werden an meinem Tisch
+von Pferden und Wagenkämpfern,
+von Helden und von allen Kriegsleuten“,
+spricht der Herr, der HERR.‘
+
+> **Was bedeutet das?**
+> Ein schauriges Bild: Die Vögel und wilden Tiere werden zu einem „Opfermahl“ eingeladen, und das „Opfer“ sind die gefallenen Krieger. Die „Widder, Lämmer und Stiere“ sind ein Bild für die Anführer und Soldaten.
+> Das Bild ist absichtlich grausam. Es zeigt das völlige Ende der feindlichen Macht. Die Offenbarung nimmt dieses Bild auf (Offenbarung 19,17–18).
+> Solche Bilder beschreiben Gottes Gericht über Gewaltherrscher. Sie sind keine Freude am Tod von Menschen und keine Erlaubnis zu Gewalt.
+
+---
+
+### Gott wird sein Angesicht nicht mehr verbergen (Vers 21–29)
+
+<sup>21</sup>„Ich werde meine Herrlichkeit unter die Völker setzen.
+Dann werden alle Völker mein Gericht sehen, das ich gehalten habe,
+und meine Hand, die ich an sie gelegt habe.
+<sup>22</sup>So wird das Haus Israel erkennen, dass ich der HERR, ihr Gott, bin,
+von jenem Tag an und weiterhin.
+<sup>23</sup>Die Völker werden erkennen,
+dass das Haus Israel wegen seiner Schuld in die Gefangenschaft gegangen ist,
+weil sie mir untreu gewesen sind,
+und ich mein Angesicht vor ihnen verborgen habe.
+So gab ich sie in die Hand ihrer Feinde,
+und sie alle fielen durch das Schwert.
+<sup>24</sup>Nach ihrer Unreinheit und nach ihren Übertretungen
+habe ich mit ihnen gehandelt.
+Ich habe mein Angesicht vor ihnen verborgen.
+<sup>25</sup>Darum spricht der Herr, der HERR:
+‚Jetzt werde ich das Geschick Jakobs wenden
+und mich über das ganze Haus Israel erbarmen.
+Ich werde für meinen heiligen Namen eifern.
+<sup>26</sup>Sie werden ihre Schmach vergessen
+und alle ihre Untreue, mit der sie mir untreu waren,
+wenn sie sicher in ihrem Land wohnen.
+Niemand wird sie aufschrecken,
+<sup>27</sup>wenn ich sie aus den Völkern zurückgebracht
+und sie aus den Ländern ihrer Feinde gesammelt habe
+und mich an ihnen als heilig erwiesen habe
+vor den Augen vieler Völker.
+<sup>28</sup>Sie werden erkennen, dass ich der HERR, ihr Gott, bin,
+darin, dass ich sie unter die Völker in die Gefangenschaft geführt
+und sie wieder in ihr eigenes Land gesammelt habe.
+Dann werde ich keinen von ihnen mehr dort gefangen zurücklassen.
+<sup>29</sup>Ich werde mein Angesicht nicht mehr vor ihnen verbergen,
+denn ich habe meinen Geist über das Haus Israel ausgegossen‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> Am Ende dieses dunklen Abschnitts steht ein wunderschönes Versprechen.
+> Vers 23–24: Die Völker sollen verstehen: Israel ging nicht ins Exil, weil sein Gott schwach war, sondern weil Gott sein Angesicht verborgen hatte, wegen der Untreue des Volkes.
+> Vers 25: „Jetzt werde ich mich erbarmen.“ Gott wendet das Schicksal.
+> Vers 29: „Ich werde mein Angesicht nicht mehr verbergen, denn ich habe meinen Geist ausgegossen.“ Gottes Nähe wird bleiben. Das erinnert an Joel 3,1: „Ich will meinen Geist ausgießen über alles Fleisch.“ Christen sehen das zu Pfingsten erfüllt (Apostelgeschichte 2,17).
+> „Gottes Angesicht“ ist ein Bild für seine Zuwendung und Nähe. Im Aaronitischen Segen heißt es: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).
