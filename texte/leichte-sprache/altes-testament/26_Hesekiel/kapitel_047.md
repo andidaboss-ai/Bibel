@@ -145,6 +145,6 @@ spricht der Herr, der HERR.
 
 > **Was bedeutet das?**
 > Ein revolutionärer Satz für die damalige Zeit! Die Fremden, die dauerhaft unter Israel leben und dort ihre Familien haben, sollen genauso Land bekommen wie die Einheimischen. Sie sollen „wie die Einheimischen“ sein.
-> Im alten Gesetz durften Fremde kein Land besitzen. Hier geht Hesekiel einen großen Schritt weiter: Im neuen Land Gottes gehören die Fremden ganz dazu.
+> Im alten Gesetz war das Erbland an die Stämme Israels gebunden; Fremde hatten in der Regel kein eigenes Erbland. Hier geht Hesekiel einen großen Schritt weiter: Im neuen Land Gottes gehören die Fremden ganz dazu.
 > Das ist eine starke Botschaft für heute: Menschen, die aus anderen Ländern zu uns gekommen sind und hier leben, sollen gleiche Rechte und eine echte Heimat bekommen. Gott schließt niemanden aus (vgl. 3. Mose 19,34: „Der Fremde soll euch sein wie ein Einheimischer, und du sollst ihn lieben wie dich selbst“).
 
