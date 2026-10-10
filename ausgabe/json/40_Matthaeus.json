@@ -1,0 +1,334 @@
+{
+ "nr": 40,
+ "code": "MAT",
+ "kuerzel": "Mt",
+ "name": "Matthäus",
+ "name_englisch": "Matthew",
+ "testament": "neues-testament",
+ "kapitel": 28,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Der Stammbaum und die Geburt Jesu",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Das Neue Testament und das Evangelium nach Matthäus",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Jetzt beginnt der zweite große Teil der Bibel: das Neue Testament. Es hat 27 Bücher und wurde im 1. Jahrhundert nach Christus auf Griechisch geschrieben.\nIm Mittelpunkt steht Jesus aus Nazaret. Er war Jude und lebte etwa von 4 vor Christus bis um das Jahr 30 nach Christus in Galiläa und Judäa, damals ein Teil des Römischen Reiches. Seine Anhänger glauben, dass er der Messias (griechisch „Christus“) ist, der von Gott gesandte Retter, den die Propheten angekündigt hatten.\nDas Neue Testament beginnt mit vier „Evangelien“. Das Wort bedeutet „gute Nachricht“. Jedes Evangelium erzählt das Leben, die Lehre, den Tod und die Auferstehung Jesu, jedes auf seine eigene Weise: Matthäus, Markus, Lukas und Johannes.\nDas Evangelium nach Matthäus wurde wahrscheinlich zwischen 70 und 90 nach Christus geschrieben, vermutlich für Christen jüdischer Herkunft. Nach alter kirchlicher Überlieferung stammt es von Matthäus, einem der zwölf Apostel, der vorher Zöllner war (Matthäus 9,9). Viele heutige Forscher halten den Verfasser für einen unbekannten judenchristlichen Lehrer.\nMatthäus zeigt besonders: Jesus ist der verheißene Messias Israels. Immer wieder zitiert er das Alte Testament und sagt: „Damit erfüllt wurde, was durch den Propheten gesagt ist.“ Berühmt sind die Bergpredigt (Kapitel 5–7) mit dem Vaterunser und der Missionsbefehl am Ende (28,19–20).\nEin wichtiger Hinweis: Matthäus erzählt von heftigen Streitgesprächen zwischen Jesus und anderen jüdischen Gruppen seiner Zeit, besonders den Pharisäern. Das waren Auseinandersetzungen innerhalb des Judentums. Diese Texte wurden später oft missbraucht, um Hass gegen Juden zu schüren. Das ist ein schweres Unrecht. Jesus, Maria, Josef und alle Apostel waren Juden. Judenfeindlichkeit hat keinen Platz im christlichen Glauben.\nDas Evangelium hat 28 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Der Stammbaum Jesu",
+     "vers_von": 1,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Buch des Ursprungs von Jesus Christus,\ndem Sohn Davids, dem Sohn Abrahams.",
+       "englisch_web": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Abraham wurde der Vater Isaaks.\nIsaak wurde der Vater Jakobs.\nJakob wurde der Vater Judas und seiner Brüder.",
+       "englisch_web": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Juda wurde der Vater von Perez und Serach, durch Tamar.\nPerez wurde der Vater Hezrons.\nHezron wurde der Vater Rams.",
+       "englisch_web": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ram wurde der Vater Amminadabs.\nAmminadab wurde der Vater Nachschons.\nNachschon wurde der Vater Salmons.",
+       "englisch_web": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Salmon wurde der Vater des Boas, durch Rahab.\nBoas wurde der Vater Obeds, durch Rut.\nObed wurde der Vater Isais.",
+       "englisch_web": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Isai wurde der Vater des Königs David.\nDer König David wurde der Vater Salomos,\ndurch die Frau, die die Frau Urias gewesen war.",
+       "englisch_web": "Jesse became the father of King David. David the king became the father of Solomon by her who had been Uriah’s wife."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Salomo wurde der Vater Rehabeams.\nRehabeam wurde der Vater Abijas.\nAbija wurde der Vater Asas.",
+       "englisch_web": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Asa wurde der Vater Joschafats.\nJoschafat wurde der Vater Jorams.\nJoram wurde der Vater Usijas.",
+       "englisch_web": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Usija wurde der Vater Jotams.\nJotam wurde der Vater des Ahas.\nAhas wurde der Vater Hiskijas.",
+       "englisch_web": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Hiskija wurde der Vater Manasses.\nManasse wurde der Vater Amons.\nAmon wurde der Vater Josias.",
+       "englisch_web": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Josia wurde der Vater Jojachins und seiner Brüder\nzur Zeit der Verbannung nach Babylon.",
+       "englisch_web": "Josiah became the father of Jechoniah and his brothers at the time of the exile to Babylon."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Nach der Verbannung nach Babylon\nwurde Jojachin der Vater Schealtiëls.\nSchealtiël wurde der Vater Serubbabels.",
+       "englisch_web": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Serubbabel wurde der Vater Abihuds.\nAbihud wurde der Vater Eljakims.\nEljakim wurde der Vater Asors.",
+       "englisch_web": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Asor wurde der Vater Zadoks.\nZadok wurde der Vater Achims.\nAchim wurde der Vater Eliuds.",
+       "englisch_web": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Eliud wurde der Vater Eleasars.\nEleasar wurde der Vater Mattans.\nMattan wurde der Vater Jakobs.",
+       "englisch_web": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Jakob wurde der Vater Josefs,\ndes Mannes Marias,\nvon der Jesus geboren wurde,\nder Christus genannt wird.",
+       "englisch_web": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "So sind es von Abraham bis David insgesamt vierzehn Generationen,\nvon David bis zur Verbannung nach Babylon vierzehn Generationen\nund von der Verbannung nach Babylon bis zum Christus vierzehn Generationen.",
+       "englisch_web": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations."
+      }
+     ],
+     "erklaerung": "Das Neue Testament beginnt mit einer langen Namensliste. Für uns klingt das vielleicht langweilig. Aber für die ersten Leser war das sehr wichtig: Sie zeigt, dass Jesus fest in der Geschichte Israels verwurzelt ist.\nVers 1: Jesus ist „Sohn Davids“, also aus der Königsfamilie, wie es für den Messias verheißen war (2. Samuel 7). Und er ist „Sohn Abrahams“, also Erbe der Verheißung, dass durch Abraham alle Völker gesegnet werden (1. Mose 12,3).\n„Christus“ ist kein Nachname, sondern ein Titel. Es ist das griechische Wort für „Messias“, das heißt „der Gesalbte“.\nDas Besondere: In diesem Stammbaum werden neben den Männern auch vier Frauen genannt, was damals ungewöhnlich war:\nTamar (Vers 3), die sich gegen ein Unrecht ihres Schwiegervaters wehrte (1. Mose 38).\nRahab (Vers 5), eine Frau aus Jericho, also keine Israelitin (Josua 2).\nRut (Vers 5), eine Moabiterin, also auch eine Ausländerin (Buch Rut).\n„Die Frau Urias“ (Vers 6), Batseba, der König David großes Unrecht angetan hatte (2. Samuel 11).\nAlle vier Frauen haben ungewöhnliche Geschichten, und mindestens zwei kamen aus anderen Völkern. Matthäus zeigt damit: In Jesu Familie gehören Fremde und Menschen mit schweren Lebensgeschichten dazu. Gott schreibt seine Geschichte auch mit ihnen.\nVers 16: Auffällig: Bei allen anderen heißt es „wurde der Vater von“. Bei Josef heißt es nur, er war „der Mann Marias, von der Jesus geboren wurde“. Matthäus bereitet damit vor, was im nächsten Abschnitt kommt.\nVers 17: Dreimal vierzehn Generationen. Das ist eine bewusst gestaltete Ordnung, in der einige Namen ausgelassen sind. Vielleicht spielt die Zahl 14 auf David an: Die hebräischen Buchstaben von „David“ haben zusammen den Zahlenwert 14.\nDas Lukasevangelium hat einen anderen Stammbaum Jesu (Lukas 3,23–38). Die Unterschiede werden verschieden erklärt, zum Beispiel, dass Lukas die Linie über Maria aufzeigt."
+    },
+    {
+     "ueberschrift": "Die Geburt Jesu",
+     "vers_von": 18,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Mit der Geburt Jesu Christi war es so:\nSeine Mutter Maria war mit Josef verlobt.\nBevor sie zusammenkamen,\nstellte sich heraus, dass sie schwanger war vom Heiligen Geist.",
+       "englisch_web": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Josef, ihr Mann, war gerecht\nund wollte sie nicht öffentlich bloßstellen.\nDarum hatte er vor, sie heimlich zu entlassen.",
+       "englisch_web": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Während er das überlegte,\nsiehe, da erschien ihm ein Engel des Herrn im Traum und sagte:\n„Josef, Sohn Davids, fürchte dich nicht,\nMaria als deine Frau zu dir zu nehmen.\nDenn das Kind, das sie empfangen hat, ist vom Heiligen Geist.",
+       "englisch_web": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie wird einen Sohn gebären.\nDu sollst ihm den Namen Jesus geben,\ndenn er wird sein Volk retten von ihren Sünden.“",
+       "englisch_web": "She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Das alles ist geschehen,\ndamit erfüllt würde, was der Herr durch den Propheten gesagt hat:",
+       "englisch_web": "Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "„Siehe, die Jungfrau wird schwanger sein\nund einen Sohn gebären,\nund man wird ihm den Namen Immanuel geben“,\ndas heißt übersetzt: „Gott mit uns“.",
+       "englisch_web": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel,” which is, being interpreted, “God with us.”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Als Josef vom Schlaf aufstand,\ntat er, wie der Engel des Herrn ihm befohlen hatte,\nund nahm seine Frau zu sich.",
+       "englisch_web": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Und er hatte keinen Verkehr mit ihr,\nbis sie ihren erstgeborenen Sohn geboren hatte.\nUnd er gab ihm den Namen Jesus.",
+       "englisch_web": "and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus."
+      }
+     ],
+     "erklaerung": "Vers 18: Eine Verlobung war damals schon fast wie eine Ehe. Sie dauerte oft ein Jahr, und dann zog die Frau zu ihrem Mann. Maria wird schwanger, bevor sie mit Josef zusammenlebt. Der Glaube der Kirche sagt: Das Kind ist durch das Wirken des Heiligen Geistes entstanden, ohne einen menschlichen Vater.\nVers 19: Für Josef war das ein Schock. Er musste annehmen, dass Maria ihm untreu war. Nach dem Gesetz hätte er sie öffentlich anklagen können. Aber er war „gerecht“, und das heißt hier auch barmherzig: Er wollte sie nicht bloßstellen und still die Verlobung lösen.\nVers 20–21: Im Traum erklärt ihm ein Engel, was geschehen ist. „Jesus“ ist die griechische Form des hebräischen Namens „Jeschua“ (Josua). Er bedeutet: „Der HERR rettet.“ Der Name ist Programm: Er wird sein Volk von den Sünden retten.\nVers 22–23: Matthäus zitiert Jesaja 7,14. Im hebräischen Text steht dort das Wort „alma“, das „junge Frau“ bedeutet. Die alte griechische Übersetzung, die Matthäus benutzt, sagt „parthenos“, „Jungfrau“. Christen sehen darin einen Hinweis auf die Geburt Jesu; Jesaja hatte ursprünglich wohl auch an ein Kind seiner eigenen Zeit gedacht.\n„Immanuel“ heißt „Gott mit uns“. Das ist ein Grundgedanke des ganzen Matthäusevangeliums. Am Ende sagt Jesus: „Ich bin bei euch alle Tage bis an das Ende der Welt“ (28,20).\nVers 24–25: Josef vertraut Gott, auch wenn er nicht alles versteht. Er nimmt Maria zu sich und nimmt Jesus als seinen Sohn an. Er gibt ihm den Namen, und damit gehört Jesus rechtlich zur Familie Davids.\n„Erstgeborener Sohn“: Ob Maria später noch weitere Kinder hatte, wird unter Christen unterschiedlich gesehen. Die Evangelien erwähnen „Brüder und Schwestern Jesu“ (13,55–56). Evangelische Christen verstehen sie meist als leibliche Geschwister, katholische und orthodoxe Christen als nahe Verwandte, zum Beispiel Cousins."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Die Weisen aus dem Osten",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Weisen kommen nach Jerusalem",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Als Jesus in Bethlehem in Judäa geboren war,\nin den Tagen des Königs Herodes,\nsiehe, da kamen Weise aus dem Osten nach Jerusalem",
+       "englisch_web": "Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men from the east came to Jerusalem, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "und sagten:\n„Wo ist der neugeborene König der Juden?\nDenn wir haben seinen Stern im Osten gesehen\nund sind gekommen, um ihn anzubeten.“",
+       "englisch_web": "“Where is he who is born King of the Jews? For we saw his star in the east, and have come to worship him.”"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Als der König Herodes das hörte,\nerschrak er und ganz Jerusalem mit ihm.",
+       "englisch_web": "When King Herod heard it, he was troubled, and all Jerusalem with him."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er versammelte alle Hohenpriester und Schriftgelehrten des Volkes\nund fragte sie, wo der Christus geboren werden sollte.",
+       "englisch_web": "Gathering together all the chief priests and scribes of the people, he asked them where the Christ would be born."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Sie sagten zu ihm:\n„In Bethlehem in Judäa,\ndenn so ist es durch den Propheten geschrieben:",
+       "englisch_web": "They said to him, “In Bethlehem of Judea, for this is written through the prophet,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "‚Und du, Bethlehem, Land Juda,\nbist keineswegs die geringste unter den Fürstenstädten Judas.\nDenn aus dir wird ein Herrscher hervorgehen,\nder mein Volk Israel weiden wird.‘“",
+       "englisch_web": "‘You Bethlehem, land of Judah, are in no way least among the princes of Judah; for out of you shall come a governor who shall shepherd my people, Israel.’”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Da rief Herodes die Weisen heimlich zu sich\nund erfuhr von ihnen genau, wann der Stern erschienen war.",
+       "englisch_web": "Then Herod secretly called the wise men, and learned from them exactly what time the star appeared."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er schickte sie nach Bethlehem und sagte:\n„Geht hin und forscht sorgfältig nach dem Kind.\nWenn ihr es gefunden habt, gebt mir Nachricht,\ndamit auch ich komme und es anbete.“",
+       "englisch_web": "He sent them to Bethlehem, and said, “Go and search diligently for the young child. When you have found him, bring me word, so that I also may come and worship him.”"
+      }
+     ],
+     "erklaerung": "Vers 1: Herodes der Große war König über Judäa von Roms Gnaden. Er starb im Jahr 4 vor Christus. Jesus wurde also etwas vor dem Jahr „0“ geboren. (Unsere Zeitrechnung wurde erst im 6. Jahrhundert festgelegt, und dabei hat man sich um einige Jahre verrechnet.)\nDie „Weisen“ (griechisch „Magoi“) waren wahrscheinlich Sterndeuter und Gelehrte aus Persien oder Babylonien. Die Bibel sagt nicht, dass es drei waren oder dass sie Könige waren. Das hat die spätere Tradition aus den drei Geschenken geschlossen.\nWichtig: Die ersten, die Jesus anbeten, sind Menschen aus fremden Völkern. Das passt zu den Frauen aus fremden Völkern im Stammbaum (Kapitel 1). Jesus ist für alle Völker gekommen.\nVers 2: Was der „Stern“ genau war, wissen wir nicht. Manche denken an eine besondere Planetenkonstellation (Jupiter und Saturn im Jahr 7 vor Christus), an einen Kometen oder an ein Wunderzeichen.\nVers 3: Herodes erschrickt. Er war bekannt dafür, dass er aus Angst um seine Macht sogar Mitglieder seiner eigenen Familie töten ließ. Ein neuer „König der Juden“ war für ihn eine Bedrohung.\nVers 5–6: Die Schriftgelehrten kennen die Antwort aus dem Propheten Micha (Micha 5,2; in deutschen Bibeln 5,1). Sie wissen, wo der Messias geboren werden soll, aber sie machen sich nicht selbst auf den Weg.\nVers 8: Herodes lügt. Er will das Kind nicht anbeten, sondern töten."
+    },
+    {
+     "ueberschrift": "Die Weisen finden Jesus",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Nachdem sie den König gehört hatten, gingen sie hin.\nUnd siehe, der Stern, den sie im Osten gesehen hatten,\nging vor ihnen her,\nbis er kam und über dem Ort stehen blieb, wo das Kind war.",
+       "englisch_web": "They, having heard the king, went their way; and behold, the star, which they saw in the east, went before them until it came and stood over where the young child was."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Als sie den Stern sahen,\nfreuten sie sich mit sehr großer Freude.",
+       "englisch_web": "When they saw the star, they rejoiced with exceedingly great joy."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie gingen in das Haus\nund sahen das Kind mit Maria, seiner Mutter.\nSie fielen nieder und beteten es an.\nSie öffneten ihre Schätze\nund brachten ihm Geschenke dar:\nGold, Weihrauch und Myrrhe.",
+       "englisch_web": "They came into the house and saw the young child with Mary, his mother, and they fell down and worshiped him. Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Im Traum wurden sie angewiesen,\nnicht zu Herodes zurückzukehren.\nDarum zogen sie auf einem anderen Weg in ihr Land zurück.",
+       "englisch_web": "Being warned in a dream not to return to Herod, they went back to their own country another way."
+      }
+     ],
+     "erklaerung": "Vers 10: Die Freude der Weisen ist riesig, „sehr große Freude“.\nVers 11: Auffällig: Sie kommen in ein „Haus“, nicht in einen Stall. Die Weisen kamen wahrscheinlich einige Zeit nach der Geburt, vielleicht Monate später (vgl. Vers 16: „zwei Jahre und darunter“). Die Krippe erwähnt nur Lukas (Lukas 2,7).\nDie drei Geschenke wurden schon früh so gedeutet:\nGold für einen König.\nWeihrauch für Gott, denn Weihrauch wurde im Gottesdienst verbrannt.\nMyrrhe, ein kostbares Harz, das man auch für die Salbung von Toten benutzte, als Hinweis auf Jesu Leiden und Tod.\nDaran erinnern Christen am 6. Januar (Dreikönigstag oder Epiphanias). In Deutschland ziehen an diesem Tag Sternsinger von Haus zu Haus und sammeln Spenden für Kinder in Not.\nVers 12: Gott schützt das Kind und warnt die Weisen."
+    },
+    {
+     "ueberschrift": "Flucht nach Ägypten",
+     "vers_von": 13,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Als sie weggezogen waren,\nsiehe, da erschien ein Engel des Herrn dem Josef im Traum und sagte:\n„Steh auf, nimm das Kind und seine Mutter\nund flieh nach Ägypten.\nBleib dort, bis ich es dir sage.\nDenn Herodes wird das Kind suchen, um es umzubringen.“",
+       "englisch_web": "Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Arise and take the young child and his mother, and flee into Egypt, and stay there until I tell you, for Herod will seek the young child to destroy him.”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Da stand er auf,\nnahm das Kind und seine Mutter in der Nacht\nund zog nach Ägypten.",
+       "englisch_web": "He arose and took the young child and his mother by night and departed into Egypt,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Dort blieb er bis zum Tod des Herodes,\ndamit erfüllt würde, was der Herr durch den Propheten gesagt hat:\n„Aus Ägypten habe ich meinen Sohn gerufen.“",
+       "englisch_web": "and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called my son.”"
+      }
+     ],
+     "erklaerung": "Jesus wird als Baby zum Flüchtling. Seine Familie muss mitten in der Nacht vor einem gewalttätigen Herrscher fliehen und in einem fremden Land Schutz suchen. Ägypten war damals für Juden ein häufiger Zufluchtsort; in der Stadt Alexandria lebte eine große jüdische Gemeinde.\nFür heute: Viele Menschen auf der Welt müssen wie Jesus und seine Familie vor Gewalt und Krieg fliehen. Jesus kennt ihr Schicksal.\nVers 15: Matthäus zitiert Hosea 11,1. Dort ist mit „mein Sohn“ das Volk Israel gemeint, das Gott aus Ägypten befreit hat. Matthäus zeigt: Jesus erlebt die Geschichte Israels noch einmal. Wie Israel kommt er aus Ägypten.\nJosef gehorcht Gott sofort, „in der Nacht“. Er schützt seine Familie."
+    },
+    {
+     "ueberschrift": "Der Kindermord in Bethlehem",
+     "vers_von": 16,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Als Herodes sah, dass er von den Weisen getäuscht worden war,\nwurde er sehr zornig.\nEr schickte Soldaten aus und ließ alle Jungen töten,\ndie in Bethlehem und in der ganzen Umgebung waren,\nvon zwei Jahren und darunter,\nnach der Zeit, die er von den Weisen genau erfahren hatte.",
+       "englisch_web": "Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and sent out and killed all the male children who were in Bethlehem and in all the surrounding countryside, from two years old and under, according to the exact time which he had learned from the wise men."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Da wurde erfüllt,\nwas durch den Propheten Jeremia gesagt ist:",
+       "englisch_web": "Then that which was spoken by Jeremiah the prophet was fulfilled, saying,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "„Eine Stimme wurde in Rama gehört,\nKlagen, Weinen und großes Trauern.\nRahel weint um ihre Kinder\nund will sich nicht trösten lassen,\ndenn sie sind nicht mehr.“",
+       "englisch_web": "“A voice was heard in Ramah, lamentation, weeping and great mourning, Rachel weeping for her children; she wouldn’t be comforted, because they are no more.”"
+      }
+     ],
+     "erklaerung": "Ein schreckliches Verbrechen: Herodes lässt alle kleinen Jungen in Bethlehem töten. Bethlehem war ein kleiner Ort; Forscher schätzen, dass es vielleicht 10 bis 30 Kinder waren. Andere Quellen berichten nicht davon, aber es passt zu dem, was wir über die Grausamkeit von Herodes wissen.\nDaran erinnern Kirchen am 28. Dezember (Tag der Unschuldigen Kinder).\nVers 18: Matthäus zitiert Jeremia 31,15. Rahel war die Lieblingsfrau Jakobs und die „Mutter“ des Volkes. Ihr Grab lag nach der Überlieferung in der Nähe von Bethlehem. Sie weint um ihre Kinder. Die Bibel verschweigt das Leid nicht. Sie lässt den Schmerz und die Klage stehen.\nFür heute: Bis heute leiden Kinder unter Gewalt, Krieg und Machtmissbrauch. Gott steht auf ihrer Seite. Wenn du als Kind oder Jugendlicher Gewalt erlebst: Die Nummer gegen Kummer ist erreichbar unter 116 111. Im Notfall: 110."
+    },
+    {
+     "ueberschrift": "Rückkehr nach Nazaret",
+     "vers_von": 19,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Als Herodes gestorben war,\nsiehe, da erschien ein Engel des Herrn dem Josef in Ägypten im Traum",
+       "englisch_web": "But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying,"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "und sagte:\n„Steh auf, nimm das Kind und seine Mutter\nund zieh in das Land Israel.\nDenn die dem Kind nach dem Leben trachteten, sind tot.“",
+       "englisch_web": "“Arise and take the young child and his mother, and go into the land of Israel, for those who sought the young child’s life are dead.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Da stand er auf,\nnahm das Kind und seine Mutter\nund kam in das Land Israel.",
+       "englisch_web": "He arose and took the young child and his mother, and came into the land of Israel."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Als er aber hörte,\ndass Archelaus anstelle seines Vaters Herodes über Judäa herrschte,\nfürchtete er sich, dorthin zu gehen.\nUnd im Traum angewiesen,\nzog er sich in das Gebiet von Galiläa zurück",
+       "englisch_web": "But when he heard that Archelaus was reigning over Judea in the place of his father, Herod, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galilee,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "und kam und wohnte in einer Stadt, die Nazaret heißt,\ndamit erfüllt würde, was durch die Propheten gesagt ist:\nEr wird Nazoräer genannt werden.",
+       "englisch_web": "and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets that he will be called a Nazarene."
+      }
+     ],
+     "erklaerung": "Vers 19–21: Nach dem Tod von Herodes kann die Familie zurückkehren.\nVers 22: Archelaus, ein Sohn des Herodes, war genauso grausam wie sein Vater. Die Römer setzten ihn nach etwa zehn Jahren ab. Darum zieht Josef nach Galiläa, in den Norden, wo ein anderer Sohn des Herodes herrschte.\nVers 23: Nazaret war ein kleines, unbedeutendes Dorf. Im Alten Testament wird es nicht erwähnt. „Er wird Nazoräer genannt werden“ steht so wörtlich nirgends in den Propheten. Matthäus sagt auch „durch die Propheten“ (Mehrzahl). Vielleicht denkt er an ein Wortspiel mit dem hebräischen Wort „nezer“, das „Spross“ bedeutet (Jesaja 11,1): Jesus ist der Spross aus der Wurzel Isais. Andere denken an die „Nasiräer“, Menschen, die Gott besonders geweiht waren (Richter 13,5).\nJesus wächst also in einem kleinen Dorf auf, fern von der Hauptstadt. Er wird „Jesus von Nazaret“ genannt werden."
+    }
+   ]
+  }
+ ]
+}
