@@ -167,7 +167,7 @@ Darum heißt sie ‚Bama‘ bis zu diesem Tag.“‘
 
 > **Was bedeutet das?**
 > Auch im verheißenen Land ging es weiter: Auf jedem Hügel und unter jedem Baum opferten sie fremden Göttern.
-> Vers 29: „Bama“ ist das hebräische Wort für „Anhöhe“ oder „Höhenheiligtum“. Hier steht ein Wortspiel: „ba“ heißt „hingehen“ und „ma“ heißt „was“. Also etwa: „Was ist das, wo ihr hingeht?“ Gott spottet über diese Kultstätten.
+> Vers 29: „Bama“ ist das hebräische Wort für „Anhöhe“ oder „Höhenheiligtum“. Wahrscheinlich steht hier ein Wortspiel: Das Wort klingt ähnlich wie „ba“ (kommen, hingehen) und „ma“ (was). Also etwa: „Was ist das, wo ihr hingeht?“ Gott spottet über diese Kultstätten.
 
 ---
 
