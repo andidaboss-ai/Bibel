@@ -98372,3 +98372,321 @@ und mein Herz ist krank.“
 > Vers 20: „Draußen raubt das Schwert die Kinder, drinnen ist es wie der Tod.“ Krieg draußen, Hunger und Krankheit drinnen. Es gibt keinen sicheren Ort mehr.
 > Vers 21–22: Die Stadt bittet Gott, auch die Feinde zur Rechenschaft zu ziehen, die sich über ihr Unglück freuen. Sie überlässt das Urteil Gott.
 > Dieses Lied zeigt: Es ist erlaubt, vor Gott zu klagen und den eigenen Schmerz laut auszusprechen. Wer trauert oder verzweifelt ist, soll nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
+
+## Klagelieder – Kapitel 2
+#### Gott ist wie ein Feind geworden
+
+---
+
+### Der Zorn des Herrn (Vers 1–10)
+
+<sup>1</sup>Wie hat der Herr in seinem Zorn
+die Tochter Zion mit einer Wolke bedeckt!
+Er hat die Pracht Israels vom Himmel auf die Erde geworfen
+und hat am Tag seines Zorns nicht an den Schemel seiner Füße gedacht.
+<sup>2</sup>Der Herr hat alle Wohnungen Jakobs verschlungen, ohne Mitleid.
+Er hat in seinem Grimm die Festungen der Tochter Juda niedergerissen.
+Er hat sie zu Boden gestürzt.
+Er hat das Königreich und seine Fürsten entweiht.
+<sup>3</sup>Er hat in glühendem Zorn jedes Horn Israels abgehauen.
+Er hat seine rechte Hand vor dem Feind zurückgezogen.
+Er hat in Jakob gebrannt wie ein flammendes Feuer,
+das ringsum alles verzehrt.
+<sup>4</sup>Er hat seinen Bogen gespannt wie ein Feind.
+Er hat sich mit seiner rechten Hand hingestellt wie ein Gegner.
+Er hat alles getötet, was dem Auge lieb war.
+Im Zelt der Tochter Zion hat er seinen Grimm ausgegossen wie Feuer.
+<sup>5</sup>Der Herr ist wie ein Feind geworden.
+Er hat Israel verschlungen.
+Er hat alle ihre Paläste verschlungen.
+Er hat seine Festungen zerstört.
+Er hat in der Tochter Juda Trauer und Klage vermehrt.
+<sup>6</sup>Er hat seine Hütte gewaltsam weggerissen, als wäre sie ein Garten.
+Er hat seinen Versammlungsort zerstört.
+Der HERR hat in Zion Fest und Sabbat vergessen lassen.
+Im Grimm seines Zorns hat er König und Priester verworfen.
+<sup>7</sup>Der Herr hat seinen Altar verstoßen.
+Er hat sein Heiligtum verabscheut.
+Er hat die Mauern ihrer Paläste in die Hand des Feindes gegeben.
+Sie haben im Haus des HERRN Lärm gemacht
+wie am Tag eines Festes.
+<sup>8</sup>Der HERR hat beschlossen, die Mauer der Tochter Zion zu zerstören.
+Er hat die Messschnur ausgespannt.
+Er hat seine Hand vom Zerstören nicht zurückgezogen.
+Er hat Bollwerk und Mauer trauern lassen.
+Sie verschmachten zusammen.
+<sup>9</sup>Ihre Tore sind in die Erde gesunken.
+Er hat ihre Riegel zerstört und zerbrochen.
+Ihr König und ihre Fürsten sind unter den Nationen, wo es keine Weisung gibt.
+Ja, ihre Propheten finden keine Vision vom HERRN.
+<sup>10</sup>Die Ältesten der Tochter Zion sitzen auf der Erde.
+Sie schweigen.
+Sie haben Staub auf ihre Köpfe geworfen.
+Sie haben sich in Sacktuch gekleidet.
+Die jungen Frauen Jerusalems senken ihre Köpfe zur Erde.
+
+> **Was bedeutet das?**
+> Dieses zweite Lied spricht noch härter: Gott selbst ist „wie ein Feind geworden“ (Vers 5). Der Dichter wagt es, das auszusprechen: Es fühlt sich an, als hätte Gott selbst Jerusalem zerstört.
+> Vers 1: Der „Schemel seiner Füße“ ist der Tempel oder die Bundeslade. Selbst daran hat Gott nicht gedacht.
+> Vers 6–7: Der Tempel ist zerstört, Feste und Sabbat werden nicht mehr gefeiert. Feinde machen im Tempel Lärm wie bei einem Fest.
+> Vers 9: Es gibt keine Weisung mehr und keine Vision der Propheten. Gott scheint zu schweigen.
+> Vers 10: Die Ältesten sitzen stumm auf der Erde. Manchmal ist Schweigen die einzige Antwort auf großes Leid (vgl. Hiob 2,13).
+> Diese Worte sind ehrlich und erschütternd. Die Bibel erlaubt es, so von Gott zu reden, wenn man Schreckliches erlebt hat. Gott hält auch solche Klage aus.
+
+---
+
+### Die Kinder verschmachten (Vers 11–17)
+
+<sup>11</sup>Meine Augen sind erschöpft vom Weinen.
+Mein Inneres ist aufgewühlt.
+Meine Leber ist auf die Erde ausgeschüttet
+wegen des Zusammenbruchs der Tochter meines Volkes,
+weil Kinder und Säuglinge auf den Straßen der Stadt verschmachten.
+<sup>12</sup>Sie fragen ihre Mütter:
+„Wo ist Brot und Wein?“,
+wenn sie verschmachten wie Verwundete auf den Straßen der Stadt,
+wenn ihr Leben im Schoß ihrer Mütter verlischt.
+<sup>13</sup>Was soll ich dir bezeugen?
+Womit soll ich dich vergleichen, Tochter Jerusalem?
+Was soll ich dir gleichstellen, um dich zu trösten,
+Jungfrau, Tochter Zion?
+Denn dein Bruch ist so groß wie das Meer.
+Wer kann dich heilen?
+<sup>14</sup>Deine Propheten haben dir falsche und törichte Visionen gesehen.
+Sie haben deine Schuld nicht aufgedeckt,
+um dein Geschick zu wenden,
+sondern sie haben dir falsche Aussprüche gesehen,
+die dich in die Verbannung führten.
+<sup>15</sup>Alle, die vorübergehen, klatschen über dich in die Hände.
+Sie zischen und schütteln den Kopf über die Tochter Jerusalem und sagen:
+„Ist das die Stadt, von der man sagte:
+‚Die Vollkommenheit der Schönheit, die Freude der ganzen Erde‘?“
+<sup>16</sup>Alle deine Feinde reißen ihren Mund gegen dich auf.
+Sie zischen und knirschen mit den Zähnen.
+Sie sagen: „Wir haben sie verschlungen.
+Gewiss, das ist der Tag, auf den wir gewartet haben.
+Wir haben ihn erlebt. Wir haben ihn gesehen.“
+<sup>17</sup>Der HERR hat getan, was er geplant hat.
+Er hat sein Wort erfüllt, das er seit alten Tagen geboten hat.
+Er hat niedergerissen und kein Mitleid gehabt.
+Er hat den Feind über dich jubeln lassen.
+Er hat das Horn deiner Gegner erhöht.
+
+> **Was bedeutet das?**
+> Vers 11–12: Das Schlimmste für den Dichter ist das Leiden der Kinder. Sie fragen ihre Mütter nach Brot und sterben in ihren Armen. Ein herzzerreißendes Bild, das leider in jedem Krieg und jeder Hungersnot bis heute Wirklichkeit ist.
+> Vers 13: „Dein Bruch ist so groß wie das Meer. Wer kann dich heilen?“ Es gibt keine Worte, um so großes Leid zu trösten.
+> Vers 14: Die falschen Propheten haben die Schuld nicht aufgedeckt. Wer die Wahrheit verschweigt, hilft nicht, sondern schadet.
+> Vers 15–16: Die Feinde spotten über die einst so schöne Stadt.
+> Vers 17: Der Dichter erkennt: Gott hat getan, was er durch die Propheten angekündigt hatte.
+
+---
+
+### Schütte dein Herz aus wie Wasser (Vers 18–22)
+
+<sup>18</sup>Ihr Herz schrie zum Herrn.
+Du Mauer der Tochter Zion,
+lass Tränen fließen wie einen Bach, Tag und Nacht!
+Gönne dir keine Ruhe!
+Dein Auge soll nicht still sein.
+<sup>19</sup>Steh auf, schrei in der Nacht,
+beim Beginn der Nachtwachen!
+Schütte dein Herz aus wie Wasser vor dem Angesicht des Herrn!
+Erhebe deine Hände zu ihm
+für das Leben deiner kleinen Kinder,
+die vor Hunger verschmachten an allen Straßenecken.
+<sup>20</sup>„Sieh, HERR, und schau,
+wem du das angetan hast!
+Sollen Frauen ihre eigene Frucht essen,
+die Kinder, die sie auf Händen getragen und auf den Knien geschaukelt haben?
+Sollen Priester und Prophet im Heiligtum des Herrn getötet werden?
+<sup>21</sup>Kind und Greis liegen auf der Erde in den Straßen.
+Meine jungen Frauen und meine jungen Männer sind durch das Schwert gefallen.
+Du hast sie getötet am Tag deines Zorns.
+Du hast geschlachtet und kein Mitleid gehabt.
+<sup>22</sup>Du hast wie zu einem Festtag
+meine Schrecken von allen Seiten herbeigerufen.
+Am Tag des Zorns des HERRN ist niemand entkommen oder übrig geblieben.
+Die ich gepflegt und großgezogen habe,
+hat mein Feind vernichtet.“
+
+> **Was bedeutet das?**
+> Vers 19 ist ein berühmter Vers: „Schütte dein Herz aus wie Wasser vor dem Angesicht des Herrn!“ Im Gebet darf man alles vor Gott bringen: Schmerz, Angst, Wut und Verzweiflung. Besonders für die Kinder soll man beten.
+> Vers 20: Eine furchtbare Frage an Gott: Sieh doch, was geschieht! In der Hungersnot der Belagerung essen Mütter sogar ihre Kinder. Die Bibel verschweigt dieses Grauen nicht. Es ist eine Anklage gegen den Krieg und seine Schrecken. Niemals darf Kindern Gewalt angetan werden.
+> Vers 21–22: Das Lied endet ohne Trost. Manchmal gibt es in der Trauer keinen schnellen Trost. Die Bibel lässt das stehen.
+> Wer so tiefen Schmerz erlebt oder unter Erinnerungen an Gewalt leidet, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111. Kinder und Jugendliche: Nummer gegen Kummer 116 111.
+
+## Klagelieder – Kapitel 3
+#### Seine Barmherzigkeit ist jeden Morgen neu
+
+---
+
+### Ich bin der Mann, der Elend gesehen hat (Vers 1–20)
+
+<sup>1</sup>Ich bin der Mann, der Elend gesehen hat
+durch die Rute seines Grimms.
+<sup>2</sup>Er hat mich geführt und in Finsternis gehen lassen
+und nicht im Licht.
+<sup>3</sup>Gewiss, er wendet seine Hand gegen mich,
+immer wieder, den ganzen Tag.
+<sup>4</sup>Er hat mein Fleisch und meine Haut alt gemacht.
+Er hat meine Knochen zerbrochen.
+<sup>5</sup>Er hat gegen mich gebaut
+und mich mit Bitterkeit und Mühsal umgeben.
+<sup>6</sup>Er hat mich in finsteren Orten wohnen lassen
+wie die, die schon lange tot sind.
+<sup>7</sup>Er hat mich ummauert, sodass ich nicht hinauskann.
+Er hat meine Kette schwer gemacht.
+<sup>8</sup>Ja, wenn ich schreie und um Hilfe rufe,
+verschließt er sich vor meinem Gebet.
+<sup>9</sup>Er hat meine Wege mit Quadersteinen vermauert.
+Er hat meine Pfade krumm gemacht.
+<sup>10</sup>Er ist für mich wie ein Bär, der auf der Lauer liegt,
+wie ein Löwe im Versteck.
+<sup>11</sup>Er hat meine Wege abgelenkt und mich zerrissen.
+Er hat mich verwüstet.
+<sup>12</sup>Er hat seinen Bogen gespannt
+und mich als Ziel für den Pfeil hingestellt.
+<sup>13</sup>Er hat die Pfeile seines Köchers in meine Nieren fahren lassen.
+<sup>14</sup>Ich bin zum Gespött für mein ganzes Volk geworden,
+ihr Spottlied den ganzen Tag.
+<sup>15</sup>Er hat mich mit Bitterkeit gesättigt.
+Er hat mich mit Wermut getränkt.
+<sup>16</sup>Er hat auch meine Zähne mit Kies zermalmt.
+Er hat mich in Asche gedrückt.
+<sup>17</sup>Du hast meine Seele weit weg vom Frieden gebracht.
+Ich habe vergessen, was Glück ist.
+<sup>18</sup>Ich sagte: „Meine Kraft ist dahin
+und meine Hoffnung auf den HERRN.“
+<sup>19</sup>Denk an mein Elend und mein Umherirren,
+an den Wermut und die Bitterkeit.
+<sup>20</sup>Meine Seele denkt immer noch daran
+und ist niedergebeugt in mir.
+
+> **Was bedeutet das?**
+> Das dritte Lied ist das Herz des ganzen Buches. Es ist anders gebaut als die anderen: Je drei Verse beginnen mit demselben hebräischen Buchstaben, darum hat es 66 Verse.
+> Hier spricht ein einzelner Mensch: „Ich bin der Mann, der Elend gesehen hat.“ Er beschreibt sein Leid mit vielen Bildern: Dunkelheit, Gefängnis, Ketten, ein lauernder Bär, Pfeile.
+> Vers 8: Das Schlimmste: Er betet, aber Gott scheint nicht zu hören.
+> Vers 18: Er ist am Ende: „Meine Kraft ist dahin und meine Hoffnung auf den HERRN.“
+> Viele Menschen, die eine schwere Krankheit, eine Depression oder einen großen Verlust erleben, finden sich in diesen Worten wieder. Es ist gut zu wissen: Auch solche Gefühle haben Platz in der Bibel. Wer sich so fühlt, darf Hilfe suchen: Telefonseelsorge 0800 111 0 111.
+
+---
+
+### Jeden Morgen neu (Vers 21–33)
+
+<sup>21</sup>Dies will ich mir ins Herz zurückrufen,
+darum habe ich Hoffnung:
+<sup>22</sup>Die Gnade des HERRN ist es, dass wir nicht vernichtet sind,
+denn sein Erbarmen hört nicht auf.
+<sup>23</sup>Es ist jeden Morgen neu.
+Groß ist deine Treue.
+<sup>24</sup>„Der HERR ist mein Anteil“, sagt meine Seele,
+„darum will ich auf ihn hoffen.“
+<sup>25</sup>Der HERR ist gut zu denen, die auf ihn warten,
+zu der Seele, die ihn sucht.
+<sup>26</sup>Es ist gut, still zu hoffen
+und auf die Rettung des HERRN zu warten.
+<sup>27</sup>Es ist gut für einen Mann,
+dass er das Joch in seiner Jugend trägt.
+<sup>28</sup>Er soll allein sitzen und schweigen,
+weil er es ihm auferlegt hat.
+<sup>29</sup>Er soll seinen Mund in den Staub legen,
+vielleicht gibt es noch Hoffnung.
+<sup>30</sup>Er soll dem, der ihn schlägt, die Wange hinhalten.
+Er soll mit Schmach gesättigt werden.
+<sup>31</sup>Denn der Herr verstößt nicht für immer.
+<sup>32</sup>Denn wenn er auch betrübt,
+so erbarmt er sich doch nach der Fülle seiner Gnade.
+<sup>33</sup>Denn er plagt und betrübt die Menschenkinder nicht von Herzen gern.
+
+> **Was bedeutet das?**
+> Vers 21–23: Mitten in der tiefsten Verzweiflung kommt die Wende. Der Dichter erinnert sich an etwas, das ihm Hoffnung gibt: Gottes Gnade hört nicht auf. „Sein Erbarmen ist jeden Morgen neu. Groß ist deine Treue.“ Diese Verse gehören zu den bekanntesten der Bibel. Sie stehen genau in der Mitte des Buches, wie ein Licht mitten in der Dunkelheit. Jeder neue Morgen ist ein Zeichen von Gottes Treue.
+> Vers 24: „Der HERR ist mein Anteil.“ Auch wenn alles verloren ist, Gott bleibt.
+> Vers 26: Still hoffen und warten können ist eine Kraft.
+> Vers 27–30: Diese Verse beschreiben, wie jemand Leid geduldig erträgt. Sie sind kein Befehl, Gewalt oder Missbrauch hinzunehmen. Wer geschlagen oder misshandelt wird, darf und soll sich Hilfe holen: Notruf 110, Hilfetelefon Gewalt gegen Frauen 116 016, Gewalt an Männern 0800 123 99 00, Nummer gegen Kummer 116 111.
+> Vers 31–33: Ein wunderbarer Trost: Gott verstößt nicht für immer. Und: Gott bringt Leid „nicht von Herzen gern“. Sein Herz ist voller Erbarmen.
+
+---
+
+### Lasst uns umkehren (Vers 34–47)
+
+<sup>34</sup>Wenn man alle Gefangenen der Erde unter die Füße tritt,
+<sup>35</sup>wenn man das Recht eines Menschen beugt
+vor dem Angesicht des Höchsten,
+<sup>36</sup>wenn man einen Menschen in seinem Rechtsstreit unterdrückt,
+das sieht der Herr nicht gern.
+<sup>37</sup>Wer ist es, der spricht, und es geschieht,
+wenn der Herr es nicht geboten hat?
+<sup>38</sup>Kommt nicht aus dem Mund des Höchsten
+das Böse und das Gute?
+<sup>39</sup>Warum sollte ein lebender Mensch sich beklagen,
+ein Mann über die Strafe für seine Sünden?
+<sup>40</sup>Lasst uns unsere Wege prüfen und erforschen
+und zum HERRN umkehren!
+<sup>41</sup>Lasst uns unser Herz samt unseren Händen erheben
+zu Gott im Himmel!
+<sup>42</sup>„Wir haben uns vergangen und sind widerspenstig gewesen.
+Du hast nicht vergeben.
+<sup>43</sup>Du hast dich in Zorn gehüllt und uns verfolgt.
+Du hast getötet, du hast kein Mitleid gehabt.
+<sup>44</sup>Du hast dich in eine Wolke gehüllt,
+sodass kein Gebet hindurchdringt.
+<sup>45</sup>Du hast uns zu Kehricht und Abfall gemacht
+mitten unter den Völkern.
+<sup>46</sup>Alle unsere Feinde haben ihren Mund gegen uns aufgerissen.
+<sup>47</sup>Grauen und Grube sind über uns gekommen,
+Verwüstung und Zusammenbruch.“
+
+> **Was bedeutet das?**
+> Vers 34–36: Gott sieht es nicht gern, wenn Gefangene misshandelt werden und Menschen ihr Recht verweigert wird. Gott steht auf der Seite der Unterdrückten.
+> Vers 37–38: Alles liegt letztlich in Gottes Hand, auch das Schwere. Das ist ein Versuch, das Unbegreifliche zu verstehen. Es heißt nicht, dass Gott Freude am Leid hat (vgl. Vers 33).
+> Vers 40–41: Statt nur zu klagen, lädt der Dichter ein: Lasst uns unser Leben prüfen und zu Gott umkehren. Hebt Herz und Hände zu Gott empor!
+> Vers 42–47: Ein ehrliches gemeinsames Gebet: Wir haben gesündigt. Und es fühlt sich an, als hättest du dich in eine Wolke gehüllt, durch die kein Gebet dringt.
+
+---
+
+### Du hast meine Stimme gehört (Vers 48–66)
+
+<sup>48</sup>Mein Auge fließt über von Wasserbächen
+wegen des Zusammenbruchs der Tochter meines Volkes.
+<sup>49</sup>Mein Auge fließt und hört nicht auf,
+ohne Pause,
+<sup>50</sup>bis der HERR herabschaut
+und vom Himmel her sieht.
+<sup>51</sup>Mein Auge tut meiner Seele weh
+wegen all der Töchter meiner Stadt.
+<sup>52</sup>Wie einen Vogel haben mich unablässig gejagt,
+die ohne Grund meine Feinde sind.
+<sup>53</sup>Sie haben mein Leben in der Grube beenden wollen
+und einen Stein auf mich geworfen.
+<sup>54</sup>Wasser strömten über meinen Kopf.
+Ich sagte: „Ich bin verloren.“
+<sup>55</sup>Ich rief deinen Namen an, HERR,
+aus der tiefsten Grube.
+<sup>56</sup>Du hast meine Stimme gehört:
+„Verschließ dein Ohr nicht vor meinem Seufzen und meinem Schreien!“
+<sup>57</sup>Du kamst nahe an dem Tag, als ich dich rief.
+Du sagtest: „Fürchte dich nicht!“
+<sup>58</sup>Herr, du hast die Sache meiner Seele geführt.
+Du hast mein Leben erlöst.
+<sup>59</sup>HERR, du hast mein Unrecht gesehen.
+Schaffe mir Recht!
+<sup>60</sup>Du hast all ihre Rache gesehen,
+all ihre Pläne gegen mich.
+<sup>61</sup>Du hast ihre Schmähung gehört, HERR,
+all ihre Pläne gegen mich,
+<sup>62</sup>die Reden derer, die gegen mich aufstehen,
+und ihr Sinnen gegen mich den ganzen Tag.
+<sup>63</sup>Sieh ihr Sitzen und ihr Aufstehen an:
+Ich bin ihr Spottlied.
+<sup>64</sup>Du wirst ihnen vergelten, HERR,
+nach dem Werk ihrer Hände.
+<sup>65</sup>Du wirst ihnen ein verstocktes Herz geben,
+deinen Fluch über sie.
+<sup>66</sup>Du wirst sie im Zorn verfolgen
+und sie unter dem Himmel des HERRN vertilgen.
+
+> **Was bedeutet das?**
+> Vers 48–51: Der Dichter weint ohne Pause, bis Gott vom Himmel herabsieht.
+> Vers 53–55: Diese Worte erinnern an Jeremia, der in eine Zisterne geworfen wurde (Jeremia 38,6). „Aus der tiefsten Grube“ rief er zu Gott.
+> Vers 56–58: Und Gott hat gehört! „Du kamst nahe, als ich dich rief. Du sagtest: Fürchte dich nicht!“ Das ist die Erfahrung vieler Menschen: In der tiefsten Not ist Gott nahe.
+> Vers 59–66: Der Dichter bittet Gott, ihm Recht zu verschaffen und seine Verfolger zu bestrafen. Er bringt seine Wut zu Gott und überlässt Gott das Urteil, statt sich selbst zu rächen. Jesus zeigt später einen noch weiteren Weg: für die Feinde zu beten (Lukas 23,34).
