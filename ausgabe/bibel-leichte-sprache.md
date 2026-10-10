@@ -107859,13 +107859,13 @@ Verwüstungen sind beschlossen.
 <sup>27</sup>Er wird mit vielen einen festen Bund schließen für eine Woche.
 In der Mitte der Woche wird er Schlachtopfer und Speisopfer aufhören lassen.
 Und auf dem Flügel der Gräuel wird einer kommen, der verwüstet,
-und zwar bis die beschlossene Vernichtung
-sich über den Verwüster ergießt.“
+und bis zum beschlossenen völligen Ende
+wird der Zorn über das Verwüstete ausgegossen werden.“
 
 > **Was bedeutet das?**
 > Daniel hatte über die 70 Jahre bei Jeremia nachgedacht. Gabriel antwortet mit „70 Wochen“. Gemeint sind wahrscheinlich „Jahrwochen“, also jeweils 7 Jahre. 70 mal 7 = 490 Jahre. Die Zeit bis zur endgültigen Erlösung ist also viel länger, als Daniel dachte.
 > Diese Verse gehören zu den am meisten diskutierten der ganzen Bibel. Der hebräische Text ist schwierig, und es gibt verschiedene Deutungen:
-> – Viele Ausleger beziehen sie auf die Zeit bis Antiochus IV.: Der „Gesalbte“, der „ausgerottet“ wird (Vers 26), wäre der rechtmäßige Hohepriester Onias III., der 171 vor Christus ermordet wurde. Der „Verwüster“ ist Antiochus, der den Tempelgottesdienst abschaffte (Vers 27).
+> – Viele Ausleger beziehen sie auf die Zeit bis Antiochus IV.: Der „Gesalbte“, der „ausgerottet“ wird (Vers 26), wäre der rechtmäßige Hohepriester Onias III., der 171 vor Christus ermordet wurde. Der „Verwüster“ ist Antiochus, der den Tempelgottesdienst abschaffte (Vers 27). Das Ende von Vers 27 kann man unterschiedlich übersetzen: Das WEB sagt, der Zorn wird „über das Verwüstete“ ausgegossen; andere Übersetzungen sagen, er kommt „über den Verwüster“.
 > – Viele Christen beziehen die Verse auf Jesus Christus, den „Gesalbten“ (Messias), der getötet wurde, und auf die Zerstörung Jerusalems durch die Römer im Jahr 70 nach Christus.
 > – Im Judentum wurden sie auch auf die Zerstörung des Zweiten Tempels bezogen.
 > Das WEB übersetzt in Vers 25–26 „the Anointed One“ (der Gesalbte) mit großem Anfangsbuchstaben, wie ein Name. Im Hebräischen steht kein Artikel; man kann auch „ein Gesalbter“ übersetzen.
