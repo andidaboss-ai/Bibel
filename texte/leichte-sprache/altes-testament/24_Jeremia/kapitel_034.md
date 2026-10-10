@@ -37,7 +37,7 @@ Denn diese allein waren von den Städten Judas als befestigte Städte übrig geb
 
 > **Was bedeutet das?**
 > Vers 2–3: Wieder sagt Jeremia König Zidkija: Die Stadt wird fallen, und du wirst gefangen genommen.
-> Vers 4–5: Aber Jeremia hat auch ein mildes Wort für ihn: Wenn Zidkija sich ergibt, wird er nicht durch das Schwert sterben, sondern in Frieden, mit einem ehrenvollen Begräbnis. Die „Räucherfeuer“ waren ein Ehrenbrauch bei der Bestattung von Königen (2. Chronik 16,14).
+> Vers 4–5: Aber Jeremia hat auch ein mildes Wort für ihn: Zidkija wird nicht durch das Schwert sterben, sondern in Frieden, mit einem ehrenvollen Begräbnis. Die „Räucherfeuer“ waren ein Ehrenbrauch bei der Bestattung von Königen (2. Chronik 16,14).
 > Vers 7: Nur noch drei befestigte Städte hielten stand: Jerusalem, Lachisch und Aseka. Archäologen haben in Lachisch Tonscherben mit Briefen aus dieser Zeit gefunden. In einem davon schreibt ein Offizier, dass man die Feuerzeichen von Aseka nicht mehr sehen kann.
 
 ---
