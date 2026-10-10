@@ -99907,3 +99907,389 @@ erstattete Bericht und sagte:
 > Vers 8: Hesekiel wirft sich nieder und schreit: „Willst du alle vernichten?“ Er tritt für sein Volk ein, wie Abraham für Sodom (1. Mose 18) und Mose für Israel (2. Mose 32). Ein Prophet ist nicht kalt. Er leidet mit.
 > Vers 11: Am Ende meldet der Schreiber: „Ich habe getan, wie du befohlen hast.“ Das heißt: Die Menschen mit dem Zeichen wurden geschützt. Gott hat die nicht vergessen, die über das Unrecht geklagt haben.
 > Wenn dich solche Texte erschüttern oder an eigene Erfahrungen mit Gewalt erinnern, bist du nicht allein. Du kannst kostenlos und anonym mit jemandem sprechen: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222. Im Notfall: 112.
+
+## Hesekiel – Kapitel 10
+#### Die Herrlichkeit verlässt den Tempel
+
+---
+
+### Feuer zwischen den Cherubim (Vers 1–8)
+
+<sup>1</sup>Dann schaute ich,
+und siehe, auf der Himmelsfeste, die über dem Kopf der Cherubim war,
+erschien über ihnen etwas wie ein Saphirstein,
+anzusehen wie die Gestalt eines Thrones.
+<sup>2</sup>Er redete zu dem Mann, der in Leinen gekleidet war, und sagte:
+„Geh hinein zwischen die wirbelnden Räder, unter den Cherub,
+und fülle deine beiden Hände mit Feuerkohlen
+von zwischen den Cherubim
+und streue sie über die Stadt.“
+Und er ging hinein, während ich zusah.
+<sup>3</sup>Die Cherubim standen auf der rechten Seite des Hauses,
+als der Mann hineinging,
+und die Wolke erfüllte den inneren Vorhof.
+<sup>4</sup>Die Herrlichkeit des HERRN erhob sich von dem Cherub
+und stellte sich über die Schwelle des Hauses.
+Das Haus wurde von der Wolke erfüllt,
+und der Vorhof war voll vom Glanz der Herrlichkeit des HERRN.
+<sup>5</sup>Das Rauschen der Flügel der Cherubim war bis in den äußeren Vorhof zu hören,
+wie die Stimme Gottes, des Allmächtigen, wenn er redet.
+<sup>6</sup>Als er dem Mann, der in Leinen gekleidet war, befahl:
+„Nimm Feuer von zwischen den wirbelnden Rädern,
+von zwischen den Cherubim“,
+da ging er hinein und stellte sich neben ein Rad.
+<sup>7</sup>Der Cherub streckte seine Hand aus von zwischen den Cherubim
+zu dem Feuer, das zwischen den Cherubim war,
+nahm etwas davon
+und legte es in die Hände dessen, der in Leinen gekleidet war.
+Der nahm es und ging hinaus.
+<sup>8</sup>An den Cherubim erschien unter ihren Flügeln
+die Gestalt einer Menschenhand.
+
+> **Was bedeutet das?**
+> Hesekiel sieht wieder den Thronwagen aus Kapitel 1. Jetzt nennt er die lebendigen Wesen „Cherubim“ (Einzahl: Cherub). Cherubim sind himmliche Wesen, die Gottes Thron umgeben. Im Tempel gab es Figuren von Cherubim über der Bundeslade (2. Mose 25,18–22).
+> Vers 2: Der Mann in Leinen hatte vorher die Gerechten gezeichnet (Kapitel 9). Jetzt soll er glühende Kohlen über die Stadt streuen. Das ist ein Bild für das Feuer, das Jerusalem zerstören wird.
+> In Jesaja 6,6–7 berührt eine glühende Kohle vom Altar Jesajas Lippen und reinigt ihn. Hier ist das Feuer ein Feuer des Gerichts.
+
+---
+
+### Die Räder und die Cherubim (Vers 9–17)
+
+<sup>9</sup>Ich schaute, und siehe, da waren vier Räder neben den Cherubim,
+ein Rad neben dem einen Cherub
+und ein anderes Rad neben dem anderen Cherub.
+Die Räder sahen aus wie ein Türkisstein.
+<sup>10</sup>Was ihr Aussehen betraf,
+hatten alle vier dieselbe Gestalt,
+wie ein Rad mitten in einem Rad.
+<sup>11</sup>Wenn sie gingen, gingen sie in ihre vier Richtungen.
+Sie drehten sich nicht, wenn sie gingen,
+sondern dorthin, wohin der Kopf schaute, folgten sie ihm.
+Sie drehten sich nicht, wenn sie gingen.
+<sup>12</sup>Ihr ganzer Körper, auch ihre Rücken, ihre Hände, ihre Flügel
+und die Räder waren ringsum voller Augen,
+auch die Räder, die die vier hatten.
+<sup>13</sup>Die Räder wurden vor meinen Ohren genannt:
+„die wirbelnden Räder“.
+<sup>14</sup>Jedes von ihnen hatte vier Gesichter.
+Das erste Gesicht war das Gesicht des Cherubs.
+Das zweite Gesicht war das Gesicht eines Menschen.
+Das dritte war das Gesicht eines Löwen.
+Das vierte war das Gesicht eines Adlers.
+<sup>15</sup>Die Cherubim erhoben sich.
+Das ist das lebendige Wesen, das ich am Fluss Kebar gesehen hatte.
+<sup>16</sup>Wenn die Cherubim gingen, gingen die Räder neben ihnen.
+Und wenn die Cherubim ihre Flügel hoben,
+um sich von der Erde zu erheben,
+wichen auch die Räder nicht von ihrer Seite.
+<sup>17</sup>Wenn sie standen, standen diese.
+Wenn sie sich erhoben, erhoben sich diese mit ihnen,
+denn der Geist des lebendigen Wesens war in ihnen.
+
+> **Was bedeutet das?**
+> Diese Beschreibung wiederholt vieles aus Kapitel 1. Hesekiel will klar machen: Es ist derselbe Gott, dieselbe Herrlichkeit, die er am Fluss Kebar gesehen hat.
+> Vers 14: Hier gibt es einen Unterschied zu Kapitel 1,10: Statt des Stiergesichts wird „das Gesicht des Cherubs“ genannt. Warum, ist nicht ganz klar. Vielleicht war das Stiergesicht das typische Gesicht eines Cherubs.
+> Vers 13: „Wirbelnde Räder“ – das hebräische Wort „Galgal“ meint etwas, das sich dreht, wie ein Wirbelwind.
+
+---
+
+### Die Herrlichkeit geht zum Osttor (Vers 18–22)
+
+<sup>18</sup>Die Herrlichkeit des HERRN ging hinaus von der Schwelle des Hauses
+und stellte sich über die Cherubim.
+<sup>19</sup>Die Cherubim hoben ihre Flügel
+und erhoben sich vor meinen Augen von der Erde,
+als sie hinausgingen,
+und die Räder waren neben ihnen.
+Dann stellten sie sich an den Eingang des Osttores des Hauses des HERRN,
+und die Herrlichkeit des Gottes Israels war oben über ihnen.
+<sup>20</sup>Das ist das lebendige Wesen,
+das ich unter dem Gott Israels am Fluss Kebar gesehen hatte.
+Und ich erkannte, dass es Cherubim waren.
+<sup>21</sup>Jedes hatte vier Gesichter,
+und jedes hatte vier Flügel.
+Und unter ihren Flügeln war die Gestalt von Menschenhänden.
+<sup>22</sup>Was die Gestalt ihrer Gesichter betraf,
+es waren die Gesichter, die ich am Fluss Kebar gesehen hatte,
+ihr Aussehen und sie selbst.
+Jedes ging gerade vorwärts.
+
+> **Was bedeutet das?**
+> Jetzt geschieht etwas Unvorstellbares: Gottes Herrlichkeit verlässt den Tempel Schritt für Schritt. Zuerst ging sie zur Schwelle (9,3; 10,4), jetzt steigt sie auf den Thronwagen und geht zum Osttor (Vers 19).
+> Für die Menschen in Jerusalem war klar: „Gott wohnt im Tempel, darum kann uns nichts passieren“ (vgl. Jeremia 7,4). Hesekiel zeigt: Gott ist nicht an das Gebäude gebunden. Wenn das Volk ihn verlässt, kann er auch den Tempel verlassen.
+> Aber: Gott geht langsam, Schritt für Schritt. Es ist, als würde er zögern, als würde er warten, ob sein Volk doch noch umkehrt.
+> In Kapitel 43 wird die Herrlichkeit durch das Osttor wieder zurückkehren!
+
+## Hesekiel – Kapitel 11
+#### Ein neues Herz
+
+---
+
+### Der Topf und das Fleisch (Vers 1–13)
+
+<sup>1</sup>Weiter hob mich der Geist empor
+und brachte mich zum Osttor des Hauses des HERRN, das nach Osten schaut.
+Und siehe, am Eingang des Tores waren fünfundzwanzig Männer.
+Unter ihnen sah ich Jaasanja, den Sohn Asurs,
+und Pelatja, den Sohn Benajas, Fürsten des Volkes.
+<sup>2</sup>Er sagte zu mir:
+„Menschensohn, das sind die Männer, die Unheil ersinnen
+und bösen Rat geben in dieser Stadt,
+<sup>3</sup>die sagen:
+‚Die Zeit ist nicht nahe, Häuser zu bauen.
+Diese Stadt ist der Kochtopf, und wir sind das Fleisch.‘
+<sup>4</sup>Darum weissage gegen sie.
+Weissage, Menschensohn!“
+<sup>5</sup>Der Geist des HERRN fiel auf mich,
+und er sagte zu mir:
+„Sprich: ‚So spricht der HERR:
+„So habt ihr gesagt, Haus Israel,
+denn ich weiß, was in eurem Sinn aufsteigt.
+<sup>6</sup>Ihr habt eure Erschlagenen in dieser Stadt vermehrt
+und ihre Straßen mit Erschlagenen gefüllt.“
+<sup>7</sup>Darum spricht der Herr, der HERR:
+„Eure Erschlagenen, die ihr mitten in ihr hingelegt habt,
+die sind das Fleisch, und diese Stadt ist der Topf.
+Euch aber wird man aus ihr herausbringen.
+<sup>8</sup>Ihr habt das Schwert gefürchtet,
+und ich werde das Schwert über euch bringen“,
+spricht der Herr, der HERR.
+<sup>9</sup>„Ich werde euch aus ihr herausbringen
+und euch in die Hände von Fremden geben
+und Gericht an euch halten.
+<sup>10</sup>Ihr werdet durch das Schwert fallen.
+An der Grenze Israels werde ich euch richten.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+<sup>11</sup>Diese Stadt wird nicht euer Topf sein,
+und ihr werdet nicht das Fleisch in ihr sein.
+An der Grenze Israels werde ich euch richten.
+<sup>12</sup>Ihr werdet erkennen, dass ich der HERR bin,
+denn in meinen Satzungen seid ihr nicht gegangen,
+und meine Rechtsordnungen habt ihr nicht getan,
+sondern ihr habt nach den Rechtsordnungen der Völker gehandelt,
+die rings um euch her sind.“‘“
+<sup>13</sup>Als ich weissagte, starb Pelatja, der Sohn Benajas.
+Da fiel ich auf mein Gesicht,
+schrie mit lauter Stimme und sagte:
+„Ach, Herr, HERR!
+Willst du dem Rest Israels ganz ein Ende machen?“
+
+> **Was bedeutet das?**
+> Vers 3: Die Mächtigen in Jerusalem sind stolz. Sie sagen: „Die Stadt ist der Topf, und wir sind das Fleisch.“ Das heißt: Wir sind das beste Stück, gut geschützt in der Stadt wie Fleisch im Topf. Die anderen, die verschleppt wurden, sind der Abfall. „Häuser bauen“ ist nicht nötig, wir bleiben ja hier.
+> Vers 6–7: Gott dreht das Bild um: Das wahre „Fleisch“ im Topf sind die Unschuldigen, die diese Männer umgebracht haben. Die Mächtigen selbst werden aus der Stadt herausgeholt und gerichtet.
+> Vers 10: „An der Grenze Israels“ – das erfüllte sich in Ribla, ganz im Norden, wo der babylonische König die Anführer Judas hinrichten ließ (2. Könige 25,18–21).
+> Vers 13: Während Hesekiel weissagt, stirbt Pelatja. Hesekiel freut sich nicht darüber. Er ist erschrocken und schreit zu Gott. Wieder tritt er für sein Volk ein. Der Name Pelatja bedeutet übrigens „Der HERR rettet“, was Hesekiels Frage noch dringender macht.
+
+---
+
+### Gott wird ihr Heiligtum sein (Vers 14–21)
+
+<sup>14</sup>Das Wort des HERRN kam zu mir:
+<sup>15</sup>„Menschensohn, deine Brüder, ja deine Brüder,
+die Männer deiner Verwandtschaft
+und das ganze Haus Israel, sie alle,
+das sind die, zu denen die Bewohner Jerusalems gesagt haben:
+‚Geht weit weg vom HERRN!
+Uns ist dieses Land zum Besitz gegeben.‘
+<sup>16</sup>Darum sag:
+‚So spricht der Herr, der HERR:
+„Obwohl ich sie weit weg unter die Völker gebracht habe
+und obwohl ich sie in die Länder zerstreut habe,
+will ich ihnen doch eine kleine Weile ein Heiligtum sein
+in den Ländern, in die sie gekommen sind.“‘
+<sup>17</sup>Darum sag:
+‚So spricht der Herr, der HERR:
+„Ich werde euch aus den Völkern sammeln
+und euch aus den Ländern zusammenbringen,
+in die ihr zerstreut worden seid,
+und ich werde euch das Land Israel geben.“
+<sup>18</sup>Sie werden dorthin kommen
+und alle seine Scheusale und alle seine Gräuel daraus entfernen.
+<sup>19</sup>Ich werde ihnen ein einziges Herz geben,
+und ich werde einen neuen Geist in sie legen.
+Ich werde das steinerne Herz aus ihrem Leib nehmen
+und ihnen ein Herz aus Fleisch geben,
+<sup>20</sup>damit sie in meinen Satzungen gehen
+und meine Rechtsordnungen halten und sie tun.
+Sie werden mein Volk sein,
+und ich werde ihr Gott sein.
+<sup>21</sup>Die aber, deren Herz dem Herzen ihrer Scheusale und ihrer Gräuel nachgeht,
+deren Weg werde ich auf ihren eigenen Kopf bringen‘,
+spricht der Herr, der HERR.“
+
+> **Was bedeutet das?**
+> Vers 15: Die Leute in Jerusalem sagen über die Verbannten: „Die sind weit weg von Gott. Das Land gehört jetzt uns.“ Sie halten sich für die Gewinner.
+> Vers 16: Aber Gott sagt das Gegenteil: Gerade bei den Verbannten will er sein! Er selbst wird ihr „Heiligtum“ sein, auch ohne Tempel. Das ist ein großer Trost: Gott ist auch in der Fremde da. Man kann ihn überall finden. (Im Judentum wurde dieser Vers später auch auf die Synagogen bezogen, als „kleines Heiligtum“.)
+> Vers 19: Eine der schönsten Verheißungen der Bibel: Gott nimmt das „Herz aus Stein“ weg, das hart und kalt ist, und gibt ein „Herz aus Fleisch“, das lebendig ist und fühlen kann. Gott selbst verändert die Menschen von innen. Diese Verheißung kommt in Kapitel 36,26 noch einmal.
+> Vgl. Jeremia 31,33: „Ich lege mein Gesetz in ihr Herz.“
+
+---
+
+### Die Herrlichkeit geht auf den Ölberg (Vers 22–25)
+
+<sup>22</sup>Dann hoben die Cherubim ihre Flügel,
+und die Räder waren neben ihnen.
+Die Herrlichkeit des Gottes Israels war oben über ihnen.
+<sup>23</sup>Die Herrlichkeit des HERRN stieg empor aus der Mitte der Stadt
+und stellte sich auf den Berg, der östlich der Stadt liegt.
+<sup>24</sup>Der Geist hob mich empor
+und brachte mich in der Vision, durch den Geist Gottes,
+nach Chaldäa zu den Verbannten.
+Da wich die Vision, die ich gesehen hatte, von mir.
+<sup>25</sup>Dann redete ich zu den Verbannten
+alles, was der HERR mich hatte sehen lassen.
+
+> **Was bedeutet das?**
+> Vers 23: Gottes Herrlichkeit verlässt jetzt ganz die Stadt und bleibt auf dem Berg östlich von Jerusalem stehen. Das ist der Ölberg. Von dort aus kann sie noch auf die Stadt schauen.
+> Interessant: Im Neuen Testament spielt der Ölberg eine große Rolle. Jesus weint dort über Jerusalem (Lukas 19,37–41), und von dort fährt er in den Himmel auf (Apostelgeschichte 1,9–12).
+> Vers 24–25: Die Vision ist vorbei. Hesekiel ist wieder bei den Verbannten in Babylon und erzählt ihnen alles. Die Botschaft an die Verbannten: Der Tempel in Jerusalem ist nicht mehr sicher. Aber Gott ist mit euch.
+
+## Hesekiel – Kapitel 12
+#### Fluchtgepäck
+
+---
+
+### Hesekiel packt sein Gepäck (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN kam auch zu mir:
+<sup>2</sup>„Menschensohn, du wohnst mitten im widerspenstigen Haus.
+Sie haben Augen zum Sehen und sehen nicht.
+Sie haben Ohren zum Hören und hören nicht,
+denn sie sind ein widerspenstiges Haus.
+<sup>3</sup>Darum, du Menschensohn,
+mach dir Gepäck für den Auszug fertig
+und zieh am Tag vor ihren Augen aus.
+Du sollst vor ihren Augen von deinem Ort an einen anderen Ort ziehen.
+Vielleicht werden sie es einsehen,
+obwohl sie ein widerspenstiges Haus sind.
+<sup>4</sup>Du sollst dein Gepäck am Tag vor ihren Augen hinaustragen,
+wie Gepäck für den Auszug.
+Am Abend sollst du selbst vor ihren Augen hinausgehen,
+wie Menschen, die in die Verbannung gehen.
+<sup>5</sup>Grabe dich vor ihren Augen durch die Wand
+und trage dein Gepäck dort hinaus.
+<sup>6</sup>Vor ihren Augen sollst du es auf deiner Schulter tragen
+und es im Dunkeln hinausbringen.
+Du sollst dein Gesicht bedecken,
+sodass du das Land nicht siehst,
+denn ich habe dich zum Zeichen für das Haus Israel gesetzt.“
+<sup>7</sup>Ich tat, wie mir befohlen war.
+Ich trug mein Gepäck am Tag hinaus, wie Gepäck für den Auszug,
+und am Abend grub ich mit meiner Hand ein Loch durch die Wand.
+Ich brachte es im Dunkeln hinaus
+und trug es auf meiner Schulter vor ihren Augen.
+
+> **Was bedeutet das?**
+> Vers 2: „Augen zum Sehen und sehen nicht“ – diese Worte nimmt Jesus später auf (Markus 8,18).
+> Eine neue Zeichenhandlung: Hesekiel packt einen Fluchtrucksack, wie jemand, der seine Heimat verlassen muss. Am Abend gräbt er ein Loch durch die Hauswand und schleicht sich mit verhülltem Gesicht davon. Die Häuser waren damals oft aus Lehmziegeln, darum konnte man ein Loch hineingraben.
+> Vers 3: „Vielleicht werden sie es einsehen.“ Gott gibt die Hoffnung nicht auf.
+> Heute müssen weltweit viele Millionen Menschen aus ihrer Heimat fliehen, oft nur mit einer Tasche. Dieser Text kann helfen, sich in Geflüchtete hineinzuversetzen.
+
+---
+
+### Der Fürst wird fliehen (Vers 8–16)
+
+<sup>8</sup>Am Morgen kam das Wort des HERRN zu mir:
+<sup>9</sup>„Menschensohn, hat nicht das Haus Israel, das widerspenstige Haus,
+zu dir gesagt: ‚Was machst du da?‘
+<sup>10</sup>Sag zu ihnen:
+‚So spricht der Herr, der HERR:
+„Diese Last betrifft den Fürsten in Jerusalem
+und das ganze Haus Israel, das darin ist.“‘
+<sup>11</sup>Sag:
+‚Ich bin euer Zeichen.
+Wie ich getan habe, so wird ihnen geschehen.
+Sie werden in die Verbannung gehen, in die Gefangenschaft.
+<sup>12</sup>Der Fürst, der unter ihnen ist,
+wird sein Gepäck im Dunkeln auf seiner Schulter tragen
+und hinausgehen.
+Man wird durch die Wand graben, um es dort hinauszubringen.
+Er wird sein Gesicht bedecken,
+weil er das Land nicht mit seinen Augen sehen wird.
+<sup>13</sup>Ich werde auch mein Netz über ihn ausbreiten,
+und er wird in meiner Schlinge gefangen werden.
+Ich werde ihn nach Babylon bringen, in das Land der Chaldäer.
+Aber er wird es nicht sehen,
+obwohl er dort sterben wird.
+<sup>14</sup>Alle, die rings um ihn sind, um ihm zu helfen,
+und alle seine Truppen
+werde ich in alle Winde zerstreuen.
+Ich werde hinter ihnen das Schwert ziehen.
+<sup>15</sup>Sie werden erkennen, dass ich der HERR bin,
+wenn ich sie unter die Völker zerstreue
+und sie in die Länder versprenge.
+<sup>16</sup>Aber ich werde einige wenige von ihnen übrig lassen
+vom Schwert, vom Hunger und von der Pest,
+damit sie all ihre Gräuel erzählen unter den Völkern,
+zu denen sie kommen.
+Dann werden sie erkennen, dass ich der HERR bin.‘“
+
+> **Was bedeutet das?**
+> Vers 10: „Last“ – das hebräische Wort „massa“ bedeutet sowohl „Last“ als auch „Ausspruch“ (einer Prophezeiung). Hesekiel trägt eine echte Last auf der Schulter, und gleichzeitig ist es eine Botschaft. (Vgl. Jeremia 23,33–40.)
+> Der „Fürst“ ist König Zedekia, der letzte König von Juda. Genau so ist es gekommen: Als Jerusalem 586 vor Christus fiel, floh Zedekia nachts durch eine Öffnung in der Mauer. Er wurde gefangen, und man stach ihm die Augen aus. Dann brachte man ihn nach Babylon (2. Könige 25,4–7; Jeremia 39,4–7).
+> Vers 13: „Er wird Babylon nicht sehen, obwohl er dort sterben wird.“ Das klingt rätselhaft, wurde aber wörtlich wahr: Zedekia war blind, als er nach Babylon kam.
+> Vers 16: Ein paar Überlebende werden den anderen Völkern erzählen, was geschehen ist und warum.
+
+---
+
+### Mit Zittern essen (Vers 17–20)
+
+<sup>17</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>18</sup>„Menschensohn, iss dein Brot mit Beben
+und trink dein Wasser mit Zittern und mit Angst.
+<sup>19</sup>Sag zum Volk des Landes:
+‚So spricht der Herr, der HERR,
+über die Bewohner Jerusalems und das Land Israel:
+„Sie werden ihr Brot mit Angst essen
+und ihr Wasser mit Entsetzen trinken,
+damit ihr Land verwüstet wird und alles, was darin ist,
+wegen der Gewalt aller, die darin wohnen.
+<sup>20</sup>Die bewohnten Städte werden verwüstet werden,
+und das Land wird eine Wüste sein.
+Dann werdet ihr erkennen, dass ich der HERR bin.“‘“
+
+> **Was bedeutet das?**
+> Noch ein Zeichen: Hesekiel isst und trinkt zitternd vor Angst. So wird es den Menschen in Jerusalem gehen, wenn die Belagerung kommt.
+> Vers 19: Wieder wird der Grund genannt: „wegen der Gewalt“. Gewalt zerstört nicht nur die Opfer, sondern am Ende auch die Gemeinschaft, in der sie geschieht.
+
+---
+
+### Gottes Wort verzögert sich nicht (Vers 21–28)
+
+<sup>21</sup>Das Wort des HERRN kam zu mir:
+<sup>22</sup>„Menschensohn, was ist das für ein Sprichwort,
+das ihr im Land Israel habt:
+‚Die Tage ziehen sich hin,
+und jede Vision wird hinfällig‘?
+<sup>23</sup>Darum sag ihnen:
+‚So spricht der Herr, der HERR:
+„Ich werde diesem Sprichwort ein Ende machen,
+und man wird es nicht mehr als Sprichwort in Israel gebrauchen.“‘
+Sondern sag ihnen:
+‚„Die Tage sind nahe
+und die Erfüllung jeder Vision.
+<sup>24</sup>Denn es wird keine falsche Vision mehr geben
+und keine schmeichelnde Wahrsagerei im Haus Israel.
+<sup>25</sup>Denn ich bin der HERR.
+Ich rede,
+und das Wort, das ich rede, wird ausgeführt.
+Es wird nicht mehr aufgeschoben,
+denn in euren Tagen, du widerspenstiges Haus,
+werde ich das Wort reden und es ausführen“,
+spricht der Herr, der HERR.‘“
+<sup>26</sup>Wieder kam das Wort des HERRN zu mir:
+<sup>27</sup>„Menschensohn, siehe, die vom Haus Israel sagen:
+‚Die Vision, die er sieht, ist für viele Tage später,
+und er weissagt über Zeiten, die fern sind.‘
+<sup>28</sup>Darum sag ihnen:
+‚So spricht der Herr, der HERR:
+„Keines meiner Worte wird mehr aufgeschoben,
+sondern das Wort, das ich rede, wird ausgeführt“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Die Leute haben zwei Ausreden:
+> Vers 22: „Die Propheten reden immer vom Unheil, aber es passiert ja nie.“
+> Vers 27: „Vielleicht passiert es irgendwann, aber nicht zu unserer Zeit.“
+> Gott antwortet: Mein Wort wird sich erfüllen, und zwar bald, „in euren Tagen“. Tatsächlich wurde Jerusalem wenige Jahre später zerstört.
+> Auch heute schieben Menschen Warnungen gern weg: „Wird schon nicht so schlimm“ oder „Betrifft mich nicht“. Der Text erinnert: Es ist klug, Warnungen ernst zu nehmen und rechtzeitig umzukehren (vgl. 2. Petrus 3,9).
