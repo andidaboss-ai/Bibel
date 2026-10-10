@@ -99262,3 +99262,290 @@ denn sie sind ein widerspenstiges Haus.“
 > Hesekiel soll sich in seinem Haus einschließen und stumm sein. Er darf nur reden, wenn Gott ihm etwas zu sagen gibt. So wird deutlich: Hesekiel redet nicht seine eigenen Gedanken, sondern nur Gottes Wort.
 > Diese Stummheit dauert bis zur Zerstörung Jerusalems (vgl. 24,27; 33,22).
 > Vers 27: „Wer hören will, der höre.“ Jesus sagt etwas Ähnliches: „Wer Ohren hat zu hören, der höre!“ (Matthäus 13,9).
+
+## Hesekiel – Kapitel 4
+#### Zeichen der Belagerung
+
+---
+
+### Jerusalem auf einem Ziegelstein (Vers 1–8)
+
+<sup>1</sup>„Du aber, Menschensohn, nimm dir einen Ziegelstein,
+leg ihn vor dich hin
+und zeichne eine Stadt darauf, nämlich Jerusalem.
+<sup>2</sup>Belagere sie:
+Baue Belagerungstürme gegen sie
+und schütte einen Wall gegen sie auf.
+Stelle auch Heerlager gegen sie auf
+und stelle Rammböcke ringsum gegen sie.
+<sup>3</sup>Nimm dir eine eiserne Platte
+und stelle sie als eiserne Mauer zwischen dich und die Stadt.
+Dann richte dein Gesicht auf sie.
+Sie wird belagert sein, und du sollst sie belagern.
+Das soll ein Zeichen für das Haus Israel sein.
+<sup>4</sup>Weiter: Leg dich auf deine linke Seite
+und lege die Schuld des Hauses Israel darauf.
+So viele Tage du darauf liegst,
+so lange sollst du ihre Schuld tragen.
+<sup>5</sup>Denn ich habe dir die Jahre ihrer Schuld
+als eine Zahl von Tagen bestimmt,
+nämlich dreihundertneunzig Tage.
+So sollst du die Schuld des Hauses Israel tragen.
+<sup>6</sup>Und wenn du diese vollendet hast,
+sollst du dich auf deine rechte Seite legen
+und die Schuld des Hauses Juda tragen.
+Vierzig Tage habe ich dir bestimmt,
+jeden Tag für ein Jahr.
+<sup>7</sup>Du sollst dein Gesicht auf die Belagerung Jerusalems richten,
+mit entblößtem Arm,
+und du sollst gegen die Stadt weissagen.
+<sup>8</sup>Siehe, ich lege dir Stricke an,
+und du sollst dich nicht von einer Seite auf die andere drehen,
+bis du die Tage deiner Belagerung vollendet hast.
+
+> **Was bedeutet das?**
+> Hesekiel ist stumm (Kapitel 3,26). Darum „predigt“ er mit Zeichenhandlungen, wie ein Straßentheater. Er zeichnet Jerusalem auf einen Lehmziegel und spielt die Belagerung nach, mit Wällen, Lagern und Rammböcken. Die Verbannten in Babylon hofften, Jerusalem würde verschont bleiben. Hesekiel zeigt ihnen: Die Stadt wird belagert werden.
+> Vers 3: Die eiserne Platte zeigt eine Trennung: Gott hat sich von der Stadt abgewandt, wie hinter einer Wand aus Eisen.
+> Vers 4–6: 390 Tage auf der linken Seite für Israel (das Nordreich), 40 Tage auf der rechten Seite für Juda. Jeder Tag steht für ein Jahr Schuld. Was genau die Zahlen meinen, ist bis heute unsicher; Ausleger haben verschiedene Erklärungen vorgeschlagen.
+> Wahrscheinlich lag Hesekiel nicht ununterbrochen Tag und Nacht, sondern jeden Tag eine bestimmte Zeit. Er musste ja auch Brot backen (Vers 9–12).
+> Vers 7: Der „entblößte Arm“ ist ein Zeichen von Kampfbereitschaft, so wie man den Ärmel hochkrempelt.
+
+---
+
+### Brot nach Gewicht (Vers 9–17)
+
+<sup>9</sup>Nimm dir auch Weizen, Gerste, Bohnen, Linsen, Hirse und Dinkel
+und tu sie in ein Gefäß.
+Mach dir Brot daraus.
+So viele Tage du auf deiner Seite liegst,
+nämlich dreihundertneunzig Tage,
+sollst du davon essen.
+<sup>10</sup>Deine Nahrung, die du essen sollst, soll abgewogen sein:
+zwanzig Schekel am Tag.
+Von Zeit zu Zeit sollst du davon essen.
+<sup>11</sup>Wasser sollst du nach Maß trinken:
+den sechsten Teil eines Hin.
+Von Zeit zu Zeit sollst du trinken.
+<sup>12</sup>Du sollst es essen wie Gerstenfladen,
+und du sollst es vor ihren Augen
+auf Menschenkot backen.“
+<sup>13</sup>Der HERR sagte:
+„Genauso werden die Kinder Israel ihr Brot unrein essen
+unter den Völkern, wohin ich sie vertreiben werde.“
+<sup>14</sup>Da sagte ich:
+„Ach, Herr, HERR!
+Siehe, meine Seele ist nicht verunreinigt worden.
+Denn von meiner Jugend an bis jetzt
+habe ich nie Aas gegessen
+oder etwas, das von wilden Tieren zerrissen wurde.
+Kein abscheuliches Fleisch ist in meinen Mund gekommen!“
+<sup>15</sup>Da sagte er zu mir:
+„Siehe, ich gebe dir Rindermist statt Menschenkot.
+Darauf sollst du dein Brot zubereiten.“
+<sup>16</sup>Weiter sagte er zu mir:
+„Menschensohn, siehe, ich werde den Stab des Brotes in Jerusalem zerbrechen.
+Sie werden Brot nach Gewicht essen, und voller Sorge.
+Sie werden Wasser nach Maß trinken, und voller Entsetzen,
+<sup>17</sup>damit sie an Brot und Wasser Mangel haben,
+einer mit dem anderen erschrecken
+und in ihrer Schuld dahinschwinden.“
+
+> **Was bedeutet das?**
+> Vers 9: Hesekiel muss ein Notbrot aus allen möglichen Körnern und Hülsenfrüchten backen. So isst man, wenn das Essen knapp wird und man alles zusammenkratzt, was noch da ist.
+> Vers 10–11: Zwanzig Schekel sind etwa 230 Gramm Brot am Tag. Ein sechstel Hin ist etwa ein halber bis ein Liter Wasser. Das ist Hungerration, wie in einer belagerten Stadt.
+> Vers 12–15: Getrockneter Mist war im Orient ein übliches Brennmaterial. Aber Menschenkot galt als unrein. Hesekiel ist Priester und protestiert: Er hat sich sein Leben lang an die Speisegebote gehalten. Und Gott hört auf ihn! Er erlaubt Rindermist statt Menschenkot. Das zeigt: Gott lässt mit sich reden. Ehrlicher Widerspruch im Gebet ist erlaubt.
+> Vers 13: Die Botschaft: Im Exil, unter fremden Völkern, wird es schwer sein, nach Gottes Geboten zu leben.
+> Vers 16: Der „Stab des Brotes“ ist ein Bild: Brot stützt das Leben wie ein Stock. Wenn dieser Stab zerbricht, kommt der Hunger.
+
+## Hesekiel – Kapitel 5
+#### Das geschorene Haar
+
+---
+
+### Haare im Feuer, im Schwert und im Wind (Vers 1–4)
+
+<sup>1</sup>„Du, Menschensohn, nimm ein scharfes Schwert.
+Nimm es als Schermesser eines Barbiers
+und lass es über deinen Kopf und über deinen Bart gehen.
+Dann nimm eine Waage, um das Haar zu wiegen und aufzuteilen.
+<sup>2</sup>Ein Drittel sollst du mitten in der Stadt im Feuer verbrennen,
+wenn die Tage der Belagerung vorüber sind.
+Ein Drittel sollst du nehmen
+und ringsherum mit dem Schwert zerhauen.
+Ein Drittel sollst du in den Wind streuen,
+und ich werde hinter ihnen das Schwert ziehen.
+<sup>3</sup>Nimm eine kleine Anzahl davon
+und binde sie in den Saum deines Gewandes.
+<sup>4</sup>Von diesen sollst du wieder nehmen
+und sie mitten ins Feuer werfen und im Feuer verbrennen.
+Von dort wird ein Feuer ausgehen über das ganze Haus Israel.
+
+> **Was bedeutet das?**
+> Das nächste Zeichen: Hesekiel rasiert sich Kopf und Bart mit einem Schwert. Für einen Priester war das eigentlich verboten (3. Mose 21,5). Ein geschorener Kopf war ein Zeichen von Trauer und Schande.
+> Das Haar wird in drei Teile geteilt. Sie zeigen, was mit den Menschen in Jerusalem geschehen wird: Ein Teil stirbt in der Stadt, ein Teil durch das Schwert, ein Teil wird in alle Winde zerstreut.
+> Vers 3: Ein paar Haare werden im Gewand aufbewahrt. Das ist ein kleiner Hoffnungsschimmer: Ein Rest bleibt bewahrt. Aber auch von diesem Rest wird noch etwas verbrannt (Vers 4). Selbst die Geretteten sind nicht einfach sicher.
+
+---
+
+### Das ist Jerusalem (Vers 5–17)
+
+<sup>5</sup>So spricht der Herr, der HERR:
+‚Das ist Jerusalem.
+Ich habe es mitten unter die Völker gesetzt,
+und Länder sind rings um es her.
+<sup>6</sup>Es hat sich gegen meine Rechtsordnungen aufgelehnt
+und mehr Böses getan als die Völker,
+und gegen meine Satzungen mehr als die Länder, die rings um es her sind.
+Denn sie haben meine Rechtsordnungen verworfen,
+und in meinen Satzungen sind sie nicht gegangen.‘
+<sup>7</sup>Darum spricht der Herr, der HERR:
+‚Weil ihr aufsässiger seid als die Völker rings um euch her
+und nicht in meinen Satzungen gegangen seid
+und meine Rechtsordnungen nicht gehalten habt,
+ja nicht einmal nach den Rechtsordnungen der Völker rings um euch gehandelt habt,
+<sup>8</sup>darum spricht der Herr, der HERR:
+Siehe, ich, ja ich, bin gegen dich,
+und ich werde mitten in dir Gericht halten vor den Augen der Völker.
+<sup>9</sup>Ich werde an dir tun, was ich noch nie getan habe
+und wie ich nie wieder etwas tun werde,
+wegen all deiner Gräuel.
+<sup>10</sup>Darum werden Väter in deiner Mitte ihre Söhne essen,
+und Söhne werden ihre Väter essen.
+Ich werde Gericht an dir halten
+und deinen ganzen Rest in alle Winde zerstreuen.
+<sup>11</sup>Darum, so wahr ich lebe‘, spricht der Herr, der HERR,
+‚gewiss, weil du mein Heiligtum verunreinigt hast
+mit all deinen Scheusalen und mit all deinen Gräueln,
+darum werde auch ich dich verringern.
+Mein Auge wird nicht schonen,
+und ich werde kein Mitleid haben.
+<sup>12</sup>Ein Drittel von dir wird an der Pest sterben,
+und sie werden in deiner Mitte durch Hunger umkommen.
+Ein Drittel wird rings um dich durch das Schwert fallen.
+Ein Drittel werde ich in alle Winde zerstreuen,
+und ich werde hinter ihnen das Schwert ziehen.
+<sup>13</sup>So wird mein Zorn sich vollenden,
+und ich werde meinen Grimm an ihnen stillen,
+und ich werde mich trösten.
+Sie werden erkennen, dass ich, der HERR, in meinem Eifer geredet habe,
+wenn ich meinen Grimm an ihnen vollendet habe.
+<sup>14</sup>Außerdem werde ich dich zur Wüste machen
+und zur Schande unter den Völkern, die rings um dich her sind,
+vor den Augen aller, die vorübergehen.
+<sup>15</sup>So wird es eine Schande und ein Hohn sein,
+eine Warnung und ein Entsetzen
+für die Völker, die rings um dich her sind,
+wenn ich Gericht an dir halte in Zorn und Grimm
+und mit grimmigen Strafen
+– ich, der HERR, habe es gesagt –,
+<sup>16</sup>wenn ich die bösen Pfeile des Hungers gegen sie sende,
+die zum Verderben sind,
+die ich senden werde, um euch zu verderben.
+Ich werde den Hunger über euch vermehren
+und euren Stab des Brotes zerbrechen.
+<sup>17</sup>Ich werde Hunger und böse Tiere über euch senden,
+und sie werden dich kinderlos machen.
+Pest und Blut werden durch dich hindurchgehen.
+Ich werde das Schwert über dich bringen.
+Ich, der HERR, habe es gesagt.‘“
+
+> **Was bedeutet das?**
+> Vers 5: Jerusalem liegt „mitten unter den Völkern“. Es sollte ein Vorbild sein, ein Licht für die anderen Völker. Aber Jerusalem hat sich sogar schlimmer verhalten als die Nachbarn.
+> Vers 9–10: Diese Worte sind schrecklich. Bei langen Belagerungen kam es tatsächlich zu so furchtbarem Hunger, dass Menschen zu Kannibalen wurden (vgl. Klagelieder 2,20; 4,10). Hesekiel beschreibt die Katastrophe, die kommen wird, ohne etwas zu beschönigen.
+> Vers 11–13: Gott spricht hier sehr hart: „Ich werde kein Mitleid haben.“ Solche Worte zeigen, wie ernst Gott Unrecht nimmt. Sie stehen aber nicht allein: Später im Buch sagt Gott: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern dass er umkehrt und lebt“ (Hesekiel 18,23; 33,11).
+> Wichtig: Diese Texte beschreiben Gottes Gericht in einer bestimmten Situation. Sie geben niemandem das Recht, anderen Menschen Gewalt anzutun oder Leid als „Strafe Gottes“ zu deuten.
+> Vers 13: „Ich werde mich trösten“ – das WEB hat „I will be comforted“. Gemeint ist: Gottes Zorn kommt zur Ruhe.
+
+## Hesekiel – Kapitel 6
+#### Gegen die Berge Israels
+
+---
+
+### Die Höhenheiligtümer werden zerstört (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht auf die Berge Israels
+und weissage gegen sie
+<sup>3</sup>und sag:
+‚Ihr Berge Israels, hört das Wort des Herrn, des HERRN!
+So spricht der Herr, der HERR,
+zu den Bergen und zu den Hügeln,
+zu den Wasserläufen und zu den Tälern:
+„Siehe, ich, ja ich, bringe das Schwert über euch,
+und ich werde eure Höhenheiligtümer zerstören.
+<sup>4</sup>Eure Altäre werden verwüstet,
+und eure Räucheraltäre werden zerbrochen.
+Ich werde eure Erschlagenen vor eure Götzen hinwerfen.
+<sup>5</sup>Ich werde die Leichen der Kinder Israel vor ihre Götzen legen.
+Ich werde eure Knochen rings um eure Altäre zerstreuen.
+<sup>6</sup>An allen euren Wohnorten
+werden die Städte verwüstet
+und die Höhenheiligtümer verödet sein,
+damit eure Altäre verwüstet und verödet werden,
+eure Götzen zerbrochen werden und aufhören,
+eure Räucheraltäre umgehauen werden
+und eure Machwerke ausgelöscht werden.
+<sup>7</sup>Die Erschlagenen werden in eurer Mitte fallen,
+und ihr werdet erkennen, dass ich der HERR bin.
+
+> **Was bedeutet das?**
+> Auf den Bergen und Hügeln Israels gab es viele „Höhenheiligtümer“. Dort wurden fremde Götter verehrt, oft auch der HERR vermischt mit fremden Bräuchen.
+> Gott kündigt an: Diese Orte werden zerstört. Die Götzen, denen die Menschen vertraut haben, können sie nicht retten. Die Leichen liegen vor den Götzen, die nichts tun können.
+> Vers 7: „Ihr werdet erkennen, dass ich der HERR bin.“ Dieser Satz kommt im Buch Hesekiel über 60 Mal vor. Er ist das Ziel von allem: Die Menschen sollen erkennen, wer Gott wirklich ist.
+
+---
+
+### Ein Rest wird sich erinnern (Vers 8–10)
+
+<sup>8</sup>Doch ich werde einen Rest übrig lassen:
+Ihr werdet einige haben, die dem Schwert entkommen unter den Völkern,
+wenn ihr in die Länder zerstreut seid.
+<sup>9</sup>Die von euch entkommen sind,
+werden sich an mich erinnern unter den Völkern,
+wohin sie gefangen weggeführt werden,
+wie ich zerbrochen bin an ihrem untreuen Herzen,
+das von mir abgewichen ist,
+und an ihren Augen, die ihren Götzen nachgehurt haben.
+Dann werden sie sich vor sich selbst ekeln
+wegen der Bosheiten, die sie mit all ihren Gräueln begangen haben.
+<sup>10</sup>Sie werden erkennen, dass ich der HERR bin.
+Nicht umsonst habe ich gesagt,
+dass ich ihnen dieses Unheil antun würde.“‘
+
+> **Was bedeutet das?**
+> Mitten im Gericht kommt Hoffnung: Ein Rest wird überleben. Im Exil werden sie sich an Gott erinnern.
+> Vers 9: Ein berührender Satz: Gott sagt „ich bin zerbrochen“ an ihrem untreuen Herzen. Gott ist nicht kalt und gefühllos. Die Untreue seines Volkes tut ihm weh, wie einem Menschen, dessen Liebe verraten wurde.
+> Das Bild vom „Nachhuren“ beschreibt Untreue gegenüber Gott, so wie Ehebruch. Es ist ein Bild für die Beziehung zwischen Gott und seinem Volk. Es sagt nichts Abwertendes über Frauen oder über Menschen in der Prostitution.
+> „Sich vor sich selbst ekeln“ meint: ehrlich erkennen, was man falsch gemacht hat. Das ist der erste Schritt zur Umkehr. Es geht aber nicht darum, sich dauerhaft selbst zu hassen. Gott will, dass Menschen umkehren und leben.
+
+---
+
+### Klage über Israel (Vers 11–14)
+
+<sup>11</sup>So spricht der Herr, der HERR:
+‚Schlag in deine Hände und stampfe mit deinem Fuß
+und sag: „Wehe!“,
+wegen all der bösen Gräuel des Hauses Israel.
+Denn sie werden durch das Schwert, durch den Hunger und durch die Pest fallen.
+<sup>12</sup>Wer fern ist, wird an der Pest sterben.
+Wer nahe ist, wird durch das Schwert fallen.
+Wer übrig bleibt und belagert ist, wird durch den Hunger sterben.
+So werde ich meinen Grimm an ihnen vollenden.
+<sup>13</sup>Ihr werdet erkennen, dass ich der HERR bin,
+wenn ihre Erschlagenen unter ihren Götzen liegen,
+rings um ihre Altäre,
+auf jedem hohen Hügel, auf allen Gipfeln der Berge,
+unter jedem grünen Baum und unter jeder dichten Eiche,
+an den Orten, wo sie all ihren Götzen lieblichen Duft dargebracht haben.
+<sup>14</sup>Ich werde meine Hand gegen sie ausstrecken
+und das Land öde und wüst machen,
+von der Wüste bis nach Dibla,
+in all ihren Wohnorten.
+Dann werden sie erkennen, dass ich der HERR bin.‘“
+
+> **Was bedeutet das?**
+> Vers 11: Hesekiel soll in die Hände klatschen und mit dem Fuß stampfen. Das sind Gesten der Klage und des Entsetzens.
+> Vers 12: Niemand kann entkommen, weder in der Ferne noch in der Nähe noch in der belagerten Stadt.
+> Vers 13: „Unter jedem grünen Baum“: Unter schattigen Bäumen auf Hügeln wurden oft fremde Götter verehrt (vgl. 5. Mose 12,2; Jeremia 2,20).
+> Vers 14: „Dibla“ ist ein unbekannter Ort. Viele Forscher vermuten, dass „Ribla“ gemeint ist, eine Stadt ganz im Norden. Die hebräischen Buchstaben für d und r sehen sehr ähnlich aus. Dann würde gemeint sein: von der Wüste im Süden bis Ribla im Norden, also das ganze Land.
+> Diese Kapitel sind schwer zu lesen. Sie zeigen die Katastrophe, die über Jerusalem kam. Wenn dich Bilder von Krieg und Gewalt belasten, kannst du mit jemandem darüber reden, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 (kostenlos, rund um die Uhr).
