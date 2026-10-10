@@ -112501,3 +112501,340 @@ seit den Tagen der Vorzeit.
 > **Ein vergebender Gott:** „Wer ist ein Gott wie du, der Schuld vergibt? … Du wirst alle ihre Sünden in die Tiefen des Meeres werfen“ (7,18–19).
 > **Für heute:** Micha 6,8 ist ein Maßstab für jeden Tag: Handle ich gerecht? Bin ich barmherzig? Lebe ich demütig mit Gott?
 > **Wie geht es weiter?** Als Nächstes kommt Nahum. Er kündigt den Untergang von Ninive an, etwa 100 Jahre nach Jona. Diesmal kehrt die Stadt nicht um.
+
+
+---
+
+# Nahum
+
+## Nahum – Kapitel 1
+#### Gott ist eine Burg in der Not
+
+---
+
+### Bevor es losgeht: Wer war Nahum?
+
+Nahum kam aus Elkosch. Wo dieser Ort lag, wissen wir nicht genau. Sein Name bedeutet „Trost“.
+Das ganze Buch handelt vom Untergang Ninives, der Hauptstadt Assyriens. Etwa 100 Jahre früher hatte Ninive auf die Predigt Jonas hin umgekehrt. Aber danach wurde Assyrien zur grausamsten Weltmacht der damaligen Zeit. Es zerstörte das Nordreich Israel (722 vor Christus), verwüstete Juda und belagerte Jerusalem (701 vor Christus). Die Assyrer prahlten in ihren eigenen Inschriften damit, wie brutal sie ihre Feinde behandelten.
+Nahum lebte wahrscheinlich zwischen 663 vor Christus (Eroberung der ägyptischen Stadt Theben, die er in 3,8 erwähnt) und 612 vor Christus. In diesem Jahr wurde Ninive von den Babyloniern und Medern erobert und zerstört.
+Für die Menschen, die unter Assyrien gelitten hatten, war Nahums Botschaft ein Trost: Die Gewaltherrschaft hat ein Ende. Gott sieht das Unrecht.
+Ein Wort vorweg: Das Buch enthält harte Kriegsbilder und Worte, die schwer zu lesen sind. Es ist die Stimme unterdrückter Menschen, die sich nach Gerechtigkeit sehnen. Es ist kein Aufruf zu Rache durch Menschen. Und es steht in der Bibel neben dem Buch Jona, das zeigt: Gott hat auch mit Ninive Mitleid und gibt jedem Volk die Chance zur Umkehr. Das Buch hat 3 Kapitel.
+
+---
+
+### Gott ist eifersüchtig und mächtig (Vers 1–6)
+
+<sup>1</sup>Ein Ausspruch über Ninive.
+Das Buch der Vision Nahums aus Elkosch.
+<sup>2</sup>Der HERR ist ein eifernder Gott und ein Rächer.
+Der HERR rächt und ist voller Grimm.
+Der HERR übt Rache an seinen Gegnern,
+und er bewahrt den Zorn für seine Feinde.
+<sup>3</sup>Der HERR ist langsam zum Zorn und groß an Kraft,
+und er lässt den Schuldigen keineswegs ungestraft.
+Der HERR hat seinen Weg im Wirbelwind und im Sturm,
+und die Wolken sind der Staub seiner Füße.
+<sup>4</sup>Er bedroht das Meer und trocknet es aus,
+und alle Flüsse lässt er versiegen.
+Baschan und Karmel verwelken,
+und die Blüte des Libanon verwelkt.
+<sup>5</sup>Die Berge beben vor ihm,
+und die Hügel zerfließen.
+Die Erde erzittert vor seinem Angesicht,
+ja, die Welt und alle, die darin wohnen.
+<sup>6</sup>Wer kann vor seinem Grimm bestehen?
+Wer kann die Glut seines Zorns ertragen?
+Sein Zorn ergießt sich wie Feuer,
+und die Felsen werden von ihm zerbrochen.
+
+> **Was bedeutet das?**
+> Vers 2: „Eifernd“ bedeutet hier: Gott ist nicht gleichgültig. Er kämpft leidenschaftlich für sein Volk und für das Recht. „Rache“ meint in der Bibel nicht persönliche Vergeltung aus Wut, sondern dass Gott Unrecht nicht ungestraft lässt und den Opfern Recht verschafft.
+> Vers 3: „Langsam zum Zorn“: Gott hat lange Geduld gehabt mit Ninive, über 100 Jahre seit Jona. Aber Geduld heißt nicht, dass Unrecht für immer ungestraft bleibt.
+> Vers 4–6: Gottes Macht ist so groß, dass die ganze Natur vor ihm zittert. Baschan, Karmel und Libanon waren für ihre Fruchtbarkeit bekannt. Wer könnte vor so einem Gott bestehen?
+> In der hebräischen Sprache ist Kapitel 1 (Vers 2–8) teilweise ein Alphabet-Gedicht: Viele Zeilen beginnen der Reihe nach mit den Buchstaben des Alphabets.
+
+---
+
+### Gut zu denen, die ihm vertrauen (Vers 7–11)
+
+<sup>7</sup>Der HERR ist gut,
+eine Festung am Tag der Not,
+und er kennt die, die bei ihm Zuflucht suchen.
+<sup>8</sup>Aber mit einer überströmenden Flut
+wird er ihrem Ort ein Ende machen
+und seine Feinde in die Finsternis verfolgen.
+<sup>9</sup>Was plant ihr gegen den HERRN?
+Er macht ein Ende.
+Die Not wird sich nicht ein zweites Mal erheben.
+<sup>10</sup>Denn verschlungen wie Dornen
+und betrunken wie von ihrem Trank
+werden sie völlig verzehrt wie trockene Stoppeln.
+<sup>11</sup>Aus dir ist einer hervorgegangen,
+der Böses gegen den HERRN plant,
+der Bosheit rät.
+
+> **Was bedeutet das?**
+> Vers 7: Mitten in den Worten über Gottes Zorn ein wunderbarer Satz: „Der HERR ist gut, eine Festung am Tag der Not.“ Gottes Macht ist für die Unterdrückten ein Schutz. Wer bei ihm Zuflucht sucht, den kennt er.
+> Vers 8: „Ihr Ort“ ist Ninive. Die „Flut“ kann bildlich gemeint sein. Es gibt aber auch alte Berichte, nach denen bei der Eroberung Ninives Wasser eine Rolle spielte (vgl. 2,6).
+> Vers 11: Gemeint ist wahrscheinlich ein assyrischer König, der Böses gegen Gott und sein Volk plante, vielleicht Sanherib, der Jerusalem belagert hatte (2. Könige 18–19).
+
+---
+
+### Das Joch wird zerbrochen (Vers 12–15)
+
+<sup>12</sup>So spricht der HERR:
+„Auch wenn sie unversehrt und noch so zahlreich sind,
+so werden sie doch abgehauen werden und vergehen.
+Ich habe dich gedemütigt,
+aber ich werde dich nicht mehr demütigen.
+<sup>13</sup>Jetzt werde ich sein Joch von dir zerbrechen
+und deine Fesseln zerreißen.“
+<sup>14</sup>Der HERR hat über dich geboten:
+„Dein Name soll keine Nachkommen mehr haben.
+Aus dem Haus deiner Götter werde ich
+das geschnitzte und das gegossene Bild ausrotten.
+Ich werde dir dein Grab bereiten,
+denn du bist verächtlich.“
+<sup>15</sup>Siehe, auf den Bergen die Füße des Freudenboten,
+der Frieden verkündet!
+Feiere deine Feste, Juda!
+Erfülle deine Gelübde!
+Denn der Böse wird nicht mehr durch dich ziehen.
+Er ist völlig ausgerottet.
+
+> **Was bedeutet das?**
+> Vers 12–13: Gott spricht zu Juda: Ich habe zugelassen, dass Assyrien dich unterdrückt. Aber jetzt ist Schluss. Ich zerbreche das Joch und zerreiße die Fesseln. Juda musste viele Jahre lang Tribut an Assyrien zahlen.
+> Vers 14: Jetzt spricht Gott zum König von Assyrien: Dein Königshaus wird keine Zukunft haben, deine Götter können dir nicht helfen.
+> Vers 15: Ein Freudenbote läuft über die Berge und bringt die gute Nachricht: Frieden! Der Unterdrücker ist besiegt. Fast dieselben Worte stehen in Jesaja 52,7. Paulus zitiert sie im Römerbrief für die Boten des Evangeliums (Römer 10,15).
+> In deutschen Bibeln ist dieser Vers meistens Kapitel 2, Vers 1. Darum sind die Verse in Kapitel 2 dort um eins verschoben.
+
+## Nahum – Kapitel 2
+#### Der Fall Ninives
+
+---
+
+### Der Angriff auf Ninive (Vers 1–5)
+
+<sup>1</sup>Der Zerschmetterer ist gegen dich heraufgezogen.
+Bewache die Festung!
+Beobachte den Weg!
+Mach deine Hüften stark!
+Stärke deine Kraft gewaltig!
+<sup>2</sup>Denn der HERR stellt die Pracht Jakobs wieder her
+wie die Pracht Israels.
+Denn Verwüster haben sie verwüstet
+und ihre Weinranken zerstört.
+<sup>3</sup>Der Schild seiner Helden ist rot gefärbt.
+Die tapferen Männer sind in Scharlach gekleidet.
+Die Wagen blitzen von Stahl
+am Tag, an dem er rüstet,
+und die Lanzen aus Zypressenholz werden geschwungen.
+<sup>4</sup>Die Wagen rasen durch die Straßen.
+Sie rennen hin und her auf den Plätzen.
+Sie sehen aus wie Fackeln.
+Sie fahren dahin wie Blitze.
+<sup>5</sup>Er ruft seine auserwählten Truppen herbei.
+Sie stolpern auf ihrem Weg.
+Sie eilen zu ihrer Mauer,
+und das Schutzdach wird aufgestellt.
+
+> **Was bedeutet das?**
+> In deutschen Bibeln sind die Verse dieses Kapitels meistens um eins verschoben (dort Vers 2–14).
+> Vers 1: Mit Spott ruft Nahum Ninive zu: Mach dich bereit zur Verteidigung! Es wird dir nichts nützen.
+> Vers 2: Der Grund für das Ganze: Gott will sein Volk wiederherstellen, das von den Assyrern verwüstet wurde.
+> Vers 3–5: Eine lebendige Beschreibung des Angriffs: rote Schilde, Soldaten in Scharlach, blitzende Streitwagen, die wie Fackeln durch die Straßen rasen. Das „Schutzdach“ war eine Art Schild für Soldaten, die eine Mauer angriffen.
+
+---
+
+### Die Stadt fällt (Vers 6–10)
+
+<sup>6</sup>Die Tore der Flüsse werden geöffnet,
+und der Palast zerfließt.
+<sup>7</sup>Es ist beschlossen:
+Sie wird entblößt, sie wird weggeführt.
+Und ihre Mägde stöhnen wie Tauben
+und schlagen sich an die Brust.
+<sup>8</sup>Ninive war seit alter Zeit wie ein Wasserteich,
+doch jetzt fliehen sie.
+„Halt! Halt!“, ruft man,
+aber keiner schaut sich um.
+<sup>9</sup>Raubt Silber!
+Raubt Gold!
+Denn die Schätze nehmen kein Ende,
+eine Fülle von allerlei Kostbarkeiten.
+<sup>10</sup>Sie ist leer, öde und verwüstet.
+Das Herz verzagt, die Knie schlottern,
+alle Hüften zittern,
+und alle Gesichter werden bleich.
+
+> **Was bedeutet das?**
+> Vers 6: Ninive lag am Fluss Tigris und hatte Kanäle und Schleusen. Wenn die „Tore der Flüsse“ geöffnet werden, flutet das Wasser die Stadt. Ein antiker Geschichtsschreiber berichtet von einer Überschwemmung, die bei der Eroberung half. Ob es genau so war, ist unter Historikern umstritten.
+> Vers 7: Die Stadt wird wie eine Frau beschrieben, die „entblößt“ und weggeführt wird. Das ist ein Bild für die Demütigung einer eroberten Stadt. Die Frauen und Mägde trauern und klagen. Im Krieg leiden Frauen besonders. Das ist Unrecht, wer auch immer die Täter sind.
+> Vers 8: Ninive war wie ein großer Teich, in dem sich Reichtum und Menschen aus aller Welt sammelten. Jetzt läuft alles aus wie Wasser aus einem kaputten Becken. Alle fliehen.
+> Vers 9: Die Schätze, die Assyrien anderen Völkern geraubt hatte, werden jetzt selbst geraubt.
+
+---
+
+### Wo ist die Höhle der Löwen? (Vers 11–13)
+
+<sup>11</sup>Wo ist nun die Höhle der Löwen
+und der Futterplatz der jungen Löwen,
+wo der Löwe und die Löwin umhergingen
+mit dem Löwenjungen,
+und niemand schreckte sie auf?
+<sup>12</sup>Der Löwe riss genug für seine Jungen
+und würgte Beute für seine Löwinnen.
+Er füllte seine Höhlen mit Raub
+und seine Lager mit Beute.
+<sup>13</sup>„Siehe, ich bin gegen dich“,
+spricht der HERR der Heere,
+„und ich werde ihre Wagen in Rauch aufgehen lassen,
+und das Schwert wird deine jungen Löwen fressen.
+Ich werde deine Beute von der Erde ausrotten,
+und die Stimme deiner Boten wird nicht mehr gehört werden.“
+
+> **Was bedeutet das?**
+> Der Löwe war das Symbol der assyrischen Könige. Sie ließen sich gern bei der Löwenjagd darstellen.
+> Ninive war wie eine Löwenhöhle: Die Könige raubten die anderen Völker aus und füllten ihre Paläste mit Beute. Niemand konnte sie stoppen.
+> Vers 13: Aber jetzt sagt Gott: „Ich bin gegen dich.“ Die Höhle wird leer sein. Die „Boten“ Assyriens, die anderen Völkern Drohungen und Befehle überbrachten (vgl. 2. Könige 18,17–35), werden verstummen.
+
+## Nahum – Kapitel 3
+#### Wehe der Stadt voller Blut
+
+---
+
+### Die blutige Stadt (Vers 1–4)
+
+<sup>1</sup>Wehe der blutigen Stadt!
+Sie ist ganz voll Lüge und Raub.
+Das Beutemachen hört nicht auf.
+<sup>2</sup>Knall der Peitsche!
+Lärm der rasselnden Räder!
+Jagende Pferde
+und hüpfende Wagen!
+<sup>3</sup>Der Reiter stürmt heran,
+blitzendes Schwert,
+funkelnder Speer,
+eine Menge Erschlagener
+und ein großer Haufen von Leichen.
+Die Toten nehmen kein Ende.
+Man stolpert über ihre Leichen,
+<sup>4</sup>wegen der vielen Hurereien der anmutigen Hure,
+der Meisterin der Zauberei,
+die Völker durch ihre Hurerei verkauft
+und Sippen durch ihre Zaubereien.
+
+> **Was bedeutet das?**
+> Vers 1: Ninive wird „die blutige Stadt“ genannt. Assyrien hatte seine Macht durch Gewalt, Lügen und Raub aufgebaut.
+> Vers 2–3: In kurzen, abgehackten Sätzen hört man förmlich den Lärm der Schlacht. Am Ende liegen überall Tote. Krieg ist grausam, für alle Seiten.
+> Vers 4: Ninive wird mit einer Prostituierten und Zauberin verglichen. Das Bild meint: Assyrien hat andere Völker verführt und betrogen, mit Verlockungen, falschen Versprechungen und politischen Tricks, um sie dann auszubeuten und zu „verkaufen“. Es ist ein Bild für eine Weltmacht, keine Aussage über Frauen.
+
+---
+
+### Gottes Urteil über Ninive (Vers 5–7)
+
+<sup>5</sup>„Siehe, ich bin gegen dich“,
+spricht der HERR der Heere,
+„und ich werde deine Säume über dein Gesicht heben.
+Ich werde den Völkern deine Blöße zeigen
+und den Königreichen deine Schande.
+<sup>6</sup>Ich werde Unrat auf dich werfen
+und dich verächtlich machen
+und dich zur Schau stellen.
+<sup>7</sup>Und es wird geschehen:
+Alle, die dich sehen, werden vor dir fliehen
+und sagen: ‚Ninive ist verwüstet!
+Wer wird um sie trauern?‘
+Wo soll ich Tröster für dich suchen?“
+
+> **Was bedeutet das?**
+> Vers 5–6: Diese Verse sind schwer zu lesen. Sie benutzen das Bild der öffentlichen Bloßstellung einer Frau. Damit wird die Demütigung der stolzen Stadt Ninive beschrieben. Ninive hatte andere Völker gedemütigt, jetzt wird es selbst gedemütigt.
+> Wichtig: Das ist ein Bild für das Ende einer Gewaltherrschaft. Es ist keine Rechtfertigung für Gewalt gegen Frauen. Sexuelle Gewalt und öffentliche Demütigung sind immer Unrecht. Wer so etwas erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, oder beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530.
+> Vers 7: „Wer wird um sie trauern?“ Niemand wird um Ninive weinen, weil die Stadt so viel Leid über andere gebracht hatte. Ein trauriges Ende: Eine Stadt, für die niemand Trost sucht.
+
+---
+
+### Wie Theben (Vers 8–13)
+
+<sup>8</sup>Bist du besser als No-Amon,
+die an den Strömen lag,
+die Wasser rings um sich hatte,
+deren Bollwerk das Meer war
+und deren Mauer aus Meer bestand?
+<sup>9</sup>Kusch und Ägypten waren ihre grenzenlose Stärke.
+Put und Libyen waren ihre Helfer.
+<sup>10</sup>Doch auch sie wurde weggeführt.
+Sie ging in die Gefangenschaft.
+Auch ihre kleinen Kinder wurden an allen Straßenecken zerschmettert.
+Über ihre Vornehmen warf man das Los,
+und alle ihre Großen wurden in Ketten gelegt.
+<sup>11</sup>Auch du wirst betrunken werden.
+Du wirst dich verstecken.
+Auch du wirst eine Zuflucht vor dem Feind suchen.
+<sup>12</sup>Alle deine Festungen werden wie Feigenbäume mit Frühfeigen sein:
+Wenn man sie schüttelt,
+fallen sie dem in den Mund, der sie essen will.
+<sup>13</sup>Siehe, deine Truppen in deiner Mitte sind wie Frauen.
+Die Tore deines Landes stehen deinen Feinden weit offen.
+Das Feuer hat deine Riegel verzehrt.
+
+> **Was bedeutet das?**
+> Vers 8–10: No-Amon ist die ägyptische Stadt Theben. Sie lag am Nil, war von Wasser umgeben und hatte mächtige Verbündete: Kusch (WEB: „Cush“, südlich von Ägypten), Put und Libyen. Trotzdem wurde sie im Jahr 663 vor Christus erobert, ausgerechnet von den Assyrern!
+> Nahum sagt zu Ninive: Was du Theben angetan hast, wird jetzt dir geschehen.
+> Vers 10: Ein grausames Detail: Kleine Kinder wurden getötet. So handelten Eroberer damals oft, auch die Assyrer selbst. Die Bibel berichtet diese Grausamkeit, damit wir sehen, wie schrecklich Krieg ist. Sie heißt sie nicht gut.
+> Vers 12: Wie reife Feigen, die einem beim Schütteln direkt in den Mund fallen, so leicht werden die Festungen fallen.
+> Vers 13: „Deine Truppen sind wie Frauen“: Das ist eine alte Redeweise aus einer Zeit, in der Frauen nicht kämpfen durften und als schwach galten. Gemeint ist: Die Soldaten werden den Mut verlieren und nicht kämpfen können. Es ist keine Aussage darüber, wie Frauen wirklich sind.
+
+---
+
+### Alle Vorbereitungen sind vergeblich (Vers 14–19)
+
+<sup>14</sup>Schöpfe dir Wasser für die Belagerung!
+Verstärke deine Festungen!
+Geh in den Lehm
+und tritt den Mörtel!
+Mach den Ziegelofen stark!
+<sup>15</sup>Dort wird das Feuer dich fressen.
+Das Schwert wird dich ausrotten.
+Es wird dich fressen wie die Heuschrecke.
+Vermehre dich wie die Heuschrecken!
+Vermehre dich wie die Wanderheuschrecken!
+<sup>16</sup>Du hast deine Händler zahlreicher gemacht
+als die Sterne am Himmel.
+Die Heuschrecke häutet sich und fliegt davon.
+<sup>17</sup>Deine Wachen sind wie die Heuschrecken
+und deine Beamten wie Heuschreckenschwärme,
+die sich an einem kalten Tag an den Mauern niederlassen.
+Aber wenn die Sonne aufgeht, fliegen sie davon,
+und man weiß nicht, wo sie geblieben sind.
+<sup>18</sup>Deine Hirten schlafen, König von Assur.
+Deine Edlen liegen da.
+Dein Volk ist auf den Bergen zerstreut,
+und niemand sammelt es.
+<sup>19</sup>Deine Wunde ist nicht zu heilen,
+deine Verletzung ist tödlich.
+Alle, die die Nachricht über dich hören,
+klatschen über dich in die Hände.
+Denn über wen ist deine Bosheit nicht ständig hergegangen?
+
+> **Was bedeutet das?**
+> Vers 14: Mit Spott: Bereite dich auf die Belagerung vor! Sammle Wasser, stell Ziegel her, verstärke die Mauern! Es wird nichts nützen.
+> Vers 15–17: Bilder von Heuschrecken: Assyrien hatte unzählige Händler, Wachen und Beamte, so viele wie Heuschrecken. Aber wie Heuschrecken, die bei Sonnenaufgang davonfliegen, werden sie alle verschwinden, wenn die Gefahr kommt.
+> Vers 18: Die Anführer („Hirten“) schlafen, das heißt: Sie sind tot oder unfähig. Das Volk ist zerstreut wie Schafe ohne Hirten.
+> Vers 19: Das letzte Wort des Buches ist eine Frage: „Über wen ist deine Bosheit nicht ständig hergegangen?“ Alle Völker hatten unter Assyrien gelitten. Darum klatschen sie, als sie vom Ende hören.
+> Das Buch Jona endet auch mit einer Frage über Ninive: „Sollte es mir nicht leidtun um Ninive?“ (Jona 4,11). Beide Bücher zusammen zeigen: Gott ist barmherzig und gibt Chancen zur Umkehr. Aber wenn ein Reich immer weiter Gewalt übt, hat es keinen Bestand.
+
+---
+
+### Rückblick: Was haben wir im Buch Nahum gelesen?
+
+> **Was bedeutet das?**
+> **Das Ende einer Gewaltherrschaft:** Nahum kündigt den Untergang Ninives an, der Hauptstadt des grausamen Assyrischen Reiches. Im Jahr 612 vor Christus wurde die Stadt tatsächlich zerstört.
+> **Gott ist geduldig, aber nicht gleichgültig:** „Der HERR ist langsam zum Zorn … aber er lässt den Schuldigen nicht ungestraft“ (1,3).
+> **Eine Festung in der Not:** „Der HERR ist gut, eine Festung am Tag der Not“ (1,7).
+> **Befreiung:** „Ich werde sein Joch von dir zerbrechen und deine Fesseln zerreißen“ (1,13).
+> **Der Freudenbote:** „Siehe, auf den Bergen die Füße des Freudenboten, der Frieden verkündet!“ (1,15).
+> **Gewalt hat keinen Bestand:** Die „blutige Stadt“, die andere ausgeraubt hat, wird selbst ausgeraubt.
+> **Jona und Nahum zusammen:** Jona zeigt Gottes Barmherzigkeit für Ninive, Nahum zeigt Gottes Gerechtigkeit. Beides gehört zusammen.
+> **Für heute:** Kein Gewaltherrscher bleibt für immer. Für Menschen, die unter Unterdrückung leiden, ist Nahum ein Trost: Gott sieht das Unrecht. Gleichzeitig mahnt das Buch: Rache ist Gottes Sache, nicht unsere.
+> **Wie geht es weiter?** Als Nächstes kommt Habakuk. Er stellt Gott die große Frage: Warum lässt du das Unrecht zu? Und er lernt: „Der Gerechte wird durch seinen Glauben leben“ (Habakuk 2,4).

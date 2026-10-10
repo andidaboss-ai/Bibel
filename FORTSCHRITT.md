@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 900 von 1189 Kapiteln (75.7 %), 22685 von 31098 Versen.**
+**Gesamt: 903 von 1189 Kapiteln (75.9 %), 22732 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 31 | Obadja | AT | 1 / 1 | fertig |
 | 32 | Jona | AT | 4 / 4 | fertig |
 | 33 | Micha | AT | 7 / 7 | fertig |
-| 34 | Nahum | AT | 0 / 3 | – |
+| 34 | Nahum | AT | 3 / 3 | fertig |
 | 35 | Habakuk | AT | 0 / 3 | – |
 | 36 | Zefanja | AT | 0 / 3 | – |
 | 37 | Haggai | AT | 0 / 2 | – |
