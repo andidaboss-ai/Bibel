@@ -9,7 +9,7 @@ Micha kam aus Moreschet, einem kleinen Ort im Hügelland von Juda, südwestlich 
 Sein Name bedeutet: „Wer ist wie der HERR?“ Am Ende des Buches spielt er darauf an (7,18).
 Micha war ein Mann vom Land. Er sah, wie reiche Großgrundbesitzer den Bauern ihre Felder wegnahmen und wie Richter, Priester und Propheten sich bestechen ließen. Wie Amos kämpft er für soziale Gerechtigkeit.
 Er kündigt den Untergang von Samaria (der Hauptstadt des Nordreichs) und sogar von Jerusalem an. Hundert Jahre später erinnerte man sich noch an seine Worte (Jeremia 26,18).
-Aber Micha bringt auch große Hoffnung: Frieden für die Völker, wenn Schwerter zu Pflugscharen werden (4,3), und einen neuen Herrscher aus Bethlehem (5,2).
+Aber Micha bringt auch große Hoffnung: Frieden für die Völker, wenn Schwerter zu Pflugscharen werden (4,3), und einen neuen Herrscher aus Bethlehem (5,2; in deutschen Bibeln 5,1).
 Am bekanntesten ist sein Satz: „Es ist dir gesagt, Mensch, was gut ist … Recht tun, Güte lieben und demütig gehen mit deinem Gott“ (6,8). Das Buch hat 7 Kapitel.
 
 ---

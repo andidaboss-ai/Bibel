@@ -111754,7 +111754,7 @@ und dazu viele Tiere?“
 > **Gott liebt alle Menschen:** „Sollte es mir nicht leidtun um Ninive, die große Stadt?“ (4,11). Gottes Liebe gilt allen Völkern, sogar den Feinden.
 > **Jona und Jesus:** Jesus spricht vom „Zeichen des Jona“: Wie Jona drei Tage im Fisch war, wird er drei Tage im Grab sein (Matthäus 12,39–41).
 > **Für heute:** Wem gönne ich Gottes Gnade nicht? Wo laufe ich vor dem davon, was Gott von mir will? Und: Gott gibt zweite Chancen, auch mir.
-> **Wie geht es weiter?** Als Nächstes kommt Micha. Er lebte zur Zeit Jesajas und trat für die Armen ein. Von ihm stammt der berühmte Satz: „Es ist dir gesagt, Mensch, was gut ist“ (Micha 6,8). Und er kündigt an, dass aus Bethlehem ein Herrscher kommen wird (Micha 5,2).
+> **Wie geht es weiter?** Als Nächstes kommt Micha. Er lebte zur Zeit Jesajas und trat für die Armen ein. Von ihm stammt der berühmte Satz: „Es ist dir gesagt, Mensch, was gut ist“ (Micha 6,8). Und er kündigt an, dass aus Bethlehem ein Herrscher kommen wird (Micha 5,2; in deutschen Bibeln 5,1).
 
 
 ---
@@ -111772,7 +111772,7 @@ Micha kam aus Moreschet, einem kleinen Ort im Hügelland von Juda, südwestlich 
 Sein Name bedeutet: „Wer ist wie der HERR?“ Am Ende des Buches spielt er darauf an (7,18).
 Micha war ein Mann vom Land. Er sah, wie reiche Großgrundbesitzer den Bauern ihre Felder wegnahmen und wie Richter, Priester und Propheten sich bestechen ließen. Wie Amos kämpft er für soziale Gerechtigkeit.
 Er kündigt den Untergang von Samaria (der Hauptstadt des Nordreichs) und sogar von Jerusalem an. Hundert Jahre später erinnerte man sich noch an seine Worte (Jeremia 26,18).
-Aber Micha bringt auch große Hoffnung: Frieden für die Völker, wenn Schwerter zu Pflugscharen werden (4,3), und einen neuen Herrscher aus Bethlehem (5,2).
+Aber Micha bringt auch große Hoffnung: Frieden für die Völker, wenn Schwerter zu Pflugscharen werden (4,3), und einen neuen Herrscher aus Bethlehem (5,2; in deutschen Bibeln 5,1).
 Am bekanntesten ist sein Satz: „Es ist dir gesagt, Mensch, was gut ist … Recht tun, Güte lieben und demütig gehen mit deinem Gott“ (6,8). Das Buch hat 7 Kapitel.
 
 ---
