@@ -115844,7 +115844,7 @@ und fragte sie, wo der Christus geboren werden sollte.
 „In Bethlehem in Judäa,
 denn so ist es durch den Propheten geschrieben:
 <sup>6</sup>‚Und du, Bethlehem, Land Juda,
-bist keineswegs die geringste unter den Fürstenstädten Judas.
+bist keineswegs die geringste unter den Fürsten Judas.
 Denn aus dir wird ein Herrscher hervorgehen,
 der mein Volk Israel weiden wird.‘“
 <sup>7</sup>Da rief Herodes die Weisen heimlich zu sich
@@ -115922,7 +115922,7 @@ damit erfüllt würde, was der Herr durch den Propheten gesagt hat:
 
 <sup>16</sup>Als Herodes sah, dass er von den Weisen getäuscht worden war,
 wurde er sehr zornig.
-Er schickte Soldaten aus und ließ alle Jungen töten,
+Er sandte Leute aus und ließ alle Jungen töten,
 die in Bethlehem und in der ganzen Umgebung waren,
 von zwei Jahren und darunter,
 nach der Zeit, die er von den Weisen genau erfahren hatte.
