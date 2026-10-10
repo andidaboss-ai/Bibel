@@ -3190,6 +3190,414 @@
      "erklaerung": "Hinweis: In deutschen Bibeln stehen diese Verse meist als Kapitel 21, Vers 1–5. Wir folgen hier der Zählung des WEB.\nDer „Süden“ ist von Babylon aus gesehen Juda und Jerusalem (man kam von Norden her ins Land). Ein Waldbrand wird alles verbrennen, grüne und dürre Bäume, also Gerechte und Ungerechte. In Kapitel 21 wird das Bild erklärt.\nVers 49: Hesekiel klagt: Die Leute nehmen ihn nicht ernst. „Der erzählt doch nur Geschichten.“ Man kann Gottes Wort als bloße Unterhaltung abtun, aber dann verpasst man seine ernste Botschaft."
     }
    ]
+  },
+  {
+   "kapitel": 21,
+   "titel": "Das Schwert des HERRN",
+   "abschnitte": [
+    {
+     "ueberschrift": "Das Schwert ist gezogen",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Das Wort des HERRN kam zu mir:",
+       "englisch_web": "Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Menschensohn, richte dein Gesicht auf Jerusalem,\npredige gegen die Heiligtümer\nund weissage gegen das Land Israel.",
+       "englisch_web": "“Son of man, set your face toward Jerusalem, and preach toward the sanctuaries, and prophesy against the land of Israel."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sag zum Land Israel:\n‚So spricht der HERR:\n„Siehe, ich bin gegen dich,\nund ich werde mein Schwert aus seiner Scheide ziehen\nund aus dir den Gerechten und den Gottlosen ausrotten.",
+       "englisch_web": "Tell the land of Israel, ‘Yahweh says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Weil ich aus dir den Gerechten und den Gottlosen ausrotten werde,\ndarum wird mein Schwert aus seiner Scheide fahren\ngegen alles Fleisch vom Süden bis zum Norden.",
+       "englisch_web": "Seeing then that I will cut off from you the righteous and the wicked, therefore my sword will go out of its sheath against all flesh from the south to the north."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Alles Fleisch wird erkennen,\ndass ich, der HERR, mein Schwert aus seiner Scheide gezogen habe.\nEs wird nicht mehr zurückkehren.“‘",
+       "englisch_web": "All flesh will know that I, Yahweh, have drawn my sword out of its sheath. It will not return any more.”’"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Darum seufze du, Menschensohn!\nSeufze vor ihren Augen mit gebrochenem Herzen und mit Bitterkeit.",
+       "englisch_web": "“Therefore sigh, you son of man. You shall sigh before their eyes with a broken heart and with bitterness."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Und wenn sie dich fragen:\n‚Warum seufzt du?‘,\ndann sollst du sagen:\n‚Wegen der Nachricht, denn sie kommt!\nJedes Herz wird verzagen,\nalle Hände werden schlaff,\njeder Geist wird ermatten,\nund alle Knie werden schwach wie Wasser.\nSiehe, es kommt, und es wird geschehen,\nspricht der Herr, der HERR.‘“",
+       "englisch_web": "It shall be, when they ask you, ‘Why do you sigh?’ that you shall say, ‘Because of the news, for it comes! Every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it comes, and it shall be done, says the Lord Yahweh.’”"
+      }
+     ],
+     "erklaerung": "Hinweis zur Zählung: In deutschen Bibeln beginnt Kapitel 21 schon fünf Verse früher (mit 20,45–49 des WEB). Darum sind die Versnummern hier jeweils um 5 niedriger als in vielen deutschen Bibeln. Wir folgen der Zählung des WEB.\nJetzt wird das Bild vom Waldbrand (20,45–49) erklärt: Der „Wald des Südens“ ist Jerusalem. Und das Feuer ist ein Schwert, nämlich das Heer der Babylonier.\nVers 3–4: „Den Gerechten und den Gottlosen“ – im Krieg leiden alle, auch Unschuldige. Hesekiel beschönigt das nicht. Das ist eine ehrliche, schmerzliche Beschreibung, wie Krieg ist.\nVers 6–7: Hesekiel soll öffentlich seufzen, mit gebrochenem Herzen. Er verkündet das Gericht nicht kalt, sondern leidet mit seinem Volk."
+    },
+    {
+     "ueberschrift": "Das Lied vom Schwert",
+     "vers_von": 8,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Das Wort des HERRN kam zu mir:",
+       "englisch_web": "Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "„Menschensohn, weissage und sag:\n‚So spricht der HERR:\n„Ein Schwert! Ein Schwert!\nEs ist geschärft und auch poliert.",
+       "englisch_web": "“Son of man, prophesy, and say, ‘Yahweh says: “A sword! A sword! It is sharpened, and also polished."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Es ist geschärft, damit es ein Gemetzel anrichtet.\nEs ist poliert, damit es wie ein Blitz ist.\nSollen wir uns da etwa freuen?\nDie Rute meines Sohnes verachtet jedes Holz.",
+       "englisch_web": "It is sharpened that it may make a slaughter. It is polished that it may be as lightning. Should we then make mirth? The rod of my son condemns every tree."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Es ist zum Polieren gegeben,\ndamit man es in die Hand nimmt.\nDas Schwert ist geschärft.\nJa, es ist poliert,\num es in die Hand des Mörders zu geben.“‘",
+       "englisch_web": "It is given to be polished, that it may be handled. The sword is sharpened. Yes, it is polished to give it into the hand of the killer.”’"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Schrei und heule, Menschensohn,\ndenn es kommt über mein Volk.\nEs kommt über alle Fürsten Israels.\nSie sind mit meinem Volk dem Schwert ausgeliefert.\nDarum schlag dir auf die Hüfte.",
+       "englisch_web": "Cry and wail, son of man; for it is on my people. It is on all the princes of Israel. They are delivered over to the sword with my people. Therefore beat your thigh."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn es ist eine Prüfung.\nUnd was, wenn selbst die Rute, die verachtet, nicht mehr sein wird?“,\nspricht der Herr, der HERR.",
+       "englisch_web": "“For there is a trial. What if even the rod that condemns will be no more?” says the Lord Yahweh."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "„Du aber, Menschensohn, weissage\nund schlag deine Hände zusammen.\nDas Schwert soll sich verdoppeln, ja verdreifachen,\ndas Schwert der tödlich Verwundeten.\nEs ist das Schwert des großen tödlich Verwundeten,\ndas in ihre Kammern dringt.",
+       "englisch_web": "“You therefore, son of man, prophesy, and strike your hands together. Let the sword be doubled the third time, the sword of the fatally wounded. It is the sword of the great one who is fatally wounded, which enters into their rooms."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ich habe das drohende Schwert gegen alle ihre Tore gerichtet,\ndamit ihr Herz verzagt\nund ihre Stolpersteine sich vermehren.\nAch! Es ist gemacht wie ein Blitz.\nEs ist zugespitzt zum Gemetzel.",
+       "englisch_web": "I have set the threatening sword against all their gates, that their heart may melt, and their stumblings be multiplied. Ah! It is made as lightning. It is pointed for slaughter."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sammle dich! Fahr nach rechts!\nStell dich auf! Fahr nach links,\nwohin auch immer deine Schneide gerichtet ist.",
+       "englisch_web": "Gather yourselves together. Go to the right. Set yourselves in array. Go to the left, wherever your face is set."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Auch ich werde meine Hände zusammenschlagen\nund meinen Grimm stillen.\nIch, der HERR, habe es gesagt.“",
+       "englisch_web": "I will also strike my hands together, and I will cause my wrath to rest. I, Yahweh, have spoken it.”"
+      }
+     ],
+     "erklaerung": "Das ist ein wildes, schauriges Lied. Das Schwert wird geschärft und poliert, bis es blitzt. Man spürt die Angst und den Schrecken des kommenden Krieges.\nVers 10 und 13 gehören zu den schwierigsten Versen im ganzen Buch. Der hebräische Text ist hier kaum verständlich, und die Übersetzungen unterscheiden sich stark. Vielleicht ist gemeint: Das Zepter (die Rute) des Königs von Juda, „meines Sohnes“, kann gegen dieses Schwert nichts ausrichten.\nVers 12: „Auf die Hüfte schlagen“ war eine Geste großer Trauer und Verzweiflung.\nKriegslieder wie dieses sind keine Verherrlichung von Gewalt. Sie zeigen, wie furchtbar Krieg ist. Wer heute Krieg erlebt hat oder Bilder davon nicht loswird, kann Hilfe bekommen, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111."
+    },
+    {
+     "ueberschrift": "Der König von Babylon an der Weggabelung",
+     "vers_von": 18,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Wieder kam das Wort des HERRN zu mir:",
+       "englisch_web": "Yahweh’s word came to me again, saying,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "„Du aber, Menschensohn,\nzeichne dir zwei Wege,\nauf denen das Schwert des Königs von Babylon kommen kann.\nBeide sollen aus einem Land ausgehen.\nUnd mach einen Wegweiser,\nmach ihn am Anfang des Weges zur Stadt.",
+       "englisch_web": "“Also, you son of man, appoint two ways, that the sword of the king of Babylon may come. They both will come out of one land, and mark out a place. Mark it out at the head of the way to the city."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Zeichne einen Weg,\nauf dem das Schwert nach Rabba der Ammoniter kommt,\nund einen nach Juda, ins befestigte Jerusalem.",
+       "englisch_web": "You shall appoint a way for the sword to come to Rabbah of the children of Ammon, and to Judah in Jerusalem the fortified."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn der König von Babylon steht an der Weggabelung,\nam Anfang der beiden Wege,\num das Orakel zu befragen.\nEr schüttelt die Pfeile hin und her.\nEr befragt die Teraphim.\nEr schaut in die Leber.",
+       "englisch_web": "For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination. He shook the arrows back and forth. He consulted the teraphim. He looked in the liver."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "In seiner rechten Hand ist das Los für Jerusalem:\nRammböcke aufzustellen,\nden Mund zum Gemetzel aufzutun,\ndie Stimme mit Kriegsgeschrei zu erheben,\nRammböcke gegen die Tore aufzustellen,\nWälle aufzuschütten\nund Belagerungstürme zu bauen.",
+       "englisch_web": "In his right hand was the lot for Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, and to build forts."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "In ihren Augen wird das wie eine falsche Wahrsagung sein,\ndenen, die ihnen Eide geschworen haben.\nAber er bringt die Schuld in Erinnerung,\ndamit sie gefangen werden.",
+       "englisch_web": "It will be to them as a false divination in their sight, who have sworn oaths to them; but he brings iniquity to memory, that they may be taken."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Darum spricht der Herr, der HERR:\n‚Weil ihr eure Schuld in Erinnerung gebracht habt,\nindem eure Übertretungen aufgedeckt wurden,\nsodass in all euren Taten eure Sünden sichtbar werden,\nweil ihr in Erinnerung gekommen seid,\nwerdet ihr mit der Hand gefangen werden.",
+       "englisch_web": "“Therefore the Lord Yahweh says: ‘Because you have caused your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins appear; because you have come to memory, you will be taken with the hand."
+      }
+     ],
+     "erklaerung": "Hesekiel soll eine Landkarte zeichnen: Ein Weg führt nach Rabba (der Hauptstadt der Ammoniter, heute Amman in Jordanien), der andere nach Jerusalem. Beide hatten sich gegen Babylon aufgelehnt.\nVers 21: Nebukadnezar steht an der Kreuzung und befragt seine Götter. Er benutzt drei Methoden: Er zieht Pfeile wie Lose, er befragt Hausgötter (Teraphim), und er schaut die Leber eines Opfertiers an (eine bekannte Methode der Wahrsagerei in Babylon).\nVers 22: Das Los fällt auf Jerusalem. Die Bibel sagt damit nicht, dass Wahrsagerei funktioniert. Aber Gott ist auch über den Entscheidungen fremder Könige Herr.\nVers 23: Die Menschen in Jerusalem halten das für falsch, weil sie mit Babylon einen Vertrag geschlossen hatten. Aber gerade diesen Vertrag hatte Zedekia gebrochen (vgl. Kapitel 17)."
+    },
+    {
+     "ueberschrift": "Nimm die Krone ab!",
+     "vers_von": 25,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 25,
+       "leichte_sprache": "Du aber, tödlich verwundeter Gottloser,\nFürst Israels,\ndessen Tag gekommen ist\nzur Zeit der Schuld des Endes,",
+       "englisch_web": "“‘You, deadly wounded wicked one, the prince of Israel, whose day has come, in the time of the iniquity of the end,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "so spricht der Herr, der HERR:\n„Nimm den Kopfbund ab\nund setz die Krone ab!\nEs wird nicht bleiben, wie es war.\nErhöhe das Niedrige,\nund erniedrige das Hohe.",
+       "englisch_web": "the Lord Yahweh says: “Remove the turban, and take off the crown. This will not be as it was. Exalt that which is low, and humble that which is high."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Umsturz, Umsturz, Umsturz will ich daraus machen.\nAuch dies wird nicht mehr sein,\nbis der kommt, dem das Recht gehört,\nund ich werde es ihm geben.“‘",
+       "englisch_web": "I will overturn, overturn, overturn it. This also will be no more, until he comes whose right it is; and I will give it.”’"
+      }
+     ],
+     "erklaerung": "Der „Fürst Israels“ ist König Zedekia. Er wird Krone und Kopfbund verlieren. Das Königtum von Juda geht zu Ende.\nVers 26: „Erhöhe das Niedrige, und erniedrige das Hohe.“ Das ist ein Grundthema der Bibel (vgl. 17,24 und Lukas 1,52).\nVers 27: Ein wichtiger Vers: Die Königsherrschaft bleibt leer, „bis der kommt, dem das Recht gehört“. Das erinnert an 1. Mose 49,10. Juden und Christen haben darin eine Verheißung des Messias gesehen, des rechtmäßigen Königs aus der Familie Davids. Christen beziehen das auf Jesus."
+    },
+    {
+     "ueberschrift": "Das Schwert gegen die Ammoniter",
+     "vers_von": 28,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 28,
+       "leichte_sprache": "„Du, Menschensohn, weissage und sag:\n‚So spricht der Herr, der HERR,\nüber die Ammoniter und über ihre Schmähung:\n„Ein Schwert! Ein Schwert ist gezogen!\nEs ist zum Gemetzel poliert,\ndamit es frisst,\ndamit es wie ein Blitz ist,",
+       "englisch_web": "“You, son of man, prophesy and say, ‘The Lord Yahweh says this concerning the children of Ammon, and concerning their reproach: “A sword! A sword is drawn! It is polished for the slaughter, to cause it to devour, that it may be as lightning;"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "während man dir falsche Visionen schaut,\nwährend man dir Lügen wahrsagt,\num dich auf die Hälse der tödlich verwundeten Gottlosen zu legen,\nderen Tag gekommen ist\nzur Zeit der Schuld des Endes.",
+       "englisch_web": "while they see for you false visions, while they divine lies to you, to lay you on the necks of the wicked who are deadly wounded, whose day has come in the time of the iniquity of the end."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Steck es wieder in seine Scheide!\nAn dem Ort, wo du geschaffen wurdest,\nim Land deiner Herkunft,\nwerde ich dich richten.",
+       "englisch_web": "Cause it to return into its sheath. In the place where you were created, in the land of your birth, I will judge you."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Ich werde meinen Grimm über dich ausgießen.\nIch werde mit dem Feuer meines Zorns gegen dich blasen.\nIch werde dich in die Hand roher Männer geben,\ndie geschickt sind im Zerstören.",
+       "englisch_web": "I will pour out my indignation on you. I will blow on you with the fire of my wrath. I will deliver you into the hand of brutish men, skillful to destroy."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Du wirst dem Feuer zum Brennholz.\nDein Blut wird mitten im Land sein.\nMan wird nicht mehr an dich denken,\ndenn ich, der HERR, habe es gesagt.“‘“",
+       "englisch_web": "You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, Yahweh, have spoken it.”’”"
+      }
+     ],
+     "erklaerung": "Die Ammoniter haben sich vielleicht gefreut, dass der König von Babylon nach Jerusalem gezogen ist und nicht zu ihnen. Und sie haben Jerusalem verspottet. Aber auch sie werden gerichtet.\nVers 30: „Steck es wieder in die Scheide“ ist wahrscheinlich an das Schwert Babylons gerichtet: Wenn Babylon seinen Auftrag erfüllt hat, wird es selbst gerichtet werden, in seinem eigenen Land.\nDiese Gerichtsworte über Völker sind keine Erlaubnis zu Hass gegen andere Völker. Sie zeigen, dass Gott der Herr der ganzen Geschichte ist und dass Unrecht und Hochmut überall Folgen haben."
+    }
+   ]
+  },
+  {
+   "kapitel": 22,
+   "titel": "Die Blutstadt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Die Stadt, die Blut vergießt",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Weiter kam das Wort des HERRN zu mir:",
+       "englisch_web": "Moreover Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "„Du, Menschensohn, willst du richten?\nWillst du die Blutstadt richten?\nDann lass sie alle ihre Gräuel erkennen.",
+       "englisch_web": "“You, son of man, will you judge? Will you judge the bloody city? Then cause her to know all her abominations."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Du sollst sagen:\n‚So spricht der Herr, der HERR:\n„Eine Stadt, die in ihrer Mitte Blut vergießt,\ndamit ihre Zeit kommt,\nund die sich Götzen macht, um sich zu verunreinigen!",
+       "englisch_web": "You shall say, ‘The Lord Yahweh says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her!"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Durch dein Blut, das du vergossen hast, bist du schuldig geworden,\nund durch deine Götzen, die du gemacht hast, bist du unrein geworden!\nDu hast deine Tage nahe gebracht\nund bist an das Ende deiner Jahre gekommen.\nDarum habe ich dich zum Hohn für die Völker gemacht\nund zum Spott für alle Länder.",
+       "englisch_web": "You have become guilty in your blood that you have shed, and are defiled in your idols which you have made! You have caused your days to draw near, and have come to the end of your years. Therefore I have made you a reproach to the nations, and a mocking to all the countries."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Die nahe und die fern von dir sind, werden dich verspotten,\ndu mit dem schlechten Ruf, voller Unruhe.",
+       "englisch_web": "Those who are near and those who are far from you will mock you, you infamous one, full of tumult."
+      }
+     ],
+     "erklaerung": "Jerusalem, die „heilige Stadt“, wird hier „Blutstadt“ genannt. Das ist ein schockierender Name. Er zeigt: In dieser Stadt wurde viel Unrecht und Gewalt getan.\nZwei Hauptvorwürfe ziehen sich durch das Kapitel: Gewalt („Blut vergießen“) und Götzendienst. Beides hängt zusammen: Wer Gott nicht mehr ehrt, verliert auch die Achtung vor dem Leben anderer Menschen."
+    },
+    {
+     "ueberschrift": "Die Liste der Sünden",
+     "vers_von": 6,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Siehe, die Fürsten Israels waren in dir,\njeder nach seiner Macht,\num Blut zu vergießen.",
+       "englisch_web": "“‘“Behold, the princes of Israel, everyone according to his power, have been in you to shed blood."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "In dir haben sie Vater und Mutter verachtet.\nIn deiner Mitte haben sie den Fremden unterdrückt.\nIn dir haben sie der Waise und der Witwe Unrecht getan.",
+       "englisch_web": "In you have they treated father and mother with contempt. Among you they have oppressed the foreigner. In you they have wronged the fatherless and the widow."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Du hast meine heiligen Dinge verachtet\nund meine Sabbate entweiht.",
+       "englisch_web": "You have despised my holy things, and have profaned my Sabbaths."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Verleumder waren in dir, um Blut zu vergießen.\nIn dir haben sie auf den Bergen gegessen.\nIn deiner Mitte haben sie Schandtaten begangen.",
+       "englisch_web": "Slanderous men have been in you to shed blood. In you they have eaten on the mountains. They have committed lewdness among you."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "In dir haben sie die Blöße ihres Vaters aufgedeckt.\nIn dir haben sie die Frau geschändet,\ndie in ihrer Unreinheit unrein war.",
+       "englisch_web": "In you have they uncovered their fathers’ nakedness. In you have they humbled her who was unclean in her impurity."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Einer hat Gräuel begangen mit der Frau seines Nächsten,\nein anderer hat seine Schwiegertochter schändlich missbraucht.\nEin anderer in dir hat seine Schwester geschändet,\ndie Tochter seines Vaters.",
+       "englisch_web": "One has committed abomination with his neighbor’s wife, and another has lewdly defiled his daughter-in-law. Another in you has humbled his sister, his father’s daughter."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "In dir haben sie Bestechung angenommen, um Blut zu vergießen.\nDu hast Zins und Aufschlag genommen\nund hast deine Nächsten aus Habgier durch Unterdrückung ausgebeutet\nund hast mich vergessen“,\nspricht der Herr, der HERR.",
+       "englisch_web": "In you have they taken bribes to shed blood. You have taken interest and increase, and you have greedily gained of your neighbors by oppression, and have forgotten me,” says the Lord Yahweh."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "„Siehe, darum habe ich meine Hand zusammengeschlagen\nüber deinen unrechten Gewinn, den du gemacht hast,\nund über das Blut, das in deiner Mitte vergossen wurde.",
+       "englisch_web": "“‘“Behold, therefore I have struck my hand at your dishonest gain which you have made, and at the blood which has been shed within you."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Wird dein Herz standhalten,\noder werden deine Hände stark bleiben\nin den Tagen, in denen ich mit dir handle?\nIch, der HERR, habe es gesagt und werde es tun.",
+       "englisch_web": "Can your heart endure, or can your hands be strong, in the days that I will deal with you? I, Yahweh, have spoken it, and will do it."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ich werde dich unter die Völker zerstreuen\nund dich in die Länder versprengen.\nIch werde deine Unreinheit aus dir entfernen.",
+       "englisch_web": "I will scatter you among the nations, and disperse you through the countries. I will purge your filthiness out of you."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Du wirst in dir selbst entweiht werden vor den Augen der Völker.\nDann wirst du erkennen, dass ich der HERR bin.“‘“",
+       "englisch_web": "You will be profaned in yourself in the sight of the nations. Then you will know that I am Yahweh.”’”"
+      }
+     ],
+     "erklaerung": "Hier steht eine lange Liste von Unrecht. Fast alles betrifft den Umgang mit Menschen:\n– Die Mächtigen benutzen ihre Macht, um zu töten.\n– Eltern werden verachtet.\n– Fremde, Waisen und Witwen, also die Schwächsten, werden unterdrückt. Gott stellt sich in der ganzen Bibel immer wieder auf die Seite dieser Menschen (vgl. 2. Mose 22,20–23; 5. Mose 10,18).\n– Verleumdung, die zum Tod führt.\n– Sexuelle Gewalt und Missbrauch in Familien.\n– Bestechung, Wucher, Ausbeutung aus Habgier.\nVers 10–11: „Schänden“ meint hier sexuelle Gewalt: Frauen wurden gegen ihren Willen missbraucht, auch innerhalb der Familie. Die Bibel nennt das klar Unrecht. Die Schuld liegt immer beim Täter, nie beim Opfer.\nWenn du sexuelle Gewalt oder Missbrauch erlebt hast: Du bist nicht schuld, und du bist nicht allein. Hilfetelefon Sexueller Missbrauch: 0800 22 55 530 (kostenlos, anonym). Hilfetelefon Gewalt gegen Frauen: 116 016 (rund um die Uhr). Im Notfall: 110.\nVers 12: Am Ende der Liste steht: „und hast mich vergessen“. Das ist die Wurzel von allem."
+    },
+    {
+     "ueberschrift": "Im Schmelzofen",
+     "vers_von": 17,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Das Wort des HERRN kam zu mir:",
+       "englisch_web": "Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "„Menschensohn, das Haus Israel ist für mich zu Schlacke geworden.\nSie alle sind Bronze, Zinn, Eisen und Blei mitten im Ofen.\nSie sind Schlacke von Silber.",
+       "englisch_web": "“Son of man, the house of Israel has become dross to me. All of them are bronze, tin, iron, and lead in the middle of the furnace. They are the dross of silver."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Darum spricht der Herr, der HERR:\n‚Weil ihr alle zu Schlacke geworden seid,\ndarum, siehe, werde ich euch mitten in Jerusalem sammeln.",
+       "englisch_web": "Therefore the Lord Yahweh says: ‘Because you have all become dross, therefore, behold, I will gather you into the middle of Jerusalem."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wie man Silber, Bronze, Eisen, Blei und Zinn\nmitten in den Ofen sammelt,\num das Feuer darauf zu blasen, um es zu schmelzen,\nso werde ich euch sammeln in meinem Zorn und in meinem Grimm,\nund ich werde euch hineinlegen und euch schmelzen.",
+       "englisch_web": "As they gather silver, bronze, iron, lead, and tin into the middle of the furnace, to blow the fire on it, to melt it, so I will gather you in my anger and in my wrath, and I will lay you there and melt you."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ja, ich werde euch sammeln\nund mit dem Feuer meines Grimms auf euch blasen,\nund ihr werdet mitten darin geschmolzen werden.",
+       "englisch_web": "Yes, I will gather you, and blow on you with the fire of my wrath, and you will be melted in the middle of it."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Wie Silber mitten im Ofen geschmolzen wird,\nso werdet ihr mitten darin geschmolzen werden.\nUnd ihr werdet erkennen, dass ich, der HERR,\nmeinen Grimm über euch ausgegossen habe.‘“",
+       "englisch_web": "As silver is melted in the middle of the furnace, so you will be melted in the middle of it; and you will know that I, Yahweh, have poured out my wrath on you.’”"
+      }
+     ],
+     "erklaerung": "Ein Bild aus der Metallverarbeitung: Um Silber zu reinigen, wird es im Ofen geschmolzen. Dabei trennen sich die unedlen Metalle als „Schlacke“ ab.\nIsrael sollte wertvolles Silber sein. Aber es ist nur noch Schlacke. Jerusalem wird zum Schmelzofen: Bei der Belagerung werden alle in der Stadt zusammengedrängt, und das „Feuer“ des Gerichts kommt über sie.\nIn anderen Texten ist der Schmelzofen auch ein Bild der Läuterung, also dass Gott sein Volk reinigt, damit das Gute übrig bleibt (Jesaja 1,25; Maleachi 3,2–3)."
+    },
+    {
+     "ueberschrift": "Keiner tritt in die Bresche",
+     "vers_von": 23,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Das Wort des HERRN kam zu mir:",
+       "englisch_web": "Yahweh’s word came to me, saying,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "„Menschensohn, sag zu ihr:\n‚Du bist ein Land, das nicht gereinigt ist\nund das keinen Regen bekommt am Tag des Grimms.‘",
+       "englisch_web": "“Son of man, tell her, ‘You are a land that is not cleansed nor rained on in the day of indignation.’"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Es gibt eine Verschwörung ihrer Propheten in ihrer Mitte,\nwie ein brüllender Löwe, der Beute reißt.\nSie haben Seelen gefressen.\nSie nehmen Schätze und Kostbarkeiten.\nSie haben viele zu Witwen gemacht in ihrer Mitte.",
+       "englisch_web": "There is a conspiracy of her prophets within it, like a roaring lion ravening the prey. They have devoured souls. They take treasure and precious things. They have made many widows within it."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Ihre Priester haben meinem Gesetz Gewalt angetan\nund meine heiligen Dinge entweiht.\nSie haben keinen Unterschied gemacht zwischen heilig und gewöhnlich\nund haben die Menschen nicht lernen lassen,\nzwischen unrein und rein zu unterscheiden.\nVor meinen Sabbaten haben sie ihre Augen verschlossen.\nSo werde ich unter ihnen entweiht.",
+       "englisch_web": "Her priests have done violence to my law and have profaned my holy things. They have made no distinction between the holy and the common, neither have they caused men to discern between the unclean and the clean, and have hidden their eyes from my Sabbaths. So I am profaned among them."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Ihre Fürsten in ihrer Mitte sind wie Wölfe, die Beute reißen,\num Blut zu vergießen und Seelen zu verderben,\ndamit sie unrechten Gewinn machen.",
+       "englisch_web": "Her princes within it are like wolves ravening the prey, to shed blood and to destroy souls, that they may get dishonest gain."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Ihre Propheten haben es ihnen mit Tünche übermalt.\nSie schauen falsche Visionen\nund wahrsagen ihnen Lügen\nund sagen: ‚So spricht der Herr, der HERR‘,\nobwohl der HERR nicht geredet hat.",
+       "englisch_web": "Her prophets have plastered for them with whitewash, seeing false visions, and divining lies to them, saying, ‘The Lord Yahweh says,’ when Yahweh has not spoken."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Das Volk des Landes hat Unterdrückung geübt und Raub begangen.\nJa, sie haben den Armen und Bedürftigen bedrängt\nund den Fremden zu Unrecht unterdrückt.",
+       "englisch_web": "The people of the land have used oppression and exercised robbery. Yes, they have troubled the poor and needy, and have oppressed the foreigner wrongfully."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Ich suchte unter ihnen einen Mann,\nder die Mauer baut\nund vor mir in die Bresche tritt für das Land,\ndamit ich es nicht verderbe.\nAber ich fand keinen.",
+       "englisch_web": "“I sought for a man among them who would build up the wall and stand in the gap before me for the land, that I would not destroy it; but I found no one."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Darum habe ich meinen Grimm über sie ausgegossen.\nMit dem Feuer meines Zorns habe ich sie vernichtet.\nIhren Weg habe ich auf ihren Kopf gebracht“,\nspricht der Herr, der HERR.",
+       "englisch_web": "Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord Yahweh."
+      }
+     ],
+     "erklaerung": "Hier werden alle Gruppen der Gesellschaft genannt, und alle haben versagt:\n– die Propheten (Vers 25 und 28): Sie lügen und bereichern sich.\n– die Priester (Vers 26): Sie lehren Gottes Gebote nicht mehr.\n– die Fürsten (Vers 27): Sie sind wie Wölfe, gierig und gewalttätig.\n– das Volk des Landes (Vers 29): Auch die einfachen Leute unterdrücken Arme und Fremde.\nVers 30: Ein bewegender Vers: Gott sucht einen einzigen Menschen, der „in die Bresche tritt“, der sich in die Lücke der kaputten Mauer stellt, für sein Volk eintritt und betet. So wie Mose es einmal getan hat (Psalm 106,23). Aber Gott findet niemanden.\nDieser Vers ist eine Frage an uns heute: Wo werden Menschen gebraucht, die für andere eintreten, die beten, helfen und sich für Gerechtigkeit einsetzen? Gott sucht solche Menschen."
+    }
+   ]
   }
  ]
 }

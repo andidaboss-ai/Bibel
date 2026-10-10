@@ -101673,3 +101673,356 @@ Sie sagen von mir:
 > Hinweis: In deutschen Bibeln stehen diese Verse meist als Kapitel 21, Vers 1–5. Wir folgen hier der Zählung des WEB.
 > Der „Süden“ ist von Babylon aus gesehen Juda und Jerusalem (man kam von Norden her ins Land). Ein Waldbrand wird alles verbrennen, grüne und dürre Bäume, also Gerechte und Ungerechte. In Kapitel 21 wird das Bild erklärt.
 > Vers 49: Hesekiel klagt: Die Leute nehmen ihn nicht ernst. „Der erzählt doch nur Geschichten.“ Man kann Gottes Wort als bloße Unterhaltung abtun, aber dann verpasst man seine ernste Botschaft.
+
+## Hesekiel – Kapitel 21
+#### Das Schwert des HERRN
+
+---
+
+### Das Schwert ist gezogen (Vers 1–7)
+
+<sup>1</sup>Das Wort des HERRN kam zu mir:
+<sup>2</sup>„Menschensohn, richte dein Gesicht auf Jerusalem,
+predige gegen die Heiligtümer
+und weissage gegen das Land Israel.
+<sup>3</sup>Sag zum Land Israel:
+‚So spricht der HERR:
+„Siehe, ich bin gegen dich,
+und ich werde mein Schwert aus seiner Scheide ziehen
+und aus dir den Gerechten und den Gottlosen ausrotten.
+<sup>4</sup>Weil ich aus dir den Gerechten und den Gottlosen ausrotten werde,
+darum wird mein Schwert aus seiner Scheide fahren
+gegen alles Fleisch vom Süden bis zum Norden.
+<sup>5</sup>Alles Fleisch wird erkennen,
+dass ich, der HERR, mein Schwert aus seiner Scheide gezogen habe.
+Es wird nicht mehr zurückkehren.“‘
+<sup>6</sup>Darum seufze du, Menschensohn!
+Seufze vor ihren Augen mit gebrochenem Herzen und mit Bitterkeit.
+<sup>7</sup>Und wenn sie dich fragen:
+‚Warum seufzt du?‘,
+dann sollst du sagen:
+‚Wegen der Nachricht, denn sie kommt!
+Jedes Herz wird verzagen,
+alle Hände werden schlaff,
+jeder Geist wird ermatten,
+und alle Knie werden schwach wie Wasser.
+Siehe, es kommt, und es wird geschehen,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Hinweis zur Zählung: In deutschen Bibeln beginnt Kapitel 21 schon fünf Verse früher (mit 20,45–49 des WEB). Darum sind die Versnummern hier jeweils um 5 niedriger als in vielen deutschen Bibeln. Wir folgen der Zählung des WEB.
+> Jetzt wird das Bild vom Waldbrand (20,45–49) erklärt: Der „Wald des Südens“ ist Jerusalem. Und das Feuer ist ein Schwert, nämlich das Heer der Babylonier.
+> Vers 3–4: „Den Gerechten und den Gottlosen“ – im Krieg leiden alle, auch Unschuldige. Hesekiel beschönigt das nicht. Das ist eine ehrliche, schmerzliche Beschreibung, wie Krieg ist.
+> Vers 6–7: Hesekiel soll öffentlich seufzen, mit gebrochenem Herzen. Er verkündet das Gericht nicht kalt, sondern leidet mit seinem Volk.
+
+---
+
+### Das Lied vom Schwert (Vers 8–17)
+
+<sup>8</sup>Das Wort des HERRN kam zu mir:
+<sup>9</sup>„Menschensohn, weissage und sag:
+‚So spricht der HERR:
+„Ein Schwert! Ein Schwert!
+Es ist geschärft und auch poliert.
+<sup>10</sup>Es ist geschärft, damit es ein Gemetzel anrichtet.
+Es ist poliert, damit es wie ein Blitz ist.
+Sollen wir uns da etwa freuen?
+Die Rute meines Sohnes verachtet jedes Holz.
+<sup>11</sup>Es ist zum Polieren gegeben,
+damit man es in die Hand nimmt.
+Das Schwert ist geschärft.
+Ja, es ist poliert,
+um es in die Hand des Mörders zu geben.“‘
+<sup>12</sup>Schrei und heule, Menschensohn,
+denn es kommt über mein Volk.
+Es kommt über alle Fürsten Israels.
+Sie sind mit meinem Volk dem Schwert ausgeliefert.
+Darum schlag dir auf die Hüfte.
+<sup>13</sup>Denn es ist eine Prüfung.
+Und was, wenn selbst die Rute, die verachtet, nicht mehr sein wird?“,
+spricht der Herr, der HERR.
+<sup>14</sup>„Du aber, Menschensohn, weissage
+und schlag deine Hände zusammen.
+Das Schwert soll sich verdoppeln, ja verdreifachen,
+das Schwert der tödlich Verwundeten.
+Es ist das Schwert des großen tödlich Verwundeten,
+das in ihre Kammern dringt.
+<sup>15</sup>Ich habe das drohende Schwert gegen alle ihre Tore gerichtet,
+damit ihr Herz verzagt
+und ihre Stolpersteine sich vermehren.
+Ach! Es ist gemacht wie ein Blitz.
+Es ist zugespitzt zum Gemetzel.
+<sup>16</sup>Sammle dich! Fahr nach rechts!
+Stell dich auf! Fahr nach links,
+wohin auch immer deine Schneide gerichtet ist.
+<sup>17</sup>Auch ich werde meine Hände zusammenschlagen
+und meinen Grimm stillen.
+Ich, der HERR, habe es gesagt.“
+
+> **Was bedeutet das?**
+> Das ist ein wildes, schauriges Lied. Das Schwert wird geschärft und poliert, bis es blitzt. Man spürt die Angst und den Schrecken des kommenden Krieges.
+> Vers 10 und 13 gehören zu den schwierigsten Versen im ganzen Buch. Der hebräische Text ist hier kaum verständlich, und die Übersetzungen unterscheiden sich stark. Vielleicht ist gemeint: Das Zepter (die Rute) des Königs von Juda, „meines Sohnes“, kann gegen dieses Schwert nichts ausrichten.
+> Vers 12: „Auf die Hüfte schlagen“ war eine Geste großer Trauer und Verzweiflung.
+> Kriegslieder wie dieses sind keine Verherrlichung von Gewalt. Sie zeigen, wie furchtbar Krieg ist. Wer heute Krieg erlebt hat oder Bilder davon nicht loswird, kann Hilfe bekommen, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111.
+
+---
+
+### Der König von Babylon an der Weggabelung (Vers 18–24)
+
+<sup>18</sup>Wieder kam das Wort des HERRN zu mir:
+<sup>19</sup>„Du aber, Menschensohn,
+zeichne dir zwei Wege,
+auf denen das Schwert des Königs von Babylon kommen kann.
+Beide sollen aus einem Land ausgehen.
+Und mach einen Wegweiser,
+mach ihn am Anfang des Weges zur Stadt.
+<sup>20</sup>Zeichne einen Weg,
+auf dem das Schwert nach Rabba der Ammoniter kommt,
+und einen nach Juda, ins befestigte Jerusalem.
+<sup>21</sup>Denn der König von Babylon steht an der Weggabelung,
+am Anfang der beiden Wege,
+um das Orakel zu befragen.
+Er schüttelt die Pfeile hin und her.
+Er befragt die Teraphim.
+Er schaut in die Leber.
+<sup>22</sup>In seiner rechten Hand ist das Los für Jerusalem:
+Rammböcke aufzustellen,
+den Mund zum Gemetzel aufzutun,
+die Stimme mit Kriegsgeschrei zu erheben,
+Rammböcke gegen die Tore aufzustellen,
+Wälle aufzuschütten
+und Belagerungstürme zu bauen.
+<sup>23</sup>In ihren Augen wird das wie eine falsche Wahrsagung sein,
+denen, die ihnen Eide geschworen haben.
+Aber er bringt die Schuld in Erinnerung,
+damit sie gefangen werden.
+<sup>24</sup>Darum spricht der Herr, der HERR:
+‚Weil ihr eure Schuld in Erinnerung gebracht habt,
+indem eure Übertretungen aufgedeckt wurden,
+sodass in all euren Taten eure Sünden sichtbar werden,
+weil ihr in Erinnerung gekommen seid,
+werdet ihr mit der Hand gefangen werden.
+
+> **Was bedeutet das?**
+> Hesekiel soll eine Landkarte zeichnen: Ein Weg führt nach Rabba (der Hauptstadt der Ammoniter, heute Amman in Jordanien), der andere nach Jerusalem. Beide hatten sich gegen Babylon aufgelehnt.
+> Vers 21: Nebukadnezar steht an der Kreuzung und befragt seine Götter. Er benutzt drei Methoden: Er zieht Pfeile wie Lose, er befragt Hausgötter (Teraphim), und er schaut die Leber eines Opfertiers an (eine bekannte Methode der Wahrsagerei in Babylon).
+> Vers 22: Das Los fällt auf Jerusalem. Die Bibel sagt damit nicht, dass Wahrsagerei funktioniert. Aber Gott ist auch über den Entscheidungen fremder Könige Herr.
+> Vers 23: Die Menschen in Jerusalem halten das für falsch, weil sie mit Babylon einen Vertrag geschlossen hatten. Aber gerade diesen Vertrag hatte Zedekia gebrochen (vgl. Kapitel 17).
+
+---
+
+### Nimm die Krone ab! (Vers 25–27)
+
+<sup>25</sup>Du aber, tödlich verwundeter Gottloser,
+Fürst Israels,
+dessen Tag gekommen ist
+zur Zeit der Schuld des Endes,
+<sup>26</sup>so spricht der Herr, der HERR:
+„Nimm den Kopfbund ab
+und setz die Krone ab!
+Es wird nicht bleiben, wie es war.
+Erhöhe das Niedrige,
+und erniedrige das Hohe.
+<sup>27</sup>Umsturz, Umsturz, Umsturz will ich daraus machen.
+Auch dies wird nicht mehr sein,
+bis der kommt, dem das Recht gehört,
+und ich werde es ihm geben.“‘
+
+> **Was bedeutet das?**
+> Der „Fürst Israels“ ist König Zedekia. Er wird Krone und Kopfbund verlieren. Das Königtum von Juda geht zu Ende.
+> Vers 26: „Erhöhe das Niedrige, und erniedrige das Hohe.“ Das ist ein Grundthema der Bibel (vgl. 17,24 und Lukas 1,52).
+> Vers 27: Ein wichtiger Vers: Die Königsherrschaft bleibt leer, „bis der kommt, dem das Recht gehört“. Das erinnert an 1. Mose 49,10. Juden und Christen haben darin eine Verheißung des Messias gesehen, des rechtmäßigen Königs aus der Familie Davids. Christen beziehen das auf Jesus.
+
+---
+
+### Das Schwert gegen die Ammoniter (Vers 28–32)
+
+<sup>28</sup>„Du, Menschensohn, weissage und sag:
+‚So spricht der Herr, der HERR,
+über die Ammoniter und über ihre Schmähung:
+„Ein Schwert! Ein Schwert ist gezogen!
+Es ist zum Gemetzel poliert,
+damit es frisst,
+damit es wie ein Blitz ist,
+<sup>29</sup>während man dir falsche Visionen schaut,
+während man dir Lügen wahrsagt,
+um dich auf die Hälse der tödlich verwundeten Gottlosen zu legen,
+deren Tag gekommen ist
+zur Zeit der Schuld des Endes.
+<sup>30</sup>Steck es wieder in seine Scheide!
+An dem Ort, wo du geschaffen wurdest,
+im Land deiner Herkunft,
+werde ich dich richten.
+<sup>31</sup>Ich werde meinen Grimm über dich ausgießen.
+Ich werde mit dem Feuer meines Zorns gegen dich blasen.
+Ich werde dich in die Hand roher Männer geben,
+die geschickt sind im Zerstören.
+<sup>32</sup>Du wirst dem Feuer zum Brennholz.
+Dein Blut wird mitten im Land sein.
+Man wird nicht mehr an dich denken,
+denn ich, der HERR, habe es gesagt.“‘“
+
+> **Was bedeutet das?**
+> Die Ammoniter haben sich vielleicht gefreut, dass der König von Babylon nach Jerusalem gezogen ist und nicht zu ihnen. Und sie haben Jerusalem verspottet. Aber auch sie werden gerichtet.
+> Vers 30: „Steck es wieder in die Scheide“ ist wahrscheinlich an das Schwert Babylons gerichtet: Wenn Babylon seinen Auftrag erfüllt hat, wird es selbst gerichtet werden, in seinem eigenen Land.
+> Diese Gerichtsworte über Völker sind keine Erlaubnis zu Hass gegen andere Völker. Sie zeigen, dass Gott der Herr der ganzen Geschichte ist und dass Unrecht und Hochmut überall Folgen haben.
+
+## Hesekiel – Kapitel 22
+#### Die Blutstadt
+
+---
+
+### Die Stadt, die Blut vergießt (Vers 1–5)
+
+<sup>1</sup>Weiter kam das Wort des HERRN zu mir:
+<sup>2</sup>„Du, Menschensohn, willst du richten?
+Willst du die Blutstadt richten?
+Dann lass sie alle ihre Gräuel erkennen.
+<sup>3</sup>Du sollst sagen:
+‚So spricht der Herr, der HERR:
+„Eine Stadt, die in ihrer Mitte Blut vergießt,
+damit ihre Zeit kommt,
+und die sich Götzen macht, um sich zu verunreinigen!
+<sup>4</sup>Durch dein Blut, das du vergossen hast, bist du schuldig geworden,
+und durch deine Götzen, die du gemacht hast, bist du unrein geworden!
+Du hast deine Tage nahe gebracht
+und bist an das Ende deiner Jahre gekommen.
+Darum habe ich dich zum Hohn für die Völker gemacht
+und zum Spott für alle Länder.
+<sup>5</sup>Die nahe und die fern von dir sind, werden dich verspotten,
+du mit dem schlechten Ruf, voller Unruhe.
+
+> **Was bedeutet das?**
+> Jerusalem, die „heilige Stadt“, wird hier „Blutstadt“ genannt. Das ist ein schockierender Name. Er zeigt: In dieser Stadt wurde viel Unrecht und Gewalt getan.
+> Zwei Hauptvorwürfe ziehen sich durch das Kapitel: Gewalt („Blut vergießen“) und Götzendienst. Beides hängt zusammen: Wer Gott nicht mehr ehrt, verliert auch die Achtung vor dem Leben anderer Menschen.
+
+---
+
+### Die Liste der Sünden (Vers 6–16)
+
+<sup>6</sup>Siehe, die Fürsten Israels waren in dir,
+jeder nach seiner Macht,
+um Blut zu vergießen.
+<sup>7</sup>In dir haben sie Vater und Mutter verachtet.
+In deiner Mitte haben sie den Fremden unterdrückt.
+In dir haben sie der Waise und der Witwe Unrecht getan.
+<sup>8</sup>Du hast meine heiligen Dinge verachtet
+und meine Sabbate entweiht.
+<sup>9</sup>Verleumder waren in dir, um Blut zu vergießen.
+In dir haben sie auf den Bergen gegessen.
+In deiner Mitte haben sie Schandtaten begangen.
+<sup>10</sup>In dir haben sie die Blöße ihres Vaters aufgedeckt.
+In dir haben sie die Frau geschändet,
+die in ihrer Unreinheit unrein war.
+<sup>11</sup>Einer hat Gräuel begangen mit der Frau seines Nächsten,
+ein anderer hat seine Schwiegertochter schändlich missbraucht.
+Ein anderer in dir hat seine Schwester geschändet,
+die Tochter seines Vaters.
+<sup>12</sup>In dir haben sie Bestechung angenommen, um Blut zu vergießen.
+Du hast Zins und Aufschlag genommen
+und hast deine Nächsten aus Habgier durch Unterdrückung ausgebeutet
+und hast mich vergessen“,
+spricht der Herr, der HERR.
+<sup>13</sup>„Siehe, darum habe ich meine Hand zusammengeschlagen
+über deinen unrechten Gewinn, den du gemacht hast,
+und über das Blut, das in deiner Mitte vergossen wurde.
+<sup>14</sup>Wird dein Herz standhalten,
+oder werden deine Hände stark bleiben
+in den Tagen, in denen ich mit dir handle?
+Ich, der HERR, habe es gesagt und werde es tun.
+<sup>15</sup>Ich werde dich unter die Völker zerstreuen
+und dich in die Länder versprengen.
+Ich werde deine Unreinheit aus dir entfernen.
+<sup>16</sup>Du wirst in dir selbst entweiht werden vor den Augen der Völker.
+Dann wirst du erkennen, dass ich der HERR bin.“‘“
+
+> **Was bedeutet das?**
+> Hier steht eine lange Liste von Unrecht. Fast alles betrifft den Umgang mit Menschen:
+> – Die Mächtigen benutzen ihre Macht, um zu töten.
+> – Eltern werden verachtet.
+> – Fremde, Waisen und Witwen, also die Schwächsten, werden unterdrückt. Gott stellt sich in der ganzen Bibel immer wieder auf die Seite dieser Menschen (vgl. 2. Mose 22,20–23; 5. Mose 10,18).
+> – Verleumdung, die zum Tod führt.
+> – Sexuelle Gewalt und Missbrauch in Familien.
+> – Bestechung, Wucher, Ausbeutung aus Habgier.
+> Vers 10–11: „Schänden“ meint hier sexuelle Gewalt: Frauen wurden gegen ihren Willen missbraucht, auch innerhalb der Familie. Die Bibel nennt das klar Unrecht. Die Schuld liegt immer beim Täter, nie beim Opfer.
+> Wenn du sexuelle Gewalt oder Missbrauch erlebt hast: Du bist nicht schuld, und du bist nicht allein. Hilfetelefon Sexueller Missbrauch: 0800 22 55 530 (kostenlos, anonym). Hilfetelefon Gewalt gegen Frauen: 116 016 (rund um die Uhr). Im Notfall: 110.
+> Vers 12: Am Ende der Liste steht: „und hast mich vergessen“. Das ist die Wurzel von allem.
+
+---
+
+### Im Schmelzofen (Vers 17–22)
+
+<sup>17</sup>Das Wort des HERRN kam zu mir:
+<sup>18</sup>„Menschensohn, das Haus Israel ist für mich zu Schlacke geworden.
+Sie alle sind Bronze, Zinn, Eisen und Blei mitten im Ofen.
+Sie sind Schlacke von Silber.
+<sup>19</sup>Darum spricht der Herr, der HERR:
+‚Weil ihr alle zu Schlacke geworden seid,
+darum, siehe, werde ich euch mitten in Jerusalem sammeln.
+<sup>20</sup>Wie man Silber, Bronze, Eisen, Blei und Zinn
+mitten in den Ofen sammelt,
+um das Feuer darauf zu blasen, um es zu schmelzen,
+so werde ich euch sammeln in meinem Zorn und in meinem Grimm,
+und ich werde euch hineinlegen und euch schmelzen.
+<sup>21</sup>Ja, ich werde euch sammeln
+und mit dem Feuer meines Grimms auf euch blasen,
+und ihr werdet mitten darin geschmolzen werden.
+<sup>22</sup>Wie Silber mitten im Ofen geschmolzen wird,
+so werdet ihr mitten darin geschmolzen werden.
+Und ihr werdet erkennen, dass ich, der HERR,
+meinen Grimm über euch ausgegossen habe.‘“
+
+> **Was bedeutet das?**
+> Ein Bild aus der Metallverarbeitung: Um Silber zu reinigen, wird es im Ofen geschmolzen. Dabei trennen sich die unedlen Metalle als „Schlacke“ ab.
+> Israel sollte wertvolles Silber sein. Aber es ist nur noch Schlacke. Jerusalem wird zum Schmelzofen: Bei der Belagerung werden alle in der Stadt zusammengedrängt, und das „Feuer“ des Gerichts kommt über sie.
+> In anderen Texten ist der Schmelzofen auch ein Bild der Läuterung, also dass Gott sein Volk reinigt, damit das Gute übrig bleibt (Jesaja 1,25; Maleachi 3,2–3).
+
+---
+
+### Keiner tritt in die Bresche (Vers 23–31)
+
+<sup>23</sup>Das Wort des HERRN kam zu mir:
+<sup>24</sup>„Menschensohn, sag zu ihr:
+‚Du bist ein Land, das nicht gereinigt ist
+und das keinen Regen bekommt am Tag des Grimms.‘
+<sup>25</sup>Es gibt eine Verschwörung ihrer Propheten in ihrer Mitte,
+wie ein brüllender Löwe, der Beute reißt.
+Sie haben Seelen gefressen.
+Sie nehmen Schätze und Kostbarkeiten.
+Sie haben viele zu Witwen gemacht in ihrer Mitte.
+<sup>26</sup>Ihre Priester haben meinem Gesetz Gewalt angetan
+und meine heiligen Dinge entweiht.
+Sie haben keinen Unterschied gemacht zwischen heilig und gewöhnlich
+und haben die Menschen nicht lernen lassen,
+zwischen unrein und rein zu unterscheiden.
+Vor meinen Sabbaten haben sie ihre Augen verschlossen.
+So werde ich unter ihnen entweiht.
+<sup>27</sup>Ihre Fürsten in ihrer Mitte sind wie Wölfe, die Beute reißen,
+um Blut zu vergießen und Seelen zu verderben,
+damit sie unrechten Gewinn machen.
+<sup>28</sup>Ihre Propheten haben es ihnen mit Tünche übermalt.
+Sie schauen falsche Visionen
+und wahrsagen ihnen Lügen
+und sagen: ‚So spricht der Herr, der HERR‘,
+obwohl der HERR nicht geredet hat.
+<sup>29</sup>Das Volk des Landes hat Unterdrückung geübt und Raub begangen.
+Ja, sie haben den Armen und Bedürftigen bedrängt
+und den Fremden zu Unrecht unterdrückt.
+<sup>30</sup>Ich suchte unter ihnen einen Mann,
+der die Mauer baut
+und vor mir in die Bresche tritt für das Land,
+damit ich es nicht verderbe.
+Aber ich fand keinen.
+<sup>31</sup>Darum habe ich meinen Grimm über sie ausgegossen.
+Mit dem Feuer meines Zorns habe ich sie vernichtet.
+Ihren Weg habe ich auf ihren Kopf gebracht“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Hier werden alle Gruppen der Gesellschaft genannt, und alle haben versagt:
+> – die Propheten (Vers 25 und 28): Sie lügen und bereichern sich.
+> – die Priester (Vers 26): Sie lehren Gottes Gebote nicht mehr.
+> – die Fürsten (Vers 27): Sie sind wie Wölfe, gierig und gewalttätig.
+> – das Volk des Landes (Vers 29): Auch die einfachen Leute unterdrücken Arme und Fremde.
+> Vers 30: Ein bewegender Vers: Gott sucht einen einzigen Menschen, der „in die Bresche tritt“, der sich in die Lücke der kaputten Mauer stellt, für sein Volk eintritt und betet. So wie Mose es einmal getan hat (Psalm 106,23). Aber Gott findet niemanden.
+> Dieser Vers ist eine Frage an uns heute: Wo werden Menschen gebraucht, die für andere eintreten, die beten, helfen und sich für Gerechtigkeit einsetzen? Gott sucht solche Menschen.
