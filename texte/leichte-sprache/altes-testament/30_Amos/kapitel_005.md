@@ -134,7 +134,7 @@ ganz dunkel und ohne Glanz?
 ## Ich hasse eure Feste (Vers 21–27)
 
 [21] Ich hasse, ich verachte eure Feste,
-und ich kann eure Festversammlungen nicht riechen.
+und ich kann eure Festversammlungen nicht ausstehen.
 [22] Ja, wenn ihr mir Brandopfer und Speisopfer darbringt,
 werde ich sie nicht annehmen.
 Und das Friedensopfer eurer Mastkälber

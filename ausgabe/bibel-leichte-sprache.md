@@ -110750,7 +110750,7 @@ ganz dunkel und ohne Glanz?
 ### Ich hasse eure Feste (Vers 21–27)
 
 <sup>21</sup>Ich hasse, ich verachte eure Feste,
-und ich kann eure Festversammlungen nicht riechen.
+und ich kann eure Festversammlungen nicht ausstehen.
 <sup>22</sup>Ja, wenn ihr mir Brandopfer und Speisopfer darbringt,
 werde ich sie nicht annehmen.
 Und das Friedensopfer eurer Mastkälber
@@ -110800,7 +110800,7 @@ und doch die Herrschaft der Gewalt herbeiholt,
 und euch auf euren Sofas ausstreckt
 und die Lämmer aus der Herde esst
 und die Kälber mitten aus dem Stall,
-<sup>5</sup>die ihr zum Klang der Harfe grölt
+<sup>5</sup>die ihr auf den Saiten der Harfe klimpert
 und euch Musikinstrumente ausdenkt wie David,
 <sup>6</sup>die ihr Wein aus Schalen trinkt
 und euch mit den besten Ölen salbt,

@@ -20,7 +20,7 @@ und doch die Herrschaft der Gewalt herbeiholt,
 und euch auf euren Sofas ausstreckt
 und die Lämmer aus der Herde esst
 und die Kälber mitten aus dem Stall,
-[5] die ihr zum Klang der Harfe grölt
+[5] die ihr auf den Saiten der Harfe klimpert
 und euch Musikinstrumente ausdenkt wie David,
 [6] die ihr Wein aus Schalen trinkt
 und euch mit den besten Ölen salbt,
