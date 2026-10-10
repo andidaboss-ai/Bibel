@@ -114029,3 +114029,235 @@ die ihr Horn gegen das Land Juda erhoben haben, um es zu zerstreuen.“
 > Ein Horn ist in der Bibel ein Bild für Macht und Stärke, wie die Hörner eines Stieres. Die vier Hörner sind die Weltmächte, die Israel und Juda zerstört und zerstreut haben. „Vier“ kann für alle vier Himmelsrichtungen stehen, also für alle Feinde ringsum.
 > Die vier „Schmiede“ (Handwerker) kommen, um die Hörner abzuschlagen. Gott hat für jede Macht, die sein Volk unterdrückt, eine Gegenmacht.
 > Die Botschaft: Die Unterdrücker werden nicht für immer herrschen.
+
+## Sacharja – Kapitel 2
+#### Eine Stadt ohne Mauern
+
+---
+
+### Die dritte Vision: der Mann mit der Messschnur (Vers 1–5)
+
+<sup>1</sup>Ich hob meine Augen auf und sah,
+und siehe, ein Mann mit einer Messschnur in der Hand.
+<sup>2</sup>Da fragte ich:
+„Wohin gehst du?“
+Er sagte zu mir:
+„Jerusalem ausmessen,
+um zu sehen, wie breit und wie lang es ist.“
+<sup>3</sup>Und siehe, der Engel, der mit mir redete, ging hinaus,
+und ein anderer Engel ging ihm entgegen
+<sup>4</sup>und sagte zu ihm:
+„Lauf, sag zu diesem jungen Mann:
+‚Jerusalem wird wie offene Dörfer ohne Mauern bewohnt werden,
+wegen der Menge der Menschen und des Viehs darin.
+<sup>5</sup>Denn ich‘, spricht der HERR,
+‚werde für sie eine Mauer aus Feuer ringsum sein,
+und ich werde die Herrlichkeit in ihrer Mitte sein.‘“
+
+> **Was bedeutet das?**
+> In deutschen Bibeln sind die Verse dieses Kapitels meistens um vier verschoben (WEB 2,1 = deutsch 2,5 und so weiter), weil dort die letzten vier Verse von Kapitel 1 schon zu Kapitel 2 gehören.
+> Ein junger Mann will Jerusalem ausmessen, wahrscheinlich, um die neuen Stadtmauern zu planen.
+> Aber ein Engel sagt: Halt! Jerusalem wird so groß werden, dass keine Mauer es umfassen kann. So viele Menschen und Tiere werden dort leben.
+> Vers 5: Und Jerusalem braucht keine Mauern aus Stein. Gott selbst wird die Mauer sein, eine Mauer aus Feuer. Das erinnert an die Feuersäule beim Auszug aus Ägypten (2. Mose 13,21). Gott schützt seine Stadt, und er wohnt mitten in ihr.
+
+---
+
+### Kommt heim aus Babylon! (Vers 6–9)
+
+<sup>6</sup>„Auf! Auf! Flieht aus dem Land des Nordens“,
+spricht der HERR,
+„denn ich habe euch in die vier Winde des Himmels zerstreut“,
+spricht der HERR.
+<sup>7</sup>„Auf, Zion!
+Rette dich, die du bei der Tochter Babel wohnst!“
+<sup>8</sup>Denn so spricht der HERR der Heere:
+„Um der Ehre willen hat er mich zu den Völkern gesandt,
+die euch ausgeplündert haben.
+Denn wer euch antastet,
+der tastet seinen Augapfel an.
+<sup>9</sup>Denn siehe, ich werde meine Hand über sie schwingen,
+und sie werden denen zur Beute werden, die ihnen gedient haben.
+Und ihr werdet erkennen, dass der HERR der Heere mich gesandt hat.
+
+> **Was bedeutet das?**
+> Vers 6–7: Ein Aufruf an die Juden, die noch in Babylon („im Land des Nordens“) lebten: Kommt nach Hause! Nicht alle waren mit der ersten Gruppe zurückgekehrt. Viele hatten sich in Babylon ein neues Leben aufgebaut.
+> Babylon lag eigentlich im Osten. Aber die Straße von dort kam von Norden nach Israel, darum heißt es „Land des Nordens“.
+> Vers 8: Ein berühmtes Bild: „Wer euch antastet, tastet seinen Augapfel an.“ Der Augapfel ist das Empfindlichste am Körper. Man schützt ihn instinktiv. So wertvoll und so geschützt ist Gottes Volk für ihn (vgl. 5. Mose 32,10; Psalm 17,8).
+> „Seinen Augapfel“: Im Hebräischen ist nicht ganz klar, wessen Auge gemeint ist. Die übliche Deutung: Gottes eigenes Auge.
+> Wer spricht hier („er hat mich gesandt“)? Vielleicht der Prophet, vielleicht der Engel des HERRN. Das ist unter Auslegern umstritten.
+
+---
+
+### Viele Völker werden zu Gott kommen (Vers 10–13)
+
+<sup>10</sup>Singe und freue dich, Tochter Zion!
+Denn siehe, ich komme und werde in deiner Mitte wohnen“,
+spricht der HERR.
+<sup>11</sup>An jenem Tag werden sich viele Völker dem HERRN anschließen
+und werden mein Volk sein.
+Und ich werde in deiner Mitte wohnen,
+und du wirst erkennen, dass der HERR der Heere mich zu dir gesandt hat.
+<sup>12</sup>Der HERR wird Juda als seinen Anteil im heiligen Land in Besitz nehmen
+und wird Jerusalem wieder erwählen.
+<sup>13</sup>Alles Fleisch sei still vor dem HERRN,
+denn er hat sich aufgemacht aus seiner heiligen Wohnung!“
+
+> **Was bedeutet das?**
+> Vers 10: Gott kommt selbst und wohnt mitten in seinem Volk. Im Johannesevangelium heißt es über Jesus: „Das Wort wurde Fleisch und wohnte unter uns“ (Johannes 1,14).
+> Vers 11: Ein großer Ausblick: Viele Völker werden sich Gott anschließen und „mein Volk“ sein. Gottes Volk wird größer als Israel allein. Andere Völker werden nicht ausgeschlossen, sondern eingeladen.
+> Vers 12: Hier kommt in der Bibel zum ersten Mal der Ausdruck „heiliges Land“ vor.
+> Vers 13: „Alles Fleisch sei still“, also alle Menschen. Gott ist aufgestanden, um zu handeln (vgl. Habakuk 2,20).
+
+## Sacharja – Kapitel 3
+#### Neue Kleider für den Hohenpriester
+
+---
+
+### Die vierte Vision: Josua vor Gericht (Vers 1–5)
+
+<sup>1</sup>Er ließ mich den Hohenpriester Josua sehen,
+wie er vor dem Engel des HERRN stand,
+und den Satan, der zu seiner Rechten stand, um ihn anzuklagen.
+<sup>2</sup>Der HERR sagte zum Satan:
+„Der HERR weise dich zurecht, Satan!
+Ja, der HERR, der Jerusalem erwählt hat, weise dich zurecht!
+Ist dieser nicht ein Holzscheit, das aus dem Feuer gerissen ist?“
+<sup>3</sup>Josua aber war mit schmutzigen Kleidern bekleidet
+und stand vor dem Engel.
+<sup>4</sup>Der antwortete und sagte zu denen, die vor ihm standen:
+„Zieht ihm die schmutzigen Kleider aus!“
+Und zu ihm sagte er:
+„Siehe, ich habe deine Schuld von dir genommen,
+und ich werde dich mit Festkleidern bekleiden.“
+<sup>5</sup>Ich sagte:
+„Man soll ihm einen reinen Kopfbund auf den Kopf setzen!“
+Da setzten sie ihm einen reinen Kopfbund auf den Kopf
+und bekleideten ihn mit Kleidern,
+und der Engel des HERRN stand dabei.
+
+> **Was bedeutet das?**
+> Eine Gerichtsszene im Himmel. Angeklagt ist Josua, der Hohepriester. Er vertritt das ganze Volk vor Gott.
+> „Satan“ heißt auf Hebräisch „Ankläger“ oder „Widersacher“. Hier ist er wie ein Staatsanwalt, der Josua anklagt (vgl. Hiob 1–2). Er steht „zur Rechten“, wo im Gericht der Ankläger stand.
+> Vers 2: Aber Gott selbst weist den Ankläger zurück! Josua ist wie ein Holzscheit, das gerade noch aus dem Feuer gerissen wurde. Das Volk hat das Feuer des Exils knapp überlebt. Gott hat es gerettet, und er wird es nicht wieder fallen lassen.
+> Vers 3: Josua trägt schmutzige Kleider. Das ist ein Bild für Schuld und Unreinheit. Ein Priester durfte eigentlich nur in reinen Kleidern vor Gott treten.
+> Vers 4–5: Gott nimmt die Schuld weg und gibt Josua neue, festliche Kleider und einen reinen Kopfbund (den Turban des Hohenpriesters).
+> Das ist ein wunderbares Bild für Vergebung: Gott nimmt uns nicht nur die Schuld ab, er beschenkt uns auch mit Neuem. Im Neuen Testament heißt es ähnlich: Wir dürfen Christus „anziehen“ wie ein neues Kleid (Galater 3,27). Und Jesus erzählt im Gleichnis vom verlorenen Sohn, wie der Vater dem heimgekehrten Sohn das beste Gewand anziehen lässt (Lukas 15,22).
+
+---
+
+### Der Spross und der Stein (Vers 6–10)
+
+<sup>6</sup>Und der Engel des HERRN bezeugte Josua feierlich:
+<sup>7</sup>„So spricht der HERR der Heere:
+‚Wenn du in meinen Wegen gehst
+und wenn du meine Anordnungen befolgst,
+dann sollst du auch mein Haus regieren
+und meine Vorhöfe bewachen,
+und ich werde dir Zugang geben unter diesen, die hier stehen.
+<sup>8</sup>Höre doch, Hoherpriester Josua,
+du und deine Gefährten, die vor dir sitzen,
+denn sie sind Männer, die ein Zeichen sind.
+Denn siehe, ich lasse meinen Knecht kommen, den Spross.
+<sup>9</sup>Denn siehe, der Stein, den ich vor Josua gelegt habe:
+Auf einem Stein sind sieben Augen.
+Siehe, ich werde seine Inschrift eingravieren‘,
+spricht der HERR der Heere,
+‚und ich werde die Schuld dieses Landes an einem einzigen Tag wegnehmen.
+<sup>10</sup>An jenem Tag‘, spricht der HERR der Heere,
+‚werdet ihr einander einladen,
+jeder seinen Nächsten,
+unter den Weinstock und unter den Feigenbaum.‘“
+
+> **Was bedeutet das?**
+> Vers 7: Wenn Josua Gott treu bleibt, darf er den Tempel leiten. Und er bekommt Zugang zu Gottes himmlischem Rat, „unter diesen, die hier stehen“, also unter den Engeln.
+> Vers 8: Gott kündigt seinen Knecht an, den „Spross“. Das ist ein Titel für den kommenden König aus dem Haus Davids (vgl. Jesaja 11,1; Jeremia 23,5; 33,15). Wie ein neuer Trieb aus einem abgehauenen Baumstumpf wächst, so wird aus der zerstörten Königsfamilie Davids neues Leben wachsen. Damals dachte man vielleicht an Serubbabel (vgl. Sacharja 6,12). Christen sehen darin auch einen Hinweis auf Jesus.
+> Vers 9: Ein geheimnisvoller Stein mit sieben Augen. Vielleicht ist es ein Grundstein für den Tempel oder ein Edelstein auf dem Gewand des Hohenpriesters. Die sieben Augen stehen für Gottes Blick, der alles sieht (vgl. 4,10). Die genaue Bedeutung ist unsicher.
+> „An einem einzigen Tag“ wird Gott die Schuld des Landes wegnehmen. Christen denken dabei an den Tag, an dem Jesus am Kreuz starb.
+> Vers 10: Ein Bild für Frieden und Gemeinschaft: Man lädt die Nachbarn ein, im Schatten des eigenen Weinstocks und Feigenbaums zu sitzen (vgl. Micha 4,4).
+
+## Sacharja – Kapitel 4
+#### Nicht durch Heer oder Kraft, sondern durch meinen Geist
+
+---
+
+### Die fünfte Vision: der goldene Leuchter (Vers 1–5)
+
+<sup>1</sup>Der Engel, der mit mir redete, kam wieder
+und weckte mich,
+wie man einen Menschen aus seinem Schlaf weckt.
+<sup>2</sup>Er sagte zu mir:
+„Was siehst du?“
+Ich sagte:
+„Ich habe gesehen, und siehe,
+ein Leuchter ganz aus Gold,
+mit seiner Schale oben darauf,
+und sieben Lampen sind darauf.
+Sieben Röhren führen zu jeder der Lampen, die oben darauf sind.
+<sup>3</sup>Und zwei Ölbäume stehen dabei,
+einer rechts von der Schale
+und einer links von ihr.“
+<sup>4</sup>Ich antwortete und sagte zu dem Engel, der mit mir redete:
+„Was sind diese, mein Herr?“
+<sup>5</sup>Da antwortete mir der Engel, der mit mir redete:
+„Weißt du nicht, was diese sind?“
+Ich sagte: „Nein, mein Herr.“
+
+> **Was bedeutet das?**
+> Sacharja sieht einen goldenen Leuchter, ähnlich wie der Leuchter im Tempel (die Menora, 2. Mose 25,31–40). Oben ist eine Schale mit Öl, von der Röhren zu sieben Lampen führen. Daneben stehen zwei Ölbäume, die immer neues Öl liefern.
+> Das Besondere: Niemand muss das Öl nachfüllen. Es fließt von selbst aus den Bäumen. Das Licht geht nie aus.
+> Der genaue Aufbau ist im Hebräischen nicht ganz klar. Wie viele Röhren es waren, wird unterschiedlich verstanden.
+> Sacharja fragt ehrlich, was das bedeutet. Es ist in Ordnung, nicht alles gleich zu verstehen und nachzufragen.
+
+---
+
+### Durch meinen Geist (Vers 6–10)
+
+<sup>6</sup>Da antwortete er und sagte zu mir:
+„Das ist das Wort des HERRN an Serubbabel:
+‚Nicht durch Heer und nicht durch Kraft,
+sondern durch meinen Geist‘,
+spricht der HERR der Heere.
+<sup>7</sup>Wer bist du, großer Berg?
+Vor Serubbabel wirst du zur Ebene.
+Und er wird den Schlussstein hervorbringen
+unter dem Jubelruf: ‚Gnade, Gnade sei mit ihm!‘“
+<sup>8</sup>Und das Wort des HERRN erging an mich:
+<sup>9</sup>„Die Hände Serubbabels haben das Fundament dieses Hauses gelegt,
+und seine Hände werden es auch vollenden.
+Und du wirst erkennen, dass der HERR der Heere mich zu euch gesandt hat.
+<sup>10</sup>Ja, wer verachtet den Tag der kleinen Dinge?
+Denn diese sieben werden sich freuen
+und das Senkblei in der Hand Serubbabels sehen.
+Diese sind die Augen des HERRN,
+die über die ganze Erde schweifen.“
+
+> **Was bedeutet das?**
+> Vers 6: Einer der bekanntesten Verse der Bibel: „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist.“ Serubbabel hatte keine Armee, kein Geld, keine Macht. Der Tempelbau schien unmöglich. Aber Gott sagt: Es kommt nicht auf eure Stärke an, sondern auf meinen Geist. Wie das Öl im Leuchter von selbst fließt, so wirkt Gottes Geist.
+> Vers 7: Alle Hindernisse, groß wie ein Berg, werden flach wie eine Ebene. Und am Ende wird der Schlussstein gesetzt, unter Jubel: „Gnade, Gnade!“ Alles ist Gottes Geschenk.
+> Vers 9: Serubbabel hat das Fundament gelegt, und er wird den Bau auch vollenden. Das geschah im Jahr 515 vor Christus (Esra 6,15).
+> Vers 10: „Wer verachtet den Tag der kleinen Dinge?“ Viele waren enttäuscht, weil der neue Tempel so klein und bescheiden war (vgl. Haggai 2,3). Aber Gott sagt: Verachtet die kleinen Anfänge nicht! Große Dinge beginnen oft klein.
+> „Die sieben“ sind die sieben Lampen. Sie sind „die Augen des HERRN“, die über die ganze Erde schauen. Gott sieht alles, auch die kleinen Anfänge, und freut sich darüber.
+> Für heute: Manchmal fühlt man sich klein und schwach. Aber bei Gott zählt nicht, wie stark wir sind, sondern dass sein Geist wirkt.
+
+---
+
+### Die zwei Ölbäume (Vers 11–14)
+
+<sup>11</sup>Da fragte ich ihn:
+„Was sind diese zwei Ölbäume
+rechts vom Leuchter und links von ihm?“
+<sup>12</sup>Und ich fragte ihn zum zweiten Mal:
+„Was sind diese zwei Olivenzweige
+neben den zwei goldenen Röhren,
+die das goldene Öl aus sich ausgießen?“
+<sup>13</sup>Er antwortete mir:
+„Weißt du nicht, was diese sind?“
+Ich sagte: „Nein, mein Herr.“
+<sup>14</sup>Da sagte er:
+„Das sind die zwei Gesalbten,
+die vor dem Herrn der ganzen Erde stehen.“
+
+> **Was bedeutet das?**
+> Die zwei Ölbäume sind „die zwei Gesalbten“. Wörtlich heißt es im Hebräischen „die zwei Söhne des Öls“. Gemeint sind wahrscheinlich die beiden Anführer des Volkes: Serubbabel, der Statthalter aus dem Königshaus, und Josua, der Hohepriester. Könige und Priester wurden mit Öl gesalbt, wenn sie ihr Amt antraten.
+> Durch sie lässt Gott sein „Öl“, also seinen Geist und Segen, zum Volk fließen. Der politische und der geistliche Leiter arbeiten zusammen.
+> In der Offenbarung des Johannes werden „zwei Zeugen“ mit diesen beiden Ölbäumen verglichen (Offenbarung 11,4).
