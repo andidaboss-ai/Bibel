@@ -101079,3 +101079,597 @@ Ich, der HERR, habe es gesagt und habe es getan.“
 > Juden und Christen lesen dies als Verheißung eines kommenden Königs aus der Familie Davids, des Messias (vgl. Jesaja 11,1; Jeremia 23,5).
 > Jesus hat ein ähnliches Bild gebraucht: Das Reich Gottes ist wie ein winziges Senfkorn, das zu einem großen Baum wird, sodass die Vögel in seinen Zweigen wohnen (Markus 4,30–32).
 > Vers 24: Gott erniedrigt die Hohen und erhöht die Niedrigen. Das ist ein Grundthema der Bibel (vgl. 1. Samuel 2,7–8; Lukas 1,52).
+
+## Hesekiel – Kapitel 18
+#### Kehrt um, so werdet ihr leben!
+
+---
+
+### Saure Trauben (Vers 1–4)
+
+<sup>1</sup>Das Wort des HERRN kam wieder zu mir:
+<sup>2</sup>„Was meint ihr damit,
+dass ihr dieses Sprichwort über das Land Israel gebraucht:
+‚Die Väter haben saure Trauben gegessen,
+und den Kindern werden die Zähne stumpf‘?
+<sup>3</sup>So wahr ich lebe“, spricht der Herr, der HERR,
+„ihr sollt dieses Sprichwort in Israel nicht mehr gebrauchen.
+<sup>4</sup>Siehe, alle Seelen gehören mir.
+Wie die Seele des Vaters,
+so gehört auch die Seele des Sohnes mir.
+Die Seele, die sündigt, die soll sterben.
+
+> **Was bedeutet das?**
+> Die Menschen im Exil hatten ein bitteres Sprichwort: „Die Väter haben saure Trauben gegessen, und den Kindern werden die Zähne stumpf.“ Das heißt: Unsere Eltern haben gesündigt, und wir müssen es ausbaden. Wir sind unschuldige Opfer. Wir können nichts ändern.
+> Gott widerspricht: Jeder Mensch gehört ihm direkt. Jeder ist vor Gott selbst verantwortlich. Niemand ist einfach Opfer der Geschichte seiner Familie.
+> Jeremia zitiert dasselbe Sprichwort (Jeremia 31,29–30).
+> Das ist auch eine befreiende Botschaft: Du bist nicht festgelegt durch das, was deine Eltern getan haben. Du kannst einen eigenen Weg gehen.
+
+---
+
+### Der gerechte Mann (Vers 5–9)
+
+<sup>5</sup>Wenn aber ein Mann gerecht ist
+und tut, was recht und gerecht ist,
+<sup>6</sup>wenn er nicht auf den Bergen isst,
+seine Augen nicht zu den Götzen des Hauses Israel erhebt,
+die Frau seines Nächsten nicht entehrt,
+sich einer Frau nicht nähert während ihrer Unreinheit,
+<sup>7</sup>niemanden unterdrückt,
+sondern dem Schuldner sein Pfand zurückgibt,
+nichts raubt,
+sein Brot dem Hungrigen gibt
+und den Nackten mit Kleidung bedeckt,
+<sup>8</sup>wer nicht gegen Zins verleiht
+und keinen Aufschlag nimmt,
+wer seine Hand vom Unrecht zurückhält,
+wer wahres Recht übt zwischen Mensch und Mensch,
+<sup>9</sup>wer in meinen Satzungen geht
+und meine Rechtsordnungen hält, um treu zu handeln:
+der ist gerecht, der soll gewiss leben“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Hier steht eine Art Checkliste, was ein gerechter Mensch tut. Interessant: Die meisten Punkte betreffen nicht den Gottesdienst, sondern den Umgang mit anderen Menschen:
+> – keine Götzen,
+> – Treue in der Ehe, Respekt vor Frauen,
+> – niemanden unterdrücken oder berauben,
+> – Schuldnern ihr Pfand zurückgeben (zum Beispiel den Mantel, den sie nachts brauchen, 2. Mose 22,25–26),
+> – Hungrigen Brot geben, Nackte kleiden,
+> – keine Wucherzinsen von Armen nehmen,
+> – fair und gerecht urteilen.
+> „Auf den Bergen essen“ meint Opfermahlzeiten an Götzenheiligtümern.
+> Jesus nennt ähnliche Taten in Matthäus 25,35–36: „Ich war hungrig, und ihr habt mir zu essen gegeben … ich war nackt, und ihr habt mich gekleidet.“
+
+---
+
+### Der gewalttätige Sohn (Vers 10–13)
+
+<sup>10</sup>„Wenn er aber einen Sohn zeugt, der ein Räuber ist,
+der Blut vergießt
+und irgendetwas davon tut,
+<sup>11</sup>oder der nichts von jenem Guten tut,
+sondern auf den Bergheiligtümern isst
+und die Frau seines Nächsten entehrt,
+<sup>12</sup>den Armen und Bedürftigen unterdrückt,
+raubt,
+das Pfand nicht zurückgibt,
+seine Augen zu den Götzen erhebt,
+Gräuel begeht,
+<sup>13</sup>gegen Zins verleiht
+und vom Armen Aufschlag nimmt –
+soll der dann leben?
+Er soll nicht leben.
+Er hat all diese Gräuel getan.
+Er soll gewiss sterben.
+Sein Blut wird auf ihm sein.
+
+> **Was bedeutet das?**
+> Der Sohn eines gerechten Vaters kann trotzdem böse werden. Die Gerechtigkeit des Vaters rettet ihn nicht. Man kann sich nicht hinter dem guten Ruf der Familie verstecken.
+> „Sein Blut wird auf ihm sein“ heißt: Er ist selbst verantwortlich für sein Schicksal.
+
+---
+
+### Der Enkel wählt einen anderen Weg (Vers 14–20)
+
+<sup>14</sup>Und siehe, wenn dieser einen Sohn zeugt,
+der alle Sünden sieht, die sein Vater getan hat,
+und sich fürchtet und nicht so handelt,
+<sup>15</sup>der nicht auf den Bergen isst,
+seine Augen nicht zu den Götzen des Hauses Israel erhebt,
+die Frau seines Nächsten nicht entehrt,
+<sup>16</sup>niemanden unterdrückt,
+kein Pfand nimmt,
+nichts raubt,
+sondern sein Brot dem Hungrigen gibt
+und den Nackten mit Kleidung bedeckt,
+<sup>17</sup>der seine Hand vom Armen zurückhält,
+keinen Zins und keinen Aufschlag nimmt,
+meine Rechtsordnungen tut
+und in meinen Satzungen geht:
+Der soll nicht wegen der Schuld seines Vaters sterben.
+Er soll gewiss leben.
+<sup>18</sup>Sein Vater aber, weil er grausam unterdrückt,
+seinen Bruder beraubt
+und getan hat, was nicht gut ist unter seinem Volk,
+siehe, er wird in seiner Schuld sterben.
+<sup>19</sup>Doch ihr sagt:
+‚Warum trägt der Sohn nicht die Schuld des Vaters?‘
+Wenn der Sohn getan hat, was recht und gerecht ist,
+und alle meine Satzungen gehalten und sie getan hat,
+dann soll er gewiss leben.
+<sup>20</sup>Die Seele, die sündigt, die soll sterben.
+Der Sohn soll nicht die Schuld des Vaters tragen,
+und der Vater soll nicht die Schuld des Sohnes tragen.
+Die Gerechtigkeit des Gerechten wird auf ihm sein,
+und die Gottlosigkeit des Gottlosen wird auf ihm sein.
+
+> **Was bedeutet das?**
+> Der Enkel sieht, was sein Vater Böses tut, und macht es anders. Er bricht den Kreislauf! Gott sagt: Er soll leben. Er muss nicht für die Schuld seines Vaters büßen.
+> Vers 17: „Seine Hand vom Armen zurückhalten“ meint hier: den Armen nicht schaden, ihn nicht unterdrücken (vgl. Vers 8: „vom Unrecht zurückhalten“).
+> Das ist eine große Hoffnung für alle, die in schwierigen Familien aufgewachsen sind: Du musst nicht wiederholen, was dir angetan wurde oder was du gesehen hast. Mit Gottes Hilfe kannst du anders leben.
+> Wenn du in deiner Familie Gewalt oder Sucht erlebt hast und darüber reden möchtest: Telefonseelsorge 0800 111 0 111, für Kinder und Jugendliche: Nummer gegen Kummer 116 111.
+
+---
+
+### Gott will nicht den Tod (Vers 21–24)
+
+<sup>21</sup>Wenn aber der Gottlose umkehrt von allen seinen Sünden, die er getan hat,
+und alle meine Satzungen hält
+und tut, was recht und gerecht ist,
+dann soll er gewiss leben.
+Er soll nicht sterben.
+<sup>22</sup>An keine seiner Übertretungen, die er begangen hat,
+wird man ihm gegenüber mehr denken.
+Durch seine Gerechtigkeit, die er getan hat, soll er leben.
+<sup>23</sup>Habe ich etwa Gefallen am Tod des Gottlosen?“,
+spricht der Herr, der HERR,
+„und nicht vielmehr daran, dass er umkehrt von seinem Weg und lebt?
+<sup>24</sup>Wenn aber der Gerechte sich abwendet von seiner Gerechtigkeit
+und Unrecht tut
+und nach all den Gräueln handelt, die der Gottlose tut,
+soll er leben?
+An keine seiner gerechten Taten, die er getan hat, wird man denken.
+In seiner Untreue, die er begangen hat,
+und in seiner Sünde, die er gesündigt hat,
+in ihnen soll er sterben.
+
+> **Was bedeutet das?**
+> Es geht nicht nur um Familien, sondern auch um das eigene Leben: Niemand ist für immer festgelegt, weder durch seine Vergangenheit noch durch frühere gute Taten.
+> Vers 21–22: Wer umkehrt, dem wird vergeben. Gott „denkt nicht mehr“ an die alten Sünden. Ein echter Neuanfang ist möglich!
+> Vers 23: Das ist einer der wichtigsten Sätze der Bibel: Gott hat keine Freude daran, wenn jemand stirbt, auch nicht der Böse. Er will, dass Menschen umkehren und leben. (Vgl. 1. Timotheus 2,4; 2. Petrus 3,9.)
+> Vers 24: Umgekehrt kann man sich auch nicht auf früheren guten Taten ausruhen. Es zählt, wie man jetzt lebt.
+
+---
+
+### Ist Gottes Weg ungerecht? (Vers 25–29)
+
+<sup>25</sup>Doch ihr sagt:
+‚Der Weg des Herrn ist nicht gerecht.‘
+Hört doch, Haus Israel:
+Ist mein Weg nicht gerecht?
+Sind nicht eure Wege ungerecht?
+<sup>26</sup>Wenn der Gerechte sich abwendet von seiner Gerechtigkeit
+und Unrecht tut und darin stirbt,
+dann stirbt er in seinem Unrecht, das er getan hat.
+<sup>27</sup>Und wenn der Gottlose sich abwendet von seiner Gottlosigkeit,
+die er begangen hat,
+und tut, was recht und gerecht ist,
+dann wird er sein Leben retten.
+<sup>28</sup>Weil er es einsieht
+und umkehrt von allen seinen Übertretungen, die er begangen hat,
+soll er gewiss leben.
+Er soll nicht sterben.
+<sup>29</sup>Doch das Haus Israel sagt:
+‚Der Weg des Herrn ist nicht fair.‘
+Haus Israel, sind meine Wege nicht fair?
+Sind nicht eure Wege unfair?
+
+> **Was bedeutet das?**
+> Die Menschen beschweren sich: „Das ist nicht fair! Wenn einer sein Leben lang böse war und dann umkehrt, soll er leben?“
+> Gott antwortet: Nicht mein Weg ist unfair, sondern euer Denken. Gott gibt jedem eine Chance. Das ist Gnade.
+> Jesus erzählt ein ähnliches Gleichnis: Die Arbeiter, die erst spät kommen, bekommen denselben Lohn wie die anderen (Matthäus 20,1–16). Und der verlorene Sohn wird mit einem Fest empfangen, während der ältere Bruder sich beschwert (Lukas 15,11–32).
+
+---
+
+### Macht euch ein neues Herz! (Vers 30–32)
+
+<sup>30</sup>Darum werde ich euch richten, Haus Israel,
+jeden nach seinen Wegen“,
+spricht der Herr, der HERR.
+„Kehrt um und wendet euch ab von allen euren Übertretungen,
+damit die Schuld euch nicht zum Verderben wird.
+<sup>31</sup>Werft von euch alle eure Übertretungen,
+mit denen ihr euch vergangen habt,
+und macht euch ein neues Herz und einen neuen Geist.
+Denn warum wollt ihr sterben, Haus Israel?
+<sup>32</sup>Denn ich habe keinen Gefallen am Tod dessen, der stirbt“,
+spricht der Herr, der HERR.
+„Darum kehrt um und lebt!“
+
+> **Was bedeutet das?**
+> Das Kapitel endet mit einer leidenschaftlichen Einladung. Gott fragt: „Warum wollt ihr sterben?“ Man hört, wie sehr Gott sich das Leben seiner Menschen wünscht.
+> Vers 31: „Macht euch ein neues Herz!“ In Kapitel 11,19 und 36,26 sagt Gott: „Ich gebe euch ein neues Herz.“ Beides gehört zusammen: Gott schenkt den Neuanfang, und der Mensch soll ihn annehmen und sich darauf einlassen.
+> Vers 32: „Kehrt um und lebt!“ Das ist die Kernbotschaft dieses Kapitels und vielleicht des ganzen Buches Hesekiel. Es ist nie zu spät, umzukehren.
+
+## Hesekiel – Kapitel 19
+#### Klagelied über die Fürsten
+
+---
+
+### Die Löwin und ihre Jungen (Vers 1–9)
+
+<sup>1</sup>„Stimme du ein Klagelied an über die Fürsten Israels
+<sup>2</sup>und sag:
+‚Was war deine Mutter?
+Eine Löwin.
+Sie lagerte unter Löwen.
+Mitten unter den jungen Löwen zog sie ihre Jungen groß.
+<sup>3</sup>Sie zog eines ihrer Jungen auf.
+Es wurde ein junger Löwe.
+Er lernte, Beute zu reißen.
+Er fraß Menschen.
+<sup>4</sup>Die Völker hörten auch von ihm.
+Er wurde in ihrer Grube gefangen,
+und sie brachten ihn mit Haken ins Land Ägypten.
+<sup>5</sup>Als sie nun sah, dass sie gewartet hatte
+und ihre Hoffnung verloren war,
+da nahm sie ein anderes ihrer Jungen
+und machte es zu einem jungen Löwen.
+<sup>6</sup>Er zog umher unter den Löwen.
+Er wurde ein junger Löwe.
+Er lernte, Beute zu reißen.
+Er fraß Menschen.
+<sup>7</sup>Er kannte ihre Paläste
+und verwüstete ihre Städte.
+Das Land und alles, was darin war, erstarrte
+vor dem Lärm seines Brüllens.
+<sup>8</sup>Da griffen ihn die Völker von allen Seiten an,
+aus den Provinzen.
+Sie breiteten ihr Netz über ihn aus.
+Er wurde in ihrer Grube gefangen.
+<sup>9</sup>Sie steckten ihn in einen Käfig mit Haken
+und brachten ihn zum König von Babylon.
+Sie brachten ihn in Festungen,
+damit seine Stimme nicht mehr gehört würde
+auf den Bergen Israels.
+
+> **Was bedeutet das?**
+> Ein Klagelied ist eigentlich ein Trauerlied für Verstorbene. Hesekiel singt es über die letzten Könige von Juda, obwohl manche noch leben. Damit sagt er: Das Königtum ist so gut wie tot.
+> Die Löwin steht für Juda oder für die Königsmutter. Der Löwe war das Symbol des Stammes Juda (1. Mose 49,9).
+> Das erste Junge (Vers 3–4) ist König Joahas. Er regierte nur drei Monate und wurde vom Pharao nach Ägypten gebracht (2. Könige 23,31–34).
+> Das zweite Junge (Vers 5–9) ist wahrscheinlich König Jojachin, der nach Babylon verschleppt wurde (2. Könige 24,8–15). Manche denken auch an Zedekia.
+> „Er fraß Menschen“ beschreibt, wie diese Könige ihr eigenes Volk unterdrückten und ausbeuteten. Statt Hirten waren sie Raubtiere.
+
+---
+
+### Der verdorrte Weinstock (Vers 10–14)
+
+<sup>10</sup>Deine Mutter war wie ein Weinstock in deinem Blut,
+am Wasser gepflanzt.
+Er war fruchtbar und voller Ranken
+wegen der vielen Wasser.
+<sup>11</sup>Er hatte starke Zweige
+für die Zepter der Herrscher.
+Sein Wuchs ragte hoch empor zwischen den dichten Zweigen.
+Man sah ihn in seiner Höhe
+mit der Menge seiner Ranken.
+<sup>12</sup>Aber er wurde im Grimm ausgerissen.
+Er wurde zu Boden geworfen,
+und der Ostwind ließ seine Frucht verdorren.
+Seine starken Zweige wurden abgebrochen und verdorrten.
+Das Feuer verzehrte sie.
+<sup>13</sup>Jetzt ist er in die Wüste gepflanzt,
+in ein dürres und durstiges Land.
+<sup>14</sup>Feuer ist aus seinen Zweigen hervorgegangen.
+Es hat seine Frucht verzehrt,
+sodass an ihm kein starker Zweig mehr ist,
+der ein Zepter zum Herrschen wäre.‘
+Das ist ein Klagelied,
+und es soll zum Klagelied werden.“
+
+> **Was bedeutet das?**
+> Jetzt wechselt das Bild: Die Mutter ist ein prächtiger Weinstock. Er hatte starke Zweige, also Könige mit Zepter.
+> Vers 10: „In deinem Blut“ ist eine schwierige Stelle. Manche übersetzen „in deinem Weinberg“ oder „dir ähnlich“.
+> Vers 12–13: Der Weinstock wird ausgerissen und in die Wüste verpflanzt. Das bedeutet: Das Königshaus wird nach Babylon ins Exil gebracht.
+> Vers 14: „Feuer ist aus seinen Zweigen hervorgegangen.“ Das Unheil kam aus dem Königshaus selbst. Der letzte König (Zedekia) hat durch seinen Aufstand die Zerstörung ausgelöst.
+> „Kein starker Zweig mehr“ – das Königtum Davids scheint zu Ende. Aber Hesekiel 17,22–24 und 34,23–24 versprechen, dass Gott einen neuen Spross schenken wird.
+
+## Hesekiel – Kapitel 20
+#### Gott handelt um seines Namens willen
+
+---
+
+### Die Ältesten kommen, um Gott zu befragen (Vers 1–4)
+
+<sup>1</sup>Im siebten Jahr, im fünften Monat, am zehnten Tag des Monats,
+kamen einige von den Ältesten Israels,
+um den HERRN zu befragen,
+und setzten sich vor mich.
+<sup>2</sup>Das Wort des HERRN kam zu mir:
+<sup>3</sup>„Menschensohn, rede zu den Ältesten Israels und sag ihnen:
+‚So spricht der Herr, der HERR:
+„Seid ihr gekommen, um mich zu befragen?
+So wahr ich lebe“, spricht der Herr, der HERR,
+„ich lasse mich von euch nicht befragen.“‘
+<sup>4</sup>Willst du sie richten, Menschensohn?
+Willst du sie richten?
+Lass sie die Gräuel ihrer Väter erkennen.
+
+> **Was bedeutet das?**
+> Das ist im Jahr 591 vor Christus, etwa fünf Jahre vor der Zerstörung Jerusalems.
+> Die Ältesten wollen von Gott eine Antwort. Aber Gott sagt: Nein. Er will sich nicht von Menschen befragen lassen, die ihn nur benutzen wollen, aber nicht umkehren wollen.
+> Stattdessen bekommen sie einen langen Rückblick auf ihre Geschichte. Der zeigt: Das Volk ist von Anfang an immer wieder von Gott abgewichen, und Gott ist trotzdem immer wieder treu geblieben.
+
+---
+
+### In Ägypten (Vers 5–10)
+
+<sup>5</sup>Sag ihnen:
+‚So spricht der Herr, der HERR:
+„An dem Tag, als ich Israel erwählte
+und den Nachkommen des Hauses Jakob schwor
+und mich ihnen im Land Ägypten zu erkennen gab,
+als ich ihnen schwor und sagte:
+‚Ich bin der HERR, euer Gott‘,
+<sup>6</sup>an jenem Tag schwor ich ihnen,
+sie aus dem Land Ägypten herauszuführen
+in ein Land, das ich für sie ausgesucht hatte,
+in dem Milch und Honig fließen,
+die Zierde aller Länder.
+<sup>7</sup>Ich sagte zu ihnen:
+‚Jeder werfe die Scheusale weg, an denen seine Augen hängen.
+Verunreinigt euch nicht mit den Götzen Ägyptens.
+Ich bin der HERR, euer Gott.‘
+<sup>8</sup>Aber sie lehnten sich gegen mich auf
+und wollten nicht auf mich hören.
+Nicht alle warfen die Scheusale weg, an denen ihre Augen hingen.
+Sie verließen auch die Götzen Ägyptens nicht.
+Da sagte ich, ich würde meinen Grimm über sie ausgießen,
+um meinen Zorn an ihnen zu vollenden
+mitten im Land Ägypten.
+<sup>9</sup>Aber ich handelte um meines Namens willen,
+damit er nicht entweiht würde
+vor den Augen der Völker, unter denen sie waren,
+vor deren Augen ich mich ihnen zu erkennen gegeben hatte,
+indem ich sie aus dem Land Ägypten herausführte.
+<sup>10</sup>So führte ich sie aus dem Land Ägypten hinaus
+und brachte sie in die Wüste.
+
+> **Was bedeutet das?**
+> Gott erzählt die Geschichte Israels neu, und zwar ganz ehrlich. Schon in Ägypten hingen viele an den ägyptischen Götzen.
+> Vers 9: Der Schlüsselsatz des Kapitels: „Ich handelte um meines Namens willen.“ Gott hat Israel nicht gerettet, weil es so gut war, sondern weil Gott treu ist zu dem, was er versprochen hat. Sein „Name“ steht für seinen Ruf und sein Wesen. Die Völker sollten sehen, wer Gott wirklich ist.
+
+---
+
+### In der Wüste: die erste Generation (Vers 11–17)
+
+<sup>11</sup>Ich gab ihnen meine Satzungen
+und ließ sie meine Rechtsordnungen wissen,
+durch die der Mensch lebt, wenn er sie tut.
+<sup>12</sup>Außerdem gab ich ihnen auch meine Sabbate,
+als Zeichen zwischen mir und ihnen,
+damit sie erkennen, dass ich der HERR bin,
+der sie heiligt.
+<sup>13</sup>Aber das Haus Israel lehnte sich in der Wüste gegen mich auf.
+Sie gingen nicht in meinen Satzungen
+und verwarfen meine Rechtsordnungen,
+durch die der Mensch lebt, wenn er sie hält.
+Meine Sabbate entweihten sie sehr.
+Da sagte ich, ich würde meinen Grimm in der Wüste über sie ausgießen,
+um sie zu vernichten.
+<sup>14</sup>Aber ich handelte um meines Namens willen,
+damit er nicht entweiht würde vor den Augen der Völker,
+vor deren Augen ich sie herausgeführt hatte.
+<sup>15</sup>Außerdem schwor ich ihnen auch in der Wüste,
+dass ich sie nicht in das Land bringen würde, das ich ihnen gegeben hatte,
+in dem Milch und Honig fließen,
+die Zierde aller Länder,
+<sup>16</sup>weil sie meine Rechtsordnungen verwarfen
+und nicht in meinen Satzungen gingen
+und meine Sabbate entweihten,
+denn ihr Herz ging ihren Götzen nach.
+<sup>17</sup>Doch mein Auge schonte sie,
+und ich vernichtete sie nicht.
+Ich machte ihnen in der Wüste kein Ende.
+
+> **Was bedeutet das?**
+> Vers 11: Gottes Gebote sind gut. Sie sind dazu da, dass Menschen „leben“ (vgl. 3. Mose 18,5). Sie sind kein Joch, sondern ein Geschenk für ein gutes Leben.
+> Vers 12: Der Sabbat ist ein Zeichen der besonderen Beziehung zwischen Gott und seinem Volk (2. Mose 31,13). Gerade im Exil, ohne Tempel, wurde der Sabbat für die Juden ganz besonders wichtig.
+> Vers 15–17: Die erste Generation durfte nicht ins verheißene Land (4. Mose 14). Aber Gott hat sie nicht vernichtet. Er hat sie geschont.
+
+---
+
+### In der Wüste: die zweite Generation (Vers 18–26)
+
+<sup>18</sup>Ich sagte zu ihren Kindern in der Wüste:
+‚Geht nicht in den Satzungen eurer Väter.
+Haltet nicht ihre Rechtsordnungen
+und verunreinigt euch nicht mit ihren Götzen.
+<sup>19</sup>Ich bin der HERR, euer Gott.
+Geht in meinen Satzungen,
+haltet meine Rechtsordnungen und tut sie.
+<sup>20</sup>Heiligt meine Sabbate.
+Sie sollen ein Zeichen sein zwischen mir und euch,
+damit ihr erkennt, dass ich der HERR, euer Gott, bin.‘
+<sup>21</sup>Aber auch die Kinder lehnten sich gegen mich auf.
+Sie gingen nicht in meinen Satzungen
+und hielten meine Rechtsordnungen nicht, um sie zu tun,
+durch die der Mensch lebt, wenn er sie tut.
+Sie entweihten meine Sabbate.
+Da sagte ich, ich würde meinen Grimm über sie ausgießen,
+um meinen Zorn an ihnen in der Wüste zu vollenden.
+<sup>22</sup>Dennoch zog ich meine Hand zurück
+und handelte um meines Namens willen,
+damit er nicht entweiht würde vor den Augen der Völker,
+vor deren Augen ich sie herausgeführt hatte.
+<sup>23</sup>Außerdem schwor ich ihnen in der Wüste,
+dass ich sie unter die Völker zerstreuen
+und sie in die Länder versprengen würde,
+<sup>24</sup>weil sie meine Rechtsordnungen nicht getan,
+sondern meine Satzungen verworfen
+und meine Sabbate entweiht hatten
+und ihre Augen an den Götzen ihrer Väter hingen.
+<sup>25</sup>Außerdem gab ich ihnen auch Satzungen, die nicht gut waren,
+und Rechtsordnungen, durch die sie nicht leben konnten.
+<sup>26</sup>Ich machte sie unrein durch ihre eigenen Gaben,
+indem sie alles, was den Mutterleib öffnet, durch das Feuer gehen ließen,
+damit ich sie verwüste,
+damit sie erkennen, dass ich der HERR bin.“‘
+
+> **Was bedeutet das?**
+> Auch die zweite Generation macht dieselben Fehler. Und wieder handelt Gott „um seines Namens willen“ und schont sie.
+> Vers 25–26: Das sind sehr schwierige Verse. „Satzungen, die nicht gut waren“ – das kann nicht bedeuten, dass Gott schlechte Gebote gegeben hat. An anderer Stelle verbietet Gott ausdrücklich Kinderopfer (3. Mose 18,21; 5. Mose 18,10; Jeremia 7,31: „was ich nicht geboten habe und was mir nie in den Sinn gekommen ist“).
+> Eine häufige Erklärung: Gott hat sie ihren eigenen falschen Weg gehen lassen. Weil sie seine guten Gebote nicht wollten, überließ er sie den schlechten Bräuchen, die sie selbst wählten, bis hin zu den grausamen Kinderopfern der fremden Religionen. (Vgl. Römer 1,24: „Darum hat Gott sie dahingegeben …“)
+> Eine andere Erklärung: Das Gebot, die Erstgeborenen Gott zu „geben“ (2. Mose 13,2.12), wurde von manchen völlig falsch verstanden und als Kinderopfer missbraucht. Gott wollte aber immer, dass die Erstgeborenen ausgelöst werden (2. Mose 13,13).
+
+---
+
+### Im verheißenen Land (Vers 27–29)
+
+<sup>27</sup>Darum, Menschensohn, rede zum Haus Israel und sag ihnen:
+‚So spricht der Herr, der HERR:
+„Auch damit haben mich eure Väter gelästert,
+dass sie Untreue gegen mich begangen haben.
+<sup>28</sup>Denn als ich sie in das Land gebracht hatte,
+das ihnen zu geben ich geschworen hatte,
+da sahen sie jeden hohen Hügel und jeden dichten Baum,
+und sie brachten dort ihre Schlachtopfer dar,
+und dort legten sie ihre Opfergaben hin, die mich reizten.
+Dort machten sie auch ihren lieblichen Duft,
+und dort gossen sie ihre Trankopfer aus.
+<sup>29</sup>Da sagte ich zu ihnen:
+‚Was ist das für eine Anhöhe, zu der ihr hingeht?‘
+Darum heißt sie ‚Bama‘ bis zu diesem Tag.“‘
+
+> **Was bedeutet das?**
+> Auch im verheißenen Land ging es weiter: Auf jedem Hügel und unter jedem Baum opferten sie fremden Göttern.
+> Vers 29: „Bama“ ist das hebräische Wort für „Anhöhe“ oder „Höhenheiligtum“. Hier steht ein Wortspiel: „ba“ heißt „hingehen“ und „ma“ heißt „was“. Also etwa: „Was ist das, wo ihr hingeht?“ Gott spottet über diese Kultstätten.
+
+---
+
+### Ihr wollt sein wie die anderen Völker (Vers 30–32)
+
+<sup>30</sup>Darum sag zum Haus Israel:
+‚So spricht der Herr, der HERR:
+„Verunreinigt ihr euch auf dem Weg eurer Väter?
+Treibt ihr Hurerei mit ihren Scheusalen?
+<sup>31</sup>Wenn ihr eure Gaben darbringt,
+wenn ihr eure Söhne durch das Feuer gehen lasst,
+verunreinigt ihr euch dann mit all euren Götzen bis zu diesem Tag?
+Und da sollte ich mich von euch befragen lassen, Haus Israel?
+So wahr ich lebe, spricht der Herr, der HERR,
+ich lasse mich von euch nicht befragen!
+<sup>32</sup>Was euch in den Sinn kommt, wird gewiss nicht geschehen,
+wenn ihr sagt:
+‚Wir wollen sein wie die Völker,
+wie die Sippen der Länder,
+und Holz und Stein dienen.‘
+
+> **Was bedeutet das?**
+> Jetzt kommt Gott zur Gegenwart: Die Ältesten tun dasselbe wie ihre Väter.
+> Vers 32: Hier kommt heraus, was sie wirklich denken: „Wir wollen sein wie alle anderen Völker.“ Im Exil war die Versuchung groß, sich einfach anzupassen, die Götter der Babylonier anzubeten und die eigene Identität aufzugeben.
+> Aber Gott sagt: Das wird nicht geschehen. Gott lässt sein Volk nicht los.
+
+---
+
+### Ein neuer Auszug (Vers 33–38)
+
+<sup>33</sup>So wahr ich lebe“, spricht der Herr, der HERR,
+„gewiss, mit starker Hand,
+mit ausgestrecktem Arm
+und mit ausgegossenem Grimm
+will ich König über euch sein.
+<sup>34</sup>Ich werde euch herausführen aus den Völkern
+und euch sammeln aus den Ländern, in die ihr zerstreut seid,
+mit starker Hand, mit ausgestrecktem Arm
+und mit ausgegossenem Grimm.
+<sup>35</sup>Ich werde euch in die Wüste der Völker bringen,
+und dort werde ich mit euch ins Gericht gehen,
+von Angesicht zu Angesicht.
+<sup>36</sup>So wie ich mit euren Vätern in der Wüste des Landes Ägypten ins Gericht gegangen bin,
+so werde ich mit euch ins Gericht gehen“,
+spricht der Herr, der HERR.
+<sup>37</sup>„Ich werde euch unter dem Hirtenstab hindurchgehen lassen
+und euch in die Bindung des Bundes bringen.
+<sup>38</sup>Ich werde die Aufrührer und die, die mir nicht gehorchen,
+aus eurer Mitte aussondern.
+Ich werde sie aus dem Land herausführen, wo sie als Fremde wohnen,
+aber in das Land Israel sollen sie nicht kommen.
+Dann werdet ihr erkennen, dass ich der HERR bin.
+
+> **Was bedeutet das?**
+> Gott kündigt einen neuen Auszug an, wie damals aus Ägypten: „mit starker Hand und ausgestrecktem Arm“ (vgl. 5. Mose 5,15). Diesmal aus Babylon und aus allen Ländern.
+> Vers 35–36: Wie damals in der Wüste wird es eine Zeit der Prüfung geben.
+> Vers 37: „Unter dem Stab hindurchgehen“ – so zählte ein Hirte seine Schafe. Jedes Schaf ging unter seinem Stab hindurch, und er sah es genau an. Gott kennt jeden Einzelnen.
+
+---
+
+### Auf meinem heiligen Berg (Vers 39–44)
+
+<sup>39</sup>Ihr aber, Haus Israel,
+so spricht der Herr, der HERR:
+„Geht hin, jeder diene seinen Götzen,
+auch künftig, wenn ihr nicht auf mich hören wollt.
+Aber meinen heiligen Namen sollt ihr nicht mehr entweihen
+mit euren Gaben und mit euren Götzen.
+<sup>40</sup>Denn auf meinem heiligen Berg,
+auf dem hohen Berg Israels“,
+spricht der Herr, der HERR,
+„dort wird mir das ganze Haus Israel dienen,
+sie alle, im Land.
+Dort werde ich sie annehmen,
+und dort werde ich eure Opfergaben verlangen
+und die Erstlinge eurer Gaben
+mit all euren heiligen Dingen.
+<sup>41</sup>Wie einen lieblichen Duft werde ich euch annehmen,
+wenn ich euch aus den Völkern herausführe
+und euch aus den Ländern sammle, in die ihr zerstreut worden seid.
+Ich werde mich an euch heilig erweisen vor den Augen der Völker.
+<sup>42</sup>Ihr werdet erkennen, dass ich der HERR bin,
+wenn ich euch in das Land Israel bringe,
+in das Land, das ich euren Vätern zu geben geschworen habe.
+<sup>43</sup>Dort werdet ihr an eure Wege denken
+und an alle eure Taten, mit denen ihr euch verunreinigt habt.
+Dann werdet ihr euch vor euch selbst ekeln
+wegen all eurer Bosheiten, die ihr begangen habt.
+<sup>44</sup>Ihr werdet erkennen, dass ich der HERR bin,
+wenn ich mit euch um meines Namens willen handle,
+nicht nach euren bösen Wegen
+und nicht nach euren verdorbenen Taten,
+Haus Israel“,
+spricht der Herr, der HERR.‘“
+
+> **Was bedeutet das?**
+> Vers 39: Gott sagt bitter-ironisch: „Wenn ihr nicht hören wollt, dann dient doch euren Götzen. Aber tut nicht so, als würdet ihr mir dienen.“ Gott will keine geteilte Treue.
+> Vers 40–42: Dann die Verheißung: Ganz Israel wird wieder auf Gottes heiligem Berg (dem Zion in Jerusalem) zusammenkommen und Gott dienen. Gott wird sie annehmen „wie einen lieblichen Duft“.
+> Vers 43: Wenn sie Gottes Güte erleben, werden sie erst richtig erkennen, wie falsch sie gehandelt haben. Echte Reue kommt oft nicht durch Strafe, sondern durch erfahrene Liebe.
+> Vers 44: Am Ende wieder der Schlüsselsatz: Gott handelt „um seines Namens willen, nicht nach euren bösen Wegen“. Das ist Gnade: Gott behandelt uns nicht so, wie wir es verdienen (vgl. Psalm 103,10).
+
+---
+
+### Feuer im Wald des Südens (Vers 45–49)
+
+<sup>45</sup>Das Wort des HERRN kam zu mir:
+<sup>46</sup>„Menschensohn, richte dein Gesicht nach Süden,
+predige gegen den Süden
+und weissage gegen den Wald des Feldes im Süden.
+<sup>47</sup>Sag zum Wald des Südens:
+‚Höre das Wort des HERRN!
+So spricht der Herr, der HERR:
+„Siehe, ich zünde ein Feuer in dir an,
+und es wird jeden grünen Baum in dir verzehren
+und jeden dürren Baum.
+Die lodernde Flamme wird nicht gelöscht werden,
+und alle Gesichter vom Süden bis zum Norden werden davon versengt werden.
+<sup>48</sup>Alles Fleisch wird sehen, dass ich, der HERR, es angezündet habe.
+Es wird nicht gelöscht werden.“‘“
+<sup>49</sup>Da sagte ich:
+„Ach, Herr, HERR!
+Sie sagen von mir:
+‚Redet der nicht immer nur in Gleichnissen?‘“
+
+> **Was bedeutet das?**
+> Hinweis: In deutschen Bibeln stehen diese Verse meist als Kapitel 21, Vers 1–5. Wir folgen hier der Zählung des WEB.
+> Der „Süden“ ist von Babylon aus gesehen Juda und Jerusalem (man kam von Norden her ins Land). Ein Waldbrand wird alles verbrennen, grüne und dürre Bäume, also Gerechte und Ungerechte. In Kapitel 21 wird das Bild erklärt.
+> Vers 49: Hesekiel klagt: Die Leute nehmen ihn nicht ernst. „Der erzählt doch nur Geschichten.“ Man kann Gottes Wort als bloße Unterhaltung abtun, aber dann verpasst man seine ernste Botschaft.
