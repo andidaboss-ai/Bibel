@@ -105689,3 +105689,499 @@ für das Sündopfer, das Brandopfer, das Speisopfer und das Öl.“
 > Vers 21: Das Passa (Pessach) erinnert an die Befreiung aus Ägypten (2. Mose 12). Es wird bis heute im Judentum gefeiert. Jesus feierte vor seinem Tod das Passamahl mit seinen Jüngern (Lukas 22,15).
 > Vers 25: Das Fest im siebten Monat am 15. Tag ist das Laubhüttenfest (Sukkot), ein fröhliches Erntefest (3. Mose 23,33–43).
 > Interessant: Manche Feste aus dem 3. Buch Mose, wie das Wochenfest (Schawuot) oder der Versöhnungstag (Jom Kippur), werden hier nicht erwähnt. Hesekiels Ordnung weicht an einigen Stellen von den Gesetzen Moses ab. Darüber haben jüdische Gelehrte schon früh diskutiert.
+
+## Hesekiel – Kapitel 46
+#### Ordnungen für Fürst und Volk
+
+---
+
+### Sabbat und Neumond (Vers 1–8)
+
+<sup>1</sup>So spricht der Herr, der HERR:
+„Das Tor des inneren Vorhofs, das nach Osten schaut,
+soll an den sechs Arbeitstagen verschlossen sein.
+Aber am Sabbattag soll es geöffnet werden,
+und am Tag des Neumonds soll es geöffnet werden.
+<sup>2</sup>Der Fürst soll von außen durch die Vorhalle des Tores hineingehen
+und sich an den Pfosten des Tores stellen.
+Die Priester sollen sein Brandopfer und seine Friedensopfer bereiten,
+und er soll auf der Schwelle des Tores anbeten.
+Dann soll er hinausgehen.
+Das Tor aber soll bis zum Abend nicht verschlossen werden.
+<sup>3</sup>Das Volk des Landes soll am Eingang dieses Tores vor dem HERRN anbeten,
+an den Sabbaten und an den Neumonden.
+<sup>4</sup>Das Brandopfer, das der Fürst dem HERRN darbringen soll,
+soll am Sabbattag sein:
+sechs Lämmer ohne Fehler und ein Widder ohne Fehler,
+<sup>5</sup>und das Speisopfer soll ein Efa für den Widder sein,
+und das Speisopfer für die Lämmer, so viel er geben kann,
+und ein Hin Öl auf ein Efa.
+<sup>6</sup>Am Tag des Neumonds soll es ein junger Stier ohne Fehler sein,
+sechs Lämmer und ein Widder.
+Sie sollen ohne Fehler sein.
+<sup>7</sup>Er soll ein Speisopfer bereiten:
+ein Efa für den Stier
+und ein Efa für den Widder,
+und für die Lämmer, so viel er kann,
+und ein Hin Öl auf ein Efa.
+<sup>8</sup>Wenn der Fürst hineingeht,
+soll er durch die Vorhalle des Tores hineingehen,
+und auf demselben Weg soll er hinausgehen.
+
+> **Was bedeutet das?**
+> Das innere Osttor ist an normalen Tagen geschlossen. Nur am Sabbat und am Neumond (dem Monatsanfang) wird es geöffnet. Der Fürst betet dann auf der Schwelle, und das Volk betet draußen am Eingang. Alle sehen durch das offene Tor zum Altar und zum Tempel.
+> Der Fürst darf nicht in den inneren Vorhof hinein. Er ist zwar der Anführer des Volkes, aber kein Priester. Gott steht über allen Herrschern.
+> Vers 5 und 7: „So viel er geben kann“ – die Opfergabe richtet sich nach den Möglichkeiten. Gott verlangt nichts Unmögliches.
+
+---
+
+### Wie man durch den Tempel geht (Vers 9–15)
+
+<sup>9</sup>Wenn aber das Volk des Landes an den Festzeiten vor den HERRN kommt,
+dann soll, wer durch das Nordtor hineingeht, um anzubeten,
+durch das Südtor hinausgehen.
+Und wer durch das Südtor hineingeht,
+soll durch das Nordtor hinausgehen.
+Er soll nicht durch das Tor zurückkehren, durch das er hineingekommen ist,
+sondern geradeaus vor sich hinausgehen.
+<sup>10</sup>Der Fürst soll mitten unter ihnen hineingehen, wenn sie hineingehen.
+Wenn sie hinausgehen, soll er hinausgehen.
+<sup>11</sup>An den Festen und an den bestimmten Feiertagen
+soll das Speisopfer ein Efa für einen Stier sein
+und ein Efa für einen Widder,
+und für die Lämmer, so viel er geben kann,
+und ein Hin Öl auf ein Efa.
+<sup>12</sup>Wenn der Fürst eine freiwillige Gabe bereitet,
+ein Brandopfer oder Friedensopfer als freiwillige Gabe für den HERRN,
+soll man ihm das Tor öffnen, das nach Osten schaut.
+Er soll sein Brandopfer und seine Friedensopfer bereiten,
+wie er es am Sabbattag tut.
+Dann soll er hinausgehen,
+und nach seinem Hinausgehen soll man das Tor schließen.
+<sup>13</sup>Du sollst täglich ein einjähriges Lamm ohne Fehler
+als Brandopfer für den HERRN bereiten.
+Morgen für Morgen sollst du es bereiten.
+<sup>14</sup>Du sollst Morgen für Morgen ein Speisopfer dazu bereiten:
+ein Sechstel Efa
+und ein Drittel Hin Öl, um das Feinmehl zu befeuchten,
+ein Speisopfer für den HERRN,
+beständig nach einer ewigen Ordnung.
+<sup>15</sup>So sollen sie das Lamm, das Speisopfer und das Öl bereiten,
+Morgen für Morgen,
+als beständiges Brandopfer.“
+
+> **Was bedeutet das?**
+> Vers 9: An den großen Festen ist der Tempel voller Menschen. Damit es kein Gedränge gibt, gilt eine Einbahnregel: Wer im Norden hereinkommt, geht im Süden hinaus, und umgekehrt. Eine praktische Ordnung! Manche Ausleger sehen darin auch ein Bild: Wer Gott begegnet hat, geht nicht denselben Weg zurück, sondern geht verändert weiter.
+> Vers 10: Der Fürst geht mitten unter dem Volk, nicht vor ihm und nicht getrennt. Er ist einer von ihnen.
+> Vers 13–15: Jeden Morgen wird ein Lamm geopfert, das „beständige Opfer“. Es zeigt: Jeder Tag gehört Gott.
+
+---
+
+### Das Erbe des Fürsten (Vers 16–18)
+
+<sup>16</sup>So spricht der Herr, der HERR:
+„Wenn der Fürst einem seiner Söhne ein Geschenk gibt,
+ist es sein Erbteil.
+Es soll seinen Söhnen gehören.
+Es ist ihr Besitz als Erbteil.
+<sup>17</sup>Wenn er aber von seinem Erbteil einem seiner Diener ein Geschenk gibt,
+soll es diesem bis zum Jahr der Freilassung gehören.
+Dann soll es an den Fürsten zurückfallen.
+Sein Erbteil aber soll seinen Söhnen gehören.
+<sup>18</sup>Außerdem soll der Fürst nichts vom Erbteil des Volkes nehmen,
+um sie aus ihrem Besitz zu verdrängen.
+Er soll seinen Söhnen ein Erbteil aus seinem eigenen Besitz geben,
+damit mein Volk nicht zerstreut wird,
+jeder von seinem Besitz.“
+
+> **Was bedeutet das?**
+> Vers 17: Das „Jahr der Freilassung“ ist das Erlassjahr (Jobeljahr), alle 50 Jahre. Dann kehrte Land an die ursprünglichen Besitzer zurück (3. Mose 25,10–13).
+> Vers 18: Wieder der Schutz der einfachen Leute: Der Fürst darf dem Volk kein Land wegnehmen. Er darf seine Söhne nur mit seinem eigenen Besitz versorgen. Die Mächtigen dürfen sich nicht auf Kosten der Schwachen bereichern.
+
+---
+
+### Die Küchen des Tempels (Vers 19–24)
+
+<sup>19</sup>Dann brachte er mich durch den Eingang,
+der an der Seite des Tores war,
+in die heiligen Kammern für die Priester,
+die nach Norden schauten.
+Und siehe, dort war ein Platz an der Rückseite nach Westen.
+<sup>20</sup>Er sagte zu mir:
+„Das ist der Ort, wo die Priester das Schuldopfer und das Sündopfer kochen
+und wo sie das Speisopfer backen sollen,
+damit sie sie nicht in den äußeren Vorhof hinausbringen,
+um das Volk zu heiligen.“
+<sup>21</sup>Dann führte er mich hinaus in den äußeren Vorhof
+und ließ mich an den vier Ecken des Vorhofs vorbeigehen.
+Und siehe, in jeder Ecke des Vorhofs war ein Hof.
+<sup>22</sup>In den vier Ecken des Vorhofs waren umschlossene Höfe,
+vierzig Ellen lang und dreißig breit.
+Diese vier in den Ecken hatten dieselbe Größe.
+<sup>23</sup>Ringsum in ihnen war eine Mauer, rings um die vier,
+und unten an den Mauern ringsum waren Kochstellen gemacht.
+<sup>24</sup>Dann sagte er zu mir:
+„Das sind die Küchen,
+wo die Diener des Hauses die Schlachtopfer des Volkes kochen sollen.“
+
+> **Was bedeutet das?**
+> Der Tempel hat sogar Küchen! Es gibt zwei Arten: Die Küchen der Priester für die heiligen Opferanteile, und vier große Küchen in den Ecken des äußeren Vorhofs, wo die Leviten die Opfermahlzeiten für das Volk kochen.
+> Viele Opfer endeten mit einem gemeinsamen Festmahl. Gottesdienst und gemeinsames Essen gehörten zusammen. Das erinnert an das Abendmahl (die Eucharistie) bei Christen und an die Festmahlzeiten im Judentum, zum Beispiel am Sabbat und zu Pessach.
+
+## Hesekiel – Kapitel 47
+#### Der Strom aus dem Tempel
+
+---
+
+### Das Wasser wird immer tiefer (Vers 1–6)
+
+<sup>1</sup>Er brachte mich zurück zum Eingang des Tempels.
+Und siehe, Wasser floss unter der Schwelle des Tempels hervor nach Osten,
+denn die Vorderseite des Tempels schaute nach Osten.
+Das Wasser floss unten herab,
+von der rechten Seite des Tempels,
+südlich vom Altar.
+<sup>2</sup>Dann führte er mich hinaus durch das Nordtor
+und führte mich außen herum zum äußeren Tor,
+zum Tor, das nach Osten schaut.
+Und siehe, Wasser floss auf der rechten Seite heraus.
+<sup>3</sup>Als der Mann mit der Schnur in seiner Hand nach Osten hinausging,
+maß er tausend Ellen
+und ließ mich durch das Wasser gehen,
+Wasser, das bis an die Knöchel reichte.
+<sup>4</sup>Wieder maß er tausend
+und ließ mich durch das Wasser gehen,
+Wasser, das bis an die Knie reichte.
+Wieder maß er tausend
+und ließ mich durch Wasser gehen, das bis an die Hüften reichte.
+<sup>5</sup>Danach maß er tausend,
+und es war ein Fluss, durch den ich nicht hindurchgehen konnte,
+denn das Wasser war gestiegen,
+Wasser zum Schwimmen,
+ein Fluss, durch den man nicht hindurchgehen konnte.
+<sup>6</sup>Er sagte zu mir:
+„Menschensohn, hast du das gesehen?“
+Dann führte er mich zurück an das Ufer des Flusses.
+
+> **Was bedeutet das?**
+> Eine wunderschöne Vision: Unter der Schwelle des Tempels kommt Wasser hervor. Zuerst nur ein kleines Rinnsal. Aber es wird immer tiefer: bis an die Knöchel, bis an die Knie, bis an die Hüften und schließlich ein Fluss, in dem man schwimmen muss.
+> Das Erstaunliche: Normalerweise wird ein Fluss nur größer, wenn andere Bäche dazukommen. Dieser Fluss wächst ganz von allein. Er kommt direkt von Gott.
+> Das Bild zeigt: Wo Gott wohnt, fließt Leben. Und dieses Leben wächst und wird immer mehr.
+> Jesus sagt: „Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen“ (Johannes 7,38). Vgl. auch Psalm 46,4 (in deutschen Bibeln 46,5): „Ein Strom, dessen Bäche die Stadt Gottes erfreuen.“
+
+---
+
+### Das Wasser macht alles gesund (Vers 7–12)
+
+<sup>7</sup>Als ich zurückgekehrt war,
+siehe, da standen am Ufer des Flusses sehr viele Bäume,
+auf der einen und auf der anderen Seite.
+<sup>8</sup>Da sagte er zu mir:
+„Dieses Wasser fließt hinaus in die östliche Gegend
+und wird in die Araba hinabfließen.
+Dann wird es zum Meer gehen
+und in das Meer fließen, das zum Ausfließen gebracht wird,
+und das Wasser wird gesund werden.
+<sup>9</sup>Es wird geschehen, dass alle lebendigen Wesen, die dort wimmeln,
+überall wohin der Fluss kommt,
+leben werden.
+Dann wird es eine sehr große Menge Fische geben,
+denn dieses Wasser ist dorthin gekommen,
+und das Wasser des Meeres wird gesund werden,
+und alles wird leben, wohin der Fluss kommt.
+<sup>10</sup>Es wird geschehen, dass Fischer an ihm stehen werden.
+Von En-Gedi bis En-Eglajim wird ein Platz zum Ausbreiten von Netzen sein.
+Ihre Fische werden nach ihren Arten sein,
+wie die Fische des großen Meeres,
+sehr viele.
+<sup>11</sup>Aber seine Sümpfe und Lachen werden nicht gesund werden.
+Sie werden dem Salz überlassen.
+<sup>12</sup>An den Ufern des Flusses, auf beiden Seiten,
+werden alle Arten von Fruchtbäumen wachsen,
+deren Laub nicht welken
+und deren Frucht nicht aufhören wird.
+Jeden Monat werden sie neue Früchte tragen,
+denn ihr Wasser kommt aus dem Heiligtum hervor.
+Ihre Frucht wird zur Nahrung dienen
+und ihr Laub zur Heilung.“
+
+> **Was bedeutet das?**
+> Der Fluss fließt durch die Wüste (die Araba ist das Tal des Jordan bis zum Toten Meer) und dann ins Tote Meer. Das Tote Meer ist so salzig, dass darin keine Fische leben können. Aber dieses Wasser macht sogar das Tote Meer lebendig! Fischer werden dort ihre Netze auswerfen.
+> En-Gedi ist eine Oase am Westufer des Toten Meeres, die es bis heute gibt.
+> Vers 11: Die Sümpfe bleiben salzig. Salz war wichtig für das Leben damals (zum Würzen und Haltbarmachen). Gott sorgt für alles.
+> Vers 12: Bäume, die jeden Monat Frucht tragen und deren Blätter heilen. Das ist ein Bild für das Paradies. Am Ende der Bibel wird dieses Bild aufgenommen: „Ein Strom lebendigen Wassers … und auf beiden Seiten des Stroms der Baum des Lebens, der zwölfmal Frucht trägt, jeden Monat. Und die Blätter des Baumes dienen zur Heilung der Völker“ (Offenbarung 22,1–2).
+> Die Botschaft: Gottes Gegenwart verwandelt auch das Tote in Lebendiges, die Wüste in einen Garten.
+
+---
+
+### Die Grenzen des Landes (Vers 13–21)
+
+<sup>13</sup>So spricht der Herr, der HERR:
+„Das soll die Grenze sein,
+nach der ihr das Land als Erbteil verteilen sollt
+nach den zwölf Stämmen Israels.
+Josef soll zwei Anteile haben.
+<sup>14</sup>Ihr sollt es erben, einer wie der andere,
+denn ich habe meine Hand erhoben, es euren Vätern zu geben.
+Dieses Land soll euch als Erbteil zufallen.
+<sup>15</sup>Das soll die Grenze des Landes sein:
+Auf der Nordseite vom großen Meer an,
+auf dem Weg nach Hetlon
+bis zum Zugang nach Zedad,
+<sup>16</sup>Hamat, Berota, Sibrajim
+(das zwischen der Grenze von Damaskus und der Grenze von Hamat liegt),
+bis Hazer-Hattikon, das an der Grenze des Hauran liegt.
+<sup>17</sup>Die Grenze vom Meer an soll Hazar-Enon sein,
+an der Grenze von Damaskus,
+und im Norden nordwärts ist die Grenze von Hamat.
+Das ist die Nordseite.
+<sup>18</sup>Die Ostseite,
+zwischen dem Hauran, Damaskus, Gilead und dem Land Israel,
+soll der Jordan sein.
+Von der Nordgrenze bis zum östlichen Meer sollt ihr messen.
+Das ist die Ostseite.
+<sup>19</sup>Die Südseite nach Süden soll von Tamar an sein
+bis zu den Wassern von Meribot-Kadesch,
+zum Bach hin,
+bis zum großen Meer.
+Das ist die Südseite nach Süden.
+<sup>20</sup>Die Westseite soll das große Meer sein,
+von der Südgrenze bis gegenüber dem Zugang nach Hamat.
+Das ist die Westseite.
+<sup>21</sup>So sollt ihr dieses Land unter euch verteilen
+nach den Stämmen Israels.
+
+> **Was bedeutet das?**
+> Hier werden die Grenzen des neuen Landes beschrieben. Sie ähneln den Grenzen in 4. Mose 34,1–12.
+> Das „große Meer“ ist das Mittelmeer, das „östliche Meer“ ist das Tote Meer, der „Bach“ ist der Bach Ägyptens (Wadi el-Arisch).
+> Vers 13: Josef bekommt zwei Anteile, für seine Söhne Ephraim und Manasse (vgl. 1. Mose 48,5). So bleiben es zwölf Anteile, obwohl der Stamm Levi kein eigenes Land bekommt.
+> Vers 14: „Einer wie der andere“ – alle Stämme bekommen gleich große Anteile. Gerechtigkeit für alle.
+> Diese Grenzen beschreiben eine Vision und eine Verheißung. Sie sind kein Plan für heutige politische Grenzen.
+
+---
+
+### Auch die Fremden bekommen ein Erbteil (Vers 22–23)
+
+<sup>22</sup>Ihr sollt es durch das Los verteilen,
+als Erbteil für euch
+und für die Fremden, die unter euch wohnen
+und die unter euch Kinder bekommen.
+Sie sollen für euch sein wie die Einheimischen unter den Kindern Israel.
+Sie sollen mit euch ein Erbteil bekommen
+unter den Stämmen Israels.
+<sup>23</sup>In welchem Stamm der Fremde wohnt,
+dort sollt ihr ihm sein Erbteil geben“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Ein revolutionärer Satz für die damalige Zeit! Die Fremden, die dauerhaft unter Israel leben und dort ihre Familien haben, sollen genauso Land bekommen wie die Einheimischen. Sie sollen „wie die Einheimischen“ sein.
+> Im alten Gesetz durften Fremde kein Land besitzen. Hier geht Hesekiel einen großen Schritt weiter: Im neuen Land Gottes gehören die Fremden ganz dazu.
+> Das ist eine starke Botschaft für heute: Menschen, die aus anderen Ländern zu uns gekommen sind und hier leben, sollen gleiche Rechte und eine echte Heimat bekommen. Gott schließt niemanden aus (vgl. 3. Mose 19,34: „Der Fremde soll euch sein wie ein Einheimischer, und du sollst ihn lieben wie dich selbst“).
+
+## Hesekiel – Kapitel 48
+#### Der HERR ist hier
+
+---
+
+### Die Stämme im Norden (Vers 1–7)
+
+<sup>1</sup>„Das sind nun die Namen der Stämme:
+Vom Nordende an,
+entlang dem Weg nach Hetlon bis zum Zugang nach Hamat,
+Hazar-Enan an der Grenze von Damaskus,
+nordwärts neben Hamat
+(und ihre Seiten sollen nach Osten und Westen gehen):
+Dan, ein Anteil.
+<sup>2</sup>An der Grenze Dans, von der Ostseite bis zur Westseite:
+Asser, ein Anteil.
+<sup>3</sup>An der Grenze Assers, von der Ostseite bis zur Westseite:
+Naftali, ein Anteil.
+<sup>4</sup>An der Grenze Naftalis, von der Ostseite bis zur Westseite:
+Manasse, ein Anteil.
+<sup>5</sup>An der Grenze Manasses, von der Ostseite bis zur Westseite:
+Ephraim, ein Anteil.
+<sup>6</sup>An der Grenze Ephraims, von der Ostseite bis zur Westseite:
+Ruben, ein Anteil.
+<sup>7</sup>An der Grenze Rubens, von der Ostseite bis zur Westseite:
+Juda, ein Anteil.
+
+> **Was bedeutet das?**
+> Das Land wird ganz neu aufgeteilt, in lauter gleich breite Streifen von Osten nach Westen, wie Bänder. Sieben Stämme wohnen nördlich vom heiligen Bezirk.
+> Diese Aufteilung ist anders als bei Josua (Josua 13–19). Sie ist sehr regelmäßig und gerecht: Jeder Stamm bekommt einen gleich breiten Streifen mit Zugang zum Jordan und zum Meer.
+> Die Stämme, die von Mägden Jakobs abstammen (Dan, Asser, Naftali, Gad), liegen eher am Rand. Die Stämme von Lea und Rahel liegen näher am Heiligtum.
+
+---
+
+### Der heilige Bezirk (Vers 8–22)
+
+<sup>8</sup>An der Grenze Judas, von der Ostseite bis zur Westseite,
+soll die Abgabe sein, die ihr abgeben sollt:
+fünfundzwanzigtausend Ruten breit
+und so lang wie einer der Anteile,
+von der Ostseite bis zur Westseite.
+Und das Heiligtum soll in ihrer Mitte sein.
+<sup>9</sup>Die Abgabe, die ihr dem HERRN abgeben sollt,
+soll fünfundzwanzigtausend Ruten lang
+und zehntausend breit sein.
+<sup>10</sup>Für diese, nämlich für die Priester,
+soll die heilige Abgabe sein:
+nach Norden fünfundzwanzigtausend in der Länge,
+nach Westen zehntausend in der Breite,
+nach Osten zehntausend in der Breite
+und nach Süden fünfundzwanzigtausend in der Länge.
+Und das Heiligtum des HERRN soll in ihrer Mitte sein.
+<sup>11</sup>Sie soll den geheiligten Priestern gehören,
+den Söhnen Zadoks,
+die meine Weisung bewahrt haben,
+die nicht in die Irre gegangen sind,
+als die Kinder Israel in die Irre gingen,
+wie die Leviten in die Irre gingen.
+<sup>12</sup>Sie soll ihnen eine Abgabe von der Abgabe des Landes sein,
+etwas Hochheiliges,
+an der Grenze der Leviten.
+<sup>13</sup>Neben der Grenze der Priester sollen die Leviten
+fünfundzwanzigtausend Ellen in der Länge
+und zehntausend in der Breite haben.
+Die ganze Länge soll fünfundzwanzigtausend sein
+und die Breite zehntausend.
+<sup>14</sup>Sie sollen nichts davon verkaufen
+und nichts eintauschen,
+und das Erste des Landes soll nicht in fremde Hände kommen,
+denn es ist dem HERRN heilig.
+<sup>15</sup>Die fünftausend Ellen, die in der Breite übrig bleiben,
+vor den fünfundzwanzigtausend,
+sollen für den allgemeinen Gebrauch sein,
+für die Stadt,
+zum Wohnen und für Weideland.
+Und die Stadt soll in seiner Mitte sein.
+<sup>16</sup>Das sollen ihre Maße sein:
+die Nordseite viertausendfünfhundert,
+die Südseite viertausendfünfhundert,
+die Ostseite viertausendfünfhundert
+und die Westseite viertausendfünfhundert.
+<sup>17</sup>Die Stadt soll Weideland haben:
+nach Norden zweihundertfünfzig,
+nach Süden zweihundertfünfzig,
+nach Osten zweihundertfünfzig
+und nach Westen zweihundertfünfzig.
+<sup>18</sup>Was von der Länge übrig bleibt, neben der heiligen Abgabe,
+soll zehntausend nach Osten
+und zehntausend nach Westen sein,
+und es soll neben der heiligen Abgabe liegen.
+Sein Ertrag soll zur Nahrung für die dienen,
+die in der Stadt arbeiten.
+<sup>19</sup>Die in der Stadt arbeiten,
+aus allen Stämmen Israels,
+sollen es bebauen.
+<sup>20</sup>Die ganze Abgabe soll ein Quadrat sein,
+fünfundzwanzigtausend mal fünfundzwanzigtausend.
+Ihr sollt sie als heilige Abgabe abgeben,
+mit dem Besitz der Stadt.
+<sup>21</sup>Was übrig bleibt, soll dem Fürsten gehören,
+auf der einen und auf der anderen Seite der heiligen Abgabe
+und des Besitzes der Stadt,
+vor den fünfundzwanzigtausend der Abgabe zur Ostgrenze hin
+und nach Westen vor den fünfundzwanzigtausend zur Westgrenze hin,
+entlang den Anteilen.
+Es soll dem Fürsten gehören.
+Und die heilige Abgabe und das Heiligtum des Hauses
+sollen in ihrer Mitte sein.
+<sup>22</sup>Außerdem soll vom Besitz der Leviten
+und vom Besitz der Stadt,
+die in der Mitte dessen liegen, was dem Fürsten gehört,
+zwischen der Grenze Judas und der Grenze Benjamins,
+alles dem Fürsten gehören.
+
+> **Was bedeutet das?**
+> In der Mitte des Landes, zwischen Juda und Benjamin, liegt der heilige Bezirk, ein großes Quadrat. Darin liegen:
+> – das Land der Priester mit dem Tempel in der Mitte,
+> – das Land der Leviten,
+> – die Stadt mit ihrem Umland.
+> Links und rechts davon liegt das Land des Fürsten.
+> Wieder schreibt das WEB in Vers 8–9 „Ruten“, an anderen Stellen „Ellen“ (vgl. 42,16–20 und 45,1). Wahrscheinlich sind überall Ellen gemeint.
+> Vers 14: Das heilige Land darf nicht verkauft werden. Es gehört Gott.
+> Vers 19: Die Stadt gehört nicht einem Stamm, sondern allen. Menschen aus allen Stämmen arbeiten dort zusammen. Die Stadt ist ein Ort der Einheit.
+> Bemerkenswert: Der Tempel steht nicht in der Stadt, sondern daneben, im Land der Priester.
+
+---
+
+### Die Stämme im Süden (Vers 23–29)
+
+<sup>23</sup>Was die übrigen Stämme betrifft:
+Von der Ostseite bis zur Westseite:
+Benjamin, ein Anteil.
+<sup>24</sup>An der Grenze Benjamins, von der Ostseite bis zur Westseite:
+Simeon, ein Anteil.
+<sup>25</sup>An der Grenze Simeons, von der Ostseite bis zur Westseite:
+Issachar, ein Anteil.
+<sup>26</sup>An der Grenze Issachars, von der Ostseite bis zur Westseite:
+Sebulon, ein Anteil.
+<sup>27</sup>An der Grenze Sebulons, von der Ostseite bis zur Westseite:
+Gad, ein Anteil.
+<sup>28</sup>An der Grenze Gads, auf der Südseite nach Süden,
+soll die Grenze von Tamar an verlaufen
+bis zu den Wassern von Meribat-Kadesch,
+zum Bach hin,
+bis zum großen Meer.
+<sup>29</sup>Das ist das Land, das ihr durch das Los
+den Stämmen Israels als Erbteil verteilen sollt,
+und das sind ihre einzelnen Anteile“,
+spricht der Herr, der HERR.
+
+> **Was bedeutet das?**
+> Fünf Stämme wohnen südlich vom heiligen Bezirk. Zusammen mit den sieben im Norden sind es zwölf Stämme. Das ganze Volk Israel ist wieder vereint, kein Stamm ist vergessen, auch nicht die Stämme des Nordreichs, die schon über 100 Jahre vorher verschleppt worden waren.
+
+---
+
+### Die Stadt mit den zwölf Toren (Vers 30–35)
+
+<sup>30</sup>Das sind die Ausgänge der Stadt:
+Auf der Nordseite viertausendfünfhundert Ruten nach Maß,
+<sup>31</sup>und die Tore der Stadt sollen nach den Stämmen Israels benannt werden,
+drei Tore nach Norden:
+das Tor Rubens, eins,
+das Tor Judas, eins,
+das Tor Levis, eins.
+<sup>32</sup>Auf der Ostseite viertausendfünfhundert Ruten
+und drei Tore:
+das Tor Josefs, eins,
+das Tor Benjamins, eins,
+das Tor Dans, eins.
+<sup>33</sup>Auf der Südseite viertausendfünfhundert Ruten nach Maß
+und drei Tore:
+das Tor Simeons, eins,
+das Tor Issachars, eins,
+das Tor Sebulons, eins.
+<sup>34</sup>Auf der Westseite viertausendfünfhundert Ruten
+mit ihren drei Toren:
+das Tor Gads, eins,
+das Tor Assers, eins,
+das Tor Naftalis, eins.
+<sup>35</sup>Ringsum soll sie achtzehntausend Ruten messen.
+Und der Name der Stadt soll von diesem Tag an sein:
+‚Der HERR ist hier.‘“
+
+> **Was bedeutet das?**
+> Die Stadt ist ein Quadrat mit drei Toren auf jeder Seite, zwölf Tore insgesamt, jedes nach einem Stamm Israels benannt. Hier hat auch Levi ein Tor, und Josef steht für Ephraim und Manasse zusammen. Alle Stämme haben Zugang zur Stadt.
+> Die Offenbarung nimmt dieses Bild auf: Das neue Jerusalem hat zwölf Tore mit den Namen der zwölf Stämme Israels (Offenbarung 21,12–13).
+> Vers 35: Das ist der letzte Satz des Buches, und er ist wunderschön. Die Stadt heißt nicht mehr Jerusalem, sondern „Der HERR ist hier“ (hebräisch „Jahwe Schamma“).
+> Das Buch begann mit einem Mann im Exil, weit weg von zu Hause, der Gottes Herrlichkeit im fremden Land sah. Es endet mit der Gewissheit: Gott wohnt mitten unter seinem Volk. Er ist hier. Für immer.
+
+---
+
+### Rückblick: Was haben wir im Buch Hesekiel gelesen?
+
+> **Was bedeutet das?**
+> **Ein Prophet im Exil:** Hesekiel war ein Priester, der 597 vor Christus nach Babylon verschleppt wurde. Dort, weit weg vom Tempel, öffnete sich der Himmel, und er sah Gottes Herrlichkeit (Kapitel 1). Gott ist nicht an einen Ort gebunden.
+> **Gericht über Jerusalem (Kapitel 1–24):** Mit Worten und vielen Zeichenhandlungen kündigte Hesekiel die Zerstörung Jerusalems an. In einer Vision sah er, wie Gottes Herrlichkeit den entweihten Tempel verließ (Kapitel 8–11).
+> **Der Wächter:** Hesekiel sollte warnen wie ein Wächter auf der Mauer (Kapitel 3 und 33). Er litt mit seinem Volk, bis zum Tod seiner eigenen Frau (Kapitel 24).
+> **Jeder ist verantwortlich:** „Die Väter haben saure Trauben gegessen …“ gilt nicht mehr. Jeder Mensch kann umkehren. „Ich habe keinen Gefallen am Tod … Kehrt um und lebt!“ (18,32; 33,11).
+> **Die Völker (Kapitel 25–32):** Gott ist Herr über alle Völker. Hochmut, Schadenfreude und Gewalt haben überall Folgen, bei Tyrus, Ägypten und allen anderen.
+> **Der gute Hirte:** „Ich selbst will meine Schafe suchen“ (Kapitel 34). Gott sucht das Verlorene und verbindet das Verletzte.
+> **Ein neues Herz:** „Ich gebe euch ein neues Herz und einen neuen Geist“ (36,26). Gott verändert die Menschen von innen.
+> **Trockene Knochen:** Gott kann Totes lebendig machen. „Ich öffne eure Gräber“ (Kapitel 37). Keine Lage ist für Gott hoffnungslos.
+> **Der neue Tempel (Kapitel 40–48):** Gottes Herrlichkeit kehrt zurück (Kapitel 43). Aus dem Tempel fließt ein Strom, der sogar das Tote Meer lebendig macht (Kapitel 47). Auch die Fremden bekommen ein Erbteil.
+> **Schwere Texte:** Manche Bilder in Hesekiel sind hart und gewaltvoll, besonders die Frauenbilder in den Kapiteln 16 und 23. Sie beschreiben die Katastrophe ihrer Zeit. Sie rechtfertigen niemals Gewalt gegen Frauen oder andere Menschen.
+> **Der letzte Satz:** „Der HERR ist hier“ (48,35). Darauf läuft das ganze Buch hinaus.
+> **Für heute:** Wer sich wie im Exil fühlt, fern von zu Hause, ohne Hoffnung, „vertrocknet“: Hesekiel sagt, dass Gott gerade dort zu finden ist und neues Leben schenken kann. Wer Hilfe braucht: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222.
+> **Wie geht es weiter?** Als Nächstes kommt das Buch Daniel. Daniel lebte zur selben Zeit wie Hesekiel am Hof des Königs von Babylon. Es erzählt von Daniel und seinen Freunden, die Gott auch in der Fremde treu bleiben, vom Feuerofen und von der Löwengrube, und es enthält große Visionen von den Reichen der Welt und vom Reich Gottes.
