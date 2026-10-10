@@ -80,7 +80,7 @@ Dann sollen sie andere Gewänder anziehen
 und sich dem nähern, was für das Volk ist.“
 
 > **Was bedeutet das?**
-> In diesen Kammern essen die Priester ihren Anteil an den Opfern (vgl. 3. Mose 6,9–11.19). Dort bewahren sie auch die heiligen Gaben auf.
+> In diesen Kammern essen die Priester ihren Anteil an den Opfern (vgl. 3. Mose 6,16.26; in deutschen Bibeln 6,9.19). Dort bewahren sie auch die heiligen Gaben auf.
 > Vers 14: Die Priester tragen im Heiligtum besondere Kleidung. Bevor sie zum Volk hinausgehen, müssen sie sich umziehen. So wird deutlich unterschieden zwischen dem Heiligen und dem Alltäglichen.
 
 ---
