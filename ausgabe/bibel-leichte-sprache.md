@@ -122438,3 +122438,306 @@ man solle ihr etwas zu essen geben.
 > Vers 41: „Talita kum“ ist Aramäisch, die Muttersprache Jesu. Markus bewahrt hier Jesu eigene Worte.
 > Vers 43: Jesus denkt an etwas ganz Praktisches: Das Mädchen braucht etwas zu essen. Er sorgt für das Ganze des Menschen.
 > Für heute: Für Eltern, die ein Kind verloren haben, ist diese Geschichte vielleicht schwer zu lesen. Christen hoffen, dass Gott auch ihre verstorbenen Kinder in seiner Hand hält. Wer um ein Kind trauert, findet zum Beispiel Unterstützung beim Verein „Verwaiste Eltern und trauernde Geschwister“ und bei der Telefonseelsorge: 0800 111 0 111.
+
+## Markus – Kapitel 6
+#### Ausgesandt, satt gemacht und nicht allein im Sturm
+
+---
+
+### Jesus in seiner Heimatstadt (Vers 1–6)
+
+<sup>1</sup>Jesus ging von dort weg
+und kam in seine Heimatstadt.
+Seine Jünger folgten ihm.
+<sup>2</sup>Als der Sabbat kam,
+fing er an, in der Synagoge zu lehren.
+Viele, die ihn hörten, staunten und sagten:
+„Woher hat er das alles?“
+und:
+„Was ist das für eine Weisheit, die ihm gegeben ist?
+Und solche mächtigen Taten geschehen durch seine Hände!
+<sup>3</sup>Ist das nicht der Zimmermann,
+der Sohn der Maria,
+der Bruder von Jakobus, Joses, Judas und Simon?
+Leben nicht seine Schwestern hier bei uns?“
+Und sie nahmen Anstoß an ihm.
+<sup>4</sup>Jesus sagte zu ihnen:
+„Ein Prophet ist nirgends ohne Ehre,
+außer in seiner Heimatstadt,
+bei seinen Verwandten
+und in seinem eigenen Haus.“
+<sup>5</sup>Und er konnte dort keine mächtige Tat tun.
+Nur ein paar Kranken legte er die Hände auf
+und heilte sie.
+<sup>6</sup>Und er wunderte sich über ihren Unglauben.
+Er zog durch die Dörfer ringsum und lehrte.
+
+> **Was bedeutet das?**
+> Jesu Heimatstadt ist Nazaret (1,9). Die Leute kennen ihn seit seiner Kindheit. Darum können sie nicht glauben, dass Gott durch ihn wirkt.
+> Vers 3: Bei Markus wird Jesus selbst „der Zimmermann“ genannt. Das griechische Wort meint einen Handwerker, der mit Holz oder Stein baut. Manche alten Handschriften haben stattdessen „der Sohn des Zimmermanns“ (wie Matthäus 13,55).
+> Dass man ihn „Sohn der Maria“ nennt und nicht nach seinem Vater, ist ungewöhnlich. Vielleicht lebte Josef nicht mehr.
+> Zu den „Brüdern“ und „Schwestern“ Jesu: Evangelische Christen verstehen sie meist als leibliche Geschwister, katholische und orthodoxe Christen als nahe Verwandte.
+> Vers 5: „Er konnte dort keine mächtige Tat tun“: Jesus zwingt niemandem seine Hilfe auf. Wo kein Vertrauen ist, geschieht wenig. Trotzdem heilt er ein paar Kranke.
+> Wichtig: Das heißt nicht, dass kranke Menschen heute selbst schuld sind, wenn sie nicht gesund werden.
+
+---
+
+### Jesus sendet die Zwölf aus (Vers 7–13)
+
+<sup>7</sup>Er rief die Zwölf zu sich
+und fing an, sie zu zweit auszusenden.
+Er gab ihnen Vollmacht über die unreinen Geister.
+<sup>8</sup>Er befahl ihnen,
+nichts mit auf den Weg zu nehmen
+außer einem Wanderstab:
+kein Brot, keine Tasche,
+kein Geld im Gürtel.
+<sup>9</sup>Sandalen sollten sie anziehen,
+aber nicht zwei Hemden.
+<sup>10</sup>Er sagte zu ihnen:
+„Wenn ihr irgendwo in ein Haus kommt,
+dann bleibt dort,
+bis ihr von dort weiterzieht.
+<sup>11</sup>Und wo man euch nicht aufnimmt
+und euch nicht zuhört,
+da geht weg
+und schüttelt den Staub von euren Füßen
+als Zeichen gegen sie.
+Ganz sicher, ich sage euch:
+Am Tag des Gerichts wird es Sodom und Gomorra
+erträglicher gehen als dieser Stadt!“
+<sup>12</sup>Sie zogen los
+und predigten, dass die Menschen umkehren sollten.
+<sup>13</sup>Sie trieben viele Dämonen aus,
+salbten viele Kranke mit Öl
+und heilten sie.
+
+> **Was bedeutet das?**
+> Jesus schickt die Jünger zu zweit. Niemand soll allein unterwegs sein.
+> Sie sollen fast nichts mitnehmen. So zeigen sie: Wir vertrauen auf Gott und auf die Gastfreundschaft der Menschen.
+> Vers 11: Den Staub von den Füßen schütteln war ein Zeichen: Wir haben mit euch nichts mehr zu tun. Es ist keine Gewalt und keine Rache.
+> Der Satz über Sodom und Gomorra fehlt in vielen alten Handschriften. Er steht ähnlich in Matthäus 10,15. Das WEB hat ihn.
+> Vers 13: Kranke mit Öl salben war damals auch ein Heilmittel. In vielen Kirchen gibt es bis heute die Krankensalbung (vergleiche Jakobus 5,14).
+
+---
+
+### Der Tod von Johannes dem Täufer (Vers 14–29)
+
+<sup>14</sup>König Herodes hörte davon,
+denn Jesu Name war bekannt geworden.
+Er sagte:
+„Johannes der Täufer ist von den Toten auferstanden.
+Darum wirken diese Kräfte in ihm.“
+<sup>15</sup>Andere aber sagten:
+„Er ist Elija.“
+Wieder andere sagten:
+„Er ist ein Prophet,
+wie einer der Propheten.“
+<sup>16</sup>Als Herodes das hörte,
+sagte er:
+„Es ist Johannes,
+den ich habe enthaupten lassen.
+Er ist von den Toten auferstanden.“
+<sup>17</sup>Denn Herodes hatte Johannes festnehmen
+und gefesselt ins Gefängnis werfen lassen.
+Das tat er wegen Herodias,
+der Frau seines Bruders Philippus.
+Denn er hatte sie geheiratet.
+<sup>18</sup>Johannes hatte nämlich zu Herodes gesagt:
+„Es ist dir nicht erlaubt,
+die Frau deines Bruders zu haben.“
+<sup>19</sup>Herodias war wütend auf ihn
+und wollte ihn töten.
+Aber sie konnte es nicht.
+<sup>20</sup>Denn Herodes fürchtete Johannes.
+Er wusste, dass er ein gerechter und heiliger Mann war,
+und schützte ihn.
+Wenn er ihn hörte,
+tat er vieles,
+und er hörte ihm gern zu.
+<sup>21</sup>Dann kam ein günstiger Tag:
+Herodes gab an seinem Geburtstag ein Festessen
+für seine Fürsten, die hohen Offiziere
+und die angesehensten Männer von Galiläa.
+<sup>22</sup>Da kam die Tochter der Herodias herein
+und tanzte.
+Sie gefiel Herodes und seinen Gästen.
+Der König sagte zu dem Mädchen:
+„Wünsch dir von mir, was du willst,
+und ich werde es dir geben.“
+<sup>23</sup>Er schwor ihr:
+„Was du dir von mir wünschst,
+werde ich dir geben,
+bis zur Hälfte meines Königreichs.“
+<sup>24</sup>Sie ging hinaus
+und fragte ihre Mutter:
+„Was soll ich mir wünschen?“
+Die sagte:
+„Den Kopf von Johannes dem Täufer.“
+<sup>25</sup>Sofort ging sie eilig zum König hinein
+und bat:
+„Ich will, dass du mir jetzt sofort
+auf einer Schale den Kopf von Johannes dem Täufer gibst.“
+<sup>26</sup>Der König wurde sehr traurig.
+Aber wegen seiner Schwüre
+und wegen der Gäste
+wollte er sie nicht abweisen.
+<sup>27</sup>Sofort schickte der König einen Soldaten seiner Leibwache
+und befahl, den Kopf von Johannes zu bringen.
+Der ging hin
+und enthauptete ihn im Gefängnis.
+<sup>28</sup>Er brachte seinen Kopf auf einer Schale
+und gab ihn dem Mädchen.
+Und das Mädchen gab ihn seiner Mutter.
+<sup>29</sup>Als seine Jünger davon hörten,
+kamen sie,
+holten seinen Leichnam
+und legten ihn in ein Grab.
+
+> **Was bedeutet das?**
+> Dieser Herodes ist Herodes Antipas, ein Sohn von Herodes dem Großen. Er herrschte über Galiläa. Er war eigentlich kein König, sondern ein Landesfürst. Aber die Leute nannten ihn „König“.
+> Johannes hatte Herodes kritisiert, weil er die Frau seines Bruders geheiratet hatte. Das war nach dem Gesetz Moses verboten (3. Mose 18,16). Für diese mutige Kritik am Mächtigen kam er ins Gefängnis.
+> Vers 20: Nur Markus erzählt, dass Herodes Johannes gern zuhörte und ihn schützte. Herodes war hin- und hergerissen.
+> Vers 22: Einige alte Handschriften haben hier „seine Tochter Herodias“. Das WEB hat „die Tochter der Herodias“. Der Geschichtsschreiber Josephus nennt eine Tochter der Herodias „Salome“.
+> Herodes macht vor seinen Gästen ein leichtsinniges Versprechen. Um vor ihnen nicht schwach zu wirken, lässt er einen Unschuldigen töten. Die Verantwortung trägt vor allem er als Herrscher.
+> Wichtig: Diese Geschichte ist kein Beweis, dass Frauen „verführerisch“ oder „böse“ sind. Hier haben Mächtige ein Mädchen für ihre Zwecke benutzt.
+> Vers 29: Die Jünger von Johannes begraben ihn mit Würde.
+
+---
+
+### Jesus macht 5000 Menschen satt (Vers 30–44)
+
+<sup>30</sup>Die Apostel kamen wieder bei Jesus zusammen.
+Sie erzählten ihm alles,
+was sie getan und gelehrt hatten.
+<sup>31</sup>Er sagte zu ihnen:
+„Kommt mit an einen einsamen Ort,
+wo ihr allein seid,
+und ruht euch ein wenig aus.“
+Denn es kamen und gingen so viele Leute,
+dass sie nicht einmal Zeit zum Essen hatten.
+<sup>32</sup>Sie fuhren mit dem Boot weg
+an einen einsamen Ort,
+um allein zu sein.
+<sup>33</sup>Aber viele sahen sie wegfahren
+und erkannten ihn.
+Sie liefen zu Fuß aus allen Städten dorthin
+und kamen noch vor ihnen an.
+<sup>34</sup>Als Jesus ausstieg,
+sah er die große Menschenmenge.
+Er hatte Mitleid mit ihnen,
+denn sie waren wie Schafe ohne Hirten.
+Und er fing an, sie vieles zu lehren.
+<sup>35</sup>Als es schon spät am Tag war,
+kamen seine Jünger zu ihm und sagten:
+„Dieser Ort ist einsam,
+und es ist schon spät.
+<sup>36</sup>Schick die Leute weg,
+damit sie in die Höfe und Dörfer ringsum gehen
+und sich Brot kaufen.
+Denn sie haben nichts zu essen.“
+<sup>37</sup>Er aber antwortete ihnen:
+„Gebt ihr ihnen zu essen!“
+Sie fragten ihn:
+„Sollen wir hingehen
+und für zweihundert Denare Brot kaufen
+und ihnen zu essen geben?“
+<sup>38</sup>Er sagte zu ihnen:
+„Wie viele Brote habt ihr?
+Geht und seht nach!“
+Als sie nachgesehen hatten,
+sagten sie:
+„Fünf, und zwei Fische.“
+<sup>39</sup>Er befahl ihnen,
+dass sich alle in Gruppen
+auf das grüne Gras setzen sollten.
+<sup>40</sup>Sie setzten sich in Gruppen,
+zu hundert und zu fünfzig.
+<sup>41</sup>Er nahm die fünf Brote und die zwei Fische,
+sah zum Himmel auf,
+sprach den Segen,
+brach die Brote
+und gab sie seinen Jüngern,
+damit sie sie den Leuten austeilten.
+Auch die zwei Fische verteilte er an alle.
+<sup>42</sup>Alle aßen und wurden satt.
+<sup>43</sup>Sie sammelten zwölf Körbe voll Brotstücke
+und auch Reste von den Fischen.
+<sup>44</sup>Und die von den Broten gegessen hatten,
+waren fünftausend Männer.
+
+> **Was bedeutet das?**
+> Vers 31: Jesus sorgt für seine Jünger. Nach viel Arbeit sollen sie sich ausruhen. Pausen und Erholung sind gut und wichtig.
+> Vers 34: „Wie Schafe ohne Hirten“: Ein Bild aus dem Alten Testament (4. Mose 27,17; Hesekiel 34,5). Jesus ist der gute Hirte, der für sein Volk sorgt.
+> Vers 37: Zweihundert Denare waren etwa der Lohn für zweihundert Arbeitstage. Die Jünger halten das für unmöglich.
+> Vers 39: Nur Markus erwähnt das „grüne Gras“. Das erinnert an Psalm 23,2: „Er weidet mich auf grünen Wiesen.“
+> Die Worte „nahm, sah auf, segnete, brach, gab“ erinnern Christen an das Abendmahl (14,22).
+> Vers 44: Gezählt wurden damals oft nur die Männer. Matthäus fügt hinzu, dass auch Frauen und Kinder dabei waren (Matthäus 14,21).
+> Für heute: Was wenig aussieht, wird in Jesu Händen genug für alle. Und Jesus sagt auch heute: „Gebt ihr ihnen zu essen!“
+
+---
+
+### Jesus geht auf dem Wasser (Vers 45–52)
+
+<sup>45</sup>Sofort danach drängte er seine Jünger,
+ins Boot zu steigen
+und ihm ans andere Ufer nach Betsaida vorauszufahren.
+In der Zeit wollte er die Leute nach Hause schicken.
+<sup>46</sup>Als er sich von ihnen verabschiedet hatte,
+ging er auf den Berg, um zu beten.
+<sup>47</sup>Als es Abend geworden war,
+war das Boot mitten auf dem See,
+und er war allein an Land.
+<sup>48</sup>Er sah, wie sie sich beim Rudern abmühten,
+denn sie hatten Gegenwind.
+Um die vierte Nachtwache
+kam er zu ihnen.
+Er ging auf dem See
+und wollte an ihnen vorübergehen.
+<sup>49</sup>Als sie ihn auf dem See gehen sahen,
+meinten sie, es sei ein Gespenst,
+und schrien auf.
+<sup>50</sup>Denn alle sahen ihn
+und erschraken.
+Aber sofort redete er mit ihnen und sagte:
+„Seid mutig! Ich bin es!
+Habt keine Angst!“
+<sup>51</sup>Er stieg zu ihnen ins Boot,
+und der Wind legte sich.
+Sie waren ganz außer sich vor Staunen.
+<sup>52</sup>Denn sie hatten bei den Broten nichts verstanden,
+sondern ihre Herzen waren verhärtet.
+
+> **Was bedeutet das?**
+> Betsaida war ein Ort am Nordufer des Sees.
+> Die „vierte Nachtwache“ ist zwischen etwa 3 und 6 Uhr morgens. Die Jünger kämpfen schon die ganze Nacht gegen den Wind.
+> Vers 48: Jesus sieht die Not seiner Jünger von Weitem und kommt zu ihnen.
+> „Er wollte an ihnen vorübergehen“: Das erinnert an Gott, der an Mose und Elija „vorüberging“, um sich ihnen zu zeigen (2. Mose 33,22; 1. Könige 19,11). Es heißt nicht, dass Jesus sie allein lassen wollte.
+> „Ich bin es“ heißt wörtlich „Ich bin“. So nennt sich Gott im Alten Testament (2. Mose 3,14).
+> Vers 52: Die Jünger verstehen noch nicht, wer Jesus ist. Bei Markus brauchen sie lange dafür. Das macht Mut: Auch wer nicht gleich versteht, darf bei Jesus bleiben.
+
+---
+
+### Viele Kranke werden geheilt (Vers 53–56)
+
+<sup>53</sup>Als sie hinübergefahren waren,
+kamen sie nach Gennesaret
+und legten dort an.
+<sup>54</sup>Als sie aus dem Boot stiegen,
+erkannten die Leute ihn sofort.
+<sup>55</sup>Sie liefen in der ganzen Gegend umher
+und fingen an, die Kranken auf ihren Matten dorthin zu tragen,
+wo sie hörten, dass er war.
+<sup>56</sup>Und wohin er auch kam,
+in Dörfer, in Städte oder auf Höfe,
+da legten sie die Kranken auf die Marktplätze.
+Sie baten ihn,
+dass sie nur den Saum seines Gewandes berühren dürften.
+Und alle, die ihn berührten,
+wurden gesund.
+
+> **Was bedeutet das?**
+> Gennesaret ist eine fruchtbare Ebene am Westufer des Sees. Eigentlich wollten sie nach Betsaida (Vers 45). Vielleicht hat der Wind sie abgetrieben.
+> Der „Saum“ meint wahrscheinlich die Quasten am Gewand, die fromme Juden nach Gottes Gebot trugen (4. Mose 15,38–39).
+> Die Menschen tragen ihre Kranken herbei. Sie helfen einander.
+> Wichtig: Wer krank ist, darf beten und zum Arzt gehen. Beides gehört zusammen. Wer nicht gesund wird, ist nicht weniger gläubig.
