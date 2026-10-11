@@ -1,0 +1,304 @@
+{
+ "nr": 41,
+ "code": "MRK",
+ "kuerzel": "Mk",
+ "name": "Markus",
+ "name_englisch": "Mark",
+ "testament": "neues-testament",
+ "kapitel": 16,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Der Anfang der guten Nachricht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Das Evangelium nach Markus",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Evangelium nach Markus ist das kürzeste der vier Evangelien. Die meisten Forscher halten es für das älteste. Es wurde wahrscheinlich um das Jahr 70 nach Christus geschrieben, vielleicht kurz vor oder kurz nach der Zerstörung des Tempels in Jerusalem.\nNach alter kirchlicher Überlieferung schrieb es Johannes Markus. Er war ein Begleiter von Petrus und Paulus (Apostelgeschichte 12,12; 1. Petrus 5,13). Petrus soll ihm vieles erzählt haben. Sicher wissen wir das nicht. Das Buch selbst nennt keinen Verfasser.\nMarkus erzählt lebendig und schnell. Ein Lieblingswort von ihm ist „sofort“. Er berichtet weniger Reden als Matthäus, dafür mehr Taten Jesu. Oft erzählt er kleine Einzelheiten, die die anderen weglassen.\nEin großes Thema bei Markus ist die Frage: Wer ist Jesus? Die Jünger verstehen es lange nicht. Jesus will oft nicht, dass man ihn schon „Christus“ nennt. Erst am Kreuz sagt ein römischer Hauptmann: „Dieser Mensch war wirklich Gottes Sohn“ (15,39).\nViele Geschichten aus Markus stehen auch bei Matthäus und Lukas, oft fast mit den gleichen Worten. Forscher denken darum: Matthäus und Lukas haben das Markusevangelium gekannt und benutzt.\nEin wichtiger Hinweis: Auch bei Markus gibt es Streitgespräche zwischen Jesus und anderen jüdischen Lehrern. Das waren Auseinandersetzungen innerhalb des Judentums. Jesus und alle seine Jünger waren Juden. Diese Texte dürfen nie benutzt werden, um Juden zu verachten.\nDas Evangelium hat 16 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Johannes der Täufer",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der Anfang der guten Nachricht von Jesus Christus, dem Sohn Gottes.",
+       "englisch_web": "The beginning of the Good News of Jesus Christ, the Son of God."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Wie bei den Propheten geschrieben steht:\n„Seht, ich sende meinen Boten vor dir her.\nEr wird deinen Weg vor dir bereiten.",
+       "englisch_web": "As it is written in the prophets, “Behold, I send my messenger before your face, who will prepare your way before you:"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Eine Stimme ruft in der Wüste:\n‚Bereitet den Weg des Herrn!\nMacht seine Pfade gerade!‘“",
+       "englisch_web": "the voice of one crying in the wilderness, ‘Make ready the way of the Lord! Make his paths straight!’”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "So kam Johannes.\nEr taufte in der Wüste\nund verkündete eine Taufe der Umkehr\nzur Vergebung der Sünden.",
+       "englisch_web": "John came baptizing in the wilderness and preaching the baptism of repentance for forgiveness of sins."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Das ganze Land Judäa\nund alle Leute aus Jerusalem gingen zu ihm hinaus.\nSie ließen sich von ihm im Fluss Jordan taufen\nund bekannten ihre Sünden.",
+       "englisch_web": "All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Johannes trug Kleidung aus Kamelhaar\nund einen Ledergürtel um die Hüften.\nEr aß Heuschrecken und wilden Honig.",
+       "englisch_web": "John was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er verkündete:\n„Nach mir kommt einer, der stärker ist als ich.\nIch bin es nicht wert,\nmich zu bücken\nund ihm die Riemen seiner Sandalen zu lösen.",
+       "englisch_web": "He preached, saying, “After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and loosen."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Ich habe euch mit Wasser getauft.\nEr aber wird euch mit dem Heiligen Geist taufen.“",
+       "englisch_web": "I baptized you in water, but he will baptize you in the Holy Spirit.”"
+      }
+     ],
+     "erklaerung": "Markus beginnt ohne Geburtsgeschichte. Er fängt gleich mit dem erwachsenen Jesus an. Der erste Satz ist wie eine Überschrift über das ganze Buch.\nDie Worte „der Sohn Gottes“ in Vers 1 fehlen in einigen alten Handschriften. Das WEB hat sie.\nVers 2–3: Das Zitat verbindet Maleachi 3,1 und Jesaja 40,3. Viele alte Handschriften schreiben „beim Propheten Jesaja“ statt „bei den Propheten“. Das WEB folgt hier anderen Handschriften.\nJohannes ruft die Menschen zur „Umkehr“: Sie sollen ihr Leben ändern und sich Gott neu zuwenden. Die Taufe im Jordan war ein Zeichen dafür.\nSeine Kleidung erinnert an den Propheten Elija (2. Könige 1,8). Heuschrecken durfte man nach dem Gesetz Moses essen (3. Mose 11,22).\nVers 7: Sandalen ausziehen war die Arbeit von Sklaven. Johannes sagt: Ich bin nicht einmal wert, diesem Kommenden so zu dienen."
+    },
+    {
+     "ueberschrift": "Jesus wird getauft und versucht",
+     "vers_von": 9,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "In jenen Tagen kam Jesus aus Nazaret in Galiläa\nund ließ sich von Johannes im Jordan taufen.",
+       "englisch_web": "In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Sofort, als er aus dem Wasser stieg,\nsah er, wie der Himmel sich öffnete\nund der Geist wie eine Taube auf ihn herabkam.",
+       "englisch_web": "Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Und eine Stimme kam aus dem Himmel:\n„Du bist mein geliebter Sohn,\nan dir habe ich Freude.“",
+       "englisch_web": "A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sofort trieb ihn der Geist hinaus in die Wüste.",
+       "englisch_web": "Immediately the Spirit drove him out into the wilderness."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er war vierzig Tage in der Wüste\nund wurde vom Satan versucht.\nEr war bei den wilden Tieren,\nund die Engel dienten ihm.",
+       "englisch_web": "He was there in the wilderness forty days, tempted by Satan. He was with the wild animals; and the angels were serving him."
+      }
+     ],
+     "erklaerung": "Nazaret war ein kleines, unbedeutendes Dorf in Galiläa, im Norden des Landes.\nBei Markus sieht Jesus selbst den offenen Himmel, und die Stimme spricht direkt zu ihm: „Du bist mein geliebter Sohn.“ Das erinnert an Psalm 2,7 und Jesaja 42,1.\nDie Taube ist ein Bild für den Heiligen Geist, für Gottes Kraft und Frieden.\nVers 12–13: Markus erzählt die Versuchung sehr kurz (ausführlicher in Matthäus 4,1–11). Vierzig Tage erinnern an die vierzig Jahre Israels in der Wüste und an Mose und Elija.\n„Bei den wilden Tieren“: Das erzählt nur Markus. Manche Ausleger sehen darin ein Bild für Frieden mit der Schöpfung, wie im Paradies (vergleiche Jesaja 11,6–9)."
+    },
+    {
+     "ueberschrift": "Jesus beginnt zu predigen und beruft Jünger",
+     "vers_von": 14,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Nachdem Johannes gefangen genommen worden war,\nkam Jesus nach Galiläa.\nEr verkündete die gute Nachricht vom Reich Gottes",
+       "englisch_web": "Now after John was taken into custody, Jesus came into Galilee, preaching the Good News of God’s Kingdom,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "und sagte:\n„Die Zeit ist erfüllt,\nund das Reich Gottes ist nahe!\nKehrt um und glaubt an die gute Nachricht!“",
+       "englisch_web": "and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Als er am See von Galiläa entlangging,\nsah er Simon und Andreas, den Bruder von Simon.\nSie warfen ein Netz in den See,\ndenn sie waren Fischer.",
+       "englisch_web": "Passing along by the sea of Galilee, he saw Simon and Andrew, the brother of Simon, casting a net into the sea, for they were fishermen."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Jesus sagte zu ihnen:\n„Kommt, folgt mir nach!\nIch will euch zu Menschenfischern machen.“",
+       "englisch_web": "Jesus said to them, “Come after me, and I will make you into fishers for men.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sofort ließen sie ihre Netze liegen\nund folgten ihm.",
+       "englisch_web": "Immediately they left their nets, and followed him."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Als er ein Stück weiterging,\nsah er Jakobus, den Sohn des Zebedäus,\nund dessen Bruder Johannes.\nSie waren auch im Boot und flickten die Netze.",
+       "englisch_web": "Going on a little further from there, he saw James the son of Zebedee, and John his brother, who were also in the boat mending the nets."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Sofort rief er sie.\nSie ließen ihren Vater Zebedäus\nmit den Tagelöhnern im Boot zurück\nund folgten ihm.",
+       "englisch_web": "Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him."
+      }
+     ],
+     "erklaerung": "Vers 15 fasst Jesu ganze Botschaft zusammen: Gottes Reich ist nahe. Gott beginnt jetzt, seine gute Herrschaft aufzurichten. Darum: Kehrt um und vertraut darauf!\n„Die gute Nachricht“ heißt auf Griechisch „Evangelium“.\nJesus beruft einfache Fischer. Sie lassen alles stehen und folgen ihm sofort.\n„Menschenfischer“: Ein Wortspiel. Sie sollen jetzt Menschen für Gottes Reich gewinnen.\nVers 20: Nur Markus erwähnt die Tagelöhner. Zebedäus bleibt also nicht allein zurück. Seine Familie hatte offenbar einen kleinen Fischereibetrieb."
+    },
+    {
+     "ueberschrift": "Jesus in der Synagoge von Kafarnaum",
+     "vers_von": 21,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie gingen nach Kafarnaum.\nSofort am Sabbat ging er in die Synagoge\nund lehrte.",
+       "englisch_web": "They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Die Menschen waren sehr erstaunt über seine Lehre.\nDenn er lehrte sie wie einer, der Vollmacht hat,\nund nicht wie die Schriftgelehrten.",
+       "englisch_web": "They were astonished at his teaching, for he taught them as having authority, and not as the scribes."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sofort war in ihrer Synagoge ein Mensch\nmit einem unreinen Geist.\nEr schrie:",
+       "englisch_web": "Immediately there was in their synagogue a man with an unclean spirit, and he cried out,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "„Ha! Was haben wir mit dir zu tun,\nJesus aus Nazaret?\nBist du gekommen, um uns zu vernichten?\nIch weiß, wer du bist:\nder Heilige Gottes!“",
+       "englisch_web": "saying, “Ha! What do we have to do with you, Jesus, you Nazarene? Have you come to destroy us? I know who you are: the Holy One of God!”"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Jesus bedrohte ihn und sagte:\n„Sei still und fahr aus von ihm!“",
+       "englisch_web": "Jesus rebuked him, saying, “Be quiet, and come out of him!”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Der unreine Geist schüttelte ihn hin und her,\nschrie mit lauter Stimme\nund fuhr aus von ihm.",
+       "englisch_web": "The unclean spirit, convulsing him and crying with a loud voice, came out of him."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Alle waren sehr erstaunt.\nSie fragten einander:\n„Was ist das?\nWas ist das für eine neue Lehre?\nMit Vollmacht befiehlt er sogar den unreinen Geistern,\nund sie gehorchen ihm!“",
+       "englisch_web": "They were all amazed, so that they questioned among themselves, saying, “What is this? What can this new doctrine be? For with authority he commands even the unclean spirits, and they obey him!”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Und sofort sprach man von ihm\nin der ganzen Gegend von Galiläa und darum herum.",
+       "englisch_web": "The report of him went out immediately into all the region of Galilee and its surrounding area."
+      }
+     ],
+     "erklaerung": "Kafarnaum war eine Stadt am Nordufer des Sees Genezareth. Dort wohnte Jesus eine Zeit lang. Heute kann man dort die Reste einer späteren Synagoge sehen. Sie steht vielleicht auf den Grundmauern der Synagoge aus Jesu Zeit.\nAm Sabbat traf man sich in der Synagoge, um zu beten und die Heilige Schrift zu hören. Jesus geht wie jeder fromme Jude dorthin und lehrt.\nVers 22: Jesus lehrt nicht nur, was andere Lehrer gesagt haben. Er spricht mit eigener, göttlicher Vollmacht. Das ist kein Urteil über alle Schriftgelehrten.\n„Unreiner Geist“: Die Menschen damals erklärten sich manche Krankheiten oder seelische Leiden so. Wichtig: Psychische Krankheiten sind keine Sünde und keine Strafe. Wer psychisch krank ist, braucht Verständnis und Hilfe, zum Beispiel von Ärzten und Therapeuten.\nVers 24–25: Der Geist erkennt Jesus. Aber Jesus befiehlt ihm zu schweigen. Bei Markus will Jesus oft nicht, dass man zu früh sagt, wer er ist."
+    },
+    {
+     "ueberschrift": "Jesus heilt viele Menschen",
+     "vers_von": 29,
+     "vers_bis": 39,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 29,
+       "leichte_sprache": "Sofort, als sie aus der Synagoge kamen,\ngingen sie in das Haus von Simon und Andreas,\nzusammen mit Jakobus und Johannes.",
+       "englisch_web": "Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and John."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Die Schwiegermutter von Simon lag mit Fieber im Bett.\nSofort erzählten sie Jesus von ihr.",
+       "englisch_web": "Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Er ging zu ihr,\nnahm sie an der Hand\nund richtete sie auf.\nDa verließ sie das Fieber sofort,\nund sie diente ihnen.",
+       "englisch_web": "He came and took her by the hand and raised her up. The fever left her immediately, and she served them."
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Am Abend, als die Sonne untergegangen war,\nbrachten sie alle Kranken und Besessenen zu ihm.",
+       "englisch_web": "At evening, when the sun had set, they brought to him all who were sick and those who were possessed by demons."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Die ganze Stadt war vor der Tür versammelt.",
+       "englisch_web": "All the city was gathered together at the door."
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Er heilte viele, die an verschiedenen Krankheiten litten,\nund trieb viele Dämonen aus.\nEr ließ die Dämonen nicht reden,\ndenn sie kannten ihn.",
+       "englisch_web": "He healed many who were sick with various diseases and cast out many demons. He didn’t allow the demons to speak, because they knew him."
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Früh am Morgen, als es noch dunkel war,\nstand er auf und ging hinaus\nan einen einsamen Ort.\nDort betete er.",
+       "englisch_web": "Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Simon und die bei ihm waren,\nsuchten nach ihm.",
+       "englisch_web": "Simon and those who were with him searched for him."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Sie fanden ihn und sagten zu ihm:\n„Alle suchen dich!“",
+       "englisch_web": "They found him and told him, “Everyone is looking for you.”"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Er sagte zu ihnen:\n„Lasst uns woandershin gehen,\nin die nächsten Orte,\ndamit ich auch dort predige.\nDenn dazu bin ich gekommen.“",
+       "englisch_web": "He said to them, “Let’s go elsewhere into the next towns, that I may preach there also, because I came out for this reason.”"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Und er ging in ihre Synagogen in ganz Galiläa,\npredigte und trieb Dämonen aus.",
+       "englisch_web": "He went into their synagogues throughout all Galilee, preaching and casting out demons."
+      }
+     ],
+     "erklaerung": "Vers 30: Simon (Petrus) war verheiratet. Seine Schwiegermutter lebte mit im Haus.\nVers 31: Jesus nimmt die kranke Frau an der Hand. Er berührt sie, ohne Scheu. Danach „dient“ sie ihnen. Das griechische Wort für „dienen“ ist dasselbe, das für den Dienst der Engel (Vers 13) und für Jesu eigenen Dienst (10,45) benutzt wird. Sie wird so zu einer der ersten, die Jesus dienen.\nVers 32: Der Sabbat endet mit dem Sonnenuntergang. Darum bringen die Menschen erst am Abend ihre Kranken. Am Sabbat wollten sie keine Lasten tragen.\nVers 35: Jesus braucht Zeit allein mit Gott. Trotz aller Arbeit nimmt er sich Zeit zum Gebet.\nVers 38: Jesus lässt sich nicht festhalten, auch wenn ihn alle wollen. Er weiß, wofür er gekommen ist.\nWichtig: Wenn kranke Menschen heute nicht gesund werden, ist das nicht ihre Schuld. Krankheit ist kein Zeichen von zu wenig Glauben."
+    },
+    {
+     "ueberschrift": "Jesus heilt einen Aussätzigen",
+     "vers_von": 40,
+     "vers_bis": 45,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 40,
+       "leichte_sprache": "Ein Aussätziger kam zu ihm.\nEr kniete vor ihm nieder,\nbat ihn und sagte:\n„Wenn du willst,\nkannst du mich rein machen.“",
+       "englisch_web": "A leper came to him, begging him, kneeling down to him, and saying to him, “If you want to, you can make me clean.”"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Jesus hatte Mitleid mit ihm.\nEr streckte die Hand aus,\nberührte ihn\nund sagte zu ihm:\n„Ich will. Sei rein!“",
+       "englisch_web": "Being moved with compassion, he stretched out his hand, and touched him, and said to him, “I want to. Be made clean.”"
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Als er das gesagt hatte,\nverschwand der Aussatz sofort,\nund er war rein.",
+       "englisch_web": "When he had said this, immediately the leprosy departed from him and he was made clean."
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Jesus ermahnte ihn streng\nund schickte ihn sofort weg.",
+       "englisch_web": "He strictly warned him and immediately sent him out,"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Er sagte zu ihm:\n„Pass auf, dass du niemandem etwas sagst.\nSondern geh hin,\nzeig dich dem Priester\nund bring für deine Reinigung das Opfer,\ndas Mose angeordnet hat.\nDas soll ihnen ein Beweis sein.“",
+       "englisch_web": "and said to him, “See that you say nothing to anybody, but go show yourself to the priest and offer for your cleansing the things which Moses commanded, for a testimony to them.”"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Der Mann aber ging weg\nund fing an, es überall zu erzählen\nund die Sache bekannt zu machen.\nDarum konnte Jesus nicht mehr offen in eine Stadt gehen.\nEr blieb draußen an einsamen Orten.\nUnd die Menschen kamen von überall her zu ihm.",
+       "englisch_web": "But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places. People came to him from everywhere."
+      }
+     ],
+     "erklaerung": "„Aussatz“ war damals ein Name für verschiedene Hautkrankheiten. Wer daran litt, galt als unrein. Er musste getrennt von anderen Menschen leben (3. Mose 13,45–46). Das bedeutete große Einsamkeit.\nJesus berührt den Kranken. Das tat sonst niemand. Er gibt ihm nicht nur die Gesundheit zurück, sondern auch die Gemeinschaft.\nVers 41: Statt „hatte Mitleid“ haben einige alte Handschriften „wurde zornig“. Vielleicht war Jesus zornig über die Krankheit und das Leid. Das WEB hat „Mitleid“.\nVers 44: Jesus schickt den Mann zum Priester, wie es das Gesetz Moses verlangt (3. Mose 14). Jesus achtet das Gesetz. Der Priester sollte bestätigen, dass der Mann gesund ist. Dann durfte er wieder in die Gemeinschaft zurück.\nFür heute: Auch heute werden Menschen wegen Krankheiten ausgegrenzt. Jesus zeigt: Niemand soll allein gelassen werden."
+    }
+   ]
+  }
+ ]
+}
