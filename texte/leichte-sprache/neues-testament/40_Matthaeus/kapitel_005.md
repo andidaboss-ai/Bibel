@@ -216,7 +216,7 @@ und wende dich nicht ab von dem, der von dir borgen will.
 > **Was bedeutet das?**
 > Vers 38: „Auge um Auge“ (2. Mose 21,24) war ursprünglich eine Regel für Gerichte, um Rache zu begrenzen: Die Strafe darf nicht größer sein als der Schaden.
 > Vers 39–41: Jesus geht weiter: Verzichte ganz auf Rache. Antworte nicht mit Gewalt auf Gewalt, sondern durchbrich den Kreislauf.
-> Ein Schlag auf die rechte Backe war, mit der rechten Hand, ein verächtlicher Schlag mit dem Handrücken, eine Demütigung. Wer die andere Backe hinhält, zeigt: Ich bin nicht dein Untertan, ich bleibe ein Mensch mit Würde. Vers 41: Römische Soldaten durften Einheimische zwingen, ihr Gepäck eine Meile weit zu tragen.
+> Ein Schlag auf die rechte Backe war, mit der rechten Hand ausgeführt, wahrscheinlich ein verächtlicher Schlag mit dem Handrücken, also eine Demütigung. Manche Ausleger meinen: Wer die andere Backe hinhält, zeigt dann: Ich bleibe ein Mensch mit Würde. Vers 41: Römische Soldaten durften Einheimische zwingen, ihr Gepäck eine Meile weit zu tragen.
 > Sehr wichtig: Diese Worte bedeuten nicht, dass man Gewalt in der Familie, in der Beziehung oder anderswo ertragen muss. Sie dürfen nie benutzt werden, um Opfer zum Schweigen zu bringen. Sich zu schützen, Hilfe zu holen und Unrecht anzuzeigen ist richtig. Hilfe: Polizei 110, Hilfetelefon „Gewalt gegen Frauen“ 116 016, „Gewalt an Männern“ 0800 123 99 00, Nummer gegen Kummer 116 111, Hilfetelefon Sexueller Missbrauch 0800 22 55 530.
 
 ---
