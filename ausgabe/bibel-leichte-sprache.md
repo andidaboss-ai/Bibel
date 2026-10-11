@@ -117453,8 +117453,8 @@ sie wären längst in Sacktuch und Asche umgekehrt.
 <sup>22</sup>Doch ich sage euch:
 Tyrus und Sidon wird es am Tag des Gerichts erträglicher gehen als euch.
 <sup>23</sup>Und du, Kafarnaum,
-wirst du etwa bis zum Himmel erhoben werden?
-Bis ins Totenreich wirst du hinabgestoßen werden.
+die du bis zum Himmel erhoben bist,
+du wirst bis ins Totenreich hinabfahren.
 Denn wären in Sodom die Wunder geschehen,
 die bei dir geschehen sind,
 es stünde noch heute.
@@ -117465,7 +117465,7 @@ Dem Land Sodom wird es am Tag des Gerichts erträglicher gehen als dir.“
 > Chorazin, Betsaida und Kafarnaum waren kleine Orte am See Genezareth. Dort hatte Jesus viele Wunder getan. Trotzdem haben die Menschen ihr Leben nicht geändert.
 > Tyrus und Sidon waren heidnische Hafenstädte, Sodom war sprichwörtlich für Gottesferne. Jesus sagt: Selbst diese Städte hätten umgekehrt, wenn sie so viel erlebt hätten.
 > Wer viel von Gott empfangen hat, trägt mehr Verantwortung. Das gilt für alle, auch für Christen heute.
-> „Totenreich“ (WEB: „Hades“) ist hier ein Bild für den tiefsten Sturz.
+> „Totenreich“ (WEB: „Hades“) ist hier ein Bild für den tiefsten Sturz. Manche Handschriften formulieren den Anfang von Vers 23 als Frage: „Wirst du etwa bis zum Himmel erhoben werden?“
 
 ---
 
