@@ -1,0 +1,488 @@
+{
+ "nr": 42,
+ "code": "LUK",
+ "kuerzel": "Lk",
+ "name": "Lukas",
+ "name_englisch": "Luke",
+ "testament": "neues-testament",
+ "kapitel": 24,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Zwei Kinder werden angekündigt",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Das Evangelium nach Lukas",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Evangelium nach Lukas ist das längste der vier Evangelien. Es ist der erste Teil eines Doppelwerks. Der zweite Teil ist die Apostelgeschichte. Beide Bücher sind an einen Mann namens Theophilus gerichtet.\nNach alter kirchlicher Überlieferung schrieb Lukas, ein Arzt und Begleiter des Apostels Paulus (Kolosser 4,14; Philemon 24). Sicher wissen wir das nicht. Das Buch nennt keinen Verfasser. Es wurde wahrscheinlich zwischen 80 und 90 nach Christus geschrieben.\nLukas schreibt sorgfältig und gut gegliedert. Er hat, wie er selbst sagt, vorher nachgeforscht (1,1–4). Er kannte wahrscheinlich das Markusevangelium und noch weitere Überlieferungen.\nLukas zeigt besonders: Jesus wendet sich den Armen, den Kranken, den Frauen, den Sündern und den Fremden zu. Gottes Rettung gilt allen Menschen.\nNur bei Lukas stehen viele berühmte Texte: die Weihnachtsgeschichte mit der Krippe und den Hirten, das Magnificat (das Lied der Maria), die Gleichnisse vom barmherzigen Samariter und vom verlorenen Sohn, die Geschichte von Zachäus und die Emmausjünger.\nEin wichtiger Hinweis: Lukas beginnt und endet im Tempel in Jerusalem. Jesu Geschichte ist tief in der Geschichte und im Glauben Israels verwurzelt. Streitgespräche mit anderen jüdischen Gruppen waren Auseinandersetzungen innerhalb des Judentums. Sie dürfen nie gegen Juden benutzt werden.\nDas Evangelium hat 24 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Vorwort an Theophilus",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Schon viele haben versucht,\neinen Bericht über die Ereignisse zu schreiben,\ndie sich unter uns erfüllt haben.",
+       "englisch_web": "Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Sie haben es so aufgeschrieben,\nwie es uns die überliefert haben,\ndie von Anfang an Augenzeugen\nund Diener des Wortes waren.",
+       "englisch_web": "even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Darum habe auch ich beschlossen,\nallem von Anfang an genau nachzugehen\nund es für dich der Reihe nach aufzuschreiben,\nhochverehrter Theophilus.",
+       "englisch_web": "it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "So sollst du erkennen,\nwie zuverlässig die Lehre ist,\nin der du unterrichtet worden bist.",
+       "englisch_web": "that you might know the certainty concerning the things in which you were instructed."
+      }
+     ],
+     "erklaerung": "Lukas beginnt wie ein Geschichtsschreiber seiner Zeit, mit einem Vorwort.\nEr sagt: Es gibt schon andere Berichte. Ich habe sorgfältig nachgeforscht und mit Augenzeugen gesprochen.\n„Theophilus“ heißt „Freund Gottes“. Wahrscheinlich war es ein angesehener Mann, vielleicht ein Förderer, der das Buch verbreiten ließ. Man kann den Namen auch als Anrede für alle Leser verstehen, die Gott lieben.\nLukas will, dass der Glaube auf festem Grund steht."
+    },
+    {
+     "ueberschrift": "Die Geburt von Johannes wird angekündigt",
+     "vers_von": 5,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Zur Zeit von Herodes, dem König von Judäa,\nlebte ein Priester namens Zacharias.\nEr gehörte zur Priestergruppe des Abija.\nSeine Frau stammte von Aaron ab\nund hieß Elisabet.",
+       "englisch_web": "There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Beide lebten gerecht vor Gott.\nSie hielten alle Gebote und Vorschriften des Herrn\nund waren ohne Tadel.",
+       "englisch_web": "They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Aber sie hatten kein Kind,\ndenn Elisabet konnte keine Kinder bekommen.\nUnd beide waren schon sehr alt.",
+       "englisch_web": "But they had no child, because Elizabeth was barren, and they both were well advanced in years."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Einmal tat Zacharias seinen Dienst als Priester vor Gott,\nweil seine Priestergruppe an der Reihe war.",
+       "englisch_web": "Now while he executed the priest’s office before God in the order of his division"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Nach dem Brauch der Priester\nfiel das Los auf ihn,\nin den Tempel des Herrn hineinzugehen\nund das Räucheropfer darzubringen.",
+       "englisch_web": "according to the custom of the priest’s office, his lot was to enter into the temple of the Lord and burn incense."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Die ganze Menge des Volkes betete draußen\nzur Stunde des Räucheropfers.",
+       "englisch_web": "The whole multitude of the people were praying outside at the hour of incense."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Da erschien ihm ein Engel des Herrn.\nEr stand rechts neben dem Räucheraltar.",
+       "englisch_web": "An angel of the Lord appeared to him, standing on the right side of the altar of incense."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Als Zacharias ihn sah,\nerschrak er,\nund Furcht überfiel ihn.",
+       "englisch_web": "Zacharias was troubled when he saw him, and fear fell upon him."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Aber der Engel sagte zu ihm:\n„Hab keine Angst, Zacharias!\nDenn dein Gebet ist erhört worden.\nDeine Frau Elisabet wird dir einen Sohn gebären.\nDu sollst ihm den Namen Johannes geben.",
+       "englisch_web": "But the angel said to him, “Don’t be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Du wirst Freude und Jubel erleben,\nund viele werden sich über seine Geburt freuen.",
+       "englisch_web": "You will have joy and gladness, and many will rejoice at his birth."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Denn er wird groß sein vor dem Herrn.\nEr wird keinen Wein und kein starkes Getränk trinken.\nSchon im Mutterleib wird er mit dem Heiligen Geist erfüllt sein.",
+       "englisch_web": "For he will be great in the sight of the Lord, and he will drink no wine nor strong drink. He will be filled with the Holy Spirit, even from his mother’s womb."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Er wird viele aus dem Volk Israel\nzum Herrn, ihrem Gott, zurückführen.",
+       "englisch_web": "He will turn many of the children of Israel to the Lord their God."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er wird vor ihm hergehen\nim Geist und in der Kraft des Elija,\n‚um die Herzen der Väter den Kindern zuzuwenden‘\nund die Ungehorsamen zur Weisheit der Gerechten.\nSo wird er für den Herrn ein Volk vorbereiten,\ndas bereit ist.“",
+       "englisch_web": "He will go before him in the spirit and power of Elijah, ‘to turn the hearts of the fathers to the children,’ and the disobedient to the wisdom of the just; to prepare a people prepared for the Lord.”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Zacharias sagte zu dem Engel:\n„Woran soll ich erkennen, dass das wahr ist?\nDenn ich bin ein alter Mann,\nund meine Frau ist schon sehr alt.“",
+       "englisch_web": "Zacharias said to the angel, “How can I be sure of this? For I am an old man, and my wife is well advanced in years.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Der Engel antwortete ihm:\n„Ich bin Gabriel.\nIch stehe vor Gott.\nIch bin gesandt worden,\num mit dir zu reden\nund dir diese gute Nachricht zu bringen.",
+       "englisch_web": "The angel answered him, “I am Gabriel, who stands in the presence of God. I was sent to speak to you and to bring you this good news."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Und sieh:\nDu wirst stumm sein\nund nicht reden können\nbis zu dem Tag, an dem das geschieht.\nDenn du hast meinen Worten nicht geglaubt,\ndie sich zu ihrer Zeit erfüllen werden.“",
+       "englisch_web": "Behold, you will be silent and not able to speak until the day that these things will happen, because you didn’t believe my words, which will be fulfilled in their proper time.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Das Volk wartete auf Zacharias\nund wunderte sich,\ndass er so lange im Tempel blieb.",
+       "englisch_web": "The people were waiting for Zacharias, and they marveled that he delayed in the temple."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Als er herauskam,\nkonnte er nicht zu ihnen reden.\nDa merkten sie,\ndass er im Tempel eine Erscheinung gesehen hatte.\nEr machte ihnen Zeichen\nund blieb stumm.",
+       "englisch_web": "When he came out, he could not speak to them. They perceived that he had seen a vision in the temple. He continued making signs to them, and remained mute."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Als die Tage seines Dienstes vorbei waren,\nging er nach Hause.",
+       "englisch_web": "When the days of his service were fulfilled, he departed to his house."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Nach diesen Tagen wurde seine Frau Elisabet schwanger.\nSie zog sich fünf Monate lang zurück\nund sagte:",
+       "englisch_web": "After these days Elizabeth his wife conceived, and she hid herself five months, saying,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "„Das hat der Herr an mir getan.\nIn diesen Tagen hat er auf mich geschaut\nund die Schande von mir genommen,\ndie ich bei den Menschen hatte.“",
+       "englisch_web": "“Thus has the Lord done to me in the days in which he looked at me, to take away my reproach among men.”"
+      }
+     ],
+     "erklaerung": "„Herodes“ ist hier Herodes der Große. Er regierte bis 4 vor Christus.\nEs gab 24 Priestergruppen. Jede Gruppe tat zweimal im Jahr eine Woche Dienst im Tempel (vergleiche 1. Chronik 24,10). Das Räucheropfer durfte ein Priester meist nur einmal im Leben darbringen. Für Zacharias war das ein besonderer Tag.\nZacharias und Elisabet sind fromme, gerechte Juden. Lukas beginnt das Evangelium mitten im Glauben Israels, im Tempel.\nVers 7 und 25: Damals hielt man Kinderlosigkeit oft für eine Schande. Wichtig: Kinderlosigkeit ist keine Strafe Gottes und keine Schande. Elisabet war „gerecht vor Gott“ (Vers 6), auch ohne Kind. Wer ungewollt kinderlos ist, ist von Gott genauso geliebt.\nVers 13: „Johannes“ heißt „Gott ist gnädig“.\nVers 17 zitiert Maleachi 4,6 (im WEB; in deutschen Bibeln Maleachi 3,24). Johannes wird wie der Prophet Elija sein.\n„Gabriel“ heißt „Gott ist stark“. Er kommt auch im Buch Daniel vor (Daniel 8,16; 9,21).\nVers 20: Zacharias kann eine Zeit lang nicht sprechen. Das ist ein Zeichen in dieser besonderen Geschichte. Wichtig: Menschen, die nicht sprechen können, werden damit nicht bestraft. Stummheit oder Behinderung ist keine Strafe für Zweifel."
+    },
+    {
+     "ueberschrift": "Die Geburt von Jesus wird angekündigt",
+     "vers_von": 26,
+     "vers_bis": 38,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 26,
+       "leichte_sprache": "Im sechsten Monat\nwurde der Engel Gabriel von Gott\nin eine Stadt in Galiläa gesandt,\ndie Nazaret heißt,",
+       "englisch_web": "Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee named Nazareth,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "zu einer Jungfrau.\nSie war mit einem Mann verlobt,\nder Josef hieß\nund aus der Familie Davids stammte.\nDie Jungfrau hieß Maria.",
+       "englisch_web": "to a virgin pledged to be married to a man whose name was Joseph, of David’s house. The virgin’s name was Mary."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Der Engel kam zu ihr hinein und sagte:\n„Freu dich, du Begnadete!\nDer Herr ist mit dir.\nGesegnet bist du unter den Frauen!“",
+       "englisch_web": "Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!”"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Als sie ihn sah,\nerschrak sie sehr über seine Worte.\nSie überlegte,\nwas dieser Gruß bedeuten sollte.",
+       "englisch_web": "But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Der Engel sagte zu ihr:\n„Hab keine Angst, Maria!\nDenn du hast Gnade bei Gott gefunden.",
+       "englisch_web": "The angel said to her, “Don’t be afraid, Mary, for you have found favor with God."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Sieh, du wirst schwanger werden\nund einen Sohn gebären.\nDu sollst ihm den Namen Jesus geben.",
+       "englisch_web": "Behold, you will conceive in your womb and give birth to a son, and shall name him ‘Jesus.’"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Er wird groß sein\nund Sohn des Höchsten genannt werden.\nGott, der Herr, wird ihm den Thron seines Vaters David geben.",
+       "englisch_web": "He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Er wird über das Haus Jakob herrschen für immer,\nund sein Reich wird kein Ende haben.“",
+       "englisch_web": "and he will reign over the house of Jacob forever. There will be no end to his Kingdom.”"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Maria sagte zu dem Engel:\n„Wie soll das geschehen?\nIch bin doch noch Jungfrau.“",
+       "englisch_web": "Mary said to the angel, “How can this be, seeing I am a virgin?”"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Der Engel antwortete ihr:\n„Der Heilige Geist wird über dich kommen,\nund die Kraft des Höchsten wird dich überschatten.\nDarum wird auch das Heilige,\ndas von dir geboren wird,\nSohn Gottes genannt werden.",
+       "englisch_web": "The angel answered her, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. Therefore also the holy one who is born from you will be called the Son of God."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Und sieh:\nAuch Elisabet, deine Verwandte,\nist in ihrem Alter mit einem Sohn schwanger.\nVon ihr sagte man, sie könne keine Kinder bekommen.\nJetzt ist sie im sechsten Monat.",
+       "englisch_web": "Behold, Elizabeth your relative also has conceived a son in her old age; and this is the sixth month with her who was called barren."
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Denn für Gott ist nichts unmöglich,\nwas er sagt.“",
+       "englisch_web": "For nothing spoken by God is impossible.”"
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Maria sagte:\n„Sieh, ich bin die Dienerin des Herrn.\nMir soll geschehen, wie du gesagt hast.“\nDann verließ sie der Engel.",
+       "englisch_web": "Mary said, “Behold, the servant of the Lord; let it be done to me according to your word.” Then the angel departed from her."
+      }
+     ],
+     "erklaerung": "Nazaret war ein kleines, unbedeutendes Dorf. Maria war eine junge, einfache Frau, wahrscheinlich noch sehr jung. Gott wählt nicht die Mächtigen, sondern die Kleinen.\n„Verlobt“ war damals schon eine feste Bindung, fast wie verheiratet. Aber man lebte noch nicht zusammen.\n„Jesus“ ist die griechische Form des hebräischen Namens „Jeschua“ oder „Josua“. Er bedeutet: „Gott rettet.“\nVers 32–33: Gott hatte David versprochen, dass sein Königtum für immer bestehen wird (2. Samuel 7,12–16).\nVers 34–35: Christen glauben, dass Jesus durch den Heiligen Geist empfangen wurde, ohne leiblichen Vater. Man spricht von der „Jungfrauengeburt“. Sie steht im christlichen Glaubensbekenntnis. Manche Christen verstehen sie heute eher bildlich. Für alle zeigt sie: Jesus kommt ganz von Gott.\nVers 38: Maria sagt frei Ja. Gott zwingt sie nicht. Sie fragt nach und entscheidet sich dann. Maria ist für Christen ein Vorbild des Glaubens. In der katholischen und orthodoxen Kirche wird sie besonders verehrt. Evangelische Christen ehren sie als Mutter Jesu und Vorbild im Glauben."
+    },
+    {
+     "ueberschrift": "Maria besucht Elisabet",
+     "vers_von": 39,
+     "vers_bis": 45,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 39,
+       "leichte_sprache": "In diesen Tagen machte Maria sich auf den Weg\nund ging eilig in das Bergland,\nin eine Stadt in Juda.",
+       "englisch_web": "Mary arose in those days and went into the hill country with haste, into a city of Judah,"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Sie ging in das Haus von Zacharias\nund begrüßte Elisabet.",
+       "englisch_web": "and entered into the house of Zacharias and greeted Elizabeth."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Als Elisabet den Gruß von Maria hörte,\nhüpfte das Kind in ihrem Bauch.\nUnd Elisabet wurde mit dem Heiligen Geist erfüllt.",
+       "englisch_web": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Sie rief mit lauter Stimme:\n„Gesegnet bist du unter den Frauen,\nund gesegnet ist die Frucht deines Leibes!",
+       "englisch_web": "She called out with a loud voice and said, “Blessed are you among women, and blessed is the fruit of your womb!"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Wer bin ich,\ndass die Mutter meines Herrn zu mir kommt?",
+       "englisch_web": "Why am I so favored, that the mother of my Lord should come to me?"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Denn sieh:\nAls ich deinen Gruß hörte,\nhüpfte das Kind vor Freude in meinem Bauch.",
+       "englisch_web": "For behold, when the voice of your greeting came into my ears, the baby leaped in my womb for joy!"
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Selig ist die, die geglaubt hat!\nDenn was der Herr ihr gesagt hat,\nwird sich erfüllen.“",
+       "englisch_web": "Blessed is she who believed, for there will be a fulfillment of the things which have been spoken to her from the Lord!”"
+      }
+     ],
+     "erklaerung": "Zwei schwangere Frauen begegnen sich: eine alte und eine junge. Beide haben Unglaubliches mit Gott erlebt. Sie teilen ihre Freude.\nSchon das ungeborene Johannes-Kind „hüpft vor Freude“. Johannes wird später auf Jesus hinweisen.\nElisabet nennt Maria „die Mutter meines Herrn“. Aus Vers 42 stammen Worte des katholischen Gebets „Gegrüßet seist du, Maria“.\nVers 45: Maria wird selig gepriesen, weil sie geglaubt hat. Im Unterschied zu Zacharias (Vers 20)."
+    },
+    {
+     "ueberschrift": "Das Lied der Maria – das Magnificat",
+     "vers_von": 46,
+     "vers_bis": 56,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 46,
+       "leichte_sprache": "Maria sagte:\n„Meine Seele preist den Herrn.",
+       "englisch_web": "Mary said, “My soul magnifies the Lord."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Mein Geist jubelt über Gott, meinen Retter.",
+       "englisch_web": "My spirit has rejoiced in God my Savior,"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Denn er hat auf seine niedrige Dienerin geschaut.\nSeht, von jetzt an\nwerden mich alle Generationen selig preisen.",
+       "englisch_web": "for he has looked at the humble state of his servant. For behold, from now on, all generations will call me blessed."
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Denn der Mächtige hat Großes an mir getan.\nHeilig ist sein Name.",
+       "englisch_web": "For he who is mighty has done great things for me. Holy is his name."
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Seine Barmherzigkeit gilt von Generation zu Generation\nallen, die ihn fürchten.",
+       "englisch_web": "His mercy is for generations and generations on those who fear him."
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Er zeigt die Kraft seines Arms.\nEr zerstreut die Hochmütigen\nmit den Plänen ihres Herzens.",
+       "englisch_web": "He has shown strength with his arm. He has scattered the proud in the imagination of their hearts."
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "Er stürzt die Mächtigen vom Thron\nund erhöht die Niedrigen.",
+       "englisch_web": "He has put down princes from their thrones, and has exalted the lowly."
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Die Hungernden beschenkt er mit Gutem,\nund die Reichen schickt er mit leeren Händen weg.",
+       "englisch_web": "He has filled the hungry with good things. He has sent the rich away empty."
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Er hilft Israel, seinem Diener,\nund denkt an seine Barmherzigkeit,",
+       "englisch_web": "He has given help to Israel, his servant, that he might remember mercy,"
+      },
+      {
+       "vers": 55,
+       "leichte_sprache": "wie er es unseren Vätern versprochen hat,\nAbraham und seinen Nachkommen für immer.“",
+       "englisch_web": "as he spoke to our fathers, to Abraham and his offspring forever.”"
+      },
+      {
+       "vers": 56,
+       "leichte_sprache": "Maria blieb etwa drei Monate bei Elisabet.\nDann kehrte sie nach Hause zurück.",
+       "englisch_web": "Mary stayed with her about three months, and then returned to her house."
+      }
+     ],
+     "erklaerung": "Das Lied der Maria heißt nach seinem ersten Wort in der lateinischen Bibel „Magnificat“ („Sie preist“). Es wird bis heute in vielen Kirchen jeden Abend gesungen.\nDas Lied erinnert stark an das Lied der Hanna (1. Samuel 2,1–10) und an viele Psalmen. Maria betet ganz in der Sprache des Glaubens Israels.\nDas Lied ist revolutionär: Gott stürzt die Mächtigen und erhöht die Niedrigen. Er macht die Hungernden satt. Gott steht auf der Seite der Armen und Unterdrückten. Dieser Gedanke zieht sich durch das ganze Lukasevangelium.\nVers 54–55: Gott bleibt seinem Volk Israel treu, wie er es Abraham versprochen hat.\nFür heute: Das Magnificat ermutigt alle, die klein gemacht werden. Gott sieht sie."
+    },
+    {
+     "ueberschrift": "Johannes wird geboren",
+     "vers_von": 57,
+     "vers_bis": 66,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 57,
+       "leichte_sprache": "Für Elisabet kam die Zeit, ihr Kind zu bekommen,\nund sie brachte einen Sohn zur Welt.",
+       "englisch_web": "Now the time that Elizabeth should give birth was fulfilled, and she gave birth to a son."
+      },
+      {
+       "vers": 58,
+       "leichte_sprache": "Ihre Nachbarn und Verwandten hörten,\nwie groß der Herr seine Barmherzigkeit an ihr gezeigt hatte.\nUnd sie freuten sich mit ihr.",
+       "englisch_web": "Her neighbors and her relatives heard that the Lord had magnified his mercy toward her, and they rejoiced with her."
+      },
+      {
+       "vers": 59,
+       "leichte_sprache": "Am achten Tag kamen sie,\num das Kind zu beschneiden.\nSie wollten ihm den Namen seines Vaters geben: Zacharias.",
+       "englisch_web": "On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father."
+      },
+      {
+       "vers": 60,
+       "leichte_sprache": "Aber seine Mutter sagte:\n„Nein!\nEr soll Johannes heißen.“",
+       "englisch_web": "His mother answered, “Not so; but he will be called John.”"
+      },
+      {
+       "vers": 61,
+       "leichte_sprache": "Sie sagten zu ihr:\n„Es gibt doch niemanden in deiner Verwandtschaft,\nder so heißt.“",
+       "englisch_web": "They said to her, “There is no one among your relatives who is called by this name.”"
+      },
+      {
+       "vers": 62,
+       "leichte_sprache": "Sie machten seinem Vater Zeichen,\nwie er das Kind nennen wolle.",
+       "englisch_web": "They made signs to his father, what he would have him called."
+      },
+      {
+       "vers": 63,
+       "leichte_sprache": "Er bat um eine Schreibtafel\nund schrieb:\n„Sein Name ist Johannes.“\nDa staunten alle.",
+       "englisch_web": "He asked for a writing tablet, and wrote, “His name is John.” They all marveled."
+      },
+      {
+       "vers": 64,
+       "leichte_sprache": "Sofort öffnete sich sein Mund,\nseine Zunge wurde frei,\nund er redete und lobte Gott.",
+       "englisch_web": "His mouth was opened immediately and his tongue freed, and he spoke, blessing God."
+      },
+      {
+       "vers": 65,
+       "leichte_sprache": "Da kam Ehrfurcht über alle, die in der Nähe wohnten.\nIm ganzen Bergland von Judäa\nsprach man über diese Ereignisse.",
+       "englisch_web": "Fear came on all who lived around them, and all these sayings were talked about throughout all the hill country of Judea."
+      },
+      {
+       "vers": 66,
+       "leichte_sprache": "Alle, die davon hörten,\nbehielten es in ihrem Herzen und sagten:\n„Was wird wohl aus diesem Kind werden?“\nDenn die Hand des Herrn war mit ihm.",
+       "englisch_web": "All who heard them laid them up in their heart, saying, “What then will this child be?” The hand of the Lord was with him."
+      }
+     ],
+     "erklaerung": "Die Beschneidung am achten Tag ist ein Zeichen des Bundes zwischen Gott und Israel (1. Mose 17,12). Jüdische Jungen werden bis heute am achten Tag beschnitten. Dabei bekommt das Kind seinen Namen.\nElisabet setzt sich durch. Gegen die Erwartung der Verwandten gibt sie dem Kind den Namen, den Gott bestimmt hat.\nVers 62: Man macht Zacharias Zeichen. Vielleicht konnte er auch nicht hören. Das griechische Wort in Vers 22 kann „stumm“ oder „taub“ heißen.\nSobald Zacharias den Namen bestätigt, kann er wieder sprechen. Sein erstes Wort ist ein Lob Gottes."
+    },
+    {
+     "ueberschrift": "Das Lied des Zacharias – das Benedictus",
+     "vers_von": 67,
+     "vers_bis": 80,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 67,
+       "leichte_sprache": "Sein Vater Zacharias wurde mit dem Heiligen Geist erfüllt\nund sprach prophetisch:",
+       "englisch_web": "His father Zacharias was filled with the Holy Spirit, and prophesied, saying,"
+      },
+      {
+       "vers": 68,
+       "leichte_sprache": "„Gelobt sei der Herr, der Gott Israels!\nDenn er hat sein Volk besucht\nund ihm Erlösung gebracht.",
+       "englisch_web": "“Blessed be the Lord, the God of Israel, for he has visited and redeemed his people;"
+      },
+      {
+       "vers": 69,
+       "leichte_sprache": "Er hat uns ein Horn des Heils aufgerichtet\nim Haus seines Dieners David,",
+       "englisch_web": "and has raised up a horn of salvation for us in the house of his servant David"
+      },
+      {
+       "vers": 70,
+       "leichte_sprache": "wie er es durch den Mund seiner heiligen Propheten\nseit alter Zeit gesagt hat:",
+       "englisch_web": "(as he spoke by the mouth of his holy prophets who have been from of old),"
+      },
+      {
+       "vers": 71,
+       "leichte_sprache": "Rettung vor unseren Feinden\nund aus der Hand aller, die uns hassen.",
+       "englisch_web": "salvation from our enemies and from the hand of all who hate us;"
+      },
+      {
+       "vers": 72,
+       "leichte_sprache": "So zeigt er Barmherzigkeit an unseren Vätern\nund denkt an seinen heiligen Bund,",
+       "englisch_web": "to show mercy toward our fathers, to remember his holy covenant,"
+      },
+      {
+       "vers": 73,
+       "leichte_sprache": "an den Schwur, den er Abraham, unserem Vater, geschworen hat.",
+       "englisch_web": "the oath which he swore to Abraham our father,"
+      },
+      {
+       "vers": 74,
+       "leichte_sprache": "Er will uns geben,\ndass wir, befreit aus der Hand unserer Feinde,\nihm ohne Furcht dienen",
+       "englisch_web": "to grant to us that we, being delivered out of the hand of our enemies, should serve him without fear,"
+      },
+      {
+       "vers": 75,
+       "leichte_sprache": "in Heiligkeit und Gerechtigkeit vor ihm\nalle Tage unseres Lebens.",
+       "englisch_web": "in holiness and righteousness before him all the days of our life."
+      },
+      {
+       "vers": 76,
+       "leichte_sprache": "Und du, Kind,\nwirst Prophet des Höchsten genannt werden.\nDenn du wirst vor dem Herrn hergehen,\num seine Wege vorzubereiten,",
+       "englisch_web": "And you, child, will be called a prophet of the Most High; for you will go before the face of the Lord to prepare his ways,"
+      },
+      {
+       "vers": 77,
+       "leichte_sprache": "um seinem Volk die Erkenntnis des Heils zu geben\ndurch die Vergebung ihrer Sünden.",
+       "englisch_web": "to give knowledge of salvation to his people by the remission of their sins,"
+      },
+      {
+       "vers": 78,
+       "leichte_sprache": "Das geschieht durch die herzliche Barmherzigkeit unseres Gottes.\nDurch sie wird uns das aufgehende Licht aus der Höhe besuchen,",
+       "englisch_web": "because of the tender mercy of our God, by which the dawn from on high will visit us,"
+      },
+      {
+       "vers": 79,
+       "leichte_sprache": "um denen zu leuchten,\ndie in Finsternis und im Schatten des Todes sitzen,\nund um unsere Füße auf den Weg des Friedens zu lenken.“",
+       "englisch_web": "to shine on those who sit in darkness and the shadow of death; to guide our feet into the way of peace.”"
+      },
+      {
+       "vers": 80,
+       "leichte_sprache": "Das Kind wuchs und wurde stark im Geist.\nEs lebte in der Wüste\nbis zu dem Tag,\nan dem es öffentlich vor Israel auftrat.",
+       "englisch_web": "The child was growing and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel."
+      }
+     ],
+     "erklaerung": "Das Lied des Zacharias heißt nach seinem ersten Wort in der lateinischen Bibel „Benedictus“ („Gelobt sei“). Es wird bis heute in vielen Kirchen jeden Morgen gebetet.\nVers 69: „Ein Horn des Heils“ (WEB: „a horn of salvation“). Das Horn ist in der Bibel ein Bild für Kraft und Stärke (vergleiche Psalm 18,3; in englischen Bibeln 18,2).\nZacharias lobt Gott, der seinem Volk Israel treu ist und seinen Bund mit Abraham hält.\nVers 76–79: Zacharias spricht zu seinem kleinen Sohn: Du wirst den Weg für den Herrn bereiten. Das „aufgehende Licht“ meint den Messias.\nVers 79: „Den Weg des Friedens“: Gottes Rettung führt zum Frieden.\nVers 80: Johannes lebt in der Wüste, bis er erwachsen ist und öffentlich auftritt (Kapitel 3)."
+    }
+   ]
+  }
+ ]
+}
