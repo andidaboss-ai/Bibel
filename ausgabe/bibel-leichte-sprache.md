@@ -115967,3 +115967,223 @@ Er wird Nazoräer genannt werden.
 > Vers 22: Archelaus, ein Sohn des Herodes, war genauso grausam wie sein Vater. Die Römer setzten ihn nach etwa zehn Jahren ab. Darum zieht Josef nach Galiläa, in den Norden, wo ein anderer Sohn des Herodes herrschte.
 > Vers 23: Nazaret war ein kleines, unbedeutendes Dorf. Im Alten Testament wird es nicht erwähnt. „Er wird Nazoräer genannt werden“ steht so wörtlich nirgends in den Propheten. Matthäus sagt auch „durch die Propheten“ (Mehrzahl). Vielleicht denkt er an ein Wortspiel mit dem hebräischen Wort „nezer“, das „Spross“ bedeutet (Jesaja 11,1): Jesus ist der Spross aus der Wurzel Isais. Andere denken an die „Nasiräer“, Menschen, die Gott besonders geweiht waren (Richter 13,5).
 > Jesus wächst also in einem kleinen Dorf auf, fern von der Hauptstadt. Er wird „Jesus von Nazaret“ genannt werden.
+
+## Matthäus – Kapitel 3
+#### Johannes der Täufer und die Taufe Jesu
+
+---
+
+### Johannes ruft zur Umkehr (Vers 1–6)
+
+<sup>1</sup>In jenen Tagen trat Johannes der Täufer auf
+und predigte in der Wüste von Judäa
+<sup>2</sup>und sagte:
+„Kehrt um, denn das Reich der Himmel ist nahe gekommen!“
+<sup>3</sup>Denn dieser ist es, von dem der Prophet Jesaja gesprochen hat, als er sagte:
+„Die Stimme eines Rufers in der Wüste:
+Bereitet den Weg des Herrn!
+Macht seine Pfade gerade!“
+<sup>4</sup>Johannes selbst trug Kleidung aus Kamelhaar
+und einen Ledergürtel um seine Hüften.
+Seine Nahrung waren Heuschrecken und wilder Honig.
+<sup>5</sup>Da zogen die Leute aus Jerusalem, aus ganz Judäa
+und aus der ganzen Gegend am Jordan zu ihm hinaus.
+<sup>6</sup>Sie ließen sich von ihm im Jordan taufen
+und bekannten ihre Sünden.
+
+> **Was bedeutet das?**
+> Johannes der Täufer ist der Bote, den Maleachi angekündigt hatte (Maleachi 3,1; 4,5). Er war ein Verwandter Jesu (Lukas 1,36).
+> Vers 2: Seine Botschaft: „Kehrt um!“ Das griechische Wort bedeutet: Denkt um, ändert euer Leben, wendet euch Gott zu. „Das Reich der Himmel“ ist das Reich Gottes. Matthäus sagt „Himmel“ statt „Gott“, wie viele Juden damals, aus Ehrfurcht vor dem Namen Gottes.
+> Vers 3: Matthäus zitiert Jesaja 40,3. Johannes bereitet den Weg für den, der nach ihm kommt.
+> Vers 4: Seine Kleidung erinnert an den Propheten Elia (2. Könige 1,8). Heuschrecken waren in der Wüste eine übliche Nahrung und nach dem Gesetz erlaubt (3. Mose 11,22).
+> Vers 6: Die Taufe im Jordan war ein Zeichen: Ich will neu anfangen, Gott soll mich reinwaschen. Die Menschen bekannten dabei offen ihre Schuld.
+
+---
+
+### Bringt Früchte der Umkehr! (Vers 7–12)
+
+<sup>7</sup>Als er aber viele von den Pharisäern und Sadduzäern zu seiner Taufe kommen sah,
+sagte er zu ihnen:
+„Ihr Schlangenbrut!
+Wer hat euch gewarnt, dass ihr dem kommenden Zorn entfliehen könnt?
+<sup>8</sup>Bringt also Frucht, die der Umkehr entspricht!
+<sup>9</sup>Und meint nicht, bei euch selbst sagen zu können:
+‚Wir haben Abraham zum Vater.‘
+Denn ich sage euch: Gott kann dem Abraham aus diesen Steinen Kinder erwecken.
+<sup>10</sup>Schon ist die Axt an die Wurzel der Bäume gelegt.
+Jeder Baum, der keine gute Frucht bringt,
+wird abgehauen und ins Feuer geworfen.
+<sup>11</sup>Ich taufe euch zwar mit Wasser zur Umkehr.
+Der aber nach mir kommt, ist stärker als ich.
+Ich bin nicht wert, ihm die Sandalen zu tragen.
+Er wird euch mit dem Heiligen Geist taufen.
+<sup>12</sup>Er hat seine Worfschaufel in der Hand,
+und er wird seine Tenne gründlich reinigen.
+Seinen Weizen wird er in die Scheune sammeln,
+aber die Spreu wird er mit unauslöschlichem Feuer verbrennen.“
+
+> **Was bedeutet das?**
+> Vers 7: Pharisäer und Sadduzäer waren zwei wichtige religiöse Gruppen im damaligen Judentum. Die Pharisäer legten großen Wert darauf, das Gesetz im Alltag genau zu halten. Die Sadduzäer gehörten oft zur Priesterschaft am Tempel. Johannes kritisiert sie hart, wie die Propheten früher die Mächtigen kritisiert haben. Das ist ein Streit innerhalb des Judentums. Es ist keine Aussage über „die Juden“ oder über das Judentum insgesamt. Johannes, Jesus und die Jünger waren selbst Juden.
+> Vers 8–9: Umkehr muss sich im Leben zeigen, in guten Taten. Es reicht nicht, sich auf die richtige Abstammung („Abraham ist unser Vater“) zu verlassen. Das gilt genauso für Christen: Es reicht nicht, getauft zu sein oder zur Kirche zu gehören.
+> Vers 10 und 12: Bilder aus der Landwirtschaft. Ein Baum ohne Früchte wird gefällt. Beim Dreschen wirft man das Getreide mit einer Schaufel in die Luft: Die schweren Körner fallen herunter, die leichte Spreu weht weg und wird verbrannt. So wird Gott einmal unterscheiden zwischen dem, was Bestand hat, und dem, was wertlos ist.
+> Vers 11: Johannes ist bescheiden: Er hält sich nicht einmal für wert, dem Kommenden die Sandalen zu tragen, eine Arbeit für Sklaven. Johannes tauft mit Wasser, der Kommende wird mit dem Heiligen Geist taufen.
+
+---
+
+### Jesus wird getauft (Vers 13–17)
+
+<sup>13</sup>Dann kam Jesus aus Galiläa an den Jordan zu Johannes,
+um sich von ihm taufen zu lassen.
+<sup>14</sup>Johannes aber wollte es verhindern und sagte:
+„Ich müsste von dir getauft werden,
+und du kommst zu mir?“
+<sup>15</sup>Jesus aber antwortete ihm:
+„Lass es jetzt geschehen,
+denn so ist es angemessen für uns,
+alle Gerechtigkeit zu erfüllen.“
+Da ließ er es geschehen.
+<sup>16</sup>Als Jesus getauft war,
+stieg er sofort aus dem Wasser.
+Und siehe, die Himmel öffneten sich ihm,
+und er sah den Geist Gottes wie eine Taube herabkommen
+und auf ihn kommen.
+<sup>17</sup>Und siehe, eine Stimme aus den Himmeln sagte:
+„Dies ist mein geliebter Sohn,
+an dem ich Wohlgefallen habe.“
+
+> **Was bedeutet das?**
+> Vers 13–14: Jesus kommt zur Taufe. Johannes ist erstaunt: Eigentlich müsste Jesus ihn taufen!
+> Vers 15: Jesus antwortet: So erfüllen wir „alle Gerechtigkeit“, also das, was Gott will. Jesus stellt sich an die Seite der Menschen, die zur Taufe kommen. Er reiht sich ein, obwohl er nach christlichem Glauben selbst keine Umkehr nötig hatte.
+> Vers 16: Der Himmel öffnet sich, und der Geist Gottes kommt wie eine Taube auf Jesus. Die Taube ist seitdem ein Zeichen für den Heiligen Geist und auch für Frieden.
+> Vers 17: Gottes Stimme sagt: „Dies ist mein geliebter Sohn.“ Die Worte erinnern an Psalm 2,7 und Jesaja 42,1. Christen sehen in dieser Szene Vater, Sohn und Heiligen Geist zusammen.
+> Für heute: Bevor Jesus irgendetwas getan hat, sagt Gott schon: „Ich habe dich lieb.“ Viele Christen verstehen ihre eigene Taufe ähnlich: Gottes Liebe kommt zuerst, nicht erst als Belohnung.
+
+## Matthäus – Kapitel 4
+#### Die Versuchung und die ersten Jünger
+
+---
+
+### Jesus wird in der Wüste versucht (Vers 1–11)
+
+<sup>1</sup>Dann wurde Jesus vom Geist in die Wüste hinaufgeführt,
+um vom Teufel versucht zu werden.
+<sup>2</sup>Als er vierzig Tage und vierzig Nächte gefastet hatte,
+bekam er danach Hunger.
+<sup>3</sup>Da trat der Versucher zu ihm und sagte:
+„Wenn du Gottes Sohn bist,
+dann befiehl, dass diese Steine zu Brot werden.“
+<sup>4</sup>Er aber antwortete:
+„Es steht geschrieben:
+‚Der Mensch lebt nicht vom Brot allein,
+sondern von jedem Wort, das aus dem Mund Gottes kommt.‘“
+<sup>5</sup>Da nahm ihn der Teufel mit in die heilige Stadt.
+Er stellte ihn auf die Zinne des Tempels
+<sup>6</sup>und sagte zu ihm:
+„Wenn du Gottes Sohn bist, dann stürze dich hinab!
+Denn es steht geschrieben:
+‚Er wird seinen Engeln deinetwegen Befehl geben‘,
+und:
+‚Sie werden dich auf ihren Händen tragen,
+damit du deinen Fuß nicht an einen Stein stößt.‘“
+<sup>7</sup>Jesus sagte zu ihm:
+„Es steht auch geschrieben:
+‚Du sollst den Herrn, deinen Gott, nicht versuchen.‘“
+<sup>8</sup>Wieder nahm ihn der Teufel mit auf einen sehr hohen Berg
+und zeigte ihm alle Königreiche der Welt und ihre Herrlichkeit.
+<sup>9</sup>Er sagte zu ihm:
+„Das alles will ich dir geben,
+wenn du niederfällst und mich anbetest.“
+<sup>10</sup>Da sagte Jesus zu ihm:
+„Geh weg, Satan!
+Denn es steht geschrieben:
+‚Du sollst den Herrn, deinen Gott, anbeten
+und ihm allein dienen.‘“
+<sup>11</sup>Da verließ ihn der Teufel.
+Und siehe, Engel kamen und dienten ihm.
+
+> **Was bedeutet das?**
+> Vers 1–2: Nach der Taufe geht Jesus in die Wüste und fastet vierzig Tage. Das erinnert an die vierzig Jahre, die Israel in der Wüste war, und an Mose und Elia, die vierzig Tage fasteten (2. Mose 34,28; 1. Könige 19,8). Daran erinnert die christliche Fastenzeit vor Ostern.
+> Dreimal versucht der Teufel Jesus:
+> 1. Brot aus Steinen (Vers 3–4): Benutze deine Macht für dich selbst! Jesus antwortet mit 5. Mose 8,3: Der Mensch braucht mehr als Brot, er braucht Gottes Wort.
+> 2. Sprung vom Tempel (Vers 5–7): Zwinge Gott, dich spektakulär zu retten! Der Teufel zitiert sogar die Bibel (Psalm 91,11–12). Jesus antwortet mit 5. Mose 6,16: Man soll Gott nicht auf die Probe stellen.
+> 3. Macht über die Welt (Vers 8–10): Bete mich an, dann bekommst du alles! Jesus antwortet mit 5. Mose 6,13: Nur Gott soll man anbeten.
+> Jedes Mal antwortet Jesus mit einem Wort aus der Bibel. Wo Israel in der Wüste oft versagte, bleibt Jesus treu.
+> Für heute: Jeder Mensch kennt Versuchungen, zum Beispiel Macht, Ansehen oder schnelle Lösungen auf Kosten anderer. Jesus zeigt, dass man Nein sagen kann.
+
+---
+
+### Jesus beginnt in Galiläa (Vers 12–17)
+
+<sup>12</sup>Als Jesus hörte, dass Johannes gefangen genommen worden war,
+zog er sich nach Galiläa zurück.
+<sup>13</sup>Er verließ Nazaret
+und kam und wohnte in Kafarnaum, das am See liegt,
+im Gebiet von Sebulon und Naftali,
+<sup>14</sup>damit erfüllt würde, was durch den Propheten Jesaja gesagt ist:
+<sup>15</sup>„Das Land Sebulon und das Land Naftali,
+zum Meer hin, jenseits des Jordan,
+Galiläa der Heiden:
+<sup>16</sup>Das Volk, das in der Finsternis saß,
+hat ein großes Licht gesehen.
+Und denen, die im Land und Schatten des Todes saßen,
+ist ein Licht aufgegangen.“
+<sup>17</sup>Von da an begann Jesus zu predigen und zu sagen:
+„Kehrt um! Denn das Reich der Himmel ist nahe gekommen.“
+
+> **Was bedeutet das?**
+> Vers 12: Johannes der Täufer wurde von Herodes Antipas, dem Herrscher von Galiläa, ins Gefängnis geworfen (Matthäus 14,3–4).
+> Vers 13: Jesus zieht nach Kafarnaum, einer Stadt am See Genezareth. Dort wird er oft sein.
+> Vers 15–16: Matthäus zitiert Jesaja 9,1–2 (in deutschen Bibeln Jesaja 8,23–9,1). „Galiläa der Heiden“ hieß die Gegend, weil dort viele Nichtjuden lebten. Gerade dort, am Rand, beginnt Jesus. Er ist das „große Licht“ für Menschen im Dunkeln.
+> Vers 17: Jesus beginnt mit derselben Botschaft wie Johannes: „Kehrt um! Das Reich der Himmel ist nahe.“
+
+---
+
+### Die ersten Jünger (Vers 18–22)
+
+<sup>18</sup>Als Jesus am See von Galiläa entlangging,
+sah er zwei Brüder:
+Simon, der Petrus genannt wird, und Andreas, seinen Bruder.
+Sie warfen ein Netz in den See,
+denn sie waren Fischer.
+<sup>19</sup>Er sagte zu ihnen:
+„Kommt, folgt mir nach,
+und ich werde euch zu Menschenfischern machen.“
+<sup>20</sup>Sofort ließen sie ihre Netze liegen
+und folgten ihm.
+<sup>21</sup>Als er von dort weiterging,
+sah er zwei andere Brüder:
+Jakobus, den Sohn des Zebedäus, und Johannes, seinen Bruder.
+Sie waren mit ihrem Vater Zebedäus im Boot
+und flickten ihre Netze.
+Er rief sie.
+<sup>22</sup>Sofort verließen sie das Boot und ihren Vater
+und folgten ihm.
+
+> **Was bedeutet das?**
+> Jesus ruft einfache Fischer, keine Gelehrten oder Mächtigen. Sie sollen „Menschenfischer“ werden, also Menschen für Gottes Reich gewinnen.
+> „Sofort“ lassen sie alles liegen. Das zeigt, wie stark Jesus sie angezogen hat. Vielleicht kannten sie ihn auch schon vorher (vgl. Johannes 1,35–42).
+> Simon bekommt den Beinamen „Petrus“, das bedeutet „Fels“ (vgl. Matthäus 16,18).
+> Vers 22: Jakobus und Johannes lassen sogar ihren Vater zurück. Der Vater bleibt nicht allein: Er hat Tagelöhner, die ihm helfen (Markus 1,20).
+
+---
+
+### Jesus lehrt und heilt (Vers 23–25)
+
+<sup>23</sup>Jesus zog in ganz Galiläa umher,
+lehrte in ihren Synagogen,
+verkündete die gute Nachricht vom Reich
+und heilte jede Krankheit und jedes Leiden im Volk.
+<sup>24</sup>Die Nachricht über ihn verbreitete sich in ganz Syrien.
+Man brachte alle Kranken zu ihm,
+die von verschiedenen Krankheiten und Qualen geplagt waren,
+Besessene, Epileptiker und Gelähmte,
+und er heilte sie.
+<sup>25</sup>Große Menschenmengen folgten ihm
+aus Galiläa, aus der Dekapolis, aus Jerusalem, aus Judäa
+und von jenseits des Jordan.
+
+> **Was bedeutet das?**
+> Hier fasst Matthäus zusammen, was Jesus tut: Er lehrt, er verkündet die gute Nachricht vom Reich Gottes, und er heilt Kranke. Worte und Taten gehören zusammen.
+> Synagogen waren jüdische Versammlungshäuser zum Beten und zum Lesen der Heiligen Schrift.
+> Vers 24: Damals wurden viele Krankheiten, die wir heute medizinisch verstehen, als Besessenheit gedeutet. Epilepsie zum Beispiel ist eine Krankheit des Gehirns, keine Schuld und kein Zeichen von etwas Bösem. Kranke Menschen verdienen Hilfe und Respekt.
+> Vers 25: Die Dekapolis („Zehn Städte“) war ein Gebiet östlich des Jordan, in dem überwiegend Nichtjuden lebten. Menschen aus allen Richtungen kommen zu Jesus. Ab Kapitel 5 folgt seine große Rede auf dem Berg, die Bergpredigt.
