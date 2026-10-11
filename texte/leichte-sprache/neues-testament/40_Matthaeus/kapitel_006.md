@@ -97,7 +97,7 @@ Und dein Vater, der ins Verborgene sieht, wird es dir vergelten.
 
 > **Was bedeutet das?**
 > Fasten heißt, eine Zeit lang auf Essen oder anderes zu verzichten, um sich auf Gott zu konzentrieren. Jesus sagt: Mach keine Show daraus. Pflege dich wie an einem normalen Tag.
-> Hinweis: Fasten ist nicht für jeden Menschen gesund, zum Beispiel bei Krankheiten oder Essstörungen. Wer an einer Essstörung leidet, findet Hilfe zum Beispiel bei der Beratung der BZgA (Telefon 0221 89 20 31). Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222.
+> Hinweis: Fasten ist nicht für jeden Menschen gesund, zum Beispiel bei Krankheiten oder Essstörungen. Wer an einer Essstörung leidet, sollte sich ärztliche oder therapeutische Hilfe holen. Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222.
 
 ---
 
