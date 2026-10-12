@@ -149375,3 +149375,169 @@ dann wäre Christus umsonst gestorben.“
 > Wichtig: Paulus spricht hier nicht schlecht über die Tora. Er fragt, was Menschen aus den Völkern tun müssen, um zu Gott zu gehören.
 > Vers 20: „Christus lebt in mir“: Der Glaube verbindet einen Menschen so eng mit Jesus, dass sein ganzes Leben von ihm geprägt wird.
 > Vers 21: Wo genau die Rede an Petrus endet, ist nicht ganz klar. Das WEB lässt das Zitat bis Vers 21 gehen.
+
+## Galater – Kapitel 3
+#### Kinder Abrahams durch den Glauben
+
+---
+
+### Wie habt ihr den Geist empfangen? (Vers 1–5)
+
+<sup>1</sup>Ihr unverständigen Galater!
+Wer hat euch verhext,
+dass ihr der Wahrheit nicht mehr gehorcht?
+Euch wurde doch Jesus Christus als der Gekreuzigte
+deutlich vor Augen gestellt.
+<sup>2</sup>Nur das will ich von euch wissen:
+Habt ihr den Geist empfangen
+durch die Werke des Gesetzes
+oder durch das Hören im Glauben?
+<sup>3</sup>Seid ihr so unverständig?
+Ihr habt im Geist angefangen.
+Wollt ihr jetzt im Fleisch vollenden?
+<sup>4</sup>Habt ihr so vieles umsonst erlitten?
+Wenn es denn wirklich umsonst war!
+<sup>5</sup>Gott schenkt euch den Geist
+und tut Wunder unter euch.
+Tut er das wegen der Werke des Gesetzes
+oder durch das Hören im Glauben?
+
+> **Was bedeutet das?**
+> Vers 1: „Verhext“ ist ein starkes Bild. Paulus ist erschrocken, wie schnell die Galater sich umstimmen ließen.
+> Vers 2–5: Die Galater haben den Heiligen Geist empfangen, als sie die gute Nachricht hörten und glaubten, nicht weil sie Gebote erfüllt haben. Warum sollten sie jetzt etwas anderes brauchen?
+> Vers 3: „Im Fleisch vollenden“ meint hier: aus eigener menschlicher Kraft, zum Beispiel durch die Beschneidung.
+
+---
+
+### Abraham glaubte Gott (Vers 6–14)
+
+<sup>6</sup>So war es auch bei Abraham:
+„Er glaubte Gott,
+und das wurde ihm als Gerechtigkeit angerechnet.“
+<sup>7</sup>Erkennt also:
+Die aus dem Glauben leben,
+das sind die Kinder Abrahams.
+<sup>8</sup>Die Schrift hat vorausgesehen,
+dass Gott die Völker durch den Glauben gerecht macht.
+Darum hat sie Abraham die gute Nachricht schon im Voraus verkündet:
+„In dir sollen alle Völker gesegnet werden.“
+<sup>9</sup>Also werden die,
+die aus dem Glauben leben,
+zusammen mit dem gläubigen Abraham gesegnet.
+<sup>10</sup>Denn alle,
+die aus den Werken des Gesetzes leben,
+sind unter einem Fluch.
+Denn es steht geschrieben:
+„Verflucht ist jeder,
+der nicht bei allem bleibt,
+was im Buch des Gesetzes geschrieben steht,
+und es nicht tut.“
+<sup>11</sup>Dass aber niemand durch das Gesetz vor Gott gerecht wird,
+ist klar.
+Denn:
+„Der Gerechte wird aus dem Glauben leben.“
+<sup>12</sup>Das Gesetz aber beruht nicht auf dem Glauben,
+sondern:
+„Wer sie tut,
+wird durch sie leben.“
+<sup>13</sup>Christus hat uns vom Fluch des Gesetzes freigekauft,
+indem er für uns zum Fluch wurde.
+Denn es steht geschrieben:
+„Verflucht ist jeder,
+der an einem Holz hängt.“
+<sup>14</sup>So sollte der Segen Abrahams
+durch Christus Jesus zu den Völkern kommen,
+damit wir durch den Glauben den versprochenen Geist empfangen.
+
+> **Was bedeutet das?**
+> Vers 6 zitiert 1. Mose 15,6. Abraham vertraute Gott, lange bevor es das Gesetz am Sinai gab.
+> Vers 8 zitiert 1. Mose 12,3 (vergleiche 18,18). Schon Abraham wurde gesagt: Durch ihn sollen alle Völker gesegnet werden.
+> Vers 10 zitiert 5. Mose 27,26. Vers 11 zitiert Habakuk 2,4. Vers 12 zitiert 3. Mose 18,5. Vers 13 zitiert 5. Mose 21,23.
+> Vers 10–13 sind schwierige Verse. Paulus will den Galatern sagen: Wenn ihr euch auf das Gesetz verlasst, statt auf Christus, dann müsst ihr alles vollkommen halten. Christus hat diesen Weg für uns geöffnet.
+> Wichtig: Paulus sagt nicht, dass das jüdische Volk unter einem Fluch steht. Er spricht zu Christen aus den Völkern, die meinten, sie müssten sich zusätzlich an das Gesetz binden. Diese Verse wurden oft gegen Juden benutzt. Das war Unrecht.
+> Vers 13: Jesus wurde am Kreuz wie ein Verfluchter behandelt. Aber gerade so hat er den Segen zu allen Menschen gebracht.
+
+---
+
+### Das Gesetz und die Verheißung (Vers 15–25)
+
+<sup>15</sup>Brüder,
+ich rede nach menschlicher Art:
+Selbst wenn es nur ein Vertrag von Menschen ist,
+kann niemand ihn aufheben oder etwas hinzufügen,
+wenn er einmal gültig ist.
+<sup>16</sup>Die Verheißungen wurden aber Abraham
+und seinem Nachkommen gegeben.
+Es heißt nicht:
+„und den Nachkommen“,
+als ob viele gemeint wären,
+sondern es heißt,
+als ob einer gemeint ist:
+„und deinem Nachkommen“.
+Das ist Christus.
+<sup>17</sup>Ich meine aber Folgendes:
+Gott hat einen Bund vorher in Christus bestätigt.
+Das Gesetz,
+das vierhundertdreißig Jahre später kam,
+kann diesen Bund nicht ungültig machen,
+sodass die Verheißung aufgehoben wäre.
+<sup>18</sup>Denn wenn das Erbe aus dem Gesetz käme,
+dann käme es nicht mehr aus der Verheißung.
+Gott aber hat es Abraham durch eine Verheißung geschenkt.
+<sup>19</sup>Wozu gibt es dann das Gesetz?
+Es wurde hinzugefügt wegen der Übertretungen,
+bis der Nachkomme kommt,
+dem die Verheißung gegeben ist.
+Es wurde durch Engel angeordnet,
+durch die Hand eines Vermittlers.
+<sup>20</sup>Ein Vermittler steht aber nicht nur für einen.
+Gott aber ist einer.
+<sup>21</sup>Ist dann das Gesetz gegen die Verheißungen Gottes?
+Auf keinen Fall!
+Denn wenn ein Gesetz gegeben worden wäre,
+das lebendig machen kann,
+dann käme die Gerechtigkeit wirklich aus dem Gesetz.
+<sup>22</sup>Aber die Schrift hat alles unter der Sünde eingeschlossen,
+damit die Verheißung durch den Glauben an Jesus Christus
+denen gegeben wird,
+die glauben.
+<sup>23</sup>Bevor aber der Glaube kam,
+wurden wir unter dem Gesetz bewacht
+und eingeschlossen,
+bis der Glaube offenbar werden sollte.
+<sup>24</sup>So ist das Gesetz unser Erzieher geworden
+bis zu Christus,
+damit wir durch den Glauben gerecht werden.
+<sup>25</sup>Jetzt aber,
+da der Glaube gekommen ist,
+sind wir nicht mehr unter einem Erzieher.
+
+> **Was bedeutet das?**
+> Vers 16: Paulus deutet das Wort „Nachkomme“ in der Einzahl (zum Beispiel 1. Mose 12,7) auf Christus. Das ist eine Auslegungsweise, wie sie auch jüdische Lehrer damals benutzten.
+> Vers 17: Die Verheißung an Abraham kam zuerst. Das Gesetz kam viel später, am Sinai. Es hebt die frühere Verheißung nicht auf.
+> Vers 21: „Auf keinen Fall!“ Das Gesetz ist nicht gegen Gottes Verheißungen. Paulus sagt nicht, dass das Gesetz schlecht ist.
+> Vers 24: Der „Erzieher“ war damals oft ein Sklave, der Kinder begleitete und auf sie aufpasste, bis sie erwachsen waren. Paulus sagt: So hat das Gesetz eine wichtige Aufgabe gehabt.
+
+---
+
+### Alle sind eins in Christus (Vers 26–29)
+
+<sup>26</sup>Denn ihr alle seid Kinder Gottes
+durch den Glauben an Christus Jesus.
+<sup>27</sup>Denn ihr alle,
+die ihr auf Christus getauft seid,
+habt Christus angezogen.
+<sup>28</sup>Da ist weder Jude noch Grieche,
+da ist weder Sklave noch Freier,
+da ist weder Mann noch Frau.
+Denn ihr alle seid eins in Christus Jesus.
+<sup>29</sup>Wenn ihr aber zu Christus gehört,
+dann seid ihr Nachkommen Abrahams
+und Erben nach der Verheißung.
+
+> **Was bedeutet das?**
+> Vers 27: „Christus anziehen“ ist ein Bild: In der Taufe wird man ganz mit Christus verbunden, wie mit einem neuen Kleid.
+> Vers 28 ist einer der wichtigsten Verse der Bibel über die Gleichheit der Menschen. In Christus zählen Herkunft, Stand und Geschlecht nicht als Rangordnung. Alle haben die gleiche Würde.
+> Das heißt nicht, dass Unterschiede verschwinden: Juden bleiben Juden, Frauen bleiben Frauen. Aber kein Unterschied macht einen Menschen vor Gott wertvoller als einen anderen.
+> Für heute: Dieser Vers ermutigt Christen, gegen Rassismus, Ausbeutung und Benachteiligung von Frauen einzutreten.
+> Vers 29: Auch Christen aus den Völkern gehören durch Christus zur Familie Abrahams.
