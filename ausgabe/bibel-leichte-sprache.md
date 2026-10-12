@@ -146564,3 +146564,147 @@ wenn ich komme.
 > Vers 27–29: „Auf unwürdige Weise“ meint hier vor allem: so, wie es in Korinth geschah, ohne Rücksicht auf die Armen. „Den Leib des Herrn erkennen“ heißt wohl auch: die Gemeinde als Leib von Christus achten (vergleiche 10,17).
 > Wichtig: Niemand muss vollkommen sein, um zum Abendmahl zu kommen. Gerade Menschen, die ihre Schwäche kennen, sind eingeladen.
 > Vers 30: Paulus deutet Krankheiten in Korinth als Folge dieser Missstände. Das heißt nicht, dass Krankheit allgemein eine Strafe Gottes ist. Jesus selbst hat das abgelehnt (Johannes 9,2–3).
+
+## 1. Korinther – Kapitel 12
+#### Viele Gaben, ein Leib
+
+---
+
+### Ein Geist, viele Gaben (Vers 1–11)
+
+<sup>1</sup>Was nun die geistlichen Gaben betrifft, Brüder,
+will ich euch nicht in Unwissenheit lassen.
+<sup>2</sup>Ihr wisst:
+Als ihr noch Heiden wart,
+wurdet ihr zu den stummen Götzen hingezogen,
+wie man euch eben führte.
+<sup>3</sup>Darum erkläre ich euch:
+Niemand,
+der durch den Geist Gottes redet,
+sagt: „Jesus sei verflucht.“
+Und niemand kann sagen:
+„Jesus ist der Herr“,
+außer durch den Heiligen Geist.
+<sup>4</sup>Es gibt verschiedene Gaben,
+aber es ist derselbe Geist.
+<sup>5</sup>Es gibt verschiedene Dienste,
+aber es ist derselbe Herr.
+<sup>6</sup>Es gibt verschiedene Kräfte,
+aber es ist derselbe Gott,
+der alles in allen wirkt.
+<sup>7</sup>Jedem aber wird die Gabe des Geistes geschenkt,
+damit sie allen nützt.
+<sup>8</sup>Dem einen wird durch den Geist ein Wort der Weisheit gegeben,
+einem anderen ein Wort der Erkenntnis
+durch denselben Geist,
+<sup>9</sup>einem anderen Glaube
+durch denselben Geist,
+einem anderen Gaben zu heilen
+durch denselben Geist,
+<sup>10</sup>einem anderen die Kraft,
+Wunder zu tun,
+einem anderen Prophetie,
+einem anderen die Gabe,
+Geister zu unterscheiden,
+einem anderen verschiedene Sprachen,
+einem anderen die Auslegung der Sprachen.
+<sup>11</sup>Aber das alles bewirkt ein und derselbe Geist.
+Er teilt jedem Einzelnen seine Gabe zu,
+so wie er will.
+
+> **Was bedeutet das?**
+> Vers 3: Der Heilige Geist führt Menschen dazu, Jesus als Herrn zu bekennen. Wer das tut, hat den Geist, auch ohne besondere Wundergaben.
+> Vers 4–6: Hier werden Geist, Herr (Jesus) und Gott zusammen genannt. Christen sehen darin einen frühen Hinweis auf den dreieinigen Gott.
+> Vers 7: Jeder Mensch in der Gemeinde hat eine Gabe. Die Gaben sind nicht für einen selbst da, sondern „damit sie allen nützt“.
+> Vers 10: „Verschiedene Sprachen“: Gemeint ist das „Zungenreden“, ein Beten in Lauten, die andere nicht verstehen. In Korinth war diese Gabe sehr beliebt. Paulus schreibt darüber ausführlich in Kapitel 14.
+> Vers 9: „Gaben zu heilen“: Gott kann heilen. Aber wer krank bleibt, ist nicht weniger gläubig. Ärztliche Hilfe ist auch ein Geschenk Gottes.
+
+---
+
+### Ein Leib, viele Glieder (Vers 12–31)
+
+<sup>12</sup>Denn so wie der Körper einer ist
+und viele Glieder hat,
+und alle Glieder des Körpers,
+obwohl es viele sind,
+einen Körper bilden,
+so ist es auch mit Christus.
+<sup>13</sup>Denn wir sind alle durch einen Geist
+in einen Leib hinein getauft worden,
+ob Juden oder Griechen,
+ob Sklaven oder Freie.
+Und wir alle haben einen Geist zu trinken bekommen.
+<sup>14</sup>Denn der Körper besteht nicht aus einem Glied,
+sondern aus vielen.
+<sup>15</sup>Wenn der Fuß sagen würde:
+„Weil ich nicht die Hand bin,
+gehöre ich nicht zum Körper“,
+gehört er deshalb trotzdem zum Körper.
+<sup>16</sup>Und wenn das Ohr sagen würde:
+„Weil ich nicht das Auge bin,
+gehöre ich nicht zum Körper“,
+gehört es deshalb trotzdem zum Körper.
+<sup>17</sup>Wenn der ganze Körper Auge wäre,
+wo bliebe das Hören?
+Wenn der ganze Körper Ohr wäre,
+wo bliebe das Riechen?
+<sup>18</sup>Nun aber hat Gott die Glieder in den Körper eingefügt,
+jedes einzelne von ihnen,
+so wie er es wollte.
+<sup>19</sup>Wenn alle nur ein Glied wären,
+wo bliebe der Körper?
+<sup>20</sup>Nun aber sind es viele Glieder,
+aber ein Körper.
+<sup>21</sup>Das Auge kann nicht zur Hand sagen:
+„Ich brauche dich nicht.“
+Und der Kopf kann nicht zu den Füßen sagen:
+„Ich brauche euch nicht.“
+<sup>22</sup>Nein,
+gerade die Glieder des Körpers,
+die schwächer scheinen,
+sind notwendig.
+<sup>23</sup>Und die Teile des Körpers,
+die wir für weniger ehrenvoll halten,
+umgeben wir mit umso größerer Ehre.
+Und unsere unansehnlichen Teile
+behandeln wir mit umso größerem Anstand.
+<sup>24</sup>Unsere ansehnlichen Teile brauchen das nicht.
+Aber Gott hat den Körper so zusammengesetzt,
+dass er dem geringeren Teil umso größere Ehre gab,
+<sup>25</sup>damit es keine Spaltung im Körper gibt,
+sondern die Glieder in gleicher Weise füreinander sorgen.
+<sup>26</sup>Wenn ein Glied leidet,
+leiden alle Glieder mit.
+Wenn ein Glied geehrt wird,
+freuen sich alle Glieder mit.
+<sup>27</sup>Ihr aber seid der Leib von Christus,
+und jeder Einzelne ist ein Glied.
+<sup>28</sup>Gott hat in der Gemeinde einige eingesetzt:
+erstens Apostel,
+zweitens Propheten,
+drittens Lehrer,
+dann solche,
+die Wunder tun,
+dann Gaben zu heilen,
+Hilfeleistungen,
+Leitungsaufgaben
+und verschiedene Sprachen.
+<sup>29</sup>Sind etwa alle Apostel?
+Sind alle Propheten?
+Sind alle Lehrer?
+Tun alle Wunder?
+<sup>30</sup>Haben alle Gaben zu heilen?
+Reden alle in verschiedenen Sprachen?
+Können alle auslegen?
+<sup>31</sup>Strebt aber nach den größeren Gaben.
+Und ich zeige euch noch einen Weg,
+der weit besser ist.
+
+> **Was bedeutet das?**
+> Vers 12–27: Das Bild vom Körper war damals bekannt. Paulus benutzt es so: Die Gemeinde ist wie ein Körper. Jedes Glied ist wichtig, und alle brauchen einander.
+> Vers 13: In der Gemeinde zählen die Unterschiede von Herkunft und Stand nicht mehr: Juden und Griechen, Sklaven und Freie gehören zu dem einen Leib.
+> Vers 15–16: Niemand soll denken: „Ich bin nicht wichtig.“
+> Vers 21–22: Und niemand soll denken: „Ich brauche die anderen nicht.“ Gerade die, die schwach scheinen, sind unverzichtbar.
+> Für heute: Menschen mit Behinderung, alte, kranke und arme Menschen gehören ganz selbstverständlich dazu. Eine Gemeinde, in der sie fehlen, ist nicht vollständig.
+> Vers 26: „Wenn ein Glied leidet, leiden alle mit.“ Mitgefühl gehört zum Wesen der Gemeinde.
+> Vers 31: Der „Weg, der weit besser ist“, ist die Liebe. Davon handelt das nächste Kapitel.
