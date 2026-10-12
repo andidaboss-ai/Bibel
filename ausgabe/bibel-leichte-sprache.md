@@ -141560,3 +141560,171 @@ und ließ Paulus gefangen.
 > Vers 25: Felix wartet auf Bestechungsgeld. Das ist Korruption und Unrecht.
 > Vers 26: Paulus bleibt zwei Jahre gefangen, obwohl er unschuldig ist, nur aus politischen Gründen. „Den Juden“ meint hier die einflussreichen Ankläger in Jerusalem.
 > Für heute: Wer unschuldig im Gefängnis sitzt, braucht Menschen, die ihn besuchen und für ihn eintreten. Menschenrechtsorganisationen setzen sich bis heute für politische Gefangene ein.
+
+## Apostelgeschichte – Kapitel 25
+#### „Ich berufe mich auf den Kaiser!“
+
+---
+
+### Paulus vor Festus (Vers 1–12)
+
+<sup>1</sup>Festus kam in die Provinz.
+Nach drei Tagen ging er von Cäsarea hinauf nach Jerusalem.
+<sup>2</sup>Da brachten der Hohepriester
+und die führenden Männer der Juden
+bei ihm Anklage gegen Paulus vor.
+Sie baten ihn
+<sup>3</sup>um einen Gefallen gegen Paulus:
+Er sollte ihn nach Jerusalem holen lassen.
+Denn sie planten,
+ihn unterwegs zu töten.
+<sup>4</sup>Aber Festus antwortete:
+Paulus bleibt in Cäsarea in Haft.
+Und er selbst werde bald dorthin zurückreisen.
+<sup>5</sup>Er sagte:
+„Die unter euch,
+die Macht haben,
+sollen mit mir hinabkommen.
+Wenn an dem Mann etwas Unrechtes ist,
+sollen sie ihn anklagen.“
+<sup>6</sup>Festus blieb mehr als zehn Tage bei ihnen.
+Dann ging er hinab nach Cäsarea.
+Am nächsten Tag setzte er sich auf den Richterstuhl
+und befahl,
+Paulus vorzuführen.
+<sup>7</sup>Als Paulus kam,
+stellten sich die Juden,
+die aus Jerusalem herabgekommen waren,
+um ihn herum.
+Sie brachten viele schwere Anklagen gegen ihn vor.
+Aber sie konnten sie nicht beweisen.
+<sup>8</sup>Paulus verteidigte sich
+und sagte:
+„Ich habe mich in nichts vergangen,
+weder gegen das Gesetz der Juden
+noch gegen den Tempel
+noch gegen den Kaiser.“
+<sup>9</sup>Aber Festus wollte den Juden einen Gefallen tun.
+Er antwortete Paulus:
+„Willst du nach Jerusalem hinaufgehen
+und dich dort vor mir in dieser Sache richten lassen?“
+<sup>10</sup>Aber Paulus sagte:
+„Ich stehe vor dem Richterstuhl des Kaisers.
+Hier muss über mich gerichtet werden.
+Den Juden habe ich kein Unrecht getan,
+wie auch du sehr gut weißt.
+<sup>11</sup>Wenn ich Unrecht getan habe
+und etwas getan habe,
+das den Tod verdient,
+dann weigere ich mich nicht zu sterben.
+Wenn aber nichts von dem stimmt,
+wofür sie mich anklagen,
+dann kann mich niemand an sie ausliefern.
+Ich berufe mich auf den Kaiser!“
+<sup>12</sup>Da beriet sich Festus mit dem Rat
+und antwortete:
+„Du hast dich auf den Kaiser berufen.
+Zum Kaiser sollst du gehen.“
+
+> **Was bedeutet das?**
+> Festus war ab etwa 59/60 nach Christus römischer Statthalter von Judäa.
+> Vers 2–3: Einige führende Männer in Jerusalem planen wieder einen Mord. „Die Juden“ meint hier diese kleine Gruppe der Mächtigen, nicht das Volk.
+> Vers 8: Paulus sagt: Ich habe nichts gegen das jüdische Gesetz oder den Tempel getan. Er bleibt ein treuer Jude.
+> Vers 11: Jeder römische Bürger durfte verlangen, dass der Kaiser in Rom seinen Fall entscheidet. Paulus nutzt dieses Recht. So kommt er nach Rom, wie Jesus es versprochen hatte (23,11).
+> Vers 12: „Der Rat“ ist hier der Beraterkreis des Statthalters, nicht der Hohe Rat.
+
+---
+
+### Festus erzählt König Agrippa von Paulus (Vers 13–22)
+
+<sup>13</sup>Nach einigen Tagen kamen König Agrippa und Berenike
+nach Cäsarea,
+um Festus zu begrüßen.
+<sup>14</sup>Sie blieben viele Tage dort.
+Da legte Festus dem König den Fall von Paulus vor
+und sagte:
+„Hier ist ein Mann,
+den Felix als Gefangenen zurückgelassen hat.
+<sup>15</sup>Als ich in Jerusalem war,
+brachten die obersten Priester und die Ältesten der Juden
+Anklage gegen ihn vor.
+Sie verlangten ein Urteil gegen ihn.
+<sup>16</sup>Ich antwortete ihnen:
+Bei den Römern ist es nicht üblich,
+einen Menschen zum Tod auszuliefern,
+bevor der Angeklagte seinen Anklägern gegenübersteht
+und die Gelegenheit hat,
+sich gegen die Anklage zu verteidigen.
+<sup>17</sup>Als sie also hier zusammenkamen,
+habe ich nicht gezögert.
+Am nächsten Tag setzte ich mich auf den Richterstuhl
+und befahl,
+den Mann vorzuführen.
+<sup>18</sup>Als die Ankläger auftraten,
+brachten sie keine Anklage wegen der Verbrechen vor,
+die ich vermutet hatte.
+<sup>19</sup>Sondern sie hatten mit ihm Streit
+wegen einiger Fragen über ihre eigene Religion
+und über einen gewissen Jesus,
+der gestorben ist.
+Paulus aber behauptet,
+dass er lebt.
+<sup>20</sup>Ich wusste nicht,
+wie ich diese Fragen untersuchen sollte.
+Darum fragte ich ihn,
+ob er nach Jerusalem gehen
+und sich dort in dieser Sache richten lassen wolle.
+<sup>21</sup>Aber Paulus hat verlangt,
+dass sein Fall dem Kaiser zur Entscheidung vorgelegt wird.
+Darum habe ich befohlen,
+ihn in Haft zu halten,
+bis ich ihn zum Kaiser schicken kann.“
+<sup>22</sup>Agrippa sagte zu Festus:
+„Ich würde den Mann auch gern selbst hören.“
+Festus antwortete:
+„Morgen sollst du ihn hören.“
+
+> **Was bedeutet das?**
+> Vers 13: König Agrippa II. war ein Sohn von Herodes Agrippa I. (Kapitel 12). Berenike war seine Schwester. Agrippa kannte die jüdischen Bräuche gut.
+> Vers 16: Ein wichtiger Grundsatz des Rechts: Jeder Angeklagte hat das Recht, sich zu verteidigen. Das gilt bis heute.
+> Vers 19: Für den Römer Festus ist das alles schwer zu verstehen: ein Jesus, der tot war, und Paulus sagt, er lebt. Genau darum geht es: um die Auferstehung.
+
+---
+
+### Paulus vor Agrippa (Vers 23–27)
+
+<sup>23</sup>Am nächsten Tag kamen Agrippa und Berenike
+mit großem Prunk.
+Sie gingen in den Saal für Anhörungen,
+zusammen mit den Befehlshabern
+und den führenden Männern der Stadt.
+Auf Befehl von Festus wurde Paulus hereingeführt.
+<sup>24</sup>Festus sagte:
+„König Agrippa
+und ihr alle, die ihr hier bei uns seid!
+Ihr seht diesen Mann.
+Seinetwegen hat sich die ganze Menge der Juden an mich gewandt,
+in Jerusalem und auch hier.
+Sie schrien,
+er dürfe nicht länger leben.
+<sup>25</sup>Ich aber habe festgestellt,
+dass er nichts getan hat,
+was den Tod verdient.
+Und weil er selbst sich auf den Kaiser berufen hat,
+habe ich beschlossen,
+ihn hinzuschicken.
+<sup>26</sup>Ich habe aber nichts Sicheres über ihn,
+das ich meinem Herrn schreiben könnte.
+Darum habe ich ihn vor euch gebracht,
+besonders vor dich, König Agrippa.
+Nach dieser Befragung
+habe ich vielleicht etwas,
+das ich schreiben kann.
+<sup>27</sup>Denn es scheint mir unsinnig,
+einen Gefangenen zu schicken,
+ohne die Anklagen gegen ihn anzugeben.“
+
+> **Was bedeutet das?**
+> Vers 24: „Die ganze Menge der Juden“: So übertreibt Festus. Gemeint sind die Ankläger und ihre Anhänger.
+> Vers 25: Wieder sagt ein römischer Beamter: Paulus ist unschuldig.
+> Vers 26: „Mein Herr“ ist der Kaiser in Rom, damals Nero.
