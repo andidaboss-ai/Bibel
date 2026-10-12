@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 1006 von 1189 Kapiteln (84.6 %), 26481 von 31098 Versen.**
+**Gesamt: 1007 von 1189 Kapiteln (84.7 %), 26523 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 40 | Matthäus | NT | 28 / 28 | fertig |
 | 41 | Markus | NT | 16 / 16 | fertig |
 | 42 | Lukas | NT | 24 / 24 | fertig |
-| 43 | Johannes | NT | 9 / 21 | in Arbeit |
+| 43 | Johannes | NT | 10 / 21 | in Arbeit |
 | 44 | Apostelgeschichte | NT | 0 / 28 | – |
 | 45 | Römer | NT | 0 / 16 | – |
 | 46 | 1. Korinther | NT | 0 / 16 | – |
