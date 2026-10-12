@@ -147867,7 +147867,7 @@ im Gesicht von Jesus Christus aufleuchtet.
 > Vers 2: Paulus arbeitet offen und ehrlich. Er hat nichts zu verbergen.
 > Vers 4: „Der Gott dieser Welt“ meint den Satan, die Macht des Bösen. Paulus sagt: Wenn Menschen die gute Nachricht nicht verstehen, liegt das nicht an Gott.
 > Vers 5: Paulus will nicht sich selbst groß machen. Er ist Diener.
-> Vers 6 erinnert an den Anfang der Bibel: „Es werde Licht“ (1. Mose 1,3). So wie Gott damals Licht geschaffen hat, so schafft er Licht in den Herzen der Menschen.
+> Vers 6 erinnert an den Anfang der Bibel: „Es soll Licht werden“ (1. Mose 1,3). So wie Gott damals Licht geschaffen hat, so schafft er Licht in den Herzen der Menschen.
 
 ---
 
