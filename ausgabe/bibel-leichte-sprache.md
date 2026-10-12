@@ -143027,3 +143027,123 @@ damit wir gerecht werden.
 > Vers 19: Abraham war fast hundert, Sara war alt. Trotzdem bekamen sie einen Sohn, Isaak (1. Mose 21).
 > Vers 24–25: Was für Abraham galt, gilt auch für uns: Gott nimmt uns an, wenn wir ihm vertrauen. Mitte des Glaubens ist Jesus, der für uns gestorben und auferweckt worden ist.
 > Für heute: Auch wenn eine Lage aussichtslos scheint, darf man Gott vertrauen. Wer keine Hoffnung mehr sieht, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+
+## Römer – Kapitel 5
+#### Frieden mit Gott
+
+---
+
+### Frieden und Hoffnung (Vers 1–11)
+
+<sup>1</sup>Wir sind also durch den Glauben gerecht geworden.
+Darum haben wir Frieden mit Gott
+durch unseren Herrn Jesus Christus.
+<sup>2</sup>Durch ihn haben wir auch im Glauben Zugang
+zu dieser Gnade,
+in der wir stehen.
+Und wir freuen uns
+in der Hoffnung auf die Herrlichkeit Gottes.
+<sup>3</sup>Aber nicht nur das:
+Wir freuen uns auch in unseren Leiden.
+Denn wir wissen:
+Leiden bringt Ausdauer hervor,
+<sup>4</sup>Ausdauer bringt Bewährung hervor,
+und Bewährung bringt Hoffnung hervor.
+<sup>5</sup>Und die Hoffnung enttäuscht uns nicht.
+Denn Gottes Liebe ist in unsere Herzen ausgegossen
+durch den Heiligen Geist,
+der uns gegeben ist.
+<sup>6</sup>Denn als wir noch schwach waren,
+ist Christus zur rechten Zeit
+für die Gottlosen gestorben.
+<sup>7</sup>Kaum jemand stirbt für einen gerechten Menschen.
+Vielleicht wagt es jemand,
+für einen guten Menschen zu sterben.
+<sup>8</sup>Gott aber zeigt seine Liebe zu uns darin,
+dass Christus für uns gestorben ist,
+als wir noch Sünder waren.
+<sup>9</sup>Viel mehr werden wir jetzt,
+da wir durch sein Blut gerecht gemacht sind,
+durch ihn vor dem Zorn Gottes gerettet werden.
+<sup>10</sup>Denn als wir noch Feinde waren,
+wurden wir mit Gott versöhnt
+durch den Tod seines Sohnes.
+Viel mehr werden wir jetzt,
+da wir versöhnt sind,
+durch sein Leben gerettet werden.
+<sup>11</sup>Aber nicht nur das:
+Wir freuen uns auch über Gott
+durch unseren Herrn Jesus Christus.
+Durch ihn haben wir jetzt die Versöhnung empfangen.
+
+> **Was bedeutet das?**
+> Vers 1: „Frieden mit Gott“: Die Beziehung zu Gott ist heil. Wir müssen keine Angst mehr vor Gott haben.
+> Vers 3–5: Leiden ist nicht gut. Aber Paulus sagt: Auch in schweren Zeiten kann etwas wachsen: Ausdauer, Bewährung, Hoffnung. Das heißt nicht, dass man Leiden suchen soll. Wer leidet, darf klagen und sich Hilfe holen.
+> Vers 5: Gottes Liebe ist wie ein Wasser, das in unser Herz fließt.
+> Vers 8 ist einer der schönsten Sätze der Bibel: Gott liebt uns nicht erst, wenn wir gut sind. Er liebt uns schon, als wir noch Sünder waren.
+> Vers 10: „Feinde“: Menschen standen gegen Gott. Aber Gott hat die Versöhnung geschenkt.
+> Für heute: Wer in schwerem Leid ist, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+
+---
+
+### Adam und Christus (Vers 12–21)
+
+<sup>12</sup>Durch einen Menschen kam die Sünde in die Welt
+und durch die Sünde der Tod.
+So ist der Tod zu allen Menschen gekommen,
+weil alle gesündigt haben.
+<sup>13</sup>Denn auch vor dem Gesetz war die Sünde in der Welt.
+Aber wo kein Gesetz ist,
+wird die Sünde nicht angerechnet.
+<sup>14</sup>Trotzdem herrschte der Tod von Adam bis Mose,
+auch über die,
+deren Sünden nicht so waren wie der Ungehorsam Adams.
+Adam ist ein Vorausbild für den,
+der kommen sollte.
+<sup>15</sup>Aber mit dem Geschenk ist es nicht wie mit der Verfehlung.
+Denn wenn durch die Verfehlung des einen
+die vielen gestorben sind,
+dann ist noch viel mehr die Gnade Gottes
+und das Geschenk durch die Gnade des einen Menschen,
+Jesus Christus,
+den vielen reichlich zuteilgeworden.
+<sup>16</sup>Mit dem Geschenk ist es nicht so
+wie mit dem,
+was durch den einen kam,
+der gesündigt hat.
+Denn das Urteil führte von einer Verfehlung zur Verurteilung.
+Das Geschenk aber führt aus vielen Verfehlungen
+zur Gerechtsprechung.
+<sup>17</sup>Denn wenn durch die Verfehlung des einen
+der Tod geherrscht hat,
+durch den einen,
+dann werden noch viel mehr die,
+die die Fülle der Gnade
+und das Geschenk der Gerechtigkeit empfangen,
+im Leben herrschen
+durch den einen,
+Jesus Christus.
+<sup>18</sup>Wie also durch eine Verfehlung
+alle Menschen verurteilt wurden,
+so wurden auch durch eine gerechte Tat
+alle Menschen gerecht gesprochen zum Leben.
+<sup>19</sup>Denn wie durch den Ungehorsam des einen Menschen
+die vielen zu Sündern geworden sind,
+so werden auch durch den Gehorsam des einen
+die vielen zu Gerechten gemacht werden.
+<sup>20</sup>Das Gesetz aber ist dazwischengekommen,
+damit die Verfehlung größer wird.
+Aber wo die Sünde groß geworden ist,
+da ist die Gnade noch viel größer geworden.
+<sup>21</sup>Wie die Sünde durch den Tod geherrscht hat,
+so soll auch die Gnade herrschen
+durch die Gerechtigkeit
+zum ewigen Leben
+durch Jesus Christus, unseren Herrn.
+
+> **Was bedeutet das?**
+> Vers 12: Paulus erinnert an Adam, den ersten Menschen (1. Mose 3). Mit ihm kam die Sünde in die Welt. Aus diesem Vers haben Christen später die Lehre von der „Erbsünde“ entwickelt. Die Kirchen verstehen sie verschieden. Gemeint ist: Alle Menschen sind in eine Welt hineingeboren, in der es Schuld und Unheil gibt.
+> Vers 14: Adam ist ein „Vorausbild“ von Christus: Wie Adam für alle Menschen steht, so auch Christus. Aber Christus bringt Leben statt Tod.
+> Vers 15–19: Paulus vergleicht immer wieder: Was durch Adam kam, und was durch Christus kommt. Die Gnade ist immer größer.
+> Vers 20: „Wo die Sünde groß geworden ist, da ist die Gnade noch viel größer geworden.“ Ein Trostwort: Keine Schuld ist so groß, dass Gottes Gnade sie nicht überbieten könnte.
+> Wichtig: Das Gesetz ist nicht schlecht. Es macht die Sünde sichtbar.
