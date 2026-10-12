@@ -1,0 +1,216 @@
+{
+ "nr": 46,
+ "code": "1CO",
+ "kuerzel": "1Kor",
+ "name": "1. Korinther",
+ "name_englisch": "1 Corinthians",
+ "testament": "neues-testament",
+ "kapitel": 16,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die Botschaft vom Kreuz",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der erste Brief an die Korinther",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Korinth war eine große, reiche Hafenstadt in Griechenland. Dort lebten Menschen aus vielen Ländern. Es gab viel Handel, viele Religionen und große Unterschiede zwischen Reichen und Armen.\nPaulus hatte die Gemeinde in Korinth selbst gegründet. Er lebte dort etwa anderthalb Jahre (Apostelgeschichte 18). Später schrieb er der Gemeinde mehrere Briefe. Diesen Brief schrieb er wohl um das Jahr 54 oder 55 nach Christus in Ephesus.\nIn der Gemeinde gab es viele Probleme: Streit und Gruppen, Fragen zur Ehe und zur Sexualität, zum Essen, zum Gottesdienst, zu den Gaben des Geistes und zur Auferstehung. Paulus antwortet auf all diese Fragen.\nIm ersten Korintherbrief stehen einige der bekanntesten Texte der Bibel: das „Hohelied der Liebe“ (Kapitel 13), die Worte über das Abendmahl (Kapitel 11) und das große Kapitel über die Auferstehung (Kapitel 15).\n**Ein wichtiger Hinweis:** Manche Stellen in diesem Brief handeln von Frauen im Gottesdienst und von anderen Fragen, die damals sehr umstritten waren. Wir übertragen alles genau und erklären in den Kästen, wie Christen diese Stellen heute verschieden verstehen.\nDer erste Korintherbrief hat 16 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\ndurch den Willen Gottes berufen,\nein Apostel von Jesus Christus zu sein,\nund unser Bruder Sosthenes",
+       "englisch_web": "Paul, called to be an apostle of Jesus Christ through the will of God, and our brother Sosthenes,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "schreiben an die Gemeinde Gottes in Korinth:\nan die,\ndie in Christus Jesus geheiligt sind,\nberufene Heilige,\nzusammen mit allen,\ndie an jedem Ort den Namen unseres Herrn Jesus Christus anrufen,\nihres und unseres Herrn.",
+       "englisch_web": "to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours:"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Vers 1: Sosthenes war vielleicht der Synagogenvorsteher aus Korinth, von dem Apostelgeschichte 18,17 erzählt. Sicher ist das nicht.\nVers 2: „Heilige“ sind nicht besonders fromme Menschen, sondern alle Christen. Sie gehören zu Gott.\nVers 2: Paulus schreibt nicht nur an Korinth, sondern an alle Christen an jedem Ort. Der Brief gilt auch uns."
+    },
+    {
+     "ueberschrift": "Paulus dankt Gott",
+     "vers_von": 4,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich danke meinem Gott immer für euch,\nwegen der Gnade Gottes,\ndie euch in Christus Jesus geschenkt wurde.",
+       "englisch_web": "I always thank my God concerning you for the grace of God which was given you in Christ Jesus,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn in ihm seid ihr in allem reich gemacht worden,\nin allem Reden und in aller Erkenntnis.",
+       "englisch_web": "that in everything you were enriched in him, in all speech and all knowledge—"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "So ist das Zeugnis von Christus bei euch fest geworden.",
+       "englisch_web": "even as the testimony of Christ was confirmed in you—"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Darum fehlt euch keine Gabe,\nwährend ihr darauf wartet,\ndass unser Herr Jesus Christus offenbar wird.",
+       "englisch_web": "so that you come behind in no gift, waiting for the revelation of our Lord Jesus Christ,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er wird euch auch fest machen bis zum Ende,\nsodass ihr ohne Schuld seid\nam Tag unseres Herrn Jesus Christus.",
+       "englisch_web": "who will also confirm you until the end, blameless in the day of our Lord Jesus Christ."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Gott ist treu.\nDurch ihn seid ihr berufen worden\nzur Gemeinschaft mit seinem Sohn,\nJesus Christus, unserem Herrn.",
+       "englisch_web": "God is faithful, through whom you were called into the fellowship of his Son, Jesus Christ our Lord."
+      }
+     ],
+     "erklaerung": "Obwohl es in Korinth viele Probleme gab, dankt Paulus zuerst für das Gute. Er sieht die Gaben, die Gott der Gemeinde geschenkt hat.\nVers 7–8: Die ersten Christen warteten darauf, dass Jesus wiederkommt.\nVers 9: „Gott ist treu.“ Das ist der Grund, warum Christen hoffen können, auch wenn sie selbst schwach sind.\nFür heute: Auch bei Streit lohnt es sich, zuerst das Gute beim anderen zu sehen."
+    },
+    {
+     "ueberschrift": "Streit in der Gemeinde",
+     "vers_von": 10,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich bitte euch aber, Brüder,\nim Namen unseres Herrn Jesus Christus:\nSeid euch einig in dem,\nwas ihr sagt.\nEs soll keine Spaltungen unter euch geben.\nSeid fest verbunden\nin demselben Denken\nund in derselben Meinung.",
+       "englisch_web": "Now I beg you, brothers, through the name of our Lord, Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfected together in the same mind and in the same judgment."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn mir wurde über euch berichtet,\nmeine Brüder,\nvon Leuten aus dem Haus der Chloë,\ndass es Streit unter euch gibt.",
+       "englisch_web": "For it has been reported to me concerning you, my brothers, by those who are from Chloe’s household, that there are contentions among you."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Ich meine damit:\nJeder von euch sagt:\n„Ich gehöre zu Paulus“,\n„Ich gehöre zu Apollos“,\n„Ich gehöre zu Kephas“,\nund: „Ich gehöre zu Christus.“",
+       "englisch_web": "Now I mean this, that each one of you says, “I follow Paul,” “I follow Apollos,” “I follow Cephas,” and, “I follow Christ.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ist Christus etwa geteilt?\nIst Paulus für euch gekreuzigt worden?\nOder seid ihr auf den Namen von Paulus getauft worden?",
+       "englisch_web": "Is Christ divided? Was Paul crucified for you? Or were you baptized into the name of Paul?"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich danke Gott,\ndass ich keinen von euch getauft habe\naußer Krispus und Gajus,",
+       "englisch_web": "I thank God that I baptized none of you except Crispus and Gaius,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "damit niemand sagen kann,\ndass ich auf meinen eigenen Namen getauft habe.",
+       "englisch_web": "so that no one should say that I had baptized you into my own name."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "(Ich habe auch die Familie des Stephanas getauft.\nSonst weiß ich nicht,\nob ich noch jemand anderen getauft habe.)",
+       "englisch_web": "(I also baptized the household of Stephanas; besides them, I don’t know whether I baptized any other.)"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn Christus hat mich nicht gesandt,\num zu taufen,\nsondern um die gute Nachricht zu verkünden,\nund zwar nicht mit klugen Worten,\ndamit das Kreuz von Christus nicht seine Kraft verliert.",
+       "englisch_web": "For Christ sent me not to baptize, but to preach the Good News—not in wisdom of words, so that the cross of Christ wouldn’t be made void."
+      }
+     ],
+     "erklaerung": "Vers 11: Chloë war wohl eine Frau, die ein Haus mit Angestellten oder Sklaven führte. Ihre Leute haben Paulus vom Streit erzählt.\nVers 12: In Korinth bildeten sich Gruppen um bekannte Lehrer. Apollos war ein begabter Prediger (Apostelgeschichte 18,24–28). „Kephas“ ist der aramäische Name von Petrus.\nVers 13: Paulus fragt: „Ist Christus geteilt?“ Alle Christen gehören zu dem einen Christus, nicht zu einem menschlichen Lehrer.\nVers 14: Krispus war der Vorsteher der Synagoge in Korinth (Apostelgeschichte 18,8).\nVers 17: Paulus sagt nicht, dass die Taufe unwichtig ist. Aber seine besondere Aufgabe war das Predigen.\nFür heute: Auch heute gibt es viele Kirchen und Gruppen. Dieser Text erinnert daran: Wir gehören alle zu Christus. Die Ökumene, das Miteinander der Kirchen, ist darum wichtig."
+    },
+    {
+     "ueberschrift": "Gottes Weisheit und menschliche Weisheit",
+     "vers_von": 18,
+     "vers_bis": 31,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Denn die Botschaft vom Kreuz\nist für die, die verloren gehen,\neine Dummheit.\nFür uns aber,\ndie gerettet werden,\nist sie Gottes Kraft.",
+       "englisch_web": "For the word of the cross is foolishness to those who are dying, but to us who are being saved it is the power of God."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn es steht geschrieben:\n„Ich werde die Weisheit der Weisen zerstören.\nUnd die Klugheit der Klugen\nwerde ich zunichtemachen.“",
+       "englisch_web": "For it is written, “I will destroy the wisdom of the wise. I will bring the discernment of the discerning to nothing.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Wo ist der Weise?\nWo ist der Schriftgelehrte?\nWo ist der Wortführer dieser Zeit?\nHat Gott nicht die Weisheit dieser Welt\nals Dummheit gezeigt?",
+       "englisch_web": "Where is the wise? Where is the scribe? Where is the debater of this age? Hasn’t God made foolish the wisdom of this world?"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn in der Weisheit Gottes\nhat die Welt durch ihre Weisheit\nGott nicht erkannt.\nDarum hat es Gott gefallen,\ndurch die scheinbar dumme Predigt\ndie zu retten,\ndie glauben.",
+       "englisch_web": "For seeing that in the wisdom of God, the world through its wisdom didn’t know God, it was God’s good pleasure through the foolishness of the preaching to save those who believe."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Denn Juden verlangen Zeichen,\nund Griechen suchen Weisheit.",
+       "englisch_web": "For Jews ask for signs, Greeks seek after wisdom,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Wir aber verkünden Christus,\nden Gekreuzigten.\nFür Juden ist das ein Anstoß,\nund für Griechen ist es eine Dummheit.",
+       "englisch_web": "but we preach Christ crucified, a stumbling block to Jews and foolishness to Greeks,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Aber für die Berufenen,\nJuden wie Griechen,\nist Christus Gottes Kraft und Gottes Weisheit.",
+       "englisch_web": "but to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God;"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Denn das Dumme an Gott\nist weiser als die Menschen.\nUnd das Schwache an Gott\nist stärker als die Menschen.",
+       "englisch_web": "because the foolishness of God is wiser than men, and the weakness of God is stronger than men."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Seht doch auf eure Berufung, Brüder:\nNicht viele von euch sind weise nach menschlichem Maßstab,\nnicht viele mächtig,\nnicht viele aus vornehmen Familien.",
+       "englisch_web": "For you see your calling, brothers, that not many are wise according to the flesh, not many mighty, and not many noble;"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sondern Gott hat das ausgewählt,\nwas in der Welt dumm ist,\num die Weisen zu beschämen.\nUnd Gott hat das ausgewählt,\nwas in der Welt schwach ist,\num das Starke zu beschämen.",
+       "englisch_web": "but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Gott hat das ausgewählt,\nwas in der Welt niedrig ist und verachtet wird,\nund das, was nichts ist,\num das zunichtezumachen,\nwas etwas ist,",
+       "englisch_web": "God chose the lowly things of the world, and the things that are despised, and the things that don’t exist, that he might bring to nothing the things that exist,"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "damit sich kein Mensch vor Gott rühmen kann.",
+       "englisch_web": "that no flesh should boast before God."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Durch ihn seid ihr in Christus Jesus.\nChristus ist für uns zur Weisheit von Gott geworden,\nzur Gerechtigkeit,\nzur Heiligung\nund zur Erlösung.",
+       "englisch_web": "Because of him, you are in Christ Jesus, who was made to us wisdom from God, and righteousness and sanctification, and redemption,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "So soll es sein,\nwie geschrieben steht:\n„Wer sich rühmt,\nder soll sich im Herrn rühmen.“",
+       "englisch_web": "that, as it is written, “He who boasts, let him boast in the Lord.”"
+      }
+     ],
+     "erklaerung": "Vers 18: Ein gekreuzigter Retter, das klang damals für viele unsinnig. Die Kreuzigung war die schlimmste und schändlichste Todesstrafe. Paulus sagt: Gerade im Kreuz zeigt sich Gottes Kraft.\nVers 19 zitiert Jesaja 29,14. Vers 31 nimmt Jeremia 9,23 auf (in manchen Bibeln 9,24).\nVers 21: „In der Weisheit Gottes“: Gott hat es in seiner Weisheit so gefügt. Menschen können Gott nicht allein mit ihrem Verstand finden. Gott zeigt sich selbst, in der Botschaft von Jesus.\nVers 22–24: Paulus beschreibt, warum die Botschaft vom Kreuz für viele seiner Zeitgenossen schwer anzunehmen war, für Juden wie für Griechen. Er selbst ist Jude. Er spricht von einer Glaubensfrage, nicht schlecht über ein Volk. Und er sagt ausdrücklich: Auch viele Juden gehören zu den Berufenen (Vers 24).\nVers 26–28: Die Gemeinde in Korinth bestand vor allem aus einfachen Leuten, aus Armen und aus Sklaven. Gott wählt gerade die Schwachen und Verachteten aus.\nFür heute: Bei Gott zählen nicht Bildung, Geld oder Ansehen. Jeder Mensch ist wertvoll."
+    }
+   ]
+  }
+ ]
+}
