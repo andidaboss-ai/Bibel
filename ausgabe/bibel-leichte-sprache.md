@@ -147826,3 +147826,118 @@ dem Geist.
 > Sehr wichtig: Diese Verse wurden in der Kirchengeschichte oft gegen Juden benutzt. Im Mittelalter stellte man die „Synagoge“ als Frau mit verbundenen Augen dar. Solche Bilder haben Verachtung und Hass gefördert. Das war Unrecht. Paulus selbst sagt im Römerbrief: Gott hat sein Volk nicht verstoßen (Römer 11,1–2), und seine Gaben und seine Berufung sind unwiderruflich (Römer 11,29).
 > Vers 17: „Wo der Geist des Herrn ist, da ist Freiheit.“ Gottes Geist macht frei.
 > Vers 18: Wer auf Jesus schaut, wird ihm Schritt für Schritt ähnlicher.
+
+## 2. Korinther – Kapitel 4
+#### Ein Schatz in Gefäßen aus Ton
+
+---
+
+### Das Licht der guten Nachricht (Vers 1–6)
+
+<sup>1</sup>Darum haben wir diesen Dienst,
+weil Gott sich über uns erbarmt hat.
+Und wir verlieren nicht den Mut.
+<sup>2</sup>Wir haben uns losgesagt von allem,
+was man aus Scham versteckt.
+Wir gehen nicht mit List vor,
+und wir verfälschen das Wort Gottes nicht.
+Sondern wir machen die Wahrheit offenbar.
+So empfehlen wir uns dem Gewissen jedes Menschen
+vor Gott.
+<sup>3</sup>Und wenn unsere gute Nachricht doch verhüllt ist,
+dann ist sie bei denen verhüllt,
+die verloren gehen.
+<sup>4</sup>Bei ihnen hat der Gott dieser Welt
+das Denken der Ungläubigen blind gemacht.
+So kann das Licht der guten Nachricht
+von der Herrlichkeit von Christus,
+der das Bild Gottes ist,
+ihnen nicht aufgehen.
+<sup>5</sup>Denn wir verkünden nicht uns selbst,
+sondern Christus Jesus als den Herrn.
+Uns selbst aber verkünden wir als eure Diener,
+um Jesu willen.
+<sup>6</sup>Denn Gott hat gesagt:
+„Aus der Dunkelheit soll Licht leuchten.“
+Er hat auch in unseren Herzen geleuchtet,
+damit die Erkenntnis von der Herrlichkeit Gottes
+im Gesicht von Jesus Christus aufleuchtet.
+
+> **Was bedeutet das?**
+> Vers 2: Paulus arbeitet offen und ehrlich. Er hat nichts zu verbergen.
+> Vers 4: „Der Gott dieser Welt“ meint den Satan, die Macht des Bösen. Paulus sagt: Wenn Menschen die gute Nachricht nicht verstehen, liegt das nicht an Gott.
+> Vers 5: Paulus will nicht sich selbst groß machen. Er ist Diener.
+> Vers 6 erinnert an den Anfang der Bibel: „Es werde Licht“ (1. Mose 1,3). So wie Gott damals Licht geschaffen hat, so schafft er Licht in den Herzen der Menschen.
+
+---
+
+### Stark in der Schwäche (Vers 7–15)
+
+<sup>7</sup>Wir haben diesen Schatz aber in Gefäßen aus Ton.
+So wird deutlich,
+dass die übergroße Kraft von Gott kommt
+und nicht von uns.
+<sup>8</sup>Wir sind von allen Seiten bedrängt,
+aber nicht erdrückt.
+Wir sind ratlos,
+aber nicht verzweifelt.
+<sup>9</sup>Wir werden verfolgt,
+aber nicht verlassen.
+Wir werden niedergeworfen,
+aber nicht vernichtet.
+<sup>10</sup>Wir tragen immer das Sterben von Jesus an unserem Körper,
+damit auch das Leben von Jesus
+an unserem Körper sichtbar wird.
+<sup>11</sup>Denn wir,
+die wir leben,
+werden immer wegen Jesus dem Tod ausgeliefert,
+damit auch das Leben von Jesus
+an unserem sterblichen Körper sichtbar wird.
+<sup>12</sup>So wirkt der Tod in uns,
+das Leben aber in euch.
+<sup>13</sup>Wir haben aber denselben Geist des Glaubens,
+wie es geschrieben steht:
+„Ich habe geglaubt,
+darum habe ich geredet.“
+Auch wir glauben,
+und darum reden wir auch.
+<sup>14</sup>Denn wir wissen:
+Der den Herrn Jesus auferweckt hat,
+wird auch uns durch Jesus auferwecken
+und uns zusammen mit euch vor sich stellen.
+<sup>15</sup>Denn alles geschieht um euretwillen.
+So soll die Gnade durch immer mehr Menschen wachsen
+und noch mehr Dank zur Ehre Gottes bewirken.
+
+> **Was bedeutet das?**
+> Vers 7: „Gefäße aus Ton“ waren einfache, billige Krüge, die leicht zerbrechen. Paulus sagt: Wir Menschen sind schwach und zerbrechlich. Aber in uns ist ein kostbarer Schatz: die gute Nachricht von Jesus.
+> Vers 8–9: Paulus beschreibt ehrlich, wie schwer sein Leben ist. Aber er sagt jedes Mal: „aber nicht“. Gott lässt ihn nicht fallen.
+> Vers 13 zitiert Psalm 116,10 (in manchen Bibeln 115,1).
+> Für heute: Niemand muss stark sein, um von Gott gebraucht zu werden. Gerade in unserer Schwäche kann Gottes Kraft sichtbar werden.
+
+---
+
+### Was man nicht sieht, ist ewig (Vers 16–18)
+
+<sup>16</sup>Darum verlieren wir nicht den Mut.
+Auch wenn unser äußerer Mensch zerfällt,
+wird doch unser innerer Mensch
+Tag für Tag erneuert.
+<sup>17</sup>Denn unsere leichte Not,
+die nur einen Augenblick dauert,
+schafft uns ein ewiges Gewicht an Herrlichkeit,
+das alles weit übersteigt.
+<sup>18</sup>Denn wir schauen nicht auf das,
+was man sieht,
+sondern auf das,
+was man nicht sieht.
+Denn was man sieht,
+ist vergänglich.
+Was man aber nicht sieht,
+ist ewig.
+
+> **Was bedeutet das?**
+> Vers 16: „Der äußere Mensch“ ist der Körper, der älter und schwächer wird. „Der innere Mensch“ ist das Leben mit Gott, das jeden Tag neu wird.
+> Vers 17: Paulus nennt seine Not „leicht“. Das heißt nicht, dass Leid nicht schlimm ist. Paulus hat schwer gelitten (Kapitel 11). Aber im Vergleich mit dem, was Gott schenken wird, erscheint es ihm klein.
+> Wichtig: Niemand muss sein Leid kleinreden. Wer leidet, darf klagen und Hilfe suchen.
+> Vers 18: Das Wichtigste im Leben kann man oft nicht sehen: Liebe, Hoffnung, Gott selbst.
