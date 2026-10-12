@@ -1,0 +1,325 @@
+{
+ "nr": 43,
+ "code": "JHN",
+ "kuerzel": "Joh",
+ "name": "Johannes",
+ "name_englisch": "John",
+ "testament": "neues-testament",
+ "kapitel": 21,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Das Wort wurde Mensch",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Das Evangelium nach Johannes",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Das Evangelium nach Johannes ist das vierte Evangelium. Es ist anders als die drei anderen (Matthäus, Markus, Lukas). Es erzählt weniger Gleichnisse, dafür lange Gespräche und Reden. Jesus sagt hier oft, wer er ist: „Ich bin das Brot des Lebens“, „Ich bin das Licht der Welt“, „Ich bin der gute Hirte“, „Ich bin die Auferstehung und das Leben“.\nNach alter kirchlicher Überlieferung schrieb es der Apostel Johannes, ein Sohn des Zebedäus. Das Buch selbst nennt als Zeugen den „Jünger, den Jesus liebte“ (21,20–24). Wer genau das war, ist unter Forschern umstritten. Das Evangelium wurde wahrscheinlich um 90 bis 100 nach Christus geschrieben.\nJohannes erzählt von sieben großen „Zeichen“, zum Beispiel der Hochzeit in Kana und der Auferweckung des Lazarus. Er sagt selbst, warum er schreibt: „damit ihr glaubt, dass Jesus der Christus ist, der Sohn Gottes, und damit ihr durch den Glauben Leben habt“ (20,31).\n**Ein sehr wichtiger Hinweis:** Johannes spricht oft von „den Juden“, auch dort, wo er Gegner Jesu meint. Diese Sprache wurde in der Geschichte schrecklich missbraucht und hat zu Hass und Verfolgung beigetragen. Man muss wissen: Jesus, seine Mutter, alle Jünger und auch der Verfasser waren selbst Juden. Mit „den Juden“ meint Johannes an vielen Stellen bestimmte Leiter in Jerusalem, nicht das ganze Volk. Das Evangelium sagt selbst: „Das Heil kommt von den Juden“ (4,22). Wir übersetzen genau, was im Text steht. In den Kästen erklären wir, wer jeweils gemeint ist. Kein Wort dieses Buches darf gegen Juden benutzt werden.\nDas Evangelium hat 21 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Am Anfang war das Wort",
+     "vers_von": 1,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Am Anfang war das Wort.\nUnd das Wort war bei Gott.\nUnd das Wort war Gott.",
+       "englisch_web": "In the beginning was the Word, and the Word was with God, and the Word was God."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Dieses war am Anfang bei Gott.",
+       "englisch_web": "The same was in the beginning with God."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Alles ist durch das Wort entstanden.\nOhne das Wort ist nichts entstanden,\nwas entstanden ist.",
+       "englisch_web": "All things were made through him. Without him, nothing was made that has been made."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "In ihm war das Leben.\nUnd das Leben war das Licht der Menschen.",
+       "englisch_web": "In him was life, and the life was the light of men."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Das Licht leuchtet in der Finsternis.\nUnd die Finsternis hat es nicht überwältigt.",
+       "englisch_web": "The light shines in the darkness, and the darkness hasn’t overcome it."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Es kam ein Mann,\nder von Gott gesandt war.\nEr hieß Johannes.",
+       "englisch_web": "There came a man sent from God, whose name was John."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Er kam als Zeuge.\nEr sollte von dem Licht erzählen,\ndamit alle durch ihn glauben.",
+       "englisch_web": "The same came as a witness, that he might testify about the light, that all might believe through him."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er war nicht selbst das Licht.\nEr war gesandt,\num von dem Licht zu erzählen.",
+       "englisch_web": "He was not the light, but was sent that he might testify about the light."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Das wahre Licht,\ndas jedem Menschen Licht gibt,\nkam in die Welt.",
+       "englisch_web": "The true light that enlightens everyone was coming into the world."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er war in der Welt,\nund die Welt ist durch ihn entstanden.\nAber die Welt hat ihn nicht erkannt.",
+       "englisch_web": "He was in the world, and the world was made through him, and the world didn’t recognize him."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Er kam zu den Seinen,\nund die Seinen nahmen ihn nicht auf.",
+       "englisch_web": "He came to his own, and those who were his own didn’t receive him."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Aber allen, die ihn aufnahmen,\ngab er das Recht, Kinder Gottes zu werden:\nallen, die an seinen Namen glauben.",
+       "englisch_web": "But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie sind nicht aus dem Blut geboren,\nnicht aus dem Willen des Fleisches\nund nicht aus dem Willen eines Mannes,\nsondern aus Gott.",
+       "englisch_web": "who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Und das Wort wurde Fleisch\nund wohnte unter uns.\nWir haben seine Herrlichkeit gesehen,\ndie Herrlichkeit des einzigen Sohnes des Vaters,\nvoll Gnade und Wahrheit.",
+       "englisch_web": "The Word became flesh and lived among us. We saw his glory, such glory as of the only born Son of the Father, full of grace and truth."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Johannes bezeugte ihn.\nEr rief:\n„Dieser war es,\nvon dem ich gesagt habe:\n‚Der nach mir kommt,\nist größer als ich.\nDenn er war vor mir.‘“",
+       "englisch_web": "John testified about him. He cried out, saying, “This was he of whom I said, ‘He who comes after me has surpassed me, for he was before me.’”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Aus seiner Fülle haben wir alle empfangen,\nGnade über Gnade.",
+       "englisch_web": "From his fullness we all received grace upon grace."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn das Gesetz wurde durch Mose gegeben.\nGnade und Wahrheit sind durch Jesus Christus Wirklichkeit geworden.",
+       "englisch_web": "For the law was given through Moses. Grace and truth were realized through Jesus Christ."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Niemand hat Gott jemals gesehen.\nDer einzige Sohn,\nder dem Vater ganz nahe ist,\ner hat ihn bekannt gemacht.",
+       "englisch_web": "No one has seen God at any time. The only born Son, who is in the bosom of the Father, has declared him."
+      }
+     ],
+     "erklaerung": "Diese Verse nennt man den „Prolog“, das Vorwort. Sie gehören zu den bekanntesten Texten der Bibel.\n„Am Anfang“ erinnert an den ersten Satz der Bibel: „Am Anfang schuf Gott Himmel und Erde“ (1. Mose 1,1). Gott schuf die Welt durch sein Wort: „Gott sprach ...“.\n„Das Wort“ (griechisch „Logos“) ist Jesus. Johannes sagt: Jesus war schon vor der Schöpfung bei Gott. Er ist Gott. Durch ihn ist alles entstanden. Christen glauben deshalb: Jesus ist wahrer Gott und wahrer Mensch.\nVers 6–8: Johannes ist hier Johannes der Täufer, nicht der Verfasser des Evangeliums.\nVers 11: „Die Seinen“ verstehen manche Ausleger als die Menschen der Welt, die er geschaffen hat, andere als sein Volk Israel. Wichtig: Das ist kein Urteil über das jüdische Volk. Viele Juden nahmen Jesus auf, zuerst alle seine Jünger. Vers 12 spricht gleich von denen, die ihn aufnahmen.\nVers 14: „Das Wort wurde Fleisch“ heißt: Gott wurde ein Mensch, mit Körper, Gefühlen und Grenzen. Das feiern Christen an Weihnachten. „Wohnte unter uns“ heißt wörtlich „zeltete unter uns“. Das erinnert an das heilige Zelt, in dem Gott bei Israel in der Wüste wohnte (2. Mose 40,34).\nVers 17: Das Gesetz durch Mose ist auch ein Geschenk Gottes. Johannes stellt es nicht als schlecht dar. Er sagt: In Jesus kommt Gottes Gnade noch einmal neu und ganz nahe.\nVers 18: Das WEB sagt „der einzige Sohn“. Die ältesten Handschriften haben „der einzige Gott“ oder „der einzig geborene Gott“. „Dem Vater ganz nahe“ heißt wörtlich: „im Schoß des Vaters“.\nFür heute: Gott ist nicht fern. In Jesus ist er Mensch geworden und kennt unser Leben von innen."
+    },
+    {
+     "ueberschrift": "Johannes der Täufer gibt Auskunft",
+     "vers_von": 19,
+     "vers_bis": 28,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Das ist das Zeugnis von Johannes:\nDie Juden schickten Priester und Leviten aus Jerusalem zu ihm.\nSie sollten ihn fragen:\n„Wer bist du?“",
+       "englisch_web": "This is John’s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Er bekannte es offen\nund leugnete es nicht.\nEr bekannte:\n„Ich bin nicht der Christus.“",
+       "englisch_web": "He declared, and didn’t deny, but he declared, “I am not the Christ.”"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Sie fragten ihn:\n„Was dann? Bist du Elija?“\nEr sagte:\n„Ich bin es nicht.“\n„Bist du der Prophet?“\nEr antwortete:\n„Nein.“",
+       "englisch_web": "They asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” He answered, “No.”"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Da sagten sie zu ihm:\n„Wer bist du?\nWir müssen denen eine Antwort bringen,\ndie uns geschickt haben.\nWas sagst du über dich selbst?“",
+       "englisch_web": "They said therefore to him, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Er sagte:\n„Ich bin die Stimme von einem,\nder in der Wüste ruft:\n‚Macht den Weg des Herrn gerade!‘,\nwie der Prophet Jesaja gesagt hat.“",
+       "englisch_web": "He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as Isaiah the prophet said.”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Die Abgesandten gehörten zu den Pharisäern.",
+       "englisch_web": "The ones who had been sent were from the Pharisees."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Sie fragten ihn:\n„Warum taufst du dann,\nwenn du weder der Christus bist\nnoch Elija\nnoch der Prophet?“",
+       "englisch_web": "They asked him, “Why then do you baptize if you are not the Christ, nor Elijah, nor the prophet?”"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Johannes antwortete ihnen:\n„Ich taufe mit Wasser.\nAber mitten unter euch steht einer,\nden ihr nicht kennt.",
+       "englisch_web": "John answered them, “I baptize in water, but among you stands one whom you don’t know."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Er ist es,\nder nach mir kommt\nund der mir vorgezogen wird.\nIch bin es nicht wert,\nihm den Riemen seiner Sandale zu lösen.“",
+       "englisch_web": "He is the one who comes after me, who is preferred before me, whose sandal strap I’m not worthy to loosen.”"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Das geschah in Betanien\nauf der anderen Seite des Jordans,\nwo Johannes taufte.",
+       "englisch_web": "These things were done in Bethany beyond the Jordan, where John was baptizing."
+      }
+     ],
+     "erklaerung": "Vers 19: „Die Juden“ meint hier die religiöse Leitung in Jerusalem. Sie schickt eine Gesandtschaft. Die Frage, wer Johannes ist, war für sie eine ernste und berechtigte Frage.\nPriester und Leviten dienten im Tempel.\nVers 21: Viele erwarteten, dass der Prophet Elija vor dem Messias wiederkommt (Maleachi 3,23; in manchen Bibeln 4,5). „Der Prophet“ meint den Propheten wie Mose, den Gott versprochen hatte (5. Mose 18,15).\nJohannes sagt klar, wer er nicht ist. Er will nicht wichtig sein. Er weist auf einen anderen hin.\nVers 23 zitiert Jesaja 40,3.\nVers 27: Sandalen lösen war die Arbeit eines Sklaven. Johannes sagt: Ich bin nicht einmal wert, ihm diesen Dienst zu tun.\nVers 28: Dieses Betanien liegt am Jordan, nicht das Dorf bei Jerusalem. Einige Handschriften haben „Betabara“."
+    },
+    {
+     "ueberschrift": "Das Lamm Gottes",
+     "vers_von": 29,
+     "vers_bis": 34,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 29,
+       "leichte_sprache": "Am nächsten Tag sah Johannes Jesus auf sich zukommen\nund sagte:\n„Seht, das Lamm Gottes,\ndas die Sünde der Welt wegnimmt!",
+       "englisch_web": "The next day, he saw Jesus coming to him, and said, “Behold, the Lamb of God, who takes away the sin of the world!"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Er ist es,\nvon dem ich gesagt habe:\n‚Nach mir kommt ein Mann,\nder mir vorgezogen wird,\ndenn er war vor mir.‘",
+       "englisch_web": "This is he of whom I said, ‘After me comes a man who is preferred before me, for he was before me.’"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Ich kannte ihn nicht.\nAber ich bin gekommen\nund taufe mit Wasser,\ndamit er Israel offenbart wird.“",
+       "englisch_web": "I didn’t know him, but for this reason I came baptizing in water, that he would be revealed to Israel.”"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Johannes bezeugte:\n„Ich habe gesehen,\nwie der Geist wie eine Taube vom Himmel herabkam\nund auf ihm blieb.",
+       "englisch_web": "John testified, saying, “I have seen the Spirit descending like a dove out of heaven, and it remained on him."
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Ich kannte ihn nicht.\nAber der mich gesandt hat,\nmit Wasser zu taufen,\nder hat zu mir gesagt:\n‚Auf wen du den Geist herabkommen\nund auf ihm bleiben siehst,\nder ist es,\nder mit dem Heiligen Geist tauft.‘",
+       "englisch_web": "I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Ich habe es gesehen\nund bezeuge:\nDieser ist der Sohn Gottes.“",
+       "englisch_web": "I have seen and have testified that this is the Son of God.”"
+      }
+     ],
+     "erklaerung": "„Lamm Gottes“ erinnert an das Passalamm, das an die Befreiung aus Ägypten erinnert (2. Mose 12). Es erinnert auch an den leidenden Gottesknecht, der „wie ein Lamm“ war (Jesaja 53,7).\n„Das die Sünde der Welt wegnimmt“: Christen glauben, dass Jesus durch seinen Tod die Schuld aller Menschen trägt. In vielen Gottesdiensten wird bis heute gesungen: „Lamm Gottes, du nimmst hinweg die Sünde der Welt.“\nJohannes erzählt die Taufe Jesu nicht direkt. Johannes der Täufer berichtet nur, was er gesehen hat.\nVers 34: Einige alte Handschriften haben „der Auserwählte Gottes“ statt „der Sohn Gottes“."
+    },
+    {
+     "ueberschrift": "Die ersten Jünger",
+     "vers_von": 35,
+     "vers_bis": 42,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 35,
+       "leichte_sprache": "Am nächsten Tag stand Johannes wieder dort\nmit zwei seiner Jünger.",
+       "englisch_web": "Again, the next day, John was standing with two of his disciples,"
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Er sah Jesus vorbeigehen\nund sagte:\n„Seht, das Lamm Gottes!“",
+       "englisch_web": "and he looked at Jesus as he walked, and said, “Behold, the Lamb of God!”"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Die beiden Jünger hörten ihn das sagen\nund folgten Jesus.",
+       "englisch_web": "The two disciples heard him speak, and they followed Jesus."
+      },
+      {
+       "vers": 38,
+       "leichte_sprache": "Jesus drehte sich um,\nsah, dass sie ihm folgten,\nund sagte zu ihnen:\n„Was sucht ihr?“\nSie sagten zu ihm:\n„Rabbi (das heißt übersetzt: Lehrer),\nwo wohnst du?“",
+       "englisch_web": "Jesus turned and saw them following, and said to them, “What are you looking for?” They said to him, “Rabbi” (which is to say, being interpreted, Teacher), “where are you staying?”"
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Er sagte zu ihnen:\n„Kommt und seht!“\nSie kamen\nund sahen, wo er wohnte,\nund blieben diesen Tag bei ihm.\nEs war ungefähr die zehnte Stunde.",
+       "englisch_web": "He said to them, “Come and see.” They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour."
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Einer von den beiden,\ndie Johannes gehört hatten und Jesus gefolgt waren,\nwar Andreas,\nder Bruder von Simon Petrus.",
+       "englisch_web": "One of the two who heard John and followed him was Andrew, Simon Peter’s brother."
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Er fand zuerst seinen eigenen Bruder Simon\nund sagte zu ihm:\n„Wir haben den Messias gefunden!“\n(Das heißt übersetzt: Christus.)",
+       "englisch_web": "He first found his own brother, Simon, and said to him, “We have found the Messiah!” (which is, being interpreted, Christ)."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Er brachte ihn zu Jesus.\nJesus sah ihn an\nund sagte:\n„Du bist Simon, der Sohn von Jona.\nDu sollst Kephas heißen.“\n(Das heißt übersetzt: Petrus.)",
+       "englisch_web": "He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of Jonah. You shall be called Cephas” (which is by interpretation, Peter)."
+      }
+     ],
+     "erklaerung": "Vers 38: „Was sucht ihr?“ sind die ersten Worte Jesu im Johannesevangelium. Diese Frage gilt allen Menschen.\nVers 39: „Kommt und seht!“ Jesus lädt ein. Man soll ihn selbst kennenlernen. Die zehnte Stunde ist etwa 16 Uhr.\nDer zweite Jünger wird nicht genannt. Manche Ausleger vermuten, es war der „Jünger, den Jesus liebte“.\n„Messias“ (hebräisch) und „Christus“ (griechisch) bedeuten beide „der Gesalbte“.\nVers 42: „Kephas“ (aramäisch) und „Petrus“ (griechisch) bedeuten beide „Fels“ oder „Stein“. Statt „Sohn von Jona“ haben viele alte Handschriften „Sohn von Johannes“.\nFür heute: Wer Jesus gefunden hat, erzählt es weiter, wie Andreas seinem Bruder."
+    },
+    {
+     "ueberschrift": "Philippus und Natanaël",
+     "vers_von": 43,
+     "vers_bis": 51,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 43,
+       "leichte_sprache": "Am nächsten Tag wollte Jesus nach Galiläa gehen.\nEr fand Philippus\nund sagte zu ihm:\n„Folge mir!“",
+       "englisch_web": "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, “Follow me.”"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Philippus war aus Betsaida,\nder Stadt von Andreas und Petrus.",
+       "englisch_web": "Now Philip was from Bethsaida, the city of Andrew and Peter."
+      },
+      {
+       "vers": 45,
+       "leichte_sprache": "Philippus fand Natanaël\nund sagte zu ihm:\n„Wir haben den gefunden,\nüber den Mose im Gesetz\nund auch die Propheten geschrieben haben:\nJesus aus Nazaret,\nden Sohn von Josef.“",
+       "englisch_web": "Philip found Nathanael, and said to him, “We have found him of whom Moses in the law and also the prophets, wrote: Jesus of Nazareth, the son of Joseph.”"
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Natanaël sagte zu ihm:\n„Kann denn aus Nazaret etwas Gutes kommen?“\nPhilippus sagte zu ihm:\n„Komm und sieh!“",
+       "englisch_web": "Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.”"
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Jesus sah Natanaël auf sich zukommen\nund sagte über ihn:\n„Seht, ein echter Israelit,\nin dem kein Falsch ist!“",
+       "englisch_web": "Jesus saw Nathanael coming to him, and said about him, “Behold, an Israelite indeed, in whom is no deceit!”"
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Natanaël sagte zu ihm:\n„Woher kennst du mich?“\nJesus antwortete ihm:\n„Bevor Philippus dich rief,\nals du unter dem Feigenbaum warst,\nhabe ich dich gesehen.“",
+       "englisch_web": "Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Natanaël antwortete ihm:\n„Rabbi, du bist der Sohn Gottes!\nDu bist der König Israels!“",
+       "englisch_web": "Nathanael answered him, “Rabbi, you are the Son of God! You are King of Israel!”"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Jesus antwortete ihm:\n„Du glaubst,\nweil ich dir gesagt habe:\n‚Ich habe dich unter dem Feigenbaum gesehen‘?\nDu wirst noch Größeres sehen als das!“",
+       "englisch_web": "Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Und er sagte zu ihm:\n„Ganz sicher, ich sage euch:\nVon jetzt an werdet ihr den Himmel offen sehen\nund die Engel Gottes hinaufsteigen und herabsteigen\nüber dem Menschensohn.“",
+       "englisch_web": "He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”"
+      }
+     ],
+     "erklaerung": "Natanaël kommt nur im Johannesevangelium vor. Manche Ausleger meinen, er sei derselbe wie Bartholomäus in den anderen Evangelien. Sicher ist das nicht.\nVers 46: Nazaret war ein kleines, unbedeutendes Dorf. Natanaël ist skeptisch. Philippus streitet nicht, sondern lädt ein: „Komm und sieh!“\nVers 47: Jesus lobt Natanaël als „echten Israeliten“, ehrlich und ohne Falsch. Das ist ein großes Lob für einen frommen Juden.\nVers 48: Unter dem Feigenbaum saß man gern, um die Heilige Schrift zu lesen und zu beten.\nVers 51 erinnert an Jakobs Traum von der Himmelsleiter (1. Mose 28,12). Jesus ist die Verbindung zwischen Himmel und Erde. Das Wort „von jetzt an“ fehlt in den ältesten Handschriften.\nFür heute: Zweifel und Fragen sind erlaubt. Jesus nimmt auch Skeptiker ernst."
+    }
+   ]
+  }
+ ]
+}

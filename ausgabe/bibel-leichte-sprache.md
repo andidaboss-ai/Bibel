@@ -131732,3 +131732,288 @@ Amen.
 > **Ein wichtiger Hinweis:** Lukas beginnt und endet im Tempel in Jerusalem. Jesus, Maria, die Jünger und die ersten Christen lebten als Juden. Immer wieder zeigt Lukas, wie „das ganze Volk“ Jesus zuhört und um ihn trauert. Kein Text dieses Evangeliums darf gegen Juden benutzt werden.
 > **Für heute:** Wie die Jünger von Emmaus können auch wir Jesus begegnen: wenn wir die Heilige Schrift hören und das Brot teilen.
 > **Wie geht es weiter?** Als Nächstes kommt das Evangelium nach Johannes. Es ist anders als die drei anderen Evangelien. Es beginnt mit den Worten: „Am Anfang war das Wort.“ Johannes erzählt von großen Zeichen Jesu und von langen Reden, in denen Jesus sagt, wer er ist: „Ich bin das Brot des Lebens“, „Ich bin das Licht der Welt“, „Ich bin der gute Hirte“.
+
+
+---
+
+# Johannes
+
+## Johannes – Kapitel 1
+#### Das Wort wurde Mensch
+
+---
+
+### Bevor es losgeht: Das Evangelium nach Johannes
+
+Das Evangelium nach Johannes ist das vierte Evangelium. Es ist anders als die drei anderen (Matthäus, Markus, Lukas). Es erzählt weniger Gleichnisse, dafür lange Gespräche und Reden. Jesus sagt hier oft, wer er ist: „Ich bin das Brot des Lebens“, „Ich bin das Licht der Welt“, „Ich bin der gute Hirte“, „Ich bin die Auferstehung und das Leben“.
+Nach alter kirchlicher Überlieferung schrieb es der Apostel Johannes, ein Sohn des Zebedäus. Das Buch selbst nennt als Zeugen den „Jünger, den Jesus liebte“ (21,20–24). Wer genau das war, ist unter Forschern umstritten. Das Evangelium wurde wahrscheinlich um 90 bis 100 nach Christus geschrieben.
+Johannes erzählt von sieben großen „Zeichen“, zum Beispiel der Hochzeit in Kana und der Auferweckung des Lazarus. Er sagt selbst, warum er schreibt: „damit ihr glaubt, dass Jesus der Christus ist, der Sohn Gottes, und damit ihr durch den Glauben Leben habt“ (20,31).
+**Ein sehr wichtiger Hinweis:** Johannes spricht oft von „den Juden“, auch dort, wo er Gegner Jesu meint. Diese Sprache wurde in der Geschichte schrecklich missbraucht und hat zu Hass und Verfolgung beigetragen. Man muss wissen: Jesus, seine Mutter, alle Jünger und auch der Verfasser waren selbst Juden. Mit „den Juden“ meint Johannes an vielen Stellen bestimmte Leiter in Jerusalem, nicht das ganze Volk. Das Evangelium sagt selbst: „Das Heil kommt von den Juden“ (4,22). Wir übersetzen genau, was im Text steht. In den Kästen erklären wir, wer jeweils gemeint ist. Kein Wort dieses Buches darf gegen Juden benutzt werden.
+Das Evangelium hat 21 Kapitel.
+
+---
+
+### Am Anfang war das Wort (Vers 1–18)
+
+<sup>1</sup>Am Anfang war das Wort.
+Und das Wort war bei Gott.
+Und das Wort war Gott.
+<sup>2</sup>Dieses war am Anfang bei Gott.
+<sup>3</sup>Alles ist durch das Wort entstanden.
+Ohne das Wort ist nichts entstanden,
+was entstanden ist.
+<sup>4</sup>In ihm war das Leben.
+Und das Leben war das Licht der Menschen.
+<sup>5</sup>Das Licht leuchtet in der Finsternis.
+Und die Finsternis hat es nicht überwältigt.
+<sup>6</sup>Es kam ein Mann,
+der von Gott gesandt war.
+Er hieß Johannes.
+<sup>7</sup>Er kam als Zeuge.
+Er sollte von dem Licht erzählen,
+damit alle durch ihn glauben.
+<sup>8</sup>Er war nicht selbst das Licht.
+Er war gesandt,
+um von dem Licht zu erzählen.
+<sup>9</sup>Das wahre Licht,
+das jedem Menschen Licht gibt,
+kam in die Welt.
+<sup>10</sup>Er war in der Welt,
+und die Welt ist durch ihn entstanden.
+Aber die Welt hat ihn nicht erkannt.
+<sup>11</sup>Er kam zu den Seinen,
+und die Seinen nahmen ihn nicht auf.
+<sup>12</sup>Aber allen, die ihn aufnahmen,
+gab er das Recht, Kinder Gottes zu werden:
+allen, die an seinen Namen glauben.
+<sup>13</sup>Sie sind nicht aus dem Blut geboren,
+nicht aus dem Willen des Fleisches
+und nicht aus dem Willen eines Mannes,
+sondern aus Gott.
+<sup>14</sup>Und das Wort wurde Fleisch
+und wohnte unter uns.
+Wir haben seine Herrlichkeit gesehen,
+die Herrlichkeit des einzigen Sohnes des Vaters,
+voll Gnade und Wahrheit.
+<sup>15</sup>Johannes bezeugte ihn.
+Er rief:
+„Dieser war es,
+von dem ich gesagt habe:
+‚Der nach mir kommt,
+ist größer als ich.
+Denn er war vor mir.‘“
+<sup>16</sup>Aus seiner Fülle haben wir alle empfangen,
+Gnade über Gnade.
+<sup>17</sup>Denn das Gesetz wurde durch Mose gegeben.
+Gnade und Wahrheit sind durch Jesus Christus Wirklichkeit geworden.
+<sup>18</sup>Niemand hat Gott jemals gesehen.
+Der einzige Sohn,
+der dem Vater ganz nahe ist,
+er hat ihn bekannt gemacht.
+
+> **Was bedeutet das?**
+> Diese Verse nennt man den „Prolog“, das Vorwort. Sie gehören zu den bekanntesten Texten der Bibel.
+> „Am Anfang“ erinnert an den ersten Satz der Bibel: „Am Anfang schuf Gott Himmel und Erde“ (1. Mose 1,1). Gott schuf die Welt durch sein Wort: „Gott sprach ...“.
+> „Das Wort“ (griechisch „Logos“) ist Jesus. Johannes sagt: Jesus war schon vor der Schöpfung bei Gott. Er ist Gott. Durch ihn ist alles entstanden. Christen glauben deshalb: Jesus ist wahrer Gott und wahrer Mensch.
+> Vers 6–8: Johannes ist hier Johannes der Täufer, nicht der Verfasser des Evangeliums.
+> Vers 11: „Die Seinen“ verstehen manche Ausleger als die Menschen der Welt, die er geschaffen hat, andere als sein Volk Israel. Wichtig: Das ist kein Urteil über das jüdische Volk. Viele Juden nahmen Jesus auf, zuerst alle seine Jünger. Vers 12 spricht gleich von denen, die ihn aufnahmen.
+> Vers 14: „Das Wort wurde Fleisch“ heißt: Gott wurde ein Mensch, mit Körper, Gefühlen und Grenzen. Das feiern Christen an Weihnachten. „Wohnte unter uns“ heißt wörtlich „zeltete unter uns“. Das erinnert an das heilige Zelt, in dem Gott bei Israel in der Wüste wohnte (2. Mose 40,34).
+> Vers 17: Das Gesetz durch Mose ist auch ein Geschenk Gottes. Johannes stellt es nicht als schlecht dar. Er sagt: In Jesus kommt Gottes Gnade noch einmal neu und ganz nahe.
+> Vers 18: Das WEB sagt „der einzige Sohn“. Die ältesten Handschriften haben „der einzige Gott“ oder „der einzig geborene Gott“. „Dem Vater ganz nahe“ heißt wörtlich: „im Schoß des Vaters“.
+> Für heute: Gott ist nicht fern. In Jesus ist er Mensch geworden und kennt unser Leben von innen.
+
+---
+
+### Johannes der Täufer gibt Auskunft (Vers 19–28)
+
+<sup>19</sup>Das ist das Zeugnis von Johannes:
+Die Juden schickten Priester und Leviten aus Jerusalem zu ihm.
+Sie sollten ihn fragen:
+„Wer bist du?“
+<sup>20</sup>Er bekannte es offen
+und leugnete es nicht.
+Er bekannte:
+„Ich bin nicht der Christus.“
+<sup>21</sup>Sie fragten ihn:
+„Was dann? Bist du Elija?“
+Er sagte:
+„Ich bin es nicht.“
+„Bist du der Prophet?“
+Er antwortete:
+„Nein.“
+<sup>22</sup>Da sagten sie zu ihm:
+„Wer bist du?
+Wir müssen denen eine Antwort bringen,
+die uns geschickt haben.
+Was sagst du über dich selbst?“
+<sup>23</sup>Er sagte:
+„Ich bin die Stimme von einem,
+der in der Wüste ruft:
+‚Macht den Weg des Herrn gerade!‘,
+wie der Prophet Jesaja gesagt hat.“
+<sup>24</sup>Die Abgesandten gehörten zu den Pharisäern.
+<sup>25</sup>Sie fragten ihn:
+„Warum taufst du dann,
+wenn du weder der Christus bist
+noch Elija
+noch der Prophet?“
+<sup>26</sup>Johannes antwortete ihnen:
+„Ich taufe mit Wasser.
+Aber mitten unter euch steht einer,
+den ihr nicht kennt.
+<sup>27</sup>Er ist es,
+der nach mir kommt
+und der mir vorgezogen wird.
+Ich bin es nicht wert,
+ihm den Riemen seiner Sandale zu lösen.“
+<sup>28</sup>Das geschah in Betanien
+auf der anderen Seite des Jordans,
+wo Johannes taufte.
+
+> **Was bedeutet das?**
+> Vers 19: „Die Juden“ meint hier die religiöse Leitung in Jerusalem. Sie schickt eine Gesandtschaft. Die Frage, wer Johannes ist, war für sie eine ernste und berechtigte Frage.
+> Priester und Leviten dienten im Tempel.
+> Vers 21: Viele erwarteten, dass der Prophet Elija vor dem Messias wiederkommt (Maleachi 3,23; in manchen Bibeln 4,5). „Der Prophet“ meint den Propheten wie Mose, den Gott versprochen hatte (5. Mose 18,15).
+> Johannes sagt klar, wer er nicht ist. Er will nicht wichtig sein. Er weist auf einen anderen hin.
+> Vers 23 zitiert Jesaja 40,3.
+> Vers 27: Sandalen lösen war die Arbeit eines Sklaven. Johannes sagt: Ich bin nicht einmal wert, ihm diesen Dienst zu tun.
+> Vers 28: Dieses Betanien liegt am Jordan, nicht das Dorf bei Jerusalem. Einige Handschriften haben „Betabara“.
+
+---
+
+### Das Lamm Gottes (Vers 29–34)
+
+<sup>29</sup>Am nächsten Tag sah Johannes Jesus auf sich zukommen
+und sagte:
+„Seht, das Lamm Gottes,
+das die Sünde der Welt wegnimmt!
+<sup>30</sup>Er ist es,
+von dem ich gesagt habe:
+‚Nach mir kommt ein Mann,
+der mir vorgezogen wird,
+denn er war vor mir.‘
+<sup>31</sup>Ich kannte ihn nicht.
+Aber ich bin gekommen
+und taufe mit Wasser,
+damit er Israel offenbart wird.“
+<sup>32</sup>Johannes bezeugte:
+„Ich habe gesehen,
+wie der Geist wie eine Taube vom Himmel herabkam
+und auf ihm blieb.
+<sup>33</sup>Ich kannte ihn nicht.
+Aber der mich gesandt hat,
+mit Wasser zu taufen,
+der hat zu mir gesagt:
+‚Auf wen du den Geist herabkommen
+und auf ihm bleiben siehst,
+der ist es,
+der mit dem Heiligen Geist tauft.‘
+<sup>34</sup>Ich habe es gesehen
+und bezeuge:
+Dieser ist der Sohn Gottes.“
+
+> **Was bedeutet das?**
+> „Lamm Gottes“ erinnert an das Passalamm, das an die Befreiung aus Ägypten erinnert (2. Mose 12). Es erinnert auch an den leidenden Gottesknecht, der „wie ein Lamm“ war (Jesaja 53,7).
+> „Das die Sünde der Welt wegnimmt“: Christen glauben, dass Jesus durch seinen Tod die Schuld aller Menschen trägt. In vielen Gottesdiensten wird bis heute gesungen: „Lamm Gottes, du nimmst hinweg die Sünde der Welt.“
+> Johannes erzählt die Taufe Jesu nicht direkt. Johannes der Täufer berichtet nur, was er gesehen hat.
+> Vers 34: Einige alte Handschriften haben „der Auserwählte Gottes“ statt „der Sohn Gottes“.
+
+---
+
+### Die ersten Jünger (Vers 35–42)
+
+<sup>35</sup>Am nächsten Tag stand Johannes wieder dort
+mit zwei seiner Jünger.
+<sup>36</sup>Er sah Jesus vorbeigehen
+und sagte:
+„Seht, das Lamm Gottes!“
+<sup>37</sup>Die beiden Jünger hörten ihn das sagen
+und folgten Jesus.
+<sup>38</sup>Jesus drehte sich um,
+sah, dass sie ihm folgten,
+und sagte zu ihnen:
+„Was sucht ihr?“
+Sie sagten zu ihm:
+„Rabbi (das heißt übersetzt: Lehrer),
+wo wohnst du?“
+<sup>39</sup>Er sagte zu ihnen:
+„Kommt und seht!“
+Sie kamen
+und sahen, wo er wohnte,
+und blieben diesen Tag bei ihm.
+Es war ungefähr die zehnte Stunde.
+<sup>40</sup>Einer von den beiden,
+die Johannes gehört hatten und Jesus gefolgt waren,
+war Andreas,
+der Bruder von Simon Petrus.
+<sup>41</sup>Er fand zuerst seinen eigenen Bruder Simon
+und sagte zu ihm:
+„Wir haben den Messias gefunden!“
+(Das heißt übersetzt: Christus.)
+<sup>42</sup>Er brachte ihn zu Jesus.
+Jesus sah ihn an
+und sagte:
+„Du bist Simon, der Sohn von Jona.
+Du sollst Kephas heißen.“
+(Das heißt übersetzt: Petrus.)
+
+> **Was bedeutet das?**
+> Vers 38: „Was sucht ihr?“ sind die ersten Worte Jesu im Johannesevangelium. Diese Frage gilt allen Menschen.
+> Vers 39: „Kommt und seht!“ Jesus lädt ein. Man soll ihn selbst kennenlernen. Die zehnte Stunde ist etwa 16 Uhr.
+> Der zweite Jünger wird nicht genannt. Manche Ausleger vermuten, es war der „Jünger, den Jesus liebte“.
+> „Messias“ (hebräisch) und „Christus“ (griechisch) bedeuten beide „der Gesalbte“.
+> Vers 42: „Kephas“ (aramäisch) und „Petrus“ (griechisch) bedeuten beide „Fels“ oder „Stein“. Statt „Sohn von Jona“ haben viele alte Handschriften „Sohn von Johannes“.
+> Für heute: Wer Jesus gefunden hat, erzählt es weiter, wie Andreas seinem Bruder.
+
+---
+
+### Philippus und Natanaël (Vers 43–51)
+
+<sup>43</sup>Am nächsten Tag wollte Jesus nach Galiläa gehen.
+Er fand Philippus
+und sagte zu ihm:
+„Folge mir!“
+<sup>44</sup>Philippus war aus Betsaida,
+der Stadt von Andreas und Petrus.
+<sup>45</sup>Philippus fand Natanaël
+und sagte zu ihm:
+„Wir haben den gefunden,
+über den Mose im Gesetz
+und auch die Propheten geschrieben haben:
+Jesus aus Nazaret,
+den Sohn von Josef.“
+<sup>46</sup>Natanaël sagte zu ihm:
+„Kann denn aus Nazaret etwas Gutes kommen?“
+Philippus sagte zu ihm:
+„Komm und sieh!“
+<sup>47</sup>Jesus sah Natanaël auf sich zukommen
+und sagte über ihn:
+„Seht, ein echter Israelit,
+in dem kein Falsch ist!“
+<sup>48</sup>Natanaël sagte zu ihm:
+„Woher kennst du mich?“
+Jesus antwortete ihm:
+„Bevor Philippus dich rief,
+als du unter dem Feigenbaum warst,
+habe ich dich gesehen.“
+<sup>49</sup>Natanaël antwortete ihm:
+„Rabbi, du bist der Sohn Gottes!
+Du bist der König Israels!“
+<sup>50</sup>Jesus antwortete ihm:
+„Du glaubst,
+weil ich dir gesagt habe:
+‚Ich habe dich unter dem Feigenbaum gesehen‘?
+Du wirst noch Größeres sehen als das!“
+<sup>51</sup>Und er sagte zu ihm:
+„Ganz sicher, ich sage euch:
+Von jetzt an werdet ihr den Himmel offen sehen
+und die Engel Gottes hinaufsteigen und herabsteigen
+über dem Menschensohn.“
+
+> **Was bedeutet das?**
+> Natanaël kommt nur im Johannesevangelium vor. Manche Ausleger meinen, er sei derselbe wie Bartholomäus in den anderen Evangelien. Sicher ist das nicht.
+> Vers 46: Nazaret war ein kleines, unbedeutendes Dorf. Natanaël ist skeptisch. Philippus streitet nicht, sondern lädt ein: „Komm und sieh!“
+> Vers 47: Jesus lobt Natanaël als „echten Israeliten“, ehrlich und ohne Falsch. Das ist ein großes Lob für einen frommen Juden.
+> Vers 48: Unter dem Feigenbaum saß man gern, um die Heilige Schrift zu lesen und zu beten.
+> Vers 51 erinnert an Jakobs Traum von der Himmelsleiter (1. Mose 28,12). Jesus ist die Verbindung zwischen Himmel und Erde. Das Wort „von jetzt an“ fehlt in den ältesten Handschriften.
+> Für heute: Zweifel und Fragen sind erlaubt. Jesus nimmt auch Skeptiker ernst.
