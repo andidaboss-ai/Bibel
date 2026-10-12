@@ -140537,3 +140537,220 @@ löste er die Versammlung auf.
 > Vers 33–34: Die Juden in Ephesus wollten wohl zeigen, dass sie mit Paulus nichts zu tun haben. Aber als die Menge merkt, dass Alexander Jude ist, lässt sie ihn nicht reden. Auch hier zeigt sich Judenfeindlichkeit.
 > Vers 35–40: Der Stadtschreiber handelt klug. Er sagt: Es gibt Gerichte. Probleme soll man nach dem Recht lösen, nicht mit Gewalt.
 > Für heute: Wenn eine Menge wütend wird, ist ruhiges und rechtliches Handeln wichtig.
+
+## Apostelgeschichte – Kapitel 20
+#### Der Abschied von Ephesus
+
+---
+
+### Reise durch Mazedonien und Griechenland (Vers 1–6)
+
+<sup>1</sup>Als der Aufruhr vorbei war,
+rief Paulus die Jünger zu sich.
+Er verabschiedete sich von ihnen
+und reiste nach Mazedonien.
+<sup>2</sup>Er zog durch diese Gegenden
+und ermutigte die Menschen mit vielen Worten.
+Dann kam er nach Griechenland.
+<sup>3</sup>Dort blieb er drei Monate.
+Er wollte gerade mit dem Schiff nach Syrien fahren.
+Da planten Juden einen Anschlag gegen ihn.
+Darum beschloss er,
+über Mazedonien zurückzureisen.
+<sup>4</sup>Bis in die Provinz Asien begleiteten ihn:
+Sopater aus Beröa,
+Aristarchus und Sekundus aus Thessalonich,
+Gaius aus Derbe,
+Timotheus
+und Tychikus und Trophimus aus der Provinz Asien.
+<sup>5</sup>Diese waren vorausgefahren
+und warteten in Troas auf uns.
+<sup>6</sup>Wir fuhren nach den Tagen der ungesäuerten Brote
+von Philippi mit dem Schiff ab.
+In fünf Tagen kamen wir zu ihnen nach Troas.
+Dort blieben wir sieben Tage.
+
+> **Was bedeutet das?**
+> Vers 3: „Juden“ meint hier einige bestimmte Gegner, nicht das jüdische Volk.
+> Vers 4: Paulus reist mit einer Gruppe aus vielen Gemeinden. Sie brachten wohl eine Geldsammlung für die armen Christen in Jerusalem mit (vergleiche Römer 15,25–26).
+> Vers 5: Hier beginnt wieder der „Wir“-Bericht.
+> Vers 6: Paulus richtet sich weiter nach den jüdischen Festen.
+
+---
+
+### Eutychus fällt aus dem Fenster (Vers 7–12)
+
+<sup>7</sup>Am ersten Tag der Woche
+versammelten sich die Jünger,
+um das Brot zu brechen.
+Paulus redete mit ihnen.
+Er wollte am nächsten Tag abreisen.
+Darum redete er bis Mitternacht.
+<sup>8</sup>In dem Obergemach,
+in dem wir versammelt waren,
+brannten viele Lampen.
+<sup>9</sup>Ein junger Mann namens Eutychus
+saß im Fenster.
+Er wurde sehr müde.
+Paulus redete noch länger.
+Da überkam ihn der Schlaf,
+und er fiel aus dem dritten Stock hinunter.
+Man hob ihn tot auf.
+<sup>10</sup>Paulus ging hinunter,
+warf sich über ihn,
+umarmte ihn
+und sagte:
+„Erschreckt nicht!
+Denn das Leben ist in ihm.“
+<sup>11</sup>Dann ging Paulus wieder hinauf,
+brach das Brot
+und aß.
+Er redete noch lange mit ihnen,
+bis zum Morgengrauen.
+Dann reiste er ab.
+<sup>12</sup>Den Jungen brachten sie lebendig herein
+und waren sehr getröstet.
+
+> **Was bedeutet das?**
+> Vers 7: Der „erste Tag der Woche“ ist der Sonntag, der Tag der Auferstehung. Schon die ersten Christen trafen sich an diesem Tag zum Brotbrechen, also zum Abendmahl oder zur Eucharistie.
+> Vers 9: Eine fast menschliche, sogar etwas lustige Szene: Eine Predigt dauert so lange, dass ein junger Mann einschläft. Aber dann wird es ernst.
+> Vers 10: Paulus umarmt den Jungen, wie es die Propheten Elija und Elischa taten (1. Könige 17,21; 2. Könige 4,34).
+> Für heute: Gott schenkt Leben, auch wenn alles verloren scheint.
+
+---
+
+### Von Troas nach Milet (Vers 13–16)
+
+<sup>13</sup>Wir aber gingen voraus zum Schiff
+und fuhren nach Assos.
+Dort wollten wir Paulus an Bord nehmen.
+So hatte er es angeordnet,
+denn er selbst wollte zu Fuß gehen.
+<sup>14</sup>Als er in Assos zu uns kam,
+nahmen wir ihn an Bord
+und fuhren nach Mitylene.
+<sup>15</sup>Von dort fuhren wir weiter
+und kamen am nächsten Tag gegenüber von Chios an.
+Am Tag danach legten wir in Samos an
+und blieben in Trogyllion.
+Am folgenden Tag kamen wir nach Milet.
+<sup>16</sup>Denn Paulus hatte beschlossen,
+an Ephesus vorbeizufahren,
+damit er in der Provinz Asien keine Zeit verlor.
+Denn er beeilte sich,
+um wenn möglich am Pfingsttag in Jerusalem zu sein.
+
+> **Was bedeutet das?**
+> Vers 13–15: Lukas beschreibt die Reise genau, Hafen für Hafen. Er war wohl selbst dabei.
+> Vers 15: „Und blieben in Trogyllion“: Diese Worte fehlen in einigen alten Handschriften. Das WEB hat sie.
+> Vers 16: Paulus will zum Pfingstfest in Jerusalem sein, einem jüdischen Fest.
+
+---
+
+### Paulus nimmt Abschied (Vers 17–38)
+
+<sup>17</sup>Von Milet schickte Paulus nach Ephesus
+und ließ die Ältesten der Gemeinde zu sich rufen.
+<sup>18</sup>Als sie zu ihm gekommen waren,
+sagte er zu ihnen:
+„Ihr wisst selbst,
+wie ich vom ersten Tag an,
+als ich in die Provinz Asien kam,
+die ganze Zeit bei euch gelebt habe.
+<sup>19</sup>Ich habe dem Herrn gedient,
+in aller Demut,
+mit vielen Tränen
+und in Prüfungen,
+die mir durch die Anschläge von Juden zustießen.
+<sup>20</sup>Ihr wisst,
+dass ich euch nichts verschwiegen habe,
+was euch nützt.
+Ich habe euch öffentlich
+und in den Häusern gelehrt.
+<sup>21</sup>Ich habe Juden und Griechen bezeugt:
+Kehrt um zu Gott
+und glaubt an unseren Herrn Jesus.
+<sup>22</sup>Und jetzt, seht:
+Ich gehe nach Jerusalem,
+gebunden durch den Geist.
+Ich weiß nicht,
+was mir dort geschehen wird.
+<sup>23</sup>Ich weiß nur,
+dass mir der Heilige Geist in jeder Stadt bezeugt:
+Fesseln und Bedrängnisse warten auf mich.
+<sup>24</sup>Aber das zählt nicht.
+Mein Leben ist mir selbst nicht so wichtig.
+Wichtig ist,
+dass ich meinen Lauf mit Freude vollende
+und den Dienst,
+den ich von Jesus, dem Herrn, bekommen habe:
+die gute Nachricht von der Gnade Gottes zu bezeugen.
+<sup>25</sup>Und jetzt, seht,
+ich weiß:
+Ihr alle,
+bei denen ich umhergezogen bin
+und das Reich Gottes verkündet habe,
+werdet mein Gesicht nicht mehr sehen.
+<sup>26</sup>Darum bezeuge ich euch heute:
+Ich bin unschuldig am Blut von allen.
+<sup>27</sup>Denn ich habe euch nichts verschwiegen.
+Ich habe euch den ganzen Plan Gottes verkündet.
+<sup>28</sup>Gebt also acht auf euch selbst
+und auf die ganze Herde.
+Der Heilige Geist hat euch darin zu Aufsehern gemacht.
+Ihr sollt die Gemeinde des Herrn und Gottes hüten,
+die er durch sein eigenes Blut erworben hat.
+<sup>29</sup>Denn ich weiß:
+Wenn ich weg bin,
+werden reißende Wölfe zu euch kommen.
+Sie werden die Herde nicht schonen.
+<sup>30</sup>Auch aus eurer eigenen Mitte
+werden Männer aufstehen,
+die Verdrehtes reden,
+um die Jünger auf ihre Seite zu ziehen.
+<sup>31</sup>Darum seid wachsam!
+Denkt daran,
+dass ich drei Jahre lang
+nicht aufgehört habe,
+jeden Einzelnen Tag und Nacht
+unter Tränen zu ermahnen.
+<sup>32</sup>Und jetzt, Brüder,
+vertraue ich euch Gott an
+und dem Wort seiner Gnade.
+Es hat die Kraft,
+euch aufzubauen
+und euch das Erbe zu geben
+unter allen, die geheiligt sind.
+<sup>33</sup>Ich habe nach niemandes Silber,
+Gold
+oder Kleidung verlangt.
+<sup>34</sup>Ihr wisst selbst:
+Mit diesen Händen
+habe ich verdient,
+was ich und meine Begleiter zum Leben brauchten.
+<sup>35</sup>In allem habe ich euch gezeigt:
+So sollt ihr arbeiten
+und den Schwachen helfen.
+Denkt an die Worte von Jesus, dem Herrn.
+Er selbst hat gesagt:
+‚Geben ist gesegneter als Nehmen.‘“
+<sup>36</sup>Als er das gesagt hatte,
+kniete er nieder
+und betete mit ihnen allen.
+<sup>37</sup>Alle weinten sehr.
+Sie fielen Paulus um den Hals
+und küssten ihn.
+<sup>38</sup>Am meisten schmerzte sie das Wort,
+dass sie sein Gesicht nicht mehr sehen würden.
+Dann begleiteten sie ihn zum Schiff.
+
+> **Was bedeutet das?**
+> Das ist die einzige Rede von Paulus in der Apostelgeschichte, die er vor Christen hält. Es ist eine Abschiedsrede.
+> Vers 19: „Anschläge von Juden“: gemeint sind bestimmte Gegner. Paulus ist selbst Jude.
+> Vers 22–24: Paulus weiß, dass Gefahr auf ihn wartet. Trotzdem geht er. Er vertraut Gott.
+> Vers 26: „Unschuldig am Blut von allen“ heißt: Ich habe meine Aufgabe erfüllt. Niemand kann sagen, ich hätte ihm etwas verschwiegen.
+> Vers 28: „Aufseher“ heißt auf Griechisch „episkopos“. Daraus kommt das Wort „Bischof“. Die Gemeindeleiter sollen wie Hirten für die Gemeinde sorgen.
+> Vers 28: Das WEB schreibt „die Gemeinde des Herrn und Gottes“. Die alten Handschriften haben hier verschiedene Formen: „die Gemeinde Gottes“ oder „die Gemeinde des Herrn“.
+> Vers 29–30: Paulus warnt vor falschen Lehrern, die Menschen an sich binden wollen. Wer in einer Gruppe unter Druck gesetzt wird, findet Rat bei den Sekten- und Weltanschauungsbeauftragten der Kirchen.
+> Vers 35: „Geben ist gesegneter als Nehmen“: Dieses Wort von Jesus steht nicht in den Evangelien. Paulus kannte es aus der mündlichen Überlieferung.
+> Vers 37–38: Ein tränenreicher Abschied. Die Gemeinde liebt Paulus. Christen dürfen ihre Gefühle zeigen.
