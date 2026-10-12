@@ -114,7 +114,7 @@ war nämlich mehr als vierzig Jahre alt.
 > Vers 11 zitiert Psalm 118,22.
 > Vers 12: „In keinem anderen ist das Heil“: Für Christen ist Jesus der Retter. Wie Gott mit Menschen anderer Religionen umgeht, darüber denken Christen verschieden. Viele Kirchen sagen heute: Gottes Liebe ist größer als unser Verstehen. Christen sollen andere Religionen achten.
 > Vers 13: „Ungelehrt“ heißt: Sie hatten nicht bei Schriftgelehrten studiert. Sie waren Fischer. Aber sie reden mutig.
-> Vers 19–20: „Man muss Gott mehr gehorchen als den Menschen“ (so sagt es auch 5,29). Dieser Satz hat später vielen Menschen Mut gemacht, gegen Unrecht aufzustehen, auch in Diktaturen.
+> Vers 19–20: „Wir müssen Gott mehr gehorchen als den Menschen“ (so sagen es die Apostel in 5,29). Dieser Satz hat später vielen Menschen Mut gemacht, gegen Unrecht aufzustehen, auch in Diktaturen.
 > Vers 22: Der Mann war über 40 Jahre gelähmt gewesen. Darum war das Wunder für alle so deutlich.
 
 ---
