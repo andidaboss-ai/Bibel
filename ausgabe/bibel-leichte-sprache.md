@@ -142729,3 +142729,154 @@ sondern von Gott.
 > Vers 24 zitiert Jesaja 52,5.
 > Vers 29: „Beschneidung des Herzens“: Das ist ein Bild aus der Bibel Israels selbst (5. Mose 10,16; Jeremia 4,4). Gott will das Herz, nicht nur äußere Zeichen.
 > Wichtig: Diese Verse wurden später missbraucht, um zu behaupten, die Juden seien keine „echten“ Juden mehr. Das hat Paulus nicht gemeint. In Kapitel 3 sagt er gleich: Der Vorteil der Juden ist groß (3,1–2). Und in Kapitel 11: Gott hat sein Volk nicht verstoßen.
+
+## Römer – Kapitel 3
+#### Gerecht aus Gnade, durch den Glauben
+
+---
+
+### Gott bleibt treu (Vers 1–8)
+
+<sup>1</sup>Was haben dann die Juden für einen Vorteil?
+Oder was nützt die Beschneidung?
+<sup>2</sup>Viel,
+in jeder Hinsicht!
+Vor allem:
+Ihnen wurden die Worte Gottes anvertraut.
+<sup>3</sup>Was ist,
+wenn einige nicht treu waren?
+Hebt ihre Untreue etwa die Treue Gottes auf?
+<sup>4</sup>Auf keinen Fall!
+Gott soll wahrhaftig sein,
+auch wenn jeder Mensch ein Lügner ist.
+Wie geschrieben steht:
+„Du sollst recht behalten in deinen Worten
+und siegen,
+wenn man mit dir ins Gericht geht.“
+<sup>5</sup>Wenn aber unsere Ungerechtigkeit
+die Gerechtigkeit Gottes erst richtig zeigt,
+was sollen wir dann sagen?
+Ist Gott ungerecht,
+wenn er Zorn über uns bringt?
+Ich rede wie ein Mensch.
+<sup>6</sup>Auf keinen Fall!
+Wie könnte Gott sonst die Welt richten?
+<sup>7</sup>Denn wenn durch meine Lüge
+die Wahrheit Gottes noch größer wird,
+zu seiner Ehre,
+warum werde ich dann noch als Sünder gerichtet?
+<sup>8</sup>Und warum sollen wir dann nicht sagen:
+„Lasst uns Böses tun,
+damit Gutes daraus kommt“?
+Manche verleumden uns
+und behaupten,
+dass wir so etwas sagen.
+Solche Leute werden zu Recht verurteilt.
+
+> **Was bedeutet das?**
+> Vers 1–2: Paulus sagt klar: Der Vorteil der Juden ist groß. Ihnen hat Gott sein Wort anvertraut, die Heilige Schrift.
+> Vers 3–4: Auch wenn Menschen untreu sind, bleibt Gott treu. Gottes Treue zu Israel hört nicht auf. Das ist ganz wichtig für das Verhältnis von Christen und Juden.
+> Vers 4 zitiert Psalm 51,6 (in manchen Bibeln 51,4).
+> Vers 5–8: Paulus spielt Einwände durch, wie in einem Streitgespräch. Er weist den Gedanken zurück, man dürfe Böses tun, damit Gott umso gnädiger erscheint.
+
+---
+
+### Alle Menschen brauchen Gottes Gnade (Vers 9–20)
+
+<sup>9</sup>Was nun?
+Sind wir besser als sie?
+Nein, überhaupt nicht.
+Denn wir haben schon gezeigt:
+Juden und Griechen
+sind alle unter der Macht der Sünde.
+<sup>10</sup>Wie geschrieben steht:
+„Es gibt keinen Gerechten,
+auch nicht einen.
+<sup>11</sup>Es gibt keinen,
+der verständig ist.
+Es gibt keinen,
+der nach Gott fragt.
+<sup>12</sup>Alle sind abgewichen.
+Alle zusammen sind unbrauchbar geworden.
+Es gibt keinen,
+der Gutes tut,
+auch nicht einen.“
+<sup>13</sup>„Ihre Kehle ist ein offenes Grab.
+Mit ihren Zungen betrügen sie.“
+„Schlangengift ist unter ihren Lippen.“
+<sup>14</sup>„Ihr Mund ist voll Fluch und Bitterkeit.“
+<sup>15</sup>„Ihre Füße eilen,
+um Blut zu vergießen.
+<sup>16</sup>Verderben und Elend sind auf ihren Wegen.
+<sup>17</sup>Den Weg des Friedens kennen sie nicht.“
+<sup>18</sup>„Es gibt keine Furcht Gottes vor ihren Augen.“
+<sup>19</sup>Wir wissen:
+Was das Gesetz sagt,
+das sagt es zu denen,
+die unter dem Gesetz leben.
+So soll jeder Mund verstummen,
+und die ganze Welt soll vor Gott schuldig dastehen.
+<sup>20</sup>Denn durch die Werke des Gesetzes
+wird kein Mensch vor ihm gerecht.
+Denn durch das Gesetz erkennt man die Sünde.
+
+> **Was bedeutet das?**
+> Vers 9: „Wir“ meint hier wohl die Juden, zu denen Paulus selbst gehört. Er sagt: Wir sind nicht besser, aber auch nicht schlechter. Alle Menschen, Juden und Nichtjuden, brauchen Gottes Gnade.
+> Vers 10–18 ist eine Sammlung von Zitaten aus der Bibel Israels: Psalm 14,1–3 (und Psalm 53), Psalm 5,10 (in manchen Bibeln 5,9), Psalm 140,4 (in manchen Bibeln 140,3), Psalm 10,7, Jesaja 59,7–8 und Psalm 36,2 (in manchen Bibeln 36,1).
+> Vers 20 erinnert an Psalm 143,2. „Werke des Gesetzes“ heißt: das Tun dessen, was das Gesetz verlangt. Paulus sagt: Niemand kann sich durch eigene Leistung vor Gott gerecht machen.
+> Vers 20: Das Gesetz ist gut. Es zeigt, was richtig und falsch ist. Aber es kann nicht von der Sünde befreien.
+
+---
+
+### Gerecht aus Gnade (Vers 21–31)
+
+<sup>21</sup>Jetzt aber ist die Gerechtigkeit Gottes offenbart worden,
+unabhängig vom Gesetz.
+Das Gesetz und die Propheten bezeugen sie.
+<sup>22</sup>Es ist die Gerechtigkeit Gottes
+durch den Glauben an Jesus Christus,
+für alle und über alle,
+die glauben.
+Denn es gibt keinen Unterschied.
+<sup>23</sup>Denn alle haben gesündigt
+und erreichen die Herrlichkeit Gottes nicht.
+<sup>24</sup>Sie werden ohne Verdienst gerecht gesprochen,
+aus seiner Gnade,
+durch die Erlösung,
+die in Christus Jesus ist.
+<sup>25</sup>Ihn hat Gott als Sühneopfer hingestellt,
+durch den Glauben an sein Blut.
+So wollte Gott seine Gerechtigkeit zeigen.
+Denn in seiner Geduld
+hatte er über die früheren Sünden hinweggesehen.
+<sup>26</sup>So zeigt er jetzt, in dieser Zeit, seine Gerechtigkeit:
+Er selbst ist gerecht,
+und er macht den gerecht,
+der an Jesus glaubt.
+<sup>27</sup>Wo bleibt da das Rühmen?
+Es ist ausgeschlossen.
+Durch welches Gesetz?
+Durch das Gesetz der Werke?
+Nein,
+sondern durch das Gesetz des Glaubens.
+<sup>28</sup>Denn wir sind überzeugt:
+Der Mensch wird durch den Glauben gerecht gesprochen,
+ohne die Werke des Gesetzes.
+<sup>29</sup>Oder ist Gott nur der Gott der Juden?
+Ist er nicht auch der Gott der Heiden?
+Ja,
+auch der Heiden.
+<sup>30</sup>Denn es ist ein einziger Gott.
+Er macht die Beschnittenen aus Glauben gerecht
+und die Unbeschnittenen durch den Glauben.
+<sup>31</sup>Heben wir dann durch den Glauben das Gesetz auf?
+Auf keinen Fall!
+Sondern wir bestätigen das Gesetz.
+
+> **Was bedeutet das?**
+> Vers 21–26 ist ein Herzstück des Römerbriefs. Die Botschaft ist: Gott macht Menschen gerecht. Nicht weil sie es verdienen, sondern als Geschenk, aus Gnade, durch Jesus Christus.
+> Vers 23: „Alle haben gesündigt“: Niemand ist ohne Schuld. Aber auch niemand ist von Gottes Gnade ausgeschlossen.
+> Vers 25: „Sühneopfer“: Das erinnert an den Versöhnungstag im Tempel (3. Mose 16). Christen glauben: Durch den Tod von Jesus schenkt Gott Versöhnung. Wie man das genau versteht, darüber denken die Kirchen bis heute nach.
+> Vers 28: Martin Luther übersetzte hier „allein durch den Glauben“. Das Wort „allein“ steht nicht im griechischen Text und auch nicht im WEB. Darüber wurde lange gestritten. In der „Gemeinsamen Erklärung zur Rechtfertigungslehre“ (1999) haben die katholische Kirche und der Lutherische Weltbund festgehalten: Wir werden allein aus Gnade gerecht, im Glauben, nicht aufgrund unserer Verdienste.
+> Vers 29–30: Gott ist der eine Gott aller Menschen, der Juden und der anderen Völker.
+> Vers 31: Paulus sagt ausdrücklich: Der Glaube hebt das Gesetz nicht auf, sondern bestätigt es. Das Gesetz Gottes bleibt gut und heilig.
