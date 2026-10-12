@@ -134712,3 +134712,212 @@ wie der Vater es mir gesagt hat.“
 > Vers 44–45: Wer Jesus begegnet, begegnet Gott selbst.
 > Vers 47: Jesus ist gekommen, um zu retten, nicht um zu verurteilen.
 > Wichtig: Das Urteil über Menschen gehört allein Gott. Kein Mensch darf sich anmaßen, andere zu verdammen.
+
+## Johannes – Kapitel 13
+#### Liebt einander
+
+---
+
+### Jesus wäscht seinen Jüngern die Füße (Vers 1–20)
+
+<sup>1</sup>Es war vor dem Passafest.
+Jesus wusste,
+dass seine Stunde gekommen war,
+in der er aus dieser Welt zum Vater gehen sollte.
+Er hatte die Seinen geliebt,
+die in der Welt waren.
+Und er liebte sie bis zum Ende.
+<sup>2</sup>Es war beim Abendessen.
+Der Teufel hatte Judas Iskariot,
+dem Sohn von Simon,
+schon ins Herz gegeben,
+Jesus zu verraten.
+<sup>3</sup>Jesus wusste,
+dass der Vater ihm alles in die Hände gegeben hatte
+und dass er von Gott gekommen war
+und zu Gott zurückging.
+<sup>4</sup>Da stand er vom Essen auf,
+legte sein Obergewand ab,
+nahm ein Tuch
+und band es sich um.
+<sup>5</sup>Dann goss er Wasser in eine Schüssel.
+Er fing an,
+den Jüngern die Füße zu waschen
+und sie mit dem Tuch abzutrocknen,
+das er sich umgebunden hatte.
+<sup>6</sup>So kam er zu Simon Petrus.
+Der sagte zu ihm:
+„Herr, du willst mir die Füße waschen?“
+<sup>7</sup>Jesus antwortete ihm:
+„Was ich tue,
+verstehst du jetzt noch nicht.
+Aber später wirst du es verstehen.“
+<sup>8</sup>Petrus sagte zu ihm:
+„Niemals sollst du mir die Füße waschen!“
+Jesus antwortete ihm:
+„Wenn ich dich nicht wasche,
+hast du keinen Anteil an mir.“
+<sup>9</sup>Simon Petrus sagte zu ihm:
+„Herr, dann nicht nur meine Füße,
+sondern auch die Hände und den Kopf!“
+<sup>10</sup>Jesus sagte zu ihm:
+„Wer gebadet hat,
+braucht sich nur noch die Füße waschen zu lassen.
+Er ist ganz rein.
+Auch ihr seid rein,
+aber nicht alle.“
+<sup>11</sup>Denn er wusste,
+wer ihn verraten würde.
+Darum sagte er:
+„Ihr seid nicht alle rein.“
+<sup>12</sup>Als er ihnen die Füße gewaschen,
+sein Obergewand wieder angezogen
+und sich wieder hingesetzt hatte,
+sagte er zu ihnen:
+„Versteht ihr,
+was ich für euch getan habe?
+<sup>13</sup>Ihr nennt mich ‚Lehrer‘ und ‚Herr‘.
+Und ihr sagt es zu Recht,
+denn ich bin es.
+<sup>14</sup>Wenn nun ich,
+der Herr und Lehrer,
+euch die Füße gewaschen habe,
+dann sollt auch ihr einander die Füße waschen.
+<sup>15</sup>Denn ich habe euch ein Beispiel gegeben,
+damit auch ihr tut,
+was ich euch getan habe.
+<sup>16</sup>Ganz sicher, ich sage euch:
+Ein Knecht ist nicht größer als sein Herr,
+und ein Bote ist nicht größer als der,
+der ihn gesandt hat.
+<sup>17</sup>Wenn ihr das wisst,
+dann seid ihr glücklich,
+wenn ihr es tut.
+<sup>18</sup>Ich rede nicht von euch allen.
+Ich weiß,
+wen ich erwählt habe.
+Aber das Schriftwort muss sich erfüllen:
+‚Der mein Brot isst,
+hat seine Ferse gegen mich erhoben.‘
+<sup>19</sup>Ich sage es euch schon jetzt,
+bevor es geschieht,
+damit ihr glaubt,
+wenn es geschieht,
+dass ich es bin.
+<sup>20</sup>Ganz sicher, ich sage euch:
+Wer jemanden aufnimmt,
+den ich sende,
+der nimmt mich auf.
+Und wer mich aufnimmt,
+der nimmt den auf,
+der mich gesandt hat.“
+
+> **Was bedeutet das?**
+> Johannes erzählt das letzte Abendmahl anders als die anderen Evangelien. Er berichtet nicht von Brot und Wein, sondern von der Fußwaschung.
+> Die Füße waschen war Arbeit für Sklaven. Die Straßen waren staubig, man ging in Sandalen. Jesus, der Herr und Lehrer, macht sich zum Diener.
+> Vers 1: „Er liebte sie bis zum Ende“: bis zum Äußersten, bis zu seinem Tod.
+> Vers 8: Petrus will das nicht zulassen. Aber Jesus sagt: Wer sich nicht von mir dienen lässt, kann nicht zu mir gehören.
+> Vers 10: Die Worte „braucht sich nur noch die Füße waschen zu lassen“ fehlen in einigen alten Handschriften.
+> Vers 14–15: Jesus gibt ein Beispiel: Christen sollen einander dienen, gerade die, die Verantwortung tragen. Am Gründonnerstag wird in vielen Kirchen die Fußwaschung nachgefeiert.
+> Wichtig: Dienen heißt nicht, sich ausnutzen oder missbrauchen zu lassen. Jesus dient aus Freiheit und Liebe.
+> Vers 18 zitiert Psalm 41,10 (in manchen Bibeln 41,9). „Die Ferse erheben“ heißt: jemanden verraten oder treten.
+
+---
+
+### Jesus kündigt seinen Verrat an (Vers 21–30)
+
+<sup>21</sup>Als Jesus das gesagt hatte,
+war er im Innersten erschüttert
+und bezeugte:
+„Ganz sicher, ich sage euch:
+Einer von euch wird mich verraten.“
+<sup>22</sup>Die Jünger sahen einander an.
+Sie waren ratlos,
+von wem er sprach.
+<sup>23</sup>Einer seiner Jünger,
+den Jesus liebte,
+lag bei Tisch und lehnte an der Brust von Jesus.
+<sup>24</sup>Simon Petrus winkte ihm zu
+und sagte zu ihm:
+„Sag uns,
+von wem er spricht!“
+<sup>25</sup>Da lehnte sich dieser an die Brust von Jesus
+und fragte ihn:
+„Herr, wer ist es?“
+<sup>26</sup>Jesus antwortete:
+„Der ist es,
+dem ich das Stück Brot gebe,
+das ich eintauche.“
+Er tauchte das Stück Brot ein
+und gab es Judas,
+dem Sohn von Simon Iskariot.
+<sup>27</sup>Nach dem Stück Brot
+fuhr der Satan in ihn.
+Da sagte Jesus zu ihm:
+„Was du tust,
+das tu schnell.“
+<sup>28</sup>Aber niemand am Tisch verstand,
+warum er ihm das sagte.
+<sup>29</sup>Weil Judas die Kasse hatte,
+dachten einige,
+Jesus sage zu ihm:
+„Kauf, was wir für das Fest brauchen“,
+oder er solle den Armen etwas geben.
+<sup>30</sup>Als Judas das Stück Brot genommen hatte,
+ging er sofort hinaus.
+Und es war Nacht.
+
+> **Was bedeutet das?**
+> Vers 23: „Der Jünger, den Jesus liebte“ wird hier zum ersten Mal genannt. Nach alter Überlieferung ist es Johannes. Sicher ist das nicht.
+> Bei Festessen lag man auf Polstern. So konnte der Jünger seinen Kopf an Jesus lehnen.
+> Vers 26: Jemandem ein Stück Brot zu reichen, war ein Zeichen der Freundschaft und Ehre. Jesus bietet Judas bis zuletzt seine Freundschaft an.
+> Vers 30: „Es war Nacht“: Die Nacht ist ein Bild für die Finsternis, in die Judas hinausgeht.
+> Wichtig: Judas steht in diesem Text für jeden Menschen, der Jesus verrät. Er steht nicht für „die Juden“. Alle zwölf Jünger waren Juden. Der Missbrauch des Namens Judas gegen Juden ist Unrecht.
+
+---
+
+### Das neue Gebot (Vers 31–38)
+
+<sup>31</sup>Als Judas hinausgegangen war,
+sagte Jesus:
+„Jetzt ist der Menschensohn verherrlicht,
+und Gott ist in ihm verherrlicht.
+<sup>32</sup>Wenn Gott in ihm verherrlicht ist,
+wird Gott auch ihn in sich verherrlichen.
+Und er wird ihn bald verherrlichen.
+<sup>33</sup>Kinder,
+nur noch kurze Zeit bin ich bei euch.
+Ihr werdet mich suchen.
+Und wie ich zu den Juden gesagt habe:
+‚Wo ich hingehe,
+dorthin könnt ihr nicht kommen‘,
+so sage ich es jetzt auch euch.
+<sup>34</sup>Ich gebe euch ein neues Gebot:
+Liebt einander!
+So wie ich euch geliebt habe,
+so sollt auch ihr einander lieben.
+<sup>35</sup>Daran werden alle erkennen,
+dass ihr meine Jünger seid:
+wenn ihr einander liebt.“
+<sup>36</sup>Simon Petrus sagte zu ihm:
+„Herr, wohin gehst du?“
+Jesus antwortete:
+„Wohin ich gehe,
+dorthin kannst du mir jetzt nicht folgen.
+Aber später wirst du mir folgen.“
+<sup>37</sup>Petrus sagte zu ihm:
+„Herr, warum kann ich dir jetzt nicht folgen?
+Ich will mein Leben für dich hingeben.“
+<sup>38</sup>Jesus antwortete ihm:
+„Du willst dein Leben für mich hingeben?
+Ganz sicher, ich sage dir:
+Der Hahn wird nicht krähen,
+bevor du mich dreimal verleugnet hast.“
+
+> **Was bedeutet das?**
+> Vers 31–32: Jesu Leiden und Tod ist zugleich seine Verherrlichung. Am Kreuz zeigt sich Gottes Liebe am deutlichsten.
+> Vers 33: „Kinder“ (WEB: „Little children“): Jesus redet seine Jünger zärtlich an.
+> Vers 34: Das Gebot der Nächstenliebe steht schon im Alten Testament (3. Mose 19,18). „Neu“ ist der Maßstab: so lieben, wie Jesus geliebt hat.
+> Vers 35: Christen sollen an ihrer Liebe zueinander erkennbar sein. Das ist ein Auftrag an alle Kirchen, auch zur Einheit.
+> Vers 37–38: Petrus meint es ernst, aber er überschätzt sich. Jesus kennt ihn und liebt ihn trotzdem.
+> Für heute: Liebe zeigt sich nicht in großen Worten, sondern im Dienen.
