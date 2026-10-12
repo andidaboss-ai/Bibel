@@ -145130,3 +145130,248 @@ der soll sich im Herrn rühmen.“
 > Vers 22–24: Paulus beschreibt, warum die Botschaft vom Kreuz für viele seiner Zeitgenossen schwer anzunehmen war, für Juden wie für Griechen. Er selbst ist Jude. Er spricht von einer Glaubensfrage, nicht schlecht über ein Volk. Und er sagt ausdrücklich: Auch viele Juden gehören zu den Berufenen (Vers 24).
 > Vers 26–28: Die Gemeinde in Korinth bestand vor allem aus einfachen Leuten, aus Armen und aus Sklaven. Gott wählt gerade die Schwachen und Verachteten aus.
 > Für heute: Bei Gott zählen nicht Bildung, Geld oder Ansehen. Jeder Mensch ist wertvoll.
+
+## 1. Korinther – Kapitel 2
+#### Die Weisheit, die vom Geist kommt
+
+---
+
+### Paulus predigt den Gekreuzigten (Vers 1–5)
+
+<sup>1</sup>Als ich zu euch kam, Brüder,
+kam ich nicht mit großartigen Reden
+oder mit großer Weisheit,
+als ich euch das Zeugnis Gottes verkündete.
+<sup>2</sup>Denn ich hatte beschlossen,
+bei euch nichts anderes zu wissen
+als Jesus Christus,
+und zwar als den Gekreuzigten.
+<sup>3</sup>Ich war bei euch in Schwäche,
+in Furcht
+und mit großem Zittern.
+<sup>4</sup>Mein Reden und meine Predigt
+bestanden nicht aus überzeugenden Worten menschlicher Weisheit,
+sondern darin,
+dass der Geist und die Kraft Gottes sich zeigten,
+<sup>5</sup>damit euer Glaube nicht auf der Weisheit von Menschen steht,
+sondern auf der Kraft Gottes.
+
+> **Was bedeutet das?**
+> Vers 1–3: Paulus war kein glänzender Redner. Er kam „in Schwäche, Furcht und Zittern“ nach Korinth. Er erzählt das ehrlich.
+> Vers 2: Im Mittelpunkt seiner Predigt stand Jesus, der am Kreuz gestorben ist.
+> Vers 5: Der Glaube soll sich nicht auf einen beeindruckenden Prediger stützen, sondern auf Gott.
+> Für heute: Wer Angst hat, vor anderen zu reden, darf wissen: Auch Paulus ging es so. Gott braucht keine perfekten Menschen.
+
+---
+
+### Gottes verborgene Weisheit (Vers 6–16)
+
+<sup>6</sup>Trotzdem reden wir von Weisheit
+unter denen,
+die reif im Glauben sind.
+Aber es ist keine Weisheit dieser Welt
+und nicht die Weisheit der Herrscher dieser Welt,
+die vergehen.
+<sup>7</sup>Sondern wir reden von Gottes Weisheit,
+die ein Geheimnis ist
+und verborgen war.
+Gott hat sie schon vor aller Zeit bestimmt,
+zu unserer Herrlichkeit.
+<sup>8</sup>Keiner der Herrscher dieser Welt hat sie erkannt.
+Denn wenn sie sie erkannt hätten,
+hätten sie den Herrn der Herrlichkeit nicht gekreuzigt.
+<sup>9</sup>Sondern es ist so,
+wie geschrieben steht:
+„Was kein Auge gesehen hat
+und kein Ohr gehört hat
+und was in keines Menschen Herz gekommen ist,
+das hat Gott denen bereitet,
+die ihn lieben.“
+<sup>10</sup>Uns aber hat Gott es offenbart
+durch den Geist.
+Denn der Geist erforscht alles,
+sogar die Tiefen Gottes.
+<sup>11</sup>Denn wer unter den Menschen weiß,
+was in einem Menschen ist,
+außer dem Geist des Menschen,
+der in ihm ist?
+So weiß auch niemand,
+was in Gott ist,
+außer dem Geist Gottes.
+<sup>12</sup>Wir aber haben nicht den Geist der Welt empfangen,
+sondern den Geist,
+der von Gott kommt.
+So können wir erkennen,
+was Gott uns geschenkt hat.
+<sup>13</sup>Davon reden wir auch,
+nicht mit Worten,
+die menschliche Weisheit lehrt,
+sondern mit Worten,
+die der Heilige Geist lehrt.
+So erklären wir Geistliches mit Geistlichem.
+<sup>14</sup>Der natürliche Mensch aber nimmt nicht an,
+was vom Geist Gottes kommt.
+Denn es ist für ihn eine Dummheit.
+Er kann es nicht erkennen,
+weil man es nur geistlich beurteilen kann.
+<sup>15</sup>Wer aber geistlich ist,
+beurteilt alles.
+Er selbst aber wird von niemandem beurteilt.
+<sup>16</sup>„Denn wer hat die Gedanken des Herrn erkannt,
+sodass er ihn belehren könnte?“
+Wir aber haben die Gedanken von Christus.
+
+> **Was bedeutet das?**
+> Vers 6: „Reif im Glauben“: Das WEB sagt „full grown“, also erwachsen. Gemeint sind Menschen, die im Glauben gewachsen sind.
+> Vers 8: „Die Herrscher dieser Welt“: Damit sind wohl die Mächtigen gemeint, die Jesus kreuzigen ließen, vor allem die römische Macht. Manche Ausleger denken auch an unsichtbare Mächte.
+> Vers 9 erinnert an Jesaja 64,3 (in manchen Bibeln 64,4) und Jesaja 65,17. Paulus zitiert hier frei. Diese Worte werden oft bei Beerdigungen gelesen: Gott hat für die, die ihn lieben, mehr bereit, als wir uns vorstellen können.
+> Vers 10–12: Gottes Geist hilft uns, Gott zu verstehen. Aus eigener Kraft können wir Gott nicht ganz begreifen.
+> Vers 14: „Der natürliche Mensch“ meint einen Menschen, der nur mit seinem eigenen Verstand urteilt, ohne Gottes Geist.
+> Vers 16 zitiert Jesaja 40,13.
+> Vers 15–16 heißt nicht, dass Christen besser sind als andere oder über allem stehen. Im nächsten Kapitel tadelt Paulus die Korinther gerade dafür, dass sie sich für besonders geistlich halten.
+
+## 1. Korinther – Kapitel 3
+#### Gott lässt wachsen
+
+---
+
+### Wie kleine Kinder (Vers 1–4)
+
+<sup>1</sup>Brüder,
+ich konnte nicht zu euch reden
+wie zu geistlichen Menschen,
+sondern wie zu fleischlichen,
+wie zu kleinen Kindern in Christus.
+<sup>2</sup>Ich habe euch Milch zu trinken gegeben,
+keine feste Nahrung.
+Denn ihr wart noch nicht bereit dafür.
+Ja, ihr seid auch jetzt noch nicht bereit,
+<sup>3</sup>denn ihr seid immer noch fleischlich.
+Denn solange es Eifersucht, Streit und Spaltungen unter euch gibt,
+seid ihr dann nicht fleischlich?
+Und lebt ihr dann nicht wie gewöhnliche Menschen?
+<sup>4</sup>Denn wenn einer sagt:
+„Ich gehöre zu Paulus“,
+und ein anderer:
+„Ich gehöre zu Apollos“,
+seid ihr dann nicht fleischlich?
+
+> **Was bedeutet das?**
+> „Fleischlich“ heißt hier: so denken und handeln, als ob es Gott nicht gäbe. Es meint nicht den Körper.
+> Vers 1–2: Paulus vergleicht die Korinther mit kleinen Kindern, die noch Milch brauchen. Sie halten sich für sehr weise, aber ihr Streit zeigt: Sie sind im Glauben noch nicht erwachsen.
+
+---
+
+### Gott lässt wachsen (Vers 5–9)
+
+<sup>5</sup>Wer ist denn Apollos?
+Und wer ist Paulus?
+Diener sind sie,
+durch die ihr zum Glauben gekommen seid,
+jeder so,
+wie der Herr es ihm gegeben hat.
+<sup>6</sup>Ich habe gepflanzt.
+Apollos hat gegossen.
+Aber Gott hat wachsen lassen.
+<sup>7</sup>Darum ist weder der etwas,
+der pflanzt,
+noch der,
+der gießt,
+sondern Gott,
+der wachsen lässt.
+<sup>8</sup>Der pflanzt und der gießt,
+sind eins.
+Aber jeder wird seinen eigenen Lohn bekommen,
+so wie er gearbeitet hat.
+<sup>9</sup>Denn wir sind Gottes Mitarbeiter.
+Ihr seid Gottes Ackerfeld,
+Gottes Bau.
+
+> **Was bedeutet das?**
+> Vers 6: Ein Bild aus der Landwirtschaft. Menschen können pflanzen und gießen. Aber dass etwas wächst, liegt nicht in ihrer Hand. Das schenkt Gott.
+> Vers 9: Die Gemeinde gehört nicht Paulus oder Apollos, sondern Gott.
+> Für heute: Niemand in der Kirche muss alles allein schaffen. Und keiner soll sich für wichtiger halten als die anderen.
+
+---
+
+### Das Fundament ist Jesus Christus (Vers 10–17)
+
+<sup>10</sup>Durch die Gnade Gottes,
+die mir gegeben wurde,
+habe ich wie ein weiser Baumeister
+das Fundament gelegt.
+Ein anderer baut darauf weiter.
+Aber jeder soll darauf achten,
+wie er darauf baut.
+<sup>11</sup>Denn niemand kann ein anderes Fundament legen
+als das,
+das gelegt ist:
+Jesus Christus.
+<sup>12</sup>Wenn aber jemand auf dieses Fundament baut,
+mit Gold,
+Silber,
+kostbaren Steinen,
+Holz,
+Heu
+oder Stroh,
+<sup>13</sup>dann wird das Werk jedes Einzelnen sichtbar werden.
+Denn der Tag wird es zeigen,
+weil er mit Feuer offenbar wird.
+Und das Feuer wird prüfen,
+wie das Werk jedes Einzelnen ist.
+<sup>14</sup>Wenn das Werk bleibt,
+das jemand darauf gebaut hat,
+wird er Lohn bekommen.
+<sup>15</sup>Wenn das Werk von jemandem verbrennt,
+wird er Verlust haben.
+Er selbst aber wird gerettet werden,
+aber wie durch Feuer hindurch.
+<sup>16</sup>Wisst ihr nicht,
+dass ihr Gottes Tempel seid
+und dass der Geist Gottes in euch wohnt?
+<sup>17</sup>Wenn jemand den Tempel Gottes zerstört,
+wird Gott ihn zerstören.
+Denn der Tempel Gottes ist heilig,
+und dieser Tempel seid ihr.
+
+> **Was bedeutet das?**
+> Vers 11: Das Fundament der Kirche ist Jesus Christus. Alles andere baut darauf auf.
+> Vers 12–15: „Der Tag“ meint den Tag, an dem Gott alles beurteilt. Was gut gebaut ist, bleibt. Was schlecht gebaut ist, verbrennt. Aber der Mensch selbst wird gerettet. Gottes Gnade ist größer als unsere Fehler.
+> Vers 15: Die katholische Kirche sieht in diesem Vers einen Hinweis auf das „Fegefeuer“, eine Reinigung nach dem Tod. Evangelische und orthodoxe Christen verstehen den Vers meist anders. Sicher ist: Paulus spricht hier von der Prüfung der Arbeit in der Gemeinde.
+> Vers 16–17: „Ihr seid Gottes Tempel“: Hier ist die ganze Gemeinde gemeint. Wer die Gemeinde durch Streit zerstört, handelt gegen Gott.
+
+---
+
+### Alles gehört euch (Vers 18–23)
+
+<sup>18</sup>Niemand soll sich selbst betrügen.
+Wenn jemand unter euch meint,
+er sei weise in dieser Welt,
+dann soll er ein Narr werden,
+damit er weise wird.
+<sup>19</sup>Denn die Weisheit dieser Welt
+ist bei Gott Dummheit.
+Denn es steht geschrieben:
+„Er fängt die Weisen in ihrer eigenen List.“
+<sup>20</sup>Und wieder:
+„Der Herr kennt die Gedanken der Weisen.
+Er weiß,
+dass sie nichts wert sind.“
+<sup>21</sup>Darum soll sich niemand eines Menschen rühmen.
+Denn alles gehört euch:
+<sup>22</sup>Paulus
+oder Apollos
+oder Kephas,
+die Welt,
+das Leben
+oder der Tod,
+Gegenwärtiges
+oder Zukünftiges.
+Alles gehört euch.
+<sup>23</sup>Ihr aber gehört Christus,
+und Christus gehört Gott.
+
+> **Was bedeutet das?**
+> Vers 19 zitiert Hiob 5,13. Vers 20 zitiert Psalm 94,11.
+> Vers 18: „Ein Narr werden“ heißt: sich nicht für klüger halten als Gott.
+> Vers 21–23: Die Korinther sagen: „Ich gehöre zu Paulus“ oder „zu Apollos“. Paulus dreht das um: Nicht ihr gehört den Lehrern, sondern die Lehrer gehören euch. Und ihr gehört Christus.
