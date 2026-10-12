@@ -135099,3 +135099,157 @@ lasst uns von hier weggehen!“
 > Vers 28: „Der Vater ist größer als ich“: Darüber haben Christen viel nachgedacht. Viele verstehen es so: Als Mensch ordnet sich Jesus dem Vater unter, und doch ist er mit dem Vater eins (10,30).
 > Vers 31: „Lasst uns von hier weggehen“: Trotzdem folgen noch weitere Reden in Kapitel 15–17.
 > Für heute: Wer Angst hat, darf sich an Jesu Worte halten: „Euer Herz soll nicht erschrecken.“
+
+## Johannes – Kapitel 15
+#### Der Weinstock und die Reben
+
+---
+
+### „Ich bin der wahre Weinstock“ (Vers 1–8)
+
+<sup>1</sup>„Ich bin der wahre Weinstock,
+und mein Vater ist der Weinbauer.
+<sup>2</sup>Jede Rebe an mir,
+die keine Frucht bringt,
+nimmt er weg.
+Und jede Rebe,
+die Frucht bringt,
+schneidet er zurecht,
+damit sie noch mehr Frucht bringt.
+<sup>3</sup>Ihr seid schon rein
+durch das Wort,
+das ich zu euch gesagt habe.
+<sup>4</sup>Bleibt in mir,
+und ich bleibe in euch.
+Eine Rebe kann aus sich selbst keine Frucht bringen,
+wenn sie nicht am Weinstock bleibt.
+So könnt auch ihr keine Frucht bringen,
+wenn ihr nicht in mir bleibt.
+<sup>5</sup>Ich bin der Weinstock,
+ihr seid die Reben.
+Wer in mir bleibt
+und ich in ihm,
+der bringt viel Frucht.
+Denn ohne mich könnt ihr nichts tun.
+<sup>6</sup>Wer nicht in mir bleibt,
+wird weggeworfen wie eine Rebe
+und verdorrt.
+Man sammelt die Reben,
+wirft sie ins Feuer,
+und sie verbrennen.
+<sup>7</sup>Wenn ihr in mir bleibt
+und meine Worte in euch bleiben,
+dann bittet,
+um was ihr wollt,
+und es wird euch geschehen.
+<sup>8</sup>Dadurch wird mein Vater verherrlicht,
+dass ihr viel Frucht bringt.
+So werdet ihr meine Jünger sein.“
+
+> **Was bedeutet das?**
+> „Ich bin der wahre Weinstock“ ist das siebte und letzte „Ich bin“-Wort bei Johannes.
+> Im Alten Testament ist der Weinberg oder Weinstock ein Bild für Israel (Jesaja 5,1–7; Psalm 80,9–17, in manchen Bibeln 80,8–16). Jesus nimmt dieses Bild auf.
+> Wichtig: „Der wahre Weinstock“ heißt nicht, dass Israel ein „falscher“ Weinstock ist. Jesus selbst ist Jude und gehört zu Israel. Er sagt: Wer mit mir verbunden ist, hat Leben.
+> Vers 2: Ein Weinbauer schneidet die Reben zurück, damit sie mehr Trauben tragen. Das tut manchmal weh, dient aber dem Wachstum.
+> Vers 5: „Ohne mich könnt ihr nichts tun“: Wie eine Rebe ihren Saft vom Weinstock bekommt, so bekommen Christen ihre Kraft von Jesus.
+> Vers 6: Das ist ein Bild aus dem Weinbau: Abgeschnittene, trockene Reben wurden verbrannt.
+> Wichtig: Dieser Vers wurde in der Kirchengeschichte auch herangezogen, um die Verbrennung von „Ketzern“ zu rechtfertigen. Das war schreckliches Unrecht. Der Vers spricht in einem Bild davon, was ohne Verbindung zu Jesus geschieht. Er gibt niemandem das Recht, Menschen Gewalt anzutun.
+> Für heute: „Bleibt in mir“: Glaube ist eine lebendige Verbindung, keine Leistung.
+
+---
+
+### „Ihr seid meine Freunde“ (Vers 9–17)
+
+<sup>9</sup>„Wie mich der Vater geliebt hat,
+so habe auch ich euch geliebt.
+Bleibt in meiner Liebe!
+<sup>10</sup>Wenn ihr meine Gebote haltet,
+bleibt ihr in meiner Liebe,
+so wie ich die Gebote meines Vaters gehalten habe
+und in seiner Liebe bleibe.
+<sup>11</sup>Das habe ich euch gesagt,
+damit meine Freude in euch bleibt
+und eure Freude vollkommen wird.
+<sup>12</sup>Das ist mein Gebot:
+Liebt einander,
+so wie ich euch geliebt habe.
+<sup>13</sup>Es gibt keine größere Liebe,
+als wenn jemand sein Leben für seine Freunde hingibt.
+<sup>14</sup>Ihr seid meine Freunde,
+wenn ihr tut,
+was ich euch gebiete.
+<sup>15</sup>Ich nenne euch nicht mehr Knechte,
+denn ein Knecht weiß nicht,
+was sein Herr tut.
+Ich habe euch Freunde genannt,
+denn ich habe euch alles mitgeteilt,
+was ich von meinem Vater gehört habe.
+<sup>16</sup>Nicht ihr habt mich erwählt,
+sondern ich habe euch erwählt
+und euch dazu bestimmt,
+dass ihr hingeht und Frucht bringt
+und dass eure Frucht bleibt.
+Dann wird euch der Vater alles geben,
+worum ihr ihn in meinem Namen bittet.
+<sup>17</sup>Das gebiete ich euch:
+dass ihr einander liebt.“
+
+> **Was bedeutet das?**
+> Vers 11: Jesus will, dass seine Jünger Freude haben, eine Freude, die bleibt.
+> Vers 13: „Es gibt keine größere Liebe“: Jesus spricht von seinem eigenen Tod. Er gibt sein Leben für die, die er liebt.
+> Wichtig: Dieser Vers heißt nicht, dass man sein Leben wegwerfen soll. Er beschreibt, wie groß Jesu Liebe ist. Wer an Selbsttötung denkt, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+> Vers 15: Jesus nennt seine Jünger „Freunde“, nicht Knechte. Das ist eine große Ehre. Abraham wurde „Freund Gottes“ genannt (Jesaja 41,8).
+> Vers 16: Gott sucht die Menschen zuerst. Glaube beginnt mit Gottes Ruf.
+
+---
+
+### Der Hass der Welt (Vers 18–27)
+
+<sup>18</sup>„Wenn die Welt euch hasst,
+dann wisst,
+dass sie mich vor euch gehasst hat.
+<sup>19</sup>Wenn ihr von der Welt wärt,
+würde die Welt euch als ihr Eigenes lieben.
+Weil ihr aber nicht von der Welt seid,
+sondern ich euch aus der Welt erwählt habe,
+darum hasst euch die Welt.
+<sup>20</sup>Denkt an das Wort,
+das ich euch gesagt habe:
+‚Ein Knecht ist nicht größer als sein Herr.‘
+Wenn sie mich verfolgt haben,
+werden sie auch euch verfolgen.
+Wenn sie mein Wort gehalten haben,
+werden sie auch eures halten.
+<sup>21</sup>Aber das alles werden sie euch antun
+wegen meines Namens,
+weil sie den nicht kennen,
+der mich gesandt hat.
+<sup>22</sup>Wenn ich nicht gekommen wäre
+und nicht zu ihnen geredet hätte,
+hätten sie keine Sünde.
+Jetzt aber haben sie keine Entschuldigung für ihre Sünde.
+<sup>23</sup>Wer mich hasst,
+hasst auch meinen Vater.
+<sup>24</sup>Wenn ich nicht die Werke unter ihnen getan hätte,
+die kein anderer getan hat,
+hätten sie keine Sünde.
+Jetzt aber haben sie sie gesehen
+und doch mich und meinen Vater gehasst.
+<sup>25</sup>Aber es musste sich das Wort erfüllen,
+das in ihrem Gesetz geschrieben steht:
+‚Sie haben mich ohne Grund gehasst.‘
+<sup>26</sup>Wenn der Beistand kommt,
+den ich euch vom Vater senden werde,
+der Geist der Wahrheit,
+der vom Vater ausgeht,
+der wird über mich Zeugnis ablegen.
+<sup>27</sup>Und auch ihr werdet Zeugnis ablegen,
+weil ihr von Anfang an bei mir gewesen seid.“
+
+> **Was bedeutet das?**
+> „Die Welt“ bedeutet bei Johannes oft: alles, was sich gegen Gott stellt. Es meint keine bestimmte Gruppe von Menschen.
+> Vers 18–21: Die ersten Christen erlebten Ablehnung und Verfolgung. Jesus bereitet seine Jünger darauf vor.
+> Wichtig: Diese Verse geben Christen nicht das Recht, sich überlegen zu fühlen oder andere als „die Welt“ abzustempeln. Gott liebt die Welt (3,16).
+> Vers 25 zitiert Psalm 35,19 oder Psalm 69,5 (in manchen Bibeln 69,4). „Gesetz“ meint hier die ganze Heilige Schrift Israels.
+> Vers 26: Der Heilige Geist „geht vom Vater aus“. Über die genaue Herkunft des Geistes haben die Kirchen lange gestritten: Die westlichen Kirchen bekennen im Glaubensbekenntnis, dass der Geist „vom Vater und vom Sohn“ ausgeht. Die orthodoxen Kirchen sagen nur „vom Vater“. Heute sprechen die Kirchen darüber im Dialog.
+> Für heute: Christen sollen von Jesus erzählen, freundlich und ehrlich, auch wenn sie dafür abgelehnt werden.
