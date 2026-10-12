@@ -1,0 +1,172 @@
+{
+ "nr": 48,
+ "code": "GAL",
+ "kuerzel": "Gal",
+ "name": "Galater",
+ "name_englisch": "Galatians",
+ "testament": "neues-testament",
+ "kapitel": 6,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Es gibt nur eine gute Nachricht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Galater",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Galatien war eine Landschaft und römische Provinz in der heutigen Türkei. Paulus hatte dort Gemeinden gegründet. Die meisten Christen dort kamen nicht aus dem Judentum, sondern aus anderen Völkern.\nNach Paulus kamen andere christliche Lehrer nach Galatien. Sie sagten: Wer zu Christus gehören will, muss sich auch beschneiden lassen und das jüdische Gesetz halten. Paulus widerspricht leidenschaftlich. Er sagt: Menschen aus allen Völkern gehören zu Gott durch den Glauben an Christus, ohne zuerst Juden werden zu müssen.\nDer Brief wurde wohl um das Jahr 50 bis 55 nach Christus geschrieben. Er ist einer der ältesten Briefe von Paulus.\n**Ein sehr wichtiger Hinweis:** Im Galaterbrief streiten Christen mit Christen. Es geht um die Frage, was Menschen aus anderen Völkern tun müssen, wenn sie Christen werden. Der Brief ist keine Abrechnung mit dem Judentum. Paulus war selbst Jude und blieb es. Leider wurde dieser Brief in der Geschichte oft benutzt, um das Judentum schlechtzumachen, als ob jüdischer Glaube nur aus Regeln bestünde. Das ist falsch und ungerecht. Für Juden ist die Tora bis heute ein Geschenk Gottes und ein Weg des Lebens.\nDer Galaterbrief hat 6 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 5,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\nein Apostel,\nnicht von Menschen beauftragt\nund nicht durch einen Menschen,\nsondern durch Jesus Christus\nund durch Gott, den Vater,\nder ihn von den Toten auferweckt hat,",
+       "englisch_web": "Paul, an apostle—not from men, nor through man, but through Jesus Christ, and God the Father, who raised him from the dead—"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "und alle Brüder,\ndie bei mir sind,\nschreiben an die Gemeinden in Galatien:",
+       "englisch_web": "and all the brothers who are with me, to the assemblies of Galatia:"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, dem Vater,\nund unserem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God the Father and our Lord Jesus Christ,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er hat sich selbst für unsere Sünden hingegeben,\num uns aus dieser gegenwärtigen bösen Zeit zu retten,\nnach dem Willen unseres Gottes und Vaters.",
+       "englisch_web": "who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father—"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ihm sei die Ehre in alle Ewigkeit.\nAmen.",
+       "englisch_web": "to whom be the glory forever and ever. Amen."
+      }
+     ],
+     "erklaerung": "Vers 1: Paulus betont gleich am Anfang: Mein Auftrag kommt nicht von Menschen, sondern direkt von Gott. Manche in Galatien zweifelten daran.\nVers 4: Jesus hat sein Leben für uns gegeben. Er rettet uns aus einer Welt, in der das Böse noch Macht hat."
+    },
+    {
+     "ueberschrift": "Keine andere gute Nachricht",
+     "vers_von": 6,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 6,
+       "leichte_sprache": "Ich wundere mich,\ndass ihr euch so schnell abwendet\nvon dem,\nder euch durch die Gnade von Christus berufen hat,\nhin zu einer anderen „guten Nachricht“.",
+       "englisch_web": "I marvel that you are so quickly deserting him who called you in the grace of Christ to a different “good news”,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Aber es gibt keine andere „gute Nachricht“.\nEs gibt nur einige,\ndie euch verwirren\nund die gute Nachricht von Christus verdrehen wollen.",
+       "englisch_web": "but there isn’t another “good news.” Only there are some who trouble you and want to pervert the Good News of Christ."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber selbst wenn wir\noder ein Engel aus dem Himmel\neuch eine andere „gute Nachricht“ verkünden würden\nals die,\ndie wir euch verkündet haben,\nder soll verflucht sein.",
+       "englisch_web": "But even though we, or an angel from heaven, should preach to you any “good news” other than that which we preached to you, let him be cursed."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wie wir schon gesagt haben,\nso sage ich jetzt noch einmal:\nWenn jemand euch eine andere „gute Nachricht“ verkündet\nals die,\ndie ihr empfangen habt,\nder soll verflucht sein.",
+       "englisch_web": "As we have said before, so I now say again: if any man preaches to you any “good news” other than that which you received, let him be cursed."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Suche ich denn jetzt die Zustimmung von Menschen\noder von Gott?\nOder will ich Menschen gefallen?\nWenn ich noch Menschen gefallen wollte,\nwäre ich kein Diener von Christus.",
+       "englisch_web": "For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ."
+      }
+     ],
+     "erklaerung": "Paulus schreibt diesen Brief ohne den sonst üblichen Dank am Anfang. Er ist aufgewühlt und besorgt.\nVers 6–7: Für Paulus ist die gute Nachricht klar: Gott nimmt Menschen aus Gnade an. Wer zusätzliche Bedingungen stellt, verändert diese Botschaft.\nVers 8–9: „Verflucht“ ist ein sehr hartes Wort. Es ist eine feste Formel, die das Urteil Gott überlässt. Es ist keine Erlaubnis, Menschen zu verfolgen oder ihnen zu schaden."
+    },
+    {
+     "ueberschrift": "Wie Paulus berufen wurde",
+     "vers_von": 11,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Brüder,\nich erkläre euch:\nDie gute Nachricht,\ndie ich verkündet habe,\nkommt nicht von Menschen.",
+       "englisch_web": "But I make known to you, brothers, concerning the Good News which was preached by me, that it is not according to man."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn ich habe sie nicht von einem Menschen empfangen,\nund niemand hat sie mich gelehrt.\nSondern sie ist mir durch eine Offenbarung von Jesus Christus gekommen.",
+       "englisch_web": "For I didn’t receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn ihr habt gehört,\nwie ich früher im jüdischen Glauben gelebt habe.\nIch habe die Gemeinde Gottes über alle Maßen verfolgt\nund sie zu zerstören versucht.",
+       "englisch_web": "For you have heard of my way of living in time past in the Jews’ religion, how that beyond measure I persecuted the assembly of God and ravaged it."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Im jüdischen Glauben war ich vielen Gleichaltrigen in meinem Volk voraus.\nIch war ganz besonders eifrig\nfür die Überlieferungen meiner Väter.",
+       "englisch_web": "I advanced in the Jews’ religion beyond many of my own age among my countrymen, being more exceedingly zealous for the traditions of my fathers."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Aber Gott hatte mich schon vom Mutterleib an ausgewählt\nund durch seine Gnade berufen.\nAls es ihm gefiel,",
+       "englisch_web": "But when it was the good pleasure of God, who separated me from my mother’s womb and called me through his grace,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "mir seinen Sohn zu offenbaren,\ndamit ich ihn unter den Völkern verkünde,\nda habe ich nicht sofort Menschen um Rat gefragt.",
+       "englisch_web": "to reveal his Son in me, that I might preach him among the Gentiles, I didn’t immediately confer with flesh and blood,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ich bin auch nicht nach Jerusalem hinaufgegangen\nzu denen,\ndie vor mir Apostel waren.\nSondern ich ging nach Arabien\nund kehrte dann nach Damaskus zurück.",
+       "englisch_web": "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia. Then I returned to Damascus."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Erst nach drei Jahren ging ich nach Jerusalem hinauf,\num Petrus kennenzulernen.\nIch blieb fünfzehn Tage bei ihm.",
+       "englisch_web": "Then after three years I went up to Jerusalem to visit Peter, and stayed with him fifteen days."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Von den anderen Aposteln sah ich keinen,\naußer Jakobus,\nden Bruder des Herrn.",
+       "englisch_web": "But of the other apostles I saw no one except James, the Lord’s brother."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Was ich euch schreibe,\nseht,\nvor Gott:\nIch lüge nicht.",
+       "englisch_web": "Now about the things which I write to you, behold, before God, I’m not lying."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Danach kam ich in die Gegenden von Syrien und Kilikien.",
+       "englisch_web": "Then I came to the regions of Syria and Cilicia."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Den Gemeinden in Judäa,\ndie zu Christus gehören,\nwar ich persönlich noch unbekannt.",
+       "englisch_web": "I was still unknown by face to the assemblies of Judea which were in Christ,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sie hörten nur:\n„Der Mann,\nder uns früher verfolgt hat,\nverkündet jetzt den Glauben,\nden er früher zerstören wollte.“",
+       "englisch_web": "but they only heard, “He who once persecuted us now preaches the faith that he once tried to destroy.”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Und sie lobten Gott wegen mir.",
+       "englisch_web": "So they glorified God in me."
+      }
+     ],
+     "erklaerung": "Vers 13–14: Paulus war ein sehr eifriger Jude. Er verfolgte die Christen, weil er dachte, er müsse Gottes Ehre verteidigen.\nVers 15–16: Paulus beschreibt seine Berufung mit Worten, die an die Berufung der Propheten erinnern (zum Beispiel Jeremia 1,5 und Jesaja 49,1). Er versteht sich nicht als jemand, der seine Religion gewechselt hat, sondern als jemand, den Gott beauftragt hat, den Völkern von Jesus zu erzählen.\nVers 17: „Arabien“ meint wohl das Gebiet östlich und südlich von Damaskus, das Reich der Nabatäer.\nVers 18–19: Paulus traf Petrus und Jakobus, den Bruder von Jesus. Für „Bruder“ gibt es in den Kirchen verschiedene Deutungen (vergleiche 1. Korinther 9,5).\nVers 23–24: Die Gemeinden lobten Gott, weil aus dem Verfolger ein Verkünder wurde. Gott kann Menschen verändern."
+    }
+   ]
+  }
+ ]
+}
