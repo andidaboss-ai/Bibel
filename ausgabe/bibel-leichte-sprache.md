@@ -144328,3 +144328,117 @@ sondern besiege das Böse durch das Gute.
 > Vers 20 zitiert Sprüche 25,21–22. „Glühende Kohlen auf seinen Kopf“ ist ein altes Bild. Viele Ausleger verstehen es so: Die Güte beschämt den Feind und kann ihn zum Umdenken bringen.
 > Vers 21: Gewalt und Hass werden nicht mit noch mehr Gewalt und Hass überwunden, sondern mit Gutem.
 > Wichtig: Diese Verse heißen nicht, dass man Gewalt einfach aushalten muss. Wer Gewalt erlebt, darf sich schützen und Hilfe holen: Polizei 110, Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00.
+
+## Römer – Kapitel 13
+#### Staat, Liebe und der neue Tag
+
+---
+
+### Christen und der Staat (Vers 1–7)
+
+<sup>1</sup>Jeder Mensch soll sich den übergeordneten Behörden unterordnen.
+Denn es gibt keine Macht,
+die nicht von Gott kommt.
+Und die Mächte,
+die es gibt,
+sind von Gott eingesetzt.
+<sup>2</sup>Wer sich also der Behörde widersetzt,
+der widersetzt sich der Ordnung Gottes.
+Und wer sich widersetzt,
+wird sein Urteil empfangen.
+<sup>3</sup>Denn die Herrscher sind nicht zum Schrecken da
+für gute Taten,
+sondern für böse.
+Willst du keine Angst vor der Behörde haben?
+Dann tu das Gute,
+und du wirst von ihr Lob bekommen.
+<sup>4</sup>Denn sie ist Gottes Dienerin,
+dir zum Guten.
+Wenn du aber Böses tust,
+dann fürchte dich.
+Denn sie trägt das Schwert nicht umsonst.
+Sie ist Gottes Dienerin,
+die den bestraft,
+der Böses tut.
+<sup>5</sup>Darum muss man sich unterordnen,
+nicht nur wegen der Strafe,
+sondern auch wegen des Gewissens.
+<sup>6</sup>Darum zahlt ihr auch Steuern.
+Denn die Beamten sind Diener Gottes,
+die ständig diese Aufgabe erfüllen.
+<sup>7</sup>Gebt darum jedem,
+was ihr ihm schuldet:
+Steuern,
+wem ihr Steuern schuldet,
+Zoll,
+wem ihr Zoll schuldet,
+Respekt,
+wem ihr Respekt schuldet,
+Ehre,
+wem ihr Ehre schuldet.
+
+> **Wichtiger Hinweis**
+> Diese Verse gehören zu den Bibelstellen, die am meisten missbraucht wurden. Herrscher und auch Kirchen haben damit oft verlangt, dass man jeder Regierung gehorchen muss, auch einer ungerechten. In der Zeit des Nationalsozialismus haben sich viele Christen so verhalten. Das war ein schwerer Fehler.
+
+> **Was bedeutet das?**
+> Paulus schreibt an Christen in Rom, unter dem Kaiser. Er will sagen: Christen sind keine Unruhestifter. Ordnung, Gesetze und Steuern sind gut für das Zusammenleben.
+> Vers 3–4: Paulus beschreibt, wozu ein Staat da ist: Er soll das Gute schützen und das Böse bestrafen. Ein Staat ist „Gottes Dienerin, dir zum Guten“. Daran muss sich jeder Staat messen lassen.
+> Wenn ein Staat selbst schweres Unrecht tut, gilt auch ein anderes Bibelwort. Die Apostel sagten vor dem Hohen Rat: „Wir müssen Gott mehr gehorchen als den Menschen“ (Apostelgeschichte 5,29). In Offenbarung 13 wird ein Staat, der sich wie Gott aufspielt, als Ungeheuer beschrieben.
+> Die Barmer Theologische Erklärung von 1934 sagt: Der Staat hat die Aufgabe, für Recht und Frieden zu sorgen. Er darf aber nicht das ganze Leben der Menschen beherrschen wollen.
+> Für heute: In einer Demokratie gehört es auch zur Verantwortung, zu wählen, mitzureden und gegen Unrecht friedlich einzutreten.
+
+---
+
+### Liebe ist die Erfüllung des Gesetzes (Vers 8–10)
+
+<sup>8</sup>Bleibt niemandem etwas schuldig,
+außer dass ihr einander liebt.
+Denn wer den Nächsten liebt,
+hat das Gesetz erfüllt.
+<sup>9</sup>Denn die Gebote:
+„Du sollst nicht die Ehe brechen“,
+„Du sollst nicht morden“,
+„Du sollst nicht stehlen“,
+„Du sollst nicht begehren“,
+und welche anderen Gebote es noch gibt,
+sie sind alle in diesem einen Satz zusammengefasst:
+„Du sollst deinen Nächsten lieben wie dich selbst.“
+<sup>10</sup>Die Liebe tut dem Nächsten nichts Böses.
+Darum ist die Liebe die Erfüllung des Gesetzes.
+
+> **Was bedeutet das?**
+> Vers 8: Liebe ist eine Schuld, die man nie ganz abbezahlt. Man bleibt sie einander immer schuldig.
+> Vers 9 zitiert Gebote aus den Zehn Geboten (2. Mose 20,13–17; 5. Mose 5,17–21) und das Gebot der Nächstenliebe aus 3. Mose 19,18. Auch Jesus nannte dieses Gebot eines der wichtigsten (Markus 12,31).
+> Vers 10: Wer wirklich liebt, schadet niemandem. So erfüllt er, was Gott im Gesetz will.
+
+---
+
+### Der Tag ist nahe (Vers 11–14)
+
+<sup>11</sup>Tut das,
+weil ihr wisst,
+was für eine Zeit es ist:
+Es ist schon Zeit,
+aus dem Schlaf aufzuwachen.
+Denn die Rettung ist uns jetzt näher
+als damals,
+als wir zum Glauben kamen.
+<sup>12</sup>Die Nacht ist weit fortgeschritten,
+und der Tag ist nahe.
+Lasst uns darum die Taten der Dunkelheit ablegen
+und die Waffen des Lichts anziehen.
+<sup>13</sup>Lasst uns anständig leben,
+wie am Tag:
+nicht in Saufgelagen und Trunkenheit,
+nicht in sexueller Zügellosigkeit und Ausschweifung,
+nicht in Streit und Eifersucht.
+<sup>14</sup>Sondern zieht den Herrn Jesus Christus an.
+Und sorgt nicht so für das Fleisch,
+dass seine Begierden erwachen.
+
+> **Was bedeutet das?**
+> Vers 11–12: Paulus vergleicht die Zeit mit dem frühen Morgen. Die Nacht geht zu Ende, Gottes Tag kommt. Darum sollen Christen wach sein und bewusst leben.
+> Vers 12: „Waffen des Lichts“ ist ein Bild. Es meint gute Taten, Wahrheit und Liebe, keine echten Waffen.
+> Vers 14: „Christus anziehen“ ist auch ein Bild: so mit Christus verbunden leben, dass man ihm ähnlich wird, wie man ein neues Kleid anzieht.
+> Vers 13–14: Diese Verse haben den Kirchenvater Augustinus im Jahr 386 so bewegt, dass er sein Leben änderte.
+> Für heute: Wer Probleme mit Alkohol hat, findet Hilfe bei Suchtberatungsstellen und bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
