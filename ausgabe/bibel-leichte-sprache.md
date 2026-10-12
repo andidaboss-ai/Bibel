@@ -138705,3 +138705,159 @@ noch einige Tage zu bleiben.
 > Vers 44–46: Das ist wie ein zweites Pfingsten. Gott schenkt seinen Geist auch Menschen, die keine Juden sind. Gott selbst öffnet die Tür, noch bevor sie getauft sind.
 > Vers 47: „Wer kann das verbieten?“ Niemand darf Menschen ausschließen, die Gott angenommen hat.
 > Für heute: Die Kirche ist für alle Menschen da, aus allen Völkern und Kulturen.
+
+## Apostelgeschichte – Kapitel 11
+#### Zum ersten Mal heißen sie „Christen“
+
+---
+
+### Petrus erklärt sich in Jerusalem (Vers 1–18)
+
+<sup>1</sup>Die Apostel und die Brüder in Judäa hörten,
+dass auch die Heiden das Wort Gottes angenommen hatten.
+<sup>2</sup>Als Petrus nach Jerusalem hinaufkam,
+stritten die aus der Beschneidung mit ihm.
+<sup>3</sup>Sie sagten:
+„Du bist zu unbeschnittenen Männern hineingegangen
+und hast mit ihnen gegessen!“
+<sup>4</sup>Da fing Petrus an
+und erklärte ihnen alles der Reihe nach.
+Er sagte:
+<sup>5</sup>„Ich war in der Stadt Joppe
+und betete.
+Da sah ich in einer Verzückung eine Vision:
+Etwas kam herab,
+wie ein großes Leinentuch,
+an vier Ecken vom Himmel herabgelassen.
+Es kam bis zu mir.
+<sup>6</sup>Ich schaute genau hin
+und betrachtete es.
+Da sah ich die vierfüßigen Tiere der Erde,
+wilde Tiere,
+Kriechtiere
+und Vögel des Himmels.
+<sup>7</sup>Ich hörte auch eine Stimme,
+die zu mir sagte:
+‚Steh auf, Petrus,
+schlachte und iss!‘
+<sup>8</sup>Aber ich sagte:
+‚Auf keinen Fall, Herr!
+Denn noch nie ist etwas Unheiliges oder Unreines
+in meinen Mund gekommen.‘
+<sup>9</sup>Aber die Stimme antwortete mir ein zweites Mal vom Himmel:
+‚Was Gott rein gemacht hat,
+das nenne du nicht unrein.‘
+<sup>10</sup>Das geschah dreimal.
+Dann wurde alles wieder in den Himmel hinaufgezogen.
+<sup>11</sup>Und siehe:
+Sofort standen drei Männer vor dem Haus,
+in dem ich war.
+Sie waren aus Cäsarea zu mir geschickt worden.
+<sup>12</sup>Der Geist sagte mir,
+dass ich mit ihnen gehen soll,
+ohne Unterschiede zu machen.
+Auch diese sechs Brüder hier sind mit mir gekommen.
+Und wir sind in das Haus des Mannes gegangen.
+<sup>13</sup>Er erzählte uns,
+wie er den Engel in seinem Haus stehen sah.
+Der Engel sagte zu ihm:
+‚Schick nach Joppe
+und lass Simon holen,
+der Petrus genannt wird.
+<sup>14</sup>Er wird dir Worte sagen,
+durch die du gerettet wirst,
+du und dein ganzes Haus.‘
+<sup>15</sup>Als ich anfing zu reden,
+kam der Heilige Geist auf sie,
+so wie am Anfang auf uns.
+<sup>16</sup>Da erinnerte ich mich an das Wort des Herrn,
+wie er gesagt hatte:
+‚Johannes hat mit Wasser getauft,
+ihr aber werdet mit dem Heiligen Geist getauft werden.‘
+<sup>17</sup>Gott hat ihnen also die gleiche Gabe gegeben wie uns,
+als wir an den Herrn Jesus Christus glaubten.
+Wer war ich denn,
+dass ich Gott hätte hindern können?“
+<sup>18</sup>Als sie das hörten,
+wurden sie ruhig.
+Sie lobten Gott
+und sagten:
+„Dann hat Gott also auch den Heiden
+die Umkehr zum Leben geschenkt!“
+
+> **Was bedeutet das?**
+> Vers 2: „Die aus der Beschneidung“ sind jüdische Christen, denen die Tora sehr wichtig war.
+> Vers 3: Der Vorwurf ist: Petrus hat mit Nichtjuden gegessen. Für fromme Juden war das wegen der Reinheitsregeln ein großes Problem.
+> Vers 4: Petrus wird nicht wütend. Er erklärt ruhig, was geschehen ist. So kann man Streit gut lösen.
+> Vers 12: „Ohne Unterschiede zu machen“: Das WEB sagt „without discriminating“. Das Wort „diskriminieren“ kommt aus dem Lateinischen und heißt: unterscheiden, trennen.
+> Vers 16 erinnert an 1,5.
+> Vers 18: Die Gemeinde in Jerusalem hört zu, ändert ihre Meinung und lobt Gott. Das ist ein schönes Beispiel: Man kann gemeinsam Neues lernen.
+> „Heiden“ meint Menschen aus den nichtjüdischen Völkern. Das Wort ist hier keine Beleidigung.
+
+---
+
+### Die Gemeinde in Antiochia (Vers 19–26)
+
+<sup>19</sup>Die,
+die wegen der Verfolgung nach dem Tod von Stephanus
+zerstreut worden waren,
+kamen bis nach Phönizien,
+Zypern und Antiochia.
+Sie verkündeten das Wort aber nur den Juden.
+<sup>20</sup>Unter ihnen waren aber einige Männer aus Zypern und Kyrene.
+Als sie nach Antiochia kamen,
+redeten sie auch zu den Hellenisten
+und verkündeten ihnen die gute Nachricht von Jesus, dem Herrn.
+<sup>21</sup>Die Hand des Herrn war mit ihnen.
+Eine große Zahl von Menschen kam zum Glauben
+und wandte sich dem Herrn zu.
+<sup>22</sup>Die Nachricht davon kam der Gemeinde in Jerusalem zu Ohren.
+Da schickten sie Barnabas nach Antiochia.
+<sup>23</sup>Als er dort ankam
+und die Gnade Gottes sah,
+freute er sich.
+Er ermutigte sie alle,
+mit festem Herzen beim Herrn zu bleiben.
+<sup>24</sup>Denn er war ein guter Mann,
+voll Heiligen Geistes und Glaubens.
+Und viele Menschen kamen zum Herrn dazu.
+<sup>25</sup>Barnabas ging nach Tarsus,
+um Saulus zu suchen.
+<sup>26</sup>Als er ihn gefunden hatte,
+brachte er ihn nach Antiochia.
+Ein ganzes Jahr lang kamen sie mit der Gemeinde zusammen
+und lehrten viele Menschen.
+In Antiochia wurden die Jünger zum ersten Mal „Christen“ genannt.
+
+> **Was bedeutet das?**
+> Vers 19: Phönizien ist das heutige Libanon. Antiochia war eine große Stadt in Syrien, heute Antakya in der Türkei. Es war damals eine der größten Städte im Römischen Reich.
+> Vers 20: Die „Hellenisten“ sind hier griechisch sprechende Menschen. Hier sind wohl auch Nichtjuden gemeint. Viele deutsche Bibeln haben nach anderen Handschriften „Griechen“.
+> Vers 23–24: Barnabas sieht Gottes Gnade und freut sich. Er macht Mut. Er ist ein „guter Mann“.
+> Vers 25–26: Barnabas holt Saulus nach Antiochia. Antiochia wird zum Ausgangspunkt der großen Reisen von Paulus.
+> Vers 26: „Christen“ heißt: Menschen, die zu Christus gehören. Vielleicht war das zuerst ein Spitzname von anderen.
+> Für heute: Eine Gemeinde, in der Menschen verschiedener Herkunft zusammenleben, ist ein Geschenk.
+
+---
+
+### Hilfe für die Christen in Judäa (Vers 27–30)
+
+<sup>27</sup>In diesen Tagen kamen Propheten
+von Jerusalem nach Antiochia hinab.
+<sup>28</sup>Einer von ihnen hieß Agabus.
+Er stand auf
+und kündigte durch den Geist an,
+dass eine große Hungersnot über die ganze Welt kommen würde.
+Sie kam dann auch zur Zeit von Kaiser Claudius.
+<sup>29</sup>Da beschlossen die Jünger,
+dass jeder,
+so viel er konnte,
+den Brüdern in Judäa Hilfe schicken sollte.
+<sup>30</sup>Das taten sie auch.
+Sie schickten die Hilfe durch Barnabas und Saulus
+an die Ältesten.
+
+> **Was bedeutet das?**
+> Vers 28: Claudius war römischer Kaiser von 41 bis 54 nach Christus. In seiner Zeit gab es mehrere schwere Hungersnöte in verschiedenen Gegenden. „Die ganze Welt“ meint hier das Römische Reich.
+> Vers 29: Die junge Gemeinde in Antiochia hilft der Gemeinde in Jerusalem. Jeder gibt, so viel er kann.
+> Vers 30: „Die Ältesten“ waren die Leiter der Gemeinde in Jerusalem.
+> Für heute: Christen helfen einander über Grenzen hinweg. So arbeiten bis heute kirchliche Hilfswerke in aller Welt.
