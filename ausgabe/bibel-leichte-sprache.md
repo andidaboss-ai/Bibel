@@ -132017,3 +132017,302 @@ und die Engel Gottes hinaufsteigen und herabsteigen
 > Vers 48: Unter dem Feigenbaum saß man gern, um die Heilige Schrift zu lesen und zu beten.
 > Vers 51 erinnert an Jakobs Traum von der Himmelsleiter (1. Mose 28,12). Jesus ist die Verbindung zwischen Himmel und Erde. Das Wort „von jetzt an“ fehlt in den ältesten Handschriften.
 > Für heute: Zweifel und Fragen sind erlaubt. Jesus nimmt auch Skeptiker ernst.
+
+## Johannes – Kapitel 2
+#### Wasser wird zu Wein
+
+---
+
+### Die Hochzeit in Kana (Vers 1–12)
+
+<sup>1</sup>Am dritten Tag war eine Hochzeit
+in Kana in Galiläa.
+Die Mutter von Jesus war dort.
+<sup>2</sup>Auch Jesus und seine Jünger
+waren zur Hochzeit eingeladen.
+<sup>3</sup>Als der Wein ausging,
+sagte die Mutter von Jesus zu ihm:
+„Sie haben keinen Wein mehr.“
+<sup>4</sup>Jesus sagte zu ihr:
+„Frau, was hat das mit dir und mir zu tun?
+Meine Stunde ist noch nicht gekommen.“
+<sup>5</sup>Seine Mutter sagte zu den Dienern:
+„Was er euch sagt,
+das tut.“
+<sup>6</sup>Dort standen sechs Wasserkrüge aus Stein.
+Sie waren für die Reinigung bestimmt,
+wie es bei den Juden üblich war.
+In jeden passten zwei oder drei Metreten.
+<sup>7</sup>Jesus sagte zu den Dienern:
+„Füllt die Krüge mit Wasser!“
+Und sie füllten sie bis zum Rand.
+<sup>8</sup>Er sagte zu ihnen:
+„Schöpft jetzt etwas heraus
+und bringt es dem Leiter des Festes.“
+Und sie brachten es ihm.
+<sup>9</sup>Der Leiter des Festes kostete das Wasser,
+das zu Wein geworden war.
+Er wusste nicht, woher der Wein kam.
+Aber die Diener, die das Wasser geschöpft hatten,
+wussten es.
+Da rief der Leiter des Festes den Bräutigam
+<sup>10</sup>und sagte zu ihm:
+„Jeder bringt zuerst den guten Wein auf den Tisch.
+Und wenn die Gäste schon viel getrunken haben,
+dann den schlechteren.
+Du aber hast den guten Wein bis jetzt aufgehoben!“
+<sup>11</sup>Das war das erste Zeichen.
+Jesus tat es in Kana in Galiläa.
+So zeigte er seine Herrlichkeit,
+und seine Jünger glaubten an ihn.
+<sup>12</sup>Danach ging er hinunter nach Kafarnaum,
+er, seine Mutter, seine Brüder und seine Jünger.
+Sie blieben dort einige Tage.
+
+> **Was bedeutet das?**
+> Eine Hochzeit dauerte damals oft eine ganze Woche. Wenn der Wein ausging, war das eine große Schande für die Familie des Bräutigams.
+> Vers 4: „Frau“ war damals keine unhöfliche Anrede. Jesus sagt sie auch am Kreuz liebevoll zu seiner Mutter (Johannes 19,26). „Meine Stunde“ meint bei Johannes die Stunde seines Todes und seiner Verherrlichung.
+> Vers 5: Maria vertraut Jesus, auch ohne zu wissen, was er tun wird. „Was er euch sagt, das tut“ ist ein guter Rat für alle Christen.
+> Vers 6: Eine Metrete (WEB: „metretes“) war etwa 39 Liter. Jeder Krug fasste also etwa 80 bis 120 Liter. Zusammen sind das über 500 Liter, eine riesige Menge Wein.
+> Die Krüge waren für die rituelle Reinigung bestimmt, eine gute fromme Sitte. Jesus füllt sie mit neuem Inhalt. Das zeigt: Mit Jesus kommt Gottes Fülle und Freude.
+> Vers 11: Johannes nennt Jesu Wunder „Zeichen“. Sie zeigen, wer Jesus ist.
+> Wichtig: Wein gehört in der Bibel zum Fest. Wer mit Alkohol Probleme hat, ist nicht schlechter als andere. Hilfe gibt es bei Suchtberatungsstellen und Selbsthilfegruppen.
+> Vers 12: Zu den „Brüdern“ Jesu siehe die Kästen bei Lukas 8,19–21: Die Kirchen verstehen das verschieden.
+> Für heute: Jesus feiert mit den Menschen. Er schenkt Freude im Überfluss.
+
+---
+
+### Jesus im Tempel (Vers 13–25)
+
+<sup>13</sup>Das Passafest der Juden war nahe.
+Da ging Jesus hinauf nach Jerusalem.
+<sup>14</sup>Im Tempel fand er Leute,
+die Rinder, Schafe und Tauben verkauften,
+und die Geldwechsler, die dort saßen.
+<sup>15</sup>Er machte eine Peitsche aus Stricken
+und trieb alle aus dem Tempel hinaus,
+auch die Schafe und die Rinder.
+Das Geld der Wechsler schüttete er aus
+und ihre Tische warf er um.
+<sup>16</sup>Zu denen, die Tauben verkauften,
+sagte er:
+„Bringt das hier weg!
+Macht das Haus meines Vaters nicht zu einem Marktplatz!“
+<sup>17</sup>Seine Jünger erinnerten sich,
+dass geschrieben steht:
+„Der Eifer für dein Haus wird mich verzehren.“
+<sup>18</sup>Da antworteten ihm die Juden:
+„Was für ein Zeichen zeigst du uns,
+dass du so etwas tun darfst?“
+<sup>19</sup>Jesus antwortete ihnen:
+„Zerstört diesen Tempel,
+und in drei Tagen will ich ihn wieder aufrichten.“
+<sup>20</sup>Da sagten die Juden:
+„Sechsundvierzig Jahre hat man an diesem Tempel gebaut!
+Und du willst ihn in drei Tagen aufrichten?“
+<sup>21</sup>Er aber meinte den Tempel seines Körpers.
+<sup>22</sup>Als er dann von den Toten auferweckt war,
+erinnerten sich seine Jünger,
+dass er das gesagt hatte.
+Und sie glaubten der Heiligen Schrift
+und dem Wort, das Jesus gesagt hatte.
+<sup>23</sup>Während Jesus beim Passafest in Jerusalem war,
+glaubten viele an seinen Namen,
+weil sie die Zeichen sahen,
+die er tat.
+<sup>24</sup>Aber Jesus vertraute sich ihnen nicht an,
+weil er alle kannte.
+<sup>25</sup>Er brauchte niemanden,
+der ihm etwas über einen Menschen sagte.
+Denn er wusste selbst,
+was im Menschen ist.
+
+> **Was bedeutet das?**
+> Johannes erzählt die Tempelreinigung am Anfang von Jesu Wirken. Die anderen Evangelien erzählen sie am Ende, kurz vor seinem Tod. Johannes ordnet die Ereignisse eher nach ihrer Bedeutung.
+> Im äußeren Vorhof wurden Tiere für die Opfer verkauft. Pilger mussten ihr Geld in Tempelgeld umtauschen. Das war nötig für den Tempeldienst.
+> Jesus handelt wie ein Prophet: Er will, dass der Tempel ein Haus des Gebets bleibt. Er nennt ihn „das Haus meines Vaters“. Er liebt den Tempel.
+> Wichtig: Die Peitsche benutzt Jesus, um die Tiere hinauszutreiben. Johannes erzählt nicht, dass er Menschen geschlagen hat. Diese Stelle rechtfertigt keine Gewalt.
+> Vers 17 zitiert Psalm 69,10 (in manchen Bibeln 69,9).
+> Vers 18 und 20: „Die Juden“ meint hier die Tempelverantwortlichen. Ihre Frage ist berechtigt: Wer gibt dir das Recht? Wichtig: Das jüdische Volk ist damit nicht gemeint.
+> Vers 20: König Herodes der Große hatte den Tempel prächtig ausbauen lassen. Daran wurde schon seit 46 Jahren gebaut.
+> Vers 21: Jesus meint seinen eigenen Körper. Er sagt seinen Tod und seine Auferstehung voraus. In ihm wohnt Gott.
+> Für heute: Christen sagen auch: Unser Körper ist ein Tempel Gottes (1. Korinther 6,19). Darum soll man ihn achten.
+
+## Johannes – Kapitel 3
+#### So sehr hat Gott die Welt geliebt
+
+---
+
+### Jesus und Nikodemus (Vers 1–21)
+
+<sup>1</sup>Unter den Pharisäern war ein Mann namens Nikodemus.
+Er war einer der Leiter der Juden.
+<sup>2</sup>Er kam in der Nacht zu Jesus
+und sagte zu ihm:
+„Rabbi, wir wissen,
+dass du ein Lehrer bist,
+der von Gott gekommen ist.
+Denn niemand kann solche Zeichen tun,
+wie du sie tust,
+wenn Gott nicht mit ihm ist.“
+<sup>3</sup>Jesus antwortete ihm:
+„Ganz sicher, ich sage dir:
+Wenn jemand nicht neu geboren wird,
+kann er das Reich Gottes nicht sehen.“
+<sup>4</sup>Nikodemus sagte zu ihm:
+„Wie kann ein Mensch geboren werden,
+wenn er alt ist?
+Kann er denn ein zweites Mal
+in den Bauch seiner Mutter zurück
+und geboren werden?“
+<sup>5</sup>Jesus antwortete:
+„Ganz sicher, ich sage dir:
+Wenn jemand nicht aus Wasser und Geist geboren wird,
+kann er nicht in das Reich Gottes kommen.
+<sup>6</sup>Was aus dem Fleisch geboren ist,
+das ist Fleisch.
+Und was aus dem Geist geboren ist,
+das ist Geist.
+<sup>7</sup>Wundere dich nicht,
+dass ich dir gesagt habe:
+‚Ihr müsst alle neu geboren werden.‘
+<sup>8</sup>Der Wind weht, wo er will.
+Du hörst sein Rauschen,
+aber du weißt nicht,
+woher er kommt
+und wohin er geht.
+So ist es mit jedem,
+der aus dem Geist geboren ist.“
+<sup>9</sup>Nikodemus antwortete ihm:
+„Wie kann das geschehen?“
+<sup>10</sup>Jesus antwortete ihm:
+„Du bist der Lehrer Israels
+und verstehst das nicht?
+<sup>11</sup>Ganz sicher, ich sage dir:
+Wir reden von dem, was wir wissen.
+Und wir bezeugen, was wir gesehen haben.
+Aber ihr nehmt unser Zeugnis nicht an.
+<sup>12</sup>Wenn ich euch von irdischen Dingen erzähle
+und ihr glaubt nicht,
+wie wollt ihr dann glauben,
+wenn ich euch von himmlischen Dingen erzähle?
+<sup>13</sup>Niemand ist in den Himmel hinaufgestiegen
+außer dem, der aus dem Himmel herabgekommen ist:
+der Menschensohn, der im Himmel ist.
+<sup>14</sup>Wie Mose in der Wüste die Schlange erhöht hat,
+so muss der Menschensohn erhöht werden,
+<sup>15</sup>damit jeder, der an ihn glaubt,
+nicht verloren geht,
+sondern ewiges Leben hat.
+<sup>16</sup>Denn so sehr hat Gott die Welt geliebt,
+dass er seinen einzigen Sohn gab,
+damit jeder, der an ihn glaubt,
+nicht verloren geht,
+sondern ewiges Leben hat.
+<sup>17</sup>Denn Gott hat seinen Sohn nicht in die Welt gesandt,
+um die Welt zu richten,
+sondern damit die Welt durch ihn gerettet wird.
+<sup>18</sup>Wer an ihn glaubt,
+wird nicht gerichtet.
+Wer nicht glaubt,
+ist schon gerichtet,
+weil er nicht an den Namen des einzigen Sohnes Gottes geglaubt hat.
+<sup>19</sup>Und das ist das Gericht:
+Das Licht ist in die Welt gekommen,
+aber die Menschen liebten die Finsternis mehr als das Licht,
+denn ihre Taten waren böse.
+<sup>20</sup>Denn jeder, der Böses tut,
+hasst das Licht
+und kommt nicht zum Licht,
+damit seine Taten nicht aufgedeckt werden.
+<sup>21</sup>Wer aber die Wahrheit tut,
+kommt zum Licht,
+damit sichtbar wird,
+dass seine Taten in Gott getan sind.“
+
+> **Was bedeutet das?**
+> Nikodemus ist ein angesehener Pharisäer und Mitglied des Hohen Rates. Er ist offen und ehrlich interessiert an Jesus. Später setzt er sich für Jesus ein (Johannes 7,50–51) und hilft bei seinem Begräbnis (Johannes 19,39). Er ist ein Beispiel dafür, dass viele jüdische Leiter Jesus mit Respekt begegneten.
+> Vers 2: Er kommt in der Nacht. Vielleicht, weil er in Ruhe reden will. Bei Johannes steht die Nacht auch für das Nicht-Verstehen.
+> Vers 3: „Neu geboren“ (WEB: „born anew“). Das griechische Wort kann auch „von oben geboren“ heißen. Nikodemus versteht es zuerst wörtlich.
+> Vers 5: „Aus Wasser und Geist“: Viele Christen denken dabei an die Taufe. Gemeint ist: Gott selbst schenkt ein neues Leben.
+> Vers 8: Im Griechischen heißt „Wind“ und „Geist“ dasselbe Wort (pneuma). Gottes Geist ist wie der Wind: Man kann ihn nicht festhalten, aber man spürt seine Wirkung.
+> Vers 13: Die Worte „der im Himmel ist“ fehlen in den ältesten Handschriften. Das WEB hat sie.
+> Vers 14: Mose machte in der Wüste eine Schlange aus Bronze. Wer gebissen war und sie ansah, wurde gerettet (4. Mose 21,8–9). „Erhöht werden“ meint bei Johannes: am Kreuz erhöht und zu Gott erhoben werden.
+> Vers 16 ist einer der bekanntesten Verse der Bibel. Er fasst die ganze gute Nachricht zusammen: Gott liebt die Welt, alle Menschen.
+> Vers 17: Gott will retten, nicht verurteilen.
+> Wichtig: Die Frage, was mit Menschen geschieht, die nicht an Jesus glauben, wird in den Kirchen verschieden beantwortet. Viele betonen: Gottes Liebe und Barmherzigkeit sind größer als wir denken. Das Urteil steht Gott allein zu, nicht Menschen.
+> Für heute: Niemand ist zu alt für einen Neuanfang mit Gott.
+
+---
+
+### Johannes der Täufer und Jesus (Vers 22–36)
+
+<sup>22</sup>Danach ging Jesus mit seinen Jüngern in das Land Judäa.
+Er blieb dort mit ihnen
+und taufte.
+<sup>23</sup>Auch Johannes taufte,
+in Änon nahe bei Salim,
+weil dort viel Wasser war.
+Die Leute kamen
+und ließen sich taufen.
+<sup>24</sup>Denn Johannes war noch nicht ins Gefängnis geworfen worden.
+<sup>25</sup>Da entstand ein Streit
+zwischen den Jüngern von Johannes und einigen Juden
+über die Reinigung.
+<sup>26</sup>Sie kamen zu Johannes
+und sagten zu ihm:
+„Rabbi, der Mann,
+der bei dir auf der anderen Seite des Jordans war
+und für den du Zeugnis abgelegt hast,
+sieh,
+der tauft jetzt,
+und alle laufen zu ihm.“
+<sup>27</sup>Johannes antwortete:
+„Ein Mensch kann nichts empfangen,
+wenn es ihm nicht vom Himmel gegeben ist.
+<sup>28</sup>Ihr selbst könnt bezeugen,
+dass ich gesagt habe:
+‚Ich bin nicht der Christus,
+sondern ich bin vor ihm her gesandt.‘
+<sup>29</sup>Wer die Braut hat,
+der ist der Bräutigam.
+Der Freund des Bräutigams aber
+steht dabei und hört ihn.
+Und er freut sich sehr
+über die Stimme des Bräutigams.
+So ist auch meine Freude jetzt vollkommen.
+<sup>30</sup>Er muss größer werden,
+ich aber muss kleiner werden.
+<sup>31</sup>Wer von oben kommt,
+steht über allen.
+Wer von der Erde ist,
+gehört zur Erde
+und redet von der Erde.
+Wer vom Himmel kommt,
+steht über allen.
+<sup>32</sup>Was er gesehen und gehört hat,
+das bezeugt er.
+Und niemand nimmt sein Zeugnis an.
+<sup>33</sup>Wer sein Zeugnis angenommen hat,
+der hat bestätigt,
+dass Gott wahrhaftig ist.
+<sup>34</sup>Denn der, den Gott gesandt hat,
+redet die Worte Gottes.
+Denn Gott gibt den Geist ohne Maß.
+<sup>35</sup>Der Vater liebt den Sohn
+und hat alles in seine Hand gegeben.
+<sup>36</sup>Wer an den Sohn glaubt,
+hat ewiges Leben.
+Wer aber dem Sohn nicht gehorcht,
+wird das Leben nicht sehen,
+sondern der Zorn Gottes bleibt auf ihm.“
+
+> **Was bedeutet das?**
+> Änon bei Salim lag wohl im Jordantal. Der Name Änon bedeutet „Quellen“.
+> Vers 25: „Einige Juden“: Einige Handschriften haben „ein Jude“. Es geht um eine Frage der religiösen Reinigung. Solche Gespräche waren unter frommen Juden üblich.
+> Vers 26: Die Jünger von Johannes sind ein wenig eifersüchtig. Johannes aber nicht.
+> Vers 29: Johannes vergleicht sich mit dem Freund des Bräutigams, der die Hochzeit vorbereitet. Er freut sich, wenn der Bräutigam kommt. Der Bräutigam ist Jesus.
+> Vers 30: „Er muss größer werden, ich aber muss kleiner werden.“ Johannes ist ein Vorbild an Bescheidenheit.
+> Vers 31–36: Man weiß nicht genau, ob hier noch Johannes der Täufer spricht oder ob der Verfasser des Evangeliums erklärt.
+> Vers 36: „Der Zorn Gottes“ meint: Gott lässt das Böse nicht einfach gelten. Wer sich bewusst von Gottes Leben abwendet, bleibt ohne dieses Leben.
+> Wichtig: Diese Verse sind kein Freibrief, andere Menschen zu verurteilen oder ihnen mit Gottes Zorn zu drohen. Das Urteil gehört Gott allein. Und Gott will, dass alle gerettet werden (Vers 17).
