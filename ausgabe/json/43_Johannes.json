@@ -2775,6 +2775,342 @@
      "erklaerung": "Vers 22: Das Fest der Tempelweihe heißt auf Hebräisch „Chanukka“. Es erinnert daran, dass der Tempel im Jahr 164 vor Christus nach seiner Entweihung wieder geweiht wurde. Juden feiern es bis heute im Winter mit dem Anzünden von Lichtern.\nVers 23: Die Halle Salomos war ein überdachter Säulengang am Rand des Tempelplatzes.\nVers 28–29: Ein großer Trost: Niemand kann die, die zu Jesus gehören, aus Gottes Hand reißen.\nVers 30: „Ich und der Vater sind eins.“ Christen sehen darin einen Grund für ihren Glauben an den dreieinigen Gott: Vater, Sohn und Heiliger Geist sind ein Gott.\nVers 31–33: Für die Gegner klingt das wie Gotteslästerung. Nach dem Gesetz wurde Gotteslästerung schwer bestraft (3. Mose 24,16). Ihre Sorge um die Ehre Gottes war ernst.\nVers 34 zitiert Psalm 82,6. Dort werden Richter „Götter“ genannt, weil sie im Auftrag Gottes Recht sprechen. Jesus argumentiert wie ein jüdischer Lehrer.\nVers 35: „Die Schrift kann nicht aufgehoben werden“: Jesus hält die Heilige Schrift Israels für gültig.\nWichtig: „Die Juden“ meint hier Gegner in einer Auseinandersetzung im Tempel. Es ist kein Urteil über das jüdische Volk. Am Ende des Kapitels glauben „viele“ an Jesus (Vers 42)."
     }
    ]
+  },
+  {
+   "kapitel": 11,
+   "titel": "„Ich bin die Auferstehung und das Leben“",
+   "abschnitte": [
+    {
+     "ueberschrift": "Lazarus ist krank",
+     "vers_von": 1,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Ein Mann war krank.\nEr hieß Lazarus\nund kam aus Betanien,\ndem Dorf von Maria und ihrer Schwester Marta.",
+       "englisch_web": "Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Das war die Maria,\ndie den Herrn mit Salböl gesalbt\nund seine Füße mit ihren Haaren getrocknet hat.\nIhr Bruder Lazarus war krank.",
+       "englisch_web": "It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Da schickten die Schwestern jemanden zu Jesus\nund ließen ihm sagen:\n„Herr, sieh,\nder, den du lieb hast,\nist krank.“",
+       "englisch_web": "The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Als Jesus das hörte,\nsagte er:\n„Diese Krankheit führt nicht zum Tod,\nsondern sie dient der Herrlichkeit Gottes.\nDurch sie soll der Sohn Gottes verherrlicht werden.“",
+       "englisch_web": "But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Jesus liebte Marta,\nihre Schwester\nund Lazarus.",
+       "englisch_web": "Now Jesus loved Martha, and her sister, and Lazarus."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Als er hörte,\ndass Lazarus krank war,\nblieb er noch zwei Tage an dem Ort,\nwo er war.",
+       "englisch_web": "When therefore he heard that he was sick, he stayed two days in the place where he was."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Danach sagte er zu den Jüngern:\n„Lasst uns wieder nach Judäa gehen.“",
+       "englisch_web": "Then after this he said to the disciples, “Let’s go into Judea again.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Die Jünger sagten zu ihm:\n„Rabbi, eben erst wollten die Juden dich steinigen.\nUnd du willst wieder dorthin gehen?“",
+       "englisch_web": "The disciples asked him, “Rabbi, the Jews were just trying to stone you. Are you going there again?”"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Jesus antwortete:\n„Hat der Tag nicht zwölf Stunden Licht?\nWer am Tag umhergeht,\nstolpert nicht,\nweil er das Licht dieser Welt sieht.",
+       "englisch_web": "Jesus answered, “Aren’t there twelve hours of daylight? If a man walks in the day, he doesn’t stumble, because he sees the light of this world."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Wer aber in der Nacht umhergeht,\nstolpert,\nweil das Licht nicht in ihm ist.“",
+       "englisch_web": "But if a man walks in the night, he stumbles, because the light isn’t in him.”"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Das sagte er.\nUnd danach sagte er zu ihnen:\n„Unser Freund Lazarus ist eingeschlafen.\nAber ich gehe hin,\num ihn aufzuwecken.“",
+       "englisch_web": "He said these things, and after that, he said to them, “Our friend Lazarus has fallen asleep, but I am going so that I may awake him out of sleep.”"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Da sagten die Jünger:\n„Herr, wenn er schläft,\nwird er gesund werden.“",
+       "englisch_web": "The disciples therefore said, “Lord, if he has fallen asleep, he will recover.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Jesus hatte aber von seinem Tod gesprochen.\nSie aber meinten,\ner spreche vom gewöhnlichen Schlaf.",
+       "englisch_web": "Now Jesus had spoken of his death, but they thought that he spoke of taking rest in sleep."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Da sagte Jesus ihnen offen:\n„Lazarus ist gestorben.",
+       "englisch_web": "So Jesus said to them plainly then, “Lazarus is dead."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Ich bin froh um euretwillen,\ndass ich nicht dort war,\ndamit ihr glaubt.\nAber lasst uns zu ihm gehen.“",
+       "englisch_web": "I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Da sagte Thomas,\nder auch Zwilling genannt wird,\nzu den anderen Jüngern:\n„Lasst uns auch hingehen,\ndamit wir mit ihm sterben.“",
+       "englisch_web": "Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s also go, that we may die with him.”"
+      }
+     ],
+     "erklaerung": "Betanien lag nahe bei Jerusalem. Dort wohnten die Geschwister Marta, Maria und Lazarus. Sie waren Freunde von Jesus.\nVers 2: Johannes erwähnt hier schon die Salbung, die er erst in Kapitel 12 erzählt.\nVers 3: „Der, den du lieb hast“: Die Schwestern wissen, wie nahe Jesus und Lazarus sich stehen.\nVers 6: Jesus wartet zwei Tage. Das ist schwer zu verstehen. Johannes zeigt: Jesus handelt nach Gottes Zeit, nicht nach den Erwartungen der Menschen.\nWichtig: Wenn Gott scheinbar nicht sofort hilft, heißt das nicht, dass er uns nicht liebt. Vers 5 sagt ausdrücklich: Jesus liebte sie.\nVers 8: „Die Juden“ meint hier die Gegner in Jerusalem (vergleiche 10,31). Die Jünger und Lazarus sind selbst Juden.\nVers 11: Christen sprechen vom Tod manchmal wie von einem Schlaf, aus dem Gott aufweckt.\nVers 16: Thomas („Didymus“ heißt griechisch „Zwilling“) ist mutig. Er will mit Jesus gehen, auch in Gefahr."
+    },
+    {
+     "ueberschrift": "Jesus und Marta",
+     "vers_von": 17,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Als Jesus ankam,\nfand er Lazarus schon vier Tage im Grab liegen.",
+       "englisch_web": "So when Jesus came, he found that he had been in the tomb four days already."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Betanien lag nahe bei Jerusalem,\nungefähr fünfzehn Stadien entfernt.",
+       "englisch_web": "Now Bethany was near Jerusalem, about fifteen stadia away."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Viele Juden waren zu Marta und Maria gekommen,\num sie wegen ihres Bruders zu trösten.",
+       "englisch_web": "Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Als Marta hörte,\ndass Jesus kam,\nging sie ihm entgegen.\nMaria aber blieb im Haus sitzen.",
+       "englisch_web": "Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Marta sagte zu Jesus:\n„Herr, wenn du hier gewesen wärst,\nwäre mein Bruder nicht gestorben.",
+       "englisch_web": "Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Aber auch jetzt weiß ich:\nAlles, worum du Gott bittest,\nwird Gott dir geben.“",
+       "englisch_web": "Even now I know that whatever you ask of God, God will give you.”"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Jesus sagte zu ihr:\n„Dein Bruder wird auferstehen.“",
+       "englisch_web": "Jesus said to her, “Your brother will rise again.”"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Marta sagte zu ihm:\n„Ich weiß,\ndass er auferstehen wird\nbei der Auferstehung am letzten Tag.“",
+       "englisch_web": "Martha said to him, “I know that he will rise again in the resurrection at the last day.”"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Jesus sagte zu ihr:\n„Ich bin die Auferstehung und das Leben.\nWer an mich glaubt,\nwird leben,\nauch wenn er stirbt.",
+       "englisch_web": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Und jeder, der lebt und an mich glaubt,\nwird niemals sterben.\nGlaubst du das?“",
+       "englisch_web": "Whoever lives and believes in me will never die. Do you believe this?”"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Sie sagte zu ihm:\n„Ja, Herr.\nIch glaube,\ndass du der Christus bist,\nder Sohn Gottes,\nder in die Welt kommen soll.“",
+       "englisch_web": "She said to him, “Yes, Lord. I have come to believe that you are the Christ, God’s Son, he who comes into the world.”"
+      }
+     ],
+     "erklaerung": "Vers 17: Vier Tage im Grab: Nach einer jüdischen Vorstellung, die später aufgeschrieben wurde, bleibt die Seele drei Tage in der Nähe des Toten. Nach vier Tagen war für alle ganz sicher, dass Lazarus tot war.\nVers 18: Fünfzehn Stadien sind knapp drei Kilometer.\nVers 19: Viele Juden kommen, um die Schwestern zu trösten. Trauernde zu besuchen war (und ist) im Judentum eine wichtige gute Tat. Hier ist „die Juden“ ganz freundlich gemeint: Es sind Freunde und Nachbarn.\nVers 21: Marta sagt ehrlich, was sie denkt, auch ihre Enttäuschung. Man darf Gott alles sagen, auch Klage.\nVers 24: Marta glaubt an die Auferstehung am Ende der Zeit. Das glaubten auch die Pharisäer.\nVers 25: „Ich bin die Auferstehung und das Leben“ ist das fünfte „Ich bin“-Wort. Diese Worte werden oft bei Beerdigungen gelesen.\nVers 27: Martas Bekenntnis ist eines der stärksten im ganzen Evangelium. Eine Frau spricht es aus."
+    },
+    {
+     "ueberschrift": "Jesus weint",
+     "vers_von": 28,
+     "vers_bis": 37,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 28,
+       "leichte_sprache": "Nachdem sie das gesagt hatte,\nging sie weg\nund rief heimlich ihre Schwester Maria.\nSie sagte:\n„Der Lehrer ist da\nund ruft dich.“",
+       "englisch_web": "When she had said this, she went away and called Mary, her sister, secretly, saying, “The Teacher is here and is calling you.”"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Als Maria das hörte,\nstand sie schnell auf\nund ging zu ihm.",
+       "englisch_web": "When she heard this, she arose quickly and went to him."
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Jesus war noch nicht in das Dorf gekommen.\nEr war noch an dem Ort,\nwo Marta ihn getroffen hatte.",
+       "englisch_web": "Now Jesus had not yet come into the village, but was in the place where Martha met him."
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "Die Juden,\ndie bei Maria im Haus waren und sie trösteten,\nsahen, dass Maria schnell aufstand und hinausging.\nSie folgten ihr,\ndenn sie dachten:\n„Sie geht zum Grab,\num dort zu weinen.“",
+       "englisch_web": "Then the Jews who were with her in the house and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.”"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Als Maria dorthin kam,\nwo Jesus war,\nund ihn sah,\nfiel sie ihm zu Füßen\nund sagte zu ihm:\n„Herr, wenn du hier gewesen wärst,\nwäre mein Bruder nicht gestorben.“",
+       "englisch_web": "Therefore when Mary came to where Jesus was and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.”"
+      },
+      {
+       "vers": 33,
+       "leichte_sprache": "Als Jesus sah,\nwie sie weinte\nund wie auch die Juden weinten,\ndie mit ihr gekommen waren,\nwar er im Innersten erschüttert\nund tief bewegt.",
+       "englisch_web": "When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit and was troubled,"
+      },
+      {
+       "vers": 34,
+       "leichte_sprache": "Er sagte:\n„Wo habt ihr ihn hingelegt?“\nSie sagten zu ihm:\n„Herr, komm und sieh!“",
+       "englisch_web": "and said, “Where have you laid him?” They told him, “Lord, come and see.”"
+      },
+      {
+       "vers": 35,
+       "leichte_sprache": "Jesus weinte.",
+       "englisch_web": "Jesus wept."
+      },
+      {
+       "vers": 36,
+       "leichte_sprache": "Da sagten die Juden:\n„Seht, wie lieb er ihn hatte!“",
+       "englisch_web": "The Jews therefore said, “See how much affection he had for him!”"
+      },
+      {
+       "vers": 37,
+       "leichte_sprache": "Einige von ihnen aber sagten:\n„Er hat doch dem Blinden die Augen geöffnet.\nKonnte er nicht auch verhindern,\ndass dieser starb?“",
+       "englisch_web": "Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?”"
+      }
+     ],
+     "erklaerung": "Vers 33: Das WEB sagt „groaned in the spirit“. Das griechische Wort beschreibt tiefe innere Erregung, vielleicht auch Zorn über die Macht des Todes.\nVers 35: „Jesus weinte“ ist der kürzeste Vers der Bibel. Jesus weint mit den Trauernden, obwohl er weiß, dass er Lazarus auferwecken wird. Er nimmt ihren Schmerz ernst.\nVers 36: Die Juden, die mit Maria trauern, sehen Jesu Liebe. Auch hier ist „die Juden“ ganz positiv gemeint.\nFür heute: Trauer ist keine Schwäche und kein Mangel an Glauben. Auch Jesus hat geweint. Wer trauert, darf weinen. Hilfe gibt es bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222, und bei Trauergruppen in Gemeinden und Hospizvereinen."
+    },
+    {
+     "ueberschrift": "Jesus weckt Lazarus auf",
+     "vers_von": 38,
+     "vers_bis": 44,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 38,
+       "leichte_sprache": "Jesus war wieder innerlich erschüttert\nund kam zum Grab.\nEs war eine Höhle,\nund ein Stein lag davor.",
+       "englisch_web": "Jesus therefore, again groaning in himself, came to the tomb. Now it was a cave, and a stone lay against it."
+      },
+      {
+       "vers": 39,
+       "leichte_sprache": "Jesus sagte:\n„Nehmt den Stein weg!“\nMarta, die Schwester des Toten,\nsagte zu ihm:\n„Herr, er riecht schon.\nEr ist ja schon vier Tage tot.“",
+       "englisch_web": "Jesus said, “Take away the stone.” Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.”"
+      },
+      {
+       "vers": 40,
+       "leichte_sprache": "Jesus sagte zu ihr:\n„Habe ich dir nicht gesagt:\nWenn du glaubst,\nwirst du die Herrlichkeit Gottes sehen?“",
+       "englisch_web": "Jesus said to her, “Didn’t I tell you that if you believed, you would see God’s glory?”"
+      },
+      {
+       "vers": 41,
+       "leichte_sprache": "Da nahmen sie den Stein weg.\nJesus blickte nach oben\nund sagte:\n„Vater, ich danke dir,\ndass du mich erhört hast.",
+       "englisch_web": "So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes and said, “Father, I thank you that you listened to me."
+      },
+      {
+       "vers": 42,
+       "leichte_sprache": "Ich weiß,\ndass du mich immer erhörst.\nAber wegen der Menge,\ndie hier herumsteht,\nsage ich es,\ndamit sie glauben,\ndass du mich gesandt hast.“",
+       "englisch_web": "I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.”"
+      },
+      {
+       "vers": 43,
+       "leichte_sprache": "Nachdem er das gesagt hatte,\nrief er mit lauter Stimme:\n„Lazarus, komm heraus!“",
+       "englisch_web": "When he had said this, he cried with a loud voice, “Lazarus, come out!”"
+      },
+      {
+       "vers": 44,
+       "leichte_sprache": "Da kam der Tote heraus.\nSeine Hände und Füße waren mit Binden umwickelt,\nund sein Gesicht war mit einem Tuch umhüllt.\nJesus sagte zu ihnen:\n„Befreit ihn\nund lasst ihn gehen!“",
+       "englisch_web": "He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus said to them, “Free him, and let him go.”"
+      }
+     ],
+     "erklaerung": "Gräber waren damals oft Höhlen im Felsen, mit einem großen Stein davor.\nVers 41–42: Jesus betet laut, damit die Menschen verstehen: Die Kraft kommt von Gott, dem Vater.\nVers 43: Jesus ruft Lazarus beim Namen, wie der gute Hirte seine Schafe (10,3).\nVers 44: Lazarus wird wieder lebendig, aber er wird später wieder sterben. Es ist ein Zeichen für die Auferstehung, die Jesus selbst erleben wird und allen schenken will.\n„Befreit ihn“: Die Menschen sollen mithelfen, Lazarus von den Grabtüchern zu befreien.\nViele Ausleger zählen dies als siebtes und größtes Zeichen im Johannesevangelium."
+    },
+    {
+     "ueberschrift": "Der Beschluss, Jesus zu töten",
+     "vers_von": 45,
+     "vers_bis": 57,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 45,
+       "leichte_sprache": "Viele von den Juden,\ndie zu Maria gekommen waren\nund gesehen hatten,\nwas Jesus getan hatte,\nglaubten an ihn.",
+       "englisch_web": "Therefore many of the Jews who came to Mary and saw what Jesus did believed in him."
+      },
+      {
+       "vers": 46,
+       "leichte_sprache": "Einige von ihnen aber gingen zu den Pharisäern\nund erzählten ihnen,\nwas Jesus getan hatte.",
+       "englisch_web": "But some of them went away to the Pharisees and told them the things which Jesus had done."
+      },
+      {
+       "vers": 47,
+       "leichte_sprache": "Da riefen die obersten Priester und die Pharisäer\nden Hohen Rat zusammen\nund sagten:\n„Was sollen wir tun?\nDieser Mann tut viele Zeichen.",
+       "englisch_web": "The chief priests therefore and the Pharisees gathered a council, and said, “What are we doing? For this man does many signs."
+      },
+      {
+       "vers": 48,
+       "leichte_sprache": "Wenn wir ihn so weitermachen lassen,\nwerden alle an ihn glauben.\nDann werden die Römer kommen\nund uns unseren Ort\nund unser Volk wegnehmen.“",
+       "englisch_web": "If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.”"
+      },
+      {
+       "vers": 49,
+       "leichte_sprache": "Einer von ihnen aber,\nKajaphas,\nder in diesem Jahr Hoherpriester war,\nsagte zu ihnen:\n„Ihr versteht überhaupt nichts.",
+       "englisch_web": "But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all,"
+      },
+      {
+       "vers": 50,
+       "leichte_sprache": "Ihr bedenkt nicht,\ndass es besser für uns ist,\nwenn ein Mensch für das Volk stirbt,\nals wenn das ganze Volk zugrunde geht.“",
+       "englisch_web": "nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.”"
+      },
+      {
+       "vers": 51,
+       "leichte_sprache": "Das sagte er aber nicht von sich aus.\nWeil er in diesem Jahr Hoherpriester war,\nsagte er prophetisch voraus,\ndass Jesus für das Volk sterben würde,",
+       "englisch_web": "Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation,"
+      },
+      {
+       "vers": 52,
+       "leichte_sprache": "und nicht nur für das Volk,\nsondern auch,\num die verstreuten Kinder Gottes\nzu einer Einheit zu sammeln.",
+       "englisch_web": "and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad."
+      },
+      {
+       "vers": 53,
+       "leichte_sprache": "Von diesem Tag an\nbeschlossen sie,\nihn zu töten.",
+       "englisch_web": "So from that day forward they took counsel that they might put him to death."
+      },
+      {
+       "vers": 54,
+       "leichte_sprache": "Darum ging Jesus nicht mehr öffentlich unter den Juden umher.\nEr ging von dort weg\nin die Gegend nahe der Wüste,\nin eine Stadt, die Efraim heißt.\nDort blieb er mit seinen Jüngern.",
+       "englisch_web": "Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples."
+      },
+      {
+       "vers": 55,
+       "leichte_sprache": "Das Passafest der Juden war nahe.\nViele Leute vom Land zogen schon vor dem Passa nach Jerusalem hinauf,\num sich zu reinigen.",
+       "englisch_web": "Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves."
+      },
+      {
+       "vers": 56,
+       "leichte_sprache": "Sie suchten Jesus\nund sagten zueinander,\nals sie im Tempel standen:\n„Was meint ihr?\nKommt er wohl nicht zum Fest?“",
+       "englisch_web": "Then they sought for Jesus and spoke with one another as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?”"
+      },
+      {
+       "vers": 57,
+       "leichte_sprache": "Die obersten Priester und die Pharisäer\nhatten nämlich befohlen:\nWer weiß, wo er ist,\nsoll es melden,\ndamit sie ihn festnehmen können.",
+       "englisch_web": "Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him."
+      }
+     ],
+     "erklaerung": "Vers 45: Viele Juden glauben an Jesus. Johannes zeigt das immer wieder.\nVers 48: „Unser Ort“ meint wohl den Tempel. Die Leiter haben Angst: Wenn eine Bewegung um Jesus entsteht, könnten die Römer eingreifen und alles zerstören. Diese Angst war nicht unbegründet. Im Jahr 70 zerstörten die Römer tatsächlich den Tempel.\nVers 49–50: Kajaphas war von etwa 18 bis 36 nach Christus Hoherpriester. Er denkt politisch: Lieber einer stirbt als viele.\nVers 51–52: Johannes sieht darin eine ungewollte Prophezeiung: Jesus stirbt wirklich „für“ alle, für Israel und für die ganze Welt.\nWichtig: Diesen Beschluss fasste eine kleine Gruppe von Mächtigen in einer politisch gefährlichen Lage, unter römischer Besatzung. Das jüdische Volk war nicht beteiligt. Und gleichzeitig suchen viele Menschen im Tempel Jesus (Vers 56). Die Kirche lehrt klar: Man darf den Tod Jesu nicht den Juden zur Last legen (Nostra aetate, 1965).\nVers 55: Vor dem Passafest musste man sich rituell reinigen."
+    }
+   ]
   }
  ]
 }
