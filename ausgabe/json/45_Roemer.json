@@ -1,0 +1,221 @@
+{
+ "nr": 45,
+ "code": "ROM",
+ "kuerzel": "Röm",
+ "name": "Römer",
+ "name_englisch": "Romans",
+ "testament": "neues-testament",
+ "kapitel": 16,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Die gute Nachricht ist eine Kraft Gottes",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Römer",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Der Römerbrief ist ein Brief des Apostels Paulus an die Christen in Rom. Paulus schrieb ihn wohl um das Jahr 56 oder 57 nach Christus, vermutlich in Korinth. Er war noch nie in Rom gewesen, wollte aber bald dorthin kommen (vergleiche Apostelgeschichte 19,21 und 28).\nDie Gemeinde in Rom bestand aus Christen jüdischer Herkunft und aus Christen, die aus anderen Völkern kamen. Paulus erklärt ihnen ausführlich, was die gute Nachricht von Jesus bedeutet: Gott nimmt alle Menschen an, Juden und Nichtjuden, nicht wegen ihrer Leistung, sondern aus Gnade, durch den Glauben.\nDer Römerbrief ist einer der wichtigsten Texte des Christentums. Er hat Menschen wie Augustinus und Martin Luther tief geprägt. Über einzelne Stellen haben die Kirchen lange gestritten. Heute sind sie sich in vielem einig, zum Beispiel in der „Gemeinsamen Erklärung zur Rechtfertigungslehre“ von 1999.\n**Ein wichtiger Hinweis:** In den Kapiteln 9 bis 11 schreibt Paulus ausführlich über Israel. Er sagt: Gott hat sein Volk nicht verstoßen. Seine Gaben und seine Berufung sind unwiderruflich. Diese Kapitel sind heute die Grundlage dafür, dass die Kirchen den bleibenden Bund Gottes mit dem jüdischen Volk anerkennen.\nPaulus schreibt manchmal schwierige und lange Sätze. Wir teilen sie in kurze Sätze auf, lassen aber nichts weg.\nDer Römerbrief hat 16 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß an die Gemeinde in Rom",
+     "vers_von": 1,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\nein Knecht von Jesus Christus,\nberufen zum Apostel,\nausgesondert für die gute Nachricht Gottes.",
+       "englisch_web": "Paul, a servant of Jesus Christ, called to be an apostle, set apart for the Good News of God,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Diese gute Nachricht hat Gott schon vorher versprochen,\ndurch seine Propheten in den heiligen Schriften.",
+       "englisch_web": "which he promised before through his prophets in the holy Scriptures,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Sie handelt von seinem Sohn.\nEr wurde als Mensch aus der Nachkommenschaft Davids geboren.",
+       "englisch_web": "concerning his Son, who was born of the offspring of David according to the flesh,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Durch den Geist der Heiligkeit\nwurde er mit Macht als Sohn Gottes eingesetzt,\ndurch die Auferstehung von den Toten:\nJesus Christus, unser Herr.",
+       "englisch_web": "who was declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Durch ihn haben wir Gnade und das Apostelamt empfangen,\num für seinen Namen\nunter allen Völkern\nden Gehorsam des Glaubens zu wecken.",
+       "englisch_web": "through whom we received grace and apostleship for obedience of faith among all the nations for his name’s sake;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Zu ihnen gehört auch ihr.\nAuch ihr seid berufen,\nzu Jesus Christus zu gehören.",
+       "englisch_web": "among whom you are also called to belong to Jesus Christ;"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "An alle in Rom,\ndie Gott liebt\nund die berufen sind,\nHeilige zu sein:\nGnade sei mit euch und Friede\nvon Gott, unserem Vater,\nund von Jesus Christus, dem Herrn.",
+       "englisch_web": "to all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Damals begann ein Brief mit dem Namen des Absenders und einem Gruß. Paulus macht daraus schon ein kleines Glaubensbekenntnis.\nVers 1: „Knecht“ heißt: Paulus gehört ganz zu Jesus und dient ihm.\nVers 2: Die gute Nachricht ist nichts völlig Neues. Gott hat sie schon in der Bibel Israels versprochen.\nVers 3: „Als Mensch“: Das WEB sagt „nach dem Fleisch“. Jesus war ein Nachkomme von König David, also Jude.\nVers 7: „Heilige“ sind alle Christen. Heilig heißt: zu Gott gehörend.\n„Gnade und Friede“: Gnade ist das griechische Grußwort, Friede (Schalom) das hebräische. Paulus verbindet beide."
+    },
+    {
+     "ueberschrift": "Paulus möchte nach Rom kommen",
+     "vers_von": 8,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Zuerst danke ich meinem Gott\ndurch Jesus Christus für euch alle.\nDenn von eurem Glauben spricht man in der ganzen Welt.",
+       "englisch_web": "First, I thank my God through Jesus Christ for all of you, that your faith is proclaimed throughout the whole world."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Gott ist mein Zeuge.\nIch diene ihm mit meinem Geist\nin der guten Nachricht von seinem Sohn.\nEr weiß,\nwie ich immer ohne Unterlass in meinen Gebeten an euch denke.",
+       "englisch_web": "For God is my witness, whom I serve in my spirit in the Good News of his Son, how unceasingly I make mention of you always in my prayers,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich bitte darum,\ndass es mir endlich gelingt,\nnach Gottes Willen zu euch zu kommen.",
+       "englisch_web": "requesting, if by any means now at last I may be prospered by the will of God to come to you."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn ich sehne mich danach,\neuch zu sehen.\nIch möchte euch eine geistliche Gabe weitergeben,\ndamit ihr gestärkt werdet.",
+       "englisch_web": "For I long to see you, that I may impart to you some spiritual gift, to the end that you may be established;"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Das heißt:\nIch möchte bei euch mit euch zusammen ermutigt werden,\njeder durch den Glauben des anderen,\ndurch euren und durch meinen.",
+       "englisch_web": "that is, that I with you may be encouraged in you, each of us by the other’s faith, both yours and mine."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Brüder,\nihr sollt wissen:\nIch habe mir oft vorgenommen,\nzu euch zu kommen.\nAber bis jetzt wurde ich daran gehindert.\nIch wollte auch bei euch Frucht bringen,\nso wie bei den anderen Völkern.",
+       "englisch_web": "Now I don’t desire to have you unaware, brothers, that I often planned to come to you (and was hindered so far), that I might have some fruit among you also, even as among the rest of the Gentiles."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Ich bin es allen schuldig,\nden Griechen und den Fremden,\nden Klugen und den Unverständigen.",
+       "englisch_web": "I am debtor both to Greeks and to foreigners, both to the wise and to the foolish."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Darum bin ich bereit,\nso viel an mir liegt,\nauch euch in Rom die gute Nachricht zu verkünden.",
+       "englisch_web": "So as much as is in me, I am eager to preach the Good News to you also who are in Rome."
+      }
+     ],
+     "erklaerung": "Vers 12: Paulus will nicht nur geben, sondern auch empfangen. Glaube stärkt sich gegenseitig.\nVers 14: „Griechen und Fremde“: Das WEB sagt „foreigners“. Gemeint sind alle Menschen, gebildet oder nicht, aus allen Kulturen. Paulus fühlt sich allen verpflichtet."
+    },
+    {
+     "ueberschrift": "Die Kraft der guten Nachricht",
+     "vers_von": 16,
+     "vers_bis": 17,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn ich schäme mich nicht für die gute Nachricht von Christus.\nDenn sie ist eine Kraft Gottes,\ndie jeden rettet,\nder glaubt,\nzuerst die Juden\nund auch die Griechen.",
+       "englisch_web": "For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes, for the Jew first, and also for the Greek."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Denn in ihr wird die Gerechtigkeit Gottes offenbart,\naus Glauben zum Glauben.\nWie geschrieben steht:\n„Der Gerechte aber wird aus Glauben leben.“",
+       "englisch_web": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”"
+      }
+     ],
+     "erklaerung": "Vers 16–17 sind wie eine Überschrift über den ganzen Brief.\n„Zuerst die Juden“: Für Paulus hat Israel einen besonderen Platz. Die gute Nachricht kommt aus Israel und gilt zuerst Israel.\nVers 17 zitiert Habakuk 2,4. „Gerechtigkeit Gottes“ heißt: Gott macht Menschen gerecht. Er schenkt ihnen eine gute Beziehung zu sich. Das geschieht durch den Glauben, das heißt durch Vertrauen auf Gott.\nDieser Vers war für Martin Luther besonders wichtig. Er wurde zu einem Kern der Reformation."
+    },
+    {
+     "ueberschrift": "Alle Menschen brauchen Gott",
+     "vers_von": 18,
+     "vers_bis": 32,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 18,
+       "leichte_sprache": "Denn der Zorn Gottes wird vom Himmel her offenbart\ngegen alle Gottlosigkeit und Ungerechtigkeit der Menschen,\ndie die Wahrheit durch Ungerechtigkeit unterdrücken.",
+       "englisch_web": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn was man von Gott wissen kann,\nist unter ihnen offenbar.\nGott hat es ihnen offenbart.",
+       "englisch_web": "because that which is known of God is revealed in them, for God revealed it to them."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Denn seit der Erschaffung der Welt\nkann man Gottes unsichtbares Wesen\nan seinen Werken erkennen und deutlich sehen:\nseine ewige Kraft und seine Göttlichkeit.\nDarum haben sie keine Entschuldigung.",
+       "englisch_web": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity, that they may be without excuse."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn sie kannten Gott,\naber sie ehrten ihn nicht als Gott\nund dankten ihm nicht.\nSondern ihr Denken wurde nichtig,\nund ihr unverständiges Herz wurde finster.",
+       "englisch_web": "Because knowing God, they didn’t glorify him as God, and didn’t give thanks, but became vain in their reasoning, and their senseless heart was darkened."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Sie behaupteten,\nweise zu sein,\nund wurden zu Narren.",
+       "englisch_web": "Professing themselves to be wise, they became fools,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Sie tauschten die Herrlichkeit des unvergänglichen Gottes\ngegen Bilder,\ndie aussehen wie vergängliche Menschen,\nwie Vögel,\nvierfüßige Tiere\nund Kriechtiere.",
+       "englisch_web": "and traded the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, four-footed animals, and creeping things."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Darum überließ Gott sie\nden Begierden ihrer Herzen,\nder Unreinheit,\nsodass sie ihre Körper untereinander entehrten.",
+       "englisch_web": "Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves;"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Sie tauschten die Wahrheit Gottes gegen die Lüge.\nSie verehrten das Geschöpf\nund dienten ihm statt dem Schöpfer.\nEr sei gepriesen in Ewigkeit.\nAmen.",
+       "englisch_web": "who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Darum überließ Gott sie\nschändlichen Leidenschaften.\nDenn ihre Frauen vertauschten den natürlichen Verkehr\nmit dem widernatürlichen.",
+       "englisch_web": "For this reason, God gave them up to vile passions. For their women changed the natural function into that which is against nature."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Ebenso verließen auch die Männer\nden natürlichen Verkehr mit der Frau\nund entbrannten in ihrer Begierde zueinander.\nMänner taten mit Männern,\nwas sich nicht gehört.\nUnd sie empfingen an sich selbst\ndie Strafe,\ndie ihr Irrtum verdiente.",
+       "englisch_web": "Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Weil sie es nicht für richtig hielten,\nGott zu erkennen,\nüberließ Gott sie einem verkehrten Denken,\nsodass sie tun,\nwas sich nicht gehört.",
+       "englisch_web": "Even as they refused to have God in their knowledge, God gave them up to a reprobate mind, to do those things which are not fitting;"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Sie sind voll von aller Ungerechtigkeit,\nsexueller Unmoral,\nBosheit,\nHabgier\nund Gemeinheit.\nSie sind voll von Neid,\nMord,\nStreit,\nBetrug\nund schlechten Gewohnheiten.\nSie sind heimliche Verleumder,",
+       "englisch_web": "being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil habits, secret slanderers,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "üble Nachredner,\nGott verhasst,\nfrech,\nhochmütig,\nAngeber,\nerfinderisch im Bösen,\nungehorsam gegen ihre Eltern,",
+       "englisch_web": "backbiters, hateful to God, insolent, arrogant, boastful, inventors of evil things, disobedient to parents,"
+      },
+      {
+       "vers": 31,
+       "leichte_sprache": "unverständig,\ntreulos,\nlieblos\nund unbarmherzig.",
+       "englisch_web": "without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;"
+      },
+      {
+       "vers": 32,
+       "leichte_sprache": "Sie kennen die Ordnung Gottes:\nWer so etwas tut,\nverdient den Tod.\nTrotzdem tun sie es nicht nur selbst,\nsondern finden es auch gut,\nwenn andere es tun.",
+       "englisch_web": "who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them."
+      }
+     ],
+     "erklaerung": "Vers 18–32: Paulus beschreibt, wie die Welt aussieht, wenn Menschen Gott nicht ehren: Sie machen sich eigene Götter, und daraus folgt viel Unrecht. „Zorn Gottes“ meint: Gott nimmt das Böse ernst. Er lässt die Menschen die Folgen ihres Handelns spüren („Gott überließ sie …“).\nVers 20: Man kann Gott in der Schöpfung erkennen, an der Natur und ihrer Größe.\nVers 29–31: Die lange Liste zeigt: Es geht um viele Arten von Unrecht, auch um ganz alltägliche wie Neid, Streit, Klatsch und Hochmut. Niemand kann sich ausnehmen.\nWichtig: Gleich im nächsten Kapitel sagt Paulus: „Darum hast du keine Entschuldigung, du Mensch, der du richtest“ (2,1). Wer auf andere zeigt, ist selbst auch gemeint. Paulus will zeigen: Alle Menschen brauchen Gottes Gnade.\nVers 26–27: Diese Verse sprechen über gleichgeschlechtliche Sexualität. Die Kirchen verstehen sie heute verschieden. Manche Kirchen sehen darin eine bleibende Weisung gegen gleichgeschlechtliche Beziehungen. Andere Kirchen sagen: Paulus hatte vor allem Praktiken seiner Zeit vor Augen, zum Beispiel Ausbeutung und Kult, nicht liebevolle, treue Partnerschaften, wie wir sie heute kennen. Über diese Frage wird in vielen Kirchen ernsthaft gerungen.\nSehr wichtig: Diese Verse geben niemandem das Recht, Menschen zu verachten, zu beschimpfen, zu verfolgen oder Gewalt gegen sie anzuwenden. Jeder Mensch hat die gleiche Würde. Wer wegen seiner sexuellen Orientierung Ausgrenzung oder Gewalt erlebt, findet Hilfe bei der Telefonseelsorge (0800 111 0 111 oder 0800 111 0 222), junge Menschen auch bei der Nummer gegen Kummer (116 111). Im Notfall: 110.\nVers 32: „Verdient den Tod“ beschreibt Gottes Urteil über die Sünde. Es ist keine Aufforderung an Menschen, andere zu töten oder zu bestrafen."
+    }
+   ]
+  }
+ ]
+}
