@@ -144442,3 +144442,157 @@ dass seine Begierden erwachen.
 > Vers 14: „Christus anziehen“ ist auch ein Bild: so mit Christus verbunden leben, dass man ihm ähnlich wird, wie man ein neues Kleid anzieht.
 > Vers 13–14: Diese Verse haben den Kirchenvater Augustinus im Jahr 386 so bewegt, dass er sein Leben änderte.
 > Für heute: Wer Probleme mit Alkohol hat, findet Hilfe bei Suchtberatungsstellen und bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+
+## Römer – Kapitel 14
+#### Die Starken und die Schwachen
+
+---
+
+### Verurteilt einander nicht (Vers 1–12)
+
+<sup>1</sup>Nehmt den an,
+der im Glauben schwach ist,
+aber nicht, um über Meinungen zu streiten.
+<sup>2</sup>Der eine glaubt,
+dass er alles essen darf.
+Der Schwache aber isst nur Gemüse.
+<sup>3</sup>Wer alles isst,
+soll den nicht verachten,
+der nicht alles isst.
+Und wer nicht alles isst,
+soll den nicht verurteilen,
+der alles isst.
+Denn Gott hat ihn angenommen.
+<sup>4</sup>Wer bist du,
+dass du den Diener eines anderen verurteilst?
+Ob er steht oder fällt,
+das geht seinen eigenen Herrn an.
+Ja, er wird stehen bleiben.
+Denn Gott hat die Macht,
+ihn stehen zu lassen.
+<sup>5</sup>Der eine hält einen Tag für wichtiger als andere.
+Der andere hält alle Tage für gleich.
+Jeder soll in seinem eigenen Denken fest überzeugt sein.
+<sup>6</sup>Wer einen Tag beachtet,
+der beachtet ihn für den Herrn.
+Und wer den Tag nicht beachtet,
+der beachtet ihn für den Herrn nicht.
+Wer isst,
+der isst für den Herrn,
+denn er dankt Gott.
+Und wer nicht isst,
+der isst für den Herrn nicht,
+und auch er dankt Gott.
+<sup>7</sup>Denn keiner von uns lebt für sich selbst,
+und keiner stirbt für sich selbst.
+<sup>8</sup>Denn wenn wir leben,
+leben wir für den Herrn.
+Und wenn wir sterben,
+sterben wir für den Herrn.
+Ob wir also leben oder sterben:
+Wir gehören dem Herrn.
+<sup>9</sup>Denn dazu ist Christus gestorben,
+auferstanden und wieder lebendig geworden,
+damit er Herr ist über die Toten und über die Lebenden.
+<sup>10</sup>Du aber,
+warum verurteilst du deinen Bruder?
+Oder du,
+warum verachtest du deinen Bruder?
+Denn wir werden alle vor dem Richterstuhl von Christus stehen.
+<sup>11</sup>Denn es steht geschrieben:
+„‚So wahr ich lebe‘,
+sagt der Herr,
+‚vor mir wird sich jedes Knie beugen.
+Jede Zunge wird Gott bekennen.‘“
+<sup>12</sup>So wird also jeder von uns
+für sich selbst vor Gott Rechenschaft geben.
+
+> **Was bedeutet das?**
+> In der Gemeinde in Rom gab es Streit. Manche Christen aßen kein Fleisch, zum Beispiel aus Sorge, es könnte Götzen geopfert worden sein oder nicht nach den jüdischen Speisegeboten zubereitet sein. Andere aßen alles. Manche hielten bestimmte Festtage, andere nicht.
+> „Schwach“ und „stark“: Paulus nennt die Vorsichtigen „schwach im Glauben“. Das ist kein Schimpfwort. Er verlangt von allen Seiten Achtung voreinander.
+> Vers 3: „Gott hat ihn angenommen.“ Wen Gott annimmt, den sollen auch wir annehmen.
+> Vers 7–8: „Ob wir leben oder sterben: Wir gehören dem Herrn.“ Diese Worte werden oft bei Beerdigungen gelesen. Sie trösten.
+> Vers 11 nimmt Jesaja 45,23 auf und verbindet es mit Worten aus Jesaja 49,18.
+> Für heute: Christen haben in vielen Fragen verschiedene Meinungen, zum Beispiel beim Essen, beim Sonntag oder bei Bräuchen. Das ist kein Grund, einander zu verachten.
+
+---
+
+### Nehmt Rücksicht aufeinander (Vers 13–23)
+
+<sup>13</sup>Darum wollen wir einander nicht mehr verurteilen.
+Urteilt lieber so:
+Niemand soll seinem Bruder einen Stein in den Weg legen,
+über den er stolpert und fällt.
+<sup>14</sup>Ich weiß
+und bin im Herrn Jesus davon überzeugt:
+Nichts ist von sich aus unrein.
+Aber wer etwas für unrein hält,
+für den ist es unrein.
+<sup>15</sup>Wenn dein Bruder aber wegen deines Essens traurig wird,
+dann lebst du nicht mehr in der Liebe.
+Bring ihn nicht durch dein Essen ins Verderben.
+Christus ist doch auch für ihn gestorben.
+<sup>16</sup>Lasst also nicht zu,
+dass man über euer Gutes schlecht redet.
+<sup>17</sup>Denn das Reich Gottes besteht nicht aus Essen und Trinken,
+sondern aus Gerechtigkeit,
+Frieden
+und Freude im Heiligen Geist.
+<sup>18</sup>Wer Christus so dient,
+gefällt Gott
+und wird von den Menschen anerkannt.
+<sup>19</sup>Darum lasst uns nach dem streben,
+was dem Frieden dient
+und womit wir einander aufbauen.
+<sup>20</sup>Zerstört nicht Gottes Werk
+wegen des Essens.
+Alles ist zwar rein.
+Aber es ist schlecht für den Menschen,
+der durch sein Essen anderen einen Anstoß gibt.
+<sup>21</sup>Es ist gut,
+kein Fleisch zu essen,
+keinen Wein zu trinken
+und nichts zu tun,
+wodurch dein Bruder stolpert,
+verletzt oder schwach wird.
+<sup>22</sup>Hast du Glauben?
+Dann behalte ihn für dich vor Gott.
+Glücklich ist,
+wer sich selbst nicht verurteilen muss
+für das, was er für richtig hält.
+<sup>23</sup>Wer aber zweifelt und trotzdem isst,
+der ist verurteilt,
+weil er es nicht aus Glauben tut.
+Und alles,
+was nicht aus Glauben geschieht,
+ist Sünde.
+
+> **Was bedeutet das?**
+> Vers 14: „Nichts ist von sich aus unrein“: Für Christen aus den Völkern gelten die jüdischen Speisegebote nicht als Pflicht. Paulus achtet aber die, die sie halten. Für Juden sind die Speisegebote bis heute ein wichtiger Teil ihres Lebens mit Gott.
+> Vers 15 und 21: Liebe ist wichtiger als das eigene Recht. Wer frei ist, soll auf andere Rücksicht nehmen.
+> Vers 17: Im Reich Gottes geht es nicht um Essensregeln, sondern um Gerechtigkeit, Frieden und Freude.
+> Vers 23: Man soll nicht gegen sein eigenes Gewissen handeln.
+> Für heute: Wer zum Beispiel einen Menschen mit Alkoholproblemen zu Gast hat, verzichtet aus Liebe auf Alkohol. Das ist gemeint.
+
+---
+
+### Lob Gottes (Vers 24–26)
+
+<sup>24</sup>Gott kann euch fest machen,
+so wie es meine gute Nachricht sagt
+und die Predigt von Jesus Christus,
+nach der Offenbarung des Geheimnisses,
+das lange Zeiten hindurch verborgen war,
+<sup>25</sup>jetzt aber offenbar geworden ist.
+Durch die Schriften der Propheten
+und nach dem Befehl des ewigen Gottes
+ist es allen Völkern bekannt gemacht worden,
+damit sie glauben und gehorchen.
+<sup>26</sup>Ihm,
+dem einzigen weisen Gott,
+sei durch Jesus Christus die Ehre in Ewigkeit!
+Amen.
+
+> **Was bedeutet das?**
+> Vers 24–26: Dieses Lob Gottes steht in den alten Handschriften an verschiedenen Stellen: in manchen nach Kapitel 14, in anderen am Ende des Briefes nach Kapitel 16 oder nach Kapitel 15. Das WEB setzt es hier hin, als Vers 24–26 von Kapitel 14. Viele andere Bibeln haben es als Römer 16,25–27.
+> Inhalt: Gottes Plan war lange verborgen. Jetzt ist er offenbar: Durch Jesus Christus sollen alle Völker zum Glauben kommen.
