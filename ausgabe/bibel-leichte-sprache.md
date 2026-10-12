@@ -146804,3 +146804,232 @@ Am größten unter ihnen ist die Liebe.
 > Vers 12: „So wie ich ganz erkannt worden bin“: Gott kennt uns schon jetzt ganz und liebt uns.
 > Vers 13: Glaube, Hoffnung und Liebe gehören zusammen. Aber die Liebe ist das Größte. Denn Gott selbst ist Liebe (1. Johannes 4,8).
 > Für heute: Kein Wissen, keine Leistung und keine Frömmigkeit ersetzen die Liebe.
+
+## 1. Korinther – Kapitel 14
+#### Verständlich reden im Gottesdienst
+
+---
+
+### Prophetie und fremde Sprachen (Vers 1–5)
+
+<sup>1</sup>Strebt nach der Liebe!
+Bemüht euch um die geistlichen Gaben,
+vor allem aber darum,
+dass ihr prophezeien könnt.
+<sup>2</sup>Denn wer in einer anderen Sprache redet,
+redet nicht zu Menschen,
+sondern zu Gott.
+Denn niemand versteht ihn.
+Im Geist redet er Geheimnisse.
+<sup>3</sup>Wer aber prophezeit,
+redet zu Menschen.
+Er baut sie auf,
+ermahnt sie
+und tröstet sie.
+<sup>4</sup>Wer in einer anderen Sprache redet,
+baut sich selbst auf.
+Wer aber prophezeit,
+baut die Gemeinde auf.
+<sup>5</sup>Ich wünschte,
+ihr alle würdet in anderen Sprachen reden,
+aber noch mehr,
+dass ihr prophezeit.
+Denn wer prophezeit,
+ist größer als der,
+der in anderen Sprachen redet,
+außer er legt es auch aus,
+damit die Gemeinde aufgebaut wird.
+
+> **Was bedeutet das?**
+> „In einer anderen Sprache reden“ (oft „Zungenrede“ genannt) war in Korinth sehr beliebt. Man betete in Lauten, die andere nicht verstanden.
+> „Prophezeien“ heißt hier: verständlich im Auftrag Gottes reden, sodass andere ermutigt, ermahnt und getröstet werden (Vers 3).
+> Paulus verbietet die Zungenrede nicht. Aber im Gottesdienst ist ihm wichtiger, dass alle verstehen, was gesagt wird.
+
+---
+
+### Was man nicht versteht, hilft nicht (Vers 6–19)
+
+<sup>6</sup>Brüder,
+wenn ich zu euch käme
+und in anderen Sprachen reden würde,
+was würde ich euch nützen,
+wenn ich nicht auch zu euch rede
+mit einer Offenbarung
+oder mit Erkenntnis
+oder mit Prophetie
+oder mit Lehre?
+<sup>7</sup>Auch bei leblosen Instrumenten,
+die einen Klang geben,
+wie Flöte oder Harfe:
+Wenn sie keine deutlichen Töne geben,
+wie soll man erkennen,
+was auf der Flöte oder Harfe gespielt wird?
+<sup>8</sup>Und wenn die Trompete einen unklaren Ton gibt,
+wer macht sich dann zum Kampf bereit?
+<sup>9</sup>So ist es auch bei euch:
+Wenn ihr mit der Zunge keine verständlichen Worte sagt,
+wie soll man erkennen,
+was gesagt wird?
+Dann redet ihr in den Wind.
+<sup>10</sup>Es gibt vielleicht sehr viele Sprachen in der Welt,
+und keine ist ohne Bedeutung.
+<sup>11</sup>Wenn ich aber die Bedeutung einer Sprache nicht kenne,
+bin ich für den,
+der sie spricht,
+ein Fremder.
+Und wer sie spricht,
+ist für mich ein Fremder.
+<sup>12</sup>So ist es auch bei euch.
+Weil ihr euch so sehr um geistliche Gaben bemüht,
+sucht danach,
+reich zu werden an dem,
+was die Gemeinde aufbaut.
+<sup>13</sup>Darum soll der,
+der in einer anderen Sprache redet,
+darum beten,
+dass er es auch auslegen kann.
+<sup>14</sup>Denn wenn ich in einer anderen Sprache bete,
+betet mein Geist,
+aber mein Verstand bleibt ohne Frucht.
+<sup>15</sup>Was soll ich also tun?
+Ich will mit dem Geist beten,
+und ich will auch mit dem Verstand beten.
+Ich will mit dem Geist singen,
+und ich will auch mit dem Verstand singen.
+<sup>16</sup>Denn wenn du nur mit dem Geist lobst,
+wie soll dann jemand,
+der nicht eingeweiht ist,
+zu deinem Dankgebet „Amen“ sagen?
+Er weiß ja nicht,
+was du sagst.
+<sup>17</sup>Du sagst zwar ein schönes Dankgebet,
+aber der andere wird nicht aufgebaut.
+<sup>18</sup>Ich danke meinem Gott:
+Ich rede mehr in anderen Sprachen als ihr alle.
+<sup>19</sup>Aber in der Gemeinde will ich lieber fünf Worte
+mit meinem Verstand sagen,
+um auch andere zu lehren,
+als zehntausend Worte in einer anderen Sprache.
+
+> **Was bedeutet das?**
+> Vers 7–11: Paulus benutzt Bilder: Ein Instrument, das keine klaren Töne gibt, nützt nichts. Eine Trompete muss deutlich klingen, sonst weiß niemand, was er tun soll.
+> Vers 15: Glaube braucht Herz und Verstand.
+> Vers 16: „Amen“ heißt „So ist es“ oder „So soll es sein“. Man kann nur Amen sagen, wenn man versteht, was gebetet wurde.
+> Für heute: Gottesdienst soll verständlich sein, für alle, auch für Gäste und für Menschen, die nicht gut lesen oder hören können. Darum ist auch Leichte Sprache wichtig.
+
+---
+
+### Ein Zeichen für die Außenstehenden (Vers 20–25)
+
+<sup>20</sup>Brüder,
+seid keine Kinder im Denken.
+Seid wie kleine Kinder,
+wenn es um das Böse geht.
+Aber im Denken seid erwachsen.
+<sup>21</sup>Im Gesetz steht geschrieben:
+„Durch Menschen mit fremden Sprachen
+und durch die Lippen von Fremden
+werde ich zu diesem Volk reden.
+Aber auch so werden sie nicht auf mich hören,
+sagt der Herr.“
+<sup>22</sup>Darum sind die anderen Sprachen ein Zeichen,
+nicht für die,
+die glauben,
+sondern für die Ungläubigen.
+Die Prophetie aber ist ein Zeichen,
+nicht für die Ungläubigen,
+sondern für die,
+die glauben.
+<sup>23</sup>Wenn nun die ganze Gemeinde zusammenkommt
+und alle in anderen Sprachen reden,
+und es kommen Uneingeweihte oder Ungläubige herein,
+werden sie dann nicht sagen,
+dass ihr verrückt seid?
+<sup>24</sup>Wenn aber alle prophezeien,
+und es kommt ein Ungläubiger oder Uneingeweihter herein,
+dann wird er von allen überführt
+und von allen geprüft.
+<sup>25</sup>Was in seinem Herzen verborgen ist,
+wird offenbar.
+Dann wird er sich niederwerfen,
+Gott anbeten
+und bekennen:
+„Gott ist wirklich unter euch!“
+
+> **Was bedeutet das?**
+> Vers 21 nimmt Jesaja 28,11–12 auf. „Das Gesetz“ meint hier die ganze Heilige Schrift Israels.
+> Vers 23–25: Paulus denkt an Gäste im Gottesdienst. Wenn alle durcheinander in unverständlichen Lauten reden, wirkt das auf Fremde befremdlich. Wenn sie aber verständliche Worte hören, kann Gott ihr Herz berühren.
+
+---
+
+### Ordnung im Gottesdienst (Vers 26–40)
+
+<sup>26</sup>Was heißt das nun, Brüder?
+Wenn ihr zusammenkommt,
+hat jeder etwas beizutragen:
+einen Psalm,
+eine Lehre,
+eine Offenbarung,
+eine andere Sprache
+oder eine Auslegung.
+Alles soll geschehen,
+damit ihr einander aufbaut.
+<sup>27</sup>Wenn jemand in einer anderen Sprache redet,
+dann sollen es zwei,
+höchstens drei sein,
+und zwar nacheinander.
+Und einer soll es auslegen.
+<sup>28</sup>Wenn aber kein Ausleger da ist,
+soll er in der Gemeinde schweigen.
+Er soll für sich selbst und zu Gott reden.
+<sup>29</sup>Von den Propheten sollen zwei oder drei reden,
+und die anderen sollen es prüfen.
+<sup>30</sup>Wenn aber ein anderer,
+der dabeisitzt,
+eine Offenbarung bekommt,
+soll der Erste schweigen.
+<sup>31</sup>Denn ihr könnt alle nacheinander prophezeien,
+damit alle lernen
+und alle ermutigt werden.
+<sup>32</sup>Die Geister der Propheten
+sind den Propheten untertan.
+<sup>33</sup>Denn Gott ist nicht ein Gott der Unordnung,
+sondern des Friedens,
+wie in allen Gemeinden der Heiligen.
+<sup>34</sup>Die Ehefrauen sollen in den Versammlungen still sein.
+Denn es ist ihnen nicht erlaubt zu reden,
+außer in Unterordnung,
+wie auch das Gesetz sagt,
+<sup>35</sup>wenn sie etwas lernen wollen.
+„Sie sollen zu Hause ihre eigenen Männer fragen.
+Denn es ist eine Schande für eine Ehefrau,
+in der Versammlung zu reden.“
+<sup>36</sup>Was?
+Ist das Wort Gottes etwa von euch ausgegangen?
+Oder ist es nur zu euch gekommen?
+<sup>37</sup>Wenn jemand meint,
+er sei ein Prophet oder ein geistlicher Mensch,
+dann soll er erkennen,
+dass das,
+was ich euch schreibe,
+ein Gebot des Herrn ist.
+<sup>38</sup>Wenn es aber jemand nicht erkennt,
+dann soll er es eben nicht erkennen.
+<sup>39</sup>Darum, Brüder:
+Bemüht euch darum,
+zu prophezeien,
+und verbietet nicht,
+in anderen Sprachen zu reden.
+<sup>40</sup>Alles soll anständig und ordentlich geschehen.
+
+> **Was bedeutet das?**
+> Vers 26: Im Gottesdienst damals konnte jeder etwas beitragen. Das Ziel war immer: einander aufbauen.
+> Vers 33: „Gott ist ein Gott des Friedens“, nicht der Unordnung. Darum soll es im Gottesdienst geordnet zugehen.
+> Vers 34–35 gehören zu den umstrittensten Versen der Bibel. Wichtig ist:
+> In Kapitel 11,5 setzt Paulus voraus, dass Frauen im Gottesdienst beten und prophezeien. Das passt nicht zu einem völligen Schweigegebot.
+> Das WEB setzt einen Teil von Vers 35 in Anführungszeichen. Manche Ausleger meinen: Paulus zitiert hier eine Meinung aus Korinth und widerspricht ihr in Vers 36 („Was?“).
+> In einigen alten Handschriften stehen die Verse 34–35 an einer anderen Stelle, nach Vers 40. Manche Fachleute halten sie darum für einen späteren Zusatz.
+> Andere Ausleger meinen: Paulus wollte nur Störungen im Gottesdienst verhindern, etwa laute Zwischenfragen.
+> Manche Kirchen verstehen die Verse bis heute als Weisung, dass Frauen keine Predigt halten oder kein Amt haben sollen. Viele andere Kirchen haben Pfarrerinnen und Predigerinnen.
+> Wichtig: Diese Verse geben niemandem das Recht, Frauen herabzusetzen oder ihnen ihre Würde abzusprechen. Mann und Frau sind vor Gott gleich viel wert.
+> Vers 39–40: Paulus schließt versöhnlich: Prophetie ist erwünscht, Zungenrede ist nicht verboten, aber alles soll in Ordnung geschehen.
