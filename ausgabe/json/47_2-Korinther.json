@@ -1,0 +1,172 @@
+{
+ "nr": 47,
+ "code": "2CO",
+ "kuerzel": "2Kor",
+ "name": "2. Korinther",
+ "name_englisch": "2 Corinthians",
+ "testament": "neues-testament",
+ "kapitel": 13,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Der Gott allen Trostes",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der zweite Brief an die Korinther",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Paulus schreibt noch einmal an die Gemeinde in Korinth. Nach dem ersten Brief hatte es dort neue Schwierigkeiten gegeben. Manche Leute in der Gemeinde waren gegen Paulus. Sie zweifelten, ob er wirklich ein Apostel ist.\nPaulus hat die Gemeinde wohl zwischendurch besucht. Dieser Besuch war schmerzhaft. Danach schrieb er einen „Brief unter Tränen“ (2,4). Inzwischen hat er gute Nachrichten bekommen: Die Gemeinde hat sich wieder versöhnt (Kapitel 7).\nDer Brief wurde wohl um das Jahr 55 oder 56 nach Christus in Mazedonien geschrieben. Manche Fachleute meinen, dass hier mehrere Briefe von Paulus zusammengefügt wurden.\nIn diesem Brief erzählt Paulus viel Persönliches: von Angst und Leid, von Trost und Hoffnung. Er zeigt: Gottes Kraft zeigt sich gerade in menschlicher Schwäche.\nDer zweite Korintherbrief hat 13 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\ndurch den Willen Gottes ein Apostel von Christus Jesus,\nund unser Bruder Timotheus\nschreiben an die Gemeinde Gottes in Korinth\nund an alle Heiligen in ganz Achaja.",
+       "englisch_web": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Achaja war die römische Provinz im Süden von Griechenland. Korinth war ihre Hauptstadt.\nTimotheus war ein enger Mitarbeiter von Paulus."
+    },
+    {
+     "ueberschrift": "Gott tröstet uns",
+     "vers_von": 3,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus,\nder Vater der Barmherzigkeit\nund der Gott allen Trostes.",
+       "englisch_web": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er tröstet uns in all unserer Not,\ndamit wir die trösten können,\ndie in irgendeiner Not sind,\nmit dem Trost,\nmit dem wir selbst von Gott getröstet werden.",
+       "englisch_web": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn so wie die Leiden von Christus\nreichlich über uns kommen,\nso wird auch unser Trost durch Christus reich.",
+       "englisch_web": "For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn wir aber in Not sind,\ndann ist es zu eurem Trost und eurer Rettung.\nWenn wir getröstet werden,\ndann ist es zu eurem Trost.\nDieser Trost hilft euch,\ndieselben Leiden geduldig zu ertragen,\ndie auch wir leiden.",
+       "englisch_web": "But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Unsere Hoffnung für euch ist fest.\nDenn wir wissen:\nSo wie ihr an den Leiden teilhabt,\nso habt ihr auch am Trost teil.",
+       "englisch_web": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denn wir wollen euch nicht in Unwissenheit lassen, Brüder,\nüber die Not,\ndie uns in der Provinz Asia getroffen hat.\nWir waren über alle Maßen belastet,\nweit über unsere Kraft.\nWir waren sogar am Leben verzweifelt.",
+       "englisch_web": "For we don’t desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia: that we were weighed down exceedingly, beyond our power, so much that we despaired even of life."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Ja,\nwir hatten in uns schon das Todesurteil.\nDamit sollten wir nicht auf uns selbst vertrauen,\nsondern auf Gott,\nder die Toten auferweckt.",
+       "englisch_web": "Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er hat uns aus einer so großen Todesgefahr gerettet,\nund er rettet uns.\nAuf ihn haben wir unsere Hoffnung gesetzt,\ndass er uns auch weiter retten wird.",
+       "englisch_web": "who delivered us out of so great a death, and does deliver, on whom we have set our hope that he will also still deliver us,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Dabei helft auch ihr mit,\nindem ihr für uns betet.\nSo werden viele Menschen für uns danken,\nfür das Geschenk,\ndas wir durch viele empfangen haben.",
+       "englisch_web": "you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your behalf."
+      }
+     ],
+     "erklaerung": "Vers 3–4: Gott ist ein „Gott allen Trostes“. Wer selbst Trost erfahren hat, kann andere trösten.\nVers 8–9: Paulus erzählt ganz offen: Er war verzweifelt und dachte, er müsse sterben. Was genau in der Provinz Asia (in der heutigen Türkei) passiert ist, wissen wir nicht.\nFür heute: Auch Menschen mit starkem Glauben können verzweifeln. Das ist keine Schande. Wer nicht mehr weiterweiß, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.\nVers 11: Das Gebet füreinander verbindet Menschen."
+    },
+    {
+     "ueberschrift": "Paulus erklärt seine Reisepläne",
+     "vers_von": 12,
+     "vers_bis": 24,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Denn das ist unser Ruhm:\ndas Zeugnis unseres Gewissens.\nWir haben in der Welt\nund besonders bei euch\nin Heiligkeit und Aufrichtigkeit gelebt,\ndie von Gott kommen,\nnicht in menschlicher Klugheit,\nsondern in der Gnade Gottes.",
+       "englisch_web": "For our boasting is this: the testimony of our conscience that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly toward you."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn wir schreiben euch nichts anderes\nals das,\nwas ihr lest und auch versteht.\nUnd ich hoffe,\nihr werdet es bis zum Ende verstehen,",
+       "englisch_web": "For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end—"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "so wie ihr uns zum Teil schon verstanden habt:\ndass wir euer Ruhm sind,\nso wie ihr unser Ruhm seid,\nam Tag unseres Herrn Jesus.",
+       "englisch_web": "as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "In diesem Vertrauen wollte ich zuerst zu euch kommen,\ndamit ihr eine doppelte Freude habt.",
+       "englisch_web": "In this confidence, I was determined to come first to you, that you might have a second benefit,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Ich wollte über euch nach Mazedonien reisen\nund von Mazedonien wieder zu euch kommen.\nDann wolltet ihr mich auf meine Reise nach Judäa schicken.",
+       "englisch_web": "and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "War ich nun leichtfertig,\nals ich das plante?\nOder plane ich nach menschlicher Art,\nsodass bei mir das „Ja, ja“\nund zugleich das „Nein, nein“ gilt?",
+       "englisch_web": "When I therefore planned this, did I show fickleness? Or the things that I plan, do I plan according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Aber so wahr Gott treu ist:\nUnser Wort an euch war nicht „Ja und Nein“.",
+       "englisch_web": "But as God is faithful, our word toward you was not “Yes and no.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn der Sohn Gottes,\nJesus Christus,\nden wir bei euch verkündet haben,\nich, Silvanus und Timotheus,\nwar nicht „Ja und Nein“.\nSondern in ihm ist das „Ja“.",
+       "englisch_web": "For the Son of God, Jesus Christ, who was preached among you by us—by me, Silvanus, and Timothy—was not “Yes and no,” but in him is “Yes.”"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Denn so viele Verheißungen Gottes es gibt,\nin ihm ist das „Ja“.\nDarum sagen wir auch durch ihn das „Amen“,\nGott zur Ehre.",
+       "englisch_web": "For however many are the promises of God, in him is the “Yes.” Therefore also through him is the “Amen”, to the glory of God through us."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Gott ist es,\nder uns zusammen mit euch fest in Christus macht.\nUnd er hat uns gesalbt.",
+       "englisch_web": "Now he who establishes us with you in Christ and anointed us is God,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Er hat uns auch versiegelt\nund den Geist als Anzahlung in unsere Herzen gegeben.",
+       "englisch_web": "who also sealed us and gave us the down payment of the Spirit in our hearts."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ich rufe aber Gott als Zeugen an,\nbei meinem Leben:\nUm euch zu schonen,\nbin ich nicht nach Korinth gekommen.",
+       "englisch_web": "But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Wir wollen nicht über euren Glauben herrschen,\nsondern wir sind Mitarbeiter an eurer Freude.\nDenn im Glauben steht ihr fest.",
+       "englisch_web": "We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith."
+      }
+     ],
+     "erklaerung": "Vers 15–17: Paulus hatte seine Reisepläne geändert. Manche in Korinth warfen ihm vor, er sei unzuverlässig. Paulus erklärt: Ich wollte euch schonen (Vers 23).\nVers 20: „In Jesus ist das Ja“: Alle Versprechen Gottes werden in Jesus erfüllt. Darum sagen Christen „Amen“, das heißt „So ist es“.\nVers 22: „Anzahlung“: Das WEB sagt „down payment“. Der Heilige Geist ist wie eine erste Rate. Er garantiert, dass Gott sein ganzes Versprechen erfüllen wird.\nVers 24: „Wir wollen nicht über euren Glauben herrschen.“ Leiter in der Kirche sollen nicht über Menschen bestimmen, sondern ihnen zur Freude dienen."
+    }
+   ]
+  }
+ ]
+}

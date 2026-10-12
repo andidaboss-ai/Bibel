@@ -147470,3 +147470,153 @@ Amen.
 > **Die Auferstehung:** Christus ist auferstanden. Der Tod ist besiegt (Kapitel 15).
 > **Für heute:** „Alles, was ihr tut, soll in Liebe geschehen“ (16,14).
 > **Wie geht es weiter?** Als Nächstes kommt der zweite Brief von Paulus an die Korinther. Darin erzählt Paulus viel Persönliches: von Leid und Trost, von Schwäche und Gottes Kraft. Ein berühmtes Wort daraus lautet sinngemäß: Gottes Kraft zeigt sich gerade in der Schwäche (2. Korinther 12,9).
+
+
+---
+
+# 2. Korinther
+
+## 2. Korinther – Kapitel 1
+#### Der Gott allen Trostes
+
+---
+
+### Bevor es losgeht: Der zweite Brief an die Korinther
+
+Paulus schreibt noch einmal an die Gemeinde in Korinth. Nach dem ersten Brief hatte es dort neue Schwierigkeiten gegeben. Manche Leute in der Gemeinde waren gegen Paulus. Sie zweifelten, ob er wirklich ein Apostel ist.
+Paulus hat die Gemeinde wohl zwischendurch besucht. Dieser Besuch war schmerzhaft. Danach schrieb er einen „Brief unter Tränen“ (2,4). Inzwischen hat er gute Nachrichten bekommen: Die Gemeinde hat sich wieder versöhnt (Kapitel 7).
+Der Brief wurde wohl um das Jahr 55 oder 56 nach Christus in Mazedonien geschrieben. Manche Fachleute meinen, dass hier mehrere Briefe von Paulus zusammengefügt wurden.
+In diesem Brief erzählt Paulus viel Persönliches: von Angst und Leid, von Trost und Hoffnung. Er zeigt: Gottes Kraft zeigt sich gerade in menschlicher Schwäche.
+Der zweite Korintherbrief hat 13 Kapitel.
+
+---
+
+### Gruß (Vers 1–2)
+
+<sup>1</sup>Paulus,
+durch den Willen Gottes ein Apostel von Christus Jesus,
+und unser Bruder Timotheus
+schreiben an die Gemeinde Gottes in Korinth
+und an alle Heiligen in ganz Achaja.
+<sup>2</sup>Gnade sei mit euch und Frieden
+von Gott, unserem Vater,
+und dem Herrn Jesus Christus.
+
+> **Was bedeutet das?**
+> Achaja war die römische Provinz im Süden von Griechenland. Korinth war ihre Hauptstadt.
+> Timotheus war ein enger Mitarbeiter von Paulus.
+
+---
+
+### Gott tröstet uns (Vers 3–11)
+
+<sup>3</sup>Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus,
+der Vater der Barmherzigkeit
+und der Gott allen Trostes.
+<sup>4</sup>Er tröstet uns in all unserer Not,
+damit wir die trösten können,
+die in irgendeiner Not sind,
+mit dem Trost,
+mit dem wir selbst von Gott getröstet werden.
+<sup>5</sup>Denn so wie die Leiden von Christus
+reichlich über uns kommen,
+so wird auch unser Trost durch Christus reich.
+<sup>6</sup>Wenn wir aber in Not sind,
+dann ist es zu eurem Trost und eurer Rettung.
+Wenn wir getröstet werden,
+dann ist es zu eurem Trost.
+Dieser Trost hilft euch,
+dieselben Leiden geduldig zu ertragen,
+die auch wir leiden.
+<sup>7</sup>Unsere Hoffnung für euch ist fest.
+Denn wir wissen:
+So wie ihr an den Leiden teilhabt,
+so habt ihr auch am Trost teil.
+<sup>8</sup>Denn wir wollen euch nicht in Unwissenheit lassen, Brüder,
+über die Not,
+die uns in der Provinz Asia getroffen hat.
+Wir waren über alle Maßen belastet,
+weit über unsere Kraft.
+Wir waren sogar am Leben verzweifelt.
+<sup>9</sup>Ja,
+wir hatten in uns schon das Todesurteil.
+Damit sollten wir nicht auf uns selbst vertrauen,
+sondern auf Gott,
+der die Toten auferweckt.
+<sup>10</sup>Er hat uns aus einer so großen Todesgefahr gerettet,
+und er rettet uns.
+Auf ihn haben wir unsere Hoffnung gesetzt,
+dass er uns auch weiter retten wird.
+<sup>11</sup>Dabei helft auch ihr mit,
+indem ihr für uns betet.
+So werden viele Menschen für uns danken,
+für das Geschenk,
+das wir durch viele empfangen haben.
+
+> **Was bedeutet das?**
+> Vers 3–4: Gott ist ein „Gott allen Trostes“. Wer selbst Trost erfahren hat, kann andere trösten.
+> Vers 8–9: Paulus erzählt ganz offen: Er war verzweifelt und dachte, er müsse sterben. Was genau in der Provinz Asia (in der heutigen Türkei) passiert ist, wissen wir nicht.
+> Für heute: Auch Menschen mit starkem Glauben können verzweifeln. Das ist keine Schande. Wer nicht mehr weiterweiß, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. In akuter Gefahr: Notruf 112.
+> Vers 11: Das Gebet füreinander verbindet Menschen.
+
+---
+
+### Paulus erklärt seine Reisepläne (Vers 12–24)
+
+<sup>12</sup>Denn das ist unser Ruhm:
+das Zeugnis unseres Gewissens.
+Wir haben in der Welt
+und besonders bei euch
+in Heiligkeit und Aufrichtigkeit gelebt,
+die von Gott kommen,
+nicht in menschlicher Klugheit,
+sondern in der Gnade Gottes.
+<sup>13</sup>Denn wir schreiben euch nichts anderes
+als das,
+was ihr lest und auch versteht.
+Und ich hoffe,
+ihr werdet es bis zum Ende verstehen,
+<sup>14</sup>so wie ihr uns zum Teil schon verstanden habt:
+dass wir euer Ruhm sind,
+so wie ihr unser Ruhm seid,
+am Tag unseres Herrn Jesus.
+<sup>15</sup>In diesem Vertrauen wollte ich zuerst zu euch kommen,
+damit ihr eine doppelte Freude habt.
+<sup>16</sup>Ich wollte über euch nach Mazedonien reisen
+und von Mazedonien wieder zu euch kommen.
+Dann wolltet ihr mich auf meine Reise nach Judäa schicken.
+<sup>17</sup>War ich nun leichtfertig,
+als ich das plante?
+Oder plane ich nach menschlicher Art,
+sodass bei mir das „Ja, ja“
+und zugleich das „Nein, nein“ gilt?
+<sup>18</sup>Aber so wahr Gott treu ist:
+Unser Wort an euch war nicht „Ja und Nein“.
+<sup>19</sup>Denn der Sohn Gottes,
+Jesus Christus,
+den wir bei euch verkündet haben,
+ich, Silvanus und Timotheus,
+war nicht „Ja und Nein“.
+Sondern in ihm ist das „Ja“.
+<sup>20</sup>Denn so viele Verheißungen Gottes es gibt,
+in ihm ist das „Ja“.
+Darum sagen wir auch durch ihn das „Amen“,
+Gott zur Ehre.
+<sup>21</sup>Gott ist es,
+der uns zusammen mit euch fest in Christus macht.
+Und er hat uns gesalbt.
+<sup>22</sup>Er hat uns auch versiegelt
+und den Geist als Anzahlung in unsere Herzen gegeben.
+<sup>23</sup>Ich rufe aber Gott als Zeugen an,
+bei meinem Leben:
+Um euch zu schonen,
+bin ich nicht nach Korinth gekommen.
+<sup>24</sup>Wir wollen nicht über euren Glauben herrschen,
+sondern wir sind Mitarbeiter an eurer Freude.
+Denn im Glauben steht ihr fest.
+
+> **Was bedeutet das?**
+> Vers 15–17: Paulus hatte seine Reisepläne geändert. Manche in Korinth warfen ihm vor, er sei unzuverlässig. Paulus erklärt: Ich wollte euch schonen (Vers 23).
+> Vers 20: „In Jesus ist das Ja“: Alle Versprechen Gottes werden in Jesus erfüllt. Darum sagen Christen „Amen“, das heißt „So ist es“.
+> Vers 22: „Anzahlung“: Das WEB sagt „down payment“. Der Heilige Geist ist wie eine erste Rate. Er garantiert, dass Gott sein ganzes Versprechen erfüllen wird.
+> Vers 24: „Wir wollen nicht über euren Glauben herrschen.“ Leiter in der Kirche sollen nicht über Menschen bestimmen, sondern ihnen zur Freude dienen.
