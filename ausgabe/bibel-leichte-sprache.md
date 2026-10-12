@@ -148067,5 +148067,5 @@ damit wir in ihm zur Gerechtigkeit Gottes werden.
 > Vers 17: „Ein neues Geschöpf“: Durch Christus kann ein Mensch ganz neu anfangen. Die Vergangenheit muss ihn nicht mehr bestimmen.
 > Vers 18–20: Versöhnung ist ein Kernwort dieses Kapitels. Nicht Gott muss versöhnt werden. Gott selbst ergreift die Initiative und versöhnt die Welt mit sich.
 > Vers 20: Christen sind „Botschafter“ der Versöhnung. Sie sollen Frieden stiften, mit Gott und unter den Menschen.
-> Vers 21: Jesus war ohne Sünde. Er hat unsere Schuld auf sich genommen, damit wir vor Gott gerecht sein können. Man nennt das einen „fröhlichen Tausch“.
+> Vers 21: Jesus war ohne Sünde. Er hat unsere Schuld auf sich genommen, damit wir vor Gott gerecht sein können. Martin Luther nannte das später einen „fröhlichen Tausch“.
 > Für heute: Versöhnung ist auch zwischen Menschen und Völkern möglich. Christen sind gerufen, dafür zu arbeiten.
