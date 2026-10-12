@@ -148531,7 +148531,7 @@ das man nicht mit Worten beschreiben kann!
 
 > **Wichtiger Hinweis vorab**
 > Ab Kapitel 10 ändert sich der Ton des Briefes stark. Paulus wird scharf und verteidigt sich gegen Gegner in Korinth. Manche Fachleute meinen darum, dass die Kapitel 10 bis 13 ursprünglich ein eigener Brief waren, vielleicht der „Brief unter Tränen“ (2,4).
-> Die Gegner waren christliche Wanderprediger, die sich selbst rühmten. Paulus nennt sie später spöttisch „Super-Apostel“ (11,5).
+> Die Gegner waren christliche Wanderprediger, die sich selbst rühmten. Paulus nennt sie später spöttisch die „allerbesten Apostel“ (11,5).
 
 ---
 
