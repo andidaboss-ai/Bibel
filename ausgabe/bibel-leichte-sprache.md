@@ -153946,3 +153946,155 @@ weißt du sehr gut.
 > Vers 18: Paulus spricht von Onesiphorus' „Haus“ und betet für ihn. Manche Ausleger meinen, Onesiphorus war schon gestorben.
 
 ---
+
+## 2. Timotheus – Kapitel 2
+#### Ein guter Arbeiter für Gott
+
+---
+
+### Sei stark und halte durch (Vers 1–7)
+
+<sup>1</sup>Du nun,
+mein Kind,
+werde stark in der Gnade,
+die in Christus Jesus ist.
+<sup>2</sup>Was du von mir vor vielen Zeugen gehört hast,
+das vertraue treuen Menschen an,
+die fähig sind,
+auch andere zu lehren.
+<sup>3</sup>Ertrage also die Mühen mit mir
+wie ein guter Soldat von Christus Jesus.
+<sup>4</sup>Kein Soldat im Dienst
+lässt sich in die Geschäfte des Alltags verwickeln.
+Er will dem gefallen,
+der ihn angeworben hat.
+<sup>5</sup>Und wer an einem Wettkampf teilnimmt,
+bekommt den Siegeskranz nur,
+wenn er nach den Regeln kämpft.
+<sup>6</sup>Der Bauer,
+der hart arbeitet,
+soll als Erster von der Ernte bekommen.
+<sup>7</sup>Denk darüber nach,
+was ich sage.
+Der Herr wird dir in allem Verständnis schenken.
+
+> **Was bedeutet das?**
+> Vers 2: So wird der Glaube weitergegeben: von Paulus zu Timotheus, von Timotheus zu anderen treuen Menschen, und von ihnen wieder zu anderen. Bis heute.
+> Vers 3–6: Drei Bilder: der Soldat, der Sportler und der Bauer. Alle drei brauchen Einsatz, Ausdauer und Geduld.
+> Wichtig: Das Bild vom Soldaten heißt nicht, dass Christen Gewalt anwenden sollen. Es geht um Treue und Hingabe.
+
+---
+
+### Gottes Wort ist nicht gefesselt (Vers 8–13)
+
+<sup>8</sup>Denk an Jesus Christus,
+der von den Toten auferweckt wurde,
+aus der Nachkommenschaft von David.
+So sagt es meine gute Nachricht.
+<sup>9</sup>Für sie leide ich
+bis hin zu Ketten,
+wie ein Verbrecher.
+Aber das Wort Gottes ist nicht gefesselt.
+<sup>10</sup>Darum ertrage ich alles
+für die Erwählten,
+damit auch sie die Rettung in Christus Jesus erlangen
+mit ewiger Herrlichkeit.
+<sup>11</sup>Dieses Wort ist zuverlässig:
+„Wenn wir mit ihm gestorben sind,
+werden wir auch mit ihm leben.
+<sup>12</sup>Wenn wir durchhalten,
+werden wir auch mit ihm herrschen.
+Wenn wir ihn verleugnen,
+wird auch er uns verleugnen.
+<sup>13</sup>Wenn wir untreu sind,
+bleibt er doch treu.
+Denn er kann sich selbst nicht verleugnen.“
+
+> **Was bedeutet das?**
+> Vers 8: „Aus der Nachkommenschaft von David“: Jesus ist der Messias, den Gott Israel verheißen hat.
+> Vers 9: Paulus ist gefesselt, aber Gottes Wort kann niemand fesseln. Es breitet sich weiter aus.
+> Vers 11–13 ist wohl ein altes Lied oder Bekenntnis der ersten Christen.
+> Vers 13 ist ein großer Trost: Auch wenn wir untreu sind, bleibt Gott treu. Seine Treue hängt nicht von unserer Treue ab.
+
+---
+
+### Ein Arbeiter, der sich nicht schämen muss (Vers 14–21)
+
+<sup>14</sup>Erinnere sie an diese Dinge.
+Beschwöre sie vor dem Herrn,
+nicht um Worte zu streiten.
+Das nützt nichts,
+sondern schadet denen,
+die zuhören.
+<sup>15</sup>Bemühe dich,
+dich vor Gott als bewährt zu zeigen,
+als Arbeiter,
+der sich nicht schämen muss,
+weil er das Wort der Wahrheit richtig auslegt.
+<sup>16</sup>Halte dich aber fern von leerem Geschwätz.
+Denn es führt immer weiter in die Gottlosigkeit.
+<sup>17</sup>Und solche Worte fressen um sich wie ein Geschwür.
+Dazu gehören Hymenäus und Philetus.
+<sup>18</sup>Sie sind von der Wahrheit abgeirrt.
+Sie sagen,
+die Auferstehung sei schon geschehen.
+Und sie bringen den Glauben mancher Menschen ins Wanken.
+<sup>19</sup>Aber das feste Fundament Gottes steht.
+Es trägt dieses Siegel:
+„Der Herr kennt die,
+die zu ihm gehören.“
+Und:
+„Jeder,
+der den Namen des Herrn nennt,
+soll sich von der Ungerechtigkeit fernhalten.“
+<sup>20</sup>In einem großen Haus gibt es nicht nur Gefäße aus Gold und Silber,
+sondern auch aus Holz und Ton.
+Manche sind für ehrenvolle Zwecke,
+andere für weniger ehrenvolle.
+<sup>21</sup>Wer sich nun von diesen Dingen reinigt,
+wird ein Gefäß für ehrenvolle Zwecke sein,
+geheiligt
+und nützlich für den Hausherrn,
+bereit für jedes gute Werk.
+
+> **Was bedeutet das?**
+> Vers 14: Streit um Worte hilft niemandem. Er schadet nur.
+> Vers 15: Wer das Wort Gottes auslegt, soll es sorgfältig und ehrlich tun, wie ein guter Handwerker.
+> Vers 18: Hymenäus und Philetus lehrten: Die Auferstehung ist schon geschehen, nur geistlich. Damit leugneten sie die Hoffnung auf eine künftige Auferstehung.
+> Vers 19: Der erste Satz erinnert an 4. Mose 16,5. Dort sagt Mose: „Der HERR wird zeigen, wer zu ihm gehört.“ Gott kennt die Seinen, auch wenn Menschen sich irren.
+> Vers 20–21: Ein Bild aus dem Haushalt: Es gibt wertvolles Geschirr und einfaches. Aber jeder Mensch kann ein „Gefäß“ werden, das Gott gebrauchen kann.
+
+---
+
+### Sei freundlich zu allen (Vers 22–26)
+
+<sup>22</sup>Flieh vor den Begierden der Jugend.
+Strebe nach Gerechtigkeit,
+Glauben,
+Liebe
+und Frieden,
+zusammen mit allen,
+die den Herrn aus reinem Herzen anrufen.
+<sup>23</sup>Weise törichte und unsinnige Streitfragen zurück.
+Du weißt ja,
+dass sie nur Streit erzeugen.
+<sup>24</sup>Ein Diener des Herrn soll nicht streiten.
+Sondern er soll freundlich zu allen sein,
+fähig zu lehren
+und geduldig.
+<sup>25</sup>Er soll die,
+die sich widersetzen,
+mit Sanftmut zurechtweisen.
+Vielleicht schenkt Gott ihnen Umkehr,
+damit sie die Wahrheit erkennen
+<sup>26</sup>und wieder zur Besinnung kommen.
+So können sie aus der Falle des Teufels entkommen,
+der sie gefangen hat,
+damit sie seinen Willen tun.
+
+> **Was bedeutet das?**
+> Vers 22: „Begierden der Jugend“ meint wohl nicht nur sexuelle Wünsche, sondern auch Ungeduld, Streitlust und Ehrgeiz.
+> Vers 24–25: Ein wichtiger Rat für alle, die in der Kirche Verantwortung haben: nicht streiten, sondern freundlich, geduldig und sanft sein, auch zu Gegnern.
+> Vers 25–26: Das Ziel ist nicht, den anderen zu besiegen, sondern ihm zu helfen, die Wahrheit zu finden. Umkehr schenkt Gott, nicht Druck.
+
+---
