@@ -1,0 +1,194 @@
+{
+ "nr": 57,
+ "code": "PHM",
+ "kuerzel": "Phlm",
+ "name": "Philemon",
+ "name_englisch": "Philemon",
+ "testament": "neues-testament",
+ "kapitel": 1,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Nicht mehr als Sklave, sondern als Bruder",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an Philemon",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Der Brief an Philemon ist der kürzeste Brief von Paulus. Er hat nur ein Kapitel. Fast alle Fachleute sind sich einig, dass Paulus ihn selbst geschrieben hat.\nPhilemon war ein wohlhabender Christ, wohl in Kolossä. In seinem Haus traf sich eine Gemeinde.\nOnesimus war ein Sklave von Philemon. Er ist von ihm weggegangen, vielleicht geflohen. Er kam zu Paulus, der im Gefängnis saß. Dort wurde Onesimus Christ.\nNun schickt Paulus ihn zu Philemon zurück, mit diesem Brief. Paulus bittet Philemon, Onesimus nicht mehr als Sklaven aufzunehmen, sondern als geliebten Bruder.\n**Ein wichtiger Hinweis:** Der Brief fordert nicht ausdrücklich die Abschaffung der Sklaverei. Aber er stellt sie in ein neues Licht: Ein Sklave ist ein Bruder. Diese Botschaft hat später viele Christen dazu gebracht, gegen die Sklaverei zu kämpfen.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 3,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\nein Gefangener von Christus Jesus,\nund Timotheus,\nunser Bruder,\nschreiben an Philemon,\nunseren geliebten Mitarbeiter,",
+       "englisch_web": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "an Apphia,\nunsere geliebte Schwester,\nan Archippus,\nunseren Mitstreiter,\nund an die Gemeinde in deinem Haus:",
+       "englisch_web": "to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Vers 1: Paulus nennt sich „Gefangener von Christus Jesus“. Er sitzt im Gefängnis, aber er sieht sich als jemand, der zu Christus gehört.\nVers 2: Apphia war wohl die Frau von Philemon. Sie wird ausdrücklich genannt und als „Schwester“ angesprochen. Archippus wird auch in Kolosser 4,17 erwähnt.\n„Die Gemeinde in deinem Haus“: Die ersten Christen hatten keine Kirchengebäude. Sie trafen sich in Privathäusern.\nDas WEB sagt in Vers 2 „the beloved Apphia“. In manchen alten Handschriften steht „Apphia, die Schwester“."
+    },
+    {
+     "ueberschrift": "Dank für Philemons Liebe",
+     "vers_von": 4,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich danke meinem Gott immer,\nwenn ich in meinen Gebeten an dich denke.",
+       "englisch_web": "I thank my God always, making mention of you in my prayers,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn ich höre von deiner Liebe\nund von deinem Glauben,\nden du an den Herrn Jesus hast\nund den du allen Heiligen zeigst.",
+       "englisch_web": "hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ich bete,\ndass die Gemeinschaft,\ndie aus deinem Glauben kommt,\nwirksam wird,\ndamit du alles Gute erkennst,\ndas wir in Christus Jesus haben.",
+       "englisch_web": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn wir haben viel Freude und Trost durch deine Liebe.\nDenn durch dich,\nBruder,\nsind die Herzen der Heiligen erfrischt worden.",
+       "englisch_web": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother."
+      }
+     ],
+     "erklaerung": "Vers 5–7: Philemon ist bekannt für seine Liebe zu anderen Christen. Paulus lobt ihn ehrlich. Diese Liebe soll Philemon nun auch Onesimus zeigen.\nVers 7: „Erfrischt“: Philemon hat anderen gutgetan, wie ein kühles Getränk an einem heißen Tag."
+    },
+    {
+     "ueberschrift": "Paulus bittet für Onesimus",
+     "vers_von": 8,
+     "vers_bis": 22,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum könnte ich dir in Christus mit allem Freimut befehlen,\nwas sich gehört.",
+       "englisch_web": "Therefore though I have all boldness in Christ to command you that which is appropriate,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Aber wegen der Liebe bitte ich dich lieber,\nich,\nPaulus,\nein alter Mann\nund jetzt auch ein Gefangener von Jesus Christus.",
+       "englisch_web": "yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Ich bitte dich für mein Kind Onesimus.\nIch bin im Gefängnis sein Vater geworden.",
+       "englisch_web": "I appeal to you for my child Onesimus, whom I have become the father of in my chains,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Früher war er für dich nutzlos,\naber jetzt ist er für dich und für mich nützlich.",
+       "englisch_web": "who once was useless to you, but now is useful to you and to me."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Ich schicke ihn zu dir zurück.\nNimm ihn auf,\ndenn er ist mein eigenes Herz.",
+       "englisch_web": "I am sending him back. Therefore receive him, that is, my own heart,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich hätte ihn gern bei mir behalten,\ndamit er mir an deiner Stelle dient,\nwährend ich für die gute Nachricht im Gefängnis bin.",
+       "englisch_web": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Aber ohne deine Zustimmung wollte ich nichts tun.\nDenn deine gute Tat soll nicht erzwungen sein,\nsondern freiwillig.",
+       "englisch_web": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Denn vielleicht wurde er darum für eine Weile von dir getrennt,\ndamit du ihn für immer zurückbekommst,",
+       "englisch_web": "For perhaps he was therefore separated from you for a while that you would have him forever,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "nicht mehr als Sklaven,\nsondern als mehr als einen Sklaven:\nals geliebten Bruder.\nDas ist er ganz besonders für mich,\naber wie viel mehr für dich,\nals Mensch und im Herrn.",
+       "englisch_web": "no longer as a slave, but more than a slave, a beloved brother—especially to me, but how much rather to you, both in the flesh and in the Lord."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Wenn du mich also als Partner ansiehst,\ndann nimm ihn auf wie mich selbst.",
+       "englisch_web": "If then you count me a partner, receive him as you would receive me."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Wenn er dir aber Schaden zugefügt hat\noder dir etwas schuldet,\ndann rechne das mir an.",
+       "englisch_web": "But if he has wronged you at all or owes you anything, put that to my account."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Ich,\nPaulus,\nschreibe es mit eigener Hand:\nIch werde es bezahlen.\nIch will gar nicht davon reden,\ndass du mir sogar dich selbst schuldest.",
+       "englisch_web": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides)."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Ja,\nBruder,\nlass mich durch dich Freude im Herrn haben.\nErfrische mein Herz in Christus.",
+       "englisch_web": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Ich schreibe dir,\nweil ich darauf vertraue,\ndass du gehorchst.\nIch weiß,\ndass du sogar noch mehr tun wirst,\nals ich sage.",
+       "englisch_web": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Mach mir außerdem ein Gästezimmer bereit.\nDenn ich hoffe,\ndass ich euch durch eure Gebete wieder geschenkt werde.",
+       "englisch_web": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you."
+      }
+     ],
+     "erklaerung": "Vers 8–9: Paulus könnte befehlen. Aber er bittet. Liebe zwingt nicht.\nVers 10: Onesimus wurde im Gefängnis durch Paulus Christ. Darum nennt Paulus ihn „mein Kind“.\nVers 11: Ein Wortspiel: Der Name „Onesimus“ heißt auf Griechisch „der Nützliche“. Früher war er „nutzlos“, jetzt ist er wirklich „nützlich“.\nVers 12: „Mein eigenes Herz“: Paulus liebt Onesimus sehr. Ein Sklave galt damals als Besitz. Paulus nennt ihn sein Herz.\nVers 16 ist der wichtigste Vers: „Nicht mehr als Sklave, sondern als geliebter Bruder.“ In Christus sind Herr und Sklave Geschwister. Das hat die Beziehung von Grund auf verändert.\nVers 17: „Nimm ihn auf wie mich selbst“: Onesimus soll so behandelt werden wie Paulus, der Apostel.\nVers 18–19: Paulus will für mögliche Schulden von Onesimus selbst bezahlen. Das erinnert daran, wie Christus für uns eintritt.\nVers 21: „Noch mehr, als ich sage“: Viele Ausleger verstehen das als Hinweis, dass Philemon Onesimus freilassen soll.\nFür heute: Der Brief zeigt, wie der Glaube Beziehungen verändert. Kein Mensch darf einem anderen gehören. Jeder Mensch ist ein Bruder oder eine Schwester. Heute gibt es noch immer Menschenhandel und Zwangsarbeit. Christen sollen dagegen eintreten."
+    },
+    {
+     "ueberschrift": "Grüße",
+     "vers_von": 23,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 23,
+       "leichte_sprache": "Es grüßt dich Epaphras,\nmein Mitgefangener in Christus Jesus,",
+       "englisch_web": "Epaphras, my fellow prisoner in Christ Jesus, greets you,"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "und auch Markus,\nAristarchus,\nDemas\nund Lukas,\nmeine Mitarbeiter.",
+       "englisch_web": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Die Gnade unseres Herrn Jesus Christus\nsei mit eurem Geist.\nAmen.",
+       "englisch_web": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+      }
+     ],
+     "erklaerung": "Vers 23–24: Fast dieselben Namen stehen auch in Kolosser 4,10–14. Darum meinen viele Ausleger, dass die beiden Briefe zur gleichen Zeit geschrieben und zusammen nach Kolossä gebracht wurden.\nNach einer alten Überlieferung wurde ein Onesimus später Bischof von Ephesus. Ob es derselbe Mann ist, wissen wir nicht sicher."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im Brief an Philemon gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Ein persönlicher Brief:** Paulus schreibt aus dem Gefängnis an seinen Freund Philemon, an Apphia, an Archippus und an die Hausgemeinde.\n**Bitten statt befehlen:** Paulus könnte befehlen, aber er bittet aus Liebe. Philemon soll freiwillig Gutes tun.\n**Ein Sklave wird zum Bruder:** Onesimus ist Christ geworden. Philemon soll ihn nicht mehr als Sklaven, sondern als geliebten Bruder aufnehmen.\n**Paulus tritt für Onesimus ein:** Er will selbst bezahlen, was Onesimus schuldet.\n**Für heute:** Der Glaube verändert, wie wir einander sehen. Jeder Mensch hat die gleiche Würde. Niemand darf einem anderen gehören.\n**Wie geht es weiter?** Als Nächstes kommt der Brief an die Hebräer. Er erklärt, wer Jesus ist, mit vielen Bildern aus den Schriften Israels."
+    }
+   ]
+  }
+ ]
+}
