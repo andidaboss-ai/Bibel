@@ -110,7 +110,7 @@ und ihn zu seiner Rechten in der himmlischen Welt gesetzt hat,
 [21] hoch über jede Herrschaft,
 Gewalt,
 Macht
-und Herrschaft
+und Hoheit
 und über jeden Namen,
 der genannt wird,
 nicht nur in dieser Zeit,
