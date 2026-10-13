@@ -46,3 +46,41 @@ python3 werkzeuge/ebook/ebook_bauen.py      # alle EPUBs, bindet die Cover ein
 ```
 
 Die Schriften (Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. Sie stehen alle unter der SIL Open Font License 1.1, die Lizenztexte liegen dabei. Sie dürfen in E-Books eingebettet und verkauft werden.
+
+---
+
+# Druckausgabe (Taschenbuch) für Amazon KDP Print
+
+Eine einzige Druckdatei für die ganze Bibel geht bei KDP nicht. KDP druckt höchstens **828 Seiten** pro Taschenbuch, die ganze Bibel hat im Druck rund 2.900 Seiten. Darum gibt es die Druckausgabe in **5 Bänden**. Die Dateien liegen in `ausgabe/druck/`.
+
+| Band | Inhalt | Seiten | Rücken |
+|---|---|---|---|
+| 1 | 1. Mose bis Rut | 659 | 1,484 Zoll |
+| 2 | 1. Samuel bis Ester | 569 | 1,281 Zoll |
+| 3 | Hiob bis Hoheslied | 382 | 0,860 Zoll |
+| 4 | Jesaja bis Maleachi | 614 | 1,383 Zoll |
+| 5 | Neues Testament | 675 | 1,520 Zoll |
+
+Je Band gibt es zwei Dateien:
+- **`…-innenteil.pdf`:** der Innenteil.
+- **`…-umschlag.pdf`:** der ganze Umschlag mit Rückseite, Rücken und Vorderseite. `…-umschlag-vorschau.png` zeigt dasselbe als Bild.
+
+## Einstellungen bei KDP (Taschenbuch)
+
+- **Druckoptionen:** Schwarzweiß, **weißes Papier**. Die Breite des Buchrückens ist für weißes Papier berechnet.
+- **Format (Trim Size):** **8,5 × 11 Zoll** (21,59 × 27,94 cm).
+- **Beschnitt (Bleed):** Innenteil **ohne Beschnitt** („No Bleed“). Der Umschlag hat 0,125 Zoll Beschnitt rundum, wie KDP es verlangt.
+- **Umschlag-Oberfläche:** matt passt gut zum dunklen Design, glänzend geht auch.
+- **Manuskript:** `…-innenteil.pdf` hochladen.
+- **Cover:** „Ein Cover hochladen, das Sie bereits haben“ wählen und `…-umschlag.pdf` hochladen.
+- **Barcode:** Den Barcode setzt KDP unten rechts auf die Rückseite. Diese Fläche ist frei gelassen.
+- **Schriften:** Alle Schriften sind in den PDFs eingebettet.
+- **Ränder:** Der Innenrand (Bundsteg) ist 0,95 Zoll breit, der Außenrand 0,6 Zoll. Das erfüllt die KDP-Vorgaben für bis zu 828 Seiten.
+
+## Wichtig
+
+- **Seitenzahl ändert sich:** Wenn sich der Text ändert, ändert sich vielleicht die Seitenzahl. Dann ändert sich auch die Breite des Rückens. Deshalb immer Innenteil und Umschlag zusammen neu bauen:
+  `python3 werkzeuge/druck/druck_bauen.py`
+- **Druckvorschau:** Vor dem Freigeben in KDP den „Print Previewer“ durchsehen und am besten ein Probeexemplar („Proof Copy“) bestellen.
+- **Gebundene Ausgabe:** Ein Hardcover erlaubt bei KDP höchstens 550 Seiten. Das passt nur für Band 3. Für die anderen Bände ist nur das Taschenbuch möglich.
+- **Schriftgröße:** Die Schrift ist 11 Punkt groß. Das ist größer als in den meisten Bibeln, aber kleiner als die 14 Punkt, die Regeln für Leichte Sprache oft empfehlen. Mit 14 Punkt bräuchte man etwa 8 Bände.
