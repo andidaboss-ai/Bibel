@@ -161314,7 +161314,7 @@ die zu ihnen sagte:
 „Kommt hier herauf!“
 Und sie stiegen in einer Wolke in den Himmel hinauf,
 und ihre Feinde sahen ihnen zu.
-<sup>13</sup>In dieser Stunde gab es ein großes Erdbeben.
+<sup>13</sup>An diesem Tag gab es ein großes Erdbeben.
 Ein Zehntel der Stadt stürzte ein.
 Siebentausend Menschen wurden in dem Erdbeben getötet.
 Und die Übrigen bekamen große Angst
