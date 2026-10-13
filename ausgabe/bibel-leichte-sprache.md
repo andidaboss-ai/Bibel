@@ -154741,8 +154741,7 @@ und Timotheus,
 unser Bruder,
 schreiben an Philemon,
 unseren geliebten Mitarbeiter,
-<sup>2</sup>an Apphia,
-unsere geliebte Schwester,
+<sup>2</sup>an die geliebte Apphia,
 an Archippus,
 unseren Mitstreiter,
 und an die Gemeinde in deinem Haus:
@@ -154752,7 +154751,7 @@ und dem Herrn Jesus Christus.
 
 > **Was bedeutet das?**
 > Vers 1: Paulus nennt sich „Gefangener von Christus Jesus“. Er sitzt im Gefängnis, aber er sieht sich als jemand, der zu Christus gehört.
-> Vers 2: Apphia war wohl die Frau von Philemon. Sie wird ausdrücklich genannt und als „Schwester“ angesprochen. Archippus wird auch in Kolosser 4,17 erwähnt.
+> Vers 2: Apphia war wohl die Frau von Philemon. Sie wird ausdrücklich genannt. Archippus wird auch in Kolosser 4,17 erwähnt.
 > „Die Gemeinde in deinem Haus“: Die ersten Christen hatten keine Kirchengebäude. Sie trafen sich in Privathäusern.
 > Das WEB sagt in Vers 2 „the beloved Apphia“. In manchen alten Handschriften steht „Apphia, die Schwester“.
 
