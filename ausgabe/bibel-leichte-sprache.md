@@ -157543,3 +157543,314 @@ die euch verkündet worden ist.
 > Vers 24–25 zitiert Jesaja 40,6–8. Menschen und ihr Ruhm vergehen, aber Gottes Wort bleibt.
 
 ---
+
+## 1. Petrus – Kapitel 2
+#### Lebendige Steine
+
+---
+
+### Ihr seid lebendige Steine (Vers 1–10)
+
+<sup>1</sup>Legt also alle Bosheit ab,
+allen Betrug,
+alle Heuchelei,
+allen Neid
+und alles böse Gerede.
+<sup>2</sup>Seid wie neugeborene Babys
+und sehnt euch nach der reinen geistlichen Milch,
+damit ihr durch sie wachst,
+<sup>3</sup>wenn ihr wirklich geschmeckt habt,
+dass der Herr gütig ist.
+<sup>4</sup>Kommt zu ihm,
+dem lebendigen Stein.
+Die Menschen haben ihn verworfen,
+aber Gott hat ihn erwählt,
+und er ist kostbar.
+<sup>5</sup>Lasst auch euch selbst als lebendige Steine
+zu einem geistlichen Haus aufbauen,
+zu einer heiligen Priesterschaft.
+So sollt ihr geistliche Opfer darbringen,
+die Gott gefallen,
+durch Jesus Christus.
+<sup>6</sup>Denn es steht in der Schrift:
+„Seht,
+ich lege in Zion einen Eckstein,
+auserwählt und kostbar.
+Wer an ihn glaubt,
+wird nicht enttäuscht werden.“
+<sup>7</sup>Für euch,
+die ihr glaubt,
+ist er also wertvoll.
+Für die aber,
+die nicht gehorchen,
+gilt:
+„Der Stein,
+den die Bauleute verworfen haben,
+ist zum Eckstein geworden“,
+<sup>8</sup>und:
+„ein Stein,
+an dem man sich stößt,
+und ein Fels,
+über den man stolpert.“
+Sie stoßen sich am Wort,
+weil sie nicht gehorchen.
+Dazu sind sie auch bestimmt.
+<sup>9</sup>Ihr aber seid ein auserwähltes Geschlecht,
+eine königliche Priesterschaft,
+ein heiliges Volk,
+ein Volk,
+das Gott gehört.
+Ihr sollt die großen Taten dessen verkünden,
+der euch aus der Finsternis
+in sein wunderbares Licht gerufen hat.
+<sup>10</sup>Früher wart ihr kein Volk,
+jetzt aber seid ihr Gottes Volk.
+Früher hattet ihr kein Erbarmen gefunden,
+jetzt aber habt ihr Erbarmen gefunden.
+
+> **Was bedeutet das?**
+> Vers 2: Wie ein Baby nach Milch verlangt, so sollen Christen nach Gottes Wort verlangen.
+> Vers 4–5: Ein schönes Bild: Jeder Christ ist wie ein lebendiger Stein. Zusammen bilden sie ein Haus, in dem Gott wohnt.
+> Vers 5 und 9: „Priesterschaft“: Alle Christen dürfen Gott direkt nahe kommen und für andere beten. Evangelische Kirchen sprechen vom „Priestertum aller Glaubenden“.
+> Vers 6 zitiert Jesaja 28,16. Vers 7 zitiert Psalm 118,22. Vers 8 zitiert Jesaja 8,14.
+> Vers 9: Diese Worte sagte Gott zuerst zu Israel am Sinai (2. Mose 19,5–6). Sie gelten Israel bis heute.
+> Wichtig: Der Brief sagt nicht, dass die Christen Israel ersetzen. Er sagt: Auch die Menschen aus den Völkern, die „früher kein Volk“ waren, gehören jetzt zu Gottes Volk dazu (Vers 10, vergleiche Hosea 2,25 – in manchen Bibeln 2,23). Gott hat seinen Bund mit Israel nicht gekündigt (Römer 11,29).
+
+---
+
+### Lebt gut unter den Menschen (Vers 11–17)
+
+<sup>11</sup>Ihr Lieben,
+ich ermahne euch als Fremde und Gäste:
+Haltet euch fern von den Begierden des Körpers,
+die gegen die Seele kämpfen.
+<sup>12</sup>Führt ein gutes Leben unter den Völkern.
+Dann werden sie,
+die euch jetzt als Übeltäter verleumden,
+eure guten Taten sehen
+und Gott am Tag seines Kommens ehren.
+<sup>13</sup>Ordnet euch um des Herrn willen
+jeder menschlichen Ordnung unter:
+dem König als dem Höchsten
+<sup>14</sup>und den Statthaltern,
+die er geschickt hat,
+um die zu bestrafen,
+die Böses tun,
+und die zu loben,
+die Gutes tun.
+<sup>15</sup>Denn das ist Gottes Wille:
+Ihr sollt durch gute Taten
+den unwissenden und törichten Menschen den Mund stopfen.
+<sup>16</sup>Lebt als freie Menschen.
+Aber benutzt eure Freiheit nicht als Deckmantel für das Böse,
+sondern lebt als Diener Gottes.
+<sup>17</sup>Ehrt alle Menschen.
+Liebt die Geschwister.
+Fürchtet Gott.
+Ehrt den König.
+
+> **Was bedeutet das?**
+> Vers 12: Christen wurden damals verleumdet. Der Brief sagt: Antwortet mit guten Taten.
+> Vers 13–14: Christen sollen die staatliche Ordnung achten. Damals war der „König“ der römische Kaiser.
+> Wichtig: Das heißt nicht, dass man jedes Unrecht des Staates mitmachen muss. Wenn der Staat Unrecht befiehlt, muss man Gott mehr gehorchen als Menschen (Apostelgeschichte 5,29).
+> Vers 17: Ein kurzer, starker Satz: Ehrt alle Menschen. Jeder Mensch hat Würde.
+
+---
+
+### Ein Wort an die Sklaven (Vers 18–25)
+
+<sup>18</sup>Ihr Diener,
+ordnet euch euren Herren mit aller Ehrfurcht unter,
+nicht nur den guten und freundlichen,
+sondern auch den bösen.
+<sup>19</sup>Denn es ist ein Zeichen von Gnade,
+wenn jemand Schmerzen erträgt
+und ungerecht leidet,
+weil er sein Gewissen vor Gott ernst nimmt.
+<sup>20</sup>Denn was ist es für ein Ruhm,
+wenn ihr geschlagen werdet,
+weil ihr gesündigt habt,
+und es geduldig ertragt?
+Wenn ihr aber Gutes tut
+und dafür leidet und es geduldig ertragt,
+dann ist das wohlgefällig bei Gott.
+<sup>21</sup>Denn dazu seid ihr berufen.
+Denn auch Christus hat für euch gelitten
+und euch ein Vorbild hinterlassen,
+damit ihr seinen Spuren folgt.
+<sup>22</sup>Er hat keine Sünde getan,
+„und in seinem Mund wurde kein Betrug gefunden.“
+<sup>23</sup>Als er beschimpft wurde,
+beschimpfte er nicht zurück.
+Als er litt,
+drohte er nicht,
+sondern übergab alles dem,
+der gerecht richtet.
+<sup>24</sup>Er selbst hat unsere Sünden
+in seinem Körper auf das Holz getragen,
+damit wir den Sünden sterben
+und für die Gerechtigkeit leben.
+Durch seine Wunden seid ihr geheilt worden.
+<sup>25</sup>Denn ihr wart wie Schafe,
+die sich verirrt haben.
+Aber jetzt seid ihr zurückgekehrt
+zu dem Hirten und Aufseher eurer Seelen.
+
+> **Wichtiger Hinweis**
+> Vers 18–20 richten sich an Sklaven, die von ihren Herren geschlagen wurden. Diese Verse wurden später missbraucht, um Sklaverei, Gewalt und Unterdrückung zu rechtfertigen. Das war falsch und ist schweres Unrecht.
+
+> **Was bedeutet das?**
+> Das WEB sagt in Vers 18 „servants“, also „Diener“. Gemeint sind Sklaven. Damals konnten sie sich kaum wehren oder fliehen. Der Brief will ihnen Würde und Trost geben: Gott sieht euer ungerechtes Leiden. Auch Christus hat unschuldig gelitten.
+> Sehr wichtig: Diese Verse sind keine Aufforderung, Gewalt oder Unrecht zu ertragen, wenn man sich schützen kann. Niemand muss Schläge, Missbrauch oder Ausbeutung hinnehmen, weder bei der Arbeit noch in der Familie. Wer Gewalt erlebt, darf und soll Hilfe suchen. Im Notfall: 110. Hilfe gibt es zum Beispiel bei der Telefonseelsorge (0800 111 0 111 oder 0800 111 0 222).
+> Vers 22–25 nimmt Jesaja 53 auf: „Durch seine Wunden sind wir geheilt.“ Der leidende Gottesknecht wird hier auf Jesus bezogen.
+> Vers 25: Jesus ist wie ein guter Hirte, der verirrte Schafe zurückholt.
+
+---
+
+## 1. Petrus – Kapitel 3
+#### Bereit, von der Hoffnung zu erzählen
+
+---
+
+### Ein Wort an Ehefrauen und Ehemänner (Vers 1–7)
+
+<sup>1</sup>Ebenso sollt ihr Frauen euch euren eigenen Männern unterordnen.
+Wenn manche von ihnen dem Wort nicht gehorchen,
+sollen sie durch das Verhalten ihrer Frauen
+ohne Worte gewonnen werden,
+<sup>2</sup>wenn sie euer reines Leben in Ehrfurcht sehen.
+<sup>3</sup>Euer Schmuck soll nicht äußerlich sein,
+mit geflochtenen Haaren,
+goldenem Schmuck
+oder schönen Kleidern.
+<sup>4</sup>Sondern euer Schmuck soll der verborgene Mensch des Herzens sein,
+mit dem unvergänglichen Schmuck
+eines sanften und ruhigen Geistes.
+Das ist vor Gott sehr kostbar.
+<sup>5</sup>So haben sich früher auch die heiligen Frauen geschmückt,
+die ihre Hoffnung auf Gott setzten.
+Sie ordneten sich ihren Männern unter.
+<sup>6</sup>So gehorchte Sara dem Abraham
+und nannte ihn „Herr“.
+Ihr seid ihre Töchter geworden,
+wenn ihr Gutes tut
+und euch durch keinen Schrecken einschüchtern lasst.
+<sup>7</sup>Ebenso sollt ihr Männer verständnisvoll mit euren Frauen zusammenleben.
+Gebt der Frau Ehre als dem schwächeren Gefäß.
+Denn sie erben mit euch zusammen die Gnade des Lebens.
+So werden eure Gebete nicht behindert.
+
+> **Wichtiger Hinweis**
+> Vers 1–7 spiegeln die Familienordnung der damaligen Zeit. Damals hatte der Mann rechtlich die Macht über seine Frau. Diese Verse wurden in der Geschichte oft benutzt, um Frauen kleinzuhalten. Das war falsch.
+
+> **Was bedeutet das?**
+> Vers 1: Es geht vor allem um Frauen, die Christinnen geworden waren, während ihr Mann noch an andere Götter glaubte. Das war für sie gefährlich. Der Brief rät: Lebt so gut, dass euer Mann durch euer Vorbild gewonnen wird.
+> Vers 3–4: Der Brief verbietet keinen Schmuck. Er sagt: Wichtiger als äußere Schönheit ist ein gutes Herz.
+> Vers 6: „Lasst euch durch keinen Schrecken einschüchtern“: Frauen sollen keine Angst haben müssen.
+> Vers 7: Neu und wichtig für die damalige Zeit: Männer sollen ihre Frauen ehren. Und Frauen sind „Miterben der Gnade“, also vor Gott gleichwertig. „Schwächeres Gefäß“ meinte damals wohl die geringere körperliche Kraft und die schwächere rechtliche Stellung, nicht einen geringeren Wert.
+> Heute verstehen viele Christen die Ehe als Partnerschaft von zwei gleichberechtigten Menschen. Andere halten an einer besonderen Verantwortung des Mannes fest. Alle betonen: Es geht um Liebe, nicht um Macht.
+> Sehr wichtig: Diese Verse geben niemandem das Recht, über den Ehepartner zu herrschen oder Gewalt anzuwenden. Gewalt in der Ehe ist ein schweres Unrecht und strafbar. Niemand muss das ertragen. Hilfe gibt es beim Hilfetelefon Gewalt gegen Frauen (116 016) und beim Hilfetelefon Gewalt an Männern (0800 123 99 00). Im Notfall: 110.
+
+---
+
+### Segnet statt zu schimpfen (Vers 8–12)
+
+<sup>8</sup>Schließlich:
+Seid alle einmütig,
+mitfühlend,
+liebt einander wie Geschwister,
+seid barmherzig
+und freundlich.
+<sup>9</sup>Vergeltet nicht Böses mit Bösem
+und nicht Beleidigung mit Beleidigung.
+Sondern segnet,
+denn dazu seid ihr berufen,
+damit ihr Segen erbt.
+<sup>10</sup>Denn:
+„Wer das Leben lieben
+und gute Tage sehen will,
+der soll seine Zunge vor dem Bösen bewahren
+und seine Lippen,
+dass sie nicht betrügen.
+<sup>11</sup>Er soll sich vom Bösen abwenden
+und das Gute tun.
+Er soll Frieden suchen
+und ihm nachjagen.
+<sup>12</sup>Denn die Augen des Herrn sehen auf die Gerechten,
+und seine Ohren hören auf ihr Gebet.
+Aber das Angesicht des Herrn ist gegen die,
+die Böses tun.“
+
+> **Was bedeutet das?**
+> Vers 9: Nicht zurückschlagen, sondern segnen: Das hat auch Jesus gelehrt (vergleiche Lukas 6,28).
+> Vers 10–12 zitiert Psalm 34,13–17 (in manchen Bibeln 34,12–16).
+> Vers 11: „Frieden suchen und ihm nachjagen“: Frieden kommt nicht von allein. Man muss sich aktiv dafür einsetzen.
+
+---
+
+### Bereit zur Antwort (Vers 13–17)
+
+<sup>13</sup>Wer kann euch schaden,
+wenn ihr dem Guten nacheifert?
+<sup>14</sup>Aber auch wenn ihr wegen der Gerechtigkeit leiden müsst,
+seid ihr glücklich zu preisen.
+„Fürchtet euch nicht vor dem,
+wovor sie sich fürchten,
+und erschreckt nicht.“
+<sup>15</sup>Sondern haltet Gott,
+den Herrn,
+in euren Herzen heilig.
+Seid immer bereit,
+jedem eine Antwort zu geben,
+der euch nach dem Grund für die Hoffnung fragt,
+die in euch ist.
+Tut es mit Bescheidenheit und Ehrfurcht
+<sup>16</sup>und mit einem guten Gewissen.
+Dann werden die beschämt,
+die euch als Übeltäter verleumden
+und euer gutes Leben in Christus schlechtmachen.
+<sup>17</sup>Denn es ist besser,
+wenn es Gottes Wille ist,
+für gute Taten zu leiden
+als für böse.
+
+> **Was bedeutet das?**
+> Vers 14 nimmt Jesaja 8,12 auf.
+> Vers 15 ist ein bekannter Vers: Christen sollen erklären können, warum sie hoffen. Aber nicht aufdringlich oder überheblich, sondern „mit Bescheidenheit und Ehrfurcht“, also respektvoll gegenüber anderen.
+> Vers 17: Leiden ist nicht gut. Aber wenn man schon leiden muss, dann besser, weil man Gutes getan hat.
+
+---
+
+### Christus hat gelitten und lebt (Vers 18–22)
+
+<sup>18</sup>Denn auch Christus hat einmal für die Sünden gelitten,
+der Gerechte für die Ungerechten,
+um euch zu Gott zu führen.
+Er wurde getötet im Fleisch,
+aber lebendig gemacht im Geist.
+<sup>19</sup>In ihm ging er auch hin
+und predigte den Geistern im Gefängnis.
+<sup>20</sup>Sie waren früher ungehorsam gewesen,
+als Gott in den Tagen Noahs geduldig wartete,
+während das Schiff gebaut wurde.
+In ihm wurden nur wenige,
+nämlich acht Menschen,
+durch das Wasser gerettet.
+<sup>21</sup>Das ist ein Bild für die Taufe,
+die euch jetzt rettet.
+Sie ist nicht ein Abwaschen von Schmutz vom Körper,
+sondern die Antwort eines guten Gewissens an Gott,
+durch die Auferstehung von Jesus Christus.
+<sup>22</sup>Er ist in den Himmel gegangen
+und sitzt an der rechten Seite Gottes.
+Engel,
+Mächte
+und Gewalten sind ihm unterworfen.
+
+> **Was bedeutet das?**
+> Vers 18: „Der Gerechte für die Ungerechten“: Jesus, der ohne Schuld war, ist für alle gestorben.
+> Vers 19–20 sind sehr schwer zu verstehen. Viele Christen sehen darin einen Hinweis, dass Christus nach seinem Tod auch zu den Toten gegangen ist. Im Glaubensbekenntnis heißt es darum: „hinabgestiegen in das Reich des Todes“. Das zeigt: Kein Ort ist so fern, dass Christus nicht hinkommen könnte. Andere Ausleger verstehen die Verse anders.
+> Vers 20–21: Die Arche Noahs ist ein Bild für die Taufe. Wie Noah durch das Wasser gerettet wurde, so beginnt in der Taufe ein neues Leben.
+> Vers 22: Christus ist der Herr über alle Mächte. Niemand muss sich vor ihnen fürchten.
+
+---
