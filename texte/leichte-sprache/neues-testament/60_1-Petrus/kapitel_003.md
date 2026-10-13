@@ -140,7 +140,7 @@ und Gewalten sind ihm unterworfen.
 
 > **Was bedeutet das?**
 > Vers 18: „Der Gerechte für die Ungerechten“: Jesus, der ohne Schuld war, ist für alle gestorben.
-> Vers 19–20 sind sehr schwer zu verstehen. Viele Christen sehen darin einen Hinweis, dass Christus nach seinem Tod auch zu den Toten gegangen ist. Im Glaubensbekenntnis heißt es darum: „hinabgestiegen in das Reich des Todes“. Das zeigt: Kein Ort ist so fern, dass Christus nicht hinkommen könnte. Andere Ausleger verstehen die Verse anders.
+> Vers 19–20 sind sehr schwer zu verstehen. Viele Christen sehen darin einen Hinweis, dass Christus nach seinem Tod auch zu den Toten gegangen ist. Darum bekennen viele Kirchen im Glaubensbekenntnis, dass Jesus nach seinem Tod in das Reich der Toten gegangen ist. Das zeigt: Kein Ort ist so fern, dass Christus nicht hinkommen könnte. Andere Ausleger verstehen die Verse anders.
 > Vers 20–21: Die Arche Noahs ist ein Bild für die Taufe. Wie Noah durch das Wasser gerettet wurde, so beginnt in der Taufe ein neues Leben.
 > Vers 22: Christus ist der Herr über alle Mächte. Niemand muss sich vor ihnen fürchten.
 
