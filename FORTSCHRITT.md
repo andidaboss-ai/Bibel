@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 1161 von 1189 Kapiteln (97.6 %), 30576 von 31098 Versen.**
+**Gesamt: 1162 von 1189 Kapiteln (97.7 %), 30600 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 59 | Jakobus | NT | 5 / 5 | fertig |
 | 60 | 1. Petrus | NT | 5 / 5 | fertig |
 | 61 | 2. Petrus | NT | 3 / 3 | fertig |
-| 62 | 1. Johannes | NT | 2 / 5 | in Arbeit |
+| 62 | 1. Johannes | NT | 3 / 5 | in Arbeit |
 | 63 | 2. Johannes | NT | 0 / 1 | – |
 | 64 | 3. Johannes | NT | 0 / 1 | – |
 | 65 | Judas | NT | 0 / 1 | – |
