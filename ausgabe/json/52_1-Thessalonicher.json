@@ -1,0 +1,93 @@
+{
+ "nr": 52,
+ "code": "1TH",
+ "kuerzel": "1Thess",
+ "name": "1. Thessalonicher",
+ "name_englisch": "1 Thessalonians",
+ "testament": "neues-testament",
+ "kapitel": 5,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Ein Vorbild für alle",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der erste Brief an die Thessalonicher",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Thessalonich ist das heutige Thessaloniki in Griechenland. Damals war es eine große Hafenstadt und die Hauptstadt der römischen Provinz Mazedonien.\nPaulus kam mit Silas und Timotheus nach Thessalonich und gründete dort eine Gemeinde (Apostelgeschichte 17,1–9). Nach kurzer Zeit musste er die Stadt wegen Unruhen verlassen.\nPaulus macht sich Sorgen um die junge Gemeinde. Er schickt Timotheus zu ihr. Als Timotheus gute Nachrichten bringt, schreibt Paulus diesen Brief, wohl aus Korinth.\nDer Brief ist wohl der älteste Brief von Paulus, den wir haben, und damit eine der ältesten Schriften des Neuen Testaments. Er wurde etwa um das Jahr 50 nach Christus geschrieben.\nEin wichtiges Thema ist die Hoffnung: Was ist mit den Christen, die schon gestorben sind? Paulus tröstet die Gemeinde mit der Hoffnung auf das Wiederkommen von Jesus.\n**Ein wichtiger Hinweis:** In Kapitel 2 stehen sehr harte Worte über „die Juden“. Wir erklären im Kasten, warum diese Verse niemals gegen Juden verwendet werden dürfen.\nDer erste Thessalonicherbrief hat 5 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 1,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\nSilvanus\nund Timotheus\nschreiben an die Gemeinde der Thessalonicher,\ndie in Gott, dem Vater,\nund dem Herrn Jesus Christus lebt:\nGnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Silvanus ist derselbe Mann, der in der Apostelgeschichte „Silas“ heißt. Silas ist die Kurzform. Er und Timotheus waren bei der Gründung der Gemeinde dabei."
+    },
+    {
+     "ueberschrift": "Dank für die Gemeinde",
+     "vers_von": 2,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 2,
+       "leichte_sprache": "Wir danken Gott immer für euch alle,\nwenn wir in unseren Gebeten an euch denken.",
+       "englisch_web": "We always give thanks to God for all of you, mentioning you in our prayers,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ohne Aufhören erinnern wir uns vor unserem Gott und Vater\nan das Werk eures Glaubens,\nan die Mühe eurer Liebe\nund an die Ausdauer eurer Hoffnung\nauf unseren Herrn Jesus Christus.",
+       "englisch_web": "remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Brüder,\nvon Gott geliebt:\nWir wissen,\ndass ihr erwählt seid.",
+       "englisch_web": "We know, brothers loved by God, that you are chosen,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn unsere gute Nachricht kam zu euch\nnicht nur mit Worten,\nsondern auch mit Kraft,\nmit dem Heiligen Geist\nund mit großer Gewissheit.\nIhr wisst ja,\nwie wir uns bei euch verhalten haben,\neuch zuliebe.",
+       "englisch_web": "and that our Good News came to you not in word only, but also in power, and in the Holy Spirit and with much assurance. You know what kind of men we showed ourselves to be among you for your sake."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und ihr seid unserem Beispiel gefolgt\nund dem Beispiel des Herrn.\nIhr habt das Wort in großer Bedrängnis angenommen,\nmit der Freude des Heiligen Geistes.",
+       "englisch_web": "You became imitators of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "So seid ihr ein Vorbild geworden\nfür alle Glaubenden in Mazedonien und in Achaja.",
+       "englisch_web": "so that you became an example to all who believe in Macedonia and in Achaia."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denn von euch aus ist das Wort des Herrn bekannt geworden,\nnicht nur in Mazedonien und Achaja.\nÜberall hat sich herumgesprochen,\nwie ihr an Gott glaubt.\nWir brauchen gar nichts mehr darüber zu sagen.",
+       "englisch_web": "For from you the word of the Lord has been declared, not only in Macedonia and Achaia, but also in every place your faith toward God has gone out, so that we need not say anything."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Denn die Leute erzählen selbst von uns,\nwie ihr uns aufgenommen habt\nund wie ihr euch von den Götzen zu Gott bekehrt habt,\num dem lebendigen und wahren Gott zu dienen",
+       "englisch_web": "For they themselves report concerning us what kind of a reception we had from you, and how you turned to God from idols to serve a living and true God,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "und um seinen Sohn vom Himmel zu erwarten.\nGott hat ihn von den Toten auferweckt:\nJesus,\nder uns vor dem kommenden Zorn rettet.",
+       "englisch_web": "and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come."
+      }
+     ],
+     "erklaerung": "Vers 3: Glaube, Liebe und Hoffnung: Diese drei gehören für Paulus immer zusammen (vergleiche 1. Korinther 13,13). Hier sind sie zum ersten Mal zusammen genannt. Glaube zeigt sich in Taten, Liebe macht Mühe, Hoffnung gibt Ausdauer.\nVers 5: Die gute Nachricht ist nicht nur eine Lehre. Sie hat Kraft und verändert Menschen.\nVers 6: „In großer Bedrängnis“: Die Christen in Thessalonich hatten von Anfang an Gegner und wurden angefeindet (Apostelgeschichte 17,5–9). Trotzdem hatten sie Freude.\nVers 7: Achaja war die römische Provinz im Süden Griechenlands, mit der Hauptstadt Korinth.\nVers 9: Die meisten Christen in Thessalonich hatten vorher andere Götter verehrt. Sie haben sich dem Gott Israels zugewandt, dem „lebendigen und wahren Gott“.\nVers 10: Die ersten Christen hofften sehr, dass Jesus bald wiederkommt. „Der kommende Zorn“ meint Gottes Gericht über das Böse. Jesus rettet davor. Christen müssen keine Angst vor dem Gericht haben."
+    }
+   ]
+  }
+ ]
+}
