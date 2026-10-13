@@ -1,0 +1,167 @@
+{
+ "nr": 49,
+ "code": "EPH",
+ "kuerzel": "Eph",
+ "name": "Epheser",
+ "name_englisch": "Ephesians",
+ "testament": "neues-testament",
+ "kapitel": 6,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Gesegnet in Christus",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Epheser",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Ephesus war eine große Hafenstadt in der heutigen Türkei. Dort stand ein berühmter Tempel der Göttin Artemis. Paulus lebte und arbeitete mehrere Jahre in Ephesus (Apostelgeschichte 19).\nDer Brief nennt sich als Brief von Paulus. Viele Fachleute meinen heute, dass er von einem Schüler von Paulus geschrieben wurde, im Sinne von Paulus. Andere halten Paulus selbst für den Verfasser. Der Brief ist wohl im Gefängnis geschrieben (3,1; 4,1). In manchen alten Handschriften fehlen in Vers 1 die Worte „in Ephesus“. Vielleicht war der Brief für mehrere Gemeinden bestimmt.\nDas große Thema ist die eine Kirche: Juden und Menschen aus allen Völkern sind durch Christus zu einem Volk zusammengewachsen. Christus hat die Trennung zwischen ihnen überwunden.\nIm zweiten Teil (Kapitel 4 bis 6) geht es um das Leben als Christ im Alltag.\n**Ein wichtiger Hinweis:** In Kapitel 5 und 6 stehen Regeln für Ehepaare, Kinder, Eltern, Sklaven und Herren. Sie spiegeln die Ordnung der damaligen Gesellschaft. Wir erklären in den Kästen, wie Christen sie heute verstehen.\nDer Epheserbrief hat 6 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\ndurch den Willen Gottes ein Apostel von Christus Jesus,\nschreibt an die Heiligen in Ephesus,\ndie an Christus Jesus glauben.",
+       "englisch_web": "Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "„Heilige“ sind alle Christen. Sie gehören zu Gott."
+    },
+    {
+     "ueberschrift": "Ein Lob auf Gott",
+     "vers_von": 3,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus.\nEr hat uns in Christus gesegnet\nmit jedem geistlichen Segen\nin der himmlischen Welt.",
+       "englisch_web": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn in ihm hat er uns erwählt,\nschon bevor die Welt gegründet wurde.\nWir sollten heilig und ohne Fehler vor ihm sein,\nin Liebe.",
+       "englisch_web": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Er hat uns im Voraus dazu bestimmt,\ndurch Jesus Christus seine Kinder zu werden.\nSo hat er es gewollt,\nweil es ihm Freude machte.",
+       "englisch_web": "having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Das geschah zum Lob seiner herrlichen Gnade.\nDiese Gnade hat er uns geschenkt\nin seinem geliebten Sohn.",
+       "englisch_web": "to the praise of the glory of his grace, by which he freely gave us favor in the Beloved."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "In ihm haben wir die Erlösung durch sein Blut,\ndie Vergebung unserer Verfehlungen,\nnach dem Reichtum seiner Gnade.",
+       "englisch_web": "In him we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Diese Gnade hat er uns reichlich geschenkt,\nmit aller Weisheit und Klugheit.",
+       "englisch_web": "which he made to abound toward us in all wisdom and prudence,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er hat uns das Geheimnis seines Willens bekannt gemacht.\nSo hat er es in Christus beschlossen,\nweil es ihm gefiel.",
+       "englisch_web": "making known to us the mystery of his will, according to his good pleasure which he purposed in him"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Er wollte es ausführen,\nwenn die Zeiten erfüllt sind:\nAlles soll in Christus zusammengefasst werden,\nwas im Himmel und was auf der Erde ist,\nin ihm.",
+       "englisch_web": "to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "In ihm haben auch wir ein Erbe bekommen.\nWir waren dazu im Voraus bestimmt\nnach dem Plan dessen,\nder alles nach dem Ratschluss seines Willens wirkt.",
+       "englisch_web": "We were also assigned an inheritance in him, having been foreordained according to the purpose of him who does all things after the counsel of his will,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Wir sollen zum Lob seiner Herrlichkeit da sein,\nwir,\ndie wir schon früher auf Christus gehofft haben.",
+       "englisch_web": "to the end that we should be to the praise of his glory, we who had before hoped in Christ."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "In ihm seid auch ihr,\nnachdem ihr das Wort der Wahrheit gehört habt,\ndie gute Nachricht von eurer Rettung,\nund nachdem ihr zum Glauben gekommen seid,\nmit dem versprochenen Heiligen Geist versiegelt worden.",
+       "englisch_web": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er ist das Pfand für unser Erbe,\nbis Gott sein Eigentum ganz erlöst,\nzum Lob seiner Herrlichkeit.",
+       "englisch_web": "who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory."
+      }
+     ],
+     "erklaerung": "Vers 3–14 ist im Griechischen ein einziger, sehr langer Satz, ein großer Lobgesang auf Gott. Wir haben ihn in kurze Sätze aufgeteilt.\nVers 4–5: „Erwählt“ und „im Voraus bestimmt“: Gottes Liebe zu uns war schon da, bevor wir lebten. Über diese Worte haben Christen viel nachgedacht und verschieden gedacht. Hier sollen sie vor allem trösten: Wir sind von Gott gewollt.\nVers 10: Gott will alles, was zerbrochen und getrennt ist, in Christus wieder zusammenführen.\nVers 12–13: „Wir, die wir schon früher gehofft haben“ meint wohl die Christen jüdischer Herkunft. „Auch ihr“ meint die Christen aus den Völkern. Beide gehören zusammen.\nVers 13–14: Der Heilige Geist ist wie ein Siegel und wie eine Anzahlung: Er zeigt, dass wir zu Gott gehören, und er garantiert, dass Gott sein Versprechen ganz erfüllen wird."
+    },
+    {
+     "ueberschrift": "Gebet für die Gemeinde",
+     "vers_von": 15,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Darum habe auch ich,\nals ich von eurem Glauben an den Herrn Jesus gehört habe\nund von eurer Liebe zu allen Heiligen,",
+       "englisch_web": "For this cause I also, having heard of the faith in the Lord Jesus which is among you and the love which you have toward all the saints,"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "nicht aufgehört,\nfür euch zu danken.\nIch denke in meinen Gebeten an euch.",
+       "englisch_web": "don’t cease to give thanks for you, making mention of you in my prayers,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Ich bete,\ndass der Gott unseres Herrn Jesus Christus,\nder Vater der Herrlichkeit,\neuch den Geist der Weisheit und der Offenbarung gibt,\ndamit ihr ihn erkennt.",
+       "englisch_web": "that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him,"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Er soll die Augen eures Herzens erleuchten,\ndamit ihr wisst,\nzu welcher Hoffnung er euch berufen hat,\nwie reich die Herrlichkeit seines Erbes unter den Heiligen ist,",
+       "englisch_web": "having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "und wie übergroß seine Kraft für uns ist,\ndie wir glauben.\nDiese Kraft wirkt mit der Stärke seiner Macht.",
+       "englisch_web": "and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Mit dieser Kraft hat er in Christus gewirkt,\nals er ihn von den Toten auferweckt hat\nund ihn zu seiner Rechten in der himmlischen Welt gesetzt hat,",
+       "englisch_web": "which he worked in Christ when he raised him from the dead and made him to sit at his right hand in the heavenly places,"
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "hoch über jede Herrschaft,\nGewalt,\nMacht\nund Herrschaft\nund über jeden Namen,\nder genannt wird,\nnicht nur in dieser Zeit,\nsondern auch in der kommenden.",
+       "englisch_web": "far above all rule, authority, power, dominion, and every name that is named, not only in this age, but also in that which is to come."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Alles hat er ihm unter die Füße gelegt.\nUnd er hat ihn der Gemeinde als Haupt über alles gegeben.",
+       "englisch_web": "He put all things in subjection under his feet, and gave him to be head over all things for the assembly,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Die Gemeinde ist sein Leib,\ndie Fülle dessen,\nder alles in allem erfüllt.",
+       "englisch_web": "which is his body, the fullness of him who fills all in all."
+      }
+     ],
+     "erklaerung": "Vers 18: „Die Augen des Herzens“: Es gibt Dinge, die man nicht mit den Augen sieht, sondern nur mit dem Herzen erkennt.\nVers 20: „Zur Rechten Gottes“ ist ein Bild: Christus hat die höchste Ehre und Macht (vergleiche Psalm 110,1).\nVers 21: Christus steht über allen Mächten, die Menschen Angst machen.\nVers 22 nimmt Psalm 8,7 auf (in manchen Bibeln 8,6).\nVers 22–23: Christus ist das Haupt, die Gemeinde ist sein Leib. Ohne ihn kann sie nicht leben."
+    }
+   ]
+  }
+ ]
+}
