@@ -1,0 +1,151 @@
+{
+ "nr": 55,
+ "code": "2TI",
+ "kuerzel": "2Tim",
+ "name": "2. Timotheus",
+ "name_englisch": "2 Timothy",
+ "testament": "neues-testament",
+ "kapitel": 4,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Schäme dich nicht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der zweite Brief an Timotheus",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Dieser Brief ist wie ein Abschiedsbrief. Paulus sitzt in Rom im Gefängnis (1,17). Er rechnet damit, dass er bald hingerichtet wird (4,6). Viele haben ihn verlassen. Nur Lukas ist noch bei ihm (4,11).\nPaulus schreibt an Timotheus, seinen „geliebten Sohn“ im Glauben. Er ermutigt ihn, treu zu bleiben, auch wenn es schwer wird. Und er bittet ihn, bald zu ihm zu kommen.\nWie beim ersten Timotheusbrief meinen viele Fachleute, dass ein Schüler von Paulus den Brief geschrieben hat, im Sinne von Paulus. Andere halten Paulus selbst für den Verfasser. Gerade dieser Brief enthält viele persönliche Einzelheiten.\nDer zweite Timotheusbrief hat 4 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\ndurch den Willen Gottes ein Apostel von Christus Jesus,\nnach der Verheißung des Lebens,\ndas in Christus Jesus ist,",
+       "englisch_web": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "schreibt an Timotheus,\nsein geliebtes Kind:\nGnade,\nBarmherzigkeit\nund Frieden\nvon Gott, dem Vater,\nund von Christus Jesus, unserem Herrn.",
+       "englisch_web": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord."
+      }
+     ],
+     "erklaerung": "Vers 1: „Die Verheißung des Lebens“: Paulus erwartet den Tod. Aber er weiß: In Christus gibt es Leben, das nicht endet."
+    },
+    {
+     "ueberschrift": "Dank und Ermutigung",
+     "vers_von": 3,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich danke Gott,\ndem ich wie meine Vorfahren\nmit reinem Gewissen diene.\nOhne Aufhören denke ich an dich in meinen Gebeten,\nTag und Nacht.",
+       "englisch_web": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich sehne mich danach,\ndich zu sehen.\nIch denke an deine Tränen.\nWenn ich dich sehe,\nwerde ich mit Freude erfüllt sein.",
+       "englisch_web": "longing to see you, remembering your tears, that I may be filled with joy;"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich erinnere mich an deinen aufrichtigen Glauben.\nEr lebte zuerst in deiner Großmutter Lois\nund in deiner Mutter Eunike.\nUnd ich bin überzeugt:\nEr lebt auch in dir.",
+       "englisch_web": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Darum erinnere ich dich:\nEntfache die Gabe Gottes neu,\ndie in dir ist,\nseit ich dir die Hände aufgelegt habe.",
+       "englisch_web": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn Gott hat uns nicht einen Geist der Angst gegeben,\nsondern einen Geist der Kraft,\nder Liebe\nund der Besonnenheit.",
+       "englisch_web": "For God didn’t give us a spirit of fear, but of power, love, and self-control."
+      }
+     ],
+     "erklaerung": "Vers 3: „Wie meine Vorfahren“: Paulus sieht sich in der Tradition seiner jüdischen Vorfahren. Er dient demselben Gott wie sie.\nVers 4: „Deine Tränen“: Wohl beim letzten Abschied. Freundschaft und Tränen gehören zum Glauben dazu.\nVers 5: Der Glaube wurde in der Familie weitergegeben, von der Großmutter Lois zur Mutter Eunike und zu Timotheus. Die Mutter war Jüdin (Apostelgeschichte 16,1). Frauen haben den Glauben weitergegeben.\nVers 6: „Entfache neu“: wie ein Feuer, das wieder angefacht wird. Gaben können einschlafen, wenn man sie nicht nutzt.\nVers 7 ist ein großer Trostvers: Gottes Geist macht nicht ängstlich, sondern mutig, liebevoll und besonnen.\nWichtig: Das heißt nicht, dass Christen nie Angst haben. Angst ist ein normales Gefühl. Wer unter starken Ängsten leidet, darf sich Hilfe holen. Das ist kein Zeichen von schwachem Glauben."
+    },
+    {
+     "ueberschrift": "Schäme dich nicht für die gute Nachricht",
+     "vers_von": 8,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum schäme dich nicht für das Zeugnis von unserem Herrn\nund auch nicht für mich,\nseinen Gefangenen.\nSondern leide mit mir für die gute Nachricht,\nin der Kraft Gottes.",
+       "englisch_web": "Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er hat uns gerettet\nund uns mit einer heiligen Berufung gerufen,\nnicht wegen unserer Werke,\nsondern nach seinem eigenen Plan und seiner Gnade.\nDiese Gnade wurde uns in Christus Jesus geschenkt,\nvor ewigen Zeiten.",
+       "englisch_web": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Aber jetzt ist sie offenbar geworden,\nals unser Retter Christus Jesus erschienen ist.\nEr hat den Tod entmachtet\nund durch die gute Nachricht\nLeben und Unvergänglichkeit ans Licht gebracht.",
+       "englisch_web": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Für sie bin ich eingesetzt worden\nals Verkündiger,\nals Apostel\nund als Lehrer der Völker.",
+       "englisch_web": "For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Darum leide ich auch das alles.\nAber ich schäme mich nicht.\nDenn ich weiß,\nan wen ich glaube.\nUnd ich bin überzeugt,\ndass er bewahren kann,\nwas ich ihm anvertraut habe,\nbis zu jenem Tag.",
+       "englisch_web": "For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Halte dich an das Vorbild der gesunden Worte,\ndie du von mir gehört hast,\nim Glauben und in der Liebe,\ndie in Christus Jesus sind.",
+       "englisch_web": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Bewahre das kostbare Gut,\ndas dir anvertraut ist,\ndurch den Heiligen Geist,\nder in uns wohnt.",
+       "englisch_web": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us."
+      }
+     ],
+     "erklaerung": "Vers 8: Ein Gefangener galt damals als Schande. Viele schämten sich, mit Paulus in Verbindung gebracht zu werden. Paulus bittet Timotheus: Steh zu mir und zur guten Nachricht.\nVers 9: Rettung ist Gottes Geschenk, nicht unser Verdienst.\nVers 10: „Er hat den Tod entmachtet“: Der Tod hat nicht mehr das letzte Wort.\nVers 12: „Ich weiß, an wen ich glaube“: Paulus vertraut nicht auf eine Idee, sondern auf eine Person, auf Jesus. Er legt sein Leben in Gottes Hand."
+    },
+    {
+     "ueberschrift": "Treue und Untreue",
+     "vers_von": 15,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Du weißt ja,\ndass sich alle in der Provinz Asien von mir abgewandt haben,\ndarunter Phygelus und Hermogenes.",
+       "englisch_web": "This you know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Der Herr schenke dem Haus von Onesiphorus Barmherzigkeit.\nDenn er hat mich oft erfrischt\nund hat sich meiner Kette nicht geschämt.",
+       "englisch_web": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Sondern als er in Rom war,\nhat er mich eifrig gesucht\nund gefunden.",
+       "englisch_web": "but when he was in Rome, he sought me diligently and found me"
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Der Herr schenke ihm,\ndass er an jenem Tag Barmherzigkeit beim Herrn findet.\nUnd wie viel er in Ephesus geholfen hat,\nweißt du sehr gut.",
+       "englisch_web": "(the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well."
+      }
+     ],
+     "erklaerung": "Vers 15: „Asien“ war die römische Provinz im Westen der heutigen Türkei, mit der Hauptstadt Ephesus. Viele hatten Paulus im Stich gelassen. Das tat ihm weh.\nVers 16–17: Onesiphorus war anders. Er suchte Paulus in Rom, obwohl das gefährlich war, und besuchte ihn im Gefängnis.\nFür heute: Gefangene, Kranke und Einsame zu besuchen, ist ein Werk der Liebe (vergleiche Matthäus 25,36). Ein Besuch kann viel bedeuten.\nVers 18: Paulus spricht von Onesiphorus' „Haus“ und betet für ihn. Manche Ausleger meinen, Onesiphorus war schon gestorben."
+    }
+   ]
+  }
+ ]
+}
