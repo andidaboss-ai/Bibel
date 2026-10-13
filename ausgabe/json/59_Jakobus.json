@@ -1,0 +1,196 @@
+{
+ "nr": 59,
+ "code": "JAS",
+ "kuerzel": "Jak",
+ "name": "Jakobus",
+ "name_englisch": "James",
+ "testament": "neues-testament",
+ "kapitel": 5,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Hören und Tun",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief von Jakobus",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Der Brief nennt sich als Brief von Jakobus. Nach alter Überlieferung ist das Jakobus, der Bruder von Jesus. Er war ein wichtiger Leiter der Gemeinde in Jerusalem (Apostelgeschichte 15 und Galater 1,19). Viele Fachleute meinen, dass der Brief später im Sinne von Jakobus geschrieben wurde. Andere halten Jakobus selbst für den Verfasser.\nDer Brief ist an „die zwölf Stämme in der Zerstreuung“ gerichtet. Gemeint sind wohl Christen, die außerhalb des Landes Israel lebten, vor allem Christen jüdischer Herkunft.\nDer Brief ist sehr praktisch. Er erinnert an die Weisheitsbücher der Bibel, zum Beispiel die Sprüche, und an die Bergpredigt von Jesus.\nDas große Thema ist: Glaube zeigt sich in Taten. Der Brief setzt sich stark für die Armen ein und warnt die Reichen.\nIn der Reformationszeit wurde über diesen Brief gestritten, weil er sagt, dass der Glaube ohne Werke tot ist. Heute sehen die meisten Christen: Paulus und Jakobus ergänzen einander.\nDer Jakobusbrief hat 5 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Freude in Prüfungen",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Jakobus,\nein Diener Gottes\nund des Herrn Jesus Christus,\ngrüßt die zwölf Stämme in der Zerstreuung.",
+       "englisch_web": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Meine Brüder,\nhaltet es für lauter Freude,\nwenn ihr in verschiedene Versuchungen geratet.",
+       "englisch_web": "Count it all joy, my brothers, when you fall into various temptations,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Denn ihr wisst:\nWenn euer Glaube geprüft wird,\nbringt das Ausdauer hervor.",
+       "englisch_web": "knowing that the testing of your faith produces endurance."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Die Ausdauer aber soll ihr Werk vollenden,\ndamit ihr vollkommen und unversehrt seid\nund euch nichts fehlt.",
+       "englisch_web": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing."
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Wenn aber jemand von euch keine Weisheit hat,\nsoll er Gott darum bitten.\nGott gibt allen gern\nund ohne Vorwürfe.\nDann wird sie ihm gegeben.",
+       "englisch_web": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Er soll aber im Glauben bitten,\nohne zu zweifeln.\nDenn wer zweifelt,\nist wie eine Welle im Meer,\ndie vom Wind getrieben und hin und her geworfen wird.",
+       "englisch_web": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Ein solcher Mensch soll nicht meinen,\ndass er etwas vom Herrn bekommt.",
+       "englisch_web": "For that man shouldn’t think that he will receive anything from the Lord."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er ist ein Mensch mit gespaltenem Herzen,\nunbeständig auf all seinen Wegen.",
+       "englisch_web": "He is a double-minded man, unstable in all his ways."
+      }
+     ],
+     "erklaerung": "Vers 1: „Die zwölf Stämme“: Israel bestand aus zwölf Stämmen. Der Brief spricht die Christen als Teil des Gottesvolkes an.\nVers 2: Das WEB sagt „temptations“. Das griechische Wort meint hier vor allem Prüfungen und schwere Zeiten.\nVers 2–4: Schwere Zeiten sind nicht schön. Aber sie können uns stärker machen. „Freude“ heißt nicht, dass man Leid gut finden muss.\nVers 5: Gott gibt gern und macht keine Vorwürfe, wenn wir ihn um Hilfe bitten.\nVers 6–8: Hier geht es um Menschen, die sich nicht entscheiden wollen, ob sie Gott vertrauen.\nWichtig: Zweifel und Fragen gehören zum Glauben dazu. Auch viele Menschen in der Bibel haben gezweifelt. Gott hat Geduld mit uns."
+    },
+    {
+     "ueberschrift": "Arme und Reiche",
+     "vers_von": 9,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Der Bruder in einfachen Verhältnissen\nsoll sich seiner hohen Stellung rühmen.",
+       "englisch_web": "Let the brother in humble circumstances glory in his high position;"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Der Reiche aber seiner Erniedrigung.\nDenn wie eine Blume im Gras wird er vergehen.",
+       "englisch_web": "and the rich, in that he is made humble, because like the flower in the grass, he will pass away."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn die Sonne geht auf mit ihrer Hitze\nund lässt das Gras verdorren.\nSeine Blume fällt ab,\nund ihre schöne Gestalt vergeht.\nSo wird auch der Reiche mit seinen Geschäften vergehen.",
+       "englisch_web": "For the sun arises with the scorching wind and withers the grass; and the flower in it falls, and the beauty of its appearance perishes. So the rich man will also fade away in his pursuits."
+      }
+     ],
+     "erklaerung": "Vers 9–10: Vor Gott sind die Armen nicht weniger wert. Sie haben eine „hohe Stellung“. Und Reichtum ist vergänglich.\nVers 10–11: Das Bild vom Gras und der Blume stammt aus Jesaja 40,6–8."
+    },
+    {
+     "ueberschrift": "Versuchung kommt nicht von Gott",
+     "vers_von": 12,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Glücklich ist der Mensch,\nder in der Versuchung standhält.\nDenn wenn er sich bewährt hat,\nwird er den Kranz des Lebens bekommen.\nDen hat der Herr denen versprochen,\ndie ihn lieben.",
+       "englisch_web": "Blessed is a person who endures temptation, for when he has been approved, he will receive the crown of life which the Lord promised to those who love him."
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Niemand soll sagen,\nwenn er versucht wird:\n„Ich werde von Gott versucht.“\nDenn Gott kann nicht vom Bösen versucht werden,\nund er selbst versucht niemanden.",
+       "englisch_web": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one."
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Sondern jeder wird versucht,\nwenn er von seiner eigenen Begierde\nweggezogen und verlockt wird.",
+       "englisch_web": "But each one is tempted when he is drawn away by his own lust and enticed."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Wenn dann die Begierde schwanger geworden ist,\nbringt sie die Sünde zur Welt.\nUnd wenn die Sünde ausgewachsen ist,\nbringt sie den Tod hervor.",
+       "englisch_web": "Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Lasst euch nicht täuschen,\nmeine geliebten Brüder.",
+       "englisch_web": "Don’t be deceived, my beloved brothers."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Jede gute Gabe\nund jedes vollkommene Geschenk\nkommt von oben,\nvom Vater der Lichter.\nBei ihm gibt es keine Veränderung\nund keinen Schatten durch Wechsel.",
+       "englisch_web": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation nor turning shadow."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Aus seinem eigenen Willen hat er uns durch das Wort der Wahrheit geboren,\ndamit wir eine Art Erstlingsfrucht seiner Geschöpfe sind.",
+       "englisch_web": "Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures."
+      }
+     ],
+     "erklaerung": "Vers 13: Gott will nicht, dass wir Böses tun. Er versucht niemanden.\nVers 14–15: Böse Taten beginnen oft klein, mit einem Wunsch. Wenn man ihm nachgibt, kann er wachsen.\nVers 17: Alles Gute kommt von Gott. „Vater der Lichter“: Gott hat Sonne, Mond und Sterne geschaffen. Aber anders als sie verändert er sich nicht.\nVers 18: „Erstlingsfrucht“: Die erste Frucht der Ernte gehörte Gott. Christen sind wie ein Anfang der neuen Schöpfung."
+    },
+    {
+     "ueberschrift": "Nicht nur hören, sondern tun",
+     "vers_von": 19,
+     "vers_bis": 27,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Darum,\nmeine geliebten Brüder:\nJeder Mensch soll schnell sein zum Hören,\nlangsam zum Reden\nund langsam zum Zorn.",
+       "englisch_web": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Denn der Zorn eines Menschen bewirkt nicht die Gerechtigkeit Gottes.",
+       "englisch_web": "for the anger of man doesn’t produce the righteousness of God."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Darum legt allen Schmutz\nund alle überflüssige Bosheit ab.\nNehmt mit Sanftmut das Wort an,\ndas in euch eingepflanzt ist\nund das eure Seelen retten kann.",
+       "englisch_web": "Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Seid aber Täter des Wortes,\nnicht nur Hörer.\nSonst betrügt ihr euch selbst.",
+       "englisch_web": "But be doers of the word, and not only hearers, deluding your own selves."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Denn wenn jemand das Wort nur hört,\naber nicht tut,\ndann gleicht er einem Mann,\nder sein Gesicht im Spiegel anschaut.",
+       "englisch_web": "For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror;"
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Er sieht sich an,\ngeht weg\nund vergisst sofort,\nwie er aussah.",
+       "englisch_web": "for he sees himself, and goes away, and immediately forgets what kind of man he was."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Wer aber in das vollkommene Gesetz der Freiheit hineinschaut\nund dabei bleibt,\nwer nicht ein vergesslicher Hörer ist,\nsondern ein Täter,\nder wird glücklich sein in dem,\nwas er tut.",
+       "englisch_web": "But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does."
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "Wenn jemand meint,\ner sei fromm,\naber seine Zunge nicht im Zaum hält,\nder betrügt sein eigenes Herz.\nSeine Frömmigkeit ist wertlos.",
+       "englisch_web": "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless."
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Reine und unbefleckte Frömmigkeit vor Gott,\ndem Vater,\nist dies:\nWaisen und Witwen in ihrer Not besuchen\nund sich selbst von der Welt unbefleckt halten.",
+       "englisch_web": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world."
+      }
+     ],
+     "erklaerung": "Vers 19: Ein guter Rat für jeden Tag: erst zuhören, dann reden. Und nicht schnell wütend werden.\nVers 22–24: Das Bild vom Spiegel: Wer Gottes Wort hört, aber nichts ändert, ist wie jemand, der sich im Spiegel sieht und dann vergisst, wie er aussieht.\nVers 25: „Das Gesetz der Freiheit“: Gottes Weisung macht frei. Sie ist kein Gefängnis, sondern ein Weg zum guten Leben. So sehen es auch die Psalmen (zum Beispiel Psalm 119).\nVers 27: Echter Glaube zeigt sich darin, wie wir mit den Schwächsten umgehen. Damals waren das vor allem Waisen und Witwen.\nFür heute: Das sind alle Menschen, die keine Unterstützung haben: Alleinstehende, Kinder ohne Familie, Geflüchtete, Arme, Einsame."
+    }
+   ]
+  }
+ ]
+}
