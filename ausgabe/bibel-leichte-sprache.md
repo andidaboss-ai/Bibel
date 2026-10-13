@@ -162366,7 +162366,7 @@ die auf der Erde getötet worden sind.“
 einer großen Menge im Himmel.
 Sie sagten:
 „Halleluja!
-Die Rettung, die Herrlichkeit und die Macht
+Die Rettung, die Macht und die Herrlichkeit
 gehören unserem Gott.
 <sup>2</sup>Denn seine Gerichte sind wahr und gerecht.
 Er hat die große Hure gerichtet,
@@ -162406,7 +162406,7 @@ Sie sagten:
 „Halleluja!
 Denn der Herr, unser Gott,
 der Allmächtige,
-hat die Herrschaft angetreten!
+regiert!
 <sup>7</sup>Lasst uns fröhlich sein
 und uns sehr freuen
 und ihm die Ehre geben!
@@ -162457,7 +162457,7 @@ und ein Name,
 den niemand kennt
 außer ihm selbst.
 <sup>13</sup>Er trägt ein Gewand,
-das mit Blut getränkt ist.
+das mit Blut besprengt ist.
 Und sein Name heißt:
 „Das Wort Gottes“.
 <sup>14</sup>Die Heere im Himmel folgten ihm auf weißen Pferden.
@@ -162475,12 +162475,12 @@ UND HERR DER HERREN“.
 
 > **Was bedeutet das?**
 > Der Reiter ist Jesus. Er heißt „Treu und Wahrhaftig“ (vergleiche 3,14) und „Das Wort Gottes“ (vergleiche Johannes 1,1).
-> Vers 13: Sein Gewand ist schon mit Blut getränkt, bevor der Kampf beginnt. Viele verstehen das so: Es ist sein eigenes Blut, das er am Kreuz vergossen hat. Er siegt durch seine Hingabe.
+> Vers 13: Sein Gewand ist schon mit Blut besprengt, bevor der Kampf beginnt. Viele verstehen das so: Es ist sein eigenes Blut, das er am Kreuz vergossen hat. Er siegt durch seine Hingabe.
 > Vers 14: Die Heere tragen keine Waffen und keine Rüstung, sondern weiße Kleider. Sie kämpfen nicht selbst.
 > Vers 15: Das Schwert kommt aus seinem Mund. Es ist sein Wort, keine echte Waffe. Jesus siegt durch die Wahrheit.
 
 > **Wichtiger Hinweis**
-> Im Lauf der Geschichte haben Menschen solche Bilder benutzt, um Kriege und Gewalt im Namen von Christus zu rechtfertigen, zum Beispiel bei den Kreuzzügen. Das ist ein schlimmer Missbrauch. In der Offenbarung kämpft allein Christus, und zwar mit seinem Wort. Seine Leute tragen keine Waffen. Jesus selbst hat gesagt: Steck dein Schwert weg (vergleiche Matthäus 26,52).
+> Im Lauf der Geschichte haben Menschen solche Bilder benutzt, um Kriege und Gewalt im Namen von Christus zu rechtfertigen, zum Beispiel bei den Kreuzzügen. Das ist ein schlimmer Missbrauch. In der Offenbarung kämpft allein Christus, und zwar mit seinem Wort. Seine Leute tragen keine Waffen. Jesus selbst hat gesagt: Steck dein Schwert zurück an seinen Platz! (Matthäus 26,52).
 
 ---
 
