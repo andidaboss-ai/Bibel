@@ -1,0 +1,93 @@
+{
+ "nr": 62,
+ "code": "1JN",
+ "kuerzel": "1Joh",
+ "name": "1. Johannes",
+ "name_englisch": "1 John",
+ "testament": "neues-testament",
+ "kapitel": 5,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Gott ist Licht",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der erste Brief von Johannes",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Dieser Brief hat keinen Absender und keinen Gruß am Anfang. Er ist eher wie eine Predigt oder ein Rundschreiben an Gemeinden.\nNach alter Überlieferung hat ihn der Apostel Johannes geschrieben. Viele Fachleute meinen, dass er aus dem Kreis von Schülern kommt, aus dem auch das Johannesevangelium stammt. Sprache und Gedanken sind dem Evangelium sehr ähnlich.\nIn der Gemeinde hatte es Streit gegeben. Eine Gruppe hatte die Gemeinde verlassen. Manche von ihnen sagten wohl: Jesus war nicht wirklich ein Mensch aus Fleisch und Blut.\nDer Brief antwortet: Jesus ist wirklich Mensch geworden. Und wer Gott liebt, muss auch seine Geschwister lieben.\nDie großen Themen sind Licht, Wahrheit und vor allem die Liebe. Hier steht der berühmte Satz: Gott ist Liebe (4,8 und 4,16).\nDer erste Johannesbrief hat 5 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Wir haben es gesehen und berührt",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Wir schreiben euch von dem,\nwas von Anfang an war.\nWir haben es gehört.\nWir haben es mit unseren Augen gesehen.\nWir haben es angeschaut,\nund unsere Hände haben es berührt.\nEs geht um das Wort des Lebens.",
+       "englisch_web": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Und das Leben ist sichtbar geworden.\nWir haben es gesehen\nund bezeugen es.\nWir verkünden euch das ewige Leben,\ndas beim Vater war\nund uns sichtbar geworden ist.",
+       "englisch_web": "(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Was wir gesehen und gehört haben,\ndas verkünden wir euch,\ndamit auch ihr Gemeinschaft mit uns habt.\nUnd unsere Gemeinschaft ist Gemeinschaft mit dem Vater\nund mit seinem Sohn Jesus Christus.",
+       "englisch_web": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Und wir schreiben euch das,\ndamit unsere Freude vollkommen wird.",
+       "englisch_web": "And we write these things to you, that our joy may be fulfilled."
+      }
+     ],
+     "erklaerung": "Dieser Anfang erinnert an den Anfang vom Johannesevangelium: „Am Anfang war das Wort“ (Johannes 1,1). Mit dem „Wort des Lebens“ ist Jesus gemeint.\nVers 1: „Gehört, gesehen, berührt“: Jesus war ein echter Mensch. Man konnte ihn anfassen. Das ist wichtig gegen die Meinung, Jesus sei nur scheinbar ein Mensch gewesen.\nVers 3: Glaube ist keine Privatsache allein. Er verbindet Menschen miteinander und mit Gott."
+    },
+    {
+     "ueberschrift": "Gott ist Licht",
+     "vers_von": 5,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Das ist die Botschaft,\ndie wir von ihm gehört haben\nund die wir euch verkünden:\nGott ist Licht,\nund in ihm ist überhaupt keine Finsternis.",
+       "englisch_web": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Wenn wir sagen,\ndass wir Gemeinschaft mit ihm haben,\naber in der Finsternis leben,\ndann lügen wir\nund sagen nicht die Wahrheit.",
+       "englisch_web": "If we say that we have fellowship with him and walk in the darkness, we lie and don’t tell the truth."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Wenn wir aber im Licht leben,\nso wie er im Licht ist,\ndann haben wir Gemeinschaft miteinander.\nUnd das Blut von Jesus Christus, seinem Sohn,\nmacht uns rein von aller Sünde.",
+       "englisch_web": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Wenn wir sagen,\ndass wir keine Sünde haben,\ndann betrügen wir uns selbst,\nund die Wahrheit ist nicht in uns.",
+       "englisch_web": "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Wenn wir unsere Sünden bekennen,\ndann ist er treu und gerecht.\nEr vergibt uns die Sünden\nund macht uns rein von allem Unrecht.",
+       "englisch_web": "If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Wenn wir sagen,\ndass wir nicht gesündigt haben,\ndann machen wir ihn zum Lügner,\nund sein Wort ist nicht in uns.",
+       "englisch_web": "If we say that we haven’t sinned, we make him a liar, and his word is not in us."
+      }
+     ],
+     "erklaerung": "Vers 5: „Gott ist Licht“: Bei Gott ist nichts Böses und nichts Verstecktes. Er ist ganz gut.\nVers 6–7: „Im Licht leben“ heißt: ehrlich leben, nichts verstecken, so leben, wie es zu Gott passt.\nVers 8 und 10: Niemand ist ohne Fehler. Wer das behauptet, macht sich etwas vor.\nVers 9 ist ein großer Trost: Wer seine Schuld ehrlich zugibt, dem vergibt Gott. Man muss nicht perfekt sein. Man darf ehrlich sein.\n„Bekennen“ kann im Gebet direkt vor Gott geschehen. In manchen Kirchen gibt es auch die Beichte bei einem Pfarrer oder Priester.\nVers 7: „Das Blut von Jesus“ meint seinen Tod am Kreuz. Die Christen glauben: Durch seinen Tod schenkt Gott Vergebung."
+    }
+   ]
+  }
+ ]
+}
