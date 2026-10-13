@@ -149541,3 +149541,165 @@ und Erben nach der Verheißung.
 > Das heißt nicht, dass Unterschiede verschwinden: Juden bleiben Juden, Frauen bleiben Frauen. Aber kein Unterschied macht einen Menschen vor Gott wertvoller als einen anderen.
 > Für heute: Dieser Vers ermutigt Christen, gegen Rassismus, Ausbeutung und Benachteiligung von Frauen einzutreten.
 > Vers 29: Auch Christen aus den Völkern gehören durch Christus zur Familie Abrahams.
+
+## Galater – Kapitel 4
+#### Kinder Gottes, nicht Sklaven
+
+---
+
+### Gott hat seinen Sohn gesandt (Vers 1–7)
+
+<sup>1</sup>Ich sage aber:
+Solange der Erbe ein Kind ist,
+unterscheidet er sich nicht von einem Sklaven,
+obwohl ihm alles gehört.
+<sup>2</sup>Er steht unter Vormündern und Verwaltern
+bis zu dem Tag,
+den der Vater bestimmt hat.
+<sup>3</sup>So waren auch wir,
+als wir noch Kinder waren,
+den Grundkräften der Welt untertan wie Sklaven.
+<sup>4</sup>Als aber die Zeit erfüllt war,
+sandte Gott seinen Sohn,
+geboren von einer Frau,
+geboren unter dem Gesetz,
+<sup>5</sup>damit er die freikauft,
+die unter dem Gesetz waren,
+damit wir als Kinder angenommen werden.
+<sup>6</sup>Und weil ihr Kinder seid,
+hat Gott den Geist seines Sohnes in eure Herzen gesandt.
+Der ruft:
+„Abba! Vater!“
+<sup>7</sup>Darum bist du nicht mehr Sklave,
+sondern Sohn.
+Und wenn du Sohn bist,
+dann bist du auch Erbe Gottes durch Christus.
+
+> **Was bedeutet das?**
+> Vers 1–2: Ein Kind, das einmal ein großes Erbe bekommt, hat als Kind noch nichts zu sagen. So waren die Menschen, bevor Jesus kam.
+> Vers 3: „Grundkräfte der Welt“: Gemeint sind wohl Mächte, von denen Menschen sich abhängig fühlten, zum Beispiel Sterne, Götter oder feste religiöse Regeln. Ausleger verstehen das Wort verschieden.
+> Vers 4: „Geboren von einer Frau, geboren unter dem Gesetz“: Jesus war ein echter Mensch und ein Jude, der nach der Tora lebte.
+> Vers 6: „Abba“ ist Aramäisch und heißt „Vater“, so wie ein Kind seinen Vater liebevoll anredet (vergleiche Römer 8,15).
+> Vers 7: Das WEB sagt „son“. Gemeint sind alle Christen, Frauen und Männer. In Kapitel 3,28 hat Paulus gesagt: Da ist nicht Mann und Frau.
+
+---
+
+### Kehrt nicht zurück in die Abhängigkeit (Vers 8–11)
+
+<sup>8</sup>Damals aber,
+als ihr Gott noch nicht kanntet,
+habt ihr Göttern gedient,
+die in Wirklichkeit keine Götter sind.
+<sup>9</sup>Jetzt aber kennt ihr Gott,
+ja, noch mehr: Gott kennt euch.
+Wie könnt ihr euch dann wieder zu den schwachen und armseligen Grundkräften wenden?
+Wollt ihr ihnen wieder von Neuem dienen?
+<sup>10</sup>Ihr achtet auf Tage, Monate, Zeiten und Jahre.
+<sup>11</sup>Ich fürchte um euch,
+dass ich mich vielleicht umsonst für euch abgemüht habe.
+
+> **Was bedeutet das?**
+> Vers 8: Die Galater hatten früher Götter ihrer Völker verehrt.
+> Vers 10: Die Galater meinten, sie müssten bestimmte Festtage und Zeiten halten, um zu Gott zu gehören. Paulus sagt: Das macht euch nicht gerechter vor Gott.
+> Wichtig: Paulus spricht hier nicht schlecht über die jüdischen Feste. Für Juden sind Sabbat und Feste ein Geschenk Gottes. Paulus wendet sich nur dagegen, dass Christen aus den Völkern solche Regeln als Bedingung für das Heil verstehen.
+
+---
+
+### Paulus' Sorge um die Galater (Vers 12–20)
+
+<sup>12</sup>Ich bitte euch, Brüder:
+Werdet wie ich,
+denn ich bin auch geworden wie ihr.
+Ihr habt mir nichts Unrecht getan.
+<sup>13</sup>Ihr wisst aber,
+dass ich euch beim ersten Mal die gute Nachricht verkündet habe,
+weil ich körperlich schwach war.
+<sup>14</sup>Meine Schwäche war für euch eine Prüfung.
+Aber ihr habt mich nicht verachtet
+und nicht abgelehnt.
+Sondern ihr habt mich aufgenommen
+wie einen Engel Gottes,
+ja, wie Christus Jesus.
+<sup>15</sup>Wo ist nun eure Freude geblieben?
+Denn ich bezeuge euch:
+Wenn es möglich gewesen wäre,
+hättet ihr eure Augen herausgerissen
+und sie mir gegeben.
+<sup>16</sup>Bin ich nun euer Feind geworden,
+weil ich euch die Wahrheit sage?
+<sup>17</sup>Jene bemühen sich um euch,
+aber nicht in guter Absicht.
+Sie wollen euch von mir trennen,
+damit ihr euch um sie bemüht.
+<sup>18</sup>Es ist aber gut,
+sich immer für das Gute einzusetzen,
+und nicht nur,
+wenn ich bei euch bin.
+<sup>19</sup>Meine lieben Kinder!
+Ich leide wieder Geburtswehen um euch,
+bis Christus in euch Gestalt gewinnt.
+<sup>20</sup>Ich wünschte,
+ich wäre jetzt bei euch
+und könnte anders mit euch reden.
+Denn ich bin ratlos wegen euch.
+
+> **Was bedeutet das?**
+> Vers 13–15: Paulus kam wegen einer Krankheit nach Galatien. Die Galater nahmen ihn trotzdem herzlich auf. Vers 15 lässt manche vermuten, dass Paulus ein Augenleiden hatte.
+> Für heute: Menschen mit Krankheit oder Behinderung verdienen Achtung und Aufnahme, so wie die Galater Paulus aufgenommen haben.
+> Vers 19: Paulus vergleicht sich mit einer Mutter in den Geburtswehen. Er sorgt sich um die Galater wie eine Mutter um ihr Kind.
+
+---
+
+### Das Bild von Hagar und Sara (Vers 21–31)
+
+<sup>21</sup>Sagt mir,
+ihr,
+die ihr unter dem Gesetz sein wollt:
+Hört ihr nicht,
+was das Gesetz sagt?
+<sup>22</sup>Denn es steht geschrieben,
+dass Abraham zwei Söhne hatte:
+einen von der Magd
+und einen von der freien Frau.
+<sup>23</sup>Der Sohn der Magd wurde auf natürliche Weise geboren,
+der Sohn der freien Frau aber durch die Verheißung.
+<sup>24</sup>Diese Dinge haben eine bildliche Bedeutung.
+Denn die beiden Frauen stehen für zwei Bünde.
+Der eine Bund kommt vom Berg Sinai
+und bringt Kinder zur Knechtschaft hervor.
+Das ist Hagar.
+<sup>25</sup>Denn Hagar steht für den Berg Sinai in Arabien.
+Sie entspricht dem jetzigen Jerusalem,
+denn es ist mit seinen Kindern in Knechtschaft.
+<sup>26</sup>Das Jerusalem droben aber ist frei.
+Es ist unser aller Mutter.
+<sup>27</sup>Denn es steht geschrieben:
+„Freu dich,
+du Unfruchtbare,
+die du keine Kinder bekommst.
+Brich in Jubel aus und rufe,
+du,
+die du keine Wehen hast.
+Denn die Einsame hat mehr Kinder
+als die,
+die einen Mann hat.“
+<sup>28</sup>Ihr aber, Brüder,
+seid wie Isaak Kinder der Verheißung.
+<sup>29</sup>Aber so wie damals der,
+der auf natürliche Weise geboren war,
+den verfolgte,
+der durch den Geist geboren war,
+so ist es auch jetzt.
+<sup>30</sup>Was sagt aber die Schrift?
+„Vertreibe die Magd und ihren Sohn.
+Denn der Sohn der Magd soll nicht zusammen mit dem Sohn der freien Frau erben.“
+<sup>31</sup>Also, Brüder,
+sind wir nicht Kinder der Magd,
+sondern der freien Frau.
+
+> **Was bedeutet das?**
+> Vers 21–31: Paulus deutet die Geschichte von Hagar und Sara (1. Mose 16 und 21) als Bild. Das ist eine ungewöhnliche Auslegung. Paulus benutzt sie im Streit mit den christlichen Lehrern in Galatien, die von Christen aus den Völkern die Beschneidung verlangten.
+> Sehr wichtig: Dieser Text ist kein Urteil über das jüdische Volk oder das Judentum. Er darf nicht so gelesen werden, als ob Juden „Kinder der Magd“ und Christen „Kinder der Freien“ wären. Diese Deutung hat in der Kirchengeschichte viel Unheil angerichtet. Paulus sagt im Römerbrief klar: Gott hat sein Volk nicht verstoßen (Römer 11,1–2).
+> Wichtig ist auch: In der Bibel kümmert sich Gott selbst um Hagar und ihren Sohn Ismael. Er hört ihr Weinen, rettet sie und segnet Ismael (1. Mose 16,7–13; 21,17–20). Hagar ist die erste Person in der Bibel, die Gott einen Namen gibt.
+> Vers 27 zitiert Jesaja 54,1. Vers 30 zitiert 1. Mose 21,10.
+> Vers 30: Dieser Satz ist keine Aufforderung, Menschen auszugrenzen oder zu vertreiben.
