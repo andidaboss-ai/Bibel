@@ -96,7 +96,7 @@ und man seine Schande sieht.“
 der auf Hebräisch „Harmagedon“ heißt.
 
 > **Was bedeutet das?**
-> Vers 13: Der falsche Prophet ist das zweite Tier aus Kapitel 13. Drachen, Tier und falscher Prophet sind wie eine böse Nachahmung von Gott, Vater, Sohn und Geist. Die Frösche erinnern wieder an eine Plage in Ägypten (2. Mose 8).
+> Vers 13: Der falsche Prophet ist das zweite Tier aus Kapitel 13. Drache, Tier und falscher Prophet sind wie eine böse Nachahmung von Gott, Vater, Sohn und Geist. Die Frösche erinnern wieder an eine Plage in Ägypten (2. Mose 8).
 > Vers 15: Mitten in den Bildern spricht Jesus selbst. Er sagt: Bleibt wach und treu. Er kommt überraschend, „wie ein Dieb“ (vergleiche Matthäus 24,43–44).
 > Vers 16: „Harmagedon“ heißt wohl „Berg von Megiddo“. Megiddo war eine Stadt in Israel. Dort gab es in der Geschichte viele Schlachten. Der Name ist ein Bild für die letzte große Auseinandersetzung zwischen Gut und Böse.
 
@@ -125,7 +125,7 @@ seines glühenden Zorns zu geben.
 [20] Jede Insel floh,
 und die Berge waren nicht mehr zu finden.
 [21] Große Hagelsteine,
-etwa einen Zentner schwer,
+etwa ein Talent schwer,
 fielen vom Himmel auf die Menschen.
 Und die Menschen lästerten Gott
 wegen der Plage des Hagels,
@@ -134,7 +134,7 @@ denn diese Plage war sehr schwer.
 > **Was bedeutet das?**
 > Vers 17: „Es ist geschehen!“ Gottes Gericht über das Böse ist vollendet.
 > Vers 19: „Babylon“ ist wieder der Deckname für Rom und für jede böse Großmacht. Die nächsten beiden Kapitel erzählen ausführlich von ihrem Fall.
-> Vers 21: Im WEB steht „ein Talent“. Ein Talent war ein Gewicht von etwa 30 bis 40 Kilogramm. Hier steht dafür „einen Zentner“. Die Zahl will sagen: unvorstellbar schwer.
+> Vers 21: Ein Talent war ein Gewicht von etwa 30 bis 40 Kilogramm. Das will sagen: unvorstellbar schwer.
 > Diese Bilder sind keine Beschreibung echter Naturkatastrophen. Sie zeigen: Am Ende bricht alles zusammen, was sich gegen Gott stellt.
 
 ---
