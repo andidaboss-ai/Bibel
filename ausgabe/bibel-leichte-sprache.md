@@ -150199,6 +150199,6 @@ zu einer Wohnung Gottes im Geist.
 > Vers 14: „Die Trennwand“: Im Tempel in Jerusalem gab es eine Mauer. Nichtjuden durften nicht weiter hineingehen. Der Brief sagt: In Christus ist diese Trennung überwunden.
 > Vers 15: „Das Gesetz der Gebote in Vorschriften“ meint wohl vor allem die Regeln, die Juden und Nichtjuden voneinander trennten. Ausleger verstehen diesen Vers verschieden.
 > Wichtig: Der Brief sagt nicht, dass Israel ersetzt wird. Er sagt: Die Menschen aus den Völkern werden zu Israel hinzugefügt. Sie werden „Mitbürger“ (Vers 19). Juden und Christen aus den Völkern sollen in Frieden zusammenleben.
-> Vers 17 nimmt Jesaja 57,19 auf: „Friede den Fernen und den Nahen.“
+> Vers 17 nimmt Jesaja 57,19 auf: „Frieden, Frieden den Fernen und den Nahen.“
 > Vers 20: Der „Eckstein“ war der wichtigste Stein eines Gebäudes. Nach ihm wurde alles ausgerichtet.
 > Für heute: Christus überwindet Feindschaft zwischen Menschen und Völkern. Christen sollen Mauern abbauen, nicht neue errichten.
