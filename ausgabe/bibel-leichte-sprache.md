@@ -160106,7 +160106,7 @@ dem wird der zweite Tod nicht schaden.‘
 > **Wichtiger Hinweis**
 > Vers 9 ist ein sehr schwieriger Vers. Er wurde in der Geschichte schrecklich missbraucht, um Juden zu beschimpfen und zu verfolgen. Das ist falsch und gegen den Willen Gottes.
 > Johannes war selbst Jude, wie Jesus und alle ersten Apostel. Er spricht hier von einem Streit in einer bestimmten Stadt zu einer bestimmten Zeit. Es ging um eine Gruppe, die die Christen dort bei den römischen Behörden angezeigt hat. Johannes meint: Wer so handelt, verhält sich nicht so, wie es zum Volk Gottes passt.
-> Der Vers ist **keine** Aussage über das jüdische Volk oder über jüdische Gemeinden heute. Gott hat sein Volk Israel nicht verstoßen (Römer 11,1–2). Gottes Gaben und seine Berufung können ihn nicht reuen (Römer 11,29).
+> Der Vers ist **keine** Aussage über das jüdische Volk oder über jüdische Gemeinden heute. Gott hat sein Volk Israel nicht verstoßen (Römer 11,1–2). Die Gaben und die Berufung Gottes sind unwiderruflich (Römer 11,29).
 
 > **Was bedeutet das?**
 > Smyrna ist das heutige Izmir in der Türkei.
@@ -160183,9 +160183,9 @@ und Fleisch von Götzenopfern zu essen.
 umzukehren.
 Aber sie will nicht von ihrer Unzucht umkehren.
 <sup>22</sup>Seht,
-ich werfe sie auf ein Krankenbett,
+ich werfe sie
 und die, die mit ihr Ehebruch treiben,
-in große Not,
+auf ein Bett großer Not,
 wenn sie nicht von ihren Werken umkehren.
 <sup>23</sup>Ich werde ihre Kinder mit dem Tod töten.
 Und alle Gemeinden werden erkennen,
@@ -160217,6 +160217,7 @@ was der Geist den Gemeinden sagt.‘
 > Vers 20: „Isebel“ ist wohl nicht ihr echter Name. Es ist ein Deckname. Er erinnert an die Königin Isebel, die Israel zum Götzendienst verführt hat (1. Könige 16 und 21). In manchen Handschriften steht „die Frau Isebel“ statt „deine Frau Isebel“.
 > Vers 20: Kritisiert wird nicht, dass eine Frau als Prophetin redet. In der Bibel gibt es viele Prophetinnen, zum Beispiel Mirjam, Debora, Hulda und Hanna. Kritisiert wird, was sie lehrt.
 > Vers 21: Gott gibt Zeit zur Umkehr. Er ist geduldig.
+> Vers 22: „Bett großer Not“ meint wohl ein Krankenlager oder großes Leid.
 > Vers 22–23 benutzt die harte Bildsprache der Propheten. Es ist eine ernste Warnung. Es ist keine Erlaubnis für Menschen, andere zu bestrafen oder ihnen Gewalt anzutun. Das Urteil hat Gott allein. Krankheit ist keine Strafe Gottes.
 > Vers 27 erinnert an Psalm 2,9. Vers 28: „Der Morgenstern“ ist Jesus selbst (vergleiche 22,16).
 
