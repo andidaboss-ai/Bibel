@@ -150202,3 +150202,93 @@ zu einer Wohnung Gottes im Geist.
 > Vers 17 nimmt Jesaja 57,19 auf: „Frieden, Frieden den Fernen und den Nahen.“
 > Vers 20: Der „Eckstein“ war der wichtigste Stein eines Gebäudes. Nach ihm wurde alles ausgerichtet.
 > Für heute: Christus überwindet Feindschaft zwischen Menschen und Völkern. Christen sollen Mauern abbauen, nicht neue errichten.
+
+## Epheser – Kapitel 3
+#### Das Geheimnis Gottes und seine große Liebe
+
+---
+
+### Das Geheimnis: Alle Völker gehören dazu (Vers 1–13)
+
+<sup>1</sup>Deshalb bin ich, Paulus,
+ein Gefangener von Christus Jesus
+für euch Menschen aus den Völkern.
+<sup>2</sup>Ihr habt sicher gehört,
+welche Aufgabe Gott mir in seiner Gnade für euch gegeben hat.
+<sup>3</sup>Durch eine Offenbarung wurde mir das Geheimnis bekannt gemacht,
+wie ich oben schon kurz geschrieben habe.
+<sup>4</sup>Wenn ihr das lest,
+könnt ihr verstehen,
+wie ich das Geheimnis von Christus verstehe.
+<sup>5</sup>In früheren Generationen
+wurde es den Menschen nicht bekannt gemacht.
+Aber jetzt hat Gott es seinen heiligen Aposteln und Propheten
+durch den Geist offenbart:
+<sup>6</sup>Die Menschen aus den Völkern sind Miterben.
+Sie gehören mit zum selben Leib.
+Und sie haben Anteil an derselben Verheißung
+in Christus Jesus durch die gute Nachricht.
+<sup>7</sup>Dieser guten Nachricht diene ich.
+Das ist ein Geschenk der Gnade Gottes,
+die mir durch das Wirken seiner Kraft gegeben wurde.
+<sup>8</sup>Mir,
+dem Geringsten von allen Heiligen,
+wurde diese Gnade geschenkt:
+Ich darf den Völkern den unergründlichen Reichtum von Christus verkünden.
+<sup>9</sup>Ich darf allen Menschen zeigen,
+wie Gott sein Geheimnis verwirklicht.
+Es war seit Ewigkeiten in Gott verborgen,
+der alles durch Jesus Christus geschaffen hat.
+<sup>10</sup>So soll jetzt durch die Gemeinde
+die vielfältige Weisheit Gottes
+den Mächten und Gewalten in der himmlischen Welt bekannt werden.
+<sup>11</sup>So entspricht es dem ewigen Plan,
+den Gott in Christus Jesus, unserem Herrn, ausgeführt hat.
+<sup>12</sup>In ihm haben wir Freimut
+und vertrauensvollen Zugang zu Gott
+durch den Glauben an ihn.
+<sup>13</sup>Darum bitte ich euch:
+Verliert nicht den Mut wegen meiner Leiden für euch.
+Sie sind eure Ehre.
+
+> **Was bedeutet das?**
+> Vers 1: Der Brief wurde im Gefängnis geschrieben. Paulus war oft im Gefängnis, weil er die gute Nachricht verkündete.
+> Vers 6: Das „Geheimnis“ ist: Auch die Menschen aus den Völkern gehören zu Gottes Volk. Sie sind „Miterben“, sie erben zusammen mit Israel. Sie treten neben Israel, nicht an seine Stelle.
+> Vers 8: „Der Geringste von allen Heiligen“: Paulus sieht sich selbst bescheiden. Er weiß, dass er einmal Christen verfolgt hat.
+> Vers 10: Die Gemeinde, in der Menschen aus allen Völkern zusammenleben, ist ein Zeichen für Gottes Weisheit, sogar für die unsichtbaren Mächte.
+> Vers 12: Durch Jesus dürfen wir mutig und vertrauensvoll zu Gott kommen.
+
+---
+
+### Gebet um Kraft und Liebe (Vers 14–21)
+
+<sup>14</sup>Deshalb beuge ich meine Knie vor dem Vater unseres Herrn Jesus Christus.
+<sup>15</sup>Von ihm hat jede Familie im Himmel und auf der Erde ihren Namen.
+<sup>16</sup>Ich bete,
+dass er euch nach dem Reichtum seiner Herrlichkeit schenkt,
+durch seinen Geist im inneren Menschen stark zu werden,
+<sup>17</sup>dass Christus durch den Glauben in euren Herzen wohnt,
+und dass ihr in der Liebe verwurzelt und gegründet seid.
+<sup>18</sup>So sollt ihr zusammen mit allen Heiligen die Kraft bekommen,
+zu verstehen,
+wie breit und lang und hoch und tief
+<sup>19</sup>die Liebe von Christus ist.
+Ihr sollt sie erkennen,
+obwohl sie alle Erkenntnis übersteigt.
+So sollt ihr erfüllt werden mit der ganzen Fülle Gottes.
+<sup>20</sup>Gott kann unendlich viel mehr tun,
+als wir bitten oder denken können,
+durch die Kraft,
+die in uns wirkt.
+<sup>21</sup>Ihm sei die Ehre in der Gemeinde
+und in Christus Jesus,
+durch alle Generationen,
+für immer und ewig.
+Amen.
+
+> **Was bedeutet das?**
+> Vers 14: Damals betete man meistens im Stehen. Auf die Knie zu gehen zeigte besondere Ehrfurcht und Dringlichkeit.
+> Vers 15: Im Griechischen klingen „Vater“ (pater) und „Familie“ (patria) ähnlich. Gott ist der Ursprung jeder Familie und Gemeinschaft.
+> Vers 17: „In der Liebe verwurzelt“: wie ein Baum, der tiefe Wurzeln hat und darum fest steht.
+> Vers 18–19: Die Liebe von Christus ist so groß, dass man sie nie ganz begreifen kann. Und trotzdem dürfen wir sie erfahren.
+> Vers 20–21: Ein Lobpreis zum Schluss des ersten Teils des Briefes: Gott kann viel mehr, als wir uns vorstellen können.
