@@ -160681,7 +160681,7 @@ Ihnen wurde Macht gegeben
 über ein Viertel der Erde,
 zu töten mit dem Schwert,
 mit Hunger,
-mit Seuchen
+mit dem Tod
 und durch die wilden Tiere der Erde.
 
 > **Was bedeutet das?**
@@ -160689,7 +160689,7 @@ und durch die wilden Tiere der Erde.
 > Vers 2: Der weiße Reiter mit Bogen erinnert vielleicht an die Parther, ein Reitervolk, vor dem die Römer Angst hatten. Er steht für Eroberung und Machtgier.
 > Vers 4: Der rote Reiter steht für Krieg und Gewalt.
 > Vers 5–6: Der schwarze Reiter steht für Hunger und Teuerung. Ein Denar war der Lohn für einen Tag Arbeit. Ein Maß Weizen reichte gerade für einen Menschen für einen Tag. Für eine Familie blieb nichts übrig. Öl und Wein, die Dinge der Reichen, bleiben aber verschont. Das zeigt Ungerechtigkeit.
-> Vers 8: Der fahle Reiter heißt Tod. „Fahl“ ist die grünlich-blasse Farbe von Kranken und Toten. Das Wort „death“ steht in Vers 8 zweimal. Beim zweiten Mal ist wohl die Seuche gemeint, so wie in Hesekiel 14,21.
+> Vers 8: Der fahle Reiter heißt Tod. „Fahl“ ist die grünlich-blasse Farbe von Kranken und Toten. Das Wort „Tod“ steht in Vers 8 zweimal. Beim zweiten Mal ist wohl die Seuche gemeint, so wie in Hesekiel 14,21.
 > Wichtig: Die Macht der Reiter ist begrenzt. Sie bekommen sie nur „gegeben“. Und es ist nur „ein Viertel“, nicht alles.
 
 ---
