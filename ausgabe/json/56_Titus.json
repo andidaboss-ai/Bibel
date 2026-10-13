@@ -1,0 +1,240 @@
+{
+ "nr": 56,
+ "code": "TIT",
+ "kuerzel": "Tit",
+ "name": "Titus",
+ "name_englisch": "Titus",
+ "testament": "neues-testament",
+ "kapitel": 3,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Gute Leiter für die Gemeinden auf Kreta",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an Titus",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Titus war ein Mitarbeiter von Paulus. Er war kein Jude, sondern ein Grieche (Galater 2,3). Paulus hat ihm wichtige Aufgaben anvertraut, zum Beispiel in Korinth (2. Korinther 7 und 8).\nNach dem Brief hat Paulus Titus auf der Insel Kreta zurückgelassen. Titus soll dort die jungen Gemeinden ordnen und Leiter einsetzen.\nDer Titusbrief gehört mit den beiden Timotheusbriefen zu den „Pastoralbriefen“. Viele Fachleute meinen, dass ein Schüler von Paulus sie geschrieben hat, im Sinne von Paulus. Andere halten Paulus selbst für den Verfasser.\nDas große Thema ist: Gottes Gnade ist erschienen. Sie verändert das Leben. Christen sollen Gutes tun.\n**Ein wichtiger Hinweis:** In Kapitel 1 stehen harte Worte über „die aus der Beschneidung“, über „jüdische Märchen“ und über die Menschen von Kreta. Wir erklären in den Kästen, warum diese Worte nicht gegen Juden oder gegen ein Volk verwendet werden dürfen.\nDer Titusbrief hat 3 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\nein Diener Gottes\nund ein Apostel von Jesus Christus,\nfür den Glauben der Erwählten Gottes\nund für die Erkenntnis der Wahrheit,\ndie zur Frömmigkeit führt,",
+       "englisch_web": "Paul, a servant of God and an apostle of Jesus Christ, according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "in der Hoffnung auf das ewige Leben.\nGott,\nder nicht lügen kann,\nhat es vor ewigen Zeiten versprochen.",
+       "englisch_web": "in hope of eternal life, which God, who can’t lie, promised before time began;"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Aber zu seiner Zeit hat er sein Wort offenbart\nin der Verkündigung,\ndie mir anvertraut wurde\nim Auftrag Gottes, unseres Retters.",
+       "englisch_web": "but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Paulus schreibt an Titus,\nsein echtes Kind im gemeinsamen Glauben:\nGnade,\nBarmherzigkeit\nund Frieden\nvon Gott, dem Vater,\nund dem Herrn Jesus Christus, unserem Retter.",
+       "englisch_web": "to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior."
+      }
+     ],
+     "erklaerung": "Vers 2: „Gott, der nicht lügen kann“: Auf Gottes Versprechen kann man sich verlassen.\nVers 4: „Im gemeinsamen Glauben“: Paulus war Jude, Titus war Grieche. Der Glaube an Christus verbindet sie."
+    },
+    {
+     "ueberschrift": "Wer Gemeindeleiter sein kann",
+     "vers_von": 5,
+     "vers_bis": 9,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich habe dich auf Kreta zurückgelassen,\ndamit du ordnest,\nwas noch fehlt,\nund in jeder Stadt Älteste einsetzt,\nwie ich es dir aufgetragen habe.",
+       "englisch_web": "I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you—"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ein Ältester soll ohne Tadel sein,\nMann einer einzigen Frau.\nEr soll Kinder haben,\ndie glauben\nund denen man kein zügelloses oder ungehorsames Verhalten vorwerfen kann.",
+       "englisch_web": "if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn der Aufseher muss ohne Tadel sein,\nals Verwalter Gottes.\nEr darf nicht selbstgefällig sein,\nnicht jähzornig,\nkein Trinker,\nnicht gewalttätig\nund nicht gierig nach unehrlichem Gewinn.",
+       "englisch_web": "For the overseer must be blameless, as God’s steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Sondern er soll gastfreundlich sein,\ndas Gute lieben,\nbesonnen,\ngerecht,\nfromm\nund beherrscht.",
+       "englisch_web": "but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled,"
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Er soll sich an das zuverlässige Wort halten,\nwie es gelehrt wurde.\nDann kann er mit der gesunden Lehre ermutigen\nund die widerlegen,\ndie widersprechen.",
+       "englisch_web": "holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him."
+      }
+     ],
+     "erklaerung": "Vers 5–9: Ähnlich wie in 1. Timotheus 3. Für Leiter zählt der Charakter: nicht jähzornig, nicht gewalttätig, nicht geldgierig, sondern gastfreundlich, gerecht und beherrscht.\nVers 5 und 7: „Älteste“ und „Aufseher“ meinen hier wohl dieselben Personen: die Leiter der Ortsgemeinde.\nVers 6: Die Kinder sollen nicht „zügellos“ leben. Das heißt nicht, dass Eltern an allem schuld sind, was ihre erwachsenen Kinder tun."
+    },
+    {
+     "ueberschrift": "Warnung vor falschen Lehrern",
+     "vers_von": 10,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 10,
+       "leichte_sprache": "Denn es gibt viele Ungehorsame,\nSchwätzer und Verführer,\nbesonders unter denen aus der Beschneidung.",
+       "englisch_web": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ihnen muss man den Mund stopfen.\nSie bringen ganze Familien durcheinander\nund lehren,\nwas sie nicht sollten,\num unehrlich Geld zu verdienen.",
+       "englisch_web": "whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Einer von ihnen,\nihr eigener Prophet,\nhat gesagt:\n„Kreter sind immer Lügner,\nböse Tiere\nund faule Fresser.“",
+       "englisch_web": "One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Dieses Zeugnis ist wahr.\nDarum weise sie streng zurecht,\ndamit sie im Glauben gesund werden",
+       "englisch_web": "This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "und nicht auf jüdische Märchen achten\nund auf Gebote von Menschen,\ndie sich von der Wahrheit abwenden.",
+       "englisch_web": "not paying attention to Jewish fables and commandments of men who turn away from the truth."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Für die Reinen ist alles rein.\nAber für die Unreinen und Ungläubigen ist nichts rein.\nSondern ihr Denken und ihr Gewissen sind unrein.",
+       "englisch_web": "To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Sie behaupten,\nGott zu kennen,\naber durch ihre Taten verleugnen sie ihn.\nSie sind abscheulich,\nungehorsam\nund unfähig zu jedem guten Werk.",
+       "englisch_web": "They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work."
+      }
+     ],
+     "erklaerung": "**Wichtiger Hinweis**\nVers 10–16 enthalten harte Worte. Sie dürfen niemals gegen Juden oder gegen die Menschen eines Volkes verwendet werden.\nVers 10: „Die aus der Beschneidung“ waren wohl Lehrer innerhalb der christlichen Gemeinde, die selbst aus dem Judentum kamen. Sie verlangten bestimmte Regeln von den Christen aus den Völkern. Es ist ein Streit unter Christen, wie im Galaterbrief.\nVers 14: „Jüdische Märchen“: Gemeint sind wohl bestimmte Spekulationen und Legenden, die diese Lehrer verbreiteten. Das ist kein Urteil über den jüdischen Glauben oder die heiligen Schriften Israels. Paulus selbst war Jude und hat die Schriften Israels hoch geachtet (vergleiche 2. Timotheus 3,15–16).\nVers 12: Das Zitat stammt wohl von dem griechischen Dichter Epimenides, der selbst aus Kreta kam. Es war ein damals bekannter Spruch.\nSehr wichtig: Pauschale Urteile über Menschen eines Volkes sind falsch. Kein Volk ist „immer“ böse oder verlogen. Vorurteile gegen Menschen wegen ihrer Herkunft verletzen ihre Würde. Gott liebt alle Menschen gleich.\nVers 15: „Für die Reinen ist alles rein“: ähnlich wie Jesus sagt: Nicht was von außen kommt, macht unrein, sondern was aus dem Herzen kommt (Markus 7,15).\nVers 16: Glauben zeigt sich in Taten, nicht nur in Worten."
+    }
+   ]
+  },
+  {
+   "kapitel": 2,
+   "titel": "Gottes Gnade ist erschienen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Ratschläge für Alt und Jung",
+     "vers_von": 1,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Du aber sage,\nwas zur gesunden Lehre passt.",
+       "englisch_web": "But say the things which fit sound doctrine,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Die älteren Männer sollen nüchtern sein,\nehrbar,\nbesonnen,\ngesund im Glauben,\nin der Liebe\nund in der Ausdauer.",
+       "englisch_web": "that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance,"
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Ebenso sollen sich die älteren Frauen so verhalten,\nwie es sich für Heilige gehört.\nSie sollen nicht verleumden\nund nicht abhängig von viel Wein sein.\nSie sollen das Gute lehren,",
+       "englisch_web": "and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "damit sie die jungen Frauen anleiten,\nihre Männer zu lieben\nund ihre Kinder zu lieben,",
+       "englisch_web": "that they may train the young wives to love their husbands, to love their children,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "besonnen zu sein,\nkeusch,\nfleißig im Haus,\nfreundlich\nund ihren eigenen Männern untergeordnet,\ndamit das Wort Gottes nicht gelästert wird.",
+       "englisch_web": "to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Ebenso ermahne die jüngeren Männer,\nbesonnen zu sein.",
+       "englisch_web": "Likewise, exhort the younger men to be sober minded."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Sei selbst in allem ein Vorbild guter Taten.\nZeige in deiner Lehre Ehrlichkeit,\nErnst\nund Unbestechlichkeit,",
+       "englisch_web": "In all things show yourself an example of good works. In your teaching, show integrity, seriousness, incorruptibility,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "und gesunde Worte,\ndie man nicht tadeln kann.\nDann wird sich der Gegner schämen,\nweil er nichts Schlechtes über uns sagen kann.",
+       "englisch_web": "and soundness of speech that can’t be condemned, that he who opposes you may be ashamed, having no evil thing to say about us."
+      }
+     ],
+     "erklaerung": "Vers 2–6: Für jede Gruppe gibt es Ratschläge: ältere Männer, ältere Frauen, junge Frauen und junge Männer. Alle sollen „besonnen“ leben.\nVers 3: Ältere Frauen sollen „das Gute lehren“. Frauen hatten eine wichtige Aufgabe als Lehrerinnen für andere Frauen.\nVers 4–5: Diese Rollen spiegeln die Familienordnung der damaligen Zeit. Der Grund wird genannt: „damit das Wort Gottes nicht gelästert wird“. Die junge Kirche wollte in ihrer Umgebung keinen Anstoß erregen.\nHeute verstehen viele Christen die Ehe als Partnerschaft von zwei gleichberechtigten Menschen. Andere halten an einer besonderen Verantwortung des Mannes fest. Alle betonen: Es geht um Liebe, nicht um Macht.\nSehr wichtig: Diese Verse geben niemandem das Recht, über den Ehepartner zu herrschen oder Gewalt anzuwenden. Gewalt in der Ehe ist ein schweres Unrecht und strafbar. Hilfe gibt es beim Hilfetelefon Gewalt gegen Frauen (116 016) und beim Hilfetelefon Gewalt an Männern (0800 123 99 00). Im Notfall: 110."
+    },
+    {
+     "ueberschrift": "Ein Wort an die Sklaven",
+     "vers_von": 9,
+     "vers_bis": 10,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Ermahne die Diener,\nsich ihren eigenen Herren unterzuordnen.\nSie sollen ihnen in allem gefallen,\nnicht widersprechen,",
+       "englisch_web": "Exhort servants to be in subjection to their own masters and to be well-pleasing in all things, not contradicting,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "nicht stehlen,\nsondern ganz treu sein,\ndamit sie der Lehre Gottes, unseres Retters,\nin allem Ehre machen.",
+       "englisch_web": "not stealing, but showing all good fidelity, that they may adorn the doctrine of God, our Savior, in all things."
+      }
+     ],
+     "erklaerung": "Das WEB sagt „servants“, also „Diener“. Gemeint sind Sklaven.\nVers 10: Bemerkenswert ist: Auch Sklaven können der Lehre Gottes „Ehre machen“. Sie gelten als wertvolle Zeugen des Glaubens, nicht nur als Besitz.\nSehr wichtig: Sklaverei ist ein schweres Unrecht. Diese Verse wurden später missbraucht, um Sklaverei zu rechtfertigen. Das war falsch. Heute gibt es noch Menschenhandel und Zwangsarbeit. Christen sollen dagegen eintreten."
+    },
+    {
+     "ueberschrift": "Die Gnade Gottes ist erschienen",
+     "vers_von": 11,
+     "vers_bis": 15,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 11,
+       "leichte_sprache": "Denn die Gnade Gottes ist erschienen.\nSie bringt allen Menschen Rettung.",
+       "englisch_web": "For the grace of God has appeared, bringing salvation to all men,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie erzieht uns dazu,\nGottlosigkeit und weltliche Begierden abzulehnen\nund in dieser Zeit besonnen,\ngerecht\nund fromm zu leben.",
+       "englisch_web": "instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Wir warten auf die glückselige Hoffnung:\ndass die Herrlichkeit unseres großen Gottes\nund Retters Jesus Christus erscheint.",
+       "englisch_web": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Er hat sich für uns hingegeben,\num uns von aller Ungerechtigkeit zu erlösen\nund sich ein Volk zu reinigen,\ndas ihm gehört\nund eifrig ist,\nGutes zu tun.",
+       "englisch_web": "who gave himself for us, that he might redeem us from all iniquity and purify for himself a people for his own possession, zealous for good works."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Das sollst du sagen.\nErmahne\nund weise zurecht\nmit aller Vollmacht.\nNiemand soll dich verachten.",
+       "englisch_web": "Say these things and exhort and reprove with all authority. Let no one despise you."
+      }
+     ],
+     "erklaerung": "Vers 11 ist der Kern des Briefes: Gottes Gnade gilt allen Menschen.\nVers 12: Die Gnade ist wie ein Lehrer. Sie hilft uns, gut zu leben. Gnade ist nicht nur Vergebung, sondern auch Kraft zum Neuanfang.\nVers 13: „Unseres großen Gottes und Retters Jesus Christus“: Viele Ausleger verstehen das so, dass Jesus hier Gott genannt wird. Andere übersetzen: „des großen Gottes und unseres Retters Jesus Christus“.\nVers 14: „Ein Volk, das ihm gehört“: Diese Worte stammen aus den Schriften Israels (vergleiche 2. Mose 19,5). Gott hat Israel erwählt. Durch Christus kommen Menschen aus allen Völkern hinzu. Israel wird dadurch nicht ersetzt (vergleiche Römer 11,1–2.29)."
+    }
+   ]
+  }
+ ]
+}
