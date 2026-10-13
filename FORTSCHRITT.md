@@ -2,7 +2,7 @@
 
 Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 
-**Gesamt: 1127 von 1189 Kapiteln (94.8 %), 29850 von 31098 Versen.**
+**Gesamt: 1128 von 1189 Kapiteln (94.9 %), 29867 von 31098 Versen.**
 
 | Nr | Buch | Testament | Kapitel fertig | Stand |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ Diese Datei wird automatisch von `werkzeuge/bauen.py` erzeugt.
 | 52 | 1. Thessalonicher | NT | 5 / 5 | fertig |
 | 53 | 2. Thessalonicher | NT | 3 / 3 | fertig |
 | 54 | 1. Timotheus | NT | 6 / 6 | fertig |
-| 55 | 2. Timotheus | NT | 2 / 4 | in Arbeit |
+| 55 | 2. Timotheus | NT | 3 / 4 | in Arbeit |
 | 56 | Titus | NT | 0 / 3 | – |
 | 57 | Philemon | NT | 0 / 1 | – |
 | 58 | Hebräer | NT | 0 / 13 | – |
