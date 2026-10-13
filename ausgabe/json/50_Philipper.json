@@ -1,0 +1,220 @@
+{
+ "nr": 50,
+ "code": "PHP",
+ "kuerzel": "Phil",
+ "name": "Philipper",
+ "name_englisch": "Philippians",
+ "testament": "neues-testament",
+ "kapitel": 4,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Leben ist Christus",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Philipper",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Philippi war eine römische Stadt im Norden des heutigen Griechenland. Dort hat Paulus die erste christliche Gemeinde in Europa gegründet (Apostelgeschichte 16). Zu den ersten Christen dort gehörten die Geschäftsfrau Lydia und ein Gefängniswärter mit seiner Familie.\nPaulus hatte eine besonders herzliche Beziehung zu dieser Gemeinde. Die Christen in Philippi haben ihn immer wieder unterstützt, auch mit Geld.\nPaulus schreibt den Brief aus dem Gefängnis. Er weiß nicht, ob er freigelassen oder hingerichtet wird. Wo das Gefängnis war, ist nicht sicher: vielleicht in Rom, vielleicht in Ephesus oder in Cäsarea.\nTrotzdem ist es ein Brief voller Freude. Die Wörter „Freude“ und „sich freuen“ kommen sehr oft vor.\nIn Kapitel 2 steht ein berühmtes Lied über Jesus, der sich selbst erniedrigt hat.\nDer Philipperbrief hat 4 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus und Timotheus,\nDiener von Jesus Christus,\nschreiben an alle Heiligen in Christus Jesus,\ndie in Philippi sind,\nmit den Aufsehern und Dienern:",
+       "englisch_web": "Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the overseers and servants:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Gnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "Vers 1: Timotheus war ein enger Mitarbeiter von Paulus. Er war bei der Gründung der Gemeinde in Philippi dabei.\n„Heilige“ sind alle Christen. Sie gehören zu Gott.\n„Aufseher und Diener“: Das sind Leitungsämter in der Gemeinde. Aus diesen Wörtern wurden später die Ämter „Bischof“ und „Diakon“. Damals waren sie wohl noch einfacher geordnet."
+    },
+    {
+     "ueberschrift": "Dank und Gebet für die Gemeinde",
+     "vers_von": 3,
+     "vers_bis": 11,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Ich danke meinem Gott,\njedes Mal,\nwenn ich an euch denke.",
+       "englisch_web": "I thank my God whenever I remember you,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Immer,\nwenn ich für euch alle bete,\nbete ich mit Freude.",
+       "englisch_web": "always in every request of mine on behalf of you all, making my requests with joy,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn ihr seid meine Partner\nfür die gute Nachricht,\nvom ersten Tag an bis heute.",
+       "englisch_web": "for your partnership in furtherance of the Good News from the first day until now;"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und ich bin ganz sicher:\nGott hat ein gutes Werk in euch angefangen.\nEr wird es auch vollenden\nbis zu dem Tag von Jesus Christus.",
+       "englisch_web": "being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Es ist richtig,\ndass ich so über euch alle denke.\nDenn ich habe euch im Herzen.\nIhr habt alle mit mir Anteil an der Gnade:\nwenn ich in Ketten bin\nund wenn ich die gute Nachricht verteidige\nund sie bestätige.",
+       "englisch_web": "It is even right for me to think this way on behalf of all of you, because I have you in my heart, because both in my bonds and in the defense and confirmation of the Good News, you all are partakers with me of grace."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Denn Gott ist mein Zeuge,\nwie sehr ich mich nach euch allen sehne,\nmit der herzlichen Liebe von Christus Jesus.",
+       "englisch_web": "For God is my witness, how I long after all of you in the tender mercies of Christ Jesus."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Und darum bete ich:\ndass eure Liebe immer noch reicher wird\nan Erkenntnis\nund an Urteilsvermögen,",
+       "englisch_web": "This I pray, that your love may abound yet more and more in knowledge and all discernment,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "damit ihr prüfen könnt,\nwas wirklich gut und wichtig ist.\nSo sollt ihr aufrichtig sein\nund ohne Anstoß\nbis zu dem Tag von Christus,",
+       "englisch_web": "so that you may approve the things that are excellent, that you may be sincere and without offense to the day of Christ,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "erfüllt mit der Frucht der Gerechtigkeit,\ndie durch Jesus Christus kommt,\nzur Ehre und zum Lob Gottes.",
+       "englisch_web": "being filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God."
+      }
+     ],
+     "erklaerung": "Vers 4: Schon hier steht das Wort „Freude“. Es zieht sich durch den ganzen Brief.\nVers 5: „Partner“: Die Gemeinde hat Paulus mit Gebet und mit Geld unterstützt. Sie hat seine Arbeit mitgetragen (vergleiche Kapitel 4,15–16).\nVers 6 ist ein Trostwort: Gott gibt nicht auf, was er angefangen hat. Auch wenn wir selbst noch nicht fertig sind.\nVers 9–10: Liebe ist nicht blind. Sie braucht Verstand, damit man erkennt, was wirklich hilft."
+    },
+    {
+     "ueberschrift": "Die Gefangenschaft hilft der guten Nachricht",
+     "vers_von": 12,
+     "vers_bis": 18,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 12,
+       "leichte_sprache": "Ihr sollt wissen,\nBrüder:\nWas mit mir geschehen ist,\nhat der guten Nachricht sogar geholfen.",
+       "englisch_web": "Now I desire to have you know, brothers, that the things which happened to me have turned out rather to the progress of the Good News,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Denn der ganzen Palastwache\nund allen anderen ist klar geworden,\ndass ich wegen Christus in Ketten bin.",
+       "englisch_web": "so that it became evident to the whole palace guard, and to all the rest, that my bonds are in Christ,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Und die meisten Brüder im Herrn\nhaben durch meine Ketten Vertrauen gewonnen.\nSie wagen es viel mutiger,\ndas Wort Gottes ohne Furcht zu sagen.",
+       "englisch_web": "and that most of the brothers in the Lord, being confident through my bonds, are more abundantly bold to speak the word of God without fear."
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "Manche verkünden Christus zwar aus Neid und Streitsucht,\nandere aber mit gutem Willen.",
+       "englisch_web": "Some indeed preach Christ even out of envy and strife, and some also out of good will."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Die einen verkünden Christus nicht aufrichtig,\nsondern aus Eigennutz.\nSie denken,\nsie machen mir das Leiden in meinen Ketten noch schwerer.",
+       "englisch_web": "The former insincerely preach Christ from selfish ambition, thinking that they add affliction to my chains;"
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Die anderen tun es aus Liebe.\nSie wissen:\nIch bin dazu bestimmt,\ndie gute Nachricht zu verteidigen.",
+       "englisch_web": "but the latter out of love, knowing that I am appointed for the defense of the Good News."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Was macht das schon?\nHauptsache,\nChristus wird verkündet,\nauf jede Weise,\nob zum Schein oder ehrlich.\nDarüber freue ich mich.\nJa,\nund ich werde mich auch weiter freuen.",
+       "englisch_web": "What does it matter? Only that in every way, whether in pretense or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice."
+      }
+     ],
+     "erklaerung": "Vers 13: „Palastwache“: Das waren Soldaten, die Paulus bewachten. Sie erfuhren, warum er gefangen war. So hörten sie von Jesus.\nVers 15–17: Paulus nennt keine Namen. Es gab wohl andere Prediger, die mit ihm in Konkurrenz standen.\nVers 18: Paulus ist großzügig. Ihm ist nicht wichtig, wer Recht hat oder berühmt wird. Ihm ist wichtig, dass Menschen von Jesus hören.\nFür heute: Auch unter Christen gibt es Neid und Konkurrenz. Paulus zeigt einen anderen Weg: sich freuen, wenn Gutes geschieht, auch wenn andere es tun."
+    },
+    {
+     "ueberschrift": "Leben oder Sterben",
+     "vers_von": 19,
+     "vers_bis": 26,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn ich weiß:\nDas wird zu meiner Rettung führen,\ndurch eure Gebete\nund durch die Hilfe des Geistes von Jesus Christus.",
+       "englisch_web": "For I know that this will turn out to my salvation through your prayers and the supply of the Spirit of Jesus Christ,"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Das erwarte und hoffe ich fest:\nIch werde in nichts beschämt werden.\nSondern mit allem Mut,\nwie immer,\nso auch jetzt,\nwird Christus in meinem Körper groß gemacht werden,\nob durch mein Leben\noder durch meinen Tod.",
+       "englisch_web": "according to my earnest expectation and hope, that I will in no way be disappointed, but with all boldness, as always, now also Christ will be magnified in my body, whether by life or by death."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Denn für mich ist Leben Christus,\nund Sterben ist Gewinn.",
+       "englisch_web": "For to me to live is Christ, and to die is gain."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Wenn ich aber weiter in diesem Körper lebe,\ndann bringt meine Arbeit Frucht.\nIch weiß nicht,\nwas ich wählen soll.",
+       "englisch_web": "But if I live on in the flesh, this will bring fruit from my work; yet I don’t know what I will choose."
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Ich bin hin- und hergerissen zwischen beidem.\nIch habe den Wunsch,\naufzubrechen und bei Christus zu sein.\nDas wäre viel besser.",
+       "englisch_web": "But I am hard pressed between the two, having the desire to depart and be with Christ, which is far better."
+      },
+      {
+       "vers": 24,
+       "leichte_sprache": "Aber es ist nötiger für euch,\ndass ich in diesem Körper bleibe.",
+       "englisch_web": "Yet to remain in the flesh is more needful for your sake."
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Und weil ich davon überzeugt bin,\nweiß ich:\nIch werde bleiben.\nJa,\nich werde bei euch allen bleiben,\ndamit ihr im Glauben vorankommt\nund euch freut.",
+       "englisch_web": "Having this confidence, I know that I will remain, yes, and remain with you all for your progress and joy in the faith,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "So sollt ihr noch mehr Grund haben,\neuch in Christus Jesus zu rühmen,\nwegen mir,\nwenn ich wieder bei euch bin.",
+       "englisch_web": "that your boasting may abound in Christ Jesus in me through my presence with you again."
+      }
+     ],
+     "erklaerung": "Vers 19: „Rettung“ kann hier heißen: Befreiung aus dem Gefängnis. Es kann auch heißen: Rettung bei Gott, egal wie der Prozess ausgeht.\nVers 21: Ein berühmter Satz. Paulus meint: Mein ganzes Leben gehört Christus. Und wenn ich sterbe, verliere ich nichts, denn dann bin ich bei Christus.\nVers 22–24: Paulus sitzt im Gefängnis und muss mit seiner Hinrichtung rechnen. Er sagt ehrlich: Bei Christus zu sein, wäre schön. Aber er entscheidet sich für das Leben, weil andere ihn brauchen.\nSehr wichtig: Diese Verse sind keine Ermutigung, das eigene Leben zu beenden. Paulus wählt das Leben (Vers 24–25). Wer sich nach dem Tod sehnt, weil das Leben zu schwer ist, ist nicht allein. Bitte sprich mit jemandem darüber. Hilfe gibt es rund um die Uhr bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Für Kinder und Jugendliche: Nummer gegen Kummer 116 111. Im Notfall: 112."
+    },
+    {
+     "ueberschrift": "Steht fest zusammen",
+     "vers_von": 27,
+     "vers_bis": 30,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 27,
+       "leichte_sprache": "Nur eins:\nLebt so,\nwie es der guten Nachricht von Christus würdig ist.\nOb ich komme und euch sehe\noder ob ich fern bin:\nIch will von euch hören,\ndass ihr fest steht in einem Geist,\ndass ihr einmütig zusammen kämpft\nfür den Glauben an die gute Nachricht.",
+       "englisch_web": "Only let your way of life be worthy of the Good News of Christ, that whether I come and see you or am absent, I may hear of your state, that you stand firm in one spirit, with one soul striving for the faith of the Good News;"
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Lasst euch in nichts von den Gegnern erschrecken.\nDas ist für sie ein Zeichen des Untergangs,\nfür euch aber ein Zeichen der Rettung,\nund das kommt von Gott.",
+       "englisch_web": "and in nothing frightened by the adversaries, which is for them a proof of destruction, but to you of salvation, and that from God."
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Denn euch ist es geschenkt worden,\nfür Christus da zu sein:\nnicht nur an ihn zu glauben,\nsondern auch für ihn zu leiden.",
+       "englisch_web": "Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf,"
+      },
+      {
+       "vers": 30,
+       "leichte_sprache": "Ihr habt denselben Kampf,\nden ihr an mir gesehen habt\nund von dem ihr jetzt hört,\ndass ich ihn führe.",
+       "englisch_web": "having the same conflict which you saw in me and now hear is in me."
+      }
+     ],
+     "erklaerung": "Vers 27: Das griechische Wort für „leben“ heißt hier wörtlich: „als Bürger leben“. Philippi war stolz auf seine römischen Bürgerrechte. Paulus sagt: Lebt wie gute Bürger von Gottes Reich.\nVers 28: Die Gemeinde in Philippi hatte Gegner in der Stadt. Wer genau das war, sagt der Brief nicht.\nVers 29–30: Leiden ist nicht etwas Gutes an sich. Aber wer zu Christus gehört, kann dafür Ärger bekommen. Paulus selbst wurde in Philippi geschlagen und ins Gefängnis geworfen (Apostelgeschichte 16,22–24). Die Gemeinde hat das miterlebt.\nFür heute: Auch heute werden in vielen Ländern Christen wegen ihres Glaubens verfolgt. Wir sollen für sie beten und uns für Religionsfreiheit für alle Menschen einsetzen."
+    }
+   ]
+  }
+ ]
+}
