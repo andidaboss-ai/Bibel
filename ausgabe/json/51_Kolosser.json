@@ -1,0 +1,224 @@
+{
+ "nr": 51,
+ "code": "COL",
+ "kuerzel": "Kol",
+ "name": "Kolosser",
+ "name_englisch": "Colossians",
+ "testament": "neues-testament",
+ "kapitel": 4,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Christus, das Bild des unsichtbaren Gottes",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Kolosser",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Kolossä war eine kleine Stadt in der heutigen Türkei, im Tal des Flusses Lykos. In der Nähe lagen die Städte Laodizea und Hierapolis.\nPaulus hat die Gemeinde in Kolossä nicht selbst gegründet. Sein Mitarbeiter Epaphras hat dort die gute Nachricht verkündet (1,7).\nDer Brief nennt sich als Brief von Paulus und Timotheus. Er ist im Gefängnis geschrieben (4,18). Viele Fachleute meinen heute, dass ein Schüler von Paulus ihn geschrieben hat, im Sinne von Paulus. Andere halten Paulus selbst für den Verfasser.\nIn der Gemeinde gab es Lehrer, die besondere Regeln, Festtage und Engelverehrung für nötig hielten. Der Brief sagt dagegen: In Christus habt ihr schon alles. Er ist der Herr über die ganze Schöpfung.\nIn Kapitel 1 steht ein berühmtes Lied über Christus. Der Brief ist eng verwandt mit dem Epheserbrief.\n**Ein wichtiger Hinweis:** In Kapitel 3 und 4 stehen Regeln für Ehepaare, Kinder, Eltern, Sklaven und Herren. Sie spiegeln die Ordnung der damaligen Gesellschaft. Wir erklären in den Kästen, wie Christen sie heute verstehen.\nDer Kolosserbrief hat 4 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Paulus,\ndurch den Willen Gottes ein Apostel von Christus Jesus,\nund Timotheus,\nunser Bruder,",
+       "englisch_web": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "schreiben an die Heiligen und treuen Brüder in Christus,\ndie in Kolossä sind:\nGnade sei mit euch und Frieden\nvon Gott, unserem Vater,\nund dem Herrn Jesus Christus.",
+       "englisch_web": "to the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father and the Lord Jesus Christ."
+      }
+     ],
+     "erklaerung": "„Heilige“ sind alle Christen. Sie gehören zu Gott.\nTimotheus war ein enger Mitarbeiter von Paulus."
+    },
+    {
+     "ueberschrift": "Dank für den Glauben der Gemeinde",
+     "vers_von": 3,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Wir danken Gott,\ndem Vater unseres Herrn Jesus Christus,\nund beten immer für euch.",
+       "englisch_web": "We give thanks to God the Father of our Lord Jesus Christ, praying always for you,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn wir haben von eurem Glauben an Christus Jesus gehört\nund von eurer Liebe zu allen Heiligen.",
+       "englisch_web": "having heard of your faith in Christ Jesus and of the love which you have toward all the saints,"
+      },
+      {
+       "vers": 5,
+       "leichte_sprache": "Ihr glaubt und liebt wegen der Hoffnung,\ndie für euch im Himmel bereitliegt.\nVon ihr habt ihr schon früher gehört,\ndurch das Wort der Wahrheit,\ndie gute Nachricht.",
+       "englisch_web": "because of the hope which is laid up for you in the heavens, of which you heard before in the word of the truth of the Good News"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Sie ist zu euch gekommen.\nIn der ganzen Welt bringt sie Frucht und wächst,\nso wie auch bei euch,\nseit dem Tag,\nan dem ihr die Gnade Gottes gehört\nund in Wahrheit erkannt habt.",
+       "englisch_web": "which has come to you, even as it is in all the world and is bearing fruit and growing, as it does in you also, since the day you heard and knew the grace of God in truth,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "So habt ihr es von Epaphras gelernt,\nunserem geliebten Mitarbeiter.\nEr ist für euch ein treuer Diener von Christus.",
+       "englisch_web": "even as you learned from Epaphras our beloved fellow servant, who is a faithful servant of Christ on your behalf,"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Er hat uns auch von eurer Liebe im Geist erzählt.",
+       "englisch_web": "who also declared to us your love in the Spirit."
+      }
+     ],
+     "erklaerung": "Vers 4–5: Glaube, Liebe und Hoffnung gehören zusammen (vergleiche 1. Korinther 13,13).\nVers 6: Die gute Nachricht ist wie eine Pflanze. Sie wächst und bringt Frucht, überall auf der Welt.\nVers 7: Epaphras stammte aus Kolossä (4,12). Er hat die Gemeinde gegründet. Paulus kennt die Gemeinde nur durch ihn."
+    },
+    {
+     "ueberschrift": "Gebet für die Gemeinde",
+     "vers_von": 9,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Darum hören auch wir nicht auf,\nfür euch zu beten,\nseit dem Tag,\nan dem wir davon gehört haben.\nWir bitten Gott,\ndass ihr seinen Willen ganz erkennt,\nmit aller Weisheit und mit Verstand,\ndie der Geist schenkt.",
+       "englisch_web": "For this cause, we also, since the day we heard this, don’t cease praying and making requests for you, that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "So sollt ihr leben,\nwie es dem Herrn würdig ist,\nund ihm in allem gefallen.\nIhr sollt Frucht bringen in jedem guten Werk\nund in der Erkenntnis Gottes wachsen.",
+       "englisch_web": "that you may walk worthily of the Lord, to please him in all respects, bearing fruit in every good work and increasing in the knowledge of God,"
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Ihr sollt gestärkt werden mit aller Kraft,\nnach der Macht seiner Herrlichkeit,\ndamit ihr ausdauernd und geduldig seid,\nmit Freude.",
+       "englisch_web": "strengthened with all power, according to the might of his glory, for all endurance and perseverance with joy,"
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Dankt dem Vater.\nEr hat uns fähig gemacht,\nAnteil zu haben am Erbe der Heiligen im Licht.",
+       "englisch_web": "giving thanks to the Father, who made us fit to be partakers of the inheritance of the saints in light,"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Er hat uns aus der Macht der Finsternis befreit\nund uns versetzt in das Reich seines geliebten Sohnes.",
+       "englisch_web": "who delivered us out of the power of darkness, and translated us into the Kingdom of the Son of his love,"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "In ihm haben wir die Erlösung:\ndie Vergebung der Sünden.",
+       "englisch_web": "in whom we have our redemption, the forgiveness of our sins."
+      }
+     ],
+     "erklaerung": "Vers 9–10: Erkenntnis ist kein Selbstzweck. Wer Gottes Willen erkennt, soll danach leben.\nVers 11: Geduld und Ausdauer kommen nicht aus eigener Kraft. Gott schenkt die Kraft dafür.\nVers 13: Ein Bild vom Wechsel des Herrschers: Früher hat die Finsternis über uns bestimmt. Jetzt gehören wir zum Reich von Jesus.\nVers 14: „Erlösung“ heißt: freigekauft werden, wie ein Gefangener freigekauft wird."
+    },
+    {
+     "ueberschrift": "Das Lied von Christus",
+     "vers_von": 15,
+     "vers_bis": 20,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 15,
+       "leichte_sprache": "Er ist das Bild des unsichtbaren Gottes,\nder Erstgeborene vor aller Schöpfung.",
+       "englisch_web": "He is the image of the invisible God, the firstborn of all creation."
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Denn durch ihn ist alles geschaffen worden,\nim Himmel und auf der Erde,\ndas Sichtbare und das Unsichtbare:\nThrone und Herrschaften,\nMächte und Gewalten.\nAlles ist durch ihn und für ihn geschaffen.",
+       "englisch_web": "For by him all things were created in the heavens and on the earth, visible things and invisible things, whether thrones or dominions or principalities or powers. All things have been created through him and for him."
+      },
+      {
+       "vers": 17,
+       "leichte_sprache": "Er ist vor allem.\nUnd in ihm hat alles seinen Halt.",
+       "englisch_web": "He is before all things, and in him all things are held together."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Er ist das Haupt des Leibes,\nder Gemeinde.\nEr ist der Anfang,\nder Erstgeborene von den Toten,\ndamit er in allem der Erste ist.",
+       "englisch_web": "He is the head of the body, the assembly, who is the beginning, the firstborn from the dead, that in all things he might have the preeminence."
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Denn es hat der ganzen Fülle gefallen,\nin ihm zu wohnen,",
+       "englisch_web": "For all the fullness was pleased to dwell in him,"
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "und durch ihn alles mit sich zu versöhnen,\nob auf der Erde\noder im Himmel.\nEr hat Frieden gemacht\ndurch das Blut seines Kreuzes.",
+       "englisch_web": "and through him to reconcile all things to himself by him, whether things on the earth or things in the heavens, having made peace through the blood of his cross."
+      }
+     ],
+     "erklaerung": "Vers 15–20 ist wohl ein Lied der ersten Christen. Es hat zwei Teile: Christus und die Schöpfung (Vers 15–17) und Christus und die Versöhnung (Vers 18–20).\nVers 15: „Bild des unsichtbaren Gottes“: Gott kann man nicht sehen. Aber in Jesus kann man sehen, wie Gott ist.\n„Der Erstgeborene vor aller Schöpfung“ heißt nicht, dass Christus selbst geschaffen wurde. Der „Erstgeborene“ hatte damals den höchsten Rang und das Recht des Erben. Christus steht über allem, was geschaffen ist.\nVers 16: „Throne, Herrschaften, Mächte und Gewalten“: Damit sind unsichtbare Mächte gemeint, vor denen Menschen damals Angst hatten. Der Brief sagt: Auch sie sind von Christus geschaffen. Niemand muss sie fürchten.\nVers 17: Christus hält die Welt zusammen.\nVers 20: Gott will nicht nur Menschen versöhnen, sondern „alles“, die ganze Schöpfung. Für heute: Darum gehört auch die Sorge für die Schöpfung zum christlichen Glauben."
+    },
+    {
+     "ueberschrift": "Ihr seid versöhnt",
+     "vers_von": 21,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 21,
+       "leichte_sprache": "Auch ihr wart früher Gott fremd.\nIn euren Gedanken wart ihr seine Feinde,\nweil ihr Böses getan habt.",
+       "englisch_web": "You, being in past times alienated and enemies in your mind in your evil deeds,"
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Aber jetzt hat er euch versöhnt\ndurch den Tod im menschlichen Körper von Christus.\nSo will er euch heilig,\nohne Makel\nund ohne Tadel vor sich stellen.",
+       "englisch_web": "yet now he has reconciled in the body of his flesh through death, to present you holy and without defect and blameless before him,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Dafür müsst ihr aber im Glauben bleiben,\nfest gegründet und standhaft.\nLasst euch nicht abbringen von der Hoffnung der guten Nachricht,\ndie ihr gehört habt.\nSie wurde in der ganzen Schöpfung unter dem Himmel verkündet.\nUnd ich,\nPaulus,\nbin ihr Diener geworden.",
+       "englisch_web": "if it is so that you continue in the faith, grounded and steadfast, and not moved away from the hope of the Good News which you heard, which was proclaimed in all creation under heaven, of which I, Paul, was made a servant."
+      }
+     ],
+     "erklaerung": "Vers 21–22: Nicht Gott musste versöhnt werden. Gott selbst hat die Menschen mit sich versöhnt. Er hat den ersten Schritt gemacht.\nVers 22: „Im menschlichen Körper“: Jesus war ein wirklicher Mensch mit einem wirklichen Körper. Das betont der Brief gegen Lehrer, die das Körperliche verachteten.\nVers 23: „In der ganzen Schöpfung“ ist eine Übertreibung, um zu zeigen: Die gute Nachricht ist für alle Menschen bestimmt."
+    },
+    {
+     "ueberschrift": "Paulus dient der Gemeinde",
+     "vers_von": 24,
+     "vers_bis": 29,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Jetzt freue ich mich in meinen Leiden für euch.\nWas an den Leiden von Christus noch fehlt,\ndas ergänze ich in meinem eigenen Körper\nfür seinen Leib,\ndie Gemeinde.",
+       "englisch_web": "Now I rejoice in my sufferings for your sake, and fill up on my part that which is lacking of the afflictions of Christ in my flesh for his body’s sake, which is the assembly,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ihr Diener bin ich geworden.\nGott hat mir diese Aufgabe für euch gegeben:\nIch soll das Wort Gottes vollständig verkünden,",
+       "englisch_web": "of which I was made a servant according to the stewardship of God which was given me toward you to fulfill the word of God,"
+      },
+      {
+       "vers": 26,
+       "leichte_sprache": "das Geheimnis,\ndas seit Ewigkeiten und Generationen verborgen war.\nAber jetzt ist es seinen Heiligen offenbart worden.",
+       "englisch_web": "the mystery which has been hidden for ages and generations. But now it has been revealed to his saints,"
+      },
+      {
+       "vers": 27,
+       "leichte_sprache": "Gott wollte ihnen zeigen,\nwie reich und herrlich dieses Geheimnis unter den Völkern ist:\nChristus in euch,\ndie Hoffnung auf die Herrlichkeit.",
+       "englisch_web": "to whom God was pleased to make known what are the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory."
+      },
+      {
+       "vers": 28,
+       "leichte_sprache": "Ihn verkünden wir.\nWir ermahnen jeden Menschen\nund lehren jeden Menschen\nmit aller Weisheit,\ndamit wir jeden Menschen\nvollkommen in Christus Jesus vor Gott stellen.",
+       "englisch_web": "We proclaim him, admonishing every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus;"
+      },
+      {
+       "vers": 29,
+       "leichte_sprache": "Dafür arbeite ich hart und kämpfe,\nmit seiner Kraft,\ndie mächtig in mir wirkt.",
+       "englisch_web": "for which I also labor, striving according to his working, which works in me mightily."
+      }
+     ],
+     "erklaerung": "Vers 24 ist schwer zu verstehen. Er heißt nicht, dass das Leiden von Jesus am Kreuz nicht genug war. Ausleger verstehen es meist so: Christus leidet mit seiner Gemeinde mit. Wenn Paulus für die Gemeinde leidet, hat er Anteil an diesem Leiden.\nWichtig: Leiden ist nicht etwas Gutes an sich. Niemand soll Leid suchen oder anderen Leid zumuten.\nVers 27: Das „Geheimnis“ ist: Christus ist auch bei den Menschen aus den Völkern, nicht nur bei Israel. Er ist „in euch“.\nVers 28: Dreimal steht hier „jeder Mensch“. Die gute Nachricht ist für alle, nicht nur für eine Elite mit besonderem Wissen."
+    }
+   ]
+  }
+ ]
+}
