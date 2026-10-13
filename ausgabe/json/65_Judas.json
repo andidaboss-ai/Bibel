@@ -1,0 +1,221 @@
+{
+ "nr": 65,
+ "code": "JUD",
+ "kuerzel": "Jud",
+ "name": "Judas",
+ "name_englisch": "Jude",
+ "testament": "neues-testament",
+ "kapitel": 1,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Kämpft für den Glauben",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief von Judas",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Dieser kurze Brief kommt von Judas. Er nennt sich „Bruder von Jakobus“. Damit ist wohl Jakobus gemeint, der Bruder von Jesus. Dann wäre auch Judas ein Bruder von Jesus (vergleiche Markus 6,3).\nWichtig: Dieser Judas ist **nicht** Judas Iskariot, der Jesus verraten hat. Judas war damals ein sehr häufiger Name. Er kommt von Juda, einem der Söhne Jakobs.\nDer Brief warnt vor Menschen, die sich in die Gemeinde eingeschlichen haben. Sie sagten wohl: Weil Gott gnädig ist, dürfen wir tun, was wir wollen.\nDer Brief benutzt viele Beispiele aus der Hebräischen Bibel. Er zitiert auch alte jüdische Bücher, die nicht in der Bibel stehen, zum Beispiel das Buch Henoch.\nDer zweite Petrusbrief (Kapitel 2) ist diesem Brief sehr ähnlich.\nDer Judasbrief hat nur 1 Kapitel.",
+     "verse": [],
+     "erklaerung": "**Wichtiger Hinweis vorab**\nDieser Brief benutzt sehr harte Worte gegen falsche Lehrer. So schrieb man damals in Streitfragen. Die harten Worte sind keine Erlaubnis, heute Menschen zu beschimpfen, die anders glauben. Das Urteil über Menschen hat Gott allein."
+    },
+    {
+     "ueberschrift": "Gruß",
+     "vers_von": 1,
+     "vers_bis": 2,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Judas,\nein Diener von Jesus Christus\nund Bruder von Jakobus,\nschreibt an die Berufenen,\ndie von Gott, dem Vater, geheiligt\nund für Jesus Christus bewahrt sind.",
+       "englisch_web": "Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Barmherzigkeit, Frieden und Liebe\nsollen euch reichlich geschenkt werden.",
+       "englisch_web": "May mercy, peace, and love be multiplied to you."
+      }
+     ],
+     "erklaerung": "„Bewahrt für Jesus Christus“: Gott passt auf die Glaubenden auf. Das Wort „bewahren“ kommt in diesem Brief oft vor, am Anfang und am Ende (Vers 24)."
+    },
+    {
+     "ueberschrift": "Kämpft für den Glauben",
+     "vers_von": 3,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 3,
+       "leichte_sprache": "Ihr Lieben,\neigentlich wollte ich euch unbedingt\nüber unsere gemeinsame Rettung schreiben.\nAber jetzt muss ich euch schreiben\nund euch ermahnen:\nKämpft für den Glauben,\nder den Heiligen ein für alle Mal übergeben worden ist.",
+       "englisch_web": "Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Denn einige Menschen haben sich heimlich eingeschlichen.\nÜber sie wurde schon vor langer Zeit geschrieben,\ndass sie verurteilt werden.\nEs sind gottlose Menschen.\nSie machen aus der Gnade unseres Gottes\neine Ausrede für Zügellosigkeit.\nUnd sie verleugnen unseren einzigen Herrscher,\nGott und Herrn,\nJesus Christus.",
+       "englisch_web": "For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ."
+      }
+     ],
+     "erklaerung": "Vers 3: „Kämpfen“ heißt hier nicht, Gewalt anzuwenden. Es heißt: sich mit ganzer Kraft für den Glauben einsetzen und bei der Wahrheit bleiben.\nVers 4: Die falschen Lehrer sagten wohl: Gott vergibt ja sowieso, also ist alles erlaubt. Der Brief sagt: Das ist ein Missbrauch der Gnade.\nIn manchen Handschriften steht am Ende von Vers 4 nur „unseren einzigen Herrscher und Herrn Jesus Christus“, ohne das Wort „Gott“."
+    },
+    {
+     "ueberschrift": "Beispiele aus der Vergangenheit",
+     "vers_von": 5,
+     "vers_bis": 7,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Ich will euch erinnern,\nauch wenn ihr das schon alles wisst:\nDer Herr hat ein Volk aus dem Land Ägypten gerettet.\nDanach aber hat er die vernichtet,\ndie nicht geglaubt haben.",
+       "englisch_web": "Now I desire to remind you, though you already know this, that the Lord, having saved a people out of the land of Egypt, afterward destroyed those who didn’t believe."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und die Engel,\ndie ihren ersten Platz nicht bewahrt haben,\nsondern ihre eigene Wohnung verlassen haben,\ndie hält er mit ewigen Fesseln in der Finsternis fest\nfür das Gericht am großen Tag.",
+       "englisch_web": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day."
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Genauso ist es mit Sodom und Gomorra\nund den Städten um sie herum.\nSie haben sich genauso wie diese der Unzucht hingegeben\nund sind fremdem Fleisch nachgelaufen.\nSie sind ein warnendes Beispiel\nund erleiden die Strafe des ewigen Feuers.",
+       "englisch_web": "Even as Sodom and Gomorrah and the cities around them, having in the same way as these given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire."
+      }
+     ],
+     "erklaerung": "Vers 5 erinnert an die Wüstenzeit nach dem Auszug aus Ägypten (4. Mose 14). In manchen Handschriften steht statt „der Herr“: „Jesus“.\nVers 6 erinnert an alte jüdische Erzählungen über Engel, die sich gegen Gott gestellt haben (vergleiche 1. Mose 6,1–4).\nVers 7: „Fremdes Fleisch“: Viele Fachleute meinen, dass damit gemeint ist: Die Männer von Sodom wollten über die Engel herfallen, die Gäste von Lot waren (1. Mose 19). Wie die Engel in Vers 6 haben sie die Grenze zwischen Himmel und Erde missachtet.\nDie Hebräische Bibel nennt als Schuld von Sodom auch: Hochmut, Überfluss und dass sie den Armen nicht geholfen haben (Hesekiel 16,49). Die Geschichte von Sodom handelt vor allem von Gewalt gegen Fremde."
+    },
+    {
+     "ueberschrift": "Wie die falschen Lehrer sind",
+     "vers_von": 8,
+     "vers_bis": 13,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 8,
+       "leichte_sprache": "Genauso machen es auch diese Menschen\nmit ihren Träumen:\nSie beschmutzen den Körper,\nsie verachten jede Autorität,\nund sie lästern über himmlische Mächte.",
+       "englisch_web": "Yet in the same way, these also in their dreaming defile the flesh, despise authority, and slander celestial beings."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Selbst Michael, der Erzengel,\nwagte es nicht,\nein lästerndes Urteil zu sprechen,\nals er mit dem Teufel stritt\nund über den Körper von Mose verhandelte.\nEr sagte nur:\n„Der Herr soll dich zurechtweisen!“",
+       "englisch_web": "But Michael, the archangel, when contending with the devil and arguing about the body of Moses, dared not bring against him an abusive condemnation, but said, “May the Lord rebuke you!”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Aber diese Menschen lästern über alles,\nwas sie nicht kennen.\nUnd das, was sie von Natur aus verstehen,\nwie Tiere ohne Verstand,\ndaran gehen sie zugrunde.",
+       "englisch_web": "But these speak evil of whatever things they don’t know. They are destroyed in these things that they understand naturally, like the creatures without reason."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Weh ihnen!\nDenn sie sind den Weg von Kain gegangen.\nFür Geld sind sie in den Irrtum von Bileam gestürzt.\nUnd sie sind im Aufstand von Korach umgekommen.",
+       "englisch_web": "Woe to them! For they went in the way of Cain, and ran riotously in the error of Balaam for hire, and perished in Korah’s rebellion."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Sie sind wie versteckte Felsen unter Wasser\nbei euren Liebesmahlen,\nwenn sie mit euch feiern und essen.\nSie sind Hirten,\ndie ohne Scheu nur sich selbst versorgen.\nSie sind wie Wolken ohne Wasser,\ndie vom Wind getrieben werden.\nSie sind wie Bäume im Herbst ohne Früchte,\nzweimal tot\nund mit den Wurzeln ausgerissen.",
+       "englisch_web": "These are hidden rocky reefs in your love feasts when they feast with you, shepherds who without fear feed themselves; clouds without water, carried along by winds; autumn trees without fruit, twice dead, plucked up by the roots;"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Sie sind wie wilde Wellen im Meer,\ndie ihre eigene Schande wie Schaum ausspucken.\nSie sind wie Sterne,\ndie ziellos umherirren.\nFür sie ist die tiefste Finsternis\nfür immer bereitgehalten.",
+       "englisch_web": "wild waves of the sea, foaming out their own shame; wandering stars, for whom the blackness of darkness has been reserved forever."
+      }
+     ],
+     "erklaerung": "Vers 9: Diese Geschichte über den Erzengel Michael und den Körper von Mose steht nicht in der Bibel. Sie kommt aus einem alten jüdischen Buch. Die Botschaft: Nicht einmal ein Erzengel urteilt selbst über den Teufel. Er überlässt das Urteil Gott.\nVers 11 nennt drei Beispiele aus der Hebräischen Bibel: Kain, der seinen Bruder tötete (1. Mose 4). Bileam, der sich für Geld anwerben ließ (4. Mose 22). Korach, der sich gegen Mose und Aaron auflehnte (4. Mose 16).\nVers 12: „Liebesmahle“ waren die gemeinsamen Mahlzeiten der Gemeinde. „Versteckte Felsen“ sind gefährlich, weil man sie nicht sieht. Die falschen Lehrer wirken harmlos, aber sie richten Schaden an.\nVers 12–13: Viele Bilder aus der Natur: Sie versprechen etwas, wie Wolken Regen versprechen, aber sie geben nichts."
+    },
+    {
+     "ueberschrift": "Die Worte von Henoch",
+     "vers_von": 14,
+     "vers_bis": 16,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 14,
+       "leichte_sprache": "Über diese Menschen hat auch Henoch prophezeit,\nder Siebte nach Adam.\nEr hat gesagt:\n„Seht,\nder Herr ist mit seinen vielen tausend Heiligen gekommen,",
+       "englisch_web": "About these also Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord came with ten thousands of his holy ones,"
+      },
+      {
+       "vers": 15,
+       "leichte_sprache": "um über alle Gericht zu halten.\nEr wird alle Gottlosen überführen,\nwegen all ihrer gottlosen Taten,\ndie sie auf gottlose Weise getan haben,\nund wegen all der harten Worte,\ndie gottlose Sünder gegen ihn geredet haben.“",
+       "englisch_web": "to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”"
+      },
+      {
+       "vers": 16,
+       "leichte_sprache": "Diese Menschen murren und beklagen sich immer.\nSie leben nach ihren Begierden.\nIhr Mund redet großspurig.\nUnd sie schmeicheln Menschen,\num sich Vorteile zu verschaffen.",
+       "englisch_web": "These are murmurers and complainers, walking after their lusts—and their mouth speaks proud things—showing respect of persons to gain advantage."
+      }
+     ],
+     "erklaerung": "Vers 14: Henoch kommt in 1. Mose 5,18–24 vor. Er lebte so eng mit Gott, dass Gott ihn zu sich nahm. „Der Siebte nach Adam“: Man zählt Adam, Set, Enosch, Kenan, Mahalalel, Jered, Henoch.\nVers 14–15: Dieses Zitat steht nicht in der Bibel. Es kommt aus dem Buch Henoch, einer alten jüdischen Schrift. Judas kannte und schätzte dieses Buch. In der äthiopischen orthodoxen Kirche gehört das Buch Henoch sogar zur Bibel. In den anderen Kirchen gehört es nicht dazu.\nVers 16: „Schmeicheln, um Vorteile zu haben“: Sie behandeln Menschen danach, was sie ihnen nützen."
+    },
+    {
+     "ueberschrift": "Bleibt in der Liebe Gottes",
+     "vers_von": 17,
+     "vers_bis": 23,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 17,
+       "leichte_sprache": "Ihr aber,\nihr Lieben,\nerinnert euch an die Worte,\ndie die Apostel unseres Herrn Jesus Christus\nschon früher gesagt haben.",
+       "englisch_web": "But you, beloved, remember the words which have been spoken before by the apostles of our Lord Jesus Christ."
+      },
+      {
+       "vers": 18,
+       "leichte_sprache": "Sie haben euch gesagt:\n„In der letzten Zeit wird es Spötter geben,\ndie nach ihren eigenen gottlosen Begierden leben.“",
+       "englisch_web": "They said to you, “In the last time there will be mockers, walking after their own ungodly lusts.”"
+      },
+      {
+       "vers": 19,
+       "leichte_sprache": "Das sind die,\ndie Spaltungen verursachen.\nSie leben nur nach ihren natürlichen Trieben\nund haben den Geist nicht.",
+       "englisch_web": "These are those who cause divisions and are sensual, not having the Spirit."
+      },
+      {
+       "vers": 20,
+       "leichte_sprache": "Ihr aber,\nihr Lieben,\nbaut euch weiter auf\nauf eurem allerheiligsten Glauben\nund betet im Heiligen Geist.",
+       "englisch_web": "But you, beloved, keep building up yourselves on your most holy faith, praying in the Holy Spirit."
+      },
+      {
+       "vers": 21,
+       "leichte_sprache": "Bewahrt euch in der Liebe Gottes\nund wartet auf die Barmherzigkeit unseres Herrn Jesus Christus,\ndie zum ewigen Leben führt.",
+       "englisch_web": "Keep yourselves in God’s love, looking for the mercy of our Lord Jesus Christ to eternal life."
+      },
+      {
+       "vers": 22,
+       "leichte_sprache": "Mit manchen habt Mitleid,\nund unterscheidet dabei.",
+       "englisch_web": "On some have compassion, making a distinction,"
+      },
+      {
+       "vers": 23,
+       "leichte_sprache": "Manche rettet,\nindem ihr sie aus dem Feuer reißt,\nmit Furcht.\nHasst sogar das Kleid,\ndas vom Körper beschmutzt ist.",
+       "englisch_web": "and some save, snatching them out of the fire with fear, hating even the clothing stained by the flesh."
+      }
+     ],
+     "erklaerung": "Vers 20–21: Was Christen tun sollen: im Glauben wachsen, beten und in Gottes Liebe bleiben.\nVers 22–23: Ganz wichtig: Christen sollen die anderen nicht einfach abschreiben. Sie sollen Mitleid haben und versuchen, Menschen zu retten. Man soll das Böse hassen, aber nicht die Menschen.\nVers 22–23 ist in den alten Handschriften unterschiedlich überliefert. Manche haben zwei Gruppen von Menschen, andere drei."
+    },
+    {
+     "ueberschrift": "Lob für Gott",
+     "vers_von": 24,
+     "vers_bis": 25,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 24,
+       "leichte_sprache": "Gott kann euch davor bewahren,\ndass ihr fallt.\nEr kann euch ohne Fehler\nvor seine Herrlichkeit stellen,\nmit großer Freude.",
+       "englisch_web": "Now to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy,"
+      },
+      {
+       "vers": 25,
+       "leichte_sprache": "Ihm,\ndem einzigen Gott,\nunserem Retter,\nder allein weise ist,\ngehören Ehre und Größe,\nMacht und Herrschaft,\njetzt und für immer.\nAmen.",
+       "englisch_web": "to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen."
+      }
+     ],
+     "erklaerung": "Nach allen harten Worten endet der Brief mit einem wunderschönen Lob. Das Wichtigste: Nicht wir müssen uns selbst festhalten. Gott hält uns fest und bewahrt uns.\nDiese Verse werden in vielen Gottesdiensten als Segen am Ende gesprochen.\nIn vielen Handschriften steht in Vers 25 noch: „durch Jesus Christus, unseren Herrn“. Und „vor aller Zeit“."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im Judasbrief gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**Kämpft für den Glauben:** Bleibt bei der Botschaft, die ihr bekommen habt (Vers 3).\n**Gnade ist keine Ausrede:** Wer Gottes Gnade als Erlaubnis für alles benutzt, missbraucht sie (Vers 4).\n**Beispiele aus der Hebräischen Bibel:** Gott sieht das Böse und richtet es (Vers 5–16).\n**Bleibt in Gottes Liebe:** Betet, wachst im Glauben und habt Mitleid mit anderen (Vers 20–23).\n**Gott bewahrt:** Er hält euch fest bis zum Ziel (Vers 24–25).\n**Für heute:** Hasst das Böse, aber versucht, Menschen zu retten.\n**Wie geht es weiter?** Als Letztes kommt die Offenbarung an Johannes. Sie ist das letzte Buch der Bibel. Sie spricht in Bildern von Gottes Sieg über das Böse und von einem neuen Himmel und einer neuen Erde."
+    }
+   ]
+  }
+ ]
+}
