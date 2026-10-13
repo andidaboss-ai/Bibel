@@ -1,0 +1,225 @@
+/* Die Bibel in Leichter Sprache – E-Book-Stil
+   Display: Cinzel · Text: Literata · Auszeichnung: Inter
+   Bewusst ohne Hintergrundfarben, damit Kindle-Nachtmodus und E-Ink sauber funktionieren. */
+
+@font-face { font-family: "Cinzel"; font-weight: bold; font-style: normal; src: url("../fonts/Cinzel-Bold.ttf"); }
+@font-face { font-family: "Cinzel"; font-weight: normal; font-style: normal; src: url("../fonts/Cinzel-Regular.ttf"); }
+@font-face { font-family: "Literata"; font-weight: normal; font-style: normal; src: url("../fonts/Literata-Regular.ttf"); }
+@font-face { font-family: "Literata"; font-weight: bold; font-style: normal; src: url("../fonts/Literata-Bold.ttf"); }
+@font-face { font-family: "Literata"; font-weight: normal; font-style: italic; src: url("../fonts/Literata-Italic.ttf"); }
+@font-face { font-family: "Inter"; font-weight: 600; font-style: normal; src: url("../fonts/Inter-SemiBold.ttf"); }
+@font-face { font-family: "Inter"; font-weight: 800; font-style: normal; src: url("../fonts/Inter-ExtraBold.ttf"); }
+
+body {
+  font-family: "Literata", Georgia, serif;
+  line-height: 1.55;
+  margin: 0;
+  padding: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+p { margin: 0; text-indent: 0; }
+a { text-decoration: none; color: inherit; }
+strong { font-weight: bold; }
+
+/* ---------- Zierlinie ---------- */
+.zier { text-align: center; margin: 1.1em 0 1.6em 0; line-height: 0; }
+.zier span {
+  display: inline-block;
+  width: 3.2em;
+  height: 0;
+  border-top: 2px solid #B08A3E;
+}
+.zier.gross span { width: 5em; border-top-width: 3px; }
+
+/* ---------- Kleine Überzeilen ---------- */
+.kicker {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 0.72em;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #B08A3E;
+  text-align: center;
+  margin: 0 0 0.6em 0;
+}
+
+/* ---------- Titelseite ---------- */
+.titelseite { text-align: center; padding-top: 18%; }
+.ts-oben {
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.7em; letter-spacing: 0.3em; text-transform: uppercase;
+  color: #B08A3E; margin-bottom: 1.4em;
+}
+.ts-titel {
+  font-family: "Cinzel", "Times New Roman", serif; font-weight: bold;
+  font-size: 3.1em; line-height: 1.05; letter-spacing: 0.06em;
+  margin: 0; text-transform: uppercase;
+}
+.ts-unter {
+  font-family: "Cinzel", serif; font-weight: normal;
+  font-size: 1.25em; letter-spacing: 0.12em; margin-top: 0.4em;
+}
+.ts-band {
+  font-family: "Inter", sans-serif; font-weight: 800;
+  font-size: 0.95em; letter-spacing: 0.04em; margin-top: 0.4em;
+}
+.ts-zusatz { font-style: italic; margin-top: 0.8em; font-size: 0.95em; }
+
+/* ---------- Teil-Seiten (AT / NT) ---------- */
+.teil { text-align: center; padding-top: 30%; page-break-before: always; }
+.teil-titel {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 2.3em; line-height: 1.15; letter-spacing: 0.05em;
+  text-transform: uppercase; margin: 0;
+}
+.teil-unter {
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.8em; letter-spacing: 0.18em; text-transform: uppercase;
+}
+
+/* ---------- Buch-Seiten ---------- */
+.buchseite { text-align: center; padding-top: 16%; page-break-before: always; }
+.buch-titel {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 2.6em; line-height: 1.1; letter-spacing: 0.04em;
+  text-transform: uppercase; margin: 0;
+}
+.buch-anzahl {
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.75em; letter-spacing: 0.2em; text-transform: uppercase;
+  margin-bottom: 2.2em;
+}
+.kapitelraster { text-align: center; line-height: 2.6; padding: 0 0.5em; }
+.kn {
+  display: inline-block;
+  min-width: 2.2em;
+  margin: 0 0.15em;
+  padding: 0 0.2em;
+  border: 1px solid #B08A3E;
+  border-radius: 0.35em;
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.85em;
+  line-height: 2;
+  text-align: center;
+}
+
+/* ---------- Kapitelkopf ---------- */
+.kapitel { page-break-before: always; }
+.kapkopf { text-align: center; margin: 1.6em 0 0.4em 0; }
+.kapnr {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 2em; line-height: 1.1; letter-spacing: 0.05em;
+  margin: 0;
+}
+.kaptitel {
+  font-family: "Literata", serif; font-style: italic;
+  font-size: 1.15em; line-height: 1.35;
+  margin: 0.5em 1em 0 1em;
+}
+
+/* ---------- Abschnitte ---------- */
+h3.abschnitt {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.02em;
+  line-height: 1.3;
+  margin: 1.9em 0 0.8em 0;
+  page-break-after: avoid;
+}
+h3.abschnitt .bereich {
+  font-weight: 600;
+  font-size: 0.72em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #B08A3E;
+  white-space: nowrap;
+}
+h3.einf, h3.rueck {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 1.15em; letter-spacing: 0.03em;
+  text-align: center;
+  margin-top: 1.4em;
+}
+
+/* ---------- Verse ---------- */
+p.v {
+  margin: 0 0 0.75em 0;
+  padding-left: 1.9em;
+  text-indent: -1.9em;
+}
+p.v.fort { padding-left: 1.9em; text-indent: 0; }
+.vn {
+  display: inline-block;
+  width: 1.6em;
+  margin-right: 0.3em;
+  text-indent: 0;
+  text-align: right;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.68em;
+  vertical-align: 0.35em;
+  color: #B08A3E;
+}
+p.t { margin: 0 0 0.45em 0; }
+
+/* ---------- Kästen ---------- */
+.box {
+  margin: 1.4em 0 1.6em 0;
+  padding: 0.75em 0.9em 0.55em 1em;
+  page-break-inside: auto;
+}
+.box p { margin: 0 0 0.5em 0; font-size: 0.95em; line-height: 1.5; }
+.box.erkl { border-left: 4px solid #B08A3E; }
+.box.hinweis {
+  border: 2px solid #8C2F2F;
+  border-radius: 0.4em;
+}
+.boxkopf {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 800;
+  font-size: 0.72em !important;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #B08A3E;
+  margin-bottom: 0.6em !important;
+}
+.box.hinweis .boxkopf { color: #8C2F2F; }
+
+/* ---------- Seitentitel, Vorwort, Hilfe, Inhalt ---------- */
+.seitentitel, h2.klein {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 1.7em; letter-spacing: 0.04em;
+  text-align: center; margin: 1.2em 0 0 0;
+}
+h2.klein { font-size: 1.2em; margin-bottom: 1em; }
+.vorwort, .hilfe, .inhalt, .impressum { page-break-before: always; }
+
+.inh-testament {
+  font-family: "Inter", sans-serif; font-weight: 800;
+  font-size: 0.8em; letter-spacing: 0.2em; text-transform: uppercase;
+  color: #B08A3E; text-align: center;
+  margin: 1.8em 0 0.8em 0;
+}
+.inh-buch {
+  font-family: "Cinzel", serif; font-weight: bold;
+  font-size: 1.05em; text-align: center; margin: 0 0 0.45em 0;
+}
+.inh-teil {
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.9em; text-align: center; margin: 1.4em 0 0.4em 0;
+}
+
+.nummer { margin: 1.1em 0; padding-left: 1em; border-left: 4px solid #B08A3E; }
+.n-name { font-family: "Inter", sans-serif; font-weight: 800; font-size: 0.85em; }
+.n-tel { font-family: "Inter", sans-serif; font-weight: 800; font-size: 1.35em; letter-spacing: 0.03em; }
+.n-info { font-size: 0.85em; font-style: italic; }
+
+.impressum p { font-size: 0.82em; line-height: 1.45; margin-bottom: 0.8em; }
+.impressum .stand { font-style: italic; }
+
+.mitte { text-align: center; }
+
+/* Ziffern in Cinzel-Überschriften: Literata, weil Cinzels „1“ wie ein „I“ aussieht */
+.z { font-family: "Literata", Georgia, serif; font-weight: bold; letter-spacing: 0; }
