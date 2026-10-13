@@ -1,0 +1,139 @@
+{
+ "nr": 64,
+ "code": "3JN",
+ "kuerzel": "3Joh",
+ "name": "3. Johannes",
+ "name_englisch": "3 John",
+ "testament": "neues-testament",
+ "kapitel": 1,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Gastfreundschaft für die Boten",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der dritte Brief von Johannes",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Dies ist das kürzeste Buch der Bibel. Im griechischen Text hat es die wenigsten Wörter.\nWie der zweite Brief kommt er von „dem Ältesten“.\nEr ist an einen Mann namens Gajus geschrieben. Gajus war ein Christ, der Gäste gut aufnahm.\nDer Brief zeigt ganz menschlich, wie es in den ersten Gemeinden zuging: Reisende Boten zogen von Ort zu Ort und brauchten Unterkunft. Ein Gemeindeleiter namens Diotrephes wollte sie nicht aufnehmen. Es gab Streit um Macht.\nDer dritte Johannesbrief hat nur 1 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gruß und Freude",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Der Älteste schreibt\nan den geliebten Gajus,\nden ich in der Wahrheit liebe.",
+       "englisch_web": "The elder to Gaius the beloved, whom I love in truth."
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Mein Lieber,\nich bete dafür,\ndass es dir in allem gut geht\nund dass du gesund bist,\nso wie es deiner Seele gut geht.",
+       "englisch_web": "Beloved, I pray that you may prosper in all things and be healthy, even as your soul prospers."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Denn ich habe mich sehr gefreut,\nals Brüder kamen\nund von deiner Wahrheit erzählt haben,\nwie du in der Wahrheit lebst.",
+       "englisch_web": "For I rejoiced greatly when brothers came and testified about your truth, even as you walk in truth."
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Ich habe keine größere Freude als diese:\nzu hören,\ndass meine Kinder in der Wahrheit leben.",
+       "englisch_web": "I have no greater joy than this: to hear about my children walking in truth."
+      }
+     ],
+     "erklaerung": "Vers 2: Ein ganz normaler, freundlicher Wunsch, wie man ihn damals in Briefen schrieb: Ich hoffe, es geht dir gut und du bist gesund.\n**Wichtiger Hinweis**\nManche Prediger benutzen Vers 2, um zu sagen: Wer richtig glaubt, wird immer reich und gesund. Das steht hier nicht. Es ist ein Gruß, kein Versprechen. Armut und Krankheit sind keine Strafe für schwachen Glauben. Gebet ersetzt keinen Arzt.\nVers 4: „Meine Kinder“: So nennt der Älteste die Menschen, die durch ihn zum Glauben gekommen sind."
+    },
+    {
+     "ueberschrift": "Lob für Gajus",
+     "vers_von": 5,
+     "vers_bis": 8,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Mein Lieber,\ndu handelst treu\nbei allem, was du für die Brüder tust,\nauch wenn sie Fremde sind.",
+       "englisch_web": "Beloved, you do a faithful work in whatever you accomplish for those who are brothers and strangers."
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Sie haben vor der Gemeinde\nvon deiner Liebe erzählt.\nDu tust gut daran,\nsie für ihre Reise so auszustatten,\nwie es Gott gefällt.",
+       "englisch_web": "They have testified about your love before the assembly. You will do well to send them forward on their journey in a way worthy of God,"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Denn sie sind für den Namen ausgezogen\nund nehmen nichts von den Heiden an.",
+       "englisch_web": "because for the sake of the Name they went out, taking nothing from the Gentiles."
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Darum sollen wir solche Menschen aufnehmen,\ndamit wir Mitarbeiter für die Wahrheit werden.",
+       "englisch_web": "We therefore ought to receive such, that we may be fellow workers for the truth."
+      }
+     ],
+     "erklaerung": "Vers 5–6: Gajus nimmt reisende Christen bei sich auf, auch wenn er sie gar nicht kennt. Er gibt ihnen Essen und alles, was sie für die Weiterreise brauchen.\nVers 7: „Für den Namen“ heißt: für Jesus. Die Boten wollten von Menschen, die nicht an Jesus glaubten, kein Geld nehmen. So sollte niemand denken, dass sie mit dem Glauben Geschäfte machen.\nVers 8: Wer Boten unterstützt, arbeitet mit, auch wenn er selbst zu Hause bleibt."
+    },
+    {
+     "ueberschrift": "Ärger mit Diotrephes",
+     "vers_von": 9,
+     "vers_bis": 12,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 9,
+       "leichte_sprache": "Ich habe der Gemeinde geschrieben.\nAber Diotrephes,\nder gern der Erste unter ihnen sein will,\nnimmt uns nicht an.",
+       "englisch_web": "I wrote to the assembly, but Diotrephes, who loves to be first among them, doesn’t accept what we say."
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Darum werde ich,\nwenn ich komme,\nan seine Taten erinnern.\nEr redet mit bösen Worten\nungerecht über uns.\nUnd damit nicht genug:\nEr selbst nimmt die Brüder nicht auf.\nUnd die,\ndie sie aufnehmen wollen,\nhindert er daran\nund wirft sie aus der Gemeinde hinaus.",
+       "englisch_web": "Therefore, if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words. Not content with this, he doesn’t receive the brothers himself, and those who would, he forbids and throws out of the assembly."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Mein Lieber,\nmach nicht das Böse nach,\nsondern das Gute.\nWer Gutes tut,\nist von Gott.\nWer Böses tut,\nhat Gott nicht gesehen.",
+       "englisch_web": "Beloved, don’t imitate that which is evil, but that which is good. He who does good is of God. He who does evil hasn’t seen God."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Über Demetrius reden alle gut,\nund die Wahrheit selbst bezeugt es.\nAuch wir bezeugen es,\nund du weißt,\ndass unser Zeugnis wahr ist.",
+       "englisch_web": "Demetrius has the testimony of all, and of the truth itself; yes, we also testify, and you know that our testimony is true."
+      }
+     ],
+     "erklaerung": "Vers 9–10: Diotrephes will Macht in der Gemeinde. Er redet schlecht über andere und wirft Menschen hinaus. Das zeigt: Auch in den ersten Gemeinden gab es Machtmissbrauch.\nWer in einer Gemeinde Macht missbraucht, handelt gegen Jesus. Jesus hat gesagt: Wer der Erste sein will, soll allen dienen (vergleiche Markus 10,43–44).\nWer in einer Gemeinde unter Druck gesetzt oder ausgegrenzt wird, darf sich Hilfe holen, zum Beispiel bei Vertrauenspersonen oder Beratungsstellen.\nVers 12: Demetrius hat vielleicht diesen Brief zu Gajus gebracht. Der Älteste empfiehlt ihn."
+    },
+    {
+     "ueberschrift": "Schluss",
+     "vers_von": 13,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 13,
+       "leichte_sprache": "Ich hätte dir noch viel zu schreiben.\nAber ich will dir nicht mit Tinte und Feder schreiben.",
+       "englisch_web": "I had many things to write to you, but I am unwilling to write to you with ink and pen;"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Sondern ich hoffe,\ndich bald zu sehen.\nDann werden wir von Angesicht zu Angesicht reden.\nFriede sei mit dir.\nDie Freunde grüßen dich.\nGrüße die Freunde,\njeden mit seinem Namen.",
+       "englisch_web": "but I hope to see you soon. Then we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name."
+      }
+     ],
+     "erklaerung": "In manchen Bibeln ist der letzte Satz als eigener Vers 15 gezählt.\n„Die Freunde“: So nannten sich die Christen hier. Jesus hat seine Jünger Freunde genannt (Johannes 15,15).\n„Jeden mit seinem Namen“: Jeder Mensch ist wichtig und wird persönlich gegrüßt."
+    },
+    {
+     "ueberschrift": "Rückblick: Was haben wir im dritten Johannesbrief gelesen?",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": null,
+     "verse": [],
+     "erklaerung": "**In der Wahrheit leben:** Das ist die größte Freude des Ältesten (Vers 3–4).\n**Gastfreundschaft:** Gajus nimmt fremde Boten auf und unterstützt sie (Vers 5–8).\n**Machtmissbrauch:** Diotrephes will der Erste sein und grenzt andere aus. Das ist falsch (Vers 9–10).\n**Das Gute nachahmen:** Wer Gutes tut, ist von Gott (Vers 11).\n**Für heute:** Seid gastfreundlich und dient einander, statt über andere zu herrschen.\n**Wie geht es weiter?** Als Nächstes kommt der Brief von Judas. Er ist auch sehr kurz und warnt vor falschen Lehrern."
+    }
+   ]
+  }
+ ]
+}
