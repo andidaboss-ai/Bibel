@@ -149952,7 +149952,7 @@ Amen.
 > **Abraham:** Abraham vertraute Gott. Alle, die Gott vertrauen, gehören zu seiner Familie (Kapitel 3).
 > **Alle sind eins:** In Christus sind alle gleich viel wert, ob Jude oder Grieche, Sklave oder Freier, Mann oder Frau (3,28).
 > **Freiheit:** Christus hat uns frei gemacht. Diese Freiheit zeigt sich darin, dass wir einander in Liebe dienen (Kapitel 5).
-> **Die Frucht des Geistes:** Liebe, Freude, Frieden, Geduld, Freundlichkeit, Güte, Treue, Sanftmut und Selbstbeherrschung (5,22–23).
+> **Die Frucht des Geistes:** Liebe, Freude, Frieden, Geduld, Freundlichkeit, Güte, Glaube (oder: Treue), Sanftmut und Selbstbeherrschung (5,22–23).
 > **Einander tragen:** Christen helfen einander in schweren Zeiten (6,2).
 > **Ein sehr wichtiger Hinweis:** Der Galaterbrief ist ein Streit unter Christen. Er ist keine Abrechnung mit dem Judentum. Paulus blieb Jude. Die Tora ist für Juden bis heute ein Geschenk Gottes.
 > **Für heute:** Niemand muss sich Gottes Liebe verdienen. Und niemand darf andere ausgrenzen, weil sie anders sind.
