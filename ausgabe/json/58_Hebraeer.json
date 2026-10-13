@@ -1,0 +1,113 @@
+{
+ "nr": 58,
+ "code": "HEB",
+ "kuerzel": "Hebr",
+ "name": "Hebräer",
+ "name_englisch": "Hebrews",
+ "testament": "neues-testament",
+ "kapitel": 13,
+ "inhalt": [
+  {
+   "kapitel": 1,
+   "titel": "Gott hat durch seinen Sohn gesprochen",
+   "abschnitte": [
+    {
+     "ueberschrift": "Bevor es losgeht: Der Brief an die Hebräer",
+     "vers_von": null,
+     "vers_bis": null,
+     "einleitung": "Wer den Hebräerbrief geschrieben hat, wissen wir nicht. Früher dachte man an Paulus. Heute meinen fast alle Fachleute, dass er von jemand anderem stammt. Manche haben an Apollos, Barnabas oder Priszilla gedacht. Schon in der alten Kirche sagte man: Nur Gott weiß, wer ihn geschrieben hat.\nDer Brief ist eher eine lange Predigt als ein Brief. Er richtet sich an Christen, die müde geworden sind und in Gefahr stehen, ihren Glauben aufzugeben.\nDer Verfasser kennt die Schriften Israels sehr gut. Er zitiert sie oft und erklärt mit ihren Bildern, wer Jesus ist: der Sohn Gottes, größer als die Engel, der wahre Hohepriester.\n**Ein wichtiger Hinweis:** Der Hebräerbrief vergleicht oft den „alten“ und den „neuen“ Bund. Er wurde in der Geschichte manchmal so gelesen, als hätte Gott das jüdische Volk verworfen. Das ist falsch. Paulus schreibt deutlich: Gott hat sein Volk nicht verstoßen (Römer 11,1–2.29). Wir erklären das in den Kästen.\nDer Hebräerbrief hat 13 Kapitel.",
+     "verse": [],
+     "erklaerung": ""
+    },
+    {
+     "ueberschrift": "Gott spricht durch seinen Sohn",
+     "vers_von": 1,
+     "vers_bis": 4,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 1,
+       "leichte_sprache": "Früher hat Gott oft und auf viele Weisen\nzu den Vätern gesprochen,\ndurch die Propheten.",
+       "englisch_web": "God, having in the past spoken to the fathers through the prophets at many times and in various ways,"
+      },
+      {
+       "vers": 2,
+       "leichte_sprache": "Jetzt am Ende dieser Tage\nhat er zu uns gesprochen durch seinen Sohn.\nIhn hat er zum Erben von allem eingesetzt.\nDurch ihn hat er auch die Welten geschaffen.",
+       "englisch_web": "has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds."
+      },
+      {
+       "vers": 3,
+       "leichte_sprache": "Der Sohn ist der Glanz seiner Herrlichkeit\nund das genaue Abbild seines Wesens.\nEr trägt alles durch sein mächtiges Wort.\nEr hat uns selbst von unseren Sünden gereinigt.\nDanach hat er sich gesetzt\nan die rechte Seite der Majestät in der Höhe.",
+       "englisch_web": "His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,"
+      },
+      {
+       "vers": 4,
+       "leichte_sprache": "Er ist den Engeln so weit überlegen,\nwie der Name,\nden er geerbt hat,\ngrößer ist als ihr Name.",
+       "englisch_web": "having become as much better than the angels as the more excellent name he has inherited is better than theirs."
+      }
+     ],
+     "erklaerung": "Vers 1: Gott hat schon immer gesprochen: durch die Propheten Israels. Das war echtes Reden Gottes. Es bleibt wertvoll.\nVers 2: Jetzt spricht Gott durch seinen Sohn Jesus. Er ist Gottes wichtigstes Wort an die Menschen.\nVers 3: „Glanz seiner Herrlichkeit“: Wie die Sonnenstrahlen zur Sonne gehören, so gehört der Sohn zu Gott. Wer Jesus sieht, sieht, wie Gott ist.\n„An die rechte Seite“: der Ehrenplatz neben dem König. Das Bild stammt aus Psalm 110,1."
+    },
+    {
+     "ueberschrift": "Der Sohn ist größer als die Engel",
+     "vers_von": 5,
+     "vers_bis": 14,
+     "einleitung": null,
+     "verse": [
+      {
+       "vers": 5,
+       "leichte_sprache": "Denn zu welchem Engel hat Gott jemals gesagt:\n„Du bist mein Sohn.\nHeute bin ich dein Vater geworden.“\nUnd weiter:\n„Ich will sein Vater sein,\nund er soll mein Sohn sein.“",
+       "englisch_web": "For to which of the angels did he say at any time, “You are my Son. Today I have become your father?” and again, “I will be to him a Father, and he will be to me a Son?”"
+      },
+      {
+       "vers": 6,
+       "leichte_sprache": "Und wenn er den Erstgeborenen wieder in die Welt bringt,\nsagt er:\n„Alle Engel Gottes sollen ihn anbeten.“",
+       "englisch_web": "When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”"
+      },
+      {
+       "vers": 7,
+       "leichte_sprache": "Über die Engel sagt er:\n„Er macht seine Engel zu Winden\nund seine Diener zu Feuerflammen.“",
+       "englisch_web": "Of the angels he says, “He makes his angels winds, and his servants a flame of fire.”"
+      },
+      {
+       "vers": 8,
+       "leichte_sprache": "Aber über den Sohn sagt er:\n„Dein Thron,\no Gott,\nbesteht für immer und ewig.\nDas Zepter der Gerechtigkeit\nist das Zepter deines Reiches.",
+       "englisch_web": "But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom."
+      },
+      {
+       "vers": 9,
+       "leichte_sprache": "Du hast die Gerechtigkeit geliebt\nund das Unrecht gehasst.\nDarum hat dich Gott,\ndein Gott,\nmit dem Öl der Freude gesalbt,\nmehr als deine Gefährten.“",
+       "englisch_web": "You have loved righteousness and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”"
+      },
+      {
+       "vers": 10,
+       "leichte_sprache": "Und weiter:\n„Du,\nHerr,\nhast am Anfang die Erde gegründet.\nUnd die Himmel sind das Werk deiner Hände.",
+       "englisch_web": "And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands."
+      },
+      {
+       "vers": 11,
+       "leichte_sprache": "Sie werden vergehen,\naber du bleibst.\nSie werden alle alt werden wie ein Kleid.",
+       "englisch_web": "They will perish, but you continue. They all will grow old like a garment does."
+      },
+      {
+       "vers": 12,
+       "leichte_sprache": "Du wirst sie zusammenrollen wie einen Mantel,\nund sie werden verwandelt.\nAber du bleibst derselbe.\nDeine Jahre hören nicht auf.“",
+       "englisch_web": "You will roll them up like a mantle, and they will be changed; but you are the same. Your years won’t fail.”"
+      },
+      {
+       "vers": 13,
+       "leichte_sprache": "Und zu welchem Engel hat er jemals gesagt:\n„Setz dich an meine rechte Seite,\nbis ich deine Feinde\nzum Schemel für deine Füße mache“?",
+       "englisch_web": "But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”"
+      },
+      {
+       "vers": 14,
+       "leichte_sprache": "Sind sie nicht alle dienende Geister,\nausgesandt,\num denen zu dienen,\ndie die Rettung erben werden?",
+       "englisch_web": "Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?"
+      }
+     ],
+     "erklaerung": "Vers 5–13: Der Verfasser zitiert sieben Stellen aus den Schriften Israels. Er liest sie als Worte über Jesus:\nVers 5: Psalm 2,7 und 2. Samuel 7,14. Ursprünglich sind das Worte über den König aus der Familie Davids.\nVers 6: Das Zitat folgt der griechischen Übersetzung von 5. Mose 32,43. Es erinnert auch an Psalm 97,7.\nVers 7: Psalm 104,4.\nVers 8–9: Psalm 45,7–8 (in manchen Bibeln 45,6–7). Ursprünglich ein Lied zur Hochzeit des Königs.\nVers 10–12: Psalm 102,26–28 (in manchen Bibeln 102,25–27). Dort ist Gott der Schöpfer gemeint. Der Brief wendet das auf den Sohn an.\nVers 13: Psalm 110,1.\nWichtig: Diese Psalmen hatten zuerst ihre eigene Bedeutung für Israel. Das jüdische Volk liest sie bis heute auf seine Weise. Der Hebräerbrief liest sie als Christ im Licht von Jesus.\nVers 14: Engel sind „dienende Geister“. Sie dienen Gott und helfen den Menschen. Damals verehrten manche Menschen die Engel sehr. Der Brief sagt: Jesus ist größer."
+    }
+   ]
+  }
+ ]
+}
