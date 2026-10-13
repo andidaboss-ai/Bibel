@@ -139,7 +139,7 @@ wie durchsichtiges Glas.
 > 12.000 Stadien sind etwa 2.200 Kilometer. Im WEB steht hier „zwölftausendzwölf“. In den meisten Handschriften steht „zwölftausend“. Die Zahl will sagen: unvorstellbar groß, Platz für alle.
 > Vers 17: 144 ist 12 mal 12, wieder die Zahl des ganzen Gottesvolkes.
 > Vers 19–20: Die Edelsteine erinnern an die zwölf Steine auf der Brusttasche des Hohenpriesters (2. Mose 28,17–21). Die Namen einiger Steine sind heute nicht mehr ganz sicher.
-> Vers 21: Daher kommt der Ausdruck „Himmelstür aus Perlen“. Gold ist hier so wertvoll wie Straßenpflaster. Was auf der Erde am meisten zählt, ist in Gottes Welt ganz normal.
+> Vers 21: Jedes Tor ist aus einer einzigen riesigen Perle. Gold ist hier so wertvoll wie Straßenpflaster. Was auf der Erde am meisten zählt, ist in Gottes Welt ganz normal.
 
 ---
 
