@@ -158092,3 +158092,136 @@ Amen.
 > **Wie geht es weiter?** Als Nächstes kommt der zweite Brief von Petrus. Er warnt vor falschen Lehrern und spricht vom Wiederkommen von Jesus.
 
 ---
+
+
+---
+
+# 2. Petrus
+
+## 2. Petrus – Kapitel 1
+#### Wachst im Glauben
+
+---
+
+### Bevor es losgeht: Der zweite Brief von Petrus
+
+Der Brief nennt sich als Brief von Simon Petrus. Er ist wie ein Abschiedsbrief geschrieben: Petrus weiß, dass er bald sterben wird (1,14).
+Viele Fachleute meinen heute, dass der Brief deutlich später von einem Schüler im Namen von Petrus geschrieben wurde. Damals war das eine bekannte Art, das Erbe eines Lehrers weiterzugeben. Andere halten Petrus selbst für den Verfasser.
+Der Brief warnt vor falschen Lehrern. Manche sagten: Jesus kommt gar nicht wieder. Der Brief antwortet: Gott hält seine Versprechen. Er ist nur geduldig, weil er will, dass alle Menschen umkehren.
+Kapitel 2 ist dem Judasbrief sehr ähnlich.
+Der zweite Petrusbrief hat 3 Kapitel.
+
+---
+
+### Gruß (Vers 1–2)
+
+<sup>1</sup>Simon Petrus,
+ein Diener und Apostel von Jesus Christus,
+schreibt an die,
+die denselben kostbaren Glauben bekommen haben wie wir,
+durch die Gerechtigkeit unseres Gottes und Retters Jesus Christus:
+<sup>2</sup>Gnade und Frieden sollen euch reichlich geschenkt werden
+durch die Erkenntnis Gottes
+und unseres Herrn Jesus.
+
+> **Was bedeutet das?**
+> Vers 1: „Denselben kostbaren Glauben wie wir“: Die Leser haben Jesus nicht selbst gesehen. Aber ihr Glaube ist genauso wertvoll wie der Glaube der Apostel.
+
+---
+
+### Eine Leiter des Glaubens (Vers 3–11)
+
+<sup>3</sup>Seine göttliche Kraft hat uns alles geschenkt,
+was wir zum Leben und zur Frömmigkeit brauchen.
+Das geschieht durch die Erkenntnis dessen,
+der uns durch seine Herrlichkeit und Güte berufen hat.
+<sup>4</sup>Dadurch hat er uns kostbare und sehr große Versprechen geschenkt.
+Durch sie sollt ihr Anteil an der göttlichen Natur bekommen,
+nachdem ihr der Verderbnis entkommen seid,
+die durch die Begierde in der Welt ist.
+<sup>5</sup>Darum gebt euch alle Mühe
+und fügt zu eurem Glauben die Tugend hinzu,
+zur Tugend die Erkenntnis,
+<sup>6</sup>zur Erkenntnis die Selbstbeherrschung,
+zur Selbstbeherrschung die Ausdauer,
+zur Ausdauer die Frömmigkeit,
+<sup>7</sup>zur Frömmigkeit die Liebe zu den Geschwistern
+und zur Liebe zu den Geschwistern die Liebe.
+<sup>8</sup>Wenn ihr das alles habt
+und es bei euch wächst,
+dann seid ihr nicht untätig
+und nicht ohne Frucht
+in der Erkenntnis unseres Herrn Jesus Christus.
+<sup>9</sup>Wer das aber nicht hat,
+der ist blind
+und sieht nur das,
+was nahe ist.
+Er hat vergessen,
+dass er von seinen alten Sünden gereinigt worden ist.
+<sup>10</sup>Darum,
+Brüder,
+bemüht euch umso mehr,
+eure Berufung und Erwählung festzumachen.
+Denn wenn ihr das tut,
+werdet ihr niemals fallen.
+<sup>11</sup>Denn so wird euch reich gewährt werden,
+in das ewige Reich
+unseres Herrn und Retters Jesus Christus hineinzugehen.
+
+> **Was bedeutet das?**
+> Vers 4: „Anteil an der göttlichen Natur“: Ein großes Wort. Christen werden Gott nicht gleich, aber Gott schenkt ihnen Gemeinschaft mit sich. In der orthodoxen Kirche ist dieser Gedanke besonders wichtig.
+> Vers 5–7: Eine Art Leiter: Vom Glauben geht es Schritt für Schritt bis zur Liebe. Die Liebe steht ganz oben.
+> Vers 9: „Sieht nur das, was nahe ist“: Wer nur an das Heute denkt, verliert das Ziel aus den Augen.
+
+---
+
+### Petrus erinnert an das, was er erlebt hat (Vers 12–21)
+
+<sup>12</sup>Darum will ich euch immer wieder an diese Dinge erinnern,
+obwohl ihr sie wisst
+und in der Wahrheit,
+die ihr habt,
+fest gegründet seid.
+<sup>13</sup>Ich halte es für richtig,
+euch durch Erinnerung wachzuhalten,
+solange ich in diesem Zelt bin.
+<sup>14</sup>Denn ich weiß,
+dass ich mein Zelt bald ablegen werde,
+so wie es mir unser Herr Jesus Christus gezeigt hat.
+<sup>15</sup>Ich will mich aber bemühen,
+dass ihr euch auch nach meinem Weggang
+immer an diese Dinge erinnern könnt.
+<sup>16</sup>Denn wir sind nicht ausgedachten Märchen gefolgt,
+als wir euch die Macht und das Kommen
+unseres Herrn Jesus Christus bekannt gemacht haben.
+Sondern wir haben seine Größe mit eigenen Augen gesehen.
+<sup>17</sup>Denn er hat von Gott, dem Vater,
+Ehre und Herrlichkeit bekommen,
+als die Stimme aus der großen Herrlichkeit zu ihm kam:
+„Das ist mein geliebter Sohn,
+an dem ich Freude habe.“
+<sup>18</sup>Diese Stimme haben wir vom Himmel kommen hören,
+als wir mit ihm auf dem heiligen Berg waren.
+<sup>19</sup>Und wir haben das prophetische Wort umso fester.
+Ihr tut gut daran,
+darauf zu achten
+wie auf eine Lampe,
+die an einem dunklen Ort scheint,
+bis der Tag anbricht
+und der Morgenstern in euren Herzen aufgeht.
+<sup>20</sup>Denn ihr sollt vor allem wissen:
+Keine Prophetie der Schrift
+kommt aus eigener Deutung.
+<sup>21</sup>Denn noch nie wurde eine Prophetie
+durch den Willen eines Menschen hervorgebracht.
+Sondern Menschen haben,
+vom Heiligen Geist getrieben,
+im Auftrag Gottes geredet.
+
+> **Was bedeutet das?**
+> Vers 13–14: „Zelt“ ist ein Bild für den Körper. Petrus weiß, dass er bald sterben wird. Nach alter Überlieferung wurde Petrus in Rom gekreuzigt.
+> Vers 16–18 erinnert an die Verklärung von Jesus auf dem Berg (Matthäus 17,1–8). Petrus, Jakobus und Johannes sahen Jesus in Gottes Herrlichkeit.
+> Vers 19: Gottes Wort ist wie eine Lampe im Dunkeln. „Der Morgenstern“ ist ein Bild für Christus.
+> Vers 20–21: Die Propheten haben nicht ihre eigenen Ideen erzählt. Gottes Geist hat sie bewegt.
+
+---
