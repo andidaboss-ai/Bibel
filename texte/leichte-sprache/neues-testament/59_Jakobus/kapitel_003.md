@@ -95,6 +95,6 @@ die Frieden stiften.
 > Vers 13: Wahre Weisheit zeigt sich nicht durch kluge Reden, sondern durch ein gutes, sanftes Leben.
 > Vers 14–16: Neid und Streitsucht zerstören jede Gemeinschaft.
 > Vers 17: Eine schöne Beschreibung der Weisheit Gottes: rein, friedlich, freundlich, nachgiebig, barmherzig, gerecht und ehrlich.
-> Vers 18: Wer Frieden stiftet, sät etwas Gutes, das wachsen wird. Jesus sagt: „Glücklich sind die, die Frieden stiften“ (vergleiche Matthäus 5,9).
+> Vers 18: Wer Frieden stiftet, sät etwas Gutes, das wachsen wird. Jesus sagt: „Selig sind, die Frieden stiften“ (Matthäus 5,9).
 
 ---
