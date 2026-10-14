@@ -13,7 +13,7 @@
 Die vier Bände sind genauso aufgeteilt wie die Druckausgabe. So passen E-Book, Taschenbuch und Hardcover als eine Reihe zusammen.
 
 - **E-Books:** EPUB 3. Alle fünf Dateien haben die Prüfung mit EPUBCheck 5.1.0 ohne Fehler und ohne Warnungen bestanden.
-- **Cover:** JPG mit 1600 × 2560 Pixeln. Das ist das Seitenverhältnis 1,6 : 1, das KDP empfiehlt.
+- **Cover:** JPG mit 3200 × 5120 Pixeln. Das ist doppelt so groß wie die KDP-Empfehlung (1600 × 2560) im selben Seitenverhältnis 1,6 : 1. KDP erlaubt bis 10.000 Pixel.
 
 ## Hochladen bei KDP
 
@@ -92,6 +92,8 @@ Je Band gibt es drei Dateien:
 - **Maße des Hardcover-Umschlags:** 19,4 × 12,418 Zoll. Er hat 0,591 Zoll Einschlag links und rechts, 0,709 Zoll oben und unten und 0,197 Zoll Falz neben dem Rücken. Der Rücken ist Papier plus 0,189 Zoll für die Pappe. **Bitte vor dem Hochladen mit dem Cover-Rechner von KDP vergleichen** (KDP-Hilfe „Cover Calculator“: Hardcover, 8,25 × 11, weißes Papier, Seitenzahl eintragen). Weicht die Vorlage ab, die Werte oben in `werkzeuge/druck/druck_bauen.py` (`HC_…`) anpassen und nur die Umschläge neu bauen:
   `python3 werkzeuge/druck/druck_bauen.py --nur-umschlag`
 - **Barcode:** KDP setzt den Barcode unten rechts auf die Rückseite. Diese Fläche ist frei.
+- **Auflösung:** Alle Umschläge sind mit **600 dpi** gerendert, doppelt so hoch wie die 300 dpi, die KDP mindestens verlangt. Sie liegen als ein flaches Bild (ohne Ebenen und Transparenz) in einem PDF in exakter Größe, als JPEG in höchster Qualität. Jedes PDF ist 12–14 MB groß, unter den von KDP empfohlenen 40 MB.
+- **Rücken:** Die Schrift auf dem Rücken ist nachgemessen genau in der Mitte (Abweichung unter 0,005 Zoll) und hat mindestens 0,26 Zoll Abstand zu den Kanten. KDP verlangt mindestens 0,0625 Zoll.
 
 ## Einstellungen bei KDP: Taschenbuch
 

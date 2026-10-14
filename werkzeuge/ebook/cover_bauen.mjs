@@ -1,4 +1,4 @@
-// Baut die E-Book-Cover (JPG, 1600 x 2560 Pixel, wie von Amazon KDP empfohlen).
+// Baut die E-Book-Cover (JPG, 3200 x 5120 Pixel: doppelte Auflösung der KDP-Empfehlung 1600 x 2560, KDP erlaubt bis 10.000 Pixel).
 // Aufruf im Hauptordner:  node werkzeuge/ebook/cover_bauen.mjs
 // Danach werkzeuge/ebook/ebook_bauen.py ausführen, damit die Cover in die EPUBs kommen.
 import { createRequire } from 'module';
@@ -38,7 +38,7 @@ ${v.css}
 };
 
 const browser = await chromium.launch();
-const page = await browser.newPage({ viewport: { width: 1600, height: 2560 }, deviceScaleFactor: 1 });
+const page = await browser.newPage({ viewport: { width: 1600, height: 2560 }, deviceScaleFactor: 2 });
 const nur = process.argv.slice(2);
 for (const a of ausgaben) {
   if (nur.length && !nur.some((n) => a.datei.endsWith(n))) continue;
@@ -47,7 +47,7 @@ for (const a of ausgaben) {
   await page.goto('file://' + tmp, { waitUntil: 'load' });
   await page.waitForFunction(() => window.fertig === true, null, { timeout: 120000 });
   const datei = path.join(ziel, `${a.datei}-cover.jpg`);
-  await page.screenshot({ path: datei, type: 'jpeg', quality: 92 });
+  await page.screenshot({ path: datei, type: 'jpeg', quality: 95 });
   fs.unlinkSync(tmp);
   console.log(path.relative(wurzel, datei));
 }
