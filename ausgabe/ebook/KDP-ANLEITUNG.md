@@ -24,7 +24,7 @@ Die vier Bände sind genauso aufgeteilt wie die Druckausgabe. So passen E-Book, 
 
 ## Angaben, die du selbst machen musst
 
-- **Autor oder Mitwirkende:** zum Beispiel als „Übersetzer“ bzw. „Herausgeber“. Wenn dein Name auch im Impressum stehen soll: in `werkzeuge/ebook/ebook_bauen.py` bei `HERAUSGEBER = ""` eintragen und neu bauen.
+- **Autor oder Mitwirkende:** Andreas Rupp als **Herausgeber**. So steht es auch auf der Titelseite und im Impressum jedes Bandes und E-Books. Der Name steht in `werkzeuge/ebook/ebook_bauen.py` bei `HERAUSGEBER`.
 - **KI-Inhalte:** KDP fragt, ob Texte mit KI erstellt wurden. Die Übertragung und die Erklärungen wurden mit KI (Claude) erstellt. Das muss im KDP-Formular angegeben werden. Dort ist „KI-generiert“ die passende Auswahl.
 - **Gemeinfreie Inhalte:** KDP hat eigene Regeln für Bücher, die auf gemeinfreien Texten beruhen. Die Vorlage (World English Bible) ist gemeinfrei. Der deutsche Text ist eine neue Übertragung mit eigenen Erklärungen. Bitte vor dem Veröffentlichen die aktuelle KDP-Hilfeseite zu „Public domain content“ lesen und das Formular entsprechend ausfüllen.
 - **Marke:** „World English Bible“ ist eine Marke. Sie wird im Buch nur als Quelle genannt. Im Titel oder Untertitel bei KDP sollte sie nicht stehen.

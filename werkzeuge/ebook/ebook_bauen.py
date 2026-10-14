@@ -22,7 +22,7 @@ HIER = os.path.dirname(os.path.abspath(__file__))
 ZIEL = os.path.join(WURZEL, "ausgabe", "ebook")
 
 # Name, der im Impressum als Herausgeber erscheint. Leer lassen = keine Angabe.
-HERAUSGEBER = ""
+HERAUSGEBER = "Andreas Rupp"
 JAHR = "2026"
 
 AUSGABEN = {
@@ -227,6 +227,7 @@ def titelseite(a):
 <div class="zier gross"><span></span></div>
 <p class="ts-band">{esc(a["untertitel"])}</p>
 <p class="ts-zusatz">Mit Erklärungen zu jedem Abschnitt</p>
+{f'<p class="ts-hg">Herausgegeben von {esc(HERAUSGEBER)}</p>' if HERAUSGEBER else ""}
 </section>""", "mitte")
 
 
@@ -463,7 +464,8 @@ def baue(schluessel):
         f'<item id="{i}" href="{p}" media-type="{t}"' + (f' properties="{pr}"' if pr else "") + "/>"
         for p, _, t, i, pr, _ in dateien)
     spine = "\n".join(f'<itemref idref="{i}"/>' for p, _, t, i, pr, s in dateien if s)
-    creator = f"<dc:creator>{esc(HERAUSGEBER)}</dc:creator>" if HERAUSGEBER else ""
+    creator = (f'<dc:creator id="hg">{esc(HERAUSGEBER)}</dc:creator>\n'
+               '<meta refines="#hg" property="role" scheme="marc:relators">edt</meta>') if HERAUSGEBER else ""
     beschreibung = ("Die ganze Bibel in Leichter Sprache: kurze Sätze, klare Worte. "
                     "Kein Vers ist weggelassen. Nach jedem Abschnitt erklärt ein Kasten: Was bedeutet das?")
     opf = f"""<?xml version="1.0" encoding="utf-8"?>

@@ -66,6 +66,11 @@ strong { font-weight: bold; }
   font-size: 0.95em; letter-spacing: 0.04em; margin-top: 0.4em;
 }
 .ts-zusatz { font-style: italic; margin-top: 0.8em; font-size: 0.95em; }
+.ts-hg {
+  font-family: "Inter", sans-serif; font-weight: 600;
+  font-size: 0.8em; letter-spacing: 0.14em; text-transform: uppercase;
+  margin-top: 3.5em;
+}
 
 /* ---------- Teil-Seiten (AT / NT) ---------- */
 .teil { text-align: center; padding-top: 30%; page-break-before: always; }

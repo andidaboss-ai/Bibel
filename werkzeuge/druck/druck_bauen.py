@@ -78,6 +78,7 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
 <p class="ts-band">{esc(band["titel"])}</p>
 <p class="ts-zusatz">{esc(band["zeile"])}</p>
 <p class="ts-zusatz2">Mit Erklärungen zu jedem Abschnitt</p>
+{f'<p class="ts-hg">Herausgegeben von {esc(eb.HERAUSGEBER)}</p>' if eb.HERAUSGEBER else ""}
 </section>""")
     hg = f"<p>Herausgegeben von {esc(eb.HERAUSGEBER)}.</p>" if eb.HERAUSGEBER else ""
     teile.append(f"""<section class="titelei impressum">
