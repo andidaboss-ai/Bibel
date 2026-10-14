@@ -4,11 +4,11 @@
 
 | Ausgabe | E-Book (Manuskript) | Cover |
 |---|---|---|
-| Gesamtausgabe, 66 Bücher, 1.189 Kapitel | `bibel-leichte-sprache-gesamt.epub` (5,5 MB) | `bibel-leichte-sprache-gesamt-cover.jpg` |
-| Band 1: 1. Mose bis 1. Samuel, 267 Kapitel | `bibel-leichte-sprache-band-1.epub` (2,2 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
-| Band 2: 2. Samuel bis Psalmen, 361 Kapitel | `bibel-leichte-sprache-band-2.epub` (2,3 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
-| Band 3: Sprüche bis Maleachi, 301 Kapitel | `bibel-leichte-sprache-band-3.epub` (2,2 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
-| Band 4: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-4.epub` (2,2 MB) | `bibel-leichte-sprache-band-4-cover.jpg` |
+| Gesamtausgabe, 66 Bücher, 1.189 Kapitel | `bibel-leichte-sprache-gesamt.epub` (7,3 MB) | `bibel-leichte-sprache-gesamt-cover.jpg` |
+| Band 1: 1. Mose bis 1. Samuel, 267 Kapitel | `bibel-leichte-sprache-band-1.epub` (3,9 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
+| Band 2: 2. Samuel bis Psalmen, 361 Kapitel | `bibel-leichte-sprache-band-2.epub` (4,1 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
+| Band 3: Sprüche bis Maleachi, 301 Kapitel | `bibel-leichte-sprache-band-3.epub` (4,0 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
+| Band 4: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-4.epub` (4,0 MB) | `bibel-leichte-sprache-band-4-cover.jpg` |
 
 Die vier Bände sind genauso aufgeteilt wie die Druckausgabe. So passen E-Book, Taschenbuch und Hardcover als eine Reihe zusammen.
 
