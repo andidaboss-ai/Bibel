@@ -4,11 +4,11 @@
 
 | Ausgabe | E-Book (Manuskript) | Cover |
 |---|---|---|
-| Gesamtausgabe, 66 Bücher, 1.189 Kapitel | `bibel-leichte-sprache-gesamt.epub` (4,8 MB) | `bibel-leichte-sprache-gesamt-cover.jpg` |
-| Band 1: 1. Mose bis 1. Samuel, 267 Kapitel | `bibel-leichte-sprache-band-1.epub` (1,5 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
-| Band 2: 2. Samuel bis Psalmen, 361 Kapitel | `bibel-leichte-sprache-band-2.epub` (1,6 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
-| Band 3: Sprüche bis Maleachi, 301 Kapitel | `bibel-leichte-sprache-band-3.epub` (1,5 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
-| Band 4: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-4.epub` (1,5 MB) | `bibel-leichte-sprache-band-4-cover.jpg` |
+| Gesamtausgabe, 66 Bücher, 1.189 Kapitel | `bibel-leichte-sprache-gesamt.epub` (5,5 MB) | `bibel-leichte-sprache-gesamt-cover.jpg` |
+| Band 1: 1. Mose bis 1. Samuel, 267 Kapitel | `bibel-leichte-sprache-band-1.epub` (2,2 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
+| Band 2: 2. Samuel bis Psalmen, 361 Kapitel | `bibel-leichte-sprache-band-2.epub` (2,3 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
+| Band 3: Sprüche bis Maleachi, 301 Kapitel | `bibel-leichte-sprache-band-3.epub` (2,2 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
+| Band 4: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-4.epub` (2,2 MB) | `bibel-leichte-sprache-band-4-cover.jpg` |
 
 Die vier Bände sind genauso aufgeteilt wie die Druckausgabe. So passen E-Book, Taschenbuch und Hardcover als eine Reihe zusammen.
 
@@ -48,7 +48,9 @@ node werkzeuge/ebook/cover_bauen.mjs        # Cover (braucht Playwright + Chromi
 python3 werkzeuge/ebook/ebook_bauen.py      # alle EPUBs, bindet die Cover ein
 ```
 
-Die Schriften (Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. Sie stehen alle unter der SIL Open Font License 1.1, die Lizenztexte liegen dabei. Sie dürfen in E-Books eingebettet und verkauft werden.
+**Cover-Design:** großer Titel „DIE BIBEL“, darunter ein leuchtendes Kreuz aus Kristall mit Splittern, Funken und Kirchenfenstern. Alle Bände haben dasselbe Bild, nur in ihrer eigenen Farbe. Das Bild wird mit Code gezeichnet (`werkzeuge/ebook/cover_kunst.mjs`). Darum ist es in jeder Größe scharf, auch mit 300 dpi für den Druck. E-Book-Cover und Druck-Umschläge benutzen dasselbe Design.
+
+Die Schriften (Anton, Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. Sie stehen alle unter der SIL Open Font License 1.1, die Lizenztexte liegen dabei. Sie dürfen in E-Books eingebettet und verkauft werden.
 
 ---
 
@@ -63,7 +65,7 @@ Die Druckausgabe besteht aus **4 Bänden**. Jeder Band hat höchstens 550 Seiten
 | 3 | Altes Testament: Sprüche bis Maleachi | 493 | 1,299 Zoll | 1,110 Zoll |
 | 4 | Neues Testament: Matthäus bis Offenbarung | 515 | 1,349 Zoll | 1,160 Zoll |
 
-Die Bände sind fast gleich dick. Im Regal sehen sie aus wie eine Reihe. Jeder Band hat eine eigene Farbe: Bernstein, Smaragd, Eisblau, Rubin.
+Die Bände sind fast gleich dick. Im Regal sehen sie aus wie eine Reihe. Jeder Band hat eine eigene Farbe: Band 1 Violett, Band 2 Smaragd, Band 3 Saphir, Band 4 Rubin. Die Gesamtausgabe ist Gold.
 
 Je Band gibt es drei Dateien:
 - **`…-innenteil.pdf`:** der Innenteil, gleich für Hardcover und Taschenbuch.
