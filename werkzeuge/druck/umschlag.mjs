@@ -53,11 +53,8 @@ body{position:relative;color:#f4ecdc;font-family:Inter,sans-serif;
 .vorn{left:${BE + SB + R}px;width:${SB + BE}px}
 ${v.css}
 /* Rücken */
-.r-text{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-90deg);white-space:nowrap;display:flex;align-items:center;gap:${0.28 * IN}px}
-.r-titel{font-family:Anton;font-size:${Math.min(0.62 * IN, R * 0.6)}px;letter-spacing:.03em;color:#fff;-webkit-text-stroke:1.5px #d9a944;paint-order:stroke fill}
-.r-unter{font-weight:800;font-size:${Math.min(0.17 * IN, R * 0.2)}px;letter-spacing:.3em;color:#e9c46e}
-.r-band{font-weight:800;font-size:${Math.min(0.17 * IN, R * 0.2)}px;letter-spacing:.24em;text-transform:uppercase;color:#1a1206;background:linear-gradient(180deg,#f6dc98,#c9973f);padding:${0.04 * IN}px ${0.14 * IN}px;border-radius:999px}
-.r-zeile{font-weight:600;font-size:${Math.min(0.16 * IN, R * 0.18)}px;letter-spacing:.06em;color:#e9dcc0}
+.r-text{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-90deg);white-space:nowrap;display:flex;align-items:center;gap:${0.7 * IN}px}
+.r-titel{font-family:Anton;font-size:${Math.min(0.8 * IN, R * 0.62)}px;line-height:1;letter-spacing:.04em;color:#fff;-webkit-text-stroke:1.5px #d9a944;paint-order:stroke fill}
 /* Rückseite */
 .h-in{position:absolute;left:${BE + 0.75 * IN}px;right:${FZ + 0.75 * IN}px;top:${BY + 0.9 * IN}px}
 .h-kicker{font-weight:600;font-size:${0.14 * IN}px;letter-spacing:.32em;text-transform:uppercase;color:#d9b86c}
@@ -93,8 +90,7 @@ li.aktiv span{color:#d9b86c}
   <p class="h-quelle">Neu übertragen aus der gemeinfreien World English Bible. Großformat ${format}. ${seiten} Seiten.</p>
 </div>
 <div class="flaeche ruecken"><div class="r-text">
-  <span class="r-titel">DIE BIBEL</span><span class="r-unter">IN LEICHTER SPRACHE</span>
-  <span class="r-band">${band.titel}</span><span class="r-zeile">${band.zeile}</span>
+  <span class="r-titel">DIE BIBEL</span><span class="r-titel">${band.titel.toUpperCase()}</span>
 </div></div>
 <div class="flaeche vorn">${v.html}</div>
 <canvas class="staub" width="${Math.round(W * 300 / IN)}" height="${Math.round(H * 300 / IN)}"></canvas>

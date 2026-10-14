@@ -33,9 +33,8 @@ export function vorderseite(a, { W, H, rect, schrift }) {
   -webkit-text-stroke:${w * 0.006}px #d9a944;paint-order:stroke fill}
 .vs .unter{font-family:Inter;font-weight:800;font-size:${w * 0.036}px;letter-spacing:.42em;padding-left:.42em;color:#e9c46e;white-space:nowrap}
 .vs .unten{bottom:${H - r.y - r.h + r.h * 0.035}px}
-.vs .pille{display:inline-block;font-family:Inter;font-weight:800;font-size:${w * 0.026}px;letter-spacing:.3em;
-  padding:${w * 0.008}px ${w * 0.022}px ${w * 0.008}px calc(${w * 0.022}px + .3em);text-transform:uppercase;color:#120c04;
-  background:linear-gradient(180deg,#f6dc98,#c9973f);border-radius:999px}
+.vs .pille{font-family:Anton;font-size:${w * 0.085}px;line-height:1;letter-spacing:.04em;padding-left:.04em;text-transform:uppercase;color:#fff;
+  -webkit-text-stroke:${w * 0.0035}px #d9a944;paint-order:stroke fill;filter:drop-shadow(0 0 ${w * 0.012}px #000)}
 .vs .zeile{margin-top:${w * 0.012}px;font-family:Inter;font-weight:600;font-size:${w * 0.03}px;letter-spacing:.05em;color:#f1e6cf;
   text-shadow:0 0 ${w * 0.01}px #000,0 0 ${w * 0.02}px #000}
 .vs .motto{margin-top:${w * 0.03}px;font-family:Inter;font-weight:800;font-size:${w * 0.034}px;letter-spacing:.16em;padding-left:.16em;color:#fff;
