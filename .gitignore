@@ -2,3 +2,5 @@ quelle/
 *.zip
 ausgabe/bibel.sqlite
 __pycache__/
+werkzeuge/ebook/cover_vorlage/.EDSR_x4.pb
+werkzeuge/ebook/cover_vorlage/.farbig/

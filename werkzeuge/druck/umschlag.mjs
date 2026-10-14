@@ -7,7 +7,7 @@ import { createRequire } from 'module';
 import { fileURLToPath } from 'url';
 import path from 'path';
 import fs from 'fs';
-import { vorderseite, FARBEN } from '../ebook/cover_kunst.mjs';
+import { vorderseite, bildFuer, FARBEN } from '../ebook/cover_kunst.mjs';
 
 const require = createRequire(import.meta.url);
 let chromium;
@@ -25,10 +25,11 @@ const W = +b * IN, H = +h * IN, R = +r * IN, BE = +rx * IN, BY = +ry * IN, FZ = 
 const SB = (W - R) / 2 - BE; // Breite einer Seite des Umschlags ohne Rand, mit Falz
 const cm = (px) => (px / IN * 2.54).toFixed(1).replace('.', ',');
 const format = `${cm(SB - FZ)} × ${cm(H - 2 * BY)} cm`;
-const fa = FARBEN['band-' + band.titel.replace(/\D/g, '')] || FARBEN.gesamt;
+const name = 'band-' + band.titel.replace(/\D/g, '');
+const fa = FARBEN[name] || FARBEN.gesamt;
 const fc = fa.farbe.join(',');
-const v = vorderseite({ ...fa, band: band.titel, zeile: `${band.oben} · ${band.zeile}` },
-  { W: SB + BE, H, rect: { x: FZ, y: BY, w: SB - FZ, h: H - 2 * BY }, dpr: 300 / IN, schrift });
+const v = vorderseite({ ...fa, bild: bildFuer(name), band: band.titel, zeile: `${band.oben} · ${band.zeile}` },
+  { W: SB + BE, H, rect: { x: FZ, y: BY, w: SB - FZ, h: H - 2 * BY }, schrift });
 
 const liste = alleBaende.map((x) =>
   `<li class="${x.datei === band.datei ? 'aktiv' : ''}"><span>${x.titel}</span>${x.oben} · ${x.zeile}</li>`).join('');

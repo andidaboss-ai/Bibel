@@ -48,7 +48,9 @@ node werkzeuge/ebook/cover_bauen.mjs        # Cover (braucht Playwright + Chromi
 python3 werkzeuge/ebook/ebook_bauen.py      # alle EPUBs, bindet die Cover ein
 ```
 
-**Cover-Design:** großer Titel „DIE BIBEL“, darunter ein leuchtendes Kreuz aus Kristall mit Splittern, Funken und Kirchenfenstern. Alle Bände haben dasselbe Bild, nur in ihrer eigenen Farbe. Das Bild wird mit Code gezeichnet (`werkzeuge/ebook/cover_kunst.mjs`). Darum ist es in jeder Größe scharf, auch mit 300 dpi für den Druck. E-Book-Cover und Druck-Umschläge benutzen dasselbe Design.
+**Cover-Design:** Das Titelbild (Kreuz aus Kristall, Splitter, Kirchenfenster) ist die Vorlage `werkzeuge/ebook/cover_vorlage/vorlage.jpg`. `werkzeuge/ebook/cover_bild.py` vergrößert sie einmal mit KI-Hochskalierung (EDSR) auf das Vierfache (`kunst-4x.jpg`) und färbt sie für jede Ausgabe um: Band 1 Violett (Original), Band 2 Smaragd, Band 3 Saphir, Band 4 Rubin, Gesamtausgabe Gold. Gold, Weiß und Schwarz bleiben dabei gleich. Titel und Texte werden scharf neu darübergesetzt. E-Book-Cover und Druck-Umschläge benutzen dasselbe Bild.
+
+Die Vorlage hat nur 1152 × 1728 Pixel. Für den Druck wird sie stark vergrößert. Auf dem Probeexemplar prüfen, ob die Bildschärfe reicht. Wenn du die Vorlage in höherer Auflösung hast: als `vorlage.jpg` ablegen, `kunst-4x.jpg` löschen und neu bauen.
 
 Die Schriften (Anton, Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. Sie stehen alle unter der SIL Open Font License 1.1, die Lizenztexte liegen dabei. Sie dürfen in E-Books eingebettet und verkauft werden.
 

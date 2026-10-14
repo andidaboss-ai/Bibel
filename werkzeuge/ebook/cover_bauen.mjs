@@ -5,7 +5,7 @@ import { createRequire } from 'module';
 import { fileURLToPath } from 'url';
 import path from 'path';
 import fs from 'fs';
-import { vorderseite, FARBEN } from './cover_kunst.mjs';
+import { vorderseite, bildFuer } from './cover_kunst.mjs';
 
 const require = createRequire(import.meta.url);
 let chromium;
@@ -19,15 +19,15 @@ fs.mkdirSync(ziel, { recursive: true });
 const schrift = (f) => 'file://' + path.join(hier, 'schriften', f);
 
 const ausgaben = [
-  { datei: 'bibel-leichte-sprache-gesamt', band: 'Gesamtausgabe', zeile: 'Alle 66 Bücher · 1.189 Kapitel', ...FARBEN.gesamt },
-  { datei: 'bibel-leichte-sprache-band-1', band: 'Band 1', zeile: 'Altes Testament · 1. Mose bis 1. Samuel', ...FARBEN['band-1'] },
-  { datei: 'bibel-leichte-sprache-band-2', band: 'Band 2', zeile: 'Altes Testament · 2. Samuel bis Psalmen', ...FARBEN['band-2'] },
-  { datei: 'bibel-leichte-sprache-band-3', band: 'Band 3', zeile: 'Altes Testament · Sprüche bis Maleachi', ...FARBEN['band-3'] },
-  { datei: 'bibel-leichte-sprache-band-4', band: 'Band 4', zeile: 'Neues Testament · Matthäus bis Offenbarung', ...FARBEN['band-4'] },
+  { datei: 'bibel-leichte-sprache-gesamt', band: 'Gesamtausgabe', zeile: 'Alle 66 Bücher · 1.189 Kapitel', name: 'gesamt' },
+  { datei: 'bibel-leichte-sprache-band-1', band: 'Band 1', zeile: 'Altes Testament · 1. Mose bis 1. Samuel', name: 'band-1' },
+  { datei: 'bibel-leichte-sprache-band-2', band: 'Band 2', zeile: 'Altes Testament · 2. Samuel bis Psalmen', name: 'band-2' },
+  { datei: 'bibel-leichte-sprache-band-3', band: 'Band 3', zeile: 'Altes Testament · Sprüche bis Maleachi', name: 'band-3' },
+  { datei: 'bibel-leichte-sprache-band-4', band: 'Band 4', zeile: 'Neues Testament · Matthäus bis Offenbarung', name: 'band-4' },
 ];
 
 const seite = (a) => {
-  const v = vorderseite(a, { W: 1600, H: 2560, rect: { x: 0, y: 0, w: 1600, h: 2560 }, dpr: 1, schrift });
+  const v = vorderseite({ ...a, bild: bildFuer(a.name) }, { W: 1600, H: 2560, rect: { x: 0, y: 0, w: 1600, h: 2560 }, schrift });
   return `<!doctype html><html lang="de"><head><meta charset="utf-8"><style>
 @font-face{font-family:Inter;font-weight:600;src:url('${schrift('Inter-SemiBold.ttf')}')}
 @font-face{font-family:Inter;font-weight:800;src:url('${schrift('Inter-ExtraBold.ttf')}')}
