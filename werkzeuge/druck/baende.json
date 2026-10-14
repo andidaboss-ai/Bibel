@@ -1,7 +1,5 @@
 [
- {"datei": "bibel-leichte-sprache-druck-band-1", "titel": "Band 1", "oben": "Altes Testament", "zeile": "1. Mose bis Rut", "von": 1, "bis": 8, "glut": "255, 170, 70", "grund": ["#0c0805", "#22160c"]},
- {"datei": "bibel-leichte-sprache-druck-band-2", "titel": "Band 2", "oben": "Altes Testament", "zeile": "1. Samuel bis Ester", "von": 9, "bis": 17, "glut": "255, 196, 92", "grund": ["#07080d", "#141522"]},
- {"datei": "bibel-leichte-sprache-druck-band-3", "titel": "Band 3", "oben": "Altes Testament", "zeile": "Hiob bis Hoheslied", "von": 18, "bis": 22, "glut": "150, 220, 140", "grund": ["#050c07", "#0e2214"]},
- {"datei": "bibel-leichte-sprache-druck-band-4", "titel": "Band 4", "oben": "Altes Testament", "zeile": "Jesaja bis Maleachi", "von": 23, "bis": 39, "glut": "120, 200, 230", "grund": ["#05090d", "#0d1d26"]},
- {"datei": "bibel-leichte-sprache-druck-band-5", "titel": "Band 5", "oben": "Neues Testament", "zeile": "Matthäus bis Offenbarung", "von": 40, "bis": 66, "glut": "255, 120, 110", "grund": ["#0d0507", "#260c12"]}
+ {"datei": "bibel-leichte-sprache-druck-band-1", "titel": "Band 1", "oben": "Altes Testament", "zeile": "1. Mose bis Ester", "von": 1, "bis": 17, "glut": "255, 170, 70", "grund": ["#0c0805", "#22160c"]},
+ {"datei": "bibel-leichte-sprache-druck-band-2", "titel": "Band 2", "oben": "Altes Testament", "zeile": "Hiob bis Maleachi", "von": 18, "bis": 39, "glut": "120, 200, 230", "grund": ["#05090d", "#0d1d26"]},
+ {"datei": "bibel-leichte-sprache-druck-band-3", "titel": "Band 3", "oben": "Neues Testament", "zeile": "Matthäus bis Offenbarung", "von": 40, "bis": 66, "glut": "255, 120, 110", "grund": ["#0d0507", "#260c12"]}
 ]

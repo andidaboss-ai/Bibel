@@ -51,15 +51,13 @@ Die Schriften (Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. 
 
 # Druckausgabe (Taschenbuch) für Amazon KDP Print
 
-Eine einzige Druckdatei für die ganze Bibel geht bei KDP nicht. KDP druckt höchstens **828 Seiten** pro Taschenbuch, die ganze Bibel hat im Druck rund 2.900 Seiten. Darum gibt es die Druckausgabe in **5 Bänden**. Die Dateien liegen in `ausgabe/druck/`.
+Eine einzige Druckdatei für die ganze Bibel geht bei KDP nicht. KDP druckt höchstens **828 Seiten** pro Taschenbuch. Die ganze Bibel hat im Druck knapp 2.000 Seiten. Darum gibt es die Druckausgabe in **3 Bänden**. Sie sind genauso aufgeteilt wie die drei E-Book-Bände. Die Dateien liegen in `ausgabe/druck/`.
 
 | Band | Inhalt | Seiten | Rücken |
 |---|---|---|---|
-| 1 | 1. Mose bis Rut | 659 | 1,484 Zoll |
-| 2 | 1. Samuel bis Ester | 569 | 1,281 Zoll |
-| 3 | Hiob bis Hoheslied | 382 | 0,860 Zoll |
-| 4 | Jesaja bis Maleachi | 614 | 1,383 Zoll |
-| 5 | Neues Testament | 675 | 1,520 Zoll |
+| 1 | Altes Testament: 1. Mose bis Ester | 815 | 1,835 Zoll |
+| 2 | Altes Testament: Hiob bis Maleachi | 662 | 1,491 Zoll |
+| 3 | Neues Testament | 503 | 1,133 Zoll |
 
 Je Band gibt es zwei Dateien:
 - **`…-innenteil.pdf`:** der Innenteil.
@@ -75,12 +73,13 @@ Je Band gibt es zwei Dateien:
 - **Cover:** „Ein Cover hochladen, das Sie bereits haben“ wählen und `…-umschlag.pdf` hochladen.
 - **Barcode:** Den Barcode setzt KDP unten rechts auf die Rückseite. Diese Fläche ist frei gelassen.
 - **Schriften:** Alle Schriften sind in den PDFs eingebettet.
-- **Ränder:** Der Innenrand (Bundsteg) ist 0,95 Zoll breit, der Außenrand 0,6 Zoll. Das erfüllt die KDP-Vorgaben für bis zu 828 Seiten.
+- **Ränder:** Der Innenrand (Bundsteg) ist 0,9 Zoll breit, der Außenrand 0,5 Zoll. Das erfüllt die KDP-Vorgaben für bis zu 828 Seiten.
 
 ## Wichtig
 
 - **Seitenzahl ändert sich:** Wenn sich der Text ändert, ändert sich vielleicht die Seitenzahl. Dann ändert sich auch die Breite des Rückens. Deshalb immer Innenteil und Umschlag zusammen neu bauen:
   `python3 werkzeuge/druck/druck_bauen.py`
+- **Band 1 ist knapp:** Band 1 hat 815 von höchstens 828 Seiten. Bei größeren Textänderungen kann er über die Grenze kommen. Das Bau-Programm bricht dann mit einer Meldung ab.
 - **Druckvorschau:** Vor dem Freigeben in KDP den „Print Previewer“ durchsehen und am besten ein Probeexemplar („Proof Copy“) bestellen.
-- **Gebundene Ausgabe:** Ein Hardcover erlaubt bei KDP höchstens 550 Seiten. Das passt nur für Band 3. Für die anderen Bände ist nur das Taschenbuch möglich.
-- **Schriftgröße:** Die Schrift ist 11 Punkt groß. Das ist größer als in den meisten Bibeln, aber kleiner als die 14 Punkt, die Regeln für Leichte Sprache oft empfehlen. Mit 14 Punkt bräuchte man etwa 8 Bände.
+- **Gebundene Ausgabe:** Ein Hardcover erlaubt bei KDP höchstens 550 Seiten. Das passt für Band 3 (Neues Testament, 503 Seiten). Für ein Hardcover braucht KDP aber einen eigenen Umschlag mit anderen Maßen.
+- **Schriftgröße:** Die Schrift ist 9,2 Punkt groß, zweispaltig im Großformat. Das ist ungefähr so groß wie in vielen gedruckten Bibeln. Die Schrift Literata ist für das Lesen am Bildschirm und auf Papier gemacht und bleibt auch klein gut lesbar.
