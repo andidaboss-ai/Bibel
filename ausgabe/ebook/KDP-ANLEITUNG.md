@@ -5,11 +5,14 @@
 | Ausgabe | E-Book (Manuskript) | Cover |
 |---|---|---|
 | Gesamtausgabe, 66 Bücher, 1.189 Kapitel | `bibel-leichte-sprache-gesamt.epub` (4,8 MB) | `bibel-leichte-sprache-gesamt-cover.jpg` |
-| Band 1: 1. Mose bis Ester, 436 Kapitel | `bibel-leichte-sprache-band-1.epub` (2,2 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
-| Band 2: Hiob bis Maleachi, 493 Kapitel | `bibel-leichte-sprache-band-2.epub` (2,0 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
-| Band 3: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-3.epub` (1,5 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
+| Band 1: 1. Mose bis 1. Samuel, 267 Kapitel | `bibel-leichte-sprache-band-1.epub` (1,5 MB) | `bibel-leichte-sprache-band-1-cover.jpg` |
+| Band 2: 2. Samuel bis Psalmen, 361 Kapitel | `bibel-leichte-sprache-band-2.epub` (1,6 MB) | `bibel-leichte-sprache-band-2-cover.jpg` |
+| Band 3: Sprüche bis Maleachi, 301 Kapitel | `bibel-leichte-sprache-band-3.epub` (1,5 MB) | `bibel-leichte-sprache-band-3-cover.jpg` |
+| Band 4: Neues Testament, 260 Kapitel | `bibel-leichte-sprache-band-4.epub` (1,5 MB) | `bibel-leichte-sprache-band-4-cover.jpg` |
 
-- **E-Books:** EPUB 3. Alle vier Dateien haben die Prüfung mit EPUBCheck 5.1.0 ohne Fehler und ohne Warnungen bestanden.
+Die vier Bände sind genauso aufgeteilt wie die Druckausgabe. So passen E-Book, Taschenbuch und Hardcover als eine Reihe zusammen.
+
+- **E-Books:** EPUB 3. Alle fünf Dateien haben die Prüfung mit EPUBCheck 5.1.0 ohne Fehler und ohne Warnungen bestanden.
 - **Cover:** JPG mit 1600 × 2560 Pixeln. Das ist das Seitenverhältnis 1,6 : 1, das KDP empfiehlt.
 
 ## Hochladen bei KDP
@@ -32,8 +35,8 @@
 - **Titel:** Die Bibel in Leichter Sprache
 - **Untertitel:**
   - Gesamtausgabe – Altes und Neues Testament. Mit Erklärungen zu jedem Abschnitt
-  - Band 1/2/3 – … (wie auf dem Cover)
-- **Reihe:** „Die Bibel in Leichter Sprache“, Band 1–3. Die Gesamtausgabe erscheint ohne Reihe.
+  - Band 1/2/3/4 – … (wie auf dem Cover)
+- **Reihe:** „Die Bibel in Leichter Sprache“, Band 1–4. E-Book, Taschenbuch und Hardcover eines Bandes verknüpft KDP automatisch, wenn Titel, Autor und Reihe gleich sind. Die Gesamtausgabe erscheint ohne Reihe.
 - **Sprache:** Deutsch
 - **Schlüsselwörter:** Bibel Leichte Sprache; Bibel einfach erklärt; Bibel für Jugendliche; einfache Sprache Bibel; Altes Testament leicht; Neues Testament leicht; Bibel mit Erklärungen
 - **Kategorien:** Religion > Bibel > Übersetzungen / Christentum > Bibelstudium
@@ -49,37 +52,53 @@ Die Schriften (Cinzel, Literata, Inter) liegen in `werkzeuge/ebook/schriften/`. 
 
 ---
 
-# Druckausgabe (Taschenbuch) für Amazon KDP Print
+# Druckausgabe für Amazon KDP Print: Hardcover und Taschenbuch
 
-Eine einzige Druckdatei für die ganze Bibel geht bei KDP nicht. KDP druckt höchstens **828 Seiten** pro Taschenbuch. Die ganze Bibel hat im Druck knapp 2.000 Seiten. Darum gibt es die Druckausgabe in **3 Bänden**. Sie sind genauso aufgeteilt wie die drei E-Book-Bände. Die Dateien liegen in `ausgabe/druck/`.
+Die Druckausgabe besteht aus **4 Bänden**. Jeder Band hat höchstens 550 Seiten. Das ist die Grenze von KDP für gebundene Bücher (Hardcover). So kann **jeder Band als Hardcover und als Taschenbuch** erscheinen, mit demselben Innenteil. Die Dateien liegen in `ausgabe/druck/`.
 
-| Band | Inhalt | Seiten | Rücken |
-|---|---|---|---|
-| 1 | Altes Testament: 1. Mose bis Ester | 815 | 1,835 Zoll |
-| 2 | Altes Testament: Hiob bis Maleachi | 662 | 1,491 Zoll |
-| 3 | Neues Testament | 503 | 1,133 Zoll |
+| Band | Inhalt | Seiten | Rücken Hardcover | Rücken Taschenbuch |
+|---|---|---|---|---|
+| 1 | Altes Testament: 1. Mose bis 1. Samuel | 511 | 1,340 Zoll | 1,151 Zoll |
+| 2 | Altes Testament: 2. Samuel bis Psalmen | 519 | 1,358 Zoll | 1,169 Zoll |
+| 3 | Altes Testament: Sprüche bis Maleachi | 493 | 1,299 Zoll | 1,110 Zoll |
+| 4 | Neues Testament: Matthäus bis Offenbarung | 515 | 1,349 Zoll | 1,160 Zoll |
 
-Je Band gibt es zwei Dateien:
-- **`…-innenteil.pdf`:** der Innenteil.
-- **`…-umschlag.pdf`:** der ganze Umschlag mit Rückseite, Rücken und Vorderseite. `…-umschlag-vorschau.png` zeigt dasselbe als Bild.
+Die Bände sind fast gleich dick. Im Regal sehen sie aus wie eine Reihe. Jeder Band hat eine eigene Farbe: Bernstein, Smaragd, Eisblau, Rubin.
 
-## Einstellungen bei KDP (Taschenbuch)
+Je Band gibt es drei Dateien:
+- **`…-innenteil.pdf`:** der Innenteil, gleich für Hardcover und Taschenbuch.
+- **`…-umschlag-hardcover.pdf`:** der Umschlag für das Hardcover (mit Einschlag und Falz). Vorschau: `…-umschlag-hardcover-vorschau.png`.
+- **`…-umschlag.pdf`:** der Umschlag für das Taschenbuch. Vorschau: `…-umschlag-vorschau.png`.
 
-- **Druckoptionen:** Schwarzweiß, **weißes Papier**. Die Breite des Buchrückens ist für weißes Papier berechnet.
-- **Format (Trim Size):** **8,5 × 11 Zoll** (21,59 × 27,94 cm).
-- **Beschnitt (Bleed):** Innenteil **ohne Beschnitt** („No Bleed“). Der Umschlag hat 0,125 Zoll Beschnitt rundum, wie KDP es verlangt.
-- **Umschlag-Oberfläche:** matt passt gut zum dunklen Design, glänzend geht auch.
+## Gestaltung des Innenteils
+
+- Format **8,25 × 11 Zoll** (20,96 × 27,94 cm). Das ist das größte Format, das KDP für Hardcover und Taschenbuch gleich anbietet.
+- Zweispaltig, Schrift Literata 9,2 Punkt.
+- Wie bei hochwertigen Büchern beginnen Titel, Vorwort, Inhalt, die Teile und **jedes biblische Buch auf einer rechten Seite**. Davor steht, wenn nötig, eine leere Seite.
+- Kopfzeile mit dem Namen des Buches, Seitenzahl unten in der Mitte.
+
+## Einstellungen bei KDP: Hardcover
+
+- **Druckoptionen:** Schwarzweiß, **weißes Papier**.
+- **Format (Trim Size):** **8,25 × 11 Zoll**.
+- **Beschnitt (Bleed):** Innenteil **ohne Beschnitt** („No Bleed“).
+- **Umschlag-Oberfläche:** **matt** wirkt bei dem dunklen Design am edelsten.
 - **Manuskript:** `…-innenteil.pdf` hochladen.
-- **Cover:** „Ein Cover hochladen, das Sie bereits haben“ wählen und `…-umschlag.pdf` hochladen.
-- **Barcode:** Den Barcode setzt KDP unten rechts auf die Rückseite. Diese Fläche ist frei gelassen.
-- **Schriften:** Alle Schriften sind in den PDFs eingebettet.
-- **Ränder:** Der Innenrand (Bundsteg) ist 0,9 Zoll breit, der Außenrand 0,5 Zoll. Das erfüllt die KDP-Vorgaben für bis zu 828 Seiten.
+- **Cover:** „Ein Cover hochladen, das Sie bereits haben“ und `…-umschlag-hardcover.pdf` hochladen.
+- **Maße des Hardcover-Umschlags:** 19,4 × 12,418 Zoll. Er hat 0,591 Zoll Einschlag links und rechts, 0,709 Zoll oben und unten und 0,197 Zoll Falz neben dem Rücken. Der Rücken ist Papier plus 0,189 Zoll für die Pappe. **Bitte vor dem Hochladen mit dem Cover-Rechner von KDP vergleichen** (KDP-Hilfe „Cover Calculator“: Hardcover, 8,25 × 11, weißes Papier, Seitenzahl eintragen). Weicht die Vorlage ab, die Werte oben in `werkzeuge/druck/druck_bauen.py` (`HC_…`) anpassen und nur die Umschläge neu bauen:
+  `python3 werkzeuge/druck/druck_bauen.py --nur-umschlag`
+- **Barcode:** KDP setzt den Barcode unten rechts auf die Rückseite. Diese Fläche ist frei.
+
+## Einstellungen bei KDP: Taschenbuch
+
+- Schwarzweiß, weißes Papier, **8,25 × 11 Zoll**, Innenteil ohne Beschnitt.
+- Cover: `…-umschlag.pdf` (0,125 Zoll Beschnitt rundum).
 
 ## Wichtig
 
-- **Seitenzahl ändert sich:** Wenn sich der Text ändert, ändert sich vielleicht die Seitenzahl. Dann ändert sich auch die Breite des Rückens. Deshalb immer Innenteil und Umschlag zusammen neu bauen:
+- **Seitenzahl ändert sich:** Wenn sich der Text ändert, ändert sich vielleicht die Seitenzahl und damit die Breite des Rückens. Darum immer Innenteil und Umschläge zusammen neu bauen:
   `python3 werkzeuge/druck/druck_bauen.py`
-- **Band 1 ist knapp:** Band 1 hat 815 von höchstens 828 Seiten. Bei größeren Textänderungen kann er über die Grenze kommen. Das Bau-Programm bricht dann mit einer Meldung ab.
-- **Druckvorschau:** Vor dem Freigeben in KDP den „Print Previewer“ durchsehen und am besten ein Probeexemplar („Proof Copy“) bestellen.
-- **Gebundene Ausgabe:** Ein Hardcover erlaubt bei KDP höchstens 550 Seiten. Das passt für Band 3 (Neues Testament, 503 Seiten). Für ein Hardcover braucht KDP aber einen eigenen Umschlag mit anderen Maßen.
-- **Schriftgröße:** Die Schrift ist 9,2 Punkt groß, zweispaltig im Großformat. Das ist ungefähr so groß wie in vielen gedruckten Bibeln. Die Schrift Literata ist für das Lesen am Bildschirm und auf Papier gemacht und bleibt auch klein gut lesbar.
+- **Reserve:** Jeder Band hat noch mindestens 31 Seiten Platz bis zur Grenze von 550 Seiten. Bei mehr als 550 Seiten bricht das Bau-Programm mit einer Meldung ab.
+- **Probeexemplar:** Vor dem Freigeben den „Print Previewer“ durchsehen und am besten von jedem Band ein Probeexemplar bestellen. Beim Hardcover besonders auf den Rücken und den Einschlag achten.
+- **Schriften:** Alle Schriften sind in den PDFs eingebettet.
+- **Ränder:** Innenrand (Bundsteg) 0,8 Zoll, Außenrand 0,45 Zoll. Das erfüllt die KDP-Vorgaben für 501–700 Seiten (innen mindestens 0,75 Zoll).

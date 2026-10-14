@@ -1,18 +1,18 @@
-/* Die Bibel in Leichter Sprache – Druckausgabe 8,5 x 11 Zoll (Großformat), zweispaltig, 11 pt.
-   Innenrand (Bundsteg) nach KDP-Vorgabe für 701–828 Seiten: mindestens 0,875 Zoll. */
+/* Die Bibel in Leichter Sprache – Druckausgabe 8,25 x 11 Zoll (Großformat, auch als Hardcover), zweispaltig, 9,2 pt.
+   Innenrand (Bundsteg) nach KDP-Vorgabe für 501–700 Seiten: mindestens 0,75 Zoll. */
 
 @page {
-  size: 8.5in 11in;
-  margin: 0.72in 0.5in 0.68in 0.5in;
+  size: 8.25in 11in;
+  margin: 0.72in 0.45in 0.68in 0.45in;
   @bottom-center {
     content: counter(page);
     font-family: "Inter", sans-serif; font-weight: 600; font-size: 8.5pt;
     color: #8a6a2a; letter-spacing: 0.08em;
   }
 }
-@page :left  { margin-left: 0.5in; margin-right: 0.9in;
+@page :left  { margin-left: 0.45in; margin-right: 0.8in;
   @top-left { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #8a6a2a; } }
-@page :right { margin-left: 0.9in; margin-right: 0.5in;
+@page :right { margin-left: 0.8in; margin-right: 0.45in;
   @top-right { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #8a6a2a; } }
 @page leer { @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
 
@@ -84,11 +84,11 @@ strong { font-weight: bold; }
 
 /* ---------- Teile und Bücher ---------- */
 .teil { page: leer; break-before: right; padding-top: 3.4in; text-align: center; }
-.teil + .buchseite { break-before: page; }
+.teil + .buchseite { break-before: right; }
 .teil-titel { font-family: "Cinzel", serif; font-weight: bold; font-size: 40pt; line-height: 1.1; letter-spacing: 0.06em; text-transform: uppercase; margin: 0; }
 .teil-unter { font-family: "Inter", sans-serif; font-weight: 600; font-size: 8.5pt; letter-spacing: 0.22em; text-transform: uppercase; }
 
-.buchseite { page: leer; break-before: page; break-after: page; padding-top: 3.2in; text-align: center; }
+.buchseite { page: leer; break-before: right; break-after: page; padding-top: 3.2in; text-align: center; }
 .buch-titel { font-family: "Cinzel", serif; font-weight: bold; font-size: 44pt; line-height: 1.08; letter-spacing: 0.05em; text-transform: uppercase; margin: 0; }
 .buch-anzahl { font-family: "Inter", sans-serif; font-weight: 600; font-size: 8pt; letter-spacing: 0.24em; text-transform: uppercase; }
 

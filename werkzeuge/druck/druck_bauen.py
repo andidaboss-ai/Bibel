@@ -8,10 +8,11 @@ Ablauf je Band:
     1. HTML für den Innenteil schreiben (Platzhalter im Inhaltsverzeichnis).
     2. Chromium druckt das HTML als PDF (werkzeuge/druck/pdf_drucken.mjs).
     3. Seitenzahlen der Bücher aus dem PDF lesen, Inhaltsverzeichnis füllen, nochmal drucken.
-    4. Umschlag (Vorderseite, Rücken, Rückseite) passend zur Seitenzahl als PDF bauen.
+    4. Umschläge (Vorderseite, Rücken, Rückseite) passend zur Seitenzahl als PDF bauen:
+       einen für das Taschenbuch und einen für die gebundene Ausgabe (Hardcover).
 
-Format: 8,5 x 11 Zoll (21,59 x 27,94 cm), zweispaltig, Schrift 11 pt, ohne Beschnitt im Innenteil.
-KDP erlaubt bei Schwarzweißdruck höchstens 828 Seiten pro Buch, darum gibt es mehrere Bände.
+Format: 8,25 x 11 Zoll (20,96 x 27,94 cm), zweispaltig, Schrift 9,2 pt, ohne Beschnitt im Innenteil.
+KDP erlaubt bei gebundenen Büchern höchstens 550 Seiten, darum gibt es 4 Bände.
 """
 import html, json, os, re, subprocess, sys
 
@@ -25,11 +26,19 @@ SCHRIFTEN = os.path.join(WURZEL, "werkzeuge", "ebook", "schriften")
 JAHR = eb.JAHR
 
 # Seitenbreite/-höhe in Zoll
-BREITE, HOEHE = 8.5, 11.0
+BREITE, HOEHE = 8.25, 11.0
 PAPIER_DICKE = 0.002252  # Zoll pro Seite, KDP weißes Papier, Schwarzweiß
 BESCHNITT = 0.125
+MAX_SEITEN = 550  # KDP Hardcover
 
-# Die Bände für den Druck. Grenzen so gewählt, dass jeder Band unter 828 Seiten bleibt.
+# Hardcover-Umschlag nach KDP-Vorlage (Zoll): Einschlag rundum, Falz neben dem Rücken,
+# Rücken = Papier + Pappe. Vor dem Hochladen mit dem KDP-Cover-Rechner vergleichen.
+HC_EINSCHLAG_SEITE = 0.591
+HC_EINSCHLAG_OBEN = 0.709
+HC_FALZ = 0.197
+HC_PAPPE = 0.189
+
+# Die Bände für den Druck. Grenzen so gewählt, dass jeder Band unter 550 Seiten bleibt.
 BAENDE = json.load(open(os.path.join(HIER, "baende.json"), encoding="utf-8"))
 
 esc = eb.esc
@@ -53,7 +62,7 @@ def font_css():
     return "\n".join(regeln)
 
 
-def innenteil_html(band, alle, seiten_der_buecher=None, marken=True):
+def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     buecher = [b for b in alle if band["von"] <= b["nr"] <= band["bis"]]
     css = open(os.path.join(HIER, "druck.css"), encoding="utf-8").read()
     # Kopfzeilen: je Buch eine benannte Seite
@@ -89,19 +98,19 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True):
 </section>""")
     # Vorwort aus dem E-Book übernehmen (ohne Seitenrahmen)
     vw = re.search(r"<section.*?</section>", eb.vorwort(), re.S).group(0)
-    vw = vw.replace('class="vorwort"', 'class="titelei vorwort"')
+    vw = vw.replace('class="vorwort"', 'class="titelei vorwort"').replace("<h2", '<p class="marke">@@VORWORT@@</p><h2', 1)
     vw = vw.replace("Am Ende des Buches stehen Telefon-Nummern", "Am Ende jedes Bandes stehen Telefon-Nummern")
     teile.append(vw)
     # Inhaltsverzeichnis
-    z = ['<section class="titelei inhalt"><h2 class="seitentitel">Inhalt</h2><div class="zier"><span></span></div>']
+    z = ['<section class="titelei inhalt"><p class="marke">@@INHALT@@</p><h2 class="seitentitel">Inhalt</h2><div class="zier"><span></span></div>']
     letzter = None
     for b in buecher:
         if b["testament"] != letzter:
             letzter = b["testament"]
             z.append(f'<p class="inh-testament">{"Das Alte Testament" if letzter == "altes-testament" else "Das Neue Testament"}</p>')
-        s = seiten_der_buecher.get(b["nr"], "") if seiten_der_buecher else "000"
+        s = seiten_der_buecher.get(f'BUCH{b["nr"]:02d}', "") if seiten_der_buecher else "000"
         z.append(f'<p class="inh-zeile"><span class="inh-name">{ziffern(esc(b["name"]))}</span><span class="inh-seite">{s}</span></p>')
-    s = seiten_der_buecher.get("hilfe", "") if seiten_der_buecher else "000"
+    s = seiten_der_buecher.get("HILFE", "") if seiten_der_buecher else "000"
     z.append(f'<p class="inh-zeile inh-extra"><span class="inh-name">Hier gibt es Hilfe</span><span class="inh-seite">{s}</span></p>')
     z.append("</section>")
     teile.append("\n".join(z))
@@ -112,7 +121,8 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True):
             letzter = b["testament"]
             name = "Das Alte Testament" if letzter == "altes-testament" else "Das Neue Testament"
             anzahl = sum(1 for x in alle if x["testament"] == letzter)
-            teile.append(f"""<section class="teil"><p class="kicker">Teil</p><h1 class="teil-titel">{name}</h1>
+            kurz = "TEILAT" if letzter == "altes-testament" else "TEILNT"
+            teile.append(f"""<section class="teil"><p class="marke">@@{kurz}@@</p><p class="kicker">Teil</p><h1 class="teil-titel">{name}</h1>
 <div class="zier gross"><span></span></div><p class="teil-unter">{anzahl} Bücher</p></section>""")
         einheit = "Psalmen" if b["code"] == "PSA" else "Kapitel"
         tname = "Altes Testament" if b["testament"] == "altes-testament" else "Neues Testament"
@@ -141,6 +151,12 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True):
 {chr(10).join(teile)}
 </body></html>
 """
+    # Leere linke Seiten, damit Vorwort, Inhalt, Teile, Bücher und Hilfe rechts beginnen.
+    # (Chromium beachtet break-before: right nicht.)
+    for m in leer:
+        i = doc.index(f'<p class="marke">@@{m}@@</p>')
+        i = doc.rindex("<section", 0, i)
+        doc = doc[:i] + '<section class="titelei leerseite"></section>\n' + doc[i:]
     if not marken:
         # Marken sind absolut positioniert: Entfernen ändert den Umbruch nicht.
         doc = re.sub(r'<p class="marke">@@[A-Z0-9]+@@</p>', "", doc)
@@ -158,17 +174,25 @@ def seitenzahl(pdf):
 
 
 def finde_marken(pdf):
-    """Liest aus dem PDF, auf welcher Seite jedes Buch beginnt."""
+    """Liest aus dem PDF, auf welcher Seite jede Marke steht (Buchanfänge, Teile, Vorwort, Inhalt, Hilfe)."""
     text = subprocess.run(["pdftotext", "-layout", pdf, "-"], capture_output=True, text=True, check=True).stdout
-    seiten = text.split("\f")
     gefunden = {}
-    for i, s in enumerate(seiten, start=1):
-        s = re.sub(r"\s+", "", s)
-        for m in re.finditer(r"@@BUCH(\d\d)@@", s):
-            gefunden[int(m.group(1))] = i
-        if "@@HILFE@@" in s:
-            gefunden["hilfe"] = i
+    for i, s in enumerate(text.split("\f"), start=1):
+        for m in re.finditer(r"@@([A-Z0-9]+)@@", re.sub(r"\s+", "", s)):
+            gefunden[m.group(1)] = i
     return gefunden
+
+
+def leerseiten(marken):
+    """Bestimmt, vor welchen Marken eine leere Seite nötig ist, damit sie auf einer rechten (ungeraden) Seite stehen.
+    Jede Marke beginnt eine neue Seite, eine eingefügte Leerseite verschiebt also nur alles danach um 1."""
+    leer, neu, schub = [], {}, 0
+    for m, s in sorted(marken.items(), key=lambda x: x[1]):
+        if (s + schub) % 2 == 0:
+            leer.append(m)
+            schub += 1
+        neu[m] = s + schub
+    return leer, neu
 
 
 def baue(band, alle):
@@ -179,38 +203,52 @@ def baue(band, alle):
 
     open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle))
     drucke(html_datei, pdf, BREITE, HOEHE)
-    seiten = finde_marken(pdf)
-    open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle, seiten))
+    leer, seiten = leerseiten(finde_marken(pdf))
+    open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle, seiten, leer=leer))
     drucke(html_datei, pdf, BREITE, HOEHE)
     pruef = finde_marken(pdf)
-    if pruef != seiten:
+    if pruef != seiten or any(x % 2 == 0 for x in pruef.values()):
         raise SystemExit(f"Seitenzahlen haben sich verschoben: {seiten} != {pruef}")
     n = seitenzahl(pdf)
     # Endfassung ohne unsichtbare Marken
-    open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle, seiten, marken=False))
+    open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle, seiten, marken=False, leer=leer))
     drucke(html_datei, pdf, BREITE, HOEHE)
     if seitenzahl(pdf) != n or finde_marken(pdf):
         raise SystemExit("Endfassung weicht ab")
-    if n > 828:
-        raise SystemExit(f"{name}: {n} Seiten – mehr als die 828 Seiten, die KDP erlaubt")
+    if n > MAX_SEITEN:
+        raise SystemExit(f"{name}: {n} Seiten – mehr als die {MAX_SEITEN} Seiten, die KDP beim Hardcover erlaubt")
     os.remove(html_datei)
-
-    # Umschlag
-    ruecken = n * PAPIER_DICKE
-    u_breite = 2 * BREITE + ruecken + 2 * BESCHNITT
-    u_hoehe = HOEHE + 2 * BESCHNITT
-    umschlag_pdf = os.path.join(ZIEL, f"{name}-umschlag.pdf")
-    subprocess.run(["node", os.path.join(HIER, "umschlag.mjs"), json.dumps(band), umschlag_pdf,
-                    str(u_breite), str(u_hoehe), str(ruecken), str(BREITE), str(HOEHE), str(BESCHNITT), str(n)],
-                   check=True)
-    print(f"{os.path.relpath(pdf, WURZEL)}: {n} Seiten · Umschlag {u_breite:.3f} x {u_hoehe:.3f} Zoll, Rücken {ruecken:.3f} Zoll")
+    umschlaege(band, n)
     return n
+
+
+def umschlaege(band, n):
+    name = band["datei"]
+    papier = n * PAPIER_DICKE
+    arten = {
+        # art: (Rücken, Rand links/rechts, Rand oben/unten, Falz)
+        "taschenbuch": (papier, BESCHNITT, BESCHNITT, 0.0),
+        "hardcover": (papier + HC_PAPPE, HC_EINSCHLAG_SEITE, HC_EINSCHLAG_OBEN, HC_FALZ),
+    }
+    for art, (ruecken, rand_x, rand_y, falz) in arten.items():
+        u_breite = 2 * (BREITE + rand_x + falz) + ruecken
+        u_hoehe = HOEHE + 2 * rand_y
+        endung = "umschlag" if art == "taschenbuch" else "umschlag-hardcover"
+        pdf = os.path.join(ZIEL, f"{name}-{endung}.pdf")
+        subprocess.run(["node", os.path.join(HIER, "umschlag.mjs"), json.dumps(band), pdf,
+                        str(u_breite), str(u_hoehe), str(ruecken), str(rand_x), str(rand_y), str(falz), str(n)],
+                       check=True)
+        print(f"{name} {art}: {n} Seiten · Umschlag {u_breite:.3f} x {u_hoehe:.3f} Zoll, Rücken {ruecken:.3f} Zoll")
 
 
 if __name__ == "__main__":
     alle = lade_buecher()
     wahl = sys.argv[1:]
+    baende = [w for w in wahl if not w.startswith("--")]
     for band in BAENDE:
-        if wahl and band["datei"].split("-")[-1] not in [w.split("-")[-1] for w in wahl]:
+        if baende and band["datei"].split("-")[-1] not in [w.split("-")[-1] for w in baende]:
             continue
-        baue(band, alle)
+        if "--nur-umschlag" in wahl:
+            umschlaege(band, seitenzahl(os.path.join(ZIEL, f'{band["datei"]}-innenteil.pdf')))
+        else:
+            baue(band, alle)

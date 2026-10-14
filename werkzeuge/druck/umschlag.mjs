@@ -1,6 +1,7 @@
 // Baut den Buchumschlag (Rückseite, Rücken, Vorderseite) als PDF für KDP Print.
 // Wird von druck_bauen.py aufgerufen:
-// node umschlag.mjs <band-json> <ausgabe.pdf> <breite> <hoehe> <ruecken> <seite_b> <seite_h> <beschnitt> <seiten>
+// node umschlag.mjs <band-json> <ausgabe.pdf> <breite> <hoehe> <ruecken> <rand_x> <rand_y> <falz> <seiten>
+// rand_x/rand_y: Beschnitt (Taschenbuch) bzw. Einschlag (Hardcover). falz: Gelenk neben dem Rücken (nur Hardcover).
 // Alle Maße in Zoll. Das Bild wird mit 300 dpi gerendert und in ein PDF in exakter Größe gelegt.
 import { createRequire } from 'module';
 import { fileURLToPath } from 'url';
@@ -16,10 +17,13 @@ const hier = path.dirname(fileURLToPath(import.meta.url));
 const schrift = (f) => 'file://' + path.join(hier, '..', 'ebook', 'schriften', f);
 const alleBaende = JSON.parse(fs.readFileSync(path.join(hier, 'baende.json'), 'utf8'));
 
-const [, , bandJson, aus, b, h, r, sb, sh, be, seiten] = process.argv;
+const [, , bandJson, aus, b, h, r, rx, ry, fz, seiten] = process.argv;
 const band = JSON.parse(bandJson);
 const IN = 96; // CSS-Pixel pro Zoll
-const W = +b * IN, H = +h * IN, R = +r * IN, SB = +sb * IN, BE = +be * IN;
+const W = +b * IN, H = +h * IN, R = +r * IN, BE = +rx * IN, BY = +ry * IN, FZ = +fz * IN;
+const SB = (W - R) / 2 - BE; // Breite einer Seite des Umschlags ohne Rand, mit Falz
+const cm = (px) => (px / IN * 2.54).toFixed(1).replace('.', ',');
+const format = `${cm(SB - FZ)} × ${cm(H - 2 * BY)} cm`;
 const g = band.glut;
 
 const liste = alleBaende.map((x) =>
@@ -41,7 +45,7 @@ body{position:relative;color:#f4ecdc;font-family:Inter,sans-serif;
 .ruecken{left:${BE + SB}px;width:${R}px;background:linear-gradient(90deg,rgba(0,0,0,.35),rgba(255,255,255,.04) 50%,rgba(0,0,0,.35))}
 .vorn{left:${BE + SB + R}px;width:${SB + BE}px}
 /* Vorderseite: Inhalt im sicheren Bereich (Beschnitt + 0,375 Zoll) */
-.v-in{position:absolute;left:0;top:${BE}px;width:${SB}px;height:${H - 2 * BE}px}
+.v-in{position:absolute;left:${FZ}px;top:${BY}px;width:${SB - FZ}px;height:${H - 2 * BY}px}
 .glut{position:absolute;left:50%;top:${2.9 * IN}px;width:${9 * IN}px;height:${9 * IN}px;margin:${-4.5 * IN}px 0 0 ${-4.5 * IN}px;border-radius:50%;
   background:radial-gradient(circle,rgba(${g},.55) 0%,rgba(${g},.22) 12%,rgba(${g},.07) 30%,transparent 55%)}
 .strahlen{position:absolute;left:50%;top:${2.9 * IN}px;width:${14 * IN}px;height:${14 * IN}px;margin:${-7 * IN}px 0 0 ${-7 * IN}px;
@@ -74,7 +78,7 @@ body{position:relative;color:#f4ecdc;font-family:Inter,sans-serif;
 .r-band{font-weight:800;font-size:${Math.min(0.17 * IN, R * 0.2)}px;letter-spacing:.24em;text-transform:uppercase;color:#1a1206;background:linear-gradient(180deg,#f6dc98,#c9973f);padding:${0.04 * IN}px ${0.14 * IN}px;border-radius:999px}
 .r-zeile{font-weight:600;font-size:${Math.min(0.16 * IN, R * 0.18)}px;letter-spacing:.06em;color:#e9dcc0}
 /* Rückseite */
-.h-in{position:absolute;left:${BE + 0.75 * IN}px;right:${0.75 * IN}px;top:${BE + 0.9 * IN}px}
+.h-in{position:absolute;left:${BE + 0.75 * IN}px;right:${FZ + 0.75 * IN}px;top:${BY + 0.9 * IN}px}
 .h-kicker{font-weight:600;font-size:${0.14 * IN}px;letter-spacing:.32em;text-transform:uppercase;color:#d9b86c}
 .h-titel{font-family:Cinzel;font-weight:700;font-size:${0.44 * IN}px;line-height:1.15;margin-top:${0.12 * IN}px;color:#f6e7c2}
 .h-linie{width:${1.2 * IN}px;height:2px;margin:${0.26 * IN}px 0;background:linear-gradient(90deg,#d9b86c,transparent)}
@@ -88,7 +92,7 @@ li{font-weight:600;font-size:${0.15 * IN}px;color:rgba(239,230,212,.62);margin-b
 li span{display:inline-block;width:${0.85 * IN}px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
 li.aktiv{color:#f6e7c2}
 li.aktiv span{color:#d9b86c}
-.h-quelle{position:absolute;left:${BE + 0.75 * IN}px;bottom:${BE + 0.55 * IN}px;width:${3.6 * IN}px;font-size:${0.11 * IN}px;line-height:1.45;color:rgba(239,230,212,.55)}
+.h-quelle{position:absolute;left:${BE + 0.75 * IN}px;bottom:${BY + 0.55 * IN}px;width:${3.6 * IN}px;font-size:${0.11 * IN}px;line-height:1.45;color:rgba(239,230,212,.55)}
 </style></head><body>
 <div class="flaeche rueck">
   <div class="h-in">
@@ -105,7 +109,7 @@ li.aktiv span{color:#d9b86c}
       <p>Nach jedem Abschnitt erklärt ein Kasten, was du gelesen hast und was es für heute bedeuten kann.</p></div>
     <ul>${liste}</ul>
   </div>
-  <p class="h-quelle">Neu übertragen aus der gemeinfreien World English Bible. Großformat 21,6 × 27,9 cm. ${seiten} Seiten.</p>
+  <p class="h-quelle">Neu übertragen aus der gemeinfreien World English Bible. Großformat ${format}. ${seiten} Seiten.</p>
 </div>
 <div class="flaeche ruecken"><div class="r-text">
   <span class="r-titel">DIE BIBEL</span><span class="r-unter">IN LEICHTER SPRACHE</span>

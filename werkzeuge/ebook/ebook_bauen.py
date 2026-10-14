@@ -6,9 +6,11 @@ Aufruf (im Hauptordner des Projekts):
 
 Erzeugt in ausgabe/ebook/:
     bibel-leichte-sprache-gesamt.epub   alle 66 Bücher
-    bibel-leichte-sprache-band-1.epub   1. Mose bis Ester
-    bibel-leichte-sprache-band-2.epub   Hiob bis Maleachi
-    bibel-leichte-sprache-band-3.epub   Neues Testament
+    bibel-leichte-sprache-band-1.epub   1. Mose bis 1. Samuel
+    bibel-leichte-sprache-band-2.epub   2. Samuel bis Psalmen
+    bibel-leichte-sprache-band-3.epub   Sprüche bis Maleachi
+    bibel-leichte-sprache-band-4.epub   Neues Testament
+Die Bände sind genauso aufgeteilt wie die Druckausgabe (werkzeuge/druck/baende.json).
 
 Die Cover (JPG für KDP) erzeugt werkzeuge/ebook/cover_bauen.mjs.
 Quelle der Wahrheit bleiben die Kapiteldateien in texte/leichte-sprache/.
@@ -35,24 +37,32 @@ AUSGABEN = {
     "band-1": {
         "datei": "bibel-leichte-sprache-band-1",
         "titel": "Die Bibel in Leichter Sprache",
-        "untertitel": "Band 1 – Altes Testament: 1. Mose bis Ester",
+        "untertitel": "Band 1 – Altes Testament: 1. Mose bis 1. Samuel",
         "band": "Band 1",
         "oben": "Altes Testament",
-        "buecher": range(1, 18),
+        "buecher": range(1, 10),
     },
     "band-2": {
         "datei": "bibel-leichte-sprache-band-2",
         "titel": "Die Bibel in Leichter Sprache",
-        "untertitel": "Band 2 – Altes Testament: Hiob bis Maleachi",
+        "untertitel": "Band 2 – Altes Testament: 2. Samuel bis Psalmen",
         "band": "Band 2",
         "oben": "Altes Testament",
-        "buecher": range(18, 40),
+        "buecher": range(10, 20),
     },
     "band-3": {
         "datei": "bibel-leichte-sprache-band-3",
         "titel": "Die Bibel in Leichter Sprache",
-        "untertitel": "Band 3 – Das Neue Testament",
+        "untertitel": "Band 3 – Altes Testament: Sprüche bis Maleachi",
         "band": "Band 3",
+        "oben": "Altes Testament",
+        "buecher": range(20, 40),
+    },
+    "band-4": {
+        "datei": "bibel-leichte-sprache-band-4",
+        "titel": "Die Bibel in Leichter Sprache",
+        "untertitel": "Band 4 – Das Neue Testament",
+        "band": "Band 4",
         "oben": "Neues Testament",
         "buecher": range(40, 67),
     },
@@ -423,11 +433,10 @@ def baue(schluessel):
             letzter = b["testament"]
             kurz = "at" if letzter == "altes-testament" else "nt"
             at_buecher = [x for x in alle if x["testament"] == letzter]
-            unter = f'{len(at_buecher)} Bücher' if len(buecher) > 30 or schluessel in ("gesamt", "band-3") else "Die Bücher " + buecher[0]["name"] + " bis " + buecher[-1]["name"]
-            if schluessel == "band-1":
-                unter = "Die Bücher von 1. Mose bis Ester"
-            elif schluessel == "band-2":
-                unter = "Die Bücher von Hiob bis Maleachi"
+            if len(buecher) > 30 or schluessel in ("gesamt", "band-4"):
+                unter = f'{len(at_buecher)} Bücher'
+            else:
+                unter = f'Die Bücher von {buecher[0]["name"]} bis {buecher[-1]["name"]}'
             neu(f"text/teil_{kurz}.xhtml", teil_seite(letzter, unter), "application/xhtml+xml", f"teil-{kurz}")
         tname = "Altes Testament" if b["testament"] == "altes-testament" else "Neues Testament"
         neu(f'text/b{b["nr"]:02d}_buch.xhtml', buch_seite(b, f'{tname} · Buch {b["nr"]} von 66'),

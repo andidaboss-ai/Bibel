@@ -21,10 +21,12 @@ const ausgaben = [
   { datei: 'bibel-leichte-sprache-gesamt', oben: 'Altes und Neues Testament', band: 'Gesamtausgabe',
     zeile: 'Alle 66 Bücher · 1.189 Kapitel', grund: ['#07080d', '#141522'], glut: '255, 196, 92' },
   { datei: 'bibel-leichte-sprache-band-1', oben: 'Altes Testament', band: 'Band 1',
-    zeile: '1. Mose bis Ester', grund: ['#0c0805', '#22160c'], glut: '255, 170, 70' },
+    zeile: '1. Mose bis 1. Samuel', grund: ['#0c0805', '#22160c'], glut: '255, 170, 70' },
   { datei: 'bibel-leichte-sprache-band-2', oben: 'Altes Testament', band: 'Band 2',
-    zeile: 'Hiob bis Maleachi', grund: ['#05090d', '#0d1d26'], glut: '120, 200, 230' },
-  { datei: 'bibel-leichte-sprache-band-3', oben: 'Neues Testament', band: 'Band 3',
+    zeile: '2. Samuel bis Psalmen', grund: ['#040a07', '#0b2016'], glut: '110, 214, 160' },
+  { datei: 'bibel-leichte-sprache-band-3', oben: 'Altes Testament', band: 'Band 3',
+    zeile: 'Sprüche bis Maleachi', grund: ['#05090d', '#0d1d26'], glut: '120, 200, 230' },
+  { datei: 'bibel-leichte-sprache-band-4', oben: 'Neues Testament', band: 'Band 4',
     zeile: 'Matthäus bis Offenbarung', grund: ['#0d0507', '#260c12'], glut: '255, 120, 110' },
 ];
 
