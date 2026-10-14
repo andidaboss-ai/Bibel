@@ -101,7 +101,7 @@ Denn ihr habt den HERRN verworfen, der mitten unter euch ist,
 und ihr habt vor ihm geweint und gesagt: „Warum sind wir aus Ägypten ausgezogen?“‘“
 
 [21] Mose sagte:
-„Das Volk, in dessen Mitte ich lebe, sind 600.000 Mann zu Fuß.
+„Das Volk, in dessen Mitte ich lebe, sind 600 000 Mann zu Fuß.
 Und du sagst: ‚Ich will ihnen Fleisch geben, dass sie einen ganzen Monat lang essen.‘
 [22] Soll man für sie Schafe und Rinder schlachten, damit es für sie reicht?
 Oder soll man alle Fische im Meer für sie fangen, damit es für sie reicht?“

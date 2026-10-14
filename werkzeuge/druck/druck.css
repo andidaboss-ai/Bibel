@@ -1,4 +1,6 @@
 /* Die Bibel in Leichter Sprache – Druckausgabe 8,25 x 11 Zoll (Großformat, auch als Hardcover), zweispaltig, 9,2 pt.
+   Schwarzweißdruck: aller Text in reinem Schwarz (wird nicht gerastert und bleibt scharf), Grau nur für breite Linien.
+   Kleinste Schrift 7 pt.
    Innenrand (Bundsteg) nach KDP-Vorgabe für 501–700 Seiten: mindestens 0,75 Zoll. */
 
 @page {
@@ -7,13 +9,13 @@
   @bottom-center {
     content: counter(page);
     font-family: "Inter", sans-serif; font-weight: 600; font-size: 8.5pt;
-    color: #8a6a2a; letter-spacing: 0.08em;
+    color: #000; letter-spacing: 0.08em;
   }
 }
 @page :left  { margin-left: 0.45in; margin-right: 0.8in;
-  @top-left { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #8a6a2a; } }
+  @top-left { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #000; } }
 @page :right { margin-left: 0.8in; margin-right: 0.45in;
-  @top-right { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #8a6a2a; } }
+  @top-right { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #000; } }
 @page leer { @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
 
 * { box-sizing: border-box; }
@@ -23,7 +25,7 @@ body {
   font-family: "Literata", Georgia, serif;
   font-size: 9.2pt;
   line-height: 1.25;
-  color: #111;
+  color: #000;
   hyphens: manual;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
@@ -35,13 +37,13 @@ strong { font-weight: bold; }
 
 /* ---------- Zier ---------- */
 .zier { text-align: center; margin: 10pt 0 14pt; line-height: 0; }
-.zier span { display: inline-block; width: 0.55in; border-top: 1.2pt solid #b08a3e; }
-.zier.gross span { width: 0.9in; border-top-width: 1.8pt; }
+.zier span { display: inline-block; width: 0.55in; border-top: 0.9pt solid #000; }
+.zier.gross span { width: 0.9in; border-top-width: 1.2pt; }
 .z { font-family: "Literata", serif; font-weight: bold; letter-spacing: 0; }
 
 .kicker {
   font-family: "Inter", sans-serif; font-weight: 600; font-size: 7pt;
-  letter-spacing: 0.24em; text-transform: uppercase; color: #9a7630;
+  letter-spacing: 0.24em; text-transform: uppercase; color: #000;
   text-align: center; margin: 0 0 6pt;
 }
 
@@ -52,7 +54,7 @@ strong { font-weight: bold; }
 .st-unter { font-family: "Cinzel", serif; font-size: 12pt; letter-spacing: 0.14em; margin-top: 4pt; }
 .leerseite { height: 1px; }
 .titelseite { padding-top: 2.4in; text-align: center; }
-.ts-oben { font-family: "Inter", sans-serif; font-weight: 600; font-size: 8pt; letter-spacing: 0.34em; text-transform: uppercase; color: #9a7630; margin-bottom: 16pt; }
+.ts-oben { font-family: "Inter", sans-serif; font-weight: 600; font-size: 8pt; letter-spacing: 0.34em; text-transform: uppercase; color: #000; margin-bottom: 16pt; }
 .ts-titel { font-family: "Cinzel", serif; font-weight: bold; font-size: 56pt; line-height: 1; letter-spacing: 0.07em; text-transform: uppercase; margin: 0; }
 .ts-unter { font-family: "Cinzel", serif; font-size: 17pt; letter-spacing: 0.14em; margin-top: 6pt; }
 .ts-band { font-family: "Inter", sans-serif; font-weight: 800; font-size: 12pt; letter-spacing: 0.2em; text-transform: uppercase; margin-top: 4pt; }
@@ -67,16 +69,16 @@ strong { font-weight: bold; }
 .vorwort p.t { font-size: 10.5pt; margin-bottom: 5pt; }
 .vorwort .box p, .vorwort p.v { font-size: 10pt; }
 
-.inh-testament { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.24em; text-transform: uppercase; color: #9a7630; margin: 14pt 0 6pt; text-align: center; }
+.inh-testament { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.24em; text-transform: uppercase; color: #000; margin: 14pt 0 6pt; text-align: center; }
 .inhalt { columns: 2; column-gap: 0.4in; }
-.inhalt .seitentitel, .inhalt .zier { column-span: all; }
+.inhalt .seitentitel, .inhalt .zier, .inhalt .inh-testament { column-span: all; }
 .inh-zeile { display: flex; align-items: baseline; font-size: 10.5pt; line-height: 1.55; break-inside: avoid; }
 .inh-name { font-family: "Cinzel", serif; font-weight: bold; }
-.inh-zeile::after { content: ""; order: 1; flex: 1; border-bottom: 0.6pt dotted #b08a3e; margin: 0 4pt; transform: translateY(-2pt); }
+.inh-zeile::after { content: ""; order: 1; flex: 1; border-bottom: 0.75pt dotted #000; margin: 0 4pt; transform: translateY(-2pt); }
 .inh-seite { order: 2; font-family: "Inter", sans-serif; font-weight: 600; font-size: 8.5pt; }
 .inh-extra { margin-top: 12pt; }
 
-.nummer { margin: 9pt 0; padding-left: 9pt; border-left: 2.4pt solid #b08a3e; break-inside: avoid; }
+.nummer { margin: 9pt 0; padding-left: 9pt; border-left: 2.4pt solid #808080; break-inside: avoid; }
 .n-name { font-family: "Inter", sans-serif; font-weight: 800; font-size: 9pt; }
 .n-tel { font-family: "Inter", sans-serif; font-weight: 800; font-size: 15pt; letter-spacing: 0.03em; }
 .n-info { font-size: 8.5pt; font-style: italic; }
@@ -93,11 +95,11 @@ strong { font-weight: bold; }
 .buch-anzahl { font-family: "Inter", sans-serif; font-weight: 600; font-size: 8pt; letter-spacing: 0.24em; text-transform: uppercase; }
 
 /* ---------- Bibeltext ---------- */
-.buchtext { columns: 2; column-gap: 0.26in; column-rule: 0.4pt solid #d8c69c; column-fill: auto; }
+.buchtext { columns: 2; column-gap: 0.26in; column-rule: 0.5pt solid #000; column-fill: auto; }
 .kapitel { break-before: auto; }
 .kapkopf { column-span: all; text-align: center; margin: 3pt 0 7pt; padding-top: 4pt; break-after: avoid; }
 .kapitel:first-child .kapkopf { padding-top: 0; }
-.kapkopf .kicker { font-size: 6.5pt; margin-bottom: 3pt; }
+.kapkopf .kicker { font-size: 7pt; margin-bottom: 3pt; }
 .kapnr { font-family: "Cinzel", serif; font-weight: bold; font-size: 17pt; line-height: 1.1; letter-spacing: 0.05em; margin: 0; }
 .kaptitel { font-style: italic; font-size: 10.8pt; line-height: 1.3; margin: 3pt 0 0; }
 .kapkopf .zier { margin: 6pt 0 0; }
@@ -107,18 +109,18 @@ h3.abschnitt {
   font-family: "Inter", sans-serif; font-weight: 800; font-size: 9pt; line-height: 1.22;
   margin: 8pt 0 3.5pt; break-after: avoid;
 }
-h3.abschnitt .bereich { font-weight: 600; font-size: 6.6pt; letter-spacing: 0.08em; text-transform: uppercase; color: #9a7630; white-space: nowrap; }
+h3.abschnitt .bereich { font-weight: 600; font-size: 7pt; letter-spacing: 0.08em; text-transform: uppercase; color: #000; white-space: nowrap; }
 h3.einf, h3.rueck { font-family: "Cinzel", serif; font-weight: bold; font-size: 9.8pt; letter-spacing: 0.03em; text-align: center; margin-top: 7pt; }
 
 p.v { margin: 0 0 2.2pt; padding-left: 1.35em; text-indent: -1.35em; orphans: 2; widows: 2; }
 p.v.fort { text-indent: 0; }
 .vn { display: inline-block; width: 1.1em; margin-right: 0.25em; text-indent: 0; text-align: right;
-  font-family: "Inter", sans-serif; font-weight: 600; font-size: 6.3pt; vertical-align: 2.4pt; color: #9a7630; }
+  font-family: "Inter", sans-serif; font-weight: 600; font-size: 7pt; vertical-align: 2.2pt; color: #000; }
 p.t { margin: 0 0 2.6pt; }
 
 .box { margin: 4pt 0 6pt; padding: 3pt 0 1pt 6pt; }
 .box p { font-size: 8.5pt; line-height: 1.24; margin: 0 0 2pt; }
-.box.erkl { border-left: 2.2pt solid #b08a3e; }
-.box.hinweis { border: 1pt solid #7a2a2a; border-radius: 3pt; padding: 5pt 6pt 3pt 7pt; }
-.boxkopf { font-family: "Inter", sans-serif; font-weight: 800; font-size: 6.6pt !important; letter-spacing: 0.18em; text-transform: uppercase; color: #9a7630; margin-bottom: 3pt !important; break-after: avoid; }
-.box.hinweis .boxkopf { color: #7a2a2a; }
+.box.erkl { border-left: 2.2pt solid #808080; }
+.box.hinweis { border: 0.9pt solid #000; border-radius: 3pt; padding: 5pt 6pt 3pt 7pt; }
+.boxkopf { font-family: "Inter", sans-serif; font-weight: 800; font-size: 7pt !important; letter-spacing: 0.18em; text-transform: uppercase; color: #000; margin-bottom: 3pt !important; break-after: avoid; }
+.box.hinweis .boxkopf { color: #000; }

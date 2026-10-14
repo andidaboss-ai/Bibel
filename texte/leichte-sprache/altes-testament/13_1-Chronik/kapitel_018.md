@@ -11,11 +11,11 @@ Er nahm Gat und seine Tochterstädte aus der Hand der Philister.
 und die Moabiter wurden Davids Diener und zahlten ihm Tribut.
 [3] David schlug Hadad-Eser, den König von Zoba, in Richtung Hamat,
 als er hinzog, um seine Herrschaft am Strom Euphrat zu festigen.
-[4] David nahm ihm 1000 Wagen, 7000 Reiter und 20 000 Fußsoldaten ab.
+[4] David nahm ihm 1000 Wagen, 7000 Reiter und 20 000 Fußsoldaten ab.
 David lähmte alle Wagenpferde,
 aber er behielt davon so viele übrig, wie man für hundert Wagen brauchte.
 [5] Als die Syrer aus Damaskus Hadad-Eser, dem König von Zoba, zu Hilfe kamen,
-erschlug David 22 000 Mann von den Syrern.
+erschlug David 22 000 Mann von den Syrern.
 [6] Dann legte David Besatzungen in das Syrien von Damaskus.
 Und die Syrer wurden Davids Diener und zahlten Tribut.
 Der HERR gab David den Sieg, wohin er auch zog.
@@ -46,7 +46,7 @@ Und Hadoram brachte allerlei Geräte aus Gold, Silber und Bronze mit.
 [11] Auch diese weihte der König David dem HERRN,
 zusammen mit dem Silber und dem Gold, das er von allen Völkern mitgenommen hatte:
 von Edom, von Moab, von den Ammonitern, von den Philistern und von Amalek.
-[12] Abischai, der Sohn der Zeruja, erschlug 18 000 Edomiter im Salztal.
+[12] Abischai, der Sohn der Zeruja, erschlug 18 000 Edomiter im Salztal.
 [13] Er legte Besatzungen nach Edom,
 und alle Edomiter wurden Davids Diener.
 Der HERR gab David den Sieg, wohin er auch zog.

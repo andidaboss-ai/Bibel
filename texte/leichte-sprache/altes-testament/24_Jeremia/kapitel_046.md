@@ -73,7 +73,7 @@ dass Nebukadnezar, der König von Babel, kommen werde,
 um das Land Ägypten zu schlagen:
 [14] „Verkündet es in Ägypten
 und lasst es hören in Migdol,
-lasst es hören in Memfis und in Tachpanhes!
+lasst es hören in Memphis und in Tachpanhes!
 Sagt: ‚Stell dich auf und rüste dich,
 denn das Schwert hat rings um dich gefressen!‘
 [15] Warum sind deine Starken hinweggerafft?
@@ -93,7 +93,7 @@ und wie der Karmel am Meer,
 so wird er kommen.
 [19] Du Tochter, die in Ägypten wohnt,
 pack dir dein Gepäck für die Gefangenschaft!
-Denn Memfis wird zur Wüste werden
+Denn Memphis wird zur Wüste werden
 und verbrannt werden, ohne Bewohner.
 [20] Ägypten ist eine sehr schöne junge Kuh,
 aber das Verderben von Norden ist gekommen.
@@ -124,7 +124,7 @@ Danach aber wird es wieder bewohnt sein wie in früheren Tagen“,
 spricht der HERR.
 
 > **Was bedeutet das?**
-> Vers 14: Gerade die Städte, in die die Juden geflohen waren (Migdol, Tachpanhes, Memfis), werden genannt.
+> Vers 14: Gerade die Städte, in die die Juden geflohen waren (Migdol, Tachpanhes, Memphis), werden genannt.
 > Vers 17: Ein Spottname für den Pharao: „Nur Lärm“, viel Gerede, aber nichts dahinter.
 > Vers 18: Nebukadnezar wird so sicher kommen, wie die Berge Tabor und Karmel aus der Ebene herausragen.
 > Vers 25: „Amon von No“: Amon war der Hauptgott der Stadt No, die heute Theben (Luxor) heißt.

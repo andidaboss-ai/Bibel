@@ -196,7 +196,7 @@ Die Plage hatte unter dem Volk schon begonnen.
 Er streute Räucherwerk darauf und schaffte Versöhnung für das Volk.
 [48] Er stand zwischen den Toten und den Lebenden.
 Da wurde der Plage Einhalt geboten.
-[49] Die an der Plage starben, waren 14.700,
+[49] Die an der Plage starben, waren 14 700,
 zusätzlich zu denen, die wegen Korach gestorben waren.
 [50] Aaron kehrte zu Mose an den Eingang des Zeltes der Begegnung zurück.
 Und die Plage hörte auf.

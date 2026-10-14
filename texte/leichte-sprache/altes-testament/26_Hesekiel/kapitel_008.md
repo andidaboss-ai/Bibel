@@ -71,7 +71,7 @@ Der HERR hat das Land verlassen.‘“
 
 > **Was bedeutet das?**
 > Hinter einer Wand, im Verborgenen, beten 70 Älteste Tierbilder und Götzen an. Diese Männer sollten das Volk eigentlich leiten.
-> Vers 11: Jaasanja ist ein Sohn Schafans. Ob dieser Schafan derselbe ist wie der Schreiber unter König Josia, dessen Familie Jeremia half, ist unsicher. Wenn ja, wäre das besonders traurig: ein Sohn aus einer treuen Familie unter den Götzendienern.
+> Vers 11: Jaasanja ist ein Sohn Schafans. Ob dieser Schafan derselbe ist wie der Schreiber unter König Joschija, dessen Familie Jeremia half, ist unsicher. Wenn ja, wäre das besonders traurig: ein Sohn aus einer treuen Familie unter den Götzendienern.
 > Vers 12: „Der HERR sieht uns nicht.“ Das ist die Ausrede vieler Menschen, die heimlich Unrecht tun. Aber die Vision zeigt: Gott sieht alles, auch was im Dunkeln geschieht (vgl. Psalm 139,11–12).
 
 ---

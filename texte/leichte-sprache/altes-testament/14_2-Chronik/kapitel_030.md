@@ -138,7 +138,7 @@ und bekannten sich zum HERRN, dem Gott ihrer Väter.
 Und sie feierten noch sieben Tage mit Freude.
 [24] Denn Hiskija, der König von Juda,
 gab der Versammlung für die Opfer 1000 Stiere und 7000 Schafe.
-Und die Fürsten gaben der Versammlung 1000 Stiere und 10 000 Schafe.
+Und die Fürsten gaben der Versammlung 1000 Stiere und 10 000 Schafe.
 Und eine große Zahl von Priestern heiligte sich.
 [25] Die ganze Versammlung Judas freute sich,
 mit den Priestern und den Leviten,

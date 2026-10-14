@@ -28,6 +28,6 @@ denn groß ist in deiner Mitte der Heilige Israels!“
 > Dieses kurze Danklied schließt den ersten großen Teil des Buches ab (Kapitel 1–12). Nach Gericht und Not kommt am Ende Lob und Freude.
 > Vers 1: Gottes Zorn ist nicht das letzte Wort. Er tröstet wieder.
 > Vers 2: „Der HERR ist meine Stärke und mein Lied“: Diese Worte kommen auch im Lied des Mose nach dem Durchzug durch das Meer vor (2. Mose 15,2).
-> Vers 3: „Wasser schöpfen aus den Quellen des Heils“: Ein schönes Bild für die Freude über Gottes Hilfe. Beim jüdischen Laubhüttenfest wurde früher Wasser geschöpft. Bis heute singt man in Israel ein fröhliches Lied mit diesem Vers: „U-sch'avtem majim be-sason“.
+> Vers 3: „Wasser schöpfen aus den Quellen des Heils“: Ein schönes Bild für die Freude über Gottes Hilfe. Beim jüdischen Laubhüttenfest wurde früher Wasser geschöpft. Bis heute singt man in Israel ein fröhliches Lied mit diesem Vers: „U-sch’avtem majim be-sason“.
 > Vers 6: Das Schönste: Der heilige Gott wohnt mitten unter seinem Volk.
 

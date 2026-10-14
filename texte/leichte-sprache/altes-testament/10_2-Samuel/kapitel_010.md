@@ -41,9 +41,9 @@ Dann kehrt zurück.“
 
 [6] Als die Ammoniter sahen, dass sie sich bei David verhasst gemacht hatten,
 schickten die Ammoniter hin und warben die Syrer von Bet-Rehob
-und die Syrer von Zoba an, 20 000 Mann Fußvolk,
+und die Syrer von Zoba an, 20 000 Mann Fußvolk,
 und den König von Maacha mit 1000 Mann
-und die Männer von Tob, 12 000 Mann.
+und die Männer von Tob, 12 000 Mann.
 [7] Als David das hörte,
 schickte er Joab und das ganze Heer der Helden.
 [8] Die Ammoniter zogen aus
@@ -84,7 +84,7 @@ und Schobach, der Heerführer von Hadad-Eser, war an ihrer Spitze.
 Da versammelte er ganz Israel, ging über den Jordan und kam nach Helam.
 Die Syrer stellten sich gegen David auf und kämpften mit ihm.
 [18] Die Syrer flohen vor Israel.
-Und David tötete von den Syrern 700 Wagenkämpfer und 40 000 Reiter.
+Und David tötete von den Syrern 700 Wagenkämpfer und 40 000 Reiter.
 Und er schlug Schobach, ihren Heerführer, sodass er dort starb.
 [19] Als alle Könige, die Knechte von Hadad-Eser waren, sahen,
 dass sie vor Israel geschlagen waren,
@@ -93,6 +93,6 @@ So fürchteten sich die Syrer, den Ammonitern noch einmal zu helfen.
 
 > **Was bedeutet das?**
 > Jetzt kommt ein großes Heer von Syrern, sogar von jenseits des Euphrat. David selbst führt Israel in den Kampf und siegt.
-> In 1. Chronik 19,18 steht: 7000 Wagenkämpfer und 40 000 Mann Fußvolk. Die Zahlen sind in den alten Handschriften manchmal unterschiedlich überliefert.
+> In 1. Chronik 19,18 steht: 7000 Wagenkämpfer und 40 000 Mann Fußvolk. Die Zahlen sind in den alten Handschriften manchmal unterschiedlich überliefert.
 > Am Ende sind die Syrer Israel untertan. Davids Reich ist jetzt auf dem Höhepunkt seiner Macht.
 > Die Ammoniter sind aber noch nicht besiegt. Der Krieg gegen sie geht im nächsten Kapitel weiter. Und genau während dieses Krieges geschieht Davids schwerste Schuld.

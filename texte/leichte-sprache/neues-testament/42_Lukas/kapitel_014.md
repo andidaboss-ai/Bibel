@@ -197,7 +197,7 @@ Man wirft es weg.
 Wer Ohren hat zum Hören, der soll hören!“
 
 > **Was bedeutet das?**
-> Vers 26: Das WEB sagt „disregard“, also „nicht beachten, zurückstellen“. Im Griechischen steht ein Wort, das oft mit „hassen“ übersetzt wird. In der Sprache der Bibel bedeutet es aber: „weniger lieben, an die zweite Stelle setzen“ (vergleiche 1. Mose 29,30–31). Matthäus sagt es so: „Wer Vater oder Mutter mehr liebt als mich ...“ (Matthäus 10,37).
+> Vers 26: Das WEB sagt „disregard“, also „nicht beachten, zurückstellen“. Im Griechischen steht ein Wort, das oft mit „hassen“ übersetzt wird. In der Sprache der Bibel bedeutet es aber: „weniger lieben, an die zweite Stelle setzen“ (vergleiche 1. Mose 29,30–31). Matthäus sagt es so: „Wer Vater oder Mutter mehr liebt als mich …“ (Matthäus 10,37).
 > Wichtig: Jesus will nicht, dass man seine Familie hasst oder lieblos behandelt. Das Gebot „Ehre deinen Vater und deine Mutter“ gilt weiter (Lukas 18,20). Gruppen, die Menschen zwingen, ihre Familien zu verlassen, missbrauchen diese Worte. Rat geben zum Beispiel die Sekten- und Weltanschauungsbeauftragten der Kirchen.
 > Wichtig: Auch „sein eigenes Leben zurückstellen“ heißt nicht, sich selbst zu verachten oder zu schaden. Wer an Selbstverletzung oder Selbsttötung denkt, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 > Vers 28–32: Zwei Beispiele: der Turmbau und der König vor dem Krieg. Beide sagen: Überlege gut, bevor du dich entscheidest. Jesus nachzufolgen ist eine Entscheidung für das ganze Leben.

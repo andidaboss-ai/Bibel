@@ -141,11 +141,11 @@ sollen Mose, Aaron und seine Söhne lagern.
 Sie sollen die Aufgaben am Heiligtum erfüllen, als Dienst für die Israeliten.
 Ein Fremder, der sich nähert, soll getötet werden.
 [39] Alle Gezählten der Leviten, die Mose und Aaron auf Befehl des HERRN zählten,
-nach ihren Sippen, alle Männer von einem Monat an und älter, waren 22.000.
+nach ihren Sippen, alle Männer von einem Monat an und älter, waren 22 000.
 
 > **Was bedeutet das?**
 > Mose und die Priester lagern im Osten, direkt am Eingang des Heiligtums. Sie bewachen den wichtigsten Zugang.
-> Wenn man die Zahlen addiert (7500 + 8600 + 6200), kommt man auf 22.300, nicht 22.000. Wahrscheinlich ist beim Abschreiben ein Fehler passiert. Manche Forscher vermuten, dass bei den Kehatitern ursprünglich 8300 statt 8600 stand. Dann würde die Summe genau stimmen. Die englische Vorlage folgt dem hebräischen Text mit 8600.
+> Wenn man die Zahlen addiert (7500 + 8600 + 6200), kommt man auf 22 300, nicht 22 000. Wahrscheinlich ist beim Abschreiben ein Fehler passiert. Manche Forscher vermuten, dass bei den Kehatitern ursprünglich 8300 statt 8600 stand. Dann würde die Summe genau stimmen. Die englische Vorlage folgt dem hebräischen Text mit 8600.
 
 ---
 
@@ -159,7 +159,7 @@ anstelle aller Erstgeborenen der Israeliten.
 Und das Vieh der Leviten anstelle aller Erstgeborenen beim Vieh der Israeliten.“
 [42] Mose zählte alle Erstgeborenen der Israeliten, wie der HERR es ihm befohlen hatte.
 [43] Alle männlichen Erstgeborenen, nach der Zahl der Namen, von einem Monat an und älter,
-waren 22.273.
+waren 22 273.
 
 [44] Der HERR sprach zu Mose:
 [45] „Nimm die Leviten anstelle aller Erstgeborenen der Israeliten
@@ -175,6 +175,6 @@ Nach dem Gewicht des Heiligtums sollst du sie nehmen. Ein Schekel sind 20 Gera.
 nach dem Wort des HERRN, wie der HERR es Mose befohlen hatte.
 
 > **Was bedeutet das?**
-> Es gibt 22.273 Erstgeborene, aber nur 22.000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).
+> Es gibt 22 273 Erstgeborene, aber nur 22 000 Leviten. Für 273 Erstgeborene gibt es keinen Leviten als Ersatz. Darum zahlt man für jeden von ihnen fünf Schekel, etwa 55 Gramm Silber. Das sind zusammen 1365 Schekel (273 × 5).
 > Fünf Schekel ist genau der Betrag, mit dem bis heute im Judentum ein erstgeborener Sohn „ausgelöst“ wird. Das Fest heißt „Pidjon ha-Ben“, die Auslösung des Sohnes. Es findet einen Monat nach der Geburt statt.
 > So ist jeder Erstgeborene vor Gott vertreten. Keiner wird vergessen.

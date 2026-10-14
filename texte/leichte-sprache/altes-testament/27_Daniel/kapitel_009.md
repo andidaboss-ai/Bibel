@@ -174,7 +174,7 @@ Sein Ende wird mit einer Flut kommen,
 und bis zum Ende wird Krieg sein.
 Verwüstungen sind beschlossen.
 [27] Er wird mit vielen einen festen Bund schließen für eine Woche.
-In der Mitte der Woche wird er Schlachtopfer und Speisopfer aufhören lassen.
+In der Mitte der Woche wird er Schlachtopfer und Speiseopfer aufhören lassen.
 Und auf dem Flügel der Gräuel wird einer kommen, der verwüstet,
 und bis zum beschlossenen völligen Ende
 wird der Zorn über das Verwüstete ausgegossen werden.“

@@ -13,7 +13,7 @@ Das Lager Midians lag nördlich von ihnen, beim Hügel More, in der Ebene.
 Sonst rühmt sich Israel gegen mich und sagt: ‚Meine eigene Hand hat mich gerettet.‘
 [3] Darum rufe jetzt vor den Ohren des Volkes aus:
 ‚Wer Angst hat und zittert, der soll umkehren und vom Gebirge Gilead weggehen.‘“
-Da kehrten 22.000 vom Volk um, und 10.000 blieben übrig.
+Da kehrten 22 000 vom Volk um, und 10 000 blieben übrig.
 [4] Der HERR sagte zu Gideon:
 „Das Volk ist immer noch zu zahlreich.
 Führ sie hinab ans Wasser, dort will ich sie für dich prüfen.
@@ -35,7 +35,7 @@ Nur die dreihundert Mann behielt er bei sich.
 Und das Lager Midians lag unter ihm in der Ebene.
 
 > **Was bedeutet das?**
-> Normalerweise will man vor einem Krieg so viele Soldaten wie möglich. Gott macht es umgekehrt: Er schickt fast alle nach Hause. Von 32.000 bleiben nur 300 übrig. Warum? Damit Israel nicht sagen kann: „Wir haben aus eigener Kraft gesiegt.“ Es soll klar sein: Gott hat den Sieg geschenkt.
+> Normalerweise will man vor einem Krieg so viele Soldaten wie möglich. Gott macht es umgekehrt: Er schickt fast alle nach Hause. Von 32 000 bleiben nur 300 übrig. Warum? Damit Israel nicht sagen kann: „Wir haben aus eigener Kraft gesiegt.“ Es soll klar sein: Gott hat den Sieg geschenkt.
 > Wer Angst hat, darf nach Hause gehen. So stand es auch im Gesetz für den Krieg (5. Mose 20,8).
 > Wie genau die Prüfung am Wasser ablief, ist nicht ganz klar. Wahrscheinlich: Die 300 schöpften Wasser mit der Hand und leckten es aus der Hand. Die anderen knieten sich hin und tranken direkt aus dem Wasser. Viele Ausleger meinen, die Auswahl hatte nichts damit zu tun, wer besser kämpfen kann. Gott wollte einfach eine kleine Zahl.
 > Paulus schreibt später: „Gottes Kraft ist in den Schwachen mächtig“ (2. Korinther 12,9). Diese Geschichte zeigt das sehr anschaulich.

@@ -101,7 +101,7 @@ bis zum Zugang nach Zedad,
 [16] Hamat, Berota, Sibrajim
 (das zwischen der Grenze von Damaskus und der Grenze von Hamat liegt),
 bis Hazer-Hattikon, das an der Grenze des Hauran liegt.
-[17] Die Grenze vom Meer an soll Hazar-Enon sein,
+[17] Die Grenze vom Meer an soll Hazar-Enan sein,
 an der Grenze von Damaskus,
 und im Norden nordwärts ist die Grenze von Hamat.
 Das ist die Nordseite.
@@ -111,7 +111,7 @@ soll der Jordan sein.
 Von der Nordgrenze bis zum östlichen Meer sollt ihr messen.
 Das ist die Ostseite.
 [19] Die Südseite nach Süden soll von Tamar an sein
-bis zu den Wassern von Meribot-Kadesch,
+bis zu den Wassern von Meribat-Kadesch,
 zum Bach hin,
 bis zum großen Meer.
 Das ist die Südseite nach Süden.

@@ -88,16 +88,16 @@ das sind zehn Bat, gleich einem Homer
 (denn zehn Bat sind ein Homer),
 [15] und ein Lamm von der Herde von zweihundert,
 von den gut bewässerten Weiden Israels,
-zum Speisopfer, zum Brandopfer und zu Friedensopfern,
+zum Speiseopfer, zum Brandopfer und zu Friedensopfern,
 um Sühne für sie zu erwirken“,
 spricht der Herr, der HERR.
 [16] „Das ganze Volk des Landes soll zu dieser Abgabe beitragen
 für den Fürsten in Israel.
 [17] Es soll die Aufgabe des Fürsten sein,
-die Brandopfer, die Speisopfer und die Trankopfer zu geben
+die Brandopfer, die Speiseopfer und die Trankopfer zu geben
 an den Festen, an den Neumonden und an den Sabbaten,
 an allen Festzeiten des Hauses Israel.
-Er soll das Sündopfer, das Speisopfer, das Brandopfer
+Er soll das Sündopfer, das Speiseopfer, das Brandopfer
 und die Friedensopfer bereiten,
 um Sühne für das Haus Israel zu erwirken.“
 
@@ -134,14 +134,14 @@ soll er dem HERRN ein Brandopfer bereiten:
 sieben Stiere und sieben Widder ohne Fehler,
 täglich an den sieben Tagen,
 und täglich einen Ziegenbock als Sündopfer.
-[24] Er soll ein Speisopfer bereiten:
+[24] Er soll ein Speiseopfer bereiten:
 ein Efa für einen Stier,
 ein Efa für einen Widder
 und ein Hin Öl auf ein Efa.
 [25] Im siebten Monat, am fünfzehnten Tag des Monats,
 am Fest, soll er sieben Tage lang dasselbe tun.
 Er soll dieselbe Vorsorge treffen
-für das Sündopfer, das Brandopfer, das Speisopfer und das Öl.“
+für das Sündopfer, das Brandopfer, das Speiseopfer und das Öl.“
 
 > **Was bedeutet das?**
 > Vers 18–20: Zweimal im Jahr wird das Heiligtum gereinigt, besonders für die Menschen, die „aus Versehen“ oder „unwissend“ gesündigt haben. Gott hat Verständnis für menschliche Schwäche.

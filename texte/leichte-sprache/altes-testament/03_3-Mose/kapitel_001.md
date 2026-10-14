@@ -77,7 +77,7 @@ Ihr Blut soll an der Seite des Altars ausgepresst werden.
 und ihn neben den Altar werfen, an die Ostseite, an den Platz für die Asche.
 [17] Er soll sie an den Flügeln einreißen, aber nicht ganz auseinanderteilen.
 Der Priester soll sie auf dem Altar verbrennen, auf dem Holz, das auf dem Feuer liegt.
-Es ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.‘“
+Es ist ein Brandopfer, ein Feueropfer, ein angenehmer Duft für den HERRN.‘
 
 > **Was bedeutet das?**
 > Wer sehr arm war, durfte Tauben bringen. So konnte jeder ein Opfer bringen, egal wie viel Geld er hatte.

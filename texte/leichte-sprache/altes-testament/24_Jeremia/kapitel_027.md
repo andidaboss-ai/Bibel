@@ -45,7 +45,7 @@ sodass ich euch vertreibe und ihr umkommt.
 [11] Aber die Nation, die ihren Nacken unter das Joch des Königs von Babel beugt
 und ihm dient,
 die werde ich in ihrem Land lassen‘, spricht der HERR,
-‚und sie werden es bebauen und darin wohnen.‘“’“
+‚und sie werden es bebauen und darin wohnen.‘“‘“
 
 > **Was bedeutet das?**
 > Vers 1: Das WEB nennt hier König Jojakim, wie der hebräische Text. Aus dem Rest des Kapitels (Vers 3 und 12) wird aber klar, dass es um die Zeit König Zidkijas geht. Viele Übersetzungen schreiben darum hier „Zidkija“.

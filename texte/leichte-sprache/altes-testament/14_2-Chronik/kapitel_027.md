@@ -31,7 +31,7 @@ denn er richtete seine Wege aus vor dem HERRN, seinem Gott.
 > Vers 2: Jotam war wie sein Vater, aber er machte nicht dessen Fehler. Er drang nicht in den Tempel ein, um selbst zu opfern. Er hatte aus dem Fehler seines Vaters gelernt.
 > „Das Volk handelte jedoch weiterhin verderblich“: Ein guter König allein kann das Herz des Volkes nicht ändern. Zur selben Zeit klagten die Propheten Jesaja und Micha über Ungerechtigkeit und Götzendienst in Juda.
 > Der Ofel ist ein Hügel in Jerusalem zwischen der Stadt Davids und dem Tempel.
-> In der Bibel steht „100 Talente Silber“ und „10 000 Kor“ Weizen und Gerste. Ein Talent sind etwa 34 Kilogramm, ein Kor sind etwa 220 Liter.
+> In der Bibel steht „100 Talente Silber“ und „10 000 Kor“ Weizen und Gerste. Ein Talent sind etwa 34 Kilogramm, ein Kor sind etwa 220 Liter.
 > Vers 6 ist das Geheimnis seines Erfolgs: „Er richtete seine Wege aus vor dem HERRN.“ Er lebte bewusst vor Gott.
 
 ---

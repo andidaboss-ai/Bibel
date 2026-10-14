@@ -120,7 +120,7 @@ und Kostbarkeiten für Hiskija, den König von Juda.
 So wurde er von da an vor den Augen aller Völker hoch geehrt.
 
 > **Was bedeutet das?**
-> Hiskija und Jesaja beten. Und Gott greift ein. Die Chronik erzählt das sehr kurz. In 2. Könige 19,35 heißt es, dass in einer Nacht 185 000 Mann im Lager der Assyrer starben.
+> Hiskija und Jesaja beten. Und Gott greift ein. Die Chronik erzählt das sehr kurz. In 2. Könige 19,35 heißt es, dass in einer Nacht 185 000 Mann im Lager der Assyrer starben.
 > „Die aus seinem eigenen Leib hervorgegangen waren“ heißt: seine eigenen Söhne. Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von Söhnen ermordet. Das berichten auch babylonische und assyrische Quellen. Die Chronik fasst zusammen, ohne zu sagen, wie viel Zeit dazwischen lag.
 > Die Ironie: Sanherib spottete, dass kein Gott seine Anhänger retten könne. Und dann wird er im Tempel seines eigenen Gottes getötet. Sein Gott konnte ihn nicht schützen.
 > „Er leitete sie“: Manche Handschriften haben „er gab ihnen Ruhe“.

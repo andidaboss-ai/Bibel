@@ -108,7 +108,7 @@ zusammen 139.
 
 [43] Die Tempeldiener:
 die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
-[44] die Nachkommen Keros', die Nachkommen Siahas, die Nachkommen Padons,
+[44] die Nachkommen Keros’, die Nachkommen Siahas, die Nachkommen Padons,
 [45] die Nachkommen Lebanas, die Nachkommen Hagabas, die Nachkommen Akkubs,
 [46] die Nachkommen Hagabs, die Nachkommen Schamlais, die Nachkommen Hanans,
 [47] die Nachkommen Giddels, die Nachkommen Gahars, die Nachkommen Reajas,
@@ -117,7 +117,7 @@ die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
 [50] die Nachkommen Asnas, die Nachkommen der Mëuniter, die Nachkommen der Nefusiter,
 [51] die Nachkommen Bakbuks, die Nachkommen Hakufas, die Nachkommen Harhurs,
 [52] die Nachkommen Bazluts, die Nachkommen Mehidas, die Nachkommen Harschas,
-[53] die Nachkommen Barkos', die Nachkommen Siseras, die Nachkommen Temachs,
+[53] die Nachkommen Barkos’, die Nachkommen Siseras, die Nachkommen Temachs,
 [54] die Nachkommen Neziachs, die Nachkommen Hatifas.
 
 ---
@@ -146,7 +146,7 @@ Aber sie konnten ihre Familie und ihre Abstammung nicht nachweisen,
 ob sie aus Israel waren:
 [60] die Nachkommen Delajas, die Nachkommen Tobijas, die Nachkommen Nekodas: 652.
 [61] Und von den Nachkommen der Priester:
-die Nachkommen Habajas, die Nachkommen Hakkoz'
+die Nachkommen Habajas, die Nachkommen Hakkoz’
 und die Nachkommen Barsillais,
 der eine Frau von den Töchtern Barsillais, des Gileaditers, genommen hatte
 und nach ihrem Namen genannt wurde.
@@ -168,7 +168,7 @@ bis ein Priester auftritt, der mit den Urim und Tummim dient.
 
 ## Die Gesamtzahl und die Gaben (Vers 64–70)
 
-[64] Die ganze Versammlung zusammen war 42 360,
+[64] Die ganze Versammlung zusammen war 42 360,
 [65] außer ihren Knechten und Mägden, deren waren 7337.
 Und sie hatten 200 Sänger und Sängerinnen.
 [66] Ihre Pferde waren 736, ihre Maultiere 245,
@@ -178,7 +178,7 @@ als sie zum Haus des HERRN kamen, das in Jerusalem ist,
 freiwillig Gaben für das Haus Gottes,
 um es an seiner Stelle wieder aufzurichten.
 [69] Sie gaben nach ihrem Vermögen für den Schatz des Werkes
-61 000 Goldmünzen,
+61 000 Goldmünzen,
 2850 Kilogramm Silber
 und 100 Priestergewänder.
 [70] So wohnten die Priester und die Leviten und einige vom Volk,
@@ -186,8 +186,8 @@ die Sänger, die Torhüter und die Tempeldiener in ihren Städten,
 und ganz Israel in seinen Städten.
 
 > **Was bedeutet das?**
-> Zählt man die einzelnen Zahlen der Liste zusammen, kommt man nur auf etwa 29 800. Die Gesamtzahl ist 42 360. Vielleicht wurden in der Gesamtzahl auch Frauen oder andere Gruppen mitgezählt, die in der Liste nicht einzeln vorkommen. Genau weiß man es nicht.
-> Insgesamt kehren also fast 50 000 Menschen zurück. Das ist nur ein kleiner Teil des Volkes. Die meisten blieben in Babylon.
-> „Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm. 61 000 Dariken sind über 500 Kilogramm Gold. Silber: In der Bibel steht „5000 Minen“. Eine Mine sind etwa 570 Gramm.
+> Zählt man die einzelnen Zahlen der Liste zusammen, kommt man nur auf etwa 29 800. Die Gesamtzahl ist 42 360. Vielleicht wurden in der Gesamtzahl auch Frauen oder andere Gruppen mitgezählt, die in der Liste nicht einzeln vorkommen. Genau weiß man es nicht.
+> Insgesamt kehren also fast 50 000 Menschen zurück. Das ist nur ein kleiner Teil des Volkes. Die meisten blieben in Babylon.
+> „Goldmünzen“: Im Text steht „Dareiken“, persische Goldmünzen von etwa 8,4 Gramm. 61 000 Dareiken sind über 500 Kilogramm Gold. Silber: In der Bibel steht „5000 Minen“. Eine Mine sind etwa 570 Gramm.
 > Die Menschen gaben „nach ihrem Vermögen“: jeder so viel, wie er konnte (vgl. 2. Korinther 8,12).
 > Die Zahlen hier sind etwas anders als in Nehemia 7,70–72. Beim Abschreiben solcher Listen kam es oft zu kleinen Abweichungen.

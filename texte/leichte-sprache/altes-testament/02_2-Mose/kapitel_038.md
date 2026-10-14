@@ -97,7 +97,7 @@ war knapp 1000 Kilogramm, nach dem Gewicht des Heiligtums.
 [25] Das Silber von den Gezählten der Gemeinde war etwa 3420 Kilogramm, nach dem Gewicht des Heiligtums.
 [26] Das war ein Beka pro Kopf, also ein halber Schekel nach dem Gewicht des Heiligtums,
 von jedem, der zu den Gezählten hinüberging, von 20 Jahren an und älter.
-Das waren 603.550 Männer.
+Das waren 603 550 Männer.
 [27] Aus 3400 Kilogramm Silber goss man die Sockel für das Heiligtum und die Sockel für den Vorhang:
 100 Sockel aus dieser Menge Silber, jeder Sockel etwa 34 Kilogramm.
 [28] Aus den übrigen gut 19 Kilogramm machte er die Haken für die Säulen.
@@ -112,7 +112,7 @@ alle Zeltpflöcke der Wohnung und alle Zeltpflöcke rings um den Vorhof.
 > **Was bedeutet das?**
 > In der Bibel stehen die Gewichte in Talenten und Schekeln. Ein Talent sind etwa 34 Kilogramm, ein Schekel etwa 11 Gramm.
 > Gold: 29 Talente und 730 Schekel. Silber: 100 Talente und 1775 Schekel. Bronze: 70 Talente und 2400 Schekel. 100 Sockel aus 100 Talenten, ein Talent für jeden Sockel. Die übrigen 1775 Schekel für Haken und Stangen.
-> Ein „Beka“ ist ein halber Schekel, etwa 5,5 Gramm Silber. Das ist die Abgabe aus 2. Mose 30,13. Die Rechnung geht genau auf: 603.550 halbe Schekel sind 100 Talente und 1775 Schekel.
+> Ein „Beka“ ist ein halber Schekel, etwa 5,5 Gramm Silber. Das ist die Abgabe aus 2. Mose 30,13. Die Rechnung geht genau auf: 603 550 halbe Schekel sind 100 Talente und 1775 Schekel.
 > Insgesamt fast eine Tonne Gold, über drei Tonnen Silber und über zwei Tonnen Bronze. Das Heiligtum war ein großes und kostbares Werk.
 > Die Bibel legt hier eine genaue Abrechnung vor. Mit Geld, das für Gott gegeben wurde, soll man ehrlich und offen umgehen.
-> Die Zahl 603.550 kommt auch bei der großen Volkszählung in 4. Mose 1,46 vor.
+> Die Zahl 603 550 kommt auch bei der großen Volkszählung in 4. Mose 1,46 vor.

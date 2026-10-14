@@ -131,7 +131,7 @@ Wo er niedersank, da fiel er tot hin.
 > **Was bedeutet das?**
 > „Butter“: So steht es in der englischen Vorlage. Gemeint ist wohl dicke Sahne oder Sauermilch.
 > Das Lied feiert Jaël als Heldin. Die Worte wiederholen sich wie Hammerschläge: „sank nieder, fiel, lag da“. So wird der Sturz des mächtigen Feindes eindrucksvoll beschrieben.
-> „Gesegnet vor allen Frauen“: Ähnliche Worte sagt Elisabeth im Neuen Testament zu Maria (Lukas 1,42).
+> „Gesegnet vor allen Frauen“: Ähnliche Worte sagt Elisabet im Neuen Testament zu Maria (Lukas 1,42).
 > Wie in Kapitel 4 gilt: Die Bibel erzählt hier aus der Sicht eines Volkes, das lange unterdrückt war. Sie feiert die Befreiung. Das ist kein allgemeines Lob für Gewalt.
 
 ---

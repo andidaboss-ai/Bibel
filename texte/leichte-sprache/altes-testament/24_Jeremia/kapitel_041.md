@@ -23,7 +23,7 @@ als noch niemand davon wusste,
 achtzig Männer,
 mit geschorenen Bärten und zerrissenen Kleidern,
 die sich Schnitte gemacht hatten,
-mit Speisopfern und Weihrauch in ihrer Hand,
+mit Speiseopfern und Weihrauch in ihrer Hand,
 um sie zum Haus des HERRN zu bringen.
 [6] Jischmael, der Sohn Netanjas, ging ihnen aus Mizpa entgegen
 und weinte die ganze Zeit, während er ging.

@@ -136,7 +136,7 @@ wie durchsichtiges Glas.
 > Vers 12–14: Auf den Toren stehen die Namen der zwölf Stämme Israels. Auf den Grundsteinen stehen die Namen der zwölf Apostel. Israel und die Kirche gehören beide zu Gottes Stadt. Israel ist nicht ersetzt. Gottes Volk ist Israel und die Kirche zusammen.
 > Vers 13: Es gibt Tore in alle Himmelsrichtungen. Menschen aus der ganzen Welt sind willkommen.
 > Vers 16: Die Stadt ist ein Würfel. Auch das Allerheiligste im Tempel war ein Würfel (1. Könige 6,20). Die ganze Stadt ist jetzt wie das Allerheiligste: Gott ist überall ganz nah.
-> 12.000 Stadien sind etwa 2.200 Kilometer. Im WEB steht hier „zwölftausendzwölf“. In den meisten Handschriften steht „zwölftausend“. Die Zahl will sagen: unvorstellbar groß, Platz für alle.
+> 12 000 Stadien sind etwa 2 200 Kilometer. Im WEB steht hier „zwölftausendzwölf“. In den meisten Handschriften steht „zwölftausend“. Die Zahl will sagen: unvorstellbar groß, Platz für alle.
 > Vers 17: 144 ist 12 mal 12, wieder die Zahl des ganzen Gottesvolkes.
 > Vers 19–20: Die Edelsteine erinnern an die zwölf Steine auf der Brusttasche des Hohenpriesters (2. Mose 28,17–21). Die Namen einiger Steine sind heute nicht mehr ganz sicher.
 > Vers 21: Jedes Tor ist aus einer einzigen riesigen Perle. Gold ist hier so wertvoll wie Straßenpflaster. Was auf der Erde am meisten zählt, ist in Gottes Welt ganz normal.

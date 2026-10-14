@@ -5,7 +5,7 @@
 
 ## Der neue Wagen (Vers 1–5)
 
-[1] David versammelte wieder alle ausgewählten Männer Israels, 30 000 Mann.
+[1] David versammelte wieder alle ausgewählten Männer Israels, 30 000 Mann.
 [2] David machte sich auf und zog mit dem ganzen Volk, das bei ihm war, von Baale-Juda los,
 um von dort die Lade Gottes hinaufzubringen,
 über der der Name genannt wird,

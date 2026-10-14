@@ -27,7 +27,7 @@ und in den Städten der Meder.
 > **Was bedeutet das?**
 > Hoschea versucht, sich mit Hilfe Ägyptens von Assyrien zu befreien. Aber Ägypten hilft nicht. Assyrien greift an.
 > Nach drei Jahren Belagerung fällt Samaria, etwa 722 vor Christus. Das Nordreich Israel hört auf zu bestehen. Es hatte etwa 200 Jahre bestanden.
-> Der assyrische König Sargon II., der Nachfolger Salmanassars, rühmt sich in seinen Inschriften, er habe über 27 000 Menschen aus Samaria verschleppt.
+> Der assyrische König Sargon II., der Nachfolger Salmanassars, rühmt sich in seinen Inschriften, er habe über 27 000 Menschen aus Samaria verschleppt.
 > Halach, Habor und Gosan lagen im Norden Mesopotamiens, im Gebiet der heutigen Grenze zwischen Syrien und der Türkei. Die Meder lebten im heutigen Iran.
 > Wer „So, der König von Ägypten“ war, ist unsicher. Ägypten war damals in mehrere kleine Reiche zerfallen.
 > Hoschea regierte etwa von 732 bis 722 vor Christus.

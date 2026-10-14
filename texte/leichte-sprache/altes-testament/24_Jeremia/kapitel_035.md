@@ -45,7 +45,7 @@ So wohnen wir jetzt in Jerusalem.“
 > Die Rechabiter waren eine Gruppe, die nach den Regeln ihres Vorfahren Jonadab lebte (er wird in 2. Könige 10,15–23 erwähnt, etwa 250 Jahre vorher). Sie tranken keinen Wein, bauten keine Häuser und lebten in Zelten wie Nomaden. So wollten sie einfach und Gott treu leben, ohne sich an den Wohlstand des Landes zu binden.
 > Vers 5–6: Jeremia stellt sie auf die Probe: Er bietet ihnen im Tempel Wein an. Aber sie lehnen ab. Sie bleiben ihrem Versprechen treu, auch nach so vielen Generationen.
 > Vers 11: Nur wegen des Krieges sind sie in die Stadt gezogen, aus Not, nicht aus Untreue.
-> Wer mit Alkohol Probleme hat, findet Hilfe bei der Sucht- und Drogen-Hotline: 01806 313 031.
+> Wer mit Alkohol Probleme hat, findet Hilfe bei der Sucht- und Drogen-Hotline: 01806 313 031.
 
 ---
 

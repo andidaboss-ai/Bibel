@@ -33,7 +33,7 @@ spricht der HERR der Heere.
 ## Selbst der Storch kennt seine Zeit (Vers 4–13)
 
 [4] Weiter sollst du zu ihnen sagen:
-‚So spricht der HERR:
+„So spricht der HERR:
 Fällt man denn und steht nicht wieder auf?
 Wendet sich einer ab und kehrt nicht wieder um?
 [5] Warum hat sich denn dieses Volk Jerusalems abgewandt
@@ -43,15 +43,15 @@ Sie weigern sich umzukehren.
 [6] Ich habe aufgemerkt und zugehört,
 aber sie reden nicht, was recht ist.
 Niemand bereut seine Bosheit und sagt:
-„Was habe ich getan?“
+‚Was habe ich getan?‘
 Jeder wendet sich seinem Lauf zu
 wie ein Pferd, das in die Schlacht stürmt.
 [7] Ja, sogar der Storch am Himmel kennt seine festen Zeiten.
 Die Turteltaube, die Schwalbe und der Kranich
 halten die Zeit ihrer Wiederkehr ein.
 Aber mein Volk kennt das Recht des HERRN nicht.
-[8] Wie könnt ihr sagen: „Wir sind weise,
-und die Weisung des HERRN ist bei uns“?
+[8] Wie könnt ihr sagen: ‚Wir sind weise,
+und die Weisung des HERRN ist bei uns‘?
 Aber siehe, der lügnerische Griffel der Schreiber
 hat sie zur Lüge gemacht.
 [9] Die Weisen werden zuschanden.
@@ -65,7 +65,7 @@ sind sie alle der Habgier ergeben.
 Vom Propheten bis zum Priester
 handeln alle betrügerisch.
 [11] Sie heilen die Wunde der Tochter meines Volkes nur oberflächlich
-und sagen: „Friede, Friede!“,
+und sagen: ‚Friede, Friede!‘,
 wo doch kein Friede ist.
 [12] Haben sie sich geschämt, als sie Gräuel getan haben?
 Nein, sie haben sich gar nicht geschämt.
@@ -76,7 +76,7 @@ Zur Zeit ihrer Heimsuchung werden sie stürzen, spricht der HERR.
 Keine Trauben werden am Weinstock sein,
 keine Feigen am Feigenbaum,
 und das Laub wird welken.
-Was ich ihnen gegeben habe, wird ihnen genommen.‘“
+Was ich ihnen gegeben habe, wird ihnen genommen.“
 
 > **Was bedeutet das?**
 > Vers 4: Eine einfache Frage: Wer hinfällt, steht doch wieder auf! Wer sich verirrt, kehrt doch um! Warum tut mein Volk das nicht?

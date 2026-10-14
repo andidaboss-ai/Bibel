@@ -121,7 +121,7 @@ Und wenn es in einem Topf aus Bronze gekocht wurde, dann soll er gescheuert und 
 [29] Jeder Mann unter den Priestern soll davon essen. Es ist hochheilig.
 [30] Aber kein Sündopfer, von dessen Blut etwas in das Zelt der Begegnung gebracht wird,
 um im Heiligtum Versöhnung zu schaffen, darf gegessen werden.
-Es soll im Feuer verbrannt werden.‘“
+Es soll im Feuer verbrannt werden.‘
 
 > **Was bedeutet das?**
 > Bei den kleineren Sündopfern (für Anführer und einfache Leute) essen die Priester das Fleisch. Bei den großen Sündopfern, deren Blut ins Heiligtum gebracht wird (für den Hohenpriester und das ganze Volk), wird alles verbrannt (siehe 3. Mose 4).

@@ -34,10 +34,10 @@ und stellte sie nach ihren Familien auf,
 unter Anführern über Tausend und Anführern über Hundert,
 ganz Juda und Benjamin.
 Er zählte sie, von 20 Jahren an und darüber,
-und fand 300 000 ausgewählte Männer,
+und fand 300 000 ausgewählte Männer,
 die in den Krieg ziehen konnten
 und mit Speer und Schild umgehen konnten.
-[6] Er warb auch aus Israel 100 000 starke, tapfere Krieger an,
+[6] Er warb auch aus Israel 100 000 starke, tapfere Krieger an,
 für 3400 Kilogramm Silber.
 [7] Da kam ein Mann Gottes zu ihm und sagte:
 „König, lass das Heer Israels nicht mit dir ziehen!
@@ -70,8 +70,8 @@ und kehrten in glühendem Zorn nach Hause zurück.
 [11] Amazja fasste Mut,
 führte sein Volk hinaus
 und zog ins Salztal.
-Er schlug 10 000 von den Söhnen Seïrs.
-[12] Die Söhne Judas nahmen 10 000 lebend gefangen,
+Er schlug 10 000 von den Söhnen Seïrs.
+[12] Die Söhne Judas nahmen 10 000 lebend gefangen,
 brachten sie auf die Spitze des Felsens
 und stürzten sie von der Spitze des Felsens hinab,
 sodass sie alle zerschmettert wurden.

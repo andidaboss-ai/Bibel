@@ -132,7 +132,7 @@ von den Söhnen Parschs: Ramja, Jisija, Malkija, Mijamin, Eleasar, Malkija und B
 Und einige von ihnen hatten Frauen, mit denen sie Kinder hatten.
 
 > **Was bedeutet das?**
-> Die Liste nennt etwa 110 Männer. Das ist bei fast 30 000 Heimkehrern ein kleiner Teil. Aber es waren viele Anführer und Priester darunter, sogar aus der Familie des Hohenpriesters.
+> Die Liste nennt etwa 110 Männer. Das ist bei fast 30 000 Heimkehrern ein kleiner Teil. Aber es waren viele Anführer und Priester darunter, sogar aus der Familie des Hohenpriesters.
 > Vers 44 ist im Hebräischen schwer zu verstehen. Er endet sehr knapp mit den Kindern. Man spürt den Schmerz, der in diesem Satz liegt.
 
 > **Wie kann man dieses Kapitel heute verstehen?**
@@ -150,7 +150,7 @@ Und einige von ihnen hatten Frauen, mit denen sie Kinder hatten.
 ## Rückblick: Was haben wir im Buch Esra gelesen?
 
 > **Was bedeutet das?**
-> **Die Heimkehr (Kapitel 1–2):** Gott hält sein Versprechen. Der Perserkönig Kyrus erlaubt den Juden, nach Jerusalem zurückzukehren. Fast 50 000 Menschen machen sich auf den Weg. Jeder Name wird aufgeschrieben.
+> **Die Heimkehr (Kapitel 1–2):** Gott hält sein Versprechen. Der Perserkönig Kyrus erlaubt den Juden, nach Jerusalem zurückzukehren. Fast 50 000 Menschen machen sich auf den Weg. Jeder Name wird aufgeschrieben.
 > **Der Tempel (Kapitel 3–6):** Zuerst bauen sie den Altar, dann das Fundament. Die Jungen jubeln, die Alten weinen. Nachbarn bringen den Bau für viele Jahre zum Stillstand. Aber die Propheten Haggai und Sacharja machen Mut. Im Jahr 515 vor Christus wird der neue Tempel eingeweiht.
 > **Esra (Kapitel 7–10):** Fast 60 Jahre später kommt Esra, ein Priester und Lehrer des Gesetzes. Er will Gottes Wort erforschen, danach leben und es lehren. Er vertraut auf Gottes Schutz und betet für das Volk. Am Ende steht die schwere Entscheidung über die Mischehen.
 > **Gottes Hand:** Ein Satz zieht sich durch das ganze Buch: „Die gute Hand Gottes war über uns.“ Gott wirkt auch durch fremde Könige. Er öffnet Türen, wo Menschen keine sehen.

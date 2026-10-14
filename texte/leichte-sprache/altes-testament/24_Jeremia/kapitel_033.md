@@ -94,7 +94,7 @@ Und das ist der Name, mit dem man sie nennen wird:
 „Es wird David nie an einem Mann fehlen,
 der auf dem Thron des Hauses Israel sitzt.
 [18] Und den levitischen Priestern wird es nie an einem Mann vor mir fehlen,
-der Brandopfer darbringt, Speisopfer verbrennt
+der Brandopfer darbringt, Speiseopfer verbrennt
 und alle Tage Schlachtopfer zubereitet.“
 [19] Das Wort des HERRN kam zu Jeremia:
 [20] „So spricht der HERR:

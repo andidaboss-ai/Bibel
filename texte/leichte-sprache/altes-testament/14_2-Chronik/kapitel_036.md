@@ -5,7 +5,7 @@
 
 ## Joahas (Vers 1–4)
 
-[1] Dann nahm das Volk des Landes Joahas, den Sohn Josias,
+[1] Dann nahm das Volk des Landes Joahas, den Sohn Joschijas,
 und machte ihn an der Stelle seines Vaters in Jerusalem zum König.
 [2] Joahas war 23 Jahre alt, als er König wurde,
 und er regierte drei Monate in Jerusalem.
@@ -58,7 +58,7 @@ Und er machte Zidkija, seinen Bruder, zum König über Juda und Jerusalem.
 > **Was bedeutet das?**
 > In 2. Könige 24,8 steht „18 Jahre“. Das passt besser, denn er hatte schon Frauen (2. Könige 24,15). Beim Abschreiben ist hier wohl die „Zehn“ verloren gegangen.
 > Jojachin wurde 597 vor Christus nach Babel gebracht. Mit ihm wurden viele Menschen weggeführt, auch der Prophet Hesekiel.
-> Zidkija war eigentlich sein Onkel, ein Sohn Josias (2. Könige 24,17). „Bruder“ kann im Hebräischen auch „Verwandter“ heißen.
+> Zidkija war eigentlich sein Onkel, ein Sohn Joschijas (2. Könige 24,17). „Bruder“ kann im Hebräischen auch „Verwandter“ heißen.
 > In Babel fand man Tontafeln, auf denen Lebensmittelrationen für „Jojachin, den König von Juda“ und seine Söhne aufgeschrieben sind.
 
 ---
@@ -145,7 +145,7 @@ und er ziehe hinauf!‘“
 
 > **Was bedeutet das?**
 > Im Jahr 539 vor Christus eroberte der Perserkönig Kyrus Babel. Ein Jahr später erlaubte er den verbannten Völkern, in ihre Heimat zurückzukehren und ihre Tempel wieder aufzubauen. Auf dem sogenannten „Kyros-Zylinder“, einer Tonwalze im Britischen Museum, berichtet Kyrus selbst von dieser Politik.
-> Das Buch endet nicht mit der Zerstörung, sondern mit einem neuen Anfang. Das letzte Wort heißt: „Er ziehe hinauf!“ Im Hebräischen ist das ein einziges Wort: „weja'al“.
+> Das Buch endet nicht mit der Zerstörung, sondern mit einem neuen Anfang. Das letzte Wort heißt: „Er ziehe hinauf!“ Im Hebräischen ist das ein einziges Wort: „weja’al“.
 > In der hebräischen Bibel ist die Chronik das letzte Buch. Die ganze hebräische Bibel endet also mit diesem Satz: einer Einladung, nach Hause zurückzukehren und neu mit Gott anzufangen.
 > Dieselben Worte stehen am Anfang des Buches Esra (Esra 1,1–3). Dort geht die Geschichte weiter.
 
@@ -157,7 +157,7 @@ und er ziehe hinauf!‘“
 > **Salomo und der Tempel (Kapitel 1–9):** Salomo bittet Gott um Weisheit und baut den Tempel. Bei der Einweihung kommt Gottes Herrlichkeit in einer Wolke in das Haus. Gott verspricht: „Wenn mein Volk sich demütigt, betet und mein Angesicht sucht, will ich vom Himmel her hören und vergeben“ (Kapitel 7,14). Dieser Vers ist der Schlüssel zum ganzen Buch.
 > **Das geteilte Reich (Kapitel 10):** Weil Rehabeam nicht auf das Volk hört, zerfällt das Reich in Norden und Süden. Die Chronik erzählt von da an von den Königen Judas in Jerusalem.
 > **Gute und schlechte Könige (Kapitel 11–36):** Immer wieder dasselbe Muster: Wer Gott sucht, dem gelingt es. Wer Gott verlässt, den verlässt auch Gott. Aber wer sich demütigt, findet Gnade.
-> – **Gute Könige** wie Asa, Joschafat, Hiskija und Josia suchen Gott, beten in der Not und erneuern den Gottesdienst. Doch auch sie machen Fehler.
+> – **Gute Könige** wie Asa, Joschafat, Hiskija und Joschija suchen Gott, beten in der Not und erneuern den Gottesdienst. Doch auch sie machen Fehler.
 > – **Schlechte Könige** wie Ahas und Manasse dienen fremden Göttern. Aber selbst Manasse, der schlimmste von allen, darf umkehren, und Gott vergibt ihm.
 > **Die Propheten:** Gott schickt immer wieder Boten: Schemaja, Asarja, Hanani, Micha, Jahasiël, Elija, Secharja, Oded, Jesaja, Hulda, Jeremia und viele andere. Gott warnt, bevor er straft, weil er „Mitleid mit seinem Volk“ hat (Kapitel 36,15).
 > **Gebet und Lob:** Die Könige beten in großer Not, und Gott hilft. Unter Joschafat ziehen die Sänger vor dem Heer her und loben Gott, und Gott rettet. „Der Kampf ist nicht eure Sache, sondern Gottes“ (Kapitel 20,15).

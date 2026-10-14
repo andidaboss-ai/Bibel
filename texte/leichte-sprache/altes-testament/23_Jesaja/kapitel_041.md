@@ -80,7 +80,7 @@ Du wirst dich des Heiligen Israels rühmen.
 > Vers 8: Gott nennt Abraham „meinen Freund“. Was für eine Ehre! Und Israel ist sein „Knecht“, sein Diener, den er erwählt hat.
 > Vers 10 ist einer der tröstlichsten Verse der Bibel: „Fürchte dich nicht, denn ich bin mit dir. Ich stärke dich, ich helfe dir, ich halte dich.“
 > Vers 13: Gott hält die Hand seines Volkes, wie ein Vater oder eine Mutter ein Kind an der Hand hält.
-> Vers 14: „Du Wurm Jakob“: Israel fühlt sich im Exil klein und schwach wie ein Wurm. Gott sagt: Gerade dir helfe ich. „Erlöser“ heißt auf Hebräisch „Go'el“: ein Verwandter, der für einen Angehörigen in Not eintritt und ihn freikauft. So tritt Gott für sein Volk ein.
+> Vers 14: „Du Wurm Jakob“: Israel fühlt sich im Exil klein und schwach wie ein Wurm. Gott sagt: Gerade dir helfe ich. „Erlöser“ heißt auf Hebräisch „Go’el“: ein Verwandter, der für einen Angehörigen in Not eintritt und ihn freikauft. So tritt Gott für sein Volk ein.
 > Vers 15–16: Das schwache Volk wird mit Gottes Hilfe stark wie ein Dreschschlitten, der Berge zermalmt. Das ist ein Bild dafür, dass Gott alle Hindernisse beseitigt.
 
 ---

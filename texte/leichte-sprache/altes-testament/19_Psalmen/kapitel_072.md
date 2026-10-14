@@ -36,14 +36,14 @@ und es wird Frieden in Fülle geben, bis kein Mond mehr ist.
 vom Strom bis an die Enden der Erde.
 [9] Die in der Wüste wohnen, werden sich vor ihm beugen.
 Seine Feinde werden Staub lecken.
-[10] Die Könige von Tarsis und von den Inseln werden Abgaben bringen.
+[10] Die Könige von Tarschisch und von den Inseln werden Abgaben bringen.
 Die Könige von Saba und Seba werden Geschenke darbringen.
 [11] Ja, alle Könige werden vor ihm niederfallen.
 Alle Völker werden ihm dienen.
 
 > **Was bedeutet das?**
 > Der Psalm wünscht dem König eine weltweite Herrschaft. „Der Strom“ ist der Euphrat.
-> Tarsis lag weit im Westen (vielleicht Spanien), Saba und Seba im Süden (Arabien und Afrika). Die Königin von Saba besuchte Salomo (1. Könige 10).
+> Tarschisch lag weit im Westen (vielleicht Spanien), Saba und Seba im Süden (Arabien und Afrika). Die Königin von Saba besuchte Salomo (1. Könige 10).
 > Das ging weit über das hinaus, was ein König in Israel wirklich erreichte. Darum haben Juden und Christen den Psalm auf den Messias bezogen.
 > Christen denken bei Vers 10–11 an die Weisen aus dem Morgenland, die dem Jesuskind Geschenke brachten (Matthäus 2,11).
 

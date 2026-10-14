@@ -29,8 +29,8 @@ sondern erlöse uns von dem Bösen.‘“
 > **Was bedeutet das?**
 > Das Vaterunser ist das wichtigste Gebet der Christen. Es verbindet alle Kirchen. Eine längere Form steht in Matthäus 6,9–13.
 > Jesus betet selbst, und die Jünger möchten so beten wie er. Er lehrt sie, Gott „Vater“ zu nennen. Das zeigt Nähe und Vertrauen.
-> Viele Bitten haben Wurzeln im jüdischen Beten, zum Beispiel im Kaddisch: „Sein großer Name werde geheiligt ... sein Reich komme.“ Jesus betet als Jude.
-> Die ältesten Handschriften von Lukas haben eine kürzere Form: „Vater, dein Name soll heilig gehalten werden. Dein Reich soll kommen. Gib uns Tag für Tag unser tägliches Brot. Vergib uns unsere Sünden, denn auch wir vergeben jedem, der uns etwas schuldet. Und führe uns nicht in Versuchung.“ Die Worte „unser“, „im Himmel“, „Dein Wille soll geschehen ...“ und „sondern erlöse uns von dem Bösen“ stehen nicht in diesen Handschriften. Das WEB hat die längere Form.
+> Viele Bitten haben Wurzeln im jüdischen Beten, zum Beispiel im Kaddisch: „Sein großer Name werde geheiligt … sein Reich komme.“ Jesus betet als Jude.
+> Die ältesten Handschriften von Lukas haben eine kürzere Form: „Vater, dein Name soll heilig gehalten werden. Dein Reich soll kommen. Gib uns Tag für Tag unser tägliches Brot. Vergib uns unsere Sünden, denn auch wir vergeben jedem, der uns etwas schuldet. Und führe uns nicht in Versuchung.“ Die Worte „unser“, „im Himmel“, „Dein Wille soll geschehen …“ und „sondern erlöse uns von dem Bösen“ stehen nicht in diesen Handschriften. Das WEB hat die längere Form.
 > „Von dem Bösen“: Das WEB sagt „from the evil one“, also „von dem Bösen“ als Person. Man kann es auch als „vom Bösen“ allgemein verstehen.
 > „Führe uns nicht in Versuchung“: Gott will niemanden zum Bösen verführen (Jakobus 1,13). Gemeint ist: Bewahre uns in schweren Prüfungen.
 > Für heute: Man braucht keine schönen Worte, um zu beten. Man darf Gott alles sagen, wie einem guten Vater oder einer guten Mutter.

@@ -5,10 +5,10 @@
 
 ## Bevor es losgeht: Wer war Zefanja?
 
-Zefanja lebte zur Zeit von König Josia von Juda (640–609 vor Christus). Sein Stammbaum wird ungewöhnlich lang angegeben, bis zu seinem Ururgroßvater Hiskija. Vielleicht war das der berühmte König Hiskija; dann wäre Zefanja mit dem Königshaus verwandt gewesen. Sicher ist das aber nicht.
+Zefanja lebte zur Zeit von König Joschija von Juda (640–609 vor Christus). Sein Stammbaum wird ungewöhnlich lang angegeben, bis zu seinem Ururgroßvater Hiskija. Vielleicht war das der berühmte König Hiskija; dann wäre Zefanja mit dem Königshaus verwandt gewesen. Sicher ist das aber nicht.
 Sein Vater hieß Kuschi. Der Name kann „der Kuschiter“ bedeuten, also jemand aus Kusch, südlich von Ägypten. Manche Ausleger vermuten deshalb, dass Zefanja afrikanische Vorfahren hatte. Auch das ist nicht sicher.
 Sein Name bedeutet: „Der HERR hat verborgen“ oder „Der HERR schützt“. Das passt zu seiner Botschaft: Wer Gott sucht, wird am Tag des Gerichts „verborgen“, also geschützt (2,3).
-Vor König Josia hatten die Könige Manasse und Amon den Götzendienst in Juda gefördert. Zefanja prangert das an. Wahrscheinlich hat er vor oder während Josias großer Reform (ab etwa 622 vor Christus, 2. Könige 22–23) gewirkt.
+Vor König Joschija hatten die Könige Manasse und Amon den Götzendienst in Juda gefördert. Zefanja prangert das an. Wahrscheinlich hat er vor oder während Joschijas großer Reform (ab etwa 622 vor Christus, 2. Könige 22–23) gewirkt.
 Das große Thema ist der „Tag des HERRN“: ein Tag des Gerichts über Juda und alle Völker. Aber am Ende steht eine der schönsten Verheißungen der Bibel: Gott freut sich über sein Volk mit Jubel (3,17). Das Buch hat 3 Kapitel.
 
 ---
@@ -17,7 +17,7 @@ Das große Thema ist der „Tag des HERRN“: ein Tag des Gerichts über Juda un
 
 [1] Das Wort des HERRN, das an Zefanja erging,
 den Sohn Kuschis, des Sohnes Gedaljas, des Sohnes Amarjas, des Sohnes Hiskijas,
-in den Tagen Josias, des Sohnes Amons, des Königs von Juda.
+in den Tagen Joschijas, des Sohnes Amons, des Königs von Juda.
 [2] Ich werde alles gänzlich wegraffen
 von der Fläche der Erde,
 spricht der HERR.

@@ -109,7 +109,7 @@ für den Dienst Gottes in Jerusalem,
 wie es im Buch des Mose geschrieben steht.
 
 > **Was bedeutet das?**
-> Im Vergleich zur Einweihung des Tempels Salomos (22 000 Rinder und 120 000 Schafe, 2. Chronik 7,5) sind das wenige Opfer. Die Heimkehrer waren arm. Aber die Freude ist genauso groß.
+> Im Vergleich zur Einweihung des Tempels Salomos (22 000 Rinder und 120 000 Schafe, 2. Chronik 7,5) sind das wenige Opfer. Die Heimkehrer waren arm. Aber die Freude ist genauso groß.
 > Zwölf Ziegenböcke „für ganz Israel“: Obwohl vor allem Juda und Benjamin zurückgekehrt sind, denken sie an alle zwölf Stämme. Das ganze Volk Gottes soll dazugehören.
 > Mit Vers 18 endet der aramäische Teil. Ab Vers 19 ist der Text wieder auf Hebräisch.
 

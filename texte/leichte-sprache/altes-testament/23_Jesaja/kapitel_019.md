@@ -44,7 +44,7 @@ Wie könnt ihr zum Pharao sagen:
 Sie sollen es dir jetzt sagen,
 und sie sollen erkennen, was der HERR der Heere über Ägypten beschlossen hat.
 [13] Die Fürsten von Zoan sind zu Toren geworden.
-Die Fürsten von Memfis sind betrogen.
+Die Fürsten von Memphis sind betrogen.
 Sie haben Ägypten in die Irre geführt,
 die doch der Eckstein seiner Stämme sind.
 [14] Der HERR hat einen Geist der Verwirrung in seine Mitte gemischt,

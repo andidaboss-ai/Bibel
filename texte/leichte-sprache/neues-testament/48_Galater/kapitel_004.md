@@ -61,7 +61,7 @@ dass ich mich vielleicht umsonst für euch abgemüht habe.
 
 ---
 
-## Paulus' Sorge um die Galater (Vers 12–20)
+## Paulus’ Sorge um die Galater (Vers 12–20)
 
 [12] Ich bitte euch, Brüder:
 Werdet wie ich,

@@ -128,9 +128,9 @@ und aus seiner Familie 22 Anführer.
 3000.
 Denn bis dahin hatte der größte Teil von ihnen dem Haus Sauls die Treue gehalten.
 [30] Von den Söhnen Efraims:
-20 800, tapfere Krieger, berühmte Männer in ihren Familien.
+20 800, tapfere Krieger, berühmte Männer in ihren Familien.
 [31] Vom halben Stamm Manasse:
-18 000, die mit Namen bestimmt worden waren,
+18 000, die mit Namen bestimmt worden waren,
 um zu kommen und David zum König zu machen.
 [32] Von den Söhnen Issachars,
 Männer, die die Zeiten verstanden und wussten, was Israel tun sollte:
@@ -138,26 +138,26 @@ Männer, die die Zeiten verstanden und wussten, was Israel tun sollte:
 und alle ihre Brüder folgten ihrem Befehl.
 [33] Von Sebulon, die mit dem Heer ausziehen konnten,
 die sich mit allen Kriegswaffen zum Kampf aufstellen konnten:
-50 000, die sich anschlossen und kein geteiltes Herz hatten.
+50 000, die sich anschlossen und kein geteiltes Herz hatten.
 [34] Von Naftali:
 1000 Anführer,
-und mit ihnen 37 000 mit Schild und Speer.
+und mit ihnen 37 000 mit Schild und Speer.
 [35] Von den Danitern, die sich zum Kampf aufstellen konnten:
-28 600.
+28 600.
 [36] Von Asser, die mit dem Heer ausziehen konnten
 und sich zum Kampf aufstellen konnten:
-40 000.
+40 000.
 [37] Von der anderen Seite des Jordan,
 von den Rubenitern, den Gaditern und dem halben Stamm Manasse,
 mit allen Kriegswaffen für den Kampf:
-120 000.
+120 000.
 
 > **Was bedeutet das?**
 > Alle zwölf Stämme kommen nach Hebron, um David zum König zu machen. Dazu die Leviten. Für die Chronik ist das ein Höhepunkt: Ganz Israel ist eins.
 > Die Männer aus Issachar „verstanden die Zeiten“: Sie hatten ein gutes Gespür dafür, was der richtige Moment war und was zu tun ist. Eine Gabe, die auch heute wertvoll ist.
 > Sebulon hatte „kein geteiltes Herz“: Sie standen ganz und ehrlich zu David.
 > Interessant: Aus Juda, Davids eigenem Stamm, kommen die wenigsten Männer. Aus den weit entfernten Stämmen kommen die meisten. Vielleicht, weil Juda schon vorher zu David gehalten hatte.
-> Die Zahlen sind sehr groß, zusammen über 300 000. Wie bei anderen alten Zahlen ist unklar, wie genau sie gemeint sind.
+> Die Zahlen sind sehr groß, zusammen über 300 000. Wie bei anderen alten Zahlen ist unklar, wie genau sie gemeint sind.
 > Jojada ist wohl der Vater Benajas (Kapitel 11,22). Zadok wurde später der Hohepriester unter David und Salomo.
 
 ---

@@ -7,8 +7,8 @@
 
 [1] Salomo beschloss, ein Haus für den Namen des HERRN zu bauen
 und ein Haus für sein Königtum.
-[2] Salomo zählte 70 000 Lastträger ab,
-80 000 Steinhauer im Gebirge
+[2] Salomo zählte 70 000 Lastträger ab,
+80 000 Steinhauer im Gebirge
 und 3600 Aufseher über sie.
 
 > **Was bedeutet das?**
@@ -50,9 +50,9 @@ Schau, meine Diener sollen mit deinen Dienern arbeiten,
 Denn das Haus, das ich bauen will, wird groß und wunderbar sein.
 [10] Schau, ich will deinen Dienern, den Holzfällern, geben:
 etwa 4,4 Millionen Liter gestampften Weizen,
-etwa 440 000 Liter Gerste,
-etwa 440 000 Liter Wein
-und etwa 440 000 Liter Öl.“
+etwa 440 000 Liter Gerste,
+etwa 440 000 Liter Wein
+und etwa 440 000 Liter Öl.“
 
 > **Was bedeutet das?**
 > Huram ist derselbe wie Hiram in den Königsbüchern. Er war König der Phönizier in Tyrus.
@@ -60,7 +60,7 @@ und etwa 440 000 Liter Öl.“
 > Vers 6 ist bemerkenswert: Salomo weiß, dass Gott viel zu groß ist für ein Haus. „Der Himmel der Himmel kann ihn nicht fassen.“ Der Tempel ist nicht Gottes Wohnung im engen Sinn, sondern ein Ort, an dem die Menschen Gott begegnen und ihn ehren können.
 > Purpur und Karmesin waren teure Farben für Stoffe. Die Phönizier waren berühmt für ihren Purpur.
 > „Algummimholz“ war ein kostbares Holz, vielleicht rotes Sandelholz.
-> In der Bibel steht „20 000 Kor Weizen“ und „20 000 Bat“ Gerste, Wein und Öl. Ein Kor sind etwa 220 Liter, ein Bat etwa 22 Liter. In 1. Könige 5,25 werden andere Mengen genannt.
+> In der Bibel steht „20 000 Kor Weizen“ und „20 000 Bat“ Gerste, Wein und Öl. Ein Kor sind etwa 220 Liter, ein Bat etwa 22 Liter. In 1. Könige 5,25 werden andere Mengen genannt.
 
 ---
 
@@ -102,9 +102,9 @@ Und du sollst es nach Jerusalem hinaufbringen.“
 
 [17] Salomo zählte alle Fremden, die im Land Israel lebten,
 nach der Zählung, mit der sein Vater David sie gezählt hatte.
-Man fand 153 600.
-[18] Von ihnen setzte er 70 000 als Lastträger ein,
-80 000 als Steinhauer im Gebirge
+Man fand 153 600.
+[18] Von ihnen setzte er 70 000 als Lastträger ein,
+80 000 als Steinhauer im Gebirge
 und 3600 als Aufseher, die das Volk zur Arbeit antrieben.
 
 > **Was bedeutet das?**

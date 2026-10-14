@@ -112,7 +112,7 @@ Niemand folgte dem Haus Davids außer dem Stamm Juda allein.
 
 [21] Als Rehabeam nach Jerusalem gekommen war,
 versammelte er das ganze Haus Juda und den Stamm Benjamin,
-180 000 ausgewählte Krieger,
+180 000 ausgewählte Krieger,
 um gegen das Haus Israel zu kämpfen
 und das Königreich wieder an Rehabeam, den Sohn Salomos, zurückzubringen.
 [22] Aber das Wort Gottes kam zu Schemaja, dem Mann Gottes:

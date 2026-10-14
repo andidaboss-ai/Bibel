@@ -102,7 +102,7 @@ Schau, sie sind vor dem Altar des HERRN.“
 
 ---
 
-## Sühnopfer für das ganze Volk (Vers 20–24)
+## Sühneopfer für das ganze Volk (Vers 20–24)
 
 [20] Da stand der König Hiskija früh auf,
 versammelte die Obersten der Stadt

@@ -173,7 +173,7 @@ Zwei Städte mit ihren Dörfern.
 
 > **Was bedeutet das?**
 > Debir wird hier „Kirjat-Sanna“ genannt, in Vers 15 „Kirjat-Sefer“. Beides waren alte Namen dieser Stadt.
-> Das Karmel hier ist ein Ort im Süden, nicht das bekannte Karmelgebirge im Norden. Dort lebten später Nabal und Abigail (1. Samuel 25,2).
+> Das Karmel hier ist ein Ort im Süden, nicht das bekannte Karmelgebirge im Norden. Dort lebten später Nabal und Abigajil (1. Samuel 25,2).
 > Das Jesreel hier ist ebenfalls ein Ort in Juda, nicht die bekannte Ebene im Norden.
 > In der griechischen Übersetzung der Bibel steht nach Vers 59 noch eine Liste mit elf weiteren Städten, darunter Betlehem. Im hebräischen Text und in der englischen Vorlage fehlt diese Liste.
 

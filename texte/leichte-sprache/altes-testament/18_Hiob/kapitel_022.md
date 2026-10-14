@@ -1,5 +1,5 @@
 # Hiob – Kapitel 22
-### Elifas' dritte Rede: Offene Anklage
+### Elifas’ dritte Rede: Offene Anklage
 
 ---
 

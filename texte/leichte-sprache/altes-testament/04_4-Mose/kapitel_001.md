@@ -74,63 +74,63 @@ nach der Zahl der Namen, von 20 Jahren an und älter, einer nach dem anderen.
 [20] Die Nachkommen von Ruben, dem Erstgeborenen Israels, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen, einer nach dem anderen,
 alle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[21] Die Gezählten vom Stamm Ruben waren 46.500.
+[21] Die Gezählten vom Stamm Ruben waren 46 500.
 
 [22] Von den Nachkommen Simeons, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, die von ihm Gezählten, nach der Zahl der Namen, einer nach dem anderen,
 alle Männer von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[23] Die Gezählten vom Stamm Simeon waren 59.300.
+[23] Die Gezählten vom Stamm Simeon waren 59 300.
 
 [24] Von den Nachkommen Gads, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[25] Die Gezählten vom Stamm Gad waren 45.650.
+[25] Die Gezählten vom Stamm Gad waren 45 650.
 
 [26] Von den Nachkommen Judas, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[27] Die Gezählten vom Stamm Juda waren 74.600.
+[27] Die Gezählten vom Stamm Juda waren 74 600.
 
 [28] Von den Nachkommen Issachars, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[29] Die Gezählten vom Stamm Issachar waren 54.400.
+[29] Die Gezählten vom Stamm Issachar waren 54 400.
 
 [30] Von den Nachkommen Sebulons, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[31] Die Gezählten vom Stamm Sebulon waren 57.400.
+[31] Die Gezählten vom Stamm Sebulon waren 57 400.
 
 [32] Von den Nachkommen Josefs:
 Von den Nachkommen Efraims, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[33] Die Gezählten vom Stamm Efraim waren 40.500.
+[33] Die Gezählten vom Stamm Efraim waren 40 500.
 
 [34] Von den Nachkommen Manasses, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[35] Die Gezählten vom Stamm Manasse waren 32.200.
+[35] Die Gezählten vom Stamm Manasse waren 32 200.
 
 [36] Von den Nachkommen Benjamins, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[37] Die Gezählten vom Stamm Benjamin waren 35.400.
+[37] Die Gezählten vom Stamm Benjamin waren 35 400.
 
 [38] Von den Nachkommen Dans, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[39] Die Gezählten vom Stamm Dan waren 62.700.
+[39] Die Gezählten vom Stamm Dan waren 62 700.
 
 [40] Von den Nachkommen Aschers, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[41] Die Gezählten vom Stamm Ascher waren 41.500.
+[41] Die Gezählten vom Stamm Ascher waren 41 500.
 
 [42] Von den Nachkommen Naftalis, nach ihrer Abstammung,
 nach ihren Sippen und nach ihren Familien, nach der Zahl der Namen,
 von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
-[43] Die Gezählten vom Stamm Naftali waren 53.400.
+[43] Die Gezählten vom Stamm Naftali waren 53 400.
 
 > **Was bedeutet das?**
 > Für jeden Stamm wird dieselbe Formel wiederholt. Das kann beim Lesen ermüden. Aber es zeigt: Jeder Stamm ist gleich wichtig. Keiner wird vergessen oder abgekürzt.
@@ -144,10 +144,10 @@ von 20 Jahren an und älter, alle, die in den Krieg ziehen konnten:
 zusammen mit den zwölf Anführern Israels, je einer für seine Familie.
 [45] Alle Gezählten der Israeliten, nach ihren Familien, von 20 Jahren an und älter,
 alle in Israel, die in den Krieg ziehen konnten –
-[46] alle Gezählten waren 603.550.
+[46] alle Gezählten waren 603 550.
 
 > **Was bedeutet das?**
-> 603.550 Männer, dazu Frauen, Kinder und alte Menschen. Das wären insgesamt vielleicht zwei Millionen Menschen. Das ist eine riesige Zahl für eine Wanderung durch die Wüste.
+> 603 550 Männer, dazu Frauen, Kinder und alte Menschen. Das wären insgesamt vielleicht zwei Millionen Menschen. Das ist eine riesige Zahl für eine Wanderung durch die Wüste.
 > Manche Forscher denken, dass das hebräische Wort für „tausend“ (Elef) hier auch „Sippe“ oder „Truppe“ bedeuten könnte. Dann wären es viel weniger Menschen gewesen. Andere nehmen die Zahlen wörtlich. Die Bibel will vor allem zeigen: Gott hat sein Versprechen an Abraham gehalten. Aus einer Familie ist ein großes Volk geworden (1. Mose 15,5).
 > Dieselbe Zahl kam schon bei der Abgabe für das Heiligtum vor (2. Mose 38,26).
 

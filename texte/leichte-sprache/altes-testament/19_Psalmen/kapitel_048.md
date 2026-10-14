@@ -30,7 +30,7 @@ sie zogen gemeinsam vorüber.
 Sie erschraken. Sie flohen eilig.
 [6] Zittern ergriff sie dort,
 Wehen wie bei einer Frau, die gebiert.
-[7] Mit dem Ostwind zerbrichst du die Tarsis-Schiffe.
+[7] Mit dem Ostwind zerbrichst du die Tarschisch-Schiffe.
 [8] Wie wir es gehört haben, so haben wir es gesehen
 in der Stadt des HERRN der Heere, in der Stadt unseres Gottes.
 Gott wird sie festigen für immer.
@@ -38,7 +38,7 @@ Sela.
 
 > **Was bedeutet das?**
 > Feindliche Könige zogen gegen Jerusalem. Aber als sie die Stadt sahen, bekamen sie Angst und flohen. Man denkt dabei an die Assyrer unter Sanherib, die abziehen mussten (2. Könige 19,35–36).
-> Vers 7: „Tarsis-Schiffe“ waren große Handelsschiffe für weite Fahrten. Der heiße Ostwind aus der Wüste konnte sie zerstören. So schnell kann Gott menschliche Macht zerbrechen.
+> Vers 7: „Tarschisch-Schiffe“ waren große Handelsschiffe für weite Fahrten. Der heiße Ostwind aus der Wüste konnte sie zerstören. So schnell kann Gott menschliche Macht zerbrechen.
 > Vers 8: „Wie wir es gehört haben, so haben wir es gesehen“: Was die Vorfahren erzählt haben, haben wir jetzt selbst erlebt.
 
 ---

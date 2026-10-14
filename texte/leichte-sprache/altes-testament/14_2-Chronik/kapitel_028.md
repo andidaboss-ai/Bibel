@@ -34,14 +34,14 @@ führten eine große Menge Gefangene von ihm weg
 und brachten sie nach Damaskus.
 Er wurde auch in die Hand des Königs von Israel gegeben,
 der ihm eine schwere Niederlage beibrachte.
-[6] Denn Pekach, der Sohn Remaljas, tötete in Juda an einem Tag 120 000,
+[6] Denn Pekach, der Sohn Remaljas, tötete in Juda an einem Tag 120 000,
 alles tapfere Männer,
 weil sie den HERRN, den Gott ihrer Väter, verlassen hatten.
 [7] Sichri, ein starker Krieger aus Efraim,
 tötete Maaseja, den Sohn des Königs,
 Asrikam, den Verwalter des Palastes,
 und Elkana, den zweiten Mann nach dem König.
-[8] Die Kinder Israels führten von ihren Brüdern 200 000 gefangen weg,
+[8] Die Kinder Israels führten von ihren Brüdern 200 000 gefangen weg,
 Frauen, Söhne und Töchter.
 Sie nahmen ihnen auch viel Beute weg
 und brachten die Beute nach Samaria.

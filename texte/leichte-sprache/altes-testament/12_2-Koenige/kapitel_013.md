@@ -26,7 +26,7 @@ zu denen er Israel verführt hatte,
 sondern lebten weiter darin.
 Auch die Aschera blieb in Samaria stehen. –
 [7] Denn er hatte Joahas vom Volk nicht mehr übrig gelassen
-als fünfzig Reiter, zehn Wagen und 10 000 Fußsoldaten.
+als fünfzig Reiter, zehn Wagen und 10 000 Fußsoldaten.
 Denn der König von Syrien hatte sie vernichtet
 und sie gemacht wie Staub beim Dreschen.
 [8] Was sonst noch von Joahas zu erzählen ist,

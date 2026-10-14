@@ -35,7 +35,7 @@ wären es mehr, als man zählen kann.
 
 ## Deinen Willen tue ich gern (Vers 6–10)
 
-[6] Schlachtopfer und Speisopfer wolltest du nicht.
+[6] Schlachtopfer und Speiseopfer wolltest du nicht.
 Du hast mir die Ohren geöffnet.
 Brandopfer und Sündopfer hast du nicht verlangt.
 [7] Da sagte ich: „Schau, ich komme.

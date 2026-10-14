@@ -20,7 +20,7 @@ Nein, er würde auf mich hören.
 So würde ich für immer frei sein von meinem Richter.
 
 > **Was bedeutet das?**
-> Hiob antwortet nicht mehr auf Elifas' Vorwürfe. Er hat genug von den Freunden. Er wendet sich wieder Gott zu.
+> Hiob antwortet nicht mehr auf Elifas’ Vorwürfe. Er hat genug von den Freunden. Er wendet sich wieder Gott zu.
 > Vers 3 ist einer der bewegendsten Sätze im Buch: „Ach, wüsste ich doch, wo ich ihn finden könnte!“ Hiob sehnt sich nach Gott. Er will ihn nicht loswerden, er will ihn finden.
 > Vers 6 zeigt Hiobs tiefes Vertrauen: Gott würde mich nicht mit seiner Macht erschlagen. Er würde mir zuhören. Hiob glaubt an einen gerechten Gott, auch wenn er ihn gerade nicht versteht.
 

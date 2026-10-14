@@ -64,7 +64,7 @@ Sei stark und mutig.
 Fürchte dich nicht und erschrick nicht.
 [14] Schau, ich habe in meiner Mühsal für das Haus des HERRN vorbereitet:
 etwa 3400 Tonnen Gold
-und etwa 34 000 Tonnen Silber,
+und etwa 34 000 Tonnen Silber,
 dazu Bronze und Eisen ohne Gewicht, denn es ist in Menge da.
 Auch Holz und Steine habe ich vorbereitet.
 Und du kannst noch mehr dazutun.
@@ -79,7 +79,7 @@ und der HERR sei mit dir!“
 > Hier steht der Grund, warum David den Tempel nicht bauen durfte: Er hatte viel Blut vergossen. Gottes Haus soll ein Haus des Friedens sein. Das passt zu Salomo, dessen Name „der Friedliche“ bedeutet (hebräisch „Schalom“ heißt „Frieden“).
 > David gibt seinem Sohn einen Rat für das Leben: Halte Gottes Gesetz. „Sei stark und mutig. Fürchte dich nicht.“ So hatte auch Mose zu Josua gesprochen (Josua 1,6–9).
 > „In meiner Mühsal“: David hat trotz vieler Schwierigkeiten das Material zusammengetragen.
-> In der Bibel steht „100 000 Talente Gold und 1 000 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das wären unvorstellbar große Mengen, viel mehr als alles Gold, das damals in der ganzen Gegend vorhanden war. Die Zahlen wollen wohl ausdrücken: Es war unermesslich viel. Vielleicht wurden sie auch beim Abschreiben verändert.
+> In der Bibel steht „100 000 Talente Gold und 1 000 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das wären unvorstellbar große Mengen, viel mehr als alles Gold, das damals in der ganzen Gegend vorhanden war. Die Zahlen wollen wohl ausdrücken: Es war unermesslich viel. Vielleicht wurden sie auch beim Abschreiben verändert.
 
 ---
 

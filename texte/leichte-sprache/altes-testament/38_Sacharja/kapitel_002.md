@@ -58,7 +58,7 @@ Und ihr werdet erkennen, dass der HERR der Heere mich gesandt hat.
 
 ## Viele Völker werden zu Gott kommen (Vers 10–13)
 
-[10] Singe und freue dich, Tochter Zion!
+[10] „Singe und freue dich, Tochter Zion!
 Denn siehe, ich komme und werde in deiner Mitte wohnen“,
 spricht der HERR.
 [11] An jenem Tag werden sich viele Völker dem HERRN anschließen
@@ -68,7 +68,7 @@ und du wirst erkennen, dass der HERR der Heere mich zu dir gesandt hat.
 [12] Der HERR wird Juda als seinen Anteil im heiligen Land in Besitz nehmen
 und wird Jerusalem wieder erwählen.
 [13] Alles Fleisch sei still vor dem HERRN,
-denn er hat sich aufgemacht aus seiner heiligen Wohnung!“
+denn er hat sich aufgemacht aus seiner heiligen Wohnung!
 
 > **Was bedeutet das?**
 > Vers 10: Gott kommt selbst und wohnt mitten in seinem Volk. Im Johannesevangelium heißt es über Jesus: „Das Wort wurde Fleisch und wohnte unter uns“ (Johannes 1,14).

@@ -225,7 +225,7 @@ wie wollt ihr dann meinen Worten glauben?“
 > **Was bedeutet das?**
 > Nach dem Gesetz Moses brauchte man mindestens zwei Zeugen (5. Mose 19,15). Jesus nennt mehrere: Johannes den Täufer, seine eigenen Werke, den Vater selbst und die Heilige Schrift.
 > Vers 39: Das Studium der Heiligen Schrift war und ist im Judentum sehr wichtig. Jesus sagt nicht, dass das falsch ist. Er sagt: Die Schrift weist auf mich hin.
-> Vers 42: Das WEB sagt „God's love“. Gemeint ist wohl: die Liebe zu Gott. Man kann es auch als „die Liebe Gottes“ verstehen.
+> Vers 42: Das WEB sagt „God’s love“. Gemeint ist wohl: die Liebe zu Gott. Man kann es auch als „die Liebe Gottes“ verstehen.
 > Vers 45–46: Mose ist für Jesus ein Zeuge, kein Gegner. Jesus steht ganz in der Tradition der Heiligen Schrift Israels.
 > Wichtig: Diese harten Worte richten sich an bestimmte Gegner in einem Streitgespräch. Sie sind kein Urteil über das jüdische Volk oder über jüdische Menschen heute.
 > Für heute: Wer die Bibel liest, soll nicht nur Wissen sammeln, sondern Gott begegnen.

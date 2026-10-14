@@ -22,7 +22,7 @@ Leg einen Hinterhalt gegen die Stadt, hinter ihr.“
 ## Der Plan mit dem Hinterhalt (Vers 3–13)
 
 [3] Da machte sich Josua mit allen Kriegern auf, um nach Ai hinaufzuziehen.
-Josua wählte 30.000 Mann aus, tapfere Krieger, und schickte sie in der Nacht los.
+Josua wählte 30 000 Mann aus, tapfere Krieger, und schickte sie in der Nacht los.
 [4] Er gebot ihnen:
 „Schaut, ihr sollt euch hinter der Stadt in einen Hinterhalt legen.
 Entfernt euch nicht sehr weit von der Stadt, sondern seid alle bereit.
@@ -50,7 +50,7 @@ und seinen Hinterhalt westlich der Stadt.
 Und Josua ging in dieser Nacht mitten in das Tal.
 
 > **Was bedeutet das?**
-> Die Zahlen sind verwirrend: In Vers 3 sind es 30.000 Mann, in Vers 12 nur 5000 im Hinterhalt. Ausleger erklären das unterschiedlich. Vielleicht gab es zwei Gruppen. Vielleicht wurde der Text bei der Überlieferung verändert. Das hebräische Wort für „tausend“ kann auch eine militärische Einheit bedeuten, die viel kleiner war. Dann wären die Zahlen viel kleiner gewesen.
+> Die Zahlen sind verwirrend: In Vers 3 sind es 30 000 Mann, in Vers 12 nur 5000 im Hinterhalt. Ausleger erklären das unterschiedlich. Vielleicht gab es zwei Gruppen. Vielleicht wurde der Text bei der Überlieferung verändert. Das hebräische Wort für „tausend“ kann auch eine militärische Einheit bedeuten, die viel kleiner war. Dann wären die Zahlen viel kleiner gewesen.
 > Josua benutzt die Niederlage aus Kapitel 7 als List: Die Männer von Ai denken, Israel flieht wieder.
 
 ---
@@ -97,7 +97,7 @@ Sie schlugen sie, bis keiner von ihnen übrig blieb oder entkam.
 [24] Als Israel alle Bewohner von Ai auf dem Feld, in der Wüste, wo sie sie verfolgt hatten, getötet hatte,
 und alle durch die Schärfe des Schwertes gefallen waren, bis sie ganz aufgerieben waren,
 da kehrte ganz Israel nach Ai zurück und schlug es mit der Schärfe des Schwertes.
-[25] Alle, die an diesem Tag fielen, Männer und Frauen, waren 12.000,
+[25] Alle, die an diesem Tag fielen, Männer und Frauen, waren 12 000,
 alle Leute von Ai.
 [26] Denn Josua zog seine Hand, mit der er den Speer ausgestreckt hatte, nicht zurück,
 bis er an allen Bewohnern von Ai den Bann vollstreckt hatte.

@@ -131,9 +131,9 @@ darum will ich diese ganze große Menge in deine Hand geben.
 Und ihr werdet erkennen, dass ich der HERR bin.‘“
 [29] Sie lagerten sieben Tage einander gegenüber.
 Am siebten Tag begann der Kampf.
-Die Israeliten erschlugen an einem Tag 100 000 Fußsoldaten der Syrer.
+Die Israeliten erschlugen an einem Tag 100 000 Fußsoldaten der Syrer.
 [30] Die übrigen flohen nach Afek, in die Stadt.
-Da fiel die Mauer auf die 27 000 Männer, die übrig geblieben waren.
+Da fiel die Mauer auf die 27 000 Männer, die übrig geblieben waren.
 Ben-Hadad floh und kam in die Stadt, in einen inneren Raum.
 
 > **Was bedeutet das?**

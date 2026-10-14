@@ -94,7 +94,7 @@ und sein Sohn Pekachja wurde an seiner Stelle König.
 > **Was bedeutet das?**
 > Jetzt tritt eine neue Großmacht auf: Assyrien, im Gebiet des heutigen Irak. Die Assyrer waren für ihre Grausamkeit gefürchtet.
 > „Pul“ ist ein anderer Name für Tiglat-Pileser III., der von 745 bis 727 vor Christus regierte. Er ist aus vielen assyrischen Inschriften bekannt. Darin wird auch erwähnt, dass „Menahem von Samaria“ ihm Tribut gezahlt hat.
-> In der Bibel steht „1000 Talente Silber“ (ein Talent sind etwa 34 Kilogramm) und „50 Schekel“ pro Mann (ein Schekel sind etwa 11 Gramm). Wenn man rechnet, mussten etwa 60 000 wohlhabende Männer bezahlen.
+> In der Bibel steht „1000 Talente Silber“ (ein Talent sind etwa 34 Kilogramm) und „50 Schekel“ pro Mann (ein Schekel sind etwa 11 Gramm). Wenn man rechnet, mussten etwa 60 000 wohlhabende Männer bezahlen.
 > Menahem kauft sich Schutz. Damit wird Israel abhängig von Assyrien.
 
 ---

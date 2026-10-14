@@ -100,7 +100,7 @@ um seine Weisheit zu hören, die Gott ihm ins Herz gegeben hatte.
 [25] Jahr für Jahr brachte jeder sein Geschenk:
 Geräte aus Silber, Geräte aus Gold, Kleider, Waffen, Gewürze, Pferde und Maultiere.
 [26] Salomo sammelte Wagen und Reiter.
-Er hatte 1400 Wagen und 12 000 Reiter.
+Er hatte 1400 Wagen und 12 000 Reiter.
 Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
 [27] Der König machte in Jerusalem das Silber so häufig wie Steine
 und die Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.

@@ -163,4 +163,4 @@ und vom Tempel: ‚Dein Fundament wird gelegt werden.‘“
 > Vers 25: Babylon war berühmt für seine Sterndeuter und Wahrsager. Gott sagt: Ihre Vorhersagen werden sich als falsch erweisen.
 > Vers 26–28: Gott aber hält sein Wort. Jerusalem und der Tempel werden wieder aufgebaut.
 > Vers 28: Hier wird zum ersten Mal der Name genannt: Kyrus, der König der Perser. Gott nennt ihn „mein Hirte“, obwohl er ein fremder König ist, der Gott nicht kennt. Kyrus erlaubte tatsächlich im Jahr 538 vor Christus den Juden, heimzukehren und den Tempel wieder aufzubauen (Esra 1,1–4).
-> Viele Forscher meinen, dass dieser Teil des Jesajabuches zur Zeit des Kyrus von einem späteren Propheten in der Tradition Jesajas geschrieben wurde. Andere, besonders in der jüdischen und christlichen Tradition, sehen hier eine Vorhersage Jesajas lange vor Kyrus' Zeit.
+> Viele Forscher meinen, dass dieser Teil des Jesajabuches zur Zeit des Kyrus von einem späteren Propheten in der Tradition Jesajas geschrieben wurde. Andere, besonders in der jüdischen und christlichen Tradition, sehen hier eine Vorhersage Jesajas lange vor Kyrus’ Zeit.

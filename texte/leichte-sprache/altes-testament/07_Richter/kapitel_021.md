@@ -39,7 +39,7 @@ dass wir ihnen keine von unseren Töchtern zur Frau geben.“
 Und schau: Niemand aus Jabesch in Gilead war ins Lager gekommen, zur Versammlung.
 [9] Denn als das Volk gezählt wurde,
 schau, da war keiner von den Bewohnern von Jabesch in Gilead dort.
-[10] Die Gemeinde schickte 12 000 von den tapfersten Männern dorthin.
+[10] Die Gemeinde schickte 12 000 von den tapfersten Männern dorthin.
 Sie befahl ihnen:
 „Geht und schlagt die Bewohner von Jabesch in Gilead mit der Schärfe des Schwertes,
 auch die Frauen und die kleinen Kinder.

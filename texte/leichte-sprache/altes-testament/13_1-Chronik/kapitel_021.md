@@ -20,8 +20,8 @@ Da ging Joab weg,
 zog durch ganz Israel
 und kam nach Jerusalem zurück.
 [5] Joab gab David die Zahl der Volkszählung.
-In ganz Israel waren 1 100 000 Männer, die das Schwert zogen,
-und in Juda 470 000 Männer, die das Schwert zogen.
+In ganz Israel waren 1 100 000 Männer, die das Schwert zogen,
+und in Juda 470 000 Männer, die das Schwert zogen.
 [6] Aber Levi und Benjamin zählte er nicht mit,
 denn das Wort des Königs war Joab ein Gräuel.
 [7] Gott missfiel diese Sache.
@@ -31,7 +31,7 @@ Darum schlug er Israel.
 > David will wissen, wie viele Krieger er hat. Das klingt harmlos, aber es zeigt: Er vertraut auf die Zahl seiner Soldaten, nicht auf Gott. Er behandelt das Volk, als gehöre es ihm, nicht Gott.
 > Sogar Joab, der sonst nicht zimperlich ist, warnt David.
 > Hier steht „der Satan“. Das hebräische Wort heißt „Widersacher“ oder „Ankläger“. In 2. Samuel 24,1 steht an dieser Stelle: „Der Zorn des HERRN entbrannte gegen Israel, und er reizte David.“ Die Chronik, die später geschrieben wurde, sagt es anders: Nicht Gott selbst, sondern der Satan hat David verführt. Beide Texte sagen: Hinter der Versuchung steht eine Macht, die größer ist als David. Und beide sagen: David ist trotzdem selbst verantwortlich.
-> Die Zahlen unterscheiden sich von 2. Samuel 24,9 (dort 800 000 und 500 000).
+> Die Zahlen unterscheiden sich von 2. Samuel 24,9 (dort 800 000 und 500 000).
 > Levi wurde nicht gezählt, weil die Leviten keinen Kriegsdienst taten (4. Mose 1,47–49).
 
 ---
@@ -74,7 +74,7 @@ Aber lass mich nicht in die Hand von Menschen fallen.“
 ## Die Pest und der Engel über Jerusalem (Vers 14–17)
 
 [14] Da schickte der HERR eine Pest über Israel.
-Und es fielen 70 000 Männer in Israel.
+Und es fielen 70 000 Männer in Israel.
 [15] Gott schickte einen Engel nach Jerusalem, um es zu verderben.
 Als er gerade verderben wollte, sah es der HERR,
 und es reute ihn das Unheil.

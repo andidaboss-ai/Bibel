@@ -160,7 +160,7 @@ und diese Schrift geschrieben.
 ## Mene, mene, tekel, u-parsin (Vers 25–31)
 
 [25] Das ist die Schrift, die geschrieben wurde:
-„MENE, MENE, TEKEL, U-PARSIN.“
+‚MENE, MENE, TEKEL, U-PARSIN.‘
 [26] Das ist die Deutung der Sache:
 MENE: Gott hat dein Königtum gezählt
 und ihm ein Ende gemacht.

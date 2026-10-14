@@ -117,7 +117,7 @@ und es an die Hörner des Brandopferaltars streichen.
 Das ganze übrige Blut soll er unten an den Altar gießen.
 [35] Das ganze Fett soll er herausnehmen, so wie man das Fett des Lammes beim Gemeinschaftsopfer herausnimmt.
 Der Priester soll es auf dem Altar verbrennen, auf den Feueropfern für den HERRN.
-So soll der Priester für ihn Versöhnung schaffen wegen der Sünde, die er begangen hat, und es wird ihm vergeben.‘“
+So soll der Priester für ihn Versöhnung schaffen wegen der Sünde, die er begangen hat, und es wird ihm vergeben.‘
 
 > **Was bedeutet das?**
 > Auch der einfache Mensch kann vergeben bekommen. Er bringt eine Ziege oder ein Lamm.

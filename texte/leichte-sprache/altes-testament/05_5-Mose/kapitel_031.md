@@ -151,4 +151,4 @@ und ihn mit dem Werk eurer Hände kränkt.“
 > **Was bedeutet das?**
 > In der Bundeslade lagen die zwei Steintafeln mit den Zehn Geboten. Das ganze Buch des Gesetzes wird daneben gelegt. So ist es am heiligsten Ort aufbewahrt.
 > Mose spricht sehr ehrlich, fast traurig. Er kennt sein Volk gut. Er weiß, wie oft es sich gegen Gott aufgelehnt hat.
-> Später, zur Zeit von König Josia, wurde im Tempel ein „Buch des Gesetzes“ wiedergefunden, das lange vergessen war. Als man es vorlas, erschrak der König und erneuerte den Bund mit Gott (2. Könige 22–23).
+> Später, zur Zeit von König Joschija, wurde im Tempel ein „Buch des Gesetzes“ wiedergefunden, das lange vergessen war. Als man es vorlas, erschrak der König und erneuerte den Bund mit Gott (2. Könige 22–23).

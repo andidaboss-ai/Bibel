@@ -133,7 +133,7 @@ Und der Geheimnisse offenbart, hat dir kundgetan, was geschehen wird.
 [30] Mir aber ist dieses Geheimnis nicht offenbart worden
 wegen einer Weisheit, die ich mehr hätte als alle Lebenden,
 sondern damit dem König die Deutung kundgetan wird
-und du die Gedanken deines Herzens erkennst.“
+und du die Gedanken deines Herzens erkennst.
 
 > **Was bedeutet das?**
 > Vers 24: Daniel denkt nicht nur an sich selbst. Er bittet zuerst, dass auch die anderen Weisen nicht getötet werden, obwohl sie Heiden sind.
@@ -232,7 +232,7 @@ und seine Deutung ist zuverlässig.“
 
 [46] Da fiel der König Nebukadnezar auf sein Gesicht,
 huldigte Daniel
-und befahl, ihm Speisopfer und Räucherwerk darzubringen.
+und befahl, ihm Speiseopfer und Räucherwerk darzubringen.
 [47] Der König antwortete Daniel und sagte:
 „Wahrhaftig, euer Gott ist der Gott der Götter
 und der Herr der Könige

@@ -20,5 +20,5 @@ Leben für immer.
 > Ein kurzer, fröhlicher Psalm über Gemeinschaft. „Brüder“ meint alle, die zusammengehören: Geschwister, Familien, das ganze Volk. Bei den Wallfahrten kamen Menschen aus allen Stämmen zusammen.
 > Vers 2: Aaron, der erste Hohepriester, wurde mit duftendem Öl gesalbt (2. Mose 29,7). Das Öl floss reichlich herab. So reich und wohltuend ist es, wenn Menschen in Frieden zusammenleben.
 > Vers 3: Der Hermon ist ein hoher Berg im Norden mit viel Tau. Zion liegt weiter im Süden und ist trockener. Eintracht ist wie frischer Tau, der Leben bringt.
-> Der Anfang dieses Psalms ist ein bekanntes jüdisches Lied: „Hine ma tov uma na'im“.
+> Der Anfang dieses Psalms ist ein bekanntes jüdisches Lied: „Hine ma tov uma na’im“.
 

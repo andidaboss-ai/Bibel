@@ -24,8 +24,8 @@ Er ließ nicht davon ab.
 ## Drei Könige ziehen gegen Moab (Vers 4–12)
 
 [4] Mescha, der König von Moab, war ein Schafzüchter.
-Er musste dem König von Israel 100 000 Lämmer
-und die Wolle von 100 000 Widdern liefern.
+Er musste dem König von Israel 100 000 Lämmer
+und die Wolle von 100 000 Widdern liefern.
 [5] Aber als Ahab tot war,
 fiel der König von Moab vom König von Israel ab.
 [6] Da zog der König Joram zu dieser Zeit von Samaria aus

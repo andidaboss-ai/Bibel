@@ -70,7 +70,7 @@ wie die Klage von Hadad-Rimmon in der Ebene von Megiddo.
 [12] Das Land wird klagen,
 jede Sippe für sich:
 die Sippe des Hauses David für sich und ihre Frauen für sich,
-die Sippe des Hauses Nathan für sich und ihre Frauen für sich,
+die Sippe des Hauses Natan für sich und ihre Frauen für sich,
 [13] die Sippe des Hauses Levi für sich und ihre Frauen für sich,
 die Sippe der Schimeiter für sich und ihre Frauen für sich,
 [14] alle übrigen Sippen,
@@ -81,6 +81,6 @@ jede Sippe für sich und ihre Frauen für sich.
 > Wer ist der Durchbohrte? Im hebräischen Text steht „auf mich“, also auf Gott selbst, und dann „um ihn“. Das ist schwer zu verstehen. Manche alte Handschriften und Übersetzungen lesen „auf den, den sie durchbohrt haben“.
 > Im Johannesevangelium wird dieser Vers zitiert, als ein Soldat Jesus am Kreuz mit einer Lanze in die Seite sticht: „Sie werden auf den sehen, den sie durchbohrt haben“ (Johannes 19,37; vgl. Offenbarung 1,7).
 > In der jüdischen Tradition wird der Vers unterschiedlich gedeutet, zum Beispiel auf einen Messias, der im Kampf fällt, oder auf einen Märtyrer.
-> Vers 11: Hadad-Rimmon ist wahrscheinlich ein Ort bei Megiddo. Vielleicht erinnert der Vers an die große Trauer um den guten König Josia, der bei Megiddo im Kampf getötet wurde (2. Chronik 35,22–25).
+> Vers 11: Hadad-Rimmon ist wahrscheinlich ein Ort bei Megiddo. Vielleicht erinnert der Vers an die große Trauer um den guten König Joschija, der bei Megiddo im Kampf getötet wurde (2. Chronik 35,22–25).
 > Vers 12–14: Das ganze Volk trauert, jede Familie für sich, die Männer und die Frauen getrennt, wie es bei Trauerfeiern damals üblich war. Alle sind betroffen: das Königshaus (David, Nathan) und die Priesterfamilien (Levi, Schimei).
 

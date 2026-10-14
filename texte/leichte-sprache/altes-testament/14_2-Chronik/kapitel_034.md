@@ -1,11 +1,11 @@
 # 2. Chronik – Kapitel 34
-### Josia und das gefundene Gesetzbuch
+### Joschija und das gefundene Gesetzbuch
 
 ---
 
-## Josia sucht Gott schon als Junge (Vers 1–7)
+## Joschija sucht Gott schon als Junge (Vers 1–7)
 
-[1] Josia war acht Jahre alt, als er König wurde,
+[1] Joschija war acht Jahre alt, als er König wurde,
 und er regierte 31 Jahre in Jerusalem.
 [2] Er tat, was recht war in den Augen des HERRN,
 und ging auf den Wegen seines Vaters David
@@ -30,10 +30,10 @@ und hieb alle Räucheraltäre im ganzen Land Israel um.
 Dann kehrte er nach Jerusalem zurück.
 
 > **Was bedeutet das?**
-> Diese Geschichte steht auch in 2. Könige 22–23. Josia regierte etwa von 640 bis 609 vor Christus.
-> Mit 16 Jahren (im achten Jahr seiner Regierung) fängt Josia an, Gott zu suchen. Mit 20 Jahren (im zwölften Jahr) beginnt er, das Land von den Götzen zu reinigen. Sein Großvater Manasse und sein Vater Amon hatten das Land mit Götzen gefüllt.
+> Diese Geschichte steht auch in 2. Könige 22–23. Joschija regierte etwa von 640 bis 609 vor Christus.
+> Mit 16 Jahren (im achten Jahr seiner Regierung) fängt Joschija an, Gott zu suchen. Mit 20 Jahren (im zwölften Jahr) beginnt er, das Land von den Götzen zu reinigen. Sein Großvater Manasse und sein Vater Amon hatten das Land mit Götzen gefüllt.
 > „Weder nach rechts noch nach links“: Er ging geradeaus auf Gottes Weg (vgl. 5. Mose 5,32).
-> Josia reinigt auch das Gebiet des ehemaligen Nordreichs. Das assyrische Reich wurde damals schwächer. So konnte Josia auch dort handeln.
+> Joschija reinigt auch das Gebiet des ehemaligen Nordreichs. Das assyrische Reich wurde damals schwächer. So konnte Joschija auch dort handeln.
 > Die Gebeine der Götzenpriester auf ihren Altären zu verbrennen, machte diese Altäre für immer unrein. So konnte dort niemand mehr opfern. Ein Prophet hatte das schon 300 Jahre vorher angekündigt (1. Könige 13,2).
 
 ---
@@ -67,8 +67,8 @@ und leiteten alle, die die Arbeit in jeder Art von Dienst taten.
 Von den Leviten waren auch Schreiber, Beamte und Torhüter.
 
 > **Was bedeutet das?**
-> Josia ist jetzt 26 Jahre alt. Nachdem er das Land gereinigt hat, lässt er den Tempel reparieren.
-> Das Geld kommt auch aus dem Norden, „vom ganzen Rest Israels“. Josia sieht das ganze Volk als Einheit.
+> Joschija ist jetzt 26 Jahre alt. Nachdem er das Land gereinigt hat, lässt er den Tempel reparieren.
+> Das Geld kommt auch aus dem Norden, „vom ganzen Rest Israels“. Joschija sieht das ganze Volk als Einheit.
 > Schön ist das Detail in Vers 12: Die Aufseher waren Musiker. Vielleicht haben sie mit Musik die Arbeit begleitet.
 
 ---
@@ -104,8 +104,8 @@ um alles zu tun, was in diesem Buch geschrieben steht.“
 
 > **Was bedeutet das?**
 > Bei den Arbeiten im Tempel wird ein Buch gefunden: das Gesetz des Mose. Unter Manasse war es wohl vergessen oder versteckt worden.
-> Viele Fachleute meinen, dass es sich um das 5. Buch Mose (Deuteronomium) handelte, oder um einen großen Teil davon. Denn Josias Reformen passen sehr genau zu dem, was dort steht.
-> Josia zerreißt seine Kleider. Das ist ein Zeichen tiefer Trauer und Erschütterung. Er merkt: Wir haben Gottes Wort nicht gehalten. Er nimmt Gottes Wort ernst.
+> Viele Fachleute meinen, dass es sich um das 5. Buch Mose (Deuteronomium) handelte, oder um einen großen Teil davon. Denn Joschijas Reformen passen sehr genau zu dem, was dort steht.
+> Joschija zerreißt seine Kleider. Das ist ein Zeichen tiefer Trauer und Erschütterung. Er merkt: Wir haben Gottes Wort nicht gehalten. Er nimmt Gottes Wort ernst.
 > Er fragt auch für „die, die in Israel übrig geblieben sind“. Er denkt an das ganze Volk.
 
 ---
@@ -147,8 +147,8 @@ Sie brachten dem König diese Antwort.
 
 > **Was bedeutet das?**
 > Der König schickt seine wichtigsten Männer zu einer Frau: der Prophetin Hulda. Sie war damals eine anerkannte Prophetin. Das zeigt: Gott spricht auch durch Frauen. Zur selben Zeit lebten die Propheten Jeremia und Zefanja.
-> Hulda sagt zwei Dinge: Das Gericht über Jerusalem wird kommen, weil das Volk Gott so lange verlassen hat. Aber Josia wird es nicht erleben, weil sein Herz weich geworden ist und er sich gedemütigt hat.
-> „In Frieden in dein Grab“: Josia stirbt später in einer Schlacht (Kapitel 35). Gemeint ist wohl: Er stirbt, bevor Jerusalem zerstört wird. Er muss den Untergang nicht mehr sehen.
+> Hulda sagt zwei Dinge: Das Gericht über Jerusalem wird kommen, weil das Volk Gott so lange verlassen hat. Aber Joschija wird es nicht erleben, weil sein Herz weich geworden ist und er sich gedemütigt hat.
+> „In Frieden in dein Grab“: Joschija stirbt später in einer Schlacht (Kapitel 35). Gemeint ist wohl: Er stirbt, bevor Jerusalem zerstört wird. Er muss den Untergang nicht mehr sehen.
 > „Der zweite Stadtteil“ war wohl ein neuer Stadtteil im Nordwesten Jerusalems.
 
 ---
@@ -170,14 +170,14 @@ mit ganzem Herzen und mit ganzer Seele,
 um die Worte des Bundes zu tun, die in diesem Buch geschrieben stehen.
 [32] Er ließ alle, die in Jerusalem und Benjamin waren, in den Bund eintreten.
 Und die Bewohner Jerusalems handelten nach dem Bund Gottes, des Gottes ihrer Väter.
-[33] Josia entfernte alle Gräuel aus allen Gebieten, die den Kindern Israels gehörten,
+[33] Joschija entfernte alle Gräuel aus allen Gebieten, die den Kindern Israels gehörten,
 und brachte alle, die in Israel waren, dazu, zu dienen,
 dem HERRN, ihrem Gott, zu dienen.
 Alle seine Tage wichen sie nicht davon ab, dem HERRN, dem Gott ihrer Väter, nachzufolgen.
 
 > **Was bedeutet das?**
-> Josia behält das Gesetzbuch nicht für sich. Er liest es dem ganzen Volk vor, „groß und klein“. Jeder soll Gottes Wort hören.
+> Joschija behält das Gesetzbuch nicht für sich. Er liest es dem ganzen Volk vor, „groß und klein“. Jeder soll Gottes Wort hören.
 > Dann verspricht er feierlich, nach Gottes Wort zu leben, „mit ganzem Herzen und mit ganzer Seele“ (vgl. 5. Mose 6,5).
-> Obwohl Hulda gesagt hatte, dass das Gericht kommt, tut Josia das Richtige. Er gehorcht Gott, nicht um eine Belohnung zu bekommen, sondern weil es richtig ist.
+> Obwohl Hulda gesagt hatte, dass das Gericht kommt, tut Joschija das Richtige. Er gehorcht Gott, nicht um eine Belohnung zu bekommen, sondern weil es richtig ist.
 > „Er ließ alle in den Bund eintreten“: Wörtlich „er ließ sie stehen“, also feierlich aufstehen und zustimmen.
-> „Alle seine Tage“: Solange Josia lebte, blieb das Volk Gott treu. Nach seinem Tod fiel es wieder ab.
+> „Alle seine Tage“: Solange Joschija lebte, blieb das Volk Gott treu. Nach seinem Tod fiel es wieder ab.

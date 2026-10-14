@@ -54,7 +54,7 @@ und weggeworfen.
 Seine Zweige sind weiß geworden.
 [8] Klage wie eine junge Frau, in Sacktuch gekleidet,
 um den Mann ihrer Jugend!
-[9] Speisopfer und Trankopfer sind dem Haus des HERRN entzogen.
+[9] Speiseopfer und Trankopfer sind dem Haus des HERRN entzogen.
 Die Priester, die Diener des HERRN, trauern.
 [10] Das Feld ist verwüstet.
 Das Land trauert,
@@ -87,7 +87,7 @@ Ja, die Freude ist von den Menschen gewichen.
 Heult, ihr Diener des Altars!
 Kommt, verbringt die Nacht in Sacktuch,
 ihr Diener meines Gottes,
-denn Speisopfer und Trankopfer
+denn Speiseopfer und Trankopfer
 sind dem Haus eures Gottes vorenthalten.
 [14] Ruft ein heiliges Fasten aus!
 Beruft eine Festversammlung ein!

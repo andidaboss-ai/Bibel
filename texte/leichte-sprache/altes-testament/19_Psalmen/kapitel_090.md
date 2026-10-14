@@ -66,7 +66,7 @@ damit wir ein weises Herz gewinnen.
 
 > **Was bedeutet das?**
 > Das ist der Kernvers des Psalms. Wer weiß, dass das Leben kurz ist, lebt bewusster und klüger.
-> Luther übersetzte: „Lehre uns bedenken, dass wir sterben müssen, auf dass wir klug werden.“
+> „Unsere Tage zählen“ heißt: daran denken, dass unser Leben ein Ende hat.
 > Es geht nicht darum, Angst vor dem Tod zu haben. Es geht darum, die Zeit, die man hat, gut zu nutzen und das Wichtige vom Unwichtigen zu unterscheiden.
 
 ---

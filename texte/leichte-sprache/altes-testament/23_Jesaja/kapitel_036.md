@@ -38,7 +38,7 @@ Und du vertraust auf Ägypten wegen Streitwagen und Reitern!
 [10] Bin ich etwa ohne den HERRN gegen dieses Land heraufgezogen,
 um es zu verderben?
 Der HERR hat zu mir gesagt:
-‚Zieh hinauf gegen dieses Land und verdirb es!‘“‘“
+„Zieh hinauf gegen dieses Land und verdirb es!“‘“
 
 > **Was bedeutet das?**
 > Kapitel 36–39 erzählen Geschichten aus der Zeit von König Hiskia. Fast genau dieselben Geschichten stehen auch in 2. Könige 18–20.

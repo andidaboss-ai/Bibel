@@ -134,6 +134,6 @@ weißt du sehr gut.
 > Vers 15: „Asien“ war die römische Provinz im Westen der heutigen Türkei, mit der Hauptstadt Ephesus. Viele hatten Paulus im Stich gelassen. Das tat ihm weh.
 > Vers 16–17: Onesiphorus war anders. Er suchte Paulus in Rom, obwohl das gefährlich war, und besuchte ihn im Gefängnis.
 > Für heute: Gefangene, Kranke und Einsame zu besuchen, ist ein Werk der Liebe (vergleiche Matthäus 25,36). Ein Besuch kann viel bedeuten.
-> Vers 18: Paulus spricht von Onesiphorus' „Haus“ und betet für ihn. Manche Ausleger meinen, Onesiphorus war schon gestorben.
+> Vers 18: Paulus spricht von Onesiphorus’ „Haus“ und betet für ihn. Manche Ausleger meinen, Onesiphorus war schon gestorben.
 
 ---

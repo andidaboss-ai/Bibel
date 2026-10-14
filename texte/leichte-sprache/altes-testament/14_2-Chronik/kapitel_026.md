@@ -58,7 +58,7 @@ unter der Leitung Hananjas, eines der Anführer des Königs.
 [12] Die ganze Zahl der Familienoberhäupter,
 der starken, tapferen Krieger,
 war 2600.
-[13] Unter ihrer Leitung stand ein Heer von 307 500 Mann,
+[13] Unter ihrer Leitung stand ein Heer von 307 500 Mann,
 die mit großer Kraft Krieg führten,
 um dem König gegen den Feind zu helfen.
 [14] Usija beschaffte für sie, für das ganze Heer,

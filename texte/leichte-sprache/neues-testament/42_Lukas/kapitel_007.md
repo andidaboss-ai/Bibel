@@ -61,7 +61,7 @@ gesund.
 > Der Hauptmann ist bescheiden. Er weiß vielleicht auch: Ein frommer Jude betrat damals ungern das Haus eines Nichtjuden. Er will Jesus keine Schwierigkeiten machen.
 > Vers 7–8: Der Hauptmann kennt sich mit Befehlen aus. Er vertraut: Jesu Wort hat Macht, auch aus der Ferne.
 > Bei Matthäus kommt der Hauptmann selbst zu Jesus (Matthäus 8,5–13). Lukas erzählt, dass er Boten schickt. Beide Male geht es um sein großes Vertrauen.
-> Die Worte des Hauptmanns werden in der katholischen Messe vor der Kommunion gebetet: „Herr, ich bin nicht würdig ...“
+> Die Worte des Hauptmanns werden in der katholischen Messe vor der Kommunion gebetet: „Herr, ich bin nicht würdig …“
 > Für heute: Glaube gibt es auch dort, wo man ihn nicht erwartet.
 
 ---

@@ -20,7 +20,7 @@ Sie haben dir vertraut und wurden nicht enttäuscht.
 
 > **Was bedeutet das?**
 > Psalm 22 ist einer der wichtigsten Psalmen der ganzen Bibel. Er beginnt mit dem verzweifeltsten Schrei, den es gibt: „Mein Gott, mein Gott, warum hast du mich verlassen?“
-> Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lema sabachtani?“ (Matthäus 27,46; Markus 15,34).
+> Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lema sabachthani?“ (Matthäus 27,46; Markus 15,34).
 > Der Beter fühlt sich von Gott völlig verlassen. Aber er spricht Gott trotzdem an: „Mein Gott“. Er hält an Gott fest, auch wenn er ihn nicht spürt.
 > Vers 2: „Ich schweige nicht“: Ich höre nicht auf zu rufen, Tag und Nacht. Viele deutsche Bibeln übersetzen: „und finde keine Ruhe“.
 > Vers 4–5: Er erinnert sich: Früher hat Gott unseren Vorfahren geholfen. Warum nicht mir?

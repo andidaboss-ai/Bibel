@@ -73,16 +73,16 @@ und Kriegsleute, starke, tapfere Krieger, in Jerusalem.
 
 [14] Dies war ihre Zählung nach ihren Familien:
 Aus Juda die Anführer über Tausend:
-Adna, der Anführer, und mit ihm 300 000 starke, tapfere Krieger.
-[15] Neben ihm Johanan, der Anführer, und mit ihm 280 000.
+Adna, der Anführer, und mit ihm 300 000 starke, tapfere Krieger.
+[15] Neben ihm Johanan, der Anführer, und mit ihm 280 000.
 [16] Neben ihm Amasja, der Sohn Sichris,
 der sich freiwillig dem HERRN zur Verfügung gestellt hatte,
-und mit ihm 200 000 starke, tapfere Krieger.
+und mit ihm 200 000 starke, tapfere Krieger.
 [17] Aus Benjamin:
 Eljada, ein starker, tapferer Krieger,
-und mit ihm 200 000, bewaffnet mit Bogen und Schild.
+und mit ihm 200 000, bewaffnet mit Bogen und Schild.
 [18] Neben ihm Josabad,
-und mit ihm 180 000, gerüstet und bereit zum Krieg.
+und mit ihm 180 000, gerüstet und bereit zum Krieg.
 [19] Diese dienten dem König,
 außer denen, die der König in die befestigten Städte in ganz Juda gelegt hatte.
 

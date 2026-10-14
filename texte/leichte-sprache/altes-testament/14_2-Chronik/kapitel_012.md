@@ -11,7 +11,7 @@ und ganz Israel mit ihm.
 [2] Im fünften Jahr des Königs Rehabeam
 zog Schischak, der König von Ägypten, gegen Jerusalem herauf,
 weil sie dem HERRN untreu geworden waren.
-[3] Er kam mit 1200 Wagen und 60 000 Reitern.
+[3] Er kam mit 1200 Wagen und 60 000 Reitern.
 Und das Volk, das mit ihm aus Ägypten kam, war ohne Zahl:
 Libyer, Sukkiter und Kuschiten.
 [4] Er nahm die befestigten Städte ein, die zu Juda gehörten,

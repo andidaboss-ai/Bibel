@@ -139,7 +139,7 @@ und diese Stadt wird für immer bewohnt bleiben.
 und aus der Umgebung Jerusalems,
 aus dem Land Benjamin, aus dem Hügelland,
 aus dem Bergland und aus dem Süden,
-und sie werden Brandopfer, Schlachtopfer, Speisopfer und Weihrauch bringen
+und sie werden Brandopfer, Schlachtopfer, Speiseopfer und Weihrauch bringen
 und Dankopfer in das Haus des HERRN bringen.
 [27] Wenn ihr aber nicht auf mich hört,
 den Sabbattag zu heiligen

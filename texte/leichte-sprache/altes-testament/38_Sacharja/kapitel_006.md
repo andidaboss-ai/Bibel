@@ -45,7 +45,7 @@ haben meinem Geist im Land des Nordens Ruhe verschafft.“
 [10] „Nimm von den Verbannten,
 von Heldai, von Tobija und von Jedaja,
 und geh noch am selben Tag
-in das Haus Josias, des Sohnes Zefanjas,
+in das Haus Joschijas, des Sohnes Zefanjas,
 wohin sie aus Babel gekommen sind.
 [11] Ja, nimm Silber und Gold,
 mach Kronen
@@ -75,6 +75,6 @@ wenn ihr wirklich auf die Stimme des HERRN, eures Gottes, hört.‘“
 > Vers 12: „Ein Mann, dessen Name Spross ist“: Der „Spross“ ist der kommende König aus dem Haus Davids (vgl. 3,8). Er wird den Tempel bauen. Damals dachte man vielleicht an Serubbabel, der tatsächlich den Tempel baute.
 > Vers 13: Etwas Besonderes: Der Spross wird König und Priester zugleich sein. Und zwischen beiden Ämtern wird Frieden herrschen. In Israel waren König und Priester eigentlich getrennt. Im Neuen Testament wird Jesus als König und Hoherpriester zugleich beschrieben (Hebräer 7).
 > Warum wird Josua gekrönt und nicht Serubbabel? Das ist unter Auslegern umstritten. Vielleicht war es zu gefährlich, einen Davididen öffentlich zu krönen, weil die Perser das als Aufstand hätten verstehen können.
-> Vers 14: Die Kronen sollen im Tempel bleiben, als Erinnerung an diese Verheißung. Helem und Hen sind wahrscheinlich andere Namen für Heldai und Josia aus Vers 10.
+> Vers 14: Die Kronen sollen im Tempel bleiben, als Erinnerung an diese Verheißung. Helem und Hen sind wahrscheinlich andere Namen für Heldai und Joschija aus Vers 10.
 > Vers 15: Auch Menschen aus der Ferne werden kommen und helfen. Aber eine Bedingung gilt: „wenn ihr auf die Stimme des HERRN hört“.
 

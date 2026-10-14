@@ -73,7 +73,7 @@ Aber an die Beute legten sie ihre Hand nicht.
 [16] Auch die übrigen Juden in den Provinzen des Königs versammelten sich,
 verteidigten ihr Leben
 und hatten Ruhe vor ihren Feinden.
-Sie töteten 75 000 von denen, die sie hassten.
+Sie töteten 75 000 von denen, die sie hassten.
 Aber an die Beute legten sie ihre Hand nicht.
 [17] Das geschah am 13. Tag des Monats Adar.
 Und am 14. Tag dieses Monats ruhten sie
@@ -88,7 +88,7 @@ zu einem Feiertag,
 an dem man einander Speisen schickt.
 
 > **Was bedeutet das?**
-> Die Zahl 75 000 ist sehr hoch. Die griechische Fassung des Buches hat 15 000. Wie bei vielen großen Zahlen in der Bibel ist unsicher, wie genau sie gemeint ist.
+> Die Zahl 75 000 ist sehr hoch. Die griechische Fassung des Buches hat 15 000. Wie bei vielen großen Zahlen in der Bibel ist unsicher, wie genau sie gemeint ist.
 > „Sie verteidigten ihr Leben“: Wieder wird betont, dass es um Notwehr ging.
 > Weil in Susa zwei Tage gekämpft wurde, feiern die Juden in befestigten Städten Purim einen Tag später. Bis heute feiern Juden in Jerusalem Purim am 15. Adar („Schuschan Purim“) und an anderen Orten am 14. Adar.
 

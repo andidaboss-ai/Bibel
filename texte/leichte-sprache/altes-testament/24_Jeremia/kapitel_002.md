@@ -82,7 +82,7 @@ Warum ist er zur Beute geworden?
 und ihre Stimme erhoben.
 Sie haben sein Land zur Wüste gemacht.
 Seine Städte sind verbrannt, ohne Bewohner.
-[16] Auch die Leute von Memfis und Tachpanhes
+[16] Auch die Leute von Memphis und Tachpanhes
 haben dir den Scheitel kahl geschoren.
 [17] Hast du dir das nicht selbst zugefügt,
 weil du den HERRN, deinen Gott, verlassen hast,
@@ -99,7 +99,7 @@ und dass keine Ehrfurcht vor mir in dir ist“,
 spricht der Herr, der HERR der Heere.
 
 > **Was bedeutet das?**
-> Vers 14–16: Israel war frei, aber jetzt wird es von Feinden ausgeraubt, wie von Löwen. Memfis und Tachpanhes sind Städte in Ägypten.
+> Vers 14–16: Israel war frei, aber jetzt wird es von Feinden ausgeraubt, wie von Löwen. Memphis und Tachpanhes sind Städte in Ägypten.
 > Vers 18: Der Schihor ist ein Arm des Nils in Ägypten, „der Strom“ ist der Euphrat in Assur. Juda suchte mal bei Ägypten, mal bei Assur Hilfe, anstatt bei Gott. Das ist wie Wasser aus fremden Flüssen trinken, statt aus der eigenen Quelle.
 > Vers 19: Die Folgen der eigenen Fehler sind selbst die Strafe. Wer Gott verlässt, merkt irgendwann, wie bitter das ist.
 

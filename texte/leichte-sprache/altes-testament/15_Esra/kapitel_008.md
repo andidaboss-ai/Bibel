@@ -105,7 +105,7 @@ die Gabe für das Haus unseres Gottes,
 die der König, seine Ratgeber, seine Fürsten und ganz Israel, das dort war,
 gegeben hatten.
 [26] Ich wog in ihre Hand ab:
-22 100 Kilogramm Silber,
+22 100 Kilogramm Silber,
 silberne Geräte im Gewicht von 3400 Kilogramm,
 3400 Kilogramm Gold,
 [27] 20 goldene Schalen im Wert von 1000 Goldmünzen
@@ -124,7 +124,7 @@ um sie nach Jerusalem zum Haus unseres Gottes zu bringen.
 
 > **Was bedeutet das?**
 > In der Bibel steht „650 Talente Silber, 100 Talente silberne Geräte, 100 Talente Gold“. Ein Talent sind etwa 34 Kilogramm. Das sind riesige Mengen. Manche Fachleute meinen, dass die Zahlen beim Abschreiben größer geworden sind. Wichtig ist: Es war ein großer Schatz.
-> „1000 Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm.
+> „1000 Goldmünzen“: Im Text steht „Dareiken“, persische Goldmünzen von etwa 8,4 Gramm.
 > Esra wiegt alles genau ab und übergibt es vertrauenswürdigen Männern. In Jerusalem wird wieder alles nachgewogen. Wer mit Geld für Gott umgeht, soll ehrlich und genau sein (vgl. 2. Korinther 8,20–21).
 > „Ihr seid heilig, und die Geräte sind heilig“: Die Männer sind für Gott ausgesondert, genau wie die Schätze.
 

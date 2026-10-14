@@ -111,7 +111,7 @@ Das Meer ruhte oben auf ihnen,
 und ihre Hinterteile waren alle nach innen gerichtet.
 [26] Es war eine Handbreit dick.
 Sein Rand war gearbeitet wie der Rand eines Bechers, wie eine Lilienblüte.
-Es fasste etwa 44 000 Liter.
+Es fasste etwa 44 000 Liter.
 
 > **Was bedeutet das?**
 > Das „Meer“ war ein riesiges Wasserbecken aus Bronze. In 2. Chronik 4,6 steht, wozu es diente: Die Priester wuschen sich darin.

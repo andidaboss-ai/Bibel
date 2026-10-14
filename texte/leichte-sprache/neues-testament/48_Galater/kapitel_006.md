@@ -53,7 +53,7 @@ die zur Familie des Glaubens gehören.
 
 ---
 
-## Paulus' eigenhändiger Schluss (Vers 11–18)
+## Paulus’ eigenhändiger Schluss (Vers 11–18)
 
 [11] Seht,
 mit wie großen Buchstaben ich euch mit eigener Hand schreibe!

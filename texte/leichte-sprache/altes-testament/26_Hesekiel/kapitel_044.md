@@ -174,7 +174,7 @@ spricht der Herr, der HERR.
 Ich bin ihr Erbteil.
 Ihr sollt ihnen keinen Besitz in Israel geben.
 Ich bin ihr Besitz.
-[29] Sie sollen das Speisopfer, das Sündopfer und das Schuldopfer essen,
+[29] Sie sollen das Speiseopfer, das Sündopfer und das Schuldopfer essen,
 und alles Gebannte in Israel soll ihnen gehören.
 [30] Das Erste von allen Erstlingsfrüchten von allem
 und jede Abgabe von allem,

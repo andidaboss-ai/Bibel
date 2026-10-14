@@ -40,7 +40,7 @@ Dann kommt zurück.“
 [6] Als die Ammoniter sahen, dass sie sich bei David verhasst gemacht hatten,
 schickten Hanun und die Ammoniter etwa 34 Tonnen Silber,
 um sich Wagen und Reiter aus Mesopotamien, aus Aram-Maacha und aus Zoba zu mieten.
-[7] So mieteten sie sich 32 000 Wagen
+[7] So mieteten sie sich 32 000 Wagen
 und den König von Maacha mit seinem Volk.
 Sie kamen und lagerten vor Medeba.
 Auch die Ammoniter versammelten sich aus ihren Städten und kamen zum Kampf.
@@ -52,7 +52,7 @@ Und die Könige, die gekommen waren, standen für sich auf dem Feld.
 > **Was bedeutet das?**
 > Statt sich zu entschuldigen, rüsten die Ammoniter zum Krieg. Sie bezahlen fremde Heere.
 > In der Bibel steht „1000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm.
-> Die Zahl von 32 000 Wagen ist sehr hoch. In 2. Samuel 10,6 steht stattdessen 33 000 Mann.
+> Die Zahl von 32 000 Wagen ist sehr hoch. In 2. Samuel 10,6 steht stattdessen 33 000 Mann.
 > Medeba lag östlich des Toten Meeres. Mesopotamien heißt hier wörtlich „Aram der zwei Flüsse“, also das Gebiet am Oberlauf des Euphrat.
 
 ---
@@ -94,7 +94,7 @@ Da versammelte er ganz Israel, zog über den Jordan, kam zu ihnen
 und stellte sich gegen sie zum Kampf auf.
 Als David sich gegen die Syrer zum Kampf aufgestellt hatte, kämpften sie mit ihm.
 [18] Die Syrer flohen vor Israel.
-David tötete von den Syrern 7000 Wagenkämpfer und 40 000 Fußsoldaten.
+David tötete von den Syrern 7000 Wagenkämpfer und 40 000 Fußsoldaten.
 Auch Schofach, den Heerführer, tötete er.
 [19] Als die Diener Hadad-Esers sahen, dass sie von Israel geschlagen worden waren,
 schlossen sie Frieden mit David und dienten ihm.
@@ -103,4 +103,4 @@ Und die Syrer wollten den Ammonitern nicht mehr helfen.
 > **Was bedeutet das?**
 > „Der Strom“ ist der Euphrat. Die Syrer holen Hilfe von dort.
 > Am Ende schließen sie Frieden mit David.
-> In 2. Samuel 10,18 steht: 700 Wagenkämpfer und 40 000 Reiter. Solche Unterschiede bei den Zahlen entstanden wohl beim Abschreiben über die Jahrhunderte. Der Heerführer heißt dort „Schobach“.
+> In 2. Samuel 10,18 steht: 700 Wagenkämpfer und 40 000 Reiter. Solche Unterschiede bei den Zahlen entstanden wohl beim Abschreiben über die Jahrhunderte. Der Heerführer heißt dort „Schobach“.

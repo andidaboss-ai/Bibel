@@ -57,7 +57,7 @@ und ihre Sünden heimsuchen.“
 [11] Der HERR sagte zu mir:
 „Bete nicht für dieses Volk um Gutes!
 [12] Wenn sie fasten, werde ich ihr Schreien nicht hören.
-Und wenn sie Brandopfer und Speisopfer darbringen,
+Und wenn sie Brandopfer und Speiseopfer darbringen,
 werde ich sie nicht annehmen.
 Sondern ich werde sie durch Schwert, Hunger und Pest vernichten.“
 

@@ -56,7 +56,7 @@ Sie machten deine Schönheit vollkommen.
 
 ## Die Handelspartner von Tyrus (Vers 12–25)
 
-[12] Tarsis war deine Händlerin
+[12] Tarschisch war deine Händlerin
 wegen der Menge an Reichtum aller Art.
 Mit Silber, Eisen, Zinn und Blei handelten sie um deine Waren.
 [13] Jawan, Tubal und Meschech waren deine Händler.
@@ -99,12 +99,12 @@ in Mänteln aus blauem Stoff und bunter Stickerei
 und in Truhen aus Zedernholz mit prächtiger Kleidung,
 mit Schnüren gebunden,
 unter deinen Waren.
-[25] Die Schiffe von Tarsis waren deine Karawanen für deine Waren.
+[25] Die Schiffe von Tarschisch waren deine Karawanen für deine Waren.
 Du wurdest reich gefüllt
 und sehr herrlich im Herzen der Meere.
 
 > **Was bedeutet das?**
-> Hier steht eine lange Liste der Handelspartner von Tyrus, fast wie eine Weltkarte der damaligen Zeit. Sie reicht von Tarsis (wahrscheinlich in Spanien) im Westen bis nach Arabien und Mesopotamien im Osten.
+> Hier steht eine lange Liste der Handelspartner von Tyrus, fast wie eine Weltkarte der damaligen Zeit. Sie reicht von Tarschisch (wahrscheinlich in Spanien) im Westen bis nach Arabien und Mesopotamien im Osten.
 > Jawan ist Griechenland (Ionien). Tubal und Meschech lagen in Kleinasien (heute Türkei). Togarma lag vermutlich in Armenien. Saba lag im Süden Arabiens (heute Jemen).
 > Vers 13: „Mit Menschen handelten sie“ – auch Sklavenhandel gehörte zum Reichtum von Tyrus (vgl. Joel 4,6; Amos 1,9). Die Bibel nennt das hier nüchtern. An anderer Stelle verurteilt sie Menschenraub und Menschenhandel klar (2. Mose 21,16; 1. Timotheus 1,10). Menschenhandel ist ein schweres Unrecht, damals wie heute.
 > Vers 17: Auch Juda und Israel lieferten an Tyrus, vor allem landwirtschaftliche Produkte: Weizen, Honig, Öl und Balsam.

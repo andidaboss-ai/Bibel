@@ -11,17 +11,17 @@ Tola, Pua, Jaschub und Schimron, vier.
 Usi, Refaja, Jeriël, Jachmai, Jibsam und Schemuël,
 Oberhäupter ihrer Familien, von Tola,
 tapfere Krieger in ihren Generationen.
-Ihre Zahl in den Tagen Davids war 22 600.
+Ihre Zahl in den Tagen Davids war 22 600.
 [3] Der Sohn Usis: Jisrachja.
 Die Söhne Jisrachjas:
 Michael, Obadja, Joël und Jischija, fünf,
 alle Oberhäupter.
 [4] Mit ihnen waren nach ihren Generationen und Familien
-Kriegsscharen für den Kampf, 36 000.
+Kriegsscharen für den Kampf, 36 000.
 Denn sie hatten viele Frauen und Söhne.
 [5] Ihre Brüder in allen Familien Issachars,
 tapfere Krieger, alle zusammen in den Stammbaum eingetragen,
-waren 87 000.
+waren 87 000.
 
 > **Was bedeutet das?**
 > Issachar lebte in der fruchtbaren Ebene Jesreel im Norden. Der Richter Tola stammte aus diesem Stamm (Richter 10,1).
@@ -38,19 +38,19 @@ Bela, Becher und Jediaël, drei.
 [7] Die Söhne Belas:
 Ezbon, Usi, Usiël, Jerimot und Iri, fünf,
 Oberhäupter der Familien, tapfere Krieger.
-Im Stammbaum waren es 22 034.
+Im Stammbaum waren es 22 034.
 [8] Die Söhne Bechers:
 Semira, Joasch, Eliëser, Eljoënai, Omri, Jeremot, Abija, Anatot und Alemet.
 Das alle waren Söhne Bechers.
 [9] Sie wurden nach ihren Generationen in den Stammbaum eingetragen,
 Oberhäupter ihrer Familien, tapfere Krieger:
-20 200.
+20 200.
 [10] Der Sohn Jediaëls: Bilhan.
 Die Söhne Bilhans:
 Jëusch, Benjamin, Ehud, Kenaana, Setan, Tarschisch und Ahischahar.
 [11] Das alle waren Söhne Jediaëls,
 nach den Oberhäuptern ihrer Familien, tapfere Krieger,
-17 200, die mit dem Heer in den Krieg ziehen konnten.
+17 200, die mit dem Heer in den Krieg ziehen konnten.
 [12] Dazu Schuppim und Huppim, die Söhne Irs,
 Huschim, die Söhne Ahers.
 
@@ -182,10 +182,10 @@ Oberhäupter der Familien,
 auserlesene, tapfere Krieger,
 Häupter der Fürsten.
 Die Zahl derer, die für den Kriegsdienst in den Stammbaum eingetragen waren,
-war 26 000 Männer.
+war 26 000 Männer.
 
 > **Was bedeutet das?**
 > Asser lebte im Nordwesten, an der Küste des Mittelmeers.
 > Serach, die Schwester, wird schon in 1. Mose 46,17 genannt. Es gibt eine schöne jüdische Legende: Sie soll dem alten Jakob mit Gesang die Nachricht gebracht haben, dass Josef noch lebt. Diese Legende steht nicht in der Bibel.
 > Schemer (Vers 34) ist wohl derselbe wie Schomer (Vers 32), und Helem ist wohl Hotam. Solche kleinen Unterschiede in der Schreibweise kommen in alten Listen oft vor.
-> Zebulon und Dan werden in diesen Listen nicht genannt. Warum, ist nicht bekannt.
+> Sebulon und Dan werden in diesen Listen nicht genannt. Warum, ist nicht bekannt.

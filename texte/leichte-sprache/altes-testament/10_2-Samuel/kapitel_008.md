@@ -26,11 +26,11 @@ So wurden die Moabiter Davids Knechte und brachten ihm Abgaben.
 
 [3] David schlug auch Hadad-Eser, den Sohn von Rehob, den König von Zoba,
 als er hinzog, um seine Herrschaft am Strom wiederherzustellen.
-[4] David nahm von ihm 1700 Reiter und 20 000 Mann Fußvolk gefangen.
+[4] David nahm von ihm 1700 Reiter und 20 000 Mann Fußvolk gefangen.
 David lähmte alle Wagenpferde,
 aber er behielt so viele von ihnen übrig, wie man für hundert Wagen brauchte.
 [5] Als die Syrer von Damaskus kamen, um Hadad-Eser, dem König von Zoba, zu helfen,
-schlug David von den Syrern 22 000 Mann.
+schlug David von den Syrern 22 000 Mann.
 [6] Dann legte David Besatzungen in das Syrien von Damaskus.
 Und die Syrer wurden Davids Knechte und brachten ihm Abgaben.
 Der HERR gab David Sieg, wohin er auch zog.
@@ -43,7 +43,7 @@ nahm der König David sehr viel Bronze mit.
 > „Syrer“ heißen im Hebräischen „Aram“, viele deutsche Bibeln sagen „Aramäer“. Sie wohnten im Norden, im heutigen Syrien. Zoba und Damaskus waren aramäische Königreiche.
 > „Der Strom“ ist der Euphrat. Davids Reich reichte jetzt weit nach Norden.
 > David lähmt die Pferde, indem er ihnen eine Sehne am Bein durchschneidet. So können sie nicht mehr im Krieg eingesetzt werden. Schon Josua tat das (Josua 11,6). Gott wollte nicht, dass Israel sich auf Pferde und Kriegswagen verlässt (5. Mose 17,16; Psalm 20,8).
-> Die Zahlen sind in 1. Chronik 18,4 etwas anders: 1000 Wagen, 7000 Reiter und 20 000 Mann Fußvolk.
+> Die Zahlen sind in 1. Chronik 18,4 etwas anders: 1000 Wagen, 7000 Reiter und 20 000 Mann Fußvolk.
 > „Der HERR gab David Sieg, wohin er auch zog“: Dieser Satz steht zweimal im Kapitel (Vers 6 und 14). Der Erzähler betont: Die Siege kommen von Gott.
 
 ---
@@ -62,7 +62,7 @@ zusammen mit dem Silber und Gold, das er von allen Völkern geweiht hatte, die e
 [12] von Syrien, von Moab, von den Ammonitern, von den Philistern, von Amalek
 und von der Beute von Hadad-Eser, dem Sohn von Rehob, dem König von Zoba.
 [13] David machte sich einen Namen,
-als er zurückkehrte, nachdem er 18 000 Mann von den Syrern im Salztal geschlagen hatte.
+als er zurückkehrte, nachdem er 18 000 Mann von den Syrern im Salztal geschlagen hatte.
 [14] Er legte Besatzungen in Edom.
 Im ganzen Edom legte er Besatzungen,
 und alle Edomiter wurden Davids Knechte.

@@ -17,7 +17,7 @@ Alles wird niedergerissen werden.“
 > **Was bedeutet das?**
 > Der Tempel in Jerusalem war prächtig. König Herodes der Große hatte ihn mit riesigen Steinblöcken ausbauen lassen.
 > Jesus kündigt an: Er wird zerstört werden. Das geschah im Jahr 70 nach Christus durch die Römer.
-> Für das jüdische Volk war das eine große Katastrophe. Bis heute erinnern Juden am Gedenktag Tischa beAv daran. Jesus freut sich nicht über die Zerstörung.
+> Für das jüdische Volk war das eine große Katastrophe. Bis heute erinnern Juden am Gedenktag Tischa be-Av daran. Jesus freut sich nicht über die Zerstörung.
 
 ---
 

@@ -110,7 +110,7 @@ Dieser Stein ist bis zum heutigen Tag auf dem Feld von Josua aus Bet-Schemesch.
 
 [19] Er schlug einige von den Männern von Bet-Schemesch,
 weil sie in die Lade des HERRN hineingeschaut hatten.
-Er schlug von den Männern 50 070.
+Er schlug von den Männern 50 070.
 Da trauerte das Volk, weil der HERR das Volk mit einem großen Schlag getroffen hatte.
 [20] Die Männer von Bet-Schemesch sagten:
 „Wer kann vor dem HERRN bestehen, diesem heiligen Gott?
@@ -121,7 +121,7 @@ Kommt herab und holt sie zu euch hinauf.“
 
 > **Was bedeutet das?**
 > Die Freude endet mit einem Schrecken. Die Männer von Bet-Schemesch schauen in die Lade hinein. Das war streng verboten. Sogar die Leviten durften die heiligen Dinge nicht ansehen, sonst würden sie sterben (4. Mose 4,20).
-> Die Zahl in Vers 19 ist schwierig. Im hebräischen Text steht wörtlich: „70 Mann, 50 000 Mann“. So eine Zahlenangabe ist im Hebräischen sehr ungewöhnlich. Bet-Schemesch war ein kleiner Ort, 50 000 Männer hätten dort nicht gelebt. Der jüdische Geschichtsschreiber Josephus und einige hebräische Handschriften nennen nur 70 Männer. Viele Ausleger halten das für die ursprüngliche Zahl. Die englische Vorlage hat „fünfzigtausendsiebzig“.
+> Die Zahl in Vers 19 ist schwierig. Im hebräischen Text steht wörtlich: „70 Mann, 50 000 Mann“. So eine Zahlenangabe ist im Hebräischen sehr ungewöhnlich. Bet-Schemesch war ein kleiner Ort, 50 000 Männer hätten dort nicht gelebt. Der jüdische Geschichtsschreiber Josephus und einige hebräische Handschriften nennen nur 70 Männer. Viele Ausleger halten das für die ursprüngliche Zahl. Die englische Vorlage hat „fünfzigtausendsiebzig“.
 > Die alte griechische Übersetzung erzählt Vers 19 anders: Die Söhne eines Mannes namens Jechonja freuten sich nicht mit, als sie die Lade sahen. Darum wurden sie geschlagen.
 > Diese Geschichte ist schwer zu verstehen. Sie will zeigen: Gott ist heilig. Man darf nicht neugierig oder respektlos mit ihm umgehen. Er ist kein Gegenstand, den man untersucht.
 > Die Frage „Wer kann vor diesem heiligen Gott bestehen?“ ist eine wichtige Frage der ganzen Bibel. Die Antwort der Bibel ist: Niemand aus eigener Kraft. Nur weil Gott selbst gnädig ist, können Menschen in seine Nähe kommen.

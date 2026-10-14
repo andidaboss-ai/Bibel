@@ -167,7 +167,7 @@ Amen.
 ## Rückblick: Was haben wir in der ganzen Bibel gelesen?
 
 > **Was bedeutet das?**
-> Die Bibel ist keine einzelne Geschichte, sondern eine ganze Bibliothek. Sie hat 66 Bücher und 1.189 Kapitel. Viele Menschen haben über mehr als tausend Jahre daran geschrieben.
+> Die Bibel ist keine einzelne Geschichte, sondern eine ganze Bibliothek. Sie hat 66 Bücher und 1 189 Kapitel. Viele Menschen haben über mehr als tausend Jahre daran geschrieben.
 > **Am Anfang:** Gott schafft Himmel und Erde. Alles ist gut. Die Menschen sind nach Gottes Bild geschaffen (1. Mose 1–2).
 > **Der Bruch:** Die Menschen wenden sich von Gott ab. Leid, Gewalt und Tod kommen in die Welt (1. Mose 3–11).
 > **Gottes Weg mit Israel:** Gott ruft Abraham und verspricht: Durch dich sollen alle Völker gesegnet werden. Er befreit Israel aus Ägypten, gibt die Tora am Sinai und begleitet sein Volk durch gute und schwere Zeiten. Propheten rufen zur Umkehr und kündigen Hoffnung an. Psalmen bringen Lob und Klage vor Gott.
@@ -177,7 +177,7 @@ Amen.
 > Ein roter Faden zieht sich durch die ganze Bibel: Gott gibt seine Menschen nicht auf. Er sucht sie, er rettet sie, und er bleibt seinen Versprechen treu, Israel und allen Völkern.
 
 > **Wie geht es weiter?**
-> Damit ist die ganze Bibel in Leichter Sprache übertragen, alle 66 Bücher und 1.189 Kapitel, Vers für Vers, ohne etwas wegzulassen.
+> Damit ist die ganze Bibel in Leichter Sprache übertragen, alle 66 Bücher und 1 189 Kapitel, Vers für Vers, ohne etwas wegzulassen.
 > Die Bibel kann man nicht einmal lesen und dann weglegen. Viele Menschen lesen sie ihr Leben lang immer wieder. Gut ist es, sie gemeinsam mit anderen zu lesen und darüber zu sprechen.
 > Wer Fragen hat, kann sich zum Beispiel an eine Kirchengemeinde, eine Pfarrerin oder einen Pfarrer, einen Priester oder eine Seelsorgerin oder einen Seelsorger wenden.
 

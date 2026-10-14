@@ -45,7 +45,7 @@ dann sollen sie Heerführer an die Spitze des Volkes stellen.
 
 > **Was bedeutet das?**
 > Das ist erstaunlich: Bevor der Kampf beginnt, dürfen viele Männer nach Hause gehen. Wer ein neues Haus hat, wer gerade einen Weinberg angelegt hat, wer bald heiraten will. Das Leben und das Glück des Einzelnen sind wichtiger als eine große Armee.
-> Sogar wer Angst hat, darf gehen. Niemand wird gezwungen. Denn der Sieg hängt nicht an der Zahl der Soldaten, sondern an Gott. Das zeigt später die Geschichte von Gideon, der von 32.000 Männern nur 300 behalten durfte (Richter 7).
+> Sogar wer Angst hat, darf gehen. Niemand wird gezwungen. Denn der Sieg hängt nicht an der Zahl der Soldaten, sondern an Gott. Das zeigt später die Geschichte von Gideon, der von 32 000 Männern nur 300 behalten durfte (Richter 7).
 
 ---
 

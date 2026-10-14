@@ -238,7 +238,7 @@ Er soll nicht vor deinen Augen mit Härte über ihn herrschen.
 dann soll er im Jubeljahr frei werden, er und seine Kinder mit ihm.
 [55] Denn die Israeliten sind meine Knechte.
 Sie sind meine Knechte, die ich aus dem Land Ägypten herausgeführt habe.
-Ich bin der HERR, euer Gott.‘“
+Ich bin der HERR, euer Gott.‘
 
 > **Was bedeutet das?**
 > Auch ein Fremder konnte in Israel reich werden. Wenn sich ein armer Israelit ihm verkaufte, sollte die Familie ihn freikaufen. Spätestens im Jubeljahr wurde er frei.

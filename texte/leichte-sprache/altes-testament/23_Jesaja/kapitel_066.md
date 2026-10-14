@@ -17,7 +17,7 @@ auf den, der arm ist und zerschlagenen Geistes
 und der vor meinem Wort zittert.
 [3] Wer einen Stier schlachtet, ist wie einer, der einen Menschen tötet.
 Wer ein Lamm opfert, ist wie einer, der einem Hund das Genick bricht.
-Wer ein Speisopfer darbringt, ist wie einer, der Schweineblut opfert.
+Wer ein Speiseopfer darbringt, ist wie einer, der Schweineblut opfert.
 Wer Weihrauch verbrennt, ist wie einer, der einen Götzen segnet.
 Ja, sie haben ihre eigenen Wege gewählt,
 und ihre Seele hat Gefallen an ihren Gräueln.

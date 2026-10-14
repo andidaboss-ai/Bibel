@@ -130,4 +130,4 @@ Ich kann es noch einmal tun. Ich will noch mehr suchen.“
 > Vers 31–32: Am Anfang wirkt der Wein schön und angenehm. Aber am Ende beißt er wie eine Schlange.
 > Vers 33–34: Betrunkene sehen Dinge, die nicht da sind. Ihnen ist schwindlig wie auf einem schaukelnden Schiff.
 > Vers 35: Das Traurigste: Der Betrunkene merkt nicht einmal, dass er verletzt wurde. Und sobald er aufwacht, will er wieder trinken. Das ist Sucht.
-> Wer selbst oder in der Familie mit Alkohol kämpft: Sucht ist eine Krankheit, und es gibt Hilfe. Die Sucht- und Drogen-Hotline ist erreichbar unter 01806 313 031. Auch die Anonymen Alkoholiker und örtliche Suchtberatungsstellen helfen.
+> Wer selbst oder in der Familie mit Alkohol kämpft: Sucht ist eine Krankheit, und es gibt Hilfe. Die Sucht- und Drogen-Hotline ist erreichbar unter 01806 313 031. Auch die Anonymen Alkoholiker und örtliche Suchtberatungsstellen helfen.

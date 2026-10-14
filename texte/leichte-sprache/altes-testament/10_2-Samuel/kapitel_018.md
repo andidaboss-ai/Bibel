@@ -39,7 +39,7 @@ Und das ganze Volk hörte, wie der König allen Anführern wegen Absalom befahl.
 [6] So zog das Volk aufs Feld hinaus, Israel entgegen.
 Und der Kampf fand im Wald Efraim statt.
 [7] Das Volk Israel wurde dort von den Knechten Davids geschlagen.
-Und es gab dort an diesem Tag eine große Niederlage: 20 000 Mann.
+Und es gab dort an diesem Tag eine große Niederlage: 20 000 Mann.
 [8] Denn der Kampf breitete sich dort über das ganze Land aus.
 Und der Wald fraß an diesem Tag mehr Menschen, als das Schwert fraß.
 

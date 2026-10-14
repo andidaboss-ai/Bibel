@@ -45,10 +45,10 @@ bekamen zwölftausend ein Siegel.
 
 > **Was bedeutet das?**
 > Vers 1–3: Bevor das Schwere kommt, sorgt Gott für die Seinen. Ein Siegel zeigt: Das gehört mir, das ist geschützt. Das erinnert an Hesekiel 9,4, wo die Treuen ein Zeichen auf die Stirn bekommen.
-> Vers 4: 144.000 ist 12 mal 12 mal 1.000. Das ist eine Zahl voller Bedeutung: die 12 Stämme Israels, vollständig und sehr groß. Sie meint wohl: Gottes ganzes Volk, niemand fehlt.
+> Vers 4: 144 000 ist 12 mal 12 mal 1 000. Das ist eine Zahl voller Bedeutung: die 12 Stämme Israels, vollständig und sehr groß. Sie meint wohl: Gottes ganzes Volk, niemand fehlt.
 > Vers 5–8: Juda steht an erster Stelle, weil der Messias aus Juda kommt. Der Stamm Dan fehlt in dieser Liste, dafür steht Manasse da. Warum, wissen wir nicht sicher.
 > Christen verstehen diese Stelle unterschiedlich: Manche meinen, gemeint ist das jüdische Volk. Andere meinen, gemeint ist das ganze Volk Gottes aus Juden und Nichtjuden. Wichtig ist: Gott vergisst Israel nicht.
-> Manche Gruppen lehren, dass nur genau 144.000 Menschen in den Himmel kommen. Das steht hier so nicht. Gleich danach (Vers 9) sieht Johannes eine Menge, die niemand zählen kann.
+> Manche Gruppen lehren, dass nur genau 144 000 Menschen in den Himmel kommen. Das steht hier so nicht. Gleich danach (Vers 9) sieht Johannes eine Menge, die niemand zählen kann.
 
 ---
 
@@ -86,7 +86,7 @@ für immer und ewig!
 Amen.“
 
 > **Was bedeutet das?**
-> Vers 9: Johannes hört eine Zahl (144.000), aber er sieht eine Menge, die niemand zählen kann. Das erinnert an Kapitel 5: Dort hört er „Löwe“ und sieht ein Lamm. Gottes Volk ist viel größer, als man denkt.
+> Vers 9: Johannes hört eine Zahl (144 000), aber er sieht eine Menge, die niemand zählen kann. Das erinnert an Kapitel 5: Dort hört er „Löwe“ und sieht ein Lamm. Gottes Volk ist viel größer, als man denkt.
 > Die Menschen kommen aus allen Völkern und Sprachen. Bei Gott gibt es keine Grenzen von Herkunft, Hautfarbe oder Sprache.
 > Palmzweige sind ein Zeichen für Sieg und Freude. Sie erinnern an das jüdische Laubhüttenfest und an den Einzug von Jesus in Jerusalem (Johannes 12,13).
 > Vers 10: Die Rettung kommt von Gott. Niemand rettet sich selbst.

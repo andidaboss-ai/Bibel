@@ -90,4 +90,4 @@ Hör es und merke es dir zu deinem Besten!“
 > Auch das steht an anderen Stellen der Bibel (Sprüche 3,11–12; Hebräer 12,5–11). Leid kann einen Menschen wachsen lassen.
 > Aber für Hiob ist das kein Trost. Gott hat ja gesagt, dass Hiob „ohne Grund“ leidet (Kapitel 2,3). Es ist keine Erziehung.
 > Vers 25 ist besonders schmerzhaft: Elifas verspricht Hiob viele Nachkommen. Aber Hiob hat gerade alle seine Kinder verloren. Neue Kinder können die verlorenen nicht ersetzen.
-> Vers 27 zeigt Elifas' Haltung: „Das haben wir erforscht, so ist es.“ Er ist sich ganz sicher. Er lässt keinen Raum für Fragen. Das ist das Problem von Menschen, die auf alles eine Antwort haben.
+> Vers 27 zeigt Elifas’ Haltung: „Das haben wir erforscht, so ist es.“ Er ist sich ganz sicher. Er lässt keinen Raum für Fragen. Das ist das Problem von Menschen, die auf alles eine Antwort haben.

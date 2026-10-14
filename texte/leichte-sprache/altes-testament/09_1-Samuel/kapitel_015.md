@@ -31,7 +31,7 @@ Rind und Schaf, Kamel und Esel.‘“
 
 [4] Saul rief das Volk zusammen
 und zählte sie in Telaim:
-200 000 Mann zu Fuß und 10 000 Männer aus Juda.
+200 000 Mann zu Fuß und 10 000 Männer aus Juda.
 [5] Saul kam zur Stadt Amaleks
 und legte im Tal einen Hinterhalt.
 [6] Saul sagte zu den Kenitern:

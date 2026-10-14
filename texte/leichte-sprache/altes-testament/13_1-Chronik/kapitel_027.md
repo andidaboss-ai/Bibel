@@ -10,37 +10,37 @@ die Oberhäupter der Familien,
 die Anführer über Tausend und über Hundert
 und ihre Beamten, die dem König in allen Angelegenheiten der Abteilungen dienten.
 Die Abteilungen kamen und gingen Monat für Monat, alle Monate des Jahres.
-Jede Abteilung hatte 24 000 Mann.
+Jede Abteilung hatte 24 000 Mann.
 [2] Über die erste Abteilung, für den ersten Monat, war Jaschobam gesetzt, der Sohn Sabdiëls.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [3] Er war von den Söhnen des Perez,
 das Oberhaupt aller Heerführer für den ersten Monat.
 [4] Über die Abteilung des zweiten Monats war Dodai, der Ahoachiter, mit seiner Abteilung,
 und Miklot war der Vorsteher.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [5] Der dritte Heerführer, für den dritten Monat, war Benaja, der Sohn Jojadas, des obersten Priesters.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [6] Das ist der Benaja, der ein Held unter den Dreißig und über den Dreißig war.
 Zu seiner Abteilung gehörte sein Sohn Ammisabad.
 [7] Der vierte, für den vierten Monat, war Asaël, der Bruder Joabs,
 und nach ihm sein Sohn Sebadja.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [8] Der fünfte, für den fünften Monat, war der Anführer Schamhut, der Jisrachiter.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [9] Der sechste, für den sechsten Monat, war Ira, der Sohn des Ikkesch, der Tekoiter.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [10] Der siebte, für den siebten Monat, war Helez, der Peloniter, von den Söhnen Efraims.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [11] Der achte, für den achten Monat, war Sibbechai, der Huschatiter, von den Serachitern.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [12] Der neunte, für den neunten Monat, war Abiëser, der Anatotiter, von den Benjaminitern.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [13] Der zehnte, für den zehnten Monat, war Mahrai, der Netofatiter, von den Serachitern.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [14] Der elfte, für den elften Monat, war Benaja, der Piratoniter, von den Söhnen Efraims.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 [15] Der zwölfte, für den zwölften Monat, war Heldai, der Netofatiter, von Otniël.
-In seiner Abteilung waren 24 000.
+In seiner Abteilung waren 24 000.
 
 > **Was bedeutet das?**
 > David hatte kein großes stehendes Heer. Stattdessen diente jeden Monat eine Abteilung beim König, wie eine Art Wehrdienst im Wechsel. So konnten die Männer die übrige Zeit zu Hause arbeiten.

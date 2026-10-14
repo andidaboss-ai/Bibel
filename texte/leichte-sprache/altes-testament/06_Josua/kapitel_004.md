@@ -48,7 +48,7 @@ Und das Volk eilte und zog hinüber.
 zog auch die Lade des HERRN mit den Priestern hinüber, vor den Augen des Volkes.
 [12] Die Rubeniten, die Gaditen und der halbe Stamm Manasse zogen bewaffnet vor den Israeliten hinüber,
 wie Mose es ihnen gesagt hatte.
-[13] Etwa 40.000 Mann, zum Krieg gerüstet und bewaffnet,
+[13] Etwa 40 000 Mann, zum Krieg gerüstet und bewaffnet,
 zogen vor dem HERRN hinüber zum Kampf, in die Steppe von Jericho.
 [14] An diesem Tag machte der HERR Josua vor den Augen von ganz Israel groß.
 Und sie hatten Ehrfurcht vor ihm, wie sie Ehrfurcht vor Mose gehabt hatten, sein ganzes Leben lang.

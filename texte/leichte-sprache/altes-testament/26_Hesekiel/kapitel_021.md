@@ -107,7 +107,7 @@ und einen nach Juda, ins befestigte Jerusalem.
 am Anfang der beiden Wege,
 um das Orakel zu befragen.
 Er schüttelt die Pfeile hin und her.
-Er befragt die Teraphim.
+Er befragt die Terafim.
 Er schaut in die Leber.
 [22] In seiner rechten Hand ist das Los für Jerusalem:
 Rammböcke aufzustellen,
@@ -129,7 +129,7 @@ werdet ihr mit der Hand gefangen werden.
 
 > **Was bedeutet das?**
 > Hesekiel soll eine Landkarte zeichnen: Ein Weg führt nach Rabba (der Hauptstadt der Ammoniter, heute Amman in Jordanien), der andere nach Jerusalem. Beide hatten sich gegen Babylon aufgelehnt.
-> Vers 21: Nebukadnezar steht an der Kreuzung und befragt seine Götter. Er benutzt drei Methoden: Er zieht Pfeile wie Lose, er befragt Hausgötter (Teraphim), und er schaut die Leber eines Opfertiers an (eine bekannte Methode der Wahrsagerei in Babylon).
+> Vers 21: Nebukadnezar steht an der Kreuzung und befragt seine Götter. Er benutzt drei Methoden: Er zieht Pfeile wie Lose, er befragt Hausgötter (Terafim), und er schaut die Leber eines Opfertiers an (eine bekannte Methode der Wahrsagerei in Babylon).
 > Vers 22: Das Los fällt auf Jerusalem. Die Bibel sagt damit nicht, dass Wahrsagerei funktioniert. Aber Gott ist auch über den Entscheidungen fremder Könige Herr.
 > Vers 23: Die Menschen in Jerusalem halten das für falsch, weil sie mit Babylon einen Vertrag geschlossen hatten. Aber gerade diesen Vertrag hatte Zedekia gebrochen (vgl. Kapitel 17).
 

@@ -69,7 +69,7 @@ um meine Hand gegen die Trümmerstätten zu wenden, die wieder bewohnt sind,
 und gegen das Volk, das aus den Völkern gesammelt ist,
 das Vieh und Besitz erworben hat
 und in der Mitte der Erde wohnt.‘
-[13] Saba, Dedan und die Händler von Tarsis
+[13] Saba, Dedan und die Händler von Tarschisch
 mit allen seinen jungen Löwen werden dich fragen:
 ‚Bist du gekommen, um Beute zu machen?
 Hast du deine Schar versammelt, um Raub zu rauben,

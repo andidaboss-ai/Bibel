@@ -6,7 +6,7 @@
 ## Ahitofels zweiter Rat (Vers 1–4)
 
 [1] Weiter sagte Ahitofel zu Absalom:
-„Lass mich jetzt 12 000 Männer auswählen.
+„Lass mich jetzt 12 000 Männer auswählen.
 Dann will ich mich aufmachen und heute Nacht David nachjagen.
 [2] Ich will über ihn kommen, während er müde und erschöpft ist,
 und ihm einen Schrecken einjagen.

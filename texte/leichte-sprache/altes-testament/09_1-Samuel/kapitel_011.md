@@ -47,8 +47,8 @@ mit dessen Rindern soll es so gemacht werden.“
 Da fiel der Schrecken des HERRN auf das Volk,
 und sie zogen aus wie ein einziger Mann.
 [8] Er zählte sie in Besek.
-Die Israeliten waren 300 000 Mann,
-und die Männer von Juda 30 000.
+Die Israeliten waren 300 000 Mann,
+und die Männer von Juda 30 000.
 [9] Sie sagten zu den Boten, die gekommen waren:
 „Sagt den Männern von Jabesch in Gilead:
 ‚Morgen, wenn die Sonne heiß wird, sollt ihr gerettet werden.‘“
@@ -68,7 +68,7 @@ sodass nicht einmal zwei von ihnen beieinander blieben.
 > Sein Zorn ist ein gerechter Zorn: Er kann nicht zusehen, wie Menschen gequält werden.
 > Saul zerstückelt Rinder und schickt die Stücke durch Israel. Das erinnert stark an Richter 19,29. Damals hatte ein Mann aus Gibea den Körper einer Frau zerteilt. Jetzt nimmt ein Mann aus Gibea Rinder. Er droht nicht den Menschen, sondern ihren Rindern.
 > Saul nennt auch Samuel. Er handelt nicht allein, sondern zusammen mit dem Propheten.
-> Die Zahlen sind sehr groß. Manche Ausleger meinen, das hebräische Wort für „Tausend“ bedeutet hier eher „Einheit“ oder „Truppe“. Die alte griechische Übersetzung hat 600 000 und 70 000.
+> Die Zahlen sind sehr groß. Manche Ausleger meinen, das hebräische Wort für „Tausend“ bedeutet hier eher „Einheit“ oder „Truppe“. Die alte griechische Übersetzung hat 600 000 und 70 000.
 > Die „Morgenwache“ war die letzte Nachtwache, kurz vor Sonnenaufgang. Ein Angriff zu dieser Zeit war eine Überraschung.
 > Die Männer von Jabesch haben das Versprechen „Morgen kommen wir heraus“ mit Absicht doppeldeutig formuliert. Sie kamen heraus, aber nicht, um sich zu ergeben.
 

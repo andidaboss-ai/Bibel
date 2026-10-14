@@ -11,7 +11,7 @@ von Dan bis Beerscheba, mit dem Land Gilead,
 zum HERRN nach Mizpa.
 [2] Die Anführer des ganzen Volkes, aller Stämme Israels,
 stellten sich in der Versammlung des Volkes Gottes auf:
-400 000 Mann zu Fuß, die mit dem Schwert kämpften.
+400 000 Mann zu Fuß, die mit dem Schwert kämpften.
 [3] (Die Benjaminiter hörten, dass die Israeliten nach Mizpa hinaufgezogen waren.)
 Die Israeliten sagten:
 „Erzählt uns, wie ist diese böse Tat geschehen?“
@@ -31,7 +31,7 @@ Gebt hier euren Rat und eure Meinung.“
 > **Was bedeutet das?**
 > „Von Dan bis Beerscheba“ heißt: aus dem ganzen Land, vom äußersten Norden bis zum äußersten Süden. Zum ersten Mal im Buch der Richter handelt ganz Israel gemeinsam. Aber nicht gegen einen fremden Feind, sondern gegen einen eigenen Stamm.
 > Mizpa lag im Gebiet von Benjamin, nördlich von Jerusalem.
-> 400 000 Mann ist eine sehr große Zahl. Manche Ausleger meinen, das hebräische Wort für „Tausend“ könnte hier auch „Truppe“ oder „Einheit“ bedeuten. Dann wären es viel weniger Männer gewesen.
+> 400 000 Mann ist eine sehr große Zahl. Manche Ausleger meinen, das hebräische Wort für „Tausend“ könnte hier auch „Truppe“ oder „Einheit“ bedeuten. Dann wären es viel weniger Männer gewesen.
 > Der Levit erzählt die Geschichte so, dass er gut dasteht. Er sagt nicht, dass er selbst seine Frau hinausgestoßen hat. Er sagt: „Sie wollten mich töten“, aber in Kapitel 19 wollten die Männer ihn vergewaltigen. Er verschweigt seine eigene Schuld.
 
 ---
@@ -59,19 +59,19 @@ Aber die Benjaminiter wollten nicht auf die Stimme ihrer Brüder, der Israeliten
 [14] Die Benjaminiter versammelten sich aus den Städten nach Gibea,
 um zum Kampf gegen die Israeliten auszuziehen.
 [15] Die Benjaminiter wurden an diesem Tag gezählt:
-aus den Städten 26 000 Männer, die mit dem Schwert kämpften,
+aus den Städten 26 000 Männer, die mit dem Schwert kämpften,
 außer den Bewohnern von Gibea. Von denen wurden 700 ausgewählte Männer gezählt.
 [16] Unter all diesen Soldaten waren 700 ausgewählte Männer, die Linkshänder waren.
 Jeder von ihnen konnte mit der Schleuder einen Stein auf ein Haar schleudern und verfehlte es nicht.
 [17] Die Männer Israels, ohne Benjamin, wurden gezählt:
-400 000 Männer, die mit dem Schwert kämpften.
+400 000 Männer, die mit dem Schwert kämpften.
 Sie alle waren Kriegsleute.
 
 > **Was bedeutet das?**
 > Zuerst handelt Israel richtig: Es fordert nur die Auslieferung der Täter. Nur die Schuldigen sollen bestraft werden, nicht ein ganzer Stamm.
 > Aber Benjamin weigert sich. Der Stamm hält zu den Tätern, nur weil sie zur eigenen Familie gehören. So macht sich der ganze Stamm mitschuldig. Das ist eine Warnung: Wer Verbrecher deckt, weil sie „zu uns“ gehören, wird selbst schuldig.
 > Die Linkshänder erinnern an Ehud, den Richter aus dem Stamm Benjamin, der auch Linkshänder war (Kapitel 3). Die Schleuder war eine gefährliche Waffe. Gut geübte Schleuderer trafen sehr genau.
-> In Vers 15 haben manche alten Handschriften der griechischen Übersetzung 25 000 statt 26 000.
+> In Vers 15 haben manche alten Handschriften der griechischen Übersetzung 25 000 statt 26 000.
 
 ---
 
@@ -85,7 +85,7 @@ Der HERR sagte: „Juda als Erster.“
 [20] Die Männer Israels zogen aus zum Kampf gegen Benjamin.
 Die Männer Israels stellten sich bei Gibea gegen sie zum Kampf auf.
 [21] Die Benjaminiter kamen aus Gibea heraus
-und streckten an diesem Tag 22 000 Männer von Israel zu Boden.
+und streckten an diesem Tag 22 000 Männer von Israel zu Boden.
 [22] Das Volk, die Männer Israels, machten sich Mut
 und stellten sich wieder zum Kampf auf, an derselben Stelle, wo sie sich am ersten Tag aufgestellt hatten.
 [23] Die Israeliten zogen hinauf und weinten vor dem HERRN bis zum Abend.
@@ -94,7 +94,7 @@ Sie fragten den HERRN:
 Der HERR sagte: „Zieht gegen ihn hinauf.“
 [24] Die Israeliten rückten am zweiten Tag gegen die Benjaminiter vor.
 [25] Benjamin zog am zweiten Tag aus Gibea gegen sie aus
-und streckte von den Israeliten noch einmal 18 000 Männer zu Boden.
+und streckte von den Israeliten noch einmal 18 000 Männer zu Boden.
 Sie alle kämpften mit dem Schwert.
 
 [26] Da zogen alle Israeliten und das ganze Volk hinauf und kamen nach Bethel.
@@ -115,7 +115,7 @@ Der HERR sagte:
 > Israel fragt Gott erst, wer zuerst kämpfen soll, nicht ob sie überhaupt kämpfen sollen. Sie haben ihren Entschluss schon gefasst.
 > Zweimal verliert Israel, obwohl Gott sagt: „Zieht hinauf.“ Das ist schwer zu verstehen. Viele Ausleger meinen: Gott hat damit auch Israel zur Demut geführt. Erst beim dritten Mal weinen sie, fasten und opfern. Erst jetzt fragen sie: „Oder soll ich aufhören?“ Und erst jetzt verspricht Gott den Sieg.
 > Die Bundeslade stand damals in Bethel. Pinhas, der Enkel Aarons, war Priester. Er lebte schon zur Zeit von Mose (4. Mose 25). Das zeigt: Diese Geschichte spielt am Anfang der Richterzeit, nicht am Ende, auch wenn sie im Buch zuletzt erzählt wird.
-> Verluste in Vers 21 und 25: 22 000 und 18 000 Mann, zusammen 40 000.
+> Verluste in Vers 21 und 25: 22 000 und 18 000 Mann, zusammen 40 000.
 
 ---
 
@@ -136,11 +136,11 @@ Aber die Israeliten sagten:
 und stellten sich bei Baal-Tamar auf.
 Und die Männer Israels im Hinterhalt brachen aus ihrem Versteck hervor,
 aus Maare-Geba.
-[34] 10 000 ausgewählte Männer aus ganz Israel kamen gegen Gibea.
+[34] 10 000 ausgewählte Männer aus ganz Israel kamen gegen Gibea.
 Der Kampf war schwer.
 Aber die Benjaminiter wussten nicht, dass das Unglück nahe bei ihnen war.
 [35] Der HERR schlug Benjamin vor Israel.
-Und die Israeliten töteten an diesem Tag von Benjamin 25 100 Männer.
+Und die Israeliten töteten an diesem Tag von Benjamin 25 100 Männer.
 Sie alle kämpften mit dem Schwert.
 [36] So sahen die Benjaminiter, dass sie geschlagen waren.
 Denn die Männer Israels waren vor Benjamin zurückgewichen,
@@ -177,12 +177,12 @@ Und die, die aus den Städten kamen, töteten sie mitten darin.
 [43] Sie umzingelten die Benjaminiter, jagten ihnen nach
 und traten sie an ihrem Rastplatz nieder,
 bis in die Nähe von Gibea, nach Osten hin.
-[44] Es fielen 18 000 Männer von Benjamin.
+[44] Es fielen 18 000 Männer von Benjamin.
 Sie alle waren tapfere Männer.
 [45] Sie wandten sich und flohen zur Wüste, zum Felsen Rimmon.
 Auf den Straßen hielten die Israeliten Nachlese unter ihnen: 5000 Männer.
 Sie verfolgten sie bis Gidom und erschlugen von ihnen 2000 Männer.
-[46] So waren alle, die an diesem Tag von Benjamin fielen, 25 000 Männer,
+[46] So waren alle, die an diesem Tag von Benjamin fielen, 25 000 Männer,
 die mit dem Schwert kämpften.
 Sie alle waren tapfere Männer.
 [47] Aber 600 Männer wandten sich und flohen zur Wüste, zum Felsen Rimmon.
@@ -194,7 +194,7 @@ Auch alle Städte, die sie fanden, steckten sie in Brand.
 
 > **Was bedeutet das?**
 > „Nachlese halten“ ist ein Bild aus der Ernte: Man sammelt auf, was noch übrig ist. Hier ist es ein grausames Bild für das Töten der Fliehenden.
-> Die Zahlen: 18 000 + 5000 + 2000 = 25 000. In Vers 35 steht genauer: 25 100. Vers 46 nennt eine runde Zahl.
-> Nach Vers 15 hatte Benjamin 26 700 Männer. Wenn 25 100 fallen und 600 überleben, fehlen noch etwa 1000. Vielleicht waren sie schon in den ersten zwei Kämpfen gefallen. Die Bibel sagt es nicht.
+> Die Zahlen: 18 000 + 5000 + 2000 = 25 000. In Vers 35 steht genauer: 25 100. Vers 46 nennt eine runde Zahl.
+> Nach Vers 15 hatte Benjamin 26 700 Männer. Wenn 25 100 fallen und 600 überleben, fehlen noch etwa 1000. Vielleicht waren sie schon in den ersten zwei Kämpfen gefallen. Die Bibel sagt es nicht.
 > Was in Vers 48 geschieht, ist furchtbar: Israel tötet nicht nur die Soldaten, sondern auch Frauen, Kinder und Tiere in den Städten von Benjamin. Aus einer gerechten Strafe für ein Verbrechen wird eine Rache ohne Maß. Ein ganzer Stamm wird fast ausgelöscht.
 > Die Bibel erzählt das nicht als Vorbild. Das Buch der Richter zeigt in diesen Kapiteln Schritt für Schritt: So weit kommt es, wenn „jeder tut, was in seinen eigenen Augen recht ist“. Niemand darf diese Geschichte benutzen, um Gewalt gegen eine ganze Gruppe zu rechtfertigen.

@@ -217,7 +217,7 @@ löste er die Versammlung auf.
 > Vers 21: Paulus plant, nach Rom zu gehen. Das wird das Ziel des ganzen Buches.
 > Vers 24: Der Tempel der Artemis in Ephesus war eines der sieben Weltwunder der Antike. Demetrius verkaufte kleine Andenken des Tempels.
 > Vers 25–27: Demetrius sorgt sich vor allem um sein Geld. Die Religion ist für ihn auch ein Geschäft.
-> Vers 29: Das Theater von Ephesus hatte Platz für etwa 25.000 Menschen. Man kann es heute noch besuchen.
+> Vers 29: Das Theater von Ephesus hatte Platz für etwa 25 000 Menschen. Man kann es heute noch besuchen.
 > Vers 31: Die „Asiarchen“ waren angesehene Männer der Provinz. Einige von ihnen waren Freunde von Paulus.
 > Vers 33–34: Die Juden in Ephesus wollten wohl zeigen, dass sie mit Paulus nichts zu tun haben. Aber als die Menge merkt, dass Alexander Jude ist, lässt sie ihn nicht reden. Auch hier zeigt sich Judenfeindlichkeit.
 > Vers 35–40: Der Stadtschreiber handelt klug. Er sagt: Es gibt Gerichte. Probleme soll man nach dem Recht lösen, nicht mit Gewalt.

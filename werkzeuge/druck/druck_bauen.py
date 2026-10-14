@@ -65,13 +65,6 @@ def font_css():
 def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     buecher = [b for b in alle if band["von"] <= b["nr"] <= band["bis"]]
     css = open(os.path.join(HIER, "druck.css"), encoding="utf-8").read()
-    # Kopfzeilen: je Buch eine benannte Seite
-    kopf = []
-    for b in buecher:
-        name = esc(b["name"]).replace('"', '\\"')
-        kopf.append(f'@page b{b["nr"]:02d}:left {{ @top-left {{ content: "{name}"; }} }}')
-        kopf.append(f'@page b{b["nr"]:02d}:right {{ @top-right {{ content: "{name}"; }} }}')
-        kopf.append(f'.buch-{b["nr"]:02d} {{ page: b{b["nr"]:02d}; }}')
 
     teile = []
     # Titelei
@@ -93,13 +86,12 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
 <p><strong>Grundlage:</strong> Diese Übertragung wurde neu aus der englischen World English Bible (WEB) erstellt. Die World English Bible ist gemeinfrei (Public Domain). Es wurde kein Text aus einer urheberrechtlich geschützten deutschen Bibelübersetzung übernommen.</p>
 <p>Der Name „World English Bible“ ist eine geschützte Marke von eBible.org. Er wird hier nur genannt, um die Quelle anzugeben. Dieses Buch ist keine Ausgabe der World English Bible und wird nicht von eBible.org herausgegeben.</p>
 <p><strong>Leichte Sprache:</strong> Die Übertragung orientiert sich an den Regeln für Leichte Sprache. Sie wurde nicht von einer Prüfgruppe geprüft und trägt kein Prüfsiegel.</p>
-<p><strong>Schriften:</strong> Cinzel, Literata und Inter, alle unter der SIL Open Font License 1.1.</p>
+<p><strong>Schriften:</strong> Cinzel, Literata und Inter im Innenteil, Anton auf dem Umschlag, alle unter der SIL Open Font License 1.1.</p>
 <p><strong>Die Bände dieser Ausgabe:</strong><br/>{"<br/>".join(esc(x["titel"] + ": " + x["zeile"]) for x in BAENDE)}</p>
 </section>""")
     # Vorwort aus dem E-Book übernehmen (ohne Seitenrahmen)
-    vw = re.search(r"<section.*?</section>", eb.vorwort(), re.S).group(0)
+    vw = re.search(r"<section.*?</section>", eb.vorwort(False), re.S).group(0)
     vw = vw.replace('class="vorwort"', 'class="titelei vorwort"').replace("<h2", '<p class="marke">@@VORWORT@@</p><h2', 1)
-    vw = vw.replace("Am Ende des Buches stehen Telefon-Nummern", "Am Ende jedes Bandes stehen Telefon-Nummern")
     teile.append(vw)
     # Inhaltsverzeichnis
     z = ['<section class="titelei inhalt"><p class="marke">@@INHALT@@</p><h2 class="seitentitel">Inhalt</h2><div class="zier"><span></span></div>']
@@ -133,7 +125,9 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
 <p class="buch-anzahl">{b["kapitel"]} {einheit}</p></section>""")
         kap = []
         for k in range(1, b["kapitel"] + 1):
-            kap.append(f'<article class="kapitel">{eb.kapitel_html(kapitel_md(b, k), b, k)}</article>')
+            inhalt = eb.kapitel_html(kapitel_md(b, k), b, k).replace(
+                '<header class="kapkopf">', f'<header class="kapkopf"><p class="marke">@@K{b["nr"]:02d}{k:03d}@@</p>', 1)
+            kap.append(f'<article class="kapitel">{inhalt}</article>')
         teile.append(f'<section class="buchtext buch-{b["nr"]:02d}">' + "\n".join(kap) + "</section>")
 
     hilfe = re.search(r"<section.*?</section>", eb.hilfe(), re.S).group(0)
@@ -145,7 +139,6 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
 <style>
 {font_css()}
 {css}
-{chr(10).join(kopf)}
 </style></head>
 <body>
 {chr(10).join(teile)}
@@ -173,26 +166,90 @@ def seitenzahl(pdf):
     return int(re.search(r"Pages:\s+(\d+)", info).group(1))
 
 
-def finde_marken(pdf):
-    """Liest aus dem PDF, auf welcher Seite jede Marke steht (Buchanfänge, Teile, Vorwort, Inhalt, Hilfe)."""
-    text = subprocess.run(["pdftotext", "-layout", pdf, "-"], capture_output=True, text=True, check=True).stdout
+def finde_marken(pdf, mit_hoehe=False):
+    """Liest aus dem PDF, auf welcher Seite jede Marke steht (Buchanfänge, Kapitel, Teile, Vorwort, Inhalt, Hilfe).
+    Mit mit_hoehe=True zusätzlich die Höhe (in pt von oben), auf der die Marke steht."""
+    xml = subprocess.run(["pdftotext", "-bbox", pdf, "-"], capture_output=True, text=True, check=True).stdout
     gefunden = {}
-    for i, s in enumerate(text.split("\f"), start=1):
-        for m in re.finditer(r"@@([A-Z0-9]+)@@", re.sub(r"\s+", "", s)):
-            gefunden[m.group(1)] = i
+    for i, seite in enumerate(re.findall(r"<page .*?</page>", xml, re.S), start=1):
+        woerter = re.findall(r'<word xMin="[\d.]+" yMin="([\d.]+)"[^>]*>([^<]*)</word>', seite)
+        text, hoehe = "", []
+        for y, w in woerter:
+            w = html.unescape(w)
+            text += w
+            hoehe += [float(y)] * len(w)
+        for m in re.finditer(r"@@([A-Z0-9]+)@@", text):
+            gefunden[m.group(1)] = (i, hoehe[m.start()]) if mit_hoehe else i
     return gefunden
 
 
 def leerseiten(marken):
-    """Bestimmt, vor welchen Marken eine leere Seite nötig ist, damit sie auf einer rechten (ungeraden) Seite stehen.
-    Jede Marke beginnt eine neue Seite, eine eingefügte Leerseite verschiebt also nur alles danach um 1."""
+    """Bestimmt, vor welchen Marken eine leere Seite nötig ist, damit Vorwort, Inhalt, Teile, Bücher und Hilfe
+    auf einer rechten (ungeraden) Seite beginnen. Diese Marken beginnen immer eine neue Seite, eine eingefügte
+    Leerseite verschiebt also nur alles danach um 1. Kapitel-Marken werden nur mitverschoben."""
     leer, neu, schub = [], {}, 0
-    for m, s in sorted(marken.items(), key=lambda x: x[1]):
-        if (s + schub) % 2 == 0:
+    for m, s in sorted(marken.items(), key=lambda x: (x[1], not x[0].startswith("K"))):
+        if not m.startswith("K") and (s + schub) % 2 == 0:
             leer.append(m)
             schub += 1
         neu[m] = s + schub
     return leer, neu
+
+
+def kopfzeilen(pdf, marken, leer, buecher, n):
+    """Setzt auf jede Textseite eine Kopfzeile mit Buch und Kapiteln, z. B. „2. SAMUEL 1–2“.
+    Linke Seiten: außen links, rechte Seiten: außen rechts. marken: {name: (seite, höhe)}."""
+    seite_von = {m: s for m, (s, _) in marken.items()}
+    sonder = sorted({s for m, s in seite_von.items() if not m.startswith("K")} |
+                    {seite_von[m] - 1 for m in leer})
+    oben = 0.72 * 72 + 16  # Marke so weit oben = Kapitel beginnt ganz oben auf der Seite
+    zeilen = {}
+    for b in buecher:
+        kap = {k: marken[f'K{b["nr"]:02d}{k:03d}'] for k in range(1, b["kapitel"] + 1)}
+        start = kap[1][0]
+        ende = min([s for s in sonder if s > start] + [n + 1]) - 1
+        for p in range(start, ende + 1):
+            hier = [k for k, (s, y) in kap.items() if s == p]
+            vorher = [k for k, (s, y) in kap.items() if s < p]
+            erste = hier[0] if hier and kap[hier[0]][1] < oben or not vorher else max(vorher)
+            letzte = max(hier) if hier else erste
+            if b["code"] == "PSA":
+                name = "Psalm" if erste == letzte else "Psalmen"
+            else:
+                name = b["name"]
+            zeilen[p] = (name, f"{erste}" if erste == letzte else f"{erste}–{letzte}")
+    seiten = []
+    for p in range(1, n + 1):
+        inhalt = ""
+        if p in zeilen:
+            name, kap = zeilen[p]
+            inhalt = f'<div class="kopf {"links" if p % 2 == 0 else "rechts"}"><span>{esc(name)}</span><span class="k">{kap}</span></div>'
+        seiten.append(f'<section class="seite">{inhalt}</section>')
+    doc = f"""<!doctype html><html lang="de"><head><meta charset="utf-8"/><style>
+{font_css()}
+@page {{ size: {BREITE}in {HOEHE}in; margin: 0; }}
+html, body {{ margin: 0; }}
+.seite {{ position: relative; width: {BREITE}in; height: {HOEHE}in; break-after: page; overflow: hidden; }}
+.kopf {{ position: absolute; top: 0; height: 0.72in; display: flex; align-items: center; gap: 0.9em;
+  font-family: "Inter", sans-serif; font-weight: 800; font-size: 7.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #000; }}
+.kopf.links {{ left: 0.45in; }}
+.kopf.rechts {{ right: 0.45in; flex-direction: row-reverse; }}
+.kopf .k {{ letter-spacing: 0.08em; }}
+</style></head><body>{"".join(seiten)}</body></html>"""
+    html_datei = pdf + ".kopf.html"
+    kopf_pdf = pdf + ".kopf.pdf"
+    open(html_datei, "w", encoding="utf-8").write(doc)
+    drucke(html_datei, kopf_pdf, BREITE, HOEHE)
+    import pikepdf
+    with pikepdf.open(pdf, allow_overwriting_input=True) as innen, pikepdf.open(kopf_pdf) as oben:
+        if len(oben.pages) != n:
+            raise SystemExit(f"Kopfzeilen: {len(oben.pages)} Seiten statt {n}")
+        for p in zeilen:
+            innen.pages[p - 1].add_overlay(oben.pages[p - 1])
+        innen.save(pdf, compress_streams=True, object_stream_mode=pikepdf.ObjectStreamMode.generate)
+    os.remove(html_datei)
+    os.remove(kopf_pdf)
+    return zeilen
 
 
 def baue(band, alle):
@@ -201,13 +258,15 @@ def baue(band, alle):
     html_datei = os.path.join(ZIEL, f".{name}.html")
     pdf = os.path.join(ZIEL, f"{name}-innenteil.pdf")
 
+    buecher = [b for b in alle if band["von"] <= b["nr"] <= band["bis"]]
     open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle))
     drucke(html_datei, pdf, BREITE, HOEHE)
     leer, seiten = leerseiten(finde_marken(pdf))
     open(html_datei, "w", encoding="utf-8").write(innenteil_html(band, alle, seiten, leer=leer))
     drucke(html_datei, pdf, BREITE, HOEHE)
-    pruef = finde_marken(pdf)
-    if pruef != seiten or any(x % 2 == 0 for x in pruef.values()):
+    marken = finde_marken(pdf, mit_hoehe=True)
+    pruef = {m: s for m, (s, _) in marken.items()}
+    if pruef != seiten or any(x % 2 == 0 for m, x in pruef.items() if not m.startswith("K")):
         raise SystemExit(f"Seitenzahlen haben sich verschoben: {seiten} != {pruef}")
     n = seitenzahl(pdf)
     # Endfassung ohne unsichtbare Marken
@@ -218,6 +277,7 @@ def baue(band, alle):
     if n > MAX_SEITEN:
         raise SystemExit(f"{name}: {n} Seiten – mehr als die {MAX_SEITEN} Seiten, die KDP beim Hardcover erlaubt")
     os.remove(html_datei)
+    kopfzeilen(pdf, marken, leer, buecher, n)
     umschlaege(band, n)
     return n
 

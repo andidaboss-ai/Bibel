@@ -21,14 +21,14 @@ Sie sollen rings um das Zelt der Begegnung lagern, mit etwas Abstand davon.
 
 [3] Auf der Ostseite, nach Sonnenaufgang hin, soll das Banner des Lagers Juda lagern, nach ihren Heeresgruppen.
 Der Anführer der Nachkommen Judas soll Nachschon sein, der Sohn von Amminadab.
-[4] Seine Heeresgruppe, die Gezählten, waren 74.600.
+[4] Seine Heeresgruppe, die Gezählten, waren 74 600.
 [5] Neben ihm soll der Stamm Issachar lagern.
 Der Anführer der Nachkommen Issachars soll Netanel sein, der Sohn von Zuar.
-[6] Seine Heeresgruppe, die Gezählten, waren 54.400.
+[6] Seine Heeresgruppe, die Gezählten, waren 54 400.
 [7] Dann der Stamm Sebulon.
 Der Anführer der Nachkommen Sebulons soll Eliab sein, der Sohn von Helon.
-[8] Seine Heeresgruppe, die Gezählten, waren 57.400.
-[9] Alle Gezählten des Lagers Juda waren 186.400, nach ihren Heeresgruppen.
+[8] Seine Heeresgruppe, die Gezählten, waren 57 400.
+[9] Alle Gezählten des Lagers Juda waren 186 400, nach ihren Heeresgruppen.
 Sie sollen als Erste aufbrechen.
 
 > **Was bedeutet das?**
@@ -41,14 +41,14 @@ Sie sollen als Erste aufbrechen.
 
 [10] Auf der Südseite soll das Banner des Lagers Ruben sein, nach ihren Heeresgruppen.
 Der Anführer der Nachkommen Rubens soll Elizur sein, der Sohn von Schedeur.
-[11] Seine Heeresgruppe, die Gezählten, waren 46.500.
+[11] Seine Heeresgruppe, die Gezählten, waren 46 500.
 [12] Neben ihm soll der Stamm Simeon lagern.
 Der Anführer der Nachkommen Simeons soll Schelumiël sein, der Sohn von Zurischaddai.
-[13] Seine Heeresgruppe, die Gezählten, waren 59.300.
+[13] Seine Heeresgruppe, die Gezählten, waren 59 300.
 [14] Dann der Stamm Gad.
 Der Anführer der Nachkommen Gads soll Eljasaf sein, der Sohn von Reuël.
-[15] Seine Heeresgruppe, die Gezählten, waren 45.650.
-[16] Alle Gezählten des Lagers Ruben waren 151.450, nach ihren Heeren.
+[15] Seine Heeresgruppe, die Gezählten, waren 45 650.
+[16] Alle Gezählten des Lagers Ruben waren 151 450, nach ihren Heeren.
 Sie sollen als Zweite aufbrechen.
 
 > **Was bedeutet das?**
@@ -70,14 +70,14 @@ Wie sie lagern, so sollen sie auch aufbrechen, jeder an seinem Platz, bei seinem
 
 [18] Auf der Westseite soll das Banner des Lagers Efraim sein, nach ihren Heeresgruppen.
 Der Anführer der Nachkommen Efraims soll Elischama sein, der Sohn von Ammihud.
-[19] Seine Heeresgruppe, die Gezählten, waren 40.500.
+[19] Seine Heeresgruppe, die Gezählten, waren 40 500.
 [20] Neben ihm soll der Stamm Manasse sein.
 Der Anführer der Nachkommen Manasses soll Gamliël sein, der Sohn von Pedazur.
-[21] Seine Heeresgruppe, die Gezählten, waren 32.200.
+[21] Seine Heeresgruppe, die Gezählten, waren 32 200.
 [22] Dann der Stamm Benjamin.
 Der Anführer der Nachkommen Benjamins soll Abidan sein, der Sohn von Gidoni.
-[23] Sein Heer, die Gezählten, waren 35.400.
-[24] Alle Gezählten des Lagers Efraim waren 108.100, nach ihren Heeresgruppen.
+[23] Sein Heer, die Gezählten, waren 35 400.
+[24] Alle Gezählten des Lagers Efraim waren 108 100, nach ihren Heeresgruppen.
 Sie sollen als Dritte aufbrechen.
 
 > **Was bedeutet das?**
@@ -89,14 +89,14 @@ Sie sollen als Dritte aufbrechen.
 
 [25] Auf der Nordseite soll das Banner des Lagers Dan sein, nach ihren Heeresgruppen.
 Der Anführer der Nachkommen Dans soll Ahiëser sein, der Sohn von Ammischaddai.
-[26] Seine Heeresgruppe, die Gezählten, waren 62.700.
+[26] Seine Heeresgruppe, die Gezählten, waren 62 700.
 [27] Neben ihm soll der Stamm Ascher lagern.
 Der Anführer der Nachkommen Aschers soll Pagiël sein, der Sohn von Ochran.
-[28] Seine Heeresgruppe, die Gezählten, waren 41.500.
+[28] Seine Heeresgruppe, die Gezählten, waren 41 500.
 [29] Dann der Stamm Naftali.
 Der Anführer der Nachkommen Naftalis soll Ahira sein, der Sohn von Enan.
-[30] Seine Heeresgruppe, die Gezählten, waren 53.400.
-[31] Alle Gezählten des Lagers Dan waren 157.600.
+[30] Seine Heeresgruppe, die Gezählten, waren 53 400.
+[31] Alle Gezählten des Lagers Dan waren 157 600.
 Sie sollen als Letzte aufbrechen, bei ihren Bannern.“
 
 > **Was bedeutet das?**
@@ -107,7 +107,7 @@ Sie sollen als Letzte aufbrechen, bei ihren Bannern.“
 ## Zusammenfassung (Vers 32–34)
 
 [32] Das waren die Gezählten der Israeliten nach ihren Familien.
-Alle Gezählten der Lager, nach ihren Heeren, waren 603.550.
+Alle Gezählten der Lager, nach ihren Heeren, waren 603 550.
 [33] Aber die Leviten wurden nicht mit den Israeliten gezählt,
 wie der HERR es Mose befohlen hatte.
 [34] Die Israeliten taten es so.
@@ -115,5 +115,5 @@ Genau so, wie der HERR es Mose befohlen hatte, so lagerten sie bei ihren Bannern
 und so brachen sie auf, jeder mit seiner Sippe, nach seiner Familie.
 
 > **Was bedeutet das?**
-> Die vier Lager zusammen: 186.400 + 151.450 + 108.100 + 157.600 = 603.550. Die Zahl stimmt genau mit Kapitel 1 überein.
+> Die vier Lager zusammen: 186 400 + 151 450 + 108 100 + 157 600 = 603 550. Die Zahl stimmt genau mit Kapitel 1 überein.
 > Aus einem Haufen von Flüchtlingen ist ein geordnetes Volk geworden. Ordnung hilft, dass alle gut zusammenleben können.

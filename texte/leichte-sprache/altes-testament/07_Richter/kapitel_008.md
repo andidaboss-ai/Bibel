@@ -50,8 +50,8 @@ Und die Männer von Penuël antworteten ihm genauso, wie die Männer von Sukkot 
 ## Die Könige Midians werden gefangen (Vers 10–12)
 
 [10] Sebach und Zalmunna waren in Karkor, und ihre Heere mit ihnen,
-etwa 15.000 Mann, alle, die vom ganzen Heer der Völker des Ostens übrig geblieben waren.
-Denn 120.000 Mann, die das Schwert zogen, waren gefallen.
+etwa 15 000 Mann, alle, die vom ganzen Heer der Völker des Ostens übrig geblieben waren.
+Denn 120 000 Mann, die das Schwert zogen, waren gefallen.
 [11] Gideon zog hinauf auf dem Weg der Zeltbewohner, östlich von Nobach und Jogboha,
 und schlug das Heer, als es sich sicher fühlte.
 [12] Sebach und Zalmunna flohen, und er verfolgte sie.

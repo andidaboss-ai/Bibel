@@ -24,7 +24,7 @@ Das Meer lag oben auf ihnen,
 und ihre Hinterteile waren alle nach innen gerichtet.
 [5] Es war eine Handbreit dick.
 Sein Rand war gemacht wie der Rand eines Bechers, wie eine Lilienblüte.
-Es fasste etwa 66 000 Liter.
+Es fasste etwa 66 000 Liter.
 [6] Er machte auch zehn Becken
 und stellte fünf auf die rechte und fünf auf die linke Seite,
 um darin zu waschen.

@@ -37,7 +37,7 @@ unter den Felsspalten?
 [6] Bei den glatten Steinen des Tales ist dein Anteil.
 Sie, sie sind dein Los.
 Ihnen hast du sogar Trankopfer ausgegossen.
-Du hast Speisopfer dargebracht.
+Du hast Speiseopfer dargebracht.
 Soll ich mich darüber beruhigen?
 [7] Auf einem hohen und erhabenen Berg hast du dein Lager aufgeschlagen.
 Auch dorthin bist du hinaufgestiegen, um Opfer darzubringen.

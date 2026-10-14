@@ -122,7 +122,7 @@ Ich habe den Herrn, den HERRN, zu meiner Zuflucht gemacht,
 um alle deine Werke zu erzählen.
 
 > **Was bedeutet das?**
-> Vers 23 ist eines der schönsten Worte der Bibel. Martin Luther übersetzte: „Dennoch bleibe ich stets an dir.“ Trotz aller Zweifel, trotz der Verbitterung: Gott hat mich die ganze Zeit an der Hand gehalten.
+> Vers 23 ist eines der schönsten Worte der Bibel: „Dennoch bin ich immer bei dir.“ Trotz aller Zweifel, trotz der Verbitterung: Gott hat mich die ganze Zeit an der Hand gehalten.
 > Vers 24: „Und mich danach in Herrlichkeit aufnehmen“: Hier leuchtet die Hoffnung auf ein Leben bei Gott nach dem Tod auf.
 > Vers 25–26: Das ist die Antwort auf die Frage des Psalms. Die Gottlosen haben Reichtum. Ich habe Gott. Und das ist mehr wert als alles andere. Selbst wenn mein Körper und mein Herz vergehen, bleibt Gott.
 > Vers 28: „Gott nahe sein ist mein Glück.“ So übersetzen viele deutsche Bibeln. Das ist die Erkenntnis, die der Beter am Ende gewonnen hat.

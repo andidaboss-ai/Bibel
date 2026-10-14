@@ -56,7 +56,7 @@ Und er zerschlug alle goldenen Geräte,
 die Salomo, der König von Israel, im Tempel des HERRN gemacht hatte,
 wie der HERR es gesagt hatte.
 [14] Er führte ganz Jerusalem weg:
-alle Fürsten und alle tapferen Krieger, 10 000 Gefangene,
+alle Fürsten und alle tapferen Krieger, 10 000 Gefangene,
 dazu alle Handwerker und Schmiede.
 Niemand blieb übrig außer den Ärmsten des Volkes im Land.
 [15] Er führte Jojachin nach Babel weg,
@@ -74,7 +74,7 @@ und änderte seinen Namen in Zidkija.
 > Im Jahr 597 vor Christus wird Jerusalem zum ersten Mal von den Babyloniern eingenommen. Eine babylonische Chronik berichtet das auch und nennt sogar den Tag: im März 597 vor Christus.
 > Jojachin ergibt sich. So wird die Stadt zunächst nicht zerstört. Aber die Oberschicht, die Soldaten und die Handwerker werden nach Babylon verschleppt. Zu ihnen gehörte auch der Prophet Hesekiel (Hesekiel 1,1–3).
 > Damit erfüllt sich das Wort, das Jesaja dem König Hiskija gesagt hatte (Kapitel 20,17).
-> Die Zahlen in Vers 14 und 16 sind nicht ganz gleich. Vielleicht sind 10 000 die Gesamtzahl. In Jeremia 52,28 wird eine kleinere Zahl genannt (3023).
+> Die Zahlen in Vers 14 und 16 sind nicht ganz gleich. Vielleicht sind 10 000 die Gesamtzahl. In Jeremia 52,28 wird eine kleinere Zahl genannt (3023).
 > Nur die Ärmsten bleiben im Land. Die Babylonier nahmen die gebildeten und fähigen Leute mit, damit Juda sich nicht wieder erheben konnte.
 > Auch Zidkija bekommt vom fremden König einen neuen Namen.
 

@@ -73,7 +73,7 @@ und es reut ihn das Unheil.
 [14] Wer weiß?
 Vielleicht wendet er sich und es reut ihn,
 und er lässt einen Segen hinter sich zurück,
-ein Speisopfer und ein Trankopfer
+ein Speiseopfer und ein Trankopfer
 für den HERRN, euren Gott.
 
 > **Was bedeutet das?**

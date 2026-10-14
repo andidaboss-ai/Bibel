@@ -84,7 +84,7 @@ und in den Tagen Jerobeams, des Königs von Israel, in die Stammbäume eingetrag
 [18] Die Söhne Rubens, die Gaditer und der halbe Stamm Manasse hatten tapfere Männer,
 Männer, die Schild und Schwert tragen und mit dem Bogen schießen konnten,
 erfahren im Krieg:
-44 760 Mann, die in den Krieg ziehen konnten.
+44 760 Mann, die in den Krieg ziehen konnten.
 [19] Sie führten Krieg mit den Hagaritern,
 mit Jetur, Nafisch und Nodab.
 [20] Ihnen wurde gegen sie geholfen,
@@ -93,10 +93,10 @@ mit allen, die bei ihnen waren.
 Denn sie schrien im Kampf zu Gott,
 und er erhörte sie, weil sie auf ihn vertrauten.
 [21] Sie führten ihr Vieh weg:
-50 000 von ihren Kamelen,
-250 000 Schafe,
+50 000 von ihren Kamelen,
+250 000 Schafe,
 2000 Esel
-und 100 000 Menschen.
+und 100 000 Menschen.
 [22] Denn viele fielen erschlagen, weil der Krieg von Gott war.
 Und sie wohnten an ihrer Stelle bis zur Gefangenschaft.
 

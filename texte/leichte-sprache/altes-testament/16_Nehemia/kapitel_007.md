@@ -115,7 +115,7 @@ die Nachkommen Akkubs, die Nachkommen Hatitas, die Nachkommen Schobais: 138.
 
 [46] Die Tempeldiener:
 die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
-[47] die Nachkommen Keros', die Nachkommen Sias, die Nachkommen Padons,
+[47] die Nachkommen Keros’, die Nachkommen Sias, die Nachkommen Padons,
 [48] die Nachkommen Lebanas, die Nachkommen Hagabas, die Nachkommen Salmais,
 [49] die Nachkommen Hanans, die Nachkommen Giddels, die Nachkommen Gahars,
 [50] die Nachkommen Reajas, die Nachkommen Rezins, die Nachkommen Nekodas,
@@ -123,7 +123,7 @@ die Nachkommen Zihas, die Nachkommen Hasufas, die Nachkommen Tabbaots,
 [52] die Nachkommen Besais, die Nachkommen der Mëuniter, die Nachkommen der Nefuschesiter,
 [53] die Nachkommen Bakbuks, die Nachkommen Hakufas, die Nachkommen Harhurs,
 [54] die Nachkommen Bazlits, die Nachkommen Mehidas, die Nachkommen Harschas,
-[55] die Nachkommen Barkos', die Nachkommen Siseras, die Nachkommen Temachs,
+[55] die Nachkommen Barkos’, die Nachkommen Siseras, die Nachkommen Temachs,
 [56] die Nachkommen Neziachs und die Nachkommen Hatifas.
 [57] Die Nachkommen der Diener Salomos:
 die Nachkommen Sotais, die Nachkommen Soferets, die Nachkommen Peridas,
@@ -163,7 +163,7 @@ bis ein Priester auftritt, der mit den Urim und Tummim dient.
 
 ## Die Gesamtzahl und die Gaben (Vers 66–73)
 
-[66] Die ganze Versammlung zusammen war 42 360,
+[66] Die ganze Versammlung zusammen war 42 360,
 [67] außer ihren Knechten und Mägden, deren waren 7337.
 Und sie hatten 245 Sänger und Sängerinnen.
 [68] Ihre Pferde waren 736, ihre Maultiere 245,
@@ -172,9 +172,9 @@ Und sie hatten 245 Sänger und Sängerinnen.
 Der Statthalter gab für den Schatz
 1000 Goldmünzen, 50 Schalen und 530 Priestergewänder.
 [71] Einige von den Familienoberhäuptern gaben für den Schatz des Werkes
-20 000 Goldmünzen und 1254 Kilogramm Silber.
+20 000 Goldmünzen und 1254 Kilogramm Silber.
 [72] Was das übrige Volk gab, waren
-20 000 Goldmünzen, dazu 1140 Kilogramm Silber
+20 000 Goldmünzen, dazu 1140 Kilogramm Silber
 und 67 Priestergewänder.
 [73] So wohnten die Priester, die Leviten, die Torhüter, die Sänger,
 einige aus dem Volk, die Tempeldiener und ganz Israel in ihren Städten.
@@ -182,6 +182,6 @@ Als der siebte Monat gekommen war,
 waren die Kinder Israels in ihren Städten.
 
 > **Was bedeutet das?**
-> „Goldmünzen“: Im Text steht „Dariken“, persische Goldmünzen von etwa 8,4 Gramm. Silber: In der Bibel steht „2200 Minen“ und „2000 Minen“. Eine Mine sind etwa 570 Gramm.
+> „Goldmünzen“: Im Text steht „Dareiken“, persische Goldmünzen von etwa 8,4 Gramm. Silber: In der Bibel steht „2200 Minen“ und „2000 Minen“. Eine Mine sind etwa 570 Gramm.
 > Die Liste der Gaben ist hier ausführlicher als in Esra 2,68–69. Auch der Statthalter gab mit. Jeder gab nach seinen Möglichkeiten.
 > Das Ende von Vers 73 ist fast genau derselbe Satz wie Esra 3,1. Er leitet über zur großen Versammlung im siebten Monat (Kapitel 8).

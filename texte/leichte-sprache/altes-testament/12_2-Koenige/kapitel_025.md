@@ -33,7 +33,7 @@ und brachten ihn nach Babel.
 > Die Belagerung dauert etwa eineinhalb Jahre. Die Menschen in der Stadt hungern.
 > Zidkija versucht in der Nacht zu fliehen, Richtung Jordantal. Aber er wird gefangen.
 > Die Strafe ist grausam: Seine Söhne werden vor seinen Augen getötet. Das ist das Letzte, was er sieht. Dann wird er geblendet. Die Bibel erzählt diese Grausamkeit ohne Beschönigung. Sie zeigt das ganze Leid des Krieges.
-> Bis heute erinnern Juden mit Fastentagen an diese Ereignisse: an den Beginn der Belagerung am 10. Tevet und an die Bresche in der Mauer im Monat Tammus.
+> Bis heute erinnern Juden mit Fastentagen an diese Ereignisse: an den Beginn der Belagerung am 10. Tewet und an die Bresche in der Mauer im Monat Tammus.
 > In Lachisch wurden Briefe auf Tonscherben gefunden, die aus dieser Zeit stammen. Darin schreibt ein Offizier, dass man die Feuerzeichen von Aseka nicht mehr sieht. Das passt zu Jeremia 34,7.
 
 ---

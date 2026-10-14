@@ -69,7 +69,7 @@ sind die heiligen Kammern,
 wo die Priester, die dem HERRN nahen,
 die hochheiligen Gaben essen sollen.
 Dort sollen sie die hochheiligen Gaben hinlegen,
-das Speisopfer, das Sündopfer und das Schuldopfer,
+das Speiseopfer, das Sündopfer und das Schuldopfer,
 denn der Ort ist heilig.
 [14] Wenn die Priester hineingehen,
 dann sollen sie nicht aus dem Heiligtum in den äußeren Vorhof hinausgehen,

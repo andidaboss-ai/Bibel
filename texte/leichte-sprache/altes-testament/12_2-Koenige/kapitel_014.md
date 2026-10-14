@@ -23,7 +23,7 @@ wo der HERR geboten hat:
 „Die Väter sollen nicht für die Kinder getötet werden,
 und die Kinder sollen nicht für die Väter getötet werden,
 sondern jeder soll für seine eigene Sünde sterben.“
-[7] Er schlug 10 000 Edomiter im Salztal
+[7] Er schlug 10 000 Edomiter im Salztal
 und eroberte Sela im Krieg
 und nannte es Jokteël, bis zum heutigen Tag.
 

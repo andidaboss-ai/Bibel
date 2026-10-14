@@ -37,7 +37,7 @@ stand er aus der Mitte der Gemeinde auf und nahm einen Speer in seine Hand.
 [8] Er ging dem Israeliten nach in das Zelt
 und durchbohrte beide, den Israeliten und die Frau, durch ihren Leib.
 Da hörte die Plage unter den Israeliten auf.
-[9] Die an der Plage starben, waren 24.000.
+[9] Die an der Plage starben, waren 24 000.
 
 > **Was bedeutet das?**
 > Während das ganze Volk am Heiligtum weint und bereut, bringt ein Mann ganz offen eine Frau aus Midian ins Lager. Er tut es vor den Augen von Mose, als wollte er sich über Gott und das Volk lustig machen.

@@ -43,8 +43,8 @@ Wir haben ihn gesucht,
 und er hat uns ringsum Ruhe gegeben.“
 So bauten sie, und es gelang ihnen.
 [8] Asa hatte ein Heer:
-300 000 Mann aus Juda, die Langschilde und Speere trugen,
-und 280 000 Mann aus Benjamin, die Schilde trugen und den Bogen spannten.
+300 000 Mann aus Juda, die Langschilde und Speere trugen,
+und 280 000 Mann aus Benjamin, die Schilde trugen und den Bogen spannten.
 Alle diese waren starke, tapfere Krieger.
 
 > **Was bedeutet das?**

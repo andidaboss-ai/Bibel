@@ -31,7 +31,7 @@ von Pallu die Sippe der Palluiter,
 [6] von Hezron die Sippe der Hezroniter,
 von Karmi die Sippe der Karmiter.
 [7] Das sind die Sippen der Rubeniter.
-Ihre Gezählten waren 43.730.
+Ihre Gezählten waren 43 730.
 [8] Der Sohn Pallus war Eliab.
 [9] Die Söhne Eliabs waren Nemuël, Datan und Abiram.
 Das sind dieselben Datan und Abiram, die in der Gemeinde berufen waren
@@ -57,10 +57,10 @@ von Jamin die Sippe der Jaminiter,
 von Jachin die Sippe der Jachiniter,
 [13] von Serach die Sippe der Serachiter,
 von Schaul die Sippe der Schauliter.
-[14] Das sind die Sippen der Simeoniter: 22.200.
+[14] Das sind die Sippen der Simeoniter: 22 200.
 
 > **Was bedeutet das?**
-> Der Stamm Simeon ist stark geschrumpft: von 59.300 auf 22.200. Vielleicht weil viele aus Simeon bei der Sünde mit Baal-Peor dabei waren. Simri, der Mann aus Kapitel 25, war ein Anführer aus Simeon.
+> Der Stamm Simeon ist stark geschrumpft: von 59 300 auf 22 200. Vielleicht weil viele aus Simeon bei der Sünde mit Baal-Peor dabei waren. Simri, der Mann aus Kapitel 25, war ein Anführer aus Simeon.
 
 ---
 
@@ -74,7 +74,7 @@ von Schuni die Sippe der Schuniter,
 von Eri die Sippe der Eriter,
 [17] von Arod die Sippe der Aroditer,
 von Areli die Sippe der Areliter.
-[18] Das sind die Sippen der Nachkommen Gads nach ihren Gezählten: 40.500.
+[18] Das sind die Sippen der Nachkommen Gads nach ihren Gezählten: 40 500.
 
 ---
 
@@ -89,7 +89,7 @@ von Serach die Sippe der Serachiter.
 [21] Die Nachkommen von Perez waren:
 von Hezron die Sippe der Hezroniter,
 von Hamul die Sippe der Hamuliter.
-[22] Das sind die Sippen Judas nach ihren Gezählten: 76.500.
+[22] Das sind die Sippen Judas nach ihren Gezählten: 76 500.
 
 > **Was bedeutet das?**
 > Die Geschichte von Er, Onan, Perez und Serach steht in 1. Mose 38. Von Perez stammt später König David ab.
@@ -103,7 +103,7 @@ von Tola die Sippe der Tolaiter,
 von Puwa die Sippe der Puniter,
 [24] von Jaschub die Sippe der Jaschubiter,
 von Schimron die Sippe der Schimroniter.
-[25] Das sind die Sippen Issachars nach ihren Gezählten: 64.300.
+[25] Das sind die Sippen Issachars nach ihren Gezählten: 64 300.
 
 ---
 
@@ -113,7 +113,7 @@ von Schimron die Sippe der Schimroniter.
 von Sered die Sippe der Serediter,
 von Elon die Sippe der Eloniter,
 von Jachleel die Sippe der Jachleeliter.
-[27] Das sind die Sippen der Sebuloniter nach ihren Gezählten: 60.500.
+[27] Das sind die Sippen der Sebuloniter nach ihren Gezählten: 60 500.
 
 ---
 
@@ -134,7 +134,7 @@ von Hefer die Sippe der Heferiter.
 [33] Zelofhad, der Sohn von Hefer, hatte keine Söhne, sondern nur Töchter.
 Die Namen der Töchter Zelofhads waren Machla, Noa, Hogla, Milka und Tirza.
 [34] Das sind die Sippen Manasses.
-Ihre Gezählten waren 52.700.
+Ihre Gezählten waren 52 700.
 
 > **Was bedeutet das?**
 > Die fünf Töchter Zelofhads werden hier mit Namen genannt. Das ist ungewöhnlich in einer Liste von Männern. Sie spielen im nächsten Kapitel eine wichtige Rolle: Sie setzen sich mutig für ihr Recht auf ein Erbe ein.
@@ -149,7 +149,7 @@ von Becher die Sippe der Becheriter,
 von Tahan die Sippe der Tahaniter.
 [36] Und das sind die Nachkommen Schutelachs:
 von Eran die Sippe der Eraniter.
-[37] Das sind die Sippen der Nachkommen Efraims nach ihren Gezählten: 32.500.
+[37] Das sind die Sippen der Nachkommen Efraims nach ihren Gezählten: 32 500.
 Das sind die Nachkommen Josefs nach ihren Sippen.
 
 ---
@@ -166,7 +166,7 @@ von Hufam die Sippe der Hufamiter.
 von Ard die Sippe der Arditer,
 von Naaman die Sippe der Naamiter.
 [41] Das sind die Nachkommen Benjamins nach ihren Sippen.
-Ihre Gezählten waren 45.600.
+Ihre Gezählten waren 45 600.
 
 ---
 
@@ -175,7 +175,7 @@ Ihre Gezählten waren 45.600.
 [42] Das sind die Nachkommen Dans nach ihren Sippen:
 von Schuham die Sippe der Schuhamiter.
 Das sind die Sippen Dans nach ihren Sippen.
-[43] Alle Sippen der Schuhamiter nach ihren Gezählten waren 64.400.
+[43] Alle Sippen der Schuhamiter nach ihren Gezählten waren 64 400.
 
 ---
 
@@ -189,7 +189,7 @@ von Beria die Sippe der Beriiter.
 von Heber die Sippe der Heberiter,
 von Malkiël die Sippe der Malkiëliter.
 [46] Die Tochter Aschers hieß Serach.
-[47] Das sind die Sippen der Nachkommen Aschers nach ihren Gezählten: 53.400.
+[47] Das sind die Sippen der Nachkommen Aschers nach ihren Gezählten: 53 400.
 
 ---
 
@@ -201,13 +201,13 @@ von Guni die Sippe der Guniter,
 [49] von Jezer die Sippe der Jezeriter,
 von Schillem die Sippe der Schillemiter.
 [50] Das sind die Sippen Naftalis nach ihren Sippen.
-Ihre Gezählten waren 45.400.
+Ihre Gezählten waren 45 400.
 
 ---
 
 ## Die Gesamtzahl und die Verteilung des Landes (Vers 51–56)
 
-[51] Das sind die Gezählten der Israeliten: 601.730.
+[51] Das sind die Gezählten der Israeliten: 601 730.
 
 [52] Der HERR sprach zu Mose:
 [53] „Unter diese soll das Land als Erbe verteilt werden, nach der Zahl der Namen.
@@ -219,8 +219,8 @@ Nach den Namen der Stämme ihrer Väter sollen sie erben.
 [56] Durch das Los soll ihr Erbe zwischen den großen und den kleinen Stämmen verteilt werden.“
 
 > **Was bedeutet das?**
-> Bei der ersten Zählung waren es 603.550 Männer. Jetzt sind es 601.730. Nach 40 Jahren in der Wüste ist das Volk fast gleich groß geblieben. Gott hat für Nachwuchs gesorgt, obwohl die alte Generation gestorben ist.
-> Ich habe nachgerechnet: Die Zahlen der zwölf Stämme ergeben zusammen genau 601.730.
+> Bei der ersten Zählung waren es 603 550 Männer. Jetzt sind es 601 730. Nach 40 Jahren in der Wüste ist das Volk fast gleich groß geblieben. Gott hat für Nachwuchs gesorgt, obwohl die alte Generation gestorben ist.
+> Ich habe nachgerechnet: Die Zahlen der zwölf Stämme ergeben zusammen genau 601 730.
 > Das Land wird auf zwei Arten verteilt: Die Größe hängt von der Zahl der Menschen ab. Welches Gebiet ein Stamm bekommt, entscheidet das Los. So soll es gerecht zugehen, und niemand kann sich das beste Stück nehmen.
 
 ---
@@ -240,7 +240,7 @@ Sie war eine Tochter Levis, die Levi in Ägypten geboren wurde.
 Sie gebar Amram Aaron und Mose und ihre Schwester Mirjam.
 [60] Dem Aaron wurden Nadab und Abihu, Eleasar und Itamar geboren.
 [61] Nadab und Abihu starben, als sie fremdes Feuer vor den HERRN brachten.
-[62] Ihre Gezählten waren 23.000, alle Männer von einem Monat an und älter.
+[62] Ihre Gezählten waren 23 000, alle Männer von einem Monat an und älter.
 Denn sie wurden nicht mit den Israeliten gezählt,
 weil ihnen unter den Israeliten kein Erbe gegeben wurde.
 

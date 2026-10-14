@@ -22,7 +22,7 @@ Sela.
 hilf mit deiner rechten Hand und antworte uns!
 
 > **Was bedeutet das?**
-> Die Überschrift erinnert an Davids Kriege gegen die Aramäer und Edomiter (2. Samuel 8; 1. Chronik 18). In 2. Samuel 8,13 und 1. Chronik 18,12 werden 18.000 Gefallene genannt. Die Zahlen in alten Überlieferungen weichen manchmal voneinander ab.
+> Die Überschrift erinnert an Davids Kriege gegen die Aramäer und Edomiter (2. Samuel 8; 1. Chronik 18). In 2. Samuel 8,13 und 1. Chronik 18,12 werden 18 000 Gefallene genannt. Die Zahlen in alten Überlieferungen weichen manchmal voneinander ab.
 > Hinweis: In deutschen Bibeln umfasst die Überschrift zwei Verse. Darum ist dort jeder Vers um 2 höher.
 > Mitten im Krieg hat Israel eine schwere Niederlage erlitten. Es fühlt sich an wie ein Erdbeben, das das Land zerreißt.
 > „Taumelwein“: Wein, der betrunken macht, sodass man schwankt. Ein Bild für Verwirrung und Hilflosigkeit.

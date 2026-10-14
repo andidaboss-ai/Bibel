@@ -135,7 +135,7 @@ ganz dunkel und ohne Glanz?
 
 [21] Ich hasse, ich verachte eure Feste,
 und ich kann eure Festversammlungen nicht ausstehen.
-[22] Ja, wenn ihr mir Brandopfer und Speisopfer darbringt,
+[22] Ja, wenn ihr mir Brandopfer und Speiseopfer darbringt,
 werde ich sie nicht annehmen.
 Und das Friedensopfer eurer Mastkälber
 werde ich nicht ansehen.
@@ -143,7 +143,7 @@ werde ich nicht ansehen.
 Ich will die Musik deiner Harfen nicht hören.
 [24] Aber das Recht soll strömen wie Wasser
 und die Gerechtigkeit wie ein mächtiger Strom.
-[25] Habt ihr mir Schlachtopfer und Speisopfer dargebracht
+[25] Habt ihr mir Schlachtopfer und Speiseopfer dargebracht
 in der Wüste, vierzig Jahre lang, Haus Israel?
 [26] Ihr habt auch das Zelt eures Königs getragen
 und das Gestell eurer Bilder,

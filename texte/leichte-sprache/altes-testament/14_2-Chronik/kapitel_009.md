@@ -101,7 +101,7 @@ und brachten Gold, Silber, Elfenbein, Affen und Pfauen.
 um seine Weisheit zu hören, die Gott ihm ins Herz gegeben hatte.
 [24] Jeder brachte jedes Jahr sein Geschenk:
 Geräte aus Silber, Geräte aus Gold, Kleider, Waffen, Gewürze, Pferde und Maultiere.
-[25] Salomo hatte 4000 Ställe für Pferde und Wagen und 12 000 Reiter.
+[25] Salomo hatte 4000 Ställe für Pferde und Wagen und 12 000 Reiter.
 Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
 [26] Er herrschte über alle Könige vom Strom bis zum Land der Philister
 und bis an die Grenze Ägyptens.
@@ -112,7 +112,7 @@ und die Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.
 > **Was bedeutet das?**
 > Gottes Versprechen aus Kapitel 1 hat sich erfüllt: Salomo ist reicher und weiser als alle Könige. Und Vers 23 betont: Seine Weisheit kam von Gott.
 > „Der Strom“ ist der Euphrat.
-> In 1. Könige 5,6 stehen 40 000 Ställe statt 4000.
+> In 1. Könige 5,6 stehen 40 000 Ställe statt 4000.
 > Die Chronik erzählt nicht, dass Salomo später viele fremde Frauen hatte und fremden Göttern diente (1. Könige 11). Sie will Salomo vor allem als den Erbauer des Tempels zeigen. Sie setzt voraus, dass die Leser die andere Geschichte kennen.
 
 ---

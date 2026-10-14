@@ -63,7 +63,7 @@ Und die Gesetze des Königs halten sie nicht.
 Darum nützt es dem König nichts, sie gewähren zu lassen.
 [9] Wenn es dem König gefällt,
 soll man schreiben, dass sie vernichtet werden.
-Und ich will 340 000 Kilogramm Silber
+Und ich will 340 000 Kilogramm Silber
 in die Hände der Beamten des Königs zahlen,
 damit sie es in die Schatzkammern des Königs bringen.“
 [10] Da nahm der König seinen Ring von seiner Hand
@@ -81,7 +81,7 @@ Mach mit ihnen, was dir gut erscheint.“
 > – Er mischt Wahrheit und Lüge: Die Juden hatten eigene Gesetze, ja. Aber dass sie die Gesetze des Königs nicht hielten, war gelogen. Mordechai hatte dem König sogar das Leben gerettet!
 > – Er macht daraus eine Gefahr für den Staat.
 > Solche Lügen haben in der Geschichte immer wieder zu Verfolgung und Mord geführt, bis hin zum Holocaust, in dem sechs Millionen Juden ermordet wurden. Das Buch Ester warnt: So fängt es an.
-> In der Bibel steht „10 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das war eine riesige Summe, vielleicht zwei Drittel der jährlichen Steuereinnahmen des ganzen Reiches. Haman wollte das Geld wohl aus dem Besitz der ermordeten Juden nehmen.
+> In der Bibel steht „10 000 Talente Silber“. Ein Talent sind etwa 34 Kilogramm. Das war eine riesige Summe, vielleicht zwei Drittel der jährlichen Steuereinnahmen des ganzen Reiches. Haman wollte das Geld wohl aus dem Besitz der ermordeten Juden nehmen.
 > Der König fragt nicht einmal, welches Volk gemeint ist. Er gibt Haman seinen Siegelring, also volle Macht. Gleichgültigkeit kann genauso gefährlich sein wie Hass.
 > „Das Silber sei dir geschenkt“ war wohl eine höfliche Floskel. Später spricht Ester davon, dass ihr Volk „verkauft“ wurde (Kapitel 7,4).
 

@@ -245,13 +245,17 @@ def impressum(a):
 </section>""")
 
 
-def vorwort():
-    return seite("So liest du dieses Buch", """<section epub:type="preface" class="vorwort">
+def vorwort(ganz=True):
+    """ganz=False: für einen Band der Reihe (nicht die Gesamtausgabe)."""
+    inhalt = ("Dieses Buch erzählt die ganze Bibel in Leichter Sprache." if ganz else
+              "Diese Reihe erzählt in 4 Bänden die ganze Bibel in Leichter Sprache.")
+    ende = "Am Ende des Buches" if ganz else "Am Ende jedes Bandes"
+    return seite("So liest du dieses Buch", f"""<section epub:type="preface" class="vorwort">
 <h2 class="seitentitel">So liest du dieses Buch</h2>
 <div class="zier"><span></span></div>
 <p class="t">Die Bibel ist das wichtigste Buch der Welt.</p>
 <p class="t">Sie ist alt. Aber ihre Botschaft gilt auch heute.</p>
-<p class="t">Dieses Buch erzählt die ganze Bibel in Leichter Sprache.</p>
+<p class="t">{inhalt}</p>
 <p class="t">Kein Vers ist weggelassen. Kein Name und keine Zahl.</p>
 <h3 class="abschnitt">Kurze Sätze</h3>
 <p class="t">Jede Zeile ist ein kurzer Gedanke.</p>
@@ -266,7 +270,7 @@ def vorwort():
 <p class="t">Dann steht die andere Zählung in Klammern dabei.</p>
 <h3 class="abschnitt">Hilfe</h3>
 <p class="t">Die Bibel erzählt auch von Leid und Gewalt.</p>
-<p class="t">Wenn dich etwas belastet: Am Ende des Buches stehen Telefon-Nummern, wo du Hilfe bekommst.</p>
+<p class="t">Wenn dich etwas belastet: {ende} stehen Telefon-Nummern, wo du Hilfe bekommst.</p>
 </section>""")
 
 
@@ -425,7 +429,7 @@ def baue(schluessel):
 
     neu("text/titel.xhtml", titelseite(a), "application/xhtml+xml", "titel")
     neu("text/inhalt.xhtml", inhalt_seite(buecher), "application/xhtml+xml", "inhalt")
-    neu("text/vorwort.xhtml", vorwort(), "application/xhtml+xml", "vorwort")
+    neu("text/vorwort.xhtml", vorwort(schluessel == "gesamt"), "application/xhtml+xml", "vorwort")
 
     letzter = None
     for b in buecher:

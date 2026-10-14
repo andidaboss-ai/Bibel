@@ -96,7 +96,7 @@ und wegen seiner Hoheit kann ich nichts tun.
 
 > **Was bedeutet das?**
 > Hiob hat sein Essen mit Waisen geteilt. Er hat den Armen Kleidung gegeben. Er hat nie seine Macht vor Gericht („im Tor“) gegen Schwache benutzt.
-> Das ist die Antwort auf Elifas' Vorwürfe in Kapitel 22. Hiob hat genau das Gegenteil getan.
+> Das ist die Antwort auf Elifas’ Vorwürfe in Kapitel 22. Hiob hat genau das Gegenteil getan.
 > „Meinen Bissen allein essen“: Hiob hat nie gegessen, ohne an die Hungrigen zu denken.
 > Die Strafe, die er sich wünscht: Der Arm, der sich gegen die Waise erhoben hätte, soll brechen.
 

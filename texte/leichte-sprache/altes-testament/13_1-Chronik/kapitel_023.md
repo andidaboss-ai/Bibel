@@ -9,9 +9,9 @@
 Da machte er seinen Sohn Salomo zum König über Israel.
 [2] Er versammelte alle Fürsten Israels, die Priester und die Leviten.
 [3] Die Leviten wurden gezählt, von dreißig Jahren an und darüber.
-Ihre Zahl, Kopf für Kopf, Mann für Mann, war 38 000.
+Ihre Zahl, Kopf für Kopf, Mann für Mann, war 38 000.
 [4] David sagte:
-„Von diesen sollen 24 000 die Arbeit am Haus des HERRN beaufsichtigen,
+„Von diesen sollen 24 000 die Arbeit am Haus des HERRN beaufsichtigen,
 6000 sollen Beamte und Richter sein,
 [5] 4000 sollen Torhüter sein,
 und 4000 sollen den HERRN loben mit den Instrumenten,

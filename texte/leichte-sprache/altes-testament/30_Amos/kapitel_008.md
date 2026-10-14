@@ -30,7 +30,7 @@ Still!“
 [4] Hört dies, ihr, die ihr die Bedürftigen verschlingen
 und die Armen im Land zugrunde richten wollt,
 [5] die ihr sagt:
-‚Wann ist der Neumond vorüber,
+„Wann ist der Neumond vorüber,
 damit wir Getreide verkaufen können?
 Und der Sabbat,
 damit wir den Weizen auf den Markt bringen,
@@ -39,7 +39,7 @@ und den Schekel groß
 und mit falschen Waagen betrügen,
 [6] damit wir die Armen für Silber kaufen
 und die Bedürftigen für ein Paar Sandalen
-und den Abfall des Weizens verkaufen?‘“
+und den Abfall des Weizens verkaufen?“
 [7] Der HERR hat beim Stolz Jakobs geschworen:
 „Gewiss, ich werde keine ihrer Taten jemals vergessen.
 [8] Soll nicht das Land darüber erbeben

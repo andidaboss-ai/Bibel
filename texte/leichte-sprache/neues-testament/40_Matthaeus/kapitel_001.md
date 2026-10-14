@@ -45,8 +45,8 @@ Jotam wurde der Vater des Ahas.
 Ahas wurde der Vater Hiskijas.
 [10] Hiskija wurde der Vater Manasses.
 Manasse wurde der Vater Amons.
-Amon wurde der Vater Josias.
-[11] Josia wurde der Vater Jojachins und seiner Brüder
+Amon wurde der Vater Joschijas.
+[11] Joschija wurde der Vater Jojachins und seiner Brüder
 zur Zeit der Verbannung nach Babylon.
 [12] Nach der Verbannung nach Babylon
 wurde Jojachin der Vater Schealtiëls.

@@ -26,7 +26,7 @@ beteten an und dankten dem HERRN:
 ## Das große Fest (Vers 4–10)
 
 [4] Dann brachten der König und das ganze Volk Schlachtopfer vor dem HERRN dar.
-[5] Der König Salomo brachte als Schlachtopfer 22 000 Rinder und 120 000 Schafe dar.
+[5] Der König Salomo brachte als Schlachtopfer 22 000 Rinder und 120 000 Schafe dar.
 So weihten der König und das ganze Volk das Haus Gottes ein.
 [6] Die Priester standen an ihren Posten,
 auch die Leviten mit den Musikinstrumenten für den HERRN,

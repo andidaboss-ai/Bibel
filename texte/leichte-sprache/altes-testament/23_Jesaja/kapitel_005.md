@@ -39,7 +39,7 @@ Auf Gerechtigkeit, aber siehe: ein Schrei der Not.
 > Der Freund hat alles für seinen Weinberg getan: umgegraben, Steine entfernt, die besten Reben gepflanzt, einen Wachturm gebaut. Aber es wachsen nur saure, wilde Beeren.
 > Vers 3–4: Dann fragt er die Zuhörer: Was hätte ich noch tun sollen? Urteilt selbst!
 > Vers 7: Die Überraschung: Der Weinberg ist Israel, der Freund ist Gott. Gott hat alles für sein Volk getan. Er wartete auf Gerechtigkeit, aber er fand Unrecht.
-> Im Hebräischen ein starkes Wortspiel: Er wartete auf „Mischpat“ (Recht), aber da war „Mispach“ (Rechtsbruch). Auf „Zedaka“ (Gerechtigkeit), aber da war „Ze'aka“ (Hilfeschrei).
+> Im Hebräischen ein starkes Wortspiel: Er wartete auf „Mischpat“ (Recht), aber da war „Mispach“ (Rechtsbruch). Auf „Zedaka“ (Gerechtigkeit), aber da war „Ze’aka“ (Hilfeschrei).
 > Jesus erzählt ein ähnliches Gleichnis von den bösen Weingärtnern (Markus 12,1–12).
 
 ---

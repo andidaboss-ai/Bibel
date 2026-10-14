@@ -47,7 +47,7 @@ die Fürsten der Stämme Israels,
 die Anführer über Tausend und über Hundert
 und die Verwalter der Arbeiten des Königs.
 [7] Sie gaben für den Dienst am Haus Gottes:
-an Gold etwa 170 Tonnen und 10 000 Dareiken,
+an Gold etwa 170 Tonnen und 10 000 Dareiken,
 an Silber etwa 340 Tonnen,
 an Bronze etwa 612 Tonnen
 und an Eisen etwa 3400 Tonnen.
@@ -59,8 +59,8 @@ Und auch der König David freute sich mit großer Freude.
 
 > **Was bedeutet das?**
 > Die Großen des Volkes folgen Davids Beispiel. Und das Wichtigste: Sie geben freiwillig und von Herzen. Darum ist Freude im Volk. Freiwilliges Geben macht froh. Paulus schreibt später: „Einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).
-> In der Bibel steht: „5000 Talente und 10 000 Dareiken Gold, 10 000 Talente Silber, 18 000 Talente Bronze, 100 000 Talente Eisen“.
-> „Dareiken“ waren persische Goldmünzen. Sie gab es zur Zeit Davids noch nicht, sondern erst etwa 500 Jahre später. Der Verfasser der Chronik hat den Wert in die Währung seiner eigenen Zeit umgerechnet, damit seine Leser ihn verstehen. 10 000 Dareiken wären etwa 84 Kilogramm Gold.
+> In der Bibel steht: „5000 Talente und 10 000 Dareiken Gold, 10 000 Talente Silber, 18 000 Talente Bronze, 100 000 Talente Eisen“.
+> „Dareiken“ waren persische Goldmünzen. Sie gab es zur Zeit Davids noch nicht, sondern erst etwa 500 Jahre später. Der Verfasser der Chronik hat den Wert in die Währung seiner eigenen Zeit umgerechnet, damit seine Leser ihn verstehen. 10 000 Dareiken wären etwa 84 Kilogramm Gold.
 
 ---
 

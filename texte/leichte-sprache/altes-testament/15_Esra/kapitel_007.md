@@ -11,7 +11,7 @@ kam Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes Hilkijas,
 [2] des Sohnes Schallums, des Sohnes Zadoks, des Sohnes Ahitubs,
 [3] des Sohnes Amarjas, des Sohnes Asarjas, des Sohnes Merajots,
 [4] des Sohnes Serachjas, des Sohnes Usis, des Sohnes Bukkis,
-[5] des Sohnes Abischuas, des Sohnes Pinhas', des Sohnes Eleasars,
+[5] des Sohnes Abischuas, des Sohnes Pinhas’, des Sohnes Eleasars,
 des Sohnes Aarons, des obersten Priesters.
 [6] Dieser Esra zog aus Babel herauf.
 Er war ein kundiger Schriftgelehrter im Gesetz des Mose,
@@ -79,7 +79,7 @@ das gib aus dem Schatzhaus des Königs.
 Alles, was Esra, der Priester, der Schriftgelehrte im Gesetz des Gottes des Himmels, von euch verlangt,
 das soll mit Eifer getan werden,
 [22] bis zu 3400 Kilogramm Silber,
-bis zu 22 000 Liter Weizen,
+bis zu 22 000 Liter Weizen,
 bis zu 2200 Liter Wein,
 bis zu 2200 Liter Öl
 und Salz ohne Grenze.

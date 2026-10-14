@@ -131,7 +131,7 @@ Und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
 > David ist älter geworden. Er wird im Kampf müde und gerät in Lebensgefahr. Abischai rettet ihn.
 > „Die Lampe Israels“: Der König ist wie ein Licht für das ganze Volk. Wenn er stirbt, geht das Licht aus. Darum soll David nicht mehr selbst kämpfen.
 > In der Bibel steht „300 Schekel“. Ein Schekel sind etwa 11 Gramm.
-> „Der Riese“ heißt im Hebräischen „Rafa“. Die „Rafaiter“ waren ein Volk von großen Menschen, das früher im Land lebte (5. Mose 2,11).
+> „Der Riese“ heißt im Hebräischen „Rafa“. Die „Refaiter“ waren ein Volk von großen Menschen, das früher im Land lebte (5. Mose 2,11).
 > Vers 19: Im hebräischen Text steht: „Elhanan erschlug Goliat aus Gat.“ In 1. Chronik 20,5 steht: „Elhanan erschlug Lachmi, den Bruder von Goliat.“ Die englische Vorlage hat die Worte „den Bruder von“ ergänzt, damit der Text nicht im Widerspruch zu 1. Samuel 17 steht. Die Ausleger erklären diese Stelle unterschiedlich.
 > Sechs Finger und sechs Zehen: Das gibt es bis heute manchmal bei Menschen. Es ist eine angeborene Besonderheit.
 > Die Botschaft: Nicht nur David konnte Riesen besiegen. Auch seine Männer, im Vertrauen auf Gott, schafften es.

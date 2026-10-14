@@ -1,5 +1,5 @@
 # Hiob – Kapitel 15
-### Elifas' zweite Rede: „Dein eigener Mund verurteilt dich“
+### Elifas’ zweite Rede: „Dein eigener Mund verurteilt dich“
 
 ---
 

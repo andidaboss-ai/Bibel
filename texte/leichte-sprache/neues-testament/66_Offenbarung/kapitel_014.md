@@ -3,7 +3,7 @@
 
 ---
 
-## Das Lamm und die 144.000 (Vers 1–5)
+## Das Lamm und die 144 000 (Vers 1–5)
 
 [1] Ich sah,
 und seht:
@@ -39,7 +39,7 @@ denn sie sind ohne Fehler.
 
 > **Was bedeutet das?**
 > Vers 1: Nach den bösen Tieren in Kapitel 13 kommt ein Gegenbild: das Lamm auf dem Berg Zion in Jerusalem. Die Menschen dort tragen nicht das Zeichen des Tieres, sondern den Namen Gottes.
-> Die 144.000 sind wohl dieselben wie in Kapitel 7: Gottes ganzes Volk.
+> Die 144 000 sind wohl dieselben wie in Kapitel 7: Gottes ganzes Volk.
 > Vers 3: Das „neue Lied“ ist das Lied der Erlösten.
 > Vers 4: „Erstlingsgabe“: Die ersten Früchte der Ernte gehörten Gott. So gehören diese Menschen ganz zu Gott.
 
@@ -159,7 +159,7 @@ eintausendsechshundert Stadien weit.
 > Vers 14: „Einer wie ein Menschensohn“ ist Jesus (vergleiche 1,13 und Daniel 7,13).
 > Vers 14–16: Die Getreideernte ist vielleicht ein Bild dafür, dass Gott die Seinen sammelt. Jesus hat selbst von der Ernte als Bild für das Ende der Zeit gesprochen (vergleiche Matthäus 13,30.39).
 > Vers 17–20: Die Weinlese ist ein Bild für Gottes Gericht über das Böse. Es erinnert an Joel 4,13 (in manchen Bibeln Joel 3,13) und Jesaja 63,1–6.
-> Vers 20: 1.600 Stadien sind etwa 300 Kilometer. Das ist ungefähr die Länge des Landes Israel. Die Zahl ist ein Bild: Das Gericht betrifft die ganze Welt. Es ist keine Beschreibung von echtem Blutvergießen, das Menschen anrichten sollen. Das Gericht gehört allein Gott.
+> Vers 20: 1 600 Stadien sind etwa 300 Kilometer. Das ist ungefähr die Länge des Landes Israel. Die Zahl ist ein Bild: Das Gericht betrifft die ganze Welt. Es ist keine Beschreibung von echtem Blutvergießen, das Menschen anrichten sollen. Das Gericht gehört allein Gott.
 > „Draußen vor der Stadt“: Auch Jesus wurde draußen vor der Stadt gekreuzigt (Hebräer 13,12).
 
 ---

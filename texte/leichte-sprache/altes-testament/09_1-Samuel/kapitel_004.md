@@ -61,7 +61,7 @@ Seid Männer und kämpft!“
 [10] Die Philister kämpften, und Israel wurde geschlagen.
 Jeder floh in sein Zelt.
 Es gab eine sehr große Niederlage.
-Denn von Israel fielen 30 000 Mann zu Fuß.
+Denn von Israel fielen 30 000 Mann zu Fuß.
 [11] Die Lade Gottes wurde erbeutet.
 Und die beiden Söhne von Eli, Hofni und Pinhas, wurden getötet.
 

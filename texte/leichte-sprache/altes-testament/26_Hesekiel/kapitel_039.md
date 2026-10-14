@@ -64,7 +64,7 @@ spricht der Herr, der HERR.
 
 ## Das Begräbnis im Tal Hamon-Gog (Vers 11–16)
 
-[11] An jenem Tag wird es geschehen,
+[11] „An jenem Tag wird es geschehen,
 dass ich Gog einen Begräbnisplatz in Israel gebe,
 das Tal der Durchziehenden, östlich vom Meer.
 Es wird den Durchziehenden den Weg versperren.

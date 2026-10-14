@@ -18,7 +18,7 @@ Alles wird niedergerissen werden.“
 > **Was bedeutet das?**
 > Der Tempel in Jerusalem war damals eines der größten und schönsten Bauwerke der Welt. König Herodes der Große hatte ihn prächtig ausbauen lassen. Die Jünger sind stolz und begeistert.
 > Jesus kündigt an: Der Tempel wird zerstört werden. Das ist im Jahr 70 nach Christus geschehen. Die Römer haben Jerusalem erobert und den Tempel verbrannt.
-> Für das jüdische Volk war das eine große Katastrophe. Bis heute erinnern Juden am Gedenktag Tischa beAv daran. Die Westmauer („Klagemauer“) ist ein Rest der alten Mauer um den Tempelberg.
+> Für das jüdische Volk war das eine große Katastrophe. Bis heute erinnern Juden am Gedenktag Tischa be-Av daran. Die Westmauer („Klagemauer“) ist ein Rest der alten Mauer um den Tempelberg.
 > Jesus freut sich nicht über die Zerstörung. Er hat über Jerusalem geklagt (23,37).
 
 ---

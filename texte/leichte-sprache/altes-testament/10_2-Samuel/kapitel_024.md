@@ -27,14 +27,14 @@ Und sie zogen hinaus in den Süden von Juda, nach Beerscheba.
 [8] Als sie durch das ganze Land gezogen waren,
 kamen sie nach neun Monaten und zwanzig Tagen nach Jerusalem.
 [9] Joab gab dem König die Zahl der Zählung des Volkes.
-In Israel waren es 800 000 kriegstüchtige Männer, die das Schwert führen konnten,
-und die Männer von Juda waren 500 000 Mann.
+In Israel waren es 800 000 kriegstüchtige Männer, die das Schwert führen konnten,
+und die Männer von Juda waren 500 000 Mann.
 
 > **Was bedeutet das?**
 > Warum ist eine Volkszählung eine Sünde? Die Bibel sagt es nicht genau. Wahrscheinlich ging es darum, dass David wissen wollte, wie stark seine Armee war. Er wollte sich auf die Zahl seiner Soldaten verlassen, nicht auf Gott. Es war eine Zählung für Krieg und Steuern, aus Stolz.
 > Sogar Joab, der sonst wenig Bedenken hat, warnt David: Warum willst du das?
 > Vers 1 ist sehr schwer: „Der HERR reizte David.“ Wie kann Gott jemanden zu einer Sünde verleiten? In 1. Chronik 21,1, wo dieselbe Geschichte erzählt wird, steht: „Satan stand auf gegen Israel und reizte David.“ Die Bibel ringt hier selbst mit der Frage, woher das Böse kommt. Im älteren Text wird alles auf Gott zurückgeführt, weil Gott über allem steht. Der spätere Text sagt genauer: Der Verführer war Satan, aber Gott ließ es zu.
-> Die Zählung dauert fast zehn Monate. Die Zahlen sind sehr hoch. In 1. Chronik 21,5 stehen andere Zahlen: 1 100 000 für Israel und 470 000 für Juda.
+> Die Zählung dauert fast zehn Monate. Die Zahlen sind sehr hoch. In 1. Chronik 21,5 stehen andere Zahlen: 1 100 000 für Israel und 470 000 für Juda.
 
 ---
 
@@ -72,7 +72,7 @@ Aber in die Hand von Menschen will ich nicht fallen.“
 ## Die Pest und der Engel (Vers 15–17)
 
 [15] Da schickte der HERR eine Seuche über Israel, vom Morgen bis zur festgesetzten Zeit.
-Und vom Volk starben 70 000 Männer, von Dan bis Beerscheba.
+Und vom Volk starben 70 000 Männer, von Dan bis Beerscheba.
 [16] Als der Engel seine Hand gegen Jerusalem ausstreckte, um es zu vernichten,
 da reute den HERRN das Unheil.
 Und er sagte zu dem Engel, der das Volk vernichtete:

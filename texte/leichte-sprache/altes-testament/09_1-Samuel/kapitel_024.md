@@ -83,7 +83,7 @@ und mich aus deiner Hand retten.“
 > **Was bedeutet das?**
 > David hat großen Mut. Er geht hinaus und zeigt sich dem Mann, der ihn töten will. Er verneigt sich vor ihm und nennt ihn „mein Vater“.
 > Er hält ihm den Mantelzipfel hin: Schau, ich hätte dich töten können. Ich habe es nicht getan. Ich bin nicht dein Feind.
-> David sagt dreimal: „Meine Hand soll nicht gegen dich sein.“ Er überlässt Gott das Urteil. Das ist der Kern dieser Geschichte: Nicht selbst Rache nehmen, sondern Gott richten lassen. Paulus schreibt später: „Rächt euch nicht selbst ... Überwinde das Böse mit dem Guten“ (Römer 12,19–21).
+> David sagt dreimal: „Meine Hand soll nicht gegen dich sein.“ Er überlässt Gott das Urteil. Das ist der Kern dieser Geschichte: Nicht selbst Rache nehmen, sondern Gott richten lassen. Paulus schreibt später: „Rächt euch nicht selbst … Überwinde das Böse mit dem Guten“ (Römer 12,19–21).
 > „Ein toter Hund, ein Floh“: David macht sich klein. Warum jagt der mächtige König einem so unbedeutenden Menschen nach? Das ist doch lächerlich.
 
 ---

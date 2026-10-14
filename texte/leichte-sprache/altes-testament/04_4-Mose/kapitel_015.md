@@ -70,7 +70,7 @@ für euch und für den Fremden, der als Ausländer bei euch lebt.‘“
 dann sollt ihr dem HERRN eine Gabe abgeben.
 [20] Vom Ersten eures Teiges sollt ihr einen Brotfladen als Gabe abgeben.
 So wie die Gabe vom Dreschplatz, so sollt ihr ihn abgeben.
-[21] Vom Ersten eures Teiges sollt ihr dem HERRN eine Gabe geben, für alle eure Generationen.‘
+[21] Vom Ersten eures Teiges sollt ihr dem HERRN eine Gabe geben, für alle eure Generationen.
 
 > **Was bedeutet das?**
 > Jedes Mal, wenn man Brot backt, soll man ein Stück vom Teig für Gott abgeben. So denkt man auch beim täglichen Brot an den Geber.

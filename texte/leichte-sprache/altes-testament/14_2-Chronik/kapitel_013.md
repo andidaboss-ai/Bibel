@@ -11,9 +11,9 @@ wurde Abija König über Juda.
 Seine Mutter hieß Michaja, die Tochter Uriëls aus Gibea.
 Es war Krieg zwischen Abija und Jerobeam.
 [3] Abija zog in den Kampf mit einem Heer von tapferen Kriegern,
-400 000 ausgewählten Männern.
+400 000 ausgewählten Männern.
 Jerobeam stellte sich gegen ihn zum Kampf auf
-mit 800 000 ausgewählten Männern, starken, tapferen Kriegern.
+mit 800 000 ausgewählten Männern, starken, tapferen Kriegern.
 
 > **Was bedeutet das?**
 > Abija regierte etwa von 913 bis 910 vor Christus. In 1. Könige 15 heißt er „Abijam“, und dort wird er kurz und kritisch beurteilt: „Er wandelte in allen Sünden seines Vaters.“ Die Chronik erzählt dagegen eine Geschichte, in der Abija einmal ganz auf Gott vertraut.
@@ -88,7 +88,7 @@ schlug Gott Jerobeam und ganz Israel vor Abija und Juda.
 [16] Die Kinder Israels flohen vor Juda,
 und Gott gab sie in ihre Hand.
 [17] Abija und sein Volk schlugen sie mit einer großen Niederlage.
-500 000 ausgewählte Männer Israels fielen erschlagen.
+500 000 ausgewählte Männer Israels fielen erschlagen.
 [18] So wurden die Kinder Israels damals gedemütigt,
 und die Kinder Judas wurden stark,
 weil sie sich auf den HERRN, den Gott ihrer Väter, verlassen hatten.

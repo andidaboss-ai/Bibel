@@ -75,7 +75,7 @@ dann bin ich stark.
 
 ---
 
-## Paulus' Sorge um die Gemeinde (Vers 11–21)
+## Paulus’ Sorge um die Gemeinde (Vers 11–21)
 
 [11] Ich bin ein Tor geworden mit meinem Rühmen.
 Ihr habt mich dazu gezwungen.

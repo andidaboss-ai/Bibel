@@ -187,7 +187,7 @@ So beraubten sie die Ägypter.
 ## Der Aufbruch (Vers 37–42)
 
 [37] Die Israeliten zogen von Ramses nach Sukkot.
-Es waren etwa 600.000 Männer zu Fuß, die Kinder nicht mitgezählt.
+Es waren etwa 600 000 Männer zu Fuß, die Kinder nicht mitgezählt.
 [38] Mit ihnen zog auch eine große Menge von anderen Leuten.
 Dazu kamen Schafe, Ziegen und Rinder, sehr viel Vieh.
 [39] Aus dem Teig, den sie aus Ägypten mitgenommen hatten, backten sie ungesäuerte Fladenbrote.
@@ -203,7 +203,7 @@ Darum ist diese Nacht dem HERRN geweiht.
 Alle Israeliten sollen in dieser Nacht wach bleiben und sie feiern, von Generation zu Generation.
 
 > **Was bedeutet das?**
-> 600.000 Männer – mit Frauen und Kindern wären das über zwei Millionen Menschen. Das ist eine riesige Zahl. Manche Fachleute meinen, das hebräische Wort für „tausend“ könnte hier auch „Familie“ oder „Gruppe“ bedeuten. Dann wären es weniger Menschen gewesen. Andere nehmen die Zahl wörtlich.
+> 600 000 Männer – mit Frauen und Kindern wären das über zwei Millionen Menschen. Das ist eine riesige Zahl. Manche Fachleute meinen, das hebräische Wort für „tausend“ könnte hier auch „Familie“ oder „Gruppe“ bedeuten. Dann wären es weniger Menschen gewesen. Andere nehmen die Zahl wörtlich.
 > Eine „große Menge von anderen Leuten“ zieht mit. Das waren wohl Ägypter und andere Sklaven, die sich anschließen. Gottes Volk ist von Anfang an offen für Menschen aus anderen Völkern.
 > 430 Jahre – eine lange Zeit. Gott hatte Abraham schon gesagt, dass seine Nachkommen lange in einem fremden Land leben würden (1. Mose 15,13).
 > Gott hat in dieser Nacht „gewacht“. Darum sollen auch die Israeliten in dieser Nacht wach bleiben und feiern.

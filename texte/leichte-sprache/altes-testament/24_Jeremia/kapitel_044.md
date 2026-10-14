@@ -6,7 +6,7 @@
 ## Habt ihr nichts gelernt? (Vers 1–14)
 
 [1] Das Wort, das an Jeremia kam über alle Juden, die im Land Ägypten wohnten,
-die in Migdol, in Tachpanhes, in Memfis und im Land Patros wohnten:
+die in Migdol, in Tachpanhes, in Memphis und im Land Patros wohnten:
 [2] „So spricht der HERR der Heere, der Gott Israels:
 ‚Ihr habt all das Unheil gesehen,
 das ich über Jerusalem und über alle Städte Judas gebracht habe.
@@ -62,7 +62,7 @@ wohin sie sich sehnen, zurückzukehren, um dort zu wohnen.
 Denn keiner wird zurückkehren außer einigen Entronnenen.‘“
 
 > **Was bedeutet das?**
-> In Ägypten lebten inzwischen Juden an verschiedenen Orten: Migdol und Tachpanhes im Norden, Memfis in der Mitte und Patros, also Oberägypten im Süden.
+> In Ägypten lebten inzwischen Juden an verschiedenen Orten: Migdol und Tachpanhes im Norden, Memphis in der Mitte und Patros, also Oberägypten im Süden.
 > Vers 2–6: Jeremia erinnert sie: Ihr habt doch gesehen, wie Jerusalem zerstört wurde. Und warum? Wegen des Götzendienstes.
 > Vers 4: Ein berührender Satz Gottes: „Ach, tut doch diesen Gräuel nicht, den ich hasse!“ Gott bittet fast flehend.
 > Vers 7–10: Und doch machen sie in Ägypten genauso weiter. Sie haben nichts gelernt.

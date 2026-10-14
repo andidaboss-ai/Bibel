@@ -22,7 +22,7 @@ zweiundvierzig Monate lang zertreten.
 
 > **Was bedeutet das?**
 > Vers 1: Messen heißt hier: Gott kennt und schützt, was ihm gehört. Das erinnert an Hesekiel 40–42 und Sacharja 2, wo der Tempel und Jerusalem vermessen werden.
-> Vers 2: „Zweiundvierzig Monate“ sind dreieinhalb Jahre. Diese Zeitangabe kommt aus dem Buch Daniel (Daniel 7,25 und 12,7). Sie ist ein Bild für eine begrenzte Zeit der Bedrängnis. Sie kommt in der Offenbarung mehrmals vor: als 42 Monate, als 1.260 Tage oder als „eine Zeit, zwei Zeiten und eine halbe Zeit“.
+> Vers 2: „Zweiundvierzig Monate“ sind dreieinhalb Jahre. Diese Zeitangabe kommt aus dem Buch Daniel (Daniel 7,25 und 12,7). Sie ist ein Bild für eine begrenzte Zeit der Bedrängnis. Sie kommt in der Offenbarung mehrmals vor: als 42 Monate, als 1 260 Tage oder als „eine Zeit, zwei Zeiten und eine halbe Zeit“.
 > Viele verstehen den Tempel hier als Bild für die Gemeinde Gottes: Sie wird bedrängt, aber im Innersten bewahrt.
 
 ---

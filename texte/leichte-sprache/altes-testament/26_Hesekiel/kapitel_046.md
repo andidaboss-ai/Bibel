@@ -21,13 +21,13 @@ an den Sabbaten und an den Neumonden.
 [4] Das Brandopfer, das der Fürst dem HERRN darbringen soll,
 soll am Sabbattag sein:
 sechs Lämmer ohne Fehler und ein Widder ohne Fehler,
-[5] und das Speisopfer soll ein Efa für den Widder sein,
-und das Speisopfer für die Lämmer, so viel er geben kann,
+[5] und das Speiseopfer soll ein Efa für den Widder sein,
+und das Speiseopfer für die Lämmer, so viel er geben kann,
 und ein Hin Öl auf ein Efa.
 [6] Am Tag des Neumonds soll es ein junger Stier ohne Fehler sein,
 sechs Lämmer und ein Widder.
 Sie sollen ohne Fehler sein.
-[7] Er soll ein Speisopfer bereiten:
+[7] Er soll ein Speiseopfer bereiten:
 ein Efa für den Stier
 und ein Efa für den Widder,
 und für die Lämmer, so viel er kann,
@@ -55,7 +55,7 @@ sondern geradeaus vor sich hinausgehen.
 [10] Der Fürst soll mitten unter ihnen hineingehen, wenn sie hineingehen.
 Wenn sie hinausgehen, soll er hinausgehen.
 [11] An den Festen und an den bestimmten Feiertagen
-soll das Speisopfer ein Efa für einen Stier sein
+soll das Speiseopfer ein Efa für einen Stier sein
 und ein Efa für einen Widder,
 und für die Lämmer, so viel er geben kann,
 und ein Hin Öl auf ein Efa.
@@ -69,12 +69,12 @@ und nach seinem Hinausgehen soll man das Tor schließen.
 [13] Du sollst täglich ein einjähriges Lamm ohne Fehler
 als Brandopfer für den HERRN bereiten.
 Morgen für Morgen sollst du es bereiten.
-[14] Du sollst Morgen für Morgen ein Speisopfer dazu bereiten:
+[14] Du sollst Morgen für Morgen ein Speiseopfer dazu bereiten:
 ein Sechstel Efa
 und ein Drittel Hin Öl, um das Feinmehl zu befeuchten,
-ein Speisopfer für den HERRN,
+ein Speiseopfer für den HERRN,
 beständig nach einer ewigen Ordnung.
-[15] So sollen sie das Lamm, das Speisopfer und das Öl bereiten,
+[15] So sollen sie das Lamm, das Speiseopfer und das Öl bereiten,
 Morgen für Morgen,
 als beständiges Brandopfer.“
 
@@ -103,7 +103,7 @@ damit mein Volk nicht zerstreut wird,
 jeder von seinem Besitz.“
 
 > **Was bedeutet das?**
-> Vers 17: Das „Jahr der Freilassung“ ist das Erlassjahr (Jobeljahr), alle 50 Jahre. Dann kehrte Land an die ursprünglichen Besitzer zurück (3. Mose 25,10–13).
+> Vers 17: Das „Jahr der Freilassung“ ist das Erlassjahr (Jubeljahr), alle 50 Jahre. Dann kehrte Land an die ursprünglichen Besitzer zurück (3. Mose 25,10–13).
 > Vers 18: Wieder der Schutz der einfachen Leute: Der Fürst darf dem Volk kein Land wegnehmen. Er darf seine Söhne nur mit seinem eigenen Besitz versorgen. Die Mächtigen dürfen sich nicht auf Kosten der Schwachen bereichern.
 
 ---
@@ -117,7 +117,7 @@ die nach Norden schauten.
 Und siehe, dort war ein Platz an der Rückseite nach Westen.
 [20] Er sagte zu mir:
 „Das ist der Ort, wo die Priester das Schuldopfer und das Sündopfer kochen
-und wo sie das Speisopfer backen sollen,
+und wo sie das Speiseopfer backen sollen,
 damit sie sie nicht in den äußeren Vorhof hinausbringen,
 um das Volk zu heiligen.“
 [21] Dann führte er mich hinaus in den äußeren Vorhof

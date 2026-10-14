@@ -129,7 +129,7 @@ Höre auf das Gebet, das dein Knecht zu diesem Ort hin betet.
 [30] Höre auf das Flehen deines Knechtes und deines Volkes Israel,
 wenn sie zu diesem Ort hin beten.
 Ja, höre im Himmel, an dem Ort, wo du wohnst.
-Und wenn du hörst, dann vergib.“
+Und wenn du hörst, dann vergib.
 
 > **Was bedeutet das?**
 > Salomo betet mit ausgebreiteten Händen zum Himmel. Das war damals eine typische Gebetshaltung.
@@ -274,7 +274,7 @@ damit ihr in seinen Ordnungen lebt und seine Gebote haltet, wie heute.“
 
 [62] Der König und ganz Israel mit ihm brachten vor dem HERRN Opfer dar.
 [63] Salomo brachte als Friedensopfer, das er dem HERRN darbrachte,
-22 000 Rinder und 120 000 Schafe dar.
+22 000 Rinder und 120 000 Schafe dar.
 So weihten der König und alle Israeliten das Haus des HERRN ein.
 [64] Am selben Tag heiligte der König die Mitte des Vorhofs, der vor dem Haus des HERRN war.
 Denn dort brachte er das Brandopfer, das Speiseopfer und das Fett der Friedensopfer dar.

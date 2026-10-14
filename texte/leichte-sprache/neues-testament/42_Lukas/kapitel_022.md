@@ -118,7 +118,7 @@ wer von ihnen das wohl tun würde.
 > Vers 19–20: Diese Worte sind der Ursprung des Abendmahls, der Eucharistie oder heiligen Kommunion. Christen feiern es bis heute „zum Gedächtnis“ an Jesus. Die Worte ähneln denen bei Paulus (1. Korinther 11,23–25).
 > Die Kirchen verstehen das Abendmahl verschieden. Katholische und orthodoxe Christen glauben, dass Brot und Wein wirklich zu Leib und Blut Christi werden. Lutherische Christen glauben, dass Christus in, mit und unter Brot und Wein wirklich gegenwärtig ist. Reformierte und andere evangelische Christen betonen die geistliche Gegenwart Christi und das Gedächtnis. Alle verbindet: Jesus schenkt sich selbst.
 > „Neuer Bund“ erinnert an Jeremia 31,31–34. Das heißt nicht, dass Gottes Bund mit Israel aufgehoben ist (Römer 11,29).
-> Vers 19b–20 („der für euch gegeben wird ... das für euch vergossen wird“) fehlen in einer einzigen alten griechischen Handschrift und in einigen alten Übersetzungen. Fast alle Handschriften haben sie.
+> Vers 19b–20 („der für euch gegeben wird … das für euch vergossen wird“) fehlen in einer einzigen alten griechischen Handschrift und in einigen alten Übersetzungen. Fast alle Handschriften haben sie.
 > Vers 21: Auch Judas ist beim Mahl dabei. Jesus schließt ihn nicht aus.
 
 ---

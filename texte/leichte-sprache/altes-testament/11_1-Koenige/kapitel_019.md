@@ -44,7 +44,7 @@ bis zum Horeb, dem Berg Gottes.
 
 ---
 
-## Gott ist im sanften, leisen Säuseln (Vers 9–18)
+## Gott spricht mit leiser Stimme (Vers 9–18)
 
 [9] Dort kam er zu einer Höhle und übernachtete dort.
 Und schau, das Wort des HERRN kam zu ihm.
@@ -66,7 +66,7 @@ Nach dem Wind kam ein Erdbeben.
 Aber der HERR war nicht im Erdbeben.
 [12] Nach dem Erdbeben kam ein Feuer.
 Aber der HERR war nicht im Feuer.
-Nach dem Feuer kam ein stilles, sanftes Säuseln.
+Nach dem Feuer kam eine stille, leise Stimme.
 [13] Als Elija das hörte, verhüllte er sein Gesicht mit seinem Mantel,
 ging hinaus und stellte sich an den Eingang der Höhle.
 Und schau, eine Stimme kam zu ihm und sagte:
@@ -93,7 +93,7 @@ und jeden Mund, der ihn nicht geküsst hat.“
 > **Was bedeutet das?**
 > Das ist eine der bekanntesten Stellen der Bibel. Gott fragt zweimal: „Was machst du hier, Elija?“ Er fragt nicht streng, sondern lädt Elija ein, zu reden.
 > Elija schüttet sein Herz aus: Ich habe alles gegeben, und jetzt bin ich ganz allein.
-> Dann kommen Sturm, Erdbeben und Feuer, wie damals am Sinai. Aber Gott ist nicht darin. Gott kommt in einem „stillen, sanften Säuseln“. Im Hebräischen steht etwas wie „eine Stimme verschwebenden Schweigens“. Gott ist nicht nur im Spektakulären. Oft begegnet er uns leise, in der Stille.
+> Dann kommen Sturm, Erdbeben und Feuer, wie damals am Sinai. Aber Gott ist nicht darin. Gott kommt in einer „stillen, leisen Stimme“. Im Hebräischen steht wörtlich etwa: „ein Klang von feiner Stille“. Gott ist nicht nur im Spektakulären. Oft begegnet er uns leise, in der Stille.
 > Elija hatte das große Feuer auf dem Karmel erlebt. Jetzt lernt er: Gott wirkt auch still und verborgen.
 > Gott gibt Elija neue Aufgaben. Er ist nicht abgeschrieben. Und er bekommt einen Nachfolger, Elisa. Er muss die Last nicht mehr allein tragen.
 > Und Elija ist nicht der Einzige: 7000 Menschen sind Gott treu geblieben. Wer sich allein fühlt, weiß oft nicht, wie viele andere es noch gibt. Paulus zitiert diesen Vers in Römer 11,4.

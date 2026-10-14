@@ -57,7 +57,7 @@ und die beiden schlossen einen Vertrag miteinander.
 > Hiram, ein König, der den HERRN nicht als seinen Gott verehrt, lobt den Gott Israels. Salomos Ruhm macht auch Gott bei anderen Völkern bekannt.
 > Es ist ein Handelsvertrag: Holz gegen Lebensmittel. Tyrus war eine Stadt am Meer mit wenig Ackerland. Israel hatte viel Getreide.
 > Das Holz wurde in Flößen auf dem Meer die Küste entlang transportiert, wohl bis Jafo. Von dort brachte man es nach Jerusalem (2. Chronik 2,15).
-> In der Bibel steht „20 000 Kor Weizen“ und „20 Kor Öl“. Ein Kor sind etwa 220 Liter. Die alte griechische Übersetzung und 2. Chronik 2,9 haben beim Öl eine viel größere Menge.
+> In der Bibel steht „20 000 Kor Weizen“ und „20 Kor Öl“. Ein Kor sind etwa 220 Liter. Die alte griechische Übersetzung und 2. Chronik 2,9 haben beim Öl eine viel größere Menge.
 > „Der HERR gab Salomo Weisheit“: Seine Weisheit zeigt sich auch darin, dass er Frieden mit den Nachbarn schließt.
 
 ---
@@ -65,12 +65,12 @@ und die beiden schlossen einen Vertrag miteinander.
 ## Die Zwangsarbeit (Vers 13–18)
 
 [13] Der König Salomo hob aus ganz Israel Zwangsarbeiter aus.
-Es waren 30 000 Mann.
-[14] Er schickte sie auf den Libanon, jeden Monat 10 000 im Wechsel.
+Es waren 30 000 Mann.
+[14] Er schickte sie auf den Libanon, jeden Monat 10 000 im Wechsel.
 Einen Monat waren sie auf dem Libanon und zwei Monate zu Hause.
 Und Adoniram war über die Zwangsarbeiter gesetzt.
-[15] Salomo hatte 70 000 Lastträger
-und 80 000 Steinhauer im Gebirge,
+[15] Salomo hatte 70 000 Lastträger
+und 80 000 Steinhauer im Gebirge,
 [16] außer den obersten Aufsehern Salomos, die über die Arbeit gesetzt waren:
 3300, die über das Volk herrschten, das an der Arbeit beschäftigt war.
 [17] Der König befahl,
@@ -82,6 +82,6 @@ behauten sie und bereiteten das Holz und die Steine vor, um das Haus zu bauen.
 > **Was bedeutet das?**
 > Für den Tempelbau braucht Salomo viele Arbeiter. Er zwingt Männer aus Israel zur Arbeit. Sie müssen abwechselnd einen Monat im Libanon arbeiten und dürfen dann zwei Monate nach Hause.
 > Das erinnert an Samuels Warnung: Der König wird eure Söhne für seine Arbeit nehmen (1. Samuel 8,16). Und es erinnert an die Zwangsarbeit, die Israel einst in Ägypten leisten musste (2. Mose 1,11). Der prächtige Tempel wurde mit der Last vieler Menschen gebaut.
-> In Kapitel 9,22 steht, dass Salomo keine Israeliten zu Sklaven machte. Wahrscheinlich waren die 150 000 Lastträger und Steinhauer vor allem Nicht-Israeliten, die noch im Land lebten (2. Chronik 2,16–17).
+> In Kapitel 9,22 steht, dass Salomo keine Israeliten zu Sklaven machte. Wahrscheinlich waren die 150 000 Lastträger und Steinhauer vor allem Nicht-Israeliten, die noch im Land lebten (2. Chronik 2,16–17).
 > In 2. Chronik 2,17 steht 3600 Aufseher statt 3300.
 > Gebal ist die Stadt Byblos im heutigen Libanon. Ihre Bewohner waren berühmte Steinmetze.

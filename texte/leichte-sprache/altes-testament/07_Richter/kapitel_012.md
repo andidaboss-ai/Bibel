@@ -39,7 +39,7 @@ Wenn er sagte: „Nein“,
 [6] dann sagten sie zu ihm: „Sag doch ‚Schibbolet‘.“
 Dann sagte er „Sibbolet“, denn er konnte es nicht richtig aussprechen.
 Dann packten sie ihn und töteten ihn an den Furten des Jordan.
-Damals fielen von Efraim 42.000 Mann.
+Damals fielen von Efraim 42 000 Mann.
 [7] Jiftach richtete Israel sechs Jahre lang.
 Dann starb Jiftach, der Gileaditer, und wurde in einer der Städte Gileads begraben.
 
@@ -47,7 +47,7 @@ Dann starb Jiftach, der Gileaditer, und wurde in einer der Städte Gileads begra
 > „Schibbolet“ bedeutet „Ähre“ oder „Strömung“. Die Efraimiter sprachen einen anderen Dialekt. Sie konnten das „sch“ nicht aussprechen und sagten „s“. So konnte man sie an ihrer Aussprache erkennen.
 > Aus dieser Geschichte kommt das Wort „Schibboleth“, das es bis heute in vielen Sprachen gibt, auch im Deutschen. Es bedeutet: ein Erkennungszeichen, an dem man sieht, ob jemand zu einer Gruppe gehört oder nicht.
 > Die Geschichte ist erschreckend: Menschen werden getötet, nur weil sie anders sprechen. Leider ist so etwas in der Geschichte immer wieder geschehen. Die Bibel erzählt es als Zeichen für den Zerfall des Volkes, nicht als Vorbild.
-> Die Zahl 42.000 ist sehr hoch. Das hebräische Wort für „tausend“ kann auch eine kleinere militärische Einheit bedeuten (siehe Josua 8).
+> Die Zahl 42 000 ist sehr hoch. Das hebräische Wort für „tausend“ kann auch eine kleinere militärische Einheit bedeuten (siehe Josua 8).
 
 ---
 

@@ -88,7 +88,7 @@ Alles, was sie wünschte, wurde ihr gegeben,
 um es aus dem Frauenhaus in das Haus des Königs mitzunehmen.
 [14] Am Abend ging sie hinein,
 und am Morgen kehrte sie in das zweite Frauenhaus zurück,
-unter die Aufsicht Schaaschgas', des Kämmerers des Königs, des Hüters der Nebenfrauen.
+unter die Aufsicht Schaaschgas’, des Kämmerers des Königs, des Hüters der Nebenfrauen.
 Sie kam nicht mehr zum König,
 außer wenn der König Gefallen an ihr hatte
 und sie mit Namen gerufen wurde.
@@ -108,7 +108,7 @@ zum König hineinzugehen,
 verlangte sie nichts außer dem, was Hegai, der Kämmerer des Königs, der Hüter der Frauen, ihr riet.
 Und Ester fand Gunst in den Augen aller, die sie sahen.
 [16] So wurde Ester zum König Ahasveros in sein königliches Haus gebracht,
-im zehnten Monat, das ist der Monat Tebet,
+im zehnten Monat, das ist der Monat Tewet,
 im siebten Jahr seiner Regierung.
 [17] Der König liebte Ester mehr als alle anderen Frauen,
 und sie fand Gunst und Güte bei ihm, mehr als alle anderen Jungfrauen.
@@ -121,7 +121,7 @@ und gab Geschenke nach der Freigebigkeit des Königs.
 
 > **Was bedeutet das?**
 > Ester ist bescheiden. Sie verlangt nichts Besonderes, sondern hört auf den Rat Hegais.
-> Der Monat Tebet ist Dezember/Januar. Das siebte Jahr des Königs ist etwa 479 vor Christus. Zwischen Kapitel 1 und Kapitel 2 lagen also vier Jahre. In dieser Zeit führte Xerxes seinen Krieg gegen Griechenland.
+> Der Monat Tewet ist Dezember/Januar. Das siebte Jahr des Königs ist etwa 479 vor Christus. Zwischen Kapitel 1 und Kapitel 2 lagen also vier Jahre. In dieser Zeit führte Xerxes seinen Krieg gegen Griechenland.
 > Ester wird Königin. Eine jüdische Waise sitzt jetzt auf dem Thron des größten Reiches der Welt. Noch weiß niemand, warum das so wichtig ist.
 > „Feiertag“: Das hebräische Wort kann auch „Steuererlass“ bedeuten. Gemeint ist eine Befreiung von Arbeit oder von Steuern.
 

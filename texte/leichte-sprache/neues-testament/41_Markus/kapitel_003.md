@@ -93,7 +93,7 @@ Dann ging er in ein Haus.
 > Zwölf Apostel, wie die zwölf Stämme Israels. Jesus sammelt ein erneuertes Gottesvolk.
 > Vers 14: Das Erste ist: „bei ihm sein“. Erst danach kommt das Predigen und Heilen.
 > „Petrus“ heißt „Fels“. „Donnersöhne“: Vielleicht waren Jakobus und Johannes sehr temperamentvoll (vergleiche Lukas 9,54).
-> „Simon der Zelot“: Die Zeloten waren eiferige Juden, von denen manche gegen die Römer kämpfen wollten. Matthäus dagegen war ein Zöllner, der mit den Römern zusammenarbeitete. Jesus beruft beide. In seiner Gemeinschaft finden sehr verschiedene Menschen zusammen.
+> „Simon der Zelot“: Die Zeloten waren eifrige Juden, von denen manche gegen die Römer kämpfen wollten. Matthäus dagegen war ein Zöllner, der mit den Römern zusammenarbeitete. Jesus beruft beide. In seiner Gemeinschaft finden sehr verschiedene Menschen zusammen.
 > In manchen alten Handschriften steht in Vers 14 noch: „die er auch Apostel nannte“. Das WEB hat das nicht.
 
 ---

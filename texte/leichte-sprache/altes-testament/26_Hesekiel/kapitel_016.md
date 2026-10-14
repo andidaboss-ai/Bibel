@@ -94,7 +94,7 @@ spricht der Herr, der HERR.
 
 ## Die Untreue (Vers 15–22)
 
-[15] Aber du hast auf deine Schönheit vertraut
+[15] „Aber du hast auf deine Schönheit vertraut
 und hast wegen deines Rufes Hurerei getrieben
 und deine Hurerei über jeden ausgegossen, der vorüberging.
 Ihm gehörte sie.

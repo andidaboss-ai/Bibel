@@ -7,7 +7,7 @@
 
 [1] Als Rehabeam nach Jerusalem gekommen war,
 versammelte er das Haus Juda und Benjamin,
-180 000 ausgewählte Krieger,
+180 000 ausgewählte Krieger,
 um gegen Israel zu kämpfen
 und das Königreich wieder an Rehabeam zurückzubringen.
 [2] Aber das Wort des HERRN kam zu Schemaja, dem Mann Gottes:

@@ -43,7 +43,7 @@ und setzte ihn ins Gefängnis bis zum Tag seines Todes.
 
 > **Was bedeutet das?**
 > Das letzte Kapitel ist ein geschichtlicher Anhang. Es stimmt fast wörtlich mit 2. Könige 24,18–25,30 überein. Es zeigt: Alles, was Jeremia angekündigt hatte, ist eingetroffen.
-> Vers 4: Der zehnte Tag des zehnten Monats ist bis heute ein jüdischer Fastentag (Asara be-Tevet), an dem man an den Beginn der Belagerung erinnert.
+> Vers 4: Der zehnte Tag des zehnten Monats ist bis heute ein jüdischer Fastentag (Asara be-Tewet), an dem man an den Beginn der Belagerung erinnert.
 > Vers 6: In der Stadt herrschte schrecklicher Hunger.
 > Vers 10–11: Das grausame Schicksal Zidkijas wird noch einmal erzählt (vgl. 39,6–7). Gewalt gegen Gefangene und Kinder ist ein Verbrechen. Die Bibel berichtet sie, damit das Leid nicht vergessen wird.
 

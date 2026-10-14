@@ -174,7 +174,7 @@ um meinetwillen und um meines Knechtes David willen.‘“
 ## Die Rettung (Vers 35–37)
 
 [35] In dieser Nacht ging der Engel des HERRN aus
-und schlug im Lager der Assyrer 185 000 Mann.
+und schlug im Lager der Assyrer 185 000 Mann.
 Als man am Morgen früh aufstand,
 schau, da waren sie alle tot, lauter Leichen.
 [36] Da brach Sanherib, der König von Assyrien, auf,
@@ -189,7 +189,7 @@ Und sein Sohn Asarhaddon wurde an seiner Stelle König.
 > Jerusalem wird gerettet, ohne dass ein einziger Pfeil geschossen wird. Gott selbst greift ein.
 > Was genau geschehen ist, ist unbekannt. Viele denken an eine Seuche, die im Lager ausbrach. Der griechische Geschichtsschreiber Herodot erzählt eine ähnliche Geschichte: Mäuse hätten in einer Nacht das Heer Sanheribs heimgesucht. Mäuse können Krankheiten übertragen.
 > Bemerkenswert: In seinen eigenen Inschriften sagt Sanherib nicht, dass er Jerusalem erobert hat. Er sagt nur, dass er Hiskija „wie einen Vogel im Käfig“ eingeschlossen habe. Ein assyrischer König hätte eine Eroberung bestimmt erwähnt.
-> Die Zahl 185 000 ist sehr groß. Wie bei anderen Zahlen in alten Kriegsberichten ist es schwer zu sagen, wie sie gemeint ist.
+> Die Zahl 185 000 ist sehr groß. Wie bei anderen Zahlen in alten Kriegsberichten ist es schwer zu sagen, wie sie gemeint ist.
 > Sanherib wurde etwa 20 Jahre später, 681 vor Christus, von einem oder mehreren seiner Söhne ermordet. Das berichten auch babylonische Quellen. Sein Sohn Asarhaddon wurde König.
 > Ararat ist das Gebiet des heutigen Armenien.
 > Der Gott Nisroch ist sonst nicht bekannt.

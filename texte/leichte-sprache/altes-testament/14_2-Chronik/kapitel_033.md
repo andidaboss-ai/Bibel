@@ -137,9 +137,9 @@ sondern dieser Amon machte seine Schuld immer größer.
 [24] Seine Diener verschworen sich gegen ihn
 und töteten ihn in seinem eigenen Haus.
 [25] Aber das Volk des Landes tötete alle, die sich gegen den König Amon verschworen hatten.
-Und das Volk des Landes machte seinen Sohn Josia an seiner Stelle zum König.
+Und das Volk des Landes machte seinen Sohn Joschija an seiner Stelle zum König.
 
 > **Was bedeutet das?**
 > Amon ahmte die bösen Taten seines Vaters nach, aber nicht seine Umkehr. Das ist traurig: Kinder lernen oft mehr aus den Fehlern der Eltern als aus ihrer Umkehr.
 > Amon regierte etwa von 642 bis 640 vor Christus.
-> Sein Sohn Josia wird einer der besten Könige Judas werden.
+> Sein Sohn Joschija wird einer der besten Könige Judas werden.

@@ -20,7 +20,7 @@ Er hatte die heiligen Geräte und die Trompeten für das Signal in seiner Hand.
 
 > **Was bedeutet das?**
 > Dieses Kapitel ist eines der schwierigsten der ganzen Bibel. Es erzählt von einem Krieg mit großer Grausamkeit.
-> Der Grund für den Krieg wird in Kapitel 25 erzählt: Die Midianiter hatten Israel absichtlich zum Götzendienst verführt. Dabei starben 24.000 Israeliten an einer Plage.
+> Der Grund für den Krieg wird in Kapitel 25 erzählt: Die Midianiter hatten Israel absichtlich zum Götzendienst verführt. Dabei starben 24 000 Israeliten an einer Plage.
 > Es ist die letzte Aufgabe von Mose vor seinem Tod.
 
 ---
@@ -114,32 +114,32 @@ und gib sie den Leviten, die den Dienst an der Wohnung des HERRN tun.“
 [31] Mose und Eleasar, der Priester, taten, wie der HERR es Mose befohlen hatte.
 
 [32] Die Beute, abgesehen von dem, was die Krieger für sich selbst genommen hatten,
-waren 675.000 Schafe und Ziegen,
-[33] 72.000 Rinder,
-[34] 61.000 Esel
-[35] und insgesamt 32.000 Menschen, Mädchen, die noch nicht mit einem Mann geschlafen hatten.
+waren 675 000 Schafe und Ziegen,
+[33] 72 000 Rinder,
+[34] 61 000 Esel
+[35] und insgesamt 32 000 Menschen, Mädchen, die noch nicht mit einem Mann geschlafen hatten.
 
-[36] Die Hälfte, die der Anteil der Krieger war, waren 337.500 Schafe und Ziegen.
+[36] Die Hälfte, die der Anteil der Krieger war, waren 337 500 Schafe und Ziegen.
 [37] Die Abgabe für den HERRN von den Schafen und Ziegen waren 675.
-[38] Die Rinder waren 36.000. Die Abgabe für den HERRN davon waren 72.
-[39] Die Esel waren 30.500. Die Abgabe für den HERRN davon waren 61.
-[40] Die Menschen waren 16.000. Die Abgabe für den HERRN davon waren 32 Menschen.
+[38] Die Rinder waren 36 000. Die Abgabe für den HERRN davon waren 72.
+[39] Die Esel waren 30 500. Die Abgabe für den HERRN davon waren 61.
+[40] Die Menschen waren 16 000. Die Abgabe für den HERRN davon waren 32 Menschen.
 [41] Mose gab die Abgabe, die Gabe für den HERRN, Eleasar, dem Priester,
 wie der HERR es Mose befohlen hatte.
 
 [42] Von der Hälfte der Israeliten, die Mose von der Hälfte der Krieger abgeteilt hatte –
-[43] die Hälfte der Gemeinde waren 337.500 Schafe und Ziegen,
-[44] 36.000 Rinder,
-[45] 30.500 Esel
-[46] und 16.000 Menschen –
+[43] die Hälfte der Gemeinde waren 337 500 Schafe und Ziegen,
+[44] 36 000 Rinder,
+[45] 30 500 Esel
+[46] und 16 000 Menschen –
 [47] von der Hälfte der Israeliten nahm Mose einen von 50, von Menschen und von Tieren,
 und gab sie den Leviten, die den Dienst an der Wohnung des HERRN taten,
 wie der HERR es Mose befohlen hatte.
 
 > **Was bedeutet das?**
-> Die Beute wird gerecht geteilt: Die Hälfte bekommen die 12.000 Krieger, die andere Hälfte das ganze Volk. So bekommen auch die etwas, die zu Hause geblieben sind.
+> Die Beute wird gerecht geteilt: Die Hälfte bekommen die 12 000 Krieger, die andere Hälfte das ganze Volk. So bekommen auch die etwas, die zu Hause geblieben sind.
 > Von beiden Hälften geht ein Teil an Gott, also an die Priester und Leviten.
-> Die Zahlen sind sehr genau. Man kann nachrechnen: 675 ist genau ein Fünfhundertstel von 337.500, und so weiter. Die Rechnung geht auf.
+> Die Zahlen sind sehr genau. Man kann nachrechnen: 675 ist genau ein Fünfhundertstel von 337 500, und so weiter. Die Rechnung geht auf.
 > Besonders schwer ist, dass auch Menschen als „Beute“ gezählt werden, die gefangenen Mädchen. 32 von ihnen kamen zu den Priestern, wohl als Dienerinnen am Heiligtum. Das zeigt eine Welt, in der Menschen als Besitz galten. Heute wissen wir: Kein Mensch darf Eigentum eines anderen sein.
 > Für die Mädchen gab es später Regeln zum Schutz. Ein Israelit durfte eine gefangene Frau nicht einfach benutzen oder verkaufen, sondern musste ihr Zeit zum Trauern geben und sie wie eine Ehefrau behandeln (5. Mose 21,10–14). Das ist nach heutigem Maßstab trotzdem kein gerechter Zustand.
 
@@ -165,6 +165,6 @@ und brachten es in das Zelt der Begegnung,
 als Erinnerung an die Israeliten vor dem HERRN.
 
 > **Was bedeutet das?**
-> In der Bibel steht: 16.750 Schekel Gold. Ein Schekel sind etwa 11 Gramm.
+> In der Bibel steht: 16 750 Schekel Gold. Ein Schekel sind etwa 11 Gramm.
 > Kein einziger Soldat ist im Krieg gestorben. Die Offiziere sehen das als Wunder und danken Gott mit einer großen Gabe.
 > „Um Versöhnung zu schaffen“: Vielleicht spüren sie, dass sie durch das Töten Schuld auf sich geladen haben. Sie wollen sich vor Gott wieder reinigen.

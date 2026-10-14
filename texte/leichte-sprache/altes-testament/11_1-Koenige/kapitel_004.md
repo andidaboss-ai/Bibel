@@ -77,7 +77,7 @@ Und er hatte Frieden ringsum.
 [25] Juda und Israel wohnten in Sicherheit,
 jeder unter seinem Weinstock und unter seinem Feigenbaum,
 von Dan bis Beerscheba, solange Salomo lebte.
-[26] Salomo hatte 40 000 Ställe für die Pferde seiner Wagen und 12 000 Reiter.
+[26] Salomo hatte 40 000 Ställe für die Pferde seiner Wagen und 12 000 Reiter.
 [27] Diese Statthalter versorgten den König Salomo
 und alle, die an den Tisch des Königs Salomo kamen, jeder in seinem Monat.
 Sie ließen nichts fehlen.
@@ -89,8 +89,8 @@ an den Ort, wo die Statthalter waren, jeder nach seiner Pflicht.
 > Das ist die goldene Zeit Israels. Das Volk ist groß, es hat genug zu essen, es lebt in Frieden und Freude. Gottes Versprechen an Abraham scheint erfüllt: „zahlreich wie der Sand am Meer“ (1. Mose 22,17).
 > „Der Strom“ ist der Euphrat. Salomos Einfluss reicht vom Euphrat im Norden bis nach Ägypten im Süden.
 > „Jeder unter seinem Weinstock und unter seinem Feigenbaum“ ist ein Bild für Frieden und Wohlstand: Jeder kann in Ruhe von dem leben, was er anbaut. Die Propheten haben dieses Bild später für die Zeit des Friedens benutzt, die Gott schenken wird (Micha 4,4).
-> Der Hof Salomos verbraucht riesige Mengen. In der Bibel steht „30 Kor Feinmehl und 60 Kor Mehl“. Ein Kor sind etwa 220 Liter. 60 Kor sind also etwa 13 200 Liter. Daran sieht man, wie groß der Hofstaat war, vielleicht mehrere Tausend Menschen.
-> 40 000 Ställe: In 2. Chronik 9,25 steht 4000. Das passt besser zu den 12 000 Reitern.
+> Der Hof Salomos verbraucht riesige Mengen. In der Bibel steht „30 Kor Feinmehl und 60 Kor Mehl“. Ein Kor sind etwa 220 Liter. 60 Kor sind also etwa 13 200 Liter. Daran sieht man, wie groß der Hofstaat war, vielleicht mehrere Tausend Menschen.
+> 40 000 Ställe: In 2. Chronik 9,25 steht 4000. Das passt besser zu den 12 000 Reitern.
 > Pferde und Wagen in großer Zahl: Davor hatte das Gesetz den König gewarnt (5. Mose 17,16). Hinter dem Glanz zeigen sich schon die ersten Schatten.
 
 ---

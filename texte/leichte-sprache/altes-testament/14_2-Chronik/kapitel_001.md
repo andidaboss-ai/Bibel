@@ -83,7 +83,7 @@ Und er regierte über Israel.
 ## Salomos Reichtum (Vers 14–17)
 
 [14] Salomo sammelte Wagen und Reiter.
-Er hatte 1400 Wagen und 12 000 Reiter.
+Er hatte 1400 Wagen und 12 000 Reiter.
 Er brachte sie in die Wagenstädte und zum König nach Jerusalem.
 [15] Der König machte Silber und Gold in Jerusalem so häufig wie Steine
 und Zedern so häufig wie die Maulbeerfeigenbäume in der Niederung.
