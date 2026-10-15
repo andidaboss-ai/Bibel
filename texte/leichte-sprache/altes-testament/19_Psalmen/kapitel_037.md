@@ -1,5 +1,5 @@
 # Psalm 37
-### Befiehl dem HERRN deine Wege
+### Vertrau dem HERRN deinen Weg an
 
 ---
 
@@ -23,7 +23,7 @@ und wie das grüne Kraut verwelken sie.
 Wohne im Land und weide in Sicherheit!
 [4] Hab auch deine Lust am HERRN,
 und er wird dir geben, was dein Herz wünscht.
-[5] Befiehl dem HERRN deinen Weg!
+[5] Vertrau dem HERRN deinen Weg an!
 Vertraue auch auf ihn, und er wird es tun:
 [6] Er wird deine Gerechtigkeit hervorbringen wie das Licht
 und dein Recht wie die Mittagssonne.
@@ -35,7 +35,7 @@ und dein Recht wie die Mittagssonne.
 
 > **Was bedeutet das?**
 > Vers 4: „Hab auch deine Lust am HERRN“: Wenn Gott meine größte Freude ist, dann werden auch meine Wünsche so, dass Gott sie gerne erfüllt.
-> Vers 5 ist sehr bekannt: „Befiehl dem HERRN deinen Weg.“ Wörtlich: „Wälze deinen Weg auf den HERRN“, wie man eine schwere Last auf jemanden anderen rollt. Das Lied „Befiehl du deine Wege“ von Paul Gerhardt beruht auf diesem Vers.
+> Vers 5 ist sehr bekannt: „Vertrau dem HERRN deinen Weg an!“ Im Hebräischen steht ein starkes Bild: Man rollt seinen Weg auf den HERRN, wie man eine schwere Last auf jemand anderen rollt. Das Lied „Befiehl du deine Wege“ von Paul Gerhardt beruht auf diesem Vers.
 > Vers 7–8: Ärger und Neid fressen einen innerlich auf und verleiten selbst zum Bösen. Besser ist es, still zu werden und Gott zu vertrauen.
 
 ---

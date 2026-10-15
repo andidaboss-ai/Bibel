@@ -3,13 +3,13 @@
 
 ---
 
-## Befiehl dem HERRN deine Werke (Vers 1–9)
+## Vertrau dem HERRN deine Werke an (Vers 1–9)
 
 [1] Die Pläne des Herzens gehören dem Menschen,
 aber die Antwort der Zunge kommt vom HERRN.
 [2] Alle Wege eines Menschen sind rein in seinen eigenen Augen,
 aber der HERR prüft die Beweggründe.
-[3] Befiehl dem HERRN deine Werke,
+[3] Vertrau dem HERRN deine Werke an,
 dann werden deine Pläne gelingen.
 [4] Der HERR hat alles für seinen Zweck gemacht,
 ja, sogar den Gottlosen für den Tag des Unheils.
@@ -27,7 +27,7 @@ aber der HERR lenkt seine Schritte.
 > **Was bedeutet das?**
 > Vers 1 und 9 sind die Grundlage des Sprichworts: Der Mensch denkt, Gott lenkt. Wir dürfen planen. Aber am Ende hat Gott das letzte Wort.
 > Vers 2: Wir halten uns oft selbst für gut. Gott schaut tiefer, auf unsere wahren Beweggründe.
-> Vers 3: „Befiehl“ heißt: Leg es in Gottes Hände, vertrau es ihm an.
+> Vers 3: „Vertrau dem HERRN deine Werke an“ heißt: Leg alles, was du tust, in Gottes Hände.
 > Vers 4: Dieser Vers ist schwierig. Er heißt nicht, dass Gott Menschen böse gemacht hat. Er sagt: Nichts liegt außerhalb von Gottes Plan. Auch das Böse wird am Ende seinem Gericht nicht entkommen.
 > Vers 6: Schuld wird nicht durch Opfer allein weggenommen, sondern durch Güte und Treue, durch Gottes Gnade und durch ein verändertes Leben.
 
