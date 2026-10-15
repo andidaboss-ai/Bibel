@@ -64,7 +64,7 @@ Die Druckausgabe besteht aus **4 Bänden**. Jeder Band hat höchstens 550 Seiten
 |---|---|---|---|---|
 | 1 | Altes Testament: 1. Mose bis 1. Samuel | 511 | 1,340 Zoll | 1,151 Zoll |
 | 2 | Altes Testament: 2. Samuel bis Psalmen | 519 | 1,358 Zoll | 1,169 Zoll |
-| 3 | Altes Testament: Sprüche bis Maleachi | 493 | 1,299 Zoll | 1,110 Zoll |
+| 3 | Altes Testament: Sprüche bis Maleachi | 495 | 1,304 Zoll | 1,115 Zoll |
 | 4 | Neues Testament: Matthäus bis Offenbarung | 515 | 1,349 Zoll | 1,160 Zoll |
 
 Die Bände sind fast gleich dick. Im Regal sehen sie aus wie eine Reihe. Jeder Band hat eine eigene Farbe: Band 1 Violett, Band 2 Smaragd, Band 3 Saphir, Band 4 Rubin. Die Gesamtausgabe ist Gold.
@@ -77,9 +77,22 @@ Je Band gibt es drei Dateien:
 ## Gestaltung des Innenteils
 
 - Format **8,25 × 11 Zoll** (20,96 × 27,94 cm). Das ist das größte Format, das KDP für Hardcover und Taschenbuch gleich anbietet.
-- Zweispaltig, Schrift Literata 9,2 Punkt.
-- Wie bei hochwertigen Büchern beginnen Titel, Vorwort, Inhalt, die Teile und **jedes biblische Buch auf einer rechten Seite**. Davor steht, wenn nötig, eine leere Seite.
-- Kopfzeile mit dem Namen des Buches, Seitenzahl unten in der Mitte.
+- Zweispaltig, Schrift Literata 9,2 Punkt. Keine Schrift ist kleiner als 7 Punkt.
+- **Für Schwarzweißdruck gemacht:** Aller Text ist reines Schwarz. So wird er im Druck nicht gerastert und bleibt gestochen scharf. Grau gibt es nur bei breiten Zierlinien.
+- **Kopfzeilen wie in hochwertigen Bibeln:** außen auf jeder Seite Buch und Kapitel, z. B. „MATTHÄUS 2–3“.
+- Titel, Vorwort, Inhalt, die Teile und **jedes biblische Buch beginnen auf einer rechten Seite**. Davor steht, wenn nötig, eine leere Seite.
+- Titelseite und Impressum: „Herausgegeben von Andreas Rupp“.
+- Alle Schriften sind eingebettet. Jeder Innenteil ist ein PDF mit 4,6 bis 5,5 MB.
+
+## Korrekturlesung
+
+Vor dem Druck wurde der ganze Text (rund 1,3 Millionen Wörter) geprüft:
+- **Rechtschreibung und Grammatik** mit LanguageTool, jeder Fund einzeln angesehen und, wo nötig, korrigiert.
+- **Anführungszeichen:** In allen 66 Büchern ist jede wörtliche Rede richtig geöffnet, verschachtelt und geschlossen.
+- **Namen:** überall einheitlich geschrieben (z. B. Joschija, Elija, Hiskija, Betlehem, Tarschisch).
+- **Zitate in den Erklärungen** stehen wörtlich so da, wie sie in dieser Übertragung lauten. Es gibt keine Zitate aus anderen Bibelübersetzungen.
+- Die Prüfprogramme liegen in `werkzeuge/pruefung/` und können nach jeder Textänderung wieder laufen:
+  `python3 werkzeuge/pruefung/zitate.py` und `python3 werkzeuge/pruefung/anfuehrung.py` (beide sollen 0 melden).
 
 ## Einstellungen bei KDP: Hardcover
 
