@@ -8,7 +8,7 @@
 [1] In jenen Tagen trat Johannes der Täufer auf
 und predigte in der Wüste von Judäa
 [2] und sagte:
-„Kehrt um, denn das Reich der Himmel ist nahe gekommen!“
+„Kehrt um, denn das Reich der Himmel ist nahegekommen!“
 [3] Denn dieser ist es, von dem der Prophet Jesaja gesprochen hat, als er sagte:
 „Die Stimme eines Rufers in der Wüste:
 Bereitet den Weg des Herrn!
@@ -25,7 +25,7 @@ und bekannten ihre Sünden.
 > Johannes der Täufer ist der Bote, den Maleachi angekündigt hatte (Maleachi 3,1; 4,5). Er war ein Verwandter Jesu (Lukas 1,36).
 > Vers 2: Seine Botschaft: „Kehrt um!“ Das griechische Wort bedeutet: Denkt um, ändert euer Leben, wendet euch Gott zu. „Das Reich der Himmel“ ist das Reich Gottes. Matthäus sagt „Himmel“ statt „Gott“, wie viele Juden damals, aus Ehrfurcht vor dem Namen Gottes.
 > Vers 3: Matthäus zitiert Jesaja 40,3. Johannes bereitet den Weg für den, der nach ihm kommt.
-> Vers 4: Seine Kleidung erinnert an den Propheten Elia (2. Könige 1,8). Heuschrecken waren in der Wüste eine übliche Nahrung und nach dem Gesetz erlaubt (3. Mose 11,22).
+> Vers 4: Seine Kleidung erinnert an den Propheten Elija (2. Könige 1,8). Heuschrecken waren in der Wüste eine übliche Nahrung und nach dem Gesetz erlaubt (3. Mose 11,22).
 > Vers 6: Die Taufe im Jordan war ein Zeichen: Ich will neu anfangen, Gott soll mich reinwaschen. Die Menschen bekannten dabei offen ihre Schuld.
 
 ---

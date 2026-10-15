@@ -146,7 +146,7 @@ Denn sie sagten: „Sonst verschlingt uns die Erde auch!“
 > Das ist eine furchtbare Geschichte. Gott zeigt auf erschreckende Weise, wen er erwählt hat.
 > Das „Totenreich“ heißt auf Hebräisch „Scheol“. Es ist der Ort, an den nach alter Vorstellung alle Toten kommen, tief unter der Erde.
 > Besonders schwer ist, dass auch die Frauen und Kinder mit umkommen. Für uns heute ist das kaum zu ertragen. Damals sah man die Familie als eine Einheit. Die Bibel erzählt hier ehrlich, ohne es zu beschönigen.
-> Aber nicht alle Kinder Korachs sind gestorben. Später heißt es ausdrücklich: „Die Söhne Korachs starben nicht“ (4. Mose 26,11). Ihre Nachkommen wurden Sänger im Tempel. Elf Psalmen tragen die Überschrift „von den Söhnen Korachs“, zum Beispiel Psalm 42: „Wie der Hirsch lechzt nach frischem Wasser …“ Aus dem Kind eines Rebellen wurde ein Lobsänger Gottes.
+> Aber nicht alle Kinder Korachs sind gestorben. Später heißt es ausdrücklich: „Die Söhne Korachs starben nicht“ (4. Mose 26,11). Ihre Nachkommen wurden Sänger im Tempel. Elf Psalmen tragen die Überschrift „von den Söhnen Korachs“ (Psalm 42; 44–49; 84–85; 87–88). Zum Beispiel Psalm 42: „Wie der Hirsch lechzt nach Wasserbächen …“ Aus dem Kind eines Rebellen wurde ein Lobsänger Gottes.
 
 ---
 

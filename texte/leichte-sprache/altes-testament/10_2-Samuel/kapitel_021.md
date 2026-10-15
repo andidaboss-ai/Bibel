@@ -60,7 +60,7 @@ in den ersten Tagen, am Anfang der Gerstenernte.
 
 > **Was bedeutet das?**
 > Das ist eine der schwersten Geschichten der Bibel. Sieben Männer sterben für eine Schuld, die nicht ihre eigene war.
-> Das Gesetz sagt eigentlich klar: „Kinder sollen nicht für die Schuld ihrer Väter getötet werden“ (5. Mose 24,16). Diese Geschichte steht in Spannung dazu. Sie zeigt, wie damals in Israel noch die alte Vorstellung der Blutrache lebte.
+> Das Gesetz sagt eigentlich klar: „Die Kinder sollen nicht für die Väter getötet werden“ (5. Mose 24,16). Diese Geschichte steht in Spannung dazu. Sie zeigt, wie damals in Israel noch die alte Vorstellung der Blutrache lebte.
 > Manche Ausleger fragen auch, ob David nicht froh war, mögliche Gegner aus Sauls Familie loszuwerden. Schimi hatte ihm ja vorgeworfen, ein „Blutmensch“ gegenüber dem Haus Sauls zu sein (Kapitel 16,8).
 > David verschont Mefi-Boschet, Jonatans Sohn. Er hält sein Versprechen an Jonatan.
 > Hier gibt es noch einen anderen Mefi-Boschet, einen Sohn Sauls und Rizpas.
@@ -132,6 +132,6 @@ Und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
 > „Die Lampe Israels“: Der König ist wie ein Licht für das ganze Volk. Wenn er stirbt, geht das Licht aus. Darum soll David nicht mehr selbst kämpfen.
 > In der Bibel steht „300 Schekel“. Ein Schekel sind etwa 11 Gramm.
 > „Der Riese“ heißt im Hebräischen „Rafa“. Die „Refaiter“ waren ein Volk von großen Menschen, das früher im Land lebte (5. Mose 2,11).
-> Vers 19: Im hebräischen Text steht: „Elhanan erschlug Goliat aus Gat.“ In 1. Chronik 20,5 steht: „Elhanan erschlug Lachmi, den Bruder von Goliat.“ Die englische Vorlage hat die Worte „den Bruder von“ ergänzt, damit der Text nicht im Widerspruch zu 1. Samuel 17 steht. Die Ausleger erklären diese Stelle unterschiedlich.
+> Vers 19: Im hebräischen Text steht hier nur, dass Elhanan Goliat aus Gat erschlug. In 1. Chronik 20,5 steht: „Elhanan, der Sohn Jaïrs, erschlug Lachmi, den Bruder Goliats“. Die englische Vorlage hat die Worte „den Bruder von“ ergänzt, damit der Text nicht im Widerspruch zu 1. Samuel 17 steht. Die Ausleger erklären diese Stelle unterschiedlich.
 > Sechs Finger und sechs Zehen: Das gibt es bis heute manchmal bei Menschen. Es ist eine angeborene Besonderheit.
 > Die Botschaft: Nicht nur David konnte Riesen besiegen. Auch seine Männer, im Vertrauen auf Gott, schafften es.

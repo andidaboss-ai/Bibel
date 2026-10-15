@@ -87,7 +87,7 @@ und in ihrer Schuld dahinschwinden.“
 
 > **Was bedeutet das?**
 > Vers 9: Hesekiel muss ein Notbrot aus allen möglichen Körnern und Hülsenfrüchten backen. So isst man, wenn das Essen knapp wird und man alles zusammenkratzt, was noch da ist.
-> Vers 10–11: Zwanzig Schekel sind etwa 230 Gramm Brot am Tag. Ein sechstel Hin ist etwa ein halber bis ein Liter Wasser. Das ist Hungerration, wie in einer belagerten Stadt.
+> Vers 10–11: Zwanzig Schekel sind etwa 230 Gramm Brot am Tag. Ein Sechstel Hin ist etwa ein halber bis ein Liter Wasser. Das ist Hungerration, wie in einer belagerten Stadt.
 > Vers 12–15: Getrockneter Mist war im Orient ein übliches Brennmaterial. Aber Menschenkot galt als unrein. Hesekiel ist Priester und protestiert: Er hat sich sein Leben lang an die Speisegebote gehalten. Und Gott hört auf ihn! Er erlaubt Rindermist statt Menschenkot. Das zeigt: Gott lässt mit sich reden. Ehrlicher Widerspruch im Gebet ist erlaubt.
 > Vers 13: Die Botschaft: Im Exil, unter fremden Völkern, wird es schwer sein, nach Gottes Geboten zu leben.
 > Vers 16: Der „Stab des Brotes“ ist ein Bild: Brot stützt das Leben wie ein Stock. Wenn dieser Stab zerbricht, kommt der Hunger.

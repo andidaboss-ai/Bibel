@@ -154,5 +154,5 @@ und von dort kehrte er nach Samaria zurück.
 > Diese Geschichte ist eine der schwierigsten der Bibel. Viele Menschen stoßen sich daran, und das ist verständlich.
 > Was man wissen sollte: Das hebräische Wort für „Burschen“ kann auch junge Männer bezeichnen, nicht nur kleine Kinder. Es war eine große Gruppe, mindestens 42. Sie kamen aus Bet-El, dem Ort von Jerobeams goldenem Kalb. Ihr Spott richtet sich gegen den Propheten Gottes. „Komm hoch“ ist vielleicht eine Anspielung auf Elijas Himmelfahrt, also: „Verschwinde doch auch!“
 > „Zerrissen“ heißt verletzt. Der Text sagt nicht ausdrücklich, dass alle starben.
-> Der Text will zeigen: Wer Gottes Boten verachtet, verachtet Gott selbst. Trotzdem ist diese Geschichte kein Vorbild für unser Handeln. Jesus lehrte: „Segnet, die euch verfluchen“ (Lukas 6,28).
+> Der Text will zeigen: Wer Gottes Boten verachtet, verachtet Gott selbst. Trotzdem ist diese Geschichte kein Vorbild für unser Handeln. Jesus lehrte: „Segnet die, die euch verfluchen“ (Lukas 6,28).
 > Juden und Christen haben über diese Stelle viel nachgedacht. Im Talmud (Sota 47a) heißt es sogar, Elisa sei später unter anderem deswegen krank geworden.

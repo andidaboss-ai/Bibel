@@ -58,7 +58,7 @@ Denn mit ungeteiltem Herzen gaben sie dem HERRN freiwillig.
 Und auch der König David freute sich mit großer Freude.
 
 > **Was bedeutet das?**
-> Die Großen des Volkes folgen Davids Beispiel. Und das Wichtigste: Sie geben freiwillig und von Herzen. Darum ist Freude im Volk. Freiwilliges Geben macht froh. Paulus schreibt später: „Einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).
+> Die Großen des Volkes folgen Davids Beispiel. Und das Wichtigste: Sie geben freiwillig und von Herzen. Darum ist Freude im Volk. Freiwilliges Geben macht froh. Paulus schreibt später: „Gott liebt jemanden, der mit Freude gibt“ (2. Korinther 9,7).
 > In der Bibel steht: „5000 Talente und 10 000 Dareiken Gold, 10 000 Talente Silber, 18 000 Talente Bronze, 100 000 Talente Eisen“.
 > „Dareiken“ waren persische Goldmünzen. Sie gab es zur Zeit Davids noch nicht, sondern erst etwa 500 Jahre später. Der Verfasser der Chronik hat den Wert in die Währung seiner eigenen Zeit umgerechnet, damit seine Leser ihn verstehen. 10 000 Dareiken wären etwa 84 Kilogramm Gold.
 
@@ -108,9 +108,9 @@ und den Palast baut, für den ich vorgesorgt habe.“
 
 > **Was bedeutet das?**
 > Das ist eines der schönsten Gebete der Bibel.
-> Vers 11 klingt vertraut: „Dein ist das Reich und die Kraft und die Herrlichkeit.“ Mit diesen Worten endet das Vaterunser in vielen Kirchen. Dieser Schluss ist an dieses Gebet Davids angelehnt.
+> Vers 11 klingt vertraut: „Dein, HERR, ist die Größe und die Macht, die Herrlichkeit … Dein, HERR, ist das Reich“. Ähnliche Worte stehen am Ende des Vaterunsers, so wie es in vielen Kirchen gebetet wird. Dieser Schluss ist an dieses Gebet Davids angelehnt.
 > Vers 14 ist der Kern: „Von dir kommt alles, und aus deiner Hand haben wir dir gegeben.“ Wenn wir Gott etwas geben, geben wir ihm nur zurück, was er uns vorher geschenkt hat. Dieser Satz wird bis heute in vielen Gottesdiensten bei der Kollekte gesprochen.
-> Vers 15: „Wir sind Fremde und Gäste. Unsere Tage sind wie ein Schatten.“ Der mächtige König weiß: Das Leben ist kurz. Alles, was wir haben, ist nur geliehen.
+> Vers 15: „Wir sind Fremde vor dir und Gäste … Unsere Tage auf der Erde sind wie ein Schatten.“ Der mächtige König weiß: Das Leben ist kurz. Alles, was wir haben, ist nur geliehen.
 > Am Ende betet David nicht um mehr Reichtum, sondern um ein Herz, das auf Gott ausgerichtet bleibt, für das Volk und für seinen Sohn.
 
 ---

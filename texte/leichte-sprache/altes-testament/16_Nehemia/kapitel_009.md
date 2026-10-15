@@ -88,7 +88,7 @@ das du ihnen zu geben geschworen hattest.
 > **Was bedeutet das?**
 > Hier wird die Geschichte aus 2. Mose zusammengefasst: das Elend in Ägypten, die Wunder, der Durchzug durch das Meer, die Wolken- und Feuersäule, das Gesetz am Sinai, das Manna und das Wasser aus dem Felsen.
 > Gott sieht, hört, rettet, führt, lehrt und versorgt.
-> „Brot vom Himmel“: Jesus nennt sich später selbst „das Brot des Lebens, das vom Himmel gekommen ist“ (Johannes 6,32–35).
+> „Brot vom Himmel“: Jesus nennt sich später selbst „das Brot des Lebens“ (Johannes 6,35) und „das lebendige Brot, das vom Himmel herabgekommen ist“ (Johannes 6,51).
 
 ---
 

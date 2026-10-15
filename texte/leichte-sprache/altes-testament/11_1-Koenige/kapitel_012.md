@@ -70,7 +70,7 @@ damit er sein Wort erfüllte,
 das der HERR durch Ahija aus Schilo zu Jerobeam, dem Sohn Nebats, geredet hatte.
 
 > **Was bedeutet das?**
-> Die Alten geben einen weisen Rat: „Wenn du dem Volk dienst, wird es dir dienen.“ Ein guter Herrscher ist ein Diener. Jesus hat später etwas sehr Ähnliches gesagt: „Wer unter euch groß sein will, der soll euer Diener sein“ (Markus 10,43).
+> Die Alten geben einen weisen Rat: „Wenn du heute ein Diener dieses Volkes bist … dann werden sie für immer deine Diener sein.“ Ein guter Herrscher ist ein Diener. Jesus hat später etwas sehr Ähnliches gesagt: „Wer bei euch groß werden will, der soll euer Diener sein“ (Markus 10,43).
 > Die jungen Männer sind mit Rehabeam im Palast aufgewachsen. Sie kennen das harte Leben des Volkes nicht. Sie raten zu Härte und Angeberei.
 > „Mein kleiner Finger ist dicker als die Hüften meines Vaters“: Das ist eine grobe Prahlerei. „Skorpione“ waren vielleicht Peitschen mit Stacheln oder Haken.
 > Vers 15 sagt: Gott hat es so gefügt. Das heißt nicht, dass Rehabeam keine Schuld hatte. Er hat seine Wahl selbst getroffen. Aber Gott wirkt auch durch die Fehler der Menschen, damit sein Wort sich erfüllt.

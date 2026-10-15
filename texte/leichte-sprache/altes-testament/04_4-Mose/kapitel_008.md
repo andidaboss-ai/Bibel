@@ -50,7 +50,7 @@ Und die Leviten sollen mir gehören.
 > Die Leviten werden nicht wie die Priester gesalbt. Sie werden gereinigt: mit Wasser, durch Rasieren und Waschen. Das ist ein Zeichen für einen neuen Anfang.
 > Besonders ist Vers 10: Das ganze Volk legt den Leviten die Hände auf. Die Leviten stehen stellvertretend für das ganze Volk vor Gott. Sie dienen an Stelle der Erstgeborenen aller Familien.
 > Die Leviten werden „als Schwingopfer dargebracht“. Bei Tieren und Broten wurde die Gabe vor dem Altar hin- und hergeschwungen. Bei den Leviten ist es wohl eine feierliche Geste, mit der sie Gott übergeben werden. Sie sind wie eine lebendige Gabe des Volkes an Gott.
-> Paulus schreibt später: „Gebt euch selbst als lebendiges Opfer, das heilig ist und Gott gefällt“ (Römer 12,1).
+> Paulus schreibt später: „Gebt eure Körper Gott hin als ein lebendiges Opfer, heilig und Gott wohlgefällig“ (Römer 12,1). Wohlgefällig heißt: Es gefällt Gott.
 
 ---
 

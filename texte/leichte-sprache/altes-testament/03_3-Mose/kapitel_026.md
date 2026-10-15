@@ -196,7 +196,7 @@ die der HERR zwischen sich und den Israeliten auf dem Berg Sinai durch Mose gege
 > **Was bedeutet das?**
 > Das ist der wichtigste Teil des Kapitels. Nach all den harten Worten kommt die Hoffnung.
 > Wenn Israel seine Schuld bekennt und umkehrt, dann denkt Gott an seinen Bund. Er hat Abraham, Isaak und Jakob etwas versprochen. Dieses Versprechen gilt für immer.
-> Vers 44 ist wie ein Licht in der Dunkelheit: „Trotz allem will ich sie nicht verwerfen.“ Selbst wenn Israel den Bund bricht, bricht Gott ihn nicht. Gottes Treue ist größer als die Untreue der Menschen.
+> Vers 44 ist wie ein Licht in der Dunkelheit: „Aber trotz allem … will ich sie nicht verwerfen.“ Selbst wenn Israel den Bund bricht, bricht Gott ihn nicht. Gottes Treue ist größer als die Untreue der Menschen.
 > Ein „unbeschnittenes Herz“ ist ein Herz, das verschlossen ist für Gott. Wenn es sich „demütigt“, öffnet es sich wieder.
-> Paulus schreibt im Neuen Testament über das jüdische Volk: „Gott hat sein Volk nicht verstoßen“ (Römer 11,1–2). Und: „Gottes Gaben und seine Berufung können ihn nicht gereuen“ (Römer 11,29).
+> Paulus schreibt im Neuen Testament über das jüdische Volk: „Gott hat sein Volk nicht verstoßen“ (Römer 11,1–2). Und: „Die Gaben und die Berufung Gottes sind unwiderruflich“ (Römer 11,29). Das heißt: Gott nimmt sie nicht zurück.
 > Vers 46 ist ein Abschluss: Hier enden die großen Gesetze, die Gott am Sinai gegeben hat. Kapitel 27 ist noch ein Nachtrag.

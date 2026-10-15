@@ -3,10 +3,10 @@
 
 ---
 
-## Die Männer Hiskias (Vers 1–7)
+## Die Männer Hiskijas (Vers 1–7)
 
 [1] Auch dies sind Sprüche Salomos,
-die die Männer Hiskias, des Königs von Juda, abgeschrieben haben.
+die die Männer Hiskijas, des Königs von Juda, abgeschrieben haben.
 [2] Es ist die Ehre Gottes, eine Sache zu verbergen,
 aber die Ehre der Könige ist es, eine Sache zu erforschen.
 [3] Wie der Himmel an Höhe und die Erde an Tiefe,
@@ -22,7 +22,7 @@ als dass man dich vor dem Fürsten erniedrigt,
 den deine Augen gesehen haben.
 
 > **Was bedeutet das?**
-> Vers 1: Hier beginnt ein neuer Teil (Kapitel 25–29). König Hiskia lebte etwa 250 Jahre nach Salomo. Seine Schreiber haben alte Sprüche Salomos gesammelt und abgeschrieben. So sind sie uns erhalten geblieben.
+> Vers 1: Hier beginnt ein neuer Teil (Kapitel 25–29). König Hiskija lebte etwa 250 Jahre nach Salomo. Seine Schreiber haben alte Sprüche Salomos gesammelt und abgeschrieben. So sind sie uns erhalten geblieben.
 > Vers 2: Gott hat vieles in der Welt verborgen. Menschen dürfen und sollen forschen. Viele Wissenschaftler haben diesen Vers als Ermutigung verstanden.
 > Vers 6–7: Setz dich nicht von selbst auf den Ehrenplatz. Es ist besser, wenn man dich nach vorne bittet, als wenn man dich wegschickt. Jesus erzählt fast genau dieses Gleichnis (Lukas 14,7–11).
 

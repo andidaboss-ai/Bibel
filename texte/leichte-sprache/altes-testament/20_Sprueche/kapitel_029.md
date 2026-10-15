@@ -97,4 +97,4 @@ und wer aufrichtig lebt, ist den Gottlosen ein Gräuel.
 > Vers 24: Wer bei einem Diebstahl mitmacht und dann vor Gericht schweigt, obwohl er unter Eid aussagen müsste, schadet sich selbst.
 > Vers 25 ist ein befreiender Satz: Wer immer Angst hat, was andere denken, ist wie in einer Falle gefangen. Wer auf Gott vertraut, wird frei.
 > Vers 26: Viele versuchen, bei den Mächtigen gut dazustehen. Aber Gerechtigkeit kommt letztlich von Gott.
-> Damit enden die Sprüche, die die Männer Hiskias gesammelt haben. Es folgen die Worte Agurs (Kapitel 30) und Lemuëls (Kapitel 31).
+> Damit enden die Sprüche, die die Männer Hiskijas gesammelt haben. Es folgen die Worte Agurs (Kapitel 30) und Lemuëls (Kapitel 31).

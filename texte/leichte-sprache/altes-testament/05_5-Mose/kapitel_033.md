@@ -133,7 +133,7 @@ Wie deine Tage, so soll deine Kraft sein.
 
 > **Was bedeutet das?**
 > Sebulon und Issachar wohnten später im Norden, nahe am Meer. „Der Reichtum der Meere“ und „die Schätze im Sand“ meinen vielleicht Fischfang, Handel und das Glas, das man aus Sand machte.
-> Gad bekam das Land östlich des Jordan als „erstes Stück“ (4. Mose 32). Trotzdem kämpfte er mit den anderen Stämmen, „mit den Häuptern des Volkes“.
+> Gad bekam das Land östlich des Jordan als „erstes Stück“ (4. Mose 32). Trotzdem kämpfte er mit den anderen Stämmen: „Er kam mit den Häuptern des Volkes“ (5. Mose 33,21).
 > „Er soll seinen Fuß in Öl tauchen“: Asser bekam später ein Gebiet mit vielen Olivenbäumen. So viel Öl, dass man darin baden könnte.
 > „Wie deine Tage, so soll deine Kraft sein“: Ein schöner Segen, den viele Menschen als Trost mitnehmen. Er bedeutet: Gott gibt dir für jeden Tag so viel Kraft, wie du brauchst.
 

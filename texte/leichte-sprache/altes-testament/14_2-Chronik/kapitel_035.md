@@ -143,6 +143,6 @@ schau, sie ist aufgeschrieben im Buch der Könige von Israel und Juda.
 > Im Jahr 609 vor Christus zog Pharao Necho II. nach Norden, um den Assyrern gegen die Babylonier zu helfen. Joschija wollte ihn aufhalten.
 > Das Erstaunliche: Gott sprach diesmal durch einen fremden König. Necho warnte Joschija. Aber Joschija hörte nicht. Er hielt es wohl nicht für möglich, dass Gott durch einen Ägypter spricht.
 > Wie Ahab (Kapitel 18,29) verkleidet sich Joschija. Und wie Ahab wird er von Bogenschützen getroffen. Selbst ein so guter König kann einen tödlichen Fehler machen, wenn er nicht hinhört.
-> Die Trauer um Joschija war riesig. Er war der letzte gute König Judas. Der Prophet Sacharja erwähnt noch viel später die große Klage „im Tal von Megiddo“ (Sacharja 12,11).
+> Die Trauer um Joschija war riesig. Er war der letzte gute König Judas. Der Prophet Sacharja erwähnt noch viel später die große Klage „in der Ebene von Megiddo“ (Sacharja 12,11).
 > Die „Klagelieder“ in Vers 25 sind nicht dasselbe wie das biblische Buch „Klagelieder“, das über die Zerstörung Jerusalems klagt. Diese Sammlung gibt es nicht mehr.
 > Vom Namen Megiddo kommt das Wort „Harmagedon“ (Berg von Megiddo) in Offenbarung 16,16.

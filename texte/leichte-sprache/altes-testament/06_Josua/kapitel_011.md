@@ -41,7 +41,7 @@ Ihre Pferde lähmte er, und ihre Streitwagen verbrannte er mit Feuer.
 
 > **Was bedeutet das?**
 > „Die Pferde lähmen“: Man durchtrennte eine Sehne am Bein, damit sie nicht mehr für den Krieg taugten. Das ist grausam gegenüber den Tieren.
-> Warum sollte Israel die Pferde und Wagen nicht behalten? Israel sollte nicht auf Waffen vertrauen, sondern auf Gott. Das sagt auch das Gesetz für den König (5. Mose 17,16) und Psalm 20,8: „Die einen vertrauen auf Wagen, die anderen auf Pferde. Wir aber denken an den Namen des HERRN, unseres Gottes.“
+> Warum sollte Israel die Pferde und Wagen nicht behalten? Israel sollte nicht auf Waffen vertrauen, sondern auf Gott. Das sagt auch das Gesetz für den König (5. Mose 17,16) und Psalm 20,7 (in vielen deutschen Bibeln 20,8): „Die einen vertrauen auf Wagen und die anderen auf Pferde, wir aber vertrauen auf den Namen des HERRN, unseres Gottes.“
 
 ---
 

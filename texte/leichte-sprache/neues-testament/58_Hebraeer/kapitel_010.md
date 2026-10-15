@@ -107,7 +107,7 @@ und das umso mehr,
 je näher ihr den Tag kommen seht.
 
 > **Was bedeutet das?**
-> Vers 19–20: Früher durfte nur der Hohepriester einmal im Jahr hinter den Vorhang ins Allerheiligste. Jetzt dürfen alle, die an Jesus glauben, Gott nahe kommen.
+> Vers 19–20: Früher durfte nur der Hohepriester einmal im Jahr hinter den Vorhang ins Allerheiligste. Jetzt dürfen alle, die an Jesus glauben, Gott nahekommen.
 > Vers 22: „Mit reinem Wasser gewaschen“: Das meint wohl die Taufe.
 > Vers 24–25: Glaube braucht Gemeinschaft. Christen sollen sich treffen, einander ermutigen und zum Guten anspornen.
 

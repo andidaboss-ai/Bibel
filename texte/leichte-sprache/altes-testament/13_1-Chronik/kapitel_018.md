@@ -74,5 +74,5 @@ Und die Söhne Davids waren die Ersten an der Seite des Königs.
 > **Was bedeutet das?**
 > Vers 14 sagt, was einen guten König ausmacht: Er übt „Recht und Gerechtigkeit für sein ganzes Volk“. Nicht Macht und Siege sind das Wichtigste, sondern Gerechtigkeit für alle.
 > Die Liste zeigt Davids wichtigste Beamte. Die „Kreter und Pleter“ waren Davids Leibwache, wohl ausländische Söldner.
-> In 2. Samuel 8,18 heißt es, Davids Söhne waren „Priester“. Die Chronik schreibt „die Ersten an der Seite des Königs“. Für die Chronik konnten nur Nachkommen Aarons Priester sein.
+> Im hebräischen Text von 2. Samuel 8,18 heißt es, Davids Söhne waren Priester. Die Chronik schreibt: Sie waren „die Ersten an der Seite des Königs“ (1. Chronik 18,17). Für die Chronik konnten nur Nachkommen Aarons Priester sein.
 > In 2. Samuel 8,17 heißen die Namen „Ahimelech“ statt „Abimelech“ und „Seraja“ statt „Schawscha“.

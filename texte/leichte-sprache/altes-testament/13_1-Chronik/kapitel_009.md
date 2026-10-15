@@ -124,7 +124,7 @@ Sie wohnten in Jerusalem.
 > **Was bedeutet das?**
 > Im Tempel gab es viele verschiedene Aufgaben: Geräte zählen und verwahren, Mehl, Wein, Öl und Weihrauch verwalten, Gewürze für das heilige Salböl mischen, Brot backen.
 > Die „Schaubrote“ waren zwölf Brote, die jede Woche frisch auf einen Tisch im Heiligtum gelegt wurden, eins für jeden Stamm Israels (3. Mose 24,5–9).
-> Die Sänger lobten Gott „Tag und Nacht“. Das erinnert an Psalm 134: „Lobt den HERRN, ihr Diener des HERRN, die ihr nachts im Haus des HERRN steht.“
+> Die Sänger lobten Gott „Tag und Nacht“. Das erinnert an Psalm 134: „Lobt den HERRN, all ihr Knechte des HERRN, die ihr in der Nacht im Haus des HERRN steht!“
 > Jede Arbeit hat ihren Platz, ob Torwächter, Bäcker oder Sänger. Alle dienen gemeinsam Gott.
 
 ---

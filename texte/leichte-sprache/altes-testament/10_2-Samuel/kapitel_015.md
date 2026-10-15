@@ -192,7 +192,7 @@ Und Absalom kam nach Jerusalem.
 
 > **Was bedeutet das?**
 > David geht weinend, barfuß und mit verhülltem Kopf den Ölberg hinauf. Das sind Zeichen tiefer Trauer und Demütigung. Der König ist gebrochen.
-> Psalm 3 ist nach seiner Überschrift ein Gebet von David auf der Flucht vor Absalom: „HERR, wie sind meiner Feinde so viel! … Aber du, HERR, bist der Schild für mich.“
+> Psalm 3 ist nach seiner Überschrift ein Gebet von David auf der Flucht vor Absalom: „HERR, wie viele sind meine Gegner geworden! … Aber du, HERR, bist ein Schild um mich.“
 > David betet ein kurzes Gebet: „Mach den Rat Ahitofels zur Torheit.“ Und sofort danach kommt Huschai. Er ist die Antwort auf Davids Gebet.
 > Huschai wird „Davids Freund“ genannt. Das war wohl ein Ehrentitel für einen engen Berater des Königs. Er soll zum Schein zu Absalom überlaufen und Ahitofels Pläne durchkreuzen.
 > Der letzte Vers zeigt die Spannung: Huschai kommt in die Stadt, und gleichzeitig kommt Absalom. Das Spiel beginnt.

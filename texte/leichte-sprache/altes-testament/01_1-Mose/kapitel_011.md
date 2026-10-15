@@ -36,7 +36,7 @@ Und das ist erst der Anfang von dem, was sie tun.
 Jetzt wird ihnen nichts mehr unmöglich sein, was sie sich vornehmen.
 [7] Kommt, wir steigen hinab
 und verwirren dort ihre Sprache,
-so dass keiner mehr die Sprache des anderen versteht.“
+sodass keiner mehr die Sprache des anderen versteht.“
 
 [8] So zerstreute der HERR sie von dort über die ganze Erde.
 Und sie hörten auf, die Stadt zu bauen.

@@ -174,5 +174,5 @@ Und um die Zeit, als die Sonne unterging, starb er.
 > **Was bedeutet das?**
 > Ahab versucht, der Prophezeiung zu entgehen. Er verkleidet sich und lässt Joschafat als einzigen König in Königskleidern kämpfen. Das war gefährlich und unfair gegenüber Joschafat.
 > Aber man kann Gott nicht austricksen. Ein Pfeil, „aufs Geratewohl“ geschossen, trifft Ahab genau an der schwachen Stelle der Rüstung.
-> Die Chronik fügt in Vers 31 etwas hinzu, das in 1. Könige 22 nicht steht: „Der HERR half ihm, und Gott lenkte sie von ihm weg.“ Joschafat schreit zu Gott, und Gott rettet ihn, obwohl er sich mit Ahab eingelassen hatte. Gottes Gnade ist größer als unsere Fehler.
+> Die Chronik fügt etwas hinzu, das in 1. Könige 22 nicht steht: „Der HERR half ihm, und Gott lenkte sie von ihm weg“ (2. Chronik 18,31). Joschafat schreit zu Gott, und Gott rettet ihn, obwohl er sich mit Ahab eingelassen hatte. Gottes Gnade ist größer als unsere Fehler.
 > Ahab regierte etwa von 874 bis 853 vor Christus.

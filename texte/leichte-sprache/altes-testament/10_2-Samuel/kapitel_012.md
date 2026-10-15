@@ -85,7 +85,7 @@ wird auch der Sohn, der dir geboren ist, ganz sicher sterben.“
 
 > **Was bedeutet das?**
 > David macht keine Ausreden. Er schiebt die Schuld nicht auf andere, wie Saul es immer getan hat. Er sagt einfach: „Ich habe gegen den HERRN gesündigt.“ Das ist der große Unterschied zwischen Saul und David.
-> Psalm 51 ist nach seiner Überschrift das Gebet, das David nach diesem Gespräch betete: „Gott, sei mir gnädig nach deiner Güte … Schaffe in mir, Gott, ein reines Herz.“
+> Psalm 51 ist nach seiner Überschrift das Gebet, das David nach diesem Gespräch betete: „Sei mir gnädig, Gott, nach deiner Güte! … Schaffe in mir ein reines Herz, Gott.“
 > Gott vergibt David sofort: „Der HERR hat deine Sünde weggenommen.“ Eigentlich hätte David nach dem Gesetz den Tod verdient. Aber Gott ist gnädig.
 > Vergebung heißt aber nicht, dass alle Folgen verschwinden. Das Kind wird sterben.
 > „Den Feinden des HERRN Anlass zum Lästern gegeben“: Im Hebräischen steht wörtlich „die Feinde des HERRN verachtet“. Viele Ausleger meinen, die Schreiber haben hier ein Wort eingefügt, um nicht zu schreiben „du hast den HERRN verachtet“.

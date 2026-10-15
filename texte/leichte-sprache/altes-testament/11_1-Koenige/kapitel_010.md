@@ -51,7 +51,7 @@ Dann kehrte sie um und ging in ihr Land zurück, sie und ihre Diener.
 > Die Königin reist über 2000 Kilometer. Sie kommt nicht nur wegen des Reichtums, sondern wegen der Weisheit, und zwar „im Zusammenhang mit dem Namen des HERRN“. Sie will wissen, woher diese Weisheit kommt.
 > „Da blieb ihr der Atem weg“: Wörtlich steht da: „Es war kein Geist mehr in ihr.“ Sie war völlig überwältigt.
 > Eine ausländische Königin lobt den Gott Israels (Vers 9). Sie erkennt: Ein König ist dazu da, Recht und Gerechtigkeit zu üben. Das ist der Sinn von Macht.
-> Jesus hat später an sie erinnert: Die „Königin des Südens“ kam vom Ende der Erde, um Salomos Weisheit zu hören, „und hier ist mehr als Salomo“ (Matthäus 12,42).
+> Jesus hat später an sie erinnert: Die „Königin des Südens“ kam „von den Enden der Erde, um die Weisheit Salomos zu hören. Und siehe, hier ist mehr als Salomo“ (Matthäus 12,42).
 > In Äthiopien gibt es eine alte Überlieferung, nach der die Königin und Salomo einen Sohn hatten, Menelik. Das steht nicht in der Bibel.
 > In der Bibel steht „120 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.
 > Was „Almuggim-Holz“ genau war, weiß man nicht sicher, vielleicht rotes Sandelholz. Statt „Säulen“ könnte man das hebräische Wort auch mit „Geländer“ oder „Stützen“ übersetzen.

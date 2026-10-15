@@ -217,7 +217,7 @@ wird sich erfüllen.“
 > **Was bedeutet das?**
 > Zwei schwangere Frauen begegnen sich: eine alte und eine junge. Beide haben Unglaubliches mit Gott erlebt. Sie teilen ihre Freude.
 > Schon das ungeborene Johannes-Kind „hüpft vor Freude“. Johannes wird später auf Jesus hinweisen.
-> Elisabet nennt Maria „die Mutter meines Herrn“. Aus Vers 42 stammen Worte des katholischen Gebets „Ave Maria“.
+> Elisabet nennt Maria „die Mutter meines Herrn“. Aus Vers 42 stammen Worte des katholischen Gebets „Ave-Maria“.
 > Vers 45: Maria wird selig gepriesen, weil sie geglaubt hat. Im Unterschied zu Zacharias (Vers 20).
 
 ---

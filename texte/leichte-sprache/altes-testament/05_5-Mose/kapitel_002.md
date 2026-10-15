@@ -157,7 +157,7 @@ zusammen mit der Beute aus den Städten, die wir eingenommen hatten.
 [36] Von Aroër, das am Rand des Arnontales liegt, und von der Stadt im Tal an bis nach Gilead
 war keine Stadt zu hoch für uns.
 Der HERR, unser Gott, gab sie alle vor uns preis.
-[37] Nur dem Land der Ammoniter bist du nicht nahe gekommen:
+[37] Nur dem Land der Ammoniter bist du nicht nahegekommen:
 dem ganzen Ufer des Flusses Jabbok, den Städten im Bergland
 und allem, was der HERR, unser Gott, uns verboten hatte.
 

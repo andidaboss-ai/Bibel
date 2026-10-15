@@ -169,7 +169,7 @@ und damit ich weniger Kummer habe.
 [29] Nehmt ihn also im Herrn mit aller Freude auf.
 Und haltet solche Menschen in Ehren.
 [30] Denn wegen des Werkes von Christus
-ist er dem Tod nahe gekommen.
+ist er dem Tod nahegekommen.
 Er hat sein Leben gewagt,
 um mir den Dienst zu leisten,
 den ihr selbst mir nicht leisten konntet.

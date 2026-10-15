@@ -31,7 +31,7 @@ von Batschua, der Tochter Ammiëls;
 [6] dazu Jibhar, Elischama, Elifelet,
 [7] Nogah, Nefeg, Jafia,
 [8] Elischama, Eljada und Elifelet, neun.
-[9] Das alle waren Söhne Davids,
+[9] Das alles waren Söhne Davids,
 außer den Söhnen der Nebenfrauen.
 Und Tamar war ihre Schwester.
 

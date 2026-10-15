@@ -38,7 +38,7 @@ und gebot ihnen:
 und betretet keine Stadt der Samariter.
 [6] Geht vielmehr zu den verlorenen Schafen des Hauses Israel.
 [7] Geht hin und verkündet:
-‚Das Reich der Himmel ist nahe gekommen!‘
+‚Das Reich der Himmel ist nahegekommen!‘
 [8] Heilt Kranke,
 macht Aussätzige rein,
 treibt Dämonen aus.

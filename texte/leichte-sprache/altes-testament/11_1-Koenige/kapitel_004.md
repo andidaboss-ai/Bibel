@@ -86,7 +86,7 @@ an den Ort, wo die Statthalter waren, jeder nach seiner Pflicht.
 
 > **Was bedeutet das?**
 > In vielen deutschen Bibeln sind diese Verse schon Kapitel 5, Vers 1–8. Von hier bis zum Ende dieses Kapitels ist die Zählung um ein Kapitel verschoben.
-> Das ist die goldene Zeit Israels. Das Volk ist groß, es hat genug zu essen, es lebt in Frieden und Freude. Gottes Versprechen an Abraham scheint erfüllt: „zahlreich wie der Sand am Meer“ (1. Mose 22,17).
+> Das ist die goldene Zeit Israels. Das Volk ist groß, es hat genug zu essen, es lebt in Frieden und Freude. Gottes Versprechen an Abraham scheint erfüllt: „Ich will deine Nachkommen sehr zahlreich machen, so zahlreich wie … der Sand am Ufer des Meeres“ (1. Mose 22,17).
 > „Der Strom“ ist der Euphrat. Salomos Einfluss reicht vom Euphrat im Norden bis nach Ägypten im Süden.
 > „Jeder unter seinem Weinstock und unter seinem Feigenbaum“ ist ein Bild für Frieden und Wohlstand: Jeder kann in Ruhe von dem leben, was er anbaut. Die Propheten haben dieses Bild später für die Zeit des Friedens benutzt, die Gott schenken wird (Micha 4,4).
 > Der Hof Salomos verbraucht riesige Mengen. In der Bibel steht „30 Kor Feinmehl und 60 Kor Mehl“. Ein Kor sind etwa 220 Liter. 60 Kor sind also etwa 13 200 Liter. Daran sieht man, wie groß der Hofstaat war, vielleicht mehrere Tausend Menschen.

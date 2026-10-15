@@ -36,7 +36,7 @@ Er ist hochheilig für den HERRN.“
 > In Ellen: eine Elle lang und breit, zwei Ellen hoch. Eine Elle ist etwa 45 Zentimeter.
 > Der Räucheraltar ist klein. Er steht im Heiligen, direkt vor dem Vorhang zum Allerheiligsten.
 > Räucherwerk ist eine Mischung aus Harzen und Gewürzen. Wenn man es auf glühende Kohlen streut, steigt duftender Rauch auf.
-> In der Bibel ist der aufsteigende Rauch ein Bild für das Gebet. In Psalm 141,2 heißt es: „Mein Gebet steige vor dir auf wie Räucherwerk.“ Morgens und abends steigt der Duft auf – so wie die Gebete des Volkes zu Gott.
+> In der Bibel ist der aufsteigende Rauch ein Bild für das Gebet. In Psalm 141,2 heißt es: „Mein Gebet soll vor dir stehen wie Weihrauch.“ Morgens und abends steigt der Duft auf – so wie die Gebete des Volkes zu Gott.
 > „Fremdes Räucherwerk“ ist eines, das Gott nicht befohlen hat. Wie ernst das ist, zeigt eine Geschichte in 3. Mose 10.
 > Das „einmal im Jahr“ meint den großen Versöhnungstag, Jom Kippur (3. Mose 16).
 

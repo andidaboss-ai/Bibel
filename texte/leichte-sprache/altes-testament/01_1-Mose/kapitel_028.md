@@ -14,7 +14,7 @@ zum Haus von Betuël, dem Vater deiner Mutter.
 Nimm dir dort eine Frau von den Töchtern Labans, des Bruders deiner Mutter.
 [3] Gott, der Allmächtige, segne dich.
 Er mache dich fruchtbar und zahlreich,
-so dass aus dir eine große Gemeinschaft von Völkern wird.
+sodass aus dir eine große Gemeinschaft von Völkern wird.
 [4] Er gebe dir den Segen Abrahams, dir und deinen Nachkommen mit dir.
 Dann wirst du das Land besitzen, in dem du jetzt als Fremder lebst.
 Gott hat es Abraham gegeben.“

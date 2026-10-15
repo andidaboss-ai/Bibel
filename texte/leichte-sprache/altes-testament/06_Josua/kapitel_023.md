@@ -39,7 +39,7 @@ denn der HERR, euer Gott, ist es, der für euch kämpft, wie er es euch gesagt h
 
 > **Was bedeutet das?**
 > Die größte Gefahr ist nicht mehr der Krieg, sondern der Götzendienst. Die Völker, die noch im Land leben, haben andere Götter. Israel soll diese Götter nicht einmal beim Namen nennen.
-> Vers 11 ist der Kern der ganzen Rede: „Achtet auf euch selbst, dass ihr den HERRN, euren Gott, liebt.“ Liebe zu Gott ist nichts Selbstverständliches. Man muss darauf achten wie auf ein Feuer, das nicht ausgehen soll.
+> Vers 11 ist der Kern der ganzen Rede: „Achtet sehr auf euch selbst, dass ihr den HERRN, euren Gott, liebt.“ Liebe zu Gott ist nichts Selbstverständliches. Man muss darauf achten wie auf ein Feuer, das nicht ausgehen soll.
 
 ---
 

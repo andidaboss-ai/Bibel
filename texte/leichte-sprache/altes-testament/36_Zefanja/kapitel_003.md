@@ -10,7 +10,7 @@ der unterdrückenden Stadt!
 [2] Sie hat nicht auf die Stimme gehört.
 Sie hat keine Zurechtweisung angenommen.
 Sie hat nicht auf den HERRN vertraut.
-Sie ist ihrem Gott nicht nahe gekommen.
+Sie ist ihrem Gott nicht nahegekommen.
 [3] Ihre Fürsten in ihrer Mitte sind brüllende Löwen.
 Ihre Richter sind Wölfe am Abend.
 Sie lassen nichts übrig bis zum Morgen.

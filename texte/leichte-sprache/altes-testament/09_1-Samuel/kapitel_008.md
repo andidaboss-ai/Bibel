@@ -16,7 +16,7 @@ und beugten das Recht.
 
 > **Was bedeutet das?**
 > Wieder dasselbe Problem wie bei Eli: Ein guter Vater hat Söhne, die nicht gut sind. Samuels Söhne sind bestechlich. Wer ihnen Geld gibt, bekommt Recht.
-> Das Gesetz Gottes verbietet Bestechung streng: „Bestechung macht die Weisen blind“ (5. Mose 16,19).
+> Das Gesetz Gottes verbietet Bestechung streng: „Bestechung macht die Augen der Weisen blind“ (5. Mose 16,19).
 > Beerscheba lag ganz im Süden, weit weg von Samuel in Rama. Vielleicht wusste Samuel lange nicht, was sie taten.
 
 ---

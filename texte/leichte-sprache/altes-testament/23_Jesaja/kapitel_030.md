@@ -32,7 +32,7 @@ zu einem Volk, das nichts nützt.
 Darum habe ich es „Rahab, die stillsitzt“ genannt.
 
 > **Was bedeutet das?**
-> König Hiskia und seine Berater schicken Gesandte nach Ägypten, um ein Bündnis gegen Assyrien zu schließen. Sie fragen Gott nicht um Rat.
+> König Hiskija und seine Berater schicken Gesandte nach Ägypten, um ein Bündnis gegen Assyrien zu schließen. Sie fragen Gott nicht um Rat.
 > Vers 6: Mühsam schleppen sie Geschenke durch die gefährliche Wüste, voller Löwen und Schlangen. Alles umsonst.
 > Vers 7: „Rahab“ ist ein Name für ein Meeresungeheuer und für Ägypten. Jesaja macht sich lustig: Ägypten ist ein Ungeheuer, das nur still herumsitzt und nichts tut.
 

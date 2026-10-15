@@ -40,7 +40,7 @@ Und verflucht ist jeder, der dich verflucht.“
 > „Wie schön sind deine Zelte, Jakob“ – auf Hebräisch „Ma towu“. Mit diesen Worten beginnen Juden bis heute ihr Morgengebet, wenn sie die Synagoge betreten. Die Worte eines fremden Sehers, der fluchen wollte, sind zu einem Gebet geworden.
 > Israel wird mit einem blühenden Garten am Wasser verglichen. In der Wüste ist Wasser das Kostbarste. Ein Volk, das Gott gesegnet hat, ist wie eine Oase.
 > Agag war später ein König der Amalekiter (1. Samuel 15).
-> Vers 9 wiederholt Gottes Versprechen an Abraham: „Ich will segnen, die dich segnen, und verfluchen, die dich verfluchen“ (1. Mose 12,3).
+> Vers 9 wiederholt Gottes Versprechen an Abraham: „Ich will segnen, die dich segnen. Und wer dich verachtet, den will ich verfluchen“ (1. Mose 12,3).
 
 ---
 

@@ -81,7 +81,7 @@ weil das Fundament des Hauses des HERRN gelegt war.
 > **Was bedeutet das?**
 > Der zweite Monat ist derselbe Monat, in dem Salomo mit dem Bau des ersten Tempels begann (1. Könige 6,1). Wieder eine Verbindung zum alten Tempel.
 > „Söhne Judas“ in Vers 9: Gemeint ist wohl „Hodawja“, die Levitenfamilie aus Kapitel 2,40. Die beiden Namen sehen im Hebräischen ähnlich aus.
-> Als das Fundament gelegt ist, wird gefeiert. Sie singen dieselben Worte wie bei der Einweihung des ersten Tempels: „Denn er ist gut, denn seine Güte bleibt für immer“ (2. Chronik 5,13; 7,3; Psalm 136).
+> Als das Fundament gelegt ist, wird gefeiert. Sie singen fast dieselben Worte wie bei der Einweihung des ersten Tempels: „Denn er ist gut, denn seine Güte währt ewig“ (2. Chronik 5,13; 7,3; Psalm 136).
 > „Im Wechsel“: Zwei Chöre singen sich gegenseitig zu, wie es bei vielen Psalmen üblich war.
 
 ---

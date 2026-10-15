@@ -55,7 +55,7 @@ leidet das Reich der Himmel Gewalt,
 und Gewalttätige reißen es an sich.
 [13] Denn alle Propheten und das Gesetz haben bis zu Johannes geweissagt.
 [14] Und wenn ihr es annehmen wollt:
-Er ist Elia, der kommen soll.
+Er ist Elija, der kommen soll.
 [15] Wer Ohren hat zu hören, der höre!
 
 > **Was bedeutet das?**
@@ -63,7 +63,7 @@ Er ist Elia, der kommen soll.
 > Vers 10: Jesus zitiert Maleachi 3,1. Johannes ist der Bote, der den Weg bereitet.
 > Vers 11: Johannes ist der Größte der alten Zeit. Aber mit Jesus beginnt etwas Neues: das Reich der Himmel. Wer dazu gehört, hat eine noch größere Würde.
 > Vers 12: Ein schwieriger Vers, der unterschiedlich verstanden wird. Vielleicht heißt er: Das Reich Gottes wird von gewalttätigen Menschen angegriffen, wie Johannes, der ins Gefängnis geworfen wurde. Oder: Menschen drängen mit aller Kraft hinein. Die genaue Bedeutung ist unsicher.
-> Vers 14: Johannes ist der angekündigte Elia (Maleachi 4,5; in deutschen Bibeln 3,23).
+> Vers 14: Johannes ist der angekündigte Elija (Maleachi 4,5; in deutschen Bibeln 3,23).
 
 ---
 

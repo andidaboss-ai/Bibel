@@ -77,7 +77,7 @@ Denn sie hatten die Worte verstanden, die man ihnen mitgeteilt hatte.
 > Aber Nehemia und Esra sagen: Heute ist ein Festtag! Heute ist nicht der Tag zum Weinen, sondern zum Feiern.
 > „Die Freude des HERRN ist eure Stärke“: Das ist einer der bekanntesten Sätze der Bibel. Viele deutsche Bibeln übersetzen „die Freude am HERRN“. Beides ist möglich: Die Freude über Gott gibt Kraft. Und Gottes eigene Freude über sein Volk gibt Kraft. Die Kraft für ein Leben mit Gott kommt nicht aus Schuldgefühlen, sondern aus Freude.
 > Wichtig: „Schickt Anteile denen, für die nichts zubereitet ist.“ Zum Fest gehört, dass die Armen nicht vergessen werden. Niemand soll an einem Festtag hungern.
-> Vers 12: Sie feiern, „weil sie die Worte verstanden hatten“. Verstehen führt zur Freude.
+> Vers 12: Sie feiern ein großes Freudenfest. „Denn sie hatten die Worte verstanden, die man ihnen mitgeteilt hatte.“ Verstehen führt zur Freude.
 
 ---
 

@@ -130,7 +130,7 @@ und übergab ihn zur Kreuzigung.
 > Vers 24: Pilatus wäscht sich die Hände. Davon kommt die Redensart, dass jemand seine Hände in Unschuld wäscht. Aber Pilatus ist nicht unschuldig. Er hatte die Macht, und er hat das Urteil gesprochen. Im christlichen Glaubensbekenntnis heißt es: „gelitten unter Pontius Pilatus“.
 
 > **Ein sehr wichtiger Hinweis zu Vers 25**
-> Dieser Vers ist einer der am schlimmsten missbrauchten Verse der Bibel. Christen haben ihn über fast 2000 Jahre benutzt, um Juden als „Gottesmörder“ zu beschimpfen, sie zu verfolgen, aus ihren Häusern zu vertreiben und zu töten. Dieser Judenhass hat mit den Weg zum Holocaust bereitet, dem Mord an sechs Millionen Juden.
+> Dieser Vers ist einer der am schlimmsten missbrauchten Verse der Bibel. Christen haben ihn über fast 2000 Jahre benutzt, um Juden als „Gottesmörder“ zu beschimpfen, sie zu verfolgen, aus ihren Häusern zu vertreiben und zu töten. Dieser Judenhass hat den Weg zum Holocaust mit vorbereitet, dem Mord an sechs Millionen Juden.
 > Das ist eine schreckliche Schuld der Christen.
 > Darum ist klar zu sagen:
 > Gemeint ist eine Menschenmenge an einem bestimmten Morgen in Jerusalem, die von einigen Führern überredet wurde (Vers 20). Es war nicht „das jüdische Volk“ aller Zeiten.

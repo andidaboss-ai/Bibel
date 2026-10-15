@@ -104,7 +104,7 @@ und betet füreinander,
 damit ihr geheilt werdet.
 Das eindringliche Gebet eines Gerechten
 hat große Kraft.
-[17] Elia war ein Mensch wie wir.
+[17] Elija war ein Mensch wie wir.
 Er betete ernstlich,
 dass es nicht regnen sollte.
 Und es regnete drei Jahre und sechs Monate lang nicht auf der Erde.
@@ -124,7 +124,7 @@ und eine Menge Sünden zudecken.
 > Vers 14–15: Die Ältesten sollen für Kranke beten und sie mit Öl salben. Öl war damals auch ein Heilmittel. Die katholische und die orthodoxe Kirche feiern bis heute die Krankensalbung als Sakrament. Auch in vielen evangelischen Gemeinden gibt es Gebete und Salbungen für Kranke.
 > Sehr wichtig: Krankheit ist keine Strafe für Sünde. Und Gebet ersetzt keinen Arzt. Wer krank ist, soll zum Arzt gehen und darf auch beten. Wenn jemand nicht gesund wird, liegt das nicht an zu schwachem Glauben.
 > Vers 16: Einander Fehler bekennen und füreinander beten kann heilsam sein. Daraus entstand später die Beichte.
-> Vers 17–18: Die Geschichte von Elia steht in 1. Könige 17–18. Elia war ein ganz normaler Mensch, und trotzdem hat Gott sein Gebet erhört.
+> Vers 17–18: Die Geschichte von Elija steht in 1. Könige 17–18. Elija war ein ganz normaler Mensch, und trotzdem hat Gott sein Gebet erhört.
 > Vers 19–20: Der Brief endet mit einem Auftrag: Kümmert euch umeinander. Wenn jemand vom Weg abkommt, helft ihm liebevoll zurück.
 
 ---

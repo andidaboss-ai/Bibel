@@ -104,7 +104,7 @@ sodass er alles weiß, was auf der Erde geschieht.“
 
 > **Was bedeutet das?**
 > Jetzt zeigt die Frau, worum es wirklich geht: König, du hast meinem Sohn Gnade erwiesen. Warum holst du dann deinen eigenen Sohn nicht zurück?
-> Vers 14 ist ein besonders schöner Satz: „Gott denkt sich Wege aus, damit der Verbannte nicht von ihm verstoßen bleibt.“ Gott will nicht, dass Menschen für immer verloren sind. Er sucht Wege, um sie zurückzuholen. Christen sehen darin einen Hinweis auf die Versöhnung, die Gott in Jesus geschaffen hat.
+> Vers 14 ist ein besonders schöner Satz: Gott „denkt sich Wege aus, damit der Verbannte nicht von ihm verstoßen bleibt“. Gott will nicht, dass Menschen für immer verloren sind. Er sucht Wege, um sie zurückzuholen. Christen sehen darin einen Hinweis auf die Versöhnung, die Gott in Jesus geschaffen hat.
 > David durchschaut die List: Steckt Joab dahinter? Die Frau gibt es zu.
 > Sie schmeichelt dem König: Du bist weise wie ein Engel Gottes. Das ist höflich, aber auch ein wenig ironisch, denn David hat die List lange nicht gemerkt.
 

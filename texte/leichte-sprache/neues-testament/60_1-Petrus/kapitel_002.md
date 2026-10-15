@@ -65,7 +65,7 @@ jetzt aber habt ihr Erbarmen gefunden.
 > **Was bedeutet das?**
 > Vers 2: Wie ein Baby nach Milch verlangt, so sollen Christen nach Gottes Wort verlangen.
 > Vers 4–5: Ein schönes Bild: Jeder Christ ist wie ein lebendiger Stein. Zusammen bilden sie ein Haus, in dem Gott wohnt.
-> Vers 5 und 9: „Priesterschaft“: Alle Christen dürfen Gott direkt nahe kommen und für andere beten. Evangelische Kirchen sprechen vom „Priestertum aller Glaubenden“.
+> Vers 5 und 9: „Priesterschaft“: Alle Christen dürfen Gott direkt nahekommen und für andere beten. Evangelische Kirchen sprechen vom „Priestertum aller Glaubenden“.
 > Vers 6 zitiert Jesaja 28,16. Vers 7 zitiert Psalm 118,22. Vers 8 zitiert Jesaja 8,14.
 > Vers 9: Diese Worte sagte Gott zuerst zu Israel am Sinai (2. Mose 19,5–6). Sie gelten Israel bis heute.
 > Wichtig: Der Brief sagt nicht, dass die Christen Israel ersetzen. Er sagt: Auch die Menschen aus den Völkern, die „früher kein Volk“ waren, gehören jetzt zu Gottes Volk dazu (Vers 10, vergleiche Hosea 2,25 – in manchen Bibeln 2,23). Gott hat seinen Bund mit Israel nicht gekündigt (Römer 11,29).

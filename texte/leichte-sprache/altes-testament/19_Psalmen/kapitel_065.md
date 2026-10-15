@@ -12,7 +12,7 @@ Gelübde werden dir erfüllt.
 zu dir werden alle Menschen kommen.
 [3] Sünden haben mich überwältigt,
 aber du hast unsere Übertretungen gesühnt.
-[4] Glücklich ist der, den du erwählst und nahe kommen lässt,
+[4] Glücklich ist der, den du erwählst und nahekommen lässt,
 damit er in deinen Vorhöfen wohnt.
 Wir werden satt werden von den Gütern deines Hauses,
 deines heiligen Tempels.

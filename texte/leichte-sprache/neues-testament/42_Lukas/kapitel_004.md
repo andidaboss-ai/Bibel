@@ -117,7 +117,7 @@ und eine große Hungersnot über das ganze Land kam.
 sondern nur nach Sarepta im Gebiet von Sidon,
 zu einer Witwe.
 [27] Und es gab viele Aussätzige in Israel
-zur Zeit des Propheten Elischa.
+zur Zeit des Propheten Elisa.
 Aber keiner von ihnen wurde rein,
 nur Naaman, der Syrer.“
 [28] Als sie das hörten,
@@ -137,7 +137,7 @@ und ging weg.
 > „Das Gnadenjahr“ erinnert an das „Jubeljahr“ in 3. Mose 25: Alle fünfzig Jahre sollten Schulden erlassen und Sklaven freigelassen werden.
 > Die Worte „die zu heilen, die ein gebrochenes Herz haben“ fehlen in einigen alten Handschriften.
 > Vers 21: „Heute“: Jesus sagt, dass diese Verheißung jetzt, mit ihm, wahr wird.
-> Vers 25–27: Jesus erinnert an zwei Geschichten aus den Königsbüchern. Elija half einer fremden Witwe in Sarepta (1. Könige 17,8–24). Elischa heilte den Syrer Naaman (2. Könige 5). Beide halfen Menschen, die nicht zu Israel gehörten. Jesus zeigt: Gottes Güte gilt auch den Fremden.
+> Vers 25–27: Jesus erinnert an zwei Geschichten aus den Königsbüchern. Elija half einer fremden Witwe in Sarepta (1. Könige 17,8–24). Elisa heilte den Syrer Naaman (2. Könige 5). Beide halfen Menschen, die nicht zu Israel gehörten. Jesus zeigt: Gottes Güte gilt auch den Fremden.
 > Vers 28–29: Die Leute sind wütend. Das ist eine Reaktion in einem bestimmten Ort, nicht des ganzen Volkes. Jesus wird an anderen Orten von vielen gelobt (Vers 15).
 > Wichtig: Gewalt gegen Menschen, die etwas Unbequemes sagen, ist immer falsch.
 > Für heute: Jesu Programm gilt auch heute: Armen helfen, Gefangene besuchen, Unterdrückte befreien.

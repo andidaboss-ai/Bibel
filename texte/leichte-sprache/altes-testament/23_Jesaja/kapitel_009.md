@@ -45,7 +45,7 @@ Der Eifer des HERRN der Heere wird das tun.
 > Vers 4: „Wie am Tag Midians“: Damals hat Gott sein Volk durch Gideon mit nur 300 Männern befreit (Richter 7).
 > Vers 5: Alle Rüstungen und blutigen Mäntel werden verbrannt. Der Krieg ist vorbei. Es gibt keine Waffen mehr.
 > Vers 6: Wie wird das geschehen? Nicht durch ein Heer, sondern durch ein Kind. Seine Namen sind gewaltig: Wunderbarer Ratgeber, Starker Gott, Ewiger Vater, Friedefürst.
-> Im Judentum wird dieser Text oft auf König Hiskia bezogen oder auf den kommenden Messias. Die Namen werden dann als Lob Gottes gelesen, der durch dieses Kind handelt. Christen sehen in diesem Kind Jesus Christus (vgl. Matthäus 4,13–16, wo Vers 1–2 zitiert werden). Georg Friedrich Händel hat diese Worte im „Messias“ vertont.
+> Im Judentum wird dieser Text oft auf König Hiskija bezogen oder auf den kommenden Messias. Die Namen werden dann als Lob Gottes gelesen, der durch dieses Kind handelt. Christen sehen in diesem Kind Jesus Christus (vgl. Matthäus 4,13–16, wo Vers 1–2 zitiert werden). Georg Friedrich Händel hat diese Worte im „Messias“ vertont.
 > Vers 7: Seine Herrschaft bringt Frieden ohne Ende, gegründet auf Recht und Gerechtigkeit.
 
 ---

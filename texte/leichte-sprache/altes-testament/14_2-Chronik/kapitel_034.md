@@ -177,7 +177,7 @@ Alle seine Tage wichen sie nicht davon ab, dem HERRN, dem Gott ihrer Väter, nac
 
 > **Was bedeutet das?**
 > Joschija behält das Gesetzbuch nicht für sich. Er liest es dem ganzen Volk vor, „groß und klein“. Jeder soll Gottes Wort hören.
-> Dann verspricht er feierlich, nach Gottes Wort zu leben, „mit ganzem Herzen und mit ganzer Seele“ (vgl. 5. Mose 6,5).
+> Dann verspricht er feierlich, nach Gottes Wort zu leben, „mit ganzem Herzen und mit ganzer Seele“ (Vers 31). Das erinnert an das wichtigste Gebot (5. Mose 6,5).
 > Obwohl Hulda gesagt hatte, dass das Gericht kommt, tut Joschija das Richtige. Er gehorcht Gott, nicht um eine Belohnung zu bekommen, sondern weil es richtig ist.
 > „Er ließ alle in den Bund eintreten“: Wörtlich „er ließ sie stehen“, also feierlich aufstehen und zustimmen.
 > „Alle seine Tage“: Solange Joschija lebte, blieb das Volk Gott treu. Nach seinem Tod fiel es wieder ab.

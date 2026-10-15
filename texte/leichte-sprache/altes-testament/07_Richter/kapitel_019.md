@@ -20,7 +20,7 @@ Als der Vater der jungen Frau ihn sah, freute er sich, ihn zu treffen.
 > **Was bedeutet das?**
 > Jetzt beginnt die dunkelste Geschichte im ganzen Buch der Richter. Sie erzählt von schrecklicher Gewalt gegen eine Frau und von einem Bürgerkrieg in Israel. Sie ist schwer zu lesen. Die Bibel erzählt sie nicht, damit man sie nachahmt, sondern damit man sieht, wie tief Menschen fallen können, wenn sie Gott vergessen.
 > Eine „Nebenfrau“ war eine Frau, die mit einem Mann verheiratet war, aber weniger Rechte hatte als eine Hauptfrau.
-> Vers 2: So steht es in der englischen Vorlage und im hebräischen Text. Die alte griechische Übersetzung sagt: „Sie wurde zornig auf ihn.“ Viele Ausleger meinen, dass das eher passt: Eine Frau, die die Ehe gebrochen hatte, wäre kaum zu ihrem Vater gegangen. Sie hat ihren Mann wohl im Streit verlassen.
+> Vers 2: So steht es in der englischen Vorlage und im hebräischen Text. In der alten griechischen Übersetzung steht dagegen: Sie wurde zornig auf ihn. Viele Ausleger meinen, dass das eher passt: Eine Frau, die die Ehe gebrochen hatte, wäre kaum zu ihrem Vater gegangen. Sie hat ihren Mann wohl im Streit verlassen.
 > Der Mann will „freundlich mit ihr reden“, wörtlich „zu ihrem Herzen reden“. Das klingt erst einmal gut.
 
 ---

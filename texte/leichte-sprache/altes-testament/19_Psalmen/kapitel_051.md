@@ -22,7 +22,7 @@ und in Sünde hat meine Mutter mich empfangen.
 
 > **Was bedeutet das?**
 > Psalm 51 ist der bekannteste Bußpsalm. Die Überschrift erinnert an den schlimmsten Moment in Davids Leben: Er hatte Ehebruch mit Batseba begangen und ihren Mann Urija töten lassen. Der Prophet Natan hielt ihm seine Schuld vor (2. Samuel 11–12).
-> Hinweis: In deutschen Bibeln umfasst die Überschrift zwei Verse. Darum ist dort jeder Vers um 2 höher (z. B. Vers 10 hier = Vers 12 dort).
+> Hinweis: In deutschen Bibeln umfasst die Überschrift zwei Verse. Darum ist dort jeder Vers um 2 höher (z. B. Vers 10 hier = Vers 12 dort).
 > David entschuldigt nichts. Er bittet nur um Gnade, nicht weil er sie verdient, sondern wegen Gottes Güte und Erbarmen.
 > Vers 4: „Gegen dich allein habe ich gesündigt“: David hat natürlich auch Batseba und Urija großes Unrecht getan. Aber er erkennt: Jede Sünde ist letztlich auch Sünde gegen Gott.
 > Vers 5: Das bedeutet nicht, dass Sex oder Geburt sündhaft sind. David sagt: Schon von Anfang an bin ich ein Mensch, der zur Sünde neigt. Christen sprechen hier von „Erbsünde“. Jüdische Ausleger verstehen den Vers eher als starken Ausdruck tiefer Reue.
@@ -42,7 +42,7 @@ und tilge alle meine Verschuldungen!
 
 > **Was bedeutet das?**
 > Gott will Ehrlichkeit bis ins Innerste. Man kann ihm nichts vormachen.
-> Ysop ist eine kleine Pflanze. Mit einem Ysopbüschel sprengten die Priester Wasser oder Blut, um Menschen kultisch zu reinigen (z. B. 3. Mose 14,4–7; 4. Mose 19,18).
+> Ysop ist eine kleine Pflanze. Mit einem Ysopbüschel sprengten die Priester Wasser oder Blut, um Menschen kultisch zu reinigen (z. B. 3. Mose 14,4–7; 4. Mose 19,18).
 > „Weißer als Schnee“: So vollständig kann Gott vergeben (vgl. Jesaja 1,18).
 > Vers 8: Die Schuld hat David innerlich zerbrochen. Er bittet: Lass mich wieder Freude erleben.
 

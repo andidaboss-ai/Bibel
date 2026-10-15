@@ -69,7 +69,7 @@ dass du auf allen seinen Wegen gehst, dass du ihn liebst
 und dass du dem HERRN, deinem Gott, mit deinem ganzen Herzen und mit deiner ganzen Seele dienst,
 [13] dass du die Gebote und Ordnungen des HERRN hältst, die ich dir heute gebiete,
 zu deinem Besten.
-[14] Schau, dem HERRN, deinem Gott, gehört der Himmel und aller Himmel Himmel,
+[14] Schau, dem HERRN, deinem Gott, gehört der Himmel und der höchste Himmel,
 die Erde und alles, was darauf ist.
 [15] Trotzdem hat der HERR nur an deinen Vätern Gefallen gefunden, sie zu lieben.
 Und er hat ihre Nachkommen nach ihnen erwählt, euch, aus allen Völkern, wie es heute ist.
@@ -78,7 +78,7 @@ und seid nicht länger stur.
 
 > **Was bedeutet das?**
 > Vers 12 ist eine wunderbare Zusammenfassung. Was will Gott? Ehrfurcht, Gehorsam, Liebe und ein Dienst mit ganzem Herzen. Und alles das „zu deinem Besten“.
-> Ähnlich fasst es später der Prophet Micha zusammen: „Was fordert der HERR von dir? Recht tun, Güte lieben und demütig gehen mit deinem Gott“ (Micha 6,8).
+> Ähnlich fasst es später der Prophet Micha zusammen: „Er hat dir gezeigt, Mensch, was gut ist. Und was fordert der HERR von dir, als Recht zu tun, Barmherzigkeit zu lieben und demütig zu gehen mit deinem Gott?“ (Micha 6,8).
 > Gott gehört das ganze Universum. Und trotzdem liebt er ein kleines Volk. Der große Gott wendet sich den Kleinen zu.
 > „Die Vorhaut des Herzens beschneiden“: Die Beschneidung war das Zeichen des Bundes am Körper (1. Mose 17). Aber Mose sagt: Das genügt nicht. Auch das Herz muss sich Gott öffnen. Weg mit allem, was das Herz hart und verschlossen macht! Paulus greift dieses Bild auf (Römer 2,29).
 > In der englischen Vorlage steht „steifnackig“ (stiff-necked), also „stur“.

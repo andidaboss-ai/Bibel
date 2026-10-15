@@ -67,7 +67,7 @@ und all den großen und furchterregenden Taten, die Mose vor den Augen von ganz 
 > **Was bedeutet das?**
 > Das ist das letzte Wort über Mose: Es gab keinen Propheten wie ihn. Kein anderer kannte Gott so nah, „von Angesicht zu Angesicht“.
 > Wer hat diese letzten Verse geschrieben? Mose kann seinen eigenen Tod kaum selbst beschrieben haben. Jüdische Gelehrte sagten schon im Talmud: Josua hat die letzten acht Verse geschrieben. Andere meinen, Mose schrieb sie unter Tränen, weil Gott sie ihm diktierte. Viele heutige Forscher meinen, dass die fünf Bücher Mose über längere Zeit gewachsen sind.
-> In Kapitel 18 hatte Mose versprochen: Gott wird einen Propheten wie mich senden. Am Ende des Buches heißt es: Es kam bisher keiner. Darum wartete Israel auf diesen Propheten. Christen glauben, dass Jesus dieser Prophet ist (Apostelgeschichte 3,22). Im Johannesevangelium heißt es: „Das Gesetz wurde durch Mose gegeben, die Gnade und die Wahrheit kamen durch Jesus Christus“ (Johannes 1,17).
+> In Kapitel 18 hatte Mose versprochen: Gott wird einen Propheten wie mich senden. Am Ende des Buches heißt es: Es kam bisher keiner. Darum wartete Israel auf diesen Propheten. Christen glauben, dass Jesus dieser Prophet ist (Apostelgeschichte 3,22). Im Johannesevangelium heißt es: „Das Gesetz wurde durch Mose gegeben. Gnade und Wahrheit sind durch Jesus Christus Wirklichkeit geworden“ (Johannes 1,17).
 
 ---
 

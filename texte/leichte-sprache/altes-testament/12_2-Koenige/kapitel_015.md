@@ -64,7 +64,7 @@ Und alle ihre schwangeren Frauen schlitzte er auf.
 
 > **Was bedeutet das?**
 > Mit Secharja endet die Familie Jehus nach vier Generationen, genau wie Gott gesagt hatte.
-> Danach beginnt das Chaos im Nordreich: Secharja regiert sechs Monate, Schallum nur einen Monat. Jeder wird von seinem Nachfolger ermordet. Der Prophet Hosea klagt in dieser Zeit: „Sie setzen Könige ein, aber nicht durch mich“ (Hosea 8,4).
+> Danach beginnt das Chaos im Nordreich: Secharja regiert sechs Monate, Schallum nur einen Monat. Jeder wird von seinem Nachfolger ermordet. Der Prophet Hosea klagt in dieser Zeit: „Sie haben Könige eingesetzt, aber nicht durch mich“ (Hosea 8,4).
 > Menahem begeht ein furchtbares Kriegsverbrechen an einer Stadt, die sich ihm nicht ergeben wollte. Die Bibel nennt es ohne Beschönigung. Solche Grausamkeit gegen Wehrlose, besonders gegen Frauen und ungeborene Kinder, ist durch nichts zu rechtfertigen.
 > Wo Tifsach lag, ist unsicher. Manche alte Übersetzungen haben hier „Tappuach“, eine Stadt in Israel.
 

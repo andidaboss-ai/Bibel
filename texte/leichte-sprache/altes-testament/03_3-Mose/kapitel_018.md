@@ -83,7 +83,7 @@ Das ist eine schändliche Verirrung.
 > Vers 22 handelt von Sexualität zwischen Männern. Diese Stelle wird heute sehr unterschiedlich verstanden:
 > Viele Juden und Christen, besonders in traditionellen Gemeinden, sehen darin ein bleibendes Gebot Gottes.
 > Andere Juden und Christen sagen: Diese Regel muss man aus ihrer Zeit verstehen. Damals ging es vielleicht um bestimmte Praktiken, zum Beispiel Kulte anderer Völker oder Gewalt und Ausbeutung. Liebevolle, treue Partnerschaften, wie wir sie heute kennen, waren damals nicht im Blick.
-> Wichtig ist: Diese Stelle darf nie als Rechtfertigung für Hass, Spott oder Gewalt gegen Menschen benutzt werden. Die Bibel sagt auch: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18). Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27).
+> Wichtig ist: Diese Stelle darf nie als Rechtfertigung für Hass, Spott oder Gewalt gegen Menschen benutzt werden. Die Bibel sagt auch: „Du sollst deinen Nächsten lieben wie dich selbst“ (3. Mose 19,18). Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27).
 
 ---
 

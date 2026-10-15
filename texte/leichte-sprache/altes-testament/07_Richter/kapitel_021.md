@@ -110,7 +110,7 @@ Jeder ging von dort weg in sein eigenes Erbe.
 > Vers 22: Die Ältesten wollen den Vätern sagen: Ihr habt eure Töchter nicht selbst gegeben, darum habt ihr den Schwur nicht gebrochen.
 > Hier zeigt sich, wie weit Israel gekommen ist: Man hält sich genau an die Worte eines Schwurs und verletzt dabei die Würde von Menschen. Das ist das Gegenteil von dem, was Gott will.
 > „Der HERR hatte einen Riss gemacht“: So deutet das Volk den Untergang Benjamins. Aber die Kapitel zeigen deutlich, dass Menschen diesen Riss verursacht haben.
-> Am Ende überlebt der Stamm Benjamin. Aus ihm kommt später der erste König Israels, Saul. Und noch viel später der Apostel Paulus, der sagt: „Ich bin aus dem Stamm Benjamin“ (Römer 11,1). Gott kann auch aus großer Schuld wieder Neues wachsen lassen.
+> Am Ende überlebt der Stamm Benjamin. Aus ihm kommt später der erste König Israels, Saul. Und noch viel später der Apostel Paulus, der sagt: „Auch ich bin ein Israelit, ein Nachkomme Abrahams, aus dem Stamm Benjamin“ (Römer 11,1). Gott kann auch aus großer Schuld wieder Neues wachsen lassen.
 
 ---
 

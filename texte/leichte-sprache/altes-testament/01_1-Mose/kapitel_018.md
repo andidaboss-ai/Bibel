@@ -39,7 +39,7 @@ Er selbst stand bei ihnen unter dem Baum, während sie aßen.
 > Es ist Mittagshitze. Niemand ist dann gern unterwegs. Trotzdem läuft der alte Abraham den Fremden entgegen. Gastfreundschaft war in der Wüste lebenswichtig – und sie ist bis heute im Orient eine große Ehre.
 > Abraham sagt bescheiden: „ein Stück Brot“. Dann tischt er ein Festessen auf: frisches Brot, ein Kalb, Butter und Milch.
 > „Drei große Maß“ – in der Bibel steht „drei Sea“. Das sind etwa 20 Liter Mehl. Das reicht für sehr viele Menschen.
-> Abraham weiß am Anfang vielleicht nicht, wen er da bewirtet. Im Neuen Testament steht: „Vergesst die Gastfreundschaft nicht. Denn dadurch haben einige, ohne es zu wissen, Engel bewirtet“ (Hebräer 13,2). Das bezieht sich auf diese Geschichte.
+> Abraham weiß am Anfang vielleicht nicht, wen er da bewirtet. Im Neuen Testament steht: „Vergesst die Gastfreundschaft nicht. Denn dadurch haben manche, ohne es zu wissen, Engel bei sich aufgenommen“ (Hebräer 13,2). Das bezieht sich auf diese Geschichte.
 
 ---
 
@@ -123,7 +123,7 @@ Willst du sie trotzdem vernichten?
 Willst du dem Ort nicht vergeben wegen der 50 Gerechten, die darin sind?
 [25] Das kannst du doch nicht tun!
 Du kannst doch nicht den Gerechten zusammen mit dem Gottlosen töten,
-so dass es dem Gerechten genauso geht wie dem Gottlosen.
+sodass es dem Gerechten genauso geht wie dem Gottlosen.
 Das kannst du nicht tun!
 Muss nicht der Richter der ganzen Erde gerecht urteilen?“
 

@@ -55,7 +55,7 @@ denn der HERR, der Gott der Heere, war mit ihm.
 > Jerusalem gehörte bis dahin den Jebusitern. Die Stadt lag auf einem Hügel, gut geschützt durch Täler. Sie lag genau an der Grenze zwischen Juda und den Nordstämmen und gehörte zu keinem Stamm. Darum war sie die ideale Hauptstadt für alle.
 > Die Jebusiter spotten: Unsere Stadt ist so sicher, dass sogar Blinde und Lahme dich abwehren können.
 > Der „Wasserschacht“ war wohl ein Gang, durch den die Bewohner Wasser von der Quelle unterhalb der Stadt holten. Durch ihn kamen Davids Männer in die Stadt. Archäologen haben in Jerusalem solche alten Wasserschächte gefunden.
-> Vers 8 ist im Hebräischen sehr schwer zu verstehen. „Die Blinden und Lahmen, die Davids Seele hasst“ meint wohl die spottenden Verteidiger, nicht wirklich kranke Menschen. Das Sprichwort am Ende wurde später leider gegen Menschen mit Behinderung benutzt.
+> Vers 8 ist im Hebräischen sehr schwer zu verstehen. Mit den „Lahmen und Blinden …, die Davids Seele hasst“, sind wohl die spottenden Verteidiger gemeint, nicht wirklich kranke Menschen. Das Sprichwort am Ende wurde später leider gegen Menschen mit Behinderung benutzt.
 > Ganz wichtig: Die Bibel lehrt nicht, dass Menschen mit Behinderung weniger wert sind. Gerade David nimmt später den gelähmten Mefi-Boschet an seinen eigenen Tisch (Kapitel 9). Und Jesus heilte Blinde und Lahme im Tempel (Matthäus 21,14). Bei Gott hat jeder Mensch die gleiche Würde.
 > „Zion“ war zuerst der Name der Burg. Später wurde „Zion“ ein Name für ganz Jerusalem und für den Ort, an dem Gott wohnt.
 > Der „Millo“ war wohl eine Aufschüttung, eine Terrasse aus Steinen, auf der man bauen konnte.
@@ -80,7 +80,7 @@ Schammua, Schobab, Natan, Salomo,
 > **Was bedeutet das?**
 > Tyrus war eine reiche Handelsstadt am Meer, im heutigen Libanon. Die Leute dort waren berühmt für ihre Baukunst. Das Zedernholz aus dem Libanon war das beste Bauholz.
 > Andere Könige erkennen David jetzt an. Er wird ein angesehener König.
-> Vers 12 ist wichtig: David versteht, dass Gott ihn nicht für sich selbst groß gemacht hat, sondern „um seines Volkes willen“. Ein König ist für das Volk da.
+> Vers 12 ist wichtig: David versteht, dass Gott ihn nicht für sich selbst groß gemacht hat, sondern „um seines Volkes Israel willen“. Ein König ist für das Volk da.
 > Wieder nimmt David noch mehr Frauen. Das war bei Königen üblich, aber das Gesetz warnte davor (5. Mose 17,17).
 > Unter den Söhnen sind Natan und Salomo. Salomo wird der nächste König. Im Lukasevangelium wird der Stammbaum von Jesus über Natan geführt (Lukas 3,31), im Matthäusevangelium über Salomo (Matthäus 1,6).
 

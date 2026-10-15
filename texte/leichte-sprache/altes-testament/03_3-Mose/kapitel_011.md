@@ -172,4 +172,4 @@ zwischen den Tieren, die man essen darf, und den Tieren, die man nicht essen dar
 > **Was bedeutet das?**
 > Hier steht der wichtigste Grund für alle diese Regeln: „Seid heilig, denn ich bin heilig.“ Dieser Satz kommt hier zum ersten Mal vor und wird im 3. Buch Mose noch oft wiederholt.
 > „Heilig“ heißt: zu Gott gehören, für Gott ausgesondert sein, anders sein. Israel soll sogar beim Essen, also jeden Tag, daran denken: Wir gehören zu Gott.
-> Auch im Neuen Testament wird dieser Satz zitiert: „Werdet heilig in eurem ganzen Leben. Denn es steht geschrieben: Ihr sollt heilig sein, denn ich bin heilig“ (1. Petrus 1,15–16).
+> Auch im Neuen Testament wird dieser Satz zitiert: „So sollt auch ihr in eurem ganzen Leben heilig sein. Denn es steht geschrieben: ‚Ihr sollt heilig sein, denn ich bin heilig‘“ (1. Petrus 1,15–16).

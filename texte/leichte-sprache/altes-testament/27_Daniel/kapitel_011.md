@@ -220,7 +220,7 @@ denn er wird sich über alles groß machen.
 Einen Gott, den seine Väter nicht kannten,
 wird er ehren mit Gold und Silber,
 mit Edelsteinen und Kostbarkeiten.
-[39] Mit Hilfe eines fremden Gottes
+[39] Mithilfe eines fremden Gottes
 wird er gegen die stärksten Festungen vorgehen.
 Wer ihn anerkennt, den wird er mit Ehre überhäufen.
 Er wird sie über viele herrschen lassen

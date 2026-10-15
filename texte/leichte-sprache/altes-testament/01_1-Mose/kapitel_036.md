@@ -170,4 +170,4 @@ Das ist Esau, der Stammvater der Edomiter.
 > **Was bedeutet das?**
 > Diese zweite Liste nennt die Fürsten nach ihren Wohnorten. Manche Namen sind wohl Namen von Gebieten oder Städten.
 > Mit diesem Kapitel verabschiedet sich die Bibel von Esau. Ab jetzt geht es um Jakob und seine Söhne – vor allem um Josef.
-> Die Edomiter und die Israeliten bleiben Nachbarn und Brudervölker. Ihre Geschichte ist oft schwierig. Aber das 5. Buch Mose sagt: „Du sollst den Edomiter nicht verabscheuen, denn er ist dein Bruder“ (5. Mose 23,8).
+> Die Edomiter und die Israeliten bleiben Nachbarn und Brudervölker. Ihre Geschichte ist oft schwierig. Aber das 5. Buch Mose sagt: „Den Edomiter sollst du nicht verabscheuen, denn er ist dein Bruder“ (5. Mose 23,7; in vielen deutschen Bibeln 23,8).

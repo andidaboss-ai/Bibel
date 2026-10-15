@@ -230,7 +230,7 @@ Er band seinen Mantel hoch um seine Hüften
 und lief vor Ahab her bis dahin, wo man nach Jesreel hineingeht.
 
 > **Was bedeutet das?**
-> Nach dem großen Feuer betet Elija ganz still und demütig, das Gesicht zwischen den Knien. Er betet immer weiter, bis zum siebten Mal. Der Jakobusbrief nennt Elija ein Vorbild im Gebet: „Er war ein Mensch wie wir“ (Jakobus 5,17–18).
+> Nach dem großen Feuer betet Elija ganz still und demütig, das Gesicht zwischen den Knien. Er betet immer weiter, bis zum siebten Mal. Der Jakobusbrief nennt Elija ein Vorbild im Gebet. Er war „ein Mensch wie wir“ (Jakobus 5,17–18).
 > Am Anfang ist die Wolke nur so klein wie eine Hand. Aber daraus wird ein großer Regen. Große Dinge fangen oft ganz klein an.
 > Der Regen beweist: Nicht Baal, sondern der HERR schenkt den Regen.
 > Elija läuft vor dem Wagen des Königs her, etwa 25 bis 30 Kilometer bis Jesreel. Gott gibt ihm übernatürliche Kraft. Es ist auch ein Zeichen: Elija ehrt den König, obwohl er ihm widersprochen hat.

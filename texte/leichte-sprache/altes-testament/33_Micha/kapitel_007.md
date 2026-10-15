@@ -139,7 +139,7 @@ seit den Tagen der Vorzeit.
 > **Ein Prophet vom Land:** Micha aus Moreschet lebte zur Zeit Jesajas. Er sah, wie die Mächtigen den einfachen Leuten Felder und Häuser wegnahmen (2,1–2).
 > **Gegen korrupte Führer:** Richter, Priester und Propheten ließen sich bestechen. „Darum wird Zion euretwegen wie ein Acker gepflügt werden“ (3,11–12).
 > **Schwerter zu Pflugscharen:** Die große Friedensvision für alle Völker: „Sie werden den Krieg nicht mehr lernen“ (4,3).
-> **Der Herrscher aus Bethlehem:** Aus dem kleinen Bethlehem wird ein Hirte kommen. „Er wird unser Friede sein“ (5,2–5). Matthäus bezieht das auf die Geburt Jesu.
+> **Der Herrscher aus Betlehem:** Aus dem kleinen Betlehem wird ein Hirte kommen. „Er wird unser Friede sein“ (5,2–5). Matthäus bezieht das auf die Geburt Jesu.
 > **Was Gott will:** „Er hat dir gezeigt, Mensch, was gut ist … Recht zu tun, Barmherzigkeit zu lieben und demütig zu gehen mit deinem Gott“ (6,8).
 > **Hoffnung im Dunkeln:** „Wenn ich falle, stehe ich wieder auf. Wenn ich im Dunkeln sitze, ist der HERR mein Licht“ (7,8).
 > **Ein vergebender Gott:** „Wer ist ein Gott wie du, der Schuld vergibt? … Du wirst alle ihre Sünden in die Tiefen des Meeres werfen“ (7,18–19).

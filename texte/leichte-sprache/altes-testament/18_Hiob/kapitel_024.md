@@ -102,7 +102,7 @@ Seine Augen sind auf ihren Wegen.
 Ja, sie werden erniedrigt, sie werden weggenommen wie alle anderen
 und abgeschnitten wie die Spitzen der Ähren.
 [25] Wenn es nicht so ist, wer will mich der Lüge strafen
-und meine Rede zunichte machen?“
+und meine Rede zunichtemachen?“
 
 > **Was bedeutet das?**
 > Dieser Abschnitt ist im Hebräischen sehr schwer zu verstehen. Die Übersetzungen unterscheiden sich stark.

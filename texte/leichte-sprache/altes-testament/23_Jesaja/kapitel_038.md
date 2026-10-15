@@ -1,24 +1,24 @@
 # Jesaja – Kapitel 38
-### Hiskias Krankheit und Heilung
+### Hiskijas Krankheit und Heilung
 
 ---
 
 ## Bestelle dein Haus (Vers 1–8)
 
-[1] In jenen Tagen wurde Hiskia todkrank.
+[1] In jenen Tagen wurde Hiskija todkrank.
 Der Prophet Jesaja, der Sohn von Amoz, kam zu ihm
 und sagte zu ihm:
 „So spricht der HERR:
 ‚Bestelle dein Haus, denn du wirst sterben und nicht leben bleiben.‘“
-[2] Da wandte Hiskia sein Gesicht zur Wand
+[2] Da wandte Hiskija sein Gesicht zur Wand
 und betete zum HERRN
 [3] und sagte:
 „Ach, HERR, denk doch daran,
 wie ich vor dir in Treue und mit ungeteiltem Herzen gelebt habe
 und getan habe, was gut ist in deinen Augen.“
-Und Hiskia weinte bitterlich.
+Und Hiskija weinte bitterlich.
 [4] Da kam das Wort des HERRN zu Jesaja und sagte:
-[5] „Geh und sag zu Hiskia:
+[5] „Geh und sag zu Hiskija:
 ‚So spricht der HERR, der Gott deines Vaters David:
 „Ich habe dein Gebet gehört.
 Ich habe deine Tränen gesehen.
@@ -34,17 +34,17 @@ Da ging die Sonne zehn Stufen auf der Sonnenuhr zurück,
 die sie hinabgegangen war.
 
 > **Was bedeutet das?**
-> Hiskia wird schwer krank. Jesaja sagt ihm: Du wirst sterben. „Bestelle dein Haus“ heißt: Ordne deine Angelegenheiten, regle dein Erbe.
-> Vers 2–3: Hiskia dreht sich zur Wand, um allein mit Gott zu sein, und weint und betet.
+> Hiskija wird schwer krank. Jesaja sagt ihm: Du wirst sterben. „Bestelle dein Haus“ heißt: Ordne deine Angelegenheiten, regle dein Erbe.
+> Vers 2–3: Hiskija dreht sich zur Wand, um allein mit Gott zu sein, und weint und betet.
 > Vers 5: Gott antwortet: „Ich habe dein Gebet gehört. Ich habe deine Tränen gesehen.“ Ein Satz voller Trost. Gott sieht jede Träne.
-> Vers 8: Die „Sonnenuhr“ war wohl eine Treppe, auf der der Schatten Stufe für Stufe weiterwanderte. Gott lässt den Schatten zurückgehen, als Zeichen, dass er Hiskia mehr Lebenszeit schenkt.
+> Vers 8: Die „Sonnenuhr“ war wohl eine Treppe, auf der der Schatten Stufe für Stufe weiterwanderte. Gott lässt den Schatten zurückgehen, als Zeichen, dass er Hiskija mehr Lebenszeit schenkt.
 > Nicht jedes Gebet um Heilung wird so erhört. Das ist eine schwere Erfahrung. Aber diese Geschichte zeigt: Gott hört zu, und Beten ist nicht sinnlos.
 
 ---
 
-## Das Danklied Hiskias (Vers 9–20)
+## Das Danklied Hiskijas (Vers 9–20)
 
-[9] Die Aufzeichnung Hiskias, des Königs von Juda,
+[9] Die Aufzeichnung Hiskijas, des Königs von Juda,
 als er krank gewesen und von seiner Krankheit genesen war:
 [10] Ich sagte: „In der Mitte meines Lebens
 muss ich durch die Tore des Totenreichs gehen.
@@ -88,11 +88,11 @@ Darum wollen wir meine Lieder auf Saiteninstrumenten spielen
 alle Tage unseres Lebens im Haus des HERRN.
 
 > **Was bedeutet das?**
-> Nach seiner Heilung schreibt Hiskia ein Lied. Es beschreibt ehrlich seine Angst vor dem Tod:
+> Nach seiner Heilung schreibt Hiskija ein Lied. Es beschreibt ehrlich seine Angst vor dem Tod:
 > Vers 10–12: Mitten im Leben muss ich sterben. Mein Leben wird abgebaut wie ein Zelt, abgeschnitten wie ein Stoff vom Webstuhl.
 > Vers 14: In seiner Schwäche konnte er nur noch leise piepsen wie ein kleiner Vogel.
 > Vers 17: „Du hast alle meine Sünden hinter deinen Rücken geworfen“: ein wunderschönes Bild für Vergebung. Gott schaut sie nicht mehr an.
-> Vers 18–19: Hiskia sagt: Nur die Lebenden können Gott loben. Darum ist er so froh, dass er weiterleben darf. Und er will seinen Kindern von Gottes Treue erzählen.
+> Vers 18–19: Hiskija sagt: Nur die Lebenden können Gott loben. Darum ist er so froh, dass er weiterleben darf. Und er will seinen Kindern von Gottes Treue erzählen.
 
 ---
 
@@ -102,7 +102,7 @@ alle Tage unseres Lebens im Haus des HERRN.
 „Man soll einen Feigenkuchen nehmen
 und ihn als Pflaster auf das Geschwür legen,
 dann wird er gesund werden.“
-[22] Und Hiskia hatte gesagt:
+[22] Und Hiskija hatte gesagt:
 „Was ist das Zeichen dafür, dass ich in das Haus des HERRN hinaufgehen werde?“
 
 > **Was bedeutet das?**

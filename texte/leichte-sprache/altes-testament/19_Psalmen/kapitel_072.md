@@ -96,6 +96,6 @@ Amen und Amen.
 
 > **Was bedeutet das?**
 > Vers 18–19 sind der Lobpreis am Ende des zweiten Psalmenbuchs (Psalm 42–72), so wie Psalm 41,13 das erste Buch abschließt.
-> Vers 20: „Hier enden die Gebete Davids“: Das war wohl einmal das Ende einer älteren Sammlung von Davidpsalmen. Später kamen noch weitere Psalmen Davids dazu (z. B. Psalm 86, 101, 103, 108–110, 138–145).
+> Vers 20: „Hier enden die Gebete Davids“: Das war wohl einmal das Ende einer älteren Sammlung von Davidpsalmen. Später kamen noch weitere Psalmen Davids dazu (z. B. Psalm 86, 101, 103, 108–110, 138–145).
 > „Isai“ war der Vater Davids. Die englische Vorlage schreibt „Jesse“.
 > Ab Psalm 73 beginnt das dritte Psalmenbuch.

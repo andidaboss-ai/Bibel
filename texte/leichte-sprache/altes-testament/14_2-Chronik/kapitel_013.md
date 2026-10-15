@@ -16,7 +16,7 @@ Jerobeam stellte sich gegen ihn zum Kampf auf
 mit 800 000 ausgewählten Männern, starken, tapferen Kriegern.
 
 > **Was bedeutet das?**
-> Abija regierte etwa von 913 bis 910 vor Christus. In 1. Könige 15 heißt er „Abijam“, und dort wird er kurz und kritisch beurteilt: „Er wandelte in allen Sünden seines Vaters.“ Die Chronik erzählt dagegen eine Geschichte, in der Abija einmal ganz auf Gott vertraut.
+> Abija regierte etwa von 913 bis 910 vor Christus. In 1. Könige 15 heißt er „Abijam“, und dort wird er kurz und kritisch beurteilt: „Er ging in allen Sünden seines Vaters.“ Die Chronik erzählt dagegen eine Geschichte, in der Abija einmal ganz auf Gott vertraut.
 > Die Mutter heißt hier Michaja, Tochter Uriëls. In Kapitel 11,20 heißt sie Maacha. Wahrscheinlich ist es dieselbe Frau mit zwei Namensformen.
 > Die Zahlen sind riesig. Viele Fachleute meinen, dass das hebräische Wort für „tausend“ hier auch „Truppe“ oder „Einheit“ bedeuten kann. Wichtig ist die Aussage: Juda war nur halb so stark wie Israel.
 
@@ -101,7 +101,7 @@ und Efron mit seinen Dörfern.
 Der HERR schlug ihn, und er starb.
 
 > **Was bedeutet das?**
-> Juda ist umzingelt. Militärisch ist die Lage hoffnungslos. Aber sie schreien zu Gott. Das ist der entscheidende Satz in Vers 18: „weil sie sich auf den HERRN verlassen hatten“.
+> Juda ist umzingelt. Militärisch ist die Lage hoffnungslos. Aber sie schreien zu Gott. Das ist der entscheidende Satz in Vers 18: „weil sie sich auf den HERRN, den Gott ihrer Väter, verlassen hatten“.
 > Die Chronik will damit Mut machen: Wer auf Gott vertraut, ist nicht verloren, auch wenn er schwächer ist.
 > Die Zahl der Toten ist erschreckend hoch. Auch hier gilt: Die Zahlen sind wahrscheinlich nicht genau gemeint. Trotzdem bleibt es traurig: Brüder kämpfen gegen Brüder. Die Bibel feiert hier nicht den Krieg, sondern das Vertrauen auf Gott.
 > Bethel war einer der beiden Orte, an denen Jerobeam ein goldenes Kalb aufgestellt hatte (1. Könige 12,29).

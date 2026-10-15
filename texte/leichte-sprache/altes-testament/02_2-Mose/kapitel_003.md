@@ -149,4 +149,4 @@ So sollt ihr die Ägypter berauben.“
 > Älteste waren die erfahrenen, angesehenen Männer, die ein Volk oder eine Stadt leiteten.
 > Gott sagt Mose ehrlich voraus: Es wird nicht leicht. Der Pharao wird sich weigern.
 > Die erste Bitte ist bescheiden: nur drei Tage in die Wüste, um Gott zu feiern. Selbst das wird der Pharao verweigern. Das zeigt, wie hart er ist.
-> Die Israeliten sollen nicht mit leeren Händen gehen. Nach so vielen Jahren unbezahlter Sklavenarbeit ist das wie ein später Lohn. Gott hatte es schon Abraham versprochen: „Sie werden mit großem Besitz herausziehen“ (1. Mose 15,14).
+> Die Israeliten sollen nicht mit leeren Händen gehen. Nach so vielen Jahren unbezahlter Sklavenarbeit ist das wie ein später Lohn. Gott hatte es schon Abraham versprochen: „Danach werden sie mit großem Besitz von dort wegziehen“ (1. Mose 15,14).

@@ -71,7 +71,7 @@ Leg dich hin bis zum Morgen.“
 
 > **Was bedeutet das?**
 > Boas ist wohl deutlich älter als Rut. Er lobt sie: Du hättest einen jungen Mann heiraten können. Aber du denkst an die Familie deines verstorbenen Mannes und an Noomi. Das ist noch mehr Güte (Chesed) als deine Treue am Anfang.
-> „Eine tüchtige Frau“ ist auf Hebräisch derselbe Ausdruck wie in Sprüche 31,10: „Eine tüchtige Frau, wer findet sie?“ In der hebräischen Bibel steht das Buch Rut oft direkt nach dem Buch der Sprüche. Rut ist wie das lebendige Beispiel für diese Frau. Und Boas wurde in Kapitel 2,1 mit einem ähnlichen Wort beschrieben. Die beiden passen zusammen.
+> „Eine tüchtige Frau“ ist auf Hebräisch derselbe Ausdruck wie in Sprüche 31,10: „Wer findet eine tüchtige Frau?“ In der hebräischen Bibel steht das Buch Rut oft direkt nach dem Buch der Sprüche. Rut ist wie das lebendige Beispiel für diese Frau. Und Boas wurde in Kapitel 2,1 mit einem ähnlichen Wort beschrieben. Die beiden passen zusammen.
 > Boas ist ehrlich: Es gibt einen anderen, der das erste Recht hat. Boas will nichts hinter dessen Rücken tun. Er will alles richtig und offen regeln.
 
 ---

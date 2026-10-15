@@ -32,7 +32,7 @@ und es frisst dabei auf dem Feld eines anderen,
 dann muss er Schadenersatz leisten vom Besten seines eigenen Feldes und seines eigenen Weinbergs.
 
 [6] Wenn ein Feuer ausbricht und auf Dornengestrüpp übergreift,
-so dass aufgeschichtete Garben, stehendes Getreide oder ein ganzes Feld verbrennen,
+sodass aufgeschichtete Garben, stehendes Getreide oder ein ganzes Feld verbrennen,
 dann muss der, der das Feuer angezündet hat, Schadenersatz leisten.
 
 > **Was bedeutet das?**

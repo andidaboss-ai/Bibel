@@ -21,7 +21,7 @@ Lass mein Volk ziehen, damit es mir dienen kann.
 [4] Wenn du dich weigerst, mein Volk ziehen zu lassen,
 dann schau: Morgen bringe ich Heuschrecken in dein Land.
 [5] Sie werden den ganzen Erdboden bedecken,
-so dass man den Boden nicht mehr sehen kann.
+sodass man den Boden nicht mehr sehen kann.
 Sie werden auffressen, was euch vom Hagel noch übrig geblieben ist.
 Und sie werden jeden Baum abfressen, der bei euch auf dem Feld wächst.
 [6] Deine Häuser werden voll davon sein,
@@ -84,7 +84,7 @@ Als es Morgen wurde, hatte der Ostwind die Heuschrecken gebracht.
 Sie ließen sich im ganzen Gebiet Ägyptens nieder.
 Es waren unglaublich viele.
 So viele Heuschrecken hatte es vorher nie gegeben, und es wird auch nie wieder so viele geben.
-[15] Sie bedeckten den ganzen Erdboden, so dass das Land dunkel wurde.
+[15] Sie bedeckten den ganzen Erdboden, sodass das Land dunkel wurde.
 Sie fraßen alle Pflanzen im Land und alle Früchte an den Bäumen, die der Hagel übrig gelassen hatte.
 Im ganzen Land Ägypten blieb nichts Grünes übrig, kein Baum und keine Pflanze auf dem Feld.
 

@@ -33,7 +33,7 @@ mit Liedern, mit Zithern, mit Harfen, mit Tamburinen, mit Zimbeln und mit Trompe
 > **Was bedeutet das?**
 > Die Chronik erzählt die Geschichte von der Lade anders als 2. Samuel 6: Gleich nachdem David König ist, kümmert er sich um die Lade. Der Gottesdienst ist ihm das Wichtigste.
 > David fragt die Versammlung und will Gottes Willen. Er bezieht alle ein, auch die Priester und Leviten.
-> Die Lade war das Zeichen der Gegenwart Gottes. Sie stand seit etwa 20 Jahren vergessen in Kirjat-Jearim (1. Samuel 7,1–2). „In den Tagen Sauls haben wir nicht nach ihr gefragt“: Unter Saul war Gott an den Rand gerückt.
+> Die Lade war das Zeichen der Gegenwart Gottes. Sie stand seit etwa 20 Jahren vergessen in Kirjat-Jearim (1. Samuel 7,1–2). „In den Tagen Sauls haben wir nicht nach ihr gefragt“ (1. Chronik 13,3). Das heißt: Unter Saul war Gott an den Rand gerückt.
 > Der Schihor ist ein Fluss an der Grenze zu Ägypten. Lebo-Hamat (englisch „Eingang von Hamat“) liegt ganz im Norden. Das ganze Land ist dabei.
 > Es ist ein großes Fest mit viel Musik.
 

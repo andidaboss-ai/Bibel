@@ -85,7 +85,7 @@ So vollendete Mose die Arbeit.
 > **Was bedeutet das?**
 > Mose baut alles von innen nach außen auf: zuerst die Wohnung und die Bundeslade, dann Tisch, Leuchter und Räucheraltar, dann draußen Altar und Becken, zuletzt den Vorhof.
 > Wieder heißt es siebenmal: „wie der HERR es Mose befohlen hatte“.
-> „So vollendete Mose die Arbeit“ – auch das erinnert an die Schöpfung. Dort heißt es: „So vollendete Gott sein Werk“ (1. Mose 2,2).
+> „So vollendete Mose die Arbeit“ – auch das erinnert an die Schöpfung. Dort heißt es: „Am siebten Tag hatte Gott seine Arbeit vollendet“ (1. Mose 2,2).
 
 ---
 
@@ -107,7 +107,7 @@ Das ganze Haus Israel sah es, auf allen ihren Wanderungen.
 
 > **Was bedeutet das?**
 > Das ist das große Ziel des ganzen 2. Buches Mose. Am Anfang war Israel in Ägypten, Sklaven des Pharao, weit weg von Gott. Am Ende wohnt Gott mitten in seinem Volk.
-> Gott hat sein Versprechen gehalten: „Ich will mitten unter ihnen wohnen“ (2. Mose 29,45).
+> Gott hat sein Versprechen gehalten: „Ich will mitten unter den Israeliten wohnen“ (2. Mose 29,45).
 > Und das nach dem goldenen Kalb! Das Volk hatte den Bund gebrochen. Aber Gott hat vergeben und kommt trotzdem, um bei ihnen zu wohnen.
 > Gottes Herrlichkeit ist so groß, dass nicht einmal Mose hineingehen kann. Wie Menschen dem heiligen Gott trotzdem nahekommen können, davon erzählt das nächste Buch, das 3. Buch Mose.
 > Die Wolke zeigt dem Volk den Weg durch die Wüste. Wenn sie weiterzieht, ziehen sie weiter. Wenn sie bleibt, bleiben sie. Gott selbst führt sein Volk.

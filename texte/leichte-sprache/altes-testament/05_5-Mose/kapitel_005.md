@@ -98,7 +98,7 @@ damit du lange lebst und damit es dir gut geht in dem Land, das der HERR, dein G
 
 > **Was bedeutet das?**
 > Gemeint sind vor allem erwachsene Kinder und ihre alten Eltern. Damals gab es keine Rente und kein Pflegeheim. Die Kinder sollten für ihre Eltern sorgen und sie achten.
-> Hier steht noch ein Zusatz, der in 2. Mose 20 fehlt: „damit es dir gut geht“. Eine Gesellschaft, in der man die Alten achtet, ist gut für alle.
+> Hier steht noch ein Zusatz: „damit es dir gut geht“ (Vers 16). In 2. Mose 20,12 fehlt er. Eine Gesellschaft, in der man die Alten achtet, ist gut für alle.
 
 ---
 
@@ -180,5 +180,5 @@ damit ihr lebt und es euch gut geht
 und damit ihr lange in dem Land lebt, das ihr in Besitz nehmen werdet.
 
 > **Was bedeutet das?**
-> Vers 29 zeigt Gottes Herz. Er seufzt wie ein Vater: „Ach, wenn sie doch immer so wären!“ Gott wünscht sich nichts mehr, als dass es seinem Volk gut geht.
+> Vers 29 zeigt Gottes Herz. Er seufzt wie ein Vater: „Ach, wenn sie doch immer so ein Herz hätten, mich zu fürchten und alle meine Gebote zu halten!“ Gott wünscht sich nichts mehr, als dass es seinem Volk gut geht.
 > Das Ziel aller Gebote steht in Vers 33: „damit ihr lebt und es euch gut geht“. Gottes Gebote sind wie ein Weg. Wer darauf bleibt, kommt gut ans Ziel.

@@ -38,7 +38,7 @@ und man euch aufnimmt,
 dann esst, was man euch vorsetzt.
 [9] Heilt die Kranken, die dort sind,
 und sagt ihnen:
-‚Das Reich Gottes ist euch nahe gekommen.‘
+‚Das Reich Gottes ist euch nahegekommen.‘
 [10] Wenn ihr aber in eine Stadt kommt
 und man euch nicht aufnimmt,
 dann geht hinaus auf ihre Straßen
@@ -47,7 +47,7 @@ und sagt:
 der an uns klebt,
 wischen wir ab, gegen euch.
 Aber das sollt ihr wissen:
-Das Reich Gottes ist euch nahe gekommen.‘
+Das Reich Gottes ist euch nahegekommen.‘
 [12] Ich sage euch:
 An jenem Tag wird es Sodom erträglicher gehen
 als dieser Stadt.

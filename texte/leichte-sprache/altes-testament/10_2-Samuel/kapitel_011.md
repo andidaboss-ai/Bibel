@@ -150,4 +150,4 @@ Aber die Sache, die David getan hatte, war böse in den Augen des HERRN.
 > Batseba trauert um ihren Mann. Der Text nennt sie hier „die Frau von Uria“. Sie gehört in den Augen der Bibel immer noch zu Uria.
 > David heiratet sie schnell. Für die Leute sieht alles ordentlich aus. Niemand weiß etwas. David denkt, die Sache ist erledigt.
 > Aber der letzte Satz zeigt: Gott hat alles gesehen. „Die Sache war böse in den Augen des HERRN.“ Man kann Menschen täuschen, aber nicht Gott.
-> Im Stammbaum von Jesus im Matthäusevangelium wird Batseba nicht mit Namen genannt, sondern als „die Frau des Uria“ (Matthäus 1,6). Damit wird das Unrecht an Uria nicht vergessen.
+> Im Stammbaum von Jesus im Matthäusevangelium wird Batseba nicht mit Namen genannt, sondern als „die Frau, die die Frau Urias gewesen war“ (Matthäus 1,6). Damit wird das Unrecht an Uria nicht vergessen.

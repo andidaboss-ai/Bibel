@@ -230,8 +230,8 @@ als du unsere Väter aus Ägypten herausgeführt hast, Herr, du HERR.“
 > **Was bedeutet das?**
 > Salomo bittet für viele Situationen, in denen Menschen in Not zu Gott beten: bei einem Streit vor Gericht, bei einer Niederlage im Krieg, bei Dürre, bei Hungersnot und Krankheit, und sogar in der Gefangenschaft.
 > Immer wieder: „Höre im Himmel und vergib.“ Salomo weiß: „Es gibt keinen Menschen, der nicht sündigt“ (Vers 46). Darum braucht jeder Gottes Vergebung.
-> Vers 38: „Die Not seines eigenen Herzens erkennen.“ Gott hört auch das ganz persönliche Gebet eines einzelnen Menschen.
-> Besonders schön ist die Bitte für den Fremden (Vers 41–43): Auch Menschen aus anderen Völkern sollen zu Gott beten dürfen, und Gott soll sie erhören. Der Tempel ist nicht nur für Israel da. Jesus hat später den Propheten Jesaja zitiert: „Mein Haus soll ein Bethaus für alle Völker heißen“ (Markus 11,17; Jesaja 56,7).
+> Vers 38: Gott soll das Gebet hören, „wenn jeder die Not seines eigenen Herzens erkennt“. Gott hört auch das ganz persönliche Gebet eines einzelnen Menschen.
+> Besonders schön ist die Bitte für den Fremden (Vers 41–43): Auch Menschen aus anderen Völkern sollen zu Gott beten dürfen, und Gott soll sie erhören. Der Tempel ist nicht nur für Israel da. Jesus hat später den Propheten Jesaja zitiert: „Mein Haus soll ein Haus des Gebets für alle Völker genannt werden“ (Markus 11,17; Jesaja 56,7).
 > Die letzte Bitte (Vers 46–53) klingt wie eine Vorahnung: Was ist, wenn Israel in Gefangenschaft gerät? Genau das ist später geschehen, in der Verbannung nach Babylon. Daniel betete dort dreimal am Tag mit offenem Fenster in Richtung Jerusalem (Daniel 6,11). Diese Verse waren für die Gefangenen eine große Hoffnung: Auch in der Ferne hört Gott uns.
 > „Schmelzofen für Eisen“ ist ein Bild für die harte Sklaverei in Ägypten.
 

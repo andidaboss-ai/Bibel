@@ -150,7 +150,7 @@ und sie steinigten ihn zu Tode, wie der HERR es Mose befohlen hatte.
 > **Was bedeutet das?**
 > Diese Geschichte steht wohl hier als Beispiel für eine Sünde „mit erhobener Hand“. Der Mann wusste, dass am Sabbat keine Arbeit getan werden darf (2. Mose 35,2–3). Trotzdem tat er es öffentlich.
 > Die Strafe ist für uns heute erschreckend hart. Die Bibel erzählt sie ohne Beschönigung. Sie zeigt, wie ernst der Sabbat damals genommen wurde. Er war das Zeichen des Bundes zwischen Gott und Israel (2. Mose 31,13–17).
-> Jesus hat später den Sinn des Sabbats neu betont: „Der Sabbat ist für den Menschen da, nicht der Mensch für den Sabbat“ (Markus 2,27). Und er hat am Sabbat Menschen geheilt.
+> Jesus hat später den Sinn des Sabbats neu betont: „Der Sabbat ist für den Menschen gemacht, nicht der Mensch für den Sabbat“ (Markus 2,27). Und er hat am Sabbat Menschen geheilt.
 > Auch hier gilt: Die großen jüdischen und christlichen Gemeinschaften lehnen solche Strafen heute ab.
 
 ---

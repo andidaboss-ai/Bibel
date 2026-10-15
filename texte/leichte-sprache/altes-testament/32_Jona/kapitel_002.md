@@ -30,7 +30,7 @@ HERR, mein Gott.
 dachte ich an den HERRN.
 Mein Gebet kam zu dir,
 in deinen heiligen Tempel.
-[8] Die nichtige Götzen verehren,
+[8] Die, die nichtige Götzen verehren,
 verlassen ihre eigene Gnade.
 [9] Ich aber will dir opfern
 mit der Stimme des Dankes.

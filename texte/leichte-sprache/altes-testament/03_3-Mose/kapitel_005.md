@@ -31,7 +31,7 @@ dann ist er schuldig in einem dieser Fälle, sobald er es erfährt.
 > Hier werden vier Fälle genannt:
 > 1. Jemand hat etwas gesehen, schweigt aber vor Gericht. Wer die Wahrheit kennt und schweigt, macht sich mitschuldig.
 > 2. und 3. Jemand hat ohne es zu merken etwas „Unreines“ berührt. Was „unrein“ bedeutet, wird in den Kapiteln 11 bis 15 erklärt. Unrein heißt nicht schmutzig oder böse. Es heißt: Man ist eine Zeit lang nicht bereit, ins Heiligtum zu kommen.
-> 4. Jemand hat leichtfertig etwas geschworen und es dann vergessen. Worte sind wichtig. Jesus sagt später: „Euer Ja sei ein Ja, euer Nein ein Nein“ (Matthäus 5,37).
+> 4. Jemand hat leichtfertig etwas geschworen und es dann vergessen. Worte sind wichtig. Jesus sagt später: „Eure Rede aber sei: ‚Ja‘ ist ‚Ja‘, und ‚Nein‘ ist ‚Nein‘“ (Matthäus 5,37).
 
 ---
 
@@ -45,7 +45,7 @@ So soll der Priester für ihn Versöhnung schaffen wegen seiner Sünde.
 
 > **Was bedeutet das?**
 > Hier steht etwas sehr Wichtiges: Zuerst soll man die Sünde bekennen, also offen aussprechen, was man falsch gemacht hat. Das Opfer allein reicht nicht. Man muss sich auch ehrlich zu seiner Schuld stellen.
-> Im Neuen Testament heißt es: „Wenn wir unsere Sünden bekennen, ist Gott treu und gerecht. Er vergibt uns die Sünden“ (1. Johannes 1,9).
+> Im Neuen Testament heißt es über Gott: „Wenn wir unsere Sünden bekennen, dann ist er treu und gerecht. Er vergibt uns die Sünden“ (1. Johannes 1,9).
 
 ---
 

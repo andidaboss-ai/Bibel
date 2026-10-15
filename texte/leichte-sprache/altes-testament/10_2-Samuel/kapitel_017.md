@@ -69,7 +69,7 @@ damit der HERR Unheil über Absalom brachte.
 > Dann schmeichelt er Absaloms Eitelkeit: Du selbst sollst ein riesiges Heer anführen. Das gefällt Absalom.
 > Er übertreibt mit großen Bildern: so viele wie Sand am Meer, wie Tau auf der Erde, eine Stadt mit Seilen in den Fluss ziehen. Die Worte klingen eindrucksvoll, sind aber unrealistisch.
 > Vor allem gewinnt Huschai das Wichtigste für David: Zeit. Bis ganz Israel versammelt ist, kann David sich in Sicherheit bringen.
-> Vers 14 ist der Schlüssel: Gott selbst hat Davids Gebet erhört: „Mach den Rat Ahitofels zur Torheit“ (Kapitel 15,31). Gott wirkt hier nicht durch Wunder, sondern durch menschliche Entscheidungen.
+> Vers 14 ist der Schlüssel: Gott selbst hat Davids Gebet erhört: „HERR, bitte mach den Rat Ahitofels zur Torheit“ (2. Samuel 15,31). Gott wirkt hier nicht durch Wunder, sondern durch menschliche Entscheidungen.
 
 ---
 

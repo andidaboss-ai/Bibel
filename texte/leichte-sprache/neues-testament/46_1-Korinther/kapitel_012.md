@@ -30,7 +30,7 @@ damit sie allen nützt.
 [8] Dem einen wird durch den Geist ein Wort der Weisheit gegeben,
 einem anderen ein Wort der Erkenntnis
 durch denselben Geist,
-[9] einem anderen Glaube
+[9] einem anderen Glauben
 durch denselben Geist,
 einem anderen Gaben zu heilen
 durch denselben Geist,

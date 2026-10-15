@@ -17,7 +17,7 @@ Als er das gesagt hatte, legte sich ihr Zorn gegen ihn.
 
 > **Was bedeutet das?**
 > Efraim war ein großer, stolzer Stamm. Er fühlt sich übergangen. Gideon antwortet klug und bescheiden: Ihr habt doch viel mehr erreicht als ich! Selbst eure „Nachlese“, also die Reste nach der Ernte, ist mehr wert als unsere ganze Ernte.
-> Ein Sprichwort sagt: „Eine sanfte Antwort stillt den Zorn“ (Sprüche 15,1). Gideon verhindert so einen Streit unter Brüdern.
+> Ein Sprichwort sagt: „Eine sanfte Antwort wendet den Zorn ab“ (Sprüche 15,1). Gideon verhindert so einen Streit unter Brüdern.
 
 ---
 

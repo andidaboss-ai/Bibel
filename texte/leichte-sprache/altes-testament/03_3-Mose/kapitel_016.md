@@ -114,8 +114,8 @@ Und der Mann soll den Ziegenbock in der Wüste freilassen.
 
 > **Was bedeutet das?**
 > Das ist ein sehr anschauliches Bild. Alle Sünden des Volkes werden laut ausgesprochen und auf den Bock gelegt. Dann wird der Bock weit weggeführt, in die Wüste. Die Schuld ist weg. Sie kommt nicht wieder.
-> In Psalm 103,12 heißt es: „So fern der Osten vom Westen ist, so weit entfernt er unsere Schuld von uns.“
-> Christen sehen hier ein Bild für Jesus. Johannes der Täufer sagte über ihn: „Seht, das Lamm Gottes, das die Sünde der Welt wegträgt“ (Johannes 1,29). Der Hebräerbrief im Neuen Testament vergleicht Jesus ausführlich mit dem Hohenpriester am Versöhnungstag (Hebräer 9).
+> In Psalm 103,12 heißt es: „So fern der Osten vom Westen ist, so fern hat er unsere Übertretungen von uns entfernt.“ Übertretungen sind Sünden.
+> Christen sehen hier ein Bild für Jesus. Johannes der Täufer sagte über ihn: „Seht, das Lamm Gottes, das die Sünde der Welt wegnimmt“ (Johannes 1,29). Der Hebräerbrief im Neuen Testament vergleicht Jesus ausführlich mit dem Hohenpriester am Versöhnungstag (Hebräer 9).
 
 ---
 

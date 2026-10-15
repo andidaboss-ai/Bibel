@@ -110,7 +110,7 @@ Denn sie sagten:
 sagten:
 „Er hat den Beelzebul“,
 und:
-„Mit Hilfe des Obersten der Dämonen
+„Mithilfe des Obersten der Dämonen
 treibt er die Dämonen aus.“
 [23] Da rief er sie zu sich
 und redete in Gleichnissen zu ihnen:

@@ -162,7 +162,7 @@ spricht der Herr, der HERR.
 > Diese Regeln ähneln den Priestergesetzen im 3. Buch Mose (Kapitel 10 und 21).
 > Vers 17–18: Leinen ist kühl und leicht. Die Priester sollen im Heiligtum nicht schwitzen. Schweiß galt als etwas Unreines.
 > Vers 21: Kein Alkohol im Dienst (vgl. 3. Mose 10,9). Wer vor Gott dient, soll einen klaren Kopf haben.
-> Vers 22: Diese Heiratsregeln für Priester entsprechen den alten Reinheitsvorschriften (3. Mose 21,7.14). Sie sind keine Abwertung von Witwen oder geschiedenen Frauen. An vielen Stellen schützt die Bibel gerade Witwen besonders (z. B. 5. Mose 24,17; Jakobus 1,27).
+> Vers 22: Diese Heiratsregeln für Priester entsprechen den alten Reinheitsvorschriften (3. Mose 21,7.14). Sie sind keine Abwertung von Witwen oder geschiedenen Frauen. An vielen Stellen schützt die Bibel gerade Witwen besonders (z. B. 5. Mose 24,17; Jakobus 1,27).
 > Vers 23–24: Die Priester sind nicht nur für Opfer zuständig, sondern auch Lehrer und Richter. Sie sollen dem Volk helfen, Gottes Willen zu verstehen.
 > Vers 25: Ausnahme beim Tod naher Angehöriger: Auch Priester dürfen trauern.
 

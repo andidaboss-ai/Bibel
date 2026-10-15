@@ -30,7 +30,7 @@ Darum schlug er Israel.
 > **Was bedeutet das?**
 > David will wissen, wie viele Krieger er hat. Das klingt harmlos, aber es zeigt: Er vertraut auf die Zahl seiner Soldaten, nicht auf Gott. Er behandelt das Volk, als gehöre es ihm, nicht Gott.
 > Sogar Joab, der sonst nicht zimperlich ist, warnt David.
-> Hier steht „der Satan“. Das hebräische Wort heißt „Widersacher“ oder „Ankläger“. In 2. Samuel 24,1 steht an dieser Stelle: „Der Zorn des HERRN entbrannte gegen Israel, und er reizte David.“ Die Chronik, die später geschrieben wurde, sagt es anders: Nicht Gott selbst, sondern der Satan hat David verführt. Beide Texte sagen: Hinter der Versuchung steht eine Macht, die größer ist als David. Und beide sagen: David ist trotzdem selbst verantwortlich.
+> Hier steht „der Satan“. Das hebräische Wort heißt „Widersacher“ oder „Ankläger“. In 2. Samuel 24,1 steht an dieser Stelle: „Wieder entbrannte der Zorn des HERRN gegen Israel. Und er reizte David gegen sie.“ Die Chronik, die später geschrieben wurde, sagt es anders: Nicht Gott selbst, sondern der Satan hat David verführt. Beide Texte sagen: Hinter der Versuchung steht eine Macht, die größer ist als David. Und beide sagen: David ist trotzdem selbst verantwortlich.
 > Die Zahlen unterscheiden sich von 2. Samuel 24,9 (dort 800 000 und 500 000).
 > Levi wurde nicht gezählt, weil die Leviten keinen Kriegsdienst taten (4. Mose 1,47–49).
 

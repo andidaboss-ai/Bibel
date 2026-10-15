@@ -30,7 +30,7 @@ Ist nicht die Lauterkeit deiner Wege deine Hoffnung?
 Wer ist je als Unschuldiger umgekommen?
 Und wo wurden Aufrichtige ausgerottet?
 [8] Soweit ich gesehen habe:
-Die Unrecht pflügen und Unheil säen,
+Die, die Unrecht pflügen und Unheil säen,
 die ernten es auch.
 [9] Durch den Atem Gottes kommen sie um.
 Durch den Hauch seines Zorns werden sie vernichtet.

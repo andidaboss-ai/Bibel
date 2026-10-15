@@ -33,7 +33,7 @@ mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deiner ganzen Kraft.
 > Juden beten es bis heute jeden Morgen und jeden Abend. Es ist das erste Gebet, das jüdische Kinder lernen, und oft das letzte, das ein Mensch vor dem Tod spricht.
 > „Der HERR ist einer“ bedeutet: Es gibt nur einen Gott. Und er ist ganz und ungeteilt. Man kann die Worte auch so übersetzen: „Der HERR ist unser Gott, der HERR allein.“
 > Und dann kommt das Gebot: Gott lieben! Nicht nur gehorchen, sondern lieben, mit allem, was man ist: mit dem Herzen (dem Denken und Fühlen), mit der Seele (dem ganzen Leben) und mit aller Kraft.
-> Als Jesus gefragt wurde, welches Gebot das wichtigste ist, hat er genau diese Worte zitiert. Und er fügte das Gebot aus 3. Mose 19,18 hinzu: „Liebe deinen Nächsten wie dich selbst“ (Markus 12,29–31).
+> Als Jesus gefragt wurde, welches Gebot das wichtigste ist, hat er genau diese Worte zitiert. Und er fügte das Gebot aus 3. Mose 19,18 hinzu: „Du sollst deinen Nächsten lieben wie dich selbst“ (Markus 12,29–31).
 
 ---
 

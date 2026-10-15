@@ -18,7 +18,7 @@ trennten sie alles fremde Mischvolk von Israel ab.
 > Das Gesetz steht in 5. Mose 23,4–6. Die Geschichte von Bileam steht in 4. Mose 22–24.
 > „Gott verwandelte den Fluch in Segen“: Bileam sollte Israel verfluchen, aber er musste es segnen. Gott kann auch das Böse ins Gute wenden.
 > Wie passt dieses Gesetz zu Rut, der Moabiterin, die die Urgroßmutter Davids wurde? Die jüdische Auslegung sagte später: Das Gesetz gilt für Männer aus Moab und Ammon, nicht für Frauen. Andere sagen: Wer sich ganz dem Gott Israels zuwendet, wie Rut, gehört dazu. Die Bibel selbst hält beides nebeneinander fest.
-> Der Prophet Jesaja sagt später: Auch Fremde, die sich an den HERRN halten, sind willkommen in Gottes Haus, „denn mein Haus soll ein Bethaus für alle Völker heißen“ (Jesaja 56,3–7).
+> Der Prophet Jesaja sagt später: Auch Fremde, die sich an den HERRN halten, sind willkommen in Gottes Haus, „denn mein Haus wird ein Bethaus für alle Völker genannt werden“ (Jesaja 56,3–7).
 
 ---
 

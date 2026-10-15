@@ -67,8 +67,8 @@ Und er verneigte sich mit dem Gesicht bis zur Erde.
 ## Der Jüngere vor dem Älteren (Vers 13–20)
 
 [13] Dann nahm Josef beide.
-Efraim nahm er an seine rechte Hand, so dass er links von Israel stand.
-Und Manasse nahm er an seine linke Hand, so dass er rechts von Israel stand.
+Efraim nahm er an seine rechte Hand, sodass er links von Israel stand.
+Und Manasse nahm er an seine linke Hand, sodass er rechts von Israel stand.
 So brachte er sie zu ihm.
 [14] Aber Israel streckte seine rechte Hand aus und legte sie auf den Kopf von Efraim, obwohl er der Jüngere war.
 Und seine linke Hand legte er auf den Kopf von Manasse.

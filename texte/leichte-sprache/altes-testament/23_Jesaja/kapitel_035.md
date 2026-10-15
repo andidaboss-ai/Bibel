@@ -71,4 +71,4 @@ und Kummer und Seufzen werden fliehen.
 > Durch die blühende Wüste führt eine Straße, „der heilige Weg“. Auf ihm kehren die Befreiten sicher nach Hause zurück. Keine wilden Tiere, keine Gefahr.
 > Vers 10: Einer der schönsten Verse der Bibel: Die Befreiten kommen singend nach Hause, mit ewiger Freude wie eine Krone auf dem Kopf. Kummer und Seufzen fliehen davon.
 > Johannes Brahms hat diesen Vers im „Deutschen Requiem“ vertont.
-> Damit endet der erste große Teil des Buches Jesaja. Es folgen vier Kapitel mit Geschichten über König Hiskia (Kapitel 36–39).
+> Damit endet der erste große Teil des Buches Jesaja. Es folgen vier Kapitel mit Geschichten über König Hiskija (Kapitel 36–39).

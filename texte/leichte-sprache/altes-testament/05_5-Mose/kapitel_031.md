@@ -96,7 +96,7 @@ wegen all des Bösen, das sie getan haben, weil sie sich anderen Göttern zugewa
 > **Was bedeutet das?**
 > „Du wirst dich zu deinen Vätern legen“ ist eine Umschreibung für das Sterben.
 > „Wie Prostituierte“: Die Bibel benutzt dieses harte Bild oft. Gott sieht sich wie einen treuen Ehemann. Wenn sein Volk anderen Göttern nachläuft, ist das wie Untreue in einer Ehe.
-> „Mein Gesicht verbergen“: Gott zieht sich zurück. Die Menschen spüren seine Nähe nicht mehr. Das ist eine der schlimmsten Erfahrungen, die ein Mensch machen kann. Viele Psalmen klagen darüber: „Warum verbirgst du dein Gesicht vor mir?“ (Psalm 13,2; Psalm 88,15).
+> „Mein Gesicht verbergen“: Gott zieht sich zurück. Die Menschen spüren seine Nähe nicht mehr. Das ist eine der schlimmsten Erfahrungen, die ein Mensch machen kann. Viele Psalmen klagen darüber: „Warum verbirgst du dein Angesicht vor mir?“ (Psalm 88,14; ähnlich Psalm 13,1).
 > Es ist traurig: Gott weiß schon jetzt, dass das Volk untreu werden wird. Trotzdem führt er es ins Land. Das zeigt seine große Geduld und Liebe.
 
 ---

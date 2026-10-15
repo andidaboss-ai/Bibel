@@ -45,7 +45,7 @@ In seiner Abteilung waren 24 000.
 > **Was bedeutet das?**
 > David hatte kein großes stehendes Heer. Stattdessen diente jeden Monat eine Abteilung beim König, wie eine Art Wehrdienst im Wechsel. So konnten die Männer die übrige Zeit zu Hause arbeiten.
 > Die Anführer sind alte Bekannte: Es sind die Helden Davids aus Kapitel 11.
-> Asaël war schon früh im Krieg gegen Abner gefallen (2. Samuel 2,23). Darum steht hier „und nach ihm sein Sohn Sebadja“. Die Abteilung trug wohl seinen Namen weiter.
+> Asaël war schon früh im Krieg gegen Abner gefallen (2. Samuel 2,23). Darum steht hier „und nach ihm sein Sohn Sebadja“ (1. Chronik 27,7). Die Abteilung trug wohl seinen Namen weiter.
 > In Vers 5 wird Jojada „oberster Priester“ genannt. Man kann den hebräischen Text auch anders lesen: „Benaja, der Sohn des Priesters Jojada, als Oberhaupt“.
 
 ---
@@ -100,7 +100,7 @@ war Baal-Hanan, der Gederiter, gesetzt.
 [30] Über die Kamele war Obil, der Ismaeliter, gesetzt.
 Über die Esel war Jechdeja, der Meronotiter, gesetzt.
 Über die Schafe war Jasis, der Hagariter, gesetzt.
-[31] Das alle waren Verwalter des Besitzes, der dem König David gehörte.
+[31] Das alles waren Verwalter des Besitzes, der dem König David gehörte.
 
 > **Was bedeutet das?**
 > Der König hatte viel eigenen Besitz: Felder, Weinberge, Olivenbäume und Herden. Für jeden Bereich gab es einen Fachmann.

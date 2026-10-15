@@ -38,7 +38,7 @@ Ich bin der HERR.‘“
 > **Was bedeutet das?**
 > Mose hatte Gott angeklagt (Kapitel 5). Gott antwortet nicht mit einer Erklärung, sondern mit Versprechen.
 > Vers 3 ist schwer zu verstehen: Die Väter haben den Namen „HERR“ im 1. Buch Mose schon benutzt. Viele Ausleger verstehen es so: Die Väter kannten den Namen, aber sie haben noch nicht erlebt, was er bedeutet. Erst jetzt, bei der Befreiung aus Ägypten, zeigt Gott, wer er wirklich ist: der Gott, der da ist und rettet.
-> Der Anfang und das Ende dieser Rede ist derselbe Satz: „Ich bin der HERR.“ Alles, was Gott verspricht, steht auf diesem Fundament.
+> Am Anfang und am Ende dieser Rede steht derselbe Satz: „Ich bin der HERR.“ Alles, was Gott verspricht, steht auf diesem Fundament.
 > Gott verspricht sieben Dinge: herausführen, retten, befreien, als Volk annehmen, Gott sein, ins Land bringen, das Land geben. Bis heute erinnern sich Juden beim Passafest mit vier Bechern Wein an diese Versprechen.
 > „Mit erhobener Hand versprechen“ heißt: feierlich schwören.
 

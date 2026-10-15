@@ -21,7 +21,7 @@ die Hunde zum Zerren,
 die Vögel des Himmels und die Tiere der Erde
 zum Fressen und zum Vernichten.
 [4] Ich werde sie zum Schrecken machen für alle Königreiche der Erde
-wegen Manasse, des Sohnes Hiskias, des Königs von Juda,
+wegen Manasse, des Sohnes Hiskijas, des Königs von Juda,
 wegen dessen, was er in Jerusalem getan hat.
 [5] Denn wer wird Mitleid mit dir haben, Jerusalem?
 Wer wird dich betrauern?

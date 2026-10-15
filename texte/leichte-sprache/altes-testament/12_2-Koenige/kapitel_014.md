@@ -69,7 +69,7 @@ und kehrte nach Samaria zurück.
 > **Was bedeutet das?**
 > Amazja ist nach seinem Sieg über Edom übermütig geworden. Er fordert den König von Israel zum Kampf heraus. „Wir wollen uns ins Gesicht sehen“ heißt: Lass uns kämpfen.
 > Joasch antwortet mit einer Fabel: Eine kleine Distel will mit der großen Zeder auf Augenhöhe sein, und wird zertreten. Er meint: Du überschätzt dich.
-> „Hochmut kommt vor dem Fall“ (vgl. Sprüche 16,18). Amazja hört nicht und verliert alles.
+> „Hochmut kommt vor dem Zusammenbruch“ (Sprüche 16,18). Amazja hört nicht und verliert alles.
 > Zum ersten Mal wird Jerusalem von einem König aus Israel erobert. Ein Bruderkrieg.
 > In der Bibel steht „400 Ellen“. Eine Elle sind etwa 45 Zentimeter.
 

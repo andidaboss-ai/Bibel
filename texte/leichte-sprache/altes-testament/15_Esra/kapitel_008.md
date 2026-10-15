@@ -41,7 +41,7 @@ und mit ihnen 70 Männer.
 > Zusammen sind es etwa 1500 Männer, dazu kamen Frauen und Kinder (Vers 21).
 > Viele dieser Familien kennen wir schon aus Kapitel 2. Ein Teil der Familie war damals schon zurückgekehrt. Jetzt kommt der Rest. „Die Letzten“ in Vers 13 heißt wohl: Die letzten Mitglieder dieser Familie kehren jetzt heim.
 > Hattusch war ein Nachkomme Davids (1. Chronik 3,22).
-> In Vers 5 und 10 fehlt im hebräischen Text wohl ein Familienname. Alte griechische Übersetzungen haben dort „von den Söhnen Sattus“ und „von den Söhnen Banis“.
+> In Vers 5 und 10 fehlt im hebräischen Text wohl ein Familienname. Alte griechische Übersetzungen nennen dort zusätzlich die Familien Sattu und Bani.
 
 ---
 

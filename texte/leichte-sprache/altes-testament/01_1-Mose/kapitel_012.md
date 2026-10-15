@@ -55,7 +55,7 @@ und rief den Namen des HERRN an.
 > Abram stellt keine Fragen. Er geht einfach los. Das nennt die Bibel Glauben: Gott so vertrauen, dass man den ersten Schritt macht, auch wenn man den Weg noch nicht kennt.
 > Abram ist 75 Jahre alt! Für Gott ist niemand zu alt für einen neuen Anfang.
 > Das Land gehört noch anderen, den Kanaanitern. Abram besitzt dort nichts. Er hat nur Gottes Versprechen.
-> „Gott erschien ihm“ heißt: Gott zeigte sich ihm auf eine besondere Weise, so dass Abram wusste: Gott ist hier.
+> „Gott erschien ihm“ heißt: Gott zeigte sich ihm auf eine besondere Weise, sodass Abram wusste: Gott ist hier.
 > Wo Abram hinkommt, baut er einen Altar und betet. So zeigt er: Ich vertraue dem Gott, der mir dieses Land versprochen hat.
 
 ---

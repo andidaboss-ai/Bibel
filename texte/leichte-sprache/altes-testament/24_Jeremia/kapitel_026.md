@@ -75,13 +75,13 @@ um all diese Worte vor euren Ohren zu reden.“
 denn er hat im Namen des HERRN, unseres Gottes, zu uns geredet.“
 [17] Da standen einige von den Ältesten des Landes auf
 und sagten zur ganzen Versammlung des Volkes:
-[18] „Micha aus Moreschet hat in den Tagen Hiskias, des Königs von Juda, geweissagt
+[18] „Micha aus Moreschet hat in den Tagen Hiskijas, des Königs von Juda, geweissagt
 und hat zum ganzen Volk von Juda gesagt:
 ‚So spricht der HERR der Heere:
 „Zion wird wie ein Feld umgepflügt werden,
 und Jerusalem wird zu Trümmerhaufen werden
 und der Berg des Hauses zu bewaldeten Höhen.“‘
-[19] Haben Hiskia, der König von Juda, und ganz Juda ihn etwa getötet?
+[19] Haben Hiskija, der König von Juda, und ganz Juda ihn etwa getötet?
 Hat er nicht den HERRN gefürchtet und den HERRN angefleht,
 sodass den HERRN das Unheil reute, das er gegen sie ausgesprochen hatte?
 Wir würden ein großes Unrecht gegen unsere eigenen Seelen begehen!“
@@ -90,7 +90,7 @@ Wir würden ein großes Unrecht gegen unsere eigenen Seelen begehen!“
 > Vers 10: Die Fürsten, also die Beamten des Königs, kommen als Richter zum Tempeltor.
 > Vers 12–15: Jeremias Verteidigung ist mutig: Er nimmt nichts zurück. Er wiederholt: Kehrt um! Und er sagt: Ich bin in eurer Hand. Aber wenn ihr mich tötet, vergießt ihr unschuldiges Blut.
 > Vers 16: Die Fürsten und das Volk entscheiden: Jeremia ist unschuldig.
-> Vers 17–19: Die Ältesten erinnern an den Propheten Micha (Micha 3,12). Er hatte etwa 100 Jahre früher Ähnliches gesagt. König Hiskia hat ihn nicht getötet, sondern ist umgekehrt, und Gott hat Jerusalem verschont. Ein schönes Beispiel dafür, wie man aus der Geschichte lernen kann.
+> Vers 17–19: Die Ältesten erinnern an den Propheten Micha (Micha 3,12). Er hatte etwa 100 Jahre früher Ähnliches gesagt. König Hiskija hat ihn nicht getötet, sondern ist umgekehrt, und Gott hat Jerusalem verschont. Ein schönes Beispiel dafür, wie man aus der Geschichte lernen kann.
 
 ---
 

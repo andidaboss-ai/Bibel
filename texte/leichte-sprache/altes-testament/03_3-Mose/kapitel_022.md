@@ -98,7 +98,7 @@ Sie werden nicht für euch angenommen.‘“
 
 > **Was bedeutet das?**
 > Man soll Gott das Beste geben, nicht das, was man selbst nicht mehr braucht. Ein krankes oder verletztes Tier zu opfern, wäre wie ein Geschenk aus dem Müll.
-> Später klagte der Prophet Maleachi, dass die Menschen blinde und kranke Tiere opferten. Er fragte: „Bring das doch mal deinem Statthalter! Wird er sich darüber freuen?“ (Maleachi 1,8).
+> Später klagte der Prophet Maleachi, dass die Menschen blinde und kranke Tiere opferten. Er fragte: „Bring es doch einmal deinem Statthalter! Wird er Gefallen an dir haben?“ (Maleachi 1,8).
 > Auch Ausländer dürfen Opfer bringen. Gottes Altar steht für alle offen.
 
 ---

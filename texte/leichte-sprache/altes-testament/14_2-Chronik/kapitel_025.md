@@ -60,7 +60,7 @@ und kehrten in glühendem Zorn nach Hause zurück.
 > **Was bedeutet das?**
 > In der Bibel steht „100 Talente Silber“. Ein Talent sind etwa 34 Kilogramm.
 > Amazja kauft sich Soldaten aus dem Nordreich. Der Prophet warnt: Verlass dich nicht auf ein Heer, das Gott nicht dient. „Efraim“ ist hier ein anderer Name für das Nordreich Israel.
-> Amazjas Frage in Vers 9 ist sehr menschlich: „Aber das ganze Geld!“ Die Antwort des Propheten ist eine Glaubenslektion: Gott kann dir viel mehr geben. Manchmal muss man einen Verlust in Kauf nehmen, um das Richtige zu tun.
+> Amazjas Frage in Vers 9 ist sehr menschlich: „Aber was sollen wir mit den 3400 Kilogramm Silber machen …?“ Die Antwort des Propheten ist eine Glaubenslektion: Gott kann dir viel mehr geben. Manchmal muss man einen Verlust in Kauf nehmen, um das Richtige zu tun.
 > Amazja gehorcht. Das ist gut. Aber es hat Folgen (Vers 13).
 
 ---

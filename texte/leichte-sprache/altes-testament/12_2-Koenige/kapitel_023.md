@@ -22,7 +22,7 @@ Und das ganze Volk trat in den Bund ein.
 
 > **Was bedeutet das?**
 > Joschija behält das Buch nicht für sich. Er liest es dem ganzen Volk vor, allen, Klein und Groß. Gottes Wort ist für alle da.
-> Dann erneuern König und Volk gemeinsam den Bund mit Gott. „Mit ganzem Herzen und ganzer Seele“ erinnert an das wichtigste Gebot: „Du sollst den HERRN, deinen Gott, lieben mit ganzem Herzen, mit ganzer Seele und mit ganzer Kraft“ (5. Mose 6,5). Jesus nannte es das größte Gebot (Markus 12,29–30).
+> Dann erneuern König und Volk gemeinsam den Bund mit Gott. „Mit ganzem Herzen und ganzer Seele“ erinnert an das wichtigste Gebot: „Du sollst den HERRN, deinen Gott, lieben mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deiner ganzen Kraft“ (5. Mose 6,5). Jesus nannte es das größte Gebot (Markus 12,29–30).
 
 ---
 

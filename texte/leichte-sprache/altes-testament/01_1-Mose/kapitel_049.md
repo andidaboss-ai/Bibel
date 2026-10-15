@@ -113,7 +113,7 @@ wie jeder andere Stamm Israels.
 [17] Dan wird eine Schlange am Weg sein,
 eine Viper auf dem Pfad,
 die das Pferd in die Fersen beißt,
-so dass sein Reiter nach hinten stürzt.
+sodass sein Reiter nach hinten stürzt.
 
 [18] Auf deine Rettung warte ich, HERR!
 

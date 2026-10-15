@@ -31,7 +31,7 @@ Jeder tat, was in seinen eigenen Augen recht war.
 > Mit diesem Kapitel beginnt der letzte Teil des Buches. Er erzählt nicht mehr von Richtern, sondern davon, wie Israel innerlich zerfällt.
 > Micha bestiehlt seine eigene Mutter. Erst als sie den Dieb verflucht, bekommt er Angst und gibt das Geld zurück. Die Mutter segnet ihn sofort, um den Fluch aufzuheben.
 > 1100 Silberstücke sind etwa 12 Kilogramm Silber, 200 Silberstücke sind etwa 2,2 Kilogramm. Ein Silberstück war wohl ein Schekel, etwa 11 Gramm. Interessant: Delila bekam in Kapitel 16 von jedem Fürsten genauso viel.
-> Die Mutter will das Silber „dem HERRN“ weihen, und dann macht sie daraus Götterbilder. Genau das hatte Gott verboten: „Du sollst dir kein Bild machen“ (2. Mose 20,4). Sie meint es fromm, aber sie tut das Gegenteil von Gottes Willen. Außerdem gibt sie von 1100 Silberstücken nur 200 dafür her.
+> Die Mutter will das Silber „dem HERRN“ weihen, und dann macht sie daraus Götterbilder. Genau das hatte Gott verboten: „Du sollst dir kein Götzenbild machen“ (2. Mose 20,4). Sie meint es fromm, aber sie tut das Gegenteil von Gottes Willen. Außerdem gibt sie von 1100 Silberstücken nur 200 dafür her.
 > Ein „Efod“ war hier wohl ein Gegenstand, mit dem man Gott befragte. „Terafim“ waren Hausgötter, kleine Figuren (siehe 1. Mose 31,19).
 > Micha macht seinen eigenen Sohn zum Priester. Aber Priester durften nur die Nachkommen Aarons sein.
 > Vers 6 ist der Schlüssel für die letzten Kapitel des Buches: Jeder macht sich seine eigene Religion und seine eigenen Regeln. Am Ende des Buches kommt dieser Satz noch einmal.

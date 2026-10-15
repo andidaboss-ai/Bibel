@@ -57,8 +57,8 @@ und das, was aufrichtig geschrieben war, Worte der Wahrheit.
 und wie fest eingeschlagene Nägel sind die Worte der Sammlungsmeister,
 die von einem einzigen Hirten gegeben sind.
 [12] Außerdem, mein Sohn, lass dich warnen:
-Des vielen Büchermachens ist kein Ende,
-und viel Studieren ermüdet den Leib.
+Viele Bücher zu machen, nimmt kein Ende,
+und viel Lernen macht den Körper müde.
 [13] Das ist das Ende der Sache. Alles ist gehört.
 Fürchte Gott und halte seine Gebote,
 denn das ist die ganze Pflicht des Menschen.
@@ -69,7 +69,7 @@ es sei gut oder böse.
 > **Was bedeutet das?**
 > Vers 9–12: Hier spricht jemand über den Prediger, vielleicht ein Schüler. Er lobt ihn: Er war weise, hat geforscht und Sprüche gesammelt.
 > Vers 11: Die Worte der Weisen sind wie Stacheln, mit denen man Rinder antreibt. Sie piksen und bringen uns in Bewegung. Und sie halten fest wie Nägel. Der „eine Hirte“ ist wohl Gott selbst, von dem alle wahre Weisheit kommt.
-> Vers 12: Ein Satz, über den viele Studenten schmunzeln: „Des vielen Büchermachens ist kein Ende, und viel Studieren ermüdet.“
+> Vers 12: Ein Satz, über den viele Studenten schmunzeln: „Viele Bücher zu machen, nimmt kein Ende, und viel Lernen macht den Körper müde.“
 > Vers 13–14 sind der Schluss des ganzen Buches: „Fürchte Gott und halte seine Gebote.“ Nach allen Fragen und Zweifeln bleibt das Wichtigste: Gott ernst nehmen und nach seinem Willen leben. Und: Gott sieht alles, auch das Verborgene.
 
 ---

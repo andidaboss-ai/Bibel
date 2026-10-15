@@ -9,7 +9,7 @@ Maleachi ist das letzte Buch des Alten Testaments in christlichen Bibeln. (In de
 Der Name Maleachi bedeutet „mein Bote“. Vielleicht ist es sein Name, vielleicht auch ein Titel (vgl. 3,1, wo Gott sagt: „Ich sende meinen Boten“). Über die Person wissen wir nichts.
 Maleachi lebte wahrscheinlich im 5. Jahrhundert vor Christus, einige Jahrzehnte nachdem der zweite Tempel wieder aufgebaut war (515 vor Christus), vielleicht zur Zeit von Esra und Nehemia. Die erste Begeisterung war vorbei. Die Priester waren nachlässig, die Menschen gleichgültig. Viele fragten: „Lohnt es sich überhaupt, Gott zu dienen?“
 Das Besondere an Maleachi: Das Buch ist wie ein Streitgespräch aufgebaut. Gott sagt etwas, das Volk widerspricht („Wieso? Womit denn?“), und Gott antwortet. Das passiert sechsmal.
-Am Ende kündigt Maleachi an, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt. Im Neuen Testament wird das auf Johannes den Täufer bezogen.
+Am Ende kündigt Maleachi an, dass Gott einen Boten senden wird, den Propheten Elija, bevor der große Tag des HERRN kommt. Im Neuen Testament wird das auf Johannes den Täufer bezogen.
 Ein Hinweis: Im WEB hat Maleachi 4 Kapitel. In deutschen Bibeln sind es meistens nur 3; das WEB-Kapitel 4 ist dort 3,19–24.
 
 ---

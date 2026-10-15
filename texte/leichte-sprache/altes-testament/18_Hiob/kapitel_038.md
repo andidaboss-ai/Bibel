@@ -14,7 +14,7 @@ Denn ich will dich fragen, und du sollst mir antworten!
 > **Was bedeutet das?**
 > Endlich antwortet Gott! Darauf hat Hiob das ganze Buch über gewartet.
 > Wichtig: Hier steht wieder der Gottesname „HERR“ (hebräisch: JHWH). In den Reden vorher hieß Gott meistens nur „Gott“ oder „der Allmächtige“. Jetzt begegnet Hiob dem Gott Israels persönlich.
-> Gott kommt „aus dem Sturm“. Das erinnert an andere Begegnungen mit Gott: am Berg Sinai (2. Mose 19) oder bei Elia (1. Könige 19).
+> Gott kommt „aus dem Sturm“. Das erinnert an andere Begegnungen mit Gott: am Berg Sinai (2. Mose 19) oder bei Elija (1. Könige 19).
 > Gott wirft Hiob vor, „ohne Wissen“ geredet zu haben. Aber: Gott sagt nicht, dass Hiob gesündigt hat. Er wiederholt nicht die Vorwürfe der Freunde.
 > „Gürte deine Lenden“: Damals band man das lange Gewand hoch, bevor man arbeitete oder kämpfte. Gemeint ist: Mach dich bereit! Hiob wollte Gott Fragen stellen. Jetzt stellt Gott Hiob Fragen.
 

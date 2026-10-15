@@ -134,7 +134,7 @@ Und sie nannten Leschem „Dan“, nach dem Namen ihres Vaters Dan.
 > **Was bedeutet das?**
 > „Das Gebiet ging über sie hinaus“: So steht es in der englischen Vorlage. Der hebräische Satz ist schwer zu verstehen. Viele übersetzen: „Das Gebiet ging ihnen verloren“, weil die Amoriter sie bedrängten (Richter 1,34).
 > Dan bekam zuerst ein Gebiet an der Küste, bei der heutigen Stadt Tel Aviv. „Joppe“ ist das heutige Jaffa. „Bene-Berak“ gibt es als Stadt bis heute.
-> Weil sie sich dort nicht halten konnten, zogen sie weit in den Norden und nahmen die Stadt Leschem (auch Lajisch genannt) ein. Diese Geschichte wird ausführlich in Richter 18 erzählt. Seitdem sagte man für ganz Israel: „Von Dan bis Beerscheba“, also vom Norden bis zum Süden.
+> Weil sie sich dort nicht halten konnten, zogen sie weit in den Norden und nahmen die Stadt Leschem (auch Lajisch genannt) ein. Diese Geschichte wird ausführlich in Richter 18 erzählt. Seitdem sagte man für ganz Israel: „Von Dan bis Beerscheba“ (Richter 20,1), also vom Norden bis zum Süden.
 > Zora gehörte zu Dan. Von dort stammte Simson (Richter 13,2).
 
 ---

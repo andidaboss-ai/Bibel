@@ -37,7 +37,7 @@ damit ihr Erfolg habt bei allem, was ihr tut.
 
 > **Was bedeutet das?**
 > Vers 4 ist ein ehrlicher und schmerzlicher Satz: Das Volk hat so viele Wunder gesehen, und trotzdem hat es nicht wirklich verstanden. Ein tiefes Verstehen ist ein Geschenk Gottes. Man kann alles sehen und es trotzdem nicht begreifen. Jesus sagt Ähnliches über Menschen, die „sehen und doch nicht sehen“ (Matthäus 13,13–15).
-> In Vers 5–6 spricht Mose plötzlich so, als würde Gott selbst sprechen: „damit ihr erkennt, dass ich der HERR bin“. Mose ist Gottes Sprachrohr.
+> In Vers 5–6 spricht Mose plötzlich so, als würde Gott selbst sprechen: „damit ihr erkennt, dass ich der HERR, euer Gott, bin“. Mose ist Gottes Sprachrohr.
 > „Ihr habt kein Brot gegessen“: Gemeint ist kein normales Brot aus Getreide. Gott hat das Volk mit Manna ernährt.
 
 ---
@@ -59,7 +59,7 @@ und auch mit denen, die heute nicht hier bei uns sind.
 
 > **Was bedeutet das?**
 > Alle gehören dazu: Anführer und einfache Leute, Männer, Frauen und Kinder, sogar die Fremden, die als Holzhauer und Wasserträger die einfachsten Arbeiten machen. Vor Gott sind alle gleich.
-> Vers 15 ist besonders schön: Der Bund gilt auch für die, „die heute nicht hier sind“. Gemeint sind die künftigen Generationen. Jüdische Ausleger sagen: Jeder Jude, der je leben wird, war an diesem Tag mit dabei. Der Bund gilt bis heute.
+> Vers 15 ist besonders schön: Der Bund gilt auch für die, „die heute nicht hier bei uns sind“. Gemeint sind die künftigen Generationen. Jüdische Ausleger sagen: Jeder Jude, der je leben wird, war an diesem Tag mit dabei. Der Bund gilt bis heute.
 
 ---
 

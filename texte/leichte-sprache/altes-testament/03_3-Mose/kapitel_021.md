@@ -100,5 +100,5 @@ Denn ich bin der HERR, der sie heiligt.‘“
 > Das ist eine Stelle, die uns heute sehr schwerfällt. Menschen mit Behinderungen dürfen keinen Dienst am Altar tun.
 > Man muss sie aus ihrer Zeit verstehen: Die Opfertiere mussten „ohne Fehler“ sein (3. Mose 22). Auch die Priester, die am Altar standen, sollten es sein. Es ging um ein äußeres Bild der Vollkommenheit Gottes.
 > Aber wichtig ist Vers 22: Ein Priester mit Behinderung bleibt Priester. Er gehört zur Priesterfamilie. Er darf vom Hochheiligen essen, also das Heiligste, was ein Priester essen darf. Er wird nicht ausgestoßen. Er verliert nicht seinen Platz bei Gott. Er hat nur eine andere Aufgabe.
-> Diese Regel galt nur für den Dienst am Altar. Sie sagt nichts über den Wert eines Menschen vor Gott. Die Bibel sagt an anderer Stelle: „Der Mensch sieht, was vor Augen ist. Der HERR aber sieht das Herz an“ (1. Samuel 16,7).
+> Diese Regel galt nur für den Dienst am Altar. Sie sagt nichts über den Wert eines Menschen vor Gott. Die Bibel sagt an anderer Stelle: „Der Mensch sieht, was vor Augen ist, aber der HERR sieht das Herz an“ (1. Samuel 16,7).
 > Jesus hat sich besonders den Blinden, Lahmen und Kranken zugewandt. Er hat sie geheilt und an seinen Tisch geladen (Lukas 14,13.21).

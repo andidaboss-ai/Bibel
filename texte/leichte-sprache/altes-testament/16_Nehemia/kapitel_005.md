@@ -115,4 +115,4 @@ denn die Last lag schwer auf diesem Volk.
 > In der Bibel steht „40 Schekel Silber“. Ein Schekel sind etwa 11 Gramm.
 > „Wir haben kein Land gekauft“: Er nutzte seine Stellung nicht aus, um billig Land von verschuldeten Armen zu kaufen.
 > Vers 19 ist ein Gebet, das Nehemia mehrmals spricht (Kapitel 13,14.22.31). Er bittet Gott, an das Gute zu denken, das er getan hat. Er sucht nicht Lob von Menschen, sondern von Gott.
-> Nehemia ist ein Vorbild für Führung: Er dient den Menschen, statt sich von ihnen bedienen zu lassen. Jesus sagt später: „Wer unter euch groß sein will, der soll euer Diener sein“ (Markus 10,43).
+> Nehemia ist ein Vorbild für Führung: Er dient den Menschen, statt sich von ihnen bedienen zu lassen. Jesus sagt später: „Wer bei euch groß werden will, der soll euer Diener sein“ (Markus 10,43).

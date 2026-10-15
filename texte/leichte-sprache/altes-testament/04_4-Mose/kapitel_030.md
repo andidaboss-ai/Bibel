@@ -15,7 +15,7 @@ Er soll alles tun, was aus seinem Mund gekommen ist.
 > **Was bedeutet das?**
 > In vielen deutschen Bibeln wird dieses Kapitel um einen Vers verschoben gezählt: Vers 1 hier ist dort Vers 2, und so weiter bis Vers 17. Wir folgen der Zählung der englischen Vorlage.
 > Ein „Gelübde“ ist ein feierliches Versprechen an Gott. Zum Beispiel: „Ich will ein Opfer bringen“ oder „Ich will eine Zeit lang fasten“.
-> Die Regel ist klar: Was man Gott verspricht, muss man halten. Worte haben Gewicht. Jesus sagt später: „Euer Ja sei ein Ja, und euer Nein sei ein Nein“ (Matthäus 5,37).
+> Die Regel ist klar: Was man Gott verspricht, muss man halten. Worte haben Gewicht. Jesus sagt später: „Eure Rede aber sei: ‚Ja‘ ist ‚Ja‘, und ‚Nein‘ ist ‚Nein‘“ (Matthäus 5,37).
 
 ---
 

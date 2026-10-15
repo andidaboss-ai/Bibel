@@ -140,7 +140,7 @@ Und einige von ihnen hatten Frauen, mit denen sie Kinder hatten.
 > Man muss die damalige Lage verstehen: Das kleine Volk war nach der Verbannung in großer Gefahr, sich aufzulösen und seinen Glauben an den einen Gott zu verlieren. Die Führer sahen darin eine Frage des Überlebens.
 > Die Bibel selbst zeigt aber auch andere Wege:
 > – Rut aus Moab und Rahab aus Kanaan wurden ein Teil des Volkes Gottes, weil sie sich dem HERRN zuwandten.
-> – Der Prophet Maleachi, der in derselben Zeit lebte, sagt: „Ich hasse Scheidung, spricht der HERR“ (Maleachi 2,16).
+> – Der Prophet Maleachi lebte in derselben Zeit. Er sagt: „Wer hasst und sich scheidet … der bedeckt sein Gewand mit Gewalt“ (Maleachi 2,16). Das heißt: Gott will nicht, dass Ehen zerbrechen.
 > – Paulus schreibt im Neuen Testament: Wenn ein Christ mit einem Partner verheiratet ist, der nicht glaubt, soll er sich nicht trennen, wenn der andere bleiben will. Die Kinder sind „heilig“ (1. Korinther 7,12–14).
 > Juden und Christen lesen dieses Kapitel heute nicht als Anleitung, Familien zu trennen. Sie lesen es als ernste Erinnerung, dass der Glaube das Leben prägen soll. Und als Geschichte, die zeigt, wie schwer manche Entscheidungen in einer bestimmten Notlage waren.
 > Die Bibel erzählt nicht, was mit den Frauen und Kindern geschah. Wir wissen nur, dass das Problem später wieder auftauchte (Nehemia 13,23–27).

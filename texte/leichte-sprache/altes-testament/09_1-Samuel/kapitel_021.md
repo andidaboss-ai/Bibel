@@ -104,4 +104,4 @@ Soll dieser da in mein Haus kommen?“
 > David bekommt Angst und rettet sich mit einer List: Er spielt den Verrückten. Damals hatte man Scheu davor, einem Wahnsinnigen etwas anzutun.
 > Achisch macht sich lustig: Ich habe schon genug Verrückte um mich herum.
 > Der große Held, der Goliat besiegt hat, muss jetzt sabbern und kritzeln, um zu überleben. So tief ist David gefallen. Aber Gott lässt ihn nicht fallen.
-> Psalm 34 ist nach seiner Überschrift ein Lied von David aus dieser Zeit. Darin steht: „Der HERR ist nahe denen, die zerbrochenen Herzens sind“ (Psalm 34,19). Der König heißt in der Überschrift des Psalms „Abimelech“, das war wohl ein Titel der Könige der Philister.
+> Psalm 34 ist nach seiner Überschrift ein Lied von David aus dieser Zeit. Darin steht: „Der HERR ist nahe denen, die ein zerbrochenes Herz haben“ (Psalm 34,18; in vielen deutschen Bibeln 34,19). Der König heißt in der Überschrift des Psalms „Abimelech“, das war wohl ein Titel der Könige der Philister.

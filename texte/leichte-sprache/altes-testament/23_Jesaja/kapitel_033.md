@@ -55,7 +55,7 @@ wie abgehauene Dornen, die im Feuer verbrannt werden.
 und ihr in der Nähe, erkennt meine Macht!“
 
 > **Was bedeutet das?**
-> Vers 7–8: Die Friedensverhandlungen sind gescheitert. Die Friedensboten weinen. Der Feind hält sich an keinen Vertrag. Hiskia hatte Assyrien Tribut gezahlt, doch der assyrische König griff trotzdem an (2. Könige 18,14–17).
+> Vers 7–8: Die Friedensverhandlungen sind gescheitert. Die Friedensboten weinen. Der Feind hält sich an keinen Vertrag. Hiskija hatte Assyrien Tribut gezahlt, doch der assyrische König griff trotzdem an (2. Könige 18,14–17).
 > Vers 9: Sogar die schönsten Landschaften (Libanon, Scharon, Baschan, Karmel) verdorren.
 > Vers 10: Jetzt greift Gott ein: „Jetzt will ich aufstehen.“
 > Vers 11: Die Pläne der Feinde sind wie Spreu. Ihr eigener Atem, ihre Wut, wird sie verbrennen.

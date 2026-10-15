@@ -173,7 +173,7 @@ Ich bin der HERR, euer Gott.
 
 > **Was bedeutet das?**
 > Hier geht es um Bräuche, die die Völker um Israel herum hatten. Bei Trauer schnitten sie sich in die Haut und schoren ihr Haar auf besondere Weise, um die Götter der Toten zu ehren. Israel soll das nicht tun.
-> Aus Vers 27 kommt der Brauch mancher frommer Juden, an den Schläfen lange Locken zu tragen, die „Pejes“.
+> Aus Vers 27 kommt der Brauch mancher frommen Juden, an den Schläfen lange Locken zu tragen, die „Pejes“.
 > Vers 28 nennt auch Tätowierungen. Damals waren sie oft Zeichen für fremde Götter oder für Sklaven. Ob dieses Verbot auch für heutige Tätowierungen gilt, darüber denken Juden und Christen unterschiedlich.
 > Vers 29 schützt Töchter. Väter in Not verkauften manchmal ihre Töchter in die Prostitution. Das wird hier streng verboten.
 > Zauberei, Wahrsagerei und Totenbeschwörung sind verboten. Wer Gott vertraut, braucht keine Wahrsager, um die Zukunft zu erfahren.
@@ -194,7 +194,7 @@ Ich bin der HERR, euer Gott.
 
 > **Was bedeutet das?**
 > Alte Menschen soll man ehren. Ein „graues Haupt“ ist ein Mensch mit grauen Haaren. Wenn ein alter Mensch in den Raum kommt, steht man auf. Das ist ein Zeichen von Respekt.
-> Vers 34 ist ganz besonders: Das Gebot der Nächstenliebe gilt auch für den Fremden, den Ausländer. „Liebe ihn wie dich selbst.“
+> Vers 34 ist ganz besonders: Das Gebot der Nächstenliebe gilt auch für den Fremden, den Ausländer. „Du sollst ihn lieben wie dich selbst.“
 > Der Grund: „Ihr seid selbst Fremde in Ägypten gewesen.“ Israel weiß, wie es sich anfühlt, als Fremder unterdrückt zu werden. Darum sollen sie Fremde gut behandeln. Dieses Gebot steht so oder ähnlich über 30-mal in der Tora.
 
 ---

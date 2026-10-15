@@ -387,5 +387,5 @@ ist geeignet für das Reich Gottes.“
 > **Was bedeutet das?**
 > Jesus ist auf dem Weg. Wer mit ihm geht, muss auf Sicherheit und Bequemlichkeit verzichten.
 > Vers 60 klingt sehr hart. Die Pflicht, die Eltern zu begraben, war heilig. Manche Ausleger meinen: Der Vater lebte noch, und der Sohn wollte warten, bis er gestorben war. Sicher ist: Jesus sagt mit einem scharfen Bild, dass das Reich Gottes jetzt Vorrang hat. „Die Toten“ sind wohl die, die geistlich nicht lebendig sind.
-> Vers 61–62: Wer pflügt und dabei zurückschaut, pflügt schief. Elija erlaubte Elischa noch, sich zu verabschieden (1. Könige 19,19–21). Jesus ist hier noch strenger.
+> Vers 61–62: Wer pflügt und dabei zurückschaut, pflügt schief. Elija erlaubte Elisa noch, sich zu verabschieden (1. Könige 19,19–21). Jesus ist hier noch strenger.
 > Wichtig: Jesus verlangt nicht, dass man seine Familie lieblos behandelt. Es geht um eine klare Entscheidung. Gruppen, die Menschen von ihren Familien abschneiden wollen, berufen sich manchmal auf solche Verse. Rat in solchen Fragen geben zum Beispiel die Sekten- und Weltanschauungsbeauftragten der Kirchen.

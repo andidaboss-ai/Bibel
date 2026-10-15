@@ -37,7 +37,7 @@ aber den Demütigen gibt er Gnade.“
 Widersteht dem Teufel,
 dann wird er vor euch fliehen.
 [8] Kommt Gott nahe,
-dann wird er euch nahe kommen.
+dann wird er euch nahekommen.
 Wascht eure Hände,
 ihr Sünder.
 Reinigt eure Herzen,

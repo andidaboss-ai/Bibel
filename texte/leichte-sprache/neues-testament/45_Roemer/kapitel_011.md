@@ -20,7 +20,7 @@ aus dem Stamm Benjamin.
 [2] Gott hat sein Volk nicht verstoßen,
 das er im Voraus erkannt hat.
 Oder wisst ihr nicht,
-was die Schrift über Elia sagt?
+was die Schrift über Elija sagt?
 Wie er bei Gott gegen Israel klagt:
 [3] „Herr,
 sie haben deine Propheten getötet.
@@ -61,7 +61,7 @@ Lass ihren Rücken immer gebeugt sein.“
 
 > **Was bedeutet das?**
 > Vers 1: Paulus ist selbst Jude. Schon deshalb kann Gott sein Volk nicht verstoßen haben.
-> Vers 3 zitiert 1. Könige 19,10 und 19,14. Vers 4 zitiert 1. Könige 19,18. Elia dachte, er sei ganz allein. Aber Gott hatte viele Treue bewahrt.
+> Vers 3 zitiert 1. Könige 19,10 und 19,14. Vers 4 zitiert 1. Könige 19,18. Elija dachte, er sei ganz allein. Aber Gott hatte viele Treue bewahrt.
 > Vers 5: „Ein Rest“: Auch zur Zeit von Paulus gab es viele Juden, die an Jesus glaubten. Die ersten Christen waren alle Juden.
 > Vers 8 verbindet 5. Mose 29,3 (in manchen Bibeln 29,4) und Jesaja 29,10. Vers 9–10 zitiert Psalm 69,23–24 (in manchen Bibeln 69,22–23).
 > Vers 7–10: „Verhärtet“ ist ein hartes Wort. Aber Paulus sagt gleich danach: Diese Verhärtung ist nur teilweise und nur für eine Zeit (Vers 11 und 25). Sie ist kein endgültiges Urteil.

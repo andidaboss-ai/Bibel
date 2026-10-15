@@ -69,7 +69,7 @@ und wart ohne Gott in der Welt.
 [13] Jetzt aber seid ihr in Christus Jesus,
 ihr,
 die ihr früher fern wart.
-Durch das Blut von Christus seid ihr nahe gekommen.
+Durch das Blut von Christus seid ihr nahegekommen.
 [14] Denn er ist unser Friede.
 Er hat aus beiden eins gemacht.
 Er hat die Trennwand niedergerissen,
@@ -100,7 +100,7 @@ zu einer Wohnung Gottes im Geist.
 
 > **Was bedeutet das?**
 > Vers 12: Der Brief erinnert die Christen aus den Völkern daran: Israel hatte die Bünde und Verheißungen Gottes. Ihr wart früher davon ausgeschlossen. Israel ist der Ausgangspunkt.
-> Vers 13: Die „Fernen“ sind die Menschen aus den Völkern. Durch Christus sind sie nahe gekommen, nahe zu Gott und nahe zu Israel.
+> Vers 13: Die „Fernen“ sind die Menschen aus den Völkern. Durch Christus sind sie nahegekommen, nahe zu Gott und nahe zu Israel.
 > Vers 14: „Die Trennwand“: Im Tempel in Jerusalem gab es eine Mauer. Nichtjuden durften nicht weiter hineingehen. Der Brief sagt: In Christus ist diese Trennung überwunden.
 > Vers 15: „Das Gesetz der Gebote in Vorschriften“ meint wohl vor allem die Regeln, die Juden und Nichtjuden voneinander trennten. Ausleger verstehen diesen Vers verschieden.
 > Wichtig: Der Brief sagt nicht, dass Israel ersetzt wird. Er sagt: Die Menschen aus den Völkern werden zu Israel hinzugefügt. Sie werden „Mitbürger“ (Vers 19). Juden und Christen aus den Völkern sollen in Frieden zusammenleben.

@@ -48,7 +48,7 @@ den der HERR auf der Grundlage all dieser Worte mit euch geschlossen hat.“
 > Mose schreibt alles auf. So entsteht das „Buch des Bundes“ (die Kapitel 20–23).
 > Die zwölf Steine stehen für die zwölf Stämme. Das ganze Volk ist beteiligt.
 > Das Blut verbindet beide Seiten: Ein Teil kommt an den Altar (für Gott), ein Teil auf das Volk. Damals wurde ein Bund oft mit Blut besiegelt. Das bedeutete: Dieser Bund ist eine Sache auf Leben und Tod.
-> Jesus nimmt diese Worte beim letzten Abendmahl auf. Er nimmt den Becher und sagt: „Das ist mein Blut des Bundes“ (Markus 14,24). Christen glauben: Mit Jesus beginnt ein neuer Bund.
+> Jesus nimmt diese Worte beim letzten Abendmahl auf. Er nimmt den Becher und sagt: „Das ist mein Blut des neuen Bundes“ (Markus 14,24). Christen glauben: Mit Jesus beginnt ein neuer Bund.
 
 ---
 

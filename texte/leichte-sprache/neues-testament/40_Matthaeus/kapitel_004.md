@@ -42,7 +42,7 @@ und ihm allein dienen.‘“
 Und siehe, Engel kamen und dienten ihm.
 
 > **Was bedeutet das?**
-> Vers 1–2: Nach der Taufe geht Jesus in die Wüste und fastet vierzig Tage. Das erinnert an die vierzig Jahre, die Israel in der Wüste war, und an Mose und Elia, die vierzig Tage fasteten (2. Mose 34,28; 1. Könige 19,8). Daran erinnert die christliche Fastenzeit vor Ostern.
+> Vers 1–2: Nach der Taufe geht Jesus in die Wüste und fastet vierzig Tage. Das erinnert an die vierzig Jahre, die Israel in der Wüste war, und an Mose und Elija, die vierzig Tage fasteten (2. Mose 34,28; 1. Könige 19,8). Daran erinnert die christliche Fastenzeit vor Ostern.
 > Dreimal versucht der Teufel Jesus:
 > 1. Brot aus Steinen (Vers 3–4): Benutze deine Macht für dich selbst! Jesus antwortet mit 5. Mose 8,3: Der Mensch braucht mehr als Brot, er braucht Gottes Wort.
 > 2. Sprung vom Tempel (Vers 5–7): Zwinge Gott, dich spektakulär zu retten! Der Teufel zitiert sogar die Bibel (Psalm 91,11–12). Jesus antwortet mit 5. Mose 6,16: Man soll Gott nicht auf die Probe stellen.
@@ -68,13 +68,13 @@ hat ein großes Licht gesehen.
 Und denen, die im Land und Schatten des Todes saßen,
 ist ein Licht aufgegangen.“
 [17] Von da an begann Jesus zu predigen und zu sagen:
-„Kehrt um! Denn das Reich der Himmel ist nahe gekommen.“
+„Kehrt um! Denn das Reich der Himmel ist nahegekommen.“
 
 > **Was bedeutet das?**
 > Vers 12: Johannes der Täufer wurde von Herodes Antipas, dem Herrscher von Galiläa, ins Gefängnis geworfen (Matthäus 14,3–4).
 > Vers 13: Jesus zieht nach Kafarnaum, einer Stadt am See Genezareth. Dort wird er oft sein.
 > Vers 15–16: Matthäus zitiert Jesaja 9,1–2 (in deutschen Bibeln Jesaja 8,23–9,1). „Galiläa der Heiden“ hieß die Gegend, weil dort viele Nichtjuden lebten. Gerade dort, am Rand, beginnt Jesus. Er ist das „große Licht“ für Menschen im Dunkeln.
-> Vers 17: Jesus beginnt mit derselben Botschaft wie Johannes: „Kehrt um! Denn das Reich der Himmel ist nahe gekommen.“
+> Vers 17: Jesus beginnt mit derselben Botschaft wie Johannes: „Kehrt um! Denn das Reich der Himmel ist nahegekommen.“
 
 ---
 

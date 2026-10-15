@@ -74,7 +74,7 @@ Dein Thron soll für immer feststehen.“‘“
 > Der Nachkomme, der den Tempel bauen wird, ist zuerst Salomo, Davids Sohn. Er baut den Tempel in Jerusalem (1. Könige 6).
 > „Ich will ihm Vater sein, und er soll mir Sohn sein“: Der König soll eine besondere, enge Beziehung zu Gott haben. Wenn er Unrecht tut, wird Gott ihn bestrafen, aber Gott wird ihn nicht verlassen wie Saul. Gottes Güte bleibt.
 > „Für immer“: Das Königtum Davids hat in Jerusalem etwa 400 Jahre bestanden. Dann wurde Jerusalem von den Babyloniern zerstört, und es gab keinen König mehr. Aber das Volk Israel hat an Gottes Versprechen festgehalten. Daraus wuchs die Hoffnung auf den Messias, den Gesalbten, einen Nachkommen Davids, der für immer regieren wird (Jesaja 9,6; Psalm 89).
-> Christen glauben, dass sich dieses Versprechen in Jesus erfüllt hat. Im Lukasevangelium sagt der Engel zu Maria über Jesus: „Gott wird ihm den Thron seines Vaters David geben … und sein Reich wird kein Ende haben“ (Lukas 1,32–33). Im Hebräerbrief wird Vers 14 auf Jesus bezogen (Hebräer 1,5).
+> Christen glauben, dass sich dieses Versprechen in Jesus erfüllt hat. Im Lukasevangelium sagt der Engel zu Maria über Jesus: „Gott, der Herr, wird ihm den Thron seines Vaters David geben … und sein Reich wird kein Ende haben“ (Lukas 1,32–33). Im Hebräerbrief wird Vers 14 auf Jesus bezogen (Hebräer 1,5).
 
 ---
 

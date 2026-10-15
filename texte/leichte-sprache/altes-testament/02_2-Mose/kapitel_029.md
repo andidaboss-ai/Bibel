@@ -219,4 +219,4 @@ Ich bin der HERR, ihr Gott.“
 > **Was bedeutet das?**
 > Diese Verse sind das Ziel von allem: „Ich will mitten unter ihnen wohnen und ihr Gott sein.“
 > Gott hat Israel nicht nur aus Ägypten befreit, damit es frei ist. Er hat es befreit, um bei ihm zu wohnen. Die Befreiung führt zur Gemeinschaft mit Gott.
-> Im Neuen Testament heißt es über Jesus: „Das Wort wurde Mensch und wohnte unter uns“ (Johannes 1,14). Wörtlich steht dort: „Es zeltete unter uns.“ Und ganz am Ende der Bibel heißt es: „Seht, das Zelt Gottes ist bei den Menschen. Er wird bei ihnen wohnen“ (Offenbarung 21,3).
+> Im Neuen Testament heißt es über Jesus: „Das Wort wurde Fleisch und wohnte unter uns“ (Johannes 1,14). Fleisch heißt hier: ein Mensch. Im Griechischen steht für „wohnte“ ein Wort, das eigentlich bedeutet: „im Zelt wohnen“. Und ganz am Ende der Bibel heißt es: „Seht, die Wohnung Gottes ist bei den Menschen! Er wird bei ihnen wohnen“ (Offenbarung 21,3). Auch dort steht im Griechischen das Wort für Zelt.

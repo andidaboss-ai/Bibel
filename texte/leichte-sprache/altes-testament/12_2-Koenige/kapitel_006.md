@@ -114,7 +114,7 @@ Und die Streifscharen der Syrer kamen nicht mehr in das Land Israel.
 > Elisa betet: „Öffne ihm die Augen.“ Glauben heißt manchmal, die unsichtbare Wirklichkeit Gottes zu sehen.
 > Die feurigen Pferde und Wagen erinnern an Elijas Himmelfahrt (Kapitel 2,11).
 > Dann geschieht etwas Überraschendes: Elisa lässt die Feinde nicht töten. Er lässt ihnen ein Festmahl geben und schickt sie nach Hause. Und so entsteht Frieden: Die Überfälle hören auf.
-> Das ist eine der schönsten Friedensgeschichten im Alten Testament. Sie erinnert an Sprüche 25,21: „Hat dein Feind Hunger, so gib ihm Brot zu essen.“ Paulus zitiert das in Römer 12,20. Und Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
+> Das ist eine der schönsten Friedensgeschichten im Alten Testament. Sie erinnert an Sprüche 25,21: „Wenn dein Feind hungrig ist, gib ihm Brot zu essen.“ Paulus zitiert das in Römer 12,20. Und Jesus sagt: „Liebt eure Feinde“ (Matthäus 5,44).
 > „Mit Blindheit schlagen“ meint hier wohl eine Verwirrung: Sie erkennen nicht, wo sie sind.
 
 ---

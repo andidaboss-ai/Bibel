@@ -93,7 +93,7 @@ dass es keine Heilung mehr gab.
 > Er brach auch seinen Eid gegenüber Nebukadnezar, den er bei Gott geschworen hatte (vgl. Hesekiel 17,13–19).
 > Vers 15 ist einer der berührendsten Verse der Bibel: Gott schickte „früh und unermüdlich“ seine Boten, „denn er hatte Mitleid mit seinem Volk“. Gott hat nicht schnell bestraft. Er hat jahrhundertelang gewartet und gewarnt.
 > Aber das Volk verspottete die Propheten. Am Ende gab es „keine Heilung mehr“. Das Gericht war nicht Gottes erster Wunsch, sondern die Folge davon, dass das Volk jede Hilfe ablehnte.
-> Jesus klagt ähnlich über Jerusalem: „Wie oft wollte ich deine Kinder sammeln … und ihr habt nicht gewollt“ (Matthäus 23,37).
+> Jesus klagt ähnlich über Jerusalem: „Wie oft wollte ich deine Kinder sammeln … Aber ihr habt nicht gewollt“ (Matthäus 23,37).
 
 ---
 

@@ -20,7 +20,7 @@ Die Diener des Königs, die ihm dienten, sagten:
 > **Was bedeutet das?**
 > Das ist der Wendepunkt der ganzen Geschichte. Und er beginnt mit etwas ganz Kleinem: Der König kann nicht schlafen.
 > Warum gerade in dieser Nacht? Warum lässt er sich gerade dieses Buch vorlesen? Warum gerade diese Stelle? Die Bibel sagt es nicht. Aber der Leser merkt: Das ist kein Zufall. Hier lenkt Gott im Verborgenen.
-> Jüdische Ausleger sagen: Nicht nur der König konnte nicht schlafen, sondern „der König der Welt“, also Gott, „schläft und schlummert nicht“ (Psalm 121,4).
+> Jüdische Ausleger sagen: Nicht nur der König konnte nicht schlafen, sondern „der König der Welt“, also Gott, „schläft nicht und schlummert nicht“ (Psalm 121,4).
 > Mordechais gute Tat aus Kapitel 2 schien vergessen. Jetzt, genau im richtigen Moment, kommt sie ans Licht.
 
 ---
@@ -66,7 +66,7 @@ und rief vor ihm aus:
 > Das ist eine der großartigsten Szenen der Bibel, voller Ironie.
 > Haman kommt mitten in der Nacht oder früh am Morgen, um Mordechais Tod zu fordern. Der König fragt ihn, wie man jemanden ehren soll. Haman denkt, er selbst ist gemeint, und denkt sich die größte Ehre aus.
 > Dann der Schock: Er muss diese Ehre selbst seinem Erzfeind erweisen! Er muss Mordechai durch die Stadt führen und rufen: „So geschieht es dem Mann, den der König ehren möchte!“
-> Hier zeigt sich, was Jesus später sagt: „Wer sich selbst erhöht, wird erniedrigt werden; und wer sich selbst erniedrigt, wird erhöht werden“ (Lukas 14,11).
+> Hier zeigt sich, was Jesus später sagt: „Jeder, der sich selbst erhöht, wird erniedrigt werden. Und wer sich selbst erniedrigt, wird erhöht werden“ (Lukas 14,11).
 
 ---
 

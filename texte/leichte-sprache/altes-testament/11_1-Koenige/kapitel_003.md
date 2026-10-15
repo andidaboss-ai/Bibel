@@ -86,7 +86,7 @@ und machte ein Festmahl für alle seine Diener.
 
 > **Was bedeutet das?**
 > Gott freut sich über Salomos Bitte. Salomo hat nicht an sich selbst gedacht, sondern an das Volk und an die Gerechtigkeit.
-> Und Gott schenkt ihm mehr, als er erbeten hat: Weisheit, aber dazu auch Reichtum und Ehre. Jesus hat später etwas Ähnliches gesagt: „Sucht zuerst das Reich Gottes und seine Gerechtigkeit, dann wird euch das alles dazugegeben“ (Matthäus 6,33).
+> Und Gott schenkt ihm mehr, als er erbeten hat: Weisheit, aber dazu auch Reichtum und Ehre. Jesus hat später etwas Ähnliches gesagt: „Sucht aber zuerst das Reich Gottes und seine Gerechtigkeit, dann wird euch das alles dazugegeben werden“ (Matthäus 6,33).
 > Aber das lange Leben hat eine Bedingung: Wenn du auf meinen Wegen gehst. Gottes Geschenke verpflichten.
 > Nach dem Traum geht Salomo nach Jerusalem, vor die Lade. Er feiert mit allen seinen Dienern.
 

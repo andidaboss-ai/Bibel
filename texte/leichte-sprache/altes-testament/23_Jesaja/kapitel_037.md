@@ -1,11 +1,11 @@
 # Jesaja – Kapitel 37
-### Hiskias Gebet und die Rettung Jerusalems
+### Hiskijas Gebet und die Rettung Jerusalems
 
 ---
 
-## Hiskia schickt zu Jesaja (Vers 1–7)
+## Hiskija schickt zu Jesaja (Vers 1–7)
 
-[1] Als König Hiskia das hörte, zerriss er seine Kleider,
+[1] Als König Hiskija das hörte, zerriss er seine Kleider,
 hüllte sich in Sackleinen
 und ging in das Haus des HERRN.
 [2] Er sandte Eljakim, der über den Palast gesetzt war,
@@ -13,7 +13,7 @@ und Schebna, den Schreiber,
 und die Ältesten der Priester, in Sackleinen gehüllt,
 zum Propheten Jesaja, dem Sohn von Amoz.
 [3] Sie sagten zu ihm:
-„So spricht Hiskia:
+„So spricht Hiskija:
 ‚Heute ist ein Tag der Not, der Zurechtweisung und der Schmach,
 denn die Kinder sind bis an den Muttermund gekommen,
 aber es ist keine Kraft da, um sie zu gebären.
@@ -22,7 +22,7 @@ den sein Herr, der König von Assyrien, gesandt hat,
 um den lebendigen Gott zu verhöhnen,
 und straft die Worte, die der HERR, dein Gott, gehört hat.
 Darum erhebe dein Gebet für den Rest, der noch übrig ist.‘“
-[5] So kamen die Diener des Königs Hiskia zu Jesaja.
+[5] So kamen die Diener des Königs Hiskija zu Jesaja.
 [6] Jesaja sagte zu ihnen:
 „Sagt zu eurem Herrn:
 ‚So spricht der HERR:
@@ -34,7 +34,7 @@ und in sein eigenes Land zurückkehren.
 Ich werde ihn in seinem eigenen Land durch das Schwert fallen lassen.“‘“
 
 > **Was bedeutet das?**
-> Hiskia reagiert ganz anders als sein Vater Ahas (Kapitel 7). Statt auf Bündnisse zu setzen, geht er in den Tempel und bittet Jesaja um Gebet.
+> Hiskija reagiert ganz anders als sein Vater Ahas (Kapitel 7). Statt auf Bündnisse zu setzen, geht er in den Tempel und bittet Jesaja um Gebet.
 > Vers 3: Ein eindrückliches Bild: wie eine Geburt, bei der die Mutter keine Kraft mehr hat. Die Lage scheint ausweglos.
 > Vers 6: Gottes Antwort durch Jesaja: „Fürchte dich nicht!“
 
@@ -47,8 +47,8 @@ und fand den König von Assyrien im Kampf gegen Libna,
 denn er hatte gehört, dass er von Lachisch aufgebrochen war.
 [9] Er hörte die Nachricht über Tirhaka, den König von Kusch:
 „Er ist ausgezogen, um gegen dich zu kämpfen.“
-Als er das hörte, sandte er Boten zu Hiskia und sagte:
-[10] „So sollt ihr zu Hiskia, dem König von Juda, sagen:
+Als er das hörte, sandte er Boten zu Hiskija und sagte:
+[10] „So sollt ihr zu Hiskija, dem König von Juda, sagen:
 ‚Lass dich nicht von deinem Gott täuschen, auf den du vertraust,
 wenn er sagt: „Jerusalem wird nicht in die Hand des Königs von Assyrien gegeben werden.“
 [11] Siehe, du hast gehört, was die Könige von Assyrien
@@ -63,16 +63,16 @@ und der König der Stadt Sefarwajim, von Hena und Iwa?‘“
 
 > **Was bedeutet das?**
 > Sanherib muss gegen ein Heer aus Kusch und Ägypten kämpfen, das unter König Tirhaka anrückt. Die englische Vorlage schreibt „Äthiopien“. Darum schickt er einen Drohbrief nach Jerusalem: Glaub ja nicht, dass dein Gott dich retten kann!
-> Er zählt die vielen Städte und Könige auf, die Assyrien schon besiegt hat. Er will Hiskia einschüchtern.
+> Er zählt die vielen Städte und Könige auf, die Assyrien schon besiegt hat. Er will Hiskija einschüchtern.
 
 ---
 
-## Hiskias Gebet (Vers 14–20)
+## Hiskijas Gebet (Vers 14–20)
 
-[14] Hiskia nahm den Brief aus der Hand der Boten und las ihn.
-Dann ging Hiskia hinauf in das Haus des HERRN
+[14] Hiskija nahm den Brief aus der Hand der Boten und las ihn.
+Dann ging Hiskija hinauf in das Haus des HERRN
 und breitete ihn vor dem HERRN aus.
-[15] Hiskia betete zum HERRN und sagte:
+[15] Hiskija betete zum HERRN und sagte:
 [16] „HERR der Heere, Gott Israels,
 der du über den Keruben thronst,
 du allein bist Gott über alle Königreiche der Erde.
@@ -92,15 +92,15 @@ damit alle Königreiche der Erde erkennen,
 dass du der HERR bist, du allein.“
 
 > **Was bedeutet das?**
-> Vers 14: Ein bewegendes Bild: Hiskia nimmt den Drohbrief und legt ihn im Tempel vor Gott hin. Er sagt damit: Gott, sieh dir das an! Das ist ein Vorbild für das Gebet: Man darf seine Sorgen, sogar einen Brief, ganz konkret vor Gott „ausbreiten“.
-> Vers 16–20: Hiskia gibt zu, dass Assyrien viele Länder besiegt hat. Aber die Götter dieser Länder waren nur Holz und Stein. Der Gott Israels ist der lebendige Gott, der Schöpfer.
-> Vers 20: Hiskia bittet nicht nur um seine eigene Rettung, sondern darum, dass alle Völker Gott erkennen.
+> Vers 14: Ein bewegendes Bild: Hiskija nimmt den Drohbrief und legt ihn im Tempel vor Gott hin. Er sagt damit: Gott, sieh dir das an! Das ist ein Vorbild für das Gebet: Man darf seine Sorgen, sogar einen Brief, ganz konkret vor Gott „ausbreiten“.
+> Vers 16–20: Hiskija gibt zu, dass Assyrien viele Länder besiegt hat. Aber die Götter dieser Länder waren nur Holz und Stein. Der Gott Israels ist der lebendige Gott, der Schöpfer.
+> Vers 20: Hiskija bittet nicht nur um seine eigene Rettung, sondern darum, dass alle Völker Gott erkennen.
 
 ---
 
 ## Gottes Antwort auf Sanheribs Hochmut (Vers 21–35)
 
-[21] Da sandte Jesaja, der Sohn von Amoz, zu Hiskia und ließ ihm sagen:
+[21] Da sandte Jesaja, der Sohn von Amoz, zu Hiskija und ließ ihm sagen:
 „So spricht der HERR, der Gott Israels:
 ‚Weil du zu mir gebetet hast wegen Sanherib, des Königs von Assyrien,
 [22] ist dies das Wort, das der HERR über ihn gesprochen hat:
@@ -165,7 +165,7 @@ um meinetwillen und um meines Knechtes David willen.‘“
 > Vers 24–25: Sanherib prahlt: Ich habe die höchsten Berge erobert, ich trockne sogar die Flüsse Ägyptens aus!
 > Vers 26–27: Gottes Antwort: Das hast du alles nur geschafft, weil ich es zugelassen habe. Du bist nur ein Werkzeug.
 > Vers 29: Ein demütigendes Bild: Gott legt Sanherib einen Haken in die Nase wie einem Tier und führt ihn zurück. Die Assyrer selbst führten Gefangene oft so ab.
-> Vers 30–32: Ein Zeichen für Hiskia: Zwei Jahre lang essen sie, was von allein wächst, im dritten Jahr wird wieder normal gesät. Der Rest Judas wird wieder Wurzeln schlagen und Früchte tragen.
+> Vers 30–32: Ein Zeichen für Hiskija: Zwei Jahre lang essen sie, was von allein wächst, im dritten Jahr wird wieder normal gesät. Der Rest Judas wird wieder Wurzeln schlagen und Früchte tragen.
 > Vers 33–35: Sanherib wird keinen einzigen Pfeil auf Jerusalem schießen.
 
 ---
@@ -185,7 +185,7 @@ Und sein Sohn Asarhaddon wurde an seiner Stelle König.
 
 > **Was bedeutet das?**
 > Vers 36: In einer einzigen Nacht stirbt ein großer Teil des assyrischen Heeres. Die Bibel sagt: Der Engel des HERRN hat sie geschlagen. Manche denken an eine Seuche im Lager. Der griechische Geschichtsschreiber Herodot erzählt von einem plötzlichen Unglück im assyrischen Heer in Ägypten. Die Bibel sieht darin Gottes Eingreifen.
-> Die assyrischen Inschriften berichten, dass Sanherib Hiskia „wie einen Vogel im Käfig“ in Jerusalem eingeschlossen habe. Von einer Eroberung Jerusalems berichten sie nicht. Jerusalem wurde nicht eingenommen.
+> Die assyrischen Inschriften berichten, dass Sanherib Hiskija „wie einen Vogel im Käfig“ in Jerusalem eingeschlossen habe. Von einer Eroberung Jerusalems berichten sie nicht. Jerusalem wurde nicht eingenommen.
 > Vers 38: Etwa 20 Jahre später wurde Sanherib von zwei seiner Söhne ermordet, ausgerechnet beim Gebet zu seinem Gott. Das berichten auch assyrische Quellen. Jesajas Ankündigung (Vers 7) hat sich erfüllt.
 > Die Geschichte zeigt: Gott hält, was er verspricht. Wer ihm vertraut, wird nicht enttäuscht.
 

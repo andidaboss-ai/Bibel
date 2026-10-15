@@ -85,7 +85,7 @@ und ging mit den Anführern von Moab.
 
 > **Was bedeutet das?**
 > Bileams Worte klingen fromm: „Auch für ein Haus voll Gold würde ich nicht gegen Gottes Befehl handeln.“ Aber warum fragt er Gott dann noch einmal, obwohl Gott schon Nein gesagt hat?
-> Vielleicht hofft Bileam, dass Gott seine Meinung ändert und er doch an das viele Geld kommt. Im Neuen Testament wird Bileam als Beispiel für jemanden genannt, der „den Lohn der Ungerechtigkeit liebte“ (2. Petrus 2,15).
+> Vielleicht hofft Bileam, dass Gott seine Meinung ändert und er doch an das viele Geld kommt. Im Neuen Testament wird Bileam als Beispiel genannt. Dort heißt es über ihn: „Er liebte den Lohn für das Unrecht“ (2. Petrus 2,15).
 > Gott erlaubt ihm zu gehen, aber nur unter einer Bedingung: Er darf nur sagen, was Gott ihm sagt.
 
 ---

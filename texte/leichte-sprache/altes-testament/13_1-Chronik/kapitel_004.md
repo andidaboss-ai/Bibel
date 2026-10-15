@@ -101,7 +101,7 @@ Sie wohnten dort beim König für seine Arbeit.
 > Otniël war der erste Richter Israels (Richter 3,9–11). Kaleb, der Sohn Jefunnes, war einer der zwei treuen Kundschafter (4. Mose 14,6–9).
 > „Ge-Haraschim“ heißt „Tal der Handwerker“. Die Chronik würdigt auch Handwerker, Töpfer und Leinenweber. Jede Arbeit hat ihren Wert.
 > Bemerkenswert in Vers 18: Mered heiratete Bitja, eine Tochter des Pharao. Eine ägyptische Prinzessin wurde Teil des Stammes Juda. Ihr Name „Bitja“ bedeutet „Tochter des HERRN“. Die jüdische Überlieferung verbindet sie mit der Tochter des Pharao, die Mose aus dem Nil rettete.
-> Vers 17–18 sind im Hebräischen etwas durcheinander. Die griechische Übersetzung stellt den Schluss von Vers 18 vor „Und sie gebar Mirjam“ in Vers 17.
+> Vers 17–18 sind im Hebräischen etwas durcheinander. Die griechische Übersetzung stellt den Schluss von Vers 18 vor die Worte „Und die Frau Mereds gebar Mirjam“ in Vers 17.
 > „Diese Berichte sind alt“: Der Schreiber sagt ehrlich, dass er aus alten Quellen schöpft.
 > „Er“ ist hier ein Enkel Judas, benannt nach Judas verstorbenem ältesten Sohn Er.
 

@@ -57,7 +57,7 @@ und etwa 440 000 Liter Öl.“
 > **Was bedeutet das?**
 > Huram ist derselbe wie Hiram in den Königsbüchern. Er war König der Phönizier in Tyrus.
 > Salomo erklärt einem ausländischen König, wozu der Tempel dient: für Gebet, Weihrauch, Opfer und Feste.
-> Vers 6 ist bemerkenswert: Salomo weiß, dass Gott viel zu groß ist für ein Haus. „Der Himmel der Himmel kann ihn nicht fassen.“ Der Tempel ist nicht Gottes Wohnung im engen Sinn, sondern ein Ort, an dem die Menschen Gott begegnen und ihn ehren können.
+> Vers 6 ist bemerkenswert: Salomo weiß, dass Gott viel zu groß ist für ein Haus. „Der Himmel und der Himmel der Himmel können ihn nicht fassen.“ Der Tempel ist nicht Gottes Wohnung im engen Sinn, sondern ein Ort, an dem die Menschen Gott begegnen und ihn ehren können.
 > Purpur und Karmesin waren teure Farben für Stoffe. Die Phönizier waren berühmt für ihren Purpur.
 > „Algummimholz“ war ein kostbares Holz, vielleicht rotes Sandelholz.
 > In der Bibel steht „20 000 Kor Weizen“ und „20 000 Bat“ Gerste, Wein und Öl. Ein Kor sind etwa 220 Liter, ein Bat etwa 22 Liter. In 1. Könige 5,25 werden andere Mengen genannt.
@@ -109,4 +109,4 @@ und 3600 als Aufseher, die das Volk zur Arbeit antrieben.
 
 > **Was bedeutet das?**
 > Die Fremden, also Menschen aus den früheren Völkern Kanaans, mussten beim Bau Zwangsarbeit leisten. Für sie war das ein hartes Schicksal. Die Bibel erzählt es ehrlich.
-> Gottes Gesetz verlangte eigentlich, Fremde gut zu behandeln: „Du sollst den Fremden lieben wie dich selbst“ (3. Mose 19,34). Der prächtige Tempel wurde auch auf der schweren Arbeit dieser Menschen gebaut. Das gehört zur Wahrheit dazu.
+> Gottes Gesetz verlangte eigentlich, Fremde gut zu behandeln. Über den Fremden heißt es: „Du sollst ihn lieben wie dich selbst“ (3. Mose 19,34). Der prächtige Tempel wurde auch auf der schweren Arbeit dieser Menschen gebaut. Das gehört zur Wahrheit dazu.

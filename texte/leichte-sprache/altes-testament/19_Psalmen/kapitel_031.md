@@ -64,7 +64,7 @@ Sie planen, mir das Leben zu nehmen.
 > **Was bedeutet das?**
 > Der Beter ist krank, ausgestoßen, vergessen. Die Leute gehen ihm auf der Straße aus dem Weg.
 > „Wie ein zerbrochenes Gefäß“: wertlos, weggeworfen. So fühlt er sich.
-> „Schrecken ringsum“: Dieser Ausdruck kommt oft beim Propheten Jeremia vor (z. B. Jeremia 20,10).
+> „Schrecken ringsum“: Dieser Ausdruck kommt oft beim Propheten Jeremia vor (z. B. Jeremia 20,10).
 > Viele Menschen kennen dieses Gefühl, vergessen und abgeschrieben zu sein. Gott sieht sie trotzdem.
 
 ---

@@ -31,7 +31,7 @@ denn das Volk hatte Lust zur Arbeit.
 > **Was bedeutet das?**
 > In deutschen Bibeln stehen die Verse 1–6 dieses Kapitels am Ende von Kapitel 3 (Vers 33–38). Darum sind die Verse in Kapitel 4 dort um sechs verschoben: Vers 7 hier ist dort Vers 1 und so weiter.
 > Die Gegner versuchen es zuerst mit Spott. Spott kann sehr entmutigend sein.
-> Nehemia antwortet nicht mit Gegen-Spott. Er betet. Sein Gebet ist hart: Er bittet Gott, die Spötter zu bestrafen. Solche Gebete gibt es auch in den Psalmen. Man darf Gott ehrlich sagen, wie wütend und verletzt man ist. Nehemia überlässt die Strafe Gott und rächt sich nicht selbst. Jesus geht noch weiter: „Betet für die, die euch verfolgen“ (Matthäus 5,44).
+> Nehemia antwortet nicht mit Gegen-Spott. Er betet. Sein Gebet ist hart: Er bittet Gott, die Spötter zu bestrafen. Solche Gebete gibt es auch in den Psalmen. Man darf Gott ehrlich sagen, wie wütend und verletzt man ist. Nehemia überlässt die Strafe Gott und rächt sich nicht selbst. Jesus geht noch weiter: „Betet für die, die euch misshandeln und verfolgen“ (Matthäus 5,44).
 > Vers 6: „Das Volk hatte Lust zur Arbeit“, wörtlich „ein Herz zur Arbeit“. Trotz des Spotts arbeiten sie mit ganzem Herzen weiter.
 
 ---
@@ -81,7 +81,7 @@ Denkt an den Herrn, der groß und furchtgebietend ist,
 und kämpft für eure Brüder, eure Söhne und eure Töchter,
 eure Frauen und eure Häuser!“
 [15] Als unsere Feinde hörten, dass wir es wussten
-und dass Gott ihren Plan zunichte gemacht hatte,
+und dass Gott ihren Plan zunichtegemacht hatte,
 kehrten wir alle zur Mauer zurück,
 jeder zu seiner Arbeit.
 

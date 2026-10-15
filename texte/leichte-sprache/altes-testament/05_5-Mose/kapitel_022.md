@@ -91,7 +91,7 @@ So sollst du das Böse aus deiner Mitte entfernen.
 > Die „Zeichen der Jungfräulichkeit“ waren damals ein Tuch mit Blut von der Hochzeitsnacht. Heute weiß man: Solche „Beweise“ sind medizinisch nicht zuverlässig. Viele Frauen bluten beim ersten Mal nicht.
 > Dieser Abschnitt schützt die Frau vor einem Mann, der sie loswerden will und darum Lügen über sie verbreitet. Er wird hart bestraft und darf sie nie mehr wegschicken. So hatte sie lebenslang Versorgung.
 > Aber die Verse 20–21 sind für uns erschreckend: Eine junge Frau soll getötet werden, weil sie vor der Ehe nicht mehr Jungfrau war. Das ist nach heutigem Verständnis ein schweres Unrecht. Die Bibel beschreibt hier ein altes Recht, das die Ehre der Familie sehr hoch stellte.
-> Leider gibt es bis heute an manchen Orten sogenannte „Ehrenmorde“. Das ist ein Verbrechen. Niemand darf sich dafür auf die Bibel berufen. Jesus hat eine Frau, die gesteinigt werden sollte, beschützt und gesagt: „Wer von euch ohne Sünde ist, werfe den ersten Stein“ (Johannes 8,7).
+> Leider gibt es bis heute an manchen Orten sogenannte „Ehrenmorde“. Das ist ein Verbrechen. Niemand darf sich dafür auf die Bibel berufen. Jesus hat eine Frau, die gesteinigt werden sollte, beschützt und gesagt: „Wer von euch ohne Sünde ist, der werfe als Erster einen Stein auf sie“ (Johannes 8,7).
 
 ---
 

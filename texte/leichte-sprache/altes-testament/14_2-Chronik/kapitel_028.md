@@ -155,7 +155,7 @@ Denn man brachte ihn nicht in die Gräber der Könige von Israel.
 Sein Sohn Hiskija wurde an seiner Stelle König.
 
 > **Was bedeutet das?**
-> Vers 22 ist erschütternd: „In der Zeit seiner Not wurde er noch untreuer.“ Not kann Menschen zu Gott führen, wie Manasse später (Kapitel 33). Aber sie kann Menschen auch noch weiter von Gott wegtreiben.
+> Vers 22 ist erschütternd: „In der Zeit seiner Not wurde er dem HERRN noch mehr untreu.“ Not kann Menschen zu Gott führen, wie Manasse später (Kapitel 33). Aber sie kann Menschen auch noch weiter von Gott wegtreiben.
 > Ahas denkt wie ein Geschäftsmann: Welcher Gott hilft am meisten? Den bete ich an. Aber Glaube ist kein Handel.
 > Am schlimmsten: Er schließt den Tempel. Die Lampen gehen aus, kein Gottesdienst findet mehr statt (Kapitel 29,7).
 > Ahas wird nicht in den Königsgräbern begraben. Und sein Sohn Hiskija wird genau das Gegenteil tun: Er öffnet den Tempel wieder.

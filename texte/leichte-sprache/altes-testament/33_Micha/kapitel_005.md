@@ -1,5 +1,5 @@
 # Micha – Kapitel 5
-### Der Herrscher aus Bethlehem
+### Der Herrscher aus Betlehem
 
 ---
 
@@ -15,9 +15,9 @@ Sie werden den Richter Israels mit dem Stab auf die Wange schlagen.
 
 ---
 
-## Aus Bethlehem kommt der Herrscher (Vers 2–6)
+## Aus Betlehem kommt der Herrscher (Vers 2–6)
 
-[2] Aber du, Bethlehem Efrata,
+[2] Aber du, Betlehem Efrata,
 die du klein bist unter den Sippen Judas,
 aus dir wird mir einer hervorkommen,
 der Herrscher in Israel sein soll.
@@ -44,9 +44,9 @@ wenn er in unser Land einfällt
 und wenn er in unser Gebiet eindringt.
 
 > **Was bedeutet das?**
-> Vers 2: Einer der bekanntesten Verse des Alten Testaments. Bethlehem war ein kleiner, unbedeutender Ort. Aber von dort stammte König David (1. Samuel 16). Und aus Bethlehem soll wieder ein Herrscher kommen, ein neuer David. Gott wählt das Kleine.
+> Vers 2: Einer der bekanntesten Verse des Alten Testaments. Betlehem war ein kleiner, unbedeutender Ort. Aber von dort stammte König David (1. Samuel 16). Und aus Betlehem soll wieder ein Herrscher kommen, ein neuer David. Gott wählt das Kleine.
 > „Sein Hervorgehen ist von alters her“: Seine Herkunft reicht weit zurück, bis zu David oder sogar in die Urzeit.
-> Im Matthäusevangelium zitieren die Schriftgelehrten diesen Vers, als die Weisen aus dem Osten nach dem neugeborenen König fragen (Matthäus 2,5–6). Christen sehen darin einen Hinweis auf Jesus, der in Bethlehem geboren wurde. Im Judentum wird der Vers auf den kommenden Messias aus dem Haus Davids bezogen.
+> Im Matthäusevangelium zitieren die Schriftgelehrten diesen Vers, als die Weisen aus dem Osten nach dem neugeborenen König fragen (Matthäus 2,5–6). Christen sehen darin einen Hinweis auf Jesus, der in Betlehem geboren wurde. Im Judentum wird der Vers auf den kommenden Messias aus dem Haus Davids bezogen.
 > Vers 3: Erst muss eine schwere Zeit vergehen, bis „die, die in Wehen liegt“, geboren hat. Vielleicht ist die Mutter des Herrschers gemeint, vielleicht das ganze Volk in seinen „Wehen“ (vgl. 4,9–10). Vgl. auch Jesaja 7,14.
 > Vers 4: Er wird ein Hirte sein, nicht ein Tyrann. Er herrscht in Gottes Kraft.
 > Vers 5: „Er wird unser Friede sein.“ Im Neuen Testament heißt es über Jesus: „Er ist unser Friede“ (Epheser 2,14).

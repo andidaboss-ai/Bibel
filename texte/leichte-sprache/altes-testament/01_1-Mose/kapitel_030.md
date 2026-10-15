@@ -185,7 +185,7 @@ Er gab sie seinen Söhnen.
 Jakob aber weidete den Rest von Labans Herde.
 
 [37] Da nahm sich Jakob frische Stäbe von Pappeln, Mandelbäumen und Platanen.
-Er schälte weiße Streifen hinein, so dass das Weiße an den Stäben zu sehen war.
+Er schälte weiße Streifen hinein, sodass das Weiße an den Stäben zu sehen war.
 [38] Die geschälten Stäbe legte er in die Tränkrinnen, wo die Tiere zum Trinken kamen,
 direkt vor die Augen der Tiere.
 Und die Tiere paarten sich, wenn sie zum Trinken kamen.

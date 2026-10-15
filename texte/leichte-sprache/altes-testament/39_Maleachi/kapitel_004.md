@@ -31,12 +31,12 @@ spricht der HERR der Heere.
 
 ---
 
-## Gedenkt an Mose, und Elia wird kommen (Vers 4–6)
+## Gedenkt an Mose, und Elija wird kommen (Vers 4–6)
 
 [4] „Gedenkt an das Gesetz meines Knechtes Mose,
 das ich ihm am Horeb für ganz Israel geboten habe,
 Satzungen und Rechte.
-[5] Siehe, ich werde euch den Propheten Elia senden,
+[5] Siehe, ich werde euch den Propheten Elija senden,
 bevor der große und schreckliche Tag des HERRN kommt.
 [6] Er wird die Herzen der Väter den Kindern zuwenden
 und die Herzen der Kinder ihren Vätern,
@@ -46,10 +46,10 @@ und das Land mit dem Bann schlage.“
 > **Was bedeutet das?**
 > Die letzten Worte des Alten Testaments (in christlicher Reihenfolge):
 > Vers 4: Erinnert euch an das Gesetz des Mose! Der Horeb ist ein anderer Name für den Berg Sinai, wo Gott Mose die Gebote gab.
-> Vers 5: Gott wird den Propheten Elia senden. Elia war nicht gestorben, sondern in einem feurigen Wagen in den Himmel aufgenommen worden (2. Könige 2,11). Darum erwartete man, dass er wiederkommt.
-> Im Judentum wird bis heute beim Pessachmahl ein Becher für Elia bereitgestellt und die Tür für ihn geöffnet, in der Hoffnung, dass er kommt und den Messias ankündigt.
-> Im Neuen Testament sagt der Engel über Johannes den Täufer, er werde „im Geist und in der Kraft des Elia“ vorausgehen, „um die Herzen der Väter den Kindern zuzuwenden“ (Lukas 1,17). Jesus selbst sagt über Johannes: „Er ist Elia, der kommen soll“ (Matthäus 11,14; 17,10–13).
-> Vers 6: Elias Aufgabe: Versöhnung zwischen den Generationen. Eltern und Kinder sollen wieder zueinanderfinden. Wenn Familien und Generationen versöhnt sind, kann Gottes Segen kommen statt des Fluches.
+> Vers 5: Gott wird den Propheten Elija senden. Elija war nicht gestorben, sondern in einem feurigen Wagen in den Himmel aufgenommen worden (2. Könige 2,11). Darum erwartete man, dass er wiederkommt.
+> Im Judentum wird bis heute beim Pessachmahl ein Becher für Elija bereitgestellt und die Tür für ihn geöffnet, in der Hoffnung, dass er kommt und den Messias ankündigt.
+> Im Neuen Testament sagt der Engel über Johannes den Täufer, er werde „im Geist und in der Kraft des Elija“ vorausgehen, „um die Herzen der Väter den Kindern zuzuwenden“ (Lukas 1,17). Jesus selbst sagt über Johannes: „Er ist Elija, der kommen soll“ (Matthäus 11,14; 17,10–13).
+> Vers 6: Elijas Aufgabe: Versöhnung zwischen den Generationen. Eltern und Kinder sollen wieder zueinanderfinden. Wenn Familien und Generationen versöhnt sind, kann Gottes Segen kommen statt des Fluches.
 > Das Alte Testament endet also mit einer Erwartung: Gott wird kommen. Es endet mit einer offenen Tür, und das Neue Testament beginnt mit Johannes dem Täufer, der genau durch diese Tür tritt.
 
 ---
@@ -66,7 +66,7 @@ und das Land mit dem Bann schlage.“
 > **Kehrt um zu mir:** „Kehrt um zu mir, dann werde ich mich zu euch umkehren“ (3,7).
 > **Ein Buch der Erinnerung:** Gott vergisst niemanden, der ihm treu ist (3,16).
 > **Die Sonne der Gerechtigkeit:** Für die, die Gott ehren, geht eine Sonne auf, mit Heilung unter ihren Flügeln (4,2).
-> **Elia wird kommen:** Er wird die Herzen der Eltern und Kinder einander zuwenden (4,5–6).
+> **Elija wird kommen:** Er wird die Herzen der Eltern und Kinder einander zuwenden (4,5–6).
 > **Für heute:** Bekommt Gott bei mir das Beste oder die Reste? Bin ich treu zu Gott und zu den Menschen, mit denen ich verbunden bin?
 
 ---
@@ -78,9 +78,9 @@ und das Land mit dem Bann schlage.“
 > **Abraham und die Väter:** Gott ruft Abraham und verspricht: „Durch dich sollen alle Familien der Erde gesegnet werden“ (1. Mose 12,3). Er führt Isaak, Jakob und Josef.
 > **Befreiung:** Gott befreit sein Volk aus der Sklaverei in Ägypten und gibt am Sinai die Zehn Gebote: Regeln für ein Leben in Freiheit mit Gott und miteinander.
 > **Im verheißenen Land:** Unter Josua, den Richtern und den Königen Saul, David und Salomo lebt Israel im Land. Es gibt gute und schlechte Zeiten, Treue und Untreue.
-> **Die Propheten:** Immer wieder schickt Gott Propheten, die zur Umkehr rufen, für die Armen eintreten und Hoffnung schenken: Elia, Jesaja, Jeremia, Hesekiel, Amos, Hosea, Micha und viele andere.
+> **Die Propheten:** Immer wieder schickt Gott Propheten, die zur Umkehr rufen, für die Armen eintreten und Hoffnung schenken: Elija, Jesaja, Jeremia, Hesekiel, Amos, Hosea, Micha und viele andere.
 > **Exil und Rückkehr:** Weil das Volk nicht hört, werden Israel und Juda zerstört und ins Exil geführt. Aber Gott gibt sein Volk nicht auf. Es darf heimkehren und den Tempel wieder aufbauen.
 > **Gebet und Weisheit:** Die Psalmen zeigen, wie Menschen mit Gott reden, in Freude, Klage und Zweifel. Die Sprüche, Hiob, Prediger und das Hohelied fragen nach dem Sinn des Lebens, nach Leid und Liebe.
 > **Die große Hoffnung:** Die Propheten kündigen einen neuen Bund an, einen König aus dem Haus Davids, einen Knecht Gottes, der für andere leidet, und einen Tag, an dem Gott König über die ganze Erde sein wird und alle Völker in Frieden leben.
 > **Für Juden und Christen:** Diese Schriften sind die Heilige Schrift des jüdischen Volkes, die „Tanach“. Für Christen sind sie das Alte Testament. Jesus selbst kannte, betete und lehrte diese Schriften. Wer das Neue Testament verstehen will, muss das Alte kennen.
-> **Wie geht es weiter?** Als Nächstes beginnt das Neue Testament mit dem Evangelium nach Matthäus. Es erzählt von Jesus aus Nazaret, von seiner Geburt in Bethlehem, seinem Leben, seinem Tod und seiner Auferstehung. Und gleich am Anfang tritt Johannes der Täufer auf, der Bote, den Maleachi angekündigt hat.
+> **Wie geht es weiter?** Als Nächstes beginnt das Neue Testament mit dem Evangelium nach Matthäus. Es erzählt von Jesus aus Nazaret, von seiner Geburt in Betlehem, seinem Leben, seinem Tod und seiner Auferstehung. Und gleich am Anfang tritt Johannes der Täufer auf, der Bote, den Maleachi angekündigt hat.

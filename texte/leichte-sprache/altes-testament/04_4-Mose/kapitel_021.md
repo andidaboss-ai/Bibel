@@ -53,8 +53,8 @@ dann blieb er am Leben.
 > Diesmal geschieht etwas Neues: Das Volk sagt selbst: „Wir haben gesündigt.“ Es bittet Mose um sein Gebet.
 > Gott nimmt die Schlangen nicht einfach weg. Aber er gibt ein Mittel zur Rettung. Wer gebissen ist, soll auf die Schlange aus Bronze schauen. Das war kein Zauber. Wer aufschaute, zeigte damit sein Vertrauen auf Gott.
 > Die Schlange an einem Stab ist bis heute ein Zeichen für Medizin und Apotheken. Ob dieses Zeichen von hier kommt oder aus der griechischen Sage vom Asklepios-Stab, ist umstritten.
-> Jesus selbst hat diese Geschichte auf sich bezogen: „Wie Mose in der Wüste die Schlange erhöht hat, so muss der Menschensohn erhöht werden, damit jeder, der an ihn glaubt, ewiges Leben hat“ (Johannes 3,14–15). So wie die Gebissenen auf die Schlange schauten, sollen Menschen auf Jesus am Kreuz schauen.
-> Später wurde diese Bronzeschlange selbst zu einem Götzen. König Hiskia zerschlug sie deshalb (2. Könige 18,4).
+> Jesus selbst hat diese Geschichte auf sich bezogen: „Wie Mose in der Wüste die Schlange erhöht hat, so muss der Menschensohn erhöht werden, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat“ (Johannes 3,14–15). So wie die Gebissenen auf die Schlange schauten, sollen Menschen auf Jesus am Kreuz schauen.
+> Später wurde diese Bronzeschlange selbst zu einem Götzen. König Hiskija zerschlug sie deshalb (2. Könige 18,4).
 
 ---
 

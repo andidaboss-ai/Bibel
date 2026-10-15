@@ -51,8 +51,8 @@ Du sollst deine Hand weit öffnen für deinen Bruder, für den Bedürftigen und 
 
 > **Was bedeutet das?**
 > Gott kennt das menschliche Herz. Jemand könnte denken: „Bald ist das Erlassjahr. Wenn ich jetzt etwas leihe, bekomme ich es nie zurück.“ Mose sagt: Denk nicht so! Gib trotzdem, und zwar gern.
-> Es geht nicht nur ums Geben, sondern um die Haltung: Man soll nicht verdrossen oder geizig geben, sondern mit offenem Herzen. Paulus sagt später: „Gott liebt einen fröhlichen Geber“ (2. Korinther 9,7).
-> Vers 4 und Vers 11 scheinen sich zu widersprechen: „Es wird keine Armen geben“ und „Arme wird es immer geben“. Aber sie gehören zusammen: Gottes Ziel ist, dass es keine Armut gibt. Weil Menschen aber nicht immer nach Gottes Willen leben, wird es Arme geben. Darum sollen wir helfen. Jesus zitiert Vers 11 (Markus 14,7).
+> Es geht nicht nur ums Geben, sondern um die Haltung: Man soll nicht verdrossen oder geizig geben, sondern mit offenem Herzen. Paulus sagt später: „Gott liebt jemanden, der mit Freude gibt“ (2. Korinther 9,7).
+> Vers 4 und Vers 11 scheinen sich zu widersprechen: „Es wird bei dir keinen Armen geben“ und „Arme wird es im Land immer geben“. Aber sie gehören zusammen: Gottes Ziel ist, dass es keine Armut gibt. Weil Menschen aber nicht immer nach Gottes Willen leben, wird es Arme geben. Darum sollen wir helfen. Jesus zitiert Vers 11 (Markus 14,7).
 
 ---
 

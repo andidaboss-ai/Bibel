@@ -60,10 +60,10 @@ Denn das Leben jedes Lebewesens ist sein Blut.
 Jeder, der es isst, soll ausgeschlossen werden.“
 
 > **Was bedeutet das?**
-> Vers 11 ist einer der wichtigsten Verse über die Opfer: „Das Leben ist im Blut.“ Das Blut steht für das Leben. Und das Leben gehört Gott, nicht dem Menschen.
+> Vers 11 ist einer der wichtigsten Verse über die Opfer: „Das Leben des Körpers ist im Blut.“ Das Blut steht für das Leben. Und das Leben gehört Gott, nicht dem Menschen.
 > Darum ist das Blut so wichtig bei den Opfern: Ein Leben wird für ein anderes Leben gegeben. So entsteht Versöhnung.
 > Auch wer ein Tier jagt, soll das Blut ehren. Er soll es mit Erde bedecken, fast wie bei einer Beerdigung. Das zeigt Respekt vor dem Leben des Tieres.
-> Christen sehen hier einen Hinweis auf Jesus. Im Neuen Testament heißt es: „Ohne Blutvergießen gibt es keine Vergebung“ (Hebräer 9,22). Und beim Abendmahl sagt Jesus über den Wein: „Das ist mein Blut des Bundes, das für viele vergossen wird zur Vergebung der Sünden“ (Matthäus 26,28).
+> Christen sehen hier einen Hinweis auf Jesus. Im Neuen Testament heißt es: „Ohne dass Blut vergossen wird, gibt es keine Vergebung“ (Hebräer 9,22). Und beim Abendmahl sagt Jesus über den Wein: „Das ist mein Blut des neuen Bundes, das für viele vergossen wird zur Vergebung der Sünden“ (Matthäus 26,28).
 
 ---
 

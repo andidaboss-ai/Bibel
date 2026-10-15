@@ -15,7 +15,7 @@ Und mit ihnen waren die Propheten Gottes und halfen ihnen.
 
 > **Was bedeutet das?**
 > 16 Jahre lang hatte das Volk nicht mehr am Tempel gebaut. Sie hatten sich eingerichtet und ihre eigenen Häuser gebaut. Da schickt Gott zwei Propheten. Ihre Worte stehen in den Büchern Haggai und Sacharja.
-> Haggai sagt: „Ist es Zeit für euch, in getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (Haggai 1,4). Und Sacharja sagt: „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist, spricht der HERR“ (Sacharja 4,6).
+> Haggai sagt: „Ist es denn Zeit für euch selbst, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (Haggai 1,4). Und Sacharja sagt: „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist, spricht der HERR“ (Sacharja 4,6).
 > Die Propheten predigen nicht nur, sie helfen auch mit. Gottes Wort und praktische Hilfe gehören zusammen.
 > Im Aramäischen steht wörtlich: „im Namen des Gottes Israels, der über ihnen war“. Viele verstehen es so: Gott wachte über sie.
 

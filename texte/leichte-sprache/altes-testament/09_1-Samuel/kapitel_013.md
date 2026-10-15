@@ -32,7 +32,7 @@ Saul aber war noch in Gilgal,
 und das ganze Volk folgte ihm zitternd.
 
 > **Was bedeutet das?**
-> Vers 1 ist im hebräischen Text beschädigt. Dort steht wörtlich: „Saul war ein Jahr alt, als er König wurde, und er regierte zwei Jahre über Israel.“ Da fehlen offensichtlich Zahlen. Die englische Vorlage hat die Zahlen 30 und 42 eingesetzt, wie manche anderen Übersetzungen auch. Im Neuen Testament steht, dass Saul 40 Jahre regierte (Apostelgeschichte 13,21). Wie alt er wirklich war und wie lange er genau regierte, weiß man nicht sicher.
+> Vers 1 ist im hebräischen Text beschädigt. Nach dem hebräischen Text war Saul ein Jahr alt, als er König wurde. Und er regierte zwei Jahre. Da fehlen offensichtlich Zahlen. Die englische Vorlage hat die Zahlen 30 und 42 eingesetzt, wie manche anderen Übersetzungen auch. Im Neuen Testament steht, dass Saul 40 Jahre regierte (Apostelgeschichte 13,21). Wie alt er wirklich war und wie lange er genau regierte, weiß man nicht sicher.
 > Jonatan ist Sauls Sohn. Hier wird er zum ersten Mal genannt. Er ist mutig und greift einen Posten der Philister an. Aber Saul lässt verkünden: „Saul hat geschlagen.“ Er nimmt die Ehre für sich.
 > Jetzt kommen die Philister mit einem riesigen Heer. Die Zahl 30 000 Wagen ist sehr hoch. Einige alte Übersetzungen haben 3000. Das passt besser zu den 6000 Reitern.
 > Die Israeliten bekommen Panik. Sie verstecken sich überall oder fliehen über den Jordan.

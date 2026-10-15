@@ -106,7 +106,7 @@ dann soll der Herr nicht bestraft werden.
 Denn der Sklave ist sein Eigentum.
 
 [22] Wenn Männer miteinander raufen und dabei eine schwangere Frau stoßen,
-so dass sie ihr Kind zu früh bekommt,
+sodass sie ihr Kind zu früh bekommt,
 aber sonst kein Schaden entsteht,
 dann muss der Täter eine Geldstrafe zahlen.
 Der Ehemann der Frau legt fest, wie viel, und die Richter entscheiden darüber.
@@ -125,7 +125,7 @@ dann muss er ihn wegen des Zahnes freilassen.
 > **Was bedeutet das?**
 > Wer einen anderen verletzt, muss für den Schaden aufkommen: für die verlorene Arbeitszeit und für die Arztkosten. Das gibt es in ähnlicher Form bis heute.
 > Auch Sklaven sind geschützt. Wer seinen Sklaven totschlägt, wird bestraft. Das war in den Nachbarvölkern nicht selbstverständlich. Dass der Herr nicht bestraft wird, wenn der Sklave später stirbt, ist für uns heute schwer zu verstehen. Damals ging man davon aus, dass er ihn dann nicht absichtlich töten wollte.
-> Vers 22 kann man unterschiedlich verstehen. Manche Bibeln übersetzen: „so dass sie eine Fehlgeburt hat“. Andere übersetzen wie hier: „so dass ihr Kind zu früh zur Welt kommt“. Davon hängt ab, ob mit dem „Schaden“ in Vers 23 auch das Kind gemeint ist.
+> Vers 22 kann man unterschiedlich verstehen. Manche Bibeln verstehen es so: Die Frau verliert ihr Kind. Andere übersetzen wie hier: „sodass sie ihr Kind zu früh bekommt“. Davon hängt ab, ob mit dem „Schaden“ in Vers 23 auch das Kind gemeint ist.
 > „Auge für Auge, Zahn für Zahn“ – dieser berühmte Satz wird oft missverstanden. Er bedeutet nicht: Räche dich! Er bedeutet im Gegenteil: Die Strafe darf **nicht größer** sein als der Schaden. Er setzt der Rache eine Grenze. Schon früh haben jüdische Richter ihn so verstanden: Der Täter muss eine angemessene Entschädigung in Geld bezahlen.
 > Jesus geht noch weiter: Er lehrt, auf Vergeltung ganz zu verzichten (Matthäus 5,38–39).
 > Wer einen Sklaven so schwer verletzt, dass er ein Auge oder einen Zahn verliert, muss ihn freilassen. Ein starker Schutz gegen Gewalt.
@@ -134,7 +134,7 @@ dann muss er ihn wegen des Zahnes freilassen.
 
 ## Wenn ein Rind einen Menschen tötet (Vers 28–32)
 
-[28] Wenn ein Rind einen Mann oder eine Frau mit den Hörnern stößt, so dass sie sterben,
+[28] Wenn ein Rind einen Mann oder eine Frau mit den Hörnern stößt, sodass sie sterben,
 dann muss das Rind gesteinigt werden.
 Sein Fleisch darf man nicht essen.
 Aber der Besitzer des Rindes ist nicht schuldig.
@@ -168,7 +168,7 @@ und ein Rind oder ein Esel fällt hinein,
 Er muss dem Besitzer des Tieres Geld geben.
 Das tote Tier aber gehört ihm.
 
-[35] Wenn das Rind von einem Mann das Rind von einem anderen verletzt, so dass es stirbt,
+[35] Wenn das Rind von einem Mann das Rind von einem anderen verletzt, sodass es stirbt,
 dann sollen sie das lebende Rind verkaufen und den Erlös teilen.
 Auch das tote Tier sollen sie teilen.
 [36] Wenn man aber wusste, dass das Rind schon früher gestoßen hat,

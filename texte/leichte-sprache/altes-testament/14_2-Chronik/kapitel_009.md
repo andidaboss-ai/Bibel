@@ -52,7 +52,7 @@ Dann kehrte sie um und ging in ihr Land, sie und ihre Diener.
 > **Was bedeutet das?**
 > Die Geschichte steht fast gleich in 1. Könige 10.
 > Saba lag wahrscheinlich im Süden Arabiens, im heutigen Jemen.
-> Die Königin lobt den Gott Israels. Ein wichtiger Unterschied zu 1. Könige 10,9: Hier sagt sie, Gott hat Salomo „auf seinen Thron“ gesetzt, „damit du König für den HERRN bist“. Für die Chronik ist Gott der eigentliche König.
+> Die Königin lobt den Gott Israels. Ein wichtiger Unterschied zu 1. Könige 10,9: Hier sagt sie zu Salomo: Gott hat „dich auf seinen Thron gesetzt …, damit du König für den HERRN, deinen Gott, bist“ (2. Chronik 9,8). Für die Chronik ist Gott der eigentliche König.
 > Sie erkennt den Sinn von Macht: „damit du Recht und Gerechtigkeit übst“.
 > Jesus erinnerte an die „Königin des Südens“, die vom Ende der Erde kam, um Salomos Weisheit zu hören (Matthäus 12,42).
 > In der Bibel steht „120 Talente Gold“. Ein Talent sind etwa 34 Kilogramm.

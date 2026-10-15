@@ -109,7 +109,7 @@ konnte der Stumme reden.
 Die Menschen staunten.
 [15] Aber einige von ihnen sagten:
 „Er treibt die Dämonen aus
-mit Hilfe von Beelzebul,
+mithilfe von Beelzebul,
 dem Anführer der Dämonen.“
 [16] Andere wollten ihn auf die Probe stellen.
 Sie verlangten von ihm ein Zeichen vom Himmel.
@@ -122,8 +122,8 @@ fällt zusammen.
 [18] Wenn auch der Satan in sich gespalten ist,
 wie kann dann sein Reich bestehen?
 Denn ihr sagt,
-dass ich die Dämonen mit Hilfe von Beelzebul austreibe.
-[19] Wenn ich aber die Dämonen mit Hilfe von Beelzebul austreibe,
+dass ich die Dämonen mithilfe von Beelzebul austreibe.
+[19] Wenn ich aber die Dämonen mithilfe von Beelzebul austreibe,
 mit wessen Hilfe treiben eure Söhne sie dann aus?
 Darum werden sie eure Richter sein.
 [20] Wenn ich aber mit dem Finger Gottes die Dämonen austreibe,

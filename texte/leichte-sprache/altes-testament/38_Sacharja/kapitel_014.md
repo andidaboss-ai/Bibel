@@ -36,7 +36,7 @@ und alle Heiligen mit dir.
 > Vers 2: Zuerst geschieht Schreckliches: Jerusalem wird erobert, geplündert, und Frauen werden vergewaltigt. Die Bibel verschweigt nicht, was im Krieg geschieht, besonders was Frauen angetan wird. Das ist schweres Unrecht, und die Schuld liegt allein bei den Tätern. Wer sexuelle Gewalt erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530.
 > Vers 3: Aber dann greift Gott selbst ein und kämpft gegen die Angreifer.
 > Vers 4: Gott steht auf dem Ölberg, östlich von Jerusalem. Der Berg spaltet sich, und ein großes Tal entsteht, ein Fluchtweg für die Bewohner.
-> Der Ölberg spielt auch im Neuen Testament eine wichtige Rolle: Dort betete Jesus in der Nacht vor seinem Tod (im Garten Gethsemane am Fuß des Berges), und von dort fuhr er in den Himmel auf (Apostelgeschichte 1,9–12). Die Engel sagen dort: „Dieser Jesus … wird auf dieselbe Weise wiederkommen.“
+> Der Ölberg spielt auch im Neuen Testament eine wichtige Rolle: Dort betete Jesus in der Nacht vor seinem Tod (im Garten Getsemani am Fuß des Berges), und von dort fuhr er in den Himmel auf (Apostelgeschichte 1,9–12). Die Engel sagen dort: „Dieser Jesus … wird auf dieselbe Weise wiederkommen.“
 > Vers 5: Das Erdbeben zur Zeit König Usijas war so stark, dass man sich noch Jahrhunderte später daran erinnerte (vgl. Amos 1,1). Wo Azel lag, wissen wir nicht.
 > „Alle Heiligen“ sind wahrscheinlich die Engel, die mit Gott kommen.
 
@@ -157,4 +157,4 @@ An jenem Tag wird kein Kanaaniter mehr im Haus des HERRN der Heere sein.
 > **Gott ist König über alle:** „Der HERR wird König sein über die ganze Erde. An jenem Tag wird der HERR einer sein und sein Name einer“ (14,9).
 > **Sacharja und Jesus:** Kein Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja.
 > **Für heute:** Gott fängt mit kleinen Anfängen an, wirkt durch seinen Geist und hat ein großes Ziel: dass alle Menschen ihn erkennen und in Frieden leben.
-> **Wie geht es weiter?** Als Nächstes kommt Maleachi, das letzte Buch des Alten Testaments. Es endet mit der Ankündigung, dass Gott einen Boten senden wird, den Propheten Elia, bevor der große Tag des HERRN kommt.
+> **Wie geht es weiter?** Als Nächstes kommt Maleachi, das letzte Buch des Alten Testaments. Es endet mit der Ankündigung, dass Gott einen Boten senden wird, den Propheten Elija, bevor der große Tag des HERRN kommt.

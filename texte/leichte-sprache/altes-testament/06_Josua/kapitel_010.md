@@ -80,7 +80,7 @@ Denn der HERR kämpfte für Israel.
 > Andere sagen: Es ist die Sprache eines Siegesliedes. Es will sagen: An diesem Tag hat Gott so mächtig geholfen, als hätte die Zeit stillgestanden.
 > Wieder andere meinen: Josua bat darum, dass die Sonne „schweigt“, also sich verdunkelt, zum Beispiel durch das Hagelunwetter. Das hebräische Wort kann auch „schweigen“ bedeuten.
 > Im Jahr 1633 berief sich die katholische Kirche unter anderem auf diese Stelle, um Galileo Galilei zu verurteilen, weil er sagte, dass sich die Erde um die Sonne dreht. Heute weiß man: Die Bibel spricht hier in der Sprache der Menschen, die sehen, wie die Sonne „aufgeht“ und „untergeht“. Sie will keine Lehre über Astronomie geben. Die katholische Kirche hat Galilei 1992 offiziell rehabilitiert.
-> Das Wichtigste steht in Vers 14: „Der HERR hörte auf die Stimme eines Menschen.“ Gott nimmt das Gebet eines Menschen ernst.
+> Das Wichtigste steht in Vers 14: „Es gab keinen Tag wie diesen … an dem der HERR so auf die Stimme eines Menschen gehört hat.“ Gott nimmt das Gebet eines Menschen ernst.
 > Vers 15 erzählt kurz die Rückkehr. In Vers 21 ist das Lager aber in Makkeda. Vielleicht ist Vers 15 eine Vorwegnahme, und die Rückkehr nach Gilgal geschah erst am Ende des Feldzuges (Vers 43).
 
 ---

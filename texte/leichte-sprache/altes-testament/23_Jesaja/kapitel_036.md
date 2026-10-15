@@ -5,18 +5,18 @@
 
 ## Auf wen vertraust du? (Vers 1–10)
 
-[1] Im vierzehnten Jahr des Königs Hiskia
+[1] Im vierzehnten Jahr des Königs Hiskija
 zog Sanherib, der König von Assyrien, gegen alle befestigten Städte Judas
 und eroberte sie.
 [2] Der König von Assyrien sandte den Rabschake von Lachisch nach Jerusalem
-zu König Hiskia mit einem großen Heer.
+zu König Hiskija mit einem großen Heer.
 Er stellte sich an die Wasserleitung des oberen Teiches,
 an der Straße zum Feld des Walkers.
 [3] Da kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
 und Schebna, der Schreiber,
 und Joach, der Sohn Asafs, der Kanzler, zu ihm heraus.
 [4] Der Rabschake sagte zu ihnen:
-„Sagt doch zu Hiskia: ‚So spricht der große König, der König von Assyrien:
+„Sagt doch zu Hiskija: ‚So spricht der große König, der König von Assyrien:
 „Was ist das für eine Zuversicht, auf die du vertraust?
 [5] Ich sage: Dein Rat und deine Stärke für den Krieg sind nur leere Worte.
 Auf wen vertraust du denn, dass du dich gegen mich aufgelehnt hast?
@@ -26,7 +26,7 @@ Wenn sich jemand darauf stützt,
 dringt es ihm in die Hand und durchbohrt sie.
 So ist der Pharao, der König von Ägypten, für alle, die auf ihn vertrauen.
 [7] Wenn du aber zu mir sagst: ‚Wir vertrauen auf den HERRN, unseren Gott‘,
-ist das nicht der, dessen Kulthöhen und Altäre Hiskia entfernt hat,
+ist das nicht der, dessen Kulthöhen und Altäre Hiskija entfernt hat,
 und der zu Juda und Jerusalem gesagt hat:
 ‚Vor diesem Altar sollt ihr anbeten‘?“
 [8] Nun also, schließ doch eine Wette mit meinem Herrn, dem König von Assyrien:
@@ -41,11 +41,11 @@ Der HERR hat zu mir gesagt:
 „Zieh hinauf gegen dieses Land und verdirb es!“‘“
 
 > **Was bedeutet das?**
-> Kapitel 36–39 erzählen Geschichten aus der Zeit von König Hiskia. Fast genau dieselben Geschichten stehen auch in 2. Könige 18–20.
+> Kapitel 36–39 erzählen Geschichten aus der Zeit von König Hiskija. Fast genau dieselben Geschichten stehen auch in 2. Könige 18–20.
 > Im Jahr 701 vor Christus zieht der assyrische König Sanherib mit einem riesigen Heer nach Juda. Er erobert 46 befestigte Städte. Das berichtet auch eine assyrische Inschrift, das sogenannte „Sanherib-Prisma“. Nur Jerusalem ist noch übrig.
 > „Rabschake“ ist ein Titel, etwa „oberster Mundschenk“, ein hoher Beamter.
 > Er stellt sich genau an die Stelle, wo Jesaja einst König Ahas zum Vertrauen aufgerufen hatte (Kapitel 7,3).
-> Seine Rede ist geschickte Kriegspropaganda: Ägypten ist ein geknicktes Rohr, das dich verletzt. Und euer Gott? Hiskia hat doch seine Altäre abgerissen! (Hiskia hatte die vielen Kultorte geschlossen und den Gottesdienst in Jerusalem gesammelt.) Er behauptet sogar, Gott selbst habe ihn geschickt.
+> Seine Rede ist geschickte Kriegspropaganda: Ägypten ist ein geknicktes Rohr, das dich verletzt. Und euer Gott? Hiskija hat doch seine Altäre abgerissen! (Hiskija hatte die vielen Kultorte geschlossen und den Gottesdienst in Jerusalem gesammelt.) Er behauptet sogar, Gott selbst habe ihn geschickt.
 
 ---
 
@@ -65,12 +65,12 @@ und ihren eigenen Urin trinken werden?“
 und rief mit lauter Stimme auf Hebräisch und sagte:
 „Hört die Worte des großen Königs, des Königs von Assyrien!
 [14] So spricht der König:
-‚Lasst euch nicht von Hiskia täuschen,
+‚Lasst euch nicht von Hiskija täuschen,
 denn er wird euch nicht retten können.
-[15] Lasst euch von Hiskia nicht dazu bringen, auf den HERRN zu vertrauen,
+[15] Lasst euch von Hiskija nicht dazu bringen, auf den HERRN zu vertrauen,
 wenn er sagt: „Der HERR wird uns gewiss retten.
 Diese Stadt wird nicht in die Hand des Königs von Assyrien gegeben werden.“‘
-[16] Hört nicht auf Hiskia,
+[16] Hört nicht auf Hiskija,
 denn so spricht der König von Assyrien:
 ‚Schließt Frieden mit mir und kommt zu mir heraus.
 Dann soll jeder von seinem Weinstock essen
@@ -79,7 +79,7 @@ und jeder soll das Wasser aus seiner eigenen Zisterne trinken,
 [17] bis ich komme und euch in ein Land wegführe, das wie euer Land ist,
 ein Land voll Getreide und Most,
 ein Land voll Brot und Weinbergen.
-[18] Hütet euch, dass Hiskia euch nicht verführt,
+[18] Hütet euch, dass Hiskija euch nicht verführt,
 wenn er sagt: „Der HERR wird uns retten.“
 Haben etwa die Götter der Völker
 ihr Land aus der Hand des Königs von Assyrien gerettet?
@@ -94,11 +94,11 @@ denn der König hatte befohlen: „Antwortet ihm nicht!“
 [22] Da kamen Eljakim, der Sohn Hilkijas, der über den Palast gesetzt war,
 und Schebna, der Schreiber,
 und Joach, der Sohn Asafs, der Kanzler,
-mit zerrissenen Kleidern zu Hiskia
+mit zerrissenen Kleidern zu Hiskija
 und berichteten ihm die Worte des Rabschake.
 
 > **Was bedeutet das?**
-> Vers 11: Aramäisch war damals die Sprache der Diplomaten. Die Beamten Hiskias wollen nicht, dass das einfache Volk auf der Mauer alles versteht und Angst bekommt.
+> Vers 11: Aramäisch war damals die Sprache der Diplomaten. Die Beamten Hiskijas wollen nicht, dass das einfache Volk auf der Mauer alles versteht und Angst bekommt.
 > Vers 12–13: Aber genau das will der Rabschake. Er spricht absichtlich auf Hebräisch zum Volk. Er droht mit Hungersnot durch die Belagerung.
 > Vers 16–17: Er lockt mit Versprechen: Ergebt euch, dann habt ihr es gut. Aber am Ende will er sie doch deportieren.
 > Vers 18–20: Sein größter Fehler: Er vergleicht den Gott Israels mit den Götzen anderer Völker. Damit beleidigt er Gott selbst.

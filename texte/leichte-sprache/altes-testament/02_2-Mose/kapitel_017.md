@@ -92,4 +92,4 @@ Der HERR führt Krieg gegen Amalek von Generation zu Generation.“
 > Hier steht zum ersten Mal in der Bibel, dass etwas aufgeschrieben werden soll. Gottes Taten sollen nicht vergessen werden.
 > Ein „Feldzeichen“ ist eine Fahne oder Stange, um die sich Soldaten sammeln. Mose sagt: Unser Sammelpunkt ist Gott selbst. Er ist unser Zeichen des Sieges.
 > Amalek wurde später zu einem Bild für das Böse, das Gottes Volk immer wieder angreift.
-> Vers 16 ist im Hebräischen sehr schwer zu verstehen. Wörtlich steht dort etwa: „Eine Hand am Thron von Jah.“ Viele Bibeln verstehen das als feierlichen Schwur, so wie hier: „Jah hat geschworen.“ „Jah“ ist eine Kurzform des Gottesnamens.
+> Vers 16 ist im Hebräischen sehr schwer zu verstehen. Wörtlich ist dort etwa von einer Hand am Thron von Jah die Rede. Viele Bibeln verstehen das als feierlichen Schwur, so wie hier: „Jah hat geschworen.“ „Jah“ ist eine Kurzform des Gottesnamens.

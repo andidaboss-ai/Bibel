@@ -16,7 +16,7 @@ Oder soll der Fels von seiner Stelle gerückt werden?
 
 > **Was bedeutet das?**
 > Bildad ist beleidigt. Hiob hatte gesagt, unter ihnen sei kein Weiser. Bildad fragt: Hältst du uns für dumme Tiere?
-> Vers 4 ist spöttisch: Glaubst du, die ganze Weltordnung wird sich deinetwegen ändern? Die Regel heißt: Wer leidet, ist schuldig. Diese Regel ist so fest wie ein Fels. Die wird nicht wegen dir umgestoßen.
+> Vers 4 ist spöttisch: Glaubst du, die ganze Weltordnung wird sich deinetwegen ändern? Die Regel heißt: Wer leidet, ist schuldig. Diese Regel ist so fest wie ein Fels. Die wird nicht deinetwegen umgestoßen.
 
 ---
 

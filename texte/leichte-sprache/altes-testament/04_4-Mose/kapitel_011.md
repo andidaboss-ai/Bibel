@@ -147,7 +147,7 @@ und der HERR würde seinen Geist auf sie alle legen!“
 > „Prophetisch reden“ heißt hier wohl: Sie wurden von Gottes Geist ergriffen und redeten begeistert, vielleicht lobten sie Gott laut. Es war ein sichtbares Zeichen, dass Gottes Geist auf ihnen war.
 > Eldad und Medad sind nicht am richtigen Ort. Trotzdem kommt Gottes Geist auf sie. Gott lässt sich nicht einsperren, nicht einmal in sein eigenes Heiligtum.
 > Josua will Mose schützen. Er hat Angst, dass Mose an Ansehen verliert. Aber Mose ist großzügig: „Ich wünschte, alle wären Propheten!“ Mose will keine Macht für sich allein. Er freut sich, wenn andere auch Gottes Geist bekommen.
-> Dieser Wunsch von Mose geht später in Erfüllung. Der Prophet Joel kündigt an: „Ich will meinen Geist ausgießen über alle Menschen“ (Joel 3,1). Und an Pfingsten sagt Petrus, dass das jetzt geschehen ist (Apostelgeschichte 2,17).
+> Dieser Wunsch von Mose geht später in Erfüllung. Gott kündigt durch den Propheten Joel an: „Und danach wird es geschehen, dass ich meinen Geist ausgießen werde über alles Fleisch“ (Joel 2,28; in vielen deutschen Bibeln 3,1). „Alles Fleisch“ heißt: alle Menschen. Und an Pfingsten sagt Petrus, dass das jetzt geschehen ist (Apostelgeschichte 2,17).
 
 ---
 
@@ -175,4 +175,4 @@ Und sie blieben in Hazerot.
 > „Zwei Ellen hoch“ kann bedeuten, dass die Vögel so hoch übereinander lagen. Oder dass sie so niedrig flogen, dass man sie mit der Hand fangen konnte.
 > Die Leute sammeln wie im Rausch, zwei Tage und eine Nacht lang. Ihre Gier ist das Problem, nicht das Fleisch.
 > „Kibrot-Hattaawa“ bedeutet „Gräber der Gier“. Der Ort erinnert daran, dass Gier tödlich sein kann.
-> In Psalm 106,15 heißt es dazu: „Er gab ihnen, was sie verlangten, aber er schickte ihnen Auszehrung.“
+> In Psalm 106,15 heißt es dazu: „Er gab ihnen, was sie verlangten, aber er schickte Magerkeit in ihre Seele.“ Das heißt: Sie bekamen, was sie wollten. Aber es tat ihnen nicht gut.

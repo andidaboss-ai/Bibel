@@ -12,7 +12,7 @@ Dort sollt ihr am Meer euer Lager aufschlagen.
 [3] Dann wird der Pharao über die Israeliten denken:
 ‚Sie haben sich im Land verirrt.
 Die Wüste hat sie eingeschlossen.‘
-[4] Und ich werde das Herz des Pharao hart machen, so dass er sie verfolgt.
+[4] Und ich werde das Herz des Pharao hart machen, sodass er sie verfolgt.
 Dann werde ich mich am Pharao und an seinem ganzen Heer als mächtig erweisen.
 Und die Ägypter werden erkennen, dass ich der HERR bin.“
 Die Israeliten machten es so.
@@ -89,7 +89,7 @@ Sag den Israeliten, sie sollen weiterziehen!
 [16] Und du: Heb deinen Stab hoch.
 Streck deine Hand über das Meer aus und teile es.
 Dann können die Israeliten mitten durch das Meer auf trockenem Boden gehen.
-[17] Und schau: Ich mache das Herz der Ägypter hart, so dass sie hinter ihnen herziehen.
+[17] Und schau: Ich mache das Herz der Ägypter hart, sodass sie hinter ihnen herziehen.
 Dann werde ich mich am Pharao und an seinem ganzen Heer als mächtig erweisen,
 an seinen Streitwagen und an seinen Reitern.
 [18] Dann werden die Ägypter erkennen, dass ich der HERR bin,
@@ -124,7 +124,7 @@ Alle Pferde des Pharao, seine Streitwagen und seine Reiter zogen hinter ihnen he
 [24] In der letzten Nachtwache, kurz vor dem Morgen, schaute der HERR aus der Feuer- und Wolkensäule auf das Heer der Ägypter.
 Und er brachte das Heer der Ägypter in Verwirrung.
 [25] Er ließ die Räder ihrer Streitwagen abspringen,
-so dass sie nur noch mühsam vorankamen.
+sodass sie nur noch mühsam vorankamen.
 Da sagten die Ägypter:
 „Wir müssen vor Israel fliehen!
 Denn der HERR kämpft für sie gegen Ägypten!“

@@ -102,7 +102,7 @@ gebar ihm Abija, die Frau Hezrons, Aschhur, den Vater von Tekoa.
 > Hezron heiratete eine Frau aus dem Stamm Manasse (Machir war ein Sohn Manasses). So hatte der Stamm Juda auch Verbindungen in das Land östlich des Jordan, nach Gilead.
 > „Vater von Tekoa“ heißt hier wohl: Gründer oder Anführer der Stadt Tekoa. Oft steht „Vater“ in diesen Listen für den Gründer eines Ortes.
 > Vers 18 ist im Hebräischen schwer verständlich. Vielleicht war Jeriot eine zweite Frau, vielleicht ein anderer Name für Asuba.
-> Vers 24 ist auch unklar. In der griechischen Übersetzung steht: „Nach Hezrons Tod ging Kaleb zu Efrata.“
+> Vers 24 ist auch unklar. In der griechischen Übersetzung steht: Nach Hezrons Tod ging Kaleb zu Efrata.
 
 ---
 
@@ -217,6 +217,6 @@ dem Vater des Hauses Rechab.
 
 > **Was bedeutet das?**
 > Hier tauchen bekannte Orte auf: Kirjat-Jearim, wo die Bundeslade 20 Jahre stand (1. Samuel 7,1–2), und Betlehem, die Stadt Davids. Später wurde dort Jesus geboren.
-> In der englischen Vorlage steht in Vers 50: „Das waren die Söhne Kalebs, des Sohnes Hurs.“ Wahrscheinlich ist gemeint: Das waren die Söhne Kalebs. Und dann neu: Der Sohn Hurs … Die Verse 50 bis 55 zählen dann die Nachkommen Hurs auf.
+> In der englischen Vorlage kann man Vers 50 so verstehen: Kaleb ist ein Sohn Hurs. Wahrscheinlich ist aber gemeint: Das waren die Söhne Kalebs. Und dann neu: Der Sohn Hurs … Die Verse 50 bis 55 zählen dann die Nachkommen Hurs auf.
 > Die Keniter waren ursprünglich kein israelitischer Stamm. Moses Schwiegervater gehörte zu ihnen (Richter 1,16). Sie wurden Teil Judas. Die Rechabiter, die wir aus 2. Könige 10,15 kennen, gehörten zu ihnen.
 > „Schreiber“ waren Menschen, die lesen und schreiben konnten. Das war damals selten und wichtig.

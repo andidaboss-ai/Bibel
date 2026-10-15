@@ -202,4 +202,4 @@ Denn er hatte sich über Amnon getröstet, weil er tot war.
 > Jonadab, der Amnon den bösen Plan gegeben hatte, weiß auch jetzt Bescheid. Er wusste offenbar schon lange, dass Absalom sich rächen würde. Er hat nichts verhindert.
 > Absalom flieht zu seinem Großvater Talmai, dem König von Geschur (Kapitel 3,3). Geschur lag nordöstlich vom See Genezareth.
 > David trauert lange. Um wen? Um Amnon, der tot ist? Um Absalom, der weg ist? Wohl um beide.
-> Vers 39 ist im Hebräischen nicht ganz klar. Er kann auch bedeuten: „Davids Zorn gegen Absalom ließ nach.“ David vermisst seinen Sohn trotz allem.
+> Vers 39 ist im Hebräischen nicht ganz klar. Er kann auch bedeuten, dass Davids Zorn gegen Absalom nachließ. David vermisst seinen Sohn trotz allem.

@@ -8,7 +8,7 @@
 Das Buch Josua ist nach seiner Hauptperson benannt: Josua, dem Nachfolger von Mose. Der Name „Josua“ bedeutet „Der HERR rettet“. Es ist derselbe Name wie „Jesus“ in seiner hebräischen Form.
 Das Buch erzählt, wie Israel endlich in das versprochene Land kommt. Das Volk zieht durch den Jordan, die Mauern von Jericho fallen, und das Land wird unter die zwölf Stämme verteilt. Was Gott Abraham versprochen hat, wird jetzt Wirklichkeit.
 Das Buch enthält auch viele Kriegsberichte. Manche davon sind sehr schwer zu ertragen, weil auch Frauen und Kinder getötet werden. Wir lassen diese Stellen nicht weg, sondern erklären sie ehrlich. Viele Forscher meinen außerdem, dass die Eroberung in Wirklichkeit langsamer und weniger gewaltsam war, als das Buch sie in seiner Sprache schildert. Klar ist: Niemand darf diese Berichte benutzen, um heute Gewalt oder Krieg zu rechtfertigen.
-Am Ende des Buches stellt Josua das Volk vor die Wahl, wem es dienen will. Und er sagt den berühmten Satz: „Ich aber und mein Haus wollen dem HERRN dienen“ (Josua 24,15).
+Am Ende des Buches stellt Josua das Volk vor die Wahl, wem es dienen will. Und er sagt den berühmten Satz: „Ich aber und mein Haus, wir wollen dem HERRN dienen“ (Josua 24,15).
 In der jüdischen Bibel gehört das Buch Josua zu den „Vorderen Propheten“. In christlichen Bibeln steht es am Anfang der „Geschichtsbücher“.
 
 ---

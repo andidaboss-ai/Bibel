@@ -38,7 +38,7 @@ Denn ich kann es nicht auslösen.“
 > Zuerst geht es nur um ein Stück Land. Das will der Verwandte gerne kaufen. Dann sagt Boas: Zum Land gehört auch Rut. Wer das Land auslöst, soll auch Rut heiraten. Ein Sohn von Rut würde dann als Nachkomme des verstorbenen Machlon gelten und das Land erben.
 > Dahinter steht ein altes Gesetz: Wenn ein Mann ohne Kinder stirbt, soll sein Bruder die Witwe heiraten. Der erste Sohn soll den Namen des Verstorbenen weitertragen (5. Mose 25,5–10). Boas und der Verwandte sind keine Brüder von Machlon, aber man wendet den Gedanken auf die nahe Verwandtschaft an.
 > Jetzt rechnet der Verwandte: Ich bezahle das Land, aber es gehört später nicht meinen eigenen Kindern. Das lohnt sich für mich nicht. Er denkt an seinen Vorteil. Boas denkt an die Familie.
-> Im hebräischen Text gibt es in Vers 5 eine kleine Unsicherheit beim Lesen. Man kann auch lesen: „Ich, Boas, nehme Rut.“ Die meisten Übersetzungen lesen es so wie die englische Vorlage.
+> Im hebräischen Text gibt es in Vers 5 eine kleine Unsicherheit beim Lesen. Man kann den Satz auch so lesen: Boas sagt, dass er selbst Rut zur Frau nimmt. Die meisten Übersetzungen lesen es so wie die englische Vorlage.
 
 ---
 

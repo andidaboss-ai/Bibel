@@ -22,7 +22,7 @@ Und solange er den HERRN suchte,
 ließ Gott es ihm gelingen.
 
 > **Was bedeutet das?**
-> Usija heißt in 2. Könige 14–15 meistens „Asarja“. Beide Namen bedeuten fast dasselbe: „Der HERR ist meine Stärke“ und „Der HERR hilft“.
+> Usija heißt in 2. Könige 14–15 meistens „Asarja“. Beide Namen bedeuten fast dasselbe. Usija bedeutet: Der HERR ist meine Stärke. Asarja bedeutet: Der HERR hilft.
 > Usija regierte etwa von 792 bis 740 vor Christus, also sehr lange. Ein Teil davon war wohl eine gemeinsame Regierung mit seinem Vater und später mit seinem Sohn.
 > Elat (auch Elot) ist der Hafen am Roten Meer, beim heutigen Eilat. „Der König“ in Vers 2 ist wohl sein Vater Amazja. Gemeint ist: Usija baute Elat aus, nachdem sein Vater gestorben war.
 > Secharja war wohl ein Lehrer oder Prophet, der Usija beriet. Er ist nicht derselbe wie der Prophet Sacharja, nach dem ein Buch der Bibel benannt ist. „Gesichte“ sind Visionen, also Botschaften von Gott. Manche alten Handschriften haben „in der Furcht Gottes“.
@@ -118,7 +118,7 @@ und sprach dem Volk des Landes Recht.
 > Die 80 Priester sind sehr mutig. Sie stellen sich einem mächtigen König in den Weg.
 > „Aussatz“ ist in der Bibel ein Name für verschiedene schwere Hautkrankheiten, nicht nur die heutige Lepra. Wer aussätzig war, musste getrennt leben (3. Mose 13,46).
 > Der König, der in den Tempel eindringen wollte, darf jetzt nie mehr hinein. Das ist die bittere Ironie dieser Geschichte.
-> Die Botschaft: Erfolg kann hochmütig machen. „Hochmut kommt vor dem Fall“ (Sprüche 16,18). Auch große und erfolgreiche Menschen müssen Grenzen achten.
+> Die Botschaft: Erfolg kann hochmütig machen. „Hochmut kommt vor dem Zusammenbruch“ (Sprüche 16,18). Auch große und erfolgreiche Menschen müssen Grenzen achten.
 
 ---
 

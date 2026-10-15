@@ -5,7 +5,7 @@
 
 ## Die Weisen kommen nach Jerusalem (Vers 1–8)
 
-[1] Als Jesus in Bethlehem in Judäa geboren war,
+[1] Als Jesus in Betlehem in Judäa geboren war,
 in den Tagen des Königs Herodes,
 siehe, da kamen Weise aus dem Osten nach Jerusalem
 [2] und sagten:
@@ -17,15 +17,15 @@ erschrak er und ganz Jerusalem mit ihm.
 [4] Er versammelte alle Hohenpriester und Schriftgelehrten des Volkes
 und fragte sie, wo der Christus geboren werden sollte.
 [5] Sie sagten zu ihm:
-„In Bethlehem in Judäa,
+„In Betlehem in Judäa,
 denn so ist es durch den Propheten geschrieben:
-[6] ‚Und du, Bethlehem, Land Juda,
+[6] ‚Und du, Betlehem, Land Juda,
 bist keineswegs die geringste unter den Fürsten Judas.
 Denn aus dir wird ein Herrscher hervorgehen,
 der mein Volk Israel weiden wird.‘“
 [7] Da rief Herodes die Weisen heimlich zu sich
 und erfuhr von ihnen genau, wann der Stern erschienen war.
-[8] Er schickte sie nach Bethlehem und sagte:
+[8] Er schickte sie nach Betlehem und sagte:
 „Geht hin und forscht sorgfältig nach dem Kind.
 Wenn ihr es gefunden habt, gebt mir Nachricht,
 damit auch ich komme und es anbete.“
@@ -94,12 +94,12 @@ damit erfüllt würde, was der Herr durch den Propheten gesagt hat:
 
 ---
 
-## Der Kindermord in Bethlehem (Vers 16–18)
+## Der Kindermord in Betlehem (Vers 16–18)
 
 [16] Als Herodes sah, dass er von den Weisen getäuscht worden war,
 wurde er sehr zornig.
 Er sandte Leute aus und ließ alle Jungen töten,
-die in Bethlehem und in der ganzen Umgebung waren,
+die in Betlehem und in der ganzen Umgebung waren,
 von zwei Jahren und darunter,
 nach der Zeit, die er von den Weisen genau erfahren hatte.
 [17] Da wurde erfüllt,
@@ -111,9 +111,9 @@ und will sich nicht trösten lassen,
 denn sie sind nicht mehr.“
 
 > **Was bedeutet das?**
-> Ein schreckliches Verbrechen: Herodes lässt alle kleinen Jungen in Bethlehem töten. Bethlehem war ein kleiner Ort; Forscher schätzen, dass es vielleicht 10 bis 30 Kinder waren. Andere Quellen berichten nicht davon, aber es passt zu dem, was wir über die Grausamkeit von Herodes wissen.
+> Ein schreckliches Verbrechen: Herodes lässt alle kleinen Jungen in Betlehem töten. Betlehem war ein kleiner Ort; Forscher schätzen, dass es vielleicht 10 bis 30 Kinder waren. Andere Quellen berichten nicht davon, aber es passt zu dem, was wir über die Grausamkeit von Herodes wissen.
 > Daran erinnern Kirchen am 28. Dezember (Tag der Unschuldigen Kinder).
-> Vers 18: Matthäus zitiert Jeremia 31,15. Rahel war die Lieblingsfrau Jakobs und die „Mutter“ des Volkes. Ihr Grab lag nach der Überlieferung in der Nähe von Bethlehem. Sie weint um ihre Kinder. Die Bibel verschweigt das Leid nicht. Sie lässt den Schmerz und die Klage stehen.
+> Vers 18: Matthäus zitiert Jeremia 31,15. Rahel war die Lieblingsfrau Jakobs und die „Mutter“ des Volkes. Ihr Grab lag nach der Überlieferung in der Nähe von Betlehem. Sie weint um ihre Kinder. Die Bibel verschweigt das Leid nicht. Sie lässt den Schmerz und die Klage stehen.
 > Für heute: Bis heute leiden Kinder unter Gewalt, Krieg und Machtmissbrauch. Gott steht auf ihrer Seite. Wenn du als Kind oder Jugendlicher Gewalt erlebst: Die Nummer gegen Kummer ist erreichbar unter 116 111. Im Notfall: 110.
 
 ---

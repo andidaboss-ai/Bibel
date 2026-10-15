@@ -48,7 +48,7 @@ und tötete Rezin.
 
 > **Was bedeutet das?**
 > Syrien und Israel wollen Juda zwingen, mit ihnen gegen Assyrien zu kämpfen. Sie belagern Jerusalem.
-> In dieser Not sagte der Prophet Jesaja zu Ahas: „Hab keine Angst, vertrau auf Gott!“ Und er gab ihm das berühmte Zeichen: „Eine junge Frau wird schwanger werden und einen Sohn gebären, und sie wird ihn Immanuel nennen, ‚Gott mit uns‘“ (Jesaja 7,1–14). Christen beziehen dieses Wort später auf Jesus (Matthäus 1,23).
+> In dieser Not sagte der Prophet Jesaja zu Ahas: „Hüte dich und bleib ruhig! Fürchte dich nicht“ (Jesaja 7,4). Und er gab ihm das berühmte Zeichen: „Siehe, die Jungfrau wird schwanger werden und einen Sohn gebären, und sie wird ihn Immanuel nennen“ (Jesaja 7,14). Immanuel heißt: Gott mit uns. Christen beziehen dieses Wort später auf Jesus (Matthäus 1,23).
 > Aber Ahas vertraut nicht auf Gott, sondern kauft sich die Hilfe der Assyrer. Er nennt sich ihren „Diener und Sohn“. Damit macht er Juda vom grausamen Assyrien abhängig.
 > Die Assyrer erobern 732 vor Christus Damaskus. Das Reich der Aramäer endet.
 > In Vers 6 steht in manchen hebräischen Handschriften „Edom“ statt „Aram“ (Syrien). Die beiden Wörter sehen im Hebräischen fast gleich aus. Viele Fachleute denken, dass ursprünglich die Edomiter gemeint waren.

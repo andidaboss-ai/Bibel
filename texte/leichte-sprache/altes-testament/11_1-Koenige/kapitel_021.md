@@ -80,7 +80,7 @@ um zum Weinberg Nabots aus Jesreel hinunterzugehen und ihn in Besitz zu nehmen.
 
 > **Was bedeutet das?**
 > Das ist ein Justizmord. Isebel benutzt den Namen des Königs, ein frommes Fasten und ein Gericht mit falschen Zeugen, um einen unschuldigen Mann zu töten.
-> Nach dem Gesetz brauchte man zwei Zeugen für eine Verurteilung (5. Mose 17,6). Isebel besorgt genau zwei, aber Lügner. Das Gebot „Du sollst kein falsches Zeugnis geben“ wird gebrochen, um das Gebot „Du sollst nicht töten“ zu brechen, um das Gebot „Du sollst nicht begehren“ zu erfüllen.
+> Nach dem Gesetz brauchte man zwei Zeugen für eine Verurteilung (5. Mose 17,6). Isebel besorgt genau zwei, aber Lügner. Hier werden drei der Zehn Gebote gebrochen (2. Mose 20,13–17). Das Gebot „Du sollst keine falsche Aussage gegen deinen Mitmenschen machen“ wird gebrochen, um das Gebot „Du sollst nicht morden“ zu brechen. Und das alles nur, weil Ahab den Weinberg eines anderen begehrt. Das zehnte Gebot verbietet genau das.
 > Erschreckend ist auch: Die Ältesten und Vornehmen der Stadt machen mit. Niemand widerspricht. Aus Angst oder Feigheit werden sie zu Mittätern.
 > Nach 2. Könige 9,26 wurden auch Nabots Söhne getötet. So konnte niemand mehr Anspruch auf das Land erheben.
 > Diese Geschichte zeigt, wie Macht missbraucht wird. Die Bibel steht hier klar auf der Seite des kleinen Mannes, gegen den mächtigen König.

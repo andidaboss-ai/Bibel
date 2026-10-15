@@ -32,7 +32,7 @@ Und es wird ihm vergeben, was auch immer er getan hat, wodurch er schuldig wurde
 > In vielen deutschen Bibeln stehen die Verse 1–7 dieses Kapitels am Ende von Kapitel 5 (als 5,20–26). Darum ist die Verszählung in Kapitel 6 dort anders. Wir folgen hier der englischen Vorlage.
 > Wer seinen Mitmenschen betrügt, sündigt nicht nur gegen den Menschen, sondern auch gegen Gott. Darum heißt es: „Er wird dem HERRN untreu.“
 > Die Reihenfolge ist wichtig: Zuerst gibt man dem Menschen zurück, was man ihm genommen hat, und legt ein Fünftel dazu. Erst dann bringt man das Opfer zu Gott.
-> Jesus sagt etwas ganz Ähnliches: „Wenn du dein Opfer zum Altar bringst und dir fällt ein, dass dein Bruder etwas gegen dich hat, dann geh zuerst hin und versöhne dich mit deinem Bruder. Dann komm und bring dein Opfer“ (Matthäus 5,23–24).
+> Jesus sagt etwas ganz Ähnliches: „Wenn du also deine Gabe zum Altar bringst und dich dort erinnerst, dass dein Bruder etwas gegen dich hat, dann lass deine Gabe dort vor dem Altar und geh zuerst hin und versöhne dich mit deinem Bruder. Dann komm und bring deine Gabe dar“ (Matthäus 5,23–24).
 > Ein gutes Beispiel ist Zachäus im Neuen Testament. Er gab sogar das Vierfache zurück (Lukas 19,8).
 
 ---

@@ -81,7 +81,7 @@ so wie du diesem Volk vergeben hast von Ägypten an bis hierher.“
 
 > **Was bedeutet das?**
 > Wie beim goldenen Kalb (2. Mose 32) will Gott das Volk vernichten und mit Mose neu anfangen. Und wie damals setzt sich Mose für das Volk ein.
-> Mose erinnert Gott an seine eigenen Worte: „Langsam zum Zorn, reich an Liebe, er vergibt Schuld“ (2. Mose 34,6–7). Mose betet mit Gottes eigenen Worten.
+> Mose erinnert Gott an seine eigenen Worte: „Langsam zum Zorn und reich an Liebe und Treue … Er vergibt Schuld“ (2. Mose 34,6–7). Mose betet mit Gottes eigenen Worten.
 > Interessant: Die wahre Stärke Gottes zeigt sich nicht darin, dass er straft, sondern darin, dass er vergibt (Vers 17).
 
 ---
@@ -141,11 +141,11 @@ Ganz sicher will ich das an dieser ganzen bösen Gemeinde tun, die sich gegen mi
 In dieser Wüste sollen sie umkommen, und dort sollen sie sterben.“
 
 > **Was bedeutet das?**
-> Die Strafe ist bitter, aber sie entspricht genau dem, was das Volk selbst gesagt hat. Sie hatten gerufen: „Wären wir doch in der Wüste gestorben!“ (Vers 2). Jetzt sagt Gott: „Wie ihr gesagt habt, so wird es sein.“
+> Die Strafe ist bitter, aber sie entspricht genau dem, was das Volk selbst gesagt hat. Sie hatten gerufen: „Wären wir doch in dieser Wüste gestorben!“ (Vers 2). Jetzt sagt Gott: „Genau so, wie ihr vor meinen Ohren gesagt habt, so will ich es mit euch machen“ (Vers 28).
 > Und sie hatten gesagt, ihre Kinder würden umkommen. Gott sagt: Nein, gerade eure Kinder werden das Land bekommen. Die, um die ihr Angst hattet, werden gerettet.
 > 40 Tage Erkundung, 40 Jahre Wüste. Eine ganze Generation stirbt in der Wüste. Nur die neue Generation wird ins Land ziehen.
 > „Untreue, die wie Prostitution war“ – so nennt die Bibel oft die Untreue gegenüber Gott. Gott und sein Volk sind wie ein Ehepaar.
-> Im Neuen Testament wird diese Geschichte als Warnung erzählt: „Verhärtet euer Herz nicht, wie damals in der Wüste“ (Hebräer 3,7–19).
+> Im Neuen Testament wird diese Geschichte als Warnung erzählt: „Verhärtet eure Herzen nicht wie bei der Auflehnung, am Tag der Prüfung in der Wüste“ (Hebräer 3,7–19).
 
 ---
 

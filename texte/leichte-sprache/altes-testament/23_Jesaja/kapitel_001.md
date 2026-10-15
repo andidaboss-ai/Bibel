@@ -22,7 +22,7 @@ Ein Gottesname, der bei Jesaja oft vorkommt: „der Heilige Israels“.
 
 [1] Die Vision Jesajas, des Sohnes von Amoz,
 die er über Juda und Jerusalem sah
-in den Tagen von Usija, Jotam, Ahas und Hiskia, den Königen von Juda.
+in den Tagen von Usija, Jotam, Ahas und Hiskija, den Königen von Juda.
 [2] Hört, ihr Himmel, und horch auf, du Erde,
 denn der HERR hat gesprochen:
 „Ich habe Kinder großgezogen und aufgezogen,

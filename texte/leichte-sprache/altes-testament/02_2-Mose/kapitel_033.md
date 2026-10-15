@@ -116,4 +116,4 @@ Aber mein Angesicht kann man nicht sehen.“
 > „Ich bin gnädig, wem ich gnädig bin“ heißt: Gottes Gnade ist ein Geschenk. Niemand kann sie verdienen oder erzwingen. Gott schenkt sie frei.
 > Kein Mensch kann Gottes Angesicht sehen. Gott ist zu groß, zu heilig für unsere Augen. Aber Gott schützt Mose mit seiner Hand und zeigt ihm so viel, wie er ertragen kann.
 > „Von hinten sehen“ – vielleicht heißt das: Man erkennt Gott oft erst im Nachhinein, an den Spuren, die er hinterlassen hat.
-> Im Neuen Testament heißt es: „Niemand hat Gott je gesehen. Der einzige Sohn hat ihn uns gezeigt“ (Johannes 1,18). Christen glauben: In Jesus kann man sehen, wie Gott ist.
+> Im Neuen Testament heißt es: „Niemand hat Gott jemals gesehen. Der einzige Sohn, der dem Vater ganz nahe ist, er hat ihn bekannt gemacht“ (Johannes 1,18). Christen glauben: In Jesus kann man sehen, wie Gott ist.

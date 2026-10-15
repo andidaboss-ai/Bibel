@@ -125,4 +125,4 @@ Dann machte er sich auf, folgte Elija und diente ihm.
 > Elija wirft ihm seinen Mantel über. Das ist ein Zeichen: Du sollst mein Nachfolger werden.
 > Elijas Antwort „Was habe ich dir getan?“ heißt wohl: Entscheide selbst. Ich zwinge dich nicht.
 > Elisa trifft eine klare Entscheidung: Er schlachtet die Rinder und verbrennt den Pflug als Brennholz. Es gibt kein Zurück mehr. Und er feiert ein Abschiedsessen mit den Leuten.
-> Jesus hat auf diese Geschichte angespielt: „Wer die Hand an den Pflug legt und zurückschaut, ist nicht geschickt für das Reich Gottes“ (Lukas 9,61–62).
+> Jesus hat auf diese Geschichte angespielt: „Niemand, der die Hand an den Pflug legt und zurückschaut, ist geeignet für das Reich Gottes“ (Lukas 9,61–62).

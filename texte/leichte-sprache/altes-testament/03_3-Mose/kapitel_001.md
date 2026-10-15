@@ -8,8 +8,8 @@
 Das 3. Buch Mose heißt auch „Levitikus“. Das bedeutet: das Buch für die Leviten, also für die Priester und Diener am Heiligtum.
 Am Ende des 2. Buches Mose zieht Gott in das Heiligtum ein, mitten in sein Volk. Aber Gott ist heilig. Wie können Menschen mit Fehlern und Schuld in der Nähe des heiligen Gottes leben?
 Darauf antwortet dieses Buch. Es erklärt die Opfer, den Dienst der Priester, die Regeln für rein und unrein, den großen Versöhnungstag und die Feste.
-Der wichtigste Satz des Buches lautet: „Ihr sollt heilig sein, denn ich bin heilig“ (3. Mose 19,2).
-Hier steht auch das Gebot, das Jesus später als eines der beiden wichtigsten Gebote nennt: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18).
+Der wichtigste Satz des Buches lautet: „Ihr sollt heilig sein. Denn ich, der HERR, euer Gott, bin heilig“ (3. Mose 19,2).
+Hier steht auch das Gebot, das Jesus später als eines der beiden wichtigsten Gebote nennt: „Du sollst deinen Nächsten lieben wie dich selbst“ (3. Mose 19,18).
 Vieles in diesem Buch ist uns heute fremd: Tieropfer, Blut, Regeln für Speisen und Krankheiten. Die Erklärungen helfen, das zu verstehen.
 Seit der Tempel in Jerusalem im Jahr 70 nach Christus zerstört wurde, bringen Juden keine Tieropfer mehr. An ihre Stelle sind Gebet, Lernen der Tora und gute Taten getreten. Christen glauben, dass Jesus durch seinen Tod das letzte und vollkommene Opfer gebracht hat (Hebräer 10,10–14).
 

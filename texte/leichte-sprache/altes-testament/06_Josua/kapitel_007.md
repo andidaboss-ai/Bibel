@@ -108,7 +108,7 @@ Schau, sie sind in der Erde versteckt, mitten in meinem Zelt, und das Silber lie
 > In der Bibel stehen 200 Schekel Silber, das sind etwa 2,3 Kilogramm, und 50 Schekel Gold, das sind etwa 550 Gramm.
 > Schritt für Schritt kommt die Wahrheit ans Licht: vom Stamm über die Sippe bis zum einzelnen Mann. Achan hätte die ganze Zeit vortreten können. Er tat es nicht.
 > Josua spricht ihn freundlich an: „Mein Sohn.“ Er bittet ihn, die Wahrheit zu sagen.
-> Achans Bekenntnis zeigt, wie Sünde oft geschieht: „Ich sah, ich begehrte, ich nahm, ich versteckte.“ So war es auch bei Eva im Garten Eden (1. Mose 3,6). Das zehnte Gebot „Du sollst nicht begehren“ steht am Anfang vieler Sünden.
+> Achans Bekenntnis zeigt, wie Sünde oft geschieht: Er sah etwas. Er begehrte es. Er nahm es. Er versteckte es. So war es auch bei Eva im Garten Eden (1. Mose 3,6). Das zehnte Gebot verbietet, etwas zu begehren, das einem anderen gehört (2. Mose 20,17). Solches Begehren steht am Anfang vieler Sünden.
 
 ---
 

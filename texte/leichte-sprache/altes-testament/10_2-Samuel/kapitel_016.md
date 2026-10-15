@@ -77,7 +77,7 @@ Und er ruhte sich dort aus.
 > Das stimmt so nicht. David hat Saul und seine Familie verschont. Aber Schimi hat in einem Punkt nicht ganz unrecht: David hat Blut vergossen, das Blut von Uria.
 > Abischai will Schimi töten. Aber David sagt: Nein. Vielleicht hat Gott ihn geschickt. Ich nehme es hin.
 > Das ist eine große Demut. David wehrt sich nicht gegen die Beleidigung. Er erinnert sich wohl an seine eigene Schuld. Und er hofft: Vielleicht sieht Gott mein Leid und wendet es zum Guten.
-> Jesus hat später gelehrt: „Segnet, die euch verfluchen“ (Lukas 6,28). David segnet Schimi nicht, aber er rächt sich auch nicht.
+> Jesus hat später gelehrt: „Segnet die, die euch verfluchen“ (Lukas 6,28). David segnet Schimi nicht, aber er rächt sich auch nicht.
 
 ---
 

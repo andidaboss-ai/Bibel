@@ -130,7 +130,7 @@ und lobte den HERRN.
 > **Was bedeutet das?**
 > Dieser Teil steht auch in Psalm 106,1 und 106,47–48.
 > „Dankt dem HERRN, denn er ist gut, denn seine Güte währt ewig“: Das ist einer der wichtigsten und häufigsten Lobsprüche der Bibel. Er wird bis heute in jüdischen und christlichen Gottesdiensten gebetet.
-> Vers 35 ist interessant: „Sammle uns aus den Völkern“. Zur Zeit Davids waren die Israeliten nicht zerstreut. Aber für die ersten Leser der Chronik, nach der Verbannung, war das ein sehr aktuelles Gebet.
+> Vers 35 ist interessant: „Sammle uns und befreie uns aus den Völkern“. Zur Zeit Davids waren die Israeliten nicht zerstreut. Aber für die ersten Leser der Chronik, nach der Verbannung, war das ein sehr aktuelles Gebet.
 > „Amen“ heißt: „So ist es“, „Das ist gewiss“. Das ganze Volk stimmt zu.
 
 ---

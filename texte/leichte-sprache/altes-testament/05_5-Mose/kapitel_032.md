@@ -170,7 +170,7 @@ Was ihnen bevorsteht, eilt herbei.“
 > **Was bedeutet das?**
 > Es ist nicht ganz klar, wer in Vers 28–33 gemeint ist: Israel oder die Feinde. Viele Ausleger meinen: zuerst Israel, das nicht versteht, warum es verliert. Dann die Feinde, deren „Fels“, also ihre Götter, nichts taugen, und deren Bosheit wie giftiger Wein ist.
 > Vers 30: Israel wurde nicht besiegt, weil die Feinde so stark waren, sondern weil Gott sein Volk nicht mehr beschützt hat.
-> „Die Rache ist mein“: Das ist ein ganz wichtiger Satz. Er bedeutet: Rache ist Gottes Sache, nicht die der Menschen. Paulus zitiert ihn und sagt: „Rächt euch nicht selbst, sondern überlasst das Gericht Gott“ (Römer 12,19). Der Satz verbietet also gerade die menschliche Rache.
+> „Die Rache ist mein“: Das ist ein ganz wichtiger Satz. Er bedeutet: Rache ist Gottes Sache, nicht die der Menschen. Paulus zitiert ihn und sagt: „Rächt euch nicht selbst, ihr Lieben, sondern überlasst es dem Zorn Gottes“ (Römer 12,19). Der Satz verbietet also gerade die menschliche Rache.
 
 ---
 
@@ -230,7 +230,7 @@ Und durch dieses Wort werdet ihr lange leben in dem Land,
 in das ihr über den Jordan zieht, um es in Besitz zu nehmen.“
 
 > **Was bedeutet das?**
-> In Vers 44 steht im hebräischen Text „Hoschea, der Sohn von Nun“. Das war der ursprüngliche Name von Josua (4. Mose 13,16). Die englische Vorlage schreibt „Josua“.
+> In Vers 44 steht im hebräischen Text nicht Josua, sondern Hoschea. Das war der ursprüngliche Name von Josua (4. Mose 13,16). Die englische Vorlage schreibt „Josua“.
 > „Es ist kein leeres Wort, sondern es ist euer Leben“: Das ist das Vermächtnis des Mose. Gottes Wort ist nicht nur eine Sammlung von Regeln. Es ist die Grundlage des Lebens.
 
 ---

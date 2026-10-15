@@ -150,5 +150,5 @@ Es darf nicht zurückgekauft werden.‘“
 > 3. Durch Regeln für rein und unrein im Alltag (Kapitel 11–15).
 > 4. Durch den großen Versöhnungstag, an dem alle Schuld weggetragen wird (Kapitel 16).
 > 5. Durch ein heiliges Leben im Alltag: in der Familie, bei der Arbeit, mit den Armen und Fremden (Kapitel 17–27).
-> Der wichtigste Satz des Buches ist: „Ihr sollt heilig sein, denn ich bin heilig.“ Und mitten darin steht das Gebot, das Jesus eines der beiden wichtigsten nannte: „Liebe deinen Nächsten wie dich selbst“ (3. Mose 19,18).
+> Der wichtigste Satz des Buches ist: „Ihr sollt heilig sein. Denn ich, der HERR, euer Gott, bin heilig.“ Und mitten darin steht das Gebot, das Jesus eines der beiden wichtigsten nannte: „Du sollst deinen Nächsten lieben wie dich selbst“ (3. Mose 19,18).
 > Vieles in diesem Buch ist uns fremd. Aber seine Botschaft gilt bis heute: Gott will nah bei uns sein. Und er zeigt uns einen Weg, wie wir in seiner Nähe leben können.

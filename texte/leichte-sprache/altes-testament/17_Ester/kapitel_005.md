@@ -85,5 +85,5 @@ und er ließ den Galgen machen.
 
 > **Was bedeutet das?**
 > Haman hat alles: Reichtum, viele Söhne, Macht, Ehre. Aber ein einziger Mann, der sich nicht vor ihm verneigt, macht ihm alles kaputt. Das ist das Wesen von Stolz und Hass: Sie lassen einen Menschen nie zufrieden sein.
-> „Hochmut kommt vor dem Fall“ (Sprüche 16,18). Haman ist auf dem Gipfel seines Stolzes. Gleich wird er fallen.
+> „Hochmut kommt vor dem Zusammenbruch“ (Sprüche 16,18). Haman ist auf dem Gipfel seines Stolzes. Gleich wird er fallen.
 > In der Bibel steht „50 Ellen“. Eine Elle sind etwa 45 Zentimeter. Das ist so hoch wie ein Haus mit sieben Stockwerken. Die ganze Stadt sollte sehen, wie Mordechai bestraft wird. Vielleicht ist die Zahl auch übertrieben erzählt, um Hamans maßlosen Hass zu zeigen.

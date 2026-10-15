@@ -44,7 +44,7 @@ wie der HERR es Mose befohlen hatte.
 
 > **Was bedeutet das?**
 > Die Kleider und Gegenstände wurden in 2. Mose 28 beschrieben.
-> Aaron wird mit Öl übergossen. In Psalm 133,2 heißt es dazu: „wie das kostbare Öl auf dem Haupt, das herabfließt in den Bart, den Bart Aarons“. Das ist dort ein Bild für die Freude, wenn Menschen in Frieden zusammenleben.
+> Aaron wird mit Öl übergossen. In Psalm 133,2 heißt es dazu: „wie das kostbare Öl auf dem Kopf, das herabläuft auf den Bart, den Bart Aarons“. Das ist dort ein Bild für die Freude, wenn Menschen in Frieden zusammenleben.
 
 ---
 

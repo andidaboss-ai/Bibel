@@ -150,7 +150,7 @@ und nach deinen Worten wirst du verurteilt werden.“
 > Vers 24–26: Einige Pharisäer behaupten, Jesus arbeite mit dem Teufel. Jesus zeigt, wie unsinnig das ist: Der Teufel würde doch nicht gegen sich selbst kämpfen.
 > Vers 27: Auch andere jüdische Heiler trieben damals Dämonen aus. Die Gegner messen mit zweierlei Maß.
 > Vers 28–29: Wenn Jesus durch Gottes Geist das Böse vertreibt, dann ist Gottes Reich schon da. Jesus ist stärker als „der Starke“, also das Böse.
-> Vers 31–32: Die „Lästerung gegen den Geist“ ist ein schweres Wort. Gemeint ist wohl: wer Gottes gutes Wirken bewusst und dauerhaft als teuflisch bezeichnet und sich damit selbst ganz gegen Gottes Vergebung verschließt.
+> Vers 31–32: Die „Lästerung gegen den Geist“ ist ein schweres Wort. Gemeint ist wohl ein Mensch, der Gottes gutes Wirken bewusst und dauerhaft als teuflisch bezeichnet. So verschließt er sich selbst ganz gegen Gottes Vergebung.
 > Wichtig: Viele Menschen haben Angst, sie hätten diese Sünde begangen. Die Seelsorge sagt: Wer sich darum sorgt und Vergebung sucht, hat sie gerade nicht begangen. Gott vergibt jedem, der zu ihm kommt. Wenn dich solche Ängste quälen, sprich mit einem Seelsorger oder der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 > Vers 34–37: „Wovon das Herz voll ist, davon redet der Mund.“ Unsere Worte zeigen, was in uns ist. Worte haben Gewicht.
 

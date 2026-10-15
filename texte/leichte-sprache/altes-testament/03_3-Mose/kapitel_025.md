@@ -53,7 +53,7 @@ Ihr sollt essen, was das Feld von selbst trägt.
 > So konnten nicht einige wenige Reiche immer reicher werden und alles Land aufkaufen, während andere für immer arm blieben. Alle 50 Jahre wurde die Ungleichheit wieder ausgeglichen.
 > Das Jubeljahr beginnt am Versöhnungstag. Erst wird die Schuld vor Gott vergeben, dann werden auch die Schulden zwischen den Menschen erlassen.
 > Die Worte „Ruft Freiheit aus im ganzen Land für alle seine Bewohner“ stehen auf der berühmten Freiheitsglocke in Amerika, der „Liberty Bell“.
-> Jesus hat sich auf dieses Jahr bezogen, als er sagte, er sei gekommen, „um den Gefangenen die Freiheit zu verkünden und ein Gnadenjahr des Herrn auszurufen“ (Lukas 4,18–19).
+> Jesus hat sich auf dieses Jahr bezogen. Er sagte, dass Gott ihn gesandt hat, „den Gefangenen die Freiheit zu verkünden … und ein Gnadenjahr des Herrn auszurufen“ (Lukas 4,18–19).
 > In der katholischen Kirche gibt es bis heute ein „Heiliges Jahr“ oder „Jubeljahr“. Im Jahr 2000 gab es eine weltweite Bewegung mit dem Namen „Erlassjahr“. Sie forderte, dass armen Ländern ihre Schulden erlassen werden.
 
 ---
@@ -95,7 +95,7 @@ Bis seine Ernte kommt, werdet ihr von der alten Ernte essen.
 > **Was bedeutet das?**
 > Die Frage ist verständlich: Wovon sollen wir leben, wenn wir ein Jahr lang nichts ernten? Gott antwortet: Vertraut mir. Ich gebe euch im sechsten Jahr so viel, dass es für drei Jahre reicht.
 > Das erinnert an das Manna in der Wüste. Am sechsten Tag gab es doppelt so viel, damit man am Sabbat nicht sammeln musste (2. Mose 16,22–30).
-> Das Sabbatjahr ist eine Übung im Vertrauen. Jesus sagt: „Sorgt euch nicht ängstlich darum, was ihr essen werdet … Euer Vater im Himmel weiß, dass ihr das alles braucht“ (Matthäus 6,31–32).
+> Das Sabbatjahr ist eine Übung im Vertrauen. Jesus sagt: „Darum sorgt euch nicht und sagt nicht: ‚Was werden wir essen?‘ … Euer himmlischer Vater weiß ja, dass ihr das alles braucht“ (Matthäus 6,31–32).
 
 ---
 
@@ -118,7 +118,7 @@ dann bleibt, was er verkauft hat, bis zum Jubeljahr bei dem, der es gekauft hat.
 Im Jubeljahr wird es frei, und er kehrt zu seinem Besitz zurück.
 
 > **Was bedeutet das?**
-> Vers 23 ist die Grundlage für alles: „Das Land gehört mir. Ihr seid nur Gäste bei mir.“ Niemand besitzt das Land wirklich für immer. Gott ist der eigentliche Besitzer. Die Menschen sind nur seine Pächter.
+> Vers 23 ist die Grundlage für alles: „Das Land gehört mir. Ihr seid nur Fremde und Gäste bei mir.“ Niemand besitzt das Land wirklich für immer. Gott ist der eigentliche Besitzer. Die Menschen sind nur seine Pächter.
 > Wenn jemand in Not sein Land verkaufen musste, gab es drei Wege, es zurückzubekommen:
 > 1. Ein naher Verwandter kauft es zurück. Er heißt auf Hebräisch „Goël“, also „Löser“.
 > 2. Der Verkäufer kommt wieder zu Geld und kauft es selbst zurück.
@@ -207,7 +207,7 @@ Aber über eure Brüder, die Israeliten, sollt ihr nicht mit Härte herrschen, k
 > Diese Verse sind für uns heute sehr schwer zu lesen. Sie erlauben es, Menschen aus anderen Völkern als Sklaven zu kaufen und zu vererben.
 > Man muss ehrlich sagen: Damals gab es Sklaverei in allen Ländern der Welt. Die Bibel beschreibt hier diese Welt. Sie hat die Sklaverei nicht abgeschafft, sondern Regeln aufgestellt, die sie begrenzen sollten. An anderer Stelle schützt sie auch fremde Sklaven: Wer seinen Sklaven verletzt, muss ihn freilassen (2. Mose 21,26–27). Und wer als Sklave flieht, darf nicht zurückgeschickt werden (5. Mose 23,16–17).
 > Leider haben Menschen im 18. und 19. Jahrhundert diese Verse benutzt, um die Sklaverei von Afrikanern in Amerika zu rechtfertigen. Das war ein schwerer Missbrauch der Bibel.
-> Andere Christen haben sich gerade wegen der Bibel gegen die Sklaverei eingesetzt. Denn die Bibel lehrt auch: Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27). Und im Neuen Testament heißt es: „Da ist nicht Sklave noch Freier … denn ihr seid alle einer in Christus Jesus“ (Galater 3,28).
+> Andere Christen haben sich gerade wegen der Bibel gegen die Sklaverei eingesetzt. Denn die Bibel lehrt auch: Jeder Mensch ist nach Gottes Bild geschaffen (1. Mose 1,27). Und im Neuen Testament heißt es: „Da ist weder Sklave noch Freier … Denn ihr alle seid eins in Christus Jesus“ (Galater 3,28).
 > Heute sind sich Juden und Christen einig: Sklaverei ist Unrecht.
 
 ---

@@ -75,7 +75,7 @@ Und er regierte über Israel.
 > **Was bedeutet das?**
 > Gott fragt: „Was soll ich dir geben?“ Salomo hätte alles wünschen können. Aber er bittet um Weisheit, um gut für sein Volk sorgen zu können. Er denkt nicht an sich, sondern an die Menschen, die ihm anvertraut sind.
 > „Ein- und ausgehen“ heißt: das Volk gut führen und leiten.
-> Gott freut sich über diese Bitte und schenkt ihm noch mehr dazu. Jesus hat Ähnliches gesagt: „Sucht zuerst das Reich Gottes, dann wird euch das andere dazugegeben“ (Matthäus 6,33).
+> Gott freut sich über diese Bitte und schenkt ihm noch mehr dazu. Jesus hat Ähnliches gesagt: „Sucht aber zuerst das Reich Gottes und seine Gerechtigkeit, dann wird euch das alles dazugegeben werden“ (Matthäus 6,33).
 > Die Geschichte steht ausführlicher in 1. Könige 3. Dort folgt das berühmte Urteil Salomos über die zwei Frauen und das Kind.
 
 ---

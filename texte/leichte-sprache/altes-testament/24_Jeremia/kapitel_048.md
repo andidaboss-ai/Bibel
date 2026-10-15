@@ -42,7 +42,7 @@ ohne dass jemand darin wohnt.
 und verflucht ist, wer sein Schwert vom Blut zurückhält.
 
 > **Was bedeutet das?**
-> Moab lag östlich vom Toten Meer, im heutigen Jordanien. Die Moabiter waren mit Israel verwandt (1. Mose 19,37). Ruth, die Urgroßmutter Davids, war eine Moabiterin. Trotzdem gab es oft Streit und Krieg zwischen beiden Völkern.
+> Moab lag östlich vom Toten Meer, im heutigen Jordanien. Die Moabiter waren mit Israel verwandt (1. Mose 19,37). Rut, die Urgroßmutter Davids, war eine Moabiterin. Trotzdem gab es oft Streit und Krieg zwischen beiden Völkern.
 > Viele Städte werden genannt, so wird deutlich: Das ganze Land ist betroffen.
 > Vers 7: Moab vertraute auf seine Schätze und auf seinen Gott Kemosch. Aber selbst Kemosch wird „in die Gefangenschaft ziehen“, also seine Statue wird weggeschleppt.
 > Vers 10: Ein sehr harter Vers. Er richtet sich an die Babylonier, die Gott als Werkzeug des Gerichts über Moab gebraucht: Sie sollen ihren Auftrag ausführen. Dieser Vers ist keine allgemeine Anweisung und gibt niemandem das Recht, Gewalt anzuwenden. Leider haben Menschen in der Geschichte solche Verse missbraucht, um Gewalt zu rechtfertigen. Das widerspricht dem Willen Gottes, der „Gnade, Recht und Gerechtigkeit“ liebt (9,24).

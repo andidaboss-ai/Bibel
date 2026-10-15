@@ -102,7 +102,7 @@ standen auf, um den HERRN, den Gott Israels, mit sehr lauter Stimme zu loben.
 
 > **Was bedeutet das?**
 > Gott antwortet durch einen Leviten, einen Sänger aus der Familie Asafs. Er war kein bekannter Prophet. Gott kann durch jeden sprechen.
-> „Der Kampf ist nicht eure Sache, sondern Gottes“ ist einer der bekanntesten Sätze der Chronik. Er erinnert an Mose am Schilfmeer: „Steht still und seht die Rettung des HERRN!“ (2. Mose 14,13).
+> „Der Kampf ist nicht eure Sache, sondern Gottes“ ist einer der bekanntesten Sätze der Chronik. Er erinnert an Mose am Schilfmeer: „Bleibt stehen und schaut zu, wie der HERR euch heute rettet!“ (2. Mose 14,13).
 > Noch bevor etwas geschehen ist, beten sie an und loben Gott. Sie vertrauen seinem Wort.
 > Die Korachiter waren Sänger am Tempel. Mehrere Psalmen stammen von ihnen (zum Beispiel Psalm 42–49).
 
@@ -145,7 +145,7 @@ denn dort lobten sie den HERRN.
 Darum nennt man diesen Ort „Tal Beracha“ bis heute.
 
 > **Was bedeutet das?**
-> Vers 20 klingt wie Jesaja 7,9: „Glaubt ihr nicht, so bleibt ihr nicht.“ Im Hebräischen ist das ein Wortspiel: „glauben“ und „fest stehen“ kommen vom selben Wort (aman, davon kommt auch „Amen“).
+> Vers 20 klingt wie Jesaja 7,9: „Wenn ihr nicht glaubt, dann werdet ihr gewiss nicht bestehen.“ Im Hebräischen ist das ein Wortspiel: „glauben“ und „fest stehen“ kommen vom selben Wort (aman, davon kommt auch „Amen“).
 > Das ist die ungewöhnlichste Schlachtordnung der Bibel: Vorne gehen nicht die Soldaten, sondern die Sänger. Sie singen: „Dankt dem HERRN, denn seine Güte bleibt für immer!“ (wie Psalm 136).
 > Juda kämpft gar nicht. Die Feinde zerstreiten sich und vernichten sich gegenseitig. Wer den „Hinterhalt“ legte, sagt der Text nicht genau. Wichtig ist: Gott hat es bewirkt.
 > „Beracha“ heißt „Segen“ oder „Lob“. Das Tal heißt so, weil sie dort Gott lobten. Es gibt bis heute einen Ort mit ähnlichem Namen südlich von Betlehem.

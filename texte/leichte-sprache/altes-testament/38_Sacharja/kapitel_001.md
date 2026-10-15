@@ -44,7 +44,7 @@ so hat er an uns gehandelt.‘“
 
 > **Was bedeutet das?**
 > Vers 1: Das war etwa im Oktober/November 520 vor Christus, also zwischen Haggais zweiter und dritter Botschaft.
-> Vers 3: Der Kern: „Kehrt um zu mir … dann werde ich mich zu euch umkehren.“ Gott wartet darauf, dass sein Volk zu ihm zurückkommt. Und dann ist er sofort da. Ähnlich heißt es im Jakobusbrief: „Kommt Gott nahe, dann wird er euch nahe kommen“ (Jakobus 4,8).
+> Vers 3: Der Kern: „Kehrt um zu mir … dann werde ich mich zu euch umkehren.“ Gott wartet darauf, dass sein Volk zu ihm zurückkommt. Und dann ist er sofort da. Ähnlich heißt es im Jakobusbrief: „Kommt Gott nahe, dann wird er euch nahekommen“ (Jakobus 4,8).
 > Vers 4–6: Sacharja erinnert an die Geschichte: Die Väter haben nicht auf die Propheten gehört. Die Väter sind tot, und auch die Propheten sind gestorben. Aber Gottes Wort ist geblieben und hat sich erfüllt: Das Exil ist gekommen. Am Ende haben die Väter es eingesehen.
 > Die Botschaft: Lernt aus der Geschichte! Macht nicht dieselben Fehler.
 

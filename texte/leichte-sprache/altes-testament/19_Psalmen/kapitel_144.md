@@ -47,7 +47,7 @@ und deren rechte Hand eine Hand der Falschheit ist.
 > **Was bedeutet das?**
 > Vers 5–6: Gott soll kommen wie in einem gewaltigen Gewitter, wie damals am Berg Sinai.
 > Vers 8: „Die rechte Hand“ hob man beim Schwören. Die Feinde schwören falsch. Ihr Versprechen ist nichts wert.
-> „Fremde“ meint hier feindliche Völker, die lügen und betrügen. Es ist keine Aussage gegen Ausländer allgemein. Die Bibel sagt oft: Gott beschützt die Fremden (z. B. Psalm 146,9).
+> „Fremde“ meint hier feindliche Völker, die lügen und betrügen. Es ist keine Aussage gegen Ausländer allgemein. Die Bibel sagt oft: Gott beschützt die Fremden (z. B. Psalm 146,9).
 
 ---
 

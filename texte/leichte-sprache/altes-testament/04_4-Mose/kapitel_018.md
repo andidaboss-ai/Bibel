@@ -109,7 +109,7 @@ Darum habe ich zu ihnen gesagt: ‚Unter den Israeliten sollen sie kein Erbe hab
 > **Was bedeutet das?**
 > Alle anderen Stämme bekommen im versprochenen Land ein eigenes Gebiet. Die Priester und Leviten bekommen kein Land.
 > Gott sagt: „Ich bin dein Anteil und dein Erbe.“ Das ist ein wunderschöner Satz. Sie haben kein Land, aber sie haben Gott selbst. Und Gott sorgt für sie durch die Gaben des Volkes.
-> In Psalm 16,5 heißt es: „Der HERR ist mein Anteil und mein Becher. Du hältst mein Los in deinen Händen.“
+> In Psalm 16,5 heißt es: „Der HERR hat mir meinen Anteil und meinen Becher zugeteilt. Du hast mein Los sicher gemacht.“
 
 ---
 

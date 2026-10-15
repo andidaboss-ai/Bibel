@@ -131,6 +131,6 @@ Und schau: Sie hatten sie gemacht, wie der HERR es befohlen hatte. So hatten sie
 Und Mose segnete sie.
 
 > **Was bedeutet das?**
-> Diese Verse erinnern an die Schöpfungsgeschichte. Dort heißt es: „Gott sah alles an, was er gemacht hatte, und siehe, es war sehr gut“ (1. Mose 1,31). Und Gott segnete den siebten Tag (1. Mose 2,3).
+> Diese Verse erinnern an die Schöpfungsgeschichte. Dort heißt es: „Gott sah alles an, was er gemacht hatte. Und schau: Es war sehr gut“ (1. Mose 1,31). Und Gott segnete den siebten Tag (1. Mose 2,3).
 > Hier sieht Mose die ganze Arbeit an. Sie ist gut gemacht. Und Mose segnet das Volk.
 > So wie Gott die Welt als Wohnung für die Menschen gemacht hat, so haben die Menschen jetzt eine Wohnung für Gott gemacht.
