@@ -27,7 +27,7 @@ von Gott, dem Vater,
 und von Christus Jesus, unserem Herrn.
 
 > **Was bedeutet das?**
-> Vers 1: „Die Verheißung des Lebens“: Paulus erwartet den Tod. Aber er weiß: In Christus gibt es Leben, das nicht endet.
+> Vers 1: „Nach der Verheißung des Lebens, das in Christus Jesus ist“: Paulus erwartet den Tod. Aber er weiß: In Christus gibt es Leben, das nicht endet.
 
 ---
 

@@ -124,7 +124,7 @@ Und Gott wird jede Träne
 von ihren Augen abwischen.“
 
 > **Was bedeutet das?**
-> Vers 14: „Im Blut weiß gemacht“ ist ein überraschendes Bild. Blut macht eigentlich nicht weiß. Gemeint ist: Durch den Tod von Jesus werden Menschen rein und frei von Schuld.
+> Vers 14: „Im Blut des Lammes weiß gemacht“ ist ein überraschendes Bild. Blut macht eigentlich nicht weiß. Gemeint ist: Durch den Tod von Jesus werden Menschen rein und frei von Schuld.
 > Vers 15: „Sein Zelt ausbreiten“ erinnert an das heilige Zelt in der Wüste. Gott wohnt mitten bei seinem Volk und beschützt es.
 > Vers 16–17 erinnert an Jesaja 49,10 und Jesaja 25,8.
 > Vers 17: Das Lamm ist zugleich der Hirte. Und Gott selbst wischt jede Träne ab. Das ist einer der schönsten Trostsätze der Bibel. Er kommt am Ende des Buches noch einmal (21,4).

@@ -27,7 +27,7 @@ und zur Ausdauer von Christus.
 > **Was bedeutet das?**
 > Vers 1: Paulus bittet die Gemeinde um Gebet. Auch Apostel brauchen die Unterstützung anderer.
 > Vers 3: „Der Herr ist treu“: Menschen können enttäuschen, aber Gott bleibt treu.
-> Vers 5: „Die Ausdauer von Christus“: Jesus hat auch im Leiden durchgehalten. Er gibt Kraft, selbst durchzuhalten.
+> Vers 5: Der Herr soll die Herzen „zur Ausdauer von Christus“ lenken. Jesus hat auch im Leiden durchgehalten. Er gibt Kraft, selbst durchzuhalten.
 
 ---
 

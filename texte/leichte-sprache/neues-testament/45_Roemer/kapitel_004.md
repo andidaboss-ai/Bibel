@@ -139,7 +139,7 @@ und auferweckt,
 damit wir gerecht werden.
 
 > **Was bedeutet das?**
-> Vers 18: „Gegen alle Hoffnung voll Hoffnung“: Abraham vertraut Gott, obwohl es menschlich unmöglich scheint.
+> Vers 18: „Gegen alle Hoffnung glaubte Abraham voll Hoffnung“: Er vertraut Gott, obwohl es menschlich unmöglich scheint.
 > Vers 18 zitiert 1. Mose 15,5. Gott hatte Abraham die Sterne am Himmel gezeigt: So viele Nachkommen wirst du haben.
 > Vers 19: Abraham war fast hundert, Sara war alt. Trotzdem bekamen sie einen Sohn, Isaak (1. Mose 21).
 > Vers 24–25: Was für Abraham galt, gilt auch für uns: Gott nimmt uns an, wenn wir ihm vertrauen. Mitte des Glaubens ist Jesus, der für uns gestorben und auferweckt worden ist.

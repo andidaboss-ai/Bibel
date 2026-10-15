@@ -29,7 +29,7 @@ durch das Wort Gottes und durch das Gebet.
 
 > **Was bedeutet das?**
 > Vers 1–3: Es gab Lehrer, die die Ehe verboten und bestimmte Speisen verboten. Sie meinten, alles Körperliche sei schlecht.
-> Vers 4 ist sehr wichtig: Alles, was Gott geschaffen hat, ist gut. Das erinnert an die Schöpfungsgeschichte: „Gott sah, dass es gut war“ (1. Mose 1). Der Körper, das Essen und die Ehe sind gute Gaben Gottes.
+> Vers 4 ist sehr wichtig: Alles, was Gott geschaffen hat, ist gut. Das erinnert an die Schöpfungsgeschichte: „Gott sah: Es ist gut“ (1. Mose 1). Der Körper, das Essen und die Ehe sind gute Gaben Gottes.
 > Vers 5: Vor dem Essen danken: Das Tischgebet macht bewusst, dass das Essen ein Geschenk Gottes ist.
 > Für heute: Wer aus persönlichen, gesundheitlichen oder religiösen Gründen auf bestimmte Speisen verzichtet, tut nichts Falsches. Auch jüdische Speisegebote sind hier nicht gemeint. Der Brief wendet sich gegen Lehrer, die anderen Verbote aufzwingen und Gottes Schöpfung schlechtmachen.
 

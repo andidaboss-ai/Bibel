@@ -37,7 +37,7 @@ und wir leben durch ihn.
 
 > **Was bedeutet das?**
 > In Korinth gab es viele Tempel für griechische und römische Götter. Dort wurden Tiere geopfert. Das Fleisch wurde danach gegessen oder auf dem Markt verkauft. Die Christen fragten: Dürfen wir solches Fleisch essen?
-> Vers 1: „Wir alle haben Erkenntnis“ war wohl ein Satz aus Korinth. Manche Christen waren stolz auf ihr Wissen. Paulus antwortet: Wissen allein macht stolz, aber Liebe baut auf.
+> Vers 1: Dass „wir alle Erkenntnis haben“, war wohl ein Spruch aus Korinth. Manche Christen waren stolz auf ihr Wissen. Paulus antwortet: Wissen allein macht stolz, aber Liebe baut auf.
 > Vers 3: Wichtiger als unser Wissen über Gott ist, dass Gott uns kennt und liebt.
 > Vers 4–6: Es gibt nur einen Gott. Paulus nimmt hier das jüdische Grundbekenntnis auf, das „Höre, Israel“ (5. Mose 6,4). Er verbindet es mit dem Bekenntnis zu Jesus Christus als dem einen Herrn.
 

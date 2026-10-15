@@ -24,7 +24,7 @@ dass der Geist und die Kraft Gottes sich zeigten,
 sondern auf der Kraft Gottes.
 
 > **Was bedeutet das?**
-> Vers 1–3: Paulus war kein glänzender Redner. Er kam „in Schwäche, Furcht und Zittern“ nach Korinth. Er erzählt das ehrlich.
+> Vers 1–3: Paulus war kein glänzender Redner. Er kam „in Schwäche, in Furcht und mit großem Zittern“ nach Korinth. Er erzählt das ehrlich.
 > Vers 2: Im Mittelpunkt seiner Predigt stand Jesus, der am Kreuz gestorben ist.
 > Vers 5: Der Glaube soll sich nicht auf einen beeindruckenden Prediger stützen, sondern auf Gott.
 > Für heute: Wer Angst hat, vor anderen zu reden, darf wissen: Auch Paulus ging es so. Gott braucht keine perfekten Menschen.
@@ -90,7 +90,7 @@ Wir aber haben die Gedanken von Christus.
 
 > **Was bedeutet das?**
 > Vers 6: „Reif im Glauben“: Das WEB sagt „full grown“, also erwachsen. Gemeint sind Menschen, die im Glauben gewachsen sind.
-> Vers 8: „Die Herrscher dieser Welt“: Damit sind wohl die Mächtigen gemeint, die Jesus kreuzigen ließen, vor allem die römische Macht. Manche Ausleger denken auch an unsichtbare Mächte.
+> Vers 8: „Keiner der Herrscher dieser Welt hat sie erkannt.“ Mit den Herrschern sind wohl die Mächtigen gemeint, die Jesus kreuzigen ließen, vor allem die römische Macht. Manche Ausleger denken auch an unsichtbare Mächte.
 > Vers 9 erinnert an Jesaja 64,3 (in manchen Bibeln 64,4) und Jesaja 65,17. Paulus zitiert hier frei. Diese Worte werden oft bei Beerdigungen gelesen: Gott hat für die, die ihn lieben, mehr bereit, als wir uns vorstellen können.
 > Vers 10–12: Gottes Geist hilft uns, Gott zu verstehen. Aus eigener Kraft können wir Gott nicht ganz begreifen.
 > Vers 14: „Der natürliche Mensch“ meint einen Menschen, der nur mit seinem eigenen Verstand urteilt, ohne Gottes Geist.

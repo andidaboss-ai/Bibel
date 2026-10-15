@@ -58,7 +58,7 @@ damit ihr sie aushalten könnt.
 
 > **Was bedeutet das?**
 > Vers 1–4: Paulus erinnert an den Auszug Israels aus Ägypten (2. Mose 13–17). Die Wolke führte das Volk. Es zog durch das Meer. Gott gab Manna zu essen und Wasser aus dem Felsen. Paulus sieht darin Bilder für Taufe und Abendmahl.
-> Vers 4: „Der Fels war Christus“: Paulus sagt: Schon damals war Christus bei seinem Volk. Jüdische Ausleger erzählten, dass der Fels mit dem Volk mitzog.
+> Vers 4: „Der Fels aber war Christus“: Paulus sagt: Schon damals war Christus bei seinem Volk. Jüdische Ausleger erzählten, dass der Fels mit dem Volk mitzog.
 > Vers 7 zitiert 2. Mose 32,6 (das goldene Kalb). Vers 8 erinnert an 4. Mose 25,1–9. Dort ist von 24 000 Toten die Rede. Paulus nennt 23 000. Vers 9 erinnert an 4. Mose 21,4–9. Vers 10 erinnert an 4. Mose 14 und 16.
 > Wichtig: Paulus erzählt diese Geschichten nicht, um über Israel zu urteilen. Er spricht von „unseren Vätern“ und sagt: Das ist eine Warnung für uns, für die Christen.
 > Vers 13 ist ein großer Trost: Gott ist treu. Er schafft einen Ausweg. Niemand muss allein durch schwere Zeiten gehen.

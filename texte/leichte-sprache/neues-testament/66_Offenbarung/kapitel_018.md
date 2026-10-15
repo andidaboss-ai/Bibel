@@ -59,7 +59,7 @@ der sie gerichtet hat.
 > **Was bedeutet das?**
 > Vers 4: „Geht weg von ihr, mein Volk“ erinnert an Jeremia 51,45. Gemeint ist nicht unbedingt, dass man wegziehen soll. Gemeint ist: Macht nicht mit bei Gier, Ausbeutung und Götzendienst.
 > Vers 6–7: Diese Worte richten sich an die Mächte, die Gottes Gericht ausführen, nicht an Christen. Christen sollen sich nicht rächen (Römer 12,17–19). Die Strafe entspricht dem, was Babylon anderen angetan hat.
-> Vers 7: Babylon fühlt sich sicher und unverwundbar: „Mir kann nichts passieren.“ So reden Mächte, die sich über alle anderen erheben (vergleiche Jesaja 47,7–8).
+> Vers 7: Babylon fühlt sich sicher und unverwundbar. Sie sagt in ihrem Herzen: „Ich sitze hier als Königin. Ich bin keine Witwe, und Trauer werde ich niemals sehen.“ So reden Mächte, die sich über alle anderen erheben (vergleiche Jesaja 47,7–8).
 
 ---
 

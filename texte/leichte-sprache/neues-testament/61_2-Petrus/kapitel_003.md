@@ -77,7 +77,7 @@ werden verbrannt werden.
 > Vers 8 erinnert an Psalm 90,4: Für Gott sind tausend Jahre wie ein Tag. Gott misst die Zeit anders als wir.
 > Vers 9 ist einer der schönsten Sätze in diesem Brief: Dass Jesus noch nicht wiedergekommen ist, ist kein Zeichen von Schwäche. Es ist Geduld. Gott will, dass **alle** Menschen gerettet werden. Er wartet auf jeden.
 > Vers 10: „Wie ein Dieb in der Nacht“: Niemand weiß, wann es so weit ist (vergleiche 1. Thessalonicher 5,2). Darum soll niemand ein Datum ausrechnen.
-> In manchen alten Handschriften steht am Ende von Vers 10: „die Erde und die Werke auf ihr werden gefunden werden“, also: Sie werden aufgedeckt vor Gott.
+> Am Ende von Vers 10 steht: „Und die Erde und alle Werke auf ihr werden verbrannt werden.“ In manchen alten Handschriften steht dort etwas anderes: Die Erde und alles, was Menschen auf ihr getan haben, wird gefunden. Das heißt: Es wird vor Gott aufgedeckt.
 
 > **Wichtiger Hinweis**
 > Diese Verse sind keine Erlaubnis, sich nicht um die Erde zu kümmern. Gott hat den Menschen die Schöpfung anvertraut (1. Mose 2,15). Christen sollen gut mit ihr umgehen. Die Bilder von Feuer sind auch keine genaue Beschreibung, wie die Welt untergeht. Sie sagen: Gott hat das letzte Wort.

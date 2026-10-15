@@ -24,7 +24,7 @@ sollen sie mit mir reisen.
 
 > **Was bedeutet das?**
 > Die Gemeinde in Jerusalem war arm. Paulus sammelte in vielen Gemeinden Geld für sie (vergleiche Römer 15,25–27).
-> Vers 2: „Der erste Tag der Woche“ ist der Sonntag, der Tag der Auferstehung von Jesus. Schon damals kamen Christen an diesem Tag zusammen.
+> Vers 2: „An jedem ersten Tag der Woche“: Gemeint ist der Sonntag, der Tag der Auferstehung von Jesus. Schon damals kamen Christen an diesem Tag zusammen.
 > Jeder soll geben, „so viel er kann“. Niemand soll überfordert werden.
 > Vers 3: Paulus geht ehrlich mit dem Geld um. Vertreter der Gemeinde sollen es selbst nach Jerusalem bringen.
 
@@ -64,7 +64,7 @@ wenn er Gelegenheit hat.
 
 > **Was bedeutet das?**
 > Vers 8: Paulus schreibt diesen Brief in Ephesus, einer großen Stadt in der heutigen Türkei. „Pfingsten“ war damals das jüdische Wochenfest, 50 Tage nach dem Passafest.
-> Vers 9: „Eine Tür hat sich geöffnet“ heißt: Es gibt eine gute Gelegenheit, die gute Nachricht zu verkünden.
+> Vers 9: „Hier hat sich mir eine große und wirksame Tür geöffnet.“ Das heißt: Es gibt eine gute Gelegenheit, die gute Nachricht zu verkünden.
 > Vers 10–11: Timotheus war noch jung. Paulus bittet die Gemeinde, ihn freundlich aufzunehmen.
 > Vers 12: Apollos war in Korinth sehr beliebt (Kapitel 1,12). Paulus und Apollos waren keine Gegner, sondern Mitarbeiter.
 

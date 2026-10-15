@@ -90,6 +90,6 @@ Am größten unter ihnen ist die Liebe.
 > **Was bedeutet das?**
 > Vers 8–10: Alle Gaben sind nur für diese Zeit. Wenn Gottes Reich vollendet ist, braucht man sie nicht mehr. Die Liebe aber bleibt für immer.
 > Vers 12: Spiegel waren damals aus poliertem Metall. Man sah sich darin nur verschwommen. So ist unser Wissen über Gott jetzt: unvollständig. Einmal werden wir Gott ganz sehen.
-> Vers 12: „So wie ich ganz erkannt worden bin“: Gott kennt uns schon jetzt ganz und liebt uns.
+> Vers 12: „So wie ich auch ganz erkannt worden bin“: Gott kennt uns schon jetzt ganz und liebt uns.
 > Vers 13: Glaube, Hoffnung und Liebe gehören zusammen. Aber die Liebe ist das Größte. Denn Gott selbst ist Liebe (1. Johannes 4,8).
 > Für heute: Kein Wissen, keine Leistung und keine Frömmigkeit ersetzen die Liebe.

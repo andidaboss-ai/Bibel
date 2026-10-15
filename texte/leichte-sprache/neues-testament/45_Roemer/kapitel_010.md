@@ -71,7 +71,7 @@ wird gerettet werden.“
 > **Was bedeutet das?**
 > Vers 5 zitiert 3. Mose 18,5.
 > Vers 6–8 nimmt Worte aus 5. Mose 30,12–14 auf. Dort sagt Mose: Gottes Gebot ist nicht weit weg, sondern ganz nah, in deinem Mund und deinem Herzen. Paulus bezieht das auf das Wort von Jesus.
-> Vers 9: Das ist eines der ältesten christlichen Glaubensbekenntnisse: „Jesus ist der Herr.“
+> Vers 9: Das ist eines der ältesten christlichen Glaubensbekenntnisse: Jesus ist der Herr.
 > Vers 11 zitiert Jesaja 28,16. Vers 13 zitiert Joel 3,5 (in manchen Bibeln 2,32).
 > Vers 12: Gott ist der Herr aller Menschen. Bei ihm gibt es keinen Unterschied.
 
@@ -122,7 +122,7 @@ nach einem ungehorsamen und widerspenstigen Volk.“
 
 > **Was bedeutet das?**
 > Vers 15 zitiert Jesaja 52,7. Vers 16 zitiert Jesaja 53,1.
-> Vers 17: „Der Glaube kommt aus dem Hören“: Darum ist es wichtig, dass Menschen von Gott erzählen.
+> Vers 17: „Also kommt der Glaube aus dem Hören“: Darum ist es wichtig, dass Menschen von Gott erzählen.
 > Vers 18 zitiert Psalm 19,5 (in manchen Bibeln 19,4). Vers 19 zitiert 5. Mose 32,21. Vers 20–21 zitiert Jesaja 65,1–2.
 > Vers 21: Gott streckt „den ganzen Tag“ seine Hände nach Israel aus. Das ist kein Bild der Ablehnung, sondern der Liebe: Gott gibt sein Volk nicht auf. Er wartet mit offenen Armen.
 > Wichtig: Diese harten Prophetenworte stammen aus der Bibel Israels selbst. Die Propheten haben so zu ihrem eigenen Volk gesprochen. Sie geben Christen kein Recht, auf Juden herabzusehen. Im nächsten Kapitel sagt Paulus klar: Gott hat sein Volk nicht verstoßen (11,1–2).

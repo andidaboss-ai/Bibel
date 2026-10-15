@@ -79,7 +79,7 @@ Denn an solchen Opfern hat Gott Freude.
 > Vers 9–10: Der Verfasser warnt vor Lehren über bestimmte Speisen. Mit dem „Altar“ meint er wohl Christus selbst.
 > Wichtig: Vers 10 ist kein Urteil über jüdische Menschen. Der Brief spricht in Bildern vom Gottesdienst im heiligen Zelt, um zu erklären, was Christus für Christen bedeutet.
 > Vers 12: Jesus wurde außerhalb der Stadtmauer von Jerusalem gekreuzigt, an einem Ort für Verbrecher und Ausgestoßene.
-> Vers 13: „Vor das Lager hinausgehen“: Christen sollen nicht nur in ihrer bequemen Welt bleiben, sondern zu den Ausgestoßenen gehen, so wie Jesus.
+> Vers 13: „Lasst uns also zu ihm hinausgehen, vor das Lager“: Christen sollen nicht nur in ihrer bequemen Welt bleiben, sondern zu den Ausgestoßenen gehen, so wie Jesus.
 > Vers 15–16: Die Opfer, die Gott gefallen, sind Lob, Dank, gute Taten und Teilen.
 
 ---

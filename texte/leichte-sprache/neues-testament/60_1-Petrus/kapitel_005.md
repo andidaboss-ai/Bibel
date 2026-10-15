@@ -40,7 +40,7 @@ denn er kümmert sich um euch.
 > Vers 2–3: Ein Bild aus dem Hirtenleben: Leiter sollen für die Gemeinde sorgen wie ein guter Hirte für seine Schafe, nicht aus Zwang, nicht für Geld und nicht, um zu herrschen.
 > Sehr wichtig: „Herrscht nicht“: Wer in der Kirche Verantwortung hat, darf seine Macht nicht missbrauchen. Wer geistlichen oder sexuellen Missbrauch erlebt, findet Hilfe beim Hilfetelefon Sexueller Missbrauch (0800 22 55 530).
 > Vers 4: „Der oberste Hirte“ ist Jesus.
-> Vers 5 zitiert Sprüche 3,34. „Ordnet euch einander unter“ gilt für alle gegenseitig.
+> Vers 5: „Ihr alle sollt … euch einander unterordnen“: Das gilt für alle gegenseitig. Danach zitiert der Vers Sprüche 3,34.
 > Vers 7: Ein großer Trost: Wir dürfen Gott alle unsere Sorgen sagen und sie bei ihm lassen. Er kümmert sich um uns. Wer schwere Sorgen hat, darf sich auch Hilfe bei Menschen holen, zum Beispiel bei der Telefonseelsorge (0800 111 0 111 oder 0800 111 0 222).
 
 ---
@@ -95,7 +95,7 @@ Amen.
 
 > **Was bedeutet das?**
 > Vers 12: Silvanus (auch Silas genannt) hat beim Schreiben oder Überbringen des Briefes geholfen.
-> Vers 13: Das WEB sagt „She who is in Babylon“, wörtlich „Sie, die in Babylon ist“. Gemeint ist wohl die Gemeinde. „Babylon“ ist hier wohl ein Deckname für Rom, die Hauptstadt des Römischen Reiches.
+> Vers 13: Im WEB steht wörtlich: Sie, die in Babylon ist. Gemeint ist wohl die Gemeinde. Darum steht hier „die Gemeinde in Babylon“. „Babylon“ ist hier wohl ein Deckname für Rom, die Hauptstadt des Römischen Reiches.
 > „Markus, mein Sohn“: nicht der leibliche Sohn, sondern ein enger Mitarbeiter. Nach alter Überlieferung hat Markus die Erinnerungen von Petrus im Markusevangelium aufgeschrieben.
 > Vers 14: Der „Kuss der Liebe“ war ein Begrüßungszeichen unter Christen.
 

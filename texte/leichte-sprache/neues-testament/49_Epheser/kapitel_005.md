@@ -70,7 +70,7 @@ dann wird Christus über dir aufleuchten.“
 
 > **Was bedeutet das?**
 > Vers 8: Nicht nur: „Ihr habt Licht“, sondern: „Ihr seid Licht.“ Christen sollen durch ihr Leben hell machen.
-> Vers 9: Das WEB sagt „fruit of the Spirit“. In manchen alten Handschriften steht „Frucht des Lichts“.
+> Vers 9: Hier steht „die Frucht des Geistes“, so wie im WEB. In manchen alten Handschriften steht „Frucht des Lichts“.
 > Vers 11–13: Unrecht soll nicht verschwiegen, sondern aufgedeckt werden.
 > Für heute: Das gilt auch für Unrecht und Missbrauch in Kirchen und Familien. Wegschauen hilft nur den Tätern. Wer Missbrauch erlebt oder davon weiß, findet Hilfe beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530.
 > Vers 14 ist vielleicht ein Lied der ersten Christen, das bei der Taufe gesungen wurde.

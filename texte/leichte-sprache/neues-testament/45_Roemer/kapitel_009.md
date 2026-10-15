@@ -4,7 +4,7 @@
 ---
 
 > **Wichtiger Hinweis vorab**
-> In den Kapiteln 9 bis 11 schreibt Paulus über sein eigenes Volk Israel. Er schreibt mit großem Schmerz und großer Liebe (9,1–3). Seine Frage ist: Hat Gott sein Volk verlassen, weil viele Juden nicht an Jesus als den Christus glauben? Seine Antwort am Ende ist: Nein! „Gottes Gaben und seine Berufung sind unwiderruflich“ (11,29) und „ganz Israel wird gerettet werden“ (11,26).
+> In den Kapiteln 9 bis 11 schreibt Paulus über sein eigenes Volk Israel. Er schreibt mit großem Schmerz und großer Liebe (9,1–3). Seine Frage ist: Hat Gott sein Volk verlassen, weil viele Juden nicht an Jesus als den Christus glauben? Seine Antwort am Ende ist: Nein! „Die Gaben und die Berufung Gottes sind unwiderruflich“ (11,29). Und: „So wird ganz Israel gerettet werden“ (11,26).
 > Man muss diese drei Kapitel immer zusammen lesen. Einzelne Verse aus Kapitel 9 oder 10 wurden in der Geschichte oft herausgerissen und gegen Juden benutzt. Das war schweres Unrecht.
 > Die Kirchen lehren heute: Der Bund Gottes mit dem jüdischen Volk ist nie gekündigt worden (Nostra aetate, 1965; viele evangelische Synoden seit 1980).
 
@@ -39,7 +39,7 @@ Amen.
 > **Was bedeutet das?**
 > Vers 1–3: Paulus liebt sein Volk so sehr, dass er sogar selbst verloren sein wollte, wenn das ihnen helfen würde. So hatte auch Mose für Israel gebetet (2. Mose 32,32).
 > Vers 4–5: Paulus zählt auf, was Israel von Gott geschenkt ist: Gott hat Israel als seine Kinder angenommen. Israel hat die Herrlichkeit Gottes, die Bünde, die Tora, den Gottesdienst, die Verheißungen, die Väter Abraham, Isaak und Jakob. Und Jesus selbst ist Jude. Paulus schreibt: „Ihnen gehören“, in der Gegenwart. Diese Gaben gelten bis heute.
-> Vers 5: Den Schluss des Satzes kann man auch anders verstehen: als Lob auf Gott, den Vater („Gott, der über allem ist, sei gepriesen“). Das WEB versteht es als Aussage über Christus. Im Griechischen gab es keine Satzzeichen.
+> Vers 5: Den Schluss des Satzes kann man auch anders verstehen: als Lob auf Gott, den Vater. Das WEB versteht es als Aussage über Christus: „Er ist über allem, Gott, gepriesen in Ewigkeit.“ Im Griechischen gab es keine Satzzeichen.
 
 ---
 
@@ -76,7 +76,7 @@ der beruft,
 aber Esau habe ich gehasst.“
 
 > **Was bedeutet das?**
-> Vers 6: „Das Wort Gottes ist nicht hinfällig geworden“: Gottes Versprechen an Israel gilt weiter.
+> Vers 6: „Es ist aber nicht so, als ob das Wort Gottes hinfällig geworden wäre“: Gottes Versprechen an Israel gilt weiter.
 > Vers 7 zitiert 1. Mose 21,12. Vers 9 zitiert 1. Mose 18,10 und 18,14. Vers 12 zitiert 1. Mose 25,23. Vers 13 zitiert Maleachi 1,2–3.
 > Vers 13: „Geliebt und gehasst“ ist eine hebräische Redeweise. Sie meint: Gott hat den einen ausgewählt und den anderen nicht. Es geht um den Weg der Verheißung, nicht um Gefühle von Hass. Esau wird in der Bibel auch gesegnet (1. Mose 27,39–40; 33).
 > Paulus zeigt: Gott erwählt frei, schon in der Geschichte der Väter. Nicht menschliche Leistung, sondern Gottes Ruf entscheidet.

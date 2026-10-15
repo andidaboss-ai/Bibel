@@ -49,7 +49,7 @@ Sie sind eure Ehre.
 > **Was bedeutet das?**
 > Vers 1: Der Brief wurde im Gefängnis geschrieben. Paulus war oft im Gefängnis, weil er die gute Nachricht verkündete.
 > Vers 6: Das „Geheimnis“ ist: Auch die Menschen aus den Völkern gehören zu Gottes Volk. Sie sind „Miterben“, sie erben zusammen mit Israel. Sie treten neben Israel, nicht an seine Stelle.
-> Vers 8: „Der Geringste von allen Heiligen“: Paulus sieht sich selbst bescheiden. Er weiß, dass er einmal Christen verfolgt hat.
+> Vers 8: „Mir, dem Geringsten von allen Heiligen“: Paulus sieht sich selbst bescheiden. Er weiß, dass er einmal Christen verfolgt hat.
 > Vers 10: Die Gemeinde, in der Menschen aus allen Völkern zusammenleben, ist ein Zeichen für Gottes Weisheit, sogar für die unsichtbaren Mächte.
 > Vers 12: Durch Jesus dürfen wir mutig und vertrauensvoll zu Gott kommen.
 

@@ -37,7 +37,7 @@ So werden eure Gebete nicht behindert.
 > **Was bedeutet das?**
 > Vers 1: Es geht vor allem um Frauen, die Christinnen geworden waren, während ihr Mann noch an andere Götter glaubte. Das war für sie gefährlich. Der Brief rät: Lebt so gut, dass euer Mann durch euer Vorbild gewonnen wird.
 > Vers 3–4: Der Brief verbietet keinen Schmuck. Er sagt: Wichtiger als äußere Schönheit ist ein gutes Herz.
-> Vers 6: „Lasst euch durch keinen Schrecken einschüchtern“: Frauen sollen keine Angst haben müssen.
+> Vers 6: Die Frauen sollen sich „durch keinen Schrecken einschüchtern“ lassen. Sie sollen keine Angst haben müssen.
 > Vers 7: Neu und wichtig für die damalige Zeit: Männer sollen ihre Frauen ehren. Und Frauen sind „Miterben der Gnade“, also vor Gott gleichwertig. „Schwächeres Gefäß“ meinte damals wohl die geringere körperliche Kraft und die schwächere rechtliche Stellung, nicht einen geringeren Wert.
 > Heute verstehen viele Christen die Ehe als Partnerschaft von zwei gleichberechtigten Menschen. Andere halten an einer besonderen Verantwortung des Mannes fest. Alle betonen: Es geht um Liebe, nicht um Macht.
 > Sehr wichtig: Diese Verse geben niemandem das Recht, über den Ehepartner zu herrschen oder Gewalt anzuwenden. Gewalt in der Ehe ist ein schweres Unrecht und strafbar. Niemand muss das ertragen. Hilfe gibt es beim Hilfetelefon Gewalt gegen Frauen (116 016) und beim Hilfetelefon Gewalt an Männern (0800 123 99 00). Im Notfall: 110.

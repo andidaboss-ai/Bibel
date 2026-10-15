@@ -143,7 +143,7 @@ in die Hände des lebendigen Gottes zu fallen.
 > **Was bedeutet das?**
 > Vers 26–31: Wie in Kapitel 6 geht es um Menschen, die Jesus ganz bewusst und verächtlich verwerfen („mit Füßen treten“, „verhöhnen“). Es geht nicht um Menschen, die schwach sind, zweifeln oder Fehler bereuen.
 > Sehr wichtig: Wer Angst hat, nicht mehr vergeben zu bekommen, darf wissen: Gott nimmt jeden an, der zu ihm kommt. Die Sorge selbst zeigt, dass dir Gott wichtig ist. Wenn dich solche Gedanken quälen, sprich mit einem Seelsorger oder einer Seelsorgerin oder ruf die Telefonseelsorge an: 0800 111 0 111 oder 0800 111 0 222.
-> Vers 30 zitiert 5. Mose 32,35–36. „Die Rache gehört mir“ heißt auch: Menschen sollen sich nicht selbst rächen (vergleiche Römer 12,19).
+> Vers 30: „Die Rache gehört mir.“ Das ist ein Zitat aus 5. Mose 32,35–36. Es heißt auch: Menschen sollen sich nicht selbst rächen (vergleiche Römer 12,19).
 
 ---
 
@@ -179,7 +179,7 @@ die glauben und ihr Leben retten.
 
 > **Was bedeutet das?**
 > Vers 32–34: Die Gemeinde hatte schon Verfolgung erlebt. Manche wurden beschimpft, andere verloren ihren Besitz. Und sie haben Gefangene besucht. Der Verfasser erinnert sie an ihren Mut.
-> Vers 37–38 zitiert Habakuk 2,3–4 in der Form der alten griechischen Übersetzung. „Der Gerechte wird aus Glauben leben“: Das zitiert auch Paulus (Römer 1,17).
+> Vers 37–38 zitiert Habakuk 2,3–4 in der Form der alten griechischen Übersetzung. Auch Paulus zitiert diese Worte: „Der Gerechte aber wird aus Glauben leben“ (Römer 1,17).
 > Vers 39: Ein ermutigender Schluss: Ihr gehört zu denen, die vertrauen.
 
 ---

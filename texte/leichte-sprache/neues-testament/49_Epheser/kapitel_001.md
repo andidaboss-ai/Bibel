@@ -79,7 +79,7 @@ zum Lob seiner Herrlichkeit.
 > Vers 3–14 ist im Griechischen ein einziger, sehr langer Satz, ein großer Lobgesang auf Gott. Wir haben ihn in kurze Sätze aufgeteilt.
 > Vers 4–5: „Erwählt“ und „im Voraus bestimmt“: Gottes Liebe zu uns war schon da, bevor wir lebten. Über diese Worte haben Christen viel nachgedacht und verschieden gedacht. Hier sollen sie vor allem trösten: Wir sind von Gott gewollt.
 > Vers 10: Gott will alles, was zerbrochen und getrennt ist, in Christus wieder zusammenführen.
-> Vers 12–13: „Wir, die wir schon früher gehofft haben“ meint wohl die Christen jüdischer Herkunft. „Auch ihr“ meint die Christen aus den Völkern. Beide gehören zusammen.
+> Vers 12–13: „Wir, die wir schon früher auf Christus gehofft haben“ meint wohl die Christen jüdischer Herkunft. „Auch ihr“ meint die Christen aus den Völkern. Beide gehören zusammen.
 > Vers 13–14: Der Heilige Geist ist wie ein Siegel und wie eine Anzahlung: Er zeigt, dass wir zu Gott gehören, und er garantiert, dass Gott sein Versprechen ganz erfüllen wird.
 
 ---
@@ -122,7 +122,7 @@ die Fülle dessen,
 der alles in allem erfüllt.
 
 > **Was bedeutet das?**
-> Vers 18: „Die Augen des Herzens“: Es gibt Dinge, die man nicht mit den Augen sieht, sondern nur mit dem Herzen erkennt.
+> Vers 18: „Die Augen eures Herzens“: Es gibt Dinge, die man nicht mit den Augen sieht, sondern nur mit dem Herzen erkennt.
 > Vers 20: „Zur Rechten Gottes“ ist ein Bild: Christus hat die höchste Ehre und Macht (vergleiche Psalm 110,1).
 > Vers 21: Christus steht über allen Mächten, die Menschen Angst machen.
 > Vers 22 nimmt Psalm 8,7 auf (in manchen Bibeln 8,6).

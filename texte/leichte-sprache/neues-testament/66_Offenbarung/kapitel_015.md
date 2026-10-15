@@ -63,7 +63,7 @@ Niemand konnte in den Tempel hineingehen,
 bis die sieben Plagen der sieben Engel zu Ende waren.
 
 > **Was bedeutet das?**
-> Vers 5: „Das Zelt des Zeugnisses“ war das heilige Zelt in der Wüste. Darin war die Bundeslade mit den Zehn Geboten (2. Mose 40).
+> Vers 5: Mit dem „Zelt des Zeugnisses“ ist das heilige Zelt in der Wüste gemeint. Darin war die Bundeslade mit den Zehn Geboten (2. Mose 40).
 > Vers 8: Der Rauch erinnert daran, wie Gottes Herrlichkeit das heilige Zelt und später den Tempel erfüllt hat (2. Mose 40,34–35 und 1. Könige 8,10–11). Gott ist ganz nah, aber auch heilig und unnahbar.
 > Die Schalen werden im nächsten Kapitel ausgegossen. Wieder gilt: Das sind Bilder für Gottes Nein zum Bösen, keine Erlaubnis für Menschen, andere zu bestrafen.
 

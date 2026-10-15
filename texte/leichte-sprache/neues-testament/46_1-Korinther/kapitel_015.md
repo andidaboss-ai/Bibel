@@ -129,7 +129,7 @@ damit Gott alles in allem ist.
 > **Was bedeutet das?**
 > Vers 20: „Der Erste“: Das WEB sagt „first fruit“, die erste Frucht der Ernte. Die erste Frucht ist das Zeichen, dass die ganze Ernte kommt. So ist die Auferstehung von Jesus das Zeichen, dass auch wir auferstehen werden.
 > Vers 21–22: Adam steht für den Menschen, der stirbt. Christus steht für den neuen Menschen, der lebt.
-> Vers 26: „Der letzte Feind ist der Tod.“ Am Ende wird Gott auch den Tod besiegen.
+> Vers 26: „Der letzte Feind, der beseitigt wird, ist der Tod.“ Am Ende wird Gott auch den Tod besiegen.
 > Vers 25 erinnert an Psalm 110,1. Vers 27 zitiert Psalm 8,7 (in manchen Bibeln 8,6).
 > Vers 28: „Damit Gott alles in allem ist“: Am Ende wird Gott ganz und gar alles erfüllen.
 

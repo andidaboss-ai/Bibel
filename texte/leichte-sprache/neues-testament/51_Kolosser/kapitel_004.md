@@ -103,11 +103,11 @@ Die Gnade sei mit euch.
 Amen.
 
 > **Was bedeutet das?**
-> Vers 9: Onesimus war ein Sklave aus Kolossä. Von ihm erzählt der Brief an Philemon. Hier heißt er „treuer und geliebter Bruder“. In der Gemeinde ist er ein gleichwertiger Bruder.
+> Vers 9: Onesimus war ein Sklave aus Kolossä. Von ihm erzählt der Brief an Philemon. Hier steht: Tychikus kommt „zusammen mit Onesimus, dem treuen und geliebten Bruder“. In der Gemeinde ist er ein gleichwertiger Bruder.
 > Vers 10: Markus hatte sich früher von Paulus getrennt (Apostelgeschichte 15,37–39). Jetzt sind sie wieder versöhnt. Viele verbinden ihn mit dem Markusevangelium.
 > Vers 11: „Jesus“ war damals ein häufiger jüdischer Name. Paulus freut sich über jüdische Mitarbeiter, die zu ihm halten.
 > Vers 14: Lukas war Arzt. Die Tradition sieht in ihm den Verfasser des Lukasevangeliums und der Apostelgeschichte.
-> Vers 15: Das WEB sagt „Nymphas … his house“. In manchen alten Handschriften steht „Nympha“ und „in ihrem Haus“. Dann war es eine Frau, die eine Hausgemeinde leitete.
+> Vers 15: Hier steht „Nymphas und die Gemeinde in seinem Haus“, so wie im WEB. In manchen alten Handschriften steht „Nympha“ und „in ihrem Haus“. Dann war es eine Frau, die eine Hausgemeinde leitete.
 > Vers 16: Briefe wurden im Gottesdienst laut vorgelesen und an andere Gemeinden weitergegeben. Der „Brief aus Laodizea“ ist uns nicht erhalten. Manche Ausleger meinen, damit könnte der Epheserbrief gemeint sein.
 > Vers 18: Paulus diktierte seine Briefe meistens. Den Schlussgruß schrieb er selbst, als Zeichen, dass der Brief echt ist.
 

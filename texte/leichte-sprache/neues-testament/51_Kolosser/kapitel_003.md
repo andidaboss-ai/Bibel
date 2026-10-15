@@ -114,7 +114,7 @@ durch ihn.
 > Vers 13: Vergeben ist schwer. Aber wir können vergeben, weil Christus uns vergeben hat.
 > Wichtig: Vergebung heißt nicht, dass man Unrecht oder Gewalt weiter hinnehmen muss. Man darf sich schützen. Und Vergebung braucht oft Zeit.
 > Vers 14: Die Liebe ist wie ein Gürtel, der alles zusammenhält.
-> Vers 15: „Der Frieden soll bestimmen“: Das griechische Wort meint einen Schiedsrichter. Wenn es Streit gibt, soll der Frieden Gottes entscheiden.
+> Vers 15: „Der Frieden Gottes soll in euren Herzen bestimmen“: Das griechische Wort meint einen Schiedsrichter. Wenn es Streit gibt, soll der Frieden Gottes entscheiden.
 > Vers 17: Der ganze Alltag kann ein Gottesdienst sein, nicht nur der Sonntag.
 
 ---

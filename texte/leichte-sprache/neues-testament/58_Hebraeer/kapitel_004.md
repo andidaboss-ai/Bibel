@@ -50,9 +50,9 @@ in diese Ruhe hineinzukommen,
 damit niemand durch das gleiche Beispiel des Ungehorsams fällt.
 
 > **Was bedeutet das?**
-> Vers 4 nimmt 1. Mose 2,2 auf: „Am siebten Tag ruhte Gott von all seiner Arbeit.“ Gott hat nach der Schöpfung geruht. Darum ist der Sabbat ein Ruhetag.
+> Vers 4 nimmt 1. Mose 2,2 auf: „Am siebten Tag ruhte er von all seiner Arbeit, die er getan hatte.“ Gott hat nach der Schöpfung geruht. Darum ist der Sabbat ein Ruhetag.
 > Vers 8: Josua führte das Volk Israel in das gelobte Land. Aber das war noch nicht die ganze Ruhe, die Gott schenken will.
-> Vers 9: „Eine Sabbatruhe für das Volk Gottes“: Der Sabbat ist ein Vorgeschmack auf die vollkommene Ruhe bei Gott. Für Juden ist der Sabbat bis heute ein großes Geschenk Gottes. Viele Christen feiern den Sonntag als Ruhetag.
+> Vers 9: „Es bleibt also für das Volk Gottes noch eine Sabbatruhe“: Der Sabbat ist ein Vorgeschmack auf die vollkommene Ruhe bei Gott. Für Juden ist der Sabbat bis heute ein großes Geschenk Gottes. Viele Christen feiern den Sonntag als Ruhetag.
 > Vers 10: Gottes Ruhe heißt: Frieden bei Gott, Ruhe von aller Mühe und Angst. Wir müssen uns Gottes Liebe nicht verdienen.
 > Für heute: Auch heute brauchen Menschen Ruhe. Regelmäßige Pausen und ein freier Tag in der Woche sind ein Geschenk Gottes.
 
@@ -95,6 +95,6 @@ wenn wir sie brauchen.
 
 > **Was bedeutet das?**
 > Vers 15 ist ein großer Trost: Jesus versteht uns. Er kennt Schwäche, Versuchung, Angst und Schmerz aus eigener Erfahrung.
-> Vers 16: „Der Thron der Gnade“: Gottes Thron ist kein Ort, vor dem wir Angst haben müssen. Wir dürfen mutig und vertrauensvoll zu Gott kommen, gerade wenn wir Hilfe brauchen.
+> Vers 16: „Lasst uns also mit Zuversicht zum Thron der Gnade gehen“: Gottes Thron ist kein Ort, vor dem wir Angst haben müssen. Wir dürfen mutig und vertrauensvoll zu Gott kommen, gerade wenn wir Hilfe brauchen.
 
 ---

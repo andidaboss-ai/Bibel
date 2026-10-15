@@ -25,7 +25,7 @@ durch die Erkenntnis Gottes
 und unseres Herrn Jesus.
 
 > **Was bedeutet das?**
-> Vers 1: „Denselben kostbaren Glauben wie wir“: Die Leser haben Jesus nicht selbst gesehen. Aber ihr Glaube ist genauso wertvoll wie der Glaube der Apostel.
+> Vers 1: Der Brief geht an alle, „die denselben kostbaren Glauben bekommen haben wie wir“. Die Leser haben Jesus nicht selbst gesehen. Aber ihr Glaube ist genauso wertvoll wie der Glaube der Apostel.
 
 ---
 

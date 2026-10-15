@@ -111,7 +111,7 @@ und hielt den Wahnsinn des Propheten auf.
 
 > **Was bedeutet das?**
 > Vers 10–11: „Mächte der Herrlichkeit“ sind wohl Engelmächte. Der Brief sagt: Sogar die Engel reden nicht respektlos. Die falschen Lehrer aber spotten über alles.
-> Vers 13: „Während sie mit euch feiern“: Gemeint sind die gemeinsamen Mahlzeiten der Gemeinde. Die falschen Lehrer sitzen mit am Tisch und nutzen die Gemeinschaft aus.
+> Vers 13: „Während sie mit euch zusammen feiern und essen“: Gemeint sind die gemeinsamen Mahlzeiten der Gemeinde. Die falschen Lehrer sitzen mit am Tisch und nutzen die Gemeinschaft aus.
 > Vers 15–16 erinnert an Bileam und seine sprechende Eselin (4. Mose 22). Bileam ließ sich für Geld anwerben. Ausgerechnet ein Tier hat mehr gesehen als der Prophet.
 
 ---

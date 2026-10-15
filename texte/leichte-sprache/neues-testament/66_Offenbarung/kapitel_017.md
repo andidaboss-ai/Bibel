@@ -110,11 +110,11 @@ Und die mit ihm sind,
 sind berufen, auserwählt und treu.“
 
 > **Was bedeutet das?**
-> Vers 8: „Es war und ist nicht und wird wieder da sein“ ist eine böse Nachahmung von Gott, der „ist und war und kommt“ (1,8). Das Tier tut so, als wäre es ewig. Aber sein Ende ist das Verderben.
+> Vers 8: Vom Tier heißt es, dass es „war und nicht ist und wieder da sein wird“. Das ist eine böse Nachahmung von Gott, „der ist und der war und der kommt“ (1,8). Das Tier tut so, als wäre es ewig. Aber sein Ende ist das Verderben.
 > Vers 9: Rom ist berühmt als die Stadt auf sieben Hügeln. Für die ersten Leser war das ein klarer Hinweis.
 > Vers 10–11: Die sieben Könige sind wohl römische Kaiser. Wer genau gemeint ist, darüber gibt es viele Vermutungen. Wichtig ist: Ihre Zeit ist begrenzt.
 > Vers 12: „Eine Stunde“: Ihre Macht ist ganz kurz.
-> Vers 14: Das ist die Hauptbotschaft: Das Lamm siegt. Jesus ist „Herr der Herren und König der Könige“, nicht der Kaiser. Und alle, die zu ihm gehören, sind dabei.
+> Vers 14: Das ist die Hauptbotschaft: Das Lamm siegt. Jesus ist „der Herr der Herren und der König der Könige“, nicht der Kaiser. Und alle, die zu ihm gehören, sind dabei.
 
 ---
 

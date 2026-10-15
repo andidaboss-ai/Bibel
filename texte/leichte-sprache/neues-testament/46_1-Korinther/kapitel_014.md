@@ -217,7 +217,7 @@ in anderen Sprachen zu reden.
 
 > **Was bedeutet das?**
 > Vers 26: Im Gottesdienst damals konnte jeder etwas beitragen. Das Ziel war immer: einander aufbauen.
-> Vers 33: „Gott ist ein Gott des Friedens“, nicht der Unordnung. Darum soll es im Gottesdienst geordnet zugehen.
+> Vers 33: „Gott ist nicht ein Gott der Unordnung, sondern des Friedens.“ Darum soll es im Gottesdienst geordnet zugehen.
 > Vers 34–35 gehören zu den umstrittensten Versen der Bibel. Wichtig ist:
 > In Kapitel 11,5 setzt Paulus voraus, dass Frauen im Gottesdienst beten und prophezeien. Das passt nicht zu einem völligen Schweigegebot.
 > Das WEB setzt einen Teil von Vers 35 in Anführungszeichen. Manche Ausleger meinen: Paulus zitiert hier eine Meinung aus Korinth und widerspricht ihr in Vers 36 („Was?“).

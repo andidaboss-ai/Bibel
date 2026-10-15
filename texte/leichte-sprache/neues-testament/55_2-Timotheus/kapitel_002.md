@@ -112,7 +112,7 @@ bereit für jedes gute Werk.
 > Vers 14: Streit um Worte hilft niemandem. Er schadet nur.
 > Vers 15: Wer das Wort Gottes auslegt, soll es sorgfältig und ehrlich tun, wie ein guter Handwerker.
 > Vers 18: Hymenäus und Philetus lehrten: Die Auferstehung ist schon geschehen, nur geistlich. Damit leugneten sie die Hoffnung auf eine künftige Auferstehung.
-> Vers 19: Der erste Satz erinnert an 4. Mose 16,5. Dort sagt Mose: „Der HERR wird zeigen, wer zu ihm gehört.“ Gott kennt die Seinen, auch wenn Menschen sich irren.
+> Vers 19: Der erste Satz erinnert an 4. Mose 16,5. Dort sagt Mose: „Morgen wird der HERR zeigen, wer zu ihm gehört.“ Gott kennt die Seinen, auch wenn Menschen sich irren.
 > Vers 20–21: Ein Bild aus dem Haushalt: Es gibt wertvolles Geschirr und einfaches. Aber jeder Mensch kann ein „Gefäß“ werden, das Gott gebrauchen kann.
 
 ---

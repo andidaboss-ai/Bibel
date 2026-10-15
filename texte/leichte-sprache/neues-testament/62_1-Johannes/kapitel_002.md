@@ -20,7 +20,7 @@ sondern auch die Sünden der ganzen Welt.
 > **Was bedeutet das?**
 > „Meine lieben Kinder“: So spricht ein alter Lehrer liebevoll zu seiner Gemeinde.
 > Vers 1: Ein „Beistand“ ist jemand, der für einen anderen eintritt, wie ein guter Anwalt. Wer Fehler macht, ist nicht allein. Jesus tritt bei Gott für ihn ein.
-> Vers 2: „Für die ganze Welt“: Was Jesus getan hat, gilt nicht nur für eine kleine Gruppe, sondern für alle Menschen.
+> Vers 2: „Nicht nur unsere Sünden, sondern auch die Sünden der ganzen Welt“: Was Jesus getan hat, gilt nicht nur für eine kleine Gruppe, sondern für alle Menschen.
 
 ---
 

@@ -57,7 +57,7 @@ und doch alles besitzen.
 > Vers 2 zitiert Jesaja 49,8. Paulus sagt: Die Zeit, von der der Prophet sprach, ist jetzt gekommen. Jetzt ist die Zeit, Gottes Gnade anzunehmen.
 > Vers 4–10: Paulus beschreibt sein Leben als Apostel: voller Not, aber getragen von Gott. Er zeigt Gegensätze: Was von außen wie Niederlage aussieht, ist in Wahrheit Reichtum.
 > Vers 7: „Waffen der Gerechtigkeit“ ist ein Bild. Gemeint sind Wahrheit und Gerechtigkeit, keine echten Waffen.
-> Vers 10: „Traurig, aber immer fröhlich“: Christen dürfen traurig sein. Aber unter der Traurigkeit liegt eine tiefe Freude, die von Gott kommt.
+> Vers 10: „Als Traurige, aber immer fröhlich“: Christen dürfen traurig sein. Aber unter der Traurigkeit liegt eine tiefe Freude, die von Gott kommt.
 
 ---
 

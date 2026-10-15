@@ -30,7 +30,7 @@ damit sein Geist gerettet wird
 am Tag des Herrn Jesus.
 
 > **Was bedeutet das?**
-> Vers 1: „Die Frau seines Vaters“ war wohl seine Stiefmutter. Eine solche Verbindung war im Gesetz Israels verboten (3. Mose 18,8) und auch nach römischem Recht.
+> Vers 1: „Einer lebt mit der Frau seines Vaters.“ Gemeint ist wohl seine Stiefmutter. Eine solche Verbindung war im Gesetz Israels verboten (3. Mose 18,8) und auch nach römischem Recht.
 > Vers 2: Paulus tadelt nicht nur den Mann, sondern vor allem die Gemeinde. Sie war stolz auf ihre „Freiheit“ und hat weggeschaut.
 > Vers 5: „Dem Satan übergeben“ ist ein schwieriges Wort. Gemeint ist wohl: Der Mann soll aus der Gemeinschaft der Gemeinde ausgeschlossen werden. Er soll draußen merken, was er verloren hat. Das Ziel ist nicht seine Vernichtung, sondern seine Rettung: „damit sein Geist gerettet wird“.
 > Wichtig: Dieser Vers ist keine Erlaubnis, Menschen Gewalt anzutun, sie zu verfluchen oder ihnen zu schaden. Das Ziel ist Umkehr und Rettung.

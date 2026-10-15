@@ -26,7 +26,7 @@ damit ihr nicht müde werdet
 und den Mut verliert.
 
 > **Was bedeutet das?**
-> Vers 1: „Eine Wolke von Zeugen“: Das sind die Glaubenden aus Kapitel 11. Sie sind wie Zuschauer im Stadion, die uns anfeuern.
+> Vers 1: Wir sind „von einer so großen Wolke von Zeugen umgeben“. Das sind die Glaubenden aus Kapitel 11. Sie sind wie Zuschauer im Stadion, die uns anfeuern.
 > Ein Bild aus dem Sport: Wer einen langen Lauf machen will, legt alles ab, was schwer ist.
 > Vers 2: „Schaut auf Jesus“: Er ist den Weg schon gegangen und kennt das Ziel.
 > Vers 3: Wenn wir müde werden, dürfen wir an Jesus denken. Er hat auch viel ertragen.
@@ -180,7 +180,7 @@ mit Ehrfurcht und Scheu.
 > Wichtig: Beides, Sinai und Zion, gehört zu Gottes Geschichte mit Israel. Der Brief stellt nicht Judentum und Christentum gegeneinander, sondern zwei Bilder für Gottes Nähe: Ehrfurcht und Freude.
 > Vers 24: Das Blut Abels schrie nach Rache (1. Mose 4,10). Das Blut von Jesus spricht von Vergebung und Versöhnung.
 > Vers 26 zitiert Haggai 2,6.
-> Vers 28: „Ein Reich, das nicht erschüttert werden kann“: Vieles in der Welt wackelt. Aber Gottes Reich bleibt fest.
+> Vers 28: Wir empfangen ein Reich, „das nicht erschüttert werden kann“. Vieles in der Welt wackelt. Aber Gottes Reich bleibt fest.
 > Vers 29 nimmt 5. Mose 4,24 auf. Gott ist heilig und mächtig. Das Bild vom Feuer zeigt seine reinigende Kraft.
 
 ---

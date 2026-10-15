@@ -145,7 +145,7 @@ hütet euch vor den Götzen.
 
 > **Was bedeutet das?**
 > Vers 18: Zu „sündigt nicht“ siehe den Hinweis bei Kapitel 3: Gemeint ist, nicht dauerhaft und gewollt im Bösen zu leben.
-> Vers 18: In manchen Handschriften heißt es: „Der aus Gott geboren ist, bewahrt ihn.“ Dann ist Jesus gemeint, der die Glaubenden beschützt.
+> Vers 18: Hier steht: „Der aus Gott geboren ist, bewahrt sich.“ In manchen Handschriften heißt es: Er bewahrt ihn. Dann ist Jesus gemeint, der die Glaubenden beschützt.
 > Vers 20: Hier wird Jesus wohl „der wahre Gott“ genannt. Manche verstehen den Satz auch so, dass Gott, der Vater, gemeint ist.
 > Vers 21: Der letzte Satz: „Götzen“ sind alles, was man an die Stelle Gottes setzt, zum Beispiel Geld, Macht oder ein falsches Bild von Jesus.
 

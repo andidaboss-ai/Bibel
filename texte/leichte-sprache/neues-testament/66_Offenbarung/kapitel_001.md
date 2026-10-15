@@ -116,7 +116,7 @@ und nach Laodizea.“
 
 > **Was bedeutet das?**
 > Vers 9: Patmos ist eine kleine Insel im Mittelmeer. Johannes war wohl dorthin verbannt worden, weil er von Jesus erzählt hat.
-> Vers 10: „Der Tag des Herrn“ ist der Sonntag, der Tag, an dem Jesus auferstanden ist. Die Christen feierten an diesem Tag Gottesdienst.
+> Vers 10: „Am Tag des Herrn“: Gemeint ist der Sonntag, der Tag, an dem Jesus auferstanden ist. Die Christen feierten an diesem Tag Gottesdienst.
 > Vers 11: Die sieben Städte liegen im Westen der heutigen Türkei. Ein Bote konnte sie auf einer Rundreise der Reihe nach besuchen.
 
 ---
@@ -168,7 +168,7 @@ Die sieben Sterne sind die Engel der sieben Gemeinden.
 Und die sieben Leuchter sind die sieben Gemeinden.“
 
 > **Was bedeutet das?**
-> Vers 13: „Einer wie ein Menschensohn“ erinnert an Daniel 7,13. Gemeint ist Jesus.
+> Vers 13: „Einer, der aussah wie ein Menschensohn“ erinnert an Daniel 7,13. Gemeint ist Jesus.
 > Vers 14: Die weißen Haare erinnern an Gott, den „Alten an Tagen“, in Daniel 7,9. Jesus wird hier mit der Herrlichkeit Gottes beschrieben.
 > Vers 16: Das Schwert aus dem Mund ist kein echtes Schwert. Es ist ein Bild für sein Wort. Jesus kämpft nicht mit Waffen, sondern mit der Wahrheit.
 > Vers 17: „Hab keine Angst“: Das ist das Erste, was Jesus sagt. Seine Hand auf Johannes ist eine Geste der Zuwendung.

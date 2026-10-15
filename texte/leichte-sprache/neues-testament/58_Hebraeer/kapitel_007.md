@@ -4,7 +4,7 @@
 ---
 
 > **Wichtiger Hinweis vorab**
-> In diesem Kapitel vergleicht der Hebräerbrief das Priesteramt im Tempel mit Jesus. Dabei fallen harte Worte über das Gesetz (Vers 18–19). Diese Worte sind keine Verachtung des jüdischen Glaubens. Für Juden ist die Tora, das Gesetz Gottes, bis heute ein kostbares Geschenk. Auch Paulus sagt: „Das Gesetz ist heilig“ (Römer 7,12). Der Brief will zeigen, wie groß Jesus für Christen ist, nicht Israel herabsetzen.
+> In diesem Kapitel vergleicht der Hebräerbrief das Priesteramt im Tempel mit Jesus. Dabei fallen harte Worte über das Gesetz (Vers 18–19). Diese Worte sind keine Verachtung des jüdischen Glaubens. Für Juden ist die Tora, das Gesetz Gottes, bis heute ein kostbares Geschenk. Auch Paulus sagt: „Also ist das Gesetz heilig“ (Römer 7,12). Der Brief will zeigen, wie groß Jesus für Christen ist, nicht Israel herabsetzen.
 
 ---
 

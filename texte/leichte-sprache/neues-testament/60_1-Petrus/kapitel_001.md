@@ -154,9 +154,9 @@ Das ist das Wort der guten Nachricht,
 die euch verkündet worden ist.
 
 > **Was bedeutet das?**
-> Vers 16 zitiert 3. Mose 11,44–45 und 19,2: „Ihr sollt heilig sein, denn ich bin heilig.“ Dieses Wort galt zuerst Israel. Der Brief lädt auch die Christen aus den Völkern ein, so zu leben.
-> Vers 18: „Die leere Lebensweise der Väter“: Die meisten Empfänger hatten früher andere Götter verehrt. Gemeint ist dieses frühere Leben, nicht der jüdische Glaube.
-> Vers 19: „Wie ein Lamm ohne Fehler“: Ein Bild aus dem Passafest (2. Mose 12) und aus Jesaja 53.
+> Vers 16: „Ihr sollt heilig sein, denn ich bin heilig.“ Das ist ein Zitat aus 3. Mose 11,44–45 und 19,2. Dieses Wort galt zuerst Israel. Der Brief lädt auch die Christen aus den Völkern ein, so zu leben.
+> Vers 18: „Von der leeren Lebensweise, die euch eure Väter überliefert haben“: Die meisten Empfänger hatten früher andere Götter verehrt. Gemeint ist dieses frühere Leben, nicht der jüdische Glaube.
+> Vers 19: „Wie von einem Lamm ohne Fehler und ohne Makel“: Ein Bild aus dem Passafest (2. Mose 12) und aus Jesaja 53.
 > Vers 22: Liebe soll „von Herzen“ kommen, nicht nur aus Pflicht.
 > Vers 24–25 zitiert Jesaja 40,6–8. Menschen und ihr Ruhm vergehen, aber Gottes Wort bleibt.
 

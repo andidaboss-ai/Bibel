@@ -228,7 +228,7 @@ damit sie nicht ohne uns vollendet würden.
 
 > **Was bedeutet das?**
 > Vers 32: Diese Personen stehen in den Büchern der Richter und Samuel. Sie waren keine perfekten Menschen. Simson und Jiftach haben auch schlimme Dinge getan. Jiftachs Gelübde kostete seiner Tochter das Leben (Richter 11). Das war großes Unrecht. Der Brief lobt nicht alles, was sie getan haben, sondern ihr Vertrauen auf Gott.
-> Vers 33: „Den Löwen den Rachen gestopft“ erinnert an Daniel in der Löwengrube (Daniel 6). „Die Macht des Feuers gelöscht“ erinnert an die drei Männer im Feuerofen (Daniel 3).
+> Vers 33–34: Hier steht: „den Löwen den Rachen gestopft“ und „die Macht des Feuers gelöscht“. Das erste erinnert an Daniel in der Löwengrube (Daniel 6). Das zweite erinnert an die drei Männer im Feuerofen (Daniel 3).
 > Vers 35: Frauen bekamen ihre Toten zurück, zum Beispiel durch die Propheten Elia und Elisa (1. Könige 17, 2. Könige 4).
 > Vers 35–38: Viele Glaubende Israels wurden verfolgt, gefoltert und getötet, zum Beispiel in der Zeit der Makkabäer. Auch heute werden Menschen wegen ihres Glaubens verfolgt.
 > Vers 40: Die Glaubenden aus Israel und die Christen gehören zusammen. Gemeinsam warten sie auf die Vollendung durch Gott.

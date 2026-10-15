@@ -146,7 +146,7 @@ sei mit euch allen.
 Amen.
 
 > **Was bedeutet das?**
-> Vers 22: „Das Haus des Kaisers“ meint nicht die Familie des Kaisers. Es meint Sklaven und Beamte im Dienst des Kaisers. Schon damals gab es dort Christen. Die gute Nachricht hat auch Menschen in der Nähe der Macht erreicht.
+> Vers 22: „Die aus dem Haus des Kaisers“: Damit ist nicht die Familie des Kaisers gemeint. Gemeint sind Sklaven und Beamte im Dienst des Kaisers. Schon damals gab es dort Christen. Die gute Nachricht hat auch Menschen in der Nähe der Macht erreicht.
 
 ---
 

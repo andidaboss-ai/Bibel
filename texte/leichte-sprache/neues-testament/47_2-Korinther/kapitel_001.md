@@ -139,6 +139,6 @@ Denn im Glauben steht ihr fest.
 
 > **Was bedeutet das?**
 > Vers 15–17: Paulus hatte seine Reisepläne geändert. Manche in Korinth warfen ihm vor, er sei unzuverlässig. Paulus erklärt: Ich wollte euch schonen (Vers 23).
-> Vers 20: „In Jesus ist das Ja“: Alle Versprechen Gottes werden in Jesus erfüllt. Darum sagen Christen „Amen“, das heißt „So ist es“.
+> Vers 20: „In ihm ist das ‚Ja‘“: Gemeint ist Jesus. Alle Versprechen Gottes werden in Jesus erfüllt. Darum sagen Christen „Amen“, das heißt „So ist es“.
 > Vers 22: „Anzahlung“: Das WEB sagt „down payment“. Der Heilige Geist ist wie eine erste Rate. Er garantiert, dass Gott sein ganzes Versprechen erfüllen wird.
 > Vers 24: „Wir wollen nicht über euren Glauben herrschen.“ Leiter in der Kirche sollen nicht über Menschen bestimmen, sondern ihnen zur Freude dienen.

@@ -36,7 +36,7 @@ und das sogar eure Brüder.
 
 > **Was bedeutet das?**
 > Vers 1: Die Christen in Korinth trugen kleine Streitigkeiten, zum Beispiel um Geld, vor die römischen Gerichte. Paulus findet: Christen sollen ihre Streitigkeiten untereinander friedlich lösen.
-> Vers 2–3: „Die Heiligen werden die Welt richten“: Paulus meint die Zukunft, wenn Gottes Reich kommt.
+> Vers 2–3: Paulus schreibt, „dass die Heiligen die Welt richten werden“. Er meint die Zukunft, wenn Gottes Reich kommt.
 > Vers 7: Paulus sagt: Lieber Unrecht leiden als Unrecht tun.
 > Wichtig: Dieser Text geht um kleine Streitigkeiten. Er heißt nicht, dass Straftaten wie Gewalt oder Missbrauch in der Gemeinde geregelt werden sollen. Solche Taten gehören vor die Polizei und vor ein staatliches Gericht. Das schützt die Opfer. Notruf: 110.
 > Für heute: Viele Kirchen bieten Streitschlichtung und Mediation an.
@@ -71,7 +71,7 @@ und durch den Geist unseres Gottes.
 > Vers 9: Zwei griechische Wörter in diesem Vers sind schwer zu übersetzen. Das WEB übersetzt sie mit „male prostitutes“ (männliche Prostituierte) und „homosexuals“ (Homosexuelle). Das erste Wort („malakoi“) heißt wörtlich „die Weichen“. Das zweite Wort („arsenokoitai“) heißt etwa „Männer, die mit Männern schlafen“. Es kommt vor Paulus in keinem bekannten Text vor. Das Wort „homosexuell“ gibt es erst seit dem 19. Jahrhundert. Darum übersetzen andere Bibeln diese Wörter ganz verschieden.
 > Die Kirchen verstehen diese Stelle heute verschieden. Manche sehen darin eine bleibende Weisung gegen gleichgeschlechtliche Sexualität. Andere sagen: Paulus meinte Ausbeutung, Prostitution und den Missbrauch von Jungen, wie es ihn damals gab, nicht liebevolle, treue Partnerschaften, wie wir sie heute kennen. Über diese Frage wird in vielen Kirchen ernsthaft gerungen.
 > Sehr wichtig: Dieser Text gibt niemandem das Recht, Menschen zu verachten, zu beschimpfen oder Gewalt gegen sie anzuwenden. Jeder Mensch hat die gleiche Würde vor Gott. Wer wegen seiner sexuellen Orientierung Ausgrenzung oder Gewalt erlebt, findet Hilfe bei der Telefonseelsorge (0800 111 0 111 oder 0800 111 0 222), junge Menschen auch bei der Nummer gegen Kummer (116 111). Im Notfall: 110.
-> Vers 11 ist der Kern: „Ihr seid reingewaschen, geheiligt, gerecht gemacht.“ Gott verändert Menschen. Niemand ist von seiner Gnade ausgeschlossen.
+> Vers 11 ist der Kern: „Aber ihr seid reingewaschen worden. Ihr seid geheiligt worden. Ihr seid gerecht gemacht worden.“ Gott verändert Menschen. Niemand ist von seiner Gnade ausgeschlossen.
 
 ---
 
@@ -122,6 +122,6 @@ die Gott gehören.
 > Vers 12–13 und 18: Die Sätze in Anführungszeichen waren wohl Sprüche, die man in Korinth sagte. Manche meinten: Der Körper ist unwichtig, man darf mit ihm alles tun. Paulus widerspricht.
 > Vers 13–14: Der Körper ist nicht wertlos. Gott wird uns auch mit dem Körper auferwecken.
 > Vers 15–16: In Korinth gab es viel Prostitution. Vers 16 zitiert 1. Mose 2,24. Sexualität verbindet Menschen tief miteinander. Sie ist nichts Nebensächliches.
-> Vers 19: „Euer Körper ist ein Tempel des Heiligen Geistes.“ Jeder Mensch darf seinen Körper wertschätzen und gut für ihn sorgen.
+> Vers 19: Paulus schreibt, „dass euer Körper ein Tempel des Heiligen Geistes ist“. Jeder Mensch darf seinen Körper wertschätzen und gut für ihn sorgen.
 > Vers 20: „Teuer erkauft“: Damals wurden Sklaven freigekauft. Jesus hat uns mit seinem Leben freigekauft.
 > Wichtig: Viele Menschen in der Prostitution werden ausgebeutet oder sind Opfer von Menschenhandel. Sie verdienen Schutz und Hilfe, keine Verachtung. Hilfe gibt es beim Hilfetelefon Gewalt gegen Frauen: 116 016.

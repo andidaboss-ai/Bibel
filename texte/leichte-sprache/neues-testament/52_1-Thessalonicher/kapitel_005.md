@@ -94,7 +94,7 @@ und haltet am Guten fest.
 > Vers 14: Jeder Mensch braucht etwas anderes: Manche brauchen ein klares Wort, andere Ermutigung, andere Unterstützung. Und alle brauchen Geduld.
 > Vers 15: Nicht Böses mit Bösem vergelten: Das hat Jesus gelehrt (Matthäus 5,38–48). Es gilt „für alle“, nicht nur für Christen.
 > Vers 16–18: Drei kurze Sätze: Freude, Gebet, Dank. „Ohne Unterlass beten“ heißt nicht, den ganzen Tag Gebete zu sprechen. Es heißt: im ganzen Leben mit Gott verbunden sein.
-> Vers 18: „In allen Dingen danken“ heißt nicht, für alles Schlimme dankbar sein zu müssen. Es heißt: Auch in schweren Zeiten gibt es Grund zum Dank, weil Gott bei uns ist.
+> Vers 18: „Dankt in allen Dingen“ heißt nicht, für alles Schlimme dankbar sein zu müssen. Es heißt: Auch in schweren Zeiten gibt es Grund zum Dank, weil Gott bei uns ist.
 > Vers 19–21: Der Heilige Geist wirkt in der Gemeinde. Prophetische Worte soll man nicht verachten, aber prüfen. Nicht alles, was jemand im Namen Gottes sagt, ist richtig.
 
 ---

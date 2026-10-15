@@ -30,7 +30,7 @@ bin ich überreich an Freude.
 > **Was bedeutet das?**
 > Vers 1: „Diese Verheißungen“ sind die Versprechen Gottes aus 6,16–18: Gott will bei seinem Volk wohnen und ihr Vater sein.
 > Vers 2: Paulus betont: Er hat niemandem geschadet und niemanden ausgenutzt. Seine Gegner hatten ihm das wohl vorgeworfen.
-> Vers 3: „Zusammen sterben und zusammen leben“: Paulus fühlt sich mit der Gemeinde ganz tief verbunden.
+> Vers 3: „Ihr seid in unseren Herzen, um zusammen zu sterben und zusammen zu leben“: Paulus fühlt sich mit der Gemeinde ganz tief verbunden.
 
 ---
 
@@ -112,7 +112,7 @@ dass ich mich in allem auf euch verlassen kann.
 
 > **Was bedeutet das?**
 > Vers 5–7: Hier geht die Geschichte aus 2,12–13 weiter. Paulus war voller Angst. Dann kam Titus mit guten Nachrichten aus Korinth: Die Gemeinde hat sich mit Paulus versöhnt.
-> Vers 6: „Gott tröstet die Niedergeschlagenen.“ Gott tröstet oft durch andere Menschen, hier durch Titus.
+> Vers 6: „Gott, der die Niedergeschlagenen tröstet, hat uns getröstet durch die Ankunft von Titus.“ Gott tröstet oft durch andere Menschen, hier durch Titus.
 > Vers 8–10: Paulus unterscheidet zwei Arten von Traurigkeit: Eine Traurigkeit, die zur Umkehr und zu einem neuen Anfang führt. Und eine Traurigkeit, die nur noch nach unten zieht.
 > Für heute: Wer von einer Traurigkeit nicht mehr loskommt, kann an einer Depression erkrankt sein. Depression ist eine Krankheit, keine Schwäche des Glaubens. Hilfe gibt es bei Ärzten, Psychotherapeuten und bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 > Vers 12: Es gab einen Menschen, der Unrecht getan hat, und einen, der Unrecht erlitten hat (vergleiche 2,5–11).

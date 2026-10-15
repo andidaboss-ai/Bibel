@@ -106,7 +106,7 @@ und dieser Tempel seid ihr.
 > Vers 11: Das Fundament der Kirche ist Jesus Christus. Alles andere baut darauf auf.
 > Vers 12–15: „Der Tag“ meint den Tag, an dem Gott alles beurteilt. Was gut gebaut ist, bleibt. Was schlecht gebaut ist, verbrennt. Aber der Mensch selbst wird gerettet. Gottes Gnade ist größer als unsere Fehler.
 > Vers 15: Die katholische Kirche sieht in diesem Vers einen Hinweis auf das „Fegefeuer“, eine Reinigung nach dem Tod. Evangelische und orthodoxe Christen verstehen den Vers meist anders. Sicher ist: Paulus spricht hier von der Prüfung der Arbeit in der Gemeinde.
-> Vers 16–17: „Ihr seid Gottes Tempel“: Hier ist die ganze Gemeinde gemeint. Wer die Gemeinde durch Streit zerstört, handelt gegen Gott.
+> Vers 16–17: „Der Tempel Gottes ist heilig, und dieser Tempel seid ihr“: Hier ist die ganze Gemeinde gemeint. Wer die Gemeinde durch Streit zerstört, handelt gegen Gott.
 
 ---
 

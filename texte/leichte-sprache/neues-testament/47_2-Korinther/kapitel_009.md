@@ -85,4 +85,4 @@ das man nicht mit Worten beschreiben kann!
 > Wichtig: Manche Prediger versprechen, dass Gott Menschen reich macht, wenn sie viel Geld an ihre Kirche geben. Das lehrt dieser Text nicht. Paulus geht es um Hilfe für Arme, nicht um Reichtum für die Geber. Niemand soll mehr geben, als er kann (8,12).
 > Vers 9 zitiert Psalm 112,9. Vers 10 erinnert an Jesaja 55,10.
 > Vers 12–14: Die Gabe verbindet Christen aus verschiedenen Völkern. Die Christen in Jerusalem danken Gott und beten für die Christen in Korinth.
-> Vers 15: „Sein Geschenk, das man nicht beschreiben kann“: Damit meint Paulus wohl Jesus Christus selbst.
+> Vers 15: „Sein Geschenk, das man nicht mit Worten beschreiben kann“: Damit meint Paulus wohl Jesus Christus selbst.

@@ -57,7 +57,7 @@ und auch zum Griechen.
 > Vers 1: Paulus dreht sich um. Eben hat er die Sünden der Welt beschrieben. Jetzt sagt er: Wer jetzt mit dem Finger auf andere zeigt, ist selbst gemeint. Niemand ist besser als die anderen.
 > Vers 4: Ein wunderschöner Satz: Gottes Güte führt zur Umkehr. Gott droht nicht zuerst, er lädt ein.
 > Vers 6 zitiert Psalm 62,13 (in manchen Bibeln 62,12) und Sprichwörter 24,12.
-> Vers 9–10: „Zuerst der Jude, dann der Grieche“: Israel hat bei Gott einen besonderen Platz. Aber Gott misst alle mit gleichem Maß.
+> Vers 9–10: „Zuerst zum Juden und auch zum Griechen“: Israel hat bei Gott einen besonderen Platz. Aber Gott misst alle mit gleichem Maß.
 > Vers 11: „Kein Ansehen der Person“: Gott bevorzugt niemanden wegen Herkunft, Reichtum oder Ansehen.
 
 ---

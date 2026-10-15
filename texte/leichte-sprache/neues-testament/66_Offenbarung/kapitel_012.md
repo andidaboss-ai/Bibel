@@ -115,9 +115,9 @@ die Gottes Gebote halten
 und am Zeugnis von Jesus festhalten.
 
 > **Was bedeutet das?**
-> Vers 14: „Adlerflügel“ erinnern an 2. Mose 19,4: Gott hat Israel getragen wie auf Adlerflügeln. „Eine Zeit, zwei Zeiten und eine halbe Zeit“ sind dreieinhalb Jahre, wie die 1 260 Tage in Vers 6. Es ist eine begrenzte Zeit.
+> Vers 14: „Eine Zeit, zwei Zeiten und eine halbe Zeit“ sind dreieinhalb Jahre, wie die 1 260 Tage in Vers 6. Es ist eine begrenzte Zeit. Die „Flügel des großen Adlers“ erinnern an 2. Mose 19,4: Gott hat Israel getragen wie auf Adlerflügeln.
 > Vers 16: Sogar die Schöpfung hilft dem Volk Gottes.
 > Vers 17: „Ihre übrigen Kinder“ sind alle, die an Jesus glauben. Der Drache greift sie an. Darum ist das Leben als Christ manchmal schwer. Aber Gott beschützt sein Volk.
-> In vielen Handschriften und Bibeln steht hier noch ein Satz: „Und der Drache stellte sich an den Strand des Meeres.“ Manchmal ist er Vers 18. In anderen Handschriften heißt es: „Und ich stellte mich an den Strand des Meeres.“ So steht es im WEB, am Anfang von Kapitel 13.
+> In vielen Handschriften und Bibeln steht hier noch ein Satz über den Drachen: Er stellte sich an den Sand am Meer. Manchmal ist das Vers 18. In anderen Handschriften steht der Satz mit „ich“. So ist es im WEB. Dort steht der Satz am Anfang von Kapitel 13: „Dann stellte ich mich an den Sand am Meer“ (13,1).
 
 ---

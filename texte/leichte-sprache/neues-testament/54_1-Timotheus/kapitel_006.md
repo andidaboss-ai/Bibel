@@ -111,7 +111,7 @@ Amen.
 
 > **Was bedeutet das?**
 > Vers 11: Sanftmut steht am Ende der Liste. Der „Kampf“ des Glaubens wird mit Sanftmut geführt, nicht mit Gewalt.
-> Vers 12: „Der gute Kampf des Glaubens“ ist ein Bild aus dem Sport. Gemeint ist der Einsatz für den Glauben. „Das gute Bekenntnis“ meint wohl das Bekenntnis bei der Taufe.
+> Vers 12: „Kämpfe den guten Kampf des Glaubens“ ist ein Bild aus dem Sport. Gemeint ist der Einsatz für den Glauben. Mit dem „guten Bekenntnis“ ist wohl das Bekenntnis bei der Taufe gemeint.
 > Vers 13: Jesus hat vor Pilatus zu seiner Sendung gestanden (Johannes 18,37). Er ist das Vorbild für alle, die ihren Glauben bekennen.
 > Vers 15–16: „König der Könige“: Kein Kaiser und kein Herrscher steht über Gott. Damals ließ sich der römische Kaiser als Gott verehren. Der Brief sagt: Gott allein gebührt diese Ehre.
 

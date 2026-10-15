@@ -66,7 +66,7 @@ durch die Kraft des Heiligen Geistes.
 > Vers 1: Wer stark ist, soll auf die Schwächeren Rücksicht nehmen. Das führt Kapitel 14 weiter.
 > Vers 3 zitiert Psalm 69,10 (in manchen Bibeln 69,9).
 > Vers 4: Die Schriften Israels, das Alte Testament, sind auch für Christen geschrieben. Sie geben Trost und Hoffnung.
-> Vers 7: „Nehmt einander an, so wie Christus euch angenommen hat.“ Ein Leitwort für jede Gemeinde.
+> Vers 7: „Nehmt einander an, so wie auch Christus euch angenommen hat.“ Ein Leitwort für jede Gemeinde.
 > Vers 8: Jesus war Jude und kam zuerst zu seinem Volk. So hat Gott seine Versprechen an Israel bestätigt.
 > Vers 9–12: Paulus zeigt mit vier Zitaten: Schon die Bibel Israels kündigt an, dass auch die anderen Völker Gott loben werden, zusammen mit Israel. Vers 9 zitiert Psalm 18,50 (in manchen Bibeln 18,49). Vers 10 zitiert 5. Mose 32,43. Vers 11 zitiert Psalm 117,1. Vers 12 zitiert Jesaja 11,10. „Isai“ ist der Vater von König David.
 > Vers 13 ist ein schöner Segenswunsch: Gott, der Hoffnung schenkt, soll uns mit Freude und Frieden füllen.
@@ -172,5 +172,5 @@ Amen.
 > **Was bedeutet das?**
 > Vers 24 und 28: Paulus wollte bis nach Spanien reisen, damals das westliche Ende der bekannten Welt. Ob er wirklich dort war, wissen wir nicht sicher.
 > Vers 25–27: Die Sammlung für die armen Christen in Jerusalem war Paulus sehr wichtig. Die Christen aus den Völkern verdanken der Gemeinde in Jerusalem und Israel ihren Glauben. Darum helfen sie gern.
-> Vers 31: „Die Ungehorsamen in Judäa“ meint bestimmte Gegner, die Paulus feindlich gesinnt waren. Es meint nicht „die Juden“ allgemein. Was später in Jerusalem geschah, erzählt die Apostelgeschichte (Kapitel 21 bis 26). Paulus wurde dort verhaftet und kam schließlich als Gefangener nach Rom (Apostelgeschichte 28).
+> Vers 31: Mit „den Ungehorsamen in Judäa“ meint Paulus bestimmte Gegner, die ihm feindlich gesinnt waren. Es meint nicht „die Juden“ allgemein. Was später in Jerusalem geschah, erzählt die Apostelgeschichte (Kapitel 21 bis 26). Paulus wurde dort verhaftet und kam schließlich als Gefangener nach Rom (Apostelgeschichte 28).
 > Für heute: Christen helfen einander über Grenzen hinweg. Und sie beten füreinander.

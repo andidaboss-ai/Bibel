@@ -188,7 +188,7 @@ um sich über alle zu erbarmen.
 
 > **Was bedeutet das?**
 > Vers 25: Die Verhärtung betrifft nur einen Teil von Israel, und sie gilt nur „bis“ zu einer bestimmten Zeit. Sie ist nicht für immer.
-> Vers 26: „Ganz Israel wird gerettet werden.“ Wie genau das geschieht, sagt Paulus nicht. Ausleger verstehen es verschieden. Klar ist: Gott hält seine Verheißung an Israel.
+> Vers 26: „Und so wird ganz Israel gerettet werden.“ Wie genau das geschieht, sagt Paulus nicht. Ausleger verstehen es verschieden. Klar ist: Gott hält seine Verheißung an Israel.
 > Vers 26–27 verbindet Jesaja 59,20–21 und Jesaja 27,9.
 > Vers 28: „Feinde“ meint hier: Gegner der christlichen Botschaft. Aber Paulus sagt im selben Satz: Sie sind „Geliebte“ Gottes. Das letzte Wort hat Gottes Liebe.
 > Vers 29 ist einer der wichtigsten Verse für das Verhältnis von Christen und Juden: „Die Gaben und die Berufung Gottes sind unwiderruflich.“ Gott nimmt seine Erwählung Israels nie zurück. Darauf beruft sich auch die katholische Kirche in der Erklärung Nostra aetate (1965). Auch viele evangelische Kirchen haben das bekannt.

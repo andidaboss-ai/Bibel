@@ -88,7 +88,7 @@ wenn wir mit ihm leiden,
 damit wir auch mit ihm verherrlicht werden.
 
 > **Was bedeutet das?**
-> Vers 13: „Die Taten des Körpers töten“ ist ein Bild. Es meint: das Böse in sich nicht herrschen lassen. Es heißt nicht, dass man seinem Körper schaden soll. Wer daran denkt, sich selbst zu verletzen, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
+> Vers 13: „Wenn ihr aber durch den Geist die Taten des Körpers tötet, werdet ihr leben.“ Das ist ein Bild. Es meint: das Böse in sich nicht herrschen lassen. Es heißt nicht, dass man seinem Körper schaden soll. Wer daran denkt, sich selbst zu verletzen, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 > Vers 15: „Abba“ ist Aramäisch und heißt „Vater“, wie ein Kind seinen Vater liebevoll anredet. So hat Jesus selbst zu Gott gebetet (Markus 14,36).
 > Vers 15: „Geist der Kindschaft“: Das WEB sagt „adoption“, also Annahme an Kindes statt. Gott nimmt uns als seine Kinder an.
 > Vers 17: Kinder sind Erben. Wir bekommen Anteil an allem, was Gott gehört.
@@ -165,7 +165,7 @@ die hat er auch verherrlicht.
 > Vers 19–22: Nicht nur Menschen, auch die ganze Schöpfung, Tiere, Pflanzen und die Erde, warten auf Erlösung. Viele Christen sehen darin einen Auftrag, die Schöpfung zu bewahren.
 > Vers 22: „Geburtswehen“: Das Leiden der Welt ist wie Schmerzen bei einer Geburt. Danach kommt etwas Neues.
 > Vers 26: Wenn wir nicht wissen, was wir beten sollen, betet der Geist für uns. Auch ein stilles Seufzen ist ein Gebet.
-> Vers 28: „Alles wirkt zum Guten“ heißt nicht, dass alles Schlimme gut ist. Es heißt: Gott kann auch aus Schwerem etwas Gutes werden lassen. Wer trauert oder leidet, darf trotzdem klagen.
+> Vers 28: „Für die, die Gott lieben, wirkt alles zusammen zum Guten.“ Das heißt nicht, dass alles Schlimme gut ist. Es heißt: Gott kann auch aus Schwerem etwas Gutes werden lassen. Wer trauert oder leidet, darf trotzdem klagen.
 > Vers 29–30: „Im Voraus bestimmt“: Über diese Verse haben Christen viel nachgedacht. Die Kirchen verstehen sie verschieden. Paulus will hier vor allem trösten: Gott hat einen Plan und lässt die Seinen nicht los.
 
 ---

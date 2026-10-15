@@ -57,7 +57,7 @@ Jesus Christus.
 > **Was bedeutet das?**
 > Vers 3: „Kämpfen“ heißt hier nicht, Gewalt anzuwenden. Es heißt: sich mit ganzer Kraft für den Glauben einsetzen und bei der Wahrheit bleiben.
 > Vers 4: Die falschen Lehrer sagten wohl: Gott vergibt ja sowieso, also ist alles erlaubt. Der Brief sagt: Das ist ein Missbrauch der Gnade.
-> In manchen Handschriften steht am Ende von Vers 4 nur „unseren einzigen Herrscher und Herrn Jesus Christus“, ohne das Wort „Gott“.
+> Am Ende von Vers 4 steht: „unseren einzigen Herrscher, Gott und Herrn, Jesus Christus“. In manchen Handschriften fehlt dort das Wort „Gott“.
 
 ---
 
@@ -156,9 +156,9 @@ Und sie schmeicheln Menschen,
 um sich Vorteile zu verschaffen.
 
 > **Was bedeutet das?**
-> Vers 14: Henoch kommt in 1. Mose 5,18–24 vor. Er lebte so eng mit Gott, dass Gott ihn zu sich nahm. „Der Siebte nach Adam“: Man zählt Adam, Set, Enosch, Kenan, Mahalalel, Jered, Henoch.
+> Vers 14: „Der Siebte nach Adam“: Man zählt Adam, Set, Enosch, Kenan, Mahalalel, Jered, Henoch. Henoch kommt in 1. Mose 5,18–24 vor. Er lebte so eng mit Gott, dass Gott ihn zu sich nahm.
 > Vers 14–15: Dieses Zitat steht nicht in der Bibel. Es kommt aus dem Buch Henoch, einer alten jüdischen Schrift. Judas kannte und schätzte dieses Buch. In der äthiopischen orthodoxen Kirche gehört das Buch Henoch sogar zur Bibel. In den anderen Kirchen gehört es nicht dazu.
-> Vers 16: „Schmeicheln, um Vorteile zu haben“: Sie behandeln Menschen danach, was sie ihnen nützen.
+> Vers 16: „Sie schmeicheln Menschen, um sich Vorteile zu verschaffen“: Sie behandeln Menschen danach, was sie ihnen nützen.
 
 ---
 
@@ -218,7 +218,7 @@ Amen.
 > **Was bedeutet das?**
 > Nach allen harten Worten endet der Brief mit einem wunderschönen Lob. Das Wichtigste: Nicht wir müssen uns selbst festhalten. Gott hält uns fest und bewahrt uns.
 > Diese Verse werden in vielen Gottesdiensten als Segen am Ende gesprochen.
-> In vielen Handschriften steht in Vers 25 noch: „durch Jesus Christus, unseren Herrn“. Und „vor aller Zeit“.
+> In vielen Handschriften steht in Vers 25 noch mehr: Gott wird gelobt durch Jesus Christus, unseren Herrn. Und ihm gehört die Ehre schon vor aller Zeit.
 
 ---
 

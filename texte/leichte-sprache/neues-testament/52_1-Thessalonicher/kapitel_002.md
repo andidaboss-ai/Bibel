@@ -102,7 +102,7 @@ Aber der Zorn ist endgültig über sie gekommen.
 > Paulus war selbst Jude. Die Gemeinden in Judäa (Vers 14), die er lobt, bestanden aus Juden. Jesus, seine Jünger und die ersten Christen waren Juden.
 > Paulus spricht hier im Zorn über eine bestimmte Gruppe in Judäa, die die Christen damals verfolgte und ihn selbst vertrieben hatte. Er meint nicht das ganze jüdische Volk. Das griechische Wort kann auch „die Judäer“ heißen, also die Bewohner von Judäa. Und der Satz kann so gelesen werden: „von den Juden, die …“, also nur von bestimmten Menschen.
 > Vers 15: Jesus wurde von den Römern gekreuzigt. Die Kreuzigung war eine römische Strafe. Die Behauptung, „die Juden“ hätten Jesus getötet, ist falsch und hat unendlich viel Leid verursacht.
-> Vers 16: „Der Zorn ist gekommen“: Was Paulus damit meint, ist unklar. Manche Ausleger meinen, die Verse 15–16 wurden später von jemand anderem hinzugefügt, vielleicht nach der Zerstörung Jerusalems im Jahr 70. Andere halten sie für Worte von Paulus in einem Moment großer Wut.
+> Vers 16: „Der Zorn ist endgültig über sie gekommen“: Was Paulus damit meint, ist unklar. Manche Ausleger meinen, die Verse 15–16 wurden später von jemand anderem hinzugefügt, vielleicht nach der Zerstörung Jerusalems im Jahr 70. Andere halten sie für Worte von Paulus in einem Moment großer Wut.
 > Später hat Paulus sehr anders geschrieben: Gott hat sein Volk nicht verstoßen. Gottes Gaben und seine Berufung kann er nicht bereuen. Ganz Israel wird gerettet werden (Römer 11,1–2.26.29).
 > Für heute: Antisemitismus ist Sünde. Christen müssen sich überall gegen Judenhass stellen.
 

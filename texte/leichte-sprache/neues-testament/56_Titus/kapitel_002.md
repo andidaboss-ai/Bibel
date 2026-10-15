@@ -93,6 +93,6 @@ Niemand soll dich verachten.
 > Vers 11 ist der Kern des Briefes: Gottes Gnade gilt allen Menschen.
 > Vers 12: Die Gnade ist wie ein Lehrer. Sie hilft uns, gut zu leben. Gnade ist nicht nur Vergebung, sondern auch Kraft zum Neuanfang.
 > Vers 13: „Unseres großen Gottes und Retters Jesus Christus“: Viele Ausleger verstehen das so, dass Jesus hier Gott genannt wird. Andere übersetzen: „des großen Gottes und unseres Retters Jesus Christus“.
-> Vers 14: „Ein Volk, das ihm gehört“: Diese Worte stammen aus den Schriften Israels (vergleiche 2. Mose 19,5). Gott hat Israel erwählt. Durch Christus kommen Menschen aus allen Völkern hinzu. Israel wird dadurch nicht ersetzt (vergleiche Römer 11,1–2.29).
+> Vers 14: Christus hat sich hingegeben, um „sich ein Volk zu reinigen, das ihm gehört“. Diese Worte stammen aus den Schriften Israels (vergleiche 2. Mose 19,5). Gott hat Israel erwählt. Durch Christus kommen Menschen aus allen Völkern hinzu. Israel wird dadurch nicht ersetzt (vergleiche Römer 11,1–2.29).
 
 ---

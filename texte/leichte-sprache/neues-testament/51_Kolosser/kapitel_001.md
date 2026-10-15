@@ -127,7 +127,7 @@ durch das Blut seines Kreuzes.
 > Vers 15–20 ist wohl ein Lied der ersten Christen. Es hat zwei Teile: Christus und die Schöpfung (Vers 15–17) und Christus und die Versöhnung (Vers 18–20).
 > Vers 15: „Bild des unsichtbaren Gottes“: Gott kann man nicht sehen. Aber in Jesus kann man sehen, wie Gott ist.
 > „Der Erstgeborene vor aller Schöpfung“ heißt nicht, dass Christus selbst geschaffen wurde. Der „Erstgeborene“ hatte damals den höchsten Rang und das Recht des Erben. Christus steht über allem, was geschaffen ist.
-> Vers 16: „Throne, Herrschaften, Mächte und Gewalten“: Damit sind unsichtbare Mächte gemeint, vor denen Menschen damals Angst hatten. Der Brief sagt: Auch sie sind von Christus geschaffen. Niemand muss sie fürchten.
+> Vers 16: „Throne und Herrschaften, Mächte und Gewalten“: Damit sind unsichtbare Mächte gemeint, vor denen Menschen damals Angst hatten. Der Brief sagt: Auch sie sind von Christus geschaffen. Niemand muss sie fürchten.
 > Vers 17: Christus hält die Welt zusammen.
 > Vers 20: Gott will nicht nur Menschen versöhnen, sondern „alles“, die ganze Schöpfung. Für heute: Darum gehört auch die Sorge für die Schöpfung zum christlichen Glauben.
 

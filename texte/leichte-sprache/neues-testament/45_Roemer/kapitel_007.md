@@ -86,7 +86,7 @@ So sollte die Sünde durch das Gebot
 > **Was bedeutet das?**
 > Vers 7 zitiert das zehnte Gebot (2. Mose 20,17; 5. Mose 5,21).
 > Vers 7–11: Wer ein Verbot hört, bekommt manchmal erst recht Lust darauf. So nutzt die Sünde sogar das gute Gebot aus.
-> Vers 12 ist sehr wichtig: „Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut.“ Paulus redet nicht schlecht über die Tora. Das Problem ist nicht das Gesetz, sondern die Macht der Sünde.
+> Vers 12 ist sehr wichtig: „Also ist das Gesetz heilig, und das Gebot ist heilig, gerecht und gut.“ Paulus redet nicht schlecht über die Tora. Das Problem ist nicht das Gesetz, sondern die Macht der Sünde.
 > Wichtig: Christen haben oft behauptet, das jüdische Gesetz sei eine Last oder schlecht. Das widerspricht Paulus. Für Juden ist die Tora bis heute ein Geschenk Gottes.
 
 ---

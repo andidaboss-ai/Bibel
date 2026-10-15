@@ -155,7 +155,7 @@ und sich selbst von der Welt unbefleckt halten.
 > **Was bedeutet das?**
 > Vers 19: Ein guter Rat für jeden Tag: erst zuhören, dann reden. Und nicht schnell wütend werden.
 > Vers 22–24: Das Bild vom Spiegel: Wer Gottes Wort hört, aber nichts ändert, ist wie jemand, der sich im Spiegel sieht und dann vergisst, wie er aussieht.
-> Vers 25: „Das Gesetz der Freiheit“: Gottes Weisung macht frei. Sie ist kein Gefängnis, sondern ein Weg zum guten Leben. So sehen es auch die Psalmen (zum Beispiel Psalm 119).
+> Vers 25: „Das vollkommene Gesetz der Freiheit“: Gottes Weisung macht frei. Sie ist kein Gefängnis, sondern ein Weg zum guten Leben. So sehen es auch die Psalmen (zum Beispiel Psalm 119).
 > Vers 27: Echter Glaube zeigt sich darin, wie wir mit den Schwächsten umgehen. Damals waren das vor allem Waisen und Witwen.
 > Für heute: Das sind alle Menschen, die keine Unterstützung haben: Alleinstehende, Kinder ohne Familie, Geflüchtete, Arme, Einsame.
 

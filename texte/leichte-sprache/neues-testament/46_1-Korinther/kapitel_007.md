@@ -50,7 +50,7 @@ als vor Verlangen zu brennen.
 > **Was bedeutet das?**
 > Vers 1: „Es ist gut für einen Mann, keine Frau zu berühren“ war wohl ein Satz aus dem Brief der Korinther. Manche in Korinth meinten, Christen sollten ganz auf Sexualität verzichten, sogar in der Ehe. Paulus widerspricht.
 > Vers 3–4: Für die damalige Zeit war das sehr neu: Paulus spricht von Mann und Frau genau gleich. Beide haben dieselben Rechte und Pflichten.
-> Sehr wichtig: Diese Verse geben niemandem das Recht, Sex zu erzwingen. Sexualität in der Ehe braucht immer das Einverständnis von beiden (Vers 5: „wenn ihr euch einig seid“). Gewalt und Vergewaltigung sind auch in der Ehe ein schweres Unrecht und in Deutschland strafbar. Hilfe: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00, Notruf 110.
+> Sehr wichtig: Diese Verse geben niemandem das Recht, Sex zu erzwingen. Sexualität in der Ehe braucht immer das Einverständnis von beiden (Vers 5: „wenn ihr euch für eine Zeit einig seid“). Gewalt und Vergewaltigung sind auch in der Ehe ein schweres Unrecht und in Deutschland strafbar. Hilfe: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00, Notruf 110.
 > Vers 7: Paulus lebte selbst ehelos. Er sieht Ehe und Ehelosigkeit beide als „Gabe von Gott“.
 
 ---
@@ -131,7 +131,7 @@ bei Gott bleiben.
 
 > **Was bedeutet das?**
 > Vers 18: Manche jüdischen Männer versuchten damals, ihre Beschneidung zu verbergen, um im griechischen Sport nicht aufzufallen. Paulus sagt: Juden sollen Juden bleiben, Nichtjuden sollen nicht Juden werden müssen.
-> Vers 21: Der griechische Text ist hier nicht eindeutig. Das WEB versteht ihn so: „Wenn du frei werden kannst, dann nutze die Gelegenheit.“ Andere verstehen: „Bleib lieber, wie du bist.“
+> Vers 21: Der griechische Text ist hier nicht eindeutig. Das WEB versteht ihn so: „Aber wenn du die Möglichkeit hast, frei zu werden, dann nutze sie.“ Andere verstehen: „Bleib lieber, wie du bist.“
 > Wichtig: Sklaverei ist ein schweres Unrecht. Paulus konnte sie zu seiner Zeit nicht abschaffen. Aber Vers 23 sagt: „Werdet nicht Sklaven von Menschen.“ Christen haben später diese Worte gegen die Sklaverei benutzt. Heute gibt es noch immer Menschenhandel und Zwangsarbeit. Christen sollen dagegen eintreten.
 
 ---
@@ -197,7 +197,7 @@ und ohne Ablenkung beim Herrn bleibt.
 
 > **Was bedeutet das?**
 > Vers 25: Das WEB sagt „virgins“, also Jungfrauen. Gemeint sind junge, unverheiratete Frauen.
-> Vers 26: „Die Not, die uns jetzt bedrängt“: Paulus erwartet schwere Zeiten vor dem Ende der Welt. Darum rät er, nicht neu zu heiraten. Das ist ein Rat für seine Zeit, kein Gebot.
+> Vers 26: „Wegen der Not, die uns jetzt bedrängt“: Paulus erwartet schwere Zeiten vor dem Ende der Welt. Darum rät er, nicht neu zu heiraten. Das ist ein Rat für seine Zeit, kein Gebot.
 > Vers 28: Wer heiratet, tut nichts Falsches. Das sagt Paulus klar.
 > Vers 29–31: „Die Zeit ist kurz“: Christen sollen sich nicht ganz an Dinge dieser Welt binden. Alles Irdische vergeht.
 > Vers 32–34: Paulus sieht in der Ehelosigkeit eine Freiheit, sich ganz für Gott einzusetzen. Viele Ordensleute und katholische Priester leben bis heute so. Aber auch Verheiratete können Gott von ganzem Herzen dienen.

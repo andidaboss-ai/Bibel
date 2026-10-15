@@ -178,6 +178,6 @@ den ihr selbst mir nicht leisten konntet.
 > Vers 25: Epaphroditus kam aus Philippi. Die Gemeinde hatte ihn mit einer Geldgabe zu Paulus geschickt (vergleiche 4,18). Das WEB nennt ihn „your apostle“, also „euer Gesandter“.
 > Vers 26–27: Epaphroditus wurde schwer krank. Krankheit ist keine Strafe. Paulus sagt offen, wie groß seine Sorge war. Auch ein Apostel hat Kummer und Angst um Freunde.
 > Vers 27: Paulus hat Epaphroditus nicht einfach geheilt. Auch er war auf Gottes Erbarmen angewiesen.
-> Vers 30: „Den Dienst, den ihr nicht leisten konntet“: Die Gemeinde war weit weg. Epaphroditus war an ihrer Stelle bei Paulus. Das ist kein Vorwurf an die Gemeinde.
+> Vers 30: „Den Dienst zu leisten, den ihr selbst mir nicht leisten konntet“: Die Gemeinde war weit weg. Epaphroditus war an ihrer Stelle bei Paulus. Das ist kein Vorwurf an die Gemeinde.
 
 ---

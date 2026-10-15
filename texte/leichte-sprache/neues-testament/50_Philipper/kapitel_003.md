@@ -80,7 +80,7 @@ zur Auferstehung von den Toten gelange.
 > Vers 6: „Ohne Tadel“: Paulus hatte kein schlechtes Gewissen als Jude. Er hat das Gesetz treu gehalten. Das Gesetz war für ihn keine Last.
 > Vers 7–8: Erst als er Christus kennenlernte, verlor das alles für ihn an Gewicht. Nicht weil es schlecht war, sondern weil Christus so viel wertvoller ist. Paulus spricht hier von seinem eigenen Lebensweg.
 > Vers 8: Das WEB sagt „refuse“, also „Abfall“ oder „Müll“. Paulus benutzt ein sehr starkes Wort, um zu zeigen, wie sehr Christus alles andere übertrifft.
-> Vers 9: Gerechtigkeit ist ein Geschenk Gottes, keine eigene Leistung. Der griechische Text kann auch heißen: „durch die Treue von Christus“. Ausleger verstehen es verschieden.
+> Vers 9: Gerechtigkeit ist ein Geschenk Gottes, keine eigene Leistung. Hier steht: „durch den Glauben an Christus“. Der griechische Text kann auch heißen: durch die Treue von Christus. Ausleger verstehen es verschieden.
 > Vers 10–11: Christus kennen heißt für Paulus: mit ihm leben, mit ihm leiden und mit ihm auferstehen.
 
 ---
@@ -116,7 +116,7 @@ Lasst uns gleich gesinnt sein.
 
 > **Was bedeutet das?**
 > Vers 12: Paulus sagt ehrlich: Auch ich bin noch nicht fertig. Christsein ist ein Weg, kein fertiger Zustand.
-> Vers 12: „Ich bin von Christus ergriffen worden“: Nicht Paulus hat zuerst Christus gesucht. Christus hat ihn zuerst gefunden (vergleiche Apostelgeschichte 9).
+> Vers 12: „Auch ich bin von Christus Jesus ergriffen worden“: Nicht Paulus hat zuerst Christus gesucht. Christus hat ihn zuerst gefunden (vergleiche Apostelgeschichte 9).
 > Vers 13–14: Ein Bild aus dem Sport: Ein Läufer schaut nicht zurück, sondern nach vorn auf das Ziel.
 > Für heute: „Vergessen, was hinter mir liegt“ heißt nicht, dass man erlebtes Leid verdrängen muss. Es heißt: Die Vergangenheit, auch eigene Fehler, soll uns nicht festhalten. Gott schenkt einen neuen Anfang.
 > Vers 15: Paulus ist geduldig: Wer anders denkt, dem wird Gott selbst den Weg zeigen.

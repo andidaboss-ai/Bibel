@@ -110,7 +110,7 @@ ihr Leben dem treuen Schöpfer anvertrauen.
 > **Was bedeutet das?**
 > Vers 12: „Feuer der Prüfung“: Die Christen erlebten Anfeindung und Verfolgung.
 > Vers 16: Hier steht das Wort „Christ“. Es kommt im Neuen Testament nur dreimal vor (vergleiche Apostelgeschichte 11,26). Es war damals oft ein Spottname.
-> Vers 17: „Das Gericht beginnt beim Haus Gottes“: Die Gemeinde soll zuerst bei sich selbst ehrlich prüfen, ob sie richtig lebt.
+> Vers 17: Die Zeit ist gekommen, „dass das Gericht beim Haus Gottes beginnt“. Das heißt: Die Gemeinde soll zuerst bei sich selbst ehrlich prüfen, ob sie richtig lebt.
 > Vers 18 zitiert Sprüche 11,31 in der Form der alten griechischen Übersetzung.
 > Vers 19: Ein Trost: Gott ist ein treuer Schöpfer. Wir dürfen unser Leben in seine Hände legen.
 > Für heute: In vielen Ländern werden Christen bis heute wegen ihres Glaubens verfolgt. Christen sollen für sie beten und sich für Religionsfreiheit für alle Menschen einsetzen.

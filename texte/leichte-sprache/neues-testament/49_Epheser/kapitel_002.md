@@ -44,7 +44,7 @@ damit wir darin leben.
 
 > **Was bedeutet das?**
 > Vers 1–3: Ohne Gott ist der Mensch wie tot, auch wenn er lebt. Das gilt für alle, für Juden und für Menschen aus den Völkern („wir alle“, Vers 3).
-> Vers 2: „Der Herrscher über die Mächte der Luft“ meint die Macht des Bösen, den Satan. Damals stellte man sich vor, dass böse Mächte im Luftraum zwischen Himmel und Erde herrschen.
+> Vers 2: Der Herrscher, „der über die Mächte der Luft regiert“, ist die Macht des Bösen, der Satan. Damals stellte man sich vor, dass böse Mächte im Luftraum zwischen Himmel und Erde herrschen.
 > Vers 3: „Kinder des Zorns“ ist eine hebräische Redeweise. Sie meint: Menschen, die Gottes Gericht verdient hätten.
 > Vers 8–9 gehört zu den wichtigsten Versen über die Gnade: Rettung ist ein Geschenk Gottes. Niemand kann sie sich verdienen.
 > Vers 10: Gute Werke sind nicht der Weg zur Rettung, aber ihre Frucht. Wer von Gott beschenkt ist, tut Gutes.

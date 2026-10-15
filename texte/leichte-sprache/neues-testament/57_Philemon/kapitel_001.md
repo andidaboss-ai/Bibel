@@ -122,10 +122,10 @@ dass ich euch durch eure Gebete wieder geschenkt werde.
 > Vers 10: Onesimus wurde im Gefängnis durch Paulus Christ. Darum nennt Paulus ihn „mein Kind“.
 > Vers 11: Ein Wortspiel: Der Name „Onesimus“ heißt auf Griechisch „der Nützliche“. Früher war er „nutzlos“, jetzt ist er wirklich „nützlich“.
 > Vers 12: „Mein eigenes Herz“: Paulus liebt Onesimus sehr. Ein Sklave galt damals als Besitz. Paulus nennt ihn sein Herz.
-> Vers 16 ist der wichtigste Vers: „Nicht mehr als Sklave, sondern als geliebter Bruder.“ In Christus sind Herr und Sklave Geschwister. Das hat die Beziehung von Grund auf verändert.
+> Vers 16 ist der wichtigste Vers: „Nicht mehr als Sklaven, sondern als mehr als einen Sklaven: als geliebten Bruder.“ In Christus sind Herr und Sklave Geschwister. Das hat die Beziehung von Grund auf verändert.
 > Vers 17: „Nimm ihn auf wie mich selbst“: Onesimus soll so behandelt werden wie Paulus, der Apostel.
 > Vers 18–19: Paulus will für mögliche Schulden von Onesimus selbst bezahlen. Das erinnert daran, wie Christus für uns eintritt.
-> Vers 21: „Noch mehr, als ich sage“: Viele Ausleger verstehen das als Hinweis, dass Philemon Onesimus freilassen soll.
+> Vers 21: „Dass du sogar noch mehr tun wirst, als ich sage“: Viele Ausleger verstehen das als Hinweis, dass Philemon Onesimus freilassen soll.
 > Für heute: Der Brief zeigt, wie der Glaube Beziehungen verändert. Kein Mensch darf einem anderen gehören. Jeder Mensch ist ein Bruder oder eine Schwester. Heute gibt es noch immer Menschenhandel und Zwangsarbeit. Christen sollen dagegen eintreten.
 
 ---

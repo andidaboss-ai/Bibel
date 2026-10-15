@@ -66,7 +66,7 @@ für sich selbst vor Gott Rechenschaft geben.
 > In der Gemeinde in Rom gab es Streit. Manche Christen aßen kein Fleisch, zum Beispiel aus Sorge, es könnte Götzen geopfert worden sein oder nicht nach den jüdischen Speisegeboten zubereitet sein. Andere aßen alles. Manche hielten bestimmte Festtage, andere nicht.
 > „Schwach“ und „stark“: Paulus nennt die Vorsichtigen „schwach im Glauben“. Das ist kein Schimpfwort. Er verlangt von allen Seiten Achtung voreinander.
 > Vers 3: „Gott hat ihn angenommen.“ Wen Gott annimmt, den sollen auch wir annehmen.
-> Vers 7–8: „Ob wir leben oder sterben: Wir gehören dem Herrn.“ Diese Worte werden oft bei Beerdigungen gelesen. Sie trösten.
+> Vers 7–8: „Ob wir also leben oder sterben: Wir gehören dem Herrn.“ Diese Worte werden oft bei Beerdigungen gelesen. Sie trösten.
 > Vers 11 nimmt Jesaja 45,23 auf und verbindet es mit Worten aus Jesaja 49,18.
 > Für heute: Christen haben in vielen Fragen verschiedene Meinungen, zum Beispiel beim Essen, beim Sonntag oder bei Bräuchen. Das ist kein Grund, einander zu verachten.
 

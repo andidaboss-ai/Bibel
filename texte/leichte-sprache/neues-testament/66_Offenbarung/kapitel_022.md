@@ -96,7 +96,7 @@ und jeder, der Lügen liebt und tut.
 > Vers 7: Das ist das sechste „Glücklich“ in der Offenbarung. Vers 14 ist das siebte und letzte. Sieben ist die Zahl der Vollkommenheit.
 > Vers 10: Im Buch Daniel sollten die Worte versiegelt werden (Daniel 12,4). Hier nicht: Die Botschaft soll offen gelesen werden, jetzt.
 > Vers 11: Dieser Satz klingt hart. Gemeint ist wohl: Die Zeit drängt. Jeder Mensch zeigt durch sein Leben, wofür er sich entscheidet. Aber noch ist die Tür offen (Vers 17).
-> Vers 14: In manchen Handschriften steht: „Glücklich sind die, die ihre Kleider waschen“ (vergleiche 7,14).
+> Vers 14: Hier steht: „Glücklich sind die, die seine Gebote tun.“ In manchen Handschriften steht stattdessen: Glücklich sind die, die ihre Gewänder waschen (vergleiche 7,14).
 > Vers 15: „Hunde“ war damals ein Schimpfwort für Menschen, die sich schamlos verhalten. Es ist ein Bild. Es ist keine Erlaubnis, andere Menschen zu beschimpfen. Und auch hier gilt: Die Tore der Stadt sind nie geschlossen (21,25). Jeder darf umkehren.
 
 ---
@@ -139,7 +139,7 @@ sei mit allen Heiligen.
 Amen.
 
 > **Was bedeutet das?**
-> Vers 16: Jesus spricht selbst. Er ist „die Wurzel und der Nachkomme Davids“: Er kommt aus dem jüdischen Volk und ist der versprochene Messias (vergleiche Jesaja 11,1). Er ist der „Morgenstern“, der Stern, der den neuen Tag ankündigt.
+> Vers 16: Jesus spricht selbst. Er ist „die Wurzel und der Nachkomme von David“: Er kommt aus dem jüdischen Volk und ist der versprochene Messias (vergleiche Jesaja 11,1). Er ist der „Morgenstern“, der Stern, der den neuen Tag ankündigt.
 > Vers 17: Das ist die große Einladung am Ende der Bibel. Jeder, der Durst hat, darf kommen. Das Wasser des Lebens ist umsonst. Niemand ist ausgeschlossen, der kommen will.
 > Vers 18–19: Diese Warnung gilt für das Buch der Offenbarung. Damals schrieb man Bücher mit der Hand ab. Niemand sollte die Botschaft verändern. Die Warnung erinnert an 5. Mose 4,2. Für diese Übertragung war das eine wichtige Regel: kein Vers und kein Wort wird weggelassen.
 > Vers 20: „Komm, Herr Jesus!“ ist eines der ältesten Gebete der Christen. Auf Aramäisch, der Sprache von Jesus, heißt es „Maranatha“ (vergleiche 1. Korinther 16,22).

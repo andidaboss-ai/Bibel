@@ -136,8 +136,8 @@ der weit besser ist.
 > **Was bedeutet das?**
 > Vers 12–27: Das Bild vom Körper war damals bekannt. Paulus benutzt es so: Die Gemeinde ist wie ein Körper. Jedes Glied ist wichtig, und alle brauchen einander.
 > Vers 13: In der Gemeinde zählen die Unterschiede von Herkunft und Stand nicht mehr: Juden und Griechen, Sklaven und Freie gehören zu dem einen Leib.
-> Vers 15–16: Niemand soll denken: „Ich bin nicht wichtig.“
-> Vers 21–22: Und niemand soll denken: „Ich brauche die anderen nicht.“ Gerade die, die schwach scheinen, sind unverzichtbar.
+> Vers 15–16: Niemand soll denken, dass er nicht wichtig ist.
+> Vers 21–22: Und niemand soll zu einem anderen sagen: „Ich brauche dich nicht.“ Gerade die, die schwach scheinen, sind unverzichtbar.
 > Für heute: Menschen mit Behinderung, alte, kranke und arme Menschen gehören ganz selbstverständlich dazu. Eine Gemeinde, in der sie fehlen, ist nicht vollständig.
-> Vers 26: „Wenn ein Glied leidet, leiden alle mit.“ Mitgefühl gehört zum Wesen der Gemeinde.
+> Vers 26: „Wenn ein Glied leidet, leiden alle Glieder mit.“ Mitgefühl gehört zum Wesen der Gemeinde.
 > Vers 31: Der „Weg, der weit besser ist“, ist die Liebe. Davon handelt das nächste Kapitel.

@@ -153,7 +153,7 @@ und großer Hagel.
 > **Was bedeutet das?**
 > Vers 15: Das ist der Höhepunkt: Gott regiert. Alle Macht der Welt gehört am Ende Gott und seinem Christus. Diese Worte sind durch berühmte Musik bekannt geworden.
 > Vers 17: Gott wird jetzt nur noch genannt: „der ist und der war“. Das „der kommt“ fehlt. Denn jetzt ist er gekommen.
-> Vers 18: „Die Kleinen und die Großen“: Vor Gott zählt jeder Mensch, egal wie wichtig er in der Welt war.
+> Vers 18: Gott gibt den Lohn „den Kleinen und den Großen“. Vor Gott zählt jeder Mensch, egal wie wichtig er in der Welt war.
 > „Die vernichten, die die Erde vernichten“: Gott ist es nicht egal, wenn Menschen seine Schöpfung zerstören. Dieser Satz ist auch heute wichtig.
 > Vers 19: Die Bundeslade war das heiligste Zeichen von Gottes Gegenwart in Israel. Sie war seit der Zerstörung des ersten Tempels verloren. Hier zeigt sich: Gottes Bund gilt, er ist nicht verloren.
 
