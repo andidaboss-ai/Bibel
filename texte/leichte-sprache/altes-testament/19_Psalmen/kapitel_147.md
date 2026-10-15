@@ -32,7 +32,7 @@ an denen, die auf seine Güte hoffen.
 > **Was bedeutet das?**
 > Vers 2–3: Nach dem Exil baut Gott Jerusalem wieder auf und holt die Zerstreuten heim. Und er heilt die Herzen, die gebrochen sind, wie ein Arzt, der Wunden verbindet.
 > Vers 3–4: Ein wunderbarer Gegensatz: Der Gott, der die Milliarden Sterne kennt und ihnen Namen gibt, kümmert sich um ein einzelnes gebrochenes Herz.
-> Vers 9: Sogar die jungen Raben, die nach Futter schreien, hört Gott. Jesus sagt: „Seht die Raben an … Gott ernährt sie“ (Lukas 12,24).
+> Vers 9: Sogar die jungen Raben, die nach Futter schreien, hört Gott. Jesus sagt: „Seht euch die Raben an … Gott ernährt sie doch“ (Lukas 12,24).
 > Vers 10–11: Gott beeindrucken nicht Kriegspferde oder starke Muskeln, sondern Menschen, die ihm vertrauen.
 
 ---

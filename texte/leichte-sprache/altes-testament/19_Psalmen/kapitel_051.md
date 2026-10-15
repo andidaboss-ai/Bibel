@@ -60,7 +60,7 @@ und stütze mich mit einem willigen Geist!
 und die Sünder werden zu dir umkehren.
 
 > **Was bedeutet das?**
-> Vers 10 ist einer der bekanntesten Verse der Bibel. Viele singen ihn als Lied: „Schaffe in mir, Gott, ein reines Herz.“
+> Vers 10 ist einer der bekanntesten Verse der Bibel. Viele singen ihn als Lied: „Schaffe in mir ein reines Herz, Gott.“
 > „Schaffe“: Im Hebräischen steht dasselbe Wort wie in 1. Mose 1,1 („Gott schuf“). Nur Gott kann ein neues Herz erschaffen. Der Mensch kann sich nicht selbst neu machen.
 > Vers 11: David hatte gesehen, wie Gottes Geist von Saul gewichen war (1. Samuel 16,14). Er fürchtet, dass ihm dasselbe passiert.
 > Vers 13: Wer selbst Vergebung erfahren hat, kann anderen den Weg zu Gott zeigen.

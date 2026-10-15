@@ -170,6 +170,6 @@ und sie unter dem Himmel des HERRN vertilgen.
 
 > **Was bedeutet das?**
 > Vers 48–51: Der Dichter weint ohne Pause, bis Gott vom Himmel herabsieht.
-> Vers 53–55: Diese Worte erinnern an Jeremia, der in eine Zisterne geworfen wurde (Jeremia 38,6). „Aus der tiefsten Grube“ rief er zu Gott.
-> Vers 56–58: Und Gott hat gehört! „Du kamst nahe, als ich dich rief. Du sagtest: Fürchte dich nicht!“ Das ist die Erfahrung vieler Menschen: In der tiefsten Not ist Gott nahe.
+> Vers 53–55: Diese Worte erinnern an Jeremia, der in eine Zisterne geworfen wurde (Jeremia 38,6). Er rief zu Gott „aus der tiefsten Grube“ (3,55).
+> Vers 56–58: Und Gott hat gehört! „Du kamst nahe an dem Tag, als ich dich rief. Du sagtest: ‚Fürchte dich nicht!‘“ Das ist die Erfahrung vieler Menschen: In der tiefsten Not ist Gott nahe.
 > Vers 59–66: Der Dichter bittet Gott, ihm Recht zu verschaffen und seine Verfolger zu bestrafen. Er bringt seine Wut zu Gott und überlässt Gott das Urteil, statt sich selbst zu rächen. Jesus zeigt später einen noch weiteren Weg: für die Feinde zu beten (Lukas 23,34).

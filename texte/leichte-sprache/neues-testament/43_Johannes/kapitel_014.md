@@ -168,7 +168,7 @@ lasst uns von hier weggehen!“
 > **Was bedeutet das?**
 > Vers 16: „Beistand“ (WEB: „Counselor“, griechisch „Paraklet“) heißt: einer, der zur Seite steht, tröstet, berät und verteidigt. Gemeint ist der Heilige Geist.
 > Vers 18: „Ich lasse euch nicht als Waisen zurück.“ Jesus verlässt seine Jünger nicht.
-> Vers 22: Dieser Judas ist ein anderer Jünger, nicht Judas Iskariot. Lukas nennt ihn „Judas, Sohn des Jakobus“ (Lukas 6,16).
+> Vers 22: Dieser Judas ist ein anderer Jünger, nicht Judas Iskariot. Lukas nennt ihn „Judas, der Sohn des Jakobus“ (Lukas 6,16).
 > Vers 23: Gott will bei den Menschen wohnen, die ihn lieben.
 > Vers 26: Der Heilige Geist hilft den Jüngern, sich an Jesu Worte zu erinnern und sie zu verstehen. Darauf beruhen auch die Evangelien.
 > Vers 27: „Frieden“ heißt auf Hebräisch „Schalom“. Das war (und ist) der jüdische Abschiedsgruß. Jesu Friede ist mehr als Ruhe: Er ist Gottes Heil und Ganzheit.

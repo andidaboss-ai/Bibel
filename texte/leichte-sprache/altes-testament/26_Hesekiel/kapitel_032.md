@@ -80,7 +80,7 @@ spricht der Herr, der HERR.‘“
 
 > **Was bedeutet das?**
 > Vers 13–14: Ein seltsam stilles Bild: Wenn keine Menschen und Tiere mehr da sind, wird das Wasser ganz klar und ruhig, „wie Öl“. Es ist die Stille nach der Katastrophe.
-> Vers 16: Klagelieder wurden oft von Frauen gesungen, die das Klagen als Beruf ausübten (vgl. Jeremia 9,16–19). Hier sollen „die Töchter der Völker“ über Ägypten klagen.
+> Vers 16: Hier sollen „die Töchter der Völker“ über Ägypten klagen. Klagelieder wurden oft von Frauen gesungen, die das Klagen als Beruf ausübten (vgl. Jeremia 9,17–20; in vielen deutschen Bibeln 9,16–19).
 
 ---
 
@@ -164,5 +164,5 @@ spricht der Herr, der HERR.
 > Und nun kommt der Pharao dazu. Er wird sich „trösten“ (Vers 31), weil er sieht: Die anderen Großen sind auch hier.
 > Der wiederholte Satz „die Schrecken verbreitet haben im Land der Lebenden“ zeigt den Grund: Diese Reiche haben mit Gewalt und Terror geherrscht. Am Ende hat ihnen das nichts genützt.
 > Vers 27: Gefallene Helden wurden manchmal mit ihren Waffen begraben, als Ehre. Diesen hier wird diese Ehre verweigert.
-> Die Botschaft: Alle Gewaltherrscher und Weltreiche enden gleich, im Grab. Nur Gott bleibt (vgl. Psalm 146,3–4: „Verlasst euch nicht auf Fürsten …“).
+> Die Botschaft: Alle Gewaltherrscher und Weltreiche enden gleich, im Grab. Nur Gott bleibt (vgl. Psalm 146,3–4: „Vertraut nicht auf Fürsten …“).
 

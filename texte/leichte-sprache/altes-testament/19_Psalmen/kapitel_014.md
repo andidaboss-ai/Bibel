@@ -19,7 +19,7 @@ Es gibt keinen, der Gutes tut, auch nicht einen.
 > **Was bedeutet das?**
 > „Der Tor“ ist in der Bibel nicht einfach ein dummer Mensch. Es ist jemand, der so lebt, als ob es Gott nicht gibt. Er denkt nicht unbedingt philosophisch darüber nach. Er lebt einfach, als müsste er sich vor niemandem verantworten.
 > Gott schaut vom Himmel, ob er einen findet, der nach ihm fragt. Und er findet keinen.
-> Paulus zitiert Vers 1–3 in Römer 3,10–12: „Da ist keiner, der gerecht ist, auch nicht einer.“ Er zeigt damit: Alle Menschen brauchen Gottes Gnade.
+> Paulus zitiert Vers 1–3 in Römer 3,10–12: „Es gibt keinen Gerechten, auch nicht einen.“ Er zeigt damit: Alle Menschen brauchen Gottes Gnade.
 > Psalm 14 kommt fast genauso noch einmal als Psalm 53 vor.
 
 ---

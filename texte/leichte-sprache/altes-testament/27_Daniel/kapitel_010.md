@@ -134,6 +134,6 @@ außer Michael, eurem Fürsten.
 
 > **Was bedeutet das?**
 > Daniel ist völlig erschöpft. Dreimal wird er berührt und gestärkt: an seinem Körper (Vers 10), an seinen Lippen (Vers 16), und noch einmal (Vers 18).
-> Vers 19: Wunderschöne Worte: „Du sehr Geliebter, fürchte dich nicht! Friede sei mit dir! Sei stark!“ So spricht Gott auch zu uns, wenn wir schwach und erschöpft sind.
+> Vers 19: Wunderschöne Worte: „Du sehr geliebter Mann, fürchte dich nicht! Friede sei mit dir! Sei stark, ja, sei stark!“ So spricht Gott auch zu uns, wenn wir schwach und erschöpft sind.
 > Vers 20: Die Weltreiche (Persien, Griechenland) haben ihre unsichtbaren „Fürsten“. Der Kampf geht weiter, aber Gott hat alles im Blick: Es steht im „Buch der Wahrheit“ (Vers 21).
 

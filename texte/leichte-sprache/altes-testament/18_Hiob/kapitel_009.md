@@ -63,7 +63,7 @@ Ich verachte mein Leben.
 
 > **Was bedeutet das?**
 > Hiob fühlt sich völlig hilflos. Selbst wenn er recht hätte, würde er vor Gott nicht bestehen können. Gott ist Richter und Gegner zugleich.
-> Vers 17: „Er vermehrt meine Wunden ohne Grund.“ Genau dieses Wort hatte Gott selbst im Himmel benutzt: „ohne Grund“ (Kapitel 2,3). Hiob weiß nichts davon, aber er hat recht.
+> Vers 17: „Er zermalmt mich mit einem Sturm und vermehrt meine Wunden ohne Grund.“ Genau dieses Wort hatte Gott selbst im Himmel benutzt: „ohne Grund“ (Kapitel 2,3). Hiob weiß nichts davon, aber er hat recht.
 > Vers 21: „Ich bin untadelig.“ Hiob hält fest an seiner Unschuld, obwohl alle anderen ihm das Gegenteil sagen.
 
 ---
@@ -116,6 +116,6 @@ Denn so bin ich nicht in mir selbst.“
 > Hiob versucht, positiv zu denken: „Ich will fröhlich sein.“ Aber es geht nicht. Der Schmerz ist zu groß. Wer leidet, kann nicht einfach „gut drauf sein“.
 > Vers 30–31: Egal wie sehr er sich reinigt, Gott würde ihn wieder schmutzig machen. Er fühlt sich ohnmächtig.
 > Vers 33 ist einer der wichtigsten Verse im Buch: Hiob wünscht sich einen „Schiedsrichter“, einen Vermittler zwischen Gott und Mensch, der „seine Hand auf beide legt“. Jemand, der Gott und den Menschen versteht und beide zusammenbringt.
-> Christen sehen in diesem Wunsch einen Hinweis auf Jesus: „Es ist ein Mittler zwischen Gott und den Menschen, der Mensch Christus Jesus“ (1. Timotheus 2,5). Jesus ist Gott und Mensch zugleich.
+> Christen sehen in diesem Wunsch einen Hinweis auf Jesus: „Es gibt einen Gott und einen Vermittler zwischen Gott und den Menschen: den Menschen Christus Jesus“ (1. Timotheus 2,5). Jesus ist Gott und Mensch zugleich.
 > Hiob wird diesen Gedanken später weiterführen (Kapitel 16,19–21; 19,25).
 > „So bin ich nicht in mir selbst“: Gemeint ist wohl: Ich habe in mir nichts, wovor ich mich fürchten müsste. Ich bin mir keiner Schuld bewusst.

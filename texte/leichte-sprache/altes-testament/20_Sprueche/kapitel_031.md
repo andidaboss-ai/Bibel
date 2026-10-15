@@ -86,7 +86,7 @@ Ihre Werke sollen sie in den Toren loben!
 > Diese Frau ist erstaunlich selbstständig und stark: Sie arbeitet mit den Händen, macht Geschäfte, kauft Land, pflanzt einen Weinberg, sorgt für ihre Familie und ihre Angestellten, hilft den Armen, lehrt mit Weisheit und hat keine Angst vor der Zukunft.
 > Sie ist kein Bild einer Frau, die nur dient. Sie ist eine kluge Unternehmerin, eine Lehrerin und eine Mutter, die geehrt wird.
 > Vers 25: „Sie lacht über die kommende Zeit“: Sie hat keine Angst vor der Zukunft, weil sie gut vorgesorgt hat und Gott vertraut.
-> Vers 30: Das Wichtigste ist nicht Schönheit, sondern die Ehrfurcht vor Gott. So schließt sich der Kreis zu Kapitel 1,7: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis.“
+> Vers 30: Das Wichtigste ist nicht Schönheit, sondern die Ehrfurcht vor Gott. So schließt sich der Kreis zum Anfang des Buches: „Die Ehrfurcht vor dem HERRN ist der Anfang der Erkenntnis“ (1,7).
 > Im Judentum singen Männer dieses Lied („Eschet Chajil“) am Freitagabend zu Beginn des Sabbats für ihre Frauen.
 > Manche Ausleger sehen in dieser Frau auch ein Bild für die Weisheit selbst, die am Anfang des Buches als Frau auftrat (Kapitel 1, 8 und 9).
 > Das Lied ist kein Maßstab, an dem sich jede Frau messen muss. Es ist ein Lob für alles, was Frauen leisten, und eine Aufforderung, das sichtbar zu ehren (Vers 31).

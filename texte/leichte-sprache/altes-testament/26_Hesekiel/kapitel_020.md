@@ -143,7 +143,7 @@ damit sie erkennen, dass ich der HERR bin.“‘
 > **Was bedeutet das?**
 > Auch die zweite Generation macht dieselben Fehler. Und wieder handelt Gott „um seines Namens willen“ und schont sie.
 > Vers 25–26: Das sind sehr schwierige Verse. „Satzungen, die nicht gut waren“ – das kann nicht bedeuten, dass Gott schlechte Gebote gegeben hat. An anderer Stelle verbietet Gott ausdrücklich Kinderopfer (3. Mose 18,21; 5. Mose 18,10; Jeremia 7,31: „was ich nicht geboten habe und was mir nie in den Sinn gekommen ist“).
-> Eine häufige Erklärung: Gott hat sie ihren eigenen falschen Weg gehen lassen. Weil sie seine guten Gebote nicht wollten, überließ er sie den schlechten Bräuchen, die sie selbst wählten, bis hin zu den grausamen Kinderopfern der fremden Religionen. (Vgl. Römer 1,24: „Darum hat Gott sie dahingegeben …“)
+> Eine häufige Erklärung: Gott hat sie ihren eigenen falschen Weg gehen lassen. Weil sie seine guten Gebote nicht wollten, überließ er sie den schlechten Bräuchen, die sie selbst wählten, bis hin zu den grausamen Kinderopfern der fremden Religionen. (Vgl. Römer 1,24: „Darum überließ Gott sie den Begierden ihrer Herzen …“)
 > Eine andere Erklärung: Das Gebot, die Erstgeborenen Gott zu „geben“ (2. Mose 13,2.12), wurde von manchen völlig falsch verstanden und als Kinderopfer missbraucht. Gott wollte aber immer, dass die Erstgeborenen ausgelöst werden (2. Mose 13,13).
 
 ---
@@ -191,7 +191,7 @@ und Holz und Stein dienen.‘
 
 > **Was bedeutet das?**
 > Jetzt kommt Gott zur Gegenwart: Die Ältesten tun dasselbe wie ihre Väter.
-> Vers 32: Hier kommt heraus, was sie wirklich denken: „Wir wollen sein wie alle anderen Völker.“ Im Exil war die Versuchung groß, sich einfach anzupassen, die Götter der Babylonier anzubeten und die eigene Identität aufzugeben.
+> Vers 32: Hier kommt heraus, was sie wirklich denken: „Wir wollen sein wie die Völker, wie die Sippen der Länder, und Holz und Stein dienen.“ Im Exil war die Versuchung groß, sich einfach anzupassen, die Götter der Babylonier anzubeten und die eigene Identität aufzugeben.
 > Aber Gott sagt: Das wird nicht geschehen. Gott lässt sein Volk nicht los.
 
 ---
@@ -224,7 +224,7 @@ Dann werdet ihr erkennen, dass ich der HERR bin.
 > **Was bedeutet das?**
 > Gott kündigt einen neuen Auszug an, wie damals aus Ägypten: „mit starker Hand und ausgestrecktem Arm“ (vgl. 5. Mose 5,15). Diesmal aus Babylon und aus allen Ländern.
 > Vers 35–36: Wie damals in der Wüste wird es eine Zeit der Prüfung geben.
-> Vers 37: „Unter dem Stab hindurchgehen“ – so zählte ein Hirte seine Schafe. Jedes Schaf ging unter seinem Stab hindurch, und er sah es genau an. Gott kennt jeden Einzelnen.
+> Vers 37: Gott sagt: „Ich werde euch unter dem Hirtenstab hindurchgehen lassen.“ So zählte ein Hirte seine Schafe. Jedes Schaf ging unter seinem Stab hindurch, und er sah es genau an. Gott kennt jeden Einzelnen.
 
 ---
 
@@ -264,10 +264,10 @@ Haus Israel“,
 spricht der Herr, der HERR.‘“
 
 > **Was bedeutet das?**
-> Vers 39: Gott sagt bitter-ironisch: „Wenn ihr nicht hören wollt, dann dient doch euren Götzen. Aber tut nicht so, als würdet ihr mir dienen.“ Gott will keine geteilte Treue.
+> Vers 39: Gott sagt bitter-ironisch: „Geht hin, jeder diene seinen Götzen, auch künftig, wenn ihr nicht auf mich hören wollt. Aber meinen heiligen Namen sollt ihr nicht mehr entweihen …“ Das heißt: Tut nicht so, als würdet ihr mir dienen. Gott will keine geteilte Treue.
 > Vers 40–42: Dann die Verheißung: Ganz Israel wird wieder auf Gottes heiligem Berg (dem Zion in Jerusalem) zusammenkommen und Gott dienen. Gott wird sie annehmen „wie einen lieblichen Duft“.
 > Vers 43: Wenn sie Gottes Güte erleben, werden sie erst richtig erkennen, wie falsch sie gehandelt haben. Echte Reue kommt oft nicht durch Strafe, sondern durch erfahrene Liebe.
-> Vers 44: Am Ende wieder der Schlüsselsatz: Gott handelt „um seines Namens willen, nicht nach euren bösen Wegen“. Das ist Gnade: Gott behandelt uns nicht so, wie wir es verdienen (vgl. Psalm 103,10).
+> Vers 44: Am Ende wieder der Schlüsselsatz: Gott handelt „um meines Namens willen“ und „nicht nach euren bösen Wegen“. Das ist Gnade: Gott behandelt uns nicht so, wie wir es verdienen (vgl. Psalm 103,10).
 
 ---
 
@@ -295,4 +295,4 @@ Sie sagen von mir:
 > **Was bedeutet das?**
 > Hinweis: In deutschen Bibeln stehen diese Verse meist als Kapitel 21, Vers 1–5. Wir folgen hier der Zählung des WEB.
 > Der „Süden“ ist von Babylon aus gesehen Juda und Jerusalem (man kam von Norden her ins Land). Ein Waldbrand wird alles verbrennen, grüne und dürre Bäume, also Gerechte und Ungerechte. In Kapitel 21 wird das Bild erklärt.
-> Vers 49: Hesekiel klagt: Die Leute nehmen ihn nicht ernst. „Der erzählt doch nur Geschichten.“ Man kann Gottes Wort als bloße Unterhaltung abtun, aber dann verpasst man seine ernste Botschaft.
+> Vers 49: Hesekiel klagt: Die Leute nehmen ihn nicht ernst. Sie sagen: „Redet der nicht immer nur in Gleichnissen?“ Man kann Gottes Wort als bloße Unterhaltung abtun, aber dann verpasst man seine ernste Botschaft.

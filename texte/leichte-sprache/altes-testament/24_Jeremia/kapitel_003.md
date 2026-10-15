@@ -104,7 +104,7 @@ und sie werden zusammen aus dem Land des Nordens kommen
 in das Land, das ich euren Vätern zum Erbe gegeben habe.
 
 > **Was bedeutet das?**
-> Vers 12–13: Gott ruft sogar das längst zerstörte Nordreich zurück: „Kehre zurück! Ich bin barmherzig.“ Nur eins ist nötig: die eigene Schuld zugeben.
+> Vers 12–13: Gott ruft sogar das längst zerstörte Nordreich zurück: „Kehre zurück, du abtrünnige Israel … denn ich bin barmherzig.“ Nur eins ist nötig: die eigene Schuld zugeben.
 > Vers 14: „Kehrt um, ihr abtrünnigen Kinder!“ Gott ist bereit, auch die Wenigen heimzuholen, „einen aus einer Stadt, zwei aus einer Sippe“. Jeder Einzelne zählt.
 > Vers 15: Gott verspricht gute Hirten, also Anführer, die das Volk mit Wissen und Verstand leiten.
 > Vers 16: Erstaunlich: Die Bundeslade, das heiligste Ding im Tempel, wird man nicht mehr vermissen. Denn ganz Jerusalem wird Gottes Thron sein (Vers 17). Gottes Nähe ist dann nicht mehr an einen Gegenstand gebunden. Was später mit der Bundeslade geschah, wissen wir nicht. Nach der Zerstörung Jerusalems wird sie in der Bibel nicht mehr erwähnt.
@@ -147,7 +147,7 @@ Wir haben nicht auf die Stimme des HERRN, unseres Gottes, gehört.“
 > **Was bedeutet das?**
 > Vers 19: Gott hatte sich so sehr gewünscht, dass sein Volk ihn „Mein Vater“ nennt und bei ihm bleibt.
 > Vers 21: Auf den Hügeln, wo früher fremde Götter verehrt wurden, hört man jetzt Weinen und Beten.
-> Vers 22: Gott ruft: „Kehrt um, ich will euch heilen!“ Und das Volk antwortet: „Siehe, wir kommen zu dir!“ Ein schönes Beispiel dafür, wie Umkehr aussieht.
+> Vers 22: Gott ruft: „Kehrt um, ihr abtrünnigen Kinder, ich will eure Abtrünnigkeit heilen.“ Und das Volk antwortet: „Siehe, wir kommen zu dir!“ Ein schönes Beispiel dafür, wie Umkehr aussieht.
 > Vers 23: Das Volk erkennt: Die Götzen auf den Hügeln konnten nicht helfen. Nur Gott rettet.
 > Vers 24: „Das Schändliche“ ist ein verächtlicher Name für den Götzen Baal. Der Götzendienst hat alles gefressen, sogar Söhne und Töchter. Damit sind wohl auch die schrecklichen Kinderopfer gemeint (vgl. Jeremia 7,31).
 > Vers 25: Ein ehrliches Schuldbekenntnis. Es ist der erste Schritt zu einem neuen Anfang.

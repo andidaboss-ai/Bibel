@@ -79,7 +79,7 @@ und wir haben nicht auf seine Stimme gehört.
 
 > **Was bedeutet das?**
 > Daniels Gebet ist ein großes Sündenbekenntnis. Bemerkenswert: Daniel selbst war treu. In den Erzählungen wird kein Fehler von ihm berichtet. Trotzdem sagt er nicht „sie haben gesündigt“, sondern „WIR haben gesündigt“. Er stellt sich in die Gemeinschaft seines Volkes und trägt die Schuld mit.
-> Vers 7 und 9: Ein starker Gegensatz: „Dir gehört die Gerechtigkeit, uns die Scham.“ Aber auch: „Dir gehören Erbarmen und Vergebung.“ Daniel weiß: Gott ist gerecht, aber er ist auch barmherzig.
+> Vers 7 und 9: Ein starker Gegensatz: „Dir gehört die Gerechtigkeit, uns aber die Schamröte im Gesicht.“ Aber auch: „Dem Herrn, unserem Gott, gehören Erbarmen und Vergebung.“ Daniel weiß: Gott ist gerecht, aber er ist auch barmherzig.
 > Dieses Gebet ist zu einem Vorbild für Bußgebete geworden, im Judentum und im Christentum.
 
 ---
@@ -116,8 +116,8 @@ um deinetwillen, mein Gott,
 denn deine Stadt und dein Volk sind nach deinem Namen genannt.“
 
 > **Was bedeutet das?**
-> Vers 18: Der Kern des Gebets: „Nicht weil wir gerecht sind, bitten wir dich, sondern wegen deines großen Erbarmens.“ Wir können vor Gott nichts vorweisen. Wir können nur auf seine Gnade vertrauen.
-> Vers 19: Ein kurzes, eindringliches Gebet: „Herr, höre! Herr, vergib! Herr, handle!“ Man kann es auch heute beten, wenn man nicht mehr weiterweiß.
+> Vers 18: Der Kern des Gebets: „Denn nicht im Vertrauen auf unsere Gerechtigkeit legen wir unser Flehen vor dir nieder, sondern im Vertrauen auf dein großes Erbarmen.“ Wir können vor Gott nichts vorweisen. Wir können nur auf seine Gnade vertrauen.
+> Vers 19: Ein kurzes, eindringliches Gebet: „Herr, höre! Herr, vergib! Herr, merke auf und handle!“ Man kann es auch heute beten, wenn man nicht mehr weiterweiß.
 
 ---
 
@@ -186,5 +186,5 @@ wird der Zorn über das Verwüstete ausgegossen werden.“
 > – Viele Christen beziehen die Verse auf Jesus Christus, den „Gesalbten“ (Messias), der getötet wurde, und auf die Zerstörung Jerusalems durch die Römer im Jahr 70 nach Christus.
 > – Im Judentum wurden sie auch auf die Zerstörung des Zweiten Tempels bezogen.
 > Das WEB übersetzt in Vers 25–26 „the Anointed One“ (der Gesalbte) mit großem Anfangsbuchstaben, wie ein Name. Im Hebräischen steht kein Artikel; man kann auch „ein Gesalbter“ übersetzen.
-> Jesus spricht vom „Gräuel der Verwüstung, von dem der Prophet Daniel geredet hat“ (Matthäus 24,15).
+> Jesus sagt: „Wenn ihr nun den ‚Gräuel der Verwüstung‘ am heiligen Ort stehen seht, von dem der Prophet Daniel gesprochen hat …“ (Matthäus 24,15).
 > Die wichtige Botschaft für alle: Gott hat einen Plan für die Geschichte. Die Not hat ein Ende. Am Ziel stehen Vergebung und „ewige Gerechtigkeit“ (Vers 24).

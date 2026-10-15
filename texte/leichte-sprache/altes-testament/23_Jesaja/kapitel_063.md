@@ -32,7 +32,7 @@ Ich habe ihren Lebenssaft auf die Erde ausgegossen.“
 > **Was bedeutet das?**
 > Ein erschreckendes Bild: Gott kommt aus Edom (einem Nachbarvolk, das Israel oft feindlich war) wie ein Winzer, der Trauben in der Kelter tritt. Seine Kleider sind rot, nicht vom Traubensaft, sondern vom Blut der Feinde.
 > Das Bild beschreibt Gottes Gericht über die Mächte, die Israel unterdrückt haben. Gott handelt allein, weil kein Mensch eingegriffen hat (Vers 5, wie in Kapitel 59,16).
-> Wichtig: Hier handelt Gott, nicht Menschen. Der Text gibt niemandem das Recht, im Namen Gottes Gewalt anzuwenden oder Rache zu üben. Gericht und Vergeltung sind allein Gottes Sache (vgl. Römer 12,19). Im Mittelpunkt steht Vers 4: „Das Jahr meiner Erlösten ist gekommen.“ Es geht um die Befreiung der Unterdrückten.
+> Wichtig: Hier handelt Gott, nicht Menschen. Der Text gibt niemandem das Recht, im Namen Gottes Gewalt anzuwenden oder Rache zu üben. Gericht und Vergeltung sind allein Gottes Sache (vgl. Römer 12,19). Im Mittelpunkt steht dieser Satz: „Das Jahr meiner Erlösten ist gekommen“ (63,4). Es geht um die Befreiung der Unterdrückten.
 > Die Offenbarung nimmt dieses Bild auf (19,13–15). Das Lied „Mine eyes have seen the glory“ (Battle Hymn of the Republic) spielt ebenfalls darauf an.
 
 ---

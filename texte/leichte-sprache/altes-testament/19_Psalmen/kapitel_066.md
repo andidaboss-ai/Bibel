@@ -55,7 +55,7 @@ aber du hast uns herausgeführt an einen Ort der Fülle.
 > **Was bedeutet das?**
 > Das Volk hat schwere Zeiten erlebt: Gefangenschaft, Unterdrückung, Demütigung.
 > Vers 10: Diese Zeiten waren wie Feuer, in dem Silber gereinigt wird. Das Leid hat das Volk geläutert.
-> Vers 12: „Durch Feuer und Wasser“: durch alle Gefahren. Aber am Ende führt Gott in die Fülle (vgl. Jesaja 43,2).
+> Vers 12: „Durch Feuer und durch Wasser“: durch alle Gefahren. Aber am Ende führt Gott in die Fülle (vgl. Jesaja 43,2).
 
 ---
 

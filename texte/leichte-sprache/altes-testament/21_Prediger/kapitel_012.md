@@ -36,7 +36,7 @@ und der Geist zu Gott zurückkehrt, der ihn gegeben hat.
 „Alles ist nichtig!“
 
 > **Was bedeutet das?**
-> Vers 1: „Denk an deinen Schöpfer, solange du jung bist.“ Warte nicht, bis du alt und krank bist.
+> Vers 1: „Denk auch an deinen Schöpfer in den Tagen deiner Jugend.“ Das heißt: Denk an ihn, solange du jung bist. Warte nicht, bis du alt und krank bist.
 > Vers 2–6 sind ein großes Gedicht über das Altwerden. Die Bilder sind sehr poetisch. Viele Ausleger deuten sie so:
 > Die „Wächter des Hauses“, die zittern, sind die Hände. Die „starken Männer“, die sich krümmen, sind die Beine. Die „Müllerinnen“, die wenige werden, sind die Zähne. Die, „die aus den Fenstern schauen“ und dunkel werden, sind die Augen. Das leise Geräusch der Mühle ist das schlechte Hören. Man wacht früh auf, schon wenn ein Vogel singt. Man fürchtet sich vor Höhen und vor dem Fallen. Der weiß blühende Mandelbaum sind die weißen Haare. Selbst eine kleine Heuschrecke wird zur Last.
 > Vers 6: Dann zerreißt der „silberne Strick“, an dem die goldene Lampe hängt. Der Krug am Brunnen zerbricht. Das sind Bilder für den Tod: Das Leben zerbricht wie ein kostbares Gefäß.

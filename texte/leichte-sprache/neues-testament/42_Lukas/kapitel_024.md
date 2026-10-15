@@ -228,7 +228,7 @@ bis ihr mit Kraft aus der Höhe ausgerüstet werdet.“
 > Vers 36: „Friede sei mit euch!“ ist der jüdische Gruß „Schalom“. Er wird bis heute im Gottesdienst gesprochen.
 > Vers 39–43: Lukas betont: Der Auferstandene ist kein Gespenst. Er hat einen Leib, man kann ihn berühren, er isst. Und doch ist er anders: Er erscheint und verschwindet. Die Auferstehung ist ein Geheimnis, das unser Verstehen übersteigt.
 > Vers 40 fehlt in einer alten Handschrift. Vers 42: Die Worte „und etwas Honigwabe“ fehlen in den meisten alten Handschriften. Das WEB hat sie.
-> Vers 44: „Gesetz, Propheten und Psalmen“ sind die drei Teile der Heiligen Schrift Israels. Jesus liest die ganze Bibel Israels als Zeugnis für sich.
+> Vers 44: „Im Gesetz des Mose, in den Propheten und in den Psalmen“: Das sind die drei Teile der Heiligen Schrift Israels. Jesus liest die ganze Bibel Israels als Zeugnis für sich.
 > Vers 47: Die Botschaft soll zu allen Völkern gehen, aber in Jerusalem beginnen. Davon erzählt die Apostelgeschichte, der zweite Teil des Werkes von Lukas.
 > Vers 49: „Was mein Vater versprochen hat“ ist der Heilige Geist. Er kommt an Pfingsten (Apostelgeschichte 2).
 
@@ -263,8 +263,8 @@ Amen.
 
 > **Was bedeutet das?**
 > **Ein sorgfältiger Bericht:** Lukas wollte „alles von Anfang an genau“ aufschreiben (1,3). Er nennt Kaiser und Herrscher und ordnet Jesu Geschichte in die Weltgeschichte ein. Er schreibt für Theophilus und für alle, die Gott lieben.
-> **Weihnachten:** Bei Lukas finden wir die Geschichte von Marias Ja, der Geburt in Betlehem, der Krippe, den Hirten und den Engeln: „Euch ist heute der Retter geboren“ (2,11). Dazu die Lieder von Maria, Zacharias und Simeon, die bis heute gesungen werden.
-> **Gute Nachricht für die Armen:** In Nazaret liest Jesus aus Jesaja: „Er hat mich gesandt, den Armen die gute Nachricht zu bringen“ (4,18). Lukas zeigt Jesus an der Seite der Armen, Kranken, Zöllner, Sünder, Samariter und Fremden.
+> **Weihnachten:** Bei Lukas finden wir die Geschichte von Marias Ja, der Geburt in Betlehem, der Krippe, den Hirten und den Engeln: „Heute ist euch in der Stadt Davids der Retter geboren“ (2,11). Dazu die Lieder von Maria, Zacharias und Simeon, die bis heute gesungen werden.
+> **Gute Nachricht für die Armen:** In Nazaret liest Jesus aus Jesaja: „Er hat mich gesalbt, den Armen die gute Nachricht zu bringen“ (4,18). Lukas zeigt Jesus an der Seite der Armen, Kranken, Zöllner, Sünder, Samariter und Fremden.
 > **Frauen:** Bei Lukas spielen Frauen eine große Rolle: Maria und Elisabet, die Prophetin Hanna, die Frauen, die Jesus begleiten und unterstützen, Marta und Maria, die Witwen. Frauen sind die ersten Zeuginnen der Auferstehung.
 > **Berühmte Gleichnisse:** Nur Lukas erzählt vom barmherzigen Samariter, vom verlorenen Sohn, vom reichen Kornbauern, vom reichen Mann und dem armen Lazarus, vom Pharisäer und Zöllner.
 > **Gebet und Heiliger Geist:** Jesus betet bei Lukas vor allen wichtigen Momenten. Und er verspricht den Heiligen Geist.

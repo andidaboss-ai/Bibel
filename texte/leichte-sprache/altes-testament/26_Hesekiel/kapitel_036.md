@@ -82,9 +82,9 @@ und du sollst dein Volk nicht mehr zu Fall bringen“,
 spricht der Herr, der HERR.‘“
 
 > **Was bedeutet das?**
-> Vers 9: „Ich bin für euch!“ Was für ein Satz nach all dem Gericht! (vgl. Römer 8,31: „Ist Gott für uns, wer kann gegen uns sein?“)
+> Vers 9: „Ich bin für euch!“ Was für ein Satz nach all dem Gericht! (vgl. Römer 8,31: „Wenn Gott für uns ist, wer kann gegen uns sein?“)
 > Das verwüstete Land wird wieder fruchtbar. Felder werden bestellt, Städte wieder aufgebaut, Menschen und Tiere werden zahlreich. Gott verspricht sogar: „Ich werde euch mehr Gutes tun als am Anfang.“
-> Vers 13–14: Die Leute sagten über das Land: „Es frisst seine Bewohner.“ So viel Krieg, Hunger und Tod hatte es dort gegeben. Gott verspricht: Das wird aufhören.
+> Vers 13–14: Die Leute sagten zum Land: „Du bist ein Land, das Menschen frisst.“ So viel Krieg, Hunger und Tod hatte es dort gegeben. Gott verspricht: Das wird aufhören.
 
 ---
 
@@ -124,9 +124,9 @@ spricht der Herr, der HERR,
 
 > **Was bedeutet das?**
 > Vers 17: Hier wird die Schuld Israels mit der „Unreinheit einer Frau“ während der Menstruation verglichen. Das bezieht sich auf die alten Reinheitsregeln (3. Mose 15,19–24). Wichtig: Die Menstruation ist etwas ganz Natürliches. Sie ist keine Sünde und nichts Schmutziges. Der Vergleich meint nur die rituelle (kultische) Unreinheit nach den damaligen Regeln. Heute würde man ein solches Bild nicht mehr benutzen.
-> Vers 20: Die anderen Völker sahen die Verbannten und spotteten: „Das soll Gottes Volk sein? Ihr Gott konnte sie nicht einmal in ihrem Land halten!“ So wurde Gottes Name lächerlich gemacht.
+> Vers 20: Die anderen Völker sahen die Verbannten und spotteten: „Das ist das Volk des HERRN, und doch mussten sie aus seinem Land fortziehen.“ Das heißt: Ihr Gott konnte sie nicht einmal in ihrem Land halten. So wurde Gottes Name lächerlich gemacht.
 > Vers 22: „Nicht um euretwillen.“ Gott rettet Israel nicht, weil es das verdient hätte, sondern weil Gott treu ist und seinen Namen, also sein Wesen und seinen Ruf, vor der Welt zeigen will. Das ist reine Gnade.
-> Vers 23: „Ich werde meinen Namen heiligen.“ Jesus lehrt uns beten: „Geheiligt werde dein Name“ (Matthäus 6,9).
+> Vers 23: „Ich werde meinen großen Namen heiligen.“ Jesus lehrt uns beten: „Dein Name werde geheiligt“ (Matthäus 6,9).
 
 ---
 
@@ -168,7 +168,7 @@ Schämt euch und werdet rot über eure Wege, Haus Israel.“
 > Vers 25: Gott reinigt sein Volk mit reinem Wasser. Er wäscht alles Alte ab. (Christen denken dabei an die Taufe.)
 > Vers 26: Gott gibt ein neues Herz. Ein Herz aus Stein ist hart, kalt und unbeweglich. Ein Herz aus Fleisch ist lebendig, warm und kann fühlen. Gott verändert den Menschen von innen heraus. Was der Mensch selbst nicht schafft, das schenkt Gott.
 > Vers 27: Gott legt seinen eigenen Geist in die Menschen. Dann halten sie Gottes Gebote nicht mehr aus Zwang, sondern weil sie es von innen heraus wollen.
-> Diese Verheißung erinnert an den „neuen Bund“ in Jeremia 31,31–34. Jesus spricht davon, dass man „aus Wasser und Geist geboren“ werden muss (Johannes 3,5). Christen sehen die Erfüllung im Geschenk des Heiligen Geistes (Apostelgeschichte 2). Im Judentum wird dieser Text als Verheißung für die Erneuerung Israels gelesen.
+> Diese Verheißung erinnert an den „neuen Bund“ in Jeremia 31,31–34. Jesus sagt: „Wenn jemand nicht aus Wasser und Geist geboren wird, kann er nicht in das Reich Gottes kommen“ (Johannes 3,5). Christen sehen die Erfüllung im Geschenk des Heiligen Geistes (Apostelgeschichte 2). Im Judentum wird dieser Text als Verheißung für die Erneuerung Israels gelesen.
 > Vers 31: Wenn Menschen Gottes Güte erleben, sehen sie ihre eigene Vergangenheit ehrlicher. Gemeint ist Reue, nicht Selbsthass.
 
 ---

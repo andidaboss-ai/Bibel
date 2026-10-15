@@ -21,7 +21,7 @@ und bereue in Staub und Asche.“
 > **Was bedeutet das?**
 > Das ist Hiobs letzte Antwort. Er erkennt: Gott kann alles. Gottes Pläne gehen weit über das hinaus, was ich verstehe.
 > In Vers 3 und 4 zitiert Hiob Gottes eigene Worte (Kapitel 38,2–3). Er gibt zu: Ich habe über Dinge geredet, die zu groß für mich waren.
-> Vers 5 ist einer der wichtigsten Sätze im ganzen Buch: „Ich hatte von dir gehört, aber jetzt hat mein Auge dich gesehen.“ Vorher kannte Hiob Gott vom Hörensagen. Jetzt hat er Gott selbst erlebt. Das verändert alles.
+> Vers 5 ist einer der wichtigsten Sätze im ganzen Buch: „Ich hatte von dir mit dem Hören des Ohres gehört, aber jetzt hat mein Auge dich gesehen.“ Vorher kannte Hiob Gott vom Hörensagen. Jetzt hat er Gott selbst erlebt. Das verändert alles.
 > Vers 6 kann man im Hebräischen verschieden verstehen:
 > – „Ich verabscheue mich“ (so der englische Text), oder
 > – „Ich widerrufe (meine Worte)“, oder
@@ -111,7 +111,7 @@ und sah seine Söhne und die Söhne seiner Söhne, vier Generationen.
 > **Die Frage:** Das Buch Hiob stellt eine der schwersten Fragen der Menschheit: Warum müssen gute Menschen leiden? Hiob ist fromm und gerecht, und doch verliert er alles: Besitz, Kinder, Gesundheit.
 > **Die falsche Antwort:** Die drei Freunde sagen: Wer leidet, muss gesündigt haben. Gott sagt am Ende klar: Das ist falsch. Leid ist nicht immer Strafe. Man darf Leidenden nicht vorwerfen, sie seien selbst schuld. Auch Jesus sagt das später (Johannes 9,1–3; Lukas 13,1–5).
 > **Ehrliche Klage:** Hiob verflucht Gott nicht, aber er klagt und schreit, er streitet mit Gott. Und Gott sagt, dass Hiob „recht von mir geredet“ hat. Das Buch erlaubt uns, Gott unseren Schmerz und unsere Fragen ehrlich zu sagen.
-> **Die Hoffnung:** Mitten in der Verzweiflung hat Hiob große Momente des Glaubens: „Ich weiß, dass mein Erlöser lebt“ (19,25). Er sehnt sich nach einem Schiedsrichter, einem Zeugen im Himmel, einem Fürsprecher. Christen sehen darin einen Hinweis auf Jesus Christus.
+> **Die Hoffnung:** Mitten in der Verzweiflung hat Hiob große Momente des Glaubens: „Ich aber, ich weiß: Mein Erlöser lebt“ (19,25). Er sehnt sich nach einem Schiedsrichter, einem Zeugen im Himmel, einem Fürsprecher. Christen sehen darin einen Hinweis auf Jesus Christus.
 > **Elihu:** Der junge Elihu bringt einen neuen Gedanken: Leid kann auch eine Erziehung oder Warnung sein, durch die Gott spricht. Das stimmt manchmal, aber nicht immer.
 > **Gottes Antwort:** Gott erklärt Hiob nicht, warum er gelitten hat. Er zeigt ihm die Größe und Schönheit der Schöpfung, vom Morgenstern bis zum Leviatan. Die Botschaft: Die Welt ist größer, als du verstehst. Aber ich habe sie in der Hand. Du kannst mir vertrauen.
 > **Gott begegnen:** Das Wichtigste für Hiob ist nicht die Antwort, sondern die Begegnung: „Jetzt hat mein Auge dich gesehen.“

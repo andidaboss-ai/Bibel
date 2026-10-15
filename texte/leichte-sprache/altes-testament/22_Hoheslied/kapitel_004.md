@@ -34,7 +34,7 @@ Kein Makel ist an dir.
 > **Was bedeutet das?**
 > Der Mann beschreibt die Schönheit seiner Geliebten von Kopf bis Fuß. Solche Lieder heißen auf Arabisch „Wasf“, Beschreibungslied. Die Bilder klingen für uns ungewohnt, aber damals waren sie wunderschön:
 > Ihr schwarzes Haar wallt wie eine Herde schwarzer Ziegen, die einen Berg hinabzieht. Ihre Zähne sind weiß wie frisch gewaschene Schafe und vollständig, keiner fehlt. Ihr Hals ist schlank und stolz wie ein Turm, geschmückt mit Ketten wie mit Schilden.
-> Vers 7: „Du bist ganz schön, kein Makel ist an dir.“ So sieht Liebe den anderen. Christen haben diesen Vers auch auf die Kirche bezogen, die Christus liebt (Epheser 5,27).
+> Vers 7: „Du bist ganz schön, meine Liebste. Kein Makel ist an dir.“ So sieht Liebe den anderen. Christen haben diesen Vers auch auf die Kirche bezogen, die Christus liebt (Epheser 5,27).
 
 ---
 

@@ -116,7 +116,7 @@ Du erneuerst das Angesicht der Erde.
 > Vers 24 ist der Höhepunkt: „Wie zahlreich sind deine Werke! Mit Weisheit hast du sie alle gemacht.“ Die Vielfalt der Schöpfung zeigt Gottes Weisheit.
 > Vers 26: Der Leviatan, sonst ein Bild für das bedrohliche Chaos (Hiob 41), ist hier wie ein Haustier, das Gott zum Spielen gemacht hat. Manche denken an einen Wal.
 > Vers 27–30: Alles Leben hängt von Gott ab. Wenn er seinen Atem gibt, leben die Geschöpfe. Wenn er ihn nimmt, sterben sie.
-> Vers 30 wird an Pfingsten gebetet: „Sende aus deinen Geist, und das Angesicht der Erde wird neu.“
+> Vers 30 wird an Pfingsten gebetet: „Sendest du deinen Geist aus, so werden sie geschaffen. Du erneuerst das Angesicht der Erde.“
 
 ---
 

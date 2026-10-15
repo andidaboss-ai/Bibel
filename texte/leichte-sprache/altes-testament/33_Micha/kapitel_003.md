@@ -76,7 +76,7 @@ und der Tempelberg zu Waldhöhen.
 
 > **Was bedeutet das?**
 > Vers 10: Jerusalem wurde prachtvoll ausgebaut, aber mit „Blut und Unrecht“: auf Kosten der Armen, durch Ausbeutung und vielleicht Zwangsarbeit.
-> Vers 11: Alle sind käuflich: Richter, Priester, Propheten. Und trotzdem fühlen sie sich sicher: „Gott ist doch bei uns! Der Tempel steht doch hier!“ Sie benutzen Gott als Versicherung, ohne nach seinem Willen zu leben.
+> Vers 11: Alle sind käuflich: Richter, Priester, Propheten. Und trotzdem fühlen sie sich sicher: „Ist nicht der HERR mitten unter uns? Kein Unheil wird über uns kommen.“ Sie benutzen Gott als Versicherung, ohne nach seinem Willen zu leben.
 > Vers 12: Die Antwort: Zion wird umgepflügt wie ein Acker. Der Tempelberg wird zu einem überwucherten Hügel.
 > Diese Worte waren so berühmt, dass man sie hundert Jahre später noch zitierte. Als der Prophet Jeremia wegen ähnlicher Worte getötet werden sollte, erinnerten einige Älteste daran: Micha hat das auch gesagt, und König Hiskija hat ihn nicht getötet, sondern ist umgekehrt (Jeremia 26,17–19).
 

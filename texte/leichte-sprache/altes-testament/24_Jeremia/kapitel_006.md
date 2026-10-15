@@ -114,7 +114,7 @@ Väter und Söhne zusammen werden darüber stolpern.
 Der Nachbar und sein Freund werden umkommen.“
 
 > **Was bedeutet das?**
-> Vers 16 ist ein schöner, oft zitierter Vers: Wenn du nicht weißt, wohin, dann bleib stehen, schau dich um und frag nach den bewährten Wegen. Geh den guten Weg, dann findest du Ruhe für deine Seele. Jesus sagt Ähnliches: „Ihr werdet Ruhe finden für eure Seelen“ (Matthäus 11,29).
+> Vers 16 ist ein schöner, oft zitierter Vers: Wenn du nicht weißt, wohin, dann bleib stehen, schau dich um und frag nach den bewährten Wegen. Geh den guten Weg, dann findest du Ruhe für deine Seele. Jesus sagt Ähnliches: „So werdet ihr Ruhe finden für eure Seelen“ (Matthäus 11,29).
 > Aber das Volk antwortet: „Wir wollen nicht!“
 > Vers 17: Die „Wächter“ sind die Propheten, die warnen. Aber niemand hört auf sie.
 > Vers 20: Teure Opfergaben aus fernen Ländern nützen nichts, wenn das Herz nicht bei Gott ist.

@@ -103,5 +103,5 @@ Blutgierige und betrügerische Menschen werden nicht die Hälfte ihrer Tage erle
 Ich aber vertraue auf dich.
 
 > **Was bedeutet das?**
-> Vers 22 ist einer der bekanntesten Trostverse der Bibel: „Wirf deine Last auf den HERRN.“ Petrus greift ihn auf: „Alle eure Sorge werft auf ihn, denn er sorgt für euch“ (1. Petrus 5,7).
+> Vers 22 ist einer der bekanntesten Trostverse der Bibel: „Wirf deine Last auf den HERRN.“ Petrus greift ihn auf: „Gebt alle eure Sorgen an ihn ab, denn er kümmert sich um euch“ (1. Petrus 5,7).
 > Der Psalm endet mit einem einfachen Satz: „Ich aber vertraue auf dich.“ Trotz Verrat und Gewalt hält der Beter an Gott fest.

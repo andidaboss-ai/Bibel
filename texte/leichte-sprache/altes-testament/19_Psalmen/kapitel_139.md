@@ -70,7 +70,7 @@ Wenn ich aufwache, bin ich immer noch bei dir.
 
 > **Was bedeutet das?**
 > Gott hat mich schon gekannt, bevor ich geboren wurde. Er hat mich im Mutterleib geformt, so kunstvoll, wie man einen Teppich webt.
-> Vers 14: „Ich bin wunderbar gemacht“: Jeder Mensch ist ein Wunder, egal wie er aussieht, was er kann oder was andere über ihn sagen. Das gilt auch für Menschen mit Behinderung.
+> Vers 14: „Ich bin erstaunlich und wunderbar gemacht“: Jeder Mensch ist ein Wunder, egal wie er aussieht, was er kann oder was andere über ihn sagen. Das gilt auch für Menschen mit Behinderung.
 > Vers 15: „In den Tiefen der Erde“: ein poetisches Bild für den verborgenen Ort, an dem ein Kind heranwächst.
 > Vers 16: Gott kennt mein ganzes Leben, jeden Tag.
 > Vers 18: Gottes Gedanken über mich sind zahllos. Er denkt viel mehr an mich, als ich zählen kann.

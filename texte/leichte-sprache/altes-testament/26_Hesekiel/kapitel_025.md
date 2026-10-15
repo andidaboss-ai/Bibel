@@ -37,7 +37,7 @@ Dann wirst du erkennen, dass ich der HERR bin.“
 > **Was bedeutet das?**
 > Hier beginnt der zweite Teil des Buches: Worte über die Nachbarvölker (Kapitel 25–32).
 > Die Ammoniter lebten östlich des Jordan (heute in Jordanien; ihre Hauptstadt Rabba ist das heutige Amman). Als Jerusalem zerstört wurde, freuten sie sich und riefen „Haha!“ Sie klatschten in die Hände.
-> Die Botschaft: Schadenfreude über das Leid anderer ist Unrecht. Gott sieht das. (Vgl. Sprüche 24,17: „Freu dich nicht über den Fall deines Feindes.“)
+> Die Botschaft: Schadenfreude über das Leid anderer ist Unrecht. Gott sieht das. (Vgl. Sprüche 24,17: „Freu dich nicht, wenn dein Feind fällt!“)
 > Die „Söhne des Ostens“ sind Nomadenstämme aus der Wüste.
 
 ---
@@ -84,7 +84,7 @@ spricht der Herr, der HERR.
 
 > **Was bedeutet das?**
 > Edom lag südlich vom Toten Meer. Die Edomiter waren Nachkommen von Esau, dem Bruder Jakobs. Sie waren also eigentlich Verwandte Israels. Umso schlimmer war es, dass sie sich bei der Zerstörung Jerusalems an Juda rächten und mithalfen (vgl. Obadja 10–14; Psalm 137,7).
-> Vers 14: Hier steht, dass Gott seine Rache „durch die Hand Israels“ bringen wird. Das ist ein schwieriger Vers. Er gibt aber niemandem heute das Recht, im Namen Gottes Rache zu üben oder Gewalt gegen ein Volk zu rechtfertigen. Die Bibel sagt deutlich: „Die Rache ist mein, spricht der Herr“ (5. Mose 32,35; Römer 12,19). Rache ist Gottes Sache, nicht unsere.
+> Vers 14: Hier sagt Gott: „Ich werde meine Rache an Edom legen durch die Hand meines Volkes Israel.“ Das ist ein schwieriger Vers. Er gibt aber niemandem heute das Recht, im Namen Gottes Rache zu üben oder Gewalt gegen ein Volk zu rechtfertigen. Die Bibel sagt deutlich: „Die Rache ist mein und die Vergeltung“ (5. Mose 32,35; vgl. Römer 12,19). Rache ist Gottes Sache, nicht unsere.
 
 ---
 

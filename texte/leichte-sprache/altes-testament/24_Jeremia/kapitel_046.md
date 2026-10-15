@@ -56,12 +56,12 @@ Denn ein Held ist über den anderen gestolpert,
 sie sind beide zusammen gefallen.“
 
 > **Was bedeutet das?**
-> Mit Kapitel 46 beginnen die „Worte über die Völker“ (Kapitel 46–51). Jeremia war ja berufen als „Prophet für die Völker“ (1,5). Gott ist nicht nur der Gott Israels, sondern Herr über die ganze Welt.
+> Mit Kapitel 46 beginnen die „Worte über die Völker“ (Kapitel 46–51). Gott hatte Jeremia ja „zum Propheten für die Nationen bestimmt“ (1,5). Gott ist nicht nur der Gott Israels, sondern Herr über die ganze Welt.
 > Vers 2: Die Schlacht bei Karkemisch am Euphrat im Jahr 605 vor Christus war eine der wichtigsten Schlachten der Antike. Der junge Nebukadnezar besiegte das ägyptische Heer. Danach war Babylon die größte Macht.
 > Vers 3–6: Ein lebendiges Bild: Erst rüsten sich die Ägypter stolz zum Kampf. Dann fliehen sie in Panik.
 > Vers 7–8: Ägypten wollte sich ausbreiten wie der Nil bei Hochwasser.
 > Vers 9: Kusch (das WEB hat „Cush“), Put und Lud waren Völker aus Afrika, die im ägyptischen Heer kämpften.
-> Vers 10: Die Sprache vom „Schwert, das sich an Blut berauscht“, ist die harte Kriegssprache der damaligen Zeit. Sie beschreibt Gottes Gericht über eine überhebliche Macht. Sie ist keine Aufforderung zu Gewalt und keine Rechtfertigung von Krieg.
+> Vers 10: „Das Schwert wird fressen und satt werden und sich an ihrem Blut berauschen.“ Das ist die harte Kriegssprache der damaligen Zeit. Sie beschreibt Gottes Gericht über eine überhebliche Macht. Sie ist keine Aufforderung zu Gewalt und keine Rechtfertigung von Krieg.
 > Vers 11: Wie Juda (8,22) findet auch Ägypten keinen Balsam, der heilt.
 
 ---
@@ -128,7 +128,7 @@ spricht der HERR.
 > Vers 17: Ein Spottname für den Pharao: „Nur Lärm“, viel Gerede, aber nichts dahinter.
 > Vers 18: Nebukadnezar wird so sicher kommen, wie die Berge Tabor und Karmel aus der Ebene herausragen.
 > Vers 25: „Amon von No“: Amon war der Hauptgott der Stadt No, die heute Theben (Luxor) heißt.
-> Vers 26: Am Ende eine überraschende Hoffnung auch für Ägypten: „Danach wird es wieder bewohnt sein.“ Gottes Gericht ist nicht das letzte Wort, auch nicht für andere Völker.
+> Vers 26: Am Ende eine überraschende Hoffnung auch für Ägypten: „Danach aber wird es wieder bewohnt sein wie in früheren Tagen.“ Gottes Gericht ist nicht das letzte Wort, auch nicht für andere Völker.
 
 ---
 

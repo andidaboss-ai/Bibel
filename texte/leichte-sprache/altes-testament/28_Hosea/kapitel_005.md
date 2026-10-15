@@ -33,7 +33,7 @@ Jetzt wird der Neumond sie samt ihren Feldern fressen.
 
 > **Was bedeutet das?**
 > Vers 1: Priester, Volk und Königshaus sind alle angesprochen. Die Führer sind wie Fallen und Netze für das Volk: Statt es zu schützen, führen sie es ins Verderben. Mizpa und Tabor waren Orte mit Heiligtümern.
-> Vers 4: „Ihre Taten lassen sie nicht umkehren.“ Eine erschreckende Erkenntnis: Wer lange Unrecht tut, kommt immer schwerer davon los. Schlechte Gewohnheiten können gefangen nehmen.
+> Vers 4: „Ihre Taten lassen sie nicht zu ihrem Gott umkehren.“ Eine erschreckende Erkenntnis: Wer lange Unrecht tut, kommt immer schwerer davon los. Schlechte Gewohnheiten können gefangen nehmen.
 > Vers 6: Sie bringen viele Opfertiere und wollen Gott suchen, aber sie finden ihn nicht. Gott lässt sich nicht mit Opfern „kaufen“, wenn das Herz nicht dabei ist.
 > Vers 7: „Fremde Kinder“ – Kinder, die nicht mehr im Glauben an Gott erzogen werden. Eine ganze Generation ist Gott fremd geworden.
 

@@ -57,7 +57,7 @@ und dich nicht ganz ungestraft lassen.“
 > Vers 5–6: Die Angst ist so groß, dass sogar starke Männer sich krümmen wie Frauen in den Wehen.
 > Vers 7: „Eine Zeit der Not für Jakob, aber er wird daraus gerettet werden.“ Das Leid ist groß, aber es ist nicht das Ende.
 > Vers 8–9: Gott wird das Joch zerbrechen, das Joch Babylons aus Kapitel 27–28. Und das Volk wird einem König aus der Familie Davids dienen. Im Judentum wird das auf den Messias bezogen, Christen sehen es in Jesus erfüllt.
-> Vers 10–11: „Fürchte dich nicht, Jakob, mein Knecht! Ich bin bei dir.“ Diese Worte erinnern an Jesaja 41 und 43. Gott straft „mit Maß“, nicht maßlos, und er lässt sein Volk nie ganz untergehen.
+> Vers 10–11: „Fürchte dich nicht, Jakob, mein Knecht … Ich bin bei dir.“ Diese Worte erinnern an Jesaja 41 und 43. Gott straft „mit Maß“, nicht maßlos, und er lässt sein Volk nie ganz untergehen.
 
 ---
 
@@ -92,7 +92,7 @@ und dich von deinen Wunden heilen“, spricht der HERR,
 > **Was bedeutet das?**
 > Vers 12–15: Die Wunde des Volkes scheint unheilbar. Kein Arzt, keine Medizin, keine Freunde. Und Gott sagt ehrlich: Diese Wunde kommt von deiner Schuld.
 > Vers 16–17: Aber dann die überraschende Wende: „Darum“ – gerade weil die Wunde unheilbar ist und niemand sich kümmert – „werde ich dich heilen.“ Was für Menschen unmöglich ist, kann Gott tun.
-> Vers 17: Die anderen sagten über Zion: „Nach der fragt keiner mehr.“ Gerade darum fragt Gott nach ihr. Gott wendet sich denen zu, die von allen anderen aufgegeben wurden.
+> Vers 17: Die anderen sagten über Zion: „Das ist Zion, nach der niemand fragt.“ Gerade darum fragt Gott nach ihr. Gott wendet sich denen zu, die von allen anderen aufgegeben wurden.
 
 ---
 

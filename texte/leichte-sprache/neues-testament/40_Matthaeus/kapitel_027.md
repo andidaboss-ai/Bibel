@@ -127,7 +127,7 @@ und übergab ihn zur Kreuzigung.
 > Vers 16–17: Viele alte Handschriften nennen Barabbas mit vollem Namen „Jesus Barabbas“. „Barabbas“ heißt „Sohn des Vaters“. Das WEB hat nur „Barabbas“.
 > Vers 19: Die Frau von Pilatus warnt ihren Mann. Sie nennt Jesus einen „Gerechten“.
 > Vers 20: Die Menge wird von einigen Führern überredet.
-> Vers 24: Pilatus wäscht sich die Hände. Davon kommt die Redensart „Ich wasche meine Hände in Unschuld“. Aber Pilatus ist nicht unschuldig. Er hatte die Macht, und er hat das Urteil gesprochen. Im christlichen Glaubensbekenntnis heißt es: „gelitten unter Pontius Pilatus“.
+> Vers 24: Pilatus wäscht sich die Hände. Davon kommt die Redensart, dass jemand seine Hände in Unschuld wäscht. Aber Pilatus ist nicht unschuldig. Er hatte die Macht, und er hat das Urteil gesprochen. Im christlichen Glaubensbekenntnis heißt es: „gelitten unter Pontius Pilatus“.
 
 > **Ein sehr wichtiger Hinweis zu Vers 25**
 > Dieser Vers ist einer der am schlimmsten missbrauchten Verse der Bibel. Christen haben ihn über fast 2000 Jahre benutzt, um Juden als „Gottesmörder“ zu beschimpfen, sie zu verfolgen, aus ihren Häusern zu vertreiben und zu töten. Dieser Judenhass hat mit den Weg zum Holocaust bereitet, dem Mord an sechs Millionen Juden.
@@ -225,7 +225,7 @@ die mit ihm gekreuzigt worden waren.
 > Kyrene war eine Stadt in Nordafrika, im heutigen Libyen. Dort lebten viele Juden. Simon war wohl zum Passafest nach Jerusalem gekommen.
 > Golgota (aramäisch) heißt „Schädel“. Der lateinische Name ist „Kalvarienberg“. Der Ort lag damals außerhalb der Stadtmauer.
 > Die Kreuzigung war die grausamste Todesstrafe der Römer. Sie war vor allem für Sklaven und Aufrührer gedacht. Ein Mensch starb am Kreuz oft erst nach vielen Stunden.
-> Vers 34: Das WEB sagt „sour wine mixed with gall“. Manche Handschriften haben „Wein“ statt „sauren Wein“. Das erinnert an Psalm 69,22 (in englischen Bibeln 69,21).
+> Vers 34: Jesus bekommt „sauren Wein zu trinken, mit Galle vermischt“. So steht es im WEB. Manche Handschriften haben „Wein“ statt „sauren Wein“. Das erinnert an Psalm 69,21 (in vielen deutschen Bibeln 69,22).
 > Vers 35: Das Verteilen der Kleider erinnert an Psalm 22,19 (in englischen Bibeln 22,18). Ältere Bibelausgaben haben hier noch ein Zitat dieses Psalms im Text. Es fehlt in den besten Handschriften und auch im WEB.
 > Vers 39–43: Jesus wird verspottet. Das erinnert an Psalm 22,8–9 (in englischen Bibeln 22,7–8).
 > Vers 41: Wieder sind es bestimmte Führer, nicht das ganze Volk.
@@ -351,4 +351,4 @@ und sicherten das Grab mit der Wache.
 > Der „Rüsttag“ war der Tag vor dem Sabbat, an dem man alles für den Sabbat vorbereitete. Der Tag danach ist also der Sabbat.
 > Die Gegner wollen verhindern, dass jemand behauptet, Jesus sei auferstanden. Darum lassen sie das Grab versiegeln und bewachen.
 > Diese Geschichte erzählt nur Matthäus. Sie zeigt: Kein Siegel und keine Wache kann Gott aufhalten. Das nächste Kapitel erzählt von der Auferstehung.
-> Vers 65: Man kann das WEB „You have a guard“ auch als Befehl verstehen: „Nehmt euch eine Wache!“ Dann wären es römische Soldaten.
+> Vers 65: Im WEB sagt Pilatus: „Ihr habt eine Wache.“ Man kann das auch als Befehl verstehen: „Nehmt euch eine Wache!“ Dann wären es römische Soldaten.

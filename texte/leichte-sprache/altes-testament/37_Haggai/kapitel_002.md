@@ -133,7 +133,7 @@ spricht der HERR der Heere.“
 > Die letzte Botschaft gilt Serubbabel persönlich.
 > Vers 21–22: Gott wird die Weltreiche erschüttern. Die mächtigen Armeen werden sich gegenseitig vernichten.
 > Vers 23: Serubbabel wird Gottes „Siegelring“ sein. Ein Siegelring war sehr wertvoll. Mit ihm unterschrieb ein König seine Briefe und Gesetze. Wer den Siegelring hatte, handelte im Auftrag des Königs.
-> Das ist bedeutsam: Serubbabels Vorfahre, König Jojachin (in Jeremia „Konja“ genannt), wurde von Gott einst verworfen. Damals sagte Gott: „Selbst wenn er ein Siegelring an meiner rechten Hand wäre, würde ich ihn abreißen“ (Jeremia 22,24). Jetzt nimmt Gott das Haus Davids wieder an.
+> Das ist bedeutsam: Serubbabels Vorfahre, König Jojachin (in Jeremia „Konja“ genannt), wurde von Gott einst verworfen. Damals sagte Gott: „Selbst wenn Konja … der Siegelring an meiner rechten Hand wäre, so würde ich dich doch von dort abreißen“ (Jeremia 22,24). Jetzt nimmt Gott das Haus Davids wieder an.
 > Serubbabel selbst wurde nie König. Aber die Verheißung an das Haus Davids blieb bestehen. Im Stammbaum Jesu wird Serubbabel genannt (Matthäus 1,12–13; Lukas 3,27).
 
 ---
@@ -142,11 +142,11 @@ spricht der HERR der Heere.“
 
 > **Was bedeutet das?**
 > **Nach dem Exil:** Die Juden waren aus Babylon zurückgekehrt, aber der Tempel lag fast 20 Jahre lang in Trümmern.
-> **Falsche Prioritäten:** „Ist es Zeit für euch, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (1,4).
+> **Falsche Prioritäten:** „Ist es denn Zeit für euch selbst, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ (1,4).
 > **Achtet auf eure Wege:** Wer nur an sich denkt, hat einen „löchrigen Geldbeutel“ (1,6).
 > **Das Volk gehorcht:** Ein seltener Erfolg für einen Propheten. Und Gott sagt: „Ich bin mit euch“ (1,13).
 > **Seid stark und fürchtet euch nicht:** Auch wenn der neue Tempel klein und unscheinbar ist, Gottes Geist ist da (2,4–5).
 > **Größere Herrlichkeit:** „Die spätere Herrlichkeit dieses Hauses wird größer sein als die frühere“ (2,9).
 > **Von heute an segne ich:** Gott verspricht Segen, noch bevor man ihn sieht (2,19).
 > **Für heute:** Haggai fragt uns: Welchen Platz hat Gott in meinem Leben? Habe ich für alles Zeit, nur nicht für ihn?
-> **Wie geht es weiter?** Als Nächstes kommt Sacharja. Er lebte zur selben Zeit wie Haggai und hatte viele geheimnisvolle Visionen. Er kündigt einen König an, der „demütig auf einem Esel reitet“ (Sacharja 9,9).
+> **Wie geht es weiter?** Als Nächstes kommt Sacharja. Er lebte zur selben Zeit wie Haggai und hatte viele geheimnisvolle Visionen. Er kündigt einen König an. Dieser König ist „demütig und reitet auf einem Esel“ (Sacharja 9,9).

@@ -86,7 +86,7 @@ weil er es ihnen erzählt hatte.
 
 > **Was bedeutet das?**
 > Das Los zeigt auf Jona. Die Seeleute fragen ihn aus.
-> Vers 9: Jonas Bekenntnis klingt fromm: „Ich fürchte den HERRN, der das Meer gemacht hat.“ Aber es ist widersprüchlich: Er sagt, er fürchtet den Gott, der das Meer gemacht hat, und versucht gleichzeitig, vor ihm übers Meer zu fliehen.
+> Vers 9: Jonas Bekenntnis klingt fromm: „Ich fürchte den HERRN, den Gott des Himmels, der das Meer und das trockene Land gemacht hat.“ Aber es ist widersprüchlich: Er sagt, er fürchtet den Gott, der das Meer gemacht hat, und versucht gleichzeitig, vor ihm übers Meer zu fliehen.
 > Vers 10: Die Seeleute verstehen sofort, wie gefährlich das ist: „Was hast du getan?“
 
 ---
@@ -134,5 +134,5 @@ Und Jona war im Bauch des Fisches drei Tage und drei Nächte.
 > **Was bedeutet das?**
 > In deutschen Bibeln ist dieser Vers meistens Kapitel 2, Vers 1. Deshalb sind die Verse in Kapitel 2 dort um eins verschoben.
 > Gott lässt Jona nicht untergehen. Er „bestellt“ einen großen Fisch, der ihn rettet. Die Bibel sagt „Fisch“, nicht „Wal“. Der Wal kommt aus späteren Übersetzungen und Bildern.
-> „Drei Tage und drei Nächte“: Jesus vergleicht das mit seinem Tod und seiner Auferstehung. „Wie Jona drei Tage und drei Nächte im Bauch des Fisches war, so wird der Menschensohn drei Tage und drei Nächte im Herzen der Erde sein“ (Matthäus 12,40).
+> „Drei Tage und drei Nächte“: Jesus vergleicht das mit seinem Tod und seiner Auferstehung. „Wie Jona drei Tage und drei Nächte im Bauch des großen Fisches war, so wird der Menschensohn drei Tage und drei Nächte im Herzen der Erde sein“ (Matthäus 12,40).
 

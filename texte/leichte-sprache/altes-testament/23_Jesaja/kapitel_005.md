@@ -118,7 +118,7 @@ Bei alledem hat sich sein Zorn nicht abgewendet,
 sondern seine Hand ist noch ausgestreckt.
 
 > **Was bedeutet das?**
-> Vers 18–19: Wer Böses tut, zieht die Schuld hinter sich her wie einen schweren Wagen. Und er spottet: „Soll Gott doch kommen, wenn es ihn gibt!“
+> Vers 18–19: Wer Böses tut, zieht die Schuld hinter sich her wie einen schweren Wagen. Und er spottet über Gott: „Er soll sich beeilen, er soll sein Werk beschleunigen, damit wir es sehen!“ Das heißt: Soll Gott doch kommen, wenn es ihn gibt!
 > Vers 20 ist einer der bekanntesten Sätze des Buches: Wehe denen, die Böses gut nennen und Gutes böse! Wenn eine Gesellschaft die Werte umdreht und Unrecht als Recht bezeichnet, geht sie zugrunde. Das hat man in Diktaturen immer wieder erlebt.
 > Vers 22–23: Sie sind „Helden“, aber nur beim Trinken. Und vor Gericht lassen sie sich bestechen.
 > Vers 25: „Seine Hand ist noch ausgestreckt“: Diese Formel kommt mehrmals bei Jesaja vor (Kapitel 9 und 10). Das Gericht ist noch nicht vorbei. Es sind schreckliche Bilder vom Krieg. Die Propheten deuten solches Unglück als Folge der Abkehr von Gott. Das bedeutet nicht, dass jedes Unglück heute eine Strafe Gottes ist.

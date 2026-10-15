@@ -53,7 +53,7 @@ der Mensch, der Unrecht trinkt wie Wasser!
 > Ironie: Später wird Gott Hiob ähnliche Fragen stellen (Kapitel 38,4). Aber nicht, um ihn zu verurteilen.
 > Vers 10: Elifas beruft sich auf die Weisheit der Alten.
 > Vers 11: Elifas hält seine eigenen Worte für „Tröstungen Gottes“ und „sanfte Worte“. Er merkt nicht, wie sehr er Hiob verletzt.
-> Vers 14–16 wiederholt den Gedanken aus Kapitel 4,17–19. Aber jetzt wird er schärfer: Der Mensch „trinkt Unrecht wie Wasser“. Elifas meint damit wohl auch Hiob.
+> Vers 14–16 wiederholt den Gedanken aus Kapitel 4,17–19. Aber jetzt wird er schärfer: Er spricht vom Menschen, „der Unrecht trinkt wie Wasser“. Elifas meint damit wohl auch Hiob.
 
 ---
 

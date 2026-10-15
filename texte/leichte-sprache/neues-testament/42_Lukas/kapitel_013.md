@@ -227,7 +227,7 @@ bis ihr sagt:
 > Vers 31: Diese Pharisäer warnen Jesus. Sie wollen ihn schützen. Nicht alle Pharisäer waren gegen Jesus.
 > Herodes ist Herodes Antipas, der Herrscher über Galiläa. Er hatte schon Johannes den Täufer töten lassen.
 > „Fuchs“ war ein Bild für einen listigen und unbedeutenden Herrscher. Jesus lässt sich nicht einschüchtern.
-> Vers 32–33: „Heute, morgen und am dritten Tag“ meint: eine kurze, von Gott bestimmte Zeit. Christen denken auch an die Auferstehung am dritten Tag.
+> Vers 32–33: „Heute und morgen. Und am dritten Tag …“: Das meint eine kurze, von Gott bestimmte Zeit. Christen denken auch an die Auferstehung am dritten Tag.
 > Vers 33: Jesus sagt mit bitterer Ironie: Jerusalem ist der Ort, wo Propheten sterben. Jerusalem ist aber auch die heilige Stadt Gottes, die er liebt.
 > Vers 34: Jesus klagt mit großer Liebe, wie eine Mutter, die ihre Kinder schützen will. Gott wird in der Bibel auch mit mütterlichen Bildern beschrieben.
 > Vers 35: „Euer Haus“ meint wohl den Tempel und die Stadt. Jesus sieht ihre Zerstörung voraus. Sie geschah im Jahr 70 durch die Römer. Der Satz „Gesegnet ist, der kommt im Namen des Herrn“ stammt aus Psalm 118,26.

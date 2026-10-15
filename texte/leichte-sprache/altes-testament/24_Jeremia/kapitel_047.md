@@ -40,6 +40,6 @@ dort hat er es hinbestellt.“
 > Vers 2: Das babylonische Heer kommt wie eine Flutwelle aus dem Norden.
 > Vers 3: Ein erschütterndes Detail: Die Väter sind so voller Angst, dass sie nicht einmal nach ihren Kindern schauen. Der Krieg zerstört sogar die Liebe zwischen Eltern und Kindern.
 > Vers 5: Kahl geschorene Köpfe und Ritzen der Haut waren Zeichen der Trauer.
-> Vers 6: Ein berührender Ruf: „Ach, du Schwert, wie lange willst du nicht ruhen? Fahr zurück in deine Scheide!“ Selbst mitten in der Gerichtsankündigung hört man die Sehnsucht, dass der Krieg endlich aufhört. Dieser Ruf ist bis heute aktuell, überall, wo Krieg herrscht.
+> Vers 6: Ein berührender Ruf: „Ach, du Schwert des HERRN, wie lange willst du nicht ruhen? Fahr zurück in deine Scheide!“ Selbst mitten in der Gerichtsankündigung hört man die Sehnsucht, dass der Krieg endlich aufhört. Dieser Ruf ist bis heute aktuell, überall, wo Krieg herrscht.
 > Wer sich aus Verzweiflung selbst verletzt, soll sich Hilfe holen: Telefonseelsorge 0800 111 0 111.
 

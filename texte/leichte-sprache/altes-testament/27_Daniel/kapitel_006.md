@@ -148,8 +148,8 @@ noch bevor sie den Boden der Grube erreicht hatten.
 
 > **Was bedeutet das?**
 > Am Morgen ruft der König voller Angst. Und Daniel antwortet ruhig: „Mein Gott hat seinen Engel gesandt und den Löwen den Rachen verschlossen.“
-> Vers 23: Der Grund für die Rettung: „weil er seinem Gott vertraut hatte“. Vgl. Hebräer 11,33, wo von Menschen gesprochen wird, die „durch den Glauben den Löwen den Rachen verschlossen haben“.
-> Vers 24: Dieser Vers ist sehr erschreckend. Der König bestraft nicht nur die Ankläger, sondern auch ihre unschuldigen Frauen und Kinder. Das war die grausame Praxis mancher Herrscher damals. Die Bibel berichtet es, aber sie heißt es nicht gut. Das Gesetz Gottes sagt ausdrücklich: „Die Väter sollen nicht für die Kinder sterben, und die Kinder nicht für die Väter“ (5. Mose 24,16; vgl. Hesekiel 18,20). Kinder für die Taten ihrer Eltern zu bestrafen, ist Unrecht.
+> Vers 23: Der Grund für die Rettung: „weil er seinem Gott vertraut hatte“. Vgl. Hebräer 11,33. Dort heißt es über Menschen, die Gott vertrauten: „Durch den Glauben haben sie … den Löwen den Rachen gestopft.“
+> Vers 24: Dieser Vers ist sehr erschreckend. Der König bestraft nicht nur die Ankläger, sondern auch ihre unschuldigen Frauen und Kinder. Das war die grausame Praxis mancher Herrscher damals. Die Bibel berichtet es, aber sie heißt es nicht gut. Das Gesetz Gottes sagt ausdrücklich: „Die Väter sollen nicht für die Kinder getötet werden, und die Kinder sollen nicht für die Väter getötet werden“ (5. Mose 24,16; vgl. Hesekiel 18,20). Kinder für die Taten ihrer Eltern zu bestrafen, ist Unrecht.
 
 ---
 

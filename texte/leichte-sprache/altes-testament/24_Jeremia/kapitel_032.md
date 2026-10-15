@@ -197,8 +197,8 @@ Denn ich werde ihr Geschick wenden“, spricht der HERR.
 
 > **Was bedeutet das?**
 > Nach dem Gericht kommt die Hoffnung:
-> Vers 37–38: Gott wird sein Volk zurückbringen. „Sie werden mein Volk sein, und ich werde ihr Gott sein.“
+> Vers 37–38: Gott wird sein Volk zurückbringen. „Dann werden sie mein Volk sein, und ich werde ihr Gott sein.“
 > Vers 39–40: Ein „ewiger Bund“, ähnlich wie der neue Bund in Kapitel 31: Gott schenkt ein neues Herz, damit das Volk bei ihm bleibt.
-> Vers 41 ist besonders schön: Gott freut sich darüber, Gutes zu tun, „mit ganzem Herzen und ganzer Seele“. Gott spricht hier von seinem „ganzen Herzen und seiner ganzen Seele“, so wie Menschen Gott von ganzem Herzen und ganzer Seele lieben sollen (5. Mose 6,5).
+> Vers 41 ist besonders schön: Gott freut sich darüber, Gutes zu tun. Er sagt: Ich tue es „mit meinem ganzen Herzen und mit meiner ganzen Seele“. Gott spricht hier von seinem ganzen Herzen und seiner ganzen Seele, so wie Menschen Gott von ganzem Herzen und ganzer Seele lieben sollen (5. Mose 6,5).
 > Vers 43–44: Und jetzt wird klar, warum Jeremia den Acker kaufen sollte: Er war ein Zeichen dafür, dass das Leben weitergeht. Eines Tages wird man im ganzen Land wieder Äcker kaufen.
 

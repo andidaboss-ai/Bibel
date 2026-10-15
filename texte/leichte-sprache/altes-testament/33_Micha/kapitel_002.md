@@ -30,7 +30,7 @@ der in der Gemeinde des HERRN die Messschnur für ein Los wirft.
 > **Was bedeutet das?**
 > Vers 1: Diese Menschen liegen nachts wach und überlegen, wie sie andere übervorteilen können. Und am Morgen tun sie es, weil sie die Macht dazu haben.
 > Vers 2: Reiche Großgrundbesitzer nehmen den einfachen Bauern ihre Felder und Häuser weg, zum Beispiel durch Schulden, Wucher oder bestochene Richter. In Israel war das Land ein Erbe von Gott. Jede Familie sollte ihr eigenes Stück Land behalten (3. Mose 25,23). Wer einer Familie ihr Land nahm, nahm ihr die Lebensgrundlage.
-> Das erinnert an die Geschichte von Nabots Weinberg (1. Könige 21) und an das Gebot „Du sollst nicht begehren …“ (2. Mose 20,17).
+> Das erinnert an die Geschichte von Nabots Weinberg (1. Könige 21) und an das Gebot „Du sollst nicht das Haus deines Mitmenschen begehren“ (2. Mose 20,17).
 > Vers 3–5: Die Strafe passt zur Schuld: Wer anderen das Land nimmt, wird selbst sein Land verlieren. Bei einer neuen Landverteilung durch das Los werden sie keinen Anteil bekommen.
 
 ---
@@ -61,7 +61,7 @@ mit schlimmer Zerstörung.
 der wäre der Prophet für dieses Volk.
 
 > **Was bedeutet das?**
-> Vers 6: Die Mächtigen wollen Michas Botschaft nicht hören: „Hör auf zu predigen! Uns wird schon nichts passieren.“ Das kennen wir schon von Amos (Amos 7,12–13).
+> Vers 6: Die Mächtigen wollen Michas Botschaft nicht hören: „Predigt nicht! … Die Schande wird uns nicht einholen.“ Das heißt: Uns wird schon nichts passieren. Das kennen wir schon von Amos (Amos 7,12–13).
 > Vers 7: Gott antwortet: Meine Worte sind gut für alle, die aufrichtig leben. Nur wer Unrecht tut, empfindet sie als Bedrohung.
 > Vers 8–9: Was die Reichen tun: Sie berauben ahnungslose Menschen, sogar heimkehrende Soldaten. Sie vertreiben Witwen und Frauen aus ihren Häusern. Den Kindern nehmen sie die Zukunft.
 > Vers 10: Ihnen wird gesagt: Ihr werdet selbst aus dem Land vertrieben werden.

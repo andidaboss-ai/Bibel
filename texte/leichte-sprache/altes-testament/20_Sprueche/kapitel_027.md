@@ -51,7 +51,7 @@ dem wird es als Fluch angerechnet.
 > Vers 8: Wer seine Heimat verlassen muss, ist wie ein Vogel ohne Nest. Viele Flüchtlinge kennen dieses Gefühl.
 > Vers 10: Alte Freundschaften sind kostbar. Und in der Not hilft oft der Nachbar schneller als die Verwandtschaft, die weit weg wohnt.
 > Vers 12–13 wiederholen Kapitel 22,3 und 20,16.
-> Vers 14: Ein lustiger Spruch: Wer frühmorgens laut „Guten Morgen! Gott segne dich!“ ruft, während der Nachbar noch schlafen will, macht sich nicht beliebt. Es kommt auf den richtigen Zeitpunkt an.
+> Vers 14: Ein lustiger Spruch: Wer frühmorgens laut einen Segen ruft, während der Nachbar noch schlafen will, macht sich nicht beliebt. Es kommt auf den richtigen Zeitpunkt an.
 
 ---
 

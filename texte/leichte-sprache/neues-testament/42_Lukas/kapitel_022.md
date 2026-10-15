@@ -31,7 +31,7 @@ wenn keine Menschenmenge dabei war.
 > Vers 2: Die Tempelleitung hat Angst vor dem Volk. Das Volk steht auf der Seite Jesu.
 > Wichtig: Jesu Tod war nicht die Schuld „der Juden“. Jesus, Judas, Petrus und alle Jünger waren selbst Juden. Es handelten einzelne Mächtige zusammen mit den Römern. Die Kirche lehrt klar: Man darf den Tod Jesu weder allen Juden damals noch den Juden heute zur Last legen (Nostra aetate, 1965).
 > Wichtig: Der Name Judas wurde jahrhundertelang benutzt, um Juden als „Verräter“ zu beschimpfen. Das ist Judenhass und schweres Unrecht.
-> Vers 3: „Der Satan fuhr in Judas“: Lukas zeigt, dass hier eine böse Macht am Werk ist. Trotzdem bleibt Judas für seine Entscheidung verantwortlich.
+> Vers 3: „Da fuhr der Satan in Judas“: Lukas zeigt, dass hier eine böse Macht am Werk ist. Trotzdem bleibt Judas für seine Entscheidung verantwortlich.
 
 ---
 

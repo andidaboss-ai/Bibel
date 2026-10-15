@@ -91,7 +91,7 @@ denn der Geist der heiligen Götter ist in dir.“
 > Der König sieht im Traum einen riesigen Baum, der bis zum Himmel reicht und allen Lebewesen Schatten und Nahrung gibt. Dann ruft ein „heiliger Wächter“, ein Engel, er soll umgehauen werden. Nur der Wurzelstock bleibt, mit einer Fessel aus Metall.
 > Vers 16: Plötzlich wird aus dem Baum ein „er“: Der Baum ist ein Mensch, und er soll ein Tierherz bekommen.
 > „Sieben Zeiten“ sind wahrscheinlich sieben Jahre oder einfach eine vollständige, lange Zeit.
-> Vers 17: Das ist das Thema: „Der Höchste ist Herr über das Königtum der Menschen.“ Gott kann auch den Niedrigsten zum Herrscher machen.
+> Vers 17: Das ist das Thema: Alle sollen erkennen, „dass der Höchste Herr ist über das Königtum der Menschen“. Gott kann auch den Niedrigsten zum Herrscher machen.
 > Vers 8–9: Nebukadnezar spricht als Heide vom „Geist der heiligen Götter“. Er versteht Gott noch in seinem eigenen Weltbild.
 
 ---
@@ -144,9 +144,9 @@ und deinen Verfehlungen durch Barmherzigkeit gegenüber den Armen.
 Vielleicht wird deine Ruhe dann verlängert.“
 
 > **Was bedeutet das?**
-> Vers 19: Daniel erschrickt. Er mag den König und wünscht ihm nichts Böses. Er sagt ehrlich: „Ich wünschte, dieser Traum gälte deinen Feinden.“ Daniel ist kein kalter Unheilsprophet.
+> Vers 19: Daniel erschrickt. Er mag den König und wünscht ihm nichts Böses. Er sagt ehrlich: „Mein Herr, der Traum gelte denen, die dich hassen, und seine Deutung deinen Feinden.“ Daniel ist kein kalter Unheilsprophet.
 > Vers 26: Der Wurzelstock bleibt. Das ist die Hoffnung: Nach der Demütigung wird der König sein Reich zurückbekommen.
-> Vers 27: Daniel gibt dem König einen mutigen Rat: „Hör auf mit dem Unrecht! Sei gerecht und barmherzig zu den Armen.“ Gerechtigkeit und Hilfe für die Armen sind der Weg der Umkehr, für jeden Menschen, auch für Mächtige.
+> Vers 27: Daniel gibt dem König einen mutigen Rat: „Mach deinen Sünden ein Ende durch Gerechtigkeit und deinen Verfehlungen durch Barmherzigkeit gegenüber den Armen.“ Gerechtigkeit und Hilfe für die Armen sind der Weg der Umkehr, für jeden Menschen, auch für Mächtige.
 > „Der Himmel herrscht“ (Vers 26) – „Himmel“ steht hier für Gott. So wie man im Judentum später oft aus Ehrfurcht „Himmel“ statt „Gott“ sagte (vgl. „Himmelreich“ bei Matthäus).
 
 ---
@@ -179,7 +179,7 @@ und seine Nägel wie Vogelkrallen.
 
 > **Was bedeutet das?**
 > Gott gibt dem König ein ganzes Jahr Zeit zur Umkehr. Aber der König ändert nichts.
-> Vers 30: Der König steht auf dem Dach seines Palastes, schaut über seine prächtige Stadt und sagt: „Das habe ICH gebaut, durch MEINE Macht, zu MEINER Ehre.“ Babylon war wirklich prächtig, mit dem berühmten Ischtar-Tor und vielen Palästen.
+> Vers 30: Der König steht auf dem Dach seines Palastes, schaut über seine prächtige Stadt und sagt: „Ist das nicht das große Babylon, das ich zum königlichen Wohnsitz erbaut habe durch die Kraft meiner Macht und zur Ehre meiner Herrlichkeit?“ Er redet nur von sich selbst: ich, meine Macht, meine Herrlichkeit. Babylon war wirklich prächtig, mit dem berühmten Ischtar-Tor und vielen Palästen.
 > Vers 31–33: Genau in diesem Moment des Stolzes fällt er tief. Er verliert den Verstand und lebt wie ein Tier.
 > Manche Ausleger denken an eine seltene psychische Krankheit, bei der Menschen sich für Tiere halten. Andere verbinden die Geschichte mit dem letzten babylonischen König Nabonid, der viele Jahre fern von Babylon in der Wüste lebte. Wie auch immer: Der Text zeigt, wie zerbrechlich menschliche Macht und auch der menschliche Verstand ist.
 > Wichtig: Psychische Krankheiten sind keine Strafe Gottes. Wer psychisch erkrankt ist, braucht Hilfe und Verständnis, keine Schuldzuweisung.
@@ -212,8 +212,8 @@ und seine Wege sind Recht.
 Und die in Hochmut wandeln, kann er erniedrigen.
 
 > **Was bedeutet das?**
-> Vers 34: Der Wendepunkt: Der König „hebt seine Augen zum Himmel“. In dem Moment, in dem er nach oben schaut und Gott anerkennt, kehrt sein Verstand zurück.
+> Vers 34: Das ist der Wendepunkt. Der König erzählt: „Am Ende der Tage hob ich, Nebukadnezar, meine Augen zum Himmel, und mein Verstand kehrte zu mir zurück.“ Das heißt: In dem Moment, in dem er nach oben schaut und Gott anerkennt, wird er wieder gesund.
 > Vers 37: Am Ende lobt der mächtigste König der Welt den „König des Himmels“. Und er hat gelernt: „Die in Hochmut wandeln, kann er erniedrigen.“
 > Die Botschaft: Gott kann auch die Mächtigsten demütigen, aber er tut es, damit sie zur Einsicht kommen, nicht um sie zu vernichten. Gott gibt auch dem stolzen König eine zweite Chance.
-> Vgl. Sprüche 16,18: „Hochmut kommt vor dem Fall.“ Und Lukas 1,52: „Er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.“
+> Vgl. Sprüche 16,18: „Hochmut kommt vor dem Zusammenbruch und ein stolzer Geist vor dem Fall.“ Und Lukas 1,52: „Er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.“
 

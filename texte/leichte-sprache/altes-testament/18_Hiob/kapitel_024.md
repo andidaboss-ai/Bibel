@@ -77,7 +77,7 @@ denn sie kennen die Schrecken der tiefen Finsternis.
 > **Was bedeutet das?**
 > Hiob beschreibt Verbrecher, die im Dunkeln arbeiten: Mörder, Ehebrecher, Einbrecher. Sie lieben die Nacht, weil niemand sie sieht.
 > „Für sie ist der Morgen wie tiefe Finsternis“: Das Licht ist ihr Feind, weil es ihre Taten aufdeckt.
-> Jesus sagt Ähnliches: „Wer Böses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden“ (Johannes 3,20).
+> Jesus sagt Ähnliches: „Jeder, der Böses tut, hasst das Licht und kommt nicht zum Licht, damit seine Taten nicht aufgedeckt werden“ (Johannes 3,20).
 
 ---
 

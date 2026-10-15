@@ -86,7 +86,7 @@ durch meine Pracht, die ich auf dich gelegt hatte“,
 spricht der Herr, der HERR.
 
 > **Was bedeutet das?**
-> Vers 8: „Den Mantel über jemanden breiten“ war ein Zeichen dafür, dass man jemanden heiraten und beschützen wollte (vgl. Rut 3,9). Gott geht einen Bund ein, eine feste Bindung voller Treue. Gemeint ist der Bund am Sinai.
+> Vers 8: Gott sagt: „Ich breitete meinen Mantel über dich.“ Das war ein Zeichen dafür, dass man jemanden heiraten und beschützen wollte (vgl. Rut 3,9). Gott geht einen Bund ein, eine feste Bindung voller Treue. Gemeint ist der Bund am Sinai.
 > Vers 9–13: Gott tut alles, was die Eltern versäumt haben: waschen, salben, kleiden, schmücken, ernähren. Aus dem verachteten Findelkind wird eine Königin. Das erinnert an die große Zeit Jerusalems unter David und Salomo.
 > Vers 14: Die Schönheit kam nicht von Jerusalem selbst, sondern „durch meine Pracht“. Alles war Geschenk.
 
@@ -276,7 +276,7 @@ weil du deine Schwestern gerecht erscheinen ließest.
 > **Was bedeutet das?**
 > Jerusalem hielt sich für besser als Samaria (das untergegangene Nordreich) und Sodom (die Stadt, die Gott zerstört hatte, 1. Mose 19). Aber Gott sagt: Du bist schlimmer als beide!
 > Vers 49: Ein wichtiger Vers! Hier sagt die Bibel selbst, was die Sünde Sodoms war: Hochmut, Überfluss, Sorglosigkeit und dass sie den Armen und Bedürftigen nicht geholfen hat. Wer reich ist und satt und dabei die Armen vergisst, steht in Gefahr, wie Sodom zu werden.
-> Vers 52: „Du hast über deine Schwestern geurteilt.“ Wer schnell andere verurteilt, sollte zuerst auf sich selbst schauen (vgl. Matthäus 7,3–5).
+> Vers 52: Gott sagt zu Jerusalem: „Trage auch du deine eigene Schande, weil du für deine Schwestern ein Urteil gefällt hast.“ Wer schnell andere verurteilt, sollte zuerst auf sich selbst schauen (vgl. Matthäus 7,3–5).
 
 ---
 

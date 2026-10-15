@@ -15,7 +15,7 @@ Und wessen Geist ist aus dir hervorgegangen?
 
 > **Was bedeutet das?**
 > Hiob antwortet mit beißendem Spott: Wie toll du mir geholfen hast! Wie weise deine Ratschläge waren!
-> Vers 4: „Wessen Geist ist aus dir gekommen?“ Hiob fragt: Woher hast du das? Das ist doch nicht von Gott. Du wiederholst nur, was andere gesagt haben.
+> Vers 4: „Wessen Geist ist aus dir hervorgegangen?“ Hiob fragt: Woher hast du das? Das ist doch nicht von Gott. Du wiederholst nur, was andere gesagt haben.
 
 ---
 

@@ -52,7 +52,7 @@ aber Lippen voll Erkenntnis sind ein seltenes Juwel.
 > Vers 9: Eine ehrliche Frage: Niemand kann von sich sagen, dass er ohne Sünde ist (vgl. 1. Johannes 1,8). Alle brauchen Gottes Vergebung.
 > Vers 10: „Zweierlei Maß“: mit einem Gewicht kaufen und mit einem anderen verkaufen. Gott hasst Betrug. Der Ausdruck „mit zweierlei Maß messen“ kommt von hier.
 > Vers 11: Schon bei Kindern sieht man an ihrem Verhalten, wie sie sind.
-> Vers 14: Ein lustiger Spruch über das Handeln auf dem Markt: Der Käufer sagt „Das ist ja schlecht!“, um den Preis zu drücken. Später erzählt er stolz, was für ein gutes Geschäft er gemacht hat.
+> Vers 14: Ein lustiger Spruch über das Handeln auf dem Markt: Der Käufer sagt: „Schlecht, schlecht!“ So will er den Preis drücken. Später erzählt er stolz, was für ein gutes Geschäft er gemacht hat.
 > Vers 15: Gold gibt es viel. Aber kluge Worte sind selten und kostbar.
 
 ---

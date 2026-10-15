@@ -62,7 +62,7 @@ werde ich sie nicht annehmen.
 Sondern ich werde sie durch Schwert, Hunger und Pest vernichten.“
 
 > **Was bedeutet das?**
-> Vers 7–9: Ein schönes Gebet des Volkes: „Du Hoffnung Israels! Warum bist du wie ein Fremder, der nur eine Nacht bleibt? Du bist doch in unserer Mitte. Verlass uns nicht!“ Solche Worte kann man auch heute in der Not beten.
+> Vers 7–9: Ein schönes Gebet des Volkes: „Du Hoffnung Israels … warum bist du wie ein Fremder im Land und wie ein Reisender, der nur für eine Nacht einkehrt? … Du bist doch in unserer Mitte, HERR … Verlass uns nicht!“ Solche Worte kann man auch heute in der Not beten.
 > Vers 10–12: Aber Gottes Antwort ist hart: Das Volk hat sich zu weit entfernt. Fasten und Opfer allein helfen jetzt nicht, wenn sich das Leben nicht ändert. Zum dritten Mal sagt Gott zu Jeremia: Bete nicht für dieses Volk.
 
 ---

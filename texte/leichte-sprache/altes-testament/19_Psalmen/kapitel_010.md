@@ -13,7 +13,7 @@ Sie werden in den Plänen gefangen, die sie sich ausdenken.
 > **Was bedeutet das?**
 > Psalm 10 hat keine Überschrift. Er ist die Fortsetzung von Psalm 9 (siehe dort).
 > Der Psalm beginnt mit einer ehrlichen, schmerzhaften Frage: Warum ist Gott so weit weg, wenn man ihn am meisten braucht? Diese Frage stellen Menschen bis heute.
-> Vers 2b kann auch als Bitte gelesen werden: „Lass sie sich in ihren eigenen Plänen fangen!“
+> Vers 2b: „Sie werden in den Plänen gefangen, die sie sich ausdenken.“ Man kann das auch als Bitte an Gott lesen: Gott soll sie in ihren eigenen Plänen fangen.
 
 ---
 
@@ -86,4 +86,4 @@ damit der Mensch, der von der Erde ist, nicht mehr Schrecken verbreitet.
 > Am Ende steht das Vertrauen: Der HERR ist König, nicht die Gewalttäter.
 > Gott hört die Demütigen, die Waisen und die Unterdrückten.
 > „Der Mensch, der von der Erde ist“: Auch der mächtigste Unterdrücker ist nur ein Mensch aus Staub. Seine Macht hat ein Ende.
-> Psalm 9 und 10 zusammen zeigen: Der Glaube an Gottes Gerechtigkeit und die ehrliche Klage „Warum bist du so fern?“ gehören zusammen.
+> Psalm 9 und 10 zusammen zeigen: Der Glaube an Gottes Gerechtigkeit und die ehrliche Klage „Warum stehst du so fern, HERR?“ (Psalm 10,1) gehören zusammen.

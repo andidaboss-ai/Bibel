@@ -24,7 +24,7 @@ und gab ihm zu essen.
 > Das ist einer der zärtlichsten Texte der ganzen Bibel. Gott spricht wie ein Vater oder eine Mutter über ein Kind.
 > Vers 1: „Als Israel ein Kind war, liebte ich ihn.“ Gott erinnert sich an den Anfang, als er Israel aus Ägypten befreite.
 > Der Evangelist Matthäus zitiert diesen Vers über Jesus, der als Kind mit Maria und Josef nach Ägypten floh und zurückkam: „Aus Ägypten habe ich meinen Sohn gerufen“ (Matthäus 2,15).
-> Vers 3: „Ich habe Ephraim laufen gelehrt.“ Wie Eltern ein Kind an den Händen halten, wenn es die ersten Schritte macht. „Ich nahm sie auf meine Arme.“ Aber das Kind hat nicht gemerkt, wer ihm geholfen hat.
+> Vers 3: „Und doch habe ich Ephraim laufen gelehrt.“ Wie Eltern ein Kind an den Händen halten, wenn es die ersten Schritte macht. „Ich nahm sie auf meine Arme.“ Aber das Kind hat nicht gemerkt, wer ihm geholfen hat.
 > Vers 4: „Mit Bändern der Liebe.“ Gott hat nicht mit Gewalt gezogen, sondern mit Liebe. „Ich beugte mich zu ihm hinab und gab ihm zu essen.“ Wie eine Mutter, die sich zu ihrem kleinen Kind hinunterbeugt, um es zu füttern.
 > Dieses Bild zeigt: Gott hat auch mütterliche Seiten.
 

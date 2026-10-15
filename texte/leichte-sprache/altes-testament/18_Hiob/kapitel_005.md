@@ -54,7 +54,7 @@ und die Ungerechtigkeit verschließt ihren Mund.
 
 > **Was bedeutet das?**
 > Elifas sagt viel Wahres über Gott: Er ist groß, er tut Wunder, er hilft den Niedrigen und den Armen.
-> Vers 13 wird im Neuen Testament von Paulus zitiert: „Er fängt die Weisen in ihrer List“ (1. Korinther 3,19). Die Worte sind also nicht falsch.
+> Vers 13 wird im Neuen Testament von Paulus zitiert: „Er fängt die Weisen in ihrer eigenen List“ (1. Korinther 3,19). Die Worte sind also nicht falsch.
 > Das Problem ist nicht, was Elifas sagt, sondern wie er es auf Hiob anwendet. Er gibt kluge Ratschläge, ohne wirklich zuzuhören.
 > „An deiner Stelle würde ich …“: Das sagen Menschen oft zu Leidenden. Aber niemand ist wirklich an der Stelle eines anderen.
 

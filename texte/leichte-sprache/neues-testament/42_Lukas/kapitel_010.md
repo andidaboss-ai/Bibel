@@ -257,6 +257,6 @@ Das soll ihr nicht weggenommen werden.“
 > Marta und Maria kommen auch im Johannesevangelium vor. Dort wohnen sie in Betanien, mit ihrem Bruder Lazarus (Johannes 11,1).
 > „Zu den Füßen sitzen“ war die Haltung eines Schülers bei seinem Lehrer. Damals durften Frauen meist nicht bei einem Lehrer lernen. Jesus erlaubt es Maria ausdrücklich.
 > Jesus kritisiert nicht Martas Gastfreundschaft. Er sieht ihre Sorge und nennt sie liebevoll zweimal beim Namen. Gastfreundschaft ist gut, wie der Samariter gerade gezeigt hat.
-> Vers 42: Einige alte Handschriften haben: „Nur weniges ist nötig, oder nur eins.“ Das WEB folgt der kürzeren Lesart.
+> Vers 42: Einige alte Handschriften haben hier: Nur wenige Dinge sind nötig, oder sogar nur eins. Das WEB folgt der kürzeren Lesart.
 > Die beiden Geschichten gehören zusammen: Der Samariter zeigt, wie wichtig das Tun ist. Maria zeigt, wie wichtig das Hören ist. Beides gehört zum Glauben.
 > Für heute: Manchmal ist es wichtiger, still zu werden und zuzuhören, als immer beschäftigt zu sein.

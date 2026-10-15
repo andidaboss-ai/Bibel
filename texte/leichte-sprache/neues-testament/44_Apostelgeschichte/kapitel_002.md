@@ -161,7 +161,7 @@ zum Herrn und Christus gemacht.“
 > „Alles Fleisch“ heißt: alle Menschen.
 > Vers 25–28 zitiert Psalm 16,8–11. Vers 30 erinnert an Psalm 132,11. Vers 34–35 zitiert Psalm 110,1.
 > „Hades“ (im WEB) ist das Totenreich.
-> Vers 23 und 36: „Ihr habt ihn gekreuzigt“: Petrus spricht hier zu Menschen in Jerusalem, die Jesus kurz vorher erlebt hatten. Er ist selbst Jude und spricht zu seinem eigenen Volk, wie die Propheten zur Umkehr riefen. Gleich danach sagt er: Gott vergibt (Vers 38).
+> Vers 23 und 36: „Ihr habt ihn … gekreuzigt“: Petrus spricht hier zu Menschen in Jerusalem, die Jesus kurz vorher erlebt hatten. Er ist selbst Jude und spricht zu seinem eigenen Volk, wie die Propheten zur Umkehr riefen. Gleich danach sagt er: Gott vergibt (Vers 38).
 > Wichtig: Diese Verse geben niemandem das Recht, Juden als „Christusmörder“ zu beschimpfen. Die Kirche lehrt: Der Tod Jesu darf weder allen Juden damals noch den Juden heute zur Last gelegt werden (Nostra aetate, 1965). Ausgeführt haben die Kreuzigung die Römer, die „Gesetzlosen“ in Vers 23.
 
 ---

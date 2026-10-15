@@ -105,7 +105,7 @@ denn ich werde mitten durch dich hindurchgehen“,
 spricht der HERR.
 
 > **Was bedeutet das?**
-> Vers 14: „Sucht das Gute, damit ihr lebt.“ Die Leute sagten: „Gott ist mit uns.“ Amos sagt: Gott ist nur mit euch, wenn ihr das Gute sucht.
+> Vers 14: „Sucht das Gute und nicht das Böse, damit ihr lebt.“ Die Leute sagten: „Gott ist mit uns.“ Amos sagt: Gott ist nur mit euch, wenn ihr das Gute sucht.
 > Vers 15: Ein klares Programm in drei Schritten: Hasst das Böse. Liebt das Gute. Sorgt für Gerechtigkeit vor Gericht. Und dann: „Vielleicht wird Gott gnädig sein.“ Amos verspricht nichts, aber er lässt Hoffnung offen.
 > Vers 17: „Ich werde mitten durch dich hindurchgehen.“ Das erinnert an die Nacht in Ägypten, als Gott durch das Land ging (2. Mose 12,12). Aber diesmal trifft es Israel selbst.
 

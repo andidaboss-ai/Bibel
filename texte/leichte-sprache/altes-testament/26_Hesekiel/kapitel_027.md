@@ -106,7 +106,7 @@ und sehr herrlich im Herzen der Meere.
 > **Was bedeutet das?**
 > Hier steht eine lange Liste der Handelspartner von Tyrus, fast wie eine Weltkarte der damaligen Zeit. Sie reicht von Tarschisch (wahrscheinlich in Spanien) im Westen bis nach Arabien und Mesopotamien im Osten.
 > Jawan ist Griechenland (Ionien). Tubal und Meschech lagen in Kleinasien (heute Türkei). Togarma lag vermutlich in Armenien. Saba lag im Süden Arabiens (heute Jemen).
-> Vers 13: „Mit Menschen handelten sie“ – auch Sklavenhandel gehörte zum Reichtum von Tyrus (vgl. Joel 4,6; Amos 1,9). Die Bibel nennt das hier nüchtern. An anderer Stelle verurteilt sie Menschenraub und Menschenhandel klar (2. Mose 21,16; 1. Timotheus 1,10). Menschenhandel ist ein schweres Unrecht, damals wie heute.
+> Vers 13: „Mit Menschen und mit Gefäßen aus Bronze handelten sie“ – auch Sklavenhandel gehörte zum Reichtum von Tyrus (vgl. Joel 3,6; Amos 1,9). Die Bibel nennt das hier nüchtern. An anderer Stelle verurteilt sie Menschenraub und Menschenhandel klar (2. Mose 21,16; 1. Timotheus 1,10). Menschenhandel ist ein schweres Unrecht, damals wie heute.
 > Vers 17: Auch Juda und Israel lieferten an Tyrus, vor allem landwirtschaftliche Produkte: Weizen, Honig, Öl und Balsam.
 
 ---

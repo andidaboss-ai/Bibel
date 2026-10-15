@@ -74,7 +74,7 @@ erstattete Bericht und sagte:
 > **Was bedeutet das?**
 > Dieser Text ist sehr schwer zu lesen. Er beschreibt in einer Vision die Zerstörung Jerusalems, die im Jahr 586 vor Christus durch die Babylonier wirklich geschah. Dabei starben auch Kinder, Frauen und Alte. Die Bibel verschweigt dieses Grauen nicht.
 > Ganz wichtig: Dieser Text ist kein Auftrag an Menschen. Niemand darf sich darauf berufen, um anderen Gewalt anzutun. Gericht ist allein Gottes Sache (vgl. Römer 12,19). Gewalt gegen Kinder und Wehrlose ist immer Unrecht.
-> Vers 6: „Fangt bei meinem Heiligtum an.“ Das Gericht beginnt bei denen, die es am besten hätten wissen müssen: bei den Ältesten am Tempel. Vgl. 1. Petrus 4,17: „Es ist Zeit, dass das Gericht anfängt beim Haus Gottes.“
-> Vers 8: Hesekiel wirft sich nieder und schreit: „Willst du alle vernichten?“ Er tritt für sein Volk ein, wie Abraham für Sodom (1. Mose 18) und Mose für Israel (2. Mose 32). Ein Prophet ist nicht kalt. Er leidet mit.
-> Vers 11: Am Ende meldet der Schreiber: „Ich habe getan, wie du befohlen hast.“ Das heißt: Die Menschen mit dem Zeichen wurden geschützt. Gott hat die nicht vergessen, die über das Unrecht geklagt haben.
+> Vers 6: „Fangt bei meinem Heiligtum an.“ Das Gericht beginnt bei denen, die es am besten hätten wissen müssen: bei den Ältesten am Tempel. Vgl. 1. Petrus 4,17: „Die Zeit ist gekommen, dass das Gericht beim Haus Gottes beginnt.“
+> Vers 8: Hesekiel wirft sich nieder und schreit: „Willst du den ganzen Rest Israels vernichten?“ Er tritt für sein Volk ein, wie Abraham für Sodom (1. Mose 18) und Mose für Israel (2. Mose 32). Ein Prophet ist nicht kalt. Er leidet mit.
+> Vers 11: Am Ende meldet der Schreiber: „Ich habe getan, wie du mir befohlen hast.“ Das heißt: Die Menschen mit dem Zeichen wurden geschützt. Gott hat die nicht vergessen, die über das Unrecht geklagt haben.
 > Wenn dich solche Texte erschüttern oder an eigene Erfahrungen mit Gewalt erinnern, bist du nicht allein. Du kannst kostenlos und anonym mit jemandem sprechen: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222. Im Notfall: 112.

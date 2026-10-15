@@ -75,8 +75,8 @@ und am Ende der Tage in deinem Erbteil stehen.“
 > Vers 6–7: Die Frage aller Leidenden: „Wie lange noch?“ Die Antwort: „Eine Zeit, Zeiten und eine halbe Zeit“, also etwa dreieinhalb Jahre (vgl. 7,25). Eine begrenzte Zeit. Das Leiden hat ein Ende.
 > Vers 8: Ein ehrlicher Satz: „Ich hörte es, aber ich verstand es nicht.“ Sogar Daniel versteht nicht alles. Auch wir müssen nicht jede Zahl und jedes Bild der Bibel verstehen.
 > Vers 11–12: 1290 Tage und 1335 Tage. Was genau diese Zahlen bedeuten, ist unklar. Sie sind etwas länger als dreieinhalb Jahre. Vielleicht soll gesagt werden: Wenn es länger dauert als erwartet, gebt nicht auf. „Glückselig ist, wer ausharrt.“
-> Wichtig: Immer wieder haben Menschen versucht, mit diesen Zahlen das Datum des Weltendes auszurechnen. Alle diese Berechnungen sind gescheitert. Jesus sagt: „Von jenem Tag aber und jener Stunde weiß niemand“ (Markus 13,32).
-> Vers 13: Der letzte Vers des Buches ist ein persönliches Versprechen an Daniel: „Geh deinen Weg bis zum Ende. Du wirst ruhen, und am Ende der Tage wirst du in deinem Erbteil stehen.“ Viele verstehen das als Zusage der Auferstehung: Daniel wird wieder aufstehen und seinen Platz bei Gott bekommen. Ein tröstliches Wort für jeden, der treu gelebt hat.
+> Wichtig: Immer wieder haben Menschen versucht, mit diesen Zahlen das Datum des Weltendes auszurechnen. Alle diese Berechnungen sind gescheitert. Jesus sagt: „Aber jenen Tag oder jene Stunde kennt niemand“ (Markus 13,32).
+> Vers 13: Der letzte Vers des Buches ist ein persönliches Versprechen an Daniel: „Du aber, geh hin bis zum Ende. Du wirst ruhen und am Ende der Tage in deinem Erbteil stehen.“ Viele verstehen das als Zusage der Auferstehung: Daniel wird wieder aufstehen und seinen Platz bei Gott bekommen. Ein tröstliches Wort für jeden, der treu gelebt hat.
 
 ---
 
@@ -89,7 +89,7 @@ und am Ende der Tage in deinem Erbteil stehen.“
 > **Die Weltreiche vergehen:** Die Statue aus Metallen (Kapitel 2) und die vier Tiere (Kapitel 7) zeigen: Alle Weltreiche, so mächtig sie sind, gehen vorbei.
 > **Gottes Reich bleibt:** Ein Stein, nicht von Menschenhand, wird zu einem Berg (Kapitel 2). Einer „wie ein Menschensohn“ kommt mit den Wolken und bekommt ein ewiges Reich (Kapitel 7). Jesus nannte sich selbst „Menschensohn“.
 > **Gebet:** Daniel betete dreimal am Tag (Kapitel 6) und bekannte die Schuld seines Volkes als „wir“ (Kapitel 9). Gott hörte seine Gebete vom ersten Tag an (10,12).
-> **Hoffnung über den Tod hinaus:** „Viele, die im Staub schlafen, werden aufwachen“ (12,2). Die treuen Lehrer werden leuchten wie die Sterne.
+> **Hoffnung über den Tod hinaus:** „Viele von denen, die im Staub der Erde schlafen, werden aufwachen“ (12,2). Die treuen Lehrer werden leuchten wie die Sterne.
 > **Vorsicht mit Berechnungen:** Die Zahlen und Bilder in Daniel sind oft schwer zu verstehen. Sie sollen Mut machen, nicht Angst. Niemand kann damit das Ende der Welt ausrechnen.
 > **Für heute:** Daniel zeigt, wie man in einer Welt mit anderen Werten treu bleiben kann: höflich, klug, fleißig, aber fest im Glauben. Und es macht Mut: Keine Macht der Welt hat das letzte Wort. Das hat Gott.
 > **Wie geht es weiter?** Jetzt kommen die zwölf „kleinen Propheten“. Sie heißen „klein“, weil ihre Bücher kürzer sind, nicht weil sie weniger wichtig wären. Der erste ist Hosea. Seine Ehe mit einer untreuen Frau wird zum Bild für Gottes Liebe zu seinem untreuen Volk: eine Liebe, die nicht aufgibt.

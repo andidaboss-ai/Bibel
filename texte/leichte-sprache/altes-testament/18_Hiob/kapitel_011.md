@@ -22,7 +22,7 @@ als deine Schuld verdient.
 > **Was bedeutet das?**
 > Zofar ist der schärfste der drei Freunde. Er nennt Hiob einen Schwätzer und Prahler.
 > Er wünscht sich, dass Gott reden würde, um Hiob zurechtzuweisen. Ironie: Am Ende redet Gott wirklich. Aber er weist nicht Hiob zurecht, sondern die Freunde (Kapitel 42,7)!
-> Vers 6 ist grausam: „Gott fordert weniger von dir, als du verdienst.“ Zofar sagt einem Mann, der alle Kinder und seine Gesundheit verloren hat: Eigentlich hättest du noch mehr verdient.
+> Vers 6 ist grausam: „So erkenne, dass Gott von dir weniger fordert, als deine Schuld verdient.“ Zofar sagt einem Mann, der alle Kinder und seine Gesundheit verloren hat: Eigentlich hättest du noch mehr verdient.
 > Zofar kennt Hiobs Leben gar nicht. Er urteilt, ohne zu wissen.
 
 ---

@@ -73,8 +73,8 @@ mitten unter den Menschenkindern,
 bei denen, die in die Grube hinabfahren.‘
 
 > **Was bedeutet das?**
-> Vers 10: Der Fehler des Baumes: „Sein Herz hat sich erhoben.“ Wieder ist Hochmut das Problem.
-> Vers 11: Der „Mächtigste unter den Völkern“ ist Babylon.
+> Vers 10: Der Fehler des Baumes ist, dass „sein Herz sich wegen seiner Höhe erhoben hat“. Das heißt: Er ist stolz geworden. Wieder ist Hochmut das Problem.
+> Vers 11: Mit dem „Mächtigsten unter den Völkern“ ist Babylon gemeint.
 > Vers 14: Eine Lehre für alle Mächtigen: Niemand soll sich zu hoch erheben. Alle Menschen sind sterblich, auch die größten Könige und Reiche.
 
 ---

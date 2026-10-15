@@ -56,7 +56,7 @@ Alle, die es plündern, werden satt werden“, spricht der HERR.
 > Vers 2: Bel und Merodach (Marduk) waren die Hauptgötter Babylons. Sie werden „zuschanden“.
 > Vers 3: Ein Volk „aus dem Norden“ wird Babylon erobern. Das waren die Meder und Perser unter Kyrus im Jahr 539 vor Christus.
 > Vers 4–5: Mitten in der Ankündigung über Babel eine wunderschöne Szene: Israel und Juda kommen gemeinsam weinend zurück und suchen Gott. Sie wollen einen „ewigen Bund, der nicht vergessen wird“.
-> Vers 6: Gottes Volk war wie eine verlorene Herde, weil die Hirten (die Anführer) versagt haben. Jesus hat Mitleid mit dem Volk, „weil sie waren wie Schafe ohne Hirten“ (Markus 6,34).
+> Vers 6: Gottes Volk war wie eine verlorene Herde, weil die Hirten (die Anführer) versagt haben. Jesus hat Mitleid mit dem Volk, „denn sie waren wie Schafe ohne Hirten“ (Markus 6,34).
 > Vers 7: Die Feinde dachten, sie dürften Israel ungestraft unterdrücken, weil Israel gesündigt hatte. Aber Gott sieht auch ihre Schuld.
 
 ---
@@ -112,7 +112,7 @@ Denn ich werde denen vergeben, die ich als Rest übrig lasse.
 > Vers 15: „Wie sie getan hat, so tut ihr.“ Gottes Gericht entspricht dem, was Babylon anderen angetan hat. Diese Kriegssprache beschreibt Gottes Gericht über eine grausame Macht. Sie ist keine allgemeine Erlaubnis zur Rache unter Menschen. Jesus lehrt: Vergeltet nicht Böses mit Bösem (Matthäus 5,38–44; Römer 12,17–21).
 > Vers 17: Israel ist wie ein Schaf, das von Löwen gejagt wurde: erst von Assur, dann von Babylon.
 > Vers 19: Israel kehrt auf seine grünen Weiden zurück.
-> Vers 20 ist ein wunderbarer Vers: Man wird nach der Schuld Israels suchen und nichts finden, „denn ich werde vergeben“. Wenn Gott vergibt, ist die Schuld wirklich weg.
+> Vers 20 ist ein wunderbarer Vers: Man wird nach der Schuld Israels suchen und nichts finden, „denn ich werde denen vergeben, die ich als Rest übrig lasse“. Wenn Gott vergibt, ist die Schuld wirklich weg.
 
 ---
 

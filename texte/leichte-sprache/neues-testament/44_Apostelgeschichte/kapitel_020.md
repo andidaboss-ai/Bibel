@@ -72,7 +72,7 @@ Dann reiste er ab.
 und waren sehr getröstet.
 
 > **Was bedeutet das?**
-> Vers 7: Der „erste Tag der Woche“ ist der Sonntag, der Tag der Auferstehung. Schon die ersten Christen trafen sich an diesem Tag zum Brotbrechen, also zum Abendmahl oder zur Eucharistie.
+> Vers 7: „Am ersten Tag der Woche“: Das ist der Sonntag, der Tag der Auferstehung. Schon die ersten Christen trafen sich an diesem Tag zum Brotbrechen, also zum Abendmahl oder zur Eucharistie.
 > Vers 9: Eine fast menschliche, sogar etwas lustige Szene: Eine Predigt dauert so lange, dass ein junger Mann einschläft. Aber dann wird es ernst.
 > Vers 10: Paulus umarmt den Jungen, wie es die Propheten Elija und Elischa taten (1. Könige 17,21; 2. Könige 4,34).
 > Für heute: Gott schenkt Leben, auch wenn alles verloren scheint.

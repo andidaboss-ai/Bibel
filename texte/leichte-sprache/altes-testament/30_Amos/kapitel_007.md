@@ -97,7 +97,7 @@ und Israel wird gewiss aus seinem Land in die Gefangenschaft geführt werden.‘
 
 > **Was bedeutet das?**
 > Amazja war der oberste Priester am Königsheiligtum in Bethel. Er zeigt Amos beim König an: „Der ist ein Verschwörer! Das Land kann seine Worte nicht ertragen.“
-> Vers 12–13: Dann sagt er zu Amos: „Geh nach Hause nach Juda und verdien dort dein Geld mit Prophezeien! Hier in Bethel ist das Heiligtum des Königs.“ Bezeichnend: Er nennt es nicht „Gottes Heiligtum“, sondern „des Königs Heiligtum“. Die Religion steht im Dienst der Politik.
-> Vers 14–15: Amos’ berühmte Antwort: „Ich bin kein Berufsprophet. Ich verdiene damit kein Geld. Ich war Hirte und Bauer. Gott hat mich von meiner Herde weggerufen.“ Amos redet nicht, weil er dafür bezahlt wird, sondern weil Gott ihn geschickt hat.
+> Vers 12–13: Dann sagt er zu Amos: „Du Seher, geh, flieh ins Land Juda, iss dort dein Brot und weissage dort.“ Das heißt: Verdien dort dein Geld mit Prophezeien! Und: „In Bethel sollst du nicht mehr weissagen, denn es ist ein Heiligtum des Königs.“ Bezeichnend: Er nennt es nicht „Gottes Heiligtum“, sondern „ein Heiligtum des Königs“. Die Religion steht im Dienst der Politik.
+> Vers 14–15: Amos’ berühmte Antwort: „Ich war kein Prophet und auch kein Prophetensohn, sondern ich war ein Viehhirte und züchtete Maulbeerfeigen.“ Das heißt: Er ist kein Berufsprophet. Er verdient damit kein Geld. Und weiter: „Der HERR hat mich hinter der Herde weggenommen.“ Amos redet nicht, weil er dafür bezahlt wird, sondern weil Gott ihn geschickt hat.
 > Vers 17: Ein hartes Wort an Amazja. Es beschreibt, was einer Priesterfamilie geschieht, wenn die Feinde das Land erobern: Die Männer werden getötet, die Frauen werden Opfer sexueller Gewalt und Ausbeutung, das Land wird verteilt, und er selbst stirbt in der Verbannung. Das ist schreckliches Kriegsunrecht. Die Frau ist hier Opfer, nicht schuldig.
 

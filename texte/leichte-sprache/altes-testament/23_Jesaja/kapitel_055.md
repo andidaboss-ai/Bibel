@@ -30,7 +30,7 @@ denn er hat dich herrlich gemacht.“
 > Vers 2: Eine Frage, die bis heute gilt: Warum gebt ihr euer Geld und eure Kraft für Dinge aus, die euch nicht wirklich satt machen? Was den Menschen wirklich nährt, kommt von Gott.
 > Vers 3–4: Gott hatte König David einen ewigen Bund versprochen (2. Samuel 7). Jetzt wird dieses Versprechen auf das ganze Volk ausgeweitet.
 > Vers 5: Fremde Völker werden zu Israel kommen, weil sie sehen, wie Gott an ihm handelt.
-> Jesus nimmt dieses Bild auf: „Wer Durst hat, der komme zu mir und trinke!“ (Johannes 7,37). Auch die Offenbarung lädt am Ende ein: „Wer durstig ist, der komme; wer will, der nehme das Wasser des Lebens umsonst“ (Offenbarung 22,17).
+> Jesus nimmt dieses Bild auf: „Wer Durst hat, der komme zu mir und trinke!“ (Johannes 7,37). Auch die Offenbarung lädt am Ende ein: „Wer Durst hat, soll kommen. Wer will, soll das Wasser des Lebens umsonst nehmen“ (Offenbarung 22,17).
 
 ---
 

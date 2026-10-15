@@ -68,7 +68,7 @@ wie das Aufleuchten eines Blitzes.
 > **Was bedeutet das?**
 > Vers 1–3: Hesekiel ist 30 Jahre alt (das „dreißigste Jahr“ meint wahrscheinlich sein Alter). In diesem Alter begannen Priester normalerweise ihren Dienst im Tempel (4. Mose 4,3). Aber Hesekiel ist weit weg vom Tempel, im Exil. Und genau dort öffnet sich der Himmel! Gott ist nicht an Jerusalem gebunden. Er kommt auch zu den Verbannten.
 > Vers 4: Ein gewaltiger Sturm, eine Wolke, Feuer und Blitze: Zeichen dafür, dass Gott kommt (vgl. 2. Mose 19,16).
-> Vers 5–14: Hesekiel versucht, das Unbeschreibliche zu beschreiben. Er sagt oft „es sah aus wie …“. Die vier Wesen haben vier Gesichter: Mensch, Löwe, Stier und Adler, das Klügste, das Stärkste, das Kräftigste und das Schnellste unter den Lebewesen. Später nennt Hesekiel sie „Cherubim“ (Kapitel 10).
+> Vers 5–14: Hesekiel versucht, das Unbeschreibliche zu beschreiben. Er benutzt oft das Wort „wie“. Zum Beispiel: Die Wesen „sahen aus wie brennende Feuerkohlen“. Die vier Wesen haben vier Gesichter: Mensch, Löwe, Stier und Adler, das Klügste, das Stärkste, das Kräftigste und das Schnellste unter den Lebewesen. Später nennt Hesekiel sie „Cherubim“ (Kapitel 10).
 > In der christlichen Tradition wurden die vier Gesichter zu Symbolen der vier Evangelisten: Matthäus (Mensch), Markus (Löwe), Lukas (Stier) und Johannes (Adler). Die Offenbarung beschreibt ähnliche Wesen (Offenbarung 4,6–8).
 
 ---

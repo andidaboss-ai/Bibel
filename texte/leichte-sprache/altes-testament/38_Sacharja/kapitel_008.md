@@ -92,7 +92,7 @@ spricht der HERR.
 > Vers 9–12: Wie bei Haggai: Seit der Tempelbau wieder begonnen hat, wendet sich alles zum Guten. Vorher gab es keinen Lohn, keinen Frieden, nur Streit. Jetzt wächst „die Saat des Friedens“.
 > Vers 13: Eine große Wende: Bisher war Israel unter den Völkern ein Beispiel für Fluch und Unglück. Jetzt soll es ein Segen werden. Das erinnert an die Verheißung an Abraham: „Du sollst ein Segen sein“ (1. Mose 12,2).
 > „Fürchtet euch nicht! Eure Hände sollen stark sein!“, das ist die Ermutigung.
-> Vers 16–17: Und wieder die Gebote für das tägliche Leben: Wahrheit reden, gerechte Urteile, nichts Böses gegen den Nächsten planen, keine falschen Eide. Der Epheserbrief zitiert Vers 16: „Redet die Wahrheit, jeder mit seinem Nächsten“ (Epheser 4,25).
+> Vers 16–17: Und wieder die Gebote für das tägliche Leben: Wahrheit reden, gerechte Urteile, nichts Böses gegen den Nächsten planen, keine falschen Eide. Der Epheserbrief zitiert Vers 16: „Sagt die Wahrheit, jeder zu seinem Nächsten“ (Epheser 4,25).
 
 ---
 

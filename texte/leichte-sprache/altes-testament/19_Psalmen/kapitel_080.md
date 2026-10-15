@@ -79,6 +79,6 @@ Lass dein Angesicht leuchten, dann werden wir gerettet.
 
 > **Was bedeutet das?**
 > Der Beter bittet Gott: Schau nach deinem Weinstock! Du hast ihn doch selbst gepflanzt.
-> Vers 17: „Der Mann deiner rechten Hand“ und „der Menschensohn“: Gemeint ist wohl der König, vielleicht auch das ganze Volk. „Benjamin“ (Vers 2) bedeutet übrigens „Sohn der rechten Hand“. Christen haben hier auch an Jesus gedacht, der sich „Menschensohn“ nennt und zur Rechten Gottes sitzt.
+> Vers 17: Der „Mann deiner rechten Hand“ und der „Menschensohn“: Gemeint ist wohl der König, vielleicht auch das ganze Volk. Der Name „Benjamin“ (Vers 2) bedeutet übrigens: Sohn der rechten Hand. Christen haben hier auch an Jesus gedacht, der sich „Menschensohn“ nennt und zur Rechten Gottes sitzt.
 > Vers 18: Das Volk verspricht: Wenn du uns neues Leben gibst, wollen wir dir treu bleiben.
 > Der Psalm endet mit dem Kehrvers in seiner stärksten Form: „HERR, Gott der Heere“.

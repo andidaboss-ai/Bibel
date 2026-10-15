@@ -120,5 +120,5 @@ Er wird deine Sünden aufdecken.
 > Vers 17: Jerusalem hatte auf Hilfe von Ägypten gehofft, aber vergeblich.
 > Vers 20: Der „Gesalbte des HERRN“ ist König Zidkija. Das Volk hatte gehofft, unter seinem Schutz zu leben, aber er wurde gefangen (Jeremia 39,5).
 > Vers 21: Edom, das sich über Jerusalems Fall freute, wird auch bald den „Becher“ trinken müssen.
-> Vers 22: Und dann der erste Lichtblick seit langem: „Deine Strafe ist vollendet, Tochter Zion.“ Das Schlimmste ist vorbei. Gott wird dich nicht mehr wegführen. Das erinnert an Jesaja 40,2: „Ihre Schuld ist vergeben.“
+> Vers 22: Und dann der erste Lichtblick seit langem: „Die Strafe für deine Schuld ist vollendet, Tochter Zion.“ Das Schlimmste ist vorbei. Gott wird dich nicht mehr wegführen. Das erinnert an Jesaja 40,2: Man soll Jerusalem zurufen, „dass ihre Schuld vergeben ist“.
 

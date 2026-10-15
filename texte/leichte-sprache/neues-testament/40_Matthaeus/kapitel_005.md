@@ -126,7 +126,7 @@ bis du den letzten Pfennig bezahlt hast.
 
 > **Was bedeutet das?**
 > Jetzt folgen sechs Beispiele: „Ihr habt gehört … Ich aber sage euch“. Jesus zeigt, was die Gebote im Innersten meinen.
-> Vers 21–22: Das Gebot „Du sollst nicht töten“ (2. Mose 20,13) fängt schon beim Zorn und bei verletzenden Worten an. „Raka“ ist ein aramäisches Schimpfwort, etwa „Hohlkopf“. Worte können Menschen tief verletzen.
+> Vers 21–22: Das Gebot „Du sollst nicht töten“ (Vers 21) ist eins der Zehn Gebote (2. Mose 20,13). Es fängt schon beim Zorn und bei verletzenden Worten an. „Raka“ ist ein aramäisches Schimpfwort, etwa „Hohlkopf“. Worte können Menschen tief verletzen.
 > „Ohne Grund“ steht nicht in allen alten Handschriften. Das WEB hat es; viele andere Übersetzungen lassen es weg.
 > „Gehenna“ war ein Tal bei Jerusalem, in dem früher Kinder geopfert und später Abfall verbrannt wurde (vgl. Jeremia 7,31). Es wurde zu einem Bild für das Gericht Gottes.
 > Vers 23–24: Versöhnung ist Jesus wichtiger als Gottesdienst! Wer im Streit mit einem Menschen lebt, soll zuerst Frieden suchen.

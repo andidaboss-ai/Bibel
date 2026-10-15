@@ -40,7 +40,7 @@ spricht der Herr, der HERR.
 
 > **Was bedeutet das?**
 > Bittere Ironie: Amos klingt wie ein Priester, der zum Gottesdienst einlädt, aber er sagt: „Kommt und sündigt!“ Der eifrige Gottesdienst in Bethel und Gilgal ist Sünde, weil er mit Unrecht im Alltag verbunden ist.
-> Vers 5: Sie geben Spenden, aber nur um damit zu prahlen. „Denn das gefällt EUCH.“ Es geht ihnen um ihr eigenes Ansehen, nicht um Gott. Jesus warnt später: „Wenn du Almosen gibst, lass es nicht vor dir her ausposaunen“ (Matthäus 6,2).
+> Vers 5: Sie geben Spenden, aber nur um damit zu prahlen. „Denn das gefällt EUCH.“ Es geht ihnen um ihr eigenes Ansehen, nicht um Gott. Jesus warnt später: „Wenn du nun barmherzige Taten tust, dann lass nicht vor dir her posaunen“ (Matthäus 6,2).
 
 ---
 
@@ -82,7 +82,7 @@ spricht der HERR.
 > Fünfmal kommt derselbe traurige Satz: „Und doch seid ihr nicht zu mir umgekehrt.“ Man spürt Gottes Enttäuschung.
 > Vers 6: „Saubere Zähne“ – ein bitterer Ausdruck: Es gab nichts zu essen, also blieben die Zähne sauber. Hungersnot.
 > Vers 7–8: Der Regen fiel ungleich. Menschen mussten von Stadt zu Stadt wanken, um Wasser zu finden.
-> Vers 11: „Wie ein Holzscheit aus dem Feuer gerissen“ – sie sind knapp entkommen. Aber selbst das hat sie nicht zum Nachdenken gebracht.
+> Vers 11: „Wie ein Holzscheit, das aus dem Feuer gerissen wurde“ – sie sind knapp entkommen. Aber selbst das hat sie nicht zum Nachdenken gebracht.
 > Diese Liste deutet Katastrophen als Weckrufe Gottes. Wichtig: Das ist die prophetische Deutung einer bestimmten Zeit. Es heißt nicht, dass jede Dürre, jede Seuche oder jeder Krieg heute eine Strafe Gottes für die Betroffenen ist. Jesus widerspricht dieser Denkweise ausdrücklich (Lukas 13,1–5). Aber Krisen können ein Anlass sein, über das eigene Leben nachzudenken.
 
 ---

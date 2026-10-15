@@ -85,4 +85,4 @@ er wird es nicht finden können.
 
 > **Was bedeutet das?**
 > Der Prediger hat Tag und Nacht nachgedacht. Sein Ergebnis: Niemand kann Gottes Handeln ganz verstehen, auch der klügste Mensch nicht.
-> Das ist keine Verzweiflung, sondern Demut. Wir müssen nicht alles verstehen, um Gott zu vertrauen. Paulus sagt: „Wie unergründlich sind seine Gerichte und unerforschlich seine Wege!“ (Römer 11,33).
+> Das ist keine Verzweiflung, sondern Demut. Wir müssen nicht alles verstehen, um Gott zu vertrauen. Paulus sagt: „Wie unerforschlich sind seine Urteile, und wie unergründlich sind seine Wege!“ (Römer 11,33).

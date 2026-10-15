@@ -62,10 +62,10 @@ Meine Augen werden auf sie sehen.
 Nun wird sie zertreten werden wie der Schlamm auf den Straßen.
 
 > **Was bedeutet das?**
-> Vers 7: Ein Wendepunkt. Mitten in all dem Elend: „Ich aber will auf den HERRN schauen.“ Micha hält an Gott fest.
+> Vers 7: Ein Wendepunkt. Mitten in all dem Elend: „Ich aber will nach dem HERRN ausschauen.“ Micha hält an Gott fest.
 > Vers 8: Ein wunderbarer Vers der Hoffnung: „Wenn ich falle, stehe ich wieder auf. Wenn ich im Dunkeln sitze, ist der HERR mein Licht.“ Diese Worte haben vielen Menschen in schweren Zeiten Mut gemacht.
 > Vers 9: Hier spricht das Volk (Jerusalem). Es gibt seine Schuld zu: „Ich habe gesündigt.“ Es nimmt die Folgen an, aber es hofft darauf, dass Gott ihm am Ende Recht verschafft.
-> Vers 10: Die „Feindin“ ist wahrscheinlich eine feindliche Stadt oder ein feindliches Volk, das Jerusalem verspottet hat: „Wo ist denn jetzt dein Gott?“ (vgl. Psalm 42,4; 79,10).
+> Vers 10: Die „Feindin“ ist wahrscheinlich eine feindliche Stadt oder ein feindliches Volk, das Jerusalem verspottet hat: „Wo ist der HERR, dein Gott?“ Ähnlich spotten die Feinde in Psalm 42,3 und Psalm 79,10.
 
 ---
 
@@ -137,10 +137,10 @@ seit den Tagen der Vorzeit.
 
 > **Was bedeutet das?**
 > **Ein Prophet vom Land:** Micha aus Moreschet lebte zur Zeit Jesajas. Er sah, wie die Mächtigen den einfachen Leuten Felder und Häuser wegnahmen (2,1–2).
-> **Gegen korrupte Führer:** Richter, Priester und Propheten ließen sich bestechen. „Zion wird wie ein Acker gepflügt werden“ (3,11–12).
+> **Gegen korrupte Führer:** Richter, Priester und Propheten ließen sich bestechen. „Darum wird Zion euretwegen wie ein Acker gepflügt werden“ (3,11–12).
 > **Schwerter zu Pflugscharen:** Die große Friedensvision für alle Völker: „Sie werden den Krieg nicht mehr lernen“ (4,3).
 > **Der Herrscher aus Bethlehem:** Aus dem kleinen Bethlehem wird ein Hirte kommen. „Er wird unser Friede sein“ (5,2–5). Matthäus bezieht das auf die Geburt Jesu.
-> **Was Gott will:** „Es ist dir gesagt, Mensch, was gut ist: Recht tun, Barmherzigkeit lieben und demütig gehen mit deinem Gott“ (6,8).
+> **Was Gott will:** „Er hat dir gezeigt, Mensch, was gut ist … Recht zu tun, Barmherzigkeit zu lieben und demütig zu gehen mit deinem Gott“ (6,8).
 > **Hoffnung im Dunkeln:** „Wenn ich falle, stehe ich wieder auf. Wenn ich im Dunkeln sitze, ist der HERR mein Licht“ (7,8).
 > **Ein vergebender Gott:** „Wer ist ein Gott wie du, der Schuld vergibt? … Du wirst alle ihre Sünden in die Tiefen des Meeres werfen“ (7,18–19).
 > **Für heute:** Micha 6,8 ist ein Maßstab für jeden Tag: Handle ich gerecht? Bin ich barmherzig? Lebe ich demütig mit Gott?

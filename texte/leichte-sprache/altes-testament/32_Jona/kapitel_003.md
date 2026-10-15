@@ -56,7 +56,7 @@ sodass wir nicht umkommen?“
 > Etwas Unerwartetes geschieht: Die ganze Stadt glaubt Gott und kehrt um. Vom Ärmsten bis zum König.
 > Sacktuch und Asche waren Zeichen von Trauer und Reue.
 > Vers 7–8: Sogar die Tiere sollen fasten und Sacktuch tragen. Das klingt für uns ungewöhnlich, ja fast komisch. Es zeigt, wie ernst es der ganzen Stadt ist.
-> Vers 8: Der König nennt das eigentliche Problem: „die Gewalt, die an seinen Händen ist“. Umkehr bedeutet nicht nur fasten und beten, sondern auch: aufhören mit dem Unrecht.
+> Vers 8: Der König nennt das eigentliche Problem: „Jeder soll umkehren von seinem bösen Weg und von der Gewalt, die an seinen Händen ist.“ Umkehr bedeutet nicht nur fasten und beten, sondern auch: aufhören mit dem Unrecht.
 > Vers 9: „Wer weiß?“ Der König hat keine Garantie. Er hofft einfach auf Gottes Barmherzigkeit.
 > Jesus sagt später: Die Leute von Ninive haben auf die Predigt Jonas hin umgekehrt (Matthäus 12,41).
 

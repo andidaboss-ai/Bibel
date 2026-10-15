@@ -202,6 +202,6 @@ und du wirst mit ihnen kein Glück haben.
 > Vers 31: Gott fragt: War ich denn so schlecht zu euch, wie eine Wüste? Warum wollt ihr nichts mehr von mir wissen?
 > Vers 32: Eine Braut vergisst ihren Hochzeitsschmuck nicht. Aber Gottes Volk hat Gott vergessen.
 > Vers 34: Ein schwerer Vorwurf: An der Kleidung klebt das Blut armer, unschuldiger Menschen, die getötet wurden, obwohl sie nichts getan hatten. Unrecht gegen Arme ist für Gott ein Verbrechen.
-> Vers 35: Das Schlimmste ist, wenn man sagt: „Ich habe nichts falsch gemacht.“ Wer seine Schuld nicht sieht, kann nicht umkehren.
-> Vers 37: „Die Hände auf dem Kopf“ ist ein Zeichen von Trauer und Schande.
+> Vers 35: Das Schlimmste ist, wenn man sagt: „Ich habe nicht gesündigt.“ Wer seine Schuld nicht sieht, kann nicht umkehren.
+> Vers 37: Wer „mit den Händen auf dem Kopf“ hinausgeht, zeigt Trauer und Schande.
 

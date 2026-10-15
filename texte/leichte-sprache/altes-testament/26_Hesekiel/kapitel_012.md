@@ -81,7 +81,7 @@ Dann werden sie erkennen, dass ich der HERR bin.‘“
 > **Was bedeutet das?**
 > Vers 10: „Last“ – das hebräische Wort „massa“ bedeutet sowohl „Last“ als auch „Ausspruch“ (einer Prophezeiung). Hesekiel trägt eine echte Last auf der Schulter, und gleichzeitig ist es eine Botschaft. (Vgl. Jeremia 23,33–40.)
 > Der „Fürst“ ist König Zedekia, der letzte König von Juda. Genau so ist es gekommen: Als Jerusalem 586 vor Christus fiel, floh Zedekia nachts durch eine Öffnung in der Mauer. Er wurde gefangen, und man stach ihm die Augen aus. Dann brachte man ihn nach Babylon (2. Könige 25,4–7; Jeremia 39,4–7).
-> Vers 13: „Er wird Babylon nicht sehen, obwohl er dort sterben wird.“ Das klingt rätselhaft, wurde aber wörtlich wahr: Zedekia war blind, als er nach Babylon kam.
+> Vers 13: „Ich werde ihn nach Babylon bringen … Aber er wird es nicht sehen, obwohl er dort sterben wird.“ Das klingt rätselhaft, wurde aber wörtlich wahr: Zedekia war blind, als er nach Babylon kam.
 > Vers 16: Ein paar Überlebende werden den anderen Völkern erzählen, was geschehen ist und warum.
 
 ---
@@ -143,7 +143,7 @@ spricht der Herr, der HERR.‘“
 
 > **Was bedeutet das?**
 > Die Leute haben zwei Ausreden:
-> Vers 22: „Die Propheten reden immer vom Unheil, aber es passiert ja nie.“
-> Vers 27: „Vielleicht passiert es irgendwann, aber nicht zu unserer Zeit.“
+> Vers 22: Die Leute haben ein Sprichwort: „Die Tage ziehen sich hin, und jede Vision wird hinfällig.“ Das heißt: Die Propheten reden immer vom Unheil, aber es passiert ja nie.
+> Vers 27: Die Leute sagen: „Die Vision, die er sieht, ist für viele Tage später.“ Das heißt: Vielleicht passiert es irgendwann, aber nicht zu unserer Zeit.
 > Gott antwortet: Mein Wort wird sich erfüllen, und zwar bald, „in euren Tagen“. Tatsächlich wurde Jerusalem wenige Jahre später zerstört.
 > Auch heute schieben Menschen Warnungen gern weg: „Wird schon nicht so schlimm“ oder „Betrifft mich nicht“. Der Text erinnert: Es ist klug, Warnungen ernst zu nehmen und rechtzeitig umzukehren (vgl. 2. Petrus 3,9).

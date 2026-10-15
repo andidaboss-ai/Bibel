@@ -27,7 +27,7 @@ und den Armen wird die gute Nachricht verkündet.
 > Johannes der Täufer sitzt im Gefängnis (4,12). Er hatte einen Messias angekündigt, der mit dem Feuer des Gerichts kommt (3,10–12). Jesus aber heilt und isst mit Sündern. Johannes zweifelt: „Bist du es wirklich?“
 > Es ist erlaubt zu zweifeln. Selbst Johannes, der große Prophet, hat gezweifelt. Jesus tadelt ihn nicht.
 > Vers 4–5: Jesus antwortet nicht mit „Ja“, sondern lädt ein, hinzuschauen: Was geschieht, erfüllt die Verheißungen des Propheten Jesaja (Jesaja 35,5–6; 61,1). Und den Armen wird die gute Nachricht gebracht.
-> Vers 6: „Selig, wer an mir keinen Anstoß nimmt“, also wer sich nicht daran stößt, dass Jesus anders ist als erwartet.
+> Vers 6: „Selig ist, wer an mir keinen Anstoß nimmt“, also wer sich nicht daran stößt, dass Jesus anders ist als erwartet.
 
 ---
 
@@ -88,7 +88,7 @@ Und doch wird die Weisheit durch ihre Kinder gerechtfertigt.“
 > **Was bedeutet das?**
 > Ein Bild aus dem Kinderspiel: Die einen wollen Hochzeit spielen, die anderen Beerdigung, und niemand macht mit. Den Leuten ist nichts recht.
 > Johannes lebte streng und fastete. Da sagten sie: „Der ist verrückt.“ Jesus feiert mit den Menschen. Da sagten sie: „Der ist ein Fresser und Säufer.“
-> Vers 19: „Die Weisheit wird durch ihre Kinder gerechtfertigt“, also: An den Früchten erkennt man, ob etwas von Gott kommt.
+> Vers 19: „Und doch wird die Weisheit durch ihre Kinder gerechtfertigt“, also: An den Früchten erkennt man, ob etwas von Gott kommt.
 
 ---
 
@@ -117,7 +117,7 @@ Dem Land Sodom wird es am Tag des Gerichts erträglicher gehen als dir.“
 > Chorazin, Betsaida und Kafarnaum waren kleine Orte am See Genezareth. Dort hatte Jesus viele Wunder getan. Trotzdem haben die Menschen ihr Leben nicht geändert.
 > Tyrus und Sidon waren heidnische Hafenstädte, Sodom war sprichwörtlich für Gottesferne. Jesus sagt: Selbst diese Städte hätten umgekehrt, wenn sie so viel erlebt hätten.
 > Wer viel von Gott empfangen hat, trägt mehr Verantwortung. Das gilt für alle, auch für Christen heute.
-> „Totenreich“ (WEB: „Hades“) ist hier ein Bild für den tiefsten Sturz. Manche Handschriften formulieren den Anfang von Vers 23 als Frage: „Wirst du etwa bis zum Himmel erhoben werden?“
+> „Totenreich“ (WEB: „Hades“) ist hier ein Bild für den tiefsten Sturz. In manchen Handschriften ist der Anfang von Vers 23 eine Frage. Dann fragt Jesus Kafarnaum, ob es wirklich bis zum Himmel erhoben wird.
 
 ---
 

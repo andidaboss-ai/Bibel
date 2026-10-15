@@ -75,10 +75,10 @@ denn ihr werdet ein Land des Wohlgefallens sein“,
 spricht der HERR der Heere.
 
 > **Was bedeutet das?**
-> Vers 7: Wieder die Einladung: „Kehrt um zu mir, dann kehre ich mich zu euch um“ (wie Sacharja 1,3).
+> Vers 7: Wieder die Einladung: „Kehrt um zu mir, dann werde ich mich zu euch umkehren“ (wie Sacharja 1,3).
 > Vers 8–9: Die Menschen fragen: „Wie sollen wir umkehren?“ Gott nennt ein konkretes Beispiel: den Zehnten. Im Gesetz sollten die Israeliten den zehnten Teil ihrer Ernte abgeben. Davon lebten die Leviten, die kein eigenes Land hatten, und davon wurden auch Arme, Witwen, Waisen und Fremde versorgt (5. Mose 14,28–29). Wer den Zehnten nicht gab, nahm also auch den Armen etwas weg.
 > Vers 10: „Prüft mich doch!“ Eine der wenigen Stellen in der Bibel, wo Gott die Menschen auffordert, ihn auf die Probe zu stellen. Wer großzügig gibt, wird erleben, dass Gott großzügig segnet.
-> Wichtig: Dieser Vers wird manchmal missbraucht, um Menschen unter Druck zu setzen oder ihnen Geld abzunehmen, zum Beispiel mit dem Versprechen: „Wenn du spendest, wirst du reich.“ Das ist nicht der Sinn. Gottes Segen kann man nicht kaufen. Im Neuen Testament heißt es: „Jeder gebe, wie er es sich im Herzen vorgenommen hat, nicht mit Unwillen oder aus Zwang, denn einen fröhlichen Geber hat Gott lieb“ (2. Korinther 9,7).
+> Wichtig: Dieser Vers wird manchmal missbraucht, um Menschen unter Druck zu setzen oder ihnen Geld abzunehmen, zum Beispiel mit dem Versprechen: „Wenn du spendest, wirst du reich.“ Das ist nicht der Sinn. Gottes Segen kann man nicht kaufen. Im Neuen Testament heißt es: „Jeder soll so geben, wie er es sich in seinem Herzen vorgenommen hat, nicht widerwillig und nicht aus Zwang. Denn Gott liebt jemanden, der mit Freude gibt“ (2. Korinther 9,7).
 > Vers 11: Der „Fresser“ sind wahrscheinlich Heuschrecken oder andere Schädlinge.
 
 ---
@@ -111,7 +111,7 @@ zwischen dem, der Gott dient,
 und dem, der ihm nicht dient.“
 
 > **Was bedeutet das?**
-> Vers 14–15: Eine Frage, die sich viele Menschen stellen: „Lohnt es sich überhaupt, an Gott zu glauben und richtig zu leben? Denen, die Böses tun, geht es doch viel besser!“ (vgl. Psalm 73).
+> Vers 14–15: Viele Menschen stellen sich diese Frage: Lohnt es sich überhaupt, an Gott zu glauben und richtig zu leben? Denen, die Böses tun, geht es doch viel besser! Diese Frage stellt auch Psalm 73.
 > Vers 16: Eine stille, schöne Szene: Die, die Gott treu sind, reden miteinander und ermutigen sich gegenseitig. Und Gott hört zu! Er schreibt ihre Namen in ein „Buch der Erinnerung“. Kein treuer Mensch wird vergessen.
 > Vers 17: Sie sind Gottes „Eigentum“, sein besonderer Schatz (vgl. 2. Mose 19,5). Er kümmert sich um sie wie ein Vater um sein Kind.
 > Vers 18: Am Ende wird sichtbar werden, dass es einen Unterschied macht, ob man Gott dient oder nicht.

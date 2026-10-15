@@ -32,7 +32,7 @@ und vertraut auf den HERRN!
 
 > **Was bedeutet das?**
 > Ein guter Rat für den Abend: Bevor du schläfst, denk über deinen Tag nach. Prüfe dein Herz. Werde still.
-> Vers 4 kann man auch übersetzen: „Zürnt ihr, so sündigt nicht.“ So zitiert Paulus ihn in Epheser 4,26: „Lasst die Sonne nicht über eurem Zorn untergehen.“
+> Vers 4 kann man auch anders übersetzen. So zitiert Paulus ihn in Epheser 4,26: „Seid zornig, aber sündigt nicht.“ Und Paulus sagt dazu: „Euer Zorn soll nicht bis zum Sonnenuntergang dauern.“
 > „Opfer der Gerechtigkeit“: Opfer, die mit ehrlichem Herzen gebracht werden, nicht nur äußerlich.
 
 ---
@@ -48,6 +48,6 @@ denn du allein, HERR, lässt mich sicher wohnen.
 
 > **Was bedeutet das?**
 > Viele Menschen sind unzufrieden und fragen: Wo bleibt das Gute?
-> David antwortet mit einem Gebet aus dem Aaronitischen Segen: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).
+> David antwortet mit einem Gebet aus dem Aaronitischen Segen: „Der HERR lasse sein Angesicht über dir leuchten“ (4. Mose 6,25).
 > Vers 7: Die Freude, die von Gott kommt, ist größer als die Freude über eine reiche Ernte.
 > Vers 8 ist einer der schönsten Sätze für den Abend: „In Frieden will ich mich niederlegen und schlafen.“ Psalm 3 war ein Morgengebet, Psalm 4 ist ein Abendgebet.

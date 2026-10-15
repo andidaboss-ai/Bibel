@@ -43,7 +43,7 @@ und dein Mangel wie ein bewaffneter Mann.
 
 > **Was bedeutet das?**
 > Die kleine Ameise ist ein Vorbild: Niemand muss sie antreiben. Trotzdem arbeitet sie fleißig und sorgt vor für den Winter.
-> Vers 10–11: Faulheit kommt in kleinen Schritten: „Nur noch fünf Minuten …“ Und plötzlich ist die Not da, wie ein Räuber, der überraschend kommt.
+> Vers 10–11: Faulheit kommt in kleinen Schritten: „Ein wenig schlafen, ein wenig schlummern …“ Heute sagt man: Nur noch fünf Minuten. Und plötzlich ist die Not da, wie ein Räuber, der überraschend kommt.
 > Wichtig: Hier geht es um Faulheit, nicht um Menschen, die krank, erschöpft oder arbeitslos sind. Armut hat oft ganz andere Gründe. Die Bibel fordert viele Male, den Armen zu helfen.
 
 ---

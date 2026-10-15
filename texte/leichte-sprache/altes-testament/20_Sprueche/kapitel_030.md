@@ -44,7 +44,7 @@ und so den Namen meines Gottes entehre.
 > Das ist das einzige Gebet im ganzen Buch der Sprüche, und es ist sehr weise.
 > Agur bittet um zwei Dinge: Ehrlichkeit und genug zum Leben, nicht mehr und nicht weniger.
 > Wer zu reich ist, vergisst leicht Gott, weil er ihn nicht zu brauchen meint. Wer zu arm ist, kann in Versuchung geraten, zu stehlen.
-> Jesus lehrt ähnlich beten: „Unser tägliches Brot gib uns heute“ (Matthäus 6,11).
+> Jesus lehrt ähnlich beten: „Gib uns heute unser tägliches Brot“ (Matthäus 6,11).
 
 ---
 

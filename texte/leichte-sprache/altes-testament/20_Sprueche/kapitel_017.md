@@ -78,7 +78,7 @@ aber ein zerschlagener Geist trocknet die Knochen aus.
 > Vers 15: Ein Satz für jede Justiz: Unschuldige verurteilen und Schuldige freisprechen ist vor Gott gleich schlimm.
 > Vers 16: Weisheit kann man nicht kaufen, wenn man nicht lernen will.
 > Vers 17 ist ein wunderbarer Satz über Freundschaft: Ein echter Freund ist immer da, nicht nur in guten Zeiten. Und Geschwister sind besonders in der Not füreinander da.
-> Vers 19: „Sein Tor hoch bauen“: angeben, sich über andere erheben. Das führt zum Absturz.
+> Vers 19: „Wer sein Tor hoch baut“, der gibt an und erhebt sich über andere. Das führt zum Absturz.
 > Vers 22: „Ein fröhliches Herz ist eine gute Medizin“: Die Medizin weiß heute, dass Freude und Lachen gut für die Gesundheit sind.
 
 ---

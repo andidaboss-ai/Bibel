@@ -70,7 +70,7 @@ Ich will dich loben unter vielem Volk.
 
 > **Was bedeutet das?**
 > Das tut besonders weh: Die Menschen, für die der Beter gebetet und gefastet hat, als sie krank waren, wenden sich jetzt gegen ihn. Sie freuen sich über sein Unglück.
-> Vers 13: „Mein Gebet kehrte in meinen Schoß zurück“: Das ist schwer zu verstehen. Vielleicht: Ich betete mit gesenktem Kopf auf der Brust. Oder: Mein Gebet hat ihnen nicht geholfen, es kam zu mir zurück. Oder: Ich bete das Gleiche jetzt für mich selbst.
+> Vers 13: „Mein Gebet kehrte in meinen eigenen Schoß zurück“: Das ist schwer zu verstehen. Vielleicht: Ich betete mit gesenktem Kopf auf der Brust. Oder: Mein Gebet hat ihnen nicht geholfen, es kam zu mir zurück. Oder: Ich bete das Gleiche jetzt für mich selbst.
 > Vers 17: „Wie lange willst du zusehen?“: Eine ehrliche, verzweifelte Frage an Gott.
 
 ---
@@ -99,7 +99,7 @@ die sich gegen mich groß machen.
 > **Was bedeutet das?**
 > Vers 19: „Die mich ohne Grund hassen“: Jesus zitiert diese Worte für sich selbst (Johannes 15,25).
 > „Die Stillen im Land“: friedliche, unauffällige Menschen, die niemandem schaden. Gerade sie werden zur Zielscheibe von Lügen.
-> Vers 21: „Haha! Wir haben es gesehen!“: Die Feinde lachen schadenfroh, als hätten sie den Beter bei etwas ertappt.
+> Vers 21: „Haha! Haha! Unser Auge hat es gesehen!“: Die Feinde lachen schadenfroh, als hätten sie den Beter bei etwas ertappt.
 > Vers 22: Die Antwort: „Du hast es gesehen, HERR!“ Die Feinde sehen etwas, aber Gott sieht alles.
 
 ---

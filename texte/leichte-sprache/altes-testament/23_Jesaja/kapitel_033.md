@@ -25,7 +25,7 @@ Die Ehrfurcht vor dem HERRN ist dein Schatz.
 
 > **Was bedeutet das?**
 > Vers 1: Ein Wehe gegen den Verwüster, wohl Assyrien. Wer andere zerstört und betrügt, wird am Ende selbst zerstört und betrogen.
-> Vers 2: Ein schönes kurzes Gebet: „HERR, sei uns gnädig! Sei unsere Stärke jeden Morgen!“ Man kann es jeden Morgen beten.
+> Vers 2: Ein schönes kurzes Gebet: „HERR, sei uns gnädig! … Sei unsere Stärke jeden Morgen!“ Man kann es jeden Morgen beten.
 > Vers 6: Der größte Schatz ist die Ehrfurcht vor Gott.
 
 ---
@@ -57,7 +57,7 @@ und ihr in der Nähe, erkennt meine Macht!“
 > **Was bedeutet das?**
 > Vers 7–8: Die Friedensverhandlungen sind gescheitert. Die Friedensboten weinen. Der Feind hält sich an keinen Vertrag. Hiskia hatte Assyrien Tribut gezahlt, doch der assyrische König griff trotzdem an (2. Könige 18,14–17).
 > Vers 9: Sogar die schönsten Landschaften (Libanon, Scharon, Baschan, Karmel) verdorren.
-> Vers 10: Jetzt greift Gott ein: „Jetzt stehe ich auf!“
+> Vers 10: Jetzt greift Gott ein: „Jetzt will ich aufstehen.“
 > Vers 11: Die Pläne der Feinde sind wie Spreu. Ihr eigener Atem, ihre Wut, wird sie verbrennen.
 
 ---

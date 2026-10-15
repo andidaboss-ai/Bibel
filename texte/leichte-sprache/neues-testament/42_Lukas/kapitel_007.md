@@ -102,9 +102,9 @@ und in der ganzen Gegend ringsum.
 > **Was bedeutet das?**
 > Naïn war ein kleiner Ort in Galiläa, nicht weit von Nazaret. Nur Lukas erzählt diese Geschichte.
 > Eine Witwe, die ihren einzigen Sohn verliert, verliert alles: ihr Kind, ihren Halt und oft auch ihr Auskommen. Damals hatten Frauen ohne Mann und Sohn kaum Schutz.
-> Vers 13: Jesus hat Mitleid. Das griechische Wort meint ein tiefes Mitgefühl, das „bis in den Bauch“ geht. Er sieht zuerst die weinende Mutter.
+> Vers 13: Jesus hat Mitleid. Das griechische Wort meint ein tiefes Mitgefühl. Man spürt es bis in den Bauch. Jesus sieht zuerst die weinende Mutter.
 > Die „Bahre“ (WEB: „coffin“) war eine offene Trage. Man begrub die Toten noch am selben Tag.
-> Vers 15: „Er gab ihn seiner Mutter“: Das erinnert an den Propheten Elija, der den Sohn einer Witwe zurück ins Leben holte (1. Könige 17,23). Darum sagen die Leute: „Ein großer Prophet“.
+> Vers 15: „Jesus gab ihn seiner Mutter“: Das erinnert an den Propheten Elija, der den Sohn einer Witwe zurück ins Leben holte (1. Könige 17,23). Darum sagen die Leute: „Ein großer Prophet“.
 > Vers 16: „Gott hat sich seines Volkes angenommen“ (WEB: „God has visited his people“). Gott ist seinem Volk Israel nahe.
 > Für heute: Jesus übersieht die Trauernden nicht. Wer trauert, darf weinen. Hilfe für trauernde Eltern gibt es zum Beispiel beim Verein Verwaiste Eltern. Die Telefonseelsorge ist Tag und Nacht erreichbar: 0800 111 0 111 oder 0800 111 0 222.
 

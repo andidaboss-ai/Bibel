@@ -274,7 +274,7 @@ Dann baten sie ihn,
 noch einige Tage zu bleiben.
 
 > **Was bedeutet das?**
-> Vers 45: „Die aus der Beschneidung“: Gemeint sind jüdische Christen. „Heiden“ meint hier einfach Menschen aus den anderen Völkern, die nicht jüdisch sind. Das Wort ist keine Beleidigung.
+> Vers 45: „Die Gläubigen aus der Beschneidung“: Gemeint sind jüdische Christen. „Heiden“ meint hier einfach Menschen aus den anderen Völkern, die nicht jüdisch sind. Das Wort ist keine Beleidigung.
 > Vers 44–46: Das ist wie ein zweites Pfingsten. Gott schenkt seinen Geist auch Menschen, die keine Juden sind. Gott selbst öffnet die Tür, noch bevor sie getauft sind.
-> Vers 47: „Wer kann das verbieten?“ Niemand darf Menschen ausschließen, die Gott angenommen hat.
+> Vers 47: Petrus fragt: „Kann jemand das Wasser verweigern, damit diese nicht getauft werden?“ Niemand darf Menschen ausschließen, die Gott angenommen hat.
 > Für heute: Die Kirche ist für alle Menschen da, aus allen Völkern und Kulturen.

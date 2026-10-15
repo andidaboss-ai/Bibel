@@ -76,7 +76,7 @@ und es missfiel ihm, dass kein Recht da war.
 > **Was bedeutet das?**
 > Jetzt spricht das Volk selbst: „Wir“. Es gibt seine Schuld zu.
 > Vers 9–11: Wir warten auf Licht, aber es bleibt dunkel. Wir tappen wie Blinde. Wir brummen wie Bären und gurren wie Tauben. Ein ehrliches Gebet in der Not.
-> Vers 12–13: „Unsere Sünden, wir kennen sie.“ Das Volk sieht seine Schuld ein. Das ist der erste Schritt zur Umkehr.
+> Vers 12–13: „Unsere Missetaten, wir kennen sie.“ Das Volk sieht seine Schuld ein. Das ist der erste Schritt zur Umkehr.
 > Vers 14–15: Eine Gesellschaft, in der die Wahrheit auf der Straße liegt und niemand sie aufhebt. Wer ehrlich ist, wird zur Beute. Diese Beschreibung passt leider zu vielen Zeiten und Orten. Aber am Ende von Vers 15 heißt es: Der HERR sah es, und es missfiel ihm.
 
 ---

@@ -20,7 +20,7 @@ Er führt mich auf Pfaden der Gerechtigkeit um seines Namens willen.
 > „Mir wird nichts fehlen“: Nicht, dass ich alles bekomme, was ich will, sondern dass ich alles habe, was ich wirklich brauche.
 > „Er erquickt meine Seele“: Er gibt mir neue Kraft und neuen Mut.
 > „Um seines Namens willen“: Gott führt mich gut, weil er treu ist. Sein guter Ruf hängt daran.
-> Jesus sagt später: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11).
+> Jesus sagt später: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben hin für die Schafe“ (Johannes 10,11).
 
 ---
 

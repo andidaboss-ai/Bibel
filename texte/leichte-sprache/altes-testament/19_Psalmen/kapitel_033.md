@@ -35,7 +35,7 @@ Alle Bewohner der Welt sollen Ehrfurcht vor ihm haben.
 Er gebot, und es stand da.
 
 > **Was bedeutet das?**
-> Gott hat die Welt durch sein Wort geschaffen (vgl. 1. Mose 1: „Gott sprach: Es werde Licht“).
+> Gott hat die Welt durch sein Wort geschaffen (vgl. 1. Mose 1,3: „Gott sprach: ‚Es soll Licht werden.‘“).
 > „Ihr ganzes Heer“: die Sterne.
 > Vers 9 fasst es ganz kurz zusammen: Gott braucht nur zu sprechen, und es geschieht. So mächtig ist sein Wort.
 

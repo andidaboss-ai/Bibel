@@ -83,7 +83,7 @@ er ist voller Ärger und hat Krankheit und Zorn.
 > Vers 10: Ein zeitloser Satz: Wer Geld liebt, hat nie genug. Es ist wie Salzwasser trinken: Je mehr man trinkt, desto durstiger wird man.
 > Vers 11: Wer mehr hat, hat auch mehr Menschen um sich, die davon leben wollen.
 > Vers 12: Ein einfacher Arbeiter schläft gut. Ein Reicher liegt wach und sorgt sich um sein Geld.
-> Vers 15: „Nackt kommen wir, nackt gehen wir“: Wir können nichts mitnehmen. Ähnlich sagt es Hiob (Hiob 1,21) und Paulus (1. Timotheus 6,7). Man sagt auch: „Das letzte Hemd hat keine Taschen.“
+> Vers 15: „So wird er nackt wieder gehen, wie er gekommen ist“: Wir können nichts mitnehmen. Ähnlich sagen es Hiob (Hiob 1,21) und Paulus (1. Timotheus 6,7). Man sagt auch: Das letzte Hemd hat keine Taschen.
 
 ---
 

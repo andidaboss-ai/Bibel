@@ -14,7 +14,7 @@ Darum werde ich euch für alle eure Sünden heimsuchen.“
 
 > **Was bedeutet das?**
 > Ein überraschender Satz! Die Israeliten dachten wohl: „Wir sind Gottes erwähltes Volk. Darum sind wir sicher.“ Amos dreht das um: Gerade weil ihr erwählt seid, gerade weil ihr Gott so gut kennt, habt ihr eine größere Verantwortung.
-> Erwählung ist kein Privileg, sondern eine Aufgabe. Jesus sagt ähnlich: „Wem viel gegeben ist, von dem wird viel gefordert“ (Lukas 12,48).
+> Erwählung ist kein Privileg, sondern eine Aufgabe. Jesus sagt ähnlich: „Wem viel gegeben ist, von dem wird viel verlangt“ (Lukas 12,48).
 > Das hebräische Wort für „erwählt“ heißt eigentlich „erkannt“. Es beschreibt eine enge, persönliche Beziehung.
 
 ---
@@ -48,7 +48,7 @@ Wer sollte da nicht weissagen?
 > – Ein Löwe brüllt, weil er Beute hat.
 > – Eine Falle schnappt zu, weil etwas hineingetreten ist.
 > Und dann die Pointe (Vers 8): Ich, Amos, rede, weil Gott geredet hat. Ich kann nicht anders. Wie man erschrickt, wenn ein Löwe brüllt, so muss ich weissagen, wenn Gott spricht. Amos verteidigt damit seinen Auftrag.
-> Vers 6: „Geschieht ein Unglück, und der HERR hat es nicht getan?“ Ein schwieriger Satz. Amos meint hier das Unglück, das Gott als Gericht über Israel schickt. Er will sagen: Es ist kein Zufall, es hat einen Sinn. Man darf diesen Vers nicht so verstehen, dass jedes Unglück, das einem Menschen passiert, eine Strafe Gottes ist (vgl. Lukas 13,1–5; Johannes 9,2–3).
+> Vers 6: „Geschieht ein Unglück in einer Stadt, und der HERR hat es nicht getan?“ Ein schwieriger Satz. Amos meint hier das Unglück, das Gott als Gericht über Israel schickt. Er will sagen: Es ist kein Zufall, es hat einen Sinn. Man darf diesen Vers nicht so verstehen, dass jedes Unglück, das einem Menschen passiert, eine Strafe Gottes ist (vgl. Lukas 13,1–5; Johannes 9,2–3).
 > Vers 7: Gott handelt nicht im Geheimen. Er warnt vorher durch seine Propheten. Er gibt immer eine Chance zur Umkehr.
 
 ---
@@ -76,7 +76,7 @@ und auf seidenen Kissen des Bettes.“
 
 > **Was bedeutet das?**
 > Vers 9: Ein ungewöhnlicher Aufruf: Die Heiden (Philister aus Aschdod, Ägypter) sollen kommen und zusehen, wie viel Unrecht in Samaria geschieht. Sogar die Heiden würden sich darüber wundern.
-> Vers 10: „Sie wissen nicht mehr, was recht ist.“ Die Reichen in ihren Palästen häufen Reichtum an, der durch Raub und Gewalt erworben wurde.
+> Vers 10: „Sie wissen nicht, was recht ist.“ Die Reichen in ihren Palästen häufen Reichtum an, der durch Raub und Gewalt erworben wurde.
 > Vers 12: Ein bitteres Bild aus dem Hirtenleben: Wenn ein Löwe ein Schaf gerissen hatte, musste der Hirte Reste als Beweis vorzeigen, dass er es nicht gestohlen hatte (vgl. 2. Mose 22,13). So wird von den reichen Israeliten, die bequem auf ihren Sofas und Seidenkissen liegen, nur ein kläglicher Rest übrig bleiben.
 
 ---

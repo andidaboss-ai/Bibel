@@ -47,8 +47,8 @@ um zu bauen und zu pflanzen.“
 > **Was bedeutet das?**
 > Vers 1–3: Jeremia wirkte etwa 40 Jahre lang: vom 13. Jahr des Königs Joschija (627 vor Christus) bis zur Zerstörung Jerusalems (587 vor Christus).
 > Vers 5: Ein wunderbarer Vers: Gott kannte Jeremia schon, bevor er geboren wurde. Jeder Mensch ist von Gott gewollt und gekannt, schon vor der Geburt.
-> Vers 6: Jeremia wehrt sich: „Ich bin noch zu jung! Ich kann nicht reden.“ Viele Menschen fühlen sich zu klein für eine große Aufgabe. Auch Mose hatte so gezögert (2. Mose 4,10).
-> Vers 7–8: Gottes Antwort: „Sag nicht: Ich bin zu jung. Fürchte dich nicht, ich bin bei dir.“ Gott traut auch jungen Menschen etwas zu.
+> Vers 6: Jeremia wehrt sich: „Ich kann nicht reden, denn ich bin noch jung.“ Viele Menschen fühlen sich zu klein für eine große Aufgabe. Auch Mose hatte so gezögert (2. Mose 4,10).
+> Vers 7–8: Gottes Antwort: „Sag nicht: ‚Ich bin noch jung.‘ … Fürchte dich nicht vor ihnen, denn ich bin bei dir.“ Gott traut auch jungen Menschen etwas zu.
 > Vers 9: Gott berührt Jeremias Mund und legt seine Worte hinein.
 > Vers 10: Sechs Verben beschreiben Jeremias Auftrag: Vier davon sind hart (ausreißen, niederreißen, zerstören, abbrechen), zwei sind hoffnungsvoll (bauen, pflanzen). So wird das ganze Buch sein: viel Gericht, aber am Ende ein Neuanfang.
 

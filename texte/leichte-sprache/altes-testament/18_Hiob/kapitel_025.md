@@ -22,5 +22,5 @@ und das Menschenkind, das ein Wurm ist!“
 > Bildad lobt Gottes Größe: Er herrscht über alles, er schafft Frieden im Himmel, seine Engelheere sind unzählbar.
 > Dann wiederholt er, was schon Elifas gesagt hat (Kapitel 4,17; 15,14): Kein Mensch ist rein vor Gott.
 > Sein letztes Wort ist hart: Der Mensch ist „ein Wurm“. Im Hebräischen stehen hier zwei verschiedene Wörter, etwa „Made“ und „Wurm“. Das ist Bildads Bild vom Menschen: klein, schmutzig, wertlos.
-> Die Bibel sieht das an anderer Stelle anders: Der Mensch ist zwar klein vor Gott, aber er ist Gottes Ebenbild (1. Mose 1,27), „wenig niedriger als Gott“ geschaffen (Psalm 8,6). Gott liebt den Menschen.
+> Die Bibel sieht das an anderer Stelle anders: Der Mensch ist zwar klein vor Gott, aber er ist Gottes Ebenbild (1. Mose 1,27). Gott hat ihn „nur wenig niedriger gemacht als die Engel“ (Psalm 8,5; in vielen deutschen Bibeln 8,6). Gott liebt den Menschen.
 > Zofar spricht in dieser dritten Runde gar nicht mehr. Die Freunde haben nichts mehr zu sagen.

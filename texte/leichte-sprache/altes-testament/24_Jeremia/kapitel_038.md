@@ -33,7 +33,7 @@ und Jeremia sank in den Schlamm.
 
 > **Was bedeutet das?**
 > Vers 4: Die Fürsten sagen: Jeremia schwächt die Moral der Soldaten. Er ist ein Verräter. In Kriegszeiten werden unbequeme Stimmen oft als Verräter beschimpft.
-> Vers 5: König Zidkija ist so schwach, dass er Jeremia einfach ausliefert: „Ich kann nichts gegen euch tun.“
+> Vers 5: König Zidkija ist so schwach, dass er Jeremia einfach ausliefert: „Siehe, er ist in eurer Hand, denn der König kann nichts gegen euch tun.“
 > Vers 6: Jeremia wird in eine leere Zisterne geworfen, ein tiefes Loch im Felsen, in dem Regenwasser gesammelt wurde. Unten ist nur Schlamm. Jeremia versinkt darin. Man lässt ihn dort sterben, ohne selbst Hand anzulegen.
 
 ---

@@ -118,6 +118,6 @@ denn seine Güte bleibt für immer.
 > **Was bedeutet das?**
 > Vers 25: „Ach, HERR, rette doch!“ heißt auf Hebräisch „Hosianna!“
 > Vers 26: „Gesegnet sei, der im Namen des HERRN kommt!“ Mit diesen Worten begrüßten die Priester die Pilger am Tempel.
-> Als Jesus auf einem Esel in Jerusalem einzog, riefen die Menschen genau diese Worte: „Hosianna! Gesegnet sei, der da kommt im Namen des Herrn!“ (Matthäus 21,9). Christen singen diese Worte bis heute im Abendmahl.
+> Als Jesus auf einem Esel in Jerusalem einzog, riefen die Menschen Worte aus diesem Psalm: „Hosanna dem Sohn Davids! Gesegnet ist, der kommt im Namen des Herrn“ (Matthäus 21,9). Christen singen diese Worte bis heute im Abendmahl.
 > Vers 27: „Die Hörner des Altars“: Ecken des Altars, die wie Hörner nach oben ragten.
 > Der Psalm endet, wie er begonnen hat: „Seine Güte bleibt für immer.“

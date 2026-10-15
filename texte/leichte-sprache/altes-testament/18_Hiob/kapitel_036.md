@@ -63,7 +63,7 @@ Was auf deinen Tisch gestellt würde, wäre voll von Fett.
 > **Was bedeutet das?**
 > Vers 14: „Unter den Unreinen“: Im Hebräischen steht ein Wort für Männer, die im Tempel fremder Götter dienten. Gemeint ist ein schändliches Ende.
 > Vers 15 ist der Kernsatz Elihus: Gott rettet den Leidenden „durch“ sein Leid. Das Leid kann ein Weg sein, auf dem Gott zu einem Menschen spricht.
-> Vers 16: Gott wollte Hiob aus der Enge herausführen in die Weite. „Ein Tisch voll Fett“ bedeutet: reiches, gutes Essen, ein Bild für Segen (vgl. Psalm 23,5).
+> Vers 16: Gott wollte Hiob aus der Enge herausführen in die Weite. „Was auf deinen Tisch gestellt würde, wäre voll von Fett.“ Das bedeutet: reiches, gutes Essen, ein Bild für Segen (vgl. Psalm 23,5).
 
 ---
 

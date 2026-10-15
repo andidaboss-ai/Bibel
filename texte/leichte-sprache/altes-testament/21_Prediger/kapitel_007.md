@@ -55,7 +55,7 @@ damit der Mensch nichts herausfinden kann, was nach ihm kommt.
 > **Was bedeutet das?**
 > Vers 8: Man soll eine Sache nicht vor dem Ende beurteilen. Geduld zahlt sich aus.
 > Vers 9: Zorn wohnt bei den Toren. Wer weise ist, wird nicht schnell wütend.
-> Vers 10: „Früher war alles besser!“ Das sagen Menschen in jeder Generation. Der Prediger sagt: Das ist keine kluge Frage. Jede Zeit hat ihr Gutes und Schlechtes.
+> Vers 10: „Warum waren die früheren Tage besser als diese?“ So fragen Menschen in jeder Generation. Sie meinen: Früher war alles besser. Der Prediger sagt: Das ist keine kluge Frage. Jede Zeit hat ihr Gutes und Schlechtes.
 > Vers 14: Ein weiser Rat: Wenn es dir gut geht, freu dich! Wenn es dir schlecht geht, denk nach! Beides, gute und schwere Tage, gehört zum Leben, und beides kommt aus Gottes Hand.
 
 ---
@@ -86,7 +86,7 @@ dass auch du andere verflucht hast.
 > Vers 15: Der Prediger sieht ehrlich hin: Manchmal sterben gute Menschen jung, und böse Menschen leben lange. Das passt nicht zur einfachen Regel „Wer gut ist, dem geht es gut“.
 > Vers 16–17: Ein ungewöhnlicher Rat: Sei nicht „übermäßig gerecht“. Gemeint ist wohl: Sei nicht selbstgerecht und streng mit dir und anderen, als könntest du dir mit Frömmigkeit alles verdienen. Und sei natürlich auch nicht böse.
 > Vers 18: Wer Gott fürchtet, findet den richtigen Weg zwischen den Extremen.
-> Vers 20: „Es gibt keinen Menschen, der nur Gutes tut und nie sündigt.“ Paulus zitiert diesen Gedanken (Römer 3,10–12).
+> Vers 20: „Es gibt keinen gerechten Menschen auf der Erde, der Gutes tut und nicht sündigt.“ Paulus zitiert diesen Gedanken (Römer 3,10–12).
 > Vers 21–22: Ein kluger Rat: Hör nicht auf jedes Gerede über dich. Und denk daran: Du hast auch schon schlecht über andere geredet.
 
 ---

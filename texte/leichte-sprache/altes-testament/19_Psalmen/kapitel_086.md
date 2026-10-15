@@ -24,7 +24,7 @@ denn du wirst mir antworten.
 > **Was bedeutet das?**
 > Psalm 86 ist der einzige Psalm von David im dritten Psalmenbuch.
 > Er ist aus vielen Sätzen anderer Psalmen und Bibelstellen zusammengesetzt, wie ein Gebet, das aus bekannten Worten gewoben ist.
-> Vers 5: „Du bist gut und bereit zu vergeben“: Das ist der Grund, warum der Beter Gott vertraut.
+> Vers 5: „Du, Herr, bist gut und bereit zu vergeben“: Das ist der Grund, warum der Beter Gott vertraut.
 
 ---
 
@@ -75,6 +75,6 @@ damit die, die mich hassen, es sehen und beschämt werden,
 weil du, HERR, mir geholfen und mich getröstet hast.
 
 > **Was bedeutet das?**
-> Vers 15 zitiert eine der wichtigsten Aussagen über Gott in der ganzen Bibel. Gott selbst hat sie zu Mose gesagt: „barmherzig und gnädig, langsam zum Zorn und reich an Güte und Treue“ (2. Mose 34,6).
+> Vers 15 zitiert eine der wichtigsten Aussagen über Gott in der ganzen Bibel. Gott selbst hat sie zu Mose gesagt: „Ein barmherziger und gnädiger Gott, langsam zum Zorn und reich an Liebe und Treue“ (2. Mose 34,6).
 > Vers 16: „Den Sohn deines Knechtes“: Im Hebräischen steht „Sohn deiner Magd“. Gemeint ist: Ich gehöre ganz zu dir, von Geburt an, wie ein Kind, das im Haus eines Herrn geboren wurde.
 > Vers 17: Der Beter bittet um ein sichtbares Zeichen, dass Gott auf seiner Seite steht.

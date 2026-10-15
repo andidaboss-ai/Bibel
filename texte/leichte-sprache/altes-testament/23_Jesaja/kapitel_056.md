@@ -70,6 +70,6 @@ Und morgen wird es sein wie heute, großartig über alle Maßen.“
 > Jetzt kommt eine scharfe Kritik an den Anführern des Volkes, den „Wächtern“ und „Hirten“.
 > Vers 9: Die wilden Tiere werden eingeladen: Kommt, hier ist leichte Beute! Denn die Herde ist ungeschützt.
 > Vers 10: Die Wächter sind wie Wachhunde, die nicht bellen. Sie schlafen, statt vor Gefahren zu warnen.
-> Vers 11–12: Sie denken nur an ihren eigenen Vorteil und feiern Trinkgelage. „Morgen wird es genauso toll!“ Sie merken nicht, dass das Volk in Gefahr ist.
+> Vers 11–12: Sie denken nur an ihren eigenen Vorteil und feiern Trinkgelage. Sie sagen: „Morgen wird es sein wie heute, großartig über alle Maßen.“ Sie merken nicht, dass das Volk in Gefahr ist.
 > Für heute: Wer Verantwortung für andere trägt, in Politik, Kirche, Gemeinde oder Familie, soll wachsam sein und an die Schwachen denken, nicht an den eigenen Gewinn.
 > Wer selbst Probleme mit Alkohol hat, findet Hilfe bei der Sucht- und Drogen-Hotline: 01806 313 031.

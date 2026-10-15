@@ -74,5 +74,5 @@ oder ein junger Hirsch auf den Bergen von Beter.
 > Vers 10–13: Eines der schönsten Frühlingsgedichte der Welt: Der Winter ist vorbei, die Blumen blühen, die Vögel singen. Komm mit mir! Liebe ist wie ein neuer Frühling.
 > Vers 15: Kleine Füchse fressen die jungen Trauben. Vielleicht ist gemeint: Kleine Störungen können eine junge Liebe kaputt machen. Passt darauf auf!
 > Vers 16: „Mein Geliebter ist mein, und ich bin sein“: Dieser Satz wird oft in Eheringe graviert. Er drückt gegenseitige Zugehörigkeit aus.
-> Vers 17: „Die Berge von Beter“: Der Name ist unsicher, vielleicht „zerklüftete Berge“.
+> Vers 17: „Auf den Bergen von Beter“: Der Name ist unsicher, vielleicht „zerklüftete Berge“.
 

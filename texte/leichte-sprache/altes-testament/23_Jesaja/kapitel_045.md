@@ -142,5 +142,5 @@ und werden sich freuen!
 > Vers 15: „Du bist ein Gott, der sich verborgen hält.“ Gott ist nicht einfach zu sehen oder zu begreifen. Viele Menschen kennen diese Erfahrung.
 > Vers 18: Gott hat die Erde nicht als leere Wüste geschaffen, sondern damit Menschen dort wohnen.
 > Vers 22: Eine Einladung an die ganze Welt: „Wendet euch zu mir und lasst euch retten, alle Enden der Erde!“ Gottes Rettung gilt nicht nur Israel, sondern allen Völkern.
-> Vers 23: „Jedes Knie wird sich beugen.“ Paulus nimmt dieses Wort im Brief an die Philipper (2,10–11) auf und bezieht es auf Jesus. Im Judentum gehört der Gedanke, dass einmal alle Völker den einen Gott anerkennen, zum Gebet „Alenu“.
+> Vers 23: „Vor mir wird sich jedes Knie beugen.“ Paulus nimmt dieses Wort im Brief an die Philipper (2,10–11) auf und bezieht es auf Jesus. Im Judentum gehört der Gedanke, dass einmal alle Völker den einen Gott anerkennen, zum Gebet „Alenu“.
 

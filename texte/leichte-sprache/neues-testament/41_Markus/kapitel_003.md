@@ -94,7 +94,7 @@ Dann ging er in ein Haus.
 > Vers 14: Das Erste ist: „bei ihm sein“. Erst danach kommt das Predigen und Heilen.
 > „Petrus“ heißt „Fels“. „Donnersöhne“: Vielleicht waren Jakobus und Johannes sehr temperamentvoll (vergleiche Lukas 9,54).
 > „Simon der Zelot“: Die Zeloten waren eifrige Juden, von denen manche gegen die Römer kämpfen wollten. Matthäus dagegen war ein Zöllner, der mit den Römern zusammenarbeitete. Jesus beruft beide. In seiner Gemeinschaft finden sehr verschiedene Menschen zusammen.
-> In manchen alten Handschriften steht in Vers 14 noch: „die er auch Apostel nannte“. Das WEB hat das nicht.
+> In manchen alten Handschriften steht in Vers 14 noch: Er nannte sie auch Apostel. Das WEB hat das nicht.
 
 ---
 
@@ -141,7 +141,7 @@ sondern ist ewiger Verurteilung schuldig.“
 > Wichtig: „Von Sinnen“ war ein Vorwurf. Psychische Krankheiten sind keine Schande. Menschen mit psychischen Krankheiten verdienen Respekt und Hilfe.
 > „Beelzebul“ ist ein Name für den Obersten der Dämonen, den Satan.
 > Vers 23–27: Jesus zeigt, wie unsinnig der Vorwurf ist. Der Satan würde doch nicht gegen sich selbst kämpfen! Jesus ist der „Stärkere“, der den „Starken“ (den Satan) besiegt.
-> Vers 28–29: Gottes Vergebung ist riesig: Alle Sünden können vergeben werden. Die „Lästerung gegen den Heiligen Geist“ meint hier: Gottes gutes Wirken bewusst als teuflisch zu bezeichnen und sich so ganz gegen Gott zu verschließen.
+> Vers 28–29: Gottes Vergebung ist riesig: Alle Sünden können vergeben werden. „Wer aber gegen den Heiligen Geist lästert …“: Das meint hier, Gottes gutes Wirken bewusst als teuflisch zu bezeichnen und sich so ganz gegen Gott zu verschließen.
 > Sehr wichtig: Viele Menschen haben Angst, sie hätten diese „unvergebbare Sünde“ begangen. Ausleger sagen: Wer sich darüber Sorgen macht und Gott sucht, hat sie gerade nicht begangen. Wer solche quälenden Gedanken nicht loswird, darf mit einer Seelsorgerin oder einem Seelsorger darüber reden, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 
 ---

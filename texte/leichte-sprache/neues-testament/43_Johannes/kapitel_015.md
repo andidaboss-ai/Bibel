@@ -149,5 +149,5 @@ weil ihr von Anfang an bei mir gewesen seid.“
 > Vers 18–21: Die ersten Christen erlebten Ablehnung und Verfolgung. Jesus bereitet seine Jünger darauf vor.
 > Wichtig: Diese Verse geben Christen nicht das Recht, sich überlegen zu fühlen oder andere als „die Welt“ abzustempeln. Gott liebt die Welt (3,16).
 > Vers 25 zitiert Psalm 35,19 oder Psalm 69,5 (in manchen Bibeln 69,4). „Gesetz“ meint hier die ganze Heilige Schrift Israels.
-> Vers 26: Der Heilige Geist „geht vom Vater aus“. Über die genaue Herkunft des Geistes haben die Kirchen lange gestritten: Die westlichen Kirchen bekennen im Glaubensbekenntnis, dass der Geist „vom Vater und vom Sohn“ ausgeht. Die orthodoxen Kirchen sagen nur „vom Vater“. Heute sprechen die Kirchen darüber im Dialog.
+> Vers 26: Der Heilige Geist ist der Geist, „der vom Vater ausgeht“. Über die genaue Herkunft des Geistes haben die Kirchen lange gestritten: Die westlichen Kirchen bekennen im Glaubensbekenntnis, dass der Geist „vom Vater und vom Sohn“ ausgeht. Die orthodoxen Kirchen sagen nur „vom Vater“. Heute sprechen die Kirchen darüber im Dialog.
 > Für heute: Christen sollen von Jesus erzählen, freundlich und ehrlich, auch wenn sie dafür abgelehnt werden.

@@ -66,7 +66,7 @@ und den, der dem HERRN der Heere eine Opfergabe darbringt.
 
 > **Was bedeutet das?**
 > Vers 10: „Haben wir nicht alle einen Vater? Hat uns nicht ein Gott erschaffen?“ Ein wichtiger Satz: Wir sind alle Geschwister, weil wir denselben Schöpfer haben. Darum sollen wir einander nicht betrügen.
-> Vers 11: „Die Tochter eines fremden Gottes heiraten“ heißt: Männer heirateten Frauen, die anderen Göttern dienten, und übernahmen deren Götterkult. Es geht hier um den Glauben, nicht um Herkunft oder Hautfarbe. Die Bibel erzählt ja auch von Frauen aus anderen Völkern, die zum Gott Israels fanden und hoch geachtet sind, wie Rut, die Moabiterin und Urgroßmutter Davids.
+> Vers 11: Juda „hat die Tochter eines fremden Gottes geheiratet“. Das heißt: Männer heirateten Frauen, die anderen Göttern dienten, und übernahmen deren Götterkult. Es geht hier um den Glauben, nicht um Herkunft oder Hautfarbe. Die Bibel erzählt ja auch von Frauen aus anderen Völkern, die zum Gott Israels fanden und hoch geachtet sind, wie Rut, die Moabiterin und Urgroßmutter Davids.
 > Vers 12: Ein ernstes Urteil. „Den Wachenden und den Antwortenden“ ist eine alte Redewendung, deren genaue Bedeutung unsicher ist; gemeint ist wohl: jeden, ohne Ausnahme.
 
 ---
@@ -102,7 +102,7 @@ dass ihr nicht treulos werdet.“
 > Damals hatten Frauen kaum Rechte. Eine verstoßene Frau stand oft ohne Versorgung und Schutz da. Gott stellt sich hier auf die Seite der verlassenen Frauen.
 > Die Ehe ist ein „Bund“, und Gott selbst ist Zeuge. Die Ehefrau ist „deine Gefährtin“, also ebenbürtige Partnerin.
 > Vers 15: Dieser Vers ist im Hebräischen einer der schwierigsten im ganzen Alten Testament. Die Übersetzungen weichen stark voneinander ab. Gemeint ist wahrscheinlich: Gott hat Mann und Frau in der Ehe zu einer Einheit gemacht.
-> Vers 16: „Wer hasst und sich scheidet, bedeckt sein Gewand mit Gewalt.“ Das heißt: Wer seine Frau aus Abneigung verstößt, tut ihr Gewalt an. Es geht um Männer, die ihre Frauen rücksichtslos im Stich lassen.
+> Vers 16: „Wer hasst und sich scheidet … der bedeckt sein Gewand mit Gewalt!“ Das heißt: Wer seine Frau aus Abneigung verstößt, tut ihr Gewalt an. Es geht um Männer, die ihre Frauen rücksichtslos im Stich lassen.
 > Wichtig: Dieser Vers will Schwache schützen. Er darf niemals dazu benutzt werden, jemanden in einer Ehe festzuhalten, in der er oder sie Gewalt erlebt. Gewalt in der Ehe zerstört selbst den Bund. Hilfe gibt es beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon „Gewalt an Männern“: 0800 123 99 00.
 
 ---

@@ -168,7 +168,7 @@ Er war verloren und ist wiedergefunden.‘“
 > Dieses Gleichnis ist eines der bekanntesten der Bibel. Nur Lukas erzählt es. Man nennt es oft „Gleichnis vom verlorenen Sohn“, manchmal auch „vom barmherzigen Vater“, weil der Vater die Hauptperson ist.
 > Vers 12: Sein Erbe zu verlangen, solange der Vater lebt, war damals eine schwere Kränkung. Es war fast so, als würde man sagen: „Ich wünschte, du wärst tot.“ Trotzdem gibt der Vater nach.
 > Vers 15–16: Schweine galten für Juden als unrein (3. Mose 11,7). Tiefer konnte der Sohn kaum fallen. Die „Schoten“ waren wohl Früchte des Johannisbrotbaums, ein Tierfutter.
-> Vers 17: „Er ging in sich“: Er sieht ehrlich, wie es um ihn steht. Das ist der Anfang der Umkehr.
+> Vers 17: „Da ging er in sich“: Er sieht ehrlich, wie es um ihn steht. Das ist der Anfang der Umkehr.
 > Vers 20: Der Vater wartet und hält Ausschau. Er läuft dem Sohn entgegen. Für einen älteren Mann damals war Laufen fast unwürdig. Aber die Liebe ist größer als die Würde.
 > Vers 21: Der Vater lässt den Sohn seine vorbereitete Rede gar nicht zu Ende sagen. Manche alten Handschriften fügen hier noch hinzu: „Mach mich zu einem von deinen Tagelöhnern.“
 > Vers 22: Gewand, Ring und Sandalen sind Zeichen: Du bist wieder ganz mein Sohn. Sklaven gingen barfuß, Söhne trugen Sandalen.

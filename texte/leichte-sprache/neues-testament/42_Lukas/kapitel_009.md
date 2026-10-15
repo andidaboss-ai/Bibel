@@ -276,7 +276,7 @@ ihn nach diesem Wort zu fragen.
 > Die Beschreibung erinnert an Epilepsie: Anfälle, Schreien, Krämpfe, Schaum vor dem Mund. Die Menschen damals erklärten so etwas mit einem Geist.
 > Wichtig: Epilepsie ist eine Krankheit des Gehirns. Sie hat nichts mit Dämonen oder Sünde zu tun. Menschen mit Epilepsie brauchen ärztliche Hilfe, Verständnis und keine Angst.
 > Vers 41: Jesu Klage gilt der ganzen Generation, auch den Jüngern, die nicht helfen konnten. Sie gilt nicht dem verzweifelten Vater.
-> Vers 42: „Er gab ihn seinem Vater zurück“: wie beim Sohn der Witwe in Naïn (Lukas 7,15).
+> Vers 42: Jesus „gab ihn seinem Vater zurück“: wie beim Sohn der Witwe in Naïn (Lukas 7,15).
 > Vers 44–45: Die zweite Leidensankündigung. Die Jünger verstehen sie nicht. Erst nach Ostern werden sie verstehen (Lukas 24,45).
 
 ---

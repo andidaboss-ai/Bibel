@@ -128,7 +128,7 @@ mit allen Bewohnern des Landes.
 
 > **Was bedeutet das?**
 > Vers 14–16: Eine der berühmtesten Beschreibungen des „Tages des HERRN“ in der Bibel. Fünfmal heißt es „ein Tag …“, wie Glockenschläge.
-> Aus Vers 15 entstand im Mittelalter der lateinische Hymnus „Dies irae, dies illa“ („Tag des Zorns, jener Tag“). Er wurde Teil der katholischen Totenmesse und von vielen Komponisten vertont, zum Beispiel von Mozart und Verdi in ihren Requiems.
+> Aus Vers 15 entstand im Mittelalter der lateinische Hymnus „Dies irae“. Das heißt: „Tag des Zorns“. Er wurde Teil der katholischen Totenmesse und von vielen Komponisten vertont, zum Beispiel von Mozart und Verdi in ihren Requiems.
 > Vers 18: Geld kann vor Gottes Gericht nicht retten. Die Reichen, die auf ihren Besitz vertraut haben, stehen mit leeren Händen da.
 > Das Gericht kam wenige Jahrzehnte später, als die Babylonier Jerusalem eroberten (587/586 vor Christus). Aber Zefanja hat auch eine Hoffnungsbotschaft. Die kommt in den nächsten Kapiteln.
 

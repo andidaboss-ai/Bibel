@@ -37,7 +37,7 @@ auch über die Grenze Israels hinaus!“
 
 > **Was bedeutet das?**
 > Vers 2: Das erste Wort des Buches ist ein Liebesbekenntnis Gottes: „Ich habe euch geliebt.“ Aber das Volk zweifelt: „Wie denn? Wir merken nichts davon!“
-> Vers 2–3: Gott erinnert an die Zwillinge Jakob und Esau (1. Mose 25). Gott hat Jakob erwählt, nicht Esau. „Lieben“ und „hassen“ ist hier eine hebräische Redeweise für „erwählen“ und „nicht erwählen“ oder „bevorzugen“ und „weniger bevorzugen“. Es heißt nicht, dass Gott Esau persönlich verabscheut hätte. Jesus benutzt dieselbe Redeweise, wenn er sagt, man müsse Vater und Mutter „hassen“, um ihm zu folgen (Lukas 14,26; vgl. Matthäus 10,37: „mehr lieben als mich“).
+> Vers 2–3: Gott erinnert an die Zwillinge Jakob und Esau (1. Mose 25). Gott hat Jakob erwählt, nicht Esau. „Lieben“ und „hassen“ ist hier eine hebräische Redeweise für „erwählen“ und „nicht erwählen“ oder „bevorzugen“ und „weniger bevorzugen“. Es heißt nicht, dass Gott Esau persönlich verabscheut hätte. Jesus benutzt dieselbe Redeweise, wenn er sagt, man müsse Vater und Mutter „hassen“, um ihm zu folgen (Lukas 14,26; vgl. Matthäus 10,37: „Wer Vater oder Mutter mehr liebt als mich“).
 > Paulus zitiert diesen Vers im Römerbrief (Römer 9,13), wenn er über Gottes freie Erwählung spricht.
 > Vers 4: Edom (das Volk der Nachkommen Esaus) war inzwischen von anderen Völkern aus seinem Land vertrieben worden. Israel dagegen durfte zurückkehren. Daran sollen sie Gottes Liebe erkennen.
 > Vers 5: „Groß ist der HERR, auch über die Grenze Israels hinaus“: Gott ist nicht nur ein Gott für Israel, sondern für die ganze Welt.

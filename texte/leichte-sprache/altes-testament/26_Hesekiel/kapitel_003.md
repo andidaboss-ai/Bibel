@@ -143,4 +143,4 @@ denn sie sind ein widerspenstiges Haus.“
 > **Was bedeutet das?**
 > Hesekiel soll sich in seinem Haus einschließen und stumm sein. Er darf nur reden, wenn Gott ihm etwas zu sagen gibt. So wird deutlich: Hesekiel redet nicht seine eigenen Gedanken, sondern nur Gottes Wort.
 > Diese Stummheit dauert bis zur Zerstörung Jerusalems (vgl. 24,27; 33,22).
-> Vers 27: „Wer hören will, der höre.“ Jesus sagt etwas Ähnliches: „Wer Ohren hat zu hören, der höre!“ (Matthäus 13,9).
+> Vers 27: „Wer hören will, der höre.“ Jesus sagt etwas Ähnliches: „Wer Ohren hat zum Hören, der soll hören!“ (Matthäus 13,9).

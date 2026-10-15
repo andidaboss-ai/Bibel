@@ -50,7 +50,7 @@ weil sie Angst vor den Juden hatten.
 > **Was bedeutet das?**
 > Das Laubhüttenfest (hebräisch „Sukkot“) ist ein großes jüdisches Herbstfest. Eine Woche lang wohnt man in Hütten aus Zweigen. Das erinnert an die Wanderung Israels durch die Wüste (3. Mose 23,33–43). Es ist auch ein Erntedankfest. Viele Pilger kamen nach Jerusalem.
 > Vers 5: Auch Jesu Brüder glaubten zuerst nicht an ihn. Später gehörten sie zur Gemeinde (Apostelgeschichte 1,14).
-> Vers 8: Viele alte Handschriften haben „Ich gehe nicht hinauf“ statt „Ich gehe noch nicht hinauf“.
+> Vers 8: Oben steht: „Ich gehe noch nicht hinauf“. Viele alte Handschriften haben nur „nicht“ statt „noch nicht“.
 > Vers 1, 11 und 13: Wichtig: Hier zeigt sich besonders deutlich, dass „die Juden“ bei Johannes nicht das jüdische Volk meint. Die Menschen in der Menge sind selbst Juden. Und trotzdem haben sie „Angst vor den Juden“. Gemeint sind bestimmte mächtige Leiter in Jerusalem. Niemand darf diese Verse gegen Juden benutzen.
 > Vers 12: Die Meinungen über Jesus sind geteilt. So ist es bis heute.
 
@@ -196,7 +196,7 @@ wegen ihm.
 aber niemand legte Hand an ihn.
 
 > **Was bedeutet das?**
-> Beim Laubhüttenfest holte man jeden Tag in einer feierlichen Prozession Wasser aus dem Teich Schiloach und goss es am Altar aus. Man betete um Regen und dachte an die Verheißungen der Propheten (zum Beispiel Sacharja 14,8; Hesekiel 47). Genau in diesem Moment ruft Jesus: „Wer Durst hat, der komme zu mir!“
+> Beim Laubhüttenfest holte man jeden Tag in einer feierlichen Prozession Wasser aus dem Teich Schiloach und goss es am Altar aus. Man betete um Regen und dachte an die Verheißungen der Propheten (zum Beispiel Sacharja 14,8; Hesekiel 47). Genau in diesem Moment ruft Jesus: „Wer Durst hat, der komme zu mir und trinke!“ (7,37).
 > Vers 38: Welches Schriftwort Jesus meint, ist nicht sicher. Es erinnert an Jesaja 58,11 und andere Stellen.
 > Vers 39: Johannes erklärt: Gemeint ist der Heilige Geist. Er wird nach Jesu Tod und Auferstehung geschenkt.
 > Vers 41–42: Die Leute wissen nicht, dass Jesus in Betlehem geboren wurde (Matthäus 2; Lukas 2). Johannes erzählt das mit einem leisen Lächeln: Die Leser wissen mehr.

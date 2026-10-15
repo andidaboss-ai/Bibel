@@ -71,7 +71,7 @@ Die Gier nimmt ihren Besitzern das Leben.
 > **Was bedeutet das?**
 > Vers 8: Vater und Mutter lehren beide. Die Mutter wird ausdrücklich genannt.
 > Vers 9: Gute Lehre ist wie Schmuck. Sie macht einen Menschen schön.
-> Vers 10–14: Eine Bande versucht, einen jungen Mann anzuwerben: „Mach mit, wir werden reich, wir teilen alles!“ Das klingt nach Gemeinschaft und schnellem Geld. Solche Verführung gibt es bis heute: Gangs, Kriminalität, Betrug.
+> Vers 10–14: Eine Bande versucht, einen jungen Mann anzuwerben: „Komm mit uns! … Wir werden alle einen gemeinsamen Geldbeutel haben.“ Das klingt nach Gemeinschaft und schnellem Geld. Solche Verführung gibt es bis heute: Gangs, Kriminalität, Betrug.
 > Vers 17–18: Ein Vogel, der das Netz sieht, fliegt nicht hinein. Aber diese Männer sehen ihre eigene Falle nicht. Wer anderen schadet, schadet am Ende sich selbst.
 > Vers 19: Gier zerstört das Leben dessen, der gierig ist.
 

@@ -9,7 +9,7 @@ Die Klagelieder sind fünf Gedichte über die Zerstörung Jerusalems im Jahr 587
 Eine alte Überlieferung sagt, dass der Prophet Jeremia sie geschrieben hat. Darum stehen sie in vielen Bibeln direkt nach dem Buch Jeremia. Im Text selbst steht kein Name.
 Die ersten vier Lieder sind kunstvoll gebaut: Jeder Vers (oder jede Versgruppe) beginnt mit dem nächsten Buchstaben des hebräischen Alphabets, von Alef bis Taw. So wird der Schmerz „von A bis Z“ ausgesprochen.
 Im Judentum werden die Klagelieder am Trauertag Tischa be-Av gelesen, an dem man an die Zerstörung der Tempel erinnert. Auch in christlichen Gottesdiensten werden sie in der Karwoche gelesen.
-Die Klagelieder zeigen: Man darf vor Gott klagen, weinen und fragen. Trauer braucht Worte. Mitten in der Klage steht auch ein berühmter Satz der Hoffnung: „Die Gnade des HERRN ist nicht zu Ende, sein Erbarmen hört nicht auf. Es ist jeden Morgen neu“ (3,22–23).
+Die Klagelieder zeigen: Man darf vor Gott klagen, weinen und fragen. Trauer braucht Worte. Mitten in der Klage steht auch ein berühmter Satz der Hoffnung: „Die Gnade des HERRN ist es, dass wir nicht vernichtet sind, denn sein Erbarmen hört nicht auf. Es ist jeden Morgen neu“ (3,22–23).
 
 ---
 
@@ -156,7 +156,7 @@ Denn meine Seufzer sind viele,
 und mein Herz ist krank.“
 
 > **Was bedeutet das?**
-> Vers 12 ist einer der bekanntesten Verse: „Ist es euch nichts, die ihr vorübergeht? Schaut, ob es einen Schmerz gibt wie meinen Schmerz!“ Die Stadt ruft den Vorbeigehenden zu: Seht ihr mein Leid nicht? Christen haben diesen Vers oft auf das Leiden von Jesus am Karfreitag bezogen.
+> Vers 12 ist einer der bekanntesten Verse: „Ist es euch nichts, die ihr alle vorübergeht? Schaut und seht, ob es einen Schmerz gibt wie meinen Schmerz!“ Die Stadt ruft den Vorbeigehenden zu: Seht ihr mein Leid nicht? Christen haben diesen Vers oft auf das Leiden von Jesus am Karfreitag bezogen.
 > Vers 16: „Mein Auge, mein Auge fließt von Wasser.“ Tränen ohne Ende.
 > Vers 18: Trotz allem: „Der HERR ist gerecht.“ Jerusalem gibt seine Schuld zu.
 > Vers 20: „Draußen raubt das Schwert die Kinder, drinnen ist es wie der Tod.“ Krieg draußen, Hunger und Krankheit drinnen. Es gibt keinen sicheren Ort mehr.

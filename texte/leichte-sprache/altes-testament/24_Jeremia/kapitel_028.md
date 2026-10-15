@@ -47,7 +47,7 @@ Da ging der Prophet Jeremia seines Weges.
 
 > **Was bedeutet das?**
 > Ein Prophet gegen einen Propheten: Hananja sagt im Namen Gottes das Gegenteil von Jeremia: In zwei Jahren ist alles vorbei!
-> Vers 6: Jeremias Antwort ist erstaunlich: „Amen! Ich wünschte, du hättest recht!“ Jeremia will das Unglück nicht. Er wäre froh, wenn Hananja recht hätte.
+> Vers 6: Jeremias Antwort ist erstaunlich: „Amen! So möge der HERR tun! Der HERR möge deine Worte erfüllen.“ Jeremia will das Unglück nicht. Er wäre froh, wenn Hananja recht hätte.
 > Vers 8–9: Aber Jeremia gibt zu bedenken: Die echten Propheten früher haben meistens vor Unheil gewarnt. Wer Frieden verspricht, muss erst beweisen, dass er recht hat. Ob ein Prophet wirklich von Gott kommt, zeigt sich daran, ob sein Wort eintrifft (vgl. 5. Mose 18,22).
 > Vers 10–11: Hananja zerbricht vor allen Leuten Jeremias Holzjoch. Eine starke Geste.
 > Vers 11: Jeremia streitet nicht weiter. Er geht still weg. Manchmal ist es klüger, nicht sofort zu antworten.

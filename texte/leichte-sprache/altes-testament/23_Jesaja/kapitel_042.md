@@ -41,8 +41,8 @@ Bevor es aufsprosst, sage ich es euch.“
 > Hier beginnt das erste von vier Liedern über den „Knecht Gottes“ (die anderen stehen in Kapitel 49, 50 und 52–53).
 > Wer ist dieser Knecht? Er ist von Gott erwählt, Gottes Geist ruht auf ihm, und er bringt allen Völkern Gerechtigkeit.
 > Vers 2–3: Er tut es nicht mit Lärm und Gewalt, sondern ganz sanft. Ein „geknicktes Rohr“ bricht er nicht ab, einen fast erloschenen Docht pustet er nicht aus. Er geht behutsam mit den Schwachen und Verletzten um. Ein wunderschönes Bild für Sanftmut.
-> Vers 6–7: Er wird ein „Licht für die Völker“: Er öffnet blinde Augen und befreit Gefangene.
-> Im Judentum versteht man den Knecht meist als das Volk Israel selbst (vgl. Kapitel 41,8), das ein Licht für die Völker sein soll, oder auch als den Propheten. Das Neue Testament bezieht diese Worte auf Jesus (Matthäus 12,18–21). Bei der Taufe Jesu klingt Vers 1 an: „Das ist mein geliebter Sohn, an dem ich Gefallen habe“ (Markus 1,11).
+> Vers 6–7: Er wird „zum Licht für die Nationen“: Er öffnet blinde Augen und befreit Gefangene.
+> Im Judentum versteht man den Knecht meist als das Volk Israel selbst (vgl. Kapitel 41,8), das ein Licht für die Völker sein soll, oder auch als den Propheten. Das Neue Testament bezieht diese Worte auf Jesus (Matthäus 12,18–21). Bei der Taufe Jesu klingt Vers 1 an: „Du bist mein geliebter Sohn, an dir habe ich Freude“ (Markus 1,11).
 
 ---
 

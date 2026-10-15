@@ -90,7 +90,7 @@ bis ihr übrig bleibt wie ein Mast auf einem Berggipfel
 und wie ein Feldzeichen auf einem Hügel.
 
 > **Was bedeutet das?**
-> Vers 15 ist einer der bekanntesten Verse Jesajas: „In Stillsein und Vertrauen liegt eure Stärke.“ Gott lädt ein, nicht in Panik zu verfallen, sondern umzukehren, zur Ruhe zu kommen und ihm zu vertrauen.
+> Vers 15 ist einer der bekanntesten Verse Jesajas: „In Stillsein und Vertrauen wird eure Stärke liegen.“ Gott lädt ein, nicht in Panik zu verfallen, sondern umzukehren, zur Ruhe zu kommen und ihm zu vertrauen.
 > Aber das Volk will lieber auf schnelle Pferde setzen, also auf militärische Stärke. Das Ergebnis: Sie werden fliehen müssen.
 > Ein Gedanke, der bis heute hilft: In Stress und Angst ist es oft klüger, still zu werden und Gott zu vertrauen, als hektisch zu handeln.
 
@@ -135,7 +135,7 @@ und die Wunde heilt, mit der es geschlagen wurde.
 > **Was bedeutet das?**
 > Vers 18: Ein wunderschöner Gedanke: Gott wartet selbst darauf, gnädig sein zu können. Er sehnt sich danach, seinem Volk zu helfen.
 > Vers 19: „Du wirst nicht mehr weinen.“ Gott hört jeden Hilfeschrei.
-> Vers 20–21: Ein tröstliches Bild: Wenn du unsicher bist, welchen Weg du gehen sollst, hörst du hinter dir eine Stimme: „Das ist der Weg, geh ihn!“ Gott begleitet dich wie ein guter Lehrer.
+> Vers 20–21: Ein tröstliches Bild: Wenn du unsicher bist, welchen Weg du gehen sollst, hörst du hinter dir eine Stimme: „Das ist der Weg. Geht auf ihm!“ Gott begleitet dich wie ein guter Lehrer.
 > Vers 23–26: Ein Bild für eine wunderbare Zukunft: Regen, reiche Ernte, Wasser überall, helles Licht. Und vor allem: Gott verbindet die Wunden seines Volkes und heilt sie.
 
 ---

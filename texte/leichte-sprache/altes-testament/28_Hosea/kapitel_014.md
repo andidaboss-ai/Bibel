@@ -52,7 +52,7 @@ Von mir kommt deine Frucht.“
 
 > **Was bedeutet das?**
 > Gottes Antwort ist wunderschön:
-> Vers 4: „Ich will ihre Untreue heilen. Ich will sie aus freien Stücken lieben.“ Gott liebt nicht, weil das Volk es verdient hätte, sondern freiwillig, aus reiner Gnade. Und er heilt die Untreue, so wie man eine Krankheit heilt.
+> Vers 4: „Ich will ihre Abtrünnigkeit heilen. Ich will sie aus freien Stücken lieben.“ Abtrünnigkeit heißt: Das Volk hat sich von Gott abgewendet. Es war ihm untreu. Gott liebt nicht, weil das Volk es verdient hätte, sondern freiwillig, aus reiner Gnade. Und er heilt die Untreue, so wie man eine Krankheit heilt.
 > Vers 5: „Ich will für Israel sein wie der Tau.“ In Kapitel 6,4 war die Liebe des Volkes „wie Tau, der schnell vergeht“. Jetzt ist Gott selbst der Tau, der jeden Morgen neu kommt und das Land erfrischt. Im trockenen Sommer Israels ist der Tau lebenswichtig.
 > Vers 5–7: Lauter Bilder von Leben und Schönheit: blühende Lilien, tiefe Wurzeln, ausgebreitete Zweige, Ölbaum, Duft, Korn, Weinstock.
 > Vers 8: Gott vergleicht sich selbst mit einem immergrünen Baum, der Frucht bringt. Das ist ein sehr seltenes Bild in der Bibel. Die Fruchtbarkeit, die Israel bei Baal gesucht hat, kommt in Wahrheit von Gott: „Von mir kommt deine Frucht.“
@@ -78,13 +78,13 @@ aber die Abtrünnigen kommen auf ihnen zu Fall.
 > **Was bedeutet das?**
 > **Ein Prophet, der Gottes Schmerz fühlt:** Hosea heiratete Gomer, die ihm untreu wurde. So erlebte er am eigenen Leib, was Gott fühlt, wenn sein Volk ihn verlässt (Kapitel 1–3).
 > **Kinder mit Botschaftsnamen:** „Kein Erbarmen“ und „Nicht mein Volk“, aber am Ende werden die Namen umgekehrt: „Erbarmen“ und „Mein Volk“ (1,10; 2,23).
-> **Gottes Werben:** „Ich will sie in die Wüste locken und ihr zu Herzen reden“ (2,14). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
-> **Die Anklage:** „Keine Wahrheit, keine Güte, keine Gotteserkenntnis im Land“ (4,1). Lügen, Gewalt, Götzendienst und falsches Vertrauen auf Großmächte.
+> **Gottes Werben:** „Ich will sie locken und sie in die Wüste führen und ihr zu Herzen reden“ (2,14). Gott will eine Beziehung der Liebe, nicht der Herrschaft.
+> **Die Anklage:** „Es gibt keine Wahrheit, keine Güte und keine Gotteserkenntnis im Land“ (4,1). Lügen, Gewalt, Götzendienst und falsches Vertrauen auf Großmächte.
 > **Barmherzigkeit statt Opfer:** „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer“ (6,6). Jesus zitierte diesen Satz zweimal.
-> **Wind und Sturm:** „Sie säen Wind und ernten Sturm“ (8,7).
+> **Wind und Sturm:** „Sie säen Wind, und sie werden Sturm ernten“ (8,7).
 > **Gottes Mutterherz:** „Ich lehrte Ephraim laufen … mit Bändern der Liebe … ich beugte mich zu ihm hinab“ (Kapitel 11).
 > **Liebe, die nicht aufgibt:** „Wie könnte ich dich preisgeben? … Denn ich bin Gott und nicht ein Mensch“ (11,8–9).
-> **Heilung:** „Ich will ihre Untreue heilen, ich will sie aus freien Stücken lieben. Ich will für Israel sein wie der Tau“ (14,4–5).
+> **Heilung:** „Ich will ihre Abtrünnigkeit heilen. Ich will sie aus freien Stücken lieben … Ich will für Israel sein wie der Tau“ (14,4–5).
 > **Schwere Bilder:** Die Bilder von der untreuen Frau stammen aus einer patriarchalen Zeit. Sie rechtfertigen niemals Gewalt in Beziehungen. Und die Grausamkeiten des Krieges, die das Buch beschreibt, sind Unrecht.
 > **Für heute:** Hosea zeigt, dass Gott nicht kalt und gleichgültig ist. Er liebt, er leidet, er ringt mit sich, und am Ende siegt seine Liebe. Es ist nie zu spät, umzukehren: „Nehmt Worte mit euch und kehrt um.“
 > **Wie geht es weiter?** Als Nächstes kommt der Prophet Joel. Eine schreckliche Heuschreckenplage wird für ihn zum Anlass, das Volk zur Umkehr zu rufen. Und er verheißt: „Ich will meinen Geist ausgießen über alles Fleisch.“

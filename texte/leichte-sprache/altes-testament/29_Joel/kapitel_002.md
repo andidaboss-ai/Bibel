@@ -165,8 +165,8 @@ Und mein Volk wird nie mehr zuschanden werden.
 
 > **Was bedeutet das?**
 > Jetzt kommt die große Freude. Das Land, die Tiere und die Menschen sollen sich nicht mehr fürchten. Gott schickt Regen zur richtigen Zeit: den Frühregen im Herbst (für die Aussaat) und den Spätregen im Frühling (für die Reife).
-> Vers 25: Ein wunderbares Versprechen: „Ich werde euch die Jahre erstatten, die die Heuschrecken gefressen haben.“ Gott kann verlorene Zeit wiedergutmachen. Viele Menschen haben in diesem Vers Trost gefunden, wenn sie das Gefühl hatten, Jahre ihres Lebens durch Krankheit, Krieg, Sucht oder Schuld verloren zu haben.
-> Vers 27: „Ich bin mitten in Israel.“ Das ist die größte Gabe: nicht nur Korn und Wein, sondern Gottes Nähe.
+> Vers 25: Ein wunderbares Versprechen: „Ich werde euch die Jahre erstatten, die der Nager gefressen hat.“ Der Nager ist eine Art Heuschrecke. Gott kann verlorene Zeit wiedergutmachen. Viele Menschen haben in diesem Vers Trost gefunden, wenn sie das Gefühl hatten, Jahre ihres Lebens durch Krankheit, Krieg, Sucht oder Schuld verloren zu haben.
+> Vers 27: „Ihr werdet erkennen, dass ich mitten in Israel bin.“ Das ist die größte Gabe: nicht nur Korn und Wein, sondern Gottes Nähe.
 
 ---
 
@@ -198,7 +198,7 @@ und unter den Übriggebliebenen solche, die der HERR ruft.“
 > – Söhne und Töchter (Männer und Frauen),
 > – Alte und Junge,
 > – sogar Knechte und Mägde (Sklaven und Sklavinnen, die ganz unten in der Gesellschaft standen).
-> Gottes Geist kennt keine Unterschiede nach Geschlecht, Alter oder sozialer Stellung. Schon Mose hatte sich das gewünscht: „Wenn doch das ganze Volk des HERRN Propheten wären!“ (4. Mose 11,29).
-> Am Pfingsttag, als der Heilige Geist auf die Jünger Jesu kam, zitiert Petrus genau diese Verse: „Das ist es, was durch den Propheten Joel gesagt worden ist“ (Apostelgeschichte 2,16–21).
+> Gottes Geist kennt keine Unterschiede nach Geschlecht, Alter oder sozialer Stellung. Schon Mose hatte diesen Wunsch: „Ich wünschte, das ganze Volk des HERRN wären Propheten!“ (4. Mose 11,29).
+> Am Pfingsttag, als der Heilige Geist auf die Jünger Jesu kam, zitiert Petrus genau diese Verse: „Hier geschieht, was durch den Propheten Joel gesagt worden ist“ (Apostelgeschichte 2,16–21).
 > Vers 32: „Jeder, der den Namen des HERRN anruft, wird gerettet werden.“ Auch Paulus zitiert diesen Satz (Römer 10,13). Rettung ist für jeden offen, der sich an Gott wendet.
 

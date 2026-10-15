@@ -76,7 +76,7 @@ Denn ein Feuer ist in meinem Zorn entbrannt,
 das wird gegen euch brennen.“
 
 > **Was bedeutet das?**
-> Vers 10: Jeremia ist am Ende. Er klagt: „Ach, Mutter, warum hast du mich geboren?“ Er ist ein Mann, mit dem alle streiten. Er hat niemandem Geld geliehen oder geschuldet (was oft zu Streit führte), und trotzdem verfluchen ihn alle. Er wird gehasst, nur weil er Gottes Wort sagt.
+> Vers 10: Jeremia ist am Ende. Er klagt: „Wehe mir, meine Mutter, dass du mich geboren hast!“ Er ist ein Mann, mit dem alle streiten. Er hat niemandem Geld geliehen oder geschuldet (was oft zu Streit führte), und trotzdem verfluchen ihn alle. Er wird gehasst, nur weil er Gottes Wort sagt.
 > Vers 11–12: Gott tröstet ihn: Ich stärke dich. Das „Eisen aus dem Norden“ ist Babylon. Niemand kann es aufhalten.
 > Vers 13–14: Diese Verse richten sich an das Volk: Die Schätze werden geraubt, das Volk wird ins Exil geführt.
 > Wer sich so fühlt wie Jeremia hier, so allein und verzweifelt, dass er sich wünscht, nie geboren zu sein, der soll mit jemandem reden. Die Telefonseelsorge ist Tag und Nacht erreichbar: 0800 111 0 111 oder 0800 111 0 222.
@@ -121,8 +121,8 @@ und ich werde dich aus der Faust der Gewalttätigen erlösen.“
 
 > **Was bedeutet das?**
 > Vers 15: Jeremia bittet Gott: Denk an mich! Ich leide doch für dich.
-> Vers 16 ist ein wunderschöner Vers: „Deine Worte fanden sich, und ich habe sie gegessen. Sie wurden mir zur Freude.“ Gottes Wort war für Jeremia wie Nahrung. Es hat ihn erfüllt und froh gemacht.
+> Vers 16 ist ein wunderschöner Vers: „Deine Worte fanden sich, und ich habe sie gegessen. Deine Worte wurden mir zur Freude.“ Gottes Wort war für Jeremia wie Nahrung. Es hat ihn erfüllt und froh gemacht.
 > Vers 17: Aber seine Berufung macht ihn auch einsam. Er kann nicht mit den anderen fröhlich feiern.
 > Vers 18: Jeremias bitterster Vorwurf: Gott, bist du wie ein Bach, der im Sommer austrocknet, wenn man ihn braucht? Früher hatte Gott sich „die Quelle lebendigen Wassers“ genannt (2,13). Jetzt fühlt Jeremia sich von dieser Quelle im Stich gelassen. Die Bibel erlaubt so ehrliche Worte.
 > Vers 19: Gott antwortet nicht mit Mitleid, sondern mit einer Einladung: Kehr um, Jeremia! Lass deine Verzweiflung los. Dann kannst du wieder mein Mund sein.
-> Vers 20–21: Gott wiederholt das Versprechen aus Jeremias Berufung (1,18–19): „Ich bin bei dir, um dich zu retten.“
+> Vers 20–21: Gott wiederholt das Versprechen aus Jeremias Berufung (1,18–19): „Ich bin bei dir, um dir zu helfen und dich zu retten.“

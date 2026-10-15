@@ -76,7 +76,7 @@ die sie sich selbst angetan haben,
 indem sie mich kränkten und dem Baal Räucherwerk verbrannten.
 
 > **Was bedeutet das?**
-> Vers 2–5: Gott erinnert an den Bund vom Sinai. Der Kern ist: „Hört auf meine Stimme. Ihr sollt mein Volk sein, und ich will euer Gott sein.“ Ägypten wird „eiserner Schmelzofen“ genannt, ein Bild für die harte Sklaverei dort.
+> Vers 2–5: Gott erinnert an den Bund vom Sinai. Der Kern ist: „Hört auf meine Stimme … So sollt ihr mein Volk sein, und ich will euer Gott sein.“ Ägypten wird „eiserner Schmelzofen“ genannt, ein Bild für die harte Sklaverei dort.
 > Vers 5: Jeremia antwortet mit „Amen“, das heißt: „So ist es, so soll es sein.“
 > Vielleicht steht dieses Kapitel im Zusammenhang mit der Reform des Königs Joschija. Damals wurde im Tempel ein Buch des Gesetzes gefunden, und der Bund wurde erneuert (2. Könige 22–23).
 > Vers 9–10: Aber das Volk hat den Bund gebrochen und sich wieder anderen Göttern zugewandt.

@@ -116,8 +116,8 @@ und vor dem Gott Israels Ehrfurcht haben.
 und die, die murren, werden Belehrung annehmen.“
 
 > **Was bedeutet das?**
-> Vers 15: Manche glauben, sie könnten ihre Pläne vor Gott verstecken: „Wer sieht uns schon?“
-> Vers 16: Jesajas Antwort mit einem Bild: Kann der Tontopf zum Töpfer sagen: „Du hast mich nicht gemacht“? Der Mensch ist Gottes Geschöpf und kann sich nicht über ihn stellen. Paulus nimmt dieses Bild auf (Römer 9,20–21).
+> Vers 15: Manche glauben, sie könnten ihre Pläne vor Gott verstecken. Sie sagen: „Wer sieht uns?“ und „Wer kennt uns?“
+> Vers 16: Jesajas Antwort mit einem Bild: Kann der Tontopf über den Töpfer sagen: „Er hat mich nicht gemacht“? Der Mensch ist Gottes Geschöpf und kann sich nicht über ihn stellen. Paulus nimmt dieses Bild auf (Römer 9,20–21).
 > Vers 17–19: Bald wird sich alles umkehren: Taube hören, Blinde sehen, Arme jubeln. Jesus zeigt solche Zeichen in seinem Wirken (Matthäus 11,5).
 > Vers 20–21: Die Gewalttätigen und die korrupten Richter, die Unschuldige mit Lügen verurteilen, haben ein Ende.
 > Vers 22–24: Gott wird sein Volk erneuern. Auch die Verwirrten und die Nörgler werden verstehen.

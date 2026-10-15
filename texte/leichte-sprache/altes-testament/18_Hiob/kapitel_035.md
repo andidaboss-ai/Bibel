@@ -50,5 +50,5 @@ und macht viele Worte ohne Wissen.“
 > **Was bedeutet das?**
 > Elihu sagt: Viele Menschen schreien in ihrer Not. Aber sie schreien nur wegen ihres Schmerzes, nicht nach Gott selbst. Sie fragen nicht: „Wo ist Gott, mein Schöpfer?“
 > „Der Lieder gibt in der Nacht“ ist ein wunderschönes Bild: Gott kann mitten in dunklen Zeiten Trost und sogar Freude schenken (vgl. Psalm 42,9; Apostelgeschichte 16,25).
-> Vers 14 kann man auch als Trost lesen: „Deine Sache liegt vor ihm, warte auf ihn!“ Gott hat Hiobs Fall nicht vergessen.
+> Vers 14 kann man auch als Trost lesen: „Die Sache liegt vor ihm, und du wartest auf ihn!“ Gott hat Hiobs Fall nicht vergessen.
 > Vers 15–16: Elihu meint, Gott habe Hiob noch nicht im Zorn gestraft. Deshalb rede Hiob so viel. Auch hier ist Elihu sehr streng. Viele Menschen in Not haben nicht nur „leer geschrien“, sondern wirklich nach Gott gesucht, so wie Hiob.

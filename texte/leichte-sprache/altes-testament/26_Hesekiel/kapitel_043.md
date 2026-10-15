@@ -68,7 +68,7 @@ soll sein ganzes Gebiet ringsum hochheilig sein.
 Siehe, das ist das Gesetz des Hauses.
 
 > **Was bedeutet das?**
-> Vers 7: „Hier will ich für immer wohnen.“ Der Tempel ist Gottes Thron und der Schemel seiner Füße auf der Erde.
+> Vers 7: Hier will Gott wohnen, „für immer mitten unter den Kindern Israel“. Der Tempel ist Gottes Thron und der Schemel seiner Füße auf der Erde.
 > Vers 7–8: Im alten Jerusalem lag der Königspalast direkt neben dem Tempel. Nur eine Wand trennte sie. Die Könige haben den Tempel mit ihren Götzen und vielleicht auch mit Gräbern oder Denkmälern für tote Könige entweiht. Im neuen Tempel soll das nicht mehr sein.
 > Vers 10–11: Wenn das Volk den schönen Plan des neuen Tempels sieht, sollen sie erkennen, wie weit sie sich von Gott entfernt hatten. Gottes Güte führt zur Umkehr (vgl. Römer 2,4).
 > Vers 12: Das „Gesetz des Hauses“ ist ganz einfach: Alles ist heilig.

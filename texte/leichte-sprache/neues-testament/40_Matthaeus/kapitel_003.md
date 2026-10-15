@@ -54,7 +54,7 @@ aber die Spreu wird er mit unauslöschlichem Feuer verbrennen.“
 
 > **Was bedeutet das?**
 > Vers 7: Pharisäer und Sadduzäer waren zwei wichtige religiöse Gruppen im damaligen Judentum. Die Pharisäer legten großen Wert darauf, das Gesetz im Alltag genau zu halten. Die Sadduzäer gehörten oft zur Priesterschaft am Tempel. Johannes kritisiert sie hart, wie die Propheten früher die Mächtigen kritisiert haben. Das ist ein Streit innerhalb des Judentums. Es ist keine Aussage über „die Juden“ oder über das Judentum insgesamt. Johannes, Jesus und die Jünger waren selbst Juden.
-> Vers 8–9: Umkehr muss sich im Leben zeigen, in guten Taten. Es reicht nicht, sich auf die richtige Abstammung („Abraham ist unser Vater“) zu verlassen. Das gilt genauso für Christen: Es reicht nicht, getauft zu sein oder zur Kirche zu gehören.
+> Vers 8–9: Umkehr muss sich im Leben zeigen, in guten Taten. Es reicht nicht, sich auf die richtige Abstammung („Wir haben Abraham zum Vater“) zu verlassen. Das gilt genauso für Christen: Es reicht nicht, getauft zu sein oder zur Kirche zu gehören.
 > Vers 10 und 12: Bilder aus der Landwirtschaft. Ein Baum ohne Früchte wird gefällt. Beim Dreschen wirft man das Getreide mit einer Schaufel in die Luft: Die schweren Körner fallen herunter, die leichte Spreu weht weg und wird verbrannt. So wird Gott einmal unterscheiden zwischen dem, was Bestand hat, und dem, was wertlos ist.
 > Vers 11: Johannes ist bescheiden: Er hält sich nicht einmal für wert, dem Kommenden die Sandalen zu tragen, eine Arbeit für Sklaven. Johannes tauft mit Wasser, der Kommende wird mit dem Heiligen Geist taufen.
 

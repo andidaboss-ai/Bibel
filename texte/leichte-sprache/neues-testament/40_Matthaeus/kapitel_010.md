@@ -170,7 +170,7 @@ Und wer sein Leben um meinetwillen verliert, wird es finden.
 > Vers 34: Ein schwieriges Wort. Das „Schwert“ ist hier ein Bild für Trennung und Entscheidung, nicht für Gewalt. Jesus hat Gewalt abgelehnt (vgl. 5,39; 26,52: „Steck dein Schwert weg!“). Gemeint ist: Die Botschaft Jesu verlangt eine Entscheidung, und diese Entscheidung kann Menschen trennen, sogar in Familien. Diesen Vers darf niemand benutzen, um Gewalt im Namen des Glaubens zu rechtfertigen.
 > Vers 35–36: Jesus zitiert Micha 7,6.
 > Vers 37: Jesus fordert nicht, die Familie zu vernachlässigen oder zu hassen. Er sagt: Gott soll an erster Stelle stehen. Wer Jesus folgt, liebt seine Familie oft sogar mehr und besser.
-> Vers 38: „Sein Kreuz auf sich nehmen“: Das Kreuz war die grausamste Hinrichtungsart der Römer. Jesus deutet seinen eigenen Tod an. Nachfolge kann Leid bedeuten. Das heißt aber nicht, dass man Unrecht, Gewalt oder Missbrauch geduldig ertragen soll. Wer Gewalt erlebt, darf und soll sich Hilfe holen.
+> Vers 38: „Wer nicht sein Kreuz auf sich nimmt …“: Das Kreuz war die grausamste Hinrichtungsart der Römer. Jesus deutet seinen eigenen Tod an. Nachfolge kann Leid bedeuten. Das heißt aber nicht, dass man Unrecht, Gewalt oder Missbrauch geduldig ertragen soll. Wer Gewalt erlebt, darf und soll sich Hilfe holen.
 > Vers 39: Ein Paradox: Wer sein Leben krampfhaft festhalten will, verliert es. Wer es für Gott und andere hingibt, gewinnt das wahre Leben.
 
 ---

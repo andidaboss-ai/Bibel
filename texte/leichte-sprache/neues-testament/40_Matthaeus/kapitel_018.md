@@ -210,7 +210,7 @@ von Herzen seine Fehler vergebt.“
 > Zehntausend Talente sind eine unvorstellbar große Summe. Ein Talent war so viel wie der Lohn von vielen Jahren Arbeit. Diese Schuld kann niemand zurückzahlen.
 > Hundert Denare sind dagegen der Lohn von etwa hundert Arbeitstagen. Das ist viel Geld, aber im Vergleich winzig.
 > Der König erlässt die riesige Schuld ganz. Aber der Knecht hat nichts daraus gelernt. Er ist hart zu seinem Mitknecht wegen einer kleinen Summe.
-> Die Botschaft: Gott hat uns unendlich viel vergeben. Wer das erlebt hat, soll auch anderen vergeben. Das erinnert an das Vaterunser: „Vergib uns unsere Schuld, wie auch wir vergeben“ (6,12.14–15).
+> Die Botschaft: Gott hat uns unendlich viel vergeben. Wer das erlebt hat, soll auch anderen vergeben. Das erinnert an das Vaterunser: „Vergib uns unsere Schulden, wie auch wir unseren Schuldnern vergeben“ (6,12.14–15).
 > Vers 25: Dass Menschen wegen Schulden mit ihrer Familie verkauft wurden, war damals in vielen Ländern möglich. Jesus erzählt das, weil seine Zuhörer es kannten. Er sagt damit nicht, dass das gut ist. Sklaverei ist Unrecht.
 > Vers 34–35 sind harte Worte. Sie zeigen, wie ernst Gott es meint. Es ist ein Bild aus dem Gleichnis, keine genaue Beschreibung, was Gott tut. Gott ist gnädig, aber Gnade soll weitergegeben werden.
 > „Von Herzen“: Vergebung soll echt sein. Wer schwer verletzt wurde, braucht oft lange Zeit dafür. Gott weiß das.

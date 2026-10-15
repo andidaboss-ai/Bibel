@@ -87,7 +87,7 @@ Sie sind ganz hinweggerafft von Schrecken.
 so verachtest du, Herr, wenn du aufwachst, ihr Trugbild.
 
 > **Was bedeutet das?**
-> Vers 17 ist der Wendepunkt des ganzen Psalms: „bis ich ins Heiligtum Gottes ging“. In der Nähe Gottes sieht der Beter die Dinge anders.
+> Vers 17 ist der Wendepunkt des ganzen Psalms: „bis ich in das Heiligtum Gottes ging“. In der Nähe Gottes sieht der Beter die Dinge anders.
 > Er erkennt: Der Erfolg der Gottlosen ist nicht dauerhaft. Sie stehen auf rutschigem Boden. Ihr Glück ist wie ein Traum, der beim Aufwachen verschwindet.
 > Manchmal versteht man das Leben nicht durch Nachdenken allein, sondern erst in der Begegnung mit Gott.
 
@@ -125,4 +125,4 @@ um alle deine Werke zu erzählen.
 > Vers 23 ist eines der schönsten Worte der Bibel: „Dennoch bin ich immer bei dir.“ Trotz aller Zweifel, trotz der Verbitterung: Gott hat mich die ganze Zeit an der Hand gehalten.
 > Vers 24: „Und mich danach in Herrlichkeit aufnehmen“: Hier leuchtet die Hoffnung auf ein Leben bei Gott nach dem Tod auf.
 > Vers 25–26: Das ist die Antwort auf die Frage des Psalms. Die Gottlosen haben Reichtum. Ich habe Gott. Und das ist mehr wert als alles andere. Selbst wenn mein Körper und mein Herz vergehen, bleibt Gott.
-> Vers 28: „Gott nahe sein ist mein Glück.“ So übersetzen viele deutsche Bibeln. Das ist die Erkenntnis, die der Beter am Ende gewonnen hat.
+> Vers 28: „Für mich aber ist es gut, Gott nahe zu sein.“ Das ist die Erkenntnis, die der Beter am Ende gewonnen hat.

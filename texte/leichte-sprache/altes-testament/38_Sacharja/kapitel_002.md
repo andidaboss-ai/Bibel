@@ -48,9 +48,9 @@ und sie werden denen zur Beute werden, die ihnen gedient haben.
 Und ihr werdet erkennen, dass der HERR der Heere mich gesandt hat.
 
 > **Was bedeutet das?**
-> Vers 6–7: Ein Aufruf an die Juden, die noch in Babylon („im Land des Nordens“) lebten: Kommt nach Hause! Nicht alle waren mit der ersten Gruppe zurückgekehrt. Viele hatten sich in Babylon ein neues Leben aufgebaut.
+> Vers 6–7: Ein Aufruf an die Juden, die noch in Babylon (dem „Land des Nordens“) lebten: Kommt nach Hause! Nicht alle waren mit der ersten Gruppe zurückgekehrt. Viele hatten sich in Babylon ein neues Leben aufgebaut.
 > Babylon lag eigentlich im Osten. Aber die Straße von dort kam von Norden nach Israel, darum heißt es „Land des Nordens“.
-> Vers 8: Ein berühmtes Bild: „Wer euch antastet, tastet seinen Augapfel an.“ Der Augapfel ist das Empfindlichste am Körper. Man schützt ihn instinktiv. So wertvoll und so geschützt ist Gottes Volk für ihn (vgl. 5. Mose 32,10; Psalm 17,8).
+> Vers 8: Ein berühmtes Bild: „Wer euch antastet, der tastet seinen Augapfel an.“ Der Augapfel ist das Empfindlichste am Körper. Man schützt ihn instinktiv. So wertvoll und so geschützt ist Gottes Volk für ihn (vgl. 5. Mose 32,10; Psalm 17,8).
 > „Seinen Augapfel“: Im Hebräischen ist nicht ganz klar, wessen Auge gemeint ist. Die übliche Deutung: Gottes eigenes Auge.
 > Wer spricht hier („er hat mich gesandt“)? Vielleicht der Prophet, vielleicht der Engel des HERRN. Das ist unter Auslegern umstritten.
 

@@ -233,6 +233,6 @@ dass ihm sogar der Wind und der See gehorchen?“
 > Jesus schläft ruhig im Sturm. Er vertraut ganz auf Gott.
 > Vers 38: Die Jünger fragen: „Ist es dir egal?“ Diese Frage stellen viele Menschen in Not auch Gott. Man darf sie stellen.
 > Vers 39: Jesus spricht zum Sturm wie zu einem lebendigen Wesen. Im Alten Testament ist es Gott, der das tobende Meer beruhigt (Psalm 107,28–30).
-> Vers 40: Viele alte Handschriften haben hier: „Habt ihr noch keinen Glauben?“ Das WEB hat: „Wie kommt es, dass ihr keinen Glauben habt?“
+> Vers 40: Viele alte Handschriften haben hier eine etwas andere Frage. Dann fragt Jesus, ob sie immer noch keinen Glauben haben. Das WEB hat: „Wie kommt es, dass ihr keinen Glauben habt?“
 > Vers 41: Die Jünger fragen: Wer ist dieser? Das ist die große Frage im Markusevangelium.
 > Für heute: Wer in einem „Sturm“ des Lebens steckt, darf zu Jesus rufen. Angst zu haben ist kein Zeichen von schlechtem Glauben. Und man darf sich auch Hilfe bei Menschen holen.

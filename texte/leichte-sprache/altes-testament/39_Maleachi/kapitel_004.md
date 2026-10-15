@@ -26,7 +26,7 @@ spricht der HERR der Heere.
 > In deutschen Bibeln stehen diese Verse meistens als Maleachi 3,19–24.
 > Vers 1: Der Tag des Gerichts ist wie ein glühender Ofen. Alles Hochmütige und Böse verbrennt wie Stroh.
 > Vers 2: Aber für die, die Gott ehren, ist derselbe Tag ein Sonnenaufgang! „Die Sonne der Gerechtigkeit“ geht auf. Ihre Strahlen sind wie Flügel, die Heilung bringen. Und die Menschen springen vor Freude wie junge Kälber, die nach dem Winter endlich aus dem Stall auf die Weide dürfen.
-> Christen haben die „Sonne der Gerechtigkeit“ auf Jesus bezogen. In vielen Weihnachtsliedern taucht dieses Bild auf. Zacharias, der Vater von Johannes dem Täufer, spricht vom „aufgehenden Licht aus der Höhe“ (Lukas 1,78).
+> Christen haben die „Sonne der Gerechtigkeit“ auf Jesus bezogen. In vielen Weihnachtsliedern taucht dieses Bild auf. Zacharias, der Vater von Johannes dem Täufer, spricht von einem besonderen Licht. Er nennt es: „das aufgehende Licht aus der Höhe“ (Lukas 1,78).
 > Vers 3: Die Gerechten werden über das Böse siegen. Das ist ein Bild für den Sieg des Guten. Es ist kein Aufruf an Menschen zur Gewalt; das Gericht ist Gottes Sache.
 
 ---
@@ -75,7 +75,7 @@ und das Land mit dem Bann schlage.“
 
 > **Was bedeutet das?**
 > **Am Anfang:** Gott erschafft die Welt und den Menschen als sein Ebenbild, Mann und Frau (1. Mose 1–2). Doch die Menschen wenden sich von Gott ab, und Gewalt und Leid kommen in die Welt.
-> **Abraham und die Väter:** Gott ruft Abraham und verspricht: „In dir sollen gesegnet werden alle Geschlechter der Erde“ (1. Mose 12,3). Er führt Isaak, Jakob und Josef.
+> **Abraham und die Väter:** Gott ruft Abraham und verspricht: „Durch dich sollen alle Familien der Erde gesegnet werden“ (1. Mose 12,3). Er führt Isaak, Jakob und Josef.
 > **Befreiung:** Gott befreit sein Volk aus der Sklaverei in Ägypten und gibt am Sinai die Zehn Gebote: Regeln für ein Leben in Freiheit mit Gott und miteinander.
 > **Im verheißenen Land:** Unter Josua, den Richtern und den Königen Saul, David und Salomo lebt Israel im Land. Es gibt gute und schlechte Zeiten, Treue und Untreue.
 > **Die Propheten:** Immer wieder schickt Gott Propheten, die zur Umkehr rufen, für die Armen eintreten und Hoffnung schenken: Elia, Jesaja, Jeremia, Hesekiel, Amos, Hosea, Micha und viele andere.

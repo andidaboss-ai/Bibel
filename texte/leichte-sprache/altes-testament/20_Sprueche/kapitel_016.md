@@ -25,7 +25,7 @@ als großes Einkommen mit Unrecht.
 aber der HERR lenkt seine Schritte.
 
 > **Was bedeutet das?**
-> Vers 1 und 9 sind die Grundlage des Sprichworts „Der Mensch denkt, Gott lenkt“. Wir dürfen planen. Aber am Ende hat Gott das letzte Wort.
+> Vers 1 und 9 sind die Grundlage des Sprichworts: Der Mensch denkt, Gott lenkt. Wir dürfen planen. Aber am Ende hat Gott das letzte Wort.
 > Vers 2: Wir halten uns oft selbst für gut. Gott schaut tiefer, auf unsere wahren Beweggründe.
 > Vers 3: „Befiehl“ heißt: Leg es in Gottes Hände, vertrau es ihm an.
 > Vers 4: Dieser Vers ist schwierig. Er heißt nicht, dass Gott Menschen böse gemacht hat. Er sagt: Nichts liegt außerhalb von Gottes Plan. Auch das Böse wird am Ende seinem Gericht nicht entkommen.
@@ -78,7 +78,7 @@ und fügt seinen Lippen Lehre hinzu.
 süß für die Seele und Gesundheit für die Knochen.
 
 > **Was bedeutet das?**
-> Vers 18: Daher kommt das deutsche Sprichwort „Hochmut kommt vor dem Fall“.
+> Vers 18: „Hochmut kommt vor dem Zusammenbruch und ein stolzer Geist vor dem Fall.“ Daher kommt das deutsche Sprichwort: Hochmut kommt vor dem Fall.
 > Vers 19: Lieber bescheiden bei den Armen als reich bei den Angebern.
 > Vers 21: Wer freundlich lehrt, wird gern gehört.
 > Vers 24: Freundliche Worte sind süß wie Honig. Sie tun der Seele gut und sogar dem Körper.

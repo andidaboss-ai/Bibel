@@ -229,7 +229,7 @@ bis über Babylon hinaus.‘
 > Vers 35: Stephanus zeigt ein Muster: Mose wurde zuerst abgelehnt, aber Gott hat ihn als Retter gesandt. Für Stephanus ist das ein Hinweis auf Jesus.
 > Vers 37 zitiert 5. Mose 18,15.
 > Vers 40–41 erinnert an das goldene Kalb (2. Mose 32).
-> Vers 42–43 zitiert Amos 5,25–27 nach der griechischen Übersetzung. Moloch und Rephan waren Namen fremder Götter. „Das Heer des Himmels“ meint die Sterne, die man als Götter verehrte.
+> Vers 42–43 zitiert Amos 5,25–27 nach der griechischen Übersetzung. Moloch und Rephan waren Namen fremder Götter. Das „Heer des Himmels“ (Vers 42) meint die Sterne, die man als Götter verehrte.
 > Wichtig: Die Propheten Israels haben selbst ihr Volk zur Umkehr gerufen. Stephanus redet in dieser Tradition, als Teil des Volkes.
 
 ---

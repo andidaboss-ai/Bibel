@@ -61,7 +61,7 @@ Darum zogen sie auf einem anderen Weg in ihr Land zurück.
 
 > **Was bedeutet das?**
 > Vers 10: Die Freude der Weisen ist riesig, „sehr große Freude“.
-> Vers 11: Auffällig: Sie kommen in ein „Haus“, nicht in einen Stall. Die Weisen kamen wahrscheinlich einige Zeit nach der Geburt, vielleicht Monate später (vgl. Vers 16: „zwei Jahre und darunter“). Die Krippe erwähnt nur Lukas (Lukas 2,7).
+> Vers 11: Auffällig: Sie kommen in ein „Haus“, nicht in einen Stall. Die Weisen kamen wahrscheinlich einige Zeit nach der Geburt, vielleicht Monate später (vgl. Vers 16: „von zwei Jahren und darunter“). Die Krippe erwähnt nur Lukas (Lukas 2,7).
 > Die drei Geschenke wurden schon früh so gedeutet:
 > Gold für einen König.
 > Weihrauch für Gott, denn Weihrauch wurde im Gottesdienst verbrannt.

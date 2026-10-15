@@ -93,7 +93,7 @@ und gab ihnen Gemüse.
 > **Was bedeutet das?**
 > Daniel will nicht vom Essen des Königs essen. Warum? Wahrscheinlich, weil das Fleisch nicht nach den jüdischen Speisegeboten zubereitet war oder vorher Götzen geopfert wurde. Daniel wollte auch in der Fremde Gott treu bleiben.
 > Bemerkenswert ist, wie Daniel das macht: Er rebelliert nicht laut. Er bittet höflich und schlägt einen fairen Test vor. Er sucht eine Lösung, die auch für den Aufseher gut ist.
-> Vers 9: „Gott ließ Daniel Gunst finden.“ Gott wirkt im Hintergrund.
+> Vers 9: „Gott ließ Daniel Gunst und Erbarmen finden.“ Gott wirkt im Hintergrund.
 > Vers 15: Nach zehn Tagen mit Gemüse und Wasser sehen die vier gesünder aus als die anderen. Das ist kein allgemeines Ernährungsgesetz, sondern zeigt: Gott segnet die Treue.
 > Für heute: Auch wir können in einer Umgebung leben, die andere Werte hat. Daniel zeigt, wie man treu zu seinen Überzeugungen steht, ohne andere herabzusetzen.
 

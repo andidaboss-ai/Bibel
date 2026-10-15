@@ -45,7 +45,7 @@ im oberen Vorhof, am Eingang des Neuen Tores des Hauses des HERRN,
 vor den Ohren des ganzen Volkes.
 
 > **Was bedeutet das?**
-> Vers 2–3: Jeremia soll alle Botschaften der letzten 23 Jahre aufschreiben. Der Grund: „Vielleicht hören sie und kehren um, damit ich vergeben kann.“ Gott will nicht strafen, er will vergeben.
+> Vers 2–3: Jeremia soll alle Botschaften der letzten 23 Jahre aufschreiben. Der Grund: „Vielleicht hört das Haus Juda … sodass sie umkehren … damit ich ihre Schuld und ihre Sünde vergebe.“ Gott will nicht strafen, er will vergeben.
 > Vers 4: Jeremia diktiert, Baruch schreibt. So ist wahrscheinlich ein Teil des Buches Jeremia entstanden.
 > Vers 5: Jeremia darf nicht mehr in den Tempel, wahrscheinlich nach der Tempelrede (Kapitel 7 und 26).
 > Vers 6 und 9: Baruch liest die Rolle an einem Fastentag vor, wenn viele Menschen im Tempel sind. Vielleicht war das Fasten wegen der Bedrohung durch Babylon ausgerufen worden.

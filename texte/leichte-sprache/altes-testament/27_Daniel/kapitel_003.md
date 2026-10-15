@@ -100,8 +100,8 @@ dass wir deinen Göttern nicht dienen
 und das goldene Standbild, das du aufgestellt hast, nicht anbeten werden.“
 
 > **Was bedeutet das?**
-> Vers 15: Der König gibt ihnen eine zweite Chance, und er fordert Gott heraus: „Wer ist der Gott, der euch retten könnte?“
-> Vers 17–18: Eine der mutigsten Antworten der Bibel: „Unser Gott kann uns retten. Und auch wenn er es nicht tut, beten wir dein Bild trotzdem nicht an.“
+> Vers 15: Der König gibt ihnen eine zweite Chance, und er fordert Gott heraus: „Wer ist der Gott, der euch aus meinen Händen retten könnte?“
+> Vers 17–18: Eine der mutigsten Antworten der Bibel: „Unser Gott, dem wir dienen, kann uns aus dem brennenden Feuerofen retten … Und wenn nicht, so sollst du wissen, o König, dass wir deinen Göttern nicht dienen und das goldene Standbild, das du aufgestellt hast, nicht anbeten werden.“
 > Das ist echter Glaube: Er hängt nicht davon ab, ob Gott das Problem löst. Die drei vertrauen Gott, auch wenn sie nicht wissen, wie es ausgeht. Sie sind bereit, für ihre Überzeugung zu sterben.
 > Viele Menschen haben aus diesem „Und wenn nicht …“ Kraft geschöpft, zum Beispiel im Widerstand gegen Unrecht.
 
@@ -159,8 +159,8 @@ Nicht einmal der Geruch von Feuer war an ihnen.
 
 > **Was bedeutet das?**
 > Der König sieht plötzlich vier Männer im Feuer, frei und unversehrt. Die Fesseln sind verbrannt, aber nicht die Männer.
-> Vers 25: Wer ist der vierte? Der König sagt: „wie ein Sohn der Götter“. Später nennt er ihn einen „Engel“ (Vers 28). Viele Christen haben in dem vierten Mann eine Erscheinung Christi gesehen. Im Judentum wird er meist als Engel Gottes verstanden.
-> Die wichtigste Botschaft: Gott war mit ihnen im Feuer. Er hat sie nicht vor dem Feuer bewahrt, aber im Feuer. Vgl. Jesaja 43,2: „Wenn du durchs Feuer gehst, sollst du nicht brennen.“
+> Vers 25: Wer ist der vierte? Der König sagt: „Das Aussehen des vierten ist wie das eines Sohnes der Götter.“ Später nennt er ihn einen „Engel“ (Vers 28). Viele Christen haben in dem vierten Mann eine Erscheinung Christi gesehen. Im Judentum wird er meist als Engel Gottes verstanden.
+> Die wichtigste Botschaft: Gott war mit ihnen im Feuer. Er hat sie nicht vor dem Feuer bewahrt, aber im Feuer. Vgl. Jesaja 43,2: „Wenn du durch das Feuer gehst, wirst du nicht verbrannt.“
 > Vers 27: Nicht einmal Brandgeruch! Die Rettung ist vollständig.
 
 ---

@@ -163,8 +163,8 @@ alle Tage seines Lebens.
 > **Ehrlichkeit statt falscher Beruhigung:** Jeremia stellte sich gegen falsche Propheten, die „Friede, Friede!“ riefen, wo kein Friede war (6,14). Er sagte die unbequeme Wahrheit.
 > **Echter Gottesdienst:** Ein Tempel allein schützt nicht (Kapitel 7). Gott will Recht und Gerechtigkeit, Schutz für Fremde, Waisen und Witwen (22,3).
 > **Der Töpfer:** Gott kann aus Missratenem etwas Neues formen (Kapitel 18).
-> **Sucht den Frieden der Stadt:** Der Brief an die Verbannten (Kapitel 29): Lebt, baut, betet für die Stadt, in der ihr seid. „Ich habe Gedanken des Friedens über euch, um euch Hoffnung und Zukunft zu geben“ (29,11).
-> **Der neue Bund:** „Ich werde mein Gesetz in ihr Herz schreiben“ (31,33). Juden sehen darin Gottes Treue zu Israel, Christen beziehen es auch auf den neuen Bund in Jesus. Gottes Treue zu Israel ist so sicher wie Sonne und Mond (31,35–37).
+> **Sucht den Frieden der Stadt:** Der Brief an die Verbannten (Kapitel 29): Lebt, baut, betet für die Stadt, in der ihr seid. Gott hat über euch „Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben“ (29,11).
+> **Der neue Bund:** „Ich werde mein Gesetz in ihr Inneres legen und es in ihr Herz schreiben“ (31,33). Juden sehen darin Gottes Treue zu Israel, Christen beziehen es auch auf den neuen Bund in Jesus. Gottes Treue zu Israel ist so sicher wie Sonne und Mond (31,35–37).
 > **Hoffnung mitten im Untergang:** Jeremia kaufte einen Acker, als alles verloren schien (Kapitel 32). Er glaubte an die Zukunft.
 > **Treue Helfer:** Baruch, der Schreiber, Ebed-Melech aus Kusch und die Familie Schafan standen Jeremia bei.
 > **Wie geht es weiter?** Als Nächstes kommen die Klagelieder. Sie trauern um das zerstörte Jerusalem. Die Tradition schreibt sie Jeremia zu.

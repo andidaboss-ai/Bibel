@@ -64,7 +64,7 @@ und ich werde nicht euer Gott sein.“
 > Die drei Kinder bekommen Namen, die eine Botschaft sind, wie lebende Plakate:
 > – Jesreel („Gott sät“): Im Tal Jesreel hatte der König Jehu ein Blutbad angerichtet, als er an die Macht kam (2. Könige 9–10). Gott hat diese Gewalt nicht vergessen.
 > – Lo-Ruhama („Kein Erbarmen“): Gott wird sich nicht mehr erbarmen.
-> – Lo-Ammi („Nicht mein Volk“): Die Beziehung zwischen Gott und Israel ist zerbrochen. Gott hatte zu Mose gesagt: „Ich werde sein“ (2. Mose 3,14). Jetzt heißt es: „Ich werde nicht euer Gott sein.“ Ein erschütternder Satz.
+> – Lo-Ammi („Nicht mein Volk“): Die Beziehung zwischen Gott und Israel ist zerbrochen. Gott hatte Mose seinen Namen gesagt: „Ich bin“ (2. Mose 3,14). Jetzt heißt es: „Ich werde nicht euer Gott sein“ (Hosea 1,9). Ein erschütternder Satz.
 > Man stelle sich vor, was es für Kinder bedeutet, solche Namen zu tragen. Aber die Geschichte geht weiter: In Kapitel 2,1 und 2,23 werden die Namen umgekehrt!
 > Vers 7: Juda wird gerettet werden, aber nicht durch Waffen, sondern durch Gott selbst.
 

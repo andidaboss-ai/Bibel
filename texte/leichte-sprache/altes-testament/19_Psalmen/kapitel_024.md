@@ -34,7 +34,7 @@ Sela.
 > **Was bedeutet das?**
 > Dieselbe Frage wie in Psalm 15: Wer darf in Gottes Nähe kommen?
 > Die Antwort: „Reine Hände“ (gute Taten) und „ein lauteres Herz“ (gute Absichten). Das Äußere und das Innere gehören zusammen.
-> Vers 6: Im Hebräischen ist das Ende schwer zu verstehen. Manche übersetzen: „die dein Angesicht suchen, Gott Jakobs“.
+> Vers 6: Im Hebräischen ist das Ende schwer zu verstehen. Manche Bibeln ergänzen hier das Wort „Gott“. Dann heißt es: Sie suchen dein Angesicht, du Gott Jakobs.
 > Jesus sagt: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen“ (Matthäus 5,8).
 
 ---

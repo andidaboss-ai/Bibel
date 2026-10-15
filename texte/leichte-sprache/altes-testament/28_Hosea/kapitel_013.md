@@ -49,7 +49,7 @@ Die wilden Tiere werden sie zerreißen.
 > **Was bedeutet das?**
 > Vers 4: „Es gibt keinen Retter außer mir.“ Das hebräische Wort für „Retter“ ist mit dem Namen Hosea (und Jesus) verwandt.
 > Vers 5–6: Ein Muster, das die Bibel immer wieder beschreibt: In der Not, in der Wüste, war das Volk nah bei Gott. Als es satt und reich wurde, vergaß es Gott (vgl. 5. Mose 8,11–14). Wohlstand kann gefährlich sein, wenn man den Geber vergisst.
-> Vers 7–8: Gott vergleicht sich mit gefährlichen Tieren: Löwe, Leopard, Bärin. Besonders eindrücklich ist die „Bärin, der man die Jungen geraubt hat“, ein Bild für verletzte, zornige Liebe. Gottes Zorn kommt aus seiner verletzten Liebe.
+> Vers 7–8: Gott vergleicht sich mit gefährlichen Tieren: Löwe, Leopard, Bärin. Besonders eindrücklich ist die „Bärin, der man ihre Jungen geraubt hat“, ein Bild für verletzte, zornige Liebe. Gottes Zorn kommt aus seiner verletzten Liebe.
 
 ---
 
@@ -99,7 +99,7 @@ und ihre Schwangeren werden aufgeschlitzt werden.“
 > Vers 14: Ein rätselhafter und berühmter Vers. Man kann ihn auf zwei Arten verstehen:
 > – Als Frage der Drohung: „Soll ich sie etwa vom Tod loskaufen? Nein! Tod, komm mit deinen Plagen!“ Darauf weist der letzte Satz hin: „Mitleid bleibt verborgen.“
 > – Als Verheißung, wie das WEB übersetzt: „Ich werde sie vom Tod erlösen! Tod, wo sind deine Plagen?“
-> Der Apostel Paulus nimmt diesen Vers auf und jubelt über die Auferstehung Jesu: „Tod, wo ist dein Sieg? Tod, wo ist dein Stachel?“ (1. Korinther 15,55). Für Christen ist das eine Zusage: Der Tod hat nicht das letzte Wort.
+> Der Apostel Paulus nimmt diesen Vers auf und jubelt über die Auferstehung Jesu: „Tod, wo ist dein Stachel? Totenreich, wo ist dein Sieg?“ (1. Korinther 15,55). Für Christen ist das eine Zusage: Der Tod hat nicht das letzte Wort.
 > Vers 15: Der „Ostwind“ ist ein heißer Wüstenwind und hier ein Bild für Assyrien.
 > Vers 16: Dieser Vers beschreibt die furchtbare Grausamkeit des assyrischen Krieges, die 722 vor Christus über Samaria kam. Solche Gräueltaten an Kindern und schwangeren Frauen sind schreckliche Kriegsverbrechen. Die Bibel verschweigt sie nicht, aber sie heißt sie nicht gut. Gewalt gegen Kinder und Schwangere ist immer Unrecht.
 > Hinweis zur Zählung: In deutschen Bibeln ist Vers 16 der erste Vers von Kapitel 14 (14,1). Darum sind die Versnummern in Kapitel 14 im WEB um eins niedriger.

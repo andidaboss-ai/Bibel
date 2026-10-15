@@ -51,7 +51,7 @@ und glaubten an Jesus.
 > Dreihundert Denare waren ungefähr der Lohn für ein ganzes Jahr Arbeit.
 > Maria verschwendet aus Liebe. Sie ehrt Jesus vor seinem Tod. Tote wurden mit Öl gesalbt. Maria tut es schon im Voraus.
 > Vers 6: Johannes sagt, Judas war ein Dieb. Wichtig: Der Name Judas wurde später missbraucht, um alle Juden als geldgierig und Verräter zu beschimpfen. Das ist ein übles antijüdisches Vorurteil. Alle Jünger, auch Maria, Marta und Lazarus, waren Juden.
-> Vers 8: „Arme habt ihr immer bei euch“ erinnert an 5. Mose 15,11. Dort heißt es weiter: „Darum öffne deine Hand für deinen Bruder, den Armen.“ Jesus sagt also nicht, dass man Arme vergessen darf. Er sagt: Jetzt ist eine besondere Stunde.
+> Vers 8: „Arme habt ihr immer bei euch“ erinnert an 5. Mose 15,11. Dort heißt es weiter: „Du sollst deine Hand weit öffnen für deinen Bruder, für den Bedürftigen und für den Armen in deinem Land.“ Jesus sagt also nicht, dass man Arme vergessen darf. Er sagt: Jetzt ist eine besondere Stunde.
 > Vers 9 und 11: Viele Juden kommen zum Glauben an Jesus.
 > Für heute: Liebe darf auch großzügig und verschwenderisch sein.
 

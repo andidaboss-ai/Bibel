@@ -36,7 +36,7 @@ und alle Heiligen mit dir.
 > Vers 2: Zuerst geschieht Schreckliches: Jerusalem wird erobert, geplündert, und Frauen werden vergewaltigt. Die Bibel verschweigt nicht, was im Krieg geschieht, besonders was Frauen angetan wird. Das ist schweres Unrecht, und die Schuld liegt allein bei den Tätern. Wer sexuelle Gewalt erlebt hat, findet Hilfe beim Hilfetelefon „Gewalt gegen Frauen“: 116 016, und beim Hilfetelefon Sexueller Missbrauch: 0800 22 55 530.
 > Vers 3: Aber dann greift Gott selbst ein und kämpft gegen die Angreifer.
 > Vers 4: Gott steht auf dem Ölberg, östlich von Jerusalem. Der Berg spaltet sich, und ein großes Tal entsteht, ein Fluchtweg für die Bewohner.
-> Der Ölberg spielt auch im Neuen Testament eine wichtige Rolle: Dort betete Jesus in der Nacht vor seinem Tod (im Garten Gethsemane am Fuß des Berges), und von dort fuhr er in den Himmel auf (Apostelgeschichte 1,9–12). Die Engel sagen dort: „Er wird so wiederkommen.“
+> Der Ölberg spielt auch im Neuen Testament eine wichtige Rolle: Dort betete Jesus in der Nacht vor seinem Tod (im Garten Gethsemane am Fuß des Berges), und von dort fuhr er in den Himmel auf (Apostelgeschichte 1,9–12). Die Engel sagen dort: „Dieser Jesus … wird auf dieselbe Weise wiederkommen.“
 > Vers 5: Das Erdbeben zur Zeit König Usijas war so stark, dass man sich noch Jahrhunderte später daran erinnerte (vgl. Amos 1,1). Wo Azel lag, wissen wir nicht.
 > „Alle Heiligen“ sind wahrscheinlich die Engel, die mit Gott kommen.
 
@@ -73,7 +73,7 @@ sondern Jerusalem wird sicher wohnen.
 > **Was bedeutet das?**
 > Vers 6–7: Ein ganz neuer Tag, anders als alle Tage zuvor. Es gibt nicht mehr den Wechsel von Tag und Nacht. „Zur Abendzeit wird es Licht sein“: Wenn man erwartet, dass es dunkel wird, wird es hell. In der Offenbarung heißt es über das neue Jerusalem: „Es wird keine Nacht mehr geben“ (Offenbarung 22,5).
 > Vers 8: Aus Jerusalem fließt lebendiges, frisches Wasser, nach Osten zum Toten Meer und nach Westen zum Mittelmeer, das ganze Jahr über. Das erinnert an Hesekiels Tempelquelle (Hesekiel 47) und an den Strom des Lebens in Offenbarung 22,1. Jesus spricht vom „lebendigen Wasser“, das er gibt (Johannes 4,10–14; 7,37–38).
-> Vers 9: Der Höhepunkt des Buches: „Der HERR wird König sein über die ganze Erde. An jenem Tag wird der HERR einer sein und sein Name einer.“ Das erinnert an das jüdische Grundbekenntnis, das „Höre Israel“: „Der HERR, unser Gott, der HERR ist einer“ (5. Mose 6,4). Am Ende werden alle Menschen den einen Gott erkennen. Im jüdischen Gebet „Alenu“ wird dieser Vers bis heute täglich gebetet.
+> Vers 9: Der Höhepunkt des Buches: „Der HERR wird König sein über die ganze Erde. An jenem Tag wird der HERR einer sein und sein Name einer.“ Das erinnert an das jüdische Grundbekenntnis, das „Höre Israel“: „Der HERR ist unser Gott. Der HERR ist einer“ (5. Mose 6,4). Am Ende werden alle Menschen den einen Gott erkennen. Im jüdischen Gebet „Alenu“ wird dieser Vers bis heute täglich gebetet.
 > Vers 10–11: Das Land wird eben, nur Jerusalem ist erhöht. Die Stadt wird in ihren alten Grenzen wieder bewohnt. Und es gibt „keinen Bann mehr“, keinen Fluch und keine Zerstörung mehr. Jerusalem wird endlich sicher wohnen.
 
 ---
@@ -146,7 +146,7 @@ An jenem Tag wird kein Kanaaniter mehr im Haus des HERRN der Heere sein.
 ## Rückblick: Was haben wir im Buch Sacharja gelesen?
 
 > **Was bedeutet das?**
-> **Kehrt um zu mir:** „Kehrt um zu mir, dann kehre ich mich zu euch um“ (1,3).
+> **Kehrt um zu mir:** „Kehrt um zu mir … dann werde ich mich zu euch umkehren“ (1,3).
 > **Acht Nachtgesichte:** Reiter, Hörner, die Messschnur, Josua in neuen Kleidern, der goldene Leuchter, die fliegende Schriftrolle, das Fass und die vier Wagen. Alle zeigen: Gott ist wieder bei seinem Volk, vergibt Schuld und baut Jerusalem neu auf.
 > **Durch meinen Geist:** „Nicht durch Heer und nicht durch Kraft, sondern durch meinen Geist“ (4,6). „Wer verachtet den Tag der kleinen Dinge?“ (4,10).
 > **Was Gott will:** „Unterdrückt nicht die Witwe und die Waise, den Fremden und den Armen“ (7,10).

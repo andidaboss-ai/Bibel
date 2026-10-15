@@ -111,7 +111,7 @@ für alle kommenden Generationen.
 
 > **Was bedeutet das?**
 > Vers 24–27: Das Volk weigerte sich, ins verheißene Land zu ziehen, weil es Angst hatte (4. Mose 13–14). Darum musste es 40 Jahre in der Wüste bleiben.
-> Vers 28: Bei Baal-Peor beteten Israeliten einen fremden Gott an (4. Mose 25). „Opfer für die Toten“: Opfer für tote Götzen oder bei Totenkulten.
+> Vers 28: Die Israeliten „aßen die Opfer für die Toten“. Gemeint sind Opfer für tote Götzen oder bei Totenkulten. Das geschah bei Baal-Peor. Dort beteten Israeliten einen fremden Gott an (4. Mose 25).
 > Vers 30–31: Pinhas, ein Priester, griff damals mit Gewalt ein (4. Mose 25,7–13). Die Bibel erzählt das als Gericht in der Zeit Moses. Es ist keine Erlaubnis für heute, im Namen Gottes Gewalt auszuüben. Jesus hat Gewalt im Namen Gottes ausdrücklich abgelehnt (Lukas 9,54–55; Matthäus 26,52).
 
 ---

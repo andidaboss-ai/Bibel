@@ -84,5 +84,5 @@ und es wird alles ringsum verzehren.‘“
 
 > **Was bedeutet das?**
 > Vers 12: Die wichtigste Aufgabe eines Königs: jeden Morgen für Gerechtigkeit sorgen und die Beraubten vor den Unterdrückern schützen. Das gilt bis heute für alle, die Macht haben.
-> Vers 13: Jerusalem fühlte sich sicher auf seinen Felsen und Hügeln: „Wer soll uns schon angreifen?“ Aber Gott sagt: Diese falsche Sicherheit wird euch nicht schützen.
+> Vers 13: Jerusalem fühlte sich sicher auf seinen Felsen und Hügeln. Die Leute sagten: „Wer will gegen uns herabkommen?“ Aber Gott sagt: Diese falsche Sicherheit wird euch nicht schützen.
 > Vers 14: Der „Wald“ ist wahrscheinlich der Königspalast, der aus viel Zedernholz gebaut war (er hieß „Libanonwaldhaus“, 1. Könige 7,2).

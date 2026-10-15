@@ -57,7 +57,7 @@ Man suchte auch Daniel und seine Gefährten, um sie zu töten.
 
 > **Was bedeutet das?**
 > Der König hat einen beunruhigenden Traum. Er stellt seine Traumdeuter auf die Probe: Sie sollen ihm nicht nur die Deutung sagen, sondern zuerst den Traum selbst. So kann er prüfen, ob sie wirklich übernatürliches Wissen haben oder nur etwas erfinden.
-> Vers 4: Ab hier bis Kapitel 7,28 ist das Buch auf Aramäisch geschrieben. Das WEB sagt „in the Syrian language“, gemeint ist Aramäisch.
+> Vers 4: Ab hier bis Kapitel 7,28 ist das Buch auf Aramäisch geschrieben. Das WEB nennt die Sprache „Syrian“ (Syrisch). Gemeint ist Aramäisch.
 > Vers 11: Die Weisen geben selbst zu: Nur die Götter könnten das wissen, und die wohnen nicht bei den Menschen. Damit bereiten sie unbewusst Daniels Antwort vor: Es gibt einen Gott, der Geheimnisse offenbart (Vers 28).
 > Vers 12: Ein grausamer Befehl aus Wut. Der Text zeigt, wie willkürlich und gefährlich die Macht eines Tyrannen ist.
 
@@ -138,7 +138,7 @@ und du die Gedanken deines Herzens erkennst.
 > **Was bedeutet das?**
 > Vers 24: Daniel denkt nicht nur an sich selbst. Er bittet zuerst, dass auch die anderen Weisen nicht getötet werden, obwohl sie Heiden sind.
 > Vers 27–28: Daniel nimmt die Ehre nicht für sich. Er sagt: Kein Mensch kann das. „Aber es gibt einen Gott im Himmel, der Geheimnisse offenbart.“
-> Vers 30: Daniel ist demütig: „Nicht weil ich klüger wäre als andere.“ Alles ist Gottes Geschenk.
+> Vers 30: Daniel ist demütig: „Mir aber ist dieses Geheimnis nicht offenbart worden wegen einer Weisheit, die ich mehr hätte als alle Lebenden.“ Das heißt: Ich bin nicht klüger als andere. Alles ist Gottes Geschenk.
 
 ---
 

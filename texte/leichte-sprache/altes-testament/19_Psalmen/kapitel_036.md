@@ -20,7 +20,7 @@ Er verabscheut das Böse nicht.
 > Der Psalm beschreibt, wie ein gottloser Mensch tickt: Er hat keine Ehrfurcht vor Gott. Er findet sich selbst so toll, dass er seine eigenen Fehler nicht sieht.
 > Paulus zitiert Vers 1 in Römer 3,18.
 > Vers 4: Sogar nachts im Bett denkt er sich Böses aus. Er hat keine Hemmung mehr vor dem Bösen.
-> Vers 1 ist im Hebräischen schwer zu übersetzen. Wörtlich etwa: „Ein Spruch der Übertretung an den Gottlosen in meinem Herzen.“
+> Vers 1 ist im Hebräischen schwer zu übersetzen. Wörtlich steht dort etwa: Ein Spruch der Übertretung an den Gottlosen in meinem Herzen.
 
 ---
 

@@ -187,9 +187,9 @@ dass die Tauben hören
 und die Stummen reden!“
 
 > **Was bedeutet das?**
-> Vers 31: Das WEB sagt: „Er verließ das Gebiet von Tyrus und Sidon“. Viele alte Handschriften haben: „Er verließ das Gebiet von Tyrus und ging über Sidon“. Das wäre ein Umweg nach Norden. Die Übersetzung oben folgt dem WEB.
+> Vers 31: Das WEB sagt: „Jesus verließ wieder das Gebiet von Tyrus und Sidon“. Viele alte Handschriften sagen es anders: Jesus ging von Tyrus aus über Sidon. Das wäre ein Umweg nach Norden. Die Übersetzung oben folgt dem WEB.
 > Jesus nimmt den Mann zur Seite, weg von den vielen Menschen. Er geht behutsam mit ihm um. Weil der Mann nicht hören kann, „spricht“ Jesus mit Gesten: Finger in die Ohren, Berührung der Zunge. Speichel galt damals als Heilmittel.
 > „Effata“ ist Aramäisch, die Muttersprache Jesu. Markus bewahrt das Originalwort.
 > Jesus „seufzt“: Er leidet mit dem Menschen.
-> Vers 37 erinnert an Jesaja 35,5–6: „Dann werden die Ohren der Tauben geöffnet … und die Zunge der Stummen wird jubeln.“
+> Vers 37 erinnert an Jesaja 35,5–6: „… die Ohren der Tauben werden aufgetan. … und die Zunge des Stummen wird jubeln.“
 > Wichtig: Gehörlose Menschen sind nicht „kaputt“ oder weniger wert. Viele Gehörlose verstehen sich heute als eigene Gemeinschaft mit eigener Sprache, der Gebärdensprache. Die Geschichte zeigt: Jesus wendet sich ihnen mit Respekt und Zärtlichkeit zu.

@@ -31,7 +31,7 @@ eine feiernde Menge am Festtag.
 > Psalm 42 und 43 gehören zusammen. Sie haben denselben Kehrvers (42,5; 42,11; 43,5).
 > Vers 1 ist ein bekanntes Bild: Ein Hirsch in der Trockenzeit sucht verzweifelt nach Wasser. So sehnt sich der Beter nach Gott.
 > Er ist weit weg vom Tempel in Jerusalem, vielleicht im Exil oder in Gefangenschaft. Er kann nicht mehr zu den Festen gehen.
-> Vers 3: Er weint Tag und Nacht. Und die Leute spotten: „Wo ist denn dein Gott?“
+> Vers 3: Er weint Tag und Nacht. Und die Leute spotten: „Wo ist dein Gott?“
 > Vers 4: Er erinnert sich an früher, als er fröhlich mit der Menge zum Tempel zog. Diese Erinnerung tut weh.
 
 ---

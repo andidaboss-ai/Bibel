@@ -352,7 +352,7 @@ Wer hat dich geschlagen?“
 > **Was bedeutet das?**
 > Der Hohe Rat (griechisch „Synedrium“, hebräisch „Sanhedrin“) war die oberste jüdische Behörde in Jerusalem. Er bestand aus Priestern, Ältesten und Schriftgelehrten.
 > Matthäus erzählt, dass die Verhandlung nicht fair war: Man suchte falsche Zeugen. Nach dem Gesetz Moses braucht es zwei übereinstimmende Zeugen (5. Mose 19,15).
-> Vers 63: Jesus schweigt. Das erinnert an Jesaja 53,7: „Wie ein Lamm, das zur Schlachtbank geführt wird, tat er seinen Mund nicht auf.“
+> Vers 63: Jesus schweigt. Das erinnert an Jesaja 53,7: „Wie ein Lamm, das zur Schlachtung geführt wird, … so öffnete er seinen Mund nicht.“
 > Vers 64: Jesus verbindet Psalm 110,1 und Daniel 7,13. „Die Macht“ ist eine ehrfürchtige Umschreibung für Gott. Juden vermeiden aus Ehrfurcht oft, den Namen Gottes auszusprechen.
 > Vers 65: Das Zerreißen der Kleider war ein Zeichen von großem Entsetzen und Trauer.
 > Sehr wichtig: Hier handelt eine bestimmte Gruppe von Führern in einer bestimmten Nacht. Das jüdische Volk insgesamt war nicht beteiligt. Die katholische Kirche hat im Jahr 1965 im Konzilsdokument „Nostra aetate“ erklärt: Man darf das Leiden Jesu weder allen damals lebenden Juden noch den heutigen Juden zur Last legen. Auch evangelische Kirchen haben das klar gesagt.
@@ -392,6 +392,6 @@ Und er ging hinaus und weinte bitterlich.
 > Während drinnen Jesus mutig die Wahrheit sagt, sagt Petrus draußen dreimal: Ich kenne ihn nicht.
 > Vers 71: Das WEB sagt „someone else“, also „jemand anderes“. Im griechischen Text ist es eine andere Magd.
 > Vers 73: Petrus kam aus Galiläa. Die Menschen dort sprachen mit einem anderen Klang als die Leute in Jerusalem, so wie es heute Dialekte gibt.
-> Vers 74: „Sich verfluchen und schwören“: Petrus beteuert mit allen Mitteln, dass er nichts mit Jesus zu tun hat.
+> Vers 74: Petrus fängt an, „sich selbst zu verfluchen und zu schwören“. Das heißt: Er beteuert mit allen Mitteln, dass er nichts mit Jesus zu tun hat.
 > Vers 75: Petrus weint bitterlich. Er erkennt sein Versagen.
 > Für heute: Petrus, der „Fels“ (16,18), ist tief gefallen. Aber die Geschichte geht weiter. Jesus hat ihn nicht aufgegeben (vergleiche 26,32; 28,7; Johannes 21,15–19). Auch wer versagt hat, kann neu anfangen. Wer sich wegen eigener Schuld sehr schlecht fühlt, darf mit jemandem darüber reden, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.

@@ -158,9 +158,9 @@ der sein Feind war und ihm nach dem Leben trachtete.“‘“
 
 > **Was bedeutet das?**
 > Vers 21–23: Jeremia widerspricht: Nein, Gott hat sich an euren Götzendienst erinnert. Deshalb kam das Unglück.
-> Vers 25: Ein bitterer, ironischer Satz Gottes: „Dann haltet eben eure Gelübde!“ Wer nicht hören will, den lässt Gott seinen eigenen Weg gehen.
+> Vers 25: Ein bitterer, ironischer Satz Gottes: „So haltet nur eure Gelübde und erfüllt nur eure Gelübde!“ Wer nicht hören will, den lässt Gott seinen eigenen Weg gehen.
 > Vers 26: Die Juden in Ägypten werden Gottes Namen nicht mehr im Schwur gebrauchen, weil sie sich von ihm abgewandt haben.
-> Vers 28: „Wessen Wort hat Bestand, meines oder ihres?“ Die Zeit wird es zeigen.
+> Vers 28: Die Leute aus Juda werden erkennen, „wessen Wort Bestand hat, meines oder ihres“. Die Zeit wird es zeigen.
 > Vers 30: Als Zeichen nennt Jeremia: Pharao Hofra wird gestürzt werden. Hofra (griechisch Apries) wurde tatsächlich um 570 vor Christus bei einem Aufstand gestürzt.
 > Dies sind die letzten überlieferten Worte Jeremias. Wie er gestorben ist, erzählt die Bibel nicht.
 

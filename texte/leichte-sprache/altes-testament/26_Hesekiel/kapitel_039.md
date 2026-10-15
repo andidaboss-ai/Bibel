@@ -57,7 +57,7 @@ spricht der Herr, der HERR.
 
 > **Was bedeutet das?**
 > Ein starkes Bild: Es gibt so viele Waffen, dass man sieben Jahre lang damit heizen kann. Die Waffen werden nicht mehr gebraucht, sie werden verbrannt.
-> Das erinnert an Jesaja 2,4: „Sie werden ihre Schwerter zu Pflugscharen schmieden.“ Und an Psalm 46,9 (in deutschen Bibeln 46,10): „Er zerbricht den Bogen, zerschlägt den Speer und verbrennt die Wagen mit Feuer.“
+> Das erinnert an Jesaja 2,4: „Sie werden ihre Schwerter zu Pflugscharen schmieden.“ Und an Psalm 46,9 (in deutschen Bibeln 46,10): „Er zerbricht den Bogen und zerschlägt den Speer. Er verbrennt die Wagen im Feuer.“
 > Die Hoffnung der Bibel ist eine Welt ohne Waffen und ohne Krieg.
 
 ---
@@ -166,6 +166,6 @@ spricht der Herr, der HERR.“
 > **Was bedeutet das?**
 > Am Ende dieses dunklen Abschnitts steht ein wunderschönes Versprechen.
 > Vers 23–24: Die Völker sollen verstehen: Israel ging nicht ins Exil, weil sein Gott schwach war, sondern weil Gott sein Angesicht verborgen hatte, wegen der Untreue des Volkes.
-> Vers 25: „Jetzt werde ich mich erbarmen.“ Gott wendet das Schicksal.
-> Vers 29: „Ich werde mein Angesicht nicht mehr verbergen, denn ich habe meinen Geist ausgegossen.“ Gottes Nähe wird bleiben. Das erinnert an Joel 2,28 (in deutschen Bibeln Joel 3,1): „Ich will meinen Geist ausgießen über alles Fleisch.“ Christen sehen das zu Pfingsten erfüllt (Apostelgeschichte 2,17).
-> „Gottes Angesicht“ ist ein Bild für seine Zuwendung und Nähe. Im Aaronitischen Segen heißt es: „Der HERR lasse sein Angesicht leuchten über dir“ (4. Mose 6,25).
+> Vers 25: „Jetzt werde ich das Geschick Jakobs wenden und mich über das ganze Haus Israel erbarmen.“ Gott wendet das Schicksal.
+> Vers 29: „Ich werde mein Angesicht nicht mehr vor ihnen verbergen, denn ich habe meinen Geist über das Haus Israel ausgegossen.“ Gottes Nähe wird bleiben. Das erinnert an Joel: „Und danach wird es geschehen, dass ich meinen Geist ausgießen werde über alles Fleisch“ (Joel 2,28; in vielen deutschen Bibeln 3,1). Christen sehen das zu Pfingsten erfüllt (Apostelgeschichte 2,17).
+> „Gottes Angesicht“ ist ein Bild für seine Zuwendung und Nähe. Im Aaronitischen Segen heißt es: „Der HERR lasse sein Angesicht über dir leuchten“ (4. Mose 6,25).

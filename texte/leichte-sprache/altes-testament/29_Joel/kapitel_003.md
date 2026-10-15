@@ -124,9 +124,9 @@ denn der HERR wohnt auf dem Zion.“
 > **Gemeinsam klagen:** Joel ruft alle zusammen, Alte und Kinder, Priester und Bauern, um zu fasten und zu beten.
 > **Der Tag des HERRN:** Die Plage wird zum Zeichen für den großen Tag, an dem Gott eingreift.
 > **Umkehr von Herzen:** „Zerreißt eure Herzen und nicht eure Kleider“ (2,13). Gott ist „gnädig und barmherzig, langsam zum Zorn und reich an Güte“.
-> **Verlorene Jahre zurück:** „Ich werde euch die Jahre erstatten, die die Heuschrecken gefressen haben“ (2,25).
+> **Verlorene Jahre zurück:** „Ich werde euch die Jahre erstatten, die der Nager gefressen hat“ (2,25). Der Nager ist eine Art Heuschrecke.
 > **Gottes Geist für alle:** „Ich will meinen Geist ausgießen über alles Fleisch“: über Söhne und Töchter, Alte und Junge, Knechte und Mägde (2,28–29). Diese Verheißung erfüllte sich nach christlichem Verständnis an Pfingsten.
 > **Rettung für jeden:** „Jeder, der den Namen des HERRN anruft, wird gerettet werden“ (2,32).
 > **Gericht und Heil:** Gott richtet die Völker, die Unrecht getan haben, besonders die Menschenhändler. Und am Ende wohnt er bei seinem Volk.
 > **Für heute:** Joel hilft, in Krisen (Naturkatastrophen, Hunger, Verlust) nicht zu verzweifeln, sondern gemeinsam zu klagen, zu beten und auf Gottes Erbarmen zu hoffen.
-> **Wie geht es weiter?** Als Nächstes kommt der Prophet Amos. Er war ein Viehzüchter und Maulbeerfeigenpflanzer, den Gott ins reiche Nordreich Israel schickte. Er kämpfte leidenschaftlich gegen soziale Ungerechtigkeit: „Es ströme aber das Recht wie Wasser und die Gerechtigkeit wie ein nie versiegender Bach!“ (Amos 5,24).
+> **Wie geht es weiter?** Als Nächstes kommt der Prophet Amos. Er war ein Viehzüchter und Maulbeerfeigenpflanzer, den Gott ins reiche Nordreich Israel schickte. Er kämpfte leidenschaftlich gegen soziale Ungerechtigkeit: „Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (Amos 5,24).

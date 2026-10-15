@@ -27,7 +27,7 @@ eine Zeit für den Krieg und eine Zeit für den Frieden.
 > Es sind 14 Gegensatzpaare, immer zwei Gegensätze in einer Zeile. Sie umfassen das ganze Leben: von der Geburt bis zum Tod, von Weinen bis Lachen, von Krieg bis Frieden.
 > Die Botschaft: Das Leben hat Rhythmen. Nicht alles ist zu jeder Zeit richtig. Es gibt eine Zeit zum Trauern und eine Zeit zum Feiern. Weise ist, wer erkennt, was jetzt dran ist.
 > Vers 3 und 8: „Eine Zeit zum Töten“, „eine Zeit zum Hassen“, „eine Zeit für den Krieg“: Der Prediger beschreibt, was in der Welt geschieht, auch das Schreckliche. Er sagt nicht, dass Töten oder Hass gut sind. Bemerkenswert ist: Die Liste endet mit „Frieden“.
-> Vers 5: „Steine wegwerfen und sammeln“: Vielleicht ist gemeint, ein Feld von Steinen zu befreien und Steine für ein Haus zu sammeln. Manche Ausleger denken auch an Zärtlichkeit, denn die nächste Zeile spricht vom Umarmen.
+> Vers 5: „Eine Zeit, Steine wegzuwerfen, und eine Zeit, Steine zu sammeln“: Vielleicht ist gemeint, ein Feld von Steinen zu befreien und Steine für ein Haus zu sammeln. Manche Ausleger denken auch an Zärtlichkeit, denn die nächste Zeile spricht vom Umarmen.
 > Vers 7: „Eine Zeit zum Zerreißen“: Bei einem Todesfall zerriss man vor Trauer seine Kleider. Später näht man sie wieder zusammen, wenn die Trauerzeit vorbei ist.
 
 ---
@@ -55,10 +55,10 @@ und was sein wird, ist schon längst gewesen.
 Gott sucht wieder das, was vergangen ist.
 
 > **Was bedeutet das?**
-> Vers 11 ist einer der tiefsten Sätze der Bibel: Gott hat „die Ewigkeit in das Herz der Menschen gelegt“. Darum sind wir nie ganz zufrieden mit dem, was vergeht. Wir sehnen uns nach etwas, das bleibt. Aber wir können Gottes großen Plan nicht ganz verstehen.
+> Vers 11 ist einer der tiefsten Sätze der Bibel: Gott hat den Menschen „die Ewigkeit in ihr Herz gelegt“. Darum sind wir nie ganz zufrieden mit dem, was vergeht. Wir sehnen uns nach etwas, das bleibt. Aber wir können Gottes großen Plan nicht ganz verstehen.
 > Augustinus, ein großer Kirchenlehrer, sagte später: „Unruhig ist unser Herz, bis es ruht in dir, o Gott.“
 > Vers 12–13: Die Antwort des Predigers: sich freuen, Gutes tun, das Leben dankbar genießen. Es ist ein Geschenk Gottes.
-> Vers 15: „Gott sucht das Vergangene“: Bei Gott geht nichts verloren. Er vergisst nichts.
+> Vers 15: „Gott sucht wieder das, was vergangen ist“: Bei Gott geht nichts verloren. Er vergisst nichts.
 
 ---
 

@@ -110,7 +110,7 @@ Dann werdet ihr erkennen, dass ich, der HERR, es gesagt habe.‘“
 > Zedekia hatte Nebukadnezar einen Treueeid geschworen, und zwar im Namen Gottes (vgl. 2. Chronik 36,13). Dann brach er diesen Eid und verbündete sich mit Ägypten.
 > Vers 19: Gott nennt den Eid „meinen Eid“ und den Bund „meinen Bund“. Wer im Namen Gottes etwas verspricht und es bricht, beleidigt Gott selbst. Ein Versprechen ist auch dann wichtig, wenn man es einem Gegner gegeben hat.
 > Alles kam so: Ägypten half nicht wirklich (vgl. Jeremia 37,5–8), Jerusalem wurde erobert, und Zedekia starb gefangen in Babylon (vgl. Hesekiel 12,13).
-> Für heute: Ehrlichkeit und Zuverlässigkeit sind wichtig. „Euer Ja sei ein Ja, euer Nein ein Nein“ (Matthäus 5,37).
+> Für heute: Ehrlichkeit und Zuverlässigkeit sind wichtig. Jesus sagt: „Eure Rede aber sei: ‚Ja‘ ist ‚Ja‘, und ‚Nein‘ ist ‚Nein‘“ (Matthäus 5,37).
 
 ---
 

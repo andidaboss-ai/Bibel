@@ -59,7 +59,7 @@ von allen Fremden, die unter den Kindern Israel sind.
 
 > **Was bedeutet das?**
 > Im alten Tempel hatte man offenbar fremde Arbeiter oder Wachen eingesetzt, die Gott nicht kannten und nicht verehrten („unbeschnitten am Herzen“). Sie verrichteten heilige Dienste, die eigentlich die Priester und Leviten hätten tun sollen. Die Israeliten hatten ihre Verantwortung einfach abgegeben.
-> Wichtig: Hier geht es um den Dienst im innersten Heiligtum, nicht um Fremde im Allgemeinen. Die Bibel gebietet an vielen Stellen, Fremde zu lieben und zu schützen (3. Mose 19,33–34). Jesaja 56,6–7 sagt sogar, dass Fremde, die sich dem HERRN anschließen, in seinem Haus willkommen sind: „Mein Haus soll ein Bethaus für alle Völker heißen.“ Und Hesekiel selbst sagt in 47,22–23, dass Fremde ein Erbteil im Land bekommen sollen wie Einheimische.
+> Wichtig: Hier geht es um den Dienst im innersten Heiligtum, nicht um Fremde im Allgemeinen. Die Bibel gebietet an vielen Stellen, Fremde zu lieben und zu schützen (3. Mose 19,33–34). Jesaja 56,6–7 sagt sogar, dass Fremde, die sich dem HERRN anschließen, in seinem Haus willkommen sind: „Mein Haus wird ein Bethaus für alle Völker genannt werden.“ Und Hesekiel selbst sagt in 47,22–23, dass Fremde ein Erbteil im Land bekommen sollen wie Einheimische.
 > Dieser Text darf darum nicht benutzt werden, um Ausländer oder Menschen anderer Herkunft auszugrenzen.
 
 ---
@@ -187,7 +187,7 @@ was von selbst gestorben ist oder zerrissen wurde,
 weder von Vögeln noch von Tieren.
 
 > **Was bedeutet das?**
-> Vers 28: „Ich bin ihr Erbteil.“ Die Priester bekommen kein Land. Ihr Reichtum ist Gott selbst (vgl. 4. Mose 18,20; Psalm 16,5: „Der HERR ist mein Erbteil“).
+> Vers 28: „Ich bin ihr Erbteil.“ Die Priester bekommen kein Land. Ihr Reichtum ist Gott selbst (vgl. 4. Mose 18,20: „Ich bin dein Anteil und dein Erbe“; Psalm 16,5).
 > Sie leben von den Gaben des Volkes. Das Volk sorgt für die Priester, und die Priester dienen dem Volk.
 > Vers 30: Wer gibt, wird gesegnet: „damit ein Segen auf eurem Haus ruht.“
 

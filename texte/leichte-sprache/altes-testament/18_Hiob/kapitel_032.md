@@ -72,7 +72,7 @@ auch ich will meine Meinung sagen.
 
 > **Was bedeutet das?**
 > Elihu hat genau zugehört. Sein Urteil: Die Freunde haben Hiob nicht überzeugt. Sie haben keine Antwort auf seine Fragen gegeben.
-> Vers 13: Elihu warnt die Freunde, sich nicht herauszureden mit: „Nur Gott kann ihn widerlegen.“
+> Vers 13: Elihu warnt die Freunde, sich nicht herauszureden mit: „Gott mag ihn widerlegen, nicht ein Mensch.“
 > Vers 14: Elihu will neue Argumente bringen, nicht die alten wiederholen.
 
 ---

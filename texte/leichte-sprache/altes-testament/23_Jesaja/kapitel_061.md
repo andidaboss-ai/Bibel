@@ -29,7 +29,7 @@ damit man sie „Bäume der Gerechtigkeit“ nennt,
 > – Trauernde trösten.
 > „Gnadenjahr“ erinnert an das Jubeljahr (3. Mose 25): Alle 50 Jahre sollten Schulden erlassen und Sklaven freigelassen werden. Ein Neuanfang für alle.
 > Vers 3: Statt Asche auf dem Kopf (ein Zeichen der Trauer) bekommen die Trauernden einen Festkranz. Statt Trauer Freudenöl.
-> In der Synagoge von Nazaret las Jesus diese Verse vor und sagte: „Heute ist dieses Schriftwort erfüllt, wie ihr es gehört habt“ (Lukas 4,16–21). Er hörte mitten in Vers 2 auf, beim „Gnadenjahr des HERRN“, und las den „Tag der Vergeltung“ nicht mehr vor. Im Judentum versteht man den Sprecher meist als den Propheten selbst, der Israel diese Botschaft bringt.
+> In der Synagoge von Nazaret las Jesus diese Verse vor und sagte: „Heute hat sich dieses Schriftwort erfüllt, das ihr gerade gehört habt“ (Lukas 4,16–21). Er hörte mitten in Vers 2 auf, beim „Gnadenjahr des HERRN“, und las den „Tag der Vergeltung“ nicht mehr vor. Im Judentum versteht man den Sprecher meist als den Propheten selbst, der Israel diese Botschaft bringt.
 
 ---
 
@@ -80,6 +80,6 @@ so wird der Herr, der HERR, Gerechtigkeit und Lob
 vor allen Nationen aufsprossen lassen.
 
 > **Was bedeutet das?**
-> Vers 10: Ein Freudenlied. Gott hat den Sprecher neu eingekleidet, mit Heil und Gerechtigkeit, schön wie Braut und Bräutigam am Hochzeitstag. Maria singt ähnlich: „Meine Seele preist den Herrn, und mein Geist jubelt über Gott, meinen Retter“ (Lukas 1,46–47).
+> Vers 10: Ein Freudenlied. Gott hat den Sprecher neu eingekleidet, mit Heil und Gerechtigkeit, schön wie Braut und Bräutigam am Hochzeitstag. Maria singt ähnlich: „Meine Seele preist den Herrn. Mein Geist jubelt über Gott, meinen Retter“ (Lukas 1,46–47).
 > Vers 11: Gerechtigkeit wächst wie eine Pflanze im Garten. Gott lässt sie aufgehen, langsam, aber sicher.
 

@@ -67,8 +67,8 @@ In Gilgal opfern sie Stiere.
 Ja, ihre Altäre sind wie Steinhaufen in den Furchen des Feldes.
 
 > **Was bedeutet das?**
-> Vers 7–8: Israel ist wie ein betrügerischer Händler mit falscher Waage. Und dann sagt er stolz: „Ich bin reich geworden, und niemand kann mir etwas vorwerfen!“ Reichtum durch Betrug, und dann noch selbstgerecht.
-> Vers 9: Gott erinnert: „Ich bin dein Gott seit Ägypten.“ Er wird sie wieder in Zelten wohnen lassen, wie beim Laubhüttenfest, als man sich an die Wüstenzeit erinnerte. Das kann Strafe bedeuten (Verlust der Häuser) oder auch einen Neuanfang wie damals in der Wüste (vgl. Hosea 2,14).
+> Vers 7–8: Israel ist wie ein betrügerischer Händler mit falscher Waage. Und dann sagt er stolz: „Gewiss, ich bin reich geworden … In all meinem Erwerb wird man keine Schuld an mir finden.“ Er meint: Niemand kann mir etwas vorwerfen! Reichtum durch Betrug, und dann noch selbstgerecht.
+> Vers 9: Gott erinnert: „Ich bin der HERR, dein Gott, seit dem Land Ägypten.“ Er wird sie wieder in Zelten wohnen lassen, wie beim Laubhüttenfest, als man sich an die Wüstenzeit erinnerte. Das kann Strafe bedeuten (Verlust der Häuser) oder auch einen Neuanfang wie damals in der Wüste (vgl. Hosea 2,14).
 > Vers 10: Gott hat immer wieder durch Propheten geredet, in Bildern und Gleichnissen. Er hat nicht geschwiegen.
 
 ---

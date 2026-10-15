@@ -67,7 +67,7 @@ und der Gott Israels wird eure Nachhut sein.
 > **Was bedeutet das?**
 > Vers 7: Einer der schönsten Verse der Bibel. Ein Bote läuft über die Berge nach Jerusalem und bringt die gute Nachricht: Frieden! Rettung! „Dein Gott ist König!“ Man freut sich schon über seine Füße, wenn man ihn von weitem kommen sieht. Das Wort „gute Nachricht“ heißt im griechischen Neuen Testament „Evangelium“. Paulus zitiert diesen Vers (Römer 10,15).
 > Vers 8: Die Wächter auf der Stadtmauer sehen mit eigenen Augen, wie Gott selbst heimkehrt.
-> Vers 10: Gott „krempelt die Ärmel hoch“ und zeigt seine Macht vor allen Völkern.
+> Vers 10: Gott „hat seinen heiligen Arm entblößt“. Das heißt: Er krempelt die Ärmel hoch und zeigt seine Macht vor allen Völkern.
 > Vers 11–12: Die Heimkehrer sollen die heiligen Tempelgeräte zurück nach Jerusalem tragen (vgl. Esra 1,7–11). Anders als beim Auszug aus Ägypten müssen sie nicht hastig fliehen. Gott geht vor ihnen her und schützt sie auch von hinten.
 
 ---

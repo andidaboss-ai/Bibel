@@ -18,7 +18,7 @@ Ja, sie sollen sich freuen in Fröhlichkeit.
 > **Was bedeutet das?**
 > Psalm 68 ist einer der schwierigsten Psalmen. Viele Verse sind im Hebräischen schwer zu verstehen. Die Übersetzungen weichen oft voneinander ab.
 > Er beschreibt einen großen Festzug: Gott zieht vom Sinai durch die Wüste bis in sein Heiligtum in Jerusalem.
-> Vers 1 greift den Ruf auf, mit dem die Bundeslade aufbrach: „Steh auf, HERR, deine Feinde sollen zerstreut werden!“ (4. Mose 10,35).
+> Vers 1 greift den Ruf auf, mit dem die Bundeslade aufbrach: „Steh auf, HERR! Deine Feinde sollen sich zerstreuen“ (4. Mose 10,35).
 
 ---
 
@@ -76,7 +76,7 @@ schneite es auf dem Zalmon.
 > **Was bedeutet das?**
 > Diese Verse sind besonders schwer zu verstehen.
 > Vers 11: „Die es verkündeten“: Im Hebräischen steht eine weibliche Form. Gemeint sind wohl Frauen, die die Siegesbotschaft verbreiteten, wie Mirjam (2. Mose 15,20) oder Debora (Richter 5).
-> Vers 12–13: Die Feinde fliehen. Die Frauen zu Hause verteilen die Beute. Die „Taube mit silbernen Flügeln“ ist vielleicht ein kostbares Beutestück oder ein Bild für Israel.
+> Vers 12–13: Die Feinde fliehen. Die Frauen zu Hause verteilen die Beute. In Vers 13 geht es um eine Taube: „Flügel einer Taube, mit Silber überzogen“. Sie ist vielleicht ein kostbares Beutestück oder ein Bild für Israel.
 > Vers 13: „Zwischen den Lagerfeuern“: Das hebräische Wort ist unsicher. Andere übersetzen „zwischen den Hürden“ oder „in den Viehställen“ (vgl. Richter 5,16).
 > Vers 14: Der Zalmon ist ein Berg. Vielleicht lagen die Waffen der Gefallenen weiß wie Schnee auf dem Berg. Oder es geht um ein wirkliches Schneewetter, das die Feinde verwirrte.
 

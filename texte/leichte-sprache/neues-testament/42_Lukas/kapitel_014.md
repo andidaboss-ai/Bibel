@@ -28,7 +28,7 @@ auch am Sabbat?“
 > **Was bedeutet das?**
 > Jesus isst bei einem Pharisäer. Er hat Beziehungen zu ihnen und spricht mit ihnen.
 > „Wassersucht“ ist eine Krankheit, bei der sich Wasser im Körper sammelt. Die Beine und der Bauch schwellen an. Das kann bei Herz- oder Nierenkrankheiten vorkommen.
-> Vers 5: Manche Handschriften haben „ein Esel oder ein Ochse“ statt „der Sohn oder ein Ochse“.
+> Vers 5: Manche Handschriften haben „Esel“ statt „Sohn“.
 > Auch das jüdische Gesetz erlaubte, am Sabbat Leben zu retten. Wie weit diese Erlaubnis ging, wurde unter jüdischen Lehrern diskutiert. Jesus sagt: Einem Menschen helfen ist immer richtig.
 > Wichtig: Diese Geschichte ist keine Kritik am Sabbat. Der Sabbat ist ein Geschenk Gottes.
 
@@ -78,7 +78,7 @@ bei der Auferstehung der Gerechten.“
 
 > **Was bedeutet das?**
 > Bei Festen damals war die Sitzordnung sehr wichtig. Sie zeigte, wie viel Ansehen jemand hatte.
-> Vers 8–10 erinnern an Sprüche 25,6–7: „Es ist besser, man sagt zu dir: Komm hier herauf!“
+> Vers 8–10 erinnern an Sprüche 25,6–7: „Es ist besser, dass man zu dir sagt: ‚Komm hier herauf!‘“
 > Vers 11: Gott schaut nicht auf Rang und Ehre. Wer sich klein macht, den macht Gott groß. Das hat Maria schon in ihrem Lied gesungen (Lukas 1,52).
 > Vers 12–14: Jesus stellt die Regeln auf den Kopf. Normalerweise lädt man die ein, die einen auch einladen. Jesus sagt: Lade die ein, die nichts zurückgeben können.
 > „Verkrüppelte“ (WEB: „maimed“) waren Menschen mit Verletzungen oder Behinderungen. Damals wurden sie oft ausgeschlossen. Jesus sagt: Sie gehören an den Tisch, als geehrte Gäste.
@@ -197,7 +197,7 @@ Man wirft es weg.
 Wer Ohren hat zum Hören, der soll hören!“
 
 > **Was bedeutet das?**
-> Vers 26: Das WEB sagt „disregard“, also „nicht beachten, zurückstellen“. Im Griechischen steht ein Wort, das oft mit „hassen“ übersetzt wird. In der Sprache der Bibel bedeutet es aber: „weniger lieben, an die zweite Stelle setzen“ (vergleiche 1. Mose 29,30–31). Matthäus sagt es so: „Wer Vater oder Mutter mehr liebt als mich …“ (Matthäus 10,37).
+> Vers 26: Das WEB sagt „disregard“, also „nicht beachten, zurückstellen“. Im Griechischen steht ein Wort, das oft mit „hassen“ übersetzt wird. In der Sprache der Bibel bedeutet es aber: weniger lieben, an die zweite Stelle setzen (vergleiche 1. Mose 29,30–31). Matthäus sagt es so: „Wer Vater oder Mutter mehr liebt als mich …“ (Matthäus 10,37).
 > Wichtig: Jesus will nicht, dass man seine Familie hasst oder lieblos behandelt. Das Gebot „Ehre deinen Vater und deine Mutter“ gilt weiter (Lukas 18,20). Gruppen, die Menschen zwingen, ihre Familien zu verlassen, missbrauchen diese Worte. Rat geben zum Beispiel die Sekten- und Weltanschauungsbeauftragten der Kirchen.
 > Wichtig: Auch „sein eigenes Leben zurückstellen“ heißt nicht, sich selbst zu verachten oder zu schaden. Wer an Selbstverletzung oder Selbsttötung denkt, findet Hilfe bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222.
 > Vers 28–32: Zwei Beispiele: der Turmbau und der König vor dem Krieg. Beide sagen: Überlege gut, bevor du dich entscheidest. Jesus nachzufolgen ist eine Entscheidung für das ganze Leben.

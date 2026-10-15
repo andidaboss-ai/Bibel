@@ -198,7 +198,7 @@ Und der Name der Stadt soll von diesem Tag an sein:
 > **Jeder ist verantwortlich:** „Die Väter haben saure Trauben gegessen …“ gilt nicht mehr. Jeder Mensch kann umkehren. „Ich habe keinen Gefallen am Tod … Kehrt um und lebt!“ (18,32; 33,11).
 > **Die Völker (Kapitel 25–32):** Gott ist Herr über alle Völker. Hochmut, Schadenfreude und Gewalt haben überall Folgen, bei Tyrus, Ägypten und allen anderen.
 > **Der gute Hirte:** „Ich selbst will meine Schafe suchen“ (Kapitel 34). Gott sucht das Verlorene und verbindet das Verletzte.
-> **Ein neues Herz:** „Ich gebe euch ein neues Herz und einen neuen Geist“ (36,26). Gott verändert die Menschen von innen.
+> **Ein neues Herz:** „Ich werde euch ein neues Herz geben und einen neuen Geist in euer Inneres legen“ (36,26). Gott verändert die Menschen von innen.
 > **Trockene Knochen:** Gott kann Totes lebendig machen. „Ich öffne eure Gräber“ (Kapitel 37). Keine Lage ist für Gott hoffnungslos.
 > **Der neue Tempel (Kapitel 40–48):** Gottes Herrlichkeit kehrt zurück (Kapitel 43). Aus dem Tempel fließt ein Strom, der sogar das Tote Meer lebendig macht (Kapitel 47). Auch die Fremden bekommen ein Erbteil.
 > **Schwere Texte:** Manche Bilder in Hesekiel sind hart und gewaltvoll, besonders die Frauenbilder in den Kapiteln 16 und 23. Sie beschreiben die Katastrophe ihrer Zeit. Sie rechtfertigen niemals Gewalt gegen Frauen oder andere Menschen.

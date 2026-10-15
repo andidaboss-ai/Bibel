@@ -140,7 +140,7 @@ als Lösegeld für viele.“
 > Der „Becher“ ist ein Bild aus dem Alten Testament für ein schweres Schicksal, das Gott zumutet (zum Beispiel Jesaja 51,17). Jesus meint sein Leiden. Auch die „Taufe“ ist hier ein Bild für das Leiden: wie in tiefes Wasser untertauchen.
 > Die Worte über die Taufe (in Vers 22 und 23) fehlen in vielen alten Handschriften. Sie stehen ähnlich in Markus 10,38–39. Das WEB hat sie.
 > Vers 23: Jakobus wurde später tatsächlich wegen seines Glaubens getötet (Apostelgeschichte 12,2).
-> Vers 25: Das WEB sagt „lord it over them“. Gemeint ist: Mächtige herrschen von oben herab und nutzen ihre Macht aus.
+> Vers 25: Das WEB sagt wörtlich: Die Herrscher spielen sich als Herren über die Völker auf. Gemeint ist: Mächtige herrschen von oben herab und nutzen ihre Macht aus.
 > Vers 26–28: Bei Jesus ist es umgekehrt. Groß ist, wer anderen dient. Jesus selbst ist das Vorbild.
 > „Lösegeld“: Damals bezahlte man Geld, um Gefangene oder Sklaven freizukaufen. Jesus gibt sein Leben, um Menschen frei zu machen. „Für viele“ heißt nach hebräischer Redeweise: für die große Menge, für alle. Das erinnert an Jesaja 53,11–12.
 > Für heute: In der Kirche und überall soll niemand seine Macht missbrauchen. Wer leitet, soll dienen.

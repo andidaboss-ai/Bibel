@@ -30,10 +30,10 @@ Das Gelage der Faulenzer wird ein Ende haben.
 
 > **Was bedeutet das?**
 > Jetzt trifft es die reichen Männer, die Oberschicht in Jerusalem (Zion) und in Samaria.
-> Vers 1: Sie fühlen sich sicher und sorglos. Sie halten sich für „das erste unter den Völkern“.
+> Vers 1: Sie fühlen sich sicher und sorglos. Sie halten sich für die „Vornehmen des ersten unter den Völkern“.
 > Vers 2: Amos sagt: Schaut euch andere Städte an (Kalne, Hamat, Gat), die schon gefallen sind. Ihr seid nicht besser als sie.
 > Vers 4–6: Ein lebendiges Bild vom Luxus: Elfenbeinbetten, faul auf Sofas liegen, nur die zartesten Lämmer und Kälber essen, Musik machen, Wein aus großen Schalen trinken, sich mit teuren Ölen pflegen.
-> Vers 6: Das Schlimmste ist nicht der Luxus selbst, sondern: „Sie grämen sich nicht über den Zusammenbruch Josefs.“ Das Volk geht zugrunde, die Armen leiden, und es ist ihnen egal.
+> Vers 6: Das Schlimmste ist nicht der Luxus selbst, sondern das Ende des Verses: „… aber euch nicht grämt über den Zusammenbruch Josefs!“ Sich grämen heißt: traurig sein. Das Volk geht zugrunde, die Armen leiden, und es ist ihnen egal.
 > Vers 7: Wer jetzt am Tisch ganz vorne sitzt, wird bald als Erster in die Gefangenschaft ziehen.
 > Für heute: Amos fragt, ob wir das Leid anderer Menschen sehen, oder ob wir es uns bequem machen und wegschauen.
 

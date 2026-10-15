@@ -24,7 +24,7 @@ obwohl nur die Priester sie essen dürfen?“
 „Der Menschensohn ist Herr über den Sabbat.“
 
 > **Was bedeutet das?**
-> Vers 1: Das WEB sagt „am zweiten Sabbat nach dem ersten“. Was das genau bedeutet, ist unklar. Viele alte Handschriften haben einfach „an einem Sabbat“.
+> Vers 1: Das WEB sagt: „An einem Sabbat, dem zweiten nach dem ersten“. Was das genau bedeutet, ist unklar. Viele alte Handschriften haben einfach „an einem Sabbat“.
 > Am Rand eines Feldes Ähren zu pflücken war erlaubt (5. Mose 23,26). Aber manche Lehrer sahen das Zerreiben der Ähren am Sabbat als Arbeit an. Darüber gab es unterschiedliche Meinungen.
 > Vers 3–4: Die Geschichte von David steht in 1. Samuel 21,2–7.
 > Der Sabbat ist ein Geschenk Gottes zur Ruhe und Erholung (2. Mose 20,8–11). Im Judentum wird er bis heute gefeiert.
@@ -145,7 +145,7 @@ Denn genauso haben es ihre Väter mit den falschen Propheten gemacht.“
 
 > **Was bedeutet das?**
 > „Selig“ heißt: glücklich, von Gott gesegnet.
-> Bei Lukas spricht Jesus die Armen, Hungernden und Weinenden direkt an: „Selig seid ihr“. Bei Matthäus heißt es „Selig sind die geistlich Armen“ (Matthäus 5,3). Lukas meint ganz direkt die wirklich Armen.
+> Bei Lukas spricht Jesus die Armen, Hungernden und Weinenden direkt an: „Selig seid ihr“. Bei Matthäus heißt es: „Selig sind, die arm sind im Geist“ (Matthäus 5,3). Lukas meint ganz direkt die wirklich Armen.
 > Gott steht auf der Seite der Armen. Ihr Leid ist ihm nicht egal. Er verspricht, dass es sich wenden wird. Das erinnert an das Lied der Maria (1,52–53).
 > Die „Wehe“-Rufe gibt es nur bei Lukas. Sie sind eine ernste Warnung an Reiche und Satte. Reichtum ist nicht an sich böse. Aber wer nur an sich denkt und die Armen vergisst, hat schon alles bekommen, was er erwartet.
 > Wichtig: Armut ist kein Zustand, den Gott will. Christen sollen Armut bekämpfen und Armen helfen.

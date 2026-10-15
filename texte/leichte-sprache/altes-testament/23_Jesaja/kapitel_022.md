@@ -54,7 +54,7 @@ spricht der Herr, der HERR der Heere.
 > Vers 1–3: Die Stadt feiert auf den Dächern. Vielleicht weil der Feind abgezogen ist. Aber Jesaja sieht: Die Anführer sind feige geflohen und gefangen genommen worden. Es gibt keinen Grund zum Feiern.
 > Vers 4: Jesaja weint bitterlich über sein Volk.
 > Vers 8–11: Das Volk bereitet sich klug auf den Krieg vor: Waffen aus dem Zeughaus („Waldhaus“), Mauern reparieren, Wasser sichern. Hiskia ließ damals einen Wassertunnel bauen, der heute noch in Jerusalem zu sehen ist (2. Könige 20,20). Aber das Volk hat Gott vergessen, der alles in der Hand hat.
-> Vers 13: „Lasst uns essen und trinken, denn morgen sind wir tot!“ Statt umzukehren, feiern sie sinnlos. Paulus zitiert diesen Satz (1. Korinther 15,32).
+> Vers 13: „Lasst uns essen und trinken, denn morgen sterben wir!“ Statt umzukehren, feiern sie sinnlos. Paulus zitiert diesen Satz (1. Korinther 15,32).
 > Vers 14: Ein sehr harter Satz. Er zeigt, wie ernst Gott diese Gleichgültigkeit nimmt.
 
 ---

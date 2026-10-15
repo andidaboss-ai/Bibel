@@ -18,7 +18,7 @@ hast du den Tau deiner Jugend.
 
 > **Was bedeutet das?**
 > Psalm 110 ist der Psalm, der im Neuen Testament am häufigsten zitiert wird (über 20 Mal).
-> Vers 1: „Der HERR (Gott) spricht zu meinem Herrn (dem König)“: Gott lädt den König ein, an seiner rechten Seite Platz zu nehmen, dem Ehrenplatz. Er wird die Feinde unter seine Füße legen. Damals setzten Sieger ihren Fuß auf den Nacken der Besiegten.
+> Vers 1: „Der HERR spricht zu meinem Herrn“: Der HERR ist Gott. Mein Herr ist der König. Gott lädt den König ein, an seiner rechten Seite Platz zu nehmen, dem Ehrenplatz. Er wird die Feinde unter seine Füße legen. Damals setzten Sieger ihren Fuß auf den Nacken der Besiegten.
 > Jesus fragte die Schriftgelehrten: Wenn David den Messias „meinen Herrn“ nennt, wie kann der Messias dann nur Davids Sohn sein? (Markus 12,35–37). Christen glauben, dass Jesus nach seiner Auferstehung „zur Rechten Gottes“ sitzt (Apostelgeschichte 2,34–36; Hebräer 1,13).
 > Juden haben den Psalm auf den König aus Davids Familie oder auf den kommenden Messias bezogen.
 > Vers 3 ist im Hebräischen sehr schwer zu verstehen. Gemeint ist wohl: Der König ist jung und frisch wie der Tau am Morgen.

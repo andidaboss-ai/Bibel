@@ -28,5 +28,5 @@ von jetzt an bis in Ewigkeit.
 > Der Pilger sieht die Berge vor sich. Dort ist der Weg gefährlich: steile Pfade, Räuber, Hitze. Er fragt: Wer hilft mir? Die Antwort: Nicht die Berge, sondern der Gott, der die Berge gemacht hat.
 > Sechsmal kommt das Wort „behüten“ vor. Gott passt auf, wie ein Wächter, der niemals einschläft.
 > Vers 6: Die Sonne konnte einen Hitzschlag bringen. Vom Mond glaubte man damals, dass er krank machen kann. Gott schützt bei Tag und bei Nacht.
-> Vers 8: „Dein Weggehen und Heimkommen“: das ganze Leben, jeder Weg, jeder Tag.
+> Vers 8: „Dein Weggehen und dein Heimkommen“: das ganze Leben, jeder Weg, jeder Tag.
 

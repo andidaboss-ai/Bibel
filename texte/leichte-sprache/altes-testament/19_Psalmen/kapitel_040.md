@@ -87,4 +87,4 @@ Zögere nicht, mein Gott!
 > Nach dem Dank kommt eine neue Not. Das ist ehrlich: Das Leben besteht nicht nur aus einer einzigen Rettung. Es gibt immer wieder neue Schwierigkeiten.
 > Vers 12: Der Beter sieht seine eigene Schuld. Sie ist „zahlreicher als die Haare auf meinem Kopf“.
 > Vers 13–17 kommen fast genauso noch einmal als Psalm 70 vor.
-> Vers 17: „Ich bin arm und bedürftig“, aber „der Herr denkt an mich“. Auch wenn ich klein bin, vergisst Gott mich nicht.
+> Vers 17: „Ich aber bin arm und bedürftig. Der Herr möge an mich denken.“ Auch wenn ich klein bin, vergisst Gott mich nicht.

@@ -27,7 +27,7 @@ aber der Name der Gottlosen wird verfaulen.
 > Die Sprüche stehen meist einzeln. Man kann jeden für sich lesen und darüber nachdenken. Die Überschriften in dieser Übertragung fassen nur grob zusammen.
 > Vers 1: Was Kinder tun, betrifft auch die Eltern. Hier werden Vater und Mutter genannt.
 > Vers 4–5: Fleiß lohnt sich meistens. Aber wie schon in der Einleitung gesagt: Sprüche beschreiben das Normale, nicht jeden Einzelfall. Nicht jeder Arme ist faul.
-> Vers 7: Gute Menschen bleiben in guter Erinnerung. „Sein Andenken sei zum Segen“ ist bis heute ein jüdischer Spruch für Verstorbene.
+> Vers 7: Gute Menschen bleiben in guter Erinnerung: „Das Andenken an den Gerechten ist ein Segen.“ Bis heute sagen Juden über Verstorbene: Sein Andenken sei zum Segen.
 
 ---
 

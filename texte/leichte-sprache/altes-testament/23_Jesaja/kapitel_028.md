@@ -64,7 +64,7 @@ zerbrochen, verstrickt und gefangen werden.
 
 > **Was bedeutet das?**
 > Vers 7–8: Sogar die Priester und Propheten in Jerusalem sind betrunken. Ihre Tische sind voller Erbrochenem. Wie sollen sie da Gottes Willen erkennen?
-> Vers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: „Zaw la-zaw, kaw la-kaw“. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“, so steht es auch hier im Text. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.
+> Vers 9–10: Die Betrunkenen spotten über Jesaja: Er redet mit uns wie mit kleinen Kindern! Im Hebräischen klingt Vers 10 wie Babysprache: *zaw la-zaw, kaw la-kaw*. Die englische Vorlage übersetzt es mit „Gebot auf Gebot, Zeile auf Zeile“, so steht es auch hier im Text. Wahrscheinlich ahmen die Spötter Jesajas Predigt nach wie Kinderlallen.
 > Vers 11–13: Jesajas Antwort: Wenn ihr nicht auf mich hört, dann wird Gott zu euch in einer fremden Sprache reden, nämlich durch die assyrischen Soldaten. Dann versteht ihr nur noch Kauderwelsch.
 > Vers 12: Dabei hatte Gott ihnen eigentlich Ruhe angeboten: „Gebt den Müden Ruhe!“ Gottes Weg wäre einfach gewesen.
 

@@ -95,5 +95,5 @@ das Erbe, das Gott ihm bestimmt hat.“
 > **Was bedeutet das?**
 > Zofar beschreibt Gottes Strafe für den Gottlosen in grellen Bildern: Gottes Zorn regnet auf ihn, Pfeile durchbohren ihn, Feuer verzehrt ihn.
 > „Ein Feuer, das niemand angefacht hat“: Ein Feuer von Gott, vielleicht ein Blitz. Das erinnert an Kapitel 1,16, als „Feuer Gottes“ Hiobs Schafe verbrannte. Zofar zielt wieder auf Hiob.
-> Vers 27: Himmel und Erde treten als Zeugen gegen ihn auf. Hiob hatte gesagt: „Mein Zeuge ist im Himmel“ (Kapitel 16,19). Zofar antwortet: Der Himmel wird gegen dich zeugen!
+> Vers 27: Himmel und Erde treten als Zeugen gegen ihn auf. Hiob hatte gesagt: „Schon jetzt, schaut, ist mein Zeuge im Himmel“ (16,19). Zofar antwortet: Der Himmel wird gegen dich zeugen!
 > Das ist Zofars letzte Rede. In der dritten Runde wird er nicht mehr sprechen. Vielleicht ist ihm nichts mehr eingefallen.

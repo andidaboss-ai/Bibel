@@ -91,9 +91,9 @@ Ich werde das Schwert über dich bringen.
 Ich, der HERR, habe es gesagt.‘“
 
 > **Was bedeutet das?**
-> Vers 5: Jerusalem liegt „mitten unter den Völkern“. Es sollte ein Vorbild sein, ein Licht für die anderen Völker. Aber Jerusalem hat sich sogar schlimmer verhalten als die Nachbarn.
+> Vers 5: Gott sagt über Jerusalem: „Ich habe es mitten unter die Völker gesetzt.“ Es sollte ein Vorbild sein, ein Licht für die anderen Völker. Aber Jerusalem hat sich sogar schlimmer verhalten als die Nachbarn.
 > Vers 9–10: Diese Worte sind schrecklich. Bei langen Belagerungen kam es tatsächlich zu so furchtbarem Hunger, dass Menschen zu Kannibalen wurden (vgl. Klagelieder 2,20; 4,10). Hesekiel beschreibt die Katastrophe, die kommen wird, ohne etwas zu beschönigen.
-> Vers 11–13: Gott spricht hier sehr hart: „Ich werde kein Mitleid haben.“ Solche Worte zeigen, wie ernst Gott Unrecht nimmt. Sie stehen aber nicht allein: Später im Buch sagt Gott: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern dass er umkehrt und lebt“ (Hesekiel 18,23; 33,11).
+> Vers 11–13: Gott spricht hier sehr hart: „Ich werde kein Mitleid haben.“ Solche Worte zeigen, wie ernst Gott Unrecht nimmt. Sie stehen aber nicht allein: Später im Buch sagt Gott: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern daran, dass der Gottlose umkehrt von seinem Weg und lebt“ (Hesekiel 33,11; vgl. 18,23).
 > Wichtig: Diese Texte beschreiben Gottes Gericht in einer bestimmten Situation. Sie geben niemandem das Recht, anderen Menschen Gewalt anzutun oder Leid als „Strafe Gottes“ zu deuten.
 > Vers 13: „Ich werde mich trösten“ – das WEB hat „I will be comforted“. Gemeint ist: Gottes Zorn kommt zur Ruhe.
 

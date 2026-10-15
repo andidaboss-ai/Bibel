@@ -30,5 +30,5 @@ Lass die Werke deiner Hände nicht im Stich!
 > Ein Dankpsalm. Gott hat ein Gebet erhört.
 > Vers 1: „Vor den Göttern“: Andere Völker verehrten viele Götter. David singt mitten unter ihnen mutig für den einen Gott.
 > Vers 6: Gott ist ganz oben, aber er schaut nach ganz unten, auf die Kleinen und Schwachen. Den Hochmütigen dagegen bleibt er fern.
-> Vers 8: „Der HERR wird es vollenden“: Was Gott angefangen hat, bringt er auch zu Ende. Ich bin ein Werk seiner Hände. Er lässt mich nicht halbfertig liegen.
+> Vers 8: „Der HERR wird es für mich vollenden“: Was Gott angefangen hat, bringt er auch zu Ende. Ich bin ein Werk seiner Hände. Er lässt mich nicht halbfertig liegen.
 

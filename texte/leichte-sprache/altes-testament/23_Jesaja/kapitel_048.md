@@ -47,7 +47,7 @@ Ich werde meine Ehre keinem anderen geben.
 
 > **Was bedeutet das?**
 > Vers 1–2: Gott spricht ehrlich mit seinem Volk: Ihr nennt euch fromm und sprecht von Gott, aber euer Leben passt nicht dazu.
-> Vers 4–5: Israel ist stur, „ein eiserner Nacken, eine Stirn aus Bronze“. Darum hat Gott die Ereignisse lange vorher angekündigt. So konnte niemand sagen: „Das hat mein Götze gemacht.“
+> Vers 4–5: Israel ist stur. Gott sagt: Ich wusste, „dass du hartnäckig bist und dein Nacken eine eiserne Sehne ist und deine Stirn aus Bronze“. Darum hat Gott die Ereignisse lange vorher angekündigt. So konnte niemand sagen: „Mein Götze hat es getan.“
 > Vers 6–7: Jetzt aber tut Gott etwas ganz Neues, die Befreiung aus Babylon. Das konnte niemand vorher wissen.
 > Vers 10: Das Exil war wie ein Schmelzofen. Dort wird Metall von Schlacke gereinigt. Das Leid war schwer, aber Gott hat sein Volk darin nicht verlassen: „Im Schmelzofen des Elends habe ich dich erwählt.“
 > Vers 9 und 11: Gott rettet sein Volk nicht, weil es so gut ist, sondern „um meinetwillen“, weil er treu zu sich selbst und zu seinem Wort steht.
@@ -104,7 +104,7 @@ Er spaltete den Felsen, und das Wasser strömte heraus.
 [22] „Es gibt keinen Frieden“, spricht der HERR, „für die Gottlosen.“
 
 > **Was bedeutet das?**
-> Vers 18: Ein trauriger und zugleich zärtlicher Satz Gottes: „Ach, hättest du doch auf mich gehört! Dann wäre dein Frieden wie ein Strom.“ Gott will Gutes für sein Volk. Seine Gebote sollen zum Leben helfen.
+> Vers 18: Ein trauriger und zugleich zärtlicher Satz Gottes: „Ach, hättest du doch auf meine Gebote geachtet! Dann wäre dein Frieden wie ein Strom.“ Gott will Gutes für sein Volk. Seine Gebote sollen zum Leben helfen.
 > Vers 20–21: Der Ruf zum Aufbruch: „Zieht aus Babel!“ Wie damals beim Auszug aus Ägypten wird Gott sein Volk durch die Wüste führen und ihm Wasser aus dem Felsen geben.
 > Vers 22: Dieser Satz schließt den ersten Teil des Trostbuchs ab (er kehrt in Kapitel 57,21 wieder). Wer sich gegen Gott stellt, findet keinen inneren Frieden.
 

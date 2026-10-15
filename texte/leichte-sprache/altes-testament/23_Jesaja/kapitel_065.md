@@ -131,7 +131,7 @@ auf meinem ganzen heiligen Berg“, spricht der HERR.
 
 > **Was bedeutet das?**
 > Das ist eine der größten Hoffnungen der Bibel: Gott schafft einen neuen Himmel und eine neue Erde.
-> Vers 19: Kein Weinen und kein Klagen mehr. Die Offenbarung nimmt das auf: „Gott wird alle Tränen abwischen“ (21,1–4).
+> Vers 19: Kein Weinen und kein Klagen mehr. Die Offenbarung nimmt das auf: „Er wird jede Träne von ihren Augen abwischen“ (Offenbarung 21,4).
 > Vers 20: Kein Baby stirbt mehr früh. Alle Menschen leben lange. Wer mit hundert Jahren stirbt, gilt noch als jung. Für alle Eltern, die ein Kind verloren haben, ist das eine tröstliche Hoffnung.
 > Vers 21–23: Keine Ausbeutung mehr: Wer ein Haus baut, wohnt auch darin. Wer pflanzt, isst auch die Früchte. Niemand arbeitet umsonst.
 > Vers 24: Gott antwortet schon, bevor man ruft.

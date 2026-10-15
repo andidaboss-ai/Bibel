@@ -81,8 +81,8 @@ Wir werden angesehen wie Schafe zum Schlachten.
 
 > **Was bedeutet das?**
 > Das ist das Besondere an Psalm 44: Das Volk sagt, wir sind unschuldig. Wir haben nicht gesündigt. Und trotzdem leiden wir. Es ist wie Hiob, aber für ein ganzes Volk.
-> Vers 22: „Um deinetwillen werden wir getötet“: Sie leiden gerade, weil sie zu Gott gehören.
-> Paulus zitiert Vers 22 in Römer 8,36 und antwortet: „Nichts kann uns trennen von der Liebe Gottes.“
+> Vers 22: „Um deinetwillen werden wir den ganzen Tag getötet“: Sie leiden gerade, weil sie zu Gott gehören.
+> Paulus zitiert Vers 22 in Römer 8,36. Dann antwortet er: Nichts „kann uns trennen von der Liebe Gottes, die in Christus Jesus ist“ (Römer 8,39).
 > Viele Juden haben diesen Vers in Zeiten der Verfolgung gebetet, bis hin zur Schoa (dem Holocaust).
 
 ---

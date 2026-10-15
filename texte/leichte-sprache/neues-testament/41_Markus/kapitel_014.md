@@ -55,7 +55,7 @@ zur Erinnerung an sie.“
 > **Was bedeutet das?**
 > Nardenöl wurde aus einer Pflanze aus dem fernen Himalaya gewonnen. Es war sehr teuer. Dreihundert Denare waren etwa der Lohn für ein ganzes Jahr Arbeit.
 > Die Frau salbt Jesus wie einen König. „Christus“ heißt „der Gesalbte“. Sie hat verstanden, was die Jünger noch nicht verstehen: Jesus wird bald sterben.
-> Vers 7: Jesus sagt nicht, dass Arme unwichtig sind. Er erinnert an 5. Mose 15,11: Weil es immer Arme gibt, sollst du ihnen helfen. „Wann immer ihr wollt, könnt ihr ihnen Gutes tun“ steht nur bei Markus.
+> Vers 7: Jesus sagt nicht, dass Arme unwichtig sind. Er erinnert an 5. Mose 15,11: Weil es immer Arme gibt, sollst du ihnen helfen. „Wann immer ihr wollt, könnt ihr ihnen Gutes tun“ (14,7) steht nur bei Markus.
 > Vers 9: Jesus verspricht, dass man sich überall an diese Frau erinnern wird. Ihr Name wird bei Markus nicht genannt.
 
 ---
@@ -135,7 +135,7 @@ Es wäre besser für diesen Menschen,
 wenn er nicht geboren wäre.“
 
 > **Was bedeutet das?**
-> Gemeinsam essen war ein Zeichen von Freundschaft und Vertrauen. Umso schmerzhafter ist der Verrat. Das erinnert an Psalm 41,10 (in englischen Bibeln 41,9): „Auch mein Freund, der mein Brot aß, hat sich gegen mich erhoben.“
+> Gemeinsam essen war ein Zeichen von Freundschaft und Vertrauen. Umso schmerzhafter ist der Verrat. Das erinnert an Psalm 41,9 (in vielen deutschen Bibeln 41,10): „Sogar mein vertrauter Freund, … der mein Brot mit mir aß, hat seine Ferse gegen mich erhoben.“ Das heißt: Er hat sich gegen mich gestellt.
 > Alle Jünger fragen: „Bin ich es?“ Jeder weiß, dass er schwach sein kann.
 > Vers 19: Die Worte „Und ein anderer: ‚Ich bin es doch nicht?‘“ fehlen in vielen alten Handschriften. Das WEB hat sie.
 
@@ -296,7 +296,7 @@ und floh nackt davon.
 
 > **Was bedeutet das?**
 > Ein Kuss war damals ein üblicher Gruß, auch von Schülern für ihren Lehrer. Judas missbraucht dieses Zeichen der Freundschaft.
-> Vers 47: Bei Markus wird nicht gesagt, wer das Schwert zog. In Johannes 18,10 ist es Petrus. Bei Matthäus sagt Jesus dazu: „Wer das Schwert nimmt, wird durch das Schwert umkommen“ (Matthäus 26,52). Jesus will keine Gewalt.
+> Vers 47: Bei Markus wird nicht gesagt, wer das Schwert zog. In Johannes 18,10 ist es Petrus. Bei Matthäus sagt Jesus dazu: „Alle, die das Schwert nehmen, werden durch das Schwert umkommen“ (Matthäus 26,52). Jesus will keine Gewalt.
 > Vers 50: Alle Jünger fliehen. Jesus ist ganz allein.
 > Vers 51–52 erzählt nur Markus. Wer dieser junge Mann war, weiß man nicht. Manche vermuten, es war Markus selbst. Das ist aber nicht sicher. Die Szene zeigt: Alle verlassen Jesus, so schnell, dass einer sogar sein Gewand zurücklässt.
 

@@ -53,7 +53,7 @@ dass das vergossene Blut deiner Knechte gerächt wird.
 
 > **Was bedeutet das?**
 > Vers 8–9: Das Volk bekennt seine Schuld und bittet um Vergebung. Es beruft sich nicht auf eigene Verdienste, sondern auf Gottes Namen und Ehre.
-> Vers 10: Die Völker spotten: „Wo ist denn euer Gott?“ Es geht um Gottes Ruf in der Welt.
+> Vers 10: Die Völker spotten: „Wo ist ihr Gott?“ Es geht um Gottes Ruf in der Welt.
 > „Das Blut gerächt“: Der Beter überlässt die Gerechtigkeit Gott. Er nimmt nicht selbst Rache.
 
 ---

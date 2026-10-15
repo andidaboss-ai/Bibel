@@ -31,7 +31,7 @@ und was holprig ist, soll ein ebener Weg werden.
 > „Herodes“ ist hier Herodes Antipas, ein Sohn von Herodes dem Großen. „Landesfürst“ (WEB: „tetrarch“) heißt: Herrscher über einen Teil eines Landes.
 > Hannas war früher Hoherpriester gewesen. Sein Schwiegersohn Kajaphas war es zu dieser Zeit (vergleiche Johannes 18,13). Hannas hatte aber weiter großen Einfluss.
 > Das Wort Gottes kommt zu Johannes wie zu den Propheten im Alten Testament.
-> Vers 4–6 zitieren Jesaja 40,3–5. Nur Lukas zitiert auch: „Alle Menschen werden Gottes Rettung sehen.“ Das ist ein Lieblingsgedanke von Lukas: Gottes Rettung gilt allen.
+> Vers 4–6 zitieren Jesaja 40,3–5. Nur Lukas zitiert auch: „Alle Menschen werden Gottes Rettung sehen“ (3,6). Das ist ein Lieblingsgedanke von Lukas: Gottes Rettung gilt allen.
 
 ---
 
@@ -132,7 +132,7 @@ An dir habe ich Freude.“
 > Jesus lässt sich taufen, mitten unter dem ganzen Volk. Er stellt sich zu den Menschen.
 > Nur Lukas erwähnt: Jesus betet. Bei Lukas betet Jesus oft, besonders vor wichtigen Ereignissen.
 > Die Stimme Gottes sagt: „Du bist mein geliebter Sohn.“ Das erinnert an Psalm 2,7 und Jesaja 42,1.
-> Einige alte Handschriften haben in Vers 22: „Du bist mein Sohn, heute habe ich dich gezeugt“ (wie Psalm 2,7). Das WEB folgt der anderen Lesart.
+> Einige alte Handschriften haben in Vers 22 die Worte aus Psalm 2,7: „Du bist mein Sohn. Heute bin ich dein Vater geworden.“ Das WEB folgt der anderen Lesart.
 
 ---
 

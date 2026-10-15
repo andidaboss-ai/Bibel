@@ -116,7 +116,7 @@ wie das Herz einer Frau in Wehen.
 > **Was bedeutet das?**
 > Edom lag südlich des Toten Meeres. Die Edomiter waren Nachkommen Esaus, des Bruders Jakobs. Teman und Bozra waren wichtige Städte. Edom war berühmt für seine Weisheit (vgl. Hiob 2,11) und für seine Bergfestungen in den Felsen.
 > Vers 9–10: Selbst Winzer und Diebe lassen etwas übrig. Aber bei Edom wird nichts übrig bleiben.
-> Vers 11 ist ein überraschend zärtlicher Vers mitten im Gericht: „Lass deine Waisen zurück, ich werde sie am Leben erhalten. Deine Witwen sollen auf mich vertrauen.“ Gott sorgt für die Schwächsten, auch im feindlichen Volk.
+> Vers 11 ist ein überraschend zärtlicher Vers mitten im Gericht: „Lass deine Waisen zurück, ich werde sie am Leben erhalten. Und deine Witwen sollen auf mich vertrauen.“ Gott sorgt für die Schwächsten, auch im feindlichen Volk.
 > Vers 16: Edom fühlte sich in seinen Felsenstädten sicher wie ein Adler im Nest. Aber Hochmut täuscht.
 > Viele Verse hier ähneln dem kleinen Buch Obadja, das ganz von Edom handelt.
 
@@ -212,6 +212,6 @@ dass ich das Geschick Elams wenden werde‘, spricht der HERR.“
 > **Was bedeutet das?**
 > Elam lag weit im Osten, im heutigen Iran. Die Elamiter waren berühmt als Bogenschützen.
 > Vers 38: „Ich werde meinen Thron in Elam aufstellen“: Gott ist Herr auch über die fernsten Länder.
-> Vers 39: Und wieder am Ende: „Ich werde das Geschick Elams wenden.“ In der Apostelgeschichte (2,9) sind beim Pfingstfest auch „Elamiter“ dabei, die Gottes große Taten in ihrer eigenen Sprache hören.
+> Vers 39: Und wieder am Ende: Gott wird „das Geschick Elams wenden“. In der Apostelgeschichte (2,9) sind beim Pfingstfest auch „Elamiter“ dabei, die Gottes große Taten in ihrer eigenen Sprache hören.
 > Insgesamt zeigt Kapitel 49: Gott ist der Herr aller Völker. Er richtet Hochmut und Unrecht überall, aber er verspricht auch fremden Völkern eine Zukunft (Vers 6 und 39).
 

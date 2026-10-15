@@ -31,7 +31,7 @@ Ich will dich loben mit der Harfe, Gott, mein Gott.
 
 > **Was bedeutet das?**
 > Jetzt kommt eine neue Bitte: Gott soll sein Licht und seine Wahrheit schicken, wie zwei Begleiter, die den Beter an der Hand nehmen und nach Hause zum Tempel führen.
-> Vers 4: „Gott, meine überströmende Freude“: Das ist das Ziel der Sehnsucht. Nicht nur der Tempel, sondern Gott selbst ist die größte Freude.
+> Vers 4: „Zu Gott, meiner überströmenden Freude“: Das ist das Ziel der Sehnsucht. Nicht nur der Tempel, sondern Gott selbst ist die größte Freude.
 
 ---
 

@@ -34,7 +34,7 @@ und dein Recht wie die Mittagssonne.
 Ärgere dich nicht, es führt nur zum Bösen.
 
 > **Was bedeutet das?**
-> Vers 4: „Hab deine Lust am HERRN“: Wenn Gott meine größte Freude ist, dann werden auch meine Wünsche so, dass Gott sie gerne erfüllt.
+> Vers 4: „Hab auch deine Lust am HERRN“: Wenn Gott meine größte Freude ist, dann werden auch meine Wünsche so, dass Gott sie gerne erfüllt.
 > Vers 5 ist sehr bekannt: „Befiehl dem HERRN deinen Weg.“ Wörtlich: „Wälze deinen Weg auf den HERRN“, wie man eine schwere Last auf jemanden anderen rollt. Das Lied „Befiehl du deine Wege“ von Paul Gerhardt beruht auf diesem Vers.
 > Vers 7–8: Ärger und Neid fressen einen innerlich auf und verleiten selbst zum Bösen. Besser ist es, still zu werden und Gott zu vertrauen.
 
@@ -60,7 +60,7 @@ um die zu töten, die auf dem Weg aufrichtig sind.
 Ihre Bogen werden zerbrochen.
 
 > **Was bedeutet das?**
-> Vers 11: „Die Demütigen werden das Land erben“: Jesus greift das in der Bergpredigt auf: „Selig sind die Sanftmütigen, denn sie werden das Erdreich besitzen“ (Matthäus 5,5).
+> Vers 11: „Die Demütigen werden das Land erben“: Jesus greift das in der Bergpredigt auf: „Selig sind die Sanftmütigen, denn sie werden die Erde erben“ (Matthäus 5,5).
 > Die Gewalt der Bösen wendet sich am Ende gegen sie selbst (Vers 15).
 
 ---

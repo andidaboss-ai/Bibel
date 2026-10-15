@@ -40,6 +40,6 @@ Lobt Jah!
 > Diese Verse sind schwierig. Nach Freude und Tanz ist plötzlich von Schwert und Rache die Rede.
 > Der Psalm stammt aus einer Zeit, in der Israel von großen Reichen unterdrückt wurde. Er drückt die Hoffnung aus: Gott wird die ungerechten Herrscher richten. Gemeint ist „das geschriebene Urteil“, also Gottes Gericht, nicht eigene Rachepläne.
 > Im Laufe der Geschichte wurden diese Verse leider missbraucht, um Krieg und Gewalt im Namen Gottes zu rechtfertigen. Das ist falsch.
-> Viele Juden und Christen verstehen das Schwert heute im übertragenen Sinn. Der Hebräerbrief nennt Gottes Wort „schärfer als ein zweischneidiges Schwert“ (Hebräer 4,12). Paulus spricht vom „Schwert des Geistes, das ist das Wort Gottes“ (Epheser 6,17).
-> Jesus sagt: „Steck dein Schwert weg! Denn alle, die das Schwert nehmen, werden durch das Schwert umkommen“ (Matthäus 26,52). Gewalt im Namen Gottes ist kein Weg.
+> Viele Juden und Christen verstehen das Schwert heute im übertragenen Sinn. Der Hebräerbrief nennt Gottes Wort „schärfer als jedes zweischneidige Schwert“ (Hebräer 4,12). Paulus spricht vom „Schwert des Geistes, das ist das Wort Gottes“ (Epheser 6,17).
+> Jesus sagt: „Steck dein Schwert zurück an seinen Platz! Denn alle, die das Schwert nehmen, werden durch das Schwert umkommen“ (Matthäus 26,52). Gewalt im Namen Gottes ist kein Weg.
 

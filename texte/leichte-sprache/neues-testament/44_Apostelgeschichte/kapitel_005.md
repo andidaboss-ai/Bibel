@@ -66,7 +66,7 @@ die davon hörten.
 
 > **Was bedeutet das?**
 > Vers 4 ist wichtig: Hananias musste nichts abgeben. Das Land und das Geld gehörten ihm. Das Teilen in der Gemeinde war freiwillig. Sein Fehler war nicht, dass er etwas behielt, sondern dass er log. Er wollte so tun, als hätte er alles gegeben.
-> Vers 3: „Der Satan hat dein Herz erfüllt“: Das erinnert an Judas (Lukas 22,3).
+> Vers 3: „Hananias, warum hat der Satan dein Herz erfüllt?“ Das erinnert an Judas (Lukas 22,3).
 > Vers 5 und 10: Warum die beiden sterben, sagt der Text nicht genau. Er sagt nicht, dass Petrus sie tötet. Viele Ausleger sehen darin eine Warnung an die junge Gemeinde: Ehrlichkeit vor Gott ist wichtig.
 > Vers 11: Hier steht zum ersten Mal in der Apostelgeschichte das Wort „Gemeinde“ (griechisch „ekklesia“). Daher kommt das Wort „Kirche“ in vielen Sprachen.
 > Für heute: Gott braucht keine Show. Ehrlichkeit ist wichtiger als großer Schein.
@@ -156,7 +156,7 @@ dass das Volk sie steinigen würde.
 > **Was bedeutet das?**
 > Vers 17: Wieder ist es die Partei der Sadduzäer, eine kleine Gruppe der Mächtigen. Das Volk steht auf der Seite der Apostel (Vers 26).
 > Vers 19: Gott lässt sich nicht einsperren. Und seine Boten auch nicht.
-> Vers 20: „Die Worte dieses Lebens“: Die gute Nachricht von Jesus bringt Leben.
+> Vers 20: „Alle Worte dieses Lebens“: Die gute Nachricht von Jesus bringt Leben.
 
 ---
 

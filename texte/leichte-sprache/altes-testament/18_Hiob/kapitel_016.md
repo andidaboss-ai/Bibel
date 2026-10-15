@@ -60,7 +60,7 @@ und mein Gebet rein ist.
 > Hiob beschreibt sein Leid in starken Bildern: Gott ist wie ein wildes Tier, das ihn zerreißt. Wie ein Krieger, der ihn angreift. Wie ein Bogenschütze, der ihn als Zielscheibe benutzt. Wie ein Heer, das eine Stadtmauer durchbricht.
 > Auch die Menschen verspotten ihn und schlagen ihn auf die Wange.
 > „Das Horn in den Staub stoßen“: Das Horn ist ein Bild für Kraft und Ehre. Hiob hat alle Würde verloren.
-> Vers 17 ist der Kern: „Keine Gewalt ist in meinen Händen, mein Gebet ist rein.“ Hiob bleibt dabei: Ich bin unschuldig.
+> Vers 17 ist der Kern: Hiob leidet, „obwohl keine Gewalt in meinen Händen ist und mein Gebet rein ist“. Er bleibt dabei: Ich bin unschuldig.
 > Manche Worte in Vers 10 erinnern Christen an die Leiden Jesu, der auch verspottet und geschlagen wurde, obwohl er unschuldig war (Matthäus 26,67).
 
 ---
@@ -80,7 +80,7 @@ dann gehe ich den Weg, von dem ich nicht zurückkehre.
 
 > **Was bedeutet das?**
 > „Erde, bedecke mein Blut nicht“: Unschuldig vergossenes Blut schreit zum Himmel (vgl. Abel in 1. Mose 4,10). Hiob will, dass sein Schrei nicht verstummt, auch wenn er stirbt.
-> Vers 19 ist ein großer Glaubenssatz: „Mein Zeuge ist im Himmel.“ Mitten in der tiefsten Verzweiflung glaubt Hiob: Im Himmel ist jemand, der für mich eintritt. In Kapitel 9,33 hatte er sich einen Schiedsrichter gewünscht. Jetzt sagt er: Es gibt ihn!
+> Vers 19 ist ein großer Glaubenssatz: „Schon jetzt, schaut, ist mein Zeuge im Himmel.“ Mitten in der tiefsten Verzweiflung glaubt Hiob: Im Himmel ist jemand, der für mich eintritt. In Kapitel 9,33 hatte er sich einen Schiedsrichter gewünscht. Jetzt sagt er: Es gibt ihn!
 > Wer ist dieser Zeuge? Vielleicht Gott selbst. Dann würde Hiob an Gott gegen Gott appellieren: an den Gott, der gerecht ist, gegen den Gott, der ihn scheinbar quält.
-> Vers 21: Er soll „das Recht eines Mannes bei Gott verteidigen“, wie ein Anwalt.
+> Vers 21: Er soll „das Recht eines Mannes bei Gott“ verteidigen, wie ein Anwalt.
 > Christen sehen hier einen Hinweis auf Jesus, der „für uns eintritt“ bei Gott (Römer 8,34; Hebräer 7,25; 1. Johannes 2,1).

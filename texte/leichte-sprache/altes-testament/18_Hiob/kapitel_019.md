@@ -90,7 +90,7 @@ damit ihr erkennt, dass es ein Gericht gibt.“
 
 > **Was bedeutet das?**
 > Hiob wünscht sich, dass seine Worte für immer erhalten bleiben, in Stein gemeißelt. Damit spätere Generationen wissen, dass er unschuldig war. Sein Wunsch hat sich erfüllt: Seine Worte stehen in der Bibel und werden seit Jahrtausenden gelesen.
-> Vers 25–27 gehört zu den berühmtesten Versen der ganzen Bibel: „Ich weiß, dass mein Erlöser lebt.“
+> Vers 25–27 gehört zu den berühmtesten Versen der ganzen Bibel: „Ich aber, ich weiß: Mein Erlöser lebt.“
 > Ein „Erlöser“ (hebräisch „Goël“) war in Israel ein naher Verwandter, der für einen Menschen in Not eintrat. Er kaufte ihn aus der Sklaverei frei, löste sein Land zurück oder sorgte für sein Recht (vgl. 3. Mose 25,25; Rut 4).
 > Hiob ist von allen verlassen. Aber er glaubt: Es gibt einen, der für mich eintritt. Er lebt. Und am Ende wird er auftreten.
 > „In meinem Fleisch Gott sehen“: Hiob hofft, Gott selbst zu sehen, nicht als Fremden, sondern auf seiner Seite. Ob er das vor oder nach seinem Tod meint, ist im Hebräischen nicht ganz klar.

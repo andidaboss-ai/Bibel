@@ -44,7 +44,7 @@ Wird er nicht jedem nach seinem Tun vergelten?
 
 > **Was bedeutet das?**
 > Das ist einer der eindringlichsten Aufrufe der Bibel: Wenn Menschen in Lebensgefahr sind, dann greif ein! Schau nicht weg!
-> Vers 12: Die Ausrede „Das haben wir nicht gewusst“ zählt vor Gott nicht. Er weiß, was wir wussten.
+> Vers 12: Die Ausrede „Wir haben das nicht gewusst“ zählt vor Gott nicht. Er weiß, was wir wussten.
 > Nach dem Holocaust haben viele Menschen in Deutschland gesagt: „Wir haben nichts gewusst.“ Dieser Vers ist eine bleibende Mahnung, Unrecht nicht zu übersehen. Er gilt bis heute, überall, wo Menschen verfolgt, misshandelt oder getötet werden.
 
 ---
@@ -103,7 +103,7 @@ Ich will jedem nach seinem Tun vergelten.“
 > Vers 23–25: Ein Richter muss gerecht sein und darf niemanden bevorzugen. Wer Schuldige freispricht, verliert das Vertrauen aller.
 > Vers 26: Ein schönes Bild: Eine ehrliche Antwort ist ein Zeichen von Freundschaft, wie ein Kuss.
 > Vers 27: Erst die Grundlage schaffen, dann bauen. Erst für das Einkommen sorgen, dann ein Haus bauen oder eine Familie gründen.
-> Vers 29: „Wie du mir, so ich dir“ ist kein guter Grundsatz. Rache ist nicht unsere Sache (vgl. Kapitel 20,22).
+> Vers 29: „Wie er mir getan hat, so will ich ihm tun“: Das ist kein guter Grundsatz. Rache ist nicht unsere Sache (vgl. Kapitel 20,22).
 
 ---
 

@@ -134,7 +134,7 @@ spricht der HERR der Heere.‘
 > Der „Becher des Zornweins“ ist ein Bild: Wer daraus trinkt, taumelt wie ein Betrunkener. Gemeint ist das Unheil des Krieges, das über viele Völker kommt.
 > Vers 18–26: Eine lange Liste von Völkern rund um Israel: Ägypten, die Philister, Edom, Moab, Ammon, Tyrus, Sidon, arabische Stämme, Elam und Medien im Osten. Alle werden die Macht Babylons zu spüren bekommen.
 > Vers 26: „Scheschach“ ist ein Geheimname für Babel. Man vertauschte dabei die Buchstaben des hebräischen Alphabets: den ersten mit dem letzten, den zweiten mit dem vorletzten und so weiter. So wird aus „Babel“ „Scheschach“. Babel kommt als letztes dran.
-> Vers 29: Wenn Gott schon bei seiner eigenen Stadt mit dem Gericht anfängt, dann werden die anderen Völker erst recht nicht verschont. (Vgl. 1. Petrus 4,17: „Das Gericht beginnt am Haus Gottes.“)
+> Vers 29: Wenn Gott schon bei seiner eigenen Stadt mit dem Gericht anfängt, dann werden die anderen Völker erst recht nicht verschont. (Vgl. 1. Petrus 4,17: „Die Zeit ist gekommen, dass das Gericht beim Haus Gottes beginnt.“)
 
 ---
 

@@ -23,7 +23,7 @@ so wird dein Ende sehr groß werden.
 > **Was bedeutet das?**
 > Bildad ist weniger höflich als Elifas. Er nennt Hiobs Worte „heftigen Wind“, also leeres Gerede.
 > Seine Frage in Vers 3 ist richtig: Gott beugt das Recht nicht. Aber seine Schlussfolgerung ist grausam:
-> Vers 4: „Wenn deine Kinder gesündigt haben, dann hat Gott sie bestraft.“ Er sagt einem Vater, der gerade alle Kinder verloren hat: Sie sind wohl selbst schuld an ihrem Tod. Das ist eine der härtesten Aussagen im ganzen Buch.
+> Vers 4: „Wenn deine Kinder gegen ihn gesündigt haben, dann hat er sie der Macht ihrer Übertretung übergeben.“ Das heißt: Gott hat sie bestraft. Bildad sagt einem Vater, der gerade alle Kinder verloren hat: Sie sind wohl selbst schuld an ihrem Tod. Das ist eine der härtesten Aussagen im ganzen Buch.
 > Niemand darf einem trauernden Menschen so etwas sagen. Bildad meint, Gott zu verteidigen. Aber er verletzt einen Menschen zutiefst.
 > Vers 7 ist ironisch: Am Ende des Buches wird Hiob tatsächlich mehr bekommen als vorher (Kapitel 42,12). Aber nicht, weil Bildad recht hatte.
 

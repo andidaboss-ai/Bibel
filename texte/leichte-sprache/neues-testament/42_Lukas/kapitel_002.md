@@ -90,7 +90,7 @@ wie es ihnen gesagt worden war.
 > **Was bedeutet das?**
 > Hirten waren damals einfache, arme Leute. Sie galten oft wenig. Gerade ihnen wird die gute Nachricht zuerst gesagt.
 > Vers 11: Der Engel nennt das Kind „Retter“, „Christus“ (Messias) und „Herr“. Diese Titel beanspruchte damals auch der römische Kaiser für sich. Lukas sagt: Der wahre Retter ist dieses arme Kind.
-> Vers 14: Das WEB sagt: „on earth peace, good will toward men“ (auf der Erde Frieden, den Menschen Wohlgefallen). Viele alte Handschriften haben stattdessen: „Frieden auf der Erde unter den Menschen seines Wohlgefallens“, also den Menschen, die Gott liebt.
+> Vers 14: Das WEB sagt: „auf der Erde Frieden, den Menschen Wohlgefallen“. Viele alte Handschriften haben hier eine andere Form. Dann heißt es: Frieden auf der Erde für die Menschen, die Gott liebt.
 > Vers 19: Maria denkt nach. Sie versteht noch nicht alles, aber sie bewahrt es im Herzen.
 > Diese Geschichte ist der Kern des Weihnachtsfestes. Christen auf der ganzen Welt lesen sie an Weihnachten.
 

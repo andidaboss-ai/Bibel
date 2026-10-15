@@ -47,7 +47,7 @@ Mit Schande und Spott sollen bedeckt werden, die mir schaden wollen.
 > **Was bedeutet das?**
 > Vers 9 ist ein bewegendes Gebet für alte Menschen: „Verlass mich nicht, wenn meine Kraft schwindet!“ Im Alter wird man schwächer und braucht mehr Hilfe.
 > Die Feinde denken: Er ist alt und schwach, Gott hat ihn verlassen. Jetzt können wir ihm alles nehmen.
-> Die Bibel sagt: Alte Menschen haben eine besondere Würde (3. Mose 19,32). Gott verlässt sie nicht (Jesaja 46,4: „Bis ins Alter bin ich derselbe, bis ihr grau werdet, will ich euch tragen“).
+> Die Bibel sagt: Alte Menschen haben eine besondere Würde (3. Mose 19,32). Gott verlässt sie nicht (Jesaja 46,4: „Auch bis ins Alter bin ich es, und bis zu den grauen Haaren will ich euch tragen“).
 
 ---
 

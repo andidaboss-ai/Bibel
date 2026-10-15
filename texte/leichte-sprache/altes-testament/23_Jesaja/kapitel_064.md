@@ -34,7 +34,7 @@ und uns vergehen lassen durch unsere Missetaten.
 
 > **Was bedeutet das?**
 > Vers 1: Ein leidenschaftlicher Ruf: „Ach, dass du den Himmel zerrissest und herabkämst!“ Das Volk sehnt sich danach, dass Gott selbst eingreift. Das Adventslied „O Heiland, reiß die Himmel auf“ nimmt diesen Vers auf. Christen sehen in der Geburt von Jesus die Antwort auf diesen Ruf.
-> Vers 4: Kein anderer Gott handelt für die, die auf ihn warten. Paulus zitiert diesen Vers frei: „Was kein Auge gesehen hat … was Gott denen bereitet hat, die ihn lieben“ (1. Korinther 2,9).
+> Vers 4: Kein anderer Gott handelt für die, die auf ihn warten. Paulus zitiert diesen Vers frei: „Was kein Auge gesehen hat … das hat Gott denen bereitet, die ihn lieben“ (1. Korinther 2,9).
 > Vers 6: Ein ehrliches Bekenntnis: Selbst unsere besten Taten sind wie ein schmutziges Kleid. Wir verwelken wie ein Blatt im Herbst.
 > Vers 7: Niemand hält sich mehr an Gott fest. Das Volk fühlt sich, als hätte Gott sich abgewendet.
 
@@ -58,8 +58,8 @@ Alles, was uns lieb war, ist verwüstet.
 Willst du schweigen und uns so sehr strafen?
 
 > **Was bedeutet das?**
-> Vers 8: Trotz allem: „Du bist unser Vater. Wir sind der Ton, du bist der Töpfer.“ Das Volk legt sich ganz in Gottes Hände. Ein Töpfer kann einen missratenen Topf neu formen. So kann Gott sein Volk neu machen.
+> Vers 8: Trotz allem: „Du bist unser Vater. Wir sind der Ton, und du bist unser Töpfer.“ Das Volk legt sich ganz in Gottes Hände. Ein Töpfer kann einen missratenen Topf neu formen. So kann Gott sein Volk neu machen.
 > Vers 9: „Wir alle sind dein Volk.“ Ein Appell an Gottes Treue.
-> Vers 10–11: Die Klage über das zerstörte Jerusalem und den verbrannten Tempel, „unser schönes Haus, in dem unsere Väter dich gelobt haben“.
+> Vers 10–11: Die Klage über das zerstörte Jerusalem und den verbrannten Tempel, „unser heiliges und schönes Haus, in dem unsere Väter dich gelobt haben“.
 > Vers 12: Das Gebet endet mit einer offenen Frage: Willst du schweigen? Im nächsten Kapitel antwortet Gott.
 

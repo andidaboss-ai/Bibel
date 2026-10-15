@@ -213,7 +213,7 @@ in der ihr es nicht erwartet.“
 
 > **Was bedeutet das?**
 > Vers 36 ist sehr wichtig: Niemand kennt den Tag. Nicht die Engel, nicht irgendein Mensch, nur Gott. Darum ist jede Berechnung eines Datums für das Weltende falsch.
-> Viele alte Handschriften haben in Vers 36 zusätzlich: „auch nicht der Sohn“. Das steht sicher in Markus 13,32. Das WEB hat es hier nicht.
+> Viele alte Handschriften haben in Vers 36 zusätzlich: „auch nicht der Sohn“ (vergleiche Markus 13,32). Bei Markus steht es sicher. Das WEB hat es hier nicht.
 > Vers 37–39: Die Menschen zur Zeit Noahs lebten ihren Alltag und rechneten nicht mit Gott (1. Mose 6–7). Essen, Trinken und Heiraten sind nicht schlecht. Aber man soll dabei Gott nicht vergessen.
 > Vers 40–41: Das Leben geht ganz normal weiter, und plötzlich ist es so weit. Manche Gruppen lehren daraus eine „Entrückung“, bei der Gläubige plötzlich verschwinden. Das ist eine bestimmte Deutung. Viele Kirchen teilen sie nicht.
 > Vers 41: Getreide mahlen war damals Frauenarbeit. Jesus nennt Männer und Frauen gleichermaßen.

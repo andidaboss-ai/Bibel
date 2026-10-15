@@ -199,7 +199,7 @@ und noch andere mit ihnen.
 > Vers 19: Der Areopag war ein Hügel in Athen und auch der Name des Rates, der dort tagte.
 > Vers 22–31: Paulus redet freundlich und klug. Er knüpft an das an, was die Athener kennen: an ihren Altar und ihre Dichter. Er beschimpft sie nicht.
 > Vers 26: „Aus einem Blut alle Völker“: Alle Menschen sind eine Familie. Das gilt gegen jeden Rassismus.
-> Vers 28: Hier zitiert Paulus griechische Dichter. Der Satz „Wir sind von seiner Art“ steht bei dem Dichter Aratos.
+> Vers 28: Hier zitiert Paulus griechische Dichter. Der Satz „Denn wir sind auch von seiner Art“ steht bei dem Dichter Aratos.
 > Vers 30–31: Paulus spricht vom Gericht und von der Auferstehung von Jesus, ohne den Namen zu nennen.
 > Vers 34: Damaris ist eine Frau, die mitten unter Philosophen zum Glauben kommt.
 > Für heute: Man kann mit Menschen anderer Weltanschauung respektvoll reden und dabei klar sagen, was man glaubt.

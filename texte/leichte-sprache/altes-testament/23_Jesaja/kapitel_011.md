@@ -90,7 +90,7 @@ an dem es aus dem Land Ägypten heraufzog.
 
 > **Was bedeutet das?**
 > Vers 10: Der neue König aus der „Wurzel Isais“ wird wie eine Fahne sein, die alle Völker anzieht. Paulus zitiert diesen Vers: Auch die Völker werden auf ihn hoffen (Römer 15,12).
-> Vers 11–12: Gott wird sein zerstreutes Volk aus allen Ländern zurückholen, aus allen „vier Ecken der Erde“. Patros ist Oberägypten, Kusch ist das heutige Sudan, Elam liegt im heutigen Iran, Schinar ist Babylonien.
+> Vers 11–12: Gott wird sein zerstreutes Volk aus allen Ländern zurückholen, „von den vier Enden der Erde“. Patros ist Oberägypten, Kusch ist das heutige Sudan, Elam liegt im heutigen Iran, Schinar ist Babylonien.
 > Vers 13: Das zerstrittene Volk, das Nordreich (Ephraim) und das Südreich (Juda), wird wieder versöhnt.
 > Vers 14: Hier spricht die Sprache der damaligen Zeit von Sieg über die Nachbarvölker. Das ist keine Erlaubnis für Eroberungen heute. Im Zusammenhang des Kapitels geht es um Gottes Friedensreich (Vers 6–9).
 > Vers 15–16: Wie damals beim Auszug aus Ägypten wird Gott einen Weg bahnen, einen neuen Exodus.

@@ -148,5 +148,5 @@ dass Gott den Völkern die Tür zum Glauben geöffnet hatte.
 > Vers 22: Christsein bewahrt nicht vor Schwierigkeiten. Aber Gott ist auch in schweren Zeiten da.
 > Vers 23: „Älteste“ waren die Leiter der Gemeinden. Daraus entstanden später die kirchlichen Ämter.
 > Vers 26: Damit endet die erste große Reise von Paulus. Sie dauerte wohl ein bis zwei Jahre.
-> Vers 27: „Gott hat den Völkern die Tür zum Glauben geöffnet“: Das ist der Kern dieser Reise.
+> Vers 27: Paulus und Barnabas erzählen, „dass Gott den Völkern die Tür zum Glauben geöffnet hatte“. Das ist der Kern dieser Reise.
 > Für heute: Eine Gemeinde freut sich gemeinsam über das, was Gott tut.

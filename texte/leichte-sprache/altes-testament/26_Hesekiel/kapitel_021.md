@@ -86,7 +86,7 @@ Ich, der HERR, habe es gesagt.“
 > **Was bedeutet das?**
 > Das ist ein wildes, schauriges Lied. Das Schwert wird geschärft und poliert, bis es blitzt. Man spürt die Angst und den Schrecken des kommenden Krieges.
 > Vers 10 und 13 gehören zu den schwierigsten Versen im ganzen Buch. Der hebräische Text ist hier kaum verständlich, und die Übersetzungen unterscheiden sich stark. Vielleicht ist gemeint: Das Zepter (die Rute) des Königs von Juda, „meines Sohnes“, kann gegen dieses Schwert nichts ausrichten.
-> Vers 12: „Auf die Hüfte schlagen“ war eine Geste großer Trauer und Verzweiflung.
+> Vers 12: „Schlag dir auf die Hüfte.“ Das war eine Geste großer Trauer und Verzweiflung.
 > Kriegslieder wie dieses sind keine Verherrlichung von Gewalt. Sie zeigen, wie furchtbar Krieg ist. Wer heute Krieg erlebt hat oder Bilder davon nicht loswird, kann Hilfe bekommen, zum Beispiel bei der Telefonseelsorge: 0800 111 0 111.
 
 ---
@@ -188,6 +188,6 @@ denn ich, der HERR, habe es gesagt.“‘“
 
 > **Was bedeutet das?**
 > Die Ammoniter haben sich vielleicht gefreut, dass der König von Babylon nach Jerusalem gezogen ist und nicht zu ihnen. Und sie haben Jerusalem verspottet. Aber auch sie werden gerichtet.
-> Vers 30: „Steck es wieder in die Scheide“ ist wahrscheinlich an das Schwert Babylons gerichtet: Wenn Babylon seinen Auftrag erfüllt hat, wird es selbst gerichtet werden, in seinem eigenen Land.
+> Vers 30: „Steck es wieder in seine Scheide!“ Das ist wahrscheinlich an das Schwert Babylons gerichtet: Wenn Babylon seinen Auftrag erfüllt hat, wird es selbst gerichtet werden, in seinem eigenen Land.
 > Diese Gerichtsworte über Völker sind keine Erlaubnis zu Hass gegen andere Völker. Sie zeigen, dass Gott der Herr der ganzen Geschichte ist und dass Unrecht und Hochmut überall Folgen haben.
 

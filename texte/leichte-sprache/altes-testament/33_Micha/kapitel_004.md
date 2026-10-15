@@ -33,7 +33,7 @@ Wir aber werden im Namen des HERRN, unseres Gottes, gehen
 für immer und ewig.
 
 > **Was bedeutet das?**
-> Direkt nach der Ankündigung „Zion wird wie ein Acker gepflügt“ (3,12) kommt eine der schönsten Friedensvisionen der Bibel.
+> Direkt nach der Ankündigung „Darum wird Zion euretwegen wie ein Acker gepflügt werden“ (3,12) kommt eine der schönsten Friedensvisionen der Bibel.
 > Vers 1–2: Am Ende der Zeit wird der Tempelberg zum Mittelpunkt der Welt. Nicht weil er der höchste Berg ist, sondern weil alle Völker dorthin kommen, um von Gott zu lernen. Sie kommen freiwillig, nicht gezwungen.
 > Vers 3: Gott wird Streit zwischen den Völkern schlichten. Dann braucht man keine Waffen mehr. Aus Schwertern werden Pflugscharen (der Teil des Pfluges, der die Erde aufreißt), aus Speeren Winzermesser. Waffen werden zu Werkzeugen für das Leben.
 > „Sie werden den Krieg nicht mehr lernen“: Es gibt keine Kriegsausbildung mehr.

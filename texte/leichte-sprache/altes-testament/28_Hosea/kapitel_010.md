@@ -46,7 +46,7 @@ und zu den Hügeln: „Fallt auf uns!“
 > Vers 2: „Ihr Herz ist geteilt.“ Sie wollen beides: ein bisschen Gott und ein bisschen Baal. Aber ein geteiltes Herz hält nicht.
 > Vers 5–6: Das goldene Kalb in Bethel (spöttisch „Bet-Awen“ = Haus des Unheils) wird von den Assyrern als Beute mitgenommen. Der Gott, auf den sie vertrauten, wird selbst weggeschleppt!
 > Vers 7: Ein starkes Bild: Der König treibt hilflos wie ein Zweig auf dem Wasser.
-> Vers 8: „Bedeckt uns! Fallt auf uns!“ So groß ist die Verzweiflung. Jesus sagt diese Worte auf dem Weg zum Kreuz (Lukas 23,30). Auch in der Offenbarung kommen sie vor (Offenbarung 6,16).
+> Vers 8: „Sie werden zu den Bergen sagen: ‚Bedeckt uns!‘ und zu den Hügeln: ‚Fallt auf uns!‘“ So groß ist die Verzweiflung. Jesus sagt diese Worte auf dem Weg zum Kreuz (Lukas 23,30). Auch in der Offenbarung kommen sie vor (Offenbarung 6,16).
 
 ---
 
@@ -84,7 +84,7 @@ Bei Tagesanbruch wird der König Israels völlig vernichtet werden.“
 
 > **Was bedeutet das?**
 > Vers 11: Israel war wie eine junge Kuh, die gern drischt. Beim Dreschen durfte die Kuh fressen (5. Mose 25,4); eine angenehme Arbeit. Jetzt muss sie das schwere Joch des Pfluges tragen.
-> Vers 12: Ein wunderschöner Aufruf: „Sät Gerechtigkeit, erntet Güte! Pflügt euch einen Neubruch!“ Ein Neubruch ist ein Feld, das lange brach lag und hart geworden ist. Man muss es aufbrechen, damit wieder etwas wachsen kann. So soll das Volk sein hartes Herz aufbrechen und neu anfangen. Vgl. Jeremia 4,3.
+> Vers 12: Ein wunderschöner Aufruf: „Sät euch Gerechtigkeit, erntet nach dem Maß der Güte! Pflügt euch einen Neubruch!“ Ein Neubruch ist ein Feld, das lange brach lag und hart geworden ist. Man muss es aufbrechen, damit wieder etwas wachsen kann. So soll das Volk sein hartes Herz aufbrechen und neu anfangen. Vgl. Jeremia 4,3.
 > „Es ist Zeit, den HERRN zu suchen.“ Es ist nie zu spät für einen Neuanfang.
 > Vers 13: Das Gegenteil: Wer Böses pflügt, erntet Unrecht. Wer auf eigene Stärke und Soldaten vertraut, isst „die Frucht der Lüge“.
 > Vers 14: Bet-Arbel war eine Stadt, die grausam zerstört wurde. Wer „Schalman“ war, weiß man nicht sicher. Der Satz „Die Mutter wurde mit ihren Kindern zerschmettert“ beschreibt die Grausamkeit des Krieges. Die Bibel verschweigt nicht, was Krieg Frauen und Kindern antut. Solche Gewalt ist ein schreckliches Unrecht. Wer Kriegserfahrungen hat und darüber reden möchte: Telefonseelsorge 0800 111 0 111.

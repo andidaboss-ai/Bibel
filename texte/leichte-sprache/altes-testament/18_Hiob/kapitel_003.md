@@ -32,7 +32,7 @@ und das Leid nicht vor meinen Augen verborgen hat.
 > **Was bedeutet das?**
 > Nach sieben Tagen Schweigen bricht es aus Hiob heraus. Jetzt beginnt der Teil in Gedichtform.
 > Hiob verflucht nicht Gott. Er verflucht den Tag seiner Geburt. Er wünscht, er wäre nie geboren worden. Der Prophet Jeremia hat ähnlich geklagt (Jeremia 20,14–18).
-> „Es werde Licht“, hatte Gott am ersten Schöpfungstag gesagt (1. Mose 1,3). Hiob sagt das Gegenteil: „Dieser Tag soll Finsternis sein!“ Er wünscht sich, die Schöpfung würde für ihn rückgängig gemacht.
+> „Es soll Licht werden“, hatte Gott am ersten Schöpfungstag gesagt (1. Mose 1,3). Hiob sagt das Gegenteil: „Dieser Tag soll Finsternis sein“ (3,4). Er wünscht sich, die Schöpfung würde für ihn rückgängig gemacht.
 > Der „Leviatan“ ist ein Seeungeheuer aus alten Erzählungen. Es steht für das Chaos. Manche glaubten, Zauberer könnten es aufwecken, um einen Tag zu verfluchen.
 > „Die Wimpern der Morgenröte“ ist ein schönes Bild für die ersten Strahlen der Sonne.
 

@@ -58,9 +58,9 @@ und lehrte bei ihnen das Wort Gottes.
 > Vers 2: Kaiser Claudius vertrieb um das Jahr 49 Juden aus Rom. Auch das war Judenfeindlichkeit.
 > Priszilla und Aquila sind ein Ehepaar. Sie werden wichtige Mitarbeiter von Paulus. Oft wird Priszilla zuerst genannt. Das zeigt wohl, wie wichtig sie in der Gemeinde war.
 > Vers 3: Paulus verdiente sein Geld selbst mit seinem Handwerk. Er wollte niemandem zur Last fallen.
-> Vers 6: „Euer Blut komme über euren Kopf“ heißt: Ihr seid selbst verantwortlich. Ich habe meine Pflicht getan. Das Ausschütteln der Kleider ist ein Zeichen dafür. Es gilt bestimmten Menschen in Korinth, nicht allen Juden. Paulus geht auch später weiter in Synagogen (Vers 19).
+> Vers 6: „Euer Blut komme über euren eigenen Kopf“ heißt: Ihr seid selbst verantwortlich. Ich habe meine Pflicht getan. Das Ausschütteln der Kleider ist ein Zeichen dafür. Es gilt bestimmten Menschen in Korinth, nicht allen Juden. Paulus geht auch später weiter in Synagogen (Vers 19).
 > Vers 8: Sogar der Vorsteher der Synagoge, Krispus, kommt zum Glauben.
-> Vers 9–10: Paulus hatte wohl Angst. Gott ermutigt ihn: „Hab keine Angst. Ich bin mit dir.“
+> Vers 9–10: Paulus hatte wohl Angst. Gott ermutigt ihn: „Hab keine Angst! … Denn ich bin mit dir.“
 
 ---
 

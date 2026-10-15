@@ -15,7 +15,7 @@ und unter allen Völkern deine Rettung.
 Alle Völker sollen dich loben.
 
 > **Was bedeutet das?**
-> Vers 1 greift den Segen auf, den die Priester über Israel sprachen: „Der HERR segne dich … er lasse sein Angesicht leuchten über dir“ (4. Mose 6,24–26).
+> Vers 1 greift den Segen auf, den die Priester über Israel sprachen: „Der HERR segne dich … Der HERR lasse sein Angesicht über dir leuchten“ (4. Mose 6,24–26).
 > Aber der Psalm geht weiter: Israel wird nicht nur für sich selbst gesegnet, sondern damit alle Völker Gott kennenlernen. Der Segen soll weitergegeben werden (vgl. 1. Mose 12,2–3).
 
 ---

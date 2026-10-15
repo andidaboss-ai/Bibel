@@ -85,7 +85,7 @@ Ja, sie reicht bis an dein Herz.“
 > Vers 7: Der „Löwe“ ist das Heer Babylons, das ganze Völker verschlingt.
 > Vers 10: Jeremia klagt Gott an: Hast du das Volk getäuscht? Es gab Propheten, die im Namen Gottes Frieden versprochen hatten. Jeremia ist verzweifelt, weil diese Versprechen falsch waren. Er wagt es, seine Verzweiflung offen vor Gott auszusprechen.
 > Vers 11–13: Der Feind kommt wie ein glühender Wüstenwind, wie ein Sturm, schneller als Adler.
-> Vers 14: Mitten in der Warnung noch einmal eine Einladung: „Wasche dein Herz, damit du gerettet wirst!“
+> Vers 14: Mitten in der Warnung noch einmal eine Einladung: „Jerusalem, wasche dein Herz von der Bosheit, damit du gerettet wirst!“
 > Vers 15: Dan liegt im äußersten Norden des Landes, Efraim in der Mitte. Die Nachricht vom Feind kommt immer näher.
 > Vers 18: Das Unglück ist die Folge der eigenen Taten.
 

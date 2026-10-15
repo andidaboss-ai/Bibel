@@ -66,7 +66,7 @@ obwohl er keine Gewalt verübt hatte
 und kein Betrug in seinem Mund war.
 
 > **Was bedeutet das?**
-> Vers 7: Der Knecht wehrt sich nicht. Er schweigt wie ein Lamm. Die Evangelien erzählen, dass Jesus vor seinen Richtern schwieg (Markus 14,61; 15,5). In der Apostelgeschichte (8,26–35) liest ein Beamter aus Äthiopien genau diese Verse und fragt: „Von wem spricht der Prophet?“ Philippus erklärt ihm die Verse von Jesus her.
+> Vers 7: Der Knecht wehrt sich nicht. Er schweigt wie ein Lamm. Die Evangelien erzählen, dass Jesus vor seinen Richtern schwieg (Markus 14,61; 15,5). Ein Beamter aus Äthiopien liest genau diese Verse und fragt: „Von wem redet der Prophet hier?“ (Apostelgeschichte 8,26–35). Philippus erklärt ihm die Verse von Jesus her.
 > Vers 8: Er wurde in einem ungerechten Gericht verurteilt und getötet. Kaum jemand hat verstanden, warum.
 > Vers 9: Obwohl er keine Gewalt angewendet und nicht gelogen hat, wird er wie ein Verbrecher begraben. Die Evangelien berichten, dass Jesus im Grab eines reichen Mannes, Josef von Arimathäa, begraben wurde (Matthäus 27,57–60).
 > Wichtig: Dieser Text beschreibt das Leiden eines Unschuldigen, um es zu beklagen und zu verstehen. Er heißt nicht, dass Menschen Gewalt und Unrecht schweigend erdulden sollen. Wer Gewalt erlebt, darf sich Hilfe holen: Notruf 110, Telefonseelsorge 0800 111 0 111.

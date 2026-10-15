@@ -87,8 +87,8 @@ Ich werde sie weiden, wie es recht ist.“
 
 > **Was bedeutet das?**
 > Weil die menschlichen Hirten versagt haben, sagt Gott: „Ich selbst will der Hirte sein!“ Und er tut genau das, was die schlechten Hirten nicht getan haben (Vers 16 ist die Antwort auf Vers 4).
-> Das erinnert an Psalm 23: „Der HERR ist mein Hirte, mir wird nichts mangeln.“
-> Jesus nimmt dieses Kapitel auf: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11). Und er erzählt das Gleichnis vom verlorenen Schaf, das der Hirte sucht, bis er es findet (Lukas 15,4–7). „Der Menschensohn ist gekommen, zu suchen und zu retten, was verloren ist“ (Lukas 19,10).
+> Das erinnert an Psalm 23: „Der HERR ist mein Hirte. Mir wird nichts fehlen.“
+> Jesus nimmt dieses Kapitel auf: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben hin für die Schafe“ (Johannes 10,11). Und er erzählt das Gleichnis vom verlorenen Schaf, das der Hirte sucht, bis er es findet (Lukas 15,4–7). „Der Menschensohn ist gekommen, um zu suchen und zu retten, was verloren ist“ (Lukas 19,10).
 > Vers 16: „Das Fette und das Starke werde ich vertilgen“ meint die, die auf Kosten der anderen fett und stark geworden sind (siehe Vers 17–21).
 > Für dich heißt das: Wenn du dich verloren, verletzt oder schwach fühlst, gerade dich sucht Gott.
 
@@ -120,7 +120,7 @@ Ich werde richten zwischen Schaf und Schaf.
 > Jetzt spricht Gott nicht mehr nur die Führer an, sondern das ganze Volk. Auch unter den „Schafen“ gibt es Ungerechtigkeit: Die Starken fressen das beste Gras und trinken das klare Wasser. Dann zertreten sie den Rest, sodass die Schwachen nur noch Schmutziges bekommen. Und sie stoßen die Schwachen mit Hörnern weg.
 > Das ist ein Bild für soziale Ungerechtigkeit: Die Reichen und Mächtigen nehmen sich das Beste und lassen den Armen nur die Reste, oft sogar zerstörte Reste.
 > Gott stellt sich auf die Seite der „mageren Schafe“, der Schwachen und Benachteiligten.
-> Jesus spricht in Matthäus 25,31–46 auch davon, dass der Menschensohn „die Schafe von den Böcken scheidet“. Entscheidend ist dort, wie man mit den Schwächsten umgegangen ist.
+> Jesus spricht in Matthäus 25,31–46 auch davon: Der Menschensohn wird die Menschen voneinander trennen, „wie ein Hirte die Schafe von den Ziegenböcken trennt“. Entscheidend ist dort, wie man mit den Schwächsten umgegangen ist.
 
 ---
 
@@ -177,5 +177,5 @@ spricht der Herr, der HERR.“
 > Ein wunderschönes Bild von Frieden: Keine wilden Tiere mehr, man kann sogar im Wald sicher schlafen. Regen zur richtigen Zeit, Bäume voller Früchte, keine Angst, kein Hunger, keine Sklaverei mehr.
 > Vers 27: Gott zerbricht das Joch der Unterdrückung. Er ist ein Gott, der befreit (vgl. 2. Mose 6,6).
 > Vers 26: „Regen des Segens“ (im Deutschen auch „Segensregen“) ist zu einem bekannten Ausdruck geworden, auch in Liedern.
-> Vers 31: Ein berührender Schluss: „Ihr seid meine Schafe … ihr seid Menschen, und ich bin euer Gott.“ Das Bild von den Schafen wird aufgelöst: Gott meint wirklich Menschen, und er will ihr Gott sein.
+> Vers 31: Ein berührender Schluss: „Ihr, meine Schafe, die Schafe meiner Weide, ihr seid Menschen, und ich bin euer Gott.“ Das Bild von den Schafen wird aufgelöst: Gott meint wirklich Menschen, und er will ihr Gott sein.
 

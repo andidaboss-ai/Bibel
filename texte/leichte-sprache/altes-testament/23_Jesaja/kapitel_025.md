@@ -61,7 +61,7 @@ Wir wollen jubeln und uns freuen über seine Rettung!“
 > Vers 6: Gott lädt alle Völker zu einem großen Fest auf dem Berg Zion ein. Das beste Essen, der beste Wein. Niemand ist ausgeschlossen. Jesus spricht oft vom Reich Gottes als einem Festmahl (Matthäus 8,11; Lukas 14,15–24).
 > Vers 7: Die „Hülle“ und der „Schleier“ sind vielleicht Trauerschleier. Gott nimmt die Trauer von allen Menschen weg.
 > Vers 8: „Er hat den Tod für immer verschlungen!“ Der Tod, der alles verschlingt, wird selbst verschlungen. Und Gott wischt selbst jede Träne ab, so zärtlich wie eine Mutter.
-> Paulus zitiert diesen Vers, wenn er von der Auferstehung spricht (1. Korinther 15,54). Und die Offenbarung nimmt ihn auf: „Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein“ (Offenbarung 21,4). Dieser Vers wird oft bei Beerdigungen gelesen.
+> Paulus zitiert diesen Vers, wenn er von der Auferstehung spricht (1. Korinther 15,54). Und die Offenbarung nimmt ihn auf: „Er wird jede Träne von ihren Augen abwischen. Der Tod wird nicht mehr sein“ (Offenbarung 21,4). Dieser Vers wird oft bei Beerdigungen gelesen.
 > Vers 9: „Das ist unser Gott! Wir haben auf ihn gewartet.“ Das lange Warten hat sich gelohnt.
 
 ---

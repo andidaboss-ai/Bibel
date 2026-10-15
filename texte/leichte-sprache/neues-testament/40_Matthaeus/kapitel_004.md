@@ -74,7 +74,7 @@ ist ein Licht aufgegangen.“
 > Vers 12: Johannes der Täufer wurde von Herodes Antipas, dem Herrscher von Galiläa, ins Gefängnis geworfen (Matthäus 14,3–4).
 > Vers 13: Jesus zieht nach Kafarnaum, einer Stadt am See Genezareth. Dort wird er oft sein.
 > Vers 15–16: Matthäus zitiert Jesaja 9,1–2 (in deutschen Bibeln Jesaja 8,23–9,1). „Galiläa der Heiden“ hieß die Gegend, weil dort viele Nichtjuden lebten. Gerade dort, am Rand, beginnt Jesus. Er ist das „große Licht“ für Menschen im Dunkeln.
-> Vers 17: Jesus beginnt mit derselben Botschaft wie Johannes: „Kehrt um! Das Reich der Himmel ist nahe.“
+> Vers 17: Jesus beginnt mit derselben Botschaft wie Johannes: „Kehrt um! Denn das Reich der Himmel ist nahe gekommen.“
 
 ---
 

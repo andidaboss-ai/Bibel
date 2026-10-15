@@ -22,7 +22,7 @@ Du erlöst mich, HERR, du Gott der Treue.
 
 > **Was bedeutet das?**
 > Vers 5 ist sehr bekannt: „In deine Hand befehle ich meinen Geist.“ „Befehlen“ heißt hier: anvertrauen, übergeben.
-> Jesus hat diese Worte am Kreuz als letzte Worte gebetet: „Vater, in deine Hände befehle ich meinen Geist“ (Lukas 23,46). Stephanus betete ähnlich bei seinem Tod (Apostelgeschichte 7,59).
+> Jesus hat diese Worte am Kreuz als letzte Worte gebetet: „Vater, in deine Hände übergebe ich meinen Geist“ (Lukas 23,46). Stephanus betete ähnlich bei seinem Tod (Apostelgeschichte 7,59).
 > Juden beten diesen Vers traditionell vor dem Schlafengehen. Viele Christen beten ihn am Abend und in der Sterbestunde.
 
 ---
@@ -116,7 +116,7 @@ alle, die ihr auf den HERRN hofft!
 
 > **Was bedeutet das?**
 > Vers 19: Gott hat einen großen Vorrat an Güte für die, die ihm vertrauen.
-> Vers 20: „Das Gezänk der Zungen“: Gerüchte, Verleumdung, böses Gerede. Gott schützt davor.
+> Vers 20: Das „Gezänk der Zungen“ bedeutet: Gerüchte, Verleumdung, böses Gerede. Gott schützt davor.
 > Vers 22 ist sehr ehrlich: Der Beter hatte in Panik gedacht, Gott hat mich vergessen. Aber Gott hat ihn doch gehört. Auch wenn wir zweifeln, bleibt Gott treu.
 > Vers 24: Eine Ermutigung für alle: Seid stark und mutig!
 > Wenn du dich gerade vergessen und abgeschrieben fühlst: Die Telefonseelsorge hört zu, 0800 111 0 111 oder 0800 111 0 222.

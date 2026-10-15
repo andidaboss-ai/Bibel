@@ -106,7 +106,7 @@ Jedes ging gerade vorwärts.
 
 > **Was bedeutet das?**
 > Jetzt geschieht etwas Unvorstellbares: Gottes Herrlichkeit verlässt den Tempel Schritt für Schritt. Zuerst ging sie zur Schwelle (9,3; 10,4), jetzt steigt sie auf den Thronwagen und geht zum Osttor (Vers 19).
-> Für die Menschen in Jerusalem war klar: „Gott wohnt im Tempel, darum kann uns nichts passieren“ (vgl. Jeremia 7,4). Hesekiel zeigt: Gott ist nicht an das Gebäude gebunden. Wenn das Volk ihn verlässt, kann er auch den Tempel verlassen.
+> Für die Menschen in Jerusalem war klar: Gott wohnt im Tempel. Darum kann ihnen nichts passieren (vgl. Jeremia 7,4). Hesekiel zeigt: Gott ist nicht an das Gebäude gebunden. Wenn das Volk ihn verlässt, kann er auch den Tempel verlassen.
 > Aber: Gott geht langsam, Schritt für Schritt. Es ist, als würde er zögern, als würde er warten, ob sein Volk doch noch umkehrt.
 > In Kapitel 43 wird die Herrlichkeit durch das Osttor wieder zurückkehren!
 

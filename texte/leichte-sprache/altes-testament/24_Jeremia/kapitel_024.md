@@ -56,7 +56,7 @@ das ich ihnen und ihren Vätern gegeben habe.‘“
 > **Was bedeutet das?**
 > Vers 1: Im Jahr 597 vor Christus wurde König Jechonja (Jojachin) mit vielen Fürsten und Handwerkern nach Babylon verschleppt. Die Zurückgebliebenen in Jerusalem dachten: Wir sind die Guten, die Verschleppten sind bestraft worden.
 > Vers 2–7: Gott dreht diese Meinung um: Die Verbannten in Babylon sind die „guten Feigen“. Gott wird auf sie achten, sie zurückbringen und ihnen ein neues Herz geben. „Sie werden mein Volk sein, und ich werde ihr Gott sein.“
-> Vers 6: Die Worte aus Jeremias Berufung kehren wieder: „bauen und nicht niederreißen, pflanzen und nicht ausreißen“ (1,10).
+> Vers 6: „Ich werde sie bauen und nicht niederreißen. Ich werde sie pflanzen und nicht ausreißen.“ Damit kehren die Worte aus Jeremias Berufung wieder (1,10).
 > Vers 7: Gott selbst schenkt das Herz, das ihn erkennt. Umkehr ist nicht nur Menschenwerk, sondern Gottes Geschenk.
 > Vers 8–10: Die in Jerusalem Gebliebenen, die sich sicher fühlen, sind die „schlechten Feigen“. Sie haben nichts gelernt.
 > Diese Botschaft war überraschend und tröstlich für die Verbannten: Gott hat euch nicht vergessen. Gerade in der Fremde wird etwas Neues entstehen. Tatsächlich hat das Judentum im babylonischen Exil wichtige Wurzeln geschlagen.

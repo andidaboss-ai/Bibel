@@ -22,7 +22,7 @@ wie der Frühlingsregen, der die Erde tränkt.“
 
 > **Was bedeutet das?**
 > Das klingt wie ein wunderschönes Umkehrlied. Das Volk sagt: „Kommt, lasst uns zu Gott zurückkehren. Er hat uns verwundet, aber er wird uns heilen.“
-> Vers 2: „Am dritten Tag wird er uns aufrichten.“ Christen haben diesen Vers oft auf die Auferstehung Jesu am dritten Tag bezogen (vgl. 1. Korinther 15,4: „auferstanden am dritten Tag nach der Schrift“). Im ursprünglichen Zusammenhang meint er: Gott wird sein Volk schnell wieder aufrichten.
+> Vers 2: „Am dritten Tag wird er uns aufrichten.“ Christen haben diesen Vers oft auf die Auferstehung Jesu am dritten Tag bezogen (vgl. 1. Korinther 15,4: „Er wurde am dritten Tag auferweckt, so wie es in den Schriften steht“). Im ursprünglichen Zusammenhang meint er: Gott wird sein Volk schnell wieder aufrichten.
 > Aber Vorsicht: Die folgenden Verse zeigen, dass Gott diesem Lied nicht ganz traut. Klingt die Umkehr vielleicht zu leicht, zu selbstverständlich? Als ob man nur ein paar fromme Worte sagen müsste, und Gott würde alles wieder gutmachen?
 
 ---
@@ -40,10 +40,10 @@ Deine Gerichte sind wie ein Blitz.
 und an der Erkenntnis Gottes mehr als an Brandopfern.
 
 > **Was bedeutet das?**
-> Vers 4: Gott klingt hier wie verzweifelte Eltern: „Was soll ich nur mit dir machen?“ Die Liebe des Volkes ist wie Morgentau: Am Morgen ist sie da, aber sobald die Sonne scheint, ist sie verschwunden. Sie hält nicht.
-> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer, an Gotteserkenntnis mehr als an Brandopfern.“
+> Vers 4: Gott klingt hier wie verzweifelte Eltern: „Was soll ich mit dir tun, Ephraim?“ Die Liebe des Volkes ist wie Morgentau: Am Morgen ist sie da, aber sobald die Sonne scheint, ist sie verschwunden. Sie hält nicht.
+> Vers 6: Einer der wichtigsten Sätze der ganzen Bibel: „Ich habe Gefallen an Barmherzigkeit, nicht am Opfer, und an der Erkenntnis Gottes mehr als an Brandopfern.“
 > Das hebräische Wort „chesed“ bedeutet Güte, Treue und liebevolle Barmherzigkeit zugleich. Gott will keine religiösen Rituale ohne Herz. Er will echte Liebe, Treue und Barmherzigkeit.
-> Jesus zitiert diesen Vers zweimal: als man ihm vorwirft, mit Sündern zu essen (Matthäus 9,13), und als man seine Jünger wegen des Sabbats kritisiert (Matthäus 12,7). „Geht hin und lernt, was das heißt: Barmherzigkeit will ich, nicht Opfer.“
+> Jesus zitiert diesen Vers zweimal: als man ihm vorwirft, mit Sündern zu essen (Matthäus 9,13), und als man seine Jünger wegen des Sabbats kritisiert (Matthäus 12,7). „Geht aber hin und lernt, was das heißt: ‚Ich will Barmherzigkeit und nicht Opfer‘“ (Matthäus 9,13).
 > Auch im Judentum ist dieser Vers sehr wichtig. Nach der Zerstörung des Tempels lehrte Rabbi Jochanan ben Sakkai mit diesem Vers: Liebestaten sühnen jetzt wie früher die Opfer.
 
 ---

@@ -31,7 +31,7 @@ Wollt ihr das ein Fasten nennen
 und einen Tag, der dem HERRN gefällt?
 
 > **Was bedeutet das?**
-> Vers 2–3: Die Menschen sind sehr fromm. Sie beten, fasten und fragen nach Gott. Und sie beschweren sich: „Wir fasten doch, warum sieht Gott das nicht?“
+> Vers 2–3: Die Menschen sind sehr fromm. Sie beten, fasten und fragen nach Gott. Und sie beschweren sich: „Warum fasten wir … und du siehst es nicht?“
 > Vers 3–4: Gottes Antwort: Ihr fastet, aber gleichzeitig beutet ihr eure Arbeiter aus, ihr streitet und schlagt zu. Das passt nicht zusammen.
 > Vers 5: Nur den Kopf hängen lassen und sich in Asche setzen, das allein ist nicht, was Gott will.
 

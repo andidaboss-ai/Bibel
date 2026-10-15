@@ -169,7 +169,7 @@ wie ich in meinem Herzen den Hohn aller mächtigen Völker trage,
 mit dem sie die Fußspuren deines Gesalbten verspottet haben.
 
 > **Was bedeutet das?**
-> Vers 49 ist die große Frage des Psalms: „Herr, wo ist deine Güte, die du David geschworen hast?“
+> Vers 49 ist die große Frage des Psalms: „Herr, wo ist deine frühere Güte, die du David in deiner Treue geschworen hast?“
 > Das ist eine Frage, die sich das jüdische Volk nach dem Exil lange gestellt hat. Es gab keinen König aus Davids Familie mehr.
 > Die Antwort der Bibel ist die Hoffnung auf den Messias, den kommenden König aus Davids Familie. Juden warten bis heute auf ihn. Christen glauben, dass Jesus, der „Sohn Davids“, dieser König ist (Lukas 1,32–33).
 

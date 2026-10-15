@@ -57,7 +57,7 @@ gibt es kein Werk, keinen Plan, keine Erkenntnis und keine Weisheit.
 
 > **Was bedeutet das?**
 > Einer der schönsten Abschnitte des Buches: Weil das Leben kurz ist, lebe es mit Freude!
-> Vers 7: „Gott hat deine Werke schon angenommen“: Du musst dir Gottes Wohlwollen nicht erst verdienen. Freu dich am Leben.
+> Vers 7: „Gott hat deine Werke schon längst angenommen“: Du musst dir Gottes Wohlwollen nicht erst verdienen. Freu dich am Leben.
 > Vers 8: Weiße Kleider und Öl auf dem Kopf waren Zeichen für Feste und Freude. Mach jeden Tag ein bisschen zum Fest.
 > Vers 9: Genieße das Leben mit dem Menschen, den du liebst.
 > Vers 10: Was du tust, tu mit ganzem Herzen. Schieb nichts auf. Die Zeit ist begrenzt.

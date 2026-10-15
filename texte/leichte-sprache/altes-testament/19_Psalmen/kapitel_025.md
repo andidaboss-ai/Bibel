@@ -71,7 +71,7 @@ denn er wird meine Füße aus dem Netz ziehen.
 
 > **Was bedeutet das?**
 > Vers 14 ist wunderschön: Gott ist ein Freund für die, die ihn ehren. Das hebräische Wort meint einen engen, vertrauten Kreis, in dem man Geheimnisse teilt.
-> Jesus sagt: „Ich nenne euch nicht mehr Knechte, sondern Freunde“ (Johannes 15,15).
+> Jesus sagt: „Ich nenne euch nicht mehr Knechte … Ich habe euch Freunde genannt“ (Johannes 15,15).
 > Vers 15: Wie ein Tier, das sich im Netz verfangen hat, braucht der Beter Gottes Hilfe, um frei zu werden.
 
 ---

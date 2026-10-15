@@ -58,7 +58,7 @@ ja, vor seinem ganzen Volk.
 
 > **Was bedeutet das?**
 > Vers 10–11: Auch in der Not hat der Beter nicht aufgehört zu glauben. Aber er war enttäuscht von den Menschen: Keiner hat ihm geholfen.
-> Paulus zitiert Vers 10 nach der griechischen Übersetzung: „Ich glaube, darum rede ich“ (2. Korinther 4,13).
+> Paulus zitiert Vers 10 nach der griechischen Übersetzung: „Ich habe geglaubt, darum habe ich geredet“ (2. Korinther 4,13).
 > Vers 12: Eine schöne Frage: Wie kann ich Gott danken für alles, was er mir gegeben hat?
 > Vers 13: Die Antwort: Ich erhebe den „Becher der Rettung“, einen Becher Wein beim Dankfest, und rufe Gottes Namen an. Beim Passamahl werden bis heute Becher Wein getrunken. Christen denken auch an den Kelch beim Abendmahl.
 
@@ -80,6 +80,6 @@ mitten in dir, Jerusalem.
 Lobt Jah!
 
 > **Was bedeutet das?**
-> Vers 15: „Kostbar ist der Tod seiner Frommen“: Das heißt: Das Leben und Sterben der Menschen, die Gott vertrauen, ist ihm nicht egal. Es ist ihm sehr wertvoll. Er lässt sie nicht leichtfertig sterben. Das ist ein Trost an Sterbebetten.
+> Vers 15: „Kostbar ist in den Augen des HERRN der Tod seiner Frommen“: Das heißt: Das Leben und Sterben der Menschen, die Gott vertrauen, ist ihm nicht egal. Es ist ihm sehr wertvoll. Er lässt sie nicht leichtfertig sterben. Das ist ein Trost an Sterbebetten.
 > Vers 16: „Sohn deiner Magd“: Ich gehöre dir ganz, wie ein Kind, das im Haus geboren wurde.
 > Der Beter bringt sein Dankopfer öffentlich im Tempel dar. Er will, dass alle von Gottes Hilfe erfahren.

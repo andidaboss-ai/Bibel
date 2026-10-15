@@ -175,7 +175,7 @@ Konnte er nicht auch verhindern,
 dass dieser starb?“
 
 > **Was bedeutet das?**
-> Vers 33: Das WEB sagt „groaned in the spirit“. Das griechische Wort beschreibt tiefe innere Erregung, vielleicht auch Zorn über die Macht des Todes.
+> Vers 33: Jesus war „im Innersten erschüttert und tief bewegt“. Das WEB sagt wörtlich: Er stöhnte im Geist. Das griechische Wort beschreibt tiefe innere Erregung, vielleicht auch Zorn über die Macht des Todes.
 > Vers 35: „Jesus weinte“ ist der kürzeste Vers der Bibel. Jesus weint mit den Trauernden, obwohl er weiß, dass er Lazarus auferwecken wird. Er nimmt ihren Schmerz ernst.
 > Vers 36: Die Juden, die mit Maria trauern, sehen Jesu Liebe. Auch hier ist „die Juden“ ganz positiv gemeint.
 > Für heute: Trauer ist keine Schwäche und kein Mangel an Glauben. Auch Jesus hat geweint. Wer trauert, darf weinen. Hilfe gibt es bei der Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222, und bei Trauergruppen in Gemeinden und Hospizvereinen.

@@ -75,7 +75,7 @@ um die Bruderschaft zwischen Juda und Israel zu zerbrechen.
 > Vers 8: Wer die „drei Hirten“ sind, wissen wir nicht. Es gibt dazu sehr viele verschiedene Deutungen.
 > Vers 9: Das Volk lehnt den guten Hirten ab. Da gibt er auf. Die schreckliche Folge: Hunger und Elend, so schlimm, dass Menschen sich gegenseitig zerfleischen. Das beschreibt die Gräuel von Belagerung und Hungersnot (vgl. 2. Könige 6,28–29). Es ist eine Warnung, kein Wunsch.
 > Vers 10–11: Der Stab „Huld“ wird zerbrochen: Gottes schützende Gnade wird zurückgezogen. Nur die „Elenden der Herde“ verstehen, was geschieht.
-> Vers 12–13: Der Hirte fragt nach seinem Lohn. Man gibt ihm dreißig Silberstücke. Das war der Preis für einen Sklaven (2. Mose 21,32). Gott nennt es mit bitterer Ironie „den herrlichen Preis, den sie mir wert waren“. So wenig ist Gott seinem Volk wert! Der Hirte wirft das Geld dem Töpfer im Tempel hin.
+> Vers 12–13: Der Hirte fragt nach seinem Lohn. Man gibt ihm dreißig Silberstücke. Das war der Preis für einen Sklaven (2. Mose 21,32). Gott nennt es mit bitterer Ironie „den herrlichen Preis, den sie mir wert waren“ (Sacharja 11,13). So wenig ist Gott seinem Volk wert! Der Hirte wirft das Geld dem Töpfer im Tempel hin.
 > Diese Verse werden im Neuen Testament aufgegriffen: Judas verrät Jesus für dreißig Silberstücke. Später wirft er das Geld in den Tempel, und davon wird ein Töpferacker gekauft (Matthäus 26,15; 27,3–10). Matthäus nennt dabei den Propheten Jeremia. Wahrscheinlich verbindet er Sacharja mit Worten Jeremias über einen Töpfer und einen Acker (Jeremia 18–19; 32).
 > Vers 14: Der zweite Stab „Einheit“ wird zerbrochen: Auch die Einheit des Volkes zerbricht.
 
@@ -101,5 +101,5 @@ und sein rechtes Auge soll völlig erblinden!“
 > Nachdem der gute Hirte abgelehnt wurde, kommt ein schlechter Hirte. Er ist das genaue Gegenteil: Er kümmert sich um niemanden, er sucht die Verlorenen nicht, er heilt die Verletzten nicht. Er beutet die Herde nur aus.
 > Wer dieser schlechte Hirte war, wissen wir nicht. Es ist ein Bild für alle Anführer, die ihre Macht missbrauchen.
 > Vers 17: Das Gericht über ihn: Sein Arm (seine Kraft) und sein Auge (seine Einsicht) werden zerstört.
-> Der Gegensatz zum guten Hirten: Jesus sagt: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben für die Schafe“ (Johannes 10,11). Er sucht das Verlorene (Lukas 15,4–7).
+> Der Gegensatz zum guten Hirten: Jesus sagt: „Ich bin der gute Hirte. Der gute Hirte gibt sein Leben hin für die Schafe“ (Johannes 10,11). Er sucht das Verlorene (Lukas 15,4–7).
 > Für heute: Eine Mahnung an alle, die Verantwortung für andere tragen, in Politik, Kirche, Familie oder Beruf: Gute Leitung heißt, sich um die Schwachen zu kümmern.

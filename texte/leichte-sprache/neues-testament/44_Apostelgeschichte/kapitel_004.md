@@ -114,7 +114,7 @@ war nämlich mehr als vierzig Jahre alt.
 > Vers 11 zitiert Psalm 118,22.
 > Vers 12: „In keinem anderen ist das Heil“: Für Christen ist Jesus der Retter. Wie Gott mit Menschen anderer Religionen umgeht, darüber denken Christen verschieden. Viele Kirchen sagen heute: Gottes Liebe ist größer als unser Verstehen. Christen sollen andere Religionen achten.
 > Vers 13: „Ungelehrt“ heißt: Sie hatten nicht bei Schriftgelehrten studiert. Sie waren Fischer. Aber sie reden mutig.
-> Vers 19–20: „Wir müssen Gott mehr gehorchen als den Menschen“ (so sagen es die Apostel in 5,29). Dieser Satz hat später vielen Menschen Mut gemacht, gegen Unrecht aufzustehen, auch in Diktaturen.
+> Vers 19–20: Ähnlich sagen es die Apostel noch einmal: „Wir müssen Gott mehr gehorchen als den Menschen“ (5,29). Dieser Satz hat später vielen Menschen Mut gemacht, gegen Unrecht aufzustehen, auch in Diktaturen.
 > Vers 22: Der Mann war über 40 Jahre gelähmt gewesen. Darum war das Wunder für alle so deutlich.
 
 ---
@@ -202,7 +202,7 @@ und legte es den Aposteln zu Füßen.
 
 > **Was bedeutet das?**
 > Vers 32: „Ein Herz und eine Seele“: Diese Redewendung kommt aus diesem Vers.
-> Vers 34: Das erinnert an 5. Mose 15,4: „Es soll kein Armer unter euch sein.“
+> Vers 34: Das erinnert an 5. Mose 15,4: „Es wird bei dir keinen Armen geben.“
 > Das Teilen war freiwillig. Es war kein Zwang, sondern Ausdruck der Liebe.
 > Vers 36: „Joses“ ist eine Form von Josef, so heißt er in vielen deutschen Bibeln. „Sohn der Ermutigung“ kann man auch mit „Sohn des Trostes“ übersetzen. Barnabas wird später ein wichtiger Begleiter von Paulus.
 > Ein Levit gehörte zum Stamm Levi. Leviten halfen beim Dienst im Tempel.

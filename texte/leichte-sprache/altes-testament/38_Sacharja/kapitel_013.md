@@ -40,7 +40,7 @@ Dann wird er antworten:
 > Vers 3: Ein sehr harter Vers. Er sagt mit drastischen Worten: Falsche Prophetie wird so ernst genommen werden, dass nicht einmal die eigenen Eltern sie dulden. Das greift das Gesetz in 5. Mose 13,6–10 und 18,20 auf.
 > Wichtig: Das ist eine Beschreibung einer Zukunft, in der Lüge über Gott nicht mehr geduldet wird. Es ist niemals ein Auftrag an Eltern, ihre Kinder zu verletzen oder zu töten. Gewalt in der Familie ist Unrecht. Wenn du zu Hause Gewalt erlebst: Die Nummer gegen Kummer für Kinder und Jugendliche ist erreichbar unter 116 111. Im Notfall: 110.
 > Vers 4–6: Die falschen Propheten werden sich schämen. Sie werden den „haarigen Mantel“, das Kennzeichen der Propheten wie Elia (2. Könige 1,8), nicht mehr tragen. Sie werden leugnen, jemals Propheten gewesen zu sein.
-> Die „Wunden zwischen den Armen“ (also an Brust oder Rücken) waren vielleicht Ritzwunden, wie sie sich Götzenpropheten zufügten (1. Könige 18,28). Der Mann redet sich heraus: „Das ist bei Freunden passiert.“
+> Die „Wunden zwischen den Armen“ (also an Brust oder Rücken) waren vielleicht Ritzwunden, wie sie sich Götzenpropheten zufügten (1. Könige 18,28). Der Mann redet sich heraus: „Die habe ich im Haus meiner Freunde bekommen“ (Sacharja 13,6).
 > Manche Christen haben Vers 6 auf die Wunden Jesu bezogen. Im Zusammenhang geht es aber um einen falschen Propheten.
 
 ---
@@ -67,7 +67,7 @@ Und er wird sagen: ‚Der HERR ist mein Gott.‘“
 
 > **Was bedeutet das?**
 > Vers 7: Gott ruft das Schwert gegen „meinen Hirten“, den „Mann, der mir nahe steht“. Dieser Hirte ist offenbar ein guter Hirte, der Gott sehr nahe ist. Wenn er geschlagen wird, zerstreuen sich die Schafe.
-> Jesus zitiert diesen Vers in der Nacht vor seinem Tod: „Ihr werdet alle Anstoß nehmen, denn es steht geschrieben: Ich werde den Hirten schlagen, und die Schafe werden sich zerstreuen“ (Markus 14,27; Matthäus 26,31). Kurz danach fliehen alle Jünger.
+> Jesus zitiert diesen Vers in der Nacht vor seinem Tod: „Ihr alle werdet in dieser Nacht an mir irrewerden. Denn es steht geschrieben: ‚Ich werde den Hirten schlagen, und die Schafe werden sich zerstreuen‘“ (Markus 14,27; Matthäus 26,31). An ihm irrewerden heißt: an ihm zweifeln und ihn verlassen. Kurz danach fliehen alle Jünger.
 > Vers 8–9: Eine schwere Zeit der Prüfung. Nur ein Drittel bleibt übrig. Die Zahlen sind ein Bild, keine genaue Rechnung.
 > Aber das Ziel ist nicht Vernichtung, sondern Läuterung: Wie Silber im Feuer von Schlacke gereinigt wird, so wird Gott sein Volk reinigen.
 > Am Ende steht wieder die Bundesformel: „Das ist mein Volk.“ „Der HERR ist mein Gott.“ Gott und sein Volk gehören wieder ganz zusammen.

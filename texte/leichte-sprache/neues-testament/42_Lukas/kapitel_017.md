@@ -192,5 +192,5 @@ da sammeln sich auch die Geier.“
 > Vers 32: Lots Frau schaute zurück und erstarrte zur Salzsäule (1. Mose 19,26). Sie hing an dem, was sie zurücklassen sollte.
 > Vers 34–35: Diese Bilder zeigen: Das Gericht Gottes trennt Menschen, die äußerlich ganz gleich leben. Es kommt auf das Herz an. Vers 35 spricht von zwei Frauen, denn das Mahlen war Frauenarbeit.
 > Wichtig: Die Bibel gibt keine genauen Vorhersagen, wie das Ende der Welt ablaufen wird. Diese Bilder wollen wachrütteln, nicht Angst machen.
-> Verszählung: In vielen deutschen Bibeln hat dieses Kapitel 37 Verse. Dort steht als Vers 36: „Zwei werden auf dem Feld sein; der eine wird mitgenommen, der andere zurückgelassen.“ Dieser Satz fehlt in den ältesten Handschriften und im WEB. Darum ist der letzte Vers hier Vers 36, in anderen Bibeln Vers 37.
-> Vers 36: „Wo der tote Körper ist, da sammeln sich die Geier“ war wohl ein Sprichwort. Es meint: Das Gericht kommt so sicher, wie Geier zu einem toten Tier fliegen. Man wird es nicht übersehen.
+> Verszählung: In vielen deutschen Bibeln hat dieses Kapitel 37 Verse. Dort steht als Vers 36 ein ähnlicher Satz wie in Matthäus 24,40: „Dann werden zwei Männer auf dem Feld sein: Einer wird mitgenommen, und einer wird zurückgelassen.“ Dieser Satz fehlt in den ältesten Handschriften und im WEB. Darum ist der letzte Vers hier Vers 36, in anderen Bibeln Vers 37.
+> Vers 36: „Wo der tote Körper ist, da sammeln sich auch die Geier“ war wohl ein Sprichwort. Es meint: Das Gericht kommt so sicher, wie Geier zu einem toten Tier fliegen. Man wird es nicht übersehen.

@@ -55,7 +55,7 @@ die Kopf oder Schwanz, Palmzweig oder Binse tun könnte.
 
 > **Was bedeutet das?**
 > Ägypten war eine Großmacht und für Juda immer wieder ein verlockender Bündnispartner. Jesaja sagt: Ägypten wird selbst ins Chaos stürzen.
-> Vers 1: Gott „reitet auf einer Wolke“. Die Götter Ägyptens zittern vor ihm.
+> Vers 1: Gott „reitet auf einer schnellen Wolke“. Die Götter Ägyptens zittern vor ihm.
 > Vers 2: Bürgerkrieg zerreißt das Land.
 > Vers 5–10: Der Nil war die Lebensader Ägyptens. Wenn er austrocknet, ist alles verloren: Landwirtschaft, Fischerei, Webereien. Die Wirtschaft bricht zusammen.
 > Vers 11–14: Die berühmten Weisen Ägyptens wissen keinen Rat mehr. Ihre Weisheit taugt nichts ohne Gott.

@@ -55,7 +55,7 @@ und demütig zu gehen mit deinem Gott?
 > 1. Recht tun: gerecht handeln, besonders gegenüber Schwachen.
 > 2. Barmherzigkeit lieben: freundlich, treu und gütig sein. Das hebräische Wort „chesed“ bedeutet Treue, Liebe und Güte zugleich.
 > 3. Demütig gehen mit deinem Gott: sich nicht über andere stellen, sondern im Alltag mit Gott leben.
-> Dieser Vers gilt als eine der schönsten Zusammenfassungen dessen, was Gott von Menschen will. Jesus sagt etwas Ähnliches: Das Wichtigste im Gesetz sind „das Recht, die Barmherzigkeit und der Glaube“ (Matthäus 23,23).
+> Dieser Vers gilt als eine der schönsten Zusammenfassungen dessen, was Gott von Menschen will. Jesus sagt etwas Ähnliches: Das Wichtigste im Gesetz sind „Gerechtigkeit, Barmherzigkeit und Treue“ (Matthäus 23,23).
 
 ---
 

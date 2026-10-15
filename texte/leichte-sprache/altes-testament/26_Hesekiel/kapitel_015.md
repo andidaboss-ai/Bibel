@@ -35,4 +35,4 @@ spricht der Herr, der HERR.
 > **Was bedeutet das?**
 > Israel wurde in der Bibel oft mit einem Weinstock verglichen (Psalm 80,9–17; Jesaja 5,1–7). Ein Weinstock ist wertvoll, aber nur wegen seiner Früchte. Sein Holz ist krumm und weich. Man kann daraus nicht einmal einen Haken machen. Wenn ein Weinstock keine Trauben bringt, taugt er nur noch als Brennholz.
 > Vers 4–5: Jerusalem ist wie ein Stück Rebholz, das schon an beiden Enden verbrannt ist. Die Enden stehen wahrscheinlich für die schon erlebten Katastrophen (die Zerstörung des Nordreichs und die erste Verschleppung 597 vor Christus). Was übrig ist, wird auch noch verbrennen.
-> Jesus nimmt dieses Bild im Neuen Testament auf: „Ich bin der Weinstock, ihr seid die Reben … Wer in mir bleibt, der bringt viel Frucht“ (Johannes 15,1–8). Bei Jesus geht es vor allem um Einladung: Bleibt mit mir verbunden, dann wachst ihr und bringt Frucht.
+> Jesus nimmt dieses Bild im Neuen Testament auf: „Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und ich in ihm, der bringt viel Frucht“ (Johannes 15,1–8). Bei Jesus geht es vor allem um Einladung: Bleibt mit mir verbunden, dann wachst ihr und bringt Frucht.

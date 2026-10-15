@@ -54,7 +54,7 @@ spricht der Herr, der HERR.‘“
 > „Götzen im Herzen“ – das muss keine Figur aus Holz oder Stein sein. Ein Götze ist alles, was uns wichtiger ist als Gott: Geld, Macht, Erfolg, Ansehen. Man kann einen Götzen im Herzen haben, auch wenn man nach außen fromm aussieht.
 > Vers 6: Mitten in der harten Rede steht der Ruf: „Kehrt um!“ Gott will nicht strafen, sondern dass Menschen zurückkommen.
 > Vers 9: Ein schwieriger Satz: „Dann habe ich, der HERR, diesen Propheten getäuscht.“ In der Bibel wird oft alles auf Gott zurückgeführt, auch das Schwere (vgl. 1. Könige 22,19–23). Gemeint ist wohl: Wer selbst die Wahrheit nicht will, bekommt am Ende die Täuschung, die er sucht. Gott lässt es zu, dass die Lüge ihren Lauf nimmt.
-> Vers 11: Das Ziel ist nicht Vernichtung, sondern Beziehung: „Sie sollen mein Volk sein, und ich will ihr Gott sein.“
+> Vers 11: Das Ziel ist nicht Vernichtung, sondern Beziehung. Gott tut das alles, „damit sie mein Volk sind und ich ihr Gott bin“.
 
 ---
 

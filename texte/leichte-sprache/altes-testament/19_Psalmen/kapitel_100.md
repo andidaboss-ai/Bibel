@@ -17,7 +17,7 @@ Wir sind sein Volk und die Schafe seiner Weide.
 > Psalm 100 ist einer der bekanntesten Lobpsalmen. Er wurde wohl gesungen, wenn Menschen mit einem Dankopfer zum Tempel kamen.
 > „Dient dem HERRN mit Freude“: Gottesdienst ist keine traurige Pflicht, sondern ein Fest.
 > Vers 3: Drei Gründe zur Freude: Der HERR ist Gott. Er hat uns gemacht. Wir gehören zu ihm wie Schafe zu ihrem Hirten.
-> Im Hebräischen kann man Vers 3 auch lesen: „und nicht wir selbst“ (Er hat uns gemacht, nicht wir selbst). Die englische Vorlage folgt der Lesart „und wir gehören ihm“.
+> Im Hebräischen kann man Vers 3 auch anders lesen. Dann heißt es: Er hat uns gemacht, wir haben uns nicht selbst gemacht. Die englische Vorlage folgt der Lesart „und wir gehören ihm“.
 
 ---
 

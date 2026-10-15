@@ -94,8 +94,8 @@ wenn ich mich an dir, Gog, vor ihren Augen als heilig erweise.“
 
 > **Was bedeutet das?**
 > Gog plant einen Überfall auf ein friedliches Volk, das ohne Mauern lebt, nur um zu plündern. Das ist reine Gier und Gewalt gegen Wehrlose.
-> Vers 12: „Die Mitte der Erde“ (wörtlich „der Nabel der Erde“) – Jerusalem wurde als Mittelpunkt der Welt gesehen.
-> Vers 13: Die Handelsvölker fragen spöttisch oder neugierig: „Willst du Beute machen?“ Vielleicht wollen sie selbst daran verdienen.
+> Vers 12: Das Volk wohnt „in der Mitte der Erde“ (wörtlich: am „Nabel der Erde“). Jerusalem wurde als Mittelpunkt der Welt gesehen.
+> Vers 13: Die Handelsvölker fragen spöttisch oder neugierig: „Bist du gekommen, um Beute zu machen?“ Vielleicht wollen sie selbst daran verdienen.
 > Vers 16: „In den letzten Tagen“ – darum haben viele diese Kapitel auf das Ende der Zeit bezogen.
 
 ---

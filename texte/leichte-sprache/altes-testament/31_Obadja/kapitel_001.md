@@ -118,7 +118,7 @@ Ja, sie werden trinken und hinunterschlucken
 und werden sein, als wären sie nie gewesen.
 
 > **Was bedeutet das?**
-> Vers 15: Ein Grundsatz der Gerechtigkeit Gottes: Was du anderen antust, kommt auf dich zurück. Jesus sagt etwas Ähnliches: „Mit dem Maß, mit dem ihr messt, wird euch gemessen werden“ (Matthäus 7,2). Und positiv gesagt: „Alles, was ihr wollt, dass euch die Menschen tun, das tut ihnen auch“ (Matthäus 7,12).
+> Vers 15: Ein Grundsatz der Gerechtigkeit Gottes: Was du anderen antust, kommt auf dich zurück. Jesus sagt etwas Ähnliches: „Mit dem Maß, mit dem ihr messt, wird euch gemessen werden“ (Matthäus 7,2). Und positiv gesagt: „Alles nun, was ihr wollt, dass euch die Menschen tun, das sollt auch ihr ihnen tun“ (Matthäus 7,12).
 > Vers 16: Ein Bild aus der Prophetie: der „Becher“ des Gerichts. Edom hat auf dem Zionsberg gefeiert und getrunken, als Jerusalem fiel. Jetzt müssen alle Völker den Becher des Gerichts trinken (vgl. Jeremia 25,15–29).
 
 ---

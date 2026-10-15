@@ -229,7 +229,7 @@ waren fünftausend Männer.
 > Vers 31: Jesus sorgt für seine Jünger. Nach viel Arbeit sollen sie sich ausruhen. Pausen und Erholung sind gut und wichtig.
 > Vers 34: „Wie Schafe ohne Hirten“: Ein Bild aus dem Alten Testament (4. Mose 27,17; Hesekiel 34,5). Jesus ist der gute Hirte, der für sein Volk sorgt.
 > Vers 37: Zweihundert Denare waren etwa der Lohn für zweihundert Arbeitstage. Die Jünger halten das für unmöglich.
-> Vers 39: Nur Markus erwähnt das „grüne Gras“. Das erinnert an Psalm 23,2: „Er weidet mich auf grünen Wiesen.“
+> Vers 39: Nur Markus erwähnt das „grüne Gras“. Das erinnert an Psalm 23,2: „Er lässt mich auf grünen Weiden lagern.“
 > Die Worte „nahm, sah auf, segnete, brach, gab“ erinnern Christen an das Abendmahl (14,22).
 > Vers 44: Gezählt wurden damals oft nur die Männer. Matthäus fügt hinzu, dass auch Frauen und Kinder dabei waren (Matthäus 14,21).
 > Für heute: Was wenig aussieht, wird in Jesu Händen genug für alle. Und Jesus sagt auch heute: „Gebt ihr ihnen zu essen!“

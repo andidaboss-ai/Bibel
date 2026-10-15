@@ -28,9 +28,9 @@ Ja, das Kalb Samarias wird in Stücke zerschlagen werden.
 
 > **Was bedeutet das?**
 > Vers 1: Alarm! Wie ein Raubvogel kreist der Feind (Assyrien) schon über dem Land.
-> Vers 2: Das Volk sagt fromm: „Wir kennen dich, Gott!“ Aber in Vers 3 sagt Gott: „Sie haben das Gute verworfen.“ Fromme Worte sind nicht dasselbe wie Gott wirklich kennen.
+> Vers 2: Das Volk sagt fromm: „Mein Gott, wir, Israel, kennen dich!“ Aber in Vers 3 sagt Gott: „Israel hat das Gute verworfen.“ Fromme Worte sind nicht dasselbe wie Gott wirklich kennen.
 > Vers 4: Die Könige im Nordreich kamen oft durch Mord an die Macht, nicht durch Gottes Willen.
-> Vers 5–6: Das „Kalb Samarias“: König Jerobeam I. hatte im Nordreich goldene Stierbilder aufgestellt (1. Könige 12,28–29). Hosea spottet: „Ein Handwerker hat es gemacht. Es ist kein Gott!“ Wie kann etwas, das ein Mensch gemacht hat, ein Gott sein?
+> Vers 5–6: Das „Kalb Samarias“: König Jerobeam I. hatte im Nordreich goldene Stierbilder aufgestellt (1. Könige 12,28–29). Hosea spottet: „Ein Handwerker hat es gemacht, und es ist kein Gott“ (Hosea 8,6). Wie kann etwas, das ein Mensch gemacht hat, ein Gott sein?
 
 ---
 
@@ -53,7 +53,7 @@ Und sie beginnen zu schwinden
 unter der Last des Königs der Fürsten.
 
 > **Was bedeutet das?**
-> Vers 7: Ein berühmtes Sprichwort, das bis heute benutzt wird: „Wer Wind sät, wird Sturm ernten.“ Das heißt: Wer Schlechtes tut, bekommt am Ende noch viel Schlimmeres zurück. Kleine falsche Entscheidungen können große, schlimme Folgen haben.
+> Vers 7: „Sie säen Wind, und sie werden Sturm ernten.“ Daraus wurde ein berühmtes Sprichwort. Es wird bis heute benutzt. Das heißt: Wer Schlechtes tut, bekommt am Ende noch viel Schlimmeres zurück. Kleine falsche Entscheidungen können große, schlimme Folgen haben.
 > Vers 9: Ein Wildesel läuft allein umher. Israel ist allein und einsam, weil es sich von Gott getrennt hat. Und es muss seine „Liebhaber“ (Bündnispartner) sogar bezahlen, mit hohen Tributzahlungen an Assyrien (vgl. 2. Könige 15,19–20).
 > Vers 10: Der „König der Fürsten“ ist der König von Assyrien. Die Tributlast wird Israel erdrücken.
 

@@ -250,7 +250,7 @@ und niemand wird ihm helfen.
 
 > **Was bedeutet das?**
 > Der König wird immer größenwahnsinniger. Er stellt sich über alle Götter, auch über den Gott der Götter. Antiochus IV. nannte sich selbst „Epiphanes“, das heißt „der erschienene Gott“.
-> Vers 37: „Der Liebling der Frauen“ war wahrscheinlich ein Gott, den besonders Frauen verehrten (vielleicht Tammus oder Adonis, vgl. Hesekiel 8,14).
+> Vers 37: Mit dem „Liebling der Frauen“ ist wahrscheinlich ein Gott gemeint, den besonders Frauen verehrten (vielleicht Tammus oder Adonis, vgl. Hesekiel 8,14).
 > Vers 38: Der „Gott der Festungen“ – vielleicht Zeus, oder einfach: Er verehrt nur Macht und Krieg.
 > Vers 43: „Kuschiter“ – das WEB hat „Ethiopians“, gemeint sind die Bewohner von Kusch, südlich von Ägypten.
 > Vers 40–45: Diese Verse passen nicht mehr genau zu dem, was über Antiochus IV. bekannt ist; er starb 164 vor Christus in Persien an einer Krankheit. Darum beziehen viele Ausleger diese Verse auf eine noch kommende Zeit des Endes. Andere sehen darin eine allgemeine Ankündigung seines Untergangs.

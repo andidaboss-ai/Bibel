@@ -37,7 +37,7 @@ Dann führte er mich zurück an das Ufer des Flusses.
 > Eine wunderschöne Vision: Unter der Schwelle des Tempels kommt Wasser hervor. Zuerst nur ein kleines Rinnsal. Aber es wird immer tiefer: bis an die Knöchel, bis an die Knie, bis an die Hüften und schließlich ein Fluss, in dem man schwimmen muss.
 > Das Erstaunliche: Normalerweise wird ein Fluss nur größer, wenn andere Bäche dazukommen. Dieser Fluss wächst ganz von allein. Er kommt direkt von Gott.
 > Das Bild zeigt: Wo Gott wohnt, fließt Leben. Und dieses Leben wächst und wird immer mehr.
-> Jesus sagt: „Wer an mich glaubt, aus dessen Innerem werden Ströme lebendigen Wassers fließen“ (Johannes 7,38). Vgl. auch Psalm 46,4 (in deutschen Bibeln 46,5): „Ein Strom, dessen Bäche die Stadt Gottes erfreuen.“
+> Jesus sagt: „Wer an mich glaubt, wie die Schrift sagt, aus dessen Innerem werden Ströme lebendigen Wassers fließen“ (Johannes 7,38). Vgl. auch Psalm 46,4 (in deutschen Bibeln 46,5): „Es gibt einen Strom, dessen Arme die Stadt Gottes erfreuen.“
 
 ---
 
@@ -79,7 +79,7 @@ und ihr Laub zur Heilung.“
 > Der Fluss fließt durch die Wüste (die Araba ist das Tal des Jordan bis zum Toten Meer) und dann ins Tote Meer. Das Tote Meer ist so salzig, dass darin keine Fische leben können. Aber dieses Wasser macht sogar das Tote Meer lebendig! Fischer werden dort ihre Netze auswerfen.
 > En-Gedi ist eine Oase am Westufer des Toten Meeres, die es bis heute gibt.
 > Vers 11: Die Sümpfe bleiben salzig. Salz war wichtig für das Leben damals (zum Würzen und Haltbarmachen). Gott sorgt für alles.
-> Vers 12: Bäume, die jeden Monat Frucht tragen und deren Blätter heilen. Das ist ein Bild für das Paradies. Am Ende der Bibel wird dieses Bild aufgenommen: „Ein Strom lebendigen Wassers … und auf beiden Seiten des Stroms der Baum des Lebens, der zwölfmal Frucht trägt, jeden Monat. Und die Blätter des Baumes dienen zur Heilung der Völker“ (Offenbarung 22,1–2).
+> Vers 12: Bäume, die jeden Monat Frucht tragen und deren Blätter heilen. Das ist ein Bild für das Paradies. Am Ende der Bibel wird dieses Bild aufgenommen: „Er zeigte mir einen Fluss mit dem Wasser des Lebens … Auf beiden Seiten des Flusses stand der Baum des Lebens. Er trägt zwölf Arten von Früchten und bringt jeden Monat seine Frucht. Und die Blätter des Baumes dienen zur Heilung der Völker“ (Offenbarung 22,1–2).
 > Die Botschaft: Gottes Gegenwart verwandelt auch das Tote in Lebendiges, die Wüste in einen Garten.
 
 ---
@@ -146,5 +146,5 @@ spricht der Herr, der HERR.
 > **Was bedeutet das?**
 > Ein revolutionärer Satz für die damalige Zeit! Die Fremden, die dauerhaft unter Israel leben und dort ihre Familien haben, sollen genauso Land bekommen wie die Einheimischen. Sie sollen „wie die Einheimischen“ sein.
 > Im alten Gesetz war das Erbland an die Stämme Israels gebunden; Fremde hatten in der Regel kein eigenes Erbland. Hier geht Hesekiel einen großen Schritt weiter: Im neuen Land Gottes gehören die Fremden ganz dazu.
-> Das ist eine starke Botschaft für heute: Menschen, die aus anderen Ländern zu uns gekommen sind und hier leben, sollen gleiche Rechte und eine echte Heimat bekommen. Gott schließt niemanden aus (vgl. 3. Mose 19,34: „Der Fremde soll euch sein wie ein Einheimischer, und du sollst ihn lieben wie dich selbst“).
+> Das ist eine starke Botschaft für heute: Menschen, die aus anderen Ländern zu uns gekommen sind und hier leben, sollen gleiche Rechte und eine echte Heimat bekommen. Gott schließt niemanden aus (vgl. 3. Mose 19,34: „Der Fremde, der als Ausländer bei euch lebt, soll für euch wie ein Einheimischer sein. Und du sollst ihn lieben wie dich selbst“).
 

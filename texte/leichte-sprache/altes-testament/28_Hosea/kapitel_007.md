@@ -38,7 +38,7 @@ Keiner unter ihnen ruft mich an.
 > Vers 1: Ein trauriger Satz: Gott will heilen, aber je mehr er hinschaut, desto mehr Bosheit kommt zum Vorschein.
 > Vers 3–7: Hosea beschreibt die politischen Zustände im Nordreich. In seiner Zeit wurden in kurzer Folge mehrere Könige ermordet (vgl. 2. Könige 15). Die Verschwörer schmeicheln dem König, betrinken sich mit ihm beim Fest, und dann schlagen sie zu.
 > Das Bild vom Backofen: Ihre Leidenschaft und ihre Mordlust glühen im Verborgenen wie ein Ofen über Nacht, und am Morgen brechen sie als Feuer aus.
-> Vers 7: „Keiner ruft mich an.“ In all dem Chaos fragt niemand nach Gott.
+> Vers 7: „Keiner unter ihnen ruft mich an.“ In all dem Chaos fragt niemand nach Gott.
 
 ---
 

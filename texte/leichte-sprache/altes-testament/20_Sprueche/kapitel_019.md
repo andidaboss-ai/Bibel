@@ -101,5 +101,5 @@ und Schläge für den Rücken der Toren.
 > Vers 22: Was macht einen Menschen wirklich liebenswert? Nicht Geld oder Aussehen, sondern Güte.
 > Vers 24: Ein komisches Bild: Der Faule ist sogar zu faul, um seine Hand vom Teller zum Mund zu führen.
 > Vers 25 und 29: Damals waren Prügelstrafen üblich. Der Spruch will sagen: Wer nicht hören will, muss die Folgen spüren, und andere lernen daraus. Heute gibt es keine Prügelstrafen mehr, und das ist gut so. Der Kern bleibt: Ein Kluger lernt schon aus einem Wort.
-> Vers 26: Eltern im Alter schlecht zu behandeln, ist eine große Schande. Das Gebot „Ehre Vater und Mutter“ gilt auch für erwachsene Kinder.
+> Vers 26: Eltern im Alter schlecht zu behandeln, ist eine große Schande. Das Gebot „Ehre deinen Vater und deine Mutter“ (2. Mose 20,12) gilt auch für erwachsene Kinder.
 

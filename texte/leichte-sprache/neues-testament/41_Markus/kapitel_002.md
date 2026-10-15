@@ -92,7 +92,7 @@ sondern Sünder zur Umkehr.“
 > Levi ist ein Zöllner. Im Matthäusevangelium heißt er Matthäus (Matthäus 9,9).
 > Zöllner sammelten Zoll und Steuern für die Herrscher. Viele verlangten mehr, als sie durften. Darum waren sie unbeliebt.
 > Gemeinsam essen bedeutete damals: Wir gehören zusammen. Jesus isst mit Menschen, die andere meiden. Er zeigt: Gott schließt niemanden aus.
-> Vers 16: Das WEB sagt „the scribes and the Pharisees“. Viele alte Handschriften haben „die Schriftgelehrten der Pharisäer“, also Schriftgelehrte, die zu den Pharisäern gehörten. Die Pharisäer wollten Gottes Gebote im Alltag sehr genau halten, auch beim Essen. Ihre Frage ist ernst gemeint, nicht einfach böse.
+> Vers 16: Das WEB sagt „die Schriftgelehrten und die Pharisäer“. Viele alte Handschriften haben „die Schriftgelehrten der Pharisäer“, also Schriftgelehrte, die zu den Pharisäern gehörten. Die Pharisäer wollten Gottes Gebote im Alltag sehr genau halten, auch beim Essen. Ihre Frage ist ernst gemeint, nicht einfach böse.
 > Vers 17: Die Worte „zur Umkehr“ fehlen in vielen alten Handschriften. Sie stehen in Lukas 5,32. Das WEB hat sie.
 > Für heute: Die Kirche soll ein Ort für alle sein, besonders für die, die sich ausgeschlossen fühlen.
 
@@ -159,6 +159,6 @@ Herr auch über den Sabbat.“
 > **Was bedeutet das?**
 > Der Sabbat ist der heilige Ruhetag (2. Mose 20,8–11). Es war erlaubt, am Rand eines fremden Feldes Ähren zu pflücken (5. Mose 23,26). Aber manche Lehrer sahen das Abreißen am Sabbat als Erntearbeit an. Darüber gab es unterschiedliche Meinungen.
 > Vers 25–26: Die Geschichte von David steht in 1. Samuel 21,2–7. Dort heißt der Priester allerdings Ahimelech. Abjatar war sein Sohn und wurde später Hoherpriester. Für diesen Unterschied gibt es verschiedene Erklärungen. Vielleicht meint „zur Zeit des Abjatar“ allgemein die Zeit, in der Abjatar lebte.
-> Vers 27 erzählt nur Markus. Ein ähnlicher Satz steht auch in einer alten jüdischen Schriftauslegung: „Der Sabbat ist euch gegeben, nicht ihr dem Sabbat.“ Jesus sagt also etwas, das auch andere jüdische Lehrer so sahen.
+> Vers 27 erzählt nur Markus. Ein ähnlicher Satz steht auch in einer alten jüdischen Schriftauslegung. Dort heißt es sinngemäß: Der Sabbat ist für euch da, nicht ihr für den Sabbat. Jesus sagt also etwas, das auch andere jüdische Lehrer so sahen.
 > Der Sabbat ist ein Geschenk Gottes an die Menschen, damit sie ruhen und aufatmen können. Er soll kein Zwang sein, der Menschen schadet.
 > Für heute: Auch heute brauchen Menschen Ruhetage. Der Sonntag oder ein anderer freier Tag schützt uns davor, nur noch zu arbeiten.

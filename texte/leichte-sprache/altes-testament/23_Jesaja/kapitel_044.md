@@ -41,7 +41,7 @@ Ich kenne keinen anderen Felsen.“
 > Vers 2: „Jeschurun“ ist ein liebevoller Name für Israel. Er bedeutet etwa „der Aufrichtige“ oder „der Liebling“ (wie in 5. Mose 32,15 und 33,5).
 > Vers 3–4: Gott gießt seinen Geist aus wie Wasser auf trockenes Land. Die Kinder werden wachsen wie Bäume am Bach.
 > Vers 5: Menschen bekennen sich freudig zu Gott: „Ich gehöre dem HERRN.“ Manche schreiben es sogar auf ihre Hand, wie ein Zeichen der Zugehörigkeit.
-> Vers 6: „Ich bin der Erste und der Letzte.“ Gott war vor allem da und wird nach allem da sein. In der Offenbarung (Kapitel 1,17 und 22,13) wird dieses Wort aufgegriffen.
+> Vers 6: „Ich bin der Erste, und ich bin der Letzte.“ Gott war vor allem da und wird nach allem da sein. In der Offenbarung (Kapitel 1,17 und 22,13) wird dieses Wort aufgegriffen.
 > Vers 8: Gott ist der einzige „Fels“, auf den man sich verlassen kann.
 
 ---

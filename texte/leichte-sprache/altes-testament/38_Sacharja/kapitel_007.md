@@ -72,7 +72,7 @@ Denn sie haben das liebliche Land zur Wüste gemacht.“
 > Güte und Erbarmen zeigen.
 > Die Schwächsten nicht unterdrücken: Witwen, Waisen, Fremde und Arme.
 > Nicht einmal im Herzen Böses gegen andere planen.
-> Das erinnert an Jesaja 58: „Ist nicht das ein Fasten, wie ich es liebe: dass du das Unrecht beendest … dem Hungrigen dein Brot brichst?“ und an Micha 6,8.
+> Das erinnert an Jesaja 58,6–7: „Ist nicht das ein Fasten, wie ich es erwählt habe: die Fesseln der Bosheit zu lösen … dein Brot mit dem Hungrigen zu teilen?“ Und es erinnert an Micha 6,8.
 > Vers 11–12: Die Vorfahren wollten das nicht hören. Sie machten ihre Herzen hart „wie Feuerstein“ (andere übersetzen „wie Diamant“).
 > Vers 13–14: Darum kam das Exil. Wer nicht auf Gott hört, wenn er ruft, wird erleben, dass Gott schweigt, wenn er selbst ruft.
 > Für heute: Wie gehen wir mit Fremden, Armen und Alleinstehenden um? Für Gott ist das wichtiger als jede religiöse Übung.

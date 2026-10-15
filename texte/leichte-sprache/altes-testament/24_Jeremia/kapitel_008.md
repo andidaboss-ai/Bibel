@@ -129,7 +129,7 @@ Warum ist denn die Wunde der Tochter meines Volkes nicht geheilt?
 > **Was bedeutet das?**
 > Vers 14–16: Die Menschen merken jetzt, dass das Unglück kommt. Sie fliehen in die Festungen, aber ohne Hoffnung.
 > Vers 18: Jetzt spricht Jeremia selbst. Sein Herz ist krank vor Kummer.
-> Vers 19: Man hört schon die Stimmen aus dem Exil: „Ist Gott nicht mehr in Zion?“ Und Gott antwortet traurig: Warum haben sie mich mit Götzen gekränkt?
+> Vers 19: Man hört schon die Stimmen aus dem Exil: „Ist der HERR nicht in Zion?“ Und Gott antwortet traurig: Warum haben sie mich mit Götzen gekränkt?
 > Vers 20: Ein berühmter Vers: „Die Ernte ist vorbei, der Sommer ist zu Ende, und wir sind nicht gerettet.“ Die Zeit, in der man noch hätte umkehren können, ist vorbei.
 > Vers 21: Jeremia leidet mit seinem Volk. Er ist „zerbrochen“, weil sein Volk zerbrochen ist.
 > Vers 22: Gilead (östlich des Jordan) war berühmt für sein heilendes Balsam-Harz. Jeremia fragt verzweifelt: Gibt es denn keine Medizin und keinen Arzt für mein Volk? Ein afroamerikanisches Spiritual antwortet darauf: „There is a balm in Gilead“, „Es gibt einen Balsam in Gilead, der die Verwundeten heilt“.

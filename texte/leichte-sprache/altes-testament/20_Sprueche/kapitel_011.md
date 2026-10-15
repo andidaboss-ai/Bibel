@@ -24,7 +24,7 @@ und der Gottlose kommt an seine Stelle.
 
 > **Was bedeutet das?**
 > Vers 1: Im Handel benutzte man Waagen mit Gewichtssteinen. Manche Händler betrogen mit falschen Gewichten. Gott hasst Betrug im Geschäft. Das gilt heute genauso: falsche Abrechnungen, versteckte Kosten, Lügen in der Werbung.
-> Vers 2: „Hochmut kommt vor dem Fall“: ein bekanntes Sprichwort, das aus solchen Versen entstanden ist.
+> Vers 2: „Wenn Hochmut kommt, dann kommt Schande.“ Aus solchen Versen ist ein bekanntes Sprichwort entstanden: Hochmut kommt vor dem Fall.
 > Vers 4: Am Ende zählt nicht, wie viel Geld jemand hat, sondern wie er gelebt hat.
 
 ---

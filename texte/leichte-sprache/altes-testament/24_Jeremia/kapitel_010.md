@@ -66,7 +66,7 @@ HERR der Heere ist sein Name.
 > Vers 2: Die Babylonier deuteten die Sterne und hatten Angst vor Zeichen am Himmel wie Sonnenfinsternissen. Gott sagt: Habt keine Angst davor! Ich habe die Sterne gemacht.
 > Vers 3–5: Wieder ein Spott über die Götzen: Ein Baum wird gefällt, geschnitzt, vergoldet und festgenagelt, damit er nicht umfällt. Er kann nicht reden und nicht gehen. Andere Übersetzungen vergleichen das Götterbild hier mit einer „Vogelscheuche im Gurkenfeld“. „Fürchtet euch nicht vor ihnen, sie können nichts tun.“
 > Vers 6–7: Ein Lobpreis: „Niemand ist wie du, HERR!“
-> Vers 10: „Der HERR ist der wahre Gott, der lebendige Gott.“ Das ist der Gegensatz zu den toten Götzen.
+> Vers 10: „Der HERR ist der wahre Gott. Er ist der lebendige Gott.“ Das ist der Gegensatz zu den toten Götzen.
 > Vers 11: Dieser Vers ist auf Aramäisch geschrieben, nicht auf Hebräisch. Aramäisch war die Sprache, die man damals in Babylon und im ganzen Orient verstand. Wahrscheinlich sollten die Verbannten diesen Satz den Babyloniern in ihrer eigenen Sprache sagen können.
 > Vers 12–13: Gott ist der Schöpfer. Er macht Regen, Blitze und Wind.
 > Vers 16: Israels „Anteil“, also sein Schatz, ist Gott selbst, der Schöpfer von allem.
@@ -111,9 +111,9 @@ und seine Wohnung verwüstet.
 
 > **Was bedeutet das?**
 > Vers 17–18: Packt eure Sachen! Das Exil kommt.
-> Vers 19–20: Jerusalem spricht wie eine Mutter, deren Zelt zerstört ist und deren Kinder fort sind. „Das ist mein Leid, und ich muss es tragen.“
+> Vers 19–20: Jerusalem spricht wie eine Mutter, deren Zelt zerstört ist und deren Kinder fort sind. „Das ist eben mein Leid, und ich muss es tragen.“
 > Vers 21: Die „Hirten“, die Anführer des Volkes, haben nicht nach Gott gefragt. Darum ist die Herde zerstreut.
-> Vers 23 ist ein bekannter Vers: „Der Mensch kann seine Schritte nicht selbst lenken.“ Wir haben unser Leben nicht völlig im Griff. Wir sind auf Gott angewiesen.
+> Vers 23 ist ein bekannter Vers: „Es liegt nicht an dem Menschen, der geht, seine Schritte zu lenken.“ Wir haben unser Leben nicht völlig im Griff. Wir sind auf Gott angewiesen.
 > Vers 24: Ein demütiges Gebet: Gott, korrigiere mich, aber sanft, nicht im Zorn.
 > Vers 25: Ein Gebet, Gottes Zorn möge die Völker treffen, die Israel zerstört haben. Das ist ein Schrei der Unterdrückten nach Gerechtigkeit, wie in manchen Psalmen (Psalm 79,6–7). Es ist an Gott gerichtet und überlässt ihm das Urteil. Es ist keine Erlaubnis, anderen Völkern Gewalt anzutun.
 

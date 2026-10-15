@@ -38,7 +38,7 @@ Auch die Welt steht fest. Sie kann nicht wanken.
 Er wird die Völker gerecht richten.
 
 > **Was bedeutet das?**
-> Vers 7–9 erinnern an Psalm 29,1–2. Aber dort waren es die himmlischen Wesen, hier sind es „die Familien der Völker“, also alle Menschen.
+> Vers 7–9 erinnern an Psalm 29,1–2. Aber dort waren es die himmlischen Wesen, hier sind es die „Familien der Völker“, also alle Menschen.
 > Vers 10: Die gute Nachricht für die Welt: „Der HERR ist König!“ Er wird gerecht richten.
 
 ---

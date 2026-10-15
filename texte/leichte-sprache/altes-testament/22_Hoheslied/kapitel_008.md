@@ -103,6 +103,6 @@ auf den Bergen der Gewürze!
 > **Gegenseitige Liebe:** „Mein Geliebter ist mein, und ich bin sein“ (2,16; 6,3; 7,10). Keiner herrscht über den anderen. Die Liebe ist gleichberechtigt.
 > **Der Körper ist gut:** Das Buch spricht offen und zart über Schönheit und körperliche Liebe. Die Bibel sieht die Liebe zwischen Mann und Frau als Gottes gutes Geschenk.
 > **Weckt die Liebe nicht zu früh:** Dreimal kommt diese Mahnung (2,7; 3,5; 8,4). Liebe braucht Zeit und Freiheit. Man kann sie nicht erzwingen und nicht kaufen.
-> **Stark wie der Tod:** Der Höhepunkt: „Die Liebe ist stark wie der Tod. Viele Wasser können sie nicht löschen“ (8,6–7).
+> **Stark wie der Tod:** Der Höhepunkt: „Die Liebe ist stark wie der Tod. … Viele Wasser können die Liebe nicht auslöschen“ (8,6–7).
 > **Ein Bild für Gottes Liebe:** Juden lesen das Hohelied am Pessachfest als Lied der Liebe zwischen Gott und Israel. Christen haben darin die Liebe zwischen Christus und seiner Gemeinde gesehen. Beide Deutungen ergänzen die wörtliche Lesart.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Jesaja, das erste der großen Prophetenbücher. Es spricht von Gericht und Hoffnung, vom Friedensfürsten und vom leidenden Gottesknecht.

@@ -94,7 +94,7 @@ Meine Freude war bei den Menschenkindern.
 > Das ist einer der schönsten Texte des Buches. Die Weisheit erzählt: Bevor es Berge, Meere und Erde gab, war ich schon bei Gott. Ich war dabei, als er alles erschuf.
 > Vers 30: Die Weisheit war wie ein Baumeister an Gottes Seite. Oder, wie man das hebräische Wort auch übersetzen kann: wie ein Kind, das vor Gott spielt und sich freut. Die Schöpfung ist voller Freude.
 > Vers 31: Besonders gern ist die Weisheit bei den Menschen.
-> Juden sehen in der Weisheit oft die Tora, Gottes Weisung, die schon vor der Welt bei Gott war. Christen sehen in diesem Text einen Hinweis auf Christus. Das Johannesevangelium sagt: „Im Anfang war das Wort, und das Wort war bei Gott … Alles ist durch dasselbe gemacht“ (Johannes 1,1–3). Paulus nennt Christus „Gottes Weisheit“ (1. Korinther 1,24).
+> Juden sehen in der Weisheit oft die Tora, Gottes Weisung, die schon vor der Welt bei Gott war. Christen sehen in diesem Text einen Hinweis auf Christus. Das Johannesevangelium sagt: „Am Anfang war das Wort. Und das Wort war bei Gott … Alles ist durch das Wort entstanden“ (Johannes 1,1–3). Paulus nennt Christus „Gottes Weisheit“ (1. Korinther 1,24).
 
 ---
 

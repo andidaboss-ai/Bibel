@@ -104,7 +104,7 @@ draußen vor den Toren Jerusalems.“
 
 > **Was bedeutet das?**
 > König Jojakim (609–598 vor Christus) baute sich einen prächtigen Palast mit Zedernholz und roter Farbe. Aber er ließ die Arbeiter ohne Lohn arbeiten.
-> Vers 13: „Wehe dem, der seinen Nächsten umsonst arbeiten lässt und ihm seinen Lohn nicht gibt!“ Das ist einer der deutlichsten Sätze der Bibel gegen Ausbeutung. Gerechter Lohn ist Gottes Wille (vgl. 5. Mose 24,14–15; Jakobus 5,4).
+> Vers 13: „Wehe dem … der seinen Nächsten umsonst arbeiten lässt und ihm seinen Lohn nicht gibt!“ Das ist einer der deutlichsten Sätze der Bibel gegen Ausbeutung. Gerechter Lohn ist Gottes Wille (vgl. 5. Mose 24,14–15; Jakobus 5,4).
 > Vers 15–16: Ein wunderbarer Gedanke: Jojakims Vater Joschija hat gut gelebt, gegessen und getrunken, aber er hat auch für die Armen gesorgt. Und Gott sagt: „Heißt nicht das, mich zu erkennen?“ Gott zu kennen heißt nicht nur, etwas über Gott zu wissen, sondern gerecht zu handeln.
 > Vers 18–19: Jojakim wird ohne Trauer und ohne ehrenvolles Begräbnis bleiben, wie ein toter Esel, den man vor die Stadt wirft.
 

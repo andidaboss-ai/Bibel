@@ -82,7 +82,7 @@ bis zu einer bestimmten Zeit und Stunde.
 > **Was bedeutet das?**
 > Plötzlich wechselt die Szene: Ein himmlischer Gerichtssaal. Gott selbst sitzt auf dem Thron. Er heißt „der Hochbetagte“ (wörtlich „der Alte an Tagen“), weil er ewig ist. Sein weißes Haar und Gewand stehen für Weisheit und Reinheit.
 > Der Thron hat Räder aus Feuer, wie der Thronwagen bei Hesekiel (Hesekiel 1).
-> Vers 10: Unzählige Engel dienen ihm. „Die Bücher werden geöffnet“: Gott hält Gericht über die Taten der Mächtigen.
+> Vers 10: Unzählige Engel dienen ihm. „Das Gericht setzte sich, und die Bücher wurden geöffnet.“ Das heißt: Gott hält Gericht über die Taten der Mächtigen.
 > Vers 11: Das vierte Tier mit dem großspurigen Horn wird vernichtet. Das Gericht Gottes beendet die Herrschaft der Gewalt.
 
 ---
@@ -106,7 +106,7 @@ und sein Königtum wird nicht zerstört.
 > Wer ist dieser „Menschensohn“?
 > – In Vers 18 und 27 wird gesagt, dass „die Heiligen des Höchsten“ das Reich bekommen. Darum verstehen viele jüdische Ausleger den Menschensohn als Bild für das treue Volk Gottes.
 > – Andere jüdische Ausleger, schon in der Antike, sahen in ihm den Messias.
-> – Im Neuen Testament nennt Jesus sich selbst immer wieder „Menschensohn“. Vor dem Hohen Rat sagt er: „Ihr werdet den Menschensohn sitzen sehen zur Rechten der Macht und kommen mit den Wolken des Himmels“ (Markus 14,62). Für Christen ist Jesus dieser Menschensohn.
+> – Im Neuen Testament nennt Jesus sich selbst immer wieder „Menschensohn“. Vor dem Hohen Rat sagt er: „Ihr werdet den Menschensohn sehen, wie er zur Rechten der Macht sitzt und mit den Wolken des Himmels kommt“ (Markus 14,62). Für Christen ist Jesus dieser Menschensohn.
 
 ---
 
@@ -171,7 +171,7 @@ Aber ich bewahrte die Sache in meinem Herzen.“
 
 > **Was bedeutet das?**
 > Ein Engel erklärt: Die vier Tiere sind vier Königreiche. Am Ende aber bekommen „die Heiligen des Höchsten“ das ewige Reich.
-> Vers 25: Der hochmütige Herrscher (das kleine Horn) verfolgt die Gläubigen und will „die Zeiten und das Gesetz ändern“, also die Feste und Gebote Gottes abschaffen.
+> Vers 25: Der hochmütige Herrscher (das kleine Horn) verfolgt die Gläubigen. Er plant, „die Zeiten und das Gesetz zu ändern“. Das heißt: Er will die Feste und Gebote Gottes abschaffen.
 > „Eine Zeit und Zeiten und eine halbe Zeit“ sind wahrscheinlich dreieinhalb Jahre (1 + 2 + ½), eine begrenzte Zeit des Leidens. Die Verfolgung hat ein Ende.
 > Wer ist das kleine Horn?
 > – Viele Ausleger denken an König Antiochus IV. Epiphanes (175–164 vor Christus). Er verbot den Juden, den Sabbat zu halten und die Beschneidung zu feiern, und entweihte den Tempel in Jerusalem. Nach etwa dreieinhalb Jahren wurde der Tempel wieder geweiht (das feiern Juden bis heute am Chanukka-Fest).

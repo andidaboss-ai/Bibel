@@ -42,7 +42,7 @@ Dann werdet ihr erkennen, dass ich, der HERR, es bin, der schlägt.
 > **Was bedeutet das?**
 > Dieses Kapitel klingt wie Alarmglocken: „Ein Ende! Das Ende kommt!“ Die Worte werden immer wieder wiederholt, kurz und hart. Die Menschen sollen aufwachen.
 > Die „vier Ecken des Landes“ meinen: das ganze Land, von einem Ende zum anderen.
-> Vers 3–4: „Ich richte dich nach deinen Wegen.“ Gott bringt das Böse, das die Menschen getan haben, auf sie selbst zurück. Unrecht hat Folgen.
+> Vers 3–4: „Ich sende meinen Zorn gegen dich und richte dich nach deinen Wegen.“ Gott bringt das Böse, das die Menschen getan haben, auf sie selbst zurück. Unrecht hat Folgen.
 > Vgl. auch Amos 8,2: „Das Ende ist gekommen über mein Volk Israel.“
 
 ---

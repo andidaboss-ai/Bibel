@@ -67,7 +67,7 @@ sondern Sünder zur Umkehr.“
 > Vers 9: Zöllner trieben Zölle und Abgaben für die Herrscher ein und behielten oft mehr, als ihnen zustand. Sie galten als Betrüger und Verräter. Ausgerechnet so einen ruft Jesus. Nach der Überlieferung ist dieser Matthäus der Verfasser dieses Evangeliums.
 > Vers 10–11: Jesus isst mit Menschen, die als „Sünder“ ausgegrenzt waren. Gemeinsames Essen war damals ein Zeichen von Gemeinschaft und Annahme. Für fromme Menschen war das anstößig.
 > Vers 12: „Nicht die Gesunden brauchen einen Arzt, sondern die Kranken.“ Jesus ist für die da, die ihn brauchen.
-> Vers 13: Jesus zitiert Hosea 6,6: „Ich will Barmherzigkeit und nicht Opfer.“ Barmherzigkeit ist Gott wichtiger als religiöse Rituale.
+> Vers 13: Jesus sagt: „Ich will Barmherzigkeit und nicht Opfer.“ Das ist ein Zitat aus Hosea 6,6. Barmherzigkeit ist Gott wichtiger als religiöse Rituale.
 > Für heute: Jesus grenzt niemanden aus. Kein Mensch ist zu „schlecht“ für Gott.
 
 ---

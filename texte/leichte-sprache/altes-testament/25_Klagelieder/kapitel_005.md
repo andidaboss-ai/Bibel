@@ -45,7 +45,7 @@ Füchse laufen darauf umher.
 > **Was bedeutet das?**
 > Das fünfte Lied ist ein gemeinsames Gebet des ganzen Volkes: „Denk daran, HERR! Schau her!“ Es ist nicht alphabetisch gebaut, hat aber 22 Verse, so viele wie das hebräische Alphabet Buchstaben hat.
 > Vers 2–4: Das Leben im besetzten Land: Häuser gehören Fremden, sogar Wasser und Brennholz muss man teuer kaufen.
-> Vers 7: „Unsere Väter haben gesündigt, und wir tragen ihre Schuld.“ Die Kinder leiden unter den Fehlern der vorigen Generation. Jeremia sagt dagegen, dass in Zukunft jeder nur für seine eigene Schuld einstehen wird (Jeremia 31,29–30).
+> Vers 7: „Unsere Väter haben gesündigt und sind nicht mehr. Wir tragen ihre Schuld.“ Die Kinder leiden unter den Fehlern der vorigen Generation. Jeremia sagt dagegen, dass in Zukunft jeder nur für seine eigene Schuld einstehen wird (Jeremia 31,29–30).
 > Vers 11: Sexuelle Gewalt gegen Frauen ist ein Kriegsverbrechen, damals wie heute. Die Bibel benennt dieses Unrecht und klagt es vor Gott an. Wer sexuelle Gewalt erlebt hat, findet Hilfe: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Sexueller Missbrauch 0800 22 55 530.
 > Vers 13: Sogar Kinder müssen schwere Zwangsarbeit leisten.
 > Vers 14–15: Kein Gericht im Tor, keine Musik, kein Tanz mehr. Alles Leben ist erstorben.
@@ -67,7 +67,7 @@ Du bist sehr zornig auf uns.
 
 > **Was bedeutet das?**
 > Vers 19: Mitten in all dem Leid ein festes Bekenntnis: „Du, HERR, bleibst für immer.“ Alles ist zerstört, aber Gott bleibt.
-> Vers 20: Und doch die ehrliche Frage: „Warum vergisst du uns so lange?“
+> Vers 20: Und doch die ehrliche Frage: „Warum vergisst du uns für immer und verlässt uns so lange Zeit?“
 > Vers 21 ist ein berühmtes Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren! Erneuere unsere Tage wie in alter Zeit!“ Das Volk weiß: Selbst umkehren können wir nicht. Gott muss uns zurückbringen. Dieser Vers wird im jüdischen Gottesdienst gesungen, wenn die Tora-Rolle zurück in den Schrein gelegt wird.
 > Vers 22: Das Buch endet mit einem bitteren Satz: „Du hast uns ganz verworfen.“ Manche Übersetzungen lesen ihn als Frage: „Oder hast du uns ganz verworfen?“ Es gibt keine schnelle Antwort. In der Synagoge liest man nach Vers 22 noch einmal Vers 21, damit das Buch mit der Bitte um Erneuerung endet und nicht mit dem Zorn.
 
@@ -82,7 +82,7 @@ Du bist sehr zornig auf uns.
 > **Niemand tröstet:** „Sie hat keinen Tröster“ (Kapitel 1). Das Leid ist auch eine tiefe Einsamkeit.
 > **Die Kinder:** Immer wieder geht es um das Leiden der Kinder in Krieg und Hunger. Die Lieder rufen dazu auf, hinzusehen.
 > **Schuld und Leid:** Die Lieder sagen ehrlich, dass das Volk gesündigt hat. Aber sie reden das Leid nicht klein.
-> **Hoffnung in der Mitte:** Genau im Herzen des Buches steht: „Sein Erbarmen ist jeden Morgen neu. Groß ist deine Treue“ (3,22–23).
+> **Hoffnung in der Mitte:** Genau im Herzen des Buches steht: „Sein Erbarmen hört nicht auf. Es ist jeden Morgen neu. Groß ist deine Treue“ (3,22–23).
 > **Bring uns zurück:** Am Ende steht das Gebet: „Bring uns zurück, HERR, zu dir, so werden wir zurückkehren“ (5,21).
 > **Für heute:** Die Klagelieder helfen allen, die trauern, Worte für ihren Schmerz zu finden. Wer trauert, muss nicht allein bleiben: Telefonseelsorge 0800 111 0 111.
 > **Wie geht es weiter?** Als Nächstes kommt das Buch Hesekiel. Hesekiel war ein Priester, der in Babylon lebte und dort Visionen von Gottes Herrlichkeit hatte.

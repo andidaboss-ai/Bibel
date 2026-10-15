@@ -57,7 +57,7 @@ spricht der Herr, der HERR.
 > – keine Wucherzinsen von Armen nehmen,
 > – fair und gerecht urteilen.
 > „Auf den Bergen essen“ meint Opfermahlzeiten an Götzenheiligtümern.
-> Jesus nennt ähnliche Taten in Matthäus 25,35–36: „Ich war hungrig, und ihr habt mir zu essen gegeben … ich war nackt, und ihr habt mich gekleidet.“
+> Jesus nennt ähnliche Taten in Matthäus 25,35–36: „Ich war hungrig, und ihr habt mir zu essen gegeben … Ich war nackt, und ihr habt mir Kleidung gegeben.“
 
 ---
 
@@ -124,7 +124,7 @@ und die Gottlosigkeit des Gottlosen wird auf ihm sein.
 
 > **Was bedeutet das?**
 > Der Enkel sieht, was sein Vater Böses tut, und macht es anders. Er bricht den Kreislauf! Gott sagt: Er soll leben. Er muss nicht für die Schuld seines Vaters büßen.
-> Vers 17: „Seine Hand vom Armen zurückhalten“ meint hier: den Armen nicht schaden, ihn nicht unterdrücken (vgl. Vers 8: „vom Unrecht zurückhalten“).
+> Vers 17: Gemeint ist ein Mensch, „der seine Hand vom Armen zurückhält“. Das heißt hier: Er schadet den Armen nicht und unterdrückt sie nicht (vgl. Vers 8: „seine Hand vom Unrecht zurückhält“).
 > Das ist eine große Hoffnung für alle, die in schwierigen Familien aufgewachsen sind: Du musst nicht wiederholen, was dir angetan wurde oder was du gesehen hast. Mit Gottes Hilfe kannst du anders leben.
 > Wenn du in deiner Familie Gewalt oder Sucht erlebt hast und darüber reden möchtest: Telefonseelsorge 0800 111 0 111, für Kinder und Jugendliche: Nummer gegen Kummer 116 111.
 

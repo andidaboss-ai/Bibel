@@ -37,7 +37,7 @@ denn sie sind sehr widerspenstig.
 > **Was bedeutet das?**
 > Vers 1: Gott nennt Hesekiel „Menschensohn“ (hebräisch „ben adam“). Das heißt einfach „Mensch“. Im Buch Hesekiel kommt diese Anrede über 90 Mal vor. Sie zeigt, wie klein der Mensch vor Gott ist, und gleichzeitig, dass Gott mit diesem Menschen reden will. (Jesus nennt sich später selbst oft „Menschensohn“, in Anlehnung an Daniel 7,13.)
 > Vers 2: Hesekiel liegt auf dem Gesicht. Gottes Geist stellt ihn wieder auf die Füße. Gott selbst gibt ihm die Kraft, zu stehen.
-> Vers 5: Ob die Leute hören oder nicht, sie werden wissen: „Ein Prophet war unter uns.“ Hesekiels Aufgabe ist nicht, erfolgreich zu sein, sondern treu Gottes Wort weiterzugeben.
+> Vers 5: Ob die Leute hören oder nicht, sie werden erkennen, „dass ein Prophet unter ihnen gewesen ist“. Hesekiels Aufgabe ist nicht, erfolgreich zu sein, sondern treu Gottes Wort weiterzugeben.
 > Vers 6: Die Menschen werden für ihn wie Dornen und Skorpione sein, schmerzhaft und gefährlich. Aber Gott sagt dreimal: „Fürchte dich nicht!“
 
 ---

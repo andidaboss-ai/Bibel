@@ -48,7 +48,7 @@ und werden nicht aus ihrem Schlaf geweckt.
 > Ein schönes und trauriges Bild: Ein Baum, der gefällt wurde, kann wieder austreiben. Schon der Geruch von Wasser lässt ihn wieder sprießen.
 > Aber der Mensch? Wenn er stirbt, ist er weg. Wie ein ausgetrockneter Fluss.
 > „Bis der Himmel nicht mehr ist“: Hiob meint wohl: niemals. Aber spätere Teile der Bibel sprechen genau davon, dass Gott einen neuen Himmel schafft und die Toten auferweckt (Jesaja 65,17; Daniel 12,2; Offenbarung 21,1).
-> Jesaja benutzt später das Bild vom Baumstumpf als Hoffnungsbild: „Aus dem Stumpf Isais wird ein Reis hervorgehen“ (Jesaja 11,1).
+> Jesaja benutzt später das Bild vom Baumstumpf als Hoffnungsbild: „Ein Reis wird hervorgehen aus dem Stumpf Isais“ (Jesaja 11,1).
 
 ---
 

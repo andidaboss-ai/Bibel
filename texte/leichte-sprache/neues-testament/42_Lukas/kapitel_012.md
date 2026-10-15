@@ -62,7 +62,7 @@ was ihr sagen müsst.“
 > Vers 5: „Gehenna“ ist das Hinnomtal bei Jerusalem. Dort wurden früher schreckliche Opfer gebracht (Jeremia 7,31). Später wurde der Name ein Bild für Gottes Gericht. Gemeint ist Gott. „Gott fürchten“ heißt in der Bibel: Gott ernst nehmen und Ehrfurcht vor ihm haben.
 > Vers 6: Ein Assarion war eine sehr kleine Münze. Spatzen waren das billigste Essen für arme Leute. Trotzdem vergisst Gott keinen.
 > Vers 7: Für heute: Du bist Gott unendlich wichtig. Er kennt dich ganz genau.
-> Vers 10: Was „den Heiligen Geist lästern“ bedeutet, wird verschieden erklärt. Viele Ausleger sagen: Gemeint ist, dass man sich Gottes Vergebung bewusst und dauerhaft verweigert. Wer Angst hat, diese Sünde begangen zu haben, hat sie gerade deshalb wohl nicht begangen. Diese Angst zeigt, dass einem Gott nicht egal ist.
+> Vers 10: Jesus sagt: „Wer den Heiligen Geist lästert, dem wird nicht vergeben werden.“ Was das bedeutet, wird verschieden erklärt. Viele Ausleger sagen: Gemeint ist, dass man sich Gottes Vergebung bewusst und dauerhaft verweigert. Wer Angst hat, diese Sünde begangen zu haben, hat sie gerade deshalb wohl nicht begangen. Diese Angst zeigt, dass einem Gott nicht egal ist.
 > Vers 11–12: Die ersten Christen wurden vor Gericht gestellt. Jesus verspricht: Ihr seid nicht allein.
 
 ---

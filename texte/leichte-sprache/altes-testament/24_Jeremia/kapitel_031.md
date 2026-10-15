@@ -158,7 +158,7 @@ dessen Zähne werden stumpf werden.
 
 > **Was bedeutet das?**
 > Vers 25: „Ich habe die müde Seele getränkt.“ Gott erfrischt die Erschöpften.
-> Vers 26: Jeremia wacht auf und sagt: „Mein Schlaf war süß.“ Nach all den schweren Botschaften war diese Botschaft wie ein schöner Traum.
+> Vers 26: Jeremia wacht auf und sagt: „Mein Schlaf war mir süß gewesen.“ Nach all den schweren Botschaften war diese Botschaft wie ein schöner Traum.
 > Vers 28: Wieder die Worte aus Jeremias Berufung (1,10): Gott hat ausgerissen und niedergerissen. Jetzt wird er bauen und pflanzen.
 > Vers 29–30: Ein Sprichwort sagte damals: Die Väter haben gesündigt, und die Kinder müssen dafür büßen. Gott sagt: Das soll nicht mehr gelten. Jeder ist für seine eigenen Taten verantwortlich. (Auch Hesekiel 18 sagt das.)
 
@@ -194,7 +194,7 @@ und an ihre Sünde nicht mehr denken.“
 > Vers 33: Das Neue: Gottes Gesetz steht nicht mehr nur auf Steintafeln, sondern wird ins Herz geschrieben. Die Menschen tun Gottes Willen dann nicht mehr aus Zwang, sondern von innen heraus, weil sie es wollen.
 > Vers 34: Alle werden Gott kennen, vom Kleinsten bis zum Größten. Niemand braucht mehr einen Lehrer. Und die Grundlage ist Vergebung: „Ich werde an ihre Sünde nicht mehr denken.“
 > Im Judentum wird diese Verheißung auf Israel bezogen: Gott erneuert seinen Bund mit seinem Volk, und das Gesetz (die Tora) wird ins Herz geschrieben.
-> Im Neuen Testament wird dieser Text auf Jesus bezogen. Beim letzten Abendmahl sagt Jesus: „Dieser Kelch ist der neue Bund in meinem Blut“ (Lukas 22,20). Der Hebräerbrief zitiert den ganzen Abschnitt (Hebräer 8,8–12).
+> Im Neuen Testament wird dieser Text auf Jesus bezogen. Beim letzten Abendmahl sagt Jesus: „Dieser Becher ist der neue Bund in meinem Blut“ (Lukas 22,20). Der Hebräerbrief zitiert den ganzen Abschnitt (Hebräer 8,8–12).
 > Wichtig: Der neue Bund wird ausdrücklich mit Israel und Juda geschlossen. Gott hat sein Volk Israel nicht verworfen (vgl. Vers 35–37; Römer 11,1–2).
 
 ---

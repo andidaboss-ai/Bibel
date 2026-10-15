@@ -33,7 +33,7 @@ Und er befestigt es mit Nägeln, damit es nicht wackelt.
 
 > **Was bedeutet das?**
 > Gott ruft die Völker wie zu einer Gerichtsverhandlung.
-> Vers 2–3: „Einer aus dem Osten“ ist Kyrus, der König von Persien. Er eroberte ein Land nach dem anderen und im Jahr 539 vor Christus auch Babylon. Jesaja sagt: Gott hat ihn gerufen.
+> Vers 2–3: Es geht um „einen aus dem Osten“. Das ist Kyrus, der König von Persien. Er eroberte ein Land nach dem anderen und im Jahr 539 vor Christus auch Babylon. Jesaja sagt: Gott hat ihn gerufen.
 > Vers 4: Gott ist der Erste und der Letzte. Er lenkt die ganze Geschichte.
 > Vers 6–7: Die Völker bekommen Angst und machen sich gegenseitig Mut, indem sie schnell neue Götterbilder bauen und festnageln. Jesaja beschreibt das mit Spott.
 
@@ -78,7 +78,7 @@ Du wirst dich des Heiligen Israels rühmen.
 
 > **Was bedeutet das?**
 > Vers 8: Gott nennt Abraham „meinen Freund“. Was für eine Ehre! Und Israel ist sein „Knecht“, sein Diener, den er erwählt hat.
-> Vers 10 ist einer der tröstlichsten Verse der Bibel: „Fürchte dich nicht, denn ich bin mit dir. Ich stärke dich, ich helfe dir, ich halte dich.“
+> Vers 10 ist einer der tröstlichsten Verse der Bibel: „Fürchte dich nicht, denn ich bin mit dir. … Ich stärke dich. Ja, ich helfe dir. Ja, ich halte dich.“
 > Vers 13: Gott hält die Hand seines Volkes, wie ein Vater oder eine Mutter ein Kind an der Hand hält.
 > Vers 14: „Du Wurm Jakob“: Israel fühlt sich im Exil klein und schwach wie ein Wurm. Gott sagt: Gerade dir helfe ich. „Erlöser“ heißt auf Hebräisch „Go’el“: ein Verwandter, der für einen Angehörigen in Not eintritt und ihn freikauft. So tritt Gott für sein Volk ein.
 > Vers 15–16: Das schwache Volk wird mit Gottes Hilfe stark wie ein Dreschschlitten, der Berge zermalmt. Das ist ein Bild dafür, dass Gott alle Hindernisse beseitigt.

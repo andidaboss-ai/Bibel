@@ -18,7 +18,7 @@ Er weidet unter den Lilien.
 
 > **Was bedeutet das?**
 > Die Frauen bieten an, beim Suchen zu helfen. Aber die Frau weiß jetzt, wo er ist: in „seinem Garten“, also bei ihr.
-> Vers 3: Wie in Kapitel 2,16, aber umgekehrt: „Ich gehöre meinem Geliebten, und er gehört mir.“ Dieser Satz steht oft in Eheringen, auf Hebräisch „Ani le-dodi ve-dodi li“.
+> Vers 3: Wie in Kapitel 2,16, aber umgekehrt: „Ich gehöre meinem Geliebten, und mein Geliebter gehört mir.“ Dieser Satz steht oft in Eheringen, auf Hebräisch „Ani le-dodi ve-dodi li“.
 
 ---
 

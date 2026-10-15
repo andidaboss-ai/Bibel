@@ -111,7 +111,7 @@ und sie werden gesund werden.“
 > Vers 15: Die gute Nachricht ist für alle Menschen auf der ganzen Welt bestimmt.
 > Vers 16: Ein ernstes Wort. Christen verstehen es unterschiedlich. Viele betonen: Gott allein urteilt über Menschen. Gott ist barmherzig und will, dass alle gerettet werden (1. Timotheus 2,4). Niemand soll mit diesem Vers anderen Menschen Angst machen oder sie verurteilen.
 > „Neue Sprachen“ erinnert an Pfingsten (Apostelgeschichte 2,4). In Apostelgeschichte 28,3–6 wird erzählt, dass Paulus von einer Schlange gebissen wurde und keinen Schaden nahm.
-> Ganz wichtig: Vers 18 ist keine Aufforderung, Gott zu prüfen! Manche Gruppen haben mit Giftschlangen hantiert oder Gift getrunken, um ihren Glauben zu beweisen. Dabei sind Menschen gestorben. Jesus selbst hat in der Wüste gesagt: „Du sollst den Herrn, deinen Gott, nicht auf die Probe stellen“ (Matthäus 4,7). Bitte niemals so etwas tun. Bei einer Vergiftung sofort den Notruf 112 oder den Giftnotruf anrufen.
+> Ganz wichtig: Vers 18 ist keine Aufforderung, Gott zu prüfen! Manche Gruppen haben mit Giftschlangen hantiert oder Gift getrunken, um ihren Glauben zu beweisen. Dabei sind Menschen gestorben. Jesus selbst hat in der Wüste gesagt: „Du sollst den Herrn, deinen Gott, nicht versuchen“ (Matthäus 4,7). Das heißt: Man soll Gott nicht auf die Probe stellen. Bitte niemals so etwas tun. Bei einer Vergiftung sofort den Notruf 112 oder den Giftnotruf anrufen.
 > Wer krank ist, darf beten und soll zum Arzt gehen. Beides gehört zusammen. Wer nicht gesund wird, hat nicht zu wenig geglaubt.
 
 ---

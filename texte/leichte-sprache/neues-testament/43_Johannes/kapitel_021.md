@@ -197,12 +197,12 @@ die man schreiben müsste.
 ## Rückblick: Was haben wir im Evangelium nach Johannes gelesen?
 
 > **Was bedeutet das?**
-> **Ein anderes Evangelium:** Johannes erzählt anders als Matthäus, Markus und Lukas. Er beginnt nicht mit der Geburt, sondern mit der Ewigkeit: „Am Anfang war das Wort … und das Wort war Gott“ (1,1). „Das Wort wurde Mensch“ (1,14).
+> **Ein anderes Evangelium:** Johannes erzählt anders als Matthäus, Markus und Lukas. Er beginnt nicht mit der Geburt, sondern mit der Ewigkeit: „Am Anfang war das Wort … und das Wort war Gott“ (1,1). „Das Wort wurde Fleisch“ (1,14). Das heißt: Es wurde ein Mensch.
 > **Die Zeichen:** Johannes erzählt von großen Taten Jesu und nennt sie „Zeichen“: Wasser wird Wein in Kana, Heilungen, die Speisung der 5000, Jesus geht auf dem Wasser, der Blindgeborene sieht, Lazarus wird auferweckt. Viele Ausleger zählen sieben solche Zeichen. Die Zeichen zeigen, wer Jesus ist.
 > **Die „Ich bin“-Worte:** „Ich bin das Brot des Lebens“, „das Licht der Welt“, „die Tür“, „der gute Hirte“, „die Auferstehung und das Leben“, „der Weg, die Wahrheit und das Leben“, „der wahre Weinstock“.
 > **Die Liebe Gottes:** „So sehr hat Gott die Welt geliebt …“ (3,16). Jesus wäscht seinen Jüngern die Füße und gibt das neue Gebot: „Liebt einander, so wie ich euch geliebt habe“ (13,34).
 > **Der Heilige Geist:** Jesus verspricht den Beistand, den Geist der Wahrheit. Er bleibt bei den Jüngern.
 > **Kreuz und Ostern:** Am Kreuz sagt Jesus: „Es ist vollbracht.“ Maria Magdalena begegnet als Erste dem Auferstandenen. Thomas bekennt: „Mein Herr und mein Gott!“
 > **Ein wichtiger Hinweis:** Johannes schreibt oft „die Juden“. Damit meint er meist die Leiter in Jerusalem, die Jesus ablehnten. Jesus, seine Mutter, alle Jünger und die ersten Christen waren Juden. „Das Heil kommt von den Juden“ (4,22). Diese Texte wurden oft missbraucht, um Juden zu hassen. Das war schwere Schuld. Kein Text dieses Evangeliums darf gegen Juden benutzt werden.
-> **Für heute:** Johannes schrieb, „damit ihr glaubt … und Leben habt“ (20,31). Auch wer zweifelt wie Thomas oder versagt wie Petrus, ist eingeladen.
+> **Für heute:** Johannes schrieb, „damit ihr glaubt … und damit ihr durch den Glauben Leben habt“ (20,31). Auch wer zweifelt wie Thomas oder versagt wie Petrus, ist eingeladen.
 > **Wie geht es weiter?** Als Nächstes kommt die Apostelgeschichte. Sie wurde von Lukas geschrieben und ist die Fortsetzung seines Evangeliums. Sie erzählt, wie der Heilige Geist an Pfingsten kommt und wie die gute Nachricht von Jerusalem aus bis nach Rom getragen wird, durch Petrus, Paulus und viele andere.

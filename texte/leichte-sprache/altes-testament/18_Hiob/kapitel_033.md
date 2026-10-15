@@ -115,7 +115,7 @@ damit er im Licht der Lebenden leuchtet.
 > **Was bedeutet das?**
 > Hier kommt Elihu auf Hiobs Wunsch nach einem Schiedsrichter, Zeugen und Erlöser zurück (Kapitel 9,33; 16,19; 19,25).
 > Er sagt: Es kann einen Engel geben, einen „Mittler“, der für den Menschen eintritt. Dann sagt Gott: „Ich habe ein Lösegeld gefunden.“ Der Mensch wird gerettet.
-> „Lösegeld“ ist ein Preis, der bezahlt wird, um jemanden freizukaufen. Christen sehen hier einen Hinweis auf Jesus, der sagt, er sei gekommen, „sein Leben als Lösegeld für viele zu geben“ (Markus 10,45).
+> „Lösegeld“ ist ein Preis, der bezahlt wird, um jemanden freizukaufen. Christen sehen hier einen Hinweis auf Jesus, der sagt, er sei gekommen, „um zu dienen und sein Leben hinzugeben als Lösegeld für viele“ (Markus 10,45).
 > Die Folge: Der Mensch wird gesund, betet zu Gott, sieht Gottes Angesicht mit Freude und singt von seiner Rettung. Er bekennt ehrlich seine Schuld.
 > Vers 29–30: Gott tut das immer wieder, „zweimal, dreimal“. Er gibt nicht auf. Er will den Menschen ins Licht zurückholen.
 

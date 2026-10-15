@@ -90,5 +90,5 @@ aber es gibt einen Freund, der fester zu einem hält als ein Bruder.
 > **Was bedeutet das?**
 > Vers 22: Eine gute Ehe ist ein Geschenk Gottes.
 > Vers 23: Eine traurige Beobachtung: Arme müssen bitten, Reiche antworten oft hart. Das soll nicht so sein.
-> Vers 24: Viele Bekannte zu haben, heißt nicht, echte Freunde zu haben. Ein einziger treuer Freund ist mehr wert. Christen sehen in Jesus diesen Freund, der „fester hält als ein Bruder“ (vgl. Johannes 15,13–15).
+> Vers 24: Viele Bekannte zu haben, heißt nicht, echte Freunde zu haben. Ein einziger treuer Freund ist mehr wert. Christen sehen in Jesus diesen Freund, „der fester zu einem hält als ein Bruder“. Jesus nennt seine Jünger seine Freunde (vgl. Johannes 15,13–15).
 

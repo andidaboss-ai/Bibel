@@ -38,6 +38,6 @@ Die Aufrichtigen werden sein Angesicht sehen.
 
 > **Was bedeutet das?**
 > Davids Antwort auf die Frage „Was kann der Gerechte tun?“: Er schaut nach oben. Auch wenn auf der Erde alles wankt, Gott sitzt noch auf seinem Thron. Er sieht alles.
-> Vers 5: Gott „hasst den, der Gewalt liebt“. Gewalt ist Gott zuwider.
+> Vers 5: Von Gott heißt es: „Seine Seele hasst den Gottlosen und den, der Gewalt liebt.“ Gewalt ist Gott zuwider.
 > Vers 6: „Feuer und Schwefel“ erinnert an Sodom und Gomorra (1. Mose 19,24). „Becher“ ist ein Bild für das Schicksal, das jemand bekommt.
 > Vers 7: Das Ziel der Aufrichtigen ist, Gottes Angesicht zu sehen, also ganz nah bei Gott zu sein (vgl. Matthäus 5,8: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen“).

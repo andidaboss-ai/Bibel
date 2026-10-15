@@ -40,7 +40,7 @@ HERR ist sein Name.
 
 > **Was bedeutet das?**
 > In der fünften Vision steht Gott selbst am Altar, wahrscheinlich in Bethel. Das Heiligtum, auf das die Menschen vertrauten, wird zerstört.
-> Vers 2–4: Es gibt keinen Ort, an dem man sich vor Gott verstecken kann: weder im Totenreich noch im Himmel, weder auf dem Berg noch auf dem Meeresgrund. Das erinnert an Psalm 139,7–10. Dort ist es ein Trost („Wohin ich auch gehe, du bist da“). Hier ist es eine Warnung.
+> Vers 2–4: Es gibt keinen Ort, an dem man sich vor Gott verstecken kann: weder im Totenreich noch im Himmel, weder auf dem Berg noch auf dem Meeresgrund. Das erinnert an Psalm 139,7–10. Dort ist es ein Trost: „Steige ich hinauf in den Himmel, so bist du dort.“ Hier ist es eine Warnung.
 > Vers 5–6: Wieder ein Lobpreis auf Gottes Größe, wie in 4,13 und 5,8–9.
 
 ---
@@ -103,8 +103,8 @@ spricht der HERR, dein Gott.
 > Vers 11: Die „Hütte Davids“ ist das Königshaus Davids. Es ist zerfallen wie eine Laubhütte. Aber Gott wird es wieder aufrichten.
 > Vers 12: Bemerkenswert: „alle Völker, über denen mein Name ausgerufen ist“. Auch andere Völker gehören zu Gott. Im Neuen Testament zitiert Jakobus diese Verse beim Apostelkonzil in Jerusalem, um zu begründen, dass auch Nichtjuden zur Gemeinde Jesu gehören dürfen (Apostelgeschichte 15,15–17).
 > Vers 13: Ein Bild von unglaublichem Überfluss: Die Ernte ist so groß, dass man noch nicht fertig ist mit Ernten, wenn schon wieder gepflügt werden muss.
-> Vers 14: Die Flüche aus 5,11 werden umgekehrt: Dort hieß es „Ihr werdet nicht darin wohnen, ihr werdet ihren Wein nicht trinken.“ Jetzt heißt es: „Sie werden darin wohnen und ihren Wein trinken.“
-> Vers 15: „Sie werden nie mehr ausgerissen werden.“ Gottes letztes Wort ist Heil.
+> Vers 14: Die Flüche aus Kapitel 5 werden umgekehrt. Dort hieß es: „Ihr werdet nicht darin wohnen … ihr werdet ihren Wein nicht trinken“ (5,11). Jetzt heißt es: „Sie werden die verwüsteten Städte wieder aufbauen und darin wohnen. Sie werden Weinberge pflanzen und ihren Wein trinken.“
+> Vers 15: „Sie werden nicht mehr ausgerissen werden aus ihrem Land.“ Gottes letztes Wort ist Heil.
 
 ---
 
@@ -113,12 +113,12 @@ spricht der HERR, dein Gott.
 > **Was bedeutet das?**
 > **Ein Hirte als Prophet:** Amos war ein einfacher Viehhirte und Bauer aus Tekoa, kein Berufsprophet. Gott schickte ihn ins reiche Nordreich Israel (7,14–15).
 > **Gerechtigkeit für die Armen:** Das große Thema von Amos ist soziale Gerechtigkeit. Er klagt an: Die Reichen verkaufen „den Armen für ein Paar Sandalen“, betrügen mit falschen Waagen, beugen das Recht vor Gericht und leben im Luxus, während andere hungern.
-> **Keine Ausnahme für das eigene Volk:** Gott richtet nicht nur die Nachbarvölker, sondern gerade auch Israel. „Nur euch habe ich erwählt, darum werde ich euch heimsuchen“ (3,2).
-> **Gottesdienst ohne Gerechtigkeit:** „Ich hasse eure Feste … Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (5,21–24). Martin Luther King hat diese Worte zum Motto der Bürgerrechtsbewegung gemacht.
+> **Keine Ausnahme für das eigene Volk:** Gott richtet nicht nur die Nachbarvölker, sondern gerade auch Israel. „Nur euch habe ich erwählt von allen Sippen der Erde. Darum werde ich euch für alle eure Sünden heimsuchen“ (3,2).
+> **Gottesdienst ohne Gerechtigkeit:** „Ich hasse, ich verachte eure Feste … Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (5,21–24). Martin Luther King hat diese Worte zum Motto der Bürgerrechtsbewegung gemacht.
 > **Sucht mich und lebt:** „Sucht das Gute und nicht das Böse, damit ihr lebt“ (5,14).
-> **Ein Prophet, der betet:** Amos tritt für sein Volk ein: „Vergib doch! Wie soll Jakob bestehen? Er ist so klein“ (7,2).
-> **Gott aller Völker:** „Seid ihr mir nicht wie die Kuschiter?“ (9,7). Gott liebt alle Völker gleich.
-> **Hunger nach Gottes Wort:** Es wird ein Hunger kommen, „nicht nach Brot, sondern nach dem Wort des HERRN“ (8,11).
+> **Ein Prophet, der betet:** Amos tritt für sein Volk ein: „Herr, HERR, vergib doch! Wie soll Jakob bestehen? Denn er ist klein“ (7,2).
+> **Gott aller Völker:** „Seid ihr für mich nicht wie die Kinder der Kuschiter, ihr Kinder Israel?“ (9,7). Gott liebt alle Völker gleich.
+> **Hunger nach Gottes Wort:** Gott sagt: „Da werde ich einen Hunger ins Land senden, nicht einen Hunger nach Brot und nicht einen Durst nach Wasser, sondern danach, die Worte des HERRN zu hören“ (8,11).
 > **Hoffnung am Ende:** Gott wird die zerfallene Hütte Davids wieder aufrichten (9,11).
 > **Für heute:** Amos fragt uns: Wie gehen wir mit armen und schwachen Menschen um? Passen unser Glaube und unser Alltag zusammen? Wo ist Gerechtigkeit nötig, in unserer Stadt, unserem Land, in der Welt?
 > **Wie geht es weiter?** Als Nächstes kommt Obadja, das kürzeste Buch des Alten Testaments, nur ein Kapitel lang. Es ist ein Wort gegen Edom, das sich am Unglück seines Brudervolkes gefreut hat.

@@ -103,8 +103,8 @@ dann wird er dadurch leben.
 Haus Israel, ich werde jeden von euch nach seinen Wegen richten.‘“
 
 > **Was bedeutet das?**
-> Vers 10: Nach der Katastrophe sind die Menschen verzweifelt: „Unsere Schuld liegt auf uns, wir gehen daran zugrunde. Wie sollen wir da noch leben?“ Sie haben alle Hoffnung verloren.
-> Vers 11: Gottes Antwort ist einer der schönsten Sätze der Bibel: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern daran, dass er umkehrt und lebt. Kehrt um! Warum wollt ihr sterben?“ (vgl. Kapitel 18,23.32). Gott will Leben, nicht Tod.
+> Vers 10: Nach der Katastrophe sind die Menschen verzweifelt: „Unsere Übertretungen und unsere Sünden liegen auf uns, und wir vergehen in ihnen. Wie können wir da leben?“ Sie haben alle Hoffnung verloren.
+> Vers 11: Gottes Antwort ist einer der schönsten Sätze der Bibel: „Ich habe keinen Gefallen am Tod des Gottlosen, sondern daran, dass der Gottlose umkehrt von seinem Weg und lebt. Kehrt um, kehrt um von euren bösen Wegen! Denn warum wollt ihr sterben?“ (vgl. Kapitel 18,23.32). Gott will Leben, nicht Tod.
 > Vers 12–20: Das wiederholt die Botschaft aus Kapitel 18: Jeder Mensch kann umkehren. Die Vergangenheit muss nicht über die Zukunft entscheiden.
 > Vers 15: Umkehr ist ganz praktisch: Gestohlenes zurückgeben, Unrecht wiedergutmachen (vgl. Zachäus in Lukas 19,8).
 > Wenn du dich selbst so fühlst, als würde dich deine Schuld oder deine Lage erdrücken, und du keinen Ausweg siehst: Sprich mit jemandem. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222, kostenlos und rund um die Uhr.
@@ -167,7 +167,7 @@ wegen all ihrer Gräuel, die sie begangen haben.“‘
 > **Was bedeutet das?**
 > Einige Menschen sind in den Trümmern Jerusalems zurückgeblieben. Sie sagen: „Abraham war allein und bekam das ganze Land. Wir sind viele, also gehört das Land erst recht uns.“
 > Gott antwortet: Ihr beruft euch auf Abraham, aber ihr lebt nicht wie Abraham. Ihr haltet euch nicht an Gottes Gebote, ihr vertraut auf Gewalt („ihr stützt euch auf euer Schwert“). Man kann sich nicht auf Gottes Verheißungen berufen und gleichzeitig Unrecht tun.
-> Vers 25: „Mit dem Blut essen“ war verboten (1. Mose 9,4; 3. Mose 17,10–14).
+> Vers 25: Gott sagt: „Ihr esst mit dem Blut.“ Das war verboten (1. Mose 9,4; 3. Mose 17,10–14).
 
 ---
 
@@ -198,4 +198,4 @@ dass ein Prophet unter ihnen gewesen ist.“
 > **Was bedeutet das?**
 > Jetzt, nachdem Hesekiels Vorhersagen eingetroffen sind, ist er plötzlich beliebt. Die Leute reden über ihn und kommen, um ihn zu hören.
 > Aber Gott sagt: Sie hören dich an wie einen guten Sänger mit einer schönen Stimme. Sie finden es unterhaltsam. Aber sie ändern nichts an ihrem Leben.
-> Das ist eine wichtige Warnung, auch für heute: Man kann eine Predigt schön finden, einen Gottesdienst genießen oder ein Bibelkapitel interessant finden und trotzdem nichts davon im Leben umsetzen. Jesus sagt: „Wer meine Worte hört und tut sie, der ist wie ein Mann, der sein Haus auf Fels baut“ (Matthäus 7,24). Vgl. auch Jakobus 1,22: „Seid Täter des Wortes und nicht Hörer allein.“
+> Das ist eine wichtige Warnung, auch für heute: Man kann eine Predigt schön finden, einen Gottesdienst genießen oder ein Bibelkapitel interessant finden und trotzdem nichts davon im Leben umsetzen. Jesus sagt: „Jeder nun, der diese meine Worte hört und sie tut, den will ich mit einem klugen Mann vergleichen, der sein Haus auf den Felsen baute“ (Matthäus 7,24). Vgl. auch Jakobus 1,22: „Seid aber Täter des Wortes, nicht nur Hörer.“

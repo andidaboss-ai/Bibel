@@ -21,7 +21,7 @@ Ich muss zurückgeben, was ich nicht geraubt habe.
 > **Was bedeutet das?**
 > „Das Wasser steht mir bis zum Hals“: Diese Redewendung kommt aus diesem Psalm. Der Beter fühlt sich, als würde er ertrinken. Er findet keinen Halt mehr.
 > Er hat geschrien, bis seine Stimme versagt. Er hat gewartet, bis seine Augen müde wurden.
-> Vers 4: Er wird ohne Grund gehasst. Er soll etwas zurückgeben, was er nie gestohlen hat. Jesus zitiert „Sie hassen mich ohne Grund“ (Johannes 15,25).
+> Vers 4: Er wird ohne Grund gehasst. Er soll etwas zurückgeben, was er nie gestohlen hat. Jesus zitiert: „Sie haben mich ohne Grund gehasst“ (Johannes 15,25).
 > Wenn dir gerade das Wasser bis zum Hals steht und du keinen Ausweg siehst: Hol dir Hilfe. Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.
 
 ---

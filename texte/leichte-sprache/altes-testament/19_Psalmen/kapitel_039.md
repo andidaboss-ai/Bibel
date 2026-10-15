@@ -78,6 +78,6 @@ bevor ich gehe und nicht mehr bin.“
 
 > **Was bedeutet das?**
 > Vers 12: „Ich bin ein Fremder bei dir, ein Gast“: Der Mensch ist auf der Erde nur Gast. Er wohnt nur eine Zeit lang hier, wie Abraham, der als Fremder im Land lebte. Die Erde gehört Gott (Psalm 24,1).
-> Vers 13: Ein erschütternder Schluss. Im Hebräischen steht wörtlich: „Schau weg von mir.“ Der Beter fühlt Gottes Blick wie eine Last, unter der er leidet. Er bittet um eine Atempause.
+> Vers 13: Ein erschütternder Schluss. Im Hebräischen bittet er wörtlich: Gott soll von ihm wegschauen. Der Beter fühlt Gottes Blick wie eine Last, unter der er leidet. Er bittet um eine Atempause.
 > Psalm 39 gehört zu den dunkelsten Psalmen. Er zeigt: Auch solche Gebete haben Platz in der Bibel.
 > Wenn du dich gerade so fühlst, als ob du keine Kraft mehr hast und nicht mehr da sein willst: Rede mit jemandem. Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222. Bei akuter Gefahr: Notruf 112.

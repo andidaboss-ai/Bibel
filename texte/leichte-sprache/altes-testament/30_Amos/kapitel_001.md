@@ -7,7 +7,7 @@
 
 Amos war kein Berufsprophet. Er war ein Viehhirte aus Tekoa, einem kleinen Ort südlich von Betlehem in Juda. Er züchtete auch Maulbeerfeigen (Amos 7,14). Gott rief ihn von seinen Herden weg und schickte ihn ins Nordreich Israel.
 Er wirkte um 760 vor Christus, zur Zeit des Königs Jerobeam II. Es war eine Zeit des Wohlstands: Die Reichen bauten sich Sommer- und Winterhäuser mit Elfenbein, feierten große Feste und brachten viele Opfer. Gleichzeitig wurden die Armen ausgebeutet, betrogen und vor Gericht ungerecht behandelt.
-Amos ist der große Prophet der sozialen Gerechtigkeit. Sein berühmtester Satz: „Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (Amos 5,24). Martin Luther King zitierte diesen Satz in seiner berühmten Rede „I have a dream“ (1963).
+Amos ist der große Prophet der sozialen Gerechtigkeit. Sein berühmtester Satz: „Aber das Recht soll strömen wie Wasser und die Gerechtigkeit wie ein mächtiger Strom“ (Amos 5,24). Martin Luther King zitierte diesen Satz 1963 in seiner berühmten Rede. Darin sprach er von seinem Traum: Schwarze und weiße Menschen sollen die gleichen Rechte haben.
 Das Buch hat 9 Kapitel:
 – Kapitel 1–2: Gerichtsworte über die Nachbarvölker und über Israel.
 – Kapitel 3–6: Reden gegen die Ungerechtigkeit in Israel.

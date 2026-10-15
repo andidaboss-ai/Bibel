@@ -56,7 +56,7 @@ die ganze Nachkommenschaft Efraims.
 > Vers 4: Die Menschen dachten: Solange der Tempel steht, kann uns nichts passieren. Gott wohnt ja hier! Dreimal sagen sie „Tempel des HERRN“ wie eine Zauberformel. Jeremia sagt: Das sind Lügenworte. Ein Gebäude schützt euch nicht.
 > Vers 5–7: Worauf es ankommt: Gerechtigkeit üben, Fremde, Waisen und Witwen nicht unterdrücken, kein unschuldiges Blut vergießen.
 > Vers 9–10: Die Menschen brechen fast alle Zehn Gebote und kommen dann in den Tempel und sagen: „Wir sind gerettet!“
-> Vers 11: „Ist dieses Haus eine Räuberhöhle geworden?“ Räuber ziehen sich nach ihren Überfällen in ihre Höhle zurück, wo sie sicher sind. So benutzten die Leute den Tempel. Jesus zitiert diesen Vers, als er die Händler aus dem Tempel treibt (Markus 11,17).
+> Vers 11: „Ist dieses Haus … eine Räuberhöhle geworden?“ Räuber ziehen sich nach ihren Überfällen in ihre Höhle zurück, wo sie sicher sind. So benutzten die Leute den Tempel. Jesus zitiert diesen Vers, als er die Händler aus dem Tempel treibt (Markus 11,17).
 > Vers 12–14: Schilo war früher der Ort, wo die Bundeslade stand (1. Samuel 1–4). Schilo wurde später zerstört. Jeremia sagt: Genauso kann es dem Tempel in Jerusalem ergehen. Für diese Rede wäre Jeremia fast getötet worden (Kapitel 26).
 
 ---
@@ -128,7 +128,7 @@ und aus ihrem Mund verschwunden.‘
 > **Was bedeutet das?**
 > Vers 21: Ein ironischer Satz: Ihr könnt eure Opfer gleich selbst essen, sie bedeuten mir nichts.
 > Vers 22–23: Gott sagt: Beim Auszug aus Ägypten ging es mir nicht zuerst um Opfer, sondern darum, dass ihr auf mich hört. „Ich will euer Gott sein, und ihr sollt mein Volk sein.“ Das ist das Herz des Bundes. Die Opfergesetze kamen erst später dazu und waren nicht das Wichtigste.
-> Vers 24: „Sie gingen rückwärts und nicht vorwärts.“ Ein starkes Bild.
+> Vers 24: Sie „gingen rückwärts und nicht vorwärts“. Ein starkes Bild.
 > Vers 28: „Die Wahrheit ist verloren gegangen.“ Ein trauriges Urteil über eine Gesellschaft.
 
 ---

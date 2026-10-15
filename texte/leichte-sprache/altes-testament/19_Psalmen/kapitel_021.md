@@ -24,7 +24,7 @@ Durch die Güte des Höchsten wird er nicht wanken.
 
 > **Was bedeutet das?**
 > Psalm 21 gehört zu Psalm 20. In Psalm 20 bat das Volk für den König. In Psalm 21 dankt es, weil Gott die Bitte erfüllt hat.
-> Vers 2 antwortet direkt auf Psalm 20,4: „Er gebe dir, was dein Herz wünscht.“ Jetzt heißt es: „Du hast ihm gegeben, was sein Herz wünscht.“
+> Vers 2: „Du hast ihm gegeben, was sein Herz wünscht.“ Das ist die direkte Antwort auf Psalm 20,4. Dort hieß es: „Er gebe dir, was dein Herz wünscht.“
 > Vers 7 ist die Mitte des Psalms: Der König ist stark, weil er auf Gott vertraut, nicht auf sich selbst.
 > Juden haben den Psalm auch auf den Messias bezogen, Christen auf Jesus, den König, der „Leben für immer“ hat.
 

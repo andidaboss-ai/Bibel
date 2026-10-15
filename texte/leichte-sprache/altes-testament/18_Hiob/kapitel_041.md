@@ -109,6 +109,6 @@ Er ist König über alle Söhne des Stolzes.“
 > **Was bedeutet das?**
 > Alle Waffen der Menschen sind gegen den Leviatan nutzlos: Schwert, Speer, Pfeil, Schleuder, Keule.
 > Vers 31–32: Wenn er durch das Meer schwimmt, schäumt das Wasser auf. Hinter ihm bleibt eine weiße Schaumspur, als hätte das Meer graue Haare bekommen.
-> Vers 34: Der Leviatan ist „König über alle Stolzen“. Das ist der Schlüssel: In Kapitel 40,11–12 hatte Gott Hiob herausgefordert, die Stolzen zu erniedrigen. Hiob kann nicht einmal den Leviatan bezwingen. Aber Gott hat ihn geschaffen und hat ihn in der Hand.
+> Vers 34: Der Leviatan ist „König über alle Söhne des Stolzes“. Das heißt: über alle Stolzen. Das ist der Schlüssel: In Kapitel 40,11–12 hatte Gott Hiob herausgefordert, die Stolzen zu erniedrigen. Hiob kann nicht einmal den Leviatan bezwingen. Aber Gott hat ihn geschaffen und hat ihn in der Hand.
 > Die Botschaft der beiden Gottesreden: Die Welt ist voller wilder und gefährlicher Kräfte, die der Mensch nicht beherrscht. Aber Gott beherrscht sie. Hiob muss nicht alles verstehen. Er kann Gott vertrauen.
 > Gott hat Hiobs Frage nach dem Warum nicht beantwortet. Er hat ihm nichts von dem Gespräch im Himmel erzählt (Kapitel 1–2). Aber Gott hat sich ihm gezeigt. Und das genügt Hiob, wie das nächste Kapitel zeigt.

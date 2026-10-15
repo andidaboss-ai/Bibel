@@ -93,7 +93,7 @@ und dazu viele Tiere?“
 > **Eine zweite Chance:** Gott ruft Jona ein zweites Mal (3,1).
 > **Die Feinde kehren um:** Die heidnischen Seeleute und die ganze Stadt Ninive wenden sich Gott zu. Und Gott hat Erbarmen.
 > **Gottes Barmherzigkeit ärgert Jona:** „Ich wusste, dass du ein gnädiger und barmherziger Gott bist“ (4,2).
-> **Gott liebt alle Menschen:** „Sollte es mir nicht leidtun um Ninive, die große Stadt?“ (4,11). Gottes Liebe gilt allen Völkern, sogar den Feinden.
+> **Gott liebt alle Menschen:** „Und mir sollte es nicht leidtun um Ninive, die große Stadt?“ (4,11). Gottes Liebe gilt allen Völkern, sogar den Feinden.
 > **Jona und Jesus:** Jesus spricht vom „Zeichen des Jona“: Wie Jona drei Tage im Fisch war, wird er drei Tage im Grab sein (Matthäus 12,39–41).
 > **Für heute:** Wem gönne ich Gottes Gnade nicht? Wo laufe ich vor dem davon, was Gott von mir will? Und: Gott gibt zweite Chancen, auch mir.
-> **Wie geht es weiter?** Als Nächstes kommt Micha. Er lebte zur Zeit Jesajas und trat für die Armen ein. Von ihm stammt der berühmte Satz: „Es ist dir gesagt, Mensch, was gut ist“ (Micha 6,8). Und er kündigt an, dass aus Bethlehem ein Herrscher kommen wird (Micha 5,2; in deutschen Bibeln 5,1).
+> **Wie geht es weiter?** Als Nächstes kommt Micha. Er lebte zur Zeit Jesajas und trat für die Armen ein. Von ihm stammt der berühmte Satz: „Er hat dir gezeigt, Mensch, was gut ist“ (Micha 6,8). Und er kündigt an, dass aus Bethlehem ein Herrscher kommen wird (Micha 5,2; in deutschen Bibeln 5,1).

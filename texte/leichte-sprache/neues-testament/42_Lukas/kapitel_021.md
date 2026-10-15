@@ -23,7 +23,7 @@ was sie zum Leben hatte.“
 > **Was bedeutet das?**
 > Im Tempel gab es Kästen für Spenden. Die zwei kleinen Münzen waren die kleinste Münzsorte. Sie waren fast nichts wert.
 > Jesus sieht genau hin. Für Gott zählt nicht die Höhe der Spende, sondern das Herz. Die Witwe gibt alles.
-> Kurz vorher hat Jesus vor Schriftgelehrten gewarnt, die „die Häuser der Witwen auffressen“ (Lukas 20,47). Manche Ausleger sehen darin auch eine Klage: Ein System, das arme Witwen ihr Letztes geben lässt, ist nicht gerecht.
+> Kurz vorher hat Jesus vor Schriftgelehrten gewarnt: „Sie fressen die Häuser der Witwen auf“ (Lukas 20,47). Manche Ausleger sehen darin auch eine Klage: Ein System, das arme Witwen ihr Letztes geben lässt, ist nicht gerecht.
 > Wichtig: Niemand soll Menschen drängen, über ihre Kräfte zu spenden. Gruppen, die Menschen finanziell ausnutzen, handeln gegen Gottes Willen.
 > Für heute: Auch wer wenig hat, kann viel geben. Und: Wir sollen die Armen sehen, wie Jesus sie sieht.
 
@@ -92,7 +92,7 @@ werdet ihr euer Leben gewinnen.“
 > Wichtig: Gruppen, die mit Angst vor dem Weltende Menschen an sich binden, missbrauchen diese Worte. Rat geben zum Beispiel die Sekten- und Weltanschauungsbeauftragten der Kirchen.
 > Vers 12: Die ersten Christen wurden verfolgt. Die Apostelgeschichte erzählt davon. Damals waren die ersten Christen selbst noch Juden. Es ging um Konflikte innerhalb des jüdischen Volkes und mit den römischen Behörden.
 > Wichtig: Später haben Christen über viele Jahrhunderte Juden verfolgt. Dieser Text darf niemals benutzt werden, um Juden die Schuld zu geben.
-> Vers 18–19: „Kein Haar wird verloren gehen“: Auch wenn Jünger leiden oder sterben, sind sie bei Gott geborgen.
+> Vers 18–19: „Kein Haar auf eurem Kopf wird verloren gehen“: Auch wenn Jünger leiden oder sterben, sind sie bei Gott geborgen.
 > Für heute: Auch heute werden Christen in manchen Ländern verfolgt, genauso wie Menschen anderer Religionen. Religionsfreiheit ist ein Menschenrecht für alle.
 
 ---
@@ -206,5 +206,5 @@ um ihn zu hören.
 > **Was bedeutet das?**
 > Vers 34: Nicht nur Feiern und Alkohol, auch die Alltagssorgen können das Herz „schwer“ machen. Dann vergisst man, was wirklich wichtig ist.
 > Wichtig: Wer mit Alkohol oder anderen Süchten zu kämpfen hat, ist kein schlechter Mensch. Sucht ist eine Krankheit. Hilfe gibt es bei Suchtberatungsstellen, zum Beispiel von Caritas und Diakonie, und bei Selbsthilfegruppen.
-> Vers 36: „Wachsam sein und beten“ ist die Haltung, die Jesus von seinen Jüngern erwartet.
+> Vers 36: „Seid zu jeder Zeit wachsam und betet“: Das ist die Haltung, die Jesus von seinen Jüngern erwartet.
 > Vers 37–38: Lukas zeigt noch einmal: Das ganze Volk kommt frühmorgens, um Jesus zu hören. Das jüdische Volk liebt Jesus und hört ihm zu.

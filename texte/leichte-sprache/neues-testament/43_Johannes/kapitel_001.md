@@ -73,7 +73,7 @@ er hat ihn bekannt gemacht.
 
 > **Was bedeutet das?**
 > Diese Verse nennt man den „Prolog“, das Vorwort. Sie gehören zu den bekanntesten Texten der Bibel.
-> „Am Anfang“ erinnert an den ersten Satz der Bibel: „Am Anfang schuf Gott Himmel und Erde“ (1. Mose 1,1). Gott schuf die Welt durch sein Wort: „Gott sprach …“.
+> „Am Anfang“ erinnert an den ersten Satz der Bibel: „Am Anfang erschuf Gott den Himmel und die Erde“ (1. Mose 1,1). Gott schuf die Welt durch sein Wort: „Gott sprach …“.
 > „Das Wort“ (griechisch „Logos“) ist Jesus. Johannes sagt: Jesus war schon vor der Schöpfung bei Gott. Er ist Gott. Durch ihn ist alles entstanden. Christen glauben deshalb: Jesus ist wahrer Gott und wahrer Mensch.
 > Vers 6–8: Johannes ist hier Johannes der Täufer, nicht der Verfasser des Evangeliums.
 > Vers 11: „Die Seinen“ verstehen manche Ausleger als die Menschen der Welt, die er geschaffen hat, andere als sein Volk Israel. Wichtig: Das ist kein Urteil über das jüdische Volk. Viele Juden nahmen Jesus auf, zuerst alle seine Jünger. Vers 12 spricht gleich von denen, die ihn aufnahmen.

@@ -20,7 +20,7 @@ Sie haben dir vertraut und wurden nicht enttäuscht.
 
 > **Was bedeutet das?**
 > Psalm 22 ist einer der wichtigsten Psalmen der ganzen Bibel. Er beginnt mit dem verzweifeltsten Schrei, den es gibt: „Mein Gott, mein Gott, warum hast du mich verlassen?“
-> Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lema sabachthani?“ (Matthäus 27,46; Markus 15,34).
+> Jesus hat diesen Satz am Kreuz gebetet, auf Aramäisch: „Eli, Eli, lima sabachthani?“ (Matthäus 27,46; Markus 15,34).
 > Der Beter fühlt sich von Gott völlig verlassen. Aber er spricht Gott trotzdem an: „Mein Gott“. Er hält an Gott fest, auch wenn er ihn nicht spürt.
 > Vers 2: „Ich schweige nicht“: Ich höre nicht auf zu rufen, Tag und Nacht. Viele deutsche Bibeln übersetzen: „und finde keine Ruhe“.
 > Vers 4–5: Er erinnert sich: Früher hat Gott unseren Vorfahren geholfen. Warum nicht mir?
@@ -45,7 +45,7 @@ denn da ist niemand, der hilft.
 
 > **Was bedeutet das?**
 > Der Beter fühlt sich wertlos, „wie ein Wurm“, der zertreten wird. Die Menschen spotten über ihn und seinen Glauben.
-> Vers 7–8: Die Evangelien berichten, dass Menschen unter dem Kreuz genau so über Jesus spotteten: „Er hat auf Gott vertraut; der soll ihn jetzt retten“ (Matthäus 27,39–43).
+> Vers 7–8: Die Evangelien berichten, dass Menschen unter dem Kreuz genau so über Jesus spotteten: „Er vertraut auf Gott. Der soll ihn jetzt retten“ (Matthäus 27,39–43).
 > Vers 9–10: Wieder hält sich der Beter an Gott fest: Du kennst mich schon seit meiner Geburt. Du warst immer mein Gott.
 
 ---
@@ -91,7 +91,7 @@ Ja, von den Hörnern der Wildstiere hast du mich gerettet.
 
 > **Was bedeutet das?**
 > Ein letzter, dringender Hilferuf.
-> Und dann, am Ende von Vers 21, ganz plötzlich: „Du hast mich gerettet!“ Im Hebräischen ist das nur ein einziges Wort: „Du hast mir geantwortet!“ Das ist der Wendepunkt des ganzen Psalms.
+> Und dann, am Ende von Vers 21, ganz plötzlich: „… hast du mich gerettet!“ Im Hebräischen ist das nur ein einziges Wort. Es bedeutet: Du hast mir geantwortet! Das ist der Wendepunkt des ganzen Psalms.
 
 ---
 

@@ -104,7 +104,7 @@ damit auch sie in der Wahrheit geheiligt sind.“
 > **Was bedeutet das?**
 > Vers 9: „Ich bitte nicht für die Welt“: Hier betet Jesus besonders für seine Jünger. Das heißt nicht, dass ihm die Welt egal ist. Gott liebt die Welt (3,16), und die Jünger werden in die Welt gesandt (Vers 18).
 > Vers 11: „Damit sie eins sind“: Jesus betet um die Einheit seiner Jünger.
-> Vers 12: „Der Sohn des Verderbens“ meint Judas.
+> Vers 12: Mit dem „Sohn des Verderbens“ ist Judas gemeint.
 > Vers 15: Christen sollen nicht aus der Welt fliehen, sondern in der Welt leben, behütet vor dem Bösen.
 > Vers 17: „Heiligen“ heißt: für Gott bestimmt sein, zu Gott gehören.
 > Für heute: Jesus betet für seine Freunde. Wir dürfen auch füreinander beten.

@@ -16,7 +16,7 @@ Sela.
 
 > **Was bedeutet das?**
 > „Nach Alamot“: wahrscheinlich ein musikalischer Hinweis, vielleicht für hohe Stimmen (Frauen- oder Knabenstimmen).
-> Psalm 46 hat Martin Luther zu seinem berühmten Lied inspiriert: „Ein feste Burg ist unser Gott“.
+> Psalm 46 hat Martin Luther zu seinem berühmten Lied von der festen Burg inspiriert. Das Lied sagt: Gott ist wie eine feste Burg. Bei ihm sind wir sicher.
 > Selbst wenn die ganze Welt zusammenbricht, die Berge ins Meer stürzen, ein Erdbeben oder eine Flut alles zerstört: Wer bei Gott Schutz sucht, braucht keine Angst zu haben.
 
 ---

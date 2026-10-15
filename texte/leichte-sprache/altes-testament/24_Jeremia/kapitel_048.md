@@ -175,7 +175,7 @@ für alle, die rings um es wohnen.“
 
 > **Was bedeutet das?**
 > Vers 29–30: Der Grund für das Gericht ist Moabs Hochmut. Er wird hier mit vielen Worten hintereinander beschrieben. Moab war stolz und überheblich. Aber seine Prahlerei war leer.
-> Vers 31–32 und 36: Das Erstaunliche: Gott (oder der Prophet) weint um Moab! „Mein Herz klagt um Moab wie Flöten.“ Flöten wurden bei Trauerfeiern gespielt. Gott freut sich nicht über das Unglück eines Volkes, auch nicht eines feindlichen Volkes. Er trauert mit.
+> Vers 31–32 und 36: Das Erstaunliche: Gott (oder der Prophet) weint um Moab! „Darum klagt mein Herz um Moab wie Flöten.“ Flöten wurden bei Trauerfeiern gespielt. Gott freut sich nicht über das Unglück eines Volkes, auch nicht eines feindlichen Volkes. Er trauert mit.
 > Vers 32–33: Moab war berühmt für seinen Wein. Jetzt gibt es keine fröhliche Weinlese mehr.
 > Vers 37: Kahl geschorene Köpfe, Schnittwunden, Trauerkleider: Zeichen tiefer Trauer.
 > Viele Verse in diesem Kapitel ähneln Jesaja 15–16.

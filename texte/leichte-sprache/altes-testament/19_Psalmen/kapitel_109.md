@@ -53,7 +53,7 @@ damit er ihr Andenken von der Erde ausrottet.
 > – Viele Ausleger meinen: Es ist ein Zitat. Der Beter gibt wieder, was seine Feinde gegen ihn sagen. Dafür spricht, dass vorher und nachher von „sie“ (Mehrzahl) die Rede ist, hier aber von „er“ (Einzahl). Dann hätten die Feinde diesen Fluch über den Beter gesprochen, und er bringt ihn vor Gott.
 > Wichtig ist: Kinder und Familie sind nicht schuld an den Taten ihrer Eltern (Hesekiel 18,20). Diese Verse sind keine Erlaubnis, anderen Böses zu wünschen oder zu tun.
 > Vers 8 („Ein anderer soll sein Amt bekommen“) zitiert Petrus, als ein Nachfolger für Judas gewählt wird (Apostelgeschichte 1,20).
-> Jesus lehrt einen anderen Weg: „Segnet, die euch verfluchen, betet für die, die euch beleidigen“ (Lukas 6,28).
+> Jesus lehrt einen anderen Weg: „Segnet die, die euch verfluchen! Betet für die, die euch schlecht behandeln“ (Lukas 6,28).
 
 ---
 

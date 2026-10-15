@@ -54,7 +54,7 @@ Ich will dich retten, und du wirst mich ehren.“
 > Gott tadelt sein Volk nicht dafür, dass es keine Opfer bringt. Sie bringen genug. Aber sie denken falsch über die Opfer: als ob Gott sie bräuchte, als ob man ihn damit füttern müsste.
 > Gott braucht nichts. Ihm gehört ohnehin die ganze Welt.
 > Was Gott wirklich will: Dankbarkeit, Treue zu den eigenen Versprechen und Vertrauen in der Not.
-> Vers 15 ist ein bekanntes Versprechen: „Ruf mich an in der Not, ich will dich retten.“
+> Vers 15 ist ein bekanntes Versprechen: „Ruf mich an am Tag der Not! Ich will dich retten.“
 
 ---
 

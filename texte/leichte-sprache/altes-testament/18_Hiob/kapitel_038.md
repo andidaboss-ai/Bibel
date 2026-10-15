@@ -92,7 +92,7 @@ und die Zahl deiner Tage ist groß!
 
 > **Was bedeutet das?**
 > Gott fragt nach den tiefsten Tiefen des Meeres, nach dem Reich der Toten und nach der Größe der Erde. Hiob kennt nichts davon.
-> Vers 21 ist ironisch gemeint: „Du weißt es doch bestimmt, du bist ja so alt!“ Natürlich war Hiob bei der Schöpfung nicht dabei.
+> Vers 21 ist ironisch gemeint: „Gewiss, du weißt es, denn damals wurdest du geboren, und die Zahl deiner Tage ist groß!“ Natürlich war Hiob bei der Schöpfung nicht dabei.
 > Gott ist nicht böse oder verletzend, aber er macht deutlich: Hiob sieht nur einen kleinen Teil des Ganzen.
 
 ---
@@ -175,4 +175,4 @@ und umherirren, weil sie nichts zu essen haben?
 > **Was bedeutet das?**
 > Jetzt wechselt Gott von der unbelebten Natur zu den Tieren. Das geht in Kapitel 39 weiter.
 > Gott sorgt für die wilden Tiere: für die starken Löwen ebenso wie für die jungen Raben, die nach Futter schreien.
-> Jesus greift das später auf: „Seht die Raben an … Gott ernährt sie doch“ (Lukas 12,24). Wenn Gott sogar für die Raben sorgt, dann auch für dich.
+> Jesus greift das später auf: „Seht euch die Raben an … Gott ernährt sie doch“ (Lukas 12,24). Wenn Gott sogar für die Raben sorgt, dann auch für dich.

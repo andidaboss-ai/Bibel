@@ -324,7 +324,7 @@ obwohl er einer der Zwölf war.
 > Vers 60: Auch viele Jünger finden Jesu Worte zu schwer. Glauben ist nicht immer einfach.
 > Vers 63: Jesus sagt: Man soll seine Worte nicht nur wörtlich-körperlich verstehen. Gottes Geist schenkt das Leben.
 > Vers 66: Viele gehen weg. Jesus lässt sie gehen. Er zwingt niemanden.
-> Vers 68–69: Petrus antwortet für die Zwölf. Seine Worte sind ein Bekenntnis des Vertrauens, auch wenn er nicht alles versteht. Viele alte Handschriften haben in Vers 69 statt „der Christus, der Sohn des lebendigen Gottes“: „der Heilige Gottes“.
+> Vers 68–69: Petrus antwortet für die Zwölf. Seine Worte sind ein Bekenntnis des Vertrauens, auch wenn er nicht alles versteht. Oben steht in Vers 69: „… dass du der Christus bist, der Sohn des lebendigen Gottes.“ Viele alte Handschriften haben dort stattdessen „der Heilige Gottes“.
 > Vers 70–71: „Ein Teufel“ heißt hier: einer, der gegen Jesus arbeiten wird. Gemeint ist Judas. Jesus hat ihn trotzdem erwählt und bei sich behalten.
 > Wichtig: Der Name Judas wurde jahrhundertelang missbraucht, um Juden zu beschimpfen. Das ist Unrecht.
 > Für heute: Wer zweifelt, darf mit Petrus fragen: „Zu wem sollen wir gehen?“

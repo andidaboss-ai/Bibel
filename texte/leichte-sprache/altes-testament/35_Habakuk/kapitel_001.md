@@ -70,7 +70,7 @@ sie, deren Kraft ihr Gott ist.“
 > Gott antwortet, aber ganz anders, als Habakuk erwartet hat: Ich schicke die Babylonier. Sie werden das ungerechte Juda bestrafen.
 > Vers 5: Das ist so unglaublich, dass niemand es glauben würde. Paulus zitiert diesen Vers in einer Predigt (Apostelgeschichte 13,41).
 > Vers 6–10: Eine eindrucksvolle Beschreibung der babylonischen Armee: schnell wie Leoparden, wild wie Wölfe, wie ein Adler auf der Jagd. Keine Festung kann sie aufhalten. Sie schütten einfach einen Erdwall auf und klettern über die Mauern.
-> Vers 7 und 11: Die Babylonier kennen kein Recht außer ihrem eigenen. „Ihre Kraft ist ihr Gott“: Sie verehren nur ihre eigene Macht. Darum sind auch sie schuldig.
+> Vers 7 und 11: Die Babylonier kennen kein Recht außer ihrem eigenen. Vers 11 nennt sie Menschen, „deren Kraft ihr Gott ist“. Das heißt: Sie verehren nur ihre eigene Macht. Darum sind auch sie schuldig.
 
 ---
 

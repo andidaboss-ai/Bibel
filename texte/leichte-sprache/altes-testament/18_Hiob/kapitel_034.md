@@ -112,7 +112,7 @@ und niemand da ist, der das Volk in eine Falle lockt.
 > Gott sieht alles. Niemand kann sich vor ihm verstecken (vgl. Psalm 139,11–12).
 > Vers 23: Gott braucht keinen langen Gerichtsprozess wie Menschen. Er weiß schon alles. Hiob hatte sich einen Gerichtstermin mit Gott gewünscht. Elihu sagt: Das ist nicht nötig.
 > Vers 28: Gott hört das Schreien der Armen. Wenn Mächtige die Armen unterdrücken, greift Gott ein (vgl. 2. Mose 3,7).
-> Vers 29: Manchmal schweigt Gott, „er verbirgt sein Angesicht“. Aber auch dann regiert er. Er sorgt dafür, dass Gottlose nicht für immer herrschen.
+> Vers 29: Manchmal schweigt Gott. Es heißt: „Wenn er sein Angesicht verbirgt, wer kann ihn dann sehen?“ Aber auch dann regiert er. Er sorgt dafür, dass Gottlose nicht für immer herrschen.
 
 ---
 

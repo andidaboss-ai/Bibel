@@ -66,7 +66,7 @@ Sommer und Winter hast du gemacht.
 > **Was bedeutet das?**
 > Mitten in der Klage erinnert sich der Beter: Gott ist doch der König, der die Welt geschaffen und Israel gerettet hat.
 > Vers 13–14: Das Teilen des Meeres erinnert an den Auszug aus Ägypten. Die „Seeungeheuer“ und der „Leviatan“ sind Bilder für die Mächte des Chaos (vgl. Hiob 41). Manche Ausleger denken auch an Ägypten, das wie ein Ungeheuer war.
-> Vers 14: Das hebräische Wort ist unsicher. Viele deutsche Bibeln übersetzen: „dem Volk der Wüstentiere“.
+> Vers 14: Das hebräische Wort ist unsicher. Es kann Menschen meinen, die in der Wüste leben, oder wilde Tiere der Wüste. Hier steht: „den Menschen und den Wüstentieren zum Fraß“.
 > Vers 16–17: Tag und Nacht, Sommer und Winter: Gott hat die Ordnung der Welt geschaffen. Darum kann er auch jetzt wieder Ordnung schaffen.
 
 ---

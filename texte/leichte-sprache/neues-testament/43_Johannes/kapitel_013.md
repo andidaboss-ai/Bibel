@@ -153,7 +153,7 @@ ging er sofort hinaus.
 Und es war Nacht.
 
 > **Was bedeutet das?**
-> Vers 23: „Der Jünger, den Jesus liebte“ wird hier zum ersten Mal genannt. Nach alter Überlieferung ist es Johannes. Sicher ist das nicht.
+> Vers 23: „Einer seiner Jünger, den Jesus liebte“: Dieser Jünger wird hier zum ersten Mal genannt. Nach alter Überlieferung ist es Johannes. Sicher ist das nicht.
 > Bei Festessen lag man auf Polstern. So konnte der Jünger seinen Kopf an Jesus lehnen.
 > Vers 26: Jemandem ein Stück Brot zu reichen, war ein Zeichen der Freundschaft und Ehre. Jesus bietet Judas bis zuletzt seine Freundschaft an.
 > Vers 30: „Es war Nacht“: Die Nacht ist ein Bild für die Finsternis, in die Judas hinausgeht.

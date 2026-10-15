@@ -76,7 +76,7 @@ spricht der HERR.
 
 > **Was bedeutet das?**
 > Vers 6–7: Gott „verzäunt den Weg“. Er lässt das Volk merken, dass die falschen Götter nicht helfen. Das klingt hart, aber es hat ein Ziel: Das Volk soll zurückkommen. „Damals ging es mir besser.“ Wie der verlorene Sohn, der sich an das Haus seines Vaters erinnert (Lukas 15,17).
-> Vers 8: Der Kern des Problems: „Sie wusste nicht, dass ICH es war, der ihr alles gegeben hat.“ Das Volk hat Gottes Gaben den falschen Göttern zugeschrieben.
+> Vers 8: Der Kern des Problems: „Sie wusste nicht, dass ich ihr das Korn, den Most und das Öl gab.“ Das Volk hat Gottes Gaben den falschen Göttern zugeschrieben.
 > Vers 13: „Und mich vergaß.“ Das ist der eigentliche Schmerz Gottes: vergessen werden von dem, den man liebt.
 > Für heute: Auch wir vergessen oft, woher die guten Dinge in unserem Leben kommen, und danken dem Falschen, zum Beispiel nur unserem eigenen Können oder dem Geld.
 
@@ -138,5 +138,5 @@ und es wird sagen: ‚Du bist mein Gott!‘“
 > „Du wirst den HERRN erkennen.“ Erkennen meint im Hebräischen nicht nur Wissen, sondern tiefe, persönliche Beziehung.
 > Vers 21–22: Eine Kette des Segens: Gott antwortet dem Himmel, der Himmel der Erde (mit Regen), die Erde dem Korn, und alles zusammen dem Volk.
 > Vers 23: Die Namen der Kinder werden endgültig umgekehrt. Aus „Kein Erbarmen“ wird „Erbarmen“. Aus „Nicht mein Volk“ wird „Mein Volk“. Und das Volk antwortet: „Du bist mein Gott!“ Die Beziehung ist wiederhergestellt.
-> Auch 1. Petrus 2,10 zitiert diesen Vers: „Ihr, die ihr einst nicht ein Volk wart, seid jetzt Gottes Volk.“
+> Auch 1. Petrus 2,10 zitiert diesen Vers: „Früher wart ihr kein Volk, jetzt aber seid ihr Gottes Volk.“
 

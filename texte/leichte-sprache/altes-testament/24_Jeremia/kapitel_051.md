@@ -313,5 +313,5 @@ Bis hierher reichen die Worte Jeremias.
 > **Was bedeutet das?**
 > Vers 59: Seraja war der Bruder Baruchs (beide Söhne Nerijas). Er reiste im Jahr 594/593 vor Christus mit König Zidkija nach Babylon.
 > Vers 60–64: Eine letzte Zeichenhandlung: Seraja soll die Worte über Babel in Babylon vorlesen, dann einen Stein an die Rolle binden und sie in den Euphrat werfen. Wie die Rolle versinkt, so wird Babel versinken.
-> Die Offenbarung greift auch dieses Bild auf: Ein Engel wirft einen großen Stein ins Meer und sagt: „So wird Babylon gestürzt werden“ (Offenbarung 18,21).
+> Die Offenbarung greift auch dieses Bild auf: Ein Engel wirft einen großen Stein ins Meer und sagt: „So wird Babylon, die große Stadt, mit Gewalt hinuntergeworfen werden“ (Offenbarung 18,21).
 > „Bis hierher reichen die Worte Jeremias.“ Das letzte Kapitel (52) ist ein geschichtlicher Anhang, der vom Fall Jerusalems erzählt.

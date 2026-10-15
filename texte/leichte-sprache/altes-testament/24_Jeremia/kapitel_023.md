@@ -113,9 +113,9 @@ und von der Bosheit ihrer Taten.
 > **Was bedeutet das?**
 > Vers 9: Jeremia ist erschüttert. Gottes Worte wühlen ihn so auf, dass er zittert wie ein Betrunkener.
 > Vers 14: Die Propheten in Jerusalem leben selbst unmoralisch und ermutigen andere zum Bösen. Sie sind schlimmer als die Propheten des Baal im Norden.
-> Vers 16–17: Wie erkennt man falsche Propheten? Sie sagen Menschen, die Gott verachten: „Alles wird gut! Kein Unheil kommt.“ Sie bestätigen die Menschen in ihrem falschen Weg.
+> Vers 16–17: Wie erkennt man falsche Propheten? Sie sagen Menschen, die Gott verachten: „Ihr werdet Frieden haben.“ Und: „Kein Unheil wird über euch kommen.“ Sie bestätigen die Menschen in ihrem falschen Weg.
 > Vers 18 und 22: Ein echter Prophet hat im „Rat des HERRN“ gestanden, das heißt, er hat wirklich auf Gott gehört. Ein echter Prophet ruft zur Umkehr. Ein falscher Prophet beruhigt nur.
-> Vers 21: „Ich habe sie nicht gesandt, und doch sind sie gelaufen.“ Nicht jeder, der im Namen Gottes spricht, ist auch von Gott beauftragt.
+> Vers 21: „Ich habe diese Propheten nicht gesandt, und doch sind sie gelaufen.“ Nicht jeder, der im Namen Gottes spricht, ist auch von Gott beauftragt.
 
 ---
 

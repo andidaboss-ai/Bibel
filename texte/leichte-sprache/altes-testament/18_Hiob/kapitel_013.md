@@ -33,7 +33,7 @@ Eure Bollwerke sind Bollwerke aus Lehm.
 > **Was bedeutet das?**
 > Hiob will nicht mehr mit seinen Freunden reden. Er will direkt mit Gott reden.
 > Er nennt seine Freunde „Lügenschmiede“ und „Ärzte, die nichts taugen“. Sie wollten ihn heilen, aber ihre Medizin macht alles schlimmer.
-> Vers 5 ist berühmt: „Wenn ihr doch schweigen würdet, dann wärt ihr weise!“ Am Anfang hatten sie sieben Tage geschwiegen (Kapitel 2,13). Das war das Beste, was sie getan haben.
+> Vers 5 ist berühmt: „Ach, wenn ihr doch ganz schweigen würdet! Dann wärt ihr weise.“ Am Anfang hatten sie sieben Tage geschwiegen (Kapitel 2,13). Das war das Beste, was sie getan haben.
 > Vers 7–8 ist eine scharfe Kritik: Die Freunde wollen Gott verteidigen, indem sie Unwahres über Hiob sagen. Hiob sagt: Gott braucht keine Lügen zu seiner Verteidigung. Gott will die Wahrheit.
 > Am Ende des Buches wird Gott genau das bestätigen (Kapitel 42,7).
 > „Sprüche aus Asche“: Ihre klugen Sätze sind wertlos, sie zerfallen bei Berührung.

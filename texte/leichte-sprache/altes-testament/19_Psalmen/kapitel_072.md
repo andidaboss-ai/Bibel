@@ -60,7 +60,7 @@ Ihr Blut wird kostbar sein in seinen Augen.
 
 > **Was bedeutet das?**
 > Das ist der eigentliche Grund für die Größe dieses Königs: nicht seine Macht, sondern seine Fürsorge für die Armen.
-> Vers 14: „Ihr Blut ist kostbar in seinen Augen“: Für einen guten Herrscher ist das Leben jedes armen Menschen wertvoll. Kein Mensch ist zu unwichtig.
+> Vers 14: „Ihr Blut wird kostbar sein in seinen Augen“: Für einen guten Herrscher ist das Leben jedes armen Menschen wertvoll. Kein Mensch ist zu unwichtig.
 > Das ist ein Maßstab für alle, die Macht haben, bis heute.
 
 ---
@@ -81,7 +81,7 @@ Alle Völker werden ihn glücklich preisen.
 > **Was bedeutet das?**
 > Unter einem gerechten König gedeiht alles: die Ernte, die Menschen, das Land.
 > „Wie der Libanon“: Die Ähren wogen im Wind wie die großen Zedernwälder des Libanon.
-> Vers 17 erinnert an die Verheißung an Abraham: „In dir sollen alle Völker gesegnet werden“ (1. Mose 12,3).
+> Vers 17 erinnert an die Verheißung an Abraham: „Durch dich sollen alle Familien der Erde gesegnet werden“ (1. Mose 12,3).
 
 ---
 

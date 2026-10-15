@@ -85,7 +85,7 @@ und ein schmeichelnder Mund richtet Verderben an.
 
 > **Was bedeutet das?**
 > Vers 17: Wer einen fremden Hund an den Ohren packt, wird gebissen. Wer sich in fremden Streit einmischt, bekommt selbst Ärger.
-> Vers 18–19: Wer andere verletzt und dann sagt „War doch nur ein Witz!“, ist gefährlich wie jemand, der wild mit Pfeilen herumschießt. Das gilt auch für Mobbing, das als Spaß getarnt wird.
+> Vers 18–19: Wer andere verletzt und dann sagt: „Habe ich nicht nur Spaß gemacht?“, der ist gefährlich wie jemand, der wild mit Pfeilen herumschießt. Das gilt auch für Mobbing, das als Spaß getarnt wird.
 > Vers 20–21: Klatsch ist wie Holz für ein Feuer. Ohne Klatsch geht der Streit aus.
 > Vers 23: Ein billiger Tontopf, der mit Silberglanz überzogen ist, sieht wertvoll aus, ist es aber nicht. So sind schöne Worte aus einem bösen Herzen.
-> Vers 27: „Wer anderen eine Grube gräbt, fällt selbst hinein“: Das deutsche Sprichwort kommt von hier.
+> Vers 27: „Wer eine Grube gräbt, fällt selbst hinein.“ Von hier kommt das deutsche Sprichwort: Wer anderen eine Grube gräbt, fällt selbst hinein.

@@ -58,7 +58,7 @@ Die Motten werden sie fressen.
 > Das ist das dritte Lied vom Knecht Gottes. Wieder spricht der Knecht selbst.
 > Vers 4: Jeden Morgen hört er auf Gott wie ein Schüler (ein „Jünger“) auf seinen Lehrer. Und er bekommt die Gabe, müde Menschen mit Worten aufzurichten. Ein schöner Auftrag für jeden Menschen.
 > Vers 6: Der Knecht wird geschlagen, verspottet und angespuckt. Er weicht nicht aus. Die Evangelien erzählen, dass Jesus so behandelt wurde (Matthäus 26,67; 27,30). Deshalb sehen Christen hier einen Hinweis auf Jesus. In der jüdischen Deutung steht der Knecht für Israel oder den Propheten, die für ihren Glauben viel Leid ertragen haben.
-> Vers 7–9: Der Knecht hält durch, weil er weiß: Gott steht zu mir. Paulus nimmt diesen Gedanken auf: „Wer will anklagen? Gott ist hier, der gerecht macht“ (Römer 8,33–34).
+> Vers 7–9: Der Knecht hält durch, weil er weiß: Gott steht zu mir. Paulus nimmt diesen Gedanken auf: „Wer kann die Auserwählten Gottes anklagen? Gott ist es, der gerecht macht“ (Römer 8,33–34).
 > Wichtig: Dieser Text beschreibt einen Menschen, der für seinen Auftrag Leid trägt. Er bedeutet nicht, dass man Gewalt, zum Beispiel in der Familie oder Partnerschaft, einfach hinnehmen soll. Wer geschlagen wird, darf und soll sich Hilfe holen: Notruf 110, Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00.
 
 ---

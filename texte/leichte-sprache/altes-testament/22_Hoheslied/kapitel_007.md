@@ -37,7 +37,7 @@ der über die Lippen der Schlafenden fließt.
 > **Was bedeutet das?**
 > Wieder ein Beschreibungslied, diesmal von den Füßen bis zum Kopf. Vielleicht tanzt die Frau, und der Mann bewundert sie.
 > Die Bilder kommen aus der Natur und aus der Landschaft: Teiche, Türme, der Berg Karmel, eine Palme. Für uns klingt „deine Nase ist wie ein Turm“ seltsam. Damals meinte man damit: stolz, edel, aufrecht.
-> Vers 5: „Der König ist in deinen Locken gefangen“: Ein liebevoller Satz. Er ist ganz von ihr bezaubert.
+> Vers 5: „Der König ist in seinen Locken gefangen“: Gemeint sind die Locken ihres Haares. Ein liebevoller Satz. Er ist ganz von ihr bezaubert.
 > Das Hohelied spricht offen und zart über die Schönheit des Körpers und über körperliche Liebe. Die Bibel sieht den Körper nicht als schmutzig, sondern als Gottes gute Schöpfung.
 
 ---

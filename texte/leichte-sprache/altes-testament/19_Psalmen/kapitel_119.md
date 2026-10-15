@@ -130,7 +130,7 @@ Belebe mich in deiner Gerechtigkeit!
 > **Was bedeutet das?**
 > Dieser Abschnitt besteht fast nur aus Bitten: Lehre mich, gib mir Verstand, führe mich, neige mein Herz, wende meine Augen ab.
 > Vers 36: Eine aktuelle Bitte: Mein Herz soll nicht am Geld hängen, sondern an Gott.
-> Vers 37: „Wende meine Augen ab von nichtigen Dingen“: In einer Welt voller Bilder und Bildschirme ist das ein sehr passendes Gebet.
+> Vers 37: „Wende meine Augen ab davon, nichtige Dinge anzusehen“: In einer Welt voller Bilder und Bildschirme ist das ein sehr passendes Gebet.
 
 ---
 
@@ -362,8 +362,8 @@ für immer, bis ans Ende.
 
 > **Was bedeutet das?**
 > Vers 105 ist einer der bekanntesten Verse der Bibel. Gottes Wort ist wie eine Lampe in der Nacht. Damals hatte man kleine Öllampen. Sie leuchteten nicht weit, aber genug für den nächsten Schritt. So zeigt Gottes Wort oft nicht den ganzen Weg, aber den nächsten Schritt.
-> Vers 109: „Mein Leben ist in meiner Hand“: Ich bin ständig in Lebensgefahr.
-> Vers 108: „Freiwillige Gaben meines Mundes“: Gebete und Lieder sind wie Opfergaben.
+> Vers 109: „Mein Leben ist ständig in meiner Hand“: Ich bin ständig in Lebensgefahr.
+> Vers 108: „Die freiwilligen Gaben meines Mundes“: Gebete und Lieder sind wie Opfergaben.
 
 ---
 
@@ -543,7 +543,7 @@ denn alle meine Wege liegen offen vor dir.
 > In der englischen Vorlage heißt dieser Abschnitt „Sin und Schin“, weil der hebräische Buchstabe zwei Aussprachen hat.
 > Vers 162: Gottes Wort zu entdecken ist wie einen Schatz zu finden.
 > Vers 164: „Siebenmal am Tag“: immer wieder, ständig. Darauf beruhen die sieben Gebetszeiten in vielen Klöstern.
-> Vers 165: „Großen Frieden haben, die dein Gesetz lieben“: ein schönes Versprechen.
+> Vers 165: „Großen Frieden haben die, die dein Gesetz lieben“: ein schönes Versprechen.
 
 ---
 
@@ -569,6 +569,6 @@ denn deine Gebote vergesse ich nicht.
 
 > **Was bedeutet das?**
 > Der letzte Abschnitt fasst alles zusammen: Schreien, Flehen, Loben, Singen.
-> Vers 176 ist ein erstaunlicher Schluss: Nach 175 Versen voller Liebe zu Gottes Wort bekennt der Beter: „Ich bin umhergeirrt wie ein verlorenes Schaf. Suche mich!“
+> Vers 176 ist ein erstaunlicher Schluss: Nach 175 Versen voller Liebe zu Gottes Wort bekennt der Beter: „Ich bin umhergeirrt wie ein verlorenes Schaf. Suche deinen Knecht!“
 > Das zeigt: Auch wer Gottes Wort liebt, ist nicht vollkommen. Am Ende sind wir alle darauf angewiesen, dass Gott uns sucht und findet.
 > Jesus erzählt das Gleichnis vom guten Hirten, der das verlorene Schaf sucht, bis er es findet (Lukas 15,4–7).

@@ -53,7 +53,7 @@ schrie mit lauter Stimme und sagte:
 Willst du dem Rest Israels ganz ein Ende machen?“
 
 > **Was bedeutet das?**
-> Vers 3: Die Mächtigen in Jerusalem sind stolz. Sie sagen: „Die Stadt ist der Topf, und wir sind das Fleisch.“ Das heißt: Wir sind das beste Stück, gut geschützt in der Stadt wie Fleisch im Topf. Die anderen, die verschleppt wurden, sind der Abfall. „Häuser bauen“ ist nicht nötig, wir bleiben ja hier.
+> Vers 3: Die Mächtigen in Jerusalem sind stolz. Sie sagen: „Diese Stadt ist der Kochtopf, und wir sind das Fleisch.“ Das heißt: Wir sind das beste Stück, gut geschützt in der Stadt wie Fleisch im Topf. Die anderen, die verschleppt wurden, sind der Abfall. „Häuser bauen“ ist nicht nötig, wir bleiben ja hier.
 > Vers 6–7: Gott dreht das Bild um: Das wahre „Fleisch“ im Topf sind die Unschuldigen, die diese Männer umgebracht haben. Die Mächtigen selbst werden aus der Stadt herausgeholt und gerichtet.
 > Vers 10: „An der Grenze Israels“ – das erfüllte sich in Ribla, ganz im Norden, wo der babylonische König die Anführer Judas hinrichten ließ (2. Könige 25,18–21).
 > Vers 13: Während Hesekiel weissagt, stirbt Pelatja. Hesekiel freut sich nicht darüber. Er ist erschrocken und schreit zu Gott. Wieder tritt er für sein Volk ein. Der Name Pelatja bedeutet übrigens „Der HERR rettet“, was Hesekiels Frage noch dringender macht.
@@ -96,10 +96,10 @@ deren Weg werde ich auf ihren eigenen Kopf bringen‘,
 spricht der Herr, der HERR.“
 
 > **Was bedeutet das?**
-> Vers 15: Die Leute in Jerusalem sagen über die Verbannten: „Die sind weit weg von Gott. Das Land gehört jetzt uns.“ Sie halten sich für die Gewinner.
+> Vers 15: Die Leute in Jerusalem sagen zu den Verbannten: „Geht weit weg vom HERRN! Uns ist dieses Land zum Besitz gegeben.“ Sie halten sich für die Gewinner.
 > Vers 16: Aber Gott sagt das Gegenteil: Gerade bei den Verbannten will er sein! Er selbst wird ihr „Heiligtum“ sein, auch ohne Tempel. Das ist ein großer Trost: Gott ist auch in der Fremde da. Man kann ihn überall finden. (Im Judentum wurde dieser Vers später auch auf die Synagogen bezogen, als „kleines Heiligtum“.)
 > Vers 19: Eine der schönsten Verheißungen der Bibel: Gott nimmt das „Herz aus Stein“ weg, das hart und kalt ist, und gibt ein „Herz aus Fleisch“, das lebendig ist und fühlen kann. Gott selbst verändert die Menschen von innen. Diese Verheißung kommt in Kapitel 36,26 noch einmal.
-> Vgl. Jeremia 31,33: „Ich lege mein Gesetz in ihr Herz.“
+> Vgl. Jeremia 31,33: „Ich werde mein Gesetz in ihr Inneres legen und es in ihr Herz schreiben.“
 
 ---
 

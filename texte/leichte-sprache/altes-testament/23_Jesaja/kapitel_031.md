@@ -25,7 +25,7 @@ und sie alle werden zusammen umkommen.
 
 > **Was bedeutet das?**
 > Wieder die Warnung vor dem Bündnis mit Ägypten. Ägypten hatte viele Pferde und Streitwagen, die modernste Militärtechnik der damaligen Zeit.
-> Vers 3 ist ein klarer Satz: „Die Ägypter sind Menschen und nicht Gott. Ihre Pferde sind Fleisch und nicht Geist.“ Menschliche Macht ist begrenzt. Wer sich nur auf sie verlässt, wird enttäuscht.
+> Vers 3 ist ein klarer Satz: „Die Ägypter sind Menschen und nicht Gott, und ihre Pferde sind Fleisch und nicht Geist.“ Menschliche Macht ist begrenzt. Wer sich nur auf sie verlässt, wird enttäuscht.
 
 ---
 

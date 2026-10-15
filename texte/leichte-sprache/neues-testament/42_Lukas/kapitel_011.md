@@ -326,11 +326,11 @@ damit sie ihn anklagen konnten.
 > **Was bedeutet das?**
 > Vers 38: Fromme Juden wuschen sich vor dem Essen die Hände, als Zeichen der Reinheit vor Gott. Das war keine Frage der Hygiene, sondern eine religiöse Sitte.
 > Vers 39–41: Jesus sagt: Äußere Reinheit ist gut. Aber das Herz ist wichtiger. Wer mit den Armen teilt, ist innerlich rein.
-> Vers 42: Der „Zehnte“ war eine Abgabe für den Tempel und die Armen: ein Zehntel von der Ernte (5. Mose 14,22). Jesus sagt nicht, dass das falsch ist: „Ohne das andere zu lassen.“ Aber Gerechtigkeit und Liebe sind wichtiger. Das sagten auch die Propheten (Micha 6,8).
-> Vers 44: Wer ein Grab berührte, wurde unrein (4. Mose 19,16). Jesus sagt: Wer heuchelt, macht andere unrein, ohne dass sie es merken. Die Worte „ihr Schriftgelehrten und Pharisäer, ihr Heuchler“ fehlen in vielen alten Handschriften. Das WEB hat sie.
+> Vers 42: Der „Zehnte“ war eine Abgabe für den Tempel und die Armen: ein Zehntel von der Ernte (5. Mose 14,22). Jesus sagt nicht, dass das falsch ist: „Das solltet ihr tun, ohne das andere zu lassen“ (11,42). Aber Gerechtigkeit und Liebe sind wichtiger. Das sagten auch die Propheten (Micha 6,8).
+> Vers 44: Wer ein Grab berührte, wurde unrein (4. Mose 19,16). Jesus sagt: Wer heuchelt, macht andere unrein, ohne dass sie es merken. Die Worte „ihr Schriftgelehrten und Pharisäer, ihr Heuchler“ (11,44) fehlen in vielen alten Handschriften. Das WEB hat sie.
 > „Gesetzeslehrer“ waren Fachleute für das Gesetz Moses, ähnlich wie die Schriftgelehrten.
 > Vers 47–48: Viele Propheten wurden in der Geschichte Israels verfolgt (zum Beispiel Jeremia). Die Bibel Israels erzählt das selbst ehrlich.
-> Vers 51: Abel ist der erste Mensch, der ermordet wurde (1. Mose 4,8). Secharja wurde im Tempelhof gesteinigt (2. Chronik 24,20–22). In der hebräischen Bibel steht das Buch der Chronik am Ende. „Von Abel bis Secharja“ heißt also: von Anfang bis Ende der Heiligen Schrift.
+> Vers 51: Abel ist der erste Mensch, der ermordet wurde (1. Mose 4,8). Secharja wurde im Tempelhof gesteinigt (2. Chronik 24,20–22). In der hebräischen Bibel steht das Buch der Chronik am Ende. „Vom Blut Abels bis zum Blut von Secharja“ (11,51) heißt also: von Anfang bis Ende der Heiligen Schrift.
 > Vers 50–51: „Diese Generation“: Das ist die Sprache der Propheten. Es ist kein Urteil über das ganze jüdische Volk. Die Bibel sagt klar: Jeder ist nur für seine eigene Schuld verantwortlich (Hesekiel 18,20).
 > Vers 52: Der „Schlüssel der Erkenntnis“ ist das richtige Verständnis der Heiligen Schrift.
 > Für heute: Diese Worte sind vor allem eine Warnung an alle, die in der Kirche lehren und leiten: Keine Heuchelei, keine schweren Lasten für andere, keine Hindernisse auf dem Weg zu Gott.

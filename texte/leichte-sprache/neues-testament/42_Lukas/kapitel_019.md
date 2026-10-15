@@ -254,7 +254,7 @@ und hörte ihm zu.
 
 > **Was bedeutet das?**
 > Im äußeren Vorhof des Tempels verkaufte man Opfertiere und tauschte Geld. Das war für den Tempeldienst nötig. Aber es störte das Gebet, gerade im Vorhof, in dem auch Nichtjuden beten durften.
-> Vers 46 verbindet Jesaja 56,7 („Mein Haus wird ein Haus des Gebets heißen“) und Jeremia 7,11 („Räuberhöhle“). Jesus handelt wie die Propheten Israels, die den Tempel liebten und Missstände kritisierten.
+> Vers 46 verbindet Jesaja 56,7 („Mein Haus wird ein Bethaus für alle Völker genannt werden“) und Jeremia 7,11 („Räuberhöhle“). Jesus handelt wie die Propheten Israels, die den Tempel liebten und Missstände kritisierten.
 > Lukas erzählt die Tempelreinigung sehr kurz. Jesus nimmt den Tempel in Besitz, um dort zu lehren.
 > Vers 47–48: Einige Leiter wollen Jesus töten. Aber „das ganze Volk“ hört ihm begeistert zu. Lukas unterscheidet klar zwischen einigen Mächtigen und dem Volk.
 > Wichtig: Das jüdische Volk war nicht gegen Jesus. Es hing an seinen Lippen.

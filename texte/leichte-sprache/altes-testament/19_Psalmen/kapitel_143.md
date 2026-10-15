@@ -26,7 +26,7 @@ Sela.
 
 > **Was bedeutet das?**
 > Psalm 143 ist der letzte der sieben Bußpsalmen.
-> Vers 2: Ein wichtiger Satz: Vor Gott kann niemand sagen: „Ich bin ganz gerecht.“ Darum bittet der Beter nicht um Gerechtigkeit nach Leistung, sondern um Gnade. Paulus nimmt diesen Gedanken auf (Römer 3,20; Galater 2,16).
+> Vers 2: Ein wichtiger Satz: „Vor dir ist kein lebender Mensch gerecht.“ Niemand kann vor Gott sagen: Ich bin ganz gerecht. Darum bittet der Beter nicht um Gerechtigkeit nach Leistung, sondern um Gnade. Paulus nimmt diesen Gedanken auf (Römer 3,20; Galater 2,16).
 > Vers 3–4: Der Beter fühlt sich wie lebendig begraben. Eine Beschreibung, die viele Menschen in schweren Depressionen kennen.
 > Vers 5–6: Was hilft? Sich erinnern, was Gott früher getan hat. Und sich nach ihm ausstrecken wie trockene Erde nach Regen.
 

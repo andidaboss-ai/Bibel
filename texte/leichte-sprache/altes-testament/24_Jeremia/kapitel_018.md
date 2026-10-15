@@ -45,7 +45,7 @@ und jeder will nach der Verstocktheit seines bösen Herzens handeln.‘“
 > Vers 6: So ist Israel in Gottes Hand. Gott kann aus dem „missratenen“ Volk etwas Neues machen.
 > Vers 7–10: Ein wichtiger Gedanke: Gottes Ankündigungen sind nicht unabänderlich. Wenn ein Volk umkehrt, verzichtet Gott auf das angekündigte Unheil (wie bei Ninive im Buch Jona). Und wenn ein Volk Böses tut, nimmt Gott sein gutes Versprechen zurück. Gott reagiert auf das, was Menschen tun. Die Zukunft ist offen.
 > Vers 11: Darum die Einladung: Kehrt um! Noch ist es nicht zu spät.
-> Vers 12: Aber das Volk antwortet: „Es ist umsonst. Wir machen, was wir wollen.“
+> Vers 12: Aber das Volk antwortet: „Es ist umsonst! Denn wir wollen unseren eigenen Plänen folgen.“
 > Das Bild vom Töpfer ist tröstlich: Auch wenn in unserem Leben etwas missrät, kann Gott daraus etwas Neues formen.
 
 ---
@@ -114,5 +114,5 @@ Handle mit ihnen zur Zeit deines Zorns!
 > Vers 18: Jeremias Gegner sagen: Wir brauchen ihn nicht. Wir haben doch unsere Priester, Weisen und Propheten. Lasst uns ihn mit Worten fertigmachen, durch Verleumdung.
 > Vers 20: Jeremia ist tief verletzt. Er hat sogar für diese Menschen gebetet, und jetzt wollen sie ihn töten.
 > Vers 21–23: Jeremia betet ein hartes Fluchgebet gegen seine Feinde und ihre Familien. Diese Worte erschrecken. Sie zeigen, wie verzweifelt und verletzt Jeremia war. Die Bibel verschweigt solche Gefühle nicht. Sie zeigt einen Menschen, der seinen ganzen Zorn vor Gott bringt, statt selbst Gewalt anzuwenden.
-> Wichtig: Diese Worte sind keine Anweisung, anderen Böses zu wünschen oder zu tun. Jesus hat einen anderen Weg gezeigt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44). Am Kreuz betete er: „Vater, vergib ihnen“ (Lukas 23,34).
+> Wichtig: Diese Worte sind keine Anweisung, anderen Böses zu wünschen oder zu tun. Jesus hat einen anderen Weg gezeigt: „Liebt eure Feinde … und betet für die, die euch misshandeln und verfolgen“ (Matthäus 5,44). Am Kreuz betete er: „Vater, vergib ihnen“ (Lukas 23,34).
 > Wer von anderen gemobbt oder bedroht wird, darf sich Hilfe holen: Nummer gegen Kummer 116 111, Telefonseelsorge 0800 111 0 111.

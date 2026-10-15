@@ -102,7 +102,7 @@ Korn lässt die jungen Männer gedeihen
 und Most die jungen Frauen.
 
 > **Was bedeutet das?**
-> Vers 11: „Das Blut deines Bundes“: Der Bund zwischen Gott und Israel wurde am Sinai mit Blut besiegelt (2. Mose 24,8). Wegen dieses Bundes befreit Gott die Gefangenen aus einer Zisterne ohne Wasser, ein Bild für ausweglose Not (vgl. Josef in 1. Mose 37,24; Jeremia in Jeremia 38,6). Jesus spricht beim letzten Abendmahl vom „Blut des Bundes“ (Markus 14,24).
+> Vers 11: „Wegen des Blutes deines Bundes“: Der Bund zwischen Gott und Israel wurde am Sinai mit Blut besiegelt (2. Mose 24,8). Wegen dieses Bundes befreit Gott die Gefangenen aus einer Zisterne ohne Wasser, ein Bild für ausweglose Not (vgl. Josef in 1. Mose 37,24; Jeremia in Jeremia 38,6). Jesus spricht beim letzten Abendmahl vom „Blut des neuen Bundes“ (Markus 14,24).
 > Vers 12: „Gefangene der Hoffnung“, ein schöner Ausdruck. Sie sind noch gefangen, aber sie haben Hoffnung. Gott verspricht, ihnen doppelt zurückzugeben, was sie verloren haben.
 > Vers 13–15: Ein Kampfbild: Gott benutzt sein Volk wie Pfeil und Bogen gegen „Griechenland“ (im Hebräischen „Jawan“, das sind die Griechen). Vielleicht denkt der Text an die griechischen Herrscher nach Alexander dem Großen. Diese Bilder beschreiben Gottes Schutz für sein bedrohtes Volk. Sie sind kein Aufruf an Menschen, Krieg zu führen; der König aus Vers 10 bringt ja gerade den Frieden.
 > Vers 16–17: Gott rettet sein Volk wie ein Hirte seine Herde. Sie sind für ihn so wertvoll wie Edelsteine in einer Krone. Am Ende Überfluss: genug Korn und Wein für die jungen Menschen.

@@ -91,7 +91,7 @@ und niemand wird sie aufschrecken.“
 > **Was bedeutet das?**
 > Vers 11: Gott nimmt die Schande weg. Aber er entfernt die Hochmütigen.
 > Vers 12: Übrig bleibt ein „demütiges und armes Volk“. Es sind nicht die Mächtigen und Reichen, sondern die Kleinen, die bei Gott Zuflucht suchen. Mit ihnen fängt Gott neu an.
-> Das erinnert an Jesus: „Selig sind die Armen im Geist … Selig sind die Sanftmütigen“ (Matthäus 5,3.5).
+> Das erinnert an Jesus: „Selig sind, die arm sind im Geist … Selig sind die Sanftmütigen“ (Matthäus 5,3.5).
 > Vers 13: Dieses neue Volk lebt ehrlich, ohne Lüge und Betrug. Und es lebt in Frieden wie eine Herde, die niemand erschreckt.
 
 ---
@@ -133,7 +133,7 @@ spricht der HERR.
 > **Was bedeutet das?**
 > Das Buch, das mit „Tag des Zorns“ begann, endet mit einem Freudenlied!
 > Vers 14–15: Jerusalem soll singen und jubeln. Die Strafe ist vorbei. Gott selbst ist als König in der Stadt.
-> Vers 16: „Fürchte dich nicht! Lass deine Hände nicht sinken!“ Ein Wort der Ermutigung.
+> Vers 16: „Fürchte dich nicht, Zion! Lass deine Hände nicht sinken!“ Ein Wort der Ermutigung.
 > Vers 17: Einer der schönsten Verse der Bibel. Nicht nur das Volk freut sich über Gott, sondern Gott freut sich über sein Volk! Er jubelt und singt über die Menschen, die er liebt. Wie Eltern, die über ihr Kind glücklich sind und ihm ein Lied singen.
 > „Er wird dich zur Ruhe bringen in seiner Liebe“: Andere übersetzen auch „er wird schweigen in seiner Liebe“, also so voller Liebe sein, dass er keine Worte mehr braucht.
 > Vers 18: Der Vers ist im Hebräischen schwer zu verstehen. Gemeint ist wahrscheinlich: Gott sammelt auch die, die traurig waren, weil sie in der Verbannung nicht die Feste in Jerusalem feiern konnten, und nimmt ihre Schmach weg.
@@ -145,7 +145,7 @@ spricht der HERR.
 
 > **Was bedeutet das?**
 > **Der Tag des HERRN:** Zefanja kündigt einen „Tag des Zorns“ an, über Juda und alle Völker (1,14–18). Daraus entstand das berühmte „Dies irae“.
-> **Gegen Götzendienst und Gleichgültigkeit:** Gericht über die, die Baal anbeten, die sich nicht entscheiden wollen und die sagen: „Gott tut sowieso nichts“ (1,4–6.12).
+> **Gegen Götzendienst und Gleichgültigkeit:** Gericht über die, die Baal anbeten, die sich nicht entscheiden wollen und die in ihrem Herzen sagen: „Der HERR tut nichts Gutes und nichts Böses“ (1,4–6.12). Das heißt: Gott tut sowieso nichts.
 > **Sucht den HERRN!** „Sucht Gerechtigkeit! Sucht Demut! Vielleicht werdet ihr verborgen am Tag des Zorns“ (2,3).
 > **Gericht über alle Völker:** In alle Himmelsrichtungen, und doch werden am Ende die Menschen aller Völker Gott anbeten (2,11).
 > **Reine Lippen für alle Völker:** „Damit sie alle den Namen des HERRN anrufen und ihm Schulter an Schulter dienen“ (3,9).

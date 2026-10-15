@@ -184,7 +184,7 @@ darum trage auch du deine Schamlosigkeit und deine Hurerei.‘“
 > Vers 22–24: Die Großmächte, die Jerusalem „geliebt“ hat, kommen jetzt als Feinde. Pekod, Schoa und Koa waren Volksstämme im Gebiet Babylons.
 > Vers 25: Das Abschneiden von Nase und Ohren war eine grausame Kriegsstrafe der Großmächte damals. Hesekiel beschreibt, was die Eroberer tun werden. Das ist eine Beschreibung von Kriegsgräueln, keine Billigung.
 > Vers 31–34: Der „Becher“ ist ein bekanntes Bild in der Bibel für das Schicksal, das man „trinken“ muss (vgl. Jeremia 25,15–29). Jerusalem muss denselben bitteren Becher trinken wie Samaria.
-> Vers 35: Der eigentliche Grund: „Du hast mich vergessen und hinter deinen Rücken geworfen.“ Die Untreue gegen Gott ist das Kernproblem.
+> Vers 35: Gott nennt den eigentlichen Grund: „Weil du mich vergessen und mich hinter deinen Rücken geworfen hast.“ Die Untreue gegen Gott ist das Kernproblem.
 > Noch einmal deutlich: Solche Bilder rechtfertigen niemals Gewalt gegen Frauen. Wer Gewalt erlebt, ist nicht schuld. Hilfetelefon Gewalt gegen Frauen: 116 016 (kostenlos, anonym, rund um die Uhr).
 
 ---
@@ -250,6 +250,6 @@ Dann werdet ihr erkennen, dass ich der Herr, der HERR, bin.‘“
 > Vers 40–42: Jerusalem schmückt sich für fremde Gesandte. Gemeint sind wohl diplomatische Empfänge und Bündnisverhandlungen, bei denen man Gottes Gaben (Weihrauch und Öl) an Fremde verschwendete.
 > Vers 45–47: Wieder wird die Sprache der damaligen Strafen benutzt. Die „Volksmenge“ ist das Heer, das die Städte zerstören wird.
 > Vers 48: „Damit alle Frauen sich warnen lassen“ – im Bild sind die „Frauen“ wahrscheinlich die anderen Städte und Völker. Dieser Vers darf auf keinen Fall so verstanden werden, als sollten echte Frauen durch Gewalt eingeschüchtert oder kontrolliert werden. Gewalt gegen Frauen ist Unrecht, immer.
-> Die Bibel selbst zeigt an anderer Stelle einen ganz anderen Weg: Jesus verurteilt die Frau nicht, die gesteinigt werden sollte, sondern sagt zu den Männern: „Wer von euch ohne Sünde ist, werfe den ersten Stein“ (Johannes 8,7).
+> Die Bibel selbst zeigt an anderer Stelle einen ganz anderen Weg: Jesus verurteilt die Frau nicht, die gesteinigt werden sollte, sondern sagt zu den Männern: „Wer von euch ohne Sünde ist, der werfe als Erster einen Stein auf sie“ (Johannes 8,7).
 > Wenn du Gewalt erlebst: Hilfetelefon Gewalt gegen Frauen 116 016, Hilfetelefon Gewalt an Männern 0800 123 99 00, Polizei 110.
 

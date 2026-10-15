@@ -57,7 +57,7 @@ Den jungen Löwen und die Schlange wirst du niedertreten.
 
 > **Was bedeutet das?**
 > Vers 11–12 sind sehr bekannt: Gott schickt Engel, die uns beschützen. Daraus kommt die Vorstellung vom „Schutzengel“.
-> Diese Verse kommen in der Versuchung von Jesus vor: Der Teufel zitiert sie und fordert Jesus auf, sich vom Tempel zu stürzen. Jesus antwortet: „Du sollst Gott nicht auf die Probe stellen“ (Matthäus 4,5–7).
+> Diese Verse kommen in der Versuchung von Jesus vor: Der Teufel zitiert sie und fordert Jesus auf, sich vom Tempel zu stürzen. Jesus antwortet: „Du sollst den Herrn, deinen Gott, nicht versuchen“ (Matthäus 4,5–7). Das heißt: Man soll Gott nicht auf die Probe stellen.
 > Das zeigt: Man darf Gottes Versprechen nicht missbrauchen, indem man sich absichtlich in Gefahr bringt.
 
 ---

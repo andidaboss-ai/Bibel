@@ -75,7 +75,7 @@ für immer und ewig.
 
 > **Was bedeutet das?**
 > Vers 14: Gott ist für die da, die fallen und gebeugt sind. Er hilft wieder auf.
-> Vers 15–16 sind ein bekanntes Tischgebet: „Aller Augen warten auf dich, Herr, und du gibst ihnen ihre Speise zur rechten Zeit. Du tust deine Hand auf und sättigst alles, was lebt, mit Wohlgefallen.“
+> Vers 15–16 sind ein bekanntes Tischgebet: „Die Augen aller warten auf dich, und du gibst ihnen ihre Speise zur rechten Zeit. Du öffnest deine Hand und sättigst den Wunsch von allem, was lebt.“
 > Vers 18: Gott ist nahe. Man muss ihn nicht weit suchen. Ein ehrliches Gebet genügt.
 > Vers 20: Gott wird das Böse beenden. Das ist ein Trost für die Opfer von Unrecht.
 > In diesem Psalm kommt das Wort „alle“ sehr oft vor. Gottes Güte ist weit.

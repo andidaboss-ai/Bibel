@@ -145,11 +145,11 @@ und nicht wie die Schriftgelehrten.
 
 > **Was bedeutet das?**
 > **Die Seligpreisungen:** Gott wendet sich den Armen, Trauernden, Sanftmütigen, Barmherzigen und Friedensstiftern zu (5,3–12).
-> **Salz und Licht:** „Ihr seid das Salz der Erde. Ihr seid das Licht der Welt“ (5,13–14).
+> **Salz und Licht:** „Ihr seid das Salz der Erde. … Ihr seid das Licht der Welt“ (5,13–14).
 > **Gottes Gebot vom Herzen her:** Nicht nur nicht töten, sondern versöhnen. Nicht nur nicht ehebrechen, sondern treu sein im Herzen. Keine Rache, sondern Feindesliebe (5,21–48).
 > **Echte Frömmigkeit:** Gutes tun, beten und fasten nicht zur Schau, sondern für Gott (6,1–18).
 > **Das Vaterunser:** Das Gebet, das Jesus seine Jünger gelehrt hat (6,9–13).
-> **Vertrauen statt Sorgen:** „Sucht zuerst das Reich Gottes“ (6,33).
-> **Die Goldene Regel:** „Alles, was ihr wollt, dass euch die Menschen tun, das tut auch ihr ihnen“ (7,12).
+> **Vertrauen statt Sorgen:** „Sucht aber zuerst das Reich Gottes“ (6,33).
+> **Die Goldene Regel:** „Alles nun, was ihr wollt, dass euch die Menschen tun, das sollt auch ihr ihnen tun“ (7,12).
 > **Hören und tun:** Wer Jesu Worte hört und tut, baut sein Haus auf Felsen (7,24).
 > **Für heute:** Die Bergpredigt hat Menschen in aller Welt bewegt, auch über das Christentum hinaus. Mahatma Gandhi und Martin Luther King zum Beispiel ließen sich von ihr zu gewaltlosem Widerstand inspirieren.

@@ -31,7 +31,7 @@ Dornen werden in ihren Zelten sein.
 > **Was bedeutet das?**
 > Vers 1: Das Erntefest wird gefeiert, aber Hosea ruft: „Freut euch nicht!“ Die Menschen dankten auf den Dreschplätzen dem Fruchtbarkeitsgott Baal für die Ernte. Das nennt Hosea „Hurenlohn“: Sie glauben, die Ernte sei der Lohn von Baal.
 > Vers 3–4: Im Exil (in Assyrien) werden sie keine Feste für Gott mehr feiern können. Sie werden unreines Essen essen müssen. Ihr Brot wird wie „Trauerbrot“ sein: Brot in einem Haus, in dem jemand gestorben ist, galt als unrein.
-> Vers 5: Eine traurige Frage: „Was werdet ihr an den Festtagen tun?“ Ohne Tempel und ohne Land gibt es keine Feste mehr.
+> Vers 5: Eine traurige Frage: „Was werdet ihr tun am Tag der Festversammlung?“ Ohne Tempel und ohne Land gibt es keine Feste mehr.
 > Vers 6: Memphis in Ägypten war bekannt für seine großen Friedhöfe. Wer nach Ägypten flieht, wird dort begraben werden. Das verlassene Land wird von Nesseln und Dornen überwuchert.
 
 ---
@@ -53,7 +53,7 @@ Er wird an ihre Schuld denken.
 Er wird ihre Sünden heimsuchen.
 
 > **Was bedeutet das?**
-> Vers 7: Die Menschen sagen über Hosea: „Der Prophet ist ein Narr, verrückt!“ Wer unbequeme Wahrheiten sagt, wird oft lächerlich gemacht.
+> Vers 7: Die Menschen lachen über Hosea: „Israel wird den Propheten für einen Narren halten und den Mann des Geistes für verrückt.“ Wer unbequeme Wahrheiten sagt, wird oft lächerlich gemacht.
 > Vers 8: Der Prophet ist wie ein Wächter (vgl. Hesekiel 3,17). Aber man stellt ihm Fallen. Sogar im Tempel begegnet man ihm feindselig.
 > Vers 9: „Wie in den Tagen von Gibea“ erinnert an ein schreckliches Verbrechen in Gibea: An einer Frau wurde dort grausame sexuelle Gewalt verübt, die zu ihrem Tod führte (Richter 19–21). Hosea sagt: So tief ist das Volk gesunken.
 
@@ -84,7 +84,7 @@ und vertrocknete Brüste.
 
 > **Was bedeutet das?**
 > Vers 10: Gott erinnert sich zärtlich an den Anfang: Als er Israel fand, war es so kostbar wie Trauben in der Wüste oder wie die allerersten Feigen. Eine Liebe auf den ersten Blick!
-> Aber bei Baal-Peor betete Israel schon in der Wüste den Gott Baal an (4. Mose 25). „Sie wurden abscheulich wie das, was sie liebten“: Wir werden dem ähnlich, was wir lieben und verehren.
+> Aber bei Baal-Peor betete Israel schon in der Wüste den Gott Baal an (4. Mose 25). Gott sagt: Sie „wurden abscheulich wie das, was sie liebten“ (Hosea 9,10). Das bedeutet: Wir werden dem ähnlich, was wir lieben und verehren.
 > Vers 11–14: Diese Verse sind sehr hart. Der Fruchtbarkeitsgott Baal sollte Kinder schenken. Hosea sagt: Genau das Gegenteil wird geschehen. Der Götzendienst bringt Unfruchtbarkeit und Tod.
 > Vers 14: Hosea selbst bricht ab und stockt: „Gib ihnen, HERR … was sollst du ihnen geben?“ Man spürt seinen Schmerz. Er weiß nicht, was er beten soll.
 > Sehr wichtig: Diese Verse beschreiben ein Gericht über ein ganzes Volk in einer bestimmten Zeit. Sie bedeuten auf keinen Fall, dass eine Fehlgeburt, eine Totgeburt oder ungewollte Kinderlosigkeit eine Strafe Gottes für eine Person wäre. Wer ein Kind verloren hat, trägt keine Schuld. Wer darüber reden möchte: Telefonseelsorge 0800 111 0 111 oder 0800 111 0 222.
@@ -113,4 +113,4 @@ Und sie werden Umherirrende unter den Völkern sein.
 > „Ich werde sie nicht mehr lieben.“ Das ist ein schrecklicher Satz. Aber man muss das ganze Buch lesen: In Kapitel 11 und 14 sagt Gott genau das Gegenteil: „Wie könnte ich dich preisgeben?“ und „Ich will sie aus freien Stücken lieben“ (14,4). Gottes Zorn ist echt, aber seine Liebe hat das letzte Wort.
 > Vers 16: Ein Wortspiel: „Ephraim“ klingt wie „fruchtbar“. Aber jetzt wird Ephraim keine Frucht mehr bringen.
 > Vers 17: „Umherirrende unter den Völkern“. Das traf ein: Nach 722 vor Christus wurden die Israeliten des Nordreichs von den Assyrern verschleppt und unter die Völker zerstreut.
-> Auch dieser Vers ist kein Freibrief für Gewalt gegen Kinder. Kinder sind in der Bibel immer schutzwürdig (vgl. Markus 10,14: „Lasst die Kinder zu mir kommen“).
+> Auch dieser Vers ist kein Freibrief für Gewalt gegen Kinder. Kinder sind in der Bibel immer schutzwürdig (vgl. Markus 10,14: „Lasst die kleinen Kinder zu mir kommen“).

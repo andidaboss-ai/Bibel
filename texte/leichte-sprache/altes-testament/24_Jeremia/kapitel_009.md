@@ -114,7 +114,7 @@ und niemand wird sie sammeln.‘“
 > **Was bedeutet das?**
 > Vers 17–18: Im Alten Orient gab es Klagefrauen. Sie waren Fachfrauen für Trauer und halfen anderen, ihren Schmerz auszudrücken. Gott selbst ruft sie: Ihr müsst jetzt klagen!
 > Vers 20: Die Frauen sollen ihre Töchter und Nachbarinnen das Klagen lehren. Trauer braucht Worte und Gemeinschaft.
-> Vers 21: „Der Tod ist durch unsere Fenster gestiegen“ wie ein Dieb. Er nimmt Kinder und junge Menschen weg.
+> Vers 21: „Der Tod ist in unsere Fenster gestiegen“ wie ein Dieb. Er nimmt Kinder und junge Menschen weg.
 > Diese Verse zeigen: Es ist richtig, Trauer und Schmerz laut auszusprechen. Die Bibel hat ein ganzes Buch voller Klagelieder. Wer trauert, darf weinen. Und niemand muss damit allein sein: Telefonseelsorge 0800 111 0 111.
 
 ---
@@ -137,5 +137,5 @@ Denn alle Nationen sind unbeschnitten,
 und das ganze Haus Israel ist unbeschnitten im Herzen.“
 
 > **Was bedeutet das?**
-> Vers 23–24 ist einer der wichtigsten Sätze bei Jeremia: Sei nicht stolz auf deine Klugheit, deine Kraft oder dein Geld. Wenn du schon stolz sein willst, dann darauf, dass du Gott kennst, den Gott, der Gnade, Recht und Gerechtigkeit liebt. Paulus nimmt das auf: „Wer sich rühmt, der rühme sich des Herrn“ (1. Korinther 1,31).
+> Vers 23–24 ist einer der wichtigsten Sätze bei Jeremia: Sei nicht stolz auf deine Klugheit, deine Kraft oder dein Geld. Wenn du schon stolz sein willst, dann darauf, dass du Gott kennst, den Gott, der Gnade, Recht und Gerechtigkeit liebt. Paulus nimmt das auf: „Wer sich rühmt, der soll sich im Herrn rühmen“ (1. Korinther 1,31).
 > Vers 25–26: Viele Völker damals waren beschnitten, nicht nur Israel. Jeremia sagt: Das äußere Zeichen allein nützt nichts. Wer ein „unbeschnittenes Herz“ hat, also ein Herz, das für Gott verschlossen ist, dem hilft auch das Zeichen am Körper nicht. Das gilt für alle Völker und auch für Israel. „Gestutzter Haarrand“ war eine Haartracht bestimmter arabischer Stämme.

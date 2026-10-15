@@ -98,7 +98,7 @@ und es ist nicht ehrenvoll, die eigene Ehre zu suchen.
 so ist ein Mensch, der seinen Geist nicht beherrscht.
 
 > **Was bedeutet das?**
-> Vers 21–22 gehört zu den größten Sätzen des Alten Testaments: Sei gut zu deinem Feind! Gib ihm zu essen und zu trinken. Die „glühenden Kohlen“ meinen wahrscheinlich: Er wird sich schämen und vielleicht umkehren. Güte kann einen Feind zum Freund machen. Paulus zitiert diese Verse (Römer 12,20–21): „Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit dem Guten.“
+> Vers 21–22 gehört zu den größten Sätzen des Alten Testaments: Sei gut zu deinem Feind! Gib ihm zu essen und zu trinken. Die „glühenden Kohlen“ meinen wahrscheinlich: Er wird sich schämen und vielleicht umkehren. Güte kann einen Feind zum Freund machen. Paulus zitiert diese Verse (Römer 12,20–21): „Lass dich nicht vom Bösen besiegen, sondern besiege das Böse durch das Gute.“
 > Vers 24 wiederholt Kapitel 21,9.
 > Vers 25: Eine gute Nachricht von weit weg, etwa von einem Menschen, den man liebt, ist so erfrischend wie kaltes Wasser.
 > Vers 26: Wenn gute Menschen vor dem Bösen einknicken, ist das wie ein verschmutzter Brunnen: Man kann sich nicht mehr auf sie verlassen.

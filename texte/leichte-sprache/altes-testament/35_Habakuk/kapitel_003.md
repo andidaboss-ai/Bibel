@@ -130,4 +130,4 @@ Für den Chorleiter, mit meinen Saiteninstrumenten.
 > **Hoffnung für die Welt:** „Die Erde wird voll werden von der Erkenntnis der Herrlichkeit des HERRN, wie die Wasser das Meer bedecken“ (2,14).
 > **Vertrauen trotz allem:** „Auch wenn der Feigenbaum nicht blüht … so will ich mich doch freuen im HERRN“ (3,17–18).
 > **Für heute:** Habakuk ermutigt uns, Gott ehrlich unsere Fragen zu stellen, und zeigt einen Weg vom Zweifel zum Vertrauen.
-> **Wie geht es weiter?** Als Nächstes kommt Zefanja. Er spricht vom „Tag des HERRN“, aber auch von Gottes Liebe: „Er wird sich über dich freuen mit Jubel“ (Zefanja 3,17).
+> **Wie geht es weiter?** Als Nächstes kommt Zefanja. Er spricht vom „Tag des HERRN“, aber auch von Gottes Liebe: „Er wird über dich jubeln mit Gesang“ (Zefanja 3,17).

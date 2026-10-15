@@ -41,8 +41,8 @@ Die Rettung gehört dem HERRN.“
 > In deutschen Bibeln sind diese Verse meistens um eins verschoben (dort Vers 2–10).
 > Jona betet endlich, ganz unten, im Bauch des Fisches. Sein Gebet ist ein Dankpsalm. Viele Worte erinnern an die Psalmen (zum Beispiel Psalm 18; 42,8; 69,2–3; 120,1).
 > Vers 2: „Totenreich“: Jona war dem Tod ganz nah. Er fühlte sich schon wie im Reich der Toten.
-> Vers 4: Selbst als er sich von Gott verstoßen fühlte, hat er die Hoffnung nicht aufgegeben: „Ich werde wieder auf deinen Tempel schauen.“
-> Vers 6: Tiefer geht es nicht. Aber: „Und doch hast du mein Leben heraufgeholt.“ Das ist der Wendepunkt.
+> Vers 4: Selbst als er sich von Gott verstoßen fühlte, hat er die Hoffnung nicht aufgegeben: „Und doch werde ich wieder auf deinen heiligen Tempel schauen.“
+> Vers 6: Tiefer geht es nicht. Aber: „Und doch hast du mein Leben aus der Grube heraufgeholt.“ Das ist der Wendepunkt.
 > Vers 8: Ein Satz, der zu denken gibt. Ausgerechnet über die Götzendiener urteilt Jona hart, obwohl die heidnischen Seeleute in Kapitel 1 gerade zum HERRN gebetet haben.
 > Vers 9: „Die Rettung gehört dem HERRN.“ Das ist der Kern des ganzen Buches. Gott allein rettet, wen er will, auch Jona und später auch Ninive.
 > Für heute: Manchmal betet man erst, wenn man ganz unten ist. Und auch dann hört Gott. Wenn du dich selbst „ganz unten“ fühlst und nicht weiterweißt: Die Telefonseelsorge ist rund um die Uhr erreichbar: 0800 111 0 111 oder 0800 111 0 222.

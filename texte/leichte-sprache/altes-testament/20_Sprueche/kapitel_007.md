@@ -68,7 +68,7 @@ und nicht weiß, dass es ihn das Leben kostet.
 > **Was bedeutet das?**
 > Der Vater erzählt eine Geschichte, die er vom Fenster aus beobachtet hat. Ein junger, unerfahrener Mann geht abends absichtlich in die Gegend, wo die Frau wohnt. Er sucht die Versuchung.
 > Vers 14: Bei einem Friedensopfer bekam man Fleisch zurück, das man zu Hause essen musste. Die Frau sagt also: Ich habe ein gutes Essen zu Hause. Sie benutzt sogar Religiöses für ihre Verführung.
-> Vers 19–20: Ihr Mann ist weg, niemand wird es merken. So klingt Versuchung oft: „Es merkt ja keiner.“
+> Vers 19–20: Ihr Mann ist weg, niemand wird es merken. So klingt Versuchung oft: Es merkt ja keiner.
 > Vers 22–23: Der junge Mann merkt nicht, dass er in eine Falle läuft, wie ein Tier zum Schlachter.
 > Die Geschichte warnt vor Untreue und vor dem Denken „nur dieses eine Mal“.
 

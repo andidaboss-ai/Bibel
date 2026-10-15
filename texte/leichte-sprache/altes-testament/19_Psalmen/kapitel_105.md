@@ -73,7 +73,7 @@ und seine Ältesten Weisheit lehre.
 > **Was bedeutet das?**
 > Hier wird kurz die Geschichte von Josef erzählt (1. Mose 37–45). Er wurde von seinen Brüdern als Sklave verkauft und kam ins Gefängnis.
 > Aber Gott hatte einen Plan: Josef wurde der zweitmächtigste Mann in Ägypten und rettete seine Familie vor dem Hunger.
-> Vers 19: „Bis sein Wort eintraf“: Josef hatte Träume gedeutet. Als sie sich erfüllten, wurde er befreit.
+> Vers 19: „Bis die Zeit kam, in der sein Wort eintraf“: Josef hatte Träume gedeutet. Als sie sich erfüllten, wurde er befreit.
 
 ---
 

@@ -77,5 +77,5 @@ und dem Namen des HERRN, des Höchsten, Lob singen.
 > Gott „zürnt jeden Tag“: Gott ist nicht gleichgültig gegenüber dem Bösen. Unrecht berührt ihn.
 > Vers 12–13: Wer ist „er“? Man kann es auf Gott beziehen: Gott hält sich bereit, wenn der Böse nicht umkehrt. Oder auf den Bösen: Er bereitet Waffen gegen andere vor. Beides ist möglich.
 > Vers 14: Ein Bild aus der Geburt: Der Böse „wird schwanger“ mit bösen Plänen und „gebiert“ Lüge.
-> Vers 15–16: Das bekannte Sprichwort „Wer andern eine Grube gräbt, fällt selbst hinein“ kommt aus der Bibel (vgl. Sprüche 26,27). Das Böse fällt auf den zurück, der es tut.
+> Vers 15–16: Das kennt man als Sprichwort: Wer andern eine Grube gräbt, fällt selbst hinein. Das Sprichwort kommt aus der Bibel. In Sprüche 26,27 heißt es: „Wer eine Grube gräbt, fällt selbst hinein.“ Das Böse fällt auf den zurück, der es tut.
 > Der Psalm endet mit Dank und Lob.

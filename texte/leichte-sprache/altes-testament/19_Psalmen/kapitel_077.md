@@ -65,7 +65,7 @@ Sela.
 
 > **Was bedeutet das?**
 > Vers 10 ist die Wende. Der Beter hört auf, nur um sich selbst und seinen Schmerz zu kreisen. Er erinnert sich bewusst an das, was Gott früher getan hat.
-> Vers 10 ist im Hebräischen schwer zu übersetzen. Andere übersetzen: „Das ist mein Schmerz, dass die rechte Hand des Höchsten sich geändert hat.“ Die englische Vorlage versteht ihn als Wende zum Vertrauen.
+> Vers 10 ist im Hebräischen schwer zu übersetzen. Andere verstehen ihn als Klage: Es tut mir weh, dass der Höchste nicht mehr so handelt wie früher. Die englische Vorlage versteht ihn als Wende zum Vertrauen.
 > „Jah“ ist eine Kurzform des Gottesnamens.
 > Die Erinnerung an Gottes Taten gibt Kraft für die Gegenwart.
 

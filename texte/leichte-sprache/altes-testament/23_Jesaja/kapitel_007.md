@@ -41,7 +41,7 @@ Wenn ihr nicht glaubt, dann werdet ihr gewiss nicht bestehen.‘“
 > Die Lage: Im Jahr 734 vor Christus greifen zwei Nachbarkönige Jerusalem an, der König von Syrien und der König des Nordreichs Israel (auch „Ephraim“ genannt). Sie wollen König Ahas absetzen. Ahas und sein Volk zittern vor Angst.
 > Vers 3: Jesaja nimmt seinen Sohn mit. Sein Name „Schear-Jaschub“ bedeutet „Ein Rest kehrt um“. Schon der Name ist eine Botschaft.
 > Vers 4: „Bleib ruhig! Fürchte dich nicht!“ Die beiden Feinde sind nur „rauchende Fackelstummel“: Sie qualmen noch, aber ihr Feuer ist bald aus.
-> Vers 9: „Wenn ihr nicht glaubt, dann bleibt ihr nicht.“ Im Hebräischen ein Wortspiel: „glauben“ und „bestehen“ kommen vom selben Wort, von dem auch „Amen“ kommt. Wer sich an Gott festmacht, hat festen Halt.
+> Vers 9: „Wenn ihr nicht glaubt, dann werdet ihr gewiss nicht bestehen.“ Im Hebräischen ein Wortspiel: „glauben“ und „bestehen“ kommen vom selben Wort, von dem auch „Amen“ kommt. Wer sich an Gott festmacht, hat festen Halt.
 
 ---
 

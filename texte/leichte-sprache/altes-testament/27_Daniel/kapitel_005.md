@@ -152,7 +152,7 @@ und diese Schrift geschrieben.
 > **Was bedeutet das?**
 > Vers 17: Daniel will keine Geschenke. Er lässt sich nicht kaufen.
 > Vers 18–21: Daniel erinnert den König an die Geschichte von Nebukadnezar aus Kapitel 4: Auch der größte König wurde gedemütigt, bis er Gott anerkannte.
-> Vers 22: Der schwerste Vorwurf: „Du wusstest das alles!“ Belsazar kannte die Geschichte, aber er hat nichts daraus gelernt.
+> Vers 22: Der schwerste Vorwurf: „Du aber, sein Sohn Belsazar, hast dein Herz nicht gedemütigt, obwohl du das alles wusstest.“ Belsazar kannte die Geschichte, aber er hat nichts daraus gelernt.
 > Vers 23: Ein starker Gegensatz: Belsazar lobt Götter, „die nicht sehen, nicht hören und nichts wissen“. Aber den Gott, „in dessen Hand dein Atem ist“, ehrt er nicht. Jeder Atemzug ist ein Geschenk Gottes.
 
 ---

@@ -145,7 +145,7 @@ von seiner Bosheit abbringen.“
 > Vers 12: Petrus sagt: Nicht wir haben das gemacht. Er nimmt keine Ehre für sich.
 > Vers 13: „Der Gott Abrahams, Isaaks und Jakobs“: Petrus spricht vom Gott Israels. Es ist derselbe Gott, an den Juden und Christen glauben.
 > Vers 13–15: Petrus redet hart. Aber er ist selbst Jude und spricht zu seinem eigenen Volk, wie die Propheten.
-> Vers 17 ist sehr wichtig: „Ihr habt es aus Unwissenheit getan.“ Petrus klagt nicht an, um zu verurteilen, sondern um zur Umkehr einzuladen. Wie Jesus am Kreuz betete: „Vater, vergib ihnen, denn sie wissen nicht, was sie tun“ (Lukas 23,34).
+> Vers 17 ist sehr wichtig. Petrus sagt: „Ich weiß, dass ihr es aus Unwissenheit getan habt.“ Petrus klagt nicht an, um zu verurteilen, sondern um zur Umkehr einzuladen. Wie Jesus am Kreuz betete: „Vater, vergib ihnen, denn sie wissen nicht, was sie tun“ (Lukas 23,34).
 > Wichtig: Diese Verse dürfen nie gegen Juden benutzt werden (Nostra aetate, 1965).
 > Vers 22–23 zitiert 5. Mose 18,15.19. Vers 25 zitiert 1. Mose 22,18.
 > Vers 25: „Ihr seid die Kinder … des Bundes“: Gottes Bund mit Israel gilt. Paulus sagt später: Gott nimmt seine Gaben und seine Berufung nicht zurück (Römer 11,29).

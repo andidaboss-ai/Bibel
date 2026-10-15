@@ -78,7 +78,7 @@ Denn der HERR hat sein Volk getröstet
 und erbarmt sich über seine Elenden.
 
 > **Was bedeutet das?**
-> Vers 8: „Zur Zeit der Gnade, am Tag des Heils“: Paulus zitiert diesen Vers und sagt: „Jetzt ist die Zeit der Gnade, jetzt ist der Tag des Heils“ (2. Korinther 6,2).
+> Vers 8: „Zur Zeit der Gnade habe ich dich erhört, und am Tag des Heils habe ich dir geholfen.“ Paulus zitiert diesen Vers und sagt: „Seht, jetzt ist die willkommene Zeit. Seht, jetzt ist der Tag der Rettung“ (2. Korinther 6,2).
 > Vers 9–10: Die Heimkehrer werden wie eine Herde sein, die von einem guten Hirten geführt wird, ohne Hunger, ohne Durst, zu frischen Quellen. Die Offenbarung greift Vers 10 auf (7,16–17).
 > Vers 12: Das „Land Sinim“ ist nicht sicher bekannt. Viele denken an Syene, das heutige Assuan im Süden Ägyptens. Dort lebte später eine jüdische Gemeinde.
 
@@ -118,7 +118,7 @@ Siehe, ich war allein übrig geblieben.
 Wo waren diese?‘“
 
 > **Was bedeutet das?**
-> Vers 14: Zion, also Jerusalem, wird wie eine Frau dargestellt, die klagt: „Gott hat mich verlassen und vergessen.“
+> Vers 14: Zion, also Jerusalem, wird wie eine Frau dargestellt, die klagt: „Der HERR hat mich verlassen, und der Herr hat mich vergessen.“
 > Vers 15: Gottes Antwort ist einer der zärtlichsten Verse der Bibel: Kann eine Mutter ihr Baby vergessen? Selbst wenn das passieren sollte: „Ich aber vergesse dich nicht!“ Gottes Liebe ist wie die Liebe einer Mutter, und noch treuer.
 > Vers 16: „Ich habe dich in meine Handflächen gezeichnet.“ Wie wenn man sich etwas Wichtiges auf die Hand schreibt, damit man es nie vergisst. Gott hat sein Volk immer vor Augen.
 > Vers 18–21: Die einsame, kinderlose Stadt wird plötzlich voller Kinder sein, so viele, dass der Platz nicht reicht. Zion staunt: Wo kommen die alle her?

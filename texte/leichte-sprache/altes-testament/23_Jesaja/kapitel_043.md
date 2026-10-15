@@ -69,7 +69,7 @@ Ich wirke, und wer kann es verhindern?“
 
 > **Was bedeutet das?**
 > Wieder eine Gerichtsverhandlung. Die Völker sollen Zeugen für ihre Götter bringen. Gott hat auch Zeugen: sein Volk Israel. Obwohl es „blind“ und „taub“ ist (Vers 8), kann es bezeugen, was Gott getan hat.
-> Vers 10–11: „Vor mir wurde kein Gott gebildet, und nach mir wird keiner sein. Außer mir gibt es keinen Retter.“ Hier wird ganz klar gesagt: Es gibt nur einen einzigen Gott.
+> Vers 10–11: „Vor mir wurde kein Gott gebildet, und nach mir wird keiner sein. … Außer mir gibt es keinen Retter.“ Hier wird ganz klar gesagt: Es gibt nur einen einzigen Gott.
 
 ---
 

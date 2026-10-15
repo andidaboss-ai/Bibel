@@ -6,11 +6,11 @@
 ## Bevor es losgeht: Wer war Sacharja?
 
 Sacharja lebte zur selben Zeit wie Haggai, ab dem Jahr 520 vor Christus, nach der Rückkehr aus dem Exil in Babylon. Beide ermutigten das Volk, den Tempel wieder aufzubauen (Esra 5,1; 6,14).
-Sacharja stammte wahrscheinlich aus einer Priesterfamilie (vgl. Nehemia 12,16). Sein Name bedeutet: „Der HERR hat sich erinnert.“
+Sacharja stammte wahrscheinlich aus einer Priesterfamilie (vgl. Nehemia 12,16). Sein Name bedeutet: Der HERR hat sich erinnert.
 Sacharja ist das längste Buch der zwölf kleinen Propheten. Es hat zwei Teile:
 Kapitel 1–8: Acht nächtliche Visionen mit Engeln, Pferden, Hörnern, einem Leuchter, einer fliegenden Schriftrolle und anderen rätselhaften Bildern. Ein Engel erklärt Sacharja, was sie bedeuten. Die Botschaft: Gott ist wieder bei seinem Volk. Jerusalem wird wieder aufgebaut.
 Kapitel 9–14: Worte über die Zukunft, über einen kommenden König, einen guten Hirten und den Tag, an dem Gott König über die ganze Erde sein wird. Viele Forscher meinen, dass dieser zweite Teil später entstanden ist.
-Kein anderes Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja: der König auf dem Esel (9,9), die dreißig Silberstücke (11,12–13), „Sie werden auf den sehen, den sie durchbohrt haben“ (12,10) und der geschlagene Hirte (13,7).
+Kein anderes Prophetenbuch wird in den Berichten über Jesu letzte Tage so oft zitiert wie Sacharja: der König auf dem Esel (9,9), die dreißig Silberstücke (11,12–13), „Sie werden auf mich sehen, den sie durchbohrt haben“ (12,10) und der geschlagene Hirte (13,7).
 Ein Hinweis: In deutschen Bibeln sind die Verse am Ende von Kapitel 1 (Vers 18–21) der Anfang von Kapitel 2 (dort 2,1–4). Das Buch hat 14 Kapitel.
 
 ---
@@ -44,7 +44,7 @@ so hat er an uns gehandelt.‘“
 
 > **Was bedeutet das?**
 > Vers 1: Das war etwa im Oktober/November 520 vor Christus, also zwischen Haggais zweiter und dritter Botschaft.
-> Vers 3: Der Kern: „Kehrt um zu mir, dann kehre ich mich zu euch um.“ Gott wartet darauf, dass sein Volk zu ihm zurückkommt. Und dann ist er sofort da. Ähnlich heißt es im Jakobusbrief: „Naht euch zu Gott, so naht er sich zu euch“ (Jakobus 4,8).
+> Vers 3: Der Kern: „Kehrt um zu mir … dann werde ich mich zu euch umkehren.“ Gott wartet darauf, dass sein Volk zu ihm zurückkommt. Und dann ist er sofort da. Ähnlich heißt es im Jakobusbrief: „Kommt Gott nahe, dann wird er euch nahe kommen“ (Jakobus 4,8).
 > Vers 4–6: Sacharja erinnert an die Geschichte: Die Väter haben nicht auf die Propheten gehört. Die Väter sind tot, und auch die Propheten sind gestorben. Aber Gottes Wort ist geblieben und hat sich erfüllt: Das Exil ist gekommen. Am Ende haben die Väter es eingesehen.
 > Die Botschaft: Lernt aus der Geschichte! Macht nicht dieselben Fehler.
 

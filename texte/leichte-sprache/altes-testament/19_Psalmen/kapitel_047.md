@@ -42,5 +42,5 @@ Er ist hoch erhaben!
 > **Was bedeutet das?**
 > Vers 5: „Gott ist hinaufgestiegen“: Wie ein König, der unter Jubel und Trompetenklang seinen Thron besteigt. Vielleicht wurde die Bundeslade in einer Prozession zum Tempel hinaufgetragen.
 > Christen lesen diesen Psalm am Fest Christi Himmelfahrt, weil Jesus „hinaufgestiegen“ ist zu Gott.
-> Vers 9 ist erstaunlich: Die Fürsten aller Völker versammeln sich als „Volk des Gottes Abrahams“. Gott hatte Abraham versprochen: „In dir sollen alle Völker gesegnet werden“ (1. Mose 12,3). Hier wird das Wirklichkeit.
+> Vers 9 ist erstaunlich: Die Fürsten aller Völker versammeln sich als „Volk des Gottes Abrahams“. Gott hatte Abraham versprochen: „Durch dich sollen alle Familien der Erde gesegnet werden“ (1. Mose 12,3). Hier wird das Wirklichkeit.
 > „Die Schilde der Erde“: die Mächtigen und Herrscher der Welt. Auch sie gehören Gott.

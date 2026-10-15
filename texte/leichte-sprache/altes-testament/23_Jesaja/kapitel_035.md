@@ -45,7 +45,7 @@ wird Gras mit Schilf und Binsen wachsen.
 
 > **Was bedeutet das?**
 > Wenn Gott kommt, wird alles heil: Blinde sehen, Taube hören, Lahme springen, Stumme singen.
-> Als Johannes der Täufer fragen lässt, ob Jesus der erwartete Retter ist, antwortet Jesus mit diesen Worten: „Blinde sehen, Lahme gehen, Taube hören“ (Matthäus 11,4–5).
+> Als Johannes der Täufer fragen lässt, ob Jesus der erwartete Retter ist, antwortet Jesus mit diesen Worten: „Blinde sehen, Lahme gehen … Taube hören“ (Matthäus 11,4–5).
 > Wichtig: Diese Verse sind eine Hoffnung auf Heilung. Sie bedeuten nicht, dass Menschen mit Behinderung weniger wert sind. Jeder Mensch ist von Gott geliebt, so wie er ist.
 
 ---

@@ -39,7 +39,7 @@ Ich habe sie nicht gesandt“, spricht der HERR.
 > **Was bedeutet das?**
 > Jeremia schreibt einen Brief an die Menschen, die 597 vor Christus nach Babylon verschleppt worden waren. Der Brief wird von Boten mitgenommen, die der König nach Babylon schickt.
 > Vers 5–6: Jeremias Rat ist sehr praktisch: Richtet euch ein! Baut Häuser, pflanzt Gärten, heiratet, bekommt Kinder. Das Exil wird lange dauern. Lebt nicht im Wartezustand, sondern lebt euer Leben.
-> Vers 7 ist einer der wichtigsten Verse bei Jeremia: „Sucht den Frieden der Stadt und betet für sie, denn in ihrem Frieden werdet ihr Frieden haben.“ Die Verbannten sollen für Babylon beten, für die Stadt ihrer Feinde! Das ist revolutionär. Bis heute ist dieser Vers ein Leitwort für Menschen, die in der Fremde leben, für Migranten und Geflüchtete, und für alle, die sich für das Gemeinwohl einsetzen. Das hebräische Wort für Frieden, „Schalom“, meint auch Wohlergehen.
+> Vers 7 ist einer der wichtigsten Verse bei Jeremia: „Sucht den Frieden der Stadt … und betet für sie zum HERRN, denn in ihrem Frieden werdet ihr Frieden haben.“ Die Verbannten sollen für Babylon beten, für die Stadt ihrer Feinde! Das ist revolutionär. Bis heute ist dieser Vers ein Leitwort für Menschen, die in der Fremde leben, für Migranten und Geflüchtete, und für alle, die sich für das Gemeinwohl einsetzen. Das hebräische Wort für Frieden, „Schalom“, meint auch Wohlergehen.
 > Vers 8–9: Auch in Babylon gibt es falsche Propheten, die sagen: Bald geht es nach Hause! Jeremia warnt: Glaubt ihnen nicht.
 
 ---
@@ -67,7 +67,7 @@ und aus allen Orten, wohin ich euch vertrieben habe“, spricht der HERR.
 von dem ich euch habe wegführen lassen.“
 
 > **Was bedeutet das?**
-> Vers 11 ist einer der beliebtesten Verse der ganzen Bibel: „Ich weiß, was ich für Gedanken über euch habe: Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben.“ Er hat vielen Menschen in schweren Zeiten Mut gemacht.
+> Vers 11 ist einer der beliebtesten Verse der ganzen Bibel: „Ich weiß, was ich für Gedanken über euch habe … Gedanken des Friedens und nicht des Unheils, um euch Hoffnung und Zukunft zu geben.“ Er hat vielen Menschen in schweren Zeiten Mut gemacht.
 > Er wurde zuerst zu Menschen gesagt, die alles verloren hatten und in der Fremde lebten. Gerade ihnen sagt Gott: Ich habe einen guten Plan für euch.
 > Vers 13: „Ihr werdet mich suchen und finden, wenn ihr mich von ganzem Herzen sucht.“ Gott ist auch in Babylon zu finden, auch ohne Tempel. Das war eine wichtige Erkenntnis: Man kann Gott überall anbeten.
 

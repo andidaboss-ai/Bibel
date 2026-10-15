@@ -116,7 +116,7 @@ und ging betrübt weg.
 Denn er hatte viel Besitz.
 
 > **Was bedeutet das?**
-> Jesus nennt Gebote aus den Zehn Geboten (2. Mose 20,12–16). „Du sollst niemanden betrügen“ steht nur bei Markus. Es erinnert an 5. Mose 24,14: Den Lohn eines Arbeiters soll man nicht zurückhalten.
+> Jesus nennt Gebote aus den Zehn Geboten (2. Mose 20,12–16). „Du sollst niemanden betrügen“ (10,19) steht nur bei Markus. Es erinnert an 5. Mose 24,14: Den Lohn eines Arbeiters soll man nicht zurückhalten.
 > Vers 21: Nur Markus erzählt: „Jesus sah ihn an und gewann ihn lieb.“ Jesus fordert ihn nicht aus Strenge, sondern aus Liebe.
 > Die Worte „und nimm das Kreuz auf dich“ fehlen in vielen alten Handschriften. Das WEB hat sie.
 > Der Mann ist ernsthaft und fromm. Aber sein Besitz hält ihn fest.

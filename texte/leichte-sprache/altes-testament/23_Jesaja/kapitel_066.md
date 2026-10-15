@@ -82,7 +82,7 @@ und er wird seinen Feinden zürnen.
 > Vers 7–9: Zion wird wie eine Mutter, die ganz plötzlich und ohne Schmerzen Kinder bekommt: ein ganzes Volk an einem Tag. Gott bringt zu Ende, was er angefangen hat.
 > Vers 10–12: Jerusalem ist wie eine Mutter, die ihre Kinder stillt, auf der Hüfte trägt und auf den Knien schaukelt.
 > Vers 13 ist einer der zärtlichsten Verse der Bibel: „Wie einen seine Mutter tröstet, so will ich euch trösten.“ Gott tröstet wie eine Mutter. Dieser Vers war die Jahreslosung für das Jahr 2016 in Deutschland.
-> Vers 14: Die Knochen „blühen auf wie junges Gras“: Neues Leben und neue Kraft für alle, die traurig waren.
+> Vers 14: „Eure Knochen werden aufblühen wie junges Gras“: Neues Leben und neue Kraft für alle, die traurig waren.
 
 ---
 
@@ -147,7 +147,7 @@ und sie werden ein Abscheu sein für alle Menschen.“
 > **Gerechtigkeit:** Jesaja kritisiert scharf, wenn Menschen fromm tun, aber Arme unterdrücken (Kapitel 1 und 58). „Lernt, Gutes zu tun! Sucht das Recht!“ (1,17).
 > **Der Friedensfürst:** „Denn ein Kind ist uns geboren“ (9,6, in manchen deutschen Bibeln 9,5) und der Spross aus dem Stamm Isais (Kapitel 11). Wolf und Lamm werden zusammen wohnen. Christen sehen hier Jesus angekündigt, im Judentum erwartet man den Messias oder bezieht es auf König Hiskia.
 > **Schwerter zu Pflugscharen:** Alle Völker kommen zum Berg Gottes und lernen nicht mehr Krieg (2,4).
-> **Tröstet mein Volk:** Nach dem Gericht kommt der Trost (Kapitel 40). „Fürchte dich nicht, ich habe dich erlöst“ (43,1). „Ich vergesse dich nicht“ (49,15).
+> **Tröstet mein Volk:** Nach dem Gericht kommt der Trost (Kapitel 40). „Fürchte dich nicht, denn ich habe dich erlöst“ (43,1). „Ich aber vergesse dich nicht!“ (49,15).
 > **Der Knecht Gottes:** Vier Lieder erzählen von einem Knecht, der still leidet und viele heil macht (42; 49; 50; 52–53). Juden sehen darin meist Israel, Christen vor allem Jesus.
 > **Für alle Völker:** Gottes Haus ist ein „Bethaus für alle Völker“ (56,7). Am Ende kommen alle Menschen, um Gott anzubeten (66,23).
 > **Alles wird neu:** Gott schafft einen neuen Himmel und eine neue Erde, ohne Weinen und ohne Gewalt (65,17–25). Und er tröstet wie eine Mutter (66,13).

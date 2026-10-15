@@ -55,4 +55,4 @@ Ganz gewiss gibt es einen Gott, der auf der Erde richtet.“
 > Vers 10 ist sehr schwer zu ertragen. Das Bild vom Waschen der Füße im Blut ist ein Bild aus der Sprache des Krieges im alten Orient. Es zeigt den Wunsch, dass das Unrecht endgültig besiegt wird.
 > Wichtig ist: Der Beter nimmt nicht selbst Rache. Er überlässt das Gericht Gott. Und das Ziel ist Vers 11: Alle sollen erkennen, dass es Gerechtigkeit gibt, dass Unrecht nicht das letzte Wort hat.
 > Für Menschen, die unter brutaler Ungerechtigkeit leiden, ist dieser Psalm ein Schrei nach Gerechtigkeit.
-> Aber: Dieser Psalm ist keine Erlaubnis, sich über das Leid oder den Tod anderer Menschen zu freuen oder Gewalt auszuüben. Die Bibel sagt auch: „Freu dich nicht über den Fall deines Feindes“ (Sprüche 24,17). Jesus lehrt: „Liebt eure Feinde und betet für die, die euch verfolgen“ (Matthäus 5,44).
+> Aber: Dieser Psalm ist keine Erlaubnis, sich über das Leid oder den Tod anderer Menschen zu freuen oder Gewalt auszuüben. Die Bibel sagt auch: „Freu dich nicht, wenn dein Feind fällt“ (Sprüche 24,17). Jesus lehrt: „Liebt eure Feinde … und betet für die, die euch misshandeln und verfolgen“ (Matthäus 5,44).

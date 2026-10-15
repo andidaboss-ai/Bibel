@@ -65,7 +65,7 @@ Ich werde die Ägypter unter die Völker zerstreuen
 und sie in die Länder versprengen.“
 
 > **Was bedeutet das?**
-> Vers 10: Das WEB schreibt „from the tower of Seveneh even to the border of Ethiopia“. Syene ist das heutige Assuan im Süden Ägyptens. „Kusch“ (im WEB „Ethiopia“) ist das Land südlich von Ägypten, das heutige Sudan.
+> Vers 10: Ägypten soll verwüstet werden „vom Turm von Syene bis an die Grenze von Kusch“. Syene (im WEB „Seveneh“) ist das heutige Assuan im Süden Ägyptens. Kusch (im WEB „Ethiopia“) ist das Land südlich von Ägypten, im heutigen Sudan.
 > Vers 11–12: „Vierzig Jahre“ ist in der Bibel oft eine runde Zahl für eine lange Zeit, etwa eine Generation (vgl. die 40 Jahre in der Wüste). Eine vollständige Verwüstung Ägyptens für genau 40 Jahre ist aus anderen Quellen nicht bekannt. Nebukadnezar griff Ägypten aber später tatsächlich an (um 568 vor Christus), und Ägypten verlor seine frühere Großmachtstellung.
 
 ---

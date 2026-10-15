@@ -22,7 +22,7 @@ Dann wird dein Vater, der ins Verborgene sieht, es dir öffentlich vergelten.
 > **Was bedeutet das?**
 > In Kapitel 6 spricht Jesus über drei wichtige Formen der Frömmigkeit im Judentum: Almosen geben (Vers 1–4), beten (Vers 5–15) und fasten (Vers 16–18). Jesus lehnt sie nicht ab. Er sagt nur: Tut sie für Gott, nicht um bewundert zu werden.
 > „Heuchler“ war ursprünglich das griechische Wort für Schauspieler. Gemeint sind Menschen, die ihre Frömmigkeit vorführen wie auf einer Bühne. Das gibt es in jeder Religion, auch unter Christen.
-> Vers 3: „Die linke Hand soll nicht wissen, was die rechte tut“ heißt: Mach kein großes Aufheben um deine guten Taten, nicht einmal vor dir selbst.
+> Vers 3: „Dann soll deine linke Hand nicht wissen, was deine rechte tut“ heißt: Mach kein großes Aufheben um deine guten Taten, nicht einmal vor dir selbst.
 
 ---
 
@@ -75,7 +75,7 @@ wird euer Vater eure Verfehlungen auch nicht vergeben.
 > Die ersten drei Bitten drehen sich um Gott: sein Name, sein Reich, sein Wille. Die nächsten Bitten um uns: Brot, Vergebung, Bewahrung.
 > Vers 11: „Das tägliche Brot“ meint alles, was wir für heute zum Leben brauchen.
 > Vers 12: „Schulden“ ist ein Bild für Schuld vor Gott und Menschen. Wer selbst Vergebung bekommt, soll auch anderen vergeben.
-> Vers 13: „Führe uns nicht in Versuchung“: Gemeint ist: Bewahre uns davor, in Situationen zu geraten, in denen wir scheitern. Gott verführt niemanden zum Bösen (Jakobus 1,13). Manche Kirchen beten deshalb auch „Lass uns nicht in Versuchung geraten“.
+> Vers 13: „Führe uns nicht in Versuchung“: Gemeint ist: Bewahre uns davor, in Situationen zu geraten, in denen wir scheitern. Gott verführt niemanden zum Bösen (Jakobus 1,13). Manche Kirchen beten diese Bitte deshalb mit anderen Worten: Gott soll uns davor bewahren, in Versuchung zu geraten.
 > Der Schluss „Denn dein ist das Reich …“ steht nicht in den ältesten Handschriften des Matthäusevangeliums. Er wurde früh im Gottesdienst angefügt. Das WEB hat ihn, darum steht er hier. In katholischen Gottesdiensten wird er etwas anders gebetet.
 > Vers 14–15: Vergebung ist sehr wichtig. Aber Vergeben heißt nicht, Unrecht gutzuheißen oder den Kontakt zu Menschen halten zu müssen, die einem schaden. Vergeben kann Zeit brauchen. Opfer von Gewalt dürfen sich Zeit lassen und Hilfe holen.
 
@@ -169,7 +169,7 @@ Jeder Tag hat genug an seiner eigenen Plage.
 > Jesus spricht zu Menschen, die oft wirklich arm waren und nicht wussten, ob sie morgen genug zu essen haben. Er sagt nicht, dass ihre Sorgen unwichtig sind. Er lädt sie ein, Gott zu vertrauen.
 > Vers 26 und 28: Die Vögel und die Blumen: Gott versorgt sogar sie. Wie viel mehr wird er sich um euch kümmern!
 > Vers 27: Sorgen verlängert das Leben nicht. Es raubt nur Kraft.
-> Vers 33: Ein Kernsatz: „Sucht zuerst das Reich Gottes.“ Wenn Gott an erster Stelle steht, ordnet sich vieles andere.
+> Vers 33: Ein Kernsatz: „Sucht aber zuerst das Reich Gottes …“ Wenn Gott an erster Stelle steht, ordnet sich vieles andere.
 > Vers 34: Lebe heute. Jeder Tag hat seine eigenen Herausforderungen.
 > Wichtig: Diese Worte sind eine Einladung zum Vertrauen, kein Vorwurf. Wer unter Ängsten oder einer Angststörung leidet, ist nicht „kleingläubig“. Ängste sind oft eine Krankheit, und es ist gut und richtig, sich ärztliche oder therapeutische Hilfe zu holen. Die Telefonseelsorge ist erreichbar unter 0800 111 0 111 oder 0800 111 0 222.
 > Für Christen gehört zum Vertrauen auf Gott auch, anderen in Not zu helfen. So wird Gottes Fürsorge oft durch Menschen sichtbar.

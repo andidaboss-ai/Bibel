@@ -122,7 +122,7 @@ diesem Volk und den Heiden.“
 
 > **Was bedeutet das?**
 > Vers 10–11: Paulus erzählt ehrlich und beschämt, wie sehr er die Christen verfolgt hat.
-> Vers 14: „Gegen den Stachel ausschlagen“ war ein Sprichwort. Ein Ochse, der gegen den spitzen Treiberstock tritt, verletzt sich selbst. Gemeint ist: Es hat keinen Sinn, gegen Gott zu kämpfen.
+> Vers 14: Die Stimme sagt: „Es ist schwer für dich, gegen den Stachel auszuschlagen.“ Das war ein Sprichwort. Ein Ochse, der gegen den spitzen Treiberstock tritt, verletzt sich selbst. Gemeint ist: Es hat keinen Sinn, gegen Gott zu kämpfen.
 > Vers 17–18: Paulus soll Menschen „die Augen öffnen“. Er selbst war blind und wurde sehend (Kapitel 9).
 > Vers 21: „Die Juden“ meint die Menschen, die ihn im Tempel ergriffen haben (21,27). Nicht das ganze Volk.
 > Vers 22–23: Paulus sagt: Was ich verkünde, steht schon bei Mose und den Propheten. Er sieht sich ganz in der Tradition Israels.
