@@ -56,7 +56,7 @@ was seven years and six months.
 > **What does this mean?**
 > Now there are two kings: David in the south over Judah, and Ishbosheth in the north over the other tribes. The land is divided.
 > Ishbosheth is a son of Saul, but the man who really holds the power is Abner, the army commander.
-> The name “Ishbosheth” means “man of shame.” That was surely not his real name. In 1 Chronicles 8:33 he is called “Eshbaal.” That means “man of Baal” or “man of the lord.” The word “Baal” first simply meant “lord.” Later the scribes did not want to write the name of the foreign god Baal, and they put in “bosheth,” “shame,” instead.
+> The name “Ishbosheth” means “man of shame.” That was surely not his real name. In 1 Chronicles 8:33 he is called “Eshbaal.” That means: man of Baal, or man of the lord. The word “Baal” first simply meant “lord.” Later the scribes did not want to write the name of the foreign god Baal, and they put in “bosheth,” “shame,” instead.
 > Mahanaim was east of the Jordan. Probably the west was still too much under the control of the Philistines after the defeat at Gilboa.
 > The numbers are not easy to fit together: Ishbosheth rules for two years, David in Hebron for seven and a half years. Maybe it took a while until Ishbosheth really became king, or until David got all Israel after his death.
 
