@@ -21,7 +21,10 @@ HIER = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(WURZEL, "werkzeuge", "ebook"))
 import ebook_bauen as eb  # noqa: E402
 
-ZIEL = os.path.join(WURZEL, "ausgabe", "druck")
+EN = eb.EN
+T = eb.T
+bn, tn = eb.bn, eb.tn
+ZIEL = os.path.join(WURZEL, "ausgabe", "english", "print") if EN else os.path.join(WURZEL, "ausgabe", "druck")
 SCHRIFTEN = os.path.join(WURZEL, "werkzeuge", "ebook", "schriften")
 JAHR = eb.JAHR
 
@@ -39,7 +42,7 @@ HC_FALZ = 0.197
 HC_PAPPE = 0.189
 
 # Die Bände für den Druck. Grenzen so gewählt, dass jeder Band unter 550 Seiten bleibt.
-BAENDE = json.load(open(os.path.join(HIER, "baende.json"), encoding="utf-8"))
+BAENDE = json.load(open(os.path.join(HIER, "baende_en.json" if EN else "baende.json"), encoding="utf-8"))
 
 esc = eb.esc
 ziffern = eb.ziffern
@@ -50,7 +53,7 @@ def lade_buecher():
 
 
 def kapitel_md(b, k):
-    return open(os.path.join(WURZEL, "texte", "leichte-sprache", b["testament"], b["ordner"], f"kapitel_{k:03d}.md"),
+    return open(os.path.join(eb.QUELLE, b["testament"], b["ordner"], f"kapitel_{k:03d}.md"),
                 encoding="utf-8").read()
 
 
@@ -68,20 +71,31 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
 
     teile = []
     # Titelei
-    teile.append(f"""<section class="titelei schmutztitel"><p class="st-titel">Die Bibel</p><p class="st-unter">in Leichter Sprache</p></section>
+    teile.append(f"""<section class="titelei schmutztitel"><p class="st-titel">{T["titel_h1"]}</p><p class="st-unter">{T["titel_unter"]}</p></section>
 <section class="titelei leerseite"></section>
 <section class="titelei titelseite">
 <p class="ts-oben">{esc(band["oben"])}</p>
-<h1 class="ts-titel">Die Bibel</h1>
-<p class="ts-unter">in Leichter Sprache</p>
+<h1 class="ts-titel">{T["titel_h1"]}</h1>
+<p class="ts-unter">{T["titel_unter"]}</p>
 <div class="zier gross"><span></span></div>
 <p class="ts-band">{esc(band["titel"])}</p>
 <p class="ts-zusatz">{esc(band["zeile"])}</p>
-<p class="ts-zusatz2">Mit Erklärungen zu jedem Abschnitt</p>
-{f'<p class="ts-hg">Herausgegeben von {esc(eb.HERAUSGEBER)}</p>' if eb.HERAUSGEBER else ""}
+<p class="ts-zusatz2">{T["zusatz"]}</p>
+{f'<p class="ts-hg">{T["hg"]} {esc(eb.HERAUSGEBER)}</p>' if eb.HERAUSGEBER else ""}
 </section>""")
-    hg = f"<p>Herausgegeben von {esc(eb.HERAUSGEBER)}.</p>" if eb.HERAUSGEBER else ""
-    teile.append(f"""<section class="titelei impressum">
+    hg = f"<p>{T['hg']} {esc(eb.HERAUSGEBER)}.</p>" if eb.HERAUSGEBER else ""
+    if EN:
+        teile.append(f"""<section class="titelei impressum">
+<p><strong>The Bible in Plain Language</strong><br/>{esc(band["titel"])}: {esc(band["zeile"])}</p>
+{hg}<p>English plain-language edition, {JAHR}.</p>
+<p><strong>Source:</strong> This edition was newly written from the World English Bible (WEB). The World English Bible is in the public domain. No text was taken from any copyrighted Bible translation.</p>
+<p>“World English Bible” is a trademark of eBible.org. The name is used here only to identify the source. This book is not an edition of the World English Bible and is not published by eBible.org.</p>
+<p><strong>Plain language:</strong> This edition follows the principles of plain language. It has not been tested by a reader panel and carries no certification.</p>
+<p><strong>Fonts:</strong> Cinzel, Literata and Inter inside, Anton on the cover, all under the SIL Open Font License 1.1.</p>
+<p><strong>The volumes of this edition:</strong><br/>{"<br/>".join(esc(x["titel"] + ": " + x["zeile"]) for x in BAENDE)}</p>
+</section>""")
+    else:
+        teile.append(f"""<section class="titelei impressum">
 <p><strong>Die Bibel in Leichter Sprache</strong><br/>{esc(band["titel"])}: {esc(band["zeile"])}</p>
 {hg}<p>Deutsche Übertragung in Leichte Sprache, {JAHR}.</p>
 <p><strong>Grundlage:</strong> Diese Übertragung wurde neu aus der englischen World English Bible (WEB) erstellt. Die World English Bible ist gemeinfrei (Public Domain). Es wurde kein Text aus einer urheberrechtlich geschützten deutschen Bibelübersetzung übernommen.</p>
@@ -95,16 +109,16 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     vw = vw.replace('class="vorwort"', 'class="titelei vorwort"').replace("<h2", '<p class="marke">@@VORWORT@@</p><h2', 1)
     teile.append(vw)
     # Inhaltsverzeichnis
-    z = ['<section class="titelei inhalt"><p class="marke">@@INHALT@@</p><h2 class="seitentitel">Inhalt</h2><div class="zier"><span></span></div>']
+    z = [f'<section class="titelei inhalt"><p class="marke">@@INHALT@@</p><h2 class="seitentitel">{T["inhalt"]}</h2><div class="zier"><span></span></div>']
     letzter = None
     for b in buecher:
         if b["testament"] != letzter:
             letzter = b["testament"]
-            z.append(f'<p class="inh-testament">{"Das Alte Testament" if letzter == "altes-testament" else "Das Neue Testament"}</p>')
+            z.append(f'<p class="inh-testament">{tn(letzter, "lang")}</p>')
         s = seiten_der_buecher.get(f'BUCH{b["nr"]:02d}', "") if seiten_der_buecher else "000"
-        z.append(f'<p class="inh-zeile"><span class="inh-name">{ziffern(esc(b["name"]))}</span><span class="inh-seite">{s}</span></p>')
+        z.append(f'<p class="inh-zeile"><span class="inh-name">{ziffern(esc(bn(b)))}</span><span class="inh-seite">{s}</span></p>')
     s = seiten_der_buecher.get("HILFE", "") if seiten_der_buecher else "000"
-    z.append(f'<p class="inh-zeile inh-extra"><span class="inh-name">Hier gibt es Hilfe</span><span class="inh-seite">{s}</span></p>')
+    z.append(f'<p class="inh-zeile inh-extra"><span class="inh-name">{T["hilfe"]}</span><span class="inh-seite">{s}</span></p>')
     z.append("</section>")
     teile.append("\n".join(z))
 
@@ -112,16 +126,18 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     for b in buecher:
         if b["testament"] != letzter:
             letzter = b["testament"]
-            name = "Das Alte Testament" if letzter == "altes-testament" else "Das Neue Testament"
+            name = tn(letzter, "lang")
             anzahl = sum(1 for x in alle if x["testament"] == letzter)
             kurz = "TEILAT" if letzter == "altes-testament" else "TEILNT"
-            teile.append(f"""<section class="teil"><p class="marke">@@{kurz}@@</p><p class="kicker">Teil</p><h1 class="teil-titel">{name}</h1>
-<div class="zier gross"><span></span></div><p class="teil-unter">{anzahl} Bücher</p></section>""")
-        einheit = "Psalmen" if b["code"] == "PSA" else "Kapitel"
-        tname = "Altes Testament" if b["testament"] == "altes-testament" else "Neues Testament"
+            teile.append(f"""<section class="teil"><p class="marke">@@{kurz}@@</p><p class="kicker">{T["teil"]}</p><h1 class="teil-titel">{name}</h1>
+<div class="zier gross"><span></span></div><p class="teil-unter">{anzahl} {T["buecher"]}</p></section>""")
+        if EN:
+            einheit = "psalms" if b["code"] == "PSA" else ("chapters" if b["kapitel"] > 1 else "chapter")
+        else:
+            einheit = "Psalmen" if b["code"] == "PSA" else "Kapitel"
         teile.append(f"""<section class="buchseite"><p class="marke">@@BUCH{b["nr"]:02d}@@</p>
-<p class="kicker">{tname} · Buch {b["nr"]} von 66</p>
-<h1 class="buch-titel">{ziffern(esc(b["name"]))}</h1>
+<p class="kicker">{tn(b["testament"])} · {T["buch_von"].format(n=b["nr"])}</p>
+<h1 class="buch-titel">{ziffern(esc(bn(b)))}</h1>
 <div class="zier gross"><span></span></div>
 <p class="buch-anzahl">{b["kapitel"]} {einheit}</p></section>""")
         kap = []
@@ -136,7 +152,7 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     teile.append(hilfe)
 
     doc = f"""<!doctype html>
-<html lang="de"><head><meta charset="utf-8"/><title>Die Bibel in Leichter Sprache – {esc(band["titel"])}</title>
+<html lang="{T['lang']}"><head><meta charset="utf-8"/><title>{T["titel_h1"]} {T["titel_unter"]} – {esc(band["titel"])}</title>
 <style>
 {font_css()}
 {css}
@@ -215,9 +231,9 @@ def kopfzeilen(pdf, marken, leer, buecher, n):
             erste = hier[0] if hier and kap[hier[0]][1] < oben or not vorher else max(vorher)
             letzte = max(hier) if hier else erste
             if b["code"] == "PSA":
-                name = "Psalm" if erste == letzte else "Psalmen"
+                name = "Psalm" if erste == letzte else ("Psalms" if EN else "Psalmen")
             else:
-                name = b["name"]
+                name = bn(b)
             zeilen[p] = (name, f"{erste}" if erste == letzte else f"{erste}–{letzte}")
     seiten = []
     for p in range(1, n + 1):

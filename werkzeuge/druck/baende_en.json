@@ -1,0 +1,54 @@
+[
+ {
+  "datei": "bible-plain-language-print-volume-1",
+  "titel": "Volume 1",
+  "oben": "Old Testament",
+  "zeile": "Genesis to 1 Samuel",
+  "von": 1,
+  "bis": 9,
+  "glut": "255, 170, 70",
+  "grund": [
+   "#0c0805",
+   "#22160c"
+  ]
+ },
+ {
+  "datei": "bible-plain-language-print-volume-2",
+  "titel": "Volume 2",
+  "oben": "Old Testament",
+  "zeile": "2 Samuel to Psalms",
+  "von": 10,
+  "bis": 19,
+  "glut": "110, 214, 160",
+  "grund": [
+   "#040a07",
+   "#0b2016"
+  ]
+ },
+ {
+  "datei": "bible-plain-language-print-volume-3",
+  "titel": "Volume 3",
+  "oben": "Old Testament",
+  "zeile": "Proverbs to Malachi",
+  "von": 20,
+  "bis": 39,
+  "glut": "120, 200, 230",
+  "grund": [
+   "#05090d",
+   "#0d1d26"
+  ]
+ },
+ {
+  "datei": "bible-plain-language-print-volume-4",
+  "titel": "Volume 4",
+  "oben": "New Testament",
+  "zeile": "Matthew to Revelation",
+  "von": 40,
+  "bis": 66,
+  "glut": "255, 120, 110",
+  "grund": [
+   "#0d0507",
+   "#260c12"
+  ]
+ }
+]
