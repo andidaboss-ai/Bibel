@@ -129,7 +129,7 @@ by the signs that went with it.
 Amen.
 
 > **What does this mean?**
-> Verse 19: Jesus is taken up to God. Christians celebrate this on Ascension Day, 40 days after Easter (compare Acts 1:9–11). “At the right hand of God” is a picture for the place of honor. It reminds us of Psalm 110:1.
+> Verse 19: Jesus is taken up to God. “At the right hand of God” is a picture for the place of honor. It reminds us of Psalm 110:1. Christians celebrate this on Ascension Day, 40 days after Easter (compare Acts 1:9–11).
 > Verse 20: The disciples are not alone. The Lord works with them.
 > After verse 8 some manuscripts have a short ending. It reports in two sentences: The women told Peter and the others everything. After that, Jesus sent out through the disciples the message of eternal salvation into the whole world, from east to west. The WEB does not have this short ending in the text.
 

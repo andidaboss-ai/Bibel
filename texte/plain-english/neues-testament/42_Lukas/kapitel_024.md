@@ -229,7 +229,7 @@ until you are clothed with power from on high.”
 > Verse 40 is missing in one old manuscript. Verse 42: The words about the honeycomb are missing in most old manuscripts. The WEB has them.
 > Verse 44: The law of Moses, the prophets and the psalms: These are the three parts of the Holy Scriptures of Israel. Jesus reads the whole Bible of Israel as a witness to himself.
 > Verse 47: The message is to go to all nations, but to begin in Jerusalem. The Book of Acts, the second part of Luke’s work, tells about this.
-> Verse 49: What the Father promised is the Holy Spirit. He comes at Pentecost (Acts 2). “Clothed with power from on high” means: filled with God’s strength.
+> Verse 49: “Clothed with power from on high” means: filled with God’s strength. What the Father promised is the Holy Spirit. He comes at Pentecost (Acts 2).
 
 ---
 
