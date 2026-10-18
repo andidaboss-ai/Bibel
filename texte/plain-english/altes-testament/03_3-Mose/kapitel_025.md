@@ -249,7 +249,7 @@ The man shall not rule over him harshly while you watch.
 then he shall become free in the Year of Jubilee, he and his children with him.
 [55] For the children of Israel are my servants.
 They are my servants whom I brought out of the land of Egypt.
-I am the LORD your God.’”
+I am the LORD your God.
 
 > **What does this mean?**
 > A foreigner could also become rich in Israel. If a poor Israelite sold himself to him, his family was supposed to buy him free. In the Year of Jubilee at the latest, he became free.
