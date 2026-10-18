@@ -8,7 +8,7 @@ import { fileURLToPath } from 'url';
 import path from 'path';
 import fs from 'fs';
 import { execFileSync } from 'child_process';
-import { vorderseite, bildFuer, FARBEN } from '../ebook/cover_kunst.mjs';
+import { vorderseite, bildFuer, FARBEN, EN, TXT } from '../ebook/cover_kunst.mjs';
 
 const require = createRequire(import.meta.url);
 let chromium;
@@ -17,7 +17,7 @@ catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwrig
 
 const hier = path.dirname(fileURLToPath(import.meta.url));
 const schrift = (f) => 'file://' + path.join(hier, '..', 'ebook', 'schriften', f);
-const alleBaende = JSON.parse(fs.readFileSync(path.join(hier, 'baende.json'), 'utf8'));
+const alleBaende = JSON.parse(fs.readFileSync(path.join(hier, process.env.BIBEL_SPRACHE === 'en' ? 'baende_en.json' : 'baende.json'), 'utf8'));
 
 const [, , bandJson, aus, b, h, r, rx, ry, fz, seiten] = process.argv;
 const band = JSON.parse(bandJson);
@@ -36,7 +36,7 @@ const v = vorderseite({ ...fa, bild: bildFuer(name), band: band.titel, zeile: `$
 const liste = alleBaende.map((x) =>
   `<li class="${x.datei === band.datei ? 'aktiv' : ''}"><span>${x.titel}</span>${x.oben} · ${x.zeile}</li>`).join('');
 
-const html = `<!doctype html><html lang="de"><head><meta charset="utf-8"><style>
+const html = `<!doctype html><html lang="${EN ? 'en' : 'de'}"><head><meta charset="utf-8"><style>
 @font-face{font-family:Cinzel;font-weight:700;src:url('${schrift('Cinzel-Bold.ttf')}')}
 @font-face{font-family:Cinzel;font-weight:400;src:url('${schrift('Cinzel-Regular.ttf')}')}
 @font-face{font-family:Inter;font-weight:600;src:url('${schrift('Inter-SemiBold.ttf')}')}
@@ -76,21 +76,24 @@ li.aktiv span{color:#d9b86c}
 <div class="flaeche rueck">
   <div class="h-in">
     <p class="h-kicker">${band.oben} · ${band.titel}</p>
-    <p class="h-titel">DIE BIBEL.<br>IN LEICHTER SPRACHE.</p>
+    <p class="h-titel">${EN ? 'THE BIBLE.<br>IN PLAIN LANGUAGE.' : 'DIE BIBEL.<br>IN LEICHTER SPRACHE.'}</p>
     <div class="h-linie"></div>
     <div class="h-text">
-      <p>Kurze Sätze. Klare Worte.</p>
+${EN ? `      <p>Short sentences. Clear words.</p>
+      <p>One thought on every line.</p>
+      <p>No verse is missing, no name and no number.</p>
+      <p class="stark">For everyone who really wants to understand the Bible.</p>` : `      <p>Kurze Sätze. Klare Worte.</p>
       <p>Jede Zeile ein Gedanke.</p>
       <p>Kein Vers fehlt, kein Name und keine Zahl.</p>
-      <p class="stark">Für alle, die die Bibel wirklich verstehen wollen.</p>
+      <p class="stark">Für alle, die die Bibel wirklich verstehen wollen.</p>`}
     </div>
-    <div class="h-kasten"><p class="k">Was bedeutet das?</p>
-      <p>Nach jedem Abschnitt erklärt ein Kasten, was du gelesen hast und was es für heute bedeuten kann.</p></div>
+    <div class="h-kasten"><p class="k">${EN ? 'What does this mean?' : 'Was bedeutet das?'}</p>
+      <p>${EN ? 'After every section, a box explains what you have read and what it can mean for us today.' : 'Nach jedem Abschnitt erklärt ein Kasten, was du gelesen hast und was es für heute bedeuten kann.'}</p></div>
     <ul>${liste}</ul>
   </div>
 </div>
 <div class="flaeche ruecken"><div class="r-text">
-  <span class="r-titel">DIE BIBEL</span><span class="r-titel">${band.titel.toUpperCase()}</span>
+  <span class="r-titel">${TXT.titel}</span><span class="r-titel">${band.titel.toUpperCase()}</span>
 </div></div>
 <div class="flaeche vorn">${v.html}</div>
 <canvas class="staub" width="${Math.round(W * DPI / IN)}" height="${Math.round(H * DPI / IN)}"></canvas>

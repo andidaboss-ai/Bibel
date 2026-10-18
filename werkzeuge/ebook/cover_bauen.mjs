@@ -5,7 +5,7 @@ import { createRequire } from 'module';
 import { fileURLToPath } from 'url';
 import path from 'path';
 import fs from 'fs';
-import { vorderseite, bildFuer } from './cover_kunst.mjs';
+import { vorderseite, bildFuer, EN } from './cover_kunst.mjs';
 
 const require = createRequire(import.meta.url);
 let chromium;
@@ -14,21 +14,29 @@ catch { ({ chromium } = createRequire('/opt/node22/lib/node_modules/')('playwrig
 
 const hier = path.dirname(fileURLToPath(import.meta.url));
 const wurzel = path.resolve(hier, '..', '..');
-const ziel = path.join(wurzel, 'ausgabe', 'ebook');
+const ziel = EN ? path.join(wurzel, 'ausgabe', 'english', 'ebook') : path.join(wurzel, 'ausgabe', 'ebook');
 fs.mkdirSync(ziel, { recursive: true });
 const schrift = (f) => 'file://' + path.join(hier, 'schriften', f);
 
-const ausgaben = [
+const ausgabenDe = [
   { datei: 'bibel-leichte-sprache-gesamt', band: 'Gesamtausgabe', zeile: 'Alle 66 Bücher · 1.189 Kapitel', name: 'gesamt' },
   { datei: 'bibel-leichte-sprache-band-1', band: 'Band 1', zeile: 'Altes Testament · 1. Mose bis 1. Samuel', name: 'band-1' },
   { datei: 'bibel-leichte-sprache-band-2', band: 'Band 2', zeile: 'Altes Testament · 2. Samuel bis Psalmen', name: 'band-2' },
   { datei: 'bibel-leichte-sprache-band-3', band: 'Band 3', zeile: 'Altes Testament · Sprüche bis Maleachi', name: 'band-3' },
   { datei: 'bibel-leichte-sprache-band-4', band: 'Band 4', zeile: 'Neues Testament · Matthäus bis Offenbarung', name: 'band-4' },
 ];
+const ausgabenEn = [
+  { datei: 'bible-plain-language-complete', band: 'Complete Edition', zeile: 'All 66 books · 1,189 chapters', name: 'gesamt' },
+  { datei: 'bible-plain-language-volume-1', band: 'Volume 1', zeile: 'Old Testament · Genesis to 1 Samuel', name: 'band-1' },
+  { datei: 'bible-plain-language-volume-2', band: 'Volume 2', zeile: 'Old Testament · 2 Samuel to Psalms', name: 'band-2' },
+  { datei: 'bible-plain-language-volume-3', band: 'Volume 3', zeile: 'Old Testament · Proverbs to Malachi', name: 'band-3' },
+  { datei: 'bible-plain-language-volume-4', band: 'Volume 4', zeile: 'New Testament · Matthew to Revelation', name: 'band-4' },
+];
+const ausgaben = EN ? ausgabenEn : ausgabenDe;
 
 const seite = (a) => {
   const v = vorderseite({ ...a, bild: bildFuer(a.name) }, { W: 1600, H: 2560, rect: { x: 0, y: 0, w: 1600, h: 2560 }, schrift });
-  return `<!doctype html><html lang="de"><head><meta charset="utf-8"><style>
+  return `<!doctype html><html lang="${EN ? 'en' : 'de'}"><head><meta charset="utf-8"><style>
 @font-face{font-family:Inter;font-weight:600;src:url('${schrift('Inter-SemiBold.ttf')}')}
 @font-face{font-family:Inter;font-weight:800;src:url('${schrift('Inter-ExtraBold.ttf')}')}
 *{margin:0;padding:0;box-sizing:border-box}

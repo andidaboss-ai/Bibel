@@ -6,6 +6,10 @@ import { fileURLToPath } from 'url';
 import { execFileSync } from 'child_process';
 
 const hier = path.dirname(fileURLToPath(import.meta.url));
+export const EN = process.env.BIBEL_SPRACHE === 'en';
+export const TXT = EN
+  ? { titel: 'THE BIBLE', unter: 'IN PLAIN LANGUAGE', motto: 'AI-EXPLAINED. SIMPLE. CLEAR.' }
+  : { titel: 'DIE BIBEL', unter: 'IN LEICHTER SPRACHE', motto: 'KI-ERKLÄRT. EINFACH. KLAR.' };
 
 // Erzeugt (falls nötig) die gefärbten Titelbilder und gibt den Pfad für eine Ausgabe zurück.
 let vorbereitet = false;
@@ -41,9 +45,9 @@ export function vorderseite(a, { W, H, rect, schrift }) {
   text-shadow:0 0 ${w * 0.01}px #000,0 0 ${w * 0.02}px #000}`;
   const html = `<div class="vs"><img class="kunst" src="file://${a.bild}">
 <div class="schatten"></div>
-<div class="t titel"><span>DIE BIBEL</span></div>
-<div class="t unter">IN LEICHTER SPRACHE</div>
-<div class="t unten"><div class="pille">${a.band}</div><div class="zeile">${a.zeile}</div><div class="motto">KI-ERKLÄRT. EINFACH. KLAR.</div></div></div>`;
+<div class="t titel"><span>${TXT.titel}</span></div>
+<div class="t unter">${TXT.unter}</div>
+<div class="t unten"><div class="pille">${a.band}</div><div class="zeile">${a.zeile}</div><div class="motto">${TXT.motto}</div></div></div>`;
   const script = `<script>
 Promise.all([document.fonts.ready, document.querySelector('.vs .kunst').decode()]).then(() => {
   const t = document.querySelector('.vs .titel');
