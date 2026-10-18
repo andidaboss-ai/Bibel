@@ -35,9 +35,8 @@ The young man poured the oil on his head and said to him,
 so that I may take revenge on Jezebel for the blood of my servants the prophets
 and for the blood of all the LORD’s servants.
 [8] For the whole house of Ahab will perish.
-I will cut off from Ahab every male,
-everyone who urinates against a wall,
-both slave and free in Israel.
+I will cut off from Ahab everyone who urinates against a wall,
+both the one who is shut up and the one who is left at large in Israel.
 [9] I will make Ahab’s house like the house of Jeroboam the son of Nebat,
 and like the house of Baasha the son of Ahijah.
 [10] The dogs will eat Jezebel on the piece of ground at Jezreel,
