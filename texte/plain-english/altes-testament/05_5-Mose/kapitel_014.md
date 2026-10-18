@@ -89,7 +89,7 @@ You shall not boil a young goat in its mother’s milk.
 
 > **What does this mean?**
 > When an animal has died by itself, the blood has not run out of it properly. That is why Israelites may not eat it. This rule does not apply to foreigners. They may have it, and so nothing is wasted.
-> “Do not boil a young goat in its mother’s milk”: This commandment is in the Bible three times (also Exodus 23:19 and 34:26). It shows respect for life: The milk that was meant to feed the young animal should not be used for its death. From this, Jews made the rule not to eat meat and milk products together.
+> “You shall not boil a young goat in its mother’s milk”: This commandment is in the Bible three times (also Exodus 23:19 and 34:26). It shows respect for life: The milk that was meant to feed the young animal should not be used for its death. From this, Jews made the rule not to eat meat and milk products together.
 
 ---
 
