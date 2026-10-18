@@ -52,7 +52,7 @@ I will bring them up out of that land to a good and wide land,
 to a land flowing with milk and honey:
 to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite.
 
-[9] Now the cry of the children of Israel has come to me.
+[9] “Now the cry of the children of Israel has come to me.
 I have also seen how the Egyptians oppress them.
 [10] So come now.
 I will send you to Pharaoh.
@@ -127,20 +127,20 @@ I will bring you up out of the misery of Egypt
 to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite,
 to a land flowing with milk and honey.”’
 
-[18] They will listen to you.
+[18] “They will listen to you.
 Then you and the elders of Israel will go to the king of Egypt.
 You will tell him,
 ‘The LORD, the God of the Hebrews, has met with us.
 Now please let us go on a journey of three days into the wilderness.
 There we want to offer sacrifices to the LORD, our God.’
 
-[19] But I know that the king of Egypt will not let you go,
+[19] “But I know that the king of Egypt will not let you go,
 not even when a strong hand forces him.
 [20] So I will reach out my hand.
 I will strike Egypt with all my wonders that I will do there.
 After that he will let you go.
 
-[21] I will make the Egyptians kind toward this people.
+[21] “I will make the Egyptians kind toward this people.
 When you go, you will not go with empty hands.
 [22] Every woman will ask her neighbor, and the woman who stays in her house,
 for jewelry of silver, jewelry of gold, and clothing.

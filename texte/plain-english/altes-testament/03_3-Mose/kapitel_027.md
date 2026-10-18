@@ -112,7 +112,47 @@ Everything that is devoted forever is most holy to the LORD.
 [29] “‘No person who is devoted to destruction may be bought free.
 He must be put to death.
 
+> **What does this mean?**
+> You cannot give God something that already belongs to him. The firstborn belongs to God anyway (Exodus 13:2).
+> “Devoted” is a special word. In Hebrew it is “cherem.” It means: to give something to God completely and forever, so that people may no longer use it.
+> Verse 29 is very hard. It probably means: If a court has sentenced a person to death, he cannot buy himself free with money. Or it is about the “devoting to destruction” in war, which the book of Joshua tells about later. Jews and Christians have thought about this a lot. You can read more about it in the explanations in Deuteronomy and in the book of Joshua.
+> In no way does this passage mean that a person may “promise” another person to God and then kill him. The Bible strictly forbids human sacrifice (Leviticus 18:21; 20:2).
+
+---
+
+## The tithe (Verses 30–34)
+
 [30] “‘All the tithe of the land belongs to the LORD,
 whether from the seed of the land or from the fruit of the trees.
 A tithe is a tenth part.
 It is holy to the LORD.
+[31] If someone wants to buy back some of his tithe,
+he shall add one fifth to it.
+[32] All the tithe of the cattle and of the sheep and goats shall be holy to the LORD:
+every tenth animal that walks under the shepherd’s staff.
+[33] He shall not check whether it is good or bad.
+And he shall not swap it.
+If he does swap it anyway, then both shall be holy:
+the animal and the one it was swapped for.
+It may not be bought back.’”
+
+[34] These are the commandments that the LORD gave Moses for the children of Israel on Mount Sinai.
+
+> **What does this mean?**
+> The “tithe” means: One tenth of everything you harvest and of all the animals that are born belongs to God. The Levites and priests lived from it, and the poor too (Deuteronomy 14:28–29).
+> When counting the animals, the shepherd let them walk under his staff one by one. Every tenth animal was marked. Nobody was allowed to secretly pick out the best animals.
+> Many churches and congregations still encourage people today to give part of their income to God and to others.
+
+---
+
+## Looking back: What have we read in Leviticus?
+
+> **What does this mean?**
+> Leviticus answers a big question: How can a holy God live among people who make mistakes?
+> 1. Through sacrifices that bring forgiveness and peace with God (Chapters 1–7).
+> 2. Through priests who stand between God and the people (Chapters 8–10).
+> 3. Through rules for clean and unclean in everyday life (Chapters 11–15).
+> 4. Through the great Day of Atonement, when all guilt is carried away (Chapter 16).
+> 5. Through a holy life every day: in the family, at work, with the poor and with strangers (Chapters 17–27).
+> The most important sentence of the book is: You shall be holy, for I, the LORD your God, am holy (Leviticus 19:2). And in the middle of the book is the commandment that Jesus called one of the two most important: You shall love your neighbor as yourself (Leviticus 19:18).
+> Many things in this book are strange to us. But its message is still true today: God wants to be close to us. And he shows us a way to live close to him.

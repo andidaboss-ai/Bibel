@@ -208,8 +208,8 @@ The flocks are my flocks.
 Everything you see is mine!
 But what can I do today to these daughters of mine, or to the children they have given birth to?
 [44] Come, let us make a covenant, you and I.
-A covenant is a binding agreement.
 Let it be a witness between me and you.”
+A covenant is a binding agreement.
 
 [45] Then Jacob took a stone and set it up as a pillar.
 [46] Jacob said to his relatives,
