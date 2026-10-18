@@ -229,7 +229,7 @@ So I will carry you away beyond Babylon.’
 > Verse 35: Stephen shows a pattern: At first Moses was rejected, but God sent him as a deliverer. For Stephen this points to Jesus.
 > Verse 37 quotes Deuteronomy 18:15.
 > Verses 40–41 recall the golden calf (Exodus 32).
-> Verses 42–43 quote Amos 5:25–27 in the Greek translation. Moloch and Rephan were names of foreign gods. “The army of the sky” (verse 42) means the stars, which people worshiped as gods.
+> Verse 42: “The army of the sky” means the stars, which people worshiped as gods. Verses 42–43 quote Amos 5:25–27 in the Greek translation. Moloch and Rephan were names of foreign gods.
 > Important: The prophets of Israel themselves called their people to turn back to God. Stephen speaks in this tradition, as part of the people.
 
 ---

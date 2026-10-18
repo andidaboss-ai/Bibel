@@ -53,7 +53,7 @@ to make me angry.
 And you have thrown me behind your back.
 [10] So I will bring disaster on the house of Jeroboam.
 I will cut off from Jeroboam everyone who urinates on a wall,
-whether slave or free in Israel.
+the one who is shut up and the one who is left at large in Israel.
 I will sweep away the house of Jeroboam completely,
 as a man sweeps away dung until it is all gone.
 [11] Whoever belongs to Jeroboam and dies in the city, the dogs will eat.

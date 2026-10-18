@@ -143,6 +143,6 @@ but overcome evil with good.
 > Verse 15: Feeling with others is a form of love: rejoicing with them and grieving with them.
 > Verse 18: “As much as it is up to you”: You can’t always force peace. But you should do what you can.
 > Verse 19 quotes Deuteronomy 32:35. Revenge is not our business. But we may bring injustice before God in lament and report it to the police or to a court. That is not revenge.
-> Verse 20 quotes Proverbs 25:21–22. “Coals of fire on his head” is an old picture. Many scholars understand it like this: Kindness makes the enemy ashamed and can lead him to change his mind.
+> Verse 20: “Coals of fire on his head” is an old picture. Many scholars understand it like this: Kindness makes the enemy ashamed and can lead him to change his mind. The verse quotes Proverbs 25:21–22.
 > Verse 21: Violence and hatred are not overcome with more violence and hatred, but with good.
 > Important: These verses don’t mean that you simply have to put up with violence. Whoever experiences violence may protect themselves and get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247. In an emergency, call the police: 911 in the US, 999 in the UK.

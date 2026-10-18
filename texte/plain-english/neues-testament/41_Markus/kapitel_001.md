@@ -46,7 +46,7 @@ But he will baptize you in the Holy Spirit.”
 > **What does this mean?**
 > Mark begins without a birth story. He starts right away with Jesus as an adult. The first sentence is like a title over the whole book.
 > The words “the Son of God” in verse 1 are missing in some old manuscripts. The WEB has them.
-> Verses 2–3: The quotation combines Malachi 3:1 and Isaiah 40:3. Many old manuscripts say “in Isaiah the prophet” instead of “in the prophets.” Here the WEB follows other manuscripts.
+> Verses 2–3: The quotation combines Malachi 3:1 and Isaiah 40:3. Many old manuscripts say “Isaiah the prophet” instead of “the prophets.” Here the WEB follows other manuscripts.
 > Repentance: turning around, changing your life and turning to God again. Baptism in the Jordan was a sign of this.
 > His clothing reminds us of the prophet Elijah (2 Kings 1:8). According to the Law of Moses, locusts were allowed as food (Leviticus 11:22). Locusts: large grasshoppers.
 > Verse 7: Taking off someone’s sandals was the work of slaves. John says: I am not even worthy to serve the one who is coming in this way.

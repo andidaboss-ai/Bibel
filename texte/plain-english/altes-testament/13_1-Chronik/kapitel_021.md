@@ -6,7 +6,7 @@
 ## The census (Verses 1–7)
 
 [1] Satan stood up against Israel
-and moved David to count Israel.
+and moved David to take a census of Israel.
 [2] David said to Joab and to the princes of the people,
 “Go, count Israel from Beersheba to Dan,
 and bring me word, so that I may know how many there are.”

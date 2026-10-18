@@ -126,7 +126,7 @@ until you have paid the last penny.
 
 > **What does this mean?**
 > Now six examples follow: “You have heard … But I tell you.” Jesus shows what the commandments mean at their deepest.
-> Verses 21–22: The commandment “You shall not murder” (Exodus 20:13) is one of the Ten Commandments. It already begins with anger and with hurtful words. “Raca” is an Aramaic insult, something like “empty head.” Words can hurt people deeply.
+> Verses 21–22: The commandment “You shall not murder” is one of the Ten Commandments (Exodus 20:13). It already begins with anger and with hurtful words. “Raca” is an Aramaic insult, something like “empty head.” Words can hurt people deeply.
 > “Without a cause” is not in all the old manuscripts. The WEB has it; many other translations leave it out.
 > “Gehenna” was a valley near Jerusalem. Long ago, children were sacrificed there, and later, garbage was burned there (compare Jeremiah 7:31). It became a picture for God’s judgment.
 > Verses 23–24: For Jesus, making peace is more important than worship! If you live in conflict with someone, you should first seek peace.
@@ -214,7 +214,7 @@ go two miles with him.
 And do not turn away from the one who wants to borrow from you.
 
 > **What does this mean?**
-> Verse 38: “An eye for an eye” (Exodus 21:24) was first a rule for courts, to limit revenge: The punishment must not be greater than the harm.
+> Verse 38: “An eye for an eye” was first a rule for courts (Exodus 21:24), to limit revenge: The punishment must not be greater than the harm.
 > Verses 39–41: Jesus goes further: Give up revenge completely. Do not answer violence with violence, but break the cycle.
 > A blow on the right cheek, given with the right hand, was probably a blow with the back of the hand. That was meant to shame someone. Some Bible scholars think: Whoever turns the other cheek then shows: I am still a human being with dignity. Verse 41: Roman soldiers were allowed to force local people to carry their baggage for one mile.
 > Very important: These words do not mean that you have to put up with violence in the family, in a relationship or anywhere else. They must never be used to silence victims. It is right to protect yourself, to get help and to report wrongdoing. Help: In an emergency, call your local emergency number (911 in the US). For violence at home – US: 1-800-799-7233. In the US: Childhelp 1-800-422-4453, RAINN 1-800-656-4673. Elsewhere, find help at findahelpline.com.

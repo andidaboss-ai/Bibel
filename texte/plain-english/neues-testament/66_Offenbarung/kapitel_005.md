@@ -36,7 +36,7 @@ He can open the book and its seven seals.”
 > **What does this mean?**
 > Verse 1: At that time the “book” was a scroll. The seals were made of wax. Only when all seven seals are broken can you read the whole scroll. The scroll probably contains God’s plan for the world.
 > Verse 4: John weeps because it looks as if God’s plan can’t go on. That is a very human reaction.
-> Verse 5: “The Lion who is of the tribe of Judah” recalls Jacob’s blessing for Judah (Genesis 49:9). “The Root of David” recalls Isaiah 11:1–10. Both are pictures for the Messiah from the Jewish people. Jesus came from the tribe of Judah and from the family of David.
+> Verse 5: “The Lion who is of the tribe of Judah” and “the Root of David” recall Jacob’s blessing for Judah (Genesis 49:9) and Isaiah 11:1–10. Both are pictures for the Messiah from the Jewish people. Jesus came from the tribe of Judah and from the family of David.
 
 ---
 

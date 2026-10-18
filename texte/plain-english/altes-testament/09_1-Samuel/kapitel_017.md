@@ -260,7 +260,7 @@ But he put his weapons in his tent.
 > This story has become famous all over the world. To this day people say “David against Goliath” when someone small goes up against an opponent who seems far too strong.
 > Here the Bible tells about a war with a lot of violence. The message is not: Violence is good. The message is: Whoever trusts God does not need to be afraid of enemies who seem far too strong.
 > At that time Jerusalem still belonged to the Jebusites. David conquers the city only later (2 Samuel 5). Maybe he brought the head there later, or the storyteller is already naming the later capital.
-> The Hebrew text of 2 Samuel 21:19 says that a man named Elhanan killed Goliath of Gath. The WEB has “Goliath the Gittite’s brother” there. 1 Chronicles 20:5 says that Elhanan killed a brother of Goliath. Bible teachers explain these passages in different ways.
+> The Hebrew text of 2 Samuel 21:19 says that a man named Elhanan killed Goliath of Gath. The WEB has “the brother of Goliath the Gittite” there. 1 Chronicles 20:5 says that Elhanan killed a brother of Goliath. Bible teachers explain these passages in different ways.
 
 ---
 

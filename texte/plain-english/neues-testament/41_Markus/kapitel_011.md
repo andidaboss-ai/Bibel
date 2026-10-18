@@ -108,7 +108,7 @@ he went out of the city.
 > In the outer court of the temple, animals for sacrifice were sold and money was changed. This was needed for the running of the temple. This court was also the only place where non-Jews were allowed to pray.
 > Money changers: people who exchanged foreign coins for the coins used at the temple.
 > Verse 16: Only Mark tells us: Jesus lets no one carry anything through the temple. Some people used the temple court as a shortcut.
-> Verse 17 combines Isaiah 56:7 and Jeremiah 7:11. Only Mark quotes the words “for all the nations.” The temple is to be a place of prayer for all people.
+> Verse 17: Only Mark quotes the words “for all the nations.” The verse combines Isaiah 56:7 and Jeremiah 7:11. The temple is to be a place of prayer for all people.
 > Like the prophets before him, Jesus criticizes that God’s house has become a place of business.
 > Important: Jesus does not hurt anyone. This story is no excuse for violence.
 > Verse 18: The leaders want to get rid of Jesus. The people, on the other hand, are amazed at him. It is about certain leaders, not about the Jewish people.

@@ -108,7 +108,7 @@ because you have sold yourself to do what is evil in the LORD’s sight.
 [21] I will bring disaster on you
 and sweep you away completely,
 and I will cut off from Ahab everyone who urinates against a wall,
-whether slave or free in Israel.
+both the one who is shut up and the one who is left at large in Israel.
 [22] I will make your house like the house of Jeroboam the son of Nebat
 and like the house of Baasha the son of Ahijah,
 because you have made me angry

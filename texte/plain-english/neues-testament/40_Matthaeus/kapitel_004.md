@@ -74,7 +74,7 @@ light has dawned.”
 > **What does this mean?**
 > Verse 12: John the Baptizer was thrown into prison by Herod Antipas, the ruler of Galilee (Matthew 14:3–4).
 > Verse 13: Jesus moves to Capernaum, a town on the Sea of Galilee (also called Lake Gennesaret). He will often be there.
-> Verses 15–16: Matthew quotes Isaiah 9:1–2 (in the Hebrew Bible and in many German Bibles Isaiah 8:23–9:1). The region was called “Galilee of the Gentiles” because many non-Jews lived there. It is right there, on the edge, that Jesus begins. He is the “great light” for people in the dark.
+> Verses 15–16: The region was called “Galilee of the Gentiles” because many non-Jews lived there. Matthew quotes Isaiah 9:1–2 (in the Hebrew Bible and in many German Bibles Isaiah 8:23–9:1). It is right there, on the edge, that Jesus begins. He is the “great light” for people in the dark.
 > Gentiles: people who are not Jews.
 > Verse 17: Jesus begins with the same message as John: “Repent! For the Kingdom of Heaven is near.”
 
