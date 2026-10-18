@@ -92,7 +92,7 @@ because they had chariots of iron.
 And he drove out the three sons of Anak from there.
 
 > **What does this mean?**
-> “Brother-in-law”: This is what the WEB says. The Hebrew word usually means “father-in-law.” The Kenites were the family of Moses’ father-in-law Jethro (Exodus 18). They did not belong to Israel, but they lived together with Israel. The “city of palm trees” is Jericho.
+> “Brother-in-law”: This is what the WEB says. The Hebrew word usually means “father-in-law.” The Kenites were the family of Moses’ father-in-law Jethro (Exodus 18). They did not belong to Israel, but they lived together with Israel. The city of palm trees (verse 16) is Jericho.
 > “Hormah” means “devoted to destruction.”
 > Verse 18 says that Judah took the Philistine cities of Gaza, Ashkelon, and Ekron. But later these cities belong to the Philistines again. The Greek translation of the Bible even says the opposite here: Judah did not take them.
 > Verse 19 is remarkable: “The LORD was with Judah,” and still they could not conquer the valley because of the iron chariots. The narrator does not ask why. But the question remains: Was it really the strength of the enemies, or did Judah lack trust?

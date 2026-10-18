@@ -65,7 +65,7 @@ alle ihre Zeltpflöcke und alle Zeltpflöcke des Vorhofs sollen aus Bronze sein.
 
 > **Was bedeutet das?**
 > In Ellen: Der Vorhof ist 100 Ellen lang und 50 Ellen breit, die Behänge sind 5 Ellen hoch. Das Tor ist 20 Ellen breit, die Seitenteile daneben je 15 Ellen.
-> Der Vorhof ist ein großer, eingezäunter Platz um das Heiligtum herum, etwa so groß wie ein halbes Fußballfeld.
+> Der Vorhof ist ein großer, eingezäunter Platz um das Heiligtum herum, etwa 50 Meter lang und 25 Meter breit. Das ist etwa ein Sechstel von einem Fußballfeld.
 > Die weißen Leinenbehänge waren über 2 Meter hoch. Von außen konnte man nicht hineinsehen. Mitten im Lager war so ein abgegrenzter, heiliger Bereich.
 > Es gibt nur einen einzigen Eingang, im Osten. Er ist besonders bunt und schön.
 

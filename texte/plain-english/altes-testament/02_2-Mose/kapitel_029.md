@@ -220,4 +220,4 @@ I am the LORD their God.
 > **What does this mean?**
 > These verses are the goal of everything: “I will live among the children of Israel. And I will be their God.”
 > God did not only free Israel from Egypt so that it would be free. He freed it so that he could live with it. Freedom leads to friendship with God.
-> In the New Testament it says about Jesus that the Word became flesh and lived among us (John 1:14). Flesh here means: a human being. In Greek, the word for “lived” really means: “lived in a tent.” And at the very end of the Bible it says that God’s home is with people, and that he will live with them (Revelation 21:3). There, too, the Greek uses the word for tent.
+> In the New Testament it says about Jesus that the Word became flesh and lived among us (John 1:14). Flesh here means: a human being. In Greek, the word for “lived” really means: to live in a tent. And at the very end of the Bible it says that God’s home is with people, and that he will live with them (Revelation 21:3). There, too, the Greek uses the word for tent.
