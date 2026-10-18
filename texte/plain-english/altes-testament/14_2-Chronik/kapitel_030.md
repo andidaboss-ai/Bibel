@@ -1,0 +1,151 @@
+# 2 Chronicles – Chapter 30
+### The great Passover
+
+---
+
+## An invitation to all Israel (Verses 1–5)
+
+[1] Hezekiah sent word to all Israel and Judah.
+He also wrote letters to Ephraim and Manasseh,
+that they should come to the LORD’s house in Jerusalem,
+to keep the Passover to the LORD, the God of Israel.
+[2] For the king had talked it over with his princes and all the assembly in Jerusalem,
+and they had decided to keep the Passover in the second month.
+[3] For they could not keep it at the usual time,
+because not enough priests had made themselves holy,
+and the people had not gathered in Jerusalem.
+[4] The plan seemed right to the king and to all the assembly.
+[5] So they decided to announce throughout all Israel,
+from Beersheba to Dan,
+that people should come to Jerusalem to keep the Passover to the LORD, the God of Israel.
+For they had not kept it in great numbers in the way it is written.
+
+> **What does this mean?**
+> The Passover recalls the freeing from Egypt. Normally it is celebrated in the first month. But the law allows the Passover to be held in the second month if someone was unclean or far away in the first month (Numbers 9:6–13).
+> What is special: Hezekiah also invites the northern kingdom, “Ephraim and Manasseh”. The northern kingdom had just been conquered by the Assyrians (722 before Christ). Many had been carried away. Hezekiah invites those who were left.
+> “From Beersheba to Dan” means: from the far south to the far north. The whole people, as in the time of David and Solomon.
+
+---
+
+## The king’s letter (Verses 6–9)
+
+[6] So the messengers went with the letters from the king and his princes
+throughout all Israel and Judah,
+as the king had commanded.
+They said,
+“You children of Israel,
+turn back to the LORD, the God of Abraham, Isaac, and Israel,
+so that he may turn back to those of you who are left,
+who have escaped out of the hand of the kings of Assyria.
+[7] Don’t be like your fathers and like your brothers,
+who were unfaithful to the LORD, the God of their fathers,
+so that he let them be destroyed, as you see.
+[8] Now don’t be stiff-necked as your fathers were.
+Yield yourselves to the LORD,
+and come into his holy place, which he has made holy forever.
+Serve the LORD your God,
+so that his fierce anger may turn away from you.
+[9] For if you turn back to the LORD,
+your brothers and your children will find mercy with those who led them away as prisoners,
+and they will come back into this land.
+For the LORD your God is gracious and merciful.
+He will not turn his face away from you if you return to him.”
+
+> **What does this mean?**
+> The letter is an invitation to turn back. The Hebrew word “shuv” (to turn back) appears several times: turn back to God, then God will turn to you, and your prisoners will come back.
+> “Stiff-necked” means stubborn, like an animal that makes its neck stiff and will not be led.
+> “Yield yourselves to the LORD”: in Hebrew it says literally “Give the LORD your hand”, as a sign of devotion and trust.
+> Verse 9 is a great promise: God is gracious and merciful (compare Exodus 34:6). He does not turn away from anyone who turns back to him.
+
+---
+
+## Mockery and humility (Verses 10–12)
+
+[10] So the messengers went from city to city
+through the country of Ephraim and Manasseh, as far as Zebulun.
+But people laughed at them and mocked them.
+[11] But some men of Asher, Manasseh, and Zebulun humbled themselves
+and came to Jerusalem.
+[12] In Judah, too, the hand of God gave them one heart,
+to do what the king and the princes commanded by the LORD’s word.
+
+> **What does this mean?**
+> Many people mock the invitation. It is still like that today: not everyone accepts God’s invitation. Jesus tells a similar parable about the great banquet (Luke 14:16–24).
+> But some come. They “humbled themselves”. You have to overcome your pride in order to come.
+> In Judah, God makes the people of one mind. The people agree.
+
+---
+
+## The feast begins (Verses 13–20)
+
+[13] Many people gathered in Jerusalem
+to keep the feast of unleavened bread in the second month,
+a very great assembly.
+[14] They got up and took away the altars that were in Jerusalem.
+They took away all the altars for incense
+and threw them into the brook Kidron.
+[15] Then they killed the Passover lambs
+on the fourteenth day of the second month.
+The priests and the Levites were ashamed.
+They made themselves holy
+and brought burnt offerings into the LORD’s house.
+[16] They stood in their places in their order,
+according to the law of Moses the man of God.
+The priests sprinkled the blood that they received from the hand of the Levites.
+[17] For there were many in the assembly who had not made themselves holy.
+So the Levites were in charge of killing the Passover lambs
+for everyone who was not clean,
+to make them holy to the LORD.
+[18] For a great crowd of the people,
+many of Ephraim, Manasseh, Issachar, and Zebulun,
+had not made themselves clean.
+Yet they ate the Passover in a way that was not as it is written.
+For Hezekiah had prayed for them:
+“May the good LORD forgive everyone
+[19] who sets his heart to seek God,
+the LORD, the God of his fathers,
+even if he is not clean according to the cleansing rules of the holy place.”
+[20] The LORD listened to Hezekiah
+and healed the people.
+
+> **What does this mean?**
+> The altars that Ahaz had built everywhere in Jerusalem (Chapter 28:24) are removed.
+> The priests and Levites “were ashamed”: the people were more eager than they were. That spurred them on.
+> Verses 18–20 are among the most important passages in Chronicles. Many people from the north had not been made clean according to the rules. Actually they were not allowed to eat the Passover. But Hezekiah prays for them: God, forgive everyone who seeks you with his heart, even if he does not keep all the rules.
+> And God listens to him. The heart is more important to God than the outward form. Jesus says something similar: God wants mercy (Matthew 9:13; 12:7).
+> “He healed the people”: maybe people feared illness as a result of being unclean. God gives healing instead of punishment.
+
+---
+
+## Joy that lasts two weeks (Verses 21–27)
+
+[21] The children of Israel who were in Jerusalem
+kept the feast of unleavened bread for seven days with great gladness.
+The Levites and the priests praised the LORD day by day,
+singing to the LORD with loud instruments.
+[22] Hezekiah spoke encouraging words to all the Levites
+who had good understanding in the service of the LORD.
+So they ate throughout the feast for the seven days.
+They offered peace offerings
+and gave thanks to the LORD, the God of their fathers.
+[23] The whole assembly decided to keep another seven days,
+and they kept another seven days with gladness.
+[24] For Hezekiah king of Judah gave the assembly 1,000 bulls and 7,000 sheep for offerings.
+And the princes gave the assembly 1,000 bulls and 10,000 sheep.
+And a great number of priests made themselves holy.
+[25] All the assembly of Judah rejoiced,
+with the priests and the Levites,
+and all the assembly that came out of Israel,
+and the foreigners who came out of the land of Israel and who lived in Judah.
+[26] So there was great joy in Jerusalem.
+For since the time of Solomon the son of David king of Israel
+there had been nothing like this in Jerusalem.
+[27] Then the Levitical priests got up and blessed the people.
+Their voice was heard,
+and their prayer came up to his holy dwelling place, to heaven.
+
+> **What does this mean?**
+> The joy is so great that the feast is simply made longer, by another week. That was already the case at the dedication of Solomon’s temple (Chapter 7:8–9).
+> Everyone celebrates together: Judah and Israel, priests and people, and also the foreigners. God’s feast is open to all who come.
+> “Since the time of Solomon”: for the first time since the kingdom was divided, the whole people celebrates together again.
+> The chapter ends with the blessing and with the certainty: the prayer has arrived in heaven. God has heard.
