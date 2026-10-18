@@ -107,7 +107,6 @@ He has turned me back.
 He has made me empty and ruined,
 and I am weak all day long.
 [14] “My sins are tied together like a yoke by his hand.
-A yoke is a wooden bar that is put on the neck of animals that pull a load.
 They are woven together.
 They have come up on my neck.
 He has made my strength fail.
