@@ -83,7 +83,7 @@ If it is not he, then who is it?
 > He even accuses God of mocking the suffering of the innocent.
 > “He covers the faces of its judges”: The judges on earth are blind to justice.
 > “If it is not he, then who is it?” Job believes that everything comes from God. So God must also be responsible for injustice.
-> These words are very bitter. But the Bible does not cross them out. It shows how a person can think and speak in the deepest suffering. At the end, God will say that Job “spoke rightly about him,” unlike his friends (Job 42:7). God prefers honest lament to pious lies.
+> These words are very bitter. But the Bible does not cross them out. It shows how a person can think and speak in the deepest suffering. At the end, God will say that Job spoke rightly about him, unlike his friends (Job 42:7). God prefers honest lament to pious lies.
 
 ---
 
