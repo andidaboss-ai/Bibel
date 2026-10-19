@@ -68,6 +68,9 @@ def font_css():
 def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     buecher = [b for b in alle if band["von"] <= b["nr"] <= band["bis"]]
     css = open(os.path.join(HIER, "druck.css"), encoding="utf-8").read()
+    if EN:
+        # Englischer Text ist länger: etwas kleinerer Satz und Silbentrennung, damit jeder Band unter 550 Seiten bleibt
+        css += "\nbody { font-size: 9pt; line-height: 1.23; hyphens: auto; }\n"
 
     teile = []
     # Titelei
@@ -242,7 +245,7 @@ def kopfzeilen(pdf, marken, leer, buecher, n):
             name, kap = zeilen[p]
             inhalt = f'<div class="kopf {"links" if p % 2 == 0 else "rechts"}"><span>{esc(name)}</span><span class="k">{kap}</span></div>'
         seiten.append(f'<section class="seite">{inhalt}</section>')
-    doc = f"""<!doctype html><html lang="de"><head><meta charset="utf-8"/><style>
+    doc = f"""<!doctype html><html lang="{T['lang']}"><head><meta charset="utf-8"/><style>
 {font_css()}
 @page {{ size: {BREITE}in {HOEHE}in; margin: 0; }}
 html, body {{ margin: 0; }}

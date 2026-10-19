@@ -47,12 +47,12 @@ people who worship idols,
 adulterers,
 male prostitutes,
 homosexuals,
-An adulterer is someone who is unfaithful in marriage.
 [10] thieves,
 greedy people,
 drunkards,
 people who speak evil of others,
 or people who take things from others by force.
+An adulterer is someone who is unfaithful in marriage.
 [11] Some of you were like that.
 But you were washed.
 You were made holy.

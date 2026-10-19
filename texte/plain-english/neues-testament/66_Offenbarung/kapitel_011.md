@@ -8,7 +8,7 @@
 [1] I was given a reed like a measuring stick.
 Someone said,
 “Get up and measure God’s temple and the altar.
-And count the people who worship there.
+And measure the people who worship there.
 [2] But leave out the courtyard outside the temple.
 Don’t measure it,
 because it has been given to the nations.
@@ -16,7 +16,7 @@ They will trample the holy city for 42 months.
 
 > **What does this mean?**
 > Verse 1: Measuring here means: God knows and protects what belongs to him. This recalls Ezekiel 40–42 and Zechariah 2, where the temple and Jerusalem are measured.
-> Verse 2: “Forty-two months” are three and a half years. This period of time comes from the book of Daniel (Daniel 7:25 and 12:7). It is a picture for a limited time of distress. It comes up several times in the Revelation: as 42 months, as 1,260 days, or as “a time, times, and half a time.”
+> Verse 2: “42 months” are three and a half years. This period of time comes from the book of Daniel (Daniel 7:25 and 12:7). It is a picture for a limited time of distress. It comes up several times in the Revelation: as 42 months, as 1,260 days, or as “a time, times, and half a time.”
 > Many understand the temple here as a picture for the church of God: It is oppressed, but kept safe at its very heart.
 
 ---

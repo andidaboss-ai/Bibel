@@ -8,7 +8,6 @@
 [1] Then all the tribes of Israel came to David at Hebron.
 They said,
 “We are your bone and your flesh.
-That means: we are your own family.
 [2] In the past, Saul was king over us.
 But even then, you were the one who led Israel out to battle and back home again.
 And the LORD said to you,
@@ -108,7 +107,7 @@ I will surely hand the Philistines over to you.”
 There he defeated the Philistines.
 He said,
 “The LORD has broken through my enemies in front of me,
-like water that breaks through a dam.”
+like a flood of water breaking through.”
 That is why he named that place Baal Perazim.
 [21] The Philistines left their idols there.
 David and his men carried them away.

@@ -31,11 +31,11 @@ they began to offer burnt offerings to the LORD.
 But the foundation of the LORD’s temple had not yet been laid.
 
 > **What does this mean?**
-> The seventh month (September/October) is the month of the great feasts: New Year, the Day of Atonement and the feast of booths.
+> The seventh month (September/October) is the month of the great feasts: New Year, the Day of Atonement and the Feast of Booths.
 > The first thing those who returned build is not a house for themselves, but an altar for God. Before the temple stands, worship already begins.
 > They are afraid of the neighboring peoples. But they build anyway. The altar and the offerings are a sign for them: God is with us.
 > Jeshua (also called Joshua) was the high priest, a grandson of the last high priest before the destruction (1 Chronicles 6:14–15).
-> The feast of booths recalls the journey through the wilderness. For those who returned, who had a long journey behind them themselves, this was especially meaningful.
+> The Feast of Booths recalls the journey through the wilderness. For those who returned, who had a long journey behind them themselves, this was especially meaningful.
 
 ---
 

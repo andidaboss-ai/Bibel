@@ -5,47 +5,35 @@
 
 ## Jesus and his brothers (Verses 1–13)
 
-[1] After this Jesus traveled around in Galilee.
-He didn’t want to travel around in Judea,
-because the Jews wanted to kill him.
-[2] The feast of the Jews was near,
-the Feast of Booths.
+[1] After this, Jesus traveled around in Galilee.
+He did not want to travel in Judea,
+because the Jews there were trying to kill him.
+[2] It was almost time for the feast of the Jews called the Feast of Booths.
 [3] So his brothers said to him,
-“Leave here
-and go into Judea,
-so that your disciples also may see the works
-which you do.
-[4] For no one does anything in secret
-while he wants to be known openly.
-If you do these things,
-show yourself to the world.”
-[5] For even his brothers didn’t believe in him.
-[6] Jesus said to them,
-“My time has not yet come.
-But your time is always ready.
+“Leave this place and go to Judea.
+Then your disciples there can also see the works you are doing.
+[4] No one does things in secret if he wants to be known in public.
+If you do these things, show yourself to the world.”
+[5] Even his brothers didn’t believe in him.
+[6] So Jesus said to them,
+“My time has not come yet.
+But for you, any time is right.
 [7] The world can’t hate you.
 But it hates me,
-because I testify about it
-that its works are evil.
+because I say openly that the things it does are evil.
 [8] You go up to the feast.
 I am not yet going up to this feast,
-because my time is not yet fulfilled.”
-[9] Having said these things to them,
-he stayed in Galilee.
-[10] But when his brothers had gone up to the feast,
-then he also went up,
-not publicly,
-but as it were in secret.
-[11] The Jews were looking for him at the feast
-and said,
-“Where is he?”
-[12] There was much whispering among the crowds about him.
-Some said,
-“He is a good man.”
-Others said,
-“Not so, he leads the crowd astray.”
-[13] Yet no one spoke openly about him
-for fear of the Jews.
+because my time has not fully come yet.”
+[9] After he said this to them, he stayed in Galilee.
+[10] But after his brothers had gone up to the feast, Jesus went up too.
+He did not go openly.
+He went almost in secret.
+[11] At the feast the Jews were looking for him.
+They asked, “Where is he?”
+[12] Many people in the crowds were whispering about him.
+Some said, “He is a good man.”
+Others said, “No, he leads the people the wrong way.”
+[13] But no one spoke openly about him for fear of the Jews.
 
 > **What does this mean?**
 > The Feast of Booths (in Hebrew “Sukkot”) is a great Jewish autumn feast. For a week people live in huts made of branches. This recalls Israel’s journey through the wilderness (Leviticus 23:33–43). It is also a harvest thanksgiving feast. Many pilgrims came to Jerusalem.
@@ -58,140 +46,103 @@ for fear of the Jews.
 
 ## Jesus teaches in the temple (Verses 14–36)
 
-[14] When the feast was already half over,
-Jesus went up into the temple
-and taught.
-[15] The Jews were amazed
-and said,
-“How does this man know the Scriptures,
-having never been educated?”
-[16] Jesus answered them,
-“My teaching is not mine,
-but his who sent me.
-[17] If anyone wants
-to do God’s will,
-he will know
-whether the teaching is from God
-or whether I am speaking from myself.
-[18] He who speaks from himself
-seeks his own glory.
-But he who seeks the glory of him
-who sent him
-is true,
-and no unrighteousness is in him.
+[14] When the feast was half over, Jesus went up to the temple and began to teach.
+[15] The Jews were amazed.
+They said, “How does this man know so much?
+He has never studied.”
+[16] So Jesus answered them,
+“My teaching is not my own.
+It comes from the one who sent me.
+[17] Anyone who wants to do God’s will
+will know whether my teaching comes from God,
+or whether I am speaking on my own.
+[18] Whoever speaks on his own is looking for honor for himself.
+But someone may look for honor for the one who sent him.
+That person is true.
+There is nothing wrong in him.
 [19] Didn’t Moses give you the law?
-And yet none of you keeps the law.
-Why do you want to kill me?”
+Yet none of you keeps the law.
+Why are you trying to kill me?”
 [20] The crowd answered,
 “You have a demon!
-Who wants to kill you?”
+Who is trying to kill you?”
 [21] Jesus answered them,
-“I did one work,
-and you are all amazed because of it.
-[22] Moses has given you circumcision
-(not that it is from Moses,
-but from the fathers),
-and you circumcise a boy even on the Sabbath.
-[23] If a boy receives circumcision on the Sabbath,
-so that the law of Moses may not be broken,
-why are you angry with me
-because I made a man completely healthy on the Sabbath?
-[24] Don’t judge by appearance,
-but judge with righteous judgment.”
-[25] Then some of the people of Jerusalem said,
-“Isn’t this the one
-they want to kill?
-[26] He speaks openly,
-and they say nothing to him.
-Can it be that the rulers really know
-that this is truly the Christ?
-[27] But we know
-where this man comes from.
-When the Christ comes,
-no one will know
-where he comes from.”
-[28] Then Jesus cried out
-as he taught in the temple,
-“You know me,
-and you know where I am from.
-But I have not come by myself.
-He who sent me is true.
-You don’t know him.
+“I did one work, and you are all amazed by it.
+[22] Moses gave you circumcision.
+It did not really start with Moses, but with your ancestors before him.
+And you circumcise a boy even on the Sabbath.
+[23] A boy is circumcised on the Sabbath, so that the law of Moses is not broken.
+So why are you angry with me
+because I made a man completely well on the Sabbath?
+[24] Stop judging by what you see on the outside.
+Judge in a fair and right way.”
+[25] Then some of the people from Jerusalem said,
+“Isn’t this the man they are trying to kill?
+[26] Look, he is speaking openly, and they say nothing to him.
+Could the rulers really know that he is the Christ?
+[27] But we know where this man comes from.
+When the Christ comes, no one will know where he comes from.”
+[28] So Jesus called out while he was teaching in the temple.
+He said,
+“You know me, and you know where I come from.
+I have not come on my own.
+The one who sent me is true.
+But you don’t know him.
 [29] I know him,
-because I am from him,
-and he sent me.”
-[30] Then they wanted to arrest him.
+because I come from him.
+And he sent me.”
+[30] Then they tried to arrest him.
 But no one laid a hand on him,
-because his hour had not yet come.
-[31] But many of the crowd believed in him.
+because his hour had not come yet.
+[31] But many people in the crowd believed in him.
 They said,
-“When the Christ comes,
-he won’t do more signs
-than those which this man has done, will he?”
-[32] The Pharisees heard
-the crowd whispering these things about him.
-So the chief priests and the Pharisees sent officers
-to arrest him.
+“When the Christ comes, he won’t do more signs than this man has done, will he?”
+[32] The Pharisees heard the crowd whispering these things about him.
+So the chief priests and the Pharisees sent temple guards to arrest him.
 [33] Then Jesus said,
-“I will be with you a little while longer.
-Then I go to him
-who sent me.
-[34] You will look for me
-and won’t find me.
-Where I am,
-you can’t come.”
-[35] So the Jews said to one another,
-“Where will this man go
-that we won’t find him?
-Will he go to the Dispersion among the Greeks
-and teach the Greeks?
-[36] What is this word
-that he said,
-‘You will look for me, and won’t find me,’
-and,
-‘Where I am, you can’t come’?”
+“I will be with you only a little while longer.
+Then I will go to the one who sent me.
+[34] You will look for me, but you won’t find me.
+You can’t come where I am.”
+[35] So the Jews said to each other,
+“Where is this man going that we won’t find him?
+Will he go to our people who live scattered among the Greeks?
+Will he teach the Greeks?
+[36] What does he mean when he says,
+‘You will look for me, but you won’t find me,’
+and ‘You can’t come where I am’?”
 
 > **What does this mean?**
 > Verse 15: Jesus had not studied with a famous teacher. Even so, he knows the Holy Scriptures very well.
 > Verses 22–23: Circumcision on the eighth day after birth was so important that it was carried out even on the Sabbath (Leviticus 12:3). Jesus argues like a Jewish teacher: If that is allowed, then all the more so to heal a whole person. He is referring to the healing in chapter 5.
 > Verse 27: Some people back then believed that no one would know where the Messiah came from until he suddenly appeared.
 > Verse 31: Many of the people believe in Jesus.
-> Verse 35: “The Dispersion” (in Greek “Diaspora”) means the Jews who lived outside the land of Israel. John is hinting: The message will in fact go out into the whole world.
+> Verse 35: The people “scattered among the Greeks” are called the Dispersion (in Greek “Diaspora”). It means the Jews who lived outside the land of Israel. John is hinting: The message will in fact go out into the whole world.
 > Important: The conversations in this chapter are debates among Jews about the question of who Jesus is. There is agreement and rejection. This is not a judgment on the Jewish people.
 
 ---
 
 ## “If anyone is thirsty, let him come to me” (Verses 37–44)
 
-[37] On the last and greatest day of the feast,
-Jesus stood
-and cried out,
-“If anyone is thirsty,
-let him come to me and drink!
-[38] He who believes in me,
-as the Scripture has said,
-from within him will flow rivers of living water.”
-[39] But he said this about the Spirit,
-which those who believed in him
-were to receive.
-For the Holy Spirit was not yet given,
-because Jesus wasn’t yet glorified.
-[40] Many of the crowd,
-when they heard these words,
-said,
-“This is truly the prophet.”
-[41] Others said,
-“This is the Christ.”
+[37] On the last and most important day of the feast, Jesus stood up.
+He called out loudly,
+“If anyone is thirsty, let him come to me and drink!
+[38] The Scriptures say this about whoever believes in me:
+Rivers of living water will flow from inside him.”
+[39] By this he meant the Spirit.
+The people who believed in Jesus would receive the Spirit later.
+The Holy Spirit had not yet been given,
+because Jesus had not yet been glorified.
+[40] Many people in the crowd heard these words.
+They said, “This man really is the prophet.”
+[41] Others said, “He is the Christ.”
 But some said,
-“What, does the Christ come out of Galilee?
-[42] Hasn’t the Scripture said
-that the Christ comes from the offspring of David,
-and from Bethlehem,
-the village where David was?”
-[43] So a division arose in the crowd
-because of him.
-[44] Some of them wanted to arrest him,
-but no one laid hands on him.
+“What? The Christ doesn’t come from Galilee, does he?
+[42] The Scriptures say that the Christ comes from David’s family.
+They say that he comes from Bethlehem, the village where David lived.”
+[43] So the crowd was divided because of him.
+[44] Some of them wanted to arrest him.
+But no one laid a hand on him.
 
 > **What does this mean?**
 > At the Feast of Booths, every day water was brought from the pool of Siloam in a solemn procession and poured out at the altar. People prayed for rain and remembered the promises of the prophets (for example Zechariah 14:8; Ezekiel 47). At exactly this moment Jesus cries out: “If anyone is thirsty, let him come to me and drink!” (7:37).
@@ -205,30 +156,25 @@ but no one laid hands on him.
 
 ## Nicodemus stands up for Jesus (Verses 45–53)
 
-[45] The officers came back
-to the chief priests and Pharisees.
-They asked them,
-“Why didn’t you bring him?”
-[46] The officers answered,
-“No man ever spoke like this man!”
-[47] Then the Pharisees answered them,
-“You aren’t also led astray, are you?
-[48] Have any of the rulers
-or any of the Pharisees believed in him?
-[49] But this crowd
-that doesn’t know the law
-is cursed.”
-[50] Then Nicodemus said to them,
-the one who had come to Jesus by night
-and who was one of them:
-[51] “Does our law judge a man
-unless it first hears from him personally
-and knows what he does?”
+[45] Then the temple guards went back to the chief priests and Pharisees.
+These asked them, “Why didn’t you bring him?”
+[46] The guards answered,
+“No one has ever spoken like this man!”
+[47] The Pharisees answered them,
+“You haven’t been fooled too, have you?
+[48] Has any of the rulers or any of the Pharisees believed in him?
+[49] But this crowd doesn’t know the law.
+They are under a curse.”
+[50] Nicodemus was one of them.
+He was the one who had come to Jesus at night.
+He said to them,
+[51] “Our law does not judge a man without first hearing him.
+It wants to know what he has done, doesn’t it?”
 [52] They answered him,
-“Are you also from Galilee?
-Search and see
-that no prophet has arisen out of Galilee.”
-[53] And everyone went to his own house.
+“Are you from Galilee too?
+Study the Scriptures, and you will see:
+No prophet has ever come from Galilee.”
+[53] Then everyone went home.
 
 > **What does this mean?**
 > Verse 46: Even the officers are impressed by Jesus.

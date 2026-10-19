@@ -200,5 +200,5 @@ Among those who are left, there will be those whom the LORD calls.”
 > – old and young,
 > – even male and female servants (slaves, who were at the very bottom of society).
 > God’s Spirit makes no difference between people because of whether they are men or women, old or young, or rich or poor. Moses already had this wish: “I wish that all the LORD’s people were prophets” (Numbers 11:29).
-> On the day of Pentecost, when the Holy Spirit came on the disciples of Jesus, Peter quotes exactly these verses: “But this is what has been spoken through the prophet Joel” (Acts 2:16–21).
+> On the day of Pentecost, when the Holy Spirit came on the disciples of Jesus, Peter quotes exactly these verses: “No, this is what God spoke through the prophet Joel” (Acts 2:16–21).
 > Verse 32: “Whoever calls on the name of the LORD will be saved.” Paul also quotes this sentence (Romans 10:13). Salvation is open to everyone who turns to God.
