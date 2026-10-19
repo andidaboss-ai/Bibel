@@ -13,7 +13,7 @@ He said to him,
 to the house of Bethuel, your mother’s father.
 Take a wife there from the daughters of Laban, your mother’s brother.
 [3] May God Almighty bless you.
-May he give you many children and make you many,
+May he make you fruitful and give you many descendants,
 so that you become a great community of peoples.
 [4] May he give you the blessing of Abraham, to you and to your descendants with you.
 Then you will own the land where you now live as a stranger.
@@ -62,9 +62,9 @@ Then he lay down in that place to sleep.
 [12] He had a dream:
 He saw a stairway that stood on the earth.
 Its top reached to heaven.
-And look: The angels of God were going up and coming down on it.
+Look! The angels of God were going up and coming down on it.
 
-[13] And look: The LORD stood above it and said,
+[13] Look! The LORD stood above it and said,
 “I am the LORD, the God of your father Abraham, and the God of Isaac.
 I will give the land you are lying on to you and to your descendants.
 [14] Your descendants will be as many as the dust of the earth.
@@ -90,7 +90,7 @@ For I will not leave you until I have done what I have promised you.”
 “Truly, the LORD is in this place, and I did not know it!”
 [17] He was afraid and said,
 “How awesome this place is!
-This is nothing else than God’s house.
+This is none other than God’s house.
 And this is the gate of heaven.”
 
 [18] Jacob got up early in the morning.
@@ -115,5 +115,5 @@ And of everything you give me, I will surely give a tenth to you.”
 > **What does this mean?**
 > “The LORD is in this place, and I did not know it!” That is a wonderful sentence. God is often closer than we notice – especially in places where we do not expect him at all.
 > “Bethel” means “house of God.”
-> With the oil, Jacob sets the stone apart for God. He makes it a sign of remembering: Here God met me.
-> Jacob is still careful. He says: “**If** God will be with me …, **then** …” He is not as far along as Abraham yet. For now, he believes on trial. But God meets him where he is. God is patient with people whose faith is still small.
+> With the oil, Jacob sets the stone apart for God. He makes it a reminder: God met me here.
+> Jacob is still careful. He says: “**If** God will be with me …, **then** …” He is not as far along as Abraham yet. For now, he is only trying out faith. But God meets him where he is. God is patient with people whose faith is still small.

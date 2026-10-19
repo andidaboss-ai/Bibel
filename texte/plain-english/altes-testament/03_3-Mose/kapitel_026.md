@@ -44,7 +44,7 @@ And your enemies will fall before you by the sword.
 
 [9] “‘I will turn to you with kindness.
 I will make you fruitful and make you many.
-And I will keep my covenant with you.
+And I will make my covenant with you stand firm.
 A covenant is a binding agreement.
 [10] You will eat old supplies that were stored for a long time.
 And you will have to move out the old to make room for the new.
@@ -67,9 +67,9 @@ And I have made you walk upright.
 
 ## What happens if you do not obey (Verses 14–17)
 
-[14] “‘But you may not listen to me and not do all these commandments.
-[15] You may reject my statutes.
-You may hate my rules, so that you do not do all my commandments, but break my covenant.
+[14] “‘But suppose you do not listen to me and do not do all these commandments.
+[15] Suppose you reject my statutes.
+Suppose you hate my rules, so that you do not do all my commandments, but break my covenant.
 [16] Then I will also do this to you:
 I will bring terror on you,
 wasting disease and fever that ruin the eyes and make life fade away.
@@ -159,7 +159,7 @@ You will have no power to stand against your enemies.
 [38] You will die among the nations.
 The land of your enemies will eat you up.
 [39] Those of you who are left will waste away because of their guilt in your enemies’ lands.
-And they will also waste away because of the guilt of their fathers, like them.
+And they will also waste away because of the guilt of their ancestors, like them.
 
 > **What does this mean?**
 > These verses are terrible. Verse 29 describes people in a famine who are so desperate that they eat their own children. That is the most horrible thing anyone can imagine. Sadly, such things really happened later in wars, for example when Jerusalem was under siege (Lamentations 4:10).
@@ -171,10 +171,10 @@ And they will also waste away because of the guilt of their fathers, like them.
 
 ## But God does not forget his covenant (Verses 40–46)
 
-[40] “‘Then they may confess their guilt and the guilt of their fathers,
+[40] “‘But suppose they confess their guilt and the guilt of their ancestors,
 the unfaithfulness they showed against me,
-and also that they went against me.
-[41] Because of that, I also went against them
+and also that they went against me,
+[41] so that I also went against them
 and brought them into the land of their enemies.
 If then their uncircumcised heart is humbled,
 and they accept the punishment for their guilt,

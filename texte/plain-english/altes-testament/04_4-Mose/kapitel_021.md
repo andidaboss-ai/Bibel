@@ -27,7 +27,7 @@ The place was called Hormah.
 ## The snakes and the bronze serpent (Verses 4–9)
 
 [4] They set out from Mount Hor on the road to the Red Sea, to go around the land of Edom.
-On the way, the people became very impatient.
+On the way, the people became very discouraged because of the journey.
 [5] The people spoke against God and against Moses:
 “Why have you brought us up out of Egypt to die in the wilderness?
 For there is no bread, and there is no water.
@@ -111,15 +111,15 @@ We will go along the King’s Highway until we have passed through your land.”
 Instead, Sihon gathered all his people and went out against Israel into the wilderness.
 He came to Jahaz and fought against Israel.
 [24] Israel struck him down with the sword
-and took his land, from the Arnon to the Jabbok, as far as the Ammonites.
-For the border of the Ammonites was strongly defended.
+and took his land, from the Arnon to the Jabbok, as far as the people of Ammon.
+For the border of the people of Ammon was strongly defended.
 [25] Israel took all these cities.
 And Israel lived in all the cities of the Amorites, in Heshbon and in all its villages.
 [26] For Heshbon was the city of Sihon, the king of the Amorites.
 He had fought against the former king of Moab
 and had taken all his land from him, as far as the Arnon.
 
-[27] That is why the poets say,
+[27] That is why people who speak in proverbs say,
 “Come to Heshbon!
 Let the city of Sihon be built and made strong!
 [28] For a fire has gone out from Heshbon, a flame from the city of Sihon.

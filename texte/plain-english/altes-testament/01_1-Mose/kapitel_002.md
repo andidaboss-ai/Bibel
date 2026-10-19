@@ -26,7 +26,7 @@ For on this day God rested from all his work of creating, the work he had done.
 It was on the day when the LORD God made the earth and the heavens.
 
 [5] At that time, there were no plants of the field on the earth yet.
-And no plant of the field had sprung up yet.
+And no green plant had sprung up in the field yet.
 For the LORD God had not yet sent rain on the earth.
 And there was no man to work the ground.
 [6] But a mist went up from the earth.
@@ -106,7 +106,7 @@ Whatever the man called each living creature, that became its name.
 But for the man, no helper was found who was right for him.
 
 > **What does this mean?**
-> Until now, God always saw: “It is good.” Now he says for the first time: “It is **not** good” – being alone.
+> Until now, God always saw that it was good. Now he says for the first time: “It is **not** good” – being alone.
 > People need other people. God made us for community.
 > “Helper” does not mean “servant” or “assistant” here. In the Bible, even God himself is called a “helper.” It means a partner who stands on the same level.
 > The man gives the animals names. This shows: He knows them and is responsible for them.

@@ -33,8 +33,8 @@ The avenger of blood is the relative who has the duty to punish the killer.
 [7] That is why I command you:
 Set apart three cities for yourselves.
 [8] The LORD your God may make your land larger,
-as he swore to your fathers.
-He may give you all the land that he promised to give to your fathers.
+as he swore to your ancestors.
+He may give you all the land that he promised to give to your ancestors.
 [9] That will happen if you keep this whole commandment and do it,
 which I command you today:
 to love the LORD your God and to walk in his ways always.

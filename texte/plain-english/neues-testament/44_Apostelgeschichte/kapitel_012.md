@@ -5,18 +5,18 @@
 
 ## James is killed, Peter is arrested (Verses 1–5)
 
-[1] About that time King Herod began to attack some people of the assembly.
+[1] About that time King Herod began to attack some people of the church.
 He wanted to harm them.
 [2] He had James, the brother of John, killed with the sword.
 [3] He saw that this pleased the Jews.
 So he arrested Peter too.
-This happened during the days of unleavened bread.
+This happened during the Feast of Unleavened Bread.
 [4] After Herod arrested Peter, he put him in prison.
 He had four squads of soldiers guard him.
 Each squad had four soldiers.
 Herod planned to bring Peter out to the people after the Passover.
 [5] So Peter was kept in prison.
-But the assembly kept praying hard to God for him.
+But the church kept praying hard to God for him.
 
 *unleavened bread* = bread made without yeast, eaten at Passover
 
@@ -24,7 +24,7 @@ But the assembly kept praying hard to God for him.
 > Verse 1: This Herod is Herod Agrippa I, a grandson of Herod the Great. He was king over Judea from AD 41 to 44. He worked closely with the Romans.
 > Verse 2: James is one of the Twelve, a son of Zebedee. He is the first apostle to be killed for his faith.
 > Verse 3: “The Jews” here means people in Jerusalem who were against the Christians, probably mainly influential circles. Not all Jews. After all, the Christians in Jerusalem were Jews themselves.
-> Verses 3–4: The days of unleavened bread belong to the feast of Passover. This reminds us of the arrest of Jesus, which also happened at Passover.
+> Verses 3–4: The Feast of Unleavened Bread belongs to the feast of Passover. This reminds us of the arrest of Jesus, which also happened at Passover.
 > Verse 5: The church can’t free Peter. But it prays.
 > Important: Killing people because of their faith is a crime.
 

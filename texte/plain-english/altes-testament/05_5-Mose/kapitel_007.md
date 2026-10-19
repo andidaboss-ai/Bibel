@@ -40,7 +40,7 @@ out of all the peoples who live on the face of the earth.
 because you were more in number than all the other peoples.
 For you were the fewest of all peoples.
 [8] But it was because the LORD loves you,
-and because he wants to keep the oath that he swore to your fathers.
+and because he wants to keep the oath that he swore to your ancestors.
 That is why the LORD brought you out with a mighty hand
 and set you free from the house of slavery, from the hand of Pharaoh, the king of Egypt.
 [9] So know this: The LORD your God himself is God, the faithful God.
@@ -63,12 +63,12 @@ He pays him back to his face.
 
 [12] If you listen to these laws and keep them and do them,
 then the LORD your God will keep the covenant and the loving kindness with you
-that he swore to your fathers.
+that he swore to your ancestors.
 [13] He will love you, bless you, and make you many.
 He will bless the children of your body and the crops of your ground,
 your grain, your new wine, and your oil,
 the young of your cattle and the lambs of your flock,
-in the land that he swore to your fathers to give you.
+in the land that he swore to your ancestors to give you.
 [14] You will be blessed more than all peoples.
 Among you there will be no man and no woman who cannot have children,
 and not among your livestock either.

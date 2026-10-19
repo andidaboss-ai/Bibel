@@ -81,8 +81,8 @@ and where he showed himself holy among them.
 [14] From Kadesh, Moses sent messengers to the king of Edom to tell him,
 “This is what your brother Israel says:
 You know all the trouble that has happened to us.
-[15] Our fathers went down into Egypt, and we lived in Egypt for a long time.
-The Egyptians treated us and our fathers badly.
+[15] Our ancestors went down into Egypt, and we lived in Egypt for a long time.
+The Egyptians treated us and our ancestors badly.
 [16] When we cried out to the LORD, he heard our voice.
 He sent an angel and brought us out of Egypt.
 Look, now we are in Kadesh, a town at the edge of your land.

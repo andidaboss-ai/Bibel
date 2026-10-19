@@ -12,11 +12,11 @@ If you are not, you can’t be saved.”
 They argued a lot with them.
 So the brothers chose Paul, Barnabas, and some others of them.
 They were to go up to Jerusalem to the apostles and elders and talk about this question.
-[3] The assembly sent them on their way.
+[3] The church sent them on their way.
 They traveled through Phoenicia and Samaria.
 There they told how the Gentiles had turned to God.
 This made all the brothers very happy.
-[4] When they arrived in Jerusalem, the assembly welcomed them.
+[4] When they arrived in Jerusalem, the church welcomed them.
 So did the apostles and the elders.
 Paul and Barnabas told them everything God had done through them.
 [5] But some believers stood up.
@@ -45,7 +45,7 @@ He gave them the Holy Spirit, just as he gave it to us.
 He made their hearts clean through faith.
 [10] So why are you testing God now?
 Why do you want to put a yoke on the neck of the disciples?
-Neither our fathers nor we were able to carry it.
+Neither our ancestors nor we were able to carry it.
 [11] No, we believe that we are saved through the grace of the Lord Jesus, just as they are.”
 [12] The whole crowd became quiet.
 They listened to Barnabas and Paul.
@@ -89,7 +89,7 @@ His books are read aloud in the synagogues every Sabbath.”
 
 ## The letter to the churches (Verses 22–33)
 
-[22] Then the apostles and the elders and the whole assembly decided to choose some men from among them.
+[22] Then the apostles and the elders and the whole church decided to choose some men from among them.
 They would send them to Antioch with Paul and Barnabas.
 They chose Judas, who was called Barsabbas, and Silas.
 Both were leaders among the brothers.
@@ -152,7 +152,7 @@ Barnabas took Mark with him and sailed to Cyprus.
 [39] But Paul chose Silas and set out.
 The brothers put him into the care of God’s grace.
 [40] Paul traveled through Syria and Cilicia.
-He made the assemblies strong.
+He made the churches strong.
 
 > **What does this mean?**
 > Important about the numbering: The WEB has 40 verses in this chapter. Many other Bibles, and many German Bibles, have 41. There is an additional verse 34: Silas decides to stay in Antioch. This verse is missing in the oldest manuscripts. That is why our verses 34–40 are verses 35–41 in those Bibles.

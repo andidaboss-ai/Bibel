@@ -52,7 +52,7 @@ They ran together to them in the place called Solomon’s porch.
 “You men of Israel, why are you amazed at this?
 Why do you stare at us?
 Do you think we made him walk by our own power or by our own goodness?
-[13] The God of Abraham, Isaac, and Jacob, the God of our fathers, has given glory to his Servant Jesus.
+[13] The God of Abraham, Isaac, and Jacob, the God of our ancestors, has given glory to his Servant Jesus.
 You handed Jesus over.
 You rejected him in front of Pilate, even though Pilate had decided to set him free.
 [14] You rejected the Holy and Righteous One.
@@ -74,7 +74,7 @@ Then times of refreshing will come from the Lord.
 [20] And he will send Christ Jesus, whom he chose for you long ago.
 [21] Jesus must stay in heaven until the time when God makes all things new again.
 God spoke about this long ago through his holy prophets.
-[22] Moses said to our fathers:
+[22] Moses said to our ancestors:
 ‘The Lord God will raise up a prophet for you from among your brothers.
 He will be like me.
 You must listen to everything he tells you.
@@ -82,7 +82,7 @@ You must listen to everything he tells you.
 [24] All the prophets who have spoken also told about these days.
 That is true of Samuel and of all the prophets after him.
 [25] You are the children of the prophets, and of the covenant.
-God made this covenant with our fathers.
+God made this covenant with our ancestors.
 He said to Abraham, ‘All the families of the earth will be blessed through your offspring.’
 [26] God raised up his servant Jesus.
 He sent him to you first, to bless you.

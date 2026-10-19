@@ -45,7 +45,7 @@ The land was full of them.
 [8] Then a new king came to power over Egypt.
 He did not know about Joseph.
 [9] He said to his people,
-“Look! The people of the people of Israel are more and stronger than we are.
+“Look! The people of Israel are more in number and stronger than we are.
 [10] Come, let’s be clever with them.
 Otherwise they will become even more.
 And when a war breaks out, they will join our enemies.

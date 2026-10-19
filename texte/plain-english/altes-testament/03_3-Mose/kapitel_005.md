@@ -5,8 +5,8 @@
 
 ## Four cases (Verses 1–4)
 
-[1] “‘If anyone sins because he hears a public call to give witness,
-and he is a witness, because he has seen something or knows something,
+[1] “‘If anyone hears a public call to testify and sins in this way:
+he is a witness, because he has seen something or knows something,
 but he does not report it,
 then he shall carry his guilt.
 
@@ -31,7 +31,7 @@ then he will be guilty in one of these cases as soon as he knows about it.
 > Here four cases are named:
 > 1. Someone has seen something, but he stays silent in court. Whoever knows the truth and stays silent shares in the guilt.
 > 2. and 3. Someone has touched something “unclean” without noticing it. Chapters 11 to 15 explain what “unclean” means. Unclean does not mean dirty or evil. It means: For a while, a person is not ready to come into the holy tent.
-> 4. Someone has sworn something carelessly and then forgotten it. Words are important. Later Jesus says: Let your “yes” be “yes,” and your “no” be “no” (Matthew 5:37).
+> 4. Someone has sworn something carelessly and then forgotten it. Words are important. Later Jesus says: “Let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No’” (Matthew 5:37).
 
 ---
 
@@ -46,7 +46,7 @@ So the priest shall make atonement for him because of his sin.
 
 > **What does this mean?**
 > Here is something very important: First a person should confess the sin, that is, say openly what he has done wrong. The offering alone is not enough. A person must also honestly face his guilt.
-> The New Testament says about God: If we confess our sins, he is faithful and just. He forgives us our sins (1 John 1:9).
+> The New Testament says about God: “If we confess our sins, he is faithful and righteous. He forgives us our sins” (1 John 1:9).
 
 ---
 
@@ -99,7 +99,7 @@ So the priest shall make atonement for him with the ram of the trespass offering
 > The “trespass offering” is for cases where damage has been done that can be made good again. For example: Someone has eaten by mistake some of the gifts that belong to God or to the priests.
 > Then an offering is not enough. He must pay for the damage and add one fifth more, that is, 20 percent.
 > Forgiveness from God and making things good again belong together.
-> A shekel is about 0.4 ounce of silver.
+> A shekel is about 0.4 ounces of silver.
 
 ---
 

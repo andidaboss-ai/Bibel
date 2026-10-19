@@ -11,7 +11,7 @@
 
 ## Barnabas and Saul are sent out (Verses 1–3)
 
-[1] In the assembly at Antioch there were some prophets and teachers.
+[1] In the church at Antioch there were some prophets and teachers.
 They were Barnabas, Simeon (who was called Niger), and Lucius from Cyrene.
 There was also Manaen, who had grown up with Herod the tetrarch, and there was Saul.
 [2] They were serving the Lord and fasting.
@@ -86,7 +86,7 @@ Then the leaders of the synagogue sent them a message:
 “Brothers, if you have a word of encouragement for the people, please speak.”
 [16] Paul stood up and waved his hand.
 He said, “Men of Israel, and you others who fear God, listen!
-[17] The God of this people chose our fathers.
+[17] The God of this people chose our ancestors.
 He made the people great while they lived as foreigners in the land of Egypt.
 With his mighty arm he led them out of Egypt.
 [18] For about forty years he put up with them in the wilderness.
@@ -125,7 +125,7 @@ Then they took him down from the tree and laid him in a tomb.
 [31] For many days he appeared to those who had come up with him from Galilee to Jerusalem.
 They are now his witnesses to the people.
 [32] We are bringing you good news.
-God made a promise to our fathers.
+God made a promise to our ancestors.
 [33] Now he has kept this promise for us, their children.
 He did it by raising up Jesus.
 That is also what is written in the second psalm:
@@ -139,7 +139,7 @@ God said about this:
 ‘You will not allow your Holy One to see decay.’
 [36] David served God’s plan in his own time.
 Then he fell asleep.
-He was buried with his fathers, and his body saw decay.
+He was buried with his ancestors, and his body saw decay.
 [37] But the one whom God raised up saw no decay.
 [38] So, brothers, you should know this:
 We tell you that through this man your sins can be forgiven.
@@ -160,7 +160,7 @@ You would never believe it, even if someone told you about it.’”
 > Verse 14: This Antioch is in Pisidia, in today’s Turkey. It is not the Antioch in Syria.
 > Verse 15: This is how a service in the synagogue went: a reading from the Torah and the Prophets, then an explanation. Guests were allowed to speak. It is still like this in many synagogues today.
 > Verse 16: Paul is speaking to Jews and to God-fearers, that is, non-Jews who honor the God of Israel.
-> Verses 17–22 briefly tell the history of Israel. Paul speaks lovingly of “our fathers.”
+> Verses 17–22 briefly tell the history of Israel. Paul speaks lovingly of “our ancestors.”
 > Verse 19: In the WEB, the figure “about four hundred fifty years” stands in this verse. Other Bibles put the number in verse 20 and relate it to the time of the judges.
 > Verse 23: Many other Bibles name Jesus explicitly here as the Savior. The WEB only says: God has brought salvation to Israel. Jesus is meant.
 > Verse 22 combines 1 Samuel 13:14 and Psalm 89:20 (in the Hebrew Bible and in many German Bibles 89:21).

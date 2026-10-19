@@ -54,7 +54,7 @@ and made coverings for themselves.
 ## God looks for the human beings (Verses 8–13)
 
 [8] They heard the voice of the LORD God.
-He was walking in the garden in the cool time of the day.
+He was walking in the garden when the day was getting cool.
 Then the man and his wife hid from the LORD God among the trees of the garden.
 
 [9] The LORD God called to the man.

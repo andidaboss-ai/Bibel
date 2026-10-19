@@ -18,7 +18,7 @@ If they are willing, they can say it:
 I lived as a Pharisee.
 The Pharisees are the strictest group in our religion.
 [6] And now I stand here on trial because of my hope.
-I hope for what God promised our fathers.
+I hope for what God promised our ancestors.
 [7] Our twelve tribes hope to see this promise come true.
 That is why they serve God with all their hearts, night and day.
 And because of this hope I am accused by the Jews, King Agrippa!

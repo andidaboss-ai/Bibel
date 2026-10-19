@@ -75,7 +75,7 @@ He is unclean for seven days.
 ## How the cleansing happens (Verses 17–22)
 
 [17] “For the unclean person, they shall take some of the ashes of the burned sin offering
-and pour fresh, running water on them in a container.
+and pour running water on them in a container.
 [18] A clean person shall take hyssop, dip it in the water,
 and sprinkle it on the tent, on all the containers, on the people who were there,
 and on the one who touched the bone, the person who was killed, the dead body, or the grave.

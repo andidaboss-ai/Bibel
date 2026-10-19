@@ -14,7 +14,7 @@ you, your son, and your grandson, all the days of your life –
 so that you may live long.
 [3] So hear, Israel, and be careful to do it,
 so that it may go well with you and so that you become very many,
-as the LORD, the God of your fathers, has promised you,
+as the LORD, the God of your ancestors, has promised you,
 in a land flowing with milk and honey.
 
 > **What does this mean?**
@@ -59,7 +59,7 @@ And they shall be as a reminder between your eyes.
 ## Do not forget God when things go well for you (Verses 10–15)
 
 [10] The LORD your God will bring you into the land
-that he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to you.
+that he swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give to you.
 There are great and beautiful cities that you did not build,
 [11] houses full of good things that you did not fill,
 cisterns cut into the rock that you did not dig,
@@ -91,7 +91,7 @@ as you tested him at Massah.
 his testimonies and his rules, which he has commanded you.
 [18] You shall do what is right and good in the LORD’s eyes,
 so that it may go well with you, and so that you may go in and take as your own the good land
-that the LORD swore to your fathers,
+that the LORD swore to your ancestors,
 [19] and so that he drives out all your enemies before you, as the LORD has said.
 
 > **What does this mean?**
@@ -111,7 +111,7 @@ And the LORD brought us out of Egypt with a mighty hand.
 [22] Before our eyes the LORD did great and terrible signs and wonders
 against Egypt, against Pharaoh, and against all his household.
 [23] And he brought us out from there, so that he could bring us in here
-and give us the land that he swore to our fathers.
+and give us the land that he swore to our ancestors.
 [24] The LORD commanded us to do all these rules
 and to fear the LORD our God,
 for our good, for all time,

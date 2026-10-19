@@ -7,13 +7,13 @@
 
 [1] Be careful to do all the commandments that I command you today,
 so that you may live and become many,
-and go in and take as your own the land that the LORD swore to your fathers.
+and go in and take as your own the land that the LORD swore to your ancestors.
 [2] Remember the whole way that the LORD your God has led you these forty years in the wilderness.
 He wanted to make you humble and to test you.
 He wanted to know what was in your heart:
 whether you would keep his commandments or not.
 [3] He made you humble. He let you be hungry.
-And he fed you with manna, which you did not know, and which your fathers did not know either.
+And he fed you with manna, which you did not know, and which your ancestors did not know either.
 With this he wanted to teach you:
 Man does not live by bread alone.
 Man lives by every word that comes out of the LORD’s mouth.
@@ -69,14 +69,14 @@ who brought you out of the land of Egypt, out of the house of slavery,
 with poisonous snakes and scorpions,
 through thirsty ground where there was no water,
 who made water pour out for you from the hard rock,
-[16] who fed you in the wilderness with manna, which your fathers did not know,
+[16] who fed you in the wilderness with manna, which your ancestors did not know,
 to make you humble and to test you,
 so that he could do good to you in the end.
 [17] And then you might say in your heart,
 “My power and the strength of my hand have gotten me this wealth.”
 [18] But you shall remember the LORD your God.
 For he is the one who gives you the power to gain wealth.
-In this way he wants to confirm his covenant, which he swore to your fathers, as it is today.
+In this way he wants to confirm his covenant, which he swore to your ancestors, as it is today.
 [19] But if you forget the LORD your God,
 and follow other gods, and serve them, and worship them,
 then I warn you today: You will surely die out.

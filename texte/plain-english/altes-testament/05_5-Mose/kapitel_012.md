@@ -6,7 +6,7 @@
 ## Destroy the places of the foreign gods (Verses 1–4)
 
 [1] These are the rules and the laws that you shall be careful to do
-in the land that the LORD, the God of your fathers, has given you to own,
+in the land that the LORD, the God of your ancestors, has given you to own,
 all the days that you live on the earth.
 [2] You shall completely destroy all the places
 where the nations you are driving out served their gods:

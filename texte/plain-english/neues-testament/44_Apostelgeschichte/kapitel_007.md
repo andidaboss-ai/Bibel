@@ -9,7 +9,7 @@
 
 ---
 
-## Abraham, Joseph and the fathers (Verses 1–16)
+## Abraham, Joseph and the ancestors (Verses 1–16)
 
 [1] The high priest asked, “Is this true?”
 [2] Stephen said, “Brothers and fathers, listen to me.
@@ -43,16 +43,16 @@ God gave him favor and wisdom with Pharaoh, the king of Egypt.
 Pharaoh made him governor over Egypt and over his whole household.
 [11] Then a famine came over the whole land of Egypt and Canaan.
 There was great suffering.
-Our fathers could not find any food.
+Our ancestors could not find any food.
 [12] Jacob heard that there was grain in Egypt.
-So he sent our fathers there.
+So he sent our ancestors there.
 That was their first trip.
 [13] On their second trip, Joseph told his brothers who he was.
 And Pharaoh learned about Joseph’s family.
 [14] Joseph sent for his father Jacob and all his relatives.
 There were seventy-five people.
 [15] So Jacob went down to Egypt.
-There he died, and our fathers died too.
+There he died, and our ancestors died too.
 [16] Their bodies were brought back to Shechem.
 They were laid in the tomb there.
 Abraham had bought that tomb with silver from the children of Hamor of Shechem.
@@ -61,7 +61,7 @@ Abraham had bought that tomb with silver from the children of Hamor of Shechem.
 *bondage* = slavery
 
 > **What does this mean?**
-> Stephen had been accused of speaking against Moses, the law and the temple (6:11–14). He answers by telling the history of Israel. He shows: I honor the fathers and Moses.
+> Stephen had been accused of speaking against Moses, the law and the temple (6:11–14). He answers by telling the history of Israel. He shows: I honor the ancestors and Moses.
 > Verses 2–8 recall Genesis 11–21. Verse 3 quotes Genesis 12:1. Verses 6–7 recall Genesis 15:13–14 and Exodus 3:12.
 > Important: God appears to Abraham outside the land of Israel, in Mesopotamia. God is not tied to one place.
 > Verses 9–16 briefly tell the story of Joseph (Genesis 37–50). Joseph too was in a foreign land, and God was with him.
@@ -78,7 +78,7 @@ The people grew and became very many in Egypt.
 [18] Then a different king came to power in Egypt.
 He did not know about Joseph.
 [19] This king took advantage of our people.
-He treated our fathers badly.
+He treated our ancestors badly.
 He forced them to leave their babies outside, so that they would die.
 [20] At that time Moses was born.
 He was very beautiful in God’s eyes.
@@ -88,7 +88,7 @@ Pharaoh’s daughter took him in.
 She raised him as her own son.
 [22] Moses was taught all the wisdom of the Egyptians.
 He was powerful in what he said and in what he did.
-[23] When Moses was forty years old, he decided to visit his brothers, the children of Israel.
+[23] When Moses was forty years old, he decided to visit his brothers, the people of Israel.
 [24] He saw an Egyptian treating one of them unfairly.
 So he defended the man.
 He took revenge for him and struck down the Egyptian.
@@ -110,7 +110,7 @@ The angel was in the flame of a burning bush.
 [31] Moses saw it and was amazed at the sight.
 He went closer to look.
 Then he heard the voice of the Lord:
-[32] ‘I am the God of your fathers:
+[32] ‘I am the God of your ancestors:
 the God of Abraham, the God of Isaac, and the God of Jacob.’
 Moses trembled.
 He did not dare to look.
@@ -127,14 +127,14 @@ God did it through the angel who had appeared to Moses in the bush.
 [36] Moses led them out.
 He did wonders and signs in Egypt and at the Red Sea.
 He did them in the wilderness for forty years.
-[37] This is the same Moses who said to the children of Israel:
+[37] This is the same Moses who said to the people of Israel:
 ‘The Lord our God will raise up a prophet for you from among your brothers.
 He will be like me.’
 [38] Moses was with the assembly in the wilderness.
 He was with the angel who spoke to him on Mount Sinai.
-And he was with our fathers.
+And he was with our ancestors.
 He received living words from God to give to us.
-[39] But our fathers did not want to obey him.
+[39] But our ancestors did not want to obey him.
 They rejected him.
 In their hearts they wanted to go back to Egypt.
 [40] They said to Aaron, ‘Make us gods who will lead us!
@@ -171,13 +171,13 @@ So I will send you away beyond Babylon.’
 
 ## The tent of meeting and the temple (Verses 44–53)
 
-[44] Our fathers had the tabernacle of the testimony with them in the wilderness.
+[44] Our ancestors had the tabernacle of the testimony with them in the wilderness.
 God had spoken to Moses and told him how to make it.
 Moses made it like the pattern he had seen.
-[45] Later our fathers received it.
+[45] Later our ancestors received it.
 They brought it with them when they came into the land with Joshua.
 They took the land from the nations.
-God drove these nations out in front of our fathers.
+God drove these nations out in front of our ancestors.
 The tabernacle was there until the days of David.
 [46] David found favor with God.
 He asked to find a dwelling place for the God of Jacob.
@@ -192,8 +192,8 @@ Where is the place where I can rest?
 [51] You stiff-necked people!
 You are uncircumcised in heart and ears!
 You always resist the Holy Spirit!
-You are just like your fathers.
-[52] Was there any prophet your fathers did not persecute?
+You are just like your ancestors.
+[52] Was there any prophet your ancestors did not persecute?
 They killed the people who told ahead of time that the Righteous One would come.
 And now you have betrayed and murdered him.
 [53] You received the law through angels.

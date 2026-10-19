@@ -31,7 +31,7 @@ For it is because of the wickedness of these nations that the LORD is driving th
 [5] It is not because you are righteous, and not because your heart is honest,
 that you are going in to take their land as your own.
 It is because of the wickedness of these nations that the LORD your God is driving them out before you,
-and so that he keeps the word that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob.
+and so that he keeps the word that the LORD swore to your ancestors, to Abraham, to Isaac, and to Jacob.
 [6] So know this:
 It is not because you are righteous that the LORD your God is giving you this good land to own.
 For you are a stiff-necked people.

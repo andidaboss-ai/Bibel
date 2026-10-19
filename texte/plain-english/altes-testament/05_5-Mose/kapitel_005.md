@@ -9,7 +9,7 @@
 “Hear, Israel, the rules and the laws that I am speaking in your ears today.
 Learn them, and be careful to do them.”
 [2] The LORD our God made a covenant with us at Horeb.
-[3] The LORD did not make this covenant with our fathers,
+[3] The LORD did not make this covenant with our ancestors,
 but with us, with all of us who are alive here today.
 [4] The LORD spoke with you face to face on the mountain, out of the middle of the fire.
 [5] (At that time I stood between the LORD and you, to tell you the LORD’s word.

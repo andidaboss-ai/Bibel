@@ -16,7 +16,7 @@ Plaster is a white paste that becomes hard.
 you shall write on them all the words of this law.
 Then you will go into the land that the LORD your God gives you,
 a land flowing with milk and honey,
-as the LORD, the God of your fathers, has promised you.
+as the LORD, the God of your ancestors, has promised you.
 [4] When you have crossed the Jordan,
 you shall set up these stones on Mount Ebal,
 as I command you today.

@@ -52,7 +52,7 @@ Just listen to me. Go and get the goats for me.”
 
 [14] So Jacob went, got the goats and brought them to his mother.
 His mother made a tasty meal, the kind his father loved.
-[15] Then Rebekah took the best clothes of Esau, her older son.
+[15] Then Rebekah took the good clothes of Esau, her older son.
 She had them with her in the house.
 She put them on Jacob, her younger son.
 [16] She put the skins of the young goats on his hands and on the smooth part of his neck.

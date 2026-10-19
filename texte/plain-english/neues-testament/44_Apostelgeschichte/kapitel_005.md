@@ -38,14 +38,14 @@ They will carry you out too.”
 [10] At once she fell down at his feet and died.
 The young men came in and found her dead.
 They carried her out and buried her next to her husband.
-[11] Great fear came on the whole assembly.
+[11] Great fear came on the whole church.
 And great fear came on everyone who heard about these things.
 
 > **What does this mean?**
 > Verse 4 is important: Ananias didn’t have to give anything. The land and the money belonged to him. Sharing in the church was voluntary. His mistake was not that he kept something, but that he lied. He wanted to pretend that he had given everything.
 > Verse 3: “Why has Satan filled your heart”: This reminds us of Judas (Luke 22:3).
 > Verses 5 and 10: The text doesn’t say exactly why the two die. It doesn’t say that Peter kills them. Many scholars see in this a warning to the young church: Honesty before God is important.
-> Verse 11: Here the word “assembly” (in Greek “ekklesia”) appears for the first time in Acts. In many languages the word for church comes from it.
+> Verse 11: Here the word “church” (in Greek “ekklesia”) appears for the first time in Acts. The Greek word means “assembly.” In many languages the word for church comes from it.
 > For today: God doesn’t need a show. Honesty is more important than looking good.
 
 ---
@@ -85,7 +85,7 @@ He led them out and said,
 Tell the people all the words of this life.”
 [21] When they heard this, they went into the temple at daybreak and began to teach.
 The high priest and those with him came.
-They called together the council and all the elders of the children of Israel.
+They called together the council and all the elders of the people of Israel.
 Then they sent men to the prison to bring the apostles.
 [22] But the officers went to the prison, and the apostles were not there.
 So they came back and reported:
@@ -117,7 +117,7 @@ The high priest questioned them.
 But look, you have filled Jerusalem with your teaching.
 And you want to bring this man’s blood on us.”
 [29] But Peter and the apostles answered, “We must obey God rather than men.
-[30] The God of our fathers raised Jesus from the dead.
+[30] The God of our ancestors raised Jesus from the dead.
 You killed him by hanging him on a tree.
 [31] God lifted him up to his right hand.
 God made him Prince and Savior.

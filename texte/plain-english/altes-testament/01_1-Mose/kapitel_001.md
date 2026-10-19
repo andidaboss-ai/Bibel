@@ -196,4 +196,4 @@ That was the sixth day.
 > “Rule” and “bring under control” do not mean here: use it up and exploit it. A king in the Bible is supposed to care for his land and protect it. In the same way, people are supposed to care for the earth and the animals.
 > God says, “Let **us**.” Jews often understand it like this: God is talking with his angels, or he speaks the way a king does, saying “we.” Many Christians see in it a hint of God as Father, Son and Holy Spirit.
 > Interesting: In the beginning, people and animals eat only plants. No one has to lose their life to be someone else’s food. That is how peaceful God’s world was meant to be.
-> Six times God saw: “It is good.” Now he sees: “It is **very** good.”
+> Six times God saw that it was good. Now he sees that it is **very** good.

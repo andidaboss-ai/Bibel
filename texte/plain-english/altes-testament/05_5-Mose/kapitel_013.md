@@ -36,7 +36,7 @@ In this way you shall remove the evil from among you.
 or the wife you hold in your arms, or your friend who is as dear to you as your own life,
 tries to lead you away in secret and says,
 “Let’s go and serve other gods” –
-gods that you have not known, not you and not your fathers,
+gods that you have not known, not you and not your ancestors,
 [7] gods of the peoples who live around you, near you or far from you,
 from one end of the earth to the other end of the earth.
 [8] Then you shall not give in to him, and you shall not listen to him.
@@ -78,7 +78,7 @@ It shall not be built again.
 [17] Nothing that is devoted to destruction shall stick to your hand,
 so that the LORD turns away from his burning anger,
 shows you mercy, has compassion on you,
-and makes you many, as he swore to your fathers.
+and makes you many, as he swore to your ancestors.
 [18] This will happen when you listen to the voice of the LORD your God
 and keep all his commandments, which I command you today,
 and do what is right in the eyes of the LORD your God.

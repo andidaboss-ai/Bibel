@@ -36,7 +36,7 @@ in the middle of all Israel.
 so that you are strong, and go in,
 and take as your own the land that you are crossing over to take,
 [9] and so that you live long in the land
-that the LORD swore to your fathers to give to them and to their descendants,
+that the LORD swore to your ancestors to give to them and to their descendants,
 a land flowing with milk and honey.
 [10] For the land that you are going into to take as your own
 is not like the land of Egypt, which you came out of.
@@ -87,7 +87,7 @@ You shall talk about them when you sit in your house and when you are on the roa
 when you lie down and when you get up.
 [20] You shall write them on the doorposts of your house and on your gates,
 [21] so that you and your children may live long in the land
-that the LORD swore to your fathers to give them,
+that the LORD swore to your ancestors to give them,
 as long as the sky is above the earth.
 
 > **What does this mean?**

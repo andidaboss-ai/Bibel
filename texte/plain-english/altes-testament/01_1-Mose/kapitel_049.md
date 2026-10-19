@@ -64,7 +64,7 @@ Your father’s sons will bow down before you.
 [9] Judah is a young lion.
 You have come up from the prey, my son.
 He crouches down and lies down like a lion, like a lioness.
-Who dares to wake him?
+Who will wake him up?
 
 [10] The scepter will not leave Judah,
 nor the ruler’s staff from between his feet,
@@ -155,7 +155,7 @@ with blessings of the breasts and of the womb.
 than the blessings of my ancestors.
 They reach beyond the borders of the ancient hills.
 They will be on the head of Joseph,
-on the head of the one who was set apart from his brothers.
+on the top of the head of the one who was set apart from his brothers.
 
 > **What does this mean?**
 > Joseph receives the longest and warmest blessing.
@@ -184,7 +184,7 @@ He blessed each one with the blessing that was meant for him.
 
 [29] Then he gave them instructions and said to them,
 “I am about to be gathered to my people.
-Bury me with my fathers in the cave in the field of Ephron the Hittite,
+Bury me with my ancestors in the cave in the field of Ephron the Hittite,
 [30] in the cave in the field of Machpelah, near Mamre, in the land of Canaan.
 Abraham bought it, together with the field, from Ephron the Hittite as a burial place.
 [31] There they buried Abraham and his wife Sarah.

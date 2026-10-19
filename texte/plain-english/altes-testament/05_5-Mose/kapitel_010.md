@@ -57,7 +57,7 @@ The LORD did not want to destroy you.
 [11] The LORD said to me,
 “Get up, set out, and go ahead of the people.
 They shall go in and take as their own the land
-that I swore to their fathers to give them.”
+that I swore to their ancestors to give them.”
 
 ---
 
@@ -71,7 +71,7 @@ and that you serve the LORD your God with all your heart and with all your soul,
 for your good.
 [14] Look! Heaven belongs to the LORD your God, and the highest heaven,
 and the earth with everything on it.
-[15] Even so, the LORD took delight only in your fathers and loved them.
+[15] Even so, the LORD took delight only in your ancestors and loved them.
 And he chose their descendants after them, you, out of all peoples, as it is today.
 [16] So circumcise the foreskin of your heart,
 and do not be stiff-necked anymore.
@@ -98,7 +98,7 @@ For you yourselves were foreigners in the land of Egypt.
 You shall hold on to him, and you shall swear by his name.
 [21] He is the one you praise, and he is your God,
 who has done for you these great and awesome things that your eyes have seen.
-[22] Your fathers went down into Egypt with seventy people.
+[22] Your ancestors went down into Egypt with seventy people.
 And now the LORD your God has made you as many as the stars in the sky.
 
 > **What does this mean?**

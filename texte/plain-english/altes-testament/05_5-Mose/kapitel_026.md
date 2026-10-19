@@ -15,7 +15,7 @@ to let his name live there.
 [3] You shall come to the priest who is there in those days and say to him,
 “Today I declare to the LORD your God
 that I have come into the land
-that the LORD swore to our fathers to give us.”
+that the LORD swore to our ancestors to give us.”
 [4] The priest shall take the basket from your hand
 and set it down in front of the altar of the LORD your God.
 
@@ -33,7 +33,7 @@ with only a few people.
 There he became a great nation, strong and with many people.
 [6] The Egyptians treated us badly.
 They oppressed us and forced us to do hard work.
-[7] Then we cried out to the LORD, the God of our fathers.
+[7] Then we cried out to the LORD, the God of our ancestors.
 The LORD heard our voice.
 He saw our misery, our hard work, and how we were oppressed.
 [8] The LORD brought us out of Egypt
@@ -80,7 +80,7 @@ I have done everything that you commanded me.
 [15] Look down from your holy home, from heaven,
 and bless your people Israel
 and the land that you have given us,
-as you swore to our fathers,
+as you swore to our ancestors,
 a land flowing with milk and honey.”
 
 > **What does this mean?**

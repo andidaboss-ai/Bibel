@@ -166,7 +166,7 @@ They gave the money to everyone who had need.
 They broke bread in their homes.
 They ate their meals with joy and with sincere hearts.
 [47] They praised God, and they had favor with all the people.
-Every day the Lord added to the assembly those who were being saved.
+Every day the Lord added to the church those who were being saved.
 
 *fellowship* = community, sharing life together
 
