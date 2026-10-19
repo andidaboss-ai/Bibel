@@ -5,30 +5,31 @@
 
 ## Jotham’s reign (Verses 1–6)
 
-[1] Jotham was 25 years old when he began to reign,
-and he reigned for 16 years in Jerusalem.
-His mother’s name was Jerushah the daughter of Zadok.
-[2] He did what was right in the LORD’s eyes,
+[1] Jotham was 25 years old when he became king.
+He ruled for 16 years in Jerusalem.
+His mother’s name was Jerushah.
+She was the daughter of Zadok.
+[2] Jotham did what was right in the LORD’s eyes,
 just as his father Uzziah had done.
-But he didn’t enter the LORD’s temple.
-The people still acted wickedly.
-[3] He built the upper gate of the LORD’s house,
-and he built much on the wall of Ophel.
-[4] He also built cities in the hill country of Judah,
-and in the forests he built fortresses and towers.
-[5] He also fought with the king of the children of Ammon
+But he did not go into the LORD’s temple.
+The people still did evil things.
+[3] Jotham built the Upper Gate of the LORD’s house.
+He also did a lot of building on the wall of Ophel.
+[4] He built cities in the hill country of Judah.
+And in the forests, he built forts and towers.
+[5] He went to war against the king of the Ammonites
 and defeated them.
-That same year the children of Ammon gave him 100 talents of silver, about 7,500 pounds,
-about 60,000 bushels of wheat,
+That year the Ammonites gave him 100 talents of silver, about 7,500 pounds.
+They also gave him about 60,000 bushels of wheat
 and about 60,000 bushels of barley.
-The children of Ammon also gave him that much in the second year and in the third.
-[6] So Jotham became mighty,
+The Ammonites paid him the same amount in the second year and in the third year.
+[6] So Jotham became powerful,
 because he set his ways in order before the LORD his God.
 
 > **What does this mean?**
-> Jotham reigned from about 750 to 735 before Christ. Part of this time he reigned for his sick father (Chapter 26:21).
+> Jotham ruled from about 750 to 735 before Christ. For part of this time, he ruled for his sick father (Chapter 26:21).
 > Verse 2: Jotham was like his father, but he did not make his father’s mistake. He did not force his way into the temple to offer incense himself. He had learned from his father’s mistake.
-> “The people still acted wickedly”: a good king alone cannot change the heart of the people. At the same time the prophets Isaiah and Micah complained about injustice and the worship of idols in Judah.
+> “The people still did evil things”: a good king alone cannot change the heart of the people. At the same time, the prophets Isaiah and Micah complained about injustice and the worship of idols in Judah.
 > The Ophel is a hill in Jerusalem between the City of David and the temple.
 > The Bible says “100 talents of silver” and “10,000 cors” of wheat and barley. A talent is about 75 pounds, a cor about 6 bushels.
 > Verse 6 is the secret of his success: “He set his ways in order before the LORD his God.” He lived consciously before God.
@@ -37,13 +38,13 @@ because he set his ways in order before the LORD his God.
 
 ## The death of Jotham (Verses 7–9)
 
-[7] The rest of the acts of Jotham, and all his wars and his ways,
-look, they are written in the book of the kings of Israel and Judah.
-[8] He was 25 years old when he began to reign,
-and he reigned for 16 years in Jerusalem.
-[9] Jotham died and joined his fathers,
-and they buried him in David’s city.
-And Ahaz his son reigned in his place.
+[7] There is more to tell about Jotham, about all his wars and about the way he lived.
+It is written in the book of the kings of Israel and Judah.
+[8] He was 25 years old when he became king.
+He ruled for 16 years in Jerusalem.
+[9] Then Jotham died and joined his ancestors.
+They buried him in David’s city.
+His son Ahaz became king after him.
 
 > **What does this mean?**
 > Jotham is one of the few kings about whom Chronicles says nothing bad.

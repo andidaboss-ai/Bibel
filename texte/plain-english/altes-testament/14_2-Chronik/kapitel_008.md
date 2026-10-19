@@ -5,19 +5,19 @@
 
 ## Cities and fortresses (Verses 1–6)
 
-[1] Solomon had built the LORD’s house and his own house in 20 years.
+[1] Solomon spent 20 years building the LORD’s house and his own palace.
 At the end of these 20 years,
-[2] Solomon built the cities that Huram had given to Solomon,
-and he made the children of Israel live there.
+[2] Solomon rebuilt the cities that Huram had given him.
+He let people of Israel live there.
 [3] Solomon went to Hamath Zobah and defeated it.
-[4] He built Tadmor in the wilderness,
-and all the storage cities, which he built in Hamath.
-[5] He also built Beth Horon the upper and Beth Horon the lower,
-fortified cities with walls, gates, and bars,
-[6] and Baalath, and all the storage cities that Solomon had,
-and all the cities for his chariots and the cities for his horsemen,
-and all that Solomon wanted to build for his pleasure in Jerusalem, in Lebanon,
-and in all the land that he ruled.
+[4] He built Tadmor in the wilderness.
+He also built all the storage cities in Hamath.
+[5] He built Upper Beth Horon and Lower Beth Horon.
+They were strong cities with walls, gates, and bars.
+[6] He also built Baalath and all the storage cities that Solomon had.
+He built all the cities for his chariots and the cities for his horsemen.
+He built everything he wanted to build
+in Jerusalem, in Lebanon, and in all the land he ruled.
 
 > **What does this mean?**
 > After the temple and the palace, Solomon builds cities and fortresses in the whole land.
@@ -29,16 +29,17 @@ and in all the land that he ruled.
 
 ## The forced labor (Verses 7–10)
 
-[7] There were people left of the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites,
-who were not of Israel.
-[8] Their children were left after them in the land,
-because the children of Israel had not destroyed them.
-From them Solomon took forced labor, to this day.
-[9] But Solomon made no servants for his work from the children of Israel.
-They were men of war, chiefs of his captains,
-and rulers of his chariots and of his horsemen.
-[10] These were the chief officers of King Solomon, 250 of them,
-who ruled over the people.
+[7] Some people were still left from the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.
+They were not from Israel.
+[8] Their descendants were still in the land,
+because the people of Israel had not wiped them out.
+Solomon forced these people to work for him.
+They still do this work today.
+[9] But Solomon did not make any of the people of Israel his slaves for his work.
+They were his soldiers, the leaders of his officers,
+and the commanders of his chariots and of his horsemen.
+[10] King Solomon had 250 chief officers.
+They were in charge of the people.
 
 > **What does this mean?**
 > The descendants of the earlier peoples of Canaan had to do forced labor. For them it was a hard fate. The Bible tells it honestly.
@@ -48,11 +49,11 @@ who ruled over the people.
 
 ## Solomon’s wife, Pharaoh’s daughter (Verse 11)
 
-[11] Solomon brought Pharaoh’s daughter up out of David’s city
-to the house that he had built for her.
-For he said,
-“My wife shall not live in the house of David king of Israel,
-because the places where the LORD’s ark has come are holy.”
+[11] Solomon brought Pharaoh’s daughter up from the City of David.
+He brought her to the palace that he had built for her.
+He said,
+“My wife must not live in the palace of David, the king of Israel.
+The places where the LORD’s ark has been are holy.”
 
 > **What does this mean?**
 > Solomon had married an Egyptian princess. She was not an Israelite and probably worshiped Egyptian gods. That is why she was not to live near the ark.
@@ -63,25 +64,25 @@ because the places where the LORD’s ark has come are holy.”
 
 ## Regular worship (Verses 12–16)
 
-[12] Then Solomon offered burnt offerings to the LORD
-on the LORD’s altar, which he had built in front of the porch.
-[13] He did it as the duty of every day required,
-offering as Moses had commanded,
-on the Sabbaths, on the new moons, and on the set feasts,
-three times a year:
-at the feast of unleavened bread,
-at the feast of weeks,
-and at the feast of booths.
-[14] As David his father had ordered,
-he appointed the divisions of the priests to their service,
-and the Levites to their duties,
-to praise and to serve before the priests,
-as the duty of every day required.
-He also appointed the doorkeepers by their divisions at every gate,
-for David the man of God had commanded it this way.
-[15] They didn’t turn away from the king’s command to the priests and Levites
-in any matter, or about the treasures.
-[16] So all the work of Solomon was done,
+[12] Then Solomon offered burnt offerings to the LORD.
+He offered them on the LORD’s altar, which he had built in front of the porch.
+[13] He offered what was required for each day,
+as Moses had commanded.
+He offered sacrifices on the Sabbaths, at the new moons, and at the yearly feasts.
+These feasts were three times a year:
+the feast of unleavened bread,
+the feast of weeks,
+and the feast of booths.
+[14] Solomon followed the orders of his father David.
+He gave the divisions of the priests their work.
+He gave the Levites their duties.
+They were to praise God and to help the priests,
+as each day required.
+He also put the gatekeepers in their divisions at every gate.
+David, the man of God, had commanded this.
+[15] The priests and the Levites did not turn away from anything the king commanded them.
+This was true for every matter, and also for the treasures.
+[16] So all of Solomon’s work was done,
 from the day the foundation of the LORD’s house was laid until it was finished.
 So the LORD’s house was completed.
 
@@ -95,12 +96,12 @@ So the LORD’s house was completed.
 ## Ships to Ophir (Verses 17–18)
 
 [17] Then Solomon went to Ezion Geber and to Eloth,
-on the seashore in the land of Edom.
-[18] Huram sent him ships and servants who knew the sea,
-through his servants.
-They came with the servants of Solomon to Ophir.
-They brought from there about 34,000 pounds of gold
-and brought it to King Solomon.
+on the coast in the land of Edom.
+[18] Huram sent him ships through his servants.
+He also sent servants who knew the sea well.
+They sailed with Solomon’s servants to Ophir.
+From there they brought about 34,000 pounds of gold
+to King Solomon.
 
 > **What does this mean?**
 > Ezion Geber and Eloth (Elath) are on the Gulf of Aqaba, on the Red Sea.

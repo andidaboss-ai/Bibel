@@ -43,7 +43,7 @@ Then they could bring up the ark of the LORD, the God of Israel.
 They did it as Moses had commanded, just as the LORD had said.
 
 > **What does this mean?**
-> David has learned from the mistake. He says openly: “We did not seek him according to the rule.” He does not look for someone to blame, but says “we”.
+> David has learned from the mistake. He says openly: “We did not seek him according to the rule.” He does not look for someone to blame, but says “we.”
 > Now they do it the right way: the Levites carry the ark on their shoulders, with poles, as it says in Exodus 25:14 and Numbers 7:9.
 > “Make yourselves holy” means: get ready, make yourselves clean, prepare yourselves for the service of God.
 > Elizaphan, Hebron and Uzziel were smaller families within the Kohathites. They are named here separately.
@@ -96,7 +96,6 @@ So they sacrificed seven bulls and seven rams.
 All the Levites who carried the ark wore one too.
 So did the singers and Chenaniah, the leader of the singing.
 David also wore a linen ephod.
-An ephod is a special garment like an apron.
 [28] So all Israel brought up the ark of the LORD’s covenant.
 They shouted and blew the horn and the trumpets.
 They played loudly on cymbals, lyres, and harps.
@@ -106,7 +105,7 @@ She saw King David dancing and celebrating.
 And in her heart she looked down on him.
 
 > **What does this mean?**
-> “When God helped the Levites”: this time everything goes well. Full of thankfulness the Levites offer sacrifices.
+> “God helped the Levites”: this time everything goes well. Full of thankfulness the Levites offer sacrifices.
 > David wears clothes like a Levite, of simple linen, not his royal clothes. An ephod was a garment like an apron for the service before God.
 > David dances for joy. Michal, Saul’s daughter and David’s wife, thinks this is unworthy of a king. More about this quarrel is in 2 Samuel 6:20–23.
 > Michal stands for Saul’s attitude: no heart for God and his ark. David, on the other hand, rejoices with his whole heart. You may show true joy in God, even if others find it strange.

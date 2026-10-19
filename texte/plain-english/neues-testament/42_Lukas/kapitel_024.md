@@ -5,55 +5,41 @@
 
 ## The empty tomb (Verses 1–12)
 
-[1] On the first day of the week,
-at early dawn,
-the women and some others came to the tomb.
-They brought the spices
-which they had prepared.
-[2] They found the stone rolled away from the tomb.
-[3] They went in,
-but they didn’t find the Lord Jesus’ body.
-[4] They were very confused about this.
-Then suddenly
-two men stood by them
-in dazzling clothing.
-[5] The women were terrified
-and bowed their faces down to the earth.
+[1] On the first day of the week, very early in the morning, the women came to the tomb.
+Some others came with them.
+They brought the spices they had prepared.
+[2] They found that the stone had been rolled away from the tomb.
+[3] They went in.
+But they didn’t find the body of the Lord Jesus.
+[4] They did not know what to think.
+Suddenly two men stood next to them.
+Their clothes were shining brightly.
+[5] The women were terrified.
+They bowed down with their faces to the ground.
 The men said to them,
-“Why do you seek the living among the dead?
-[6] He isn’t here,
-but is risen.
-Remember
-what he told you
-when he was still in Galilee.
-[7] He said
-that the Son of Man must be handed over into the hands of sinful men,
-be crucified,
-and on the third day rise again.”
-[8] Then they remembered his words.
-[9] They returned from the tomb
-and told all these things to the eleven
-and to all the rest.
-[10] They were Mary Magdalene,
-Joanna,
-and Mary the mother of James.
-The other women who were with them
-also told these things to the apostles.
-[11] But these words seemed like nonsense to the apostles,
-and they didn’t believe them.
-[12] But Peter got up
-and ran to the tomb.
-He bent down
-and looked in.
-He saw only the strips of linen lying there.
-Then he went home,
-wondering about
-what had happened.
+“Why are you looking for the living among the dead?
+[6] He isn’t here.
+He has risen!
+Remember what he told you while he was still in Galilee.
+[7] He said that the Son of Man must be handed over to sinful people.
+He said that they would crucify him, and that he would rise again on the third day.”
+[8] Then the women remembered his words.
+[9] They went back from the tomb.
+They told all these things to the eleven and to all the others.
+[10] The women were Mary Magdalene, Joanna, and Mary the mother of James.
+The other women with them also told these things to the apostles.
+[11] But the apostles thought these words were nonsense.
+They didn’t believe the women.
+[12] But Peter got up and ran to the tomb.
+He bent down and looked in.
+He saw only the strips of linen lying there by themselves.
+Then he went home.
+He wondered what had happened.
 
 > **What does this mean?**
 > “The first day of the week” is Sunday. That is why Christians hold their worship services on Sunday: It is the day of the resurrection. Easter is the most important feast of Christians.
 > The women want to anoint the dead Jesus. They are not expecting a resurrection. But the tomb is empty.
-> Verse 5: “Why do you seek the living among the dead?” That is the Easter message.
+> Verse 5: “Why are you looking for the living among the dead?” That is the Easter message.
 > The women are the first witnesses of the resurrection. Back then the testimony of women often counted for little in court. Even so, all the Gospels tell that women were the first at the empty tomb. That suggests that this is how it was handed down.
 > Verse 11: The apostles do not believe the women. They think it is nonsense. That is told honestly.
 > Verse 12 is missing in one old manuscript. Almost all others have it.
@@ -63,98 +49,65 @@ what had happened.
 
 ## The disciples on the road to Emmaus (Verses 13–35)
 
-[13] That very day two of them
-were going to a village named Emmaus.
-It was sixty stadia from Jerusalem.
-[14] They were talking with each other
-about all these things which had happened.
-[15] While they were talking and discussing,
-Jesus himself came near
-and went with them.
-[16] But their eyes were kept
-from recognizing him.
+[13] On that same day, two of them were walking to a village named Emmaus.
+It was sixty stadia from Jerusalem, about 7 miles.
+[14] They were talking with each other about all the things that had happened.
+[15] While they were talking and asking each other questions, Jesus himself came near.
+He walked along with them.
+[16] But something kept their eyes from recognizing him.
 [17] He said to them,
-“What are you talking about as you walk?
-And why are you sad?”
-[18] One of them,
-named Cleopas,
-answered him,
-“Are you the only stranger in Jerusalem
-who doesn’t know
-the things which have happened there in these days?”
-[19] He said to them,
-“What things?”
+“What are you talking about as you walk along?
+Why are you sad?”
+[18] One of them was named Cleopas.
+He answered him,
+“Are you the only visitor in Jerusalem who doesn’t know what has happened there in these days?”
+[19] Jesus asked them, “What things?”
 They said to him,
 “The things about Jesus the Nazarene.
-He was a prophet,
-mighty in deed and word
-before God and all the people.
-[20] The chief priests and our rulers
-handed him over
-to be condemned to death,
-and crucified him.
-[21] But we were hoping
-that it was he
-who would redeem Israel.
-And besides all this,
-it is now the third day
-since these things happened.
-[22] Also, some women of our group
-amazed us.
-They were at the tomb early in the morning.
+He was a prophet.
+His deeds and his words were powerful before God and before all the people.
+[20] The chief priests and our rulers handed him over.
+They had him sentenced to death, and they crucified him.
+[21] But we were hoping that he was the one who would set Israel free.
+And there is more:
+It is now the third day since these things happened.
+[22] Also, some women from our group amazed us.
+They went to the tomb early this morning.
 [23] They didn’t find his body.
-They came and said
-that they had also seen a vision of angels,
-who said
-that he was alive.
-[24] Some of us went to the tomb
-and found it
-just as the women had said.
+They came back and said that they had also seen angels in a vision.
+The angels said that he is alive.
+[24] Some of us went to the tomb.
+They found it just as the women had said.
 But they didn’t see him.”
-[25] He said to them,
-“Foolish people!
-How slow your hearts are
-to believe all
-that the prophets have spoken!
-[26] Didn’t the Christ have to suffer these things
-and enter into his glory?”
-[27] Beginning from Moses and from all the prophets,
-he explained to them
-the things about himself in all the Scriptures.
-[28] They came near the village
-where they were going.
-He acted
-as if he would go further.
-[29] But they urged him,
-saying,
-“Stay with us,
-for it is almost evening,
-and the day is almost over.”
-So he went in
-to stay with them.
-[30] When he had sat down at the table with them,
-he took the bread,
-gave thanks,
-broke it,
-and gave it to them.
-[31] Then their eyes were opened,
-and they recognized him.
-And he vanished out of their sight.
-[32] They said to one another,
-“Weren’t our hearts burning within us
-while he spoke to us along the way
-and opened the Scriptures to us?”
-[33] That very hour they got up
-and returned to Jerusalem.
-There they found the eleven gathered together,
-and those who were with them.
+[25] Jesus said to them,
+“You foolish people!
+Your hearts are so slow to believe everything the prophets have said!
+[26] Didn’t the Christ have to suffer these things and then enter into his glory?”
+[27] Then he explained to them what all the Scriptures say about him.
+He began with Moses and with all the prophets.
+[28] They came near the village they were going to.
+Jesus acted as if he was going on farther.
+[29] But they begged him,
+“Stay with us.
+It is almost evening.
+The day is almost over.”
+So he went in to stay with them.
+[30] He sat down at the table with them.
+He took the bread and gave thanks.
+He broke it and gave it to them.
+[31] Then their eyes were opened, and they recognized him.
+And he disappeared from their sight.
+[32] They said to each other,
+“Weren’t our hearts burning inside us while he talked with us on the road?
+Weren’t they burning while he explained the Scriptures to us?”
+[33] They got up that same hour and went back to Jerusalem.
+There they found the eleven and the others with them.
+They were all gathered together.
 [34] They were saying,
-“The Lord is risen indeed,
-and has appeared to Simon!”
-[35] And the two told
-what had happened along the way,
-and how they had recognized him
-when he broke the bread.
+“The Lord really has risen!
+He has appeared to Simon!”
+[35] Then the two told what had happened on the road.
+They told how they had recognized Jesus when he broke the bread.
 
 > **What does this mean?**
 > Only Luke tells this story. It is one of the most beautiful in the Bible.
@@ -162,7 +115,7 @@ when he broke the bread.
 > Verse 16: The two are so sad and disappointed that they do not recognize Jesus.
 > Verse 18: Cleopas is one of the two. Luke does not give the name of the other. Some interpreters think it was his wife.
 > Verse 20: The two disciples are Jews themselves. They speak of “our rulers.” What is meant is certain leaders, not the people. Important: No guilt of the Jews may be drawn from this.
-> Verse 21: “We were hoping”: Their hope seems to have died. Many people know this feeling. Redeem: set free.
+> Verse 21: “We were hoping”: Their hope seems to have died. Many people know this feeling.
 > Verse 27: Jesus explains the Holy Scriptures of Israel to them, the Old Testament. Without them you cannot understand Jesus.
 > Verses 30–31: They recognize him when he breaks the bread, as at the Last Supper (Luke 22:19). To this day Christians experience this: In worship, in hearing the Scriptures and in the Lord’s Supper, Jesus is near.
 > Verse 34: Jesus appeared to Simon Peter. Paul also speaks of this (1 Corinthians 15:5). Peter, who had denied him, is one of the first he meets.
@@ -172,56 +125,39 @@ when he broke the bread.
 
 ## Jesus appears to the disciples (Verses 36–49)
 
-[36] While they were still talking about this,
-Jesus himself stood among them
-and said to them,
-“Peace be to you.”
-[37] But they were terrified
-and filled with fear.
-They thought
-they were seeing a spirit.
+[36] While they were still talking about this, Jesus himself stood among them.
+He said to them, “Peace be to you.”
+[37] But they were terrified and full of fear.
+They thought they were seeing a spirit.
 [38] He said to them,
-“Why are you troubled?
-Why do doubts arise in your hearts?
-[39] See my hands and my feet:
-It is truly me.
+“Why are you so upset?
+Why do doubts come up in your hearts?
+[39] Look at my hands and my feet.
+It really is me.
 Touch me and see.
-For a spirit doesn’t have flesh and bones,
-as you see that I have.”
-[40] When he had said this,
-he showed them his hands and his feet.
-[41] They still couldn’t believe it for joy,
-and they wondered.
-Then he said to them,
-“Do you have anything here to eat?”
-[42] They gave him a piece of broiled fish
-and some honeycomb.
-[43] He took it
-and ate in front of them.
+A spirit doesn’t have flesh and bones.
+But you see that I have them.”
+[40] After he said this, he showed them his hands and his feet.
+[41] They were so full of joy that they still couldn’t believe it.
+They were amazed.
+Then he said to them, “Do you have anything here to eat?”
+[42] They gave him a piece of cooked fish and some honeycomb.
+[43] He took it and ate it in front of them.
 [44] He said to them,
-“This is what I told you
-while I was still with you:
-All things must be fulfilled
-which are written about me
-in the law of Moses,
-the prophets,
-and the psalms.”
-[45] Then he opened their minds,
-so that they might understand the Scriptures.
+“This is what I told you while I was still with you:
+Everything that is written about me must come true.
+It is written in the law of Moses, in the prophets, and in the psalms.”
+[45] Then he opened their minds, so that they could understand the Scriptures.
 [46] He said to them,
-“Thus it is written:
-The Christ had to suffer
-and to rise from the dead on the third day.
-[47] And in his name
-it must be preached to all the nations
-that they should turn back to God
-and that their sins are forgiven.
-Begin at Jerusalem.
+“This is what is written:
+The Christ had to suffer.
+He had to rise from the dead on the third day.
+[47] And in his name, people must preach to all nations:
+Turn back to God, and your sins will be forgiven.
+They must begin in Jerusalem.
 [48] You are witnesses of these things.
-[49] I am sending on you
-what my Father promised.
-But wait in the city of Jerusalem
-until you are clothed with power from on high.”
+[49] Look, I am sending on you what my Father promised.
+But wait in the city of Jerusalem until you are clothed with power from on high.”
 
 > **What does this mean?**
 > Verse 36: “Peace be to you” is the Jewish greeting “shalom.” It is still spoken in worship services today.
@@ -236,15 +172,13 @@ until you are clothed with power from on high.”
 ## Jesus is taken up into heaven (Verses 50–53)
 
 [50] Jesus led them out as far as Bethany.
-He lifted up his hands
-and blessed them.
-[51] While he blessed them,
-he withdrew from them
-and was carried up into heaven.
-[52] They worshiped him
-and returned to Jerusalem with great joy.
-[53] They were continually in the temple,
-praising and blessing God.
+He lifted up his hands and blessed them.
+[51] While he was blessing them, he left them.
+He was carried up into heaven.
+[52] They worshiped him.
+Then they went back to Jerusalem with great joy.
+[53] They were always in the temple.
+There they praised God and blessed him.
 Amen.
 
 > **What does this mean?**
