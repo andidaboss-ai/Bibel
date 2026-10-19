@@ -5,14 +5,20 @@
 
 ## David’s sons from Hebron (Verses 1–4a)
 
-[1] Now these were the sons of David, who were born to him in Hebron:
-the firstborn, Amnon, of Ahinoam the Jezreelite woman;
-the second, Daniel, of Abigail the Carmelite woman;
-[2] the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;
-the fourth, Adonijah the son of Haggith;
-[3] the fifth, Shephatiah of Abital;
-the sixth, Ithream by Eglah his wife.
-[4] Six were born to him in Hebron.
+[1] These were the sons of David who were born in Hebron:
+The firstborn was Amnon.
+His mother was Ahinoam, the woman from Jezreel.
+The second was Daniel.
+His mother was Abigail, the woman from Carmel.
+[2] The third was Absalom.
+His mother was Maacah, the daughter of Talmai, king of Geshur.
+The fourth was Adonijah.
+His mother was Haggith.
+[3] The fifth was Shephatiah.
+His mother was Abital.
+The sixth was Ithream.
+His mother was Eglah, David’s wife.
+[4] These six sons were born to David in Hebron.
 
 > **What does this mean?**
 > David first reigned in Hebron, over the tribe of Judah (2 Samuel 2:1–4). These six sons were born there. The list is also in 2 Samuel 3:2–5.
@@ -23,17 +29,19 @@ the sixth, Ithream by Eglah his wife.
 
 ## David’s sons from Jerusalem (Verses 4b–9)
 
-He reigned there seven years and six months.
-And he reigned thirty-three years in Jerusalem.
-[5] These were born to him in Jerusalem:
-Shimea, Shobab, Nathan, and Solomon, four,
-by Bathshua the daughter of Ammiel;
-[6] and Ibhar, Elishama, Eliphelet,
+David ruled there for seven years and six months.
+Then he ruled for 33 years in Jerusalem.
+[5] These sons were born to him in Jerusalem:
+Shimea, Shobab, Nathan, and Solomon.
+These four were the sons of Bathshua, the daughter of Ammiel.
+[6] Then there were Ibhar, Elishama, Eliphelet,
 [7] Nogah, Nepheg, Japhia,
-[8] Elishama, Eliada, and Eliphelet, nine.
-[9] All these were the sons of David,
-in addition to the sons of the concubines.
-And Tamar was their sister.
+[8] Elishama, Eliada, and Eliphelet.
+These were nine sons.
+[9] All these were the sons of David.
+David also had sons by his concubines.
+Concubines are wives of lower rank.
+Tamar was the sister of these sons.
 
 > **What does this mean?**
 > “Bathshua” is another form of the name Bathsheba. Her father Ammiel is called “Eliam” in 2 Samuel 11:3.
@@ -46,29 +54,29 @@ And Tamar was their sister.
 
 ## The kings of Judah (Verses 10–16)
 
-[10] Solomon’s son was Rehoboam,
-Abijah his son,
-Asa his son,
-Jehoshaphat his son,
-[11] Joram his son,
-Ahaziah his son,
-Joash his son,
-[12] Amaziah his son,
-Azariah his son,
-Jotham his son,
-[13] Ahaz his son,
-Hezekiah his son,
-Manasseh his son,
-[14] Amon his son,
-and Josiah his son.
-[15] The sons of Josiah:
-the firstborn Johanan,
-the second Jehoiakim,
-the third Zedekiah,
-and the fourth Shallum.
-[16] The sons of Jehoiakim:
-Jeconiah his son,
-and Zedekiah his son.
+[10] Solomon’s son was Rehoboam.
+Rehoboam’s son was Abijah.
+His son was Asa.
+His son was Jehoshaphat.
+[11] His son was Joram.
+His son was Ahaziah.
+His son was Joash.
+[12] His son was Amaziah.
+His son was Azariah.
+His son was Jotham.
+[13] His son was Ahaz.
+His son was Hezekiah.
+His son was Manasseh.
+[14] His son was Amon.
+His son was Josiah.
+[15] The sons of Josiah were:
+Johanan, the firstborn,
+Jehoiakim, the second,
+Zedekiah, the third,
+and Shallum, the fourth.
+[16] The sons of Jehoiakim were
+his son Jeconiah
+and his son Zedekiah.
 
 > **What does this mean?**
 > This is the list of all the kings of Judah from David’s family, over almost 400 years. We know them from the books of Kings. Queen Athaliah is missing, because she did not belong to David’s family.
@@ -81,29 +89,31 @@ and Zedekiah his son.
 
 ## David’s family after the exile (Verses 17–24)
 
-[17] The sons of Jeconiah, the captive:
-Shealtiel his son,
+[17] Jeconiah was taken away as a prisoner.
+His sons were
+his son Shealtiel,
 [18] Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
-[19] The sons of Pedaiah:
+[19] The sons of Pedaiah were
 Zerubbabel and Shimei.
-The sons of Zerubbabel:
+The sons of Zerubbabel were
 Meshullam and Hananiah.
-And Shelomith was their sister.
-[20] And Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed, five.
-[21] The sons of Hananiah:
-Pelatiah and Jeshaiah;
-the sons of Rephaiah,
+Their sister was Shelomith.
+[20] There were also five more:
+Hashubah, Ohel, Berechiah, Hasadiah, and Jushab Hesed.
+[21] The sons of Hananiah were
+Pelatiah and Jeshaiah.
+Then came the sons of Rephaiah,
 the sons of Arnan,
 the sons of Obadiah,
-the sons of Shecaniah.
-[22] The son of Shecaniah:
+and the sons of Shecaniah.
+[22] The son of Shecaniah was
 Shemaiah.
-The sons of Shemaiah:
-Hattush, Igal, Bariah, Neariah, and Shaphat, six.
-[23] The sons of Neariah:
-Elioenai, Hizkiah, and Azrikam, three.
-[24] The sons of Elioenai:
-Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
+The sons of Shemaiah were
+Hattush, Igal, Bariah, Neariah, and Shaphat, six in all.
+[23] The sons of Neariah were
+Elioenai, Hizkiah, and Azrikam, three in all.
+[24] The sons of Elioenai were
+Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven in all.
 
 > **What does this mean?**
 > This is an important message: David’s family did not perish in the exile! Jeconiah (Jehoiachin) was a prisoner in Babylon (2 Kings 25:27). But his descendants lived on.

@@ -70,7 +70,8 @@ def innenteil_html(band, alle, seiten_der_buecher=None, marken=True, leer=()):
     css = open(os.path.join(HIER, "druck.css"), encoding="utf-8").read()
     if EN:
         # Englischer Text ist länger: etwas kleinerer Satz und Silbentrennung, damit jeder Band unter 550 Seiten bleibt
-        css += "\nbody { font-size: 9pt; line-height: 1.23; hyphens: auto; }\n"
+        css += ("\nbody { font-size: 9pt; line-height: 1.2; hyphens: auto; }"
+                "\np.v { margin-bottom: 1.8pt; } .box p { font-size: 8.3pt; line-height: 1.2; }\n")
 
     teile = []
     # Titelei

@@ -5,38 +5,24 @@
 
 ## The Lamb and the 144,000 (Verses 1–5)
 
-[1] I saw,
-and look:
-The Lamb was standing on Mount Zion.
-And with him were one hundred forty-four thousand.
-They had his name
-and the name of his Father
-written on their foreheads.
-[2] I heard a sound from heaven
-like the sound of many waters
-and like the sound of a great thunder.
-The sound
-which I heard
-was like that of harpists
-playing on their harps.
-[3] They sing a new song
-before the throne
-and before the four living creatures
-and the elders.
-No one could learn the song
-except the one hundred forty-four thousand,
-who had been redeemed out of the earth.
+[1] I looked, and there was the Lamb standing on Mount Zion.
+With him were 144,000 people.
+His name and the name of his Father were written on their foreheads.
+[2] I heard a sound from heaven.
+It was like the sound of many waters and like the sound of loud thunder.
+The sound I heard was like harpists playing their harps.
+[3] They sing a new song before the throne,
+before the four living creatures, and before the elders.
+No one could learn the song except the 144,000.
+They had been redeemed from the earth.
 Redeemed means: bought free.
-[4] These are those
-who were not defiled with women,
+[4] These are the people who have not made themselves unclean with women,
 for they are virgins.
-These are those
-who follow the Lamb
-wherever he goes.
-They were redeemed by Jesus from among people,
-as the first fruits to God and to the Lamb.
-[5] In their mouth was found no lie,
-for they are blameless.
+They follow the Lamb wherever he goes.
+Jesus redeemed them from among the people.
+They are the first fruits for God and for the Lamb.
+[5] No lie was found in their mouths.
+They are without fault.
 
 > **What does this mean?**
 > Verse 1: After the evil beasts in Chapter 13 comes a contrasting picture: the Lamb on Mount Zion in Jerusalem. The people there don’t bear the mark of the beast, but the name of God.
@@ -53,58 +39,37 @@ for they are blameless.
 
 ## Three angels with messages (Verses 6–13)
 
-[6] I saw another angel
-flying high up in the sky.
-He had an eternal Good News
-to proclaim to those
-who dwell on the earth:
-to every nation,
-tribe,
-language
-and people.
+[6] I saw an angel flying high in the sky.
+He had Good News that lasts forever.
+He was to announce it to those who live on the earth:
+to every nation, tribe, language, and people.
 [7] He said with a loud voice,
-“Fear the Lord
-and give him glory,
+“Fear the Lord and give him glory,
 for the hour of his judgment has come.
-Worship him
-who made the heaven, the earth,
-the sea and the springs of waters!”
-[8] Another,
-a second angel,
-followed, saying,
+Worship the one who made heaven, the earth, the sea, and the springs of water!”
+[8] Another angel, a second one, followed him.
+He said,
 “Babylon the great has fallen!
-She has made all the nations
-drink of the wine of the wrath of her sexual immorality.”
-[9] Another angel,
-a third,
-followed them,
-saying with a great voice,
-“If anyone worships the beast and his image
+She made all the nations drink the wine of the anger of her sexual immorality.”
+[9] Another angel, a third one, followed them.
+He said with a loud voice,
+“If anyone worships the beast and his image,
 and receives a mark on his forehead or on his hand,
-[10] he also will drink of the wine of the wrath of God,
-which is prepared unmixed in the cup of his anger.
+[10] he too will drink the wine of God’s anger.
+It is poured out at full strength into the cup of his anger.
 He will be tormented with fire and sulfur
-in the presence of the holy angels
-and in the presence of the Lamb.
-[11] The smoke of their torment goes up
-forever and ever.
-They have no rest,
-day and night,
-those who worship the beast and his image,
-and whoever receives the mark of his name.
-[12] Here is the perseverance of the saints,
-those who keep the commandments of God
-and the faith of Jesus.”
-[13] I heard a voice from heaven
-saying,
-“Write:
-‘Blessed are the dead
-who die in the Lord
-from now on.’”
-“Yes,”
-says the Spirit,
-“so that they may rest from their labors.
-For their works follow with them.”
+in front of the holy angels and in front of the Lamb.
+[11] The smoke of their torment goes up forever and ever.
+Those who worship the beast and his image have no rest, day or night.
+The same is true for anyone who receives the mark of his name.
+[12] This is where the saints need to endure.
+They keep the commandments of God and the faith of Jesus.”
+[13] I heard a voice from heaven say,
+“Write this:
+‘Blessed are the dead who die in the Lord from now on.’”
+“Yes,” says the Spirit,
+“they will rest from their hard work,
+for their works go with them.”
 
 > **What does this mean?**
 > Verses 6–7: Before the judgment comes, the Good News is proclaimed to all peoples once more. God calls all people. He wants all to repent.
@@ -122,44 +87,37 @@ For their works follow with them.”
 
 ## The harvest of the earth (Verses 14–20)
 
-[14] I looked,
-and I saw a white cloud.
-And on the cloud sat one like a son of man.
-He had a golden crown on his head
-and a sharp sickle in his hand.
+[14] I looked, and I saw a white cloud.
+On the cloud sat one like a son of man.
+He had a golden crown on his head and a sharp sickle in his hand.
 A sickle is a curved knife for harvesting.
 [15] Another angel came out of the temple.
-He cried with a loud voice to him
-who sat on the cloud,
-“Send your sickle and reap!
-For the hour to reap has come.
+He called out with a loud voice to the one who sat on the cloud,
+“Swing your sickle and harvest!
+For the hour to harvest has come.
 The harvest of the earth is ripe!”
-[16] Then he
-who sat on the cloud
-thrust his sickle on the earth.
-And the earth was reaped.
-[17] Another angel came out of the temple
-which is in heaven.
-He also had a sharp sickle.
-[18] And another angel came out from the altar.
-He had power over fire.
-He called with a great voice to him
-who had the sharp sickle,
-“Send your sharp sickle
-and gather the clusters of the vine of the earth!
-For the earth’s grapes are fully ripe!”
-[19] Then the angel thrust his sickle into the earth
-and gathered the vintage of the earth.
-And he threw it into the great wine press
-of the wrath of God.
-[20] The wine press was trodden outside of the city.
-And blood came out of the wine press,
-up to the bridles of the horses,
-as far as one thousand six hundred stadia.
+[16] So the one who sat on the cloud swung his sickle over the earth.
+And the earth was harvested.
+[17] Another angel came out of the temple in heaven.
+He too had a sharp sickle.
+[18] Another angel came out from the altar.
+He has power over fire.
+He called out with a loud voice to the angel who had the sharp sickle,
+“Swing your sharp sickle!
+Gather the bunches of grapes from the vine of the earth,
+for the earth’s grapes are fully ripe!”
+[19] So the angel swung his sickle over the earth.
+He gathered the grapes of the earth.
+He threw them into the great winepress of God’s anger.
+A winepress is a large tub where people crush grapes to make wine.
+[20] The grapes were crushed in the winepress outside the city.
+Blood came out of the winepress.
+It was as high as the horses’ bridles,
+and it spread for 1,600 stadia.
 
 > **What does this mean?**
 > Verse 14: “One like a son of man” is Jesus (compare 1:13 and Daniel 7:13).
 > Verses 14–16: The grain harvest is perhaps a picture for God gathering his own. Jesus himself spoke of the harvest as a picture for the end of time (compare Matthew 13:30, 39).
 > Verses 17–20: The grape harvest is a picture for God’s judgment on evil. It recalls Joel 4:13 (in some Bibles Joel 3:13) and Isaiah 63:1–6.
 > Verse 20: 1,600 stadia are about 185 miles (300 kilometers). That is about the length of the land of Israel. The number is a picture: The judgment concerns the whole world. It is not a description of real bloodshed that people are to cause. Judgment belongs to God alone.
-> “Outside of the city”: Jesus too was crucified outside the city (Hebrews 13:12).
+> “Outside the city”: Jesus too was crucified outside the city (Hebrews 13:12).

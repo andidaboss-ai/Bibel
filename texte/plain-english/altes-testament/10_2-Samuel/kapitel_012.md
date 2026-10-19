@@ -6,26 +6,27 @@
 ## Nathan’s story about the lamb (Verses 1–6)
 
 [1] The LORD sent Nathan to David.
-He came to him and said to him,
-“There were two men in one city,
-the one rich and the other poor.
-[2] The rich man had very many flocks and herds.
-[3] But the poor man had nothing except one little ewe lamb,
-which he had bought and raised.
-It grew up together with him and with his children.
-It ate from his own food, drank from his own cup, and lay in his arms.
+Nathan came to David and said,
+“There were two men in a city.
+One was rich, and the other was poor.
+[2] The rich man had very many sheep and cattle.
+[3] But the poor man had nothing except one little female lamb.
+He had bought it and raised it.
+It grew up together with him and his children.
+It ate from his food and drank from his cup.
+It slept in his arms.
 It was like a daughter to him.
-[4] A traveler came to the rich man.
-But he did not want to take anything from his own flock and his own herd
-to prepare for the traveler who had come to him.
+[4] One day a traveler came to visit the rich man.
+The rich man did not want to take one of his own sheep or cattle
+to cook a meal for his guest.
 Instead he took the poor man’s lamb
-and prepared it for the man who had come to him.”
-[5] Then David’s anger burned hot against the man,
-and he said to Nathan,
-“As the LORD lives,
-the man who has done this deserves to die!
-[6] He must pay back the lamb four times over,
-because he did this and because he had no pity!”
+and cooked it for the man who had come to him.”
+[5] David became very angry with the rich man.
+He said to Nathan,
+“As surely as the LORD lives,
+the man who did this deserves to die!
+[6] He must pay back four lambs for that one lamb.
+He did this terrible thing, and he had no pity!”
 
 > **What does this mean?**
 > Almost a year has passed. The child has already been born. David thinks that everything has been forgotten. But God sends the prophet Nathan.
@@ -38,30 +39,31 @@ because he did this and because he had no pity!”
 
 ## “You are the man!” (Verses 7–12)
 
-[7] Nathan said to David,
+[7] Then Nathan said to David,
 “You are the man!
 This is what the LORD, the God of Israel, says:
-‘I anointed you king over Israel,
-and I rescued you from the hand of Saul.
-[8] I gave you your master’s house
-and put your master’s wives into your arms.
-And I gave you the house of Israel and of Judah.
+‘I anointed you as king over Israel.
+I saved you from Saul.
+[8] I gave you your master’s palace.
+I put your master’s wives into your arms.
+I gave you the people of Israel and of Judah.
 And if that had been too little,
-I would have given you much more besides.
-[9] Why have you despised the word of the LORD
-and done what is evil in his sight?
-You have struck down Uriah the Hittite with the sword.
-You have taken his wife to be your wife.
-And you have killed him with the sword of the people of Ammon.
-[10] So now the sword will never leave your house,
-because you have despised me
-and have taken the wife of Uriah the Hittite to be your wife.’
+I would have given you much more.
+[9] So why have you treated the word of the LORD with contempt?
+Why have you done what is evil in his eyes?
+You killed Uriah the Hittite with the sword.
+You took his wife to be your own wife.
+You had him killed by the sword of the people of Ammon.
+[10] So now the sword will never leave your family.
+You have treated me with contempt.
+You took the wife of Uriah the Hittite to be your own wife.’
 [11] “This is what the LORD says:
-‘I will bring trouble against you out of your own house.
-I will take your wives before your eyes and give them to your neighbor.
-And he will sleep with your wives in the sight of this sun.
-[12] For you did this in secret.
-But I will do this before all Israel and before the sun.’”
+‘I will bring trouble on you from your own family.
+I will take your wives while you watch.
+I will give them to another man who is close to you.
+He will sleep with your wives in broad daylight.
+[12] You did this in secret.
+But I will do this in front of all Israel, in broad daylight.’”
 
 > **What does this mean?**
 > “You are the man!” In Hebrew these are only two words. They are among the bravest sentences in the Bible. A prophet tells the most powerful man in the land to his face: you are guilty. Nathan risks his life.
@@ -81,7 +83,7 @@ Nathan said to David,
 “The LORD has also taken away your sin.
 You will not die.
 [14] But by this deed you have given the enemies of the LORD great reason to mock him.
-That is why the son who has been born to you will surely die.”
+So the son who has been born to you will surely die.”
 
 > **What does this mean?**
 > David makes no excuses. He does not push the blame onto others, as Saul always did. He simply says: “I have sinned against the LORD.” That is the great difference between Saul and David.
@@ -95,38 +97,42 @@ That is why the son who has been born to you will surely die.”
 
 ## The child dies (Verses 15–23)
 
-[15] Then Nathan went to his house.
-And the LORD struck the child that Uriah’s wife had borne to David,
-and he became very sick.
-[16] So David begged God for the child.
-David fasted, went in, and lay all night on the ground.
-[17] The elders of his household stood beside him
-to lift him up from the ground.
-But he would not, and he did not eat bread with them.
+[15] Then Nathan went home.
+The LORD struck the child that Uriah’s wife had given birth to for David.
+The child became very sick.
+[16] David begged God to let the child live.
+He fasted and did not eat.
+He went into his room and lay on the ground all night.
+[17] The leaders of his household stood around him.
+They wanted to help him up from the ground.
+But he refused.
+He would not eat any food with them.
 [18] On the seventh day the child died.
 David’s servants were afraid to tell him that the child was dead.
-For they said,
-“While the child was still alive, we spoke to him,
-and he did not listen to us.
-How can we tell him that the child is dead? He might harm himself.”
-[19] But when David saw that his servants were whispering together,
-David understood that the child was dead.
-David said to his servants,
+They said,
+“While the child was still alive, we talked to him.
+But he would not listen to us.
+How can we tell him that the child is dead?
+He might do something to hurt himself.”
+[19] But David saw that his servants were whispering to each other.
+Then he understood that the child was dead.
+He asked his servants,
 “Is the child dead?”
-They said, “He is dead.”
+They answered, “Yes, he is dead.”
 [20] Then David got up from the ground.
-He washed, anointed himself, and changed his clothes.
+He washed, put oil on his skin, and changed his clothes.
 He went into the house of the LORD and worshiped.
-Then he went to his own house.
-He asked for food, and they set bread before him, and he ate.
-[21] Then his servants said to him,
-“What is this that you have done?
-You fasted and wept for the child while he was alive.
-But now that the child is dead, you get up and eat bread.”
-[22] He said,
+Then he went home.
+He asked for food.
+They served him a meal, and he ate.
+[21] His servants asked him,
+“Why are you acting like this?
+While the child was alive, you fasted and wept for him.
+But now that the child is dead, you get up and eat.”
+[22] David answered,
 “While the child was still alive, I fasted and wept.
-For I said,
-‘Who knows? Maybe the LORD will be gracious to me, and the child will live.’
+I thought,
+‘Who knows? Maybe the LORD will be gracious to me and let the child live.’
 [23] But now he is dead.
 Why should I fast?
 Can I bring him back again?
@@ -143,12 +149,12 @@ but he will not come back to me.”
 
 ## Solomon is born (Verses 24–25)
 
-[24] David comforted his wife Bathsheba.
-He went in to her and slept with her.
-She gave birth to a son, and he named him Solomon.
-And the LORD loved him.
-[25] He sent a message through Nathan the prophet,
-and he named him Jedidiah, for the LORD’s sake.
+[24] David comforted Bathsheba, his wife.
+He went to her and slept with her.
+She gave birth to a son, and David named him Solomon.
+The LORD loved the boy.
+[25] He sent a message through Nathan the prophet.
+Nathan named the boy Jedidiah, for the LORD’s sake.
 
 > **What does this mean?**
 > For the first time Bathsheba is called “his wife,” no longer “Uriah’s wife.” And for the first time we are told that David comforts her. She too has lost a child.
@@ -159,26 +165,28 @@ and he named him Jedidiah, for the LORD’s sake.
 
 ## The conquest of Rabbah (Verses 26–31)
 
-[26] Joab fought against Rabbah of the people of Ammon
-and took the royal city.
-[27] Joab sent messengers to David and said,
+[26] Meanwhile Joab fought against Rabbah, the city of the people of Ammon.
+He captured the royal part of the city.
+[27] Joab sent messengers to David.
+He told them to say,
 “I have fought against Rabbah.
-Yes, I have taken the city of waters.
-[28] So now gather the rest of the people together,
-lay siege to the city, and take it.
-Otherwise I will take the city, and it will be called by my name.”
-[29] So David gathered all the people together and went to Rabbah.
-He fought against it and took it.
-[30] He took the crown of their king from his head.
-It weighed about 75 pounds of gold,
-and there were precious stones in it.
-And it was set on David’s head.
-He brought a great amount of plunder out of the city.
-[31] He brought out the people who were in it
-and put them to work with saws, with iron picks, and with iron axes,
-and he made them work at the brick kilns.
-He did this to all the cities of the people of Ammon.
-Then David and all the people went back to Jerusalem.
+I have taken the city of waters.
+[28] Now gather the rest of the army.
+Surround the city and capture it.
+Otherwise I will capture the city myself,
+and it will be named after me.”
+[29] So David gathered the whole army and went to Rabbah.
+He fought against the city and captured it.
+[30] He took the crown off the head of their king.
+It was made of about 75 pounds of gold,
+and it had precious stones in it.
+They put it on David’s head.
+David took a great amount of plunder out of the city.
+[31] He brought out the people who lived there.
+He made them work with saws, iron picks, and iron axes.
+He made them work at the brick kilns.
+He did the same to all the cities of the people of Ammon.
+Then David and his whole army went back to Jerusalem.
 
 > **What does this mean?**
 > Rabbah is today’s Amman, the capital of Jordan. The “city of waters” was probably the part of the city with the water supply. After that, the city could not hold out much longer.

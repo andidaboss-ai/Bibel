@@ -11,61 +11,35 @@
 
 ## Ananias and Sapphira (Verses 1–11)
 
-[1] A man named Ananias,
-with his wife Sapphira,
-sold a piece of property.
-[2] He kept back part of the price for himself.
+[1] There was a man named Ananias.
+He and his wife Sapphira sold a piece of property.
+[2] He kept back part of the money for himself.
 His wife knew about it.
-He brought only a part
-and laid it at the apostles’ feet.
-[3] But Peter said,
-“Ananias,
-why has Satan filled your heart
-to lie to the Holy Spirit
-and to keep back part of the price of the land?
-[4] While you kept it,
-didn’t it remain your own?
-And after it was sold,
-wasn’t the money in your power?
-How is it
-that you have planned this thing in your heart?
-You haven’t lied to men,
-but to God.”
-[5] When Ananias heard these words,
-he fell down
-and died.
-Great fear came on all
-who heard these things.
-[6] The young men got up,
-wrapped him up,
-carried him out,
-and buried him.
-[7] About three hours later,
-his wife came in.
-She didn’t know
-what had happened.
-[8] Peter asked her,
-“Tell me
-whether you sold the land for so much.”
-She said,
-“Yes, for so much.”
-[9] But Peter said to her,
-“How is it
-that you have agreed together
-to test the Spirit of the Lord?
-The feet of those
-who have buried your husband
-are at the door,
-and they will carry you out.”
-[10] Immediately she fell down at his feet
-and died.
-The young men came in
-and found her dead.
-They carried her out
-and buried her by her husband.
-[11] Great fear came on the whole assembly,
-and on all
-who heard these things.
+He brought only part of the money and put it at the apostles’ feet.
+[3] But Peter said, “Ananias, why has Satan filled your heart?
+You lied to the Holy Spirit.
+You kept back part of the money for the land.
+[4] Before you sold it, the land belonged to you, didn’t it?
+And after you sold it, you could do what you wanted with the money.
+So why did you plan this in your heart?
+You haven’t lied to people, but to God.”
+[5] When Ananias heard these words, he fell down and died.
+Everyone who heard about it was filled with great fear.
+[6] The young men got up and wrapped up his body.
+They carried him out and buried him.
+[7] About three hours later his wife came in.
+She didn’t know what had happened.
+[8] Peter asked her, “Tell me: Did you sell the land for this much?”
+She said, “Yes, for that much.”
+[9] But Peter said to her, “Why did the two of you agree to test the Spirit of the Lord?
+Listen!
+The men who buried your husband are at the door.
+They will carry you out too.”
+[10] At once she fell down at his feet and died.
+The young men came in and found her dead.
+They carried her out and buried her next to her husband.
+[11] Great fear came on the whole assembly.
+And great fear came on everyone who heard about these things.
 
 > **What does this mean?**
 > Verse 4 is important: Ananias didn’t have to give anything. The land and the money belonged to him. Sharing in the church was voluntary. His mistake was not that he kept something, but that he lied. He wanted to pretend that he had given everything.
@@ -78,24 +52,18 @@ who heard these things.
 
 ## Many are healed (Verses 12–16)
 
-[12] By the hands of the apostles
-many signs and wonders were done among the people.
-They were all together of one mind in Solomon’s porch.
-[13] None of the rest dared
-to join them.
+[12] The apostles did many signs and wonders among the people.
+The believers all met together, of one mind, in Solomon’s porch.
+[13] None of the rest dared to join them.
 But the people thought highly of them.
-[14] More and more believers were added to the Lord,
-crowds of both men and women.
-[15] They even carried the sick out into the streets
-and laid them on cots and mattresses,
-so that as Peter came by,
-at least his shadow
-might fall on some of them.
-[16] Crowds also came together
-from the cities around Jerusalem.
-They brought sick people
-and those who were tormented by unclean spirits.
-And they were all healed.
+[14] More and more people believed in the Lord and were added to them.
+Crowds of men and women came.
+[15] People even carried the sick out into the streets.
+They laid them on cots and mats.
+They hoped that at least Peter’s shadow would fall on some of them when he came by.
+[16] Crowds also came from the towns around Jerusalem.
+They brought sick people and people who were tormented by unclean spirits.
+And all of them were healed.
 
 > **What does this mean?**
 > Verse 13: “The rest” were probably people who hesitated or were afraid. Even so, the church grows (verse 14).
@@ -107,53 +75,32 @@ And they were all healed.
 
 ## The apostles are set free (Verses 17–26)
 
-[17] But the high priest rose up,
-and all those who were with him,
-which is the party of the Sadducees.
+[17] But the high priest and all his friends took action.
+They belonged to the party of the Sadducees.
 They were filled with jealousy.
-[18] They arrested the apostles
-and put them in the public prison.
-[19] But during the night an angel of the Lord
-opened the prison doors.
-He brought them out
-and said,
-[20] “Go,
-stand in the temple
-and speak to the people all the words of this life.”
-[21] When they heard this,
-they went into the temple about daybreak
-and taught.
-But the high priest and those who were with him came
-and called the council together,
-with all the elders of the children of Israel.
-They sent to the prison
-to have the apostles brought.
-[22] But the officers
-who went
-didn’t find them in the prison.
-They returned
-and reported,
-[23] “We found the prison shut and locked,
-and the guards standing in front of the doors.
-But when we opened them,
-we found no one inside!”
-[24] When the high priest,
-the captain of the temple,
-and the chief priests heard these words,
-they were very puzzled.
-They wondered
-what might come of this.
-[25] Then someone came
-and told them,
-“The men
-whom you put in prison
-are standing in the temple
-and teaching the people!”
-[26] Then the captain went with the officers
-and brought them,
-but without violence.
-For they were afraid
-that the people might stone them.
+[18] They arrested the apostles and put them in the public prison.
+[19] But during the night an angel of the Lord opened the prison doors.
+He led them out and said,
+[20] “Go and stand in the temple.
+Tell the people all the words of this life.”
+[21] When they heard this, they went into the temple at daybreak and began to teach.
+The high priest and those with him came.
+They called together the council and all the elders of the children of Israel.
+Then they sent men to the prison to bring the apostles.
+[22] But the officers went to the prison, and the apostles were not there.
+So they came back and reported:
+[23] “We found the prison shut and locked.
+The guards were standing at the doors.
+But when we opened them, we found no one inside!”
+[24] The high priest, the captain of the temple, and the chief priests heard this.
+They were very confused.
+They wondered what would come of this.
+[25] Then someone came and told them, “Look!
+The men you put in prison are standing in the temple.
+They are teaching the people!”
+[26] Then the captain went with the officers and brought the apostles back.
+But they did not use force.
+They were afraid that the people might stone them.
 
 > **What does this mean?**
 > Verse 17: Again it is the party of the Sadducees, a small group of powerful people. The people are on the side of the apostles (verse 26).
@@ -164,79 +111,49 @@ that the people might stone them.
 
 ## “We must obey God” (Verses 27–42)
 
-[27] When they had brought them,
-they set them before the council.
+[27] They brought the apostles in and made them stand in front of the council.
 The high priest questioned them.
-[28] He said,
-“Didn’t we strictly command you
-not to teach in this name?
-And you have filled Jerusalem with your teaching.
-You intend to bring this man’s blood on us.”
-[29] But Peter and the apostles answered,
-“We must obey God rather than men.
-[30] The God of our fathers raised up Jesus.
-You killed him
-by hanging him on a tree.
-[31] God lifted him up with his right hand
-to be a Prince and a Savior,
-to give Israel repentance
-and forgiveness of sins.
-[32] We are his witnesses of these things,
-and so also is the Holy Spirit,
-whom God has given to those
-who obey him.”
-[33] When they heard this,
-they were cut to the heart.
-And they were determined
-to kill the apostles.
-[34] But a Pharisee stood up in the council.
-His name was Gamaliel.
-He was a teacher of the law,
-honored by all the people.
-He ordered
-that the apostles be put outside for a little while.
-[35] Then he said to them,
-“You men of Israel,
-be careful
-what you are about to do to these men.
-[36] For some time ago Theudas rose up.
-He made himself out to be somebody.
+[28] He said, “We gave you strict orders not to teach in this name, didn’t we?
+But look, you have filled Jerusalem with your teaching.
+And you want to bring this man’s blood on us.”
+[29] But Peter and the apostles answered, “We must obey God rather than men.
+[30] The God of our fathers raised Jesus from the dead.
+You killed him by hanging him on a tree.
+[31] God lifted him up to his right hand.
+God made him Prince and Savior.
+Through him God gives Israel the chance to repent and have their sins forgiven.
+[32] We are witnesses of these things.
+The Holy Spirit is a witness too.
+God has given the Holy Spirit to those who obey him.”
+[33] When the council heard this, it cut them to the heart.
+They decided to kill the apostles.
+[34] But a Pharisee named Gamaliel stood up in the council.
+He was a teacher of the law.
+All the people respected him.
+He ordered that the apostles be taken outside for a little while.
+[35] Then he said to the council, “Men of Israel, be careful what you do to these men.
+[36] Some time ago Theudas rose up.
+He claimed to be somebody important.
 About four hundred men joined him.
-He was killed,
-and all
-who followed him
-were scattered.
-It came to nothing.
-[37] After him, Judas of Galilee rose up,
-in the days of the census.
-He drew some people away
-to follow him.
-He also died,
-and all
-who followed him
-were scattered.
-[38] So now I tell you:
-Stay away from these men
-and leave them alone!
-For if this plan or this work is from men,
-it will fall apart.
-[39] But if it is from God,
-you will not be able to destroy it.
-And you might even be found
-to be fighting against God!”
-[40] They agreed with him.
-They called the apostles in,
-had them beaten,
-and commanded them
-not to speak in the name of Jesus.
+He was killed.
+All his followers were scattered, and it came to nothing.
+[37] After him, Judas of Galilee rose up.
+That was at the time of the census.
+He got some people to follow him.
+He also died, and all his followers were scattered.
+[38] So now I tell you: Stay away from these men!
+Leave them alone!
+If this plan or this work comes from people, it will fail.
+[39] But if it comes from God, you will not be able to stop it.
+You might even find yourselves fighting against God!”
+[40] The council agreed with him.
+They called the apostles in and had them beaten.
+They ordered them not to speak in the name of Jesus.
 Then they let them go.
-[41] So the apostles left the council.
-They rejoiced
-that they had been counted worthy
-to suffer dishonor for Jesus’ name.
-[42] Every day, in the temple and at home,
-they never stopped
-teaching and preaching Jesus, the Christ.
+[41] The apostles left the council full of joy.
+They were glad that they had been counted worthy to suffer shame for the name of Jesus.
+[42] Every day, in the temple and at home, they kept on teaching.
+They never stopped telling the good news of Jesus, the Christ.
 
 *census* = counting of the people
 

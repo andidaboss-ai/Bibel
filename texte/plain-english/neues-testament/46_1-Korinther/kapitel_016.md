@@ -5,24 +5,18 @@
 
 ## The collection for Jerusalem (Verses 1–4)
 
-[1] Now about the collection for the saints:
-Do
-as I commanded the assemblies of Galatia.
-[2] On the first day of every week
-let each one of you set something aside,
+[1] Now about the collection for God’s holy people.
+A collection is money that is gathered for a good purpose.
+Do what I told the churches in Galatia to do.
+[2] On the first day of every week,
+each of you should put some money aside,
 as much as he is able.
-Then no collections will have to be made
-when I come.
-[3] When I arrive,
-I will send those
-whom you choose
-with letters.
-They will carry your gift to Jerusalem.
-[4] If it is right
-for me to go also,
+Then no collections will have to be made when I come.
+[3] When I arrive, I will send the people you choose.
+I will give them letters.
+They will take your gift to Jerusalem.
+[4] If it seems right for me to go too,
 they will go with me.
-
-*collection* = money that is gathered for a good purpose
 
 > **What does this mean?**
 > The church in Jerusalem was poor. Paul collected money for it in many churches (compare Romans 15:25–27).
@@ -34,35 +28,29 @@ they will go with me.
 
 ## Travel plans (Verses 5–12)
 
-[5] I will come to you
-when I have passed through Macedonia.
-For I am passing through Macedonia.
+[5] I will come to you after I have traveled through Macedonia.
+I am going to travel through Macedonia.
 [6] Perhaps I will stay with you for a while,
 or even spend the winter with you.
-Then you can send me on my journey,
-wherever I go.
-[7] For I don’t want to see you this time only in passing.
-I hope
-to stay with you for a while,
-if the Lord permits.
-[8] But I will stay at Ephesus until Pentecost.
-[9] For a great and effective door has opened to me,
-and there are many opponents.
-[10] If Timothy comes,
-make sure
-that he can be with you without fear.
-For he does the work of the Lord,
-as I also do.
-[11] So let no one despise him.
-Send him on his way in peace,
-so that he may come to me.
-For I am expecting him with the brothers.
+Then you can help me on my journey,
+wherever I go next.
+[7] This time I do not want to see you only in passing.
+I hope to stay with you for a while,
+if the Lord allows it.
+[8] But I will stay in Ephesus until Pentecost.
+[9] A great and effective door has opened to me.
+And there are many people against me.
+[10] Timothy may come to you.
+If he does, make sure that he has nothing to fear while he is with you.
+He is doing the Lord’s work, just as I am.
+[11] So no one should look down on him.
+Help him on his way in peace,
+so that he can come back to me.
+I am waiting for him and the brothers.
 [12] Now about our brother Apollos:
-I strongly urged him
-to come to you with the brothers.
-But he did not want to come at all now.
-But he will come
-when he has an opportunity.
+I strongly urged him to visit you with the brothers.
+But he did not want to come now at all.
+He will come when he has the chance.
 
 > **What does this mean?**
 > Verse 8: Paul writes this letter in Ephesus, a large city in what is now Turkey. At that time “Pentecost” was the Jewish Feast of Weeks, 50 days after Passover.
@@ -74,26 +62,20 @@ when he has an opportunity.
 
 ## Last words of advice (Verses 13–18)
 
-[13] Watch!
+[13] Stay alert!
 Stand firm in the faith!
-Be courageous!
+Be brave!
 Be strong!
-[14] Let all that you do
-be done in love.
-[15] Now I beg you, brothers:
-You know the household of Stephanas.
-They are the first in Achaia
-who came to believe.
-And they have given themselves to serving the saints.
-[16] Submit to such people
-and to everyone
-who helps in the work and labors hard.
-[17] I rejoice
-that Stephanas, Fortunatus and Achaicus have come.
-For they made up for
-what was lacking on your part.
-[18] They refreshed my spirit
-and yours.
+[14] Let all that you do be done in love.
+[15] Brothers, I ask you something.
+You know the family of Stephanas.
+They were the first people in Achaia to believe.
+And they have given themselves to serving God’s holy people.
+[16] Follow the lead of such people,
+and of everyone who works and labors hard with them.
+[17] I am happy that Stephanas, Fortunatus and Achaicus have come.
+They have made up for what I was missing from you.
+[18] They have refreshed my spirit and yours.
 So value people like that.
 
 > **What does this mean?**
@@ -105,18 +87,16 @@ So value people like that.
 
 ## Greetings and blessing (Verses 19–24)
 
-[19] The assemblies of the province of Asia greet you.
-Aquila and Priscilla greet you warmly in the Lord,
-together with the assembly in their house.
-[20] All the brothers greet you.
+[19] The churches of Asia send you greetings.
+Aquila and Priscilla and the church that meets in their house
+send you warm greetings in the Lord.
+[20] All the brothers send you greetings.
 Greet one another with a holy kiss.
-[21] This greeting is by me,
-Paul,
-with my own hand.
-[22] If anyone doesn’t love the Lord Jesus Christ,
+[21] I, Paul, write this greeting with my own hand.
+[22] If anyone does not love the Lord Jesus Christ,
 let him be cursed.
 Come, Lord!
-[23] The grace of the Lord Jesus Christ be with you.
+[23] May the grace of the Lord Jesus Christ be with you.
 [24] My love to all of you in Christ Jesus.
 Amen.
 

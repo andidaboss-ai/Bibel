@@ -5,52 +5,52 @@
 
 ## The parable of the wicked farmers (Verses 1–12)
 
-[1] Jesus began to speak to them in parables:
-“A man planted a vineyard.
-He put a hedge around it,
-dug a pit for the winepress,
-and built a tower.
-Then he rented it out to a farmer
-and went into another country.
-[2] When the time came,
-he sent a servant to the farmer
-to get from him his share of the fruit of the vineyard.
-[3] They took him,
-beat him,
-and sent him away empty-handed.
-[4] Again he sent another servant to them.
-They threw stones at him,
-wounded him in the head,
-and sent him away shamefully treated.
-[5] Again he sent another.
+[1] Jesus began to speak to them in parables.
+A parable is a story that teaches something.
+He said, “A man planted a vineyard.
+He put a hedge around it.
+He dug a pit for the winepress.
+And he built a watchtower.
+Then he rented the vineyard out to a farmer
+and went to another country.
+[2] When harvest time came,
+he sent a servant to the farmer.
+The servant was to get the owner’s share of the grapes from the farmer.
+[3] But the farmers grabbed the servant.
+They beat him
+and sent him away with nothing.
+[4] Then the owner sent another servant to them.
+They threw stones at him
+and hurt him on the head.
+They treated him shamefully and sent him away.
+[5] The owner sent another servant.
 They killed him.
-And so it went with many others:
-some they beat,
+It was the same with many others:
+Some they beat,
 and some they killed.
-[6] He still had one left,
-his beloved son.
-He sent him to them last,
-saying,
+[6] The owner still had one person left to send:
+his son, whom he loved.
+He sent him to them last.
+He said,
 ‘They will respect my son.’
-[7] But those farmers said to one another,
-‘This is the heir.
-Come, let’s kill him,
-and the inheritance will be ours!’
-[8] They took him,
-killed him,
-and threw him out of the vineyard.
-[9] So what will the lord of the vineyard do?
+[7] But the farmers said to each other,
+‘This is the one who will get the vineyard someday.
+Come, let’s kill him.
+Then the vineyard will be ours!’
+[8] They grabbed him and killed him.
+They threw him out of the vineyard.
+[9] So what will the owner of the vineyard do?
 He will come
-and destroy the farmers,
-and will give the vineyard to others.
-[10] Haven’t you even read this Scripture:
-‘The stone which the builders rejected
+and kill the farmers.
+And he will give the vineyard to others.
+[10] Haven’t you read this Scripture?
+‘The stone that the builders rejected
 has become the head of the corner.
-[11] This was from the Lord.
-It is marvelous in our eyes’?”
-[12] They wanted to arrest him,
-but they were afraid of the crowd.
-For they realized
+[11] The Lord did this.
+It is wonderful in our eyes.’”
+[12] The leaders wanted to arrest Jesus.
+But they were afraid of the crowd.
+They understood
 that he had told the parable against them.
 So they left him and went away.
 
@@ -66,28 +66,30 @@ So they left him and went away.
 
 ## The question about the tax for Caesar (Verses 13–17)
 
-[13] They sent some of the Pharisees and the Herodians to him.
-They were to trap him with his own words.
+[13] They sent some Pharisees and some Herodians to Jesus.
+They wanted to trap him with his own words.
 [14] They came and said to him,
-“Teacher, we know that you are honest
-and don’t give in to anyone.
-For you don’t favor anyone,
-but truly teach the way of God.
-Is it lawful to pay taxes to Caesar, or not?
-[15] Shall we pay, or shall we not pay?”
-But he knew their hypocrisy and said to them,
-“Why are you testing me?
-Bring me a denarius,
-so that I may look at it.”
+“Teacher, we know that you are honest.
+You do not care what anyone thinks of you.
+You do not treat anyone better than others.
+You truly teach God’s way.
+Is it right to pay taxes to Caesar, or not?
+[15] Should we pay, or should we not pay?”
+But Jesus knew that they were only pretending.
+He said to them,
+“Why are you trying to trap me?
+Bring me a denarius.
+I want to look at it.”
+A denarius was a silver coin.
 [16] They brought one.
 He said to them,
-“Whose image and inscription is this?”
+“Whose picture and whose name are on this coin?”
 They said to him,
 “Caesar’s.”
 [17] Jesus answered them,
-“Give to Caesar the things that are Caesar’s,
-and to God the things that are God’s.”
-And they were very amazed at him.
+“Give to Caesar what belongs to Caesar.
+And give to God what belongs to God.”
+They were very amazed at him.
 
 > **What does this mean?**
 > Caesar was the title of the Roman emperor.
@@ -100,48 +102,45 @@ And they were very amazed at him.
 
 ## The question about the resurrection (Verses 18–27)
 
-[18] Then some Sadducees came to him.
-They say that there is no resurrection.
+[18] Then some Sadducees came to Jesus.
+They say that the dead do not rise again.
 They asked him,
-[19] “Teacher, Moses wrote to us:
-‘If a man dies
-and leaves a wife behind,
-but no children,
-his brother should marry the wife
-and have children for his brother.’
+[19] “Teacher, Moses wrote this for us:
+‘A man’s brother may die
+and leave a wife behind,
+but no children.
+Then the man must marry his brother’s wife.
+He must have children for his brother.’
 [20] There were seven brothers.
-The first married a wife
-and died
-without leaving any children.
-[21] The second married her
-and also died without children.
-The third did the same.
-[22] All seven married her
-and left no children.
-Last of all the woman also died.
-[23] In the resurrection,
-when they rise,
+The first one got married.
+He died without having children.
+[21] The second brother married her.
+He also died without having children.
+It was the same with the third brother.
+[22] All seven brothers married her.
+None of them had children.
+Last of all, the woman died too.
+[23] When the dead rise again,
 whose wife will she be?
-For all seven had her as a wife.”
+All seven brothers were married to her.”
 [24] Jesus answered them,
-“Isn’t this why you are mistaken,
-because you don’t know the Scriptures
-or the power of God?
-[25] For when they rise from the dead,
-they neither marry
-nor are given in marriage,
-but are like angels in heaven.
-[26] But about the dead,
-that they are raised:
-haven’t you read in the book of Moses,
-in the story about the bush,
-how God spoke to him, saying,
+“You are wrong.
+You do not know the Scriptures,
+and you do not know the power of God.
+[25] When the dead rise again,
+they do not marry,
+and they are not given to anyone in marriage.
+They are like the angels in heaven.
+[26] But now about the dead rising again:
+Haven’t you read in the book of Moses
+the story about the bush?
+There God said to Moses,
 ‘I am the God of Abraham,
 the God of Isaac,
-and the God of Jacob’?
+and the God of Jacob.’
 [27] He is not the God of the dead,
 but of the living.
-You are badly mistaken.”
+You are very wrong.”
 
 > **What does this mean?**
 > The Sadducees were a group mostly from the leading priestly families. They did not believe in the resurrection. The Pharisees, on the other hand, believed in it, just as Jesus did.
@@ -154,42 +153,41 @@ You are badly mistaken.”
 
 ## The greatest commandment (Verses 28–34)
 
-[28] One of the scribes had been listening
-to them arguing with one another.
-He saw that Jesus had answered them well.
-He came and asked him,
-“Which commandment is the greatest of all?”
+[28] One of the scribes heard them arguing.
+He saw that Jesus had given them a good answer.
+So he came and asked him,
+“Which commandment is the most important of all?”
 [29] Jesus answered,
-“The greatest is:
-‘Hear, Israel,
-the Lord our God, the Lord is one.
-[30] You shall love the Lord your God
+“The most important one is:
+‘Listen, Israel!
+The Lord our God, the Lord is one.
+[30] Love the Lord your God
 with all your heart,
 with all your soul,
-with all your mind,
+with all your mind
 and with all your strength.’
 This is the first commandment.
-[31] The second is this:
-‘You shall love your neighbor as yourself.’
-There is no other commandment greater than these.”
+[31] The second one is this:
+‘Love your neighbor as you love yourself.’
+No other commandment is more important than these.”
 [32] The scribe said to him,
-“Well said, teacher!
-You have truly said
-that he is one,
-and there is no other but he.
-[33] And to love him
-with all the heart,
-with all the understanding,
-with all the soul,
-and with all the strength,
-and to love one’s neighbor as oneself,
-is more important than all whole burnt offerings and sacrifices.”
-[34] When Jesus saw
-that he had answered wisely,
-he said to him,
+“That is right, teacher!
+What you said is true:
+He is one,
+and there is no other God but him.
+[33] We should love him
+with all our heart,
+with all our understanding,
+with all our soul
+and with all our strength.
+And we should love our neighbor as ourselves.
+That is more important than all burnt offerings and sacrifices.”
+[34] Jesus saw
+that the man had answered wisely.
+He said to him,
 “You are not far from God’s Kingdom.”
-And no one dared
-to ask him any more questions.
+After that no one dared
+to ask Jesus any more questions.
 
 > **What does this mean?**
 > Verses 29–30 quote Deuteronomy 6:4–5, the “Shema Yisrael” (“Hear, Israel”). Devout Jews still pray this prayer every morning and every evening. It is the most important confession of faith in Judaism. Jesus prays it too.
@@ -202,17 +200,17 @@ to ask him any more questions.
 
 ## Whose son is the Christ? (Verses 35–37)
 
-[35] As Jesus was teaching in the temple,
-he said,
-“How can the scribes say
+[35] Jesus was teaching in the temple.
+He said,
+“Why do the scribes say
 that the Christ is the son of David?
-[36] For David himself said in the Holy Spirit,
+[36] David himself said, led by the Holy Spirit:
 ‘The Lord said to my Lord,
-“Sit at my right hand,
-until I make your enemies
-the footstool of your feet.”’
+“Sit at my right side,
+until I put your enemies
+under your feet.”’
 [37] So David himself calls him Lord.
-How then can he be his son?”
+How then can he be David’s son?”
 The common people heard him gladly.
 
 > **What does this mean?**
@@ -225,41 +223,41 @@ The common people heard him gladly.
 
 ## A warning against false piety (Verses 38–40)
 
-[38] In his teaching he said to them,
-“Beware of the scribes
-who like to walk around in long robes
-and to be greeted in the marketplaces,
-[39] and to have the best seats in the synagogues
+[38] While he was teaching, he said to them,
+“Watch out for the scribes!
+They like to walk around in long robes.
+They like people to greet them in the marketplaces.
+[39] They like to have the best seats in the synagogues
 and the places of honor at feasts.
-[40] They devour widows’ houses
-and for a show make long prayers.
-These will receive a harsher judgment.”
+[40] They take away the houses of widows.
+And to look good, they pray long prayers.
+They will be judged more harshly.”
 
 > **What does this mean?**
 > Jesus warns against people who want to look devout but take advantage of the weak.
-> Devour widows’ houses: take from widows everything they own.
-> Widows were often poor and without protection. According to the Old Testament, God is the special protector of widows and orphans (for example Exodus 22:22–24; in the Hebrew Bible and in many German Bibles 22:21–23).
+> “They take away the houses of widows”: They take from widows everything they own.
+> Widows were often poor and without protection. According to the Old Testament, God is the special protector of widows and orphans (for example Exodus 22:22–24; in the Hebrew Bible and in some Bibles 22:21–23).
 > Important: Just before this, Jesus praised a scribe (verse 34). So he does not mean all scribes, but those who act like this. This warning applies in every religion, also to pastors, priests and church leaders today.
 
 ---
 
 ## The offering of the poor widow (Verses 41–44)
 
-[41] Jesus sat down opposite the treasury
-and watched
-how the crowd put money into the treasury.
+[41] Jesus sat down across from the offering boxes.
+He watched
+how the people put money into them.
 Many rich people put in a lot.
-[42] Then a poor widow came
-and put in two small copper coins,
-which are worth a quadrans.
-[43] He called his disciples to himself
-and said to them,
-“Most certainly I tell you,
-this poor widow has given more
-than all those who are giving into the treasury.
-[44] For they all gave out of their abundance.
-But she, out of her poverty, gave all that she had,
-all she had to live on.”
+[42] Then a poor widow came.
+She put in two small copper coins.
+Together they were worth one quadrans.
+[43] Jesus called his disciples to him.
+He said to them,
+“I tell you the truth:
+This poor widow has given more
+than all the others who are giving money here.
+[44] They all gave from what they had left over.
+But she is poor, and she gave everything she had.
+She gave all she had to live on.”
 
 > **What does this mean?**
 > In the temple there were offering boxes for donations. Treasury: here, the place with these offering boxes.

@@ -102,7 +102,7 @@ So you shall remove the evil from among you.
 > Back then, the “signs that she was a virgin” were a cloth with blood from the wedding night. Today we know: Such “proofs” are not medically reliable. Many women do not bleed the first time.
 > This section protects the wife from a man who wants to get rid of her and therefore spreads lies about her. He is punished harshly and may never send her away. In this way she was provided for all her life.
 > But verses 20–21 are shocking for us: A young woman is to be killed because she was no longer a virgin before marriage. By today’s understanding that is a grave injustice. Here the Bible describes an old law that placed the honor of the family very high.
-> Sadly, in some places there are still so-called “honor killings” today. That is a crime. No one may use the Bible to defend it. Jesus protected a woman who was about to be stoned and said: “He who is without sin among you, let him throw the first stone at her” (John 8:7).
+> Sadly, in some places there are still so-called “honor killings” today. That is a crime. No one may use the Bible to defend it. Jesus protected a woman who was about to be stoned and said: “Is there anyone here who has never sinned? That person may throw the first stone at her” (John 8:7).
 
 ---
 

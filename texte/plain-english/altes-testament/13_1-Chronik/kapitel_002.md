@@ -17,21 +17,23 @@ Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 
 ## Judah and his sons (Verses 3–8)
 
-[3] The sons of Judah:
+[3] The sons of Judah were
 Er, Onan, and Shelah.
-These three were born to him by Shua’s daughter, the Canaanite woman.
-Er, Judah’s firstborn, was wicked in the LORD’s sight,
-and he killed him.
-[4] Tamar his daughter-in-law bore him Perez and Zerah.
-All the sons of Judah were five.
-[5] The sons of Perez:
+Their mother was the daughter of Shua, a Canaanite woman.
+Er was Judah’s firstborn son.
+He was wicked in the LORD’s eyes,
+so the LORD killed him.
+[4] Tamar, Judah’s daughter-in-law, gave birth to his sons Perez and Zerah.
+Judah had five sons in all.
+[5] The sons of Perez were
 Hezron and Hamul.
-[6] The sons of Zerah:
-Zimri, Ethan, Heman, Calcol, and Dara, five of them in all.
-[7] The son of Carmi:
-Achar, the troubler of Israel,
-who committed a trespass in the devoted thing.
-[8] The son of Ethan:
+[6] The sons of Zerah were
+Zimri, Ethan, Heman, Calcol, and Dara, five in all.
+[7] The son of Carmi was
+Achar.
+He brought trouble on Israel.
+He took things that were set apart for God, and that was a sin.
+[8] The son of Ethan was
 Azariah.
 
 > **What does this mean?**
@@ -45,25 +47,26 @@ Azariah.
 
 ## From Hezron to David (Verses 9–17)
 
-[9] The sons also of Hezron, who were born to him:
+[9] Hezron had these sons:
 Jerahmeel, Ram, and Chelubai.
-[10] Ram became the father of Amminadab,
-and Amminadab became the father of Nahshon, prince of the children of Judah.
-[11] Nahshon became the father of Salma,
-and Salma became the father of Boaz.
-[12] Boaz became the father of Obed,
-and Obed became the father of Jesse.
-[13] Jesse became the father of his firstborn Eliab,
-Abinadab the second,
-Shimea the third,
-[14] Nethanel the fourth,
-Raddai the fifth,
-[15] Ozem the sixth,
-and David the seventh.
+[10] Ram was the father of Amminadab.
+Amminadab was the father of Nahshon.
+Nahshon was the leader of the people of Judah.
+[11] Nahshon was the father of Salma.
+Salma was the father of Boaz.
+[12] Boaz was the father of Obed.
+Obed was the father of Jesse.
+[13] Jesse’s firstborn son was Eliab.
+His second son was Abinadab.
+His third son was Shimea.
+[14] His fourth son was Nethanel.
+His fifth son was Raddai.
+[15] His sixth son was Ozem.
+His seventh son was David.
 [16] Their sisters were Zeruiah and Abigail.
-The sons of Zeruiah:
-Abishai, Joab, and Asahel, three.
-[17] Abigail bore Amasa.
+Zeruiah had three sons:
+Abishai, Joab, and Asahel.
+[17] Abigail gave birth to Amasa.
 The father of Amasa was Jether the Ishmaelite.
 
 > **What does this mean?**
@@ -78,24 +81,26 @@ The father of Amasa was Jether the Ishmaelite.
 
 ## The descendants of Caleb (Verses 18–24)
 
-[18] Caleb the son of Hezron had children by Azubah his wife, and by Jerioth.
+[18] Caleb, the son of Hezron, had children with his wife Azubah, and with Jerioth.
 These were her sons:
 Jesher, Shobab, and Ardon.
-[19] Azubah died,
-and Caleb married Ephrath.
-She bore him Hur.
-[20] Hur became the father of Uri,
-and Uri became the father of Bezalel.
-[21] Afterward Hezron went in to the daughter of Machir the father of Gilead.
-He took her as his wife when he was sixty years old.
-And she bore him Segub.
-[22] Segub became the father of Jair.
-He had twenty-three cities in the land of Gilead.
-[23] But Geshur and Aram took the towns of Jair from them,
-with Kenath and its villages, sixty cities.
-All these were the sons of Machir the father of Gilead.
-[24] After Hezron died in Caleb Ephrathah,
-Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa.
+[19] When Azubah died,
+Caleb married Ephrath.
+She gave birth to his son Hur.
+[20] Hur was the father of Uri.
+Uri was the father of Bezalel.
+[21] Later Hezron slept with the daughter of Machir.
+Machir was the father of Gilead.
+Hezron married her when he was 60 years old.
+She gave birth to his son Segub.
+[22] Segub was the father of Jair.
+Jair had 23 cities in the land of Gilead.
+[23] But Geshur and Aram took the towns of Jair from them.
+They also took Kenath and its villages, 60 cities in all.
+All these were descendants of Machir, the father of Gilead.
+[24] Hezron died in Caleb Ephrathah.
+After that, Hezron’s wife Abijah gave birth to his son Ashhur.
+Ashhur was the father of Tekoa.
 
 > **What does this mean?**
 > Bezalel was the gifted craftsman who built the tabernacle in the wilderness (Exodus 31:1–5).
@@ -108,33 +113,37 @@ Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa.
 
 ## The descendants of Jerahmeel (Verses 25–33)
 
-[25] The sons of Jerahmeel the firstborn of Hezron:
-Ram the firstborn, Bunah, Oren, Ozem, and Ahijah.
-[26] Jerahmeel had another wife, whose name was Atarah.
+[25] Jerahmeel was the firstborn son of Hezron.
+These were the sons of Jerahmeel:
+Ram, the firstborn, then Bunah, Oren, Ozem, and Ahijah.
+[26] Jerahmeel had another wife.
+Her name was Atarah.
 She was the mother of Onam.
-[27] The sons of Ram the firstborn of Jerahmeel:
+[27] Ram was the firstborn son of Jerahmeel.
+The sons of Ram were
 Maaz, Jamin, and Eker.
-[28] The sons of Onam:
+[28] The sons of Onam were
 Shammai and Jada.
-The sons of Shammai:
+The sons of Shammai were
 Nadab and Abishur.
-[29] The name of the wife of Abishur was Abihail.
-She bore him Ahban and Molid.
-[30] The sons of Nadab:
+[29] The wife of Abishur was named Abihail.
+She gave birth to his sons Ahban and Molid.
+[30] The sons of Nadab were
 Seled and Appaim.
-But Seled died without children.
-[31] The son of Appaim:
+Seled died without children.
+[31] The son of Appaim was
 Ishi.
-The son of Ishi:
+The son of Ishi was
 Sheshan.
-The son of Sheshan:
+The son of Sheshan was
 Ahlai.
-[32] The sons of Jada the brother of Shammai:
+[32] Jada was the brother of Shammai.
+The sons of Jada were
 Jether and Jonathan.
-But Jether died without children.
-[33] The sons of Jonathan:
+Jether died without children.
+[33] The sons of Jonathan were
 Peleth and Zaza.
-These were the sons of Jerahmeel.
+These were the descendants of Jerahmeel.
 
 > **What does this mean?**
 > The Jerahmeelites were a part of the tribe of Judah that lived in the south, in the Negev (1 Samuel 27:10).
@@ -144,22 +153,23 @@ These were the sons of Jerahmeel.
 
 ## An Egyptian servant becomes part of the family (Verses 34–41)
 
-[34] Now Sheshan had no sons, but only daughters.
-Sheshan had a servant, an Egyptian, whose name was Jarha.
-[35] Sheshan gave his daughter to Jarha his servant as wife,
-and she bore him Attai.
-[36] Attai became the father of Nathan,
-and Nathan became the father of Zabad.
-[37] Zabad became the father of Ephlal,
-and Ephlal became the father of Obed.
-[38] Obed became the father of Jehu,
-and Jehu became the father of Azariah.
-[39] Azariah became the father of Helez,
-and Helez became the father of Eleasah.
-[40] Eleasah became the father of Sismai,
-and Sismai became the father of Shallum.
-[41] Shallum became the father of Jekamiah,
-and Jekamiah became the father of Elishama.
+[34] Sheshan had no sons, only daughters.
+Sheshan had a servant from Egypt.
+His name was Jarha.
+[35] Sheshan gave his daughter to his servant Jarha as his wife.
+She gave birth to his son Attai.
+[36] Attai was the father of Nathan.
+Nathan was the father of Zabad.
+[37] Zabad was the father of Ephlal.
+Ephlal was the father of Obed.
+[38] Obed was the father of Jehu.
+Jehu was the father of Azariah.
+[39] Azariah was the father of Helez.
+Helez was the father of Eleasah.
+[40] Eleasah was the father of Sismai.
+Sismai was the father of Shallum.
+[41] Shallum was the father of Jekamiah.
+Jekamiah was the father of Elishama.
 
 > **What does this mean?**
 > A lovely little story in the middle of the list: Sheshan has no son. He gives his daughter to his Egyptian servant as wife. So a foreigner, even a servant, becomes a full member of the family in Judah. His descendants are listed over 13 generations.
@@ -169,23 +179,28 @@ and Jekamiah became the father of Elishama.
 
 ## More descendants of Caleb (Verses 42–50a)
 
-[42] The sons of Caleb the brother of Jerahmeel:
-Mesha his firstborn, who was the father of Ziph,
-and the sons of Mareshah the father of Hebron.
-[43] The sons of Hebron:
+[42] Caleb was the brother of Jerahmeel.
+These were Caleb’s sons:
+Mesha, his firstborn, who was the father of Ziph,
+and the sons of Mareshah, the father of Hebron.
+[43] The sons of Hebron were
 Korah, Tappuah, Rekem, and Shema.
-[44] Shema became the father of Raham, the father of Jorkeam.
-And Rekem became the father of Shammai.
+[44] Shema was the father of Raham.
+Raham was the father of Jorkeam.
+Rekem was the father of Shammai.
 [45] The son of Shammai was Maon.
-And Maon was the father of Beth Zur.
-[46] Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez.
-And Haran became the father of Gazez.
-[47] The sons of Jahdai:
+Maon was the father of Beth Zur.
+[46] Ephah was Caleb’s concubine.
+A concubine is a wife of lower rank.
+Ephah gave birth to Haran, Moza, and Gazez.
+Haran was the father of Gazez.
+[47] The sons of Jahdai were
 Regem, Jothan, Geshan, Pelet, Ephah, and Shaaph.
-[48] Maacah, Caleb’s concubine, bore Sheber and Tirhanah.
-[49] She also bore Shaaph the father of Madmannah,
-Sheva the father of Machbena and the father of Gibea.
-And the daughter of Caleb was Achsah.
+[48] Maacah was also Caleb’s concubine.
+She gave birth to Sheber and Tirhanah.
+[49] She also gave birth to Shaaph, the father of Madmannah,
+and to Sheva, the father of Machbena and the father of Gibea.
+Caleb’s daughter was Achsah.
 [50] These were the sons of Caleb.
 
 > **What does this mean?**
@@ -198,22 +213,23 @@ And the daughter of Caleb was Achsah.
 
 ## The descendants of Hur (Verses 50b–55)
 
-The son of Hur, the firstborn of Ephrathah:
-Shobal the father of Kiriath Jearim,
-[51] Salma the father of Bethlehem,
-and Hareph the father of Beth Gader.
-[52] Shobal the father of Kiriath Jearim had sons:
+The descendants of Hur, the firstborn of Ephrathah, were
+Shobal, the father of Kiriath Jearim,
+[51] Salma, the father of Bethlehem,
+and Hareph, the father of Beth Gader.
+[52] Shobal, the father of Kiriath Jearim, had sons:
 Haroeh, half of the Menuhoth.
-[53] The families of Kiriath Jearim:
+[53] The families of Kiriath Jearim were
 the Ithrites, the Puthites, the Shumathites, and the Mishraites.
-From them came the Zorathites and the Eshtaolites.
-[54] The sons of Salma:
+The Zorathites and the Eshtaolites came from them.
+[54] The descendants of Salma were
 Bethlehem, the Netophathites, Atroth Beth Joab,
 and half of the Manahathites, the Zorites.
-[55] The families of scribes who lived at Jabez:
-the Tirathites, the Shimeathites, and the Sucathites.
-These are the Kenites who came from Hammath,
-the father of the house of Rechab.
+[55] Families of scribes lived at Jabez.
+Scribes are people who can read and write.
+These families were the Tirathites, the Shimeathites, and the Sucathites.
+They are the Kenites who came from Hammath,
+the father of the family of Rechab.
 
 > **What does this mean?**
 > Well-known places appear here: Kiriath Jearim, where the ark of the covenant stayed for 20 years (1 Samuel 7:1–2), and Bethlehem, the city of David. Later Jesus was born there.

@@ -5,28 +5,21 @@
 
 ## Without love everything is nothing (Verses 1–3)
 
-[1] If I speak with the languages of people
-and of angels,
-but don’t have love,
-I have become a sounding brass
+[1] I may speak in the languages of people and of angels.
+But if I don’t have love,
+I am only a noisy piece of brass
 or a clanging cymbal.
-[2] If I have the gift of prophecy,
-and know all mysteries
-and all knowledge,
-and if I have all faith,
-so that I can move mountains,
-but don’t have love,
+Brass is a metal instrument that makes a loud sound.
+A cymbal is a round metal plate that is struck to make a loud sound.
+[2] I may have the gift of prophecy.
+I may know all mysteries and have all knowledge.
+I may have so much faith that I can move mountains.
+But if I don’t have love,
 I am nothing.
-[3] If I give away
-all my goods
-to feed the poor,
-and if I give my body
-to be burned,
-but don’t have love,
-it profits me nothing.
-
-*brass* = a metal instrument that makes a loud sound
-*cymbal* = a round metal plate that is struck to make a loud sound
+[3] I may give away everything I own to feed the poor.
+I may even give my body to be burned.
+But if I don’t have love,
+it does me no good at all.
 
 > **What does this mean?**
 > In chapter 12 Paul wrote about the gifts of the Spirit. Now he says: The greatest gifts are worthless without love.
@@ -37,55 +30,54 @@ it profits me nothing.
 
 ## What love is (Verses 4–7)
 
-[4] Love is patient
-and is kind.
-Love doesn’t envy.
-Love doesn’t brag,
-it is not proud.
-[5] It doesn’t behave inappropriately.
-It doesn’t seek its own way.
-It is not easily provoked.
-It keeps no record of wrongs.
-[6] It doesn’t rejoice in unrighteousness,
-but rejoices with the truth.
-[7] It bears all things,
-believes all things,
-hopes all things,
-and endures all things.
+[4] Love is patient.
+Love is kind.
+Love is not jealous.
+Love does not brag.
+It is not proud.
+[5] It is not rude.
+It does not insist on its own way.
+It does not get angry easily.
+It does not keep a record of wrongs.
+[6] It is not happy about what is wrong.
+It is happy with the truth.
+[7] It bears all things.
+It believes all things.
+It hopes all things.
+It endures all things.
 
 > **What does this mean?**
 > Paul doesn’t describe love as a feeling, but by what it does and what it doesn’t do.
 > Many Christians read these verses and think of Jesus: That is how he lived.
 > This text is read very often at weddings. But Paul first wrote it for a church that was full of quarrels.
-> Verse 6: Love doesn’t rejoice in wrong. It stands on the side of the truth.
-> Important about verse 7: “Endures all things” doesn’t mean that you have to put up with violence, abuse or humiliation. Love protects and stands up against wrong (verse 6). If you experience violence, you may protect yourself and get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247; men can also call the Men’s Advice Line at 0808 801 0327. Police: 911 (US), 999 (UK).
+> Verse 6: Love is not happy about what is wrong. It stands on the side of the truth.
+> Important about verse 7: “It endures all things” doesn’t mean that you have to put up with violence, abuse or humiliation. Love protects and stands up against wrong (verse 6). If you experience violence, you may protect yourself and get help. In the US, call the National Domestic Violence Hotline at 1-800-799-7233. In the UK, call the National Domestic Abuse Helpline at 0808 2000 247; men can also call the Men’s Advice Line at 0808 801 0327. Police: 911 (US), 999 (UK).
 
 ---
 
 ## Love remains (Verses 8–13)
 
 [8] Love never fails.
-But prophecies will be done away with.
-The different languages will cease.
-Knowledge will be done away with.
-[9] For we know in part,
-and we prophesy in part.
-[10] But when that which is complete has come,
-then that which is partial will be done away with.
+But prophecies will come to an end.
+The different languages will stop.
+Knowledge will come to an end.
+[9] We know only in part.
+And we prophesy only in part.
+[10] But when what is complete comes,
+what is partial will come to an end.
 [11] When I was a child,
-I spoke as a child,
-I felt as a child,
-I thought as a child.
+I spoke like a child.
+I felt like a child.
+I thought like a child.
 Now that I have become a man,
-I have put away childish things.
-[12] For now we see in a mirror,
-dimly.
+I have put childish things away.
+[12] Now we see only a dim picture in a mirror.
 But then we will see face to face.
-Now I know in part.
+Now I know only in part.
 But then I will know fully,
 even as I was also fully known.
-[13] But now faith, hope and love remain,
-these three.
+[13] So now these three remain:
+faith, hope and love.
 The greatest of these is love.
 
 > **What does this mean?**

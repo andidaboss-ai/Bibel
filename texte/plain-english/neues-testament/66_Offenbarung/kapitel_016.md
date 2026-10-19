@@ -5,34 +5,26 @@
 
 ## The first three bowls (Verses 1–7)
 
-[1] I heard a loud voice out of the temple.
+[1] I heard a loud voice from the temple.
 It said to the seven angels,
-“Go and pour out the seven bowls
-of the wrath of God on the earth!”
-[2] The first went
-and poured out his bowl into the earth.
-Then a harmful and painful sore came on the people
-who had the mark of the beast
-and who worshiped his image.
+“Go and pour out the seven bowls of God’s anger on the earth!”
+[2] The first angel went and poured out his bowl on the earth.
+Then bad and painful sores broke out on the people.
+These were the people who had the mark of the beast and who worshiped his image.
 [3] The second angel poured out his bowl into the sea.
-Then it became blood,
-like the blood of a dead man.
-And every living thing in the sea died.
-[4] The third poured out his bowl
-into the rivers and springs of water.
-Then they became blood.
-[5] I heard the angel of the waters saying,
-“You are righteous,
-who are and who were,
-O Holy One,
+The sea turned into blood, like the blood of a dead man.
+Every living thing in the sea died.
+[4] The third angel poured out his bowl into the rivers and springs of water.
+They turned into blood.
+[5] I heard the angel of the waters say,
+“You are just and fair, you who are and who were, O Holy One,
 because you have judged these things.
 [6] For they poured out the blood of saints and prophets.
 And you have given them blood to drink.
 They deserve this.”
-[7] And I heard the altar saying,
-“Yes, Lord God,
-the Almighty,
-true and righteous are your judgments.”
+[7] I heard the altar say,
+“Yes, Lord God, the Almighty,
+your judgments are true and just.”
 
 > **What does this mean?**
 > The bowls again recall the plagues in Egypt (Exodus 7–9): sores, water turning into blood.
@@ -44,21 +36,16 @@ true and righteous are your judgments.”
 
 ## The fourth and fifth bowls (Verses 8–11)
 
-[8] The fourth poured out his bowl on the sun.
-And it was given to it
-to scorch people with fire.
-[9] People were scorched with great heat.
-And they blasphemed the name of God,
-who has the power over these plagues.
-But they didn’t repent
-and didn’t give him glory.
-[10] The fifth poured out his bowl
-on the throne of the beast.
-Then his kingdom was darkened.
-And they gnawed their tongues because of the pain.
-[11] They blasphemed the God of heaven
-because of their pains and their sores.
-But they still didn’t repent of their works.
+[8] The fourth angel poured out his bowl on the sun.
+The sun was allowed to burn people with fire.
+[9] People were burned by the great heat.
+They cursed the name of God, who has power over these plagues.
+They did not repent and give him glory.
+[10] The fifth angel poured out his bowl on the throne of the beast.
+His kingdom became dark.
+People bit their tongues because of the pain.
+[11] They cursed the God of heaven because of their pains and their sores.
+They still did not repent of what they had done.
 
 > **What does this mean?**
 > Verses 9 and 11: What is sad is that the people still don’t repent. They know that God has the power. But instead of coming to him, they curse him. The plagues were really meant to call people to repent.
@@ -68,31 +55,20 @@ But they still didn’t repent of their works.
 
 ## The sixth bowl: Harmagedon (Verses 12–16)
 
-[12] The sixth poured out his bowl
-on the great river, the Euphrates.
-Then its water was dried up,
-so that the way might be prepared
-for the kings that come from the sunrise.
-[13] I saw three unclean spirits,
-something like frogs,
-coming out of the mouth of the dragon,
-out of the mouth of the beast
+[12] The sixth angel poured out his bowl on the great river, the Euphrates.
+Its water dried up.
+This prepared the way for the kings who come from the east.
+[13] I saw three unclean spirits that looked like frogs.
+They came out of the mouth of the dragon,
+out of the mouth of the beast,
 and out of the mouth of the false prophet.
-[14] For they are spirits of demons.
-They perform signs.
-They go out to the kings of the whole inhabited earth,
-to gather them together
-for the war of that great day of God
-the Almighty.
-[15] “Look,
-I come like a thief.
-Blessed is he
-who watches
-and keeps his clothes,
-so that he doesn’t walk naked
-and they see his shame.”
-[16] And he gathered them together into the place
-which is called in Hebrew “Harmagedon.”
+[14] They are spirits of demons, and they do signs.
+They go out to the kings of the whole world.
+They gather the kings for the battle on that great day of God, the Almighty.
+[15] “Look, I am coming like a thief.
+Blessed is the one who stays awake and keeps his clothes on.
+Then he will not walk around naked, and people will not see his shame.”
+[16] He gathered them together at the place that is called “Harmagedon” in Hebrew.
 
 > **What does this mean?**
 > Verse 13: The false prophet is the second beast from Chapter 13. Dragon, beast and false prophet are like an evil imitation of God: Father, Son and Spirit. The frogs again recall a plague in Egypt (Exodus 8).
@@ -106,29 +82,23 @@ which is called in Hebrew “Harmagedon.”
 
 ## The seventh bowl: “It is done!” (Verses 17–21)
 
-[17] The seventh poured out his bowl into the air.
-Then a loud voice came out of the temple of heaven,
-from the throne,
-saying,
-“It is done!”
-[18] There were lightnings, sounds and thunders.
-And there was a great earthquake,
-such as has not happened
-since there were people on the earth.
-So great and so mighty was the earthquake.
-[19] The great city was divided into three parts,
-and the cities of the nations fell.
-And Babylon the great was remembered in the sight of God,
-to give her the cup of the wine
-of the fierceness of his wrath.
-[20] Every island fled away,
-and the mountains were not found.
-[21] Great hailstones,
-about the weight of a talent,
-came down out of the sky on people.
-And people blasphemed God
-because of the plague of the hail,
-for this plague was exceedingly severe.
+[17] The seventh angel poured out his bowl into the air.
+A loud voice came out of the temple of heaven, from the throne.
+It said, “It is done!”
+[18] There was lightning, loud sounds, and thunder.
+And there was a great earthquake.
+There has never been such an earthquake since there have been people on the earth.
+It was that great and that strong.
+[19] The great city was split into three parts.
+The cities of the nations fell.
+God remembered Babylon the great.
+He gave her the cup filled with the wine of his fierce anger.
+[20] Every island fled away.
+The mountains could no longer be found.
+[21] Huge hailstones fell from the sky on people.
+Each one weighed about a talent.
+People cursed God because of the plague of the hail,
+for this plague was terrible.
 
 > **What does this mean?**
 > Verse 17: “It is done!” God’s judgment on evil is complete.

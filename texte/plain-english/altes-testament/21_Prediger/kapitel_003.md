@@ -27,7 +27,7 @@ a time for war, and a time for peace.
 > There are 14 pairs of opposites, always two opposites in one line. They cover all of life: from birth to death, from weeping to laughing, from war to peace.
 > The message: Life has rhythms. Not everything is right at every time. There is a time to grieve and a time to celebrate. Whoever sees what is needed right now is wise.
 > Verses 3 and 8: “A time to kill,” “a time to hate,” “a time for war”: The Preacher describes what happens in the world, the terrible things too. He does not say that killing or hatred are good. It is worth noticing: The list ends with “peace.”
-> Verse 5: “A time to throw away stones, and a time to gather stones together”: Maybe this means clearing a field of stones and gathering stones for a house. Some interpreters also think of tenderness, because the next line speaks of embracing.
+> Verse 5: “A time to throw away stones, and a time to gather stones together”: Maybe this means clearing a field of stones and gathering stones for a house. Some interpreters also think of tenderness, because the next line speaks of hugging.
 > Verse 7: “A time to tear”: When someone died, people tore their clothes in grief. Later, when the time of mourning was over, they sewed them back together.
 
 ---
@@ -53,13 +53,13 @@ Nothing can be taken away from it.
 God has done this so that people will fear him.
 [15] What is now has been long ago.
 What will be has also been long ago.
-God brings back what has passed away.
+God looks again for what has passed away.
 
 > **What does this mean?**
 > Verse 11 is one of the deepest sentences of the Bible: God has “set eternity in their hearts.” That is why we are never completely satisfied with what passes away. We long for something that lasts. But we cannot fully understand God’s great plan.
 > Augustine, a great teacher of the church, said later: “Our heart is restless until it rests in you, O God.”
 > Verses 12–13: The Preacher’s answer: be glad, do good, enjoy life thankfully. It is a gift from God.
-> Verse 15: “God brings back what has passed away”: With God, nothing is lost. He forgets nothing.
+> Verse 15: “God looks again for what has passed away”: With God, nothing is lost. He forgets nothing.
 
 ---
 
@@ -80,7 +80,7 @@ As one dies, so the other dies.
 They all have the same breath.
 People have no advantage over animals.
 Everything is vanity.
-Vanity means: empty, like a breath of wind.
+Vanity means: fleeting, like a breath of wind.
 [20] All go to the same place.
 All come from the dust,
 and all turn back into dust.

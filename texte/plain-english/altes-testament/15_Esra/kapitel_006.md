@@ -5,64 +5,69 @@
 
 ## The decree of Cyrus is found (Verses 1–5)
 
-[1] Then Darius the king gave an order,
-and a search was made in the house of the archives,
-where the treasures were stored in Babylon.
-[2] A scroll was found at Achmetha,
-in the palace that is in the province of Media.
-In it this was written as a record:
-[3] “In the first year of Cyrus the king,
-Cyrus the king gave an order:
-Concerning God’s house in Jerusalem:
-let the house be built, the place where they offer sacrifices,
-and let its foundations be firmly laid.
-Its height shall be 60 cubits and its width 60 cubits,
-about 90 feet,
-[4] with three layers of great stones and a layer of new timber.
-Let the costs be paid out of the king’s house.
-[5] Also let the gold and silver objects of God’s house,
-which Nebuchadnezzar took out of the temple in Jerusalem and brought to Babylon,
-be given back and brought again to the temple in Jerusalem,
-everything to its place.
-You shall put them in God’s house.”
+[1] Then King Darius gave an order.
+People searched the archives in Babylon,
+where the treasures were kept.
+[2] A scroll was found in Achmetha,
+in the palace in the province of Media.
+This was written in it as a record:
+[3] “In his first year as king, King Cyrus gave an order
+about God’s house in Jerusalem:
+The house must be rebuilt.
+It is the place where they offer sacrifices.
+Its foundations must be laid firmly.
+It must be 60 cubits high and 60 cubits wide,
+that is, about 90 feet.
+[4] It must have three layers of large stones and one layer of new wood.
+The costs must be paid from the king’s treasury.
+[5] Nebuchadnezzar took the gold and silver objects of God’s house
+out of the temple in Jerusalem and brought them to Babylon.
+They must be given back.
+They must be brought back to the temple in Jerusalem,
+each one to its place.
+You must put them in God’s house.”
 
 > **What does this mean?**
 > First they search in Babylon and find nothing. Then they find the document in Achmetha. That is Ecbatana, the summer capital of the Persian kings, today Hamadan in Iran. Cyrus had lived there in the summer.
-> The Bible says “60 cubits”. A cubit is about 18 inches. That is bigger than Solomon’s temple (2 Chronicles 3:3–4). These are probably the largest measurements the king allowed. In fact the new temple was probably smaller and more modest (compare Chapter 3:12 and Haggai 2:3).
+> The Bible says “60 cubits.” A cubit is about 18 inches. That is bigger than Solomon’s temple (2 Chronicles 3:3–4). These are probably the largest measurements the king allowed. In fact, the new temple was probably smaller and more modest (compare Chapter 3:12 and Haggai 2:3).
 > The decree is copied here in its official form, in Aramaic. It adds to the text in Chapter 1.
 
 ---
 
 ## Darius commands: Let them build! (Verses 6–12)
 
-[6] “Now therefore, Tattenai, governor beyond the River, Shetharbozenai,
-and your companions the Apharsachites, who are beyond the River,
-you must stay far away from there.
-[7] Leave the work of this house of God alone.
+[6] Darius wrote:
+“So now, Tattenai, governor of the land beyond the River,
+Shetharbozenai, and your officials, the Apharsachites beyond the River:
+Stay away from there!
+[7] Do not get in the way of the work on this house of God.
 Let the governor of the Jews and the elders of the Jews
-build this house of God in its place.
-[8] And I give an order about what you shall do for these elders of the Jews
-for the building of this house of God:
-the costs must be paid in full to these men from the king’s goods,
-from the tribute beyond the River,
-so that they are not held up.
-[9] Whatever they need,
-young bulls, rams, and lambs for burnt offerings to the God of heaven,
-and also wheat, salt, wine, and oil,
-as the priests in Jerusalem say,
-let it be given them day by day without fail,
-[10] so that they may offer sacrifices with a pleasing smell to the God of heaven,
-and pray for the life of the king and of his sons.
-[11] I have also given an order:
-whoever changes this message,
-let a beam be pulled out of his house,
-and let him be lifted up and fastened on it.
-And let his house be made a garbage heap for this.
-[12] May the God who has caused his name to dwell there
-overthrow all kings and peoples who reach out their hand to change this,
-to destroy this house of God in Jerusalem.
-I, Darius, have given the order.
-Let it be done with all care.”
+rebuild this house of God in its old place.
+[8] I also give this order about what you must do for these elders of the Jews,
+so that they can build this house of God:
+Pay all their costs from the king’s money,
+from the taxes of the land beyond the River.
+Pay them carefully,
+so that the work does not have to stop.
+[9] Give them whatever they need,
+every day, without fail.
+Give them young bulls, rams, and lambs
+for burnt offerings to the God of heaven.
+Give them wheat, salt, wine, and olive oil,
+as the priests in Jerusalem ask.
+[10] Then they can offer sacrifices that please the God of heaven.
+And they can pray for the life of the king and his sons.
+[11] I also give this order:
+If anyone changes this order,
+a beam must be pulled out of his house.
+He must be lifted up and fastened to it.
+And his house must be turned into a garbage dump because of this.
+[12] God has made his name live in that place.
+May he destroy every king and every people
+who tries to change this order
+or to destroy this house of God in Jerusalem.
+I, Darius, have given this order.
+It must be carried out carefully.”
 
 > **What does this mean?**
 > Darius I reigned from 522 to 486 before Christ.
@@ -74,16 +79,16 @@ Let it be done with all care.”
 
 ## The temple is finished (Verses 13–15)
 
-[13] Then Tattenai, the governor beyond the River, Shetharbozenai, and their companions
-did so with all care,
-because Darius the king had sent an order.
-[14] The elders of the Jews built, and the work went well,
-through the prophesying of Haggai the prophet and Zechariah the son of Iddo.
-They built and finished it,
-according to the command of the God of Israel,
-and according to the order of Cyrus, Darius, and Artaxerxes king of Persia.
-[15] This house was finished on the third day of the month Adar,
-in the sixth year of the reign of Darius the king.
+[13] King Darius had sent this order.
+So Tattenai, the governor of the land beyond the River,
+Shetharbozenai, and their officials carefully did what it said.
+[14] The elders of the Jews kept on building, and the work went well.
+The prophet Haggai and Zechariah, the son of Iddo, encouraged them with their prophecies.
+They finished the building,
+as the God of Israel had commanded,
+and as Cyrus, Darius, and Artaxerxes, kings of Persia, had ordered.
+[15] The house was finished on the third day of the month of Adar.
+That was in the sixth year that Darius was king.
 
 > **What does this mean?**
 > The temple was finished in the spring of 515 before Christ, about 70 years after the destruction of the first temple. The month Adar is February/March.
@@ -95,15 +100,15 @@ in the sixth year of the reign of Darius the king.
 
 ## The dedication (Verses 16–18)
 
-[16] The children of Israel, the priests, the Levites,
-and the rest of the people who had come back from captivity,
-celebrated the dedication of this house of God with joy.
-[17] At the dedication of this house of God they offered
-100 bulls, 200 rams, 400 lambs,
-and as a sin offering for all Israel, twelve male goats,
-according to the number of the tribes of Israel.
-[18] They set the priests in their divisions and the Levites in their groups,
-for the service of God in Jerusalem,
+[16] Then the people of Israel celebrated the dedication of this house of God with joy.
+The priests, the Levites, and the rest of the people who had come back from captivity celebrated with them.
+[17] For the dedication of this house of God, they offered
+100 bulls, 200 rams, and 400 lambs.
+As a sin offering for all Israel, they offered twelve male goats,
+one for each tribe of Israel.
+[18] They put the priests into their groups
+and the Levites into their teams.
+They were to serve God in Jerusalem,
 as it is written in the book of Moses.
 
 > **What does this mean?**
@@ -115,19 +120,20 @@ as it is written in the book of Moses.
 
 ## The Passover (Verses 19–22)
 
-[19] The people who had come back from captivity kept the Passover
+[19] The people who had come back from captivity celebrated the Passover
 on the fourteenth day of the first month.
-[20] The priests and the Levites had made themselves clean together.
+[20] The priests and the Levites had all made themselves clean together.
 All of them were clean.
-They killed the Passover lamb for all the people who had come back from captivity,
-for their brothers the priests, and for themselves.
-[21] The children of Israel who had returned from the captivity ate it,
-together with all who had separated themselves from the uncleanness of the nations of the land
-and joined them, to seek the LORD, the God of Israel.
-[22] They kept the feast of unleavened bread for seven days with joy.
-For the LORD had made them joyful
-and had turned the heart of the king of Assyria to them,
-to strengthen their hands in the work of the house of God, the God of Israel.
+They killed the Passover lambs for all the people who had come back from captivity,
+for their relatives, the priests, and for themselves.
+[21] The people of Israel who had come back from captivity ate the Passover.
+Others ate with them too:
+all who had turned away from the unclean ways of the nations in the land
+and had joined them to seek the LORD, the God of Israel.
+[22] With joy, they celebrated the Feast of Unleavened Bread for seven days.
+The LORD had filled them with joy.
+He had turned the heart of the king of Assyria toward them.
+So the king helped them with the work on the house of God, the God of Israel.
 
 > **What does this mean?**
 > One month after the dedication they celebrate the Passover, the feast of freedom from Egypt. Now they celebrate it as people who have been set free a second time, this time from Babylon.

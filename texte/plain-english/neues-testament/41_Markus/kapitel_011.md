@@ -5,49 +5,49 @@
 
 ## The entry into Jerusalem (Verses 1–11)
 
-[1] When they came near Jerusalem,
-to Bethsphage and Bethany at the Mount of Olives,
-Jesus sent two of his disciples
-[2] and said to them,
-“Go into the village ahead of you.
-As soon as you go into it,
-you will find a young donkey tied up,
+[1] They came near Jerusalem,
+to Bethsphage and Bethany at the Mount of Olives.
+There Jesus sent two of his disciples ahead.
+[2] He said to them,
+“Go into the village in front of you.
+As soon as you go in,
+you will find a young donkey tied up there,
 on which no one has sat.
-Untie him and bring him.
-[3] If anyone asks you,
+Untie him and bring him here.
+[3] Someone may ask you,
 ‘Why are you doing this?’
-say,
-‘The Lord needs him,’
-and immediately he will send him back here.”
-[4] They went
-and found a young donkey
-tied at a door outside in the open street.
+Then say,
+‘The Lord needs him.
+He will send him back here right away.’”
+[4] The two disciples went.
+They found a young donkey.
+It was tied at a door outside in the street.
 They untied him.
 [5] Some of the people standing there
 asked them,
-“What are you doing,
-untying the young donkey?”
-[6] They answered them
-just as Jesus had said.
+“What are you doing?
+Why are you untying the young donkey?”
+[6] The disciples answered
+just as Jesus had told them.
 And the people let them go.
-[7] They brought the young donkey to Jesus
-and threw their garments on it.
+[7] They brought the young donkey to Jesus.
+They put their cloaks on it.
 And Jesus sat on it.
-[8] Many spread their garments on the road.
+[8] Many people spread their cloaks on the road.
 Others cut branches from the trees
 and spread them on the road.
-[9] Those who went in front
-and those who followed
-cried out,
+[9] The people walking in front
+and the people following behind
+shouted,
 “Hosanna!
 Blessed is he who comes in the name of the Lord!
-[10] Blessed is the kingdom of our father David
-that is coming in the name of the Lord!
-Hosanna in the highest!”
-[11] Jesus went into Jerusalem, into the temple.
+[10] Blessed is the coming kingdom of our father David!
+It comes in the name of the Lord!
+Hosanna in the highest heaven!”
+[11] Jesus went into Jerusalem and into the temple.
 He looked around at everything.
-Because it was already evening,
-he went out to Bethany with the twelve.
+It was already evening.
+So he went out to Bethany with the twelve disciples.
 
 > **What does this mean?**
 > Bethsphage and Bethany were villages on the Mount of Olives, east of Jerusalem.
@@ -62,18 +62,17 @@ he went out to Bethany with the twelve.
 
 ## The fig tree without fruit (Verses 12–14)
 
-[12] The next day,
-when they had come out from Bethany,
+[12] The next day they left Bethany.
 Jesus was hungry.
-[13] From far away he saw a fig tree that had leaves.
+[13] From far away he saw a fig tree with leaves.
 He went to see
-whether he might find anything on it.
-When he came to it,
+if he could find any fruit on it.
+When he got there,
 he found nothing but leaves.
-For it was not the season for figs.
-[14] Jesus said to it,
+It was not the season for figs.
+[14] Jesus said to the tree,
 “May no one ever eat fruit from you again!”
-And his disciples heard it.
+His disciples heard it.
 
 > **What does this mean?**
 > This story is hard to understand, especially because Mark says: “It was not the season for figs.” So why does Jesus curse the tree?
@@ -85,29 +84,30 @@ And his disciples heard it.
 ## Jesus in the temple (Verses 15–19)
 
 [15] They came to Jerusalem.
-Jesus went into the temple
-and began to throw out those who were selling and buying in the temple.
+Jesus went into the temple.
+He began to throw out the people who were selling and buying there.
 He turned over the tables of the money changers
-and the seats of those who sold doves.
-[16] And he would not allow anyone
-to carry anything through the temple.
-[17] He taught them and said,
-“Isn’t it written,
-‘My house will be called a house of prayer
-for all the nations’?
+and the seats of the people who sold doves.
+[16] He did not let anyone
+carry a container through the temple.
+[17] He taught the people.
+He said to them,
+“Isn’t it written:
+‘My house will be called a house of prayer for all the nations’?
 But you have made it a den of robbers!”
-[18] The chief priests and the scribes heard it.
+A den is a hiding place.
+[18] The chief priests and the scribes heard this.
 They looked for a way
-to destroy him.
-For they were afraid of him,
-because the whole crowd was astonished at his teaching.
-[19] When evening came,
-he went out of the city.
+to kill him.
+They were afraid of him,
+because the whole crowd was amazed at his teaching.
+[19] In the evening
+Jesus and his disciples went out of the city.
 
 > **What does this mean?**
 > In the outer court of the temple, animals for sacrifice were sold and money was changed. This was needed for the running of the temple. This court was also the only place where non-Jews were allowed to pray.
 > Money changers: people who exchanged foreign coins for the coins used at the temple.
-> Verse 16: Only Mark tells us: Jesus lets no one carry anything through the temple. Some people used the temple court as a shortcut.
+> Verse 16: Only Mark tells us: Jesus lets no one carry a container through the temple. Some people used the temple court as a shortcut.
 > Verse 17: Only Mark quotes the words “for all the nations.” The verse combines Isaiah 56:7 and Jeremiah 7:11. The temple is to be a place of prayer for all people.
 > Like the prophets before him, Jesus criticizes that God’s house has become a place of business.
 > Important: Jesus does not hurt anyone. This story is no excuse for violence.
@@ -117,34 +117,32 @@ he went out of the city.
 
 ## Faith, prayer and forgiveness (Verses 20–26)
 
-[20] As they passed by in the morning,
-they saw the fig tree.
-It had withered away from the roots.
-[21] Peter remembered and said to him,
+[20] In the morning they walked past the fig tree.
+They saw that it had dried up,
+all the way down to the roots.
+[21] Peter remembered what had happened.
+He said to Jesus,
 “Rabbi, look!
 The fig tree that you cursed
-has withered away.”
+has dried up.”
 [22] Jesus answered them,
 “Have faith in God.
-[23] For most certainly I tell you,
-whoever says to this mountain,
-‘Be taken up and thrown into the sea,’
-and doesn’t doubt in his heart,
-but believes
-that what he says is happening,
-he will have whatever he says.
-[24] So I tell you,
-whatever you pray and ask for,
-believe that you have received it,
-and you will have it.
-[25] Whenever you stand praying,
-forgive,
-if you have anything against anyone,
-so that your Father in heaven
-may also forgive you your sins.
+[23] I tell you the truth:
+Someone may say to this mountain,
+‘Lift yourself up and throw yourself into the sea.’
+He does not doubt in his heart.
+He believes that what he says is happening.
+Then he will have what he says.
+[24] So I tell you:
+Whatever you pray and ask for,
+believe that you have received it.
+Then you will have it.
+[25] When you stand and pray,
+forgive anyone you have something against.
+Then your Father in heaven
+will also forgive you your sins.
 [26] But if you do not forgive,
-neither will your Father in heaven
-forgive your sins.”
+your Father in heaven will not forgive your sins either.”
 
 > **What does this mean?**
 > Verse 22: “Have faith in God.” It is about trusting God, not about your own strength.
@@ -159,31 +157,32 @@ forgive your sins.”
 ## The question about Jesus’ authority (Verses 27–33)
 
 [27] They came to Jerusalem again.
-As Jesus was walking in the temple,
-the chief priests, the scribes, and the elders came to him
-[28] and began to ask him,
-“By what authority do you do these things?
-Or who gave you this authority
+Jesus was walking around in the temple.
+Then the chief priests, the scribes and the elders came to him.
+[28] They began to ask him,
+“What right do you have to do these things?
+Who gave you the authority
 to do these things?”
 [29] Jesus said to them,
 “I will ask you one question.
-Answer me,
-and I will tell you
+Answer me.
+Then I will tell you
 by what authority I do these things.
 [30] The baptism of John:
-was it from heaven, or from men?
+Did it come from heaven, or from people?
 Answer me!”
-[31] They talked it over among themselves and said,
+[31] They talked it over with each other.
+They said,
 “If we say, ‘From heaven,’
 he will say,
-‘Why then didn’t you believe him?’
-[32] But if we say, ‘From men’ …”
+‘Then why did you not believe John?’
+[32] But if we say, ‘From people’ …”
 They were afraid of the people.
-For everyone thought that John really was a prophet.
-[33] They answered Jesus,
-“We don’t know.”
+For everyone believed that John really was a prophet.
+[33] So they answered Jesus,
+“We do not know.”
 Then Jesus said to them,
-“Then neither will I tell you
+“Then I will not tell you either
 by what authority I do these things.”
 
 > **What does this mean?**

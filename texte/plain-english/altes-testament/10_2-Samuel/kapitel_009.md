@@ -5,25 +5,27 @@
 
 ## David looks for someone from Saul’s family (Verses 1–5)
 
-[1] David said,
-“Is there anyone still left of Saul’s house,
-so that I may show him kindness for Jonathan’s sake?”
-[2] There was a servant of Saul’s house whose name was Ziba.
-They called him to David.
-The king said to him,
+[1] One day David asked,
+“Is anyone from Saul’s family still alive?
+I want to be kind to him because of Jonathan.”
+[2] There was a servant from Saul’s household.
+His name was Ziba.
+They called him to come to David.
+The king asked him,
 “Are you Ziba?”
-He said, “I am your servant.”
-[3] The king said,
-“Is there no one left of Saul’s house,
-so that I may show him the kindness of God?”
+He answered, “Yes, I am your servant.”
+[3] The king asked,
+“Is there no one left from Saul’s family?
+I want to show him the kindness of God.”
 Ziba said to the king,
-“Jonathan still has a son, who is lame in his feet.”
-[4] The king said to him,
+“Jonathan still has a son.
+He cannot walk properly, because his feet are lame.”
+[4] The king asked him,
 “Where is he?”
-Ziba said to the king,
-“He is in the house of Machir the son of Ammiel, in Lo Debar.”
-[5] Then King David sent for him
-and had him brought from the house of Machir the son of Ammiel, from Lo Debar.
+Ziba answered the king,
+“He is in Lo Debar, in the house of Machir, the son of Ammiel.”
+[5] So King David sent messengers.
+They brought Jonathan’s son from the house of Machir, the son of Ammiel, in Lo Debar.
 
 > **What does this mean?**
 > David is now a powerful king. His enemies are defeated. And now he remembers his promise to Jonathan: I will show kindness to your family forever (1 Samuel 20:14–17).
@@ -41,12 +43,13 @@ David said, “Mephibosheth?”
 He answered, “Here is your servant!”
 [7] David said to him,
 “Don’t be afraid.
-For I will surely show you kindness for the sake of your father Jonathan.
-I will give back to you all the land of your grandfather Saul.
-And you will always eat bread at my table.”
-[8] He bowed down and said,
-“What is your servant,
-that you should look at a dead dog like me?”
+I will surely be kind to you because of your father Jonathan.
+I will give back to you all the land that belonged to your grandfather Saul.
+And you will always eat at my table.”
+[8] Mephibosheth bowed down and said,
+“Who am I, your servant?
+I am no better than a dead dog.
+Why should you care about me?”
 
 > **What does this mean?**
 > Mephibosheth is afraid. He is the grandson of David’s enemy. Maybe he expects to be killed.
@@ -59,16 +62,18 @@ that you should look at a dead dog like me?”
 
 ## Ziba is to work for Mephibosheth (Verses 9–13)
 
-[9] Then the king called Ziba, Saul’s servant, and said to him,
-“Everything that belonged to Saul and to his whole house
-I have given to your master’s son.
-[10] Farm the land for him,
-you, your sons, and your servants.
-Bring in the harvest, so that your master’s son has bread to eat.
-But Mephibosheth, your master’s son, will always eat bread at my table.”
+[9] Then the king called Ziba, Saul’s servant.
+He said to him,
+“I have given your master’s grandson everything
+that belonged to Saul and his whole family.
+[10] You, your sons, and your servants must farm the land for him.
+Bring in the harvest,
+so that your master’s grandson has food to eat.
+But Mephibosheth himself will always eat at my table.”
 Ziba had 15 sons and 20 servants.
-[11] Then Ziba said to the king,
-“Your servant will do everything that my lord the king commands his servant.”
+[11] Ziba said to the king,
+“I am your servant.
+I will do everything you command me, my lord the king.”
 So Mephibosheth ate at the king’s table like one of the king’s sons.
 [12] Mephibosheth had a young son whose name was Mica.
 And all who lived in Ziba’s house were servants to Mephibosheth.

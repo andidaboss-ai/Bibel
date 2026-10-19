@@ -25,7 +25,7 @@ Some parts of the story are told in an exaggerated way, almost like a satire. Th
 This is the Ahasuerus who reigned from India to Ethiopia,
 over 127 provinces.
 [2] In those days King Ahasuerus sat on the throne of his kingdom
-in Susa the palace.
+in the fortress of Susa.
 [3] In the third year of his reign
 he gave a feast for all his princes and his servants.
 The army of Persia and Media, the nobles and the princes of the provinces were before him.
@@ -33,7 +33,7 @@ The army of Persia and Media, the nobles and the princes of the provinces were b
 and the honor of his splendid majesty for many days,
 180 days.
 [5] When these days were over,
-the king gave a feast of seven days for all the people who were present in Susa the palace,
+the king gave a feast of seven days for all the people who were present in the fortress of Susa,
 both great and small,
 in the court of the garden of the king’s palace.
 [6] There were hangings of white and blue material,

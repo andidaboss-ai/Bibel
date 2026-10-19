@@ -5,38 +5,38 @@
 
 ## Before the evil days come (Verses 1–8)
 
-[1] Remember also your Creator in the days of your youth,
-before the evil days come
-and the years come near when you will say,
-“I have no pleasure in them.”
-[2] Before the sun, the light, the moon, and the stars grow dark,
-and the clouds return after the rain,
-[3] on the day when the keepers of the house tremble,
-and the strong men bend over,
-and the women grinding grain stop because they are few,
-and those who look out of the windows grow dark,
-[4] and the doors to the street are shut,
-when the sound of the grinding is low,
-and one gets up at the sound of a bird,
-and all the daughters of music are brought low.
-[5] Yes, they will be afraid of heights,
-and terrors will be on the way.
-And the almond tree will blossom,
-and the grasshopper will be a burden,
-and desire will fail,
-for people go to their everlasting home,
-and the mourners go about the streets.
-[6] Before the silver cord is cut,
+[1] Remember your Creator while you are young.
+Remember him before the bad days come.
+Remember him before the years come when you will say,
+“I don’t enjoy them anymore.”
+[2] Remember him before the sun, the light, the moon, and the stars grow dark,
+and the clouds come back after the rain.
+[3] Then the keepers of the house will tremble.
+The strong men will bend over.
+The women who grind grain will stop, because there are only a few left.
+Those who look out of the windows will see only darkness.
+[4] The doors to the street will be shut.
+The sound of the grinding will be quiet.
+People will get up when a bird starts to sing.
+All the songs will become soft.
+[5] People will be afraid of high places.
+They will be afraid of dangers on the road.
+The almond tree will blossom.
+The grasshopper will be a heavy load.
+Desire will be gone.
+For people go to their eternal home,
+and the mourners walk around in the streets.
+[6] Remember him before the silver cord is cut,
 or the golden bowl is broken,
 or the jar is broken at the spring,
-or the wheel is broken at the well,
-[7] and the dust returns to the earth as it was,
-and the spirit returns to God who gave it.
+or the wheel is broken at the well.
+[7] Then the dust goes back to the earth, where it came from.
+And the spirit goes back to God, who gave it.
 [8] “Vanity of vanities,” says the Preacher.
 “All is vanity!”
 
 > **What does this mean?**
-> Verse 1: “Remember also your Creator in the days of your youth.” That means: Think of him while you are young. Don’t wait until you are old and sick.
+> Verse 1: “Remember your Creator while you are young.” That means: Think of him now. Don’t wait until you are old and sick.
 > Verses 2–6 are a great poem about growing old. The pictures are very poetic. Many interpreters explain them like this:
 > The “keepers of the house” who tremble are the hands. The “strong men” who bend over are the legs. The women grinding grain who become few are the teeth. “Those who look out of the windows” and grow dark are the eyes. The low sound of the grinding is poor hearing. You wake up early, as soon as a bird sings. You are afraid of heights and of falling. The white blossoming almond tree is white hair. Even a small grasshopper becomes a burden.
 > Verse 6: Then the “silver cord” on which the golden lamp hangs is cut. The jar at the well breaks. These are pictures for death: Life breaks like a precious vessel.
@@ -48,27 +48,29 @@ and the spirit returns to God who gave it.
 
 ## The final word (Verses 9–14)
 
-[9] Also, because the Preacher was wise,
-he kept teaching the people knowledge.
-Yes, he thought, searched, and set in order many proverbs.
-[10] The Preacher tried to find pleasing words,
-and what was written honestly, words of truth.
-[11] The words of the wise are like goads,
-and like nails driven in firmly are the words of the masters of collections,
-which are given by one shepherd.
-[12] Also, my son, be warned:
+[9] The Preacher was wise.
+So he also taught the people what he knew.
+He thought about many proverbs.
+He studied them and put them in order.
+[10] The Preacher tried to find the right words.
+He wrote honestly, and he wrote words of truth.
+[11] The words of the wise are like goads.
+A goad is a pointed stick used to drive cattle.
+The words of the collected proverbs are like nails that are driven in firmly.
+They are given by one shepherd.
+[12] My son, be warned:
 There is no end to making many books,
 and much study makes the body tired.
-[13] This is the end of the matter. All has been heard.
-Fear God and keep his commandments,
-for this is the whole duty of people.
-[14] For God will bring every work into judgment,
-with every hidden thing,
+[13] This is the end of the matter. Everything has been heard.
+Fear God and keep his commandments.
+That is what every person must do.
+[14] God will judge everything people do,
+even everything that is hidden,
 whether it is good or evil.
 
 > **What does this mean?**
 > Verses 9–12: Here someone speaks about the Preacher, perhaps a student. He praises him: He was wise, he searched and collected proverbs.
-> Verse 11: The words of the wise are like goads, sharp sticks used to drive cattle. They poke us and get us moving. And they hold firm like nails. The “one shepherd” is probably God himself, from whom all true wisdom comes.
+> Verse 11: The words of the wise are like goads, pointed sticks used to drive cattle. They poke us and get us moving. And they hold firm like nails. The “one shepherd” is probably God himself, from whom all true wisdom comes.
 > Verse 12: A sentence that makes many students smile: “There is no end to making many books, and much study makes the body tired.”
 > Verses 13–14 are the end of the whole book: “Fear God and keep his commandments.” After all the questions and doubts, the most important thing remains: Take God seriously and live by his will. And: God sees everything, even what is hidden.
 

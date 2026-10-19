@@ -21,7 +21,7 @@ Nehemiah prays very often, sometimes only very briefly, in the middle of a conve
 
 [1] The words of Nehemiah the son of Hacaliah.
 In the month Chislev, in the twentieth year,
-I was in Susa the palace.
+I was in the fortress of Susa.
 [2] Hanani, one of my brothers, came with some men from Judah.
 I asked them about the Jews who had escaped,
 who were left from the captivity,

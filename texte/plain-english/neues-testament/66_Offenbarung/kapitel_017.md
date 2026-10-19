@@ -13,40 +13,30 @@
 
 ## The great prostitute Babylon (Verses 1–6)
 
-[1] One of the seven angels
-who had the seven bowls
-came and spoke with me.
+[1] One of the seven angels who had the seven bowls came and spoke with me.
 He said,
 “Come here!
-I will show you the judgment of the great prostitute
-who sits on many waters.
-[2] With her the kings of the earth committed sexual immorality.
-And those who dwell on the earth
-were made drunk
-with the wine of her sexual immorality.”
-[3] He carried me away in the Spirit into a wilderness.
-There I saw a woman
-sitting on a scarlet-colored beast.
-The beast was full of blasphemous names.
+I will show you how the great prostitute will be judged.
+She sits on many waters.
+[2] The kings of the earth committed sexual immorality with her.
+Those who live on the earth became drunk with the wine of her sexual immorality.”
+[3] Then the Spirit came over me, and the angel carried me away into a wilderness.
+There I saw a woman sitting on a bright red beast.
+The beast was covered with names that insulted God.
 It had seven heads and ten horns.
-[4] The woman was dressed in purple and scarlet
-and decked with gold,
-precious stones and pearls.
-In her hand she had a golden cup
-full of abominations
-and the impurities of the sexual immorality of the earth.
-Abominations are disgusting things.
-[5] On her forehead a name was written:
+[4] The woman was dressed in purple and bright red.
+She was decorated with gold, precious stones, and pearls.
+In her hand she held a golden cup.
+It was full of disgusting things and the filth of the sexual immorality of the earth.
+[5] A name was written on her forehead:
 “MYSTERY,
 BABYLON THE GREAT,
 THE MOTHER OF THE PROSTITUTES
-AND OF THE ABOMINATIONS OF THE EARTH.”
-[6] And I saw
-that the woman was drunk
-with the blood of the saints
+AND OF THE DISGUSTING THINGS OF THE EARTH.”
+[6] I saw that the woman was drunk with the blood of the saints
 and with the blood of the martyrs of Jesus.
-When I saw her,
-I wondered with great amazement.
+Martyrs are people who were killed because of their faith.
+When I saw her, I was very amazed.
 
 > **What does this mean?**
 > Verse 1: “On many waters”: Ancient Babylon lay on the Euphrates with many canals. Verse 15 explains: The waters are the peoples over whom she rules.
@@ -60,57 +50,39 @@ I wondered with great amazement.
 ## The mystery of the woman and the beast (Verses 7–14)
 
 [7] The angel said to me,
-“Why do you wonder?
-I will tell you the mystery of the woman
-and the mystery of the beast
-that carries her
-and that has the seven heads and the ten horns.
-[8] The beast
-that you saw
-was,
-and is not,
-and is about to come up out of the abyss
-and to go into destruction.
-Those who dwell on the earth,
-whose names have not been written in the book of life
-from the foundation of the world,
-will marvel
-when they see the beast,
-that it was,
-and is not,
-and shall be present.
-[9] Here is the mind that has wisdom:
-The seven heads are seven mountains
-on which the woman sits.
+“Why are you amazed?
+I will tell you the secret of the woman,
+and the secret of the beast that carries her.
+It is the beast with the seven heads and the ten horns.
+[8] The beast you saw was, and is not.
+It is about to come up out of the abyss and go to destruction.
+Those who live on the earth will be amazed when they see the beast.
+For it was, and is not, and will be here again.
+These are the people whose names have not been written in the book of life
+since the creation of the world.
+[9] This calls for a mind that has wisdom.
+The seven heads are seven mountains.
+The woman sits on them.
 [10] They are also seven kings.
-Five have fallen,
-one is,
-and the other has not yet come.
-When he comes,
-he must continue only a little while.
-[11] The beast
-that was, and is not,
-is himself also an eighth,
-and is one of the seven.
-And he goes to destruction.
-[12] The ten horns
-that you saw
-are ten kings.
-They have received no kingdom as yet.
-But they receive authority as kings
-for one hour,
-together with the beast.
-[13] They all have one mind.
-And they give their power and authority to the beast.
-[14] They will war against the Lamb.
-But the Lamb will overcome them.
-For he is Lord of lords
-and King of kings.
-And those who are with him
-are called, chosen and faithful.”
+Five have fallen.
+One is ruling now.
+The other has not come yet.
+When he comes, he can only stay for a short time.
+[11] The beast that was, and is not, is also an eighth king.
+He belongs to the seven.
+And he is going to destruction.
+[12] The ten horns you saw are ten kings.
+They have not received a kingdom yet.
+But together with the beast they receive authority as kings for one hour.
+[13] They all have the same purpose.
+They give their power and authority to the beast.
+[14] They will make war against the Lamb.
+But the Lamb will defeat them,
+for he is Lord of lords and King of kings.
+Those who are with him are called, chosen, and faithful.”
 
 > **What does this mean?**
-> Verse 8: It is said of the beast that it “was, and is not, and shall be present.” That is an evil imitation of God, “who is and who was and who is to come” (1:8). The beast pretends to be eternal. But its end is destruction.
+> Verse 8: It is said of the beast that it “was, and is not, and will be here again.” That is an evil imitation of God, “who is and who was and who is to come” (1:8). The beast pretends to be eternal. But its end is destruction.
 > Verse 9: Rome is famous as the city on seven hills. For the first readers this was a clear hint.
 > Verses 10–11: The seven kings are probably Roman emperors. There are many guesses about who exactly is meant. What is important: Their time is limited.
 > Verse 12: “One hour”: Their power is very short.
@@ -121,28 +93,20 @@ are called, chosen and faithful.”
 ## The end of the woman (Verses 15–18)
 
 [15] He said to me,
-“The waters
-which you saw,
-where the prostitute sits,
-are peoples, multitudes,
-nations and languages.
-[16] The ten horns
-which you saw,
-they and the beast
-will hate the prostitute.
-They will make her desolate
-and strip her naked,
-will eat her flesh
-and will burn her completely with fire.
-[17] For God has put it in their hearts
-to do what he has in mind,
-to be of one mind
-and to give their kingdom to the beast,
-until the words of God are accomplished.
-[18] The woman
-whom you saw
-is the great city
-which reigns over the kings of the earth.”
+“You saw the waters where the prostitute sits.
+They are peoples, crowds, nations, and languages.
+[16] You saw the ten horns.
+They and the beast will hate the prostitute.
+They will take everything away from her and leave her alone.
+They will strip her naked.
+They will eat her flesh,
+and they will burn her up completely with fire.
+[17] For God has put it into their hearts to carry out his plan.
+They will have the same purpose.
+They will give their kingdom to the beast,
+until God’s words have come true.
+[18] The woman you saw is the great city.
+It rules over the kings of the earth.”
 
 > **What does this mean?**
 > Verse 16: In the end, evil destroys itself. The powers that worked together with the city turn against it. Violence devours itself.
