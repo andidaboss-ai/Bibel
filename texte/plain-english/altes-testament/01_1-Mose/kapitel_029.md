@@ -111,7 +111,7 @@ They seemed to him like only a few days, because he loved her so much.
 
 [21] Then Jacob said to Laban,
 “Give me my wife.
-My time is over.
+My time of work is over.
 I want to sleep with her.”
 
 [22] Laban gathered together all the men of the place and made a feast.
@@ -119,7 +119,7 @@ I want to sleep with her.”
 And Jacob slept with her.
 [24] Laban gave his servant Zilpah to his daughter Leah to be her servant.
 
-[25] In the morning – look: It was Leah!
+[25] In the morning – look! It was Leah!
 Jacob said to Laban,
 “What have you done to me?
 Didn’t I work for you for Rachel?

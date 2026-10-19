@@ -32,7 +32,7 @@ And he will be forgiven for whatever he did that made him guilty.”
 > In some Bibles, verses 1–7 of this chapter come at the end of Chapter 5 (as 5:20–26). That is why the verse numbers in Chapter 6 are different there. Here we follow the numbering of the WEB.
 > Whoever cheats another person sins not only against that person, but also against God. That is why it says: He “is unfaithful to the LORD.”
 > The order is important: First you give back to the person what you took from him, and you add a fifth. Only then do you bring the offering to God.
-> Jesus says something very similar: If you bring your gift to the altar and remember there that your brother has something against you, leave your gift there. First go and make peace with your brother. Then come and bring your gift (Matthew 5:23–24).
+> Jesus says something very similar: “So if you are bringing your gift to the altar and you remember there that your brother has something against you, then leave your gift there in front of the altar and go away. First make peace with your brother. Then come and offer your gift” (Matthew 5:23–24).
 > A good example is Zacchaeus in the New Testament. He even gave back four times as much (Luke 19:8).
 
 ---
@@ -78,7 +78,7 @@ They shall eat it in the courtyard of the Tent of Meeting.
 [17] It shall not be baked with yeast.
 I have given it to them as their share of my offerings made by fire.
 It is most holy, like the sin offering and the trespass offering.
-[18] Every male among the children of Aaron shall eat from it.
+[18] Every male among the descendants of Aaron shall eat from it.
 This is their share forever, for all your generations, from the LORD’s offerings made by fire.
 Whoever touches them shall be holy.’”
 

@@ -100,7 +100,7 @@ He has blessed, and I cannot undo it.
 [21] He has not seen evil in Jacob.
 He has not seen wickedness in Israel.
 The LORD his God is with him.
-The shout for a king is among them.
+The shout of a king is among them.
 [22] God brings them out of Egypt.
 He has strength like a wild ox.
 [23] There is no magic spell against Jacob.

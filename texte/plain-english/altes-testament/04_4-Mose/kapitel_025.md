@@ -37,7 +37,7 @@ He got up from the middle of the community and took a spear in his hand.
 [8] He went after the man of Israel into the tent.
 He pierced both of them, the man of Israel and the woman, through her body.
 Then the plague among the people of Israel stopped.
-[9] 24,000 people died in the plague.
+[9] In the plague, 24,000 people died.
 
 > **What does this mean?**
 > The whole people is weeping at the holy tent and is sorry. But one man openly brings a woman from Midian into the camp. He does it in front of Moses, as if he wanted to mock God and the people.

@@ -5,9 +5,9 @@
 
 ## Stealing (Verses 1–4)
 
-[1] If a man steals an ox or a sheep, and kills it or sells it,
+[1] “If a man steals an ox or a sheep, and kills it or sells it,
 he must pay back five oxen for one ox and four sheep for one sheep.
-[2] If a thief is caught breaking in at night,
+[2] If a thief is caught breaking in,
 and he is hit so that he dies,
 then the one who killed him is not guilty of bloodshed.
 [3] But if the sun has already risen,
@@ -27,11 +27,11 @@ he must pay back double.
 
 ## Damage to fields (Verses 5–6)
 
-[5] Someone may let his animals graze in a field or a vineyard,
+[5] “Someone may let his animals graze in a field or a vineyard,
 and they may eat in another man’s field.
 Then he must make up for it with the best of his own field and the best of his own vineyard.
 
-[6] If a fire breaks out and spreads to thorn bushes,
+[6] “If a fire breaks out and spreads to thorn bushes,
 so that stacked bundles of grain, standing grain or a whole field burn up,
 then the one who started the fire must make up for the loss.
 
@@ -42,7 +42,7 @@ then the one who started the fire must make up for the loss.
 
 ## Goods given for safekeeping (Verses 7–13)
 
-[7] Someone may give his neighbor money or goods to keep safe.
+[7] “Someone may give his neighbor money or goods to keep safe.
 If they are stolen from the neighbor’s house
 and the thief is found, the thief must pay back double.
 [8] If the thief is not found,
@@ -54,7 +54,7 @@ or anything lost about which someone says, ‘This is mine’ –
 the case of both people is to be brought before God.
 The one whom God finds guilty must pay back double to his neighbor.
 
-[10] Someone may give his neighbor a donkey, an ox, a sheep or any other animal to look after.
+[10] “Someone may give his neighbor a donkey, an ox, a sheep or any other animal to look after.
 It may die, or be injured, or be driven away, without anyone seeing it.
 [11] Then both of them are to swear an oath by the LORD
 that the neighbor has not taken the other man’s goods.
@@ -68,7 +68,7 @@ He does not have to pay for an animal that was torn to pieces.
 
 > **What does this mean?**
 > There were no banks back then. People gave valuables or animals to a neighbor to keep safe.
-> If something goes missing and no one knows who is to blame, the matter is brought “before God.” This probably means: before the judges or priests at the sanctuary. There one has to tell the truth under a holy oath.
+> If something goes missing and no one knows who is to blame, the matter is brought “before God.” This probably means: before the judges or priests at the sanctuary. There people have to tell the truth under a holy oath.
 > A shepherd cannot help it if a wild animal attacks. But he has to bring proof. Remember: Jacob complained to Laban that he even had to replace animals that were torn to pieces (Genesis 31:39). This law is fairer.
 > In some Bibles, the verse numbers in this chapter are often shifted by one.
 
@@ -76,7 +76,7 @@ He does not have to pay for an animal that was torn to pieces.
 
 ## Borrowed goods (Verses 14–15)
 
-[14] If someone borrows an animal from his neighbor,
+[14] “If someone borrows something from his neighbor,
 and it is injured or dies while the owner is not there,
 he must surely pay for it.
 [15] If the owner was there, he does not have to pay for it.
@@ -86,7 +86,7 @@ If it was rented, the loss is covered by the rent.
 
 ## Seducing a young woman (Verses 16–17)
 
-[16] A man may talk a young woman into sleeping with him.
+[16] “A man may talk a young woman into sleeping with him.
 She is a virgin and not promised to anyone in marriage.
 Then he must pay the bride price for her and marry her.
 A bride price is money that the groom gives to the bride’s family.
@@ -102,7 +102,7 @@ he must still pay as much money as the bride price for a virgin.
 
 ## Deeds that deserve death (Verses 18–20)
 
-[18] You must not let a sorceress live.
+[18] “You must not let a sorceress live.
 [19] Anyone who has sex with an animal must be put to death.
 [20] Anyone who sacrifices to any god other than the LORD alone must be completely destroyed.
 
@@ -115,10 +115,10 @@ he must still pay as much money as the bride price for a virgin.
 
 ## Protection for foreigners, widows and orphans (Verses 21–24)
 
-[21] You must not mistreat a foreigner or oppress him.
+[21] “You must not mistreat a foreigner or oppress him.
 For you yourselves were foreigners in the land of Egypt.
 
-[22] You must not take advantage of any widow or orphan.
+[22] “You must not take advantage of any widow or orphan.
 [23] If you do take advantage of them and they cry out to me,
 I will surely hear their cry.
 [24] Then my anger will burn,
@@ -135,7 +135,7 @@ Then your own wives will become widows, and your children orphans.
 
 ## Protection for the poor (Verses 25–27)
 
-[25] If you lend money to one of my people, a poor person who lives among you,
+[25] “If you lend money to one of my people, a poor person who lives among you,
 do not treat him like a moneylender would.
 You must not charge him interest.
 [26] If you take your neighbor’s coat as a pledge that he will pay you back,
@@ -155,16 +155,16 @@ For I am gracious.
 
 ## Respect for God and for the leaders (Verses 28–31)
 
-[28] You must not speak evil against God.
+[28] “You must not speak evil against God.
 And you must not curse a leader of your people.
 
-[29] Do not delay in giving me some of your harvest and of the juice from your presses.
+[29] “Do not delay in giving me some of your harvest and of the juice from your presses.
 You are to give me the firstborn of your sons.
 [30] Do the same with your cattle and your sheep.
 The young animal is to stay with its mother for seven days.
 On the eighth day you are to give it to me.
 
-[31] You are to be holy people for me.
+[31] “You are to be holy people for me.
 So you must not eat any meat from an animal torn to pieces by wild animals in the field.
 Throw it to the dogs.
 

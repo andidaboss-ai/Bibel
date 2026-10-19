@@ -102,13 +102,13 @@ that the LORD swore to your ancestors,
 
 ## When your child asks you (Verses 20–25)
 
-[20] Later your son will ask you,
+[20] Later, your son may ask you,
 “What do the testimonies, the rules, and the laws mean
 that the LORD our God has commanded you?”
 [21] Then you shall tell your son,
 “We were Pharaoh’s slaves in Egypt.
 And the LORD brought us out of Egypt with a mighty hand.
-[22] Before our eyes the LORD did great and terrible signs and wonders
+[22] Before our eyes the LORD did great and frightening signs and wonders
 against Egypt, against Pharaoh, and against all his household.
 [23] And he brought us out from there, so that he could bring us in here
 and give us the land that he swore to our ancestors.

@@ -47,7 +47,7 @@ and set you free from the house of slavery, from the hand of Pharaoh, the king o
 He keeps his covenant and his loving kindness for a thousand generations
 with those who love him and keep his commandments.
 [10] But he pays back those who hate him to their face, to destroy them.
-He does not wait with the one who hates him.
+He is not slow to act against the one who hates him.
 He pays him back to his face.
 [11] So keep the commandments, the rules, and the laws that I command you today, and do them.
 

@@ -47,7 +47,7 @@ She said,
 “Because I drew him out of the water.”
 
 > **What does this mean?**
-> Moses comes from the family of Levi. Later we learn the names of his parents: Amram and Jochebed (Chapter 6:20). His sister is called Miriam.
+> Moses comes from the family of Levi. Later we learn the names of his parents: Amram and Jochebed (Exodus 6:20). His sister is called Miriam.
 > In Hebrew, the word for “basket” is the same word as “ark” in the story of Noah. Like Noah in his ark, Moses is saved from death in the water in his little “box.”
 > Papyrus is a reed plant that grows by the Nile. People also made paper from it.
 > Again it is women who save a life: the mother, the sister – and even Pharaoh’s daughter, who does not obey her own father.
@@ -119,7 +119,7 @@ He said,
 > Again there is a meeting at a well, like with Rebekah and with Rachel. And again it leads to a wedding.
 > Moses stands up for the weak again. This time without violence.
 > The women think Moses is an Egyptian, because he is dressed like one.
-> The priest of Midian has two names: Reuel and Jethro (Chapter 3:1).
+> The priest of Midian has two names: Reuel and Jethro (Exodus 3:1).
 > “Gershom” sounds like “a foreigner there.” Moses feels he has no home: In Egypt he was a Hebrew, in Midian he is a foreigner.
 
 ---

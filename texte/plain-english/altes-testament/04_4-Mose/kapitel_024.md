@@ -25,7 +25,7 @@ like aloe trees that the LORD has planted,
 like cedar trees beside the waters.
 Aloe trees and cedar trees are trees that smell sweet and grow tall.
 [7] Water will flow from his buckets.
-His seed will be by many waters.
+His seed will be in many waters.
 His king will be greater than Agag.
 His kingdom will be lifted up high.
 [8] God brings him out of Egypt.
@@ -87,7 +87,7 @@ I see him, but not near.
 A star will come out of Jacob.
 A scepter will rise out of Israel.
 A scepter is the staff of a king.
-It will strike through the corners of Moab’s head,
+It will strike through the corners of Moab,
 and it will crush all the sons of Sheth.
 [18] Edom will become his property.
 Seir, his enemy, will also become his property,
