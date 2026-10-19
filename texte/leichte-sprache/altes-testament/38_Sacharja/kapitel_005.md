@@ -65,7 +65,7 @@ Wenn es fertig ist,
 wird sie dort an ihren eigenen Platz gestellt werden.“
 
 > **Was bedeutet das?**
-> Ein Efa war ein Hohlmaß für Getreide, etwa 20 bis 40 Liter. Hier ist es ein großer Korb oder ein Fass mit einem schweren Deckel aus Blei (ein Talent wog etwa 30 Kilogramm).
+> Ein Efa war ein Hohlmaß für Getreide, etwa 20 bis 40 Liter. Hier ist es ein großer Korb oder ein Fass mit einem schweren Deckel aus Blei (ein Talent wog etwa 34 Kilogramm).
 > Vers 6: Wörtlich heißt es im WEB „ihr Aussehen“ („their appearance“). Viele Übersetzungen folgen hier einer kleinen Änderung im Text und lesen „ihre Schuld“. Gemeint ist wohl: Das Fass zeigt, wie es um die Schuld im ganzen Land steht.
 > Vers 7–8: Im Fass sitzt eine Frau. Der Engel sagt: „Das ist die Bosheit.“ Im Hebräischen ist das Wort für „Bosheit“ weiblich, darum wird sie als Frau dargestellt. Das ist ein Bild, keine Aussage über Frauen. Bosheit gibt es bei Männern wie bei Frauen.
 > Vers 9: Auffällig: Zwei andere Frauen mit Flügeln wie Störche tragen das Fass weg. Sie stehen im Dienst Gottes. Frauen sind in dieser Vision also auch Gottes Helferinnen.

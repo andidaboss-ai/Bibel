@@ -67,7 +67,7 @@ When it is ready,
 she will be set there in her own place.”
 
 > **What does this mean?**
-> An ephah was a measure for grain, about 5 to 10 gallons. Here it is a large basket or barrel with a heavy lid made of lead. A talent weighed about 66 pounds.
+> An ephah was a measure for grain, about 5 to 10 gallons. Here it is a large basket or barrel with a heavy lid made of lead. A talent weighed about 75 pounds.
 > Verse 6: Word for word, the WEB says “their appearance.” Many translations follow a small change in the text here and read “their guilt.” It probably means: The basket shows how things stand with the guilt in the whole land.
 > Verses 7–8: A woman sits in the basket. The angel says: “This is Wickedness.” In Hebrew, the word for “wickedness” is feminine. That is why it is shown as a woman. This is a picture. It says nothing about women. Men and women can both be wicked.
 > Verse 9: Notice this: Two other women, with wings like storks, carry the basket away. They are serving God. So in this vision, women are also God’s helpers.
