@@ -12,50 +12,36 @@
 
 ## The four riders (Verses 1–8)
 
-[1] I saw
-that the Lamb opened one of the seven seals.
-And I heard one of the four living creatures
-saying with a voice like thunder,
-“Come and see!”
+[1] I saw the Lamb open one of the seven seals.
+And I heard one of the four living creatures speak with a voice like thunder.
+It said, “Come and see!”
 [2] Then a white horse appeared.
 The one who sat on it had a bow.
-A crown was given to him.
-And he came out conquering,
-and to conquer.
+He was given a crown.
+He rode out as a conqueror, to conquer.
 [3] When the Lamb opened the second seal,
-I heard the second living creature saying,
-“Come!”
-[4] Then another horse came out,
-a red one.
-To the one who sat on it was given power
-to take peace from the earth,
+I heard the second living creature say, “Come!”
+[4] Another horse came out. It was red.
+The one who sat on it was given power to take peace away from the earth,
 so that people would kill one another.
-And a great sword was given to him.
+He was given a great sword.
 [5] When the Lamb opened the third seal,
-I heard the third living creature saying,
-“Come and see!”
-And I saw:
-a black horse.
+I heard the third living creature say, “Come and see!”
+I looked, and there was a black horse.
 The one who sat on it had a balance in his hand.
 A balance is a scale for weighing.
-[6] And I heard a voice
-in the middle of the four living creatures saying,
+[6] I heard a voice in the middle of the four living creatures.
+It said,
 “A choenix of wheat for a denarius,
 and three choenix of barley for a denarius!
-Don’t damage the oil and the wine!”
+Don’t harm the oil and the wine!”
 [7] When the Lamb opened the fourth seal,
-I heard the fourth living creature saying,
-“Come and see!”
-[8] And I saw:
-a pale horse.
+I heard the fourth living creature say, “Come and see!”
+[8] I looked, and there was a pale horse.
 The name of the one who sat on it was Death.
-And Hades followed with him.
-Authority was given to them
-over one fourth of the earth,
-to kill with the sword,
-with famine,
-with death
-and by the wild animals of the earth.
+Hades followed with him.
+He was given authority over one fourth of the earth.
+He could kill with the sword, with famine, with death, and by the wild animals of the earth.
 
 > **What does this mean?**
 > The four riders recall the colored horses in the prophet Zechariah (Zechariah 1 and 6).
@@ -70,68 +56,51 @@ and by the wild animals of the earth.
 ## The martyrs under the altar (Verses 9–11)
 
 [9] When the Lamb opened the fifth seal,
-I saw underneath the altar the souls of those
-who had been killed
-for the Word of God
-and for the testimony of the Lamb
-which they had.
-[10] They cried with a loud voice,
-“How long,
-Master,
-the holy and true,
-until you judge
-and avenge our blood
-on those who dwell on the earth?”
-[11] A long white robe was given to each of them.
-And they were told
-that they should rest yet for a while,
-until their fellow servants and their brothers
-should complete their course,
-who would also be killed,
-even as they were.
+I saw souls under the altar.
+They were the souls of people who had been killed because of the Word of God.
+They had been killed because of the testimony of the Lamb that they held on to.
+A testimony is what a witness says.
+[10] They cried out with a loud voice,
+“Master, you are holy and true.
+How long will it be until you judge?
+How long until you punish those who live on the earth for spilling our blood?”
+[11] Each of them was given a long white robe.
+They were told to rest a little while longer.
+They had to wait until their fellow servants and their brothers had finished their course.
+These would also be killed, just as they had been.
 
 > **What does this mean?**
 > Verse 9: These people were killed because they believed in Jesus. They are called martyrs. Today, too, people in many countries are persecuted because of their faith.
 > Verse 10: “How long?”: Many psalms ask this question too (for example Psalm 13). It is the cry for justice. You may bring your complaint to God.
-> “Avenge” here means: God is to bring justice. The martyrs don’t take revenge themselves. They leave it to God.
+> “Punish” here means: God is to bring justice. The martyrs don’t take revenge themselves. They leave it to God.
 > Verse 11: God hears their complaint. He gives them white robes, a sign of honor and victory. He asks for patience.
 
 ---
 
 ## The sixth seal: The world is shaken (Verses 12–17)
 
-[12] I saw
-when the Lamb opened the sixth seal.
+[12] I saw the Lamb open the sixth seal.
 There was a great earthquake.
-The sun became black as sackcloth made of hair,
-and the whole moon became like blood.
-[13] The stars of the sky fell to the earth,
-like a fig tree dropping its unripe figs
-when it is shaken by a great wind.
-[14] The sky was removed
-like a scroll
-when it is rolled up.
-And every mountain and island
-was moved out of its place.
-[15] The kings of the earth,
-the princes,
-the commanding officers,
-the rich,
-the strong,
-and every slave and free person
-hid themselves in the caves
-and in the rocks of the mountains.
-[16] They told the mountains and the rocks,
-“Fall on us,
-and hide us from the face of him
-who sits on the throne,
-and from the wrath of the Lamb.
-[17] For the great day of his wrath has come.
-And who is able to stand?”
+The sun became as black as sackcloth made of hair.
+Sackcloth is a rough, dark cloth.
+The whole moon became like blood.
+[13] The stars of the sky fell to the earth.
+They fell like unripe figs from a fig tree when a strong wind shakes it.
+[14] The sky was taken away like a scroll that is rolled up.
+Every mountain and island was moved from its place.
+[15] The kings of the earth hid themselves in the caves and among the rocks of the mountains.
+The princes, the commanding officers, the rich, and the strong hid themselves.
+Every slave and every free person hid.
+[16] They said to the mountains and the rocks,
+“Fall on us!
+Hide us from the face of the one who sits on the throne.
+Hide us from the anger of the Lamb.
+[17] For the great day of his anger has come.
+Who is able to stand?”
 
 > **What does this mean?**
 > Verses 12–14: These pictures come from the prophets (for example Isaiah 34:4 and Joel 3:4, in some Bibles Joel 2:31). They say: When God comes, everything that seemed firm is shaken. They are pictures, not a scientific description.
 > Verse 15: All the powerful people of the world have no more power before God. Before God all are equal, kings and slaves.
 > Verse 16 recalls Hosea 10:8.
-> “The wrath of the Lamb” is a surprising picture. God’s wrath is not a fit of rage. It is God’s No to injustice and violence.
+> “The anger of the Lamb” is a surprising picture. God’s anger is not a fit of rage. It is God’s No to injustice and violence.
 > Verse 17: “Who is able to stand?” The next chapter gives the answer: God’s people are kept safe.

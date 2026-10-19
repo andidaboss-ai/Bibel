@@ -5,108 +5,75 @@
 
 ## Jesus and the woman of Samaria (Verses 1–26)
 
-[1] The Lord learned
-that the Pharisees had heard:
-Jesus is making and baptizing more disciples than John.
-[2] However, Jesus himself didn’t baptize,
-but his disciples did.
-[3] So he left Judea
-and went back into Galilee.
-[4] He needed to pass through Samaria.
-[5] So he came to a city of Samaria
-called Sychar.
-It is near the piece of land
-that Jacob gave to his son Joseph.
+[1] The Pharisees had heard that Jesus was making and baptizing more disciples than John.
+The Lord knew that they had heard this.
+[2] But Jesus himself didn’t baptize.
+His disciples did.
+[3] So Jesus left Judea and went back to Galilee.
+[4] He had to go through Samaria.
+[5] So he came to a town in Samaria called Sychar.
+It was near the field that Jacob had given to his son Joseph.
 [6] Jacob’s well was there.
-Jesus was tired from his journey
-and sat down by the well.
+Jesus was tired from the long walk.
+So he sat down by the well.
 It was about the sixth hour.
-[7] A woman of Samaria came
-to draw water.
-Jesus said to her,
-“Give me a drink.”
-[8] For his disciples had gone away into the city
-to buy food.
+[7] A woman from Samaria came to get water.
+Jesus said to her, “Give me a drink.”
+[8] His disciples had gone into the town to buy food.
 [9] The Samaritan woman said to him,
-“How is it that you, being a Jew,
-ask for a drink from me,
-a Samaritan woman?”
-(For Jews have no dealings with Samaritans.)
+“You are a Jew, and I am a Samaritan woman.
+How can you ask me for a drink?”
+Jews have nothing to do with Samaritans.
 [10] Jesus answered her,
-“If you knew
-the gift of God,
-and who it is who says to you,
-‘Give me a drink,’
-you would have asked him,
-and he would have given you living water.”
+“You don’t know the gift of God.
+And you don’t know who is asking you, ‘Give me a drink.’
+If you knew, you would have asked him.
+And he would have given you living water.”
 [11] The woman said to him,
-“Sir, you have nothing to draw with,
-and the well is deep.
+“Sir, you have nothing to get water with, and the well is deep.
 So where do you get that living water?
 [12] Are you greater than our father Jacob?
-He gave us the well.
-He drank from it himself,
-and so did his children and his livestock.”
+He gave us this well.
+He drank from it himself.
+His sons and his animals drank from it too.”
 [13] Jesus answered her,
-“Everyone who drinks of this water
-will be thirsty again.
-[14] But whoever drinks of the water
-that I will give him
-will never be thirsty again.
-The water that I will give him
-will become in him a well of water
-springing up to eternal life.”
+“Everyone who drinks this water will get thirsty again.
+[14] But whoever drinks the water I give him will never be thirsty again.
+The water I give him will become a spring of water inside him.
+It will keep flowing up to eternal life.”
 [15] The woman said to him,
-“Sir, give me this water,
-so that I won’t get thirsty
-and won’t have to come all the way here
-to draw water.”
+“Sir, give me this water!
+Then I won’t get thirsty.
+And I won’t have to keep coming all the way here to get water.”
 [16] Jesus said to her,
-“Go, call your husband,
-and come here.”
-[17] The woman answered,
-“I have no husband.”
+“Go, call your husband, and come back here.”
+[17] The woman answered, “I have no husband.”
 Jesus said to her,
-“You said well,
-‘I have no husband.’
-[18] For you have had five husbands,
-and the one you now have
-is not your husband.
-This you have said truly.”
+“You are right when you say, ‘I have no husband.’
+[18] You have had five husbands.
+And the man you have now is not your husband.
+What you said is true.”
 [19] The woman said to him,
-“Sir, I see
-that you are a prophet.
-[20] Our fathers worshiped on this mountain.
-But you Jews say
-that Jerusalem is the place where people ought to worship.”
+“Sir, I can see that you are a prophet.
+[20] Our ancestors worshiped on this mountain.
+But you Jews say that people must worship in Jerusalem.”
 [21] Jesus said to her,
 “Woman, believe me:
-The hour is coming
-when you will worship the Father neither on this mountain
-nor in Jerusalem.
-[22] You worship
-what you don’t know.
-We worship
-what we know.
+The hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.
+[22] You worship what you don’t know.
+We worship what we know.
 For salvation is from the Jews.
-[23] But the hour comes,
-and now is,
-when the true worshipers will worship the Father
-in spirit and truth.
-For the Father seeks people
-who worship him like this.
+[23] But the hour is coming, and it is already here:
+The true worshipers will worship the Father in spirit and truth.
+The Father is looking for people like that to worship him.
 [24] God is spirit.
-And those who worship him
-must worship in spirit and truth.”
+The people who worship him must worship in spirit and truth.”
 [25] The woman said to him,
-“I know
-that Messiah is coming,
-he who is called Christ.
-When he has come,
-he will tell us all things.”
+“I know that the Messiah is coming.
+He is called Christ.
+When he comes, he will tell us everything.”
 [26] Jesus said to her,
-“I am he,
-the one who speaks to you.”
+“I am he, the one who is speaking to you.”
 
 > **What does this mean?**
 > Jews and Samaritans had been in conflict for centuries. The Samaritans had their own holy mountain, Mount Gerizim, and accepted only the five books of Moses. Many Jews avoided Samaria.
@@ -123,70 +90,46 @@ the one who speaks to you.”
 
 ## The harvest is ready (Verses 27–42)
 
-[27] Just then his disciples came.
-They were amazed
-that he was speaking with a woman.
-But no one said,
-“What are you looking for?”
-or,
-“Why do you speak with her?”
-[28] So the woman left her water jar.
-She went into the city
-and said to the people,
-[29] “Come, see a man
-who told me everything
-that I have done!
-Can this be the Christ?”
-[30] The people went out of the city
-and came to him.
-[31] In the meantime, the disciples urged him,
-“Rabbi, eat.”
+[27] Just then, his disciples came back.
+They were surprised that he was talking with a woman.
+But no one said, “What are you looking for?”
+And no one said, “Why are you talking with her?”
+[28] Then the woman left her water jar.
+She went back into the town and said to the people,
+[29] “Come and see a man who told me everything I have ever done!
+Could he be the Christ?”
+[30] So the people left the town and started coming to Jesus.
+[31] Meanwhile, the disciples kept asking him,
+“Rabbi, eat something.”
 [32] But he said to them,
-“I have food to eat
-that you don’t know about.”
-[33] So the disciples said to one another,
-“Has anyone brought him something to eat?”
+“I have food to eat that you don’t know about.”
+[33] So the disciples said to each other,
+“Has someone brought him something to eat?”
 [34] Jesus said to them,
-“My food is
-to do the will of him
-who sent me
-and to finish his work.
-[35] Don’t you say,
-‘There are yet four months until the harvest’?
-I tell you,
-lift up your eyes
-and look at the fields:
-They are white for harvest already.
-[36] He who reaps
-receives wages
-and gathers fruit to eternal life.
-So both he who sows
-and he who reaps may rejoice together.
-[37] For here the saying is true,
-‘One sows,
-and another reaps.’
-[38] I sent you
-to reap
-what you haven’t worked for.
-Others have worked,
-and you have entered into their work.”
-[39] Many of the Samaritans from that city
-believed in him,
-because the woman had testified,
-“He told me everything
-that I have done.”
-[40] So when the Samaritans came to him,
-they begged him
-to stay with them.
+“My food is to do the will of the one who sent me.
+My food is to finish his work.
+[35] Don’t you say, ‘It is still four months until the harvest’?
+Look, I tell you: Look up and see the fields.
+They are already white for harvest.
+[36] The one who harvests is already getting paid.
+He is gathering a crop for eternal life.
+So the one who plants and the one who harvests can be glad together.
+[37] Here the saying is true:
+‘One person plants, and another person harvests.’
+[38] I sent you to harvest a crop you didn’t work for.
+Others did the hard work.
+And you have come in to enjoy the results of their work.”
+[39] Many of the Samaritans from that town believed in Jesus.
+They believed because of what the woman told them.
+She said, “He told me everything I have ever done.”
+[40] So the Samaritans came to Jesus.
+They begged him to stay with them.
 And he stayed there two days.
-[41] And many more believed
-because of his word.
+[41] Many more people believed because of what he said.
 [42] They said to the woman,
-“Now we believe, not only because of what you said.
-We have heard him for ourselves
-and know
-that this is indeed the Christ,
-the Savior of the world.”
+“Now we believe, but not because of what you told us.
+We have heard him ourselves.
+And we know that he really is the Christ, the Savior of the world.”
 
 > **What does this mean?**
 > Verse 28: The woman leaves her jar behind. She has found something more important.
@@ -200,55 +143,35 @@ the Savior of the world.”
 
 ## Jesus heals the son of a royal official (Verses 43–54)
 
-[43] After the two days Jesus went away from there
-into Galilee.
-[44] For Jesus himself had said
-that a prophet has no honor in his own country.
-[45] When he came into Galilee,
-the Galileans welcomed him.
-They had seen all the things
-that he did in Jerusalem at the feast.
-For they had also gone to the feast.
-[46] Jesus came again to Cana of Galilee,
-where he had made the water into wine.
-There was a royal official there.
-His son was sick at Capernaum.
-[47] He heard
-that Jesus had come out of Judea into Galilee.
-So he went to him
-and begged him
-to come down and heal his son.
-For his son was at the point of death.
+[43] After the two days, Jesus left that place and went on to Galilee.
+[44] Jesus himself had said that a prophet is not honored in his own country.
+[45] He came to Galilee, and the people of Galilee welcomed him.
+They had seen everything he did in Jerusalem at the feast.
+They had also gone to the feast.
+[46] So Jesus came again to Cana in Galilee.
+That was where he had turned the water into wine.
+There was a royal official in Capernaum.
+His son was sick.
+[47] The official heard that Jesus had come from Judea to Galilee.
+So he went to Jesus.
+He begged him to come down and heal his son,
+because his son was about to die.
 [48] Jesus said to him,
-“Unless you people see signs and wonders,
-you will in no way believe.”
-[49] The official said to him,
-“Sir, come down
-before my child dies.”
+“Unless you people see signs and wonders, you will never believe.”
+[49] The royal official said to him,
+“Sir, come down before my child dies.”
 [50] Jesus said to him,
-“Go your way.
-Your son lives.”
-The man believed the word
-that Jesus spoke to him,
-and he went his way.
-[51] As he was going down,
-his servants met him
-and said,
-“Your child lives!”
-[52] He asked them the hour
-when the boy began to get better.
+“Go home. Your son lives.”
+The man believed what Jesus said to him, and he went on his way.
+[51] While he was still on his way down, his servants met him.
+They told him, “Your child lives!”
+[52] So he asked them at what time the boy had started to get better.
 They said to him,
-“Yesterday at the seventh hour
-the fever left him.”
-[53] Then the father knew
-that it was at that hour
-in which Jesus had said to him,
-“Your son lives.”
-And he believed,
-he and his whole household.
-[54] This was the second sign
-that Jesus did,
-after he had come out of Judea into Galilee.
+“Yesterday at the seventh hour, the fever left him.”
+[53] Then the father knew:
+That was the very hour when Jesus had said to him, “Your son lives.”
+So he believed, and so did everyone in his house.
+[54] This was the second sign that Jesus did after he came from Judea to Galilee.
 
 > **What does this mean?**
 > A “royal official” probably served at the court of Herod Antipas. He was a powerful man. But as a father he is helpless.

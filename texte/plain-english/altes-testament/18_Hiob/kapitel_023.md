@@ -44,7 +44,7 @@ I have treasured the words of his mouth more than the food I need.
 > But then comes verse 10, a wonderful sentence of trust: “But he knows the way I take. When he has tested me, I will come out like gold.”
 > Gold is made pure in fire. Job senses: Maybe my suffering is a test. And in the end I will not be destroyed but made pure. The reader knows from Chapters 1–2 that it really is a test.
 > Even when I cannot find God, he finds me. He knows my way (compare Psalm 139; 1 Peter 1:7).
-> Verse 12: God’s words were more important to Job than food. Jesus says something similar: “Man shall not live by bread alone, but by every word that comes out of God’s mouth” (Matthew 4:4).
+> Verse 12: God’s words were more important to Job than food. Jesus says something similar: “People do not live by bread alone. They live by every word that comes out of God’s mouth” (Matthew 4:4).
 
 ---
 

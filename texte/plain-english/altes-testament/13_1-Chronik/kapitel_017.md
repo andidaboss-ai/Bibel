@@ -28,7 +28,7 @@ He said,
 ‘This is what the LORD says:
 “You are not the one to build me a house to live in.
 [5] I have not lived in a house
-from the day I brought Israel out of Egypt until today.
+from the day I brought Israel up until today.
 I have gone from tent to tent,
 from one tent to another.
 [6] I went with all Israel to many places.
@@ -111,8 +111,8 @@ Do what you have promised.
 [24] Let your name stand firm and be great forever.
 Then people will say,
 ‘The LORD of Armies is the God of Israel.
-He really is Israel’s God.’
-And the house of your servant David will stand firm before you.
+He really is Israel’s God.
+The house of your servant David stands firm before you.’
 [25] You, my God, have shown your servant
 that you will build a house for him.
 That is why I, your servant, have found the courage to pray to you.

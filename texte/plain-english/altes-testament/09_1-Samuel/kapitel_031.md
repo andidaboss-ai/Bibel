@@ -6,23 +6,27 @@
 ## The battle on Gilboa (Verses 1–6)
 
 [1] The Philistines fought against Israel.
-The men of Israel fled from the Philistines
-and fell dead on Mount Gilboa.
+The men of Israel ran away from the Philistines.
+Many of them were killed on Mount Gilboa.
 [2] The Philistines caught up with Saul and his sons.
-And the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.
-[3] The battle went hard against Saul.
-The archers caught up with him,
-and he was badly wounded by the archers.
-[4] Then Saul said to his armor bearer,
-“Draw your sword and run me through with it,
-so that these uncircumcised men don’t come
-and run me through and make sport of me!”
-But his armor bearer would not do it, for he was terrified.
-So Saul took the sword and fell on it.
-[5] When his armor bearer saw that Saul was dead,
-he also fell on his sword and died with him.
-[6] So Saul died, and his three sons, his armor bearer,
-and all his men, together on that same day.
+They killed Saul’s sons Jonathan, Abinadab, and Malchishua.
+[3] The fighting around Saul was very hard.
+The archers found him.
+Saul was badly hurt by their arrows.
+[4] Saul said to the young man who carried his weapons,
+“Pull out your sword and stab me with it.
+Otherwise these uncircumcised men will come.
+They will stab me and make fun of me!”
+Uncircumcised means: They do not belong to God’s people.
+But the young man did not want to do it.
+He was terribly afraid.
+So Saul took his own sword and fell on it.
+[5] The young man saw that Saul was dead.
+Then he also fell on his sword and died with him.
+[6] So Saul died on that same day.
+His three sons died with him,
+and the young man who carried his weapons,
+and all his men.
 
 > **What does this mean?**
 > What Samuel had announced in Endor happens: Israel is defeated, and Saul dies with his sons.
@@ -36,18 +40,19 @@ and all his men, together on that same day.
 
 ## The Philistines dishonor Saul’s body (Verses 7–10)
 
-[7] The men of Israel on the other side of the valley and beyond the Jordan
-saw that the men of Israel had fled and that Saul and his sons were dead.
-So they left their towns and fled.
-And the Philistines came and lived in them.
-[8] The next day the Philistines came to rob the dead.
-They found Saul and his three sons fallen on Mount Gilboa.
-[9] They cut off his head
+[7] Other men of Israel lived on the other side of the valley and on the other side of the Jordan.
+They saw that the army of Israel had run away.
+They saw that Saul and his sons were dead.
+So they left their cities and ran away.
+Then the Philistines came and lived in those cities.
+[8] The next day the Philistines came to take everything from the dead bodies.
+They found Saul and his three sons lying dead on Mount Gilboa.
+[9] They cut off Saul’s head
 and took off his armor.
-And they sent messengers all around the land of the Philistines
-to tell the news in the houses of their idols and to the people.
-[10] They put his armor in the house of the Ashtaroth.
-And they fastened his body to the wall of Beth Shan.
+They sent messengers all over the land of the Philistines.
+The messengers told the news in the temples of their idols and to the people.
+[10] They put Saul’s armor in the temple of the Ashtaroth.
+And they hung his body on the wall of Beth Shan.
 
 > **What does this mean?**
 > The defeat is complete. The Philistines conquer many towns in the north of Israel. The land is now weaker than at the beginning of Saul’s rule.
@@ -59,15 +64,16 @@ And they fastened his body to the wall of Beth Shan.
 
 ## The faithfulness of the men of Jabesh (Verses 11–13)
 
-[11] When the people of Jabesh Gilead heard
-what the Philistines had done to Saul,
-[12] all the brave men got up.
-They walked all night
-and took the body of Saul and the bodies of his sons from the wall of Beth Shan.
-They came to Jabesh and burned them there.
-[13] They took their bones
+[11] The people of Jabesh Gilead heard
+what the Philistines had done to Saul.
+[12] So all their brave men set out.
+They walked all night long.
+They took the body of Saul and the bodies of his sons down from the wall of Beth Shan.
+They brought them to Jabesh and burned them there.
+[13] Then they took their bones
 and buried them under the tamarisk tree in Jabesh.
-And they fasted for seven days.
+And they fasted for 7 days.
+That means: They did not eat, to show their sadness.
 
 > **What does this mean?**
 > The book ends with a sign of faithfulness. The men of Jabesh remember: Saul had rescued them when Nahash wanted to gouge out their eyes. That was Saul’s first great deed as king (Chapter 11).

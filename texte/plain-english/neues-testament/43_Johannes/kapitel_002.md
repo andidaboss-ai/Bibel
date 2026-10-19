@@ -5,54 +5,46 @@
 
 ## The wedding at Cana (Verses 1–12)
 
-[1] On the third day there was a wedding
-in Cana of Galilee.
+[1] On the third day, there was a wedding in Cana in Galilee.
 Jesus’ mother was there.
-[2] Jesus and his disciples
-were also invited to the wedding.
-[3] When the wine ran out,
-Jesus’ mother said to him,
-“They have no wine.”
+[2] Jesus and his disciples were also invited to the wedding.
+[3] The wine ran out.
+Then Jesus’ mother said to him, “They have no wine.”
 [4] Jesus said to her,
 “Woman, what does that have to do with you and me?
-My hour has not yet come.”
+My hour has not come yet.”
 [5] His mother said to the servants,
-“Whatever he says to you,
-do it.”
+“Do whatever he tells you.”
 [6] Six stone water jars were standing there.
-They were used for purifying,
-as was the custom of the Jews.
-Each one held two or three metretes.
-[7] Jesus said to the servants,
-“Fill the water jars with water.”
-And they filled them up to the brim.
-[8] He said to them,
-“Now draw some out
-and take it to the ruler of the feast.”
-So they took it.
-[9] The ruler of the feast tasted the water
-that had now become wine.
+The Jews used them for washing, to make themselves clean before God.
+Each jar held about 20 to 30 gallons.
+[7] Jesus said to the servants, “Fill the jars with water.”
+So they filled them up to the top.
+[8] Then he said to them,
+“Now take some out.
+Bring it to the man in charge of the feast.”
+So they brought it to him.
+[9] The man in charge of the feast tasted the water.
+It had now become wine.
 He didn’t know where it came from.
-But the servants who had drawn the water
-knew.
-Then the ruler of the feast called the bridegroom
-[10] and said to him,
+But the servants who had taken out the water knew.
+So the man in charge of the feast called the bridegroom.
+[10] He said to him,
 “Everyone serves the good wine first.
-And when the guests have drunk freely,
-then that which is worse.
+Then, when the guests have had plenty to drink, they serve the cheaper wine.
 But you have kept the good wine until now!”
-[11] This was the beginning of his signs.
-Jesus did it in Cana of Galilee.
-In this way he showed his glory,
-and his disciples believed in him.
-[12] After this he went down to Capernaum,
-he, his mother, his brothers, and his disciples.
-They stayed there a few days.
+[11] This was the first of Jesus’ signs.
+He did it in Cana in Galilee.
+In this way, he showed his glory.
+And his disciples believed in him.
+[12] After this, Jesus went down to Capernaum.
+His mother, his brothers, and his disciples went with him.
+They stayed there for a few days.
 
 > **What does this mean?**
 > Back then a wedding often lasted a whole week. If the wine ran out, it was a great shame for the bridegroom’s family.
 > Verse 4: “Woman” was not an impolite way to speak back then. Jesus also says it lovingly to his mother at the cross (John 19:26). In John, “my hour” means the hour of his death and his glorification.
-> Verse 5: Mary trusts Jesus, even without knowing what he will do. “Whatever he says to you, do it” is good advice for all Christians.
+> Verse 5: Mary trusts Jesus, even without knowing what he will do. “Do whatever he tells you” is good advice for all Christians.
 > Verse 6: A metretes was about 10 gallons (39 liters). So each jar held about 20 to 30 gallons (80 to 120 liters). Together that is over 120 gallons (500 liters), a huge amount of wine.
 > The jars were meant for ritual washing, a good devout custom. Jesus fills them with new content. This shows: With Jesus comes God’s abundance and joy.
 > Verse 11: John calls Jesus’ miracles “signs.” They show who Jesus is.
@@ -64,48 +56,38 @@ They stayed there a few days.
 
 ## Jesus in the temple (Verses 13–25)
 
-[13] The Passover of the Jews was near.
+[13] It was almost time for the Passover of the Jews.
 So Jesus went up to Jerusalem.
-[14] In the temple he found people
-who were selling oxen, sheep, and doves,
-and the money changers sitting there.
-[15] He made a whip of cords
-and drove them all out of the temple,
-both the sheep and the oxen.
-He poured out the money changers’ coins
-and turned over their tables.
-[16] To those who sold the doves,
-he said,
-“Take these things out of here!
-Don’t make my Father’s house a marketplace!”
-[17] His disciples remembered
-that it was written,
+[14] In the temple he found people selling cattle, sheep, and doves.
+The money changers were also sitting there.
+[15] Jesus made a whip out of ropes.
+He drove them all out of the temple, with the sheep and the cattle.
+He poured out the money changers’ coins.
+He turned over their tables.
+[16] He said to the people who sold doves,
+“Get these things out of here!
+Don’t turn my Father’s house into a market!”
+[17] His disciples remembered that the Scriptures say,
 “Zeal for your house will eat me up.”
-[18] Then the Jews answered him,
-“What sign do you show us,
-since you do these things?”
+[18] Then the Jews asked him,
+“You are doing these things.
+So what sign will you show us?”
 [19] Jesus answered them,
-“Destroy this temple,
-and in three days I will raise it up.”
+“Destroy this temple, and I will raise it up again in three days.”
 [20] Then the Jews said,
 “It took forty-six years to build this temple!
-Will you raise it up in three days?”
-[21] But he was speaking of the temple of his body.
-[22] So when he was raised from the dead,
-his disciples remembered
-that he had said this.
-And they believed the Scripture
-and the word which Jesus had said.
-[23] While Jesus was in Jerusalem at the Passover feast,
-many believed in his name,
-because they saw the signs
-which he did.
-[24] But Jesus didn’t entrust himself to them,
-because he knew everyone.
-[25] He didn’t need anyone
-to tell him about people.
-For he himself knew
-what was in people.
+And you will raise it up in three days?”
+[21] But the temple Jesus was talking about was his body.
+[22] Later he was raised from the dead.
+Then his disciples remembered that he had said this.
+And they believed the Scriptures and the words Jesus had said.
+[23] Jesus was in Jerusalem for the Passover feast.
+During the feast, many people saw the signs he did.
+So they believed in his name.
+[24] But Jesus didn’t trust himself to them.
+He knew all people.
+[25] No one needed to tell him anything about people.
+He himself knew what was inside a person.
 
 > **What does this mean?**
 > John tells the cleansing of the temple at the beginning of Jesus’ work. The other Gospels tell it at the end, shortly before his death. John arranges the events more by their meaning.

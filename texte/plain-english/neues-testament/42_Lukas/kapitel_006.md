@@ -5,21 +5,22 @@
 
 ## Grain on the Sabbath (Verses 1–5)
 
-[1] On the second Sabbath after the first,
-Jesus was going through the grain fields.
-His disciples picked heads of grain,
-rubbed them in their hands,
-and ate them.
+[1] It was the second Sabbath after the first.
+Jesus was walking through the grain fields.
+His disciples picked some heads of grain.
+They rubbed them in their hands
+and ate the grain.
 [2] Some of the Pharisees said to them,
-“Why do you do what is not lawful to do on the Sabbath day?”
+“Why are you doing this?
+The law does not allow it on the Sabbath day!”
 [3] Jesus answered them,
-“Haven’t you read what David did
-when he was hungry, he and those who were with him?
-[4] He went into God’s house,
-took the show bread and ate it,
-and also gave some to those who were with him,
-even though only the priests are allowed to eat it.”
-[5] And he said to them,
+“Haven’t you read what David did?
+He and his men were hungry.
+[4] David went into God’s house.
+He took the show bread and ate it.
+He also gave some to the men with him.
+But the law allows only the priests to eat it.”
+[5] Then Jesus said to them,
 “The Son of Man is lord of the Sabbath.”
 
 > **What does this mean?**
@@ -34,29 +35,30 @@ even though only the priests are allowed to eat it.”
 ## Healing on the Sabbath (Verses 6–11)
 
 [6] On another Sabbath
-he went into the synagogue and taught.
-There was a man there
+Jesus went into the synagogue and taught.
+A man was there
 whose right hand was withered.
-[7] The scribes and the Pharisees watched him closely
-to see whether he would heal on the Sabbath.
-For they wanted to find a reason to accuse him.
-[8] But he knew their thoughts.
-He said to the man who had the withered hand,
-“Get up and stand in the middle.”
-He got up and stood there.
+[7] The scribes and the Pharisees watched Jesus closely.
+Would he heal someone on the Sabbath?
+They wanted to find a reason to accuse him.
+[8] But Jesus knew what they were thinking.
+He said to the man with the withered hand,
+“Get up and stand here in the middle.”
+The man got up and stood there.
 [9] Then Jesus said to them,
-“I will ask you something:
-Is it lawful on the Sabbath
-to do good, or to do harm?
+“I will ask you something.
+What does the law allow on the Sabbath?
+To do good, or to do harm?
 To save a life, or to kill?”
-[10] He looked around at them all
-and said to the man,
+[10] Jesus looked around at all of them.
+Then he said to the man,
 “Stretch out your hand.”
-He did,
-and his hand was restored, as sound as the other.
-[11] But they were filled with rage
-and talked with one another
-about what they might do to Jesus.
+The man did it,
+and his hand became healthy again,
+just like the other one.
+[11] But the scribes and the Pharisees became very angry.
+They talked with each other
+about what they could do to Jesus.
 
 > **What does this mean?**
 > Only Luke says: It was the right hand. People worked with it. The man probably could not support himself.
@@ -69,14 +71,13 @@ about what they might do to Jesus.
 
 ## Jesus chooses the twelve apostles (Verses 12–16)
 
-[12] In these days Jesus went out to the mountain
-to pray.
-He spent the whole night praying to God.
-[13] When it was day,
+[12] In those days Jesus went out to the mountain to pray.
+He prayed to God all night long.
+[13] When morning came,
 he called his disciples to him.
 From them he chose twelve.
 He also called them apostles.
-[14] They were:
+[14] These are the twelve:
 Simon, whom he also named Peter,
 and Andrew, his brother,
 James and John,
@@ -86,7 +87,7 @@ James the son of Alphaeus,
 and Simon who was called the Zealot,
 [16] Judas the son of James,
 and Judas Iscariot,
-who became a traitor.
+who later became a traitor.
 
 > **What does this mean?**
 > Before an important decision, Jesus prays all night. In Luke, Jesus often prays.
@@ -98,17 +99,17 @@ who became a traitor.
 
 ## Many people come to Jesus (Verses 17–19)
 
-[17] Jesus came down with them
-and stood on a level place.
-There was a large crowd of his disciples
-and a great number of people
-from all Judea and Jerusalem
-and from the sea coast of Tyre and Sidon.
-They had come to hear him
+[17] Jesus came down the mountain with them.
+He stood on a flat place.
+A large crowd of his disciples was there.
+A great number of other people were there too.
+They came from all of Judea and from Jerusalem,
+and from the coast near Tyre and Sidon.
+They had come to hear Jesus
 and to be healed of their diseases.
-[18] Those who were troubled by unclean spirits
-were also healed.
-[19] The whole crowd tried to touch him.
+[18] People who were troubled by unclean spirits
+were healed too.
+[19] The whole crowd tried to touch Jesus.
 For power came out of him
 and healed them all.
 
@@ -124,32 +125,32 @@ and healed them all.
 “Blessed are you who are poor,
 for God’s Kingdom is yours.
 [21] Blessed are you who are hungry now,
-for you will be filled.
-Blessed are you who weep now,
+for you will have plenty to eat.
+Blessed are you who cry now,
 for you will laugh.
-[22] Blessed are you
-when people hate you,
-when they exclude and mock you,
-and throw out your name as evil
+[22] Blessed are you when people hate you,
+when they push you out and make fun of you,
+and when they say your name is evil,
 because of the Son of Man.
-[23] Rejoice in that day and leap for joy!
-For your reward is great in heaven.
-Their fathers did the same thing to the prophets.
-[24] But woe to you who are rich!
-For you have already received your comfort.
-[25] Woe to you who are full now,
-for you will be hungry.
-Woe to you who laugh now,
-for you will mourn and weep.
-[26] Woe to you when everyone speaks well of you!
-For their fathers did the same thing to the false prophets.”
+[23] Be glad when that happens!
+Jump for joy!
+For you will have a great reward in heaven.
+Their ancestors did the same things to the prophets.
+[24] But how bad it will be for you who are rich!
+You have already had your comfort.
+[25] How bad it will be for you who are full now!
+You will be hungry.
+How bad it will be for you who laugh now!
+You will be sad and cry.
+[26] How bad it will be for you when everyone speaks well of you!
+Their ancestors did the same things for the false prophets.”
 
 > **What does this mean?**
 > “Blessed” means: happy, blessed by God.
-> Woe: a cry of pain and warning. It means: Things will go badly for you.
+> “How bad it will be for you”: a cry of pain and warning. Older Bibles say “woe.” It means: Things will go badly for you.
 > In Luke, Jesus speaks directly to the poor, the hungry and those who weep: “Blessed are you.” In Matthew it says: “Blessed are those who are poor in spirit” (Matthew 5:3). Luke very directly means people who are really poor.
 > God is on the side of the poor. Their suffering matters to him. He promises that it will be turned around. This reminds us of the song of Mary (1:52–53).
-> The “woe” sayings are found only in Luke. They are a serious warning to the rich and the full. Wealth is not evil in itself. But whoever thinks only of himself and forgets the poor has already received everything he can expect.
+> These “woe” sayings are found only in Luke. They are a serious warning to the rich and the full. Wealth is not evil in itself. But whoever thinks only of himself and forgets the poor has already received everything he can expect.
 > Important: Poverty is not something God wants. Christians are to fight poverty and help the poor.
 
 ---
@@ -161,34 +162,34 @@ Love your enemies!
 Do good to those who hate you!
 [28] Bless those who curse you!
 Pray for those who mistreat you!
-[29] If someone strikes you on the cheek,
-offer the other one too.
-And if someone takes away your cloak,
-don’t hold back your coat either.
-[30] Give to everyone who asks you.
-And if someone takes away your goods,
-don’t ask for them back.
-[31] As you would like people to do to you,
-do exactly so to them.
-[32] If you love those who love you,
-what credit is that to you?
-For even sinners love those who love them.
-[33] If you do good to those who do good to you,
-what credit is that to you?
-For even sinners do the same.
-[34] If you lend to those from whom you hope to get something back,
-what credit is that to you?
+[29] If someone hits you on one cheek,
+let him hit the other cheek too.
+If someone takes your coat,
+let him have your shirt too.
+[30] Give to everyone who asks you for something.
+If someone takes your things,
+don’t ask him to give them back.
+[31] Treat other people
+the way you want them to treat you.
+[32] If you love only those who love you,
+why should you get any thanks for that?
+Even sinners love those who love them.
+[33] If you do good only to those who do good to you,
+why should you get any thanks for that?
+Even sinners do that.
+[34] If you lend only to people
+who you hope will pay you back,
+why should you get any thanks for that?
 Even sinners lend to sinners
-to get back as much.
-[35] But love your enemies,
-do good,
-and lend,
-expecting nothing back.
-Then your reward will be great,
-and you will be children of the Most High.
-For he is kind toward the unthankful and evil.
+to get back the same amount.
+[35] But love your enemies.
+Do good to them.
+Lend to them and do not expect to get anything back.
+Then you will have a great reward.
+And you will be children of the Most High God.
+For he is kind to people who are ungrateful and evil.
 [36] Be merciful,
-even as your Father is also merciful.”
+just as your Father is merciful.”
 
 > **What does this mean?**
 > Loving your enemies is one of the most important and hardest commandments of Jesus. Love here does not mean: having a good feeling. It means: doing good to the other person, praying for them and not meeting them with hatred.
@@ -205,30 +206,30 @@ even as your Father is also merciful.”
 and you won’t be judged.
 Don’t condemn,
 and you won’t be condemned.
-Set free,
+Set others free,
 and you will be set free.
 [38] Give,
-and it will be given to you:
-good measure, pressed down, shaken together,
-and running over,
-will be given to you.
-For with the same measure you use,
-it will be measured back to you.”
-[39] He told them a parable:
-“Can the blind guide the blind?
-Won’t they both fall into a pit?
-[40] A disciple is not above his teacher.
-But everyone who is fully trained
+and it will be given to you.
+You will receive a good, full measure.
+It will be pressed down and shaken together,
+so that it runs over.
+For the measure you use for others
+is the measure that will be used for you.”
+[39] Jesus also told them a parable.
+“Can a blind person lead another blind person?
+Won’t they both fall into a hole?
+[40] A student is not greater than his teacher.
+But every student who has learned everything
 will be like his teacher.
-[41] Why do you see the speck of chaff in your brother’s eye,
-but don’t notice the beam in your own eye?
+[41] Why do you see the small speck in your brother’s eye,
+but you don’t notice the big beam in your own eye?
 [42] How can you say to your brother,
-‘Brother, let me remove the speck of chaff from your eye,’
-when you yourself don’t see the beam in your own eye?
+‘Brother, let me take that speck out of your eye’?
+You don’t even see the beam in your own eye!
 You hypocrite!
-First remove the beam from your own eye.
-Then you can see clearly
-to remove the speck of chaff from your brother’s eye.”
+First take the beam out of your own eye.
+Then you will see clearly
+to take the speck out of your brother’s eye.”
 
 > **What does this mean?**
 > “Don’t judge” means: Don’t condemn others harshly and without love. Only God knows a person’s heart.
@@ -242,44 +243,40 @@ to remove the speck of chaff from your brother’s eye.”
 
 ## Tree and fruit, a house on the rock (Verses 43–49)
 
-[43] “There is no good tree
-that produces rotten fruit,
-and no rotten tree
-that produces good fruit.
-[44] For each tree is known by its own fruit.
-People don’t gather figs from thorns
-or grapes from a bramble bush.
-[45] The good man brings out what is good
-from the good treasure of his heart.
-And the evil man brings out what is evil
-from the evil treasure of his heart.
-For out of the abundance of the heart
-his mouth speaks.
-[46] Why do you call me, ‘Lord, Lord,’
-and don’t do the things which I say?
-[47] I will show you
-who someone is like
-who comes to me,
-hears my words,
-and does them.
-[48] He is like a man
-building a house.
-He dug deep
-and laid a foundation on the rock.
-When a flood came,
-the stream broke against that house,
-but could not shake it.
-For it was founded on the rock.
-[49] But whoever hears and doesn’t do it
-is like a man
-who built a house on the earth without a foundation.
-The stream broke against it,
-and immediately it fell.
-And the ruin of that house was great.”
+[43] “A good tree does not grow bad fruit.
+And a bad tree does not grow good fruit.
+[44] You know each tree by its fruit.
+People don’t pick figs from thorn bushes.
+They don’t pick grapes from a bramble bush.
+[45] A good person has good things stored up in his heart.
+He brings out good things.
+An evil person has evil things stored up in his heart.
+He brings out evil things.
+For the mouth speaks
+what the heart is full of.
+[46] Why do you call me ‘Lord, Lord,’
+but you don’t do what I say?
+[47] Someone comes to me.
+He hears my words and does what they say.
+I will show you what he is like.
+[48] He is like a man who built a house.
+He dug down deep
+and laid the foundation on rock.
+Then a flood came.
+The water crashed against that house.
+But it could not shake the house,
+because it was built on rock.
+[49] But someone else hears my words
+and does not do what they say.
+He is like a man who built a house on the ground
+without a foundation.
+The water crashed against it,
+and at once it fell down.
+That house was completely destroyed.”
 
 > **What does this mean?**
 > Verses 43–45: What a person does and says shows what is in their heart.
-> Abundance: a great amount, more than enough.
+> Verse 45: Older Bibles speak of the “abundance” of the heart. Abundance means: a great amount, more than enough.
 > Verse 46: It is not enough to say “Lord, Lord” in a pious way. What matters is doing Jesus’ words.
 > Verses 48–49: Whoever hears Jesus’ words and lives by them has a firm foundation. When storms come in life, the house stands.
 > For today: A faith that is lived out in everyday life holds firm in hard times too.

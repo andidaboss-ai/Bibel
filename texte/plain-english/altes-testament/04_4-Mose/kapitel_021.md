@@ -53,7 +53,7 @@ he lived.
 > This time something new happens: The people themselves say: “We have sinned.” They ask Moses to pray for them.
 > God does not simply take the snakes away. But he gives a way to be saved. Whoever has been bitten is to look at the bronze serpent. That was not magic. Whoever looked up showed that he trusted God.
 > To this day, a snake on a staff is a sign for medicine and pharmacies. People disagree about whether this sign comes from here or from the Greek legend of the staff of Asclepius.
-> Jesus himself applied this story to himself: “As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, so that whoever believes in him should not perish, but have eternal life” (John 3:14–15). Just as the people who were bitten looked at the serpent, people are to look at Jesus on the cross.
+> Jesus himself applied this story to himself: “Moses lifted up the snake in the wilderness. In the same way, the Son of Man must be lifted up. Then everyone who believes in him will not be lost. They will have eternal life” (John 3:14–15). Just as the people who were bitten looked at the serpent, people are to look at Jesus on the cross.
 > Later this bronze serpent itself became an idol. That is why King Hezekiah broke it into pieces (2 Kings 18:4).
 
 ---

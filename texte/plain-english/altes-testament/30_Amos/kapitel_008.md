@@ -100,6 +100,6 @@ They will fall and never get up again.”
 
 > **What does this mean?**
 > Verses 11–12: An unusual hunger: not for bread, but for God’s word. The people did not want to listen to the prophets (compare 2:12; 7:12–13). Now God will be silent. And then they will notice how much they need God’s word. They will look everywhere and not find it.
-> Jesus says: “Man shall not live by bread alone, but by every word that comes out of God’s mouth” (Matthew 4:4; compare Deuteronomy 8:3).
+> Jesus says: “People do not live by bread alone. They live by every word that comes out of God’s mouth” (Matthew 4:4; compare Deuteronomy 8:3).
 > Verse 14: Dan and Beersheba were holy places in the far north and the far south. The people made promises by their idols and their pilgrim roads. But these idols cannot help.
 > For today: Many people feel an emptiness inside, a “hunger” for meaning and for God, even when they have everything they need.

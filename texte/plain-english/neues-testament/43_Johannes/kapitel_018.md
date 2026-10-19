@@ -12,57 +12,36 @@
 
 ## Jesus is arrested (Verses 1–11)
 
-[1] When Jesus had spoken these words,
-he went out with his disciples
-over the brook Kidron.
+[1] Jesus finished speaking these words.
+Then he went out with his disciples and crossed the brook Kidron.
 There was a garden there.
 He and his disciples went into it.
-[2] Judas,
-who betrayed him,
-also knew the place.
-For Jesus often met there with his disciples.
-[3] So Judas took a detachment of soldiers
-and officers from the chief priests and the Pharisees
-and came there
-with lanterns, torches, and weapons.
-[4] Jesus knew all the things
-that were going to happen to him.
-He went out
-and said to them,
-“Who are you looking for?”
-[5] They answered him,
-“Jesus of Nazareth.”
-Jesus said to them,
-“I am he.”
-Judas also,
-who betrayed him,
-was standing with them.
-[6] When he said to them,
-“I am he,”
-they went backward
-and fell to the ground.
-[7] So he asked them again,
-“Who are you looking for?”
-They said,
-“Jesus of Nazareth.”
-[8] Jesus answered,
-“I told you
-that I am he.
-So if you are looking for me,
-let these go their way.”
-[9] This happened so that the word might be fulfilled
-which he spoke,
-“Of those whom you have given me,
-I have lost none.”
+[2] Judas, the one who betrayed him, also knew the place.
+Jesus often met there with his disciples.
+[3] So Judas came there.
+He brought a detachment of soldiers with him.
+He also brought officers from the chief priests and the Pharisees.
+They had lanterns, torches, and weapons.
+[4] Jesus knew everything that was going to happen to him.
+So he went out to them and asked, “Who are you looking for?”
+[5] They answered, “Jesus of Nazareth.”
+Jesus said to them, “I am he.”
+Judas, the one who betrayed him, was standing with them.
+[6] Jesus said to them, “I am he.”
+Then they stepped back and fell to the ground.
+[7] So he asked them again, “Who are you looking for?”
+They said, “Jesus of Nazareth.”
+[8] Jesus answered, “I told you that I am he.
+So if you are looking for me, let these men go.”
+[9] This happened so that his own word would come true.
+He had said, “I have lost none of those you have given me.”
 [10] Simon Peter had a sword.
-He drew it,
-struck the high priest’s servant,
-and cut off his right ear.
+He pulled it out and struck the high priest’s servant.
+He cut off the servant’s right ear.
 The servant’s name was Malchus.
-[11] Then Jesus said to Peter,
-“Put the sword into its sheath.
-The cup which the Father has given me,
-shall I not drink it?”
+[11] Then Jesus said to Peter, “Put the sword back into its sheath.
+The Father has given me this cup.
+Shall I not drink it?”
 
 *detachment* = a group of soldiers
 *sheath* = the cover for a sword
@@ -79,81 +58,49 @@ shall I not drink it?”
 
 ## Jesus before Annas, and Peter denies him (Verses 12–27)
 
-[12] So the detachment,
-the commanding officer,
-and the officers of the Jews
-seized Jesus
-and tied him up.
-[13] They led him to Annas first.
-He was the father-in-law of Caiaphas,
-who was high priest that year.
-[14] It was Caiaphas
-who had advised the Jews
-that it was better
-that one man should die for the people.
-[15] Simon Peter followed Jesus,
-and so did another disciple.
-That disciple was known to the high priest.
-He went in with Jesus into the court of the high priest.
-[16] But Peter was standing outside at the door.
-So the other disciple,
-who was known to the high priest,
-went out,
-spoke to the woman who kept the door,
-and brought Peter in.
-[17] Then the servant girl
-who kept the door
-said to Peter,
-“Are you also one of this man’s disciples?”
-He said,
-“I am not.”
+[12] So the detachment, its commanding officer, and the officers of the Jews arrested Jesus.
+They tied him up.
+[13] First they took him to Annas.
+Annas was the father-in-law of Caiaphas.
+Caiaphas was high priest that year.
+[14] Caiaphas was the one who had given the Jews this advice:
+It is better for one man to die for the people.
+[15] Simon Peter followed Jesus.
+Another disciple followed him too.
+The high priest knew that disciple.
+So he went with Jesus into the courtyard of the high priest.
+[16] But Peter stood outside at the door.
+So the other disciple, the one the high priest knew, went out again.
+He spoke to the woman who kept the door.
+Then he brought Peter in.
+[17] The servant girl at the door said to Peter, “Are you one of this man’s disciples too?”
+He said, “I am not.”
 [18] The servants and the officers were standing there.
-They had made a fire of coals,
-because it was cold,
-and were warming themselves.
-Peter was with them,
-standing and warming himself.
-[19] The high priest asked Jesus
-about his disciples
-and about his teaching.
-[20] Jesus answered him,
-“I spoke openly to the world.
-I always taught in synagogues
-and in the temple,
-where the Jews always meet.
+They had made a charcoal fire, because it was cold.
+They were warming themselves.
+Peter was standing with them and warming himself too.
+[19] The high priest asked Jesus about his disciples and about his teaching.
+[20] Jesus answered him, “I spoke openly to the world.
+I always taught in synagogues and in the temple.
+The Jews always meet there.
 I said nothing in secret.
 [21] Why do you ask me?
-Ask those
-who have heard me
-what I said to them.
-They know
-the things which I said.”
-[22] When he had said this,
-one of the officers
-standing by
-slapped Jesus with his hand,
-saying,
-“Do you answer the high priest like that?”
-[23] Jesus answered him,
-“If I have said something wrong,
-show what was wrong.
-But if I have spoken rightly,
-why do you beat me?”
-[24] Then Annas sent him, tied up,
-to Caiaphas, the high priest.
-[25] Simon Peter was standing
-and warming himself.
-So they said to him,
-“You aren’t also one of his disciples, are you?”
-He denied it and said,
-“I am not.”
-[26] One of the servants of the high priest,
-a relative of the man
-whose ear Peter had cut off,
-said,
-“Didn’t I see you in the garden with him?”
+Ask the people who heard me.
+Ask them what I said to them.
+They know what I said.”
+[22] When Jesus said this, one of the officers standing nearby slapped him.
+He said, “Is that how you answer the high priest?”
+[23] Jesus answered him, “If I said something wrong, then show what was wrong.
+But if I spoke rightly, why do you hit me?”
+[24] Then Annas sent him, still tied up, to Caiaphas, the high priest.
+[25] Simon Peter was still standing there and warming himself.
+So they said to him, “You aren’t one of his disciples too, are you?”
+He denied it and said, “I am not.”
+[26] One of the high priest’s servants spoke up.
+He was a relative of the man whose ear Peter had cut off.
+He said, “Didn’t I see you in the garden with him?”
 [27] Peter denied it again.
-And immediately the rooster crowed.
+At that moment the rooster crowed.
 
 > **What does this mean?**
 > Annas had been high priest earlier and still had great influence. Caiaphas was his son-in-law.
@@ -167,68 +114,43 @@ And immediately the rooster crowed.
 
 ## Jesus before Pilate (Verses 28–40)
 
-[28] Then they led Jesus from Caiaphas
-into the Praetorium.
+[28] Then they took Jesus from Caiaphas to the Praetorium.
 It was early in the morning.
-They themselves didn’t go into the Praetorium,
-so that they would not become unclean,
-but might eat the Passover.
-[29] So Pilate went out to them
-and said,
-“What accusation do you bring against this man?”
-[30] They answered him,
-“If this man weren’t an evildoer,
-we wouldn’t have handed him over to you.”
-[31] So Pilate said to them,
-“Take him yourselves,
-and judge him according to your law.”
-The Jews said to him,
-“It is illegal for us to put anyone to death.”
-[32] So the word of Jesus was to be fulfilled,
-which he spoke
-to show
-by what kind of death he would die.
-[33] Pilate went into the Praetorium again,
-called Jesus,
-and said to him,
-“Are you the King of the Jews?”
-[34] Jesus answered him,
-“Do you say this by yourself,
-or did others tell you about me?”
-[35] Pilate answered,
-“I’m not a Jew, am I?
-Your own nation and the chief priests
-handed you over to me.
+They themselves didn’t go into the Praetorium.
+They did not want to become unclean.
+They wanted to be able to eat the Passover meal.
+[29] So Pilate came out to them.
+He asked, “What charge do you bring against this man?”
+[30] They answered him, “If this man weren’t a criminal, we wouldn’t have handed him over to you.”
+[31] Pilate said to them, “Take him yourselves.
+Judge him by your own law.”
+The Jews said to him, “We are not allowed to put anyone to death.”
+[32] This happened so that the word of Jesus would come true.
+With that word he had shown what kind of death he would die.
+[33] Pilate went back into the Praetorium.
+He called Jesus and asked him, “Are you the King of the Jews?”
+[34] Jesus answered him, “Are you saying this on your own?
+Or did others tell you about me?”
+[35] Pilate answered, “I’m not a Jew, am I?
+Your own nation and the chief priests handed you over to me.
 What have you done?”
-[36] Jesus answered,
-“My Kingdom is not of this world.
-If my Kingdom were of this world,
-then my servants would fight,
-so that I wouldn’t be handed over to the Jews.
+[36] Jesus answered, “My Kingdom is not of this world.
+If my Kingdom were of this world, my servants would fight.
+They would fight so that I would not be handed over to the Jews.
 But my Kingdom is not from here.”
-[37] So Pilate said to him,
-“Are you a king then?”
-Jesus answered,
-“You say that I am a king.
-For this reason I have been born,
-and for this reason I have come into the world:
-to testify to the truth.
-Everyone who is of the truth
-listens to my voice.”
-[38] Pilate said to him,
-“What is truth?”
-When he had said this,
-he went out again to the Jews
-and said to them,
-“I find no basis for a charge against him.
-[39] But you have a custom
-that I should release someone to you at the Passover.
-So do you want me
-to release to you the King of the Jews?”
-[40] Then they all shouted again,
-“Not this man,
-but Barabbas!”
-Now Barabbas was a robber.
+[37] So Pilate said to him, “So you are a king?”
+Jesus answered, “You say that I am a king.
+This is why I was born.
+This is why I came into the world: to be a witness to the truth.
+Everyone who belongs to the truth listens to my voice.”
+[38] Pilate said to him, “What is truth?”
+After he said this, he went out to the Jews again.
+He said to them, “I find no reason to charge him with anything.
+[39] But you have a custom.
+At the Passover I release one prisoner to you.
+So do you want me to release the King of the Jews to you?”
+[40] Then they all shouted again, “Not this man, but Barabbas!”
+Barabbas was a robber.
 
 > **What does this mean?**
 > The Praetorium was the official residence of the Roman governor in Jerusalem.

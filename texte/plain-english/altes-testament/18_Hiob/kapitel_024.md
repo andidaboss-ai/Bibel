@@ -77,7 +77,7 @@ because they know the terrors of thick darkness.
 > **What does this mean?**
 > Job describes criminals who work in the dark: murderers, men who cheat on their wives, burglars. They love the night because no one sees them.
 > “For all of them, the morning is like thick darkness”: The light is their enemy, because it shows what they do.
-> Jesus says something similar: “For everyone who does evil hates the light and doesn’t come to the light, so that his works won’t be exposed” (John 3:20).
+> Jesus says something similar: “Everyone who does evil hates the light. He doesn’t come to the light, because he doesn’t want his deeds to be seen” (John 3:20).
 
 ---
 

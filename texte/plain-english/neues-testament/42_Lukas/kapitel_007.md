@@ -5,55 +5,43 @@
 
 ## Jesus heals a centurion’s servant (Verses 1–10)
 
-[1] Jesus had finished his speech,
-which the people had heard.
+[1] Jesus finished saying all these things to the people.
 Then he went into Capernaum.
 [2] A centurion lived there.
-He had a servant
-who was very dear to him.
-This servant was sick
-and close to death.
+He had a servant whom he loved very much.
+The servant was sick and about to die.
 [3] The centurion heard about Jesus.
-So he sent elders of the Jews to him.
-They were to ask Jesus
-to come and save his servant.
-[4] They came to Jesus
-and begged him earnestly,
-“He is worthy
-for you to do this for him,
-[5] for he loves our nation,
-and he built our synagogue for us.”
-[6] Jesus went with them.
-When he was not far from the house,
-the centurion sent friends to him.
-They were to tell him,
-“Lord, don’t trouble yourself,
-for I am not worthy
-for you to come under my roof.
-[7] That is why I didn’t even think myself worthy
-to come to you.
-But say the word,
+So he sent some Jewish elders to him.
+They were to ask Jesus to come and save his servant.
+[4] The elders came to Jesus.
+They begged him,
+“This man deserves your help.
+[5] He loves our people.
+He even built our synagogue for us.”
+[6] So Jesus went with them.
+He was not far from the house
+when the centurion sent some friends to him.
+They gave him this message:
+“Lord, don’t trouble yourself.
+I am not good enough for you to come into my house.
+[7] That is why I did not think I was good enough
+to come to you myself.
+But just say the word,
 and my servant will be healed.
-[8] For I also am a man
-placed under authority,
-and I have soldiers under me.
-I tell this one, ‘Go!’
-and he goes.
-I tell another, ‘Come!’
-and he comes.
-And I tell my servant, ‘Do this,’
-and he does it.”
-[9] When Jesus heard this,
-he was amazed at him.
-He turned around
-and said to the crowd that was following him,
+[8] For I also have people over me.
+And I have soldiers under me.
+I tell one soldier, ‘Go!’ and he goes.
+I tell another one, ‘Come!’ and he comes.
+I tell my servant, ‘Do this!’ and he does it.”
+[9] Jesus heard this
+and was amazed at the man.
+He turned to the crowd that was following him.
+He said,
 “I tell you,
 I have not found such great faith,
-no, not in Israel.”
-[10] The messengers went back to the house.
-There they found that the servant
-who had been sick
-was well.
+not even in Israel.”
+[10] The men who had been sent went back to the house.
+They found the servant healthy again.
 
 > **What does this mean?**
 > A centurion was a Roman officer. He was in charge of about a hundred soldiers. He was not a Jew.
@@ -68,36 +56,34 @@ was well.
 
 ## Jesus raises a widow’s son (Verses 11–17)
 
-[11] Soon afterward Jesus went to a city
-called Nain.
-Many of his disciples
-and a large crowd went with him.
-[12] When he came near the gate of the city,
-a dead man was being carried out.
-He was the only son of his mother,
-and she was a widow.
-Many people from the city were with her.
+[11] Soon after that, Jesus went to a town called Nain.
+Many of his disciples went with him.
+A large crowd went along too.
+[12] Jesus came near the town gate.
+Just then some people were carrying a dead man out.
+He was the only son of his mother.
+She was a widow.
+That means: Her husband had died.
+Many people from the town were with her.
 [13] When the Lord saw her,
-he had compassion on her
-and said to her,
+he felt very sorry for her.
+He said to her,
 “Don’t cry.”
-[14] He came near
-and touched the coffin.
-The bearers stood still.
-He said,
-“Young man, I tell you,
-arise!”
+[14] He went up to the coffin and touched it.
+The men who were carrying it stood still.
+Jesus said,
+“Young man, I tell you, get up!”
 [15] The dead man sat up
 and began to speak.
-And Jesus gave him to his mother.
-[16] Fear took hold of everyone.
+Then Jesus gave him to his mother.
+[16] Everyone was filled with fear.
 They praised God and said,
-“A great prophet has arisen among us!”
-and,
+“A great prophet has come among us!”
+And they said,
 “God has visited his people!”
-[17] This news about him spread
+[17] This news about Jesus spread
 through the whole of Judea
-and all the surrounding region.
+and the whole area around it.
 
 > **What does this mean?**
 > Nain was a small town in Galilee, not far from Nazareth. Only Luke tells this story.
@@ -112,96 +98,90 @@ and all the surrounding region.
 
 ## The question of John the Baptizer (Verses 18–23)
 
-[18] The disciples of John
-told him about all these things.
-[19] John called two of his disciples to him
-and sent them to Jesus.
-They were to ask,
-“Are you the one who is coming,
-or should we look for another?”
-[20] The men came to Jesus
-and said,
+[18] John’s disciples told him about all these things.
+[19] John called two of his disciples.
+He sent them to Jesus with this question:
+“Are you the one who is to come?
+Or should we wait for someone else?”
+[20] The men came to Jesus.
+They said,
 “John the Baptizer has sent us to you.
 He asks,
-‘Are you he who comes,
-or should we look for another?’”
-[21] In that hour Jesus cured many people
-of diseases and plagues
-and evil spirits.
-And to many who were blind he gave sight.
-[22] Jesus answered them,
-“Go and tell John
-the things which you have seen and heard:
-The blind receive their sight,
-the lame walk,
-the lepers are cleansed,
-the deaf hear,
-the dead are raised up,
-and the poor have good news preached to them.
-[23] Blessed is he
-who finds no occasion for stumbling in me.”
+‘Are you the one who is to come?
+Or should we wait for someone else?’”
+[21] At that time Jesus healed many people
+of their diseases and sicknesses,
+and from evil spirits.
+He gave sight to many blind people.
+[22] Jesus answered the men,
+“Go back and tell John
+what you have seen and heard:
+Blind people can see.
+Lame people walk.
+People with leprosy are made clean.
+Deaf people hear.
+Dead people are raised to life.
+And poor people hear the Good News.
+[23] Blessed is the person
+who does not stumble because of me.”
 
 > **What does this mean?**
 > John is in prison (Luke 3:20). He asks: Is Jesus really the promised Savior? Perhaps he had expected a strict judge (Luke 3:17).
 > Even a great believer like John has questions and doubts. That is allowed.
 > Jesus does not answer with “yes” or “no.” He points to what is happening. His words remind us of promises in the Book of Isaiah (Isaiah 35:5–6 and 61:1).
-> Verse 23: “Finds no occasion for stumbling in me” means: does not get stuck on me, does not take offense at me, does not trip over me. Jesus is different from what many expected.
+> Verse 23: “Does not stumble because of me” means: does not get stuck on me, does not take offense at me, does not trip over me. Jesus is different from what many expected.
 > Important: These healings are signs of God’s Kingdom. Whoever stays sick has not believed too little. And people with disabilities are loved by God just as much.
 
 ---
 
 ## Jesus speaks about John (Verses 24–35)
 
-[24] When John’s messengers had gone away,
-Jesus began
-to speak to the crowds about John:
-“What did you go out into the wilderness
-to see?
-A reed shaken by the wind?
-[25] But what did you go out to see?
-A man dressed in soft clothing?
-Those who are gorgeously dressed
+[24] John’s messengers left.
+Then Jesus began to speak to the crowds about John.
+“What did you go out into the wilderness to see?
+A reed blowing in the wind?
+[25] What did you go out to see?
+A man dressed in fine, soft clothes?
+No, people who wear beautiful clothes
 and live in luxury
-are in kings’ courts.
-[26] But what did you go out to see?
+are in the palaces of kings.
+[26] So what did you go out to see?
 A prophet?
 Yes, I tell you,
-and much more than a prophet.
-[27] This is he of whom it is written,
-‘I send my messenger before your face,
-who will prepare your way before you.’
-[28] For I tell you,
-among those who are born of women
-there is not a greater prophet than John the Baptizer.
-Yet he who is least in God’s Kingdom
-is greater than he.”
-[29] When all the people heard this,
-including the tax collectors,
-they declared God to be just.
-For they had been baptized with John’s baptism.
-[30] But the Pharisees and the lawyers
-rejected the counsel of God,
-for they had not been baptized by him.
-[31] “To what then should I compare the people of this generation?
+and John is much more than a prophet.
+[27] The Scriptures talk about him.
+They say,
+‘Look, I am sending my messenger ahead of you.
+He will prepare your way for you.’
+[28] I tell you:
+No prophet born of a woman is greater than John the Baptizer.
+But the least important person in God’s Kingdom
+is greater than John.”
+[29] All the people heard this,
+even the tax collectors.
+They said that God is right.
+For they had let John baptize them.
+[30] But the Pharisees and the experts in the law
+said no to God’s plan for them.
+They had not let John baptize them.
+[31] “What can I compare the people of this generation to?
 What are they like?
-[32] They are like children
-who sit in the marketplace
-and call to one another,
+[32] They are like children sitting in the marketplace.
+They call out to each other,
 ‘We played the flute for you,
-and you didn’t dance.
-We sang songs of mourning,
-and you didn’t weep.’
-[33] For John the Baptizer came
-eating no bread
-and drinking no wine,
-and you say,
+but you did not dance.
+We sang sad songs for you,
+but you did not cry.’
+[33] John the Baptizer came.
+He did not eat bread or drink wine.
+And you say,
 ‘He has a demon.’
-[34] The Son of Man has come
-eating and drinking,
-and you say,
-‘Look, a glutton and a drunkard,
-a friend of tax collectors and sinners!’
-[35] Wisdom is justified
+[34] The Son of Man came.
+He eats and drinks.
+And you say,
+‘Look at him! He is a glutton and a drunkard.
+He is a friend of tax collectors and sinners!’
+[35] But wisdom is shown to be right
 by all her children.”
 
 > **What does this mean?**
@@ -209,7 +189,7 @@ by all her children.”
 > Verse 27 quotes Malachi 3:1. John prepares the way for Jesus.
 > Verse 28: John is great. But in God’s Kingdom something new counts: Whoever belongs to God’s Kingdom receives a gift that is even greater. This does not belittle John.
 > Lawyers: here, experts in the law of Moses.
-> Verses 29–30: Luke shows two reactions. The ordinary people and the tax collectors accept John. Many Pharisees and lawyers do not. “Rejected the counsel of God” means: They say no to what God offers them.
+> Verses 29–30: Luke shows two reactions. The ordinary people and the tax collectors accept John. Many Pharisees and lawyers do not. “Said no to God’s plan for them” means: They say no to what God offers them.
 > Important: This applies to certain people back then, not to all Pharisees and not to the Jewish people. Some Pharisees even invite Jesus to eat with them (verse 36).
 > Verses 31–34: The children in the marketplace want to play neither wedding nor funeral. That is how it is with some people: John is too strict for them, Jesus is too cheerful for them. No matter what God does, they always find something to complain about.
 > A glutton is someone who eats far too much. A drunkard is someone who drinks far too much.
@@ -219,67 +199,61 @@ by all her children.”
 
 ## A woman anoints Jesus’ feet (Verses 36–50)
 
-[36] One of the Pharisees invited Jesus
-to eat with him.
+[36] One of the Pharisees invited Jesus to eat with him.
 Jesus went into the Pharisee’s house
-and sat at the table.
-[37] A woman lived in the city
-who was a sinner.
-She found out that Jesus was reclining at the table in the Pharisee’s house.
-So she brought an alabaster jar of ointment.
-[38] She stood behind him at his feet,
-weeping.
-She began to wet his feet with her tears.
-Then she wiped them with the hair of her head,
-kissed his feet,
-and anointed them with the ointment.
+and sat down at the table.
+[37] There was a woman in that town who was a sinner.
+She heard that Jesus was eating in the Pharisee’s house.
+So she came with an alabaster jar full of ointment.
+[38] She stood behind Jesus at his feet and cried.
+Her tears made his feet wet.
+She dried his feet with her hair.
+She kissed his feet
+and put the ointment on them.
 [39] The Pharisee who had invited Jesus saw this.
-He said to himself,
+He thought to himself,
 “If this man were a prophet,
-he would know
-who and what kind of woman this is
-who touches him,
-that she is a sinner.”
-[40] Jesus answered him,
+he would know who this woman is.
+He would know what kind of woman is touching him.
+She is a sinner!”
+[40] Jesus said to him,
 “Simon, I have something to tell you.”
-He said,
-“Teacher, say on.”
-[41] “A certain lender had two debtors.
-One owed five hundred denarii,
-and the other fifty.
-[42] When they couldn’t pay,
-he forgave them both.
-Which of them will love him most?”
+Simon said,
+“Tell me, Teacher.”
+[41] “Two men owed money to a lender.
+One owed him five hundred denarii.
+The other owed him fifty.
+[42] Neither of them could pay him back.
+So the lender forgave them both.
+Now which of them will love him more?”
 [43] Simon answered,
-“I suppose the one
-to whom he forgave the most.”
+“I think the one who was forgiven more.”
 Jesus said to him,
-“You have judged correctly.”
-[44] He turned to the woman
-and said to Simon,
+“You are right.”
+[44] Then Jesus turned toward the woman.
+He said to Simon,
 “Do you see this woman?
-I came into your house,
-and you gave me no water for my feet.
-But she has wet my feet with her tears
-and wiped them with the hair of her head.
-[45] You gave me no kiss.
-But since the time I came in,
-she has not stopped kissing my feet.
-[46] You didn’t anoint my head with oil.
-But she has anointed my feet with ointment.
-[47] Therefore I tell you,
-her sins, which are many,
-are forgiven,
-for she loved much.
-But one to whom little is forgiven
+I came into your house.
+You gave me no water for my feet.
+But she washed my feet with her tears
+and dried them with her hair.
+[45] You did not greet me with a kiss.
+But she has not stopped kissing my feet
+since I came in.
+[46] You did not put oil on my head.
+But she has put ointment on my feet.
+[47] So I tell you:
+Her sins are many,
+but they are forgiven,
+because she loved much.
+But whoever is forgiven little
 loves little.”
-[48] He said to her,
+[48] Then Jesus said to the woman,
 “Your sins are forgiven.”
-[49] Those who sat at the table with him
-began to say to themselves,
-“Who is this
-who even forgives sins?”
-[50] He said to the woman,
+[49] The other people at the table began to say to each other,
+“Who is this man?
+He even forgives sins!”
+[50] Jesus said to the woman,
 “Your faith has saved you.
 Go in peace.”
 

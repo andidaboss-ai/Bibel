@@ -205,7 +205,7 @@ that would be written.
 > **A different Gospel:** John tells his story differently from Matthew, Mark and Luke. He doesn’t begin with the birth, but with eternity: “In the beginning was the Word.” And: “The Word was God” (1:1). “The Word became flesh” (1:14). That means: The Word became a human being.
 > **The signs:** John tells of great deeds of Jesus and calls them “signs”: water becomes wine in Cana, healings, the feeding of the 5,000, Jesus walks on the water, the man born blind sees, Lazarus is raised. Many scholars count seven such signs. The signs show who Jesus is.
 > **The “I am” sayings:** “I am the bread of life,” “I am the light of the world,” “I am the door,” “I am the good shepherd,” “I am the resurrection and the life,” “I am the way, the truth, and the life,” “I am the true vine.”
-> **God’s love:** “For God so loved the world” (3:16). Jesus washes his disciples’ feet and gives the new commandment: to love one another as he has loved us (13:34).
+> **God’s love:** “God loved the world very much” (3:16). Jesus washes his disciples’ feet and gives the new commandment: to love one another as he has loved us (13:34).
 > **The Holy Spirit:** Jesus promises the Counselor, the Spirit of truth. He remains with the disciples.
 > **Cross and Easter:** On the cross Jesus says: “It is finished!” Mary Magdalene is the first to meet the risen Jesus. Thomas confesses: “My Lord and my God!”
 > **An important note:** John often writes “the Jews.” By this he mostly means the leaders in Jerusalem who rejected Jesus. Jesus, his mother, all the disciples and the first Christians were Jews. “Salvation is from the Jews” (4:22). These texts were often misused to hate Jews. That was a grave guilt. No text of this Gospel may be used against Jews.

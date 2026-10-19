@@ -9,82 +9,51 @@
 
 ---
 
-## “Behold, the man!” (Verses 1–16)
+## “Look, here is the man!” (Verses 1–16)
 
-[1] So Pilate then took Jesus
-and had him flogged.
-[2] The soldiers twisted thorns into a crown
-and put it on his head.
-They dressed him in a purple garment.
-[3] They kept saying,
-“Hail, King of the Jews!”
-and they kept slapping him.
-[4] Then Pilate went out again
-and said to them,
-“I am bringing him out to you,
-so that you may know
-that I find no basis for a charge against him.”
-[5] So Jesus came out,
-wearing the crown of thorns
-and the purple garment.
-Pilate said to them,
-“Behold, the man!”
-[6] When the chief priests and the officers saw him,
-they shouted,
-“Crucify! Crucify!”
-Pilate said to them,
-“Take him yourselves
-and crucify him,
-for I find no basis for a charge against him.”
-[7] The Jews answered him,
-“We have a law,
-and by our law he ought to die,
-because he made himself the Son of God.”
-[8] When Pilate heard this,
-he was even more afraid.
-[9] He went into the Praetorium again
-and said to Jesus,
-“Where are you from?”
+[1] Then Pilate took Jesus and had him flogged.
+[2] The soldiers twisted thorns into a crown.
+They put it on his head.
+They dressed him in a purple robe.
+[3] Again and again they said, “Hail, King of the Jews!”
+And again and again they slapped him.
+[4] Then Pilate went out again.
+He said to them, “Look, I am bringing him out to you.
+I want you to know that I find no reason to charge him with anything.”
+[5] So Jesus came out.
+He was wearing the crown of thorns and the purple robe.
+Pilate said to them, “Look, here is the man!”
+[6] The chief priests and the officers saw him.
+They shouted, “Crucify! Crucify!”
+Pilate said to them, “Take him yourselves and crucify him.
+I find no reason to charge him with anything.”
+[7] The Jews answered him, “We have a law.
+By our law he must die, because he made himself the Son of God.”
+[8] When Pilate heard this, he was even more afraid.
+[9] He went back into the Praetorium.
+He asked Jesus, “Where are you from?”
 But Jesus gave him no answer.
-[10] So Pilate said to him,
-“Aren’t you speaking to me?
-Don’t you know
-that I have power to release you,
-and have power to crucify you?”
-[11] Jesus answered,
-“You would have no power at all over me,
-unless it were given to you from above.
-Therefore he who handed me over to you
-has greater sin.”
-[12] At this, Pilate tried
-to release him.
-But the Jews cried out,
-“If you release this man,
-you aren’t Caesar’s friend!
-Everyone who makes himself a king
-speaks against Caesar!”
-[13] When Pilate heard these words,
-he brought Jesus out.
-He sat down on the judgment seat
-at a place
-called “The Pavement,”
-in Hebrew, “Gabbatha.”
-[14] It was the Preparation Day of the Passover,
-at about the sixth hour.
-He said to the Jews,
-“Here is your King!”
-[15] They cried out,
-“Away with him!
-Away with him!
-Crucify him!”
-Pilate said to them,
-“Shall I crucify your King?”
-The chief priests answered,
-“We have no king but Caesar!”
-[16] So then he handed him over to them
-to be crucified.
-They took Jesus
-and led him away.
+[10] So Pilate said to him, “Aren’t you going to speak to me?
+Don’t you know that I have the power to set you free?
+And I have the power to crucify you.”
+[11] Jesus answered, “You would have no power over me at all if it had not been given to you from above.
+So the one who handed me over to you has the greater sin.”
+[12] After this, Pilate tried to set him free.
+But the Jews shouted, “If you set this man free, you are not Caesar’s friend!
+Everyone who makes himself a king speaks against Caesar!”
+[13] Pilate heard these words.
+Then he brought Jesus out.
+He sat down on the judge’s seat.
+The place was called “The Pavement.”
+In Hebrew it is called “Gabbatha.”
+[14] It was the Day of Preparation for the Passover.
+It was about the sixth hour.
+Pilate said to the Jews, “Look, here is your King!”
+[15] They shouted, “Away with him! Away with him! Crucify him!”
+Pilate said to them, “Shall I crucify your King?”
+The chief priests answered, “We have no king but Caesar!”
+[16] So Pilate handed him over to them to be crucified.
+They took Jesus and led him away.
 
 *flog* = beat hard with a whip
 *Caesar* = the Roman emperor
@@ -92,10 +61,10 @@ and led him away.
 
 > **What does this mean?**
 > Flogging was a cruel Roman punishment. The crown of thorns and the purple garment are mockery: They dress Jesus up as a king.
-> Verse 5: “Behold, the man!” (in Latin *Ecce homo*). Pilate shows a tortured, humiliated human being. Christians see in this: In Jesus God is very close to a suffering human being.
+> Verse 5: “Look, here is the man!” (in Latin *Ecce homo*). Pilate shows a tortured, humiliated human being. Christians see in this: In Jesus God is very close to a suffering human being.
 > Verse 6: Here John says exactly who is shouting: the chief priests and the officers. That is not the Jewish people.
 > Verse 7: The accusers appeal to the law against blasphemy (Leviticus 24:16).
-> Verse 11: Pilate’s power is only borrowed. He remains responsible. Jesus doesn’t say who is meant by “he who handed me over.” Some think of Caiaphas, others of Judas.
+> Verse 11: Pilate’s power is only borrowed. He remains responsible. Jesus doesn’t say who is meant by “the one who handed me over.” Some think of Caiaphas, others of Judas.
 > Verse 12: “Caesar’s friend” was a title of honor for loyal officials. Pilate is afraid for his position.
 > Verse 14: In John, Jesus is sentenced at the same time as the Passover lambs are being slaughtered in the temple. He is “the Lamb of God” (1:29).
 > Important: Torture is a crime against human dignity. Jesus is close to all who are tortured.
@@ -104,58 +73,39 @@ and led him away.
 
 ## Jesus is crucified (Verses 17–27)
 
-[17] Jesus went out,
-carrying his cross himself,
-to the place
-called “The Place of a Skull,”
-in Hebrew, “Golgotha.”
-[18] There they crucified him,
-and with him two others,
-one on each side,
-and Jesus in the middle.
-[19] Pilate also wrote a title
-and put it on the cross.
-On it was written,
-“JESUS OF NAZARETH, THE KING OF THE JEWS.”
-[20] Many of the Jews read this title,
-for the place
-where Jesus was crucified
-was near the city.
-And it was written in Hebrew, in Latin, and in Greek.
-[21] So the chief priests of the Jews said to Pilate,
-“Don’t write, ‘The King of the Jews,’
-but, ‘He said, “I am King of the Jews.”’”
-[22] Pilate answered,
-“What I have written,
-I have written.”
-[23] When the soldiers had crucified Jesus,
-they took his garments
-and made four parts,
-a part for every soldier.
-They also took the tunic.
-The tunic was without seam,
-woven in one piece from the top down.
-[24] Then they said to one another,
-“Let’s not tear it,
-but cast lots for it
-to decide whose it will be.”
-This happened so that the Scripture might be fulfilled,
-which says,
-“They parted my garments among them.
+[17] Jesus went out, carrying his cross himself.
+He went to the place called “The Place of a Skull.”
+In Hebrew it is called “Golgotha.”
+[18] There they crucified him.
+They crucified two other men with him, one on each side.
+Jesus was in the middle.
+[19] Pilate also wrote a title.
+He had it put on the cross.
+It said: “JESUS OF NAZARETH, THE KING OF THE JEWS.”
+[20] Many of the Jews read this title.
+The place where Jesus was crucified was near the city.
+And the title was written in Hebrew, in Latin, and in Greek.
+[21] So the chief priests of the Jews said to Pilate, “Don’t write, ‘The King of the Jews.’
+Write, ‘He said, “I am King of the Jews.”’”
+[22] Pilate answered, “What I have written, I have written.”
+[23] The soldiers crucified Jesus.
+Then they took his clothes and made four parts, one part for each soldier.
+They also took his tunic.
+The tunic had no seam.
+It was woven in one piece from top to bottom.
+[24] So they said to one another, “Let’s not tear it.
+Let’s cast lots for it to decide who gets it.”
+This happened so that the Scripture would come true.
+It says, “They divided my clothes among them.
 They cast lots for my clothing.”
-So the soldiers did these things.
-[25] Standing by Jesus’ cross were his mother,
-his mother’s sister,
-Mary the wife of Clopas,
-and Mary Magdalene.
-[26] When Jesus saw his mother,
-and the disciple whom he loved standing there,
-he said to his mother,
-“Woman, here is your son!”
-[27] Then he said to the disciple,
-“Here is your mother!”
-From that hour,
-the disciple took her to his own home.
+So that is what the soldiers did.
+[25] Some women were standing by Jesus’ cross.
+They were his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
+[26] Jesus saw his mother there.
+He also saw the disciple he loved standing there.
+He said to his mother, “Woman, here is your son!”
+[27] Then he said to the disciple, “Here is your mother!”
+From that hour on, the disciple took her into his own home.
 
 *title* = here: a sign with writing on it
 *tunic* = a long shirt worn under the outer clothes
@@ -172,46 +122,31 @@ the disciple took her to his own home.
 
 ## Jesus dies (Verses 28–37)
 
-[28] After this, Jesus knew
-that all things were now finished.
-So that the Scripture might be fulfilled,
-he said,
-“I am thirsty!”
+[28] After this, Jesus knew that everything was now finished.
+So that the Scripture would come true, he said, “I am thirsty!”
 [29] A jar full of vinegar was standing there.
-So they put a sponge full of the vinegar on a hyssop stalk
-and held it to his mouth.
-[30] When Jesus had received the vinegar,
-he said,
-“It is finished!”
-Then he bowed his head
-and gave up his spirit.
-[31] It was the Preparation Day.
-The bodies were not to remain on the cross on the Sabbath,
-for that Sabbath was a special one.
-So the Jews asked Pilate
-that the legs of the crucified men might be broken
-and that they might be taken away.
-[32] So the soldiers came
-and broke the legs of the first man
-and of the other
-who was crucified with him.
-[33] But when they came to Jesus
-and saw
-that he was already dead,
-they didn’t break his legs.
-[34] However, one of the soldiers pierced his side with a spear.
-And immediately blood and water came out.
-[35] He who has seen this
-has testified,
-and his testimony is true.
-He knows that he tells the truth,
-so that you also may believe.
-[36] For these things happened
-so that the Scripture might be fulfilled,
-“A bone of him will not be broken.”
-[37] And another Scripture says,
-“They will look on him
-whom they pierced.”
+So they put a sponge full of the vinegar on a hyssop stalk.
+They held it up to his mouth.
+[30] Jesus took the vinegar.
+Then he said, “It is finished!”
+He bowed his head and gave up his spirit.
+[31] It was the Day of Preparation.
+The Jews did not want the bodies to stay on the crosses on the Sabbath.
+That Sabbath was a special one.
+So they asked Pilate to have the men’s legs broken and the bodies taken away.
+[32] So the soldiers came.
+They broke the legs of the first man.
+Then they broke the legs of the other man who was crucified with Jesus.
+[33] But when they came to Jesus, they saw that he was already dead.
+So they didn’t break his legs.
+[34] But one of the soldiers stabbed his side with a spear.
+At once blood and water came out.
+[35] The man who saw this has told about it, and what he says is true.
+He knows that he is telling the truth.
+He tells it so that you also may believe.
+[36] These things happened so that the Scripture would come true:
+“Not one of his bones will be broken.”
+[37] And another Scripture says, “They will look at the one they pierced.”
 
 *vinegar* = here: sour wine
 *hyssop* = a plant with small, bushy branches
@@ -229,37 +164,29 @@ whom they pierced.”
 
 ## Jesus is buried (Verses 38–42)
 
-[38] After these things,
-Joseph of Arimathaea asked Pilate
-that he might take away Jesus’ body.
-Joseph was a disciple of Jesus,
-but secretly,
-for fear of the Jews.
-Pilate gave him permission.
-So he came
-and took away his body.
-[39] Nicodemus also came,
-who at first had come to Jesus by night.
-He brought a mixture of myrrh and aloes,
-about a hundred Roman pounds.
-[40] So they took Jesus’ body
-and wrapped it in linen cloths with the spices,
-as the custom of the Jews is
-to bury.
-[41] In the place
-where he was crucified
-there was a garden.
-And in the garden was a new tomb
-in which no one had ever yet been laid.
-[42] Because it was the Jews’ Preparation Day,
-and the tomb was near,
-they laid Jesus there.
+[38] After this, Joseph of Arimathaea asked Pilate if he could take away Jesus’ body.
+Joseph was a disciple of Jesus.
+But he kept it secret, because he was afraid of the Jews.
+Pilate allowed it.
+So Joseph came and took Jesus’ body away.
+[39] Nicodemus came too.
+He was the one who had first come to Jesus at night.
+He brought a mixture of myrrh and aloes.
+It weighed about a hundred Roman pounds.
+[40] So they took Jesus’ body.
+They wrapped it in strips of linen cloth with the spices.
+That is how the Jews bury their dead.
+[41] There was a garden at the place where Jesus was crucified.
+In the garden was a new tomb.
+No one had ever been laid in it.
+[42] It was the Jews’ Day of Preparation, and the tomb was close by.
+So they laid Jesus there.
 
 *myrrh and aloes* = sweet-smelling spices used for burial
 
 > **What does this mean?**
 > Verses 38–39: Two respected Jewish men bury Jesus: Joseph of Arimathaea and Nicodemus, a Pharisee. They show courage and love.
-> “For fear of the Jews”: This means fear of the powerful leaders. Joseph was a Jew himself.
+> “Afraid of the Jews”: This means afraid of the powerful leaders. Joseph was a Jew himself.
 > Verse 39: A hundred Roman pounds are about 75 pounds (33 kilograms). That is a burial fit for a king.
 > Verse 40: Jesus is buried according to Jewish custom, with love and dignity.
 > Verse 41: As creation began in a garden, so Jesus’ tomb also lies in a garden. There Easter will begin.

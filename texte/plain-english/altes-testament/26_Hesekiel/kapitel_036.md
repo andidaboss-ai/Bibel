@@ -169,7 +169,7 @@ Be ashamed and embarrassed about your ways, people of Israel.”
 > Verse 25: God makes his people clean with clean water. He washes away everything old. (Christians think of baptism here.)
 > Verse 26: God gives a new heart. A heart of stone is hard, cold, and does not move. A heart of flesh is alive, warm, and can feel. God changes people from the inside. What people cannot do themselves, God gives as a gift.
 > Verse 27: God puts his own Spirit into people. Then they keep God’s commandments not because they are forced to, but because they want to from the inside.
-> This promise is like the “new covenant” in Jeremiah 31:31–34. Jesus says: “Unless one is born of water and Spirit, he can’t enter into God’s Kingdom” (John 3:5). Christians see the fulfillment in the gift of the Holy Spirit (Acts 2). In Judaism this text is read as a promise for the renewal of Israel.
+> This promise is like the “new covenant” in Jeremiah 31:31–34. Jesus says: “No one can enter God’s Kingdom unless he is born of water and Spirit” (John 3:5). Christians see the fulfillment in the gift of the Holy Spirit (Acts 2). In Judaism this text is read as a promise for the renewal of Israel.
 > Verse 31: When people experience God’s goodness, they see their own past more honestly. This means being sorry, not hating yourself.
 
 ---

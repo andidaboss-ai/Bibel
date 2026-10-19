@@ -85,4 +85,4 @@ he will not be able to find it.
 
 > **What does this mean?**
 > The Preacher has thought about it day and night. His result: No one can fully understand what God does, not even the wisest person.
-> This is not despair, but humility. We don’t have to understand everything in order to trust God. Paul says: “How unsearchable are his judgments, and his ways past tracing out!” (Romans 11:33).
+> This is not despair, but humility. We don’t have to understand everything in order to trust God. Paul says: “No one can search out his judgments. No one can trace his ways.” (Romans 11:33).

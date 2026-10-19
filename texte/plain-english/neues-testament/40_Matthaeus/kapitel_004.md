@@ -5,41 +5,42 @@
 
 ## Jesus is tempted in the wilderness (Verses 1–11)
 
-[1] Then Jesus was led up by the Spirit into the wilderness
-to be tempted by the devil.
-[2] When he had fasted forty days and forty nights,
-he was hungry afterward.
-[3] The tempter came to him and said,
-“If you are the Son of God,
-command that these stones become bread.”
-[4] But he answered,
-“It is written,
-‘Man shall not live by bread alone,
-but by every word that comes out of God’s mouth.’”
+[1] Then the Spirit led Jesus up into the wilderness.
+There the devil was going to tempt him.
+To tempt means: to try to get someone to do wrong.
+[2] Jesus fasted for forty days and forty nights.
+After that he was hungry.
+[3] The tempter came to him.
+He said, “If you are the Son of God,
+tell these stones to become bread.”
+[4] But Jesus answered,
+“It is written:
+‘People do not live by bread alone.
+They live by every word that comes out of God’s mouth.’”
 [5] Then the devil took him into the holy city.
-He set him on the highest point of the temple
-[6] and said to him,
+He put him on the highest point of the temple.
+[6] He said to him,
 “If you are the Son of God, throw yourself down!
-For it is written,
-‘He will command his angels concerning you,’
-and,
-‘On their hands they will carry you,
-so that you don’t strike your foot against a stone.’”
+For it is written:
+‘He will command his angels to take care of you.’
+And:
+‘They will carry you in their hands,
+so that you do not hit your foot against a stone.’”
 [7] Jesus said to him,
-“It is also written,
-‘You shall not test the Lord your God.’”
-[8] Again the devil took him to a very high mountain
-and showed him all the kingdoms of the world and their glory.
+“It is also written:
+‘Do not test the Lord your God.’”
+[8] Again the devil took him along, to a very high mountain.
+He showed him all the kingdoms of the world and how great they are.
 [9] He said to him,
 “I will give you all these things
-if you will fall down and worship me.”
+if you fall down and worship me.”
 [10] Then Jesus said to him,
-“Go away, Satan!
-For it is written,
-‘You shall worship the Lord your God,
-and you shall serve him only.’”
+“Get away from me, Satan!
+For it is written:
+‘Worship the Lord your God.
+Serve only him.’”
 [11] Then the devil left him.
-And angels came and served him.
+And angels came and took care of him.
 
 > **What does this mean?**
 > Verses 1–2: After his baptism Jesus goes into the wilderness and fasts for forty days. This reminds us of the forty years that Israel was in the wilderness, and of Moses and Elijah, who fasted for forty days (Exodus 34:28; 1 Kings 19:8). The Christian season of fasting before Easter (Lent) remembers this.
@@ -55,49 +56,52 @@ And angels came and served him.
 
 ## Jesus begins in Galilee (Verses 12–17)
 
-[12] When Jesus heard that John had been arrested,
-he went away into Galilee.
-[13] He left Nazareth
-and came and lived in Capernaum, which is by the sea,
-in the region of Zebulun and Naphtali.
-[14] This happened so that what the prophet Isaiah had said would come true:
+[12] Jesus heard that John had been arrested.
+Then he went back to Galilee.
+[13] He left Nazareth.
+He went to live in Capernaum, a town by the lake,
+in the area of Zebulun and Naphtali.
+[14] This happened so that the words of the prophet Isaiah would come true.
+Isaiah had said:
 [15] “The land of Zebulun and the land of Naphtali,
-toward the sea, beyond the Jordan,
+toward the sea, on the other side of the Jordan,
 Galilee of the Gentiles:
 [16] The people who sat in darkness
 saw a great light.
-And for those who sat in the region and shadow of death,
-light has dawned.”
-[17] From that time on, Jesus began to preach and to say,
-“Repent! For the Kingdom of Heaven is near.”
+Some people sat in the land where death throws its shadow.
+For them a light has dawned.”
+[17] From then on, Jesus began to preach.
+He said,
+“Repent! The Kingdom of Heaven is near.”
+Repent means: turn away from wrong and turn back to God.
 
 > **What does this mean?**
 > Verse 12: John the Baptizer was thrown into prison by Herod Antipas, the ruler of Galilee (Matthew 14:3–4).
 > Verse 13: Jesus moves to Capernaum, a town on the Sea of Galilee (also called Lake Gennesaret). He will often be there.
-> Verses 15–16: The region was called “Galilee of the Gentiles” because many non-Jews lived there. Matthew quotes Isaiah 9:1–2 (in the Hebrew Bible and in many German Bibles Isaiah 8:23–9:1). It is right there, on the edge, that Jesus begins. He is the “great light” for people in the dark.
+> Verses 15–16: The region was called “Galilee of the Gentiles” because many non-Jews lived there. Matthew quotes Isaiah 9:1–2 (in the Hebrew Bible and in some Bibles Isaiah 8:23–9:1). It is right there, on the edge, that Jesus begins. He is the “great light” for people in the dark.
 > Gentiles: people who are not Jews.
-> Verse 17: Jesus begins with the same message as John: “Repent! For the Kingdom of Heaven is near.”
+> Verse 17: Jesus begins with the same message as John: “Repent! The Kingdom of Heaven is near.”
 
 ---
 
 ## The first disciples (Verses 18–22)
 
-[18] As Jesus was walking by the Sea of Galilee,
-he saw two brothers:
-Simon, who is called Peter, and Andrew, his brother.
-They were throwing a net into the sea,
-for they were fishermen.
-[19] He said to them,
-“Come, follow me,
-and I will make you fishers of people.”
+[18] Jesus was walking by the Sea of Galilee.
+There he saw two brothers:
+Simon, who is called Peter, and his brother Andrew.
+They were throwing a net into the lake.
+They were fishermen.
+[19] Jesus said to them,
+“Come, follow me.
+I will make you fishers of people.”
 [20] At once they left their nets
 and followed him.
-[21] As he went on from there,
-he saw two other brothers:
-James the son of Zebedee, and John his brother.
-They were in the boat with Zebedee their father
-and were mending their nets.
-He called them.
+[21] Jesus went on from there.
+He saw two other brothers:
+James, the son of Zebedee, and his brother John.
+They were in the boat with their father Zebedee.
+They were fixing their nets.
+Jesus called them.
 [22] At once they left the boat and their father
 and followed him.
 
@@ -111,18 +115,20 @@ and followed him.
 
 ## Jesus teaches and heals (Verses 23–25)
 
-[23] Jesus went around all of Galilee.
-He taught in their synagogues,
-preached the Good News of the Kingdom,
-and healed every disease and every sickness among the people.
+[23] Jesus went all around Galilee.
+He taught in their synagogues.
+He preached the Good News of the Kingdom.
+And he healed every disease and every sickness among the people.
 [24] The news about him spread through all of Syria.
-People brought to him all who were sick,
-who suffered from various diseases and pains,
-people possessed by demons, people with epilepsy, and people who were paralyzed,
-and he healed them.
-[25] Large crowds followed him
-from Galilee, from the Decapolis, from Jerusalem, from Judea,
-and from beyond the Jordan.
+People brought to him all who were sick.
+They had all kinds of diseases and pains.
+Some had demons in them.
+Some had epilepsy.
+Some could not move their bodies.
+And Jesus healed them.
+[25] Large crowds followed him.
+They came from Galilee, from the Decapolis, from Jerusalem, from Judea
+and from the other side of the Jordan.
 
 > **What does this mean?**
 > Here Matthew sums up what Jesus does: He teaches, he preaches the Good News of the Kingdom of God, and he heals the sick. Words and deeds belong together.

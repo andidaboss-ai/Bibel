@@ -6,50 +6,54 @@
 ## Good figs and bad figs (Verses 1–10)
 
 [1] The LORD showed me something.
-Look, two baskets of figs had been set down in front of the LORD’s temple.
-This was after Nebuchadnezzar, king of Babylon, had carried away from Jerusalem as captives
-Jeconiah, the son of Jehoiakim, king of Judah,
-and the princes of Judah,
-with the craftsmen and metalworkers,
-and had brought them to Babylon.
-[2] One basket had very good figs,
-like the figs that ripen first.
-The other basket had very bad figs,
-so bad that they could not be eaten.
+I saw two baskets of figs.
+They were set down in front of the LORD’s temple.
+This happened after Nebuchadnezzar, the king of Babylon, had taken people away as captives.
+He took Jeconiah, the son of Jehoiakim, king of Judah.
+He also took the princes of Judah,
+the craftsmen and the metalworkers.
+He took them away from Jerusalem and brought them to Babylon.
+[2] One basket had very good figs.
+They were like the figs that ripen first.
+The other basket had very bad figs.
+They were so bad that no one could eat them.
 [3] Then the LORD asked me,
 “What do you see, Jeremiah?”
 I said, “Figs.
-The good figs are very good,
-and the bad ones are very bad,
-so bad that they can’t be eaten.”
-[4] The LORD’s word came to me. He said,
-[5] “The LORD, the God of Israel, says:
-‘Like these good figs,
-so I will look with favor on the captives of Judah,
-whom I have sent out of this place into the land of the Chaldeans.
-[6] For I will keep my eyes on them for their good,
-and I will bring them back to this land.
+The good figs are very good.
+The bad figs are very bad.
+They are so bad that no one can eat them.”
+[4] Then the LORD spoke his word to me.
+He said,
+[5] “This is what the LORD, the God of Israel, says:
+‘The captives from Judah are like these good figs.
+I sent them away from this place into the land of the Chaldeans.
+But I will see them as good.
+[6] I will watch over them for their good.
+I will bring them back to this land.
 I will build them, and not tear them down.
 I will plant them, and not pull them up.
-[7] I will give them a heart to know me,
-that I am the LORD.
-They will be my people,
-and I will be their God,
-for they will return to me with their whole heart.
-[8] “‘But like the bad figs,
-which are so bad that they can’t be eaten,’ says the LORD,
-‘so I will treat Zedekiah, king of Judah,
-and his princes,
-and the rest of Jerusalem who remain in this land,
+[7] I will give them a heart to know me.
+They will know that I am the LORD.
+They will be my people, and I will be their God.
+For they will return to me with their whole heart.
+[8] “‘But others are like the bad figs.
+They are so bad that no one can eat them,’ says the LORD.
+‘That is how I will treat Zedekiah, the king of Judah,
+and his princes.
+I will treat the rest of the people of Jerusalem the same way,
+those who are still in this land
 and those who live in the land of Egypt.
-[9] I will make them a horror and a disaster
-to all the kingdoms of the earth.
-They will be a disgrace and a saying,
-something people mock and curse,
-in all the places where I will drive them.
-[10] I will send the sword, the famine, and disease among them,
-until they are wiped out from the land
-that I gave to them and to their fathers.’”
+[9] I will hand them over to be tossed back and forth
+among all the kingdoms of the earth.
+Bad things will happen to them.
+People will look down on them.
+People will tell stories about them and make fun of them.
+People will use their name as a curse.
+This will happen in all the places where I will drive them.
+[10] I will send war, hunger and disease among them.
+They will be wiped out from the land
+that I gave to them and to their ancestors.’”
 
 > **What does this mean?**
 > Verse 1: In the year 597 BC, King Jeconiah (Jehoiachin) was carried off to Babylon with many princes and craftsmen. Those who stayed behind in Jerusalem thought: We are the good ones; those who were carried off have been punished.

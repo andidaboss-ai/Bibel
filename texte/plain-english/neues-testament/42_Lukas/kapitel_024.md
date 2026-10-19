@@ -197,7 +197,7 @@ Amen.
 > **What does this mean?**
 > **A careful report:** Luke wanted “to trace everything carefully from the start” (1:3). He names emperors and rulers and places Jesus’ story within world history. He writes for Theophilus and for everyone who loves God.
 > **Christmas:** In Luke we find the story of Mary’s yes, the birth in Bethlehem, the manger, the shepherds and the angels: “a Savior is born to you” (2:11). Also the songs of Mary, Zechariah and Simeon, which are still sung today.
-> **Good news for the poor:** In Nazareth Jesus reads from Isaiah that God has anointed him “to preach good news to the poor” (4:18). Luke shows Jesus on the side of the poor, the sick, tax collectors, sinners, Samaritans and foreigners.
+> **Good news for the poor:** In Nazareth Jesus reads from Isaiah that God has anointed him “to bring good news to poor people” (4:18). Luke shows Jesus on the side of the poor, the sick, tax collectors, sinners, Samaritans and foreigners.
 > **Women:** In Luke women play a big role: Mary and Elizabeth, the prophetess Anna, the women who travel with Jesus and support him, Martha and Mary, the widows. Women are the first witnesses of the resurrection.
 > **Famous parables:** Only Luke tells of the Good Samaritan, the lost son, the rich farmer, the rich man and poor Lazarus, the Pharisee and the tax collector.
 > **Prayer and the Holy Spirit:** In Luke Jesus prays before all the important moments. And he promises the Holy Spirit.

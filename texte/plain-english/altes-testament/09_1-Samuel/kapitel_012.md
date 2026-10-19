@@ -5,30 +5,32 @@
 
 ## “Whom have I cheated?” (Verses 1–5)
 
-[1] Samuel said to all Israel,
-“Look, I have listened to your voice in everything you said to me,
-and I have set a king over you.
-[2] And now, look, the king walks in front of you.
-I am old and gray.
-And look, my sons are with you.
-I have walked in front of you from my youth until this day.
+[1] Samuel said to all the people of Israel,
+“I have listened to you.
+I have done everything you asked me to do.
+I have given you a king.
+[2] Now you have a king to lead you.
+I am old, and my hair is gray.
+My sons are here with you.
+I have led you since I was young until today.
 [3] Here I am.
-Speak against me before the LORD and before his anointed:
+If I have done wrong, speak up now in front of the LORD and in front of his anointed king.
 Whose ox have I taken?
 Whose donkey have I taken?
 Whom have I cheated?
-Whom have I oppressed?
-From whose hand have I taken a bribe
-to make me close my eyes?
-I will give it back to you.”
-[4] They said,
-“You have not cheated us or oppressed us.
-You have not taken anything from anyone’s hand.”
-[5] He said to them,
-“The LORD is witness against you today,
-and his anointed is witness,
-that you have not found anything in my hand.”
-They said, “He is witness.”
+Whom have I treated harshly?
+Have I ever taken a bribe from anyone
+to look the other way?
+If I have, I will give it back to you.”
+[4] They answered,
+“You have not cheated us.
+You have not treated us harshly.
+You have not taken anything from anyone.”
+[5] Samuel said to them,
+“Today the LORD is a witness against you.
+And his anointed king is a witness too.
+You have not found that I took anything.”
+They said, “He is a witness.”
 
 > **What does this mean?**
 > Samuel is giving up his office. But first he wants to make it clear in public: Have I done wrong to anyone in my life?
@@ -41,38 +43,39 @@ They said, “He is witness.”
 ## God has always saved (Verses 6–13)
 
 [6] Samuel said to the people,
-“It is the LORD who appointed Moses and Aaron
-and who brought your fathers up out of the land of Egypt.
-[7] So now stand still,
-so that I can reason with you before the LORD
-about all the righteous acts of the LORD
-that he has done for you and for your fathers.
-[8] When Jacob had come into Egypt,
-and your fathers cried out to the LORD,
-the LORD sent Moses and Aaron.
-They brought your fathers out of Egypt
+“The LORD chose Moses and Aaron.
+He brought your ancestors out of the land of Egypt.
+[7] So now stand here in front of the LORD.
+I will speak to you openly.
+I will remind you of all the good and right things the LORD has done
+for you and for your ancestors.
+[8] Jacob went to Egypt.
+Later your ancestors cried out to the LORD for help.
+Then the LORD sent Moses and Aaron.
+They brought your ancestors out of Egypt
 and let them live in this place.
-[9] But they forgot the LORD their God.
-So he sold them into the hand of Sisera, the commander of the army of Hazor,
-and into the hand of the Philistines,
-and into the hand of the king of Moab.
-And they fought against them.
-[10] They cried out to the LORD and said,
-‘We have sinned,
-because we have left the LORD
-and have served the Baals and the Ashtaroth.
-But now save us from the hand of our enemies,
+[9] But your ancestors forgot the LORD their God.
+So the LORD handed them over to Sisera, the commander of the army of Hazor.
+He handed them over to the Philistines
+and to the king of Moab.
+These enemies fought against them.
+[10] Then your ancestors cried out to the LORD.
+They said,
+‘We have sinned.
+We have turned away from the LORD.
+We have served the Baals and the Ashtaroth.
+But now save us from our enemies,
 and we will serve you.’
-[11] Then the LORD sent Jerubbaal, Bedan, Jephthah, and Samuel
-and saved you from the hand of your enemies all around you.
+[11] So the LORD sent Jerubbaal, Bedan, Jephthah, and Samuel.
+He saved you from the enemies all around you.
 And you lived in safety.
-[12] When you saw that Nahash, the king of the Ammonites, came against you,
-you said to me,
-‘No, but a king shall rule over us,’
-even though the LORD your God was your king.
-[13] So now look, here is the king you have chosen,
-the one you asked for.
-Look, the LORD has set a king over you.
+[12] Then you saw that Nahash, the king of the people of Ammon, was coming to attack you.
+So you said to me,
+‘No, we want a king to rule over us.’
+But the LORD your God was already your king.
+[13] So now, here is the king you chose.
+You asked for him.
+Now the LORD has given you a king.
 
 > **What does this mean?**
 > Samuel tells the whole history of Israel once more in short: Egypt, the time of the judges, always the same pattern. The people forget God, get into trouble, cry out to God, and God saves them.
@@ -86,15 +89,15 @@ Look, the LORD has set a king over you.
 
 ## If you obey God (Verses 14–15)
 
-[14] If you fear the LORD and serve him
-and listen to his voice
-and do not rebel against the commandment of the LORD,
-then both you and the king who rules over you
+[14] You must have respect for the LORD and serve him.
+You must listen to what he says.
+You must not go against the LORD’s commands.
+Then both you and the king who rules over you
 will follow the LORD your God.
-[15] But if you do not listen to the voice of the LORD,
-but rebel against the commandment of the LORD,
-then the hand of the LORD will be against you,
-as it was against your fathers.
+[15] But maybe you will not listen to what the LORD says.
+Maybe you will go against the LORD’s commands.
+Then the LORD will turn against you,
+just as he turned against your ancestors.
 
 > **What does this mean?**
 > Now comes the good news: Even with a king, everything can turn out well. The condition is the same as always: Listen to God. And that means the people and the king together.
@@ -104,21 +107,22 @@ as it was against your fathers.
 
 ## Thunder at the wheat harvest (Verses 16–19)
 
-[16] So now stand still and see this great thing
-that the LORD will do before your eyes.
-[17] Isn’t it wheat harvest today?
-I will call to the LORD,
-so that he will send thunder and rain.
-Then you will know and see
-that your wickedness is great,
-which you have done in the sight of the LORD
-by asking for a king.”
+[16] So now stand here and watch.
+The LORD will do a great thing right in front of you.
+[17] It is time for the wheat harvest now, isn’t it?
+I will call to the LORD.
+He will send thunder and rain.
+Then you will see and understand
+that you did a very wicked thing in the eyes of the LORD
+when you asked for a king.”
 [18] So Samuel called to the LORD.
-And the LORD sent thunder and rain on that day.
-Then all the people greatly feared the LORD and Samuel.
+And that same day the LORD sent thunder and rain.
+Then all the people were very afraid of the LORD and of Samuel.
 [19] All the people said to Samuel,
-“Pray for your servants to the LORD your God, so that we don’t die.
-For we have added this evil to all our sins:
+“Pray for your servants to the LORD your God.
+Pray that we will not die.
+We have sinned many times.
+And now we have added this evil to all our sins:
 we have asked for a king.”
 
 > **What does this mean?**
@@ -131,23 +135,23 @@ we have asked for a king.”
 
 [20] Samuel said to the people,
 “Don’t be afraid.
-You have indeed done all this evil.
-But don’t turn away from following the LORD,
-but serve the LORD with all your heart.
-[21] Don’t turn away to go after empty things
-that cannot help or save,
+It is true that you have done all this evil.
+But don’t stop following the LORD.
+Serve the LORD with all your heart.
+[21] Don’t turn away and run after empty things.
+They cannot help you or save you,
 because they are empty.
-[22] For the LORD will not abandon his people,
+[22] The LORD will not abandon his people,
 for his great name’s sake.
-For it has pleased the LORD to make you his own people.
-[23] As for me, far be it from me that I should sin against the LORD
+It has pleased the LORD to make you his own people.
+[23] And I will never sin against the LORD
 by stopping to pray for you.
-But I will teach you the good and right way.
-[24] Only fear the LORD
-and serve him in truth with all your heart.
-For think about what great things he has done for you.
+I will go on teaching you the way that is good and right.
+[24] Only have respect for the LORD.
+Serve him faithfully with all your heart.
+Think about the great things he has done for you.
 [25] But if you keep on doing evil,
-you will be swept away, both you and your king.”
+you will be destroyed, both you and your king.”
 
 > **What does this mean?**
 > This is one of the most beautiful passages about God’s grace. Samuel says: Yes, you have sinned. But don’t give up now. Don’t turn away. God does not abandon his people.

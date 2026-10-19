@@ -5,99 +5,72 @@
 
 ## Jesus and Nicodemus (Verses 1–21)
 
-[1] Among the Pharisees there was a man named Nicodemus.
-He was a ruler of the Jews.
-[2] He came to Jesus by night
-and said to him,
-“Rabbi, we know
-that you are a teacher
-who has come from God.
-For no one can do these signs
-that you do,
-unless God is with him.”
+[1] There was a man named Nicodemus.
+He was one of the Pharisees and a leader of the Jews.
+[2] He came to Jesus at night.
+He said to him,
+“Rabbi, we know that you are a teacher who has come from God.
+No one can do the signs you do unless God is with him.”
 [3] Jesus answered him,
-“Most certainly I tell you,
-unless one is born anew,
-he can’t see God’s Kingdom.”
+“I tell you the truth:
+No one can see God’s Kingdom unless he is born again.”
 [4] Nicodemus said to him,
-“How can a man be born
-when he is old?
-Can he enter a second time
-into his mother’s womb
-and be born?”
+“How can a man be born when he is old?
+He can’t go into his mother’s womb a second time and be born, can he?”
 [5] Jesus answered,
-“Most certainly I tell you,
-unless one is born of water and Spirit,
-he can’t enter into God’s Kingdom.
-[6] That which is born of the flesh
-is flesh.
-That which is born of the Spirit
-is spirit.
-[7] Don’t be amazed
-that I said to you,
-‘You must all be born anew.’
-[8] The wind blows where it wants to.
-You hear its sound,
-but you don’t know
-where it comes from
-and where it is going.
-So is everyone
-who is born of the Spirit.”
+“I tell you the truth:
+No one can enter God’s Kingdom unless he is born of water and Spirit.
+[6] What is born of the flesh is flesh.
+What is born of the Spirit is spirit.
+[7] Don’t be surprised that I told you,
+‘You must all be born again.’
+[8] The wind blows wherever it wants to.
+You hear the sound it makes.
+But you don’t know where it comes from or where it is going.
+It is the same with everyone who is born of the Spirit.”
 [9] Nicodemus answered him,
-“How can these things be?”
+“How can this happen?”
 [10] Jesus answered him,
-“Are you the teacher of Israel,
-and don’t understand these things?
-[11] Most certainly I tell you,
-we speak of what we know.
-And we testify of what we have seen.
-But you don’t receive our witness.
-[12] If I told you earthly things
-and you don’t believe,
-how will you believe
-if I tell you heavenly things?
-[13] No one has gone up into heaven
-but he who came down out of heaven:
+“You are the teacher of Israel, and you don’t understand these things?
+[11] I tell you the truth:
+We speak about what we know.
+We tell about what we have seen.
+But you people don’t accept what we tell you.
+[12] I have told you about things on earth, and you don’t believe.
+So how will you believe if I tell you about things in heaven?
+[13] No one has gone up into heaven except the one who came down from heaven:
 the Son of Man, who is in heaven.
-[14] As Moses lifted up the serpent in the wilderness,
-even so must the Son of Man be lifted up,
-[15] so that whoever believes in him
-should not perish,
-but have eternal life.
-[16] For God so loved the world,
-that he gave his only born Son,
-that whoever believes in him
-should not perish,
-but have eternal life.
-[17] For God didn’t send his Son into the world
-to judge the world,
-but that the world should be saved through him.
-[18] He who believes in him
-is not judged.
-He who doesn’t believe
-has been judged already,
-because he has not believed in the name of the only born Son of God.
+[14] Moses lifted up the snake in the wilderness.
+In the same way, the Son of Man must be lifted up.
+[15] Then everyone who believes in him will not be lost.
+They will have eternal life.
+[16] God loved the world very much.
+So he gave his only born Son.
+Everyone who believes in him will not be lost.
+They will have eternal life.
+[17] God didn’t send his Son into the world to judge the world.
+He sent him so that the world would be saved through him.
+[18] Whoever believes in him is not judged.
+Whoever doesn’t believe is judged already.
+That person has not believed in the name of God’s only born Son.
 [19] This is the judgment:
-The light has come into the world,
-but people loved the darkness rather than the light,
-for their works were evil.
-[20] For everyone who does evil
-hates the light
-and doesn’t come to the light,
-so that his works won’t be exposed.
-[21] But he who does the truth
-comes to the light,
-so that it may be seen
-that his works have been done in God.”
+The light has come into the world.
+But people loved the darkness more than the light,
+because the things they did were evil.
+[20] Everyone who does evil hates the light.
+He doesn’t come to the light,
+because he doesn’t want his deeds to be seen.
+[21] But whoever does what is true comes to the light.
+Then everyone can see that his deeds were done in God.”
 
 > **What does this mean?**
 > Nicodemus is a respected Pharisee and a member of the council. He is open and honestly interested in Jesus. Later he stands up for Jesus (John 7:50–51) and helps with his burial (John 19:39). He is an example that many Jewish leaders treated Jesus with respect.
 > Verse 2: He comes at night. Perhaps because he wants to talk in peace. In John, night also stands for not understanding.
-> Verse 3: “Born anew.” The Greek word can also mean “born from above.” Nicodemus first understands it literally.
+> Verse 3: “Born again.” The Greek word can also mean “born from above.” Nicodemus first understands it literally.
 > Verse 5: “Of water and Spirit”: Many Christians think of baptism here. What is meant is: God himself gives a new life.
 > Verse 8: In Greek, “wind” and “spirit” are the same word (pneuma). God’s Spirit is like the wind: You cannot hold on to it, but you feel what it does.
 > Verse 13: The words “who is in heaven” are missing in the oldest manuscripts. The WEB has them.
-> Verse 14: In the wilderness Moses made a serpent out of bronze. Whoever had been bitten and looked at it was saved (Numbers 21:8–9). In John, “lifted up” means: lifted up on the cross and raised up to God.
+> Verse 14: In the wilderness Moses made a snake out of bronze. Whoever had been bitten and looked at it was saved (Numbers 21:8–9). In John, “lifted up” means: lifted up on the cross and raised up to God.
 > Verse 16 is one of the best-known verses of the Bible. It sums up the whole good news: God loves the world, all people.
 > Verse 17: God wants to save, not to condemn.
 > Important: The churches answer the question of what happens to people who do not believe in Jesus in different ways. Many stress: God’s love and mercy are greater than we think. Judgment belongs to God alone, not to people.
@@ -107,71 +80,49 @@ that his works have been done in God.”
 
 ## John the Baptizer and Jesus (Verses 22–36)
 
-[22] After this Jesus went with his disciples into the land of Judea.
-He stayed there with them
-and baptized.
-[23] John was also baptizing,
-in Enon near Salim,
-because there was much water there.
-People came
-and were baptized.
-[24] For John had not yet been thrown into prison.
-[25] Then a dispute arose
-between John’s disciples and some Jews
-about purification.
-[26] They came to John
-and said to him,
-“Rabbi, the man
-who was with you beyond the Jordan,
-the one you testified about,
-he is baptizing now,
-and everyone is coming to him.”
+[22] After this, Jesus went with his disciples into the land of Judea.
+He stayed there with them and baptized.
+[23] John was also baptizing.
+He was in Enon near Salim, because there was a lot of water there.
+People came to him and were baptized.
+[24] John had not yet been thrown into prison.
+[25] Some of John’s disciples started to argue with some Jews.
+They argued about washing to become clean before God.
+[26] They came to John and said to him,
+“Rabbi, do you remember the man who was with you on the other side of the Jordan?
+You told people about him.
+Look, he is baptizing, and everyone is going to him.”
 [27] John answered,
-“A person can receive nothing
-unless it has been given to him from heaven.
-[28] You yourselves can testify
-that I said,
-‘I am not the Christ,’
-but, ‘I have been sent before him.’
-[29] He who has the bride
-is the bridegroom.
-But the friend of the bridegroom
-stands there and hears him.
-And he rejoices greatly
-because of the bridegroom’s voice.
-So my joy is now made full.
-[30] He must increase,
-but I must decrease.
-[31] He who comes from above
-is above all.
-He who is from the earth
-belongs to the earth
-and speaks of the earth.
-He who comes from heaven
-is above all.
-[32] What he has seen and heard,
-of that he testifies.
-And no one receives his witness.
-[33] He who has received his witness
-has confirmed
-that God is true.
-[34] For he whom God has sent
-speaks the words of God.
-For God gives the Spirit without measure.
-[35] The Father loves the Son
-and has given all things into his hand.
-[36] One who believes in the Son
-has eternal life.
-But one who disobeys the Son
-won’t see life,
-but the wrath of God remains on him.”
+“A person can receive only what is given to him from heaven.
+[28] You yourselves heard me say, ‘I am not the Christ.’
+I said, ‘I have been sent ahead of him.’
+[29] The bride belongs to the bridegroom.
+But the friend of the bridegroom stands there and listens for him.
+He is full of joy when he hears the bridegroom’s voice.
+That is why my joy is now complete.
+[30] He must become greater.
+I must become less.
+[31] “The one who comes from above is above everyone.
+The one who is from the earth belongs to the earth.
+He speaks about the earth.
+The one who comes from heaven is above everyone.
+[32] He tells about what he has seen and heard.
+But no one accepts what he says.
+[33] Whoever accepts what he says has confirmed that God is true.
+[34] God sent him, and he speaks God’s words.
+God gives the Spirit without limit.
+[35] The Father loves the Son.
+He has put everything into his hands.
+[36] Whoever believes in the Son has eternal life.
+But whoever does not obey the Son will not see life.
+God’s anger stays on him.”
 
 > **What does this mean?**
 > Enon near Salim was probably in the Jordan Valley. The name Enon means “springs.”
 > Verse 25: “Some Jews”: Some manuscripts have “a Jew.” It is about a question of religious purification. Such discussions were common among devout Jews.
 > Verse 26: John’s disciples are a little jealous. But John is not.
 > Verse 29: John compares himself to the friend of the bridegroom, who prepares the wedding. He is glad when the bridegroom comes. The bridegroom is Jesus.
-> Verse 30: “He must increase, but I must decrease.” John is an example of humility.
+> Verse 30: “He must become greater. I must become less.” John is an example of humility.
 > Verses 31–36: We do not know exactly whether John the Baptizer is still speaking here, or whether the author of the Gospel is explaining.
-> Verse 36: “The wrath of God” means: God does not simply let evil stand. Whoever deliberately turns away from God’s life remains without this life.
-> Important: These verses are no license to condemn other people or to threaten them with God’s wrath. Judgment belongs to God alone. And God wants all to be saved (verse 17).
+> Verse 36: “God’s anger” means: God does not simply let evil stand. Whoever deliberately turns away from God’s life remains without this life.
+> Important: These verses are no license to condemn other people or to threaten them with God’s anger. Judgment belongs to God alone. And God wants all to be saved (verse 17).

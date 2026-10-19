@@ -79,7 +79,7 @@ each family by itself, and their wives by themselves.
 > **What does this mean?**
 > Verse 10: This is one of the most mysterious and most important verses of the Old Testament. God pours out a “spirit of grace and of prayer for mercy.” The people see their guilt. They look at “me, the one they have pierced,” and they mourn for him as for an only child.
 > Who is the one who was pierced? The Hebrew text says “at me,” that is, at God himself, and then “for him.” This is hard to understand. Some old manuscripts and translations read “at the one whom they have pierced.”
-> The Gospel of John quotes this verse when a soldier sticks a spear into the side of Jesus on the cross: “They will look on him whom they pierced” (John 19:37; compare Revelation 1:7).
+> The Gospel of John quotes this verse when a soldier sticks a spear into the side of Jesus on the cross: “They will look at the one they pierced” (John 19:37; compare Revelation 1:7).
 > In the Jewish tradition, the verse is explained in different ways, for example as being about a Messiah who falls in battle, or about a martyr.
 > Verse 11: Hadadrimmon was probably a place near Megiddo. Maybe the verse is a reminder of the great mourning for the good King Josiah, who was killed in battle near Megiddo (2 Chronicles 35:22–25).
 > Verses 12–14: The whole people mourns, each family by itself, the men and the women apart, as was the custom at funerals at that time. Everyone is affected: the royal family (David, Nathan) and the families of priests (Levi, Shimei).

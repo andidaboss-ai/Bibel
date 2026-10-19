@@ -58,7 +58,7 @@ You will trample the young lion and the snake under your feet.
 
 > **What does this mean?**
 > Verses 11–12 are very well known: God sends angels who protect us. This is where the idea of a “guardian angel” comes from.
-> These verses appear when Jesus is tempted: The devil quotes them and tells Jesus to throw himself down from the temple. Jesus answers: “You shall not test the Lord your God” (Matthew 4:5–7). That means: We should not put God to the test.
+> These verses appear when Jesus is tempted: The devil quotes them and tells Jesus to throw himself down from the temple. Jesus answers: “Do not test the Lord your God” (Matthew 4:5–7). That means: We should not put God to the test.
 > This shows: We must not misuse God’s promises by putting ourselves in danger on purpose.
 
 ---

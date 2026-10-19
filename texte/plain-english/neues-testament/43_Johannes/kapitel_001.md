@@ -46,11 +46,10 @@ These are the people who believe in his name.
 They were not born because a human body wanted it,
 or because a man wanted it.
 They were born from God.
-[14] The Word became flesh.
+[14] The Word became flesh and lived among us.
 That means: He became a human being.
-He lived among us.
 We saw his glory.
-It was the glory of the only Son of the Father.
+It was the glory of the only born Son of the Father.
 He was full of grace and truth.
 [15] John told about him.
 He called out,
@@ -61,7 +60,7 @@ because he was there before me.’”
 [17] The law was given through Moses.
 Grace and truth came through Jesus Christ.
 [18] No one has ever seen God.
-But the only Son is very close to the Father’s heart.
+But the only born Son is very close to the Father’s heart.
 He has made God known.
 
 > **What does this mean?**
@@ -72,7 +71,7 @@ He has made God known.
 > Verse 11: Some interpreters understand “his own” as the people of the world he created, others as his people Israel. Important: This is not a judgment on the Jewish people. Many Jews received Jesus, first of all his disciples. Verse 12 speaks right away of those who received him.
 > Verse 14: “The Word became flesh” means: God became a human being, with a body, feelings and limits. Christians celebrate this at Christmas. “Lived among us” literally means “pitched his tent among us.” That is a reminder of the holy tent in which God lived among Israel in the wilderness (Exodus 40:34).
 > Verse 17: The law through Moses is also a gift from God. John does not present it as bad. He says: In Jesus God’s grace comes once again, new and very close.
-> Verse 18: Here it says “the only Son.” The WEB has “the only born Son.” The oldest manuscripts have “the only God” or “the only born God.” The WEB says the Son is “in the bosom of the Father”: very close to him.
+> Verse 18: The WEB says “The only born Son.” The oldest manuscripts have “the only God” or “the only born God.” The WEB says the Son is “in the bosom of the Father”: very close to him.
 > For today: God is not far away. In Jesus he became human and knows our life from the inside.
 
 ---

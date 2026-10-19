@@ -5,25 +5,25 @@
 
 ## Mordecai does not bow (Verses 1–6)
 
-[1] After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite.
-He raised him up
-and set his seat above all the princes who were with him.
-[2] All the king’s servants who were in the king’s gate
-bowed down and honored Haman,
-for the king had commanded this concerning him.
-But Mordecai didn’t bow down or honor him.
-[3] Then the king’s servants who were in the king’s gate said to Mordecai,
+[1] Some time later King Ahasuerus gave Haman a higher rank.
+Haman was the son of Hammedatha the Agagite.
+The king made him more important
+and gave him a seat above all the other princes who were with him.
+[2] All the king’s servants at the king’s gate bowed down to Haman and honored him.
+The king had commanded them to do this.
+But Mordecai did not bow down to him or honor him.
+[3] Then the king’s servants at the king’s gate asked Mordecai,
 “Why do you disobey the king’s command?”
-[4] They spoke to him day after day, but he didn’t listen to them.
-So they told Haman,
-to see whether Mordecai’s reason would stand,
-for he had told them that he was a Jew.
-[5] When Haman saw that Mordecai didn’t bow down or honor him,
-Haman was full of anger.
-[6] But he thought it too little to lay hands on Mordecai alone,
-for they had told him who Mordecai’s people were.
-So Haman tried to destroy all the Jews throughout the whole kingdom of Ahasuerus,
-Mordecai’s people.
+[4] They talked to him day after day, but he did not listen to them.
+So they told Haman about it.
+They wanted to see if Mordecai’s reason would be accepted.
+Mordecai had told them that he was a Jew.
+[5] Haman saw that Mordecai did not bow down to him or honor him.
+Then Haman was filled with anger.
+[6] But he thought it was not enough to attack only Mordecai.
+People had told him which people Mordecai belonged to.
+So Haman wanted to destroy all the Jews in the whole kingdom of Ahasuerus.
+They were Mordecai’s people.
 
 > **What does this mean?**
 > Haman becomes the second most powerful man in the empire.
@@ -35,11 +35,12 @@ Mordecai’s people.
 
 ## The lot is cast (Verse 7)
 
-[7] In the first month, the month Nisan,
-in the twelfth year of King Ahasuerus,
-they cast Pur, that is, the lot, before Haman,
-from day to day and from month to month,
-and it fell on the twelfth month, the month Adar.
+[7] It was the first month, the month Nisan,
+in the twelfth year of King Ahasuerus.
+They cast Pur in front of Haman.
+Pur means the lot.
+They cast it for one day after another and for one month after another.
+The lot fell on the twelfth month, the month Adar.
 
 > **What does this mean?**
 > “Pur” is an old word for “lot”. Haman has the lot cast to find a “lucky” day for the destruction. The name of the feast of Purim comes from the word “Pur” (plural “Purim”) (Chapter 9:26).
@@ -50,22 +51,23 @@ and it fell on the twelfth month, the month Adar.
 
 ## Haman persuades the king (Verses 8–11)
 
-[8] Haman said to King Ahasuerus,
-“There is a certain people scattered and spread out among the peoples
+[8] Then Haman said to King Ahasuerus,
+“There is a certain people.
+They are scattered and spread out among the other peoples
 in all the provinces of your kingdom.
-Their laws are different from those of every other people.
-They don’t keep the king’s laws.
-So it is not in the king’s interest to let them stay.
+Their laws are different from the laws of all other peoples.
+They do not keep the king’s laws.
+So it is not good for the king to let them stay.
 [9] If it pleases the king,
-let it be written that they be destroyed.
-And I will pay 10,000 talents of silver
-into the hands of those who are in charge of the king’s business,
-to bring it into the king’s treasuries.”
-[10] The king took his ring from his hand
-and gave it to Haman the son of Hammedatha the Agagite, the enemy of the Jews.
+let an order be written to destroy them.
+Then I will pay 10,000 talents of silver
+to the men who are in charge of the king’s business.
+They can put it into the king’s treasury.”
+[10] The king took his signet ring off his hand.
+He gave it to Haman, the son of Hammedatha the Agagite, the enemy of the Jews.
 [11] The king said to Haman,
-“The silver is given to you, and the people too,
-to do with them as it seems good to you.”
+“The silver is given to you, and the people too.
+Do with them whatever you think is good.”
 
 > **What does this mean?**
 > Haman’s speech is a pattern for hatred of Jews, as it runs through history:
@@ -82,26 +84,27 @@ to do with them as it seems good to you.”
 
 ## The order to murder (Verses 12–15)
 
-[12] Then the king’s scribes were called
-on the thirteenth day of the first month.
-All that Haman commanded was written
-to the king’s local governors,
-to the governors who were over every province,
-and to the princes of every people,
-to every province in its own writing,
-and to every people in their own language.
-It was written in the name of King Ahasuerus
-and sealed with the king’s ring.
-[13] Letters were sent by messengers into all the king’s provinces,
-to destroy, to kill, and to wipe out all Jews,
+[12] On the thirteenth day of the first month the king’s scribes were called.
+They wrote down everything Haman commanded.
+They wrote to the king’s local governors,
+to the governors of every province,
+and to the princes of every people.
+They wrote to every province in its own writing
+and to every people in its own language.
+The letter was written in the name of King Ahasuerus.
+It was sealed with the king’s ring.
+[13] Messengers took the letters to all the king’s provinces.
+The letters said:
+Destroy, kill, and wipe out all Jews,
 young and old, little children and women,
-in one day, on the thirteenth day of the twelfth month, the month Adar,
-and to take their possessions as plunder.
-[14] A copy of the letter was made public to all the peoples,
-so that the decree would be given out in every province,
-and they should be ready for that day.
-[15] The messengers went out in a hurry by the king’s command,
-and the decree was given out in the citadel of Susa.
+all on one day.
+That day is the thirteenth day of the twelfth month, the month Adar.
+Take everything they own.
+[14] A copy of the letter was made public to all the peoples.
+The order was to be given out as law in every province.
+So everyone would be ready for that day.
+[15] The king commanded the messengers to hurry, and they went out.
+The order was also given out in the fortress of Susa.
 The king and Haman sat down to drink.
 But the city of Susa was confused and upset.
 

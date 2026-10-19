@@ -5,42 +5,45 @@
 
 ## Hananiah breaks the yoke (Verses 1–11)
 
-[1] In that same year, at the beginning of the rule of Zedekiah, king of Judah,
-in the fourth year, in the fifth month,
-Hananiah, the son of Azzur, the prophet, who was from Gibeon,
-spoke to me in the LORD’s house,
-in front of the priests and all the people. He said,
-[2] “The LORD of Armies, the God of Israel, says,
+[1] This happened in that same year.
+It was at the beginning of the rule of Zedekiah, king of Judah,
+in the fourth year, in the fifth month.
+Hananiah, the son of Azzur, was a prophet from Gibeon.
+He spoke to me in the house of the LORD.
+The priests and all the people were there.
+Hananiah said,
+[2] “This is what the LORD of Armies, the God of Israel, says:
 ‘I have broken the yoke of the king of Babylon.
 [3] Within two full years I will bring back to this place
-all the objects of the LORD’s house
-that Nebuchadnezzar, king of Babylon, took away from this place
-and carried to Babylon.
-[4] I will bring back to this place Jeconiah, the son of Jehoiakim, king of Judah,
-with all the captives of Judah who went to Babylon,’ says the LORD,
-‘for I will break the yoke of the king of Babylon.’”
-[5] Then the prophet Jeremiah answered the prophet Hananiah,
-in front of the priests and all the people who were standing in the LORD’s house.
+all the objects from the LORD’s house.
+Nebuchadnezzar, king of Babylon, took them away from this place.
+He carried them to Babylon.
+[4] I will also bring back to this place Jeconiah, the son of Jehoiakim, king of Judah.
+And I will bring back all the captives from Judah who went to Babylon,’ says the LORD.
+‘For I will break the yoke of the king of Babylon.’”
+[5] Then the prophet Jeremiah answered the prophet Hananiah.
+The priests were there,
+and all the people who were standing in the LORD’s house.
 [6] The prophet Jeremiah said,
 “Amen! May the LORD do so.
-May the LORD fulfill your words which you have prophesied,
-and bring back from Babylon to this place
-the objects of the LORD’s house and all the captives.
-[7] But listen now to this word that I speak,
-so that you and all the people hear it:
-[8] The prophets who came before me and before you, long ago,
-prophesied war, disaster, and disease
-against many countries and against great kingdoms.
-[9] But when a prophet prophesies peace,
-it will be known that the LORD has truly sent him
-when his word comes true.”
-[10] Then Hananiah the prophet took the bar off the prophet Jeremiah’s neck,
-and broke it.
-[11] Hananiah spoke in front of all the people. He said,
-“The LORD says:
-‘In the same way, within two full years,
-I will break the yoke of Nebuchadnezzar, king of Babylon,
-off the neck of all the nations.’”
+May the LORD fulfill your words.
+May he do what you have prophesied.
+May he bring the objects of the LORD’s house back from Babylon to this place,
+and all the captives too.
+[7] But now listen to what I say.
+You and all the people should hear it:
+[8] There were prophets long ago, before me and before you.
+They prophesied against many countries and against great kingdoms.
+They spoke of war, disaster and disease.
+[9] But a prophet may prophesy peace.
+When his word comes true,
+then people will know that the LORD has really sent him.”
+[10] Then the prophet Hananiah took the wooden bar off the neck of the prophet Jeremiah.
+He broke it.
+[11] Hananiah spoke in front of all the people.
+He said, “This is what the LORD says:
+‘In the same way, I will break the yoke of Nebuchadnezzar, king of Babylon.
+I will break it off the neck of all the nations within two full years.’”
 Then the prophet Jeremiah went on his way.
 
 > **What does this mean?**
@@ -54,26 +57,27 @@ Then the prophet Jeremiah went on his way.
 
 ## A yoke of iron (Verses 12–17)
 
-[12] After Hananiah the prophet had broken the bar off the prophet Jeremiah’s neck,
-the LORD’s word came to Jeremiah. He said,
-[13] “Go and tell Hananiah,
-‘The LORD says,
-“You have broken the wooden bars,
-but in their place you have made bars of iron.”
-[14] For the LORD of Armies, the God of Israel, says,
-“I have put a yoke of iron on the neck of all these nations,
-so that they serve Nebuchadnezzar, king of Babylon,
-and they will serve him.
-I have also given him the wild animals.”’”
-[15] Then the prophet Jeremiah said to Hananiah the prophet,
+[12] The prophet Hananiah had broken the bar off the neck of the prophet Jeremiah.
+After that, the LORD spoke his word to Jeremiah.
+He said,
+[13] “Go and tell Hananiah:
+‘This is what the LORD says:
+“You have broken the bars of wood.
+But in their place you have made bars of iron.”
+[14] For the LORD of Armies, the God of Israel, says:
+“I have put a yoke of iron on the neck of all these nations.
+They must serve Nebuchadnezzar, king of Babylon.
+And they will serve him.
+I have even given him the wild animals.”’”
+[15] Then the prophet Jeremiah said to the prophet Hananiah,
 “Listen, Hananiah!
-The LORD has not sent you,
-but you make this people trust in a lie.
-[16] That is why the LORD says,
-‘Look, I will send you away from the face of the earth.
+The LORD has not sent you.
+But you make this people trust in a lie.
+[16] That is why the LORD says:
+‘Look, I will remove you from the face of the earth.
 This year you will die,
-because you have spoken rebellion against the LORD.’”
-[17] So Hananiah the prophet died that same year,
+because you have told people to turn against the LORD.’”
+[17] The prophet Hananiah died that same year,
 in the seventh month.
 
 > **What does this mean?**

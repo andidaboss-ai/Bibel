@@ -6,17 +6,17 @@
 ## The order against Amalek (Verses 1–3)
 
 [1] Samuel said to Saul,
-“The LORD sent me to anoint you king over his people, over Israel.
-So now listen to the words of the LORD.
+“The LORD sent me to anoint you as king over his people Israel.
+So now listen to what the LORD says.
 [2] This is what the LORD of Armies says:
-‘I remember what Amalek did to Israel,
-how he stood against him on the way
-when he came up out of Egypt.
-[3] Now go and strike Amalek.
-Completely destroy everything they have,
-and don’t spare them.
-But kill man and woman, child and nursing baby,
-ox and sheep, camel and donkey.’”
+‘I remember what Amalek did to Israel.
+The people of Amalek stood in Israel’s way
+when Israel came up out of Egypt.
+[3] Now go and attack Amalek.
+Completely destroy everything they have.
+Do not spare them.
+Kill men and women, children and nursing babies,
+oxen and sheep, camels and donkeys.’”
 
 > **What does this mean?**
 > This is one of the hardest texts in the whole Bible. We do not leave it out, but we want to explain it honestly.
@@ -29,26 +29,26 @@ ox and sheep, camel and donkey.’”
 
 ## Saul spares the best (Verses 4–9)
 
-[4] Saul called the people together
-and counted them at Telaim:
-200,000 foot soldiers and 10,000 men of Judah.
-[5] Saul came to the city of Amalek
-and set an ambush in the valley.
+[4] Saul called the soldiers together.
+He counted them at Telaim.
+There were 200,000 foot soldiers and 10,000 men from Judah.
+[5] Saul came to the city of Amalek.
+He hid soldiers in the valley, ready to attack.
 [6] Saul said to the Kenites,
-“Go, leave, go down away from the Amalekites,
-so that I don’t destroy you with them.
-For you showed kindness to all the children of Israel
+“Go away! Leave the Amalekites.
+Otherwise I will destroy you along with them.
+You were kind to all the people of Israel
 when they came up out of Egypt.”
-So the Kenites left the Amalekites.
-[7] Saul struck down the Amalekites,
-from Havilah all the way to Shur, which is east of Egypt.
+So the Kenites moved away from the Amalekites.
+[7] Saul defeated the Amalekites.
+He fought them from Havilah all the way to Shur, which is east of Egypt.
 [8] He captured Agag, the king of the Amalekites, alive.
 And he completely destroyed all the people with the sword.
-[9] But Saul and the people spared Agag
-and the best of the sheep and cattle,
-the fat calves and the lambs and everything that was good.
-They were not willing to destroy them.
-But everything that was worthless and poor, that they destroyed.
+[9] But Saul and the soldiers spared Agag.
+They also kept the best of the sheep and the cattle,
+the fat calves and the lambs, and everything that was good.
+They did not want to destroy these things.
+They destroyed only what was worthless and of no use.
 
 > **What does this mean?**
 > The Kenites were the people that Moses’ father-in-law belonged to (Judges 1:16). They had helped Israel in the wilderness. Saul warns them and lets them go. This shows: It was not about killing all people. Whoever had done good was spared.
@@ -60,32 +60,33 @@ But everything that was worthless and poor, that they destroyed.
 
 ## God regrets making Saul king (Verses 10–16)
 
-[10] Then the word of the LORD came to Samuel:
-[11] “I regret that I have made Saul king.
-For he has turned back from following me
-and has not carried out my commandments.”
-Samuel was angry,
-and he cried out to the LORD all night.
-[12] Samuel got up early in the morning to meet Saul.
-Samuel was told,
-“Saul came to Carmel,
-and look, he set up a monument for himself.
-Then he turned around, went on, and went down to Gilgal.”
+[10] Then the LORD spoke to Samuel.
+He said,
+[11] “I regret that I made Saul king.
+He has turned away from following me.
+He has not done what I commanded.”
+Samuel was angry.
+He cried out to the LORD all night long.
+[12] Early in the morning Samuel got up to go and meet Saul.
+Someone told Samuel,
+“Saul went to Carmel.
+There he set up a monument for himself.
+Then he left and went on down to Gilgal.”
 [13] Samuel came to Saul.
 Saul said to him,
-“You are blessed by the LORD!
-I have carried out the command of the LORD.”
+“May the LORD bless you!
+I have done what the LORD commanded.”
 [14] Samuel said,
-“Then what is this bleating of sheep in my ears
-and the mooing of cattle that I hear?”
-[15] Saul said,
-“They have brought them from the Amalekites.
-For the people spared the best of the sheep and cattle
-to sacrifice to the LORD your God.
-The rest we have completely destroyed.”
+“Then why do I hear sheep bleating?
+Why do I hear cattle mooing?”
+[15] Saul answered,
+“The soldiers brought them from the Amalekites.
+The people spared the best of the sheep and cattle.
+They want to sacrifice them to the LORD your God.
+We have completely destroyed the rest.”
 [16] Then Samuel said to Saul,
 “Stop! I will tell you what the LORD said to me last night.”
-He said to him, “Speak.”
+Saul said, “Tell me.”
 
 > **What does this mean?**
 > “I regret”: God is sad about Saul. Here the Bible describes God with human feelings. God is not a cold God. It hurts him when a person turns away from him.
@@ -99,32 +100,35 @@ He said to him, “Speak.”
 ## “To obey is better than sacrifice” (Verses 17–23)
 
 [17] Samuel said,
-“Even though you were small in your own eyes,
-weren’t you made the head of the tribes of Israel?
-The LORD anointed you king over Israel.
-[18] And the LORD sent you on a mission and said,
-‘Go and completely destroy the sinners, the Amalekites,
-and fight against them until they are wiped out.’
-[19] Why then didn’t you obey the voice of the LORD,
-but rushed at the plunder
-and did what is evil in the sight of the LORD?”
+“Once you thought you were not important.
+But you became the head of the tribes of Israel.
+The LORD anointed you as king over Israel.
+[18] The LORD sent you on a mission.
+He said,
+‘Go and completely destroy those sinners, the Amalekites.
+Fight against them until they are all gone.’
+[19] So why didn’t you obey the LORD?
+Why did you take the plunder?
+You did what is evil in the eyes of the LORD!”
 [20] Saul said to Samuel,
-“But I have obeyed the voice of the LORD!
-I have gone the way the LORD sent me.
-I have brought back Agag the king of Amalek
-and have completely destroyed the Amalekites.
-[21] But the people took some of the plunder, sheep and cattle,
-the best of the things that were to be destroyed,
-to sacrifice to the LORD your God in Gilgal.”
+“But I have obeyed!
+I obeyed the LORD.
+I went where the LORD sent me.
+I brought back Agag, the king of Amalek.
+And I completely destroyed the Amalekites.
+[21] But the people took sheep and cattle from the plunder.
+They took the best of the things that should have been destroyed.
+They want to sacrifice them to the LORD your God in Gilgal.”
 [22] Samuel said,
-“Does the LORD delight in burnt offerings and sacrifices
-as much as in obeying the voice of the LORD?
-Look, to obey is better than sacrifice,
-and to listen is better than the fat of rams.
-[23] For rebellion is like the sin of witchcraft,
-and stubbornness is like idolatry and teraphim.
-Because you have rejected the word of the LORD,
-he has also rejected you from being king.”
+“What does the LORD enjoy more:
+burnt offerings and sacrifices,
+or people who obey him?
+Listen: to obey is better than sacrifice.
+To listen to God is better than offering the fat of rams.
+[23] Rebellion is as bad as the sin of witchcraft.
+Stubbornness is as bad as serving idols and teraphim.
+You have rejected the word of the LORD.
+So he has rejected you as king.”
 
 > **What does this mean?**
 > Samuel reminds Saul of his beginning: You were small and humble. God made you great. But now you want to decide for yourself.
@@ -138,23 +142,25 @@ he has also rejected you from being king.”
 
 [24] Saul said to Samuel,
 “I have sinned.
-For I have broken the command of the LORD and your words,
-because I was afraid of the people and listened to their voice.
-[25] So now please forgive my sin
-and come back with me, so that I can worship the LORD.”
+I have broken the LORD’s command and gone against your words.
+I was afraid of the people.
+So I did what they wanted.
+[25] Now please forgive my sin.
+Come back with me, so that I can worship the LORD.”
 [26] Samuel said to Saul,
 “I will not go back with you.
-For you have rejected the word of the LORD,
-and the LORD has rejected you from being king over Israel.”
-[27] As Samuel turned around to leave,
-Saul grabbed the edge of his robe,
+You have rejected the word of the LORD.
+So the LORD has rejected you as king over Israel.”
+[27] Samuel turned around to leave.
+But Saul grabbed the edge of his robe,
 and it tore.
 [28] Samuel said to him,
-“The LORD has torn the kingdom of Israel from you today
-and has given it to a neighbor of yours who is better than you.
-[29] Also, the Strength of Israel will not lie or change his mind.
-For he is not a man, that he should change his mind.”
-[30] Then he said,
+“Today the LORD has torn the kingdom of Israel away from you.
+He has given it to a neighbor of yours who is better than you.
+[29] The Strength of Israel does not lie.
+He does not change his mind.
+He is not a human being who changes his mind.”
+[30] Saul said again,
 “I have sinned.
 But please honor me now before the elders of my people and before Israel.
 Come back with me, so that I can worship the LORD your God.”
@@ -176,16 +182,16 @@ And Saul worshiped the LORD.
 [32] Then Samuel said,
 “Bring Agag the king of the Amalekites here to me!”
 Agag came to him cheerfully.
-Agag said,
-“Surely the bitterness of death is past.”
-[33] Samuel said,
-“As your sword has made women childless,
-so your mother will be childless among women!”
+He said,
+“Surely the bitter danger of death is over.”
+[33] But Samuel said,
+“Your sword has taken children away from many women.
+So now your mother will lose her child too!”
 Then Samuel cut Agag to pieces before the LORD in Gilgal.
-[34] Then Samuel went to Ramah,
-and Saul went up to his house in Gibeah of Saul.
-[35] Samuel did not come to see Saul again until the day of his death.
-But Samuel mourned for Saul.
+[34] After that, Samuel went to Ramah.
+And Saul went up to his house in Gibeah of Saul.
+[35] Samuel never went to see Saul again for the rest of his life.
+But Samuel was sad and mourned for Saul.
 And the LORD regretted that he had made Saul king over Israel.
 
 > **What does this mean?**

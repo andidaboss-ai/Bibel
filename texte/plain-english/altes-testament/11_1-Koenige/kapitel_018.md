@@ -5,58 +5,63 @@
 
 ## Elijah and Obadiah (Verses 1–16)
 
-[1] After many days, in the third year, the word of the LORD came to Elijah:
-“Go, show yourself to Ahab.
-I will send rain on the earth.”
-[2] Elijah went to show himself to Ahab.
-The famine was severe in Samaria.
-[3] Ahab called Obadiah, who was over the household.
-– Obadiah feared the LORD greatly.
-[4] For when Jezebel was killing off the LORD’s prophets,
-Obadiah took 100 prophets
-and hid them, 50 in each cave,
-and fed them with bread and water. –
+[1] Many days passed.
+In the third year, the LORD spoke to Elijah.
+He said, “Go and let Ahab see you.
+Then I will send rain on the earth.”
+[2] So Elijah went to let Ahab see him.
+The famine was very bad in Samaria.
+[3] Ahab called Obadiah, who was in charge of the palace.
+Obadiah had great respect for the LORD.
+[4] Once Jezebel was killing the LORD’s prophets.
+Then Obadiah took 100 prophets
+and hid them in caves, 50 in each cave.
+He gave them bread and water.
 [5] Ahab said to Obadiah,
-“Go through the land, to all the springs of water and to all the brooks.
-Maybe we can find grass
-and keep the horses and mules alive,
-so that we do not lose all the animals.”
+“Go through the land to all the springs and to all the streams.
+Maybe we will find grass.
+Then we can keep the horses and mules alive.
+We do not want to lose all the animals.”
 [6] So they divided the land between them to go through it.
-Ahab went one way by himself,
-and Obadiah went another way by himself.
-[7] As Obadiah was on the way, Elijah met him.
-He recognized him, fell on his face, and said,
+Ahab went one way by himself.
+Obadiah went another way by himself.
+[7] Obadiah was on his way.
+Suddenly Elijah met him.
+Obadiah knew who he was.
+He bowed down with his face to the ground and said,
 “Is it you, my lord Elijah?”
 [8] He answered him,
-“It is I.
-Go, tell your lord, ‘Elijah is here!’”
-[9] He said,
-“What sin have I done,
-that you would hand your servant over to Ahab to kill me?
-[10] As the LORD your God lives,
-there is no nation or kingdom where my lord has not sent people to look for you.
+“Yes, it is me.
+Go and tell your master, ‘Elijah is here!’”
+[9] Obadiah said,
+“What wrong have I done?
+Why do you want to hand me, your servant, over to Ahab?
+He will kill me.
+[10] As surely as the LORD your God lives,
+my master has sent people to every nation and kingdom to look for you.
 When they said, ‘He is not here,’
-he made the kingdom and the nation swear that they had not found you.
+he made that kingdom and nation swear that they had not found you.
 [11] And now you say,
-‘Go, tell your lord, “Elijah is here.”’
+‘Go and tell your master, “Elijah is here.”’
 [12] As soon as I leave you,
-the Spirit of the LORD will carry you away, I don’t know where.
-Then when I come and tell Ahab, and he can’t find you,
-he will kill me.
-But I, your servant, have feared the LORD since I was young.
-[13] Hasn’t my lord been told what I did
+the Spirit of the LORD will carry you away.
+I don’t know where.
+Then I will come and tell Ahab, and he will not find you.
+Then he will kill me.
+But I, your servant, have had respect for the LORD since I was young.
+[13] Hasn’t anyone told my lord what I did
 when Jezebel killed the LORD’s prophets?
-I hid 100 men of the LORD’s prophets,
-50 in each cave,
-and fed them with bread and water.
+I hid 100 of the LORD’s prophets in caves,
+50 in each cave.
+I gave them bread and water.
 [14] And now you say,
-‘Go, tell your lord, “Elijah is here.”’
+‘Go and tell your master, “Elijah is here.”’
 He will kill me.”
 [15] Elijah said,
-“As the LORD of Armies lives, before whom I stand:
-I will surely show myself to him today.”
+“I serve the LORD of Armies.
+As surely as he lives, I will let Ahab see me today.”
 [16] So Obadiah went to meet Ahab and told him.
-And Ahab went to meet Elijah.
+Then Ahab went to meet Elijah.
 
 > **What does this mean?**
 > It has not rained for more than two years. The land is suffering. Ahab is worried about his horses.
@@ -69,15 +74,17 @@ And Ahab went to meet Elijah.
 
 ## Who brings trouble on Israel? (Verses 17–19)
 
-[17] When Ahab saw Elijah, Ahab said to him,
-“Is that you, you troubler of Israel?”
-[18] He answered,
+[17] Ahab saw Elijah.
+He said to him,
+“Is that you, you troublemaker of Israel?”
+[18] Elijah answered,
 “I have not brought trouble on Israel.
-You and your father’s house have,
-because you have abandoned the LORD’s commandments
-and you have followed the Baals.
-[19] Now send and gather all Israel to me at Mount Carmel,
-and the 450 prophets of Baal
+You and your father’s family have done it.
+You have turned away from the LORD’s commandments.
+You have followed the Baals.
+[19] Now send messengers.
+Call all Israel to me at Mount Carmel.
+Also bring the 450 prophets of Baal
 and the 400 prophets of the Asherah, who eat at Jezebel’s table.”
 
 > **What does this mean?**
@@ -90,51 +97,55 @@ and the 400 prophets of the Asherah, who eat at Jezebel’s table.”
 
 ## The decision on Mount Carmel (Verses 20–29)
 
-[20] So Ahab sent word to all the children of Israel
-and gathered the prophets together at Mount Carmel.
-[21] Elijah came near to all the people and said,
+[20] So Ahab sent messengers to all the people of Israel.
+He brought the prophets together at Mount Carmel.
+[21] Elijah came close to all the people and said,
 “How long will you waver between the two sides?
 If the LORD is God, follow him.
-But if Baal is, then follow him.”
+But if Baal is God, then follow him.”
 The people did not say a word.
 [22] Then Elijah said to the people,
-“I, I alone, am left as a prophet of the LORD.
-But Baal’s prophets are 450 men.
+“I am the only prophet of the LORD who is left.
+But Baal has 450 prophets.
 [23] Let them give us two bulls.
-Let them choose one bull for themselves,
-cut it in pieces, and lay it on the wood,
-but put no fire under it.
-And I will prepare the other bull
-and lay it on the wood
-and put no fire under it.
-[24] You call on the name of your god,
-and I will call on the name of the LORD.
-The God who answers by fire, let him be God.”
+Let them choose one bull for themselves.
+They should cut it into pieces and lay it on the wood.
+But they must not light a fire under it.
+I will prepare the other bull.
+I will lay it on the wood.
+I will not light a fire under it either.
+[24] Then you call on the name of your god.
+I will call on the name of the LORD.
+The God who answers with fire, he is God.”
 All the people answered,
-“What you say is good.”
+“That is a good idea.”
 [25] Elijah said to the prophets of Baal,
 “Choose one bull for yourselves and prepare it first,
-for you are many.
-Call on the name of your god,
-but put no fire under it.”
+because there are many of you.
+Call on the name of your god.
+But do not light a fire under it.”
 [26] They took the bull that was given to them
 and prepared it.
-And they called on the name of Baal from morning until noon:
-“Baal, hear us!”
-But there was no voice, and no one answered.
-They hopped around the altar that had been made.
-[27] At noon Elijah mocked them and said,
-“Shout louder, for he is a god!
-Maybe he is deep in thought,
-or he has gone somewhere,
-or he is on a journey,
-or maybe he is asleep and must be woken up.”
-[28] They shouted louder
-and cut themselves with knives and spears, as was their custom,
-until the blood poured down on them.
-[29] When noon was past, they prophesied wildly
+They called on the name of Baal from morning until noon.
+They shouted, “Baal, hear us!”
+But there was no sound.
+No one answered.
+They danced around the altar they had made.
+[27] At noon Elijah made fun of them.
+He said,
+“Shout louder! After all, he is a god!
+Maybe he is deep in thought.
+Or he has gone somewhere.
+Or he is on a trip.
+Or maybe he is asleep, and someone must wake him up.”
+[28] So they shouted louder.
+They cut themselves with knives and spears, as they usually did.
+They did it until blood poured down over them.
+[29] Noon passed.
+They kept on raving like prophets
 until the time of the evening offering.
-But there was no voice, no answer, and no one paid attention.
+But there was no sound and no answer.
+No one paid any attention.
 
 > **What does this mean?**
 > “Waver between the two sides”: word for word the Hebrew says “limp on two crutches.” The people want both, the LORD and Baal. Elijah says: make up your minds! You cannot serve two masters (compare Matthew 6:24).
@@ -148,53 +159,57 @@ But there was no voice, no answer, and no one paid attention.
 ## Fire from heaven (Verses 30–40)
 
 [30] Then Elijah said to all the people,
-“Come near to me!”
-And all the people came near to him.
-He repaired the altar of the LORD that had been torn down.
-[31] Elijah took twelve stones,
-according to the number of the tribes of the sons of Jacob,
-to whom the word of the LORD had come:
-“Israel will be your name.”
-[32] With the stones he built an altar in the name of the LORD.
-Around the altar he made a ditch,
-so big that about 3½ gallons of seed would have fit into it.
-[33] He put the wood in order,
-cut the bull in pieces, and laid it on the wood.
+“Come close to me!”
+So all the people came close to him.
+The altar of the LORD had been torn down.
+Elijah repaired it.
+[31] Elijah took twelve stones.
+That was the number of the tribes of the sons of Jacob.
+The LORD had spoken to Jacob and said,
+“Your name will be Israel.”
+[32] With the stones Elijah built an altar in the name of the LORD.
+He dug a ditch around the altar.
+It was big enough to hold about 3½ gallons of seed.
+[33] He put the wood in order.
+He cut the bull into pieces and laid it on the wood.
 He said,
-“Fill four jars with water
-and pour it on the burnt offering and on the wood.”
+“Fill four jars with water.
+Pour it on the burnt offering and on the wood.”
 [34] He said,
-“Do it a second time.”
-And they did it a second time.
+“Do it again.”
+And they did it again.
 He said,
 “Do it a third time.”
 And they did it a third time.
-[35] The water ran all around the altar,
-and he also filled the ditch with water.
-[36] At the time of the evening offering, Elijah the prophet came near and said,
-“LORD, the God of Abraham, of Isaac, and of Israel,
-let it be known today that you are God in Israel
-and that I am your servant,
-and that I have done all these things at your word.
-[37] Hear me, LORD, hear me,
-so that this people may know that you, LORD, are God,
-and that you have turned their hearts back again.”
-[38] Then the fire of the LORD fell
-and burned up the burnt offering, the wood, the stones, and the dust,
-and it licked up the water that was in the ditch.
-[39] When all the people saw it, they fell on their faces and said,
+[35] The water ran all around the altar.
+He also filled the ditch with water.
+[36] It was the time of the evening offering.
+Elijah the prophet stepped forward and said,
+“LORD, God of Abraham, Isaac, and Israel,
+show today that you are God in Israel.
+Show that I am your servant.
+Show that I have done all these things because you told me to.
+[37] Hear me, LORD, hear me!
+Then this people will know that you, LORD, are God.
+They will know that you have turned their hearts back again.”
+[38] Then the fire of the LORD fell.
+It burned up the burnt offering, the wood, the stones, and the dirt.
+It also dried up the water in the ditch.
+[39] All the people saw it.
+They bowed down with their faces to the ground.
+They said,
 “The LORD, he is God!
 The LORD, he is God!”
 [40] Elijah said to them,
-“Seize the prophets of Baal!
-Don’t let one of them escape!”
-They seized them.
-And Elijah brought them down to the brook Kishon and killed them there.
+“Grab the prophets of Baal!
+Don’t let a single one of them get away!”
+They grabbed them.
+Elijah brought them down to the brook Kishon and killed them there.
 
 > **What does this mean?**
 > Elijah rebuilds the old altar with twelve stones, for all twelve tribes. Even though the kingdom is split, for God all of Israel belongs together.
 > Then he has everything soaked with water, and that in a drought, when water is so precious! No one should be able to say it was a trick.
-> Elijah’s prayer is short and simple. He does not dance, he does not cut himself. He only asks: “Hear me, LORD, hear me, so that this people may know that you, LORD, are God.” And God answers.
+> Elijah’s prayer is short and simple. He does not dance, he does not cut himself. He only asks: “Hear me, LORD, hear me! Then this people will know that you, LORD, are God.” And God answers.
 > The people cry: “The LORD, he is God!” In Hebrew: “Adonai hu ha-Elohim!” To this day, this cry is part of Jewish worship at the end of Yom Kippur, the Day of Atonement.
 > Verse 40 is very hard: Elijah has the prophets of Baal killed. In those days, according to the law, the death penalty was for those who led people into the worship of idols (Deuteronomy 13). Jezebel had also killed the LORD’s prophets before. Even so: this story is not an example for today. No one may kill people or use violence against them in God’s name. Jesus clearly forbade his disciples to call down fire from heaven on people who believed differently (Luke 9:54–55).
 > For the ditch, the Bible says “two seahs of seed.” A seah is about 7 quarts.
@@ -205,29 +220,33 @@ And Elijah brought them down to the brook Kishon and killed them there.
 ## The rain comes (Verses 41–46)
 
 [41] Elijah said to Ahab,
-“Go up, eat and drink,
-for there is the sound of a lot of rain.”
+“Go up, eat and drink.
+I hear the sound of heavy rain.”
 [42] So Ahab went up to eat and drink.
-But Elijah went up to the top of Carmel,
-bowed down to the ground,
-and put his face between his knees.
+But Elijah went up to the top of Mount Carmel.
+He bowed down to the ground.
+He put his face between his knees.
 [43] He said to his servant,
-“Go up now and look toward the sea.”
-He went up, looked, and said,
+“Go up and look toward the sea.”
+The servant went up and looked.
+He said,
 “There is nothing.”
 Seven times Elijah said,
 “Go again.”
-[44] The seventh time, he said,
-“A small cloud, like a man’s hand, is rising out of the sea.”
+[44] The seventh time, the servant said,
+“A small cloud is rising out of the sea.
+It is as small as a man’s hand.”
 Elijah said,
 “Go up and tell Ahab,
-‘Get ready and go down, so that the rain does not stop you.’”
-[45] In a little while, the sky grew black with clouds and wind,
-and there was a great rain.
+‘Get ready and go down,
+so that the rain does not stop you.’”
+[45] In a short time the sky became black with clouds and wind.
+A heavy rain began.
 Ahab rode off and went to Jezreel.
 [46] The hand of the LORD was on Elijah.
-He tucked his cloak into his belt
-and ran ahead of Ahab all the way to the entrance of Jezreel.
+That means: the LORD gave him special strength.
+Elijah tucked his cloak into his belt.
+He ran ahead of Ahab all the way to the entrance of Jezreel.
 
 > **What does this mean?**
 > After the great fire, Elijah prays very quietly and humbly, with his face between his knees. He keeps on praying, up to the seventh time. The letter of James calls Elijah an example in prayer. He was “a person like us” (James 5:17–18).

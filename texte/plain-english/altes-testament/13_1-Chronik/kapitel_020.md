@@ -5,22 +5,21 @@
 
 ## The conquest of Rabbah (Verses 1–3)
 
-[1] When the year came around again,
-at the time when kings go out to war,
-Joab led out the army.
-He laid waste the country of the children of Ammon,
-and came and besieged Rabbah.
+[1] A year later, at the time when kings go out to war,
+Joab led the army out.
+He destroyed the land of the Ammonites.
+Then he came to Rabbah and surrounded the city.
 But David stayed at Jerusalem.
-Joab struck Rabbah and destroyed it.
-[2] David took the crown of their king from his head.
-He found that it weighed about 75 pounds of gold,
-and there were precious stones in it.
-It was set on David’s head.
-And he brought very much plunder out of the city.
-[3] He brought out the people who were in it
-and had them cut with saws, with iron picks, and with axes.
-David did so to all the cities of the children of Ammon.
-Then David and all the people returned to Jerusalem.
+Joab attacked Rabbah and destroyed it.
+[2] David took the crown from the head of their king.
+He found that it weighed about 75 pounds of gold.
+There were precious stones in it.
+It was placed on David’s head.
+David also took a great amount of plunder from the city.
+[3] He brought out the people who lived there.
+He had them cut with saws, with iron picks, and with axes.
+David did this to all the cities of the Ammonites.
+Then David and all the army went back to Jerusalem.
 
 > **What does this mean?**
 > “When kings go out to war”: in spring, after the rainy season.
@@ -32,20 +31,21 @@ Then David and all the people returned to Jerusalem.
 
 ## The giants from Gath (Verses 4–8)
 
-[4] After this, war broke out at Gezer with the Philistines.
-Then Sibbecai the Hushathite killed Sippai, one of the sons of the giant.
-And they were subdued.
-[5] Again there was war with the Philistines.
-And Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite.
-The shaft of his spear was like a weaver’s beam.
-[6] There was again war at Gath.
+[4] After this, a war began with the Philistines at Gezer.
+There Sibbecai the Hushathite killed Sippai.
+Sippai was one of the descendants of the giant.
+So the Philistines were defeated.
+[5] There was war with the Philistines again.
+Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite.
+The shaft of Lahmi’s spear was as thick as the beam of a loom.
+[6] There was war at Gath again.
 There was a very tall man there.
-He had twenty-four fingers and toes, six on each hand and six on each foot.
-He too was descended from the giant.
-[7] He mocked Israel.
-Then Jonathan the son of Shimea, David’s brother, killed him.
-[8] These were descended from the giant in Gath.
-And they fell by the hand of David and by the hand of his servants.
+He had 24 fingers and toes, six on each hand and six on each foot.
+He too was a descendant of the giant.
+[7] He made fun of Israel.
+So Jonathan, the son of David’s brother Shimea, killed him.
+[8] These men were descendants of the giant in Gath.
+They were killed by David and his servants.
 
 > **What does this mean?**
 > The “giants” (in Hebrew “Rapha”) were a family of especially tall warriors among the Philistines. Goliath, whom David had defeated, belonged to them (1 Samuel 17).

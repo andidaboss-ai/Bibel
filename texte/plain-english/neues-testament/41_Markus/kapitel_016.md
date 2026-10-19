@@ -111,7 +111,7 @@ and they will get well.”
 > Verse 15: The good news is meant for all people in the whole world.
 > Verse 16: A serious word. Christians understand it in different ways. Many stress: God alone judges people. God is merciful and wants all people to be saved (1 Timothy 2:4). No one should use this verse to frighten or condemn other people.
 > “New languages” reminds us of Pentecost (Acts 2:4). Acts 28:3–6 tells how Paul was bitten by a snake and was not harmed.
-> Very important: Verse 18 is not a call to test God! Some groups have handled poisonous snakes or drunk poison to prove their faith. People have died doing this. In the wilderness Jesus himself said: “You shall not test the Lord your God” (Matthew 4:7). That means: You should not put God to the test. Please never do anything like this. In case of poisoning, call your local emergency number (911 in the US) at once, or Poison Control at 1-800-222-1222 in the US. In the UK, call 999 or NHS 111.
+> Very important: Verse 18 is not a call to test God! Some groups have handled poisonous snakes or drunk poison to prove their faith. People have died doing this. In the wilderness Jesus himself said: “Do not test the Lord your God” (Matthew 4:7). That means: You should not put God to the test. Please never do anything like this. In case of poisoning, call your local emergency number (911 in the US) at once, or Poison Control at 1-800-222-1222 in the US. In the UK, call 999 or NHS 111.
 > Whoever is sick may pray and should go to the doctor. Both belong together. Whoever does not get well has not believed too little.
 
 ---

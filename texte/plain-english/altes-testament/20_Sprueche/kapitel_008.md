@@ -94,7 +94,7 @@ My delight was with the human race.
 > This is one of the most beautiful texts in the book. Wisdom tells: Before there were mountains, seas and earth, I was already with God. I was there when he created everything.
 > Verse 30: Wisdom was like a master builder at God’s side. Or, as the Hebrew word can also be translated: like a child who plays before God and is full of joy. Creation is full of joy.
 > Verse 31: Wisdom especially likes to be with people.
-> Jews often see wisdom as the Torah, God’s teaching, which was with God even before the world. Christians see in this text a pointer to Christ. The Gospel of John says: “In the beginning was the Word. And the Word was with God. … All things were made through him” (John 1:1–3). Paul calls Christ “the wisdom of God” (1 Corinthians 1:24).
+> Jews often see wisdom as the Torah, God’s teaching, which was with God even before the world. Christians see in this text a pointer to Christ. The Gospel of John says: “In the beginning was the Word. The Word was with God. … Everything was made through him” (John 1:1–3). Paul calls Christ “the wisdom of God” (1 Corinthians 1:24).
 
 ---
 

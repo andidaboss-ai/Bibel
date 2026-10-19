@@ -5,33 +5,34 @@
 
 ## Jonathan stands up for David (Verses 1–7)
 
-[1] Saul told his son Jonathan and all his servants
-that they should kill David.
-But Jonathan, Saul’s son, liked David very much.
+[1] Saul spoke to his son Jonathan and to all his servants.
+He told them to kill David.
+But Saul’s son Jonathan liked David very much.
 [2] Jonathan told David,
 “My father Saul wants to kill you.
 So please be careful tomorrow morning.
-Stay in a secret place and hide.
+Go to a secret place and hide there.
 [3] I will go out and stand beside my father
-in the field where you are.
-Then I will talk with my father about you.
-And if I find out anything, I will tell you.”
-[4] Jonathan spoke well of David to his father Saul and said to him,
-“The king should not sin against his servant David.
-For he has not sinned against you,
-and what he has done has been very good for you.
-[5] He risked his life and struck down the Philistine,
-and the LORD brought about a great victory for all Israel.
-You saw it and were glad.
-Why then do you want to sin against innocent blood
-and kill David without a reason?”
-[6] Saul listened to the voice of Jonathan.
-And Saul swore,
-“As the LORD lives, he shall not be put to death.”
-[7] Jonathan called David
-and told him all these words.
-Then Jonathan brought David to Saul,
-and he was with him as before.
+in the field where you are hiding.
+I will talk with my father about you.
+If I find out anything, I will tell you.”
+[4] Jonathan spoke well of David to his father Saul.
+He said to him,
+“The king should not do wrong to his servant David.
+David has not done anything wrong to you.
+Everything he has done has been very good for you.
+[5] He risked his life and killed the Philistine.
+And the LORD gave a great victory to all Israel.
+You saw it, and you were glad.
+So why do you want to do wrong and kill an innocent man?
+Why do you want to kill David for no reason?”
+[6] Saul listened to Jonathan.
+Saul made a promise.
+He said, “As surely as the LORD lives, David will not be put to death.”
+[7] Then Jonathan called David
+and told him everything.
+Jonathan brought David to Saul,
+and David served Saul as before.
 
 > **What does this mean?**
 > Now Saul openly orders that David be killed. Even to his own son.
@@ -45,35 +46,38 @@ and he was with him as before.
 
 [8] There was war again.
 David went out and fought against the Philistines.
-He defeated them badly, and they fled from him.
-[9] Then an evil spirit from the LORD came on Saul
-as he was sitting in his house with his spear in his hand.
-And David was playing music with his hand.
+He killed many of them, and the rest ran away from him.
+[9] Then an evil spirit from the LORD came on Saul.
+Saul was sitting in his house with his spear in his hand.
+David was playing music with his hands.
 [10] Saul tried to pin David to the wall with the spear.
-But he got out of Saul’s way,
-and the spear stuck in the wall.
-David fled and escaped that night.
+But David slipped away from Saul.
+So the spear stuck in the wall.
+That night David ran away and escaped.
 
-[11] Saul sent messengers to David’s house
-to watch it and to kill him in the morning.
-Michal, David’s wife, told him,
-“If you don’t save your life tonight,
-tomorrow you will be killed.”
+[11] Saul sent men to David’s house.
+They were to watch the house and kill David in the morning.
+But Michal, David’s wife, warned him.
+She said,
+“If you don’t run for your life tonight,
+you will be killed tomorrow.”
 [12] So Michal let David down through the window.
 He went away, fled, and escaped.
-[13] Michal took the teraphim and laid it in the bed.
+[13] Then Michal took the teraphim and laid it in the bed.
+Teraphim are idols that people kept in their homes.
 She put a pillow of goats’ hair at its head
 and covered it with clothes.
-[14] When Saul sent messengers to get David,
-she said, “He is sick.”
-[15] Saul sent the messengers back to see David and said,
-“Bring him up to me in the bed, so that I can kill him.”
-[16] When the messengers came in,
-there was the teraphim in the bed,
+[14] Saul sent men to take David away.
+But Michal said, “He is sick.”
+[15] Then Saul sent the men back to see David.
+He told them,
+“Bring him to me in his bed, so that I can kill him.”
+[16] The men went into the room.
+But there was only the teraphim in the bed,
 with the pillow of goats’ hair at its head.
 [17] Saul said to Michal,
-“Why have you tricked me like this
-and let my enemy go, so that he has escaped?”
+“Why have you tricked me like this?
+You let my enemy go, and he has escaped!”
 Michal answered Saul,
 “He said to me,
 ‘Let me go! Why should I kill you?’”
@@ -90,34 +94,34 @@ Michal answered Saul,
 
 ## The Spirit of God stops Saul (Verses 18–24)
 
-[18] David fled and escaped.
-He came to Samuel at Ramah
-and told him everything Saul had done to him.
-He and Samuel went and stayed in Naioth.
-[19] Saul was told,
-“Look, David is at Naioth in Ramah.”
-[20] Saul sent messengers to seize David.
-When they saw the group of prophets prophesying,
-and Samuel standing there as their leader,
-the Spirit of God came on Saul’s messengers,
-and they also prophesied.
-[21] When Saul was told,
-he sent other messengers,
-and they also prophesied.
-Saul sent messengers a third time,
-and they also prophesied.
-[22] Then he went to Ramah himself.
-He came to the great well that is in Secu
-and asked,
+[18] So David ran away and escaped.
+He came to Samuel at Ramah.
+He told Samuel everything Saul had done to him.
+Then David and Samuel went to Naioth and stayed there.
+[19] Someone told Saul,
+“David is at Naioth in Ramah.”
+[20] So Saul sent men to capture David.
+The men saw a group of prophets who were prophesying.
+Samuel stood there as their leader.
+Then the Spirit of God came on Saul’s men,
+and they began to prophesy too.
+[21] Saul heard about it.
+So he sent other men,
+and they also began to prophesy.
+Saul sent men a third time,
+and they also began to prophesy.
+[22] Then Saul went to Ramah himself.
+He came to the big well in Secu.
+He asked,
 “Where are Samuel and David?”
 Someone said,
-“Look, they are at Naioth in Ramah.”
-[23] He went there, to Naioth in Ramah.
+“They are at Naioth in Ramah.”
+[23] So Saul went to Naioth in Ramah.
 Then the Spirit of God came on him too.
-He kept walking and prophesying until he came to Naioth in Ramah.
-[24] He too took off his clothes.
-He too prophesied before Samuel
-and lay there naked all that day and all that night.
+He kept on prophesying as he walked, until he came to Naioth in Ramah.
+[24] He also took off his clothes.
+He also prophesied in front of Samuel.
+He lay there naked all that day and all that night.
 That is why people say,
 “Is Saul also among the prophets?”
 

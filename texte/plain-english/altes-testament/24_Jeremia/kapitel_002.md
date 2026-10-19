@@ -80,26 +80,28 @@ They cannot hold water.
 ## What do you gain? (Verses 14–19)
 
 [14] Is Israel a slave?
-Was he born as a slave?
-Why has he become a captive?
-[15] The young lions have roared at him
-and raised their voices.
-They have made his land a waste.
-His cities are burned up, with no one living in them.
+Was he born a slave?
+Then why has he become a prisoner?
+[15] Young lions have roared at him.
+They have roared loudly.
+They have turned his land into a wasteland.
+His cities are burned down.
+No one lives in them.
 [16] The people of Memphis and Tahpanhes
 have also broken the crown of your head.
-[17] “Haven’t you brought this on yourself,
-because you have left the LORD your God,
-when he led you on the way?
-[18] Now what do you gain by going to Egypt,
-to drink the waters of the Shihor?
-Or why do you go on the way to Assyria,
-to drink the waters of the River?
-[19] “Your own evil will punish you,
-and your turning away will correct you.
-So know and see that it is an evil and bitter thing
-that you have left the LORD your God,
-and that you have no fear of me,” says the Lord, the LORD of Armies.
+That means: They have hurt you badly.
+[17] “You brought this on yourself, didn’t you?
+You left the LORD your God,
+while he was leading you on the way.
+[18] Now what do you gain by going to Egypt
+to drink the water of the Shihor?
+Why do you go on the road to Assyria
+to drink the water of the River?
+[19] “Your own evil will punish you.
+Your turning away from me will correct you.
+So know it and see it:
+It is evil and bitter that you have left the LORD your God.
+It is evil and bitter that you do not fear me,” says the Lord, the LORD of Armies.
 
 > **What does this mean?**
 > Verses 14–16: Israel was free, but now it is being robbed by enemies, as if by lions. Memphis and Tahpanhes are cities in Egypt.
@@ -110,43 +112,45 @@ and that you have no fear of me,” says the Lord, the LORD of Armies.
 
 ## Like a wild vine (Verses 20–28)
 
-[20] “For long ago I broke your yoke
-and tore off your chains.
-You said, ‘I will not serve.’
-For on every high hill and under every green tree
-you bowed down, acting like a prostitute.
-[21] Yet I had planted you as a noble vine,
-from pure and good seed.
-How then have you turned into the spoiled branches
-of a foreign vine for me?
-[22] For even if you wash yourself with lye
-and use a lot of soap,
-your guilt is still marked in front of me,” says the Lord GOD.
+[20] “Long ago I broke the yoke off your neck.
+I tore off your chains.
+But you said, ‘I will not serve you.’
+On every high hill and under every green tree
+you bowed down and acted like a prostitute.
+[21] I had planted you as a fine vine.
+I planted you from pure and good seed.
+So how did you turn into the wild, spoiled branches
+of a foreign vine?
+[22] You may wash yourself with lye.
+You may use a lot of soap.
+But your guilt is still a stain in front of me,” says the Lord GOD.
+Lye is a strong cleaning powder.
 [23] “How can you say, ‘I am not unclean.
 I have not followed the Baals’?
-Look at your way in the valley.
-Know what you have done.
-You are a fast young camel running here and there,
-[24] a wild donkey used to the wilderness,
-that sniffs the wind in her desire.
-When she is in heat, who can turn her away?
-All who look for her will not need to tire themselves.
-In her month, they will find her.
-[25] “Keep your feet from going bare,
-and your throat from thirst.
+Look at what you did in the valley.
+Admit what you have done.
+You are like a fast young camel
+that runs this way and that way.
+[24] You are like a wild donkey that is used to the wilderness.
+She sniffs the wind in her strong desire.
+When she is in heat, who can hold her back?
+All who look for her do not need to wear themselves out.
+In her season, they will find her.
+[25] “Keep your feet from going bare.
+Keep your throat from getting dry.
 But you said, ‘It is no use.
-No, for I have loved strangers, and I will follow them.’
-[26] As the thief is ashamed when he is caught,
-so the house of Israel is ashamed:
-they, their kings, their princes, their priests, and their prophets.
-[27] They say to a piece of wood, ‘You are my father,’
-and to a stone, ‘You have given birth to me.’
-For they have turned their back to me, and not their face.
-But in the time of their trouble they will say,
+No! I love strangers, and I will follow them.’
+[26] A thief is ashamed when he is caught.
+In the same way, the house of Israel is ashamed:
+they, their kings, their princes, their priests and their prophets.
+[27] They say to a piece of wood, ‘You are my father.’
+They say to a stone, ‘You gave birth to me.’
+They have turned their backs to me, not their faces.
+But when they are in trouble, they will say,
 ‘Get up and save us!’
-[28] “But where are your gods that you have made for yourselves?
-Let them get up, if they can save you in the time of your trouble.
-For you have as many gods as you have towns, Judah.
+[28] “But where are the gods you made for yourselves?
+Let them get up, if they can save you when you are in trouble!
+Judah, you have as many gods as you have towns.
 
 > **What does this mean?**
 > Verse 20: The Bible often describes idol worship with the picture of unfaithfulness in marriage or prostitution. What is meant is: The people have become unfaithful to God. It is a picture of the relationship with God, not a judgment on women or on people in prostitution. Foreign gods were worshiped “on every high hill and under every green tree.”
@@ -161,36 +165,36 @@ For you have as many gods as you have towns, Judah.
 ## I have not sinned? (Verses 29–37)
 
 [29] “Why do you argue with me?
-You have all rebelled against me,” says the LORD.
-[30] “I have struck your children for nothing.
-They accepted no correction.
-Your own sword has eaten up your prophets,
-like a destroying lion.
-[31] You people of this generation, think about the LORD’s word.
-Have I been a wilderness to Israel?
-Or a land of thick darkness?
-Why do my people say, ‘We have broken loose.
-We will not come to you anymore’?
-[32] “Can a young woman forget her jewelry,
-or a bride her wedding clothes?
-Yet my people have forgotten me
-for days without number.
-[33] How well you prepare your way to look for love!
-So you have even taught the wicked women your ways.
-[34] Also, the blood of innocent poor people
-is found on the edges of your clothes.
-You didn’t catch them breaking in,
-but it is because of all these things.
-[35] “Yet you said, ‘I am innocent.
+All of you have turned against me,” says the LORD.
+[30] “I punished your children, but it was no use.
+They did not accept correction.
+Your own sword has killed your prophets,
+like a lion that tears its prey apart.
+[31] People of today, pay attention to the word of the LORD!
+Have I been like a wilderness to Israel?
+Have I been like a land of deep darkness?
+Why do my people say, ‘We are free now.
+We will never come back to you’?
+[32] “Can a young woman forget her jewelry?
+Can a bride forget her wedding clothes?
+But my people have forgotten me
+for more days than anyone can count.
+[33] You know so well how to find your way to lovers!
+You have even taught your ways to wicked women.
+[34] And on the edges of your clothes
+there is the blood of innocent, poor people.
+You did not catch them breaking into your house.
+But it is because of all these things.
+[35] “Still you say, ‘I am innocent.
 Surely his anger has turned away from me.’
 “Look, I will judge you,
 because you say, ‘I have not sinned.’
-[36] Why do you run around so much, changing your ways?
+[36] Why do you keep running around and changing your ways?
 You will be ashamed of Egypt too,
-as you were ashamed of Assyria.
-[37] You will also leave that place with your hands on your head.
-For the LORD has rejected those you trust in,
-and you won’t succeed with them.
+just as you were ashamed of Assyria.
+[37] You will leave that place too, with your hands on your head.
+The LORD has rejected those you trust.
+They will not help you succeed.
 
 > **What does this mean?**
 > Verse 30: The people even killed prophets who called them to turn back.

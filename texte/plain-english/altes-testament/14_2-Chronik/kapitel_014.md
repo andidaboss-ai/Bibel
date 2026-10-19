@@ -5,17 +5,18 @@
 
 ## Asa removes the idols (Verses 1–5)
 
-[1] So Abijah died and joined his fathers,
-and they buried him in David’s city.
-And Asa his son reigned in his place.
-In his days the land was quiet for ten years.
+[1] So Abijah died and joined his ancestors.
+They buried him in the City of David.
+And his son Asa became king in his place.
+While Asa was king, the land had peace for ten years.
 [2] Asa did what was good and right in the eyes of the LORD his God.
-[3] For he took away the foreign altars and the high places.
-He broke down the stone pillars and cut down the Asherah poles.
-[4] He commanded Judah to seek the LORD, the God of their fathers,
-and to obey his law and his commands.
-[5] He also took away the high places and the sun images out of all the cities of Judah.
-And the kingdom was quiet under him.
+[3] He removed the altars of foreign gods and the high places.
+He broke down the stone pillars.
+He cut down the Asherah poles.
+[4] He commanded the people of Judah to seek the LORD, the God of their ancestors.
+He commanded them to obey the LORD’s law and his commands.
+[5] He also removed the high places and the sun images from all the cities of Judah.
+And the kingdom had peace while he ruled.
 
 > **What does this mean?**
 > In some Bibles verse 1 of this chapter is still chapter 13:23. That is why the verses in chapter 14 are shifted by one there: verse 2 here is verse 1 there, and so on.
@@ -28,19 +29,21 @@ And the kingdom was quiet under him.
 ## Rest and building (Verses 6–8)
 
 [6] He built fortified cities in Judah,
-for the land was quiet.
-He had no war in those years,
+because the land had peace.
+There was no war in those years,
 because the LORD had given him rest.
-[7] For he said to Judah,
-“Let’s build these cities and put walls around them,
-with towers, gates, and bars.
+[7] Asa said to the people of Judah,
+“Let’s build up these cities.
+Let’s put walls around them, with towers, gates, and bars.
 The land is still ours,
 because we have sought the LORD our God.
 We have sought him, and he has given us rest on every side.”
-So they built, and things went well for them.
-[8] Asa had an army of 300,000 men from Judah, who carried large shields and spears,
-and 280,000 from Benjamin, who carried small shields and shot with bows.
-All these were mighty men of courage.
+So they built, and everything went well for them.
+[8] Asa had an army of 300,000 men from Judah.
+They carried large shields and spears.
+He also had 280,000 men from Benjamin.
+They carried small shields and shot with bows.
+All of them were strong and brave soldiers.
 
 > **What does this mean?**
 > Asa uses the time of peace wisely. He builds while there is rest.
@@ -51,32 +54,33 @@ All these were mighty men of courage.
 
 ## Zerah the Ethiopian attacks (Verses 9–15)
 
-[9] Zerah the Ethiopian came out against them
-with an army of a million soldiers and 300 chariots.
-He came to Mareshah.
-[10] Then Asa went out to meet him.
-They lined up for battle in the valley of Zephathah at Mareshah.
-[11] Asa cried out to the LORD his God and said,
-“LORD, there is no one besides you to help,
-whether someone is mighty or has no strength.
-Help us, LORD our God,
-for we rely on you,
-and in your name we have come against this great crowd.
+[9] Zerah the Ethiopian came out to fight against them.
+He had an army of a million soldiers and 300 chariots.
+He came as far as Mareshah.
+[10] Asa went out to meet him.
+They lined up for battle in the Valley of Zephathah near Mareshah.
+[11] Asa cried out to the LORD his God.
+He said,
+“LORD, no one can help like you can,
+whether someone is strong or has no strength.
+Help us, LORD our God!
+We trust in you.
+In your name we have come out against this huge army.
 LORD, you are our God.
 Don’t let any human being win against you.”
-[12] So the LORD struck the Ethiopians before Asa and before Judah,
-and the Ethiopians fled.
-[13] Asa and the people who were with him chased them as far as Gerar.
-So many of the Ethiopians fell that none of them were left alive.
-For they were destroyed before the LORD and before his army.
-Judah’s army carried away very much plunder.
-[14] They struck all the cities around Gerar,
-for the fear of the LORD came on them.
-They plundered all the cities,
-for there was much plunder in them.
-[15] They also struck the tents of those who had livestock.
-They carried away very many sheep and camels,
-and then they returned to Jerusalem.
+[12] So the LORD struck down the Ethiopians in front of Asa and Judah.
+And the Ethiopians ran away.
+[13] Asa and his army chased them as far as Gerar.
+So many Ethiopians were killed that they could not recover.
+They were crushed before the LORD and his army.
+The army of Judah carried away a great amount of goods.
+[14] They attacked all the cities around Gerar.
+The people there were terrified of the LORD.
+Judah’s army robbed all those cities,
+because there were many valuable things in them.
+[15] They also attacked the tents of the herdsmen.
+They took a great number of sheep and camels.
+Then they went back to Jerusalem.
 
 > **What does this mean?**
 > The English source text says “the Ethiopian”. This means a man from Cush, the area south of Egypt. It is not certain who exactly Zerah was. Maybe he was an army commander in the service of Egypt, or he led tribes from the area of Gerar in the south.

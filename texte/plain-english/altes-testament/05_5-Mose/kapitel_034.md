@@ -74,7 +74,7 @@ as Moses did in front of all Israel.
 > **What does this mean?**
 > That is the last word about Moses: There was no prophet like him. No one else knew God as closely, “face to face.”
 > Who wrote these last verses? Moses can hardly have described his own death. Jewish scholars already said in the Talmud: Joshua wrote the last eight verses. Others think that Moses wrote them in tears, because God dictated them to him. Many scholars today think that the five books of Moses grew over a longer period of time.
-> In Chapter 18 Moses had promised: God will send a prophet like me. At the end of the book it says: So far no one has come. That is why Israel waited for this prophet. Christians believe that Jesus is this prophet (Acts 3:22). The Gospel of John says: “For the law was given through Moses. Grace and truth became real through Jesus Christ” (John 1:17).
+> In Chapter 18 Moses had promised: God will send a prophet like me. At the end of the book it says: So far no one has come. That is why Israel waited for this prophet. Christians believe that Jesus is this prophet (Acts 3:22). The Gospel of John says: “The law was given through Moses. Grace and truth came through Jesus Christ” (John 1:17).
 
 ---
 

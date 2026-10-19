@@ -82,7 +82,7 @@ his teeth white with milk.
 > Judah receives the greatest blessing. He has changed: he admitted his guilt with Tamar and offered himself for Benjamin. Now he becomes the leader among the brothers.
 > The lion is a picture of strength and royal dignity. To this day, the lion is the symbol on the coat of arms of Jerusalem.
 > A scepter is a staff that kings carry as a sign of their power. Later King David came from the tribe of Judah, and so did all the kings in Jerusalem.
-> “Until he comes to whom it belongs” – this sentence is hard to translate. Very early on, Jews and Christians related it to the Messiah, the coming king whom God will send. Christians see in it a pointer to Jesus. In the book of Revelation, Jesus is called “the Lion who is of the tribe of Judah” (Revelation 5:5).
+> “Until he comes to whom it belongs” – this sentence is hard to translate. Very early on, Jews and Christians related it to the Messiah, the coming king whom God will send. Christians see in it a pointer to Jesus. In the book of Revelation, Jesus is called “the Lion from the tribe of Judah” (Revelation 5:5).
 > Verses 11 and 12 paint a picture of unbelievable plenty: so much wine that people tie donkeys to fine vines and wash their clothes in it.
 
 ---

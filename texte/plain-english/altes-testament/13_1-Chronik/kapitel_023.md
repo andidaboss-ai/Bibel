@@ -5,23 +5,25 @@
 
 ## David counts the Levites (Verses 1–6)
 
-[1] Now David was old and full of days.
-And he made Solomon his son king over Israel.
-[2] He gathered together all the princes of Israel, with the priests and the Levites.
-[3] The Levites were counted from thirty years old and upward.
-Their number, head by head, man by man, was 38,000.
+[1] David was now old.
+He had lived a long and full life.
+He made his son Solomon king over Israel.
+[2] He called together all the leaders of Israel,
+and also the priests and the Levites.
+[3] The Levites who were 30 years old or older were counted.
+There were 38,000 men in all.
 [4] David said,
-“Of these, 24,000 are to oversee the work of the LORD’s house,
-6,000 are to be officers and judges,
-[5] 4,000 are to be doorkeepers,
-and 4,000 are to praise the LORD with the instruments
-which I made for giving praise.”
-[6] David divided them into divisions according to the sons of Levi:
-Gershon, Kohath, and Merari.
+“24,000 of them will be in charge of the work of the LORD’s house.
+6,000 will be officials and judges.
+[5] 4,000 will be doorkeepers.
+And 4,000 will praise the LORD
+with the instruments I made for praising him.”
+[6] David divided them into groups
+by the sons of Levi: Gershon, Kohath, and Merari.
 
 > **What does this mean?**
 > In chapters 23 to 27 David puts everything in order for the temple service: the Levites, the priests, the singers, the doorkeepers and the officials. For Chronicles this is very important: worship should be orderly and well organized.
-> “Full of days” means: he had a long, full life.
+> The Bible says that David was “full of days.” That means: he had a long, full life.
 > The Levites had different tasks: oversight of the work in the temple, administration and judging in the land, guarding the gates, and music.
 > David also made or designed musical instruments himself. After all, he was a musician himself.
 
@@ -29,19 +31,21 @@ Gershon, Kohath, and Merari.
 
 ## The families of Gershon (Verses 7–11)
 
-[7] Of the Gershonites:
+[7] From the Gershonites:
 Ladan and Shimei.
 [8] The sons of Ladan:
-Jehiel the chief, Zetham, and Joel, three.
+Jehiel the leader, Zetham, and Joel.
+These were three.
 [9] The sons of Shimei:
-Shelomoth, Haziel, and Haran, three.
-These were the heads of the fathers’ households of Ladan.
+Shelomoth, Haziel, and Haran.
+These were three.
+They were the heads of the families of Ladan.
 [10] The sons of Shimei:
 Jahath, Zina, Jeush, and Beriah.
 These four were the sons of Shimei.
-[11] Jahath was the chief, and Zizah the second.
-But Jeush and Beriah didn’t have many sons.
-So they were counted together as one fathers’ house.
+[11] Jahath was the leader, and Zizah was second.
+Jeush and Beriah did not have many sons.
+So they were counted together as one family.
 
 > **What does this mean?**
 > The families were divided by the number of men. Small families were put together so that the divisions were about the same size.
@@ -53,33 +57,34 @@ So they were counted together as one fathers’ house.
 ## The families of Kohath (Verses 12–20)
 
 [12] The sons of Kohath:
-Amram, Izhar, Hebron, and Uzziel, four.
+Amram, Izhar, Hebron, and Uzziel.
+These were four.
 [13] The sons of Amram:
 Aaron and Moses.
-Aaron was set apart
-to make the most holy things holy, he and his sons forever,
-to burn incense before the LORD,
-to serve him,
-and to bless in his name forever.
-[14] But as for Moses the man of God,
-his sons were named among the tribe of Levi.
+Aaron was set apart to take care of the most holy things.
+He and his descendants were to do this forever.
+They were to burn incense before the LORD and to serve him.
+And they were to bless the people in his name forever.
+[14] Moses was the man of God.
+His sons were counted as part of the tribe of Levi.
 [15] The sons of Moses:
 Gershom and Eliezer.
 [16] The sons of Gershom:
-Shebuel the chief.
-[17] The son of Eliezer was Rehabiah the chief.
-Eliezer had no other sons,
-but the sons of Rehabiah were very many.
+Shebuel the leader.
+[17] The son of Eliezer:
+Rehabiah the leader.
+Eliezer had no other sons.
+But Rehabiah had very many sons.
 [18] The son of Izhar:
-Shelomith the chief.
+Shelomith the leader.
 [19] The sons of Hebron:
-Jeriah the chief,
-Amariah the second,
-Jahaziel the third,
-and Jekameam the fourth.
+Jeriah was the leader,
+Amariah was second,
+Jahaziel was third,
+and Jekameam was fourth.
 [20] The sons of Uzziel:
-Micah the chief,
-and Isshiah the second.
+Micah was the leader,
+and Isshiah was second.
 
 > **What does this mean?**
 > Aaron and his descendants were priests. They had special tasks: the most holy things, the incense offering, and the blessing in God’s name. The “blessing of Aaron” is still spoken today: “The LORD bless you and keep you …” (Numbers 6:24–26).
@@ -93,10 +98,12 @@ and Isshiah the second.
 Mahli and Mushi.
 The sons of Mahli:
 Eleazar and Kish.
-[22] Eleazar died and had no sons, but only daughters.
-And their relatives, the sons of Kish, took them as wives.
+[22] Eleazar died without sons.
+He had only daughters.
+Their relatives, the sons of Kish, married them.
 [23] The sons of Mushi:
-Mahli, Eder, and Jeremoth, three.
+Mahli, Eder, and Jeremoth.
+These were three.
 
 > **What does this mean?**
 > The daughters of Eleazar married their cousins. So the inheritance stayed in the family, as it is ruled in Numbers 36.
@@ -105,36 +112,38 @@ Mahli, Eder, and Jeremoth, three.
 
 ## New tasks for the Levites (Verses 24–32)
 
-[24] These were the sons of Levi by their fathers’ houses,
-the heads of the fathers’ houses, as they were counted one by one,
-by the number of names, head by head,
-who did the work for the service of the LORD’s house,
-from twenty years old and upward.
-[25] For David said,
-“The LORD, the God of Israel, has given rest to his people,
-and he lives in Jerusalem forever.
-[26] Also, the Levites will no longer need to carry the tabernacle and all its vessels for its service.”
-[27] For by the last words of David the sons of Levi were counted,
-from twenty years old and upward.
-[28] For their duty was to help the sons of Aaron in the service of the LORD’s house:
-in the courts, in the rooms,
-in the purifying of all holy things,
-in the work of the service of God’s house;
-[29] also with the show bread,
-with the fine flour for a grain offering,
-whether of unleavened wafers,
-or of what is baked in the pan,
-or of what is soaked,
-and with all measurements of quantity and size;
-[30] and to stand every morning to thank and praise the LORD,
-and in the same way in the evening;
-[31] and to offer all burnt offerings to the LORD
-on the Sabbaths, on the new moons, and on the set feasts,
-in the number that was ordered for them,
-continually before the LORD;
-[32] and that they should keep the duty of the Tent of Meeting,
-the duty of the holy place,
-and the duty of the sons of Aaron their brothers for the service of the LORD’s house.
+[24] These were the descendants of Levi, listed by their families.
+They were the heads of the families.
+Each man was counted and listed by name.
+They did the work for the service of the LORD’s house.
+They were 20 years old or older.
+[25] For David had said,
+“The LORD, the God of Israel, has given his people rest.
+He lives in Jerusalem forever.
+[26] So the Levites no longer need to carry the tabernacle
+or any of the objects used in its service.”
+[27] By David’s last orders,
+the Levites who were 20 years old or older were counted.
+[28] Their job was to help the descendants of Aaron
+with the service in the LORD’s house.
+They worked in the courtyards and in the rooms.
+They made all the holy things clean.
+They did the work for the service of God’s house.
+[29] They also took care of the showbread
+and the fine flour for the grain offerings.
+That included the thin breads without yeast,
+the things baked in a pan,
+and the things that were soaked.
+They also took care of all the measures of amount and size.
+[30] Every morning they stood to thank and praise the LORD.
+They did the same every evening.
+[31] They offered all the burnt offerings to the LORD
+on the Sabbaths, at the new moon festivals, and at the set feasts.
+They offered the number that was required for each one.
+They did this always before the LORD.
+[32] So they took care of the Tent of Meeting and the holy place.
+And they helped their relatives, the descendants of Aaron,
+with the service of the LORD’s house.
 
 > **What does this mean?**
 > In earlier times the Levites had to carry the tabernacle through the wilderness. Now, with the fixed temple, they need new tasks. David gives their service a new order: cleaning, baking bread, checking measures, music and prayer.
